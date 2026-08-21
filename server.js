@@ -14,6 +14,7 @@ const rateLimit = require("express-rate-limit");
 const OpenAI = require("openai");
 
 const app = express();
+app.set("trust proxy", 1); // Render stă în spatele unui proxy — fără asta, toate cererile ar putea fi confundate ca venind de la aceeași adresă, declanșând limitarea de mai jos prea devreme
 const PORT = process.env.PORT || 3000;
 
 if (!process.env.OPENAI_API_KEY) {
@@ -36,8 +37,8 @@ app.use(express.static(path.join(__dirname, "public")));
 // Protecție de bază: limitează câte cereri TTS poate face o singură persoană/IP,
 // ca să nu se golească bugetul OpenAI dacă serverul e găsit de altcineva.
 const ttsLimiter = rateLimit({
-  windowMs: 60 * 60 * 1000, // 1 oră
-  max: 100, // maximum 100 de versete citite pe oră, per persoană — generos pentru uz propriu
+  windowMs: 15 * 60 * 1000, // 15 minute
+  max: 200, // maximum 200 de cereri la 15 minute, per persoană — generos pentru uz propriu + testare
   standardHeaders: true,
   legacyHeaders: false,
   message: { error: "Prea multe cereri de voce într-un timp scurt. Încearcă din nou peste câteva minute." }
