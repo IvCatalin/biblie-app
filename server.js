@@ -10,7 +10,6 @@ require("dotenv").config();
 const path = require("path");
 const express = require("express");
 const cors = require("cors");
-const rateLimit = require("express-rate-limit");
 const OpenAI = require("openai");
 
 const app = express();
@@ -34,16 +33,6 @@ app.use(express.json({ limit: "1mb" }));
 // pagina se accesează la adresa de bază (ex. https://numele-tau.onrender.com/biblie-demo.html)
 app.use(express.static(path.join(__dirname, "public")));
 
-// Protecție de bază: limitează câte cereri TTS poate face o singură persoană/IP,
-// ca să nu se golească bugetul OpenAI dacă serverul e găsit de altcineva.
-const ttsLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minute
-  max: 200, // maximum 200 de cereri la 15 minute, per persoană — generos pentru uz propriu + testare
-  standardHeaders: true,
-  legacyHeaders: false,
-  message: { error: "Prea multe cereri de voce într-un timp scurt. Încearcă din nou peste câteva minute." }
-});
-
 // Presetare de voce — un singur profil (masculin, Cedar). Clientul nu alege
 // liber ID-ul vocii/modelul, doar declanșează generarea.
 const VOICE_PRESETS = {
@@ -64,7 +53,7 @@ const NARRATOR_INSTRUCTIONS =
 
 const MAX_TEXT_LENGTH = 2000; // un verset/pasaj rezonabil; blochează abuz accidental
 
-app.post("/api/tts", ttsLimiter, async (req, res) => {
+app.post("/api/tts", async (req, res) => {
   try {
     const { text, voiceProfile } = req.body || {};
 
