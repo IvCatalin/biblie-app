@@ -1,12 +1,16 @@
 // =====================================================================
-// Server minim Express — generează audio TTS (OpenAI) pentru aplicația
-// Biblie. Cheia OPENAI_API_KEY NU ajunge niciodată în browser — rămâne
-// doar aici, pe server, citită din variabilele de mediu.
+// Server Express — servește ÎNTREAGA aplicație Biblie (pagina, versetele)
+// ȘI generează audio TTS (OpenAI). Un singur server, o singură adresă,
+// funcționează identic pe calculator sau pe telefon, odată găzduit.
+// Cheia OPENAI_API_KEY NU ajunge niciodată în browser — rămâne doar aici,
+// pe server, citită din variabilele de mediu.
 // =====================================================================
 
 require("dotenv").config();
+const path = require("path");
 const express = require("express");
 const cors = require("cors");
+const rateLimit = require("express-rate-limit");
 const OpenAI = require("openai");
 
 const app = express();
@@ -15,16 +19,29 @@ const PORT = process.env.PORT || 3000;
 if (!process.env.OPENAI_API_KEY) {
   console.error(
     "\n[EROARE] Lipsește OPENAI_API_KEY din variabilele de mediu.\n" +
-    "Creează un fișier .env (copiază .env.example) și pune cheia ta acolo.\n"
+    "Local: creează un fișier .env (copiază .env.example) și pune cheia ta acolo.\n" +
+    "Găzduit (Render etc.): adaugă OPENAI_API_KEY în secțiunea Environment din dashboard.\n"
   );
 }
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-// CORS permisiv — aplicația e locală, cu un singur utilizator (tu).
-// Dacă găzduiești public mai târziu, restrânge origin la domeniul tău.
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
+
+// Servește aplicația (biblie-demo.html, genesis-N.js) direct din acest server —
+// pagina se accesează la adresa de bază (ex. https://numele-tau.onrender.com/biblie-demo.html)
+app.use(express.static(path.join(__dirname, "public")));
+
+// Protecție de bază: limitează câte cereri TTS poate face o singură persoană/IP,
+// ca să nu se golească bugetul OpenAI dacă serverul e găsit de altcineva.
+const ttsLimiter = rateLimit({
+  windowMs: 60 * 60 * 1000, // 1 oră
+  max: 100, // maximum 100 de versete citite pe oră, per persoană — generos pentru uz propriu
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: "Prea multe cereri de voce într-un timp scurt. Încearcă din nou peste câteva minute." }
+});
 
 // Presetare de voce — un singur profil (masculin, Cedar). Clientul nu alege
 // liber ID-ul vocii/modelul, doar declanșează generarea.
@@ -46,7 +63,7 @@ const NARRATOR_INSTRUCTIONS =
 
 const MAX_TEXT_LENGTH = 2000; // un verset/pasaj rezonabil; blochează abuz accidental
 
-app.post("/api/tts", async (req, res) => {
+app.post("/api/tts", ttsLimiter, async (req, res) => {
   try {
     const { text, voiceProfile } = req.body || {};
 
@@ -90,6 +107,7 @@ app.get("/api/health", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`\nServer TTS pornit pe http://localhost:${PORT}`);
-  console.log(`Verifică rapid: http://localhost:${PORT}/api/health\n`);
+  console.log(`\nServer pornit pe portul ${PORT}`);
+  console.log(`Aplicația: http://localhost:${PORT}/biblie-demo.html`);
+  console.log(`Verificare rapidă: http://localhost:${PORT}/api/health\n`);
 });
