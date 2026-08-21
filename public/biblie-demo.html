@@ -1,0 +1,2617 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#faf9f6">
+<title>Biblie — Demo interactiv</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&family=Noto+Sans+Hebrew:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --parchment: #faf9f6;
+    --parchment-dark: #f0eee9;
+    --ink: #1c1b1f;
+    --ink-soft: #6b6560;
+    --gold: #2d5c4f;
+    --gold-bright: #3d7566;
+    --wine: #a23e4c;
+    --line: rgba(28,27,31,0.1);
+  }
+  *{box-sizing:border-box;}
+  html{background:var(--parchment); color-scheme:light;}
+  body{
+    margin:0;
+    background: var(--parchment);
+    color:var(--ink);
+    font-family:'Fraunces', serif;
+    min-height:100vh;
+    color-scheme:light;
+  }
+  .app{max-width:480px; margin:0 auto; min-height:100vh; display:flex; flex-direction:column; position:relative; overflow-x:hidden;}
+
+  header{
+    padding:18px 20px 14px;
+    border-bottom:1px solid var(--line);
+    background: var(--parchment-dark);
+    position:relative;
+  }
+  .info-btn{
+    position:absolute;
+    top:16px; right:16px;
+    width:26px; height:26px;
+    border-radius:50%;
+    background:var(--parchment);
+    border:1px solid var(--line);
+    color:var(--ink-soft);
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    cursor:pointer;
+  }
+  .info-btn:active{background:var(--gold); color:#fff8e8;}
+  .info-panel{
+    position:fixed;
+    top:0; right:0;
+    width:88%; max-width:400px;
+    height:100%;
+    background:var(--parchment-dark);
+    box-shadow:-6px 0 20px rgba(0,0,0,0.25);
+    transform:translateX(100%);
+    transition:transform 0.25s ease;
+    z-index:60;
+    display:flex;
+    flex-direction:column;
+  }
+  .info-panel.show{transform:translateX(0);}
+  .info-panel-header{
+    padding:18px 20px 12px;
+    border-bottom:1px solid var(--line);
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+  }
+  .info-panel-header h2{
+    font-family:'Inter', sans-serif;
+    font-size:14px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin:0;
+  }
+  .info-panel-close{
+    background:none; border:none;
+    font-size:20px;
+    color:var(--ink-soft);
+    cursor:pointer;
+  }
+  .info-panel-body{
+    padding:18px 20px;
+    overflow-y:auto;
+    font-size:14px;
+    line-height:1.6;
+  }
+  .info-backdrop{
+    position:fixed; inset:0;
+    background:rgba(0,0,0,0.35);
+    opacity:0; pointer-events:none;
+    transition:opacity 0.2s;
+    z-index:55;
+  }
+  .info-backdrop.show{opacity:1; pointer-events:auto;}
+  .eyebrow{
+    font-family:'Inter', sans-serif;
+    font-size:10px;
+    letter-spacing:0.25em;
+    text-transform:uppercase;
+    color:var(--gold);
+  }
+  h1{
+    font-family:'Inter', sans-serif;
+    font-size:20px;
+    margin:4px 0 2px;
+  }
+  .mode-toggle{
+    display:flex;
+    gap:6px;
+    margin-top:10px;
+  }
+  .mode-btn{
+    flex:1;
+    font-family:'Inter', sans-serif;
+    font-size:12.5px;
+    font-weight:600;
+    background:var(--parchment);
+    border:1px solid var(--line);
+    color:var(--ink-soft);
+    border-radius:16px;
+    padding:8px 6px;
+    cursor:pointer;
+  }
+  .mode-btn.active{
+    background:var(--gold);
+    color:#fff8e8;
+    border-color:var(--gold);
+  }
+  .book-pill{
+    display:flex;
+    align-items:center;
+    gap:6px;
+    margin-top:10px;
+    font-family:'Inter', sans-serif;
+    font-size:15px;
+    background:var(--parchment);
+    border:1px solid var(--line);
+    color:var(--ink);
+    border-radius:20px;
+    padding:9px 16px;
+    cursor:pointer;
+  }
+  .book-pill-arrow{color:var(--gold); font-size:12px;}
+  .picker-backdrop{
+    position:fixed; inset:0;
+    background:rgba(0,0,0,0.4);
+    opacity:0; pointer-events:none;
+    transition:opacity 0.2s;
+    z-index:70;
+  }
+  .picker-backdrop.show{opacity:1; pointer-events:auto;}
+  .picker-modal{
+    position:fixed;
+    left:0; right:0; bottom:0;
+    max-width:480px;
+    margin:0 auto;
+    height:82vh;
+    background:var(--parchment);
+    border-radius:16px 16px 0 0;
+    box-shadow:0 -6px 24px rgba(0,0,0,0.3);
+    transform:translateY(100%);
+    transition:transform 0.25s ease;
+    z-index:75;
+    display:flex;
+    flex-direction:column;
+    overflow:hidden;
+  }
+  .picker-modal.show{transform:translateY(0);}
+  .picker-header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:14px 18px;
+    border-bottom:1px solid var(--line);
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+  }
+  .picker-close{
+    background:none; border:none;
+    font-size:18px;
+    color:var(--ink-soft);
+    cursor:pointer;
+    width:24px;
+  }
+  .picker-modal .testament-tabs{
+    padding:10px 18px 0;
+    margin-top:0;
+  }
+  .testament-tabs{
+    display:flex;
+    gap:6px;
+    margin-top:10px;
+  }
+  .testament-btn{
+    flex:1;
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    letter-spacing:0.04em;
+    background:var(--parchment-dark);
+    border:1px solid var(--line);
+    color:var(--ink-soft);
+    border-radius:4px;
+    padding:9px 6px;
+    cursor:pointer;
+  }
+  .testament-btn.active{
+    background:var(--ink);
+    color:var(--parchment);
+    border-color:var(--ink);
+  }
+  .picker-book-list{
+    flex:1;
+    overflow-y:auto;
+    padding:8px 18px 24px;
+  }
+  .picker-book-item{
+    border-bottom:1px solid var(--line);
+  }
+  .picker-book-name{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:13px 2px;
+    font-family:'Fraunces', serif;
+    font-size:16px;
+    color:var(--ink);
+    cursor:pointer;
+  }
+  .picker-book-name.current{color:var(--gold); font-weight:600;}
+  .picker-book-name.unavailable{opacity:0.4;}
+  .picker-book-name .chev{
+    color:var(--ink-soft);
+    font-size:12px;
+    transition:transform 0.15s;
+  }
+  .picker-book-item.open .picker-book-name .chev{transform:rotate(90deg);}
+  .picker-chapter-grid{
+    display:none;
+    grid-template-columns:repeat(6, 1fr);
+    gap:6px;
+    padding:4px 2px 16px;
+  }
+  .picker-book-item.open .picker-chapter-grid{display:grid;}
+  .chapter-num-btn{
+    font-family:'Inter', sans-serif;
+    font-size:12px;
+    background:var(--parchment-dark);
+    border:1px solid var(--line);
+    color:var(--ink);
+    border-radius:4px;
+    aspect-ratio:1;
+    width:100%;
+    cursor:pointer;
+  }
+  .chapter-num-btn.active{
+    background:var(--gold);
+    color:#fff8e8;
+    border-color:var(--gold);
+  }
+  .chapter-num-btn.unavailable{
+    opacity:0.4;
+  }
+  .chapter-num-btn:active{background:var(--gold-bright); color:#fff8e8;}
+  .next-chapter-cta{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:8px;
+    margin:8px 20px 24px;
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    letter-spacing:0.05em;
+    background:var(--gold);
+    color:#fff8e8;
+    border:none;
+    border-radius:6px;
+    padding:14px;
+    cursor:pointer;
+  }
+  .next-chapter-cta:active{background:var(--gold-bright);}
+  .next-chapter-cta:disabled{opacity:0.4; cursor:default;}
+  .demo-note{
+    font-size:11.5px;
+    color:var(--ink-soft);
+    margin-top:8px;
+    line-height:1.45;
+    background:rgba(45,92,79,0.08);
+    border:1px solid rgba(45,92,79,0.25);
+    border-radius:4px;
+    padding:8px 10px;
+  }
+  .demo-note b{color:var(--ink);}
+  .pending-note{
+    font-size:11px;
+    color:var(--wine);
+    margin-top:8px;
+    line-height:1.4;
+    background:rgba(162,62,76,0.08);
+    border:1px solid rgba(162,62,76,0.25);
+    border-radius:4px;
+    padding:8px 10px;
+  }
+
+  main{padding:20px; flex:1;}
+
+  .verse{
+    margin-bottom:20px;
+    line-height:1.9;
+    font-size:19px;
+    cursor:pointer;
+    padding:6px 8px;
+    margin-left:-8px;
+    border-radius:4px;
+    transition:background 0.15s;
+  }
+  .verse:active, .verse.open{background:rgba(45,92,79,0.12);}
+  .verse.bookmarked{background:rgba(45,92,79,0.06); border-left:3px solid var(--gold); padding-left:9px; margin-left:-12px;}
+  .vnum{
+    font-family:'Inter', sans-serif;
+    font-size:12px;
+    font-weight:700;
+    color:var(--gold);
+    vertical-align:super;
+    margin-right:4px;
+  }
+  .bookmark-btn, .speak-btn{
+    background:none;
+    border:none;
+    cursor:pointer;
+    padding:2px;
+    margin:0 3px 0 0;
+    vertical-align:middle;
+    color:var(--ink-soft);
+    opacity:0.55;
+  }
+  .bookmark-btn svg, .speak-btn svg{width:15px; height:15px; display:block;}
+  .bookmark-btn.active{color:var(--gold); opacity:1;}
+  .bookmark-btn:active, .speak-btn:active{opacity:1;}
+
+  .verse.verse-speaking{
+    background:rgba(45,92,79,0.14);
+    box-shadow:inset 3px 0 0 var(--gold);
+  }
+  .verse.verse-speaking .speak-btn{
+    opacity:1;
+    color:var(--gold);
+  }
+  .verse.verse-speaking .speak-btn::after{
+    content:"";
+    display:inline-block;
+    width:6px; height:6px;
+    margin-left:3px;
+    border-radius:50%;
+    background:var(--gold);
+    animation:ttsPulse 1s ease-in-out infinite;
+    vertical-align:middle;
+  }
+  @keyframes ttsPulse{
+    0%, 100%{ opacity:0.25; transform:scale(0.8); }
+    50%{ opacity:1; transform:scale(1.3); }
+  }
+
+  .chapter-player-bar{
+    background:var(--parchment-dark);
+    border-bottom:1px solid var(--line);
+    padding:10px 16px 12px;
+  }
+  .cp-row{
+    display:flex;
+    align-items:center;
+    gap:8px;
+  }
+  .cp-row-controls{margin-top:8px; flex-wrap:wrap; gap:6px;}
+  .cp-btn{
+    width:32px; height:32px;
+    min-width:32px;
+    border-radius:50%;
+    background:var(--parchment);
+    border:1px solid var(--line);
+    color:var(--ink);
+    font-size:13px;
+    cursor:pointer;
+    display:flex; align-items:center; justify-content:center;
+  }
+  .cp-playpause{
+    width:38px; height:38px;
+    min-width:38px;
+    background:var(--gold);
+    color:#fff;
+    border-color:var(--gold);
+  }
+  .cp-playpause svg{width:17px; height:17px;}
+  .cp-btn:active{background:var(--gold-bright); color:#fff;}
+  .cp-btn:disabled{opacity:0.35; cursor:default;}
+  .cp-status{
+    flex:1;
+    min-width:0;
+    font-family:'Inter', sans-serif;
+    font-size:12.5px;
+    color:var(--ink-soft);
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+  .cp-voice-group, .cp-speed-group{
+    display:flex;
+    gap:4px;
+  }
+  .cp-chip{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    font-weight:600;
+    background:var(--parchment);
+    border:1px solid var(--line);
+    color:var(--ink-soft);
+    border-radius:12px;
+    padding:5px 10px;
+    cursor:pointer;
+  }
+  .cp-chip.active{
+    background:var(--gold);
+    color:#fff;
+    border-color:var(--gold);
+  }
+
+  .comment-hint{
+    display:inline-block;
+    margin-left:6px;
+    font-size:12px;
+    color:var(--gold);
+    opacity:0.7;
+    font-family:'Inter', sans-serif;
+  }
+  .editorial{
+    font-style:italic;
+    opacity:0.75;
+  }
+
+  .word{
+    border-bottom:1.5px dotted var(--gold);
+    cursor:pointer;
+  }
+  .word:active, .word.active-word{
+    background:rgba(45,92,79,0.25);
+    border-radius:2px;
+  }
+
+  .word-popover{
+    position:fixed;
+    max-width:280px;
+    background:#2a2318;
+    color:var(--parchment-dark);
+    border-radius:6px;
+    padding:12px 14px;
+    font-family:'Fraunces', serif;
+    font-size:14px;
+    line-height:1.5;
+    box-shadow:0 6px 20px rgba(0,0,0,0.35);
+    z-index:50;
+    display:none;
+  }
+  .word-popover.show{display:block;}
+  .wp-heb{
+    font-family:'Noto Sans Hebrew', serif;
+    font-size:22px;
+    color:var(--gold-bright);
+    direction:rtl;
+  }
+  .wp-translit{
+    font-style:italic;
+    color:#cabb8d;
+    font-size:13px;
+    margin:2px 0 6px;
+  }
+  .wp-strong{
+    display:inline-block;
+    font-family:'Inter', sans-serif;
+    font-size:10px;
+    letter-spacing:0.08em;
+    background:rgba(255,255,255,0.12);
+    border-radius:3px;
+    padding:2px 6px;
+    margin-bottom:6px;
+  }
+  .wp-def{color:var(--parchment-dark);}
+  .wp-extra{
+    margin-top:8px;
+    padding-top:8px;
+    border-top:1px solid rgba(255,255,255,0.15);
+    font-size:12.5px;
+    color:#cabb8d;
+    line-height:1.6;
+  }
+  .wp-extra b{color:var(--parchment-dark); font-weight:600;}
+  .wp-extra .wp-greek{
+    font-family:'Fraunces', serif;
+    font-style:italic;
+  }
+  .wp-close{
+    position:absolute;
+    top:6px; right:8px;
+    background:none; border:none;
+    color:#cabb8d;
+    font-size:16px;
+    cursor:pointer;
+  }
+
+  .backdrop{
+    position:fixed; inset:0;
+    background:rgba(0,0,0,0.35);
+    opacity:0; pointer-events:none;
+    transition:opacity 0.2s;
+    z-index:40;
+  }
+  .backdrop.show{opacity:1; pointer-events:auto;}
+
+  .drawer{
+    position:fixed;
+    top:0; right:0;
+    width:88%; max-width:400px;
+    height:100%;
+    background:var(--parchment-dark);
+    box-shadow:-6px 0 20px rgba(0,0,0,0.25);
+    transform:translateX(100%);
+    transition:transform 0.25s ease;
+    z-index:45;
+    display:flex;
+    flex-direction:column;
+  }
+  .drawer.show{transform:translateX(0);}
+  .drawer-header{
+    padding:18px 20px 12px;
+    border-bottom:1px solid var(--line);
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+  }
+  .drawer-title{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--gold);
+  }
+  .drawer-verse-text{
+    font-style:italic;
+    font-size:15px;
+    color:var(--ink-soft);
+    margin-top:6px;
+  }
+  .drawer-close{
+    background:none; border:none;
+    font-size:22px;
+    color:var(--ink-soft);
+    cursor:pointer;
+    line-height:1;
+  }
+  .drawer-body{
+    padding:18px 20px;
+    overflow-y:auto;
+    font-size:16px;
+    line-height:1.7;
+    color:var(--ink);
+  }
+  .drawer-body h3{
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin:0 0 8px;
+  }
+
+  /* Acordeon */
+  .accordion-group{margin-bottom:22px;}
+  .accordion-group-title{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    letter-spacing:0.12em;
+    text-transform:uppercase;
+    color:var(--wine);
+    margin-bottom:10px;
+    padding-bottom:6px;
+    border-bottom:1px solid var(--line);
+  }
+  .accordion-item{
+    border:1px solid var(--line);
+    border-radius:4px;
+    margin-bottom:8px;
+    background:rgba(255,255,255,0.35);
+    overflow:hidden;
+  }
+  .accordion-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:10px;
+    padding:11px 14px;
+    cursor:pointer;
+    font-family:'Inter', sans-serif;
+    font-size:13.5px;
+    color:var(--ink);
+    background:rgba(45,92,79,0.08);
+  }
+  .accordion-header:active{background:rgba(45,92,79,0.18);}
+  .accordion-header .chev{
+    font-size:12px;
+    color:var(--gold);
+    transition:transform 0.2s;
+    flex-shrink:0;
+  }
+  .accordion-item.open .accordion-header .chev{transform:rotate(90deg);}
+  .accordion-body{
+    display:none;
+    padding:12px 14px 14px;
+    font-size:15px;
+    line-height:1.65;
+    color:var(--ink-soft);
+    border-top:1px solid var(--line);
+  }
+  .accordion-item.open .accordion-body{display:block;}
+  .accordion-body .heb-inline{
+    font-family:'Noto Sans Hebrew', serif;
+    direction:rtl;
+    unicode-bidi:embed;
+    color:var(--wine);
+  }
+  .accordion-body .orig-block{
+    font-family:'Noto Sans Hebrew', serif;
+    font-size:17px;
+    direction:rtl;
+    text-align:right;
+    color:var(--ink);
+    background:rgba(45,92,79,0.06);
+    border-radius:4px;
+    padding:8px 10px;
+    margin-bottom:8px;
+  }
+  .accordion-body .orig-block.greek{
+    font-family:'Fraunces', serif;
+    direction:ltr;
+    text-align:left;
+    font-style:italic;
+  }
+  .accordion-body .note{
+    font-size:13px;
+    font-style:italic;
+    color:var(--ink-soft);
+    opacity:0.85;
+    margin-top:4px;
+  }
+  .refs-list{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  .inline-refs{
+    margin:-10px 0 20px 8px;
+    font-size:12.5px;
+    line-height:1.6;
+    color:var(--ink-soft);
+  }
+  .ref-pill{
+    color:var(--ink-soft);
+  }
+  .ref-pill-clickable{
+    cursor:pointer;
+    border-bottom:1px dotted var(--ink-soft);
+  }
+  .ref-pill-clickable:active{
+    color:var(--gold);
+    border-bottom-color:var(--gold);
+  }
+  .ref-sep{
+    color:var(--ink-soft);
+    opacity:0.5;
+    margin:0 5px;
+  }
+
+  footer{
+    padding:14px 20px 24px;
+    font-size:11px;
+    color:var(--ink-soft);
+    opacity:0.8;
+    text-align:center;
+  }
+
+  .app{padding-bottom:64px;}
+  .tab-panel{min-height:calc(100vh - 64px);}
+
+  .bottom-tabs{
+    position:fixed;
+    left:0; right:0; bottom:0;
+    max-width:480px;
+    margin:0 auto;
+    display:flex;
+    background:var(--parchment-dark);
+    border-top:1px solid var(--line);
+    z-index:65;
+  }
+  .bottom-tab-btn{
+    flex:1;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:2px;
+    background:none;
+    border:none;
+    padding:9px 4px 8px;
+    font-family:'Inter', sans-serif;
+    font-size:10px;
+    color:var(--ink-soft);
+    cursor:pointer;
+  }
+  .bottom-tab-icon{width:21px; height:21px;}
+  .bottom-tab-btn.active{color:var(--gold);}
+
+  .home-main, .search-main, .settings-main{padding:18px 20px 24px;}
+
+  .home-header-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:12px;
+  }
+  .home-quote{
+    max-width:52%;
+    text-align:right;
+    font-family:'Fraunces', serif;
+    font-style:italic;
+    font-size:11.5px;
+    line-height:1.4;
+    color:var(--ink-soft);
+  }
+  .home-quote-ref{
+    display:block;
+    font-family:'Inter', sans-serif;
+    font-style:normal;
+    font-size:9.5px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin-top:3px;
+  }
+
+  .radio-mini-card{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    background:linear-gradient(135deg, #eaf3ef 0%, #dcece4 100%);
+    border:1px solid rgba(45,92,79,0.18);
+    border-radius:12px;
+    padding:12px 16px;
+    margin-bottom:18px;
+  }
+  .radio-play-btn{
+    width:38px; height:38px;
+    min-width:38px;
+    border-radius:50%;
+    background:var(--gold);
+    border:none;
+    color:#fff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor:pointer;
+  }
+  .radio-play-btn svg{width:18px; height:18px;}
+  .radio-info{flex:1; min-width:0;}
+  .radio-name{
+    font-family:'Inter', sans-serif;
+    font-weight:600;
+    font-size:13px;
+    color:var(--ink);
+  }
+  .radio-name span{font-weight:400; color:var(--ink-soft);}
+  .radio-sub{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    color:var(--ink-soft);
+    margin-top:2px;
+  }
+  .radio-mini-close{
+    width:28px; height:28px;
+    min-width:28px;
+    border-radius:50%;
+    background:none;
+    border:1px solid var(--line);
+    color:var(--ink-soft);
+    font-size:13px;
+    cursor:pointer;
+  }
+  .radio-embed-box{margin-bottom:12px; border-radius:8px; overflow:hidden;}
+  .radio-embed-box iframe{width:100%; height:100px; border:none; display:block;}
+
+  .hero-verse-card{
+    position:relative;
+    background:
+      radial-gradient(circle at 15% -10%, rgba(255,255,255,0.5), transparent 55%),
+      linear-gradient(155deg, #4f8f7c 0%, #2d5c4f 65%, #234a3f 100%);
+    border-radius:14px;
+    padding:16px 18px;
+    margin-bottom:0;
+    overflow:hidden;
+    box-shadow:0 8px 22px rgba(45,92,79,0.25);
+  }
+  .hero-pattern{
+    position:absolute;
+    inset:0;
+    background-image:radial-gradient(circle, rgba(255,255,255,0.09) 1px, transparent 1.2px);
+    background-size:16px 16px;
+    opacity:0.6;
+    pointer-events:none;
+  }
+  .hero-content{position:relative;}
+  .hero-label{
+    font-family:'Inter', sans-serif;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:#d9f2e8;
+    margin-bottom:8px;
+  }
+  .hero-verse-ref{
+    font-family:'Inter', sans-serif;
+    font-weight:700;
+    font-size:13px;
+    color:#fff;
+    margin-bottom:6px;
+  }
+  .hero-verse-text{
+    font-family:'Fraunces', serif;
+    font-size:17px;
+    line-height:1.4;
+    font-weight:500;
+    color:#fff;
+    margin-bottom:12px;
+  }
+  .hero-toggle-btn{
+    font-family:'Inter', sans-serif;
+    font-size:12px;
+    font-weight:600;
+    color:#d9f2e8;
+    background:rgba(255,255,255,0.14);
+    border:1px solid rgba(255,255,255,0.25);
+    border-radius:14px;
+    padding:6px 13px;
+    cursor:pointer;
+  }
+  .hero-accordion{
+    background:var(--parchment-dark);
+    border:1px solid var(--line);
+    border-top:none;
+    border-radius:0 0 14px 14px;
+    margin:-6px 0 18px;
+    padding:6px 16px 12px;
+    font-size:13.5px;
+  }
+  .hero-accordion .accordion-body{font-size:13.5px;}
+  .hero-accordion .accordion-header{font-size:12.5px;}
+
+  .home-toggle-btn{
+    font-family:'Inter', sans-serif;
+    font-size:12px;
+    font-weight:600;
+    color:var(--gold);
+    background:none;
+    border:none;
+    padding:0;
+    cursor:pointer;
+    margin-top:2px;
+  }
+
+  .home-card{
+    background:var(--parchment-dark);
+    border:1px solid var(--line);
+    border-radius:12px;
+    padding:18px 20px;
+    margin-bottom:16px;
+  }
+  .home-datetime{
+    font-family:'Fraunces', serif;
+    font-weight:500;
+    font-size:17px;
+    color:var(--ink);
+    letter-spacing:-0.01em;
+  }
+  .home-datetime .dt-time{
+    color:var(--gold);
+    font-weight:600;
+  }
+  .home-card-label{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin-bottom:8px;
+  }
+  .home-verse-ref{
+    font-family:'Inter', sans-serif;
+    font-size:15px;
+    margin-bottom:4px;
+  }
+  .home-verse-text{
+    font-style:italic;
+    color:var(--ink-soft);
+    line-height:1.6;
+    margin-bottom:10px;
+  }
+  .home-card-btn{
+    font-family:'Inter', sans-serif;
+    font-size:12px;
+    background:var(--gold);
+    color:#fff8e8;
+    border:none;
+    border-radius:4px;
+    padding:9px 14px;
+    cursor:pointer;
+  }
+  .home-placeholder-note{
+    font-size:12.5px;
+    color:var(--wine);
+    background:rgba(162,62,76,0.07);
+    border:1px solid rgba(162,62,76,0.2);
+    border-radius:4px;
+    padding:9px 11px;
+    line-height:1.5;
+    margin-bottom:10px;
+    margin-top:10px;
+  }
+  .home-essay-placeholder{
+    font-size:14px;
+    color:var(--ink-soft);
+    border:1px dashed var(--line);
+    border-radius:4px;
+    padding:12px;
+    margin-bottom:8px;
+  }
+  .meditation-section-label{
+    font-family:'Inter', sans-serif;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin:10px 0 6px;
+  }
+  .meditation-link{
+    display:block;
+    background:var(--parchment);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:10px 12px;
+    margin-bottom:6px;
+    text-decoration:none;
+  }
+  .meditation-title{
+    font-family:'Fraunces', serif;
+    font-size:14px;
+    color:var(--ink);
+  }
+  .meditation-author{
+    font-family:'Inter', sans-serif;
+    font-size:11.5px;
+    color:var(--gold);
+    margin-top:2px;
+  }
+  .home-essay-text{
+    font-size:14.5px;
+    line-height:1.7;
+    color:var(--ink);
+  }
+  .home-essay-signature{
+    display:block;
+    margin-top:10px;
+    font-size:12px;
+    font-style:italic;
+    color:var(--ink-soft);
+  }
+
+  .search-input{
+    width:100%;
+    font-family:'Fraunces', serif;
+    font-size:16px;
+    background:var(--parchment-dark);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:11px 14px;
+    margin-bottom:8px;
+  }
+  .search-note{
+    font-size:12px;
+    color:var(--ink-soft);
+    font-style:italic;
+    margin-bottom:16px;
+  }
+  .search-result{
+    background:var(--parchment-dark);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:12px 14px;
+    margin-bottom:10px;
+    cursor:pointer;
+  }
+  .search-result-ref{
+    font-family:'Inter', sans-serif;
+    font-size:12px;
+    color:var(--gold);
+    margin-bottom:4px;
+  }
+  .search-result-snippet{font-size:14.5px; line-height:1.5;}
+  .search-result-snippet mark{background:rgba(45,92,79,0.3); color:inherit;}
+
+  .settings-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    width:100%;
+    background:var(--parchment-dark);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:14px 16px;
+    margin-bottom:10px;
+    font-size:15px;
+    color:var(--ink);
+    cursor:pointer;
+  }
+  .settings-row-disabled{opacity:0.5; cursor:default;}
+  .settings-chev{color:var(--ink-soft);}
+  .settings-footnote{
+    font-size:12px;
+    color:var(--ink-soft);
+    font-style:italic;
+    margin-top:8px;
+  }
+
+  .radio-main{padding:18px 20px 90px;}
+  .radio-note{
+    font-size:12.5px;
+    color:var(--ink-soft);
+    line-height:1.5;
+    background:var(--parchment-dark);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:10px 12px;
+    margin-bottom:18px;
+  }
+  .radio-section-label{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin:16px 0 8px;
+  }
+  .radio-station{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    background:var(--parchment-dark);
+    border:1px solid var(--line);
+    border-radius:8px;
+    padding:13px 14px;
+    margin-bottom:8px;
+    cursor:pointer;
+    text-decoration:none;
+  }
+  .radio-station-dot{
+    width:9px; height:9px;
+    min-width:9px;
+    border-radius:50%;
+    background:var(--gold);
+  }
+  .radio-station-dot.muted{background:var(--ink-soft); opacity:0.4;}
+  .radio-station-name{
+    font-family:'Inter', sans-serif;
+    font-weight:600;
+    font-size:14px;
+    color:var(--ink);
+  }
+  .radio-station-sub{
+    font-family:'Inter', sans-serif;
+    font-size:11.5px;
+    color:var(--ink-soft);
+    margin-top:2px;
+  }
+  .radio-station.playing{border-color:var(--gold); background:rgba(45,92,79,0.08);}
+  .radio-station.playing .radio-station-dot{background:var(--wine);}
+
+  .radio-now-playing{
+    position:fixed;
+    left:0; right:0;
+    bottom:64px;
+    max-width:480px;
+    margin:0 auto;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    background:var(--ink);
+    padding:12px 18px;
+    z-index:60;
+  }
+  .radio-now-name{
+    font-family:'Inter', sans-serif;
+    font-weight:600;
+    font-size:13px;
+    color:#fff;
+  }
+  .radio-now-status{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    color:#d9f2e8;
+  }
+  .radio-now-pause-btn{
+    width:32px; height:32px;
+    min-width:32px;
+    border-radius:50%;
+    background:var(--gold);
+    border:none;
+    color:#fff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor:pointer;
+    margin-left:10px;
+  }
+  .radio-now-pause-btn svg{width:15px; height:15px;}
+  .radio-stop-btn{
+    font-family:'Inter', sans-serif;
+    font-size:12px;
+    font-weight:600;
+    background:var(--wine);
+    color:#fff;
+    border:none;
+    border-radius:14px;
+    padding:7px 16px;
+    cursor:pointer;
+    margin-left:8px;
+  }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <div class="tab-panel" id="tab-biblia">
+  <header>
+    <div class="eyebrow">Demo interactiv</div>
+    <h1>Biblie — machetă funcțională</h1>
+    <button class="info-btn" id="info-btn" title="Despre această aplicație">ⓘ</button>
+
+    <div class="mode-toggle">
+      <button class="mode-btn active" id="mode-citire" data-mode="citire">Citire</button>
+      <button class="mode-btn" id="mode-aprofundare" data-mode="aprofundare">Aprofundare</button>
+    </div>
+
+    <button class="book-pill" id="book-pill">
+      <span id="book-pill-label">Geneza 1</span>
+      <span class="book-pill-arrow">▾</span>
+    </button>
+  </header>
+
+  <div id="chapter-player-mount"></div>
+
+  <main id="verses"></main>
+
+  <footer>Atinge un verset pentru comentariu · atinge un cuvânt subliniat pentru limba originală</footer>
+  </div>
+
+  <div class="tab-panel" id="tab-acasa" style="display:none;">
+    <header>
+      <div class="home-header-row">
+        <div class="home-datetime" id="home-datetime">joi, 20 august 2026 · 00:00</div>
+        <div class="home-quote" id="home-quote">„Citat“<span class="home-quote-ref">Autor</span></div>
+      </div>
+      <h1>Acasă</h1>
+    </header>
+    <main class="home-main">
+
+      <section class="radio-mini-card" id="radio-mini-card" style="display:none;">
+        <button class="radio-play-btn" id="radio-play-btn">
+          <svg id="radio-play-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+          <svg id="radio-pause-icon" viewBox="0 0 24 24" fill="currentColor" style="display:none;"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+        </button>
+        <div class="radio-info">
+          <div class="radio-name" id="radio-mini-name">—</div>
+          <div class="radio-sub" id="radio-status">live acum</div>
+        </div>
+        <button class="radio-mini-close" id="radio-mini-close" title="Oprește">✕</button>
+      </section>
+      <audio id="radio-audio" preload="none"></audio>
+
+      <section class="hero-verse-card">
+        <div class="hero-pattern"></div>
+        <div class="hero-content">
+          <div class="hero-label">Versetul zilei</div>
+          <div class="hero-verse-ref" id="home-verse-ref">Geneza 1:1</div>
+          <div class="hero-verse-text" id="home-verse-text">„La început, [când] a creat Dumnezeu cerurile și pământul,”</div>
+          <button class="hero-toggle-btn" id="hero-toggle">Informații divine ▾</button>
+        </div>
+      </section>
+      <div class="hero-accordion" id="hero-accordion" style="display:none;"></div>
+
+      <section class="home-card">
+        <div class="home-card-label">Pericopa săptămânii · sâmbătă, 22 august 2026</div>
+        <div class="home-verse-ref">Parașat Ki Teitzei</div>
+        <div class="home-verse-text">Deuteronom 21:10 – 25:19 · Haftarah: Isaia 54:1-10</div>
+        <button class="home-toggle-btn" id="pericope-toggle">Citește reflecția ▾</button>
+        <div class="home-essay-text" id="pericope-text" style="display:none;">
+          Ki Teitzei („Când vei ieși [la război]”) e porția cu cele mai multe porunci individuale din toată Tora — peste șaptezeci, după numărătoarea tradițională. Multe dintre ele par, la prima vedere, un amestec fără legătură: femeia luată captivă în război, cuibul de pasăre din care poți lua puii dar nu și mama, un parapet pe acoperiș, plata la timp a zilierului, hainele nu se iau zălog de la văduvă.<br><br>
+          Dar firul care le leagă pe multe dintre ele e limpede, dacă te uiți atent: sunt legi care protejează pe cel aflat la mila altcuiva — captiva, muncitorul de rând, animalul, cel sărac, orfanul. Porția care începe cu scena brutală a războiului se încheie cu porunca de a nu uita niciodată ce a pățit Israel din partea lui Amalek, dar între cele două margini stă, mai ales, o etică a grijii față de cel mai slab.<br><br>
+          <span class="home-essay-signature">— reflecție originală, scrisă pentru acest demo, pe temele generale ale porției (nu traducerea vreunui eseu anume)</span>
+        </div>
+      </section>
+
+      <section class="home-card">
+        <div class="home-card-label">Meditații cerești · Ki Teitzei</div>
+        <button class="home-toggle-btn" id="essays-toggle">Detalii ▾</button>
+        <div id="essays-body" style="display:none;">
+          <div class="home-placeholder-note">
+            Linkuri reale către eseuri complete, externe — nu am reprodus textul lor (protejat prin drepturi de autor), doar titlul, autorul și adresa exactă unde le poți citi integral.
+          </div>
+          <div class="meditation-section-label">Perspectivă evreiască</div>
+          <a class="meditation-link" href="https://rabbisacks.org/covenant-conversation/" target="_blank" rel="noopener">
+            <div class="meditation-title">Ki Teitzei — Covenant &amp; Conversation</div>
+            <div class="meditation-author">Rabinul Jonathan Sacks →</div>
+          </a>
+          <a class="meditation-link" href="https://books.google.com/books/about/The_Mussar_Torah_Commentary.html?id=aSCyywEACAAJ" target="_blank" rel="noopener">
+            <div class="meditation-title">Ki Teitzei — The Mussar Torah Commentary</div>
+            <div class="meditation-author">Diverși autori, ed. Barry H. Block →</div>
+          </a>
+          <div class="meditation-section-label">Perspectivă creștină</div>
+          <a class="meditation-link" href="https://bibleproject.com/playlists/fulfilling-the-torah/" target="_blank" rel="noopener">
+            <div class="meditation-title">Ki Teitzei — Fulfilling the Torah</div>
+            <div class="meditation-author">BibleProject →</div>
+          </a>
+          <a class="meditation-link" href="https://learn.ligonier.org/devotionals/fulfillment-law" target="_blank" rel="noopener">
+            <div class="meditation-title">Ki Teitzei — The Fulfillment of the Law</div>
+            <div class="meditation-author">Ligonier Ministries →</div>
+          </a>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div class="tab-panel" id="tab-cautare" style="display:none;">
+    <header>
+      <div class="eyebrow">Găsește</div>
+      <h1>Căutare</h1>
+    </header>
+    <main class="search-main">
+      <input type="text" id="search-input" class="search-input" placeholder="Caută un cuvânt, o expresie sau un comentariu…">
+      <div class="search-note">Caută momentan doar în capitolul deschis acum (Geneza 1) — pe măsură ce adăugăm mai multe capitole, căutarea se va extinde automat la tot ce e încărcat.</div>
+      <div id="search-results"></div>
+    </main>
+  </div>
+
+  <div class="tab-panel" id="tab-setari" style="display:none;">
+    <header>
+      <div class="eyebrow">Preferințe</div>
+      <h1>Setări</h1>
+    </header>
+    <main class="settings-main">
+      <button class="settings-row" id="settings-about-btn">
+        <span>Despre această aplicație</span><span class="settings-chev">›</span>
+      </button>
+      <div class="settings-row settings-row-disabled">
+        <span>Profil (necesită cont — indisponibil în demo)</span>
+      </div>
+      <div class="settings-row settings-row-disabled">
+        <span>Temă culoare (doar pergament, momentan)</span>
+      </div>
+      <div class="settings-footnote">Aplicație demonstrativă, fără server sau cont — datele nu sunt salvate între sesiuni.</div>
+    </main>
+  </div>
+
+  <div class="tab-panel" id="tab-radio" style="display:none;">
+    <header>
+      <div class="eyebrow">Ascultă</div>
+      <h1>Radio creștin</h1>
+    </header>
+    <main class="radio-main">
+      <div class="radio-note">Apeși pe un post și pornește direct, în aplicație. Rămâne pornit cât timp fila e deschisă, chiar dacă treci pe Biblie sau Căutare. Pe telefon, unele browsere cer o primă atingere manuală înainte să lase sunetul să pornească.</div>
+
+      <div class="radio-section-label">România — flux direct, verificat</div>
+      <div class="radio-station" data-stream="https://lb01.bpstream.com:8618/;">
+        <span class="radio-station-dot"></span>
+        <div>
+          <div class="radio-station-name">Radio Vocea Evangheliei București</div>
+          <div class="radio-station-sub">94.2 FM</div>
+        </div>
+      </div>
+      <div class="radio-station" data-stream="https://mn.rve.ro/rvemn.mp3">
+        <span class="radio-station-dot"></span>
+        <div>
+          <div class="radio-station-name">Radio Vocea Evangheliei Timișoara</div>
+          <div class="radio-station-sub">post local RVE</div>
+        </div>
+      </div>
+      <div class="radio-station" data-stream="https://stream.rvesv.ro/rvesv.mp3">
+        <span class="radio-station-dot"></span>
+        <div>
+          <div class="radio-station-name">Radio Vocea Evangheliei Suceava</div>
+          <div class="radio-station-sub">post local RVE</div>
+        </div>
+      </div>
+      <div class="radio-station" data-stream="https://stream.rvesibiu.ro/rvesibiu.mp3">
+        <span class="radio-station-dot"></span>
+        <div>
+          <div class="radio-station-name">Radio Vocea Evangheliei Sibiu</div>
+          <div class="radio-station-sub">post local RVE</div>
+        </div>
+      </div>
+      <div class="radio-station" data-embed="https://player.radioking.io/radio-vocea-crestinilor/?c=%2300325F&c2=%23ffffff&f=h&i=1&p=1&s=0&li=1&popup=0&plc=0&h=100&l=100&v=2">
+        <span class="radio-station-dot"></span>
+        <div>
+          <div class="radio-station-name">Radio Vocea Creștinilor</div>
+          <div class="radio-station-sub">Arad · player încorporat direct aici (nu are flux audio brut public)</div>
+        </div>
+      </div>
+
+      <div class="radio-embed-box" id="radio-embed-box" style="display:none;"></div>
+
+      <div class="radio-now-playing" id="radio-now-playing" style="display:none;">
+        <div>
+          <div class="radio-now-name" id="radio-now-name"></div>
+          <div class="radio-now-status" id="radio-now-status">live acum</div>
+        </div>
+        <button class="radio-now-pause-btn" id="radio-now-pause-btn" title="Pauză">
+          <svg id="radio-now-pause-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+          <svg id="radio-now-play-icon" viewBox="0 0 24 24" fill="currentColor" style="display:none;"><path d="M8 5v14l11-7z"/></svg>
+        </button>
+        <button class="radio-stop-btn" id="radio-stop-btn">✕</button>
+      </div>
+    </main>
+  </div>
+
+</div>
+
+<nav class="bottom-tabs">
+  <button class="bottom-tab-btn" data-tab="acasa">
+    <svg class="bottom-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11.5 12 4l9 7.5"/><path d="M5.5 10v9a1 1 0 0 0 1 1H10v-6h4v6h3.5a1 1 0 0 0 1-1v-9"/></svg>
+    <span>Acasă</span>
+  </button>
+  <button class="bottom-tab-btn active" data-tab="biblia">
+    <svg class="bottom-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.5c2-1 5-1 8 .5v13c-3-1.5-6-1.5-8-.5z"/><path d="M20 5.5c-2-1-5-1-8 .5v13c3-1.5 6-1.5 8-.5z"/></svg>
+    <span>Biblia</span>
+  </button>
+  <button class="bottom-tab-btn" data-tab="cautare">
+    <svg class="bottom-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.8-4.8"/></svg>
+    <span>Căutare</span>
+  </button>
+  <button class="bottom-tab-btn" data-tab="radio">
+    <svg class="bottom-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="14" r="4"/><path d="M12 14v.01"/><path d="M4.5 10 12 5l7.5 5"/><path d="M3 10h18v9a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"/></svg>
+    <span>Radio</span>
+  </button>
+  <button class="bottom-tab-btn" data-tab="setari">
+    <svg class="bottom-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 13.5a1.7 1.7 0 0 0 .34 1.87l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.7 1.7 0 0 0-1.87-.34 1.7 1.7 0 0 0-1 1.56V19.6a2 2 0 1 1-4 0v-.09a1.7 1.7 0 0 0-1.11-1.56 1.7 1.7 0 0 0-1.87.34l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.7 1.7 0 0 0 .34-1.87 1.7 1.7 0 0 0-1.56-1H4.4a2 2 0 1 1 0-4h.09a1.7 1.7 0 0 0 1.56-1.11 1.7 1.7 0 0 0-.34-1.87l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.7 1.7 0 0 0 1.87.34H10.5a1.7 1.7 0 0 0 1-1.56V4.4a2 2 0 1 1 4 0v.09a1.7 1.7 0 0 0 1 1.56 1.7 1.7 0 0 0 1.87-.34l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.7 1.7 0 0 0-.34 1.87V10.5a1.7 1.7 0 0 0 1.56 1H19.6a2 2 0 1 1 0 4h-.09a1.7 1.7 0 0 0-1.56 1z"/></svg>
+    <span>Setări</span>
+  </button>
+</nav>
+
+  <div class="picker-backdrop" id="picker-backdrop"></div>
+  <div class="picker-modal" id="picker-modal">
+    <div class="picker-header">
+      <button class="picker-close" id="picker-close">✕</button>
+      <span>Cărți</span>
+      <span style="width:24px;"></span>
+    </div>
+    <div class="testament-tabs">
+      <button class="testament-btn active" id="tab-vt" data-testament="vt">Vechiul Testament</button>
+      <button class="testament-btn" id="tab-nt" data-testament="nt">Noul Testament</button>
+    </div>
+    <div class="picker-book-list" id="picker-book-list"></div>
+  </div>
+
+  <div class="info-backdrop" id="info-backdrop"></div>
+  <div class="info-panel" id="info-panel">
+    <div class="info-panel-header">
+      <h2>Despre această aplicație</h2>
+      <button class="info-panel-close" id="info-panel-close">✕</button>
+    </div>
+    <div class="info-panel-body">
+      <b>Textul versetelor:</b> Tora în română, traducere de rabinul Șlomo Sorin Rosen (Tora și Haftarot, 2022), preluat via Sefaria — licență <b>CC BY-NC</b> (folosire liberă, necomercială, cu atribuire). Aplicația va rămâne gratuită, deci se încadrează în licență.<br><br>
+      <b>Cuvintele ebraice, transliterarea și numerele Strong:</b> date de domeniu public.<br><br>
+      <b>Comentariile din panoul lateral</b> sunt adaptări originale, scrise de mine, după comentarii de domeniu public/CC0 (Rashi, Ibn Ezra, Ramban, Sforno, Ba'al HaTurim, Chizkuni, Bekhor Shor) și citate traduse din Talmud/Mișna (ediția William Davidson, CC-BY-NC) — niciodată textul comercial al vreunei ediții. Nu sunt ale rabinului Rosen.<br><br>
+      <b>Comparația de texte</b> folosește Textul Masoretic (ebraică), Septuaginta (greacă, Rahlfs) și note despre Pentateuhul Samaritean — toate domeniu public.
+    </div>
+  </div>
+
+<div class="backdrop" id="backdrop"></div>
+<div class="drawer" id="drawer">
+  <div class="drawer-header">
+    <div>
+      <div class="drawer-title" id="drawer-ref">Geneza 1:1</div>
+      <div class="drawer-verse-text" id="drawer-verse-text"></div>
+    </div>
+    <button class="drawer-close" id="drawer-close">✕</button>
+  </div>
+  <div class="drawer-body">
+    <div id="drawer-content"></div>
+  </div>
+</div>
+
+<div class="word-popover" id="word-popover">
+  <button class="wp-close" id="wp-close">✕</button>
+  <div class="wp-heb" id="wp-heb"></div>
+  <div class="wp-translit" id="wp-translit"></div>
+  <div class="wp-strong" id="wp-strong"></div>
+  <div class="wp-def" id="wp-def"></div>
+  <div class="wp-extra" id="wp-extra"></div>
+</div>
+
+<script>
+// =====================================================================
+// DATE — încărcate dinamic, câte un fișier .js per capitol
+// (genesis-1.js, genesis-2.js, ...), fiecare setează window.CHAPTER_DATA
+// =====================================================================
+
+// =====================================================================
+// RANDARE
+// =====================================================================
+const versesEl = document.getElementById("verses");
+const drawer = document.getElementById("drawer");
+const backdrop = document.getElementById("backdrop");
+const drawerRef = document.getElementById("drawer-ref");
+const drawerVerseText = document.getElementById("drawer-verse-text");
+const drawerContent = document.getElementById("drawer-content");
+const wordPopover = document.getElementById("word-popover");
+
+function plainVerseText(verse){
+  return verse.tokens.map(tok => tok.t).join("");
+}
+
+function makeAccordionGroup(titleText, items, renderItemBody){
+  const group = document.createElement("div");
+  group.className = "accordion-group";
+
+  const title = document.createElement("div");
+  title.className = "accordion-group-title";
+  title.textContent = titleText;
+  group.appendChild(title);
+
+  items.forEach(item => {
+    const wrap = document.createElement("div");
+    wrap.className = "accordion-item";
+
+    const header = document.createElement("div");
+    header.className = "accordion-header";
+    header.innerHTML = `<span>${item.headerLabel}</span><span class="chev">▶</span>`;
+    header.addEventListener("click", () => {
+      const willOpen = !wrap.classList.contains("open");
+      group.querySelectorAll(".accordion-item.open").forEach(openItem => openItem.classList.remove("open"));
+      if(willOpen) wrap.classList.add("open");
+    });
+    wrap.appendChild(header);
+
+    const body = document.createElement("div");
+    body.className = "accordion-body";
+    body.innerHTML = renderItemBody(item);
+    wrap.appendChild(body);
+
+    group.appendChild(wrap);
+  });
+
+  return group;
+}
+
+function getBookmarkKey(bookSlug, chapterNum, verseNum){
+  return "bm_" + bookSlug + "_" + chapterNum + "_" + verseNum;
+}
+function isBookmarked(bookSlug, chapterNum, verseNum){
+  try { return localStorage.getItem(getBookmarkKey(bookSlug, chapterNum, verseNum)) === "1"; }
+  catch(e){ return false; }
+}
+function toggleBookmark(bookSlug, chapterNum, verseNum, btnEl, verseEl){
+  try {
+    const key = getBookmarkKey(bookSlug, chapterNum, verseNum);
+    const now = isBookmarked(bookSlug, chapterNum, verseNum);
+    if(now){
+      localStorage.removeItem(key);
+    } else {
+      localStorage.setItem(key, "1");
+    }
+    btnEl.classList.toggle("active", !now);
+    verseEl.classList.toggle("bookmarked", !now);
+  } catch(e){ /* localStorage indisponibil */ }
+}
+
+// =====================================================================
+// CITIRE CU VOCE AI (OpenAI TTS, via server propriu — vezi /server)
+// Înlocuiește complet vechiul sistem bazat pe window.speechSynthesis.
+// =====================================================================
+
+const TTS_API_BASE = "http://localhost:3000"; // schimbă aici dacă găzduiești serverul în alt loc
+
+const TTS_PRONUNCIATION_DICT = {
+  // cheie: cum apare EXACT în textul afișat  →  valoare: cum trimitem textul la TTS
+  // (afectează doar sunetul, niciodată textul văzut de om)
+  "Hidekel": "Hi-de-chel",
+  "Pișon": "Pi-șon",
+  "Ghihon": "Ghi-hon"
+};
+function applyPronunciationDict(text){
+  let out = text;
+  Object.keys(TTS_PRONUNCIATION_DICT).forEach(key => {
+    out = out.split(key).join(TTS_PRONUNCIATION_DICT[key]);
+  });
+  return out;
+}
+
+function ttsVoicePref(){
+  return "male"; // singura voce disponibilă acum (Cedar)
+}
+function ttsSpeedPref(){
+  try { return parseFloat(localStorage.getItem("ttsSpeed")) || 1.0; } catch(e){ return 1.0; }
+}
+function setTtsSpeedPref(s){ try { localStorage.setItem("ttsSpeed", String(s)); } catch(e){} }
+
+// Cache audio în sesiunea curentă a browserului: text+voce → URL blob local.
+// (arhitectura permite ușor înlocuirea cu un cache persistent/server-side mai târziu)
+const ttsAudioCache = new Map();
+function ttsCacheKey(text, voiceProfile){
+  return voiceProfile + "::" + text;
+}
+
+async function fetchVerseAudio(text, voiceProfile){
+  const key = ttsCacheKey(text, voiceProfile);
+  if(ttsAudioCache.has(key)) return ttsAudioCache.get(key);
+
+  const spokenText = applyPronunciationDict(text);
+  const response = await fetch(TTS_API_BASE + "/api/tts", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ text: spokenText, voiceProfile })
+  });
+  if(!response.ok){
+    let detail = "";
+    try { detail = (await response.json()).error || ""; } catch(e){}
+    throw new Error(detail || ("Server TTS a răspuns cu status " + response.status));
+  }
+  const blob = await response.blob();
+  const url = URL.createObjectURL(blob);
+  ttsAudioCache.set(key, url);
+  return url;
+}
+
+function preloadVerseAudio(text, voiceProfile){
+  // preîncărcare "best effort" — nu blochează nimic dacă eșuează
+  fetchVerseAudio(text, voiceProfile).catch(() => {});
+}
+
+// --- Player unic (folosit atât pentru un singur verset, cât și pentru capitol) ---
+const ttsPlayer = new Audio();
+let ttsSessionToken = 0;      // fiecare sesiune nouă (verset sau capitol) primește alt număr
+let ttsChapterActive = false; // true în timp ce "Citește capitolul" rulează
+let ttsChapterVerseIdx = -1;  // indexul versetului curent în VERSES, în timpul lecturii capitolului
+let ttsPaused = false;
+let ttsCurrentVerseEl = null;
+
+function clearVerseHighlight(){
+  if(ttsCurrentVerseEl){
+    ttsCurrentVerseEl.classList.remove("verse-speaking");
+    ttsCurrentVerseEl = null;
+  }
+}
+function highlightVerse(verseEl){
+  clearVerseHighlight();
+  if(verseEl){
+    verseEl.classList.add("verse-speaking");
+    ttsCurrentVerseEl = verseEl;
+  }
+}
+
+function stopTts(){
+  ttsSessionToken++; // invalidează orice callback aflat "în zbor"
+  ttsChapterActive = false;
+  ttsChapterVerseIdx = -1;
+  ttsPaused = false;
+  ttsPlayer.pause();
+  ttsPlayer.currentTime = 0;
+  clearVerseHighlight();
+  updateChapterPlayerUI();
+}
+
+function pauseTts(){
+  if(!ttsPlayer.paused){
+    ttsPlayer.pause();
+    ttsPaused = true;
+    updateChapterPlayerUI();
+  }
+}
+function resumeTts(){
+  if(ttsPaused){
+    ttsPlayer.play();
+    ttsPaused = false;
+    updateChapterPlayerUI();
+  }
+}
+
+function getVerseElByNum(num){
+  return versesEl.querySelector('.verse[data-num="' + num + '"]');
+}
+
+async function playSingleVerse(verse, verseEl){
+  stopTts();
+  const mySession = ttsSessionToken;
+  const voiceProfile = ttsVoicePref();
+  highlightVerse(verseEl);
+  setChapterPlayerStatus("Se citește versetul " + verse.num + "…");
+  try {
+    const url = await fetchVerseAudio(plainVerseText(verse), voiceProfile);
+    if(mySession !== ttsSessionToken) return; // s-a schimbat între timp (stop/alt verset)
+    ttsPlayer.src = url;
+    ttsPlayer.playbackRate = ttsSpeedPref();
+    ttsPlayer.onended = () => {
+      if(mySession !== ttsSessionToken) return;
+      clearVerseHighlight();
+      setChapterPlayerStatus("Citește capitolul");
+    };
+    await ttsPlayer.play();
+  } catch(err){
+    if(mySession !== ttsSessionToken) return;
+    clearVerseHighlight();
+    setChapterPlayerStatus("Eroare TTS: " + err.message);
+  }
+}
+
+async function playChapterFromIndex(startIdx){
+  stopTts();
+  const mySession = ttsSessionToken;
+  ttsChapterActive = true;
+  const voiceProfile = ttsVoicePref();
+
+  async function playIndex(idx){
+    if(mySession !== ttsSessionToken || !ttsChapterActive) return;
+    if(idx >= VERSES.length){
+      stopTts();
+      return;
+    }
+    ttsChapterVerseIdx = idx;
+    const verse = VERSES[idx];
+    const verseEl = getVerseElByNum(verse.num);
+    highlightVerse(verseEl);
+    if(verseEl) verseEl.scrollIntoView({ behavior: "smooth", block: "center" });
+    setChapterPlayerStatus("Se citește versetul " + verse.num + "…");
+
+    try {
+      const url = await fetchVerseAudio(plainVerseText(verse), voiceProfile);
+      if(mySession !== ttsSessionToken || !ttsChapterActive) return;
+
+      // preîncarcă următorul verset în fundal, cât timp se redă acesta
+      if(idx + 1 < VERSES.length){
+        preloadVerseAudio(plainVerseText(VERSES[idx + 1]), voiceProfile);
+      }
+
+      ttsPlayer.src = url;
+      ttsPlayer.playbackRate = ttsSpeedPref();
+      ttsPlayer.onended = () => {
+        if(mySession !== ttsSessionToken || !ttsChapterActive) return;
+        playIndex(idx + 1);
+      };
+      await ttsPlayer.play();
+    } catch(err){
+      if(mySession !== ttsSessionToken) return;
+      setChapterPlayerStatus("Eroare TTS: " + err.message);
+      stopTts();
+    }
+  }
+
+  await playIndex(startIdx);
+}
+
+function findStartVerseIndex(){
+  // pornește de la versetul activ (highlight-uit) dacă există, altfel de la primul
+  if(ttsCurrentVerseEl){
+    const num = parseInt(ttsCurrentVerseEl.dataset.num, 10);
+    const idx = VERSES.findIndex(v => v.num === num);
+    if(idx !== -1) return idx;
+  }
+  return 0;
+}
+
+function chapterPlayPauseClicked(){
+  if(ttsChapterActive && !ttsPaused && !ttsPlayer.paused){
+    pauseTts();
+  } else if(ttsChapterActive && ttsPaused){
+    resumeTts();
+  } else {
+    playChapterFromIndex(findStartVerseIndex());
+  }
+}
+
+function goToPrevVerse(){
+  if(!ttsChapterActive) return;
+  const newIdx = Math.max(0, ttsChapterVerseIdx - 1);
+  playChapterFromIndex(newIdx);
+}
+function goToNextVerse(){
+  if(!ttsChapterActive) return;
+  const newIdx = Math.min(VERSES.length - 1, ttsChapterVerseIdx + 1);
+  playChapterFromIndex(newIdx);
+}
+
+// --- UI player capitol ---
+let chapterPlayerEls = null;
+function setChapterPlayerStatus(text){
+  if(chapterPlayerEls) chapterPlayerEls.statusEl.textContent = text;
+}
+function updateChapterPlayerUI(){
+  if(!chapterPlayerEls) return;
+  const playing = ttsChapterActive && !ttsPaused;
+  chapterPlayerEls.playIcon.style.display = playing ? "none" : "";
+  chapterPlayerEls.pauseIcon.style.display = playing ? "" : "none";
+  chapterPlayerEls.stopBtn.disabled = !ttsChapterActive && !ttsPaused && ttsPlayer.paused && !ttsCurrentVerseEl;
+  if(!ttsChapterActive && !ttsCurrentVerseEl){
+    setChapterPlayerStatus("Citește capitolul");
+  }
+}
+
+function buildChapterPlayerBar(){
+  const bar = document.createElement("div");
+  bar.className = "chapter-player-bar";
+  bar.innerHTML = `
+    <div class="cp-row">
+      <button class="cp-btn cp-prev" title="Versetul anterior">⏮</button>
+      <button class="cp-btn cp-playpause" title="Citește capitolul / Pauză">
+        <svg class="cp-play-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+        <svg class="cp-pause-icon" viewBox="0 0 24 24" fill="currentColor" style="display:none;"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+      </button>
+      <button class="cp-btn cp-next" title="Versetul următor">⏭</button>
+      <button class="cp-btn cp-stop" title="Oprire">⏹</button>
+      <div class="cp-status">Citește capitolul</div>
+    </div>
+    <div class="cp-row cp-row-controls">
+      <div class="cp-speed-group">
+        <button class="cp-chip cp-speed" data-speed="0.8">0.8×</button>
+        <button class="cp-chip cp-speed active" data-speed="1">1×</button>
+        <button class="cp-chip cp-speed" data-speed="1.2">1.2×</button>
+        <button class="cp-chip cp-speed" data-speed="1.5">1.5×</button>
+      </div>
+    </div>
+  `;
+
+  const playIcon = bar.querySelector(".cp-play-icon");
+  const pauseIcon = bar.querySelector(".cp-pause-icon");
+  const statusEl = bar.querySelector(".cp-status");
+  const stopBtn = bar.querySelector(".cp-stop");
+
+  bar.querySelector(".cp-playpause").addEventListener("click", chapterPlayerClickWrapper);
+  bar.querySelector(".cp-prev").addEventListener("click", goToPrevVerse);
+  bar.querySelector(".cp-next").addEventListener("click", goToNextVerse);
+  stopBtn.addEventListener("click", stopTts);
+
+  bar.querySelectorAll(".cp-speed").forEach(btn => {
+    btn.addEventListener("click", () => {
+      bar.querySelectorAll(".cp-speed").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      const speed = parseFloat(btn.dataset.speed);
+      setTtsSpeedPref(speed);
+      ttsPlayer.playbackRate = speed; // se aplică imediat, chiar în timpul redării
+    });
+  });
+
+  // aplică preferința de viteză salvată la construirea barei
+  const savedSpeed = ttsSpeedPref();
+  bar.querySelectorAll(".cp-speed").forEach(b => b.classList.toggle("active", parseFloat(b.dataset.speed) === savedSpeed));
+
+  chapterPlayerEls = { playIcon, pauseIcon, statusEl, stopBtn };
+  return bar;
+}
+function chapterPlayerClickWrapper(){
+  chapterPlayPauseClicked();
+}
+
+ttsPlayer.addEventListener("play", updateChapterPlayerUI);
+ttsPlayer.addEventListener("pause", updateChapterPlayerUI);
+
+function renderVerses(){
+  const aprofundare = (appMode === "aprofundare");
+  VERSES.forEach(verse => {
+    const p = document.createElement("p");
+    p.className = "verse";
+    p.dataset.num = verse.num;
+    if(isBookmarked(currentBookSlug, currentChapter, verse.num)) p.classList.add("bookmarked");
+
+    const vnum = document.createElement("span");
+    vnum.className = "vnum";
+    vnum.textContent = verse.num;
+    p.appendChild(vnum);
+
+    const bmBtn = document.createElement("button");
+    bmBtn.className = "bookmark-btn" + (isBookmarked(currentBookSlug, currentChapter, verse.num) ? " active" : "");
+    bmBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 3a1 1 0 0 0-1 1v17l7-4 7 4V4a1 1 0 0 0-1-1z"/></svg>';
+    bmBtn.title = "Marchează versetul";
+    bmBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      toggleBookmark(currentBookSlug, currentChapter, verse.num, bmBtn, p);
+    });
+    p.appendChild(bmBtn);
+
+    const speakBtn = document.createElement("button");
+    speakBtn.className = "speak-btn";
+    speakBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 10v4h4l5 5V5L7 10H3z"/><path d="M16 8.5a4 4 0 0 1 0 7" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>';
+    speakBtn.title = "Ascultă acest verset (voce AI)";
+    speakBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      playSingleVerse(verse, p);
+    });
+    p.appendChild(speakBtn);
+
+    verse.tokens.forEach(tok => {
+      if(tok.w && aprofundare){
+        const span = document.createElement("span");
+        span.className = "word";
+        span.textContent = tok.t;
+        span.addEventListener("click", (e) => {
+          e.stopPropagation();
+          showWordPopover(tok, span);
+        });
+        p.appendChild(span);
+      } else if(tok.editorial){
+        const span = document.createElement("span");
+        span.className = "editorial";
+        span.textContent = tok.t;
+        p.appendChild(span);
+      } else {
+        p.appendChild(document.createTextNode(tok.t));
+      }
+    });
+
+    if(aprofundare){
+      const hint = document.createElement("span");
+      hint.className = "comment-hint";
+      hint.textContent = "💬 comentarii și comparație";
+      p.appendChild(hint);
+      p.addEventListener("click", () => openDrawer(verse));
+    }
+    versesEl.appendChild(p);
+
+    if(verse.refs && verse.refs.length){
+      const refsRow = document.createElement("div");
+      refsRow.className = "inline-refs";
+      verse.refs.forEach((refText, idx) => {
+        if(idx > 0){
+          const sep = document.createElement("span");
+          sep.className = "ref-sep";
+          sep.textContent = "·";
+          refsRow.appendChild(sep);
+        }
+        const pill = document.createElement("span");
+        pill.className = "ref-pill ref-pill-clickable";
+        pill.textContent = refText;
+        pill.addEventListener("click", (e) => {
+          e.stopPropagation();
+          goToRef(refText, pill);
+        });
+        refsRow.appendChild(pill);
+      });
+      versesEl.appendChild(refsRow);
+    }
+  });
+}
+
+function goToRef(refText, anchorEl){
+  const m = refText.match(/^Geneza 1:(\d+)/);
+  if(m){
+    const targetNum = parseInt(m[1], 10);
+    const targetVerse = VERSES.find(v => v.num === targetNum);
+    if(targetVerse){
+      openDrawer(targetVerse);
+      return;
+    }
+  }
+  showRefUnavailable(anchorEl, refText);
+}
+
+function showRefUnavailable(anchorEl, refText){
+  hideWordPopover();
+  document.getElementById("wp-heb").textContent = "";
+  document.getElementById("wp-translit").textContent = "";
+  document.getElementById("wp-strong").textContent = "";
+  document.getElementById("wp-def").textContent =
+    "„" + refText + "” — textul acestui verset nu e încă încărcat în demo (doar Geneza 1 e completă momentan). Va fi disponibil pe măsură ce adăugăm mai multe capitole.";
+  wordPopover.classList.add("show");
+  const rect = anchorEl.getBoundingClientRect();
+  const popW = 280;
+  let left = rect.left;
+  if(left + popW > window.innerWidth - 12) left = window.innerWidth - popW - 12;
+  if(left < 12) left = 12;
+  wordPopover.style.left = left + "px";
+  wordPopover.style.top = (rect.bottom + 8) + "px";
+}
+
+
+function openDrawer(verse){
+  document.querySelectorAll(".verse").forEach(v => v.classList.remove("open"));
+  document.querySelector(`.verse[data-num="${verse.num}"]`).classList.add("open");
+
+  drawerRef.textContent = "Geneza 1:" + verse.num;
+  drawerVerseText.textContent = "„" + plainVerseText(verse) + "”";
+
+  drawerContent.innerHTML = "";
+
+  if(verse.commentaries && verse.commentaries.length){
+    const group = makeAccordionGroup(
+      "Comentarii",
+      verse.commentaries.map(c => ({ headerLabel: c.author, text: c.text })),
+      item => item.text
+    );
+    drawerContent.appendChild(group);
+  }
+
+  if(verse.textCompare && verse.textCompare.length){
+    const group = makeAccordionGroup(
+      "Comparație texte",
+      verse.textCompare.map(c => ({ headerLabel: c.source, data: c })),
+      item => {
+        const c = item.data;
+        const origClass = c.greek ? "orig-block greek" : "orig-block";
+        let html = `<div class="${origClass}">${c.original}</div>`;
+        html += `<div>${c.translation}</div>`;
+        if(c.note){
+          html += `<div class="note">${c.note}</div>`;
+        }
+        return html;
+      }
+    );
+    drawerContent.appendChild(group);
+  }
+
+  drawer.classList.add("show");
+  backdrop.classList.add("show");
+  hideWordPopover();
+}
+
+function closeDrawer(){
+  drawer.classList.remove("show");
+  backdrop.classList.remove("show");
+  document.querySelectorAll(".verse").forEach(v => v.classList.remove("open"));
+}
+
+document.getElementById("drawer-close").addEventListener("click", closeDrawer);
+backdrop.addEventListener("click", () => { closeDrawer(); hideWordPopover(); });
+
+function showWordPopover(tok, anchorEl){
+  document.querySelectorAll(".word").forEach(w => w.classList.remove("active-word"));
+  anchorEl.classList.add("active-word");
+
+  document.getElementById("wp-heb").textContent = tok.heb;
+  document.getElementById("wp-translit").textContent = tok.translit;
+  document.getElementById("wp-strong").textContent = tok.strong + (tok.pos ? " · " + tok.pos : "");
+  document.getElementById("wp-def").textContent = tok.def;
+
+  const extraEl = document.getElementById("wp-extra");
+  let extraHtml = "";
+  if(tok.occ){
+    extraHtml += `<div><b>Apariții în Tora:</b> ${tok.occ}</div>`;
+  }
+  if(tok.greek){
+    extraHtml += `<div><b>Echivalent grecesc (LXX):</b> <span class="wp-greek">${tok.greek}</span></div>`;
+  }
+  if(tok.samaritan){
+    extraHtml += `<div><b>Pentateuhul Samaritean:</b> ${tok.samaritan}</div>`;
+  }
+  extraEl.innerHTML = extraHtml;
+
+  wordPopover.classList.add("show");
+
+  const rect = anchorEl.getBoundingClientRect();
+  const popW = 280;
+  let left = rect.left;
+  if(left + popW > window.innerWidth - 12) left = window.innerWidth - popW - 12;
+  if(left < 12) left = 12;
+  let top = rect.bottom + 8;
+  wordPopover.style.left = left + "px";
+  wordPopover.style.top = top + "px";
+}
+
+function hideWordPopover(){
+  wordPopover.classList.remove("show");
+  document.querySelectorAll(".word").forEach(w => w.classList.remove("active-word"));
+}
+
+document.getElementById("wp-close").addEventListener("click", hideWordPopover);
+document.addEventListener("click", (e) => {
+  if(!wordPopover.contains(e.target) && !e.target.classList.contains("word")){
+    hideWordPopover();
+  }
+});
+
+// =====================================================================
+// NAVIGARE — Testament → Carte → Capitol
+// =====================================================================
+const BOOKS = [
+  // Vechiul Testament
+  { slug: "genesis", name: "Geneza", chapters: 50, testament: "vt" },
+  { slug: "exodus", name: "Exodul", chapters: 40, testament: "vt" },
+  { slug: "leviticus", name: "Leviticul", chapters: 27, testament: "vt" },
+  { slug: "numbers", name: "Numeri", chapters: 36, testament: "vt" },
+  { slug: "deuteronomy", name: "Deuteronomul", chapters: 34, testament: "vt" },
+  { slug: "joshua", name: "Iosua", chapters: 24, testament: "vt" },
+  { slug: "judges", name: "Judecători", chapters: 21, testament: "vt" },
+  { slug: "ruth", name: "Rut", chapters: 4, testament: "vt" },
+  { slug: "i_samuel", name: "1 Samuel", chapters: 31, testament: "vt" },
+  { slug: "ii_samuel", name: "2 Samuel", chapters: 24, testament: "vt" },
+  { slug: "i_kings", name: "1 Împărați", chapters: 22, testament: "vt" },
+  { slug: "ii_kings", name: "2 Împărați", chapters: 25, testament: "vt" },
+  { slug: "i_chronicles", name: "1 Cronici", chapters: 29, testament: "vt" },
+  { slug: "ii_chronicles", name: "2 Cronici", chapters: 36, testament: "vt" },
+  { slug: "ezra", name: "Ezra", chapters: 10, testament: "vt" },
+  { slug: "nehemiah", name: "Neemia", chapters: 13, testament: "vt" },
+  { slug: "esther", name: "Estera", chapters: 10, testament: "vt" },
+  { slug: "job", name: "Iov", chapters: 42, testament: "vt" },
+  { slug: "psalms", name: "Psalmii", chapters: 150, testament: "vt" },
+  { slug: "proverbs", name: "Proverbe", chapters: 31, testament: "vt" },
+  { slug: "ecclesiastes", name: "Eclesiastul", chapters: 12, testament: "vt" },
+  { slug: "song_of_songs", name: "Cântarea Cântărilor", chapters: 8, testament: "vt" },
+  { slug: "isaiah", name: "Isaia", chapters: 66, testament: "vt" },
+  { slug: "jeremiah", name: "Ieremia", chapters: 52, testament: "vt" },
+  { slug: "lamentations", name: "Plângerile", chapters: 5, testament: "vt" },
+  { slug: "ezekiel", name: "Ezechiel", chapters: 48, testament: "vt" },
+  { slug: "daniel", name: "Daniel", chapters: 12, testament: "vt" },
+  { slug: "hosea", name: "Osea", chapters: 14, testament: "vt" },
+  { slug: "joel", name: "Ioel", chapters: 3, testament: "vt" },
+  { slug: "amos", name: "Amos", chapters: 9, testament: "vt" },
+  { slug: "obadiah", name: "Obadia", chapters: 1, testament: "vt" },
+  { slug: "jonah", name: "Iona", chapters: 4, testament: "vt" },
+  { slug: "micah", name: "Mica", chapters: 7, testament: "vt" },
+  { slug: "nahum", name: "Naum", chapters: 3, testament: "vt" },
+  { slug: "habakkuk", name: "Habacuc", chapters: 3, testament: "vt" },
+  { slug: "zephaniah", name: "Țefania", chapters: 3, testament: "vt" },
+  { slug: "haggai", name: "Hagai", chapters: 2, testament: "vt" },
+  { slug: "zechariah", name: "Zaharia", chapters: 14, testament: "vt" },
+  { slug: "malachi", name: "Maleahi", chapters: 4, testament: "vt" },
+  // Noul Testament
+  { slug: "matthew", name: "Matei", chapters: 28, testament: "nt" },
+  { slug: "mark", name: "Marcu", chapters: 16, testament: "nt" },
+  { slug: "luke", name: "Luca", chapters: 24, testament: "nt" },
+  { slug: "john", name: "Ioan", chapters: 21, testament: "nt" },
+  { slug: "acts", name: "Faptele Apostolilor", chapters: 28, testament: "nt" },
+  { slug: "romans", name: "Romani", chapters: 16, testament: "nt" },
+  { slug: "i_corinthians", name: "1 Corinteni", chapters: 16, testament: "nt" },
+  { slug: "ii_corinthians", name: "2 Corinteni", chapters: 13, testament: "nt" },
+  { slug: "galatians", name: "Galateni", chapters: 6, testament: "nt" },
+  { slug: "ephesians", name: "Efeseni", chapters: 6, testament: "nt" },
+  { slug: "philippians", name: "Filipeni", chapters: 4, testament: "nt" },
+  { slug: "colossians", name: "Coloseni", chapters: 4, testament: "nt" },
+  { slug: "i_thessalonians", name: "1 Tesaloniceni", chapters: 5, testament: "nt" },
+  { slug: "ii_thessalonians", name: "2 Tesaloniceni", chapters: 3, testament: "nt" },
+  { slug: "i_timothy", name: "1 Timotei", chapters: 6, testament: "nt" },
+  { slug: "ii_timothy", name: "2 Timotei", chapters: 4, testament: "nt" },
+  { slug: "titus", name: "Tit", chapters: 3, testament: "nt" },
+  { slug: "philemon", name: "Filimon", chapters: 1, testament: "nt" },
+  { slug: "hebrews", name: "Evrei", chapters: 13, testament: "nt" },
+  { slug: "james", name: "Iacov", chapters: 5, testament: "nt" },
+  { slug: "i_peter", name: "1 Petru", chapters: 5, testament: "nt" },
+  { slug: "ii_peter", name: "2 Petru", chapters: 3, testament: "nt" },
+  { slug: "i_john", name: "1 Ioan", chapters: 5, testament: "nt" },
+  { slug: "ii_john", name: "2 Ioan", chapters: 1, testament: "nt" },
+  { slug: "iii_john", name: "3 Ioan", chapters: 1, testament: "nt" },
+  { slug: "jude", name: "Iuda", chapters: 1, testament: "nt" },
+  { slug: "revelation", name: "Apocalipsa", chapters: 22, testament: "nt" }
+];
+
+// singurele date reale, deocamdată: Geneza, capitolul 1
+const AVAILABLE = { genesis: { 1: true, 2: true } };
+
+let currentTestament = "vt";
+let currentBookSlug = "genesis";
+let currentChapter = 1;
+
+const testamentBtns = document.querySelectorAll(".testament-btn");
+const bookPill = document.getElementById("book-pill");
+const bookPillLabel = document.getElementById("book-pill-label");
+const pickerModal = document.getElementById("picker-modal");
+const pickerBackdrop = document.getElementById("picker-backdrop");
+const pickerClose = document.getElementById("picker-close");
+const pickerBookList = document.getElementById("picker-book-list");
+
+function getBook(slug){ return BOOKS.find(b => b.slug === slug); }
+function bookIsAvailable(slug){ return !!AVAILABLE[slug]; }
+function chapterIsAvailable(slug, n){ return !!(AVAILABLE[slug] && AVAILABLE[slug][n]); }
+
+function openPicker(){
+  pickerModal.classList.add("show");
+  pickerBackdrop.classList.add("show");
+}
+function closePicker(){
+  pickerModal.classList.remove("show");
+  pickerBackdrop.classList.remove("show");
+}
+
+function populatePickerBookList(){
+  pickerBookList.innerHTML = "";
+  BOOKS.filter(b => b.testament === currentTestament).forEach(book => {
+    const item = document.createElement("div");
+    item.className = "picker-book-item" + (book.slug === currentBookSlug ? " open" : "");
+
+    const nameRow = document.createElement("div");
+    nameRow.className = "picker-book-name" +
+      (bookIsAvailable(book.slug) ? "" : " unavailable") +
+      (book.slug === currentBookSlug ? " current" : "");
+    nameRow.innerHTML = "<span>" + book.name + "</span><span class=\"chev\">▶</span>";
+    nameRow.addEventListener("click", () => {
+      const wasOpen = item.classList.contains("open");
+      pickerBookList.querySelectorAll(".picker-book-item").forEach(el => el.classList.remove("open"));
+      if(!wasOpen) item.classList.add("open");
+    });
+    item.appendChild(nameRow);
+
+    const grid = document.createElement("div");
+    grid.className = "picker-chapter-grid";
+    for(let i = 1; i <= book.chapters; i++){
+      const btn = document.createElement("button");
+      const avail = chapterIsAvailable(book.slug, i);
+      btn.className = "chapter-num-btn" + (avail ? "" : " unavailable") + (book.slug === currentBookSlug && i === currentChapter ? " active" : "");
+      btn.textContent = i;
+      btn.title = book.name + " " + i + (avail ? "" : " (indisponibil momentan)");
+      btn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        currentBookSlug = book.slug;
+        loadChapter(i);
+        closePicker();
+      });
+      grid.appendChild(btn);
+    }
+    item.appendChild(grid);
+
+    pickerBookList.appendChild(item);
+  });
+}
+
+function loadChapter(n){
+  const book = getBook(currentBookSlug);
+  if(n < 1 || n > book.chapters) return;
+  if(typeof stopTts === "function") stopTts(); // schimbarea capitolului oprește orice sesiune audio
+  currentChapter = n;
+  bookPillLabel.textContent = book.name + " " + n;
+
+  if(!chapterIsAvailable(currentBookSlug, n)){
+    versesEl.innerHTML =
+      '<p style="padding:20px; text-align:center; color:var(--ink-soft); font-style:italic;">' +
+      book.name + " " + n + " nu e încă adăugat în acest demo. Momentan e disponibil doar Geneza 1." +
+      "</p>";
+    return;
+  }
+
+  const existing = document.getElementById("chapter-data-script");
+  if(existing) existing.remove();
+  window.CHAPTER_DATA = null;
+
+  const script = document.createElement("script");
+  script.id = "chapter-data-script";
+  script.src = currentBookSlug + "-" + n + ".js";
+  script.onload = () => {
+    if(!window.CHAPTER_DATA || !window.CHAPTER_DATA.length){
+      versesEl.innerHTML = '<p style="padding:20px; color:#7a2e2e;">' + script.src + ' s-a încărcat, dar nu conține date valide.</p>';
+      return;
+    }
+    VERSES = window.CHAPTER_DATA;
+    versesEl.innerHTML = "";
+    renderVerses();
+    appendNextChapterCta();
+  };
+  script.onerror = () => {
+    versesEl.innerHTML = '<p style="padding:20px; color:#7a2e2e;">Nu am putut încărca ' + script.src + '. Verifică că fișierul e în același folder cu biblie-demo.html.</p>';
+  };
+  document.body.appendChild(script);
+}
+
+function appendNextChapterCta(){
+  const book = getBook(currentBookSlug);
+  const hasNext = currentChapter < book.chapters;
+  const btn = document.createElement("button");
+  btn.className = "next-chapter-cta";
+  btn.textContent = hasNext ? ("Capitolul " + (currentChapter + 1) + " →") : "Ultimul capitol din " + book.name;
+  btn.disabled = !hasNext;
+  btn.addEventListener("click", () => {
+    loadChapter(currentChapter + 1);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+  versesEl.appendChild(btn);
+}
+
+// swipe stânga/dreapta între capitole
+let touchStartX = null;
+versesEl.addEventListener("touchstart", (e) => { touchStartX = e.touches[0].clientX; }, { passive: true });
+versesEl.addEventListener("touchend", (e) => {
+  if(touchStartX === null) return;
+  const dx = e.changedTouches[0].clientX - touchStartX;
+  if(Math.abs(dx) > 60){
+    if(dx < 0) loadChapter(currentChapter + 1);       // swipe stânga → capitolul următor
+    else loadChapter(currentChapter - 1);              // swipe dreapta → capitolul anterior
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+  touchStartX = null;
+});
+
+bookPill.addEventListener("click", () => {
+  populatePickerBookList();
+  openPicker();
+});
+pickerClose.addEventListener("click", closePicker);
+pickerBackdrop.addEventListener("click", closePicker);
+
+testamentBtns.forEach(btn => {
+  btn.addEventListener("click", () => {
+    currentTestament = btn.dataset.testament;
+    testamentBtns.forEach(b => b.classList.toggle("active", b === btn));
+    populatePickerBookList();
+  });
+});
+
+// Mod Citire / Aprofundare — persistat în localStorage
+let appMode = "citire";
+try {
+  const savedMode = localStorage.getItem("bibleAppMode");
+  if(savedMode === "aprofundare" || savedMode === "citire") appMode = savedMode;
+} catch(e){ /* localStorage indisponibil — rămâne modul implicit */ }
+
+const modeCitireBtn = document.getElementById("mode-citire");
+const modeAprofundareBtn = document.getElementById("mode-aprofundare");
+
+function applyModeButtons(){
+  modeCitireBtn.classList.toggle("active", appMode === "citire");
+  modeAprofundareBtn.classList.toggle("active", appMode === "aprofundare");
+}
+applyModeButtons();
+
+function setMode(mode){
+  appMode = mode;
+  try { localStorage.setItem("bibleAppMode", mode); } catch(e){}
+  applyModeButtons();
+  if(Array.isArray(VERSES) && VERSES.length){
+    versesEl.innerHTML = "";
+    renderVerses();
+  }
+}
+modeCitireBtn.addEventListener("click", () => setMode("citire"));
+modeAprofundareBtn.addEventListener("click", () => setMode("aprofundare"));
+
+const infoBtn = document.getElementById("info-btn");
+const infoPanel = document.getElementById("info-panel");
+const infoBackdrop = document.getElementById("info-backdrop");
+const infoPanelClose = document.getElementById("info-panel-close");
+
+function openInfoPanel(){
+  infoPanel.classList.add("show");
+  infoBackdrop.classList.add("show");
+}
+function closeInfoPanel(){
+  infoPanel.classList.remove("show");
+  infoBackdrop.classList.remove("show");
+}
+infoBtn.addEventListener("click", openInfoPanel);
+infoPanelClose.addEventListener("click", closeInfoPanel);
+infoBackdrop.addEventListener("click", closeInfoPanel);
+
+// =====================================================================
+// TAB-URI DE JOS: Acasă / Biblia / Căutare / Setări
+// =====================================================================
+const tabPanels = {
+  acasa: document.getElementById("tab-acasa"),
+  biblia: document.getElementById("tab-biblia"),
+  cautare: document.getElementById("tab-cautare"),
+  radio: document.getElementById("tab-radio"),
+  setari: document.getElementById("tab-setari")
+};
+const bottomTabBtns = document.querySelectorAll(".bottom-tab-btn");
+
+function switchTab(name){
+  Object.keys(tabPanels).forEach(key => {
+    tabPanels[key].style.display = (key === name) ? "" : "none";
+  });
+  bottomTabBtns.forEach(btn => btn.classList.toggle("active", btn.dataset.tab === name));
+  window.scrollTo({ top: 0 });
+}
+
+bottomTabBtns.forEach(btn => {
+  btn.addEventListener("click", () => switchTab(btn.dataset.tab));
+});
+
+// Acasă — "Informații divine" (buton) deschide un acordeon direct pe pagina Acasă
+const heroAccordion = document.getElementById("hero-accordion");
+const heroToggleBtn = document.getElementById("hero-toggle");
+let heroAccordionBuilt = false;
+
+// Colapsare reciprocă: la deschiderea unei secțiuni de pe Acasă, celelalte se închid automat
+const homeSections = []; // { close: fn, els: [button, body] }
+function closeOtherHomeSections(exceptCloseFn){
+  homeSections.forEach(sec => { if(sec.close !== exceptCloseFn) sec.close(); });
+}
+
+function closeHeroAccordion(){
+  heroAccordion.style.display = "none";
+  heroToggleBtn.textContent = "Informații divine ▾";
+}
+homeSections.push({ close: closeHeroAccordion, els: [heroToggleBtn, heroAccordion] });
+
+heroToggleBtn.addEventListener("click", () => {
+  const isOpen = heroAccordion.style.display !== "none";
+  if(isOpen){
+    closeHeroAccordion();
+    return;
+  }
+  closeOtherHomeSections(closeHeroAccordion);
+  if(!heroAccordionBuilt && Array.isArray(VERSES) && VERSES.length){
+    const verse = VERSES[0]; // Geneza 1:1
+    heroAccordion.innerHTML = "";
+    if(verse.commentaries && verse.commentaries.length){
+      const group = makeAccordionGroup(
+        "Comentarii",
+        verse.commentaries.map(c => ({ headerLabel: c.author, text: c.text })),
+        item => item.text
+      );
+      heroAccordion.appendChild(group);
+    }
+    heroAccordionBuilt = true;
+  }
+  heroAccordion.style.display = "block";
+  heroToggleBtn.textContent = "Informații divine ▴";
+});
+
+// Acasă — comutatoare "citește mai departe"
+function wireToggle(btnId, bodyId, openLabel, closeLabel){
+  const btn = document.getElementById(btnId);
+  const body = document.getElementById(bodyId);
+  function close(){
+    body.style.display = "none";
+    btn.textContent = openLabel;
+  }
+  homeSections.push({ close, els: [btn, body] });
+  btn.addEventListener("click", () => {
+    const willOpen = body.style.display === "none";
+    if(willOpen){
+      closeOtherHomeSections(close);
+      body.style.display = "block";
+      btn.textContent = closeLabel;
+    } else {
+      close();
+    }
+  });
+}
+wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascunde reflecția ▴");
+wireToggle("essays-toggle", "essays-body", "Detalii ▾", "Ascunde ▴");
+
+// Închidere automată când apeși oriunde în afara secțiunii deschise
+document.addEventListener("click", (e) => {
+  homeSections.forEach(sec => {
+    const insideAny = sec.els.some(el => el.contains(e.target));
+    if(!insideAny) sec.close();
+  });
+});
+
+// Radio — un singur element audio + un embed iframe pentru posturile fără flux brut
+const radioAudio = document.getElementById("radio-audio");
+const radioPlayBtn = document.getElementById("radio-play-btn");
+const radioPlayIcon = document.getElementById("radio-play-icon");
+const radioPauseIcon = document.getElementById("radio-pause-icon");
+const radioStatus = document.getElementById("radio-status");
+const radioMiniCard = document.getElementById("radio-mini-card");
+const radioMiniName = document.getElementById("radio-mini-name");
+const radioMiniClose = document.getElementById("radio-mini-close");
+const radioNowPlaying = document.getElementById("radio-now-playing");
+const radioNowName = document.getElementById("radio-now-name");
+const radioStopBtn = document.getElementById("radio-stop-btn");
+const radioEmbedBox = document.getElementById("radio-embed-box");
+const radioNowPauseBtn = document.getElementById("radio-now-pause-btn");
+const radioNowPlayIcon = document.getElementById("radio-now-play-icon");
+const radioNowPauseIcon = document.getElementById("radio-now-pause-icon");
+const radioNowStatus = document.getElementById("radio-now-status");
+function setRadioStatus(text){ radioStatus.textContent = text; radioNowStatus.textContent = text; }
+let radioPlaying = false;
+let radioIsEmbed = false;
+
+const AUDIO_ERROR_MESSAGES = {
+  1: "conexiune întreruptă (MEDIA_ERR_ABORTED)",
+  2: "eroare de rețea — serverul postului nu a răspuns (MEDIA_ERR_NETWORK)",
+  3: "fluxul nu poate fi decodat de acest browser (MEDIA_ERR_DECODE)",
+  4: "format sau protocol nesuportat de acest browser (MEDIA_ERR_SRC_NOT_SUPPORTED)"
+};
+radioAudio.addEventListener("error", () => {
+  const code = radioAudio.error ? radioAudio.error.code : null;
+  const msg = AUDIO_ERROR_MESSAGES[code] || "eroare necunoscută la redare";
+  setRadioStatus("eroare: " + msg);
+});
+
+function showRadioUI(name){
+  radioMiniName.textContent = name;
+  radioMiniCard.style.display = "flex";
+  radioNowName.textContent = name;
+  radioNowPlaying.style.display = "flex";
+  document.querySelectorAll(".radio-station").forEach(el => {
+    el.classList.toggle("playing", el.querySelector(".radio-station-name").textContent === name);
+  });
+}
+
+function setMiniPlayPauseVisible(visible){
+  radioPlayBtn.style.display = visible ? "flex" : "none";
+  radioNowPauseBtn.style.display = visible ? "flex" : "none";
+}
+
+function updatePlayPauseIcons(isPlaying){
+  radioPlayIcon.style.display = isPlaying ? "none" : "";
+  radioPauseIcon.style.display = isPlaying ? "" : "none";
+  radioNowPlayIcon.style.display = isPlaying ? "none" : "";
+  radioNowPauseIcon.style.display = isPlaying ? "" : "none";
+}
+
+function togglePlayPause(){
+  if(radioIsEmbed) return;
+  if(radioAudio.paused){
+    radioAudio.play();
+    updatePlayPauseIcons(true);
+    setRadioStatus("live acum");
+  } else {
+    radioAudio.pause();
+    updatePlayPauseIcons(false);
+    setRadioStatus("pauză");
+  }
+}
+
+function playStream(url, name){
+  radioEmbedBox.style.display = "none";
+  radioEmbedBox.innerHTML = "";
+  radioIsEmbed = false;
+  setMiniPlayPauseVisible(true);
+  radioAudio.src = url;
+  setRadioStatus("se conectează…");
+  showRadioUI(name);
+  const playPromise = radioAudio.play();
+  if(playPromise && playPromise.then){
+    playPromise.then(() => {
+      radioPlaying = true;
+      updatePlayPauseIcons(true);
+      setRadioStatus("live acum");
+    }).catch(err => {
+      setRadioStatus("nu a pornit automat — apasă din nou pe ▶ (" + (err && err.name ? err.name : "eroare browser") + ")");
+    });
+  }
+}
+
+function playEmbed(embedUrl, name){
+  radioAudio.pause();
+  radioIsEmbed = true;
+  radioPlaying = true;
+  setMiniPlayPauseVisible(false);
+  radioEmbedBox.innerHTML = '<iframe src="' + embedUrl + '" allow="autoplay"></iframe>';
+  radioEmbedBox.style.display = "block";
+  setRadioStatus("apasă play în playerul de mai jos (necesită atingere manuală)");
+  showRadioUI(name);
+}
+
+function stopStream(){
+  radioAudio.pause();
+  radioAudio.removeAttribute("src");
+  radioAudio.load();
+  radioEmbedBox.style.display = "none";
+  radioEmbedBox.innerHTML = "";
+  radioPlaying = false;
+  radioIsEmbed = false;
+  setMiniPlayPauseVisible(true);
+  updatePlayPauseIcons(false);
+  radioMiniCard.style.display = "none";
+  radioNowPlaying.style.display = "none";
+  document.querySelectorAll(".radio-station").forEach(el => el.classList.remove("playing"));
+}
+
+radioPlayBtn.addEventListener("click", togglePlayPause);
+radioNowPauseBtn.addEventListener("click", togglePlayPause);
+
+radioMiniClose.addEventListener("click", stopStream);
+radioStopBtn.addEventListener("click", stopStream);
+
+document.querySelectorAll(".radio-station[data-stream]").forEach(el => {
+  el.addEventListener("click", () => {
+    const url = el.dataset.stream;
+    const name = el.querySelector(".radio-station-name").textContent;
+    playStream(url, name);
+  });
+});
+document.querySelectorAll(".radio-station[data-embed]").forEach(el => {
+  el.addEventListener("click", () => {
+    const url = el.dataset.embed;
+    const name = el.querySelector(".radio-station-name").textContent;
+    playEmbed(url, name);
+  });
+});
+
+// Căutare — caută în capitolul curent încărcat (VERSES)
+const searchInput = document.getElementById("search-input");
+const searchResults = document.getElementById("search-results");
+
+function escapeHtml(s){
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+function highlightMatch(text, query){
+  const idx = text.toLowerCase().indexOf(query.toLowerCase());
+  if(idx === -1) return escapeHtml(text.slice(0, 140));
+  const start = Math.max(0, idx - 40);
+  const end = Math.min(text.length, idx + query.length + 60);
+  const before = escapeHtml(text.slice(start, idx));
+  const match = escapeHtml(text.slice(idx, idx + query.length));
+  const after = escapeHtml(text.slice(idx + query.length, end));
+  return (start > 0 ? "…" : "") + before + "<mark>" + match + "</mark>" + after + (end < text.length ? "…" : "");
+}
+
+function runSearch(){
+  const query = searchInput.value.trim();
+  searchResults.innerHTML = "";
+  if(query.length < 2) return;
+  if(!Array.isArray(VERSES) || !VERSES.length) return;
+
+  const book = getBook(currentBookSlug);
+  let count = 0;
+
+  VERSES.forEach(verse => {
+    const text = plainVerseText(verse);
+    const hits = [];
+    if(text.toLowerCase().includes(query.toLowerCase())){
+      hits.push({ label: "text verset", snippet: highlightMatch(text, query) });
+    }
+    (verse.commentaries || []).forEach(c => {
+      const plain = c.text.replace(/<[^>]+>/g, "");
+      if(plain.toLowerCase().includes(query.toLowerCase())){
+        hits.push({ label: c.author, snippet: highlightMatch(plain, query) });
+      }
+    });
+
+    hits.forEach(hit => {
+      count++;
+      const card = document.createElement("div");
+      card.className = "search-result";
+      card.innerHTML =
+        '<div class="search-result-ref">' + book.name + " " + verse.num + " · " + escapeHtml(hit.label) + '</div>' +
+        '<div class="search-result-snippet">' + hit.snippet + '</div>';
+      card.addEventListener("click", () => {
+        switchTab("biblia");
+        openDrawer(verse);
+      });
+      searchResults.appendChild(card);
+    });
+  });
+
+  if(count === 0){
+    searchResults.innerHTML = '<p style="color:var(--ink-soft); font-style:italic;">Niciun rezultat în ' + book.name + " " + currentChapter + ".</p>";
+  }
+}
+searchInput.addEventListener("input", runSearch);
+
+// Setări — buton spre panoul "despre"
+document.getElementById("settings-about-btn").addEventListener("click", openInfoPanel);
+
+// Ceas/dată live, în Acasă
+const homeDatetimeEl = document.getElementById("home-datetime");
+const ZILE = ["duminică","luni","marți","miercuri","joi","vineri","sâmbătă"];
+const LUNI = ["ianuarie","februarie","martie","aprilie","mai","iunie","iulie","august","septembrie","octombrie","noiembrie","decembrie"];
+function updateClock(){
+  const now = new Date();
+  const zi = ZILE[now.getDay()];
+  const luna = LUNI[now.getMonth()];
+  const ora = String(now.getHours()).padStart(2, "0");
+  const min = String(now.getMinutes()).padStart(2, "0");
+  homeDatetimeEl.innerHTML =
+    zi.charAt(0).toUpperCase() + zi.slice(1) + ", " + now.getDate() + " " + luna + " " + now.getFullYear() +
+    ' <span class="dt-time">' + ora + ":" + min + "</span>";
+}
+updateClock();
+setInterval(updateClock, 15000);
+
+// Citat creștin de inspirație — se schimbă automat în fiecare zi (rotație după ziua din an)
+const CITATE = [
+  { text: "Nu-ți fie niciodată teamă să încredințezi un viitor necunoscut unui Dumnezeu cunoscut.", author: "Corrie ten Boom" },
+  { text: "Credința înseamnă să faci primul pas chiar și când nu vezi toată scara.", author: "Martin Luther King Jr." },
+  { text: "Dumnezeu nu caută oameni cu credință mare, ci oameni gata să-L urmeze.", author: "Hudson Taylor" },
+  { text: "Casa mea e în Cer. Doar trec prin lumea asta.", author: "Billy Graham" },
+  { text: "Târziu Te-am iubit, Frumusețe atât de veche și atât de nouă.", author: "Fericitul Augustin" },
+  { text: "Trebuie să fim gata să ne lăsăm întrerupți de Dumnezeu.", author: "Dietrich Bonhoeffer" },
+  { text: "Prin stăruință, melcul a ajuns la arcă.", author: "Charles Spurgeon" },
+  { text: "Nimic să nu te tulbure, nimic să nu te sperie. Toate trec; Dumnezeu nu Se schimbă.", author: "Tereza de Ávila" },
+  { text: "Fă tot binele pe care poți, prin toate mijloacele pe care poți, în toate felurile pe care poți.", author: "John Wesley" },
+  { text: "Știu că Dumnezeu nu-mi va da nimic ce nu pot duce. Doar mi-aș dori să nu aibă atâta încredere în mine.", author: "Maica Tereza" }
+];
+function updateQuote(){
+  const now = new Date();
+  const start = new Date(now.getFullYear(), 0, 0);
+  const dayOfYear = Math.floor((now - start) / 86400000);
+  const q = CITATE[dayOfYear % CITATE.length];
+  const quoteEl = document.getElementById("home-quote");
+  quoteEl.innerHTML = "„" + q.text + "”" + '<span class="home-quote-ref">' + q.author + "</span>";
+}
+updateQuote();
+
+function initApp(){
+  document.getElementById("chapter-player-mount").appendChild(buildChapterPlayerBar());
+  loadChapter(1);
+}
+
+initApp();
+</script>
+</body>
+</html>
