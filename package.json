@@ -1,0 +1,16 @@
+{
+  "name": "biblie-tts-server",
+  "version": "1.0.0",
+  "description": "Server minim Express care generează audio TTS AI (OpenAI) pentru aplicatia Biblie, ca sa nu expunem cheia API in browser.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "openai": "^4.60.0"
+  }
+}
