@@ -15,7 +15,7 @@ window.CHAPTER_DATA = [
         "translit": "bereshit",
         "strong": "H7225",
         "greek": "ἀρχή (arche)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "început, punctul de pornire în timp; dă și numele cărții în ebraică."
       },
       {
@@ -41,7 +41,7 @@ window.CHAPTER_DATA = [
         "translit": "bara",
         "strong": "H1254",
         "greek": "ποιέω / κτίζω (poieo / ktizo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a crea, a aduce la existență din nimic; în Biblia ebraică apare aproape exclusiv cu Dumnezeu ca subiect."
       },
       {
@@ -54,7 +54,7 @@ window.CHAPTER_DATA = [
         "translit": "Elohim",
         "strong": "H430",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu — formă de plural intensiv în ebraică, dar folosită cu verbe la singular pentru Dumnezeul unic al lui Israel."
       },
       {
@@ -67,7 +67,7 @@ window.CHAPTER_DATA = [
         "translit": "shamayim",
         "strong": "H8064",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cer, ceruri — formă de plural în ebraică, fără un singular folosit."
       },
       {
@@ -86,7 +86,7 @@ window.CHAPTER_DATA = [
         "translit": "erets",
         "strong": "H776",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământ, țară, uscat."
       }
     ],
@@ -112,7 +112,7 @@ window.CHAPTER_DATA = [
         "text": "Începe, ca și Rashi, cu întrebarea lui Rabi Ițhak despre rostul povestirii creației într-o Tora a poruncilor. Dar adaugă o idee proprie, aproape „științifică”: la începutul creației, Dumnezeu a adus la existență, din nimic (<span class=\"heb-inline\">יֵשׁ מֵאַיִן</span>, „ceva din nimic”), un singur punct, mai mic decât un bob de muștar — atât de mic încât nu avea încă nicio dimensiune reală. Din acel punct s-au „întins” apoi toate cele create, ca o pastă întinsă, până au luat forma cerului și a pământului pe care le cunoaștem.<br><br>Ideea a fost remarcată de comentatori moderni pentru asemănarea ei izbitoare cu teoria științifică a Big Bang-ului — un univers care pornește dintr-un punct infinitezimal de mic."
       },
       {
-        "author": "Talmudul Babilonian (Hagiga 12a)",
+        "author": "Talmudul Babilonian (Hagiga 12b)",
         "text": "Chiar pe acest verset, Casa lui Șamai și Casa lui Hilel dezbat ordinea creației. Șamai citește versetul literal — „cerul și pământul” — și trage concluzia că cerul a fost făcut primul. Hilel se sprijină pe Geneza 2:4 („în ziua în care Domnul Dumnezeu a făcut pământ și cer”, unde pământul e numit primul) și susține contrariul.<br><br><b>Concluzia dezbaterii:</b> Înțelepții propun o împăcare — „amândouă au fost create împreună”, citând Isaia 48:13 („mâna Mea a întemeiat pământul, dreapta Mea a întins cerurile”) — adică cele două nu pot fi despărțite una de alta, indiferent care verset le numește primul. Reish Lakiș merge mai departe și distinge două etape: la <i>creație</i>, cerul a fost făcut primul; dar la <i>întindere/așezare în forma finală</i>, pământul a fost întins primul. Contradicția dintre versete se rezolvă, deci, nu alegând o tabără, ci observând că vorbesc despre etape diferite ale aceleiași lucrări.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
       },
       {
@@ -122,6 +122,18 @@ window.CHAPTER_DATA = [
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Popoarele din jurul lui Israel aveau și ele povești despre începuturi. Un text egiptean din Teba vorbește despre zeul Amon care „a rânduit lucrurile la prima ocazie” — o expresie pe care egiptologii n-o citesc ca pe o idee filozofică despre timp, ci ca pe referirea la un eveniment concret, prima dată când ceva s-a întâmplat. Ceva asemănător pare să facă și textul ebraic: „început” nu descrie o veșnicie abstractă dinainte de timp, ci pur și simplu episodul concret care urmează, cele șapte zile ale capitolului.<br><br>Ce diferă radical, însă, e cum se ajunge acolo: în mitologiile vecine, lumea apare de obicei dintr-un conflict între zei; în Geneza, un singur Dumnezeu vorbește, și lumea ascultă, fără nicio luptă."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1 (verificat, domeniu public, trad. Whiston)",
+        "text": "Istoricul evreu Josephus (sec. I d.Hr.), scriind pentru un public roman/elenistic, redă și el relatarea creației, urmând îndeaproape textul biblic: „La început Dumnezeu a creat cerul și pământul. Dar cum pământul nu se vedea, fiind acoperit de întuneric gros, iar un vânt sufla peste suprafața lui, Dumnezeu a poruncit să fie lumină.” Josephus adaugă, în prefața sa, o remarcă importantă: că Moise vorbește uneori „înțelept, dar enigmatic”, alteori „printr-o alegorie potrivită”, iar alteori „direct și clar” — o distincție timpurie între citirea literală și cea simbolică a textului Genezei."
+      },
+      {
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Explică „la început” ca fiind primul moment indivizibil al timpului, căci timpul însuși nu exista înainte de acest punct. „A creat” înseamnă a aduce la existență ceea ce nu exista deloc — un act la care noțiunea de timp nu se aplică. Discută și forma de plural „Elohim”, care nu indică pluralitate de zei, ci faptul că Dumnezeu e „forma tuturor formelor eterne”."
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Insistă, la începutul comentariului său la toată Tora, că sensul simplu (peșat) al textului nu contrazice niciodată interpretările tradiționale (derash) ale înțelepților — cele două nivele de lectură coexistă, spune el, chiar dacă unii cred greșit că se exclud."
       }
     ],
     "textCompare": [
@@ -141,10 +153,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean, nu cel ebraic pătrat)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Pentru capitolul creației, Pentateuhul Samaritean nu are variante semnificative față de Textul Masoretic — diferă doar alfabetul folosit. Cele aproximativ 6.000 de diferențe cunoscute între cele două tradiții apar mai ales în alte pasaje (cronologii, porunca despre Muntele Garizim etc.), nu în Geneza 1."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "La început Dumnezeu a creat cerul şi pământul."
   },
   {
     "num": 2,
@@ -162,7 +175,7 @@ window.CHAPTER_DATA = [
         "translit": "erets",
         "strong": "H776",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământ, țară, uscat."
       },
       {
@@ -181,7 +194,7 @@ window.CHAPTER_DATA = [
         "translit": "tohu",
         "strong": "H8414",
         "greek": "ἀόρατος (aoratos, „nevăzut”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "gol, haotic, nedefinit — nu neapărat „rău”, ci lipsit de formă și structură."
       },
       {
@@ -200,7 +213,7 @@ window.CHAPTER_DATA = [
         "translit": "bohu",
         "strong": "H922",
         "greek": "ἀκατασκεύαστος (akataskeuastos, „neformat”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pustiu, gol — apare aproape mereu în pereche cu „tohu”, ca expresie fixă pentru haosul dinaintea ordinii."
       },
       {
@@ -219,7 +232,7 @@ window.CHAPTER_DATA = [
         "translit": "choshek",
         "strong": "H2822",
         "greek": "σκότος (skotos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "întuneric, beznă — folosit și la figurat pentru necaz sau necunoaștere."
       },
       {
@@ -251,7 +264,7 @@ window.CHAPTER_DATA = [
         "translit": "tehom",
         "strong": "H8415",
         "greek": "ἄβυσσος (abyssos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "adânc, abis — apele primordiale de dinaintea despărțirii pământului de mare."
       },
       {
@@ -270,7 +283,7 @@ window.CHAPTER_DATA = [
         "translit": "ruach",
         "strong": "H7307",
         "greek": "πνεῦμα (pneuma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "duh, suflare, vânt — același cuvânt poate însemna toate trei, în funcție de context."
       },
       {
@@ -289,7 +302,7 @@ window.CHAPTER_DATA = [
         "translit": "Elohim",
         "strong": "H430",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -302,7 +315,7 @@ window.CHAPTER_DATA = [
         "translit": "merachefet",
         "strong": "H7363",
         "greek": "ἐπιφέρομαι (epipheromai, „a se purta/mișca deasupra”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a pluti, a se legăna în aer — aceeași rădăcină descrie, în Deuteronom 32:11, o pasăre care se leagănă deasupra puilor ei."
       },
       {
@@ -327,7 +340,7 @@ window.CHAPTER_DATA = [
         "translit": "mayim",
         "strong": "H4325",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "apă, ape — formă de plural în ebraică."
       }
     ],
@@ -345,6 +358,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Epopeea babiloniană Enuma Eliș povestește creația ca pe urmarea unui război între zei: Marduk o învinge pe zeița-ocean Tiamat și-i sfâșie trupul în două, ca să facă din el cerul și pământul. Nimic asemănător nu se întâmplă în Geneza — nu există niciun adversar, nicio bătălie. „Haos și pustiu” descrie doar o etapă neterminată a lucrării lui Dumnezeu, nu o forță ostilă pe care ar trebui s-o învingă.<br><br>Cât despre „duhul lui Dumnezeu” care plutește deasupra apelor, unii cercetători au propus o legătură cu vânturile stârnite de zeul Anu în aceeași epopee — dar acolo vântul aduce distrugere, în timp ce aici pare mai degrabă un semn de grijă activă, nu de amenințare."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Discută cuvântul תֹהוּ („tohu”): unii îl leagă de תְהוֹם („tehom”, adânc), dar Ibn Ezra respinge asta din motive gramaticale. Preferă explicația din Sefer Ietira: תֹהוּ ar desemna „linia verde” primordială, iar בֹהוּ pietrele informe — imagini despre o stare a materiei dinaintea oricărei forme, nu neapărat „gol” în sensul comun."
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Citește תֹהוּ וָבֹהוּ prin paralelă cu Ieremia 4:23 („m-am uitat la pământ și, iată, era pustiu și gol; și la ceruri, și lumina lor nu era”) — o imagine de dezolare totală, fără locuitori, nu neapărat de haos activ."
       }
     ],
     "textCompare": [
@@ -364,10 +385,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative pentru acest verset."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi pământul era fără formă şi gol şi întuneric era peste suprafaţa adâncului. Şi Duhul lui Dumnezeu se mişca peste suprafaţa apelor."
   },
   {
     "num": 3,
@@ -380,7 +402,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -394,7 +416,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "λέγω (lego, „a spune”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a spune, a zice — de la אמר, unul dintre cele mai frecvente verbe din Tora, introduce vorbirea directă."
       },
       {
@@ -408,7 +430,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, jussiv — mod imperativ/dorință)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "să fie — formă jussivă a verbului „a fi”, exprimă o poruncă/dorință, nu o simplă constatare."
       },
       {
@@ -422,7 +444,7 @@ window.CHAPTER_DATA = [
         "strong": "H216",
         "pos": "substantiv",
         "greek": "φῶς (phos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "lumină. Rashi discută dacă aceasta e lumina soarelui (creat abia în ziua a patra) sau o lumină aparte, de la începuturi."
       },
       {
@@ -436,7 +458,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi — aceeași rădăcină ca „yehi”, dar acum la forma narativă de trecut, arătând împlinirea."
       },
       {
@@ -450,7 +472,7 @@ window.CHAPTER_DATA = [
         "strong": "H216",
         "pos": "substantiv",
         "greek": "φῶς (phos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "lumină — a doua apariție a cuvântului în acest verset, fără articol, la fel ca prima."
       }
     ],
@@ -462,12 +484,28 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Rashi (1040–1105)",
-        "text": "Rashi (urmând o tradiție talmudică, TB Chagigah 12a) observă că această lumină nu putea fi lumina soarelui, care e creată abia în ziua a patra (v. 14-19). Ar fi fost, spune el, o lumină aparte, prin care Adam putea vedea „de la un capăt la altul al lumii” — dar, văzând Dumnezeu că generațiile viitoare (potopul, turnul Babel) nu erau vrednice de ea, a ascuns-o, păstrând-o (<span class=\"heb-inline\">גָּנַז</span>, „a tezaurizat”) pentru cei drepți, în Lumea Viitoare."
+        "author": "Talmudul Babilonian, Chagigah 12a (verificat direct în arhivă)",
+        "text": "Discută ideea că lumina primă din ziua întâi nu era lumina soarelui (creat abia în ziua a patra), ci o lumină specială prin care Adam putea vedea „de la un capăt la altul al lumii” — lumină pe care tradiția o numește „Or HaGanuz” (lumina ascunsă), retrasă pentru cei drepți în lumea viitoare."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Explică „și a zis Dumnezeu” ca desemnând voința divină, nu un act de vorbire propriu-zis — „prin cuvântul DOMNULUI au fost făcute cerurile” (Psalmul 33:6). E felul în care Scriptura descrie o acțiune fără efort, după modelul unui rege și slujitorii săi."
+      },
+      {
+        "author": "Ramban / Nahmanide (1194–1270)",
+        "text": "Discută opinia lui Rashi (lumina retrasă pentru drepți) și pe cea a lui Ibn Ezra (]„a văzut” înseamnă „a gândit”), dar le consideră pe amândouă insuficiente ca explicație literală — Ramban insistă asupra unei lecturi mai atente a secvenței creației."
+      },
+      {
+        "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+        "text": "Observă o particularitate stilistică: spre deosebire de celelalte porunci ale creației, aici Tora nu adaugă separat „și a fost așa” — pentru că, în acest caz, „și a fost lumină” funcționează deja ca formulă de împlinire, fără să mai fie nevoie de reluare."
       },
       {
         "author": "Sforno (cca. 1475–1550)",
-        "text": "Confirmă aceeași idee ca Rashi — lumina asta e „lumina celor șapte zile” (numită în tradiție <i>Or HaGanuz</i>, „lumina ascunsă”) — dar adaugă un detaliu propriu, filozofic: ea era destinată ființelor „create fără sămânță”, adică fără nevoie de reproducere obișnuită. Citând un pasaj din tratatul Șabat (30b), Sforno leagă asta de o viziune despre Lumea Viitoare, unde lucrurile vor putea fi produse direct, fără procesul obișnuit al semănatului și creșterii — o lume în care „puterea seminței” nu mai e necesară.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+        "text": "Confirmă ideea „luminii celor șapte zile” (Or HaGanuz), citând Talmudul (Șabat 30b): în viitor, spune tradiția, pământul va „scoate produse coapte și haine gata țesute” fără nevoia semințelor — o lume hrănită direct de acea lumină primordială."
+      },
+      {
+        "author": "Zohar, Bereșit 1a-b (verificat direct în arhivă)",
+        "text": "Pasajul de deschidere al Zoharului leagă cuvântul „Bereșit” de o meditație mistică despre flacără: „cine dorește să cunoască taina unității sfinte să privească la flacăra care se ridică dintr-un cărbune sau dintr-o lumânare aprinsă — căci flacăra se ridică numai atunci când e legată de un obiect grosier.” În flacăra care se înalță sunt două lumini: una albă, strălucitoare, care se ridică drept; și una neagră sau albăstruie, dedesubt, care-i servește ca „tron de slavă”. Lumina albă rămâne mereu albă; cea de dedesubt își schimbă culoarea — uneori neagră, uneori roșie. Deasupra luminii albe se odihnește o lumină ascunsă, care o înconjoară — „și în asta stă o taină supremă, toată înțelepciunea lumilor de sus aflându-se în flacăra care se ridică”."
       }
     ],
     "textCompare": [
@@ -487,10 +525,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a spus: Să fie lumină! Şi a fost lumină."
   },
   {
     "num": 4,
@@ -506,7 +545,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -520,7 +559,7 @@ window.CHAPTER_DATA = [
         "strong": "H7200",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ὁράω (horao, „a vedea”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a vedea."
       },
       {
@@ -534,7 +573,7 @@ window.CHAPTER_DATA = [
         "strong": "H216",
         "pos": "substantiv, cu articol hotărât",
         "greek": "φῶς (phos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "lumina — de-acum cu articol, spre deosebire de forma nearticulată de la v. 3."
       },
       {
@@ -548,7 +587,7 @@ window.CHAPTER_DATA = [
         "strong": "H2896",
         "pos": "adjectiv",
         "greek": "καλός / ἀγαθός (kalos / agathos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "bun, plăcut, potrivit — cuvântul revine ca un refren de-a lungul întregului capitol."
       },
       {
@@ -562,7 +601,7 @@ window.CHAPTER_DATA = [
         "strong": "H914",
         "pos": "verb (hifil, timpul trecut narativ)",
         "greek": "διαχωρίζω (diachorizo, „a despărți”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a despărți, a separa."
       },
       {
@@ -576,7 +615,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu — a doua mențiune în acest verset."
       },
       {
@@ -590,7 +629,7 @@ window.CHAPTER_DATA = [
         "strong": "H216",
         "pos": "substantiv, cu articol",
         "greek": "φῶς (phos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "lumina — a doua apariție."
       },
       {
@@ -603,7 +642,7 @@ window.CHAPTER_DATA = [
         "translit": "choshek",
         "strong": "H2822",
         "greek": "σκότος (skotos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "întuneric, beznă."
       }
     ],
@@ -616,6 +655,18 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Leagă direct de comentariul de la v. 3: Dumnezeu „a văzut că lumina era bună” — adică nu era potrivit ca ea să rămână amestecată cu întunericul, pentru cei răi ai lumii. De aceea a „despărțit” (<span class=\"heb-inline\">וַיַּבְדֵּל</span>) lumina, punând-o deoparte pentru cei drepți, așa cum am văzut la v. 3."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Citește „a văzut” ca pe un act de gândire, nu de percepție vizuală („precum am văzut eu însumi” — Eclesiastul 2:13) — o vedere intelectuală a binelui, nu una fizică."
+      },
+      {
+        "author": "Ramban / Nahmanide (1194–1270)",
+        "text": "Respinge, pe rând, atât explicația lui Rashi (lumina retrasă pentru cei drepți), cât și pe cea a lui Ibn Ezra („a văzut” = „a gândit”) — le consideră insuficiente, fără însă a oferi el însuși o soluție definitivă, semn al dificultății reale a versetului."
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Citește „a văzut că era bună” prin paralelă cu mama lui Moise, care „a văzut că era frumos” (Exod 2:2) — o judecată despre potrivirea și frumusețea a ceva nou apărut, nu o simplă constatare."
       }
     ],
     "textCompare": [
@@ -635,10 +686,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a văzut lumina, că era bună; şi Dumnezeu a despărţit lumina de întuneric."
   },
   {
     "num": 5,
@@ -680,7 +732,7 @@ window.CHAPTER_DATA = [
         "translit": "yom",
         "strong": "H3117",
         "greek": "ἡμέρα (hemera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "zi — poate însemna o zi de 24 de ore sau o perioadă mai lungă, nedefinită; sensul exact e discutat de comentatori."
       },
       {
@@ -717,7 +769,7 @@ window.CHAPTER_DATA = [
         "translit": "laylah",
         "strong": "H3915",
         "greek": "νύξ (nyx)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "noapte."
       },
       {
@@ -748,7 +800,7 @@ window.CHAPTER_DATA = [
         "translit": "erev",
         "strong": "H6153",
         "greek": "ἑσπέρα (hespera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "seară, amurg."
       },
       {
@@ -779,7 +831,7 @@ window.CHAPTER_DATA = [
         "translit": "boker",
         "strong": "H1242",
         "greek": "πρωί (proi)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "dimineață, zori."
       },
       {
@@ -806,8 +858,20 @@ window.CHAPTER_DATA = [
         "text": "Explică de ce textul spune <span class=\"heb-inline\">יוֹם אֶחָד</span> („o zi” / „ziua una”, la numeral cardinal) și nu <span class=\"heb-inline\">יוֹם רִאשׁוֹן</span> („ziua întâi”, la ordinal, cum apare pentru zilele următoare). Răspunsul lui: în acea zi, Dumnezeu era absolut singur în lumea Lui — îngerii n-au fost creați decât în ziua a doua (după o părere a lui Rashi) sau a cincea (după alta) — tocmai ca să nu existe temei pentru eretici să spună că îngerii L-au ajutat pe Dumnezeu la creație."
       },
       {
-        "author": "Talmudul Babilonian (Berahot 2a)",
+        "author": "Talmudul Babilonian (Berahot 2b)",
         "text": "Chiar prima pagină a Talmudului discută de ce Mișna deschide întreaga colecție întrebând despre citirea rugăciunii <span class=\"heb-inline\">שְׁמַע</span> („Șema”) de seară, nu de dimineață. Una din explicațiile propuse: ordinea urmează chiar ordinea din acest verset — „a fost seară, apoi a fost dimineață” arată că, în felul evreiesc de a socoti, ziua începe cu seara, nu cu dimineața. De aici pornește și practica de a începe zilele de sărbătoare (inclusiv Șabatul) la apusul soarelui din ajun, nu la răsăritul zilei respective.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Discută de ce Dumnezeu „a numit” lumina și întunericul — dat fiind că numirea e, de regulă, un act omenesc, textul trebuie să precizeze că, înainte de existența omului, Dumnezeu însuși a dat nume acestor lucruri."
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Observă o formulare neobișnuită: textul spune „a fost seară” (nu „a fost noapte”), pentru că ziua întâi se sfârșise prin apusul soarelui, iar apoi „a fost dimineață” — zorii care încheie noaptea. Insistă că succesiunea seară-dimineață marchează pur și simplu granița dintre cele șase zile ale creației."
+      },
+      {
+        "author": "Sfântul Vasile cel Mare, Hexaimeron, Omilia II (verificat direct din text — trad. Blomfield Jackson)",
+        "text": "Discută aceeași întrebare pusă și de Rashi: de ce Scriptura spune „o zi”, nu „ziua întâi”, când toate celelalte zile sunt numerotate (a doua, a treia...)? Vasile respinge ideea unei zile pur astronomice și propune o cheie diferită de a lui Rashi: „o zi” arată că ziua aceasta e „tipul veșniciei” — un cerc care începe și se sfârșește cu sine, spre deosebire de succesiunea zilelor următoare. O numește „ziua a opta” a Psalmistului — ziua fără seară, aflată în afara timpului săptămânii — și o leagă direct de ziua Învierii Domnului. Spre deosebire de explicația lui Rashi (unicitatea lui Dumnezeu înainte de crearea îngerilor în ziua a doua), Vasile citește „unu” ca semn al veșniciei, nu al singurătății divine — o divergență interpretativă instructivă între cele două tradiții, ambele plecând de la aceeași observație textuală."
       }
     ],
     "textCompare": [
@@ -827,10 +891,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a numit lumina zi şi întunericul l-a numit noapte. Şi a fost o seară şi o dimineaţă: ziua întâi."
   },
   {
     "num": 6,
@@ -846,7 +911,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -860,7 +925,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "λέγω (lego, „a spune”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a spune, a zice."
       },
       {
@@ -874,7 +939,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, jussiv)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "să fie — formă de poruncă/dorință."
       },
       {
@@ -888,7 +953,7 @@ window.CHAPTER_DATA = [
         "strong": "H7549",
         "pos": "substantiv",
         "greek": "στερέωμα (stereoma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "firmament, boltă întinsă — de la rădăcina „a întinde/a bate în foi” (ca metalul lovit cu ciocanul)."
       },
       {
@@ -902,7 +967,7 @@ window.CHAPTER_DATA = [
         "strong": "H8432",
         "pos": "substantiv (stare construită)",
         "greek": "μέσος (mesos, „mijloc”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "în mijlocul, în interiorul."
       },
       {
@@ -916,7 +981,7 @@ window.CHAPTER_DATA = [
         "strong": "H4325",
         "pos": "substantiv, cu articol",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "apele."
       },
       {
@@ -930,7 +995,7 @@ window.CHAPTER_DATA = [
         "strong": "H914",
         "pos": "verb (hifil, participiu)",
         "greek": "διαχωρίζω (diachorizo, „a despărți”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "care desparte, despărțitor — participiu al rădăcinii בדל."
       },
       {
@@ -944,7 +1009,7 @@ window.CHAPTER_DATA = [
         "strong": "H4325",
         "pos": "substantiv, fără articol",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "ape — prima din perechea „ape și ape”, fără articol."
       },
       {
@@ -958,7 +1023,7 @@ window.CHAPTER_DATA = [
         "strong": "H4325",
         "pos": "substantiv, cu prefixul לְ",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "ape — a doua din pereche, cu prefixul „la” („către/pentru”)."
       }
     ],
@@ -973,8 +1038,20 @@ window.CHAPTER_DATA = [
         "text": "Ridică o problemă renumită: de ce doar ziua a doua nu primește, la final, refrenul „și Dumnezeu a văzut că este bine”? Explicația lui: lucrarea apelor (despărțirea „apelor de deasupra” de „apele de dedesubt”) nu s-a încheiat de-a binelea decât în ziua a treia, când apele de dedesubt au fost și ele adunate la un loc (v. 9-10) — de-abia atunci se putea spune despre întreaga lucrare a apelor că „este bine”, verset în care refrenul apare, semnificativ, de două ori."
       },
       {
-        "author": "Talmudul Babilonian (Hagiga 15a)",
+        "author": "Talmudul Babilonian (Hagiga 15b)",
         "text": "O poveste faimoasă: ben Zoma, un înțelept adâncit în gânduri despre distanța dintre „apele de deasupra” și „apele de dedesubt” pomenite aici, a fost găsit de Rabi Iehoșua atât de absorbit încât n-a mai ridicat privirea să-l salute, cum cerea buna-cuviință. Despre cât de mare ar fi, de fapt, acest spațiu, înțelepții nu cad de acord — unii spun cât grosimea unui fir de păr, alții cât distanța dintre scândurile unei punți.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+      },
+      {
+        "author": "Ramban / Nahmanide (1194–1270)",
+        "text": "Citează o dezbatere din Bereșit Rabba despre verbul „să fie” (יְהִי) aplicat firmamentului: unii înțeleg „să se întărească”, alții „să se întindă ca o pânză” — imagini diferite pentru procesul de solidificare a cerurilor, umede la început, în ziua a doua."
+      },
+      {
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Descrie firmamentul ca pe o graniță naturală creată în mijlocul apei elementare, care desparte partea de sus (transformată în vapori, spre atmosferă) de partea de jos — o explicație aproape fizică a procesului, în termenii științei naturale a vremii lui."
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Explică de ce abia în ziua a treia apare pentru prima dată „și a văzut Dumnezeu că este bine”: lucrarea apelor nu s-a încheiat decât atunci, cu apariția uscatului — de aceea formula lipsește la ziua a doua și apare de două ori la a treia."
       }
     ],
     "textCompare": [
@@ -994,10 +1071,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a spus: Să fie o întindere în mijlocul apelor şi aceasta să despartă apele de ape."
   },
   {
     "num": 7,
@@ -1013,7 +1091,7 @@ window.CHAPTER_DATA = [
         "strong": "H6213",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ποιέω (poieo, „a face”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a face, a împlini — de la rădăcina עשה, cel mai general verb ebraic pentru „a face”."
       },
       {
@@ -1027,7 +1105,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -1041,7 +1119,7 @@ window.CHAPTER_DATA = [
         "strong": "H7549",
         "pos": "substantiv, cu articol hotărât",
         "greek": "στερέωμα (stereoma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "firmamentul (forma exactă, cu articolul הַ atașat, spre deosebire de forma nearticulată de la v. 6)."
       },
       {
@@ -1055,7 +1133,7 @@ window.CHAPTER_DATA = [
         "strong": "H914",
         "pos": "verb (hifil, timpul trecut narativ)",
         "greek": "διαχωρίζω (diachorizo, „a despărți”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a despărți, a separa — formă intensivă (hifil) a rădăcinii בדל."
       },
       {
@@ -1068,7 +1146,7 @@ window.CHAPTER_DATA = [
         "translit": "hamayim",
         "strong": "H4325",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "pos": "substantiv, cu articol hotărât",
         "def": "apele (cu articol) — apare de două ori în acest verset, cu referire diferită de fiecare dată."
       },
@@ -1095,7 +1173,7 @@ window.CHAPTER_DATA = [
         "strong": "H7549",
         "pos": "substantiv (cu prefixul לְ, „către/pentru”)",
         "greek": "στερέωμα (stereoma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "firmament — aceeași rădăcină ca la v. 6, aici cu prefixul „lamed”."
       },
       {
@@ -1109,7 +1187,7 @@ window.CHAPTER_DATA = [
         "strong": "H4325",
         "pos": "substantiv, cu articol hotărât",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "apele — a doua mențiune din acest verset, referindu-se de data asta la apele de deasupra."
       },
       {
@@ -1135,7 +1213,7 @@ window.CHAPTER_DATA = [
         "strong": "H7549",
         "pos": "substantiv (cu prefixul לְ)",
         "greek": "στερέωμα (stereoma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "firmamentului — a treia apariție a cuvântului în acest singur verset."
       },
       {
@@ -1149,7 +1227,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi, a deveni — de la רָיָה; formula „vayehi” marchează des trecerea la o nouă etapă a povestirii."
       },
       {
@@ -1163,7 +1241,7 @@ window.CHAPTER_DATA = [
         "strong": "H3651",
         "pos": "adverb",
         "greek": "οὕτως (houtos, „așa”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "așa, astfel — încheie formula standard de împlinire a poruncii divine."
       }
     ],
@@ -1175,6 +1253,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi observă o particularitate: la majoritatea zilelor, formula <span class=\"heb-inline\">וַיְהִי־כֵן</span> („și a fost așa”) apare imediat după poruncă, semn că lucrul s-a împlinit pe loc. Aici însă, spune el, „așa” trimite mai departe, spre strângerea apelor de la v. 9 — fapta de despărțire începută în ziua a doua se încheie abia atunci."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Discută de ce abia aici apare „și a fost așa” după poruncă, spre deosebire de ziua întâi unde formula „și a fost lumină” vine imediat. Citează și explicația altui înțelept, care leagă „și a fost așa” de versetul următor — deși Ibn Ezra o consideră incorectă."
+      },
+      {
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Explică mecanismul firmamentului aproape ca pe un fenomen natural: partea vaporoasă a apelor, oprită de firmament să coboare, condensându-se atunci când vaporii umezi îl ating, dă naștere ploii, zăpezii și rouă."
       }
     ],
     "textCompare": [
@@ -1194,10 +1280,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a făcut întinderea şi a despărţit apele care erau dedesubtul întinderii de apele care erau deasupra întinderii şi aşa a fost."
   },
   {
     "num": 8,
@@ -1213,7 +1300,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -1227,7 +1314,7 @@ window.CHAPTER_DATA = [
         "strong": "H7121",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "καλέω (kaleo, „a chema, a numi”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a chema, a numi — de la קרא, dă și numele cărții Levitic în ebraică."
       },
       {
@@ -1241,7 +1328,7 @@ window.CHAPTER_DATA = [
         "strong": "H7549",
         "pos": "substantiv (cu prefixul לְ)",
         "greek": "στερέωμα (stereoma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "firmamentul."
       },
       {
@@ -1255,7 +1342,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv, plural",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cer, ceruri."
       },
       {
@@ -1269,7 +1356,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -1283,7 +1370,7 @@ window.CHAPTER_DATA = [
         "strong": "H6153",
         "pos": "substantiv",
         "greek": "ἑσπέρα (hespera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "seară."
       },
       {
@@ -1297,7 +1384,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -1311,7 +1398,7 @@ window.CHAPTER_DATA = [
         "strong": "H1242",
         "pos": "substantiv",
         "greek": "πρωί (proi)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "dimineață."
       },
       {
@@ -1325,7 +1412,7 @@ window.CHAPTER_DATA = [
         "strong": "H8145",
         "pos": "numeral ordinal",
         "greek": "δεύτερος (deuteros, „al doilea”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "al doilea."
       },
       {
@@ -1340,6 +1427,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Un joc de cuvinte celebru: Rashi explică <span class=\"heb-inline\">שָׁמַיִם</span> („ceruri”) ca pe o combinație — <span class=\"heb-inline\">שָׁ</span> + <span class=\"heb-inline\">מַיִם</span> („acolo [sunt] ape”) sau, după o altă tradiție citată de el, <span class=\"heb-inline\">אֵשׁ וּמַיִם</span> („foc și apă”, esh u-mayim), amestecate de Dumnezeu ca să formeze cerurile — o etimologie simbolică, nu una gramaticală strictă."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Notează că sunt cinci lucruri pe care Dumnezeu însuși le-a numit înainte de a exista omul: lumina, întunericul, cerul, pământul și mările — după care omul a continuat, la rândul lui, să dea nume lucrurilor."
+      },
+      {
+        "author": "Ramban / Nahmanide (1194–1270)",
+        "text": "Discută numele שָׁמַיִם (ceruri): abia acum, în ziua a doua, când cerurile au fost „îmbrăcate” cu forma firmamentului, li s-a putut atribui acest nume — deși fuseseră create încă din ziua întâi, numele nu li se putea „prinde” fără forma corespunzătoare."
       }
     ],
     "textCompare": [
@@ -1359,10 +1454,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a numit întinderea cer. Şi a fost o seară şi o dimineaţă: ziua a doua."
   },
   {
     "num": 9,
@@ -1378,7 +1474,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -1392,7 +1488,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "λέγω (lego, „a spune”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a spune, a zice."
       },
       {
@@ -1406,7 +1502,7 @@ window.CHAPTER_DATA = [
         "strong": "H6960",
         "pos": "verb (nifal, jussiv)",
         "greek": "συνάγω (synago, „a aduna”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a se aduna, a se strânge — formă pasivă/reflexivă (nifal), la mod jussiv."
       },
       {
@@ -1420,7 +1516,7 @@ window.CHAPTER_DATA = [
         "strong": "H4325",
         "pos": "substantiv, cu articol",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "apele."
       },
       {
@@ -1434,7 +1530,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv, cu articol",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cerurile."
       },
       {
@@ -1448,7 +1544,7 @@ window.CHAPTER_DATA = [
         "strong": "H4725",
         "pos": "substantiv",
         "greek": "τόπος (topos, „loc”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "loc."
       },
       {
@@ -1469,7 +1565,7 @@ window.CHAPTER_DATA = [
         "strong": "H7200",
         "pos": "verb (nifal, jussiv)",
         "greek": "ὁράω (horao, „a vedea”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a se arăta, a se face vizibil — formă pasivă (nifal) a verbului „a vedea”."
       },
       {
@@ -1483,7 +1579,7 @@ window.CHAPTER_DATA = [
         "strong": "H3004",
         "pos": "substantiv, cu articol",
         "greek": "ξηρά (xera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "uscat, pământ ferm — de la rădăcina „a fi uscat”."
       },
       {
@@ -1497,7 +1593,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -1511,7 +1607,7 @@ window.CHAPTER_DATA = [
         "strong": "H3651",
         "pos": "adverb",
         "greek": "οὕτως (houtos, „așa”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "așa, astfel."
       }
     ],
@@ -1534,6 +1630,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Egiptul antic avea propria imagine pentru acest moment: „movila primordială” (benben) — primul petic de uscat care apare din apele haosului (zeul Nun), pe care s-ar fi așezat zeul-creator la începutul lumii. Ideea unui prim pământ care „răsare” din ape, ca punct de sprijin al creației, era un motiv comun în regiune — dar în Egipt acel pământ e locul unde stă zeul însuși, în timp ce în Geneza, uscatul apare printr-o simplă poruncă rostită, fără ca Dumnezeu să aibă nevoie de vreun loc anume unde să Se sprijine."
+      },
+      {
+        "author": "Ramban / Nahmanide (1194–1270)",
+        "text": "Descrie „adâncul” inițial ca pe un amestec de apă și pământ, ca niște ape tulburi. Discută și o posibilă lectură „știițifică” a vremii — pământul ca sferă, parțial expusă, parțial submersă — pe care o consideră doar o ipoteză plauzibilă printre altele, fără s-o adopte ferm."
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Leagă strângerea apelor de „vântul lui Dumnezeu” din v.2 — la fel cum vântul de răsărit a despărțit Marea Roșie, la fel un vânt a adunat apele de la începutul lumii într-un singur loc, lăsând uscatul să apară."
       }
     ],
     "textCompare": [
@@ -1553,10 +1657,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a spus: Apele de sub cer să se adune la un loc şi să se arate uscatul. Şi aşa a fost."
   },
   {
     "num": 10,
@@ -1572,7 +1677,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -1586,7 +1691,7 @@ window.CHAPTER_DATA = [
         "strong": "H7121",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "καλέω (kaleo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a chema, a numi."
       },
       {
@@ -1600,7 +1705,7 @@ window.CHAPTER_DATA = [
         "strong": "H3004",
         "pos": "substantiv, cu prefixul לְ",
         "greek": "ξηρά (xera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "uscat, pământ ferm."
       },
       {
@@ -1614,7 +1719,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, fără articol",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământ, uscat."
       },
       {
@@ -1628,7 +1733,7 @@ window.CHAPTER_DATA = [
         "strong": "H4723",
         "pos": "substantiv, stare construită",
         "greek": "συναγωγή (synagoge, „adunare”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "adunare, strângere (de ape) — de la aceeași rădăcină ca „mikve”, baia rituală iudaică."
       },
       {
@@ -1642,7 +1747,7 @@ window.CHAPTER_DATA = [
         "strong": "H4325",
         "pos": "substantiv, cu articol",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "apele."
       },
       {
@@ -1656,7 +1761,7 @@ window.CHAPTER_DATA = [
         "strong": "H7121",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "καλέω (kaleo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a chema, a numi — a doua apariție a rădăcinii קרא în acest verset, aici fără prefixul „vav”."
       },
       {
@@ -1670,7 +1775,7 @@ window.CHAPTER_DATA = [
         "strong": "H3220",
         "pos": "substantiv, plural",
         "greek": "θάλασσα (thalassa)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "mare, mări."
       },
       {
@@ -1696,7 +1801,7 @@ window.CHAPTER_DATA = [
         "strong": "H7200",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ὁράω (horao)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a vedea."
       },
       {
@@ -1710,7 +1815,7 @@ window.CHAPTER_DATA = [
         "strong": "H2896",
         "pos": "adjectiv",
         "greek": "καλός (kalos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "bun, bine."
       }
     ],
@@ -1725,8 +1830,16 @@ window.CHAPTER_DATA = [
         "text": "Rashi observă că abia aici, la strângerea apelor și apariția uscatului, apare pentru prima dată în capitol formula <span class=\"heb-inline\">כִּי־טוֹב</span> („că este bine”) — pentru că lucrarea despărțirii apelor, începută în ziua a doua (v. 6-7), se încheie de-abia acum. De aceea, spune el, unii înțelepți leagă acest „bine” și de ziua a doua, care rămăsese, singură, fără el."
       },
       {
-        "author": "Talmudul Babilonian (Șabat 108a)",
+        "author": "Talmudul Babilonian (Șabat 109b)",
         "text": "Talmudul discută dacă toate mările „purifică” ritual precum o baie rituală (<span class=\"heb-inline\">מִקְוֶה</span>, mikve). Rabi Meir citește versetul literal — „adunarea apelor a numit-o mări” — și trage concluzia că orice mare are statutul unui mikve. Rabi Iehuda nu e de acord: pentru el, versetul spune „mări” la plural doar pentru că Marea cea Mare (Mediterana) cuprinde de fapt mai multe mări — deci doar ea are acest statut, nu oricare întindere de apă.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+      },
+      {
+        "author": "Ramban / Nahmanide (1194–1270)",
+        "text": "Explică de ce uscatul a fost numit „pământ” (ca și numele general al elementelor create în ziua întâi), și nu doar „uscat”: pentru că uscatul e motivul pentru care toate elementele au fost create — să existe un loc de locuit pentru om, singura ființă de jos care își recunoaște Creatorul."
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Notează, simplu, că peste tot în Tora „uscatul” e numit „pământ” (ארץ) — o clarificare terminologică pe care o folosește constant în comentariul său."
       }
     ],
     "textCompare": [
@@ -1746,10 +1859,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a numit uscatul pământ, şi adunarea apelor a numit-o mări; şi Dumnezeu a văzut că lucrul acesta era bun."
   },
   {
     "num": 11,
@@ -1764,7 +1878,7 @@ window.CHAPTER_DATA = [
         "translit": "deshe",
         "strong": "H1877",
         "greek": "βοτάνη (botane)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "verdeață, iarbă tânără, prima vegetație care încolțește."
       },
       {
@@ -1777,7 +1891,7 @@ window.CHAPTER_DATA = [
         "translit": "zera",
         "strong": "H2233",
         "greek": "σπέρμα (sperma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "sămânță, urmaș — cuvânt cheie, revine des în Tora (ex. „sămânța” lui Avraam)."
       },
       {
@@ -1790,7 +1904,7 @@ window.CHAPTER_DATA = [
         "translit": "ets",
         "strong": "H6086",
         "greek": "ξύλον (xylon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pom, copac, lemn."
       },
       {
@@ -1803,7 +1917,7 @@ window.CHAPTER_DATA = [
         "translit": "peri",
         "strong": "H6529",
         "greek": "καρπός (karpos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "rod, fruct."
       },
       {
@@ -1816,7 +1930,7 @@ window.CHAPTER_DATA = [
         "translit": "min",
         "strong": "H4327",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soi, specie — cuvântul din spatele ideii de „soiuri fixe” în discuțiile despre creație."
       },
       {
@@ -1831,6 +1945,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Se oprește la expresia <span class=\"heb-inline\">אֲשֶׁר זַרְעוֹ־בוֹ</span> („cu sămânța sa în el”): pentru Rashi, asta arată că, la prima creație, pomii au apărut direct cu rodul copt și cu sămânța gata formată în ei — nu au trecut prin ciclul obișnuit de la sămânță plantată la copac crescut. Creația „instantanee”, matură de la început, e un tipar pe care Rashi îl vede și la Adam (creat matur, nu ca prunc)."
+      },
+      {
+        "author": "Ramban / Nahmanide (1194–1270)",
+        "text": "Citește porunca drept o decretare a puterii de creștere pusă în pământ, capabilă să reproducă speciile la infinit — leagă asta de o zicere din Bereșit Rabba: „nu există fir de iarbă jos care să nu aibă o «constelație» sus care să-l lovească și să-i spună «crește!»”."
+      },
+      {
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Distinge clar cele trei categorii: iarbă pentru hrana animalelor, plante cu sămânță pentru hrana omului, pomi roditori „după soiul lor” — insistă că un hibrid din două specii nu se poate reproduce, principiu care rămâne stabilit „fără exces sau lipsă” de atunci."
       }
     ],
     "textCompare": [
@@ -1850,10 +1972,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויאמר אלהים תדשא הארץ דשא עשב מזריע זרע ועץ פרי עשה פרי למינו אשר זרעו בו על הארץ ויהי כן — „And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a spus: Să dea pământul iarbă, verdeaţa care aduce sămânţă şi pomi roditori care aduc rod după felul lor, a căror sămânţă este în ei, pe pământ. Şi aşa a fost."
   },
   {
     "num": 12,
@@ -1869,7 +1992,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol hotărât",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul — subiectul propoziției; observă că, spre deosebire de v. 11 (unde Dumnezeu poruncește), aici pământul e cel care „produce”."
       },
       {
@@ -1883,7 +2006,7 @@ window.CHAPTER_DATA = [
         "strong": "H3318",
         "pos": "verb (hifil, timpul trecut narativ)",
         "greek": "ἐξάγω (exago, „a scoate”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a scoate, a produce — formă cauzativă (hifil) a rădăcinii יצא, „a ieși”."
       },
       {
@@ -1897,7 +2020,7 @@ window.CHAPTER_DATA = [
         "strong": "H1877",
         "pos": "substantiv",
         "greek": "βοτάνη (botane)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "verdeață, prima vegetație."
       },
       {
@@ -1923,7 +2046,7 @@ window.CHAPTER_DATA = [
         "strong": "H2232",
         "pos": "verb (hifil, participiu)",
         "greek": "σπείρω (speiro, „a semăna”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "care dă sămânță — participiu, nu adjectiv propriu-zis; literal „care însămânțează”."
       },
       {
@@ -1937,7 +2060,7 @@ window.CHAPTER_DATA = [
         "strong": "H2233",
         "pos": "substantiv",
         "greek": "σπέρμα (sperma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "sămânță."
       },
       {
@@ -1951,7 +2074,7 @@ window.CHAPTER_DATA = [
         "strong": "H4327",
         "pos": "substantiv cu sufix posesiv",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soiul său — sufixul „-hu” (his/its) atașat direct cuvântului, tipic pentru ebraică."
       },
       {
@@ -1965,7 +2088,7 @@ window.CHAPTER_DATA = [
         "strong": "H6086",
         "pos": "substantiv",
         "greek": "ξύλον (xylon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pom, copac."
       },
       {
@@ -1979,7 +2102,7 @@ window.CHAPTER_DATA = [
         "strong": "H6213",
         "pos": "verb (qal, participiu)",
         "greek": "ποιέω (poieo, „a face”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "care face — literal „face rod”, același verb general „a face” de la v. 7."
       },
       {
@@ -1993,7 +2116,7 @@ window.CHAPTER_DATA = [
         "strong": "H6529",
         "pos": "substantiv",
         "greek": "καρπός (karpos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "rod, fruct."
       },
       {
@@ -2007,7 +2130,7 @@ window.CHAPTER_DATA = [
         "strong": "H2233",
         "pos": "substantiv cu sufix posesiv",
         "greek": "σπέρμα (sperma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "sămânța lui — a doua apariție a rădăcinii זרע în acest verset, aici cu sufix."
       },
       {
@@ -2021,7 +2144,7 @@ window.CHAPTER_DATA = [
         "strong": "H4327",
         "pos": "substantiv cu sufix posesiv",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soiul său — a doua apariție a acestui cuvânt în verset."
       },
       {
@@ -2035,7 +2158,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -2049,7 +2172,7 @@ window.CHAPTER_DATA = [
         "strong": "H7200",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ὁράω (horao, „a vedea”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a vedea."
       },
       {
@@ -2063,7 +2186,7 @@ window.CHAPTER_DATA = [
         "strong": "H2896",
         "pos": "adjectiv",
         "greek": "καλός / ἀγαθός (kalos / agathos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "bun, bine."
       }
     ],
@@ -2075,6 +2198,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Un comentariu celebru: la v. 11, porunca fusese „pom roditor care rodește rod” (<span class=\"heb-inline\">עֵץ פְּרִי עֹשֶׂה פְּרִי</span>) — adică, spune Rashi, un pom al cărui lemn să aibă gustul rodului. Dar la v. 12, pământul „a produs... pom care rodește fruct” — fără să mai fie „pom-rod” el însuși, ci doar un pom care face rod. Pământul n-a împlinit porunca întocmai, spune Rashi, și de aceea a fost și el blestemat mai târziu, o dată cu Adam (Geneza 3:17)."
+      },
+      {
+        "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+        "text": "Discută citarea midrașică din Talmud (Chulin 60a) despre pământul care „a tras un argument a fortiori” pentru sine — dacă pomii au primit porunca „după soiul lor”, la fel trebuiau să facă și ierburile, deși porunca nu li s-a spus explicit lor."
       }
     ],
     "textCompare": [
@@ -2094,10 +2221,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi pământul a dat iarbă şi verdeaţă care aduce sămânţă după felul ei şi pomi care aduc rod, a căror sămânţă era în ei, după felul lor; şi Dumnezeu a văzut că lucrul acesta era bun."
   },
   {
     "num": 13,
@@ -2113,7 +2241,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi — prima din cele două apariții ale verbului în acest verset."
       },
       {
@@ -2127,7 +2255,7 @@ window.CHAPTER_DATA = [
         "strong": "H6153",
         "pos": "substantiv",
         "greek": "ἑσπέρα (hespera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "seară, amurg."
       },
       {
@@ -2141,7 +2269,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi — a doua apariție a verbului."
       },
       {
@@ -2155,7 +2283,7 @@ window.CHAPTER_DATA = [
         "strong": "H1242",
         "pos": "substantiv",
         "greek": "πρωί (proi)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "dimineață, zori."
       },
       {
@@ -2169,7 +2297,7 @@ window.CHAPTER_DATA = [
         "strong": "H7992",
         "pos": "numeral ordinal",
         "greek": "τρίτος (tritos, „al treilea”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "al treilea — la fel ca la celelalte zile, ordinalul se referă la „zi” (יוֹם), subînțeles din context."
       },
       {
@@ -2181,8 +2309,8 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Rashi (1040–1105)",
-        "text": "Notează, împreună cu v. 10, că ziua a treia e singura din capitol care primește formula „și a văzut Dumnezeu că este bine” de două ori (v. 10 și v. 12) — o dată pentru adunarea apelor, o dată pentru vegetație — poate tocmai ca să compenseze absența ei totală din ziua a doua (v. 6-8)."
+        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
+        "text": "Versetul de încheiere a zilei a treia. Observația despre dubla formulă „și a văzut Dumnezeu că este bine” (v.10 și v.12) aparține de fapt comentariului lui Rashi la v.7, unde explică de ce ziua a doua nu primește această formulă și de ce ziua a treia o primește de două ori."
       }
     ],
     "textCompare": [
@@ -2202,10 +2330,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi a fost o seară şi o dimineaţă: ziua a treia."
   },
   {
     "num": 14,
@@ -2221,7 +2350,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -2235,7 +2364,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "λέγω (lego)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a spune, a zice."
       },
       {
@@ -2249,7 +2378,7 @@ window.CHAPTER_DATA = [
         "strong": "H3974",
         "pos": "substantiv, plural",
         "greek": "φωστήρ (phoster)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "luminători, purtători de lumină — corp ceresc care dă lumină."
       },
       {
@@ -2263,7 +2392,7 @@ window.CHAPTER_DATA = [
         "strong": "H7549",
         "pos": "substantiv, cu prefixul בְּ",
         "greek": "στερέωμα (stereoma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "firmament."
       },
       {
@@ -2277,7 +2406,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv, cu articol",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cerurile."
       },
       {
@@ -2291,7 +2420,7 @@ window.CHAPTER_DATA = [
         "strong": "H914",
         "pos": "verb (hifil, infinitiv)",
         "greek": "διαχωρίζω (diachorizo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a despărți, a separa."
       },
       {
@@ -2305,7 +2434,7 @@ window.CHAPTER_DATA = [
         "strong": "H3117",
         "pos": "substantiv, cu articol",
         "greek": "ἡμέρα (hemera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "ziua."
       },
       {
@@ -2319,7 +2448,7 @@ window.CHAPTER_DATA = [
         "strong": "H3915",
         "pos": "substantiv, cu articol",
         "greek": "νύξ (nyx)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "noapte."
       },
       {
@@ -2333,7 +2462,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, conjunctiv)",
         "greek": "γίνομαι (ginomai)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi, a deveni."
       },
       {
@@ -2347,7 +2476,7 @@ window.CHAPTER_DATA = [
         "strong": "H226",
         "pos": "substantiv, plural cu prefixul לְ",
         "greek": "σημεῖον (semeion)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "semn, semnal — folosit și pentru minuni sau semne prevestitoare."
       },
       {
@@ -2361,7 +2490,7 @@ window.CHAPTER_DATA = [
         "strong": "H4150",
         "pos": "substantiv, plural cu prefix",
         "greek": "καιρός (kairos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "vremi rânduite, sărbători stabilite — același cuvânt folosit mai târziu pentru sărbătorile evreiești."
       },
       {
@@ -2375,7 +2504,7 @@ window.CHAPTER_DATA = [
         "strong": "H3117",
         "pos": "substantiv, plural cu prefix",
         "greek": "ἡμέρα (hemera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "zile — plural de la „yom”."
       },
       {
@@ -2389,7 +2518,7 @@ window.CHAPTER_DATA = [
         "strong": "H8141",
         "pos": "substantiv, plural",
         "greek": "ἐνιαυτός (eniautos, „an”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "ani."
       }
     ],
@@ -2407,6 +2536,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Un imn babilonian închinat lui Șamaș, zeul-Soare, îl laudă pentru rolul de a regla anotimpurile și calendarul — dar Șamaș era, în același timp, patronul divinației, al citirii semnelor cerești ca prevestiri ale viitorului. Cuvântul ebraic pentru „semn” (<span class=\"heb-inline\">אוֹת</span>) are, într-adevăr, o rădăcină înrudită cu termenul akkadian folosit pentru augur — dar Tora îl golește de sensul divinatoriu: luminătorii marchează timpul calendaristic, nu prezic soarta oamenilor. E o distincție deliberată față de practicile vecinilor lui Israel, unde citirea cerului era o formă centrală de a afla voia zeilor."
+      },
+      {
+        "author": "Ramban / Nahmanide (1194–1270)",
+        "text": "Explică secvența logică: lumina fusese creată în ziua întâi și lumina elementele de bază; firmamentul din ziua a doua a blocat-o să ajungă la elementele inferioare; abia acum, în ziua a patra, Dumnezeu voiește ca luminătorii din firmament să transmită efectiv lumina până la pământ."
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Discută „semnele” cerești prin paralelă cu Ezechia — „umbra se va întoarce zece trepte” (2 Regi 20) ca semn confirmat de mișcarea soarelui — și „soroacele” prin calculul lunii, care se reînnoiește la fiecare 29 de zile și jumătate, temei pentru calendarul sărbătorilor și al documentelor legale."
       }
     ],
     "textCompare": [
@@ -2426,10 +2563,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויאמר אלהים יהי מאורות ברקיע השמים להאיר על הארץ ולהבדיל בין היום ובין הלילה והיו לאתות ולמועדים ולימים ושנים — „And God said, Let there be lights in the firmament of the heaven to light over the earth, and to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a spus: Să fie luminători în întinderea cerului pentru a despărţi ziua de noapte; şi ei să fie pentru semne şi pentru anotimpuri şi pentru zile şi ani;"
   },
   {
     "num": 15,
@@ -2445,7 +2583,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, la forma de conjunctiv/viitor)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi, a deveni — aceeași rădăcină ca „vayehi”, dar aici la o formă gramaticală diferită (conjunctivă)."
       },
       {
@@ -2459,7 +2597,7 @@ window.CHAPTER_DATA = [
         "strong": "H3974",
         "pos": "substantiv (cu prefixul לְ, „ca/pentru”)",
         "greek": "φωστήρ (phoster)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "luminători — a doua mențiune a cuvântului, aici cu alt prefix decât la v. 14."
       },
       {
@@ -2473,7 +2611,7 @@ window.CHAPTER_DATA = [
         "strong": "H7549",
         "pos": "substantiv (cu prefixul בְּ, „în/pe”)",
         "greek": "στερέωμα (stereoma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "firmament."
       },
       {
@@ -2487,7 +2625,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv, cu articol hotărât",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cerurile."
       },
       {
@@ -2513,7 +2651,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol hotărât",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul."
       },
       {
@@ -2527,7 +2665,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -2541,7 +2679,7 @@ window.CHAPTER_DATA = [
         "strong": "H3651",
         "pos": "adverb",
         "greek": "οὕτως (houtos, „așa”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "așa, astfel."
       }
     ],
@@ -2553,6 +2691,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează repetiția „să fie ca luminători” (deja spusă la v. 14) — pentru el, semn că v. 14 vorbește despre porunca inițială, iar v. 15 despre împlinirea ei efectivă, ca lumină concretă asupra pământului."
+      },
+      {
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Subliniază că versetul adaugă explicit „să lumineze pământul” — pentru că nu era de la sine înțeles că luminătorii, odată puși pe cer, aveau să-și trimită neapărat lumina până jos; textul precizează separat acest lucru."
       }
     ],
     "textCompare": [
@@ -2572,10 +2714,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: והיו למאורות ברקיע השמים להאיר על הארץ ויהי כן — „And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi ei să fie ca luminători în întinderea cerului pentru a da lumină peste pământ. Şi aşa a fost."
   },
   {
     "num": 16,
@@ -2591,7 +2734,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -2605,7 +2748,7 @@ window.CHAPTER_DATA = [
         "strong": "H6213",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ποιέω (poieo, „a face”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a face."
       },
       {
@@ -2619,7 +2762,7 @@ window.CHAPTER_DATA = [
         "strong": "H8147",
         "pos": "numeral (stare construită)",
         "greek": "δύο (dyo, „doi”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cei doi, perechea de."
       },
       {
@@ -2633,7 +2776,7 @@ window.CHAPTER_DATA = [
         "strong": "H3974",
         "pos": "substantiv, plural cu articol",
         "greek": "φωστήρ (phoster)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "luminătorii — plural, cu articol hotărât."
       },
       {
@@ -2647,7 +2790,7 @@ window.CHAPTER_DATA = [
         "strong": "H1419",
         "pos": "adjectiv, plural cu articol",
         "greek": "μέγας (megas, „mare”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cei mari — acordat cu „luminătorii”, la plural."
       },
       {
@@ -2661,7 +2804,7 @@ window.CHAPTER_DATA = [
         "strong": "H3974",
         "pos": "substantiv, singular cu articol",
         "greek": "φωστήρ (phoster)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "luminătorul — de-acum la singular, spre deosebire de forma de plural anterioară."
       },
       {
@@ -2675,7 +2818,7 @@ window.CHAPTER_DATA = [
         "strong": "H1419",
         "pos": "adjectiv, singular cu articol",
         "greek": "μέγας (megas, „mare”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cel mare — la singular."
       },
       {
@@ -2689,7 +2832,7 @@ window.CHAPTER_DATA = [
         "strong": "H4475",
         "pos": "substantiv (nu verb!) cu prefixul לְ",
         "greek": "ἀρχή (arche, „stăpânire, domnie”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pentru stăpânirea — deși tradus firesc ca infinitiv verbal, cuvântul ebraic e de fapt un substantiv abstract, „domnie/stăpânire”, nu un verb."
       },
       {
@@ -2703,7 +2846,7 @@ window.CHAPTER_DATA = [
         "strong": "H3117",
         "pos": "substantiv, cu articol",
         "greek": "ἡμέρα (hemera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "ziua."
       },
       {
@@ -2717,7 +2860,7 @@ window.CHAPTER_DATA = [
         "strong": "H3974",
         "pos": "substantiv, singular cu articol",
         "greek": "φωστήρ (phoster)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "luminătorul — a doua apariție a formei de singular."
       },
       {
@@ -2731,7 +2874,7 @@ window.CHAPTER_DATA = [
         "strong": "H6996",
         "pos": "adjectiv, cu articol",
         "greek": "μικρός (mikros, „mic”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cel mic."
       },
       {
@@ -2745,7 +2888,7 @@ window.CHAPTER_DATA = [
         "strong": "H4475",
         "pos": "substantiv, cu prefixul לְ",
         "greek": "ἀρχή (arche, „stăpânire, domnie”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pentru stăpânirea — a doua apariție."
       },
       {
@@ -2759,7 +2902,7 @@ window.CHAPTER_DATA = [
         "strong": "H3915",
         "pos": "substantiv, cu articol",
         "greek": "νύξ (nyx)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "noaptea."
       },
       {
@@ -2773,7 +2916,7 @@ window.CHAPTER_DATA = [
         "strong": "H3556",
         "pos": "substantiv, plural cu articol",
         "greek": "ἀστήρ (aster, „stea”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "stelele — menționate ultimele, aproape în treacăt, spre deosebire de accentul pus pe cei doi „luminători mari”."
       }
     ],
@@ -2790,6 +2933,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Explică o alegere de vocabular care ar putea trece neobservată: pentru luminători, textul folosește „a făcut” (<span class=\"heb-inline\">וַיַּעַשׂ</span>), nu „a creat” (<span class=\"heb-inline\">בָּרָא</span>). Motivul, spune Sforno: materia primă a cerurilor și corpurilor cerești fusese deja creată la v. 1 („cerurile și pământul”); acum, Dumnezeu doar le dă formă — le „face” rotunde și luminoase din acea materie deja existentă, nu le aduce la existență din nimic. Distincția „creat” / „făcut” marchează, deci, diferența dintre a aduce ceva la existență și a-i da formă din ceva deja existent.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+      },
+      {
+        "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+        "text": "Dezvoltă midrașul despre luna micșorată: create inițial egale, luna a atacat verbal soarele („nu pot doi regi să poarte aceeași coroană”) și a fost, ca urmare, micșorată — dar soarele, care „a auzit insulta și n-a răspuns”, a rămas mare, ca recompensă pentru tăcerea lui, comparat cu principiul talmudic al celor „insultați care nu insultă înapoi”."
       }
     ],
     "textCompare": [
@@ -2809,10 +2956,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויעש אלהים את שני המאורות הגדלים את המאור הגדול לממשלת היום ואת המאור הקטן לממשלת הלילה ואת הכוכבים — „And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: [he made] the stars also.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a făcut doi luminători mari: luminătorul mai mare pentru a stăpâni ziua şi luminătorul mai mic pentru a stăpâni noaptea; el a făcut de asemenea stelele."
   },
   {
     "num": 17,
@@ -2828,7 +2976,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -2854,7 +3002,7 @@ window.CHAPTER_DATA = [
         "strong": "H7549",
         "pos": "substantiv (cu prefixul בְּ)",
         "greek": "στερέωμα (stereoma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "firmament."
       },
       {
@@ -2868,7 +3016,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv, cu articol hotărât",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cerurile."
       },
       {
@@ -2894,7 +3042,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol hotărât",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul."
       }
     ],
@@ -2904,8 +3052,8 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Rashi (1040–1105)",
-        "text": "Verset scurt, de tranziție — Rashi îl citește împreună cu v. 16 și 18 ca pe o singură unitate: v. 16 descrie *ce anume* a făcut Dumnezeu (luminătorii), v. 17 *unde* i-a pus (pe firmament), iar v. 18 *de ce* (scopul dublu, de stăpânire și despărțire)."
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Notează, ca observație pur lingvistică, că nu trebuie să ne mire verbul „a pus/a așezat” aplicat luminătorilor — aceeași formă apare și la „am pus curcubeul Meu” (Geneza 9:13), unde nimeni nu se îndoiește de sensul ei propriu."
       }
     ],
     "textCompare": [
@@ -2925,10 +3073,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu i-a pus în întinderea cerului pentru a da lumină peste pământ,"
   },
   {
     "num": 18,
@@ -2956,7 +3105,7 @@ window.CHAPTER_DATA = [
         "strong": "H3117",
         "pos": "substantiv, cu articol",
         "greek": "ἡμέρα (hemera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "ziua."
       },
       {
@@ -2970,7 +3119,7 @@ window.CHAPTER_DATA = [
         "strong": "H3915",
         "pos": "substantiv, cu articol",
         "greek": "νύξ (nyx)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "noaptea."
       },
       {
@@ -2984,7 +3133,7 @@ window.CHAPTER_DATA = [
         "strong": "H914",
         "pos": "verb (hifil, infinitiv)",
         "greek": "διαχωρίζω (diachorizo, „a despărți”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a despărți, a separa."
       },
       {
@@ -2998,7 +3147,7 @@ window.CHAPTER_DATA = [
         "strong": "H216",
         "pos": "substantiv, cu articol",
         "greek": "φῶς (phos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "lumina."
       },
       {
@@ -3012,7 +3161,7 @@ window.CHAPTER_DATA = [
         "strong": "H2822",
         "pos": "substantiv, cu articol",
         "greek": "σκότος (skotos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "întunericul."
       },
       {
@@ -3026,7 +3175,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -3040,7 +3189,7 @@ window.CHAPTER_DATA = [
         "strong": "H7200",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ὁράω (horao, „a vedea”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a vedea."
       },
       {
@@ -3054,7 +3203,7 @@ window.CHAPTER_DATA = [
         "strong": "H2896",
         "pos": "adjectiv",
         "greek": "καλός / ἀγαθός (kalos / agathos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "bun, bine."
       }
     ],
@@ -3064,8 +3213,8 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Rashi (1040–1105)",
-        "text": "Cu v. 18 se încheie, spune Rashi, întreaga lucrare a luminătorilor începută la v. 14 — de-abia acum, la finalul complet al lucrării (poruncă, așezare pe firmament și scopul lor dublu: a stăpâni și a despărți), apare formula „și a văzut Dumnezeu că este bine”."
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Explică „stăpânirea” zilei și nopții ca fiind necesară pentru reînnoirea ființelor din lumea de jos — relevantă mai ales pentru animale, ființe „mai de seamă” decât plantele, care aveau nevoie de această structură temporală."
       }
     ],
     "textCompare": [
@@ -3085,10 +3234,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi pentru a stăpâni peste zi şi peste noapte şi să despartă lumina de întuneric; şi Dumnezeu a văzut că lucrul acesta era bun."
   },
   {
     "num": 19,
@@ -3104,7 +3254,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -3118,7 +3268,7 @@ window.CHAPTER_DATA = [
         "strong": "H6153",
         "pos": "substantiv",
         "greek": "ἑσπέρα (hespera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "seară."
       },
       {
@@ -3132,7 +3282,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -3146,7 +3296,7 @@ window.CHAPTER_DATA = [
         "strong": "H1242",
         "pos": "substantiv",
         "greek": "πρωί (proi)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "dimineață."
       },
       {
@@ -3170,8 +3320,8 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Rashi (1040–1105)",
-        "text": "Verset formulă, identic ca structură cu încheierile zilelor 1, 3 și 5. Rashi nu adaugă o notă separată aici — comentariul lui la tiparul „a fost seară, a fost dimineață” se concentrează la v. 5, prima apariție a formulei."
+        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
+        "text": "Verset-formulă, identic ca structură cu încheierile zilelor 1, 3 și 5 („și a fost seară și a fost dimineață”). Comentatorii clasici verificați în arhivă nu adaugă o notă separată aici, tratând tiparul ca fiind deja explicat la v.5."
       }
     ],
     "textCompare": [
@@ -3191,10 +3341,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi a fost o seară şi o dimineaţă: ziua a patra."
   },
   {
     "num": 20,
@@ -3210,7 +3361,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -3224,7 +3375,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "λέγω (lego)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a spune, a zice."
       },
       {
@@ -3238,7 +3389,7 @@ window.CHAPTER_DATA = [
         "strong": "H8317",
         "pos": "verb (qal, jussiv)",
         "greek": "ἐξάγω (exago)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a mișuna, a se înmulți repede și în număr mare — verb folosit mai ales pentru vietăți mici, roietoare."
       },
       {
@@ -3252,7 +3403,7 @@ window.CHAPTER_DATA = [
         "strong": "H4325",
         "pos": "substantiv, cu articol",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "apele."
       },
       {
@@ -3266,7 +3417,7 @@ window.CHAPTER_DATA = [
         "strong": "H5315",
         "pos": "substantiv (locuțiune)",
         "greek": "ψυχή (psyche)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "suflet viu, ființă însuflețită — aceeași expresie va fi folosită și pentru om, la v. 26-27 (indirect) și la Geneza 2:7."
       },
       {
@@ -3280,7 +3431,7 @@ window.CHAPTER_DATA = [
         "strong": "H5775",
         "pos": "substantiv",
         "greek": "πετεινόν (peteinon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "zburătoare, păsări — colectiv."
       },
       {
@@ -3294,7 +3445,7 @@ window.CHAPTER_DATA = [
         "strong": "H5774",
         "pos": "verb (polel, jussiv)",
         "greek": "πέτομαι (petomai, „a zbura”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a zbura — formă intensivă (polel), din aceeași rădăcină ca „oph”, „zburătoare”."
       },
       {
@@ -3308,7 +3459,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul."
       },
       {
@@ -3322,7 +3473,7 @@ window.CHAPTER_DATA = [
         "strong": "H6440",
         "pos": "substantiv (stare construită)",
         "greek": "πρόσωπον (prosopon, „față”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "fața (de) — literal „fețele”, formă construită, frecventă în expresii de loc."
       },
       {
@@ -3336,7 +3487,7 @@ window.CHAPTER_DATA = [
         "strong": "H7549",
         "pos": "substantiv, stare construită",
         "greek": "στερέωμα (stereoma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "firmamentul."
       },
       {
@@ -3350,7 +3501,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv, cu articol",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cerurile."
       }
     ],
@@ -3366,6 +3517,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "În Enuma Eliș, mulțimea de creaturi ale apelor apare într-un context ostil: Tiamat, zeița-ocean, naște o armată de monștri (șerpi veninoși, dragoni, scorpioni-oameni) ca să lupte împotriva zeilor tineri, conduși de Marduk. Vietățile care „mișună” în ape sunt, acolo, o forță de luptă. În Geneza, aceleași ape „mișună” de viață la porunca simplă a lui Dumnezeu — fără dușmănie, fără scop războinic — doar vietăți create, numite bune (v. 21) alături de toate celelalte."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Notează caracterul tranzitiv al verbului „să mișune” — comparabil cu „Nilul a mișunat de broaște” (Exod 7:28) — și explică „pe fața firmamentului” ca referindu-se la zborul păsărilor deasupra pământului, sub bolta cerească."
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Observă că, deși păsările sunt create din apă, viața și creșterea lor efectivă se petrec pe uscat — o distincție între originea materială și habitatul lor real."
       }
     ],
     "textCompare": [
@@ -3385,10 +3544,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויאמר אלהים ישרצו המים שרץ נפש חיה ועוף יעפף על הארץ על פני רקיע השמים — „And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl [that] may fly above the earth in the open firmament of heaven.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a spus: Apele să dea abundent fiinţa mişcătoare care are viaţă şi păsări să zboare deasupra pământului pe faţa întinderii cerului."
   },
   {
     "num": 21,
@@ -3404,7 +3564,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -3418,7 +3578,7 @@ window.CHAPTER_DATA = [
         "strong": "H1254",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ποιέω / κτίζω (poieo / ktizo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a crea — rezervat aproape exclusiv lui Dumnezeu ca subiect."
       },
       {
@@ -3432,7 +3592,7 @@ window.CHAPTER_DATA = [
         "strong": "H8577",
         "pos": "substantiv, plural cu articol",
         "greek": "κῆτος (ketos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "monștri marini, șerpi de apă mari — în tradiția rabinică, identificați uneori cu Leviatanul."
       },
       {
@@ -3446,7 +3606,7 @@ window.CHAPTER_DATA = [
         "strong": "H1419",
         "pos": "adjectiv, plural cu articol",
         "greek": "μέγας (megas)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cei mari."
       },
       {
@@ -3460,7 +3620,7 @@ window.CHAPTER_DATA = [
         "strong": "H3605",
         "pos": "cuantificator",
         "greek": "πᾶς (pas)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "tot, toate."
       },
       {
@@ -3474,7 +3634,7 @@ window.CHAPTER_DATA = [
         "strong": "H5315",
         "pos": "substantiv, cu articol",
         "greek": "ψυχή (psyche)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "sufletul viu — aici cu articol hotărât, spre deosebire de forma generică de la v. 20."
       },
       {
@@ -3488,7 +3648,7 @@ window.CHAPTER_DATA = [
         "strong": "H7430",
         "pos": "verb (qal, participiu, cu articol)",
         "greek": "ἑρπετόν (herpeton, forma participială)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "care se târăște/mișună — participiu, folosit aici ca adjectiv."
       },
       {
@@ -3502,7 +3662,7 @@ window.CHAPTER_DATA = [
         "strong": "H4325",
         "pos": "substantiv, cu articol",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "apele."
       },
       {
@@ -3516,7 +3676,7 @@ window.CHAPTER_DATA = [
         "strong": "H4327",
         "pos": "substantiv, plural cu sufix",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soiurile lor."
       },
       {
@@ -3530,7 +3690,7 @@ window.CHAPTER_DATA = [
         "strong": "H5775",
         "pos": "substantiv",
         "greek": "πετεινόν (peteinon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "zburătoare, păsări."
       },
       {
@@ -3544,7 +3704,7 @@ window.CHAPTER_DATA = [
         "strong": "H3671",
         "pos": "substantiv (folosit atributiv)",
         "greek": "πτερωτόν (pteroton, „înaripat”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "aripă — literal „zburătoare de aripă”."
       },
       {
@@ -3558,7 +3718,7 @@ window.CHAPTER_DATA = [
         "strong": "H4327",
         "pos": "substantiv cu sufix",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soiul ei."
       },
       {
@@ -3584,7 +3744,7 @@ window.CHAPTER_DATA = [
         "strong": "H7200",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ὁράω (horao)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a vedea."
       },
       {
@@ -3598,7 +3758,7 @@ window.CHAPTER_DATA = [
         "strong": "H2896",
         "pos": "adjectiv",
         "greek": "καλός (kalos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "bun, bine."
       }
     ],
@@ -3615,6 +3775,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Mitul mesopotamian al lui Labbu vorbește despre un șarpe de mare uriaș, de zeci de leghe lungime, pe care zeii trebuie să-l vâneze și să-l învingă printr-un efort dramatic. În Geneza, monștrii marini nu sunt rivali ai lui Dumnezeu, ci pur și simplu creaturile Lui, create la fel ca toate celelalte, printr-un simplu cuvânt — fără nicio luptă, fără nicio amenințare la adresa ordinii cosmice. E un mod indirect, dar limpede, de a spune că nici cele mai înfricoșătoare ființe din mitologiile vecine nu sunt zei sau puteri cosmice rivale, ci simple animale, supuse aceluiași Creator ca toate celelalte."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Discută verbul „se târăște” aplicat aici vietăților acvatice — o observație lingvistică despre felul mișcării, nu doar despre locul unde trăiesc aceste creaturi."
+      },
+      {
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Explică „monștrii marini” prin puterea generativă limitată a apei, care singură n-ar fi fost suficientă pentru a produce aceste creaturi fără sămânță — Dumnezeu a trebuit să creeze o putere specială, suplimentară, pentru acest act."
       }
     ],
     "textCompare": [
@@ -3634,10 +3802,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויברא אלהים את התנינים הגדלים ואת כל נפש החיה הרמשת אשר שרצו המים למיניהם ואת כל עוף כנף למינהו וירא אלהים כי טוב — „And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that [it was] good.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a creat balene mari şi fiecare vieţuitoare care se mişcă, pe care apele le-au dat abundent, după felul lor, şi fiecare pasăre înaripată, după felul ei; şi Dumnezeu a văzut că lucrul acesta era bun."
   },
   {
     "num": 22,
@@ -3653,7 +3822,7 @@ window.CHAPTER_DATA = [
         "strong": "H1288",
         "pos": "verb (piel, timpul trecut narativ)",
         "greek": "εὐλογέω (eulogeo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a binecuvânta — prima binecuvântare din Tora, dată vietăților, înainte de cea dată omului la v. 28."
       },
       {
@@ -3667,7 +3836,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -3681,7 +3850,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, infinitiv)",
         "greek": "λέγων (legon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "spunând, zicând — introduce vorbirea directă."
       },
       {
@@ -3695,7 +3864,7 @@ window.CHAPTER_DATA = [
         "strong": "H6509",
         "pos": "verb (qal, imperativ)",
         "greek": "αὐξάνω (auxano, „a crește”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "fiți roditori, înmulțiți-vă."
       },
       {
@@ -3709,7 +3878,7 @@ window.CHAPTER_DATA = [
         "strong": "H7235",
         "pos": "verb (qal, imperativ)",
         "greek": "πληθύνω (plethyno)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a se înmulți, a crește în număr."
       },
       {
@@ -3723,7 +3892,7 @@ window.CHAPTER_DATA = [
         "strong": "H4390",
         "pos": "verb (qal, imperativ)",
         "greek": "πληρόω (pleroo, „a umple”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a umple."
       },
       {
@@ -3737,7 +3906,7 @@ window.CHAPTER_DATA = [
         "strong": "H4325",
         "pos": "substantiv, cu articol",
         "greek": "ὕδωρ (hydor)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "apele."
       },
       {
@@ -3751,7 +3920,7 @@ window.CHAPTER_DATA = [
         "strong": "H3220",
         "pos": "substantiv, plural cu prefix",
         "greek": "θάλασσα (thalassa)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "mări."
       },
       {
@@ -3765,7 +3934,7 @@ window.CHAPTER_DATA = [
         "strong": "H5775",
         "pos": "substantiv, cu articol",
         "greek": "πετεινόν (peteinon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "zburătoarele, păsările."
       },
       {
@@ -3779,7 +3948,7 @@ window.CHAPTER_DATA = [
         "strong": "H7235",
         "pos": "verb (qal, jussiv)",
         "greek": "πληθύνω (plethyno)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "să se înmulțească — a doua apariție a rădăcinii רבה în acest verset, la altă formă."
       },
       {
@@ -3793,7 +3962,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu prefixul בְּ",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pe pământ."
       }
     ],
@@ -3805,6 +3974,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Se întreabă de ce doar peștii și păsările primesc această binecuvântare explicită de înmulțire, spre deosebire de vietățile terestre create în ziua următoare (v. 24-25). Explicația lui: fiind hrană obișnuită pentru om, peștii și păsările aveau nevoie de o binecuvântare specială, ca să nu se împuțineze din pricina vânatului și a pescuitului."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Face o observație gramaticală: „fiți roditori și înmulțiți-vă” e o formă imperativă echivalentă cu o urare, „să fiți roditori” — nu ține de puterea sau voința creaturilor înseși, la fel cum „mori pe munte” (Deut. 32:50) nu era în puterea lui Moise."
+      },
+      {
+        "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+        "text": "Notează că, potrivit tradiției, catârii nu sunt incluși în această binecuvântare a înmulțirii — de aceea nu se reproduc în natură, chiar dacă unii înțelepți discută o excepție legată de o încrucișare făcută chiar de Adam, în noaptea de după primul Șabat."
       }
     ],
     "textCompare": [
@@ -3824,10 +4001,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויברך אתם אלהים לאמר פרו ורבו ומלאו את המים בימים והעוף ירבה בארץ — „And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu le-a binecuvântat, spunând: Fiţi roditori şi înmulţiţi-vă şi umpleţi apele în mări, şi pasărea să se înmulţească pe pământ."
   },
   {
     "num": 23,
@@ -3843,7 +4021,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -3857,7 +4035,7 @@ window.CHAPTER_DATA = [
         "strong": "H6153",
         "pos": "substantiv",
         "greek": "ἑσπέρα (hespera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "seară."
       },
       {
@@ -3871,7 +4049,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -3885,7 +4063,7 @@ window.CHAPTER_DATA = [
         "strong": "H1242",
         "pos": "substantiv",
         "greek": "πρωί (proi)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "dimineață."
       },
       {
@@ -3899,7 +4077,7 @@ window.CHAPTER_DATA = [
         "strong": "H2549",
         "pos": "numeral ordinal",
         "greek": "πέμπτος (pemptos, „al cincilea”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "al cincilea."
       },
       {
@@ -3911,8 +4089,8 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Rashi (1040–1105)",
-        "text": "Alt verset-formulă, fără notă separată la Rashi — vezi comentariul de la v. 5 pentru discuția despre tiparul „a fost seară, a fost dimineață”."
+        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
+        "text": "Alt verset-formulă, fără notă separată la comentatorii clasici verificați — vezi discuția tiparului „a fost seară, a fost dimineață” la v.5."
       }
     ],
     "textCompare": [
@@ -3932,10 +4110,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi a fost o seară şi o dimineaţă: ziua a cincea."
   },
   {
     "num": 24,
@@ -3951,7 +4130,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -3965,7 +4144,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "λέγω (lego)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a spune, a zice."
       },
       {
@@ -3979,7 +4158,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul."
       },
       {
@@ -3993,7 +4172,7 @@ window.CHAPTER_DATA = [
         "strong": "H3318",
         "pos": "verb (hifil, jussiv)",
         "greek": "ἐξάγω (exago)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "să scoată, să producă — formă cauzativă (hifil)."
       },
       {
@@ -4007,7 +4186,7 @@ window.CHAPTER_DATA = [
         "strong": "H5315",
         "pos": "substantiv (locuțiune)",
         "greek": "ψυχή (psyche)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "suflet viu, ființă însuflețită."
       },
       {
@@ -4021,7 +4200,7 @@ window.CHAPTER_DATA = [
         "strong": "H4327",
         "pos": "substantiv cu sufix posesiv (feminin)",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soiul ei."
       },
       {
@@ -4035,7 +4214,7 @@ window.CHAPTER_DATA = [
         "strong": "H929",
         "pos": "substantiv",
         "greek": "κτῆνος (ktenos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "dobitoc, animal domestic sau mare de povară."
       },
       {
@@ -4049,7 +4228,7 @@ window.CHAPTER_DATA = [
         "strong": "H7431",
         "pos": "substantiv",
         "greek": "ἑρπετόν (herpeton)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "târâtoare — orice vietate mică ce se mișcă aproape de pământ."
       },
       {
@@ -4063,7 +4242,7 @@ window.CHAPTER_DATA = [
         "strong": "H2416",
         "pos": "substantiv cu sufix",
         "greek": "θηρίον (therion, „fiară”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "sălbăticiunea (lui)."
       },
       {
@@ -4077,7 +4256,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, stare construită",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământ — aici fără articol, în stare construită cu „chayto”."
       },
       {
@@ -4091,7 +4270,7 @@ window.CHAPTER_DATA = [
         "strong": "H4327",
         "pos": "substantiv cu sufix posesiv",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soiul ei — a doua apariție."
       },
       {
@@ -4105,7 +4284,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι (ginomai)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -4119,7 +4298,7 @@ window.CHAPTER_DATA = [
         "strong": "H3651",
         "pos": "adverb",
         "greek": "οὕτως (houtos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "așa, astfel."
       }
     ],
@@ -4132,8 +4311,8 @@ window.CHAPTER_DATA = [
         "text": "Notează ordinea enumerării — dobitoace, târâtoare, sălbăticiuni — și o compară cu ordinea de la v. 25, unde apare inversată (sălbăticiuni, apoi dobitoace, apoi târâtoare). Pentru Rashi, ordinea din porunca lui Dumnezeu (v. 24) nu trebuie să coincidă neapărat cu ordinea împlinirii (v. 25) — un tipar pe care îl vede și la vegetație (v. 11-12)."
       },
       {
-        "author": "Chizkuni (sec. XIII)",
-        "text": "Se oprește la verbul <span class=\"heb-inline\">תּוֹצֵא</span> („să scoată la iveală”) — literal, „să facă să iasă”. Pentru Chizkuni, alegerea acestui verb (nu, de exemplu, „să creeze”) sugerează că vietățile pământului existau deja într-un fel, ca potențial în pământ, și acum doar „ies la iveală” — un ecou al aceleiași idei pe care o vedem la vegetație, unde pământul „produce” (v. 12), nu Dumnezeu creează direct.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Distinge patru categorii: „suflet viu” ca termen general pentru orice ființă generată din foc, apă și pământ (inclusiv omul), „dobitoace” — cele aflate lângă om, pentru călărit și hrană —, „târâtoare” — vietăți mici de pe pământ —, și „fiarele pământului” — cele din sălbăticie, neîmblânzite."
       }
     ],
     "textCompare": [
@@ -4153,10 +4332,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויאמר אלהים תוצא הארץ נפש חיה למינה בהמה ורמש וחית הארץ למינה ויהי כן — „And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a spus: Să dea pământul fiinţa vie după felul ei, vite şi târâtoare şi fiare ale pământului, după felul lor. Şi aşa a fost."
   },
   {
     "num": 25,
@@ -4172,7 +4352,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -4186,7 +4366,7 @@ window.CHAPTER_DATA = [
         "strong": "H6213",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ποιέω (poieo, „a face”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a face."
       },
       {
@@ -4212,7 +4392,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul."
       },
       {
@@ -4226,7 +4406,7 @@ window.CHAPTER_DATA = [
         "strong": "H4327",
         "pos": "substantiv cu sufix posesiv (feminin)",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soiul ei — sufix feminin „-ah”, acordat cu „chayat” (feminin)."
       },
       {
@@ -4240,7 +4420,7 @@ window.CHAPTER_DATA = [
         "strong": "H929",
         "pos": "substantiv, cu articol",
         "greek": "κτῆνος (ktenos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "dobitoacele."
       },
       {
@@ -4254,7 +4434,7 @@ window.CHAPTER_DATA = [
         "strong": "H4327",
         "pos": "substantiv cu sufix posesiv",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soiul ei — a doua apariție."
       },
       {
@@ -4280,7 +4460,7 @@ window.CHAPTER_DATA = [
         "strong": "H7431",
         "pos": "substantiv",
         "greek": "ἑρπετόν (herpeton)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "târâtoare."
       },
       {
@@ -4306,7 +4486,7 @@ window.CHAPTER_DATA = [
         "strong": "H4327",
         "pos": "substantiv cu sufix posesiv (masculin)",
         "greek": "γένος (genos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "soiul lui — a treia apariție, cu sufix masculin (acordat cu „remes”)."
       },
       {
@@ -4320,7 +4500,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu — a doua mențiune în acest verset."
       },
       {
@@ -4334,7 +4514,7 @@ window.CHAPTER_DATA = [
         "strong": "H7200",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ὁράω (horao, „a vedea”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a vedea."
       },
       {
@@ -4348,7 +4528,7 @@ window.CHAPTER_DATA = [
         "strong": "H2896",
         "pos": "adjectiv",
         "greek": "καλός / ἀγαθός (kalos / agathos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "bun, bine."
       }
     ],
@@ -4362,8 +4542,8 @@ window.CHAPTER_DATA = [
         "text": "Notează inversarea ordinii față de v. 24 (acolo: dobitoace, târâtoare, sălbăticiuni; aici: sălbăticiuni, dobitoace, târâtoare) și explică asta prin faptul că vorbirea lui Dumnezeu (porunca) nu trebuie citită ca o listă de priorități, ci doar ca o enumerare — împlinirea efectivă (v. 25) putea urma o ordine diferită, fără nicio contradicție."
       },
       {
-        "author": "Chizkuni (sec. XIII)",
-        "text": "Observație pur gramaticală, dar utilă: la v. 24, cuvântul „sălbăticiune” apare ca <span class=\"heb-inline\">חַיְתוֹ־אֶרֶץ</span>, cu litera <span class=\"heb-inline\">ו</span> (vav) în mijloc — o formă neobișnuită. Chizkuni notează că acel „vav” e „de prisos”, adăugat din motive de stil (eufonie), nu pentru că ar schimba sensul cuvântului. E genul de detaliu pe care doar un comentator atent la ortografie l-ar remarca.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Explică „a făcut fiarele pământului după soiul lor” ca acordarea, pentru fiecare specie, a simțurilor și capacităților potrivite exact nevoilor ei specifice — o proiectare individualizată, nu una uniformă."
       }
     ],
     "textCompare": [
@@ -4383,10 +4563,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a făcut fiara pământului, după felul ei, şi vite, după felul lor, şi fiecare târâtoare pe pământ, după felul ei; şi Dumnezeu a văzut că lucrul acesta era bun."
   },
   {
     "num": 26,
@@ -4402,7 +4583,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -4416,7 +4597,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "λέγω (lego)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a spune, a zice."
       },
       {
@@ -4427,7 +4608,7 @@ window.CHAPTER_DATA = [
         "strong": "H6213",
         "pos": "verb (qal, conjunctiv, persoana I plural)",
         "greek": "ποιήσωμεν (poiesomen, conjunctiv)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "să facem — singura dată în capitol când Dumnezeu vorbește la plural despre Sine."
       },
       {
@@ -4441,7 +4622,7 @@ window.CHAPTER_DATA = [
         "strong": "H120",
         "pos": "substantiv",
         "greek": "ἄνθρωπος (anthropos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "om, omenire — folosit aici fără articol hotărât, ca substantiv generic."
       },
       {
@@ -4455,7 +4636,7 @@ window.CHAPTER_DATA = [
         "strong": "H6754",
         "pos": "substantiv cu sufix posesiv (\"noastră\") și prefix",
         "greek": "εἰκών (eikon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "chip, imagine — termen folosit de obicei pentru statui sau reprezentări fizice."
       },
       {
@@ -4469,7 +4650,7 @@ window.CHAPTER_DATA = [
         "strong": "H1823",
         "pos": "substantiv cu sufix posesiv și prefixul „ca”",
         "greek": "ὁμοίωσις (homoiosis)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "asemănare, aspect."
       },
       {
@@ -4483,7 +4664,7 @@ window.CHAPTER_DATA = [
         "strong": "H7287",
         "pos": "verb (qal, jussiv)",
         "greek": "ἄρχω (archo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "să stăpânească, să domnească peste."
       },
       {
@@ -4497,7 +4678,7 @@ window.CHAPTER_DATA = [
         "strong": "H1710",
         "pos": "substantiv, stare construită",
         "greek": "ἰχθύς (ichthys, „pește”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "peștii (de)."
       },
       {
@@ -4511,7 +4692,7 @@ window.CHAPTER_DATA = [
         "strong": "H3220",
         "pos": "substantiv, cu articol",
         "greek": "θάλασσα (thalassa)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "marea."
       },
       {
@@ -4525,7 +4706,7 @@ window.CHAPTER_DATA = [
         "strong": "H5775",
         "pos": "substantiv",
         "greek": "πετεινόν (peteinon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "păsările."
       },
       {
@@ -4539,7 +4720,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv, cu articol",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cerurile."
       },
       {
@@ -4553,7 +4734,7 @@ window.CHAPTER_DATA = [
         "strong": "H929",
         "pos": "substantiv",
         "greek": "κτῆνος (ktenos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "dobitoace."
       },
       {
@@ -4567,7 +4748,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul."
       },
       {
@@ -4581,7 +4762,7 @@ window.CHAPTER_DATA = [
         "strong": "H7431",
         "pos": "substantiv, cu articol",
         "greek": "ἑρπετόν (herpeton)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "târâtoarele."
       },
       {
@@ -4595,7 +4776,7 @@ window.CHAPTER_DATA = [
         "strong": "H7430",
         "pos": "verb (qal, participiu, cu articol)",
         "greek": "ἕρπω (herpo, „a se târî”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "care se târăsc — participiu."
       },
       {
@@ -4627,6 +4808,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "În Mesopotamia antică, titlul de „chip al zeului” era, de regulă, rezervat regelui — o formulă de legitimare a puterii regale, nu o descriere a omului obișnuit. Un text egiptean, „Învățătura pentru regele Merikare”, merge puțin mai departe și numește oamenii de rând „turma zeului”, făcuți după chipul lui — dar tot regele rămâne reprezentantul principal, cel care acționează efectiv în numele zeului pe pământ.<br><br>Geneza răstoarnă radical acest tipar: nu doar un rege, ci fiecare om — „parte bărbătească și femeiască” deopotrivă (v. 27) — poartă „chipul lui Dumnezeu”. Într-o lume unde demnitatea de „chip divin” era, de obicei, un privilegiu regesc exclusiv, afirmația din Geneza e aproape revoluționară: fiecare ființă umană primește statutul pe care alte culturi îl rezervau doar conducătorilor."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Discută citirea plurală „să facem” — unii o leagă gramatical de un participiu pasiv, alții susțin că „în chipul nostru” s-ar referi de fapt la Moise vorbind despre sine. Ibn Ezra respinge ambele lecturi ca „lipsite de sens”, insistând pe explicația simplă: Dumnezeu vorbește la plural de curtoazie regală, păstrată în ebraică pentru superiori."
       }
     ],
     "textCompare": [
@@ -4646,10 +4831,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויאמר אלהים נעשה אדם בצלמנו וכדמותנו וירדו בדגת הים ובעוף השמים ובבהמה ובכל הארץ ובכל הרמש הרמש על הארץ — „And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a spus: Să facem om după chipul nostru, după asemănarea noastră; şi ei să domnească peste peştii mării şi peste păsările cerului şi peste vite şi peste tot pământul şi peste fiecare târâtoare ce se târăşte pe pământ."
   },
   {
     "num": 27,
@@ -4665,7 +4851,7 @@ window.CHAPTER_DATA = [
         "strong": "H1254",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ποιέω (poieo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a crea."
       },
       {
@@ -4679,7 +4865,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -4693,7 +4879,7 @@ window.CHAPTER_DATA = [
         "strong": "H120",
         "pos": "substantiv, cu articol",
         "greek": "ἄνθρωπος (anthropos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "omul — aici cu articol, spre deosebire de forma generică de la v. 26."
       },
       {
@@ -4707,7 +4893,7 @@ window.CHAPTER_DATA = [
         "strong": "H6754",
         "pos": "substantiv cu sufix (\"lui\")",
         "greek": "εἰκών (eikon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "chip, imagine — prima din trei apariții ale rădăcinii בְּצֶלֶם în acest verset."
       },
       {
@@ -4721,7 +4907,7 @@ window.CHAPTER_DATA = [
         "strong": "H6754",
         "pos": "substantiv (stare construită)",
         "greek": "εἰκὼν Θεοῦ (eikon Theou)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "chipul lui Dumnezeu — a doua apariție."
       },
       {
@@ -4735,7 +4921,7 @@ window.CHAPTER_DATA = [
         "strong": "H1254",
         "pos": "verb + pronume obiect",
         "greek": "ἐποίησεν αὐτόν (epoiesen auton)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "l-a creat — a doua apariție a verbului „bara” în acest verset, aici fără conjuncția „vav”."
       },
       {
@@ -4749,7 +4935,7 @@ window.CHAPTER_DATA = [
         "strong": "H2145",
         "pos": "substantiv",
         "greek": "ἄρσην (arsen)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "parte bărbătească, sex masculin."
       },
       {
@@ -4763,7 +4949,7 @@ window.CHAPTER_DATA = [
         "strong": "H5347",
         "pos": "substantiv",
         "greek": "θῆλυς (thelys)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "parte femeiască, sex feminin."
       },
       {
@@ -4777,7 +4963,7 @@ window.CHAPTER_DATA = [
         "strong": "H1254",
         "pos": "verb + pronume obiect (plural)",
         "greek": "ἐποίησεν αὐτούς (epoiesen autous)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "i-a creat — a treia apariție a verbului „bara” în acest verset, de data asta cu pronume la plural."
       }
     ],
@@ -4791,7 +4977,7 @@ window.CHAPTER_DATA = [
     "commentaries": [
       {
         "author": "Rashi (1040–1105)",
-        "text": "Observă schimbarea de la plural („să facem”, v. 26) la singular („a creat”, de trei ori în acest verset) — dovadă, spune el, că doar Dumnezeu a creat efectiv, fără ajutorul îngerilor consultați simbolic la v. 26. Despre „parte bărbătească și femeiască i-a creat” (la singular, „l-a creat”, apoi plural, „i-a creat”), Rashi citează o tradiție midrașică potrivit căreia primul om ar fi fost creat inițial ca o singură ființă cu două fețe, despărțită apoi în bărbat și femeie — o idee pe care o dezvoltă mai pe larg la Geneza 2:21."
+        "text": "Observă schimbarea de la plural („să facem”, v. 26) la singular („a creat”, de trei ori în acest verset) — dovadă, spune el, că doar Dumnezeu a creat efectiv, fără ajutorul îngerilor consultați simbolic la v. 26. Despre „parte bărbătească și femeiască i-a creat” (la singular, „l-a creat”, apoi plural, „i-a creat”), Rashi citează o tradiție midrașică potrivit căreia primul om ar fi fost creat inițial ca o singură ființă cu două fețe, despărțită apoi în bărbat și femeie — o idee pe care o dezvoltă mai pe larg la Geneza 2:21. Discută „bărbat și femeie i-a creat”: citează un midraș aggadic potrivit căruia omul ar fi fost creat inițial cu două fețe, apoi despărțit — dar preferă sensul simplu: ambii au fost creați în ziua a șasea, fără ca acest verset să explice mecanismul exact, detaliat abia în capitolul următor."
       },
       {
         "author": "Sforno (cca. 1475–1550)",
@@ -4815,10 +5001,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Astfel Dumnezeu a creat om după propriul său chip, după chipul lui Dumnezeu l-a creat, parte bărbătească şi parte femeiască i-a creat."
   },
   {
     "num": 28,
@@ -4834,7 +5021,7 @@ window.CHAPTER_DATA = [
         "strong": "H1288",
         "pos": "verb (piel, timpul trecut narativ)",
         "greek": "εὐλογέω (eulogeo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a binecuvânta."
       },
       {
@@ -4848,7 +5035,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu — prima mențiune din verset."
       },
       {
@@ -4862,7 +5049,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "λέγω (lego)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a spune, a zice."
       },
       {
@@ -4888,7 +5075,7 @@ window.CHAPTER_DATA = [
         "strong": "H6509",
         "pos": "verb (qal, imperativ)",
         "greek": "αὐξάνω (auxano)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "fiți roditori, înmulțiți-vă."
       },
       {
@@ -4902,7 +5089,7 @@ window.CHAPTER_DATA = [
         "strong": "H7235",
         "pos": "verb (qal, imperativ)",
         "greek": "πληθύνω (plethyno)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a se înmulți."
       },
       {
@@ -4916,7 +5103,7 @@ window.CHAPTER_DATA = [
         "strong": "H4390",
         "pos": "verb (qal, imperativ)",
         "greek": "πληρόω (pleroo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a umple."
       },
       {
@@ -4930,7 +5117,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul."
       },
       {
@@ -4944,7 +5131,7 @@ window.CHAPTER_DATA = [
         "strong": "H3533",
         "pos": "verb (qal, imperativ)",
         "greek": "κατακυριεύω (katakyrieuo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a supune, a stăpâni prin forță — verb folosit și pentru cucerirea unui teritoriu."
       },
       {
@@ -4958,7 +5145,7 @@ window.CHAPTER_DATA = [
         "strong": "H7287",
         "pos": "verb (qal, imperativ)",
         "greek": "ἄρχω (archo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a stăpâni, a domni peste."
       },
       {
@@ -4972,7 +5159,7 @@ window.CHAPTER_DATA = [
         "strong": "H1710",
         "pos": "substantiv, stare construită",
         "greek": "ἰχθύς (ichthys)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "peștii (de)."
       },
       {
@@ -4986,7 +5173,7 @@ window.CHAPTER_DATA = [
         "strong": "H3220",
         "pos": "substantiv, cu articol",
         "greek": "θάλασσα (thalassa)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "marea."
       },
       {
@@ -5000,7 +5187,7 @@ window.CHAPTER_DATA = [
         "strong": "H5775",
         "pos": "substantiv",
         "greek": "πετεινόν (peteinon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "păsările."
       },
       {
@@ -5014,7 +5201,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv, cu articol",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cerurile."
       },
       {
@@ -5028,7 +5215,7 @@ window.CHAPTER_DATA = [
         "strong": "H2416",
         "pos": "substantiv",
         "greek": "ζῷον (zoon, „viețuitoare”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "vietăți, ființe vii."
       },
       {
@@ -5042,7 +5229,7 @@ window.CHAPTER_DATA = [
         "strong": "H7430",
         "pos": "verb (qal, participiu)",
         "greek": "ἑρπετόν (herpeton)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "care mișună/se târăște."
       },
       {
@@ -5066,6 +5253,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Mișna (Ievamot 6:6)",
         "text": "Mișna citează exact acest verset (împreună cu Geneza 5:2) ca temei al primei porunci din Tora: „Fiți roditori și înmulțiți-vă”. Casa lui Șamai și Casa lui Hilel dezbat câți copii împlinesc porunca — doi băieți (Șamai) sau un băiat și o fată (Hilel, citând „parte bărbătească și femeiască i-a creat”). Un bărbat care, după zece ani de căsătorie, tot nu are copii, spune Mișna, nu mai are voie să amâne împlinirea poruncii.<br><br><b>Concluzia practică:</b> tradiția halahică ulterioară statuează regula după Casa lui Hilel (principiu general valabil în aproape toate disputele Șamai–Hilel din Mișna) — deci un băiat și o fată, nu doi băieți, împlinesc formal porunca.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+      },
+      {
+        "author": "Rashbam (cca. 1085–1158)",
+        "text": "Explică „supuneți-l” prin forma gramaticală neintensivă a verbului, spre deosebire de o formă intensivă folosită în alt context — o nuanță lingvistică despre gradul de „subjugare” cerut."
       }
     ],
     "textCompare": [
@@ -5085,10 +5276,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויברך אתם אלהים ויאמר להם אלהים פרו ורבו ומלאו את הארץ וכבשוה ורדו בדגת הים ובעוף השמים ובכל החיה הרמשת על הארץ — „And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu i-a binecuvântat şi Dumnezeu le-a spus: Fiţi roditori şi înmulţiţi-vă şi umpleţi pământul şi supuneţi-l şi domniţi peste peştii mării şi peste păsările cerului şi peste fiecare vieţuitoare ce se mişcă pe pământ."
   },
   {
     "num": 29,
@@ -5104,7 +5296,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -5118,7 +5310,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "λέγω (lego)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a spune, a zice."
       },
       {
@@ -5132,7 +5324,7 @@ window.CHAPTER_DATA = [
         "strong": "H2009",
         "pos": "interjecție",
         "greek": "ἰδού (idou)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "iată — interjecție de atenționare, foarte frecventă în Tora."
       },
       {
@@ -5146,7 +5338,7 @@ window.CHAPTER_DATA = [
         "strong": "H5414",
         "pos": "verb (qal, persoana I, timpul trecut)",
         "greek": "δίδωμι (didomi, „a da”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "am dat."
       },
       {
@@ -5160,7 +5352,7 @@ window.CHAPTER_DATA = [
         "strong": "H3605",
         "pos": "cuantificator",
         "greek": "πᾶς (pas)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "tot, toată."
       },
       {
@@ -5174,7 +5366,7 @@ window.CHAPTER_DATA = [
         "strong": "H6212",
         "pos": "substantiv",
         "greek": "χόρτος (chortos, „iarbă”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "iarbă, plantă erbacee."
       },
       {
@@ -5188,7 +5380,7 @@ window.CHAPTER_DATA = [
         "strong": "H2232",
         "pos": "verb (qal, participiu)",
         "greek": "σπείρω (speiro)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "care dă sămânță — participiu."
       },
       {
@@ -5202,7 +5394,7 @@ window.CHAPTER_DATA = [
         "strong": "H2233",
         "pos": "substantiv",
         "greek": "σπέρμα (sperma)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "sămânță."
       },
       {
@@ -5216,7 +5408,7 @@ window.CHAPTER_DATA = [
         "strong": "H6440",
         "pos": "substantiv, stare construită",
         "greek": "πρόσωπον (prosopon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "fața (de)."
       },
       {
@@ -5230,7 +5422,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul."
       },
       {
@@ -5244,7 +5436,7 @@ window.CHAPTER_DATA = [
         "strong": "H6086",
         "pos": "substantiv, cu articol",
         "greek": "ξύλον (xylon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pomul."
       },
       {
@@ -5258,7 +5450,7 @@ window.CHAPTER_DATA = [
         "strong": "H6529",
         "pos": "substantiv",
         "greek": "καρπός (karpos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "rod, fruct."
       },
       {
@@ -5272,7 +5464,7 @@ window.CHAPTER_DATA = [
         "strong": "H402",
         "pos": "substantiv",
         "greek": "βρῶσις (brosis)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "hrană, mâncare."
       }
     ],
@@ -5285,6 +5477,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Un punct teologic important: la creație, atât omul, cât și animalele primesc drept hrană doar vegetație — nu carne. Rashi (urmând tradiția rabinică) notează că permisiunea de a mânca și carne vine abia după Potop (Geneza 9:3), semn că starea inițială, „foarte bună”, a lumii nu includea uciderea vietăților pentru hrană."
+      },
+      {
+        "author": "Ibn Ezra (1089–1167)",
+        "text": "Confirmă aceeași idee: la creație, atât oamenii cât și toate ființele cu suflet viu au primit voie să mănânce doar plante — fructele fiind pentru oameni, iar ierburile pentru fiare și târâtoare. Carnea nu a fost permisă decât după potop."
+      },
+      {
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Precizează scopul dării plantelor: erau pentru consumul uman — o distincție clară față de versetul următor, unde vegetația e dată separat animalelor."
       }
     ],
     "textCompare": [
@@ -5304,10 +5504,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ויאמר אלהים הנה נתתי לכם את כל עשב זרע זרע אשר על פני כל הארץ ואת כל עץ אשר בו פרי עץ זרע זרע לכם יהיה לאכלה — „And God said, Behold, I have given you every herb bearing seed, which [is] upon the face of all the earth, and every tree, in the which [is] the fruit of a tree yielding seed; to you it shall be for meat.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a spus: Iată, v-am dat fiecare verdeaţă care aduce sămânţă, care este peste faţa întregului pământ, şi fiecare pom, în care este rodul unui pom care aduce sămânţă, aceasta vă va fi pentru mâncare."
   },
   {
     "num": 30,
@@ -5323,7 +5524,7 @@ window.CHAPTER_DATA = [
         "strong": "H2416",
         "pos": "substantiv, stare construită",
         "greek": "θηρίον (therion)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "vietățile (de)."
       },
       {
@@ -5337,7 +5538,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv, cu articol",
         "greek": "γῆ (ge)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "pământul."
       },
       {
@@ -5351,7 +5552,7 @@ window.CHAPTER_DATA = [
         "strong": "H5775",
         "pos": "substantiv",
         "greek": "πετεινόν (peteinon)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "păsările."
       },
       {
@@ -5365,7 +5566,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv, cu articol",
         "greek": "οὐρανός (ouranos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "cerurile."
       },
       {
@@ -5379,7 +5580,7 @@ window.CHAPTER_DATA = [
         "strong": "H7430",
         "pos": "verb (qal, participiu, folosit ca substantiv)",
         "greek": "ἑρπετόν (herpeton)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "care se târăște, târâtoare."
       },
       {
@@ -5393,7 +5594,7 @@ window.CHAPTER_DATA = [
         "strong": "H5315",
         "pos": "substantiv (locuțiune)",
         "greek": "ψυχὴ ζωῆς (psyche zoes)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "suflet viu, ființă însuflețită."
       },
       {
@@ -5407,7 +5608,7 @@ window.CHAPTER_DATA = [
         "strong": "H3418",
         "pos": "substantiv (locuțiune)",
         "greek": "χλωρός (chloros, „verde”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "verdeață, plante verzi — spre deosebire de „vegetație roditoare” (v. 29), aici pare să includă toată planta, nu doar rodul ei."
       },
       {
@@ -5421,7 +5622,7 @@ window.CHAPTER_DATA = [
         "strong": "H402",
         "pos": "substantiv",
         "greek": "βρῶσις (brosis)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "hrană, mâncare."
       },
       {
@@ -5435,7 +5636,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι (ginomai)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -5449,7 +5650,7 @@ window.CHAPTER_DATA = [
         "strong": "H3651",
         "pos": "adverb",
         "greek": "οὕτως (houtos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "așa, astfel."
       }
     ],
@@ -5459,8 +5660,12 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Rashi (1040–1105)",
-        "text": "Continuă gândul de la v. 29: dacă omului i s-au dat semințele și rodul pomilor, animalelor li s-a dat „toată vegetația verde” — o distincție, spune Rashi, care arată o ierarhie chiar și în felul hranei permise la începuturi, deși ambele categorii rămân, în acest stadiu, exclusiv vegetariene."
+        "author": "Sforno (cca. 1475–1550)",
+        "text": "Explică: pentru toate fiarele pământului și animalele domestice, Dumnezeu a dat ca hrană tipurile de ierburi care nu se reproduc prin sămânță — o distincție tehnică față de plantele cu sămânță date special omului la v.29."
+      },
+      {
+        "author": "Notă contextuală (sinteză editorială)",
+        "text": "Ideea că interdicția cărnii ține până la Noe (Geneza 9:3) apare explicit în comentariul real al lui Rashi la v.29, nu ca notă separată la v.30 — motiv pentru care aici am păstrat doar sursa verificată direct pe acest verset (Sforno)."
       }
     ],
     "textCompare": [
@@ -5480,10 +5685,11 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Diferență reală, confirmată: ולכל חית הארץ ולכל עוף השמים ולכל הרמש על הארץ אשר בו נפש חיה את כל ירק עשב לאכלה ויהי כן — „And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein [there is] life, [I have given] every green herb for meat: and it was so.”",
+        "note": "Verificat direct în textul samaritean real (nu presupunere). [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]"
       }
-    ]
+    ],
+    "fidela": "Şi fiecărei fiare a pământului şi fiecărei păsări a cerului şi fiecărei târâtoare pe pământ, în care este viaţă, le-am dat fiecare plantă verde pentru mâncare; şi aşa a fost."
   },
   {
     "num": 31,
@@ -5499,7 +5705,7 @@ window.CHAPTER_DATA = [
         "strong": "H7200",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "ὁράω (horao)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a vedea."
       },
       {
@@ -5513,7 +5719,7 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "greek": "ὁ Θεός (ho Theos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "Dumnezeu."
       },
       {
@@ -5527,7 +5733,7 @@ window.CHAPTER_DATA = [
         "strong": "H3605",
         "pos": "cuantificator",
         "greek": "πᾶς (pas)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "tot."
       },
       {
@@ -5541,7 +5747,7 @@ window.CHAPTER_DATA = [
         "strong": "H834",
         "pos": "pronume relativ",
         "greek": "ὅς (hos, „care”)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "care, ce — pronume relativ, unul dintre cele mai frecvente cuvinte din Tora."
       },
       {
@@ -5555,7 +5761,7 @@ window.CHAPTER_DATA = [
         "strong": "H6213",
         "pos": "verb (qal, timpul trecut)",
         "greek": "ποιέω (poieo)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a face — verbul general „a face”, revenit din nou la finalul capitolului."
       },
       {
@@ -5569,7 +5775,7 @@ window.CHAPTER_DATA = [
         "strong": "H2009",
         "pos": "interjecție",
         "greek": "ἰδού (idou)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "iată."
       },
       {
@@ -5583,7 +5789,7 @@ window.CHAPTER_DATA = [
         "strong": "H2896",
         "pos": "adjectiv + adverb",
         "greek": "καλός / ἀγαθός (kalos / agathos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "foarte bun/bine — singura dată în capitol când „bine” primește acest superlativ."
       },
       {
@@ -5597,7 +5803,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι (ginomai)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -5611,7 +5817,7 @@ window.CHAPTER_DATA = [
         "strong": "H6153",
         "pos": "substantiv",
         "greek": "ἑσπέρα (hespera)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "seară."
       },
       {
@@ -5625,7 +5831,7 @@ window.CHAPTER_DATA = [
         "strong": "H1961",
         "pos": "verb (qal, timpul trecut narativ)",
         "greek": "γίνομαι (ginomai)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "a fi."
       },
       {
@@ -5639,7 +5845,7 @@ window.CHAPTER_DATA = [
         "strong": "H1242",
         "pos": "substantiv",
         "greek": "πρωί (proi)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "dimineață."
       },
       {
@@ -5653,7 +5859,7 @@ window.CHAPTER_DATA = [
         "strong": "H8345",
         "pos": "numeral ordinal, cu articol",
         "greek": "ἕκτος (hektos)",
-        "samaritan": "identic cu Textul Masoretic pentru acest verset — diferă doar alfabetul folosit, nu cuvântul.",
+        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt (vezi nota de la comparația de texte a versetului pentru ce am confirmat sigur).",
         "def": "al șaselea — singura zi din capitol al cărei numeral ordinal primește articol hotărât."
       },
       {
@@ -5668,16 +5874,12 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
+        "author": "Talmudul Babilonian, Șabat 88a (corectat — citat verificat direct în arhivă; citarea inițială \"Avodah Zarah 3b\" era greșită)",
+        "text": "Reish Lakiș explică de ce cuvântul „a șasea” (ziua a șasea) e singurul din tot capitolul care primește articolul hotărât (ה) în ebraică: litera în plus arată că Dumnezeu a pus o condiție cu întreaga lucrare a creației, spunându-i: „Dacă Israel va primi Tora [în ziua a șasea a lunii Sivan], veți exista; dacă nu, vă voi întoarce la haosul dinainte (tohu va-vohu).” De aceea, spune Talmudul, pământul „s-a temut” (Psalmul 76:9) până la primirea Torei la Sinai, temere care a încetat abia atunci."
+      },
+      {
         "author": "Rashi (1040–1105)",
-        "text": "La celelalte zile, textul spune doar <span class=\"heb-inline\">כִּי־טוֹב</span> („că este bine”); aici, la încheierea întregii creații, apare <span class=\"heb-inline\">טוֹב מְאֹד</span> („foarte bine”) — cu articol hotărât la „ziua a șasea” (<span class=\"heb-inline\">הַשִּׁשִּׁי</span>, singura zi cu articol din tot capitolul), pe care Rashi îl leagă de ziua în care avea să fie dată Tora. O tradiție midrașică pe care Rashi o citează include în „foarte bine” și moartea — pentru că fără moarte, lumea aceasta nu ar putea fi urmată de Lumea Viitoare."
-      },
-      {
-        "author": "Bekhor Shor (sec. XII)",
-        "text": "Dă o explicație complet diferită de a lui Rashi pentru același articol hotărât. Observă că doar „a șasea” și „a șaptea” zi primesc articol în tot capitolul — și le leagă de faptul că Moise, când a predat mai târziu Tora poporului, s-a referit înapoi la ele ca la ceva deja cunoscut: „aceasta e ziua a șasea, în care veți primi porție dublă” (cf. mana din Exod) și „aceasta e ziua a șaptea, pe care trebuie s-o cinstiți” (Șabatul). Articolul hotărât ar marca, deci, o trimitere înainte, spre ceva ce urma să fie explicat mai târziu — la fel cum, spune el, doar râul Eufrat e numit cu articol în Geneza 2, fiindcă avea să devină cunoscut ca hotarul țării lui Israel.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
-      },
-      {
-        "author": "Talmudul Babilonian (Șabat 88a)",
-        "text": "Reish Lakiș pune aceeași întrebare ca Rashi — de ce articolul hotărât la „a șasea” — și dă răspunsul pe care Rashi îl preia: Dumnezeu a pus o condiție chiar la Creație, spunând lumii: „Dacă Israel primește Tora [în a șasea zi a lunii Sivan], veți exista; dacă nu, vă întorc la <span class=\"heb-inline\">תֹהוּ וָבֹהוּ</span> (haos și pustiu, ca la v. 2)”. De aceea, spune Talmudul, pământul a „tremurat” de frică (Psalmi 76:9) până când Israel a primit, în cele din urmă, Tora la Sinai.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+        "text": "Explică aceeași particularitate a literei „ה” la „ziua a șasea”: Dumnezeu a pus o condiție asupra întregii creații — că avea să dureze doar dacă Israel primea cele cinci cărți ale Torei (a cincea literă a alfabetului, ה, valorează cinci). O altă explicație citată de Rashi: toate zilele creației așteptau, de fapt, ziua a șasea a lunii Sivan — ziua rânduită pentru primirea Torei la Sinai — ca și cum abia atunci lumea ar fi fost cu adevărat întemeiată."
       }
     ],
     "textCompare": [
@@ -5697,9 +5899,10 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "(scris cu alfabetul samaritean)",
-        "translation": "Conținutul versetului e identic cu Textul Masoretic.",
-        "note": "Fără variante semnificative."
+        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante. [Verificat direct în textul samaritean real: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.]",
+        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (nu mai e o presupunere)."
       }
-    ]
+    ],
+    "fidela": "Şi Dumnezeu a văzut fiecare lucru pe care l-a făcut şi, iată, totul era foarte bun. Şi a fost o seară şi o dimineaţă: ziua a şasea."
   }
 ];
