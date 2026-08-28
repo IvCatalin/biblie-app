@@ -33,6 +33,13 @@ app.use(express.json({ limit: "1mb" }));
 // pagina se accesează la adresa de bază (ex. https://numele-tau.onrender.com/biblie-demo.html)
 app.use(express.static(path.join(__dirname, "public")));
 
+// Adresa de bază (ex. https://biblie-app.onrender.com fără nimic după) nu
+// știa să deschidă automat pagina — dădea "Cannot GET /". Acum redirecționează
+// direct spre biblie-demo.html, ca aplicația să se deschidă normal.
+app.get("/", (req, res) => {
+  res.redirect("/biblie-demo.html");
+});
+
 // Presetare de voce — un singur profil (masculin, Cedar). Clientul nu alege
 // liber ID-ul vocii/modelul, doar declanșează generarea.
 const VOICE_PRESETS = {
