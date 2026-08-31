@@ -2026,9 +2026,6 @@
     <main class="settings-main">
       <div class="lib-section-title">Bibliotecă — arhivă rabinică, texte canonice, deuterocanonice, apocrife și patristice</div>
       <div class="lib-folder-grid" id="lib-folder-grid"></div>
-      <div class="settings-footnote" style="margin-top:16px;">
-        Textele complete (Tovit, Iudita) sunt din ediția Sfântului Sinod 1914, domeniu public.
-      </div>
     </main>
   </div>
 
@@ -3590,10 +3587,9 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
     let countLabel;
     if(folder.isNested){
       const totalLeaf = countLeafItems(folder.subfolders);
-      countLabel = totalLeaf + ' titluri';
+      countLabel = totalLeaf + ' documente';
     } else {
-      const availableCount = folder.books.filter(b => b.available).length;
-      countLabel = folder.books.length + ' titluri' + (availableCount ? ' · ' + availableCount + ' cu text' : '');
+      countLabel = folder.books.length + ' documente';
     }
     tile.innerHTML =
       '<div class="lib-folder-icon">' + (ICONS[folder.icon] || ICONS.document) + '</div>' +
@@ -3641,7 +3637,7 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
       const item = document.createElement("div");
       item.className = "lib-book-item";
       const left = document.createElement("div");
-      const count = (sf.items || []).filter(it => !it.isHeader).length + " titluri";
+      const count = (sf.items || []).filter(it => !it.isHeader).length + " documente";
       left.innerHTML =
         '<div class="lib-book-name">' + sf.label + '</div>' +
         '<div class="lib-book-meta">' + count + '</div>';
