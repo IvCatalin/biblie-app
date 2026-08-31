@@ -1,0 +1,44 @@
+{
+  "translation": "Biblia 1914 – ediție modernizată",
+  "source": "Biblia Sinodală, Ediția Sfântului Sinod, 1914",
+  "source_status": "Public Domain",
+  "modernization": "Orthographic modernization only",
+  "book": "Psalmul 151",
+  "bookSlug": "psalmul-151",
+  "summary": "Psalmul 151 este un psalm apocrif atribuit lui David, păstrat în Septuaginta. El descrie chemarea lui David de la păstorit la ungerea ca rege și victoria asupra lui Goliat. Este un text scurt de laudă și mărturie personală a puterii lui Dumnezeu care alege pe cei smeriți.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Mic eram între frații mei și tânăr în casa tatălui meu; păsteam oile tatălui meu."
+        },
+        {
+          "verse": 2,
+          "text": "Mâinile mele au făcut un organ, degetele mele au întocmit o psaltire."
+        },
+        {
+          "verse": 3,
+          "text": "Și cine va vesti Domnului meu? Însuși Domnul, Însuși a auzit."
+        },
+        {
+          "verse": 4,
+          "text": "El a trimis pe îngerul Său și m-a luat de la oile tatălui meu și m-a uns cu untdelemnul ungerii Sale."
+        },
+        {
+          "verse": 5,
+          "text": "Frații mei erau frumoși și mari, și Domnul n-a binevoit în ei."
+        },
+        {
+          "verse": 6,
+          "text": "Am ieșit în întâmpinarea celui de alt neam și m-a blestemat cu idolii săi."
+        },
+        {
+          "verse": 7,
+          "text": "Iar eu, smulgând sabia de la el, i-am tăiat capul și am ridicat ocara de la fiii lui Israel."
+        }
+      ]
+    }
+  ]
+}
