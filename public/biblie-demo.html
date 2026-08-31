@@ -525,6 +525,7 @@
     display:flex; align-items:center; justify-content:center;
   }
   #lib-info-backdrop{z-index:90;}
+  #lib-text-backdrop{z-index:90;}
   .lib-info-modal{
     position:fixed; left:50%; top:50%;
     transform:translate(-50%,-50%) scale(0.95);
@@ -843,7 +844,7 @@
   .verse{
     margin-bottom:20px;
     line-height:1.9;
-    font-size:19px;
+    font-size:inherit;
     cursor:pointer;
     padding:6px 8px;
     margin-left:-8px;
@@ -2047,6 +2048,7 @@
         <span class="book-pill-arrow">▾</span>
         <div class="lib-reader-chapter-dropdown" id="lib-reader-chapter-dropdown"></div>
       </button>
+      <button class="lib-reader-info" id="lib-reader-aa" title="Aspect text" style="font-size:14px; font-weight:700;">Aa</button>
       <button class="lib-reader-info" id="lib-reader-info" title="Detalii ediție">ⓘ</button>
       <button class="lib-reader-x" id="lib-reader-close" title="Închide">✕</button>
     </div>
@@ -2062,6 +2064,18 @@
     <button class="lib-info-close" id="lib-info-close" title="Închide">✕</button>
     <div class="lib-info-title" id="lib-info-title"></div>
     <div class="lib-info-body" id="lib-info-body"></div>
+  </div>
+
+  <div class="picker-backdrop" id="lib-text-backdrop"></div>
+  <div class="lib-info-modal" id="lib-text-modal">
+    <button class="lib-info-close" id="lib-text-close" title="Închide">✕</button>
+    <div class="lib-info-title">Aspect text</div>
+    <div class="lib-info-body">
+      <div class="vsp-row-label">Font</div>
+      <div class="vsp-chip-row" id="lib-text-font-row"></div>
+      <div class="vsp-row-label" style="margin-top:12px;">Mărime</div>
+      <div class="vsp-chip-row" id="lib-text-size-row"></div>
+    </div>
   </div>
 
   <div class="picker-backdrop" id="cal-backdrop"></div>
@@ -3757,6 +3771,66 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
     libReaderInfo.addEventListener("click", openInfoModal);
     libInfoClose.addEventListener("click", closeInfoModal);
     libInfoBackdrop.addEventListener("click", closeInfoModal);
+  }
+
+  // ---- Aspect text (Aa) pentru cititorul din Diverse ----
+  function libGetTextPrefs(){
+    let font = "serif", size = 16;
+    try { font = localStorage.getItem("libReaderFont") || "serif"; } catch(e){}
+    try { size = parseInt(localStorage.getItem("libReaderSize"), 10) || 16; } catch(e){}
+    return { font, size };
+  }
+  function libApplyTextPrefs(){
+    const { font, size } = libGetTextPrefs();
+    const fontObj = VS_FONTS.find(f => f.id === font) || VS_FONTS[0];
+    readerBody.style.fontFamily = fontObj.css;
+    readerBody.style.fontSize = size + "px";
+  }
+  libApplyTextPrefs();
+
+  const libReaderAaBtn = document.getElementById("lib-reader-aa");
+  const libTextBackdrop = document.getElementById("lib-text-backdrop");
+  const libTextModal = document.getElementById("lib-text-modal");
+  const libTextClose = document.getElementById("lib-text-close");
+
+  function renderLibTextPanel(){
+    const { font, size } = libGetTextPrefs();
+    const fontRow = document.getElementById("lib-text-font-row");
+    const sizeRow = document.getElementById("lib-text-size-row");
+    fontRow.innerHTML = VS_FONTS.map(f =>
+      '<button class="vsp-chip' + (f.id === font ? ' active' : '') + '" data-font="' + f.id + '" style="font-family:' + f.css + '">' + f.label + '</button>'
+    ).join("");
+    sizeRow.innerHTML = VS_SIZES.map(s =>
+      '<button class="vsp-chip' + (s === size ? ' active' : '') + '" data-size="' + s + '">' + s + '</button>'
+    ).join("");
+    fontRow.querySelectorAll(".vsp-chip").forEach(chip => {
+      chip.addEventListener("click", () => {
+        try { localStorage.setItem("libReaderFont", chip.dataset.font); } catch(e){}
+        libApplyTextPrefs();
+        renderLibTextPanel();
+      });
+    });
+    sizeRow.querySelectorAll(".vsp-chip").forEach(chip => {
+      chip.addEventListener("click", () => {
+        try { localStorage.setItem("libReaderSize", chip.dataset.size); } catch(e){}
+        libApplyTextPrefs();
+        renderLibTextPanel();
+      });
+    });
+  }
+  function openLibTextModal(){
+    renderLibTextPanel();
+    libTextBackdrop.classList.add("show");
+    libTextModal.classList.add("show");
+  }
+  function closeLibTextModal(){
+    libTextBackdrop.classList.remove("show");
+    libTextModal.classList.remove("show");
+  }
+  if(libReaderAaBtn){
+    libReaderAaBtn.addEventListener("click", openLibTextModal);
+    libTextClose.addEventListener("click", closeLibTextModal);
+    libTextBackdrop.addEventListener("click", closeLibTextModal);
   }
 
   function totalChapters(book){
