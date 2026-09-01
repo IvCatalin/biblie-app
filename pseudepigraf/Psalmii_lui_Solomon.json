@@ -1,0 +1,1290 @@
+{
+  "translation": "Psalmii lui Solomon – adaptare după G. B. Gray / R. H. Charles",
+  "source": "G. B. Gray in R. H. Charles, APOT II, 1913; cf. NETS Atkinson (Rahlfs)",
+  "source_status": "Public Domain",
+  "modernization": "Traducere și adaptare în română după textul grec via Gray",
+  "book": "Psalmii lui Solomon",
+  "bookSlug": "psalmii-solomon",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Am strigat către Domnul",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Am strigat către Domnul când am fost cu totul strâmtorat, către Dumnezeu când păcătoșii au năvălit."
+        },
+        {
+          "verse": 2,
+          "text": "Deodată s-a auzit strigătul războiului înaintea mea: El mă va asculta, căci eram plin de dreptate."
+        },
+        {
+          "verse": 3,
+          "text": "M-am gândit în inima mea că sunt plin de dreptate, pentru că am sporit și am avut mulți copii."
+        },
+        {
+          "verse": 4,
+          "text": "Bogăția lor s-a răspândit pe tot pământul, și slava lor până la capătul pământului."
+        },
+        {
+          "verse": 5,
+          "text": "S-au înălțat până la stele; au zis că nu vor cădea."
+        },
+        {
+          "verse": 6,
+          "text": "Dar s-au îngâmfat în belșugul lor, și n-au adus."
+        },
+        {
+          "verse": 7,
+          "text": "Păcatele lor erau în taină, și eu n-aveam cunoștință de ele."
+        },
+        {
+          "verse": 8,
+          "text": "Faptele lor de fărădelege au întrecut pe cele ale neamurilor dinaintea lor; au pângărit cu pângărire locașul sfânt al Domnului."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Asupra Ierusalimului; balaurul",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Când s-a mândrit păcătosul, a dărâmat ziduri întărite cu un berbec de asediu, și Tu nu l-ai oprit."
+        },
+        {
+          "verse": 2,
+          "text": "Neamuri străine s-au suit la altarul Tău; în mândrie l-au călcat cu sandalele,"
+        },
+        {
+          "verse": 3,
+          "text": "pentru că fiii Ierusalimului pângăriseră locașul sfânt al Domnului, pângăriseră darurile lui Dumnezeu cu fapte de fărădelege."
+        },
+        {
+          "verse": 4,
+          "text": "Din pricina acestora a zis: Aruncă-le departe de Mine; nu-Mi găsesc plăcere în ele."
+        },
+        {
+          "verse": 5,
+          "text": "Frumusețea slavei ei a fost disprețuită înaintea lui Dumnezeu; a fost cu totul necinstită."
+        },
+        {
+          "verse": 6,
+          "text": "Fiii și fiicele erau în robie aspră, grumazul lor în pecete, cu un semn printre neamuri."
+        },
+        {
+          "verse": 7,
+          "text": "După păcatele lor a lucrat cu ei, căci i-a părăsit în mâinile celor ce biruiesc."
+        },
+        {
+          "verse": 8,
+          "text": "Și-a întors fața de la a se îndura de ei, tânăr și bătrân și copiii lor iarăși,"
+        },
+        {
+          "verse": 9,
+          "text": "și cerul s-a îngreunat, și pământul i-a urât, pentru că nici un om de pe el nu făcuse ce au făcut ei."
+        },
+        {
+          "verse": 10,
+          "text": "Și pământul va cunoaște toate judecățile Tale drepte, Dumnezeule."
+        },
+        {
+          "verse": 11,
+          "text": "I-au pus pe fiii Ierusalimului să fie batjocoriți din pricina desfrânatelor din ea; tot cel ce trecea intra înaintea soarelui."
+        },
+        {
+          "verse": 12,
+          "text": "Obișnuiau să-și bată joc cu faptele lor de fărădelege, precum ei înșiși obișnuiau să facă; înaintea soarelui își etalau nedreptățile."
+        },
+        {
+          "verse": 13,
+          "text": "Și fiicele Ierusalimului erau pângărite după judecata Ta, pentru că se întinaseră cu o amestecare tulbure."
+        },
+        {
+          "verse": 14,
+          "text": "Sunt tulburat în măruntaie și în părțile mele dinăuntru pentru lucrurile acestea."
+        },
+        {
+          "verse": 15,
+          "text": "Te voi îndreptăți, Dumnezeule, în dreptatea inimii, căci în judecățile Tale este dreptatea Ta, Dumnezeule."
+        },
+        {
+          "verse": 16,
+          "text": "Căci ai răsplătit pe păcătoși după lucrările lor, și după păcatele lor, care erau foarte rele."
+        },
+        {
+          "verse": 17,
+          "text": "Le-ai dat pe față păcatele, ca judecata Ta să fie vădită; le-ai șters pomenirea de pe pământ."
+        },
+        {
+          "verse": 18,
+          "text": "Dumnezeu este un judecător drept, și nu se va mira de un om."
+        },
+        {
+          "verse": 19,
+          "text": "Căci neamurile au ocărât Ierusalimul, călcându-l; i-a târât frumusețea de pe scaunul slavei."
+        },
+        {
+          "verse": 20,
+          "text": "S-a îmbrăcat cu sac în loc de veșminte frumoase, o funie împrejurul capului în loc de cunună."
+        },
+        {
+          "verse": 21,
+          "text": "A dat jos podoaba slavei, pe care Dumnezeu o pusese pe ea; în necinste frumusețea ei a fost aruncată la pământ."
+        },
+        {
+          "verse": 22,
+          "text": "Și am văzut și am rugat fața Domnului și am zis: Destul de mult, Doamne, a fost grea mâna Ta asupra Ierusalimului, aducând neamurile asupra lui."
+        },
+        {
+          "verse": 23,
+          "text": "Căci și-au bătut joc și n-au cruțat, în mânie și furie aprinsă, și vor fi aduși la capăt, de nu-i vei mustra, Doamne, în urgia Ta."
+        },
+        {
+          "verse": 24,
+          "text": "Căci nu din râvnă au lucrat, ci din pofta sufletului, ca să-și verse mânia asupra noastră în jaf."
+        },
+        {
+          "verse": 25,
+          "text": "Nu zăbovi, Dumnezeule, să le răsplătești pe capetele lor, să dai pe față în necinste mândria balaurului."
+        },
+        {
+          "verse": 26,
+          "text": "Și n-am așteptat mult până ce Dumnezeu mi-a arătat obrăznicia lui, străpuns, pe munții Egiptului, mai mult decât cel mai disprețuit pe uscat și pe mare."
+        },
+        {
+          "verse": 27,
+          "text": "Trupul lui, purtat pe valuri în mare obrăznicie, și n-a fost cine să îngroape, căci îl lepădase în necinste."
+        },
+        {
+          "verse": 28,
+          "text": "N-a socotit că este un om, nici n-a socotit cele de apoi."
+        },
+        {
+          "verse": 29,
+          "text": "A zis: Voi fi stăpân al pământului și al mării, și n-a cunoscut că Dumnezeu este mare, puternic în puterea Sa cea mare."
+        },
+        {
+          "verse": 30,
+          "text": "El este împărat peste ceruri, judecând și regi și stăpâniri."
+        },
+        {
+          "verse": 31,
+          "text": "El este Cel ce mă înalță la slavă și adoarme pe cei mândri spre nimicire veșnică în necinste, pentru că nu L-au cunoscut."
+        },
+        {
+          "verse": 32,
+          "text": "Și acum vedeți, nobilii pământului, judecata Domnului; căci El este un împărat mare și drept, judecând ce e sub cer."
+        },
+        {
+          "verse": 33,
+          "text": "Binecuvântați pe Dumnezeu, voi care vă temeți de Domnul cu înțelegere, căci mila Domnului este asupra celor ce se tem de El cu judecată,"
+        },
+        {
+          "verse": 34,
+          "text": "să despartă între drept și păcătos, să răsplătească păcătoșilor pe veci după lucrările lor,"
+        },
+        {
+          "verse": 35,
+          "text": "și să se îndure de cei drepți, [izbăvindu-l] de umilirea păcătosului, și să răsplătească păcătosului pentru ce a făcut celui drept."
+        },
+        {
+          "verse": 36,
+          "text": "Căci Domnul este bun cu cei ce-L cheamă cu răbdare, tratând pe evlavioșii Săi după mila Sa, punându-i neîncetat înaintea Lui în putere."
+        },
+        {
+          "verse": 37,
+          "text": "Binecuvântat este Domnul pe veci înaintea robilor Săi."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Despre cel drept",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De ce dormi, suflete, și nu binecuvântezi pe Domnul? Cântă un imn nou lui Dumnezeu, care e vrednic să fie lăudat."
+        },
+        {
+          "verse": 2,
+          "text": "Cântă, și fii deplin treaz în priveghere pentru El, căci o melodie bună pentru Dumnezeu este dintr-o inimă bună."
+        },
+        {
+          "verse": 3,
+          "text": "Cei drepți își aduc aminte de Domnul în tot timpul, cu mărturisire și îndreptățire, judecățile Domnului."
+        },
+        {
+          "verse": 4,
+          "text": "Cel drept nu disprețuiește a fi pedepsit de Domnul; buna lui plăcere este totdeauna înaintea Domnului."
+        },
+        {
+          "verse": 5,
+          "text": "Cel drept s-a poticnit și a îndreptățit pe Domnul; a căzut și privește ce va face Dumnezeu pentru el; privește cu nerăbdare de unde îi va veni mântuirea."
+        },
+        {
+          "verse": 6,
+          "text": "Adevărul celor drepți este de la Mântuitorul lor dumnezeiesc; în casa celui drept păcat peste păcat nu se sălășluiește."
+        },
+        {
+          "verse": 7,
+          "text": "Cel drept își cercetează totdeauna casa, să înlăture nedreptatea lui în călcare."
+        },
+        {
+          "verse": 8,
+          "text": "A făcut ispășire pentru păcatele din neștiință prin post și umilirea sufletului său, și Domnul curăță pe tot omul evlavios și casa lui."
+        },
+        {
+          "verse": 9,
+          "text": "Păcătosul s-a poticnit, și blestemă viața sa, ziua nașterii sale și durerile nașterii mamei sale."
+        },
+        {
+          "verse": 10,
+          "text": "A adăugat păcat peste păcat în viața sa; a căzut, pentru că căderea lui e rea, și nu se va scula."
+        },
+        {
+          "verse": 11,
+          "text": "Nimicirea păcătosului este pe veci, și nu va fi pomenit, când va cerceta pe cei drepți."
+        },
+        {
+          "verse": 12,
+          "text": "Aceasta este partea păcătoșilor pe veci, dar cei ce se tem de Domnul se vor scula la viață veșnică, și viața lor este în lumina Domnului și nu se va sfârși niciodată."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Către plăcuții oamenilor",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De ce șezi, pângăritule, în sfatul evlavioșilor, și inima ta e departe de Domnul, provocând cu călcări de lege pe Dumnezeul lui Israel?"
+        },
+        {
+          "verse": 2,
+          "text": "Risipitor în vorbă, risipitor în înfățișare peste toți, omul aspru în vorbă la osândirea păcătoșilor în judecată."
+        },
+        {
+          "verse": 3,
+          "text": "Și mâna lui e cea dintâi asupra lui ca și din râvnă, și el însuși e vinovat de felurite păcate și de desfătare de sine."
+        },
+        {
+          "verse": 4,
+          "text": "Ochii lui sunt asupra oricărei femei fără deosebire; limba lui e mincinoasă când face un contract cu jurământ."
+        },
+        {
+          "verse": 5,
+          "text": "Noaptea și în taină păcătuiește ca și cum n-ar fi văzut; cu ochii vorbește oricărei femei în întâlnire rea; e iute să intre în orice casă voios ca și cum ar fi nevinovat."
+        },
+        {
+          "verse": 6,
+          "text": "Să înlăture Dumnezeu pe cei ce trăiesc în fățărnicie cu evlavioșii, cu stricăciunea cărnii lui și viața lui cu sărăcie."
+        },
+        {
+          "verse": 7,
+          "text": "Să descopere Dumnezeu lucrările oamenilor, ale plăcuților oamenilor, lucrările lui cu batjocură și dispreț."
+        },
+        {
+          "verse": 8,
+          "text": "Și evlavioșii să îndreptățească judecata Dumnezeului lor, când păcătoșii sunt înlăturați din prezența celor drepți, plăcutul oamenilor care grăiește legea cu înșelăciune."
+        },
+        {
+          "verse": 9,
+          "text": "Și ochii lor sunt asupra unei case statornice a unui om, ca un șarpe să nimicească înțelepciunea unul altuia cu cuvintele celor ce calcă legea."
+        },
+        {
+          "verse": 10,
+          "text": "Cuvintele lui sunt înșelăciuni ca să-și împlinească dorința de nedreptate; n-a încetat până a izbutit să-i risipească ca pe niște orfani."
+        },
+        {
+          "verse": 11,
+          "text": "A pustiit o casă din pricina dorinței lui de a călca legea; a înșelat cu cuvinte, pentru că nu este cine să vadă și să judece."
+        },
+        {
+          "verse": 12,
+          "text": "La aceasta s-a umplut de călcarea legii, și ochii lui sunt asupra altei case, să o nimicească cu cuvinte gălăgioase."
+        },
+        {
+          "verse": 13,
+          "text": "Sufletul lui, ca Hadesul, nu se satură de toate acestea."
+        },
+        {
+          "verse": 14,
+          "text": "Partea lui, Doamne, să fie necinstită înaintea Ta; ieșirea lui să fie cu geamăt, și intrarea lui cu blestem."
+        },
+        {
+          "verse": 15,
+          "text": "Viața lui să fie în chin și sărăcie și neliniște, Doamne; somnul lui să fie cu jale, și deșteptarea lui cu neliniște."
+        },
+        {
+          "verse": 16,
+          "text": "Somnul să fie luat de la tâmplele lui noaptea; să dea greș cu necinste în toată lucrarea mâinilor lui."
+        },
+        {
+          "verse": 17,
+          "text": "Să intre în casa lui cu mâinile goale, și casa lui să ducă lipsă de tot cu ce și-ar sătura sufletul."
+        },
+        {
+          "verse": 18,
+          "text": "Bătrânețea lui să se petreacă în singurătate fără copii până la luarea lui."
+        },
+        {
+          "verse": 19,
+          "text": "Carnea plăcuților oamenilor să fie risipită de fiare sălbatice, și oasele călcătorilor de lege să zacă înaintea soarelui în necinste."
+        },
+        {
+          "verse": 20,
+          "text": "Corbii să scoată ochii fățarnicilor, căci au pustiit multe case de oameni în necinste, și i-au risipit în poftă."
+        },
+        {
+          "verse": 21,
+          "text": "Și nu și-au adus aminte de Dumnezeu, și nu s-au temut de Dumnezeu în toate acestea, și au provocat și au mâniat pe Dumnezeu."
+        },
+        {
+          "verse": 22,
+          "text": "Să-i înlăture de pe pământ, pentru că cu prefăcătorie au înșelat sufletele celor nevinovați."
+        },
+        {
+          "verse": 23,
+          "text": "Ferice de cei ce se tem de Domnul în nevinovăția lor; Domnul îi va mântui de oamenii înșelători și de păcătoși, și ne va mântui de orice poticnire a călcătorului de lege."
+        },
+        {
+          "verse": 24,
+          "text": "Să înlăture Dumnezeu pe cei ce fac cu mândrie toată nedreptatea; căci Domnul Dumnezeul nostru este un judecător mare și puternic în dreptate."
+        },
+        {
+          "verse": 25,
+          "text": "Mila Ta, Doamne, să fie asupra tuturor celor ce Te iubesc."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Nădejdea săracului",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Doamne Dumnezeule, voi lăuda numele Tău cu bucurie în mijlocul celor ce au cunoștință de judecățile Tale drepte."
+        },
+        {
+          "verse": 2,
+          "text": "Căci ești bun și milostiv, scăparea săracului; când strig către Tine, nu trece pe lângă mine în tăcere."
+        },
+        {
+          "verse": 3,
+          "text": "Căci nimeni nu va lua pradă de la un om tare, și cine va lua din tot ce ai făcut, de nu dai Tu?"
+        },
+        {
+          "verse": 4,
+          "text": "Căci omul și partea lui sunt înaintea Ta în cumpănă; nu o poate spori dincolo de judecata Ta, Dumnezeule."
+        },
+        {
+          "verse": 5,
+          "text": "Când suntem strâmtorați vom chema ajutorul Tău, și nu vei întoarce înapoi cererea noastră, pentru că ești Dumnezeul nostru."
+        },
+        {
+          "verse": 6,
+          "text": "Nu-Ți greoi mâna asupra noastră, ca nu cumva, din strâmtorare, să păcătuim."
+        },
+        {
+          "verse": 7,
+          "text": "Și dacă nu ne întorci, nu ne vom ține departe, ci vom veni la Tine."
+        },
+        {
+          "verse": 8,
+          "text": "Căci dacă flămânzesc, voi striga către Tine, Dumnezeule, și-mi vei da."
+        },
+        {
+          "verse": 9,
+          "text": "Tu hrănești păsările și peștii, când dai ploaie pustietăților ca să răsară iarba verde."
+        },
+        {
+          "verse": 10,
+          "text": "Ai dat nutreț în pustie oricărei ființe vii, și dacă flămânzesc, își vor ridica fața către Tine."
+        },
+        {
+          "verse": 11,
+          "text": "Tu hrănești regi și stăpânitori și popoare, Dumnezeule, și cine e nădejdea săracului și a nevoiașului, dacă nu Tu, Doamne?"
+        },
+        {
+          "verse": 12,
+          "text": "Și vei asculta — căci cine e bun și iertător decât Tu? — veselind sufletul celui smerit deschizându-Ți mâna în milă."
+        },
+        {
+          "verse": 13,
+          "text": "Bunătatea omului e cu zgârcenie, și mâine, și dacă o repetă fără cârtire, chiar te-ai mira de aceasta."
+        },
+        {
+          "verse": 14,
+          "text": "Dar darul Tău e mare în bunătate, și bogat, și cel a cărui nădejde e în Tine nu va fi zgârcit cu un dar. Mila Ta, Doamne, este asupra tot pământului în bunătate."
+        },
+        {
+          "verse": 15,
+          "text": "Ferice de omul pe care Dumnezeu și-l aduce aminte în măsură cu îndestularea; dacă omul are prea mult, păcătuiește."
+        },
+        {
+          "verse": 16,
+          "text": "De ajuns este o prevedere cumpătată cu dreptate, și în aceasta este binecuvântarea Domnului pentru belșug cu dreptate."
+        },
+        {
+          "verse": 17,
+          "text": "Să se bucure cei ce se tem de Domnul de lucruri bune, și bunătatea Ta să fie asupra lui Israel în împărăția Ta."
+        },
+        {
+          "verse": 18,
+          "text": "Binecuvântată este slava Domnului, căci El este regele nostru."
+        },
+        {
+          "verse": 19,
+          "text": "Binecuvântată este slava Domnului, căci El este regele nostru."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Ferice de omul a cărui inimă e gata",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ferice de omul a cărui inimă e gata să cheme numele Domnului;"
+        },
+        {
+          "verse": 2,
+          "text": "când își aduce aminte de numele Domnului, va fi mântuit."
+        },
+        {
+          "verse": 3,
+          "text": "Căile lui sunt făcute drepte de Domnul, și sunt păzite de oamenii evlavioși."
+        },
+        {
+          "verse": 4,
+          "text": "Somnul lui nu e cu neliniște, pentru că casa lui e lângă Domnul; mântuirea lui e în privegherea Domnului."
+        },
+        {
+          "verse": 5,
+          "text": "Nu se înspăimântă de visul rău, nici de căderea la trezire."
+        },
+        {
+          "verse": 6,
+          "text": "Sufletul lui se bucură de Domnul; și toți cei ce se tem de Domnul vor fi fericiți în El."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Despre întoarcere",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Nu-Ți depărta locuința de la noi, Dumnezeule, ca nu cumva să ne năvălească cei ce ne-au urât fără pricină."
+        },
+        {
+          "verse": 2,
+          "text": "Căci Tu i-ai lepădat, Dumnezeule; piciorul lor să nu calce moștenirea locașului Tău sfânt."
+        },
+        {
+          "verse": 3,
+          "text": "Pedepsește-ne după voia Ta, și nu ne da neamurilor."
+        },
+        {
+          "verse": 4,
+          "text": "Căci dacă trimiți moartea, o vei porunci cu privire la noi."
+        },
+        {
+          "verse": 5,
+          "text": "Căci ești plin de milă, și nu Te vei mânia destul ca să ne nimicești cu totul."
+        },
+        {
+          "verse": 6,
+          "text": "Câtă vreme numele Tău locuiește în mijlocul nostru, vom găsi milă, și nici un neam nu va birui împotriva noastră."
+        },
+        {
+          "verse": 7,
+          "text": "Căci Tu ești ocrotitorul nostru, și Te vom chema, și ne vei asculta;"
+        },
+        {
+          "verse": 8,
+          "text": "căci Te vei îndura de neamul lui Israel pe veci, și nu-l vei lepăda,"
+        },
+        {
+          "verse": 9,
+          "text": "și suntem sub jugul Tău pe veci, și sub biciul pedepsei Tale."
+        },
+        {
+          "verse": 10,
+          "text": "Și ne vei îndrepta în vremea ajutorului Tău, arătând milă casei lui Iacob în ziua pe care le-ai făgăduit-o."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Despre biruință; Pompei",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Urechea mea a auzit strâmtorare și sunet de război, sunetul unei trâmbițe vestind junghiere și nimicire."
+        },
+        {
+          "verse": 2,
+          "text": "Sunetul a multor oameni e ca al unui vânt peste măsură de mare, ca un uragan cu foc puternic măturând prin pustie."
+        },
+        {
+          "verse": 3,
+          "text": "Și am zis în inima mea: Unde, așadar, îl va judeca Dumnezeu?"
+        },
+        {
+          "verse": 4,
+          "text": "Am auzit un sunet în Ierusalim, cetatea unui locaș sfânt."
+        },
+        {
+          "verse": 5,
+          "text": "Șalele mi s-au zdrobit de veste; genunchii mi s-au slăbit; inima mi s-a temut; oasele mi s-au clătinat ca inul."
+        },
+        {
+          "verse": 6,
+          "text": "Am zis: Își vor îndrepta căile în dreptate."
+        },
+        {
+          "verse": 7,
+          "text": "Am cugetat judecățile lui Dumnezeu de la zidirea cerului și a pământului; am îndreptățit pe Dumnezeu în judecățile Lui din veșnicie."
+        },
+        {
+          "verse": 8,
+          "text": "Dumnezeu le-a dat pe față păcatele înaintea soarelui; tot pământul a cunoscut judecățile drepte ale lui Dumnezeu."
+        },
+        {
+          "verse": 9,
+          "text": "În locuri tainice sub pământ erau călcările lor de lege în provocare; au săvârșit incest, fiu cu mamă și tată cu fiică."
+        },
+        {
+          "verse": 10,
+          "text": "Au săvârșit preacurvie, fiecare om cu soția aproapelui său. Au încheiat învoieli prin jurământ unul cu altul despre lucrurile acestea."
+        },
+        {
+          "verse": 11,
+          "text": "Jăfuiau locașul sfânt al lui Dumnezeu, ca și cum n-ar fi fost un moștenitor care răscumpără."
+        },
+        {
+          "verse": 12,
+          "text": "Călcau altarul Domnului din pricina a tot felul de necurății, și cu sânge de menstruație pângăreau jertfele ca și cum ar fi fost carne pângărită."
+        },
+        {
+          "verse": 13,
+          "text": "N-au lăsat nici un păcat pe care să nu-l fi făcut mai mult decât neamurile."
+        },
+        {
+          "verse": 14,
+          "text": "De aceea Dumnezeu le-a amestecat un duh de tulburare; le-a dat să bea un pahar de vin neamestecat, ca să se îmbete."
+        },
+        {
+          "verse": 15,
+          "text": "L-a adus de la capătul pământului, pe cel ce lovește cu putere; a vestit război împotriva Ierusalimului și a ținutului lui."
+        },
+        {
+          "verse": 16,
+          "text": "Stăpânitorii ținutului l-au întâmpinat cu bucurie; i-au zis: Binecuvântată e calea ta; vino, intră în pace."
+        },
+        {
+          "verse": 17,
+          "text": "Au netezit drumurile aspre înaintea intrării lui; au deschis porțile Ierusalimului; i-au încununat zidurile."
+        },
+        {
+          "verse": 18,
+          "text": "A intrat, ca un tată în casa fiilor săi, cu pace; și-a așezat picioarele cu mare siguranță."
+        },
+        {
+          "verse": 19,
+          "text": "A cuprins întăriturile ei cu turnuri și zidul Ierusalimului, căci Dumnezeu l-a condus cu siguranță pe când ei rătăceau."
+        },
+        {
+          "verse": 20,
+          "text": "A ucis pe stăpânitorii lor și pe tot cel înțelept în sfat; a vărsat sângele locuitorilor Ierusalimului ca apa necurăției."
+        },
+        {
+          "verse": 21,
+          "text": "A dus pe fiii și fiicele lor pe care îi născuseră în întinare."
+        },
+        {
+          "verse": 22,
+          "text": "Au făcut după necurăția lor, întocmai ca părinții lor; au pângărit Ierusalimul și lucrurile care fuseseră sfințite numelui lui Dumnezeu."
+        },
+        {
+          "verse": 23,
+          "text": "Dumnezeu a fost îndreptățit în judecățile Sale printre neamurile pământului, și evlavioșii lui Dumnezeu sunt ca mieii nevinovați în mijlocul lor."
+        },
+        {
+          "verse": 24,
+          "text": "Vrednic să fie lăudat este Domnul care judecă tot pământul în dreptatea Sa."
+        },
+        {
+          "verse": 25,
+          "text": "Vezi, Dumnezeule, ne-ai arătat judecata Ta în dreptatea Ta; ochii noștri au văzut judecățile Tale, Dumnezeule."
+        },
+        {
+          "verse": 26,
+          "text": "Am îndreptățit numele Tău care e cinstit pe veci, căci Tu ești Dumnezeul dreptății, judecând pe Israel cu pedeapsă."
+        },
+        {
+          "verse": 27,
+          "text": "Întoarce, Dumnezeule, mila Ta asupra noastră, și îndură-Te de noi."
+        },
+        {
+          "verse": 28,
+          "text": "Adună risipirea lui Israel cu milă și bunătate, căci credincioșia Ta e cu noi."
+        },
+        {
+          "verse": 29,
+          "text": "Și ne-am înțepenit grumazul, și Tu ești Cel ce ne pedepsești."
+        },
+        {
+          "verse": 30,
+          "text": "Nu trece cu vederea peste noi, Dumnezeul nostru, ca nu cumva să ne înghită neamurile, ca și cum n-ar fi un Răscumpărător."
+        },
+        {
+          "verse": 31,
+          "text": "Și Tu ești Dumnezeul nostru de la început, și asupra Ta e nădejdea noastră, Doamne."
+        },
+        {
+          "verse": 32,
+          "text": "Și nu ne vom depărta de Tine, căci judecățile Tale asupra noastră sunt bune."
+        },
+        {
+          "verse": 33,
+          "text": "Asupra noastră și a copiilor noștri este buna Ta plăcere pe veci; Doamne, Mântuitorul nostru, nu ne vom mai clătina niciodată."
+        },
+        {
+          "verse": 34,
+          "text": "Vrednic să fie lăudat este Domnul pentru judecățile Sale prin gura evlavioșilor, și binecuvântat este Israel de Domnul pe veci."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Despre mustrare; alegerea",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Când Israel a fost dus în exil într-un ținut străin, au fost izgoniți din moștenirea pe care le-o dăduse Domnul, când au căzut de la Domnul care i-a răscumpărat."
+        },
+        {
+          "verse": 2,
+          "text": "Risipirea lui Israel a fost printre tot neamul, după cuvântul lui Dumnezeu, ca să fii îndreptățit, Dumnezeule, în dreptatea Ta din pricina faptelor noastre de fărădelege; căci ești un judecător drept peste toate popoarele pământului."
+        },
+        {
+          "verse": 3,
+          "text": "Căci nimeni care face nedreptate nu va fi ascuns de cunoștința Ta, și faptele drepte ale evlavioșilor Tăi sunt înaintea Ta, Doamne, și unde se va ascunde un om de cunoștința Ta, Dumnezeule?"
+        },
+        {
+          "verse": 4,
+          "text": "Lucrările noastre sunt în alegerea și puterea sufletului nostru, să facem dreptate sau nedreptate în lucrările mâinilor noastre, și în dreptatea Ta cercetezi pe oameni."
+        },
+        {
+          "verse": 5,
+          "text": "Cel ce lucrează dreptatea își strânge viață la Domnul, și cel ce lucrează nedreptate e răspunzător de nimicirea sufletului său, căci judecățile Domnului sunt în dreptate pentru fiecare om și casă."
+        },
+        {
+          "verse": 6,
+          "text": "Cui îi vei arăta bunătate, Dumnezeule, dacă nu celor ce cheamă pe Domnul? Vei curăța un suflet de păcate când va mărturisi, când va recunoaște; căci rușinea e asupra noastră și a fețelor noastre din pricina tuturor acestora."
+        },
+        {
+          "verse": 7,
+          "text": "Și cui îi vei ierta păcatele, afară de celor ce au păcătuit? Vei binecuvânta pe cei drepți și nu-i vei îndrepta pentru păcatele pe care le-au săvârșit, și bunătatea Ta e asupra păcătoșilor în pocăință."
+        },
+        {
+          "verse": 8,
+          "text": "Și acum, Tu ești Dumnezeul nostru, și noi suntem poporul pe care l-ai iubit. Privește, și fii milostiv, Dumnezeul lui Israel, căci suntem ai Tăi, și nu-Ți depărta mila de la noi, ca nu cumva să ne năvălească."
+        },
+        {
+          "verse": 9,
+          "text": "Și ai ales sămânța lui Avraam peste toate neamurile, și Ți-ai pus numele asupra noastră, Doamne, și nu ne vei lepăda pe veci."
+        },
+        {
+          "verse": 10,
+          "text": "Ai făcut un legământ cu părinții noștri cu privire la noi, și vom nădăjdui în Tine când ne vom întoarce sufletele către Tine."
+        },
+        {
+          "verse": 11,
+          "text": "Mila Domnului este asupra casei lui Israel pe veci de veci."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "Între imnuri; biciul",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ferice de omul pe care Domnul și-l aduce aminte cu mustrare și care e îngrădit de calea cea rea printr-un bici, ca să fie curățat de păcat, ca să nu sporească."
+        },
+        {
+          "verse": 2,
+          "text": "Cel ce-și pregătește spatele pentru lovituri va fi curățat, căci Domnul e bun cu cei ce rabdă pedeapsa."
+        },
+        {
+          "verse": 3,
+          "text": "Căci va îndrepta căile celor drepți și nu-i va abate prin pedeapsă, și mila Domnului e asupra celor ce-L iubesc în adevăr."
+        },
+        {
+          "verse": 4,
+          "text": "Și Domnul Își va aduce aminte de robii Săi în milă, căci mărturia e în legea legământului veșnic, mărturia Domnului pentru căile omenirii la cercetarea Lui."
+        },
+        {
+          "verse": 5,
+          "text": "Domnul nostru e drept și evlavios în judecățile Sale pe veci, și Israel va lăuda numele Domnului cu bucurie."
+        },
+        {
+          "verse": 6,
+          "text": "Și evlavioșii vor mărturisi în adunarea poporului, și Dumnezeu va arăta milă asupra săracului spre bucuria lui Israel."
+        },
+        {
+          "verse": 7,
+          "text": "Căci Dumnezeu e bun și plin de milă pe veci, și adunările lui Israel vor slăvi numele Domnului."
+        },
+        {
+          "verse": 8,
+          "text": "Mântuirea Domnului este asupra casei lui Israel spre bucurie veșnică."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "Despre așteptare; trâmbița în Sion",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Trâmbițați în Sion cu o trâmbiță de semnal ca să chemați pe cei sfinți; vestiți în Ierusalim glasul celui ce aduce veste bună; căci Dumnezeul lui Israel a arătat milă în cercetarea lor."
+        },
+        {
+          "verse": 2,
+          "text": "Stai pe un loc înalt, Ierusalime, și privește pe copiii tăi, de la răsărit și de la apus, adunați iarăși de Domnul."
+        },
+        {
+          "verse": 3,
+          "text": "De la miazănoapte vin în bucuria Dumnezeului lor; de pe ostroavele de departe i-a adunat Dumnezeu."
+        },
+        {
+          "verse": 4,
+          "text": "A netezit munții înalți în pământ neted pentru ei; dealurile au fugit la apropierea lor."
+        },
+        {
+          "verse": 5,
+          "text": "Pădurile i-au umbrit pe când treceau; Dumnezeu a făcut să răsară pentru ei tot pomul de mireasmă,"
+        },
+        {
+          "verse": 6,
+          "text": "ca Israel să treacă la cercetarea slavei Dumnezeului lor."
+        },
+        {
+          "verse": 7,
+          "text": "Îmbracă-te, Ierusalime, cu veșmintele slavei tale; pregătește mantia sfințeniei tale, căci Dumnezeu a grăit bine despre Israel pe veci de veci."
+        },
+        {
+          "verse": 8,
+          "text": "Să facă Domnul ce a grăit despre Israel și Ierusalim; să înalțe Domnul pe Israel prin numele Său slăvit."
+        },
+        {
+          "verse": 9,
+          "text": "Mila Domnului este asupra lui Israel pe veci de veci."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "Împotriva limbii călcătorilor de lege",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Doamne, izbăvește sufletul meu de omul care e călcător de lege și rău, de limba care calcă legea și e clevetitoare și care grăiește minciuni și înșelăciuni."
+        },
+        {
+          "verse": 2,
+          "text": "Cuvintele limbii omului rău sunt răsucite în multe feluri, ca focul printre un popor care-i arde frumusețea."
+        },
+        {
+          "verse": 3,
+          "text": "Șederea lui — să aprindă case cu o limbă mincinoasă — să taie pomii bucuriei care îi aprinde pe călcătorii de lege, să tulbure casele în război prin buze clevetitoare."
+        },
+        {
+          "verse": 4,
+          "text": "Să depărteze Dumnezeu de la cel nevinovat buzele călcătorilor de lege cu neliniște, și oasele clevetitorilor să fie risipite departe de cei ce se tem de Domnul; limba clevetitoare să piară în foc de flacără departe de evlavioși."
+        },
+        {
+          "verse": 5,
+          "text": "Să păzească Domnul sufletul liniștit care urăște pe cel nedrept, și să îndrepte Domnul pe omul care face pace acasă."
+        },
+        {
+          "verse": 6,
+          "text": "Mântuirea Domnului este asupra lui Israel, slujitorul Său, pe veci, și păcătoșii să piară cu totul din prezența Domnului, și evlavioșii Domnului să moștenească făgăduințele Domnului."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "Mângâiere pentru cel drept",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Mâna dreaptă a Domnului m-a acoperit; mâna dreaptă a Domnului ne-a cruțat."
+        },
+        {
+          "verse": 2,
+          "text": "Brațul Domnului ne-a mântuit de sabia care trece, de foamete și de moartea păcătoșilor."
+        },
+        {
+          "verse": 3,
+          "text": "Fiare sălbatice rele s-au năpustit asupra lor; cu dinții le-au sfâșiat carnea, și cu măselele le-au zdrobit oasele."
+        },
+        {
+          "verse": 4,
+          "text": "Dar de toate acestea ne-a izbăvit Domnul."
+        },
+        {
+          "verse": 5,
+          "text": "Omul evlavios a fost tulburat din pricina călcărilor lui, ca nu cumva să fie luat odată cu păcătoșii."
+        },
+        {
+          "verse": 6,
+          "text": "Căci nimicirea păcătosului e înfricoșată, dar nici una din toate acestea nu se va atinge de cel drept."
+        },
+        {
+          "verse": 7,
+          "text": "Căci nu e aceeași pedeapsa celui drept în neștiință și nimicirea păcătoșilor."
+        },
+        {
+          "verse": 8,
+          "text": "Cel drept e pedepsit cu deosebire, ca nu cumva păcătosul să se bucure asupra celui drept."
+        },
+        {
+          "verse": 9,
+          "text": "Căci îl va mustra pe cel drept ca pe un fiu iubit, și pedeapsa lui e ca a unui întâi-născut."
+        },
+        {
+          "verse": 10,
+          "text": "Căci Domnul va cruța pe evlavioșii Săi și le va șterge călcările cu pedeapsă."
+        },
+        {
+          "verse": 11,
+          "text": "Căci viața celui drept e pe veci, dar păcătoșii vor fi luați în nimicire, și pomenirea lor nu se va găsi niciodată."
+        },
+        {
+          "verse": 12,
+          "text": "Dar mila Domnului e asupra evlavioșilor, și mila Lui e asupra celor ce se tem de El."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "Pomii vieții",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Credincios este Domnul celor ce-L iubesc în adevăr, celor ce rabdă pedeapsa Lui,"
+        },
+        {
+          "verse": 2,
+          "text": "celor ce umblă în dreptatea rânduielilor Lui, în legea pe care ne-a poruncit-o ca să trăim."
+        },
+        {
+          "verse": 3,
+          "text": "Evlavioșii Domnului vor trăi prin ea pe veci; livada Domnului, pomii vieții, sunt evlavioșii Lui."
+        },
+        {
+          "verse": 4,
+          "text": "Sădirea lor e înrădăcinată pe veci; nu vor fi smulși toate zilele cerului;"
+        },
+        {
+          "verse": 5,
+          "text": "căci partea și moștenirea lui Dumnezeu este Israel."
+        },
+        {
+          "verse": 6,
+          "text": "Dar nu așa sunt păcătoșii și călcătorii de lege, care au iubit o zi în tovarășia păcatului lor."
+        },
+        {
+          "verse": 7,
+          "text": "Dorința lor a fost după scurtimea stricăciunii, și nu și-au adus aminte de Dumnezeu."
+        },
+        {
+          "verse": 8,
+          "text": "Căci căile oamenilor sunt cunoscute înaintea Lui în tot timpul, și El cunoaște cămările inimii înainte de a se întâmpla."
+        },
+        {
+          "verse": 9,
+          "text": "De aceea moștenirea lor e Hadesul și întunericul și nimicirea, și nu vor fi găsiți în ziua când cei drepți capătă milă."
+        },
+        {
+          "verse": 10,
+          "text": "Dar evlavioșii Domnului vor moșteni viața cu bucurie."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "Semnul lui Dumnezeu",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Când am fost în strâmtorare, am chemat numele Domnului; am nădăjduit în ajutorul Dumnezeului lui Iacob și am fost mântuit, căci Tu ești nădejdea și scăparea săracului, Dumnezeule."
+        },
+        {
+          "verse": 2,
+          "text": "Căci cine, Dumnezeule, e tare decât să mărturisească Ție în adevăr? Și în ce e un om puternic decât în a mărturisi numelui Tău?"
+        },
+        {
+          "verse": 3,
+          "text": "O melodie nouă cu o odă în veselia inimii, rodul buzelor cu instrumentul acordat al limbii, pârga buzelor dintr-o inimă evlavioasă și dreaptă —"
+        },
+        {
+          "verse": 4,
+          "text": "cel ce face acestea nu se va clătina niciodată de rău; flacăra focului și mânia împotriva celor nedrepți nu se vor atinge de el,"
+        },
+        {
+          "verse": 5,
+          "text": "când iese de la fața Domnului împotriva păcătoșilor, să nimicească toată avuția păcătoșilor;"
+        },
+        {
+          "verse": 6,
+          "text": "căci semnul lui Dumnezeu e asupra celor drepți spre mântuire."
+        },
+        {
+          "verse": 7,
+          "text": "Foametea și sabia și moartea vor fi departe de cei drepți; căci vor fugi de evlavioși ca cei urmăriți de război,"
+        },
+        {
+          "verse": 8,
+          "text": "dar vor urmări pe păcătoși și îi vor ajunge, și cei ce fac fărădelege nu vor scăpa de judecata Domnului;"
+        },
+        {
+          "verse": 9,
+          "text": "vor fi ajunși de cei încercați în război, căci semnul nimicirii e pe fruntea lor."
+        },
+        {
+          "verse": 10,
+          "text": "Și moștenirea păcătoșilor e nimicirea și întunericul, și faptele lor de fărădelege îi vor urmări până în Hades jos."
+        },
+        {
+          "verse": 11,
+          "text": "Moștenirea lor nu se va găsi pentru copiii lor, căci păcatele vor pustii casele păcătoșilor."
+        },
+        {
+          "verse": 12,
+          "text": "Și păcătoșii vor peri pe veci în ziua judecății Domnului, când Dumnezeu cercetează pământul cu judecata Sa."
+        },
+        {
+          "verse": 13,
+          "text": "Dar cei ce se tem de Domnul vor găsi milă pe el, și vor trăi prin mila Dumnezeului lor, dar păcătoșii vor peri pe veci și încă."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "title": "Ajutor pentru evlavios",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Când sufletul meu a ațipit, departe de Domnul, am alunecat puțină vreme, în letargia celor ce dorm departe de Dumnezeu."
+        },
+        {
+          "verse": 2,
+          "text": "Căci puțină vreme sufletul meu a fost vărsat spre moarte, aproape de porțile Hadesului cu păcătosul,"
+        },
+        {
+          "verse": 3,
+          "text": "când sufletul meu s-a despărțit de Domnul, Dumnezeul lui Israel, afară numai că Domnul m-a ajutat cu mila Sa pe veci."
+        },
+        {
+          "verse": 4,
+          "text": "M-a înțepat, ca un ghiont pentru un cal, ca să mă deștept către El; Mântuitorul și Ocrotitorul meu în tot timpul m-a mântuit."
+        },
+        {
+          "verse": 5,
+          "text": "Voi mărturisi Ție, Dumnezeule, căci m-ai ajutat spre mântuire, și nu m-ai numărat cu păcătoșii spre nimicire."
+        },
+        {
+          "verse": 6,
+          "text": "Nu-Ți depărta mila de la mine, Dumnezeule, nici aducerea-aminte a Ta din inima mea până la moarte."
+        },
+        {
+          "verse": 7,
+          "text": "Stăpânește-mă, Dumnezeule, de păcatul cel rău și de orice femeie rea care face pe cei nebuni să se poticnească."
+        },
+        {
+          "verse": 8,
+          "text": "Și frumusețea unei femei care calcă legea să nu mă înșele, nici a ceva ce e supus păcatului zadarnic."
+        },
+        {
+          "verse": 9,
+          "text": "Îndreaptă lucrările mâinilor mele în locul Tău, și păzește pașii mei în aducerea-aminte a Ta."
+        },
+        {
+          "verse": 10,
+          "text": "Ocrotește limba mea și buzele mele cu cuvinte de adevăr; mânia și urgia fără judecată depărtează-le de la mine."
+        },
+        {
+          "verse": 11,
+          "text": "Cârtirea și slăbiciunea inimii în necaz ține-le departe de mine, când, dacă păcătuiesc, mă pedepsești să mă întorci."
+        },
+        {
+          "verse": 12,
+          "text": "Sprijină-mi sufletul cu bunăvoință și veselie; când îmi întărești sufletul, ce e dat îmi va fi de ajuns."
+        },
+        {
+          "verse": 13,
+          "text": "Căci dacă nu dai putere, cine va răbda pedeapsa în sărăcie?"
+        },
+        {
+          "verse": 14,
+          "text": "Când un suflet e mustrat în mâna stricăciunii lui, încercarea Ta e în carnea lui și în necazul sărăciei."
+        },
+        {
+          "verse": 15,
+          "text": "Dacă cel drept rabdă în toate acestea, va primi milă de la Domnul."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "title": "Regele, fiul lui David",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Doamne, Tu ești regele nostru pe veci de veci, căci în Tine, Dumnezeule, se va lăuda sufletul nostru."
+        },
+        {
+          "verse": 2,
+          "text": "Și cât de lungă e vremea vieții unui om pe pământ? După vremea lui și nădejdea lui asupra lui."
+        },
+        {
+          "verse": 3,
+          "text": "Dar noi vom nădăjdui în Dumnezeu, Mântuitorul nostru; căci puterea Dumnezeului nostru e pe veci cu milă, și împărăția Dumnezeului nostru e pe veci asupra neamurilor în judecată."
+        },
+        {
+          "verse": 4,
+          "text": "Tu, Doamne, l-ai ales pe David rege asupra lui Israel, și i-ai jurat cu privire la urmașii lui pe veci, că palatul lui nu va lipsi niciodată înaintea Ta."
+        },
+        {
+          "verse": 5,
+          "text": "Și, din pricina păcatelor noastre, s-au sculat păcătoși împotriva noastră; ne-au năvălit și ne-au izgonit, cărora nu le-ai făgăduit; au luat stăpânire cu sila, și n-au slăvit numele Tău de cinste."
+        },
+        {
+          "verse": 6,
+          "text": "Au ridicat în slavă un palat corespunzător înălțimii lor; au pustiit scaunul lui David în mândrie ducând la schimbare."
+        },
+        {
+          "verse": 7,
+          "text": "Dar Tu, Dumnezeule, îi vei răsturna și le vei înlătura urmașii de pe pământ, când se va scula împotriva lor un om străin de neamul nostru."
+        },
+        {
+          "verse": 8,
+          "text": "După păcatele lor le vei răsplăti, Dumnezeule, ca să li se întâmple după lucrările lor."
+        },
+        {
+          "verse": 9,
+          "text": "Dumnezeu nu le-a arătat milă; a căutat urmașii lor și n-a lăsat pe nici unul din ei slobod."
+        },
+        {
+          "verse": 10,
+          "text": "Credincios este Domnul în toate judecățile Sale, pe care le face pe pământ."
+        },
+        {
+          "verse": 11,
+          "text": "Cel fărădelege a pustiit ținutul nostru încât nimeni nu l-a locuit; au nimicit tânăr și bătrân și copiii lor împreună."
+        },
+        {
+          "verse": 12,
+          "text": "În mânia frumuseții lui i-a izgonit spre apus, și pe stăpânitorii ținutului spre batjocură, și nu i-a cruțat."
+        },
+        {
+          "verse": 13,
+          "text": "Fiind un străin, vrăjmașul a lucrat cu mândrie, și inima lui s-a înstrăinat de Dumnezeul nostru."
+        },
+        {
+          "verse": 14,
+          "text": "Și toate câte a făcut în Ierusalim au fost întocmai cum fac neamurile în cetățile lor tari."
+        },
+        {
+          "verse": 15,
+          "text": "Și fiii legământului i-au întrecut în mijlocul neamurilor amestecate; nu era printre ei cine să lucreze milă și adevăr în Ierusalim."
+        },
+        {
+          "verse": 16,
+          "text": "Cei ce iubeau adunările evlavioșilor au fugit de ei, cum se risipesc vrăbiile din cuibul lor."
+        },
+        {
+          "verse": 17,
+          "text": "Au rătăcit prin pustietăți ca sufletele lor să fie mântuite de rău, și sufletul lor mântuit era scump în ochii celor ce pribegeau afară."
+        },
+        {
+          "verse": 18,
+          "text": "Au fost risipiți pe tot pământul de oameni fărădelege, căci cerul a oprit ploaia să cadă pe pământ."
+        },
+        {
+          "verse": 19,
+          "text": "Izvoarele veșnice din adâncuri au fost oprite de pe munții înalți, căci nu era printre ei cine să facă dreptate și judecată."
+        },
+        {
+          "verse": 20,
+          "text": "De la stăpânitorul lor până la cel mai de jos al poporului erau în tot păcatul; regele era în călcarea legii, și judecătorul în neascultare, și poporul în păcat."
+        },
+        {
+          "verse": 21,
+          "text": "Vezi, Doamne, și ridică-le regele lor, fiul lui David, la vremea pe care ai ales-o, Dumnezeule, să stăpânească asupra lui Israel, slujitorul Tău."
+        },
+        {
+          "verse": 22,
+          "text": "Și încinge-l cu putere să sfărâme în bucăți pe stăpânitorii nedrepți, să curățe Ierusalimul de neamurile care-l calcă în nimicire,"
+        },
+        {
+          "verse": 23,
+          "text": "în înțelepciunea dreptății, să izgonească pe păcătoși din moștenire, să zdrobească mândria păcătosului ca un vas de olar,"
+        },
+        {
+          "verse": 24,
+          "text": "să sfărâme toată avuția lor cu un toiag de fier, să nimicească neamurile fărădelege prin cuvântul gurii lui,"
+        },
+        {
+          "verse": 25,
+          "text": "ca, prin amenințarea lui, neamurile să fugă din prezența lui, și să mustre pe păcătoși cu gândul inimilor lor."
+        },
+        {
+          "verse": 26,
+          "text": "Și va aduna un popor sfânt pe care-l va conduce în dreptate, și va judeca semințiile poporului care a fost sfințit de Domnul, Dumnezeul lui."
+        },
+        {
+          "verse": 27,
+          "text": "Și nu va îngădui nedreptății să se sălășluiască mai mult în mijlocul lor, nici nu va locui cu ei vreun om care cunoaște răul; căci îi va cunoaște, că toți sunt fiii Dumnezeului lor."
+        },
+        {
+          "verse": 28,
+          "text": "Și îi va împărți după semințiile lor pe ținut, și nici un locuitor străin și străin nu va pribegi printre ei mai mult."
+        },
+        {
+          "verse": 29,
+          "text": "Va judeca popoare și neamuri în înțelepciunea dreptății sale. *Interludiu pe coarde*"
+        },
+        {
+          "verse": 30,
+          "text": "Și va avea popoarele neamurilor să-i fie supuse sub jugul lui, și va slăvi pe Domnul în semnul a tot pământul, și va curăți Ierusalimul în sfințenie precum era la început,"
+        },
+        {
+          "verse": 31,
+          "text": "ca neamurile să vină de la capătul pământului să-i vadă slava, aducând ca daruri pe fiii ei epuizați, și să vadă slava Domnului cu care Dumnezeu a slăvit-o."
+        },
+        {
+          "verse": 32,
+          "text": "Și va fi un rege drept, învățat de Dumnezeu, asupra lor, și nu va fi nedreptate în zilele lui în mijlocul lor, căci toți vor fi sfinți, și regele lor unsul Domnului."
+        },
+        {
+          "verse": 33,
+          "text": "Căci nu-și va pune nădejdea în cal și călăreț și arc, nici nu-și va înmulți aur și argint pentru război, nici nu va aduna nădejdi dintr-o mulțime de popor pentru ziua războiului."
+        },
+        {
+          "verse": 34,
+          "text": "Domnul Însuși e regele lui, nădejdea celui tare prin nădejdea în Dumnezeu, și se va îndura de toate neamurile înaintea lui în frică."
+        },
+        {
+          "verse": 35,
+          "text": "Căci va lovi pământul cu cuvântul gurii lui pe veci; va binecuvânta poporul Domnului în înțelepciune cu bucurie."
+        },
+        {
+          "verse": 36,
+          "text": "Și el însuși va fi curat de păcat ca să stăpânească un popor mare, ca să mustre pe stăpânitori și să înlăture pe păcătoși prin puterea cuvântului său."
+        },
+        {
+          "verse": 37,
+          "text": "Și nu va slăbi în zilele lui, sprijinindu-se pe Dumnezeul lui; căci Dumnezeu l-a făcut tare în Duhul Sfânt,"
+        },
+        {
+          "verse": 38,
+          "text": "și binecuvântarea Domnului va fi cu el în putere, și nu va slăbi."
+        },
+        {
+          "verse": 39,
+          "text": "Nădejdea lui va fi în Domnul, și cine poate birui împotriva lui?"
+        },
+        {
+          "verse": 40,
+          "text": "Va fi tare în lucrările lui și puternic în frica de Dumnezeu, păstorind turma Domnului cu credincioșie și dreptate, și nu va lăsa pe nici unul dintre ei să slăbească în pășunea lor."
+        },
+        {
+          "verse": 41,
+          "text": "Și îi va conduce pe toți în echitate, și nu va fi mândrie printre ei, ca vreunul dintre ei să fie asuprit."
+        },
+        {
+          "verse": 42,
+          "text": "Aceasta e măreția regelui lui Israel, pe care a cunoscut-o Dumnezeu, să-l ridice asupra casei lui Israel să o pedepsească."
+        },
+        {
+          "verse": 43,
+          "text": "Cuvintele lui vor fi mai alese decât aurul de preț, cel mai fin. În adunări va judeca cu deosebire semințiile unui popor sfințit; cuvintele lui sunt ca cuvintele sfinților în mijlocul popoarelor sfințite."
+        },
+        {
+          "verse": 44,
+          "text": "Ferice de cei ce vor trăi în zilele acelea, să vadă lucrurile bune ale lui Israel pe care le va împlini Dumnezeu în adunarea semințiilor."
+        },
+        {
+          "verse": 45,
+          "text": "Să grăbească Dumnezeu mila Sa asupra lui Israel; să ne izbăvească de necurăția vrăjmașilor pângăriți."
+        },
+        {
+          "verse": 46,
+          "text": "Domnul Însuși este regele nostru pe veci."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "title": "Iarăși despre unsul Domnului",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Doamne, mila Ta e asupra lucrărilor mâinilor Tale pe veci; bunătatea Ta e asupra lui Israel cu un dar bogat."
+        },
+        {
+          "verse": 2,
+          "text": "Când ochii Tăi privesc asupra lor, atunci nici unul dintre ei nu va duce lipsă; urechile Tale ascultă cererea plină de nădejde a săracului."
+        },
+        {
+          "verse": 3,
+          "text": "Judecățile Tale sunt asupra tot pământului cu milă, și dragostea Ta e asupra seminței lui Avraam, fiii lui Israel."
+        },
+        {
+          "verse": 4,
+          "text": "Pedeapsa Ta e asupra noastră ca asupra unui întâi-născut, un fiu unic, să întoarcă sufletul ascultător de la prostia neștiutoare."
+        },
+        {
+          "verse": 5,
+          "text": "Să curățe Dumnezeu pe Israel pentru ziua milei cu binecuvântare, pentru ziua alegerii când va aduce pe unsul Său."
+        },
+        {
+          "verse": 6,
+          "text": "Ferice de cei ce vor trăi în zilele acelea, să vadă lucrurile bune ale Domnului, pe care le va face pentru neamul care vine."
+        },
+        {
+          "verse": 7,
+          "text": "Sub toiagul pedepsei unsului Domnului în frica Dumnezeului său, în înțelepciunea duhului și a dreptății și a puterii,"
+        },
+        {
+          "verse": 8,
+          "text": "să îndrepte un om în lucrări de dreptate în frica de Dumnezeu, să-i așeze pe toți înaintea Domnului —"
+        },
+        {
+          "verse": 9,
+          "text": "un neam bun în frica de Dumnezeu în zilele milei. *Interludiu pe coarde*"
+        },
+        {
+          "verse": 10,
+          "text": "Mare este Dumnezeul nostru, și slăvit, locuind în cele mai înalte, care a rânduit luminătorii în cursul lor pentru hotărârea anotimpurilor din zi în zi; Tu le-ai poruncit."
+        },
+        {
+          "verse": 11,
+          "text": "Calea lor în fiecare zi e în frica de Dumnezeu, de la ziua în care i-a zidit Dumnezeu și pe veci."
+        },
+        {
+          "verse": 12,
+          "text": "Și n-au rătăcit din ziua în care i-a zidit; din neamurile de demult nu s-au abătut de la cărările lor, decât când Dumnezeu le-a poruncit prin porunca robilor Săi."
+        }
+      ]
+    }
+  ]
+}

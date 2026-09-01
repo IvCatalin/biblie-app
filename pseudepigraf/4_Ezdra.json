@@ -1,0 +1,3470 @@
+{
+  "translation": "4 Ezdra (2 Ezdra) – adaptare după G. H. Box / R. H. Charles",
+  "source": "G. H. Box in R. H. Charles, APOT II, 1913; text latin 2 Esdras",
+  "source_status": "Public Domain",
+  "modernization": "Traducere și adaptare în română după Box",
+  "book": "4 Ezdra",
+  "bookSlug": "4-ezdra",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cartea lui Ezdra proorocul, fiul lui Sareia, fiul lui Azaria, fiul lui Helchia, fiul lui Sadoc, fiul lui Ahitob,"
+        },
+        {
+          "verse": 2,
+          "text": "fiul lui Amaria, fiul lui Azi, fiul lui Marimot, fiul lui Arna, fiul lui Ozia, fiul lui Borith, fiul lui Abisa, fiul lui Fineas, fiul lui Eleazar,"
+        },
+        {
+          "verse": 3,
+          "text": "fiul lui Aaron, din seminția lui Levi, care a fost rob în ținutul mezilor, în domnia lui Artaxerxe, regele perșilor."
+        },
+        {
+          "verse": 4,
+          "text": "Și a fost cuvântul Domnului către mine, zicând:"
+        },
+        {
+          "verse": 5,
+          "text": "Mergi, și vestește poporului Meu păcatele lor, și fiilor lor fărădelegile pe care le-au lucrat împotriva Mea, ca să le spună copiilor lor."
+        },
+        {
+          "verse": 6,
+          "text": "Căci păcatele părinților lor au sporit în ei; au uitat pe Mine, și au adus jertfe dumnezeilor străini."
+        },
+        {
+          "verse": 7,
+          "text": "Nu Eu i-am scos din țara Egiptului, din casa robiei? Și ei M-au întărâtat, și au disprețuit sfaturile Mele."
+        },
+        {
+          "verse": 8,
+          "text": "Smulge părul capului tău, și aruncă tot răul asupra lor, pentru că n-au ascultat de legea Mea."
+        },
+        {
+          "verse": 9,
+          "text": "Până când voi ierta pe ei, pe care am copleșit cu atâtea binefaceri?"
+        },
+        {
+          "verse": 10,
+          "text": "Multe împărății am răsturnat pentru ei. Pe faraon cu slujitorii lui și toată oastea lui i-am înecat."
+        },
+        {
+          "verse": 11,
+          "text": "Nu Eu am nimicit cetatea Tiroului pentru ei, și pe toți vrăjmașii lor?"
+        },
+        {
+          "verse": 12,
+          "text": "Vorbește deci tu, zicând:"
+        },
+        {
+          "verse": 13,
+          "text": "Așa zice Domnul: Cu adevărat v-am adus prin mare, și v-am făcut cărări întinse prin locuri neumblate."
+        },
+        {
+          "verse": 14,
+          "text": "V-am dat pe Moise povățuitor, și pe Aaron preot."
+        },
+        {
+          "verse": 15,
+          "text": "V-am dat lumină printr-un stâlp de foc, și mari minuni am făcut între voi. Voi însă M-ați uitat, zice Domnul."
+        },
+        {
+          "verse": 16,
+          "text": "Așa zice Domnul Atotțiitorul: Prepelițele v-am dat spre hrană; v-am dat tabere spre apărare."
+        },
+        {
+          "verse": 17,
+          "text": "Acolo ați cârtiți, și n-ați primit porunca Mea, ci M-ați lepădat."
+        },
+        {
+          "verse": 18,
+          "text": "Unde sunt binefacerile pe care vi le-am făcut? Când ați fost flămânzi și însetați în pustie, n-ați strigat către Mine,"
+        },
+        {
+          "verse": 19,
+          "text": "zicând: Pentru ce ne-ai adus în pustia aceasta, să ne omori? Mai bine ne era să slujim egiptenilor decât să murim în pustia aceasta."
+        },
+        {
+          "verse": 20,
+          "text": "Eu m-am mâhnit de gemetele voastre, și v-am dat mană spre hrană; ați mâncat pâinea îngerilor."
+        },
+        {
+          "verse": 21,
+          "text": "Când v-a fost sete, n-am dezlegat piatra, și au curs ape din belșug?"
+        },
+        {
+          "verse": 22,
+          "text": "Pentru păcatele voastre v-am ars cu pomii, și v-am dat orașe de locuit."
+        },
+        {
+          "verse": 23,
+          "text": "Am zis: Nu-i ucide, să nu piară neamul care a primit numele Meu."
+        },
+        {
+          "verse": 24,
+          "text": "Ce să-ți fac, Iacov? N-ai vrut să Mă asculți, Iuda. Mă voi întoarce la alte neamuri, și le voi da numele Meu, ca să păzească rânduielile Mele."
+        },
+        {
+          "verse": 25,
+          "text": "Pentru că M-ați părăsit, și Eu vă voi părăsi."
+        },
+        {
+          "verse": 26,
+          "text": "Când Îmi veți cere milă, nu Mă voi milostivi de voi."
+        },
+        {
+          "verse": 27,
+          "text": "M-ați părăsit, și v-ați luat după dumnezei străini."
+        },
+        {
+          "verse": 28,
+          "text": "Nu Eu v-am poruncit ca unui tată fiilor, ca o mamă fiicelor, ca o doică pruncilor ei,"
+        },
+        {
+          "verse": 29,
+          "text": "să fiți poporul Meu, și Eu să fiu Dumnezeul vostru, să-Mi fiți fii, și Eu să vă fiu Tată?"
+        },
+        {
+          "verse": 30,
+          "text": "V-am adunat cum adună găina puii sub aripile ei. Și acum, ce să vă fac? Vă voi arunca de la Mine."
+        },
+        {
+          "verse": 31,
+          "text": "Când Îmi veți aduce jertfe, îmi voi întoarce fața de la voi."
+        },
+        {
+          "verse": 32,
+          "text": "Căci v-am lepădat sărbătorile, și lunile cele noi, și tăierile-împrejur."
+        },
+        {
+          "verse": 33,
+          "text": "V-am trimis pe slujitorii Mei, proorocii; i-ați luat, și i-ați ucis, și le-ați sfâșiat trupurile. Sângele lor voi cere, zice Domnul."
+        },
+        {
+          "verse": 34,
+          "text": "Casa voastră e pustie. Vă voi arunca, cum aruncă vântul paiul."
+        },
+        {
+          "verse": 35,
+          "text": "Și copiii voștri nu vor face rod, pentru că au disprețuit porunca Mea, și au făcut rău înaintea Mea."
+        },
+        {
+          "verse": 36,
+          "text": "Vă voi da casele voastre unui popor care va veni, care, deși nu M-au auzit, vor crede; cărora nu le-am arătat semne, vor face cele ce am poruncit."
+        },
+        {
+          "verse": 37,
+          "text": "N-au văzut pe prooroci, și își vor aduce aminte de fărădelegile lor."
+        },
+        {
+          "verse": 38,
+          "text": "Mărturisesc harul poporului care va veni, ale cărui prunci se veselesc cu bucurie, deși nu M-au văzut cu ochii trupului, cred totuși în duh cele ce am zis."
+        },
+        {
+          "verse": 39,
+          "text": "Și acum, frate, vezi ce slava; vezi poporul care vine de la răsărit."
+        },
+        {
+          "verse": 40,
+          "text": "Cărora le voi da, ca povățuitori, pe Avraam, Isaac și Iacov, și pe Osea, Amos, Miheia, Ioil, Avdie, Iona,"
+        },
+        {
+          "verse": 41,
+          "text": "Naum, Avacum, Sofonia, Agheu, Zaharia și Maleahi, care se cheamă și îngerul Domnului."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Așa zice Domnul: Am scos poporul acesta din robie, și le-am dat porunci prin slujitorii Mei, proorocii, pe care n-au vrut să le asculte, ci au zădărnicit sfaturile Mele."
+        },
+        {
+          "verse": 2,
+          "text": "Maica care i-a născut le zice: Mergeți, fii, căci eu sunt văduvă și părăsită."
+        },
+        {
+          "verse": 3,
+          "text": "V-am crescut cu bucurie, și v-am slobozit cu plâns și jale, pentru că ați păcătuit înaintea Domnului Dumnezeului vostru, și ați făcut rău înaintea Lui."
+        },
+        {
+          "verse": 4,
+          "text": "Și acum, ce să vă fac? Eu sunt văduvă și părăsită. Mergeți, fii, și cereți milă de la Domnul."
+        },
+        {
+          "verse": 5,
+          "text": "Eu te chem, tată, martor asupra mamei fiilor, care n-au vrut să țină legământul Meu,"
+        },
+        {
+          "verse": 6,
+          "text": "să le dai tulburare și pe mama care i-a născut spre jaf. Să nu se mai facă neamul lor."
+        },
+        {
+          "verse": 7,
+          "text": "Să fie risipiți între neamuri; să fie șters numele lor, pentru că au disprețuit legământul Meu."
+        },
+        {
+          "verse": 8,
+          "text": "Vai ție, Asur, care ascunzi pe cei nedrepți la tine. Omule rău, adu-ți aminte ce am făcut Sodomei și Gomorei,"
+        },
+        {
+          "verse": 9,
+          "text": "al căror pământ zace în cocoloși de smoală și grămezi de cenușă. Așa voi face celor ce nu M-au ascultat, zice Domnul Atotțiitorul."
+        },
+        {
+          "verse": 10,
+          "text": "Așa zice Domnul către Ezdra: Spune poporului Meu că le voi da împărăția Ierusalimului, pe care aveam să o dau lui Israel."
+        },
+        {
+          "verse": 11,
+          "text": "Și le voi lua slava, și le voi da lor corturile eterne, pe care le pregătisem pentru aceia."
+        },
+        {
+          "verse": 12,
+          "text": "Lemnul vieții va fi lor mireasmă de ungere; nu vor munci, nici nu vor obosi."
+        },
+        {
+          "verse": 13,
+          "text": "Cereți, și veți primi; rugați-vă ca zilele voastre să fie puține, ca să vi se grăbească. Împărăția e gata pentru voi. Privegheați."
+        },
+        {
+          "verse": 14,
+          "text": "Mărturisește, cerule și pământule; căci am desfăcut răul, și am zidit binele. Căci Eu trăiesc, zice Domnul."
+        },
+        {
+          "verse": 15,
+          "text": "Mamă, îmbrățișează-ți fiii; crește-i cu bucurie. Ca porumbelul, întărește picioarele lor. Pe tine te-am ales, zice Domnul."
+        },
+        {
+          "verse": 16,
+          "text": "Și pe morții cei ce i-am luat îi voi scula din locurile lor, și îi voi scoate din morminte, pentru că am cunoscut numele Meu în ei."
+        },
+        {
+          "verse": 17,
+          "text": "Nu te teme, mamă a fiilor, căci te-am ales, zice Domnul."
+        },
+        {
+          "verse": 18,
+          "text": "Îți voi trimite pe slujitorii Mei Isaia și Ieremia, după sfatul cărora ți-am sfințit și pregătit douăsprezece pomi, încărcați de felurite roade,"
+        },
+        {
+          "verse": 19,
+          "text": "și tot atâtea izvoare curgând lapte și miere, și șapte munți uriași, având trandafiri și crini, cu care te voi umple de bucurie pe fiii tăi."
+        },
+        {
+          "verse": 20,
+          "text": "Fă dreptate văduvei; judecă pe orfan; dă celui lipsit; apără pe cel lipsit de adăpost; îmbracă pe cel gol;"
+        },
+        {
+          "verse": 21,
+          "text": "îngrijește pe cel zdrobit și slăbit; nu-ți râde de olog; apără pe schilod; primește pe orb la slava fiilor tăi."
+        },
+        {
+          "verse": 22,
+          "text": "Păzește pe cel bătrân și tânăr în sânul tău."
+        },
+        {
+          "verse": 23,
+          "text": "Unde găsești morți, însemnează-i și înmormântează-i, și îți voi da întâiul loc la învierea Mea."
+        },
+        {
+          "verse": 24,
+          "text": "Odihnește-te, și odihnește-te, poporul Meu, căci odihna ta va veni."
+        },
+        {
+          "verse": 25,
+          "text": "Doică bună, hrănește-ți fiii; întărește picioarele lor, ca a celor slobozi."
+        },
+        {
+          "verse": 26,
+          "text": "Nici unul dintre slujitorii pe care ți i-am dat nu va pieri, căci îi voi cere din numărul tău."
+        },
+        {
+          "verse": 27,
+          "text": "Nu te neliniști. Când va veni ziua strâmtorării și a necazului, alții vor plânge și se vor mâhni, iar tu vei fi veselă și îndestulată."
+        },
+        {
+          "verse": 28,
+          "text": "Neamurile te vor pizmui, și nu vor putea face nimic împotriva ta, zice Domnul."
+        },
+        {
+          "verse": 29,
+          "text": "Mâinile Mele te vor acoperi, ca fiii tăi să nu vadă iadul."
+        },
+        {
+          "verse": 30,
+          "text": "Veselește-te, mamă, cu fiii tăi, căci eu te voi izbăvi, zice Domnul."
+        },
+        {
+          "verse": 31,
+          "text": "Adu-ți aminte de fiii tăi care dorm; căci îi voi scoate din laturile pământului, și voi face milă cu ei, pentru că Eu sunt milostiv, zice Domnul Atotțiitorul."
+        },
+        {
+          "verse": 32,
+          "text": "Îmbrățișează-ți copiii până vin, și vestește-le milostenia Mea, căci izvorul Meu prisosește, și harul Meu nu va lipsi."
+        },
+        {
+          "verse": 33,
+          "text": "Eu, Ezdra, am primit o poruncă de la Domnul pe muntele Horeb, să merg la Israel. Când am venit la ei, m-au lepădat, și au disprețuit porunca Domnului."
+        },
+        {
+          "verse": 34,
+          "text": "De aceea vă zic vouă, neamuri, care auziți și înțelegeți: Așteptați pe Păstorul vostru; El vă va da odihnă veșnică, căci e aproape Cel ce va veni la capătul veacului."
+        },
+        {
+          "verse": 35,
+          "text": "Fiți gata pentru răsplata împărăției, căci lumina cea necontenită va străluci asupra voastră în veacul cel veșnic."
+        },
+        {
+          "verse": 36,
+          "text": "Fugiți de umbra veacului acestuia; primiți desfătarea slavei voastre. Mărturisesc deschis Mântuitorului meu."
+        },
+        {
+          "verse": 37,
+          "text": "Primiți darul pe care vi-l dă Domnul; slăviți-L, mulțumindu-I, care v-a chemat la împărățiile cerești."
+        },
+        {
+          "verse": 38,
+          "text": "Sculați-vă, și stați, și vedeți numărul celor pecetluiți la ospățul Domnului."
+        },
+        {
+          "verse": 39,
+          "text": "Cei ce s-au mutat de la umbra veacului au primit veșminte slăvite de la Domnul."
+        },
+        {
+          "verse": 40,
+          "text": "Primește, Sion, numărul tău, și închide-ți pe cei îmbrăcați în alb, care au împlinit legea Domnului."
+        },
+        {
+          "verse": 41,
+          "text": "Numărul fiilor tăi, pe care i-ai dorit, e plin. Roagă puterea Domnului, ca să fie sfințit poporul tău, care a fost chemat de la început."
+        },
+        {
+          "verse": 42,
+          "text": "Eu, Ezdra, am văzut pe muntele Sionului o mulțime mare, pe care n-am putut-o număra, și toți slăveau pe Domnul cu cântări."
+        },
+        {
+          "verse": 43,
+          "text": "Și în mijlocul lor era un tânăr de statură înaltă, mai înalt decât toți, și punea cunună pe capul fiecăruia din ei, și se înălța mai mult. M-am minunat foarte."
+        },
+        {
+          "verse": 44,
+          "text": "Am întrebat pe înger: Cine sunt aceștia, doamne?"
+        },
+        {
+          "verse": 45,
+          "text": "El a răspuns și a zis: Aceștia sunt cei ce și-au dezbrăcat veșmintele muritoare, și au îmbrăcat cele nemuritoare, și au mărturisit numele lui Dumnezeu. Acum sunt încununați, și primesc palme."
+        },
+        {
+          "verse": 46,
+          "text": "Am zis îngerului: Cine este tânărul acela care le pune cununi și le dă palme în mâini?"
+        },
+        {
+          "verse": 47,
+          "text": "El a răspuns: Acesta este Fiul lui Dumnezeu, pe care L-au mărturisit în veac. Am început să-L slăvesc pe cei ce au stat tare pentru numele Domnului."
+        },
+        {
+          "verse": 48,
+          "text": "Atunci îngerul mi-a zis: Du-te, și vestește poporului Meu câte minuni ale Domnului Dumnezeu ai văzut, și câte le-ai auzit."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "În al treizecilea an după dărâmarea cetății, eram în Babilon, și zăceam tulburat pe patul meu, și cugetele mi se suiau la inima mea,"
+        },
+        {
+          "verse": 2,
+          "text": "pentru că am văzut pustiirea Sionului și belșugul celor ce locuiau în Babilon."
+        },
+        {
+          "verse": 3,
+          "text": "Și duhul meu s-a tulburat foarte, și am început să vorbesc cu Cel Preaînalt cuvinte de groază, și am zis:"
+        },
+        {
+          "verse": 4,
+          "text": "O, Stăpâne Doamne, Tu ai zis de la început, când ai zidit pământul, și aceasta singur, și ai poruncit pulberii,"
+        },
+        {
+          "verse": 5,
+          "text": "și ți-a dat pe Adam un trup mort. Și totuși el a fost lucrarea mâinilor Tale, și i-ai suflat duh de viață, și a fost făcut viu înaintea Ta."
+        },
+        {
+          "verse": 6,
+          "text": "Și l-ai dus în rai, pe care-l sădise dreapta Ta înainte de a fi pământul."
+        },
+        {
+          "verse": 7,
+          "text": "Și i-ai dat poruncă, și a călcat-o. Îndată ai rânduit moartea asupra lui și asupra urmașilor lui."
+        },
+        {
+          "verse": 8,
+          "text": "Din el s-au născut neamuri și seminții, popoare și obiceiuri fără număr."
+        },
+        {
+          "verse": 9,
+          "text": "Și tot neamul a umblat fiecare în voia sa, și a făcut înaintea Ta fărădelege, și a disprețuit poruncile Tale."
+        },
+        {
+          "verse": 10,
+          "text": "Și iarăși, la vremea lor, ai adus potopul asupra celor ce locuiau lumea, și i-ai nimicit."
+        },
+        {
+          "verse": 11,
+          "text": "Și s-a făcut la fel unuia dintre ei, lui Noe, cu ai săi; din el s-au născut toți drepții."
+        },
+        {
+          "verse": 12,
+          "text": "Și când au început să se înmulțească cei ce locuiau pământul, și s-au înmulțit fiii, și popoare, și multe seminții, au început iarăși să facă nelegiuire, mai mult decât cei de mai înainte."
+        },
+        {
+          "verse": 13,
+          "text": "Și când au făcut fărădelege înaintea Ta, Ți-ai ales pe unul dintre ei, al cărui nume era Avraam."
+        },
+        {
+          "verse": 14,
+          "text": "Și l-ai iubit, și i-ai arătat numai lui sfârșitul vremurilor, noaptea, între jumătățile victimelor."
+        },
+        {
+          "verse": 15,
+          "text": "Și ai făcut cu el un legământ veșnic, și i-ai zis că nu vei părăsi sămânța lui niciodată."
+        },
+        {
+          "verse": 16,
+          "text": "Și i-ai dat pe Isaac, și lui Isaac i-ai dat pe Iacov și Esau. Și pe Iacov Ți l-ai ales, iar pe Esau l-ai lepădat. Și Iacov a ajuns un neam mare."
+        },
+        {
+          "verse": 17,
+          "text": "Și când ai scos sămânța lui din Egipt, i-ai adus la muntele Sinai."
+        },
+        {
+          "verse": 18,
+          "text": "Ai plecat cerurile, ai așezat pământul, ai clătinat lumea, ai făcut să se cutremure adâncurile, și ai înfricoșat veacul."
+        },
+        {
+          "verse": 19,
+          "text": "Și slava Ta a trecut prin patru porți: de foc, de cutremur, de vânt și de ger, ca să dai lege seminței lui Iacov, și poruncă neamului lui Israel."
+        },
+        {
+          "verse": 20,
+          "text": "Și nu le-ai luat inima cea rea, ca legea Ta să aducă rod în ei."
+        },
+        {
+          "verse": 21,
+          "text": "Căci, purtând inima cea rea, cel dintâi Adam a călcat, și a fost biruit, și tot așa toți câți s-au născut din el."
+        },
+        {
+          "verse": 22,
+          "text": "Și s-a făcut slăbiciune necontenită, și legea în inima poporului, împreună cu rădăcina răului; și ce era bun s-a depărtat, și a rămas cel rău."
+        },
+        {
+          "verse": 23,
+          "text": "Și au trecut vremile, și s-au sfârșit anii, și Ți-ai sculat Ție un slujitor, pe nume David."
+        },
+        {
+          "verse": 24,
+          "text": "Și i-ai zis să-Ți zidească o cetate cu numele Tău, și să-Ți aducă în ea tămâieri și jertfe."
+        },
+        {
+          "verse": 25,
+          "text": "Și aceasta s-a făcut mulți ani. Și cei ce locuiau cetatea au păcătuit,"
+        },
+        {
+          "verse": 26,
+          "text": "în toate făcând precum a făcut Adam și toți urmașii lui; căci au purtat și ei inima cea rea."
+        },
+        {
+          "verse": 27,
+          "text": "Și Ți-ai dat cetatea în mâinile vrăjmașilor Tăi."
+        },
+        {
+          "verse": 28,
+          "text": "Și am zis în inima mea: Oare locuitorii Babilonului fac mai bine, și pentru aceasta au stăpânit Sionul?"
+        },
+        {
+          "verse": 29,
+          "text": "Căci când am venit aici, am văzut nelegiuiri fără număr, și sufletul meu a văzut pe mulți păcătuind în acești treizeci de ani. Și inima mea s-a tulburat,"
+        },
+        {
+          "verse": 30,
+          "text": "pentru că am văzut cum rabzi pe cei ce păcătuiesc, și cruți pe cei nelegiuiți, și ai nimicit pe poporul Tău, și ai păzit pe vrăjmașii Tăi,"
+        },
+        {
+          "verse": 31,
+          "text": "și n-ai făcut cunoscut nimănui cum să fie părăsită calea aceasta. Oare Babilonul face mai bine decât Sionul?"
+        },
+        {
+          "verse": 32,
+          "text": "Sau alt neam Te-a cunoscut afară de Israel? Sau ce seminții au crezut legămintele Tale ca Iacov,"
+        },
+        {
+          "verse": 33,
+          "text": "al căror preț nu s-a arătat, și a căror osteneală n-a rodit? Căci am cutreierat printre neamuri, și i-am văzut prisosind, și neslujind poruncilor Tale."
+        },
+        {
+          "verse": 34,
+          "text": "Cântărește deci în cumpănă păcatele noastre și ale celor ce locuiesc lumea, și se va găsi încotro s-a aplecat talerul."
+        },
+        {
+          "verse": 35,
+          "text": "Sau când n-au păcătuit cei ce locuiesc pământul înaintea Ta? Sau ce neam a păzit astfel poruncile Tale?"
+        },
+        {
+          "verse": 36,
+          "text": "Oameni, pe nume, îi vei găsi păzind poruncile Tale; neamuri însă nu vei găsi."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și îngerul care fusese trimis la mine, al cărui nume era Uriel, mi-a răspuns,"
+        },
+        {
+          "verse": 2,
+          "text": "și a zis: Inima ta s-a tulburat prea tare în veacul acesta, și socotești să înțelegi calea Celui Preaînalt?"
+        },
+        {
+          "verse": 3,
+          "text": "Am zis: Da, stăpâne."
+        },
+        {
+          "verse": 4,
+          "text": "El a zis: Am fost trimis să-ți arăt trei semne, și să-ți pun înainte trei asemănări."
+        },
+        {
+          "verse": 5,
+          "text": "Dacă îmi vei spune una din acestea, îți voi arăta și ție calea pe care dorești să o vezi, și te voi învăța de ce inima cea rea."
+        },
+        {
+          "verse": 6,
+          "text": "Am zis: Vorbește, stăpâne."
+        },
+        {
+          "verse": 7,
+          "text": "El a zis: Du-te, cântărește-mi greutatea focului, sau măsoară-mi suflarea vântului, sau cheamă-mi ziua care a trecut."
+        },
+        {
+          "verse": 8,
+          "text": "Am zis: Cine dintre cei născuți poate să facă acestea, să mă întrebi acestea?"
+        },
+        {
+          "verse": 9,
+          "text": "El a zis: Dacă te-aș fi întrebat, zicând: Câte locuințe sunt în inima mării, sau câte izvoare la începutul adâncului, sau câte cărări deasupra tăriei, sau care sunt ieșirile raiului,"
+        },
+        {
+          "verse": 10,
+          "text": "mi-ai fi zis: În adânc n-am coborât, nici în iad, nici la cer n-am suit vreodată."
+        },
+        {
+          "verse": 11,
+          "text": "Iar acum nu ți-am cerut decât despre foc, vânt și ziua care a trecut, fără de care nu poți, și nu mi-ai răspuns despre acestea."
+        },
+        {
+          "verse": 12,
+          "text": "Ai zis: Nu pot cunoaște. Ce-ar fi dacă ți-aș fi cerut despre căile tunetului, sau despre ieșirile mării, sau despre căile raiului?"
+        },
+        {
+          "verse": 13,
+          "text": "Ți-ar fi fost și mai greu. Cum deci ar putea vasul tău să cuprindă calea Celui Preaînalt? Căci, stricăcios fiind, socotești să înțelegi calea Celui nestricăcios?"
+        },
+        {
+          "verse": 14,
+          "text": "Când am auzit acestea, am căzut pe fața mea și am zis: Mai bine nu ne-am fi născut, decât să trăim în nelegiuiri și să pătimim, fără să știm pentru ce."
+        },
+        {
+          "verse": 15,
+          "text": "El a răspuns: Trei semne ți-am pus. Dacă nu-mi poți răspunde despre una, nu-ți pot arăta cele ce dorești."
+        },
+        {
+          "verse": 16,
+          "text": "Am zis: Pentru ce, stăpâne? Pentru ce mi s-a dat minte să cuget?"
+        },
+        {
+          "verse": 17,
+          "text": "Căci n-am vrut să întreb despre căile de sus, ci despre cele ce ni se întâmplă zilnic: pentru ce e dat Israel neamurilor spre ocară? Pentru ce poporul pe care l-ai iubit e dat neamurilor neevlavioase? Pentru ce legea părinților noștri e nimicită, și rânduielile scrise nu mai sunt?"
+        },
+        {
+          "verse": 18,
+          "text": "Am trecut din lumea aceasta ca lăcustele, viața noastră e abur, și nu suntem vrednici să dobândim milă."
+        },
+        {
+          "verse": 19,
+          "text": "Ce va face deci cu numele Său, care e chemat asupra noastră? Despre acestea te-am întrebat."
+        },
+        {
+          "verse": 20,
+          "text": "El a zis: Ești vrednic să cunoști una din asemănările Mele, și ți-o voi arăta."
+        },
+        {
+          "verse": 21,
+          "text": "Căci precum pământul dă roadele sale, tot așa Cel Preaînalt a rânduit veacurile."
+        },
+        {
+          "verse": 22,
+          "text": "Nu pot pădurea să dea loc mării, ca să fie semănată, nici marea să se reverse ca să acopere pădurea."
+        },
+        {
+          "verse": 23,
+          "text": "Tot așa cei ce sunt pe pământ pot înțelege numai cele de pe pământ, și cei ce sunt deasupra cerurilor pot înțelege cele de deasupra înălțimilor."
+        },
+        {
+          "verse": 24,
+          "text": "Am zis: Te rog, stăpâne, pentru ce mi s-a dat putere de înțelegere?"
+        },
+        {
+          "verse": 25,
+          "text": "Căci n-am vrut să întreb despre cele de sus, ci despre cele de jos: pentru ce e dat Israel spre ocară?"
+        },
+        {
+          "verse": 26,
+          "text": "El a zis: Dacă vei trăi, vei vedea; dacă vei ajunge, te vei minuna. Căci veacul se grăbește să treacă."
+        },
+        {
+          "verse": 27,
+          "text": "Nu poate purta cele ce sunt făgăduite drepților în vremile acestea, pentru că e plin de întristare și slăbiciune."
+        },
+        {
+          "verse": 28,
+          "text": "Răul despre care m-ai întrebat s-a semănat, dar secerișul lui încă n-a venit."
+        },
+        {
+          "verse": 29,
+          "text": "Până nu se va secera ce s-a semănat, și până nu se va duce locul unde s-a semănat răul, nu va veni ogorul unde s-a semănat binele."
+        },
+        {
+          "verse": 30,
+          "text": "Căci un grăunte de sămânță rea a fost semănat în inima lui Adam de la început, și câtă roadă de nelegiuire a născut până acum, și va naște până când va veni aria."
+        },
+        {
+          "verse": 31,
+          "text": "Socotește în tine însuți: un grăunte de sămânță rea a fost semănat, și iată câtă roadă de nelegiuire a născut."
+        },
+        {
+          "verse": 32,
+          "text": "Când vor fi semănate spice nenumărate, ce seceriș vor da?"
+        },
+        {
+          "verse": 33,
+          "text": "Am zis: Până când, și când va fi aceasta? Pentru ce s-au scurtat anii noștri și zilele noastre?"
+        },
+        {
+          "verse": 34,
+          "text": "El a zis: Nu te grăbi mai tare decât Cel Preaînalt. Tu te grăbești pentru tine; Cel Preaînalt pentru mulți."
+        },
+        {
+          "verse": 35,
+          "text": "N-au întrebat despre acestea sufletele drepților în cămările lor, zicând: Până când rămânem aici? Când va veni rodul ariei răsplății noastre?"
+        },
+        {
+          "verse": 36,
+          "text": "Și Ieremia arhanghelul a răspuns, și a zis: Când se va împlini numărul celor asemenea vouă."
+        },
+        {
+          "verse": 37,
+          "text": "Căci El a cântărit veacul în cumpănă,"
+        },
+        {
+          "verse": 38,
+          "text": "și a măsurat vremile cu măsură, și a numărat vremile cu număr, și nu va clinti, nici nu va trezi, până nu se va împlini măsura."
+        },
+        {
+          "verse": 39,
+          "text": "Am zis: O, Stăpâne Doamne, dar noi toți suntem plini de nelegiuire."
+        },
+        {
+          "verse": 40,
+          "text": "Și poate că din pricina noastră nu se pot umple cămările drepților, pentru păcatele celor ce locuiesc pământul."
+        },
+        {
+          "verse": 41,
+          "text": "El a zis: Du-te, și întreabă o femeie însărcinată dacă, după ce s-au împlinit cele nouă luni, pântecele ei mai poate ține rodul înăuntru."
+        },
+        {
+          "verse": 42,
+          "text": "Am zis: Nu poate, stăpâne."
+        },
+        {
+          "verse": 43,
+          "text": "El a zis: Cămările sufletelor în iad sunt asemenea pântecelui."
+        },
+        {
+          "verse": 44,
+          "text": "Căci precum cea care naște se grăbește să scape de nevoia nașterii, tot așa se grăbesc și acestea să dea înapoi cele încredințate lor de la început."
+        },
+        {
+          "verse": 45,
+          "text": "Atunci îmi vei arăta cele ce dorești să vezi."
+        },
+        {
+          "verse": 46,
+          "text": "Am zis: Dacă am aflat har înaintea ta, arată-mi slujitorului tău dacă e mai mult ce va veni decât ce a trecut, sau dacă a trecut mai mult decât ce va veni."
+        },
+        {
+          "verse": 47,
+          "text": "Ce a trecut o pot ști, dar ce va veni nu știu."
+        },
+        {
+          "verse": 48,
+          "text": "El a zis: Stai la dreapta, și îți voi arăta tâlcuirea unei asemănări."
+        },
+        {
+          "verse": 49,
+          "text": "Și am stat, și am văzut: iată, un cuptor aprins trecea înaintea mea, și când a trecut flacăra, am văzut că a rămas fum."
+        },
+        {
+          "verse": 50,
+          "text": "După aceasta a trecut înaintea mea un nor plin de apă, și a vărsat o ploaie groasă; și când a trecut ploaia, au rămas stropi în nor."
+        },
+        {
+          "verse": 51,
+          "text": "Am zis: Socotește-ți, cuptorul e mai tare decât fumul, și ploaia decât stropii; tot așa a trecut măsura a ceea ce a trecut, dar au rămas stropi și fum."
+        },
+        {
+          "verse": 52,
+          "text": "Apoi m-a întrebat: Socotești că vei trăi până în zilele acelea? Sau cum vei înțelege în zilele acelea?"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Despre semne: iată, zilele vin, când vor fi cuprinși de groază cei ce locuiesc pământul,"
+        },
+        {
+          "verse": 2,
+          "text": "și se va ascunde calea adevărului, și țara va fi stearpă de credință."
+        },
+        {
+          "verse": 3,
+          "text": "Și nedreptatea se va înmulți mai mult decât ai văzut tu acum, sau decât ai auzit de demult."
+        },
+        {
+          "verse": 4,
+          "text": "Și țara pe care o vezi acum stăpânind va fi pustie și călcată, și vor vedea oamenii împărăția pustie."
+        },
+        {
+          "verse": 5,
+          "text": "Iar dacă Cel Preaînalt îți va da să trăiești, vei vedea după a treia trâmbiță, și soarele va străluci noaptea deodată, și luna de trei ori ziua."
+        },
+        {
+          "verse": 6,
+          "text": "Și va picura sânge din lemn, și piatra va da glasul ei, și popoarele se vor tulbura."
+        },
+        {
+          "verse": 7,
+          "text": "Și va stăpâni cel pe care nu-l așteaptă cei ce locuiesc pământul, și păsările își vor muta locul."
+        },
+        {
+          "verse": 8,
+          "text": "Și marea Sodomei va arunca pești, și va da un glas noaptea, pe care nu l-au cunoscut mulți, dar toți îl vor auzi."
+        },
+        {
+          "verse": 9,
+          "text": "Și se vor deschide haosuri în multe locuri, și focul va țâșni adesea, și fiarele sălbatice își vor schimba locurile, și femeile vor naște monștri."
+        },
+        {
+          "verse": 10,
+          "text": "Și vor curge ape sărate în ape dulci, și prietenii se vor lupta toți deodată."
+        },
+        {
+          "verse": 11,
+          "text": "Și atunci se va ascunde înțelepciunea, și înțelegerea se va retrage în cămara ei."
+        },
+        {
+          "verse": 12,
+          "text": "Va fi căutată de mulți, și nu va fi găsită. Nedreptatea și lipsa de evlavie se vor înmulți pe pământ."
+        },
+        {
+          "verse": 13,
+          "text": "O țară va întreba pe vecina ei: A trecut prin tine dreptatea, care face dreptate? Iar ea va zice: Nu."
+        },
+        {
+          "verse": 14,
+          "text": "În vremea aceea vor nădăjdui oamenii, și nu vor dobândi; se vor osteni, și nu vor izbuti."
+        },
+        {
+          "verse": 15,
+          "text": "Ți-am vestit aceste semne. Dacă te vei ruga iarăși, și vei plânge precum acum, și vei posti șapte zile, vei auzi lucruri mai mari decât acestea."
+        },
+        {
+          "verse": 16,
+          "text": "Am auzit, și m-am sculat, și am slăbit foarte, și sufletul meu a slăbit, încât am leșinat."
+        },
+        {
+          "verse": 17,
+          "text": "A venit la mine îngerul care venise la mine mai înainte, și m-a privit, și iată, zăceam ca un mort, și mi-a ținut mintea."
+        },
+        {
+          "verse": 18,
+          "text": "M-a prins de dreapta, și m-a întărit, și mi-a zis: Nu te teme. Adu-ți aminte de slujba ta, și gândește-te ce ți-am arătat."
+        },
+        {
+          "verse": 19,
+          "text": "Căci Cel Preaînalt ți-a trimis slujba aceasta. Peste trei zile te voi vorbi iarăși, și îți voi arăta lucruri grele, și minuni."
+        },
+        {
+          "verse": 20,
+          "text": "M-am trezit, și gura mea s-a deschis, și am început să vorbesc înaintea Celui Preaînalt."
+        },
+        {
+          "verse": 21,
+          "text": "Și am zis: Stăpâne Doamne, dintre toate pădurile pământului și din toți copacii lor Ți-ai ales Ție o viță."
+        },
+        {
+          "verse": 22,
+          "text": "Și dintre toate ținuturile lumii Ți-ai ales Ție o groapă."
+        },
+        {
+          "verse": 23,
+          "text": "Și dintre toate florile lumii Ți-ai ales Ție un crin."
+        },
+        {
+          "verse": 24,
+          "text": "Și dintre toate adâncurile mării Ți-ai umplut Ție un râu."
+        },
+        {
+          "verse": 25,
+          "text": "Și dintre toate cetățile zidite Ți-ai sfințit Ție Sionul."
+        },
+        {
+          "verse": 26,
+          "text": "Și dintre toate păsările care s-au zidit Ți-ai numit Ție un porumbel."
+        },
+        {
+          "verse": 27,
+          "text": "Și dintre toate vitele care s-au făcut Ți-ai ales Ție o oaie."
+        },
+        {
+          "verse": 28,
+          "text": "Și dintre toate mulțimile popoarelor Ți-ai dobândit Ție un popor."
+        },
+        {
+          "verse": 29,
+          "text": "Și legea pe care ai aprobat-o dintre toate, Ți-ai dăruit-o poporului pe care l-ai dorit."
+        },
+        {
+          "verse": 30,
+          "text": "Și acum, Doamne, pentru ce ai dat pe unul la mulți, și ai pregătit pe un rădăcină peste alții, și Ți-ai risipit pe unul-născutul Tău între mulți?"
+        },
+        {
+          "verse": 31,
+          "text": "Și cei ce s-au împotrivit făgăduințelor Tale au călcat pe cei ce Ți-au crezut făgăduințele."
+        },
+        {
+          "verse": 32,
+          "text": "Și dacă urăști cu adevărat pe poporul Tău, trebuie să fie pedepsit cu mâinile Tale."
+        },
+        {
+          "verse": 33,
+          "text": "Când am încetat să vorbesc aceste cuvinte, a fost trimis la mine îngerul care venise la mine în noaptea de mai înainte,"
+        },
+        {
+          "verse": 34,
+          "text": "și mi-a zis: Ascultă-mă, și te voi învăța, și ia aminte, și îți voi vorbi înainte."
+        },
+        {
+          "verse": 35,
+          "text": "Am zis: Vorbește, stăpâne."
+        },
+        {
+          "verse": 36,
+          "text": "El a zis: Ești foarte tulburat în minte pentru Israel. Îl iubești tu mai mult decât Cel ce l-a făcut?"
+        },
+        {
+          "verse": 37,
+          "text": "Am zis: Nu, stăpâne, ci am vorbit din durere. Căci înțelegerea mea mă chinuie în fiecare ceas, pe când năzuiesc să înțeleg calea Celui Preaînalt, și să cercetez partea judecății Lui."
+        },
+        {
+          "verse": 38,
+          "text": "El a zis: Nu poți. Am zis: Pentru ce, stăpâne? Pentru ce mi s-a născut atunci? Pentru ce n-a fost făcătoarea mea pântecele meu mormânt, ca să nu văd osteneala lui Iacov și slăbiciunea neamului lui Israel?"
+        },
+        {
+          "verse": 39,
+          "text": "El a zis: Numără-mi cele ce nu s-au împlinit încă, adună-mi stropii risipiți, fă-mi să înflorească trandafirii cei uscați,"
+        },
+        {
+          "verse": 40,
+          "text": "deschide-mi cămările închise, și scoate-mi vânturile închise în ele; arată-mi chipul unui glas, și atunci îți voi arăta osteneala pe care o ceri să o vezi."
+        },
+        {
+          "verse": 41,
+          "text": "Am zis: Stăpâne Doamne, cine poate cunoaște acestea, decât Cel ce nu locuiește cu oamenii?"
+        },
+        {
+          "verse": 42,
+          "text": "Iar eu sunt neînțelept; cum pot vorbi despre cele ce m-ai întrebat?"
+        },
+        {
+          "verse": 43,
+          "text": "El a zis: Precum nu poți face una din acestea care ți s-au zis, tot așa nu poți afla judecata Mea, sau capătul dragostei pe care am făgăduit-o poporului Meu."
+        },
+        {
+          "verse": 44,
+          "text": "Am zis: Totuși, stăpâne, iată, Tu ești aproape de cei de pe urmă, și ce au făcut cei de mai înainte? Sau ce vor face cei de pe urmă?"
+        },
+        {
+          "verse": 45,
+          "text": "El a zis: Jurământul Meu îl voi asemăna cu o cunună. Precum n-ai putea să-ți pui degetul cel mic înaintea celui mare, tot așa nu pot cei de pe urmă să înțeleagă cele de mai înainte, nici cele de mai înainte pe cele de pe urmă."
+        },
+        {
+          "verse": 46,
+          "text": "Am zis: N-ai fi putut să-i faci pe cei ce au fost, și pe cei ce sunt, și pe cei ce vor fi deodată, ca să-Ți arăți judecata mai degrabă?"
+        },
+        {
+          "verse": 47,
+          "text": "El a zis: Nu poate naște pântecele de zece ori, ca să nască zece deodată."
+        },
+        {
+          "verse": 48,
+          "text": "Am zis: De ce n-ai făcut atunci, Doamne, pe toți deodată, pe cei ce au fost, și pe cei ce sunt, și pe cei ce vor fi, ca să-Ți arăți judecata mai degrabă?"
+        },
+        {
+          "verse": 49,
+          "text": "El a zis: Întreabă pântecele femeii, și îți va zice: De ce nu naști zece deodată, ci numai din vreme în vreme?"
+        },
+        {
+          "verse": 50,
+          "text": "Am zis: De ce, stăpâne?"
+        },
+        {
+          "verse": 51,
+          "text": "El a zis: Precum pântecele naște din vreme în vreme, tot așa am făcut lumea pe care am zidit-o."
+        },
+        {
+          "verse": 52,
+          "text": "Am zis: Arată-mi slujitorului Tău dacă ești aproape de cei de pe urmă, sau de cei de mai înainte."
+        },
+        {
+          "verse": 53,
+          "text": "El a zis: Du-te, și întreabă o femeie care naște, și îți va zice."
+        },
+        {
+          "verse": 54,
+          "text": "Căci vei zice: De ce nu sunt cei pe care i-ai născut acum asemenea celor de mai înainte, ci mai slabi?"
+        },
+        {
+          "verse": 55,
+          "text": "Și ea însăși îți va zice: Cei născuți în tinerețe sunt de o putere, iar cei născuți la bătrânețe, când e slăbit pântecele, sunt mai slabi."
+        },
+        {
+          "verse": 56,
+          "text": "Socotește deci și tu că sunteți mai slabi decât cei de mai înainte, și cei de după voi decât voi, pentru că zidirea a îmbătrânit, și puterea tinereții a trecut."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și a zis: La începutul cercului pământului, înainte să fie așezate porțile lumii, și înainte să sufle vânturile,"
+        },
+        {
+          "verse": 2,
+          "text": "și înainte să se audă glasul tunetului, și înainte să strălucească fulgerul,"
+        },
+        {
+          "verse": 3,
+          "text": "și înainte să fie întărite temeliile raiului, și înainte să se arate frumusețea florilor,"
+        },
+        {
+          "verse": 4,
+          "text": "și înainte să fie întărite puterile mișcării, și înainte să fie adunate nenumăratele oști ale îngerilor,"
+        },
+        {
+          "verse": 5,
+          "text": "și înainte să fie înălțate înălțimile văzduhului, și înainte să fie numite numele veacurilor,"
+        },
+        {
+          "verse": 6,
+          "text": "și înainte să fie osândite uneltirile Sionului, și înainte să fie pecetluit anul de acum al rătăcirii,"
+        },
+        {
+          "verse": 7,
+          "text": "și înainte să fie întemeiate semnele de acum ale anilor, și înainte să fie adunate răsplățile vistieriilor credinței,"
+        },
+        {
+          "verse": 8,
+          "text": "atunci M-am gândit, și s-au făcut acestea prin Mine, și nu prin altul, precum și sfârșitul prin Mine, și nu prin altul."
+        },
+        {
+          "verse": 9,
+          "text": "Am zis: Care va fi despărțirea vremilor? Sau când va fi sfârșitul celei dintâi, și începutul celei de pe urmă?"
+        },
+        {
+          "verse": 10,
+          "text": "El a zis: De la Avraam până la Avraam, pentru că din el s-a născut Iacov și Esau; mâna lui Iacov ținea călcâiul lui Esau."
+        },
+        {
+          "verse": 11,
+          "text": "Capătul veacului acestuia e Esau; începutul celui ce vine e Iacov."
+        },
+        {
+          "verse": 12,
+          "text": "Începutul omului e mâna, și capătul omului e călcâiul."
+        },
+        {
+          "verse": 13,
+          "text": "Între călcâi și mână nu căuta altceva, Ezdra."
+        },
+        {
+          "verse": 14,
+          "text": "Am răspuns și am zis: O, Stăpâne Doamne, dacă am aflat har înaintea Ta,"
+        },
+        {
+          "verse": 15,
+          "text": "arată slujitorului Tău capătul semnelor Tale, din care o parte mi-ai arătat în noaptea de mai înainte."
+        },
+        {
+          "verse": 16,
+          "text": "El a zis: Scoală-te pe picioare, și vei auzi un glas plin de sunet."
+        },
+        {
+          "verse": 17,
+          "text": "Și va fi, dacă va fi locul pe care stai clătinat tare,"
+        },
+        {
+          "verse": 18,
+          "text": "când va vorbi, să nu te înfricoșezi; căci cuvântul e despre sfârșit, și temeliile pământului vor înțelege"
+        },
+        {
+          "verse": 19,
+          "text": "că vorbirea e despre ele. Vor cutremura și se vor clătina, pentru că știu că sfârșitul lor trebuie să se schimbe."
+        },
+        {
+          "verse": 20,
+          "text": "Când a vorbit, m-am sculat pe picioare, și am auzit un glas, și iată, glasul lui era ca sunetul apelor multor."
+        },
+        {
+          "verse": 21,
+          "text": "Și a zis: Iată, zilele vin, și va fi, când Mă voi apropia să cercetez pe cei ce locuiesc pământul,"
+        },
+        {
+          "verse": 22,
+          "text": "și când voi cerceta nedreptatea celor ce au făcut nedreptate, și când se va împlini umilirea Sionului,"
+        },
+        {
+          "verse": 23,
+          "text": "și când va fi pecetluit veacul care începe să treacă,"
+        },
+        {
+          "verse": 24,
+          "text": "atunci voi arăta aceste semne: cărțile se vor deschide înaintea feței tăriei, și toți vor vedea împreună."
+        },
+        {
+          "verse": 25,
+          "text": "Și copiii de un an vor vorbi cu glasurile lor, și femeile însărcinate vor naște prunci de trei și patru luni, și vor trăi și vor sălta."
+        },
+        {
+          "verse": 26,
+          "text": "Și ogoarele semănate deodată se vor arăta nensămânțate, și plinătățile vor fi găsite goale."
+        },
+        {
+          "verse": 27,
+          "text": "Și trâmbița va suna cu sunet, și când o vor auzi toți, deodată se vor înfricoșa."
+        },
+        {
+          "verse": 28,
+          "text": "Și va fi în vremea aceea, că prietenii vor lupta pe prieteni ca vrăjmași, și se va înfricoșa pământul cu cei ce locuiesc pe el."
+        },
+        {
+          "verse": 29,
+          "text": "Și izvoarele izvoarelor se vor opri, și în trei ceasuri nu vor curge."
+        },
+        {
+          "verse": 30,
+          "text": "Și va fi, oricine va rămâne din toate acestea pe care ți le-am vestit mai înainte, se va mântui, și va vedea mântuirea Mea, și sfârșitul lumii Mele."
+        },
+        {
+          "verse": 31,
+          "text": "Și vor vedea oamenii care au fost luați, care n-au gustat moartea din nașterea lor."
+        },
+        {
+          "verse": 32,
+          "text": "Și inima locuitorilor se va schimba, și se va preface în alt simț."
+        },
+        {
+          "verse": 33,
+          "text": "Căci răul va fi stins, și înșelăciunea va fi stinsă."
+        },
+        {
+          "verse": 34,
+          "text": "Credința va înflori, și stricăciunea va fi biruită, și se va arăta adevărul, care atâta vreme a fost fără rod."
+        },
+        {
+          "verse": 35,
+          "text": "Când a vorbit, m-am sculat pe picioare, și am auzit."
+        },
+        {
+          "verse": 36,
+          "text": "Și a zis: Dacă te vei ruga iarăși, și vei posti iarăși șapte zile, îți voi spune lucruri mai mari decât cele auzite în ziua de mai înainte."
+        },
+        {
+          "verse": 37,
+          "text": "Căci glasul tău a fost auzit înaintea Celui Preaînalt. Căci Cel Puternic a văzut dreptatea ta, și a văzut și curăția pe care ai păzit-o din tinerețe."
+        },
+        {
+          "verse": 38,
+          "text": "De aceea a trimis să-ți arate toate acestea. Și să-ți zică: Îndrăznește, și nu te teme."
+        },
+        {
+          "verse": 39,
+          "text": "Nu te grăbi să deșerți cugetele deșarte despre vremile de pe urmă, ca să nu te grăbești în vremile de mai înainte."
+        },
+        {
+          "verse": 40,
+          "text": "M-am trezit, și am postit șapte zile, plângând și tânguindu-mă, precum mi-a poruncit îngerul Uriel."
+        },
+        {
+          "verse": 41,
+          "text": "Și după șapte zile s-au suit iarăși cugetele inimii mele în mine,"
+        },
+        {
+          "verse": 42,
+          "text": "și am început să vorbesc înaintea Celui Preaînalt."
+        },
+        {
+          "verse": 43,
+          "text": "Căci duhul meu era aprins foarte, și sufletul meu era în strâmtorare."
+        },
+        {
+          "verse": 44,
+          "text": "Și am zis: O, Stăpâne Doamne, Tu ai vorbit de la începutul zidirii, în cea dintâi zi, zicând: Să se facă cerul și pământul. Și Cuvântul Tău a lucrat lucrarea."
+        },
+        {
+          "verse": 45,
+          "text": "Atunci era duhul plutind, și întunericul se revărsa, și tăcerea, și glasul omului nu era încă."
+        },
+        {
+          "verse": 46,
+          "text": "Atunci ai poruncit să se aducă o rază de lumină din vistieriile Tale, ca să se arate lucrările Tale."
+        },
+        {
+          "verse": 47,
+          "text": "Și a doua zi ai zidit duhul tăriei, și i-ai poruncit să despărțească, și să facă o despărțire între ape, ca o parte să se suie, și o parte să rămână jos."
+        },
+        {
+          "verse": 48,
+          "text": "Și a treia zi ai poruncit apelor să se adune în a șaptea parte a pământului; șase părți ai uscat, și le-ai păstrat, ca din ele să slujească înaintea Ta cele ce sunt semănate și arate."
+        },
+        {
+          "verse": 49,
+          "text": "Cuvântul Tău a ieșit, și lucrarea s-a arătat îndată."
+        },
+        {
+          "verse": 50,
+          "text": "Căci deodată a rodit rod mult, de tot felul de gust, și flori de culoare de neasemănat, și mirosuri de miros de nespus. Acestea s-au făcut a treia zi."
+        },
+        {
+          "verse": 51,
+          "text": "Iar a patra zi ai poruncit să se facă strălucirea soarelui, lumina lunii, rânduiala stelelor."
+        },
+        {
+          "verse": 52,
+          "text": "Și le-ai poruncit să slujească omului, care avea să fie zidit."
+        },
+        {
+          "verse": 53,
+          "text": "Iar a cincea zi ai zis celor de deasupra a șaptea parte, unde erau apele adunate, să aducă viețuitoare, păsări și pești."
+        },
+        {
+          "verse": 54,
+          "text": "Și s-a făcut așa: apa cea mută și fără viață, la porunca lui Dumnezeu, a adus viețuitoare, ca neamurile să vestească minunile Tale."
+        },
+        {
+          "verse": 55,
+          "text": "Atunci ai păstrat două viețuitoare: una ai numit-o Behemot, și pe cealaltă Leviatan."
+        },
+        {
+          "verse": 56,
+          "text": "Și le-ai despărțit una de alta, pentru că a șaptea parte, unde era adunată apa, nu le putea purta."
+        },
+        {
+          "verse": 57,
+          "text": "Și ai dat lui Behemot o parte, care s-a uscat a treia zi, ca să locuiască în ea, unde sunt o mie de munți."
+        },
+        {
+          "verse": 58,
+          "text": "Iar lui Leviatan i-ai dat a șaptea parte, cea umedă. Și le-ai păzit, ca să fie mâncate de cine vei voi, și când vei voi."
+        },
+        {
+          "verse": 59,
+          "text": "Iar a șasea zi ai poruncit pământului să aducă înaintea Ta vite, fiare și târâtoare."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Când am isprăvit de vorbit aceste cuvinte, a fost trimis la mine îngerul care fusese trimis la mine în nopțile de mai înainte,"
+        },
+        {
+          "verse": 2,
+          "text": "și mi-a zis: Scoală-te, Ezdra, și auzi cuvintele pe care am venit să ți le spun."
+        },
+        {
+          "verse": 3,
+          "text": "Am zis: Vorbește, stăpâne."
+        },
+        {
+          "verse": 4,
+          "text": "El a zis: Marea e așezată într-o întindere largă, ca să fie adâncă și fără măsură."
+        },
+        {
+          "verse": 5,
+          "text": "Dar intrarea e așezată într-un loc strâmt, ca să fie ca râurile."
+        },
+        {
+          "verse": 6,
+          "text": "Dacă cineva, vrând să ajungă la mare, să o stăpânească sau să o vadă, dacă nu trece prin strâmtoare, cum va putea ajunge la lățimea ei?"
+        },
+        {
+          "verse": 7,
+          "text": "Tot așa și o cetate zidită, așezată într-un ținut de câmpie, e plină de toate bunătățile."
+        },
+        {
+          "verse": 8,
+          "text": "Intrarea ei e strâmtă, și e așezată pe o povârniș, având foc la dreapta și apă adâncă la stânga."
+        },
+        {
+          "verse": 9,
+          "text": "O singură cărare e între ele, adică între foc și apă, încât numai urma unui om poate încăpea pe cărare."
+        },
+        {
+          "verse": 10,
+          "text": "Dacă cetatea e dată unui om de moștenire, dacă moștenitorul nu trece primejdia pusă înainte, cum va primi moștenirea?"
+        },
+        {
+          "verse": 11,
+          "text": "Am zis: Așa e, stăpâne."
+        },
+        {
+          "verse": 12,
+          "text": "El a zis: Așa e și partea lui Israel."
+        },
+        {
+          "verse": 13,
+          "text": "Pentru ei am făcut lumea. Când a călcat Adam poruncile, s-a judecat ce s-a făcut."
+        },
+        {
+          "verse": 14,
+          "text": "Atunci au fost făcute intrările veacului acestuia strâmte, pline de întristare și osteneală; sunt puține și rele, pline de primejdii, și de toată trudă grea."
+        },
+        {
+          "verse": 15,
+          "text": "Iar intrările veacului mai mare sunt late și sigure, și aduc rod de nemurire."
+        },
+        {
+          "verse": 16,
+          "text": "Dacă deci cei ce trăiesc nu vor intra în acestea strâmte și deșarte, nu vor putea primi cele ce sunt puse deoparte."
+        },
+        {
+          "verse": 17,
+          "text": "Acum deci, pentru ce te tulburi, de vreme ce ești stricăcios? Și de ce te agiți, de vreme ce ești muritor?"
+        },
+        {
+          "verse": 18,
+          "text": "Pentru ce n-ai luat în inima ta ce e de venit, ci cele ce trec?"
+        },
+        {
+          "verse": 19,
+          "text": "Am răspuns și am zis: Stăpâne Doamne, iată, Tu ai rânduit în legea Ta că drepții vor moșteni acestea, iar păcătoșii vor peri."
+        },
+        {
+          "verse": 20,
+          "text": "Drepții vor suferi strâmtorile, nădăjduind la cele late; iar cei ce au lucrat nelegiuiri n-au suferit strâmtorile, și nu vor vedea cele late."
+        },
+        {
+          "verse": 21,
+          "text": "El a zis: Nu e nimeni judecător mai presus de Dumnezeu, nici cineva care să înțeleagă mai presus de Cel Preaînalt."
+        },
+        {
+          "verse": 22,
+          "text": "Căci mulți au fost zidiți, dar puțini se vor mântui."
+        },
+        {
+          "verse": 23,
+          "text": "Am zis: Iată, Stăpâne, Tu ești aproape de cei de pe urmă, și ai arătat în tine însuți slujba. Ce vom zice despre aceștia?"
+        },
+        {
+          "verse": 24,
+          "text": "Căci lumea aceasta e spre osteneală, și cei ce sunt în ea sunt slabi."
+        },
+        {
+          "verse": 25,
+          "text": "Legea e în mijlocul focului, și cine o va împlini va fi izbăvit."
+        },
+        {
+          "verse": 26,
+          "text": "Căci iată, vremea va veni, când semnele pe care ți le-am vestit mai înainte vor veni,"
+        },
+        {
+          "verse": 27,
+          "text": "și se va arăta cetatea care acum e nevăzută, și se va arăta țara care acum e ascunsă."
+        },
+        {
+          "verse": 28,
+          "text": "Și se va arăta Mesia Meu, Fiul Meu, cu cei ce sunt cu El, și va veseli pe cei ce au rămas patru sute de ani."
+        },
+        {
+          "verse": 29,
+          "text": "Și după acești ani va muri Fiul Meu, Mesia, și toți cei ce au suflare de om."
+        },
+        {
+          "verse": 30,
+          "text": "Și se va întoarce lumea la tăcerea de odinioară, șapte zile, precum a fost de la început, încât nimeni nu va rămâne."
+        },
+        {
+          "verse": 31,
+          "text": "Și după șapte zile se va scula veacul care acum doarme, și va muri stricăciunea."
+        },
+        {
+          "verse": 32,
+          "text": "Pământul va da înapoi pe cei ce dorm în el, și pulberea pe cei ce locuiesc în tăcere în ea, și cămările vor da înapoi sufletele încredințate lor."
+        },
+        {
+          "verse": 33,
+          "text": "Cel Preaînalt se va arăta pe scaunul judecății, și va trece milostenia, și va fi adunată îndelunga-răbdare."
+        },
+        {
+          "verse": 34,
+          "text": "Numai judecata va rămâne, adevărul va sta, și credința va înflori."
+        },
+        {
+          "verse": 35,
+          "text": "Răsplata va urma, și răsplătirea se va arăta; faptele drepte vor trezi, și faptele nedrepte nu vor dormi."
+        },
+        {
+          "verse": 36,
+          "text": "Groapa osândei se va arăta, și în fața ei locul odihnei. Cuptorul iadului se va arăta, și în fața lui raiul desfătării."
+        },
+        {
+          "verse": 37,
+          "text": "Atunci Cel Preaînalt va zice neamurilor care au fost sculate: Priviți, și înțelegeți pe cine ați tăgăduit, sau pe cine n-ați slujit, sau ale cui porunci ați disprețuit."
+        },
+        {
+          "verse": 38,
+          "text": "Priviți în fața voastră: aici desfătare și odihnă, și acolo foc și cazne."
+        },
+        {
+          "verse": 39,
+          "text": "Așa le va vorbi în ziua judecății."
+        },
+        {
+          "verse": 40,
+          "text": "Ziua judecății va fi aceasta: nu va avea soare, nici lună, nici stele,"
+        },
+        {
+          "verse": 41,
+          "text": "nici nor, nici tunet, nici fulger, nici vânt, nici apă, nici aer, nici întuneric, nici seară, nici dimineață,"
+        },
+        {
+          "verse": 42,
+          "text": "nici vară, nici iarnă, nici căldură, nici ger, nici ger, nici ploaie, nici rouă,"
+        },
+        {
+          "verse": 43,
+          "text": "nici amiază, nici noapte, nici zorii, nici strălucire, nici lumină, ci numai strălucirea slavei Celui Preaînalt, de care toți vor începe să vadă cele ce sunt puse înainte."
+        },
+        {
+          "verse": 44,
+          "text": "Va ține ca o săptămână de ani."
+        },
+        {
+          "verse": 45,
+          "text": "Aceasta e judecata Mea și rânduiala ei. Ție numai ți-am arătat acestea."
+        },
+        {
+          "verse": 46,
+          "text": "Am răspuns: Am zis și atunci, și acum zic: Ferice de cei ce trăiesc și păzesc cele rânduite de Tine."
+        },
+        {
+          "verse": 47,
+          "text": "Dar despre cei pentru care m-am rugat: cine e dintre cei vii care n-a păcătuit, sau cine dintre cei născuți care n-a călcat legământul Tău?"
+        },
+        {
+          "verse": 48,
+          "text": "Și acum văd că veacul care va veni va aduce desfătare puținilor, dar cazne multora."
+        },
+        {
+          "verse": 49,
+          "text": "Căci în noi a crescut inima cea rea, care ne-a înstrăinat de acestea, și ne-a adus la stricăciune și la căile morții, și ne-a arătat cărările pieirii, și ne-a depărtat de viață — și aceasta nu pe puțini, ci aproape pe toți cei ce au fost zidiți."
+        },
+        {
+          "verse": 50,
+          "text": "El a răspuns: Ascultă-mă, și te voi învăța, și îți voi da iarăși sfat."
+        },
+        {
+          "verse": 51,
+          "text": "Pentru aceasta Cel Preaînalt n-a făcut un veac, ci doi."
+        },
+        {
+          "verse": 52,
+          "text": "Tu, pentru că ai zis că nu sunt mulți drepți, ci puțini, iar nelegiuiți mulți, ascultă la aceasta:"
+        },
+        {
+          "verse": 53,
+          "text": "Dacă ai avea puține pietre prețioase, ai adăuga la numărul lor plumb și lut?"
+        },
+        {
+          "verse": 54,
+          "text": "Am zis: Doamne, cum ar putea fi aceasta?"
+        },
+        {
+          "verse": 55,
+          "text": "El a zis: Nu numai atât, ci întreabă pământul, și îți va zice; măgulește-l, și îți va povesti."
+        },
+        {
+          "verse": 56,
+          "text": "Căci îți va zice că dă aur, și argint, și aramă, și totodată și fier, și plumb, și lut."
+        },
+        {
+          "verse": 57,
+          "text": "Dar e mai mult argint decât aur, și mai multă aramă decât argint, și mai mult fier decât aramă, și mai mult plumb decât fier, și mai mult lut decât plumb."
+        },
+        {
+          "verse": 58,
+          "text": "Socotește deci tu care sunt prețioase și dorite, ceea ce e mult sau ceea ce e rar."
+        },
+        {
+          "verse": 59,
+          "text": "Am zis: Stăpâne Doamne, ceea ce e îmbelșugat e de preț mai mic, și ceea ce e mai rar e mai de preț."
+        },
+        {
+          "verse": 60,
+          "text": "El a răspuns: Cântărește în tine cele ce ai gândit: că cel ce are ce e greu de dobândit se veselește mai mult decât cel ce are din belșug."
+        },
+        {
+          "verse": 61,
+          "text": "Așa e și cu făgăduința pe care am făgăduit-o. Mă voi veseli de cei puțini care se vor mântui, pentru că ei sunt cei ce au făcut slava Mea să stăpânească acum, și prin care Numele Meu a fost numit."
+        },
+        {
+          "verse": 62,
+          "text": "Și nu mă voi mâhni de mulțimea celor ce pier, căci ei sunt cei ce sunt acum asemenea aburului, și asemănați flăcării și fumului; se aprind, se încing, și se sting."
+        },
+        {
+          "verse": 63,
+          "text": "Am răspuns și am zis: O, pământule, ce-ai născut, dacă mintea e făcută din pulbere, ca și celelalte făpturi!"
+        },
+        {
+          "verse": 64,
+          "text": "Ar fi fost mai bine ca însăși pulberea să nu se fi născut, ca mintea să nu fi venit din ea."
+        },
+        {
+          "verse": 65,
+          "text": "Dar acum mintea crește cu noi, și pentru aceasta suntem chinuiți, pentru că știm că pierim."
+        },
+        {
+          "verse": 66,
+          "text": "Să se plângă neamul oamenilor, iar fiarele câmpului să se veselească; să se tânguiască toți cei născuți, iar vitele și târâtoarele să se bucure."
+        },
+        {
+          "verse": 67,
+          "text": "Căci lor le e mult mai bine decât nouă; căci ele nu așteaptă judecată, nici nu știu de caznă, nici de mântuire făgăduită lor după moarte."
+        },
+        {
+          "verse": 68,
+          "text": "Căci ce avem noi, că vom fi chinuiți? Căci toți cei născuți sunt amestecați cu fărădelegi, plini de păcate, grei de greșeli."
+        },
+        {
+          "verse": 69,
+          "text": "Și mai bine ar fi fost că, după moarte, să nu așteptăm judecată."
+        },
+        {
+          "verse": 70,
+          "text": "El a răspuns: Când Cel Preaînalt a făcut lumea, și pe Adam, și pe toți cei ce au venit din el, a pregătit mai întâi judecata, și cele ce țin de judecată."
+        },
+        {
+          "verse": 71,
+          "text": "Și acum, înțelege din cuvintele tale: că ai zis că mintea crește cu noi."
+        },
+        {
+          "verse": 72,
+          "text": "Cei ce locuiesc deci pământul vor fi chinuiți pentru aceasta: că, având minte, au făcut fărădelege; și, primind porunci, nu le-au păzit; și, dobândind legea, au înșelat cele ce au primit."
+        },
+        {
+          "verse": 73,
+          "text": "Ce vor avea de zis la judecată, sau cum vor răspunde în vremile de pe urmă?"
+        },
+        {
+          "verse": 74,
+          "text": "Căci cât a durat Cel Preaînalt îndelunga-răbdare asupra celor ce locuiesc lumea — și nu pentru ei, ci pentru cei ce au să vină —"
+        },
+        {
+          "verse": 75,
+          "text": "am răspuns: Dacă am aflat har înaintea Ta, Stăpâne, arată slujitorului Tău dacă după moarte, când își dă fiecare sufletul, vom fi păziți în odihnă, până vor veni vremile acelea în care vei începe să înnoiești zidirea, sau vom fi chinuiți îndată."
+        },
+        {
+          "verse": 76,
+          "text": "El a răspuns: Îți voi arăta și aceasta. Dar nu te amesteca cu cei ce au disprețuit, nici nu te număra cu cei ce sunt chinuiți."
+        },
+        {
+          "verse": 77,
+          "text": "Căci ai o comoară de fapte păstrată la Cel Preaînalt, dar nu-ți va fi arătată până în vremile de pe urmă."
+        },
+        {
+          "verse": 78,
+          "text": "Cât despre moarte: când a ieșit hotărârea de la Cel Preaînalt ca omul să moară, când se desparte duhul de trup, ca să se întoarcă iarăși la Cel ce l-a dat, să se închine întâi slavei Celui Preaînalt."
+        },
+        {
+          "verse": 79,
+          "text": "Dacă e vorba de cei ce au disprețuit și n-au păzit calea Celui Preaînalt, și de cei ce au disprețuit legea Lui, și de cei ce au urât pe cei ce se tem de Dumnezeu,"
+        },
+        {
+          "verse": 80,
+          "text": "aceste suflete nu vor intra în cămări, ci vor rătăci de îndată în cazne, totdeauna întristate, slăbite, și în șapte căi."
+        },
+        {
+          "verse": 81,
+          "text": "Cea dintâi cale: că au disprețuit legea Celui Preaînalt."
+        },
+        {
+          "verse": 82,
+          "text": "A doua: că nu mai pot să se pocăiască bine."
+        },
+        {
+          "verse": 83,
+          "text": "A treia: că vor vedea răsplata păstrată celor ce au crezut legămintele Celui Preaînalt."
+        },
+        {
+          "verse": 84,
+          "text": "A patra: că vor vedea cazna păstrată lor în vremile de pe urmă."
+        },
+        {
+          "verse": 85,
+          "text": "A cincea: că vor vedea locuințele altora păzite de îngeri în adâncă tăcere."
+        },
+        {
+          "verse": 86,
+          "text": "A șasea: că vor vedea cum vor trece de aici în caznă."
+        },
+        {
+          "verse": 87,
+          "text": "A șaptea, care e mai grea decât toate cele de mai înainte: că se vor topi de rușine, se vor mistui de groază, și vor slăbi de teamă, văzând slava Celui Preaînalt înaintea Căruia au păcătuit viețuind, și înaintea Căruia vor fi judecați în vremile de pe urmă."
+        },
+        {
+          "verse": 88,
+          "text": "Iar despre cei ce au păzit căile Celui Preaînalt, aceasta e rânduiala când vor fi despărțiți de vasul acesta stricăcios."
+        },
+        {
+          "verse": 89,
+          "text": "În vremea aceea au slujit Celui Preaînalt cu osteneală, și au suferit totdeauna primejdia, ca să păzească desăvârșit legea Dătătorului de lege."
+        },
+        {
+          "verse": 90,
+          "text": "De aceea aceasta e despre ei:"
+        },
+        {
+          "verse": 91,
+          "text": "Întâi vor vedea cu mare bucurie slava Celui ce îi primește, căci vor odihni în șapte rânduieli."
+        },
+        {
+          "verse": 92,
+          "text": "Cea dintâi rânduială: că s-au luptat cu osteneală bună, ca să biruie inima cea rea zidită împreună cu ei, ca să nu-i abată de la viață la moarte."
+        },
+        {
+          "verse": 93,
+          "text": "A doua: că văd învălmășeala în care rătăcesc sufletele nelegiuiților, și pedeapsa care îi așteaptă."
+        },
+        {
+          "verse": 94,
+          "text": "A treia: că văd mărturia pe care le-a mărturisit-o Cel ce i-a zidit, că în viață au păzit legea care le-a fost încredințată."
+        },
+        {
+          "verse": 95,
+          "text": "A patra: că înțeleg odihna pe care o vor odihni acum, adunați în cămările lor, păziți de îngeri în adâncă tăcere, și slava care îi așteaptă în vremile de pe urmă."
+        },
+        {
+          "verse": 96,
+          "text": "A cincea: că se veselesc că au scăpat acum de ce e stricăcios, și vor moșteni ce e de venit; și totodată văd strâmtoarea din care au fost sloboziți, și moștenirea cea largă pe care o vor primi și moșteni."
+        },
+        {
+          "verse": 97,
+          "text": "A șasea: că li se arată cum fața lor are să strălucească ca soarele, și cum au să fie făcuți asemenea luminii stelelor, de acum înainte nestricăcioși."
+        },
+        {
+          "verse": 98,
+          "text": "A șaptea, care e mai mare decât toate cele de mai înainte: că se vor bucura cu îndrăzneală, și vor nădăjdui fără să se rușineze, și se vor grăbi să vadă fața Celui căruia I-au slujit în viață, și de la care au să primească răsplată."
+        },
+        {
+          "verse": 99,
+          "text": "Aceasta e rânduiala sufletelor drepților, precum s-a vestit mai înainte; și cele de mai înainte sunt căile pe care vor suferi de acum înainte cei ce au disprețuit."
+        },
+        {
+          "verse": 100,
+          "text": "Am răspuns și am zis: Va fi dat deci vreme sufletelor, după ce vor fi despărțite de trupuri, să vadă cele ce mi-ai zis?"
+        },
+        {
+          "verse": 101,
+          "text": "El a zis: Șapte zile vor avea slobozenia lor, ca să vadă cele de care s-a vorbit, și după aceea vor fi adunate în cămările lor."
+        },
+        {
+          "verse": 102,
+          "text": "Am răspuns și am zis: Dacă am aflat har înaintea Ta, arată slujitorului Tău dacă în ziua judecății drepții vor putea mijloci pentru nelegiuiți, sau se vor ruga Cel Preaînalt pentru ei,"
+        },
+        {
+          "verse": 103,
+          "text": "părinți pentru fii, sau fii pentru părinți, frați pentru frați, rude pentru cei apropiați, prieteni pentru cei iubiți."
+        },
+        {
+          "verse": 104,
+          "text": "El a zis: Voi da har în aceasta, și îți voi arăta. Ziua judecății e hotărâtoare, și arată tuturor pecetea adevărului. Precum acum tatăl nu trimite pe fiu, nici fiul pe tată, nici stăpânul pe slujitor, nici prietenul pe cel iubit, ca să fie bolnav, sau să doarmă, sau să mănânce, sau să fie vindecat pentru el,"
+        },
+        {
+          "verse": 105,
+          "text": "tot așa nimeni nu se va ruga atunci pentru altul; căci toți vor purta atunci fiecare nedreptatea sa sau dreptatea sa."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "El a răspuns și a zis: Cel Preaînalt a făcut lumea aceasta pentru mulți, iar pe cea care va veni pentru puțini."
+        },
+        {
+          "verse": 2,
+          "text": "Dar îți voi spune o asemănare, Ezdra. Precum dacă întrebi pământul, îți va zice că dă multă materie din care se face lutul, iar puțin praf din care se face aurul, tot așa e și cu lucrarea veacului acestuia."
+        },
+        {
+          "verse": 3,
+          "text": "Mulți au fost zidiți, dar puțini se vor mântui."
+        },
+        {
+          "verse": 4,
+          "text": "Am răspuns și am zis: Suflete, înghite înțelegerea, și înghite ce e înțelept."
+        },
+        {
+          "verse": 5,
+          "text": "Căci ți s-a dat să asculți fără voia ta, și ți s-a dat să slujești fără voia ta; căci nu ți s-a dat spațiu decât de a trăi puțin."
+        },
+        {
+          "verse": 6,
+          "text": "O, Doamne, de ne-ai da sămânță inimii, și cultură înțelegerii, ca să se facă rod, din care să poată trăi tot cel stricăcios, care poartă locul unui om!"
+        },
+        {
+          "verse": 7,
+          "text": "Căci Tu ești unul, și noi toți, o lucrare a mâinilor Tale, precum ai zis."
+        },
+        {
+          "verse": 8,
+          "text": "Și acum, când dai viață trupului zidit în pântece, și îi dăruiești mădulare, păzită e zidirea Ta în foc și apă, și cele ce ai zidit nouă luni suferă zidirea Ta care e zidită în el."
+        },
+        {
+          "verse": 9,
+          "text": "Iar cel ce o păzește, și cel ce e păzit, amândoi vor fi păziți prin păzirea Ta. Și când iese pântecele din cel ce-l ține,"
+        },
+        {
+          "verse": 10,
+          "text": "ai poruncit ca, din mădulare, adică din sâni, să se dea lapte, rodul țățelor,"
+        },
+        {
+          "verse": 11,
+          "text": "ca să fie hrănit ce e zidit, până la o vreme."
+        },
+        {
+          "verse": 12,
+          "text": "După aceea îl călăuzești în mila Ta, și îl hrănești în dreptate, și îl înveți în lege, și îl mustri în înțelepciune."
+        },
+        {
+          "verse": 13,
+          "text": "Îl omori ca lucrare a Ta, și îl faci viu ca lucrare a Ta."
+        },
+        {
+          "verse": 14,
+          "text": "Dacă deci vei nimici cu o poruncă grabnică pe cel ce a fost zidit cu atâta osteneală, din porunca Ta, ca să fie, pentru ce s-a făcut?"
+        },
+        {
+          "verse": 15,
+          "text": "Și acum îți voi vorbi: despre tot omul, Tu știi mai bine; dar despre poporul Tău, pentru care mă întristez,"
+        },
+        {
+          "verse": 16,
+          "text": "și despre moștenirea Ta, pentru care gem, și despre Israel, pentru care mă mâhnesc, și despre sămânța lui Iacov, pentru care mă tulbur."
+        },
+        {
+          "verse": 17,
+          "text": "De aceea voi începe să mă rog înaintea Ta pentru mine și pentru ei, căci văd căderile noastre, cei ce locuim țara."
+        },
+        {
+          "verse": 18,
+          "text": "Dar am auzit și de iuțeala judecății care va veni."
+        },
+        {
+          "verse": 19,
+          "text": "De aceea auzi glasul meu, și ia în urechi cuvintele mele, și îți voi vorbi înaintea Ta."
+        },
+        {
+          "verse": 20,
+          "text": "Începutul cuvintelor rugăciunii lui Ezdra, înainte să fie luat. Am zis:"
+        },
+        {
+          "verse": 21,
+          "text": "O, Doamne, Care locuiești veșnicia, ale Cărui ochi sunt înălțați, și cămările în văzduh,"
+        },
+        {
+          "verse": 22,
+          "text": "al Cărui scaun e nespus, și slava de necuprins; înaintea Căruia stă oastea îngerilor cu cutremur,"
+        },
+        {
+          "verse": 23,
+          "text": "al Căror slujbă se preface în vânt și foc, al Cărui cuvânt e adevărat, și zicerea statornică,"
+        },
+        {
+          "verse": 24,
+          "text": "al Cărui poruncă e tare, și rânduiala înfricoșată, al Cărui privire usucă adâncurile, și a Cărui mânie topește munții, și al Cărui adevăr rămâne,"
+        },
+        {
+          "verse": 25,
+          "text": "ascultă, Doamne, rugăciunea slujitorului Tău, și ia în urechi rugăciunea făpturii Tale, și ia aminte la cuvintele mele."
+        },
+        {
+          "verse": 26,
+          "text": "Căci cât trăiesc voi vorbi, și cât am înțelegere voi răspunde."
+        },
+        {
+          "verse": 27,
+          "text": "Nu privi la păcatele poporului Tău, ci la cei ce Ți-au slujit în adevăr."
+        },
+        {
+          "verse": 28,
+          "text": "Nu lua aminte la faptele celor ce s-au purtat nelegiuit înaintea Ta, ci la cei ce au păzit legămintele Tale în necazuri."
+        },
+        {
+          "verse": 29,
+          "text": "Nu gândi la cei ce s-au purtat urât înaintea Ta, ci la cei ce au voit cu teamă să Te cunoască."
+        },
+        {
+          "verse": 30,
+          "text": "Nu voia să pierzi pe cei ce au avut obiceiuri de vite; ci adu-Ți aminte de cei ce au slăvit cu evlavie legea Ta."
+        },
+        {
+          "verse": 31,
+          "text": "Nu Te mânia pe cei ce sunt socotiți mai răi decât fiarele; ci iubește pe cei ce au nădăjduit totdeauna slava Ta."
+        },
+        {
+          "verse": 32,
+          "text": "Căci noi și părinții noștri am trăit în fapte de moarte; dar Tu, pentru noi păcătoșii, ești numit milostiv."
+        },
+        {
+          "verse": 33,
+          "text": "Căci dacă ai poftit să miluiești pe noi, care nu avem fapte de dreptate, atunci vei fi numit milostiv."
+        },
+        {
+          "verse": 34,
+          "text": "Căci drepții, care au multe fapte adunate, vor primi răsplată din faptele lor."
+        },
+        {
+          "verse": 35,
+          "text": "Căci ce este omul, să Te superi pe el, sau neamul stricăcios, să Te amărâști atât de tare pe el?"
+        },
+        {
+          "verse": 36,
+          "text": "Căci cu adevărat nu e nimeni dintre cei născuți care să nu fi lucrat fărădelege, sau dintre cei ce sunt care să nu fi păcătuit."
+        },
+        {
+          "verse": 37,
+          "text": "Căci în aceasta se va arăta dreptatea Ta, și bunătatea Ta, Doamne, când vei milui pe cei ce n-au avuție de fapte bune."
+        },
+        {
+          "verse": 38,
+          "text": "El a răspuns și a zis: Unele lucruri le-ai vorbit drept, și după cuvintele tale va fi."
+        },
+        {
+          "verse": 39,
+          "text": "Căci cu adevărat nu-Mi voi gândi la făptura celor ce au păcătuit, sau la moartea lor, sau la judecata lor, sau la pieirea lor;"
+        },
+        {
+          "verse": 40,
+          "text": "ci Mă voi veseli de făptura drepților, și de pribegia lor, și de mântuirea lor, și de răsplata lor."
+        },
+        {
+          "verse": 41,
+          "text": "Căci precum agricultorul seamănă multe semințe asupra pământului, și sădește o mulțime de plante, dar nu toate cele semănate se vor mântui la vreme, nici toate cele sădite nu vor prinde rădăcină, tot așa și cei ce au fost semănați în lume nu toți se vor mântui."
+        },
+        {
+          "verse": 42,
+          "text": "Am răspuns și am zis: Dacă am aflat har, lasă-mă să vorbesc."
+        },
+        {
+          "verse": 43,
+          "text": "Căci sămânța agricultorului, dacă nu primește ploaie la vreme, sau dacă e stricată de prea multă ploaie, piere."
+        },
+        {
+          "verse": 44,
+          "text": "Dar omul, care e zidit de mâinile Tale, și e numit chipul Tău, pentru că e făcut asemenea Ție, pentru care ai zidit toate — l-ai asemănat sămânței agricultorului?"
+        },
+        {
+          "verse": 45,
+          "text": "Nu așa, Doamne, deasupra noastră. Ci cruță poporul Tău, și miluiește moștenirea Ta, căci Ție Ți se milostivește făptura Ta."
+        },
+        {
+          "verse": 46,
+          "text": "El a răspuns și a zis: Cele de acum sunt pentru cei de acum, și cele de viitor pentru cei de viitor."
+        },
+        {
+          "verse": 47,
+          "text": "Căci tu ești departe de a iubi făptura Mea mai mult decât Ea. Iar tu te-ai asemănat adesea cu cei nelegiuiți. Să nu fie!"
+        },
+        {
+          "verse": 48,
+          "text": "Dar în aceasta te vei minuna înaintea Celui Preaînalt,"
+        },
+        {
+          "verse": 49,
+          "text": "pentru că te-ai smerit, precum ți se cade, și nu te-ai socotit între drepți, ca să te slăvești atât de tare."
+        },
+        {
+          "verse": 50,
+          "text": "De aceea vor pătimi multe, în vremile de pe urmă, cei ce locuiesc lumea, pentru că au umblat în mare mândrie."
+        },
+        {
+          "verse": 51,
+          "text": "Iar tu pentru tine înțelege, și pentru cei asemenea ție cercetează slava."
+        },
+        {
+          "verse": 52,
+          "text": "Căci vouă e deschis raiul, sădit pomul vieții, pregătit veacul de viitor, gătită desfătarea, zidită cetatea, întemeiată odihna, desăvârșită bunătatea, desăvârșită înțelepciunea."
+        },
+        {
+          "verse": 53,
+          "text": "Rădăcina răului e pecetluită de la voi; slăbiciunea e stinsă de la voi, și ... [moartea] e ascunsă; iadul a fugit, și stricăciunea e uitată."
+        },
+        {
+          "verse": 54,
+          "text": "Durerile au trecut, și la capăt s-a arătat comoara nemuririi."
+        },
+        {
+          "verse": 55,
+          "text": "Nu întreba deci iarăși despre mulțimea celor ce pier."
+        },
+        {
+          "verse": 56,
+          "text": "Căci ei, primind slobozenie, au disprețuit pe Cel Preaînalt, au disprețuit legea Lui, și au părăsit căile Lui."
+        },
+        {
+          "verse": 57,
+          "text": "Și au călcat pe drepții Lui."
+        },
+        {
+          "verse": 58,
+          "text": "Și au zis în inima lor că nu e Dumnezeu, deși știind că trebuie să moară."
+        },
+        {
+          "verse": 59,
+          "text": "Căci precum vă așteaptă pe voi cele zise, tot așa și setea și cazna care sunt pregătite. Cel Preaînalt n-a voit ca omul să piară."
+        },
+        {
+          "verse": 60,
+          "text": "Ci cei ce au fost zidiți au spurcat numele Celui ce i-a făcut, și au fost nemulțumitori față de Cel ce le-a pregătit viața."
+        },
+        {
+          "verse": 61,
+          "text": "De aceea judecata Mea e acum aproape."
+        },
+        {
+          "verse": 62,
+          "text": "Acestea nu le-am arătat tuturor, ci ție, și celor puțini asemenea ție. Am răspuns și am zis:"
+        },
+        {
+          "verse": 63,
+          "text": "Iată, Stăpâne, Tu mi-ai arătat multe din semnele pe care le vei face la capăt, dar nu mi-ai arătat când."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "El a răspuns și a zis: Măsoară-ți vremea în tine însuți, și va fi, când vei vedea că a trecut o parte din semnele vestite,"
+        },
+        {
+          "verse": 2,
+          "text": "atunci vei înțelege că e vremea când Cel Preaînalt va cerceta lumea pe care a făcut-o."
+        },
+        {
+          "verse": 3,
+          "text": "Când se va vedea în lume cutremur de locuri, tulburare de popoare, uneltiri de neamuri, șovăire de conducători, tulburare de căpetenii,"
+        },
+        {
+          "verse": 4,
+          "text": "atunci vei înțelege că despre acestea a vorbit Cel Preaînalt de la zilele de mai înainte, care au fost înaintea lor."
+        },
+        {
+          "verse": 5,
+          "text": "Căci precum tot ce s-a făcut în lume are un început vădit și un capăt vădit, tot așa și vremile Celui Preaînalt: începuturile în minuni și puteri, și capătul în fapte și semne."
+        },
+        {
+          "verse": 6,
+          "text": "Și va fi, oricine se va mântui, și va putea scăpa prin faptele sale, sau prin credința în care a crezut,"
+        },
+        {
+          "verse": 7,
+          "text": "va rămâne din primejdiile vestite, și va vedea mântuirea Mea în țara Mea, și în hotarele Mele, pe care le-am sfințit Mie de veac."
+        },
+        {
+          "verse": 8,
+          "text": "Atunci se vor rușina cei ce acum au disprețuit căile Mele, și cei ce i-au disprețuit cu dispreț vor locui în cazne."
+        },
+        {
+          "verse": 9,
+          "text": "Cei ce nu M-au cunoscut, deși primind binefaceri, și cei ce au disprețuit legea Mea, deși având-o,"
+        },
+        {
+          "verse": 10,
+          "text": "și cei ce n-au înțeles, ci au disprețuit, vor trebui să cunoască prin cazne."
+        },
+        {
+          "verse": 11,
+          "text": "Căci atât de mult am gândit să-i miluiesc. Se numesc acum lucrările Mele, dar au disprețuit pe Cel Preaînalt, și au disprețuit căile Lui, și au disprețuit legea Lui, și au urât pe cei ce se tem de El."
+        },
+        {
+          "verse": 12,
+          "text": "De aceea așteaptă-i, și vor vedea."
+        },
+        {
+          "verse": 13,
+          "text": "Iar tu, nu te mai iscodi cum vor fi chinuiți nelegiuiții, ci cercetează cum se vor mântui drepții, al căror lume e, și pentru care e lumea, și când."
+        },
+        {
+          "verse": 14,
+          "text": "Am răspuns și am zis:"
+        },
+        {
+          "verse": 15,
+          "text": "Am zis și mai înainte, și acum zic, și voi zice după aceasta, că sunt mai mulți cei ce pier decât cei ce se vor mântui,"
+        },
+        {
+          "verse": 16,
+          "text": "precum e un val mai mare decât o picătură."
+        },
+        {
+          "verse": 17,
+          "text": "El a răspuns și a zis: Precum e ogorul, așa și semințele; precum sunt florile, așa și culorile; precum e lucrarea, așa și judecata; precum e agricultorul, așa și aria."
+        },
+        {
+          "verse": 18,
+          "text": "Căci a fost o vreme a veacului, când am pregătit pentru cei ce sunt acum, înainte să fie, lumea în care să locuiască,"
+        },
+        {
+          "verse": 19,
+          "text": "și nimeni nu Mi s-a împotrivit atunci, căci nu era încă nimeni. Iar acum, cei ce au fost zidiți în lumea aceasta pregătită, și poarta și calea întinsă,"
+        },
+        {
+          "verse": 20,
+          "text": "au stricat năravurile, au disprețuit legea, n-au ținut seama de făgăduințele Mele, n-au crezut înțelegărilor Mele, și au zădărnicit rânduielile Mele."
+        },
+        {
+          "verse": 21,
+          "text": "Și am socotit lumea Mea, și iată, era pierdută, și lumea Mea, și iată, era în primejdie, din pricina cugetelor celor ce au venit în ea."
+        },
+        {
+          "verse": 22,
+          "text": "Am văzut, și am cruțat-o cu greu, și am mântuit Mie un sâmbure de strugure, și o plantă dintr-o pădure mare."
+        },
+        {
+          "verse": 23,
+          "text": "Să piară deci mulțimea care s-a născut în zadar, și să fie păzit sâmburele Meu, și planta Mea, pentru că cu mare osteneală le-am desăvârșit."
+        },
+        {
+          "verse": 24,
+          "text": "Iar tu, dacă vei mai aștepta șapte zile deacum, dar nu vei posti în ele,"
+        },
+        {
+          "verse": 25,
+          "text": "ci te vei duce într-un câmp de flori, unde nu e casă zidită, și vei mânca numai din florile câmpului, gust de carne, și nu vei bea vin, ci numai flori,"
+        },
+        {
+          "verse": 26,
+          "text": "și te vei ruga Celui Preaînalt neîncetat, voi veni și îți voi vorbi."
+        },
+        {
+          "verse": 27,
+          "text": "M-am dus, precum mi-a zis, în câmpul care se cheamă Ardat, și am șezut acolo între flori, și am mâncat din ierburile câmpului, și s-a făcut hrana aceea săturație."
+        },
+        {
+          "verse": 28,
+          "text": "Și a fost după șapte zile, și zăceam pe iarbă, și inima mea s-a tulburat iarăși ca mai înainte."
+        },
+        {
+          "verse": 29,
+          "text": "Și gura mea s-a deschis, și am început să vorbesc înaintea Celui Preaînalt, și am zis:"
+        },
+        {
+          "verse": 30,
+          "text": "O, Doamne, Tu Ți-ai arătat nouă pe Tine însuți celor din pădurea noastră, și Ți-ai slăvit numele în noi, în pustia, în loc neumblat, în loc uscat, când au ieșit din Egipt, și i-ai adus în pustie."
+        },
+        {
+          "verse": 31,
+          "text": "Ai zis: Tu, Israel, ascultă-Mă; sămânță a lui Iacov, luați aminte la cuvintele Mele."
+        },
+        {
+          "verse": 32,
+          "text": "Căci iată, Eu semăn în voi legea Mea, și va aduce în voi rod, și veți fi slăviți în el în veac."
+        },
+        {
+          "verse": 33,
+          "text": "Iar părinții noștri, primind legea, n-au păzit-o, și rânduielile n-au păzit."
+        },
+        {
+          "verse": 34,
+          "text": "Și a fost rodul legii nelipsit; căci nu putea, pentru că era a Ta."
+        },
+        {
+          "verse": 35,
+          "text": "Cei ce au primit-o au pierit, pentru că n-au păzit ce fusese semănat în ei."
+        },
+        {
+          "verse": 36,
+          "text": "Și iată, e obicei că, când pământul primește sămânță, sau marea o corabie, sau un vas mâncăruri,"
+        },
+        {
+          "verse": 37,
+          "text": "când se strică cele ce au fost semănate, sau cele ce au fost trimise, sau cele ce au fost puse, rămân acestea, iar cele ce le țin, pier. Așa e și cu noi."
+        },
+        {
+          "verse": 38,
+          "text": "Când vorbeam acestea în inima mea, am ridicat ochii, și am văzut la dreapta o femeie; și iată, se tânguia, și plângea cu glas mare, și era foarte mâhnită cu sufletul, și hainele ei erau rupte, și cenușă pe cap."
+        },
+        {
+          "verse": 39,
+          "text": "Am părăsit cugetele în care eram, și m-am întors spre ea, și i-am zis:"
+        },
+        {
+          "verse": 40,
+          "text": "Pentru ce plângi, și pentru ce ești atât de mâhnită cu sufletul?"
+        },
+        {
+          "verse": 41,
+          "text": "Ea a zis: Lasă-mă, stăpâne, să mă tânguiesc de mine, și să-mi adaug întristare, căci sunt foarte amară cu sufletul, și foarte smerită."
+        },
+        {
+          "verse": 42,
+          "text": "Am zis: Ce ți s-a întâmplat? Spune-mi."
+        },
+        {
+          "verse": 43,
+          "text": "Ea a zis: Am fost stearpă, slujind bărbatului meu treizeci de ani. În acești treizeci de ani n-am născut rod, am făcut lui Dumnezeu în toate ceasurile."
+        },
+        {
+          "verse": 44,
+          "text": "În toate ceasurile, în toate zilele, în toți cei treizeci de ani, m-am rugat Celui Preaînalt noaptea și ziua."
+        },
+        {
+          "verse": 45,
+          "text": "Și a fost după treizeci de ani, că Dumnezeu a auzit pe slujitoarea Ta, și a privit smerenia mea, și a luat aminte la necazul meu, și mi-a dat un fiu. M-am veselit foarte de el, eu și bărbatul meu, și toți cetățenii mei, și am slăvit pe Cel Puternic."
+        },
+        {
+          "verse": 46,
+          "text": "L-am crescut cu multă osteneală."
+        },
+        {
+          "verse": 47,
+          "text": "Și când a ajuns, și a venit să-și ia femeie, am făcut un ospăț."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și a fost, când a intrat fiul meu în cămara lui, a căzut, și a murit."
+        },
+        {
+          "verse": 2,
+          "text": "Am stins luminile, și toți cetățenii mei s-au sculat să mă mângâie, și am tăcut până a doua zi, până noaptea."
+        },
+        {
+          "verse": 3,
+          "text": "Și a fost, când toți au încetat să mă mângâie, ca să mă liniștesc, m-am sculat noaptea, și am fugit, și am venit în acest câmp, precum vezi."
+        },
+        {
+          "verse": 4,
+          "text": "Și am gândit să nu mă mai întorc în cetate, ci să rămân aici, și nici să nu mănânc, nici să nu beau, ci să plâng și să postesc neîncetat până voi muri."
+        },
+        {
+          "verse": 5,
+          "text": "Am părăsit cugetele în care eram, și i-am răspuns cu mânie, și am zis:"
+        },
+        {
+          "verse": 6,
+          "text": "Nebună peste toate femeile, nu vezi jalea noastră, și ce ni s-a întâmplat?"
+        },
+        {
+          "verse": 7,
+          "text": "Căci Sionul, mama noastră a tuturor, e în întristare, și e smerit foarte."
+        },
+        {
+          "verse": 8,
+          "text": "Și acum e drept să plângem toți, și e drept să ne mâhnim, pentru că toți gemem, și e drept să ne întristăm toți."
+        },
+        {
+          "verse": 9,
+          "text": "Iar tu te mâhnești pentru un fiu. Întreabă pământul, și îți va zice că el trebuie să plângă pentru atâția care au rodit asupra lui."
+        },
+        {
+          "verse": 10,
+          "text": "Și din el de la început toți s-au născut, și alții vor veni. Și iată, aproape toți umblă în pieire, și mulțimea lor e spre nimicire."
+        },
+        {
+          "verse": 11,
+          "text": "Cine deci trebuie să se întristeze mai mult, cea care și-a pierdut atâta mulțime, sau tu, care te mâhnești pentru unul?"
+        },
+        {
+          "verse": 12,
+          "text": "Iar dacă îmi vei zice: Plânsul meu nu e asemenea plânsului pământului, pentru că am pierdut rodul pântecelui meu, pe care l-am născut cu dureri, și l-am născut cu dureri,"
+        },
+        {
+          "verse": 13,
+          "text": "iar pământul după felul pământului; ieșirea e după felul celui ce vine. Voi zice ție încă:"
+        },
+        {
+          "verse": 14,
+          "text": "Precum ai născut cu osteneală, tot așa și pământul și-a dat rodul, omul, de la început, Celui ce l-a făcut."
+        },
+        {
+          "verse": 15,
+          "text": "Ține deci durerea ta în tine, și poartă cu tărie întâmplările care ți-au venit."
+        },
+        {
+          "verse": 16,
+          "text": "Căci dacă vei recunoaște hotărârea lui Dumnezeu ca dreaptă, îți vei primi fiul la vreme, și vei fi lăudată între femei."
+        },
+        {
+          "verse": 17,
+          "text": "Întoarce-te deci în cetate, la bărbatul tău."
+        },
+        {
+          "verse": 18,
+          "text": "Ea a zis: Nu voi face, nici nu voi intra în cetate, ci aici voi muri."
+        },
+        {
+          "verse": 19,
+          "text": "Am vorbit iarăși cu ea, și am zis:"
+        },
+        {
+          "verse": 20,
+          "text": "Nu face acest cuvânt, ci lasă-te sfătuită pentru întâmplările Sionului, și te mângâie pentru durerea Ierusalimului."
+        },
+        {
+          "verse": 21,
+          "text": "Căci vezi că sfințenia noastră e pustiită, altarul nostru e dărâmat, templul nostru e nimicit,"
+        },
+        {
+          "verse": 22,
+          "text": "psaltirea noastră e doborâtă, cântarea noastră e tăcută, veselia noastră e slăbită, lumina sfeșnicului nostru e stinsă, chivotul legământului nostru e răpit, cele sfinte ale noastre sunt pângărite, numele care e chemat asupra noastră e aproape pângărit, copiii noștri au suferit ocară, preoții noștri au fost arși, leviții noștri au fost duși robi, fecioarele noastre sunt pângărite, femeile noastre au suferit silă, drepții noștri au fost răpiți, pruncii noștri au fost dați, tinerii noștri sunt robi, vitejii noștri sunt slăbiți."
+        },
+        {
+          "verse": 23,
+          "text": "Și, ceea ce e mai mult decât toate, pecetea Sionului — căci acum e slăbită slava Sionului — e dată în mâinile celor ce ne urăsc."
+        },
+        {
+          "verse": 24,
+          "text": "Leapădă deci marea ta întristare, și pune deoparte mulțimea durerilor, ca să te milostivească Cel Puternic, și ca Cel Preaînalt să-ți dea odihnă, și odihna să-ți ușureze întâmplările."
+        },
+        {
+          "verse": 25,
+          "text": "Și a fost, pe când vorbeam cu ea, iată, fața ei a strălucit deodată foarte, și înfățișarea ei s-a făcut ca fulgerul, încât m-am temut foarte de ea, și mă gândeam ce ar putea fi aceasta."
+        },
+        {
+          "verse": 26,
+          "text": "Și iată, deodată a scos un sunet mare și înfricoșat, încât s-a cutremurat pământul de sunet."
+        },
+        {
+          "verse": 27,
+          "text": "Și am privit, și iată, femeia nu mi se mai arăta, ci o cetate zidită, și un loc se arăta din temeliile cele mari."
+        },
+        {
+          "verse": 28,
+          "text": "M-am temut, și am strigat cu glas mare, și am zis: Unde e îngerul Uriel, care de la început a venit la mine? Căci el m-a făcut să vin în prisosul acesta de uimire, și inima mea e la capăt, și slăbiciunea mea."
+        },
+        {
+          "verse": 29,
+          "text": "Pe când vorbeam acestea, iată, a venit la mine îngerul care venise la mine de la început, și m-a privit."
+        },
+        {
+          "verse": 30,
+          "text": "Zăceam ca un mort, și fără înțelegere, și mi-a ținut dreapta dreapta, și m-a întărit, și m-a așezat pe picioare, și mi-a zis:"
+        },
+        {
+          "verse": 31,
+          "text": "Ce-ți este, și de ce ești tulburat? Și de ce e tulburată înțelegerea ta, și înțelegerea inimii tale?"
+        },
+        {
+          "verse": 32,
+          "text": "Am zis: Pentru că m-ai părăsit. Eu am făcut după cuvintele tale, și am ieșit în câmp, și iată, am văzut, și văd ce nu pot tâlcui."
+        },
+        {
+          "verse": 33,
+          "text": "El a zis: Stai înaintea mea, și ia aminte, și îți voi sluji. Spune-mi ce ai văzut, și îți voi arăta."
+        },
+        {
+          "verse": 34,
+          "text": "Am zis: Vorbește, stăpâne; numai nu mă părăsi, ca să nu mor deșert."
+        },
+        {
+          "verse": 35,
+          "text": "Căci am văzut ce n-am știut, și aud ce nu știu."
+        },
+        {
+          "verse": 36,
+          "text": "Sau e amăgită înțelegerea mea, și visează sufletul meu?"
+        },
+        {
+          "verse": 37,
+          "text": "Acum deci te rog să-ți slujitorului tău să-i dai tâlcuirea acestei uimiri."
+        },
+        {
+          "verse": 38,
+          "text": "El a răspuns și a zis: Ascultă-mă, și te voi învăța, și îți voi sluji despre cele de care te temi. Căci Cel Preaînalt îți descoperă multe taine."
+        },
+        {
+          "verse": 39,
+          "text": "Căci a văzut dreapta ta, că te mâhnești neîncetat pentru poporul tău, și te întristezi foarte pentru Sion."
+        },
+        {
+          "verse": 40,
+          "text": "Aceasta e deci tâlcuirea."
+        },
+        {
+          "verse": 41,
+          "text": "Femeia care ți s-a arătat mai înainte, pe care o vedeai plângând, și ai început să o mângâi,"
+        },
+        {
+          "verse": 42,
+          "text": "iar acum nu mai vezi chip de femeie, ci ți s-a arătat o cetate zidită,"
+        },
+        {
+          "verse": 43,
+          "text": "și pentru că ți-a spus ție despre căderea fiului ei, aceasta e tâlcuirea:"
+        },
+        {
+          "verse": 44,
+          "text": "Femeia pe care ai văzut-o e Sionul, pe care acum îl vezi ca o cetate zidită."
+        },
+        {
+          "verse": 45,
+          "text": "Iar pentru că ți-a spus că a fost stearpă treizeci de ani, e pentru că au fost trei mii de ani în lume când încă nu se adusese jertfă în ea."
+        },
+        {
+          "verse": 46,
+          "text": "Și a fost după trei mii de ani, că a zidit Solomon cetatea, și a adus jertfe. Atunci a fost când a născut stearpa un fiu."
+        },
+        {
+          "verse": 47,
+          "text": "Iar pentru că ți-a spus că l-a crescut cu osteneală, aceasta a fost locuirea Ierusalimului."
+        },
+        {
+          "verse": 48,
+          "text": "Iar pentru că ți-a spus că fiul ei, când a intrat în cămara lui, a căzut și a murit, aceasta a fost căderea Ierusalimului."
+        },
+        {
+          "verse": 49,
+          "text": "Și iată, ai văzut înfățișarea ei, cum s-a mâhnit fiul ei, după asemănarea ei. Acestea ți le-am slujit."
+        },
+        {
+          "verse": 50,
+          "text": "Și acum, Cel Preaînalt, văzând că ești mâhnit din suflet, și din toată inima te mâhnești pentru ea, ți-a arătat strălucirea slavei ei, și frumusețea înfățișării ei."
+        },
+        {
+          "verse": 51,
+          "text": "De aceea ți-am poruncit să rămâi în câmp unde nu e casă zidită."
+        },
+        {
+          "verse": 52,
+          "text": "Căci am știut că Cel Preaînalt avea să-ți arate acestea."
+        },
+        {
+          "verse": 53,
+          "text": "De aceea ți-am zis să te duci în câmp, unde nu e temelie de clădire."
+        },
+        {
+          "verse": 54,
+          "text": "Căci nu putea lucrarea zidirii omenești să stea în locul unde avea să se arate cetatea Celui Preaînalt."
+        },
+        {
+          "verse": 55,
+          "text": "Tu deci nu te teme, nici să nu se înfricoșeze inima ta, ci intră, și vezi strălucirea și mărimea clădirii, cât e cu putință vederii ochilor tăi să vadă."
+        },
+        {
+          "verse": 56,
+          "text": "Și după aceasta vei auzi cât e cu putință auzului urechilor tale să audă."
+        },
+        {
+          "verse": 57,
+          "text": "Căci ești fericit mai presus de mulți, și ești chemat la Cel Preaînalt, precum puțini."
+        },
+        {
+          "verse": 58,
+          "text": "Iar a doua noapte vei rămâne aici."
+        },
+        {
+          "verse": 59,
+          "text": "Și Cel Preaînalt îți va arăta în visuri de visuri cele ce va face Cel Preaînalt celor ce locuiesc pământul în zilele de pe urmă."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și am văzut un vis, și iată, s-a ridicat din mare un vultur, care avea douăsprezece aripi de pene, și trei capete."
+        },
+        {
+          "verse": 2,
+          "text": "Și am văzut, și iată, își întindea aripile peste tot pământul, și toate vânturile cerului suflau asupra lui, și se adunau norii asupra lui."
+        },
+        {
+          "verse": 3,
+          "text": "Și am văzut din aripile lui ieșind aripi potrivnice; și ele s-au făcut aripici mici, slabe."
+        },
+        {
+          "verse": 4,
+          "text": "Iar capetele lui erau în odihnă; mijlociul cap era mai mare decât celelalte capete, dar totuși odihnea cu ele."
+        },
+        {
+          "verse": 5,
+          "text": "Și am văzut, și iată, vulturul a zburat cu aripile lui, și a stăpânit tot pământul, și pe toți cei ce locuiesc pe el."
+        },
+        {
+          "verse": 6,
+          "text": "Și am văzut că toate cele de sub cer i s-au supus, și nimeni nu i s-a împotrivit, nici unul dintre cele zidite pe pământ."
+        },
+        {
+          "verse": 7,
+          "text": "Și am văzut, și iată, vulturul s-a sculat pe ghearele lui, și a scos un glas către aripile lui, zicând:"
+        },
+        {
+          "verse": 8,
+          "text": "Nu vegheați toate deodată; dormiți fiecare în locul său, și vegheați la vreme."
+        },
+        {
+          "verse": 9,
+          "text": "Iar capetele să fie păzite până la capăt."
+        },
+        {
+          "verse": 10,
+          "text": "Și am văzut că glasul nu ieșea din capetele lui, ci din mijlocul trupului lui."
+        },
+        {
+          "verse": 11,
+          "text": "Și am numărat aripile lui cele potrivnice, și iată, erau opt."
+        },
+        {
+          "verse": 12,
+          "text": "Și am văzut, și iată, din partea dreaptă s-a sculat o aripă, și a stăpânit tot pământul."
+        },
+        {
+          "verse": 13,
+          "text": "Și a fost, când a stăpânit, s-a sfârșit capătul ei, și a dispărut, încât locul ei nu s-a arătat."
+        },
+        {
+          "verse": 14,
+          "text": "Și s-a sculat a doua, și a stăpânit, și aceasta a ținut vreme îndelungată."
+        },
+        {
+          "verse": 15,
+          "text": "Și a fost, când a stăpânit, și a fost capătul ei, încât nu s-a arătat ca cea dintâi."
+        },
+        {
+          "verse": 16,
+          "text": "Și iată, un glas i-a zis: Ascultă tu, care ai ținut pământul atâta vreme:"
+        },
+        {
+          "verse": 17,
+          "text": "Aceasta îți vestesc, înainte să începi să dispari: nimeni după tine nu va ține vremea ta, nici jumătate din ea."
+        },
+        {
+          "verse": 18,
+          "text": "Și s-a sculat a treia, și a ținut ca și cele de mai înainte, și a dispărut și aceasta."
+        },
+        {
+          "verse": 19,
+          "text": "Și așa a fost cu toate celelalte: au stăpânit fiecare la vremea ei, și au dispărut."
+        },
+        {
+          "verse": 20,
+          "text": "Și am văzut, și iată, în vremea următoare nu s-au sculat aripile din partea dreaptă, ci din stânga, ca să țină, și au ținut unele dintre ele, și au dispărut îndată."
+        },
+        {
+          "verse": 21,
+          "text": "Și unele dintre ele s-au sculat, dar n-au ținut stăpânirea."
+        },
+        {
+          "verse": 22,
+          "text": "Și după aceasta am privit, și iată, cele douăsprezece aripi au dispărut, și două aripici."
+        },
+        {
+          "verse": 23,
+          "text": "Și n-a rămas la trupul vulturului nimic, decât cele trei capete care odihneau, și șase aripici."
+        },
+        {
+          "verse": 24,
+          "text": "Și am văzut, și iată, din cele șase aripici s-au despărțit două, și au rămas sub capul din dreapta; iar patru au rămas în locul lor."
+        },
+        {
+          "verse": 25,
+          "text": "Și am văzut, și iată, aceste aripici au gândit să se scoale, și să țină."
+        },
+        {
+          "verse": 26,
+          "text": "Și am văzut, și iată, una s-a sculat, dar a dispărut îndată."
+        },
+        {
+          "verse": 27,
+          "text": "Iar a doua a dispărut mai iute decât cea dintâi."
+        },
+        {
+          "verse": 28,
+          "text": "Și am văzut, și iată, cele două care au rămas s-au gândit și ele să stăpânească."
+        },
+        {
+          "verse": 29,
+          "text": "Și când se gândeau, iată, unul dintre capetele care odihneau, cel din mijloc, s-a trezit; iar acesta era cel mai mare dintre capete."
+        },
+        {
+          "verse": 30,
+          "text": "Și am văzut că cele două capete s-au unit cu el."
+        },
+        {
+          "verse": 31,
+          "text": "Și iată, capul s-a întors cu cele ce erau cu el, și a mâncat cele două aripici care gândeau să stăpânească."
+        },
+        {
+          "verse": 32,
+          "text": "Iar capul acesta a înspăimântat tot pământul, și a stăpânit pe cei ce locuiesc pământul cu multă trudă, și a ținut stăpânire mai grea asupra lumii decât toate aripile care au fost."
+        },
+        {
+          "verse": 33,
+          "text": "Și după aceasta am văzut, și iată, capul din mijloc a dispărut deodată, precum au dispărut și aripile."
+        },
+        {
+          "verse": 34,
+          "text": "Și au rămas cele două capete, care s-au sculat și ele, și au stăpânit pământul, și pe cei ce locuiesc pe el."
+        },
+        {
+          "verse": 35,
+          "text": "Și am văzut, și iată, capul din dreapta a mâncat pe cel din stânga."
+        },
+        {
+          "verse": 36,
+          "text": "Și am auzit un glas zicându-mi: Privește înaintea ta, și socotește ce vezi."
+        },
+        {
+          "verse": 37,
+          "text": "Și am văzut, și iată, ca un leu ce se trezea din pădure, urlând, și am auzit cum a scos glas de om către vultur, și a zis:"
+        },
+        {
+          "verse": 38,
+          "text": "Ascultă tu, și îți voi vorbi; Cel Preaînalt îți va zice:"
+        },
+        {
+          "verse": 39,
+          "text": "Nu ești tu cel ce a rămas din cele patru vietăți pe care le-am făcut să stăpânească în veacul Meu, ca prin ele să vină sfârșitul vremilor Mele?"
+        },
+        {
+          "verse": 40,
+          "text": "Și a venit a patra, și a biruit pe toate vietățile care au trecut, și a ținut lumea cu mare groază, și tot veacul cu trudă grea, și a locuit pământul atâta vreme cu viclenie."
+        },
+        {
+          "verse": 41,
+          "text": "Și n-ai judecat pământul cu adevăr."
+        },
+        {
+          "verse": 42,
+          "text": "Căci ai asuprit pe cei blânzi, și ai vătămat pe cei liniștiți; ai urât pe cei drepți, și ai iubit pe mincinoși; ai dărâmat locuințele celor ce aduceau rod, și ai dărâmat zidurile celor ce nu ți-au făcut rău."
+        },
+        {
+          "verse": 43,
+          "text": "Și a suit până la Cel Preaînalt ocara ta, și mândria ta până la Cel Puternic."
+        },
+        {
+          "verse": 44,
+          "text": "Și a privit Cel Preaînalt la vremile Lui, și iată, s-au sfârșit, și veacurile Lui s-au împlinit."
+        },
+        {
+          "verse": 45,
+          "text": "De aceea să dispari tu, vulturule, și aripile tale cele înfricoșate, și aripicile tale cele rele, și capetele tale cele rele, și ghearele tale cele rele, și tot trupul tău cel rău,"
+        },
+        {
+          "verse": 46,
+          "text": "ca să se odihnească tot pământul, slobozit de silnicia ta, și să nădăjduiască judecata și mila Celui ce l-a făcut."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și a fost, când a vorbit leul aceste cuvinte vulturului, am văzut,"
+        },
+        {
+          "verse": 2,
+          "text": "și iată, capul care rămăsese a dispărut, și cele două aripi care treceau la el s-au sculat, și s-au așezat, și împărăția a fost a lor; și stăpânirea lor a fost scurtă și plină de tulburare."
+        },
+        {
+          "verse": 3,
+          "text": "Și am văzut, și iată, ele au dispărut, și tot trupul vulturului a ars, și pământul s-a înspăimântat foarte."
+        },
+        {
+          "verse": 4,
+          "text": "M-am trezit de tulburare și de groază, și de mare teamă, și am zis înțelegerii mele:"
+        },
+        {
+          "verse": 5,
+          "text": "Iată, ai făcut aceasta mie, pentru că cercetezi căile Celui Preaînalt."
+        },
+        {
+          "verse": 6,
+          "text": "Iată, încă sunt slăbit cu sufletul, și foarte slăbit cu duhul, și nici puțină putere nu e în mine, de groaza mare pe care am văzut-o noaptea."
+        },
+        {
+          "verse": 7,
+          "text": "Și acum voi ruga pe Cel Preaînalt să mă întărească până la capăt."
+        },
+        {
+          "verse": 8,
+          "text": "Și am zis: Stăpâne Doamne, dacă am aflat har înaintea Ta, și dacă sunt îndreptățit înaintea Ta mai presus de mulți, și dacă s-a suit cu adevărat rugăciunea mea înaintea Ta,"
+        },
+        {
+          "verse": 9,
+          "text": "întărește-mă, și arată slujitorului Tău tâlcuirea acestei vedenii înfricoșate, ca să mângâi deplin sufletul meu."
+        },
+        {
+          "verse": 10,
+          "text": "Căci Tu m-ai socotit vrednic să-mi arăți vremile de pe urmă."
+        },
+        {
+          "verse": 11,
+          "text": "El a zis: Aceasta e tâlcuirea vedeniei acesteia pe care ai văzut-o."
+        },
+        {
+          "verse": 12,
+          "text": "Vulturul pe care l-ai văzut suindu-se din mare e împărăția a patra, care s-a arătat în vedenie fratelui tău Daniel."
+        },
+        {
+          "verse": 13,
+          "text": "Dar nu i s-a tâlcuit lui, precum ți se tâlcuiește ție acum."
+        },
+        {
+          "verse": 14,
+          "text": "Iată, zilele vin, când se va scula o împărăție pe pământ, și va fi mai de temut decât toate împărățiile care au fost înaintea ei."
+        },
+        {
+          "verse": 15,
+          "text": "În ea vor stăpâni doisprezece regi, unul după altul."
+        },
+        {
+          "verse": 16,
+          "text": "Iar al doilea care va începe să stăpânească va ține vreme mai lungă decât cele douăsprezece."
+        },
+        {
+          "verse": 17,
+          "text": "Aceasta e tâlcuirea celor douăsprezece aripi pe care le-ai văzut."
+        },
+        {
+          "verse": 18,
+          "text": "Iar cât despre glasul pe care l-ai auzit vorbind, care nu ieșea din capetele lui, ci din mijlocul trupului lui, aceasta e tâlcuirea:"
+        },
+        {
+          "verse": 19,
+          "text": "În mijlocul vremii împărăției aceleia se vor scula lupte nu puține, și va fi în primejdie să cadă; dar nu va cădea atunci, ci se va așeza iarăși în stăpânirea ei de la început."
+        },
+        {
+          "verse": 20,
+          "text": "Iar cât despre cele opt aripici slabe, care erau legate de aripi, aceasta e tâlcuirea:"
+        },
+        {
+          "verse": 21,
+          "text": "Se vor scula în ea opt regi, ale căror vremi vor fi scurte și anii grabnici."
+        },
+        {
+          "verse": 22,
+          "text": "Doi dintre ei vor pieri când se va apropia mijlocul vremii."
+        },
+        {
+          "verse": 23,
+          "text": "Patru vor fi păziți până când se va apropia vremea sfârșitului ei; iar doi vor fi păziți până la capăt."
+        },
+        {
+          "verse": 24,
+          "text": "Iar cât despre cele trei capete care odihneau, aceasta e tâlcuirea:"
+        },
+        {
+          "verse": 25,
+          "text": "În zilele de pe urmă ale împărăției se vor scula trei, și vor înnoi multe lucruri în ea, și vor stăpâni pământul,"
+        },
+        {
+          "verse": 26,
+          "text": "și pe cei ce locuiesc pe el, cu mai multă trudă decât toți cei ce au fost înaintea lor. De aceea s-au numit capetele vulturului."
+        },
+        {
+          "verse": 27,
+          "text": "Căci aceștia sunt cei ce vor încununa fărădelegile lui, și vor împlini vremile lui de pe urmă."
+        },
+        {
+          "verse": 28,
+          "text": "Iar cât despre cel mai mare cap, care ai văzut că a dispărut, unul dintre ei va muri pe patul său, dar totuși cu dureri."
+        },
+        {
+          "verse": 29,
+          "text": "Iar cât despre cele două care au rămas, sabia va mânca pe unul."
+        },
+        {
+          "verse": 30,
+          "text": "Iar la capătul lui, și acesta va cădea de sabie."
+        },
+        {
+          "verse": 31,
+          "text": "Iar cât despre leu, pe care l-ai văzut trezindu-se din pădure, și urlând, și vorbind vulturului, și mustrându-l pentru fărădelegile lui, după toate cuvintele pe care le-ai auzit,"
+        },
+        {
+          "verse": 32,
+          "text": "acesta e Cel Uns, pe care l-a păzit Cel Preaînalt până la capătul zilelor, care se va scula din sămânța lui David, și va veni, și va vorbi cu ei."
+        },
+        {
+          "verse": 33,
+          "text": "El va mustra înaintea lor fărădelegile lor cele vii, și le va pune înaintea lor chinurile cu care au fost chinuiți sfinții."
+        },
+        {
+          "verse": 34,
+          "text": "Căci El îi va pune vii la judecată. Iar după ce îi va mustra, atunci îi va nimici."
+        },
+        {
+          "verse": 35,
+          "text": "Iar pe poporul Meu, care a rămas, îl va milui, pe cei ce au fost mântuiți asupra hotarelor Mele, și îi va vesi până va veni capătul, ziua judecății, despre care ți-am vorbit de la început."
+        },
+        {
+          "verse": 36,
+          "text": "Aceasta e vedenia pe care ai văzut-o, și aceasta e tâlcuirea ei."
+        },
+        {
+          "verse": 37,
+          "text": "Tu numai ai fost vrednic să cunoști taina Celui Preaînalt."
+        },
+        {
+          "verse": 38,
+          "text": "Scrie deci toate acestea pe care le-ai văzut într-o carte, și pune-le într-un loc ascuns."
+        },
+        {
+          "verse": 39,
+          "text": "Și le vei învăța pe cei înțelepți din poporul tău, ale căror inimi recunoști că pot să țină și să păzească tainele acestea."
+        },
+        {
+          "verse": 40,
+          "text": "Iar tu rămâi aici încă șapte zile, ca să ți se arate ce îi va plăcea Celui Preaînalt să-ți arate."
+        },
+        {
+          "verse": 41,
+          "text": "Și s-a dus de la mine."
+        },
+        {
+          "verse": 42,
+          "text": "Și a fost, când s-a dus tot poporul, auzind că au trecut cele șapte zile, și eu n-am venit iarăși în cetate, s-au adunat toți, de la cel mai mic până la cel mai mare, și au venit la mine, și au zis:"
+        },
+        {
+          "verse": 43,
+          "text": "Ce ți-am greșit, sau ce rău ți-am făcut, că ne-ai părăsit, și șezi în locul acesta?"
+        },
+        {
+          "verse": 44,
+          "text": "Căci din noi ai rămas numai tu, ca o vază de strugure din vie, și ca o candelă într-un loc întunecos, și ca un liman și o corabie mântuită din furtună."
+        },
+        {
+          "verse": 45,
+          "text": "Oare nu ne sunt de ajuns relele care ni s-au întâmplat? Dacă tu ne părăsești, cât mai bine ar fi fost să fim arși și noi, când a fost ars Sionul."
+        },
+        {
+          "verse": 46,
+          "text": "Căci nu suntem mai buni decât cei ce au murit acolo."
+        },
+        {
+          "verse": 47,
+          "text": "Și au plâns cu glas mare. Am răspuns și am zis:"
+        },
+        {
+          "verse": 48,
+          "text": "Îndrăzniți, Israel, și nu te întrista, casă a lui Iacov."
+        },
+        {
+          "verse": 49,
+          "text": "Căci e pomenirea voastră înaintea Celui Preaînalt, și Cel Puternic nu v-a uitat în veci."
+        },
+        {
+          "verse": 50,
+          "text": "Iar eu nu v-am părăsit, nici nu m-am depărtat de voi, ci am venit în locul acesta ca să mă rog pentru pustiirea Sionului, și să cer milă pentru umilirea slujirii voastre."
+        },
+        {
+          "verse": 51,
+          "text": "Și acum duceți-vă fiecare la casa lui, și eu voi veni la voi după aceste zile."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și a fost după șapte zile, că am visat un vis noaptea."
+        },
+        {
+          "verse": 2,
+          "text": "Și iată, s-a sculat un vânt din mare, ca să tulbure toate valurile ei."
+        },
+        {
+          "verse": 3,
+          "text": "Și am văzut, și iată, vântul acela a scos din inima mării ca înfățișarea unui om. Și am văzut, și iată, omul acela zbura cu norii cerului."
+        },
+        {
+          "verse": 4,
+          "text": "Și unde își întorcea fața să privească, se cutremurau toate cele văzute de el."
+        },
+        {
+          "verse": 5,
+          "text": "Și oriunde ieșea glasul gurii lui, se topeau toți cei ce auzeau glasul lui, precum se topește ceara când simte focul."
+        },
+        {
+          "verse": 6,
+          "text": "Și după aceasta am văzut, și iată, s-a adunat o mulțime de oameni, dintre care nu era număr, din cele patru vânturi ale cerului, să se lupte cu omul care se sculase din mare."
+        },
+        {
+          "verse": 7,
+          "text": "Și am văzut, și iată, el și-a săpat un munte mare, și a zburat asupra lui."
+        },
+        {
+          "verse": 8,
+          "text": "Iar eu am năzuit să văd ținutul, sau locul de unde era săpat muntele, și n-am putut."
+        },
+        {
+          "verse": 9,
+          "text": "După aceasta am văzut că toți cei ce se adunaseră să se lupte cu el s-au înspăimântat foarte, și totuși îndrăzneau să se lupte."
+        },
+        {
+          "verse": 10,
+          "text": "Și iată, când a văzut năvala mulțimii care venea, n-a ridicat mâna, nici n-a ținut sabie, nici vreo unealtă de război,"
+        },
+        {
+          "verse": 11,
+          "text": "ci am văzut numai cum a scos din gura lui ca un val de foc, și din buzele lui un duh de flacără, și din limba lui a aruncat scântei de furtună. Și s-au amestecat toate, valul de foc, și duhul de flacără, și mulțimea cea mare de furtună."
+        },
+        {
+          "verse": 12,
+          "text": "Și a căzut cu vuiet asupra năvalei care era gata să se lupte, și a ars pe toți, încât deodată n-a mai rămas din mulțimea nenumărată decât pulberea cenușii și mirosul fumului. Am văzut, și m-am înspăimântat."
+        },
+        {
+          "verse": 13,
+          "text": "Și după aceasta am văzut pe omul acela coborând de pe munte, și chemând la sine o altă mulțime, pașnică."
+        },
+        {
+          "verse": 14,
+          "text": "Și s-au apropiat de el chipuri de mulți oameni, unii bucuroși, unii mâhniți; unii legați, unii aducând pe unii dintre cei ce erau aduși."
+        },
+        {
+          "verse": 15,
+          "text": "Iar eu de la slăbiciune am slăbit, și m-am trezit, și m-am rugat Celui Preaînalt, și am zis:"
+        },
+        {
+          "verse": 16,
+          "text": "De la început ai arătat slujitorului Tău aceste minuni, și m-ai socotit vrednic să primească rugăciunea mea."
+        },
+        {
+          "verse": 17,
+          "text": "Arată-mi acum și tâlcuirea acestui vis."
+        },
+        {
+          "verse": 18,
+          "text": "Căci precum socotesc în înțelegerea mea, vai celor ce vor rămâne în zilele acelea, și mult mai mult celor ce nu vor rămâne."
+        },
+        {
+          "verse": 19,
+          "text": "Căci cei ce nu vor rămâne vor fi mâhniți,"
+        },
+        {
+          "verse": 20,
+          "text": "înțelegând cele ce sunt puse în zilele acelea, și asupra celor ce rămân. Căci va veni asupra lor primejdie mare, precum înțelegi din visul acesta."
+        },
+        {
+          "verse": 21,
+          "text": "Și totuși e mai bine să ajungi în primejdii acestea și să vezi, decât să treci din lume ca un nor, și să nu vezi cele ce se vor întâmpla în zilele de pe urmă."
+        },
+        {
+          "verse": 22,
+          "text": "Am răspuns și am zis: Voi vorbi înaintea Ta, Stăpâne."
+        },
+        {
+          "verse": 23,
+          "text": "Căci iată, Tu ai arătat slujitorului Tău că vei primi la capăt pe cel ce e păzit."
+        },
+        {
+          "verse": 24,
+          "text": "Ce vor face deci cei ce au fost înaintea mea, sau noi, sau cei de după noi?"
+        },
+        {
+          "verse": 25,
+          "text": "El a zis: Voi sluji și tâlcuirea visului, și îți voi deschide cele ce ai cerut."
+        },
+        {
+          "verse": 26,
+          "text": "Iar cât despre cele ce ai zis despre cei ce au rămas, aceasta e tâlcuirea:"
+        },
+        {
+          "verse": 27,
+          "text": "Cel ce aduce primejdia în vremea aceea, el va păzi pe cei ce cad în primejdie, care au fapte și credință către Cel Puternic."
+        },
+        {
+          "verse": 28,
+          "text": "Să știi deci că cei ce au rămas sunt mai fericiți decât cei morți."
+        },
+        {
+          "verse": 29,
+          "text": "Aceasta e tâlcuirea vedeniei:"
+        },
+        {
+          "verse": 30,
+          "text": "Iar cât despre omul care s-a sculat din inimă a mării,"
+        },
+        {
+          "verse": 31,
+          "text": "acesta e cel pe care îl păzește Cel Preaînalt vreme îndelungată, care prin el însuși va izbăvi făptura Sa. El e cel care va rândui pe cei ce au rămas."
+        },
+        {
+          "verse": 32,
+          "text": "Și va zice: Iată, zilele vin când Cel Preaînalt va începe să izbăvească pe cei ce sunt pe pământ."
+        },
+        {
+          "verse": 33,
+          "text": "Și va veni uimire de minte asupra celor ce locuiesc pământul."
+        },
+        {
+          "verse": 34,
+          "text": "Și vor năzui să se războiască unul cu altul, cetate cu cetate, loc cu loc, popor cu popor, și împărăție cu împărăție."
+        },
+        {
+          "verse": 35,
+          "text": "Și va fi, când se vor întâmpla acestea, și se vor întâmpla semnele pe care ți le-am arătat mai înainte, atunci se va arăta Fiul Meu, pe care l-ai văzut ca un om suindu-se."
+        },
+        {
+          "verse": 36,
+          "text": "Și va fi, când vor auzi toate neamurile glasul Lui, va lăsa fiecare războiul său, pe care-l au între ele."
+        },
+        {
+          "verse": 37,
+          "text": "Și se va aduna o mulțime de nenumărat, precum ai văzut, vrând să vină și să se lupte cu El."
+        },
+        {
+          "verse": 38,
+          "text": "El va sta pe vârful muntelui Sion."
+        },
+        {
+          "verse": 39,
+          "text": "Iar Sionul va veni, și se va arăta tuturor pregătit și zidit, precum ai văzut muntele săpat fără mâini."
+        },
+        {
+          "verse": 40,
+          "text": "Iar El, Fiul Meu, va mustra neamurile care s-au adunat pentru nelegiuirile lor, care sunt asemănate furtunii,"
+        },
+        {
+          "verse": 41,
+          "text": "și le va pune înainte faptele lor cele rele, și caznele cu care au început să fie chinuiți."
+        },
+        {
+          "verse": 42,
+          "text": "El îi va nimici fără osteneală, prin legea care e asemănată focului."
+        },
+        {
+          "verse": 43,
+          "text": "Iar cât despre cealaltă mulțime pașnică pe care ai văzut-o adunându-se,"
+        },
+        {
+          "verse": 44,
+          "text": "aceștia sunt cele zece seminții, care au fost duse robi din țara lor în zilele regelui Osea, pe care le-a dus Salmanasar, regele asirienilor, și i-a dus dincolo de râu; și au fost duși într-o altă țară."
+        },
+        {
+          "verse": 45,
+          "text": "Iar ei și-au făcut sfat, să-și lase mulțimea neamurilor, și să se ducă într-un ținut mai depărtat, unde niciodată n-a locuit neamul omenesc,"
+        },
+        {
+          "verse": 46,
+          "text": "ca acolo să păzească rânduielile lor, pe care nu le păziseră în țara lor."
+        },
+        {
+          "verse": 47,
+          "text": "Și au intrat prin intrările strâmte ale Eufratului."
+        },
+        {
+          "verse": 48,
+          "text": "Căci atunci Cel Preaînalt le-a făcut semne, și a oprit izvoarele râului, până au trecut."
+        },
+        {
+          "verse": 49,
+          "text": "Căci prin ținutul acela a fost o cale lungă, de un an și jumătate. Și ținutul acela se cheamă Arzaret."
+        },
+        {
+          "verse": 50,
+          "text": "Atunci au locuit acolo până în vremile de pe urmă. Și acum, când vor începe să vină iarăși,"
+        },
+        {
+          "verse": 51,
+          "text": "Cel Preaînalt va opri iarăși izvoarele râului, ca să poată trece. De aceea ai văzut mulțimea adunată în pace."
+        },
+        {
+          "verse": 52,
+          "text": "Dar cei ce au fost lăsați din poporul tău, care se găsesc în hotarele Mele sfinte, vor fi mântuiți."
+        },
+        {
+          "verse": 53,
+          "text": "Când va începe să nimicească mulțimea neamurilor care s-au adunat, El va ocroti poporul care a rămas."
+        },
+        {
+          "verse": 54,
+          "text": "Și apoi le va arăta multe minuni."
+        },
+        {
+          "verse": 55,
+          "text": "Am zis: Stăpâne Doamne, arată-mi aceasta: pentru ce am văzut omul suindu-se din inima mării?"
+        },
+        {
+          "verse": 56,
+          "text": "El a zis: Precum nu poate nimeni să cerceteze, nici să cunoască ce e în adâncul mării, tot așa nu poate nimeni dintre cei de pe pământ să vadă pe Fiul Meu, sau pe cei ce sunt cu El, decât în vremea zilei Lui."
+        },
+        {
+          "verse": 57,
+          "text": "Aceasta e tâlcuirea visului pe care l-ai văzut. De aceea numai tu ai fost luminat despre acestea."
+        },
+        {
+          "verse": 58,
+          "text": "Căci ai părăsit ale tale, și te-ai îndeletnicit cu ale Mele, și ai cercetat legea Mea."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și a fost a treia zi, și eram șezând sub un stejar,"
+        },
+        {
+          "verse": 2,
+          "text": "și iată, un glas a ieșit dintr-un rug înaintea mea, și a zis: Ezdra, Ezdra."
+        },
+        {
+          "verse": 3,
+          "text": "Am zis: Iată-mă, Doamne. Și m-am sculat pe picioare. El a zis:"
+        },
+        {
+          "verse": 4,
+          "text": "Eu M-am descoperit pe Mine însumi din rug, și am vorbit lui Moise, când poporul Meu slujea în Egipt,"
+        },
+        {
+          "verse": 5,
+          "text": "și l-am trimis, și am scos poporul Meu din Egipt, și l-am adus la muntele Sinai, și l-am ținut la Mine multe zile."
+        },
+        {
+          "verse": 6,
+          "text": "Și i-am spus multe minuni, și i-am arătat tainele vremilor, și capătul vremilor, și i-am poruncit, zicând:"
+        },
+        {
+          "verse": 7,
+          "text": "Aceste cuvinte vei face arătate, și acestea vei ascunde."
+        },
+        {
+          "verse": 8,
+          "text": "Și acum îți zic: Semnele pe care ți le-am arătat, și visurile pe care le-ai văzut, și tâlcuirile pe care le-ai auzit, pune-le în inima ta."
+        },
+        {
+          "verse": 9,
+          "text": "Căci tu vei fi luat dintre oameni, și de acum vei rămâne cu Fiul Meu, și cu cei asemenea ție, până se vor sfârși vremile."
+        },
+        {
+          "verse": 10,
+          "text": "Căci veacul și-a pierdut tinerețea, și vremile încep să îmbătrânească."
+        },
+        {
+          "verse": 11,
+          "text": "Căci veacul e împărțit în douăsprezece părți, și nouă părți ale lui au trecut deja, și jumătate din a zecea,"
+        },
+        {
+          "verse": 12,
+          "text": "și au rămas din el două după jumătate din a zecea."
+        },
+        {
+          "verse": 13,
+          "text": "Acum deci pune în rânduială casa ta, și mustră poporul tău; mângâie pe cei smeriți dintre ei, și leapădă de la tine viața stricăcioasă."
+        },
+        {
+          "verse": 14,
+          "text": "Și lasă de la tine cugetele muritoare; leapădă de la tine poverile omenești, și dezbracă slăbiciunea firii,"
+        },
+        {
+          "verse": 15,
+          "text": "și pune deoparte cugetele cele mai grele, și grăbește-te să te muți din vremile acestea."
+        },
+        {
+          "verse": 16,
+          "text": "Căci mai grele decât cele ce ai văzut acum vor veni să se întâmple."
+        },
+        {
+          "verse": 17,
+          "text": "Căci cât de slăbit e veacul de bătrânețe, cu atât mai mult se vor înmulți relele asupra celor ce locuiesc."
+        },
+        {
+          "verse": 18,
+          "text": "Căci adevărul s-a depărtat, și minciuna s-a apropiat. Căci vulturul pe care l-ai văzut în vedenie se grăbește să vină."
+        },
+        {
+          "verse": 19,
+          "text": "Am răspuns și am zis: Lasă-mă să vorbesc înaintea Ta, Doamne."
+        },
+        {
+          "verse": 20,
+          "text": "Iată, eu voi merge, precum mi-ai poruncit, și voi mustra poporul care e de față. Dar cei ce se vor naște după, cine îi va mustra?"
+        },
+        {
+          "verse": 21,
+          "text": "Căci lumea e așezată în întuneric, și cei ce locuiesc sunt fără lumină."
+        },
+        {
+          "verse": 22,
+          "text": "Căci legea Ta e arsă; de aceea nimeni nu cunoaște cele ce au fost făcute de Tine, sau lucrările care vor începe."
+        },
+        {
+          "verse": 23,
+          "text": "Căci dacă am aflat har înaintea Ta, trimite în mine Duhul Sfânt, și voi scrie tot ce s-a făcut în lume de la început, cele ce au fost scrise în legea Ta, ca oamenii să poată găsi cărarea, și cei ce vor vrea să trăiască în zilele de pe urmă să trăiască."
+        },
+        {
+          "verse": 24,
+          "text": "El a răspuns și a zis: Du-te, adună poporul, și zi-le să nu te caute patruzeci de zile."
+        },
+        {
+          "verse": 25,
+          "text": "Iar tu pregătește-ți multe tăblițe, și ia cu tine pe Sarea, Dabria, Selemia, Ecan și Asiel, acești cinci, care sunt gata să scrie iute."
+        },
+        {
+          "verse": 26,
+          "text": "Și vino aici, și voi aprinde în inima ta lampa înțelegerii, care nu se va stinge până nu se vor isprăvi cele ce vei începe să scrii."
+        },
+        {
+          "verse": 27,
+          "text": "Și când vei isprăvi, pe unele le vei sluji, iar pe altele le vei da celor înțelepți în taină."
+        },
+        {
+          "verse": 28,
+          "text": "Căci mâine, la ceasul acesta, vei începe să scrii."
+        },
+        {
+          "verse": 29,
+          "text": "M-am dus, precum mi-a poruncit, și am adunat tot poporul, și am zis:"
+        },
+        {
+          "verse": 30,
+          "text": "Ascultați aceste cuvinte, Israel."
+        },
+        {
+          "verse": 31,
+          "text": "Părinții noștri au fost de la început străini în Egipt, și au fost izbăviți de acolo."
+        },
+        {
+          "verse": 32,
+          "text": "Și au primit legea vieții, pe care n-au păzit-o, pe care ați călcat-o și voi după ei."
+        },
+        {
+          "verse": 33,
+          "text": "Și vi s-a dat țara spre moștenire în țara Sionului. Voi și părinții voștri ați făcut fărădelege, și n-ați păzit căile pe care v-a poruncit Cel Preaînalt."
+        },
+        {
+          "verse": 34,
+          "text": "Și, fiind judecător drept, v-a luat la vreme ce v-a dat."
+        },
+        {
+          "verse": 35,
+          "text": "Și acum sunteți aici, și frații voștri sunt între voi."
+        },
+        {
+          "verse": 36,
+          "text": "Dacă deci veți stăpâni slujba voastră, și vă veți disciplina, veți fi păziți în viață, și după moarte veți dobândi milă."
+        },
+        {
+          "verse": 37,
+          "text": "Căci va veni judecata după moarte, când vom învia iarăși; și atunci se vor arăta numele drepților, și se vor arăta faptele nelegiuiților."
+        },
+        {
+          "verse": 38,
+          "text": "Nimeni să nu se apropie de mine acum, nici să nu mă caute patruzeci de zile."
+        },
+        {
+          "verse": 39,
+          "text": "Am luat pe cei cinci bărbați, precum mi-a poruncit, și ne-am dus în câmp, și am rămas acolo."
+        },
+        {
+          "verse": 40,
+          "text": "Și a fost a doua zi, și iată, un glas m-a chemat, zicând: Ezdra, deschide-ți gura, și bea ce-ți dau să bei."
+        },
+        {
+          "verse": 41,
+          "text": "Am deschis gura, și iată, mi s-a dat un potir plin, care era plin ca de apă, dar culoarea lui era ca de foc."
+        },
+        {
+          "verse": 42,
+          "text": "Am luat, și am băut. Și când am băut, inima mea a izvorât înțelegere, și pieptul meu a țâșnit înțelepciune, și duhul meu a ținut ținerea."
+        },
+        {
+          "verse": 43,
+          "text": "Și gura mea s-a deschis, și n-a mai fost închisă."
+        },
+        {
+          "verse": 44,
+          "text": "Cel Preaînalt a dat înțelegere celor cinci bărbați, și au scris cele spuse, în rânduială de semne pe care nu le cunoșteau. Și am șezut patruzeci de zile. Ei scriau ziua,"
+        },
+        {
+          "verse": 45,
+          "text": "iar noaptea mâncau pâine. Iar eu vorbeam ziua, și noaptea nu tăceam."
+        },
+        {
+          "verse": 46,
+          "text": "S-au scris în cele patruzeci de zile nouăzeci și patru de cărți."
+        },
+        {
+          "verse": 47,
+          "text": "Și a fost, când s-au isprăvit cele patruzeci de zile, Cel Preaînalt a vorbit, zicând: Cele dintâi pe care le-ai scris le slujește în văzul tuturor; să le citească cei vrednici și cei nevrednici."
+        },
+        {
+          "verse": 48,
+          "text": "Iar cele șaptezeci de pe urmă le vei păzi, ca să le dai celor înțelepți din poporul tău."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iată, vorbește în urechile poporului Meu cuvintele proorociei pe care ți le voi pune în gură, zice Domnul."
+        },
+        {
+          "verse": 2,
+          "text": "Și fă ca să fie scrise pe hârtie, pentru că sunt credincioase și adevărate."
+        },
+        {
+          "verse": 3,
+          "text": "Nu te teme de uneltirile împotriva ta, și să nu te tulbure necredința celor ce vorbesc împotriva ta."
+        },
+        {
+          "verse": 4,
+          "text": "Căci tot necredinciosul va muri în necredința lui."
+        },
+        {
+          "verse": 5,
+          "text": "Iată, zice Domnul, aduc rele asupra lumii, sabie, foamete, moarte și pieire,"
+        },
+        {
+          "verse": 6,
+          "text": "pentru că nelegiuirea a covârșit tot pământul, și lucrările lor sunt pline de sânge."
+        },
+        {
+          "verse": 7,
+          "text": "Precum au făcut nedreptate sfinților Mei, așa va face Dumnezeu păcatelor lor, zice Domnul."
+        },
+        {
+          "verse": 8,
+          "text": "Iată, Domnul meu cunoaște toate uneltirile lor, și sângele nevinovat pe care l-au vărsat, strigă către Mine neîncetat."
+        },
+        {
+          "verse": 9,
+          "text": "De aceea, iată, Domnul va izbăvi pe tot poporul Său, și va cere înaintea lor sângele nevinovat."
+        },
+        {
+          "verse": 10,
+          "text": "Iată, poporul Meu e dus ca o turmă la junghiere. Nu voi mai suferi să locuiască în țara Egiptului."
+        },
+        {
+          "verse": 11,
+          "text": "Ci îi voi scoate cu mână tare și cu braț întins, și voi lovi Egiptul cu bătăi, precum mai înainte, și le voi pierde tot pământul."
+        },
+        {
+          "verse": 12,
+          "text": "Se va tângui Egiptul, și temeliile lui, lovit de bătaia și de pedeapsa pe care o va aduce Domnul."
+        },
+        {
+          "verse": 13,
+          "text": "Se vor tângui semănătorii care seamănă asupra pământului, pentru că semințele lor se vor usca de vântul de uscăciune și de grindină groaznică."
+        },
+        {
+          "verse": 14,
+          "text": "Vai lumii și celor ce locuiesc în ea."
+        },
+        {
+          "verse": 15,
+          "text": "Căci sabia și pieirea se apropie, și un neam se va scula să se lupte cu altul, cu săbii în mâini."
+        },
+        {
+          "verse": 16,
+          "text": "Căci va fi răzvrătire între oameni; vor fi fără evlavie unii față de alții; vor jefui și vor prăda, nesocotind pe regele și pe cel de seamă al lor."
+        },
+        {
+          "verse": 17,
+          "text": "Căci un om va pofti să intre în cetate, și nu va putea."
+        },
+        {
+          "verse": 18,
+          "text": "Pentru că, din pricina mândriei lor, vor fi cetățile tulburate, casele alungate, oamenii se vor teme."
+        },
+        {
+          "verse": 19,
+          "text": "Omul nu se va milostivi de aproapele său, ci își vor năvăli casele cu sabie, să jefuiască bunurile lor, din pricina foametei pâinii, și a necazului mare."
+        },
+        {
+          "verse": 20,
+          "text": "Iată, zice Dumnezeu, chem laolaltă pe toți regii pământului, să se teamă, de la miazăzi, și de la miazănoapte, și de la răsărit, și de la Liban,"
+        },
+        {
+          "verse": 21,
+          "text": "să se întoarcă, și să-și răsplătească cele ce le-au făcut. Precum fac până astăzi slujitorilor Mei,"
+        },
+        {
+          "verse": 22,
+          "text": "așa va face Dumnezeu: îi va da plată. Așa zice Domnul Dumnezeu:"
+        },
+        {
+          "verse": 23,
+          "text": "Nu va înceta dreapta Mea de a lovi, până nu vor sătura sabia de sânge."
+        },
+        {
+          "verse": 24,
+          "text": "Și focul va mânca de la carne, și sângele de la pământ."
+        },
+        {
+          "verse": 25,
+          "text": "Va pieri totul, din sânge și din nedreptate."
+        },
+        {
+          "verse": 26,
+          "text": "Vai ție, Babilon și Asia. Vai ție, Egipt și Sirie."
+        },
+        {
+          "verse": 27,
+          "text": "Încinge-vă cu sac și pânză de păr, și plângeți-vă fiii, și vă tânguiți, căci aproape e pieirea voastră."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Vai ție, Babilon și Asia. Vai ție, Egipt și Sirie."
+        },
+        {
+          "verse": 2,
+          "text": "Încinge-vă cu sac, și plângeți-vă fiii, căci aproape e pieirea."
+        },
+        {
+          "verse": 3,
+          "text": "S-a trimis sabie asupra voastră, și cine o va întoarce?"
+        },
+        {
+          "verse": 4,
+          "text": "S-a trimis foc asupra voastră, și cine îl va stinge?"
+        },
+        {
+          "verse": 5,
+          "text": "S-au trimis rele asupra voastră, și cine le va întoarce?"
+        },
+        {
+          "verse": 6,
+          "text": "Poate cineva să întoarcă pe cel puternic de la bătaia lui, sau să stingă focul când a ieșit din cuptor, ca să nu ardă?"
+        },
+        {
+          "verse": 7,
+          "text": "Poate cineva să întoarcă săgeata slobozită de un arcaș tare?"
+        },
+        {
+          "verse": 8,
+          "text": "Domnul Dumnezeu trimite rele, și cine le va întoarce?"
+        },
+        {
+          "verse": 9,
+          "text": "A ieșit foc din mânia Lui, și cine îl va stinge?"
+        },
+        {
+          "verse": 10,
+          "text": "Va fulgera, cine nu se va teme? Va tuna, cine nu se va înspăimânta?"
+        },
+        {
+          "verse": 11,
+          "text": "Domnul va mustra, cine nu se va topi de fața Lui?"
+        },
+        {
+          "verse": 12,
+          "text": "Pământul și temeliile lui se clatină; marea se valurează din adânc; valurile lui și peștii se tulbură de fața Domnului, și de slava puterii Lui."
+        },
+        {
+          "verse": 13,
+          "text": "Căci mâna Lui cea tare, care ține arcul, a slobozit săgeata ascuțită, care e trimisă de la El; nu se va întoarce până nu se va înfige în pământ."
+        },
+        {
+          "verse": 14,
+          "text": "Iată, se trimit rele, și nu se vor întoarce până nu vin asupra pământului."
+        },
+        {
+          "verse": 15,
+          "text": "Focul s-a aprins, și nu se va stinge până nu arde temeliile pământului."
+        },
+        {
+          "verse": 16,
+          "text": "Precum o săgeată slobozită de un arcaș tare nu se întoarce, tot așa nu se vor întoarce relele care vor fi trimise asupra pământului."
+        },
+        {
+          "verse": 17,
+          "text": "Vai mie, vai mie. Cine mă va izbăvi în zilele acelea?"
+        },
+        {
+          "verse": 18,
+          "text": "Începutul gemetelor, și multe suspine; începutul foametei, și mulți vor pieri; începutul războaielor, și puterile se vor teme; începutul relelor, și toți vor tremura."
+        },
+        {
+          "verse": 19,
+          "text": "Ce vor face când vor veni relele?"
+        },
+        {
+          "verse": 20,
+          "text": "Iată, foamete și bătaie, necaz și strâmtorare sunt trimise ca bice, pentru îndreptare."
+        },
+        {
+          "verse": 21,
+          "text": "Și totuși în toate acestea nu se vor întoarce de la fărădelegile lor, nici nu-și vor aduce aminte de bice."
+        },
+        {
+          "verse": 22,
+          "text": "Iată, vor fi ieftinătăți pe pământ, încât să-și închipuie că li se dă pace. Atunci se vor scula relele pe pământ, sabie, foamete."
+        },
+        {
+          "verse": 23,
+          "text": "Căci un neam se va răscula asupra altui neam, și sabia în mâinile lor."
+        },
+        {
+          "verse": 24,
+          "text": "Căci vor fi oameni fără evlavie, și vor prăda."
+        },
+        {
+          "verse": 25,
+          "text": "Căci foametea și sabia vor veni asupra lor, și moartea."
+        },
+        {
+          "verse": 26,
+          "text": "Căci cei ce slujesc Domnului, durerile lor s-au împlinit, și sunt păziți de primejdie."
+        },
+        {
+          "verse": 27,
+          "text": "Iată, Domnul izbăvește pe cei ce slujesc, și în zilele necazului și strâmtorării vă va izbăvi."
+        },
+        {
+          "verse": 28,
+          "text": "Fiți încrezători, rămâneți în slujba Domnului."
+        },
+        {
+          "verse": 29,
+          "text": "Fraților, nu slăbiți în zilele necazului și strâmtorării."
+        },
+        {
+          "verse": 30,
+          "text": "Căci va veni Dumnezeu, Care izbăvește, și vă va izbăvi de toată tulburarea."
+        },
+        {
+          "verse": 31,
+          "text": "Mergeți, nu vă temeți; credeți, și veți fi mântuiți."
+        },
+        {
+          "verse": 32,
+          "text": "Vai celor ce sunt legați cu păcatele lor, și acoperiți cu fărădelegile lor."
+        },
+        {
+          "verse": 33,
+          "text": "Vai celor ce calcă poruncile Domnului."
+        },
+        {
+          "verse": 34,
+          "text": "Vai celor ce își acopăr păcatele, și fărădelegile."
+        },
+        {
+          "verse": 35,
+          "text": "Nu vă acoperiți păcatele, nici fărădelegile. Căci Dumnezeu e judecător."
+        },
+        {
+          "verse": 36,
+          "text": "Temeți-vă de El, și nu păcătuiți împotriva Lui."
+        },
+        {
+          "verse": 37,
+          "text": "Căci dacă nu-I slujiți, El vă va da pieire și moarte."
+        },
+        {
+          "verse": 38,
+          "text": "Căci judecata e aproape, și nu va întârzia."
+        },
+        {
+          "verse": 39,
+          "text": "Pregătiți-vă deci, ca să primiți răsplata."
+        },
+        {
+          "verse": 40,
+          "text": "Iată, Domnul e aproape, și judecata Lui nu va întârzia."
+        },
+        {
+          "verse": 41,
+          "text": "Să nu slăbească inima voastră, nici să nu vă temeți."
+        },
+        {
+          "verse": 42,
+          "text": "Căci iată, Domnul va veni, și toți sfinții Lui cu El."
+        },
+        {
+          "verse": 43,
+          "text": "Căci va cerceta lumea, și va răsplăti tuturor după faptele lor."
+        },
+        {
+          "verse": 44,
+          "text": "Nu vă temeți, nici nu slăbiți. Căci Dumnezeu e judecătorul vostru."
+        },
+        {
+          "verse": 45,
+          "text": "El e credincios, și nu va uita osteneala voastră."
+        },
+        {
+          "verse": 46,
+          "text": "Căci El e milostiv, și El e îndelung-răbdător."
+        },
+        {
+          "verse": 47,
+          "text": "El e Cel ce izbăvește, și El e nădejdea voastră."
+        },
+        {
+          "verse": 48,
+          "text": "Slujiți-I deci, și veți trăi."
+        },
+        {
+          "verse": 49,
+          "text": "Căci slava Lui e în veci. Amin."
+        }
+      ]
+    }
+  ]
+}
