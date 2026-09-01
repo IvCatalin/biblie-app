@@ -1,0 +1,39 @@
+{
+  "translation": "Faptele lui Petru – adaptare după M. R. James",
+  "source": "M. R. James, The Apocryphal New Testament, 1924 (Actus Vercellenses)",
+  "source_status": "Public Domain",
+  "modernization": "Traducere și adaptare în română",
+  "book": "Faptele lui Petru",
+  "bookSlug": "faptele-petru",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pe când Pavel era la Roma, întărind pe frați, i s-a arătat Domnul, zicând: Pavel, scoală, și fii slujitor în Spania."
+        },
+        {
+          "verse": 2,
+          "text": "Frații s-au mâhnit. El i-a mângâiat, a frânt pâinea, și a plecat."
+        },
+        {
+          "verse": 3,
+          "text": "Mulți au plâns, socotind că nu-l vor mai vedea."
+        },
+        {
+          "verse": 4,
+          "text": "Chiar Marcellus, senatorul care adăpostea pe sfinți, a primit pe Simon în casă."
+        },
+        {
+          "verse": 5,
+          "text": "Statuia s-a făcut întreagă. Marcellus a crezut și mai tare."
+        },
+        {
+          "verse": 6,
+          "text": "A fost dus în Aricia, și a murit acolo."
+        }
+      ]
+    }
+  ]
+}

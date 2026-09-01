@@ -1,0 +1,363 @@
+{
+  "translation": "Apocalipsa lui Petru – adaptare după M. R. James",
+  "source": "M. R. James, The Apocryphal New Testament, 1924 (text etiopian + fragment Akhmim)",
+  "source_status": "Public Domain",
+  "modernization": "Traducere și adaptare în română",
+  "book": "Apocalipsa lui Petru",
+  "bookSlug": "apocalipsa-petru",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și, pe când ședea pe Muntele Măslinilor, au venit la El ucenicii, și I-au cerut să le arate semnele venirii Sale și ale sfârșitului lumii."
+        },
+        {
+          "verse": 2,
+          "text": "El le-a răspuns, zicând: Luați aminte, ca nimeni să nu vă înșele."
+        },
+        {
+          "verse": 3,
+          "text": "Mulți vor veni în numele Meu, zicând: Eu sunt Hristosul. Nu-i credeți."
+        },
+        {
+          "verse": 4,
+          "text": "Când va veni Fiul Omului, va fi ca un fulger care iese de la răsărit și se arată până la apus."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Luați pildă de la smochin. Când mlădița se înmoaie, și dă frunze, știți că e aproape vara."
+        },
+        {
+          "verse": 2,
+          "text": "Așa și voi, când veți vedea acestea, să știți că e aproape."
+        },
+        {
+          "verse": 3,
+          "text": "Smochinul e casa lui Israel. Când vor ieși din el mlădițe mincinoase, va veni sfârșitul."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Petru a zis: Doamne, dă-mi voie să vorbesc."
+        },
+        {
+          "verse": 2,
+          "text": "Tu ne-ai zis: Să nu judecăm, ca să nu fim judecați."
+        },
+        {
+          "verse": 3,
+          "text": "Cum vor fi deci osândiți păcătoșii, dacă milostivirea Ta e mare?"
+        },
+        {
+          "verse": 4,
+          "text": "Domnul a zis: Ai auzit milostivirea. Vei auzi și judecata."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Voi porunci fiarelor și păsărilor să dea înapoi tot trupul pe care l-au mâncat."
+        },
+        {
+          "verse": 2,
+          "text": "Căci nimic nu piere la Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Pământul va da înapoi tot ce e al lui."
+        },
+        {
+          "verse": 4,
+          "text": "Fiecare se va scula în trupul său, ca să fie judecat."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Un foc care nu se stinge va curge, și va aprinde toată lumea."
+        },
+        {
+          "verse": 2,
+          "text": "Apele se vor preface în cărbuni."
+        },
+        {
+          "verse": 3,
+          "text": "Stelele vor cădea ca frunzele."
+        },
+        {
+          "verse": 4,
+          "text": "Cerul se va rula ca un sul."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Atunci va veni Fiul Meu, Iisus, în slavă."
+        },
+        {
+          "verse": 2,
+          "text": "Cununa va fi pe capul Lui, ca a soarelui."
+        },
+        {
+          "verse": 3,
+          "text": "Toți îngerii vor merge cu El."
+        },
+        {
+          "verse": 4,
+          "text": "Tronul Meu va fi așezat, și cărțile se vor deschide."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Am văzut un loc foarte întunecos."
+        },
+        {
+          "verse": 2,
+          "text": "Copiii născuți morți și pruncii avortați stăteau într-un loc de odihnă, și se rugau pentru părinții lor."
+        },
+        {
+          "verse": 3,
+          "text": "Cei ce ocărăsc calea dreptății erau atârnați de limbă, deasupra unui foc."
+        },
+        {
+          "verse": 4,
+          "text": "Noroiul era până la genunchi."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Am văzut o altă groapă, și femei stând până la gât în sânge."
+        },
+        {
+          "verse": 2,
+          "text": "În fața lor ședeau copiii lor, plângând."
+        },
+        {
+          "verse": 3,
+          "text": "Raze de foc ieșeau din copii, și loveau ochii mamelor."
+        },
+        {
+          "verse": 4,
+          "text": "Acestea sunt cele ce și-au lepădat pruncii."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Alții erau arși, întorcându-se, și viermele nu murea."
+        },
+        {
+          "verse": 2,
+          "text": "Aceștia sunt cei ce au prigonit pe drepți, și i-au dat morții."
+        },
+        {
+          "verse": 3,
+          "text": "Femei și bărbați atârnați de păr deasupra unui mocirlă clocotind."
+        },
+        {
+          "verse": 4,
+          "text": "Aceștia sunt cei ce s-au împodobit pentru desfrâu, și au părăsit pe soți."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Am văzut pe alții stând într-un lac de noroi clocotind, până la genunchi."
+        },
+        {
+          "verse": 2,
+          "text": "Aceștia sunt cei ce au dat bani cu camătă."
+        },
+        {
+          "verse": 3,
+          "text": "Alții, mușcați de fiare, fugeau; fiarele îi ajungeau iarăși."
+        },
+        {
+          "verse": 4,
+          "text": "Aceștia sunt cei ce au slujit idolilor, și au părăsit pe Dumnezeu."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Alții, buzele tăiate, foc ieșind din gură."
+        },
+        {
+          "verse": 2,
+          "text": "Aceștia sunt martorii mincinoși."
+        },
+        {
+          "verse": 3,
+          "text": "Alții, îmbrăcați în zdrențe de smoală, se rostogoleau pe pietre ascuțite."
+        },
+        {
+          "verse": 4,
+          "text": "Aceștia sunt cei ce au păcătuit cu bărbați ca și cu femei."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Am văzut copii, unii împotriva altora, bătuți de îngeri de foc."
+        },
+        {
+          "verse": 2,
+          "text": "Aceștia sunt cei ce n-au cinstit pe tată și pe mamă."
+        },
+        {
+          "verse": 3,
+          "text": "Fetele care nu și-au păzit fecioria înainte de nuntă erau înfășurate în haine întunecate, și pedepsite."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Am auzit pe toți cei osândiți strigând: Miluiește-ne, Fiul lui Dumnezeu."
+        },
+        {
+          "verse": 2,
+          "text": "Îngerul Tatirothel, care e peste osândă, a zis: Acum ați aflat că drept e judecata lui Dumnezeu."
+        },
+        {
+          "verse": 3,
+          "text": "Nu v-ați pocăit cât era vremea."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Domnul mi-a arătat un loc foarte luminos."
+        },
+        {
+          "verse": 2,
+          "text": "Pământul înflorea, plin de miresme veșnice."
+        },
+        {
+          "verse": 3,
+          "text": "Locuitorii erau îmbrăcați în haine de lumină, asemenea îngerilor."
+        },
+        {
+          "verse": 4,
+          "text": "Glasul lor era un cânt de laudă."
+        },
+        {
+          "verse": 5,
+          "text": "Aceștia sunt frații voștri care au adormit în Hristos."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Am văzut doi bărbați, în haine de o lumină pe care gura nu o poate spune."
+        },
+        {
+          "verse": 2,
+          "text": "Am zis: Cine sunt aceștia?"
+        },
+        {
+          "verse": 3,
+          "text": "El a zis: Aceștia sunt Moise și Ilie."
+        },
+        {
+          "verse": 4,
+          "text": "Trupurile drepților vor fi ca ale acestora, când vor ieși din lume."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ucenicii au cerut să vadă pe unul din frații adormiți în frumusețea trupului slăvit."
+        },
+        {
+          "verse": 2,
+          "text": "S-a arătat un cort nu făcut de mână, și doi bărbați ieșind din el."
+        },
+        {
+          "verse": 3,
+          "text": "Nu puteam privi. Căci lumina era mai presus de soare."
+        },
+        {
+          "verse": 4,
+          "text": "Un nor mare luminos i-a umbrit, și un glas a zis: Acesta e Fiul Meu cel iubit."
+        },
+        {
+          "verse": 5,
+          "text": "Noi, temându-ne, am căzut."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Domnul a zis: Du-te, și vestește la toată lumea."
+        },
+        {
+          "verse": 2,
+          "text": "Păziți cele ce ați auzit, și nu le dați celor slabi, ca să nu hulească."
+        },
+        {
+          "verse": 3,
+          "text": "Petru a slăvit pe Tatăl, și pe Fiul, și pe Duhul Sfânt, Căruia slava în vecii vecilor. Amin."
+        },
+        {
+          "verse": 4,
+          "text": "Sfârșitul Apocalipsei lui Petru."
+        }
+      ]
+    }
+  ]
+}

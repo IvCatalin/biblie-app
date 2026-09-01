@@ -1,0 +1,542 @@
+{
+  "translation": "Didahia – adaptare după J. B. Lightfoot / Kirsopp Lake",
+  "source": "J. B. Lightfoot, The Apostolic Fathers; Lake, Loeb Apostolic Fathers I (text grecesc PD)",
+  "source_status": "Public Domain",
+  "modernization": "Traducere și adaptare în română",
+  "book": "Didahia (Învățătura celor 12 Apostoli)",
+  "bookSlug": "didahia",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Două căi sunt, una a vieții și una a morții, și deosebire mare e între cele două căi."
+        },
+        {
+          "verse": 2,
+          "text": "Calea vieții e aceasta: întâi, iubește pe Dumnezeu Care te-a făcut; al doilea, pe aproapele tău ca pe tine însuți; și tot ce nu vrei să ți se facă ție, nici tu nu face altuia."
+        },
+        {
+          "verse": 3,
+          "text": "Iar învățătura acestor cuvinte e aceasta: Binecuvântați pe cei ce vă blestemă, și rugați-vă pentru vrăjmașii voștri, și postiți pentru cei ce vă prigonesc."
+        },
+        {
+          "verse": 4,
+          "text": "Căci ce har e dacă iubiți pe cei ce vă iubesc? Oare nu fac și păgânii aceeași? Voi iubiți pe cei ce vă urăsc, și nu veți avea vrăjmaș."
+        },
+        {
+          "verse": 5,
+          "text": "Înfrânează-te de la poftele trupești și lumești."
+        },
+        {
+          "verse": 6,
+          "text": "Dacă cineva îți dă o palmă pe obrazul drept, întoarce-i și pe celălalt, și vei fi desăvârșit."
+        },
+        {
+          "verse": 7,
+          "text": "Dacă te silește cineva o milă, mergi cu el două."
+        },
+        {
+          "verse": 8,
+          "text": "Dacă îți ia cineva haina, dă-i și cămașa."
+        },
+        {
+          "verse": 9,
+          "text": "Dacă îți ia cineva ce e al tău, nu cere înapoi, căci nici nu poți."
+        },
+        {
+          "verse": 10,
+          "text": "Dă oricui îți cere, și nu cere înapoi. Căci Tatăl vrea să se dea tuturor din darurile Sale."
+        },
+        {
+          "verse": 11,
+          "text": "Ferice de cel ce dă după poruncă, că e nevinovat."
+        },
+        {
+          "verse": 12,
+          "text": "Vai celui ce ia. Căci, dacă ia cineva având trebuință, e nevinovat; iar cel ce nu are trebuință va da seamă pentru ce a luat și pentru ce."
+        },
+        {
+          "verse": 13,
+          "text": "Fiind închis, va fi cercetat pentru cele ce a făcut, și nu va ieși de acolo până nu va da până la cel din urmă ban."
+        },
+        {
+          "verse": 14,
+          "text": "Ci și despre aceasta s-a zis: Să transpire milostenia ta în mâinile tale, până vei cunoaște cui dai."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar a doua poruncă a învățăturii:"
+        },
+        {
+          "verse": 2,
+          "text": "Să nu ucizi, să nu preadesfrânezi, să nu strici copii, să nu fii desfrânat, să nu furi, să nu vrăjești, să nu prepari otrăvuri, să nu ucizi prunc prin avort, nici pe cel născut să nu-l omori."
+        },
+        {
+          "verse": 3,
+          "text": "Să nu poftești cele ale aproapelui, să nu juri strâmb, să nu dai mărturie mincinoasă, să nu vorbești de rău, să nu ții minte răul."
+        },
+        {
+          "verse": 4,
+          "text": "Să nu fii îndoit la gând, nici îndoit la vorbă, căci îndoiala la vorbă e laț al morții."
+        },
+        {
+          "verse": 5,
+          "text": "Să nu fie cuvântul tău mincinos, nici deșert, ci plin de faptă."
+        },
+        {
+          "verse": 6,
+          "text": "Să nu fii lacom, nici răpitor, nici fățător, nici răutăcios, nici mândru."
+        },
+        {
+          "verse": 7,
+          "text": "Să nu ții sfat rău împotriva aproapelui tău."
+        },
+        {
+          "verse": 8,
+          "text": "Să nu urăști pe nici un om, ci pe unii să-i mustri, pentru alții să te rogi, iar pe alții să-i iubești mai mult decât sufletul tău."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Copile, fugi de tot ce e rău, și de tot ce e asemenea lui."
+        },
+        {
+          "verse": 2,
+          "text": "Nu fi mânios, căci mânia duce la ucidere; nici pizmaș, nici certăreț, nici iute, căci din toate acestea se nasc ucideri."
+        },
+        {
+          "verse": 3,
+          "text": "Copile, nu fi poftitor, căci pofta duce la desfrânare; nici vorbitor de lucruri rușinoase, nici ridicător de ochi, căci din toate acestea se nasc preadesfrânări."
+        },
+        {
+          "verse": 4,
+          "text": "Copile, nu fi ghicitor, căci aceasta duce la idolatrie; nici vrăjitor, nici astrolog, nici curățitor, nici nu voi să vezi nici să auzi acestea, căci din toate acestea se naște idolatria."
+        },
+        {
+          "verse": 5,
+          "text": "Copile, nu fi mincinos, căci minciuna duce la furt; nici iubitor de argint, nici de slavă deșartă, căci din toate acestea se nasc furturi."
+        },
+        {
+          "verse": 6,
+          "text": "Copile, nu fi cârteț, căci aceasta duce la hulă; nici îndrăzneț, nici cugetător de rele, căci din toate acestea se nasc hule."
+        },
+        {
+          "verse": 7,
+          "text": "Ci fii blând, căci cei blânzi vor moșteni pământul."
+        },
+        {
+          "verse": 8,
+          "text": "Fii îndelung-răbdător, și milostiv, și fără răutate, și liniștit, și bun, și tremurând totdeauna de cuvintele pe care le-ai auzit."
+        },
+        {
+          "verse": 9,
+          "text": "Să nu te înalți, nici să dai îndrăzneală sufletului tău."
+        },
+        {
+          "verse": 10,
+          "text": "Să nu se lipească sufletul tău de cei mândri, ci să umble cu cei drepți și smeriți."
+        },
+        {
+          "verse": 11,
+          "text": "Cele ce ți se întâmplă primește-le ca bune, știind că fără Dumnezeu nimic nu se face."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Copile, adu-ți aminte noapte și zi de cel ce-ți vestește cuvântul lui Dumnezeu, și cinstește-l ca pe Domnul. Căci de unde se vestește stăpânirea, acolo e și Domnul."
+        },
+        {
+          "verse": 2,
+          "text": "Caută în fiecare zi fețele sfinților, ca să te odihnești în cuvintele lor."
+        },
+        {
+          "verse": 3,
+          "text": "Să nu faci dezbinare, ci împacă pe cei ce se ceartă."
+        },
+        {
+          "verse": 4,
+          "text": "Judecă drept; să nu cauți la față ca să mustri pentru călcări."
+        },
+        {
+          "verse": 5,
+          "text": "Să nu fii cu două mâini de a lua, și cu una de a da."
+        },
+        {
+          "verse": 6,
+          "text": "Dacă ai, dă din mâinile tale răscumpărare pentru păcatele tale."
+        },
+        {
+          "verse": 7,
+          "text": "Să nu șovăi să dai, nici dând să nu cârtești. Căci vei cunoaște Cine e Cel ce dă bună răsplată."
+        },
+        {
+          "verse": 8,
+          "text": "Să nu întorci pe cel lipsit, ci fă-ți parte cu fratele tău în toate, și să nu zici că e ale tale. Căci dacă sunteți părtași în cele nemuritoare, cu cât mai mult în cele muritoare?"
+        },
+        {
+          "verse": 9,
+          "text": "Să nu-ți iei mâna de pe fiul tău sau de pe fiica ta, ci din tinerețe să-i înveți frica de Dumnezeu."
+        },
+        {
+          "verse": 10,
+          "text": "Să nu poruncești în amărăciunea ta slujitorului tău sau slujnicei, care nădăjduiesc în același Dumnezeu, ca nu cumva să nu se teamă de Dumnezeu Care e peste amândoi. Căci El nu vine să cheme după față, ci pe cei pe care i-a pregătit Duhul."
+        },
+        {
+          "verse": 11,
+          "text": "Iar voi, slujitorilor, supuneți-vă stăpânilor voștri ca unui chip al lui Dumnezeu, în evlavie și frică."
+        },
+        {
+          "verse": 12,
+          "text": "Urăște toată fățăria, și tot ce nu place Domnului."
+        },
+        {
+          "verse": 13,
+          "text": "Să nu părăsești poruncile Domnului, ci păzește ce ai primit, fără a adăuga și fără a scoate."
+        },
+        {
+          "verse": 14,
+          "text": "În adunare mărturisește-ți păcatele, și nu te apropia de rugăciunea ta cu conștiință rea."
+        },
+        {
+          "verse": 15,
+          "text": "Aceasta e calea vieții."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar calea morții e aceasta: întâi, e rea și plină de blestem: ucideri, preadesfrânări, pofte, desfrânări, furturi, idolatrii, vrăji, otrăvuri, răpiri, mărturii mincinoase, fățărie, îndoială la inimă, viclenie, mândrie, răutate, îndrăzneală, lăcomie, vorbă urâtă, pizmă, obrăznicie, înălțare, laudă deșartă."
+        },
+        {
+          "verse": 2,
+          "text": "Prigonitori ai celor buni, urâtori de adevăr, iubitori de minciună, necunoscători de răsplata dreptății, nealinându-se de bine, nici de judecată dreaptă, veghind nu spre bine, ci spre rău; de care e departe blândețea și răbdarea, iubind cele deșarte, urmărind răsplată, necompătimind pe cel sărac, neostenindu-se pentru cel ostenit, necunoscând pe Cel ce i-a făcut, ucigași de copii, stricători ai plăsmuirii lui Dumnezeu, întorcând pe cel lipsit, asuprind pe cel necăjit, apărători ai bogaților, judecători nedrepți ai săracilor, păcătoși în toate."
+        },
+        {
+          "verse": 3,
+          "text": "Fii slobozi, copii, de toți aceștia."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ia seama să nu te abată cineva de la calea aceasta a învățăturii, de vreme ce te învață în afara lui Dumnezeu."
+        },
+        {
+          "verse": 2,
+          "text": "Căci dacă poți purta tot jugul Domnului, vei fi desăvârșit; iar dacă nu poți, fă ce poți."
+        },
+        {
+          "verse": 3,
+          "text": "Iar despre mâncare, poartă ce poți. De la cel jertfit idolilor însă ferește-te foarte, căci e slujbă de zei morți."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar despre botez, așa să botezați: după ce ați spus toate acestea, botezați în numele Tatălui și al Fiului și al Sfântului Duh, în apă vie."
+        },
+        {
+          "verse": 2,
+          "text": "Iar dacă nu ai apă vie, botează în altă apă; iar dacă nu poți în rece, în caldă."
+        },
+        {
+          "verse": 3,
+          "text": "Iar dacă nu ai nici una, toarnă pe cap de trei ori apă, în numele Tatălui și al Fiului și al Sfântului Duh."
+        },
+        {
+          "verse": 4,
+          "text": "Iar înainte de botez să postească cel ce botează și cel ce e botezat, și de poate și alții; poruncește însă celui ce e botezat să postească o zi sau două mai înainte."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar posturile voastre să nu fie cu fățătorii. Căci ei postesc a doua și a cincea a săptămânii. Voi să postiți a patra și a șasea."
+        },
+        {
+          "verse": 2,
+          "text": "Nici să nu vă rugați ca fățătorii, ci precum a poruncit Domnul în Evanghelia Sa, așa să vă rugați:"
+        },
+        {
+          "verse": 3,
+          "text": "Tatăl nostru Care ești în cer, sfințească-se numele Tău, vie împărăția Ta, facă-se voia Ta precum în cer așa și pe pământ. Pâinea noastră cea de toate zilele dă-ne-o nouă astăzi, și ne iartă nouă datoria noastră precum și noi iertăm datornicilor noștri, și nu ne duce pe noi în ispită, ci ne izbăvește de cel rău. Că a Ta e puterea și slava în veci."
+        },
+        {
+          "verse": 4,
+          "text": "De trei ori pe zi așa să vă rugați."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar despre euharistie, așa să mulțumiți."
+        },
+        {
+          "verse": 2,
+          "text": "Întâi despre pahar: Îți mulțumim, Părintele nostru, pentru sfânta vie a lui David, slujitorul Tău, pe care ne-ai făcut-o cunoscută prin Iisus, slujitorul Tău. Ție slava în veci."
+        },
+        {
+          "verse": 3,
+          "text": "Iar despre frântură: Îți mulțumim, Părintele nostru, pentru viața și cunoștința pe care ne-ai făcut-o cunoscută prin Iisus, slujitorul Tău. Ție slava în veci."
+        },
+        {
+          "verse": 4,
+          "text": "Precum această frântură era risipită pe munți, și adunată s-a făcut una, așa să se adune Biserica Ta de la marginile pământului în împărăția Ta. Că a Ta e slava și puterea prin Iisus Hristos în veci."
+        },
+        {
+          "verse": 5,
+          "text": "Nimeni să nu mănânce, nici să bea din euharistia voastră, decât cei botezați în numele Domnului. Căci și despre aceasta a zis Domnul: Nu dați cele sfinte câinilor."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar după ce v-ați săturat, așa să mulțumiți."
+        },
+        {
+          "verse": 2,
+          "text": "Îți mulțumim, Părinte sfânt, pentru sfântul Tău Nume, pe care l-ai sălășluit în inimile noastre, și pentru cunoștința și credința și nemurirea pe care ne-ai făcut-o cunoscută prin Iisus, slujitorul Tău. Ție slava în veci."
+        },
+        {
+          "verse": 3,
+          "text": "Tu, Stăpâne atotputernice, ai zidit toate pentru numele Tău, hrană și băutură ai dat oamenilor spre desfătare, ca să-Ți mulțumească. Iar nouă ne-ai dăruit hrană și băutură duhovnicească și viață veșnică prin slujitorul Tău."
+        },
+        {
+          "verse": 4,
+          "text": "Înainte de toate Îți mulțumim că ești puternic. Ție slava în veci."
+        },
+        {
+          "verse": 5,
+          "text": "Adu-Ți aminte, Doamne, de Biserica Ta, să o izbăvești de tot răul, și să o desăvârșești în dragostea Ta, și adun-o din cele patru vânturi, cea sfințită, în împărăția Ta, pe care i-ai pregătit-o. Că a Ta e puterea și slava în veci."
+        },
+        {
+          "verse": 6,
+          "text": "Vină harul, și treacă lumea aceasta. Osana Dumnezeului lui David. Dacă e cineva sfânt, să vină; dacă nu e, să se pocăiască. Maranatha. Amin."
+        },
+        {
+          "verse": 7,
+          "text": "Iar proorocilor îngăduiți-le să mulțumească cât vor."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cine deci, venind, vă învață toate cele de mai sus, primiți-l."
+        },
+        {
+          "verse": 2,
+          "text": "Iar dacă însuși cel ce învață, întorcându-se, învață altă învățătură spre a strica, nu-l ascultați. Iar dacă spre a spori dreptatea și cunoștința Domnului, primiți-l ca pe Domnul."
+        },
+        {
+          "verse": 3,
+          "text": "Iar despre apostoli și prooroci, după rânduiala Evangheliei, așa să faceți."
+        },
+        {
+          "verse": 4,
+          "text": "Orice apostol care vine la voi să fie primit ca Domnul."
+        },
+        {
+          "verse": 5,
+          "text": "Și nu va rămâne decât o zi; iar dacă e trebuință, și a doua. Iar dacă rămâne trei, e un prooroc mincinos."
+        },
+        {
+          "verse": 6,
+          "text": "Iar ieșind apostolul, să nu ia nimic decât pâine, până se va odihni. Iar dacă cere argint, e un prooroc mincinos."
+        },
+        {
+          "verse": 7,
+          "text": "Și orice prooroc care vorbește în Duh să nu-l încercați, nici să-l judecați. Căci orice păcat se va ierta, iar acesta nu se va ierta."
+        },
+        {
+          "verse": 8,
+          "text": "Nu oricine vorbește în Duh e prooroc, ci dacă are obiceiurile Domnului. Deci din obiceiuri se va cunoaște proorocul mincinos și cel adevărat."
+        },
+        {
+          "verse": 9,
+          "text": "Și orice prooroc care rânduiește masă în Duh nu va mânca din ea; altminteri e un prooroc mincinos."
+        },
+        {
+          "verse": 10,
+          "text": "Orice prooroc care învață adevărul, dacă nu face ce învață, e un prooroc mincinos."
+        },
+        {
+          "verse": 11,
+          "text": "Iar orice prooroc dovedit, adevărat, care lucrează spre taina Bisericii lumești, dar nu învață să facă câte el face, să nu fie judecat de voi. Căci cu Dumnezeu e judecata lui. Căci tot așa au făcut și proorocii cei de demult."
+        },
+        {
+          "verse": 12,
+          "text": "Cine zice în Duh: Dă-mi argint, sau oricare altele, să nu-l ascultați. Iar dacă zice să se dea pentru alții, cei lipsiți, nimeni să nu-l judece."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Oricine vine în numele Domnului să fie primit. Apoi, cercetându-l, îl veți cunoaște. Căci veți avea înțelegere de dreapta și de stânga."
+        },
+        {
+          "verse": 2,
+          "text": "Dacă cel ce vine e un călător, ajutați-l cât puteți. Nu va rămâne la voi însă decât două sau trei zile, dacă e trebuință."
+        },
+        {
+          "verse": 3,
+          "text": "Iar dacă vrea să se așeze la voi, fiind meșteșugar, să lucreze și să mănânce."
+        },
+        {
+          "verse": 4,
+          "text": "Iar dacă nu are meșteșug, după înțelegerea voastră purtați grijă ca să nu trăiască creștinul degeaba între voi."
+        },
+        {
+          "verse": 5,
+          "text": "Iar dacă nu vrea să facă așa, e un hristempor. Luați seama de unii ca aceștia."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar orice prooroc adevărat care vrea să se așeze la voi e vrednic de hrana sa."
+        },
+        {
+          "verse": 2,
+          "text": "Tot așa un învățător adevărat e și el, ca lucrătorul, vrednic de hrana sa."
+        },
+        {
+          "verse": 3,
+          "text": "Orice pârga deci a produselor teascului și a ariei, a boilor și a oilor, luând, o vei da proorocilor. Căci ei sunt arhiereii voștri."
+        },
+        {
+          "verse": 4,
+          "text": "Iar dacă nu aveți prooroc, dați săracilor."
+        },
+        {
+          "verse": 5,
+          "text": "Dacă faci pâine, ia pârga și dă după poruncă."
+        },
+        {
+          "verse": 6,
+          "text": "Tot așa, deschizând un vas de vin sau de untdelemn, ia pârga și dă proorocilor."
+        },
+        {
+          "verse": 7,
+          "text": "Iar din argint și din haine și din toată agoniseala, luând pârga precum ți se pare, dă după poruncă."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar în ziua Domnului, adunându-vă, frângeți pâine și mulțumiți, după ce mai întâi v-ați mărturisit greșelile, ca jertfa voastră să fie curată."
+        },
+        {
+          "verse": 2,
+          "text": "Oricine are ceartă cu tovarășul său să nu se adune cu voi până nu se împacă, ca să nu se pângărească jertfa voastră."
+        },
+        {
+          "verse": 3,
+          "text": "Căci aceasta e cea zisă de Domnul: În tot locul și vremea să Mi se aducă jertfă curată, că Împărat mare sunt, zice Domnul, și numele Meu e minunat între neamuri."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Alegeți-vă deci episcopi și diaconi vrednici de Domnul, bărbați blânzi, și nefățători, și iubitori de argint, și dovediți. Căci ei vă slujesc și slujba proorocilor și învățătorilor."
+        },
+        {
+          "verse": 2,
+          "text": "Nu-i disprețuiți deci. Căci ei sunt cei cinstiți între voi, împreună cu proorocii și învățătorii."
+        },
+        {
+          "verse": 3,
+          "text": "Mustrați-vă unii pe alții nu în mânie, ci în pace, precum aveți în Evanghelie. Și oricui greșește aproapelui, nimeni să nu-i vorbească, nici să nu audă de la voi, până nu se pocăiește."
+        },
+        {
+          "verse": 4,
+          "text": "Iar rugăciunile voastre și milosteniile și toate faptele să le faceți așa cum aveți în Evanghelia Domnului nostru."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Privegheați asupra vieții voastre. Candelele voastre să nu se stingă, și mijlocul vostru să nu se dezlege, ci fiți gata. Căci nu știți ceasul în care vine Domnul nostru."
+        },
+        {
+          "verse": 2,
+          "text": "Adunați-vă des, căutând cele ce se cuvin sufletelor voastre. Căci de nimic nu vă va folosi tot timpul credinței voastre, dacă nu veți fi desăvârșiți în vremea de pe urmă."
+        },
+        {
+          "verse": 3,
+          "text": "Căci în zilele de pe urmă se vor înmulți proorocii mincinoși și stricătorii, și oile se vor preface în lupi, și dragostea se va preface în ură."
+        },
+        {
+          "verse": 4,
+          "text": "Căci, înmulțindu-se fărădelegea, se vor urî unii pe alții, și se vor prigoni, și se vor vinde. Și atunci se va arăta amăgitorul lumii ca Fiu al lui Dumnezeu, și va face semne și minuni, și pământul va fi dat în mâinile lui, și va face fărădelegi pe care nu le-a fost de la veac."
+        },
+        {
+          "verse": 5,
+          "text": "Atunci toată făptura omenească va veni în focul încercării, și mulți se vor sminti și vor pieri. Iar cei ce vor rămâne în credința lor vor fi mântuiți de însuși Cel blestemat."
+        },
+        {
+          "verse": 6,
+          "text": "Și atunci se vor arăta semnele adevărului: întâi semnul întinderii pe cer, apoi semnul glasului trâmbiței, și al treilea învierea morților."
+        },
+        {
+          "verse": 7,
+          "text": "Nu a tuturor însă, ci precum s-a zis: Va veni Domnul, și toți sfinții cu El."
+        },
+        {
+          "verse": 8,
+          "text": "Atunci va vedea lumea pe Domnul venind pe norii cerului."
+        }
+      ]
+    }
+  ]
+}
