@@ -1,0 +1,472 @@
+{
+  "translation": "Pirqe Avot – adaptare după R. Travers Herford / R. H. Charles",
+  "source": "Herford in Charles, APOT II, 1913",
+  "source_status": "Public Domain",
+  "modernization": "Traducere și adaptare în română după Herford",
+  "book": "Avot (Pirkei Avot)",
+  "bookSlug": "mishna-avot",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Moise a primit Tora din Sinai și a predat-o lui Iosua, Iosua bătrânilor, bătrânii proorocilor, și proorocii au predat-o oamenilor Marii Adunări. Aceștia au zis trei lucruri: Fiți cumpătați la judecată; ridicați mulți ucenici; faceți un gard Torei."
+        },
+        {
+          "verse": "2",
+          "text": "Șimon cel Drept era dintre rămășițele Marii Adunări. El zicea: Pe trei lucruri stă lumea: pe Tora, pe slujbă și pe faptele de milă."
+        },
+        {
+          "verse": "3",
+          "text": "Antigonos din Socho a primit de la Șimon cel Drept. El zicea: Nu fiți ca slujitorii care slujesc pe stăpân ca să primească plată, ci fiți ca slujitorii care slujesc pe stăpân nu ca să primească plată; și să fie asupra voastră frica de Cer."
+        },
+        {
+          "verse": "4",
+          "text": "Iose ben Ioezer din Țereda și Iose ben Iohanan din Ierusalim au primit de la ei. Iose ben Ioezer din Țereda zicea: Casa ta să fie loc de adunare pentru înțelepți; acoperă-te cu țărâna picioarelor lor, și bea cu sete cuvintele lor."
+        },
+        {
+          "verse": "5",
+          "text": "Iose ben Iohanan din Ierusalim zicea: Casa ta să fie deschisă larg; săracii să fie fiii casei tale; și nu vorbi mult cu femeia. Au zis aceasta despre a sa; cu cât mai mult despre femeia tovarășului. De aici au zis înțelepții: Oricine vorbește mult cu femeia își pricinuiește rău, se abate de la cuvintele Torei, și sfârșitul lui e moștenirea Gheenei."
+        },
+        {
+          "verse": "6",
+          "text": "Iehoșua ben Perahia și Nitai Arbelitul au primit de la ei. Iehoșua ben Perahia zicea: Fă-ți un învățător; dobândește-ți un tovarăș; și judecă pe tot omul în cumpăna meritelor."
+        },
+        {
+          "verse": "7",
+          "text": "Nitai Arbelitul zicea: Depărtează-te de un vecin rău; nu te însoți cu cel rău; și nu-ți pierde nădejdea de pedeapsă."
+        },
+        {
+          "verse": "8",
+          "text": "Iehuda ben Tabai și Șimon ben Șetah au primit de la ei. Iehuda ben Tabai zicea: Nu te face ca cei ce pun la cale pledoarii. Când părțile stau înaintea ta, să-ți fie ca nelegiuiți; când pleacă de la tine, să-ți fie ca nevinovați, dacă au primit asupra lor judecata."
+        },
+        {
+          "verse": "9",
+          "text": "Șimon ben Șetah zicea: Cercetează bine martorii; și fii precaut în cuvintele tale, ca nu cumva din ele să învețe să mintă."
+        },
+        {
+          "verse": "10",
+          "text": "Șemaia și Avtalion au primit de la ei. Șemaia zicea: Iubește lucrul; urăște stăpânirea; și nu te face cunoscut puterii."
+        },
+        {
+          "verse": "11",
+          "text": "Avtalion zicea: Înțelepților, fiți precauți în cuvintele voastre, ca nu cumva să vă faceți datori exilului, și să fiți exilați în loc de ape rele, și ucenicii care vin după voi să bea și să moară, și Numele Cerului să fie pângărit."
+        },
+        {
+          "verse": "12",
+          "text": "Hilel și Șamai au primit de la ei. Hilel zicea: Fii dintre ucenicii lui Aaron, iubind pacea și urmărind pacea, iubind făpturile și apropiindu-le de Tora."
+        },
+        {
+          "verse": "13",
+          "text": "El zicea: Cel ce-și umflă numele își pierde numele; cel ce nu sporește se împuținează; cel ce nu învață e vrednic de moarte; cel ce se slujește de coroană trece."
+        },
+        {
+          "verse": "14",
+          "text": "El zicea: Dacă nu sunt eu pentru mine, cine e pentru mine? Și când sunt numai pentru mine, ce sunt? Și dacă nu acum, când?"
+        },
+        {
+          "verse": "15",
+          "text": "Șamai zicea: Fă Tora ta statornică; vorbește puțin și fă mult; și primește pe tot omul cu fața veselă."
+        },
+        {
+          "verse": "16",
+          "text": "Raban Gamliel zicea: Fă-ți un învățător, și scapă de îndoială, și nu da zeciuială din ochi."
+        },
+        {
+          "verse": "17",
+          "text": "Șimon, fiul său, zicea: Toate zilele mele am crescut între înțelepți, și n-am găsit nimic mai bun pentru trup decât tăcerea. Nu cercetarea e temelia, ci fapta. Și oricine înmulțește cuvintele aduce păcat."
+        },
+        {
+          "verse": "18",
+          "text": "Raban Șimon ben Gamliel zicea: Pe trei lucruri stă lumea: pe judecată, pe adevăr și pe pace. Precum e zis: «Adevărul și judecata păcii judecați în porțile voastre.»"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Rabi zicea: Care e calea dreaptă pe care să o aleagă omul? Oricare e slava pentru cel ce o face, și slava de la oameni. Fii precaut la o poruncă ușoară ca la una grea, căci nu știi plata poruncilor. Socotește pierderea unei porunci față de plata ei, și plata unui păcat față de pierderea lui. Uită-te la trei lucruri, și nu vei veni în mâinile păcatului: să știi ce e deasupra ta — un ochi care vede, o ureche care aude, și toate faptele tale sunt scrise în carte."
+        },
+        {
+          "verse": "2",
+          "text": "Raban Gamliel, fiul lui Rabi Iehuda ha-Nasi, zicea: Frumos e studiul Torei cu lucrare lumească, căci osteneala amândurora face să se uite păcatul. Și orice Tora care nu e însoțită de lucrare se sfârșește și trage după sine păcat. Toți cei ce se ostenesc cu adunarea să se ostenească pentru Numele Cerului, căci meritul părinților lor îi ajută, și dreptatea lor stă în veac. Iar voi, Eu vă voi da plată mare, ca și cum ați fi făcut."
+        },
+        {
+          "verse": "3",
+          "text": "Fiți precauți cu puterea, căci ei nu apropie pe om decât pentru trebuința lor. Se arată prieteni când le e bine, dar nu stau lângă om la strâmtorare."
+        },
+        {
+          "verse": "4",
+          "text": "El zicea: Fă voia Lui ca voia ta, ca să facă voia ta ca voia Lui. Anulează voia ta dinaintea voii Lui, ca să anuleze voia altora dinaintea voii tale."
+        },
+        {
+          "verse": "5",
+          "text": "Hilel zicea: Nu te despărți de adunare; și nu te încrede în tine până în ziua morții; și nu judeca pe tovarășul tău până nu ajungi în locul lui; și nu zice un lucru cu neputință de auzit, căci la sfârșit va fi auzit; și nu zice: Când voi avea răgaz voi învăța, ca nu cumva să nu ai răgaz."
+        },
+        {
+          "verse": "6",
+          "text": "El zicea: Nu e un ignorat care se teme de păcat, nici un am-haareț care e evlavios. Cel ce se rușinează mult nu învață, și cel ce e iute la mânie nu învață. Nici tot cel ce înmulțește neguțătoria nu se înțelepțește. Și în loc unde nu e om, silește-te să fii om."
+        },
+        {
+          "verse": "7",
+          "text": "El a văzut un țeasta pe fața apei. A zis: Pentru că ai înecat, ai fost înecat, și sfârșitul celor ce te-au înecat e să fie înecați."
+        },
+        {
+          "verse": "8",
+          "text": "El zicea: Cu cât mai multă carne, cu atât mai mulți viermi; cu cât mai multe averi, cu atât mai multă grijă; cu cât mai multe femei, cu atât mai multă vrăjitorie; cu cât mai multe slujnice, cu atât mai multă desfrânare; cu cât mai mulți robi, cu atât mai multă tâlhărie. Cu cât mai multă Tora, cu atât mai multă viață; cu cât mai multă ședere, cu atât mai multă înțelepciune; cu cât mai mult sfat, cu atât mai multă înțelegere; cu cât mai multă milă, cu atât mai multă pace. Cine a dobândit un nume bun a dobândit pentru sine; cine a dobândit cuvintele Torei a dobândit viața veacului care vine."
+        },
+        {
+          "verse": "9",
+          "text": "Raban Iohanan ben Zacai a primit de la Hilel și de la Șamai. El zicea: Dacă ai învățat multă Tora, nu-ți ține meritele, căci pentru aceasta ai fost zidit."
+        },
+        {
+          "verse": "10",
+          "text": "Raban Iohanan ben Zacai avea cinci ucenici: Rabi Eliezer ben Hircanos, Rabi Iehoșua ben Hanania, Rabi Iose ha-Cohen, Rabi Șimon ben Nathaniel, Rabi Eleazar ben Arach. El le număra meritele: Eliezer ben Hircanos e o fântână tencuită care nu pierde o picătură; Iehoșua ben Hanania — ferice de cea care l-a născut; Iose ha-Cohen e evlavios; Șimon ben Nathaniel se teme de păcat; Eleazar ben Arach e un izvor care sporește."
+        },
+        {
+          "verse": "11",
+          "text": "El zicea: Dacă ar fi toți înțelepții lui Israel într-un taler al cumpenei, și Eliezer ben Hircanos în celălalt, el i-ar cântări. Aba Șaul zicea în numele lui: Dacă ar fi toți înțelepții lui Israel într-un taler, și Eliezer ben Hircanos cu ei, și Eleazar ben Arach în celălalt, el i-ar cântări."
+        },
+        {
+          "verse": "12",
+          "text": "El le-a zis: Ieșiți și vedeți care e calea bună de care să se țină omul. Rabi Eliezer zicea: un ochi bun. Rabi Iehoșua zicea: un tovarăș bun. Rabi Iose zicea: un vecin bun. Rabi Șimon zicea: cel ce vede ce se naște. Rabi Eleazar zicea: o inimă bună. El le-a zis: Văd cuvintele lui Eleazar ben Arach mai presus de cuvintele voastre, căci în ale lui sunt cuprinse ale voastre."
+        },
+        {
+          "verse": "13",
+          "text": "El le-a zis: Ieșiți și vedeți care e calea rea de care să se depărteze omul. Rabi Eliezer zicea: un ochi rău. Rabi Iehoșua zicea: un tovarăș rău. Rabi Iose zicea: un vecin rău. Rabi Șimon zicea: cel ce se împrumută și nu plătește — unul se împrumută de la om e ca cel ce se împrumută de la Loc; precum e zis: «Cel rău împrumută și nu plătește, iar dreptul se milostivește și dă.» Rabi Eleazar zicea: o inimă rea. El le-a zis: Văd cuvintele lui Eleazar ben Arach mai presus de cuvintele voastre, căci în ale lui sunt cuprinse ale voastre."
+        },
+        {
+          "verse": "14",
+          "text": "Ei au zis fiecare trei lucruri. Rabi Eliezer zicea: Să-ți fie cinstea tovarășului scumpă ca a ta; nu te mânia ușor; pocăiește-te cu o zi înainte de moarte. Încălzește-te la focul înțelepților, dar ferește-te de tăciunele lor, ca să nu te arzi. Căci mușcătura lor e mușcătura de vulpe, înțepătura lor e înțepătura de scorpie, șuierul lor e șuier de șarpe, și toate cuvintele lor sunt ca jăraticii de foc."
+        },
+        {
+          "verse": "15",
+          "text": "Rabi Iehoșua zicea: Ochiul rău, înclinația rea și ura de făpturi scot pe om din lume."
+        },
+        {
+          "verse": "16",
+          "text": "Rabi Iose zicea: Să-ți fie averea tovarășului scumpă ca a ta; rânduiește-te pe tine la studiu de Tora, căci nu e a ta prin moștenire; și toate faptele tale să fie pentru Numele Cerului."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Acavia ben Mahalalel zicea: Uită-te la trei lucruri, și nu vei veni în mâinile păcatului. Să știi de unde ai venit, unde mergi, și înaintea cui vei da socoteală. De unde ai venit? Dintr-o picătură putredă. Unde mergi? În loc de pulbere, viermi și carii. Înaintea cui vei da socoteală? Înaintea Împăratului împăraților, Sfântul, binecuvântat să fie."
+        },
+        {
+          "verse": "2",
+          "text": "Rabi Hanina, adjutantul preoților, zicea: Roagă-te pentru pacea împărăției, căci dacă nu e frica ei, omul și-ar înghiți de viu pe tovarășul său."
+        },
+        {
+          "verse": "3",
+          "text": "Rabi Hanania ben Teradion zicea: Dacă doi șed împreună și nu e între ei cuvinte de Tora, iată, aceasta e o adunare de batjocoritori, precum e zis: «În adunarea batjocoritorilor n-a șezut.» Dar dacă doi șed împreună și sunt între ei cuvinte de Tora, Șechina e între ei, precum e zis: «Atunci au vorbit cei ce se tem de Domnul unul către altul, și Domnul a luat aminte.»"
+        },
+        {
+          "verse": "4",
+          "text": "Rabi Șimon zicea: Dacă trei au mâncat la o masă și n-au zis asupra ei cuvinte de Tora, e ca și cum ar fi mâncat din jertfele morților, precum e zis: «Căci toate mesele sunt pline de vărsătură și spurcăciune, fără Loc.» Dar dacă trei au mâncat la o masă și au zis asupra ei cuvinte de Tora, e ca și cum ar fi mâncat de la masa Locului, precum e zis: «Și mi-a zis: Aceasta e masa care e înaintea Domnului.»"
+        },
+        {
+          "verse": "5",
+          "text": "Rabi Hanina ben Hachinai zicea: Cel ce se trezește noaptea, și cel ce umblă singur pe drum, și cel ce-și întoarce inima spre deșertăciune, iată, acesta e vinovat cu sufletul său."
+        },
+        {
+          "verse": "6",
+          "text": "Rabi Nehunia ben ha-Kana zicea: Oricine ia asupra sa jugul Torei i se ia de la el jugul împărăției și jugul obiceiului lumii. Iar oricine se leapădă de jugul Torei i se pun jugul împărăției și jugul obiceiului lumii."
+        },
+        {
+          "verse": "7",
+          "text": "Rabi Halafta din Kefar Hanania zicea: Dacă zece șed și se îndeletnicesc cu Tora, Șechina e între ei, precum e zis: «Dumnezeu stă în adunarea lui Dumnezeu.» Și de unde până și cinci? Precum e zis: «Fâșia Lui a întemeiat-o pe pământ.» Și de unde până și trei? Precum e zis: «În mijlocul judecătorilor va judeca.» Și de unde până și doi? Precum e zis: «Atunci au vorbit cei ce se tem de Domnul unul către altul.» Și de unde până și unul? Precum e zis: «În tot locul unde voi pomeni Numele Meu voi veni la tine și te voi binecuvânta.»"
+        },
+        {
+          "verse": "8",
+          "text": "Rabi Eleazar din Bartota zicea: Dă-I Lui din ale Lui, căci tu și ale tale sunteți ale Lui. Și așa zice David: «Căci totul e de la Tine, și din mâna Ta Ți-am dat.»"
+        },
+        {
+          "verse": "9",
+          "text": "Rabi Iaakov zicea: Cel ce umblă pe drum și învață, și întrerupe studiul și zice: Cât de frumos e copacul acesta, cât de frumos e ogorul acesta, iată, acesta e vinovat cu sufletul său."
+        },
+        {
+          "verse": "10",
+          "text": "Rabi Dostai bar Iannai zicea în numele lui Rabi Meir: Oricine uită un lucru din studiul său, iată, acesta e vinovat cu sufletul său, precum e zis: «Numai ia seama ție, și păzește-ți sufletul foarte, ca să nu uiți lucrurile.» Poate chiar dacă studiul i-a fost greu? Învățătura zice: «ca să nu se depărteze din inima ta toate zilele vieții tale.» Iată, nu e vinovat cu sufletul său până nu stă și le depărtează din inima sa."
+        },
+        {
+          "verse": "11",
+          "text": "Rabi Hanina ben Dosa zicea: Oricui frica de păcat precedă înțelepciunea, înțelepciunea lui stă. Oricui înțelepciunea precedă frica de păcat, înțelepciunea lui nu stă."
+        },
+        {
+          "verse": "12",
+          "text": "El zicea: Oricui faptele sunt mai multe decât înțelepciunea, înțelepciunea lui stă. Oricui înțelepciunea e mai multă decât faptele, înțelepciunea lui nu stă."
+        },
+        {
+          "verse": "13",
+          "text": "El zicea: Cel în care duhul făpturilor se desfătează, în el se desfătează Duhul Locului. Cel în care duhul făpturilor nu se desfătează, în el nu se desfătează Duhul Locului."
+        },
+        {
+          "verse": "14",
+          "text": "Rabi Dosa ben Harchinas zicea: Somnul de dimineață, vinul de amiază, vorbirea copiilor și șederea în adunările celor de rând scot pe om din lume."
+        },
+        {
+          "verse": "15",
+          "text": "Rabi Eleazar ha-Modai zicea: Cel ce pângărește cele sfinte, și disprețuiește sărbătorile, și face de rușine fața tovarășului său în public, și anulează legământul părintelui nostru Avraam, și descoperă fețe în Tora care nu sunt după halakah, chiar dacă are Tora și fapte bune, nu are parte în veacul care vine."
+        },
+        {
+          "verse": "16",
+          "text": "Rabi Ișmael zicea: Fii ușor la cap și slujitor al lucrului, și primește pe tot omul cu veselie."
+        },
+        {
+          "verse": "17",
+          "text": "Rabi Akiva zicea: Gluma și ușurătatea obișnuiesc pe om cu dezmățul. Tradiția e un gard Torei; zeciuielile sunt un gard bogăției; jurămintele sunt un gard despărțirii; gardul înțelepciunii e tăcerea."
+        },
+        {
+          "verse": "18",
+          "text": "El zicea: Iubit e omul, căci e zidit după chip; o iubire mai mare i s-a făcut cunoscută că e zidit după chip, precum e zis: «căci după chipul lui Dumnezeu a făcut pe om.» Iubiți sunt Israel, căci sunt numiți fii Locului; o iubire mai mare li s-a făcut cunoscută că sunt numiți fii Locului, precum e zis: «Fii sunteți Domnului Dumnezeului vostru.» Iubiți sunt Israel, căci li s-a dat un vas de plăcere; o iubire mai mare li s-a făcut cunoscută că li s-a dat un vas de plăcere cu care a fost zidită lumea, precum e zis: «Căci o învățătură bună v-am dat; Tora Mea să n-o părăsiți.»"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ben Zoma zicea: Cine e înțelept? Cel ce învață de la tot omul, precum e zis: «De la toți învățătorii mei m-am priceput.» Cine e viteaz? Cel ce-și stăpânește înclinația, precum e zis: «Mai bun e cel încet la mânie decât viteazul, și cel ce stăpânește duhul decât cel ce cucerește o cetate.» Cine e bogat? Cel ce se bucură de partea sa, precum e zis: «Când mănânci osteneala mâinilor tale, ferice de tine și bine îți va fi»: ferice de tine în lumea aceasta, și bine îți va fi în veacul care vine. Cine e cinstit? Cel ce cinstește pe făpturi, precum e zis: «Căci pe cei ce Mă cinstesc îi voi cinsti, iar cei ce Mă disprețuiesc vor fi uşori.»"
+        },
+        {
+          "verse": "2",
+          "text": "Ben Azzai zicea: Aleargă spre o poruncă ușoară, și fugi de păcat. Căci o poruncă trage o poruncă, și un păcat trage un păcat. Căci plata poruncii e porunca, și plata păcatului e păcatul."
+        },
+        {
+          "verse": "3",
+          "text": "El zicea: Nu disprețui pe nici un om, și nu îndepărta nici un lucru. Căci nu e om care să nu aibă ceasul lui, și nu e lucru care să nu aibă locul lui."
+        },
+        {
+          "verse": "4",
+          "text": "Rabi Levitas din Iavne zicea: Fii foarte, foarte smerit de duh, căci nădejdea omului e viermele."
+        },
+        {
+          "verse": "5",
+          "text": "Rabi Iohanan ben Beroka zicea: Oricine pângărește Numele Cerului în taină e pedepsit în văzul tuturor. Una e greșeala din greșeală și una e greșeala din voință, în ce privește pângărirea Numelui."
+        },
+        {
+          "verse": "6",
+          "text": "Rabi Ișmael, fiul său, zicea: Cel ce învață ca să învețe i se dă să învețe și să învețe pe alții. Cel ce învață ca să facă i se dă să învețe și să învețe pe alții, să păzească și să facă."
+        },
+        {
+          "verse": "7",
+          "text": "Rabi Țadok zicea: Nu te face ca cei ce pun la cale pledoarii. Nu face din ele coroană să te mări, nici sapă să sapi cu ea. Și așa zicea Hilel: Cel ce se slujește de coroană trece. Iată, ai învățat: oricine se slujește de cuvintele Torei își ia viața din lume."
+        },
+        {
+          "verse": "8",
+          "text": "Rabi Iose zicea: Oricine cinstește Tora e el însuși cinstit de făpturi. Oricine pângărește Tora e el însuși pângărit de făpturi."
+        },
+        {
+          "verse": "9",
+          "text": "Rabi Ișmael, fiul său, zicea: Cel ce se ferește de judecată se scapă de ură, de furt și de jurământ deșert. Iar cel ce se îngâmfă în învățătură e nebun, rău și trufaș."
+        },
+        {
+          "verse": "10",
+          "text": "El zicea: Nu judeca singur, căci nu e decât Unul care judecă singur. Și nu zice: Primiți părerea mea, căci ei au putere, nu tu."
+        },
+        {
+          "verse": "11",
+          "text": "Rabi Ionatan zicea: Oricine împlinește Tora din sărăcie o va împlini la urmă din bogăție. Oricine își anulează Tora din bogăție o va anula la urmă din sărăcie."
+        },
+        {
+          "verse": "12",
+          "text": "Rabi Meir zicea: Împuținează-ți ocupația, și îndeletnicește-te cu Tora. Fii smerit de duh înaintea oricărui om. Dacă ți-ai anulat Tora, mulți ți-o anulează în fața ta. Dacă te-ai ostenit cu Tora, mulți ți-o ostenește în fața ta."
+        },
+        {
+          "verse": "13",
+          "text": "Rabi Eliezer ben Iaakov zicea: Cel ce face o poruncă dobândește un apărător, și cel ce face un păcat dobândește un pârâș. Pocăința și faptele bune sunt ca un scut înaintea pedepsei."
+        },
+        {
+          "verse": "14",
+          "text": "Rabi Iohanan ha-Sandlar zicea: Orice adunare care e pentru Numele Cerului se va statornici la urmă. Și care nu e pentru Numele Cerului nu se va statornici la urmă."
+        },
+        {
+          "verse": "15",
+          "text": "Rabi Eleazar ben Șammua zicea: Să-ți fie cinstea ucenicului scumpă ca a ta, și cinstea tovarășului ca frica de învățător, și frica de învățător ca frica de Cer."
+        },
+        {
+          "verse": "16",
+          "text": "Rabi Iehuda zicea: Fii precaut la învățătură, căci greșeala învățăturii se socotește ca o greșeală de voie."
+        },
+        {
+          "verse": "17",
+          "text": "Rabi Șimon zicea: Trei cununi sunt: cunună a Torei, cunună a preoției și cunună a împărăției. Iar cunună a numelui bun se suie deasupra lor."
+        },
+        {
+          "verse": "18",
+          "text": "Rabi Nehorai zicea: Pribegește-te într-un loc de Tora, și nu zice că ea va veni după tine. Căci tovarășii ți-o statornicesc în mână. Și nu te bizui pe înțelegerea ta."
+        },
+        {
+          "verse": "19",
+          "text": "Rabi Iannai zicea: Nu stă în puterea noastră nici liniștea celor răi, nici suferințele celor drepți."
+        },
+        {
+          "verse": "20",
+          "text": "Rabi Matia ben Harash zicea: Fii întâiul la salutarea oricărui om. Fii coadă la lei, și nu cap la vulpi."
+        },
+        {
+          "verse": "21",
+          "text": "Rabi Iaakov zicea: Lumea aceasta e ca un hol înaintea veacului care vine. Pregătește-te în hol, ca să intri în sală."
+        },
+        {
+          "verse": "22",
+          "text": "El zicea: Mai bună e o ceas de pocăință și fapte bune în lumea aceasta decât toată viața veacului care vine. Și mai bună e o ceas de răcoare a duhului în veacul care vine decât toată viața lumii acesteia."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Cu zece cuvinte a fost zidită lumea. Ce învață aceasta? Nu putea să fie zidită cu un cuvânt? Ci ca să se plătească celor răi care pierd lumea zidită cu zece cuvinte, și să se dea plată bună celor drepți care statornicesc lumea zidită cu zece cuvinte."
+        },
+        {
+          "verse": "2",
+          "text": "Zece generații de la Adam până la Noe, ca să arate câtă îndelungă-răbdare e la El. Căci toate generațiile tot Îl mâniau, până a adus asupra lor apele potopului."
+        },
+        {
+          "verse": "3",
+          "text": "Zece generații de la Noe până la Avraam, ca să arate câtă îndelungă-răbdare e la El. Căci toate generațiile tot Îl mâniau, până a venit Avraam și a luat plata tuturor."
+        },
+        {
+          "verse": "4",
+          "text": "Cu zece încercări a fost încercat Avraam părintele nostru, și a stat în toate, ca să arate câtă iubire avea Avraam părintele nostru."
+        },
+        {
+          "verse": "5",
+          "text": "Zece minuni au fost făcute părinților noștri în Egipt, și zece la Mare."
+        },
+        {
+          "verse": "6",
+          "text": "Zece bătăi a adus Cel Sfânt, binecuvântat să fie, asupra egiptenilor în Egipt, și zece la Mare."
+        },
+        {
+          "verse": "7",
+          "text": "Cu zece încercări au încercat părinții noștri pe Cel Sfânt, binecuvântat să fie, în pustie, precum e zis: «Și M-au ispitit aceste zece ori, și n-au ascultat de glasul Meu.»"
+        },
+        {
+          "verse": "8",
+          "text": "Zece minuni au fost făcute părinților noștri în Templu: nu s-a întâmplat avort femeii de mirosul cărnii sfinte; carnea sfântă nu s-a stricat vreodată; nu s-a văzut o muscă la locul junghierii; nu s-a întâmplat întinare marelui preot în Ziua Ispășirii; ploile n-au stins focul lemnelor; vântul n-a risipit stâlpul fumului; nu s-a găsit cusur în omer, în cele două pâini și în pâinile punerii înainte; stând înghesuiți, se închinau cu loc; nu a vătămat șarpe și scorpion în Ierusalim; nu a zis om aproapelui: Strâmt e locul să înnoptez în Ierusalim."
+        },
+        {
+          "verse": "9",
+          "text": "Zece lucruri au fost zidite în ajunul sabatului, în amurg: gura pământului, gura fântânii, gura măgăriței, curcubeul, mana, toiagul, șamirul, scrisul, scrisoarea și tablele. Unii zic: și duhurile vătămătoare, și mormântul lui Moise, și berbecul lui Avraam. Unii zic: și cleștele, făcut cu clește."
+        },
+        {
+          "verse": "10",
+          "text": "Șapte însușiri la un necioplit, și șapte la un înțelept. Înțeleptul nu vorbește înaintea celui mai mare decât el în înțelepciune; nu întrerupe cuvintele tovarășului; nu se grăbește să răspundă; întreabă la lucru și răspunde la rânduială; vorbește întâi despre cel dintâi și la urmă despre cel de pe urmă; despre ce n-a auzit zice: N-am auzit; recunoaște adevărul. Cele contrare la necioplit."
+        },
+        {
+          "verse": "11",
+          "text": "Șapte feluri de pedepse vin în lume pentru șapte păcate de moarte. Dacă unii dau zeciuială și alții nu, vine foamete de secetă: unii flămânzesc, alții se satură. Dacă s-au hotărât să nu dea, vine foamete de tulburare și de secetă. Dacă s-au hotărât să nu dea hală, vine foamete de nimicire. Ciuma vine în lume pentru pedepse scrise în Tora care nu sunt date tribunalului, și pentru roadele de sabat. Sabia vine în lume pentru zăbovirea judecății, pentru strâmbarea judecății și pentru cei ce învață Tora nu după halakah."
+        },
+        {
+          "verse": "12",
+          "text": "Fiarele sălbatice vin în lume pentru jurăminte deșarte și pentru pângărirea Numelui. Exilul vine în lume pentru slujba idolilor, pentru desfrânare, pentru vărsare de sânge și pentru slobozirea pământului."
+        },
+        {
+          "verse": "13",
+          "text": "La patru vremi ciuma se înmulțește: în al patrulea, în al șaptelea, la ieșirea din al șaptelea și la ieșirea din sărbători în fiecare an. În al patrulea, din pricina zeciuielii săracului din al treilea. În al șaptelea, din pricina zeciuielii săracului din al șaselea. La ieșirea din al șaptelea, din pricina roadelor de sabat. La ieșirea din sărbători în fiecare an, din pricina răpirii darurilor săracilor."
+        },
+        {
+          "verse": "14",
+          "text": "Patru măsuri la oameni. Cel ce zice: Al meu e al meu, și al tău e al tău — aceasta e măsura de mijloc; unii zic: aceasta e măsura sodomiților. Al meu e al tău, și al tău e al meu — am-haareț. Al meu e al tău, și al tău e al tău — evlavios. Al tău e al meu, și al meu e al meu — rău."
+        },
+        {
+          "verse": "15",
+          "text": "Patru măsuri la ucenici. Iute să audă și iute să piardă — partea lui se duce în partea lui. Greu să audă și greu să piardă — partea lui se duce în partea lui. Iute să audă și greu să piardă — înțelept. Greu să audă și iute să piardă — aceasta e o parte rea."
+        },
+        {
+          "verse": "16",
+          "text": "Patru măsuri la dărnicie. Cel ce vrea să dea și să nu dea alții — ochiul lui e rău asupra celor ale altora. Să dea alții și el să nu dea — ochiul lui e rău asupra celor ale sale. Să dea el și să dea alții — evlavios. Să nu dea el și să nu dea alții — rău."
+        },
+        {
+          "verse": "17",
+          "text": "Patru măsuri la cei ce merg la casa de învățătură. Merge și nu face — plata mersului e în mâna lui. Face și nu merge — plata faptei e în mâna lui. Merge și face — evlavios. Nu merge și nu face — rău."
+        },
+        {
+          "verse": "18",
+          "text": "Patru măsuri la cei ce șed înaintea înțelepților: burete, pâlnie, sită și ciur. Buretele soarbe tot. Pâlnia primește dintr-o parte și scoate dintr-alta. Sita scoate făina și ține floarea. Ciurul scoate tărâțele și ține făina fină."
+        },
+        {
+          "verse": "19",
+          "text": "Orice iubire care atârnă de un lucru: dacă lucrul e deșert, iubirea e deșartă. Și care nu atârnă de un lucru nu e deșartă în veac. Care e iubirea care atârnă de un lucru? Iubirea lui Amnon și Tamar. Și care nu atârnă de un lucru? Iubirea lui David și Ionatan."
+        },
+        {
+          "verse": "20",
+          "text": "Orice ceartă care e pentru Numele Cerului se va statornici la urmă. Și care nu e pentru Numele Cerului nu se va statornici la urmă. Care e cearta care e pentru Numele Cerului? Cearta lui Hilel și Șamai. Și care nu e pentru Numele Cerului? Cearta lui Korah și a tot adunarea lui."
+        },
+        {
+          "verse": "21",
+          "text": "Oricine aduce pe mulți la merit, păcat nu vine prin mâna lui. Oricine aduce pe mulți la păcat nu i se dă să se pocăiască. Moise a fost evlavios și a adus pe mulți la merit; meritul mulțimii e atârnat de el, precum e zis: «Dreptatea Domnului a făcut, și judecățile Lui cu Israel.» Ieroboam a păcătuit și a adus pe mulți la păcat; păcatul mulțimii e atârnat de el, precum e zis: «Pentru păcatele lui Ieroboam, pe care le-a păcătuit și pe care le-a făcut pe Israel să le păcătuiască.»"
+        },
+        {
+          "verse": "22",
+          "text": "Oricine are aceste trei lucruri e dintre ucenicii părintelui nostru Avraam, și oricine are trei lucruri contrare e dintre ucenicii lui Balaam cel rău. Ochi bun, duh smerit și suflet smerit — ucenicii lui Avraam. Ochi rău, duh trufaș și suflet larg — ucenicii lui Balaam. Care e deosebirea între ucenicii lui Avraam și ucenicii lui Balaam? Ucenicii lui Avraam mănâncă în lumea aceasta și moștenesc veacul care vine, precum e zis: «Ca să moștenesc celor ce Mă iubesc ființă, și să le umplu vistieriile.» Ucenicii lui Balaam moștenesc Gheena și coboară în groapa pieirii, precum e zis: «Iar Tu, Dumnezeule, îi vei coborî în groapa pieirii; bărbații sângelui și ai înșelăciunii nu vor ajunge zilele lor la jumătate.»"
+        },
+        {
+          "verse": "23",
+          "text": "Iehuda ben Tema zicea: Fii tare ca leopardul, ușor ca vulturul, iute ca cerbul și viteaz ca leul, să faci voia Tatălui tău care e în cer. El zicea: Cel nerușinat la Gheena, și cel rușinos la Grădina Edenului. Să fie voia Ta, Doamne Dumnezeul nostru, să se zidească cetatea Ta în zilele noastre, și partea noastră în Tora Ta."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Înțelepții au învățat în limba Mișnei. Binecuvântat e Cel ce a ales-o pe ei și Tora lor. Rabi Meir zicea: Oricine se îndeletnicește cu Tora pentru ea însăși merită multe lucruri. Și nu numai atât, ci tot lumea e vrednică de el. E numit prieten, iubit, iubitor de Loc, iubitor de făpturi, veselitor al Locului, veselitor al făpturilor. Și îl îmbracă cu smerenie și cu frică, și îl face potrivit să fie drept, evlavios, drept și credincios. Și îl depărtează de păcat, și îl apropie de merit. Și se folosesc de el sfat și tărie, pricepere și bărbăție, precum e zis: «A Mea e sfatul și tăria, eu sunt priceperea, a mea e bărbăția.» Și îi dă împărăție și stăpânire și cercetarea judecății. Și i se descoperă tainele Torei. Și e făcut ca un izvor care sporește și ca un râu care nu încetează. Și e modest, îndelung-răbdător, și iartă ocara. Și îl mărește și îl înalță deasupra tuturor faptelor."
+        },
+        {
+          "verse": "2",
+          "text": "Rabi Iehoșua ben Levi zicea: În fiecare zi un glas iese din muntele Horeb și vestește și zice: Vai celor ce ocărăsc Tora. Căci oricine nu se îndeletnicește cu Tora e numit mustrat, precum e zis: «Inel de aur în râtul porcului, femeie frumoasă și fără gust.» Și zice: «Tablele erau lucrarea lui Dumnezeu, și scrisul era scrisul lui Dumnezeu, săpat pe table.» Nu citi «săpat» (harut), ci «slobozenie» (herut). Căci nu e ție slobod decât cel ce se îndeletnicește cu studiul Torei. Și oricine se îndeletnicește cu studiul Torei, iată, acesta se înalță, precum e zis: «Și din Matana la Nahaliel, și din Nahaliel la Bamot.»"
+        },
+        {
+          "verse": "3",
+          "text": "Cel ce învață de la tovarășul său un capitol, sau o halakah, sau un verset, sau o zicere, sau chiar o literă, trebuie să-i poarte cinste. Căci așa găsim la David, regele lui Israel, care n-a învățat de la Ahitofel decât două lucruri, și l-a numit învățătorul său, slăvitul său și cunoscutul său, precum e zis: «Iar tu, om după inima mea, slăvitul meu și cunoscutul meu.» Iată, ai învățat: dacă David, regele lui Israel, care n-a învățat de la Ahitofel decât două lucruri, l-a numit învățătorul său, slăvitul său și cunoscutul său, cel ce învață de la tovarășul său un capitol, sau o halakah, sau un verset, sau o zicere, sau chiar o literă, cu atât mai mult trebuie să-i poarte cinste. Și cinste nu e decât Tora, precum e zis: «Cei înțelepți vor moșteni cinste»; «și desăvârșiții vor moșteni binele»; și nu e bine decât Tora, precum e zis: «Căci o învățătură bună v-am dat; Tora Mea să n-o părăsiți.»"
+        },
+        {
+          "verse": "4",
+          "text": "Așa e calea Torei: pâine cu sare să mănânci, și apă cu măsură să bei, și pe pământ să dormi, și o viață de durere să trăiești, și cu Tora să te ostenești. Dacă faci așa, «ferice de tine și bine îți va fi»: ferice de tine în lumea aceasta, și bine îți va fi în veacul care vine."
+        },
+        {
+          "verse": "5",
+          "text": "Nu căuta mărire, și nu pofti cinstire. Mai mult decât învățătura ta fă. Și nu pofti masa împăraților, căci masa ta e mai mare decât masa lor, și cunună ta e mai mare decât cunună lor. Și Stăpânul lucrului e credincios să-ți plătească plata lucrului tău."
+        },
+        {
+          "verse": "6",
+          "text": "Tora e mai mare decât preoția și decât împărăția. Căci împărăția se dobândește cu treizeci de însușiri, și preoția cu douăzeci și patru, iar Tora cu patruzeci și opt. Acestea sunt: cu studiu, cu auzirea urechii, cu rânduiala buzelor, cu înțelegerea inimii, cu frica, cu frica, cu smerenia, cu veselia, cu slujirea înțelepților, cu alegerea tovarășilor, cu discuția ucenicilor, cu așezarea, cu Scriptura, cu Mișna, cu împuținarea somnului, cu împuținarea vorbirii, cu împuținarea desfătării, cu împuținarea râsului, cu împuținarea lucrului, cu împuținarea neguțătoriei, cu împuținarea căilor lumii, cu îndelungă-răbdare, cu inimă bună, cu încrederea înțelepților, cu primirea suferințelor."
+        },
+        {
+          "verse": "7",
+          "text": "Cel ce învață ca să învețe i se dă să învețe și să învețe pe alții. Cel ce învețe ca să facă i se dă să învețe și să învețe pe alții, să păzească și să facă. Mare e Tora, căci ea dă viață celor ce o fac, în lumea aceasta și în veacul care vine, precum e zis: «Căci viață sunt ele celor ce le găsesc, și tămăduire a tot trupul lui.» Și zice: «Tămăduire va fi trupului tău, și răcoare oaselor tale.» Și zice: «Pom al vieții e ea pentru cei ce o apucă, și cei ce o sprijină sunt fericiți.» Și zice: «Căci podoabe de har sunt ele capului tău, și lanțuri la gâtul tău.» Și zice: «Va da capului tău cunună de har, cunună de slavă îți va da.» Și zice: «Lungime de zile în dreapta ei, în stânga ei bogăție și cinste.» Și zice: «Căci lungime de zile, ani de viață și pace îți vor adauge.»"
+        },
+        {
+          "verse": "8",
+          "text": "Rabi Șimon ben Iehuda zicea în numele lui Rabi Șimon ben Iohai: Frumusețea, puterea, bogăția, cinstea, înțelepciunea, bătrânețea, căruntețea și fiii sunt potrivite drepților și potrivite lumii, precum e zis: «Căruntețea e cunună de slavă; pe calea dreptății se găsește.» Și zice: «Slava tinerilor e puterea lor, și podoaba bătrânilor e căruntețea.» Și zice: «Cunună bătrânilor sunt fiii fiilor, și slava fiilor sunt părinții lor.» Și zice: «Luna e la capătul ei, soarele e la capătul lui.» Rabi Șimon ben Menasia zicea: Aceste șapte însușiri pe care le-au numărat înțelepții pentru drepți s-au împlinit toate în Rabi și fiii săi."
+        },
+        {
+          "verse": "9",
+          "text": "Rabi Iose ben Kișma zicea: Odată eram umblând pe drum, și m-a întâlnit un om, și m-a salutat, și i-am răspuns salutul. Mi-a zis: Rabi, din ce loc ești? I-am zis: Dintr-o cetate mare de înțelepți și de scribari. Mi-a zis: Rabi, vrei să locuiești cu noi în locul nostru? Îți voi da o mie de mii de dinari de aur, și pietre scumpe și mărgăritare. I-am zis: Dacă mi-ai da tot argintul și aurul și pietrele scumpe și mărgăritarele din lume, nu locuiesc decât într-un loc de Tora. Și așa e scris în cartea Psalmilor, de David, regele lui Israel: «Mai bună e mie Tora gurii Tale decât mii de aur și argint.» Și nu numai atât, ci în ceasul ieșirii omului nu-l însoțesc nici argint, nici aur, nici pietre scumpe și mărgăritare, ci Tora și faptele bune, precum e zis: «Când umbli, te va călăuzi; când te culci, te va păzi; când te trezești, ea va vorbi cu tine.» «Când umbli, te va călăuzi» — în lumea aceasta; «când te culci, te va păzi» — în mormânt; «când te trezești, ea va vorbi cu tine» — în veacul care vine. Și zice: «A Mea e argintul, și a Mea e aurul, zice Domnul oștirilor.»"
+        },
+        {
+          "verse": "10",
+          "text": "Cinci stăpâniri a dobândit Cel Sfânt, binecuvântat să fie, în lumea Sa, și acestea sunt: Tora e o stăpânire, cerul și pământul sunt o stăpânire, Avraam e o stăpânire, Israel e o stăpânire, Templul e o stăpânire. De unde știm Tora? Precum e zis: «Domnul m-a dobândit, începutul căii Sale, mai înainte de lucrările Lui de atunci.» De unde cerul și pământul? Precum e zis: «Așa zice Domnul: Cerul e scaunul Meu, și pământul e așternutul picioarelor Mele; ce casă Îmi veți zidi, și ce loc e locul odihnei Mele?» Și zice: «Cât de multe sunt lucrările Tale, Doamne; pe toate le-ai făcut cu înțelepciune; e plin pământul de stăpânirea Ta.» De unde Avraam? Precum e zis: «Și l-a binecuvântat, și a zis: Binecuvântat e Avram de Dumnezeul cel Preaînalt, Stăpânul cerului și al pământului.» De unde Israel? Precum e zis: «Până va trece poporul Tău, Doamne, până va trece poporul acesta pe care Ți l-ai dobândit.» Și zice: «Sfinților care sunt în țară, și celor slăviți, toată plăcerea Mea e în ei.» De unde Templul? Precum e zis: «Locul pe care Ți l-ai făcut locuire, Doamne, sanctuarul, Stăpâne, pe care l-au întemeiat mâinile Tale.» Și zice: «Și i-a adus la hotarul sfințeniei Sale, muntele acesta pe care l-a dobândit dreapta Sa.»"
+        },
+        {
+          "verse": "11",
+          "text": "Tot ce a zidit Cel Sfânt, binecuvântat să fie, în lumea Sa, nu l-a zidit decât spre slava Sa, precum e zis: «Tot ce e chemat cu Numele Meu, spre slava Mea l-am zidit, l-am întocmit, da, l-am făcut.» Și zice: «Domnul va împărăți în veac și în veac.»"
+        }
+      ]
+    }
+  ]
+}
