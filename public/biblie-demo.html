@@ -3708,6 +3708,7 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
     parentSubfolderContext = parentNestedFolder || null;
     folderPanelTitle.textContent = title;
     bookList.innerHTML = "";
+    bookList.scrollTop = 0;
     if(note){
       const noteEl = document.createElement("div");
       noteEl.className = "settings-footnote";
