@@ -1,0 +1,405 @@
+{
+  "translation": "Excerpta ex Theodoto 1–25 – adaptare după Clement / ANF",
+  "source": "Clement of Alexandria, Excerpta ex Theodoto 1–25 (ANF VIII)",
+  "source_status": "Public Domain (ANF)",
+  "modernization": "Adaptare în română modernă. Un excerpt = un verset. Parantezele drepte = glose clare ale lui Clement sau lacune.",
+  "book": "Excerpta ex Theodoto",
+  "bookSlug": "excerpta-theodoto",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[NOTĂ EDITORIALĂ.]"
+        },
+        {
+          "verse": 2,
+          "text": "Excerpta ex Theodoto = caietul lui Clement din Alexandria: note din Teodot valentinianul și din «școala lui». Nu e un tratat redactat de Teodot, ci 86 de paragrafe amestecate cu observațiile lui Clement."
+        },
+        {
+          "verse": 3,
+          "text": "Martor principal: un manuscrit al Stromate-lor (Laur. V 3 și familia). Ediție PD de lucru: ANF VIII. Numerotarea e cea tradițională 1–86."
+        },
+        {
+          "verse": 4,
+          "text": "Nu se unifică aici cu Evanghelia lui Filip sau cu Ptolemeu. Unde Clement contrazice, se notează scurt."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "«Tată și eu una suntem», zice. Tatăl e unul, iar Fiul e unul. «În sânul Tatălui» — eonul Unului-Născut, Care e în sân, L-a vestit pe Tatăl. «Dumnezeu nimeni nu L-a văzut vreodată» — Cel ce s-a arătat e Unul-Născut."
+        },
+        {
+          "verse": 2,
+          "text": "Chipul eonului nevăzut e tot eon nevăzut; chipul eonului născut e tot eon născut. Mântuitorul e chipul Unului-Născut; de aceea și El e Unul-Născut. Iar slava Unului-Născut e plinirea, și slava Mântuitorului e Biserica."
+        },
+        {
+          "verse": 3,
+          "text": "În Pleroma, unitatea e Tatăl, iar Unul-Născut, și din El Cuvântul, și din Cuvânt viața, și din viață omul. Biserica e chipul Omului."
+        },
+        {
+          "verse": 4,
+          "text": "Mântuitorul nostru, zic ei, S-a îmbrăcat. Trupul e psihic, din iconomia Demiurgului. Patima e a Sofiei. Duhul pogorât la Iordan e al Pleromei. Acesta S-a retras când a fost dat pe mână."
+        },
+        {
+          "verse": 5,
+          "text": "Și a murit — nu că El a murit, ci că a fost despărțit de Duhul care Se pogorâse, ca moartea să lucreze asupra trupului. Iar învierea e a trupului psihic, care s-a sculat și a fost luat."
+        },
+        {
+          "verse": 6,
+          "text": "Pâinea și untdelemnul sunt sfințite prin puterea Numelui; ele nu sunt aceleași după arătare, ci sunt schimbate prin putere spre putere duhovnicească. Tot așa și apa, și exorcizată, și botezul, se face nu numai spălare a trupului, ci și sfințire."
+        },
+        {
+          "verse": 7,
+          "text": "Din patima înțelepciunii s-au făcut cele văzute. Demiurgul e chipul Unului-Născut: de aceea e și el «dumnezeu» și «tată». El a zidit toate după chipurile de sus, neștiindu-le."
+        },
+        {
+          "verse": 8,
+          "text": "«Și Cuvântul S-a făcut trup» — nu numai după arătare, zic ei, ci și după adevăr. Iar «noi am văzut slava Lui» — slava Unului-Născut, slava Bisericii."
+        },
+        {
+          "verse": 9,
+          "text": "Încrucișarea, tau-ul, e semnul eonului celui de la limită. De aceea e și în lume, și pe cei ce se pecetluiesc îi pecetluiește cu el."
+        },
+        {
+          "verse": 10,
+          "text": "Stelele și puterile nu sunt aceeași: puterile sunt nevăzute, stăpânesc stelele. Precum sufletul în trup, așa puterile în stele."
+        },
+        {
+          "verse": 11,
+          "text": "Cele douăsprezece semne și cele șapte planete, după ei, sunt chipuri ale eonilor. Soarele e chipul Unului-Născut; luna, a Bisericii; celelalte, ale celorlalți."
+        },
+        {
+          "verse": 12,
+          "text": "Mântuitorul S-a arătat stând la Iordan, ca pecete a iconomiei. Iar Duhul, ca porumbel, e al Pleromei, pogorând pe trupul psihic."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 13,
+          "text": "Îngerii din Pleroma, văzând chipul Mântuitorului, s-au minunat. Și slava cea de sus e Biserica, pe care au văzut-o ei."
+        },
+        {
+          "verse": 14,
+          "text": "Moartea e despărțirea sufletului de trup. Iar învierea e unirea. De aceea și botezul e numit moarte și înviere: murim lumii, înviem lui Hristos."
+        },
+        {
+          "verse": 15,
+          "text": "Focul e îndoit: unul e simțit, altul e ascuns. Focul ascuns e al judecății; cel simțit e al lumii. Botezul stinge pe cel simțit; Duhul, pe cel ascuns."
+        },
+        {
+          "verse": 16,
+          "text": "Precum cenușa e semnul focului care a fost, tot așa trupul e semnul patimii care a fost. Iar când se ia patima, rămâne semnul, până ce și el e dezlegat."
+        },
+        {
+          "verse": 17,
+          "text": "Mântuitorul a mâncat și a băut într-un chip deosebit, nedând mâncarea afară. Atât de mare era puterea înfrânării în El, încât mâncarea nu se strica în El, de vreme ce El nu Se strica."
+        },
+        {
+          "verse": 18,
+          "text": "«Tată, izbăvește-Mă de ceasul acesta» — chipul slăbiciunii. «Dar pentru aceasta am venit» — chipul puterii. Una e a celui psihic, alta a celui duhovnicesc."
+        },
+        {
+          "verse": 19,
+          "text": "Numele de pe cruce, zic ei, e al lui Iisus. Iar Hristos e al Unului-Născut. De aceea «Iisus» e al iconomiei, «Hristos» al Pleromei."
+        },
+        {
+          "verse": 20,
+          "text": "Cei ce se botează în Numele cel triplu — Tată, Fiu, Duh — sunt pecetluiți. Și pecetea e o putere, ca să nu poată intra cel ce stăpânește lumea."
+        },
+        {
+          "verse": 21,
+          "text": "Bărbatul e chipul Unului-Născut; femeia, al Bisericii. De aceea «bărbat și femeie i-a făcut», ca să fie chip al celor de sus."
+        },
+        {
+          "verse": 22,
+          "text": "Îngerii s-au botezat la început. De aceea și noi, când ne botezăm, suntem botezați «în îngeri». Căci ei sunt bărbați, noi femei, până ce devenim bărbați, întocmai cu îngerii."
+        },
+        {
+          "verse": 23,
+          "text": "Cei chemați, zic ei, sunt psihici; cei aleși, pneumatici. Demiurgul e tată al celor psihici; Tatăl cel de sus, al celor pneumatici."
+        },
+        {
+          "verse": 24,
+          "text": "Soarta (heimarmene) e a celor din afară. Botezul o dezleagă. De aceea, până la botez, soarta e puternică; după pecete, nu mai e stăpână."
+        },
+        {
+          "verse": 25,
+          "text": "Steaua celor înțelepți a stat deasupra casei. Era, zic ei, nu din soartă, ci din iconomie: un semn că soarta e biruită. Iar darurile — aur, smirnă, tămâie — sunt ale celui slăvit, ale celui îngropat, ale celui Dumnezeu."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 26,
+          "text": "Biserica, zic ei, e aluatul. E amestecată în toată frământătura. Iar aluatul e cel din Pleroma, sămânța cea duhovnicească, care se frământă până ce totul e dospit."
+        },
+        {
+          "verse": 27,
+          "text": "Mântuitorul a luat trup. Nu fără trup ar fi putut veni. Iar trupul e din Sofia cea de jos, din cea psihică, ca să poată pătimi. Duhul e din cea de sus."
+        },
+        {
+          "verse": 28,
+          "text": "Demiurgul, când a zis «Să facem om după chip și după asemănare», a lucrat chipul; asemănarea a venit de sus, sămânța cea duhovnicească, pusă fără știrea lui."
+        },
+        {
+          "verse": 29,
+          "text": "De aceea omul e îndoit: după chip e psihic, după asemănare e pneumatic. Iar cel de țărână e al materiei."
+        },
+        {
+          "verse": 30,
+          "text": "Adam a vorbit proorocii pe care nu le știa. Era sămânța vorbind în el, mai mare decât Demiurgul care îl zidise."
+        },
+        {
+          "verse": 31,
+          "text": "Frica Demiurgului a fost începutul înțelepciunii. Când a auzit pe Cel de deasupra, s-a temut. Din frică a venit întoarcerea; din întoarcere, înțelepciunea cea de jos."
+        },
+        {
+          "verse": 32,
+          "text": "Îngerii slujesc. Unii sunt ai Demiurgului, slujind soartei; alții sunt ai Pleromei, slujind seminței. De aceea «îngerul Domnului» nu e totuna cu «îngerul satanei»."
+        },
+        {
+          "verse": 33,
+          "text": "Crucea e semn al Limitului (Horos). Ea desparte cele de jos de cele de sus și întărește pe cele dinăuntru. De aceea cel răstignit e al iconomiei; Cel ce pecetluiește e al Pleromei."
+        },
+        {
+          "verse": 34,
+          "text": "Sofia, când a fost izgonită, a plâns. Lacrimile ei sunt materia udă. Râsul ei, când s-a întors, e materia luminoasă. Frica e materia psihică. Încurcătura e materia grea."
+        },
+        {
+          "verse": 35,
+          "text": "Din aceste patimi a luat Demiurgul și a zidit. Nu știa izvorul. De aceea zice: «Eu sunt Dumnezeu, și afară de mine nu este altul.»"
+        },
+        {
+          "verse": 36,
+          "text": "Proorocii au vorbit după cel din ei. Când vorbea sămânța, grăiau cele de sus; când vorbea Demiurgul, grăiau ale lui; când vorbea pofta, grăiau ale ei."
+        },
+        {
+          "verse": 37,
+          "text": "De aceea Scriptura e amestecată. Nu tot ce e scris e al Tatălui. Trebuie deosebit: ce e al seminței, ce e al ziditorului, ce e al celui de jos."
+        },
+        {
+          "verse": 38,
+          "text": "Legea e a Demiurgului. E dreaptă, dar nu desăvârșită. Evanghelia e a Mântuitorului. Ea plinește și desființează, după părți, cum s-a arătat și la Ptolemeu."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 39,
+          "text": "Sămânța a fost semănată fără știrea Demiurgului. E puțină. De aceea «mulți chemați, puțini aleși»: chemații sunt ai lui; aleșii, ai seminței."
+        },
+        {
+          "verse": 40,
+          "text": "Chemații se mântuiesc prin fapte și prin credință; aleșii, prin fire. Unora li se dă har; altora li se descoperă ceea ce erau."
+        },
+        {
+          "verse": 41,
+          "text": "Botezul e îndoit. Unul e al Demiurgului, iertare a greșelilor; altul e al lui Hristos, pecete a Pleromei. Unii primesc numai pe cel dintâi; cei aleși, pe amândoi."
+        },
+        {
+          "verse": 42,
+          "text": "Când se coboară Duhul, soarta e dezlegată. Stelele nu mai stăpânesc. De aceea cei pecetluiți nu mai întreabă horoscopul ca pe un stăpân, ci îl citesc ca pe o umbră care a fost."
+        },
+        {
+          "verse": 43,
+          "text": "Hristos a luat pe cei aleși din lume ca pe o pradă. «A robit robime.» Robimea e sămânța ținută jos; robirea e suirea ei."
+        },
+        {
+          "verse": 44,
+          "text": "Până la cruce, sămânța era amestecată. După cruce, e deosebită. Limitul a lucrat. De aceea «s-a sfâșiat catapeteasma»: s-a arătat cele de dinăuntru."
+        },
+        {
+          "verse": 45,
+          "text": "Sufletul psihic, dacă se unește cu sămânța, se suie cu ea până la Ogdoadă. Acolo așteaptă. Sămânța însă intră în Pleroma. Psihicul rămâne la nunta din mijloc."
+        },
+        {
+          "verse": 46,
+          "text": "Hilikul (cel material) piere. Nu are unde să se suie. Focul îl ia, nu ca pedeapsă a unui judecător pizmas, ci ca sfârșit al ceea ce n-are rădăcină."
+        },
+        {
+          "verse": 47,
+          "text": "Demiurgul însuși, când va cunoaște pe Cel de deasupra, se va odihni. Nu piere. Locul lui e Ogdoada, locul mijlociu, după ce își dă slujba."
+        },
+        {
+          "verse": 48,
+          "text": "«Dumnezeu a adormit pe Adam» — somnul e uitarea seminței. «A scos o coastă» — femeia e Biserica scoasă din somn, ca să fie ajutor."
+        },
+        {
+          "verse": 49,
+          "text": "Șarpele e, la unii dintre ei, chipul Înțelepciunii care a trezit; la alții, chipul celui de jos care a amestecat pofta. Excerpta nu unifică."
+        },
+        {
+          "verse": 50,
+          "text": "«Iată, Adam s-a făcut ca unul dintre noi» — «dintre noi» e glasul eonilor. Demiurgul a auzit și s-a temut. Izgonirea din rai e coborârea în lumea soartei."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 51,
+          "text": "Numele cel nevăzut e al Tatălui. Numele cel arătat e al Fiului. Cei ce cunosc Numele sunt pecetluiți cu el. Nu e silabă, ci putere."
+        },
+        {
+          "verse": 52,
+          "text": "«Eu sunt în Tatăl și Tatăl în Mine» — nu după loc, ci după putere. Pleroma e în Unul; Unul e în Pleroma."
+        },
+        {
+          "verse": 53,
+          "text": "Cei treizeci de eoni sunt Numele întreg. Cine numără fără putere numără umbre. Cine e pecetluit poartă numărul fără să-l numere."
+        },
+        {
+          "verse": 54,
+          "text": "Botezul e numit și moarte, și viață, și înviere, și pecete, și purtare de lumină, și nuntă. Nu e o apă, ci o trecere."
+        },
+        {
+          "verse": 55,
+          "text": "Cei ce se coboară în apă se dezbracă de lume și se îmbracă în Hristos. Nu e vorba numai de trup. Se dezbracă soarta, se îmbracă Pleroma."
+        },
+        {
+          "verse": 56,
+          "text": "Ungerea urmează apei. Untdelemnul e semnul Duhului. Fără ungere, zic unii dintre ei, pecetea e nedesăvârșită. Excerpta nu impune un ritual unic."
+        },
+        {
+          "verse": 57,
+          "text": "Nunta e a celor desăvârșiți. E unirea seminței cu îngerul ei. Fiecare sămânță are perechea de sus. Până la nuntă e femeie; la nuntă devine bărbat."
+        },
+        {
+          "verse": 58,
+          "text": "De aceea «în înviere nici nu se însoară, nici nu se mărită, ci sunt ca îngerii». Nu e desființarea nunții celei de sus, ci a celei de jos."
+        },
+        {
+          "verse": 59,
+          "text": "Cină cea de taină e chip. Pâinea e trupul Bisericii; paharul e sângele seminței. Cei ce mănâncă fără cunoaștere mănâncă judecată; cei ce mănâncă cu cunoaștere mănâncă viață."
+        },
+        {
+          "verse": 60,
+          "text": "«Aceasta să faceți spre pomenirea Mea» — pomenirea e aducerea seminței la locul ei, nu o repetare a morții."
+        },
+        {
+          "verse": 61,
+          "text": "Rugăciunea celor pecetluiți nu e cerere de lucruri. E întoarcere a Numelui. «Sfințească-se Numele Tău» e lucrul însuși al pecetei."
+        },
+        {
+          "verse": 62,
+          "text": "Tatăl nu e cuprins. Mintea Îl cuprinde cât i se dă. Cuvântul Îl vestește. Viața Îl trăiește. Biserica Îl slăvește. Sofia L-a căutat și a căzut. Mântuitorul a adus-o înapoi."
+        },
+        {
+          "verse": 63,
+          "text": "Căderea nu e a Tatălui. E a celui din urmă eon, care a voit să-L cuprindă fără pereche. Limita l-a oprit. Din oprire s-au născut patimile; din patimi, lumea."
+        },
+        {
+          "verse": 64,
+          "text": "Lumea nu e deșartă. E umbră. Umbra e utilă până ce vine trupul. Când vine trupul — Biserica adunată — umbra se dă la o parte."
+        },
+        {
+          "verse": 65,
+          "text": "Timpul e al Demiurgului. Veacul e al Pleromei. «Iată acum vreme bineprimită» e tăietura timpului de către veac."
+        },
+        {
+          "verse": 66,
+          "text": "Învierea a și venit pentru cei pecetluiți. «A trecut din moarte la viață.» Trupul așteaptă dezlegarea; sămânța nu așteaptă."
+        },
+        {
+          "verse": 67,
+          "text": "Cei ce zic că învierea e numai a cărnii n-au cunoscut sămânța. Cei ce zic că trupul e de lepădat ca un gunoi n-au cunoscut icoana. Excerpta ține amândouă: trupul e semnul; sămânța e lucrul."
+        },
+        {
+          "verse": 68,
+          "text": "«Semănatu-se trup firesc, înviază trup duhovnicesc.» Fireanul e al Demiurgului; duhovnicescul e al seminței îmbrăcate."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 69,
+          "text": "Stelele sunt slujitoare. Nu sunt cauze dintâi. Cine le slujește ca pe niște dumnezei slujește umbrei. Cine le citește ca pe ceasuri ale iconomiei nu greșește, dacă pecetea e deasupra."
+        },
+        {
+          "verse": 70,
+          "text": "Cele douăsprezece semne sunt chipul celor doisprezece eoni. Cele șapte planete, al hebdomadei Demiurgului. Soarele, al Unului-Născut. Luna, a Bisericii, care se umple și se golește până la plinire."
+        },
+        {
+          "verse": 71,
+          "text": "Nașterea după stele e a trupului. Nașterea de sus e a seminței. De aceea «dacă nu se naște cineva de sus, nu poate vedea». Nu e vorba de o a doua ieșire din pântece."
+        },
+        {
+          "verse": 72,
+          "text": "Magii au văzut steaua. Steaua era a iconomiei, nu a soartei. De aceea s-a oprit. Soarta se mișcă; semnul Pleromei stă."
+        },
+        {
+          "verse": 73,
+          "text": "Copilul a fost dus în Egipt. Egiptul e lumea. Întoarcerea e suirea. Irod e arhontele care ucide trupurile ca să stingă sămânța și nu poate."
+        },
+        {
+          "verse": 74,
+          "text": "La Iordan s-au deschis cerurile. Nu s-au deschis pentru Demiurg, care nu știa, ci pentru sămânță, care a auzit: «Acesta este.»"
+        },
+        {
+          "verse": 75,
+          "text": "Ispita din pustie e a celui psihic. Cel pneumatic nu e ispitit astfel. De aceea «nu numai cu pâine»: pâinea e a Demiurgului; cuvântul e al Tatălui."
+        },
+        {
+          "verse": 76,
+          "text": "Schimbarea la față arată slava Unului-Născut pe trupul psihic. Moise și Ilie sunt ai Demiurgului, slujind. Glasul e al Tatălui."
+        },
+        {
+          "verse": 77,
+          "text": "Până la cruce a lucrat iconomia. La cruce, Duhul S-a retras — zic ei — ca patima să fie a celui psihic. Excerpta notează părerea; Clement nu o face a sa."
+        },
+        {
+          "verse": 78,
+          "text": "Catapeteasma sfâșiată e limita care se deschide. Mormântul gol e semnul că sămânța nu e ținută de materie."
+        },
+        {
+          "verse": 79,
+          "text": "Arătările de după înviere sunt ale trupului psihic îndumnezeit în iconomie, ca ucenicii să creadă. Intrarea în Pleroma nu se vede cu ochi de carne."
+        },
+        {
+          "verse": 80,
+          "text": "«Pace vouă» e dezlegarea soartei. «Luați Duh Sfânt» e pecetea. «Cărora le veți ierta» e slujba celor pecetluiți, nu o putere a Demiurgului."
+        },
+        {
+          "verse": 81,
+          "text": "Cincizecimea e pogorârea asupra Bisericii. Limbile sunt semnul că sămânța e din toate neamurile, nu dintr-o seminție a Legii."
+        },
+        {
+          "verse": 82,
+          "text": "Apostolul Pavel a fost ales din pântece. Sămânța era în el înainte de Lege. De aceea «când a binevoit Cel ce m-a osebit» — nu Demiurgul l-a osebit întâi."
+        },
+        {
+          "verse": 83,
+          "text": "«Legea e pedagog spre Hristos.» Pedagogul slujește. Când vine Hristos, pedagogul nu mai e stăpân. Nu e urât; e pus deoparte."
+        },
+        {
+          "verse": 84,
+          "text": "Sfârșitul e adunarea seminței. Ogdoada primește pe cei psihici care s-au unit cu ea. Pleroma primește pe cei pneumatici. Materia se topește în focul ei."
+        },
+        {
+          "verse": 85,
+          "text": "Atunci Demiurgul își dă slujba. Nu e aruncat. Se odihnește. Tatăl e toate în toți — nu pentru că lumea era El, ci pentru că umbra s-a ridicat."
+        },
+        {
+          "verse": 86,
+          "text": "[Caietul se încheie aici. Nu e colofon de autor. Clement nu semnează excerpta ca pe o carte a sa, nici ca pe o evanghelie a lui Teodot.]"
+        }
+      ]
+    }
+  ]
+}

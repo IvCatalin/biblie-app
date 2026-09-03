@@ -1,0 +1,310 @@
+{
+  "translation": "Basilides – fragmente și testimonii – adaptare după ANF (Irineu, Hipolit, Clement, Origen, Eusebiu)",
+  "source": "Irenaeus AH 1.24.3–7; Hippolytus Ref. 7.20–27 (excerpta); Clement Strom. 4.81–86 ș.a.; Origen In Rom.; Eusebius HE 4.7 (PD, ANF)",
+  "source_status": "Public Domain (Ante-Nicene Fathers)",
+  "modernization": "Adaptare în română modernă. Paranteze drepte = cadrul patristic, nu cuvintele lui Basilides.",
+  "book": "Basilides (fragmente)",
+  "bookSlug": "basilides",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Eusebiu:] În vremea aceasta s-au ivit mulți bărbați care, asemenea unor lupi răpitori, au pustiit turma lui Hristos."
+        },
+        {
+          "verse": 2,
+          "text": "[Printre ei a fost Basilides, care a lăsat o școală de înșelăciune și a alcătuit douăzeci și patru de cărți la Evanghelie.]"
+        },
+        {
+          "verse": 3,
+          "text": "[Agrippa Castor, un scriitor foarte vestit dintre cei de atunci, i-a alcătuit o respingere temeinică, datând încă din vremea lui Hadrian.]"
+        },
+        {
+          "verse": 4,
+          "text": "[El spune că Basilides pretindea că a avut ca dascăl pe Glaucias, tălmaciul lui Petru.]"
+        },
+        {
+          "verse": 5,
+          "text": "[Mai spune că Basilides a statornicit profeți de-ai săi, Barcabbas și Barcoph, și pe alții fără de număr, și că a alcătuit basme de acest fel, iar ucenicilor le-a poruncit tăcere de cinci ani.]"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Basilides iarăși, ca să pară că a aflat ceva mai înalt și mai vrednic de crezare, își întinde nespus de mult învățătura.]"
+        },
+        {
+          "verse": 2,
+          "text": "El pune că Nous s-a născut întâi din Tatăl nenăscut; din Nous s-a născut Logosul; din Logos, Phronesis; din Phronesis, Sophia și Dynamis; iar din Dynamis și Sophia puterile, începătoriile și îngerii, pe care îi numește și «cei dintâi»; și că prin ei s-a făcut cerul cel dintâi."
+        },
+        {
+          "verse": 3,
+          "text": "Apoi alte puteri, ieșite prin emanație din acestea, au zidit un alt cer asemenea celui dintâi."
+        },
+        {
+          "verse": 4,
+          "text": "Și tot așa, când alții iarăși s-au format prin emanație din ei, corespunzând întocmai celor de deasupra, au întocmit și aceștia un al treilea cer."
+        },
+        {
+          "verse": 5,
+          "text": "Iar din acesta, în jos, a urmat o a patra înșiruire de urmași; și tot după acest chip spun că s-au format tot mai multe începătorii și îngeri și trei sute șaizeci și cinci de ceruri."
+        },
+        {
+          "verse": 6,
+          "text": "De aceea anul are același număr de zile, potrivit cu numărul cerurilor."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Îngerii care țin cerul cel mai de jos, adică pe cel văzut de noi, au plăsmuit toate cele din lume și și-au împărțit pământul și neamurile de pe el."
+        },
+        {
+          "verse": 2,
+          "text": "Căpetenia lor este cel socotit a fi Dumnezeul iudeilor; și, fiindcă a vrut să supună celelalte neamuri poporului său, adică iudeilor, toți ceilalți stăpânitori i s-au împotrivit."
+        },
+        {
+          "verse": 3,
+          "text": "De aceea toate celelalte neamuri au fost în vrăjmășie cu neamul lui."
+        },
+        {
+          "verse": 4,
+          "text": "Dar Tatăl fără naștere și fără nume, văzând că vor fi nimiciți, l-a trimis pe Nous, întâiul său născut (el este cel numit Hristos), ca să dăruiască izbăvire celor ce cred în el de sub puterea celor care au făcut lumea."
+        },
+        {
+          "verse": 5,
+          "text": "S-a arătat deci pe pământ ca om, neamurilor acestor puteri, și a făcut minuni."
+        },
+        {
+          "verse": 6,
+          "text": "De aceea el însuși n-a suferit moartea, ci Simon, un oarecare om din Cirene, silit, a purtat crucea în locul lui."
+        },
+        {
+          "verse": 7,
+          "text": "Acesta, preschimbat de el ca să fie socotit Iisus, a fost răstignit prin neștiință și rătăcire, pe când Iisus a luat chipul lui Simon și, stând alături, râdea de ei."
+        },
+        {
+          "verse": 8,
+          "text": "Căci, fiind o putere fără trup și Nous al Tatălui nenăscut, s-a preschimbat cum a vrut și s-a suit astfel la Cel ce-l trimisese, batjocorindu-i, de vreme ce nu putea fi prins și era nevăzut de toți."
+        },
+        {
+          "verse": 9,
+          "text": "Cei care cunosc acestea au fost sloboziți de începătoriile care au plăsmuit lumea; astfel nu ni se cade să-l mărturisim pe cel răstignit, ci pe cel care a venit în chip de om și a fost socotit răstignit, și s-a numit Iisus, și a fost trimis de Tatăl, ca prin această rânduială să strice lucrările făcătorilor lumii."
+        },
+        {
+          "verse": 10,
+          "text": "Dacă deci cineva, zice el, mărturisește pe cel răstignit, omul acela e încă rob și sub puterea celor care ne-au plăsmuit trupurile; iar cel care îl tăgăduiește a fost slobozit de aceste ființe și cunoaște rânduiala Tatălui nenăscut."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Mântuirea este numai a sufletului, căci trupul este prin fire supus stricăciunii."
+        },
+        {
+          "verse": 2,
+          "text": "El spune că proorociile au venit de la acele puteri care au făcut lumea, iar legea a fost dată îndeosebi de căpetenia lor, care a scos poporul din țara Egiptului."
+        },
+        {
+          "verse": 3,
+          "text": "Nu dă nicio însemnătate chestiunii cărnurilor jertfite idolilor, le socotește fără urmări și se folosește de ele fără șovăire; tot astfel ține că folosirea celorlalte lucruri și tot felul de poftă sunt lucuri de deplină nepăsare."
+        },
+        {
+          "verse": 4,
+          "text": "Oamenii aceștia, apoi, se îndeletnicesc cu magia: folosesc icoane, descântece, chemări și tot felul de meșteșuguri iscoditoare."
+        },
+        {
+          "verse": 5,
+          "text": "Născocind și anumite nume ca și cum ar fi ale îngerilor, vestesc pe unele ca ținând de cerul cel dintâi, pe altele de al doilea; și se silește să înșiruie numele, începuturile, îngerii și puterile celor trei sute șaizeci și cinci de ceruri născocite."
+        },
+        {
+          "verse": 6,
+          "text": "Afirmă și că numele barbar în care s-a suit și s-a pogorât Mântuitorul este Caulacau."
+        },
+        {
+          "verse": 7,
+          "text": "Cel care a învățat [acestea] și a cunoscut pe toți îngerii și pricinile lor se face nevăzut și necuprins îngerilor și tuturor puterilor, precum a fost și Caulacau."
+        },
+        {
+          "verse": 8,
+          "text": "Și precum Fiul a fost necunoscut tuturor, tot așa trebuie ca și ei să nu fie cunoscuți de nimeni; ci, cunoscând ei pe toți și trecând prin toate, rămân ei înșiși nevăzuți și necunoscuți tuturor."
+        },
+        {
+          "verse": 9,
+          "text": "Căci zic: «Cunoaște tu pe toți, dar nimeni să nu te cunoască pe tine.»"
+        },
+        {
+          "verse": 10,
+          "text": "De aceea cei de această încredințare sunt gata și să se lepede; ba mai degrabă e cu neputință să pătimească din pricina unui simplu nume, de vreme ce se fac asemenea tuturor."
+        },
+        {
+          "verse": 11,
+          "text": "Mulțimea însă nu poate înțelege aceste lucruri, ci numai unul dintr-o mie, sau doi din zece mii."
+        },
+        {
+          "verse": 12,
+          "text": "Ei spun că nu mai sunt iudei și că încă nu sunt creștini; și că nu se cade deloc să se vorbească pe față despre tainele lor, ci e drept să le țină în tăcere."
+        },
+        {
+          "verse": 13,
+          "text": "Așază cele trei sute șaizeci și cinci de ceruri după chipul matematicienilor. Primind teoremele acestora, le-au trecut asupra propriului lor tip de învățătură."
+        },
+        {
+          "verse": 14,
+          "text": "Țin că și căpetenia lor este Abraxas; și de aceea cuvântul acesta cuprinde în sine numerele care fac la un loc trei sute șaizeci și cinci."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Hipolit:] Basilides și Isidor, fiul adevărat și ucenicul lui Basilides, zic că Matia le-a dat lor cuvinte tainice, pe care, fiind îndeosebi învățat, le-a auzit de la Mântuitorul."
+        },
+        {
+          "verse": 2,
+          "text": "«Era — zice (Basilides) — când nu era nimic. Dar nici acel „nimic” nu era ceva din lucrurile care sunt."
+        },
+        {
+          "verse": 3,
+          "text": "Ci, ca să vorbesc golit de presupuneri și de iscusințe ale minții, nu era cu totul nici măcar Unul."
+        },
+        {
+          "verse": 4,
+          "text": "Iar când întrebuințez cuvântul „era”, nu vreau să spun că era; ci, numai ca să dau o urmă a ceea ce voiesc să arăt, zic: „nu era de loc nimic”."
+        },
+        {
+          "verse": 5,
+          "text": "Nu era nimic: nici materie, nici substanță, nici gol de substanță, nici simplitate, nici neputință de alcătuire, nici neînchipuire, nici nepricepere, nici om, nici înger, nici Dumnezeu;"
+        },
+        {
+          "verse": 6,
+          "text": "într-un cuvânt, nimic din cele pentru care omul a aflat vreodată un nume, nici prin vreo lucrare care cade sub simțirea sau cugetarea lui.»"
+        },
+        {
+          "verse": 7,
+          "text": "[Apoi, după ce toate au fost cu totul înlăturate,] Dumnezeu «neexistentul» — pe care Aristotel îl numește «cugetare a cugetării» — a voit să facă lumea."
+        },
+        {
+          "verse": 8,
+          "text": "[Voind, a aruncat o sămânță care avea în sine toată seminția lumii, precum în grăuntele de muștar stă totul deodată.]"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Basilides, în cartea a 23-a a «Comentarilor» (Exegetica), vorbește despre cei care pătimesc pedeapsa ca mucenici, cu aceste cuvinte:]"
+        },
+        {
+          "verse": 2,
+          "text": "Socotesc că toți cei care îndură așa-numitele necazuri trebuie să fi săvârșit păcate altele decât cele pe care le cunosc, și astfel au fost aduși la acest sfârșit bun."
+        },
+        {
+          "verse": 3,
+          "text": "Prin bunătatea Celui care îi poartă pe fiecare, ei sunt învinuiți de fapt de o înșiruire străină de învinuiri, ca să nu pătimească drept osândiți mărturisiți de crime, nici să fie ocărâți ca desfrânați sau ucigași, ci să pătimească pentru că sunt, prin fire, creștini."
+        },
+        {
+          "verse": 4,
+          "text": "Și aceasta îi îndeamnă să creadă că nu pătimesc."
+        },
+        {
+          "verse": 5,
+          "text": "Dar chiar dacă s-ar întâmpla ca cineva să pătimească fără să fi păcătuit deloc — ceea ce e rar — totuși pătimirea aceluia nu vine din uneltirea vreunei puteri."
+        },
+        {
+          "verse": 6,
+          "text": "Ci e asemenea pătimirii unui prunc de curând născut, care pare a nu fi păcătuit."
+        },
+        {
+          "verse": 7,
+          "text": "[Mai departe adaugă:] Un prunc de curând născut, așadar, n-a păcătuit mai înainte; sau, mai degrabă, n-a săvârșit de fapt niciun păcat, dar are în sine lucrarea de a păcătui."
+        },
+        {
+          "verse": 8,
+          "text": "Oricând îndură suferință, capătă folos, sporind prin multe încercări neplăcute."
+        },
+        {
+          "verse": 9,
+          "text": "Tot astfel, dacă din întâmplare un om în putere n-a păcătuit cu fapta și totuși pătimește, a pătimit din aceeași pricină ca pruncul: are în el păcătoșenia, și singurul motiv pentru care n-a păcătuit (cu fapta) este că n-a avut prilejul."
+        },
+        {
+          "verse": 10,
+          "text": "Așadar a nu păcătui nu i se poate pune la socoteală."
+        },
+        {
+          "verse": 11,
+          "text": "Într-adevăr, cel care intenționează preacurvia este preacurvar chiar fără să isprăvească fapta, și cel care intenționează uciderea este ucigaș chiar fără să poată săvârși fapta."
+        },
+        {
+          "verse": 12,
+          "text": "Tot așa, dacă văd pe omul pomenit, fără de păcat, pătimind deși n-a făcut niciun rău, trebuie să-l numesc rău prin intenția de a păcătui."
+        },
+        {
+          "verse": 13,
+          "text": "Căci voi zice orice, numai să nu numesc providența rea."
+        },
+        {
+          "verse": 14,
+          "text": "[Mai departe vorbește despre Domnul de-a dreptul ca despre un om:] Să presupunem totuși că lași la o parte toate acestea și cauți să mă pui în încurcătură, aducând anumite chipuri și zicând poate: «Așadar cutare trebuie să fi păcătuit, de vreme ce a pătimit!»"
+        },
+        {
+          "verse": 15,
+          "text": "Dacă îngădui, voi zice că n-a păcătuit, ci a fost ca pruncul care pătimește."
+        },
+        {
+          "verse": 16,
+          "text": "Iar dacă stărui asupra argumentului, voi zice că orice om pe care îl poți numi este om; Dumnezeu este drept. Căci nimeni nu e curat de întinăciune, după cum a zis cineva."
+        },
+        {
+          "verse": 17,
+          "text": "[Clement:] În fond, presupunea lui Basilides este că sufletul a păcătuit mai înainte în altă viață și își primește pedeapsa în cea de acum. Sufletele alese sunt pedepsite cu cinste, prin mucenicie; celelalte se curățesc prin altă pedeapsă potrivită."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Socotim că o parte a așa-numitei voințe a lui Dumnezeu este a iubi pe toți;"
+        },
+        {
+          "verse": 2,
+          "text": "a doua, a nu dori nimic;"
+        },
+        {
+          "verse": 3,
+          "text": "a treia, a nu urî nimic."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Origen, despre tălmăcirea basilidiană a Rom. 7,9:] Într-adevăr, Apostolul a zis: «Am trăit odată fără lege», cândva."
+        },
+        {
+          "verse": 2,
+          "text": "Adică (zice Basilides că înseamnă Pavel): înainte de a fi venit în trupul acesta, am trăit într-un fel de trup care nu stă sub lege: trupul unui animal de casă sau al unei păsări."
+        }
+      ]
+    }
+  ]
+}

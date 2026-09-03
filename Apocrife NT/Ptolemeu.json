@@ -1,0 +1,237 @@
+{
+  "translation": "Ptolemeu – Epistola către Flora (+ extras Irineu) – adaptare PD",
+  "source": "Epiphanius, Panarion 33.3–7; Irenaeus, Adv. Haer. I.1–8 (ANF I)",
+  "source_status": "Public Domain",
+  "modernization": "Adaptare în română modernă. Epistola e textul de bază; Irineu e cadru de sistem, nu se amestecă verset cu verset.",
+  "book": "Ptolemeu (către Flora)",
+  "bookSlug": "ptolemeu",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[NOTĂ EDITORIALĂ.]"
+        },
+        {
+          "verse": 2,
+          "text": "Ptolemeu, ucenic al lui Valentin, lucrează la Roma la mijlocul sec. II. Epistola către Flora e păstrată integral de Epifanie, Panarion 33.3–7 — cel mai curat text valentinian de dinainte de Nag Hammadi."
+        },
+        {
+          "verse": 3,
+          "text": "Sistemul mitic (treizeci de eoni, Sofia, Demiurg) e la Irineu I.1–8, ca expunere ostilă, nu ca tratat al lui Ptolemeu însuși. Aici epistola e dată întreagă; mitul, pe scurt, la capăt."
+        },
+        {
+          "verse": 4,
+          "text": "Numerotare: paragrafele tradiționale ale epistolei (Quispel / ANF), împărțite pe unități de sens."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fiindcă mulți, o Flora, n-au înțeles Legea dată prin Moise, neavând cunoștințe precize nici despre dătătorul ei, nici despre poruncile ei, îți voi arăta pe scurt lucrul, ca să-ți fie limpede."
+        },
+        {
+          "verse": 2,
+          "text": "Unii zic că Legea a dat-o Dumnezeu Tatăl; alții, dimpotrivă, o dau potrivnicului care face stricăciune, precum și atribuirea lumii, zicând că e opera lui."
+        },
+        {
+          "verse": 3,
+          "text": "Și unii și alții cad cu totul din adevăr. Li se întâmplă lor acestea pentru că nu cunosc pe Dumnezeul cel bun."
+        },
+        {
+          "verse": 4,
+          "text": "Căci e arătat că Legea n-a fost rânduită de Dumnezeul desăvârșit — de vreme ce e nedesăvârșită și are nevoie de plinire de către Altul, și cuprinde porunci nepotrivite cu firea și cu gândul unui astfel de Dumnezeu —"
+        },
+        {
+          "verse": 5,
+          "text": "nici de către nedreptatea cea potrivnică, de vreme ce nu desființează ceea ce e nedrept. Așadar, trebuie să căutăm pe cineva care stă între aceștia, dătător al Legii."
+        },
+        {
+          "verse": 6,
+          "text": "Iar Mântuitorul nostru însuși ne-a arătat aceasta. El a împărțit Legea cea veche în trei părți."
+        },
+        {
+          "verse": 7,
+          "text": "O parte o atribuie lui Dumnezeu însuși, o parte lui Moise, o parte bătrânilor poporului — și pe fiecare o arată cu numele ei."
+        },
+        {
+          "verse": 8,
+          "text": "Că Legea a lui Dumnezeu e una, o arată zicând: «Dumnezeu a zis: Cinstește pe tatăl tău și pe mama ta, ca să-ți fie ție bine.»"
+        },
+        {
+          "verse": 9,
+          "text": "Iar că sunt porunci ale lui Moise, zice: «Moise, din pricina învârtoșării inimii voastre, v-a îngăduit să dați carte de despărțire.» Căci nu era aceasta de la Dumnezeu."
+        },
+        {
+          "verse": 10,
+          "text": "Și că sunt ale bătrânilor, zice: «Voi desființați porunca lui Dumnezeu ca să puneți predania voastră. Căci Moise a zis: Cinstește pe tatăl tău și pe mama ta; iar voi ziceți: Darul de la mine va folosi. Și ați desființat Legea lui Dumnezeu din pricina predaniei bătrânilor voștri.»"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Așadar, Legea însăși, cea dată prin Moise și atribuită lui Dumnezeu, se împarte iarăși în trei."
+        },
+        {
+          "verse": 2,
+          "text": "O parte e legislația curată, neamestecată cu răul — pe aceasta a venit Mântuitorul s-o plinească, nu s-o desființeze. Căci ceea ce a plinit n-a fost străin de El."
+        },
+        {
+          "verse": 3,
+          "text": "A doua parte e amestecată cu nedreptatea și cu judecata — pe aceasta Mântuitorul a desființat-o, ca pe una nepotrivită cu a Sa fire."
+        },
+        {
+          "verse": 4,
+          "text": "A treia parte e cea tipică și simbolică, dată după chipul celor duhovnicești și mai bune — pe aceasta a mutat-o de la cel simțit și înfățișător la cel duhovnicesc."
+        },
+        {
+          "verse": 5,
+          "text": "Legea cea curată, neamestecată cu răul, este Decalogul: cele zece cuvinte împărțite în două table, spre oprirea celor ce trebuie oprite și spre lucrarea celor ce trebuie lucrate."
+        },
+        {
+          "verse": 6,
+          "text": "Acestea, deși erau curate, n-aveau plinirea. Le-a plinit Mântuitorul. «Să nu ucizi», «să nu preacurvești», «să nu juri strâmb» — El le-a întins: nici să nu te mânii, nici să nu poftești, nici să nu juri deloc."
+        },
+        {
+          "verse": 7,
+          "text": "Iar legea amestecată cu nedreptatea este cea a răzbunării și a răsplății celui ce a nedreptățit, poruncind să scoți ochi pentru ochi și dinte pentru dinte și să răsplătești ucidere cu ucidere."
+        },
+        {
+          "verse": 8,
+          "text": "Căci cel de-al doilea nedreptățitor nu e mai puțin nedrept decât cel dintâi: deosebirea e numai de rânduială, lucrul e același."
+        },
+        {
+          "verse": 9,
+          "text": "Această poruncă era și este dreaptă, dată din pricina slăbiciunii celor ce primeau Legea, ca să nu calce cea dintâi, cea curată. Era străină de firea și de bunătatea Tatălui tuturor."
+        },
+        {
+          "verse": 10,
+          "text": "Poate era la locul ei; totuși se lovea de cea dintâi, pe care Mântuitorul a desființat-o. «Căci Eu zic vouă: nu vă împotriviți celui rău» și celelalte."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iar partea tipică, rânduită după chipul celor duhovnicești, adică cele despre prinoase și tăiere împrejur și sâmbătă și post și paști și azime și cele asemenea —"
+        },
+        {
+          "verse": 2,
+          "text": "acestea, fiind chipuri și icoane, au fost mutate, după arătarea Adevărului. După trup au încetat, după duh s-au ținut."
+        },
+        {
+          "verse": 3,
+          "text": "Numele au rămas aceleași, lucrul s-a schimbat. Căci Mântuitorul ne-a poruncit să aducem prinoase, dar nu de animale necuvântătoare, nici de tămâie, ci prin laude duhovnicești și slavă și mulțumire, și prin împărtășire și facere de bine față de cei de aproape."
+        },
+        {
+          "verse": 4,
+          "text": "A voit să fim tăiați împrejur, dar nu tăierea cea trupească a prepuțului, ci tăierea cea duhovnicească a inimii."
+        },
+        {
+          "verse": 5,
+          "text": "Să ținem sâmbăta: căci voiește să fim în odihnă față de faptele rele."
+        },
+        {
+          "verse": 6,
+          "text": "Să postim: dar voiește ca noi să ținem un post nu trupesc, ci duhovnicesc, care e înstrăinarea de toate cele rele."
+        },
+        {
+          "verse": 7,
+          "text": "Așa și Paștile și azimele. Căci și apostolul Pavel arată că Paștile nostru e Hristos, și azimea e «să prăznuim nu cu aluatul cel vechi, ci cu azimele curăției și ale adevărului»."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Astfel, Legea însăși a lui Dumnezeu, adică cea împărțită în trei, a fost dată de unul care e mai prejos decât Dumnezeul cel desăvârșit — căci e nedesăvârșită — și mai presus decât cel potrivnic, de vreme ce lucrează dreptatea."
+        },
+        {
+          "verse": 2,
+          "text": "Iar acesta este Demiurgul și făcătorul lumii acesteia și a tot ce e în ea. El e altul decât firiile celor doi, la mijloc între ei, și s-ar putea cu dreptate numi «cel din mijloc»."
+        },
+        {
+          "verse": 3,
+          "text": "Și dacă Dumnezeul cel desăvârșit este bun — cum este cu adevărat, căci Mântuitorul nostru a arătat că unul singur e Dumnezeul cel bun, Tatăl Său, pe care L-a arătat El —"
+        },
+        {
+          "verse": 4,
+          "text": "iar cel cu fire de potrivnic este rău și viclean și nedrept, atunci cel ce stă între ei, nefiind nici bun, nici rău, nici nedrept, se poate numi, în propriu, drept, fiind judecător al dreptății lui."
+        },
+        {
+          "verse": 5,
+          "text": "Și acest zeu va fi mai prejos decât Dumnezeul cel desăvârșit și mai prejos de dreptatea Aceluia, de vreme ce e născut, nu nenăscut — că unul e nenăscut, Tatăl, din Care sunt toate, sau, mai degrabă, de la Care sunt toate; iar celălalt e născut și e făcător al celor de apoi."
+        },
+        {
+          "verse": 6,
+          "text": "Fiind născut, e și de altă ființă decât celălalt — decât cel potrivnic — și de altă ființă decât firea cea bună a Celui nenăscut."
+        },
+        {
+          "verse": 7,
+          "text": "Chipul nașterii lui și al celor două firi, a celor contrare, le vei învăța, dacă Dumnezeu îți dă, în cele ce urmează, când vei fi învrednicită de predania apostolică, pe care și noi am primit-o prin succesiune. Cu aceasta ți-am spus-o pe scurt."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ți-am scris acestea, o Flora, fără să mă obosesc, și ți-am arătat pe scurt. Ceea ce am zis, de va fi primit cu rod, ca un pământ bun și roditor, nu va fi fără de folos."
+        },
+        {
+          "verse": 2,
+          "text": "Căci vei primi și sămânța cea de apoi, cea după aceasta, dacă, ca o femeie frumoasă și roditoare, vei aduce roadă."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[NU e epistola. Irineu atribuie lui Ptolemeu și ucenicilor această schemă.]"
+        },
+        {
+          "verse": 2,
+          "text": "În adâncurile nevăzute, un Veac desăvârșit, nenăscut: Bythos (Adâncul) și tăcerea lui, Sige."
+        },
+        {
+          "verse": 3,
+          "text": "Din ei, Perechea: Mintea (Nous / Unul-Născut) și Adevărul; apoi Cuvântul și Viața; apoi Om și Biserică. Acestea sunt Ogdoada dintâi."
+        },
+        {
+          "verse": 4,
+          "text": "Din Cuvânt și Viață, zece eoni; din Om și Biserică, doisprezece. Toți treizeci: Pleroma."
+        },
+        {
+          "verse": 5,
+          "text": "Ultimul dintre cei doisprezece, Sofia, a voit să cuprindă pe Tatăl fără pereche. A născut o patimă, un avorton. Hristos și Duhul Sfânt au fost scoși ca să întărească Pleroma; Sofia cea de jos a fost izgonită afară."
+        },
+        {
+          "verse": 6,
+          "text": "Din patima ei: materie, suflet, Demiurg. Demiurgul a zidit cele șapte ceruri și pe om, neștiind pe cei de deasupra. A zis: «Eu sunt Dumnezeu și afară de mine nu este altul.»"
+        },
+        {
+          "verse": 7,
+          "text": "Mântuitorul, Iisus, a venit ca să adune sămânța duhovnicească. Trupul e psihic; patima e a Sofiei celei de jos; Hristos din Pleroma S-a pogorât la botez și S-a retras înainte de cruce."
+        },
+        {
+          "verse": 8,
+          "text": "[Irineu I.8 leagă toate acestea de citate evanghelice forțate (treizeci de ani, Anna, etc.). Nu se dau aici ca text al epistolei.]"
+        }
+      ]
+    }
+  ]
+}

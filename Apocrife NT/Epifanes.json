@@ -1,0 +1,164 @@
+{
+  "translation": "Epifanes – Despre dreptate (fragment) – adaptare după Clement / ANF",
+  "source": "Clement of Alexandria, Stromata III.2 (ANF II); cf. Harnack / patristic excerpts PD",
+  "source_status": "Public Domain (ANF)",
+  "modernization": "Adaptare în română modernă. Parantezele drepte = cadrul lui Clement. Nu se completează doctrina carpocratiană din alte surse.",
+  "book": "Epifanes (Despre dreptate)",
+  "bookSlug": "epifanes",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[NOTĂ EDITORIALĂ — nu e textul lui Epifanes.]"
+        },
+        {
+          "verse": 2,
+          "text": "Epifanes, fiu al lui Carpocrate și al Alexandrei, a trăit — după Clement — șaptesprezece ani. La Same, în Cefalenia, i s-ar fi închinat ca unui zeu: templu, altar, muzeion, lună nouă."
+        },
+        {
+          "verse": 3,
+          "text": "Nu s-a păstrat nicio carte întreagă. Unicul bloc lung este citatul din tratatul Περὶ δικαιοσύνης (Despre dreptate) la Clement, Stromate III.2. Alte mențiuni (Irineu, Hipolit) vorbesc de carpocrateni în general, nu de acest text."
+        },
+        {
+          "verse": 4,
+          "text": "Ediția de lucru: ANF II (Wilson). Numerotarea versetelor e a noastră pe unități de sens din citatul clementin, nu o capitulare antică."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Din școala lui Carpocrate a fost și Epifanes, al cărui scrieri s-au păstrat. Fiul lui Carpocrate și al Alexandrei, pe linie paternă din Alexandria, pe linie maternă din Cefalenia.]"
+        },
+        {
+          "verse": 2,
+          "text": "[A trăit numai șaptesprezece ani și la Same în Cefalenia a fost cinstit ca zeu. I s-a zidit un templu din pietre cioplite, altare, un muzeion, un temenos; în fiecare lună nouă se adună cefalenienii la nașterea lui, aducând jertfă lui Epifanes, turnând libații și ospețind — îl slăvesc ca pe un zeu.]"
+        },
+        {
+          "verse": 3,
+          "text": "[A fost învățat de tatăl său în disciplina cea de obște și în cea platonică, și este autorul lucrării Despre dreptate, din care urmează acestea.]"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dreptatea lui Dumnezeu este o anumită împărtășire împreună cu egalitatea."
+        },
+        {
+          "verse": 2,
+          "text": "Cerul, întins de pretutindeni, cuprinde deopotrivă tot pământul; noaptea arată deopotrivă toate stelele;"
+        },
+        {
+          "verse": 3,
+          "text": "soarele, autor al zilei și părinte al luminii, Dumnezeu îl revarsă de sus deopotrivă asupra tuturor celor ce pot vedea —"
+        },
+        {
+          "verse": 4,
+          "text": "căci tuturor li se arată deopotrivă, fiindcă dreptatea nu o deosebește pe cel bogat sau pe cel sărac, pe popor, pe dregător, pe cei nebuni, pe cei cuminți, pe femei, pe bărbați, pe slobozi, pe robi."
+        },
+        {
+          "verse": 5,
+          "text": "Nici măcar necuvântătoarelor nu le este pizmuit: asupra vitelor deopotrivă revarsă soarele, și peste cele bune și peste cele rele își varsă razele, pecetluind pe toți deopotrivă dreptatea."
+        },
+        {
+          "verse": 6,
+          "text": "Și pentru vite însuși Dumnezeu a făcut hrana de obște, deopotrivă pentru toți, fără dreptate de stăpân."
+        },
+        {
+          "verse": 7,
+          "text": "După o lege de obște și după o dreptate, pasc deopotrivă vitele, toate, și nu le este lege de deosebire a celor de față;"
+        },
+        {
+          "verse": 8,
+          "text": "ci cele ce s-au născut le sunt tuturor de față, după măsură, și prin împărtășire."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Nici pentru naștere nu e lege scrisă — căci ar fi scrisă. Ele seamănă și nasc deopotrivă, având de la dreptatea cea de obște împărtășirea."
+        },
+        {
+          "verse": 2,
+          "text": "Spre naștere deopotrivă a dat tuturor un ochi de văzut și o lege de a naște, fără deosebire de femeie, de bărbat, de înțelept, de nebun, și, ca să vorbesc de-a dreptul, de nicio ființă."
+        },
+        {
+          "verse": 3,
+          "text": "Cele de obște le-a rânduit El deopotrivă, împărțind deopotrivă, și nu celui ce poate mai mult."
+        },
+        {
+          "verse": 4,
+          "text": "Iar cele ale nașterii le-a făcut de obște. Precum a adus ochiul ca să vadă, tot așa a pus și pofta ca să nască — și nu e mai dreaptă la bogați, nici mai slabă la săraci, nici la dregători altfel decât la cei de rând."
+        },
+        {
+          "verse": 5,
+          "text": "Dătătorul de lege, zicând «să nu poftești», a zis un cuvânt de râs, și mai degrabă, fără să știe, a poruncit cu putință."
+        },
+        {
+          "verse": 6,
+          "text": "Căci însuși cuvântul «să nu poftești» al celui ce a dat legea vorbește că însăși pofta e de obște; totuși legea a voit să o omoare, deși nu o poate stinge."
+        },
+        {
+          "verse": 7,
+          "text": "«Să nu poftești femeia aproapelui tău, nici averea lui, nici sluga lui, nici slujnica lui, nici boul lui, nici asinul lui, nici toate câte sunt ale aproapelui tău»."
+        },
+        {
+          "verse": 8,
+          "text": "Și totuși — zice — dătătorul de lege însuși face deosebire a ceea ce e de obște, dând încă o dată «al meu» și «al tău»."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Căci prin lege s-a făcut deosebirea celor de obște, și s-a stricat legea dumnezeiască a împărtășirii."
+        },
+        {
+          "verse": 2,
+          "text": "Iar dacă «Dumnezeu a făcut soarele de obște» și a văzut «pe cele ce sunt ale tuturor», și a coborât pentru femei pofta de obște —"
+        },
+        {
+          "verse": 3,
+          "text": "precum a unit de obște cerul cu pământul — atunci a făcut și pe bărbat de obște cu femeia, și tot astfel a unit toate viețuitoarele."
+        },
+        {
+          "verse": 4,
+          "text": "Și a arătat dreptatea: împărtășirea cu egalitate."
+        },
+        {
+          "verse": 5,
+          "text": "Iar cei ce s-au născut așa, după cum s-au născut, au tăgăduit împărtășirea care naște dreptatea, zicând: «să aibă unul o femeie a sa» — putând totuși toți deopotrivă, precum a văzut și a făcut El."
+        },
+        {
+          "verse": 6,
+          "text": "[Clement întrerupe și osândește: din acestea, zice, carpocratenii și epifanii au scos «împărtășirea femeilor». Nu se adaugă aici alte practici din Irineu.]"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Acestea le zice nobilul Epifanes — adică, după Clement, cuvintele de mai sus.]"
+        },
+        {
+          "verse": 2,
+          "text": "[Iar noi — urmează argumentul clementin contra «împărtășirii» trupului, nu textul lui Epifanes.]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "translation": "Evanghelia Mântuitorului / Apocriful berlinez-strasburghez – fragmente adaptate (PD + extras public AELAC)",
+  "source": "P.Berol. 22220 + Strasbourg Copte 5–7 + extras Qasr el-Wizz; extras public Emmel, Bulletin AELAC 12 (2002); Jacoby 1900 (Strasbourg). Edițiile integrale Hedrick 1999 / Emmel 2003 = copyright, nefolosite ca text integral.",
+  "source_status": "Fragmente și citate de lucru în domeniu public / extras de conferință; nu e ediția critică integrală",
+  "modernization": "Adaptare în română modernă. Nu s-a reconstruite un «evangheliu plin» din ediții protejate.",
+  "book": "Evanghelia Mântuitorului",
+  "bookSlug": "evanghelia-mantuitorului",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[NOTĂ DE MANUSCRIS — nu face parte din textul cărții.]"
+        },
+        {
+          "verse": 2,
+          "text": "Lucrarea n-are titlu antic. Numele de lucru: Evanghelia Mântuitorului (Hedrick–Mirecki 1999), Evanghelia berlineză necunoscută (UBE), apoi Apocriful berlinez-strasburghez (Suciu). Nu e evanghelie narativă clasică, ci dialog de revelație înainte de Pătimire, la persoana I plural (apostolii)."
+        },
+        {
+          "verse": 3,
+          "text": "Trei martori copți sahidici: (1) Berlin, P.Berol. inv. 22220 — pergament ars, cumpărat de muzeul egiptean la 20 martie 1967, recunoscut abia în 1991–1996; copie sec. VII–VIII. (2) Strasbourg, BNU Copte 5–7 — papirus, cca. 600; publicat de Adolf Jacoby, 1900. (3) Qasr el-Wizz (Nubia, 1965) — extras prescurtat (imnul Crucii / Stauros), cca. anul 1000."
+        },
+        {
+          "verse": 4,
+          "text": "Berlin și Strasbourg sunt același text (Emmel 2002): până la un punct numai Berlin; la mijloc ambele se suprapun cuvânt cu cuvânt; apoi numai Strasbourg. Qasr el-Wizz e condensat al imnului."
+        },
+        {
+          "verse": 5,
+          "text": "Starea: foile sunt cioburi de incendiu; ordinea paginilor a fost îndreptată de Emmel față de editio princeps. Nu există original grecesc. Data compunerii e disputată: Hedrick propunea sec. II; cercetarea recentă (Suciu ș.a.) o mută spre evlavia coptă târzie (sec. V–VI)."
+        },
+        {
+          "verse": 6,
+          "text": "Pentru studiu: facsimile Berlin; Jacoby 1900 (Strasbourg, PD); Hedrick–Mirecki 1999; Emmel, HTR 2002 și Apocrypha 14 (2003); Alin Suciu, teza 2013. Traducerea de față nu reproduce ediția integrală protejată."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[…] împărăția cerurilor de-a dreapta voastră."
+        },
+        {
+          "verse": 2,
+          "text": "Fericit cel care va mânca cu mine în împărăția cerurilor."
+        },
+        {
+          "verse": 3,
+          "text": "[Voi] sunteți sarea [pământului], și [voi] sunteți candela care luminează lumea."
+        },
+        {
+          "verse": 4,
+          "text": "Nu dormiți și nu ațipiți [până nu vă veți îmbrăca] cu haina împărăției, pe care am cumpărat-o cu sângele strugurilor!»"
+        },
+        {
+          "verse": 5,
+          "text": "Andrei a răspuns și a zis: «[Doamne] […].»"
+        },
+        {
+          "verse": 6,
+          "text": "[…] De vreme ce i-am vindecat pe cei ai [lumii], trebuie [să mă și pogor] la […]"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Apostolii:] «Doamne, în ce chip ți te vei arăta nouă, ori în ce fel de trup vei veni?»"
+        },
+        {
+          "verse": 2,
+          "text": "[Mântuitorul:] «Dacă cineva e [aproape] de mine, va [arde]. Eu sunt [focul] [care] arde.»"
+        },
+        {
+          "verse": 3,
+          "text": "[Paralelă cu logionul cunoscut și la Toma / Origene: «Cine e aproape de mine e aproape de foc; cine e departe de mine e departe de împărăție» — aici în formularea fragmentului berlinez, lacunar.]"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[În porțiunile păstrate apostolii sunt duși «pe munte»; trupurile li se schimbă asemenea Mântuitorului; privesc o scenă cerească a rugăciunii înainte de Pătimire — Ghetsimani mutat în cer.]"
+        },
+        {
+          "verse": 2,
+          "text": "[Cer să fie luați din lume odată cu el. Răspunsul și cea mai mare parte a vederii sunt lacunare în ambele martori.]"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Hristos cântă Crucii; apostolii răspund «Amin», ca într-un dans în jurul ei. Qasr el-Wizz păstrează extrasul cel mai continuu al acestui imn.]"
+        },
+        {
+          "verse": 2,
+          "text": "Eu sunt Împăratul. Amin."
+        },
+        {
+          "verse": 3,
+          "text": "Eu sunt Fiul Împăratului. Amin."
+        },
+        {
+          "verse": 4,
+          "text": "[Urmează strofe lacunare de adresare către Cruce / Stauros, cu refrenul Amin al apostolilor. Textul integral al imnului e în edițiile Hedrick/Emmel/Suciu.]"
+        }
+      ]
+    }
+  ]
+}

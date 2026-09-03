@@ -1,0 +1,191 @@
+{
+  "translation": "Fragmentul naaseenilor – adaptare după Hipolit, Ref. V (ANF)",
+  "source": "Hippolytus, Refutatio V.6–10 (ANF V; psalmul: V.10.2 / cap. 5 MacMahon)",
+  "source_status": "Public Domain (Ante-Nicene Fathers)",
+  "modernization": "Adaptare în română modernă. Paranteze drepte = cadrul lui Hipolit.",
+  "book": "Fragmentul naaseenilor",
+  "bookSlug": "naaseeni",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Hipolit:] Preoții și apărătorii acestui sistem au fost întâi cei numiți naaseeni, numiți astfel din limba evreiască, căci șarpele se cheamă naas."
+        },
+        {
+          "verse": 2,
+          "text": "[Apoi s-au numit pe sine gnostici, pretinzând că numai ei au cercetat adâncurile cunoașterii.]"
+        },
+        {
+          "verse": 3,
+          "text": "[Capetele a foarte multe cuvântări, zice (naaseenul), le-a dat Iacov, fratele Domnului, Mariei (Mariamne).]"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Aceștia, după sistemul pe care îl înaintau, slăvesc, ca pricină de obârșie a tuturor celorlalte, un om și un fiu al omului."
+        },
+        {
+          "verse": 2,
+          "text": "Iar omul acesta este androgin și e numit la ei Adam; și i se fac imnuri multe și felurite."
+        },
+        {
+          "verse": 3,
+          "text": "Imnurile — ca să fiu scurt — sunt alcătuite la ei cam în chipul acesta:"
+        },
+        {
+          "verse": 4,
+          "text": "«De la tine (vine) tatăl, și prin tine (vine) mama, două nume nemuritoare, născători de Eoni, o, locuitor al cerului, om slăvit.»"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dar îl împart, ca pe Gerion, în trei părți. Căci, zic ei, din omul acesta o parte e rațională, alta psihică, alta pământească."
+        },
+        {
+          "verse": 2,
+          "text": "Și socotesc că cunoașterea lui este principiul putinței de a-l cunoaște pe Dumnezeu, zicând astfel:"
+        },
+        {
+          "verse": 3,
+          "text": "«Începutul desăvârșirii este cunoașterea omului, iar cunoașterea lui Dumnezeu este desăvârșirea deplină.»"
+        },
+        {
+          "verse": 4,
+          "text": "Toate aceste însușiri însă — rațională, psihică și pământească — s-au retras, zice (naaseenul), și s-au pogorât deodată într-un singur om: Iisus, care s-a născut din Maria."
+        },
+        {
+          "verse": 5,
+          "text": "Și acești trei oameni, zice, obișnuiesc să vorbească (prin Iisus) deodată laolaltă, fiecare din substanțele sale proprii către cei care sunt ai săi."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ei nu cinstesc altceva decât pe Naas, de unde se și numesc naaseeni."
+        },
+        {
+          "verse": 2,
+          "text": "Iar Naas este șarpele; de la el, zice, sunt toate cele de sub cer numite temple (naoi)."
+        },
+        {
+          "verse": 3,
+          "text": "Și numai lui — adică lui Naas — îi este închinat tot altarul și toată inițierea și toată taina."
+        },
+        {
+          "verse": 4,
+          "text": "Și, în genere, nu s-ar putea afla sub cer o slujbă sfântă în care să nu fie un templu (naos); iar în templu însuși este Naas, de la care și-a luat numele de templu."
+        },
+        {
+          "verse": 5,
+          "text": "Aceștia afirmă că șarpele este o substanță umedă, precum și Thales din Milet (vorbea despre apă ca principiu), și că nimic din cele ce sunt, nemuritoare sau muritoare, însuflețite sau neînsuflețite, nu s-ar putea ține deloc fără el."
+        },
+        {
+          "verse": 6,
+          "text": "Și că toate îi sunt supuse, și că el este bun, și că are toate în sine, ca în cornul taurului cu un singur corn, încât dă frumusețe și înflorire tuturor celor ce sunt, după firea și însușirea fiecăruia, ca trecând prin toate, întocmai ca «râul care iese din Eden și se împarte în patru capete»."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Hipolit:] Acest psalm al lor a fost alcătuit, prin care par a cânta toate tainele rătăcirii lor, în imn, cu aceste cuvinte:]"
+        },
+        {
+          "verse": 2,
+          "text": "Legea care naște lumea a fost Mintea cea dintâi;"
+        },
+        {
+          "verse": 3,
+          "text": "iar a doua a fost Haosul revărsat al Celui întâi-născut;"
+        },
+        {
+          "verse": 4,
+          "text": "a treia, sufletul a primit legea ostenelii sale."
+        },
+        {
+          "verse": 5,
+          "text": "Îmbrăcat deci cu un chip apos, copleșit de grijă, se pleacă morții."
+        },
+        {
+          "verse": 6,
+          "text": "Acum stăpânește și privește lumina,"
+        },
+        {
+          "verse": 7,
+          "text": "și acum plânge, aruncat în ticăloșie;"
+        },
+        {
+          "verse": 8,
+          "text": "acum se tânguie, acum tresaltă de bucurie;"
+        },
+        {
+          "verse": 9,
+          "text": "acum geme, acum își aude osânda;"
+        },
+        {
+          "verse": 10,
+          "text": "acum își aude osânda, acum moare,"
+        },
+        {
+          "verse": 11,
+          "text": "și acum ne părăsește, ca să nu se mai întoarcă."
+        },
+        {
+          "verse": 12,
+          "text": "El, rătăcind nefericit, calcă labirintul relelor."
+        },
+        {
+          "verse": 13,
+          "text": "Dar Iisus a zis: Tată, iată,"
+        },
+        {
+          "verse": 14,
+          "text": "o ceartă de rele peste pământ rătăcește de la suflarea ta;"
+        },
+        {
+          "verse": 15,
+          "text": "iar Haosul cel amar (omul) caută să-l ocolească și nu știe cum să-l treacă."
+        },
+        {
+          "verse": 16,
+          "text": "Pentru aceasta, Părinte, trimite-mă;"
+        },
+        {
+          "verse": 17,
+          "text": "purtând peceți, mă voi pogorî;"
+        },
+        {
+          "verse": 18,
+          "text": "prin veacuri întregi voi trece,"
+        },
+        {
+          "verse": 19,
+          "text": "toate tainele le voi desface"
+        },
+        {
+          "verse": 20,
+          "text": "și chipurile zeilor le voi arăta;"
+        },
+        {
+          "verse": 21,
+          "text": "și tainele căii sfinte, numită «Gnoză», le voi da."
+        }
+      ]
+    }
+  ]
+}

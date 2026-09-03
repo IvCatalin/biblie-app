@@ -1,0 +1,163 @@
+{
+  "translation": "Marcion – Antiteze și începutul Evangheliei (Evangelion) – adaptare după Tertulian ANF / Harnack 1924",
+  "source": "Tertullian, Adv. Marc. I–V (ANF); Epiphanius Pan. 42; Harnack, Marcion (1924, PD)",
+  "source_status": "Public Domain (ANF; Harnack 1924)",
+  "modernization": "Adaptare în română modernă. Ceea ce nu e atestat la Tertulian/Epifanie nu se inventează ca «text marcionit».",
+  "book": "Marcion (Antiteze + Evangelion)",
+  "bookSlug": "marcion-antiteze",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[NOTĂ — nu face parte din textul marcionit.]"
+        },
+        {
+          "verse": 2,
+          "text": "Marcion din Sinope (cca. 85–160) a alcătuit un canon: Evanghelia (Evangelion, înrudită cu Luca, fără naștere și copilărie) + Apostolul (10 epistole pauline, scurtate). Plus Antitezele, tratat pierdut care punea față în față Legea și Evanghelia."
+        },
+        {
+          "verse": 3,
+          "text": "Nu s-a păstrat niciun codice marcionit. Textul se reface din Tertulian, Adversus Marcionem (cca. 207–212), mai ales cărțile IV–V; din Epifanie, Panarion 42 (lista de «scholia»); din Adamantius, Dialogul, și din note izolate la Origene, Irineu, Hipolit."
+        },
+        {
+          "verse": 4,
+          "text": "Evangelionul începe la «anul al cincisprezecelea al lui Tiberiu»: Iisus se pogoară în Capernaum. Lipsesc Luca 1–2 și, după mărturii, alte pasaje «iudaizante». Ordinea capitolelor urmează Luca, cu goluri."
+        },
+        {
+          "verse": 5,
+          "text": "Reconstrucția clasică PD: Adolf von Harnack, Marcion: Das Evangelium vom fremden Gott, ed. 2, 1924. Reconstrucții mai noi (Roth 2015, BeDuhn 2013, Klinghardt) sunt sub copyright și nu sunt textul de față."
+        },
+        {
+          "verse": 6,
+          "text": "Aici: întâi Antitezele atestate, apoi începutul Evangelionului (coresp. Lc. 3–4). Continuarea pe loturi, după Luca, numai versetele atestate."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Tertulian, AM I.19; IV.1:] Marcion a alcătuit o lucrare de afirmații puse față în față, de aceea numită Antiteze, ca să despartă Legea de Evanghelie și să împartă dumnezeirea în doi dumnezei deosebiți — unul pentru fiecare Testament.]"
+        },
+        {
+          "verse": 2,
+          "text": "Creatorul zice: «Ochi pentru ochi, dinte pentru dinte.» Evanghelia zice: «Dacă te lovește cineva peste un obraz, întoarce-i și pe celălalt.»"
+        },
+        {
+          "verse": 3,
+          "text": "Creatorul poruncește să se răsplătească răul cu rău. Hristos poruncește să nu se împotrivească celui rău."
+        },
+        {
+          "verse": 4,
+          "text": "Iosua s-a luptat cu armele și a oprit soarele. Hristos oprește sabia: «Cine scoate sabia de sabie va pieri.»"
+        },
+        {
+          "verse": 5,
+          "text": "Creatorul blestemă pământul. Hristos binecuvântează pe cei blânzi și pe cei săraci."
+        },
+        {
+          "verse": 6,
+          "text": "Creatorul zice: «Creșteți și vă înmulțiți.» Hristos fericește pântecele care n-a născut și sânii care n-au alăptat."
+        },
+        {
+          "verse": 7,
+          "text": "Legea e dată prin Moise. Harul și adevărul au venit prin Iisus Hristos. [Glosă ioanină folosită de marcionți în argument, după mărturii patristice.]"
+        },
+        {
+          "verse": 8,
+          "text": "[Tertulian:] Aceste deosebiri, zice Marcion, arată doi dumnezei: Dumnezeul cel drept al Legii (Creatorul, Dumnezeul iudeilor) și Tatăl cel bun, străin, vestit întâi de Hristos.]"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "În anul al cincisprezecelea al stăpânirii lui Tiberiu Cezar,"
+        },
+        {
+          "verse": 2,
+          "text": "Iisus s-a pogorât în Capernaum, cetate a Galileii,"
+        },
+        {
+          "verse": 3,
+          "text": "și îi învăța în zile de sâmbătă."
+        },
+        {
+          "verse": 4,
+          "text": "Și erau uimiți de învățătura lui, căci cuvântul lui era cu stăpânire."
+        },
+        {
+          "verse": 5,
+          "text": "[Tertulian, AM IV.7: Marcion vrea ca Iisus să fi coborât deodată din cer, în anul al cincisprezecelea al lui Tiberiu, în Capernaum — fără naștere, fără copilărie, fără Botez povestit ca la Luca.]"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și era în sinagogă un om având duh de demon necurat, și a strigat cu glas mare:"
+        },
+        {
+          "verse": 2,
+          "text": "«Ah! Ce avem noi a face cu tine, Iisuse? Ai venit să ne pierzi? Te știu cine ești: Sfântul lui Dumnezeu.»"
+        },
+        {
+          "verse": 3,
+          "text": "Și l-a certat Iisus zicând: «Taci și ieși din el!»"
+        },
+        {
+          "verse": 4,
+          "text": "Și aruncându-l demonul în mijloc, a ieșit din el, fără să-i facă vreun rău."
+        },
+        {
+          "verse": 5,
+          "text": "Și uimire i-a cuprins pe toți, și vorbeau între ei zicând: «Ce este cuvântul acesta, că cu stăpânire și cu putere poruncește duhurilor necurate și ele ies?»"
+        },
+        {
+          "verse": 6,
+          "text": "Și a ieșit vestea despre el în tot locul împrejur."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și sculându-se din sinagogă, a intrat în casa lui Simon. Soacra lui Simon era cuprinsă de friguri mari, și l-au rugat pentru ea."
+        },
+        {
+          "verse": 2,
+          "text": "Și stând deasupra ei, a certat frigurile, și au lăsat-o; iar ea, sculându-se îndată, le slujea."
+        },
+        {
+          "verse": 3,
+          "text": "Și la asfințitul soarelui, toți câți aveau bolnavi de felurite boli îi aduceau la el; iar el, punându-și mâinile pe fiecare dintre ei, îi vindeca."
+        },
+        {
+          "verse": 4,
+          "text": "Ieșeau și demoni din mulți, strigând și zicând: «Tu ești Fiul lui Dumnezeu!» Și el, certându-i, nu-i lăsa să vorbească, căci știau că el este Hristosul."
+        },
+        {
+          "verse": 5,
+          "text": "Iar făcându-se ziuă, a ieșit și s-a dus într-un loc pustiu. Mulțimile îl căutau și au venit până la el și îl țineau ca să nu plece de la ei."
+        },
+        {
+          "verse": 6,
+          "text": "Iar el le-a zis: «Trebuie să vestesc și cetăților celorlalte evanghelia împărăției lui Dumnezeu, căci pentru aceasta am fost trimis.»"
+        },
+        {
+          "verse": 7,
+          "text": "Și propovăduia prin sinagogile Galileii."
+        }
+      ]
+    }
+  ]
+}

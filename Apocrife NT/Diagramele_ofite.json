@@ -1,0 +1,240 @@
+{
+  "translation": "Diagramele ofite – adaptare după Origene Cels. VI și Irineu I.30",
+  "source": "Origen, Contra Celsum VI.24–38 (ANF IV); Irenaeus, Adv. Haer. I.30 (ANF I)",
+  "source_status": "Public Domain (ANF)",
+  "modernization": "Adaptare în română modernă. Nu există desen păstrat; textul descrie schema atestată. Parantezele drepte = cadru patristic.",
+  "book": "Diagramele ofite",
+  "bookSlug": "diagrame-ofite",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[NOTĂ EDITORIALĂ — nu e un codice ofit.]"
+        },
+        {
+          "verse": 2,
+          "text": "Nu s-a păstrat nicio diagramă desenată. Celsus (sec. II) a văzut un desen gnostic; Origene (sec. III) îl comentează în Contra Celsum VI.24–38 și dă parolele porților. Irineu I.30 dă mitul ofit / setian înrudit (Ialdabaoth și cei șapte), fără să reproducă figura."
+        },
+        {
+          "verse": 3,
+          "text": "«Cartea» de față = descrierea atestată, nu o reconstituire grafică modernă (Leisegang, Doresse etc. rămân în afara PD-ului de lucru)."
+        },
+        {
+          "verse": 4,
+          "text": "Numerotare: unități de sens din Origene și Irineu, nu pagini de papirus."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Celsus zice că a văzut la unii dintre cei ce se numesc creștini o diagramă, pe care o comentăm — zice Origene — ca să nu pară că ocolim ceea ce a adus el.]"
+        },
+        {
+          "verse": 2,
+          "text": "[Era, după el, un desen cu cercuri deasupra cercurilor, despărțite prin ziduri, și inscripții.]"
+        },
+        {
+          "verse": 3,
+          "text": "Deasupra, un cerc cu cercul Tatălui și al Fiului."
+        },
+        {
+          "verse": 4,
+          "text": "Apoi cercuri mai mici, deosebite prin culori."
+        },
+        {
+          "verse": 5,
+          "text": "Un cerc era numit Leviatan, altul Behemot."
+        },
+        {
+          "verse": 6,
+          "text": "Între ele, un zid de foc."
+        },
+        {
+          "verse": 7,
+          "text": "[Origene: unele din acestea le-am întâlnit și noi la unii; altele Celsus le-a amestecat sau le-a înțeles strâmb. Nu toate «diagramele» sunt aceleași.]"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Celsus înșiră — și Origene le recunoaște ca ofite — numele stăpânitorilor legați de porți, prin care sufletul crede că se suie.]"
+        },
+        {
+          "verse": 2,
+          "text": "Cel dintâi: Ialdabaoth."
+        },
+        {
+          "verse": 3,
+          "text": "Al doilea: Iao."
+        },
+        {
+          "verse": 4,
+          "text": "Al treilea: Sabaoth."
+        },
+        {
+          "verse": 5,
+          "text": "Al patrulea: Adonai."
+        },
+        {
+          "verse": 6,
+          "text": "Al cincilea: Astafaios."
+        },
+        {
+          "verse": 7,
+          "text": "Al șaselea: Eloaios (sau Eloaiu)."
+        },
+        {
+          "verse": 8,
+          "text": "Al șaptelea: Horaios (sau Horaios / Oreus)."
+        },
+        {
+          "verse": 9,
+          "text": "[Lor li se leagă, în descrierea lui Celsus, chipuri de animale: leu, taur, balaur sau altele — Origene nu întărește fiecare atribut ca pe o listă unică.]"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Sufletul, suindu-se, trebuie — după cei ce folosesc diagrama — să spună slujitorilor porților cuvinte de trecere. Origene le citează ca să le osândească, nu ca să le predea.]"
+        },
+        {
+          "verse": 2,
+          "text": "La Ialdabaoth: «Ialdabaoth, întâiul și al șaptelea, născut ca stăpân, înger al haosului, slobod, iată-mă trec. Puterea Ta fie cu mine.»"
+        },
+        {
+          "verse": 3,
+          "text": "La Iao: «Tu, cel ce stăpânești tainele Fiului și ale Tatălui, cel pecetluit cu semnul vieții, deschide-mi.»"
+        },
+        {
+          "verse": 4,
+          "text": "La Sabaoth: «Stăpânitor al cincimii, slujitor al Legii, Sabaoth, slobod, lasă-mă să trec. Harul fie cu mine.»"
+        },
+        {
+          "verse": 5,
+          "text": "La Adonai: «Stăpân al porților, Adonai, slujitor al tainei, lasă-mă.»"
+        },
+        {
+          "verse": 6,
+          "text": "La Astafaios: «Astafaios, stăpânitor al celei de-a treia porți, slobod, deschide.»"
+        },
+        {
+          "verse": 7,
+          "text": "La Eloaios: «Eloaios, slujitor al tainei, slobod, lasă-mă să trec.»"
+        },
+        {
+          "verse": 8,
+          "text": "La Horaios: «Horaios, cel ce ai puterea asupra porții de pe urmă, slobod, deschide-mi calea.»"
+        },
+        {
+          "verse": 9,
+          "text": "[Formulele variază în manuscrisele lui Origene; aici e adaptarea sensului atestat, nu o ediție critică a fiecărui cuvânt grecesc.]"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Celsus mai pomenește, pe aceeași diagramă sau pe una înrudită, un chip «jupuit» — o figură a sufletului despărțit de învelișuri.]"
+        },
+        {
+          "verse": 2,
+          "text": "Un cerc închis de alt cerc, și un dreptunghi, și o săgeată."
+        },
+        {
+          "verse": 3,
+          "text": "Unuia dintre cercuri i se zicea, după Celsus, «sufletul» sau «viața»."
+        },
+        {
+          "verse": 4,
+          "text": "Se pomenește și o Hecate cu trei capete — Origene zice că Celsus amestecă aici lucruri de la alții, nu neapărat de la aceiași ofiți."
+        },
+        {
+          "verse": 5,
+          "text": "Se pomenește un «Tată» deasupra și un «Fiu» sub el, și între ei o «iubire» sau o «viață»."
+        },
+        {
+          "verse": 6,
+          "text": "[Origene: creștinii Bisericii nu au astfel de desene; cele văzute de Celsus țin de școli ce se numesc gnostice.]"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Irineu nu dă desenul, ci povestea celor pe care-i numește «ofiți» / «alții dintre ei». Se pune aici ca legenda care umple aceleași nume.]"
+        },
+        {
+          "verse": 2,
+          "text": "În lumina cea nestricată era un Om dintâi, numit Tată și Om."
+        },
+        {
+          "verse": 3,
+          "text": "Din el, un al doilea Om, Fiul Omului."
+        },
+        {
+          "verse": 4,
+          "text": "Sub aceștia, Duhul Sfânt, iar sub Duh, stihiiile: apa, întunericul, adâncul, haosul."
+        },
+        {
+          "verse": 5,
+          "text": "Duhul, zic ei, plutea deasupra apelor. De aici s-a născut o femeie, numită și dreapta și stânga, viață și Prunicos / Sofia."
+        },
+        {
+          "verse": 6,
+          "text": "Ea s-a pogorât și a luat trup din ape. N-a putut să se înalțe la Tatăl, ci s-a întins și a născut un fiu."
+        },
+        {
+          "verse": 7,
+          "text": "Acesta este Ialdabaoth, născut din Sofia, slujitor al materiei."
+        },
+        {
+          "verse": 8,
+          "text": "Ialdabaoth a născut un fiu, și acela pe altul, până la șapte: Ialdabaoth, Iao, Sabaoth, Adonai, Eloai, Oreus, Astafaios."
+        },
+        {
+          "verse": 9,
+          "text": "Ei stau în ceruri, fiecare pe cerul său. Ialdabaoth s-a semețit și a zis: «Eu sunt Tată și Dumnezeu, și peste mine nu este altul.»"
+        },
+        {
+          "verse": 10,
+          "text": "Mama l-a mustrat. El a făcut om din pământ, după chipul cel de sus, dar omul zăcea ca un vierme."
+        },
+        {
+          "verse": 11,
+          "text": "Sofia a trimis în el scânteia. Omul s-a sculat și a mulțumit Primului Om."
+        },
+        {
+          "verse": 12,
+          "text": "Ialdabaoth a pizmuit. A scos din om femeia. Sofia a lucrat prin șarpe, ca să-i facă pe oameni să calce porunca «să nu mâncați» — ca să cunoască pe Cel de deasupra."
+        },
+        {
+          "verse": 13,
+          "text": "De aceea unii dintre ei cinstesc șarpele ca pe slujitor al cunoașterii."
+        },
+        {
+          "verse": 14,
+          "text": "Hristos s-a pogorât prin cei șapte, neștiut, și S-a îmbrăcat în Iisus. Ialdabaoth a lucrat răstignirea; Hristos S-a retras. Cel răstignit e cel trupesc."
+        },
+        {
+          "verse": 15,
+          "text": "[Irineu I.30.14–15 încheie cu variante: unii zic că Sofia însăși e șarpele; alții deosebesc șarpele de ea. Nu se unifică aici sistemele.]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,875 @@
+{
+  "translation": "Dialogul Mântuitorului – adaptare după Zinner/Mattison PD / NHC III,5",
+  "source": "Nag Hammadi Codex III,5, pp. 120–147; Zinner–Mattison, Public Domain",
+  "source_status": "Public Domain (Zinner/Mattison); text copt NHC III,5",
+  "modernization": "Adaptare în română modernă. Lacune păstrate cu […]. Nu s-a umplut din imaginație.",
+  "book": "Dialogul Mântuitorului",
+  "bookSlug": "dialogul-mantuitorului",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[NOTĂ DE MANUSCRIS — nu face parte din textul cărții.]"
+        },
+        {
+          "verse": 2,
+          "text": "Dialogul Mântuitorului se păstrează într-un singur martor: Nag Hammadi Codex III, tractatul 5 (NHC III,5), paginile copte 120,1–147,23. Titlul stă în codice la început și la sfârșit."
+        },
+        {
+          "verse": 3,
+          "text": "Codicele a fost îngropat lângă Hamra Dom (Nag Hammadi, Egipt) în secolul al IV-lea și descoperit în 1945. Limba: sahidică (traducere din greacă pierdută). Nu există al doilea papirus, nici recenzie greacă."
+        },
+        {
+          "verse": 4,
+          "text": "Este unul dintre cele mai deteriorate texte din bibliotecă: aproape fiecare pagină are lacune; porțiuni grele la 120–125, 127–131, 144–147. Nu se completează din imaginație."
+        },
+        {
+          "verse": 5,
+          "text": "Numerotarea folosită aici = pagina fizică a Codicelui III (standard Emmel / NHL / Mattison). Există și o numerotare paralelă pe paragrafe Emmel (1–147), distinctă de pagină."
+        },
+        {
+          "verse": 6,
+          "text": "Interlocutori numiți: Mântuitorul, Iuda (probabil Toma), Matei, Maria (Marihamme). Ediție critică de referință: Stephen Emmel, Nag Hammadi Codex III,5 (Brill, 1984). Traducerea de lucru: Zinner/Mattison, domeniu public."
+        },
+        {
+          "verse": 7,
+          "text": "Pentru studiu rămân: facsimilele Claremont / Coptic Gnostic Library, textul copt Emmel, și traducerile de control (Emmel NHL; Meyer/Scopello — copyright, folosite doar la verificare)."
+        }
+      ]
+    },
+    {
+      "chapter": 120,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dialogul Mântuitorului."
+        },
+        {
+          "verse": 2,
+          "text": "Mântuitorul a zis ucenicilor săi: «Fraților, a sosit acum vremea să ne oprim din osteneală și să stăm în odihnă, căci cine stă în odihnă se va odihni în veac."
+        },
+        {
+          "verse": 3,
+          "text": "Vă spun: stați deasupra totdeauna […] vremelnicia […]."
+        },
+        {
+          "verse": 4,
+          "text": "[Vă spun], […] nu vă temeți [de cei …] voi. [Vă spun]: mânia este înfricoșătoare [și cine] stârnește mânia este un [om de temut]."
+        },
+        {
+          "verse": 5,
+          "text": "Dar, fiindcă voi ați [putut pătimi], s-ar putea să iasă din [voi …].»"
+        }
+      ]
+    },
+    {
+      "chapter": 121,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "«Oamenii au primit aceste cuvinte despre mânie cu frică și cutremur. Mânia a pus arhonți peste ei, căci nimeni nu poate ocoli mânia."
+        },
+        {
+          "verse": 2,
+          "text": "Când am venit însă, am deschis o cale și i-am învățat despre trecerea aleșilor și a celor singuratici, a celor care l-au cunoscut pe Tatăl și au fost credincioși adevărului, și voi ați adus laudă."
+        },
+        {
+          "verse": 3,
+          "text": "Când aduceți laudă, faceți-o astfel:"
+        },
+        {
+          "verse": 4,
+          "text": "Ascultă-ne, Părinte, precum l-ai ascultat pe singurul tău Fiu, primindu-l la tine."
+        },
+        {
+          "verse": 5,
+          "text": "[Tu] i-ai dat odihnă de multa [osteneală]. Puterea noastră [nu poate fi biruită], [căci] oștirile tale [nu pot fi biruite],"
+        },
+        {
+          "verse": 6,
+          "text": "[…] lumină […] vie […] neapropiată […] vie."
+        },
+        {
+          "verse": 7,
+          "text": "Cuvântul [adevărat a dat] pocăință spre viață, [și aceasta a ieșit] de la tine."
+        },
+        {
+          "verse": 8,
+          "text": "Tu ești cugetul și tihna deplină a celui singuratic."
+        },
+        {
+          "verse": 9,
+          "text": "Ascultă-ne iarăși, precum i-ai ascultat pe aleșii tăi. Prin jertfa ta vor intra aleșii."
+        }
+      ]
+    },
+    {
+      "chapter": 122,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Prin faptele lor bune și-au slobozit sufletele de mădularele trupești oarbe, ca să poată fi în veac. Amin."
+        },
+        {
+          "verse": 2,
+          "text": "Vă voi învăța când va veni vremea pieirii. Întâia putere a întunericului vă va ajunge; nu vă temeți, nici să ziceți: «Iată, a venit vremea.»"
+        },
+        {
+          "verse": 3,
+          "text": "Când veți vedea însă un toiag singuratic […]. Să știți că […] din lucrare […] și arhonții […] vă ajung […]."
+        },
+        {
+          "verse": 4,
+          "text": "Frica este puterea cea adevărată [a întunericului]. Dacă deci vă temeți de ceea ce are să vă ajungă, vă va birui, și niciunul dintre ei nu vă va slobozi, nici nu vi se va milostivi."
+        },
+        {
+          "verse": 5,
+          "text": "Priviți mai degrabă la [ceea ce este] înlăuntru (în voi), căci ați stăpânit tot ce e pământesc.»"
+        }
+      ]
+    },
+    {
+      "chapter": 123,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "«Aceasta vă va sui într-un [loc] fără domnie [și fără] tiran."
+        },
+        {
+          "verse": 2,
+          "text": "Când […] veți vedea pe cei […], și voi de asemenea [îi veți auzi. Vă] spun: cuvântul […] Cuvântul este […] unde este adevărul."
+        },
+        {
+          "verse": 3,
+          "text": "Ei însă […] și voi […] adevărul. Acesta [este … înlăuntrul] minții celei vii."
+        },
+        {
+          "verse": 4,
+          "text": "De aceea […] și bucuria voastră […] ca […] sufletele voastre […], ca nu cumva cuvântul […] că i-au ridicat […] și n-au putut [să-l înțeleagă] […]."
+        },
+        {
+          "verse": 5,
+          "text": "Faceți ca ceea ce [este înlăuntrul] vostru și ceea ce [este în afara voastră să fie același lucru].»"
+        }
+      ]
+    },
+    {
+      "chapter": 124,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "«Trecătoarea este cu adevărat înfricoșătoare înaintea [ochilor voștri], dar nu pregetați s-o treceți. Mare e adâncul ei, vastă [e] înălțimea ei!"
+        },
+        {
+          "verse": 2,
+          "text": "[Aveți o singură minte …], și focul […] stropi de rouă […] toate puterile […] voi. Ele vor […], și [toate] puterile […] ele […] mai înainte."
+        },
+        {
+          "verse": 3,
+          "text": "Vă spun, […] sufletul […] se va face […] în toți […] voi sunteți […] și că […] nu dormiți […] fiii […] și voi […] voi […].»"
+        },
+        {
+          "verse": 4,
+          "text": "Matei a zis: «Cum […]?»"
+        }
+      ]
+    },
+    {
+      "chapter": 125,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Mântuitorul a zis: «[Dacă nu păstrați în rânduială] ceea ce e înlăuntrul vostru, [lucrarea voastră] va rămâne, dar [nu] voi.»"
+        },
+        {
+          "verse": 2,
+          "text": "Iuda [a zis]: «Doamne, [aș vrea să știu toate] faptele sufletelor [care sunt ale] acestor mici. Când […], unde vor locui? […] duhul […]?»"
+        },
+        {
+          "verse": 3,
+          "text": "Domnul [a zis: «… primiți]-i. Ei nu mor, nici nu se nimicesc, căci și-au cunoscut [tovarășii] și pe cel care îi va primi, căci adevărul caută pe cei înțelepți și drepți.»"
+        },
+        {
+          "verse": 4,
+          "text": "Mântuitorul [a zis]: «Lampa [trupului] este mintea. Câtă vreme [ceea ce e înlăuntrul] vostru e ținut în rânduială, adică [sufletul], trupurile voastre vor fi [luminate].»"
+        }
+      ]
+    },
+    {
+      "chapter": 126,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "«Câtă vreme inimile voastre sunt întunecate, lumina pe care [o nădăjduiți va rămâne departe de voi]. V-am chemat [la mine], căci în curând voi pleca, ca [să primiți] cuvântul meu între [voi. Iată], vi-l trimit.»"
+        },
+        {
+          "verse": 2,
+          "text": "Ucenicii [au zis: «Doamne], cine este cel care caută și [cine] este cel care descoperă?»"
+        },
+        {
+          "verse": 3,
+          "text": "[Domnul] le-a zis: «Cel care caută este [același] care descoperă.»"
+        },
+        {
+          "verse": 4,
+          "text": "Matei [i-a zis iarăși: «Doamne], pe când [te ascult] și pe când vorbesc, cine este cel care [vorbește, și] cine este cel care ascultă?»"
+        },
+        {
+          "verse": 5,
+          "text": "[Domnul] a zis: «Cel care vorbește este același care [ascultă], și cel care poate vedea este același care descoperă.»"
+        },
+        {
+          "verse": 6,
+          "text": "Maria a zis: «Doamne, iată, [pe când] port un trup, de unde-mi curg lacrimile, de unde-mi vine râsul?»"
+        }
+      ]
+    },
+    {
+      "chapter": 127,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Domnul a zis: «[Trupul] plânge din pricina faptelor sale, [și din pricina] (faptelor) care mai sunt de făcut. Mintea râde [din pricina roadelor] duhului."
+        },
+        {
+          "verse": 2,
+          "text": "Cine [nu stă] în întuneric nu va putea [să vadă] [lumina]."
+        },
+        {
+          "verse": 3,
+          "text": "Vă spun: [ceea ce e fără] lumină este întunericul, [și cine] nu stă [în] [întuneric nu va] putea să vadă lumina."
+        },
+        {
+          "verse": 4,
+          "text": "Însă [fiii] înșelăciunii au fost scoși […]. Vă veți îmbrăca cu lumina și [astfel veți trăi] în veac […]."
+        },
+        {
+          "verse": 5,
+          "text": "[Dacă …], atunci [orice] putere de sus și de jos vă va trata cu asprime. Acolo [va] fi plâns și [scrâșnire] a dinților pentru sfârșitul [tuturor] lucrurilor.»"
+        },
+        {
+          "verse": 6,
+          "text": "Iuda a întrebat: «Spune-[ne], Doamne, ce [era] înainte de a fi venit [cerul și] pământul?»"
+        }
+      ]
+    },
+    {
+      "chapter": 128,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Domnul a zis: «Era întuneric și apă, și un duh era deasupra [apei]."
+        },
+        {
+          "verse": 2,
+          "text": "Și vă spun [adevărul]: Iată, ceea ce căutați și întrebați [este] în voi, și [are] puterea și taina [duhului], căci [iese] din [duh]. Fărădelegea a intrat [să strice] mintea [neîncetat]. Iată, […].»"
+        },
+        {
+          "verse": 3,
+          "text": "[Matei] a zis: «Doamne, spune-ne, unde e așezat [sufletul] și unde locuiește [mintea] adevărată?»"
+        },
+        {
+          "verse": 4,
+          "text": "Domnul [a zis]: «Focul duhului a venit între cele două, și astfel [duhul] a izvorât, și mintea adevărată în ele. [Dacă] cineva așază sufletul în înălțime, atunci [va fi] înălțat.»"
+        }
+      ]
+    },
+    {
+      "chapter": 129,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Matei l-a întrebat: «[Nu e oare trebuincioasă tăierea împrejur], când e înțeleasă [după tălmăcirea adevărată]?»"
+        },
+        {
+          "verse": 2,
+          "text": "Domnul [a zis: «Tăierea împrejur este] mai de folos decât [lucrarea] voastră. Dați la o parte de la voi [ceea ce vă poate] prigoni, adică tot ce [e] în inimile voastre, căci precum inimile voastre [sunt tăiate împrejur], tot așa [veți afla] o cale să biruiți puterile de sus și de jos."
+        },
+        {
+          "verse": 3,
+          "text": "Și vă spun: cine [are] putere să se lepede [de ea și] să se pocăiască, și cine [înțelege] să caute și să afle și să se bucure.»"
+        },
+        {
+          "verse": 4,
+          "text": "Iuda a zis: «Iată, [văd] că toate sunt [întocmai] ca un semn peste [pământ], și de aceea au venit să fie astfel.»"
+        }
+      ]
+    },
+    {
+      "chapter": 130,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Domnul [a zis]: «Când Tatăl a așezat lumea, [a adunat] din apa ei, și cuvântul a ieșit din ea."
+        },
+        {
+          "verse": 2,
+          "text": "A îndurat multă [osteneală, dar] era mai presus de calea [stelelor] care înconjoară tot pământul.»"
+        },
+        {
+          "verse": 3,
+          "text": "[A urmat]: «Apa adunată [sus] e dincolo de stele, și [dincolo de] apă <este> un iad mare care le înconjoară ca un zid. De îndată ce câteva dintre ființele dinlăuntru s-au despărțit de celelalte, au început să se numere vremile."
+        },
+        {
+          "verse": 4,
+          "text": "Când a fost așezat [(tot) lucrul], el s-a uitat [în jos], Tatăl (care) i-a zis: «Du-te, [trimite ceva] din tine, ca [pământul] să nu ducă lipsă de nimic din neam în [neam, și] din veac în veac.»"
+        },
+        {
+          "verse": 5,
+          "text": "Așa [că] a trimis din sine izvoare de lapte, izvoare de miere, de untdelemn, de vin, și rod bun și gusturi dulci și rădăcini sănătoase, [ca] pământul să nu ducă lipsă de nimic din neam [în] neam și din veac în veac.»"
+        }
+      ]
+    },
+    {
+      "chapter": 131,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "«Este deasupra […], a stat [și și-a arătat] frumusețea […]. Și afară [era o lumină mare], mai strălucitoare [decât] cea care i se aseamănă, căci aceea stăpânește [toți] eonii de sus și de jos."
+        },
+        {
+          "verse": 2,
+          "text": "[Lumină a fost] scoasă din foc și risipită în [tăria] de sus și de jos. Cei de deasupra cerului de sus și de deasupra pământului de jos atârnă de ele. Toate atârnă de ele.»"
+        },
+        {
+          "verse": 3,
+          "text": "Când a auzit Iuda aceasta, s-a aruncat în genunchi și l-a lăudat pe Domnul."
+        },
+        {
+          "verse": 4,
+          "text": "Maria a întrebat pe frații ei: «Unde veți pune [aceste] întrebări pe care le puneți Fiului [Omului]?»"
+        }
+      ]
+    },
+    {
+      "chapter": 132,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Domnul [i-a zis]: «Soră, [nimeni] nu poate întreba despre aceste lucruri [decât] cel care are un loc în inimă ca să le păstreze."
+        },
+        {
+          "verse": 2,
+          "text": "Și un astfel de om poate ieși din [lume] și intra în locul [vieții], și nu va fi ținut în lumea aceasta a sărăciei.»"
+        },
+        {
+          "verse": 3,
+          "text": "Matei a zis: «Doamne, vreau [să văd] locul acela al vieții, [unde] nu e fărădelege, ci numai [lumină] curată.»"
+        },
+        {
+          "verse": 4,
+          "text": "Domnul a răspuns: «Frate Matei, nu-l poți vedea cât [porți] trupul.»"
+        },
+        {
+          "verse": 5,
+          "text": "Matei a zis: «Doamne, [dacă] nu-l pot vedea, măcar lasă-mă să-l cunosc.»"
+        },
+        {
+          "verse": 6,
+          "text": "Domnul a zis: «Oricine s-a cunoscut pe sine l-a văzut. Tot ce i se dă să facă, face. Un astfel de om a ajuns astfel [asemenea] locului aceluia în bunătate.»"
+        }
+      ]
+    },
+    {
+      "chapter": 133,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Iuda a răspuns și a zis: «Spune-mi, Doamne, cum un [cutremur] care se cutremură cutremură pământul?»"
+        },
+        {
+          "verse": 2,
+          "text": "Domnul a luat o piatră și a ținut-o în mână. [I-a zis: «Ce] țin în mână?»"
+        },
+        {
+          "verse": 3,
+          "text": "El a răspuns: «[Este] o piatră.»"
+        },
+        {
+          "verse": 4,
+          "text": "El le-a zis: «Ceea ce ține [pământul] este același lucru care ține cerul. Când iese un cuvânt din Măreție, se va întâlni cu ceea ce ține cerul și pământul. Pământul nu se va mișca."
+        },
+        {
+          "verse": 5,
+          "text": "Dacă s-ar mișca, ar cădea, dar nu cade, ca să nu cadă primul cuvânt. Cuvântul a așezat lumea, a locuit în ea și i-a simțit mireasma."
+        },
+        {
+          "verse": 6,
+          "text": "Vouă tuturor, fiilor Omului, vă vestesc tot[ce] e nemișcat, căci sunteți din locul acela. Locuiți în inimile celor care vorbesc în bucurie și adevăr."
+        },
+        {
+          "verse": 7,
+          "text": "Dacă iese cuvântul din trupul Tatălui între oameni, și dacă ei nu-l primesc, se va întoarce la locul său.»"
+        }
+      ]
+    },
+    {
+      "chapter": 134,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "«Cine nu cunoaște fapta desăvârșirii nu cunoaște nimic."
+        },
+        {
+          "verse": 2,
+          "text": "Cine nu stă în întuneric nu poate vedea lumina."
+        },
+        {
+          "verse": 3,
+          "text": "Cine [nu înțelege] cum a venit focul va arde în el, necunoscându-i obârșia."
+        },
+        {
+          "verse": 4,
+          "text": "Dacă cineva nu înțelege mai întâi apa, nu știe nimic: ce folos să se boteze în ea?"
+        },
+        {
+          "verse": 5,
+          "text": "Cine nu înțelege cum a venit vântul care suflă va fi luat de el."
+        },
+        {
+          "verse": 6,
+          "text": "Cine nu înțelege cum a venit trupul pe care îl poartă va fi nimicit împreună cu el."
+        },
+        {
+          "verse": 7,
+          "text": "Și cum va cunoaște Tatăl cel care nu cunoaște Fiul?"
+        },
+        {
+          "verse": 8,
+          "text": "Toate sunt ascunse celui care nu cunoaște rădăcina tuturor."
+        },
+        {
+          "verse": 9,
+          "text": "Cine nu cunoaște rădăcina fărădelegii nu-i va fi străin."
+        },
+        {
+          "verse": 10,
+          "text": "Cei care nu înțeleg cum au venit nu vor înțelege cum vor pleca."
+        },
+        {
+          "verse": 11,
+          "text": "Și nu e străin de lumea aceasta cel care [se va înălța] și (prin aceasta) va fi smerit.»"
+        }
+      ]
+    },
+    {
+      "chapter": 135,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "El [i-a luat] pe Iuda, pe Matei și pe Maria [să le arate] marginea [cea din urmă] a cerului și a pământului. Și, punându-și [mâna] peste ei, nădăjduiau că o vor [putea vedea]."
+        },
+        {
+          "verse": 2,
+          "text": "Iuda a privit în sus și a văzut un loc de mare înălțime, și a văzut jos locul adâncului."
+        },
+        {
+          "verse": 3,
+          "text": "Iuda i-a zis lui Matei: «Frate, cine poate să se suie la o astfel de înălțime sau să se pogoare în adâncul de jos, de vreme ce acolo e un iad mare și o groază mare?»"
+        },
+        {
+          "verse": 4,
+          "text": "Chiar atunci a ieșit un cuvânt din înălțime. Pe când stătea Iuda, a văzut cum se pogoară cuvântul."
+        },
+        {
+          "verse": 5,
+          "text": "A întrebat cuvântul: «De ce te-ai pogorât?»"
+        }
+      ]
+    },
+    {
+      "chapter": 136,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fiul Omului i-a salutat și le-a zis: «O sămânță dintr-o putere a dus lipsă și s-a pogorât în adâncul pământului. Măreția și-a adus aminte [de ea] și a trimis [cuvântul la] ea."
+        },
+        {
+          "verse": 2,
+          "text": "Cuvântul a luat sămânța înaintea [feței] Măreției, ca să nu se piardă primul cuvânt.»"
+        },
+        {
+          "verse": 3,
+          "text": "Ucenicii s-au minunat de toate câte le-a spus și le-au primit cu credință, știind că e fără folos să cugeți la fărădelege."
+        },
+        {
+          "verse": 4,
+          "text": "Apoi a zis ucenicilor: «Nu v-am spus că binele va fi luat sus la lumină ca un glas văzut și ca un fulger?»"
+        },
+        {
+          "verse": 5,
+          "text": "Toți ucenicii l-au lăudat și au zis: «Doamne, înainte să te arăți aici, cine te lăuda, de vreme ce toate laudele sunt ale tale? Sau cine te binecuvânta, de vreme ce toate binecuvântările <sunt> ale tale?»"
+        },
+        {
+          "verse": 6,
+          "text": "Pe când stăteau, el a văzut două duhuri ducând cu ele un singur suflet. Și a fost un fulger mare. Un cuvânt a ieșit de la Fiul Omului zicând: «Dați-le hainele lor!»"
+        }
+      ]
+    },
+    {
+      "chapter": 137,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Și cel mic s-a făcut asemenea celui mare. Erau [ca] cei primiți în sus. [Nu era deosebire] între ei. [Cuvintele] pe care le-a [spus i-au încredințat pe] ucenici."
+        },
+        {
+          "verse": 2,
+          "text": "Maria [i-a zis: «Iată, văd] răul [care lucrează asupra] oamenilor de la început, când trăiesc unii cu alții.»"
+        },
+        {
+          "verse": 3,
+          "text": "Domnul [i-a zis]: «Când îi vezi, [știi] multe. Ei nu [vor rămâne acolo (laolaltă)]. Când însă îl vei vedea pe Cel ce este din veac, aceea va fi marea vedenie.»"
+        },
+        {
+          "verse": 4,
+          "text": "Toți i-au zis: «Lămurește-ne-o.»"
+        },
+        {
+          "verse": 5,
+          "text": "El le-a zis: «În ce chip vreți s-o vedeți, [în] o vedenie care trece, sau în o vedenie care rămâne în veac?»"
+        },
+        {
+          "verse": 6,
+          "text": "A urmat: «Siliți-vă cât puteți să mântuiți ceea ce va rămâne după [voi], căutați-l și vorbiți dinlăuntrul lui, ca ceea ce căutați să fie în armonie cu voi înșivă, căci [vă] spun cu adevărat: Dumnezeul cel viu [este] în voi,"
+        }
+      ]
+    },
+    {
+      "chapter": 138,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[precum și voi sunteți] în Dumnezeu.»"
+        },
+        {
+          "verse": 2,
+          "text": "Iuda [a zis]: «Cu adevărat vreau [să aflu toate].»"
+        },
+        {
+          "verse": 3,
+          "text": "[Domnul] i-a zis: «Dumnezeul cel viu [nu] locuiește [nicăieri în tot locul] acestei lipse.»"
+        },
+        {
+          "verse": 4,
+          "text": "Iuda [a întrebat]: «Cine [va stăpâni peste noi]?»"
+        },
+        {
+          "verse": 5,
+          "text": "Domnul a răspuns: «[Iată, aici locuiește] tot ce este [între] cele ce vor rămâne. Voi veți [stăpâni] peste ele.»"
+        },
+        {
+          "verse": 6,
+          "text": "Iuda a zis: «Iată, arhonții sunt peste noi, ca să stăpânească ei peste noi.»"
+        },
+        {
+          "verse": 7,
+          "text": "Domnul a răspuns: «Voi veți stăpâni peste ei. Când veți da de la voi invidia, vă veți îmbrăca cu lumina și veți intra în cămara de nuntă.»"
+        },
+        {
+          "verse": 8,
+          "text": "Iuda a întrebat: «Cum ni se vor da [hainele] noastre?»"
+        }
+      ]
+    },
+    {
+      "chapter": 139,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Domnul a răspuns: «Unii vi le vor da, alții le vor primi, și ei [sunt cei care vă vor da] hainele. Căci cine poate ajunge la locul acela, atât de [înfricoșător]?"
+        },
+        {
+          "verse": 2,
+          "text": "Hainele vieții însă vor fi date oamenilor pentru că știu calea pe care vor merge. Ba încă și mie îmi e greu să ajung acolo.»"
+        },
+        {
+          "verse": 3,
+          "text": "Maria a zis: «Astfel, destulă e osteneala fiecărei zile. Lucrătorii sunt vrednici de hrana lor. Ucenicii vor fi deopotrivă cu învățătorii lor.»"
+        },
+        {
+          "verse": 4,
+          "text": "A zis aceasta ca o femeie care a înțeles toate."
+        },
+        {
+          "verse": 5,
+          "text": "Ucenicii l-au întrebat: «Ce este plinătatea și ce este lipsa?»"
+        },
+        {
+          "verse": 6,
+          "text": "El le-a răspuns: «Ați venit din plinătate și locuiți în locul lipsei. Și iată, lumina lui s-a revărsat peste mine.»"
+        }
+      ]
+    },
+    {
+      "chapter": 140,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Matei a întrebat: «Doamne, spune-mi cum mor cei morți și cum trăiesc cei vii.»"
+        },
+        {
+          "verse": 2,
+          "text": "Domnul a zis: «[M-ați] întrebat despre un cuvânt [adevărat] pe care ochiul nu l-a văzut, și numai de la voi l-am auzit. Vă spun însă: când se ia ceea ce însuflețește pe om, se va chema mort; iar când ceea ce e viu <intră în> ceea ce e mort, se va chema viu.»"
+        },
+        {
+          "verse": 3,
+          "text": "Iuda a întrebat: «Să vorbim adevărul: de ce unii <mor> și alții trăiesc?»"
+        },
+        {
+          "verse": 4,
+          "text": "Domnul a zis: «Ce vine din adevăr nu moare. Ce vine din femeie moare.»"
+        },
+        {
+          "verse": 5,
+          "text": "Maria a întrebat: «Spune-mi, Doamne, de ce am venit în locul acesta: ca să câștig, sau ca să pierd?»"
+        },
+        {
+          "verse": 6,
+          "text": "Domnul a răspuns: «Tu descoperi avuția Celui care descoperă.»"
+        },
+        {
+          "verse": 7,
+          "text": "Maria l-a întrebat: «Doamne, este deci un loc părăsit (de) adevăr sau care duce lipsă de adevăr?»"
+        },
+        {
+          "verse": 8,
+          "text": "Domnul a zis: «Locul în care eu nu locuiesc.»"
+        }
+      ]
+    },
+    {
+      "chapter": 141,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Maria a zis: «Doamne, trezești frică și uimire, [ca un foc mistuitor] pentru cei care nu [te] cunosc.»"
+        },
+        {
+          "verse": 2,
+          "text": "Matei a întrebat: «De ce nu ne odihnim îndată?»"
+        },
+        {
+          "verse": 3,
+          "text": "Domnul a zis: «Lăsând în urmă ceea ce nu puteți lua cu voi, atunci vă veți odihni.»"
+        },
+        {
+          "verse": 4,
+          "text": "Matei a întrebat: «Cum se potrivește cel mic cu cel mare?»"
+        },
+        {
+          "verse": 5,
+          "text": "Domnul a zis: «Lăsând aceste poveri.»"
+        },
+        {
+          "verse": 6,
+          "text": "Maria a zis: «Vreau să înțeleg toate, [întocmai cum] sunt.»"
+        },
+        {
+          "verse": 7,
+          "text": "Domnul a zis: «Cine caută viața, aceasta va fi avuția lui, căci [odihna] pe care o dă lumea e mincinoasă, iar aurul și argintul ei sunt înșelăciune.»"
+        }
+      ]
+    },
+    {
+      "chapter": 142,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ucenicii l-au întrebat: «Ce să facem ca lucrarea noastră să se isprăvească?»"
+        },
+        {
+          "verse": 2,
+          "text": "Domnul [le-a zis]: «Fiți gata în orice împrejurare. Fericit cel care a cunoscut [lupta și a văzut] bătălia cu ochii. N-a ucis, nici n-a fost ucis, ci a ieșit biruitor.»"
+        },
+        {
+          "verse": 3,
+          "text": "Iuda a întrebat: «Doamne, spune-mi, care e începutul căii?»"
+        },
+        {
+          "verse": 4,
+          "text": "El a zis: «Iubirea și bunătatea. Dacă numai una dintre acestea ar fi fost între arhonți, răul n-ar fi venit niciodată.»"
+        },
+        {
+          "verse": 5,
+          "text": "Matei a zis: «Doamne, ai vorbit despre sfârșitul tuturor fără greutate.»"
+        },
+        {
+          "verse": 6,
+          "text": "Domnul a zis: «Ați înțeles tot ce v-am spus și ați primit cu credință. Dacă le cunoașteți, sunt ale voastre. Dacă nu, nu sunt ale voastre.»"
+        },
+        {
+          "verse": 7,
+          "text": "L-au întrebat: «În care loc mergem?»"
+        },
+        {
+          "verse": 8,
+          "text": "Domnul a zis: «Luați locul pe care îl puteți atinge.»"
+        },
+        {
+          "verse": 9,
+          "text": "Maria a întrebat: «Toate cele așezate astfel sunt văzute?»"
+        },
+        {
+          "verse": 10,
+          "text": "Domnul a zis: «V-am spus că cel care poate vedea (este același care) descoperă.»"
+        }
+      ]
+    },
+    {
+      "chapter": 143,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ucenicii lui, cei doisprezece, l-au întrebat: «Învățătorule, [cu] tihnă […] învață-ne […].»"
+        },
+        {
+          "verse": 2,
+          "text": "Domnul a zis: «[Dacă ați înțeles] tot ce v-am [spus], veți [ajunge nemuritori, căci] voi […] toate.»"
+        },
+        {
+          "verse": 3,
+          "text": "Maria a zis: «Un singur lucru [voi spune] Domnului, despre taina adevărului. În aceasta stăm, și în aceasta suntem străvezii față de cele ale lumii.»"
+        },
+        {
+          "verse": 4,
+          "text": "Iuda i-a zis lui Matei: «Vrem să înțelegem cu ce fel de haine trebuie să ne îmbrăcăm când ieșim din stricăciunea [trupului].»"
+        },
+        {
+          "verse": 5,
+          "text": "Domnul a zis: «Stăpânitorii și chivernisitorii au haine date numai o vreme, care nu țin. Voi însă, ca fii ai adevărului, să nu vă îmbrăcați cu aceste haine care țin numai o vreme."
+        },
+        {
+          "verse": 6,
+          "text": "Vă spun mai degrabă: fericiți veți fi când vă veți dezbrăca de haine, căci"
+        }
+      ]
+    },
+    {
+      "chapter": 144,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[a da la o parte ce e] din afară nu e lucru mare.»"
+        },
+        {
+          "verse": 2,
+          "text": "[…] a zis: «Eu sunt cel care vorbește și eu sunt cel care primește […]?»"
+        },
+        {
+          "verse": 3,
+          "text": "Domnul a zis: «Da, [cel care îl primește] pe Tatăl vostru [în chip de cuvânt].»"
+        },
+        {
+          "verse": 4,
+          "text": "Maria a întrebat: «[De] ce fel este grăuntele de muștar? E din cer, sau e din pământ?»"
+        },
+        {
+          "verse": 5,
+          "text": "Domnul a zis: «După ce Tatăl și-a așezat lumea, a lăsat mult din ce a rămas la Mama Tuturor. De aceea seamănă și lucrează.»"
+        },
+        {
+          "verse": 6,
+          "text": "Iuda a zis: «Ne-ai spus aceasta din mintea adevărată. Când ne rugăm, cum să ne rugăm?»"
+        },
+        {
+          "verse": 7,
+          "text": "Domnul a zis: «Rugați-vă în locul unde nu este femeie.»"
+        },
+        {
+          "verse": 8,
+          "text": "Matei zice: «El ne spune: «Rugați-vă în locul unde nu este femeie.» Asta înseamnă a strica lucrările femeii. Nu pentru că ar fi un alt fel de naștere, ci pentru că trebuie să înceteze [să nască].»"
+        }
+      ]
+    },
+    {
+      "chapter": 145,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Maria a zis: «Nu vor fi niciodată nimicite?»"
+        },
+        {
+          "verse": 2,
+          "text": "Domnul a zis: «[Știți] că vor pieri [iarăși], și [lucrările] [femeii care sunt aici] vor [fi și ele nimicite].»"
+        },
+        {
+          "verse": 3,
+          "text": "Iuda [i-a zis lui Matei]: «Lucrările [femeii] vor pieri într-adevăr. Arhonții [atunci] își vor [chema eonii], și noi vom fi gata pentru ei.»"
+        },
+        {
+          "verse": 4,
+          "text": "Domnul a zis: «Vă vor vedea [ei, și vor] vedea pe cei care vă primesc? Iată, de la Tatăl iese un cuvânt adevărat spre adânc în tăcere, cu un fulger, și este dătător de viață."
+        },
+        {
+          "verse": 5,
+          "text": "Îl văd ei, ori îl biruiesc? Cu adevărat, voi cunoașteți mai bine [calea] pe care [nici înger], nici stăpânire [n-o cunoaște]. Este calea Tatălui și a Fiului, căci cei doi sunt una, și veți merge pe [calea] pe care ați cunoscut-o."
+        },
+        {
+          "verse": 6,
+          "text": "Chiar dacă arhonții se fac uriași, nu vor putea ajunge la ea. Vă spun [adevărul]: și mie îmi e greu să ajung acolo.»"
+        }
+      ]
+    },
+    {
+      "chapter": 146,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "[Maria] l-a întrebat [pe Domn]: «Dacă lucrările [sunt nimicite, ce anume] strică o lucrare?»"
+        },
+        {
+          "verse": 2,
+          "text": "[Domnul a zis]: «Știți că [ori de câte ori] o stric [eu, ea] se duce la locul ei.»"
+        },
+        {
+          "verse": 3,
+          "text": "Iuda a zis: «Cum se face duhul văzut?»"
+        },
+        {
+          "verse": 4,
+          "text": "Domnul a zis: «Cum [se face] sabia [văzută]?»"
+        },
+        {
+          "verse": 5,
+          "text": "Iuda a zis: «Cum se face lumina văzută?»"
+        },
+        {
+          "verse": 6,
+          "text": "Domnul a zis: «[Este] din veac [văzută] prin sine însăși.»"
+        },
+        {
+          "verse": 7,
+          "text": "Iuda a întrebat: «Cine desface lucrările cui? Lucrările [desfac] lumea, ori lumea desface lucrările?»"
+        },
+        {
+          "verse": 8,
+          "text": "Domnul [a răspuns]: «Cel care [înțelege (este cel care desface lucrările)]. Căci celui care a cunoscut lucrările i se cade să facă [voia] Tatălui.»"
+        }
+      ]
+    },
+    {
+      "chapter": 147,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "«Cât despre voi, siliți-vă să vă sloboziți de [mânie] și de invidie. Și dezbrăcați-vă de [lucrările] voastre, și nu […]."
+        },
+        {
+          "verse": 2,
+          "text": "[…] ocară […], căci vă spun [că …] veți primi […] mult […] cel care a căutat, [aflând viața adevărată]."
+        },
+        {
+          "verse": 3,
+          "text": "Acesta va [afla odihnă și] va trăi în veac. Vă spun: [păziți-vă], ca să nu duceți în rătăcire [duhurile] voastre și sufletele voastre.»"
+        },
+        {
+          "verse": 4,
+          "text": "[Dialogul] Mântuitorului."
+        }
+      ]
+    }
+  ]
+}
