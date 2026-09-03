@@ -3736,7 +3736,7 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
   function openSubfolderList(folder){
     folderPanelTitle.textContent = folder.panelTitle || folder.label;
     folderPanelBack.style.display = "none";
-    parentSubfolderContext = null;
+    currentOnBack = null;
     bookList.innerHTML = "";
     bookList.scrollTop = 0;
     if(folder.note){
@@ -3759,7 +3759,7 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
           '<div class="lib-folder-label-lg">' + sf.label + '</div>' +
           '<div class="lib-folder-count-lg">' + count + '</div>';
         tile.addEventListener("click", () => {
-          openBookListPanel(sf.label, sf.note, sf.items, folder);
+          openBookListPanel(sf.label, sf.note, sf.items, () => openSubfolderList(folder));
         });
         grid.appendChild(tile);
       });
@@ -3802,12 +3802,12 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
   }
 
   // ---- nivel 2 (sau nivel 1 pentru folderele simple): lista de cărți ----
-  let parentSubfolderContext = null; // dacă existăm, back-ul din panou trebuie să revină la lista de sub-foldere
-  function openBookListPanel(title, note, items, parentNestedFolder){
-    parentSubfolderContext = parentNestedFolder || null;
-    lastBookListState = { title, note, items, parentNestedFolder: parentSubfolderContext };
+  let currentOnBack = null; // funcție de apelat la Înapoi (sau null); suportă orice adâncime de imbricare
+  function openBookListPanel(title, note, items, onBack){
+    currentOnBack = onBack || null;
+    lastBookListState = { title, note, items, onBack: currentOnBack };
     folderPanelTitle.textContent = title;
-    folderPanelBack.style.display = parentSubfolderContext ? "" : "none";
+    folderPanelBack.style.display = currentOnBack ? "" : "none";
     bookList.innerHTML = "";
     bookList.scrollTop = 0;
     if(note){
@@ -3833,7 +3833,7 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
         chev.textContent = "▶";
         item.appendChild(chev);
         item.addEventListener("click", () => {
-          openBookListPanel(entry.label, entry.note, entry.items, null);
+          openBookListPanel(entry.label, entry.note, entry.items, () => openBookListPanel(title, note, items, onBack));
         });
         container.appendChild(item);
         return;
@@ -3910,7 +3910,7 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
   }
   folderPanelClose.addEventListener("click", closeFolderPanel);
   folderPanelBack.addEventListener("click", () => {
-    if(parentSubfolderContext) openSubfolderList(parentSubfolderContext);
+    if(currentOnBack) currentOnBack();
   });
   folderBackdrop.addEventListener("click", closeFolderPanel);
 
@@ -3932,7 +3932,7 @@ wireToggle("pericope-toggle", "pericope-text", "Citește reflecția ▾", "Ascun
   readerBack.addEventListener("click", () => {
     closeReader();
     if(lastBookListState){
-      openBookListPanel(lastBookListState.title, lastBookListState.note, lastBookListState.items, lastBookListState.parentNestedFolder);
+      openBookListPanel(lastBookListState.title, lastBookListState.note, lastBookListState.items, lastBookListState.onBack);
     } else if(currentFolderKey){
       openFolder(currentFolderKey);
     }
