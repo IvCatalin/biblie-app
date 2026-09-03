@@ -4460,33 +4460,6 @@ function togglePlayPause(){
   }
 }
 
-let nowPlayingInterval = null;
-
-function stopNowPlayingPoll(){
-  if(nowPlayingInterval){ clearInterval(nowPlayingInterval); nowPlayingInterval = null; }
-}
-
-// Încearcă să afle melodia curentă de la endpoint-ul standard Icecast (status-json.xsl).
-// Nu toate serverele îl expun sau îl permit cross-origin — eșuează tăcut, fără să strice nimic.
-function tryFetchNowPlaying(streamUrl){
-  let origin;
-  try { origin = new URL(streamUrl).origin; } catch(e){ return; }
-  fetch(origin + "/status-json.xsl", { mode: "cors" })
-    .then(r => r.ok ? r.json() : null)
-    .then(data => {
-      if(!data || !data.icestats) return;
-      let sources = data.icestats.source;
-      if(!sources) return;
-      if(!Array.isArray(sources)) sources = [sources];
-      const match = sources.find(s => streamUrl.indexOf(s.listenurl || "") !== -1) || sources[0];
-      const title = match && (match.title || match.yp_currently_playing);
-      if(title && typeof title === "string" && title.trim()){
-        radioStatus.textContent = title.trim();
-      }
-    })
-    .catch(() => {}); // eșuează tăcut — rămâne "live acum"
-}
-
 function playStream(url, name){
   radioEmbedBox.style.display = "none";
   radioEmbedBox.innerHTML = "";
@@ -4495,15 +4468,12 @@ function playStream(url, name){
   radioAudio.src = url;
   setRadioStatus("se conectează…");
   showRadioUI(name);
-  stopNowPlayingPoll();
   const playPromise = radioAudio.play();
   if(playPromise && playPromise.then){
     playPromise.then(() => {
       radioPlaying = true;
       updatePlayPauseIcons(true);
       setRadioStatus("live acum");
-      tryFetchNowPlaying(url);
-      nowPlayingInterval = setInterval(() => tryFetchNowPlaying(url), 25000);
     }).catch(err => {
       setRadioStatus("nu a pornit automat — apasă din nou pe ▶ (" + (err && err.name ? err.name : "eroare browser") + ")");
     });
@@ -4515,14 +4485,13 @@ function playEmbed(embedUrl, name){
   radioIsEmbed = true;
   radioPlaying = true;
   setMiniPlayPauseVisible(false);
-  radioEmbedBox.innerHTML = '<iframe src="' + embedUrl + '" allow="autoplay"></iframe>';
+  radioEmbedBox.innerHTML = '<iframe src="' + embedUrl + '"></iframe>';
   radioEmbedBox.style.display = "block";
   setRadioStatus("apasă play mai jos — playerele externe cer o atingere manuală în majoritatea browserelor");
   showRadioUI(name);
 }
 
 function stopStream(){
-  stopNowPlayingPoll();
   radioAudio.pause();
   radioAudio.removeAttribute("src");
   radioAudio.load();
