@@ -2215,8 +2215,6 @@
       </button>
     </header>
     <main class="radio-main">
-      <div class="radio-note">Apeși pe un post și pornește direct, în aplicație. Rămâne pornit cât timp fila e deschisă, chiar dacă treci pe Biblie sau Căutare. Pe telefon, unele browsere cer o primă atingere manuală înainte să lase sunetul să pornească.</div>
-
       <div class="radio-section-label">România — flux direct, verificat</div>
       <div class="radio-station" data-stream="https://lb01.bpstream.com:8618/;">
         <span class="radio-station-dot"></span>
@@ -2246,11 +2244,11 @@
           <div class="radio-station-sub">post local RVE</div>
         </div>
       </div>
-      <div class="radio-station" data-embed="https://player.radioking.io/radio-vocea-crestinilor/?c=%2300325F&c2=%23ffffff&f=h&i=1&p=1&s=0&li=1&popup=0&plc=0&h=100&l=100&v=2">
+      <div class="radio-station" data-embed="https://player.radioking.io/radio-vocea-crestinilor/?c=%2300325F&c2=%23ffffff&f=h&i=1&p=1&s=0&li=1&popup=0&plc=0&h=100&l=100&v=2&autoplay=1">
         <span class="radio-station-dot"></span>
         <div>
           <div class="radio-station-name">Radio Vocea Creștinilor</div>
-          <div class="radio-station-sub">Arad · player încorporat direct aici (nu are flux audio brut public)</div>
+          <div class="radio-station-sub">Arad · player extern — apasă play o dată (limitare a browserelor pentru playere din alte site-uri)</div>
         </div>
       </div>
 
@@ -4462,6 +4460,33 @@ function togglePlayPause(){
   }
 }
 
+let nowPlayingInterval = null;
+
+function stopNowPlayingPoll(){
+  if(nowPlayingInterval){ clearInterval(nowPlayingInterval); nowPlayingInterval = null; }
+}
+
+// Încearcă să afle melodia curentă de la endpoint-ul standard Icecast (status-json.xsl).
+// Nu toate serverele îl expun sau îl permit cross-origin — eșuează tăcut, fără să strice nimic.
+function tryFetchNowPlaying(streamUrl){
+  let origin;
+  try { origin = new URL(streamUrl).origin; } catch(e){ return; }
+  fetch(origin + "/status-json.xsl", { mode: "cors" })
+    .then(r => r.ok ? r.json() : null)
+    .then(data => {
+      if(!data || !data.icestats) return;
+      let sources = data.icestats.source;
+      if(!sources) return;
+      if(!Array.isArray(sources)) sources = [sources];
+      const match = sources.find(s => streamUrl.indexOf(s.listenurl || "") !== -1) || sources[0];
+      const title = match && (match.title || match.yp_currently_playing);
+      if(title && typeof title === "string" && title.trim()){
+        radioStatus.textContent = title.trim();
+      }
+    })
+    .catch(() => {}); // eșuează tăcut — rămâne "live acum"
+}
+
 function playStream(url, name){
   radioEmbedBox.style.display = "none";
   radioEmbedBox.innerHTML = "";
@@ -4470,12 +4495,15 @@ function playStream(url, name){
   radioAudio.src = url;
   setRadioStatus("se conectează…");
   showRadioUI(name);
+  stopNowPlayingPoll();
   const playPromise = radioAudio.play();
   if(playPromise && playPromise.then){
     playPromise.then(() => {
       radioPlaying = true;
       updatePlayPauseIcons(true);
       setRadioStatus("live acum");
+      tryFetchNowPlaying(url);
+      nowPlayingInterval = setInterval(() => tryFetchNowPlaying(url), 25000);
     }).catch(err => {
       setRadioStatus("nu a pornit automat — apasă din nou pe ▶ (" + (err && err.name ? err.name : "eroare browser") + ")");
     });
@@ -4489,11 +4517,12 @@ function playEmbed(embedUrl, name){
   setMiniPlayPauseVisible(false);
   radioEmbedBox.innerHTML = '<iframe src="' + embedUrl + '" allow="autoplay"></iframe>';
   radioEmbedBox.style.display = "block";
-  setRadioStatus("apasă play în playerul de mai jos (necesită atingere manuală)");
+  setRadioStatus("apasă play mai jos — playerele externe cer o atingere manuală în majoritatea browserelor");
   showRadioUI(name);
 }
 
 function stopStream(){
+  stopNowPlayingPoll();
   radioAudio.pause();
   radioAudio.removeAttribute("src");
   radioAudio.load();
