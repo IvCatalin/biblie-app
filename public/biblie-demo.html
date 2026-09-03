@@ -17,6 +17,7 @@
     --ink-soft: #a3b8d9;
     --gold: #6f97cf;
     --gold-bright: #90b3e3;
+    --title-gold: #D4AF37;
     --wine: #e2919c;
     --line: rgba(255,255,255,0.13);
     --glass-bg: rgba(255,255,255,0.10);
@@ -182,12 +183,13 @@
     font-weight:700;
     letter-spacing:0.25em;
     text-transform:uppercase;
-    color:var(--gold);
+    color:var(--ink);
   }
   h1{
     font-family:'Inter', sans-serif;
     font-size:20px;
     margin:4px 0 2px;
+    color:var(--title-gold);
   }
   /* ===== Rând compact: Geneza 1 ▾ ........ [Citire][Aprofundare] ===== */
   .book-controls-row{
@@ -244,19 +246,20 @@
   }
   .translation-selector{
     position:relative;
-    flex:1;
+    flex:0 1 auto;
+    max-width:52%;
     min-width:0;
   }
   .translation-selector-btn{
     display:flex;
     align-items:center;
-    gap:7px;
+    gap:6px;
     width:100%;
     font-family:'Inter', sans-serif;
     background:var(--glass-bg);
     border:1px solid var(--glass-border);
     border-radius:10px;
-    padding:7px 10px;
+    padding:6px 8px;
     cursor:pointer;
     backdrop-filter: var(--glass-blur);
     -webkit-backdrop-filter: var(--glass-blur);
@@ -272,12 +275,12 @@
   .translation-selector-abbr{
     font-family:'Inter', sans-serif;
     font-weight:800;
-    font-size:10px;
+    font-size:9px;
     letter-spacing:0.02em;
     background:var(--gold);
     color:#0f1e38;
     border-radius:4px;
-    padding:3px 6px;
+    padding:3px 5px;
     flex-shrink:0;
   }
   .translation-selector-arrow{color:var(--ink-soft); font-size:10px; margin-left:auto; flex-shrink:0;}
@@ -332,6 +335,7 @@
 
   .chapter-play-toggle-btn{
     flex-shrink:0;
+    margin-left:auto;
     width:36px; height:36px;
     border-radius:50%;
     background:var(--gold);
@@ -1577,7 +1581,7 @@
     gap:12px;
   }
   .home-quote{
-    max-width:52%;
+    max-width:38%;
     text-align:right;
     font-family:'Fraunces', serif;
     font-style:italic;
@@ -1593,7 +1597,7 @@
     font-size:9.5px;
     letter-spacing:0.06em;
     text-transform:uppercase;
-    color:var(--gold);
+    color:var(--title-gold);
     margin-top:3px;
   }
 
@@ -1747,9 +1751,10 @@
     font-size:17px;
     color:var(--ink);
     letter-spacing:-0.01em;
+    max-width:38%;
   }
   .home-datetime .dt-time{
-    color:var(--gold);
+    color:var(--ink);
     font-weight:700;
   }
   .home-card-label{
@@ -2019,28 +2024,17 @@
     <h1>Biblia</h1>
     <button class="info-btn" id="info-btn" title="Despre această aplicație">ⓘ</button>
 
-    <div class="book-controls-row">
-      <button class="book-pill" id="book-pill">
-        <span id="book-pill-label">Geneza 1</span>
-        <span class="book-pill-arrow">▾</span>
-      </button>
-      <div class="mode-toggle">
-        <button class="mode-btn active" id="mode-citire" data-mode="citire">Citire</button>
-        <button class="mode-btn" id="mode-aprofundare" data-mode="aprofundare">Aprofundare</button>
-      </div>
-    </div>
-
     <div class="translation-row">
       <div class="translation-selector" id="translation-selector">
         <button class="translation-selector-btn" id="translation-selector-btn">
           <span class="translation-selector-abbr" id="translation-selector-abbr">TORA</span>
-          <span class="translation-selector-label" id="translation-selector-label">Tora și Haftarot (Rosen)</span>
+          <span class="translation-selector-label" id="translation-selector-label">Tora și Haftarot</span>
           <span class="translation-selector-arrow">▾</span>
         </button>
         <div class="translation-dropdown" id="version-row">
           <button class="version-chip active" data-version="rosen">
             <span class="version-badge">TORA</span>
-            <span class="version-name">Tora și Haftarot (Rosen)</span>
+            <span class="version-name">Tora și Haftarot</span>
           </button>
           <button class="version-chip" data-version="fidela">
             <span class="version-badge">FID</span>
@@ -2051,6 +2045,17 @@
       <button class="chapter-play-toggle-btn" id="chapter-play-toggle-btn" title="Ascultă capitolul">
         <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
       </button>
+    </div>
+
+    <div class="book-controls-row" style="margin-top:8px;">
+      <button class="book-pill" id="book-pill">
+        <span id="book-pill-label">Geneza 1</span>
+        <span class="book-pill-arrow">▾</span>
+      </button>
+      <div class="mode-toggle">
+        <button class="mode-btn active" id="mode-citire" data-mode="citire">Citire</button>
+        <button class="mode-btn" id="mode-aprofundare" data-mode="aprofundare">Aprofundare</button>
+      </div>
     </div>
   </header>
 
@@ -2064,7 +2069,7 @@
   <div class="tab-panel" id="tab-acasa">
     <header style="padding-bottom:52px;">
       <div class="home-header-row">
-        <div class="home-datetime" id="home-datetime">joi, 20 august 2026 · 00:00</div>
+        <div class="home-datetime" id="home-datetime">Joi, 20 August · 00:00</div>
         <div class="home-quote" id="home-quote">„Citat“<span class="home-quote-ref">Autor</span></div>
       </div>
       <button class="header-search-btn" onclick="switchTab('cautare')" title="Căutare">
@@ -3392,9 +3397,13 @@ function closePicker(){
   pickerBackdrop.classList.remove("show");
 }
 
+const TORA_SLUGS = ["genesis", "exodus", "leviticus", "numbers", "deuteronomy"];
 function populatePickerBookList(){
   pickerBookList.innerHTML = "";
-  BOOKS.filter(b => b.testament === currentTestament).forEach(book => {
+  const list = currentVersion === "rosen"
+    ? BOOKS.filter(b => TORA_SLUGS.includes(b.slug))
+    : BOOKS.filter(b => b.testament === currentTestament);
+  list.forEach(book => {
     const item = document.createElement("div");
     item.className = "picker-book-item" + (book.slug === currentBookSlug ? " open" : "");
 
@@ -3570,6 +3579,17 @@ document.querySelectorAll(".version-chip").forEach(chip => {
     if(translationAbbrEl && badge) translationAbbrEl.textContent = badge.textContent;
     if(translationLabelEl && name) translationLabelEl.textContent = name.textContent;
     if(translationDropdown) translationDropdown.classList.remove("show");
+    const testamentTabsEl = document.querySelector(".testament-tabs");
+    if(currentVersion === "rosen"){
+      if(testamentTabsEl) testamentTabsEl.style.display = "none";
+      currentTestament = "vt";
+      if(!TORA_SLUGS.includes(currentBookSlug)){
+        currentBookSlug = "genesis";
+        loadChapter(1);
+      }
+    } else {
+      if(testamentTabsEl) testamentTabsEl.style.display = "";
+    }
     if(Array.isArray(VERSES) && VERSES.length){
       versesEl.innerHTML = "";
       renderVerses();
@@ -4638,10 +4658,11 @@ function updateClock(){
   const now = new Date();
   const zi = ZILE[now.getDay()];
   const luna = LUNI[now.getMonth()];
+  const lunaCapitalizata = luna.charAt(0).toUpperCase() + luna.slice(1);
   const ora = String(now.getHours()).padStart(2, "0");
   const min = String(now.getMinutes()).padStart(2, "0");
   homeDatetimeEl.innerHTML =
-    zi.charAt(0).toUpperCase() + zi.slice(1) + ", " + now.getDate() + " " + luna + " " + now.getFullYear() +
+    zi.charAt(0).toUpperCase() + zi.slice(1) + ", " + now.getDate() + " " + lunaCapitalizata +
     ' <span class="dt-time">' + ora + ":" + min + "</span>";
 }
 updateClock();
