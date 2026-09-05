@@ -1076,6 +1076,7 @@
     height:4px;
     border-radius:50%;
     background:#d4a017;
+    box-shadow: 7px 0 0 #d4a017, 14px 0 0 #d4a017;
     pointer-events:none;
   }
   .word:active, .word.active-word{
@@ -1215,6 +1216,8 @@
     transition:transform 0.25s ease;
     z-index:89;
     padding:10px 16px calc(16px + env(safe-area-inset-bottom, 0px));
+    max-height:82vh;
+    overflow-y:auto;
   }
   .verse-sheet.show{transform:translateY(0);}
   .verse-sheet-handle{
@@ -1233,9 +1236,58 @@
   }
   .verse-sheet-actions{
     display:grid;
-    grid-template-columns:repeat(6, 1fr);
+    grid-template-columns:repeat(5, 1fr);
     gap:4px;
     margin-bottom:4px;
+  }
+  .vs-tabs{
+    display:flex;
+    gap:4px;
+    margin-top:10px;
+    padding-top:10px;
+    border-top:1px solid var(--line);
+  }
+  .vs-tab{
+    flex:1;
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    font-weight:600;
+    color:var(--ink-soft);
+    background:none;
+    border:none;
+    border-bottom:2px solid transparent;
+    padding:8px 4px;
+    cursor:pointer;
+  }
+  .vs-tab.active{color:var(--ink); border-bottom-color:var(--gold);}
+  .vs-tab-content{padding:10px 0 4px;}
+  .vs-comment-row{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:10px;
+    padding:11px 2px;
+    border-bottom:1px solid var(--line);
+    cursor:pointer;
+  }
+  .vs-comment-row:last-of-type{border-bottom:none;}
+  .vs-comment-author{font-family:'Inter', sans-serif; font-weight:600; font-size:14px; color:var(--ink);}
+  .vs-comment-preview{
+    font-size:12.5px;
+    color:var(--ink-soft);
+    margin-top:2px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+  .vs-comment-chev{color:var(--ink-soft); font-size:16px; flex-shrink:0; transition:transform 0.15s;}
+  .vs-comment-row.open .vs-comment-chev{transform:rotate(90deg);}
+  .vs-comment-full{
+    font-size:14px;
+    line-height:1.6;
+    color:var(--ink);
+    padding:2px 2px 14px;
+    border-bottom:1px solid var(--line);
   }
   .vs-action{
     display:flex;
@@ -2429,10 +2481,6 @@
   <div class="verse-sheet-handle"></div>
   <div class="verse-sheet-verse-ref" id="verse-sheet-ref">Geneza 1:1</div>
   <div class="verse-sheet-actions">
-    <button class="vs-action" data-action="comment" title="Comentarii și comparație">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 11.5a8.4 8.4 0 0 1-8.9 8.4A9 9 0 0 1 6 18l-3 1 1-3a8.5 8.5 0 0 1-1-4A8.4 8.4 0 0 1 11.5 3 8.5 8.5 0 0 1 21 11.5z"/></svg>
-      <span>Comentarii</span>
-    </button>
     <button class="vs-action" data-action="copy" title="Copiază versetul">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/></svg>
       <span>Copiază</span>
@@ -2455,6 +2503,11 @@
     </button>
   </div>
   <div class="verse-sheet-panel" id="verse-sheet-panel"></div>
+  <div class="vs-tabs" id="vs-tabs">
+    <button class="vs-tab active" data-tab="comentarii">Comentarii</button>
+    <button class="vs-tab" data-tab="texte">Texte</button>
+  </div>
+  <div class="vs-tab-content" id="vs-tab-content"></div>
 </div>
 <div class="vs-toast" id="vs-toast"></div>
 
@@ -2609,8 +2662,85 @@ function openVerseSheet(verse, verseEl){
   document.querySelectorAll(".vs-action").forEach(b => b.classList.remove("active"));
   const highlightBtn = document.querySelector('.vs-action[data-action="highlight"]');
   if(highlightBtn) highlightBtn.classList.toggle("active", vsGetMarkColor() !== "none");
+  renderVerseSheetTabs(verse);
   verseSheet.classList.add("show");
   verseSheetBackdrop.classList.add("show");
+}
+
+// --- Cele două taburi din foaia de verset: Comentarii (listă cu preview) și
+// Texte (comparație Masoretic/LXX/Samaritean) — înlocuiesc sertarul separat
+// pentru accesul de bază pe verset; sertarul (drawer) rămâne folosit doar
+// de trimiterile/referințele care sar direct la alt verset.
+let vsActiveTab = "comentarii";
+function renderVerseSheetTabs(verse){
+  const tabsEl = document.getElementById("vs-tabs");
+  const contentEl = document.getElementById("vs-tab-content");
+  vsActiveTab = "comentarii";
+
+  function renderTabContent(){
+    contentEl.innerHTML = "";
+    if(vsActiveTab === "comentarii"){
+      if(verse.commentaries && verse.commentaries.length){
+        verse.commentaries.forEach(c => {
+          const plain = (c.text || "").replace(/<[^>]+>/g, "");
+          const preview = plain.length > 90 ? plain.slice(0, 90) + "…" : plain;
+          const row = document.createElement("div");
+          row.className = "vs-comment-row";
+          row.innerHTML =
+            '<div>' +
+              '<div class="vs-comment-author">' + c.author + '</div>' +
+              '<div class="vs-comment-preview">' + preview + '</div>' +
+            '</div>' +
+            '<span class="vs-comment-chev">›</span>';
+          const full = document.createElement("div");
+          full.className = "vs-comment-full";
+          full.style.display = "none";
+          full.innerHTML = c.text;
+          row.addEventListener("click", () => {
+            const isOpen = full.style.display !== "none";
+            contentEl.querySelectorAll(".vs-comment-full").forEach(f => f.style.display = "none");
+            contentEl.querySelectorAll(".vs-comment-row").forEach(r => r.classList.remove("open"));
+            if(!isOpen){ full.style.display = "block"; row.classList.add("open"); }
+          });
+          contentEl.appendChild(row);
+          contentEl.appendChild(full);
+        });
+      } else {
+        contentEl.innerHTML = '<div class="home-placeholder-note">Nu există comentarii pentru acest verset.</div>';
+      }
+    } else {
+      if(verse.textCompare && verse.textCompare.length){
+        const group = makeAccordionGroup(
+          "Comparație texte",
+          verse.textCompare.map(c => ({ headerLabel: c.source, data: c })),
+          item => {
+            const c = item.data;
+            const origClass = c.greek ? "orig-block greek" : "orig-block";
+            let html = `<div class="${origClass}">${c.original}</div>`;
+            html += `<div>${c.translation}</div>`;
+            if(c.note){
+              html += `<div class="note">${c.note}</div>`;
+            }
+            return html;
+          }
+        );
+        contentEl.appendChild(group);
+      } else {
+        contentEl.innerHTML = '<div class="home-placeholder-note">Nu există comparație de texte pentru acest verset.</div>';
+      }
+    }
+  }
+
+  tabsEl.querySelectorAll(".vs-tab").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.tab === vsActiveTab);
+    btn.onclick = () => {
+      vsActiveTab = btn.dataset.tab;
+      tabsEl.querySelectorAll(".vs-tab").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      renderTabContent();
+    };
+  });
+  renderTabContent();
 }
 function closeVerseSheet(){
   verseSheet.classList.remove("show");
@@ -2637,11 +2767,6 @@ document.querySelectorAll(".vs-action").forEach(btn => {
       applyVerseMarkStyle(vsCurrentVerseEl, currentBookSlug, currentChapter, vsCurrentVerse.num);
       showVsToast(next !== "none" ? "Verset marcat" : "Verset demarcat");
       closeVerseSheet();
-      return;
-    }
-    if(action === "comment"){
-      closeVerseSheet();
-      openDrawer(vsCurrentVerse);
       return;
     }
     if(action === "copy"){
