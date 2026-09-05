@@ -1220,6 +1220,21 @@
     overflow-y:auto;
   }
   .verse-sheet.show{transform:translateY(0);}
+  .verse-sheet-close{
+    position:absolute;
+    top:14px; right:14px;
+    width:30px; height:30px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:rgba(255,255,255,0.08);
+    border:none;
+    border-radius:9px;
+    color:var(--ink-soft);
+    font-size:15px;
+    cursor:pointer;
+    z-index:2;
+  }
   .verse-sheet-handle{
     width:36px; height:4px;
     background:var(--line);
@@ -2478,6 +2493,7 @@
 <div class="verse-sheet-backdrop" id="verse-sheet-backdrop"></div>
 <div class="verse-sheet" id="verse-sheet">
   <div class="verse-sheet-handle"></div>
+  <button class="verse-sheet-close" id="verse-sheet-close" aria-label="Închide">✕</button>
   <div class="verse-sheet-verse-ref" id="verse-sheet-ref">Geneza 1:1</div>
   <div class="verse-sheet-actions">
     <button class="vs-action" data-action="copy" title="Copiază versetul">
@@ -2791,6 +2807,8 @@ function closeVerseSheet(){
   unlockBodyScroll();
 }
 verseSheetBackdrop.addEventListener("click", closeVerseSheet);
+const verseSheetCloseBtn = document.getElementById("verse-sheet-close");
+if(verseSheetCloseBtn) verseSheetCloseBtn.addEventListener("click", closeVerseSheet);
 
 function plainVerseTextForSheet(verse){
   if(currentVersion !== "rosen" && verse[currentVersion]) return verse[currentVersion];
@@ -3370,7 +3388,11 @@ function goToRef(refText, anchorEl){
     if(currentBookSlug === "genesis" && currentChapter === targetChapter){
       // deja e capitolul afișat — găsim direct versetul
       const targetVerse = VERSES.find(v => v.num === targetVerseNum);
-      if(targetVerse){ openDrawer(targetVerse); return; }
+      if(targetVerse){
+        const el = document.querySelector(`.verse[data-num="${targetVerse.num}"]`);
+        openVerseSheet(targetVerse, el);
+        return;
+      }
     }
 
     // capitol diferit, dar disponibil — îl încărcăm, apoi deschidem versetul cerut
@@ -3403,7 +3425,8 @@ function loadChapterThenOpenVerse(chapterNum, verseNum){
     const targetVerse = VERSES.find(v => v.num === verseNum);
     if(targetVerse){
       switchTab("biblia");
-      openDrawer(targetVerse);
+      const el = document.querySelector(`.verse[data-num="${targetVerse.num}"]`);
+      openVerseSheet(targetVerse, el);
     }
   };
   document.body.appendChild(script);
@@ -3863,6 +3886,9 @@ const tabPanels = {
 const bottomTabBtns = document.querySelectorAll(".bottom-tab-btn");
 
 function switchTab(name){
+  if(typeof closeVerseSheet === "function") closeVerseSheet();
+  if(typeof hideWordPopover === "function") hideWordPopover();
+  if(typeof unlockBodyScroll === "function") unlockBodyScroll();
   Object.keys(tabPanels).forEach(key => {
     tabPanels[key].style.display = (key === name) ? "" : "none";
   });
@@ -4976,7 +5002,8 @@ function runSearch(){
         '<div class="search-result-snippet">' + hit.snippet + '</div>';
       card.addEventListener("click", () => {
         switchTab("biblia");
-        openDrawer(verse);
+        const el = document.querySelector(`.verse[data-num="${verse.num}"]`);
+        openVerseSheet(verse, el);
       });
       searchResults.appendChild(card);
     });
