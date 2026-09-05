@@ -13,7 +13,7 @@ window.CHAPTER_DATA = [
         "strong": "H569",
         "pos": "nume propriu",
         "greek": "Αμαρφαλ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Amrafel."
       },
       {
@@ -27,7 +27,7 @@ window.CHAPTER_DATA = [
         "strong": "H8152",
         "pos": "nume propriu",
         "greek": "Σεννααρ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Șinarului."
       },
       {
@@ -41,7 +41,7 @@ window.CHAPTER_DATA = [
         "strong": "H746",
         "pos": "nume propriu",
         "greek": "Αριωχ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Arioh."
       },
       {
@@ -55,7 +55,7 @@ window.CHAPTER_DATA = [
         "strong": "H495",
         "pos": "nume propriu",
         "greek": "Ελλασαρ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Elasarului."
       },
       {
@@ -69,7 +69,7 @@ window.CHAPTER_DATA = [
         "strong": "H3540",
         "pos": "nume propriu",
         "greek": "Χοδολλογομορ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Chedorlaomer."
       },
       {
@@ -83,7 +83,7 @@ window.CHAPTER_DATA = [
         "strong": "H5867",
         "pos": "nume propriu",
         "greek": "Αιλαμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Elamului."
       },
       {
@@ -97,7 +97,7 @@ window.CHAPTER_DATA = [
         "strong": "H8413",
         "pos": "nume propriu",
         "greek": "Θαργαλ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Tidal."
       },
       {
@@ -111,7 +111,7 @@ window.CHAPTER_DATA = [
         "strong": "H1471",
         "pos": "nume propriu",
         "greek": "ἐθνῶν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Goimului — literal „al neamurilor”."
       },
       {
@@ -136,7 +136,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ויהי בימי אמרפל מלך שנער ואריוך מלך אלסר כדר לעמר מלך עילם ותדעל מלך גוים",
         "translation": "Diferență reală, confirmată: ויהי בימי אמרפל מלך שנער ואריוך מלך אלסר כדר לעמר מלך עילם ותדעל מלך גוים — „And it came to pass in the days of Amraphel king of Shinar, and Arioch king of Ellasar, Chedor Laomer king of Elam, and Tidal king of nations;”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi s-a întâmplat, în zilele lui Amrafel, împăratul Şinarului, Arioc, împăratul Elasarului, Chedorlaomer, împăratul Elamului, şi Tideal, împăratul naţiunilor,",
@@ -169,7 +169,7 @@ window.CHAPTER_DATA = [
         "strong": "H6213",
         "pos": "verb",
         "greek": "ἐποίησαν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au făcut."
       },
       {
@@ -183,7 +183,7 @@ window.CHAPTER_DATA = [
         "strong": "H4421",
         "pos": "substantiv",
         "greek": "πόλεμον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "război."
       },
       {
@@ -197,7 +197,7 @@ window.CHAPTER_DATA = [
         "strong": "H1298",
         "pos": "nume propriu",
         "greek": "Βαλλα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Bera."
       },
       {
@@ -211,7 +211,7 @@ window.CHAPTER_DATA = [
         "strong": "H5467",
         "pos": "nume propriu",
         "greek": "Σοδομων",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sodomei."
       },
       {
@@ -225,7 +225,7 @@ window.CHAPTER_DATA = [
         "strong": "H1306",
         "pos": "nume propriu",
         "greek": "Βαρσα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Birșa."
       },
       {
@@ -239,7 +239,7 @@ window.CHAPTER_DATA = [
         "strong": "H6017",
         "pos": "nume propriu",
         "greek": "Γομορρας",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Gomorei."
       },
       {
@@ -253,7 +253,7 @@ window.CHAPTER_DATA = [
         "strong": "H8134",
         "pos": "nume propriu",
         "greek": "Σεννααρ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Șinav."
       },
       {
@@ -267,7 +267,7 @@ window.CHAPTER_DATA = [
         "strong": "H126",
         "pos": "nume propriu",
         "greek": "Αδαμα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Admei."
       },
       {
@@ -281,7 +281,7 @@ window.CHAPTER_DATA = [
         "strong": "H8039",
         "pos": "nume propriu",
         "greek": "Συμοβορ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Șemever."
       },
       {
@@ -295,7 +295,7 @@ window.CHAPTER_DATA = [
         "strong": "H6636",
         "pos": "nume propriu",
         "greek": "Σεβωιμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Țevoimului."
       },
       {
@@ -309,7 +309,7 @@ window.CHAPTER_DATA = [
         "strong": "H1106",
         "pos": "nume propriu",
         "greek": "Βαλακ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Belei."
       },
       {
@@ -323,7 +323,7 @@ window.CHAPTER_DATA = [
         "strong": "H6820",
         "pos": "nume propriu",
         "greek": "Σηγωρ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Țoar."
       },
       {
@@ -348,7 +348,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "עשו מלחמה את ברע מלך סדם ואת ברשע מלך עמרה ושנאב מלך אדמה ושמ אבד מלך צבואים ומלך בלע היא צער",
         "translation": "Diferență reală, confirmată: עשו מלחמה את ברע מלך סדם ואת ברשע מלך עמרה ושנאב מלך אדמה ושמ אבד מלך צבואים ומלך בלע היא צער — „[That these] made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Că aceştia au făcut război cu Bera, împăratul Sodomei, şi cu Birşa, împăratul Gomorei, Şinab, împăratul Admei, şi Şemeeber, împăratul Ţeboimului, şi împăratul Belei, care este Ţoar.",
@@ -377,7 +377,7 @@ window.CHAPTER_DATA = [
         "strong": "H2266",
         "pos": "verb",
         "greek": "συνεφώνησαν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "s-au strâns."
       },
       {
@@ -391,7 +391,7 @@ window.CHAPTER_DATA = [
         "strong": "H6010",
         "pos": "substantiv",
         "greek": "τὴν φάραγγα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "valea."
       },
       {
@@ -405,7 +405,7 @@ window.CHAPTER_DATA = [
         "strong": "H7708",
         "pos": "nume propriu, cu articol",
         "greek": "τὴν ἁλυκήν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sidim."
       },
       {
@@ -419,7 +419,7 @@ window.CHAPTER_DATA = [
         "strong": "H3220",
         "pos": "substantiv",
         "greek": "θάλασσα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Marea."
       },
       {
@@ -433,7 +433,7 @@ window.CHAPTER_DATA = [
         "strong": "H4417",
         "pos": "substantiv, cu articol",
         "greek": "ἡ ἁλυκή",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sărată."
       },
       {
@@ -457,7 +457,7 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "כל אלה חברו אל עמק השדים הוא ים המלח",
-        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
         "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
@@ -483,7 +483,7 @@ window.CHAPTER_DATA = [
         "strong": "H8147",
         "pos": "numeral",
         "greek": "δώδεκα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Doisprezece."
       },
       {
@@ -497,7 +497,7 @@ window.CHAPTER_DATA = [
         "strong": "H8141",
         "pos": "substantiv",
         "greek": "ἔτη",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "ani."
       },
       {
@@ -511,7 +511,7 @@ window.CHAPTER_DATA = [
         "strong": "H5647",
         "pos": "verb",
         "greek": "ἐδούλευσαν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "l-au slujit."
       },
       {
@@ -525,7 +525,7 @@ window.CHAPTER_DATA = [
         "strong": "H3540",
         "pos": "nume propriu",
         "greek": "τῷ Χοδολλογομορ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "pe Chedorlaomer."
       },
       {
@@ -539,7 +539,7 @@ window.CHAPTER_DATA = [
         "strong": "H7969",
         "pos": "numeral",
         "greek": "τρισκαιδεκάτῳ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "treisprezecelea."
       },
       {
@@ -553,7 +553,7 @@ window.CHAPTER_DATA = [
         "strong": "H4775",
         "pos": "verb",
         "greek": "ἀπέστησαν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "s-au răsculat."
       },
       {
@@ -578,7 +578,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "שתים עשרה שנה עבדו את כדר לעמר ובשלש עשרה שנה מרדו",
         "translation": "Diferență reală, confirmată: שתים עשרה שנה עבדו את כדר לעמר ובשלש עשרה שנה מרדו — „Twelve years they served Chedor Laomer, and in the thirteenth year they rebelled.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Doisprezece ani i-au servit lui Chedorlaomer şi în al treisprezecelea an s-au răzvrătit.",
@@ -606,7 +606,7 @@ window.CHAPTER_DATA = [
         "strong": "H702",
         "pos": "numeral",
         "greek": "τεσσαρεσκαιδεκάτῳ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "paisprezecelea."
       },
       {
@@ -620,7 +620,7 @@ window.CHAPTER_DATA = [
         "strong": "H935",
         "pos": "verb",
         "greek": "ἦλθεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "a venit."
       },
       {
@@ -634,7 +634,7 @@ window.CHAPTER_DATA = [
         "strong": "H3540",
         "pos": "nume propriu",
         "greek": "Χοδολλογομορ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Chedorlaomer."
       },
       {
@@ -648,7 +648,7 @@ window.CHAPTER_DATA = [
         "strong": "H4428",
         "pos": "substantiv, cu articol",
         "greek": "οἱ βασιλεῖς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "regii."
       },
       {
@@ -662,7 +662,7 @@ window.CHAPTER_DATA = [
         "strong": "H5221",
         "pos": "verb",
         "greek": "κατέκοψαν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "i-au lovit."
       },
       {
@@ -676,7 +676,7 @@ window.CHAPTER_DATA = [
         "strong": "H7497",
         "pos": "nume propriu, popor",
         "greek": "Ραφαιν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "refaimiți."
       },
       {
@@ -690,7 +690,7 @@ window.CHAPTER_DATA = [
         "strong": "H6255",
         "pos": "nume propriu",
         "greek": "Ασταρωθ Καρναιν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Așterot-Karnaim."
       },
       {
@@ -704,7 +704,7 @@ window.CHAPTER_DATA = [
         "strong": "H2104",
         "pos": "nume propriu, popor",
         "greek": "ἔθνη ἰσχυρά",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "zuziți."
       },
       {
@@ -718,7 +718,7 @@ window.CHAPTER_DATA = [
         "strong": "H1990",
         "pos": "nume propriu",
         "greek": "αὐτοῖς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Ham."
       },
       {
@@ -732,7 +732,7 @@ window.CHAPTER_DATA = [
         "strong": "H368",
         "pos": "nume propriu, popor",
         "greek": "Ομμαίοις",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "emimi."
       },
       {
@@ -746,7 +746,7 @@ window.CHAPTER_DATA = [
         "strong": "H7741",
         "pos": "nume propriu",
         "greek": "Σαυη τῇ πόλει",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Șave-Kiriataim."
       },
       {
@@ -771,7 +771,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ובארבע עשרה שנה בא כדר לעמר והמלכים אשר אתו ויכו את הרפאים בעשתרות קרנים ואת הזוזים בחם ואת האימים בשבי קריתים",
         "translation": "Diferență reală, confirmată: ובארבע עשרה שנה בא כדר לעמר והמלכים אשר אתו ויכו את הרפאים בעשתרות קרנים ואת הזוזים בחם ואת האימים בשבי קריתים — „And in the fourteenth year came Chedor Laomer, and the kings that [were] with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi în al paisprezecelea an a venit Chedorlaomer şi împăraţii care erau cu el şi au lovit pe refaimi în Aşterot-Carnaim şi pe zuzimi în Ham şi pe emimi în câmpia Chiriataimului,",
@@ -799,7 +799,7 @@ window.CHAPTER_DATA = [
         "strong": "H2752",
         "pos": "nume propriu, popor, cu articol",
         "greek": "Χορραίους",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "horiți."
       },
       {
@@ -813,7 +813,7 @@ window.CHAPTER_DATA = [
         "strong": "H2022",
         "pos": "substantiv, cu articol",
         "greek": "τῷ ὄρει",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "munții."
       },
       {
@@ -827,7 +827,7 @@ window.CHAPTER_DATA = [
         "strong": "H8165",
         "pos": "nume propriu",
         "greek": "Σηιρ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Seir."
       },
       {
@@ -841,7 +841,7 @@ window.CHAPTER_DATA = [
         "strong": "H352",
         "pos": "substantiv",
         "greek": "τερέμινθον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "câmpia."
       },
       {
@@ -855,7 +855,7 @@ window.CHAPTER_DATA = [
         "strong": "H6290",
         "pos": "nume propriu",
         "greek": "Φαραν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Paran."
       },
       {
@@ -869,7 +869,7 @@ window.CHAPTER_DATA = [
         "strong": "H4057",
         "pos": "substantiv, cu articol",
         "greek": "ἡ ἔρημος",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "deșert."
       },
       {
@@ -894,7 +894,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ואת החרי בהררי שעיר עד איל פראן אשר על המדבר",
         "translation": "Diferență reală, confirmată: ואת החרי בהררי שעיר עד איל פראן אשר על המדבר — „And the Horites in mount Seir, unto El-paran, which [is] by the wilderness.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi pe horiţi în muntele lor Seir, până la câmpia Paran, care este lângă pustiu.",
@@ -922,7 +922,7 @@ window.CHAPTER_DATA = [
         "strong": "H7725",
         "pos": "verb",
         "greek": "ἀναστρέψαντες",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "s-au întors."
       },
       {
@@ -936,7 +936,7 @@ window.CHAPTER_DATA = [
         "strong": "H935",
         "pos": "verb",
         "greek": "ἦλθον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au venit."
       },
       {
@@ -950,7 +950,7 @@ window.CHAPTER_DATA = [
         "strong": "H5880",
         "pos": "nume propriu",
         "greek": "τὴν πηγὴν τῆς κρίσεως",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Ein-Mișpat — literal „izvorul judecății”."
       },
       {
@@ -964,7 +964,7 @@ window.CHAPTER_DATA = [
         "strong": "H6946",
         "pos": "nume propriu",
         "greek": "Καδης",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Kadeș."
       },
       {
@@ -978,7 +978,7 @@ window.CHAPTER_DATA = [
         "strong": "H5221",
         "pos": "verb",
         "greek": "κατέκοψαν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au lovit."
       },
       {
@@ -992,7 +992,7 @@ window.CHAPTER_DATA = [
         "strong": "H7704",
         "pos": "substantiv, stare construită",
         "greek": "πάντας τοὺς ἄρχοντας",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "teritoriul."
       },
       {
@@ -1006,7 +1006,7 @@ window.CHAPTER_DATA = [
         "strong": "H6003",
         "pos": "nume propriu, popor, cu articol",
         "greek": "Αμαληκ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "amalekitului."
       },
       {
@@ -1020,7 +1020,7 @@ window.CHAPTER_DATA = [
         "strong": "H567",
         "pos": "nume propriu, popor, cu articol",
         "greek": "τὸν Αμορραῖον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "amoritul."
       },
       {
@@ -1034,7 +1034,7 @@ window.CHAPTER_DATA = [
         "strong": "H3427",
         "pos": "verb, participiu, cu articol",
         "greek": "τὸν κατοικοῦντα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "ce sălășluia."
       },
       {
@@ -1048,7 +1048,7 @@ window.CHAPTER_DATA = [
         "strong": "H2688",
         "pos": "nume propriu",
         "greek": "Ασασανθαμαρ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Hațațon-Tamar."
       },
       {
@@ -1073,7 +1073,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "וישבו ויבאו אל עינ משפט היא קדש ויכו את כל שדה העמלקי וגם את האמרי הישב בחצצונ תמר",
         "translation": "Diferență reală, confirmată: וישבו ויבאו אל עינ משפט היא קדש ויכו את כל שדה העמלקי וגם את האמרי הישב בחצצונ תמר — „And they returned, and came to En-mishpat, which [is] Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezon-tamar.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi s-au întors şi au venit la En-Mişpat, care este Cades, şi au lovit toată ţara amaleciţilor şi de asemenea pe amoriţi, care locuiau în Haţaţon-Tamar.",
@@ -1102,7 +1102,7 @@ window.CHAPTER_DATA = [
         "strong": "H4428",
         "pos": "substantiv, stare construită",
         "greek": "ὁ βασιλεὺς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "regele."
       },
       {
@@ -1116,7 +1116,7 @@ window.CHAPTER_DATA = [
         "strong": "H5467",
         "pos": "nume propriu",
         "greek": "Σοδομων",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sodomei."
       },
       {
@@ -1130,7 +1130,7 @@ window.CHAPTER_DATA = [
         "strong": "H3318",
         "pos": "verb",
         "greek": "ἐξῆλθεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "a ieșit."
       },
       {
@@ -1144,7 +1144,7 @@ window.CHAPTER_DATA = [
         "strong": "H6017",
         "pos": "nume propriu",
         "greek": "Γομορρας",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Gomorei."
       },
       {
@@ -1158,7 +1158,7 @@ window.CHAPTER_DATA = [
         "strong": "H126",
         "pos": "nume propriu",
         "greek": "Αδαμα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Admei."
       },
       {
@@ -1172,7 +1172,7 @@ window.CHAPTER_DATA = [
         "strong": "H6636",
         "pos": "nume propriu",
         "greek": "Σεβωιμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Țevoimului."
       },
       {
@@ -1186,7 +1186,7 @@ window.CHAPTER_DATA = [
         "strong": "H1106",
         "pos": "nume propriu",
         "greek": "Βαλακ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Belei."
       },
       {
@@ -1200,7 +1200,7 @@ window.CHAPTER_DATA = [
         "strong": "H6820",
         "pos": "nume propriu",
         "greek": "Σηγωρ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Țoar."
       },
       {
@@ -1214,7 +1214,7 @@ window.CHAPTER_DATA = [
         "strong": "H6186",
         "pos": "verb",
         "greek": "παρετάξαντο",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "s-au războit."
       },
       {
@@ -1228,7 +1228,7 @@ window.CHAPTER_DATA = [
         "strong": "H6010",
         "pos": "substantiv",
         "greek": "τῇ κοιλάδι",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "valea."
       },
       {
@@ -1242,7 +1242,7 @@ window.CHAPTER_DATA = [
         "strong": "H7708",
         "pos": "nume propriu, cu articol",
         "greek": "τῇ ἁλυκῇ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sidim."
       },
       {
@@ -1267,7 +1267,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ויצא מלך סדם ומלך עמרה ומלך אדמה ומלך צבואים ומלך בלע הוא צער ויערכו אתם מלחמה בעמק השדים",
         "translation": "Diferență reală, confirmată: ויצא מלך סדם ומלך עמרה ומלך אדמה ומלך צבואים ומלך בלע הוא צער ויערכו אתם מלחמה בעמק השדים — „And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same [is] Zoar;) and they joined battle with them in the vale of Siddim;”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi împăratul Sodomei a ieşit şi împăratul Gomorei şi împăratul Admei şi împăratul Ţeboimului şi împăratul Belei (aceeaşi este Ţoar) şi s-au aşezat la bătaie cu ei în valea lui Sidim,",
@@ -1295,7 +1295,7 @@ window.CHAPTER_DATA = [
         "strong": "H3540",
         "pos": "nume propriu",
         "greek": "Χοδολλογομορ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Chedorlaomer."
       },
       {
@@ -1309,7 +1309,7 @@ window.CHAPTER_DATA = [
         "strong": "H5867",
         "pos": "nume propriu",
         "greek": "Αιλαμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Elamului."
       },
       {
@@ -1323,7 +1323,7 @@ window.CHAPTER_DATA = [
         "strong": "H8413",
         "pos": "nume propriu",
         "greek": "Θαργαλ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Tidal."
       },
       {
@@ -1337,7 +1337,7 @@ window.CHAPTER_DATA = [
         "strong": "H1471",
         "pos": "nume propriu",
         "greek": "ἐθνῶν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Goimului."
       },
       {
@@ -1351,7 +1351,7 @@ window.CHAPTER_DATA = [
         "strong": "H569",
         "pos": "nume propriu",
         "greek": "Αμαρφαλ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Amrafel."
       },
       {
@@ -1365,7 +1365,7 @@ window.CHAPTER_DATA = [
         "strong": "H8152",
         "pos": "nume propriu",
         "greek": "Σεννααρ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Șinarului."
       },
       {
@@ -1379,7 +1379,7 @@ window.CHAPTER_DATA = [
         "strong": "H746",
         "pos": "nume propriu",
         "greek": "Αριωχ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Arioh."
       },
       {
@@ -1393,7 +1393,7 @@ window.CHAPTER_DATA = [
         "strong": "H495",
         "pos": "nume propriu",
         "greek": "Ελλασαρ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Elasarului."
       },
       {
@@ -1407,7 +1407,7 @@ window.CHAPTER_DATA = [
         "strong": "H2568",
         "pos": "numeral",
         "greek": "πέντε",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "cinci."
       },
       {
@@ -1432,7 +1432,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "את כדר לעמר מלך עילם ותדעל מלך גוים אמרפל מלך שנער ואריוך מלך אלסר ארבעה מלכים את החמשה",
         "translation": "Diferență reală, confirmată: את כדר לעמר מלך עילם ותדעל מלך גוים אמרפל מלך שנער ואריוך מלך אלסר ארבעה מלכים את החמשה — „With Chedor Laomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Cu Chedorlaomer, împăratul Elamului, şi cu Tideal, împăratul naţiunilor, şi cu Amrafel, împăratul Şinarului, şi cu Arioc, împăratul Elasarului; patru împăraţi cu cinci.",
@@ -1460,7 +1460,7 @@ window.CHAPTER_DATA = [
         "strong": "H6010",
         "pos": "substantiv",
         "greek": "κοιλὰς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "valea."
       },
       {
@@ -1474,7 +1474,7 @@ window.CHAPTER_DATA = [
         "strong": "H7708",
         "pos": "nume propriu, cu articol",
         "greek": "ἡ ἁλυκή",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sidim."
       },
       {
@@ -1488,7 +1488,7 @@ window.CHAPTER_DATA = [
         "strong": "H875",
         "pos": "substantiv",
         "greek": "φρέατα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "puțuri."
       },
       {
@@ -1502,7 +1502,7 @@ window.CHAPTER_DATA = [
         "strong": "H2564",
         "pos": "substantiv",
         "greek": "ἀσφάλτου",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "smoală."
       },
       {
@@ -1516,7 +1516,7 @@ window.CHAPTER_DATA = [
         "strong": "H4428",
         "pos": "substantiv, stare construită",
         "greek": "οἱ βασιλεῖς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Regii."
       },
       {
@@ -1530,7 +1530,7 @@ window.CHAPTER_DATA = [
         "strong": "H5467",
         "pos": "nume propriu",
         "greek": "Σοδομων",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sodoma."
       },
       {
@@ -1544,7 +1544,7 @@ window.CHAPTER_DATA = [
         "strong": "H6017",
         "pos": "nume propriu",
         "greek": "Γομορρας",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Gomora."
       },
       {
@@ -1558,7 +1558,7 @@ window.CHAPTER_DATA = [
         "strong": "H5127",
         "pos": "verb",
         "greek": "ἔφυγον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au fugit."
       },
       {
@@ -1572,7 +1572,7 @@ window.CHAPTER_DATA = [
         "strong": "H5307",
         "pos": "verb",
         "greek": "ἐνέπεσαν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au căzut."
       },
       {
@@ -1586,7 +1586,7 @@ window.CHAPTER_DATA = [
         "strong": "H5127",
         "pos": "verb",
         "greek": "ἔφυγον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au fugit."
       },
       {
@@ -1600,7 +1600,7 @@ window.CHAPTER_DATA = [
         "strong": "H2022",
         "pos": "substantiv, cu articol",
         "greek": "τὴν ὀρεινήν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "munte."
       },
       {
@@ -1625,7 +1625,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ועמק השדים בארות בארות חימר וינסו מלך סדם ומלך עמרה ויפלו שם והנשארים ההרה נסו",
         "translation": "Diferență reală, confirmată: ועמק השדים בארות בארות חימר וינסו מלך סדם ומלך עמרה ויפלו שם והנשארים ההרה נסו — „And the vale of Siddim [was full of] slimepits; and the king of Sodom and the king Gomorrah fled, and fell there; and they that remained fled to the mountain.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi valea lui Sidim era plină de gropi cu smoală; şi împăraţii Sodomei şi Gomorei au fugit şi au căzut acolo şi cei care au rămas au fugit la munte.",
@@ -1653,7 +1653,7 @@ window.CHAPTER_DATA = [
         "strong": "H3947",
         "pos": "verb",
         "greek": "ἔλαβον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au luat."
       },
       {
@@ -1667,7 +1667,7 @@ window.CHAPTER_DATA = [
         "strong": "H7399",
         "pos": "substantiv, stare construită",
         "greek": "τὴν ἵππον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "averea."
       },
       {
@@ -1681,7 +1681,7 @@ window.CHAPTER_DATA = [
         "strong": "H5467",
         "pos": "nume propriu",
         "greek": "Σοδομων",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sodomei."
       },
       {
@@ -1695,7 +1695,7 @@ window.CHAPTER_DATA = [
         "strong": "H6017",
         "pos": "nume propriu",
         "greek": "Γομορρας",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Gomorei."
       },
       {
@@ -1709,7 +1709,7 @@ window.CHAPTER_DATA = [
         "strong": "H400",
         "pos": "substantiv cu sufix",
         "greek": "τὰ βρώματα αὐτῶν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "hrana lor."
       },
       {
@@ -1723,7 +1723,7 @@ window.CHAPTER_DATA = [
         "strong": "H1980",
         "pos": "verb",
         "greek": "ἀπῆλθον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au plecat."
       },
       {
@@ -1748,7 +1748,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ויקחו את כל רכוש סדם ועמרה ואת כל אכלם וילכו",
         "translation": "Diferență reală, confirmată: ויקחו את כל רכוש סדם ועמרה ואת כל אכלם וילכו — „And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi au luat toate averile Sodomei şi Gomorei şi toată mâncarea lor şi au plecat.",
@@ -1776,7 +1776,7 @@ window.CHAPTER_DATA = [
         "strong": "H3947",
         "pos": "verb",
         "greek": "ἔλαβον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "l-au luat."
       },
       {
@@ -1790,7 +1790,7 @@ window.CHAPTER_DATA = [
         "strong": "H3876",
         "pos": "nume propriu",
         "greek": "τὸν Λωτ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "pe Lot."
       },
       {
@@ -1804,7 +1804,7 @@ window.CHAPTER_DATA = [
         "strong": "H251",
         "pos": "substantiv, stare construită",
         "greek": "υἱὸν τοῦ ἀδελφοῦ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "fratelui."
       },
       {
@@ -1818,7 +1818,7 @@ window.CHAPTER_DATA = [
         "strong": "H87",
         "pos": "nume propriu",
         "greek": "Αβραμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Avram."
       },
       {
@@ -1832,7 +1832,7 @@ window.CHAPTER_DATA = [
         "strong": "H7399",
         "pos": "substantiv cu sufix",
         "greek": "τὴν ἀποσκευὴν αὐτοῦ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "averea lui."
       },
       {
@@ -1846,7 +1846,7 @@ window.CHAPTER_DATA = [
         "strong": "H1980",
         "pos": "verb",
         "greek": "ἀπῴχοντο",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au plecat."
       },
       {
@@ -1860,7 +1860,7 @@ window.CHAPTER_DATA = [
         "strong": "H3427",
         "pos": "verb, participiu",
         "greek": "κατῴκει",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "locuia."
       },
       {
@@ -1874,7 +1874,7 @@ window.CHAPTER_DATA = [
         "strong": "H5467",
         "pos": "nume propriu",
         "greek": "Σοδόμοις",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sodoma."
       },
       {
@@ -1899,7 +1899,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ויקחו את לוט ואת כל רכושו בן אחי אברם וילך והוא ישב בסדם",
         "translation": "Diferență reală, confirmată: ויקחו את לוט ואת כל רכושו בן אחי אברם וילך והוא ישב בסדם — „And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi l-au luat pe Lot, fiul fratelui lui Avram, care locuia în Sodoma, şi averile lui, şi au plecat.",
@@ -1924,7 +1924,7 @@ window.CHAPTER_DATA = [
         "strong": "H6412",
         "pos": "substantiv, cu articol",
         "greek": "ὁ ἀνασωθεὶς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Fugarul."
       },
       {
@@ -1938,7 +1938,7 @@ window.CHAPTER_DATA = [
         "strong": "H935",
         "pos": "verb",
         "greek": "παραγενόμενος",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "a venit."
       },
       {
@@ -1952,7 +1952,7 @@ window.CHAPTER_DATA = [
         "strong": "H5046",
         "pos": "verb",
         "greek": "ἀπήγγειλεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "i-a dat de veste."
       },
       {
@@ -1966,7 +1966,7 @@ window.CHAPTER_DATA = [
         "strong": "H87",
         "pos": "nume propriu",
         "greek": "τῷ Αβραμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "lui Avram."
       },
       {
@@ -1980,7 +1980,7 @@ window.CHAPTER_DATA = [
         "strong": "H5680",
         "pos": "adjectiv, cu articol",
         "greek": "τῷ περάτῃ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "evreul."
       },
       {
@@ -1994,7 +1994,7 @@ window.CHAPTER_DATA = [
         "strong": "H7931",
         "pos": "verb, participiu",
         "greek": "κατῴκει",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "locuia."
       },
       {
@@ -2008,7 +2008,7 @@ window.CHAPTER_DATA = [
         "strong": "H436",
         "pos": "substantiv, stare construită",
         "greek": "πρὸς τῇ δρυὶ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "câmpiile."
       },
       {
@@ -2022,7 +2022,7 @@ window.CHAPTER_DATA = [
         "strong": "H4471",
         "pos": "nume propriu",
         "greek": "Μαμβρη",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Mamre."
       },
       {
@@ -2036,7 +2036,7 @@ window.CHAPTER_DATA = [
         "strong": "H567",
         "pos": "nume propriu, popor, cu articol",
         "greek": "τοῦ Αμορραίου",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "amoritul."
       },
       {
@@ -2050,7 +2050,7 @@ window.CHAPTER_DATA = [
         "strong": "H812",
         "pos": "nume propriu",
         "greek": "Εσχωλ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Eșcol."
       },
       {
@@ -2064,7 +2064,7 @@ window.CHAPTER_DATA = [
         "strong": "H6063",
         "pos": "nume propriu",
         "greek": "Αυναν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Aner."
       },
       {
@@ -2078,7 +2078,7 @@ window.CHAPTER_DATA = [
         "strong": "H1167",
         "pos": "substantiv",
         "greek": "συνωμόται",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "legământ."
       },
       {
@@ -2092,7 +2092,7 @@ window.CHAPTER_DATA = [
         "strong": "H87",
         "pos": "nume propriu",
         "greek": "Αβραμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Avram."
       },
       {
@@ -2117,7 +2117,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ויבא הפליט ויגד לאברם העברי והוא שכן באלוני ממרא האמרי אחי אשכול ואחי ענרם והם בעלי ברית אברם",
         "translation": "Diferență reală, confirmată: ויבא הפליט ויגד לאברם העברי והוא שכן באלוני ממרא האמרי אחי אשכול ואחי ענרם והם בעלי ברית אברם — „And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these [were] confederate with Abram.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi a venit unul care scăpase şi i-a spus lui Avram evreul, fiindcă el locuia în câmpia lui Mamre amoritul, fratele lui Eşcol şi fratele lui Aner, şi aceştia erau aliaţi cu Avram.",
@@ -2146,7 +2146,7 @@ window.CHAPTER_DATA = [
         "strong": "H87",
         "pos": "nume propriu",
         "greek": "Αβραμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Avram."
       },
       {
@@ -2160,7 +2160,7 @@ window.CHAPTER_DATA = [
         "strong": "H7617",
         "pos": "verb",
         "greek": "ᾐχμαλωτεύθη",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "fusese luat prizonier."
       },
       {
@@ -2174,7 +2174,7 @@ window.CHAPTER_DATA = [
         "strong": "H251",
         "pos": "substantiv cu sufix",
         "greek": "ὁ ἀδελφὸς αὐτοῦ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "fratele lui."
       },
       {
@@ -2188,7 +2188,7 @@ window.CHAPTER_DATA = [
         "strong": "H7324",
         "pos": "verb",
         "greek": "ἠρίθμησεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "și-a înarmat."
       },
       {
@@ -2202,7 +2202,7 @@ window.CHAPTER_DATA = [
         "strong": "H2593",
         "pos": "substantiv cu sufix",
         "greek": "τοὺς ἰδίους οἰκογενεῖς αὐτοῦ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "discipolii lui."
       },
       {
@@ -2216,7 +2216,7 @@ window.CHAPTER_DATA = [
         "strong": "H3211",
         "pos": "substantiv",
         "greek": "οἰκογενεῖς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "născuți în casa lui."
       },
       {
@@ -2230,7 +2230,7 @@ window.CHAPTER_DATA = [
         "strong": "H7969",
         "pos": "numeral",
         "greek": "τριακοσίους δέκα καὶ ὀκτώ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "trei sute optsprezece."
       },
       {
@@ -2244,7 +2244,7 @@ window.CHAPTER_DATA = [
         "strong": "H7291",
         "pos": "verb",
         "greek": "κατεδίωξεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "a pornit în urmărire."
       },
       {
@@ -2258,7 +2258,7 @@ window.CHAPTER_DATA = [
         "strong": "H1835",
         "pos": "nume propriu",
         "greek": "Δαν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Dan."
       },
       {
@@ -2283,7 +2283,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "וישמע אברם כי נשבא אחיו וידק את חניכיו ילידי ביתו שמנה עשר ושלש מאות וירדף עד דן",
         "translation": "Diferență reală, confirmată: וישמע אברם כי נשבא אחיו וידק את חניכיו ילידי ביתו שמנה עשר ושלש מאות וירדף עד דן — „And when Abram heard that his brother was taken captive, he armed his trained [servants], born in his own house, three hundred and eighteen, and pursued [them] unto Dan.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi când Avram a auzit că fratele lui fusese luat captiv, şi-a înarmat servitorii instruiţi, născuţi în casa lui, trei sute optsprezece, şi i-a urmărit până la Dan.",
@@ -2313,7 +2313,7 @@ window.CHAPTER_DATA = [
         "strong": "H2673",
         "pos": "verb",
         "greek": "ἐπέπεσεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "s-a împărțit."
       },
       {
@@ -2327,7 +2327,7 @@ window.CHAPTER_DATA = [
         "strong": "H3915",
         "pos": "substantiv",
         "greek": "νυκτός",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "noaptea."
       },
       {
@@ -2341,7 +2341,7 @@ window.CHAPTER_DATA = [
         "strong": "H5650",
         "pos": "substantiv cu sufix",
         "greek": "οἱ παῖδες αὐτοῦ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "slujitorii lui."
       },
       {
@@ -2355,7 +2355,7 @@ window.CHAPTER_DATA = [
         "strong": "H5221",
         "pos": "verb cu sufix",
         "greek": "ἐπάταξεν αὐτούς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "i-a lovit."
       },
       {
@@ -2369,7 +2369,7 @@ window.CHAPTER_DATA = [
         "strong": "H7291",
         "pos": "verb cu sufix",
         "greek": "κατεδίωξεν αὐτοὺς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "i-a urmărit."
       },
       {
@@ -2383,7 +2383,7 @@ window.CHAPTER_DATA = [
         "strong": "H2327",
         "pos": "nume propriu",
         "greek": "Χωβα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Hova."
       },
       {
@@ -2397,7 +2397,7 @@ window.CHAPTER_DATA = [
         "strong": "H1834",
         "pos": "nume propriu",
         "greek": "Δαμασκοῦ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Damasc."
       },
       {
@@ -2421,7 +2421,7 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "ויחלק עליהם לילה הוא ועבדיו ויכם וירדפם עד חובה אשר משמאל לדמשק",
-        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
         "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
@@ -2451,7 +2451,7 @@ window.CHAPTER_DATA = [
         "strong": "H7725",
         "pos": "verb",
         "greek": "ἀπέστρεψεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "a recuperat."
       },
       {
@@ -2465,7 +2465,7 @@ window.CHAPTER_DATA = [
         "strong": "H7399",
         "pos": "substantiv, cu articol",
         "greek": "τὴν ἵππον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "averea."
       },
       {
@@ -2479,7 +2479,7 @@ window.CHAPTER_DATA = [
         "strong": "H7725",
         "pos": "verb",
         "greek": "ἀπέστρεψεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "l-a recuperat."
       },
       {
@@ -2493,7 +2493,7 @@ window.CHAPTER_DATA = [
         "strong": "H3876",
         "pos": "nume propriu",
         "greek": "τὸν Λωτ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Lot."
       },
       {
@@ -2507,7 +2507,7 @@ window.CHAPTER_DATA = [
         "strong": "H7399",
         "pos": "substantiv cu sufix",
         "greek": "τὴν ἀποσκευὴν αὐτοῦ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "averea lui."
       },
       {
@@ -2521,7 +2521,7 @@ window.CHAPTER_DATA = [
         "strong": "H802",
         "pos": "substantiv, cu articol",
         "greek": "τὰς γυναῖκας",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "femeile."
       },
       {
@@ -2535,7 +2535,7 @@ window.CHAPTER_DATA = [
         "strong": "H5971",
         "pos": "substantiv, cu articol",
         "greek": "τὸν λαόν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "poporul."
       },
       {
@@ -2560,7 +2560,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "וישב את כל הרכוש וגם את לוט אחיו ורכושו השיב וגם את הנשים ואת העם",
         "translation": "Diferență reală, confirmată: וישב את כל הרכוש וגם את לוט אחיו ורכושו השיב וגם את הנשים ואת העם — „And he brought back all the goods, and also brought again his brother Lot, and goods, and the women also, and the people.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi a adus înapoi toate averile şi de asemenea a adus înapoi pe fratele său Lot şi averile lui, şi femeile de asemenea şi poporul.",
@@ -2588,7 +2588,7 @@ window.CHAPTER_DATA = [
         "strong": "H4428",
         "pos": "substantiv, stare construită",
         "greek": "ὁ βασιλεὺς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "regele."
       },
       {
@@ -2602,7 +2602,7 @@ window.CHAPTER_DATA = [
         "strong": "H5467",
         "pos": "nume propriu",
         "greek": "Σοδομων",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sodomei."
       },
       {
@@ -2616,7 +2616,7 @@ window.CHAPTER_DATA = [
         "strong": "H3318",
         "pos": "verb",
         "greek": "ἐξῆλθεν εἰς συνάντησιν αὐτῷ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "i-a ieșit în întâmpinare."
       },
       {
@@ -2630,7 +2630,7 @@ window.CHAPTER_DATA = [
         "strong": "H7725",
         "pos": "verb, infinitiv",
         "greek": "ὑποστρέψαι αὐτὸν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "s-a întors."
       },
       {
@@ -2644,7 +2644,7 @@ window.CHAPTER_DATA = [
         "strong": "H5221",
         "pos": "verb (infinitiv), cu articol",
         "greek": "κόψαι",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "înfrângerea."
       },
       {
@@ -2658,7 +2658,7 @@ window.CHAPTER_DATA = [
         "strong": "H3540",
         "pos": "nume propriu",
         "greek": "τὸν Χοδολλογομορ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Chedorlaomer."
       },
       {
@@ -2672,7 +2672,7 @@ window.CHAPTER_DATA = [
         "strong": "H4428",
         "pos": "substantiv, cu articol",
         "greek": "τοὺς βασιλεῖς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "regilor."
       },
       {
@@ -2686,7 +2686,7 @@ window.CHAPTER_DATA = [
         "strong": "H6010",
         "pos": "substantiv",
         "greek": "τὴν κοιλάδα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "valea."
       },
       {
@@ -2700,7 +2700,7 @@ window.CHAPTER_DATA = [
         "strong": "H7740",
         "pos": "nume propriu",
         "greek": "Σαυη",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Șave."
       },
       {
@@ -2714,7 +2714,7 @@ window.CHAPTER_DATA = [
         "strong": "H6010",
         "pos": "substantiv",
         "greek": "τὸ πεδίον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "valea."
       },
       {
@@ -2728,7 +2728,7 @@ window.CHAPTER_DATA = [
         "strong": "H4428",
         "pos": "substantiv, cu articol",
         "greek": "βασιλέως",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "regelui."
       },
       {
@@ -2753,7 +2753,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ויצא מלך סדם לקראתו אחרי שובו מהכות את כדר לעמר ואת המלכים אשר אתו אל עמק השוי הוא עמק המלך",
         "translation": "Diferență reală, confirmată: ויצא מלך סדם לקראתו אחרי שובו מהכות את כדר לעמר ואת המלכים אשר אתו אל עמק השוי הוא עמק המלך — „And the king of Sodom went out to meet him after his return from the slaughter of Chedor Laomer, and of the kings that [were] with him, at the valley of Shaveh, which [is] the king's dale.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi împăratul Sodomei a ieşit să îl întâlnească, după ce s-a întors de la înfrângerea lui Chedorlaomer şi a împăraţilor care erau cu el, la valea lui Şave, care este valea împăratului.",
@@ -2781,7 +2781,7 @@ window.CHAPTER_DATA = [
         "strong": "H4442",
         "pos": "nume propriu",
         "greek": "Μελχισεδεκ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Malhițedek — literal „regele cel drept”."
       },
       {
@@ -2795,7 +2795,7 @@ window.CHAPTER_DATA = [
         "strong": "H8004",
         "pos": "nume propriu",
         "greek": "Σαλημ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Șalemului."
       },
       {
@@ -2809,7 +2809,7 @@ window.CHAPTER_DATA = [
         "strong": "H3318",
         "pos": "verb",
         "greek": "ἐξήνεγκεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "a adus."
       },
       {
@@ -2823,7 +2823,7 @@ window.CHAPTER_DATA = [
         "strong": "H3899",
         "pos": "substantiv",
         "greek": "ἄρτους",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "pâine."
       },
       {
@@ -2837,7 +2837,7 @@ window.CHAPTER_DATA = [
         "strong": "H3196",
         "pos": "substantiv",
         "greek": "οἶνον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "vin."
       },
       {
@@ -2851,7 +2851,7 @@ window.CHAPTER_DATA = [
         "strong": "H3548",
         "pos": "substantiv",
         "greek": "ἱερεὺς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "preot."
       },
       {
@@ -2865,7 +2865,7 @@ window.CHAPTER_DATA = [
         "strong": "H410",
         "pos": "substantiv",
         "greek": "τοῦ Θεοῦ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Dumnezeului."
       },
       {
@@ -2879,7 +2879,7 @@ window.CHAPTER_DATA = [
         "strong": "H5945",
         "pos": "adjectiv",
         "greek": "τοῦ ὑψίστου",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Preaînalt — ebr. El-Elion."
       },
       {
@@ -2903,7 +2903,7 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "ומלכי צדק מלך שלם הוציא לחם ויין והוא כהן לאל עליון",
-        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
         "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
@@ -2938,7 +2938,7 @@ window.CHAPTER_DATA = [
         "strong": "H1288",
         "pos": "verb cu sufix",
         "greek": "εὐλόγησεν αὐτὸν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "l-a binecuvântat."
       },
       {
@@ -2952,7 +2952,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb",
         "greek": "εἶπεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "a spus."
       },
       {
@@ -2966,7 +2966,7 @@ window.CHAPTER_DATA = [
         "strong": "H1288",
         "pos": "adjectiv",
         "greek": "εὐλογημένος",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Binecuvântat."
       },
       {
@@ -2980,7 +2980,7 @@ window.CHAPTER_DATA = [
         "strong": "H87",
         "pos": "nume propriu",
         "greek": "Αβραμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Avram."
       },
       {
@@ -2994,7 +2994,7 @@ window.CHAPTER_DATA = [
         "strong": "H410",
         "pos": "substantiv",
         "greek": "τῷ Θεῷ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Dumnezeul."
       },
       {
@@ -3008,7 +3008,7 @@ window.CHAPTER_DATA = [
         "strong": "H5945",
         "pos": "adjectiv",
         "greek": "τῷ ὑψίστῳ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Preaînalt."
       },
       {
@@ -3022,7 +3022,7 @@ window.CHAPTER_DATA = [
         "strong": "H7069",
         "pos": "verb, participiu",
         "greek": "ὃς ἔκτισεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Creatorul."
       },
       {
@@ -3036,7 +3036,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv",
         "greek": "τὸν οὐρανὸν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "cerurilor."
       },
       {
@@ -3050,7 +3050,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv",
         "greek": "τὴν γῆν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "pământului."
       },
       {
@@ -3075,7 +3075,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ויברך את אברם ויאמר ברוך אברם לאל עליון קנה שמים וארץ",
         "translation": "Diferență reală, confirmată: ויברך את אברם ויאמר ברוך אברם לאל עליון קנה שמים וארץ — „And he blessed him, and said, Blessed [be] Abram of the most high God, possessor of heaven and earth:”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi l-a binecuvântat şi a spus: Binecuvântat fie Avram de Dumnezeul cel preaînalt, întemeietorul cerului şi al pământului,",
@@ -3107,7 +3107,7 @@ window.CHAPTER_DATA = [
         "strong": "H1288",
         "pos": "adjectiv",
         "greek": "εὐλογητὸς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "binecuvântat."
       },
       {
@@ -3121,7 +3121,7 @@ window.CHAPTER_DATA = [
         "strong": "H410",
         "pos": "substantiv",
         "greek": "ὁ Θεὸς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Dumnezeul."
       },
       {
@@ -3135,7 +3135,7 @@ window.CHAPTER_DATA = [
         "strong": "H5945",
         "pos": "adjectiv",
         "greek": "ὁ ὕψιστος",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Preaînalt."
       },
       {
@@ -3149,7 +3149,7 @@ window.CHAPTER_DATA = [
         "strong": "H4042",
         "pos": "verb",
         "greek": "παρέδωκεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "i-a predat."
       },
       {
@@ -3163,7 +3163,7 @@ window.CHAPTER_DATA = [
         "strong": "H6862",
         "pos": "substantiv cu sufix",
         "greek": "τοὺς ἐχθρούς σου",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "dușmanii tăi."
       },
       {
@@ -3177,7 +3177,7 @@ window.CHAPTER_DATA = [
         "strong": "H3027",
         "pos": "substantiv cu sufix",
         "greek": "ὑποχειρίους σοι",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "mâna ta."
       },
       {
@@ -3191,7 +3191,7 @@ window.CHAPTER_DATA = [
         "strong": "H5414",
         "pos": "verb",
         "greek": "ἔδωκεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "i-a dat."
       },
       {
@@ -3205,7 +3205,7 @@ window.CHAPTER_DATA = [
         "strong": "H4643",
         "pos": "substantiv",
         "greek": "δεκάτην",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "zeciuială."
       },
       {
@@ -3229,7 +3229,7 @@ window.CHAPTER_DATA = [
       {
         "source": "Pentateuhul Samaritean",
         "original": "וברוך אל עליון אשר מגן צריך בידך ויתן לו מעשר מכל",
-        "translation": "Verificat direct: conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
         "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
@@ -3255,7 +3255,7 @@ window.CHAPTER_DATA = [
         "strong": "H4428",
         "pos": "substantiv, stare construită",
         "greek": "βασιλεὺς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Regele."
       },
       {
@@ -3269,7 +3269,7 @@ window.CHAPTER_DATA = [
         "strong": "H5467",
         "pos": "nume propriu",
         "greek": "Σοδομων",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sodomei."
       },
       {
@@ -3283,7 +3283,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb",
         "greek": "εἶπεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "i-a spus."
       },
       {
@@ -3297,7 +3297,7 @@ window.CHAPTER_DATA = [
         "strong": "H87",
         "pos": "nume propriu",
         "greek": "πρὸς Αβραμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "lui Avram."
       },
       {
@@ -3311,7 +3311,7 @@ window.CHAPTER_DATA = [
         "strong": "H5315",
         "pos": "substantiv, cu articol",
         "greek": "τοὺς ἄνδρας",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "sufletele."
       },
       {
@@ -3325,7 +3325,7 @@ window.CHAPTER_DATA = [
         "strong": "H7399",
         "pos": "substantiv, cu articol",
         "greek": "τὸν ἵππον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "averea."
       },
       {
@@ -3339,7 +3339,7 @@ window.CHAPTER_DATA = [
         "strong": "H3947",
         "pos": "verb, imperativ, cu sufix",
         "greek": "λαβὲ σεαυτῷ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "tine."
       },
       {
@@ -3364,7 +3364,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ויאמר מלך סדם אל אברם תנה לי הנפש והרכוש קח לך",
         "translation": "Diferență reală, confirmată: ויאמר מלך סדם אל אברם תנה לי הנפש והרכוש קח לך — „And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi împăratul Sodomei i-a spus lui Avram: Dă-mi sufletele şi ia averile pentru tine.",
@@ -3389,7 +3389,7 @@ window.CHAPTER_DATA = [
         "strong": "H87",
         "pos": "nume propriu",
         "greek": "Αβραμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Avram."
       },
       {
@@ -3403,7 +3403,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb",
         "greek": "εἶπεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "i-a spus."
       },
       {
@@ -3417,7 +3417,7 @@ window.CHAPTER_DATA = [
         "strong": "H5467",
         "pos": "nume propriu",
         "greek": "Σοδομων",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Sodomei."
       },
       {
@@ -3431,7 +3431,7 @@ window.CHAPTER_DATA = [
         "strong": "H7311",
         "pos": "verb",
         "greek": "ἐκτενῶ τὴν χεῖρά μου",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "îmi ridic mâna — o formulă solemnă de jurământ."
       },
       {
@@ -3445,7 +3445,7 @@ window.CHAPTER_DATA = [
         "strong": "H3068",
         "pos": "substantiv",
         "greek": "τὸν Θεὸν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "DOMNUL."
       },
       {
@@ -3459,7 +3459,7 @@ window.CHAPTER_DATA = [
         "strong": "H410",
         "pos": "substantiv",
         "greek": "τὸν ὕψιστον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Dumnezeul."
       },
       {
@@ -3473,7 +3473,7 @@ window.CHAPTER_DATA = [
         "strong": "H5945",
         "pos": "adjectiv",
         "greek": "ὕψιστον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Preaînalt."
       },
       {
@@ -3487,7 +3487,7 @@ window.CHAPTER_DATA = [
         "strong": "H7069",
         "pos": "verb, participiu",
         "greek": "ὃς ἔκτισεν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Creatorul."
       },
       {
@@ -3501,7 +3501,7 @@ window.CHAPTER_DATA = [
         "strong": "H8064",
         "pos": "substantiv",
         "greek": "τὸν οὐρανὸν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "cerurilor."
       },
       {
@@ -3515,7 +3515,7 @@ window.CHAPTER_DATA = [
         "strong": "H776",
         "pos": "substantiv",
         "greek": "τὴν γῆν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "pământului."
       },
       {
@@ -3540,7 +3540,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "ויאמר אברם אל מלך סדם הרמתי את ידי אל האלהים אל עליון קנה שמים וארץ",
         "translation": "Diferență reală, confirmată: ויאמר אברם אל מלך סדם הרמתי את ידי אל האלהים אל עליון קנה שמים וארץ — „And Abram said to the king of Sodom, I have lift up mine hand unto the God, the most high God, the possessor of heaven and earth”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Şi Avram i-a spus împăratului Sodomei: Mi-am ridicat mâna către DOMNUL, Dumnezeul cel preaînalt, întemeietorul cerului şi al pământului,",
@@ -3569,7 +3569,7 @@ window.CHAPTER_DATA = [
         "strong": "H2339",
         "pos": "substantiv",
         "greek": "σπαρτίου",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "fir."
       },
       {
@@ -3581,7 +3581,7 @@ window.CHAPTER_DATA = [
         "heb": "",
         "translit": "",
         "strong": "",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "ață."
       },
       {
@@ -3595,7 +3595,7 @@ window.CHAPTER_DATA = [
         "strong": "H8288",
         "pos": "substantiv",
         "greek": "ἱμάντος",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "curea."
       },
       {
@@ -3609,7 +3609,7 @@ window.CHAPTER_DATA = [
         "strong": "H5275",
         "pos": "substantiv",
         "greek": "ὑποδήματος",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "încălțăminte."
       },
       {
@@ -3623,7 +3623,7 @@ window.CHAPTER_DATA = [
         "strong": "H3947",
         "pos": "verb",
         "greek": "λήψομαι",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "voi lua."
       },
       {
@@ -3637,7 +3637,7 @@ window.CHAPTER_DATA = [
         "strong": "H0",
         "pos": "pronume",
         "greek": "σοῦ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "tău."
       },
       {
@@ -3651,7 +3651,7 @@ window.CHAPTER_DATA = [
         "strong": "H559",
         "pos": "verb",
         "greek": "εἴπῃς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "spui."
       },
       {
@@ -3665,7 +3665,7 @@ window.CHAPTER_DATA = [
         "strong": "H6238",
         "pos": "verb",
         "greek": "ἐπλούτισα",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "l-am îmbogățit."
       },
       {
@@ -3679,7 +3679,7 @@ window.CHAPTER_DATA = [
         "strong": "H87",
         "pos": "nume propriu",
         "greek": "τὸν Αβραμ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "pe Avram."
       },
       {
@@ -3704,7 +3704,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "אם מחוט ועד שרוג נעל אם אקח מכל אשר לך ולא תאמר אנכי אעשרתי את אברם",
         "translation": "Diferență reală, confirmată: אם מחוט ועד שרוג נעל אם אקח מכל אשר לך ולא תאמר אנכי אעשרתי את אברם — „That I will not [take] from a thread even to a shoelatchet, that I will not take any thing that [is] thine, lest thou shouldest say, I have made Abram rich:”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "Că nu voi lua nici un fir de aţă, nici un şiret de sanda, nici ceva care este al tău, ca nu cumva să spui: Eu l-am îmbogăţit pe Avram;",
@@ -3736,7 +3736,7 @@ window.CHAPTER_DATA = [
         "strong": "H398",
         "pos": "verb",
         "greek": "ἔφαγον",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au mâncat."
       },
       {
@@ -3750,7 +3750,7 @@ window.CHAPTER_DATA = [
         "strong": "H5288",
         "pos": "substantiv, cu articol",
         "greek": "οἱ νεανίσκοι",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "tinerii."
       },
       {
@@ -3764,7 +3764,7 @@ window.CHAPTER_DATA = [
         "strong": "H2506",
         "pos": "substantiv",
         "greek": "ἡ μερὶς",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "partea."
       },
       {
@@ -3778,7 +3778,7 @@ window.CHAPTER_DATA = [
         "strong": "H376",
         "pos": "substantiv, cu articol",
         "greek": "τῶν ἀνδρῶν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "oamenilor."
       },
       {
@@ -3792,7 +3792,7 @@ window.CHAPTER_DATA = [
         "strong": "H1980",
         "pos": "verb",
         "greek": "πορευθέντων",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "au mers."
       },
       {
@@ -3806,7 +3806,7 @@ window.CHAPTER_DATA = [
         "strong": "H6063",
         "pos": "nume propriu",
         "greek": "Αυναν",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Aner."
       },
       {
@@ -3820,7 +3820,7 @@ window.CHAPTER_DATA = [
         "strong": "H812",
         "pos": "nume propriu",
         "greek": "Εσχωλ",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Eșcol."
       },
       {
@@ -3834,7 +3834,7 @@ window.CHAPTER_DATA = [
         "strong": "H4471",
         "pos": "nume propriu",
         "greek": "Μαμβρη",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "Mamre."
       },
       {
@@ -3848,7 +3848,7 @@ window.CHAPTER_DATA = [
         "strong": "H3947",
         "pos": "verb",
         "greek": "λήψονται",
-        "samaritan": "presupus apropiat de Textul Masoretic la acest cuvânt — nu verificat individual cuvânt cu cuvânt.",
+        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
         "def": "vor lua."
       },
       {
@@ -3873,7 +3873,7 @@ window.CHAPTER_DATA = [
         "source": "Pentateuhul Samaritean",
         "original": "בלעדי רק אשר אכלו הנערים וחלק האנשים אשר הלכו אתי ענרם ואשכול וממרא הם יקחו חלקם",
         "translation": "Diferență reală, confirmată: בלעדי רק אשר אכלו הנערים וחלק האנשים אשר הלכו אתי ענרם ואשכול וממרא הם יקחו חלקם — „Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.”",
-        "note": "Verificat direct în textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
       }
     ],
     "fidela": "În afară de ceea ce au mâncat tinerii şi partea oamenilor care au mers cu mine, Aner, Eşcol şi Mamre; ei să îşi ia partea lor.",
