@@ -243,50 +243,19 @@
     gap:8px;
     margin-top:8px;
   }
-  .translation-selector{
-    position:relative;
-    flex:0 1 auto;
-    max-width:52%;
-    min-width:0;
-  }
-  .translation-selector-btn{
+  .book-pill-group{
     display:flex;
     align-items:center;
-    gap:6px;
-    width:100%;
-    font-family:'Inter', sans-serif;
-    background:var(--glass-bg);
-    border:1px solid var(--glass-border);
-    border-radius:10px;
-    padding:6px 8px;
-    cursor:pointer;
-    backdrop-filter: var(--glass-blur);
-    -webkit-backdrop-filter: var(--glass-blur);
+    gap:8px;
   }
-  .translation-selector-label{
-    font-size:12.5px;
-    color:var(--ink);
-    font-weight:600;
-    white-space:nowrap;
-    overflow:hidden;
-    text-overflow:ellipsis;
+  .translation-selector{
+    position:relative;
   }
-  .translation-selector-abbr{
-    font-family:'Inter', sans-serif;
-    font-weight:800;
-    font-size:9px;
-    letter-spacing:0.02em;
-    background:var(--gold);
-    color:#0f1e38;
-    border-radius:4px;
-    padding:3px 5px;
-    flex-shrink:0;
-  }
-  .translation-selector-arrow{color:var(--ink-soft); font-size:10px; margin-left:auto; flex-shrink:0;}
   .translation-dropdown{
     position:absolute;
     top:calc(100% + 4px);
-    left:0; right:0;
+    left:0;
+    min-width:220px;
     background:var(--parchment-dark);
     border:1px solid var(--glass-border);
     border-radius:10px;
@@ -298,8 +267,9 @@
   .translation-dropdown.show{display:block;}
   .version-chip{
     display:flex;
-    align-items:center;
-    gap:8px;
+    flex-direction:column;
+    align-items:flex-start;
+    gap:2px;
     width:100%;
     background:none;
     border:none;
@@ -310,27 +280,20 @@
   }
   .version-chip:last-child{border-bottom:none;}
   .version-chip.active{background:rgba(111,151,207,0.15);}
-  .version-badge{
-    font-family:'Inter', sans-serif;
-    font-weight:800;
-    font-size:10px;
-    letter-spacing:0.02em;
-    background:var(--ink);
-    color:#fff;
-    border-radius:4px;
-    padding:3px 6px;
-    min-width:30px;
-    text-align:center;
-    flex-shrink:0;
-  }
-  .version-chip.active .version-badge{background:var(--gold); color:#0f1e38;}
-  .version-name{
+  .version-chip .version-name{display:none;}
+  .version-full{
     font-family:'Inter', sans-serif;
     font-size:12.5px;
+    font-weight:600;
+    color:var(--ink);
+    white-space:nowrap;
+  }
+  .version-edition{
+    font-family:'Inter', sans-serif;
+    font-size:10.5px;
     color:var(--ink-soft);
     white-space:nowrap;
   }
-  .version-chip.active .version-name{color:var(--ink); font-weight:600;}
 
   .chapter-play-toggle-btn{
     flex-shrink:0;
@@ -482,11 +445,11 @@
   /* ================= BIBLIOTECĂ — foldere Diverse (canonic/deuterocanonic/apocrife/patristice) ================= */
   .lib-section-title{
     font-family:'Inter', sans-serif;
-    font-size:11px;
+    font-size:12.5px;
     font-weight:600;
     letter-spacing:0.1em;
     text-transform:uppercase;
-    color:var(--gold);
+    color:#fff;
     margin:22px 0 4px;
   }
   .lib-section-toggle{
@@ -964,7 +927,7 @@
     transition:background 0.15s;
   }
   .verse:active, .verse.open{background:rgba(59,130,246,0.12);}
-  .verse.bookmarked{background:rgba(59,130,246,0.06); border-left:3px solid var(--gold); padding-left:9px; margin-left:-12px;}
+  .verse.bookmarked{background:rgba(111,151,207,0.16); border-left:3px solid var(--gold); padding-left:9px; margin-left:-12px;}
   .vnum{
     font-family:'Inter', sans-serif;
     font-size:12px;
@@ -1100,8 +1063,20 @@
   }
 
   .word{
-    border-bottom:1.5px dotted var(--gold);
+    position:relative;
     cursor:pointer;
+    padding-bottom:2px;
+  }
+  .word::after{
+    content:"";
+    position:absolute;
+    left:0.15em;
+    bottom:-0.1em;
+    width:4px;
+    height:4px;
+    border-radius:50%;
+    background:#d4a017;
+    pointer-events:none;
   }
   .word:active, .word.active-word{
     background:rgba(59,130,246,0.25);
@@ -1110,62 +1085,102 @@
 
   .word-popover{
     position:fixed;
-    max-width:280px;
-    background:#1a2540;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    width:86vw;
+    max-width:340px;
+    max-height:70vh;
+    overflow-y:auto;
+    background:#101f3c;
     color:var(--ink);
-    border-radius:6px;
-    padding:12px 14px;
+    border:1px solid rgba(255,255,255,0.12);
+    border-radius:16px;
+    padding:34px 22px 22px;
     font-family:'Fraunces', serif;
     font-size:14px;
     line-height:1.5;
-    box-shadow:0 6px 20px rgba(0,0,0,0.35);
-    z-index:50;
+    box-shadow:0 20px 50px rgba(0,0,0,0.5);
+    z-index:70;
     display:none;
   }
   .word-popover.show{display:block;}
+  .wp-word{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:#8fa3c7;
+    text-align:center;
+    margin-bottom:10px;
+  }
   .wp-heb{
     font-family:'Noto Sans Hebrew', serif;
-    font-size:22px;
-    color:var(--gold-bright);
+    font-size:34px;
+    color:#fff;
     direction:rtl;
+    text-align:center;
+    overflow-wrap:break-word;
+    margin-bottom:8px;
   }
   .wp-translit{
     font-style:italic;
     color:#cabb8d;
-    font-size:13px;
-    margin:2px 0 6px;
+    font-size:16px;
+    text-align:center;
+    margin:2px 0 12px;
   }
   .wp-strong{
-    display:inline-block;
+    display:block;
+    width:fit-content;
+    margin:0 auto 14px;
     font-family:'Inter', sans-serif;
-    font-size:10px;
+    font-size:11px;
     letter-spacing:0.08em;
     background:rgba(255,255,255,0.12);
-    border-radius:3px;
-    padding:2px 6px;
-    margin-bottom:6px;
+    border-radius:20px;
+    padding:4px 12px;
   }
-  .wp-def{color:var(--ink);}
+  .wp-def{color:var(--ink); text-align:center;}
   .wp-extra{
-    margin-top:8px;
-    padding-top:8px;
+    margin-top:16px;
+    padding-top:14px;
     border-top:1px solid rgba(255,255,255,0.15);
-    font-size:12.5px;
-    color:#cabb8d;
+    font-size:14px;
+    color:var(--ink);
     line-height:1.6;
+    text-align:center;
   }
-  .wp-extra b{color:var(--ink); font-weight:600;}
+  .wp-extra .wp-extra-block + .wp-extra-block{margin-top:14px;}
+  .wp-extra .wp-extra-label{
+    display:block;
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:#f0c419;
+    margin-bottom:4px;
+  }
   .wp-extra .wp-greek{
     font-family:'Fraunces', serif;
     font-style:italic;
+    font-size:18px;
   }
   .wp-close{
     position:absolute;
-    top:6px; right:8px;
-    background:none; border:none;
+    top:12px; right:12px;
+    width:32px; height:32px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:rgba(255,255,255,0.08);
+    border:none;
+    border-radius:9px;
     color:#cabb8d;
     font-size:16px;
     cursor:pointer;
+    z-index:1;
   }
 
   .backdrop{
@@ -1320,7 +1335,7 @@
     transition:opacity 0.2s;
   }
   .vs-toast.show{opacity:1;}
-  .verse.verse-marked{border-radius:8px; padding:6px 8px; margin:0 -8px 4px;}
+  .verse.verse-marked{border-radius:8px; padding:6px 8px; margin:0 -8px 16px;}
 
   .drawer{
     position:fixed;
@@ -1550,7 +1565,7 @@
     text-align:right;
     font-family:'Fraunces', serif;
     font-style:italic;
-    font-size:11.5px;
+    font-size:13.5px;
     line-height:1.4;
     color:var(--ink);
   }
@@ -1559,7 +1574,7 @@
     font-family:'Inter', sans-serif;
     font-style:normal;
     font-weight:700;
-    font-size:9.5px;
+    font-size:10.5px;
     letter-spacing:0.06em;
     text-transform:uppercase;
     color:#FFD700;
@@ -1791,7 +1806,7 @@
     font-weight:600;
     letter-spacing:0.1em;
     text-transform:uppercase;
-    color:var(--gold);
+    color:#fff;
     margin-bottom:8px;
   }
   .home-verse-ref{
@@ -1945,11 +1960,11 @@
   }
   .radio-section-label{
     font-family:'Inter', sans-serif;
-    font-size:11px;
+    font-size:12.5px;
     font-weight:600;
     letter-spacing:0.1em;
     text-transform:uppercase;
-    color:var(--gold);
+    color:#fff;
     margin:16px 0 8px;
   }
   .radio-station{
@@ -2054,39 +2069,41 @@
 
   <div class="tab-panel" id="tab-biblia" style="display:none;">
   <header>
-    <div class="eyebrow">Scripturile vieții veșnice</div>
     <h1>Biblia</h1>
     <button class="info-btn" id="info-btn" title="Despre această aplicație">ⓘ</button>
 
     <div class="translation-row">
-      <div class="translation-selector" id="translation-selector">
-        <button class="translation-selector-btn" id="translation-selector-btn">
-          <span class="translation-selector-abbr" id="translation-selector-abbr">TORA</span>
-          <span class="translation-selector-label" id="translation-selector-label">Tora și Haftarot</span>
-          <span class="translation-selector-arrow">▾</span>
-        </button>
-        <div class="translation-dropdown" id="version-row">
-          <button class="version-chip active" data-version="rosen">
-            <span class="version-badge">TORA</span>
-            <span class="version-name">Tora și Haftarot</span>
-          </button>
-          <button class="version-chip" data-version="fidela">
-            <span class="version-badge">FID</span>
-            <span class="version-name">Fidela</span>
-          </button>
-        </div>
-      </div>
-      <button class="chapter-play-toggle-btn" id="chapter-play-toggle-btn" title="Ascultă capitolul">
+      <button class="chapter-play-toggle-btn" id="chapter-play-toggle-btn" title="Ascultă capitolul" style="margin-left:auto;">
         <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
       </button>
     </div>
   </header>
 
   <div class="book-controls-row" style="margin:14px 20px 4px;">
-    <button class="book-pill" id="book-pill">
-      <span id="book-pill-label">Geneza 1</span>
-      <span class="book-pill-arrow">▾</span>
-    </button>
+    <div class="book-pill-group">
+      <button class="book-pill" id="book-pill">
+        <span id="book-pill-label">Geneza 1</span>
+        <span class="book-pill-arrow">▾</span>
+      </button>
+      <div class="translation-selector" id="translation-selector">
+        <button class="book-pill" id="translation-selector-btn">
+          <span id="translation-selector-label">Tora</span>
+          <span class="book-pill-arrow">▾</span>
+        </button>
+        <div class="translation-dropdown" id="version-row">
+          <button class="version-chip active" data-version="rosen">
+            <span class="version-name">Tora</span>
+            <span class="version-full">Tora și Haftarot</span>
+            <span class="version-edition">2022 · Șlomo Sorin Rosen</span>
+          </button>
+          <button class="version-chip" data-version="fidela">
+            <span class="version-name">Fidela</span>
+            <span class="version-full">Fidela</span>
+            <span class="version-edition">ediția ebible.org (domeniu public)</span>
+          </button>
+        </div>
+      </div>
+    </div>
     <div class="mode-toggle">
       <button class="mode-btn active" id="mode-citire" data-mode="citire">Citire</button>
       <button class="mode-btn" id="mode-aprofundare" data-mode="aprofundare">Aprofundare</button>
@@ -2428,8 +2445,8 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="18" cy="5" r="2.7"/><circle cx="6" cy="12" r="2.7"/><circle cx="18" cy="19" r="2.7"/><path d="M8.4 10.7 15.6 6.6M8.4 13.3l7.2 4.1"/></svg>
       <span>Trimite</span>
     </button>
-    <button class="vs-action" data-action="highlight" title="Marchează cu culoare">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9.5 17.5 5 22l-1-4.5L14.5 7 17 9.5 9.5 17.5z"/><path d="M14.5 7 18 3.5 20.5 6 17 9.5"/></svg>
+    <button class="vs-action" data-action="highlight" title="Marchează versetul">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 3a1 1 0 0 0-1 1v17l7-4 7 4V4a1 1 0 0 0-1-1z"/></svg>
       <span>Marchează</span>
     </button>
     <button class="vs-action" data-action="note" title="Adaugă o notiță">
@@ -2456,6 +2473,7 @@
 
 <div class="word-popover" id="word-popover">
   <button class="wp-close" id="wp-close">✕</button>
+  <div class="wp-word" id="wp-word"></div>
   <div class="wp-heb" id="wp-heb"></div>
   <div class="wp-translit" id="wp-translit"></div>
   <div class="wp-strong" id="wp-strong"></div>
@@ -2549,11 +2567,11 @@ function toggleBookmark(bookSlug, chapterNum, verseNum, btnEl, verseEl){
 
 const VS_MARK_COLORS = [
   { id: "none",   hex: null },
-  { id: "yellow", hex: "#e8c766" },
-  { id: "green",  hex: "#7fb88f" },
-  { id: "blue",   hex: "#6f97cf" },
-  { id: "pink",   hex: "#d98fa8" },
-  { id: "orange", hex: "#d99a5b" },
+  { id: "yellow", hex: "#f0c419" },
+  { id: "green",  hex: "#4caf7d" },
+  { id: "blue",   hex: "#4a90d9" },
+  { id: "pink",   hex: "#e0699a" },
+  { id: "orange", hex: "#e8892f" },
 ];
 const VS_FONTS = [
   { id: "serif", label: "Fraunces", css: "'Fraunces', serif" },
@@ -2589,6 +2607,8 @@ function openVerseSheet(verse, verseEl){
   verseSheetPanel.classList.remove("show");
   verseSheetPanel.innerHTML = "";
   document.querySelectorAll(".vs-action").forEach(b => b.classList.remove("active"));
+  const highlightBtn = document.querySelector('.vs-action[data-action="highlight"]');
+  if(highlightBtn) highlightBtn.classList.toggle("active", vsGetMarkColor() !== "none");
   verseSheet.classList.add("show");
   verseSheetBackdrop.classList.add("show");
 }
@@ -2610,6 +2630,15 @@ document.querySelectorAll(".vs-action").forEach(btn => {
     const alreadyActive = btn.classList.contains("active");
     document.querySelectorAll(".vs-action").forEach(b => b.classList.remove("active"));
 
+    if(action === "highlight"){
+      const current = vsGetMarkColor();
+      const next = current === "none" ? "yellow" : "none";
+      try { localStorage.setItem(vsKey("mark"), next); } catch(e){}
+      applyVerseMarkStyle(vsCurrentVerseEl, currentBookSlug, currentChapter, vsCurrentVerse.num);
+      showVsToast(next !== "none" ? "Verset marcat" : "Verset demarcat");
+      closeVerseSheet();
+      return;
+    }
     if(action === "comment"){
       closeVerseSheet();
       openDrawer(vsCurrentVerse);
@@ -2653,7 +2682,6 @@ document.querySelectorAll(".vs-action").forEach(btn => {
     }
     btn.classList.add("active");
     if(action === "text") renderTextPanel();
-    if(action === "highlight") renderHighlightPanel();
     if(action === "note") renderNotePanel();
   });
 });
@@ -2726,7 +2754,7 @@ function applyVerseMarkStyle(verseEl, bookSlug, chapterNum, verseNum){
   try { colorId = localStorage.getItem("mark_" + bookSlug + "_" + chapterNum + "_" + verseNum) || "none"; } catch(e){}
   const colorObj = VS_MARK_COLORS.find(c => c.id === colorId);
   verseEl.classList.toggle("verse-marked", colorId !== "none");
-  verseEl.style.background = (colorObj && colorObj.hex) ? (colorObj.hex + "33") : "";
+  verseEl.style.background = (colorObj && colorObj.hex) ? (colorObj.hex + "55") : "";
 }
 function renderHighlightPanel(){
   const current = vsGetMarkColor();
@@ -3215,19 +3243,14 @@ function loadChapterThenOpenVerse(chapterNum, verseNum){
 
 function showRefUnavailable(anchorEl, refText){
   hideWordPopover();
+  document.getElementById("wp-word").textContent = "";
   document.getElementById("wp-heb").textContent = "";
   document.getElementById("wp-translit").textContent = "";
   document.getElementById("wp-strong").textContent = "";
+  document.getElementById("wp-extra").innerHTML = "";
   document.getElementById("wp-def").textContent =
     "„" + refText + "”";
   wordPopover.classList.add("show");
-  const rect = anchorEl.getBoundingClientRect();
-  const popW = 280;
-  let left = rect.left;
-  if(left + popW > window.innerWidth - 12) left = window.innerWidth - popW - 12;
-  if(left < 12) left = 12;
-  wordPopover.style.left = left + "px";
-  wordPopover.style.top = (rect.bottom + 8) + "px";
 }
 
 
@@ -3293,6 +3316,7 @@ function showWordPopover(tok, anchorEl){
   document.querySelectorAll(".word").forEach(w => w.classList.remove("active-word"));
   anchorEl.classList.add("active-word");
 
+  document.getElementById("wp-word").textContent = tok.t || "";
   document.getElementById("wp-heb").textContent = tok.heb;
   document.getElementById("wp-translit").textContent = tok.translit;
   document.getElementById("wp-strong").textContent = tok.strong + (tok.pos ? " · " + tok.pos : "");
@@ -3300,27 +3324,18 @@ function showWordPopover(tok, anchorEl){
 
   const extraEl = document.getElementById("wp-extra");
   let extraHtml = "";
-  if(tok.occ){
-    extraHtml += `<div><b>Apariții în Tora:</b> ${tok.occ}</div>`;
-  }
   if(tok.greek){
-    extraHtml += `<div><b>Echivalent grecesc (LXX):</b> <span class="wp-greek">${tok.greek}</span></div>`;
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">LXX</span><span class="wp-greek">${tok.greek}</span></div>`;
   }
   if(tok.samaritan){
-    extraHtml += `<div><b>Pentateuhul Samaritean:</b> ${tok.samaritan}</div>`;
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Samaritean</span>${tok.samaritan}</div>`;
+  }
+  if(tok.occ){
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Apariții în Tora</span>${tok.occ}</div>`;
   }
   extraEl.innerHTML = extraHtml;
 
   wordPopover.classList.add("show");
-
-  const rect = anchorEl.getBoundingClientRect();
-  const popW = 280;
-  let left = rect.left;
-  if(left + popW > window.innerWidth - 12) left = window.innerWidth - popW - 12;
-  if(left < 12) left = 12;
-  let top = rect.bottom + 8;
-  wordPopover.style.left = left + "px";
-  wordPopover.style.top = top + "px";
 }
 
 function hideWordPopover(){
@@ -3594,7 +3609,6 @@ modeAprofundareBtn.addEventListener("click", () => setMode("aprofundare"));
 // Selector de traducere (Rosen / Fidela / ...) — un singur buton cu dropdown
 const translationSelectorBtn = document.getElementById("translation-selector-btn");
 const translationDropdown = document.getElementById("version-row");
-const translationAbbrEl = document.getElementById("translation-selector-abbr");
 const translationLabelEl = document.getElementById("translation-selector-label");
 
 if(translationSelectorBtn){
@@ -3615,9 +3629,7 @@ document.querySelectorAll(".version-chip").forEach(chip => {
     chip.classList.add("active");
     currentVersion = chip.dataset.version;
     // actualizează eticheta compactă a selectorului
-    const badge = chip.querySelector(".version-badge");
     const name = chip.querySelector(".version-name");
-    if(translationAbbrEl && badge) translationAbbrEl.textContent = badge.textContent;
     if(translationLabelEl && name) translationLabelEl.textContent = name.textContent;
     if(translationDropdown) translationDropdown.classList.remove("show");
     const testamentTabsEl = document.querySelector(".testament-tabs");
