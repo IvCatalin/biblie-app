@@ -2060,6 +2060,21 @@
     border-radius:50%;
     background:var(--gold);
   }
+  .radio-station-playbtn{
+    margin-left:auto;
+    flex-shrink:0;
+    width:38px; height:38px;
+    border-radius:50%;
+    background:rgba(255,255,255,0.12);
+    border:none;
+    color:#fff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor:pointer;
+  }
+  .radio-station-playbtn svg{width:18px; height:18px;}
+  .radio-station.playing .radio-station-playbtn{background:var(--gold); color:#1e1400;}
   .radio-station-dot.muted{background:var(--ink-soft); opacity:0.4;}
   .radio-station-name{
     font-family:'Inter', sans-serif;
@@ -2077,12 +2092,12 @@
   .radio-station.playing .radio-station-dot{background:var(--wine);}
 
   .radio-now-playing{
+    display:none !important;
     position:fixed;
     left:16px; right:16px;
     bottom:90px;
     max-width:448px;
     margin:0 auto;
-    display:flex;
     align-items:center;
     justify-content:space-between;
     background: rgba(16,32,56,.65);
@@ -4840,6 +4855,7 @@ const radioNowStatus = document.getElementById("radio-now-status");
 function setRadioStatus(text){ radioStatus.textContent = text; radioNowStatus.textContent = text; }
 let radioPlaying = false;
 let radioIsEmbed = false;
+let currentStreamUrl = null;
 
 const AUDIO_ERROR_MESSAGES = {
   1: "conexiune întreruptă (MEDIA_ERR_ABORTED)",
@@ -4873,6 +4889,20 @@ function updatePlayPauseIcons(isPlaying){
   radioPauseIcon.style.display = isPlaying ? "" : "none";
   radioNowPlayIcon.style.display = isPlaying ? "none" : "";
   radioNowPauseIcon.style.display = isPlaying ? "" : "none";
+  updateStationButtons();
+}
+
+function updateStationButtons(){
+  document.querySelectorAll(".radio-station[data-stream]").forEach(el => {
+    const btn = el.querySelector(".radio-station-playbtn");
+    if(!btn) return;
+    const isActive = el.dataset.stream === currentStreamUrl && !radioIsEmbed;
+    const isPlaying = isActive && !radioAudio.paused;
+    const playIcon = btn.querySelector(".rsp-play");
+    const pauseIcon = btn.querySelector(".rsp-pause");
+    if(playIcon) playIcon.style.display = isPlaying ? "none" : "";
+    if(pauseIcon) pauseIcon.style.display = isPlaying ? "" : "none";
+  });
 }
 
 function togglePlayPause(){
@@ -4892,10 +4922,12 @@ function playStream(url, name){
   radioEmbedBox.style.display = "none";
   radioEmbedBox.innerHTML = "";
   radioIsEmbed = false;
+  currentStreamUrl = url;
   setMiniPlayPauseVisible(true);
   radioAudio.src = url;
   setRadioStatus("se conectează…");
   showRadioUI(name);
+  updateStationButtons();
   const playPromise = radioAudio.play();
   if(playPromise && playPromise.then){
     playPromise.then(() => {
@@ -4904,6 +4936,7 @@ function playStream(url, name){
       setRadioStatus("live acum");
     }).catch(err => {
       setRadioStatus("nu a pornit automat — apasă din nou pe ▶ (" + (err && err.name ? err.name : "eroare browser") + ")");
+      updateStationButtons();
     });
   }
 }
@@ -4912,11 +4945,13 @@ function playEmbed(embedUrl, name){
   radioAudio.pause();
   radioIsEmbed = true;
   radioPlaying = true;
+  currentStreamUrl = null;
   setMiniPlayPauseVisible(false);
   radioEmbedBox.innerHTML = '<iframe src="' + embedUrl + '"></iframe>';
   radioEmbedBox.style.display = "block";
   setRadioStatus("live acum");
   showRadioUI(name);
+  updateStationButtons();
 }
 
 function stopStream(){
@@ -4927,6 +4962,7 @@ function stopStream(){
   radioEmbedBox.innerHTML = "";
   radioPlaying = false;
   radioIsEmbed = false;
+  currentStreamUrl = null;
   setMiniPlayPauseVisible(true);
   updatePlayPauseIcons(false);
   radioMiniCard.style.display = "none";
@@ -4941,6 +4977,25 @@ radioMiniClose.addEventListener("click", stopStream);
 radioStopBtn.addEventListener("click", stopStream);
 
 document.querySelectorAll(".radio-station[data-stream]").forEach(el => {
+  const btn = document.createElement("button");
+  btn.className = "radio-station-playbtn";
+  btn.title = "Redă / pauză";
+  btn.innerHTML =
+    '<svg class="rsp-play" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>' +
+    '<svg class="rsp-pause" viewBox="0 0 24 24" fill="currentColor" style="display:none;"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>';
+  el.appendChild(btn);
+
+  btn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    const url = el.dataset.stream;
+    const name = el.querySelector(".radio-station-name").textContent;
+    if(url === currentStreamUrl && !radioIsEmbed){
+      togglePlayPause();
+    } else {
+      playStream(url, name);
+    }
+  });
+
   el.addEventListener("click", () => {
     const url = el.dataset.stream;
     const name = el.querySelector(".radio-station-name").textContent;
