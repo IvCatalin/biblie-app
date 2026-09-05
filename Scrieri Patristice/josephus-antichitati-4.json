@@ -1,0 +1,252 @@
+{
+  "slug": "josephus-antichitati-4",
+  "name": "Antichitățile iudaice — Cartea IV",
+  "meta": "12 capitole · 33 secțiuni",
+  "author": "Flavius Josephus",
+  "summary": "Cartea IV din Antichitățile iudaice ale lui Flavius Josephus, istoric evreu din secolul I d.Hr. Text tradus în română modernă după edițiile publice Niese/Whiston.",
+  "available": true,
+  "edition": {
+    "translation": "Flavius Josephus – Antichități IV, cap. 1–2 (realiniat pe sumarul grecesc) | Flavius Josephus – Antichități IV, cap. 3 – Niese 4.59–84 | Flavius Josephus – Antichități IV, cap. 4–8 – Niese | Flavius Josephus – Antichități IV, cap. 9–12 (sfârșitul cărții) – Niese",
+    "source": "AJ IV, τάδε ἔνεστιν α–β; Niese 4.1–58 | Josephus, AJ IV.176–331, ed. Niese 1885 (PD) | Josephus, AJ IV.59–84, ed. Niese 1885 (PD); cap. = sumar grecesc γ / Acsan IV.3 | Josephus, AJ IV.85–176, ed. Niese 1885 (PD)",
+    "source_status": "Public Domain (Niese)"
+  },
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Lupta evreilor cu canaaneenii fără voia lui Moise; înfrângerea",
+      "verses": [
+        {
+          "v": 1,
+          "t": "După vestea iscoadelor, poporul, fără sfatul lui Moise, s-a suit să lovească pe canaaneeni. Moise le-a zis că Domnul nu e cu ei. N-au ascultat. Amaleciții și canaaneenii i-au bătut și i-au gonit până la Horma. Aceasta e întâia faptă a Cărții a IV-a în sumarul grecesc.",
+          "niese": "4.1-8"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Răzvrătirea lui Core și a mulțimii pentru preoție",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Cum se întâmplă oștilor mari, mai ales după nenorocire, evreii — șase sute de mii — s-au făcut greu de stăpânit. S-au mâniat unii pe alții și pe conducător, din pricina strâmtorării. Voi spune întâi pricina răscoalei, apoi răscoala, apoi rânduielile pe care le-a făcut Moise după ea.",
+          "niese": "4.11-13"
+        },
+        {
+          "v": 2,
+          "t": "Core, evreu de neam și de avere între cei dintâi, destoinic la vorbă și foarte înduplecător cu gloatele, văzând pe Moise în cinste peste măsură, îl pizmuia. Era din aceeași seminție și ruda lui; i se părea că lui i se cuvine slava, fiind mai bogat și nu mai prejos de neam. A stârnit pe leviți și pe rude: e lucru greu să priviți cum Moise își vânează slava cu meșteșug, prefăcând porunca lui Dumnezeu, și a dat preoția lui Aaron nu prin votul poporului, ci prin votul său, ca un tiran. Mai dreaptă ar fi preoția la cei mai bătrâni ai seminției — Datan, Abiram și On, fiul lui Pelet — puternici și prin avere.",
+          "niese": "4.14-19"
+        },
+        {
+          "v": 3,
+          "t": "Core voia să pară că poartă grijă de obște; de fapt lucra să-și tragă cinstea mulțimii. Cu el erau două sute cincizeci dintre cei dintâi, grăbiți să ia preoția de la fratele lui Moise și să-l necinstească pe Moise însuși. Mulțimea s-a aprins, a vrut să-l ucidă cu pietre pe Moise și s-a adunat fără rânduială.",
+          "niese": "4.20-23"
+        },
+        {
+          "v": 4,
+          "t": "Moise, știind de mult clevetirea și văzând poporul ațâțat, n-a timidat. A venit în adunare. Către Core a strigat: «Tu și fiecare dintre acești două sute cincizeci păreți vrednici de cinste, și toată gloata deopotrivă. Mâine să aducă Dumnezeu la iveală pe cine a ales. Luați cădelnițe, puneți foc și tămâie. Pe cine va primi Domnul, acela e sfânt. Destul vă este, fii ai lui Levi, slujba cortului; cereți și preoția?» Datan și Abiram n-au voit să se suie. Moise s-a rugat să nu le primească darul.",
+          "niese": "4.24-34"
+        },
+        {
+          "v": 5,
+          "t": "A doua zi au venit cu cădelnițele. Slava s-a arătat. Adunarea s-a depărtat de corturile lui Core, Datan și Abiram. Moise: dacă vor muri ca toți oamenii, nu m-a trimis Domnul; dacă pământul îi va înghiți, au nesocotit pe Domnul. Pământul s-a despicat și i-a înghițit cu casele. Foc a mistuit pe cei două sute cincizeci. A doua zi mulțimea a cârțit iarăși; urgia a ucis paisprezece mii șapte sute; Aaron a stătut cu tămâia între morți și vii. Toiegele semințiilor: toiagul lui Aaron a odrăslit, a înflorit și a făcut migdale; s-a pus înaintea mărturiei, ca să înceteze cârtirile.",
+          "niese": "4.40-58"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Cele întâmplate evreilor în pustie vreme de treizeci și opt de ani",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Răscoala n-a încetat odată cu pieirea lui Core, ci s-a întețit. Pricina era aceasta: poporul credea că nimic nu se face fără purtarea de grijă a lui Dumnezeu, dar socotea că cele întâmplate nu s-ar fi făcut fără bunăvoința lui Dumnezeu față de Moise. Îl învinuiau deci că urgia nu arsese atât pentru greșeala celor pedepsiți, cât pentru că Moise o stârnise. De aceea cârtirea ținea și se părea că nenorocirea nu se va mai sfârși.",
+          "niese": "4.59-61"
+        },
+        {
+          "v": 2,
+          "t": "Moise, temându-se să nu se ivească iarăși tulburare, a vorbit adunării cu blândețe și le-a adus aminte câte semne văzuseră. Nu s-au liniștit. Atunci a pus toiegele semințiilor înaintea mărturiei, cum s-a spus: toiagul lui Aaron a odrăslit. Chiar și după aceasta unii murmurau că preoția rămâne în casa lui Aaron prin meșteșug, nu prin alegere. Moise a lăsat judecata lui Dumnezeu și n-a mai pedepsit cu mâna lui.",
+          "niese": "4.62-66"
+        },
+        {
+          "v": 3,
+          "t": "Dumnezeu a rânduit leviților zeciuiala și cele ale slujbei cortului, iar preoților părțile jertfelor, pârga și răscumpărările, ca să n-aibă moșie ca celelalte seminții: Domnul e partea lor. S-a rânduit și apa de curățire din cenușa junincii roșii, pentru cei ce se ating de mort. Aceste rânduieli s-au făcut ca răscoala să nu se mai întoarcă asupra slujbei.",
+          "niese": "4.67-75"
+        },
+        {
+          "v": 4,
+          "t": "Poporul a rătăcit în pustie anii rânduiți: patruzeci de la ieșire, dintre care treizeci și opt după întoarcerea de la hotarul țării. În răstimpul acesta a murit neamul care ieșise din Egipt, bărbații de război, după cuvântul lui Dumnezeu — afară de Iosua și Caleb. Nu s-a ținut șir de războaie mari; au trecut din loc în loc, hrăniți cu mana, până s-a stins tot trupul osândit.",
+          "niese": "4.76-81"
+        },
+        {
+          "v": 5,
+          "t": "În anul al patrulea zeci, în luna întâi, au venit în pustia Țin. Acolo a murit Miriam și a fost îngropată. Iarăși n-a fost apă. Poporul s-a adunat împotriva lui Moise și Aaron. Moise și Aaron au căzut cu fața la ușa cortului. Dumnezeu i-a zis lui Moise să ia toiagul și, cu Aaron, să vorbească stâncii înaintea ochilor lor. Moise, mâniat, a lovit stânca de două ori cu toiagul; a ieșit apă multă. Pentru că n-au sfințit pe Dumnezeu înaintea fiilor lui Israel, li s-a spus că nu vor duce ei adunarea în țară. Apele s-au numit Meriba. De aici au trimis soli Edomului să-i lase să treacă pe drumul regelui; Edom a ieșit cu oaste și a oprit trecerea. S-au abătut de la el.",
+          "niese": "4.82-84"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Moartea lui Aaron; ocolul Edomului; regele din Arad",
+      "verses": [
+        {
+          "v": 1,
+          "t": "De la muntele Hor, pe hotarul Edomului, Dumnezeu a zis lui Moise să suie pe Aaron și pe Eleazar. Moise a dezbrăcat pe Aaron de veșmintele sfinte și le-a pus pe Eleazar. Aaron a murit acolo, în vârstă de o sută douăzeci și trei de ani. Toată casa lui Israel l-a plâns treizeci de zile. Eleazar a primit preoția cea mare.",
+          "niese": "4.85-87"
+        },
+        {
+          "v": 2,
+          "t": "Regele canaanean din Arad, auzind că Israel vine pe drumul Atarim, s-a luptat, a luat robi. Israel a făcut jurământ: de va da Domnul poporul acesta, îi va nimici cetățile. Domnul a ascultat; au dărâmat locurile și au numit ținutul Horma.",
+          "niese": "4.88-90"
+        },
+        {
+          "v": 3,
+          "t": "Ca să nu se lovească de Edom, au ocolit țara. Poporul s-a scârbit de drum. A cârțit împotriva lui Dumnezeu și a lui Moise: «Pentru ce ne-ați scos din Egipt să murim în pustie? Nu e pâine, nu e apă; ni s-a scârbit sufletul de pâinea aceasta uşoară.» Domnul a trimis șerpi înfocați; au mușcat, și a murit mult popor. Au venit la Moise. El s-a rugat. Dumnezeu i-a zis să facă un șarpe de aramă și să-l pună pe o prăjină: cine e mușcat și se uită la el trăiește. Moise a făcut așa.",
+          "niese": "4.85-89"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Sehon, regele amorreilor, și Og, regele Basanului",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Israel a trimis soli lui Sehon, regele Heșbonului, să-l lase să treacă pe drumul regelui, fără să se abată prin câmp și vie, plătind apa. Sehon n-a vrut. A adunat poporul și a ieșit la Iahaț. Israel l-a lovit cu ascuțișul, a luat țara de la Arnon până la Iaboc, până la fiii lui Ammon, și a locuit în cetățile amorreilor, în Heșbon și în fetele ei.",
+          "niese": "4.85-95"
+        },
+        {
+          "v": 2,
+          "t": "S-au întors și au suit drumul Basanului. Og, regele Basanului, le-a ieșit înainte, el și tot poporul lui, la Edrei. Domnul a zis lui Moise să nu se teamă: în mâna lui l-a dat, ca pe Sehon. L-au lovit, pe fiii lui și tot poporul, încât n-a rămas nici unul, și au luat țara. Og rămăsese dintre uriași; patul lui, de fier, avea nouă coți lungime și patru lățime, în Raba fiilor lui Ammon.",
+          "niese": "4.96-99"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Balac și Balaam",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Moab s-a temut de Israel, că era mult. Balac, fiul lui Țipor, regele Moabului, a trimis după Balaam, fiul lui Beor, la Petor, pe Râu, să blesteme poporul. Dumnezeu a zis lui Balaam noaptea: «Să nu te duci; să nu blestemi poporul, că e binecuvântat.» Balaam a dat drumul slujitorilor. Balac a trimis iarăși căpetenii mai multe și mai de cinste. Dumnezeu i-a zis: «Du-te cu ei; dar numai cuvântul pe care ți-l voi spune să-l faci.»",
+          "niese": "4.100-111"
+        },
+        {
+          "v": 2,
+          "t": "S-a sculat dimineața, a potcovit asina și a mers cu căpeteniile. Mânia lui Dumnezeu s-a aprins. Îngerul Domnului s-a așezat în drum. Asina a văzut îngerul cu sabia scoasă și s-a abătut în câmp; Balaam a bătut-o. A doua oară, într-o cărare între vii, s-a lipit de zid și i-a strâns piciorul; a bătut-o iarăși. A treia oară, într-un loc strâmt, asina s-a culcat sub Balaam. El a bătut-o cu toiagul. Domnul a deschis gura asinii: «Ce ți-am făcut de m-ai bătut de trei ori?» «Pentru că ți-ai râs de mine; de-aș fi avut sabie, te-aș fi ucis.» «Nu sunt eu asina ta? Obiceiul meu e oare să-ți fac așa?» I-a deschis ochii și a văzut îngerul. S-a plecat. Îngerul: «De ce ai bătut asina? Iată, eu am ieșit împotrivă, că drumul e fărădelege înaintea mea. Asina m-a văzut și s-a abătut; de n-ar fi făcut-o, te-aș fi ucis, iar pe ea aș fi lăsat-o vie.» Balaam a zis că a păcătuit, neștiind; de e rău în ochii lui, se întoarce. Îngerul: «Mergi cu oamenii; dar cuvântul pe care ți-l voi spune, pe acela să-l grăiești.»",
+          "niese": "4.107-111"
+        },
+        {
+          "v": 3,
+          "t": "Balac i-a ieșit înainte la cetatea Moabului, la hotarul Arnonului. L-a mustrat că n-a venit dintr-a întâia. A doua zi l-a suit la Bamot-Baal. De acolo a văzut o parte din popor. Balaam a zis să zidească șapte jertfelnice și să pregătească șapte tauri și șapte berbeci. A adus jertfă. Dumnezeu i-a pus cuvânt în gură: nu poate blestema pe cel ce Dumnezeu n-a blestemat; Iacov e fără fărădelege la vedere; «cine va număra pulberea lui Iacov?» Balac s-a mâniat. L-a dus la Țofim, pe vârful Pisga, aceleași jertfe. Iarăși binecuvântare: Dumnezeu nu e om să mintă; «nu se pune farmec împotriva lui Iacov.» A treia oară, pe vârful Peor, care privește spre Iesimon. Duhul lui Dumnezeu a venit peste el: «Cât de frumoase sunt corturile tale, Iacov; ca văile întinse, ca grădinile lângă râu. Un răsare stea din Iacov, un toiag din Israel.» Balac a bătut din palme și l-a slobozit. Balaam a proorocit și despre Amalec, cheniți și cetățile de pe țărm, apoi s-a întors.",
+          "niese": "4.112-124"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Păcatul de la Peor; Fineas",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Israel a locuit la Șitim. Poporul a început să curvească cu fetele Moabului. Ele au chemat la jertfele dumnezeilor lor; poporul a mâncat și s-a închinat lui Baal-Peor. Mânia Domnului s-a aprins. Moise a zis judecătorilor să omoare pe cei ce s-au alipit de Baal-Peor. Un bărbat din Israel a adus la frații săi o madianită, înaintea ochilor lui Moise și ai adunării, care plângeau la ușa cortului. Fineas, fiul lui Eleazar, fiul lui Aaron, a luat o suliță, a intrat după bărbat în odaie și i-a străpuns pe amândoi — pe Zimri, fiul lui Salu, căpetenie din Simeon, și pe Cozbi, fiica lui Țur. Urgia s-a oprit. Cei morți de rană: douăzeci și patru de mii. Dumnezeu a dat lui Fineas legământ de preoție veșnică, pentru că a fost zelos pentru Dumnezeul lui.",
+          "niese": "4.126-151"
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Războiul cu Madian; Ruben și Gad",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Domnul a zis lui Moise să se răzbune pe madianiți, apoi să se adauge la poporul său. Au scos câte o mie de seminție, douăsprezece mii, și pe Fineas cu odoarele sfinte și trâmbițele. Au lovit Madianul, au ucis pe bărbați și pe cei cinci regi — Evi, Rechem, Țur, Hur și Reba — și pe Balaam, fiul lui Beor, cu sabia. Au luat femeile, copiii, vitele și prada. Moise s-a mâniat că au lăsat femeile: ele au fost pricina fărădelegii de la Peor. A poruncit să omoare tot pruncul de parte bărbătească și orice femeie care a cunoscut bărbat; fetele care n-au cunoscut bărbat să le țină vii. Ostașii și prinșii s-au curățit; prada s-a împărțit, cu parte Domnului și leviților.",
+          "niese": "4.159-164"
+        },
+        {
+          "v": 2,
+          "t": "Fiii lui Ruben și fiii lui Gad aveau vite multe. Au văzut ținutul Iazerului și Galaadului, loc de turme. Au cerut țara aceasta de moșie, să nu treacă Iordanul. Moise s-a mâniat, pomenind pe iscoade. Ei au zis că vor zidi stauluri pentru vite și cetăți pentru copii, iar ei vor trece înarmați înaintea fiilor lui Israel, până vor intra frații în moșie; nu se vor întoarce acasă înainte. Moise a primit, înaintea lui Eleazar și a lui Iosua. Le-a dat Galaadul, și jumătate din Manase cu ei. Au zidit Dibon, Atarot, Aroer și celelalte; fiii lui Manase au luat Galaadul de la amoriți.",
+          "niese": "4.165-176"
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "Numărătoarea; fiicele lui Țelofhad; Iosua",
+      "verses": [
+        {
+          "v": 1,
+          "t": "După rană, Dumnezeu a poruncit o nouă numărătoare a bărbaților de douăzeci de ani în sus, după casa părinților. Semințiile au fost numărate în câmpiile Moabului, lângă Iordan, în fața Ierihonului. Dintre cei numărați la Sinai nu mai era nimeni, afară de Caleb și Iosua. Moșia se va împărți prin sorți, după numărul numelor.",
+          "niese": "4.165-176"
+        },
+        {
+          "v": 2,
+          "t": "Fiicele lui Țelofhad, din Manase — Mahla, Noa, Hogla, Milca și Tirța — s-au apropiat: tatăl a murit în pustie pentru păcatul său, nu cu Core, și n-a avut fii. De ce să i se șteargă numele din seminție? Moise a adus pricina înaintea Domnului. Domnul: fiicele vorbesc drept; să li se dea moșie între frații tatălui. De moare cineva fără fiu, moștenirea trece la fiică, apoi la frați, apoi la unchii din partea tatălui, apoi la ruda cea mai apropiată din seminție. Să nu se strămute moșia dintr-o seminție în alta; fiicele care moștenesc să se mărite în seminția casei tatălui.",
+          "niese": "4.174-176"
+        },
+        {
+          "v": 3,
+          "t": "Moise a cerut Domnului un bărbat peste adunare, ca să nu fie oile fără păstor. Domnul: să ia pe Iosua, fiul lui Nun, bărbat în care este Duhul, să-și pună mâna pe el înaintea preotului Eleazar și a întregii adunări, să-i dea din slava sa. El să stea înaintea lui Eleazar; Eleazar să întrebe pentru el judecata Urim înaintea Domnului. Moise a făcut așa.",
+          "niese": "4.165"
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Cuvântarea de despărțire a lui Moise",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Moise, știind că i s-a apropiat sfârșitul, a adunat poporul în câmpiile Moabului. Le-a adus aminte ieșirea, semnele, mana, apa din stâncă, Amalec, Sinaiul, răscoalele, pe Sehon și Og. I-a îndemnat să nu uite pe Dumnezeul părinților când vor intra în țara cu lapte și miere, să nu se ia după dumnezeii neamurilor, să nu se însoare cu ele, să dărâme jertfelnicele și așerele. Legea aceasta nu e departe, în cer sau dincolo de mare: e aproape, în gură și în inimă, ca s-o facă.",
+          "niese": "4.176-193"
+        },
+        {
+          "v": 2,
+          "t": "Le-a spus că, de vor păzi poruncile, vor fi binecuvântați în cetate și la câmp, în rodul pântecelui, al pământului și al turmelor; vrăjmașii vor fugi pe șapte drumuri. De nu vor asculta, blestemul: foamete, sabie, risipire între neamuri, o inimă tremurândă. A pus înainte viața și moartea, binecuvântarea și blestemul, și i-a îndemnat să aleagă viața.",
+          "niese": "4.194-198"
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Rânduiala cetății (politeia) dată prin Moise",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Iosif așază aici, pe scurt, constituția. Un singur Dumnezeu, un singur locaș ales, unde să aducă jertfele; să nu jertfească pe orice dâmb. De trei ori pe an tot bărbatul să se arate înaintea Domnului. Să nu-și facă chip. Să asculte pe preoți și pe judecătorul de la locul ales. De se va ivi pricină grea, să se suie acolo; să nu se abată de la hotărâre, nici la dreapta, nici la stânga.",
+          "niese": "4.196-213"
+        },
+        {
+          "v": 2,
+          "t": "Să-și pună judecători și scriitori în toate cetățile, oameni drepți, care să nu ia mită și să nu caute la față. Un martor să nu ridice pe nimeni; din gura a doi sau trei martori să stea orice vorbă. Martorul mincinos să pătimească ce gândise să facă fratelui. Cetăți de scăpare pentru ucigașul fără voie; ucigașul de bunăvoie să fie scos și de la jertfelnic. Răzbunătorul sângelui să urmărească; adunarea să judece între ucigaș și răzbunător.",
+          "niese": "4.214-224"
+        },
+        {
+          "v": 3,
+          "t": "De vor voi rege, să-și pună pe unul din frați, nu străin; să nu-și înmulțească caii, femeile și argintul; să aibă o copie a legii de la preoți și s-o citească toate zilele. La război: preotul să vorbească oastei; ispravnicii să slobozească pe cel ce și-a zidit casă nouă, a sădit vie, s-a logodit, și pe cel fricos. Cetatea care se dă de bunăvoie să fie iertată, cu bir; cea care nu se dă, bărbații să cadă prin sabie, femeile și copiii să fie pradă. Cetățile din țara dată moștenire să nu se lase cu viață. Să nu se taie pomii roditori la împresurare.",
+          "niese": "4.223-239"
+        },
+        {
+          "v": 4,
+          "t": "Să nu se mute hotarul. Să se aducă pârgă și zeciuială. Anul al șaptelea: iertarea datoriilor între frați; robul evreu să iasă slobod în al șaptelea, nu gol. Să nu se ia zălog pietrele de râșniță, nici haina văduvei peste noapte. Lăsați spicurile uitate, măslina scuturată o dată, via nerăscolită a doua oară — ale străinului, orfanului și văduvei. Să nu se pună două feluri de sămânță, nici jug de bou și asin, nici haină de lână și in. Ciucuri la patru colțuri. Leviratul: cumnatul să ridice sămânță fratelui mort; de nu, descălțarea înaintea bătrânilor. Femeia prinasă în război: o lună de plâns, apoi soție; de nu-i place, slobodă, nu vândută. Fiul îndărătnic, care nu ascultă de tată și de mamă, să fie dus la bătrânii cetății și ucis cu pietre.",
+          "niese": "4.260-291"
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Moartea lui Moise",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Moise a scris legea și a dat-o leviților, să o pună lângă chivot. A poruncit ca la capăt de șapte ani, la sărbătoarea corturilor, să se citească înaintea lui Israel. A învățat poporul cântarea de mărturie. A binecuvântat semințiile, fiecare cu cuvântul ei. S-a suit din câmpiile Moabului pe muntele Nebo, vârful Pisga, în fața Ierihonului. Domnul i-a arătat tot ținutul: Galaadul până la Dan, tot Neftali, țara lui Efraim și Manase, tot Iuda până la marea de apus, Neghebul și ținutul Ierihonului, cetatea finicilor, până la Țoar. «Aceasta e țara pe care am jurat-o lui Avraam, Isaac și Iacov. Ți-am arătat-o cu ochii; acolo nu vei trece.»",
+          "niese": "4.302-314"
+        },
+        {
+          "v": 2,
+          "t": "Moise, robul Domnului, a murit acolo, în țara Moabului, după cuvântul Domnului, în vârstă de o sută douăzeci de ani; ochiul nu i se slăbise, vlaga nu-i pierise. L-a îngropat în vale, în țara Moabului, în fața Bet-Peorului; nimeni nu știe mormântul lui până în ziua de azi. Fiii lui Israel l-au plâns treizeci de zile. Nu s-a mai sculat în Israel prooroc ca Moise, pe care Domnul să-l fi cunoscut față către față, după toate semnele și minunile în Egipt și după toată mâna tare și toată groaza cea mare pe care le-a făcut Moise înaintea ochilor lui Israel. Iosif îl laudă ca pe cel mai bun legiuitor, care a lăsat faptele sale în scrieri nepieritoare. Aici se încheie Cartea a IV-a. Cartea a V-a începe cu Iosua și trecerea Iordanului.",
+          "niese": "4.323-331"
+        }
+      ]
+    }
+  ]
+}

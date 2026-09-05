@@ -1,0 +1,432 @@
+{
+  "slug": "josephus-antichitati-2",
+  "name": "Antichitățile iudaice — Cartea II",
+  "meta": "26 capitole · 52 secțiuni",
+  "author": "Flavius Josephus",
+  "summary": "Cartea II din Antichitățile iudaice ale lui Flavius Josephus, istoric evreu din secolul I d.Hr. Text tradus în română modernă după edițiile publice Niese/Whiston.",
+  "available": true,
+  "edition": {
+    "translation": "Flavius Josephus – Antichități II, cap. 11–15 – Niese | Flavius Josephus – Antichități II, cap. 16–20 – Niese | Flavius Josephus – Antichități II, cap. 21–25 (sfârșitul cărții) – Niese | Flavius Josephus – Antichități II, cap. 6–10 – Niese | Flavius Josephus – Antichități Iudaice, Cartea a II-a (început) – Niese",
+    "source": "Josephus, AJ II.1–32, ed. Niese 1885 (PD) | Josephus, AJ II.201–237, ed. Niese 1885 (PD) | Josephus, AJ II.232–276, ed. Niese 1885 (PD) | Josephus, AJ II.281–349, ed. Niese 1885 (PD) | Josephus, AJ II.95–200, ed. Niese 1885 (PD)",
+    "source_status": "Public Domain (Niese)",
+    "modernization": "Traducere din greacă. Secțiune = un text. niese = citarea canonică."
+  },
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Notă (nu e capitolul cărții)",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Cartea a II-a a Antichităților (vol. I Acsan, Cărțile I–X): de la Esau și Iosif până la ieșirea din Egipt. Prefața volumului nu se repetă. Unitate = secțiune + niese.",
+          "niese": "2.arg"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Esau; Idumeea; Iosif și visurile",
+      "verses": [
+        {
+          "v": 1,
+          "t": "După moartea lui Isaac, fiii i-au împărțit bunurile. Esau a părăsit cetatea Hebronului și s-a așezat la Seir, ținutul numit apoi Idumeea, de la porecla lui, Edom — căci era roșu. A luat soții dintre canaaneeni și din neamul lui Ismael: Ada, Alibama și Basemath. I-au născut fii: Elifaz, Rahuel și alții. Aceștia au umplut Idumeea. Iacov a rămas în Canaan, cinstind pe Dumnezeu și lucând pământul, și a ajuns mai vestit decât ceilalți pentru virtute și pentru iubirea de fii.",
+          "niese": "2.1-6"
+        },
+        {
+          "v": 2,
+          "t": "Dintre fiii lui Iacov, Iosif, născut din Rahila, avea o frumusețe a trupului și o vrednicie a sufletului care îl făceau iubit de tată mai presus de frați. Aceștia, din pizmă, îl priveau urât. Iosif a avut un vis: legau snopi la câmp; snopul lui s-a ridicat, ai lor s-au închinat. Frații au înțeles că visul vestește stăpânire asupra lor și l-au urât și mai tare. Al doilea vis: soarele, luna și unsprezece stele i se închinau. Tatăl s-a bucurat de tâlc — că el, mama și frații îi vor da cinste — dar i-a mustrat pe frați să nu-l pizmuiască.",
+          "niese": "2.7-10"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Iosif vândut de frați",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Frații au plecat să pască turmele la Sichem. Iacov l-a trimis pe Iosif să vadă de sunt sănătoși. Ei l-au zărit de departe și s-au sfătuit să-l ucidă, ca să nu se plinească visurile. Ruben, cel mai mare, s-a împotrivit omorului: să-l arunce în groapă, gândind să-l scoată noaptea și să-l dea tatălui. L-au dezbrăcat de haina cea lungă și l-au aruncat în groapă.",
+          "niese": "2.11-19"
+        },
+        {
+          "v": 2,
+          "t": "Pe când ședeau să mănânce, au trecut negustori arabi, din neamul lui Ismael, care duceau mirodenii în Egipt. Iuda a zis că e mai bine să-l vândă decât să-și pângărească mâinile cu sângele fratelui. L-au scos și l-au vândut pe douăzeci de mine. Ruben, întorcându-se la groapă și negăsindu-l, și-a rupt hainele. Frații au înjunghiat un ied, au muiat haina în sânge și au trimis-o tatălui, zicând că au găsit-o. Iacov a cunoscut-o și a plâns pe Iosif ca pe un mort, sfâșiat de fiară. Nimeni nu l-a putut mângâia.",
+          "niese": "2.20-28"
+        },
+        {
+          "v": 3,
+          "t": "Negustorii l-au dus pe Iosif în Egipt și l-au vândut lui Petephres (Putifar), slujitor al lui Faraon, mai-mare peste bucătari. Iosif, deși rob, și-a păstrat virtutea. Stăpânul, văzând vrednicia și credința lui, i-a dat în grijă casa.",
+          "niese": "2.29-32"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Iosif și soția lui Putifar",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Soția lui Petephres s-a aprins de Iosif, văzându-i frumusețea. I-a vorbit despre unire. El a refuzat, zicând că nu se cuvine să-și răsplătească stăpânul, care i-a încredințat toate, cu o astfel de ocară, nici să păcătuiască față de Dumnezeu. Ea a stăruit în toate zilele. El fugea de ea și de locurile unde ar fi putut rămâne singuri.",
+          "niese": "2.39-53"
+        },
+        {
+          "v": 2,
+          "t": "Într-o zi, casa fiind goală, ea l-a apucat de haină. El a lăsat haina în mâinile ei și a fugit. Ea, temându-se de pâră și de ocara refuzului, a strigat că robul evreu a vrut s-o siluiască și că, strigând ea, el a fugit, lăsând haina. Petephres, credul, s-a mâniat și l-a aruncat pe Iosif în temniță. Nici acolo Iosif n-a părăsit virtutea; temnicerul i-a dat în grijă pe cei închiși.",
+          "niese": "2.54-59"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Paharnicul și brutarul; visurile din temniță",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Faraon s-a mâniat pe paharnicul cel dintâi și pe brutarul cel dintâi și i-a aruncat în aceeași temniță. Amândoi au visat în aceeași noapte. Iosif, văzându-i tulburați, i-a întrebat. Paharnicul: o viță cu trei mlădițe; a stors strugurii în paharul lui Faraon. Iosif: peste trei zile Faraon te va pune iarăși în slujbă; adu-ți aminte de mine. Brutarul: trei coșuri cu paine pe cap; păsările mâncau din ele. Iosif: peste trei zile Faraon te va răstigni și păsările îți vor mânca trupul.",
+          "niese": "2.60-73"
+        },
+        {
+          "v": 2,
+          "t": "În a treia zi, zi de naștere a lui Faraon, s-a împlinit: paharnicul a fost readus, brutarul osândit. Paharnicul a uitat pe Iosif. Doi ani a rămas Iosif în lanțuri.",
+          "niese": "2.74-86"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Visurile lui Faraon; Iosif slobozit",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Faraon a visat: șapte vaci grase ieșeau din râu, apoi șapte slabe le-au mâncat pe cele grase. Al doilea vis: șapte spice pline, apoi șapte seci le-au înghițit pe cele pline. Magii Egiptului n-au putut tâlcui. Paharnicul și-a adus aminte de Iosif și l-a vestit regelui. Iosif, scos din temniță, a zis că visurile sunt unul: șapte ani de belșug, apoi șapte de foamete, care vor mistui prisosul. Să se rânduiască un bărbat înțelept să adune în anii buni a cincea parte a roadelor.",
+          "niese": "2.75-86"
+        },
+        {
+          "v": 2,
+          "t": "Faraon a socotit că Duhul lui Dumnezeu e în Iosif. L-a pus peste tot Egiptul, i-a dat inelul, haină de in și lanț de aur, l-a plimbat în carul cel de-al doilea și i-a schimbat numele. I-a dat de soție pe Aseneth, fiica lui Petephres, preotul din Heliopolis. Iosif avea treizeci de ani. În anii belșugului a adunat grâu peste măsură. I s-au născut Manase și Efraim.",
+          "niese": "2.87-94"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Foametea; frații vin în Egipt",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Când au venit anii foametei, ea a cuprins nu numai Egiptul, ci și ținuturile dimprejur. Iosif a deschis grânarele și a vândut grâu egiptenilor. Vestea a ajuns în Canaan. Iacov a auzit că se vinde grâu în Egipt și i-a trimis pe fii, afară de Beniamin, ca să nu i se întâmple ceva și acestuia, după Iosif.",
+          "niese": "2.95-97"
+        },
+        {
+          "v": 2,
+          "t": "Frații au ajuns la Iosif și i s-au închinat cu fața la pământ. El i-a cunoscut; ei nu l-au cunoscut. Și-a adus aminte de visuri. Le-a vorbit aspru, zicând că sunt iscoade venite să vadă slăbiciunea țării. Ei au spus că sunt doisprezece frați, fii ai unui om în Canaan; cel mai mic e la tată, iar unul nu mai este. Iosif a zis că-i va pune la încercare: unul să rămână legat, ceilalți să ducă grâu și să-l aducă pe fratele cel mic. Altfel sunt iscoade.",
+          "niese": "2.98-104"
+        },
+        {
+          "v": 3,
+          "t": "I-a ținut trei zile. Apoi a legat pe Simeon și i-a slobozit pe ceilalți. A poruncit să li se pună banii în saci, pe lângă grâu. La popas, unul a găsit argintul în gura sacului. S-au înspăimântat, socotind că Dumnezeu cercetează sângele lui Iosif. Au spus tatălui cele întâmplate și cererea de a-l duce pe Beniamin. Iacov n-a vrut: Iosif a pierit, Simeon e ținut, și pe Beniamin îl vor lua și pe el.",
+          "niese": "2.105-113"
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "A doua coborâre; Beniamin",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Grâul s-a sfârșit. Iuda a făgăduit tatălui că-l aduce pe Beniamin înapoi, punându-se chezaș. Iacov a dat daruri — rășină, miere, tămâie, smirnă, terpentină, migdale — și îndoitul argintului. I-a binecuvântat. Au venit iarăși la Iosif. Acesta, văzând pe Beniamin, a poruncit să-i aducă acasă și să junghie. Ei s-au temut, din pricina banilor, și au vorbit cu ispravnicul. El le-a zis: «Pacea voastră; Dumnezeul vostru v-a dat comoară în saci.» Simeon le-a fost dat.",
+          "niese": "2.114-124"
+        },
+        {
+          "v": 2,
+          "t": "Iosif a venit acasă. Ei i-au dat darurile și s-au închinat. El a întrebat de tată. Văzând pe Beniamin, i s-a tulburat inima; a ieșit și a plâns. S-au așezat la masă: el deosebit, egiptenii deosebit, evreii deosebit. Porțiile lui Beniamin erau de cinci ori mai mari. Au băut și s-au veselit.",
+          "niese": "2.125-136"
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "Paharul; Iuda vorbește",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Iosif a poruncit să li se umple sacii și să se pună paharul lui, cel de argint, în sacul lui Beniamin, împreună cu argintul. În zori i-a trimis. Apoi a slobozit ispravnicul să-i ajungă: de ce au răsplătit rău binele? Paharul e cel din care bea stăpânul și ghicește. Ei au tăgăduit și au zis: la cine se va găsi, să moară, iar noi să fim robi. S-a căutat de la cel mare la cel mic; paharul era la Beniamin. Și-au rupt hainele și s-au întors.",
+          "niese": "2.137-159"
+        },
+        {
+          "v": 2,
+          "t": "Iosif a zis că numai cel la care s-a găsit paharul va rămâne rob; ceilalți să meargă în pace. Iuda s-a apropiat și a vorbit: tatăl are doi fii de la soția iubită; unul a pierit; dacă nu se întoarce acesta, bătrânul va muri. El, Iuda, s-a pus chezaș. Roagă să rămână el rob în locul băiatului, ca să nu coboare pe tată cu mâhnire în locuința morților.",
+          "niese": "2.160-167"
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Iosif se dă pe față",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Iosif n-a mai putut să se țină. A scos afară pe toți egiptenii și a plâns cu glas. «Eu sunt Iosif. Mai trăiește tatăl?» Frații stăteau înmărmuriți. El i-a chemat aproape: nu vă mâhniți; Dumnezeu m-a trimis înaintea voastră spre viață. De doi ani e foamete; mai sunt cinci. Suiți-vă la tată și spuneți-i: Dumnezeu m-a pus stăpân peste tot Egiptul; coboară, să locuiești în Gosen, aproape de mine. A îmbrățișat pe Beniamin și pe toți, plângând.",
+          "niese": "2.168-183"
+        },
+        {
+          "v": 2,
+          "t": "Vestea a ajuns la Faraon. El s-a bucurat și a poruncit să li se dea care pentru tată și pentru case, și merinde. Iosif a dat haine, argint lui Beniamin, și zece asinii încărcați. Le-a zis: «Nu vă sfădiți pe drum.»",
+          "niese": "2.184-190"
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Iacov coboară în Egipt",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Au vestit lui Iacov: Iosif trăiește și stăpânește Egiptul. Inima i s-a oprit; n-a crezut. Când a văzut carele, i s-a îmbărbătat duhul. «Destul. Mă voi duce să-l văd înainte de a muri.»",
+          "niese": "2.191-195"
+        },
+        {
+          "v": 2,
+          "t": "A adus jertfe la Beersheba. Dumnezeu i-a zis noaptea să nu se teamă a se coborî în Egipt: îl va face neam mare și îl va sui iarăși; Iosif îi va închide ochii. Fiii lui Iacov și fiii fiilor, cu femeile, au fost șaptezeci. Au venit în Gosen. Iosif i-a ieșit înainte cu carul, l-a îmbrățișat pe tată și a plâns. Iacov a zis: «Acum pot muri, după ce te-am văzut viu.»",
+          "niese": "2.196-200"
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Iacov înaintea lui Faraon; Gosen",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Iosif a vestit lui Faraon venirea tatălui și a fraților. A ales cinci dintre frați și i-a înfățișat. Faraon i-a întrebat de îndeletnicire. Au zis că sunt păstori, ei și părinții. El le-a dat voie să locuiască în Gosen, ținut bun de păscut, și a pus pe unii dintre ei peste turmele sale. Iosif a adus pe Iacov. Faraon l-a întrebat de ani. Iacov a zis: o sută treizeci de ani, puțini și răi față de anii părinților. L-a binecuvântat pe Faraon.",
+          "niese": "2.201-204"
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Anii în Egipt; moartea lui Iacov",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Foametea a ținut cum spusese Iosif. El a adunat tot argintul Egiptului și al Canaanului în casa lui Faraon, apoi vitele, apoi pământurile, afară de pământul preoților, pe care Faraon îl hrănea. Pe țărani i-a mutat în cetăți și le-a dat sămânță, luând lui Faraon a cincea parte. Iacov a trăit în Egipt șaptesprezece ani. Anii lui toți: o sută patruzeci și șapte.",
+          "niese": "2.205-208"
+        },
+        {
+          "v": 2,
+          "t": "Aproape de moarte a chemat pe Iosif și l-a jurat să nu-l îngroape în Egipt, ci în peștera Machpela, lângă părinți. A înfiat pe Efraim și pe Manase de-a dreptul între fiii săi. A pus mâna dreaptă pe Efraim, cel mai mic; Iosif a vrut s-o mute. Iacov n-a voit: și acesta va fi mare, dar cel mic va fi mai mare. A binecuvântat pe cei doisprezece, fiecare cu cuvânt potrivit. A dat lui Iuda stăpânirea între frați, până va veni Cel căruia îi este. Și-a adunat picioarele în pat și a murit.",
+          "niese": "2.209-216"
+        },
+        {
+          "v": 3,
+          "t": "Iosif a poruncit medicilor să-l îmbălsămeze. Egiptenii l-au plâns șaptezeci de zile. Faraon a dat voie să-l ducă în Canaan. A mers o oaste mare, care și călăreți. Au jelit la Aria lui Atad, dincolo de Iordan. Fiii l-au îngropat în Machpela, la Hebron. Iosif s-a întors în Egipt cu frații. Ei s-au temut că acum își va răzbuna. El a zis că nu e în locul lui Dumnezeu; cei ce au gândit rău, Dumnezeu a întors spre bine.",
+          "niese": "2.217-220"
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Moartea lui Iosif",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Iosif a trăit o sută zece ani. A văzut pe fiii lui Efraim până la al treilea neam. A jurat pe frați ca, atunci când Dumnezeu îi va cerceta, să-i ducă oasele din Egipt. A murit. L-au îmbălsămat și l-au pus într-un sicriu, în Egipt.",
+          "niese": "2.221-223"
+        }
+      ]
+    },
+    {
+      "num": 15,
+      "title": "Asuprirea evreilor",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Neamul evreilor s-a înmulțit peste măsură. S-a sculat un rege care n-a cunoscut pe Iosif. S-a temut că, la război, evreii se vor uni cu vrăjmașul și vor ieși din țară. I-a pus la munci grele: cetăți de grânare, Pitom și Ramses, lut și cărămizi. Cu cât îi asupreau, cu atât se înmulțeau.",
+          "niese": "2.224-229"
+        },
+        {
+          "v": 2,
+          "t": "Regele a poruncit moașelor evreice — Șifra și Pua — să omoare pruncii de parte bărbătească la naștere, pe fete să le lase. Ele s-au temut de Dumnezeu și n-au ascultat. Au zis că evreicele nasc înainte de a sosi moașa. Dumnezeu le-a făcut bine. Atunci regele a poruncit la tot poporul: orice băiat evreu născut să fie aruncat în râu; fetele să fie ținute.",
+          "niese": "2.230-237"
+        }
+      ]
+    },
+    {
+      "num": 16,
+      "title": "Nașterea lui Moise",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Amram, din neamul lui Levi, bărbat evlavios, era îngrijorat de poruncă. Dumnezeu i s-a arătat în vis și i-a vestit că pruncul care se va naște va izbăvi neamul evreilor din Egipt și va fi pomenit în veac; casa lui va fi păzită. Soția, Iochebed, a născut un băiat. Trei luni l-au ascuns.",
+          "niese": "2.210-216"
+        },
+        {
+          "v": 2,
+          "t": "Nemai putând să-l țină, a uns o ladă de papură cu asfalt, a pus pruncul în ea și a lăsat-o pe brațul râului. Maria, sora, stătea departe să vadă ce va fi. Fiica lui Faraon, Termuthis, coborând să se scalde, a văzut lada, a deschis-o și a miluit copilul, care plângea. A cunoscut că e evreu. Maria s-a apropiat și a întrebat dacă să cheme o doică evreică. A adus-o pe mama lui. Termuthis i-a zis: «Ia-mi pruncul și alăptează-l; eu îți voi da plata.»",
+          "niese": "2.217-228"
+        }
+      ]
+    },
+    {
+      "num": 17,
+      "title": "Moise la curtea Egiptului",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Copilul a crescut. Termuthis, neavând prunc, l-a înfiat și i-a pus numele Moise, din pricina apei: egiptenii zic apei «mo», iar celor scoși din apă «yses». L-a adus la tatăl ei, regele, ca pe un fiu al casei și, într-o zi, i-a pus pe cap diadema. Pruncul a trântit-o la pământ și a călcat-o. Un scrib sfânt, care vestise odinioară pieirea Egiptului printr-un copil evreu, a strigat să-l omoare. Termuthis l-a smuls. Dumnezeu a orbit sfatul ucigaș.",
+          "niese": "2.232-237"
+        },
+        {
+          "v": 2,
+          "t": "Moise a fost dat dascălilor egipteni. A întrecut vârsta în înțelepciune. Evreii nădăjduiau în el; egiptenii se temeau. El nu disprețuia pe ai săi, deși crescut în slava curții.",
+          "niese": "2.238-242"
+        }
+      ]
+    },
+    {
+      "num": 18,
+      "title": "Războiul cu etiopienii",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Etiopienii au năvălit în Egipt și au ajuns până la Memfis. Egiptenii, după oracol, au cerut pe Moise comandant. Termuthis i-a luat jurământ lui Faraon că nu-i va face rău. Moise a luat oastea. Ca să treacă pustiul plin de șerpi, a adus păsări ibis în lăzi; slobozite, ibisii au mistuit târâtoarele. A bătut pe etiopieni și i-a închis în Saba, cetatea de scaun — Meroe la elini.",
+          "niese": "2.238-253"
+        },
+        {
+          "v": 2,
+          "t": "Tharbis, fiica regelui etiopian, a văzut pe Moise de pe ziduri și s-a aprins de el. A trimis să-i ceară însoțire. El a primit, cu condiția predării cetății. A luat-o de soție, a încheiat războiul și s-a întors în Egipt.",
+          "niese": "2.252-253"
+        }
+      ]
+    },
+    {
+      "num": 19,
+      "title": "Fuga în Madian",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Egiptenii, pizmuind biruința, se sfătuiau să-l piardă. Moise, aflând, a fugit din calea regelui. A ajuns în cetatea Madian, lângă Marea Roșie. S-a odihnit la o fântână.",
+          "niese": "2.254-257"
+        },
+        {
+          "v": 2,
+          "t": "Șapte fete, fiicele lui Raguel (Ietro), preotul Madianului, au venit să adape oile. Păstorii le-au alungat. Moise le-a apărat și a adăpat turmele. Ele au spus tatălui. El l-a chemat, i-a dat-o pe Sefora de soție și i-a încredințat oile. I s-a născut Gherșom — «pribeag acolo».",
+          "niese": "2.258-263"
+        }
+      ]
+    },
+    {
+      "num": 20,
+      "title": "Rugul care ardea",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Moise păștea oile la muntele Sinai. A văzut un foc arzând într-un rug, iar rugul nu se mistuia. S-a apropiat. O glas i-a poruncit să-și scoată încălțămintea: locul e sfânt. Dumnezeu i-a spus că e Dumnezeul părinților, Avraam, Isaac și Iacov; a văzut necazul poporului în Egipt și îl trimite la Faraon să-l scoată.",
+          "niese": "2.264-269"
+        },
+        {
+          "v": 2,
+          "t": "Moise s-a scuzat că e greu de gură și că egiptenii nu-l vor crede. Dumnezeu i-a dat semne: toiagul prefăcut în șarpe și iarăși toiag; mâna vârâtă în sân, leproasă, apoi sănătoasă; apă din râu prefăcută în sânge. I-a zis că Aaron, fratele, va vorbi pentru el. Numele Său: «Cel ce este» — ce e de spus fiilor lui Israel.",
+          "niese": "2.270-276"
+        }
+      ]
+    },
+    {
+      "num": 21,
+      "title": "Întoarcerea în Egipt; întâlnirea cu Aaron",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Moise a cerut lui Ietro voie să meargă în Egipt, să-și vadă frații. A luat pe Sefora și pe fii. Pe drum, un înger l-a amenințat, pentru tăierea împrejur; Sefora a tăiat împrejur pe prunc, și primejdia a încetat.",
+          "niese": "2.277-280"
+        },
+        {
+          "v": 2,
+          "t": "Dumnezeu i-a poruncit lui Aaron să iasă în întâmpinarea lui Moise în pustie. S-au întâlnit, s-au sărutat și au vestit bătrânilor lui Israel semnele. Poporul a crezut și s-a închinat.",
+          "niese": "2.279-280"
+        }
+      ]
+    },
+    {
+      "num": 22,
+      "title": "Moise și Aaron înaintea lui Faraon",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Moise și Aaron s-au înfățișat lui Faraon și au cerut, în numele Dumnezeului lui Israel, să slobozească poporul să jertfească în pustie. Faraon a zis că nu-L cunoaște pe acest Dumnezeu și n-are să slobozească pe Israel. A poruncit să se îngreuneze munca: să nu li se mai dea paie, iar numărul cărămizilor să rămână. Poporul a cârțit împotriva lui Moise. El s-a întors la Dumnezeu. Dumnezeu i-a zis să meargă iarăși: cu mână tare va scoate poporul.",
+          "niese": "2.281-288"
+        },
+        {
+          "v": 2,
+          "t": "Înaintea lui Faraon, Aaron a aruncat toiagul; s-a făcut șarpe. Magii au făcut asemenea. Toiagul lui Aaron a înghițit toiegele lor. Inima lui Faraon s-a întărit.",
+          "niese": "2.284-287"
+        }
+      ]
+    },
+    {
+      "num": 23,
+      "title": "Rănile Egiptului",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Întâi: apa Nilului și a apelor Egiptului s-a prefăcut în sânge; peștii au murit; egiptenii n-au putut bea. Magii au făcut asemenea. A doua: broaște au acoperit țara, casele și paturile. Magii au făcut asemenea, dar n-au putut să le ia. Faraon a fagăduit slobozirea; scos fiind belșugul, s-a răzgândit. A treia: țânțarii (sau păduchii) din pulberea pământului. Magii n-au putut și au zis: «Degetul lui Dumnezeu e acesta.»",
+          "niese": "2.293-300"
+        },
+        {
+          "v": 2,
+          "t": "A patra: muște (sau fiare amestecate) asupra egiptenilor; Gosen a fost cruțat. A cincea: ciumă peste vitele egiptenilor. A șasea: bube și umflături pe oameni și dobitoace, din cenușa cuptorului. A șaptea: grindină cu foc, care a zdrobit ierburi, arbori și vitele rămase afară. A opta: lăcuste care au mâncat ce lăsase grindina. A noua: întuneric de trei zile, de se pipăia; la evrei era lumină. La fiecare rană Faraon fagăduia și, răul încetând, își întărea inima.",
+          "niese": "2.300-311"
+        },
+        {
+          "v": 3,
+          "t": "A zecea: Dumnezeu a vestit moartea întâilor născuți, de la întâiul lui Faraon până la întâiul robului și întâiul dobitocului. Evreilor li s-a poruncit să junghie un miel, să ungă ușorii cu sânge, să-l mănânce cu azime și ierburi amare, coapsele încinse, toiagul în mână. Aceasta e Paștile. Îngerul a lovit Egiptul la miezul nopții; casele unse au fost ocolite.",
+          "niese": "2.311-314"
+        }
+      ]
+    },
+    {
+      "num": 24,
+      "title": "Ieșirea",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Faraon și egiptenii au silit pe evrei să iasă. Aceștia au cerut de la egipteni vase de argint și de aur și haine; egiptenii au dat. Au ieșit, după Iosif, la șase sute de mii de bărbați de luptă, afară de copii, în anul al patrulea sută treizeci de la venirea lui Avraam în Canaan, în luna Xanthicos (Nisan), în a cincisprezecea zi. Au luat oasele lui Iosif, după jurământ.",
+          "niese": "2.315-319"
+        },
+        {
+          "v": 2,
+          "t": "Dumnezeu nu i-a dus pe drumul filistenilor, ci prin pustie, spre Marea Roșie. Un stâlp de nor mergea ziua înaintea lor, noaptea un stâlp de foc. Au tăbărât la Etam, apoi la Pi-Hahirot, între Migdol și mare, în fața Baal-Țefon.",
+          "niese": "2.320-323"
+        }
+      ]
+    },
+    {
+      "num": 25,
+      "title": "Urmărirea; marea",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Faraon, părându-i rău, a luat șase sute de care alese și toată oștirea de care și a urmărit pe evrei. Evreii, văzând oastea și marea înainte, s-au temut și au cârțit împotriva lui Moise: mai bine robi în Egipt decât morți în pustie. Moise le-a zis să nu se teamă: Dumnezeu va lupta.",
+          "niese": "2.324-333"
+        },
+        {
+          "v": 2,
+          "t": "Dumnezeu i-a poruncit lui Moise să-și întindă toiagul asupra mării. Un vânt de la miazănoapte (sau de răsărit) a despărțit apele toată noaptea. Marea s-a făcut zid la dreapta și la stânga. Evreii au trecut pe uscat. Îngerul și stâlpul s-au mutat în spate, între evrei și egipteni. Egiptenii au intrat după ei. Spre ziuă, Moise a întins iarăși mâna. Apele s-au întors. Carele, călăreții și oastea lui Faraon s-au înecat. N-a rămas nici unul. Evreii au văzut trupurile pe țărm.",
+          "niese": "2.334-344"
+        }
+      ]
+    },
+    {
+      "num": 26,
+      "title": "Cântarea; capătul Cărții a II-a",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Moise a alcătuit o cântare de mulțumire lui Dumnezeu, în hexametri, după Iosif, și a învățat-o pe evrei. Miriam a luat timpanul, și femeile au ieșit cu jocuri. Evreii au prădat armele egiptenilor scoase de mare și au pornit, încrezători, spre Sinai. Aici se încheie Cartea a II-a a Antichităților. Cartea a III-a începe cu drumul prin pustie, Mara, mana și Sinaiul.",
+          "niese": "2.345-349"
+        }
+      ]
+    }
+  ]
+}
