@@ -1230,7 +1230,7 @@
     font-family:'Inter', sans-serif;
     font-weight:700;
     font-size:13px;
-    color:var(--gold);
+    color:#fff;
     text-align:center;
     margin-bottom:12px;
   }
@@ -1271,14 +1271,11 @@
     cursor:pointer;
   }
   .vs-comment-row:last-of-type{border-bottom:none;}
-  .vs-comment-author{font-family:'Inter', sans-serif; font-weight:600; font-size:14px; color:var(--ink);}
+  .vs-comment-author{font-family:'Inter', sans-serif; font-weight:500; font-size:14px; color:var(--ink);}
   .vs-comment-preview{
     font-size:12.5px;
     color:var(--ink-soft);
     margin-top:2px;
-    overflow:hidden;
-    text-overflow:ellipsis;
-    white-space:nowrap;
   }
   .vs-comment-chev{color:var(--ink-soft); font-size:16px; flex-shrink:0; transition:transform 0.15s;}
   .vs-comment-row.open .vs-comment-chev{transform:rotate(90deg);}
@@ -1296,11 +1293,13 @@
     gap:5px;
     background:none;
     border:none;
-    color:var(--ink-soft);
+    color:#fff;
+    font-weight:600;
     cursor:pointer;
     padding:6px 2px;
     border-radius:10px;
   }
+  .vs-action span{font-weight:600;}
   .vs-action.active{color:var(--gold); background:rgba(111,151,207,0.12);}
   .vs-action svg{width:19px; height:19px;}
   .vs-action .vs-aa{font-family:'Inter', sans-serif; font-weight:800; font-size:15px; line-height:19px;}
@@ -1511,13 +1510,13 @@
     padding:8px 10px;
     margin-bottom:8px;
   }
-  .accordion-body .orig-block.greek{
+  .accordion-body .orig-block.greek, .vs-comment-full .orig-block.greek{
     font-family:'Fraunces', serif;
     direction:ltr;
     text-align:left;
     font-style:italic;
   }
-  .accordion-body .note{
+  .accordion-body .note, .vs-comment-full .note{
     font-size:13px;
     font-style:italic;
     color:var(--ink-soft);
@@ -2652,6 +2651,24 @@ function showVsToast(text){
   showVsToast._t = setTimeout(() => vsToast.classList.remove("show"), 1800);
 }
 
+let vsScrollY = 0;
+function lockBodyScroll(){
+  vsScrollY = window.scrollY || window.pageYOffset || 0;
+  document.body.style.position = "fixed";
+  document.body.style.top = (-vsScrollY) + "px";
+  document.body.style.left = "0";
+  document.body.style.right = "0";
+  document.body.style.width = "100%";
+}
+function unlockBodyScroll(){
+  document.body.style.position = "";
+  document.body.style.top = "";
+  document.body.style.left = "";
+  document.body.style.right = "";
+  document.body.style.width = "";
+  window.scrollTo(0, vsScrollY);
+}
+
 function openVerseSheet(verse, verseEl){
   vsCurrentVerse = verse;
   vsCurrentVerseEl = verseEl;
@@ -2665,6 +2682,7 @@ function openVerseSheet(verse, verseEl){
   renderVerseSheetTabs(verse);
   verseSheet.classList.add("show");
   verseSheetBackdrop.classList.add("show");
+  lockBodyScroll();
 }
 
 // --- Cele două taburi din foaia de verset: Comentarii (listă cu preview) și
@@ -2677,56 +2695,80 @@ function renderVerseSheetTabs(verse){
   const contentEl = document.getElementById("vs-tab-content");
   vsActiveTab = "comentarii";
 
+  // "Context literar-istoric" și "Istorici" (Josephus etc.) sunt azi comentarii
+  // ca oricare altele, dar aparțin conceptual tab-ului Texte, nu Comentarii.
+  const isAneOrHistorian = (author) => /istoric|josephus|flavius/i.test(author || "");
+
+  const allComments = (verse.commentaries || []);
+  const realComments = allComments.filter(c => !isAneOrHistorian(c.author));
+  const aneAndHistorians = allComments.filter(c => isAneOrHistorian(c.author));
+
+  function wordPreview(plainText, wordLimit){
+    const words = plainText.trim().split(/\s+/);
+    if(words.length <= wordLimit) return plainText.trim();
+    return words.slice(0, wordLimit).join(" ") + " …mai mult";
+  }
+
+  function appendCommentRow(container, author, htmlText){
+    const plain = (htmlText || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ");
+    const preview = wordPreview(plain, 8);
+    const row = document.createElement("div");
+    row.className = "vs-comment-row";
+    row.innerHTML =
+      '<div>' +
+        '<div class="vs-comment-author">' + author + '</div>' +
+        '<div class="vs-comment-preview">' + preview + '</div>' +
+      '</div>' +
+      '<span class="vs-comment-chev">›</span>';
+    const full = document.createElement("div");
+    full.className = "vs-comment-full";
+    full.style.display = "none";
+    full.innerHTML = htmlText;
+    row.addEventListener("click", () => {
+      const isOpen = full.style.display !== "none";
+      contentEl.querySelectorAll(".vs-comment-full").forEach(f => f.style.display = "none");
+      contentEl.querySelectorAll(".vs-comment-row").forEach(r => r.classList.remove("open"));
+      if(!isOpen){ full.style.display = "block"; row.classList.add("open"); }
+    });
+    container.appendChild(row);
+    container.appendChild(full);
+  }
+
   function renderTabContent(){
     contentEl.innerHTML = "";
     if(vsActiveTab === "comentarii"){
-      if(verse.commentaries && verse.commentaries.length){
-        verse.commentaries.forEach(c => {
-          const plain = (c.text || "").replace(/<[^>]+>/g, "");
-          const preview = plain.length > 90 ? plain.slice(0, 90) + "…" : plain;
-          const row = document.createElement("div");
-          row.className = "vs-comment-row";
-          row.innerHTML =
-            '<div>' +
-              '<div class="vs-comment-author">' + c.author + '</div>' +
-              '<div class="vs-comment-preview">' + preview + '</div>' +
-            '</div>' +
-            '<span class="vs-comment-chev">›</span>';
-          const full = document.createElement("div");
-          full.className = "vs-comment-full";
-          full.style.display = "none";
-          full.innerHTML = c.text;
-          row.addEventListener("click", () => {
-            const isOpen = full.style.display !== "none";
-            contentEl.querySelectorAll(".vs-comment-full").forEach(f => f.style.display = "none");
-            contentEl.querySelectorAll(".vs-comment-row").forEach(r => r.classList.remove("open"));
-            if(!isOpen){ full.style.display = "block"; row.classList.add("open"); }
-          });
-          contentEl.appendChild(row);
-          contentEl.appendChild(full);
-        });
+      if(realComments.length){
+        realComments.forEach(c => appendCommentRow(contentEl, c.author, c.text));
       } else {
         contentEl.innerHTML = '<div class="home-placeholder-note">Nu există comentarii pentru acest verset.</div>';
       }
     } else {
+      let hasAny = false;
       if(verse.textCompare && verse.textCompare.length){
-        const group = makeAccordionGroup(
-          "Comparație texte",
-          verse.textCompare.map(c => ({ headerLabel: c.source, data: c })),
-          item => {
-            const c = item.data;
-            const origClass = c.greek ? "orig-block greek" : "orig-block";
-            let html = `<div class="${origClass}">${c.original}</div>`;
-            html += `<div>${c.translation}</div>`;
-            if(c.note){
-              html += `<div class="note">${c.note}</div>`;
-            }
-            return html;
-          }
-        );
-        contentEl.appendChild(group);
-      } else {
-        contentEl.innerHTML = '<div class="home-placeholder-note">Nu există comparație de texte pentru acest verset.</div>';
+        hasAny = true;
+        const label = document.createElement("div");
+        label.className = "lib-section-title";
+        label.style.margin = "4px 0 4px";
+        label.textContent = "Comparație texte";
+        contentEl.appendChild(label);
+        verse.textCompare.forEach(c => {
+          let html = `<div class="orig-block${c.greek ? ' greek' : ''}">${c.original}</div>`;
+          html += `<div>${c.translation}</div>`;
+          if(c.note) html += `<div class="note">${c.note}</div>`;
+          appendCommentRow(contentEl, c.source, html);
+        });
+      }
+      if(aneAndHistorians.length){
+        hasAny = true;
+        const label = document.createElement("div");
+        label.className = "lib-section-title";
+        label.style.margin = "16px 0 4px";
+        label.textContent = "Context și istorici";
+        contentEl.appendChild(label);
+        aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text));
+      }
+      if(!hasAny){
+        contentEl.innerHTML = '<div class="home-placeholder-note">Nu există texte suplimentare pentru acest verset.</div>';
       }
     }
   }
@@ -2746,6 +2788,7 @@ function closeVerseSheet(){
   verseSheet.classList.remove("show");
   verseSheetBackdrop.classList.remove("show");
   verseSheetPanel.classList.remove("show");
+  unlockBodyScroll();
 }
 verseSheetBackdrop.addEventListener("click", closeVerseSheet);
 
