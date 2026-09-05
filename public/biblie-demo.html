@@ -1766,6 +1766,7 @@
     border-bottom:1px solid var(--glass-border);
   }
   .hero-menu-dropdown .hero-toggle-btn:active{ background:rgba(255,255,255,0.08); }
+  .hero-menu-dropdown .hero-toggle-btn.pressed{ background:var(--gold); color:#1e1400; }
   .hero-pattern{
     position:absolute;
     inset:0;
@@ -3401,10 +3402,11 @@ function goToRef(refText, anchorEl){
       return;
     }
 
-    if(currentBookSlug === "genesis" && currentChapter === targetChapter){
+    if(currentBookSlug === "genesis" && currentChapter === targetChapter && Array.isArray(VERSES) && VERSES.length){
       // deja e capitolul afișat — găsim direct versetul
       const targetVerse = VERSES.find(v => v.num === targetVerseNum);
       if(targetVerse){
+        switchTab("biblia");
         const el = document.querySelector(`.verse[data-num="${targetVerse.num}"]`);
         scrollToVerseAndFlash(el);
         return;
@@ -3952,6 +3954,8 @@ function closeHeroAccordion(){
 homeSections.push({ close: closeHeroAccordion, els: [heroToggleBtn, heroAccordion] });
 
 heroToggleBtn.addEventListener("click", () => {
+  heroToggleBtn.classList.add("pressed");
+  setTimeout(() => heroToggleBtn.classList.remove("pressed"), 250);
   if(heroMenuDropdown) heroMenuDropdown.style.display = "none";
   if(!currentVerseOfDayData || !currentVerseOfDayData.verse) return;
   currentBookSlug = currentVerseOfDayData.book.slug;
@@ -3965,6 +3969,8 @@ heroToggleBtn.addEventListener("click", () => {
 const heroReadChapterBtn = document.getElementById("hero-read-chapter-btn");
 if(heroReadChapterBtn){
   heroReadChapterBtn.addEventListener("click", () => {
+    heroReadChapterBtn.classList.add("pressed");
+    setTimeout(() => heroReadChapterBtn.classList.remove("pressed"), 250);
     if(heroMenuDropdown) heroMenuDropdown.style.display = "none";
     if(!currentVerseOfDayData || !currentVerseOfDayData.verse) return;
     const refText = currentVerseOfDayData.book.name + " " + currentVerseOfDayData.chapterNum + ":" + currentVerseOfDayData.verse.num;
@@ -4909,7 +4915,7 @@ function playEmbed(embedUrl, name){
   setMiniPlayPauseVisible(false);
   radioEmbedBox.innerHTML = '<iframe src="' + embedUrl + '"></iframe>';
   radioEmbedBox.style.display = "block";
-  setRadioStatus("apasă play mai jos — playerele externe cer o atingere manuală în majoritatea browserelor");
+  setRadioStatus("live acum");
   showRadioUI(name);
 }
 
