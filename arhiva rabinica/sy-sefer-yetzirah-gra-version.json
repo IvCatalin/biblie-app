@@ -1,0 +1,300 @@
+{
+  "slug": "kab-sy-sefer-yetzirah-gra-version",
+  "name": "Sefer Yetzirah Gra Version",
+  "meta": "6 capitole (complet) · 62 mișnaiot",
+  "author": "recensiune a Vilna Gaon (Gra) a textului Sefer Yetzirah",
+  "summary": "Recensiunea Gra (Vilna Gaon) a textului Sefer Yetzirah, tradusă integral direct din ebraica ediției Varșovia 1884 (domeniu public). Diferă în unele formulări de versiunea comună (Community Translation).",
+  "available": true,
+  "edition": {
+    "translation": "Sefer Yetzirah, versiunea Gra — adaptare după ebraica Warsaw 1884 (PD) și textul Gra de pe Sefaria",
+    "source": "Sefaria: Sefer Yetzirah Gra Version — HE Sefer Yetzirah, Warsaw 1884 (Public Domain). EN Kaplan pe Sefaria are licență unknown; nu e copiat ca text de bază.",
+    "source_status": "Public Domain (ebraică Warsaw 1884)",
+    "modernization": "Traducere în română după ebraica Gra / Warsaw 1884."
+  },
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Cele 32 de căi și cele 10 Sefirot Belimah",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Cu 32 de căi mistice ale Înțelepciunii a săpat Yah, Domnul oștirilor, Dumnezeul lui Israel, Dumnezeul cel viu, Împăratul lumii, El Șadai, milostiv și îndurător, înalt și înălțat, locuind în veșnicie, al Cărui Nume este Sfânt — El este înalt și sfânt — și a creat lumea Sa cu trei cărți (sefarim): cu text (sefer), cu numere (sefar) și cu rostire (sipur)."
+        },
+        {
+          "v": 2,
+          "t": "Zece Sefirot Belimah și 22 de Litere de Temelie: Trei Mame, Șapte Duble și Douăsprezece Simple."
+        },
+        {
+          "v": 3,
+          "t": "Zece Sefirot Belimah, după numărul a zece degete, cinci față în față cu cinci, cu un legământ unic tocmai la mijloc: în tăierea împrejur a limbii și în tăierea împrejur a mădularului."
+        },
+        {
+          "v": 4,
+          "t": "Zece Sefirot Belimah: zece și nu nouă, zece și nu unsprezece. Înțelege cu Înțelepciune, fii înțelept cu Înțelegere, cercetează cu ele și sondează din ele. Fă să stea fiecare lucru pe esența sa și așază pe Făcător pe temelia Sa."
+        },
+        {
+          "v": 5,
+          "t": "Zece Sefirot Belimah: măsura lor este zece, care n-au sfârșit. O adâncime a începutului, o adâncime a sfârșitului, o adâncime a binelui, o adâncime a răului, o adâncime a susului, o adâncime a josului, o adâncime a răsăritului, o adâncime a apusului, o adâncime a miazănoapte, o adâncime a miazăzi. Stăpânul unic, Dumnezeu Împărat credincios, stăpânește peste toate, din locuința Sa sfântă, până în veacul veacurilor."
+        },
+        {
+          "v": 6,
+          "t": "Zece Sefirot Belimah: vederea lor este ca «înfățișarea fulgerului»; hotarul lor n-are sfârșit. Și Cuvântul Lui în ele este «alergând și întorcându-se». Aleargă la zicerea Lui ca un vârtej și înaintea tronului Său se prosternează."
+        },
+        {
+          "v": 7,
+          "t": "Zece Sefirot Belimah: sfârșitul lor este înfipt în începutul lor, și începutul lor în sfârșitul lor, ca o flacără în cărbunele care arde. Căci Stăpânul este unic; n-are al doilea. Și înaintea Unului, ce numeri?"
+        },
+        {
+          "v": 8,
+          "t": "Zece Sefirot Belimah: înfrânează-ți gura de la vorbire și inima de la cugetare. Iar dacă gura ta aleargă să vorbească și inima să cugete, întoarce-te la loc. De aceea este scris: «Făpturile alergând și întorcându-se» (Ezechiel 1:14). Asupra acesteia s-a făcut un legământ."
+        },
+        {
+          "v": 9,
+          "t": "Zece Sefirot Belimah: Una este Suflarea Dumnezeului celui viu. Binecuvântat și preamărit este Numele Vieții lumilor. Glasul suflării și al vorbirii. Și aceasta este Suflarea Sfântă."
+        },
+        {
+          "v": 10,
+          "t": "Două: Suflare din Suflare. Cu ea a săpat și a cioplit 22 de Litere de Temelie: Trei Mame, Șapte Duble și Douăsprezece Simple. Și o Suflare este din ele."
+        },
+        {
+          "v": 11,
+          "t": "Trei: Apă din Suflare. Cu ea a săpat și a cioplit [22 de litere din] haos și gol, noroi și lut. Le-a săpat ca un fel de grădină, le-a cioplit ca un fel de zid, le-a acoperit ca un fel de tavan. [Și a turnat zăpadă peste ele și s-a făcut țărână, după cum este scris: «Căci zăpezii i-a zis: Devino pământ» (Iov 37:6).]"
+        },
+        {
+          "v": 12,
+          "t": "Patru: Foc din Apă. Cu el a săpat și a cioplit Tronul Slavei, Serafimi, Ofanimi și Făpturi sfinte și îngeri slujitori. Din aceste trei și-a întemeiat locuința, după cum este scris: «Face pe îngerii Săi suflări, pe slujitorii Săi foc care arde» (Psalmi 104:4)."
+        },
+        {
+          "v": 13,
+          "t": "A ales trei litere dintre Simple [în taina celor Trei Mame Alef Mem Șin] și le-a așezat în Numele Său cel mare și cu ele a pecetluit șase extremități. Cinci: a pecetluit «sus» și s-a întors în sus și a pecetluit cu Yud He Vav. Șase: a pecetluit «jos» și s-a întors în jos și a pecetluit cu He Yud Vav. Șapte: a pecetluit «răsărit» și s-a întors înainte și a pecetluit cu Vav Yud He. Opt: a pecetluit «apus» și s-a întors înapoi și a pecetluit cu Vav He Yud. Nouă: a pecetluit «miazăzi» și s-a întors la dreapta și a pecetluit cu Yud Vav He. Zece: a pecetluit «miazănoapte» și s-a întors la stânga și a pecetluit cu He Vav Yud."
+        },
+        {
+          "v": 14,
+          "t": "Acestea sunt cele Zece Sefirot Belimah: Suflarea Dumnezeului celui viu, Suflare din Suflare, Apă din Suflare, Foc din Apă, sus, jos, răsărit, apus, miazănoapte, miazăzi."
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Cele 22 de Litere de Temelie",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Douăzeci și două de Litere de Temelie: Trei Mame, Șapte Duble și Douăsprezece Simple. Cele Trei Mame sunt Alef Mem Șin; temelia lor este un taler al meritului, un taler al vinovăției și limba decretului care hotărăște între ele. [Trei Mame Alef Mem Șin: Mem murmurează, Șin șuieră, și Alef este Suflarea aerului care hotărăște între ele.]"
+        },
+        {
+          "v": 2,
+          "t": "Douăzeci și două de Litere de Temelie: le-a săpat, le-a cioplit, le-a permutat, le-a cântărit, le-a preschimbat, și cu ele a înfățișat tot ce a fost format și tot ce avea să fie format."
+        },
+        {
+          "v": 3,
+          "t": "Douăzeci și două de Litere de Temelie: le-a săpat cu glas, le-a cioplit cu suflare, le-a așezat în gură în cinci locuri: Alef Het He Ayin în gâtlej; Ghimel Yud Kaf Quf în cerul gurii; Dalet Tet Lamed Nun Tav pe limbă; Zayin Samekh Șin Reș Țade pe dinți; Bet Vav Mem Pe pe buze."
+        },
+        {
+          "v": 4,
+          "t": "Douăzeci și două de Litere de Temelie: le-a așezat într-un cerc, ca un zid cu 231 de porți. Cercul oscilează înainte și înapoi. Un semn pentru aceasta: nu este nimic în bine mai sus decât Plăcerea (Oneg), nu este nimic în rău mai jos decât Plaga (Nega)."
+        },
+        {
+          "v": 5,
+          "t": "Cum? Le-a permutat, le-a cântărit și le-a preschimbat: Alef cu toate și toate cu Alef, Bet cu toate și toate cu Bet. Se repetă într-un ciclu și există în 231 de porți. Iese că tot ce este format și tot ce este vorbit emanează dintr-un singur Nume."
+        },
+        {
+          "v": 6,
+          "t": "A format substanță din haos și a făcut neexistența existență. A cioplit stâlpi mari din aer care nu pot fi cuprinși. Acesta este un semn [Alef cu toate și toate cu Alef]. Previde, preschimbă și face tot ce este format și tot ce este vorbit: un Nume. Un semn pentru lucrul acesta: douăzeci și două de obiecte într-un singur trup."
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Cele Trei Mame Alef Mem Șin",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Trei Mame: Alef Mem Șin. Temelia lor este un taler al meritului, un taler al vinovăției și limba decretului care hotărăște între ele."
+        },
+        {
+          "v": 2,
+          "t": "Trei Mame: Alef Mem Șin. O taină mare, mistică, acoperită și pecetluită cu șase inele. Și din ele au emanat aer, apă și foc. Și din ele sunt născuți Părinții, și din Părinți, urmașii."
+        },
+        {
+          "v": 3,
+          "t": "Trei Mame: Alef Mem Șin. Le-a săpat, le-a cioplit, le-a permutat, le-a cântărit, le-a preschimbat, și cu ele a înfățișat Trei Mame AMȘ în Univers, Trei Mame AMȘ în An, Trei Mame AMȘ în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 4,
+          "t": "Trei Mame AMȘ în Univers sunt aer, apă, foc. Cerul a fost creat din foc, pământul a fost creat din apă, și aerul din Suflare hotărăște între ele."
+        },
+        {
+          "v": 5,
+          "t": "Trei Mame AMȘ în An sunt caldul, recele și temperatului. Caldul este creat din foc, recele este creat din apă, și temperatului, din Suflare, hotărăște între ele."
+        },
+        {
+          "v": 6,
+          "t": "Trei Mame AMȘ în Suflet, bărbat și femeie, sunt capul, pântecele și pieptul. Capul este creat din foc, pântecele este creat din apă, și pieptul, din suflare, hotărăște între ele."
+        },
+        {
+          "v": 7,
+          "t": "A făcut litera Alef împărat peste Suflare și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Aerul în Univers, temperatului în An și pieptul în Suflet: bărbatul cu AMȘ și femeia cu AȘM."
+        },
+        {
+          "v": 8,
+          "t": "A făcut pe Mem împărat peste apă și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Pământul în Univers, Recele în An și pântecele în Suflet: bărbatul cu MAȘ și femeia cu MȘA."
+        },
+        {
+          "v": 9,
+          "t": "A făcut pe Șin împărat peste foc și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Cerul în Univers, Caldul în An și capul în Suflet: bărbatul cu ȘAM și femeia cu ȘMA."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Cele Șapte Duble BGD KPRT",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Șapte Duble: Bet, Ghimel, Dalet, Kaf, Pe, Reș, Tav. Se îndreaptă cu două limbi: Bet-Bhet, Ghimel-Ghimel, Dalet-Dhalet, Kaf-Khaf, Pe-Phe, Reș-Rheș, Tav-Thav; o structură de moale și tare, tare și slab."
+        },
+        {
+          "v": 2,
+          "t": "Șapte Duble BGD KPRT. Temelia lor este Înțelepciunea, Bogăția, Sămânța, Viața, Stăpânirea, Pacea și Harul."
+        },
+        {
+          "v": 3,
+          "t": "Șapte Duble BGD KPRT în vorbire și în transpunere. Transpusul Înțelepciunii este Nebunia; transpusul Bogăției este Sărăcia; transpusul Seminței este Pustiul; transpusul Vieții este Moartea; transpusul Stăpânirii este Robia; transpusul Păcii este Războiul; transpusul Harului este Urâțenia."
+        },
+        {
+          "v": 4,
+          "t": "Șapte Duble BGD KPRT: sus și jos, răsărit și apus, miazănoapte și miazăzi. Și Palatul Sfânt tocmai la mijloc, și el le sprijină pe toate."
+        },
+        {
+          "v": 5,
+          "t": "Șapte Duble BGD KPRT: șapte și nu șase, șapte și nu opt. Cercetează cu ele și sondează cu ele. Fă să stea fiecare lucru pe esența sa și așază pe Făcător pe temelia Sa."
+        },
+        {
+          "v": 6,
+          "t": "Șapte Duble BGD KPRT de Temelie. Le-a săpat, le-a cioplit, le-a permutat, le-a cântărit, le-a preschimbat, și cu ele a format șapte planete în Univers, șapte zile în An, șapte porți în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 7,
+          "t": "Șapte planete în Univers: Saturn, Jupiter, Marte, Soarele, Venus, Mercur, Luna. Șapte zile în An: cele șapte zile ale săptămânii. Șapte porți în Suflet, bărbat și femeie: doi ochi, două urechi, două nări și gura."
+        },
+        {
+          "v": 8,
+          "t": "A făcut litera Bet împărat peste Înțelepciune și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Luna în Univers, Duminica în An, ochiul drept în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 9,
+          "t": "A făcut litera Ghimel împărat peste Bogăție și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Marte în Univers, Lunea în An, urechea dreaptă în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 10,
+          "t": "A făcut litera Dalet împărat peste Sămânță și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Soarele în Univers, Marțea în An, nara dreaptă în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 11,
+          "t": "A făcut litera Kaf împărat peste Viață și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Venus în Univers, Miercurea în An, ochiul stâng în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 12,
+          "t": "A făcut litera Pe împărat peste Stăpânire și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Mercur în Univers, Joia în An, urechea stângă în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 13,
+          "t": "A făcut litera Reș împărat peste Pace și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Saturn în Univers, Vinerea în An, nara stângă în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 14,
+          "t": "A făcut litera Tav împărat peste Har și i-a legat o coroană și le-a combinat una cu alta și cu ele a format Jupiter în Univers, Sabatul în An, gura în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 15,
+          "t": "Șapte Duble BGD KPRT. Cu ele au fost săpate șapte universuri, șapte firmamente, șapte țări, șapte mări, șapte râuri, șapte pustiuri, șapte zile, șapte săptămâni, șapte ani, șapte ani sabatici, șapte jubilee și Palatul Sfânt. De aceea a făcut șapte iubite sub toate cerurile."
+        },
+        {
+          "v": 16,
+          "t": "Două pietre zidesc 2 case. Trei pietre zidesc 6 case. Patru pietre zidesc 24 de case. Cinci pietre zidesc 120 de case. Șase pietre zidesc 720 de case. Șapte pietre zidesc 5040 de case. De aici înainte ieși și calculează ceea ce gura nu poate vorbi și urechea nu poate auzi."
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Cele Douăsprezece Simple",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Douăsprezece Simple: He, Vav, Zayin, Het, Tet, Yud, Lamed, Nun, Samekh, Ayin, Țade, Quf. Temelia lor este vorbirea, cugetarea, umblarea, vederea, auzul, fapta, împreunarea, mirosul, somnul, mânia, înghițirea, râsul."
+        },
+        {
+          "v": 2,
+          "t": "Douăsprezece Simple HVZ HTY LNS OȚQ. Temelia lor sunt cele douăsprezece hotare în diagonală: hotarul răsăritean de sus, hotarul răsăritean de miazănoapte, hotarul răsăritean de jos; hotarul de miazăzi de sus, hotarul de miazăzi-răsărit, hotarul de miazăzi de jos; hotarul apusean de sus, hotarul apusean de miazăzi, hotarul apusean de jos; hotarul de miazănoapte de sus, hotarul de miazănoapte-apus, hotarul de miazănoapte de jos. Se lărgesc și merg până în veacul veacurilor, și ele sunt hotarele Universului."
+        },
+        {
+          "v": 3,
+          "t": "Douăsprezece Simple HVZ HTY LNS OȚQ. Temelia lor: le-a săpat, le-a cioplit, le-a permutat, le-a cântărit și le-a preschimbat, și cu ele a format douăsprezece constelații în Univers, douăsprezece luni în An și doișprezece cârmuitori în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 4,
+          "t": "Douăsprezece constelații în Univers: Berbecul, Taurul, Gemenii, Racul, Leul, Fecioara, Balanța, Scorpionul, Săgetătorul, Capricornul, Vărsătorul, Peștii."
+        },
+        {
+          "v": 5,
+          "t": "Douăsprezece luni în an: Nisan, Iyar, Sivan, Tamuz, Av, Elul, Tișrei, Heșvan, Kislev, Tevet, Șevat, Adar."
+        },
+        {
+          "v": 6,
+          "t": "Doișprezece cârmuitori în suflet, bărbat și femeie: două mâini, două picioare, doi rinichi, fierea, intestinele, ficatul, stomacul păsării (korkeban), cheagul, splina."
+        },
+        {
+          "v": 7,
+          "t": "A făcut litera He împărat peste vorbire și i-a legat o coroană și le-a combinat și a format Berbecul în Univers, Nisan în An și piciorul drept în Suflet, bărbat și femeie. A făcut litera Vav împărat peste cugetare și i-a legat o coroană și a format Taurul în Univers, Iyar în An și rinichiul drept în Suflet, bărbat și femeie. A făcut litera Zayin împărat peste umblare și i-a legat o coroană și a format Gemenii în Univers, Sivan în An și piciorul stâng în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 8,
+          "t": "A făcut litera Het împărat peste vedere și i-a legat o coroană și a format Racul în Univers, Tamuz în An și mâna dreaptă în Suflet, bărbat și femeie. A făcut litera Tet împărat peste auz și i-a legat o coroană și a format Leul în Univers, Av în An și rinichiul stâng în Suflet, bărbat și femeie. A făcut litera Yud împărat peste faptă și i-a legat o coroană și a format Fecioara în Univers, Elul în An și mâna stângă în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 9,
+          "t": "A făcut litera Lamed împărat peste împreunare și i-a legat o coroană și a format Balanța în Univers, Tișrei în An și fierea în Suflet, bărbat și femeie. A făcut litera Nun împărat peste miros și i-a legat o coroană și a format Scorpionul în Univers, Heșvan în An și intestinele în Suflet, bărbat și femeie. A făcut litera Samekh împărat peste somn și i-a legat o coroană și a format Săgetătorul în Univers, Kislev în An și cheagul în Suflet, bărbat și femeie."
+        },
+        {
+          "v": 10,
+          "t": "A făcut litera Ayin împărat peste mânie și i-a legat o coroană și a format Capricornul în Univers, Tevet în An și ficatul în Suflet, bărbat și femeie. A făcut litera Țade împărat peste înghițire și i-a legat o coroană și a format Vărsătorul în Univers, Șevat în An și korkeban în Suflet, bărbat și femeie. A făcut litera Quf împărat peste râs și i-a legat o coroană și a format Peștii în Univers, Adar în An și splina în Suflet, bărbat și femeie. Le-a făcut ca un jgheab, le-a rânduit ca un zid, le-a așezat ca o bătălie."
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Teli, roata și inima; Avraam",
+      "verses": [
+        {
+          "v": 1,
+          "t": "Acestea sunt Trei Mame AMȘ, și din ele au ieșit trei Părinți, care sunt aer, apă, foc, și din Părinți urmașii; trei Părinți și urmașii lor, și șapte stele și oștirile lor, și douăsprezece hotare în diagonală. Mărturie a lucrului: martori credincioși în lume, an, suflet; și doisprezece hotare, și șapte, și trei; le-a rânduit în Teli, în Roată și în Inimă."
+        },
+        {
+          "v": 2,
+          "t": "Trei Mame AMȘ: aer, apă, foc. Focul sus, apa jos, și aerul-suflare, decret care hotărăște între ele. Și un semn al lucrului: focul poartă apa. Mem murmurează, Șin șuieră, Alef aer-suflare, decret care hotărăște între ele."
+        },
+        {
+          "v": 3,
+          "t": "Teli în lume ca un împărat pe tronul său; Roata în an ca un împărat în cetate [altă versiune: pe zid]; Inima în suflet ca un împărat în bătălie."
+        },
+        {
+          "v": 4,
+          "t": "Și pe acesta față de acela i-a făcut Dumnezeu: bine față de rău, rău față de bine; bine din bine, rău din rău. Binele deosebește răul, și răul deosebește binele. Bine păzit pentru cei buni, și rău păzit pentru cei răi."
+        },
+        {
+          "v": 5,
+          "t": "Trei: fiecare stă singur; unul îndreptățește, unul osândește, unul hotărăște între ei. Șapte: trei față de trei, și unul decret care hotărăște între ei. Și doisprezece stau în bătălie: trei iubesc, trei urăsc, trei țin în viață, trei omoară. Trei care iubesc: inima și urechile. Trei care urăsc: ficatul, fierea și limba. Trei care țin în viață: cele două nări și splina. Și trei care omoară: cele două orificii și gura. Și El, Împărat credincios, stăpânește peste toate, din locuința Sa sfântă, până în veacul veacurilor. Unul peste trei, trei peste șapte, șapte peste doisprezece, și toate sunt prinse una de alta."
+        },
+        {
+          "v": 6,
+          "t": "Acestea sunt cele douăzeci și două de litere cu care a săpat Ehyeh, Yah, YHWH, Elohim, Elohim YHWH, YHWH Țevaot, Elohim Țevaot, El Șadai, YHWH Adonai, și a făcut din ele trei cărți, și a creat din ele toată lumea Sa, și a format cu ele tot ce este format și tot ce avea să fie format."
+        },
+        {
+          "v": 7,
+          "t": "Când a venit Avraam, părintele nostru, pacea asupra lui, a privit și a văzut și a înțeles și a cercetat și a săpat și a cioplit, și i-a izbutit creația, după cum s-a zis: «și sufletele pe care le-au făcut în Haran». Îndată s-a descoperit asupra lui Stăpânul tuturor, binecuvântat să fie Numele Lui în veac, și l-a așezat în sânul Său și l-a sărutat pe cap și l-a chemat «Avraam, iubitul Meu», și a tăiat legământ cu el și cu sămânța lui până în veac, după cum s-a zis: «Și a crezut în Domnul, și I s-a socotit ca dreptate». Și a tăiat cu el legământ între cele zece degete ale mâinilor lui — acesta este legământul limbii — și între cele zece degete ale picioarelor lui — acesta este legământul tăierii împrejur. Și a legat cele douăzeci și două de litere ale Torei de limba lui și i-a descoperit taina Sa: le-a scufundat în apă, le-a aprins în foc, le-a clătinat în vânt, le-a ars în șapte, le-a cârmuit în cele douăsprezece constelații."
+        }
+      ]
+    }
+  ]
+}
