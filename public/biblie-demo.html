@@ -226,11 +226,10 @@
     gap:6px;
     font-family:'Inter', sans-serif;
     font-size:14px;
-    background:var(--parchment);
-    border:1px solid var(--line);
+    background:none;
+    border:none;
     color:var(--ink);
-    border-radius:20px;
-    padding:8px 14px;
+    padding:8px 12px;
     cursor:pointer;
     min-width:0;
   }
@@ -246,7 +245,13 @@
   .book-pill-group{
     display:flex;
     align-items:center;
-    gap:8px;
+    background:var(--parchment);
+    border:1px solid var(--line);
+    border-radius:20px;
+  }
+  .book-pill-divider{
+    color:var(--line);
+    font-size:14px;
   }
   .translation-selector{
     position:relative;
@@ -928,6 +933,7 @@
   }
   .verse:active, .verse.open{background:rgba(59,130,246,0.12);}
   .verse.bookmarked{background:rgba(111,151,207,0.16); border-left:3px solid var(--gold); padding-left:9px; margin-left:-12px;}
+  .verse.verse-flash{background:rgba(240,196,25,0.28); border-radius:8px; transition:background 1.3s ease;}
   .vnum{
     font-family:'Inter', sans-serif;
     font-size:12px;
@@ -2151,6 +2157,7 @@
         <span id="book-pill-label">Geneza 1</span>
         <span class="book-pill-arrow">▾</span>
       </button>
+      <span class="book-pill-divider">|</span>
       <div class="translation-selector" id="translation-selector">
         <button class="book-pill" id="translation-selector-btn">
           <span id="translation-selector-label">Tora</span>
@@ -2825,7 +2832,7 @@ document.querySelectorAll(".vs-action").forEach(btn => {
       const current = vsGetMarkColor();
       const next = current === "none" ? "yellow" : "none";
       try { localStorage.setItem(vsKey("mark"), next); } catch(e){}
-      applyVerseMarkStyle(vsCurrentVerseEl, currentBookSlug, currentChapter, vsCurrentVerse.num);
+      if(vsCurrentVerseEl) applyVerseMarkStyle(vsCurrentVerseEl, currentBookSlug, currentChapter, vsCurrentVerse.num);
       showVsToast(next !== "none" ? "Verset marcat" : "Verset demarcat");
       closeVerseSheet();
       return;
@@ -3068,6 +3075,15 @@ function highlightVerse(verseEl){
     verseEl.classList.add("verse-speaking");
     ttsCurrentVerseEl = verseEl;
   }
+}
+
+// Navigare pură către un verset (din "Citește capitolul", trimiteri, etc.) —
+// doar derulează la el și îl evidențiază scurt, FĂRĂ să deschidă bara/foaia.
+function scrollToVerseAndFlash(verseEl){
+  if(!verseEl) return;
+  verseEl.scrollIntoView({ behavior: "smooth", block: "center" });
+  verseEl.classList.add("verse-flash");
+  setTimeout(() => verseEl.classList.remove("verse-flash"), 1600);
 }
 
 function stopTts(){
@@ -3390,7 +3406,7 @@ function goToRef(refText, anchorEl){
       const targetVerse = VERSES.find(v => v.num === targetVerseNum);
       if(targetVerse){
         const el = document.querySelector(`.verse[data-num="${targetVerse.num}"]`);
-        openVerseSheet(targetVerse, el);
+        scrollToVerseAndFlash(el);
         return;
       }
     }
@@ -3426,7 +3442,7 @@ function loadChapterThenOpenVerse(chapterNum, verseNum){
     if(targetVerse){
       switchTab("biblia");
       const el = document.querySelector(`.verse[data-num="${targetVerse.num}"]`);
-      openVerseSheet(targetVerse, el);
+      scrollToVerseAndFlash(el);
     }
   };
   document.body.appendChild(script);
@@ -3937,29 +3953,10 @@ homeSections.push({ close: closeHeroAccordion, els: [heroToggleBtn, heroAccordio
 
 heroToggleBtn.addEventListener("click", () => {
   if(heroMenuDropdown) heroMenuDropdown.style.display = "none";
-  const isOpen = heroAccordion.style.display !== "none";
-  if(isOpen){
-    closeHeroAccordion();
-    return;
-  }
-  closeOtherHomeSections(closeHeroAccordion);
-  if(!heroAccordionBuilt && currentVerseOfDayData && currentVerseOfDayData.verse){
-    const verse = currentVerseOfDayData.verse; // versetul zilei REAL, nu mai e fix Geneza 1:1
-    heroAccordion.innerHTML = "";
-    if(verse.commentaries && verse.commentaries.length){
-      const group = makeAccordionGroup(
-        "Comentarii",
-        verse.commentaries.map(c => ({ headerLabel: c.author, text: c.text })),
-        item => item.text
-      );
-      heroAccordion.appendChild(group);
-    } else {
-      heroAccordion.innerHTML = '<div class="home-placeholder-note">Nu există comentarii pentru acest verset.</div>';
-    }
-    heroAccordionBuilt = true;
-  }
-  heroAccordion.style.display = "block";
-  heroToggleBtn.textContent = "Notă de studiu ▴";
+  if(!currentVerseOfDayData || !currentVerseOfDayData.verse) return;
+  currentBookSlug = currentVerseOfDayData.book.slug;
+  currentChapter = currentVerseOfDayData.chapterNum;
+  openVerseSheet(currentVerseOfDayData.verse, null);
 });
 
 // Acasă — butonul "Citește capitolul" de sub versetul zilei: te duce direct
