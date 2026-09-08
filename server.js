@@ -29,9 +29,24 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
-// Servește aplicația (biblie-demo.html, genesis-N.js) direct din acest server —
-// pagina se accesează la adresa de bază (ex. https://numele-tau.onrender.com/biblie-demo.html)
-app.use(express.static(path.join(__dirname, "public")));
+// Servește aplicația (biblie-demo.html, genesis-N.js, images/) direct din acest
+// server — pagina se accesează la adresa de bază.
+//
+// maxAge + immutable: spune browserului "ține minte fișierele astea 30 de zile,
+// nu le mai recere". Fără asta, fiecare vizită (chiar și a doua oară aceeași zi)
+// re-descarcă toate cele 49 de poze de la zero, ca și cum nu le-ar fi văzut
+// niciodată. Cu asta, doar prima vizită le descarcă; restul, instant din cache.
+// (biblie-demo.html și genesis-N.js NU intră în regula asta — acelea se schimbă
+// des, cu fiecare actualizare, și trebuie mereu proaspete.)
+app.use(express.static(path.join(__dirname, "public"), {
+  setHeaders: (res, filePath) => {
+    if (filePath.includes(path.join("public", "images"))) {
+      res.setHeader("Cache-Control", "public, max-age=2592000, immutable"); // 30 zile
+    } else {
+      res.setHeader("Cache-Control", "no-cache");
+    }
+  }
+}));
 
 // Adresa de bază (ex. https://biblie-app.onrender.com fără nimic după) nu
 // știa să deschidă automat pagina — dădea "Cannot GET /". Acum redirecționează
