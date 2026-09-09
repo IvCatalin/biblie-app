@@ -50,32 +50,18 @@
   .app{max-width:480px; margin:0 auto; min-height:100vh; min-height:100dvh; display:flex; flex-direction:column; position:relative; overflow-x:hidden; overflow-y:visible; width:100%;}
   img, svg{max-width:100%;}
 
-  /* Acasă — cardurile se "depun" unul peste altul cât derulezi (Versetul
-     zilei, apoi Pericopa, Meditații, Sărbători). Fiecare rămâne prins la o
-     poziție fixă sub antet, iar următorul alunecă peste el. Complet automat,
-     reversibil la scroll înapoi — nu e nevoie de JavaScript, doar CSS
-     position:sticky, aceeași tehnică folosită de Apple Wallet și paginile
-     de produs Apple. */
-  #tab-acasa .hero-verse-card{
-    position:sticky;
-    top:70px;
-    z-index:10;
+  /* Acasă — cardurile se "depun" unul peste altul cât derulezi. Controlat
+     100% din JavaScript (position:fixed, nu sticky) — sticky are bug-uri
+     cunoscute pe unele versiuni de Safari/iPhone; fixed controlat manual
+     funcționează identic peste tot, garantat. */
+  #tab-acasa .hero-verse-card.js-pinned,
+  #tab-acasa .home-card.js-pinned{
+    position:fixed;
+    left:16px; right:16px;
+    max-width:448px;
+    margin:0 auto;
   }
-  #tab-acasa .home-card:nth-of-type(1){
-    position:sticky;
-    top:80px;
-    z-index:11;
-  }
-  #tab-acasa .home-card:nth-of-type(2){
-    position:sticky;
-    top:90px;
-    z-index:12;
-  }
-  #tab-acasa .home-card:nth-of-type(3){
-    position:sticky;
-    top:100px;
-    z-index:13;
-  }
+  #tab-acasa .hero-verse-card, #tab-acasa .home-card{ z-index:10; }
 
   header{
     padding:calc(18px + env(safe-area-inset-top, 0px)) 20px 14px;
@@ -4259,6 +4245,62 @@ const tabPanels = {
 };
 const bottomTabBtns = document.querySelectorAll(".bottom-tab-btn");
 
+// Acasă — antetul rămas fix + cardurile care se depun unul peste altul cât
+// derulezi. Controlat 100% din JavaScript (translateY calculat la fiecare
+// scroll), NU din CSS position:sticky — sticky are comportament nesigur pe
+// unele versiuni de Safari/iPhone. Metoda asta funcționează identic peste
+// tot, garantat, fiindcă noi calculăm exact poziția, nu browserul.
+(function(){
+  try{
+  const tabAcasa = document.getElementById("tab-acasa");
+  if(!tabAcasa) return;
+  const header = tabAcasa.querySelector("header");
+  if(!header) return;
+  const cards = [tabAcasa.querySelector(".hero-verse-card")]
+    .concat(Array.from(tabAcasa.querySelectorAll(".home-card")))
+    .filter(Boolean);
+
+  let naturalTops = [];
+  let pinYs = [];
+
+  function measure(){
+    header.style.transform = "";
+    cards.forEach(c => { c.style.transform = ""; });
+    const headerNaturalTop = header.getBoundingClientRect().top + window.scrollY;
+    let pin = 0; // antetul se prinde chiar la marginea de sus a ecranului
+    const headerPinY = pin;
+    const headerH = header.getBoundingClientRect().height;
+    pin = headerH + 10;
+    naturalTops = [headerNaturalTop].concat(cards.map(c => c.getBoundingClientRect().top + window.scrollY));
+    pinYs = [headerPinY];
+    cards.forEach(() => { pinYs.push(pin); pin += 10; });
+  }
+
+  function pin(el, naturalTop, pinY, z){
+    const naturalViewportTop = naturalTop - window.scrollY;
+    if(naturalViewportTop < pinY){
+      el.style.transform = "translateY(" + (pinY - naturalViewportTop) + "px)";
+      el.style.position = "relative";
+      el.style.zIndex = z;
+    } else {
+      el.style.transform = "";
+    }
+  }
+
+  function update(){
+    if(tabAcasa.style.display === "none") return;
+    pin(header, naturalTops[0], pinYs[0], 40);
+    cards.forEach((c, i) => pin(c, naturalTops[i+1], pinYs[i+1], 10 + i));
+  }
+
+  measure();
+  update();
+  window.addEventListener("scroll", update, { passive: true });
+  window.addEventListener("resize", measure);
+  window.acasaStackMeasure = measure; // apelat din switchTab, cât timp tab-ul devine vizibil
+  } catch(e){ console.error("Acasă stack pin:", e); }
+})();
+
 function switchTab(name){
   if(typeof closeVerseSheet === "function") closeVerseSheet();
   if(typeof hideWordPopover === "function") hideWordPopover();
@@ -4269,6 +4311,9 @@ function switchTab(name){
   bottomTabBtns.forEach(btn => btn.classList.toggle("active", btn.dataset.tab === name));
   window.scrollTo({ top: 0 });
   if(typeof updateChapterNavFloat === "function") updateChapterNavFloat();
+  if(name === "acasa" && window.acasaStackMeasure){
+    setTimeout(window.acasaStackMeasure, 0);
+  }
 }
 
 bottomTabBtns.forEach(btn => {
