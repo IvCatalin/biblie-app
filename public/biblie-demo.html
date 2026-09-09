@@ -1702,6 +1702,28 @@
   .app{padding-bottom:calc(78px + env(safe-area-inset-bottom, 0px));}
   .tab-panel{min-height:calc(100vh - 78px);}
 
+  /* Diverse, Radio, Setări — pagină complet fixă: capul de sus și dock-ul de
+     jos nu se mai mișcă niciodată. Zona din mijloc umple exact spațiul rămas;
+     dacă vreodată conținutul nu ar încăpea, doar acea zonă ar derula intern,
+     izolat, fără să atingă restul. */
+  #tab-diverse, #tab-radio, #tab-setari{
+    display:flex;
+    flex-direction:column;
+    height:100vh;
+    height:100dvh;
+    overflow:hidden;
+  }
+  #tab-diverse > header, #tab-radio > header, #tab-setari > header{
+    flex-shrink:0;
+    position:static;
+  }
+  #tab-diverse > main, #tab-radio > main, #tab-setari > main{
+    flex:1;
+    min-height:0;
+    overflow-y:auto;
+    -webkit-overflow-scrolling:touch;
+  }
+
   .bottom-tabs{
     position:fixed;
     left:16px; right:16px;
@@ -4284,6 +4306,8 @@ const bottomTabBtns = document.querySelectorAll(".bottom-tab-btn");
       el.style.zIndex = z;
     } else {
       el.style.transform = "";
+      el.style.position = "";
+      el.style.zIndex = "";
     }
   }
 
@@ -4295,7 +4319,16 @@ const bottomTabBtns = document.querySelectorAll(".bottom-tab-btn");
 
   measure();
   update();
-  window.addEventListener("scroll", update, { passive: true });
+  // sincronizat cu ritmul de desenare al ecranului (requestAnimationFrame) —
+  // fără asta, calculul rula de prea multe ori pe scroll, ceea ce dădea
+  // acel efect de "cutremur"/tremurat la derulare.
+  let ticking = false;
+  window.addEventListener("scroll", () => {
+    if(!ticking){
+      requestAnimationFrame(() => { update(); ticking = false; });
+      ticking = true;
+    }
+  }, { passive: true });
   window.addEventListener("resize", measure);
   window.acasaStackMeasure = measure; // apelat din switchTab, cât timp tab-ul devine vizibil
   } catch(e){ console.error("Acasă stack pin:", e); }
