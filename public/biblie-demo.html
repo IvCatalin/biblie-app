@@ -2113,13 +2113,24 @@
     margin:10px 0 6px;
   }
   .meditation-link{
-    display:block;
-    background:var(--parchment);
-    border:1px solid var(--line);
-    border-radius:6px;
-    padding:10px 12px;
-    margin-bottom:6px;
+    display:flex;
+    align-items:center;
+    gap:12px;
+    background: rgba(16,32,56,.45);
+    backdrop-filter: blur(16px) saturate(160%);
+    -webkit-backdrop-filter: blur(16px) saturate(160%);
+    border:1px solid rgba(255,255,255,.16);
+    border-radius:999px;
+    padding:13px 18px;
+    margin-bottom:8px;
     text-decoration:none;
+  }
+  .meditation-link::before{
+    content:"";
+    width:9px; height:9px;
+    min-width:9px;
+    border-radius:50%;
+    background:var(--gold);
   }
   .meditation-title{
     font-family:'Fraunces', serif;
@@ -2445,16 +2456,13 @@
         <div class="home-card-label" id="pericope-date-label">Pericopa săptămânii</div>
         <div class="home-verse-ref" id="pericope-name">Se încarcă din calendarul evreiesc live…</div>
         <div class="home-verse-text" id="pericope-refs">—</div>
+        <button class="home-toggle-btn" id="pericope-go-btn" style="display:none; margin-right:16px;">Citește pasajul →</button>
         <button class="home-toggle-btn" id="pericope-toggle">Citește reflecția ▾</button>
         <div class="home-essay-text" id="pericope-text" style="display:none;">
           <span id="pericope-text-body">—</span><br><br>
           
         </div>
-      </section>
-
-      <section class="home-card">
-        <div class="home-card-label" id="essays-card-label">Meditații cerești</div>
-        <button class="home-toggle-btn" id="essays-toggle">Detalii ▾</button>
+        <button class="home-toggle-btn" id="essays-toggle" style="display:block; margin-top:10px;">Meditații cerești ▾</button>
         <div id="essays-body" style="display:none;">
           <div id="essays-links-container"></div>
         </div>
@@ -5165,11 +5173,11 @@ function renderEssaysForParasha(nameSlug){
   const cardLabel = document.getElementById("essays-card-label");
   if(!container) return;
   container.innerHTML = "";
-  if(!parashotEssaysData){ cardLabel.textContent = "Meditații cerești"; return; }
+  if(!parashotEssaysData){ if(cardLabel) cardLabel.textContent = "Meditații cerești"; return; }
   const targetName = slugToEssayName(nameSlug);
   const entry = parashotEssaysData.find(p => p.name.toLowerCase() === targetName.toLowerCase());
-  if(!entry){ cardLabel.textContent = "Meditații cerești"; container.innerHTML = '<div class="home-placeholder-note">Nu am eseuri mapate pentru această porție.</div>'; return; }
-  cardLabel.textContent = "Meditații cerești · " + entry.name;
+  if(!entry){ if(cardLabel) cardLabel.textContent = "Meditații cerești"; container.innerHTML = '<div class="home-placeholder-note">Nu am eseuri mapate pentru această porție.</div>'; return; }
+  if(cardLabel) cardLabel.textContent = "Meditații cerești · " + entry.name;
   if(!entry.verified){
     // Nu afișăm link-uri nesigure ca și cum ar fi corecte — pentru multe
     // porții din baza de date, link-urile inițiale s-au dovedit generice
@@ -5192,9 +5200,36 @@ function renderEssaysForParasha(nameSlug){
     a.href = essay.url;
     a.target = "_blank";
     a.rel = "noopener";
-    a.innerHTML = '<div class="meditation-title">' + essay.title + '</div><div class="meditation-author">' + essay.author + ' →</div>';
+    a.innerHTML = '<div><div class="meditation-title">' + essay.title + '</div><div class="meditation-author">' + essay.author + ' →</div></div>';
     container.appendChild(a);
   });
+}
+
+// Butonul "Citește pasajul →" de la Pericopa săptămânii — parsează numele
+// cărții + primul capitol din textul de referință (ex. "Deuteronom 32:1–52")
+// și duce direct la Biblia, la capitolul corect.
+const PERICOPE_BOOK_SLUGS = [
+  { names: ["geneza"], slug: "genesis" },
+  { names: ["exodul", "exod"], slug: "exodus" },
+  { names: ["leviticul", "levitic"], slug: "leviticus" },
+  { names: ["numeri"], slug: "numbers" },
+  { names: ["deuteronomul", "deuteronom"], slug: "deuteronomy" },
+];
+function wireUpPericopeButton(refText){
+  const btn = document.getElementById("pericope-go-btn");
+  if(!btn) return;
+  if(!refText){ btn.style.display = "none"; return; }
+  const lower = refText.toLowerCase();
+  const match = PERICOPE_BOOK_SLUGS.find(b => b.names.some(n => lower.startsWith(n)));
+  const numMatch = refText.match(/(\d+)/);
+  if(!match || !numMatch){ btn.style.display = "none"; return; }
+  const chapterNum = parseInt(numMatch[1], 10);
+  btn.style.display = "";
+  btn.onclick = () => {
+    switchTab("biblia");
+    currentBookSlug = match.slug;
+    loadChapter(chapterNum);
+  };
 }
 
 function loadPericopeLive(){
@@ -5570,6 +5605,7 @@ async function initHebrewCalendar(){
     if(dateLabel) dateLabel.textContent = "Pericopa săptămânii · " + window.formatDateRo(p.date);
     nameEl.textContent = "Parașat " + p.name;
     if(refsEl) refsEl.textContent = p.ref;
+    wireUpPericopeButton(p.ref);
     if(textBody) textBody.textContent = "Citirea din Tora pentru această săptămână: " + p.ref + ".";
     const nameSlug = p.name.toLowerCase().replace(/'/g, "").replace(/\s+/g, "-");
     const tryRenderEssays = () => {
@@ -5645,6 +5681,7 @@ async function initHebrewCalendar(){
       } catch(e){ console.error("DAVAR: eroare la calculul citirii (leyning):", e); }
 
       refsEl.textContent = torahRo + (haftarahRo ? " · Haftarah: " + haftarahRo : "");
+      wireUpPericopeButton(torahRo);
       textBody.textContent = "Citirea din Tora pentru această săptămână (calculată live, din calendarul evreiesc): " + torahRo + ". " +
         (haftarahRo ? "Citirea din Profeți (haftarah) asociată: " + haftarahRo + "." : "");
 
