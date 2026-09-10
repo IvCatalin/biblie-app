@@ -2051,14 +2051,26 @@
     line-height:1;
     cursor:pointer;
   }
-  .pericope-haftarah-label{
+  .pericope-section-label{
     font-family:'Inter', sans-serif;
-    font-size:10.5px;
-    font-weight:600;
-    letter-spacing:0.08em;
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:0.1em;
     text-transform:uppercase;
     color:var(--ink-soft);
-    margin:8px 0 2px;
+    margin:14px 0 4px;
+  }
+  .pericope-section-label:first-of-type{ margin-top:6px; }
+  .pericope-haftarah-label{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin:16px 0 4px;
+    padding-top:10px;
+    border-top:1px solid var(--line);
   }
 
   .home-toggle-btn{
@@ -2495,7 +2507,7 @@
 
       <section class="home-card" style="margin-top:16px;">
         <div class="home-card-label" id="pericope-date-label">Pericopa săptămânii</div>
-        <div class="home-verse-ref" id="pericope-name">Se încarcă din calendarul evreiesc live…</div>
+        <div class="pericope-section-label" id="pericope-name">Se încarcă din calendarul evreiesc live…</div>
         <div id="pericope-refs-list"></div>
         <button class="home-toggle-btn" id="essays-toggle" style="display:block; margin-top:6px;">Detalii ▾</button>
         <div id="essays-body" style="display:none;">
@@ -5286,8 +5298,12 @@ function renderEssaysForParasha(nameSlug){
 // și duce direct la Biblia, la capitolul corect.
 function findBookBySlugName(refText){
   if(!refText) return null;
-  const lower = refText.toLowerCase();
-  return BOOKS.find(b => lower.startsWith(b.name.toLowerCase())) || null;
+  const lower = refText.toLowerCase().trim();
+  return BOOKS.find(b => {
+    const full = b.name.toLowerCase();
+    const core = full.replace(/ul$/, ""); // "Deuteronomul" -> "deuteronom", ca sa prinda si "Deuteronom"
+    return lower.startsWith(full) || lower.startsWith(core) || lower.indexOf(" " + full) >= 0 || lower.indexOf(" " + core) >= 0;
+  }) || null;
 }
 function buildPericopeRefRow(refText){
   const row = document.createElement("div");
