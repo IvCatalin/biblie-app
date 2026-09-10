@@ -482,7 +482,21 @@
     font-size:12px;
     transition:transform 0.15s;
   }
+  .picker-book-go{
+    flex-shrink:0;
+    width:26px; height:26px;
+    border-radius:50%;
+    background:rgba(212,160,23,0.14);
+    border:1px solid rgba(212,160,23,0.4);
+    color:var(--gold);
+    font-size:14px;
+    line-height:24px;
+    text-align:center;
+    display:inline-block;
+    transition:transform 0.15s;
+  }
   .picker-book-item.open .picker-book-name .chev{transform:rotate(90deg);}
+  .picker-book-item.open .picker-book-go{transform:rotate(90deg);}
   .picker-chapter-grid{
     display:none;
     grid-template-columns:repeat(6, 1fr);
@@ -1198,6 +1212,55 @@
     display:none;
   }
   .word-popover.show{display:block;}
+
+  .ref-preview-popover{
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    width:86vw;
+    max-width:340px;
+    max-height:70vh;
+    overflow-y:auto;
+    background:#101f3c;
+    color:var(--ink);
+    border:1px solid rgba(255,255,255,0.12);
+    border-radius:16px;
+    padding:34px 22px 22px;
+    box-shadow:0 20px 50px rgba(0,0,0,0.5);
+    z-index:70;
+    display:none;
+  }
+  .ref-preview-popover.show{display:block;}
+  .ref-preview-title{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin-bottom:12px;
+  }
+  .ref-preview-text{
+    font-family:'Fraunces', serif;
+    font-size:16px;
+    line-height:1.6;
+    color:var(--ink);
+    margin-bottom:18px;
+  }
+  .ref-preview-go{
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    font-weight:600;
+    color:var(--gold);
+    background:rgba(212,160,23,0.14);
+    border:1px solid rgba(212,160,23,0.4);
+    border-radius:10px;
+    padding:10px 16px;
+    cursor:pointer;
+    width:100%;
+  }
+
   .wp-word{
     font-family:'Inter', sans-serif;
     font-size:11px;
@@ -2855,6 +2918,13 @@
   <div class="wp-extra" id="wp-extra"></div>
 </div>
 
+<div class="ref-preview-popover" id="ref-preview-popover">
+  <button class="wp-close" id="ref-preview-close">✕</button>
+  <div class="ref-preview-title" id="ref-preview-title"></div>
+  <div class="ref-preview-text" id="ref-preview-text"></div>
+  <button class="ref-preview-go" id="ref-preview-go">Mergi la pasaj →</button>
+</div>
+
 <script>
 
 // =====================================================================
@@ -3755,7 +3825,7 @@ function renderVerses(){
         pill.textContent = refText;
         pill.addEventListener("click", (e) => {
           e.stopPropagation();
-          goToRef(refText, pill);
+          showRefPreview(refText, pill);
         });
         refsRow.appendChild(pill);
       });
@@ -3764,35 +3834,69 @@ function renderVerses(){
   });
 }
 
-function goToRef(refText, anchorEl){
-  const m = refText.match(/^Geneza (\d+):(\d+)/);
-  if(m){
-    const targetChapter = parseInt(m[1], 10);
-    const targetVerseNum = parseInt(m[2], 10);
+function parseRefBookChapterVerse(refText){
+  const book = findBookBySlugName(refText);
+  if(!book) return null;
+  const nums = refText.match(/(\d+)\D+(\d+)/);
+  if(!nums) return null;
+  return { book, chapter: parseInt(nums[1], 10), verse: parseInt(nums[2], 10) };
+}
 
-    if(!chapterIsAvailable("genesis", targetChapter)){
-      showRefUnavailable(anchorEl, refText);
-      return;
-    }
+let pendingRefNav = null; // { book, chapter, verse } - tinut minte pentru butonul "Mergi la pasaj"
 
-    if(currentBookSlug === "genesis" && currentChapter === targetChapter && Array.isArray(VERSES) && VERSES.length){
-      // deja e capitolul afișat — găsim direct versetul
-      const targetVerse = VERSES.find(v => v.num === targetVerseNum);
-      if(targetVerse){
-        switchTab("biblia");
-        const el = document.querySelector(`.verse[data-num="${targetVerse.num}"]`);
-        scrollToVerseAndFlash(el);
-        return;
-      }
-    }
-
-    // capitol diferit, dar disponibil — îl încărcăm, apoi deschidem versetul cerut
-    currentBookSlug = "genesis";
-    loadChapterThenOpenVerse(targetChapter, targetVerseNum);
+function showRefPreview(refText, anchorEl){
+  const parsed = parseRefBookChapterVerse(refText);
+  if(!parsed || !chapterIsAvailable(parsed.book.slug, parsed.chapter)){
+    showRefUnavailable(anchorEl, refText);
     return;
   }
-  showRefUnavailable(anchorEl, refText);
+  const titleEl = document.getElementById("ref-preview-title");
+  const textEl = document.getElementById("ref-preview-text");
+  const popover = document.getElementById("ref-preview-popover");
+
+  titleEl.textContent = refText;
+  textEl.textContent = "Se \u00eencarc\u0103\u2026";
+  pendingRefNav = parsed;
+  popover.classList.add("show");
+  hideWordPopover();
+
+  if(currentBookSlug === parsed.book.slug && currentChapter === parsed.chapter && Array.isArray(VERSES)){
+    const v = VERSES.find(v => v.num === parsed.verse);
+    textEl.textContent = v ? v.t : "Versetul nu a fost g\u0103sit.";
+    return;
+  }
+
+  fetch(parsed.book.slug + "-" + parsed.chapter + ".js")
+    .then(r => r.text())
+    .then(txt => {
+      const jsonStr = txt.replace(/^\s*window\.CHAPTER_DATA\s*=\s*/, "").replace(/;\s*$/, "");
+      const data = JSON.parse(jsonStr);
+      const v = data.find(v => v.num === parsed.verse);
+      textEl.textContent = v ? v.t : "Versetul nu a fost g\u0103sit.";
+    })
+    .catch(() => { textEl.textContent = "Nu s-a putut \u00eenc\u0103rca pasajul."; });
 }
+
+function hideRefPreview(){
+  document.getElementById("ref-preview-popover").classList.remove("show");
+}
+
+function goToRefReal(){
+  const parsed = pendingRefNav;
+  if(!parsed) return;
+  hideRefPreview();
+  switchTab("biblia");
+  if(currentBookSlug === parsed.book.slug && currentChapter === parsed.chapter && Array.isArray(VERSES) && VERSES.length){
+    const el = document.querySelector(`.verse[data-num="${parsed.verse}"]`);
+    scrollToVerseAndFlash(el);
+    return;
+  }
+  currentBookSlug = parsed.book.slug;
+  loadChapterThenOpenVerse(parsed.chapter, parsed.verse);
+}
+
+document.getElementById("ref-preview-go").addEventListener("click", goToRefReal);
+document.getElementById("ref-preview-close").addEventListener("click", hideRefPreview);
 
 function loadChapterThenOpenVerse(chapterNum, verseNum){
   const book = getBook(currentBookSlug);
@@ -3892,7 +3996,7 @@ function closeDrawer(){
 }
 
 document.getElementById("drawer-close").addEventListener("click", closeDrawer);
-backdrop.addEventListener("click", () => { closeDrawer(); hideWordPopover(); });
+backdrop.addEventListener("click", () => { closeDrawer(); hideWordPopover(); if(typeof hideRefPreview === "function") hideRefPreview(); });
 
 function showWordPopover(tok, anchorEl){
   document.querySelectorAll(".word").forEach(w => w.classList.remove("active-word"));
@@ -4059,7 +4163,7 @@ function populatePickerBookList(){
     nameRow.className = "picker-book-name" +
       (bookIsAvailable(book.slug) ? "" : " unavailable") +
       (book.slug === currentBookSlug ? " current" : "");
-    nameRow.innerHTML = "<span>" + book.name + "</span><span class=\"chev\">▶</span>";
+    nameRow.innerHTML = "<span>" + book.name + "</span><span class=\"picker-book-go\">→</span>";
     nameRow.addEventListener("click", () => {
       const wasOpen = item.classList.contains("open");
       pickerBookList.querySelectorAll(".picker-book-item").forEach(el => el.classList.remove("open"));
@@ -4381,6 +4485,7 @@ const bottomTabBtns = document.querySelectorAll(".bottom-tab-btn");
 function switchTab(name){
   if(typeof closeVerseSheet === "function") closeVerseSheet();
   if(typeof hideWordPopover === "function") hideWordPopover();
+  if(typeof hideRefPreview === "function") hideRefPreview();
   if(typeof unlockBodyScroll === "function") unlockBodyScroll();
   Object.keys(tabPanels).forEach(key => {
     tabPanels[key].style.display = (key === name) ? "" : "none";
