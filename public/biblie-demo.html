@@ -2032,7 +2032,7 @@
   .pericope-ref-row{
     display:flex;
     align-items:center;
-    justify-content:space-between;
+    justify-content:flex-start;
     gap:10px;
     font-family:'Fraunces', serif;
     font-style:italic;
@@ -2070,6 +2070,11 @@
     color:var(--ink-soft);
     margin:16px 0 4px;
     padding-top:10px;
+    border-top:1px solid var(--line);
+  }
+  .pericope-essays-integrated{
+    margin-top:16px;
+    padding-top:12px;
     border-top:1px solid var(--line);
   }
 
@@ -2509,8 +2514,7 @@
         <div class="home-card-label" id="pericope-date-label">Pericopa săptămânii</div>
         <div class="pericope-section-label" id="pericope-name">Se încarcă din calendarul evreiesc live…</div>
         <div id="pericope-refs-list"></div>
-        <button class="home-toggle-btn" id="essays-toggle" style="display:block; margin-top:6px;">Detalii ▾</button>
-        <div id="essays-body" style="display:none;">
+        <div id="essays-body" class="pericope-essays-integrated">
           <div id="essays-links-container"></div>
         </div>
       </section>
@@ -5362,7 +5366,6 @@ function loadUpcomingHolidays(){
 
 loadPericopeLive();
 loadUpcomingHolidays();
-wireToggle("essays-toggle", "essays-body", "Detalii ▾", "Ascunde ▴");
 wireToggle("cal-toggle", "cal-body-wrap", "Detalii ▾", "Ascunde ▴");
 
 // Închidere automată când apeși oriunde în afara secțiunii deschise
