@@ -820,11 +820,11 @@
     bottom:calc(24px + env(safe-area-inset-bottom, 0px));
     width:46px; height:46px;
     border-radius:50%;
-    border:1px solid rgba(255,255,255,.16);
-    background: rgba(16,32,56,.55);
+    border:1px solid rgba(212,160,23,0.4);
+    background: rgba(212,160,23,0.14);
     backdrop-filter: blur(16px) saturate(160%);
     -webkit-backdrop-filter: blur(16px) saturate(160%);
-    color:#fff;
+    color:var(--gold);
     font-size:22px;
     line-height:1;
     display:flex;
@@ -1402,6 +1402,18 @@
     color:var(--ink);
     padding:2px 2px 14px;
     border-bottom:1px solid var(--line);
+  }
+  .vs-row-textcompare .vs-comment-author{
+    color:var(--gold);
+    font-weight:700;
+    font-size:12.5px;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+  }
+  .vs-comment-full.vs-row-textcompare > div:first-child{
+    font-family:'Fraunces', serif;
+    font-style:italic;
+    font-size:15.5px;
   }
   .vs-action{
     display:flex;
@@ -3019,7 +3031,7 @@ function renderVerseSheetTabs(verse){
     return words.slice(0, wordLimit).join(" ") + " …mai mult";
   }
 
-  function appendCommentRow(container, author, htmlText, customPreview){
+  function appendCommentRow(container, author, htmlText, customPreview, variant){
     let preview;
     if(customPreview){
       preview = customPreview;
@@ -3028,7 +3040,7 @@ function renderVerseSheetTabs(verse){
       preview = wordPreview(plain, 8);
     }
     const row = document.createElement("div");
-    row.className = "vs-comment-row";
+    row.className = "vs-comment-row" + (variant ? " vs-row-" + variant : "");
     row.innerHTML =
       '<div>' +
         '<div class="vs-comment-author">' + author + '</div>' +
@@ -3036,7 +3048,7 @@ function renderVerseSheetTabs(verse){
       '</div>' +
       '<span class="vs-comment-chev">›</span>';
     const full = document.createElement("div");
-    full.className = "vs-comment-full";
+    full.className = "vs-comment-full" + (variant ? " vs-row-" + variant : "");
     full.style.display = "none";
     full.innerHTML = htmlText;
     row.addEventListener("click", () => {
@@ -3071,13 +3083,14 @@ function renderVerseSheetTabs(verse){
           const isPlaceholderOriginal = /^\(scris cu alfabetul samaritean/i.test(c.original || "");
 
           let lead;
+          const plainTranslation = (c.translation || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ");
           if(isSamaritan){
             const looksIdentic = /identic/i.test(c.translation || "");
-            lead = looksIdentic
-              ? "Asemănările Pentateuhului Samaritean sunt… mai mult"
-              : "Diferența reală confirmată este… mai mult";
+            lead = (looksIdentic ? "Asemănare: " : "Diferență: ") + wordPreview(plainTranslation, 8);
           } else {
-            lead = "Diferența importantă a textului " + c.source.replace(/\s*\([^)]*\)\s*$/, "") + " este… mai mult";
+            // previzualizarea e chiar începutul textului real, ca "mai mult" să
+            // continue aceeași propoziție, nu una generică nelegată de conținut
+            lead = wordPreview(plainTranslation, 8);
           }
 
           let html = `<div>${c.translation}</div>`;
@@ -3085,7 +3098,7 @@ function renderVerseSheetTabs(verse){
           if(c.original && !isPlaceholderOriginal){
             html += `<div class="orig-block${c.greek ? ' greek' : ''}">${c.original}</div>`;
           }
-          appendCommentRow(contentEl, c.source, html, lead);
+          appendCommentRow(contentEl, c.source, html, lead, "textcompare");
         });
       }
       if(aneAndHistorians.length){
@@ -4014,6 +4027,16 @@ function bookIsAvailable(slug){ return !!AVAILABLE[slug]; }
 function chapterIsAvailable(slug, n){ return !!(AVAILABLE[slug] && AVAILABLE[slug][n]); }
 
 function openPicker(){
+  const testamentTabs = document.querySelector(".testament-tabs");
+  if(testamentTabs){
+    if(currentVersion === "rosen"){
+      testamentTabs.style.display = "none";
+      currentTestament = "vt";
+    } else {
+      testamentTabs.style.display = "";
+    }
+  }
+  populatePickerBookList();
   pickerModal.classList.add("show");
   pickerBackdrop.classList.add("show");
 }
@@ -4159,16 +4182,25 @@ window.addEventListener("scroll", () => {
 
 // swipe stânga/dreapta între capitole
 let touchStartX = null;
-versesEl.addEventListener("touchstart", (e) => { touchStartX = e.touches[0].clientX; }, { passive: true });
+let touchStartY = null;
+versesEl.addEventListener("touchstart", (e) => {
+  touchStartX = e.touches[0].clientX;
+  touchStartY = e.touches[0].clientY;
+}, { passive: true });
 versesEl.addEventListener("touchend", (e) => {
   if(touchStartX === null) return;
   const dx = e.changedTouches[0].clientX - touchStartX;
-  if(Math.abs(dx) > 60){
+  const dy = e.changedTouches[0].clientY - touchStartY;
+  // declanșează schimbarea de capitol DOAR dacă mișcarea e clar orizontală —
+  // altfel un scroll normal, puțin pieziș, era interpretat greșit ca swipe
+  // și sărea capitolul înapoi la începutul lui
+  if(Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 2){
     if(dx < 0) loadChapter(currentChapter + 1);       // swipe stânga → capitolul următor
     else loadChapter(currentChapter - 1);              // swipe dreapta → capitolul anterior
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
   touchStartX = null;
+  touchStartY = null;
 });
 
 bookPill.addEventListener("click", () => {
