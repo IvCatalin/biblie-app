@@ -17,7 +17,10 @@ window.CHAPTER_DATA = [
         "greek": "ἀρχή (arche)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the first, in place, time, order or rank (specifically, a firstfruit)",
-        "bdb": "רֵאשִׁית n.f. beginning, chief (1) (a) beginning (b) first (2) first, chief"
+        "bdb": "רֵאשִׁית n.f. beginning, chief (1) (a) beginning (b) first (2) first, chief",
+        "def_ro": "întâiul, cel dintâi — în loc, timp, ordine sau rang (în special: pârga, primul rod).",
+        "greek_def_ro": "ἀρχή (arche) — început, obârșie, principiu; și, în alte contexte, „stăpânire, conducere”.",
+        "diff_ro": "Termenul ebraic e o formă compusă („începutul a...”), care cere firesc un cuvânt următor; LXX redă simplu „la început”, pierzând nuanța gramaticală a stării construite."
       },
       {
         "t": " "
@@ -44,7 +47,10 @@ window.CHAPTER_DATA = [
         "greek": "ποιέω / κτίζω (poieo / ktizo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "(absolutely) to create; (qualified) to cut down (a wood), select, feed (as formative processes)",
-        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out"
+        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out",
+        "def_ro": "a crea (absolut, din nimic); în alte contexte: a tăia, a alege, a modela, a hrăni.",
+        "greek_def_ro": "ποιέω / κτίζω (poieo / ktizo) — a face, a alcătui / a întemeia, a zidi.",
+        "diff_ro": "Verbul ebraic ברא are în Vechiul Testament subiect exclusiv divin și poartă ideea de creație din nimic; verbul grecesc ποιέω folosit de LXX aici înseamnă mai general „a face, a alcătui” — o nuanță mai slabă decât originalul ebraic."
       },
       {
         "t": " "
@@ -58,7 +64,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -72,7 +81,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       },
       {
         "t": " "
@@ -92,7 +103,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       }
     ],
     "refs": [
@@ -182,7 +195,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " "
@@ -202,7 +217,10 @@ window.CHAPTER_DATA = [
         "greek": "ἀόρατος (aoratos, „nevăzut”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a desolation (of surface), i.e. desert; figuratively, a worthless thing; adverbially, in vain",
-        "bdb": "תֹּ֫הוּ n.m. formlessness, confusion, unreality, emptiness (primary meaning difficult to seize) (1) formlessness (2) fig. of what is empty, unreal"
+        "bdb": "תֹּ֫הוּ n.m. formlessness, confusion, unreality, emptiness (primary meaning difficult to seize) (1) formlessness (2) fig. of what is empty, unreal",
+        "def_ro": "pustiire, lucru fără chip — de aici: pustiu; la figurat, lucru fără valoare; ca adverb, „în zadar”.",
+        "greek_def_ro": "ἀόρατος (aoratos) — nevăzut.",
+        "diff_ro": "Ebraicul תֹהוּ înseamnă „nedeslușit, fără formă”, nu „nevăzut” — LXX alege un cuvânt grecesc cu sens diferit (invizibil), o interpretare teologică proprie traducătorilor din Alexandria, nu o redare literală."
       },
       {
         "t": " "
@@ -222,7 +240,10 @@ window.CHAPTER_DATA = [
         "greek": "ἀκατασκεύαστος (akataskeuastos, „neformat”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a vacuity, i.e. (superficially) an undistinguishable ruin",
-        "bdb": "בֹ֫הוּ n.[m.] emptiness"
+        "bdb": "בֹ֫הוּ n.[m.] emptiness",
+        "def_ro": "gol, pustietate — o ruină nedeslușită, fără contur.",
+        "greek_def_ro": "ἀκατασκεύαστος (akataskeuastos) — neîntocmit, neamenajat.",
+        "diff_ro": "Perechea ebraică תֹהוּ וָבֹהוּ ([]tohu vabohu[]) e o expresie aproape onomatopeică pentru haosul primordial; LXX o redă analitic, cu doi termeni greci abstracți ([]nevăzut și neîntocmit[]), pierzând jocul de sunet din ebraică."
       },
       {
         "t": " "
@@ -242,7 +263,9 @@ window.CHAPTER_DATA = [
         "greek": "σκότος (skotos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the dark; hence (literally) darkness; figuratively, misery, destruction, death, ignorance, sorrow, wickedness",
-        "bdb": "חֹ֫שֶׁךְ n.m. darkness, obscurity (1) darkness (opp. אוֹר) (2) = secret place(s); = hiding-place (3) fig. (a) = distress (b) = dread, terror, symbol. of judgment (c) = mourning (d) = perplexity; confusion (e) = ignorance (f) = evil, sin (g) = obscurity"
+        "bdb": "חֹ֫שֶׁךְ n.m. darkness, obscurity (1) darkness (opp. אוֹר) (2) = secret place(s); = hiding-place (3) fig. (a) = distress (b) = dread, terror, symbol. of judgment (c) = mourning (d) = perplexity; confusion (e) = ignorance (f) = evil, sin (g) = obscurity",
+        "def_ro": "întuneric — literal, dar și la figurat: nenorocire, pieire, moarte, neștiință, întristare, răutate.",
+        "greek_def_ro": "σκότος (skotos) — întuneric."
       },
       {
         "t": " "
@@ -275,7 +298,9 @@ window.CHAPTER_DATA = [
         "greek": "ἄβυσσος (abyssos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "an abyss (as a surging mass of water), especially the deep (the main sea or the subterranean watersupply)",
-        "bdb": "תְּהוֹם n.f. et m. deep, sea, abyss (1) deep, of subterranean waters (2) (deep) sea (3) primaeval ocean, deep, in Heb. cosmogony (4) deep, depth (5) abyss"
+        "bdb": "תְּהוֹם n.f. et m. deep, sea, abyss (1) deep, of subterranean waters (2) (deep) sea (3) primaeval ocean, deep, in Heb. cosmogony (4) deep, depth (5) abyss",
+        "def_ro": "adâncul — masa învolburată de ape; în special, adâncul mării sau apele de sub pământ.",
+        "greek_def_ro": "ἄβυσσος (abyssos) — abis, adânc fără fund (de aici cuvântul românesc „abis”)."
       },
       {
         "t": " "
@@ -295,7 +320,10 @@ window.CHAPTER_DATA = [
         "greek": "πνεῦμα (pneuma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "wind; by resemblance breath, i.e. a sensible (or even violent) exhalation; figuratively, life, anger, unsubstantiality; by extension, a region of the sky; by resemblance spirit, but only of a rational being (including its expression and functions)",
-        "bdb": "רוּחַ 378 n.f. (less oft. m.) breath, wind, spirit (1) breath of mouth or nostrils (33 t.) (2) wind (117 t.) (3) spirit, as that which breathes quickly in animation or agitation = temper, disposition (76 t.) (4) spirit of the living, breathing being (5) spirit as seat of emotion (6) occasionally (and late) = seat or organ of mental acts (7) rarely of the will (8) רוּחַ esp. of moral character (9) spirit of God (94 t.)"
+        "bdb": "רוּחַ 378 n.f. (less oft. m.) breath, wind, spirit (1) breath of mouth or nostrils (33 t.) (2) wind (117 t.) (3) spirit, as that which breathes quickly in animation or agitation = temper, disposition (76 t.) (4) spirit of the living, breathing being (5) spirit as seat of emotion (6) occasionally (and late) = seat or organ of mental acts (7) rarely of the will (8) רוּחַ esp. of moral character (9) spirit of God (94 t.)",
+        "def_ro": "vânt; prin asemănare, suflare, respirație (uneori violentă); la figurat: viață, mânie, nestatornicie; prin extindere, o parte a cerului; prin asemănare, duh — dar numai al unei ființe raționale.",
+        "greek_def_ro": "πνεῦμα (pneuma) — suflare, vânt, duh.",
+        "diff_ro": "Ebraicul רוּחַ și grecescul πνεῦμα acoperă amândouă sensurile de „vânt/suflare” și „duh”, ceea ce a făcut posibilă, mai târziu, teologia creștină a Duhului Sfânt pornind exact de la acest verset — o suprapunere fericită, nu o pierdere de sens."
       },
       {
         "t": " "
@@ -315,7 +343,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -329,7 +360,9 @@ window.CHAPTER_DATA = [
         "greek": "ἐπιφέρομαι (epipheromai, „a se purta/mișca deasupra”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to brood; by implication, to be relaxed",
-        "bdb": "[רָחַף] vb. grow soft, relax (cf. Ar. Arabic be soft);— Qal Pf. 3 pl. רָֽחֲפוּ [Je 23:9] (bones of one appalled)."
+        "bdb": "[רָחַף] vb. grow soft, relax (cf. Ar. Arabic be soft);— Qal Pf. 3 pl. רָֽחֲפוּ [Je 23:9] (bones of one appalled).",
+        "def_ro": "a cloci, a sta deasupra ocrotind — ca o pasăre peste cuib; prin extindere, a se legăna, a pluti.",
+        "greek_def_ro": "ἐπιφέρομαι (epipheromai) — a se purta, a se mișca deasupra."
       },
       {
         "t": " "
@@ -355,7 +388,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       }
     ],
     "refs": [
@@ -418,7 +453,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -433,7 +471,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγω (lego, „a spune”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " "
@@ -448,7 +488,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -463,7 +505,9 @@ window.CHAPTER_DATA = [
         "greek": "φῶς (phos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
-        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh"
+        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
+        "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
+        "greek_def_ro": "φῶς (phos) — lumină."
       },
       {
         "t": " Și "
@@ -478,7 +522,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -493,7 +539,9 @@ window.CHAPTER_DATA = [
         "greek": "φῶς (phos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
-        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh"
+        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
+        "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
+        "greek_def_ro": "φῶς (phos) — lumină."
       }
     ],
     "refs": [
@@ -567,7 +615,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -582,7 +633,9 @@ window.CHAPTER_DATA = [
         "greek": "ὁράω (horao, „a vedea”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
-        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to"
+        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to",
+        "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+        "greek_def_ro": "ὁράω (horao) — a vedea."
       },
       {
         "t": " că "
@@ -597,7 +650,9 @@ window.CHAPTER_DATA = [
         "greek": "φῶς (phos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
-        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh"
+        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
+        "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
+        "greek_def_ro": "φῶς (phos) — lumină."
       },
       {
         "t": " este "
@@ -612,7 +667,9 @@ window.CHAPTER_DATA = [
         "greek": "καλός / ἀγαθός (kalos / agathos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)",
-        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right"
+        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right",
+        "def_ro": "bun — adjectiv cu sens foarte larg; folosit și ca substantiv („un bine”, „lucru bun”) sau ca adverb („bine”).",
+        "greek_def_ro": "καλός / ἀγαθός (kalos / agathos) — frumos, bun / bun, de folos."
       },
       {
         "t": " și "
@@ -627,7 +684,9 @@ window.CHAPTER_DATA = [
         "greek": "διαχωρίζω (diachorizo, „a despărți”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to divide (in variation senses literally or figuratively, separate, distinguish, differ, select, etc.)",
-        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated"
+        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated",
+        "def_ro": "a despărți, a deosebi — literal sau la figurat.",
+        "greek_def_ro": "διαχωρίζω (diachorizo) — a despărți, a separa."
       },
       {
         "t": " "
@@ -642,7 +701,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -657,7 +719,9 @@ window.CHAPTER_DATA = [
         "greek": "φῶς (phos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
-        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh"
+        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
+        "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
+        "greek_def_ro": "φῶς (phos) — lumină."
       },
       {
         "t": " de "
@@ -671,7 +735,9 @@ window.CHAPTER_DATA = [
         "greek": "σκότος (skotos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the dark; hence (literally) darkness; figuratively, misery, destruction, death, ignorance, sorrow, wickedness",
-        "bdb": "חֹ֫שֶׁךְ n.m. darkness, obscurity (1) darkness (opp. אוֹר) (2) = secret place(s); = hiding-place (3) fig. (a) = distress (b) = dread, terror, symbol. of judgment (c) = mourning (d) = perplexity; confusion (e) = ignorance (f) = evil, sin (g) = obscurity"
+        "bdb": "חֹ֫שֶׁךְ n.m. darkness, obscurity (1) darkness (opp. אוֹר) (2) = secret place(s); = hiding-place (3) fig. (a) = distress (b) = dread, terror, symbol. of judgment (c) = mourning (d) = perplexity; confusion (e) = ignorance (f) = evil, sin (g) = obscurity",
+        "def_ro": "întuneric — literal, dar și la figurat: nenorocire, pieire, moarte, neștiință, întristare, răutate.",
+        "greek_def_ro": "σκότος (skotos) — întuneric."
       }
     ],
     "refs": [
@@ -762,7 +828,9 @@ window.CHAPTER_DATA = [
         "greek": "ἡμέρα (hemera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
-        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases"
+        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
+        "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
+        "greek_def_ro": "ἡμέρα (hemera) — zi."
       },
       {
         "t": " "
@@ -800,7 +868,9 @@ window.CHAPTER_DATA = [
         "greek": "νύξ (nyx)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a twist (away of the light), i.e. night; figuratively, adversity",
-        "bdb": "לַ֫יְלָה, לַ֫יִל 242 n.m. night"
+        "bdb": "לַ֫יְלָה, לַ֫יִל 242 n.m. night",
+        "def_ro": "noapte — propriu-zis, „răsucirea” luminii care se stinge; la figurat, nenorocire.",
+        "greek_def_ro": "νύξ (nyx) — noapte."
       },
       {
         "t": " "
@@ -832,7 +902,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑσπέρα (hespera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "dusk",
-        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night"
+        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night",
+        "def_ro": "amurg, înserare.",
+        "greek_def_ro": "ἑσπέρα (hespera) — seară."
       },
       {
         "t": " "
@@ -864,7 +936,9 @@ window.CHAPTER_DATA = [
         "greek": "πρωί (proi)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, dawn (as the break of day); generally, morning",
-        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day"
+        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day",
+        "def_ro": "zori, dimineață — propriu-zis, spărtura zilei.",
+        "greek_def_ro": "πρωί (proi) — dimineață."
       },
       {
         "t": " "
@@ -945,7 +1019,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -960,7 +1037,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγω (lego, „a spune”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " "
@@ -975,7 +1054,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " un "
@@ -990,7 +1071,9 @@ window.CHAPTER_DATA = [
         "greek": "στερέωμα (stereoma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
-        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
+        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
+        "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
       },
       {
         "t": " în "
@@ -1005,7 +1088,9 @@ window.CHAPTER_DATA = [
         "greek": "μέσος (mesos, „mijloc”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a bisection, i.e. (by implication) the centre",
-        "bdb": "תָּ֫וֶךְ 416 subst. midst"
+        "bdb": "תָּ֫וֶךְ 416 subst. midst",
+        "def_ro": "mijloc — propriu-zis, tăierea în două; de aici, centrul a ceva.",
+        "greek_def_ro": "μέσος (mesos) — mijloc."
       },
       {
         "t": " "
@@ -1020,7 +1105,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       },
       {
         "t": " și să fie "
@@ -1035,7 +1122,9 @@ window.CHAPTER_DATA = [
         "greek": "διαχωρίζω (diachorizo, „a despărți”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to divide (in variation senses literally or figuratively, separate, distinguish, differ, select, etc.)",
-        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated"
+        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated",
+        "def_ro": "a despărți, a deosebi — literal sau la figurat.",
+        "greek_def_ro": "διαχωρίζω (diachorizo) — a despărți, a separa."
       },
       {
         "t": " între "
@@ -1050,7 +1139,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       },
       {
         "t": " și "
@@ -1065,7 +1156,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       }
     ],
     "refs": [
@@ -1134,7 +1227,9 @@ window.CHAPTER_DATA = [
         "greek": "ποιέω (poieo, „a face”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to do or make, in the broadest sense and widest application",
-        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made"
+        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made",
+        "def_ro": "a face, a lucra — în sensul cel mai larg și cu aplicații foarte variate.",
+        "greek_def_ro": "ποιέω (poieo) — a face."
       },
       {
         "t": " "
@@ -1149,7 +1244,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -1164,7 +1262,9 @@ window.CHAPTER_DATA = [
         "greek": "στερέωμα (stereoma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
-        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
+        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
+        "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
       },
       {
         "t": " și "
@@ -1179,7 +1279,9 @@ window.CHAPTER_DATA = [
         "greek": "διαχωρίζω (diachorizo, „a despărți”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to divide (in variation senses literally or figuratively, separate, distinguish, differ, select, etc.)",
-        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated"
+        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated",
+        "def_ro": "a despărți, a deosebi — literal sau la figurat.",
+        "greek_def_ro": "διαχωρίζω (diachorizo) — a despărți, a separa."
       },
       {
         "t": " "
@@ -1194,7 +1296,9 @@ window.CHAPTER_DATA = [
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "pos": "substantiv, cu articol hotărât",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       },
       {
         "t": " care sunt "
@@ -1207,7 +1311,9 @@ window.CHAPTER_DATA = [
         "strong": "H8478",
         "pos": "prepoziție/adverb de loc",
         "def": "the bottom (as depressed); only adverbially, below (often with prepositional prefix underneath), in lieu of, etc.",
-        "bdb": "תַּחַת n.[m.] the under part, hence as adv. accus. and prep. underneath, below, instead of"
+        "bdb": "תַּחַת n.[m.] the under part, hence as adv. accus. and prep. underneath, below, instead of",
+        "def_ro": "dedesubt — propriu-zis, „apăsat, coborât”; folosit doar ca adverb sau prepoziție: dedesubtul, în locul cuiva.",
+        "greek_def_ro": "— (LXX nu redă acest cuvânt printr-un termen grecesc de sine stătător aici; sensul e purtat de construcția frazei.)"
       },
       {
         "t": " "
@@ -1222,7 +1328,9 @@ window.CHAPTER_DATA = [
         "greek": "στερέωμα (stereoma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
-        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
+        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
+        "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
       },
       {
         "t": " de "
@@ -1237,7 +1345,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       },
       {
         "t": " care sunt "
@@ -1250,7 +1360,9 @@ window.CHAPTER_DATA = [
         "strong": "H5921",
         "pos": "prepoziție/adverb de loc",
         "def": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications",
-        "bdb": "עַל, עָ֑ל subst. height As prep. upon, and hence on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against (1) Upon, of the substratum upon which an object in any way rests, or on which an action is performed (a) — of clothing, etc., which any one wears With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it (b) Of what rests heavily upon a person, or is a burden to him (c) Of a duty, payment, care, etc., imposed upon a person, or devolving on him (d) על is used idiom. to give pathos to the expression of an emotion, by emphasizing the person who is its subject, and who, as it were, feels it acting upon him (e) חָיָה עַל to live upon (as upon a foundation or support) (f) Of the ground or basis, on which a thing is done (2) It expresses excess (3) It denotes elevation or pre-eminence (4) It expresses addition (5) It expresses the idea of being extended, or suspended over anything, without however being in contact with it, above, over (6) From the sense of inclining or impending over, על comes to denote contiguity or proximity, Engl. by (or sts. on) (7) In connection with verbs of motion (actual or fig.) (8) By writers of the silver age, על is sts. used with the force of a dative (9) With other particles: As conj. (a) עַל אֲשֶׁר because that (b) עַל כִּי similar in meaning, but less frequent (c) עַל alone: because notwithstanding that, although Compounds: (1) with כְּ (rare and late) (a) as concerning, as upon (b) the like of their deeds is the like of (that which) he will repay (2) מֵעַל from upon, from over, from by"
+        "bdb": "עַל, עָ֑ל subst. height As prep. upon, and hence on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against (1) Upon, of the substratum upon which an object in any way rests, or on which an action is performed (a) — of clothing, etc., which any one wears With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it (b) Of what rests heavily upon a person, or is a burden to him (c) Of a duty, payment, care, etc., imposed upon a person, or devolving on him (d) על is used idiom. to give pathos to the expression of an emotion, by emphasizing the person who is its subject, and who, as it were, feels it acting upon him (e) חָיָה עַל to live upon (as upon a foundation or support) (f) Of the ground or basis, on which a thing is done (2) It expresses excess (3) It denotes elevation or pre-eminence (4) It expresses addition (5) It expresses the idea of being extended, or suspended over anything, without however being in contact with it, above, over (6) From the sense of inclining or impending over, על comes to denote contiguity or proximity, Engl. by (or sts. on) (7) In connection with verbs of motion (actual or fig.) (8) By writers of the silver age, על is sts. used with the force of a dative (9) With other particles: As conj. (a) עַל אֲשֶׁר because that (b) עַל כִּי similar in meaning, but less frequent (c) עַל alone: because notwithstanding that, although Compounds: (1) with כְּ (rare and late) (a) as concerning, as upon (b) the like of their deeds is the like of (that which) he will repay (2) מֵעַל from upon, from over, from by",
+        "def_ro": "deasupra, peste, asupra, împotriva — prepoziție cu sens foarte larg, dar mereu cu ideea unei apăsări de sus în jos.",
+        "greek_def_ro": "— (redat prin prepoziții grecești diferite după context, nu printr-un singur cuvânt.)"
       },
       {
         "t": " "
@@ -1265,7 +1377,9 @@ window.CHAPTER_DATA = [
         "greek": "στερέωμα (stereoma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
-        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
+        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
+        "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
       },
       {
         "t": " Și "
@@ -1280,7 +1394,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -1295,7 +1411,9 @@ window.CHAPTER_DATA = [
         "greek": "οὕτως (houtos, „așa”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, set upright; hence (figuratively as adjective) just; but usually (as adverb or conjunction) rightly or so (in various applications to manner, time and relation; often with other particles)",
-        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)"
+        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)",
+        "def_ro": "așa, astfel — propriu-zis „drept, în picioare”; de aici, la figurat, „drept, corect” sau, ca adverb, „așa”.",
+        "greek_def_ro": "οὕτως (houtos) — așa, astfel."
       }
     ],
     "refs": [
@@ -1355,7 +1473,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -1370,7 +1491,9 @@ window.CHAPTER_DATA = [
         "greek": "καλέω (kaleo, „a chema, a numi”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to call out to (i.e. properly, address by name, but used in a wide variety of applications)",
-        "bdb": "קָרָא 724 vb. call, proclaim, read Qal (1) (a) call, cry, utter a loud sound (b) call, cry (2) (a) call unto some one (b) cry for help (3) proclaim (4) (a) read aloud (b) read to oneself (5) summon (6) call = name Niph. (1) reflex. (2) pass. be called Pu. be called"
+        "bdb": "קָרָא 724 vb. call, proclaim, read Qal (1) (a) call, cry, utter a loud sound (b) call, cry (2) (a) call unto some one (b) cry for help (3) proclaim (4) (a) read aloud (b) read to oneself (5) summon (6) call = name Niph. (1) reflex. (2) pass. be called Pu. be called",
+        "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
+        "greek_def_ro": "καλέω (kaleo) — a chema, a numi."
       },
       {
         "t": " "
@@ -1385,7 +1508,9 @@ window.CHAPTER_DATA = [
         "greek": "στερέωμα (stereoma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
-        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
+        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
+        "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
       },
       {
         "t": " "
@@ -1400,7 +1525,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       },
       {
         "t": " Și "
@@ -1415,7 +1542,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -1430,7 +1559,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑσπέρα (hespera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "dusk",
-        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night"
+        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night",
+        "def_ro": "amurg, înserare.",
+        "greek_def_ro": "ἑσπέρα (hespera) — seară."
       },
       {
         "t": " și "
@@ -1445,7 +1576,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -1460,7 +1593,9 @@ window.CHAPTER_DATA = [
         "greek": "πρωί (proi)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, dawn (as the break of day); generally, morning",
-        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day"
+        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day",
+        "def_ro": "zori, dimineață — propriu-zis, spărtura zilei.",
+        "greek_def_ro": "πρωί (proi) — dimineață."
       },
       {
         "t": " a "
@@ -1475,7 +1610,9 @@ window.CHAPTER_DATA = [
         "greek": "δεύτερος (deuteros, „al doilea”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, double, i.e. second; also adverbially, again",
-        "bdb": "שֵׁנִי m. שֵׁנִית f. 157 adj.num.ord. second"
+        "bdb": "שֵׁנִי m. שֵׁנִית f. 157 adj.num.ord. second",
+        "def_ro": "al doilea — propriu-zis „dublu”; ca adverb, „din nou”.",
+        "greek_def_ro": "δεύτερος (deuteros) — al doilea."
       },
       {
         "t": " zi."
@@ -1538,7 +1675,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -1553,7 +1693,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγω (lego, „a spune”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " „"
@@ -1568,7 +1710,9 @@ window.CHAPTER_DATA = [
         "greek": "συνάγω (synago, „a aduna”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to bind together (perhaps by twisting), i.e. collect; (figuratively) to expect",
-        "bdb": "[קָוָה] vb. wait for Qal those waiting for Pi. (1) wait, or look eagerly, for (2) lie in wait for (3) wait (linger) for"
+        "bdb": "[קָוָה] vb. wait for Qal those waiting for Pi. (1) wait, or look eagerly, for (2) lie in wait for (3) wait (linger) for",
+        "def_ro": "a se aduna, a se strânge laolaltă — propriu-zis, a lega împreună; la figurat, a aștepta, a nădăjdui.",
+        "greek_def_ro": "συνάγω (synago) — a aduna."
       },
       {
         "t": " "
@@ -1583,7 +1727,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       },
       {
         "t": " de dedesubtul "
@@ -1598,7 +1744,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       },
       {
         "t": " într-un singur "
@@ -1613,7 +1761,9 @@ window.CHAPTER_DATA = [
         "greek": "τόπος (topos, „loc”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a standing, i.e. a spot; but used widely of a locality (general or specific); also (figuratively) of a condition (of body or mind)",
-        "bdb": "מָקוֹם, מָקֹם 399 n.m. standing-place, place (1) (a) standing-place (b) station, where soldiers are placed (c) post, office (2) (a) place where a thing belongs (b) esp. place of human abode of י׳’s abode (3) place (4) in gen. place, locality, spot (5) (a) space, room (b) space, distance, between (6) region, quarter, direction (7) peculiar uses"
+        "bdb": "מָקוֹם, מָקֹם 399 n.m. standing-place, place (1) (a) standing-place (b) station, where soldiers are placed (c) post, office (2) (a) place where a thing belongs (b) esp. place of human abode of י׳’s abode (3) place (4) in gen. place, locality, spot (5) (a) space, room (b) space, distance, between (6) region, quarter, direction (7) peculiar uses",
+        "def_ro": "loc — propriu-zis, locul unde stai; folosit larg pentru orice loc, dar și, la figurat, pentru o stare a trupului sau a minții.",
+        "greek_def_ro": "τόπος (topos) — loc."
       },
       {
         "t": " "
@@ -1635,7 +1785,9 @@ window.CHAPTER_DATA = [
         "greek": "ὁράω (horao, „a vedea”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
-        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to"
+        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to",
+        "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+        "greek_def_ro": "ὁράω (horao) — a vedea."
       },
       {
         "t": " "
@@ -1650,7 +1802,9 @@ window.CHAPTER_DATA = [
         "greek": "ξηρά (xera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "dry ground",
-        "bdb": "יַבָּשָׁה n.f. dry land, dry ground"
+        "bdb": "יַבָּשָׁה n.f. dry land, dry ground",
+        "def_ro": "uscat, pământ uscat.",
+        "greek_def_ro": "ξηρά (xera) — uscat."
       },
       {
         "t": " Și "
@@ -1665,7 +1819,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -1680,7 +1836,9 @@ window.CHAPTER_DATA = [
         "greek": "οὕτως (houtos, „așa”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, set upright; hence (figuratively as adjective) just; but usually (as adverb or conjunction) rightly or so (in various applications to manner, time and relation; often with other particles)",
-        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)"
+        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)",
+        "def_ro": "așa, astfel — propriu-zis „drept, în picioare”; de aici, la figurat, „drept, corect” sau, ca adverb, „așa”.",
+        "greek_def_ro": "οὕτως (houtos) — așa, astfel."
       }
     ],
     "refs": [
@@ -1751,7 +1909,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -1766,7 +1927,9 @@ window.CHAPTER_DATA = [
         "greek": "καλέω (kaleo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to call out to (i.e. properly, address by name, but used in a wide variety of applications)",
-        "bdb": "קָרָא 724 vb. call, proclaim, read Qal (1) (a) call, cry, utter a loud sound (b) call, cry (2) (a) call unto some one (b) cry for help (3) proclaim (4) (a) read aloud (b) read to oneself (5) summon (6) call = name Niph. (1) reflex. (2) pass. be called Pu. be called"
+        "bdb": "קָרָא 724 vb. call, proclaim, read Qal (1) (a) call, cry, utter a loud sound (b) call, cry (2) (a) call unto some one (b) cry for help (3) proclaim (4) (a) read aloud (b) read to oneself (5) summon (6) call = name Niph. (1) reflex. (2) pass. be called Pu. be called",
+        "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
+        "greek_def_ro": "καλέω (kaleo) — a chema, a numi."
       },
       {
         "t": " "
@@ -1781,7 +1944,9 @@ window.CHAPTER_DATA = [
         "greek": "ξηρά (xera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "dry ground",
-        "bdb": "יַבָּשָׁה n.f. dry land, dry ground"
+        "bdb": "יַבָּשָׁה n.f. dry land, dry ground",
+        "def_ro": "uscat, pământ uscat.",
+        "greek_def_ro": "ξηρά (xera) — uscat."
       },
       {
         "t": " "
@@ -1796,7 +1961,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " iar "
@@ -1811,7 +1978,9 @@ window.CHAPTER_DATA = [
         "greek": "συναγωγή (synagoge, „adunare”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "something waited for, i.e. confidence (objective or subjective); also a collection, i.e. (of water) a pond, or (of men and horses) a caravan or drove",
-        "bdb": "קֹוֶה, or קֹוֵא n.pr.terr. Ḳuë in Cilicia"
+        "bdb": "קֹוֶה, or קֹוֵא n.pr.terr. Ḳuë in Cilicia",
+        "def_ro": "adunare, strângere laolaltă — al apelor, un iaz sau o baltă; la figurat, „nădejde, încredere”.",
+        "greek_def_ro": "συναγωγή (synagoge) — adunare (cuvântul din care vine „sinagogă”)."
       },
       {
         "t": " de "
@@ -1826,7 +1995,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       },
       {
         "t": " "
@@ -1841,7 +2012,9 @@ window.CHAPTER_DATA = [
         "greek": "καλέω (kaleo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to call out to (i.e. properly, address by name, but used in a wide variety of applications)",
-        "bdb": "קָרָא 724 vb. call, proclaim, read Qal (1) (a) call, cry, utter a loud sound (b) call, cry (2) (a) call unto some one (b) cry for help (3) proclaim (4) (a) read aloud (b) read to oneself (5) summon (6) call = name Niph. (1) reflex. (2) pass. be called Pu. be called"
+        "bdb": "קָרָא 724 vb. call, proclaim, read Qal (1) (a) call, cry, utter a loud sound (b) call, cry (2) (a) call unto some one (b) cry for help (3) proclaim (4) (a) read aloud (b) read to oneself (5) summon (6) call = name Niph. (1) reflex. (2) pass. be called Pu. be called",
+        "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
+        "greek_def_ro": "καλέω (kaleo) — a chema, a numi."
       },
       {
         "t": " "
@@ -1856,7 +2029,9 @@ window.CHAPTER_DATA = [
         "greek": "θάλασσα (thalassa)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sea (as breaking in noisy surf) or large body of water; specifically (with the article), the Mediterranean Sea; sometimes a large river, or an artifical basin; locally, the west, or (rarely) the south",
-        "bdb": "יָם 390 n.m. sea"
+        "bdb": "יָם 390 n.m. sea",
+        "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
+        "greek_def_ro": "θάλασσα (thalassa) — mare."
       },
       {
         "t": " Și "
@@ -1869,7 +2044,10 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -1884,7 +2062,9 @@ window.CHAPTER_DATA = [
         "greek": "ὁράω (horao)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
-        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to"
+        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to",
+        "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+        "greek_def_ro": "ὁράω (horao) — a vedea."
       },
       {
         "t": " că este "
@@ -1899,7 +2079,9 @@ window.CHAPTER_DATA = [
         "greek": "καλός (kalos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)",
-        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right"
+        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right",
+        "def_ro": "bun — adjectiv cu sens foarte larg; folosit și ca substantiv („un bine”, „lucru bun”) sau ca adverb („bine”).",
+        "greek_def_ro": "καλός / ἀγαθός (kalos / agathos) — frumos, bun / bun, de folos."
       }
     ],
     "refs": [
@@ -1963,7 +2145,9 @@ window.CHAPTER_DATA = [
         "greek": "βοτάνη (botane)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sprout; by analogy, grass",
-        "bdb": "דֶּ֫שֶׁא n.m. grass"
+        "bdb": "דֶּ֫שֶׁא n.m. grass",
+        "def_ro": "verdeață, iarbă fragedă, muguri.",
+        "greek_def_ro": "βοτάνη (botane) — verdeață, plantă."
       },
       {
         "t": " iarbă roditoare de "
@@ -1977,7 +2161,9 @@ window.CHAPTER_DATA = [
         "greek": "σπέρμα (sperma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "seed; figuratively, fruit, plant, sowing-time, posterity",
-        "bdb": "זֶ֫רַע n.m. sowing, seed, offspring (1) lit.: (a) a sowing (b) sowing as regularly recurring at its season (2) seed (3) seed = semen virile (4) seed = offspring (5) seed as marked by moral quality = persons (or community) of such a quality"
+        "bdb": "זֶ֫רַע n.m. sowing, seed, offspring (1) lit.: (a) a sowing (b) sowing as regularly recurring at its season (2) seed (3) seed = semen virile (4) seed = offspring (5) seed as marked by moral quality = persons (or community) of such a quality",
+        "def_ro": "sămânță — literal sau, la figurat, rod, urmași, vreme de semănat.",
+        "greek_def_ro": "σπέρμα (sperma) — sămânță."
       },
       {
         "t": " "
@@ -1991,7 +2177,9 @@ window.CHAPTER_DATA = [
         "greek": "ξύλον (xylon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a tree (from its firmness); hence, wood (plural sticks)",
-        "bdb": "עֵץ 329 n.m. tree, trees, wood (1) (c. 150 t.) (a) a standing tree (b) coll. trees (2) (c. 175 t.; c. 120 t. pl., to denote pieces [or articles] of wood)"
+        "bdb": "עֵץ 329 n.m. tree, trees, wood (1) (c. 150 t.) (a) a standing tree (b) coll. trees (2) (c. 175 t.; c. 120 t. pl., to denote pieces [or articles] of wood)",
+        "def_ro": "pom, copac — de la ideea de tărie; de aici și „lemn”.",
+        "greek_def_ro": "ξύλον (xylon) — copac, lemn."
       },
       {
         "t": " roditor care rodește "
@@ -2005,7 +2193,9 @@ window.CHAPTER_DATA = [
         "greek": "καρπός (karpos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "fruit (literally or figuratively)",
-        "bdb": "פְּרִי 119 n.m. fruit (1) fruit of the ground, of produce in gen. (2) = offspring, fruit of womb (3) fig. of fruit of actions, i.e. their consequences"
+        "bdb": "פְּרִי 119 n.m. fruit (1) fruit of the ground, of produce in gen. (2) = offspring, fruit of womb (3) fig. of fruit of actions, i.e. their consequences",
+        "def_ro": "rod, fruct — literal sau la figurat.",
+        "greek_def_ro": "καρπός (karpos) — rod."
       },
       {
         "t": " după "
@@ -2019,7 +2209,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " său, cu sămânța sa în el pe pământ!” Și a fost așa."
@@ -2082,7 +2274,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " "
@@ -2097,7 +2291,9 @@ window.CHAPTER_DATA = [
         "greek": "ἐξάγω (exago, „a scoate”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to go (causatively, bring) out, in a great variety of applications, literally and figuratively, direct and proxim.",
-        "bdb": "יָצָא 1068 vb. go or come out Qal (1) go or come out or forth (a) from (מִן) a place (b) go forth from (the presence of) a person (c) in technical senses (d) of flight, involving escape (e) depart (f) of inanimate things (g) with especial emphasis on idea of origin, source (h) of children as going forth from loins (of father) (2) (a) go forth to a place (b) go forward, proceed to or toward something (c) come or go forth, with esp. ref. to purpose or result (3) of combinations Hiph. (1) cause to go or come out, bring out, lead out (2) fig. obj. persons, bring out of (מִן) distress, etc. (3) bring out animals (4) inanimate obj. (5) fig. subj. י׳, bring forth from (מִן) Hoph. be brought forth"
+        "bdb": "יָצָא 1068 vb. go or come out Qal (1) go or come out or forth (a) from (מִן) a place (b) go forth from (the presence of) a person (c) in technical senses (d) of flight, involving escape (e) depart (f) of inanimate things (g) with especial emphasis on idea of origin, source (h) of children as going forth from loins (of father) (2) (a) go forth to a place (b) go forward, proceed to or toward something (c) come or go forth, with esp. ref. to purpose or result (3) of combinations Hiph. (1) cause to go or come out, bring out, lead out (2) fig. obj. persons, bring out of (מִן) distress, etc. (3) bring out animals (4) inanimate obj. (5) fig. subj. י׳, bring forth from (מִן) Hoph. be brought forth",
+        "def_ro": "a scoate, a ieși — verb de mișcare cu aplicații foarte variate.",
+        "greek_def_ro": "ἐξάγω (exago) — a scoate afară."
       },
       {
         "t": " "
@@ -2112,7 +2308,9 @@ window.CHAPTER_DATA = [
         "greek": "βοτάνη (botane)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sprout; by analogy, grass",
-        "bdb": "דֶּ֫שֶׁא n.m. grass"
+        "bdb": "דֶּ֫שֶׁא n.m. grass",
+        "def_ro": "verdeață, iarbă fragedă, muguri.",
+        "greek_def_ro": "βοτάνη (botane) — verdeață, plantă."
       },
       {
         "t": " "
@@ -2125,7 +2323,9 @@ window.CHAPTER_DATA = [
         "strong": "H6212",
         "pos": "substantiv",
         "def": "grass (or any tender shoot)",
-        "bdb": "עֵ֫שֶׂב n.m. herb, herbage"
+        "bdb": "עֵ֫שֶׂב n.m. herb, herbage",
+        "def_ro": "iarbă, verdeață fragedă.",
+        "greek_def_ro": "— (redat prin același termen ca H1877, βοτάνη.)"
       },
       {
         "t": " "
@@ -2140,7 +2340,9 @@ window.CHAPTER_DATA = [
         "greek": "σπείρω (speiro, „a semăna”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to sow; figuratively, to disseminate, plant, fructify",
-        "bdb": "זָרַע vb. sow, scatter seed Qal (1) lit. sow (2) of shrub and tree producing, yielding seed (3) fig. Niph. be sown, fructified (1) be sown (2) be fructified, made pregnant Pu. of princes and judges under fig. of trees Hiph. (1) produce seed (2) of a woman, = bear a child"
+        "bdb": "זָרַע vb. sow, scatter seed Qal (1) lit. sow (2) of shrub and tree producing, yielding seed (3) fig. Niph. be sown, fructified (1) be sown (2) be fructified, made pregnant Pu. of princes and judges under fig. of trees Hiph. (1) produce seed (2) of a woman, = bear a child",
+        "def_ro": "a semăna; la figurat, a răspândi, a rodi.",
+        "greek_def_ro": "σπείρω (speiro) — a semăna."
       },
       {
         "t": " de "
@@ -2155,7 +2357,9 @@ window.CHAPTER_DATA = [
         "greek": "σπέρμα (sperma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "seed; figuratively, fruit, plant, sowing-time, posterity",
-        "bdb": "זֶ֫רַע n.m. sowing, seed, offspring (1) lit.: (a) a sowing (b) sowing as regularly recurring at its season (2) seed (3) seed = semen virile (4) seed = offspring (5) seed as marked by moral quality = persons (or community) of such a quality"
+        "bdb": "זֶ֫רַע n.m. sowing, seed, offspring (1) lit.: (a) a sowing (b) sowing as regularly recurring at its season (2) seed (3) seed = semen virile (4) seed = offspring (5) seed as marked by moral quality = persons (or community) of such a quality",
+        "def_ro": "sămânță — literal sau, la figurat, rod, urmași, vreme de semănat.",
+        "greek_def_ro": "σπέρμα (sperma) — sămânță."
       },
       {
         "t": " după "
@@ -2170,7 +2374,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " său, și "
@@ -2185,7 +2391,9 @@ window.CHAPTER_DATA = [
         "greek": "ξύλον (xylon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a tree (from its firmness); hence, wood (plural sticks)",
-        "bdb": "עֵץ 329 n.m. tree, trees, wood (1) (c. 150 t.) (a) a standing tree (b) coll. trees (2) (c. 175 t.; c. 120 t. pl., to denote pieces [or articles] of wood)"
+        "bdb": "עֵץ 329 n.m. tree, trees, wood (1) (c. 150 t.) (a) a standing tree (b) coll. trees (2) (c. 175 t.; c. 120 t. pl., to denote pieces [or articles] of wood)",
+        "def_ro": "pom, copac — de la ideea de tărie; de aici și „lemn”.",
+        "greek_def_ro": "ξύλον (xylon) — copac, lemn."
       },
       {
         "t": " care "
@@ -2200,7 +2408,9 @@ window.CHAPTER_DATA = [
         "greek": "ποιέω (poieo, „a face”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to do or make, in the broadest sense and widest application",
-        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made"
+        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made",
+        "def_ro": "a face, a lucra — în sensul cel mai larg și cu aplicații foarte variate.",
+        "greek_def_ro": "ποιέω (poieo) — a face."
       },
       {
         "t": " "
@@ -2215,7 +2425,9 @@ window.CHAPTER_DATA = [
         "greek": "καρπός (karpos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "fruit (literally or figuratively)",
-        "bdb": "פְּרִי 119 n.m. fruit (1) fruit of the ground, of produce in gen. (2) = offspring, fruit of womb (3) fig. of fruit of actions, i.e. their consequences"
+        "bdb": "פְּרִי 119 n.m. fruit (1) fruit of the ground, of produce in gen. (2) = offspring, fruit of womb (3) fig. of fruit of actions, i.e. their consequences",
+        "def_ro": "rod, fruct — literal sau la figurat.",
+        "greek_def_ro": "καρπός (karpos) — rod."
       },
       {
         "t": " cu "
@@ -2230,7 +2442,9 @@ window.CHAPTER_DATA = [
         "greek": "σπέρμα (sperma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "seed; figuratively, fruit, plant, sowing-time, posterity",
-        "bdb": "זֶ֫רַע n.m. sowing, seed, offspring (1) lit.: (a) a sowing (b) sowing as regularly recurring at its season (2) seed (3) seed = semen virile (4) seed = offspring (5) seed as marked by moral quality = persons (or community) of such a quality"
+        "bdb": "זֶ֫רַע n.m. sowing, seed, offspring (1) lit.: (a) a sowing (b) sowing as regularly recurring at its season (2) seed (3) seed = semen virile (4) seed = offspring (5) seed as marked by moral quality = persons (or community) of such a quality",
+        "def_ro": "sămânță — literal sau, la figurat, rod, urmași, vreme de semănat.",
+        "greek_def_ro": "σπέρμα (sperma) — sămânță."
       },
       {
         "t": " sa în el, după "
@@ -2245,7 +2459,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " său. Și "
@@ -2260,7 +2476,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -2275,7 +2494,9 @@ window.CHAPTER_DATA = [
         "greek": "ὁράω (horao, „a vedea”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
-        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to"
+        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to",
+        "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+        "greek_def_ro": "ὁράω (horao) — a vedea."
       },
       {
         "t": " că este "
@@ -2290,7 +2511,9 @@ window.CHAPTER_DATA = [
         "greek": "καλός / ἀγαθός (kalos / agathos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)",
-        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right"
+        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right",
+        "def_ro": "bun — adjectiv cu sens foarte larg; folosit și ca substantiv („un bine”, „lucru bun”) sau ca adverb („bine”).",
+        "greek_def_ro": "καλός / ἀγαθός (kalos / agathos) — frumos, bun / bun, de folos."
       }
     ],
     "refs": [
@@ -2346,7 +2569,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -2361,7 +2586,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑσπέρα (hespera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "dusk",
-        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night"
+        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night",
+        "def_ro": "amurg, înserare.",
+        "greek_def_ro": "ἑσπέρα (hespera) — seară."
       },
       {
         "t": " și "
@@ -2376,7 +2603,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -2391,7 +2620,9 @@ window.CHAPTER_DATA = [
         "greek": "πρωί (proi)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, dawn (as the break of day); generally, morning",
-        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day"
+        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day",
+        "def_ro": "zori, dimineață — propriu-zis, spărtura zilei.",
+        "greek_def_ro": "πρωί (proi) — dimineață."
       },
       {
         "t": " a "
@@ -2406,7 +2637,9 @@ window.CHAPTER_DATA = [
         "greek": "τρίτος (tritos, „al treilea”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "third; feminine a third (part); by extension, a third (day, year or time); specifically, a third-story cell)",
-        "bdb": "שְׁלִישִׁי m. שְׁלִישִׁית f. adj.num.ord. 108 third"
+        "bdb": "שְׁלִישִׁי m. שְׁלִישִׁית f. adj.num.ord. 108 third",
+        "def_ro": "al treilea — și, prin extindere, „a treia parte”.",
+        "greek_def_ro": "τρίτος (tritos) — al treilea."
       },
       {
         "t": " zi."
@@ -2460,7 +2693,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -2475,7 +2711,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγω (lego)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " „Să fie "
@@ -2490,7 +2728,9 @@ window.CHAPTER_DATA = [
         "greek": "φωστήρ (phoster)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a luminous body or luminary, i.e. (abstractly) light (as an element); figuratively, brightness, i.e.cheerfulness; specifically, a chandelier",
-        "bdb": "מָאוֹר n.m. luminary"
+        "bdb": "מָאוֹר n.m. luminary",
+        "def_ro": "trup luminos, luminător — propriu-zis lumină ca element; la figurat, strălucire, bucurie; și, mai târziu, sfeșnic.",
+        "greek_def_ro": "φωστήρ (phoster) — luminător."
       },
       {
         "t": " pe "
@@ -2505,7 +2745,9 @@ window.CHAPTER_DATA = [
         "greek": "στερέωμα (stereoma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
-        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
+        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
+        "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
       },
       {
         "t": " "
@@ -2520,7 +2762,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       },
       {
         "t": " ca "
@@ -2535,7 +2779,9 @@ window.CHAPTER_DATA = [
         "greek": "διαχωρίζω (diachorizo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to divide (in variation senses literally or figuratively, separate, distinguish, differ, select, etc.)",
-        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated"
+        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated",
+        "def_ro": "a despărți, a deosebi — literal sau la figurat.",
+        "greek_def_ro": "διαχωρίζω (diachorizo) — a despărți, a separa."
       },
       {
         "t": " "
@@ -2550,7 +2796,9 @@ window.CHAPTER_DATA = [
         "greek": "ἡμέρα (hemera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
-        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases"
+        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
+        "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
+        "greek_def_ro": "ἡμέρα (hemera) — zi."
       },
       {
         "t": " de "
@@ -2565,7 +2813,9 @@ window.CHAPTER_DATA = [
         "greek": "νύξ (nyx)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a twist (away of the light), i.e. night; figuratively, adversity",
-        "bdb": "לַ֫יְלָה, לַ֫יִל 242 n.m. night"
+        "bdb": "לַ֫יְלָה, לַ֫יִל 242 n.m. night",
+        "def_ro": "noapte — propriu-zis, „răsucirea” luminii care se stinge; la figurat, nenorocire.",
+        "greek_def_ro": "νύξ (nyx) — noapte."
       },
       {
         "t": " și "
@@ -2580,7 +2830,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι (ginomai)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " ca "
@@ -2595,7 +2847,9 @@ window.CHAPTER_DATA = [
         "greek": "σημεῖον (semeion)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a signal (literally or figuratively), as a flag, beacon, monument, omen, prodigy, evidence, etc.",
-        "bdb": "אוֹת n.m. 79 [Ex 4:8] (f. [Jos 24:17]) sign (1) sign, pledge, token (2) signs, omens promised by prophets as pledges of certain predicted events (3) sign, symbol of prophets (4) signs, miracles, as pledges or attestations of divine presence & interposition (5) signs, memorials (6) sign, pledge of covenant (7) ensigns, standards (8) signs, tokens of changes of weather & times"
+        "bdb": "אוֹת n.m. 79 [Ex 4:8] (f. [Jos 24:17]) sign (1) sign, pledge, token (2) signs, omens promised by prophets as pledges of certain predicted events (3) sign, symbol of prophets (4) signs, miracles, as pledges or attestations of divine presence & interposition (5) signs, memorials (6) sign, pledge of covenant (7) ensigns, standards (8) signs, tokens of changes of weather & times",
+        "def_ro": "semn — un steag, un far, un monument, o prevestire, o dovadă.",
+        "greek_def_ro": "σημεῖον (semeion) — semn."
       },
       {
         "t": " și pentru "
@@ -2610,7 +2864,9 @@ window.CHAPTER_DATA = [
         "greek": "καιρός (kairos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an appointment, i.e. a fixed time or season; specifically, a festival; conventionally a year; by implication, an assembly (as convened for a definite purpose); technically the congregation; by extension, the place of meeting; also a signal (as appointed beforehand)",
-        "bdb": "מוֹעֵד 223 n.m. appointed time, place, meeting (1) appointed time (2) appointed meeting (3) appointed place (4) appointed sign, signal (5) tent of meeting"
+        "bdb": "מוֹעֵד 223 n.m. appointed time, place, meeting (1) appointed time (2) appointed meeting (3) appointed place (4) appointed sign, signal (5) tent of meeting",
+        "def_ro": "vreme hotărâtă, sărbătoare — propriu-zis, o întâlnire rânduită; de aici, un an, o adunare, sau locul unei întâlniri.",
+        "greek_def_ro": "καιρός (kairos) — vreme potrivită, prilej (spre deosebire de χρόνος, timpul curgător)."
       },
       {
         "t": " și pentru "
@@ -2625,7 +2881,9 @@ window.CHAPTER_DATA = [
         "greek": "ἡμέρα (hemera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
-        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases"
+        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
+        "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
+        "greek_def_ro": "ἡμέρα (hemera) — zi."
       },
       {
         "t": " și "
@@ -2640,7 +2898,9 @@ window.CHAPTER_DATA = [
         "greek": "ἐνιαυτός (eniautos, „an”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a year (as a revolution of time)",
-        "bdb": "שָׁנָה 877 n.f. year (etym. v. √[v.ek.aa])"
+        "bdb": "שָׁנָה 877 n.f. year (etym. v. √[v.ek.aa])",
+        "def_ro": "an — propriu-zis, o rotire a vremii.",
+        "greek_def_ro": "ἐνιαυτός (eniautos) — an."
       }
     ],
     "refs": [
@@ -2706,7 +2966,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " ca "
@@ -2721,7 +2983,9 @@ window.CHAPTER_DATA = [
         "greek": "φωστήρ (phoster)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a luminous body or luminary, i.e. (abstractly) light (as an element); figuratively, brightness, i.e.cheerfulness; specifically, a chandelier",
-        "bdb": "מָאוֹר n.m. luminary"
+        "bdb": "מָאוֹר n.m. luminary",
+        "def_ro": "trup luminos, luminător — propriu-zis lumină ca element; la figurat, strălucire, bucurie; și, mai târziu, sfeșnic.",
+        "greek_def_ro": "φωστήρ (phoster) — luminător."
       },
       {
         "t": " pe "
@@ -2736,7 +3000,9 @@ window.CHAPTER_DATA = [
         "greek": "στερέωμα (stereoma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
-        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
+        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
+        "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
       },
       {
         "t": " "
@@ -2751,7 +3017,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       },
       {
         "t": " pentru "
@@ -2764,7 +3032,9 @@ window.CHAPTER_DATA = [
         "strong": "H215",
         "pos": "verb (hifil, infinitiv)",
         "def": "to be (causative, make) luminous (literally and metaphorically)",
-        "bdb": "[אוֹר] 43 vb. be or become light Qal;—become light, shine of sun (esp. in early morn.) Niph.—become lighted up of day-break Hiph.— (1) give light, of sun, moon & stars (2) light up, cause to shine, shine (3) light a lamp (4) lighten, of the eyes (5) make shine, of face of God"
+        "bdb": "[אוֹר] 43 vb. be or become light Qal;—become light, shine of sun (esp. in early morn.) Niph.—become lighted up of day-break Hiph.— (1) give light, of sun, moon & stars (2) light up, cause to shine, shine (3) light a lamp (4) lighten, of the eyes (5) make shine, of face of God",
+        "def_ro": "a lumina, a face să strălucească — literal sau la figurat.",
+        "greek_def_ro": "— (verb redat prin construcții grecești variate, nu printr-un singur termen fix.)"
       },
       {
         "t": " asupra "
@@ -2779,7 +3049,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " Și "
@@ -2794,7 +3066,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -2809,7 +3083,9 @@ window.CHAPTER_DATA = [
         "greek": "οὕτως (houtos, „așa”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, set upright; hence (figuratively as adjective) just; but usually (as adverb or conjunction) rightly or so (in various applications to manner, time and relation; often with other particles)",
-        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)"
+        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)",
+        "def_ro": "așa, astfel — propriu-zis „drept, în picioare”; de aici, la figurat, „drept, corect” sau, ca adverb, „așa”.",
+        "greek_def_ro": "οὕτως (houtos) — așa, astfel."
       }
     ],
     "refs": [
@@ -2865,7 +3141,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -2880,7 +3159,9 @@ window.CHAPTER_DATA = [
         "greek": "ποιέω (poieo, „a face”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to do or make, in the broadest sense and widest application",
-        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made"
+        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made",
+        "def_ro": "a face, a lucra — în sensul cel mai larg și cu aplicații foarte variate.",
+        "greek_def_ro": "ποιέω (poieo) — a face."
       },
       {
         "t": " "
@@ -2895,7 +3176,9 @@ window.CHAPTER_DATA = [
         "greek": "δύο (dyo, „doi”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "two; also (as ordinal) twofold",
-        "bdb": "שְׁנַ֫יִם, שְׁתַּיִם 768 n.m. et f. du. two"
+        "bdb": "שְׁנַ֫יִם, שְׁתַּיִם 768 n.m. et f. du. two",
+        "def_ro": "doi — și, ca numeral ordinal, „îndoit”.",
+        "greek_def_ro": "δύο (dyo) — doi."
       },
       {
         "t": " "
@@ -2910,7 +3193,9 @@ window.CHAPTER_DATA = [
         "greek": "φωστήρ (phoster)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a luminous body or luminary, i.e. (abstractly) light (as an element); figuratively, brightness, i.e.cheerfulness; specifically, a chandelier",
-        "bdb": "מָאוֹר n.m. luminary"
+        "bdb": "מָאוֹר n.m. luminary",
+        "def_ro": "trup luminos, luminător — propriu-zis lumină ca element; la figurat, strălucire, bucurie; și, mai târziu, sfeșnic.",
+        "greek_def_ro": "φωστήρ (phoster) — luminător."
       },
       {
         "t": " "
@@ -2925,7 +3210,9 @@ window.CHAPTER_DATA = [
         "greek": "μέγας (megas, „mare”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "great (in any sense); hence, older; also insolent",
-        "bdb": "גָּדוֹל 622 adj. great (1) in magnitude and extent (2) in number (3) in intensity (4) in sound, loud (5) in age (6) in importance (7) in phrases (8) cstr. (9) as subst. concr. do great things (10) † as subst. neut. greatness of arm"
+        "bdb": "גָּדוֹל 622 adj. great (1) in magnitude and extent (2) in number (3) in intensity (4) in sound, loud (5) in age (6) in importance (7) in phrases (8) cstr. (9) as subst. concr. do great things (10) † as subst. neut. greatness of arm",
+        "def_ro": "mare — în orice sens; de aici, „mai în vârstă”; sau, la figurat, „îngâmfat”.",
+        "greek_def_ro": "μέγας (megas) — mare."
       },
       {
         "t": " "
@@ -2940,7 +3227,9 @@ window.CHAPTER_DATA = [
         "greek": "φωστήρ (phoster)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a luminous body or luminary, i.e. (abstractly) light (as an element); figuratively, brightness, i.e.cheerfulness; specifically, a chandelier",
-        "bdb": "מָאוֹר n.m. luminary"
+        "bdb": "מָאוֹר n.m. luminary",
+        "def_ro": "trup luminos, luminător — propriu-zis lumină ca element; la figurat, strălucire, bucurie; și, mai târziu, sfeșnic.",
+        "greek_def_ro": "φωστήρ (phoster) — luminător."
       },
       {
         "t": " cel "
@@ -2955,7 +3244,9 @@ window.CHAPTER_DATA = [
         "greek": "μέγας (megas, „mare”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "great (in any sense); hence, older; also insolent",
-        "bdb": "גָּדוֹל 622 adj. great (1) in magnitude and extent (2) in number (3) in intensity (4) in sound, loud (5) in age (6) in importance (7) in phrases (8) cstr. (9) as subst. concr. do great things (10) † as subst. neut. greatness of arm"
+        "bdb": "גָּדוֹל 622 adj. great (1) in magnitude and extent (2) in number (3) in intensity (4) in sound, loud (5) in age (6) in importance (7) in phrases (8) cstr. (9) as subst. concr. do great things (10) † as subst. neut. greatness of arm",
+        "def_ro": "mare — în orice sens; de aici, „mai în vârstă”; sau, la figurat, „îngâmfat”.",
+        "greek_def_ro": "μέγας (megas) — mare."
       },
       {
         "t": " pentru "
@@ -2970,7 +3261,9 @@ window.CHAPTER_DATA = [
         "greek": "ἀρχή (arche, „stăpânire, domnie”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "rule; also (concretely in plural) a realm or a ruler",
-        "bdb": "מֶמְשָׁלָה n.f. rule, dominion, realm"
+        "bdb": "מֶמְשָׁלָה n.f. rule, dominion, realm",
+        "def_ro": "stăpânire, cârmuire; ca substantiv concret la plural, un tărâm sau un cârmuitor.",
+        "greek_def_ro": "ἀρχή (arche) — aici cu sensul de „stăpânire, domnie” (același cuvânt grecesc ca la H7225, dar cu alt înțeles, purtat de context)."
       },
       {
         "t": " "
@@ -2985,7 +3278,9 @@ window.CHAPTER_DATA = [
         "greek": "ἡμέρα (hemera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
-        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases"
+        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
+        "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
+        "greek_def_ro": "ἡμέρα (hemera) — zi."
       },
       {
         "t": " și "
@@ -3000,7 +3295,9 @@ window.CHAPTER_DATA = [
         "greek": "φωστήρ (phoster)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a luminous body or luminary, i.e. (abstractly) light (as an element); figuratively, brightness, i.e.cheerfulness; specifically, a chandelier",
-        "bdb": "מָאוֹר n.m. luminary"
+        "bdb": "מָאוֹר n.m. luminary",
+        "def_ro": "trup luminos, luminător — propriu-zis lumină ca element; la figurat, strălucire, bucurie; și, mai târziu, sfeșnic.",
+        "greek_def_ro": "φωστήρ (phoster) — luminător."
       },
       {
         "t": " cel "
@@ -3015,7 +3312,9 @@ window.CHAPTER_DATA = [
         "greek": "μικρός (mikros, „mic”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "abbreviated, i.e. diminutive, literally (in quantity, size or number) or figuratively (in age or importance)",
-        "bdb": "קָטָן adj. small, young, unimportant"
+        "bdb": "קָטָן adj. small, young, unimportant",
+        "def_ro": "mic — literal (ca mărime sau număr) sau la figurat (ca vârstă sau însemnătate).",
+        "greek_def_ro": "μικρός (mikros) — mic."
       },
       {
         "t": " pentru "
@@ -3030,7 +3329,9 @@ window.CHAPTER_DATA = [
         "greek": "ἀρχή (arche, „stăpânire, domnie”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "rule; also (concretely in plural) a realm or a ruler",
-        "bdb": "מֶמְשָׁלָה n.f. rule, dominion, realm"
+        "bdb": "מֶמְשָׁלָה n.f. rule, dominion, realm",
+        "def_ro": "stăpânire, cârmuire; ca substantiv concret la plural, un tărâm sau un cârmuitor.",
+        "greek_def_ro": "ἀρχή (arche) — aici cu sensul de „stăpânire, domnie” (același cuvânt grecesc ca la H7225, dar cu alt înțeles, purtat de context)."
       },
       {
         "t": " "
@@ -3045,7 +3346,9 @@ window.CHAPTER_DATA = [
         "greek": "νύξ (nyx)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a twist (away of the light), i.e. night; figuratively, adversity",
-        "bdb": "לַ֫יְלָה, לַ֫יִל 242 n.m. night"
+        "bdb": "לַ֫יְלָה, לַ֫יִל 242 n.m. night",
+        "def_ro": "noapte — propriu-zis, „răsucirea” luminii care se stinge; la figurat, nenorocire.",
+        "greek_def_ro": "νύξ (nyx) — noapte."
       },
       {
         "t": " și "
@@ -3060,7 +3363,9 @@ window.CHAPTER_DATA = [
         "greek": "ἀστήρ (aster, „stea”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a star (as round or as shining); figuratively, a prince",
-        "bdb": "כּוֹכָב n.m. star"
+        "bdb": "כּוֹכָב n.m. star",
+        "def_ro": "stea — de la strălucirea sau rotunjimea ei; la figurat, un principe, o căpetenie.",
+        "greek_def_ro": "ἀστήρ (aster) — stea."
       }
     ],
     "refs": [
@@ -3121,7 +3426,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -3134,7 +3442,9 @@ window.CHAPTER_DATA = [
         "strong": "H5414",
         "pos": "verb (qal, timpul trecut narativ)",
         "def": "to give, used with greatest latitude of application (put, make, etc.)",
-        "bdb": "נָתַן 2007 vb. give, put, set Qal 1917 (1) give (2) Put, set (3) Make, constitute Niph. 82 (1) be given (2) Be put, set Hoph. (1) (a) be given, bestowed (b) = be given to one for wife (2) be put upon"
+        "bdb": "נָתַן 2007 vb. give, put, set Qal 1917 (1) give (2) Put, set (3) Make, constitute Niph. 82 (1) be given (2) Be put, set Hoph. (1) (a) be given, bestowed (b) = be given to one for wife (2) be put upon",
+        "def_ro": "a da — folosit cu sensul cel mai larg (a pune, a face, a îngădui etc.).",
+        "greek_def_ro": "— (redat prin verbe grecești diferite după context, nu printr-un singur termen fix.)"
       },
       {
         "t": " pe "
@@ -3149,7 +3459,9 @@ window.CHAPTER_DATA = [
         "greek": "στερέωμα (stereoma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
-        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
+        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
+        "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
       },
       {
         "t": " "
@@ -3164,7 +3476,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       },
       {
         "t": " pentru "
@@ -3177,7 +3491,9 @@ window.CHAPTER_DATA = [
         "strong": "H215",
         "pos": "verb (hifil, infinitiv)",
         "def": "to be (causative, make) luminous (literally and metaphorically)",
-        "bdb": "[אוֹר] 43 vb. be or become light Qal;—become light, shine of sun (esp. in early morn.) Niph.—become lighted up of day-break Hiph.— (1) give light, of sun, moon & stars (2) light up, cause to shine, shine (3) light a lamp (4) lighten, of the eyes (5) make shine, of face of God"
+        "bdb": "[אוֹר] 43 vb. be or become light Qal;—become light, shine of sun (esp. in early morn.) Niph.—become lighted up of day-break Hiph.— (1) give light, of sun, moon & stars (2) light up, cause to shine, shine (3) light a lamp (4) lighten, of the eyes (5) make shine, of face of God",
+        "def_ro": "a lumina, a face să strălucească — literal sau la figurat.",
+        "greek_def_ro": "— (verb redat prin construcții grecești variate, nu printr-un singur termen fix.)"
       },
       {
         "t": " asupra "
@@ -3192,7 +3508,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       }
     ],
     "refs": [
@@ -3242,7 +3560,9 @@ window.CHAPTER_DATA = [
         "strong": "H4910",
         "pos": "verb (qal, infinitiv, cu prefixul לְ)",
         "def": "to rule",
-        "bdb": "מָשַׁל vb. rule, have dominion, reign Qal (1) human subj., rule, have dominion over (2) of heavenly bodies (3) of God Hiph. cause to rule; exercise dominion"
+        "bdb": "מָשַׁל vb. rule, have dominion, reign Qal (1) human subj., rule, have dominion over (2) of heavenly bodies (3) of God Hiph. cause to rule; exercise dominion",
+        "def_ro": "a stăpâni, a cârmui.",
+        "greek_def_ro": "— (redat prin construcții grecești variate.)"
       },
       {
         "t": " "
@@ -3257,7 +3577,9 @@ window.CHAPTER_DATA = [
         "greek": "ἡμέρα (hemera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
-        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases"
+        "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
+        "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
+        "greek_def_ro": "ἡμέρα (hemera) — zi."
       },
       {
         "t": " și "
@@ -3272,7 +3594,9 @@ window.CHAPTER_DATA = [
         "greek": "νύξ (nyx)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a twist (away of the light), i.e. night; figuratively, adversity",
-        "bdb": "לַ֫יְלָה, לַ֫יִל 242 n.m. night"
+        "bdb": "לַ֫יְלָה, לַ֫יִל 242 n.m. night",
+        "def_ro": "noapte — propriu-zis, „răsucirea” luminii care se stinge; la figurat, nenorocire.",
+        "greek_def_ro": "νύξ (nyx) — noapte."
       },
       {
         "t": " și pentru "
@@ -3287,7 +3611,9 @@ window.CHAPTER_DATA = [
         "greek": "διαχωρίζω (diachorizo, „a despărți”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to divide (in variation senses literally or figuratively, separate, distinguish, differ, select, etc.)",
-        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated"
+        "bdb": "[בָּדַל] vb. be divided, separate Hiph. divide, separate (1) divide, separate, subj. God (2) separate, set apart (3) make a distinction between clean and unclean, holy and profane (4) divide into parts Niph. (1) (reflex. of Hiph. 2) (2) pass. be separated",
+        "def_ro": "a despărți, a deosebi — literal sau la figurat.",
+        "greek_def_ro": "διαχωρίζω (diachorizo) — a despărți, a separa."
       },
       {
         "t": " "
@@ -3302,7 +3628,9 @@ window.CHAPTER_DATA = [
         "greek": "φῶς (phos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
-        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh"
+        "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
+        "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
+        "greek_def_ro": "φῶς (phos) — lumină."
       },
       {
         "t": " de "
@@ -3317,7 +3645,9 @@ window.CHAPTER_DATA = [
         "greek": "σκότος (skotos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the dark; hence (literally) darkness; figuratively, misery, destruction, death, ignorance, sorrow, wickedness",
-        "bdb": "חֹ֫שֶׁךְ n.m. darkness, obscurity (1) darkness (opp. אוֹר) (2) = secret place(s); = hiding-place (3) fig. (a) = distress (b) = dread, terror, symbol. of judgment (c) = mourning (d) = perplexity; confusion (e) = ignorance (f) = evil, sin (g) = obscurity"
+        "bdb": "חֹ֫שֶׁךְ n.m. darkness, obscurity (1) darkness (opp. אוֹר) (2) = secret place(s); = hiding-place (3) fig. (a) = distress (b) = dread, terror, symbol. of judgment (c) = mourning (d) = perplexity; confusion (e) = ignorance (f) = evil, sin (g) = obscurity",
+        "def_ro": "întuneric — literal, dar și la figurat: nenorocire, pieire, moarte, neștiință, întristare, răutate.",
+        "greek_def_ro": "σκότος (skotos) — întuneric."
       },
       {
         "t": " Și "
@@ -3332,7 +3662,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -3347,7 +3680,9 @@ window.CHAPTER_DATA = [
         "greek": "ὁράω (horao, „a vedea”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
-        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to"
+        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to",
+        "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+        "greek_def_ro": "ὁράω (horao) — a vedea."
       },
       {
         "t": " că este "
@@ -3362,7 +3697,9 @@ window.CHAPTER_DATA = [
         "greek": "καλός / ἀγαθός (kalos / agathos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)",
-        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right"
+        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right",
+        "def_ro": "bun — adjectiv cu sens foarte larg; folosit și ca substantiv („un bine”, „lucru bun”) sau ca adverb („bine”).",
+        "greek_def_ro": "καλός / ἀγαθός (kalos / agathos) — frumos, bun / bun, de folos."
       }
     ],
     "refs": [
@@ -3414,7 +3751,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -3429,7 +3768,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑσπέρα (hespera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "dusk",
-        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night"
+        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night",
+        "def_ro": "amurg, înserare.",
+        "greek_def_ro": "ἑσπέρα (hespera) — seară."
       },
       {
         "t": " și "
@@ -3444,7 +3785,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -3459,7 +3802,9 @@ window.CHAPTER_DATA = [
         "greek": "πρωί (proi)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, dawn (as the break of day); generally, morning",
-        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day"
+        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day",
+        "def_ro": "zori, dimineață — propriu-zis, spărtura zilei.",
+        "greek_def_ro": "πρωί (proi) — dimineață."
       },
       {
         "t": " a "
@@ -3472,7 +3817,9 @@ window.CHAPTER_DATA = [
         "strong": "H7243",
         "pos": "numeral ordinal",
         "def": "fourth; also (fractionally) a fourth",
-        "bdb": "רְבִיעִי m., רְבִיעִית f., adj.num.ordin. fourth"
+        "bdb": "רְבִיעִי m., רְבִיעִית f., adj.num.ordin. fourth",
+        "def_ro": "al patrulea — și, ca fracție, „a patra parte”.",
+        "greek_def_ro": "— (redat de LXX prin forma obișnuită τέταρτος, „al patrulea”.)"
       },
       {
         "t": " zi."
@@ -3526,7 +3873,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -3541,7 +3891,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγω (lego)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " „Să "
@@ -3556,7 +3908,9 @@ window.CHAPTER_DATA = [
         "greek": "ἐξάγω (exago)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to wriggle, i.e. (by implication) swarm or abound",
-        "bdb": "שָׁרַץ vb. swarm, teem"
+        "bdb": "שָׁרַץ vb. swarm, teem",
+        "def_ro": "a mișuna, a forfoti — propriu-zis, a se foi, a se zbate.",
+        "greek_def_ro": "ἐξάγω (exago) — aici, prin extindere de sens, „a scoate la iveală, a face să iasă (în număr mare)”."
       },
       {
         "t": " "
@@ -3571,7 +3925,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       },
       {
         "t": " de sumedenie de "
@@ -3586,7 +3942,10 @@ window.CHAPTER_DATA = [
         "greek": "ψυχή (psyche)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a breathing creature, i.e. animal of (abstractly) vitality; used very widely in a literal, accommodated or figurative sense (bodily or mental)",
-        "bdb": "נֶ֫פֶשׁ 756 n.f. soul, living being, life, self, person, desire, appetite, emotion, and passion (1) = that which breathes, the breathing substance or being (2) The נפשׁ becomes a living being (3) The נפשׁ is specif. (4) The נפשׁ as the essential of man stands for the man himself (5) נפשׁ = seat of the appetites, in all periods (46 t.) (6) נ׳ = seat of emotions and passions (7) נפשׁ is used occasionally for mental acts (8) נפשׁ for acts of the will is dub. (9) נפשׁ = character is still more dub. (10) נ׳ in D"
+        "bdb": "נֶ֫פֶשׁ 756 n.f. soul, living being, life, self, person, desire, appetite, emotion, and passion (1) = that which breathes, the breathing substance or being (2) The נפשׁ becomes a living being (3) The נפשׁ is specif. (4) The נפשׁ as the essential of man stands for the man himself (5) נפשׁ = seat of the appetites, in all periods (46 t.) (6) נ׳ = seat of emotions and passions (7) נפשׁ is used occasionally for mental acts (8) נפשׁ for acts of the will is dub. (9) נפשׁ = character is still more dub. (10) נ׳ in D",
+        "def_ro": "suflet viu — propriu-zis, o ființă care respiră, un animal; folosit foarte larg pentru viață, trup sau minte.",
+        "greek_def_ro": "ψυχή (psyche) — suflet, viață.",
+        "diff_ro": "Expresia ebraică נֶפֶשׁ חַיָּה (]nefesh chayah[) se aplică deopotrivă animalelor și omului (comparați Gen. 2:7); grecescul ψυχή, prin filtrul filosofiei elene ulterioare, a ajuns să sune mai „spiritual” decât originalul, care înseamnă mai simplu „viețuitor, ființă vie”."
       },
       {
         "t": " însuflețite; și "
@@ -3601,7 +3960,9 @@ window.CHAPTER_DATA = [
         "greek": "πετεινόν (peteinon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a bird (as covered with feathers, or rather as covering with wings), often collectively",
-        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects"
+        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects",
+        "def_ro": "pasăre — propriu-zis, cea acoperită cu pene sau cu aripi; adesea folosit la colectiv.",
+        "greek_def_ro": "πετεινόν (peteinon) — pasăre, zburătoare."
       },
       {
         "t": " "
@@ -3616,7 +3977,9 @@ window.CHAPTER_DATA = [
         "greek": "πέτομαι (petomai, „a zbura”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to fly; also (by implication of dimness) to faint (from the darkness of swooning)",
-        "bdb": "עוּף vb. fly Qal (1) (a) fly, of birds (b) hover (protectingly) (2) fly away Hiph. dost thou cause thine eyes to fly Pō‛l. (1) fly about, to and fro (2) cause to fly to and fro, brandish Hithpō‛l. like a bird their glory shall fly away"
+        "bdb": "עוּף vb. fly Qal (1) (a) fly, of birds (b) hover (protectingly) (2) fly away Hiph. dost thou cause thine eyes to fly Pō‛l. (1) fly about, to and fro (2) cause to fly to and fro, brandish Hithpō‛l. like a bird their glory shall fly away",
+        "def_ro": "a zbura; la figurat (prin ideea de amețeală), a leșina.",
+        "greek_def_ro": "πέτομαι (petomai) — a zbura."
       },
       {
         "t": " deasupra "
@@ -3631,7 +3994,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " peste "
@@ -3646,7 +4011,9 @@ window.CHAPTER_DATA = [
         "greek": "πρόσωπον (prosopon, „față”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the face (as the part that turns); used in a great variety of applications (literally and figuratively); also (with prepositional prefix) as a preposition (before, etc.)",
-        "bdb": "[פָּנֶה], pl. פָּנִים 2123 n.m. face, also faces (1) face, faces (2) (a) presence, person (b) technically, see one's face, i.e. appear before one, in one's presence (3) face of seraphim (4) face of animals (5) face (= surface) of ground (6) as adv.loc. before (7) for other phrases with prepositions"
+        "bdb": "[פָּנֶה], pl. פָּנִים 2123 n.m. face, also faces (1) face, faces (2) (a) presence, person (b) technically, see one's face, i.e. appear before one, in one's presence (3) face of seraphim (4) face of animals (5) face (= surface) of ground (6) as adv.loc. before (7) for other phrases with prepositions",
+        "def_ro": "față — propriu-zis, partea care se întoarce spre cineva; folosită în foarte multe construcții, uneori ca prepoziție („înaintea”).",
+        "greek_def_ro": "πρόσωπον (prosopon) — față, chip."
       },
       {
         "t": " "
@@ -3661,7 +4028,9 @@ window.CHAPTER_DATA = [
         "greek": "στερέωμα (stereoma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
-        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
+        "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
+        "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
       },
       {
         "t": " "
@@ -3676,7 +4045,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       }
     ],
     "refs": [
@@ -3740,7 +4111,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -3755,7 +4129,10 @@ window.CHAPTER_DATA = [
         "greek": "ποιέω / κτίζω (poieo / ktizo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "(absolutely) to create; (qualified) to cut down (a wood), select, feed (as formative processes)",
-        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out"
+        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out",
+        "def_ro": "a crea (absolut, din nimic); în alte contexte: a tăia, a alege, a modela, a hrăni.",
+        "greek_def_ro": "ποιέω / κτίζω (poieo / ktizo) — a face, a alcătui / a întemeia, a zidi.",
+        "diff_ro": "Verbul ebraic ברא are în Vechiul Testament subiect exclusiv divin și poartă ideea de creație din nimic; verbul grecesc ποιέω folosit de LXX aici înseamnă mai general „a face, a alcătui” — o nuanță mai slabă decât originalul ebraic."
       },
       {
         "t": " "
@@ -3770,7 +4147,9 @@ window.CHAPTER_DATA = [
         "greek": "κῆτος (ketos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a marine or land monster, i.e. sea-serpent or jackal",
-        "bdb": "[תַּן] n.[m. et] f. jackal"
+        "bdb": "[תַּן] n.[m. et] f. jackal",
+        "def_ro": "monstru marin sau de uscat — șarpe de mare sau șacal.",
+        "greek_def_ro": "κῆτος (ketos) — fiară de mare, monstru marin."
       },
       {
         "t": " "
@@ -3785,7 +4164,9 @@ window.CHAPTER_DATA = [
         "greek": "μέγας (megas)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "great (in any sense); hence, older; also insolent",
-        "bdb": "גָּדוֹל 622 adj. great (1) in magnitude and extent (2) in number (3) in intensity (4) in sound, loud (5) in age (6) in importance (7) in phrases (8) cstr. (9) as subst. concr. do great things (10) † as subst. neut. greatness of arm"
+        "bdb": "גָּדוֹל 622 adj. great (1) in magnitude and extent (2) in number (3) in intensity (4) in sound, loud (5) in age (6) in importance (7) in phrases (8) cstr. (9) as subst. concr. do great things (10) † as subst. neut. greatness of arm",
+        "def_ro": "mare — în orice sens; de aici, „mai în vârstă”; sau, la figurat, „îngâmfat”.",
+        "greek_def_ro": "μέγας (megas) — mare."
       },
       {
         "t": " și "
@@ -3800,7 +4181,9 @@ window.CHAPTER_DATA = [
         "greek": "πᾶς (pas)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
-        "bdb": "כֹּל once כּוֹל n.m. the whole, all (1) with foll. gen. (as usually) the whole of, to be rendered, however, often in our idiom, to avoid stiffness, any or every (2) Absolutely: (a) without the art., all things, all (b) with the art. הַכֹּל where the sense is limited by the context to things (or persons) just mentioned in a wider sense, all, whether of all mankind or of all living things, the universe, or of all the circumstances of life (chiefly late)"
+        "bdb": "כֹּל once כּוֹל n.m. the whole, all (1) with foll. gen. (as usually) the whole of, to be rendered, however, often in our idiom, to avoid stiffness, any or every (2) Absolutely: (a) without the art., all things, all (b) with the art. הַכֹּל where the sense is limited by the context to things (or persons) just mentioned in a wider sense, all, whether of all mankind or of all living things, the universe, or of all the circumstances of life (chiefly late)",
+        "def_ro": "tot, întreg — de aici, „tot, orice, fiecare”.",
+        "greek_def_ro": "πᾶς (pas) — tot, fiecare."
       },
       {
         "t": " "
@@ -3815,7 +4198,10 @@ window.CHAPTER_DATA = [
         "greek": "ψυχή (psyche)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a breathing creature, i.e. animal of (abstractly) vitality; used very widely in a literal, accommodated or figurative sense (bodily or mental)",
-        "bdb": "נֶ֫פֶשׁ 756 n.f. soul, living being, life, self, person, desire, appetite, emotion, and passion (1) = that which breathes, the breathing substance or being (2) The נפשׁ becomes a living being (3) The נפשׁ is specif. (4) The נפשׁ as the essential of man stands for the man himself (5) נפשׁ = seat of the appetites, in all periods (46 t.) (6) נ׳ = seat of emotions and passions (7) נפשׁ is used occasionally for mental acts (8) נפשׁ for acts of the will is dub. (9) נפשׁ = character is still more dub. (10) נ׳ in D"
+        "bdb": "נֶ֫פֶשׁ 756 n.f. soul, living being, life, self, person, desire, appetite, emotion, and passion (1) = that which breathes, the breathing substance or being (2) The נפשׁ becomes a living being (3) The נפשׁ is specif. (4) The נפשׁ as the essential of man stands for the man himself (5) נפשׁ = seat of the appetites, in all periods (46 t.) (6) נ׳ = seat of emotions and passions (7) נפשׁ is used occasionally for mental acts (8) נפשׁ for acts of the will is dub. (9) נפשׁ = character is still more dub. (10) נ׳ in D",
+        "def_ro": "suflet viu — propriu-zis, o ființă care respiră, un animal; folosit foarte larg pentru viață, trup sau minte.",
+        "greek_def_ro": "ψυχή (psyche) — suflet, viață.",
+        "diff_ro": "Expresia ebraică נֶפֶשׁ חַיָּה (]nefesh chayah[) se aplică deopotrivă animalelor și omului (comparați Gen. 2:7); grecescul ψυχή, prin filtrul filosofiei elene ulterioare, a ajuns să sune mai „spiritual” decât originalul, care înseamnă mai simplu „viețuitor, ființă vie”."
       },
       {
         "t": " de care "
@@ -3830,7 +4216,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑρπετόν (herpeton, forma participială)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, to glide swiftly, i.e. to crawl or move with short steps; by analogy to swarm",
-        "bdb": "רָמַשׂ vb. creep, move lightly, move about (chiefly P)"
+        "bdb": "רָמַשׂ vb. creep, move lightly, move about (chiefly P)",
+        "def_ro": "a se târî — propriu-zis, a aluneca iute, a se mișca cu pași mărunți; prin analogie, a mișuna.",
+        "greek_def_ro": "ἑρπετόν (herpeton) — târâtoare (de la ἕρπω, „a se târî” — de aici cuvântul „herpetologie”)."
       },
       {
         "t": " "
@@ -3845,7 +4233,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       },
       {
         "t": " după "
@@ -3860,7 +4250,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " lor; și orice "
@@ -3875,7 +4267,9 @@ window.CHAPTER_DATA = [
         "greek": "πετεινόν (peteinon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a bird (as covered with feathers, or rather as covering with wings), often collectively",
-        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects"
+        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects",
+        "def_ro": "pasăre — propriu-zis, cea acoperită cu pene sau cu aripi; adesea folosit la colectiv.",
+        "greek_def_ro": "πετεινόν (peteinon) — pasăre, zburătoare."
       },
       {
         "t": " "
@@ -3890,7 +4284,9 @@ window.CHAPTER_DATA = [
         "greek": "πτερωτόν (pteroton, „înaripat”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "an edge or extremity; specifically (of a bird or army) a wing, (of a garment or bedclothing) a flap, (of the earth) a quarter, (of a building) a pinnacle",
-        "bdb": "כָּנָף 109 n.f. wing, extremity"
+        "bdb": "כָּנָף 109 n.f. wing, extremity",
+        "def_ro": "aripă — propriu-zis, margine sau capăt; la o pasăre sau o oaste, aripă; la o haină, poală; la pământ, un capăt (colț); la o clădire, un turn.",
+        "greek_def_ro": "πτερωτόν (pteroton) — înaripat."
       },
       {
         "t": " după "
@@ -3905,7 +4301,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " ei. Și "
@@ -3918,7 +4316,10 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -3933,7 +4334,9 @@ window.CHAPTER_DATA = [
         "greek": "ὁράω (horao)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
-        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to"
+        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to",
+        "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+        "greek_def_ro": "ὁράω (horao) — a vedea."
       },
       {
         "t": " că este "
@@ -3948,7 +4351,9 @@ window.CHAPTER_DATA = [
         "greek": "καλός (kalos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)",
-        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right"
+        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right",
+        "def_ro": "bun — adjectiv cu sens foarte larg; folosit și ca substantiv („un bine”, „lucru bun”) sau ca adverb („bine”).",
+        "greek_def_ro": "καλός / ἀγαθός (kalos / agathos) — frumos, bun / bun, de folos."
       }
     ],
     "refs": [
@@ -4013,7 +4418,9 @@ window.CHAPTER_DATA = [
         "greek": "εὐλογέω (eulogeo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)",
-        "bdb": "[בָּרַךְ] 329 vb. kneel, bless Qal (1) kneel down (2) bless Niph. bless oneself Pi. (1) bless God, adore with bended knees (2) God blesses (3) men bless men (4) salute, greet, with an invocation of blessing (5) bless, with the antithetical meaning curse from the greeting in departing, saying adieu to, taking leave of; but rather a blessing overdone and so really a curse as in vulgar English as well as in the Shemitic cognates Pu. (1) pass. to be blessed, adored (2) prospered by God (3) have prosperity invoked, by Balaam (4) in gratitude Hiph. and he made his camel kneel Hithp. bless oneself, congratulate oneself in his heart"
+        "bdb": "[בָּרַךְ] 329 vb. kneel, bless Qal (1) kneel down (2) bless Niph. bless oneself Pi. (1) bless God, adore with bended knees (2) God blesses (3) men bless men (4) salute, greet, with an invocation of blessing (5) bless, with the antithetical meaning curse from the greeting in departing, saying adieu to, taking leave of; but rather a blessing overdone and so really a curse as in vulgar English as well as in the Shemitic cognates Pu. (1) pass. to be blessed, adored (2) prospered by God (3) have prosperity invoked, by Balaam (4) in gratitude Hiph. and he made his camel kneel Hithp. bless oneself, congratulate oneself in his heart",
+        "def_ro": "a binecuvânta — propriu-zis, a îngenunchea; de aici, a binecuvânta pe Dumnezeu (ca act de închinare) sau pe om (ca binefacere); prin eufemism, chiar și „a blestema”.",
+        "greek_def_ro": "εὐλογέω (eulogeo) — a binecuvânta (propriu-zis, „a vorbi de bine” — de aici „eulogie”)."
       },
       {
         "t": " "
@@ -4028,7 +4435,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -4043,7 +4453,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγων (legon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " „"
@@ -4058,7 +4470,9 @@ window.CHAPTER_DATA = [
         "greek": "αὐξάνω (auxano, „a crește”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to bear fruit (literally or figuratively)",
-        "bdb": "[פָּרָה] vb. bear fruit, be fruitful Qal (1) of men and animals (2) of vine Hiph. (1) cause to bear fruit (2) make fruitful (3) shew fruitfulness, bear fruit"
+        "bdb": "[פָּרָה] vb. bear fruit, be fruitful Qal (1) of men and animals (2) of vine Hiph. (1) cause to bear fruit (2) make fruitful (3) shew fruitfulness, bear fruit",
+        "def_ro": "a rodi, a fi roditor — literal sau la figurat.",
+        "greek_def_ro": "αὐξάνω (auxano) — a crește, a spori."
       },
       {
         "t": " și "
@@ -4073,7 +4487,9 @@ window.CHAPTER_DATA = [
         "greek": "πληθύνω (plethyno)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to increase (in whatever respect)",
-        "bdb": "[רָבָה] 225 vb. be, or become, much, many, great Qal 59 (1) become many, numerous (2) (a) be great (b) grow great (Aramaism) Pi. 4 make large, increase Hiph. 162 (1) make much or many (2) make great, obj. pers."
+        "bdb": "[רָבָה] 225 vb. be, or become, much, many, great Qal 59 (1) become many, numerous (2) (a) be great (b) grow great (Aramaism) Pi. 4 make large, increase Hiph. 162 (1) make much or many (2) make great, obj. pers.",
+        "def_ro": "a se înmulți, a spori.",
+        "greek_def_ro": "πληθύνω (plethyno) — a înmulți."
       },
       {
         "t": " și "
@@ -4088,7 +4504,9 @@ window.CHAPTER_DATA = [
         "greek": "πληρόω (pleroo, „a umple”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to fill or (intransitively) be full of, in a wide application (literally and figuratively)",
-        "bdb": "מָלֵא 249 vb. be full, fill Qal 99 (1) be full, usu. c. acc. material (2) trans. fill Niph. (1) be filled (2) be accomplished, ended Pi. (1) fill (2) special uses are: (3) fulfil, accomplish, complete, obj. week, year, day Pu. filled Hithp. mass themselves against me"
+        "bdb": "מָלֵא 249 vb. be full, fill Qal 99 (1) be full, usu. c. acc. material (2) trans. fill Niph. (1) be filled (2) be accomplished, ended Pi. (1) fill (2) special uses are: (3) fulfil, accomplish, complete, obj. week, year, day Pu. filled Hithp. mass themselves against me",
+        "def_ro": "a umple, a fi plin.",
+        "greek_def_ro": "πληρόω (pleroo) — a umple, a împlini."
       },
       {
         "t": " "
@@ -4103,7 +4521,9 @@ window.CHAPTER_DATA = [
         "greek": "ὕδωρ (hydor)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "water; figuratively, juice; by euphemism, urine, semen",
-        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water"
+        "bdb": "[מַי] 580 n.m. only pl. מַ֫יִם waters, water",
+        "def_ro": "apă; la figurat, must, zeamă.",
+        "greek_def_ro": "ὕδωρ (hydor) — apă."
       },
       {
         "t": " în "
@@ -4118,7 +4538,9 @@ window.CHAPTER_DATA = [
         "greek": "θάλασσα (thalassa)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sea (as breaking in noisy surf) or large body of water; specifically (with the article), the Mediterranean Sea; sometimes a large river, or an artifical basin; locally, the west, or (rarely) the south",
-        "bdb": "יָם 390 n.m. sea"
+        "bdb": "יָם 390 n.m. sea",
+        "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
+        "greek_def_ro": "θάλασσα (thalassa) — mare."
       },
       {
         "t": " iar "
@@ -4133,7 +4555,9 @@ window.CHAPTER_DATA = [
         "greek": "πετεινόν (peteinon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a bird (as covered with feathers, or rather as covering with wings), often collectively",
-        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects"
+        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects",
+        "def_ro": "pasăre — propriu-zis, cea acoperită cu pene sau cu aripi; adesea folosit la colectiv.",
+        "greek_def_ro": "πετεινόν (peteinon) — pasăre, zburătoare."
       },
       {
         "t": " să se "
@@ -4148,7 +4572,9 @@ window.CHAPTER_DATA = [
         "greek": "πληθύνω (plethyno)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to increase (in whatever respect)",
-        "bdb": "[רָבָה] 225 vb. be, or become, much, many, great Qal 59 (1) become many, numerous (2) (a) be great (b) grow great (Aramaism) Pi. 4 make large, increase Hiph. 162 (1) make much or many (2) make great, obj. pers."
+        "bdb": "[רָבָה] 225 vb. be, or become, much, many, great Qal 59 (1) become many, numerous (2) (a) be great (b) grow great (Aramaism) Pi. 4 make large, increase Hiph. 162 (1) make much or many (2) make great, obj. pers.",
+        "def_ro": "a se înmulți, a spori.",
+        "greek_def_ro": "πληθύνω (plethyno) — a înmulți."
       },
       {
         "t": " pe "
@@ -4163,7 +4589,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       }
     ],
     "refs": [
@@ -4223,7 +4651,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -4238,7 +4668,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑσπέρα (hespera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "dusk",
-        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night"
+        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night",
+        "def_ro": "amurg, înserare.",
+        "greek_def_ro": "ἑσπέρα (hespera) — seară."
       },
       {
         "t": " și "
@@ -4253,7 +4685,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι / εἰμί (ginomai / eimi, „a fi, a deveni”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -4268,7 +4702,9 @@ window.CHAPTER_DATA = [
         "greek": "πρωί (proi)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, dawn (as the break of day); generally, morning",
-        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day"
+        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day",
+        "def_ro": "zori, dimineață — propriu-zis, spărtura zilei.",
+        "greek_def_ro": "πρωί (proi) — dimineață."
       },
       {
         "t": " a "
@@ -4283,7 +4719,9 @@ window.CHAPTER_DATA = [
         "greek": "πέμπτος (pemptos, „al cincilea”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "fifth; also a fifth",
-        "bdb": "חֲמִישִׁי m., חֲמִישִׁית f.adj.num.ordin. fifth"
+        "bdb": "חֲמִישִׁי m., חֲמִישִׁית f.adj.num.ordin. fifth",
+        "def_ro": "al cincilea.",
+        "greek_def_ro": "πέμπτος (pemptos) — al cincilea."
       },
       {
         "t": " zi."
@@ -4337,7 +4775,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -4352,7 +4793,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγω (lego)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " „"
@@ -4367,7 +4810,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " "
@@ -4382,7 +4827,9 @@ window.CHAPTER_DATA = [
         "greek": "ἐξάγω (exago)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to go (causatively, bring) out, in a great variety of applications, literally and figuratively, direct and proxim.",
-        "bdb": "יָצָא 1068 vb. go or come out Qal (1) go or come out or forth (a) from (מִן) a place (b) go forth from (the presence of) a person (c) in technical senses (d) of flight, involving escape (e) depart (f) of inanimate things (g) with especial emphasis on idea of origin, source (h) of children as going forth from loins (of father) (2) (a) go forth to a place (b) go forward, proceed to or toward something (c) come or go forth, with esp. ref. to purpose or result (3) of combinations Hiph. (1) cause to go or come out, bring out, lead out (2) fig. obj. persons, bring out of (מִן) distress, etc. (3) bring out animals (4) inanimate obj. (5) fig. subj. י׳, bring forth from (מִן) Hoph. be brought forth"
+        "bdb": "יָצָא 1068 vb. go or come out Qal (1) go or come out or forth (a) from (מִן) a place (b) go forth from (the presence of) a person (c) in technical senses (d) of flight, involving escape (e) depart (f) of inanimate things (g) with especial emphasis on idea of origin, source (h) of children as going forth from loins (of father) (2) (a) go forth to a place (b) go forward, proceed to or toward something (c) come or go forth, with esp. ref. to purpose or result (3) of combinations Hiph. (1) cause to go or come out, bring out, lead out (2) fig. obj. persons, bring out of (מִן) distress, etc. (3) bring out animals (4) inanimate obj. (5) fig. subj. י׳, bring forth from (מִן) Hoph. be brought forth",
+        "def_ro": "a scoate, a ieși — verb de mișcare cu aplicații foarte variate.",
+        "greek_def_ro": "ἐξάγω (exago) — a scoate afară."
       },
       {
         "t": " "
@@ -4397,7 +4844,10 @@ window.CHAPTER_DATA = [
         "greek": "ψυχή (psyche)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a breathing creature, i.e. animal of (abstractly) vitality; used very widely in a literal, accommodated or figurative sense (bodily or mental)",
-        "bdb": "נֶ֫פֶשׁ 756 n.f. soul, living being, life, self, person, desire, appetite, emotion, and passion (1) = that which breathes, the breathing substance or being (2) The נפשׁ becomes a living being (3) The נפשׁ is specif. (4) The נפשׁ as the essential of man stands for the man himself (5) נפשׁ = seat of the appetites, in all periods (46 t.) (6) נ׳ = seat of emotions and passions (7) נפשׁ is used occasionally for mental acts (8) נפשׁ for acts of the will is dub. (9) נפשׁ = character is still more dub. (10) נ׳ in D"
+        "bdb": "נֶ֫פֶשׁ 756 n.f. soul, living being, life, self, person, desire, appetite, emotion, and passion (1) = that which breathes, the breathing substance or being (2) The נפשׁ becomes a living being (3) The נפשׁ is specif. (4) The נפשׁ as the essential of man stands for the man himself (5) נפשׁ = seat of the appetites, in all periods (46 t.) (6) נ׳ = seat of emotions and passions (7) נפשׁ is used occasionally for mental acts (8) נפשׁ for acts of the will is dub. (9) נפשׁ = character is still more dub. (10) נ׳ in D",
+        "def_ro": "suflet viu — propriu-zis, o ființă care respiră, un animal; folosit foarte larg pentru viață, trup sau minte.",
+        "greek_def_ro": "ψυχή (psyche) — suflet, viață.",
+        "diff_ro": "Expresia ebraică נֶפֶשׁ חַיָּה (]nefesh chayah[) se aplică deopotrivă animalelor și omului (comparați Gen. 2:7); grecescul ψυχή, prin filtrul filosofiei elene ulterioare, a ajuns să sune mai „spiritual” decât originalul, care înseamnă mai simplu „viețuitor, ființă vie”."
       },
       {
         "t": " [fiecare] după "
@@ -4412,7 +4862,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " său: "
@@ -4427,7 +4879,9 @@ window.CHAPTER_DATA = [
         "greek": "κτῆνος (ktenos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a dumb beast; especially any large quadruped or animal (often collective)",
-        "bdb": "בְּהֵמָה 187 n.f. beast, animal, cattle (1) of living creatures other than man (2) opp. also to wild beasts (3) rarely of wild beasts, esp. carnivora"
+        "bdb": "בְּהֵמָה 187 n.f. beast, animal, cattle (1) of living creatures other than man (2) opp. also to wild beasts (3) rarely of wild beasts, esp. carnivora",
+        "def_ro": "vită, dobitoc — propriu-zis, „fiară mută”; mai ales patruped mare, adesea la colectiv.",
+        "greek_def_ro": "κτῆνος (ktenos) — vită, dobitoc de povară (de aici „animal domestic”)."
       },
       {
         "t": " "
@@ -4442,7 +4896,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑρπετόν (herpeton)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a reptile or any other rapidly moving animal",
-        "bdb": "רֶ֫מֶשׂ n.m. coll. creeping things, moving things"
+        "bdb": "רֶ֫מֶשׂ n.m. coll. creeping things, moving things",
+        "def_ro": "târâtoare — sau orice altă vietate ce se mișcă iute pe pământ.",
+        "greek_def_ro": "ἑρπετόν (herpeton) — târâtoare (același cuvânt grecesc ca la H7430)."
       },
       {
         "t": " și "
@@ -4457,7 +4913,9 @@ window.CHAPTER_DATA = [
         "greek": "θηρίον (therion, „fiară”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "alive; hence, raw (flesh); fresh (plant, water, year), strong; also (as noun, especially in the feminine singular and masculine plural) life (or living thing), whether literally or figuratively",
-        "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving"
+        "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving",
+        "def_ro": "viu — de aici, „crud” (despre carne), „proaspăt” (despre plantă, apă, an), „puternic”; ca substantiv, viață sau ființă vie.",
+        "greek_def_ro": "θηρίον (therion) — fiară, animal sălbatic."
       },
       {
         "t": " a "
@@ -4472,7 +4930,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " după "
@@ -4487,7 +4947,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " său!” Și "
@@ -4502,7 +4964,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι (ginomai)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -4517,7 +4981,9 @@ window.CHAPTER_DATA = [
         "greek": "οὕτως (houtos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, set upright; hence (figuratively as adjective) just; but usually (as adverb or conjunction) rightly or so (in various applications to manner, time and relation; often with other particles)",
-        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)"
+        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)",
+        "def_ro": "așa, astfel — propriu-zis „drept, în picioare”; de aici, la figurat, „drept, corect” sau, ca adverb, „așa”.",
+        "greek_def_ro": "οὕτως (houtos) — așa, astfel."
       }
     ],
     "refs": [
@@ -4572,7 +5038,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -4587,7 +5056,9 @@ window.CHAPTER_DATA = [
         "greek": "ποιέω (poieo, „a face”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to do or make, in the broadest sense and widest application",
-        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made"
+        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made",
+        "def_ro": "a face, a lucra — în sensul cel mai larg și cu aplicații foarte variate.",
+        "greek_def_ro": "ποιέω (poieo) — a face."
       },
       {
         "t": " "
@@ -4600,7 +5071,9 @@ window.CHAPTER_DATA = [
         "strong": "H2416",
         "pos": "substantiv, stare construită",
         "def": "alive; hence, raw (flesh); fresh (plant, water, year), strong; also (as noun, especially in the feminine singular and masculine plural) life (or living thing), whether literally or figuratively",
-        "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving"
+        "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving",
+        "def_ro": "viu — de aici, „crud” (despre carne), „proaspăt” (despre plantă, apă, an), „puternic”; ca substantiv, viață sau ființă vie.",
+        "greek_def_ro": "θηρίον (therion) — fiară, animal sălbatic."
       },
       {
         "t": " "
@@ -4615,7 +5088,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " după "
@@ -4630,7 +5105,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " lor și "
@@ -4645,7 +5122,9 @@ window.CHAPTER_DATA = [
         "greek": "κτῆνος (ktenos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a dumb beast; especially any large quadruped or animal (often collective)",
-        "bdb": "בְּהֵמָה 187 n.f. beast, animal, cattle (1) of living creatures other than man (2) opp. also to wild beasts (3) rarely of wild beasts, esp. carnivora"
+        "bdb": "בְּהֵמָה 187 n.f. beast, animal, cattle (1) of living creatures other than man (2) opp. also to wild beasts (3) rarely of wild beasts, esp. carnivora",
+        "def_ro": "vită, dobitoc — propriu-zis, „fiară mută”; mai ales patruped mare, adesea la colectiv.",
+        "greek_def_ro": "κτῆνος (ktenos) — vită, dobitoc de povară (de aici „animal domestic”)."
       },
       {
         "t": " după "
@@ -4660,7 +5139,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " lor și "
@@ -4673,7 +5154,9 @@ window.CHAPTER_DATA = [
         "strong": "H3605",
         "pos": "adjectiv/cuantificator",
         "def": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
-        "bdb": "כֹּל once כּוֹל n.m. the whole, all (1) with foll. gen. (as usually) the whole of, to be rendered, however, often in our idiom, to avoid stiffness, any or every (2) Absolutely: (a) without the art., all things, all (b) with the art. הַכֹּל where the sense is limited by the context to things (or persons) just mentioned in a wider sense, all, whether of all mankind or of all living things, the universe, or of all the circumstances of life (chiefly late)"
+        "bdb": "כֹּל once כּוֹל n.m. the whole, all (1) with foll. gen. (as usually) the whole of, to be rendered, however, often in our idiom, to avoid stiffness, any or every (2) Absolutely: (a) without the art., all things, all (b) with the art. הַכֹּל where the sense is limited by the context to things (or persons) just mentioned in a wider sense, all, whether of all mankind or of all living things, the universe, or of all the circumstances of life (chiefly late)",
+        "def_ro": "tot, întreg — de aici, „tot, orice, fiecare”.",
+        "greek_def_ro": "πᾶς (pas) — tot, fiecare."
       },
       {
         "t": " "
@@ -4688,7 +5171,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑρπετόν (herpeton)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a reptile or any other rapidly moving animal",
-        "bdb": "רֶ֫מֶשׂ n.m. coll. creeping things, moving things"
+        "bdb": "רֶ֫מֶשׂ n.m. coll. creeping things, moving things",
+        "def_ro": "târâtoare — sau orice altă vietate ce se mișcă iute pe pământ.",
+        "greek_def_ro": "ἑρπετόν (herpeton) — târâtoare (același cuvânt grecesc ca la H7430)."
       },
       {
         "t": " "
@@ -4701,7 +5186,9 @@ window.CHAPTER_DATA = [
         "strong": "H127",
         "pos": "substantiv, cu articol",
         "def": "soil (from its general redness)",
-        "bdb": "אֲדָמָה 224 n.f. ground, land (as tilled) (1) ground (as tilled, yielding sustenance) (2) piece of ground, landed property (3) earth as material substance (4) ground as earth's visible surface (5) land, territory, country (6) whole earth, inhabited earth (7) n. pr. loc. city in Naphtali"
+        "bdb": "אֲדָמָה 224 n.f. ground, land (as tilled) (1) ground (as tilled, yielding sustenance) (2) piece of ground, landed property (3) earth as material substance (4) ground as earth's visible surface (5) land, territory, country (6) whole earth, inhabited earth (7) n. pr. loc. city in Naphtali",
+        "def_ro": "sol, pământ arabil — de la culoarea lui roșiatică (aceeași rădăcină ca numele „Adam”).",
+        "greek_def_ro": "— (LXX îl redă simplu γῆ, „pământ”, la fel ca H776.)"
       },
       {
         "t": " după "
@@ -4716,7 +5203,9 @@ window.CHAPTER_DATA = [
         "greek": "γένος (genos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sort, i.e. species",
-        "bdb": "[מִין] n.[m.] kind, species"
+        "bdb": "[מִין] n.[m.] kind, species",
+        "def_ro": "soi, fel, specie.",
+        "greek_def_ro": "γένος (genos) — neam, fel, specie."
       },
       {
         "t": " lor. Și "
@@ -4731,7 +5220,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -4746,7 +5238,9 @@ window.CHAPTER_DATA = [
         "greek": "ὁράω (horao, „a vedea”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
-        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to"
+        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to",
+        "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+        "greek_def_ro": "ὁράω (horao) — a vedea."
       },
       {
         "t": " că este "
@@ -4761,7 +5255,9 @@ window.CHAPTER_DATA = [
         "greek": "καλός / ἀγαθός (kalos / agathos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)",
-        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right"
+        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right",
+        "def_ro": "bun — adjectiv cu sens foarte larg; folosit și ca substantiv („un bine”, „lucru bun”) sau ca adverb („bine”).",
+        "greek_def_ro": "καλός / ἀγαθός (kalos / agathos) — frumos, bun / bun, de folos."
       }
     ],
     "refs": [
@@ -4817,7 +5313,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -4832,7 +5331,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγω (lego)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " „Să facem",
@@ -4844,7 +5345,9 @@ window.CHAPTER_DATA = [
         "greek": "ποιήσωμεν (poiesomen, conjunctiv)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to do or make, in the broadest sense and widest application",
-        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made"
+        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made",
+        "def_ro": "a face, a lucra — în sensul cel mai larg și cu aplicații foarte variate.",
+        "greek_def_ro": "ποιέω (poieo) — a face."
       },
       {
         "t": " "
@@ -4859,7 +5362,9 @@ window.CHAPTER_DATA = [
         "greek": "ἄνθρωπος (anthropos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "ruddy i.e. a human being (an individual or the species, mankind, etc.)",
-        "bdb": "אָדָם 560 n.m. [Gn 1:27] man, mankind (1) a man = human being (2) coll. man, mankind (3) n.pr.m. Adam, first man (without art.) (4) n.pr.loc. city in Jordan valley (as built?)"
+        "bdb": "אָדָם 560 n.m. [Gn 1:27] man, mankind (1) a man = human being (2) coll. man, mankind (3) n.pr.m. Adam, first man (without art.) (4) n.pr.loc. city in Jordan valley (as built?)",
+        "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
+        "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească."
       },
       {
         "t": " în "
@@ -4874,7 +5379,10 @@ window.CHAPTER_DATA = [
         "greek": "εἰκών (eikon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a phantom, i.e. (figuratively) illusion, resemblance; hence, a representative figure, especially an idol",
-        "bdb": "צֶ֫לֶם n.m. image (1) images (2) image, likeness, of resemblance (3) fig. = mere, empty, image, semblance"
+        "bdb": "צֶ֫לֶם n.m. image (1) images (2) image, likeness, of resemblance (3) fig. = mere, empty, image, semblance",
+        "def_ro": "chip — propriu-zis, o nălucă, o umbră; de aici, o icoană, un chip cioplit, un idol; sau, la figurat, asemănarea, reprezentarea cuiva.",
+        "greek_def_ro": "εἰκών (eikon) — chip, icoană (de aici cuvântul „icoană”).",
+        "diff_ro": "Ebraicul צֶלֶם are, la origine, o legătură cu ideea de „umbră, nălucă” — un chip care doar reflectă, nu e realitatea însăși; grecescul εἰκών, preluat de teologia creștină ulterioară pentru „chipul lui Dumnezeu”, a căpătat o greutate teologică proprie, dincolo de sensul strict al cuvântului ebraic."
       },
       {
         "t": " noastră, după "
@@ -4889,7 +5397,9 @@ window.CHAPTER_DATA = [
         "greek": "ὁμοίωσις (homoiosis)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "resemblance; concretely, model, shape; adverbially, like",
-        "bdb": "דְּמוּת n.f. likeness, similitude (1) likeness, similitude, of external appearance (2) adverbially,in likeness of, like as"
+        "bdb": "דְּמוּת n.f. likeness, similitude (1) likeness, similitude, of external appearance (2) adverbially,in likeness of, like as",
+        "def_ro": "asemănare — concret, model, formă; ca adverb, „ca, precum”.",
+        "greek_def_ro": "ὁμοίωσις (homoiosis) — asemănare."
       },
       {
         "t": " noastră! Și "
@@ -4904,7 +5414,9 @@ window.CHAPTER_DATA = [
         "greek": "ἄρχω (archo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to tread down, i.e. subjugate; specifically, to crumble off",
-        "bdb": "[רָדָה] vb. have dominion, rule, dominate Qal have dominion, rule, over Hiph. and kings he causeth (him) to dominate"
+        "bdb": "[רָדָה] vb. have dominion, rule, dominate Qal have dominion, rule, over Hiph. and kings he causeth (him) to dominate",
+        "def_ro": "a stăpâni, a supune — propriu-zis, a călca în picioare; prin extindere, a domni peste.",
+        "greek_def_ro": "ἄρχω (archo) — a conduce, a stăpâni."
       },
       {
         "t": " peste "
@@ -4919,7 +5431,9 @@ window.CHAPTER_DATA = [
         "greek": "ἰχθύς (ichthys, „pește”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "fish.",
-        "bdb": "דָּגָה n.f. fish"
+        "bdb": "דָּגָה n.f. fish",
+        "def_ro": "pește.",
+        "greek_def_ro": "ἰχθύς (ichthys) — pește."
       },
       {
         "t": " "
@@ -4934,7 +5448,9 @@ window.CHAPTER_DATA = [
         "greek": "θάλασσα (thalassa)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sea (as breaking in noisy surf) or large body of water; specifically (with the article), the Mediterranean Sea; sometimes a large river, or an artifical basin; locally, the west, or (rarely) the south",
-        "bdb": "יָם 390 n.m. sea"
+        "bdb": "יָם 390 n.m. sea",
+        "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
+        "greek_def_ro": "θάλασσα (thalassa) — mare."
       },
       {
         "t": " și peste "
@@ -4949,7 +5465,9 @@ window.CHAPTER_DATA = [
         "greek": "πετεινόν (peteinon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a bird (as covered with feathers, or rather as covering with wings), often collectively",
-        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects"
+        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects",
+        "def_ro": "pasăre — propriu-zis, cea acoperită cu pene sau cu aripi; adesea folosit la colectiv.",
+        "greek_def_ro": "πετεινόν (peteinon) — pasăre, zburătoare."
       },
       {
         "t": " "
@@ -4964,7 +5482,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       },
       {
         "t": " și peste "
@@ -4979,7 +5499,9 @@ window.CHAPTER_DATA = [
         "greek": "κτῆνος (ktenos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a dumb beast; especially any large quadruped or animal (often collective)",
-        "bdb": "בְּהֵמָה 187 n.f. beast, animal, cattle (1) of living creatures other than man (2) opp. also to wild beasts (3) rarely of wild beasts, esp. carnivora"
+        "bdb": "בְּהֵמָה 187 n.f. beast, animal, cattle (1) of living creatures other than man (2) opp. also to wild beasts (3) rarely of wild beasts, esp. carnivora",
+        "def_ro": "vită, dobitoc — propriu-zis, „fiară mută”; mai ales patruped mare, adesea la colectiv.",
+        "greek_def_ro": "κτῆνος (ktenos) — vită, dobitoc de povară (de aici „animal domestic”)."
       },
       {
         "t": " și peste tot "
@@ -4994,7 +5516,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " și peste toate "
@@ -5009,7 +5533,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑρπετόν (herpeton)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a reptile or any other rapidly moving animal",
-        "bdb": "רֶ֫מֶשׂ n.m. coll. creeping things, moving things"
+        "bdb": "רֶ֫מֶשׂ n.m. coll. creeping things, moving things",
+        "def_ro": "târâtoare — sau orice altă vietate ce se mișcă iute pe pământ.",
+        "greek_def_ro": "ἑρπετόν (herpeton) — târâtoare (același cuvânt grecesc ca la H7430)."
       },
       {
         "t": " care se "
@@ -5024,7 +5550,9 @@ window.CHAPTER_DATA = [
         "greek": "ἕρπω (herpo, „a se târî”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, to glide swiftly, i.e. to crawl or move with short steps; by analogy to swarm",
-        "bdb": "רָמַשׂ vb. creep, move lightly, move about (chiefly P)"
+        "bdb": "רָמַשׂ vb. creep, move lightly, move about (chiefly P)",
+        "def_ro": "a se târî — propriu-zis, a aluneca iute, a se mișca cu pași mărunți; prin analogie, a mișuna.",
+        "greek_def_ro": "ἑρπετόν (herpeton) — târâtoare (de la ἕρπω, „a se târî” — de aici cuvântul „herpetologie”)."
       },
       {
         "t": " pe pământ.”"
@@ -5100,7 +5628,10 @@ window.CHAPTER_DATA = [
         "greek": "ποιέω (poieo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "(absolutely) to create; (qualified) to cut down (a wood), select, feed (as formative processes)",
-        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out"
+        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out",
+        "def_ro": "a crea (absolut, din nimic); în alte contexte: a tăia, a alege, a modela, a hrăni.",
+        "greek_def_ro": "ποιέω / κτίζω (poieo / ktizo) — a face, a alcătui / a întemeia, a zidi.",
+        "diff_ro": "Verbul ebraic ברא are în Vechiul Testament subiect exclusiv divin și poartă ideea de creație din nimic; verbul grecesc ποιέω folosit de LXX aici înseamnă mai general „a face, a alcătui” — o nuanță mai slabă decât originalul ebraic."
       },
       {
         "t": " "
@@ -5115,7 +5646,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " pe "
@@ -5130,7 +5664,9 @@ window.CHAPTER_DATA = [
         "greek": "ἄνθρωπος (anthropos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "ruddy i.e. a human being (an individual or the species, mankind, etc.)",
-        "bdb": "אָדָם 560 n.m. [Gn 1:27] man, mankind (1) a man = human being (2) coll. man, mankind (3) n.pr.m. Adam, first man (without art.) (4) n.pr.loc. city in Jordan valley (as built?)"
+        "bdb": "אָדָם 560 n.m. [Gn 1:27] man, mankind (1) a man = human being (2) coll. man, mankind (3) n.pr.m. Adam, first man (without art.) (4) n.pr.loc. city in Jordan valley (as built?)",
+        "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
+        "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească."
       },
       {
         "t": " în "
@@ -5145,7 +5681,10 @@ window.CHAPTER_DATA = [
         "greek": "εἰκών (eikon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a phantom, i.e. (figuratively) illusion, resemblance; hence, a representative figure, especially an idol",
-        "bdb": "צֶ֫לֶם n.m. image (1) images (2) image, likeness, of resemblance (3) fig. = mere, empty, image, semblance"
+        "bdb": "צֶ֫לֶם n.m. image (1) images (2) image, likeness, of resemblance (3) fig. = mere, empty, image, semblance",
+        "def_ro": "chip — propriu-zis, o nălucă, o umbră; de aici, o icoană, un chip cioplit, un idol; sau, la figurat, asemănarea, reprezentarea cuiva.",
+        "greek_def_ro": "εἰκών (eikon) — chip, icoană (de aici cuvântul „icoană”).",
+        "diff_ro": "Ebraicul צֶלֶם are, la origine, o legătură cu ideea de „umbră, nălucă” — un chip care doar reflectă, nu e realitatea însăși; grecescul εἰκών, preluat de teologia creștină ulterioară pentru „chipul lui Dumnezeu”, a căpătat o greutate teologică proprie, dincolo de sensul strict al cuvântului ebraic."
       },
       {
         "t": " Sa, în "
@@ -5160,7 +5699,10 @@ window.CHAPTER_DATA = [
         "greek": "εἰκὼν Θεοῦ (eikon Theou)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a phantom, i.e. (figuratively) illusion, resemblance; hence, a representative figure, especially an idol",
-        "bdb": "צֶ֫לֶם n.m. image (1) images (2) image, likeness, of resemblance (3) fig. = mere, empty, image, semblance"
+        "bdb": "צֶ֫לֶם n.m. image (1) images (2) image, likeness, of resemblance (3) fig. = mere, empty, image, semblance",
+        "def_ro": "chip — propriu-zis, o nălucă, o umbră; de aici, o icoană, un chip cioplit, un idol; sau, la figurat, asemănarea, reprezentarea cuiva.",
+        "greek_def_ro": "εἰκών (eikon) — chip, icoană (de aici cuvântul „icoană”).",
+        "diff_ro": "Ebraicul צֶלֶם are, la origine, o legătură cu ideea de „umbră, nălucă” — un chip care doar reflectă, nu e realitatea însăși; grecescul εἰκών, preluat de teologia creștină ulterioară pentru „chipul lui Dumnezeu”, a căpătat o greutate teologică proprie, dincolo de sensul strict al cuvântului ebraic."
       },
       {
         "t": " lui Dumnezeu "
@@ -5175,7 +5717,10 @@ window.CHAPTER_DATA = [
         "greek": "ἐποίησεν αὐτόν (epoiesen auton)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "(absolutely) to create; (qualified) to cut down (a wood), select, feed (as formative processes)",
-        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out"
+        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out",
+        "def_ro": "a crea (absolut, din nimic); în alte contexte: a tăia, a alege, a modela, a hrăni.",
+        "greek_def_ro": "ποιέω / κτίζω (poieo / ktizo) — a face, a alcătui / a întemeia, a zidi.",
+        "diff_ro": "Verbul ebraic ברא are în Vechiul Testament subiect exclusiv divin și poartă ideea de creație din nimic; verbul grecesc ποιέω folosit de LXX aici înseamnă mai general „a face, a alcătui” — o nuanță mai slabă decât originalul ebraic."
       },
       {
         "t": " parte "
@@ -5190,7 +5735,9 @@ window.CHAPTER_DATA = [
         "greek": "ἄρσην (arsen)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, remembered, i.e. a male (of man or animals, as being the most noteworthy sex)",
-        "bdb": "זָכָר n.m. & adj. male subst. male, offspring of men and animals adj. sg. male (only human beings)"
+        "bdb": "זָכָר n.m. & adj. male subst. male, offspring of men and animals adj. sg. male (only human beings)",
+        "def_ro": "parte bărbătească — propriu-zis, „cel pomenit” (ca sex mai însemnat în cultura vremii).",
+        "greek_def_ro": "ἄρσην (arsen) — de parte bărbătească."
       },
       {
         "t": " și "
@@ -5205,7 +5752,9 @@ window.CHAPTER_DATA = [
         "greek": "θῆλυς (thelys)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "female (from the sexual form)",
-        "bdb": "נְקֵבָה n.f. female"
+        "bdb": "נְקֵבָה n.f. female",
+        "def_ro": "parte femeiască — de la forma trupului.",
+        "greek_def_ro": "θῆλυς (thelys) — de parte femeiască."
       },
       {
         "t": " "
@@ -5220,7 +5769,10 @@ window.CHAPTER_DATA = [
         "greek": "ἐποίησεν αὐτούς (epoiesen autous)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "(absolutely) to create; (qualified) to cut down (a wood), select, feed (as formative processes)",
-        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out"
+        "bdb": "בָּרָא 53 vb. shape, create Qal Pf.—shape, fashion, create Niph.—Pass. (1) be created (2) with reference to birth (3) of something new, astonishing Pi. (1) cut down (2) cut out",
+        "def_ro": "a crea (absolut, din nimic); în alte contexte: a tăia, a alege, a modela, a hrăni.",
+        "greek_def_ro": "ποιέω / κτίζω (poieo / ktizo) — a face, a alcătui / a întemeia, a zidi.",
+        "diff_ro": "Verbul ebraic ברא are în Vechiul Testament subiect exclusiv divin și poartă ideea de creație din nimic; verbul grecesc ποιέω folosit de LXX aici înseamnă mai general „a face, a alcătui” — o nuanță mai slabă decât originalul ebraic."
       }
     ],
     "refs": [
@@ -5279,7 +5831,9 @@ window.CHAPTER_DATA = [
         "greek": "εὐλογέω (eulogeo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)",
-        "bdb": "[בָּרַךְ] 329 vb. kneel, bless Qal (1) kneel down (2) bless Niph. bless oneself Pi. (1) bless God, adore with bended knees (2) God blesses (3) men bless men (4) salute, greet, with an invocation of blessing (5) bless, with the antithetical meaning curse from the greeting in departing, saying adieu to, taking leave of; but rather a blessing overdone and so really a curse as in vulgar English as well as in the Shemitic cognates Pu. (1) pass. to be blessed, adored (2) prospered by God (3) have prosperity invoked, by Balaam (4) in gratitude Hiph. and he made his camel kneel Hithp. bless oneself, congratulate oneself in his heart"
+        "bdb": "[בָּרַךְ] 329 vb. kneel, bless Qal (1) kneel down (2) bless Niph. bless oneself Pi. (1) bless God, adore with bended knees (2) God blesses (3) men bless men (4) salute, greet, with an invocation of blessing (5) bless, with the antithetical meaning curse from the greeting in departing, saying adieu to, taking leave of; but rather a blessing overdone and so really a curse as in vulgar English as well as in the Shemitic cognates Pu. (1) pass. to be blessed, adored (2) prospered by God (3) have prosperity invoked, by Balaam (4) in gratitude Hiph. and he made his camel kneel Hithp. bless oneself, congratulate oneself in his heart",
+        "def_ro": "a binecuvânta — propriu-zis, a îngenunchea; de aici, a binecuvânta pe Dumnezeu (ca act de închinare) sau pe om (ca binefacere); prin eufemism, chiar și „a blestema”.",
+        "greek_def_ro": "εὐλογέω (eulogeo) — a binecuvânta (propriu-zis, „a vorbi de bine” — de aici „eulogie”)."
       },
       {
         "t": " "
@@ -5294,7 +5848,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " și "
@@ -5309,7 +5866,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγω (lego)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " "
@@ -5322,7 +5881,10 @@ window.CHAPTER_DATA = [
         "strong": "H430",
         "pos": "substantiv",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " „"
@@ -5337,7 +5899,9 @@ window.CHAPTER_DATA = [
         "greek": "αὐξάνω (auxano)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to bear fruit (literally or figuratively)",
-        "bdb": "[פָּרָה] vb. bear fruit, be fruitful Qal (1) of men and animals (2) of vine Hiph. (1) cause to bear fruit (2) make fruitful (3) shew fruitfulness, bear fruit"
+        "bdb": "[פָּרָה] vb. bear fruit, be fruitful Qal (1) of men and animals (2) of vine Hiph. (1) cause to bear fruit (2) make fruitful (3) shew fruitfulness, bear fruit",
+        "def_ro": "a rodi, a fi roditor — literal sau la figurat.",
+        "greek_def_ro": "αὐξάνω (auxano) — a crește, a spori."
       },
       {
         "t": " și "
@@ -5352,7 +5916,9 @@ window.CHAPTER_DATA = [
         "greek": "πληθύνω (plethyno)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to increase (in whatever respect)",
-        "bdb": "[רָבָה] 225 vb. be, or become, much, many, great Qal 59 (1) become many, numerous (2) (a) be great (b) grow great (Aramaism) Pi. 4 make large, increase Hiph. 162 (1) make much or many (2) make great, obj. pers."
+        "bdb": "[רָבָה] 225 vb. be, or become, much, many, great Qal 59 (1) become many, numerous (2) (a) be great (b) grow great (Aramaism) Pi. 4 make large, increase Hiph. 162 (1) make much or many (2) make great, obj. pers.",
+        "def_ro": "a se înmulți, a spori.",
+        "greek_def_ro": "πληθύνω (plethyno) — a înmulți."
       },
       {
         "t": " și "
@@ -5367,7 +5933,9 @@ window.CHAPTER_DATA = [
         "greek": "πληρόω (pleroo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to fill or (intransitively) be full of, in a wide application (literally and figuratively)",
-        "bdb": "מָלֵא 249 vb. be full, fill Qal 99 (1) be full, usu. c. acc. material (2) trans. fill Niph. (1) be filled (2) be accomplished, ended Pi. (1) fill (2) special uses are: (3) fulfil, accomplish, complete, obj. week, year, day Pu. filled Hithp. mass themselves against me"
+        "bdb": "מָלֵא 249 vb. be full, fill Qal 99 (1) be full, usu. c. acc. material (2) trans. fill Niph. (1) be filled (2) be accomplished, ended Pi. (1) fill (2) special uses are: (3) fulfil, accomplish, complete, obj. week, year, day Pu. filled Hithp. mass themselves against me",
+        "def_ro": "a umple, a fi plin.",
+        "greek_def_ro": "πληρόω (pleroo) — a umple, a împlini."
       },
       {
         "t": " "
@@ -5382,7 +5950,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " și "
@@ -5397,7 +5967,9 @@ window.CHAPTER_DATA = [
         "greek": "κατακυριεύω (katakyrieuo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to tread down; hence, negatively, to disregard; positively, to conquer, subjugate, violate",
-        "bdb": "[כָּבַשׁ] vb. subdue, bring into bondage Qal (1) bring into bondage (2) (late) subdue, force, a woman (3) subdue, dominate, the earth Niph. pass. Pi. (of conquest) Hiph. bring into bondage"
+        "bdb": "[כָּבַשׁ] vb. subdue, bring into bondage Qal (1) bring into bondage (2) (late) subdue, force, a woman (3) subdue, dominate, the earth Niph. pass. Pi. (of conquest) Hiph. bring into bondage",
+        "def_ro": "a supune, a stăpâni — propriu-zis, a călca în picioare; de aici, a nesocoti sau, dimpotrivă, a birui, a subjuga.",
+        "greek_def_ro": "κατακυριεύω (katakyrieuo) — a stăpâni deplin, a domni asupra."
       },
       {
         "t": " și "
@@ -5412,7 +5984,9 @@ window.CHAPTER_DATA = [
         "greek": "ἄρχω (archo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to tread down, i.e. subjugate; specifically, to crumble off",
-        "bdb": "[רָדָה] vb. have dominion, rule, dominate Qal have dominion, rule, over Hiph. and kings he causeth (him) to dominate"
+        "bdb": "[רָדָה] vb. have dominion, rule, dominate Qal have dominion, rule, over Hiph. and kings he causeth (him) to dominate",
+        "def_ro": "a stăpâni, a supune — propriu-zis, a călca în picioare; prin extindere, a domni peste.",
+        "greek_def_ro": "ἄρχω (archo) — a conduce, a stăpâni."
       },
       {
         "t": " peste "
@@ -5427,7 +6001,9 @@ window.CHAPTER_DATA = [
         "greek": "ἰχθύς (ichthys)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "fish.",
-        "bdb": "דָּגָה n.f. fish"
+        "bdb": "דָּגָה n.f. fish",
+        "def_ro": "pește.",
+        "greek_def_ro": "ἰχθύς (ichthys) — pește."
       },
       {
         "t": " "
@@ -5442,7 +6018,9 @@ window.CHAPTER_DATA = [
         "greek": "θάλασσα (thalassa)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a sea (as breaking in noisy surf) or large body of water; specifically (with the article), the Mediterranean Sea; sometimes a large river, or an artifical basin; locally, the west, or (rarely) the south",
-        "bdb": "יָם 390 n.m. sea"
+        "bdb": "יָם 390 n.m. sea",
+        "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
+        "greek_def_ro": "θάλασσα (thalassa) — mare."
       },
       {
         "t": " și peste "
@@ -5457,7 +6035,9 @@ window.CHAPTER_DATA = [
         "greek": "πετεινόν (peteinon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a bird (as covered with feathers, or rather as covering with wings), often collectively",
-        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects"
+        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects",
+        "def_ro": "pasăre — propriu-zis, cea acoperită cu pene sau cu aripi; adesea folosit la colectiv.",
+        "greek_def_ro": "πετεινόν (peteinon) — pasăre, zburătoare."
       },
       {
         "t": " "
@@ -5472,7 +6052,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       },
       {
         "t": " și peste toate "
@@ -5487,7 +6069,9 @@ window.CHAPTER_DATA = [
         "greek": "ζῷον (zoon, „viețuitoare”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "alive; hence, raw (flesh); fresh (plant, water, year), strong; also (as noun, especially in the feminine singular and masculine plural) life (or living thing), whether literally or figuratively",
-        "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving"
+        "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving",
+        "def_ro": "viu — de aici, „crud” (despre carne), „proaspăt” (despre plantă, apă, an), „puternic”; ca substantiv, viață sau ființă vie.",
+        "greek_def_ro": "θηρίον (therion) — fiară, animal sălbatic."
       },
       {
         "t": " care "
@@ -5502,7 +6086,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑρπετόν (herpeton)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, to glide swiftly, i.e. to crawl or move with short steps; by analogy to swarm",
-        "bdb": "רָמַשׂ vb. creep, move lightly, move about (chiefly P)"
+        "bdb": "רָמַשׂ vb. creep, move lightly, move about (chiefly P)",
+        "def_ro": "a se târî — propriu-zis, a aluneca iute, a se mișca cu pași mărunți; prin analogie, a mișuna.",
+        "greek_def_ro": "ἑρπετόν (herpeton) — târâtoare (de la ἕρπω, „a se târî” — de aici cuvântul „herpetologie”)."
       },
       {
         "t": " pe pământ.”"
@@ -5570,7 +6156,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -5585,7 +6174,9 @@ window.CHAPTER_DATA = [
         "greek": "λέγω (lego)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to say (used with great latitude)",
-        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast"
+        "bdb": "אָמַר 5287 vb. utter, say Qal (1) Say (2) Say in the heart (= think) (3) Promise (4) Command (esp. late) Niph. be said, told Hiph. avow, avouch (lit. cause to declare) Hithp. act proudly, boast",
+        "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+        "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
         "t": " „"
@@ -5600,7 +6191,9 @@ window.CHAPTER_DATA = [
         "greek": "ἰδού (idou)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "lo!",
-        "bdb": "הִנֵּה, once הִנֶּה־ [Gn 19:2], demonstr.part. lo!, behold!"
+        "bdb": "הִנֵּה, once הִנֶּה־ [Gn 19:2], demonstr.part. lo!, behold!",
+        "def_ro": "iată!",
+        "greek_def_ro": "ἰδού (idou) — iată!"
       },
       {
         "t": " "
@@ -5615,7 +6208,9 @@ window.CHAPTER_DATA = [
         "greek": "δίδωμι (didomi, „a da”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to give, used with greatest latitude of application (put, make, etc.)",
-        "bdb": "נָתַן 2007 vb. give, put, set Qal 1917 (1) give (2) Put, set (3) Make, constitute Niph. 82 (1) be given (2) Be put, set Hoph. (1) (a) be given, bestowed (b) = be given to one for wife (2) be put upon"
+        "bdb": "נָתַן 2007 vb. give, put, set Qal 1917 (1) give (2) Put, set (3) Make, constitute Niph. 82 (1) be given (2) Be put, set Hoph. (1) (a) be given, bestowed (b) = be given to one for wife (2) be put upon",
+        "def_ro": "a da — folosit cu sensul cel mai larg (a pune, a face, a îngădui etc.).",
+        "greek_def_ro": "— (redat prin verbe grecești diferite după context, nu printr-un singur termen fix.)"
       },
       {
         "t": " "
@@ -5630,7 +6225,9 @@ window.CHAPTER_DATA = [
         "greek": "πᾶς (pas)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
-        "bdb": "כֹּל once כּוֹל n.m. the whole, all (1) with foll. gen. (as usually) the whole of, to be rendered, however, often in our idiom, to avoid stiffness, any or every (2) Absolutely: (a) without the art., all things, all (b) with the art. הַכֹּל where the sense is limited by the context to things (or persons) just mentioned in a wider sense, all, whether of all mankind or of all living things, the universe, or of all the circumstances of life (chiefly late)"
+        "bdb": "כֹּל once כּוֹל n.m. the whole, all (1) with foll. gen. (as usually) the whole of, to be rendered, however, often in our idiom, to avoid stiffness, any or every (2) Absolutely: (a) without the art., all things, all (b) with the art. הַכֹּל where the sense is limited by the context to things (or persons) just mentioned in a wider sense, all, whether of all mankind or of all living things, the universe, or of all the circumstances of life (chiefly late)",
+        "def_ro": "tot, întreg — de aici, „tot, orice, fiecare”.",
+        "greek_def_ro": "πᾶς (pas) — tot, fiecare."
       },
       {
         "t": " "
@@ -5645,7 +6242,9 @@ window.CHAPTER_DATA = [
         "greek": "χόρτος (chortos, „iarbă”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "grass (or any tender shoot)",
-        "bdb": "עֵ֫שֶׂב n.m. herb, herbage"
+        "bdb": "עֵ֫שֶׂב n.m. herb, herbage",
+        "def_ro": "iarbă, verdeață fragedă.",
+        "greek_def_ro": "— (redat prin același termen ca H1877, βοτάνη.)"
       },
       {
         "t": " roditoare de "
@@ -5660,7 +6259,9 @@ window.CHAPTER_DATA = [
         "greek": "σπείρω (speiro)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to sow; figuratively, to disseminate, plant, fructify",
-        "bdb": "זָרַע vb. sow, scatter seed Qal (1) lit. sow (2) of shrub and tree producing, yielding seed (3) fig. Niph. be sown, fructified (1) be sown (2) be fructified, made pregnant Pu. of princes and judges under fig. of trees Hiph. (1) produce seed (2) of a woman, = bear a child"
+        "bdb": "זָרַע vb. sow, scatter seed Qal (1) lit. sow (2) of shrub and tree producing, yielding seed (3) fig. Niph. be sown, fructified (1) be sown (2) be fructified, made pregnant Pu. of princes and judges under fig. of trees Hiph. (1) produce seed (2) of a woman, = bear a child",
+        "def_ro": "a semăna; la figurat, a răspândi, a rodi.",
+        "greek_def_ro": "σπείρω (speiro) — a semăna."
       },
       {
         "t": " care este pe "
@@ -5675,7 +6276,9 @@ window.CHAPTER_DATA = [
         "greek": "σπέρμα (sperma)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "seed; figuratively, fruit, plant, sowing-time, posterity",
-        "bdb": "זֶ֫רַע n.m. sowing, seed, offspring (1) lit.: (a) a sowing (b) sowing as regularly recurring at its season (2) seed (3) seed = semen virile (4) seed = offspring (5) seed as marked by moral quality = persons (or community) of such a quality"
+        "bdb": "זֶ֫רַע n.m. sowing, seed, offspring (1) lit.: (a) a sowing (b) sowing as regularly recurring at its season (2) seed (3) seed = semen virile (4) seed = offspring (5) seed as marked by moral quality = persons (or community) of such a quality",
+        "def_ro": "sămânță — literal sau, la figurat, rod, urmași, vreme de semănat.",
+        "greek_def_ro": "σπέρμα (sperma) — sămânță."
       },
       {
         "t": " "
@@ -5690,7 +6293,9 @@ window.CHAPTER_DATA = [
         "greek": "πρόσωπον (prosopon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the face (as the part that turns); used in a great variety of applications (literally and figuratively); also (with prepositional prefix) as a preposition (before, etc.)",
-        "bdb": "[פָּנֶה], pl. פָּנִים 2123 n.m. face, also faces (1) face, faces (2) (a) presence, person (b) technically, see one's face, i.e. appear before one, in one's presence (3) face of seraphim (4) face of animals (5) face (= surface) of ground (6) as adv.loc. before (7) for other phrases with prepositions"
+        "bdb": "[פָּנֶה], pl. פָּנִים 2123 n.m. face, also faces (1) face, faces (2) (a) presence, person (b) technically, see one's face, i.e. appear before one, in one's presence (3) face of seraphim (4) face of animals (5) face (= surface) of ground (6) as adv.loc. before (7) for other phrases with prepositions",
+        "def_ro": "față — propriu-zis, partea care se întoarce spre cineva; folosită în foarte multe construcții, uneori ca prepoziție („înaintea”).",
+        "greek_def_ro": "πρόσωπον (prosopon) — față, chip."
       },
       {
         "t": " întregului "
@@ -5705,7 +6310,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " și orice "
@@ -5720,7 +6327,9 @@ window.CHAPTER_DATA = [
         "greek": "ξύλον (xylon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a tree (from its firmness); hence, wood (plural sticks)",
-        "bdb": "עֵץ 329 n.m. tree, trees, wood (1) (c. 150 t.) (a) a standing tree (b) coll. trees (2) (c. 175 t.; c. 120 t. pl., to denote pieces [or articles] of wood)"
+        "bdb": "עֵץ 329 n.m. tree, trees, wood (1) (c. 150 t.) (a) a standing tree (b) coll. trees (2) (c. 175 t.; c. 120 t. pl., to denote pieces [or articles] of wood)",
+        "def_ro": "pom, copac — de la ideea de tărie; de aici și „lemn”.",
+        "greek_def_ro": "ξύλον (xylon) — copac, lemn."
       },
       {
         "t": " în care este "
@@ -5735,7 +6344,9 @@ window.CHAPTER_DATA = [
         "greek": "καρπός (karpos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "fruit (literally or figuratively)",
-        "bdb": "פְּרִי 119 n.m. fruit (1) fruit of the ground, of produce in gen. (2) = offspring, fruit of womb (3) fig. of fruit of actions, i.e. their consequences"
+        "bdb": "פְּרִי 119 n.m. fruit (1) fruit of the ground, of produce in gen. (2) = offspring, fruit of womb (3) fig. of fruit of actions, i.e. their consequences",
+        "def_ro": "rod, fruct — literal sau la figurat.",
+        "greek_def_ro": "καρπός (karpos) — rod."
       },
       {
         "t": " dătător de sămânță – să vă fie vouă drept "
@@ -5750,7 +6361,9 @@ window.CHAPTER_DATA = [
         "greek": "βρῶσις (brosis)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "food",
-        "bdb": "אָכְלָה 17 n.f. food, eating (1) esp. in phr. (2) devouring, by wild beasts, only fig. of ravaged people (3) consuming, in fire"
+        "bdb": "אָכְלָה 17 n.f. food, eating (1) esp. in phr. (2) devouring, by wild beasts, only fig. of ravaged people (3) consuming, in fire",
+        "def_ro": "hrană.",
+        "greek_def_ro": "βρῶσις (brosis) — hrană, mâncare."
       }
     ],
     "refs": [
@@ -5811,7 +6424,9 @@ window.CHAPTER_DATA = [
         "greek": "θηρίον (therion)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "alive; hence, raw (flesh); fresh (plant, water, year), strong; also (as noun, especially in the feminine singular and masculine plural) life (or living thing), whether literally or figuratively",
-        "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving"
+        "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving",
+        "def_ro": "viu — de aici, „crud” (despre carne), „proaspăt” (despre plantă, apă, an), „puternic”; ca substantiv, viață sau ființă vie.",
+        "greek_def_ro": "θηρίον (therion) — fiară, animal sălbatic."
       },
       {
         "t": " "
@@ -5826,7 +6441,9 @@ window.CHAPTER_DATA = [
         "greek": "γῆ (ge)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the earth (at large, or partitively a land)",
-        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc."
+        "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
+        "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+        "greek_def_ro": "γῆ (ge) — pământ, țară."
       },
       {
         "t": " pentru toate "
@@ -5841,7 +6458,9 @@ window.CHAPTER_DATA = [
         "greek": "πετεινόν (peteinon)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "a bird (as covered with feathers, or rather as covering with wings), often collectively",
-        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects"
+        "bdb": "עוֹף 70 n.m. coll. flying creatures, fowls, insects (1) fowl, birds (2) winged insects",
+        "def_ro": "pasăre — propriu-zis, cea acoperită cu pene sau cu aripi; adesea folosit la colectiv.",
+        "greek_def_ro": "πετεινόν (peteinon) — pasăre, zburătoare."
       },
       {
         "t": " "
@@ -5856,7 +6475,9 @@ window.CHAPTER_DATA = [
         "greek": "οὐρανός (ouranos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
-        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations"
+        "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
+        "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+        "greek_def_ro": "οὐρανός (ouranos) — cer."
       },
       {
         "t": " și pentru toate "
@@ -5871,7 +6492,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑρπετόν (herpeton)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, to glide swiftly, i.e. to crawl or move with short steps; by analogy to swarm",
-        "bdb": "רָמַשׂ vb. creep, move lightly, move about (chiefly P)"
+        "bdb": "רָמַשׂ vb. creep, move lightly, move about (chiefly P)",
+        "def_ro": "a se târî — propriu-zis, a aluneca iute, a se mișca cu pași mărunți; prin analogie, a mișuna.",
+        "greek_def_ro": "ἑρπετόν (herpeton) — târâtoare (de la ἕρπω, „a se târî” — de aici cuvântul „herpetologie”)."
       },
       {
         "t": " de pe pământ, în care există "
@@ -5886,7 +6509,10 @@ window.CHAPTER_DATA = [
         "greek": "ψυχὴ ζωῆς (psyche zoes)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, a breathing creature, i.e. animal of (abstractly) vitality; used very widely in a literal, accommodated or figurative sense (bodily or mental)",
-        "bdb": "נֶ֫פֶשׁ 756 n.f. soul, living being, life, self, person, desire, appetite, emotion, and passion (1) = that which breathes, the breathing substance or being (2) The נפשׁ becomes a living being (3) The נפשׁ is specif. (4) The נפשׁ as the essential of man stands for the man himself (5) נפשׁ = seat of the appetites, in all periods (46 t.) (6) נ׳ = seat of emotions and passions (7) נפשׁ is used occasionally for mental acts (8) נפשׁ for acts of the will is dub. (9) נפשׁ = character is still more dub. (10) נ׳ in D"
+        "bdb": "נֶ֫פֶשׁ 756 n.f. soul, living being, life, self, person, desire, appetite, emotion, and passion (1) = that which breathes, the breathing substance or being (2) The נפשׁ becomes a living being (3) The נפשׁ is specif. (4) The נפשׁ as the essential of man stands for the man himself (5) נפשׁ = seat of the appetites, in all periods (46 t.) (6) נ׳ = seat of emotions and passions (7) נפשׁ is used occasionally for mental acts (8) נפשׁ for acts of the will is dub. (9) נפשׁ = character is still more dub. (10) נ׳ in D",
+        "def_ro": "suflet viu — propriu-zis, o ființă care respiră, un animal; folosit foarte larg pentru viață, trup sau minte.",
+        "greek_def_ro": "ψυχή (psyche) — suflet, viață.",
+        "diff_ro": "Expresia ebraică נֶפֶשׁ חַיָּה (]nefesh chayah[) se aplică deopotrivă animalelor și omului (comparați Gen. 2:7); grecescul ψυχή, prin filtrul filosofiei elene ulterioare, a ajuns să sune mai „spiritual” decât originalul, care înseamnă mai simplu „viețuitor, ființă vie”."
       },
       {
         "t": " – toată "
@@ -5901,7 +6527,9 @@ window.CHAPTER_DATA = [
         "greek": "χλωρός (chloros, „verde”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, pallor, i.e. hence, the yellowish green of young and sickly vegetation; concretely, verdure, i.e. grass or vegetation",
-        "bdb": "יֶ֫רֶק n.m. green, greenness"
+        "bdb": "יֶ֫רֶק n.m. green, greenness",
+        "def_ro": "verde — propriu-zis, „paloare”; de aici, verdele gălbui al plantei tinere; concret, verdeață, iarbă.",
+        "greek_def_ro": "χλωρός (chloros) — verde deschis, gălbui (de aici „clorofilă”)."
       },
       {
         "t": " este drept "
@@ -5916,7 +6544,9 @@ window.CHAPTER_DATA = [
         "greek": "βρῶσις (brosis)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "food",
-        "bdb": "אָכְלָה 17 n.f. food, eating (1) esp. in phr. (2) devouring, by wild beasts, only fig. of ravaged people (3) consuming, in fire"
+        "bdb": "אָכְלָה 17 n.f. food, eating (1) esp. in phr. (2) devouring, by wild beasts, only fig. of ravaged people (3) consuming, in fire",
+        "def_ro": "hrană.",
+        "greek_def_ro": "βρῶσις (brosis) — hrană, mâncare."
       },
       {
         "t": " Și "
@@ -5931,7 +6561,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι (ginomai)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -5946,7 +6578,9 @@ window.CHAPTER_DATA = [
         "greek": "οὕτως (houtos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, set upright; hence (figuratively as adjective) just; but usually (as adverb or conjunction) rightly or so (in various applications to manner, time and relation; often with other particles)",
-        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)"
+        "bdb": "כֵּן adj. right, veritable, honest (1) right (2) veritable, true (3) pl. concr. honest (men)",
+        "def_ro": "așa, astfel — propriu-zis „drept, în picioare”; de aici, la figurat, „drept, corect” sau, ca adverb, „așa”.",
+        "greek_def_ro": "οὕτως (houtos) — așa, astfel."
       }
     ],
     "refs": [
@@ -6002,7 +6636,9 @@ window.CHAPTER_DATA = [
         "greek": "ὁράω (horao)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
-        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to"
+        "bdb": "רָאָה 1315 vb. see Qal 1141 (1) (a) see, subj. (b) see, c. acc. rei (2) see, sq. acc. cl. or phr. of closer design (3) see, so as to learn to know (4) abs. see, have (power of) vision (5) see = perceive (6) look at, see, by direct volition (7) of mental observation (8) (a) c. ב, lit., look into, hence look at with interest (b) see, c. acc. rei Niph. (1) appear (2) be seen (3) be visible Pu. appar. his bones are not detected Hithp. recipr. look at each other Hiph. (1) (a) cause one to see something, shew (b) cause to experience something (2) cause to look intently at, to behold Hoph. (1) be caused to see, be shewn (2) be exhibited to",
+        "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+        "greek_def_ro": "ὁράω (horao) — a vedea."
       },
       {
         "t": " "
@@ -6017,7 +6653,10 @@ window.CHAPTER_DATA = [
         "greek": "ὁ Θεός (ho Theos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
-        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God"
+        "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
+        "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+        "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
       },
       {
         "t": " "
@@ -6032,7 +6671,9 @@ window.CHAPTER_DATA = [
         "greek": "πᾶς (pas)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
-        "bdb": "כֹּל once כּוֹל n.m. the whole, all (1) with foll. gen. (as usually) the whole of, to be rendered, however, often in our idiom, to avoid stiffness, any or every (2) Absolutely: (a) without the art., all things, all (b) with the art. הַכֹּל where the sense is limited by the context to things (or persons) just mentioned in a wider sense, all, whether of all mankind or of all living things, the universe, or of all the circumstances of life (chiefly late)"
+        "bdb": "כֹּל once כּוֹל n.m. the whole, all (1) with foll. gen. (as usually) the whole of, to be rendered, however, often in our idiom, to avoid stiffness, any or every (2) Absolutely: (a) without the art., all things, all (b) with the art. הַכֹּל where the sense is limited by the context to things (or persons) just mentioned in a wider sense, all, whether of all mankind or of all living things, the universe, or of all the circumstances of life (chiefly late)",
+        "def_ro": "tot, întreg — de aici, „tot, orice, fiecare”.",
+        "greek_def_ro": "πᾶς (pas) — tot, fiecare."
       },
       {
         "t": " "
@@ -6047,7 +6688,9 @@ window.CHAPTER_DATA = [
         "greek": "ὅς (hos, „care”)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc.",
-        "bdb": "אֲשֶׁר part. of relation A sign of relation, bringing the clause introduced by it into relation with an antecedent clause."
+        "bdb": "אֲשֶׁר part. of relation A sign of relation, bringing the clause introduced by it into relation with an antecedent clause.",
+        "def_ro": "care, ce, cel ce — pronume relativ; folosit și ca adverb sau conjuncție: când, unde, cum, pentru că, ca să.",
+        "greek_def_ro": "ὅς (hos) — care."
       },
       {
         "t": " "
@@ -6062,7 +6705,9 @@ window.CHAPTER_DATA = [
         "greek": "ποιέω (poieo)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to do or make, in the broadest sense and widest application",
-        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made"
+        "bdb": "עָשָׂה 2622 vb. do, make Qal 2524 (1) do (1560 t.) (2) deal with (3) oft. in phr. do kindness with (4) abs. act, act with effect (1) make (670 t.) (2) produce, yield (3) prepare, esp. of dressing and cooking food (4) make offering (5) attend to, put in order (6) observe, celebrate, religious festival (7) acquire property of various kinds (8) appoint priests (9) bring about of י׳’s effecting a deliverance (10) use (11) spend, pass, days of life Niph. 97 (1) be done (2) (a) be made, of concr. things (b) be produced from vine (c) be prepared, of food (d) be offered (e) be observed, passover (f) be used Pu. I was made",
+        "def_ro": "a face, a lucra — în sensul cel mai larg și cu aplicații foarte variate.",
+        "greek_def_ro": "ποιέω (poieo) — a face."
       },
       {
         "t": " și, "
@@ -6077,7 +6722,9 @@ window.CHAPTER_DATA = [
         "greek": "ἰδού (idou)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "lo!",
-        "bdb": "הִנֵּה, once הִנֶּה־ [Gn 19:2], demonstr.part. lo!, behold!"
+        "bdb": "הִנֵּה, once הִנֶּה־ [Gn 19:2], demonstr.part. lo!, behold!",
+        "def_ro": "iată!",
+        "greek_def_ro": "ἰδού (idou) — iată!"
       },
       {
         "t": " era "
@@ -6092,7 +6739,9 @@ window.CHAPTER_DATA = [
         "greek": "καλός / ἀγαθός (kalos / agathos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)",
-        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right"
+        "bdb": "טוֹב adj. pleasant, agreeable, good (1) pleasant, agreeable to the senses (2) pleasant to the higher nature, giving pleasure, happiness, prosperity, and so agreeable, pleasing, well (3) good, excellent, of its kind (4) good, rich, valuable in estimation (5) good, appropriate, becoming (6) c. מִן compar. = better (7) of man's sensuous nature, glad, happy, prosperous (8) of man's intellectual nature, good understanding (9) good, kind, benign (10) good (ethical), right",
+        "def_ro": "bun — adjectiv cu sens foarte larg; folosit și ca substantiv („un bine”, „lucru bun”) sau ca adverb („bine”).",
+        "greek_def_ro": "καλός / ἀγαθός (kalos / agathos) — frumos, bun / bun, de folos."
       },
       {
         "t": " Și "
@@ -6107,7 +6756,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι (ginomai)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -6122,7 +6773,9 @@ window.CHAPTER_DATA = [
         "greek": "ἑσπέρα (hespera)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "dusk",
-        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night"
+        "bdb": "עֶ֫רֶב 131 n.[m.] (sun)set, evening (1) (a) evening, orig. sunset (b) du. in phrase between two evenings, i.e. prob. between sunset and dark (2) (late poet.) = night",
+        "def_ro": "amurg, înserare.",
+        "greek_def_ro": "ἑσπέρα (hespera) — seară."
       },
       {
         "t": " și "
@@ -6137,7 +6790,9 @@ window.CHAPTER_DATA = [
         "greek": "γίνομαι (ginomai)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
-        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone"
+        "bdb": "הָיָה 3570 vb. fall out, come to pass, become, be Qal (1) (a) Fall out, happen (b) occur, take place, come about, come to pass (2) esp. & very oft., come about, come to pass (a) וַיְהִי and it came to pass that, most often (c. 292 t.) rarely also Pf. c. וְ conj. וְהָיָה (b) less oft. וְהָיָה Pf. consec. and it shall come to pass, or frequentat. came to pass (repeatedly, etc.) Come into being, become (1) (a) abs., in lively narrative, arise, appear, come (b) sq. prep. (2) become (a) sq. pred. noun (to be viewed as implicit accus.) (b) sq. pred. adj. (c) become like (d) sq. pred. לְ pers. (e) sq. לְ pred. (f) oft. c. לְ pred. לְ pers. (g) with עַל and לְ (h) sts. c. לְ pers. only = became the property of, come into the possession of Be (often with subbordinate idea of becoming) (1) exist, be in existence (2) abide, remain, continue (3) with word of locality, be in or at a place, be situated, stand, lie (4) as copula, joining subj. & pred. (5) periphrastic conjug. Niph. (1) either be done, be brought about, or occur, come to pass (2) be done, finished, gone",
+        "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+        "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
       },
       {
         "t": " "
@@ -6152,7 +6807,9 @@ window.CHAPTER_DATA = [
         "greek": "πρωί (proi)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "properly, dawn (as the break of day); generally, morning",
-        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day"
+        "bdb": "בֹּ֫קֶר 214 n.m. morning (1) morning (of point of time, time at which, never during which, Eng. morning = forenoon (2) morrow, next day",
+        "def_ro": "zori, dimineață — propriu-zis, spărtura zilei.",
+        "greek_def_ro": "πρωί (proi) — dimineață."
       },
       {
         "t": " cea de-a "
@@ -6167,7 +6824,9 @@ window.CHAPTER_DATA = [
         "greek": "ἕκτος (hektos)",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
         "def": "sixth, ordinal or (feminine) fractional",
-        "bdb": "שִׁשִּׁי m. 22 שִׁשִּׁית f. 6 adj.num.ordin. sixth"
+        "bdb": "שִׁשִּׁי m. 22 שִׁשִּׁית f. 6 adj.num.ordin. sixth",
+        "def_ro": "al șaselea.",
+        "greek_def_ro": "ἕκτος (hektos) — al șaselea."
       },
       {
         "t": " zi."

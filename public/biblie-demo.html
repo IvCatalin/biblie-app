@@ -1275,13 +1275,14 @@
   }
 
   .wp-word{
-    font-family:'Inter', sans-serif;
-    font-size:11px;
-    letter-spacing:0.08em;
-    text-transform:uppercase;
-    color:#8fa3c7;
-    text-align:center;
-    margin-bottom:10px;
+    font-family:'Fraunces', serif;
+    font-weight:700;
+    font-size:28px;
+    letter-spacing:0.01em;
+    text-transform:none;
+    color:#f0c419;
+    text-align:left;
+    margin-bottom:14px;
   }
   .wp-heb{
     font-family:'Noto Sans Hebrew', serif;
@@ -4049,21 +4050,18 @@ function showWordPopover(tok, anchorEl){
   document.getElementById("wp-heb").textContent = tok.heb;
   document.getElementById("wp-translit").textContent = tok.translit;
   document.getElementById("wp-strong").textContent = tok.strong + (tok.pos ? " · " + tok.pos : "");
-  document.getElementById("wp-def").textContent = tok.def;
+  document.getElementById("wp-def").textContent = tok.def_ro || "";
 
   const extraEl = document.getElementById("wp-extra");
   let extraHtml = "";
-  if(tok.bdb){
-    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">BDB (Brown-Driver-Briggs)</span>${tok.bdb}</div>`;
-  }
   if(tok.greek){
-    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">LXX</span><span class="wp-greek">${tok.greek}</span></div>`;
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">LXX (Septuaginta)</span><span class="wp-greek">${tok.greek}</span></div>`;
   }
-  if(tok.samaritan){
-    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Samaritean</span>${tok.samaritan}</div>`;
+  if(tok.greek_def_ro){
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Definiție greacă</span>${tok.greek_def_ro}</div>`;
   }
-  if(tok.occ){
-    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Apariții în Tora</span>${tok.occ}</div>`;
+  if(tok.diff_ro){
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Diferență ebraică / greacă</span>${tok.diff_ro}</div>`;
   }
   extraEl.innerHTML = extraHtml;
 
