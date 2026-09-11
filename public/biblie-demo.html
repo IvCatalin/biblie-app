@@ -4063,6 +4063,9 @@ function showWordPopover(tok, anchorEl){
   if(tok.diff_ro){
     extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Diferență ebraică / greacă</span>${tok.diff_ro}</div>`;
   }
+  if(tok.dict_ro){
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Dicționar biblic</span>${tok.dict_ro}</div>`;
+  }
   extraEl.innerHTML = extraHtml;
 
   wordPopover.classList.add("show");

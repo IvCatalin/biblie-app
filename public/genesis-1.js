@@ -67,7 +67,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -83,7 +84,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       },
       {
         "t": " "
@@ -105,7 +107,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       }
     ],
     "refs": [
@@ -152,6 +155,22 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashbam (cca. 1085–1158)",
         "text": "Insistă, la începutul comentariului său la toată Tora, că sensul simplu (peșat) al textului nu contrazice niciodată interpretările tradiționale (derash) ale înțelepților — cele două nivele de lectură coexistă, spune el, chiar dacă unii cred greșit că se exclud."
+      },
+      {
+        "author": "Ioan Gură de Aur, Omilii la Facere 2.5 (verificat direct din text)",
+        "text": "Priviți, iubiților, la acest scriitor neasemuit și la darul aparte pe care l-a avut: pe când toți ceilalți autori insuflați au istorisit fie ce avea să se întâmple după multă vreme, fie ce se petrecea chiar atunci, fericitul acesta, născut cu multe generații după faptele povestite, a fost călăuzit de Dumnezeul cel de sus și socotit vrednic să istorisească ce fusese creat de Stăpânul tuturor chiar de la început. De aceea a și început așa: „La început a creat Dumnezeu cerul și pământul.” Parcă ne strigă tuturor: „Oare de la oameni am învățat eu să rostesc acestea? Cel ce a adus ființa din neființă mi-a mișcat limba ca să le istorisesc.” Să primim deci cele spuse cu multă recunoștință, fără să trecem peste măsura cuvenită, nici să ne ocupăm cu lucruri mai presus de noi — aceasta e slăbiciunea obișnuită a vrăjmașilor adevărului, care vor să supună totul propriei judecăți, neînțelegând că firea omenească nu poate pătrunde adâncul creației lui Dumnezeu."
+      },
+      {
+        "author": "Fericitul Augustin, Despre Geneza pe litera 3.10 (verificat direct din text)",
+        "text": "Scriptura a numit „cer și pământ” acea materie fără chip a lumii, pe care porunca negrăită a lui Dumnezeu avea s-o prefacă în firi cu formă și frumusețe. Acest cer și pământ, amestecate și fără rânduială, erau gata să primească de la Ziditorul lor chipurile pe care aveau să le capete."
+      },
+      {
+        "author": "Origen, Omilii la Facere 1.1 (verificat direct din text)",
+        "text": "Ce este „începutul” a toate, dacă nu Domnul nostru și „Mântuitorul tuturor”, Iisus Hristos, „Cel întâi-născut din toată zidirea”? Deci „în acest început”, adică în Cuvântul Său, „a făcut Dumnezeu cerul și pământul”, așa cum spune și evanghelistul Ioan la începutul Evangheliei sale: „La început era Cuvântul și Cuvântul era la Dumnezeu și Dumnezeu era Cuvântul... Toate prin El s-au făcut și fără El nimic nu s-a făcut din ce s-a făcut.” Scriptura nu vorbește aici despre un început în timp, ci spune că cerurile și pământul și toate cele făcute au fost făcute „la început” — adică în Mântuitorul."
+      },
+      {
+        "author": "Matthew Henry, Comentariu la întreaga Biblie (verificat direct din text, condensat)",
+        "text": "Observăm în acest verset patru lucruri. Întâi, lucrarea săvârșită: cerul și pământul, adică lumea întreagă, cu tot ce cuprinde ea. Al doilea, autorul lucrării: Dumnezeu. Cuvântul ebraic e Elohim, care arată puterea lui Dumnezeu Ziditorul — „El” înseamnă „cel tare” — dar și, cred mulți, pluralitatea Persoanelor în Dumnezeire: Tatăl, Fiul și Duhul Sfânt; acest nume plural, care vorbește despre El ca despre „mulți” deși e unul singur, ne întărește credința în Sfânta Treime, arătată doar în umbră în Vechiul Testament, dar descoperită limpede în cel Nou. Al treilea, felul în care s-a făcut lucrarea: Dumnezeu a creat, adică a făcut din nimic — n-a existat vreo materie dinainte din care să fi fost alcătuită lumea. Al patrulea, când s-a făcut: la început, adică la începutul timpului însuși; înainte de aceasta nu era nimic decât Ființa cea fără de sfârșit, Care locuiește veșnicia."
       }
     ],
     "textCompare": [
@@ -197,7 +216,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " "
@@ -265,7 +285,8 @@ window.CHAPTER_DATA = [
         "def": "the dark; hence (literally) darkness; figuratively, misery, destruction, death, ignorance, sorrow, wickedness",
         "bdb": "חֹ֫שֶׁךְ n.m. darkness, obscurity (1) darkness (opp. אוֹר) (2) = secret place(s); = hiding-place (3) fig. (a) = distress (b) = dread, terror, symbol. of judgment (c) = mourning (d) = perplexity; confusion (e) = ignorance (f) = evil, sin (g) = obscurity",
         "def_ro": "întuneric — literal, dar și la figurat: nenorocire, pieire, moarte, neștiință, întristare, răutate.",
-        "greek_def_ro": "σκότος (skotos) — întuneric."
+        "greek_def_ro": "σκότος (skotos) — întuneric.",
+        "dict_ro": "Nu e doar absența luminii, ci e folosit uneori și ca loc al prezenței tainice a lui Dumnezeu — „norul cel gros” de pe muntele Sinai, unde a vorbit Moise cu Dumnezeu (Ieșirea 20:21). La figurat, arată și judecata, necunoașterea sau necredința."
       },
       {
         "t": " "
@@ -300,7 +321,8 @@ window.CHAPTER_DATA = [
         "def": "an abyss (as a surging mass of water), especially the deep (the main sea or the subterranean watersupply)",
         "bdb": "תְּהוֹם n.f. et m. deep, sea, abyss (1) deep, of subterranean waters (2) (deep) sea (3) primaeval ocean, deep, in Heb. cosmogony (4) deep, depth (5) abyss",
         "def_ro": "adâncul — masa învolburată de ape; în special, adâncul mării sau apele de sub pământ.",
-        "greek_def_ro": "ἄβυσσος (abyssos) — abis, adânc fără fund (de aici cuvântul românesc „abis”)."
+        "greek_def_ro": "ἄβυσσος (abyssos) — abis, adânc fără fund (de aici cuvântul românesc „abis”).",
+        "dict_ro": "Cuvântul se folosește pentru: mormântul sau abisul; partea cea mai adâncă a mării; haosul primordial amintit chiar la Geneza 1:2; și, mai târziu, groapa fără fund."
       },
       {
         "t": " "
@@ -323,7 +345,8 @@ window.CHAPTER_DATA = [
         "bdb": "רוּחַ 378 n.f. (less oft. m.) breath, wind, spirit (1) breath of mouth or nostrils (33 t.) (2) wind (117 t.) (3) spirit, as that which breathes quickly in animation or agitation = temper, disposition (76 t.) (4) spirit of the living, breathing being (5) spirit as seat of emotion (6) occasionally (and late) = seat or organ of mental acts (7) rarely of the will (8) רוּחַ esp. of moral character (9) spirit of God (94 t.)",
         "def_ro": "vânt; prin asemănare, suflare, respirație (uneori violentă); la figurat: viață, mânie, nestatornicie; prin extindere, o parte a cerului; prin asemănare, duh — dar numai al unei ființe raționale.",
         "greek_def_ro": "πνεῦμα (pneuma) — suflare, vânt, duh.",
-        "diff_ro": "Ebraicul רוּחַ și grecescul πνεῦμα acoperă amândouă sensurile de „vânt/suflare” și „duh”, ceea ce a făcut posibilă, mai târziu, teologia creștină a Duhului Sfânt pornind exact de la acest verset — o suprapunere fericită, nu o pierdere de sens."
+        "diff_ro": "Ebraicul רוּחַ și grecescul πνεῦμα acoperă amândouă sensurile de „vânt/suflare” și „duh”, ceea ce a făcut posibilă, mai târziu, teologia creștină a Duhului Sfânt pornind exact de la acest verset — o suprapunere fericită, nu o pierdere de sens.",
+        "dict_ro": "Propriu-zis, „vânt” sau „suflare”. Poate însemna și principiul vieții din om, sufletul rațional și nemuritor, sau, la figurat, o înclinație/atitudine. În Noul Testament, în anumite locuri, arată chiar firea dumnezeiască."
       },
       {
         "t": " "
@@ -346,7 +369,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -415,6 +439,22 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashbam (cca. 1085–1158)",
         "text": "Citește תֹהוּ וָבֹהוּ prin paralelă cu Ieremia 4:23 („m-am uitat la pământ și, iată, era pustiu și gol; și la ceruri, și lumina lor nu era”) — o imagine de dezolare totală, fără locuitori, nu neapărat de haos activ."
+      },
+      {
+        "author": "Efrem Sirul, Comentariu la Facere 1 (verificat direct din text)",
+        "text": "Era potrivit să se arate aici că Duhul plutea deasupra apelor, ca să învățăm că lucrarea creației a fost purtată în comun de Duhul, împreună cu Tatăl și cu Fiul. Tatăl a grăit. Fiul a creat. Așa se cuvenea și Duhului să-Și arate lucrarea, învederată prin plutirea Sa, ca să dovedească unitatea Sa cu celelalte Persoane. Astfel învățăm că toate au fost duse la desăvârșire și împlinite de Sfânta Treime."
+      },
+      {
+        "author": "Fericitul Augustin, Mărturisiri 12.15 (verificat direct din text)",
+        "text": "Pământul era nevăzut și neorânduit, și întuneric era peste adânc. Aceste cuvinte arată lipsa de formă, ca să înțelegem sensul treptat, căci nu putem gândi limpede o lipsă absolută de formă care totuși nu ajunge până la neființă. Din această materie aveau să fie făcute, mai apoi, un alt cer și un alt pământ, văzute și rânduite."
+      },
+      {
+        "author": "Ambrozie al Milanului, Cele șase zile ale creației (verificat direct din text)",
+        "text": "Se cuvenea ca Duhul să plutească deasupra pământului, menit să rodească, fiindcă, prin ajutorul Duhului, el purta în sine semințele nașterii celei noi, care aveau să încolțească după cuvântul proorocului: «Trimite Duhul Tău și se vor zidi, și vei înnoi fața pământului»."
+      },
+      {
+        "author": "Ioan Calvin, Comentarii la Facere (verificat direct din text)",
+        "text": "Nu voi stărui prea mult asupra acestor doi termeni, תהו (tohu) și בהו (bohu). Evreii îi folosesc când vor să arate ceva gol și amestecat, de nimic. Fără îndoială, Moise îi pune aici în opoziție cu tot ce ține de formă, podoabă și desăvârșirea lumii: dacă am lua acum de la pământ tot ce Dumnezeu a adăugat mai târziu, am rămâne cu acest haos necioplit și fără chip. Septuaginta redă expresia prin ἀκατασκεύαστος — „nevăzut și neîntocmit”."
       }
     ],
     "textCompare": [
@@ -456,7 +496,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -507,7 +548,8 @@ window.CHAPTER_DATA = [
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
         "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
         "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
-        "greek_def_ro": "φῶς (phos) — lumină."
+        "greek_def_ro": "φῶς (phos) — lumină.",
+        "dict_ro": "Rod al poruncii dumnezeiești (Geneza 1:3). La evrei, orice bucurie sau binecuvântare era descrisă adesea prin imagini legate de lumină. Lumina a ajuns simbol firesc al adevăratei credințe, iar, în sensul cel mai înalt, e aplicată lui Hristos, „Soarele dreptății”."
       },
       {
         "t": " Și "
@@ -541,7 +583,8 @@ window.CHAPTER_DATA = [
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
         "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
         "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
-        "greek_def_ro": "φῶς (phos) — lumină."
+        "greek_def_ro": "φῶς (phos) — lumină.",
+        "dict_ro": "Rod al poruncii dumnezeiești (Geneza 1:3). La evrei, orice bucurie sau binecuvântare era descrisă adesea prin imagini legate de lumină. Lumina a ajuns simbol firesc al adevăratei credințe, iar, în sensul cel mai înalt, e aplicată lui Hristos, „Soarele dreptății”."
       }
     ],
     "refs": [
@@ -574,6 +617,22 @@ window.CHAPTER_DATA = [
       {
         "author": "Zohar, Bereșit 1a-b (verificat direct în arhivă)",
         "text": "Pasajul de deschidere al Zoharului leagă cuvântul „Bereșit” de o meditație mistică despre flacără: „cine dorește să cunoască taina unității sfinte să privească la flacăra care se ridică dintr-un cărbune sau dintr-o lumânare aprinsă — căci flacăra se ridică numai atunci când e legată de un obiect grosier.” În flacăra care se înalță sunt două lumini: una albă, strălucitoare, care se ridică drept; și una neagră sau albăstruie, dedesubt, care-i servește ca „tron de slavă”. Lumina albă rămâne mereu albă; cea de dedesubt își schimbă culoarea — uneori neagră, uneori roșie. Deasupra luminii albe se odihnește o lumină ascunsă, care o înconjoară — „și în asta stă o taină supremă, toată înțelepciunea lumilor de sus aflându-se în flacăra care se ridică”."
+      },
+      {
+        "author": "Tertulian, Împotriva lui Praxeas 7, 12 (verificat direct din text)",
+        "text": "„Și a zis Dumnezeu: Să fie lumină! Și a fost lumină.” Îndată se arată Cuvântul, „lumina cea adevărată, care luminează pe tot omul ce vine în lume”, și prin El a venit lumina peste lume. Din acea clipă, Dumnezeu a voit ca zidirea să se împlinească în Cuvântul, Hristos fiind de față și slujind împreună cu El — și așa a creat Dumnezeu. Cuvântul Însuși Își ia atunci chipul și veșmântul Său de slavă, glasul și rostirea Sa, atunci când Dumnezeu zice: „Să fie lumină!” Aceasta e nașterea deplină a Cuvântului, atunci când purcede din Dumnezeu."
+      },
+      {
+        "author": "Sfântul Vasile cel Mare, Hexaimeron (verificat direct din text, a doua citare din Geneza 1)",
+        "text": "Cel dintâi cuvânt al lui Dumnezeu a zidit firea luminii; a făcut să piară întunericul, a risipit negura, a luminat lumea și a dat tuturor făpturilor, deodată, o înfățișare dulce și plăcută... Trebuie înțeles bine: când vorbim despre glasul, cuvântul sau porunca lui Dumnezeu, acest grai dumnezeiesc nu înseamnă pentru noi un sunet ieșit din organele vorbirii, o izbire a aerului lovit de limbă; e doar un semn simplu al voii lui Dumnezeu, iar dacă îi dăm forma unei porunci, o facem doar ca să impresionăm mai bine sufletele pe care le învățăm."
+      },
+      {
+        "author": "Fericitul Augustin, Despre Geneza pe litera 5.19 (verificat direct din text)",
+        "text": "Trebuie să înțelegem că Dumnezeu n-a zis „Să fie lumină” printr-un sunet scos din plămâni sau prin limbă și dinți — asemenea gânduri sunt ale celor preocupați de cele trupești. „Să fie lumină” a fost rostit în chip negrăit."
+      },
+      {
+        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament (verificat direct din text)",
+        "text": "Nimic nu poate fi mai măreț decât acest fel de a vorbi. El arată, deodată, o autoritate de netăgăduit și o putere fără margini. Acest pasaj, în traducerea grecească a Septuagintei, i-a atras atenția lui Dionisie Longinus, unul dintre cei mai pătrunzători critici greci care au trăit vreodată, cunoscut pentru tratatul său Despre sublim. Deși păgân, el scrie despre acest loc: «Tot așa și legiuitorul iudeilor — nu un om oarecare —, având o idee dreaptă despre puterea dumnezeiască, a exprimat-o într-un chip vrednic de ea; căci la începutul legilor sale scrie astfel: A zis Dumnezeu — ce anume? Să fie lumină! Și a fost lumină. Să fie pământ! Și a fost pământ.»"
       }
     ],
     "textCompare": [
@@ -618,7 +677,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -652,7 +712,8 @@ window.CHAPTER_DATA = [
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
         "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
         "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
-        "greek_def_ro": "φῶς (phos) — lumină."
+        "greek_def_ro": "φῶς (phos) — lumină.",
+        "dict_ro": "Rod al poruncii dumnezeiești (Geneza 1:3). La evrei, orice bucurie sau binecuvântare era descrisă adesea prin imagini legate de lumină. Lumina a ajuns simbol firesc al adevăratei credințe, iar, în sensul cel mai înalt, e aplicată lui Hristos, „Soarele dreptății”."
       },
       {
         "t": " este "
@@ -704,7 +765,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -721,7 +783,8 @@ window.CHAPTER_DATA = [
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
         "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
         "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
-        "greek_def_ro": "φῶς (phos) — lumină."
+        "greek_def_ro": "φῶς (phos) — lumină.",
+        "dict_ro": "Rod al poruncii dumnezeiești (Geneza 1:3). La evrei, orice bucurie sau binecuvântare era descrisă adesea prin imagini legate de lumină. Lumina a ajuns simbol firesc al adevăratei credințe, iar, în sensul cel mai înalt, e aplicată lui Hristos, „Soarele dreptății”."
       },
       {
         "t": " de "
@@ -737,7 +800,8 @@ window.CHAPTER_DATA = [
         "def": "the dark; hence (literally) darkness; figuratively, misery, destruction, death, ignorance, sorrow, wickedness",
         "bdb": "חֹ֫שֶׁךְ n.m. darkness, obscurity (1) darkness (opp. אוֹר) (2) = secret place(s); = hiding-place (3) fig. (a) = distress (b) = dread, terror, symbol. of judgment (c) = mourning (d) = perplexity; confusion (e) = ignorance (f) = evil, sin (g) = obscurity",
         "def_ro": "întuneric — literal, dar și la figurat: nenorocire, pieire, moarte, neștiință, întristare, răutate.",
-        "greek_def_ro": "σκότος (skotos) — întuneric."
+        "greek_def_ro": "σκότος (skotos) — întuneric.",
+        "dict_ro": "Nu e doar absența luminii, ci e folosit uneori și ca loc al prezenței tainice a lui Dumnezeu — „norul cel gros” de pe muntele Sinai, unde a vorbit Moise cu Dumnezeu (Ieșirea 20:21). La figurat, arată și judecata, necunoașterea sau necredința."
       }
     ],
     "refs": [
@@ -761,6 +825,22 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashbam (cca. 1085–1158)",
         "text": "Citește „a văzut că era bună” prin paralelă cu mama lui Moise, care „a văzut că era frumos” (Exod 2:2) — o judecată despre potrivirea și frumusețea a ceva nou apărut, nu o simplă constatare."
+      },
+      {
+        "author": "Fericitul Augustin, Despre Geneza pe litera 5.22 (verificat direct din text)",
+        "text": "Trebuie să înțelegem că această frază nu arată o bucurie ca la un bine neașteptat, ci o încuviințare dată lucrării. Căci ce s-ar putea spune despre Dumnezeu mai potrivit — pe cât se poate spune omenește — decât felul acesta al Scripturii: „a zis”, „s-a făcut”, „I-a plăcut”? Așa înțelegem, în „a zis”, suveranitatea Sa; în „s-a făcut”, puterea Sa; și în „I-a plăcut”, bunătatea Sa. Aceste lucruri negrăite trebuiau spuse astfel, de un om către oameni, ca să fie de folos tuturor."
+      },
+      {
+        "author": "Ambrozie al Milanului, Cele șase zile ale creației (verificat direct din text)",
+        "text": "Dumnezeu, ca judecător al întregii lucrări, cunoscând dinainte ce avea să iasă, ca pe un lucru deja împlinit, laudă partea lucrării Sale care abia era la început, fiind deja știutor al sfârșitului ei."
+      },
+      {
+        "author": "Sfântul Vasile cel Mare, Hexaimeron 2.8 (verificat direct din text)",
+        "text": "Cum am putea lăuda vrednic lumina, după mărturia pe care Însuși Ziditorul a dat-o bunătății ei? Chiar la noi, cuvântul lasă judecata pe seama ochilor, neputând să se ridice la ideea pe care simțurile au primit-o deja. Dar dacă frumusețea trupurilor stă în buna potrivire a părților și în armonia culorilor, cum s-ar putea păstra această idee de frumusețe într-o esență simplă și fără amestec, cum e lumina? Așa e și frumusețea aurului, care nu vine dintr-o fericită împreunare a părților, ci doar din culoarea lui frumoasă, care are o vrajă ce atrage privirea. Și când Dumnezeu a rostit bunătatea luminii, n-a făcut-o gândindu-Se la farmecul pentru ochi, ci ca la o pregătire pentru folosul viitor, căci pe atunci încă nu erau ochi care să judece frumusețea ei."
+      },
+      {
+        "author": "Matthew Henry, Comentariu la întreaga Biblie (verificat direct din text, condensat)",
+        "text": "Cea dintâi dintre toate făpturile văzute pe care le-a creat Dumnezeu a fost lumina — nu ca să vadă El Însuși lucrând, căci pentru El întunericul și lumina sunt deopotrivă, ci ca să vedem noi lucrările Lui și slava Lui în ele. Lumina e frumusețea și binecuvântarea cea mare a universului; ca un întâi-născut, ea se aseamănă, dintre toate făpturile văzute, cel mai mult cu marele ei Părinte, în curăție și putere, strălucire și bunătate. Prin vederea ei, să fim călăuziți spre contemplarea plină de credință a Celui ce este lumină, lumină nesfârșită și veșnică, și Tatăl luminilor, Care locuiește într-o lumină de care nu se poate apropia nimeni."
       }
     ],
     "textCompare": [
@@ -830,7 +910,8 @@ window.CHAPTER_DATA = [
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
         "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
         "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
-        "greek_def_ro": "ἡμέρα (hemera) — zi."
+        "greek_def_ro": "ἡμέρα (hemera) — zi.",
+        "dict_ro": "Evreii socoteau ziua de la apus la apus (Levitic 23:32), potrivit chiar cu Geneza 1:5: „a fost seară și a fost dimineață, ziua întâi”. Inițial, ziua era împărțită doar în trei părți; mai târziu, sub influență caldeeană, s-a împărțit pe ceasuri."
       },
       {
         "t": " "
@@ -978,6 +1059,22 @@ window.CHAPTER_DATA = [
       {
         "author": "Sfântul Vasile cel Mare, Hexaimeron, Omilia II (verificat direct din text — trad. Blomfield Jackson)",
         "text": "Discută aceeași întrebare pusă și de Rashi: de ce Scriptura spune „o zi”, nu „ziua întâi”, când toate celelalte zile sunt numerotate (a doua, a treia...)? Vasile respinge ideea unei zile pur astronomice și propune o cheie diferită de a lui Rashi: „o zi” arată că ziua aceasta e „tipul veșniciei” — un cerc care începe și se sfârșește cu sine, spre deosebire de succesiunea zilelor următoare. O numește „ziua a opta” a Psalmistului — ziua fără seară, aflată în afara timpului săptămânii — și o leagă direct de ziua Învierii Domnului. Spre deosebire de explicația lui Rashi (unicitatea lui Dumnezeu înainte de crearea îngerilor în ziua a doua), Vasile citește „unu” ca semn al veșniciei, nu al singurătății divine — o divergență interpretativă instructivă între cele două tradiții, ambele plecând de la aceeași observație textuală."
+      },
+      {
+        "author": "Ipolit al Romei, Fragmente exegetice — Despre Facere (verificat direct din text)",
+        "text": "N-a zis «noapte și zi», ci «o zi», după numele luminii. N-a zis «ziua întâi»; căci dacă ar fi zis «întâi», ar fi trebuit să spună și că a doua zi a fost făcută. Dar se cuvenea să nu vorbească despre «ziua întâi», ci despre «o zi», ca, zicând «una», să arate că ea se întoarce pe orbita ei și, rămânând una, alcătuiește săptămâna."
+      },
+      {
+        "author": "Efrem Sirul, Comentariu la Facere 1.14-15 (verificat direct din text)",
+        "text": "Cerul, pământul, focul, vântul și apa au fost create din nimic, așa cum mărturisește Scriptura. Dar lumina, care a apărut în ziua întâi, împreună cu celelalte lucruri ce aveau să apară după ea, a apărut din ceva. Căci atunci când acestea din urmă au apărut din nimic, Moise a spus: «Dumnezeu a creat cerul și pământul.» Deși nu este scris despre foc, apă și vânt că au fost create, nici că au fost făcute, totuși ele au apărut din nimic, la fel ca cerul și pământul. După ce Dumnezeu a început să facă lucrurile «din ceva», Moise a scris: «Dumnezeu a zis: Să fie...» lumina, și celelalte."
+      },
+      {
+        "author": "John Gill, Expunerea întregii Biblii (verificat direct din text, extras)",
+        "text": "Fie prin mișcarea de rotație a trupului de lumină de mai sus, fie prin rotirea haosului pe axa lui, în răstimp de douăzeci și patru de ore se făcea o schimbare de lumină și întuneric — la fel cum se întâmplă și azi. Și a fost seară și a fost dimineață: ziua întâi — seara, prima parte a nopții, pusă pentru noaptea întreagă; și dimineața, prima parte a zilei, pusă și ea pentru ziua întreagă — amândouă la un loc alcătuind o zi obișnuită de douăzeci și patru de ore, ceea ce Daniel numește «o seară-dimineață», iar apostolul Pavel, «o zi-noapte» (2 Corinteni 11:25). Evreii încep ziua din seara dinainte; la fel multe alte neamuri."
+      },
+      {
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "text": "Și a fost seară și a fost dimineață, o zi. A fost seară, pe măsură ce lumina scădea treptat, după încheierea răstimpului zilei; și a fost dimineață, pe măsură ce aceeași lumină se întorcea treptat peste pământ și începea o altă zi; și astfel s-a împlinit o zi întreagă, de douăzeci și patru de ceasuri. De aceea Scriptura a preferat să spună «seară și dimineață», nu «noapte și zi», ca să arate că lucrarea luminii celei dintâi se făcea în cerc. S-a cuvenit pe deplin ca ziua ce începe din lumină să se întindă până în dimineața zilei următoare, ca să se dea de înțeles că lucrările Celui ce este lumina cea adevărată, în care nu e nicio umbră, încep din lumină și se împlinesc în lumină."
       }
     ],
     "textCompare": [
@@ -1022,7 +1119,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -1073,7 +1171,8 @@ window.CHAPTER_DATA = [
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
         "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
         "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
-        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”).",
+        "dict_ro": "Cuvântul ebraic înseamnă, propriu-zis, „întindere” — nu neapărat ceva solid, ci mai degrabă spațiul întins ca o boltă deasupra noastră. Traducerea latină firmamentum (de unde vine „tărie”) a fost aleasă de traducătorii vechi care înțelegeau cuvântul mai degrabă ca pe ceva solid; limbajul Scripturii, aici, e unul obișnuit, nu științific — la fel cum vorbim și azi despre „răsăritul” soarelui."
       },
       {
         "t": " în "
@@ -1186,6 +1285,22 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashbam (cca. 1085–1158)",
         "text": "Explică de ce abia în ziua a treia apare pentru prima dată „și a văzut Dumnezeu că este bine”: lucrarea apelor nu s-a încheiat decât atunci, cu apariția uscatului — de aceea formula lipsește la ziua a doua și apare de două ori la a treia."
+      },
+      {
+        "author": "Ipolit al Romei, Fragmente exegetice — Despre Facere (verificat direct din text)",
+        "text": "În ziua întâi, Dumnezeu a făcut ce a făcut din nimic. Dar în celelalte zile n-a mai făcut din nimic, ci din ceea ce făcuse în ziua întâi, plăsmuindu-l după voia Sa."
+      },
+      {
+        "author": "Chiril al Ierusalimului, Cateheza 9:5 (verificat direct din text)",
+        "text": "Ce vină pot găsi ei marii zidiri a lui Dumnezeu, Care din firea curgătoare a apelor a plăsmuit substanța statornică a cerurilor? Căci a zis Dumnezeu: «Să fie o tărie în mijlocul apelor.» Dumnezeu a grăit o singură dată, și rămâne pe veci, fără să se clatine."
+      },
+      {
+        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament (verificat direct din text)",
+        "text": "Traducătorii noștri, urmând firmamentum din Vulgata — traducere a στερεωμα din Septuaginta —, au lipsit acest pasaj de tot înțelesul lui. Cuvântul ebraic רקיע (rakia), de la רקע (raka), „a întinde” (cum se întinde pânza unui cort), înseamnă pur și simplu o întindere, un spațiu — spațiul care desparte norii, aflați mai sus, de mări și altele, aflate mai jos. Noi numim aceasta atmosferă, dar Moise pare să fi folosit cuvântul într-un sens mai larg, cuprinzând tot vârtejul planetar, adică spațiul ocupat de întregul sistem solar."
+      },
+      {
+        "author": "Sfântul Vasile cel Mare, Hexaimeron (a patra citare din Geneza 1, verificat direct din text)",
+        "text": "Ieri am auzit porunca lui Dumnezeu: «Să fie lumină.» Azi e: «Să fie o tărie.» Se pare că aici e ceva mai mult: cuvântul nu se mărginește la o simplă poruncă, ci arată și rațiunea care cere alcătuirea tăriei — anume, ca să despartă apele de ape. Dar mai întâi să ne întrebăm: cum vorbește Dumnezeu? Oare ca noi, având nevoie de organele glasului ca să-Și facă cunoscute gândurile? N-ar fi, mai degrabă, potrivit cu adevărata credință să spunem că voia dumnezeiască și cea dintâi mișcare a minții dumnezeiești sunt chiar Cuvântul lui Dumnezeu?"
       }
     ],
     "textCompare": [
@@ -1247,7 +1362,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -1264,7 +1380,8 @@ window.CHAPTER_DATA = [
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
         "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
         "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
-        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”).",
+        "dict_ro": "Cuvântul ebraic înseamnă, propriu-zis, „întindere” — nu neapărat ceva solid, ci mai degrabă spațiul întins ca o boltă deasupra noastră. Traducerea latină firmamentum (de unde vine „tărie”) a fost aleasă de traducătorii vechi care înțelegeau cuvântul mai degrabă ca pe ceva solid; limbajul Scripturii, aici, e unul obișnuit, nu științific — la fel cum vorbim și azi despre „răsăritul” soarelui."
       },
       {
         "t": " și "
@@ -1330,7 +1447,8 @@ window.CHAPTER_DATA = [
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
         "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
         "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
-        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”).",
+        "dict_ro": "Cuvântul ebraic înseamnă, propriu-zis, „întindere” — nu neapărat ceva solid, ci mai degrabă spațiul întins ca o boltă deasupra noastră. Traducerea latină firmamentum (de unde vine „tărie”) a fost aleasă de traducătorii vechi care înțelegeau cuvântul mai degrabă ca pe ceva solid; limbajul Scripturii, aici, e unul obișnuit, nu științific — la fel cum vorbim și azi despre „răsăritul” soarelui."
       },
       {
         "t": " de "
@@ -1379,7 +1497,8 @@ window.CHAPTER_DATA = [
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
         "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
         "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
-        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”).",
+        "dict_ro": "Cuvântul ebraic înseamnă, propriu-zis, „întindere” — nu neapărat ceva solid, ci mai degrabă spațiul întins ca o boltă deasupra noastră. Traducerea latină firmamentum (de unde vine „tărie”) a fost aleasă de traducătorii vechi care înțelegeau cuvântul mai degrabă ca pe ceva solid; limbajul Scripturii, aici, e unul obișnuit, nu științific — la fel cum vorbim și azi despre „răsăritul” soarelui."
       },
       {
         "t": " Și "
@@ -1432,6 +1551,18 @@ window.CHAPTER_DATA = [
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Explică mecanismul firmamentului aproape ca pe un fenomen natural: partea vaporoasă a apelor, oprită de firmament să coboare, condensându-se atunci când vaporii umezi îl ating, dă naștere ploii, zăpezii și rouă."
+      },
+      {
+        "author": "Fericitul Augustin, Despre Geneza pe litera 8.29 (verificat direct din text)",
+        "text": "Materia a fost despărțită prin așezarea tăriei între ele, astfel încât materia de jos să fie a trupurilor, iar materia de sus, a sufletelor."
+      },
+      {
+        "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie (verificat direct din text)",
+        "text": "Tăria — o întindere — bătută ca o placă de metal: nume dat atmosferei, fiindcă, pentru cel ce privește, pare bolta cerului, purtând greutatea norilor plini de apă. Prin crearea unei atmosfere, părțile mai ușoare ale apelor care acopereau fața pământului au fost trase în sus și ținute suspendate în cerurile văzute, în vreme ce masa cea mai mare și mai grea a rămas dedesubt."
+      },
+      {
+        "author": "Sfântul Vasile cel Mare, Hexaimeron 3.9 (verificat direct din text)",
+        "text": "Cât despre despărțirea apelor, sunt nevoit să resping părerea unor scriitori bisericești care, sub umbra unor concepții înalte și sublime, au alunecat spre metaforă și au văzut în ape doar o închipuire pentru puterile spirituale și netrupești — cele bune sus, deasupra tăriei; cele rele jos, în pământ și materie. Să lepădăm aceste teorii ca pe niște vise și povești de babe."
       }
     ],
     "textCompare": [
@@ -1476,7 +1607,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -1510,7 +1642,8 @@ window.CHAPTER_DATA = [
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
         "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
         "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
-        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”).",
+        "dict_ro": "Cuvântul ebraic înseamnă, propriu-zis, „întindere” — nu neapărat ceva solid, ci mai degrabă spațiul întins ca o boltă deasupra noastră. Traducerea latină firmamentum (de unde vine „tărie”) a fost aleasă de traducătorii vechi care înțelegeau cuvântul mai degrabă ca pe ceva solid; limbajul Scripturii, aici, e unul obișnuit, nu științific — la fel cum vorbim și azi despre „răsăritul” soarelui."
       },
       {
         "t": " "
@@ -1527,7 +1660,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       },
       {
         "t": " Și "
@@ -1634,6 +1768,22 @@ window.CHAPTER_DATA = [
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Discută numele שָׁמַיִם (ceruri): abia acum, în ziua a doua, când cerurile au fost „îmbrăcate” cu forma firmamentului, li s-a putut atribui acest nume — deși fuseseră create încă din ziua întâi, numele nu li se putea „prinde” fără forma corespunzătoare."
+      },
+      {
+        "author": "Origen, Omilii la Facere 1.2 (verificat direct din text)",
+        "text": "Deși Dumnezeu făcuse deja mai înainte cerul, acum face tăria. Căci întâi a făcut cerul, despre care zice: «Cerul e tronul Meu.» Dar după aceea face tăria, adică cerul cel trupesc. Căci orice lucru trupesc e, fără îndoială, ferm și solid; și acesta e cel ce «desparte apa de deasupra cerului de apa de sub cer»."
+      },
+      {
+        "author": "John Gill, Expunerea întregii Biblii (verificat direct din text, extras)",
+        "text": "Și a numit Dumnezeu tăria cer... Cuvântul își are numele, în limba arabă, de la înălțimea lui, fiind deasupra pământului și ajungând până la al treilea cer; deși alții iau cuvântul „șamaim” ca alcătuit din două cuvinte, „șam” și „maim” — adică „acolo sunt ape”, anume în norii cerului."
+      },
+      {
+        "author": "Efrem Sirul, Comentariu la Facere 1.20 (verificat direct din text)",
+        "text": "Deși Dumnezeu a zis despre lumina apărută în ziua întâi că «era foarte bună», n-a spus același lucru despre tăria apărută în ziua a doua, fiindcă tăria încă nu era încheiată, nici în alcătuirea ei, nici în podoaba ei. Ziditorul a amânat până când au apărut luminătorii, ca, după ce tăria a fost împodobită cu soarele, luna și stelele, și puterea întunericului a fost slăbită de lumina lor, atunci să zică și despre tărie, ca despre restul zidirii, că «era foarte bună»."
+      },
+      {
+        "author": "Keil și Delitzsch, Comentariu la Vechiul Testament (verificat direct din text, extras)",
+        "text": "רקיע (rakia), de la רקע, „a întinde, a lăți”, înseamnă expansum — întinderea aerului care înconjoară pământul ca atmosferă. După înfățișarea ei, e descrisă ca un covor întins deasupra pământului (Psalmul 104:2), o perdea (Isaia 40:22), o lucrare străvezie de safir (Ieșirea 24:10), sau o oglindă turnată (Iov 37:18) — dar nimic din aceste imagini poetice nu îndreptățește ideea că cerurile ar fi fost privite ca o masă solidă."
       }
     ],
     "textCompare": [
@@ -1678,7 +1828,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -1746,7 +1897,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       },
       {
         "t": " într-un singur "
@@ -1868,6 +2020,22 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashbam (cca. 1085–1158)",
         "text": "Leagă strângerea apelor de „vântul lui Dumnezeu” din v.2 — la fel cum vântul de răsărit a despărțit Marea Roșie, la fel un vânt a adunat apele de la începutul lumii într-un singur loc, lăsând uscatul să apară."
+      },
+      {
+        "author": "Tertulian, Împotriva lui Hermogene 29 (verificat direct din text)",
+        "text": "Apoi îndată devine „văzut”, zicând Dumnezeu: «Să se adune apa într-o singură masă, și să se arate uscatul.» «Să se arate», zice El, nu «să se facă». Fusese deja făcut, doar că, în starea lui nevăzută, aștepta să se arate. «Uscat», fiindcă avea să devină astfel prin despărțirea de umezeală — dar tot «pământ»."
+      },
+      {
+        "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie (verificat direct din text)",
+        "text": "Să se adune apele de sub cer într-un loc — lumea urma să devină un glob de uscat și apă deopotrivă, lucru împlinit printr-o zguduire pe suprafața ei: ridicarea unor părți, coborârea altora și formarea unor adâncituri vaste, în care apele s-au năpustit năvalnic. Astfel, o mare parte a pământului a rămas „uscat”, și astfel s-au format oceanele, mările, lacurile și râurile, care, deși fiecare are albia lui, sunt toate legate de mare."
+      },
+      {
+        "author": "Beda Venerabilul, Comentariu la Facere (verificat direct din text, extras)",
+        "text": "A zis Dumnezeu: Să se adune apele de sub cer într-un loc, și să se arate uscatul; și așa a fost. Apele care umpleau tot spațiul dintre cer și pământ au fost trase și adunate într-un loc, ca lumina, care strălucise limpede peste ape în cele două zile dinainte, să strălucească și mai puternic în aerul curat; iar pământul, care fusese ascuns, s-a arătat."
+      },
+      {
+        "author": "Fericitul Augustin, Despre Geneza pe litera 2.11.24 (verificat direct din text)",
+        "text": "De aceea, la cuvintele «Să se adune apele, și să se arate uscatul», aceste două lucruri — pământul și apa — și-au primit formele proprii, cunoscute nouă și percepute de simțurile noastre: apa făcându-se curgătoare, iar pământul, tare. Despre apă se spune deci «să se adune», iar despre pământ, «să se arate» — căci apa tinde să crească și să scadă, dar pământul rămâne neclintit."
       }
     ],
     "textCompare": [
@@ -1912,7 +2080,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -1963,7 +2132,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " iar "
@@ -2031,7 +2201,8 @@ window.CHAPTER_DATA = [
         "def": "a sea (as breaking in noisy surf) or large body of water; specifically (with the article), the Mediterranean Sea; sometimes a large river, or an artifical basin; locally, the west, or (rarely) the south",
         "bdb": "יָם 390 n.m. sea",
         "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
-        "greek_def_ro": "θάλασσα (thalassa) — mare."
+        "greek_def_ro": "θάλασσα (thalassa) — mare.",
+        "dict_ro": "Cuvântul ebraic yam arată, în primul rând, „adunarea apelor” — oceanul (Geneza 1:2, 1:10) — dar și mări anume (Marea Mediterană, Marea Roșie, Marea Moartă), sau chiar râuri mari, precum Nilul sau Eufratul."
       },
       {
         "t": " Și "
@@ -2047,7 +2218,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -2105,6 +2277,22 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashbam (cca. 1085–1158)",
         "text": "Notează, simplu, că peste tot în Tora „uscatul” e numit „pământ” (ארץ) — o clarificare terminologică pe care o folosește constant în comentariul său."
+      },
+      {
+        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "text": "(10) Și a numit adunările apelor mări. Trebuie observat că orice adunare de ape, fie ele sărate sau dulci, se numește, după limba evreilor, mare. De aceea, Porfiriu îl acuză pe nedrept pe Evanghelist de neștiință atunci când istorisește minunea Domnului umblând pe mare, fiindcă a numit „mare” lacul Ghenezaret — când orice lac și orice adunare de ape se numește, la ei, mare."
+      },
+      {
+        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament (verificat direct din text)",
+        "text": "Și a numit Dumnezeu uscatul Pământ, iar adunarea apelor a numit-o Mări — acestea două alcătuiesc ceea ce se numește globul de uscat și apă, în care pământul și apa există într-o proporție deosebit de înțeleaptă una față de cealaltă. Dr. Long, măsurând cu grijă hărțile unui glob terestru de șaptesprezece țoli, despărțind uscatul de mare, a cântărit separat cele două categorii de hârtie și a găsit că cea a mărilor cântărea de aproape trei ori mai mult decât cea a uscatului — arătând că aproape trei sferturi din suprafața globului nostru, între cercurile polare, sunt acoperite de apă."
+      },
+      {
+        "author": "Ioan Gură de Aur, Omilii la Facere 5.10 (verificat direct din text)",
+        "text": "Ai văzut, iubite frate, cum Dumnezeu a dezgolit, ca să zic așa, pământul, care era nevăzut și fără chip, și era acoperit de ape ca de niște văluri, și ne-a arătat fața lui, după ce i-a pus și numele cuvenit? «Și a numit adunările apelor mări.» Așa și-au primit numele și apele. Căci, așa cum un meșteșugar iscusit, care se apucă să facă din arta lui un vas anume, nu-i dă nume până nu l-a terminat, tot așa nici bunul Domn nu pune nume elementelor până nu le-a așezat, după porunca Sa, la locul lor cuvenit."
+      },
+      {
+        "author": "Tertulian, Împotriva lui Hermogene 29 (verificat direct din text)",
+        "text": "Și astfel, când mai apoi ajunge la desăvârșire, încetează să mai fie socotit pustiu, atunci când Dumnezeu zice: «Să dea pământul din sine verdeață, iarbă ce face sămânță, după soiul și asemănarea ei, și pomi roditori ce fac rod, cu sămânța în ei, după soiul lor.»"
       }
     ],
     "textCompare": [
@@ -2276,7 +2464,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " "
@@ -2479,7 +2668,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -2696,7 +2886,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -2747,7 +2938,8 @@ window.CHAPTER_DATA = [
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
         "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
         "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
-        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”).",
+        "dict_ro": "Cuvântul ebraic înseamnă, propriu-zis, „întindere” — nu neapărat ceva solid, ci mai degrabă spațiul întins ca o boltă deasupra noastră. Traducerea latină firmamentum (de unde vine „tărie”) a fost aleasă de traducătorii vechi care înțelegeau cuvântul mai degrabă ca pe ceva solid; limbajul Scripturii, aici, e unul obișnuit, nu științific — la fel cum vorbim și azi despre „răsăritul” soarelui."
       },
       {
         "t": " "
@@ -2764,7 +2956,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       },
       {
         "t": " ca "
@@ -2798,7 +2991,8 @@ window.CHAPTER_DATA = [
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
         "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
         "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
-        "greek_def_ro": "ἡμέρα (hemera) — zi."
+        "greek_def_ro": "ἡμέρα (hemera) — zi.",
+        "dict_ro": "Evreii socoteau ziua de la apus la apus (Levitic 23:32), potrivit chiar cu Geneza 1:5: „a fost seară și a fost dimineață, ziua întâi”. Inițial, ziua era împărțită doar în trei părți; mai târziu, sub influență caldeeană, s-a împărțit pe ceasuri."
       },
       {
         "t": " de "
@@ -2883,7 +3077,8 @@ window.CHAPTER_DATA = [
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
         "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
         "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
-        "greek_def_ro": "ἡμέρα (hemera) — zi."
+        "greek_def_ro": "ἡμέρα (hemera) — zi.",
+        "dict_ro": "Evreii socoteau ziua de la apus la apus (Levitic 23:32), potrivit chiar cu Geneza 1:5: „a fost seară și a fost dimineață, ziua întâi”. Inițial, ziua era împărțită doar în trei părți; mai târziu, sub influență caldeeană, s-a împărțit pe ceasuri."
       },
       {
         "t": " și "
@@ -3002,7 +3197,8 @@ window.CHAPTER_DATA = [
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
         "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
         "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
-        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”).",
+        "dict_ro": "Cuvântul ebraic înseamnă, propriu-zis, „întindere” — nu neapărat ceva solid, ci mai degrabă spațiul întins ca o boltă deasupra noastră. Traducerea latină firmamentum (de unde vine „tărie”) a fost aleasă de traducătorii vechi care înțelegeau cuvântul mai degrabă ca pe ceva solid; limbajul Scripturii, aici, e unul obișnuit, nu științific — la fel cum vorbim și azi despre „răsăritul” soarelui."
       },
       {
         "t": " "
@@ -3019,7 +3215,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       },
       {
         "t": " pentru "
@@ -3051,7 +3248,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " Și "
@@ -3144,7 +3342,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -3280,7 +3479,8 @@ window.CHAPTER_DATA = [
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
         "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
         "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
-        "greek_def_ro": "ἡμέρα (hemera) — zi."
+        "greek_def_ro": "ἡμέρα (hemera) — zi.",
+        "dict_ro": "Evreii socoteau ziua de la apus la apus (Levitic 23:32), potrivit chiar cu Geneza 1:5: „a fost seară și a fost dimineață, ziua întâi”. Inițial, ziua era împărțită doar în trei părți; mai târziu, sub influență caldeeană, s-a împărțit pe ceasuri."
       },
       {
         "t": " și "
@@ -3429,7 +3629,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -3461,7 +3662,8 @@ window.CHAPTER_DATA = [
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
         "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
         "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
-        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”).",
+        "dict_ro": "Cuvântul ebraic înseamnă, propriu-zis, „întindere” — nu neapărat ceva solid, ci mai degrabă spațiul întins ca o boltă deasupra noastră. Traducerea latină firmamentum (de unde vine „tărie”) a fost aleasă de traducătorii vechi care înțelegeau cuvântul mai degrabă ca pe ceva solid; limbajul Scripturii, aici, e unul obișnuit, nu științific — la fel cum vorbim și azi despre „răsăritul” soarelui."
       },
       {
         "t": " "
@@ -3478,7 +3680,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       },
       {
         "t": " pentru "
@@ -3510,7 +3713,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       }
     ],
     "refs": [
@@ -3579,7 +3783,8 @@ window.CHAPTER_DATA = [
         "def": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
         "bdb": "יוֹם 2285 n.m. day (1) day, opp. night (2) Day as division of time (3) יוֹם י׳ day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for righteous (4) Pl. days of anyone (5) Days (6) יוֹם = time (7) Phrases",
         "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
-        "greek_def_ro": "ἡμέρα (hemera) — zi."
+        "greek_def_ro": "ἡμέρα (hemera) — zi.",
+        "dict_ro": "Evreii socoteau ziua de la apus la apus (Levitic 23:32), potrivit chiar cu Geneza 1:5: „a fost seară și a fost dimineață, ziua întâi”. Inițial, ziua era împărțită doar în trei părți; mai târziu, sub influență caldeeană, s-a împărțit pe ceasuri."
       },
       {
         "t": " și "
@@ -3630,7 +3835,8 @@ window.CHAPTER_DATA = [
         "def": "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)",
         "bdb": "אוֹר 121 n.m. light (1) light as diffused in nature, light of day (2) morning light, dawn (3) light of the heavenly luminaries (4) daylight (5) lightning (6) light of lamp (7) light of life (8) light of prosperity (9) light of instruction (10) light of face (11) Yahweh",
         "def_ro": "lumină — în orice sens, inclusiv fulgerul sau, la figurat, fericirea.",
-        "greek_def_ro": "φῶς (phos) — lumină."
+        "greek_def_ro": "φῶς (phos) — lumină.",
+        "dict_ro": "Rod al poruncii dumnezeiești (Geneza 1:3). La evrei, orice bucurie sau binecuvântare era descrisă adesea prin imagini legate de lumină. Lumina a ajuns simbol firesc al adevăratei credințe, iar, în sensul cel mai înalt, e aplicată lui Hristos, „Soarele dreptății”."
       },
       {
         "t": " de "
@@ -3647,7 +3853,8 @@ window.CHAPTER_DATA = [
         "def": "the dark; hence (literally) darkness; figuratively, misery, destruction, death, ignorance, sorrow, wickedness",
         "bdb": "חֹ֫שֶׁךְ n.m. darkness, obscurity (1) darkness (opp. אוֹר) (2) = secret place(s); = hiding-place (3) fig. (a) = distress (b) = dread, terror, symbol. of judgment (c) = mourning (d) = perplexity; confusion (e) = ignorance (f) = evil, sin (g) = obscurity",
         "def_ro": "întuneric — literal, dar și la figurat: nenorocire, pieire, moarte, neștiință, întristare, răutate.",
-        "greek_def_ro": "σκότος (skotos) — întuneric."
+        "greek_def_ro": "σκότος (skotos) — întuneric.",
+        "dict_ro": "Nu e doar absența luminii, ci e folosit uneori și ca loc al prezenței tainice a lui Dumnezeu — „norul cel gros” de pe muntele Sinai, unde a vorbit Moise cu Dumnezeu (Ieșirea 20:21). La figurat, arată și judecata, necunoașterea sau necredința."
       },
       {
         "t": " Și "
@@ -3665,7 +3872,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -3876,7 +4084,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -3996,7 +4205,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " peste "
@@ -4030,7 +4240,8 @@ window.CHAPTER_DATA = [
         "def": "properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky",
         "bdb": "רָקִיעַ n.m. extended surface, (solid) expanse (1) (flat) expanse (2) the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it",
         "def_ro": "întindere, tărie — bolta sau arcul văzut al cerului.",
-        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”)."
+        "greek_def_ro": "στερέωμα (stereoma) — tărie, întăritură (de aici expresia „tăria cerului”).",
+        "dict_ro": "Cuvântul ebraic înseamnă, propriu-zis, „întindere” — nu neapărat ceva solid, ci mai degrabă spațiul întins ca o boltă deasupra noastră. Traducerea latină firmamentum (de unde vine „tărie”) a fost aleasă de traducătorii vechi care înțelegeau cuvântul mai degrabă ca pe ceva solid; limbajul Scripturii, aici, e unul obișnuit, nu științific — la fel cum vorbim și azi despre „răsăritul” soarelui."
       },
       {
         "t": " "
@@ -4047,7 +4258,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       }
     ],
     "refs": [
@@ -4114,7 +4326,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -4319,7 +4532,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -4438,7 +4652,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -4540,7 +4755,8 @@ window.CHAPTER_DATA = [
         "def": "a sea (as breaking in noisy surf) or large body of water; specifically (with the article), the Mediterranean Sea; sometimes a large river, or an artifical basin; locally, the west, or (rarely) the south",
         "bdb": "יָם 390 n.m. sea",
         "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
-        "greek_def_ro": "θάλασσα (thalassa) — mare."
+        "greek_def_ro": "θάλασσα (thalassa) — mare.",
+        "dict_ro": "Cuvântul ebraic yam arată, în primul rând, „adunarea apelor” — oceanul (Geneza 1:2, 1:10) — dar și mări anume (Marea Mediterană, Marea Roșie, Marea Moartă), sau chiar râuri mari, precum Nilul sau Eufratul."
       },
       {
         "t": " iar "
@@ -4591,7 +4807,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       }
     ],
     "refs": [
@@ -4778,7 +4995,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -4812,7 +5030,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " "
@@ -4932,7 +5151,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " după "
@@ -5041,7 +5261,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -5090,7 +5311,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " după "
@@ -5223,7 +5445,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -5316,7 +5539,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -5364,7 +5588,8 @@ window.CHAPTER_DATA = [
         "def": "ruddy i.e. a human being (an individual or the species, mankind, etc.)",
         "bdb": "אָדָם 560 n.m. [Gn 1:27] man, mankind (1) a man = human being (2) coll. man, mankind (3) n.pr.m. Adam, first man (without art.) (4) n.pr.loc. city in Jordan valley (as built?)",
         "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
-        "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească."
+        "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
+        "dict_ro": "Adam, ca nume al omului dintâi, vine dintr-un cuvânt care înseamnă „a fi roșu” — omul a fost numit așa fiindcă a fost plăsmuit din țărâna cea roșie. E și numele generic al neamului omenesc întreg (Geneza 1:26-27), echivalentul grecescului anthropos și al latinescului homo."
       },
       {
         "t": " în "
@@ -5450,7 +5675,8 @@ window.CHAPTER_DATA = [
         "def": "a sea (as breaking in noisy surf) or large body of water; specifically (with the article), the Mediterranean Sea; sometimes a large river, or an artifical basin; locally, the west, or (rarely) the south",
         "bdb": "יָם 390 n.m. sea",
         "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
-        "greek_def_ro": "θάλασσα (thalassa) — mare."
+        "greek_def_ro": "θάλασσα (thalassa) — mare.",
+        "dict_ro": "Cuvântul ebraic yam arată, în primul rând, „adunarea apelor” — oceanul (Geneza 1:2, 1:10) — dar și mări anume (Marea Mediterană, Marea Roșie, Marea Moartă), sau chiar râuri mari, precum Nilul sau Eufratul."
       },
       {
         "t": " și peste "
@@ -5484,7 +5710,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       },
       {
         "t": " și peste "
@@ -5518,7 +5745,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " și peste toate "
@@ -5649,7 +5877,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " pe "
@@ -5666,7 +5895,8 @@ window.CHAPTER_DATA = [
         "def": "ruddy i.e. a human being (an individual or the species, mankind, etc.)",
         "bdb": "אָדָם 560 n.m. [Gn 1:27] man, mankind (1) a man = human being (2) coll. man, mankind (3) n.pr.m. Adam, first man (without art.) (4) n.pr.loc. city in Jordan valley (as built?)",
         "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
-        "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească."
+        "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
+        "dict_ro": "Adam, ca nume al omului dintâi, vine dintr-un cuvânt care înseamnă „a fi roșu” — omul a fost numit așa fiindcă a fost plăsmuit din țărâna cea roșie. E și numele generic al neamului omenesc întreg (Geneza 1:26-27), echivalentul grecescului anthropos și al latinescului homo."
       },
       {
         "t": " în "
@@ -5851,7 +6081,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " și "
@@ -5884,7 +6115,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " „"
@@ -5952,7 +6184,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " și "
@@ -6020,7 +6253,8 @@ window.CHAPTER_DATA = [
         "def": "a sea (as breaking in noisy surf) or large body of water; specifically (with the article), the Mediterranean Sea; sometimes a large river, or an artifical basin; locally, the west, or (rarely) the south",
         "bdb": "יָם 390 n.m. sea",
         "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
-        "greek_def_ro": "θάλασσα (thalassa) — mare."
+        "greek_def_ro": "θάλασσα (thalassa) — mare.",
+        "dict_ro": "Cuvântul ebraic yam arată, în primul rând, „adunarea apelor” — oceanul (Geneza 1:2, 1:10) — dar și mări anume (Marea Mediterană, Marea Roșie, Marea Moartă), sau chiar râuri mari, precum Nilul sau Eufratul."
       },
       {
         "t": " și peste "
@@ -6054,7 +6288,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       },
       {
         "t": " și peste toate "
@@ -6159,7 +6394,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
@@ -6312,7 +6548,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " și orice "
@@ -6443,7 +6680,8 @@ window.CHAPTER_DATA = [
         "def": "the earth (at large, or partitively a land)",
         "bdb": "אֶ֫רֶץ n. f. & (seld.) m. earth, land (1) (a) earth, whole earth (opp. to a part) (b) earth, opp. to heaven, sky (c) earth = inhabitants of earth (2) land = (a) country, territory (b) district, region (c) trial territory (d) piece of ground (e) specif. land of Canaan, or Israel (f) = inhabitants of land (g) used even of Shᵉʼôl (3) (a) ground, surface of ground (b) soil, as productive (4) אֶרֶץ in phrases (a) people of the land (b) in measurements of distance (c) the country of the plain, level or plain country (d) land of the living (e) end(s) of the earth (5) pl. אֲרָצוֹת is almost wholly late; it denotes lands, countries, often in contrast to Canaan, lands of the nations, etc.",
         "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
-        "greek_def_ro": "γῆ (ge) — pământ, țară."
+        "greek_def_ro": "γῆ (ge) — pământ, țară.",
+        "dict_ro": "Ebraica deosebește adamah (solul, țărâna cultivabilă) de erets (pământul ca întreg, planeta, sau o țară anume). Aici, la Geneza 1:1, erets înseamnă lumea întreagă; la 1:10, pământul ca uscat, opus mării."
       },
       {
         "t": " pentru toate "
@@ -6477,7 +6715,8 @@ window.CHAPTER_DATA = [
         "def": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
         "bdb": "[שָׁמַי] n.m. only pl. שָׁמַיִם 421 heavens, sky (1) (a) visible heavens, sky, where stars, etc., are (b) phrases (2) (a) as abode of God (b) Elijah taken up הַשּׁ׳ in whirlwind (3) הַשּׁ׳ personified in various relations",
         "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
-        "greek_def_ro": "οὐρανός (ouranos) — cer."
+        "greek_def_ro": "οὐρανός (ouranos) — cer.",
+        "dict_ro": "Expresia „cerul și pământul” arată întregul univers. Potrivit tradiției evreiești vechi, existau trei „ceruri”: tăria (unde zboară păsările), cerul înstelat, și „cerul cerurilor” — locuința lui Dumnezeu. Cuvântul ebraic shamayim e o formă de plural, însemnând propriu-zis „înălțimi”."
       },
       {
         "t": " și pentru toate "
@@ -6656,7 +6895,8 @@ window.CHAPTER_DATA = [
         "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
         "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
         "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
+        "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+        "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
       },
       {
         "t": " "
