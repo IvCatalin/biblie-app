@@ -6,14 +6,14 @@
 <meta name="color-scheme" content="light">
 <meta name="theme-color" content="#101f3c">
 <title>Davar — Scripturile vieții veșnice</title>
-<link rel="icon" href="images/favicon.ico?v=7" sizes="any">
-<link rel="icon" type="image/png" href="images/favicon-192.png?v=7" sizes="192x192">
-<link rel="icon" type="image/png" href="images/android-icon-512.png?v=7" sizes="512x512">
-<link rel="apple-touch-icon" href="images/apple-touch-icon.png?v=7">
+<link rel="icon" href="images/favicon.ico?v=8" sizes="any">
+<link rel="icon" type="image/png" href="images/favicon-192.png?v=8" sizes="192x192">
+<link rel="icon" type="image/png" href="images/android-icon-512.png?v=8" sizes="512x512">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png?v=8">
 <meta name="apple-mobile-web-app-title" content="Biblia Davar">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="application-name" content="Biblia Davar">
-<link rel="manifest" href="manifest.json?v=7">
+<link rel="manifest" href="manifest.json?v=8">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&family=Noto+Sans+Hebrew:wght@400;600&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&family=Noto+Sans+Hebrew:wght@400;600&display=swap" rel="stylesheet"></noscript>
@@ -1262,15 +1262,16 @@
   }
   .ref-preview-go{
     font-family:'Inter', sans-serif;
-    font-size:13px;
+    font-size:12.5px;
     font-weight:600;
     color:var(--gold);
     background:rgba(212,160,23,0.14);
     border:1px solid rgba(212,160,23,0.4);
-    border-radius:10px;
-    padding:10px 16px;
+    border-radius:999px;
+    padding:6px 14px;
     cursor:pointer;
-    width:100%;
+    display:inline-block;
+    width:auto;
   }
 
   .wp-word{
@@ -2948,7 +2949,7 @@
   <button class="wp-close" id="ref-preview-close">✕</button>
   <div class="ref-preview-title" id="ref-preview-title"></div>
   <div class="ref-preview-text" id="ref-preview-text"></div>
-  <button class="ref-preview-go" id="ref-preview-go">Mergi la pasaj →</button>
+  <button class="ref-preview-go" id="ref-preview-go">→ citește capitolul</button>
 </div>
 
 <script>
@@ -3873,12 +3874,17 @@ let pendingRefNav = null; // { book, chapter, verse } - tinut minte pentru buton
 function showRefPreview(refText, anchorEl){
   const parsed = parseRefBookChapterVerse(refText);
   if(!parsed || !chapterIsAvailable(parsed.book.slug, parsed.chapter)){
+    console.warn("DAVAR ref-preview: nu s-a putut interpreta referinta:", refText, parsed);
     showRefUnavailable(anchorEl, refText);
     return;
   }
   const titleEl = document.getElementById("ref-preview-title");
   const textEl = document.getElementById("ref-preview-text");
   const popover = document.getElementById("ref-preview-popover");
+  if(!titleEl || !textEl || !popover){
+    console.error("DAVAR ref-preview: lipsesc elementele din pagina.");
+    return;
+  }
 
   titleEl.textContent = refText;
   textEl.textContent = "Se \u00eencarc\u0103\u2026";
@@ -3886,21 +3892,32 @@ function showRefPreview(refText, anchorEl){
   popover.classList.add("show");
   hideWordPopover();
 
-  if(currentBookSlug === parsed.book.slug && currentChapter === parsed.chapter && Array.isArray(VERSES)){
-    const v = VERSES.find(v => v.num === parsed.verse);
-    textEl.textContent = v ? v.t : "Versetul nu a fost g\u0103sit.";
+  const sameChapterNow = String(currentBookSlug) === String(parsed.book.slug) && Number(currentChapter) === Number(parsed.chapter);
+
+  if(sameChapterNow && Array.isArray(VERSES) && VERSES.length){
+    const v = VERSES.find(v => Number(v.num) === Number(parsed.verse));
+    textEl.textContent = v ? v.t : ("Versetul " + parsed.verse + " nu a fost g\u0103sit \u00een capitolul curent.");
+    if(!v) console.warn("DAVAR ref-preview: verset negasit in VERSES curent", parsed, VERSES);
     return;
   }
 
-  fetch(parsed.book.slug + "-" + parsed.chapter + ".js")
-    .then(r => r.text())
-    .then(txt => {
-      const jsonStr = txt.replace(/^\s*window\.CHAPTER_DATA\s*=\s*/, "").replace(/;\s*$/, "");
-      const data = JSON.parse(jsonStr);
-      const v = data.find(v => v.num === parsed.verse);
-      textEl.textContent = v ? v.t : "Versetul nu a fost g\u0103sit.";
+  const url = parsed.book.slug + "-" + parsed.chapter + ".js";
+  fetch(url)
+    .then(r => {
+      if(!r.ok) throw new Error("HTTP " + r.status + " la " + url);
+      return r.text();
     })
-    .catch(() => { textEl.textContent = "Nu s-a putut \u00eenc\u0103rca pasajul."; });
+    .then(txt => {
+      const jsonStr = txt.replace(/^[\s\S]*?window\.CHAPTER_DATA\s*=\s*/, "").replace(/;\s*$/, "");
+      const data = JSON.parse(jsonStr);
+      const v = data.find(v => Number(v.num) === Number(parsed.verse));
+      textEl.textContent = v ? v.t : ("Versetul " + parsed.verse + " nu a fost g\u0103sit.");
+      if(!v) console.warn("DAVAR ref-preview: verset negasit dupa fetch", parsed, data.length);
+    })
+    .catch((err) => {
+      console.error("DAVAR ref-preview: eroare la incarcarea pasajului", url, err);
+      textEl.textContent = "Nu s-a putut \u00eenc\u0103rca pasajul (" + url + ").";
+    });
 }
 
 function hideRefPreview(){
