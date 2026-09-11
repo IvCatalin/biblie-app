@@ -4053,6 +4053,9 @@ function showWordPopover(tok, anchorEl){
 
   const extraEl = document.getElementById("wp-extra");
   let extraHtml = "";
+  if(tok.bdb){
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">BDB (Brown-Driver-Briggs)</span>${tok.bdb}</div>`;
+  }
   if(tok.greek){
     extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">LXX</span><span class="wp-greek">${tok.greek}</span></div>`;
   }
