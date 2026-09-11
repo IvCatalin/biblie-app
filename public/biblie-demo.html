@@ -632,6 +632,18 @@
   .lib-book-item.unavailable .lib-book-name{opacity:0.45;}
   .lib-book-item.unavailable .lib-book-meta{opacity:0.45;}
   .lib-book-chev{color:var(--ink-soft); font-size:14px; flex-shrink:0;}
+  .lib-book-go{
+    flex-shrink:0;
+    width:24px; height:24px;
+    border-radius:50%;
+    background:rgba(212,160,23,0.14);
+    border:1px solid rgba(212,160,23,0.4);
+    color:var(--gold);
+    font-size:13px;
+    line-height:22px;
+    text-align:center;
+    display:inline-block;
+  }
 
   .lib-note-btn{
     display:inline-block;
@@ -1675,7 +1687,21 @@
     transition:transform 0.2s;
     flex-shrink:0;
   }
+  .accordion-go{
+    flex-shrink:0;
+    width:24px; height:24px;
+    border-radius:50%;
+    background:rgba(212,160,23,0.14);
+    border:1px solid rgba(212,160,23,0.4);
+    color:var(--gold);
+    font-size:13px;
+    line-height:22px;
+    text-align:center;
+    display:inline-block;
+    transition:transform 0.2s;
+  }
   .accordion-item.open .accordion-header .chev{transform:rotate(90deg);}
+  .accordion-item.open .accordion-go{transform:rotate(90deg);}
   .accordion-body{
     display:none;
     padding:12px 14px 14px;
@@ -2964,7 +2990,7 @@ function makeAccordionGroup(titleText, items, renderItemBody){
 
     const header = document.createElement("div");
     header.className = "accordion-header";
-    header.innerHTML = `<span>${item.headerLabel}</span><span class="chev">▶</span>`;
+    header.innerHTML = `<span>${item.headerLabel}</span><span class="accordion-go">→</span>`;
     header.addEventListener("click", () => {
       const willOpen = !wrap.classList.contains("open");
       group.querySelectorAll(".accordion-item.open").forEach(openItem => openItem.classList.remove("open"));
@@ -4822,8 +4848,8 @@ const SUBFOLDER_CARD_IMAGES = {
           '<div class="lib-book-meta">' + count + '</div>';
         item.appendChild(left);
         const chev = document.createElement("span");
-        chev.className = "lib-book-chev";
-        chev.textContent = "▶";
+        chev.className = "lib-book-go";
+        chev.textContent = "→";
         item.appendChild(chev);
         item.addEventListener("click", () => {
           openBookListPanel(entry.label, entry.note, entry.items, () => openBookListPanel(title, note, items, onBack));
@@ -4840,8 +4866,8 @@ const SUBFOLDER_CARD_IMAGES = {
         '<div class="lib-book-meta">' + (book.meta || "") + (book.author ? " · " + book.author : "") + '</div>';
       item.appendChild(left);
       const chev = document.createElement("span");
-      chev.className = "lib-book-chev";
-      chev.textContent = "▶";
+      chev.className = "lib-book-go";
+      chev.textContent = "→";
       item.appendChild(chev);
       item.addEventListener("click", () => openReader(book));
       container.appendChild(item);
