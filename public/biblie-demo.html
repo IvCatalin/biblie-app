@@ -3897,7 +3897,7 @@ function showRefPreview(refText, anchorEl){
 
   if(sameChapterNow && Array.isArray(VERSES) && VERSES.length){
     const v = VERSES.find(v => Number(v.num) === Number(parsed.verse));
-    textEl.textContent = v ? v.t : ("Versetul " + parsed.verse + " nu a fost g\u0103sit \u00een capitolul curent.");
+    textEl.textContent = v ? plainVerseText(v) : ("Versetul " + parsed.verse + " nu a fost g\u0103sit \u00een capitolul curent.");
     if(!v) console.warn("DAVAR ref-preview: verset negasit in VERSES curent", parsed, VERSES);
     return;
   }
@@ -3912,7 +3912,7 @@ function showRefPreview(refText, anchorEl){
       const jsonStr = txt.replace(/^[\s\S]*?window\.CHAPTER_DATA\s*=\s*/, "").replace(/;\s*$/, "");
       const data = JSON.parse(jsonStr);
       const v = data.find(v => Number(v.num) === Number(parsed.verse));
-      textEl.textContent = v ? v.t : ("Versetul " + parsed.verse + " nu a fost g\u0103sit.");
+      textEl.textContent = v ? plainVerseText(v) : ("Versetul " + parsed.verse + " nu a fost g\u0103sit.");
       if(!v) console.warn("DAVAR ref-preview: verset negasit dupa fetch", parsed, data.length);
     })
     .catch((err) => {
