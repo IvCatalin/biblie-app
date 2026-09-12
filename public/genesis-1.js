@@ -173,15 +173,7 @@ window.CHAPTER_DATA = [
         "text": "Observăm în acest verset patru lucruri. Întâi, lucrarea săvârșită: cerul și pământul, adică lumea întreagă, cu tot ce cuprinde ea. Al doilea, autorul lucrării: Dumnezeu. Cuvântul ebraic e Elohim, care arată puterea lui Dumnezeu Ziditorul — „El” înseamnă „cel tare” — dar și, cred mulți, pluralitatea Persoanelor în Dumnezeire: Tatăl, Fiul și Duhul Sfânt; acest nume plural, care vorbește despre El ca despre „mulți” deși e unul singur, ne întărește credința în Sfânta Treime, arătată doar în umbră în Vechiul Testament, dar descoperită limpede în cel Nou. Al treilea, felul în care s-a făcut lucrarea: Dumnezeu a creat, adică a făcut din nimic — n-a existat vreo materie dinainte din care să fi fost alcătuită lumea. Al patrulea, când s-a făcut: la început, adică la începutul timpului însuși; înainte de aceasta nu era nimic decât Ființa cea fără de sfârșit, Care locuiește veșnicia."
       },
       {
-        "author": "Context istoric-arheologic (ANE)",
-        "text": "Formula de deschidere „la început” (ebr. bereshit) răspunde direct miturilor cosmogonice mesopotamiene contemporane, cum e Enuma Eliš babilonian, unde lumea se naște dintr-o luptă între zei și un monstru al haosului acvatic (Tiamat). Geneza 1 nu cunoaște nicio luptă: Dumnezeu creează fără opoziție, prin cuvânt — o diferență teologică majoră, nu doar literară, față de vecinii Israelului antic."
-      },
-      {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
-        "text": "Antichități Iudaice 1.27: Josephus rezumă tot capitolul 1 al Genezei într-un singur paragraf continuu, fără să separe versetele: „La început a făcut Dumnezeu cerul și pământul...” Interesant, Josephus nu comentează separat v. 1-2 — trece direct la lumină, tratând starea inițială ca premisă, nu ca eveniment demn de explicație proprie."
-      },
-      {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:1 pune crearea lumii direct în gura unui înger care-i dictează lui Moise povestirea („Scrie toată istoria zidirii...”) — un cadru narativ absent din Geneza, unde Moise (autorul tradițional) nu apare ca personaj în text."
       }
     ],
@@ -469,10 +461,6 @@ window.CHAPTER_DATA = [
       {
         "author": "Ioan Calvin, Comentarii la Facere",
         "text": "Nu voi stărui prea mult asupra acestor doi termeni, תהו (tohu) și בהו (bohu). Evreii îi folosesc când vor să arate ceva gol și amestecat, de nimic. Fără îndoială, Moise îi pune aici în opoziție cu tot ce ține de formă, podoabă și desăvârșirea lumii: dacă am lua acum de la pământ tot ce Dumnezeu a adăugat mai târziu, am rămâne cu acest haos necioplit și fără chip. Septuaginta redă expresia prin ἀκατασκεύαστος — „nevăzut și neîntocmit”."
-      },
-      {
-        "author": "Context istoric-arheologic (ANE)",
-        "text": "Cuvântul ebraic pentru „adânc” (tehom) e înrudit lingvistic cu numele zeiței babiloniene Tiamat, personificarea haosului acvatic primordial în Enuma Eliš. Geneza folosește cuvântul fără nicio urmă de personificare mitologică — tehom e doar apă, nu o ființă cu care Dumnezeu se luptă, ceea ce mulți cercetători citesc ca pe o „demitologizare” deliberată a limbajului cosmogonic comun epocii."
       }
     ],
     "textCompare": [
@@ -655,11 +643,11 @@ window.CHAPTER_DATA = [
         "text": "Nimic nu poate fi mai măreț decât acest fel de a vorbi. El arată, deodată, o autoritate de netăgăduit și o putere fără margini. Acest pasaj, în traducerea grecească a Septuagintei, i-a atras atenția lui Dionisie Longinus, unul dintre cei mai pătrunzători critici greci care au trăit vreodată, cunoscut pentru tratatul său Despre sublim. Deși păgân, el scrie despre acest loc: «Tot așa și legiuitorul iudeilor — nu un om oarecare —, având o idee dreaptă despre puterea dumnezeiască, a exprimat-o într-un chip vrednic de ea; căci la începutul legilor sale scrie astfel: A zis Dumnezeu — ce anume? Să fie lumină! Și a fost lumină. Să fie pământ! Și a fost pământ.»"
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Antichități Iudaice 1.27: „A poruncit Dumnezeu să fie lumină. De îndată ce ea s-a ivit... a despărțit Dumnezeu lumina de întuneric.” Josephus urmează textul biblic îndeaproape aici, fără adăugiri raționalizatoare."
       },
       {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:2-3 adaugă un element absent din Geneza: chiar în ziua întâi, odată cu cerul, pământul, apele și lumina, Dumnezeu creează și cetele de îngeri („îngerii prezenței, îngerii sfințirii, îngerii duhului focului, ai vânturilor, ai norilor...”), care apoi Îl laudă pentru lucrarea zilei. Nota deja prezentă în arhiva aplicației observă că literatura rabinică mai târzie a mutat crearea îngerilor în ziua a doua sau a cincea, tocmai ca să evite impresia că îngerii ar fi ajutat la creație."
       }
     ],
@@ -1110,7 +1098,7 @@ window.CHAPTER_DATA = [
         "text": "Și a fost seară și a fost dimineață, o zi. A fost seară, pe măsură ce lumina scădea treptat, după încheierea răstimpului zilei; și a fost dimineață, pe măsură ce aceeași lumină se întorcea treptat peste pământ și începea o altă zi; și astfel s-a împlinit o zi întreagă, de douăzeci și patru de ceasuri. De aceea Scriptura a preferat să spună «seară și dimineață», nu «noapte și zi», ca să arate că lucrarea luminii celei dintâi se făcea în cerc. S-a cuvenit pe deplin ca ziua ce începe din lumină să se întindă până în dimineața zilei următoare, ca să se dea de înțeles că lucrările Celui ce este lumina cea adevărată, în care nu e nicio umbră, încep din lumină și se împlinesc în lumină."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Antichități Iudaice 1.27: Josephus notează explicit că „Moise a fost cel ce i-a zis «o zi»” și promite să explice alegerea acestui cuvânt „într-o lucrare aparte” — o raționalizare tipică lui, care caută motive „firești” pentru formulările biblice, deși promisiunea nu mai apare păstrată în textul de față."
       }
     ],
@@ -1342,7 +1330,7 @@ window.CHAPTER_DATA = [
         "text": "Ieri am auzit porunca lui Dumnezeu: «Să fie lumină.» Azi e: «Să fie o tărie.» Se pare că aici e ceva mai mult: cuvântul nu se mărginește la o simplă poruncă, ci arată și rațiunea care cere alcătuirea tăriei — anume, ca să despartă apele de ape. Dar mai întâi să ne întrebăm: cum vorbește Dumnezeu? Oare ca noi, având nevoie de organele glasului ca să-Și facă cunoscute gândurile? N-ar fi, mai degrabă, potrivit cu adevărata credință să spunem că voia dumnezeiască și cea dintâi mișcare a minții dumnezeiești sunt chiar Cuvântul lui Dumnezeu?"
       },
       {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:4 descrie ziua a doua aproape identic cu Geneza: tăria creată în mijlocul apelor, cu jumătate din ape suite deasupra și jumătate coborâte dedesubt — o imagine cosmologică (un „firmament” solid separând ape de ape) comună întregii lumi vechi a Orientului Apropiat, nu doar Israelului."
       }
     ],
@@ -1610,7 +1598,7 @@ window.CHAPTER_DATA = [
         "text": "Cât despre despărțirea apelor, sunt nevoit să resping părerea unor scriitori bisericești care, sub umbra unor concepții înalte și sublime, au alunecat spre metaforă și au văzut în ape doar o închipuire pentru puterile spirituale și netrupești — cele bune sus, deasupra tăriei; cele rele jos, în pământ și materie. Să lepădăm aceste teorii ca pe niște vise și povești de babe."
       },
       {
-        "author": "Context istoric-arheologic (ANE)",
+        "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Cosmologia antică din tot Orientul Apropiat (inclusiv Egipt și Mesopotamia) concepea cerul ca pe o boltă solidă („tărie”) care ținea în loc o rezervă de ape de deasupra — de unde veneau ploile prin „ferestre” ale cerului (cf. Geneza 7:11, la potop). Aceasta nu e o particularitate biblică, ci imaginea de lume comună epocii, pe care textul o folosește ca vehicul, nu ca învățătură științifică de sine stătătoare."
       }
     ],
@@ -1839,7 +1827,7 @@ window.CHAPTER_DATA = [
         "text": "רקיע (rakia), de la רקע, „a întinde, a lăți”, înseamnă expansum — întinderea aerului care înconjoară pământul ca atmosferă. După înfățișarea ei, e descrisă ca un covor întins deasupra pământului (Psalmul 104:2), o perdea (Isaia 40:22), o lucrare străvezie de safir (Ieșirea 24:10), sau o oglindă turnată (Iov 37:18) — dar nimic din aceste imagini poetice nu îndreptățește ideea că cerurile ar fi fost privite ca o masă solidă."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Antichități Iudaice 1.27: „în a doua zi, Dumnezeu a înălțat deasupra întregului cerul... l-a împrejmuit ca de cristal, făcându-l umed și îmbibat cu stropi, ca să slobozească ploi.” Josephus adaugă imaginea „de cristal”, un detaliu explicativ care nu e în textul ebraic al Genezei, dar se potrivește cu imaginea antică a bolții cerești solide."
       }
     ],
@@ -2096,7 +2084,7 @@ window.CHAPTER_DATA = [
         "text": "De aceea, la cuvintele «Să se adune apele, și să se arate uscatul», aceste două lucruri — pământul și apa — și-au primit formele proprii, cunoscute nouă și percepute de simțurile noastre: apa făcându-se curgătoare, iar pământul, tare. Despre apă se spune deci «să se adune», iar despre pământ, «să se arate» — căci apa tinde să crească și să scadă, dar pământul rămâne neclintit."
       },
       {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:5-6 urmează Geneza aproape cuvânt cu cuvânt pentru ziua a treia: apele primesc poruncă să se adune într-un loc, ca uscatul să se arate."
       }
     ],
@@ -2507,7 +2495,7 @@ window.CHAPTER_DATA = [
         "text": "Să dea pământul din sine verdeață, iarbă, pom roditor etc. — în aceste expresii generale sunt cuprinse toate felurile de plante. «Pom roditor» nu trebuie înțeles aici în sensul strâmt în care folosim noi cuvântul; el arată toți pomii, nu doar cei ce rodesc spre folosul oamenilor și al vitelor, ci și cei ce au puterea de a se înmulți prin semințe. Cine poate pătrunde alcătuirea unui singur pom sau a unei singure plante? Rădăcinile, tulpina, fibrele lemnoase, coaja, vasele de sevă, frunzele, florile și roadele — toate sunt tot atâtea taine. Toată iscusința, înțelepciunea și puterea oamenilor și îngerilor laolaltă n-ar putea face un singur bob de grâu."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Antichități Iudaice 1.27: „în a treia zi a făcut uscatul, pretutindeni împrejmuit de mare; în aceeași zi au răsărit din glie iarba și semințele.” Josephus comprimă versetele 9-13 într-o singură frază, fără să separe crearea uscatului de apariția vegetației, așa cum face textul biblic în două etape distincte în cadrul aceleiași zile."
       }
     ],
@@ -2827,7 +2815,7 @@ window.CHAPTER_DATA = [
         "text": "Când aud «iarbă», mă gândesc la iarbă; și tot așa înțeleg fiecare lucru așa cum e spus: o plantă, un pește, o fiară, un bou. Unii au încercat, prin argumente greșite și tălmăciri alegorice, să dea Scripturii o măreție închipuită de ei înșiși. Dar aceasta e atitudinea celui ce se crede mai înțelept decât descoperirile Duhului și își strecoară propriile idei sub chipul unei explicații. Așadar, să fie înțeles așa cum a fost scris."
       },
       {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:7 adaugă un detaliu absent din Geneza: în ziua a treia sunt create nu doar mările, ci și toate râurile, lacurile și „toată roua pământului” — o extindere a categoriei de „ape” față de textul biblic, mai degrabă enciclopedică decât teologică."
       }
     ],
@@ -3249,10 +3237,6 @@ window.CHAPTER_DATA = [
       {
         "author": "Fericitul Augustin, Scrisori 55",
         "text": "Toată lumea înțelege că e o mare deosebire între prezicerea astrologică și observarea stelelor ca fenomene ale firii — așa cum fac plugarii și corăbierii, ca să verifice zonele geografice sau să-și îndrepte drumul undeva; ori ca să lămurească vreun punct de învățătură, pomenind câte o stea ca ilustrare folositoare. E, deci, o mare deosebire între aceste obiceiuri practice și superstiția celor ce studiază stelele nu ca să prevadă vremea sau pentru pilde duhovnicești, ci ca să încerce să pătrundă în desfășurarea hotărâtă dinainte a întâmplărilor."
-      },
-      {
-        "author": "Context istoric-arheologic (ANE)",
-        "text": "Faptul că soarele și luna nu sunt numite explicit („marele luminător” și „luminătorul cel mic”, nu „soare” și „lună”) e citit adesea ca o polemică implicită împotriva cultelor astrale mesopotamiene, unde soarele (Shamash) și luna (Sin) erau zei propriu-ziși. Geneza îi reduce la simpli „luminători” — obiecte create, nu divinități."
       }
     ],
     "textCompare": [
@@ -3755,7 +3739,7 @@ window.CHAPTER_DATA = [
         "text": "Maniheii întreabă cum se poate ca trupurile cerești — soarele, luna și stelele — să fi fost făcute abia în ziua a patra. Cum ar fi putut trece cele trei zile dinainte fără soare?... Le răspundem că fiecare din cele trei zile dinainte ar fi putut fi socotită după o perioadă la fel de mare ca aceea prin care trece soarele, de la răsărit până se întoarce iarăși la răsărit. Acesta ar fi răspunsul nostru, dacă n-am fi opriți de cuvintele «și a fost seară și a fost dimineață» — de aceea rămânem cu explicația că, în acea vreme, hotarele dintre lucrări se numeau «seară» pentru încheierea lucrării făcute, și «dimineață» pentru începutul celei ce urma. Așa vorbește Scriptura, după asemănarea lucrărilor omenești, care de obicei încep dimineața și se sfârșesc seara."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Antichități Iudaice 1.27: „în a patra zi a înzestrat cerul cu soarele, luna și celelalte stele, dându-le o mișcare și un mers din care să se vadă limpede scurgerea timpului.” Josephus, scriind pentru un public elenizat familiarizat cu astronomia greacă, insistă pe funcția de „ceas cosmic” a luminătorilor — un accent compatibil cu textul biblic (Geneza 1:14, „semne, vremi, zile și ani”), dar formulat în termeni mai apropiați de cosmologia greacă."
       }
     ],
@@ -4235,7 +4219,7 @@ window.CHAPTER_DATA = [
         "text": "A fost seară și a fost dimineață, ziua a patra. Aceasta e seara aceea de neuitat în care poporul lui Dumnezeu, în Egipt, a jertfit mielul, prăznuind Paștile; aceasta e dimineața care a văzut întâi lepădarea jugului robiei celei îndelungate și începutul drumului spre libertate. În aceeași seară, ca să împlinească tainele Legii Paștilor, Domnul nostru a început să prăznuiască tainele Trupului și Sângelui Său, după ce mâncase mielul cel prefigurativ; iar în acea dimineață care se ivea, ca un miel fără de prihană, răscumpărându-ne cu sângele Său, ne-a izbăvit din robia stăpânirii diavolești."
       },
       {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:8-10 dedică ziua a patra unei liste detaliate a funcțiilor astrale (semne pentru zile, sabate, luni, sărbători, ani, „sabatele anilor”), extinzând considerabil rolul calendaristic al luminătorilor față de formularea mai succintă din Geneza — Jubileele fiind, de fapt, o carte centrată pe calendarul solar-sacerdotal, spre deosebire de calendarul lunar folosit mai târziu în iudaismul rabinic."
       }
     ],
@@ -4499,7 +4483,7 @@ window.CHAPTER_DATA = [
         "text": "A mai zis Dumnezeu: «Să zboare păsările deasupra pământului, prin tăria cerurilor.» De ce a dat El și viețuitoarelor înaripate obârșia din ape? Fiindcă vietățile zburătoare au, ca să zic așa, o oarecare înrudire cu cele ce înoată. Căci așa cum peștii despică apa, înaintând cu mișcarea înotătoarelor și îndreptându-și întoarcerile prin mișcarea cozii, tot așa și păsările se văd despicând și mișcându-se prin aer cu aripile lor, în același chip."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Antichități Iudaice 1.27: „În cea de-a cincea zi a făcut viețuitoarele, atât cele înotătoare, cât și cele înaripate; pe unele le-a trimis în adâncul apelor, pe altele în văzduh, punându-le de îndată să se unească între ele și să se împerecheze, în vederea prăsirii.” Josephus adaugă explicit tema împerecherii imediate, absentă ca atare din textul biblic la acest verset (deși binecuvântarea „fiți roditoare” apare la v. 22)."
       }
     ],
@@ -4831,7 +4815,7 @@ window.CHAPTER_DATA = [
         "text": "Aici se ridică o întrebare din pricina cuvântului «a creat». Căci am susținut mai înainte că lumea, fiind creată, a fost făcută din nimic; dar acum Moise spune că lucruri alcătuite din altă materie au fost «create». Nu restrâng deci crearea de aici la lucrarea zilei a cincea, ci socotesc mai degrabă că ține de acea masă fără chip și amestecată, care a fost ca izvorul întregii lumi."
       },
       {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:11 numește monștrii marini creați în ziua a cincea „cele dintâi lucruri de carne zidite de mâinile Lui” — un accent pe prioritatea temporală a vieții acvatice față de orice altă viețuitoare, coerent cu ordinea din Geneza, dar formulat ca observație teologică explicită."
       }
     ],
@@ -5497,7 +5481,7 @@ window.CHAPTER_DATA = [
         "text": "După ce Moise a vorbit despre crearea vietăților mișunătoare, a păsărilor și a șerpilor de mare din ziua a cincea, s-a întors să scrie despre târâtoare, animale și fiare, create în ziua a șasea, zicând: «Să dea pământul din sine viețuitoare după soiul lor: dobitoace, târâtoare și fiare.» Deși tot pământul mișuna de vietăți târâtoare, totuși dobitoacele și fiarele au fost făcute la hotarul Raiului, ca să locuiască la locul rânduit lui Adam."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Antichități Iudaice 1.27: „În ziua a șasea a creat neamul patrupedelor, făcându-le fie parte bărbătească, fie femeiască; printre acestea a întruchipat și omul.” Notabil: Josephus include crearea omului în aceeași frază cu a patrupedelor, ca ultimă categorie a zilei a șasea, fără să marcheze separarea solemnă pe care Geneza 1:26-27 o dă creării omului (sfatul divin „să facem om”, chipul și asemănarea)."
       }
     ],
@@ -6125,11 +6109,7 @@ window.CHAPTER_DATA = [
         "text": "Mai întâi, merită să ne întrebăm de ce Dumnezeu n-a zis, la crearea cerurilor, «Să facem cerurile», ci «Să fie cer»... «Să fie lumină», și tot așa la fiecare lucrare a creației. «Să facem», însă, arată sfat, lucrare împreună și sfătuire cu altcineva. Așadar, ce anume merită atâta cinste la crearea lui? Omul — cea mai mare și mai minunată dintre viețuitoare, făptura cea mai vrednică de cinste înaintea lui Dumnezeu. Acest sfat, această lucrare împreună și această comuniune nu sunt aici fiindcă Dumnezeu ar avea nevoie de sfat, ci ca însuși felul vorbirii despre crearea noastră să ne arate cinstea."
       },
       {
-        "author": "Context istoric-arheologic (ANE)",
-        "text": "Ideea „chipului” unei divinități era, în Orientul Apropiat antic, aproape exclusiv un privilegiu regal — statuile și titlurile de „chip al zeului” se aplicau de obicei doar regilor și faraonilor, ca justificare a autorității lor. Geneza extinde radical acest limbaj: nu doar regele, ci fiecare ființă umană poartă „chipul lui Dumnezeu” — o democratizare a demnității care contrastează puternic cu ideologia regală a vecinilor Israelului."
-      },
-      {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:14 rezumă crearea omului într-o singură propoziție („bărbat și femeie i-a zidit, și i-a dat stăpânire peste tot ce este pe pământ”), fără elementul „chipului și asemănării” dezvoltat explicit — accentul cade pe stăpânire, nu pe asemănarea cu Dumnezeu ca atare."
       }
     ],
@@ -6355,7 +6335,7 @@ window.CHAPTER_DATA = [
         "text": "Omul nostru cel dinăuntru e alcătuit din duh și suflet. Duhul se spune că e de parte bărbătească; sufletul poate fi numit de parte femeiască. Dacă acestea două au înțelegere și armonie între ele, cresc și se înmulțesc chiar prin această armonie, și nasc fii — bună înclinație și înțelegeri sau gânduri folositoare — prin care umplu pământul și-l stăpânesc."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Dumnezeu l-a plămădit pe om, luând țărână din pământ, și l-a înzestrat cu suflare de viață și duh. Și omul acesta s-a numit Adam, adică, în limba ebraică, «roșu», fiindcă a fost făcut din țărână roșie înmuiată. A adus Dumnezeu înaintea lui Adam fiecare soi de animal, arătându-i partea bărbătească și partea femeiască; iar El le-a dat numele pe care-l poartă până azi. Văzând însă că Adam era lipsit de tovarășia și apropierea unei femei — căci nu era încă niciuna —, Dumnezeu i-a luat în timpul somnului o coastă și a făcut din aceasta femeia; de îndată ce a văzut-o, Adam a recunoscut că ea fusese făcută dintr-o parte a lui. În limba ebraică femeii i se zice Ișa; dar ea a primit numele de Eva, ceea ce înseamnă «mama tuturor viețuitoarelor»."
       }
     ],
@@ -6708,7 +6688,7 @@ window.CHAPTER_DATA = [
         "text": "Dacă cineva ar întreba de ce a fost nevoie să i se facă omului un ajutor, răspunsul cel mai probabil pare a fi acela că era pentru nașterea de copii, așa cum pământul e un ajutor pentru sămânță, la producerea unei plante din unirea celor două. Acest scop a fost arătat chiar la crearea dintâi a lumii: «Bărbat și femeie i-a făcut. Și Dumnezeu i-a binecuvântat, și a zis: Creșteți și vă înmulțiți, umpleți pământul și-l stăpâniți.» Acest motiv al creării și unirii bărbatului cu femeia, ca și această binecuvântare, n-a fost desființat după păcatul și pedeapsa omului."
       },
       {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:14 leagă direct binecuvântarea de stăpânire de actul creării înseși, fără separarea pe care Geneza o face între „a-i crea” (v. 27) și „a-i binecuvânta, zicând...” (v. 28) — o comprimare stilistică tipică rezumatelor din Jubilee."
       }
     ],
@@ -7001,7 +6981,7 @@ window.CHAPTER_DATA = [
         "text": "Și a zis Dumnezeu: Iată, v-am dat toată iarba ce face sămânță pe fața pământului, și toți pomii care au în ei sămânța soiului lor, ca să vă fie hrană — vouă, și tuturor fiarelor pământului, și fiecărei păsări. E limpede acum că, înainte de vina omului, pământul nu producea nimic vătămător, nicio iarbă otrăvitoare, niciun pom sterp — de vreme ce s-a spus clar că toată iarba și toți pomii au fost dați spre hrană oamenilor, păsărilor și tuturor fiarelor pământului, e vădit că nici păsările nu trăiau înhățând prin viclenie, nici lupul nu pândea în jurul staulelor, nici țărâna nu era pâinea șarpelui, ci toate mâncau în bună înțelegere ierburile verzi și roadele pomilor."
       },
       {
-        "author": "Context istoric-arheologic (ANE)",
+        "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Dieta strict vegetariană poruncită omului la creație (v. 29) — carnea fiind îngăduită abia după Potop, în Geneza 9:3 — a fost observată încă din Antichitate ca o tensiune internă a textului, discutată de comentatori evrei și creștini deopotrivă: lumea „foarte bună” a creației inițiale nu presupunea moartea animalelor pentru hrană."
       }
     ],
@@ -7492,11 +7472,11 @@ window.CHAPTER_DATA = [
         "text": "Mâna Lui cea atotputernică și înțelepciunea Lui fără margini n-ar fi fost în încurcătură nici dacă ar fi creat totul într-o singură zi. De ce spun «o singură zi»? Chiar și într-o clipă. Dar n-a fost din pricina folosului Său că a adus la ființă tot ce există, de vreme ce, fiind de Sine îndestulat, n-are nevoie de nimic. Ci mai degrabă din bunătatea și iubirea Lui de oameni a creat totul; de aceea a creat lucrurile în șir, și ne-a dat o învățătură limpede despre făpturi prin limba fericitului scriitor, ca să le cunoaștem cu precizie și să nu cădem în rătăcirea celor călăuziți doar de rațiunea omenească."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Antichități Iudaice 1.27, încheiere: „După spusele lui Moise, lumea, cu tot ce cuprinde, a fost creată în aceste șase zile; în cea de-a șaptea însă Dumnezeu S-a odihnit... De aceea și noi ne abținem de la orice muncă în această zi, pe care am numit-o sabat.” Josephus leagă direct verdictul final al creației („foarte bine”, Geneza 1:31) de instituirea Sabatului — deși, strict vorbind, Sabatul e narat abia la Geneza 2:1-3, nu la sfârșitul capitolului 1."
       },
       {
-        "author": "Cartea Jubileelor — comparație",
+        "author": "Cartea Jubileelor 2 — comparație",
         "text": "Cartea Jubileelor 2:16 încheie ziua a șasea aproape identic cu Geneza 1:31: „El a isprăvit toată lucrarea Sa... tot ce este în ceruri și pe pământ, și în mări, și în adâncuri, și în lumină, și în întuneric, și în toate” — o formulă de încheiere solemnă, paralelă cu cea biblică."
       }
     ],

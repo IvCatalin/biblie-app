@@ -324,6 +324,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ambrozie al Milanului, Despre Paradis 12.54-55",
         "text": "Când se spune «șarpele era mai viclean», înțelegeți la cine se face referire. Acesta e Potrivnicul nostru, a cărui înțelepciune e a acestei lumi. Desfătarea plăcerii a fost numită, pe drept, «înțelepciune», fiindcă se numește «înțelepciunea trupului»... Pricina pizmei a fost fericirea omului așezat în Paradis, fiindcă diavolul nu putea îndura darurile primite de om. Pizma i s-a aprins fiindcă omul, deși plăsmuit din lut, fusese ales locuitor al Paradisului."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:17 datează ispitirea cu o precizie absentă din Geneza: „după împlinirea celor șapte ani... în luna a doua, în ziua a șaptesprezecea, a venit șarpele și s-a apropiat de femeie” — adică la exact șapte ani de la intrarea în Eden, nu la scurt timp după creație, cum sugerează adesea lectura obișnuită a Genezei 2-3 ca o singură narațiune continuă."
       }
     ],
     "textCompare": [
@@ -676,6 +680,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.35",
         "text": "De ce, deși li se poruncise să evite să mănânce doar dintr-o singură plantă, femeia a adăugat ceva la această poruncă, zicând: «A zis să nu mâncăm din el, nici să ne atingem de el»? Întâi, spune aceasta fiindcă gustul și orice alt simț, în felul lui, constă în atingerea potrivită lui. Apoi, o spune ca și cum s-ar condamna singură, ea care a făcut ce fusese oprit: căci dacă chiar simpla atingere era interzisă, cum ar putea cei ce, pe lângă a se atinge de pom, au îndrăznit să mănânce din rod, să nu fie ei înșiși propriii lor condamnatori?"
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:18 confirmă exact adăugirea Evei față de porunca originală: „nici să vă atingeți de el” — același detaliu discutat de comentatorii evrei clasici ca posibilă exagerare a Evei față de porunca dată direct lui Adam (Geneza 2:17)."
       }
     ],
     "textCompare": [
@@ -834,6 +842,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ioan Gură de Aur, Omilii la Facere 16.11",
         "text": "Vedeți cum diavolul a dus-o captivă, i-a slăbit judecata și a făcut-o să-și ațintească gândurile spre țeluri mai presus de puterile ei adevărate, ca să se îngâmfe cu nădejdi deșarte și să-și piardă stăpânirea asupra bunurilor pe care le avea deja?"
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:19 redă răspunsul șarpelui aproape identic cu Geneza: „Nu veți muri nicidecum; căci Dumnezeu știe că în ziua în care veți mânca din el vi se vor deschide ochii, și veți fi ca dumnezeii, și veți cunoaște binele și răul.”"
       }
     ]
   },
@@ -1303,6 +1315,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Fericitul Augustin, Împotriva lui Iulian 5.4.17",
         "text": "În Paradis, răzvrătirea a început, negreșit, în suflet. Acolo a început procesul încuviințării călcării poruncii. De aceea a zis șarpele: «Veți fi ca dumnezeii.» Dar tot omul a săvârșit păcatul. Atunci trupul a devenit trup păcătos, ale cărui greșeli nu puteau fi vindecate decât de Cel ce a venit în asemănarea trupului păcătos."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "Șarpele, deși trăia în bună înțelegere cu Adam și cu femeia lui, le pizmuia fericirea de care se bucurau ascultând de poruncile lui Dumnezeu; mânat de răutate, el a înduplecat-o pe femeie să se înfrupte din pomul cunoașterii, explicându-i că e de ajuns să mănânce din el ca să aibă parte de un trai fericit, aidoma lui Dumnezeu. Astfel, femeia s-a lăsat ademenită de șarpe să încalce porunca dumnezeiască. După ce a gustat din pomul oprit și roadele sale i-au fost pe plac, Eva l-a înduplecat și pe Adam să mănânce din ele."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:20-21 urmează îndeaproape Geneza: „femeia a văzut că pomul era plăcut și desfătător la ochi, și că rodul lui era bun de mâncare, și a luat din el și a mâncat. Și după ce și-a acoperit întâi rușinea cu frunze de smochin, i-a dat și lui Adam.” Notabil: în Jubilee, Eva își acoperă rușinea ÎNAINTE de a-i da rodul lui Adam — o secvență ușor diferită de Geneza, unde amândoi rămân goi până după ce mănâncă amândoi."
       }
     ],
     "textCompare": [
@@ -1480,6 +1500,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Irineu, Împotriva ereziilor 3.23.5",
         "text": "«Frica de Domnul e începutul înțelepciunii.» Înțelegerea greșelii duce la pocăință, iar Dumnezeu Își întinde bunătatea către cei ce se pocăiesc. Căci Adam și-a arătat pocăința făcându-și un brâu, acoperindu-se cu frunze de smochin, când erau mulți alți pomi care i-ar fi iritat mai puțin trupul. El, totuși, cu teamă față de Dumnezeu, și-a făcut o îmbrăcăminte potrivită cu neascultarea lui — și fără îndoială ar fi păstrat-o pentru totdeauna, dacă Dumnezeu, în mila Lui, nu i-ar fi îmbrăcat cu haine de piele în locul frunzelor de smochin."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:21-22 confirmă aproape identic: „i s-au deschis ochii, și a văzut că era gol... a luat frunze de smochin și le-a cusut laolaltă, și și-a făcut un brâu.”"
       }
     ],
     "textCompare": [
@@ -1716,6 +1740,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ioan Gură de Aur, Omilii la Facere",
         "text": "Ce spuneți — Dumnezeu se plimbă? Îi atribuim picioare? N-avem o idee înaltă despre El? Nu, Dumnezeu nu se plimbă — departe fie gândul acesta! Cum ar putea, de vreme ce e prezent pretutindeni și umple totul cu prezența Lui? El, Căruia cerul Îi e tron și pământul așternut al picioarelor, ar putea fi mărginit la o grădină? Care e, deci, înțelesul acestei spuse? A voit să le dea o astfel de trăire care să le aducă o stare de neliniște — și așa s-a și întâmplat: au avut o trăire atât de puternică, încât au încercat să se ascundă de fața lui Dumnezeu."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "Atunci amândoi au cunoscut că, de fapt, erau goi și au căutat acoperăminte pentru părțile rușinoase, expuse privirilor: căci pomul le dăruise agerimea și înțelegerea. Cu frunze de smochin s-au învelit, acoperindu-și rușinea, și s-au arătat mai bucuroși decât fuseseră deunăzi, fiindcă dobândiseră o pricepere care le lipsise mai înainte. Când Dumnezeu a venit în grădină, Adam, până atunci obișnuind să-I vorbească fără ocol, a rămas ascuns, mustrat de păcatul săvârșit."
       }
     ],
     "textCompare": [
@@ -1847,6 +1875,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ambrozie al Milanului, Despre Paradis 14.70",
         "text": "Ce înseamnă, deci, «Adame, unde ești?» Nu înseamnă oare «în ce stare» ești, nu «în ce loc»? Nu e, deci, o întrebare, ci o mustrare. Din ce stare de bunătate, de fericire și de har, vrea să spună, ai căzut în această stare de nenorocire? Ai părăsit viața veșnică. Te-ai îngropat singur în căile păcatului și ale morții."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "Dumnezeu a rămas surprins de purtarea lui Adam și a căutat să afle din ce pricină mai înainte îl întâmpina bucuros, iar acum fugea și se ascundea."
       }
     ],
     "textCompare": [
@@ -2214,6 +2246,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ioan Gură de Aur, Omilii la Facere",
         "text": "«De unde ai putea avea cunoașterea aceasta», zice, «și să fii acoperit de o asemenea rușine, dacă n-ai fost atât de necumpătat încât să disprețuiești porunca Mea?» Priviți, preaiubiților, prisosul bunătății lui Dumnezeu, cum, în felul unui prieten care vorbește cu altul și-l mustră pentru călcarea povețelor sale, intră în dialog cu Adam."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "N-a primit niciun răspuns de la Adam, care recunoștea că-I încălcase porunca. Dumnezeu i-a spus atunci: «În ceea ce vă privește, hotărârea Mea a fost să duceți un trai fericit și scutit de orice necazuri... Acum însă Mi-ai disprețuit porunca, nu te-ai supus voinței Mele, tăcerea nefiind deloc dovada virtuții, ci a conștiinței atât de încărcate.»"
       }
     ]
   },
@@ -2365,6 +2401,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.17.25",
         "text": "Apoi, cum se întâmplă adesea în cazurile de mândrie, nu se acuză pe sine că a încuviințat femeii, ci împinge vina asupra femeii. Astfel, ca dintr-o iscusință pe care sărmanul o închipuise, a încercat cu viclenie să-I atribuie chiar lui Dumnezeu păcatul său. Căci n-a zis doar «femeia mi-a dat», ci a adăugat «femeia pe care Tu mi-ai dat-o». Nimic nu e mai caracteristic păcătoșilor decât dorința de a-I atribui lui Dumnezeu tot ce li se impută."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "Atunci Adam a căutat să se spele de păcat și L-a rugat să nu fie mânios pe el, aruncând vina faptei asupra femeii și spunând că ea l-a ispitit să cadă în greșeală."
       }
     ],
     "textCompare": [
@@ -2540,6 +2580,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Efrem Sirul, Comentariu la Facere 2.28-29",
         "text": "Fiindcă Adam n-a voit să-și mărturisească greșeala, Dumnezeu S-a coborât la Eva cu o întrebare, zicându-i: «Ce ai făcut?» Eva, la rândul ei, în loc să se roage cu lacrimi și să-și asume vina, ca mila să vină asupra ei și a bărbatului ei, a răspuns nu zicând «Șarpele m-a sfătuit» sau «m-a ademenit», ci simplu: «Șarpele m-a înșelat, și am mâncat.»"
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "La rândul ei, femeia a devenit învinuitoarea șarpelui."
       }
     ]
   },
@@ -2763,6 +2807,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.17.26",
         "text": "Șarpele nu mai e întrebat acum, ci primește pedeapsa cel dintâi, fiindcă nu-și poate mărturisi păcatul. Cel ce nu-și poate mărturisi păcatul n-are niciun temei să se scuze. De aceea chiar și dobitoacele sunt puse înaintea lui — nu în putere, ci în păstrarea firii lor."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:23 rezumă blestemul șarpelui într-o singură propoziție scurtă, fără detaliile fizice pe care le dezvoltă Josephus (pierderea vorbirii și a picioarelor): „Dumnezeu a blestemat șarpele, și s-a mâniat pe el pentru totdeauna.”"
       }
     ],
     "textCompare": [
@@ -3216,6 +3264,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Tertulian, Împotriva lui Marcion, cartea a II-a",
         "text": "Până la căderea omului, deci, de la început, Dumnezeu era pur și simplu bun; după aceea a devenit un judecător aspru și, cum vor marcioniții, crud. Femeia e osândită deodată să nască în durere și să-i slujească bărbatului ei, deși mai înainte auzise fără durere înmulțirea neamului ei vestită împreună cu binecuvântarea: «Creșteți și vă înmulțiți», și fusese menită să fie un ajutor, nu o roabă, pentru tovarășul ei bărbat."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:24 confirmă aproape cuvânt cu cuvânt: „Voi înmulți foarte durerea ta și durerile tale; în durere vei naște copii, și întoarcerea ta va fi la bărbatul tău.”"
       }
     ],
     "textCompare": [
@@ -3440,6 +3492,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.20.30",
         "text": "Ce vom spune despre judecata rostită împotriva bărbatului? Să credem oare că bogații, cărora lucrurile necesare vieții le vin ușor și care nu muncesc pământul, au scăpat de această pedeapsă? E limpede că nimeni nu scapă de această sentință. Căci oricine se naște în viața aceasta are greutate în a afla adevărul din pricina trupului stricăcios."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "Pentru faptul că a urmat îndemnul femeii, Dumnezeu l-a pedepsit pe Adam, spunându-i că de acum încolo pământul nu-i va mai da roade de la sine, ci doar după o muncă grea și trudă istovitoare glia îi va dărui câte ceva din unele, iar din altele deloc."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:25 redă blestemul pământului aproape identic cu Geneza: „Pentru că ai ascultat de glasul soției tale, și ai mâncat din pomul din care ți-am poruncit să nu mănânci, blestemat să fie pământul din pricina ta: spini și pălămidă îți va odrăsli.”"
       }
     ],
     "textCompare": [
@@ -3810,6 +3870,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ambrozie al Milanului, Despre Paradis 7.35",
         "text": "Se ridică încă o problemă. «De unde a venit moartea la Adam? De la firea unui astfel de pom, sau chiar de la Dumnezeu?» Dacă atribuim aceasta firii pomului, atunci rodul acestui pom pare mai puternic decât puterea dătătoare de viață a suflării lui Dumnezeu. Dacă susținem că Dumnezeu e pricina răspunzătoare a morții, atunci Îl putem învinui de neconsecvență. Soluția, dacă nu greșesc, stă în faptul că, fiindcă neascultarea a fost pricina morții, tocmai de aceea nu Dumnezeu, ci omul însuși a fost făptuitorul propriei sale morți."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "Eva a fost pedepsită cu nașterile și chinurile facerii care le însoțesc, fiindcă s-a lăsat păcălită de șarpe, târându-l și pe Adam în nenorocirile urzite împotriva lui. Șarpele a fost lipsit și de picioare, încât să-și târască trupul pe pământ, încolăcindu-se prin praf."
       }
     ],
     "textCompare": [
@@ -3966,6 +4030,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ioan Gură de Aur, Omilii la Facere",
         "text": "Priviți precizia Sfintei Scripturi, cum nu trece cu vederea nici acest amănunt, ci ne învață că Adam i-a pus nume și soției sale. «Și-a numit soția Eva, care înseamnă viață», zice textul, «fiindcă ea a fost mama tuturor celor vii» — adică ea e izvorul tuturor celor ce vor veni din ea, rădăcina și temelia neamului viitor."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:33 confirmă exact: „Și Adam a chemat numele soției sale Eva” — plasată însă de Jubilee DUPĂ ieșirea din grădină (3:32-33), nu înainte de ea ca în Geneza, unde numirea Evei (3:20) precede îmbrăcarea în piele și izgonirea (3:21-24)."
       }
     ],
     "textCompare": [
@@ -4099,6 +4167,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Efrem Sirul, Comentariu la Facere 2.33.1",
         "text": "Erau aceste veșminte din piei de animale? Sau au fost create precum ciulinii și spinii, create după ce celelalte lucrări ale creației fuseseră încheiate? Fiindcă s-a spus că «Domnul a făcut... și i-a îmbrăcat», pare cel mai probabil că, atunci când mâinile lor au fost puse peste frunzele lor, s-au trezit îmbrăcați în veșminte de piele. De ce ar fi fost ucise fiare în fața lor? Poate s-a întâmplat aceasta ca, prin carnea animalului, Adam și Eva să-și hrănească trupurile, iar cu pieile să-și acopere goliciunea, dar și ca, prin moartea animalelor, să vadă moartea propriilor lor trupuri."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:26 confirmă: „Și le-a făcut haine de piele, și i-a îmbrăcat, și i-a scos din Grădina Edenului” — deși aici cele două acte (îmbrăcarea și izgonirea) apar contopite într-un singur verset, fără intervalul pe care Geneza îl lasă între ele (3:21 vs. 3:23-24)."
       }
     ],
     "textCompare": [
@@ -4511,6 +4583,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.22.34",
         "text": "«Și apoi, ca nu cumva Adam să-și întindă mâna spre pomul vieții și să trăiască în veci, Dumnezeu l-a trimis afară din Paradis.» E bine spus «l-a trimis», nu «l-a exclus», ca să pară că e tras în jos de greutatea propriilor sale păcate, spre un loc care i se potrivește. Un om rău trăiește de obicei aceasta atunci când începe să locuiască printre oameni buni, dacă nu vrea să se schimbe spre bine: e alungat din tovărășia oamenilor buni de greutatea obiceiului său rău, iar ei nu-l exclud împotriva voii lui, ci îl trimit potrivit cu propria lui voie."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "După ce a dat pedepsele pomenite mai sus, Dumnezeu i-a mutat pe Adam și Eva în altă parte."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor adaugă aici două elemente complet absente din Geneza: la ieșirea din grădină, Adam a adus o jertfă de mireasmă plăcută — tămâie, gálban și stacte (3:27) — iar în chiar ziua aceea „s-a închis gura tuturor fiarelor, și a vitelor, și a păsărilor... încât nu au mai putut vorbi; căci toate vorbiseră una cu alta cu o singură buză” până atunci (3:28). Niciunul dintre aceste două detalii — jertfa lui Adam și pierderea vorbirii de către animale — nu are corespondent în textul biblic canonic."
       }
     ]
   },

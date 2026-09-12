@@ -2046,6 +2046,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și a scos Domnul Dumnezeu din pământ tot pomul plăcut la vedere și bun la mâncare: pomul vieții, în mijlocul grădinii, și pomul cunoașterii binelui și răului. Trebuia neapărat repetat aici, ca să putem înțelege firea locului Paradisului — mai ales fiindcă era nevoie de o mențiune specială a pomului vieții și a pomului cunoașterii binelui și răului: în unul era semnul ascultării datorate de om, în celălalt taina vieții veșnice, pe care avea s-o merite tocmai prin această ascultare. Pomul vieții se numea așa fiindcă avea puterea, primită dumnezeiește, ca oricine mânca din el să aibă trupul întărit cu o sănătate statornică — dar aceasta era totodată și chipul unei taine duhovnicești, al Domnului nostru Iisus Hristos."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "Grădina era udată de un singur fluviu care își poartă apele de jur împrejurul pământului și se împarte în patru brațe. Din el curge Phison (ceea ce înseamnă „mulțime”) înspre India; Eufratul se cheamă Phora, având sensul de „revărsare” sau „floare”; Tigris sau Diglath se traduce prin „îngust și repede”. În sfârșit, Geon, care curge de-a lungul Egiptului, înseamnă „din răsărit mânându-și apele spre noi”; grecii îl numesc Nil."
       }
     ],
     "fidela": "Şi din pământ DOMNUL Dumnezeu a făcut să încolţească fiecare pom care este plăcut la vedere şi bun pentru mâncare şi pomul vieţii, de asemenea, în mijlocul grădinii şi pomul cunoaşterii binelui şi răului."
@@ -3352,6 +3356,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Efrem Sirul, Imnuri despre Paradis 3.3",
         "text": "Chiar în mijloc a sădit Pomul Cunoașterii, dăruindu-i minunăție, împrejmuindu-l cu spaimă, ca îndată să slujească drept hotar al ținutului dinăuntrul Paradisului. Două lucruri a auzit Adam în acea singură poruncă: că nu trebuiau să mănânce din el, și că, ferindu-se de el, să priceapă că nu era îngăduit să pătrundă mai departe, dincolo de acel pom."
+      },
+      {
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+        "text": "Dumnezeu le-a poruncit lui Adam și femeii lui să mănânce roadele culese din oricare alt pom, în afară de cel al cunoașterii, prezicându-le că, dacă se vor atinge de el, vor fi sorțiți pieirii."
       }
     ]
   },
@@ -3661,6 +3669,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ambrozie al Milanului, Despre Paradis",
         "text": "Se ridică încă o întrebare, cu privire la spusa Domnului: «Nu e bine ca omul să fie singur.» Recunoașteți, mai întâi, faptul că, atunci când Dumnezeu l-a creat pe om din țărâna pământului, n-a mai adăugat, ca la fiecare din celelalte lucrări ale Sale, «și a văzut Dumnezeu că era bine». Dacă ar fi spus atunci că e bună crearea omului, cealaltă afirmație, «nu e bine», ar fi fost o contradicție. Dar, când a văzut că bărbatul și femeia sunt uniți prin creație, atunci a spus: «Și a văzut Dumnezeu tot ce făcuse, și iată, era foarte bine.» Înțelesul e limpede: crearea deopotrivă a bărbatului și a femeii e socotită bună."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:3 pune neaflarea unui ajutor potrivit direct în legătură cu cele cinci zile în care Adam a văzut trecând prin fața lui toate fiarele, pe perechi, „parte bărbătească și parte femeiască” — o precizare temporală (cinci zile întregi de observație) absentă din formularea mai succintă a Genezei."
       }
     ],
     "textCompare": [
@@ -4402,6 +4414,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ioan Gură de Aur, Omilii la Facere 15.7",
         "text": "«Dumnezeu a făcut să vină toropeală peste Adam», zice textul, «și a adormit.» N-a fost o simplă toropeală care a venit peste el, nici un somn obișnuit; ci înțeleptul și iscusitul Ziditor al firii noastre avea să-i ia una din coaste. Ca nu cumva această întâmplare să-l facă pe Adam, mai apoi, rău dispus față de făptura formată din coasta lui, și, prin amintirea durerii, să poarte pică acestei ființe la formarea ei, Dumnezeu i-a indus acest fel de somn."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:4-5 confirmă aproape identic secvența biblică: „Domnul ne-a zis: Nu este bine ca omul să fie singur... Domnul Dumnezeul nostru a adus asupra lui un somn adânc, și el a adormit, și El a luat pentru femeie o coastă dintre coastele lui.” Particularitate a cărții: naratorul e un înger, care vorbește la persoana întâi plural („ne-a zis”), nu Dumnezeu direct ca în Geneza."
       }
     ],
     "fidela": "Şi DOMNUL Dumnezeu a făcut să cadă un somn adânc peste Adam; şi Adam a dormit; şi a luat una din coastele lui şi a închis carnea la loc;"
@@ -4776,6 +4792,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "«Aceasta se va numi Femeie, fiindcă a fost luată din Bărbat.» Și așa cum etimologia latină se potrivește la aceste nume, femeia («mulier») fiind numită de la bărbat («vir»), tot așa se potrivește și în ebraică, limbă în care bărbatul se numește «ish», iar de la acest nume vine cuvântul pentru femeie, «ishah». Dar în tainele lui Hristos și ale Bisericii se potrivește și mai bine faptul că Adam a voit ca femeia creată din trupul lui să-i poarte numele — fiindcă Domnul nostru Iisus Hristos a dat, la fel, Bisericii, pe care a răscumpărat-o cu prețul trupului și sângelui Său, părtășia numelui Său, ca de la Hristos să se numească «creștină»."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:6-7 redă aproape cuvânt cu cuvânt exclamația lui Adam: „Aceasta este acum os din oasele mele și carne din carnea mea... de aceea va lăsa omul pe tatăl său și pe mama sa, și se va lipi de soția sa, și vor fi un singur trup.”"
       }
     ],
     "textCompare": [
@@ -5137,6 +5157,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Grigorie de Nyssa, Despre alcătuirea omului 17",
         "text": "Învierea nu ne făgăduiește altceva decât întoarcerea celor căzuți la starea lor cea veche; căci harul pe care-l așteptăm e o anume întoarcere la viața cea dintâi, aducându-i înapoi în paradis pe cei izgoniți din el. Dacă, deci, viața celor readuși e strâns înrudită cu cea a îngerilor, e limpede că viața dinainte de călcarea poruncii era un fel de viață îngerească."
+      },
+      {
+        "author": "Cartea Jubileelor 3 — comparație",
+        "text": "Cartea Jubileelor 3:16 plasează starea de goliciune fără rușine în timpul celor șapte ani de muncă în grădină, înainte de cădere — „era gol și nu știa, și nu se rușina” — coerent cu Geneza 2:25, dar integrat de Jubilee într-o cronologie proprie de șapte ani petrecuți în Eden, absentă din textul biblic."
       }
     ],
     "textCompare": [
