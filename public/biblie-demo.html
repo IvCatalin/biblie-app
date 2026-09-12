@@ -3945,6 +3945,16 @@ function hideRefPreview(){
   document.getElementById("ref-preview-popover").classList.remove("show");
 }
 
+// Închidere la click în afara panoului (la fel ca la panoul de cuvinte/lexicon),
+// pe lângă butonul "✕", care rămâne disponibil.
+document.addEventListener("click", (e) => {
+  const refPopover = document.getElementById("ref-preview-popover");
+  if(!refPopover || !refPopover.classList.contains("show")) return;
+  if(!refPopover.contains(e.target) && !e.target.classList.contains("ref-pill-clickable")){
+    hideRefPreview();
+  }
+});
+
 function goToRefReal(){
   const parsed = pendingRefNav;
   if(!parsed) return;
