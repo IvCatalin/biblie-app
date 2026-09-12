@@ -138,37 +138,8 @@ window.CHAPTER_DATA = [
     "refs": [
       "Psalmul 33:6",
       "Coloseni 1:16",
-      "Geneza 2:4",
-      "Geneza 1:1,10",
-      "Exod 20:11",
-      "Exod 31:17",
-      "2 Regi 19:15",
-      "2 Cronici 2:12",
-      "Neemia 9:6",
-      "Iov 12:9",
-      "Psalmul 89:11-13",
-      "Psalmul 104:2",
-      "Psalmul 136:5-8",
-      "Psalmul 146:6",
-      "Isaia 42:5",
-      "Isaia 45:18",
-      "Isaia 48:13",
-      "Isaia 55:9",
-      "Isaia 65:17",
-      "Ieremia 10:12,16",
-      "Zaharia 12:1",
-      "Faptele Apostolilor 4:24",
-      "Evrei 4:3",
-      "Deuteronom 4:19",
-      "Deuteronom 17:3",
-      "2 Regi 21:3-5",
-      "Psalmul 33:6,9",
-      "Isaia 34:4",
-      "Isaia 40:26-28",
-      "Isaia 45:12",
-      "Ieremia 8:2",
-      "Luca 2:13",
-      "Faptele Apostolilor 7:42"
+      "Geneza 2:4; 1:1,10",
+      "Exodul 20:11; 31:17"
     ],
     "textCompare": [
       {
@@ -384,16 +355,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Exod 20:8-11",
-      "Evrei 4:4",
+      "Exodul 20:8-11; 20:11; 23:12; 31:17",
       "Evrei 4:9-10",
-      "Geneza 1:31",
-      "Exod 20:11",
-      "Exod 23:12",
-      "Exod 31:17",
-      "Deuteronom 5:14",
-      "Isaia 58:13",
-      "Ioan 5:17"
+      "Geneza 1:31"
     ],
     "commentaries": [
       {
@@ -624,25 +588,7 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Isaia 58:13-14",
-      "Exod 16:22-30",
-      "Exod 20:8-11",
-      "Exod 23:12",
-      "Exod 31:13-17",
-      "Exod 34:21",
-      "Exod 35:2,3",
-      "Levitic 23:3",
-      "Levitic 25:2,3",
-      "Deuteronom 5:12-14",
-      "Neemia 9:14",
-      "Neemia 13:15-22",
-      "Proverbe 10:22",
-      "Isaia 56:2-7",
-      "Isaia 58:13,14",
-      "Ieremia 17:21-27",
-      "Iezechiel 20:12",
-      "Marcu 2:27",
-      "Luca 23:56",
-      "Evrei 4:4-10"
+      "Exodul 16:22-30; 20:8-11; 23:12; 31:13-17; 34:21"
     ],
     "commentaries": [
       {
@@ -874,25 +820,8 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Exod 3:14-15",
-      "Geneza 1:4",
-      "Geneza 5:1",
-      "Geneza 10:1",
-      "Geneza 11:10",
-      "Geneza 25:12,19",
-      "Geneza 36:1,9",
-      "Exod 6:16",
-      "Iov 38:28",
-      "Psalmul 90:1,2",
-      "Exod 15:3",
-      "1 Regi 18:39",
-      "2 Cronici 20:6",
-      "Psalmul 18:31",
-      "Psalmul 86:10",
-      "Isaia 44:6",
-      "Apocalipsa 1:4,8",
-      "Apocalipsa 11:17",
-      "Apocalipsa 16:5"
+      "Exodul 3:14-15",
+      "Geneza 1:4; 5:1; 10:1; 11:10; 25:12,19"
     ],
     "commentaries": [
       {
@@ -1267,17 +1196,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Evrei 6:7",
       "Geneza 1:12",
-      "Psalmul 104:14",
-      "Iov 5:10",
-      "Iov 38:26-28",
-      "Psalmul 65:9-11",
-      "Psalmul 135:7",
-      "Ieremia 14:22",
-      "Matei 5:45",
-      "Geneza 3:23",
-      "Geneza 4:2,12"
+      "Psalmul 104:14; 65:9-11; 135:7",
+      "Iov 5:10; 38:26-28"
     ],
     "fidela": "Şi fiecare verdeaţă a câmpului, înainte ca aceasta să fi fost în pământ, şi fiecare verdeaţă a câmpului înainte de a fi încolţit, pentru că DOMNUL Dumnezeu nu făcuse să plouă peste pământ şi nu era om să are pământul."
   },
@@ -1626,32 +1547,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Iov 33:4",
-      "1 Corinteni 15:45",
-      "Eclesiastul 12:7",
-      "Psalmul 100:3",
-      "Psalmul 139:14,15",
+      "Psalmul 100:3; 139:14,15",
       "Isaia 64:8",
       "Geneza 3:19,23",
-      "Iov 4:19",
-      "Iov 33:6",
-      "Psalmul 103:14",
-      "Eclesiastul 3:7,20",
-      "Romani 9:20",
-      "1 Corinteni 15:47",
-      "2 Corinteni 4:7",
-      "2 Corinteni 5:1",
-      "Iov 27:3",
-      "Ioan 20:22",
-      "Faptele Apostolilor 17:25",
-      "Geneza 7:22",
-      "Eclesiastul 3:21",
-      "Isaia 2:22",
-      "Numeri 16:22",
-      "Numeri 27:16",
-      "Proverbe 20:27",
-      "Zaharia 12:1",
-      "Evrei 12:9"
+      "Iov 4:19; 33:6"
     ],
     "commentaries": [
       {
@@ -1856,18 +1755,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Facerea 13:10",
-      "Ezechiel 28:13",
+      "Geneza 13:10; 3:24",
+      "Ezechiel 28:13; 31:8,9",
       "Apocalipsa 2:7",
-      "Geneza 13:10",
-      "Iezechiel 28:13",
-      "Iezechiel 31:8,9",
-      "Ioel 2:3",
-      "Geneza 3:24",
-      "Geneza 4:16",
-      "2 Regi 19:12",
-      "Iezechiel 27:23",
-      "Iezechiel 31:16,18"
+      "Ioel 2:3"
     ],
     "textCompare": [
       {
@@ -2095,22 +1986,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Apocalipsa 2:7",
       "Apocalipsa 22:2",
-      "Facerea 3:22",
-      "Iezechiel 31:8,9,16,18",
       "Geneza 3:22",
-      "Proverbe 3:18",
-      "Proverbe 11:30",
-      "Iezechiel 47:12",
-      "Ioan 6:48",
-      "Apocalipsa 22:2,14",
-      "Geneza 2:17",
-      "Geneza 3:3,22",
-      "Deuteronom 6:25",
-      "Isaia 44:25",
-      "Isaia 47:10",
-      "1 Corinteni 8:1"
+      "Ezechiel 31:8,9,16,18; 47:12",
+      "Proverbe 3:18; 11:30"
     ],
     "textCompare": [
       {
@@ -2328,9 +2207,8 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Apocalipsa 22:1-2",
-      "Psalmul 46:4",
-      "Apocalipsa 22:1"
+      "Apocalipsa 22:1-2; 22:1",
+      "Psalmul 46:4"
     ],
     "fidela": "Şi un râu ieşea din Eden ca să ude grădina; şi de acolo se împărţea şi se făcea patru capete.",
     "commentaries": [
@@ -2540,8 +2418,7 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 25:18",
-      "Geneza 10:7,29",
+      "Geneza 10:7,29; 25:18",
       "1 Samuel 15:7"
     ],
     "commentaries": [
@@ -2726,12 +2603,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Exod 28:9-12",
+      "Exodul 28:9-12; 28:20; 39:13",
       "Numeri 11:7",
-      "Exod 28:20",
-      "Exod 39:13",
       "Iov 28:16",
-      "Iezechiel 28:13"
+      "Ezechiel 28:13"
     ],
     "fidela": "Şi aurul acelei ţări este bun: acolo este bedelium şi piatra de onix.",
     "commentaries": [
@@ -2921,8 +2796,7 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:14",
-      "Geneza 10:6",
+      "Geneza 2:14; 10:6",
       "Isaia 11:11"
     ],
     "fidela": "Şi numele celui de al doilea râu este Ghihon: acesta este cel ce înconjoară întreaga ţară a Etiopiei.",
@@ -3126,13 +3000,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 15:18",
       "Daniel 10:4",
-      "Geneza 10:11,22",
-      "Geneza 25:18",
-      "Deuteronom 1:7",
-      "Deuteronom 11:24",
-      "Apocalipsa 9:14"
+      "Geneza 10:11,22; 25:18; 15:18",
+      "Deuteronomul 1:7; 11:24"
     ],
     "fidela": "Şi numele celui de al treilea râu este Hidechel: acesta este cel ce merge spre estul Asiriei. Şi al patrulea râu este Eufratul.",
     "commentaries": [
@@ -3315,8 +3185,7 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:8",
-      "Geneza 2:2",
+      "Geneza 2:2; 2:8",
       "Iov 31:33",
       "Psalmul 128:2",
       "Efeseni 4:28"
@@ -3440,12 +3309,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Facerea 1:29",
+      "Geneza 1:29; 2:9; 3:1,2",
       "1 Samuel 15:22",
-      "Geneza 2:9",
-      "Geneza 3:1,2",
-      "1 Timotei 4:4",
-      "1 Timotei 6:17"
+      "1 Timotei 4:4; 6:17"
     ],
     "textCompare": [
       {
@@ -3589,37 +3455,7 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Romani 6:23",
-      "Facerea 3:3-4",
-      "Geneza 2:9",
-      "Geneza 3:1-3,11,17,19",
-      "Geneza 3:3,4,19",
-      "Geneza 20:7",
-      "Numeri 26:65",
-      "Deuteronom 27:26",
-      "1 Samuel 14:39,44",
-      "1 Samuel 20:31",
-      "1 Samuel 22:16",
-      "1 Regi 2:37,42",
-      "Ieremia 26:8",
-      "Iezechiel 3:18-20",
-      "Iezechiel 18:4,13,32",
-      "Iezechiel 33:8,14",
-      "Romani 1:32",
-      "Romani 5:12-21",
-      "Romani 6:16,23",
-      "Romani 7:10-13",
-      "Romani 8:2",
-      "1 Corinteni 15:22,56",
-      "Galateni 3:10",
-      "Efeseni 2:1-6",
-      "Efeseni 5:14",
-      "Coloseni 2:13",
-      "1 Timotei 5:6",
-      "Iacov 1:15",
-      "1 Ioan 5:16",
-      "Apocalipsa 2:11",
-      "Apocalipsa 20:6,14",
-      "Apocalipsa 21:8"
+      "Geneza 3:3-4; 2:9; 3:1-3,11,17,19; 3:3,4,19; 20:7"
     ],
     "commentaries": [
       {
@@ -3800,15 +3636,9 @@ window.CHAPTER_DATA = [
     "refs": [
       "1 Corinteni 11:9",
       "Efeseni 5:31",
-      "Geneza 1:31",
-      "Geneza 3:12",
+      "Geneza 1:31; 3:12",
       "Rut 3:1",
-      "Proverbe 18:22",
-      "Eclesiastul 4:9-12",
-      "1 Corinteni 7:36",
-      "1 Corinteni 11:7-12",
-      "1 Timotei 2:11-13",
-      "1 Petru 3:7"
+      "Proverbe 18:22"
     ],
     "commentaries": [
       {
@@ -4106,12 +3936,7 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Psalmul 8:6-8",
-      "Geneza 1:20-25",
-      "Geneza 2:22,23",
-      "Geneza 1:26,28",
-      "Geneza 6:20",
-      "Geneza 9:2",
-      "Psalmul 8:4-8"
+      "Geneza 1:20-25; 2:22,23; 1:26,28; 6:20; 9:2"
     ],
     "fidela": "Şi din pământ DOMNUL Dumnezeu a format fiecare fiară a câmpului şi fiecare pasăre a cerului şi le-a adus la Adam să vadă cum le va numi; şi oricum a numit Adam fiecare fiinţa vie, acela a fost numele ei.",
     "commentaries": [
@@ -4533,10 +4358,8 @@ window.CHAPTER_DATA = [
       "1 Corinteni 11:8",
       "Geneza 15:12",
       "1 Samuel 26:12",
-      "Iov 4:13",
-      "Iov 33:15",
-      "Proverbe 19:15",
-      "Daniel 8:18"
+      "Iov 4:13; 33:15",
+      "Proverbe 19:15"
     ],
     "textCompare": [
       {
@@ -4742,9 +4565,7 @@ window.CHAPTER_DATA = [
       "Psalmul 127:1",
       "1 Timotei 2:13",
       "Geneza 2:19",
-      "Proverbe 18:22",
-      "Proverbe 19:14",
-      "Evrei 13:4"
+      "Proverbe 18:22; 19:14"
     ],
     "fidela": "Şi din coasta pe care DOMNUL Dumnezeu a luat-o de la om, a făcut o femeie şi a adus-o la om."
   },
@@ -4932,14 +4753,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Efeseni 5:28-30",
+      "Efeseni 5:28-30; 5:30",
       "Geneza 29:14",
       "Judecători 9:2",
-      "2 Samuel 5:1",
-      "2 Samuel 19:13",
-      "Efeseni 5:30",
-      "1 Corinteni 11:8,9",
-      "1 Corinteni 11:8"
+      "2 Samuel 5:1; 19:13"
     ],
     "commentaries": [
       {
@@ -5139,26 +4956,7 @@ window.CHAPTER_DATA = [
       "Marcu 10:7-8",
       "1 Corinteni 6:16",
       "Efeseni 5:31",
-      "Geneza 24:58,59",
-      "Geneza 31:14,15",
-      "Psalmul 45:10",
-      "Levitic 22:12,13",
-      "Deuteronom 4:4",
-      "Deuteronom 10:20",
-      "Iosua 23:8",
-      "Proverbe 12:4",
-      "Proverbe 31:10",
-      "Faptele Apostolilor 11:23",
-      "Maleahi 2:14-16",
-      "Matei 19:3-9",
-      "Marcu 10:6-12",
-      "Romani 7:2",
-      "1 Corinteni 6:16,17",
-      "1 Corinteni 7:2-4,10",
-      "1 Corinteni 7:11",
-      "Efeseni 5:28-31",
-      "1 Timotei 5:14",
-      "1 Petru 3:1-7"
+      "Geneza 24:58,59; 31:14,15"
     ],
     "commentaries": [
       {
@@ -5365,22 +5163,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 3:7",
-      "Geneza 3:10",
-      "Geneza 3:7,10,11",
-      "Exod 32:25",
-      "Psalmul 25:3",
-      "Psalmul 31:17",
-      "Isaia 44:9",
-      "Isaia 47:3",
-      "Isaia 54:4",
-      "Ieremia 6:15",
-      "Ieremia 17:13",
-      "Iezechiel 16:61",
-      "Ioel 2:26",
-      "Marcu 8:38",
-      "Luca 9:26",
-      "Romani 10:11"
+      "Geneza 3:7; 3:10; 3:7,10,11",
+      "Exodul 32:25",
+      "Psalmul 25:3; 31:17"
     ],
     "fidela": "Şi ei erau amândoi goi, omul şi soţia sa, şi nu se ruşinau."
   }

@@ -2562,7 +2562,7 @@
 
   <main id="verses"></main>
 
-  <footer>Atinge un verset pentru comentariu · cuvintele cu <b style="color:#d4a017;">•••</b> dedesubt au sens lexical — atinge-le pentru ebraică și traducere</footer>
+  <footer id="verses-footer-hint">Atinge un verset pentru comentarii.</footer>
   </div>
 
   <div class="tab-panel" id="tab-acasa">
@@ -4382,6 +4382,12 @@ const modeAprofundareBtn = document.getElementById("mode-aprofundare");
 function applyModeButtons(){
   modeCitireBtn.classList.toggle("active", appMode === "citire");
   modeAprofundareBtn.classList.toggle("active", appMode === "aprofundare");
+  const footerHint = document.getElementById("verses-footer-hint");
+  if(footerHint){
+    footerHint.innerHTML = (appMode === "aprofundare")
+      ? 'Atinge un verset pentru comentarii · cuvintele cu <b style="color:#d4a017;">•••</b> dedesubt au sens lexical — atinge-le pentru ebraică și traducere'
+      : 'Atinge un verset pentru comentarii.';
+  }
 }
 applyModeButtons();
 

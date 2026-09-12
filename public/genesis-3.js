@@ -297,17 +297,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "2 Corinteni 11:3",
-      "Apocalipsa 12:9",
-      "Apocalipsa 20:2",
+      "2 Corinteni 11:3; 11:3,14",
       "Geneza 3:13-15",
       "Isaia 27:1",
       "Matei 10:16",
-      "2 Corinteni 11:3,14",
-      "Numeri 22:28,29",
-      "Eclesiastul 4:10",
-      "1 Petru 3:7",
-      "Matei 4:3,6,9"
+      "Apocalipsa 12:9"
     ],
     "commentaries": [
       {
@@ -717,17 +711,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:17",
-      "Geneza 2:16,17",
-      "Geneza 20:6",
-      "Exod 19:12,13",
+      "Geneza 2:17; 2:16,17; 20:6",
+      "Exodul 19:12,13",
       "1 Cronici 16:22",
-      "Iov 1:11",
-      "Iov 2:5",
-      "Iov 19:21",
-      "1 Corinteni 7:1",
-      "2 Corinteni 6:17",
-      "Coloseni 2:21"
+      "Iov 1:11"
     ],
     "fidela": "Dar din rodul pomului care este în mijlocul grădinii, Dumnezeu a spus: Să nu mâncaţi din el, nici să nu îl atingeţi, ca nu cumva să muriţi."
   },
@@ -840,13 +827,9 @@ window.CHAPTER_DATA = [
     "refs": [
       "Ioan 8:44",
       "Geneza 3:13",
-      "Deuteronom 29:19",
-      "2 Regi 1:4,6,16",
-      "2 Regi 8:10",
-      "Psalmul 10:11",
-      "2 Corinteni 2:11",
-      "2 Corinteni 11:3",
-      "1 Timotei 2:14"
+      "Deuteronomul 29:19",
+      "2 Împărați 1:4,6,16; 8:10",
+      "Psalmul 10:11"
     ],
     "fidela": "Şi şarpele a spus femeii: Nu veţi muri nicidecum;",
     "commentaries": [
@@ -1057,29 +1040,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:17",
-      "Exod 20:7",
-      "1 Regi 22:6",
-      "Ieremia 14:13,14",
-      "Ieremia 28:2,3",
-      "Iezechiel 13:2-6,22",
-      "2 Corinteni 11:3",
-      "2 Corinteni 11:13-15",
-      "Geneza 3:7,10",
-      "Matei 6:23",
-      "Faptele Apostolilor 26:18",
-      "Exod 5:2",
-      "2 Cronici 32:15",
-      "Psalmul 12:4",
-      "Iezechiel 28:2,9",
-      "Iezechiel 29:3",
-      "Daniel 4:30",
-      "Daniel 6:7",
-      "Faptele Apostolilor 12:22,23",
-      "2 Corinteni 4:4",
-      "2 Tesaloniceni 2:4",
-      "Apocalipsa 13:4,14",
-      "Geneza 3:22"
+      "Exodul 20:7",
+      "1 Împărați 22:6",
+      "Ieremia 14:13,14; 28:2,3",
+      "Ezechiel 13:2-6,22",
+      "2 Corinteni 11:3"
     ],
     "fidela": "Fiindcă Dumnezeu ştie că în ziua în care voi mâncaţi din acesta, atunci ochii voştri vor fi deschişi şi veţi fi ca dumnezei, cunoscând binele şi răul."
   },
@@ -1331,20 +1296,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "1 Timotei 2:14",
       "Romani 5:12",
       "Iosua 7:21",
       "Judecători 16:1,2",
-      "Iezechiel 24:16,21,25",
-      "Geneza 6:2",
-      "Geneza 39:7",
-      "2 Samuel 11:2",
-      "Iov 31:1",
-      "Matei 5:28",
-      "1 Ioan 2:16",
-      "Geneza 3:12,17",
-      "Osea 6:7",
-      "Romani 5:12-19"
+      "Ezechiel 24:16,21,25",
+      "Geneza 6:2; 39:7"
     ],
     "commentaries": [
       {
@@ -1567,15 +1523,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:25",
-      "Geneza 3:5",
-      "Deuteronom 28:34",
-      "2 Regi 6:20",
-      "Luca 16:23",
-      "Geneza 3:10,11",
-      "Iov 9:29-31",
-      "Isaia 28:20",
-      "Isaia 59:6"
+      "Geneza 3:5; 3:10,11; 2:25",
+      "Deuteronomul 28:34",
+      "2 Împărați 6:20",
+      "Luca 16:23"
     ],
     "fidela": "Şi li s-au deschis ochii la amândoi şi au ştiut că erau goi; şi au cusut frunze de smochin laolaltă şi şi-au făcut şorţuri."
   },
@@ -1807,21 +1758,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Iov 38:1",
       "Geneza 3:10",
-      "Deuteronom 4:33",
-      "Deuteronom 5:25",
-      "Iov 34:21,22",
-      "Iov 22:14",
-      "Iov 31:33",
-      "Iov 34:22",
-      "Psalmul 139:1-12",
-      "Proverbe 15:3",
-      "Ieremia 23:24",
-      "Amos 9:2,3",
-      "Iona 1:3,9,10",
-      "Romani 2:15",
-      "Evrei 4:13"
+      "Deuteronomul 4:33; 5:25",
+      "Iov 34:21,22; 38:1; 22:14"
     ],
     "fidela": "Şi au auzit vocea DOMNULUI Dumnezeu umblând în grădină în răcoarea zilei; şi Adam şi soţia lui s-au ascuns de la faţa DOMNULUI Dumnezeu, printre pomii grădinii."
   },
@@ -1952,10 +1891,7 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 4:9",
-      "Geneza 11:5",
-      "Geneza 16:8",
-      "Geneza 18:20,21",
+      "Geneza 4:9; 11:5; 16:8; 18:20,21",
       "Iosua 7:17-19",
       "Apocalipsa 20:12,13"
     ],
@@ -2118,19 +2054,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 3:8",
-      "Geneza 2:25",
-      "Exod 3:6",
+      "Geneza 3:8; 2:25",
+      "Exodul 3:6",
       "Iov 23:15",
       "Psalmul 119:120",
-      "Isaia 33:14",
-      "Isaia 57:11",
-      "1 Ioan 3:20",
-      "Geneza 3:7",
-      "Exod 32:25",
-      "Isaia 47:3",
-      "Apocalipsa 3:17,18",
-      "Apocalipsa 16:15"
+      "Isaia 33:14"
     ],
     "fidela": "Iar el a spus: Am auzit vocea ta în grădină şi m-am temut, pentru că eram gol; şi m-am ascuns.",
     "commentaries": [
@@ -2293,8 +2221,7 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:16",
-      "Geneza 4:10",
+      "Geneza 2:16; 4:10",
       "Psalmul 50:21",
       "Romani 3:20"
     ],
@@ -2486,16 +2413,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:22",
-      "Geneza 2:18,20,22",
-      "Exod 32:21-24",
+      "Geneza 2:22; 2:18,20,22",
+      "Exodul 32:21-24",
       "1 Samuel 15:20-24",
       "Iov 31:33",
-      "Proverbe 19:3",
-      "Proverbe 28:13",
-      "Luca 10:29",
-      "Romani 10:3",
-      "Iacov 1:13-15"
+      "Proverbe 19:3"
     ],
     "fidela": "Şi omul a spus: Femeia pe care mi-ai dat-o să fie cu mine, ea mi-a dat din pom şi eu am mâncat."
   },
@@ -2625,15 +2547,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "2 Corinteni 11:3",
-      "1 Timotei 2:14",
-      "Geneza 4:10-12",
-      "Geneza 44:15",
+      "Geneza 4:10-12; 44:15",
       "1 Samuel 13:11",
-      "2 Samuel 3:24",
-      "2 Samuel 12:9-12",
-      "Ioan 18:35",
-      "Geneza 3:4-6"
+      "2 Samuel 3:24; 12:9-12",
+      "Ioan 18:35"
     ],
     "fidela": "Şi DOMNUL Dumnezeu a spus femeii: Ce este aceasta ce ai făcut? Şi femeia a spus: Şarpele m-a înşelat şi eu am mâncat.",
     "commentaries": [
@@ -2900,14 +2817,10 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Apocalipsa 12:9",
-      "Geneza 3:1",
-      "Geneza 9:6",
-      "Exod 21:28-32",
-      "Levitic 20:25",
-      "Psalmul 72:9",
-      "Isaia 29:4",
-      "Isaia 65:25",
-      "Mica 7:17"
+      "Geneza 3:1; 9:6",
+      "Exodul 21:28-32",
+      "Leviticul 20:25",
+      "Psalmul 72:9"
     ],
     "fidela": "Şi DOMNUL Dumnezeu a spus şarpelui: Pentru că ai făcut aceasta, eşti blestemat mai mult decât toate vitele şi mai mult decât fiecare fiară a câmpului; pe pântecele tău vei merge şi ţărână vei mânca toate zilele vieţii tale."
   },
@@ -3097,49 +3010,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Romani 16:20",
       "Apocalipsa 12:17",
-      "Galateni 4:4",
       "Numeri 21:6,7",
       "Amos 9:3",
       "Marcu 16:18",
       "Luca 10:19",
-      "Faptele Apostolilor 28:3-6",
-      "Romani 3:13",
-      "Matei 3:7",
-      "Matei 12:34",
-      "Matei 13:38",
-      "Matei 23:33",
-      "Ioan 8:44",
-      "Faptele Apostolilor 13:10",
-      "1 Ioan 3:8,10",
-      "Psalmul 132:11",
-      "Isaia 7:14",
-      "Ieremia 31:22",
-      "Mica 5:3",
-      "Matei 1:23,25",
-      "Luca 1:31-35,76",
-      "Efeseni 4:8",
-      "Coloseni 2:15",
-      "Evrei 2:14,15",
-      "1 Ioan 3:8",
-      "1 Ioan 5:5",
-      "Apocalipsa 12:7,8,17",
-      "Apocalipsa 20:1-3,10",
-      "Geneza 49:17",
-      "Isaia 53:3,4,12",
-      "Daniel 9:26",
-      "Matei 4:1-10",
-      "Luca 22:39-44,53",
-      "Ioan 12:31-33",
-      "Ioan 14:30,31",
-      "Evrei 2:18",
-      "Evrei 5:7",
-      "Apocalipsa 2:10",
-      "Apocalipsa 12:9-13",
-      "Apocalipsa 13:7",
-      "Apocalipsa 15:1-6",
-      "Apocalipsa 20:7,8"
+      "Faptele Apostolilor 28:3-6"
     ],
     "commentaries": [
       {
@@ -3350,34 +3226,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "1 Timotei 2:15",
       "Efeseni 5:22-23",
       "Geneza 35:16-18",
       "1 Samuel 4:19-21",
       "Psalmul 48:6",
-      "Isaia 13:8",
-      "Isaia 21:3",
-      "Isaia 26:17,18",
-      "Isaia 53:11",
-      "Ieremia 4:31",
-      "Ieremia 6:24",
-      "Ieremia 13:21",
-      "Ieremia 22:23",
-      "Ieremia 49:24",
-      "Mica 4:9,10",
-      "Ioan 16:21",
-      "1 Tesaloniceni 5:3",
-      "Geneza 4:7",
-      "Numeri 30:7,8,13",
-      "Estera 1:20",
-      "1 Corinteni 7:4",
-      "1 Corinteni 11:3",
-      "1 Corinteni 14:34",
-      "Efeseni 5:22-24",
-      "Coloseni 3:18",
-      "1 Timotei 2:11,12",
-      "Tit 2:5",
-      "1 Petru 3:1-6"
+      "Isaia 13:8; 21:3"
     ],
     "commentaries": [
       {
@@ -3651,27 +3504,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 5:29",
-      "Romani 8:20-22",
       "1 Samuel 15:23,24",
-      "Matei 22:12",
-      "Matei 25:26,27,45",
+      "Matei 22:12; 25:26,27,45",
       "Luca 19:22",
       "Romani 3:19",
-      "Geneza 3:6,11",
-      "Geneza 2:16,17",
-      "Ieremia 7:23,24",
-      "Psalmul 127:2",
-      "Eclesiastul 1:2,3,13,14",
-      "Eclesiastul 2:11,17",
-      "Isaia 24:5,6",
-      "Iov 5:6,7",
-      "Iov 14:1",
-      "Iov 21:17",
-      "Psalmul 90:7-9",
-      "Eclesiastul 2:22,23",
-      "Eclesiastul 5:17",
-      "Ioan 16:33"
+      "Geneza 3:6,11"
     ],
     "fidela": "Şi lui Adam i-a spus: Pentru că ai dat ascultare vocii soţiei tale şi ai mâncat din pomul din care ţi-am poruncit, zicând: Să nu mănânci din el, blestemat este pământul din cauza ta; în tristeţe vei mânca din el toate zilele vieţii tale;"
   },
@@ -3816,22 +3653,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Evrei 6:8",
       "Iosua 23:13",
-      "Iov 5:5",
-      "Iov 31:40",
-      "Proverbe 22:5",
-      "Proverbe 24:31",
-      "Isaia 5:6",
-      "Isaia 7:23",
-      "Isaia 32:13",
-      "Ieremia 4:3",
-      "Ieremia 12:13",
-      "Matei 13:7",
-      "Iov 1:21",
-      "Psalmul 90:3",
-      "Psalmul 104:2,14,15",
-      "Romani 14:2"
+      "Iov 5:5; 31:40",
+      "Proverbe 22:5; 24:31",
+      "Isaia 5:6"
     ],
     "fidela": "Spini şi ciulini îţi va aduce şi vei mânca verdeaţa câmpului;",
     "commentaries": [
@@ -4001,29 +3826,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Eclesiastul 3:20",
-      "Eclesiastul 12:7",
       "Romani 5:12",
       "Eclesiastul 1:3,13",
       "Efeseni 4:28",
       "1 Tesaloniceni 2:9",
       "2 Tesaloniceni 3:10",
-      "Iov 1:21",
-      "Psalmul 90:3",
-      "Psalmul 104:29",
-      "Eclesiastul 5:15",
-      "Geneza 2:7",
-      "Geneza 18:27",
-      "Geneza 23:4",
-      "Iov 17:13-16",
-      "Iov 19:26",
-      "Iov 21:26",
-      "Iov 34:15",
-      "Psalmul 22:15,29",
-      "Proverbe 21:16",
-      "Daniel 12:2",
-      "Romani 5:12-21",
-      "1 Corinteni 15:21,22"
+      "Iov 1:21"
     ],
     "commentaries": [
       {
@@ -4233,16 +4041,7 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 4:1",
-      "Geneza 2:20,23",
-      "Geneza 5:29",
-      "Geneza 16:11",
-      "Geneza 29:32-35",
-      "Geneza 35:18",
-      "Exod 2:10",
-      "1 Samuel 1:20",
-      "Matei 1:21,23",
-      "Faptele Apostolilor 17:26"
+      "Geneza 4:1; 2:20,23; 5:29; 16:11; 29:32-35; 35:18"
     ],
     "fidela": "Şi Adam i-a dat soţiei sale numele Eva, pentru că ea a fost mama tuturor celor vii."
   },
@@ -4370,7 +4169,7 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Levitic 16:4",
+      "Leviticul 16:4",
       "Geneza 3:7",
       "Isaia 61:10",
       "Romani 3:22",
@@ -4610,19 +4409,8 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 1:26",
-      "Geneza 11:7",
-      "Geneza 3:5",
-      "Geneza 11:6,7",
-      "Isaia 19:12,13",
-      "Isaia 47:12,13",
-      "Ieremia 22:23",
-      "Geneza 2:9",
-      "Proverbe 3:18",
-      "Apocalipsa 2:7",
-      "Apocalipsa 22:2",
-      "Psalmul 22:26",
-      "Ioan 6:48-58"
+      "Geneza 11:7; 3:5; 1:26; 11:6,7",
+      "Isaia 19:12,13; 47:12,13"
     ],
     "fidela": "Şi DOMNUL Dumnezeu a spus: Iată, omul a devenit ca unul dintre noi, să cunoască binele şi răul. Şi acum, ca nu cumva să îşi întindă mâna şi să ia de asemenea din pomul vieţii şi să mănânce şi să trăiască pentru totdeauna,"
   },
@@ -4751,11 +4539,7 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:15",
-      "Geneza 3:19",
-      "Geneza 2:5",
-      "Geneza 4:2,12",
-      "Geneza 9:20",
+      "Geneza 2:15; 3:19; 2:5; 4:2,12; 9:20",
       "Eclesiastul 5:9"
     ],
     "fidela": "De aceea DOMNUL Dumnezeu l-a trimis din grădina Edenului, ca să are pământul din care fusese luat.",
@@ -4990,22 +4774,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Exod 25:18-22",
+      "Exodul 25:18-22; 25:2,20,22",
       "Ezechiel 28:14-16",
       "Geneza 2:8",
-      "Exod 25:2,20,22",
       "1 Samuel 4:4",
-      "1 Regi 6:25-35",
-      "Psalmul 80:1",
-      "Psalmul 99:1",
-      "Psalmul 104:4",
-      "Iezechiel 10:2-22",
-      "Evrei 1:7",
-      "Numeri 22:23",
-      "Iosua 5:13",
-      "1 Cronici 21:16,17",
-      "Ioan 14:6",
-      "Evrei 10:18-22"
+      "1 Împărați 6:25-35"
     ],
     "fidela": "Astfel l-a alungat afară pe om şi a aşezat la est de grădina Edenului nişte heruvimi şi o sabie arzând care se întorcea în fiecare parte, pentru a păzi calea pomului vieţii."
   }
