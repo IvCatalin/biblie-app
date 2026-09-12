@@ -1255,8 +1255,8 @@
   }
   .ref-preview-text{
     font-family:'Fraunces', serif;
-    font-size:16px;
-    line-height:1.6;
+    font-size:14px;
+    line-height:1.55;
     color:var(--ink);
     margin-bottom:18px;
   }
@@ -3865,12 +3865,36 @@ function renderVerses(){
 function parseRefBookChapterVerse(refText){
   const book = findBookBySlugName(refText);
   if(!book) return null;
-  const nums = refText.match(/(\d+)\D+(\d+)/);
-  if(!nums) return null;
-  return { book, chapter: parseInt(nums[1], 10), verse: parseInt(nums[2], 10) };
+  const m = refText.match(/(\d+)\D+(\d+)(?:-(\d+))?/);
+  if(!m) return null;
+  const chapter = parseInt(m[1], 10);
+  const verse = parseInt(m[2], 10);
+  const endVerse = m[3] ? parseInt(m[3], 10) : verse;
+  return { book, chapter, verse, endVerse };
 }
 
 let pendingRefNav = null; // { book, chapter, verse } - tinut minte pentru butonul "Mergi la pasaj"
+
+function renderRefPreviewVerses(textEl, versesArray, startNum, endNum){
+  textEl.innerHTML = "";
+  let found = 0;
+  for(let n = startNum; n <= endNum; n++){
+    const v = versesArray.find(v => Number(v.num) === n);
+    if(!v) continue;
+    found++;
+    if(found > 1) textEl.appendChild(document.createTextNode(" "));
+    const numSpan = document.createElement("span");
+    numSpan.className = "vnum";
+    numSpan.textContent = n;
+    textEl.appendChild(numSpan);
+    textEl.appendChild(document.createTextNode(plainVerseText(v)));
+  }
+  if(!found){
+    textEl.textContent = (startNum === endNum)
+      ? ("Versetul " + startNum + " nu a fost g\u0103sit.")
+      : ("Versetele " + startNum + "-" + endNum + " nu au fost g\u0103site.");
+  }
+}
 
 function showRefPreview(refText, anchorEl){
   const parsed = parseRefBookChapterVerse(refText);
@@ -3896,9 +3920,7 @@ function showRefPreview(refText, anchorEl){
   const sameChapterNow = String(currentBookSlug) === String(parsed.book.slug) && Number(currentChapter) === Number(parsed.chapter);
 
   if(sameChapterNow && Array.isArray(VERSES) && VERSES.length){
-    const v = VERSES.find(v => Number(v.num) === Number(parsed.verse));
-    textEl.textContent = v ? plainVerseText(v) : ("Versetul " + parsed.verse + " nu a fost g\u0103sit \u00een capitolul curent.");
-    if(!v) console.warn("DAVAR ref-preview: verset negasit in VERSES curent", parsed, VERSES);
+    renderRefPreviewVerses(textEl, VERSES, parsed.verse, parsed.endVerse);
     return;
   }
 
@@ -3911,9 +3933,7 @@ function showRefPreview(refText, anchorEl){
     .then(txt => {
       const jsonStr = txt.replace(/^[\s\S]*?window\.CHAPTER_DATA\s*=\s*/, "").replace(/;\s*$/, "");
       const data = JSON.parse(jsonStr);
-      const v = data.find(v => Number(v.num) === Number(parsed.verse));
-      textEl.textContent = v ? plainVerseText(v) : ("Versetul " + parsed.verse + " nu a fost g\u0103sit.");
-      if(!v) console.warn("DAVAR ref-preview: verset negasit dupa fetch", parsed, data.length);
+      renderRefPreviewVerses(textEl, data, parsed.verse, parsed.endVerse);
     })
     .catch((err) => {
       console.error("DAVAR ref-preview: eroare la incarcarea pasajului", url, err);
