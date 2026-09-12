@@ -499,14 +499,15 @@
   .picker-book-item.open .picker-book-go{transform:rotate(90deg);}
   .picker-chapter-grid{
     display:none;
-    grid-template-columns:repeat(6, 1fr);
-    gap:6px;
+    grid-template-columns:repeat(8, 1fr);
+    gap:5px;
     padding:4px 2px 16px;
   }
   .picker-book-item.open .picker-chapter-grid{display:grid;}
   .chapter-num-btn{
     font-family:'Inter', sans-serif;
     font-size:12px;
+    font-weight:700;
     background:var(--parchment-dark);
     border:1px solid var(--line);
     color:var(--ink);
@@ -3117,7 +3118,7 @@ function renderVerseSheetTabs(verse){
 
   // "Context literar-istoric" și "Istorici" (Josephus etc.) sunt azi comentarii
   // ca oricare altele, dar aparțin conceptual tab-ului Texte, nu Comentarii.
-  const isAneOrHistorian = (author) => /istoric|josephus|flavius/i.test(author || "");
+  const isAneOrHistorian = (author) => /istoric|josephus|flavius|jubileelor|apocrif|adam.*eva/i.test(author || "");
 
   const allComments = (verse.commentaries || []);
   const realComments = allComments.filter(c => !isAneOrHistorian(c.author));
@@ -3204,7 +3205,7 @@ function renderVerseSheetTabs(verse){
         const label = document.createElement("div");
         label.className = "lib-section-title";
         label.style.margin = "16px 0 4px";
-        label.textContent = "Context și istorici";
+        label.textContent = "Context istoric, Josephus și apocrife";
         contentEl.appendChild(label);
         aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text));
       }
