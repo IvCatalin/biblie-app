@@ -3838,7 +3838,7 @@ function renderVerses(){
     applyVerseMarkStyle(p, currentBookSlug, currentChapter, verse.num);
     versesEl.appendChild(p);
 
-    if(verse.refs && verse.refs.length){
+    if(aprofundare && verse.refs && verse.refs.length){
       const refsRow = document.createElement("div");
       refsRow.className = "inline-refs";
       verse.refs.forEach((refText, idx) => {
