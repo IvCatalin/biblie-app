@@ -360,7 +360,6 @@ window.CHAPTER_DATA = [
       "Exodul 20:8-11",
       "Evrei 4:9-10",
       "Geneza 1:31",
-      "Exodul 20:11",
       "Exodul 23:12",
       "Exodul 31:17"
     ],
@@ -1564,8 +1563,7 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Psalmul 100:3",
-      "Psalmul 139:14",
-      "Psalmul 139:15",
+      "Psalmul 139:14-15",
       "Isaia 64:8",
       "Geneza 3:19",
       "Geneza 3:23"
@@ -1776,8 +1774,7 @@ window.CHAPTER_DATA = [
       "Geneza 13:10",
       "Ezechiel 28:13",
       "Apocalipsa 2:7",
-      "Ezechiel 31:8",
-      "Ezechiel 31:9",
+      "Ezechiel 31:8-9",
       "Ioel 2:3"
     ],
     "textCompare": [
@@ -2008,8 +2005,7 @@ window.CHAPTER_DATA = [
     "refs": [
       "Apocalipsa 22:2",
       "Geneza 3:22",
-      "Ezechiel 31:8",
-      "Ezechiel 31:9",
+      "Ezechiel 31:8-9",
       "Ezechiel 31:16",
       "Ezechiel 31:18"
     ],
@@ -2230,8 +2226,7 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Apocalipsa 22:1-2",
-      "Psalmul 46:4",
-      "Apocalipsa 22:1"
+      "Psalmul 46:4"
     ],
     "fidela": "Şi un râu ieşea din Eden ca să ude grădina; şi de acolo se împărţea şi se făcea patru capete.",
     "commentaries": [
@@ -3344,8 +3339,7 @@ window.CHAPTER_DATA = [
       "Geneza 1:29",
       "1 Samuel 15:22",
       "Geneza 2:9",
-      "Geneza 3:1",
-      "Geneza 3:2",
+      "Geneza 3:1-2",
       "1 Timotei 4:4"
     ],
     "textCompare": [
@@ -3490,9 +3484,8 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Romani 6:23",
-      "Geneza 3:3-4",
+      "Geneza 3:1-4",
       "Geneza 2:9",
-      "Geneza 3:1-3",
       "Geneza 3:11",
       "Geneza 3:17"
     ],
@@ -3976,10 +3969,8 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Psalmul 8:6-8",
-      "Geneza 1:20-25",
-      "Geneza 2:22",
-      "Geneza 2:23",
-      "Geneza 1:26",
+      "Geneza 1:20-26",
+      "Geneza 2:22-23",
       "Geneza 1:28"
     ],
     "fidela": "Şi din pământ DOMNUL Dumnezeu a format fiecare fiară a câmpului şi fiecare pasăre a cerului şi le-a adus la Adam să vadă cum le va numi; şi oricum a numit Adam fiecare fiinţa vie, acela a fost numele ei.",
@@ -4803,8 +4794,7 @@ window.CHAPTER_DATA = [
       "Geneza 29:14",
       "Judecători 9:2",
       "2 Samuel 5:1",
-      "2 Samuel 19:13",
-      "Efeseni 5:30"
+      "2 Samuel 19:13"
     ],
     "commentaries": [
       {
@@ -5004,8 +4994,7 @@ window.CHAPTER_DATA = [
       "Marcu 10:7-8",
       "1 Corinteni 6:16",
       "Efeseni 5:31",
-      "Geneza 24:58",
-      "Geneza 24:59"
+      "Geneza 24:58-59"
     ],
     "commentaries": [
       {
@@ -5213,8 +5202,7 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Geneza 3:7",
-      "Geneza 3:10",
-      "Geneza 3:11",
+      "Geneza 3:10-11",
       "Exodul 32:25",
       "Psalmul 25:3",
       "Psalmul 31:17"

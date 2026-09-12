@@ -1046,8 +1046,7 @@ window.CHAPTER_DATA = [
       "Ioan 11:9",
       "Geneza 8:22",
       "Psalmul 19:2",
-      "Psalmul 74:16",
-      "Psalmul 104:20"
+      "Psalmul 74:16"
     ],
     "commentaries": [
       {
@@ -1275,8 +1274,7 @@ window.CHAPTER_DATA = [
       "Proverbe 8:27-28",
       "Geneza 1:14",
       "Geneza 1:20",
-      "Geneza 7:11",
-      "Geneza 7:12"
+      "Geneza 7:11-12"
     ],
     "commentaries": [
       {
@@ -1549,9 +1547,7 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Proverbe 8:27-28",
-      "Proverbe 8:28",
-      "Proverbe 8:29",
+      "Proverbe 8:27-29",
       "Iov 26:8",
       "Psalmul 104:10",
       "Psalmul 148:4"
@@ -2431,10 +2427,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 104:14",
+      "Psalmul 104:14-17",
       "Geneza 2:5",
       "Iov 28:5",
-      "Psalmul 104:14-17",
       "Psalmul 147:8",
       "Matei 6:30"
     ],
@@ -2756,8 +2751,7 @@ window.CHAPTER_DATA = [
       "Matei 6:28-30",
       "Isaia 61:11",
       "Marcu 4:28",
-      "Isaia 55:10",
-      "Isaia 55:11"
+      "Isaia 55:10-11"
     ],
     "commentaries": [
       {
@@ -4410,12 +4404,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 104:25-26",
-      "Geneza 1:21",
-      "Geneza 1:22",
+      "Psalmul 104:24-26",
+      "Geneza 1:21-22",
       "Geneza 2:19",
-      "Geneza 8:17",
-      "Psalmul 104:24"
+      "Geneza 8:17"
     ],
     "commentaries": [
       {
@@ -5417,8 +5409,7 @@ window.CHAPTER_DATA = [
       "Geneza 6:20",
       "Geneza 7:14",
       "Geneza 8:19",
-      "Iov 38:39",
-      "Iov 38:40"
+      "Iov 38:39-40"
     ],
     "commentaries": [
       {
@@ -5713,8 +5704,7 @@ window.CHAPTER_DATA = [
     "refs": [
       "Psalmul 104:24",
       "Psalmul 148:10",
-      "Geneza 2:19",
-      "Geneza 2:20",
+      "Geneza 2:19-20",
       "Iov 12:8-10",
       "Iov 26:13"
     ],
@@ -7394,8 +7384,7 @@ window.CHAPTER_DATA = [
       "Psalmul 104:31",
       "Geneza 1:4",
       "Iov 38:7",
-      "Psalmul 19:1",
-      "Psalmul 19:2"
+      "Psalmul 19:1-2"
     ],
     "commentaries": [
       {

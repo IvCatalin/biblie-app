@@ -712,11 +712,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:17",
-      "Geneza 2:16",
+      "Geneza 2:16-17",
       "Geneza 20:6",
-      "Exodul 19:12",
-      "Exodul 19:13",
+      "Exodul 19:12-13",
       "1 Cronici 16:22"
     ],
     "fidela": "Dar din rodul pomului care este în mijlocul grădinii, Dumnezeu a spus: Să nu mâncaţi din el, nici să nu îl atingeţi, ca nu cumva să muriţi."
@@ -1046,10 +1044,8 @@ window.CHAPTER_DATA = [
     "refs": [
       "Exodul 20:7",
       "1 Împărați 22:6",
-      "Ieremia 14:13",
-      "Ieremia 14:14",
-      "Ieremia 28:2",
-      "Ieremia 28:3"
+      "Ieremia 14:13-14",
+      "Ieremia 28:2-3"
     ],
     "fidela": "Fiindcă Dumnezeu ştie că în ziua în care voi mâncaţi din acesta, atunci ochii voştri vor fi deschişi şi veţi fi ca dumnezei, cunoscând binele şi răul."
   },
@@ -1303,8 +1299,7 @@ window.CHAPTER_DATA = [
     "refs": [
       "Romani 5:12",
       "Iosua 7:21",
-      "Judecători 16:1",
-      "Judecători 16:2",
+      "Judecători 16:1-2",
       "Ezechiel 24:16",
       "Ezechiel 24:21"
     ],
@@ -1533,8 +1528,7 @@ window.CHAPTER_DATA = [
       "Deuteronomul 28:34",
       "2 Împărați 6:20",
       "Luca 16:23",
-      "Geneza 3:10",
-      "Geneza 3:11"
+      "Geneza 3:10-11"
     ],
     "fidela": "Şi li s-au deschis ochii la amândoi şi au ştiut că erau goi; şi au cusut frunze de smochin laolaltă şi şi-au făcut şorţuri."
   },
@@ -1769,8 +1763,7 @@ window.CHAPTER_DATA = [
       "Geneza 3:10",
       "Deuteronomul 4:33",
       "Deuteronomul 5:25",
-      "Iov 34:21",
-      "Iov 34:22",
+      "Iov 34:21-22",
       "Iov 38:1"
     ],
     "fidela": "Şi au auzit vocea DOMNULUI Dumnezeu umblând în grădină în răcoarea zilei; şi Adam şi soţia lui s-au ascuns de la faţa DOMNULUI Dumnezeu, printre pomii grădinii."
@@ -1905,8 +1898,7 @@ window.CHAPTER_DATA = [
       "Geneza 4:9",
       "Geneza 11:5",
       "Geneza 16:8",
-      "Geneza 18:20",
-      "Geneza 18:21",
+      "Geneza 18:20-21",
       "Iosua 7:17-19"
     ],
     "fidela": "Şi DOMNUL Dumnezeu l-a chemat pe Adam şi i-a spus: Unde eşti?"
@@ -3031,8 +3023,7 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Apocalipsa 12:17",
-      "Numeri 21:6",
-      "Numeri 21:7",
+      "Numeri 21:6-7",
       "Amos 9:3",
       "Marcu 16:18",
       "Luca 10:19"
@@ -3525,11 +3516,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "1 Samuel 15:23",
-      "1 Samuel 15:24",
+      "1 Samuel 15:23-24",
       "Matei 22:12",
-      "Matei 25:26",
-      "Matei 25:27",
+      "Matei 25:26-27",
       "Matei 25:45"
     ],
     "fidela": "Şi lui Adam i-a spus: Pentru că ai dat ascultare vocii soţiei tale şi ai mâncat din pomul din care ţi-am poruncit, zicând: Să nu mănânci din el, blestemat este pământul din cauza ta; în tristeţe vei mânca din el toate zilele vieţii tale;"
@@ -4202,8 +4191,7 @@ window.CHAPTER_DATA = [
       "Geneza 3:7",
       "Isaia 61:10",
       "Romani 3:22",
-      "2 Corinteni 5:2",
-      "2 Corinteni 5:3"
+      "2 Corinteni 5:2-3"
     ],
     "fidela": "Lui Adam şi soţiei lui, de asemenea, DOMNUL Dumnezeu le-a făcut haine de piei şi i-a îmbrăcat."
   },
@@ -4439,12 +4427,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 11:7",
+      "Geneza 11:6-7",
       "Geneza 3:5",
       "Geneza 1:26",
-      "Geneza 11:6",
-      "Isaia 19:12",
-      "Isaia 19:13"
+      "Isaia 19:12-13"
     ],
     "fidela": "Şi DOMNUL Dumnezeu a spus: Iată, omul a devenit ca unul dintre noi, să cunoască binele şi răul. Şi acum, ca nu cumva să îşi întindă mâna şi să ia de asemenea din pomul vieţii şi să mănânce şi să trăiască pentru totdeauna,"
   },
@@ -4815,9 +4801,7 @@ window.CHAPTER_DATA = [
       "Exodul 25:18-22",
       "Ezechiel 28:14-16",
       "Geneza 2:8",
-      "Exodul 25:2",
-      "Exodul 25:20",
-      "Exodul 25:22"
+      "Exodul 25:2"
     ],
     "fidela": "Astfel l-a alungat afară pe om şi a aşezat la est de grădina Edenului nişte heruvimi şi o sabie arzând care se întorcea în fiecare parte, pentru a păzi calea pomului vieţii."
   }
