@@ -138,8 +138,10 @@ window.CHAPTER_DATA = [
     "refs": [
       "Psalmul 33:6",
       "Coloseni 1:16",
-      "Geneza 2:4; 1:1,10",
-      "Exodul 20:11; 31:17"
+      "Geneza 2:4",
+      "Geneza 1:1",
+      "Geneza 1:10",
+      "Exodul 20:11"
     ],
     "textCompare": [
       {
@@ -355,9 +357,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Exodul 20:8-11; 20:11; 23:12; 31:17",
+      "Exodul 20:8-11",
       "Evrei 4:9-10",
-      "Geneza 1:31"
+      "Geneza 1:31",
+      "Exodul 20:11",
+      "Exodul 23:12",
+      "Exodul 31:17"
     ],
     "commentaries": [
       {
@@ -588,7 +593,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Isaia 58:13-14",
-      "Exodul 16:22-30; 20:8-11; 23:12; 31:13-17; 34:21"
+      "Exodul 16:22-30",
+      "Exodul 20:8-11",
+      "Exodul 23:12",
+      "Exodul 31:13-17",
+      "Exodul 34:21"
     ],
     "commentaries": [
       {
@@ -821,7 +830,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Exodul 3:14-15",
-      "Geneza 1:4; 5:1; 10:1; 11:10; 25:12,19"
+      "Geneza 1:4",
+      "Geneza 5:1",
+      "Geneza 10:1",
+      "Geneza 11:10",
+      "Geneza 25:12"
     ],
     "commentaries": [
       {
@@ -1197,8 +1210,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Geneza 1:12",
-      "Psalmul 104:14; 65:9-11; 135:7",
-      "Iov 5:10; 38:26-28"
+      "Psalmul 104:14",
+      "Iov 5:10",
+      "Iov 38:26-28",
+      "Psalmul 65:9-11",
+      "Psalmul 135:7"
     ],
     "fidela": "Şi fiecare verdeaţă a câmpului, înainte ca aceasta să fi fost în pământ, şi fiecare verdeaţă a câmpului înainte de a fi încolţit, pentru că DOMNUL Dumnezeu nu făcuse să plouă peste pământ şi nu era om să are pământul."
   },
@@ -1547,10 +1563,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 100:3; 139:14,15",
+      "Psalmul 100:3",
+      "Psalmul 139:14",
+      "Psalmul 139:15",
       "Isaia 64:8",
-      "Geneza 3:19,23",
-      "Iov 4:19; 33:6"
+      "Geneza 3:19",
+      "Geneza 3:23"
     ],
     "commentaries": [
       {
@@ -1755,9 +1773,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 13:10; 3:24",
-      "Ezechiel 28:13; 31:8,9",
+      "Geneza 13:10",
+      "Ezechiel 28:13",
       "Apocalipsa 2:7",
+      "Ezechiel 31:8",
+      "Ezechiel 31:9",
       "Ioel 2:3"
     ],
     "textCompare": [
@@ -1988,8 +2008,10 @@ window.CHAPTER_DATA = [
     "refs": [
       "Apocalipsa 22:2",
       "Geneza 3:22",
-      "Ezechiel 31:8,9,16,18; 47:12",
-      "Proverbe 3:18; 11:30"
+      "Ezechiel 31:8",
+      "Ezechiel 31:9",
+      "Ezechiel 31:16",
+      "Ezechiel 31:18"
     ],
     "textCompare": [
       {
@@ -2207,8 +2229,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Apocalipsa 22:1-2; 22:1",
-      "Psalmul 46:4"
+      "Apocalipsa 22:1-2",
+      "Psalmul 46:4",
+      "Apocalipsa 22:1"
     ],
     "fidela": "Şi un râu ieşea din Eden ca să ude grădina; şi de acolo se împărţea şi se făcea patru capete.",
     "commentaries": [
@@ -2418,7 +2441,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 10:7,29; 25:18",
+      "Geneza 10:7",
+      "Geneza 10:29",
+      "Geneza 25:18",
       "1 Samuel 15:7"
     ],
     "commentaries": [
@@ -2603,8 +2628,10 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Exodul 28:9-12; 28:20; 39:13",
+      "Exodul 28:9-12",
       "Numeri 11:7",
+      "Exodul 28:20",
+      "Exodul 39:13",
       "Iov 28:16",
       "Ezechiel 28:13"
     ],
@@ -2796,7 +2823,8 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:14; 10:6",
+      "Geneza 2:14",
+      "Geneza 10:6",
       "Isaia 11:11"
     ],
     "fidela": "Şi numele celui de al doilea râu este Ghihon: acesta este cel ce înconjoară întreaga ţară a Etiopiei.",
@@ -3001,8 +3029,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Daniel 10:4",
-      "Geneza 10:11,22; 25:18; 15:18",
-      "Deuteronomul 1:7; 11:24"
+      "Geneza 10:11",
+      "Geneza 10:22",
+      "Geneza 25:18",
+      "Geneza 15:18",
+      "Deuteronomul 1:7"
     ],
     "fidela": "Şi numele celui de al treilea râu este Hidechel: acesta este cel ce merge spre estul Asiriei. Şi al patrulea râu este Eufratul.",
     "commentaries": [
@@ -3185,8 +3216,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 2:2; 2:8",
+      "Geneza 2:2",
       "Iov 31:33",
+      "Geneza 2:8",
       "Psalmul 128:2",
       "Efeseni 4:28"
     ],
@@ -3309,9 +3341,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 1:29; 2:9; 3:1,2",
+      "Geneza 1:29",
       "1 Samuel 15:22",
-      "1 Timotei 4:4; 6:17"
+      "Geneza 2:9",
+      "Geneza 3:1",
+      "Geneza 3:2",
+      "1 Timotei 4:4"
     ],
     "textCompare": [
       {
@@ -3455,7 +3490,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Romani 6:23",
-      "Geneza 3:3-4; 2:9; 3:1-3,11,17,19; 3:3,4,19; 20:7"
+      "Geneza 3:3-4",
+      "Geneza 2:9",
+      "Geneza 3:1-3",
+      "Geneza 3:11",
+      "Geneza 3:17"
     ],
     "commentaries": [
       {
@@ -3636,7 +3675,8 @@ window.CHAPTER_DATA = [
     "refs": [
       "1 Corinteni 11:9",
       "Efeseni 5:31",
-      "Geneza 1:31; 3:12",
+      "Geneza 1:31",
+      "Geneza 3:12",
       "Rut 3:1",
       "Proverbe 18:22"
     ],
@@ -3936,7 +3976,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Psalmul 8:6-8",
-      "Geneza 1:20-25; 2:22,23; 1:26,28; 6:20; 9:2"
+      "Geneza 1:20-25",
+      "Geneza 2:22",
+      "Geneza 2:23",
+      "Geneza 1:26",
+      "Geneza 1:28"
     ],
     "fidela": "Şi din pământ DOMNUL Dumnezeu a format fiecare fiară a câmpului şi fiecare pasăre a cerului şi le-a adus la Adam să vadă cum le va numi; şi oricum a numit Adam fiecare fiinţa vie, acela a fost numele ei.",
     "commentaries": [
@@ -4358,7 +4402,8 @@ window.CHAPTER_DATA = [
       "1 Corinteni 11:8",
       "Geneza 15:12",
       "1 Samuel 26:12",
-      "Iov 4:13; 33:15",
+      "Iov 4:13",
+      "Iov 33:15",
       "Proverbe 19:15"
     ],
     "textCompare": [
@@ -4565,7 +4610,8 @@ window.CHAPTER_DATA = [
       "Psalmul 127:1",
       "1 Timotei 2:13",
       "Geneza 2:19",
-      "Proverbe 18:22; 19:14"
+      "Proverbe 18:22",
+      "Proverbe 19:14"
     ],
     "fidela": "Şi din coasta pe care DOMNUL Dumnezeu a luat-o de la om, a făcut o femeie şi a adus-o la om."
   },
@@ -4753,10 +4799,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Efeseni 5:28-30; 5:30",
+      "Efeseni 5:28-30",
       "Geneza 29:14",
       "Judecători 9:2",
-      "2 Samuel 5:1; 19:13"
+      "2 Samuel 5:1",
+      "2 Samuel 19:13",
+      "Efeseni 5:30"
     ],
     "commentaries": [
       {
@@ -4956,7 +5004,8 @@ window.CHAPTER_DATA = [
       "Marcu 10:7-8",
       "1 Corinteni 6:16",
       "Efeseni 5:31",
-      "Geneza 24:58,59; 31:14,15"
+      "Geneza 24:58",
+      "Geneza 24:59"
     ],
     "commentaries": [
       {
@@ -5163,9 +5212,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 3:7; 3:10; 3:7,10,11",
+      "Geneza 3:7",
+      "Geneza 3:10",
+      "Geneza 3:11",
       "Exodul 32:25",
-      "Psalmul 25:3; 31:17"
+      "Psalmul 25:3",
+      "Psalmul 31:17"
     ],
     "fidela": "Şi ei erau amândoi goi, omul şi soţia sa, şi nu se ruşinau."
   }

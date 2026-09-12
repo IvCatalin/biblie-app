@@ -5497,6 +5497,10 @@ function renderEssaysForParasha(nameSlug){
 function findBookBySlugName(refText){
   if(!refText) return null;
   const lower = refText.toLowerCase().trim();
+  // Excepție: pentru citarea unui psalm anume se folosește convențional
+  // forma la singular "Psalmul N" (nu numele cărții "Psalmii"), care nu
+  // se potrivește cu regula generică de mai jos (nu se termină în "ul").
+  if(lower.startsWith("psalmul")) return BOOKS.find(b => b.slug === "psalms") || null;
   return BOOKS.find(b => {
     const full = b.name.toLowerCase();
     const core = full.replace(/ul$/, ""); // "Deuteronomul" -> "deuteronom", ca sa prinda si "Deuteronom"

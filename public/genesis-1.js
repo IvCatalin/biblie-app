@@ -113,7 +113,8 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Coloseni 1:16-17",
-      "Proverbe 8:22-24; 16:4",
+      "Proverbe 8:22-24",
+      "Proverbe 16:4",
       "Marcu 13:19",
       "Ioan 1:1-3",
       "Evrei 1:10"
@@ -417,8 +418,9 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Iov 26:13; 26:7",
+      "Iov 26:13",
       "2 Petru 3:5",
+      "Iov 26:7",
       "Isaia 45:18",
       "Ieremia 4:23",
       "Naum 2:10"
@@ -588,9 +590,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Ioan 1:4-5; 11:43",
-      "Psalmul 33:9; 33:6,9; 148:5",
-      "Matei 8:3"
+      "Ioan 1:4-5",
+      "Psalmul 33:9",
+      "Psalmul 33:6",
+      "Psalmul 148:5",
+      "Matei 8:3",
+      "Ioan 11:43"
     ],
     "commentaries": [
       {
@@ -806,8 +811,10 @@ window.CHAPTER_DATA = [
     "refs": [
       "Isaia 45:7",
       "1 Ioan 1:5",
-      "Geneza 1:10,12,18,25,31",
-      "Eclesiastul 2:13; 11:7"
+      "Geneza 1:10",
+      "Geneza 1:12",
+      "Geneza 1:18",
+      "Geneza 1:25"
     ],
     "commentaries": [
       {
@@ -1035,9 +1042,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 104:19-20; 19:2; 74:16; 104:20",
+      "Psalmul 104:19-20",
       "Ioan 11:9",
-      "Geneza 8:22"
+      "Geneza 8:22",
+      "Psalmul 19:2",
+      "Psalmul 74:16",
+      "Psalmul 104:20"
     ],
     "commentaries": [
       {
@@ -1261,9 +1271,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Iov 37:18; 26:7,8,13; 37:11,18",
+      "Iov 37:18",
       "Proverbe 8:27-28",
-      "Geneza 1:14,20; 7:11,12"
+      "Geneza 1:14",
+      "Geneza 1:20",
+      "Geneza 7:11",
+      "Geneza 7:12"
     ],
     "commentaries": [
       {
@@ -1536,10 +1549,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Proverbe 8:27-28; 8:28,29",
+      "Proverbe 8:27-28",
+      "Proverbe 8:28",
+      "Proverbe 8:29",
       "Iov 26:8",
-      "Psalmul 104:10; 148:4",
-      "Eclesiastul 11:3"
+      "Psalmul 104:10",
+      "Psalmul 148:4"
     ],
     "commentaries": [
       {
@@ -1755,8 +1770,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 19:1; 8:3",
-      "Geneza 1:5,10; 5:2; 1:5,13,19,23,31"
+      "Psalmul 19:1",
+      "Psalmul 8:3",
+      "Geneza 1:5",
+      "Geneza 1:10",
+      "Geneza 5:2",
+      "Geneza 1:13"
     ],
     "commentaries": [
       {
@@ -1996,9 +2015,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 24:1-2; 104:6-9; 24:1,2",
+      "Psalmul 24:1-2",
+      "Psalmul 104:6-9",
       "Proverbe 8:29",
-      "Iov 26:7,10; 38:8-11"
+      "Iov 26:7",
+      "Iov 26:10",
+      "Iov 38:8-11"
     ],
     "commentaries": [
       {
@@ -2257,11 +2279,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 95:5; 104:31",
+      "Psalmul 95:5",
       "Iov 38:8-11",
       "Iona 1:9",
       "Geneza 1:4",
-      "Deuteronomul 32:4"
+      "Deuteronomul 32:4",
+      "Psalmul 104:31"
     ],
     "commentaries": [
       {
@@ -2408,9 +2431,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 104:14; 104:14-17; 147:8",
+      "Psalmul 104:14",
       "Geneza 2:5",
       "Iov 28:5",
+      "Psalmul 104:14-17",
+      "Psalmul 147:8",
       "Matei 6:30"
     ],
     "commentaries": [
@@ -2728,9 +2753,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Psalmul 104:14",
-      "Matei 6:28-30; 13:24-26",
-      "Isaia 61:11; 55:10,11",
-      "Marcu 4:28"
+      "Matei 6:28-30",
+      "Isaia 61:11",
+      "Marcu 4:28",
+      "Isaia 55:10",
+      "Isaia 55:11"
     ],
     "commentaries": [
       {
@@ -3141,9 +3168,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 148:3; 8:3,4; 19:1-6",
+      "Psalmul 148:3",
       "Deuteronomul 4:19",
-      "Iov 25:3,5; 38:12-14"
+      "Iov 25:3",
+      "Iov 25:5",
+      "Iov 38:12-14",
+      "Psalmul 8:3"
     ],
     "commentaries": [
       {
@@ -3642,10 +3672,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 136:7-9; 8:3",
+      "Psalmul 136:7-9",
       "Deuteronomul 4:19",
       "Iosua 10:12-14",
-      "Iov 31:26; 38:7"
+      "Iov 31:26",
+      "Iov 38:7",
+      "Psalmul 8:3"
     ],
     "commentaries": [
       {
@@ -3808,9 +3840,11 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 8:3; 136:7; 8:1,3",
+      "Psalmul 8:3",
+      "Psalmul 136:7",
       "Geneza 9:13",
       "Iov 38:12",
+      "Psalmul 8:1",
       "Faptele Apostolilor 13:47"
     ],
     "commentaries": [
@@ -4011,7 +4045,8 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 74:16; 19:6",
+      "Psalmul 74:16",
+      "Psalmul 19:6",
       "Ieremia 31:35"
     ],
     "commentaries": [
@@ -4375,8 +4410,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 104:25-26; 104:24,25",
-      "Geneza 1:21; 1:22; 2:19; 8:17"
+      "Psalmul 104:25-26",
+      "Geneza 1:21",
+      "Geneza 1:22",
+      "Geneza 2:19",
+      "Geneza 8:17",
+      "Psalmul 104:24"
     ],
     "commentaries": [
       {
@@ -4699,9 +4738,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 104:25-26; 148:7",
+      "Psalmul 104:25-26",
+      "Psalmul 148:7",
       "Iov 41:1",
-      "Geneza 6:20; 7:14; 8:19"
+      "Geneza 6:20",
+      "Geneza 7:14",
+      "Geneza 8:19"
     ],
     "commentaries": [
       {
@@ -4956,8 +4998,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 1:28; 8:17; 9:1; 30:27,30; 35:11",
-      "Leviticul 26:9"
+      "Geneza 1:28",
+      "Geneza 8:17",
+      "Geneza 9:1",
+      "Geneza 30:27",
+      "Geneza 30:30",
+      "Geneza 35:11"
     ],
     "commentaries": [
       {
@@ -5368,8 +5414,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Psalmul 104:24",
-      "Geneza 6:20; 7:14; 8:19",
-      "Iov 38:39,40; 39:1,5,9,19"
+      "Geneza 6:20",
+      "Geneza 7:14",
+      "Geneza 8:19",
+      "Iov 38:39",
+      "Iov 38:40"
     ],
     "commentaries": [
       {
@@ -5662,9 +5711,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 104:24; 148:10",
-      "Geneza 2:19,20",
-      "Iov 12:8-10; 26:13"
+      "Psalmul 104:24",
+      "Psalmul 148:10",
+      "Geneza 2:19",
+      "Geneza 2:20",
+      "Iov 12:8-10",
+      "Iov 26:13"
     ],
     "commentaries": [
       {
@@ -5974,9 +6026,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 8:5-6; 100:3; 149:2",
-      "Geneza 3:22; 11:7",
-      "Iov 35:10"
+      "Psalmul 8:5-6",
+      "Geneza 3:22",
+      "Geneza 11:7",
+      "Iov 35:10",
+      "Psalmul 100:3",
+      "Psalmul 149:2"
     ],
     "commentaries": [
       {
@@ -6205,7 +6260,8 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Geneza 5:1-2; 9:6",
+      "Geneza 5:1-2",
+      "Geneza 9:6",
       "Galateni 3:28",
       "Psalmul 139:14",
       "Isaia 43:7",
@@ -6546,7 +6602,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Psalmul 8:6-8",
-      "Geneza 5:2; 1:22; 8:17; 9:1,7; 17:16,20"
+      "Geneza 5:2",
+      "Geneza 1:22",
+      "Geneza 8:17",
+      "Geneza 9:1",
+      "Geneza 9:7"
     ],
     "commentaries": [
       {
@@ -6834,10 +6894,12 @@ window.CHAPTER_DATA = [
       }
     ],
     "refs": [
-      "Psalmul 104:14-15; 24:1; 115:16",
+      "Psalmul 104:14-15",
       "1 Timotei 4:3-4",
+      "Psalmul 24:1",
+      "Psalmul 115:16",
       "Osea 2:8",
-      "Faptele Apostolilor 17:24,25,28"
+      "Faptele Apostolilor 17:24"
     ],
     "commentaries": [
       {
@@ -7071,8 +7133,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Geneza 9:3",
-      "Iov 38:39-41; 39:4,8,30; 40:15,20",
-      "Psalmul 104:14; 145:15,16"
+      "Iov 38:39-41",
+      "Iov 39:4",
+      "Iov 39:8",
+      "Iov 39:30",
+      "Iov 40:15"
     ],
     "commentaries": [
       {
@@ -7326,9 +7391,11 @@ window.CHAPTER_DATA = [
     ],
     "refs": [
       "Eclesiastul 3:11",
-      "Psalmul 104:31; 19:1,2; 104:24,31",
+      "Psalmul 104:31",
       "Geneza 1:4",
-      "Iov 38:7"
+      "Iov 38:7",
+      "Psalmul 19:1",
+      "Psalmul 19:2"
     ],
     "commentaries": [
       {
