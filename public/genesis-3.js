@@ -310,23 +310,19 @@ window.CHAPTER_DATA = [
         "text": "Șarpele ca simbol are o prezență puternică și ambivalentă în toată zona Orientului Apropiat Antic: în Mesopotamia, zeul-șarpe Ningișzida era asociat atât cu vindecarea, cât și cu lumea de dincolo; în Egipt, șarpele Apophis întruchipa haosul care amenință ordinea zilnică a lui Ra. Tora nu-i dă șarpelui din Geneza 3 statut divin sau demonic explicit — e doar „cea mai dibace dintre vietățile câmpului” — o „demitologizare” deliberată, tipică felului în care Geneza tratează simbolurile religioase ale vecinilor."
       },
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Descrierea șarpelui ca „mai șiret decât toate fiarele câmpului” deschide episodul ispitirii; sursele clasice verificate direct în arhivă (Rashi, Ibn Ezra, Ramban, Sforno) nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Efrem Sirul, Imnuri despre Paradis 3.4-5 (verificat direct din text)",
+        "author": "Efrem Sirul, Imnuri despre Paradis 3.4-5",
         "text": "Șarpele nu putea să intre în Paradis, căci nici animal, nici pasăre nu avea voie să se apropie de ținutul dinafară al Paradisului, și Adam trebuia să iasă să le întâmpine; astfel șarpele, cu vicleșug, a aflat, întrebând-o pe Eva, firea Paradisului, ce era și cum era rânduit. Când cel blestemat a aflat cum slava acelui cort dinăuntru, ca într-un sanctuar, le era ascunsă, și că Pomul Cunoașterii, îmbrăcat cu o oprelişte, slujea drept văl pentru sanctuar, a înțeles că rodul lui era cheia dreptății care avea să deschidă ochii celor îndrăzneți și să le aducă mare mustrare de cuget."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Capitolul 3, Versetul 1) Șarpele era mai viclean decât orice altă fiară sălbatică de pe pământ. În ebraică, cuvântul pentru „viclean” e „Arum”, pe care Aquila și Theodotion îl traduc πανοῦργος — care înseamnă „rău și înșelător”. Din acest cuvânt se arată, deci, mai degrabă vicleșug și șiretenie decât înțelepciune."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.14.20 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.14.20",
         "text": "Șarpele înseamnă diavolul, care sigur nu era simplu. Iscusința lui e arătată prin faptul că se spune că e mai înțelept decât toate fiarele. Nu se spune că șarpele era în Paradis, deși șarpele era printre fiarele pe care le făcuse Dumnezeu. Căci Paradisul înseamnă viața fericită, de care șarpele era departe, fiindcă era deja diavolul. Căzuse din fericirea lui fiindcă nu rămăsese în adevăr. Și nu trebuie să ne tulburăm cum a putut șarpele să vorbească femeii, când ea era în Paradis, iar el nu — căci șarpele a intrat în Paradis duhovnicește, nu trupește."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis 12.54-55 (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis 12.54-55",
         "text": "Când se spune «șarpele era mai viclean», înțelegeți la cine se face referire. Acesta e Potrivnicul nostru, a cărui înțelepciune e a acestei lumi. Desfătarea plăcerii a fost numită, pe drept, «înțelepciune», fiindcă se numește «înțelepciunea trupului»... Pricina pizmei a fost fericirea omului așezat în Paradis, fiindcă diavolul nu putea îndura darurile primite de om. Pizma i s-a aprins fiindcă omul, deși plăsmuit din lut, fusese ales locuitor al Paradisului."
       }
     ],
@@ -498,19 +494,15 @@ window.CHAPTER_DATA = [
     "fidela": "Şi femeia a spus şarpelui: Putem să mâncăm din rodul pomilor grădinii,",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Răspunsul Evei către șarpe reia aproape identic interdicția divină din Geneza 2:16-17; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.32 (verificat direct din text)",
+        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.32",
         "text": "A vorbit șarpele cu glas omenesc? Se poate ca, la începutul lumii, nici celelalte animale, în afară de om, să nu fi fost cu totul lipsite de puterea vorbirii articulate, ci doar omul să fi întrecut prin mai multă înlesnire și limpezime a vorbirii. Apoi, când trebuie săvârșit ceva cu adevărat minunat, Dumnezeu schimbă firile prin care voiește să lucreze."
       },
       {
-        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.33 (verificat direct din text)",
+        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.33",
         "text": "De ce s-a apropiat șarpele de femeie, și nu de bărbat? Șarpele, chibzuindu-și planul, a urzit împotriva lor o cursă vicleană, ca să le aducă moartea. Dar femeia era mai obișnuită să fie amăgită decât bărbatul; căci și sfaturile, și trupul lui sunt de fel bărbătesc, în stare să descâlcească gândurile amăgirii; dar mintea femeii e mai moale, încât, prin slăbiciunea ei, se lasă lesne și e lesne prinsă de vorbele mincinoase care imită asemănarea adevărului."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis 12.56-60 (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis 12.56-60",
         "text": "Deși știi că șarpele e mai viclean decât toate făpturile, iscusința lui se vede mai ales aici. Întinzându-și cursele, se preface că rostește chiar cuvintele lui Dumnezeu, căci Dumnezeu zisese deja: «Din orice pom al grădinii poți să mănânci, dar din pomul cunoașterii binelui și răului să nu mănânci.» Șarpele a strecurat o minciună întrebând-o pe femeie astfel: «A zis oare Dumnezeu să nu mâncați din niciun pom?» — când Dumnezeu spusese de fapt: «Din orice pom al grădinii poți să mănânci, dar dintr-un singur pom să nu mănânci.» Nu era nimic neclar în poruncă. Greșeala a fost în felul cum a fost istorisită."
       }
     ]
@@ -682,11 +674,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Eva adaugă interdicția „nici să nu vă atingeți de el” — un detaliu absent din porunca originală dată lui Adam (Geneza 2:17) — observație larg discutată în tradiție ca posibilă exagerare a Evei, dar sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.35 (verificat direct din text)",
+        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.35",
         "text": "De ce, deși li se poruncise să evite să mănânce doar dintr-o singură plantă, femeia a adăugat ceva la această poruncă, zicând: «A zis să nu mâncăm din el, nici să ne atingem de el»? Întâi, spune aceasta fiindcă gustul și orice alt simț, în felul lui, constă în atingerea potrivită lui. Apoi, o spune ca și cum s-ar condamna singură, ea care a făcut ce fusese oprit: căci dacă chiar simpla atingere era interzisă, cum ar putea cei ce, pe lângă a se atinge de pom, au îndrăznit să mănânce din rod, să nu fie ei înșiși propriii lor condamnatori?"
       }
     ],
@@ -836,19 +824,15 @@ window.CHAPTER_DATA = [
     "fidela": "Şi şarpele a spus femeii: Nu veţi muri nicidecum;",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Răspunsul direct al șarpelui („nicidecum nu veți muri”) contrazice frontal cuvântul divin; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Dar șarpele a zis femeii: «Nicidecum nu veți muri. Căci Dumnezeu știe că, în orice zi veți mânca din el, vi se vor deschide ochii, și veți fi ca dumnezeii, cunoscând binele și răul.» Ce se înțelege aici, dacă nu că a fost înduplecată să nu mai vrea să fie sub Dumnezeu, ci mai degrabă sub propria ei putere, fără Dumnezeu, ca și cum El i-ar fi pizmuit, ca ei înșiși să se cârmuiască, neavând nevoie de lumina Lui cea veșnică, ci bizuindu-se pe propria lor pricepere?"
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis 13.61-67 (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis 13.61-67",
         "text": "Să învățăm, deci, că ispitele diavolului sunt pline de vicleșug. Din cele pe care le-a făgăduit, aproape niciuna nu se arată adevărată. A urzit minciuni: «Și șarpele a zis femeii: nu veți muri.» Iată o minciună, căci omul, care a urmat făgăduințele șarpelui, e supus morții. De aceea a adăugat: «Căci Dumnezeu știe că, atunci când veți mânca din el, vi se vor deschide ochii.» Doar aceasta e adevărat. Dar adevărul e că, în urma acestei fapte, a urmat vătămare. Șarpele s-a grăbit să lege de spusa lui o minciună, când a zis: «Și veți fi ca dumnezeii.» De aici puteți observa că șarpele e autorul idolatriei, căci viclenia lui pare răspunzătoare de rătăcirea omului spre a aduce mulți dumnezei."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 16.11 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 16.11",
         "text": "Vedeți cum diavolul a dus-o captivă, i-a slăbit judecata și a făcut-o să-și ațintească gândurile spre țeluri mai presus de puterile ei adevărate, ca să se îngâmfe cu nădejdi deșarte și să-și piardă stăpânirea asupra bunurilor pe care le avea deja?"
       }
     ]
@@ -1012,11 +996,11 @@ window.CHAPTER_DATA = [
         "text": "La expresia „veți fi asemenea lui Dumnezeu” (כֵּאלֹהִים), notează sec, cu o singură observație: aici „Elohim” se referă la îngeri/ființe divine, nu la Dumnezeu Însuși — clarificând astfel exact ambiguitatea pe care o discută și Rashi mai pe larg."
       },
       {
-        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.36 (verificat direct din text)",
+        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.36",
         "text": "Ce înseamnă expresia «Veți fi ca dumnezeii, cunoscând binele și răul»? De unde a găsit șarpele cuvântul la plural «dumnezei», când există un singur Dumnezeu adevărat, și când aceasta e prima dată când îl numește? Poate că vine dintr-o anume înțelepciune presimțitoare din el, prin care vestea dinainte ideea mulțimii de dumnezei ce avea să stăpânească printre oameni mai târziu; și poate că istoria arată corect că acest lucru n-a fost adus la lumină întâi de o ființă rațională, ci și-a tras obârșia din cea mai veninoasă și mai josnică dintre fiare, șerpii."
       },
       {
-        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 14.13 (verificat direct din text)",
+        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 14.13",
         "text": "Concluzia e că diavolul n-ar fi început printr-un păcat deschis și vădit să-l ispitească pe om să facă ceva ce Dumnezeu oprise, dacă omul n-ar fi început deja să-și caute mulțumirea în sine însuși și, prin urmare, să-i placă vorbele «veți fi ca dumnezeii». Făgăduința acestor cuvinte, totuși, s-ar fi împlinit cu mult mai adevărat dacă, prin ascultare, Adam și Eva ar fi rămas apropiați de izvorul lor cel din urmă și adevărat, în loc să-și închipuie, prin mândrie, că ei înșiși erau izvorul propriei lor ființe. Oricine caută să fie mai mult decât e devine mai puțin."
       }
     ],
@@ -1305,23 +1289,19 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Descrierea rodului ca „bun de mâncat, plăcut ochilor și de dorit pentru înțelepciune” conturează cele trei etape ale ispitirii; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Irineu, Împotriva ereziilor 5.19.1 (verificat direct din text)",
+        "author": "Irineu, Împotriva ereziilor 5.19.1",
         "text": "Așa cum Eva a fost amăgită de cuvântul unui înger căzut să fugă de Dumnezeu, răsculându-se împotriva cuvântului Lui, tot așa Maria, prin cuvântul unui înger, a primit vestea cea bună că-L va naște pe Dumnezeu, ascultând de cuvântul Lui. Cea dintâi a fost amăgită spre neascultarea de Dumnezeu, dar cea de-a doua a fost convinsă spre ascultarea de Dumnezeu, ca Fecioara Maria să ajungă apărătoarea fecioarei Eva. Așa cum neamul omenesc a fost supus morții printr-o fecioară, tot așa a fost mântuit printr-o fecioară, și astfel neascultarea unei fecioare a fost precis echilibrată de ascultarea celeilalte."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.20.3 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.20.3",
         "text": "S-a grăbit să mănânce înaintea bărbatului ei, ca să ajungă cap peste capul ei, ca să ajungă ea cea care poruncește celui prin care ea trebuia poruncită, și ca să fie mai vârstnică în dumnezeire decât acela care era mai vârstnic decât ea în omenire."
       },
       {
-        "author": "Grigorie de Nyssa, Cuvânt de învățătură religioasă 37 (verificat direct din text)",
+        "author": "Grigorie de Nyssa, Cuvânt de învățătură religioasă 37",
         "text": "Cei ce au fost înșelați să ia otravă îi contracarează efectul dăunător cu un alt leac. Leacul, la fel ca otrava, trebuie să intre în trup, ca efectul lui vindecător să se răspândească prin tot trupul. Tot așa, gustând otrava — adică rodul — care ne-a stricat firea, aveam nevoie, în chip necesar, de ceva care s-o refacă. Un astfel de leac trebuia să intre în noi, ca, prin lucrarea lui potrivnică, să desfacă răul pe care trupul îl primise deja de la otravă. Și ce este acest leac? Nimic altceva decât trupul care s-a arătat mai tare decât moartea și a ajuns izvorul vieții noastre."
       },
       {
-        "author": "Fericitul Augustin, Împotriva lui Iulian 5.4.17 (verificat direct din text)",
+        "author": "Fericitul Augustin, Împotriva lui Iulian 5.4.17",
         "text": "În Paradis, răzvrătirea a început, negreșit, în suflet. Acolo a început procesul încuviințării călcării poruncii. De aceea a zis șarpele: «Veți fi ca dumnezeii.» Dar tot omul a săvârșit păcatul. Atunci trupul a devenit trup păcătos, ale cărui greșeli nu puteau fi vindecate decât de Cel ce a venit în asemănarea trupului păcătos."
       }
     ],
@@ -1486,19 +1466,19 @@ window.CHAPTER_DATA = [
         "text": "Explică „ochii li s-au deschis”: Scriptura vorbește despre înțelepciune (o nouă conștiință), nu despre vedere fizică propriu-zisă — finalul versetului o dovedește. La „au cunoscut că erau goi”, întreabă retoric: chiar și un orb știe când e gol! Ce înseamnă atunci „au cunoscut”? Aveau o singură poruncă în posesia lor, și au rămas goi de ea — au pierdut singura poruncă pe care o aveau."
       },
       {
-        "author": "Origen, Împotriva lui Celsus 7.39 (verificat direct din text)",
+        "author": "Origen, Împotriva lui Celsus 7.39",
         "text": "Ochii simțurilor s-au deschis atunci — ochi pe care ar fi fost bine să-i țină închiși, ca să nu fie tulburați și împiedicați de la a vedea cu ochii minții. Aceștia din urmă, ochii minții, s-au închis atunci, cred, tocmai din pricina păcatului. Până atunci se bucuraseră de desfătarea de a-L vedea pe Dumnezeu și Paradisul Lui."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 16.14 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 16.14",
         "text": "Nu mâncarea din pom le-a deschis ochii: puteau vedea și înainte de a mânca. Ci mâncarea din acest pom a fost simptomul neascultării lor și al călcării poruncii date de Dumnezeu; și, prin vina lor, s-au dezbrăcat de slava ce-i înconjura, făcându-se nevrednici de o asemenea cinste minunată."
       },
       {
-        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 14.17 (verificat direct din text)",
+        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 14.17",
         "text": "Nu ca să vadă lucrurile din afară «li s-au deschis ochii», căci puteau vedea asemenea lucruri și înainte. Ci ca să vadă deosebirea dintre binele pe care-l pierduseră și răul în care căzuseră. De aceea pomul se numește pomul cunoașterii binelui și răului. Li se interzisese să-l atingă fiindcă, dacă ar fi făcut-o, le-ar fi adus experiența acestei deosebiri."
       },
       {
-        "author": "Irineu, Împotriva ereziilor 3.23.5 (verificat direct din text)",
+        "author": "Irineu, Împotriva ereziilor 3.23.5",
         "text": "«Frica de Domnul e începutul înțelepciunii.» Înțelegerea greșelii duce la pocăință, iar Dumnezeu Își întinde bunătatea către cei ce se pocăiesc. Căci Adam și-a arătat pocăința făcându-și un brâu, acoperindu-se cu frunze de smochin, când erau mulți alți pomi care i-ar fi iritat mai puțin trupul. El, totuși, cu teamă față de Dumnezeu, și-a făcut o îmbrăcăminte potrivită cu neascultarea lui — și fără îndoială ar fi păstrat-o pentru totdeauna, dacă Dumnezeu, în mila Lui, nu i-ar fi îmbrăcat cu haine de piele în locul frunzelor de smochin."
       }
     ],
@@ -1722,19 +1702,19 @@ window.CHAPTER_DATA = [
         "text": "La „au auzit [glasul]”, Rashi face o observație metodologică importantă, valabilă pentru tot comentariul său: există multe midrașuri agadice deja adunate în Bereșit Rabba și în alte colecții — el însuși „a venit doar ca să ajungă la sensul simplu al textului (peșat) și să aducă, uneori, acele texte agadice care lămuresc cuvintele Torei, fiecare cuvânt la locul lui”."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis 14.68-70 (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis 14.68-70",
         "text": "Ce înseamnă «a umbla» cu privire la Dumnezeu, Care e pretutindeni? După părerea mea, Dumnezeu poate fi spus că „umblă” oriunde Scriptura arată prezența Lui. Când păcătosul citește aceste locuri din Scriptură, aude glasul lui Dumnezeu umblând spre înserat, ca să spunem așa. Ce înseamnă «spre înserat»? Nu înseamnă oare că păcătosul își dă seama de păcatul lui prea târziu, și că rușinea care ar fi trebuit să prevină greșeala înainte de a se întâmpla a venit ea însăși prea târziu?"
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.24 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.24",
         "text": "Nu doar prin răbdarea arătată a voit Dumnezeu să-i ajute; a voit să-i și binefacă prin sunetul pașilor Săi. Dumnezeu a dat pașilor Săi tăcuți un sunet, ca Adam și Eva să fie pregătiți, la acel sunet, să se roage înaintea Celui ce făcea sunetul."
       },
       {
-        "author": "Ieronim, Omilia 1 (la Psalmul 1) (verificat direct din text)",
+        "author": "Ieronim, Omilia 1 (la Psalmul 1)",
         "text": "Citim în Geneza că, atunci când Adam a călcat porunca, când a luat aminte la șarpe mai degrabă decât la Dumnezeu, când s-a ascuns de fața lui Dumnezeu, atunci Dumnezeu a venit în grădină și umbla în răcoarea zilei. Ascultați acum ce spune Scriptura. Dumnezeu l-a căutat pe Adam nu la amiază, ci seara. Adam pierduse deja lumina soarelui, căci amiaza lui trecuse."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere",
         "text": "Ce spuneți — Dumnezeu se plimbă? Îi atribuim picioare? N-avem o idee înaltă despre El? Nu, Dumnezeu nu se plimbă — departe fie gândul acesta! Cum ar putea, de vreme ce e prezent pretutindeni și umple totul cu prezența Lui? El, Căruia cerul Îi e tron și pământul așternut al picioarelor, ar putea fi mărginit la o grădină? Care e, deci, înțelesul acestei spuse? A voit să le dea o astfel de trăire care să le aducă o stare de neliniște — și așa s-a și întâmplat: au avut o trăire atât de puternică, încât au încercat să se ascundă de fața lui Dumnezeu."
       }
     ],
@@ -1857,19 +1837,15 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Întrebarea divină „unde ești?” — adresată Celui ce știe totul — e larg citită tradițional ca invitație la recunoaștere, nu ca informare; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Efrem Sirul, Comentariu la Facere 2.25 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.25",
         "text": "«Unde ești, Adame?» Ești prins în asemănarea cu Dumnezeu pe care ți-a făgăduit-o mincinos șarpele? Sau ești pregătit pentru moartea pe care Eu, Domnul, am hotărât-o pentru tine? De ai fi cugetat la roade! Presupune, Adame, că în locul unui șarpe — poate cea mai disprețuită dintre toate făpturile — ar fi venit la tine un înger sau un dumnezeu. Ai fi disprețuit oare porunca Celui ce ți-a dat toate acestea, luând aminte în schimb la sfatul unuia care încă nu-ți făcuse niciun bine?"
       },
       {
-        "author": "Tertulian, Împotriva lui Marcion, cartea a II-a (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Marcion, cartea a II-a",
         "text": "Dumnezeu îl cheamă pe Adam: «Unde ești?» — ca și cum n-ar ști unde e; iar când acesta a spus că rușinea goliciunii lui a fost pricina ascunderii, L-a întrebat dacă a mâncat din pom, ca și cum ar fi fost în îndoială. Nicidecum; Dumnezeu nu era nici nesigur despre săvârșirea păcatului, nici neștiutor de locul unde era Adam. Se cuvenea, negreșit, să-l cheme pe vinovatul care se ascundea din pricina conștiinței păcatului lui, și să-l aducă înaintea Domnului său, nu doar strigându-i numele, ci lovind direct în păcatul pe care tocmai îl săvârșise."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis 14.70 (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis 14.70",
         "text": "Ce înseamnă, deci, «Adame, unde ești?» Nu înseamnă oare «în ce stare» ești, nu «în ce loc»? Nu e, deci, o întrebare, ci o mustrare. Din ce stare de bunătate, de fericire și de har, vrea să spună, ai căzut în această stare de nenorocire? Ai părăsit viața veșnică. Te-ai îngropat singur în căile păcatului și ale morții."
       }
     ],
@@ -2070,19 +2046,15 @@ window.CHAPTER_DATA = [
     "fidela": "Iar el a spus: Am auzit vocea ta în grădină şi m-am temut, pentru că eram gol; şi m-am ascuns.",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Răspunsul lui Adam („m-am temut... și m-am ascuns”) marchează prima apariție a fricii și a rușinii ca urmare a neascultării; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Efrem Sirul, Comentariu la Facere 2.27.1-2 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.27.1-2",
         "text": "În loc să mărturisească ce făcuse, ceea ce l-ar fi ajutat, a istorisit ce i se făcuse lui, ceea ce nu l-a ajutat deloc. Adam, din nou, n-a mărturisit greșeala lui și a dat vina pe femeie."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.16.24 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.16.24",
         "text": "Când Adam a auzit glasul lui Dumnezeu, a răspuns că s-a ascuns fiindcă era gol. Răspunsul lui era o rătăcire jalnică, ca și cum un om gol, așa cum îl făcuse Dumnezeu, I-ar fi putut displăcea Lui. E semnul deosebitor al rătăcirii ca oricine găsește ceva neplăcut pentru sine să-și închipuie că e neplăcut și lui Dumnezeu. Înainte era gol de orice prefăcătorie și îmbrăcat cu lumina cea dumnezeiască. De la această lumină s-a întors și s-a întors spre sine însuși."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 17.22 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 17.22",
         "text": "Vedeți, fiindcă nu ignora adevărul când i-a întrebat, ci îl știa, și-l știa foarte bine, arată îngăduință față de neputințele lor, ca să-Și dovedească propria iubire de oameni, și îi cheamă să-și mărturisească greșelile."
       }
     ]
@@ -2236,15 +2208,11 @@ window.CHAPTER_DATA = [
     "fidela": "Iar el a spus: Cine ţi-a spus că erai gol? Ai mâncat din pomul din care ţi-am poruncit să nu mănânci?",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Întrebarea „cine ți-a spus că ești gol?” arată că Dumnezeu cunoaște deja fapta; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Astfel, Domnul, voind acum să-i pedepsească pe păcătoși, a întrebat, după rânduiala dreptății, mai degrabă decât acea pedeapsă de care erau deja siliți să se rușineze: «Cine ți-a spus că ești gol, dacă nu ai mâncat din pomul din care ți-am poruncit să nu mănânci?»"
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere",
         "text": "«De unde ai putea avea cunoașterea aceasta», zice, «și să fii acoperit de o asemenea rușine, dacă n-ai fost atât de necumpătat încât să disprețuiești porunca Mea?» Priviți, preaiubiților, prisosul bunătății lui Dumnezeu, cum, în felul unui prieten care vorbește cu altul și-l mustră pentru călcarea povețelor sale, intră în dialog cu Adam."
       }
     ]
@@ -2387,15 +2355,15 @@ window.CHAPTER_DATA = [
         "text": "Explică motivul exact al răspunsului lui Adam („femeia pe care mi-ai dat-o”): Adam nu doar aruncă vina, ci se justifică — a presupus că orice i-ar spune Eva ar fi spre binele lui, de-aceea a ascultat-o fără să reflecteze. Tocmai de-aceea, în pedeapsă, Dumnezeu răspunde precis: „pentru că ai ascultat de glasul soției tale” — nu ar fi trebuit s-o urmeze orbește, împotriva poruncii primite direct. Ramban notează că înțelepții numesc această atitudine a lui Adam „ingratitudine”."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și Adam a zis: «Femeia pe care mi-ai dat-o să fie cu mine, ea mi-a dat din pom, și am mâncat.» A fost oare mândrie că n-a zis: «Am păcătuit»? Are diformitatea confuziei, dar nu are smerenia mărturisirii. Acestea au fost scrise pentru ca să observăm cum oamenii se ostenesc și astăzi cu mândria, încercând să nu atribuie nimic din răul făcut de ei decât Ziditorului, în vreme ce vor ca orice bine făcut să le fie atribuit lor înșiși."
       },
       {
-        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 14.11 (verificat direct din text)",
+        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 14.11",
         "text": "Neavând încă experiența asprimii dumnezeiești, Adam putea fi amăgit să creadă că greșeala lui era doar ușoară. Și de aceea nu a fost amăgit în același fel ca Eva. S-a înșelat doar cu privire la judecata ce avea să urmeze încercării lui de a se scuza: «Femeia pe care mi-ai pus-o alături mi-a dat rod din pom, și am mâncat.»"
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.17.25 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.17.25",
         "text": "Apoi, cum se întâmplă adesea în cazurile de mândrie, nu se acuză pe sine că a încuviințat femeii, ci împinge vina asupra femeii. Astfel, ca dintr-o iscusință pe care sărmanul o închipuise, a încercat cu viclenie să-I atribuie chiar lui Dumnezeu păcatul său. Căci n-a zis doar «femeia mi-a dat», ci a adăugat «femeia pe care Tu mi-ai dat-o». Nimic nu e mai caracteristic păcătoșilor decât dorința de a-I atribui lui Dumnezeu tot ce li se impută."
       }
     ],
@@ -2566,15 +2534,11 @@ window.CHAPTER_DATA = [
     "fidela": "Şi DOMNUL Dumnezeu a spus femeii: Ce este aceasta ce ai făcut? Şi femeia a spus: Şarpele m-a înşelat şi eu am mâncat.",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Eva, la rândul ei, mută vina pe șarpe („șarpele m-a amăgit”) — al doilea pas al lanțului de justificări (după Adam la v.12); sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Ambrozie al Milanului, Despre Paradis 14.71-15.73 (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis 14.71-15.73",
         "text": "Greșeala aceea e vrednică de iertare care e urmată de recunoașterea vinei. Femeia, deci, nu trebuie disprețuită, ea care n-a tăcut înaintea lui Dumnezeu, ci a preferat să-și mărturisească păcatul — femeia asupra căreia a fost rostită o sentință mântuitoare. E bine să suferi osândă pentru păcatele tale și să fii biciuit pentru greșelile tale, cu condiția să fii biciuit împreună cu ceilalți oameni."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.28-29 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.28-29",
         "text": "Fiindcă Adam n-a voit să-și mărturisească greșeala, Dumnezeu S-a coborât la Eva cu o întrebare, zicându-i: «Ce ai făcut?» Eva, la rândul ei, în loc să se roage cu lacrimi și să-și asume vina, ca mila să vină asupra ei și a bărbatului ei, a răspuns nu zicând «Șarpele m-a sfătuit» sau «m-a ademenit», ci simplu: «Șarpele m-a înșelat, și am mâncat.»"
       }
     ]
@@ -2781,27 +2745,23 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Josephus descrie explicit blestemul șarpelui ca pe o schimbare fizică reală: „Dumnezeu l-a lipsit pe șarpe de vorbire, din indignare pentru dispoziția lui răuvoitoare față de Adam. În plus, i-a pus venin sub limbă și l-a făcut dușman al oamenilor... Și după ce l-a lipsit de folosința picioarelor, l-a făcut să meargă rostogolindu-se și târându-se pe pământ.” Confirmă, dintr-o sursă evreiască independentă din secolul I, o tradiție larg răspândită — că șarpele avea inițial picioare și capacitatea de a vorbi, pierdute ca parte a blestemului (tradiție care apare și la alți comentatori clasici, deși nu într-o formă verificabilă direct în arhiva de față la acest verset)."
       },
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Blestemul dat șarpelui („pe pântece te vei târî, țărână vei mânca”) explică, în cheie etiologică, forma actuală a șarpelui; sursele clasice verificate direct în arhivă (Rashi, Ibn Ezra, Ramban, Sforno) nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Efrem Sirul, Comentariu la Facere 2.29.2 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.29.2",
         "text": "«Blestemat ești mai mult decât toate fiarele», fiindcă i-ai înșelat pe cei ce stăpânesc peste toate fiarele. În loc să fii mai iscusit decât toate fiarele, vei fi mai blestemat decât toate fiarele, și «pe pântecele tău vei umbla», fiindcă ai adus durerile nașterii asupra neamului femeiesc. Și «țărână vei mânca în toate zilele vieții tale», fiindcă i-ai lipsit pe Adam și pe Eva de mâncarea din pomul vieții."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis 15.73-74 (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis 15.73-74",
         "text": "Șarpele e un chip al plăcerilor trupului. Femeia închipuie simțurile noastre, iar bărbatul, mintea noastră. Plăcerea stârnește simțurile, care, la rândul lor, își au efectul asupra minții. Plăcerea, deci, e izvorul cel dintâi al păcatului. De aceea, nu vă mirați că, după judecata lui Dumnezeu, șarpele a fost osândit întâi, apoi femeia, și în cele din urmă bărbatul. Ordinea osândei a corespuns și ea ordinii greșelilor săvârșite."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 14.) Vei călca pe pieptul și pe pântecele tău. Traducătorii Septuagintei au adăugat „pântecele”, dar în ebraică e doar „pieptul”, ca să arate viclenia și gândurile șirete, că toți pașii lui sunt răutate și înșelăciune. Iar despre ce urmează: «Vei mânca țărână» — în ebraică e scris «afar», pe care-l putem numi cenușă și pulbere."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.17.26 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.17.26",
         "text": "Șarpele nu mai e întrebat acum, ci primește pedeapsa cel dintâi, fiindcă nu-și poate mărturisi păcatul. Cel ce nu-și poate mărturisi păcatul n-are niciun temei să se scuze. De aceea chiar și dobitoacele sunt puse înaintea lui — nu în putere, ci în păstrarea firii lor."
       }
     ],
@@ -3030,23 +2990,19 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Versetul „dușmănia dintre tine și femeie” e citit tradițional (mai ales în interpretări ulterioare, nu neapărat evreiești) ca prima promisiune mesianică (Protoevanghelium); sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Irineu, Împotriva ereziilor 5.21.1 (verificat direct din text)",
+        "author": "Irineu, Împotriva ereziilor 5.21.1",
         "text": "Hristos a înnoit desăvârșit toate lucrurile, luând asupra Sa lupta împotriva vrăjmașului nostru și zdrobindu-l pe cel ce, la început, ne dusese robi în Adam, călcându-i capul în picioare, precum se găsește în Geneza că Dumnezeu a zis șarpelui: «Voi pune vrăjmășie între tine și femeie, și între sămânța ta și sămânța femeii. El va pândi capul tău, iar tu îi vei pândi călcâiul.» De atunci s-a vestit că Cel ce avea să Se nască dintr-o fecioară, după asemănarea lui Adam, va pândi capul șarpelui."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Ea îți va zdrobi capul, iar tu îi vei pândi călcâiul. Femeia zdrobește capul șarpelui atunci când sfânta Biserică descoperă și risipește vicleșugurile și sugestiile otrăvitoare ale diavolului chiar de la început și, ca și cum l-ar călca în picioare, îl reduce la nimic. Ea zdrobește capul șarpelui când se împotrivește mândriei prin care Eva a fost amăgită, umilindu-se adesea sub mâna cea puternică a lui Dumnezeu, căci începutul oricărui păcat e mândria."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.18.28 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.18.28",
         "text": "Vrăjmășiile nu sunt puse între șarpe și bărbat, ci între șarpe și femeie. Nu cumva fiindcă nu reușește să-i înșele și pe bărbați? Dimpotrivă, e limpede că-i înșeală și pe ei. Sau fiindcă nu l-a înșelat pe Adam, ci pe femeia lui? Dar oare șarpele nu e atunci vrăjmașul bărbatului la care acea înșelăciune a ajuns prin femeia lui?"
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 15) El îți va păzi capul, iar tu îi vei păzi călcâiul. Mai bine e în ebraică: El îți va zdrobi capul, iar tu îi vei zdrobi călcâiul; căci pașii noștri sunt împiedicați de șarpe, iar Domnul îl va zdrobi curând pe Satana sub picioarele noastre."
       }
     ],
@@ -3246,23 +3202,19 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Pedeapsa dată femeii — durerile nașterii și relația cu soțul — a generat comentarii ample în tradiția ulterioară, dar sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Ioan Gură de Aur, Omilii la Facere 17.30-31, 36 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 17.30-31, 36",
         "text": "Priviți bunătatea Domnului, cât de multă blândețe folosește în ciuda unei căderi atât de îngrozitoare. «Voi înmulți mult durerea nașterii tale.» Voința Mea, zice El, era ca tu să ai o viață fără necaz și fără durere, lipsită de orice suferință, plină de toată plăcerea. Dar fiindcă ai folosit rău o asemenea îngăduință, îți impun acest frâu, ca să nu mai continui să te dezlănțui, și te osândesc la o naștere plină de dureri. La început te-am creat egală în cinste cu bărbatul tău, iar voința Mea era ca în toate să împarți cu el ca o egală."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.19.29 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.19.29",
         "text": "Nu există nicio îndoială despre pedeapsa femeii. Căci ea are, în chip vădit, durerile și suspinele înmulțite în necazurile vieții acesteia. Deși faptul că-și naște copiii cu durere se împlinește în femeia văzută, gândul nostru trebuie totuși readus la acea femeie mai ascunsă. Căci și la animale, femelele nasc pui cu durere, iar aceasta e, în cazul lor, mai degrabă condiția muritoare decât pedeapsa păcatului."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 16) Voi înmulți durerile și gemetele tale. Pentru «durere» și «geamăt», în ebraică stă «dureri și zămislire». Iar pentru «întoarcerea ta» — cu privire la traducerea lui Aquila, Symmachus a redat «dorința» sau «impulsul»."
       },
       {
-        "author": "Tertulian, Împotriva lui Marcion, cartea a II-a (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Marcion, cartea a II-a",
         "text": "Până la căderea omului, deci, de la început, Dumnezeu era pur și simplu bun; după aceea a devenit un judecător aspru și, cum vor marcioniții, crud. Femeia e osândită deodată să nască în durere și să-i slujească bărbatului ei, deși mai înainte auzise fără durere înmulțirea neamului ei vestită împreună cu binecuvântarea: «Creșteți și vă înmulțiți», și fusese menită să fie un ajutor, nu o roabă, pentru tovarășul ei bărbat."
       }
     ],
@@ -3474,23 +3426,19 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Pedeapsa dată pământului („blestemat va fi pământul din pricina ta”) leagă direct fapta lui Adam de starea agriculturii; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Ambrozie al Milanului, Despre Paradis 15.75 (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis 15.75",
         "text": "Cele două sentințe par să aibă o oarecare asemănare, dar în acea asemănare e o mare deosebire. E o deosebire în felul cum cineva mănâncă din pământ, cum se spune despre șarpe, și felul în care se spune despre om: «Cu întristare vei mânca.» Chiar cuvântul «cu întristare» face deosebirea exactă. E spre folosul meu să mănânc pământul cu întristare, nu cu plăcere — adică să simt o oarecare tristețe în faptele și simțurile trupului meu, nu plăcere în păcat."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 17.18 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 17.18",
         "text": "La urma urmei, tu ești capul soției tale, și ea a fost creată pentru tine; dar tu ai răsturnat rânduiala cuvenită — nu doar că n-ai ținut-o pe calea cea dreaptă, ci ai fost tras și tu în jos împreună cu ea, și, în loc ca restul trupului să urmeze capul, s-a întâmplat contrariul: capul a urmat restul trupului, răsturnând totul."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 17.) Blestemat e pământul din pricina faptelor tale. «Faptele» de aici nu se referă la lucrarea pământului, cum cred mulți, ci arată păcatele. Așa e scris în ebraică; și nici Aquila nu se împotrivește, zicând: «Blestemat e solul din pricina ta.» Iar Theodotion: «Blestemat e pământul din pricina călcării tale de poruncă.»"
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.20.30 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.20.30",
         "text": "Ce vom spune despre judecata rostită împotriva bărbatului? Să credem oare că bogații, cărora lucrurile necesare vieții le vin ușor și care nu muncesc pământul, au scăpat de această pedeapsă? E limpede că nimeni nu scapă de această sentință. Căci oricine se naște în viața aceasta are greutate în a afla adevărul din pricina trupului stricăcios."
       }
     ],
@@ -3674,15 +3622,11 @@ window.CHAPTER_DATA = [
     "fidela": "Spini şi ciulini îţi va aduce şi vei mânca verdeaţa câmpului;",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Spinii și pălămida ca simbol al muncii agricole îngreunate sunt un motiv reluat și în alte texte biblice; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Tertulian, Despre cunună 14.3 (verificat direct din text)",
+        "author": "Tertulian, Despre cunună 14.3",
         "text": "La ce fel de cunună, vă întreb, S-a supus Iisus Hristos pentru mântuirea amândurora sexelor? El, Care e capul bărbatului, slava femeii și mirele Bisericii — ce fel de cunună? A fost făcută din spini și ciulini. Ei stăteau ca simbol al păcatelor pe care solul trupului le-a adus pentru noi, dar pe care puterea crucii le-a înlăturat, tocind orice bold al morții, de vreme ce capul Domnului a purtat durerea ei."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 17.40-41 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 17.40-41",
         "text": "Iată amintirile blestemului: va da spini, zice, și ciulini, ca să pricinuiască multă trudă și neplăcere, și voi face să-ți petreci toată vremea în durere, ca această trăire să-ți fie o frână împotriva gândurilor prea înalte despre tine, și să iei aminte, în schimb, la firea ta și să nu mai suferi vreodată să fii amăgit în asemenea lucruri."
       }
     ]
@@ -3852,23 +3796,19 @@ window.CHAPTER_DATA = [
         "text": "Mitul akkadian al lui Adapa — un om înțelept căruia i se oferă, la un moment critic, ocazia nemuririi, dar o pierde printr-o neînțelegere despre „pâinea și apa vieții” pe care refuză să le primească — e adesea pus alături de povestea din Geneza 3 ca paralelă structurală: omul se află, într-un moment decisiv, foarte aproape de nemurire, dar o pierde. Diferența majoră: la Adapa, pierderea vine dintr-o neînțelegere/înșelăciune divină ambiguă; în Geneza, vine explicit dintr-un act de neascultare."
       },
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Formula „țărână ești și în țărână te vei întoarce” încheie pedeapsa lui Adam, legând direct originea lui (Geneza 2:7) de sfârșitul lui; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Origen, Despre principii 3.6.5 (verificat direct din text)",
+        "author": "Origen, Despre principii 3.6.5",
         "text": "Trupul nostru, într-adevăr, e socotit de cei neînvățați și de necredincioși ca pierind atât de deplin după moarte, încât nimic din substanța lui n-ar mai rămâne. Noi însă, care credem în învierea lui, știm că moartea doar îi pricinuiește o schimbare, și că substanța lui rămâne cu adevărat și e adusă iarăși la viață, la o vreme hotărâtă, prin voia Ziditorului ei. Ceea ce a fost la început trup, «din pământ, om de țărână», și apoi s-a desfăcut prin moarte și s-a făcut iarăși țărână și cenușă — căci scris este «țărână ești, și în țărână te vei întoarce» — se ridică din nou din pământ."
       },
       {
-        "author": "Teodoret de Cir, Despre Întruparea Domnului 6.1 (verificat direct din text)",
+        "author": "Teodoret de Cir, Despre Întruparea Domnului 6.1",
         "text": "Fiindcă diavolul a fost pizmaș, iar femeia ușor de amăgit, neamul omenesc a fost îndată izgonit din Paradis. A fost pus să umble pe același pământ din care Adam tocmai fusese plăsmuit, moștenind sudoare, trudă și muncă grea. Împreună cu Adam, pământul și toate viețuitoarele care au urmat au fost supuse răului. Pedepsindu-ne cu moartea, Legiuitorul a tăiat răspândirea păcatului. Și totuși, chiar prin acea pedeapsă, Și-a arătat și iubirea față de noi."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.31 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.31",
         "text": "Deși pământul, care nu greșise, a fost lovit în locul lui Adam, care greșise, totuși pe Adam, cel supus suferinței, l-a făcut să sufere prin blestemul pus pe pământ, care nu e supus suferinței; căci din pricina blestemului pământului, Adam, care nu fusese blestemat direct, a fost blestemat. Astfel n-a scăpat de pedeapsă la blestemul primit de pământ, căci Dumnezeu a hotărât și despre el astfel: «Cu dureri vei mânca din el în toate zilele vieții tale»."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis 7.35 (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis 7.35",
         "text": "Se ridică încă o problemă. «De unde a venit moartea la Adam? De la firea unui astfel de pom, sau chiar de la Dumnezeu?» Dacă atribuim aceasta firii pomului, atunci rodul acestui pom pare mai puternic decât puterea dătătoare de viață a suflării lui Dumnezeu. Dacă susținem că Dumnezeu e pricina răspunzătoare a morții, atunci Îl putem învinui de neconsecvență. Soluția, dacă nu greșesc, stă în faptul că, fiindcă neascultarea a fost pricina morții, tocmai de aceea nu Dumnezeu, ci omul însuși a fost făptuitorul propriei sale morți."
       }
     ],
@@ -4012,23 +3952,19 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Numirea femeii „Eva” (Hava, viață) — pentru că „ea a fost mama tuturor celor vii” — e discutată amplu în literatura ulterioară (Rashi comentează exact acest verset la Geneza 3:20 într-o ediție diferită de cea disponibilă în arhiva noastră, dar textul respectiv nu apare direct în fișierul verificat); sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Clement Alexandrinul, Stromata, Cartea a III-a (verificat direct din text)",
+        "author": "Clement Alexandrinul, Stromata, Cartea a III-a",
         "text": "Femeia care a început călcarea poruncii a fost numită «Viață», fiindcă ea a fost răspunzătoare de urmarea celor ce s-au născut și au păcătuit. Astfel a ajuns mama deopotrivă a celor drepți și a celor nedrepți. Fiecare dintre noi se arată pe sine drept sau se face, de bunăvoie, neascultător."
       },
       {
-        "author": "Efrem Sirul, Imnuri despre Paradis 12.16 (verificat direct din text)",
+        "author": "Efrem Sirul, Imnuri despre Paradis 12.16",
         "text": "Prin acea cunoaștere arătată pe care Dumnezeu i-a dat-o lui Adam, prin care a dat nume Evei și animalelor, Dumnezeu n-a descoperit tainele lucrurilor ascunse; dar în privința acelei cunoașteri tainice, de la stele în jos, Adam a putut urmări cercetarea a tot ce e cuprins în acest univers."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 20) Și Adam a numit-o pe soția sa Eva, fiindcă ea e mama tuturor celor vii. Deci Eva, care înseamnă «viață», se numește așa fiindcă e mama tuturor celor vii."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere",
         "text": "Priviți precizia Sfintei Scripturi, cum nu trece cu vederea nici acest amănunt, ci ne învață că Adam i-a pus nume și soției sale. «Și-a numit soția Eva, care înseamnă viață», zice textul, «fiindcă ea a fost mama tuturor celor vii» — adică ea e izvorul tuturor celor ce vor veni din ea, rădăcina și temelia neamului viitor."
       }
     ],
@@ -4153,15 +4089,15 @@ window.CHAPTER_DATA = [
         "text": "Notează, despre „hainele de piele”, că au fost făcute de Dumnezeu „fără muncă omenească” — leagă asta de o tradiție talmudică (Șabat 30b) despre vremurile viitoare, când pământul lui Israel va da, la fel, pâine gata coaptă și haine de lână gata țesute, fără trudă. Actul divin de-aici prefigurează simbolic o stare de belșug fără muncă, exact opusul blestemului „cu sudoarea feței” rostit cu un verset mai devreme."
       },
       {
-        "author": "Origen, Omilii la Levitic 6.2.7 (verificat direct din text)",
+        "author": "Origen, Omilii la Levitic 6.2.7",
         "text": "Se spune că Dumnezeu a făcut acele veșminte sărmane cu care omul cel dintâi a fost îmbrăcat după ce a păcătuit. «Căci Dumnezeu a făcut tunici de piele și i-a îmbrăcat pe Adam și pe soția lui.» Așadar, acelea erau tunici de piele luate de la animale. Cu unele ca acestea trebuia îmbrăcat păcătosul. Zice «tunici de piele», care sunt un simbol al muritorii pe care a primit-o din pricina pielii, și al slăbiciunii venite din stricăciunea trupului."
       },
       {
-        "author": "Fericitul Augustin, Despre Treime 12.11.16 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Treime 12.11.16",
         "text": "Adam și Eva, dezbrăcați de haina lor dintâi — a nevinovăției — au meritat, prin muritorimea lor, haine de piele. Căci adevărata cinste a omului e să fie chipul și asemănarea lui Dumnezeu, păstrată numai în legătură cu Cel de Care e întipărită. De aceea, se lipește de Dumnezeu cu atât mai mult, cu cât iubește mai puțin ce e al său. Dar prin dorința de a-și dovedi propria putere, omul, prin voia lui, cade în sine însuși, ca într-un fel de centru înlocuitor."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.33.1 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.33.1",
         "text": "Erau aceste veșminte din piei de animale? Sau au fost create precum ciulinii și spinii, create după ce celelalte lucrări ale creației fuseseră încheiate? Fiindcă s-a spus că «Domnul a făcut... și i-a îmbrăcat», pare cel mai probabil că, atunci când mâinile lor au fost puse peste frunzele lor, s-au trezit îmbrăcați în veșminte de piele. De ce ar fi fost ucise fiare în fața lor? Poate s-a întâmplat aceasta ca, prin carnea animalului, Adam și Eva să-și hrănească trupurile, iar cu pieile să-și acopere goliciunea, dar și ca, prin moartea animalelor, să vadă moartea propriilor lor trupuri."
       }
     ],
@@ -4393,15 +4329,11 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Fraza „iată, omul a ajuns ca unul din Noi” reia limbajul plural discutat deja la Geneza 1:26; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Efrem Sirul, Comentariu la Facere 2.34.1-2 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.34.1-2",
         "text": "A zis Dumnezeu: «Iată, Adam a ajuns ca unul dintre Noi, cunoscând binele și răul.» Deși, zicând «a ajuns ca unul dintre Noi», arată în chip simbolic Treimea, esențialul e mai degrabă că Dumnezeu îl batjocorea pe Adam, căruia i se spusese mai înainte: «Veți fi ca Dumnezeu, cunoscând binele și răul.» Căci, deși după ce au mâncat rodul, Adam și Eva au ajuns să cunoască aceste două lucruri, înainte de a mânca rodul percepuseră în realitate doar binele, iar despre rău auziseră doar din zvon. După ce au mâncat, s-a petrecut o schimbare: acum aveau să audă despre bine doar din zvon, iar în realitate aveau să guste doar răul."
       },
       {
-        "author": "Ioan Gură de Aur, Predici la Facere 7 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Predici la Facere 7",
         "text": "Priviți din nou grija plină de îngăduință a lui Dumnezeu. «Domnul Dumnezeu a zis», zice textul, «Iată, Adam a ajuns ca unul dintre Noi, cunoscând binele și răul.» Intenția aici e să ne amintească, prin aceste cuvinte, de înșelăciunea săvârșită asupra lor de diavol, prin mijlocirea șarpelui, care zisese: «Dacă veți mânca, veți fi ca dumnezeii.» De aceea Dumnezeu a voit din nou să-i facă să se rușineze, să-i aducă la simțământul păcatelor lor și să le arate gravitatea neascultării lor și prisosul înșelăciunii. Mare e mustrarea din această frază, în stare să atingă inima călcătorului de poruncă."
       }
     ],
@@ -4569,19 +4501,15 @@ window.CHAPTER_DATA = [
     "fidela": "De aceea DOMNUL Dumnezeu l-a trimis din grădina Edenului, ca să are pământul din care fusese luat.",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Alungarea din grădină „ca să lucreze pământul din care fusese luat” închide cercul deschis la Geneza 2:7 și 2:15; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Tertulian, Împotriva lui Praxeas 12 (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Praxeas 12",
         "text": "«Iată, omul a ajuns ca unul dintre Noi.» Ori ne înșeală, ori ne amuză, vorbind la plural, dacă e Unul singur și singular. Sau le-a vorbit oare îngerilor, cum tâlcuiesc evreii acest loc? Nu; ci fiindcă avea deja alături Fiul Său, ca a doua Persoană, propriul Său Cuvânt, și a treia Persoană de asemenea, Duhul în Cuvânt, de aceea a adoptat înadins fraza la plural: «Să facem», și «după chipul Nostru», și «a ajuns ca unul dintre Noi». Căci cu cine a făcut omul, și cu cine l-a asemănat? Cu Fiul, Care avea într-o zi să Se îmbrace cu firea omenească, și cu Duhul, Care avea să-l sfințească pe om."
       },
       {
-        "author": "Efrem Sirul, Imnuri despre Paradis 1.10 (verificat direct din text)",
+        "author": "Efrem Sirul, Imnuri despre Paradis 1.10",
         "text": "Dumnezeu îl trimite acum «să lucreze pământul din care fusese luat», ca cel ce fusese vătămat prin ușurința din Grădină să fie folosit prin truda pe pământ. Când Adam a păcătuit, Dumnezeu l-a izgonit din Paradis, dar, în harul Său, i-a dăruit ținutul cel jos de dincolo de el, așezându-l în valea de sub poalele Paradisului."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.22.34 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.22.34",
         "text": "«Și apoi, ca nu cumva Adam să-și întindă mâna spre pomul vieții și să trăiască în veci, Dumnezeu l-a trimis afară din Paradis.» E bine spus «l-a trimis», nu «l-a exclus», ca să pară că e tras în jos de greutatea propriilor sale păcate, spre un loc care i se potrivește. Un om rău trăiește de obicei aceasta atunci când începe să locuiască printre oameni buni, dacă nu vrea să se schimbe spre bine: e alungat din tovărășia oamenilor buni de greutatea obiceiului său rău, iar ei nu-l exclud împotriva voii lui, ci îl trimit potrivit cu propria lui voie."
       }
     ]
@@ -4756,23 +4684,19 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Heruvimii și sabia învăpăiată care păzesc drumul spre Pomul Vieții sunt prima menționare biblică a heruvimilor; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Efrem Sirul, Imnuri despre Paradis 2.1 (verificat direct din text)",
+        "author": "Efrem Sirul, Imnuri despre Paradis 2.1",
         "text": "La plecarea lui din Paradis, se spune că Dumnezeu «a pus un heruvim și o sabie ascuțită, rotitoare, să dea ocol, la răsăritul grădinii Edenului, ca să păzească drumul spre Pomul Vieții». Bariera era, deci, una vie, care singură dădea ocol, păzind drumul spre Pomul Vieții de oricine ar fi voit, cu îndrăzneală, să-i culeagă rodul. Binecuvântat e cel străpuns, care astfel a îndepărtat sabia de la intrarea în paradis."
       },
       {
-        "author": "Origen, Îndemn la mucenicie 36 (verificat direct din text)",
+        "author": "Origen, Îndemn la mucenicie 36",
         "text": "De-a lungul muceniciei, Iisus e cu tine, ca să-ți arate calea spre paradisul lui Dumnezeu și cum poți trece dincolo de heruvimi și de sabia cea de flacără, care se rotește în toate părțile și păzește drumul spre pomul vieții. Căci amândoi, chiar dacă păzesc drumul de trecere spre pomul vieții, îl păzesc astfel încât nimeni nevrednic să nu se poată întoarce pe acolo ca să treacă spre pomul vieții."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 24.) Și Adam a fost izgonit, și l-a făcut să locuiască în fața paradisului desfătării. Și a așezat heruvimi și o sabie de flacără, care se întorcea să păzească drumul spre pomul vieții. Nu că Adam însuși, pe care Dumnezeu îl izgonise, ar fi fost pus să locuiască în fața paradisului desfătării; ci că, după izgonirea lui, înaintea porților paradisului, au fost puși heruvimi și o sabie de flacără, ca să păzească intrarea, ca nimeni să nu poată intra."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.23.35 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.23.35",
         "text": "«Dumnezeu a pus heruvimi și o sabie de flacără, mișcătoare, să păzească drumul spre pomul vieții.» Cei ce traduc cuvintele ebraice din Scriptură spun că «heruvim» înseamnă în latină «plinătatea cunoașterii». Sabia de flacără, mișcătoare, înseamnă pedepsele vremelnice, fiindcă vremurile se mișcă în neîncetata lor schimbare. Se numește «de flacără» fiindcă orice necaz arde într-un fel sau altul. Dar altceva e să fii ars până ești mistuit, și altceva să fii ars până ești curățit."
       }
     ],

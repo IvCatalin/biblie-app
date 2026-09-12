@@ -145,7 +145,7 @@ window.CHAPTER_DATA = [
         "text": "Popoarele din jurul lui Israel aveau și ele povești despre începuturi. Un text egiptean din Teba vorbește despre zeul Amon care „a rânduit lucrurile la prima ocazie” — o expresie pe care egiptologii n-o citesc ca pe o idee filozofică despre timp, ci ca pe referirea la un eveniment concret, prima dată când ceva s-a întâmplat. Ceva asemănător pare să facă și textul ebraic: „început” nu descrie o veșnicie abstractă dinainte de timp, ci pur și simplu episodul concret care urmează, cele șapte zile ale capitolului.<br><br>Ce diferă radical, însă, e cum se ajunge acolo: în mitologiile vecine, lumea apare de obicei dintr-un conflict între zei; în Geneza, un singur Dumnezeu vorbește, și lumea ascultă, fără nicio luptă."
       },
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1 (verificat, domeniu public, trad. Whiston)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Istoricul evreu Josephus (sec. I d.Hr.), scriind pentru un public roman/elenistic, redă și el relatarea creației, urmând îndeaproape textul biblic: „La început Dumnezeu a creat cerul și pământul. Dar cum pământul nu se vedea, fiind acoperit de întuneric gros, iar un vânt sufla peste suprafața lui, Dumnezeu a poruncit să fie lumină.” Josephus adaugă, în prefața sa, o remarcă importantă: că Moise vorbește uneori „înțelept, dar enigmatic”, alteori „printr-o alegorie potrivită”, iar alteori „direct și clar” — o distincție timpurie între citirea literală și cea simbolică a textului Genezei."
       },
       {
@@ -157,19 +157,19 @@ window.CHAPTER_DATA = [
         "text": "Insistă, la începutul comentariului său la toată Tora, că sensul simplu (peșat) al textului nu contrazice niciodată interpretările tradiționale (derash) ale înțelepților — cele două nivele de lectură coexistă, spune el, chiar dacă unii cred greșit că se exclud."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 2.5 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 2.5",
         "text": "Priviți, iubiților, la acest scriitor neasemuit și la darul aparte pe care l-a avut: pe când toți ceilalți autori insuflați au istorisit fie ce avea să se întâmple după multă vreme, fie ce se petrecea chiar atunci, fericitul acesta, născut cu multe generații după faptele povestite, a fost călăuzit de Dumnezeul cel de sus și socotit vrednic să istorisească ce fusese creat de Stăpânul tuturor chiar de la început. De aceea a și început așa: „La început a creat Dumnezeu cerul și pământul.” Parcă ne strigă tuturor: „Oare de la oameni am învățat eu să rostesc acestea? Cel ce a adus ființa din neființă mi-a mișcat limba ca să le istorisesc.” Să primim deci cele spuse cu multă recunoștință, fără să trecem peste măsura cuvenită, nici să ne ocupăm cu lucruri mai presus de noi — aceasta e slăbiciunea obișnuită a vrăjmașilor adevărului, care vor să supună totul propriei judecăți, neînțelegând că firea omenească nu poate pătrunde adâncul creației lui Dumnezeu."
       },
       {
-        "author": "Fericitul Augustin, Despre Geneza pe litera 3.10 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Geneza pe litera 3.10",
         "text": "Scriptura a numit „cer și pământ” acea materie fără chip a lumii, pe care porunca negrăită a lui Dumnezeu avea s-o prefacă în firi cu formă și frumusețe. Acest cer și pământ, amestecate și fără rânduială, erau gata să primească de la Ziditorul lor chipurile pe care aveau să le capete."
       },
       {
-        "author": "Origen, Omilii la Facere 1.1 (verificat direct din text)",
+        "author": "Origen, Omilii la Facere 1.1",
         "text": "Ce este „începutul” a toate, dacă nu Domnul nostru și „Mântuitorul tuturor”, Iisus Hristos, „Cel întâi-născut din toată zidirea”? Deci „în acest început”, adică în Cuvântul Său, „a făcut Dumnezeu cerul și pământul”, așa cum spune și evanghelistul Ioan la începutul Evangheliei sale: „La început era Cuvântul și Cuvântul era la Dumnezeu și Dumnezeu era Cuvântul... Toate prin El s-au făcut și fără El nimic nu s-a făcut din ce s-a făcut.” Scriptura nu vorbește aici despre un început în timp, ci spune că cerurile și pământul și toate cele făcute au fost făcute „la început” — adică în Mântuitorul."
       },
       {
-        "author": "Matthew Henry, Comentariu la întreaga Biblie (verificat direct din text, condensat)",
+        "author": "Matthew Henry, Comentariu la întreaga Biblie",
         "text": "Observăm în acest verset patru lucruri. Întâi, lucrarea săvârșită: cerul și pământul, adică lumea întreagă, cu tot ce cuprinde ea. Al doilea, autorul lucrării: Dumnezeu. Cuvântul ebraic e Elohim, care arată puterea lui Dumnezeu Ziditorul — „El” înseamnă „cel tare” — dar și, cred mulți, pluralitatea Persoanelor în Dumnezeire: Tatăl, Fiul și Duhul Sfânt; acest nume plural, care vorbește despre El ca despre „mulți” deși e unul singur, ne întărește credința în Sfânta Treime, arătată doar în umbră în Vechiul Testament, dar descoperită limpede în cel Nou. Al treilea, felul în care s-a făcut lucrarea: Dumnezeu a creat, adică a făcut din nimic — n-a existat vreo materie dinainte din care să fi fost alcătuită lumea. Al patrulea, când s-a făcut: la început, adică la începutul timpului însuși; înainte de aceasta nu era nimic decât Ființa cea fără de sfârșit, Care locuiește veșnicia."
       },
       {
@@ -177,11 +177,11 @@ window.CHAPTER_DATA = [
         "text": "Formula de deschidere „la început” (ebr. bereshit) răspunde direct miturilor cosmogonice mesopotamiene contemporane, cum e Enuma Eliš babilonian, unde lumea se naște dintr-o luptă între zei și un monstru al haosului acvatic (Tiamat). Geneza 1 nu cunoaște nicio luptă: Dumnezeu creează fără opoziție, prin cuvânt — o diferență teologică majoră, nu doar literară, față de vecinii Israelului antic."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
         "text": "Antichități Iudaice 1.27: Josephus rezumă tot capitolul 1 al Genezei într-un singur paragraf continuu, fără să separe versetele: „La început a făcut Dumnezeu cerul și pământul...” Interesant, Josephus nu comentează separat v. 1-2 — trece direct la lumină, tratând starea inițială ca premisă, nu ca eveniment demn de explicație proprie."
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:1 pune crearea lumii direct în gura unui înger care-i dictează lui Moise povestirea („Scrie toată istoria zidirii...”) — un cadru narativ absent din Geneza, unde Moise (autorul tradițional) nu apare ca personaj în text."
       }
     ],
@@ -455,19 +455,19 @@ window.CHAPTER_DATA = [
         "text": "Citește תֹהוּ וָבֹהוּ prin paralelă cu Ieremia 4:23 („m-am uitat la pământ și, iată, era pustiu și gol; și la ceruri, și lumina lor nu era”) — o imagine de dezolare totală, fără locuitori, nu neapărat de haos activ."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 1 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 1",
         "text": "Era potrivit să se arate aici că Duhul plutea deasupra apelor, ca să învățăm că lucrarea creației a fost purtată în comun de Duhul, împreună cu Tatăl și cu Fiul. Tatăl a grăit. Fiul a creat. Așa se cuvenea și Duhului să-Și arate lucrarea, învederată prin plutirea Sa, ca să dovedească unitatea Sa cu celelalte Persoane. Astfel învățăm că toate au fost duse la desăvârșire și împlinite de Sfânta Treime."
       },
       {
-        "author": "Fericitul Augustin, Mărturisiri 12.15 (verificat direct din text)",
+        "author": "Fericitul Augustin, Mărturisiri 12.15",
         "text": "Pământul era nevăzut și neorânduit, și întuneric era peste adânc. Aceste cuvinte arată lipsa de formă, ca să înțelegem sensul treptat, căci nu putem gândi limpede o lipsă absolută de formă care totuși nu ajunge până la neființă. Din această materie aveau să fie făcute, mai apoi, un alt cer și un alt pământ, văzute și rânduite."
       },
       {
-        "author": "Ambrozie al Milanului, Cele șase zile ale creației (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Cele șase zile ale creației",
         "text": "Se cuvenea ca Duhul să plutească deasupra pământului, menit să rodească, fiindcă, prin ajutorul Duhului, el purta în sine semințele nașterii celei noi, care aveau să încolțească după cuvântul proorocului: «Trimite Duhul Tău și se vor zidi, și vei înnoi fața pământului»."
       },
       {
-        "author": "Ioan Calvin, Comentarii la Facere (verificat direct din text)",
+        "author": "Ioan Calvin, Comentarii la Facere",
         "text": "Nu voi stărui prea mult asupra acestor doi termeni, תהו (tohu) și בהו (bohu). Evreii îi folosesc când vor să arate ceva gol și amestecat, de nimic. Fără îndoială, Moise îi pune aici în opoziție cu tot ce ține de formă, podoabă și desăvârșirea lumii: dacă am lua acum de la pământ tot ce Dumnezeu a adăugat mai târziu, am rămâne cu acest haos necioplit și fără chip. Septuaginta redă expresia prin ἀκατασκεύαστος — „nevăzut și neîntocmit”."
       },
       {
@@ -615,7 +615,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Talmudul Babilonian, Chagigah 12a (verificat direct în arhivă)",
+        "author": "Talmudul Babilonian, Chagigah 12a",
         "text": "Discută ideea că lumina primă din ziua întâi nu era lumina soarelui (creat abia în ziua a patra), ci o lumină specială prin care Adam putea vedea „de la un capăt la altul al lumii” — lumină pe care tradiția o numește „Or HaGanuz” (lumina ascunsă), retrasă pentru cei drepți în lumea viitoare."
       },
       {
@@ -635,31 +635,31 @@ window.CHAPTER_DATA = [
         "text": "Confirmă ideea „luminii celor șapte zile” (Or HaGanuz), citând Talmudul (Șabat 30b): în viitor, spune tradiția, pământul va „scoate produse coapte și haine gata țesute” fără nevoia semințelor — o lume hrănită direct de acea lumină primordială."
       },
       {
-        "author": "Zohar, Bereșit 1a-b (verificat direct în arhivă)",
+        "author": "Zohar, Bereșit 1a-b",
         "text": "Pasajul de deschidere al Zoharului leagă cuvântul „Bereșit” de o meditație mistică despre flacără: „cine dorește să cunoască taina unității sfinte să privească la flacăra care se ridică dintr-un cărbune sau dintr-o lumânare aprinsă — căci flacăra se ridică numai atunci când e legată de un obiect grosier.” În flacăra care se înalță sunt două lumini: una albă, strălucitoare, care se ridică drept; și una neagră sau albăstruie, dedesubt, care-i servește ca „tron de slavă”. Lumina albă rămâne mereu albă; cea de dedesubt își schimbă culoarea — uneori neagră, uneori roșie. Deasupra luminii albe se odihnește o lumină ascunsă, care o înconjoară — „și în asta stă o taină supremă, toată înțelepciunea lumilor de sus aflându-se în flacăra care se ridică”."
       },
       {
-        "author": "Tertulian, Împotriva lui Praxeas 7, 12 (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Praxeas 7, 12",
         "text": "„Și a zis Dumnezeu: Să fie lumină! Și a fost lumină.” Îndată se arată Cuvântul, „lumina cea adevărată, care luminează pe tot omul ce vine în lume”, și prin El a venit lumina peste lume. Din acea clipă, Dumnezeu a voit ca zidirea să se împlinească în Cuvântul, Hristos fiind de față și slujind împreună cu El — și așa a creat Dumnezeu. Cuvântul Însuși Își ia atunci chipul și veșmântul Său de slavă, glasul și rostirea Sa, atunci când Dumnezeu zice: „Să fie lumină!” Aceasta e nașterea deplină a Cuvântului, atunci când purcede din Dumnezeu."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron (verificat direct din text, a doua citare din Geneza 1)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron",
         "text": "Cel dintâi cuvânt al lui Dumnezeu a zidit firea luminii; a făcut să piară întunericul, a risipit negura, a luminat lumea și a dat tuturor făpturilor, deodată, o înfățișare dulce și plăcută... Trebuie înțeles bine: când vorbim despre glasul, cuvântul sau porunca lui Dumnezeu, acest grai dumnezeiesc nu înseamnă pentru noi un sunet ieșit din organele vorbirii, o izbire a aerului lovit de limbă; e doar un semn simplu al voii lui Dumnezeu, iar dacă îi dăm forma unei porunci, o facem doar ca să impresionăm mai bine sufletele pe care le învățăm."
       },
       {
-        "author": "Fericitul Augustin, Despre Geneza pe litera 5.19 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Geneza pe litera 5.19",
         "text": "Trebuie să înțelegem că Dumnezeu n-a zis „Să fie lumină” printr-un sunet scos din plămâni sau prin limbă și dinți — asemenea gânduri sunt ale celor preocupați de cele trupești. „Să fie lumină” a fost rostit în chip negrăit."
       },
       {
-        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament (verificat direct din text)",
+        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
         "text": "Nimic nu poate fi mai măreț decât acest fel de a vorbi. El arată, deodată, o autoritate de netăgăduit și o putere fără margini. Acest pasaj, în traducerea grecească a Septuagintei, i-a atras atenția lui Dionisie Longinus, unul dintre cei mai pătrunzători critici greci care au trăit vreodată, cunoscut pentru tratatul său Despre sublim. Deși păgân, el scrie despre acest loc: «Tot așa și legiuitorul iudeilor — nu un om oarecare —, având o idee dreaptă despre puterea dumnezeiască, a exprimat-o într-un chip vrednic de ea; căci la începutul legilor sale scrie astfel: A zis Dumnezeu — ce anume? Să fie lumină! Și a fost lumină. Să fie pământ! Și a fost pământ.»"
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
         "text": "Antichități Iudaice 1.27: „A poruncit Dumnezeu să fie lumină. De îndată ce ea s-a ivit... a despărțit Dumnezeu lumina de întuneric.” Josephus urmează textul biblic îndeaproape aici, fără adăugiri raționalizatoare."
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:2-3 adaugă un element absent din Geneza: chiar în ziua întâi, odată cu cerul, pământul, apele și lumina, Dumnezeu creează și cetele de îngeri („îngerii prezenței, îngerii sfințirii, îngerii duhului focului, ai vânturilor, ai norilor...”), care apoi Îl laudă pentru lucrarea zilei. Nota deja prezentă în arhiva aplicației observă că literatura rabinică mai târzie a mutat crearea îngerilor în ziua a doua sau a cincea, tocmai ca să evite impresia că îngerii ar fi ajutat la creație."
       }
     ],
@@ -858,19 +858,19 @@ window.CHAPTER_DATA = [
         "text": "Citește „a văzut că era bună” prin paralelă cu mama lui Moise, care „a văzut că era frumos” (Exod 2:2) — o judecată despre potrivirea și frumusețea a ceva nou apărut, nu o simplă constatare."
       },
       {
-        "author": "Fericitul Augustin, Despre Geneza pe litera 5.22 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Geneza pe litera 5.22",
         "text": "Trebuie să înțelegem că această frază nu arată o bucurie ca la un bine neașteptat, ci o încuviințare dată lucrării. Căci ce s-ar putea spune despre Dumnezeu mai potrivit — pe cât se poate spune omenește — decât felul acesta al Scripturii: „a zis”, „s-a făcut”, „I-a plăcut”? Așa înțelegem, în „a zis”, suveranitatea Sa; în „s-a făcut”, puterea Sa; și în „I-a plăcut”, bunătatea Sa. Aceste lucruri negrăite trebuiau spuse astfel, de un om către oameni, ca să fie de folos tuturor."
       },
       {
-        "author": "Ambrozie al Milanului, Cele șase zile ale creației (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Cele șase zile ale creației",
         "text": "Dumnezeu, ca judecător al întregii lucrări, cunoscând dinainte ce avea să iasă, ca pe un lucru deja împlinit, laudă partea lucrării Sale care abia era la început, fiind deja știutor al sfârșitului ei."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron 2.8 (verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron 2.8",
         "text": "Cum am putea lăuda vrednic lumina, după mărturia pe care Însuși Ziditorul a dat-o bunătății ei? Chiar la noi, cuvântul lasă judecata pe seama ochilor, neputând să se ridice la ideea pe care simțurile au primit-o deja. Dar dacă frumusețea trupurilor stă în buna potrivire a părților și în armonia culorilor, cum s-ar putea păstra această idee de frumusețe într-o esență simplă și fără amestec, cum e lumina? Așa e și frumusețea aurului, care nu vine dintr-o fericită împreunare a părților, ci doar din culoarea lui frumoasă, care are o vrajă ce atrage privirea. Și când Dumnezeu a rostit bunătatea luminii, n-a făcut-o gândindu-Se la farmecul pentru ochi, ci ca la o pregătire pentru folosul viitor, căci pe atunci încă nu erau ochi care să judece frumusețea ei."
       },
       {
-        "author": "Matthew Henry, Comentariu la întreaga Biblie (verificat direct din text, condensat)",
+        "author": "Matthew Henry, Comentariu la întreaga Biblie",
         "text": "Cea dintâi dintre toate făpturile văzute pe care le-a creat Dumnezeu a fost lumina — nu ca să vadă El Însuși lucrând, căci pentru El întunericul și lumina sunt deopotrivă, ci ca să vedem noi lucrările Lui și slava Lui în ele. Lumina e frumusețea și binecuvântarea cea mare a universului; ca un întâi-născut, ea se aseamănă, dintre toate făpturile văzute, cel mai mult cu marele ei Părinte, în curăție și putere, strălucire și bunătate. Prin vederea ei, să fim călăuziți spre contemplarea plină de credință a Celui ce este lumină, lumină nesfârșită și veșnică, și Tatăl luminilor, Care locuiește într-o lumină de care nu se poate apropia nimeni."
       }
     ],
@@ -1090,27 +1090,27 @@ window.CHAPTER_DATA = [
         "text": "Observă o formulare neobișnuită: textul spune „a fost seară” (nu „a fost noapte”), pentru că ziua întâi se sfârșise prin apusul soarelui, iar apoi „a fost dimineață” — zorii care încheie noaptea. Insistă că succesiunea seară-dimineață marchează pur și simplu granița dintre cele șase zile ale creației."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron, Omilia II (verificat direct din text — trad. Blomfield Jackson)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron, Omilia II",
         "text": "Discută aceeași întrebare pusă și de Rashi: de ce Scriptura spune „o zi”, nu „ziua întâi”, când toate celelalte zile sunt numerotate (a doua, a treia...)? Vasile respinge ideea unei zile pur astronomice și propune o cheie diferită de a lui Rashi: „o zi” arată că ziua aceasta e „tipul veșniciei” — un cerc care începe și se sfârșește cu sine, spre deosebire de succesiunea zilelor următoare. O numește „ziua a opta” a Psalmistului — ziua fără seară, aflată în afara timpului săptămânii — și o leagă direct de ziua Învierii Domnului. Spre deosebire de explicația lui Rashi (unicitatea lui Dumnezeu înainte de crearea îngerilor în ziua a doua), Vasile citește „unu” ca semn al veșniciei, nu al singurătății divine — o divergență interpretativă instructivă între cele două tradiții, ambele plecând de la aceeași observație textuală."
       },
       {
-        "author": "Ipolit al Romei, Fragmente exegetice — Despre Facere (verificat direct din text)",
+        "author": "Ipolit al Romei, Fragmente exegetice — Despre Facere",
         "text": "N-a zis «noapte și zi», ci «o zi», după numele luminii. N-a zis «ziua întâi»; căci dacă ar fi zis «întâi», ar fi trebuit să spună și că a doua zi a fost făcută. Dar se cuvenea să nu vorbească despre «ziua întâi», ci despre «o zi», ca, zicând «una», să arate că ea se întoarce pe orbita ei și, rămânând una, alcătuiește săptămâna."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 1.14-15 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 1.14-15",
         "text": "Cerul, pământul, focul, vântul și apa au fost create din nimic, așa cum mărturisește Scriptura. Dar lumina, care a apărut în ziua întâi, împreună cu celelalte lucruri ce aveau să apară după ea, a apărut din ceva. Căci atunci când acestea din urmă au apărut din nimic, Moise a spus: «Dumnezeu a creat cerul și pământul.» Deși nu este scris despre foc, apă și vânt că au fost create, nici că au fost făcute, totuși ele au apărut din nimic, la fel ca cerul și pământul. După ce Dumnezeu a început să facă lucrurile «din ceva», Moise a scris: «Dumnezeu a zis: Să fie...» lumina, și celelalte."
       },
       {
-        "author": "John Gill, Expunerea întregii Biblii (verificat direct din text, extras)",
+        "author": "John Gill, Expunerea întregii Biblii",
         "text": "Fie prin mișcarea de rotație a trupului de lumină de mai sus, fie prin rotirea haosului pe axa lui, în răstimp de douăzeci și patru de ore se făcea o schimbare de lumină și întuneric — la fel cum se întâmplă și azi. Și a fost seară și a fost dimineață: ziua întâi — seara, prima parte a nopții, pusă pentru noaptea întreagă; și dimineața, prima parte a zilei, pusă și ea pentru ziua întreagă — amândouă la un loc alcătuind o zi obișnuită de douăzeci și patru de ore, ceea ce Daniel numește «o seară-dimineață», iar apostolul Pavel, «o zi-noapte» (2 Corinteni 11:25). Evreii încep ziua din seara dinainte; la fel multe alte neamuri."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și a fost seară și a fost dimineață, o zi. A fost seară, pe măsură ce lumina scădea treptat, după încheierea răstimpului zilei; și a fost dimineață, pe măsură ce aceeași lumină se întorcea treptat peste pământ și începea o altă zi; și astfel s-a împlinit o zi întreagă, de douăzeci și patru de ceasuri. De aceea Scriptura a preferat să spună «seară și dimineață», nu «noapte și zi», ca să arate că lucrarea luminii celei dintâi se făcea în cerc. S-a cuvenit pe deplin ca ziua ce începe din lumină să se întindă până în dimineața zilei următoare, ca să se dea de înțeles că lucrările Celui ce este lumina cea adevărată, în care nu e nicio umbră, încep din lumină și se împlinesc în lumină."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
         "text": "Antichități Iudaice 1.27: Josephus notează explicit că „Moise a fost cel ce i-a zis «o zi»” și promite să explice alegerea acestui cuvânt „într-o lucrare aparte” — o raționalizare tipică lui, care caută motive „firești” pentru formulările biblice, deși promisiunea nu mai apare păstrată în textul de față."
       }
     ],
@@ -1326,23 +1326,23 @@ window.CHAPTER_DATA = [
         "text": "Explică de ce abia în ziua a treia apare pentru prima dată „și a văzut Dumnezeu că este bine”: lucrarea apelor nu s-a încheiat decât atunci, cu apariția uscatului — de aceea formula lipsește la ziua a doua și apare de două ori la a treia."
       },
       {
-        "author": "Ipolit al Romei, Fragmente exegetice — Despre Facere (verificat direct din text)",
+        "author": "Ipolit al Romei, Fragmente exegetice — Despre Facere",
         "text": "În ziua întâi, Dumnezeu a făcut ce a făcut din nimic. Dar în celelalte zile n-a mai făcut din nimic, ci din ceea ce făcuse în ziua întâi, plăsmuindu-l după voia Sa."
       },
       {
-        "author": "Chiril al Ierusalimului, Cateheza 9:5 (verificat direct din text)",
+        "author": "Chiril al Ierusalimului, Cateheza 9:5",
         "text": "Ce vină pot găsi ei marii zidiri a lui Dumnezeu, Care din firea curgătoare a apelor a plăsmuit substanța statornică a cerurilor? Căci a zis Dumnezeu: «Să fie o tărie în mijlocul apelor.» Dumnezeu a grăit o singură dată, și rămâne pe veci, fără să se clatine."
       },
       {
-        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament (verificat direct din text)",
+        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
         "text": "Traducătorii noștri, urmând firmamentum din Vulgata — traducere a στερεωμα din Septuaginta —, au lipsit acest pasaj de tot înțelesul lui. Cuvântul ebraic רקיע (rakia), de la רקע (raka), „a întinde” (cum se întinde pânza unui cort), înseamnă pur și simplu o întindere, un spațiu — spațiul care desparte norii, aflați mai sus, de mări și altele, aflate mai jos. Noi numim aceasta atmosferă, dar Moise pare să fi folosit cuvântul într-un sens mai larg, cuprinzând tot vârtejul planetar, adică spațiul ocupat de întregul sistem solar."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron (a patra citare din Geneza 1, verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron",
         "text": "Ieri am auzit porunca lui Dumnezeu: «Să fie lumină.» Azi e: «Să fie o tărie.» Se pare că aici e ceva mai mult: cuvântul nu se mărginește la o simplă poruncă, ci arată și rațiunea care cere alcătuirea tăriei — anume, ca să despartă apele de ape. Dar mai întâi să ne întrebăm: cum vorbește Dumnezeu? Oare ca noi, având nevoie de organele glasului ca să-Și facă cunoscute gândurile? N-ar fi, mai degrabă, potrivit cu adevărata credință să spunem că voia dumnezeiască și cea dintâi mișcare a minții dumnezeiești sunt chiar Cuvântul lui Dumnezeu?"
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:4 descrie ziua a doua aproape identic cu Geneza: tăria creată în mijlocul apelor, cu jumătate din ape suite deasupra și jumătate coborâte dedesubt — o imagine cosmologică (un „firmament” solid separând ape de ape) comună întregii lumi vechi a Orientului Apropiat, nu doar Israelului."
       }
     ],
@@ -1598,15 +1598,15 @@ window.CHAPTER_DATA = [
         "text": "Explică mecanismul firmamentului aproape ca pe un fenomen natural: partea vaporoasă a apelor, oprită de firmament să coboare, condensându-se atunci când vaporii umezi îl ating, dă naștere ploii, zăpezii și rouă."
       },
       {
-        "author": "Fericitul Augustin, Despre Geneza pe litera 8.29 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Geneza pe litera 8.29",
         "text": "Materia a fost despărțită prin așezarea tăriei între ele, astfel încât materia de jos să fie a trupurilor, iar materia de sus, a sufletelor."
       },
       {
-        "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie (verificat direct din text)",
+        "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
         "text": "Tăria — o întindere — bătută ca o placă de metal: nume dat atmosferei, fiindcă, pentru cel ce privește, pare bolta cerului, purtând greutatea norilor plini de apă. Prin crearea unei atmosfere, părțile mai ușoare ale apelor care acopereau fața pământului au fost trase în sus și ținute suspendate în cerurile văzute, în vreme ce masa cea mai mare și mai grea a rămas dedesubt."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron 3.9 (verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron 3.9",
         "text": "Cât despre despărțirea apelor, sunt nevoit să resping părerea unor scriitori bisericești care, sub umbra unor concepții înalte și sublime, au alunecat spre metaforă și au văzut în ape doar o închipuire pentru puterile spirituale și netrupești — cele bune sus, deasupra tăriei; cele rele jos, în pământ și materie. Să lepădăm aceste teorii ca pe niște vise și povești de babe."
       },
       {
@@ -1823,23 +1823,23 @@ window.CHAPTER_DATA = [
         "text": "Discută numele שָׁמַיִם (ceruri): abia acum, în ziua a doua, când cerurile au fost „îmbrăcate” cu forma firmamentului, li s-a putut atribui acest nume — deși fuseseră create încă din ziua întâi, numele nu li se putea „prinde” fără forma corespunzătoare."
       },
       {
-        "author": "Origen, Omilii la Facere 1.2 (verificat direct din text)",
+        "author": "Origen, Omilii la Facere 1.2",
         "text": "Deși Dumnezeu făcuse deja mai înainte cerul, acum face tăria. Căci întâi a făcut cerul, despre care zice: «Cerul e tronul Meu.» Dar după aceea face tăria, adică cerul cel trupesc. Căci orice lucru trupesc e, fără îndoială, ferm și solid; și acesta e cel ce «desparte apa de deasupra cerului de apa de sub cer»."
       },
       {
-        "author": "John Gill, Expunerea întregii Biblii (verificat direct din text, extras)",
+        "author": "John Gill, Expunerea întregii Biblii",
         "text": "Și a numit Dumnezeu tăria cer... Cuvântul își are numele, în limba arabă, de la înălțimea lui, fiind deasupra pământului și ajungând până la al treilea cer; deși alții iau cuvântul „șamaim” ca alcătuit din două cuvinte, „șam” și „maim” — adică „acolo sunt ape”, anume în norii cerului."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 1.20 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 1.20",
         "text": "Deși Dumnezeu a zis despre lumina apărută în ziua întâi că «era foarte bună», n-a spus același lucru despre tăria apărută în ziua a doua, fiindcă tăria încă nu era încheiată, nici în alcătuirea ei, nici în podoaba ei. Ziditorul a amânat până când au apărut luminătorii, ca, după ce tăria a fost împodobită cu soarele, luna și stelele, și puterea întunericului a fost slăbită de lumina lor, atunci să zică și despre tărie, ca despre restul zidirii, că «era foarte bună»."
       },
       {
-        "author": "Keil și Delitzsch, Comentariu la Vechiul Testament (verificat direct din text, extras)",
+        "author": "Keil și Delitzsch, Comentariu la Vechiul Testament",
         "text": "רקיע (rakia), de la רקע, „a întinde, a lăți”, înseamnă expansum — întinderea aerului care înconjoară pământul ca atmosferă. După înfățișarea ei, e descrisă ca un covor întins deasupra pământului (Psalmul 104:2), o perdea (Isaia 40:22), o lucrare străvezie de safir (Ieșirea 24:10), sau o oglindă turnată (Iov 37:18) — dar nimic din aceste imagini poetice nu îndreptățește ideea că cerurile ar fi fost privite ca o masă solidă."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
         "text": "Antichități Iudaice 1.27: „în a doua zi, Dumnezeu a înălțat deasupra întregului cerul... l-a împrejmuit ca de cristal, făcându-l umed și îmbibat cu stropi, ca să slobozească ploi.” Josephus adaugă imaginea „de cristal”, un detaliu explicativ care nu e în textul ebraic al Genezei, dar se potrivește cu imaginea antică a bolții cerești solide."
       }
     ],
@@ -2080,23 +2080,23 @@ window.CHAPTER_DATA = [
         "text": "Leagă strângerea apelor de „vântul lui Dumnezeu” din v.2 — la fel cum vântul de răsărit a despărțit Marea Roșie, la fel un vânt a adunat apele de la începutul lumii într-un singur loc, lăsând uscatul să apară."
       },
       {
-        "author": "Tertulian, Împotriva lui Hermogene 29 (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Hermogene 29",
         "text": "Apoi îndată devine „văzut”, zicând Dumnezeu: «Să se adune apa într-o singură masă, și să se arate uscatul.» «Să se arate», zice El, nu «să se facă». Fusese deja făcut, doar că, în starea lui nevăzută, aștepta să se arate. «Uscat», fiindcă avea să devină astfel prin despărțirea de umezeală — dar tot «pământ»."
       },
       {
-        "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie (verificat direct din text)",
+        "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
         "text": "Să se adune apele de sub cer într-un loc — lumea urma să devină un glob de uscat și apă deopotrivă, lucru împlinit printr-o zguduire pe suprafața ei: ridicarea unor părți, coborârea altora și formarea unor adâncituri vaste, în care apele s-au năpustit năvalnic. Astfel, o mare parte a pământului a rămas „uscat”, și astfel s-au format oceanele, mările, lacurile și râurile, care, deși fiecare are albia lui, sunt toate legate de mare."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere (verificat direct din text, extras)",
+        "author": "Beda Venerabilul, Comentariu la Facere",
         "text": "A zis Dumnezeu: Să se adune apele de sub cer într-un loc, și să se arate uscatul; și așa a fost. Apele care umpleau tot spațiul dintre cer și pământ au fost trase și adunate într-un loc, ca lumina, care strălucise limpede peste ape în cele două zile dinainte, să strălucească și mai puternic în aerul curat; iar pământul, care fusese ascuns, s-a arătat."
       },
       {
-        "author": "Fericitul Augustin, Despre Geneza pe litera 2.11.24 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Geneza pe litera 2.11.24",
         "text": "De aceea, la cuvintele «Să se adune apele, și să se arate uscatul», aceste două lucruri — pământul și apa — și-au primit formele proprii, cunoscute nouă și percepute de simțurile noastre: apa făcându-se curgătoare, iar pământul, tare. Despre apă se spune deci «să se adune», iar despre pământ, «să se arate» — căci apa tinde să crească și să scadă, dar pământul rămâne neclintit."
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:5-6 urmează Geneza aproape cuvânt cu cuvânt pentru ziua a treia: apele primesc poruncă să se adune într-un loc, ca uscatul să se arate."
       }
     ],
@@ -2344,19 +2344,19 @@ window.CHAPTER_DATA = [
         "text": "Notează, simplu, că peste tot în Tora „uscatul” e numit „pământ” (ארץ) — o clarificare terminologică pe care o folosește constant în comentariul său."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(10) Și a numit adunările apelor mări. Trebuie observat că orice adunare de ape, fie ele sărate sau dulci, se numește, după limba evreilor, mare. De aceea, Porfiriu îl acuză pe nedrept pe Evanghelist de neștiință atunci când istorisește minunea Domnului umblând pe mare, fiindcă a numit „mare” lacul Ghenezaret — când orice lac și orice adunare de ape se numește, la ei, mare."
       },
       {
-        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament (verificat direct din text)",
+        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
         "text": "Și a numit Dumnezeu uscatul Pământ, iar adunarea apelor a numit-o Mări — acestea două alcătuiesc ceea ce se numește globul de uscat și apă, în care pământul și apa există într-o proporție deosebit de înțeleaptă una față de cealaltă. Dr. Long, măsurând cu grijă hărțile unui glob terestru de șaptesprezece țoli, despărțind uscatul de mare, a cântărit separat cele două categorii de hârtie și a găsit că cea a mărilor cântărea de aproape trei ori mai mult decât cea a uscatului — arătând că aproape trei sferturi din suprafața globului nostru, între cercurile polare, sunt acoperite de apă."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 5.10 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 5.10",
         "text": "Ai văzut, iubite frate, cum Dumnezeu a dezgolit, ca să zic așa, pământul, care era nevăzut și fără chip, și era acoperit de ape ca de niște văluri, și ne-a arătat fața lui, după ce i-a pus și numele cuvenit? «Și a numit adunările apelor mări.» Așa și-au primit numele și apele. Căci, așa cum un meșteșugar iscusit, care se apucă să facă din arta lui un vas anume, nu-i dă nume până nu l-a terminat, tot așa nici bunul Domn nu pune nume elementelor până nu le-a așezat, după porunca Sa, la locul lor cuvenit."
       },
       {
-        "author": "Tertulian, Împotriva lui Hermogene 29 (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Hermogene 29",
         "text": "Și astfel, când mai apoi ajunge la desăvârșire, încetează să mai fie socotit pustiu, atunci când Dumnezeu zice: «Să dea pământul din sine verdeață, iarbă ce face sămânță, după soiul și asemănarea ei, și pomi roditori ce fac rod, cu sămânța în ei, după soiul lor.»"
       }
     ],
@@ -2491,23 +2491,23 @@ window.CHAPTER_DATA = [
         "text": "Distinge clar cele trei categorii: iarbă pentru hrana animalelor, plante cu sămânță pentru hrana omului, pomi roditori „după soiul lor” — insistă că un hibrid din două specii nu se poate reproduce, principiu care rămâne stabilit „fără exces sau lipsă” de atunci."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron (a cincea citare din Geneza 1, verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron",
         "text": "Să dea pământul din sine verdeață. Această poruncă scurtă a fost, într-o clipă, o fire vastă, un sistem desăvârșit. Mai iute decât gândul, a produs nenumăratele soiuri de plante. Aceeași poruncă e cea care, și astăzi, apasă asupra pământului și, în cursul fiecărui an, arată toată puterea ei de a produce ierburi, semințe și pomi — la fel cum un titirez, după prima izbitură, își continuă mișcarea, învârtindu-se pe centrul lui; tot așa firea, primind îndemnul acestei porunci dintâi, urmează neîntrerupt cursul veacurilor, până la sfârșitul tuturor lucrurilor."
       },
       {
-        "author": "Fericitul Augustin, Despre Geneza pe litera 2.12.25 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Geneza pe litera 2.12.25",
         "text": "Aici trebuie să observăm planul Cârmuitorului lumii. Fiindcă plantele și pomii creați sunt, ca specie, deosebiți de pământ și apă, și deci nu pot fi numărați printre elemente, porunca prin care aveau să iasă din pământ e dată separat, și formulele obișnuite care descriu crearea lor sunt puse separat. Astfel Scriptura zice «și așa a fost», și apoi repetă ce s-a făcut. Se pomenește separat și faptul că Dumnezeu a văzut că era bine. Dar fiindcă aceste făpturi se prind strâns de pământ și sunt legate de el prin rădăcini, Dumnezeu a voit ca ele să aparțină aceleiași zile a creației."
       },
       {
-        "author": "Ioan Gură de Aur, Omilie la Evanghelia lui Matei 49 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilie la Evanghelia lui Matei 49",
         "text": "Și de ce n-a făcut-o din nimic? Ca să astupe gura lui Marcion și a maniheilor, care despart creația de El, și, prin înseși lucrările Sale, să arate că toate cele văzute sunt lucrările și făpturile Lui — arătând că El Însuși dă roadele, El Care a zis la început: «Să dea pământul din sine iarbă verde», și «Să scoată apele din sine vietăți ce se mișcă, cu suflet viu»."
       },
       {
-        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament (verificat direct din text)",
+        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
         "text": "Să dea pământul din sine verdeață, iarbă, pom roditor etc. — în aceste expresii generale sunt cuprinse toate felurile de plante. «Pom roditor» nu trebuie înțeles aici în sensul strâmt în care folosim noi cuvântul; el arată toți pomii, nu doar cei ce rodesc spre folosul oamenilor și al vitelor, ci și cei ce au puterea de a se înmulți prin semințe. Cine poate pătrunde alcătuirea unui singur pom sau a unei singure plante? Rădăcinile, tulpina, fibrele lemnoase, coaja, vasele de sevă, frunzele, florile și roadele — toate sunt tot atâtea taine. Toată iscusința, înțelepciunea și puterea oamenilor și îngerilor laolaltă n-ar putea face un singur bob de grâu."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
         "text": "Antichități Iudaice 1.27: „în a treia zi a făcut uscatul, pretutindeni împrejmuit de mare; în aceeași zi au răsărit din glie iarba și semințele.” Josephus comprimă versetele 9-13 într-o singură frază, fără să separe crearea uscatului de apariția vegetației, așa cum face textul biblic în două etape distincte în cadrul aceleiași zile."
       }
     ],
@@ -2811,23 +2811,23 @@ window.CHAPTER_DATA = [
         "text": "Discută citarea midrașică din Talmud (Chulin 60a) despre pământul care „a tras un argument a fortiori” pentru sine — dacă pomii au primit porunca „după soiul lor”, la fel trebuiau să facă și ierburile, deși porunca nu li s-a spus explicit lor."
       },
       {
-        "author": "Grigorie de Nyssa, Despre suflet și înviere (verificat direct din text)",
+        "author": "Grigorie de Nyssa, Despre suflet și înviere",
         "text": "La început, vedem, n-a fost un spic ieșit dintr-un bob, ci un bob ieșit dintr-un spic; și abia după aceea spicul crește în jurul bobului."
       },
       {
-        "author": "Ambrozie al Milanului, Cele șase zile ale creației (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Cele șase zile ale creației",
         "text": "Să știe fiecare că soarele nu e autorul vegetației... Cum ar putea soarele să dea puterea vieții plantelor care cresc, când acestea fuseseră deja aduse la ființă de puterea creatoare și dătătoare de viață a lui Dumnezeu, înainte ca soarele să intre într-o astfel de viață? Soarele e mai tânăr decât firul de iarbă, mai tânăr decât planta cea verde."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 6.12 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 6.12",
         "text": "De aceea Scriptura vă arată totul desăvârșit înainte de crearea acestui trup [soarele] — ca să nu-i atribuiți lui rodirea holdelor, în locul Ziditorului tuturor."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron 9.1 (verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron 9.1",
         "text": "Când aud «iarbă», mă gândesc la iarbă; și tot așa înțeleg fiecare lucru așa cum e spus: o plantă, un pește, o fiară, un bou. Unii au încercat, prin argumente greșite și tălmăciri alegorice, să dea Scripturii o măreție închipuită de ei înșiși. Dar aceasta e atitudinea celui ce se crede mai înțelept decât descoperirile Duhului și își strecoară propriile idei sub chipul unei explicații. Așadar, să fie înțeles așa cum a fost scris."
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:7 adaugă un detaliu absent din Geneza: în ziua a treia sunt create nu doar mările, ci și toate râurile, lacurile și „toată roua pământului” — o extindere a categoriei de „ape” față de textul biblic, mai degrabă enciclopedică decât teologică."
       }
     ],
@@ -2951,11 +2951,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Versetul de încheiere a zilei a treia. Observația despre dubla formulă „și a văzut Dumnezeu că este bine” (v.10 și v.12) aparține de fapt comentariului lui Rashi la v.7, unde explică de ce ziua a doua nu primește această formulă și de ce ziua a treia o primește de două ori."
-      },
-      {
-        "author": "Tertulian, Împotriva lui Marcion 5.6 (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Marcion 5.6",
         "text": "Fiindcă veacurile sunt alcătuite din vremi, iar vremile din zile, luni și ani; și fiindcă zilele, lunile și anii se măsoară după sori, luni și stele, pe care le-a rânduit chiar pentru acest scop («vor fi», zice El, «semne pentru vremi și pentru ani») — urmează limpede că veacurile aparțin Ziditorului, și că nimic din ceea ce a fost rânduit dinainte de veacuri nu poate fi spus a fi al altcuiva decât Cel ce revendică și veacurile drept ale Sale."
       }
     ],
@@ -3239,19 +3235,19 @@ window.CHAPTER_DATA = [
         "text": "Discută „semnele” cerești prin paralelă cu Ezechia — „umbra se va întoarce zece trepte” (2 Regi 20) ca semn confirmat de mișcarea soarelui — și „soroacele” prin calculul lunii, care se reînnoiește la fiecare 29 de zile și jumătate, temei pentru calendarul sărbătorilor și al documentelor legale."
       },
       {
-        "author": "Ambrozie al Milanului, Cele șase zile ale creației (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Cele șase zile ale creației",
         "text": "Priviți întâi la tăria cerului, făcută înainte de soare. Priviți întâi la pământ, care a început să se vadă și era deja alcătuit înainte ca soarele să se arate. Priviți la plantele pământului, care au precedat în timp lumina soarelui. Mărăcinele a fost înainte de soare. Firul de iarbă e mai vechi decât luna. Deci nu credeți că e dumnezeu acel lucru căruia i se văd preferate darurile lui Dumnezeu. Trei zile au trecut; nimeni, în tot acest timp, n-a căutat soarele, și totuși strălucirea luminii era peste tot vădită."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron 6.8 (verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron 6.8",
         "text": "«Să slujească», zice, «pentru statornicirea zilelor» — nu pentru a face zilele, ci pentru a le rândui. Căci ziua și noaptea sunt mai vechi decât nașterea luminătorilor. Aceasta ne-o spune și psalmul, când zice: «A pus soarele să stăpânească ziua, luna și stelele să stăpânească noaptea.» Cum stăpânește, deci, soarele ziua? Fiindcă, ori de câte ori soarele, purtând lumina cu sine, se ridică deasupra orizontului nostru, pune capăt întunericului și ne aduce ziua."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 7.10 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 7.10",
         "text": "De aceea fericitul Moise, insuflat de Duhul dumnezeiesc, ne învață cu multă precizie, ca să nu cădem în aceleași rătăciri ca ei, ci să putem cunoaște limpede și ordinea lucrurilor create, și felul în care a fost creat fiecare. Căci dacă Dumnezeu, în grija Lui pentru mântuirea noastră, n-ar fi îndrumat astfel limba scriitorului biblic, ar fi fost de-ajuns să spună doar că Dumnezeu a făcut cerul și pământul, marea și viețuitoarele, fără să mai adauge și ordinea zilelor, nici ce anume a fost creat mai întâi și ce mai apoi."
       },
       {
-        "author": "Fericitul Augustin, Scrisori 55 (verificat direct din text)",
+        "author": "Fericitul Augustin, Scrisori 55",
         "text": "Toată lumea înțelege că e o mare deosebire între prezicerea astrologică și observarea stelelor ca fenomene ale firii — așa cum fac plugarii și corăbierii, ca să verifice zonele geografice sau să-și îndrepte drumul undeva; ori ca să lămurească vreun punct de învățătură, pomenind câte o stea ca ilustrare folositoare. E, deci, o mare deosebire între aceste obiceiuri practice și superstiția celor ce studiază stelele nu ca să prevadă vremea sau pentru pilde duhovnicești, ci ca să încerce să pătrundă în desfășurarea hotărâtă dinainte a întâmplărilor."
       },
       {
@@ -3437,19 +3433,19 @@ window.CHAPTER_DATA = [
         "text": "Subliniază că versetul adaugă explicit „să lumineze pământul” — pentru că nu era de la sine înțeles că luminătorii, odată puși pe cer, aveau să-și trimită neapărat lumina până jos; textul precizează separat acest lucru."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Ca să lumineze în tăria cerului și să dea lumină pe pământ; și așa a fost. Într-adevăr, luminătorii strălucesc mereu în tăria cerului, așa cum am spus, și inundă regiunile din preajmă cu lumină vie, dar la vremile potrivite dau lumină și pământului. Căci uneori norii opresc lumina, astfel încât nici lumina lunii, când e mică, nici cea a stelelor nu se mai arată pe pământ; iar răsăritul soarelui, cu lumina lui mai mare, oprește luna și stelele să mai lumineze pământul."
       },
       {
-        "author": "Chiril al Ierusalimului, Cateheza 9:8 (verificat direct din text)",
+        "author": "Chiril al Ierusalimului, Cateheza 9:8",
         "text": "Oamenii ar fi trebuit să se minuneze și să se uimească nu doar de rânduiala soarelui și a lunii, ci și de mișcările atât de bine orânduite ale stelelor, de cursul lor nestânjenit și de răsăritul la vreme al fiecăreia dintre ele — cum unele sunt semne ale verii, altele ale iernii; cum unele arată vremea semănatului, altele vremea navigației."
       },
       {
-        "author": "Ioan Calvin, Comentarii la Facere (verificat direct din text)",
+        "author": "Ioan Calvin, Comentarii la Facere",
         "text": "E bine să repet iarăși ceea ce am spus mai înainte: aici nu se discută filosofic cât de mare e soarele pe cer, sau cât de mare ori de mică e luna, ci cât de multă lumină vine de la ele către noi. «Luminători mari» — adică în ochii noștri. Căci Moise se adresează aici simțurilor noastre, ca să nu ne scape cunoașterea darurilor lui Dumnezeu de care ne bucurăm. De aceea, ca să înțelegem gândul lui Moise, nu are niciun rost să zburăm mai presus de ceruri; să deschidem doar ochii, ca să vedem această lumină pe care Dumnezeu o aprinde pentru noi pe pământ."
       },
       {
-        "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie (verificat direct din text)",
+        "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
         "text": "Atmosfera fiind acum pe deplin curățită, soarele, luna și stelele au fost, pentru întâia oară, dezvăluite în toată slava lor pe cerul senin; și sunt descrise ca fiind «în tărie», căci așa par ochiului, deși știm că sunt, în realitate, la depărtări uriașe de ea."
       }
     ],
@@ -3743,23 +3739,23 @@ window.CHAPTER_DATA = [
         "text": "Dezvoltă midrașul despre luna micșorată: create inițial egale, luna a atacat verbal soarele („nu pot doi regi să poarte aceeași coroană”) și a fost, ca urmare, micșorată — dar soarele, care „a auzit insulta și n-a răspuns”, a rămas mare, ca recompensă pentru tăcerea lui, comparat cu principiul talmudic al celor „insultați care nu insultă înapoi”."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 1.23 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 1.23",
         "text": "Moise a spus: «Dumnezeu a făcut cei doi luminători mari, luminătorul cel mare ca să stăpânească ziua, iar cel mic, ca să stăpânească noaptea; și a făcut stelele.» Deși tot ce s-a făcut înainte de ziua a patra a început în seara zilei dinainte, lucrările zilei a patra au fost plăsmuite în zori. Fiindcă ziua a treia se încheiase — căci se spune: «a fost seară și a fost dimineață, ziua a treia» — Dumnezeu n-a creat cei doi luminători seara, ca noaptea să nu se schimbe în zi, nici dimineața să nu ia întâietate față de seară."
       },
       {
-        "author": "Origen, Omilii la Facere 1.7 (verificat direct din text)",
+        "author": "Origen, Omilii la Facere 1.7",
         "text": "Așa cum soarele și luna sunt numiți «luminătorii cei mari» în tăria cerului, tot așa sunt și Hristos și Biserica în noi. Dar fiindcă Dumnezeu a pus și stele în tărie, să vedem care sunt și stelele din noi, adică din cerul inimii noastre. Moise e o stea în noi, care strălucește și ne luminează prin faptele lui. Și tot așa sunt Avraam, Isaac, Iacov, Isaia, Ieremia, Iezechiel, David, Daniel și toți cei despre care Sfintele Scripturi mărturisesc că au plăcut lui Dumnezeu. Căci așa cum «o stea se deosebește de altă stea în slavă», tot așa fiecare sfânt, după măsura lui, își revarsă lumina asupra noastră."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Dumnezeu a mai făcut și doi luminători mari. Putem înțelege «mari» nu neapărat prin comparație cu alții, ci prin rolul lor — așa cum spunem că cerul e mare, sau marea e mare. Căci există și soarele cel mare, care umple lumea cu căldura lui, sau luna, cu lumina ei, care, oriunde ar fi pe cer, luminează tot pământul și sunt privite deopotrivă de toți oamenii."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 1.14.20-23 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 1.14.20-23",
         "text": "Maniheii întreabă cum se poate ca trupurile cerești — soarele, luna și stelele — să fi fost făcute abia în ziua a patra. Cum ar fi putut trece cele trei zile dinainte fără soare?... Le răspundem că fiecare din cele trei zile dinainte ar fi putut fi socotită după o perioadă la fel de mare ca aceea prin care trece soarele, de la răsărit până se întoarce iarăși la răsărit. Acesta ar fi răspunsul nostru, dacă n-am fi opriți de cuvintele «și a fost seară și a fost dimineață» — de aceea rămânem cu explicația că, în acea vreme, hotarele dintre lucrări se numeau «seară» pentru încheierea lucrării făcute, și «dimineață» pentru începutul celei ce urma. Așa vorbește Scriptura, după asemănarea lucrărilor omenești, care de obicei încep dimineața și se sfârșesc seara."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
         "text": "Antichități Iudaice 1.27: „în a patra zi a înzestrat cerul cu soarele, luna și celelalte stele, dându-le o mișcare și un mers din care să se vadă limpede scurgerea timpului.” Josephus, scriind pentru un public elenizat familiarizat cu astronomia greacă, insistă pe funcția de „ceas cosmic” a luminătorilor — un accent compatibil cu textul biblic (Geneza 1:14, „semne, vremi, zile și ani”), dar formulat în termeni mai apropiați de cosmologia greacă."
       }
     ],
@@ -3907,11 +3903,11 @@ window.CHAPTER_DATA = [
         "text": "Notează, ca observație pur lingvistică, că nu trebuie să ne mire verbul „a pus/a așezat” aplicat luminătorilor — aceeași formă apare și la „am pus curcubeul Meu” (Geneza 9:13), unde nimeni nu se îndoiește de sensul ei propriu."
       },
       {
-        "author": "Origen, Omilii la Facere 1.6 (verificat direct din text)",
+        "author": "Origen, Omilii la Facere 1.6",
         "text": "Așa cum acei luminători ai cerului, pe care-i vedem, au fost puși «drept semne, vremi, zile și ani», ca să dea lumină din tăria cerului celor de pe pământ, tot așa și Hristos, luminând Biserica Sa, dă semne prin poruncile Sale, ca să știe omul cum, primind semnul, să scape de «mânia ce va să vină». Hristos, deci, e «lumina cea adevărată, care luminează pe tot omul ce vine în lume». Din lumina Lui, luminată fiind și Biserica însăși, se face «lumina lumii», după cum mărturisește chiar Hristos ucenicilor Săi: «Voi sunteți lumina lumii.»"
       },
       {
-        "author": "John Gill, Expunerea întregii Biblii (verificat direct din text, extras)",
+        "author": "John Gill, Expunerea întregii Biblii",
         "text": "Și i-a așezat Dumnezeu în tăria cerului... Nu doar a rânduit ca ei să fie acolo, ci i-a așezat acolo cu mâinile Sale; și sunt așezați, mai ales soarele, la o asemenea depărtare încât să fie de folos, nu de vătămare: dacă ar fi fost pus mai aproape de pământ, căldura lui ar fi fost de nesuportat; iar dacă ar fi fost mai departe, n-ar fi fost de niciun folos. Felul acesta de exprimare pare gândit anume ca să demaște deșertăciunea închinării la soare și lună, care, fiind văzute și de o așa mare influență pentru pământ, au fost primele cărora păgânii li s-au închinat."
       }
     ],
@@ -4109,11 +4105,11 @@ window.CHAPTER_DATA = [
         "text": "Explică „stăpânirea” zilei și nopții ca fiind necesară pentru reînnoirea ființelor din lumea de jos — relevantă mai ales pentru animale, ființe „mai de seamă” decât plantele, care aveau nevoie de această structură temporală."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Ca să lumineze pe pământ, să stăpânească ziua și noaptea, și să despartă lumina de întuneric. Acestea se pot înțelege deopotrivă despre luminătorii cei mari și despre stele, cu singura deosebire că «a stăpâni ziua» se leagă mai ales de soare; «și noaptea» se leagă de lună și de stele; iar «a despărți lumina de întuneric» se potrivește tuturor stelelor deopotrivă, care poartă lumină oriunde se mișcă și lasă întuneric pretutindeni de unde lipsesc."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și a văzut Dumnezeu că era bine. Cu rost găsește Sfânta Scriptură, de multe ori, că Dumnezeu a văzut că lucrurile pe care le-a făcut erau bune, ca prin aceasta să fie luminată evlavia credincioșilor; căci nu ține de mintea omenească — care adesea se poticnește chiar și de lucruri bune ale căror pricini și rânduială nu le cunoaște — să judece creația cea văzută și nevăzută, ci mai degrabă să creadă și să se plece, lăudând pe Dumnezeu."
       }
     ],
@@ -4235,15 +4231,11 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Verset-formulă, identic ca structură cu încheierile zilelor 1, 3 și 5 („și a fost seară și a fost dimineață”). Comentatorii clasici verificați în arhivă nu adaugă o notă separată aici, tratând tiparul ca fiind deja explicat la v.5."
-      },
-      {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "A fost seară și a fost dimineață, ziua a patra. Aceasta e seara aceea de neuitat în care poporul lui Dumnezeu, în Egipt, a jertfit mielul, prăznuind Paștile; aceasta e dimineața care a văzut întâi lepădarea jugului robiei celei îndelungate și începutul drumului spre libertate. În aceeași seară, ca să împlinească tainele Legii Paștilor, Domnul nostru a început să prăznuiască tainele Trupului și Sângelui Său, după ce mâncase mielul cel prefigurativ; iar în acea dimineață care se ivea, ca un miel fără de prihană, răscumpărându-ne cu sângele Său, ne-a izbăvit din robia stăpânirii diavolești."
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:8-10 dedică ziua a patra unei liste detaliate a funcțiilor astrale (semne pentru zile, sabate, luni, sărbători, ani, „sabatele anilor”), extinzând considerabil rolul calendaristic al luminătorilor față de formularea mai succintă din Geneza — Jubileele fiind, de fapt, o carte centrată pe calendarul solar-sacerdotal, spre deosebire de calendarul lunar folosit mai târziu în iudaismul rabinic."
       }
     ],
@@ -4491,23 +4483,23 @@ window.CHAPTER_DATA = [
         "text": "Observă că, deși păsările sunt create din apă, viața și creșterea lor efectivă se petrec pe uscat — o distincție între originea materială și habitatul lor real."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 1.26 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 1.26",
         "text": "După ce Moise a vorbit despre luminătorii apăruți în tărie, s-a întors să scrie despre vietățile mișunătoare, păsările și șerpii creați din ape în ziua a cincea, zicând: «Să mișune apele de viețuitoare, și să zboare păsările deasupra pământului.» Când apele au fost adunate, lucru rânduit în ziua a doua, s-au rânduit și râurile, și s-au arătat izvoare, lacuri și iazuri. La cuvântul lui Dumnezeu, aceste ape — răspândite prin toată creația — au scos din ele vietăți mișunătoare și pești: șerpii au fost creați în adâncuri, iar păsările s-au înălțat în stoluri din valuri, spre văzduh."
       },
       {
-        "author": "Tertulian, Împotriva lui Hermogene 22 (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Hermogene 22",
         "text": "Deci Dumnezeu, atunci când produce alte lucruri din cele deja făcute, ni le arată prin prooroc, și ne spune din ce izvor anume a produs fiecare — deși am fi putut noi înșine presupune că se trag din vreo sursă oarecare, nu din nimic, de vreme ce existau deja anumite lucruri din care păreau lesne a fi fost făcute."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 1.15.24 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 1.15.24",
         "text": "Maniheii obișnuiesc să găsească vină, punând întrebări și denaturând adesea Scriptura, pentru că spune că nu doar viețuitoarele care trăiesc în apă, ci și cele ce zboară în văzduh, toate păsările înaripate, s-au născut din ape. Să știe că oamenii învățați, care cercetează cu grijă aceste lucruri, obișnuiesc să numere împreună cu apa și acest aer umed și înnorat prin care zboară păsările. Căci el se strânge și se îndeasă din aburii mării, încât poate să susțină zborul păsărilor; astfel, în nopțile senine, produce roua, ale cărei picături se găsesc dimineața pe iarbă."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron 8.2 (verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron 8.2",
         "text": "A mai zis Dumnezeu: «Să zboare păsările deasupra pământului, prin tăria cerurilor.» De ce a dat El și viețuitoarelor înaripate obârșia din ape? Fiindcă vietățile zburătoare au, ca să zic așa, o oarecare înrudire cu cele ce înoată. Căci așa cum peștii despică apa, înaintând cu mișcarea înotătoarelor și îndreptându-și întoarcerile prin mișcarea cozii, tot așa și păsările se văd despicând și mișcându-se prin aer cu aripile lor, în același chip."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
         "text": "Antichități Iudaice 1.27: „În cea de-a cincea zi a făcut viețuitoarele, atât cele înotătoare, cât și cele înaripate; pe unele le-a trimis în adâncul apelor, pe altele în văzduh, punându-le de îndată să se unească între ele și să se împerecheze, în vederea prăsirii.” Josephus adaugă explicit tema împerecherii imediate, absentă ca atare din textul biblic la acest verset (deși binecuvântarea „fiți roditoare” apare la v. 22)."
       }
     ],
@@ -4823,23 +4815,23 @@ window.CHAPTER_DATA = [
         "text": "Explică „monștrii marini” prin puterea generativă limitată a apei, care singură n-ar fi fost suficientă pentru a produce aceste creaturi fără sămânță — Dumnezeu a trebuit să creeze o putere specială, suplimentară, pentru acest act."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron 7.6 (verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron 7.6",
         "text": "«Și a creat Dumnezeu monștrii cei mari ai mării.» Și nu fiindcă sunt mai mari decât creveții și heringii se numesc «mari», ci fiindcă, prin trupurile lor uriașe, sunt asemenea unor munți întregi. Într-adevăr, adesea par insule atunci când înoată la suprafața apei. Astfel de făpturi au fost create ca să ne țină în frică și cutremur; iar Ziditorul voiește să fiți astfel treji prin ele, ca, prin nădejdea în Dumnezeu, să scăpați de răul ce vine de la ele."
       },
       {
-        "author": "Ambrozie al Milanului, Cele șase zile ale creației (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Cele șase zile ale creației",
         "text": "Cuvântul lui Dumnezeu pătrunde fiecare făptură în alcătuirea lumii. De aceea, așa cum rânduise Dumnezeu, toate felurile de viețuitoare au fost produse repede din pământ. După o lege statornicită, ele se succed una după alta, din veac în veac, după chipul și soiul lor. Leul naște leu; tigrul, tigru; boul, bou; lebăda, lebădă; iar vulturul, vultur. Ce a fost poruncit o dată a devenit, în firea lucrurilor, o deprindere pentru totdeauna."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și a creat Dumnezeu vietățile cele mari ale mării, și orice viețuitoare care se mișcă, pe care apele le-au scos, după soiul lor, și orice pasăre înaripată, după soiul ei. Așadar, niciun soi n-a fost lăsat deoparte — toate viețuitoarele au fost create odată cu vietățile cele mari ale mării, pe care apele le-au scos în felurite soiuri: cele târâtoare, cele înotătoare și cele zburătoare; dar și cele ce se lipesc de stânci, fără mișcare proprie, cum sunt multele soiuri de scoici."
       },
       {
-        "author": "Ioan Calvin, Comentarii la Facere (verificat direct din text)",
+        "author": "Ioan Calvin, Comentarii la Facere",
         "text": "Aici se ridică o întrebare din pricina cuvântului «a creat». Căci am susținut mai înainte că lumea, fiind creată, a fost făcută din nimic; dar acum Moise spune că lucruri alcătuite din altă materie au fost «create». Nu restrâng deci crearea de aici la lucrarea zilei a cincea, ci socotesc mai degrabă că ține de acea masă fără chip și amestecată, care a fost ca izvorul întregii lumi."
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:11 numește monștrii marini creați în ziua a cincea „cele dintâi lucruri de carne zidite de mâinile Lui” — un accent pe prioritatea temporală a vieții acvatice față de orice altă viețuitoare, coerent cu ordinea din Geneza, dar formulat ca observație teologică explicită."
       }
     ],
@@ -5083,15 +5075,15 @@ window.CHAPTER_DATA = [
         "text": "Notează că, potrivit tradiției, catârii nu sunt incluși în această binecuvântare a înmulțirii — de aceea nu se reproduc în natură, chiar dacă unii înțelepți discută o excepție legată de o încrucișare făcută chiar de Adam, în noaptea de după primul Șabat."
       },
       {
-        "author": "Tertulian, Împotriva lui Hermogene 12 (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Hermogene 12",
         "text": "Din Materie, oricât de rea ar fi ea — ba chiar foarte rea —, au fost create lucruri bune, ba chiar «foarte bune»: «Și a văzut Dumnezeu că erau bune, și Dumnezeu le-a binecuvântat» — tocmai din pricina bunătății lor celei mari, cu siguranță nu fiindcă erau rele sau foarte rele. Schimbarea e deci îngăduită în Materie; și, fiind așa, ea și-a pierdut condiția veșniciei; într-un cuvânt, frumusețea ei se ofilește în moarte."
       },
       {
-        "author": "Fericitul Augustin, Despre Geneza pe litera 15.50 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Geneza pe litera 15.50",
         "text": "Dumnezeu a voit ca binecuvântarea să aibă puterea rodniciei, arătată în urmașii care se succed. Astfel, deși animalele au fost făcute slabe și muritoare, ele puteau, prin acea binecuvântare, să-și păstreze specia, dând naștere altora."
       },
       {
-        "author": "Ambrozie al Milanului, Cele șase zile ale creației (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Cele șase zile ale creației",
         "text": "Ce neamuri curate și neîntinate se urmează unele după altele, fără amestecare, astfel încât lipanul naște lipan, iar lupul-de-mare naște lup-de-mare... Peștii, deci, nu cunosc unirea cu specii străine. Ei n-au logodne nefirești, așa cum se fac, cu bună știință, între animale de două specii diferite — precum măgarul și iapa. Omul, ca sprijinitor al sterilității hibride, e răspunzător de aceasta: el socotește un animal corcit mai de preț decât unul de soi curat."
       }
     ],
@@ -5215,11 +5207,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Alt verset-formulă, fără notă separată la comentatorii clasici verificați — vezi discuția tiparului „a fost seară, a fost dimineață” la v.5."
-      },
-      {
-        "author": "John Gill, Expunerea întregii Biblii (verificat direct din text, extras)",
+        "author": "John Gill, Expunerea întregii Biblii",
         "text": "A fost seară și a fost dimineață, ziua a cincea. Soarele, acum așezat în tărie unde fusese fixat cu o zi înainte, făcuse ocolul pământului — sau pământul, ocolul lui — în răstimp de douăzeci și patru de ore. După Capellus, aceasta ar fi fost pe douăzeci și doi aprilie; după alții, pe cinci septembrie; iar după episcopul Ussher, pe douăzeci și șapte octombrie."
       }
     ],
@@ -5493,23 +5481,23 @@ window.CHAPTER_DATA = [
         "text": "Distinge patru categorii: „suflet viu” ca termen general pentru orice ființă generată din foc, apă și pământ (inclusiv omul), „dobitoace” — cele aflate lângă om, pentru călărit și hrană —, „târâtoare” — vietăți mici de pe pământ —, și „fiarele pământului” — cele din sălbăticie, neîmblânzite."
       },
       {
-        "author": "Origen, Omilii la Facere 1.11 (verificat direct din text)",
+        "author": "Origen, Omilii la Facere 1.11",
         "text": "În acest text, cred că sunt arătate pornirile omului nostru celui din afară, adică ale omului trupesc și pământesc, prin ceea ce se spune: «Să dea pământul din sine viețuitoare după soiul lor, dobitoace, târâtoare și fiare ale pământului, după soiul lor.» Textul n-a arătat nimic înaripat printre aceste lucruri spuse despre trup, ci doar «dobitoace, târâtoare și fiare ale pământului» — potrivit cu ce spune apostolul, că «în trupul meu nu locuiește nimic bun» și că «înțelepciunea trupului e vrăjmașă lui Dumnezeu»."
       },
       {
-        "author": "Chiril al Ierusalimului, Cateheza 9:13 (verificat direct din text)",
+        "author": "Chiril al Ierusalimului, Cateheza 9:13",
         "text": "A zis Dumnezeu: «Să dea pământul din sine viețuitoare după soiul lor.» Firi deosebite de animale au izvorât dintr-un singur pământ, la o singură poruncă — oaia cea blândă și leul cel sfâșietor — și felurite înclinații ale dobitoacelor necuvântătoare, ce arată asemănări cu multe firi omenești. Astfel vulpea închipuie viclenia oamenilor, șarpele înșelăciunea otrăvitoare a prietenilor mincinoși, iar calul care necheza, tânărul desfrânat. Este și furnica cea harnică, ca să trezească pe cel leneș și molatic."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 7.13 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 7.13",
         "text": "Nu doar spre folosul nostru a produs El toate acestea; ci și spre binele nostru, ca să vedem belșugul covârșitor al făpturilor Lui și să fim copleșiți de puterea Ziditorului, și să putem cunoaște că toate acestea au fost aduse la ființă printr-o anume înțelepciune și o iubire negrăită, având în vedere pe omul ce avea să vină."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 1.27 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 1.27",
         "text": "După ce Moise a vorbit despre crearea vietăților mișunătoare, a păsărilor și a șerpilor de mare din ziua a cincea, s-a întors să scrie despre târâtoare, animale și fiare, create în ziua a șasea, zicând: «Să dea pământul din sine viețuitoare după soiul lor: dobitoace, târâtoare și fiare.» Deși tot pământul mișuna de vietăți târâtoare, totuși dobitoacele și fiarele au fost făcute la hotarul Raiului, ca să locuiască la locul rânduit lui Adam."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
         "text": "Antichități Iudaice 1.27: „În ziua a șasea a creat neamul patrupedelor, făcându-le fie parte bărbătească, fie femeiască; printre acestea a întruchipat și omul.” Notabil: Josephus include crearea omului în aceeași frază cu a patrupedelor, ca ultimă categorie a zilei a șasea, fără să marcheze separarea solemnă pe care Geneza 1:26-27 o dă creării omului (sfatul divin „să facem om”, chipul și asemănarea)."
       }
     ],
@@ -5794,11 +5782,11 @@ window.CHAPTER_DATA = [
         "text": "Explică „a făcut fiarele pământului după soiul lor” ca acordarea, pentru fiecare specie, a simțurilor și capacităților potrivite exact nevoilor ei specifice — o proiectare individualizată, nu una uniformă."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și a făcut Dumnezeu fiarele pământului după soiul lor, dobitoacele și toate târâtoarele pământului după soiul lor. Trebuie observată schimbarea cuvintelor: mai sus se spune că Dumnezeu a poruncit pământului să scoată fiarele, dobitoacele și târâtoarele; iar acum, în ordine schimbată, se spune că Dumnezeu Însuși a făcut fiarele, dobitoacele și târâtoarele. Trebuie înțeles că tot ce a fost voit s-a întâmplat mai iute decât s-a putut spune; și nu contează că vorbirea omenească numește lucrurile pe rând, când puterea dumnezeiască le-a creat pe toate deodată."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Dar când urmează: «Și a văzut Dumnezeu că era bine», se întreabă pe drept cuvânt de ce nu se adaugă aici ceea ce s-a spus despre viețuitoarele scoase din ape: «Și le-a binecuvântat, zicând: Creșteți și vă înmulțiți.» Poate fiindcă ceea ce fusese spus despre prima creare a sufletului viu ne-a lăsat să înțelegem același lucru și despre a doua? Mai ales că, în lucrările acestei zile, avea să adauge mai apoi multe alte lucruri; iar despre om, a avut grijă să repete neapărat aceasta, zicând: «Și i-a binecuvântat Dumnezeu, și le-a zis: Creșteți și vă înmulțiți», ca nimeni să nu creadă că unirea cea cinstită s-ar putea asemăna cu desfrânarea cea păcătoasă și rușinoasă."
       }
     ],
@@ -6121,19 +6109,19 @@ window.CHAPTER_DATA = [
         "text": "Discută citirea plurală „să facem” — unii o leagă gramatical de un participiu pasiv, alții susțin că „în chipul nostru” s-ar referi de fapt la Moise vorbind despre sine. Ibn Ezra respinge ambele lecturi ca „lipsite de sens”, insistând pe explicația simplă: Dumnezeu vorbește la plural de curtoazie regală, păstrată în ebraică pentru superiori."
       },
       {
-        "author": "Grigorie de Nyssa, Despre facerea omului 6 (verificat direct din text)",
+        "author": "Grigorie de Nyssa, Despre facerea omului 6",
         "text": "Cel ce a zis «Să facem om», arătând, prin acest plural, Sfânta Treime, n-ar fi vorbit despre «chip» la singular, dacă modelele ar fi fost deosebite unul de altul. Căci n-ar fi cu putință să arăți un singur chip pentru ființe care nu se potrivesc între ele. Dar dacă firile ar fi fost diferite, El ar fi fost, cu siguranță, izvorul unor chipuri diferite, făcând chipul potrivit fiecărei firi."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron (a șasea citare din Geneza 1, verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron",
         "text": "Nu strălucește, oare, prin aceste cuvinte, lumina teologiei, ca printr-o fereastră? Și nu Se arată, oare, în chip tainic, a doua Persoană, fără să Se descopere încă până în ziua cea mare? Unde e cel ce s-a împotrivit adevărului și a pretins că Dumnezeu vorbea cu Sine Însuși? Dar unde e fierarul, dulgherul sau cizmarul care, singur înaintea uneltelor meseriei lui, ar zice: «Să facem sabia», «să facem cizma»? Oare nu-și îndeplinește lucrarea meșteșugului său în tăcere? Aici cuvintele le astupă gura: «Și a zis Dumnezeu: Să facem om.» Spune-mi, e oare o singură Persoană? Nu s-a scris «Să se facă om», ci «Să facem om»."
       },
       {
-        "author": "Irineu, Împotriva ereziilor 5.15.1 (verificat direct din text)",
+        "author": "Irineu, Împotriva ereziilor 5.15.1",
         "text": "În vremurile de demult, e drept, se spunea despre om că a fost făcut după chipul lui Dumnezeu, dar acest lucru nu fusese încă descoperit — căci Cuvântul, după al Cărui chip a fost făcut omul, era încă nevăzut. De aceea omul și-a pierdut cu ușurință asemănarea. Dar când Cuvântul lui Dumnezeu S-a făcut trup, El a întărit deopotrivă chipul și asemănarea: pe de o parte, a arătat cu adevărat chipul, devenind El Însuși ceea ce era chipul Său; pe de alta, a statornicit asemănarea, prin apropierea omului de Tatăl cel nevăzut, prin Cuvântul cel văzut."
       },
       {
-        "author": "Ioan Gură de Aur, Predici la Facere 2.1 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Predici la Facere 2.1",
         "text": "Mai întâi, merită să ne întrebăm de ce Dumnezeu n-a zis, la crearea cerurilor, «Să facem cerurile», ci «Să fie cer»... «Să fie lumină», și tot așa la fiecare lucrare a creației. «Să facem», însă, arată sfat, lucrare împreună și sfătuire cu altcineva. Așadar, ce anume merită atâta cinste la crearea lui? Omul — cea mai mare și mai minunată dintre viețuitoare, făptura cea mai vrednică de cinste înaintea lui Dumnezeu. Acest sfat, această lucrare împreună și această comuniune nu sunt aici fiindcă Dumnezeu ar avea nevoie de sfat, ci ca însuși felul vorbirii despre crearea noastră să ne arate cinstea."
       },
       {
@@ -6141,7 +6129,7 @@ window.CHAPTER_DATA = [
         "text": "Ideea „chipului” unei divinități era, în Orientul Apropiat antic, aproape exclusiv un privilegiu regal — statuile și titlurile de „chip al zeului” se aplicau de obicei doar regilor și faraonilor, ca justificare a autorității lor. Geneza extinde radical acest limbaj: nu doar regele, ci fiecare ființă umană poartă „chipul lui Dumnezeu” — o democratizare a demnității care contrastează puternic cu ideologia regală a vecinilor Israelului."
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:14 rezumă crearea omului într-o singură propoziție („bărbat și femeie i-a zidit, și i-a dat stăpânire peste tot ce este pe pământ”), fără elementul „chipului și asemănării” dezvoltat explicit — accentul cade pe stăpânire, nu pe asemănarea cu Dumnezeu ca atare."
       }
     ],
@@ -6351,24 +6339,24 @@ window.CHAPTER_DATA = [
         "text": "Oferă o definiție filozofică pentru cuvântul „Elohim” care merită reținută: el se aplică oricărei ființe efectiv inteligente, întregi, neschimbătoare și, tocmai de aceea, veșnice — indiferent dacă e vorba de Dumnezeu, de îngeri, sau (impropriu) de judecători. Omul, spune Sforno, se naște doar cu potențialul acestei calități, nu cu ea împlinită — de-abia atunci când își dezvoltă cu adevărat înțelepciunea devine cu adevărat „în chipul lui Dumnezeu”; până atunci, rămâne doar posibilitate, nu realitate. Citează în sprijin Psalmul 49:21: „omul pus în cinste, dar fără pricepere, se aseamănă cu dobitoacele care pier”.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
       },
       {
-        "author": "Tertulian, Împotriva lui Praxeas 12 (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Praxeas 12",
         "text": "El deosebește între Persoane: «Și a creat Dumnezeu pe om după chipul Său; după chipul lui Dumnezeu l-a creat.» De ce spune «chipul lui Dumnezeu»? De ce nu doar «chipul Său», dacă ar fi fost unul singur Cel ce l-a făcut, și n-ar mai fi existat Cineva după al Cărui chip l-a făcut pe om? Dar exista Cineva după al Cărui chip Dumnezeu îl făcea pe om — adică chipul lui Hristos, Care, urmând să Se facă Om într-o zi, făcuse deja ca omul să fie numit chipul Său, omul ce avea să fie plăsmuit din lut — chipul și asemănarea Omului celui adevărat și desăvârșit."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Hexaimeron (a șaptea citare din Geneza 1, verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Hexaimeron",
         "text": "Nu «au făcut» — aici Scriptura ocolește pluralitatea Persoanelor. După ce l-a luminat pe evreu, risipește și rătăcirea neamurilor, punându-se sub adăpostul unității, ca să înțelegeți că Fiul e împreună cu Tatăl, ferindu-vă totodată de primejdia politeismului. «L-a creat după chipul lui Dumnezeu» — Dumnezeu ne arată din nou Lucrătorul de-împreună cu El, căci nu zice «după chipul Meu», ci «după chipul lui Dumnezeu»."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 1.29.2 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 1.29.2",
         "text": "Apoi Moise a zis: «Bărbat și femeie i-a creat pe ei», ca să facă cunoscut că Eva era înăuntrul lui Adam, în coasta scoasă din el. Deși nu era în mintea lui, era în trupul lui, era în trupul lui împreună cu el, și era și în suflet și duh împreună cu el, căci Dumnezeu n-a adăugat nimic acelei coaste luate afară, în afară de alcătuire și podoabă. Dacă tot ce era potrivit pentru Eva, cea ieșită din coastă, era deplin numai din coastă, atunci bine s-a spus: «bărbat și femeie i-a creat pe ei»."
       },
       {
-        "author": "Origen, Omilii la Facere 1.15 (verificat direct din text)",
+        "author": "Origen, Omilii la Facere 1.15",
         "text": "Omul nostru cel dinăuntru e alcătuit din duh și suflet. Duhul se spune că e de parte bărbătească; sufletul poate fi numit de parte femeiască. Dacă acestea două au înțelegere și armonie între ele, cresc și se înmulțesc chiar prin această armonie, și nasc fii — bună înclinație și înțelegeri sau gânduri folositoare — prin care umplu pământul și-l stăpânesc."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
-        "text": "Antichități Iudaice 1.28 (verset separat la Josephus): Josephus mută relatarea detaliată a creării lui Adam din țărână, apoi a Evei din coasta lui în timpul somnului, într-un paragraf distinct de rezumatul celor șase zile — practic o repovestire paralelă a Genezei 2:7 și 2:21-23, integrată aici înaintea propriei sale mențiuni despre etimologia numelor Adam („roșu”, de la țărâna roșie) și Eva („mama tuturor viețuitoarelor”)."
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
+        "text": "Dumnezeu l-a plămădit pe om, luând țărână din pământ, și l-a înzestrat cu suflare de viață și duh. Și omul acesta s-a numit Adam, adică, în limba ebraică, «roșu», fiindcă a fost făcut din țărână roșie înmuiată. A adus Dumnezeu înaintea lui Adam fiecare soi de animal, arătându-i partea bărbătească și partea femeiască; iar El le-a dat numele pe care-l poartă până azi. Văzând însă că Adam era lipsit de tovarășia și apropierea unei femei — căci nu era încă niciuna —, Dumnezeu i-a luat în timpul somnului o coastă și a făcut din aceasta femeia; de îndată ce a văzut-o, Adam a recunoscut că ea fusese făcută dintr-o parte a lui. În limba ebraică femeii i se zice Ișa; dar ea a primit numele de Eva, ceea ce înseamnă «mama tuturor viețuitoarelor»."
       }
     ],
     "textCompare": [
@@ -6704,23 +6692,23 @@ window.CHAPTER_DATA = [
         "text": "Explică „supuneți-l” prin forma gramaticală neintensivă a verbului, spre deosebire de o formă intensivă folosită în alt context — o nuanță lingvistică despre gradul de „subjugare” cerut."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 10.9 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 10.9",
         "text": "Deci, după ce a spus «bărbat și femeie i-a făcut», ca să dea parcă o binecuvântare fiecăruia, continuă: «Dumnezeu i-a binecuvântat, zicând: Creșteți și vă înmulțiți, umpleți pământul și-l stăpâniți, și aveți putere peste peștii mării.» Priviți felul deosebit al acestei binecuvântări! Cuvintele «creșteți, înmulțiți-vă și umpleți pământul» oricine poate vedea că se spun deopotrivă și despre dobitoacele necuvântătoare; dar «stăpâniți și aveți putere» se îndreaptă către bărbat și femeie. Priviți bunătatea iubitoare a Domnului: încă înainte de a-i crea, îi face părtași la această stăpânire și le dăruiește binecuvântarea."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 1.30 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 1.30",
         "text": "«Și i-a binecuvântat Dumnezeu, zicându-le: Creșteți și vă înmulțiți, și umpleți pământul, și-l stăpâniți; și aveți domnie peste peștii mării, peste păsări și peste orice vietate ce se târăște pe pământ.» Fiindcă au fost binecuvântați pe acest pământ, e ca și cum acest sălaș ar fi fost pregătit pentru ei încă dinainte de păcatul lor. Căci, deși nu păcătuiseră încă, Dumnezeu știa că aveau să păcătuiască."
       },
       {
-        "author": "Grigorie de Nyssa, Despre obârșia omului (verificat direct din text)",
+        "author": "Grigorie de Nyssa, Despre obârșia omului",
         "text": "Există două feluri de a «crește»: în trup și în suflet. Sufletul crește prin educație, înaintând spre desăvârșire; trupul crește prin dezvoltare, de la mic la mare. Astfel, animalelor lipsite de rațiune le-a poruncit să crească prin dezvoltarea trupului. Dar nouă ne-a spus «creșteți» în omul cel dinăuntru, pe căile ce duc spre Dumnezeu."
       },
       {
-        "author": "Fericitul Augustin, Despre Geneza pe litera 9.3.5-6 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Geneza pe litera 9.3.5-6",
         "text": "Dacă cineva ar întreba de ce a fost nevoie să i se facă omului un ajutor, răspunsul cel mai probabil pare a fi acela că era pentru nașterea de copii, așa cum pământul e un ajutor pentru sămânță, la producerea unei plante din unirea celor două. Acest scop a fost arătat chiar la crearea dintâi a lumii: «Bărbat și femeie i-a făcut. Și Dumnezeu i-a binecuvântat, și a zis: Creșteți și vă înmulțiți, umpleți pământul și-l stăpâniți.» Acest motiv al creării și unirii bărbatului cu femeia, ca și această binecuvântare, n-a fost desființat după păcatul și pedeapsa omului."
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:14 leagă direct binecuvântarea de stăpânire de actul creării înseși, fără separarea pe care Geneza o face între „a-i crea” (v. 27) și „a-i binecuvânta, zicând...” (v. 28) — o comprimare stilistică tipică rezumatelor din Jubilee."
       }
     ],
@@ -6997,19 +6985,19 @@ window.CHAPTER_DATA = [
         "text": "Precizează scopul dării plantelor: erau pentru consumul uman — o distincție clară față de versetul următor, unde vegetația e dată separat animalelor."
       },
       {
-        "author": "Grigorie de Nyssa, Despre obârșia omului (verificat direct din text)",
+        "author": "Grigorie de Nyssa, Despre obârșia omului",
         "text": "Observăm totuși că multe fiare sălbatice nu mănâncă rod. Ce rod mănâncă panterul? Ce rod dă putere leului? Și totuși aceste făpturi, supunându-se legilor firii, mâncau roade. Și tot așa, când omul cel dintâi și-a schimbat felul de viață și a călcat hotarele puse lui, Domnul, după potop, cunoscând risipa oamenilor, le-a îngăduit să folosească orice hrană. Odată ce li s-a îngăduit aceasta oamenilor, și celelalte animale au primit libertatea de a mânca. Așa a ajuns leul mâncător de carne, și vulturul caută stârvuri."
       },
       {
-        "author": "Origen, Omilii la Facere 1.17 (verificat direct din text)",
+        "author": "Origen, Omilii la Facere 1.17",
         "text": "Sensul istoric al acestei propoziții arată limpede că, la început, Dumnezeu a îngăduit folosirea hranei din regnul vegetal — legume și roade ale pomilor. Dar prilejul de a mânca și carne le e dat oamenilor mai târziu, când s-a făcut un legământ cu Noe, după potop."
       },
       {
-        "author": "Fericitul Augustin, Împotriva lui Iulian 4.4.69 (verificat direct din text)",
+        "author": "Fericitul Augustin, Împotriva lui Iulian 4.4.69",
         "text": "Eu însumi mă alătur celor ce, luând în seamă cuvintele «bărbat și femeie i-a creat, zicând: Creșteți și vă înmulțiți și umpleți pământul», le înțeleg ca referindu-se la sexul văzut și trupesc. Aceasta reiese limpede din ce urmează: «Și a zis Dumnezeu: Iată, v-am dat toată iarba ce face sămânță... vouă vă va fi de hrană.» Observați că amândoi, bărbatul și femeia, foloseau pentru trup aceeași hrană ca și celelalte animale — hrană primită, într-un anume fel, în chip nemuritor, și din pomul vieții, ca să nu moară de bătrânețe."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și a zis Dumnezeu: Iată, v-am dat toată iarba ce face sămânță pe fața pământului, și toți pomii care au în ei sămânța soiului lor, ca să vă fie hrană — vouă, și tuturor fiarelor pământului, și fiecărei păsări. E limpede acum că, înainte de vina omului, pământul nu producea nimic vătămător, nicio iarbă otrăvitoare, niciun pom sterp — de vreme ce s-a spus clar că toată iarba și toți pomii au fost dați spre hrană oamenilor, păsărilor și tuturor fiarelor pământului, e vădit că nici păsările nu trăiau înhățând prin viclenie, nici lupul nu pândea în jurul staulelor, nici țărâna nu era pâinea șarpelui, ci toate mâncau în bună înțelegere ierburile verzi și roadele pomilor."
       },
       {
@@ -7231,11 +7219,7 @@ window.CHAPTER_DATA = [
         "text": "Explică: pentru toate fiarele pământului și animalele domestice, Dumnezeu a dat ca hrană tipurile de ierburi care nu se reproduc prin sămânță — o distincție tehnică față de plantele cu sămânță date special omului la v.29."
       },
       {
-        "author": "Notă contextuală (sinteză editorială)",
-        "text": "Ideea că interdicția cărnii ține până la Noe (Geneza 9:3) apare explicit în comentariul real al lui Rashi la v.29, nu ca notă separată la v.30 — motiv pentru care aici am păstrat doar sursa verificată direct pe acest verset (Sforno)."
-      },
-      {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și așa a fost — adică omul avea să stăpânească peste tot ce fusese creat pe uscat sau în ape, și avea să primească putința și puterea de a mânca din roadele pământului, împreună cu păsările cerului și viețuitoarele pământului."
       }
     ],
@@ -7484,7 +7468,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Talmudul Babilonian, Șabat 88a (corectat — citat verificat direct în arhivă; citarea inițială \"Avodah Zarah 3b\" era greșită)",
+        "author": "Talmudul Babilonian, Șabat 88a",
         "text": "Reish Lakiș explică de ce cuvântul „a șasea” (ziua a șasea) e singurul din tot capitolul care primește articolul hotărât (ה) în ebraică: litera în plus arată că Dumnezeu a pus o condiție cu întreaga lucrare a creației, spunându-i: „Dacă Israel va primi Tora [în ziua a șasea a lunii Sivan], veți exista; dacă nu, vă voi întoarce la haosul dinainte (tohu va-vohu).” De aceea, spune Talmudul, pământul „s-a temut” (Psalmul 76:9) până la primirea Torei la Sinai, temere care a încetat abia atunci."
       },
       {
@@ -7492,27 +7476,27 @@ window.CHAPTER_DATA = [
         "text": "Explică aceeași particularitate a literei „ה” la „ziua a șasea”: Dumnezeu a pus o condiție asupra întregii creații — că avea să dureze doar dacă Israel primea cele cinci cărți ale Torei (a cincea literă a alfabetului, ה, valorează cinci). O altă explicație citată de Rashi: toate zilele creației așteptau, de fapt, ziua a șasea a lunii Sivan — ziua rânduită pentru primirea Torei la Sinai — ca și cum abia atunci lumea ar fi fost cu adevărat întemeiată."
       },
       {
-        "author": "Grigorie de Nazianz, Omilii la Facere 44 (verificat direct din text)",
+        "author": "Grigorie de Nazianz, Omilii la Facere 44",
         "text": "A făcut o zi întâi, o a doua, o a treia, și așa mai departe, până la ziua a șaptea, care a fost odihnă de la lucru. După aceste zile, toată creația a fost împărțită, adusă într-o rânduială după legi de negrăit. Așa că zidirea n-a fost o lucrare dintr-o clipă a Cuvântului celui atotputernic; căci pentru El, a gândi sau a grăi înseamnă a și împlini lucrul. Dacă omul a intrat cel din urmă în lume — și încă în așa fel încât să cinstească lucrarea mâinilor lui Dumnezeu cu chipul lui Dumnezeu — nu e oare acesta un lucru minunat? E ca și cum ai spune că, drept împărat, a pregătit mai întâi palatul, și abia apoi, ca împărat, când totul era gata, a intrat el însuși în alai."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Numărul șase e socotit desăvârșit, fiindcă se împlinește prin părțile lui: a șasea parte, care e unu; a treia, care e doi; și jumătatea, care e trei. Într-adevăr, unu și doi și trei alcătuiesc șase — lucru pe care nu-l vei mai găsi nicăieri altundeva printre numerele de la unu la zece, nici printre zeci, în afară de douăzeci și opt. De aceea, în șase zile Dumnezeu a desăvârșit toată podoaba cerului și a pământului, ca astfel Cel ce a rânduit toate după măsură, număr și greutate să ne învețe că și lucrările Sale sunt desăvârșite chiar în acest număr în care a lucrat."
       },
       {
-        "author": "Fericitul Augustin, Despre Treime 4.4.7 (verificat direct din text)",
+        "author": "Fericitul Augustin, Despre Treime 4.4.7",
         "text": "Sfânta Scriptură ne recomandă desăvârșirea numărului șase mai ales prin aceasta: că Dumnezeu Și-a împlinit lucrările în șase zile, și l-a făcut pe om după chipul lui Dumnezeu în ziua a șasea. Iar Fiul lui Dumnezeu a venit în a șasea vârstă a neamului omenesc și S-a făcut Fiul Omului, ca să ne rezidească după chipul lui Dumnezeu. Aceasta e vârsta în care ne aflăm acum. Astfel, nașterea Domnului a deschis vârsta a șasea, care ține și acum, până la sfârșitul cel ascuns al vremii."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 3.12 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 3.12",
         "text": "Mâna Lui cea atotputernică și înțelepciunea Lui fără margini n-ar fi fost în încurcătură nici dacă ar fi creat totul într-o singură zi. De ce spun «o singură zi»? Chiar și într-o clipă. Dar n-a fost din pricina folosului Său că a adus la ființă tot ce există, de vreme ce, fiind de Sine îndestulat, n-are nevoie de nimic. Ci mai degrabă din bunătatea și iubirea Lui de oameni a creat totul; de aceea a creat lucrurile în șir, și ne-a dat o învățătură limpede despre făpturi prin limba fericitului scriitor, ca să le cunoaștem cu precizie și să nu cădem în rătăcirea celor călăuziți doar de rațiunea omenească."
       },
       {
-        "author": "Flavius Josephus, Antichități Iudaice, Cartea I (verificat direct din textul deja tradus în aplicație)",
+        "author": "Flavius Josephus, Antichități Iudaice, Cartea I",
         "text": "Antichități Iudaice 1.27, încheiere: „După spusele lui Moise, lumea, cu tot ce cuprinde, a fost creată în aceste șase zile; în cea de-a șaptea însă Dumnezeu S-a odihnit... De aceea și noi ne abținem de la orice muncă în această zi, pe care am numit-o sabat.” Josephus leagă direct verdictul final al creației („foarte bine”, Geneza 1:31) de instituirea Sabatului — deși, strict vorbind, Sabatul e narat abia la Geneza 2:1-3, nu la sfârșitul capitolului 1."
       },
       {
-        "author": "Cartea Jubileelor — comparație (apocrif VT, verificat direct din textul deja tradus în aplicație)",
+        "author": "Cartea Jubileelor — comparație",
         "text": "Cartea Jubileelor 2:16 încheie ziua a șasea aproape identic cu Geneza 1:31: „El a isprăvit toată lucrarea Sa... tot ce este în ceruri și pe pământ, și în mări, și în adâncuri, și în lumină, și în întuneric, și în toate” — o formulă de încheiere solemnă, paralelă cu cea biblică."
       }
     ],

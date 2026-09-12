@@ -170,19 +170,19 @@ window.CHAPTER_DATA = [
         "text": "Notează o particularitate gramaticală: „vayechulu” (au fost isprăvite) e la o formă pasivă specială, în care subiectul gramatical rămâne nerostit — comparabilă cu expresia „toți munții au fost acoperiți” [de la potop]. Explică și de ce „oceanul” nu e menționat separat: e deja inclus în „pământ”, cele două formând, gramatical, o singură unitate în text."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 10.18 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 10.18",
         "text": "Vedeți, spunând aici că Dumnezeu S-a odihnit de lucrările Sale, Scriptura ne învață că El a încetat să mai creeze, aducând din neființă la ființă, în ziua a șaptea — pe când Hristos, zicând «Tatăl Meu lucrează până acum, și Eu lucrez», ne descoperă purtarea Lui de grijă neîncetată: El numește «lucrare» susținerea făpturilor, dăruirea statorniciei lor și cârmuirea lor prin toată vremea. Căci altfel, cum ar fi dăinuit toate, fără mâna de sus care să călăuzească toate cele văzute, și pe om deopotrivă?"
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 1.32-33 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 1.32-33",
         "text": "De la ce trudă S-a odihnit Dumnezeu? Căci făpturile ce au apărut în ziua întâi au apărut prin subînțelegere, în afară de lumină, care a venit prin cuvântul Lui. Ce trudă e pentru noi când rostim un singur cuvânt? Așadar, ce trudă ar fi putut fi pentru Dumnezeu să rostească un cuvânt pe zi? Nu fiindcă S-ar fi odihnit în acea zi a binecuvântat și a sfințit Dumnezeu, Care nu obosește, ziua a șaptea — ci a dat-o poporului, ca să arate, printr-o odihnă vremelnică dată unui popor vremelnic, taina odihnei celei adevărate, ce va fi dată poporului celui veșnic, în lumea cea veșnică."
       },
       {
-        "author": "Beda Venerabilul, Omilii la Evanghelii 2.17 (verificat direct din text)",
+        "author": "Beda Venerabilul, Omilii la Evanghelii 2.17",
         "text": "Sub Lege, poporul avea poruncă să lucreze șase zile și să se odihnească a șaptea... fiindcă Domnul a împlinit crearea lumii în șase zile și a încetat lucrarea Sa în a șaptea. Tâlcuind duhovnicește, suntem sfătuiți prin toate acestea că cei ce, în viață, se dăruiesc faptelor bune de dragul Domnului, sunt duși de Domnul, în viitor, la sabat — adică la odihna cea veșnică."
       },
       {
-        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament (verificat direct din text)",
+        "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
         "text": "Și toată oștirea lor. Cuvântul «oaste» înseamnă, propriu-zis, o armată, alcătuită din mai multe cete de ostași sub căpeteniile lor; și pare aplicat aici, cu multă eleganță, diferitelor trupuri cerești ale sistemului nostru, așezate de înțelepciunea dumnezeiască sub influența soarelui. Din traducerea Septuagintei acestui loc, «tot alaiul lor» (πᾶς ὁ κόσμος αὐτῶν), aflăm adevăratul înțeles al cuvântului κόσμος, tradus de obicei prin «lume», care înseamnă un întreg împodobit sau rânduit."
       }
     ],
@@ -369,15 +369,15 @@ window.CHAPTER_DATA = [
         "text": "Se oprește la o problemă aparent simplă: dacă Dumnezeu a încheiat lucrarea „în ziua a șaptea”, înseamnă că a mai lucrat și în acea zi? Rashi răspunde: Dumnezeu a creat, chiar în ultima clipă a zilei a șasea, ceva ce omul nu-l poate percepe cu simțurile — <span class=\"heb-inline\">מְנוּחָה</span> („odihna” însăși) — astfel încât „lucrarea” încheiată exact la începutul zilei a șaptea a fost odihna. E un joc fin de cuvinte: chiar „odihna” devine ultimul act de creație."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Capitolul 2, Versetul 2) Și în ziua a șasea Dumnezeu Și-a isprăvit lucrarea pe care o făcuse, și S-a odihnit în ziua a șaptea de toată lucrarea Sa pe care o făcuse. Așadar, îi vom combate pe evrei, care se fălesc cu odihna Sabatului, fiindcă încă de la început Sabatul a fost, ca să zicem așa, „desființat”, de vreme ce Dumnezeu lucrează în ziua Sabatului, isprăvindu-Și lucrarea chiar în ea, și binecuvântând ziua însăși — căci în ea a isprăvit totul."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Astfel Dumnezeu Și-a isprăvit lucrarea în ziua a șaptea, pe care o făcuse. Fiindcă a încheiat numărul zilelor pe care le făcuse, adăugând chiar ziua a șaptea, pe care a voit s-o numească și să fie Sabat, dăruindu-i o binecuvântare și sfințire tainică deosebită de celelalte. De aceea și ziua judecății și a împlinirii lumii, fiindcă are să vină după sabatul cel de-al șaptelea, e numită în Scripturi «a opta», anume fiindcă doar șapte îi premerg."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și S-a odihnit în ziua a șaptea de toată lucrarea Sa pe care o făcuse. Nu ca și cum Dumnezeu S-ar fi odihnit ca un om obosit, din pricina slăbiciunii omenești, după ce a isprăvit crearea lumii; ci se spune că S-a odihnit de toată lucrarea Sa fiindcă a încetat de atunci să mai creeze vreo făptură nouă. Căci Scriptura folosește adesea cuvântul «odihnă» ca să arate încetarea unei lucrări sau a unei vorbiri."
       }
     ],
@@ -608,15 +608,15 @@ window.CHAPTER_DATA = [
         "text": "Notează ordinea neobișnuită a ultimelor cuvinte ale versetului — „pe care o crease Dumnezeu spre a fi făcută” (nu doar „pe care o făcuse”): înțelege asta ca declarând scopul creației din cele șase zile — ca, de atunci încolo, fiecare specie să-și continue urmașii, potrivit felului ei."
       },
       {
-        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 22.30 (verificat direct din text)",
+        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 22.30",
         "text": "Și cerul va fi împlinirea acelei odihne de sabat prevestite în porunca: «Stați liniștiți și cunoașteți că Eu sunt Dumnezeu.» Acesta va fi, într-adevăr, sabatul cel din urmă, care n-are seară, și pe care Domnul l-a prefigurat în istorisirea creației: «Și S-a odihnit Dumnezeu în ziua a șaptea de toată lucrarea Sa pe care o făcuse. Și a binecuvântat ziua a șaptea și a sfințit-o, fiindcă în ea S-a odihnit de toată lucrarea Sa.» Și noi înșine vom fi o «zi a șaptea», atunci când vom fi umpluți de binecuvântarea Lui și refăcuți prin sfințirea Lui. În liniștea acelei odihne vom vedea că El e Dumnezeul a cărui dumnezeire am dorit-o pentru noi înșine când am ascultat cuvintele ademenitorului: «Veți fi ca niște dumnezei» — și astfel am căzut de la El, Dumnezeul cel adevărat."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și a binecuvântat ziua a șaptea și a sfințit-o. Adică cu binecuvântarea și sfințirea pe care avea să le arate mai deplin poporului Său prin Lege, zicând: «Adu-ți aminte de ziua Sabatului, ca s-o sfințești. Șase zile să lucrezi și să-ți faci toată lucrarea ta; iar ziua a șaptea e Sabatul Domnului Dumnezeului tău.» Căci așa cum prin jertfele dese din Lege era închipuit sângele Patimii Domnului, care avea să fie vărsat o singură dată pentru mântuirea lumii, tot așa, prin odihna zilei a șaptea, era prefigurată acea mare zi a Sabatului în care Domnul avea să Se odihnească, o singură dată, în mormânt."
       },
       {
-        "author": "Ambrozie al Milanului, Cele șase zile ale creației (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Cele șase zile ale creației",
         "text": "El a creat cerul și pământul pe vremea când începeau lunile, de la care se cuvine să se socotească nașterea lumii. Atunci era blânda vreme a primăverii, anotimp potrivit pentru toate. De aceea și anul poartă pecetea unei lumi ce se naște. Ca să arate că zidirea lumii a avut loc primăvara, Scriptura zice: «Luna aceasta să vă fie începutul lunilor; ea să fie pentru voi cea dintâi din lunile anului» — numind luna cea dintâi „vremea primăverii”."
       }
     ],
@@ -837,19 +837,15 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Versetul marchează schimbarea de nume divin — de la „Elohim” (folosit constant în capitolul 1) la combinația „DOMNUL Dumnezeu” (יְהוָה אֱלֹהִים) — o observație clasică, discutată pe larg în tradiția rabinică, dar pentru care sursele verificate direct în arhivă (Rashi, Ibn Ezra, Ramban, Sforno, Radak) nu au un comentariu specific la acest verset exact."
-      },
-      {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Acestea sunt nașterile cerului și pământului, la crearea lor. Prin această încheiere, Scriptura se adresează celor ce susțin că lumea a existat mereu, fără de început, sau celor ce cred că lumea a fost, ce-i drept, făcută de Dumnezeu, dar dintr-o materie nefăcută de Dumnezeu, coveșnică Ziditorului. Căci se spune că «nașterile cerului și pământului» sunt chiar rânduiala așezării dumnezeiești, prin care podoaba lor, prin lucrările celor șase zile, a ajuns la acea desăvârșire descrisă mai sus."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.1 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.1",
         "text": "După ce a vorbit despre odihna Sabatului, și cum Dumnezeu a binecuvântat și a sfințit această zi, Scriptura se întoarce la istorisirea așezării dintâi a creației, trecând acum, în puține cuvinte, peste lucrurile deja spuse, și povestind mai pe larg cele lăsate deoparte mai înainte. Astfel începe să descrie a doua oară istoria creației: «Acestea sunt nașterile cerului și pământului, la crearea lor, în ziua când Dumnezeu a făcut cerul și pământul.»"
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 12.4 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 12.4",
         "text": "Când a spus «cer și pământ», a cuprins totul laolaltă în aceste cuvinte, atât cele de pe pământ, cât și cele din cer. Așa cum, în istorisirea făpturilor, nu le pomenește pe toate una câte una, ci dă un rezumat al lucrurilor înrudite, tot așa a numit întreaga carte «cartea obârșiilor cerului și pământului», deși conține multe alte lucruri — lăsându-ne să înțelegem că toate lucrurile văzute sunt cuprinse neapărat în această carte, atât cele din cer, cât și cele de pe pământ."
       }
     ],
@@ -1178,11 +1174,11 @@ window.CHAPTER_DATA = [
         "text": "Explică absența ploii printr-un motiv surprinzător: plantele erau create în potențial, gata sub pământ (v. 1:11-12), dar n-au ieșit la iveală pentru că nu exista încă om care să se roage pentru ploaie — recunoștința și rugăciunea omului, spune Rashi, sunt parte din motivul pentru care Dumnezeu trimite ploaia. Abia când omul e creat (v. 7) și înțelege nevoia de ploaie, pământul primește umezeala necesară."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 12.5 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 12.5",
         "text": "Pământul, ascultând de cuvântul și îndrumarea Domnului, a produs plante și a fost stârnit spre durerile rodniciei fără să depindă de ajutorul soarelui (cum ar fi putut, de vreme ce soarele încă nu era creat?), nici de umezeala ploilor, nici de munca omului — omul nefiind încă adus la ființă."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.4.5 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.4.5",
         "text": "Acum Dumnezeu face și verdeața câmpului, dar făcând să plouă peste pământ — adică face sufletele să reînverzească prin cuvântul Său. Dar le adapă din nori, adică din scrierile proorocilor și apostolilor."
       }
     ],
@@ -1384,11 +1380,11 @@ window.CHAPTER_DATA = [
         "text": "Discută sensul „aburului” care uda pământul înainte de ploaie — o tradiție citată de Rashi îl leagă de norii joși, care se ridicau din pământ și adunau apă din adânc, ca să ude solul înainte ca omul să fi fost creat și să poată planta."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.24.37 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.24.37",
         "text": "Fața blândă a pământului, adică demnitatea pământului, poate fi privită, pe bună dreptate, ca mama Domnului, Fecioara Maria, care a fost adăpată de Duhul Sfânt, semnificat în Evanghelie prin cuvântul «apă»."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.3 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.3",
         "text": "Căci se spune: «Pomii nu existau, și verdeața nu încolțise încă, fiindcă Domnul nu trimisese ploaie pe pământ. Un izvor se ridica din pământ și adăpa toată fața pământului.» Fiindcă tot ce s-a născut și se naște din pământ se naște prin unirea apei cu pământul, Scriptura a avut grijă să arate că pomii și verdeața n-au fost create odată cu pământul, de vreme ce ploaia nu căzuse încă."
       }
     ]
@@ -1574,7 +1570,7 @@ window.CHAPTER_DATA = [
         "text": "Epopeea akkadiană Atrahasis (sec. XVIII î.Hr.) povestește crearea omului dintr-un motiv practic: zeii mai mici, obosiți de muncă, se revoltă, iar zeița Nintu îl plăsmuiește pe om din lut amestecat cu sângele (și, în unele versiuni, saliva) unui zeu jertfit, ca omul să preia munca — „să poarte jugul”. Paralela cu Facerea e izbitoare la nivel de material (lut/țărână + o suflare/element divin), dar diferența de motivație e la fel de importantă: în Atrahasis omul e creat ca sclav care să scutească zeii de muncă; în Geneza, omul e creat din grija lui Dumnezeu și pus într-o grădină pregătită special pentru el (v. 8-9), nu ca simplă forță de muncă exploatată."
       },
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Josephus explică etimologia numelui „Adam”: „Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă «roșu», pentru că a fost plăsmuit din pământ roșu — căci din acest fel este pământul virgin, adevărat.” O explicație extra-biblică, dar veche și larg citată, a numelui legat de culoarea lutului/pământului din care a fost plăsmuit."
       },
       {
@@ -1582,19 +1578,19 @@ window.CHAPTER_DATA = [
         "text": "Explică de unde a fost luat țărâna: din tot pământul, din toate cele patru direcții — pentru ca, oriunde ar muri un om, pământul de acolo să-l poată primi la înmormântare. O altă tradiție citată de Rashi: țărâna ar fi fost luată chiar din locul unde avea să fie, mai târziu, altarul (Exod 20) — „poate va sluji ca ispășire pentru el, și va putea sta [în picioare]”."
       },
       {
-        "author": "Grigorie de Nazianz, Imnuri dogmatice 7 (verificat direct din text)",
+        "author": "Grigorie de Nazianz, Imnuri dogmatice 7",
         "text": "Sufletul e suflarea lui Dumnezeu, o substanță cerească amestecată cu țărâna cea de jos, o lumină îngropată într-o peșteră, dar cu totul dumnezeiască și nestinsă... A grăit, și, luând ceva din pământul proaspăt plăsmuit, mâinile Lui cele nemuritoare au făcut un chip în care a pus ceva din viața Sa proprie. A trimis Duhul Său, o rază din dumnezeirea cea nevăzută."
       },
       {
-        "author": "Tertulian, Despre suflet 3.4 (verificat direct din text)",
+        "author": "Tertulian, Despre suflet 3.4",
         "text": "Sufletul își are obârșia în suflarea lui Dumnezeu și n-a venit din materie. Ne întemeiem pe mărturia limpede a descoperirii dumnezeiești, care spune că «Dumnezeu a suflat suflare de viață în fața omului, și omul s-a făcut suflet viu»."
       },
       {
-        "author": "Sfântul Vasile cel Mare, Omilie la Psalmul 48 (verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Omilie la Psalmul 48",
         "text": "«Și a suflat în nările lui» — adică i-a pus omului o parte din harul Său propriu, ca să recunoască asemănarea prin asemănare. Fiind totuși într-o cinste atât de mare, fiindcă a fost creat după chipul Ziditorului, e cinstit mai presus de ceruri, mai presus de soare, mai presus de corurile stelelor. Căci despre care dintre trupurile cerești s-a spus că ar fi chipul Celui Preaînalt?"
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 12.15 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 12.15",
         "text": "I-a plăcut iubirii de oameni a lui Dumnezeu să facă din acest lucru creat din pământ un părtaș al firii raționale a sufletului, prin care această viețuitoare s-a arătat aleasă și desăvârșită. «Și a suflat în nările lui suflare de viață» — adică suflarea a dat celui creat din pământ puterea vieții, și astfel s-a alcătuit firea sufletului. De aceea Moise a adăugat: «Și s-a făcut omul suflet viu.» Ce înseamnă «suflet viu»? Un suflet lucrător, care are mădularele trupului ca unelte ale lucrării sale, supuse voinței lui."
       }
     ],
@@ -1805,19 +1801,19 @@ window.CHAPTER_DATA = [
         "text": "Mitul sumerian „Enki și Ninhursag” descrie Dilmun, un ținut pur, curat și luminos, fără boală, durere sau moarte, unde animalele nu se vânează între ele — adesea comparat de cercetători cu grădina Edenului ca „paradis originar” din literatura mesopotamiană. Spre deosebire de Dilmun, care rămâne un tărâm al zeilor, grădina din Geneza 2 e creată special ca locuință pentru om."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis",
         "text": "Totuși putem afla cine a fost Ziditorul acestui Paradis. Citim în Geneza că «Dumnezeu a sădit o grădină spre răsărit și a pus acolo pe omul pe care-l plăsmuise.» Cine ar fi avut puterea să creeze Paradisul, dacă nu Dumnezeu cel atotputernic, Care «a grăit și s-au făcut», și Care n-a dus niciodată lipsă de lucrul pe care a voit să-l aducă la ființă? A sădit, deci, acel Paradis despre care zice, în înțelepciunea Sa: «Orice sădire pe care n-a sădit-o Tatăl Meu va fi smulsă din rădăcină.»"
       },
       {
-        "author": "Sfântul Vasile cel Mare, Despre Sfântul Duh 27.66 (verificat direct din text)",
+        "author": "Sfântul Vasile cel Mare, Despre Sfântul Duh 27.66",
         "text": "De aceea, toți privim spre răsărit când ne rugăm, dar puțini știu că aceasta se întâmplă fiindcă ne căutăm patria cea veche, pe care Dumnezeu a sădit-o în Eden, spre răsărit."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 8.) Și Domnul Dumnezeu a sădit o grădină în Eden, spre răsărit. În loc de «paradis», ebraica are cuvântul «hortum», care înseamnă «grădină». Iar Eden se traduce «deliciae» — desfătare. Symmachus l-a tradus «paradis înfloritor». De asemenea, ceea ce urmează, «spre răsărit», în ebraică e scris «Mikedem», pe care Aquila l-a tradus «de la început». Din aceasta se arată foarte limpede că, înainte ca Dumnezeu să facă cerul și pământul, El întemeiase deja Paradisul."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 13.13 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 13.13",
         "text": "Și când auziți, preaiubiților, că «Dumnezeu a sădit o grădină în Eden, spre răsărit», luați cuvântul «a sădit» într-un sens potrivit lui Dumnezeu — adică El a poruncit să se întâmple aceasta — și, despre fraza următoare, credeți că o grădină a luat ființă în locul arătat de Scriptură."
       }
     ]
@@ -2036,19 +2032,19 @@ window.CHAPTER_DATA = [
         "text": "Discută și respinge o interpretare veche, potrivit căreia rodul Pomului Cunoașterii ar fi „dat naștere” dorinței sexuale (de aceea, spun unii, și-au acoperit goliciunea abia după ce au mâncat din el). Ramban consideră asta greșită: „cunoașterea binelui și răului” dobândită prin mâncarea din pom nu înseamnă instinct sexual, ci capacitatea de a alege liber între bine și rău — o calitate morală nouă, nu una biologică. Înainte de a mânca, spune el, Adam și Eva acționau „din fire”, ca cerurile și corpurile cerești, fără voință proprie de a alege binele sau răul."
       },
       {
-        "author": "Grigorie de Nazianz, Cuvântări teologice 29.20 (verificat direct din text)",
+        "author": "Grigorie de Nazianz, Cuvântări teologice 29.20",
         "text": "Hristos e dus la pom și pironit pe el — dar tocmai prin pomul vieții El ne reface. Da, El mântuiește chiar și pe tâlharul răstignit împreună cu El; El înfășoară toată lumea văzută în întuneric."
       },
       {
-        "author": "Ieronim, Omilii 1 (verificat direct din text)",
+        "author": "Ieronim, Omilii 1",
         "text": "Dacă înțelepciunea e pomul vieții, atunci Înțelepciunea însăși e Hristos. Înțelegeți acum că omul fericit și sfânt e asemănat acestui pom — adică e asemănat Înțelepciunii. Vedeți deci că dreptul, omul fericit care n-a umblat în sfatul celor răi, e asemenea pomului sădit lângă apa curgătoare — adică e asemenea lui Hristos, întrucât «ne-a înviat împreună și ne-a așezat împreună în ceruri». Vedeți deci că vom împărăți împreună cu Hristos în ceruri, fiindcă acest pom a fost sădit în grădina Edenului, și am fost sădiți cu toții acolo împreună cu El."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere",
         "text": "Iată încă o formă de bunătate arătată acestei făpturi. Fiindcă a voit ca el să trăiască în grădină, a poruncit să iasă din pământ felurite soiuri de pomi, care să-l poată desfăta prin înfățișarea lor și să-i fie plăcuți la gust. «Tot pomul», zice, «frumos la vedere și bun la mâncare»; pe scurt, aveau puterea să-l bucure prin înfățișare și să-i ofere multă plăcere prin gust, și, prin marele lor belșug, îi ofereau o bogată desfătare celui în stare să se bucure de ele."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Și a scos Domnul Dumnezeu din pământ tot pomul plăcut la vedere și bun la mâncare: pomul vieții, în mijlocul grădinii, și pomul cunoașterii binelui și răului. Trebuia neapărat repetat aici, ca să putem înțelege firea locului Paradisului — mai ales fiindcă era nevoie de o mențiune specială a pomului vieții și a pomului cunoașterii binelui și răului: în unul era semnul ascultării datorate de om, în celălalt taina vieții veșnice, pe care avea s-o merite tocmai prin această ascultare. Pomul vieții se numea așa fiindcă avea puterea, primită dumnezeiește, ca oricine mânca din el să aibă trupul întărit cu o sănătate statornică — dar aceasta era totodată și chipul unei taine duhovnicești, al Domnului nostru Iisus Hristos."
       }
     ],
@@ -2231,19 +2227,15 @@ window.CHAPTER_DATA = [
     "fidela": "Şi un râu ieşea din Eden ca să ude grădina; şi de acolo se împărţea şi se făcea patru capete.",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Descrierea celor patru brațe ale fluviului care iese din Eden (Pișon, Ghihon, Hidekel, Eufrat) rămâne, la nivelul acestui verset, fără comentariu specific în sursele clasice verificate direct în arhivă."
-      },
-      {
-        "author": "Ambrozie al Milanului, Despre Paradis (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis",
         "text": "Era un izvor care uda pământul Paradisului. Nu e oare acest fluviu Domnul nostru Iisus Hristos, Izvorul și totodată Tatăl vieții veșnice? Căci scris este: «La Tine e izvorul vieții.» De aceea: «Din lăuntrul lui vor curge râuri de apă vie.» Citim despre un izvor și un râu care udă în Paradis pomul roditor, cel ce dă rod pentru viața veșnică. Ai citit, deci, că acolo era un izvor și că «un râu se ridica din Eden» — adică în sufletul tău există un izvor. Acesta e înțelesul cuvintelor lui Solomon: «Bea apă din propria ta cisternă, și din izvoarele propriei tale fântâni.»"
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Ioan 46.4 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Ioan 46.4",
         "text": "Cu adevărat înfricoșătoare sunt tainele Bisericii. Înfricoșător adevăr e altarul ei. Un izvor a țâșnit din Paradis, trimițând nu doar șuvoaie văzute, ci și șuvoaie duhovnicești, ridicându-se ca un izvor din acest podiș înalt. Alături de acest izvor au crescut, nu sălcii fără rod, ci pomi îmbelșugați, ridicându-se până la cer, cu rod mereu în vreme și rămânând nestricați. Dacă cineva e cuprins de arșiță, să vină la acest izvor și să-și răcorească înfrigurarea."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.6 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.6",
         "text": "Moise s-a întors să scrie despre râul ce ieșea din Paradis și care, odată ieșit din el, se despărțea în patru izvoare deosebite, zicând: «Un râu ieșea din Eden ca să ude Paradisul.» Aici Moise numește «Eden» pământul cel desfătat al Paradisului. Cele patru râuri ce ieșeau din acel râu nu erau la fel la gust cu izvorul lor. Căci dacă apele din țările noastre se deosebesc, toate fiind puse sub blestem, cu cât mai deosebit trebuie să fie gustul pământului binecuvântat al Edenului? Cele patru râuri sunt, după Efrem Sirul, acestea: Pișon, pe care-l identifică cu Dunărea; Ghihon, pe care-l identifică cu Nilul; apoi Tigru și Eufrat, între care locuim noi — o identificare diferită de cea general acceptată azi, dar mărturie a felului cum vedeau Sfinții Părinți geografia Edenului."
       }
     ]
@@ -2447,19 +2439,19 @@ window.CHAPTER_DATA = [
         "text": "Explică de ce Tora insistă să descrie amănunțit fluviul Pișon și ținutul Havila, deși necunoscute cititorului: mărimea și bogăția lor (aurul, cristalul, onixul) sunt chiar dovada indirectă a măreției grădinii pe care o udă — Tora descrie grădina Edenului prin reflecția ei asupra ținuturilor din jur, pe care cititorul chiar le putea verifica."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Se stabilește, după cele mai sigure mărturii, că izvoarele tuturor acestor râuri, despre care se spune că ies din Paradis, sunt cunoscute pe pământul nostru. Izvorul Pișonului, numit azi Gange, se află în ținuturile munților Caucaz; Nilul însă, pe care Scriptura îl numește Ghihon, se află departe de Muntele Atlas, marginea cea mai îndepărtată a Africii spre apus. Tigrul și Eufratul izvorăsc din Armenia, de unde se crede că locul Paradisului însuși e cel mai îndepărtat de cunoașterea omenească, și de acolo se despart cele patru brațe de apă."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Acesta e cel care înconjoară tot pământul Havilei. Aceasta e regiunea Indiei, care-și trage numele de la faptul că a fost așezată, după potop, de Havila, fiul lui Ioctan, care era fiul lui Eber, patriarhul evreilor."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 11.) Numele unuia e Fison. Se crede că acesta e fluviul Gange din India. (Versetul 12.) Acolo se află cărbunele și piatra verde. Unii au tradus «cărbunele» prin βδέλλιον (bdeliu), iar «piatra verde» prin ὄνυξ (onix)."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis",
         "text": "«Râul», ni se spune, «se desparte în patru brațe.» Numele unuia e Pișon, care înconjoară tot pământul Havilei, unde e aur. Al doilea râu se numește Ghihon; acesta înconjoară tot pământul Etiopiei. Al treilea râu se numește Tigru, care curge pe lângă asirieni. Iar al patrulea râu e Eufratul. Pișon — așa numit de evrei, dar numit de greci Gange — curge spre India. Ghihon e fluviul Nil, care înconjoară pământul Egiptului sau al Etiopiei. Pământul cuprins între Tigru și Eufrat se numește Mesopotamia, fiindcă viețuiește între aceste două fluvii."
       }
     ],
@@ -2633,15 +2625,11 @@ window.CHAPTER_DATA = [
     "fidela": "Şi aurul acelei ţări este bun: acolo este bedelium şi piatra de onix.",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Identificarea exactă a „bdolah”-ului și a pietrei „șoham” rămâne disputată în tradiție; sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Acolo se găsește aur, și aurul acelui pământ e bun. Plinius cel Bătrân relatează că ținuturile Indiei sunt mai bogate în vine de aur decât alte pământuri, de unde chiar insulele lor au luat numele de Chryse și Argyre, de la belșugul de aur sau argint."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "În acel loc se găsesc bdeliu și piatra de onix. Bdeliul e, după cum scrie Plinius cel Bătrân, un copac aromat, negru la culoare, de mărimea unei măsline, cu frunze ca de stejar, rod ca de smochin, iar firea lui e de așa fel încât lasă să curgă din el o rășină — lacrima lui e strălucitoare, oarecum albicioasă, ușoară, lipicioasă, cu gust amar și miros plăcut. Onixul, la rândul lui, e o piatră prețioasă, numită astfel fiindcă are înăuntru o albeață asemenea unghiei omenești — «onyx», în grecește, înseamnă unghie."
       }
     ]
@@ -2825,11 +2813,7 @@ window.CHAPTER_DATA = [
     "fidela": "Şi numele celui de al doilea râu este Ghihon: acesta este cel ce înconjoară întreaga ţară a Etiopiei.",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Identificarea „ținutului Cuș” cu regiunea africană folosită mai târziu în Tora rămâne o tradiție geografică general acceptată, dar sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "Iar numele celui de-al doilea râu e Gheon; acesta e cel care înconjoară tot pământul Etiopiei. Numele celui de-al treilea râu e Tigru; el merge spre asirieni. Al patrulea râu e Eufratul. Despre Eufrat, deci, unde merge sau ce pământuri înconjoară, nu se spune, fiindcă, trecând pe aproape de pământul făgăduinței, era foarte bine cunoscut poporului lui Israel. Dar fiindcă întoarcerea la locurile cerești ne e deschisă nouă prin apele renașterii, se potrivește îndeajuns cu rânduiala bunătății dumnezeiești ca acest element, prin care suntem duși înapoi spre patria cea de sus, să ne fie comun cu Paradisul, unde a fost așezat omul cel dintâi."
       }
     ]
@@ -3033,15 +3017,11 @@ window.CHAPTER_DATA = [
     "fidela": "Şi numele celui de al treilea râu este Hidechel: acesta este cel ce merge spre estul Asiriei. Şi al patrulea râu este Eufratul.",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Hidekel (Tigrul) și Eufratul erau, spre deosebire de Pișon și Ghihon, fluvii deja cunoscute cititorilor antici ai Torei — dar sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Efrem Sirul, Comentariu la Facere 2.6 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.6",
         "text": "Iar aceste patru râuri sunt, așadar, acestea: Pișonul, adică Dunărea; Ghihonul, adică Nilul; Tigrul și Eufratul. Între acestea locuim noi."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 13.15-16 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 13.15-16",
         "text": "Poate totuși că unii, cărora le place să vorbească din propria lor înțelepciune, nu vor să admită că aceste râuri sunt cu adevărat râuri, sau că aceste ape sunt cu adevărat ape, ci propun celor gata să-i asculte o altă interpretare. Să nu ne lăsăm însă convinși de ei, vă rog fierbinte, ci mai degrabă să ne astupăm urechile față de ei; să ne punem încrederea, în schimb, în Sfânta Scriptură, și să luăm aminte la ce ni se spune acolo."
       }
     ]
@@ -3173,19 +3153,19 @@ window.CHAPTER_DATA = [
         "text": "Explică „s-o lucreze” ca însemnând, concret, să aducă apă pentru grădină, iar „s-o păzească” ca protecție față de animale, ca să nu intre și s-o strice. Respinge o altă interpretare, care citește „lucrarea” ca împlinirea poruncii de a nu mânca din pom — argumentând că o „poruncă” nu poate fi numită „lucrare”."
       },
       {
-        "author": "Origen, Comentariu la Ioan 13.240-41 (verificat direct din text)",
+        "author": "Origen, Comentariu la Ioan 13.240-41",
         "text": "Cum ar fi putut Dumnezeu să așeze în Paradis, ca să-l lucreze și să-l păzească, o ființă cu totul neîmplinită? Căci cel în stare să îngrijească «pomul vieții» și tot ce Dumnezeu sădise și făcuse să răsară după aceea n-ar putea fi numit, pe drept, neîmplinit. Poate, atunci, deși era desăvârșit, a ajuns cumva neîmplinit din pricina călcării poruncii, și a avut nevoie de Cineva care să-l desăvârșească din neîmplinirea lui. Iar Mântuitorul a fost trimis tocmai pentru aceasta."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis",
         "text": "Priviți acum cine a fost luat și pământul unde a fost plăsmuit. Puterea lui Dumnezeu, deci, l-a luat pe om și a suflat în el, ca virtutea omului să crească și să sporească. Dumnezeu l-a așezat în Paradis, ca să știți că omul a fost ridicat, adică suflat de puterea lui Dumnezeu. Observați faptul că omul a fost creat afară din Paradis, iar femeia a fost făcută înăuntrul lui. Aceasta ne învață că fiecare dobândește harul prin virtute, nu prin loc sau neam."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.11.15 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.11.15",
         "text": "Deși omul a fost așezat în Paradis ca să-l lucreze și să-l păzească, acea lucrare vrednică de laudă nu era ostenitoare. Căci lucrarea din Paradis e cu totul alta decât lucrarea de pe pământ, la care a fost osândit după păcat. Adăugirea «și să-l păzească» arată felul acelei lucrări. Căci în liniștea vieții celei fericite, unde nu e moarte, singura lucrare e să păzești ceea ce ai."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 15.) Și Domnul Dumnezeu a luat pe om, și l-a pus în grădina desfătării. Căci «desfătare», în ebraică, se numește Eden. De aceea Cei Șaptezeci [Septuaginta] au tradus-o «desfătare»."
       }
     ],
@@ -3366,15 +3346,11 @@ window.CHAPTER_DATA = [
     "fidela": "Şi DOMNUL Dumnezeu i-a poruncit omului, spunând: Din orice pom din grădină poţi mânca în voie,",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Construcția gramaticală ebraică „mâncând vei mânca” (infinitiv absolut + verb conjugat), care accentuează generozitatea permisiunii, e o observație lingvistică obișnuită, dar sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Grigorie de Nazianz, A doua cuvântare la Paști 8 (verificat direct din text)",
+        "author": "Grigorie de Nazianz, A doua cuvântare la Paști 8",
         "text": "Dumnezeu i-a dat lui Adam o lege, ca materie pentru voia lui liberă să lucreze asupra ei. Această lege era o poruncă privind din ce plante putea să mănânce și de care nu trebuia să se atingă. Aceasta din urmă era pomul cunoașterii — nu fiindcă ar fi fost rău de la început, la sădirea lui, nici fiindcă Dumnezeu ni l-ar fi pizmuit, ci ar fi fost bun dacă era gustat la vremea potrivită. Pomul era, după teoria mea, contemplația, care e sigură doar pentru cei ce au ajuns la maturitatea deprinderii de a se apropia de ea, dar nu e bună pentru cei încă simpli și lacomi, așa cum nici hrana tare nu e bună pentru cei încă firavi, care au nevoie de lapte."
       },
       {
-        "author": "Efrem Sirul, Imnuri despre Paradis 3.3 (verificat direct din text)",
+        "author": "Efrem Sirul, Imnuri despre Paradis 3.3",
         "text": "Chiar în mijloc a sădit Pomul Cunoașterii, dăruindu-i minunăție, împrejmuindu-l cu spaimă, ca îndată să slujească drept hotar al ținutului dinăuntrul Paradisului. Două lucruri a auzit Adam în acea singură poruncă: că nu trebuiau să mănânce din el, și că, ferindu-se de el, să priceapă că nu era îngăduit să pătrundă mai departe, dincolo de acel pom."
       }
     ]
@@ -3491,19 +3467,15 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Întrebarea de ce Adam nu moare „chiar în ziua” în care mănâncă din pom (deși Geneza 5:5 spune că a trăit 930 de ani) e larg discutată în tradiția rabinică — printr-o zi divină de o mie de ani (Psalmul 90:4) sau prin moartea spirituală/simbolică — dar sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Chiril al Ierusalimului, Cateheza 13:31 (verificat direct din text)",
+        "author": "Chiril al Ierusalimului, Cateheza 13:31",
         "text": "Deși lui Adam i s-a spus: «În ziua în care vei mânca din el, negreșit vei muri», tu astăzi ai fost credincios. Astăzi îți va aduce mântuirea. Pomul i-a adus pieirea lui Adam; pomul vieții te va aduce pe tine în paradis. Nu te teme de șarpe; el nu te va izgoni, căci a căzut din cer. Nu-ți spun: «Astăzi vei pleca», ci: «Astăzi vei fi cu Mine»."
       },
       {
-        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 13.12 (verificat direct din text)",
+        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 13.12",
         "text": "Dumnezeu, referindu-Se la rodul oprit, i-a spus omului celui dintâi, pe care-l așezase în Paradis: «În ziua în care vei mânca din el, vei muri negreșit.» Amenințarea aceasta cuprindea nu doar prima parte a morții celei dintâi, adică lipsirea sufletului de Dumnezeu; nu doar a doua parte, lipsirea trupului de suflet; nu doar întreaga moarte dintâi, în care sufletul, despărțit deopotrivă de Dumnezeu și de trup, e pedepsit; ci tot ce ține de moarte, până la acea moarte cu totul din urmă, numită «a doua moarte» — în care sufletul, lipsit de Dumnezeu dar unit cu trupul, suferă o pedeapsă veșnică."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis",
         "text": "Care e deosebirea dintre a spune «veți muri» și «murind veți muri»? Trebuie arătat că nimic nu e de prisos în porunca lui Dumnezeu. Iată soluția mea: fiindcă viața și moartea sunt idei potrivnice, în vorbirea obișnuită spunem «trăim în viață» și «murim în moarte». Dar fiindcă viața pricinuiește viață, se găsește în acte juridice expresia «el trăiește o viață», iar fiindcă moartea pricinuiește moarte, se găsește afirmația: «El va muri moartea.» Aceste expresii nu sunt de prisos, căci viața se leagă de moarte și moartea de viață."
       }
     ],
@@ -3679,15 +3651,15 @@ window.CHAPTER_DATA = [
         "text": "Explică expresia dublă din <span class=\"heb-inline\">עֵזֶר כְּנֶגְדּוֹ</span> („ajutor pe potriva lui”): dacă bărbatul e vrednic, femeia îi este „ajutor”; dacă nu e vrednic, ea îi stă „împotrivă” — de aceea nota traducătorului la acest cuvânt oferă și varianta „împotriva lui”. Expresia conține, deci, o ambiguitate intenționată despre cum poate arăta relația."
       },
       {
-        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.17 (verificat direct din text)",
+        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.17",
         "text": "De ce spune Dumnezeu: «Nu e bine să fie omul singur; să-i facem un ajutor potrivit lui»? Prin aceste cuvinte, Dumnezeu arată că va exista o comuniune — nu cu toți oamenii, ci cu cei dispuși să fie ajutați și, la rândul lor, să-i ajute pe alții, chiar dacă abia au puterea s-o facă; căci dragostea nu stă mai mult în folos decât în armonia și înțelegerea unor firi de încredere și statornice."
       },
       {
-        "author": "Tertulian, Împotriva lui Marcion 2.4 (verificat direct din text)",
+        "author": "Tertulian, Împotriva lui Marcion 2.4",
         "text": "Dumnezeu, din bunătate, i-a dăruit omului și un ajutor potrivit, ca să nu fie nimic în soarta lui care să nu fie bun. Căci Dumnezeu a zis că nu e bine ca omul să fie singur. Știa El bine ce binecuvântare avea să fie pentru el genul feminin al Mariei, și tot așa pentru Biserică."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis",
         "text": "Se ridică încă o întrebare, cu privire la spusa Domnului: «Nu e bine ca omul să fie singur.» Recunoașteți, mai întâi, faptul că, atunci când Dumnezeu l-a creat pe om din țărâna pământului, n-a mai adăugat, ca la fiecare din celelalte lucrări ale Sale, «și a văzut Dumnezeu că era bine». Dacă ar fi spus atunci că e bună crearea omului, cealaltă afirmație, «nu e bine», ar fi fost o contradicție. Dar, când a văzut că bărbatul și femeia sunt uniți prin creație, atunci a spus: «Și a văzut Dumnezeu tot ce făcuse, și iată, era foarte bine.» Înțelesul e limpede: crearea deopotrivă a bărbatului și a femeii e socotită bună."
       }
     ],
@@ -3976,19 +3948,15 @@ window.CHAPTER_DATA = [
     "fidela": "Şi din pământ DOMNUL Dumnezeu a format fiecare fiară a câmpului şi fiecare pasăre a cerului şi le-a adus la Adam să vadă cum le va numi; şi oricum a numit Adam fiecare fiinţa vie, acela a fost numele ei.",
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Ideea că aducerea animalelor la Adam a fost un test al înțelepciunii lui, nu o nevoie divină de a afla, e o interpretare tradițională larg răspândită, dar sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.20 (verificat direct din text)",
+        "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.20",
         "text": "De ce a adus Dumnezeu la om orice animal, ca să le dea nume? A lămurit aici o mare nedumerire pentru cei ce studiază filosofia, arătându-le că numele vin din faptul de a fi fost date, nu din natură; căci o numire potrivită firii se cuvine mai ales atunci când apare un om înțelept și de o cunoaștere aleasă — și tocmai lucrarea de a da nume animalelor ține în chip deosebit de mintea înțeleptului, și încă a celui dintâi om născut din pământ, de vreme ce se cuvenea ca cel dintâi al neamului omenesc, stăpânul tuturor animalelor ieșite din pământ, să primească această cinste."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.9.3 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.9.3",
         "text": "Moise a spus: «Dumnezeu i-a adus la Adam.» Aceasta s-a întâmplat ca Dumnezeu să facă cunoscută înțelepciunea lui Adam și buna înțelegere ce exista între animale și Adam, înainte ca el să calce porunca. Animalele veneau la Adam ca la un păstor iubitor. Fără frică treceau prin fața lui, în bună rânduială, după neamuri și soiuri. Nu se temeau de el, nici unele de altele. Un soi de fiare răpitoare trecea alături de un soi de vietăți pe care le vânau, mergând nevătămate imediat în urma lor."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 14:20 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 14:20",
         "text": "Numele pe care Adam li le-a pus rămân până în ziua de azi. Astfel a rânduit Dumnezeu ca noi să păstrăm o aducere-aminte statornică a cinstei pe care ființa omenească a primit-o de la început de la Stăpânul tuturor, și să putem atribui răspunderea pierderii ei celui care, prin păcat, a pus capăt brusc autorității sale."
       }
     ]
@@ -4170,11 +4138,11 @@ window.CHAPTER_DATA = [
         "text": "Dezvoltă pe larg legătura dintre „numirea” animalelor (v. 19-20) și căutarea unui „ajutor potrivit”: când Adam dă nume fiecărei vietăți, el le observă, de fapt, natura, și înțelege astfel care perechi sunt „potrivite” una pentru cealaltă, spre procreare. Trecând în revistă toate animalele, perechi-perechi, Adam își dă seama treptat că el singur n-are o pereche corespunzătoare — de-abia atunci apare tristețea care duce la somnul adânc. Citează și pe Rashi: „Fiecare avea o pereche, dar eu n-aveam pereche."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.9 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.9",
         "text": "Nu au fost, propriu-zis, «plăsmuite», căci pământul a produs animalele, iar apa, păsările. Spunând «plăsmuite», Scriptura vrea să arate că toate animalele, târâtoarele, dobitoacele și păsările au luat ființă prin unirea pământului cu apa. Se spune «le-a adus la Adam» ca să arate înțelepciunea lui, și pacea ce exista între animale și Adam, înainte de călcarea poruncii. Căci veneau la el ca la un păstor iubitor, trecând prin fața lui fără nicio teamă, cireadă după cireadă, după neamurile și soiurile lor."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis",
         "text": "Fiarele câmpului și păsările cerului aduse la Adam sunt simțurile noastre cele fără de rațiune, fiindcă fiarele și dobitoacele închipuie felurite patimi ale trupului, fie mai violente, fie mai potolite... Dumnezeu ți-a dăruit puterea de a deosebi, printr-o judecată cumpătată, felul fiecărui lucru, ca să fii îndemnat să te pronunți asupra tuturor. Dumnezeu ți le-a adus pe toate înaintea ochilor, ca să înțelegi că mintea ta e mai presus de toate ele."
       }
     ],
@@ -4421,18 +4389,18 @@ window.CHAPTER_DATA = [
     "commentaries": [
       {
         "author": "Talmud Babilonian, Eruvin 18b / Berakhot 61b",
-        "text": "O tradiție discutată în Talmud (Eruvin 18b, Berakhot 61b — verificat direct în text) înțelege „a luat una din coastele/laturile lui” într-un mod neobișnuit: la origine, omul ar fi fost creat cu două fețe/laturi unite într-o singură ființă (parte bărbătească și parte femeiască, contopite), iar Dumnezeu, la acest verset, „despică” acea ființă unică în doi indivizi separați — Adam și Eva — mai degrabă decât să construiască o ființă nouă din nimic. Tradiția rămâne una dintre mai multe explicații rabinice posibile pentru cuvântul ambiguu „tsela”, discutat deja și la nivel lingvistic în comentariul de mai sus."
+        "text": "O tradiție discutată în Talmud (Eruvin 18b, Berakhot 61b) înțelege „a luat una din coastele/laturile lui” într-un mod neobișnuit: la origine, omul ar fi fost creat cu două fețe/laturi unite într-o singură ființă (parte bărbătească și parte femeiască, contopite), iar Dumnezeu, la acest verset, „despică” acea ființă unică în doi indivizi separați — Adam și Eva — mai degrabă decât să construiască o ființă nouă din nimic. Tradiția rămâne una dintre mai multe explicații rabinice posibile pentru cuvântul ambiguu „tsela”, discutat deja și la nivel lingvistic în comentariul de mai sus."
       },
       {
-        "author": "Ambrozie al Milanului, Despre Paradis (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Despre Paradis",
         "text": "Ce înseamnă cuvintele «somn adânc»? Nu înseamnă oare că, atunci când contemplăm unirea conjugală, ni se pare că întoarcem privirea, treptat, spre împărăția lui Dumnezeu? De aceea, după cuvintele «l-a cufundat pe Adam într-un somn adânc, și a adormit», urmează: «Coasta pe care Dumnezeu a luat-o din Adam a zidit-o în femeie.» Cuvântul «a zidit» e bine ales pentru crearea unei femei, fiindcă o casă, alcătuită din bărbat și soție, pare să arate spre o stare de deplină desăvârșire."
       },
       {
-        "author": "Ieronim, Întrebări ebraice asupra Genezei (verificat direct din text)",
+        "author": "Ieronim, Întrebări ebraice asupra Genezei",
         "text": "(Versetul 21.) Și Domnul Dumnezeu a trimis o toropeală asupra lui Adam. Căci «toropeală», adică plecarea minții, se numește în ebraică «Tardema», pe care Aquila o tălmăcește «coborâre», iar Symmachus, «somn greu și adânc». Se folosește același cuvânt și la Iona (1:5), pentru un somn adânc."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 15.7 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 15.7",
         "text": "«Dumnezeu a făcut să vină toropeală peste Adam», zice textul, «și a adormit.» N-a fost o simplă toropeală care a venit peste el, nici un somn obișnuit; ci înțeleptul și iscusitul Ziditor al firii noastre avea să-i ia una din coaste. Ca nu cumva această întâmplare să-l facă pe Adam, mai apoi, rău dispus față de făptura formată din coasta lui, și, prin amintirea durerii, să poarte pică acestei ființe la formarea ei, Dumnezeu i-a indus acest fel de somn."
       }
     ],
@@ -4559,19 +4527,15 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Alegerea verbului „a zidit” (בנה) pentru facerea femeii, diferit de „a plăsmuit”/„a făcut” folosite pentru om și animale, e o observație lingvistică remarcată tradițional, dar sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 22.17 (verificat direct din text)",
+        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 22.17",
         "text": "Chiar de la început, când femeia a fost făcută dintr-o coastă din partea bărbatului adormit, aceasta n-a avut alt scop decât să simbolizeze, în chip prorocesc, unirea lui Hristos cu Biserica Sa. Somnul lui Adam a fost o închipuire tainică a morții lui Hristos, și, când trupul Lui mort, atârnând pe cruce, a fost străpuns de suliță, din coasta Lui au ieșit acel sânge și acea apă care, știm, înseamnă tainele prin care se zidește Biserica. «A zidit» e chiar cuvântul folosit de Scriptură despre Eva. Așa și femeia e tot atât de mult creația lui Dumnezeu ca și bărbatul. Dacă a fost făcută din bărbat, aceasta a fost ca să arate unitatea ei cu el; și dacă a fost făcută în felul în care a fost făcută, aceasta a fost ca să prefigureze unitatea dintre Hristos și Biserică."
       },
       {
-        "author": "Chiril al Ierusalimului, Cateheza 12:29 (verificat direct din text)",
+        "author": "Chiril al Ierusalimului, Cateheza 12:29",
         "text": "De cine a fost născută Eva la început? Ce mamă a zămislit-o, pe ea, cea fără de mamă? Dar Scriptura spune că s-a născut din coasta lui Adam. Nu s-a născut, deci, Eva din coasta bărbatului, fără mamă, și un copil nu s-ar putea naște fără tată, din pântecele unei fecioare? Această datorie de recunoștință o datora neamul femeiesc bărbaților: căci Eva a fost zămislită din Adam, nu concepută de o mamă, ci ca adusă pe lume de bărbat singur."
       },
       {
-        "author": "Ieronim, Omilii 66 (verificat direct din text)",
+        "author": "Ieronim, Omilii 66",
         "text": "«Dumnezeu a luat o coastă din partea lui Adam și a făcut-o femeie.» Aici Scriptura a spus aedificavit — «a zidit». Ideea de zidire vrea să arate ridicarea unei case mari; de aceea coasta lui Adam, prefăcută în femeie, înseamnă, cu autoritate apostolică, pe Hristos și Biserica. Am auzit despre Adam cel dintâi; să venim acum la Adam al doilea și să vedem cum se zidește Biserica din coasta Lui. Coasta Domnului Mântuitor, atârnând pe cruce, e străpunsă de o suliță, și din ea ies sânge și apă. Vreți să știți cum se zidește Biserica din apă și sânge? Întâi, prin botezul cu apă, se iartă păcatele; apoi, sângele mucenicilor încununează zidirea."
       }
     ],
@@ -4798,23 +4762,19 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
         "text": "Josephus notează și numele femeii: „O femeie se numește, în limba ebraică, Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă [mama a tot ce este viu / cea care dă viață].” Confirmă astfel, dintr-o sursă independentă de Tora, aceeași legătură etimologică pe care o explică și Rashi mai târziu, la Geneza 3:20."
       },
       {
-        "author": "Notă contextuală (sinteză editorială — sursele verificate în arhivă tac la acest verset specific)",
-        "text": "Jocul de cuvinte dintre אִישׁ („ish”, bărbat) și אִשָּׁה („ishah”, femeie) e o observație lingvistică evidentă direct din text, dar sursele clasice verificate direct în arhivă nu au un comentariu separat la acest verset specific."
-      },
-      {
-        "author": "Tertulian, Despre învierea trupului (verificat direct din text)",
+        "author": "Tertulian, Despre învierea trupului",
         "text": "Adam recunoscuse deja carnea din femeie ca pe o prelungire a propriei sale substanțe («Aceasta e acum os din oasele mele, și carne din carnea mea»), iar chiar luarea femeii din bărbat a fost întregită cu carne; dar ar fi trebuit, aș zice, să fie întregită cu lut, dacă Adam era încă lut. Lutul, deci, a fost șters și absorbit în carne. Când s-a întâmplat aceasta? În clipa în care omul s-a făcut suflet viu prin suflarea lui Dumnezeu — suflare în stare să întărească lutul într-o altă substanță, ca într-un vas de lut, și acum în carne."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere",
         "text": "«A dus-o la Adam», zice textul, țineți minte. «Acum e cineva, os din oasele mele și carne din carnea mea.» Priviți aici, vă rog, preaiubiților, cum, împreună cu această înțelegere negrăită dăruită lui de Dumnezeu, arătată prin numele pe care le-a dat tuturor speciilor de fiare necuvântătoare, a fost înzestrat și cu harul proorociei. Căci fericitul autor ne-a învățat mai înainte că Adam a fost cuprins de toropeală și somn, ca să n-aibă niciun simțământ despre ce se întâmpla, tocmai ca, văzând femeia și descriindu-i crearea cu precizie, să nu ne îndoim că vorbește sub înrâurirea harului proorocesc și a insuflării Duhului Sfânt."
       },
       {
-        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron (verificat direct din text)",
+        "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
         "text": "«Aceasta se va numi Femeie, fiindcă a fost luată din Bărbat.» Și așa cum etimologia latină se potrivește la aceste nume, femeia («mulier») fiind numită de la bărbat («vir»), tot așa se potrivește și în ebraică, limbă în care bărbatul se numește «ish», iar de la acest nume vine cuvântul pentru femeie, «ishah». Dar în tainele lui Hristos și ale Bisericii se potrivește și mai bine faptul că Adam a voit ca femeia creată din trupul lui să-i poarte numele — fiindcă Domnul nostru Iisus Hristos a dat, la fel, Bisericii, pe care a răscumpărat-o cu prețul trupului și sângelui Său, părtășia numelui Său, ca de la Hristos să se numească «creștină»."
       }
     ],
@@ -5006,15 +4966,15 @@ window.CHAPTER_DATA = [
         "text": "Explică „vor fi un singur trup”: copilul e format din amândoi părinții, și astfel trupul lor devine, prin el, „un singur trup”."
       },
       {
-        "author": "Tertulian, Îndemn la castitate (verificat direct din text)",
+        "author": "Tertulian, Îndemn la castitate",
         "text": "Erau mai multe coaste în Adam, și mâini care nu cunoșteau oboseala în Dumnezeu; dar nu mai multe soții înaintea ochilor lui Dumnezeu. Și astfel omul lui Dumnezeu, Adam, și femeia lui Dumnezeu, Eva, împlinind împreună îndatoririle unei singure căsătorii, au statornicit pentru omenire un model, prin autoritatea precedentului obârșiei lor și a voii dintâi a lui Dumnezeu. În sfârșit, «vor fi», a zis El, «doi într-un singur trup» — nu trei, nici patru."
       },
       {
-        "author": "Ambrozie al Milanului, Scrisori (verificat direct din text)",
+        "author": "Ambrozie al Milanului, Scrisori",
         "text": "Dacă unirea lui Adam și a Evei e o mare taină în Hristos și în Biserică, e sigur că, așa cum Eva era os din oasele bărbatului ei și carne din carnea lui, și noi suntem mădulare ale trupului lui Hristos, os din oasele Lui și carne din carnea Lui."
       },
       {
-        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.13.19 (verificat direct din text)",
+        "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.13.19",
         "text": "Scriptura a spus: «Bărbatul își va lăsa tatăl și mama, și se va alipi de soția lui, și vor fi doi într-un singur trup.» Așa se întâmplă, de obicei, în neamul omenesc. Dar mai mult decât atât, totul e o proorocire, și apostolul ne amintește aceasta când zice: «Taina aceasta e mare — vorbesc despre Hristos și despre Biserică.»"
       }
     ],
@@ -5163,19 +5123,19 @@ window.CHAPTER_DATA = [
         "text": "Explică absența rușinii prin lipsa completă, la acel moment, a poftei rele (<span class=\"heb-inline\">יֵצֶר הָרָע</span>) sau a cunoașterii distincției dintre bine și rău — noțiunea de „gol” nu avea încă asocierea cu rușinea pe care o va căpăta imediat după episodul din capitolul 3. Notează și legătura fonetică dintre „arumim” (goi) aici și „arum” (viclean) la primul verset al capitolului următor — o punte deliberată între cele două capitole."
       },
       {
-        "author": "Efrem Sirul, Comentariu la Facere 2.14.2 (verificat direct din text)",
+        "author": "Efrem Sirul, Comentariu la Facere 2.14.2",
         "text": "N-au fost rușinați din pricina slavei cu care erau îmbrăcați. Când această slavă le-a fost luată, după călcarea poruncii, s-au rușinat fiindcă erau goi."
       },
       {
-        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 14.17 (verificat direct din text)",
+        "author": "Fericitul Augustin, Cetatea lui Dumnezeu 14.17",
         "text": "Bărbatul și femeia erau, desigur, conștienți de goliciunea lor, dar nu simțeau rușine, fiindcă nicio poftă nu le tulbura mădularele împotriva hotărârii voii lor. Nu venise încă vremea în care răzvrătirea trupului să fie martoră și mustrare a răzvrătirii omului împotriva Ziditorului său."
       },
       {
-        "author": "Ioan Gură de Aur, Omilii la Facere 15.14 (verificat direct din text)",
+        "author": "Ioan Gură de Aur, Omilii la Facere 15.14",
         "text": "«Erau amândoi goi», zice textul, țineți minte, «și nu se rușinau.» Vedeți, cât timp păcatul și neascultarea încă nu apăruseră pe scenă, erau îmbrăcați în acea slavă de sus, care nu le pricinuia nicio rușine. Dar după călcarea legii, atunci au intrat în scenă și rușinea, și conștiința goliciunii lor."
       },
       {
-        "author": "Grigorie de Nyssa, Despre alcătuirea omului 17 (verificat direct din text)",
+        "author": "Grigorie de Nyssa, Despre alcătuirea omului 17",
         "text": "Învierea nu ne făgăduiește altceva decât întoarcerea celor căzuți la starea lor cea veche; căci harul pe care-l așteptăm e o anume întoarcere la viața cea dintâi, aducându-i înapoi în paradis pe cei izgoniți din el. Dacă, deci, viața celor readuși e strâns înrudită cu cea a îngerilor, e limpede că viața dinainte de călcarea poruncii era un fel de viață îngerească."
       }
     ],
