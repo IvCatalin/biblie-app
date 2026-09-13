@@ -134,11 +134,11 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Talmudul Babilonian (Hagiga 12b)",
-        "text": "Chiar pe acest verset, Casa lui Șamai și Casa lui Hilel dezbat ordinea creației. Șamai citește versetul literal — „cerul și pământul” — și trage concluzia că cerul a fost făcut primul. Hilel se sprijină pe Geneza 2:4 („în ziua în care Domnul Dumnezeu a făcut pământ și cer”, unde pământul e numit primul) și susține contrariul.<br><br><b>Concluzia dezbaterii:</b> Înțelepții propun o împăcare — „amândouă au fost create împreună”, citând Isaia 48:13 („mâna Mea a întemeiat pământul, dreapta Mea a întins cerurile”) — adică cele două nu pot fi despărțite una de alta, indiferent care verset le numește primul. Reish Lakiș merge mai departe și distinge două etape: la <i>creație</i>, cerul a fost făcut primul; dar la <i>întindere/așezare în forma finală</i>, pământul a fost întins primul. Contradicția dintre versete se rezolvă, deci, nu alegând o tabără, ci observând că vorbesc despre etape diferite ale aceleiași lucrări.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+        "text": "Chiar pe acest verset, Casa lui Șamai și Casa lui Hilel dezbat ordinea creației. Șamai citește versetul literal — „cerul și pământul” — și trage concluzia că cerul a fost făcut primul. Hilel se sprijină pe Geneza 2:4 („în ziua în care Domnul Dumnezeu a făcut pământ și cer”, unde pământul e numit primul) și susține contrariul.<br><br><b>Concluzia dezbaterii:</b> Înțelepții propun o împăcare — „amândouă au fost create împreună”, citând Isaia 48:13 („mâna Mea a întemeiat pământul, dreapta Mea a întins cerurile”) — adică cele două nu pot fi despărțite una de alta, indiferent care verset le numește primul. Reish Lakiș merge mai departe și distinge două etape: la <i>creație</i>, cerul a fost făcut primul; dar la <i>întindere/așezare în forma finală</i>, pământul a fost întins primul. Contradicția dintre versete se rezolvă, deci, nu alegând o tabără, ci observând că vorbesc despre etape diferite ale aceleiași lucrări."
       },
       {
         "author": "Ba'al HaTurim (cca. 1269–1343)",
-        "text": "Comentator cunoscut pentru observații numerologice și lingvistice fine, citează un midraș (Bereșit Raba 1) despre o întrebare aparent ciudată: de ce Tora începe cu litera <span class=\"heb-inline\">ב</span> („bet”, a doua literă a alfabetului) și nu cu <span class=\"heb-inline\">א</span> („alef”, prima)? Răspunsul midrașic: „bet” are aceeași rădăcină ca <span class=\"heb-inline\">בְּרָכָה</span> („berakhah”, „binecuvântare”), în timp ce „alef” are legătură cu <span class=\"heb-inline\">אֲרִירָה</span> („blestem”) — lumea trebuia să înceapă sub semnul binecuvântării, nu al blestemului.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+        "text": "Comentator cunoscut pentru observații numerologice și lingvistice fine, citează un midraș (Bereșit Raba 1) despre o întrebare aparent ciudată: de ce Tora începe cu litera <span class=\"heb-inline\">ב</span> („bet”, a doua literă a alfabetului) și nu cu <span class=\"heb-inline\">א</span> („alef”, prima)? Răspunsul midrașic: „bet” are aceeași rădăcină ca <span class=\"heb-inline\">בְּרָכָה</span> („berakhah”, „binecuvântare”), în timp ce „alef” are legătură cu <span class=\"heb-inline\">אֲרִירָה</span> („blestem”) — lumea trebuia să înceapă sub semnul binecuvântării, nu al blestemului."
       },
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -1067,7 +1067,7 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Talmudul Babilonian (Berahot 2b)",
-        "text": "Chiar prima pagină a Talmudului discută de ce Mișna deschide întreaga colecție întrebând despre citirea rugăciunii <span class=\"heb-inline\">שְׁמַע</span> („Șema”) de seară, nu de dimineață. Una din explicațiile propuse: ordinea urmează chiar ordinea din acest verset — „a fost seară, apoi a fost dimineață” arată că, în felul evreiesc de a socoti, ziua începe cu seara, nu cu dimineața. De aici pornește și practica de a începe zilele de sărbătoare (inclusiv Șabatul) la apusul soarelui din ajun, nu la răsăritul zilei respective.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+        "text": "Chiar prima pagină a Talmudului discută de ce Mișna deschide întreaga colecție întrebând despre citirea rugăciunii <span class=\"heb-inline\">שְׁמַע</span> („Șema”) de seară, nu de dimineață. Una din explicațiile propuse: ordinea urmează chiar ordinea din acest verset — „a fost seară, apoi a fost dimineață” arată că, în felul evreiesc de a socoti, ziua începe cu seara, nu cu dimineața. De aici pornește și practica de a începe zilele de sărbătoare (inclusiv Șabatul) la apusul soarelui din ajun, nu la răsăritul zilei respective."
       },
       {
         "author": "Ibn Ezra (1089–1167)",
@@ -1299,7 +1299,7 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Talmudul Babilonian (Hagiga 15b)",
-        "text": "O poveste faimoasă: ben Zoma, un înțelept adâncit în gânduri despre distanța dintre „apele de deasupra” și „apele de dedesubt” pomenite aici, a fost găsit de Rabi Iehoșua atât de absorbit încât n-a mai ridicat privirea să-l salute, cum cerea buna-cuviință. Despre cât de mare ar fi, de fapt, acest spațiu, înțelepții nu cad de acord — unii spun cât grosimea unui fir de păr, alții cât distanța dintre scândurile unei punți.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+        "text": "O poveste faimoasă: ben Zoma, un înțelept adâncit în gânduri despre distanța dintre „apele de deasupra” și „apele de dedesubt” pomenite aici, a fost găsit de Rabi Iehoșua atât de absorbit încât n-a mai ridicat privirea să-l salute, cum cerea buna-cuviință. Despre cât de mare ar fi, de fapt, acest spațiu, înțelepții nu cad de acord — unii spun cât grosimea unui fir de păr, alții cât distanța dintre scândurile unei punți."
       },
       {
         "author": "Ramban / Nahmanide (1194–1270)",
@@ -2053,7 +2053,7 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Sforno (cca. 1475–1550)",
-        "text": "Ia poziție explicit împotriva unei citiri răspândite în vremea lui: unii credeau că uscatul „a apărut” pentru că apele s-au evaporat, uscate treptat prin puterea corpurilor cerești. Sforno respinge asta — Dumnezeu n-a „uscat” apele, ci pur și simplu le-a poruncit să se adune și să se mute în altă parte, lăsând loc uscatului. Diferența nu e doar tehnică: pentru Sforno, miza e să arate că totul rămâne act direct al voinței divine, nu un proces natural indirect.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+        "text": "Ia poziție explicit împotriva unei citiri răspândite în vremea lui: unii credeau că uscatul „a apărut” pentru că apele s-au evaporat, uscate treptat prin puterea corpurilor cerești. Sforno respinge asta — Dumnezeu n-a „uscat” apele, ci pur și simplu le-a poruncit să se adune și să se mute în altă parte, lăsând loc uscatului. Diferența nu e doar tehnică: pentru Sforno, miza e să arate că totul rămâne act direct al voinței divine, nu un proces natural indirect."
       },
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -2321,7 +2321,7 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Talmudul Babilonian (Șabat 109b)",
-        "text": "Talmudul discută dacă toate mările „purifică” ritual precum o baie rituală (<span class=\"heb-inline\">מִקְוֶה</span>, mikve). Rabi Meir citește versetul literal — „adunarea apelor a numit-o mări” — și trage concluzia că orice mare are statutul unui mikve. Rabi Iehuda nu e de acord: pentru el, versetul spune „mări” la plural doar pentru că Marea cea Mare (Mediterana) cuprinde de fapt mai multe mări — deci doar ea are acest statut, nu oricare întindere de apă.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+        "text": "Talmudul discută dacă toate mările „purifică” ritual precum o baie rituală (<span class=\"heb-inline\">מִקְוֶה</span>, mikve). Rabi Meir citește versetul literal — „adunarea apelor a numit-o mări” — și trage concluzia că orice mare are statutul unui mikve. Rabi Iehuda nu e de acord: pentru el, versetul spune „mări” la plural doar pentru că Marea cea Mare (Mediterana) cuprinde de fapt mai multe mări — deci doar ea are acest statut, nu oricare întindere de apă."
       },
       {
         "author": "Ramban / Nahmanide (1194–1270)",
@@ -3716,7 +3716,7 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Sforno (cca. 1475–1550)",
-        "text": "Explică o alegere de vocabular care ar putea trece neobservată: pentru luminători, textul folosește „a făcut” (<span class=\"heb-inline\">וַיַּעַשׂ</span>), nu „a creat” (<span class=\"heb-inline\">בָּרָא</span>). Motivul, spune Sforno: materia primă a cerurilor și corpurilor cerești fusese deja creată la v. 1 („cerurile și pământul”); acum, Dumnezeu doar le dă formă — le „face” rotunde și luminoase din acea materie deja existentă, nu le aduce la existență din nimic. Distincția „creat” / „făcut” marchează, deci, diferența dintre a aduce ceva la existență și a-i da formă din ceva deja existent.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+        "text": "Explică o alegere de vocabular care ar putea trece neobservată: pentru luminători, textul folosește „a făcut” (<span class=\"heb-inline\">וַיַּעַשׂ</span>), nu „a creat” (<span class=\"heb-inline\">בָּרָא</span>). Motivul, spune Sforno: materia primă a cerurilor și corpurilor cerești fusese deja creată la v. 1 („cerurile și pământul”); acum, Dumnezeu doar le dă formă — le „face” rotunde și luminoase din acea materie deja existentă, nu le aduce la existență din nimic. Distincția „creat” / „făcut” marchează, deci, diferența dintre a aduce ceva la existență și a-i da formă din ceva deja existent."
       },
       {
         "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
@@ -6082,7 +6082,7 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Sforno (cca. 1475–1550)",
-        "text": "Merge și mai departe în distincția „chip”/„asemănare” decât Ramban: „în chipul nostru” înseamnă, pentru el, o entitate veșnică, înzestrată cu inteligență — o calitate pe care omul o are cu adevărat. Dar „după asemănarea noastră” e ceva mai limitat: omul seamănă cu Dumnezeu doar în felul de a acționa — printr-o alegere liberă, nu impusă — spre deosebire de îngeri, care acționează cu știință, dar fără alegere liberă proprie. Totuși, alegerea lui Dumnezeu e mereu spre bine; alegerea omului, nu neapărat. De-aceea, spune Sforno, textul zice „după” asemănarea noastră — adică *asemenea* chipului nostru, nu *identic* cu el.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+        "text": "Merge și mai departe în distincția „chip”/„asemănare” decât Ramban: „în chipul nostru” înseamnă, pentru el, o entitate veșnică, înzestrată cu inteligență — o calitate pe care omul o are cu adevărat. Dar „după asemănarea noastră” e ceva mai limitat: omul seamănă cu Dumnezeu doar în felul de a acționa — printr-o alegere liberă, nu impusă — spre deosebire de îngeri, care acționează cu știință, dar fără alegere liberă proprie. Totuși, alegerea lui Dumnezeu e mereu spre bine; alegerea omului, nu neapărat. De-aceea, spune Sforno, textul zice „după” asemănarea noastră — adică *asemenea* chipului nostru, nu *identic* cu el."
       },
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -6316,7 +6316,7 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Sforno (cca. 1475–1550)",
-        "text": "Oferă o definiție filozofică pentru cuvântul „Elohim” care merită reținută: el se aplică oricărei ființe efectiv inteligente, întregi, neschimbătoare și, tocmai de aceea, veșnice — indiferent dacă e vorba de Dumnezeu, de îngeri, sau (impropriu) de judecători. Omul, spune Sforno, se naște doar cu potențialul acestei calități, nu cu ea împlinită — de-abia atunci când își dezvoltă cu adevărat înțelepciunea devine cu adevărat „în chipul lui Dumnezeu”; până atunci, rămâne doar posibilitate, nu realitate. Citează în sprijin Psalmul 49:21: „omul pus în cinste, dar fără pricepere, se aseamănă cu dobitoacele care pier”.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+        "text": "Oferă o definiție filozofică pentru cuvântul „Elohim” care merită reținută: el se aplică oricărei ființe efectiv inteligente, întregi, neschimbătoare și, tocmai de aceea, veșnice — indiferent dacă e vorba de Dumnezeu, de îngeri, sau (impropriu) de judecători. Omul, spune Sforno, se naște doar cu potențialul acestei calități, nu cu ea împlinită — de-abia atunci când își dezvoltă cu adevărat înțelepciunea devine cu adevărat „în chipul lui Dumnezeu”; până atunci, rămâne doar posibilitate, nu realitate. Citează în sprijin Psalmul 49:21: „omul pus în cinste, dar fără pricepere, se aseamănă cu dobitoacele care pier”."
       },
       {
         "author": "Tertulian, Împotriva lui Praxeas 12",
@@ -6661,11 +6661,11 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Sforno (cca. 1475–1550)",
-        "text": "Distinge clar între cele două verbe ale versetului. „Supuneți-l” (pământul) înseamnă, pentru Sforno, mai ales autoapărare prin inteligență — să te protejezi de vietăți și să le împiedici să pătrundă în spațiul tău. „Stăpâniți” (peste vietăți) e altceva: o dominație activă, exercitată practic, prin capcane și plase, ca să le supui serviciului tău. Primul verb descrie o graniță de apărat; al doilea, o autoritate de exercitat.<br><br><span class=\"note\">(rezumat/traducere proprie, sursă domeniu liber CC0)</span>"
+        "text": "Distinge clar între cele două verbe ale versetului. „Supuneți-l” (pământul) înseamnă, pentru Sforno, mai ales autoapărare prin inteligență — să te protejezi de vietăți și să le împiedici să pătrundă în spațiul tău. „Stăpâniți” (peste vietăți) e altceva: o dominație activă, exercitată practic, prin capcane și plase, ca să le supui serviciului tău. Primul verb descrie o graniță de apărat; al doilea, o autoritate de exercitat."
       },
       {
         "author": "Mișna (Ievamot 6:6)",
-        "text": "Mișna citează exact acest verset (împreună cu Geneza 5:2) ca temei al primei porunci din Tora: „Fiți roditori și înmulțiți-vă”. Casa lui Șamai și Casa lui Hilel dezbat câți copii împlinesc porunca — doi băieți (Șamai) sau un băiat și o fată (Hilel, citând „parte bărbătească și femeiască i-a creat”). Un bărbat care, după zece ani de căsătorie, tot nu are copii, spune Mișna, nu mai are voie să amâne împlinirea poruncii.<br><br><b>Concluzia practică:</b> tradiția halahică ulterioară statuează regula după Casa lui Hilel (principiu general valabil în aproape toate disputele Șamai–Hilel din Mișna) — deci un băiat și o fată, nu doi băieți, împlinesc formal porunca.<br><br><span class=\"note\">(rezumat/traducere proprie după ediția William Davidson, licență CC-BY-NC)</span>"
+        "text": "Mișna citează exact acest verset (împreună cu Geneza 5:2) ca temei al primei porunci din Tora: „Fiți roditori și înmulțiți-vă”. Casa lui Șamai și Casa lui Hilel dezbat câți copii împlinesc porunca — doi băieți (Șamai) sau un băiat și o fată (Hilel, citând „parte bărbătească și femeiască i-a creat”). Un bărbat care, după zece ani de căsătorie, tot nu are copii, spune Mișna, nu mai are voie să amâne împlinirea poruncii.<br><br><b>Concluzia practică:</b> tradiția halahică ulterioară statuează regula după Casa lui Hilel (principiu general valabil în aproape toate disputele Șamai–Hilel din Mișna) — deci un băiat și o fată, nu doi băieți, împlinesc formal porunca."
       },
       {
         "author": "Rashbam (cca. 1085–1158)",
