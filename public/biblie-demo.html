@@ -499,15 +499,14 @@
   .picker-book-item.open .picker-book-go{transform:rotate(90deg);}
   .picker-chapter-grid{
     display:none;
-    grid-template-columns:repeat(8, 1fr);
-    gap:5px;
+    grid-template-columns:repeat(6, 1fr);
+    gap:6px;
     padding:4px 2px 16px;
   }
   .picker-book-item.open .picker-chapter-grid{display:grid;}
   .chapter-num-btn{
     font-family:'Inter', sans-serif;
     font-size:12px;
-    font-weight:700;
     background:var(--parchment-dark);
     border:1px solid var(--line);
     color:var(--ink);
@@ -1256,8 +1255,8 @@
   }
   .ref-preview-text{
     font-family:'Fraunces', serif;
-    font-size:14px;
-    line-height:1.55;
+    font-size:16px;
+    line-height:1.6;
     color:var(--ink);
     margin-bottom:18px;
   }
@@ -1276,14 +1275,13 @@
   }
 
   .wp-word{
-    font-family:'Fraunces', serif;
-    font-weight:700;
-    font-size:28px;
-    letter-spacing:0.01em;
-    text-transform:none;
-    color:#f0c419;
-    text-align:left;
-    margin-bottom:14px;
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:#8fa3c7;
+    text-align:center;
+    margin-bottom:10px;
   }
   .wp-heb{
     font-family:'Noto Sans Hebrew', serif;
@@ -2563,7 +2561,7 @@
 
   <main id="verses"></main>
 
-  <footer id="verses-footer-hint">Atinge un verset pentru comentarii.</footer>
+  <footer>Atinge un verset pentru comentariu · cuvintele cu <b style="color:#d4a017;">•••</b> dedesubt au sens lexical — atinge-le pentru ebraică și traducere</footer>
   </div>
 
   <div class="tab-panel" id="tab-acasa">
@@ -3118,7 +3116,7 @@ function renderVerseSheetTabs(verse){
 
   // "Context literar-istoric" și "Istorici" (Josephus etc.) sunt azi comentarii
   // ca oricare altele, dar aparțin conceptual tab-ului Texte, nu Comentarii.
-  const isAneOrHistorian = (author) => /istoric|josephus|flavius|jubileelor|apocrif|adam.*eva/i.test(author || "");
+  const isAneOrHistorian = (author) => /istoric|josephus|flavius/i.test(author || "");
 
   const allComments = (verse.commentaries || []);
   const realComments = allComments.filter(c => !isAneOrHistorian(c.author));
@@ -3205,7 +3203,7 @@ function renderVerseSheetTabs(verse){
         const label = document.createElement("div");
         label.className = "lib-section-title";
         label.style.margin = "16px 0 4px";
-        label.textContent = "Context istoric, Josephus și apocrife";
+        label.textContent = "Context și istorici";
         contentEl.appendChild(label);
         aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text));
       }
@@ -3839,7 +3837,7 @@ function renderVerses(){
     applyVerseMarkStyle(p, currentBookSlug, currentChapter, verse.num);
     versesEl.appendChild(p);
 
-    if(aprofundare && verse.refs && verse.refs.length){
+    if(verse.refs && verse.refs.length){
       const refsRow = document.createElement("div");
       refsRow.className = "inline-refs";
       verse.refs.forEach((refText, idx) => {
@@ -3866,36 +3864,12 @@ function renderVerses(){
 function parseRefBookChapterVerse(refText){
   const book = findBookBySlugName(refText);
   if(!book) return null;
-  const m = refText.match(/(\d+)\D+(\d+)(?:-(\d+))?/);
-  if(!m) return null;
-  const chapter = parseInt(m[1], 10);
-  const verse = parseInt(m[2], 10);
-  const endVerse = m[3] ? parseInt(m[3], 10) : verse;
-  return { book, chapter, verse, endVerse };
+  const nums = refText.match(/(\d+)\D+(\d+)/);
+  if(!nums) return null;
+  return { book, chapter: parseInt(nums[1], 10), verse: parseInt(nums[2], 10) };
 }
 
 let pendingRefNav = null; // { book, chapter, verse } - tinut minte pentru butonul "Mergi la pasaj"
-
-function renderRefPreviewVerses(textEl, versesArray, startNum, endNum){
-  textEl.innerHTML = "";
-  let found = 0;
-  for(let n = startNum; n <= endNum; n++){
-    const v = versesArray.find(v => Number(v.num) === n);
-    if(!v) continue;
-    found++;
-    if(found > 1) textEl.appendChild(document.createTextNode(" "));
-    const numSpan = document.createElement("span");
-    numSpan.className = "vnum";
-    numSpan.textContent = n;
-    textEl.appendChild(numSpan);
-    textEl.appendChild(document.createTextNode(plainVerseText(v)));
-  }
-  if(!found){
-    textEl.textContent = (startNum === endNum)
-      ? ("Versetul " + startNum + " nu a fost g\u0103sit.")
-      : ("Versetele " + startNum + "-" + endNum + " nu au fost g\u0103site.");
-  }
-}
 
 function showRefPreview(refText, anchorEl){
   const parsed = parseRefBookChapterVerse(refText);
@@ -3921,7 +3895,9 @@ function showRefPreview(refText, anchorEl){
   const sameChapterNow = String(currentBookSlug) === String(parsed.book.slug) && Number(currentChapter) === Number(parsed.chapter);
 
   if(sameChapterNow && Array.isArray(VERSES) && VERSES.length){
-    renderRefPreviewVerses(textEl, VERSES, parsed.verse, parsed.endVerse);
+    const v = VERSES.find(v => Number(v.num) === Number(parsed.verse));
+    textEl.textContent = v ? v.t : ("Versetul " + parsed.verse + " nu a fost g\u0103sit \u00een capitolul curent.");
+    if(!v) console.warn("DAVAR ref-preview: verset negasit in VERSES curent", parsed, VERSES);
     return;
   }
 
@@ -3934,7 +3910,9 @@ function showRefPreview(refText, anchorEl){
     .then(txt => {
       const jsonStr = txt.replace(/^[\s\S]*?window\.CHAPTER_DATA\s*=\s*/, "").replace(/;\s*$/, "");
       const data = JSON.parse(jsonStr);
-      renderRefPreviewVerses(textEl, data, parsed.verse, parsed.endVerse);
+      const v = data.find(v => Number(v.num) === Number(parsed.verse));
+      textEl.textContent = v ? v.t : ("Versetul " + parsed.verse + " nu a fost g\u0103sit.");
+      if(!v) console.warn("DAVAR ref-preview: verset negasit dupa fetch", parsed, data.length);
     })
     .catch((err) => {
       console.error("DAVAR ref-preview: eroare la incarcarea pasajului", url, err);
@@ -3945,16 +3923,6 @@ function showRefPreview(refText, anchorEl){
 function hideRefPreview(){
   document.getElementById("ref-preview-popover").classList.remove("show");
 }
-
-// Închidere la click în afara panoului (la fel ca la panoul de cuvinte/lexicon),
-// pe lângă butonul "✕", care rămâne disponibil.
-document.addEventListener("click", (e) => {
-  const refPopover = document.getElementById("ref-preview-popover");
-  if(!refPopover || !refPopover.classList.contains("show")) return;
-  if(!refPopover.contains(e.target) && !e.target.classList.contains("ref-pill-clickable")){
-    hideRefPreview();
-  }
-});
 
 function goToRefReal(){
   const parsed = pendingRefNav;
@@ -4081,21 +4049,21 @@ function showWordPopover(tok, anchorEl){
   document.getElementById("wp-heb").textContent = tok.heb;
   document.getElementById("wp-translit").textContent = tok.translit;
   document.getElementById("wp-strong").textContent = tok.strong + (tok.pos ? " · " + tok.pos : "");
-  document.getElementById("wp-def").textContent = tok.def_ro || "";
+  document.getElementById("wp-def").textContent = tok.def;
 
   const extraEl = document.getElementById("wp-extra");
   let extraHtml = "";
+  if(tok.bdb){
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">BDB</span>${tok.bdb}</div>`;
+  }
   if(tok.greek){
-    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">LXX (Septuaginta)</span><span class="wp-greek">${tok.greek}</span></div>`;
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">LXX</span><span class="wp-greek">${tok.greek}</span></div>`;
   }
-  if(tok.greek_def_ro){
-    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Definiție greacă</span>${tok.greek_def_ro}</div>`;
+  if(tok.samaritan){
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Samaritean</span>${tok.samaritan}</div>`;
   }
-  if(tok.diff_ro){
-    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Diferență ebraică / greacă</span>${tok.diff_ro}</div>`;
-  }
-  if(tok.dict_ro){
-    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Dicționar biblic</span>${tok.dict_ro}</div>`;
+  if(tok.occ){
+    extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Apariții în Tora</span>${tok.occ}</div>`;
   }
   extraEl.innerHTML = extraHtml;
 
@@ -4413,12 +4381,6 @@ const modeAprofundareBtn = document.getElementById("mode-aprofundare");
 function applyModeButtons(){
   modeCitireBtn.classList.toggle("active", appMode === "citire");
   modeAprofundareBtn.classList.toggle("active", appMode === "aprofundare");
-  const footerHint = document.getElementById("verses-footer-hint");
-  if(footerHint){
-    footerHint.innerHTML = (appMode === "aprofundare")
-      ? 'Atinge un verset pentru comentarii · cuvintele cu <b style="color:#d4a017;">•••</b> dedesubt au sens lexical — atinge-le pentru ebraică și traducere'
-      : 'Atinge un verset pentru comentarii.';
-  }
 }
 applyModeButtons();
 
@@ -5528,10 +5490,6 @@ function renderEssaysForParasha(nameSlug){
 function findBookBySlugName(refText){
   if(!refText) return null;
   const lower = refText.toLowerCase().trim();
-  // Excepție: pentru citarea unui psalm anume se folosește convențional
-  // forma la singular "Psalmul N" (nu numele cărții "Psalmii"), care nu
-  // se potrivește cu regula generică de mai jos (nu se termină în "ul").
-  if(lower.startsWith("psalmul")) return BOOKS.find(b => b.slug === "psalms") || null;
   return BOOKS.find(b => {
     const full = b.name.toLowerCase();
     const core = full.replace(/ul$/, ""); // "Deuteronomul" -> "deuteronom", ca sa prinda si "Deuteronom"
