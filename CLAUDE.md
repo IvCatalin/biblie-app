@@ -189,6 +189,7 @@ Niciodată nu presupune că o arhivă nouă e conținut nou.
 {
   "slug": "kab-...",
   "name": "...",
+  "name_ro": "...",
   "meta": "N capitole · M comentarii",
   "author": "...",
   "summary": "...",
@@ -201,6 +202,7 @@ Niciodată nu presupune că o arhivă nouă e conținut nou.
 - `meta` — doar cifre esențiale, fără fraze descriptive redundante („text integral" etc.)
 - `author` — nu repeta ce-i deja în titlu
 - `summary` — descriere reală, scurtă, menționează onest orice lacună cunoscută
+- `name_ro` — traducerea în română a titlului (`name`), naturală, nu literală cuvânt-cu-cuvânt dacă nu sună bine așa. Afișată în interfață (lista Bibliotecii) în locul liniei tehnice meta/autor, care s-a mutat în panoul „i" din cititor. Obligatoriu la fiecare lucrare nouă completată (`available: true`).
 
 ### Pasul 6 — Caută locul în `LIBRARY`
 1. Caută placeholder existent cu același slug (`available: false, chapters: []`)
