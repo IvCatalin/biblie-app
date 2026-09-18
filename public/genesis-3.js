@@ -345,6 +345,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:17 datează ispitirea cu o precizie absentă din Geneza: „după împlinirea celor șapte ani... în luna a doua, în ziua a șaptesprezecea, a venit șarpele și s-a apropiat de femeie” — adică la exact șapte ani de la intrarea în Eden, nu la scurt timp după creație, cum sugerează adesea lectura obișnuită a Genezei 2-3 ca o singură narațiune continuă."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Rashi leagă acest verset direct de precedentul, unde Dumnezeu face haine de piele pentru Adam și Eva: se întreabă „ce legătură are asta aici?” și răspunde că textul arată, de fapt, de unde a pornit ispita șarpelui — l-a văzut goi și împreunându-se în văzul tuturor, și a poftit-o pe ea. „Cel mai șiret dintre toate” arată că, prin șiretenia lui, i-a venit și căderea: „cel mai șiret dintre toate” a ajuns „cel mai blestemat dintre toate”. „Oare a zis Dumnezeu” e o exagerare deliberată: poate spusese „să nu mâncați din niciunul”, ca s-o facă pe ea să-i răspundă și să ajungă să vorbească tocmai despre pomul acela."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Trece în revistă părerile despre natura șarpelui: unii spun că Eva doar înțelegea limbajul animalelor; alții, că șarpele ar fi însuși Satana — părere pe care Ibn Ezra o respinge, întrebând retoric cum ar merge Satana „pe pântece” și ar mânca „țărână”, potrivit blestemului de mai târziu. Respinge și părerea lui Saadia Gaon, după care doar omul are grai și cunoaștere, deci un înger ar fi vorbit prin șarpe — socotind mai potrivită lectura simplă: șarpele chiar vorbea, mergea drept, în picioare, iar Dumnezeu îi dăduse minte, la fel ca celorlalte vietăți dinainte de a fi blestemat. „Șiret”, aici, înseamnă „înțelept, care-și duce la capăt planurile prin viclenie” — nu doar „gol”, cum ar suna asemănător în ebraică."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Identifică șarpele cu Satana, adică cu pofta rea din om — numit „șarpe” pentru că, la fel ca șarpele, produce puțin folos și mult rău, deși pare neînsemnat. Explică „cel mai șiret” prin puterea închipuirii, care aduce în minte imaginile plăcerilor materiale mai puternic la om decât la orice altă viețuitoare — de aceea „cine-i mai mare [ca statut] are și pofta rea mai mare”."
    }
   ],
   "textCompare": [
@@ -531,6 +543,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Ambrozie al Milanului, Despre Paradis 12.56-60",
     "text": "Deși știi că șarpele e mai viclean decât toate făpturile, iscusința lui se vede mai ales aici. Întinzându-și cursele, se preface că rostește chiar cuvintele lui Dumnezeu, căci Dumnezeu zisese deja: «Din orice pom al grădinii poți să mănânci, dar din pomul cunoașterii binelui și răului să nu mănânci.» Șarpele a strecurat o minciună întrebând-o pe femeie astfel: «A zis oare Dumnezeu să nu mâncați din niciun pom?» — când Dumnezeu spusese de fapt: «Din orice pom al grădinii poți să mănânci, dar dintr-un singur pom să nu mănânci.» Nu era nimic neclar în poruncă. Greșeala a fost în felul cum a fost istorisită."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Vede în răspunsul Evei un prim semn de slăbiciune: n-avea niciun motiv să riște mâncând din pomul despre care Dumnezeu spusese limpede că aduce moartea — dar închipuirea ei, tot mai puternică, a început deja să-i șoptească, pe nedrept, o urmă de invidie din partea lui Dumnezeu."
+   },
+   {
+    "author": "Matthew Henry, Comentariu la întreaga Biblie",
+    "text": "Vede, chiar în faptul că Eva intră în dialog cu șarpele, primul pas greșit: „cetatea care se-nvoiește la tratative nu e departe de a se preda” — cine vrea să nu mănânce rodul oprit trebuie să nu se apropie nici de pomul oprit (Proverbe 4:15)."
    }
   ]
  },
@@ -717,6 +737,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:18 confirmă exact adăugirea Evei față de porunca originală: „nici să vă atingeți de el” — același detaliu discutat de comentatorii evrei clasici ca posibilă exagerare a Evei față de porunca dată direct lui Adam (Geneza 2:17)."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Observă că Eva a adăugat ceva la porunca originală — „nici să nu vă atingeți de el” nu fusese spus lui Adam — și tocmai de aceea a ajuns să scadă din ea: „nu adăuga la cuvintele Lui” (Proverbe 30:6). Adăugarea unei îngrădiri prea aspre s-a întors, în cele din urmă, împotriva poruncii înseși."
+   },
+   {
+    "author": "Philon din Alexandria, Întrebări și răspunsuri la Facere I.35",
+    "text": "Explică de ce Eva adaugă „nici să nu-l atingeți”: gustul și orice alt simț depind de atingere — așa că, cine adaugă atingerea la interdicție, îi condamnă și mai aspru pe cei care, nu doar au atins, ci au și mâncat, o încălcare cu atât mai mare."
    }
   ],
   "textCompare": [
@@ -883,6 +911,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:19 redă răspunsul șarpelui aproape identic cu Geneza: „Nu veți muri nicidecum; căci Dumnezeu știe că în ziua în care veți mânca din el vi se vor deschide ochii, și veți fi ca dumnezeii, și veți cunoaște binele și răul.”"
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Rashi povestește o scenă vie: șarpele a împins-o pe Eva până a atins pomul, apoi i-a spus: „așa cum n-a fost moarte din atingere, nu va fi moarte nici din mâncare”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Explică „nu veți muri negreșit”: șarpele n-a negat porunca de teama morții, ci a susținut că Dumnezeu o oprise fiindcă știa că mâncarea din ea aduce o cunoaștere nouă, care i-ar face „asemenea lui Dumnezeu”, desăvârșiți în cunoaștere."
    }
   ]
  },
@@ -1060,6 +1096,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Cetatea lui Dumnezeu 14.13",
     "text": "Concluzia e că diavolul n-ar fi început printr-un păcat deschis și vădit să-l ispitească pe om să facă ceva ce Dumnezeu oprise, dacă omul n-ar fi început deja să-și caute mulțumirea în sine însuși și, prin urmare, să-i placă vorbele «veți fi ca dumnezeii». Făgăduința acestor cuvinte, totuși, s-ar fi împlinit cu mult mai adevărat dacă, prin ascultare, Adam și Eva ar fi rămas apropiați de izvorul lor cel din urmă și adevărat, în loc să-și închipuie, prin mândrie, că ei înșiși erau izvorul propriei lor ființe. Oricine caută să fie mai mult decât e devine mai puțin."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Citează un midraș îndrăzneț despre cuvântul „știe”: „orice meșter urăște pe cei de breasla lui” — insinuarea șarpelui fiind că Dumnezeu Însuși ar fi „mâncat din acel pom și ar fi creat lumea”, de-aceea nu vrea concurență. E o calomnie pusă în gura șarpelui, nu o afirmație a textului despre Dumnezeu."
+   },
+   {
+    "author": "Ioan Calvin, Comentarii la Facere",
+    "text": "Vede în cuvintele șarpelui o batjocorire vicleană a lui Dumnezeu: mai întâi spusese limpede „nu veți muri”, apoi, ca să-și întărească minciuna, sugerează că interdicția ar veni din pizmă — ca Dumnezeu să nu fie silit să-i ridice pe oameni la rangul Său. Nu neagă că rodul ar fi bun; neagă doar că poate vătăma, iar aceasta ajunge s-o convingă pe Eva."
+   },
+   {
+    "author": "Philon din Alexandria, Întrebări și răspunsuri la Facere I.36",
+    "text": "Se întreabă de unde știa șarpele să vorbească la plural despre „dumnezei”, de vreme ce Dumnezeu e unul singur — vede aici un semn profetic al politeismului care avea să apară mai târziu printre oameni, purces, simbolic, tocmai din gura celei mai josnice dintre fiare."
    }
   ],
   "textCompare": [
@@ -1384,6 +1432,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:20-21 urmează îndeaproape Geneza: „femeia a văzut că pomul era plăcut și desfătător la ochi, și că rodul lui era bun de mâncare, și a luat din el și a mâncat. Și după ce și-a acoperit întâi rușinea cu frunze de smochin, i-a dat și lui Adam.” Notabil: în Jubilee, Eva își acoperă rușinea ÎNAINTE de a-i da rodul lui Adam — o secvență ușor diferită de Geneza, unde amândoi rămân goi până după ce mănâncă amândoi."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Explică pas cu pas cum Eva a fost convinsă: a crezut vorbele șarpelui și le-a găsit pe plac; „bun de mâncat” — ca să fie ca Dumnezeu; „poftă pentru ochi” — așa cum îi spusese, „vi se vor deschide ochii”; „de dorit ca să dea înțelepciune” — așa cum îi spusese, „cunoscând binele și răul”. Iar „a dat și bărbatului ei” arată teama ei că ar muri singură, iar el ar rămâne în viață și s-ar însura cu alta; „și” mai arată că a dat de mâncat și dobitoacelor și vietăților."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Discută identitatea pomului: unii cred că era smochinul, pentru că Adam și Eva și-au acoperit goliciunea cu frunze de smochin — dar, obiectează Ibn Ezra, textul ar fi spus atunci limpede „frunză de pom al cunoștinței”, nu „de smochin”; alții cred că era grâu. Socotește, în schimb, că erau doi pomi aparte, aflați numai în grădina Edenului — iar „pomul cunoștinței” avea puterea să trezească pofta trupească, de-aceea și-au acoperit goliciunea de-abia după ce au mâncat din el."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "Explică schimbarea de percepție a Evei în trei pași: crezuse mai întâi că rodul era amar, otravă a morții — acum îl vede „bun”, dulce la mâncare. „Poftă pentru ochi” înseamnă că, prin el, avea să „poftească și să umble după ochii ei”; iar „de dorit ca să dea înțelepciune” arată că pofta, odată intrată în minte, capătă un rost: dorința de a alege un lucru sau contrariul lui."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Adaugă: locul și aerul grădinii, împreună cu mireasma rodului, l-au făcut să pară „bun la mâncare”; „de dorit ca să dea înțelepciune” vine tocmai din faptul că Dumnezeu Însuși îl numise „pomul cunoștinței”; iar inima lui Adam s-a lăsat înduplecată de cuvintele ei tocmai pentru că-i era soție și-i era alături."
    }
   ],
   "textCompare": [
@@ -1573,6 +1637,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:21-22 confirmă aproape identic: „i s-au deschis ochii, și a văzut că era gol... a luat frunze de smochin și le-a cusut laolaltă, și și-a făcut un brâu.”"
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "Urmează aici cuvintele lui Rashi despre „înțelepciune, nu vedere fizică” și adaugă o dovadă din Psalmi: „descoperă-mi ochii, ca să văd minunile din Legea Ta” (119:18) — unde „a deschide ochii” înseamnă limpede înțelegere, nu simplă vedere."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Explică „li s-au deschis ochii” ca o nouă luare-aminte la orice plăcere, oricât de dăunătoare — a fi atent la un lucru se numește, în Scriptură, „a deschide ochii” asupra lui. „Au cunoscut că erau goi” înseamnă că au înțeles, de-acum, că se cuvenea să-și acopere trupul, de vreme ce fapta unirii avea să urmărească, de-atunci, o plăcere josnică și dăunătoare, nu doar rostul dintâi."
+   },
+   {
+    "author": "Ioan Calvin, Comentarii la Facere",
+    "text": "Vede în rușinea bruscă a lui Adam și Evei o autocondamnare: nimeni nu-i acuzase încă, dar conștiința lor, judecător dinlăuntru, îi silește să recunoască vina prin însuși simțământul rușinii — semn limpede că fapta lor fusese osândită chiar de propria lor judecată, înainte de orice proces."
    }
   ],
   "textCompare": [
@@ -1824,6 +1900,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "Atunci amândoi au cunoscut că, de fapt, erau goi și au căutat acoperăminte pentru părțile rușinoase, expuse privirilor: căci pomul le dăruise agerimea și înțelegerea. Cu frunze de smochin s-au învelit, acoperindu-și rușinea, și s-au arătat mai bucuroși decât fuseseră deunăzi, fiindcă dobândiseră o pricepere care le lipsise mai înainte. Când Dumnezeu a venit în grădină, Adam, până atunci obișnuind să-I vorbească fără ocol, a rămas ascuns, mustrat de păcatul săvârșit."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "Discută natura acestui „glas”: urmând pe Ibn Ezra, arată că „umblând” descrie mișcarea sunetului, nu a lui Dumnezeu — ca la „glasul ei umblă ca un șarpe” (Ieremia 46:22). Propune însă o interpretare proprie: „umblând în grădină” înseamnă mai degrabă arătarea și apoi retragerea Șechinei (prezenței divine) din locul acela — ca la „Domnul a plecat, după ce a isprăvit de vorbit cu Avraam” (Geneza 18:33) — însoțită de un vânt puternic, semn obișnuit al descoperirii divine. „Spre răcoarea zilei” arată că vântul acesta a fost blând, nu năprasnic, ca să nu-i înspăimânte — dar ei tot s-au ascuns, de rușinea goliciunii lor."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Explică „umbla” ca mișcare încoace și-ncolo, potrivit unui scop anume, iar „spre răcoarea zilei” ca voia acelei zile anume, așa cum lucrase și în celelalte zile ale creației. Ascunderea lor, adaugă el, era firea celui ce nu vrea să i se vadă goliciunea."
    }
   ],
   "textCompare": [
@@ -1964,6 +2048,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "Dumnezeu a rămas surprins de purtarea lui Adam și a căutat să afle din ce pricină mai înainte îl întâmpina bucuros, iar acum fugea și se ascundea."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Explică întrebarea ca retorică: Dumnezeu știa foarte bine unde e Adam, dar a intrat în vorbă cu el blând, ca să nu-l ia prin surprindere cu o pedeapsă bruscă — la fel cum, mai târziu, îl întreabă pe Cain „unde-i Abel, fratele tău?” (4:9), pe Balaam „cine sunt oamenii aceștia cu tine?” (Numeri 22:9), sau pe Ezechia, prin trimișii lui Merodac-Baladan (Isaia 39:1) — pretutindeni, un mod blând de a începe conversația."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Citește întrebarea ca mirare: „de ce nu te mai arăți în grădină, cum făceai înainte de-a te ascunde acum — lucru pe care nu-l făceai mai devreme?”."
    }
   ],
   "textCompare": [
@@ -2181,6 +2273,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 17.22",
     "text": "Vedeți, fiindcă nu ignora adevărul când i-a întrebat, ci îl știa, și-l știa foarte bine, arată îngăduință față de neputințele lor, ca să-Și dovedească propria iubire de oameni, și îi cheamă să-și mărturisească greșelile."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Vede o paralelă cu Israel după păcatul vițelului de aur: „s-au temut să se apropie de el” (Ieșirea 34:30) — aceeași teamă instinctivă, izvorâtă din conștiința vinovăției, nu dintr-o poruncă anume."
+   },
+   {
+    "author": "Ioan Calvin, Comentarii la Facere",
+    "text": "Observă că răspunsul lui Adam nu e încă pocăință adevărată: pune vina pe glasul lui Dumnezeu și pe propria goliciune, ca și cum n-ar mai fi auzit niciodată acel glas fără teamă — nu recunoaște că păcatul, nu goliciunea, e adevărata pricină a rușinii lui."
    }
   ]
  },
@@ -2350,6 +2450,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "N-a primit niciun răspuns de la Adam, care recunoștea că-I încălcase porunca. Dumnezeu i-a spus atunci: «În ceea ce vă privește, hotărârea Mea a fost să duceți un trai fericit și scutit de orice necazuri... Acum însă Mi-ai disprețuit porunca, nu te-ai supus voinței Mele, tăcerea nefiind deloc dovada virtuții, ci a conștiinței atât de încărcate.»"
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "„Cine ți-a spus” — de unde ai aflat ce rușine e în a sta gol? „Oare din pom...?” e întrebare retorică plină de mirare."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "„Cine ți-a spus” privește cunoașterea binelui și răului; „căci ești gol” arată că tocmai de-aceea se cuvenea acum să te acoperi."
+   },
+   {
+    "author": "Ioan Calvin, Comentarii la Facere",
+    "text": "Vede în întrebarea lui Dumnezeu un mod de-a străpunge mai adânc un om bolnav care nu-și recunoaște boala — ca un febril care se plânge că arde, dar nu se gândește la febră ca la adevărata pricină."
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii la Facere",
+    "text": "Notează o nuanță blândă în „acel [singur] pom”: parcă ar spune, «Nu ți-am oprit chiar totul — ți-am dat stăpânire peste toată grădina și doar un singur lucru ți-am cerut să eviți»."
    }
   ]
  },
@@ -2513,6 +2629,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "Atunci Adam a căutat să se spele de păcat și L-a rugat să nu fie mânios pe el, aruncând vina faptei asupra femeii și spunând că ea l-a ispitit să cadă în greșeală."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Adaugă o observație morală aspră: în loc să-și recunoască vina, Adam o aruncă, de fapt, asupra lui Dumnezeu Însuși („femeia pe care Tu mi-ai dat-o”) — spre deosebire de David, care, mustrat de Natan, a spus simplu: „am păcătuit împotriva Domnului” (2 Samuel 12:13), fără să caute vinovați în altă parte."
    }
   ],
   "textCompare": [
@@ -2697,6 +2817,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "La rândul ei, femeia a devenit învinuitoarea șarpelui."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "„M-a amăgit” — l-a înșelat, ca la „să nu vă amăgească Ezechia” (2 Cronici 32:15)."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "Explică de ce Eva e trasă la răspundere, deși porunca fusese dată doar lui Adam: la momentul acela ea era deja „os din oasele lui”, deci inclusă în avertismentul dat lui — și inclusă, la fel, în pedeapsă. Textul nu-i spune ei „ai mâncat din pom”, pentru că vina ei acoperă și mâncatul, și îndemnul dat lui Adam, la fel cum șarpele e pedepsit tocmai pentru îndemn — de aici putem învăța despre răspunderea celui ce împinge pe altul la păcat, ca la porunca „să nu pui piatră de poticnire înaintea orbului” (Levitic 19:14)."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Citește întrebarea adresată Evei ca o ultimă chemare la pocăință: Dumnezeu nu voiește moartea celui vinovat, ci întoarcerea lui."
    }
   ]
  },
@@ -2935,6 +3067,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:23 rezumă blestemul șarpelui într-o singură propoziție scurtă, fără detaliile fizice pe care le dezvoltă Josephus (pierderea vorbirii și a picioarelor): „Dumnezeu a blestemat șarpele, și s-a mâniat pe el pentru totdeauna.”"
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Notează un principiu: nu se răstoarnă sarcina probei în favoarea ispititorului — dacă l-ar fi întrebat de ce a făcut asta, ar fi putut răspunde „vorbele învățătorului și vorbele discipolului, pe ale cui le asculți?” De aceea pedeapsa vine direct. „Dintre toate dobitoacele și toate fiarele câmpului” arată o măsură progresivă: dacă a fost blestemat mai rău decât dobitoacele domestice, cu atât mai mult decât fiarele sălbatice. „Pe pântecele tău vei merge” — avusese picioare, și acestea i-au fost tăiate."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Explică blestemul „mai mult decât orice altă viețuitoare” prin dobândirea nevoilor cu mai multă trudă și mai puțină plăcere decât oricare alt animal — spun înțelepții că Adam „a trudit mult până să mănânce o bucată de pâine”. „Vei mânca țărână” arată că nici măcar plăcerea dinainte de păcat, la mâncare, băutură și împreunare, nu va mai fi atinsă — la fel cum, după păcatul lui Israel, curăția rituală a luat gustul și mirosul hranei."
    }
   ],
   "textCompare": [
@@ -3187,6 +3327,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Întrebări ebraice asupra Genezei",
     "text": "(Versetul 15) El îți va păzi capul, iar tu îi vei păzi călcâiul. Mai bine e în ebraică: El îți va zdrobi capul, iar tu îi vei zdrobi călcâiul; căci pașii noștri sunt împiedicați de șarpe, iar Domnul îl va zdrobi curând pe Satana sub picioarele noastre."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Explică de ce dușmănia se pune tocmai aici: fiindcă șarpele n-a vorbit mai întâi cu Adam, ci cu Eva — femeile fiind mai ușor de amăgit și pricepute să-și amăgească soții — de aceea Dumnezeu pune „dușmănie” care să oprească o asemenea apropiere pe viitor. „Îți va zdrobi capul” înseamnă că te va sfărâma; „iar tu îl vei răni la călcâi” — n-o să mai ai stat înalt, îl vei mușca doar de călcâi, de jos, dar chiar și de-acolo îl poți ucide; cuvântul „va zdrobi/va răni” sună, în ebraică, ca șuierul pe care-l scoate șarpele înainte să muște."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "Explică „îl vei răni doar la călcâi”: omul va avea, în această dușmănie, un avantaj asupra șarpelui — el îl va zdrobi „la cap”, în timp ce șarpele nu-l poate atinge decât „la călcâi”, zdrobindu-i creierul chiar acolo, jos."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Explică „voi pune dușmănie” ca pe o repulsie sădită chiar în închipuirea omului — bărbat sau femeie deopotrivă — față de propria poftă, „nu doar între tine și femeie”, ci „între sămânța ta și sămânța ei”, adică pentru toate generațiile următoare. „Îți va zdrobi capul” înseamnă că închipuirea va micșora plăcerea chiar la începutul ei, punând înainte imaginea răului ce poate urma; „iar tu îl vei răni la călcâi” arată că, atunci când pofta învinge totuși, ea naște răul abia la sfârșitul plăcerii."
    }
   ],
   "textCompare": [
@@ -3413,6 +3565,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:24 confirmă aproape cuvânt cu cuvânt: „Voi înmulți foarte durerea ta și durerile tale; în durere vei naște copii, și întoarcerea ta va fi la bărbatul tău.”"
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Detaliază fiecare durere: „chinul tău” — durerea creșterii copiilor; „însărcinarea ta” — durerea sarcinii; „cu durere vei naște copii” — durerea nașterii; „dorința ta va fi spre bărbatul tău” — dorința de împreunare, dar fără îndrăzneala de a o cere cu gura — „el te va stăpâni”: totul va porni de la el, nu de la tine."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "Nu e de acord cu citirea lui Rashi (dorința ca simplu impuls rușinos): înțelepții numesc, dimpotrivă, această trăsătură „o calitate frumoasă la femei” (Eruvin 100b). Propune propria explicație: Eva va tânji intens după soțul ei, în ciuda durerii sarcinii și nașterii, iar el o va trata ca pe o slujitoare — și, contra firii unui rob (care de obicei fuge de stăpân, nu-l dorește), ea va rămâne, totuși, atașată de el. E o măsură-pentru-măsură: ea îi dăduse lui poruncă (rodul), iar acum el îi va porunci ei."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "„Chinul tău” privește sângele necurăției lunare — de-aceea numit „boală”, ca și cum ar fi bolnavă toată acea vreme. „Însărcinarea ta” inversează starea dinainte de păcat, când, spun înțelepții, zămislirea și nașterea aveau loc chiar în aceeași zi — stare pe care o vor recăpăta, în viitor, cei plăcuți lui Dumnezeu. „Cu durere vei crește copii” — mai mult decât orice altă viețuitoare, căci „naștere” înseamnă aici și creșterea lor, nu doar aducerea pe lume."
    }
   ],
   "textCompare": [
@@ -3656,6 +3820,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:25 redă blestemul pământului aproape identic cu Geneza: „Pentru că ai ascultat de glasul soției tale, și ai mâncat din pomul din care ți-am poruncit să nu mănânci, blestemat să fie pământul din pricina ta: spini și pălămidă îți va odrăsli.”"
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Explică „blestemat e pământul din pricina ta”: acum va scoate din el lucruri blestemate — muște, purici, furnici — ca o pildă despre un fiu ajuns pe căi rele, pe care lumea îl ocărăște amintindu-i de la ce sân a supt."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Leagă blestemul pământului direct de vină: „fiindcă ai ascultat de glasul soției tale” — atribuindu-I lui Dumnezeu, pe nedrept, minciună și invidie — și „ai mâncat din pom”, călcând porunca, pământul nu-și va mai da rodul decât cu multă trudă."
    }
   ],
   "textCompare": [
@@ -3851,6 +4023,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 17.40-41",
     "text": "Iată amintirile blestemului: va da spini, zice, și ciulini, ca să pricinuiască multă trudă și neplăcere, și voi face să-ți petreci toată vremea în durere, ca această trăire să-ți fie o frână împotriva gândurilor prea înalte despre tine, și să iei aminte, în schimb, la firea ta și să nu mai suferi vreodată să fii amăgit în asemenea lucruri."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Explică „spini și pălămidă va odrăsli”: chiar dacă vei semăna semințe obișnuite, pământul va scoate spini, pălămidă și alte buruieni, devenite hrană abia după multă trudă de curățare. Iar „vei mânca iarba câmpului” nu contrazice binecuvântarea inițială (1:29), care dăduse omului toată iarba cu sămânță drept hrană: de-acum, chiar semănând legume de grădină, pământul va scoate laolaltă cu ele spini și buruieni de câmp — și, vrând-nevrând, va trebui să le mănânce și pe acelea."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Explică „iarba câmpului” drept pâinea însăși — de vreme ce, în Eden, omul se hrănea din rodul pomilor, „iarba câmpului” de-acum înainte va însemna grâul muncit cu sudoare."
+   },
+   {
+    "author": "Matthew Henry, Comentariu la întreaga Biblie",
+    "text": "Vede în spinii și pălămida de-acum o icoană a sufletului căzut, mai rodnic în rău decât în bine — dar găsește și o taină de mângâiere: Hristos Însuși avea să poarte, mai târziu, o cunună de spini și sudoare ca picături de sânge, „ca leacul să fie pe măsura rănii”."
    }
   ]
  },
@@ -4046,6 +4230,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "Eva a fost pedepsită cu nașterile și chinurile facerii care le însoțesc, fiindcă s-a lăsat păcălită de șarpe, târându-l și pe Adam în nenorocirile urzite împotriva lui. Șarpele a fost lipsit și de picioare, încât să-și târască trupul pe pământ, încolăcindu-se prin praf."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "„În sudoarea frunții tale” — abia după multă trudă vei mânca pâinea."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Explică nevoia de trudă prin felul hranei: omul are nevoie să vânture, macine, frământe și coacă, spre deosebire de hrana dobitoacelor. La „căci din el ai fost luat”, explică: oasele omului se trag din țărână, de-aceea sunt grele și fără simțire, temelia trupului — „ca oasele care se apropie unul de altul” (Ezechiel 37:7), peste care vin apoi tendoanele, carnea și pielea."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "„Și în țărână te vei întoarce” — exact cum te avertizasem când ți-am poruncit, spunând „în ziua în care vei mânca din el, vei muri negreșit”: ești pregătit, de-acum, pentru moarte, la sfârșitul zilelor tale."
    }
   ],
   "textCompare": [
@@ -4212,6 +4408,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:33 confirmă exact: „Și Adam a chemat numele soției sale Eva” — plasată însă de Jubilee DUPĂ ieșirea din grădină (3:32-33), nu înainte de ea ca în Geneza, unde numirea Evei (3:20) precede îmbrăcarea în piele și izgonirea (3:21-24)."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Textul revine la firul întrerupt: numirea vietăților de către Adam rămăsese neterminată tocmai ca să arate cum, prin ea, i-a fost dată Eva de pereche — de vreme ce „pentru Adam nu s-a găsit ajutor pe potriva lui”, de-aceea a urmat somnul adânc; iar faptul că „amândoi erau goi” a fost pus imediat înaintea episodului șarpelui, ca să arate că, văzându-i goi și împreunându-se, șarpele a poftit-o. Numele „Eva” vine de la „a da viață” — ea dă viață urmașilor ei."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "„Eva” arată că ea va trebui să trăiască și să-și crească fiii în starea ei de vină; „mama a toată viața” — deși același lucru se va întâmpla și celorlalte femei, doar ea poartă acest nume, fiind cea dintâi dintre toate."
    }
   ],
   "textCompare": [
@@ -4354,6 +4558,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:26 confirmă: „Și le-a făcut haine de piele, și i-a îmbrăcat, și i-a scos din Grădina Edenului” — deși aici cele două acte (îmbrăcarea și izgonirea) apar contopite într-un singur verset, fără intervalul pe care Geneza îl lasă între ele (3:21 vs. 3:23-24)."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Citează două tradiții agadice despre „hainele de piele”: unii spun că erau netede, lipite de piele ca unghia; alții, că erau făcute dintr-un material blând, tras din piele — ca blana de iepure, moale și caldă."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Trece în revistă mai multe explicații despre natura acestor haine — unii spun că trupul avea la-nceput doar os și carne, acoperite acum de piele; alții, că erau haine „pentru” piele, nu „din” piele — dar încheie cu smerenie: „cine poate spune faptele Lui puternice, cine poate povesti lucrările și minunile Lui? Măreția Lui n-are hotar”."
    }
   ],
   "textCompare": [
@@ -4602,6 +4814,26 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Predici la Facere 7",
     "text": "Priviți din nou grija plină de îngăduință a lui Dumnezeu. «Domnul Dumnezeu a zis», zice textul, «Iată, Adam a ajuns ca unul dintre Noi, cunoscând binele și răul.» Intenția aici e să ne amintească, prin aceste cuvinte, de înșelăciunea săvârșită asupra lor de diavol, prin mijlocirea șarpelui, care zisese: «Dacă veți mânca, veți fi ca dumnezeii.» De aceea Dumnezeu a voit din nou să-i facă să se rușineze, să-i aducă la simțământul păcatelor lor și să le arate gravitatea neascultării lor și prisosul înșelăciunii. Mare e mustrarea din această frază, în stare să atingă inima călcătorului de poruncă."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "Explică „a ajuns ca unul dintre Noi”: e unic printre făpturile de jos, așa cum Dumnezeu e unic în cele de sus — iar unicitatea lui stă tocmai în cunoașterea binelui și răului, lucru care nu se găsește la dobitoace și fiare. „Ca nu cumva să-și întindă mâna” [spre pomul vieții]: dacă ar trăi veșnic, ar fi aproape de a amăgi lumea să-l urmeze, spunând că și el e dumnezeu."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "Explică: Dumnezeu voia ca hotărârea morții asupra omului să rămână în picioare — dacă ar fi mâncat și din pomul vieții, menit să dea viață veșnică celor ce mănâncă din el, hotărârea ar fi fost anulată. De-aceea, acum că omul avea puterea de-a alege, i s-a păzit acest pom, căci înainte de păcat făcea doar ce i se poruncea și n-avea nevoie de el. Adaugă: dacă pomul cunoștinței era „bun la mâncare” și „de dorit”, de ce l-ar fi oprit Dumnezeu, El care e binele însuși și nu oprește binele de la cei ce umblă drept? Recunoaște cinstit că „acestea sunt lucruri îndoite: cel descoperit și cel ascuns sunt amândouă adevărate” — taina rămâne, pentru el, doar parțial dezlegată."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Explică „cunoscând binele și răul” ca pe o nouă facultate, parte a chipului divin din om — dar dacă ar rămâne veșnic în această stare, ar alerga la nesfârșit după plăcere, lepădând orice înțelegere și faptă bună, ratând tocmai fericirea duhovnicească pentru care fusese plăsmuit după chipul și asemănarea lui Dumnezeu."
+   },
+   {
+    "author": "Ioan Calvin, Comentarii la Facere",
+    "text": "Citește versetul ca mustrare ironică menită să străpungă inima omului: cum, se întreabă el, cel în care strălucea de curând chipul lui Dumnezeu ajunge acum să se ascundă sub piei duhnind — semn că mai multă cuviință se află într-un animal mort decât într-un om viu."
+   },
+   {
+    "author": "John Gill, Expunerea întregii Biblii",
+    "text": "Propune, dimpotrivă, o citire serioasă, nu ironică: versetul ar putea descrie starea trecută a omului („omul era ca unul dintre Noi”) — chip al lui Dumnezeu, cap peste toată creația — spre a arăta, prin contrast, cât de mult a pierdut prin păcat."
    }
   ],
   "textCompare": [
@@ -4792,6 +5024,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor adaugă aici două elemente complet absente din Geneza: la ieșirea din grădină, Adam a adus o jertfă de mireasmă plăcută — tămâie, gálban și stacte (3:27) — iar în chiar ziua aceea „s-a închis gura tuturor fiarelor, și a vitelor, și a păsărilor... încât nu au mai putut vorbi; căci toate vorbiseră una cu alta cu o singură buză” până atunci (3:28). Niciunul dintre aceste două detalii — jertfa lui Adam și pierderea vorbirii de către animale — nu are corespondent în textul biblic canonic."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Explică „l-a trimis” ca expresie de rușine, nu de cinste — la fel ca „trimis dinaintea feței Mele” — respingând părerea unui înțelept spaniol care-i dădea sens onorific. Despre heruvimi: sunt îngerii bine cunoscuți, purtând o sabie învăpăiată cu două tăișuri, „care se învârtea încoace și-ncolo” — respinge ca „neadevărată” orice interpretare care i-ar identifica, alegoric, cu soarele."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "Explică trimiterea ca poruncă limpede de plecare; pământul din care fusese luat i se potrivea, prin fire și aer, mai bine decât orice altă parte a pământului pentru hrana și nevoile sale."
    }
   ]
  },
@@ -4988,6 +5228,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.23.35",
     "text": "«Dumnezeu a pus heruvimi și o sabie de flacără, mișcătoare, să păzească drumul spre pomul vieții.» Cei ce traduc cuvintele ebraice din Scriptură spun că «heruvim» înseamnă în latină «plinătatea cunoașterii». Sabia de flacără, mișcătoare, înseamnă pedepsele vremelnice, fiindcă vremurile se mișcă în neîncetata lor schimbare. Se numește «de flacără» fiindcă orice necaz arde într-un fel sau altul. Dar altceva e să fii ars până ești mistuit, și altceva să fii ars până ești curățit."
+   },
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "„La răsăritul grădinii Edenului” — dincolo de ea, spre răsărit, în afara grădinii. „Heruvimii” sunt îngeri nimicitori. Despre „sabia învăpăiată care se-nvârtea” — arată ascuțimea ei, menită să-i sperie pe cei ce ar vrea să intre din nou în grădină; există și un midraș agadic pe-acest subiect, dar Rashi se ține de sensul simplu al textului."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "L-a alungat ca să nu se mai întoarcă vreodată, el sau urmașii lui, în grădină; heruvimii se așezaseră acolo chiar înainte ca ei să iasă, ca să păzească drumul spre pomul vieții — ca nu cumva, la ieșire, să se abată spre el și să mănânce din el."
    }
   ],
   "textCompare": [
