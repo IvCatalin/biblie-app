@@ -1087,8 +1087,8 @@
   main{padding:20px; flex:1;}
 
   .verse{
-    margin-bottom:20px;
-    line-height:1.9;
+    margin-bottom:14px;
+    line-height:1.75;
     font-size:inherit;
     cursor:pointer;
     padding:6px 8px;
@@ -1119,10 +1119,18 @@
   .speak-btn svg{width:15px; height:15px; display:block;}
   .speak-btn:active{opacity:1;}
 
-  /* ---- spațiere între versete — doar în modul Citire; Aprofundare rămâne fix (regula .verse de mai sus) ---- */
-  #verses.mode-citire.bsp-compact .verse{ margin-bottom:4px; line-height:1.45; }
-  #verses.mode-citire.bsp-normal .verse{ margin-bottom:10px; line-height:1.65; }
-  #verses.mode-citire.bsp-wide .verse{ margin-bottom:20px; line-height:1.9; }
+  /* ---- modul Citire: text curgător, versete inline (nu blocuri), fără iconiță de sunet ---- */
+  #verses.mode-citire{ line-height:1.75; }
+  #verses.mode-citire .verse{
+    display:inline;
+    margin:0;
+    padding:0 1px;
+    border-radius:3px;
+  }
+  #verses.mode-citire .vnum{ margin-left:5px; }
+  #verses.mode-citire.bsp-compact{ line-height:1.5; }
+  #verses.mode-citire.bsp-normal{ line-height:1.75; }
+  #verses.mode-citire.bsp-wide{ line-height:2.1; }
 
   /* ---- teme de citire pentru textul biblic (Citire + Aprofundare) ---- */
   #verses.bible-theme-dark, #verses.bible-theme-dark .verse{ color:#B7C2D6; }
@@ -1224,11 +1232,12 @@
   }
 
   .comment-hint{
-    display:inline-block;
-    margin-left:6px;
-    font-size:12px;
-    color:var(--gold);
-    opacity:0.7;
+    display:block;
+    margin:3px 0 0;
+    font-size:0.65em;
+    font-style:italic;
+    color:#FFD700;
+    opacity:0.85;
     font-family:'Inter', sans-serif;
   }
   .editorial{
@@ -1336,6 +1345,29 @@
     display:inline-block;
     width:auto;
   }
+  .ref-preview-footer{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:10px;
+  }
+  .ref-preview-actions{
+    display:flex;
+    justify-content:flex-end;
+    gap:8px;
+  }
+  .ref-preview-icon-btn{
+    background:rgba(255,255,255,0.08);
+    border:1px solid var(--glass-border);
+    border-radius:50%;
+    width:32px; height:32px;
+    display:flex; align-items:center; justify-content:center;
+    color:var(--ink-soft);
+    cursor:pointer;
+    flex-shrink:0;
+  }
+  .ref-preview-icon-btn svg{width:15px; height:15px; display:block;}
+  .ref-preview-icon-btn:active{color:var(--gold); border-color:var(--gold);}
 
   .wp-word{
     font-family:'Fraunces', serif;
@@ -1834,24 +1866,24 @@
     gap:8px;
   }
   .inline-refs{
-    margin:-10px 0 20px 8px;
-    font-size:12.5px;
+    margin:-6px 0 12px 8px;
+    font-size:0.72em;
     line-height:1.6;
-    color:var(--ink-soft);
+    opacity:0.82;
   }
   .ref-pill{
-    color:var(--ink-soft);
+    color:inherit;
   }
   .ref-pill-clickable{
     cursor:pointer;
-    border-bottom:1px dotted var(--ink-soft);
+    border-bottom:1px dotted currentColor;
   }
   .ref-pill-clickable:active{
     color:var(--gold);
     border-bottom-color:var(--gold);
   }
   .ref-sep{
-    color:var(--ink-soft);
+    color:inherit;
     opacity:0.5;
     margin:0 5px;
   }
@@ -3039,7 +3071,17 @@
   <button class="wp-close" id="ref-preview-close">✕</button>
   <div class="ref-preview-title" id="ref-preview-title"></div>
   <div class="ref-preview-text" id="ref-preview-text"></div>
-  <button class="ref-preview-go" id="ref-preview-go">→ citește capitolul</button>
+  <div class="ref-preview-footer">
+    <button class="ref-preview-go" id="ref-preview-go">→ citește capitolul</button>
+    <div class="ref-preview-actions">
+      <button class="ref-preview-icon-btn" id="ref-preview-copy" title="Copiază">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/></svg>
+      </button>
+      <button class="ref-preview-icon-btn" id="ref-preview-share" title="Trimite">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="18" cy="5" r="2.7"/><circle cx="6" cy="12" r="2.7"/><circle cx="18" cy="19" r="2.7"/><path d="M8.4 10.7 15.6 6.6M8.4 13.3l7.2 4.1"/></svg>
+      </button>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -3893,15 +3935,17 @@ function renderVerses(){
     vnum.textContent = verse.num;
     p.appendChild(vnum);
 
-    const speakBtn = document.createElement("button");
-    speakBtn.className = "speak-btn";
-    speakBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 10v4h4l5 5V5L7 10H3z"/><path d="M16 8.5a4 4 0 0 1 0 7" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>';
-    speakBtn.title = "Ascultă acest verset (voce AI)";
-    speakBtn.addEventListener("click", (e) => {
-      e.stopPropagation();
-      playSingleVerse(verse, p);
-    });
-    p.appendChild(speakBtn);
+    if(aprofundare){
+      const speakBtn = document.createElement("button");
+      speakBtn.className = "speak-btn";
+      speakBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 10v4h4l5 5V5L7 10H3z"/><path d="M16 8.5a4 4 0 0 1 0 7" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>';
+      speakBtn.title = "Ascultă acest verset (voce AI)";
+      speakBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        playSingleVerse(verse, p);
+      });
+      p.appendChild(speakBtn);
+    }
 
     if(currentVersion !== "rosen" && verse[currentVersion]){
       // versiune alternativă (ex. Fidela) — text simplu, fără tagare pe cuvinte
@@ -4079,6 +4123,33 @@ function goToRefReal(){
 
 document.getElementById("ref-preview-go").addEventListener("click", goToRefReal);
 document.getElementById("ref-preview-close").addEventListener("click", hideRefPreview);
+
+function refPreviewShareText(){
+  const title = document.getElementById("ref-preview-title").textContent;
+  const text = document.getElementById("ref-preview-text").textContent.trim();
+  return "„" + text + "” — " + title;
+}
+document.getElementById("ref-preview-copy").addEventListener("click", (e) => {
+  e.stopPropagation();
+  const text = refPreviewShareText();
+  const doCopy = () => showVsToast("Pasaj copiat");
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(doCopy).catch(doCopy);
+  } else {
+    doCopy();
+  }
+});
+document.getElementById("ref-preview-share").addEventListener("click", (e) => {
+  e.stopPropagation();
+  const text = refPreviewShareText();
+  if(navigator.share){
+    navigator.share({ text }).catch(() => {});
+  } else if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(() => showVsToast("Copiat — gata de trimis"));
+  } else {
+    showVsToast("Trimiterea nu e disponibilă pe acest dispozitiv");
+  }
+});
 
 function loadChapterThenOpenVerse(chapterNum, verseNum){
   const book = getBook(currentBookSlug);
