@@ -17,6 +17,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&family=Noto+Sans+Hebrew:wght@400;600&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&family=Noto+Sans+Hebrew:wght@400;600&display=swap" rel="stylesheet"></noscript>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Literata:opsz,wght@7..72,400;7..72,600&family=Poppins:wght@400;500;600&family=Arimo:wght@400;500;600&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Literata:opsz,wght@7..72,400;7..72,600&family=Poppins:wght@400;500;600&family=Arimo:wght@400;500;600&display=swap" rel="stylesheet"></noscript>
 <style>
   :root{
     --parchment: #182b4d;
@@ -694,6 +696,8 @@
     position:fixed; left:50%; top:50%;
     transform:translate(-50%,-50%) scale(0.95);
     max-width:340px; width:86%;
+    max-height:80vh;
+    overflow-y:auto;
     background:var(--parchment-dark);
     border:1px solid var(--glass-border);
     border-radius:16px;
@@ -850,6 +854,43 @@
     font-size:14.5px;
     line-height:1.6;
   }
+
+  /* ---- teme de citire (Întunecat implicit / Deschis / Sepia) ---- */
+  .lib-reader-modal.theme-dark .lib-reader-body,
+  .lib-reader-modal.theme-dark .lib-verse,
+  .lib-reader-modal.theme-dark .lib-reader-book-summary,
+  .lib-reader-modal.theme-dark .lib-reader-placeholder{ color:#B7C2D6; }
+
+  .lib-reader-modal.theme-light{ background:#E9E9E7; }
+  .lib-reader-modal.theme-light .lib-reader-header{ background:rgba(0,0,0,0.045); border-bottom-color:rgba(0,0,0,0.12); }
+  .lib-reader-modal.theme-light .lib-reader-back,
+  .lib-reader-modal.theme-light .lib-reader-x,
+  .lib-reader-modal.theme-light .lib-reader-info{ color:#232220; }
+  .lib-reader-modal.theme-light .lib-reader-chapter-pill{ background:rgba(255,255,255,0.75); border-color:rgba(0,0,0,0.14); color:#232220; }
+  .lib-reader-modal.theme-light .lib-reader-body,
+  .lib-reader-modal.theme-light .lib-verse,
+  .lib-reader-modal.theme-light .lib-reader-book-summary,
+  .lib-reader-modal.theme-light .lib-reader-placeholder{ color:#232220; }
+
+  .lib-reader-modal.theme-sepia{ background:#EFE6D8; }
+  .lib-reader-modal.theme-sepia .lib-reader-header{ background:rgba(0,0,0,0.04); border-bottom-color:rgba(0,0,0,0.12); }
+  .lib-reader-modal.theme-sepia .lib-reader-back,
+  .lib-reader-modal.theme-sepia .lib-reader-x,
+  .lib-reader-modal.theme-sepia .lib-reader-info{ color:#4A3F2E; }
+  .lib-reader-modal.theme-sepia .lib-reader-chapter-pill{ background:rgba(255,255,255,0.4); border-color:rgba(0,0,0,0.14); color:#4A3F2E; }
+  .lib-reader-modal.theme-sepia .lib-reader-body,
+  .lib-reader-modal.theme-sepia .lib-verse,
+  .lib-reader-modal.theme-sepia .lib-reader-book-summary,
+  .lib-reader-modal.theme-sepia .lib-reader-placeholder{ color:#4A3F2E; }
+
+  /* ---- spațiere între linii/versete — se aplică imediat, live ---- */
+  .lib-reader-body.lsp-compact{ line-height:1.45; }
+  .lib-reader-body.lsp-compact .lib-verse{ margin-bottom:6px; }
+  .lib-reader-body.lsp-normal{ line-height:1.8; }
+  .lib-reader-body.lsp-normal .lib-verse{ margin-bottom:12px; }
+  .lib-reader-body.lsp-wide{ line-height:2.2; }
+  .lib-reader-body.lsp-wide .lib-verse{ margin-bottom:22px; }
+
   .lib-reader-nav{
     display:contents;
   }
@@ -1555,6 +1596,28 @@
     cursor:pointer;
   }
   .vsp-chip.active{background:var(--gold); color:#fff8e8; border-color:var(--gold);}
+  .vsp-chip-swatch{
+    display:inline-block;
+    width:12px; height:12px;
+    border-radius:50%;
+    margin-right:6px;
+    vertical-align:middle;
+    border:1px solid rgba(0,0,0,0.25);
+  }
+  .vsp-icon-row{display:flex; gap:8px;}
+  .vsp-icon-chip{
+    flex:1;
+    display:flex; align-items:center; justify-content:center;
+    background:var(--glass-bg);
+    border:1px solid var(--glass-border);
+    border-radius:10px;
+    padding:10px 6px;
+    cursor:pointer;
+  }
+  .vsp-icon-chip.active{background:var(--gold); border-color:var(--gold);}
+  .vsp-icon-chip svg{display:block;}
+  .vsp-icon-chip line{stroke:var(--ink-soft);}
+  .vsp-icon-chip.active line{stroke:#fff8e8;}
   .vsp-font-preview{
     font-size:16px;
     padding:10px 12px;
@@ -2723,7 +2786,7 @@
         <span class="book-pill-arrow">▾</span>
         <div class="lib-reader-chapter-dropdown" id="lib-reader-chapter-dropdown"></div>
       </button>
-      <button class="lib-reader-info" id="lib-reader-aa" title="Aspect text" style="font-size:14px; font-weight:700;">Aa</button>
+      <button class="lib-reader-info" id="lib-reader-aa" title="Setări de citire" style="font-size:14px; font-weight:700;">Aa</button>
       <button class="lib-reader-info" id="lib-reader-info" title="Detalii ediție">ⓘ</button>
       <button class="lib-reader-x" id="lib-reader-close" title="Închide">✕</button>
     </div>
@@ -2744,12 +2807,16 @@
   <div class="picker-backdrop" id="lib-text-backdrop"></div>
   <div class="lib-info-modal" id="lib-text-modal">
     <button class="lib-info-close" id="lib-text-close" title="Închide">✕</button>
-    <div class="lib-info-title">Aspect text</div>
+    <div class="lib-info-title">Setări de citire</div>
     <div class="lib-info-body">
-      <div class="vsp-row-label">Font</div>
+      <div class="vsp-row-label">Temă</div>
+      <div class="vsp-chip-row" id="lib-text-theme-row"></div>
+      <div class="vsp-row-label" style="margin-top:12px;">Font</div>
       <div class="vsp-chip-row" id="lib-text-font-row"></div>
       <div class="vsp-row-label" style="margin-top:12px;">Mărime</div>
       <div class="vsp-chip-row" id="lib-text-size-row"></div>
+      <div class="vsp-row-label" style="margin-top:12px;">Spațiere</div>
+      <div class="vsp-icon-row" id="lib-text-spacing-row"></div>
     </div>
   </div>
 
@@ -3060,8 +3127,23 @@ const VS_MARK_COLORS = [
 const VS_FONTS = [
   { id: "serif", label: "Fraunces", css: "'Fraunces', serif" },
   { id: "sans",  label: "Inter",    css: "'Inter', sans-serif" },
+  { id: "domine", label: "Domine", css: "'Domine', serif" },
+  { id: "sourceserif4", label: "Source Serif 4", css: "'Source Serif 4', serif" },
+  { id: "literata", label: "Literata", css: "'Literata', serif" },
+  { id: "poppins", label: "Poppins", css: "'Poppins', sans-serif" },
+  { id: "arimo", label: "Arimo", css: "'Arimo', sans-serif" },
 ];
-const VS_SIZES = [15, 16, 17, 18, 19, 20, 22];
+const VS_SIZES = [13, 14, 15, 16, 17, 18, 19, 20, 22];
+const LIB_THEMES = [
+  { id: "dark",  label: "Întunecat", bg: "#101f3c", text: "#B7C2D6" },
+  { id: "light", label: "Deschis",   bg: "#E9E9E7", text: "#232220" },
+  { id: "sepia", label: "Sepia",     bg: "#EFE6D8", text: "#4A3F2E" },
+];
+const LIB_SPACINGS = [
+  { id: "compact", gap: 4 },
+  { id: "normal",  gap: 7 },
+  { id: "wide",    gap: 10 },
+];
 
 let vsCurrentVerse = null;
 let vsCurrentVerseEl = null;
@@ -5009,6 +5091,7 @@ const SUBFOLDER_CARD_IMAGES = {
     currentChapterIdx = 0;
     readerBackdrop.classList.add("show");
     readerModal.classList.add("show");
+    libApplyTextPrefs();
     renderChapter();
   }
   function closeReader(){
@@ -5062,18 +5145,24 @@ const SUBFOLDER_CARD_IMAGES = {
     libInfoBackdrop.addEventListener("click", closeInfoModal);
   }
 
-  // ---- Aspect text (Aa) pentru cititorul din Diverse ----
+  // ---- Setări de citire (Aa) pentru cititorul din Diverse: temă, font, mărime, spațiere ----
   function libGetTextPrefs(){
-    let font = "serif", size = 15;
+    let font = "serif", size = 15, theme = "dark", spacing = "normal";
     try { font = localStorage.getItem("libReaderFont") || "serif"; } catch(e){}
     try { size = parseInt(localStorage.getItem("libReaderSize"), 10) || 15; } catch(e){}
-    return { font, size };
+    try { theme = localStorage.getItem("libReaderTheme") || "dark"; } catch(e){}
+    try { spacing = localStorage.getItem("libReaderSpacing") || "normal"; } catch(e){}
+    return { font, size, theme, spacing };
   }
   function libApplyTextPrefs(){
-    const { font, size } = libGetTextPrefs();
+    const { font, size, theme, spacing } = libGetTextPrefs();
     const fontObj = VS_FONTS.find(f => f.id === font) || VS_FONTS[0];
     readerBody.style.fontFamily = fontObj.css;
     readerBody.style.fontSize = size + "px";
+    readerModal.classList.remove("theme-dark", "theme-light", "theme-sepia");
+    readerModal.classList.add("theme-" + theme);
+    readerBody.classList.remove("lsp-compact", "lsp-normal", "lsp-wide");
+    readerBody.classList.add("lsp-" + spacing);
   }
   libApplyTextPrefs();
 
@@ -5082,16 +5171,37 @@ const SUBFOLDER_CARD_IMAGES = {
   const libTextModal = document.getElementById("lib-text-modal");
   const libTextClose = document.getElementById("lib-text-close");
 
+  const LSP_ICONS = {
+    compact: '<svg width="34" height="22" viewBox="0 0 34 22"><line x1="3" y1="4" x2="31" y2="4" stroke-width="2"/><line x1="3" y1="11" x2="31" y2="11" stroke-width="2"/><line x1="3" y1="18" x2="31" y2="18" stroke-width="2"/></svg>',
+    normal:  '<svg width="34" height="22" viewBox="0 0 34 22"><line x1="3" y1="2" x2="31" y2="2" stroke-width="2"/><line x1="3" y1="11" x2="31" y2="11" stroke-width="2"/><line x1="3" y1="20" x2="31" y2="20" stroke-width="2"/></svg>',
+    wide:    '<svg width="34" height="22" viewBox="0 0 34 22"><line x1="3" y1="1" x2="31" y2="1" stroke-width="2"/><line x1="3" y1="11" x2="31" y2="11" stroke-width="2"/><line x1="3" y1="21" x2="31" y2="21" stroke-width="2"/></svg>',
+  };
+
   function renderLibTextPanel(){
-    const { font, size } = libGetTextPrefs();
+    const { font, size, theme, spacing } = libGetTextPrefs();
+    const themeRow = document.getElementById("lib-text-theme-row");
     const fontRow = document.getElementById("lib-text-font-row");
     const sizeRow = document.getElementById("lib-text-size-row");
+    const spacingRow = document.getElementById("lib-text-spacing-row");
+    themeRow.innerHTML = LIB_THEMES.map(t =>
+      '<button class="vsp-chip' + (t.id === theme ? ' active' : '') + '" data-theme="' + t.id + '"><span class="vsp-chip-swatch" style="background:' + t.bg + '"></span>' + t.label + '</button>'
+    ).join("");
     fontRow.innerHTML = VS_FONTS.map(f =>
       '<button class="vsp-chip' + (f.id === font ? ' active' : '') + '" data-font="' + f.id + '" style="font-family:' + f.css + '">' + f.label + '</button>'
     ).join("");
     sizeRow.innerHTML = VS_SIZES.map(s =>
       '<button class="vsp-chip' + (s === size ? ' active' : '') + '" data-size="' + s + '">' + s + '</button>'
     ).join("");
+    spacingRow.innerHTML = LIB_SPACINGS.map(sp =>
+      '<button class="vsp-icon-chip' + (sp.id === spacing ? ' active' : '') + '" data-spacing="' + sp.id + '" title="Spațiere">' + LSP_ICONS[sp.id] + '</button>'
+    ).join("");
+    themeRow.querySelectorAll(".vsp-chip").forEach(chip => {
+      chip.addEventListener("click", () => {
+        try { localStorage.setItem("libReaderTheme", chip.dataset.theme); } catch(e){}
+        libApplyTextPrefs();
+        renderLibTextPanel();
+      });
+    });
     fontRow.querySelectorAll(".vsp-chip").forEach(chip => {
       chip.addEventListener("click", () => {
         try { localStorage.setItem("libReaderFont", chip.dataset.font); } catch(e){}
@@ -5102,6 +5212,13 @@ const SUBFOLDER_CARD_IMAGES = {
     sizeRow.querySelectorAll(".vsp-chip").forEach(chip => {
       chip.addEventListener("click", () => {
         try { localStorage.setItem("libReaderSize", chip.dataset.size); } catch(e){}
+        libApplyTextPrefs();
+        renderLibTextPanel();
+      });
+    });
+    spacingRow.querySelectorAll(".vsp-icon-chip").forEach(chip => {
+      chip.addEventListener("click", () => {
+        try { localStorage.setItem("libReaderSpacing", chip.dataset.spacing); } catch(e){}
         libApplyTextPrefs();
         renderLibTextPanel();
       });
