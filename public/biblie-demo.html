@@ -1119,18 +1119,21 @@
   .speak-btn svg{width:15px; height:15px; display:block;}
   .speak-btn:active{opacity:1;}
 
-  /* ---- modul Citire: text curgător, versete inline (nu blocuri), fără iconiță de sunet ---- */
+  /* ---- modul Citire: fiecare verset pe rândul lui, spațiere mică-medie între ele, fără iconiță de sunet ---- */
   #verses.mode-citire{ line-height:1.75; }
   #verses.mode-citire .verse{
-    display:inline;
-    margin:0;
-    padding:0 1px;
-    border-radius:3px;
+    display:block;
+    margin:0 0 0.65em -8px;
+    padding:2px 8px;
+    border-radius:4px;
   }
-  #verses.mode-citire .vnum{ margin-left:5px; }
+  #verses.mode-citire .vnum{ margin-left:0; margin-right:6px; }
   #verses.mode-citire.bsp-compact{ line-height:1.5; }
+  #verses.mode-citire.bsp-compact .verse{ margin-bottom:0.5em; }
   #verses.mode-citire.bsp-normal{ line-height:1.75; }
+  #verses.mode-citire.bsp-normal .verse{ margin-bottom:0.65em; }
   #verses.mode-citire.bsp-wide{ line-height:2.1; }
+  #verses.mode-citire.bsp-wide .verse{ margin-bottom:0.8em; }
 
   /* ---- teme de citire pentru textul biblic (Citire + Aprofundare) ---- */
   #verses.bible-theme-dark, #verses.bible-theme-dark .verse{ color:#B7C2D6; }
