@@ -1128,12 +1128,12 @@
     border-radius:4px;
   }
   #verses.mode-citire .vnum{ margin-left:0; margin-right:6px; }
-  #verses.mode-citire.bsp-compact{ line-height:1.5; }
-  #verses.mode-citire.bsp-compact .verse{ margin-bottom:0.5em; }
-  #verses.mode-citire.bsp-normal{ line-height:1.75; }
-  #verses.mode-citire.bsp-normal .verse{ margin-bottom:0.65em; }
-  #verses.mode-citire.bsp-wide{ line-height:2.1; }
-  #verses.mode-citire.bsp-wide .verse{ margin-bottom:0.8em; }
+  #verses.mode-citire.bsp-compact{ line-height:1.45; }
+  #verses.mode-citire.bsp-compact .verse{ margin-bottom:0.2em; }
+  #verses.mode-citire.bsp-normal{ line-height:1.6; }
+  #verses.mode-citire.bsp-normal .verse{ margin-bottom:0.35em; }
+  #verses.mode-citire.bsp-wide{ line-height:1.9; }
+  #verses.mode-citire.bsp-wide .verse{ margin-bottom:0.55em; }
 
   /* ---- teme de citire pentru textul biblic (Citire + Aprofundare) ---- */
   #verses.bible-theme-dark, #verses.bible-theme-dark .verse{ color:#B7C2D6; }
@@ -1235,8 +1235,8 @@
   }
 
   .comment-hint{
-    display:block;
-    margin:3px 0 0;
+    display:inline;
+    margin:0 0 0 8px;
     font-size:0.65em;
     font-style:italic;
     color:#FFD700;
@@ -1261,15 +1261,15 @@
     padding-bottom:2px;
   }
   .word::after{
-    content:"";
+    content:"•••";
     position:absolute;
-    left:0.15em;
-    bottom:-0.1em;
-    width:4px;
-    height:4px;
-    border-radius:50%;
-    background:#d4a017;
-    box-shadow: 7px 0 0 #d4a017, 14px 0 0 #d4a017;
+    left:50%;
+    bottom:-0.15em;
+    transform:translateX(-50%);
+    font-size:0.5em;
+    letter-spacing:2px;
+    color:#d4a017;
+    white-space:nowrap;
     pointer-events:none;
   }
   .word:active, .word.active-word{
@@ -1869,7 +1869,7 @@
     gap:8px;
   }
   .inline-refs{
-    margin:-6px 0 12px 8px;
+    margin:-6px 0 4px 8px;
     font-size:0.72em;
     line-height:1.6;
     opacity:0.82;
