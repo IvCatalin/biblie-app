@@ -1103,7 +1103,7 @@
     font-size:12px;
     font-weight:700;
     color:var(--gold);
-    vertical-align:super;
+    vertical-align:text-top;
     margin-right:4px;
   }
   .speak-btn{
@@ -1134,6 +1134,10 @@
   #verses.mode-citire.bsp-normal .verse{ margin-bottom:0.35em; }
   #verses.mode-citire.bsp-wide{ line-height:1.9; }
   #verses.mode-citire.bsp-wide .verse{ margin-bottom:0.55em; }
+  #verses.mode-aprofundare .verse{ margin-bottom:0.6em; line-height:1.6; }
+  #verses.mode-aprofundare.bsp-compact .verse{ margin-bottom:0.4em; }
+  #verses.mode-aprofundare.bsp-normal .verse{ margin-bottom:0.6em; }
+  #verses.mode-aprofundare.bsp-wide .verse{ margin-bottom:0.85em; }
 
   /* ---- teme de citire pentru textul biblic (Citire + Aprofundare) ---- */
   #verses.bible-theme-dark, #verses.bible-theme-dark .verse{ color:#B7C2D6; }
@@ -1265,9 +1269,9 @@
     content:"•••";
     position:absolute;
     left:50%;
-    bottom:-0.15em;
+    bottom:-0.6em;
     transform:translateX(-50%);
-    font-size:0.68em;
+    font-size:0.75em;
     letter-spacing:1.5px;
     color:#d4a017;
     white-space:nowrap;
