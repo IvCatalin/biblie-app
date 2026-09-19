@@ -3859,6 +3859,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Tertulian, Împotriva lui Marcion 2.4",
     "text": "Vede în avertismentul dinainte un act de bunătate: Dumnezeu a arătat dinainte urmările neascultării tocmai ca necunoașterea primejdiei să nu ducă la nepăsare — un dar al providenței, nu o capcană."
+   },
+   {
+    "author": "Viața lui Adam și Eva 32 — comparație",
+    "text": "Adam însuși repovestește porunca, mai târziu, fiilor săi: „Când ne-a făcut Dumnezeu, pe mine și pe mama voastră, și ne-a așezat în rai... a pus o oprire asupra noastră despre pomul cunoștinței binelui și răului, care este în mijlocul raiului” — adăugând un detaliu absent din Geneza: Dumnezeu ar fi împărțit raiul între ei, dând lui Adam partea de răsărit și de miazănoapte, iar Evei partea de miazăzi și de apus."
    }
   ],
   "textCompare": [

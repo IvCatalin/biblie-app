@@ -1448,6 +1448,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Adaugă: locul și aerul grădinii, împreună cu mireasma rodului, l-au făcut să pară „bun la mâncare”; „de dorit ca să dea înțelepciune” vine tocmai din faptul că Dumnezeu Însuși îl numise „pomul cunoștinței”; iar inima lui Adam s-a lăsat înduplecată de cuvintele ei tocmai pentru că-i era soție și-i era alături."
+   },
+   {
+    "author": "4 Ezdra 3:21 — comparație",
+    "text": "Cartea a patra a lui Ezdra vede în acest verset rădăcina unei transmiteri: „purtând inima cea rea, cel dintâi Adam a călcat [porunca], și a fost biruit, și tot așa toți câți s-au născut din el” — o formulare apropiată de ce avea să devină, mai târziu, doctrina creștină a păcatului strămoșesc, deși aici tema e „inima rea” moștenită, nu vina însăși."
    }
   ],
   "textCompare": [
@@ -4242,6 +4246,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "„Și în țărână te vei întoarce” — exact cum te avertizasem când ți-am poruncit, spunând „în ziua în care vei mânca din el, vei muri negreșit”: ești pregătit, de-acum, pentru moarte, la sfârșitul zilelor tale."
+   },
+   {
+    "author": "2 Baruh 54:15,19 — comparație",
+    "text": "Apocalipsa siriacă a lui Baruh leagă direct moartea de acest verset: „Adam a păcătuit întâi, și a adus moartea asupra tuturor celor născuți din el” — dar adaugă imediat o corectare morală: „nu e Adam pricina pentru noi, ci fiecare dintre noi a fost Adam al sufletului său”, adică fiecare om repetă, prin păcatul propriu, căderea lui Adam, nu doar o suferă moștenită."
    }
   ],
   "textCompare": [
@@ -5032,6 +5040,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Explică trimiterea ca poruncă limpede de plecare; pământul din care fusese luat i se potrivea, prin fire și aer, mai bine decât orice altă parte a pământului pentru hrana și nevoile sale."
+   },
+   {
+    "author": "Viața lui Adam și Eva 1 — comparație",
+    "text": "Viața lui Adam și Eva continuă exact de-aici: „Când au fost izgoniți din rai, și-au făcut un cort și au petrecut șapte zile jelind și tânguindu-se în mare întristare” — apoi, după alte șapte zile, foamea îi silește să caute hrană în afara grădinii, neștiind încă să lucreze pământul."
    }
   ]
  },
