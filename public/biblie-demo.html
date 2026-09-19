@@ -1259,6 +1259,7 @@
     position:relative;
     cursor:pointer;
     padding-bottom:2px;
+    white-space:nowrap;
   }
   .word::after{
     content:"•••";
@@ -1266,8 +1267,8 @@
     left:50%;
     bottom:-0.15em;
     transform:translateX(-50%);
-    font-size:0.5em;
-    letter-spacing:2px;
+    font-size:0.68em;
+    letter-spacing:1.5px;
     color:#d4a017;
     white-space:nowrap;
     pointer-events:none;
@@ -1872,7 +1873,7 @@
     margin:-6px 0 4px 8px;
     font-size:0.72em;
     line-height:1.6;
-    opacity:0.82;
+    opacity:0.65;
   }
   .ref-pill{
     color:inherit;
@@ -3938,17 +3939,6 @@ function renderVerses(){
     vnum.textContent = verse.num;
     p.appendChild(vnum);
 
-    if(aprofundare){
-      const speakBtn = document.createElement("button");
-      speakBtn.className = "speak-btn";
-      speakBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 10v4h4l5 5V5L7 10H3z"/><path d="M16 8.5a4 4 0 0 1 0 7" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>';
-      speakBtn.title = "Ascultă acest verset (voce AI)";
-      speakBtn.addEventListener("click", (e) => {
-        e.stopPropagation();
-        playSingleVerse(verse, p);
-      });
-      p.appendChild(speakBtn);
-    }
 
     if(currentVersion !== "rosen" && verse[currentVersion]){
       // versiune alternativă (ex. Fidela) — text simplu, fără tagare pe cuvinte
@@ -3963,14 +3953,25 @@ function renderVerses(){
     } else {
     verse.tokens.forEach(tok => {
       if(tok.w && aprofundare){
-        const span = document.createElement("span");
-        span.className = "word";
-        span.textContent = tok.t;
-        span.addEventListener("click", (e) => {
-          e.stopPropagation();
-          showWordPopover(tok, span);
+        // token-urile pot fi fraze întregi ("a fost", "DOMNUL Dumnezeu") -- fiecare
+        // cuvânt din frază primește span-ul lui propriu (cu punctele lui proprii),
+        // ca nu cumva un singur span cu spațiu în interior să se rupă pe două linii
+        // la lățimi mici, lăsând punctele "plutind" lângă doar o bucată a frazei.
+        const parts = tok.t.split(/(\s+)/).filter(s => s.length > 0);
+        parts.forEach(part => {
+          if(/^\s+$/.test(part)){
+            p.appendChild(document.createTextNode(part));
+            return;
+          }
+          const span = document.createElement("span");
+          span.className = "word";
+          span.textContent = part;
+          span.addEventListener("click", (e) => {
+            e.stopPropagation();
+            showWordPopover(tok, span);
+          });
+          p.appendChild(span);
         });
-        p.appendChild(span);
       } else if(tok.editorial){
         const span = document.createElement("span");
         span.className = "editorial";
@@ -3985,7 +3986,7 @@ function renderVerses(){
     if(aprofundare){
       const hint = document.createElement("span");
       hint.className = "comment-hint";
-      hint.textContent = "💬 comentarii și comparație";
+      hint.textContent = "💬 Comentarii";
       p.appendChild(hint);
     }
     // Atinge versetul (în ambele moduri) → deschide foaia de acțiuni
