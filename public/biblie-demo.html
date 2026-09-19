@@ -1315,7 +1315,7 @@
     max-height:70vh;
     overflow-y:auto;
     background:#101f3c;
-    color:var(--ink);
+    color:#B7C2D6;
     border:1px solid rgba(255,255,255,0.12);
     border-radius:16px;
     padding:34px 22px 22px;
@@ -1324,6 +1324,10 @@
     display:none;
   }
   .ref-preview-popover.show{display:block;}
+  /* ---- culoarea textului din panoul de referință urmează tema de citire aleasă (Întunecat/Deschis/Sepia) ---- */
+  .ref-preview-popover.rp-theme-light{ background:#E9E9E7; color:#232220; }
+  .ref-preview-popover.rp-theme-sepia{ background:#EFE6D8; color:#4A3F2E; }
+  .ref-preview-popover .ref-preview-text{ color:inherit; }
   .ref-preview-title{
     font-family:'Inter', sans-serif;
     font-size:11px;
@@ -1337,7 +1341,6 @@
     font-family:'Fraunces', serif;
     font-size:14px;
     line-height:1.55;
-    color:var(--ink);
     margin-bottom:18px;
   }
   .ref-preview-go{
@@ -4070,6 +4073,15 @@ function showRefPreview(refText, anchorEl){
     console.error("DAVAR ref-preview: lipsesc elementele din pagina.");
     return;
   }
+
+  // Panoul de referin\u021b\u0103 urmeaz\u0103 tema de citire, fontul \u0219i m\u0103rimea alese de utilizator
+  // pentru textul versetelor \u2014 textul aici nu e niciodat\u0103 mai mare dec\u00e2t cel al versetului.
+  const refPrefs = vsGetTextPrefs();
+  const refFontObj = VS_FONTS.find(f => f.id === refPrefs.font) || VS_FONTS[0];
+  popover.classList.remove("rp-theme-light", "rp-theme-sepia");
+  if(refPrefs.theme === "light" || refPrefs.theme === "sepia") popover.classList.add("rp-theme-" + refPrefs.theme);
+  textEl.style.fontFamily = refFontObj.css;
+  textEl.style.fontSize = Math.min(14, refPrefs.size) + "px";
 
   titleEl.textContent = refText;
   textEl.textContent = "Se \u00eencarc\u0103\u2026";
