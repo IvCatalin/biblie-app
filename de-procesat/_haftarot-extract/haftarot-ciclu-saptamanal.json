@@ -1,0 +1,4612 @@
+{
+ "slug": "haftarot-ciclu-saptamanal",
+ "name": "Haftarot — ciclul săptămânal",
+ "name_ro": "Haftarot — ciclul săptămânal",
+ "meta": "1 capitole (din 54+2 planificate) · 1 complet la Standardul Davar",
+ "author": "trad. rabin Șlomo Sorin Rosen",
+ "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
+ "available": true,
+ "chapters": [
+  {
+   "num": 1,
+   "title": "Haftarat Bereșit",
+   "ref": "Isaia 42:5-43:10",
+   "intro": "Haftarat Bereșit debutează cu o referință la Dumnezeu în postura de Creator, aidoma pericopei cu care este asociată. Creația apare aici nu ca un eveniment unic în istoria lumii, ci dimpotrivă, ca un eveniment constant și actual, deoarece Dumnezeu reînnoiește zi de zi lumea cu Prezența Sa și mila Sa eternă. O temă centrală a haftarei este și faptul că Israel a fost ales de către Dumnezeu să fie „lumină pentru neamuri”, respectiv să inspire și să încurajeze întreaga omenire printr-un comportament exemplar, să aibă grijă de Creația lui Dumnezeu, „să muncească și să păzească [Edenul]” (Geneza 2:15). Când toți locuitorii pământului vor înțelege și vor urma calea planuită de către Dumnezeu pentru om la începuturile lumii, scopul Creației va fi atins și relația dintre om și Divinitate va atinge perfecțiunea prin instaurarea Împărăției Atotputernicului pe pământ.",
+   "verses": [
+    {
+     "v": "42:5",
+     "t": "Așa a spus Dumnezeu, DOMNUL, care creează cerurile și le desfășoară, care întinde pământul și ceea ce crește pe el, care dă suflet poporului pe el și viață celor care merg pe el:",
+     "heb": "כֹּה־אָמַר הָאֵל יְהוָה בּוֹרֵא הַשָּׁמַיִם וְנוֹטֵיהֶם רֹקַע הָאָרֶץ וְצֶאֱצָאֶיהָ נֹתֵן נְשָׁמָה לָעָם עָלֶיהָ וְרוּחַ לַהֹלְכִים בָּהּ",
+     "translit": "Ko-amar ha'El ADONAI borē hașamaim venoteihem roka haareț vețeețaeha notēn neșama laam aleha veruah laholhim ba.",
+     "tokens": [
+      {
+       "t": "Așa a "
+      },
+      {
+       "t": "spus",
+       "w": "spus",
+       "heb": "אָמַר",
+       "translit": "amar",
+       "strong": "H559",
+       "pos": "verb, qal perfect",
+       "def_ro": "a spune, a rosti, a porunci.",
+       "dict_ro": "Formula „ko amar Adonai” („așa a spus DOMNUL”) e formula de deschidere standard a oracolelor profetice — un sigiliu de autenticitate care marchează cuvintele următoare ca discurs divin direct, nu opinie a profetului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Dumnezeu",
+       "w": "Dumnezeu",
+       "heb": "הָאֵל",
+       "translit": "haEl",
+       "strong": "H410",
+       "pos": "substantiv, masculin",
+       "def_ro": "Dumnezeu, Cel Puternic, Cel Tare.",
+       "greek": "ὁ Θεός (ho Theos)",
+       "greek_def_ro": "Dumnezeu.",
+       "dict_ro": "El (spre deosebire de forma plurală Elohim) accentuează puterea brută, forța copleșitoare a divinității — de aceea apare des în context de creație sau de judecată. Aici, urmat imediat de יְהוָה (DOMNUL), cele două nume divine se completează: puterea creatoare (El) și fidelitatea legământului (YHVH)."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "substantiv propriu",
+       "greek": "Κύριος (Kyrios)",
+       "greek_def_ro": "Domn, Stăpân — traducerea grecească standard pentru Numele divin, evitând pronunțarea Tetragramei.",
+       "diff_ro": "LXX înlocuiește sistematic Tetragrama cu titlul Κύριος, pierzând forma proprie a Numelui, păstrată intactă în ebraică.",
+       "def_ro": "Numele propriu al lui Dumnezeu, Ființa care Este/Va Fi — de la rădăcina hayah, „a fi”.",
+       "dict_ro": "Tetragrama YHVH e Numele legământului, folosit de obicei acolo unde accentul cade pe relația personală, credincioasă a lui Dumnezeu cu Israel — spre deosebire de Elohim/El, care accentuează puterea Sa universală de Creator. Aici cele două nume apar împreună („Dumnezeu, DOMNUL”), unind autoritatea de Creator cu identitatea legământului. Evreii citesc tradițional Adonai („Stăpânul meu”) în locul pronunției exacte, din respect."
+      },
+      {
+       "t": ", care "
+      },
+      {
+       "t": "creează",
+       "w": "creează",
+       "heb": "בּוֹרֵא",
+       "translit": "borē",
+       "strong": "H1254",
+       "pos": "verb, participiu qal",
+       "def_ro": "a crea (din nimic, verb folosit în Biblie exclusiv cu Dumnezeu ca subiect).",
+       "greek": "κτίσας (ktisas)",
+       "greek_def_ro": "cel care a întemeiat/zidit.",
+       "dict_ro": "Rădăcina bara e aceeași ca la Geneza 1:1 — un verb rezervat exclusiv acțiunii divine, niciodată folosit despre om. Participiul prezent („cel care creează”) subliniază că actul creator al lui Dumnezeu nu e doar un eveniment trecut, ci o activitate continuă — temă centrală a acestei Haftarot, care leagă Creația inițială de re-crearea/eliberarea poporului Israel."
+      },
+      {
+       "t": " cerurile și le "
+      },
+      {
+       "t": "desfășoară",
+       "w": "desfășoară",
+       "heb": "וְנוֹטֵיהֶם",
+       "translit": "venoteihem",
+       "strong": "H5186",
+       "pos": "verb, participiu qal + sufix",
+       "def_ro": "a întinde, a înclina, a desfășura (ca un cort).",
+       "dict_ro": "Verbul nata descrie întinderea unui cort — imagine standard în profeți pentru cer (comp. Isaia 40:22, „Cel ce întinde cerurile ca pe o pânză subțire și le desfășoară ca un cort de locuit”). Rashi citează Tratatul Hagiga 12a: cerurile au fost create întâi ca un ghem de fir, apoi întinse."
+      },
+      {
+       "t": ", care "
+      },
+      {
+       "t": "întinde",
+       "w": "întinde",
+       "heb": "רֹקַע",
+       "translit": "roka",
+       "strong": "H7554",
+       "pos": "verb, participiu qal",
+       "def_ro": "a bate, a lăți, a întinde ciocănind (ca metalul).",
+       "dict_ro": "Rakа e verbul folosit pentru baterea metalului în foi subțiri (cf. Exod 39:3, foița de aur bătută) — o imagine mai fizică decât simpla „întindere”: pământul e „ciocănit”, lățit ca o placă de metal deasupra apelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pământul",
+       "w": "pământul",
+       "heb": "הָאָרֶץ",
+       "translit": "haareţ",
+       "strong": "H776",
+       "pos": "substantiv, feminin",
+       "def_ro": "pământ, uscat, țară.",
+       "greek": "γῆ (gē)",
+       "greek_def_ro": "pământ.",
+       "dict_ro": "Ereţ apare de peste 2500 de ori în Tanah, cu sens dublu: „pământ” în sens cosmic (ca aici, complementar cerurilor) și „țară” în sens geografic-național — ambiguitate care rezonează cu tema Haftarot, unde restaurarea „pământului” lui Israel oglindește restaurarea creației înseși."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "ceea ce crește pe el",
+       "w": "ceea ce crește pe el",
+       "heb": "וְצֶאֱצָאֶיהָ",
+       "translit": "vețeețaeha",
+       "strong": "H6631",
+       "pos": "substantiv + sufix",
+       "def_ro": "urmași, roade, ceea ce iese/răsare din ceva.",
+       "dict_ro": "Din rădăcina yatza, „a ieși”. Termenul include atât vegetația pământului, cât și, în alte contexte, urmașii/descendenții unei persoane — dubla nuanță (natură + generații) se potrivește temei Haftarot despre Creație și poporul lui Israel."
+      },
+      {
+       "t": ", care dă "
+      },
+      {
+       "t": "suflet",
+       "w": "suflet",
+       "heb": "נְשָׁמָה",
+       "translit": "neșama",
+       "strong": "H5397",
+       "pos": "substantiv, feminin",
+       "def_ro": "suflare, suflet, principiul vieții date de Dumnezeu.",
+       "greek": "πνοή (pnoē)",
+       "greek_def_ro": "suflare, respirație.",
+       "dict_ro": "Neșama e același cuvânt din Geneza 2:7, „suflarea de viață” pe care Dumnezeu o insuflă lui Adam. Rashi explică aici „neșama” ca fiind „suflet de viață” — punte directă între actul Creației omului și promisiunea de eliberare/însuflețire a poporului din exil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporului",
+       "w": "poporului",
+       "heb": "לָעָם",
+       "translit": "laam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin",
+       "def_ro": "popor, neam.",
+       "dict_ro": "Am (spre deosebire de goy, „neam” din v.6) desemnează specific poporul legământului, Israel — folosit aici cu sens general („poporul de pe pământ”, adică omenirea), dar rădăcina e aceeași care va defini identitatea specială a lui Israel în versetul următor."
+      },
+      {
+       "t": " pe el și "
+      },
+      {
+       "t": "viață",
+       "w": "viață",
+       "heb": "וְרוּחַ",
+       "translit": "veruah",
+       "strong": "H7307",
+       "pos": "substantiv, feminin",
+       "def_ro": "duh, suflare, vânt — tradus aici „viață” de Rosen.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "duh, suflare.",
+       "dict_ro": "Ruah, distinct de neșama de mai sus, are un spectru mai larg (vânt, duh, spirit). Irineu de Lyon dezvoltă exact distincția dintre neșama („suflare”, dată tuturor oamenilor) și ruah („Duh”, dat doar celor ce „calcă în picioare poftele pământești”) — o observație patristică ce ia foarte în serios diferența dintre cei doi termeni ebraici din același verset."
+      },
+      {
+       "t": " celor care "
+      },
+      {
+       "t": "merg",
+       "w": "merg",
+       "heb": "לַהֹלְכִים",
+       "translit": "laholhim",
+       "strong": "H1980",
+       "pos": "verb, participiu qal",
+       "def_ro": "a merge, a umbla.",
+       "dict_ro": "Rashi observă că „cei care merg pe [pământ]” înseamnă, mai adânc, „cei care umblă înaintea Lui” — o legătură între mersul fizic pe pământ și umblarea morală/spirituală înaintea lui Dumnezeu, temă frecventă în tot Tanahul (comp. Geneza 17:1, „umblă înaintea Mea”)."
+      },
+      {
+       "t": " pe el:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה־אָמַר הָאֵל יְהוָה בּוֹרֵא הַשָּׁמַיִם וְנוֹטֵיהֶם רֹקַע הָאָרֶץ וְצֶאֱצָאֶיהָ נֹתֵן נְשָׁמָה לָעָם עָלֶיהָ וְרוּחַ לַהֹלְכִים בָּהּ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Text standard, fără variante textuale semnificative la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Οὕτως λέγει Κύριος ὁ Θεὸς ὁ ποιήσας τὸν οὐρανὸν καὶ πήξας αὐτόν, ὁ στερεώσας τὴν γῆν καὶ τὰ ἐν αὐτῇ, καὶ διδοὺς πνοὴν τῷ λαῷ τῷ ἐπ᾽ αὐτῆς καὶ πνεῦμα τοῖς πατοῦσιν αὐτήν.",
+       "greek": true,
+       "translation": "„Așa spune Domnul Dumnezeu, Cel ce a făcut cerul și l-a întărit, Cel ce a întemeiat pământul și cele din el, și dă suflare poporului de pe el și duh celor ce calcă pe el.”",
+       "note": "LXX traduce roka („a bate/lăți ca metalul”) prin στερεώσας („a întări, a face ferm”) — nuanța de „batere/lățire” a textului ebraic e înlocuită cu ideea de soliditate/fermitate."
+      }
+     ],
+     "refs": [
+      "Geneza 1:1",
+      "Geneza 2:7",
+      "Isaia 40:22",
+      "Isaia 45:12",
+      "Faptele Apostolilor 17:25"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Dumnezeu, DOMNUL” — Stăpânul dreptății și Stăpânul milei, împreună. „Creatorul cerurilor” — la început ca un fel de ghem de fir răsucit, iar apoi le-a întins, așa cum se spune în Tratatul <i>Hagiga</i> (12a). „Cel ce dă suflet poporului pe el” — suflet de viață, „la fel tuturor”. „Și viață” — <span class=\"heb-inline\">רוּחַ</span> de sfințenie. „Celor care merg pe el” — celor care umblă înaintea Lui."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Cel ce le desfășoară” — le-a înclinat să fie ca un cort. „Cel ce întinde [pământul]” — a lățit pământul și a scos din el urmașii lui, adică toate plantele. „Poporului pe el” — poporului care e pe el a dat suflet, iar restul făpturilor care umblă pe el le-a dat duhul vieții."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Roka” (întinde) — termen de lățire/desfășurare, ca în „Cel ce întinde pământul peste ape” (Ps. 136)."
+      },
+      {
+       "author": "Irineu de Lyon, Împotriva ereziilor 5:12.2",
+       "text": "Căci una este suflarea vieții, care l-a făcut pe om o ființă însuflețită, și alta e Duhul dătător de viață, care l-a făcut să devină duhovnicesc. Și de aceea a spus Isaia: «Așa spune Domnul, Cel ce a făcut cerul și l-a întărit, Cel ce a întemeiat pământul și cele dintr-însul, și a dat suflare poporului de pe el, și Duh celor ce umblă pe el» — arătând astfel că suflarea e dată, într-adevăr, în comun tuturor oamenilor de pe pământ, dar Duhul e numai al celor ce calcă în picioare poftele pământești. Suflarea, deci, e vremelnică, dar Duhul e veșnic."
+      },
+      {
+       "author": "Tertulian, Despre suflet 11:3-4",
+       "text": "Și iarăși: «Cel ce a dat suflare poporului de pe pământ și duh celor ce umblă pe el.» Căci mai întâi sufletul, adică «suflarea», a fost dat oamenilor care umblă pe pământ, adică celor ce lucrează în trup în chip trupesc; apoi, mai târziu, Duhul a fost dat celor ce umblă pe pământ, adică celor ce supun faptele trupului, așa cum afirmă apostolul: «Nu ce e duhovnicesc [vine] întâi, ci ce e firesc, și apoi ce e duhovnicesc.»"
+      },
+      {
+       "author": "Origen, Despre principii 1:3.4",
+       "text": "Se spune: «Cel ce dă duh poporului de pe pământ, și duh celor ce umblă pe el.» Căci, fără îndoială, oricine umblă pe pământ, adică orice ființă pământească și trupească, are parte de Duhul Sfânt pe care-l primește de la Dumnezeu."
+      }
+     ]
+    },
+    {
+     "v": "42:6",
+     "t": "Eu sunt DOMNUL; te-am chemat în dreptate și te-am luat de mână; te-am creat, te-am făcut popor al legământului, o lumină pentru neamuri;",
+     "heb": "אֲנִי יְהוָה קְרָאתִיךָ בְצֶדֶק וְאַחְזֵק בְּיָדֶךָ וְאֶצָּרְךָ וְאֶתֶּנְךָ לִבְרִית עָם לְאוֹר גּוֹיִם",
+     "translit": "Ani ADONAI keratiha veţedek veahzēk beiadeha veeţareha veetenha livrit am leor goim.",
+     "tokens": [
+      {
+       "t": "Eu "
+      },
+      {
+       "t": "sunt",
+       "w": "sunt",
+       "heb": "אֲנִי",
+       "translit": "Ani",
+       "strong": "H589",
+       "pos": "pronume, persoana I",
+       "def_ro": "Eu — formulă de auto-identificare, ca la 42:8."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "ADONAI",
+       "strong": "H3068",
+       "pos": "substantiv propriu",
+       "def_ro": "Tetragrama."
+      },
+      {
+       "t": "; te-am "
+      },
+      {
+       "t": "chemat",
+       "w": "chemat",
+       "heb": "קְרָאתִיךָ",
+       "translit": "keratiha",
+       "strong": "H7121",
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "a chema, a numi, a proclama.",
+       "dict_ro": "Rashi notează că acest verset se adresează, la nivel dublu, atât profetului Isaia (chemat la misiune), cât și lui Israel/Mesia — model de profeție cu strat dublu de aplicare, frecvent la profeții mari."
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "dreptate",
+       "w": "dreptate",
+       "heb": "בְצֶדֶק",
+       "translit": "veţedek",
+       "strong": "H6664",
+       "pos": "substantiv, masculin",
+       "def_ro": "dreptate, corectitudine, ceea ce e drept/just.",
+       "greek": "δικαιοσύνῃ (dikaiosynē)",
+       "greek_def_ro": "dreptate.",
+       "dict_ro": "Tzedek e conceptul central al eticii biblice — nu doar „dreptate legală”, ci corectitudinea relației cu Dumnezeu și cu semenii. Metzudat David leagă acest verset de o interpretare mesianică: chemarea „în dreptate” a robului lui Dumnezeu se împlinește prin profeți, ca o promisiune care se adeverește (davar hamitkayem)."
+      },
+      {
+       "t": " și te-am luat de "
+      },
+      {
+       "t": "mână",
+       "w": "mână",
+       "heb": "בְּיָדֶךָ",
+       "translit": "beiadeha",
+       "strong": "H3027",
+       "pos": "substantiv + sufix",
+       "def_ro": "mână — aici, simbol al sprijinului și puterii date.",
+       "dict_ro": "„A ține de mână” e o imagine de călăuzire și protecție activă; Metzudat David explică: „voi apuca mâinile tale ca să te înalț peste toți”."
+      },
+      {
+       "t": "; te-am "
+      },
+      {
+       "t": "creat",
+       "w": "creat",
+       "heb": "וְאֶצָּרְךָ",
+       "translit": "veeţareha",
+       "strong": "H3335",
+       "pos": "verb, qal imperfect + sufix",
+       "def_ro": "te-am modelat/format — verbul yatzar, rădăcina centrală a acestui ciclu profetic (42:5's substantiv „ceea ce crește” e din yatza, dar aici e yatzar, „a modela”, reluat în 43:1,7)."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "te-am făcut popor al legământului",
+       "w": "te-am făcut popor al legământului",
+       "heb": "וְאֶתֶּנְךָ לִבְרִית עָם",
+       "translit": "veetenha livrit am",
+       "strong": "H1285",
+       "pos": "substantiv, feminin (berit)",
+       "def_ro": "legământ, alianță.",
+       "dict_ro": "Berit e termenul central al relației dintre Dumnezeu și Israel — un acord solemn, nu doar o promisiune. Aici, robul/poporul devine el însuși întruchiparea legământului, mijlocitor între Dumnezeu și „neamuri”."
+      },
+      {
+       "t": ", o "
+      },
+      {
+       "t": "lumină",
+       "w": "lumină",
+       "heb": "לְאוֹר",
+       "translit": "leor",
+       "strong": "H216",
+       "pos": "substantiv, masculin",
+       "def_ro": "lumină.",
+       "greek": "φῶς (phōs)",
+       "greek_def_ro": "lumină.",
+       "dict_ro": "Imaginea „lumină pentru neamuri” (or goyim) revine în Isaia 49:6 și devine una din formulele mesianice cele mai citate — misiunea lui Israel nu e doar de a primi Legea, ci de a o reflecta către restul lumii."
+      },
+      {
+       "t": " pentru "
+      },
+      {
+       "t": "neamuri",
+       "w": "neamuri",
+       "heb": "גּוֹיִם",
+       "translit": "goim",
+       "strong": "H1471",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "neamuri, națiuni, popoare (adesea, în contrast cu Israel, „neevrei”).",
+       "dict_ro": "Rashi observă că fiecare trib e numit „goy” separat, citând Geneza 35:11 („un neam și o adunare de neamuri”) — deci termenul nu exclude automat pe Israel însuși, ci desemnează orice grup național organizat."
+      },
+      {
+       "t": ";"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אֲנִי יְהוָה קְרָאתִיךָ בְצֶדֶק וְאַחְזֵק בְּיָדֶךָ וְאֶצָּרְךָ וְאֶתֶּנְךָ לִבְרִית עָם לְאוֹר גּוֹיִם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐγὼ Κύριος ὁ Θεὸς ἐκάλεσά σε ἐν δικαιοσύνῃ καὶ κρατήσω τῆς χειρός σου καὶ ἐνισχύσω σε καὶ ἔδωκά σε εἰς διαθήκην γένους, εἰς φῶς ἐθνῶν",
+       "greek": true,
+       "translation": "„Eu, Domnul Dumnezeu, te-am chemat întru dreptate și te voi ține de mână și te voi întări și te-am dat spre legământ al neamului [Meu], spre lumină a neamurilor.”",
+       "note": "LXX adaugă ὁ Θεός („Dumnezeu”) absent în ebraică la începutul versetului, și traduce „popor” (am) prin γένος („neam/rasă”), o nuanță mai restrânsă decât termenul ebraic general."
+      }
+     ],
+     "refs": [
+      "Isaia 49:6",
+      "Isaia 49:8",
+      "Luca 2:32",
+      "Faptele Apostolilor 13:47",
+      "Matei 12:18"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Te-am chemat” — lui Isaia i se spune [aceasta]. „Și te-am creat” — <span class=\"heb-inline\">וְאֶצָּרְךָ</span>: când te-am format, acesta a fost gândul Meu, ca tu să întorci poporul Meu la legământul Meu și să-i luminezi. „Lumină pentru neamuri” — fiecare trib e numit neam de sine stătător, cum se spune (Geneza 35:11): «Un neam și o adunare de neamuri»."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Te-am chemat în dreptate” — despre Mesia se spune: ceea ce am vestit prin profeți în numele tău e adevărat și se va împlini. „Voi apuca mâna ta” — te voi ține de mâini ca să te înalț peste toți. „Te voi păzi” — Eu însumi te voi păzi. „Te voi face legământ al poporului” — îți voi da puterea de a-i întoarce pe ai Mei la legământul Meu, ca să împlinească Tora și porunca, spre lumina neamurilor — să lumineze ochii tuturor neamurilor, ca să cunoască faptul că DOMNUL este Dumnezeu."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Ahazek” (voi ține/apuca) — termen de apucare. „Eţareha” (te voi păzi) — termen de pază."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„Eu, DOMNUL, te-am chemat în dreptate” — El repetă numele lui Dumnezeu, în care trebuie să înțelegem ce spusese despre puterea Sa în versetul precedent. În general se crede că aceasta arată scopul chemării lui Hristos: că a fost trimis de Tatăl să întemeieze «dreptatea» printre oameni, lipsiți de ea atâta vreme cât nu-L au pe Hristos, ținuți captivi sub tirania lui Satan."
+      },
+      {
+       "author": "Jamieson-Fausset-Brown, Comentariu biblic",
+       "text": "„În dreptate” — mai degrabă „pentru un scop drept” [Lowth]. „Te voi ține de mână” — comp. cu Israel, tipul lui Mesia (Osea 11:3). „Legământ” — mijlocitorul legământului, făcut inițial între Dumnezeu și Avraam (Isaia 49:8); „mijlocitorul unui legământ mai bun” (Evrei 8:6) decât legea."
+      }
+     ]
+    },
+    {
+     "v": "42:7",
+     "t": "ca să deschizi ochi lipsiți de lumină, să scoți prizonierul din prinsoare, din temniță pe cei care stau în beznă.",
+     "heb": "לִפְקֹחַ עֵינַיִם עִוְרוֹת לְהוֹצִיא מִמַּסְגֵּר אַסִּיר מִבֵּית כֶּלֶא יֹשְׁבֵי חֹשֶׁךְ",
+     "translit": "Lifkoah einaim ivrot lehoţi mimasgēr asir mibēit kele ioșvēi hoșeh.",
+     "tokens": [
+      {
+       "t": "ca să "
+      },
+      {
+       "t": "deschizi",
+       "w": "deschizi",
+       "heb": "לִפְקֹחַ",
+       "translit": "lifkoah",
+       "strong": "H6491",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "a deschide (ochii, în special).",
+       "dict_ro": "Verbul pakah se folosește aproape exclusiv pentru deschiderea ochilor, nu a ușilor — sugerează o revelație bruscă, o trezire la realitate, nu doar un act fizic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ochi",
+       "w": "ochi",
+       "heb": "עֵינַיִם",
+       "translit": "einaim",
+       "strong": "H5869",
+       "pos": "substantiv, feminin dual",
+       "def_ro": "ochi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lipsiți de lumină",
+       "w": "lipsiți de lumină",
+       "heb": "עִוְרוֹת",
+       "translit": "ivrot",
+       "strong": "H5787",
+       "pos": "adjectiv, feminin plural",
+       "def_ro": "orb, lipsit de vedere.",
+       "dict_ro": "Rashi citește acest orb dublu — literal, dar și moral: „cei care nu văd puterea Mea, ca să-și pună la inimă să se întoarcă la Mine”."
+      },
+      {
+       "t": ", să "
+      },
+      {
+       "t": "scoți",
+       "w": "scoți",
+       "heb": "לְהוֹצִיא",
+       "translit": "lehoţi",
+       "strong": "H3318",
+       "pos": "verb, hifil infinitiv",
+       "def_ro": "a scoate, a elibera, a face să iasă.",
+       "dict_ro": "Yatza la hifil („a face să iasă”) e verbul-cheie al Exodului (Exod 20:2, „te-am scos din Egipt”) — folosirea lui aici leagă direct eliberarea viitoare de modelul fondator al Ieșirii din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "prizonierul",
+       "w": "prizonierul",
+       "heb": "אַסִּיר",
+       "translit": "asir",
+       "strong": "H616",
+       "pos": "substantiv, masculin",
+       "def_ro": "prizonier, captiv, cel legat.",
+       "dict_ro": "Din rădăcina asar, „a lega”. Rashi oferă a doua explicație: aluzie profetică la exilul viitor al lui Israel, din care poporul va ieși într-o zi."
+      },
+      {
+       "t": " din "
+      },
+      {
+       "t": "prinsoare",
+       "w": "prinsoare",
+       "heb": "מִמַּסְגֵּר",
+       "translit": "mimasgēr",
+       "strong": "H4525",
+       "pos": "substantiv, masculin",
+       "def_ro": "închisoare, loc de închidere."
+      },
+      {
+       "t": ", din "
+      },
+      {
+       "t": "temniță",
+       "w": "temniță",
+       "heb": "מִבֵּית כֶּלֶא",
+       "translit": "mibēit kele",
+       "strong": "H3608",
+       "pos": "substantiv compus",
+       "def_ro": "casă de temniță, închisoare.",
+       "greek": "οἴκου φυλακῆς (oikou phylakēs)",
+       "greek_def_ro": "casă de pază/închisoare.",
+       "dict_ro": "Structura „casă de + kele” (temniță) e paralelă cu „casă de” în alte expresii biblice compuse — subliniază ideea de spațiu închis, opus libertății promise."
+      },
+      {
+       "t": " pe cei care "
+      },
+      {
+       "t": "stau",
+       "w": "stau",
+       "heb": "יֹשְׁבֵי",
+       "translit": "ioșvēi",
+       "strong": "H3427",
+       "pos": "verb, qal participiu",
+       "def_ro": "a ședea, a locui, a rămâne (aici, „cei ce șed/rămân” în întuneric)."
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "beznă",
+       "w": "beznă",
+       "heb": "חֹשֶׁךְ",
+       "translit": "hoșeh",
+       "strong": "H2822",
+       "pos": "substantiv, masculin",
+       "def_ro": "întuneric, beznă.",
+       "greek": "σκότος (skotos)",
+       "greek_def_ro": "întuneric.",
+       "dict_ro": "Hoșeh e opusul lui or („lumină”) din v. 6 — contrastul lumină/întuneric structurează întreaga Haftarah, de la Creație (lumina primordială) până la eliberarea din exil (întunericul temniței)."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לִפְקֹחַ עֵינַיִם עִוְרוֹת לְהוֹצִיא מִמַּסְגֵּר אַסִּיר מִבֵּית כֶּלֶא יֹשְׁבֵי חֹשֶׁךְ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀνοῖξαι ὀφθαλμοὺς τυφλῶν, ἐξαγαγεῖν ἐκ δεσμῶν δεδεμένους καὶ ἐξ οἴκου φυλακῆς καθημένους ἐν σκότει",
+       "greek": true,
+       "translation": "„Să deschidă ochii orbilor, să scoată din legături pe cei legați și din casa temniței pe cei ce șed în întuneric.”",
+       "note": "LXX explicitează „cei legați” (δεδεμένους) unde ebraica are direct „prizonier” — traducere clarificatoare, nu o diferență de sens."
+      }
+     ],
+     "refs": [
+      "Isaia 61:1",
+      "Luca 4:18",
+      "Psalmul 146:7-8",
+      "Isaia 9:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Să deschizi ochi lipsiți de lumină” — pe cei care nu văd puterea Mea, ca să-și pună la inimă să se întoarcă la Mine. „Să scoți prizonierul din prinsoare” — și pentru că ochii lor se vor deschide, prizonierii vor ieși din temniță. O altă explicație: să-i înștiințeze despre exilul care li se va întâmpla, din care într-o zi vor ieși."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Să deschizi” — pe cel ai cărui ochi s-au orbit ca să nu vadă lucrarea DOMNULUI, tu îi vei deschide și îi vei face să înțeleagă. „Să scoți” — pe Israel cei legați în Babilon îi vei scoate din casa celor ce-i închid, și din casa temniței pe cei ce șed acolo în întuneric."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Lifkoah” (a deschide) — termen de deschidere, ca în „Cel ce deschide ochii orbilor” (Ps. 146). „Mibēit kele” — loc de arestare."
+      },
+      {
+       "author": "Keil-Delitzsch, Comentariu la Isaia 42:7",
+       "text": "Faptul că a fost chemat în dreptate îi este mărturisit slujitorului DOMNULUI prin aceea că DOMNUL l-a luat de mână, îl păzește și îl face «legământ al poporului, lumină a neamurilor» — expresii care dovedesc hotărâtor că ideea de «slujitor al DOMNULUI» s-a înălțat aici de la temelia națională la un vârf personal: mântuirea pe care o aduce el nu e doar eliberare din robie trupească, ci și din robia duhovnicească."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Să deschidă ochii orbilor” — ai neamurilor idolatre, orbi din punct de vedere spiritual, care nu-și cunoșteau propria mizerie, gravitatea păcatului, nevoia lor de un Mântuitor. „Să scoată prizonierii din temniță” — cei închiși în păcat, sub stăpânirea legii, captivii lui Satan, ținuți sub robia poftelor proprii."
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 12:42.7",
+       "text": "El numește aici «orbi» pe cei vătămați în vederea lor intelectuală; îi numește pe aceiași și întemnițați de legăturile păcatului și ținuți de întunericul rătăcirii. După ce i-a eliberat din negura neștiinței și le-a rupt legăturile păcatului, i-a condus spre lumina adevărului."
+      },
+      {
+       "author": "Clement din Alexandria, Stromate, cartea I",
+       "text": "„Deschiderea ochilor orbilor” înseamnă că [Hristos] a oferit cunoașterea limpede a Tatălui prin Fiul."
+      }
+     ]
+    },
+    {
+     "v": "42:8",
+     "t": "Eu sunt DOMNUL, acesta este numele Meu, iar slava Mea nu o voi da altuia, și nici lauda Mea idolilor ciopliți.",
+     "heb": "אֲנִי יְהוָה הוּא שְׁמִי וּכְבוֹדִי לְאַחֵר לֹא־אֶתֵּן וּתְהִלָּתִי לַפְּסִילִים",
+     "translit": "Ani ADONAI hu șemi uhevodi laaher lo-eten uthilati lapsilim.",
+     "tokens": [
+      {
+       "t": "Eu",
+       "w": "Eu",
+       "heb": "אֲנִי",
+       "translit": "Ani",
+       "strong": "H589",
+       "pos": "pronume, persoana I",
+       "def_ro": "Eu.",
+       "dict_ro": "Formula „Ani Adonai” („Eu [sunt] DOMNUL”) e o formulă de auto-identificare divină recurentă în Tora și profeți (cf. Exod 6:2, Levitic 18:5) — o afirmație solemnă de suveranitate, nu doar o simplă introducere gramaticală."
+      },
+      {
+       "t": " sunt "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "ADONAI",
+       "strong": "H3068",
+       "pos": "substantiv propriu",
+       "def_ro": "Tetragrama, Numele legământului.",
+       "dict_ro": "Repetiția „Ani Adonai” la începutul versetului 8, imediat după chemarea robului în v.6-7, subliniază că autoritatea slujitorului derivă direct din identitatea divină a Celui ce-l trimite."
+      },
+      {
+       "t": ", acesta este "
+      },
+      {
+       "t": "numele",
+       "w": "numele",
+       "heb": "שְׁמִי",
+       "translit": "șemi",
+       "strong": "H8034",
+       "pos": "substantiv + sufix",
+       "def_ro": "nume.",
+       "dict_ro": "Rashi explică: expresia se referă la stăpânire și putere — „trebuie să arăt că Eu sunt Stăpânul”, ca neamurile să nu spună că mâna dumnezeului lor e puternică."
+      },
+      {
+       "t": " Meu, iar "
+      },
+      {
+       "t": "slava",
+       "w": "slava",
+       "heb": "וּכְבוֹדִי",
+       "translit": "uhevodi",
+       "strong": "H3519",
+       "pos": "substantiv + sufix",
+       "def_ro": "slavă, greutate, onoare.",
+       "greek": "δόξαν (doxan)",
+       "greek_def_ro": "slavă.",
+       "dict_ro": "Kavod vine din rădăcina „a fi greu” — slava lui Dumnezeu e literalmente „greutatea” Sa copleșitoare, prezența Sa manifestă. A o „da altuia” ar însemna a permite o rivalitate imposibilă cu idolii."
+      },
+      {
+       "t": " Mea nu o voi da "
+      },
+      {
+       "t": "altuia",
+       "w": "altuia",
+       "heb": "לְאַחֵר",
+       "translit": "leaher",
+       "strong": "H312",
+       "pos": "adjectiv substantivat, masculin",
+       "def_ro": "altul, altcineva.",
+       "dict_ro": "Aher („altul”) revine ca termen-cheie al polemicii anti-idolatre din Isaia 40-48 — Dumnezeu Își revendică unicitatea absolută, refuzând orice împărțire a slavei Sale cu o altă ființă."
+      },
+      {
+       "t": ", și nici "
+      },
+      {
+       "t": "lauda",
+       "w": "lauda",
+       "heb": "וּתְהִלָּתִי",
+       "translit": "uthilati",
+       "strong": "H8416",
+       "pos": "substantiv + sufix",
+       "def_ro": "laudă, cântare de laudă."
+      },
+      {
+       "t": " Mea "
+      },
+      {
+       "t": "idolilor ciopliți",
+       "w": "idolilor ciopliți",
+       "heb": "לַפְּסִילִים",
+       "translit": "lapsilim",
+       "strong": "H6456",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "chip cioplit, idol.",
+       "greek": "γλυπτοῖς (glyptois)",
+       "greek_def_ro": "[chipurilor] cioplite.",
+       "dict_ro": "Pesel vine din pasal, „a ciopli” — subliniază caracterul făcut de mână, deci lipsit de putere reală, al idolilor, în contrast direct cu Dumnezeu Creatorul din v. 5."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אֲנִי יְהוָה הוּא שְׁמִי וּכְבוֹדִי לְאַחֵר לֹא־אֶתֵּן וּתְהִלָּתִי לַפְּסִילִים",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐγὼ Κύριος ὁ Θεός, τοῦτό μού ἐστιν τὸ ὄνομα· τὴν δόξαν μου ἑτέρῳ οὐ δώσω οὐδὲ τὰς ἀρετάς μου τοῖς γλυπτοῖς.",
+       "greek": true,
+       "translation": "„Eu sunt Domnul Dumnezeu, acesta este numele Meu; slava Mea n-o voi da altuia, nici virtuțile Mele chipurilor cioplite.”",
+       "note": "LXX redă „lauda Mea” (tehilati) prin τὰς ἀρετάς μου („virtuțile/faptele Mele de vitejie”) — o traducere mai degrabă interpretativă decât literală a termenului ebraic."
+      }
+     ],
+     "refs": [
+      "Isaia 48:11",
+      "Exod 20:3-4",
+      "Isaia 40:18-20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Acesta este numele Meu” — se explică drept expresie a stăpânirii și puterii: trebuie să arăt că Eu sunt Stăpânul. De aceea, slava Mea nu o voi da altuia, ca păgânii să nu domnească peste poporul Meu pe vecie și să spună că mâna dumnezeului lor e puternică."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Numele Meu” — cel special al Meu, nu ca numele idolilor, care nu au nume propriu, căci li se spune „dumnezeu”, dar nu sunt Dumnezeu. „Slava Mea” — nu voi mai da slava Mea altuia, căci până acum, pentru că n-am făcut judecată asupra păgânilor, [poporul] s-a abătut după idoli și i-a cinstit acolo unde se cuvenea să Mă cinstească pe Mine; dar de acum voi face judecată și nu vor mai cinsti idolii."
+      },
+      {
+       "author": "Eusebiu de Cezareea, Comentariu la Isaia 2:22",
+       "text": "„Numele prin care va fi lăudat ca Domn și Dumnezeu al tuturor, zice [Isaia], «nu-l voi da altuia»” decât Ție singur, căruia Îți voi dărui să fii lumină pentru neamuri. De aceea, în [această] promisiune, Hristosul lui Dumnezeu e numit Domn și Dumnezeu de către toate neamurile, Tatăl dăruindu-i numai Lui acea slavă — «nici puterile Mele chipurilor cioplite»... Potrivit acestui text, numai Hristos e numit Dumnezeu, fiindcă numai Lui, și nimănui altuia, I-a dat Dumnezeul cel peste toate slava și puterea Sa."
+      },
+      {
+       "author": "Grigorie de Nazianz, Cuvântarea teologică a IV-a (30), 18",
+       "text": "Același lucru se aplică și cuvântului „Domn”, folosit și el ca nume al lui Dumnezeu: «Eu sunt Domnul Dumnezeul tău», zice El, «acesta e numele Meu», și «Domnul este numele Lui». Dar noi cercetăm mai adânc o natură care are existență absolută, independentă de orice altceva — ființa proprie a lui Dumnezeu, în plinătatea ei, nu e nici limitată, nici scurtată de vreo realitate anterioară sau ulterioară: așa a fost și așa va fi."
+      },
+      {
+       "author": "Grigorie de Nyssa, Împotriva lui Eunomiu 2:10",
+       "text": "Cine este acel „altul” căruia Dumnezeu a spus că nu-i va da slava Sa? Profetul vorbește despre potrivnicul lui Dumnezeu, iar Eunomiu raportează profeția la Însuși Dumnezeul cel Unul-Născut! Căci atunci când oamenii au fost amăgiți să aducă potrivnicului lui Dumnezeu închinarea cuvenită numai lui Dumnezeu, [Domnul], îndurându-Se de pieirea oamenilor, a vestit prin profet bunătatea pe care avea s-o arate în zilele din urmă prin desființarea idolilor."
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 12:42.8-9",
+       "text": "Fiul este cel ce are slava Tatălui, și în slava Tatălui Se va arăta, căci dumnezeirea Fiului și a Tatălui este una. Așadar, dacă Dumnezeu spune că nu va da slava Sa altuia, iar Fiul are în chip vădit slava Tatălui, e limpede că El nu e «altul» după ființă, ci are aceeași natură cu Tatăl."
+      }
+     ]
+    },
+    {
+     "v": "42:9",
+     "t": "Cele [profețite] odinioară, iată, s-au împlinit și acum prevestesc [lucruri] noi, vi le spun înainte să iasă la iveală.",
+     "heb": "הָרִאשֹׁנוֹת הִנֵּה־בָאוּ וַחֲדָשׁוֹת אֲנִי מַגִּיד בְּטֶרֶם תִּצְמַחְנָה אַשְׁמִיע אֶתְכֶם",
+     "translit": "Harișonot hinē-vau vahadașot ani maghid beterem tiţmahna așmia ethem.",
+     "tokens": [
+      {
+       "t": "Cele [profețite] "
+      },
+      {
+       "t": "odinioară",
+       "w": "odinioară",
+       "heb": "הָרִאשֹׁנוֹת",
+       "translit": "harișonot",
+       "strong": "H7223",
+       "pos": "adjectiv substantivat, feminin plural",
+       "def_ro": "cele dintâi, cele de mai înainte.",
+       "dict_ro": "Rashi identifică aceste „lucruri dintâi” cu promisiunea făcută lui Avraam despre exilul din Egipt (Geneza 15:14) — profeții deja împlinite, garanție pentru cele noi ce vor urma."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "iată",
+       "w": "iată",
+       "heb": "הִנֵּה",
+       "translit": "hinē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă",
+       "def_ro": "iată, priviți.",
+       "dict_ro": "Hinē e o particulă de atenție folosită constant în teofanii și profeții pentru a marca un moment decisiv — „iată” cheamă ascultătorul să observe ceva ce se întâmplă chiar acum, nu doar o narațiune despre trecut."
+      },
+      {
+       "t": ", s-au "
+      },
+      {
+       "t": "împlinit",
+       "w": "împlinit",
+       "heb": "בָאוּ",
+       "translit": "vau",
+       "strong": "H935",
+       "pos": "verb, qal perfect",
+       "def_ro": "a veni, a se împlini, a se întâmpla."
+      },
+      {
+       "t": " și acum "
+      },
+      {
+       "t": "prevestesc",
+       "w": "prevestesc",
+       "heb": "אֲנִי מַגִּיד",
+       "translit": "ani maghid",
+       "strong": "H5046",
+       "pos": "pronume + verb, hifil participiu",
+       "def_ro": "eu vestesc, eu fac cunoscut.",
+       "dict_ro": "Rădăcina nagad, „a vesti”, dă și numele haggadei — actul de a povesti/vesti ceva important. Aici, Dumnezeu Se prezintă ca singurul care poate anunța viitorul înainte să se întâmple, spre deosebire de idolii muți din v. 8. Pronumele „ani” (eu), deși nu apare separat în traducerea românească, e prezent explicit în ebraică, întărind contrastul cu vocea divină unică ce vestește."
+      },
+      {
+       "t": " [lucruri] "
+      },
+      {
+       "t": "noi",
+       "w": "noi",
+       "heb": "וַחֲדָשׁוֹת",
+       "translit": "vahadașot",
+       "strong": "H2319",
+       "pos": "adjectiv, feminin plural",
+       "def_ro": "nou, proaspăt.",
+       "dict_ro": "Rashi leagă „lucrurile noi” de o a doua promisiune, referitoare la un al doilea exil — paralelă structurală cu prima eliberare (din Egipt), pattern profetic recurent."
+      },
+      {
+       "t": ", vi le "
+      },
+      {
+       "t": "spun",
+       "w": "spun",
+       "heb": "אַשְׁמִיע",
+       "translit": "așmia",
+       "strong": "H8085",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a face auzit, a vesti (hifil de la șama, „a auzi”).",
+       "dict_ro": "Forma hifil („a face să audă”) e cauzativă — Dumnezeu nu doar vorbește, ci activ „face să se audă” profeția, garantând că mesajul ajunge la destinatari, spre deosebire de idolii muți care nu pot vesti nimic (v.9 continuă polemica din v.8)."
+      },
+      {
+       "t": " înainte să "
+      },
+      {
+       "t": "iasă la iveală",
+       "w": "iasă la iveală",
+       "heb": "תִּצְמַחְנָה",
+       "translit": "tiţmahna",
+       "strong": "H6779",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a răsări, a încolți, a odrăsli.",
+       "dict_ro": "Verbul tsamah, „a răsări” (ca planta), leagă din nou profeția de imaginea creației/vegetației din v. 5 — viitorul „încolțește” la fel cum pământul rodește."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הָרִאשֹׁנוֹת הִנֵּה־בָאוּ וַחֲדָשׁוֹת אֲנִי מַגִּיד בְּטֶרֶם תִּצְמַחְנָה אַשְׁמִיע אֶתְכֶם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τὰ ἀπ᾽ ἀρχῆς ἰδοὺ ἥκασιν, καὶ καινὰ ἃ ἐγὼ ἀναγγελῶ, καὶ πρὸ τοῦ ἀνατεῖλαι ἐδηλώθη ὑμῖν.",
+       "greek": true,
+       "translation": "„Cele dintru început iată au venit, și cele noi pe care le voi vesti, și mai înainte de a se ivi vi s-au făcut cunoscute.”",
+       "note": "LXX pune verbul „a vesti” la viitor (ἀναγγελῶ) unde ebraica are participiu prezent (maghid) — accent ușor diferit, viitor vs. proces continuu."
+      }
+     ],
+     "refs": [
+      "Isaia 48:3-6",
+      "Geneza 15:13-14",
+      "Isaia 46:9-10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Cele dintâi” — pe care le-am promis lui Avraam despre exilul din Egipt (Geneza 15:14): «Și de asemenea neamul etc.» „Iată, s-au împlinit” — Mi-am ținut promisiunea, iar acum vestesc poporului Meu lucruri noi, ca să le promit despre un al doilea exil."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Cele dintâi” — profețiile dintâi, pe care le-am rostit despre Sanherib, iată, s-au și împlinit. „Și cele noi” — acum vestesc lucruri noi, pe care nu le-ați auzit încă, și anume izbăvirea viitoare. „Înainte să iasă la iveală” — adică înainte să înceapă să se arate, vi le fac cunoscute."
+      },
+      {
+       "author": "Eusebiu de Cezareea, Comentariu la Isaia 2:22",
+       "text": "„Iată, cele dintâi”, zice, „s-au împlinit. Dar vestesc lucruri noi, și înainte să se ivească, vi le voi face auzite.” Așa cum „cele dintâi” aveau să se împlinească prin lucrările Mele, precum am promis lui Avraam despre «sămânța» lui, tot așa am și lucrat; am împlinit și cele vestite prin Moise și prin ceilalți profeți; „acum promit tuturor ce a fost vestit mai dinainte”, și le voi aduce la lumină prin profeții, căci „am făcut ca acestea să vă fie auzite.”"
+      },
+      {
+       "author": "Chiril al Alexandriei, Comentariu la Isaia 3:5.42:9",
+       "text": "Când profetul spune: «Iată, cele dintâi s-au împlinit, și lucruri noi vestesc acum; înainte să iasă la iveală, vi le spun», el nu ne lasă loc să necredem în niciun fel cuvântul Mântuitorului. Căci el spune că, așa cum s-a împlinit ce s-a rostit de la început despre venirea Sa, tot așa se vor arăta adevărate și «lucrurile noi», descoperite înainte de a se face cunoscute."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Cele dintâi, iată, s-au împlinit” — ceea ce am profețit despre Sanherib s-a împlinit deja (după Radak). „Și lucruri noi vestesc” — aceasta e izbăvirea din Babilon."
+      }
+     ]
+    },
+    {
+     "v": "42:10",
+     "t": "Cântați DOMNULUI un cântec nou, lauda Sa de la marginea pământului — voi care străbateți marea și voi, insule și locuitorii lor!",
+     "heb": "שִׁירוּ לַיהוָה שִׁיר חָדָשׁ תְּהִלָּתוֹ מִקְצֵה הָאָרֶץ יוֹרְדֵי הַיָּם וּמְלֹאוֹ אִיִּים וְיֹשְׁבֵיהֶם",
+     "translit": "Șiru l'ADONAI șir hadaș tehilato mikţē haareţ iordēi haiam umeloo iim veioșvēihem.",
+     "tokens": [
+      {
+       "t": "Cântați",
+       "w": "Cântați",
+       "heb": "שִׁירוּ",
+       "translit": "șiru",
+       "strong": "H7891",
+       "pos": "verb, qal imperativ",
+       "def_ro": "a cânta."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "לַיהוָה",
+       "translit": "l'ADONAI",
+       "strong": "H3068",
+       "pos": "substantiv propriu + prep.",
+       "def_ro": "DOMNULUI — Tetragrama cu prefixul „la/pentru”."
+      },
+      {
+       "t": " un "
+      },
+      {
+       "t": "cântec nou",
+       "w": "cântec nou",
+       "heb": "שִׁיר חָדָשׁ",
+       "translit": "șir hadaș",
+       "strong": "H2319",
+       "pos": "substantiv+adjectiv",
+       "def_ro": "cântec nou.",
+       "dict_ro": "„Cântec nou” apare des în Psalmi (33, 96, 98, 149) la momente de mântuire cosmică — nu doar o melodie inedită, ci un răspuns liturgic la o intervenție divină fără precedent."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "lauda",
+       "w": "lauda",
+       "heb": "תְּהִלָּתוֹ",
+       "translit": "tehilato",
+       "strong": "H8416",
+       "pos": "substantiv + sufix",
+       "def_ro": "lauda Sa — aceeași rădăcină ca la 42:8,12."
+      },
+      {
+       "t": " Sa de la "
+      },
+      {
+       "t": "marginea pământului",
+       "w": "marginea pământului",
+       "heb": "מִקְצֵה הָאָרֶץ",
+       "translit": "mikţē haareţ",
+       "strong": "H7097",
+       "pos": "substantiv compus",
+       "def_ro": "marginea/capătul pământului.",
+       "dict_ro": "Expresia „de la marginea pământului” marchează universalitatea geografică a chemării la laudă — nu doar Israel, ci întreaga lume cunoscută e inclusă în corul de recunoaștere a lui Dumnezeu."
+      },
+      {
+       "t": " — voi care "
+      },
+      {
+       "t": "străbateți marea",
+       "w": "străbateți marea",
+       "heb": "יוֹרְדֵי הַיָּם",
+       "translit": "iordēi haiam",
+       "strong": "H3381",
+       "pos": "verb participiu+substantiv",
+       "def_ro": "cei ce coboară pe mare (corăbierii).",
+       "dict_ro": "Rashi: „cei care se îmbarcă pe corăbii” — expresia idiomatică „a coborî pe mare” descrie navigatorii, chemați alături de locuitorii uscatului să laude pe Dumnezeu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și voi",
+       "w": "și voi",
+       "heb": "וּמְלֹאוֹ",
+       "translit": "umeloo",
+       "strong": "H4393",
+       "pos": "substantiv + sufix",
+       "def_ro": "și plinătatea ei (a mării) — tradus liber „și voi” de Rosen, referindu-se la viețuitoarele mării.",
+       "dict_ro": "Meloo („plinătatea ei”) e o expresie standard pentru totalitatea viețuitoarelor unui spațiu (cf. Psalmul 24:1, „al DOMNULUI e pământul și plinătatea lui”) — aici aplicată mării, incluzând tot ce trăiește în adâncuri."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "insule",
+       "w": "insule",
+       "heb": "אִיִּים",
+       "translit": "iim",
+       "strong": "H339",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "insule, țărmuri îndepărtate.",
+       "greek": "νῆσοι (nēsoi)",
+       "greek_def_ro": "insule.",
+       "dict_ro": "„Iim” desemnează, generic, orice regiune de coastă îndepărtată — echivalentul biblic pentru „marginile lumii cunoscute”, subliniind universalitatea chemării la laudă."
+      },
+      {
+       "t": " și locuitorii lor!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "שִׁירוּ לַיהוָה שִׁיר חָדָשׁ תְּהִלָּתוֹ מִקְצֵה הָאָרֶץ יוֹרְדֵי הַיָּם וּמְלֹאוֹ אִיִּים וְיֹשְׁבֵיהֶם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὑμνήσατε τῷ Κυρίῳ ὕμνον καινόν, ἡ ἀρχὴ αὐτοῦ· δοξάζετε τὸ ὄνομα αὐτοῦ ἀπ᾽ ἄκρου τῆς γῆς, οἱ καταβαίνοντες εἰς τὴν θάλασσαν καὶ πλέοντες αὐτήν, αἱ νῆσοι καὶ οἱ κατοικοῦντες αὐτάς.",
+       "greek": true,
+       "translation": "„Cântați Domnului cântare nouă, stăpânirea Lui; slăviți numele Lui de la marginea pământului, cei ce coborâți pe mare și plutiți pe ea, insulele și cei ce locuiesc în ele.”",
+       "note": "LXX adaugă „stăpânirea Lui” (ἡ ἀρχὴ αὐτοῦ) fără corespondent clar în ebraică — posibil o dublă traducere a lui „tehilato” (lauda Sa)."
+      }
+     ],
+     "refs": [
+      "Psalmul 96:1",
+      "Psalmul 98:1",
+      "Apocalipsa 5:9",
+      "Isaia 24:15-16"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Lauda Sa de la marginea pământului” — de nevoie, când vor vedea faptele Mele puternice pentru Israel, toate neamurile vor recunoaște că Eu sunt Dumnezeu. „Cei care coboară pe mare” — cei care se îmbarcă pe corăbii."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Cântați DOMNULUI” — atunci vor cânta DOMNULUI un cântec nou, și lauda Sa se va auzi de la marginea pământului. „Cei ce coboară pe mare” — cei ce navighează pe mare și făpturile care umplu marea, și ele Îl vor lăuda pe DOMNUL. „Insulele și locuitorii lor” — insulele însele și cei ce locuiesc în ele Îl vor lăuda, printr-o figură de stil, căci insulele și făpturile fără judecată și grai nu pot lăuda cu adevărat — la fel se spune și «râurile să bată din palme» (Ps. 98)."
+      },
+      {
+       "author": "Efrem Sirul, Comentariu la Isaia 42:10",
+       "text": "Aici [Isaia] vorbește din nou despre neamuri și le invită să cânte un cântec nou DOMNULUI. Într-adevăr, dacă evreii, izbăviți din robie după șaptezeci de ani, au trebuit să cânte un imn nou DOMNULUI, eliberatorul lor, de ce n-ar face la fel și neamurile? Și n-ar trebui, cu și mai multă îndreptățire, să izbucnească într-un cântec nou, de vreme ce au fost izbăvite dintr-o robie de multe veacuri? „Insulele și locuitorii lor” — acele neamuri care înfruntă valurile mării cu corăbiile lor Îl vor lăuda pe DOMNUL."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Cântați DOMNULUI un cântec nou” — datorită lucrurilor noi profețite mai înainte și acum împlinite; datorită răscumpărării și mântuirii prin Hristos, și convertirii neamurilor prin lumina Evangheliei adusă printre ele — cântarea iubirii răscumpărătoare. Și nu doar evreii, ci și neamurile sunt chemate să cânte acest cântec, având și ele parte deosebită la binecuvântările lui."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Cântați DOMNULUI un cântec nou” — căci, atunci când DOMNUL va izbăvi poporul Său prin Cirus, lucrul se va face cunoscut la neamuri îndepărtate, și ele vor da slavă DOMNULUI; nu se referă la zilele lui Mesia, căci nu spune că toate popoarele vor sluji DOMNULUI, ci doar că vor vesti lauda Lui — de aceea a amintit „cei ce coboară pe mare”, căci ei vor vesti izbăvirea prin insulele îndepărtate."
+      }
+     ]
+    },
+    {
+     "v": "42:11",
+     "t": "Deșertul și orașele lui să-și ridice [glasul], satele unde șade Kedar, locuitorii stâncii să strige, din vârful munților să vestească.",
+     "heb": "יִשְׂאוּ מִדְבָּר וְעָרָיו חֲצֵרִים תֵּשֵׁב קֵדָר יָרֹנּוּ יֹשְׁבֵי סֶלַע מֵרֹאשׁ הָרִים יִצְוָחוּ",
+     "translit": "Isu midbar vearav haţērim tēșēv Kēdar iaronu ioșvēi sela mēroș harim itzvahu.",
+     "tokens": [
+      {
+       "t": "Deșertul",
+       "w": "Deșertul",
+       "heb": "מִדְבָּר",
+       "translit": "midbar",
+       "strong": "H4057",
+       "pos": "substantiv, masculin",
+       "def_ro": "deșert, pustiu."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "orașele",
+       "w": "orașele",
+       "heb": "עָרָיו",
+       "translit": "arav",
+       "strong": "H5892",
+       "pos": "substantiv + sufix",
+       "def_ro": "orașele/cetățile lui."
+      },
+      {
+       "t": " lui să-și "
+      },
+      {
+       "t": "ridice [glasul]",
+       "w": "ridice [glasul]",
+       "heb": "יִשְׂאוּ",
+       "translit": "isu",
+       "strong": "H5375",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a ridica, a purta (aici, elipsă pentru „a-și ridica glasul”)."
+      },
+      {
+       "t": ", satele unde "
+      },
+      {
+       "t": "șade",
+       "w": "șade",
+       "heb": "תֵּשֵׁב",
+       "translit": "tēșēv",
+       "strong": "H3427",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a locui, a ședea — aceeași rădăcină ca „ioșvēi” din 42:7."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Kedar",
+       "w": "Kedar",
+       "heb": "קֵדָר",
+       "translit": "Kēdar",
+       "strong": "H6938",
+       "pos": "substantiv propriu",
+       "def_ro": "trib arab nomad, descendent al lui Ismael (Geneza 25:13), simbol al popoarelor deșertului."
+      },
+      {
+       "t": ", locuitorii "
+      },
+      {
+       "t": "stâncii",
+       "w": "stâncii",
+       "heb": "סֶלַע",
+       "translit": "sela",
+       "strong": "H5553",
+       "pos": "substantiv, masculin",
+       "def_ro": "stâncă — posibil aluzie la cetatea Petra/Sela, capitala edomită.",
+       "dict_ro": "Rashi identifică „locuitorii stâncii” cu morții care vor învia, urmând traducerea lui Ionatan ben Uziel — o lectură midrașică ce leagă acest verset de învierea morților."
+      },
+      {
+       "t": " să "
+      },
+      {
+       "t": "strige",
+       "w": "strige",
+       "heb": "יָרֹנּוּ",
+       "translit": "iaronu",
+       "strong": "H7442",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a striga de bucurie, a cânta tare."
+      },
+      {
+       "t": ", din "
+      },
+      {
+       "t": "vârful munților",
+       "w": "vârful munților",
+       "heb": "מֵרֹאשׁ הָרִים",
+       "translit": "mēroș harim",
+       "strong": "H7218",
+       "pos": "substantiv compus",
+       "def_ro": "vârful/capul munților."
+      },
+      {
+       "t": " să "
+      },
+      {
+       "t": "vestească",
+       "w": "vestească",
+       "heb": "יִצְוָחוּ",
+       "translit": "itzvahu",
+       "strong": "H6817",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a striga tare, a vesti cu glas puternic."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יִשְׂאוּ מִדְבָּר וְעָרָיו חֲצֵרִים תֵּשֵׁב קֵדָר יָרֹנּוּ יֹשְׁבֵי סֶלַע מֵרֹאשׁ הָרִים יִצְוָחוּ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εὐφράνθητι, ἔρημος καὶ αἱ κῶμαι αὐτῆς, ἐπαύλεις καὶ οἱ κατοικοῦντες Κηδάρ· εὐφρανθήσονται οἱ κατοικοῦντες Πέτραν, ἀπ᾽ ἄκρων τῶν ὀρέων βοήσουσιν.",
+       "greek": true,
+       "translation": "„Veselește-te, pustiule, și satele tale, staulele și locuitorii Kedarului; se vor veseli locuitorii Petrei, de pe vârfurile munților vor striga.”",
+       "note": "LXX identifică explicit „sela” (stânca) cu Πέτρα (Petra), cetatea edomită, unde ebraica lasă termenul generic „stânca” — o interpretare geografică precisă absentă din textul ebraic."
+      }
+     ],
+     "refs": [
+      "Geneza 25:13",
+      "Psalmul 120:5",
+      "Cântarea Cântărilor 1:5"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Deșertul și orașele lui să-și ridice [glasul]” — glasul lor în cântec. „Kedar va fi locuit cu sate” — deșertul lui Kedar, unde acum locuiesc în corturi, va fi cetăți și sate statornice. „Locuitorii stâncii” — morții care vor învia; așa a tradus și Ionatan. „Din vârful munților să vestească” — să-și ridice glasul de pe vârfurile munților [după Ionatan]."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Să-și ridice [glasul]” — tot deșertul și orașele lui, și toate satele unde șade obștea lui Kedar, toate să-și ridice glasul în cântec. „Vor cânta” — cei ce locuiesc pe stâncă vor cânta laudele DOMNULUI. „Vor vesti” — se va auzi glas de strigăt de bucurie și laudă."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Itzvahu” (vor vesti) — expresie de ridicare a glasului."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Deșertul și cetățile lui să-și ridice glasul” — partea răsăriteană a lumii, Arabia Deșertică, și locuitorii cetăților ei. „Satele unde locuiește Kedar” — sau „curțile”/corturile pe care le locuiau kedarenii, arabi care trăiau în corturi mutate ici și colo, după nevoile turmelor lor. „Locuitorii stâncii” — ai Petrei, pe care Ieronim o numește o cetate a Palestinei, capitala Arabiei Petreea, ai cărei locuitori aveau motiv să cânte de bucurie când Evanghelia [avea să ajungă la ei]."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Deșertul și orașele lui” — ținutul Arabiei, care are deopotrivă deșert și orașe. „Satele unde șade Kedar” — corturile în care locuiesc fiii lui Kedar (după Ibn Ezra și Radak); [profetul] a numit locuri nu prea îndepărtate de Țara lui Israel, căci vorbește despre izbăvirea din Babilon, nu despre zilele lui Mesia. „Iaronu / itzvahu” — rădăcina tzavach înseamnă ridicarea glasului, aici cu sens de strigăt de bucurie, nu de durere."
+      }
+     ]
+    },
+    {
+     "v": "42:12",
+     "t": "Să-I dea DOMNUL cinste, și slava Sa să o vestească în ostroave.",
+     "heb": "יָשִׂימוּ לַיהוָה כָּבוֹד וּתְהִלָּתוֹ בָּאִיִּים יַגִּידוּ",
+     "translit": "Iasimu l'ADONAI kavod utehilato baiim iaghidu.",
+     "tokens": [
+      {
+       "t": "Să-I "
+      },
+      {
+       "t": "dea",
+       "w": "dea",
+       "heb": "יָשִׂימוּ",
+       "translit": "iasimu",
+       "strong": "H7760",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a pune, a așeza (aici, „a da/atribui”)."
+      },
+      {
+       "t": " DOMNUL "
+      },
+      {
+       "t": "cinste",
+       "w": "cinste",
+       "heb": "כָּבוֹד",
+       "translit": "kavod",
+       "strong": "H3519",
+       "pos": "substantiv, masculin",
+       "def_ro": "slavă, cinste, greutate."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "slava Sa",
+       "w": "slava Sa",
+       "heb": "וּתְהִלָּתוֹ",
+       "translit": "utehilato",
+       "strong": "H8416",
+       "pos": "substantiv + sufix",
+       "def_ro": "lauda Sa."
+      },
+      {
+       "t": " să o "
+      },
+      {
+       "t": "vestească",
+       "w": "vestească",
+       "heb": "יַגִּידוּ",
+       "translit": "iaghidu",
+       "strong": "H5046",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a vesti, a face cunoscut — aceeași rădăcină ca la 42:9."
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "ostroave",
+       "w": "ostroave",
+       "heb": "בָּאִיִּים",
+       "translit": "baiim",
+       "strong": "H339",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "insule, ținuturi de coastă îndepărtate — reluarea termenului din v.10, semn al includerii universale."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יָשִׂימוּ לַיהוָה כָּבוֹד וּתְהִלָּתוֹ בָּאִיִּים יַגִּידוּ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "δώσουσιν τῷ Θεῷ δόξαν, τὰς ἀρετὰς αὐτοῦ ἐν ταῖς νήσοις ἀναγγελοῦσιν.",
+       "greek": true,
+       "translation": "„Vor da lui Dumnezeu slavă, virtuțile Lui le vor vesti în insule.”",
+       "note": "LXX traduce din nou „tehilato” (lauda Sa) prin „virtuțile Lui” (τὰς ἀρετὰς αὐτοῦ), ca la v.8 — o alegere de traducere consecventă în tot capitolul."
+      }
+     ],
+     "refs": [
+      "Psalmul 96:3",
+      "Isaia 66:19"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Vor da” — cu gura lor Îi vor da cinste. „Vor vesti” — oamenii care locuiesc acolo [în insule]."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Să dea DOMNULUI slavă” — pentru toate lucrurile mari și bune pe care le-a făcut pentru ei, trimițându-le Evanghelia Sa, chemându-i prin harul Său, luminându-le mințile și descoperindu-Și Fiul în ei, și făcându-i părtași binecuvântărilor harului Său, îndreptățindu-i spre slava și fericirea veșnică."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„Să dea DOMNULUI slavă” — [profetul] explică natura acelui strigăt de bucurie, adică să sărbătorească laudele lui Dumnezeu, căci bunătatea și mila Lui se vor vedea pretutindeni; de aceea le poruncește să sărbătorească această izbăvire cu glas voios, fiindcă urmările ei binecuvântate vor fi împărtășite de toate neamurile."
+      }
+     ]
+    },
+    {
+     "v": "42:13",
+     "t": "DOMNUL iese precum un viteaz, ca un luptător Își stârnește răzbunarea. Își înalță glasul, chiar strigă puternic, asupra dușmanilor Își arată puterea.",
+     "heb": "יְהוָה כַּגִּבּוֹר יֵצֵא כְּאִישׁ מִלְחָמוֹת יָעִיר קִנְאָה יָרִיעַ אַף־יַצְרִיחַ עַל־אֹיְבָיו יִתְגַּבָּר",
+     "translit": "ADONAI kaghibor ietzē keiș milhamot iair kina iaria af-iaţriah al-oivav itgabar.",
+     "tokens": [
+      {
+       "t": "DOMNUL "
+      },
+      {
+       "t": "iese",
+       "w": "iese",
+       "heb": "יֵצֵא",
+       "translit": "ietzē",
+       "strong": "H3318",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a ieși (la luptă) — aceeași rădăcină yatza folosită și la 42:7 pentru eliberarea prizonierilor."
+      },
+      {
+       "t": " precum un "
+      },
+      {
+       "t": "viteaz",
+       "w": "viteaz",
+       "heb": "כַּגִּבּוֹר",
+       "translit": "kaghibor",
+       "strong": "H1368",
+       "pos": "substantiv, masculin",
+       "def_ro": "viteaz, erou, războinic puternic.",
+       "dict_ro": "Gibbor e același termen folosit pentru David sau pentru „Dumnezeu tare” (El Gibbor) în Isaia 9:5 — o imagine militară îndrăzneață aplicată direct lui Dumnezeu, contrastând cu tăcerea îndelungată descrisă în v.14."
+      },
+      {
+       "t": ", ca un "
+      },
+      {
+       "t": "luptător",
+       "w": "luptător",
+       "heb": "כְּאִישׁ מִלְחָמוֹת",
+       "translit": "keiș milhamot",
+       "strong": "H4421",
+       "pos": "substantiv compus",
+       "def_ro": "om de războaie, veteran încercat în lupte."
+      },
+      {
+       "t": " Își stârnește "
+      },
+      {
+       "t": "răzbunarea",
+       "w": "răzbunarea",
+       "heb": "קִנְאָה",
+       "translit": "kina",
+       "strong": "H7068",
+       "pos": "substantiv, feminin",
+       "def_ro": "gelozie, râvnă, zel arzător (aici, în sens de indignare dreaptă)."
+      },
+      {
+       "t": ". Își înalță "
+      },
+      {
+       "t": "glasul",
+       "w": "glasul",
+       "heb": "יָרִיעַ",
+       "translit": "iaria",
+       "strong": "H7321",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a striga puternic, a scoate un strigăt de război/triumf."
+      },
+      {
+       "t": ", chiar "
+      },
+      {
+       "t": "strigă puternic",
+       "w": "strigă puternic",
+       "heb": "יַצְרִיחַ",
+       "translit": "iaţriah",
+       "strong": "H6873",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a scoate un strigăt de luptă puternic, un urlet."
+      },
+      {
+       "t": ", asupra "
+      },
+      {
+       "t": "dușmanilor",
+       "w": "dușmanilor",
+       "heb": "אֹיְבָיו",
+       "translit": "oivav",
+       "strong": "H341",
+       "pos": "substantiv participiu + sufix",
+       "def_ro": "dușmanii lui, cei ce urăsc."
+      },
+      {
+       "t": " Își arată "
+      },
+      {
+       "t": "puterea",
+       "w": "puterea",
+       "heb": "יִתְגַּבָּר",
+       "translit": "itgabar",
+       "strong": "H1396",
+       "pos": "verb, hitpael imperfect",
+       "def_ro": "a se arăta puternic, a birui."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יְהוָה כַּגִּבּוֹר יֵצֵא כְּאִישׁ מִלְחָמוֹת יָעִיר קִנְאָה יָרִיעַ אַף־יַצְרִיחַ עַל־אֹיְבָיו יִתְגַּבָּר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Κύριος ὁ Θεὸς τῶν δυνάμεων ἐξελεύσεται καὶ συντρίψει πόλεμον, ἐπεγερεῖ ζῆλον καὶ βοήσεται ἐπὶ τοὺς ἐχθροὺς αὐτοῦ μετὰ ἰσχύος.",
+       "greek": true,
+       "translation": "„Domnul Dumnezeul puterilor va ieși și va zdrobi războiul, va stârni râvnă și va striga asupra dușmanilor Lui cu putere.”",
+       "note": "LXX transformă „ca un om de războaie” (keiș milhamot) în „va zdrobi războiul” — o traducere liberă care schimbă sensul de comparație („ca un luptător”) într-o acțiune directă asupra războiului însuși."
+      }
+     ],
+     "refs": [
+      "Exod 15:3",
+      "Isaia 9:5",
+      "Isaia 63:1-6"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Iese” — spre mântuirea lui Israel. „Își stârnește râvna” — Își trezește râvna pentru poporul Său. „Strigă puternic” — ca un viteaz care biruie în război. „Își arată puterea” — Se întărește împotriva dușmanilor Săi."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Iair” (stârnește) — termen de trezire. „Iaria” (strigă) — termen de strigăt de război. „Iaţriah” — termen de strigăt cu glas mare, ca „amar țoreah” (Țefania 1)."
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 12:42.13",
+       "text": "El este cel care a nimicit puterea morții; El este cel care a zdrobit calea păcatului; El este cel care a făcut să înceteze tirania diavolului; El este cel care a pus capăt rătăcirii idolilor."
+      },
+      {
+       "author": "Keil-Delitzsch, Comentariu la Isaia 42:10-13",
+       "text": "„Lucrurile noi” dau imboldul și materia unui „cântec nou”, cum nu s-a mai auzit vreodată în lumea păgână. Descrierea e îndrăzneață, antropomorfă: DOMNUL iese la luptă ca un viteaz, ca „un om de războaie”, adică unul care a purtat deja multe bătălii și e deprins cu războiul — Își stârnește gelozia, care mocnise, ca sub cenușă, multă vreme, dar acum e aprinsă într-o flacără vie."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Își stârnește râvna” — ca în «și nu-Și va stârni toată mânia Sa» (Psalmul 78:38) — o va folosi și o va pune în lucrare, ca și cum ar fi fost adormită și [DOMNUL] o trezește. Toate acestea se referă la războaiele lui Cirus împotriva Babilonului, iar pe babilonieni îi numește „dușmanii DOMNULUI”, fiindcă l-au exilat pe Israel."
+      }
+     ]
+    },
+    {
+     "v": "42:14",
+     "t": "„Am tăcut prea mult, am tăcut și M-am reținut; voi urla ca o femeie în durerile facerii, voi gâfâi și voi ofta deopotrivă.",
+     "heb": "הֶחֱשֵׁיתִי מֵעוֹלָם אַחֲרִישׁ אֶתְאַפָּק כַּיּוֹלֵדָה אֶפְעֶה אֶשֹּׁם וְאֶשְׁאַף יָחַד",
+     "translit": "Heheșēiti mēolam ahariș etapak kaiolēda efē eșom veeșaf iahad.",
+     "tokens": [
+      {
+       "t": "„Am "
+      },
+      {
+       "t": "tăcut",
+       "w": "tăcut",
+       "heb": "הֶחֱשֵׁיתִי",
+       "translit": "heheșēiti",
+       "strong": "H2814",
+       "pos": "verb, hifil perfect",
+       "def_ro": "a tăcea, a rămâne mut."
+      },
+      {
+       "t": " prea mult, am tăcut și M-am "
+      },
+      {
+       "t": "reținut",
+       "w": "reținut",
+       "heb": "אֶתְאַפָּק",
+       "translit": "etapak",
+       "strong": "H662",
+       "pos": "verb, hitpael imperfect",
+       "def_ro": "a se stăpâni, a se reține."
+      },
+      {
+       "t": "; voi "
+      },
+      {
+       "t": "urla",
+       "w": "urla",
+       "heb": "אֶפְעֶה",
+       "translit": "efē",
+       "strong": "H6463",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a striga cu putere, a scoate un strigăt scurt și puternic (de durere)."
+      },
+      {
+       "t": " ca o femeie în "
+      },
+      {
+       "t": "durerile facerii",
+       "w": "durerile facerii",
+       "heb": "כַּיּוֹלֵדָה",
+       "translit": "kaiolēda",
+       "strong": "H3205",
+       "pos": "substantiv participiu, feminin",
+       "def_ro": "cea care naște, femeie în travaliu.",
+       "dict_ro": "Imaginea travaliului pentru intervenția divină e paradoxală și îndrăzneață: Dumnezeul „tăcut” din exil devine dintr-o dată un Dumnezeu care „strigă” cu durerea unei nașteri — o schimbare bruscă de la pasivitate la acțiune eliberatoare violentă."
+      },
+      {
+       "t": ", voi "
+      },
+      {
+       "t": "gâfâi",
+       "w": "gâfâi",
+       "heb": "אֶשֹּׁם",
+       "translit": "eșom",
+       "strong": "H8175",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a gâfâi, a răsufla greu (de efort sau groază)."
+      },
+      {
+       "t": " și voi "
+      },
+      {
+       "t": "ofta",
+       "w": "ofta",
+       "heb": "וְאֶשְׁאַף",
+       "translit": "veeșaf",
+       "strong": "H7602",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a suspina, a trage aer cu putere."
+      },
+      {
+       "t": " deopotrivă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הֶחֱשֵׁיתִי מֵעוֹלָם אַחֲרִישׁ אֶתְאַפָּק כַּיּוֹלֵדָה אֶפְעֶה אֶשֹּׁם וְאֶשְׁאַף יָחַד",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐσιώπησα, μὴ καὶ ἀεὶ σιωπήσομαι καὶ ἀνέξομαι; ἐκαρτέρησα ὡς ἡ τίκτουσα, ἐκστήσω καὶ ξηρανῶ ἅμα.",
+       "greek": true,
+       "translation": "„Am tăcut; oare voi tăcea și voi răbda mereu? M-am stăpânit ca cea care naște; voi uimi și voi usca deopotrivă.”",
+       "note": "LXX adaugă o întrebare retorică absentă din ebraică („oare voi tăcea mereu?”) și traduce diferit ultimele două verbe (uimire/uscare, nu gâfâit/oftat)."
+      }
+     ],
+     "refs": [
+      "Isaia 26:17-18",
+      "Ioan 16:21",
+      "Romani 8:22"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Am tăcut prea mult” — de multă vreme tac cu privire la distrugerea Templului Meu. „Sunt liniștit, Mă rețin” — timp prezent: până acum duhul Meu M-a constrâns, iar de acum, ca o femeie în durerile facerii, voi striga."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Tăcerea îndelungată a lui Dumnezeu față de suferința poporului Său se va sfârși brusc, printr-o intervenție la fel de intensă precum durerile nașterii."
+      },
+      {
+       "author": "Vasile cel Mare, Epistola 223",
+       "text": "Mi-a venit în minte cuvântul lui Isaia: «Am tăcut; oare voi tăcea și voi răbda mereu? Am fost răbdător ca o femeie în durerile facerii.» Fie ca amândoi să primim răsplata tăcerii noastre și să dobândim putere de a răspunde, ca, aducând dovezile noastre, să secăm acest torent amar de minciună revărsat împotriva noastră."
+      },
+      {
+       "author": "Augustin, Predica 47:4",
+       "text": "Cel ce vorbește acum tace. El vorbește în porunci; tace în judecată... Cum a tăcut, de vreme ce a vorbit ca să spună tocmai acest lucru? El zice: «am tăcut», și totuși nu tace, fiindcă prin însuși faptul de a spune «am tăcut», Dumnezeu n-a tăcut. Așadar, Doamne, Te aud vorbind în atâtea porunci, în atâtea semne sfinte, în atâtea pagini, în atâtea cărți. Și apoi Te aud spunând: «am tăcut, voi tăcea oare mereu?» Cum ai tăcut deci? Fiindcă încă nu spun: «Veniți, binecuvântații Tatălui Meu, luați împărăția.» Și încă nu le spun celorlalți: «Duceți-vă în focul cel veșnic, pregătit diavolului și îngerilor lui.» Și cât timp încă nu spun acestea, deja vă avertizez că le voi spune."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Am tăcut prea mult” — până acum M-am odihnit și am tăcut de la a-Mi lua răzbunarea. „Am tăcut” — sensul nu e doar lipsa vorbirii, ci lipsa lucrării și mișcării, ca «și-au tăcut valurile lor» (Ps. 107:29). „Voi urla ca o femeie [în durerile facerii]” — acum Îmi voi ridica glasul ca o lăuză; rădăcina „pa'a” e cunoscută din Talmud și midrașuri [ca strigăt al durerii nașterii]."
+      }
+     ]
+    },
+    {
+     "v": "42:15",
+     "t": "Voi pustii dealuri și înălțimi, voi face tot verdele lor să se ofilească; voi preschimba râuri în insule și voi seca mlaștini.",
+     "heb": "אַחֲרִיב הָרִים וּגְבָעוֹת וְכָל־עֶשְׂבָּם אוֹבִישׁ וְשַׂמְתִּי נְהָרוֹת לָאִיִּים וַאֲגַמִּים אוֹבִישׁ",
+     "translit": "Aहariv harim ughevaot vehol-esbam ovieș veşamti neharot laiim vaagamim ovieș.",
+     "tokens": [
+      {
+       "t": "Voi "
+      },
+      {
+       "t": "pustii",
+       "w": "pustii",
+       "heb": "אַחֲרִיב",
+       "translit": "aḥariv",
+       "strong": "H2717",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a pustii, a preface în ruină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dealuri și înălțimi",
+       "w": "dealuri și înălțimi",
+       "heb": "הָרִים וּגְבָעוֹת",
+       "translit": "harim ughevaot",
+       "strong": "H2022",
+       "pos": "substantiv compus",
+       "def_ro": "munți și dealuri — pereche standard de termeni geografici, adesea simbol al puterilor/conducătorilor lumești în profeți."
+      },
+      {
+       "t": ", voi face tot "
+      },
+      {
+       "t": "verdele",
+       "w": "verdele",
+       "heb": "עֶשְׂבָּם",
+       "translit": "esbam",
+       "strong": "H6212",
+       "pos": "substantiv + sufix",
+       "def_ro": "iarbă, verdeață."
+      },
+      {
+       "t": " lor să se "
+      },
+      {
+       "t": "ofilească",
+       "w": "ofilească",
+       "heb": "אוֹבִישׁ",
+       "translit": "ovieș",
+       "strong": "H3001",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a usca, a face să se usuce.",
+       "dict_ro": "Rashi: verb folosit pentru uscarea lucrurilor umede — iarbă, râuri — imagine de judecată/pustiire care precede, paradoxal, eliberarea."
+      },
+      {
+       "t": "; voi preschimba râuri în "
+      },
+      {
+       "t": "insule",
+       "w": "insule",
+       "heb": "לָאִיִּים",
+       "translit": "laiim",
+       "strong": "H339",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "insule, uscat înconjurat de apă puțină — aici, râuri secate până devin ca niște ostroave de nisip."
+      },
+      {
+       "t": " și voi seca "
+      },
+      {
+       "t": "mlaștini",
+       "w": "mlaștini",
+       "heb": "אֲגַמִּים",
+       "translit": "agamim",
+       "strong": "H98",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "mlaștini, bălți, iazuri."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אַחֲרִיב הָרִים וּגְבָעוֹת וְכָל־עֶשְׂבָּם אוֹבִישׁ וְשַׂמְתִּי נְהָרוֹת לָאִיִּים וַאֲגַמִּים אוֹבִישׁ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐρημώσω ὄρη καὶ βουνούς, καὶ πάντα τὸν χόρτον αὐτῶν ξηρανῶ, καὶ θήσω ποταμοὺς εἰς νήσους, καὶ ἕλη ξηρανῶ.",
+       "greek": true,
+       "translation": "„Voi pustii munți și dealuri, și toată iarba lor o voi usca, și voi face râuri insule, și mlaștini voi usca.”",
+       "note": "Traducere apropiată, fără diferențe notabile de sens."
+      }
+     ],
+     "refs": [
+      "Isaia 40:4",
+      "Isaia 41:17-18"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Voi pustii munți și dealuri” — voi ucide împărați și conducători. „Și tot verdele lor” — pe toți susținătorii lor. „Voi usca” — termen folosit pentru uscarea lucrurilor umede, precum iarba și râurile."
+      },
+      {
+       "author": "Jamieson-Fausset-Brown, Comentariu biblic",
+       "text": "Munții, în Palestina, erau de obicei plantați cu viță-de-vie și măslini, în terase, până în vârf. Dumnezeu Își va nimici dușmanii — neamurile păgâne — și idolii lor, și va „seca” izvoarele oracolelor lor, ale doctrinelor și instituțiilor lor, al căror simbol e apa."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Voi pustii munți” — duhul iese din gura Mea și din nările Mele va pustii munții, după chipul „căci un foc s-a aprins în mânia Mea și va arde până în adâncul locuinței morților, și va mistui pământul și roada lui” (Deut. 32:22) — totul e o pildă. „Voi conduce orbii pe un drum pe care nu l-au cunoscut” — pildă pentru salvarea celor ce se întorc din exil de orice dușman și orice cursă de pe drum, căci orbul umblă pe drumurile cunoscute lui dinainte [dar aici, un drum nou, necunoscut]."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Voi pustii” — munții și dealurile le voi preface în ruină, și le voi usca verdeața, și toată mulțimea poporului o voi face ca niște insule, ca să fie pustiite și uscate ca insulele."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Ahariv” — termen de pustiire/ruină. „Ovieș” — termen de uscare. „Agamim” — loc unde se adună apele."
+      }
+     ]
+    },
+    {
+     "v": "42:16",
+     "t": "Voi conduce orbii pe un drum pe care nu l-au cunoscut, pe cărări pe care nu le-au cunoscut îi voi face să meargă, voi preface înaintea lor întunericul în lumină și povârnișurile în șes. Acestea sunt vorbele [Mele] — le voi îndeplini și nu le voi renega.",
+     "heb": "וְהוֹלַכְתִּי עִוְרִים בְּדֶרֶךְ לֹא יָדָעוּ בִּנְתִיבוֹת לֹא־יָדְעוּ אַדְרִיכֵם אָשִׂים מַחְשָׁךְ לִפְנֵיהֶם לָאוֹר וּמַעֲקַשִּׁים לְמִישׁוֹר אֵלֶּה הַדְּבָרִים עֲשִׂיתִם וְלֹא עֲזַבְתִּים",
+     "translit": "Veholahti ivrim bedereh lo iadau bintivot lo-iadu adrihēm așim mahșah lifnēihem laor umaakașim lemișor ēle hadevarim asitim velo azavtim.",
+     "tokens": [
+      {
+       "t": "Voi "
+      },
+      {
+       "t": "conduce",
+       "w": "conduce",
+       "heb": "וְהוֹלַכְתִּי",
+       "translit": "veholahti",
+       "strong": "H1980",
+       "pos": "verb, hifil perfect",
+       "def_ro": "a conduce, a face să meargă — aceeași rădăcină ca „laholhim” din 42:5 și „haloh” din 42:24."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "orbii",
+       "w": "orbii",
+       "heb": "עִוְרִים",
+       "translit": "ivrim",
+       "strong": "H5787",
+       "pos": "adjectiv substantivat, masculin plural",
+       "def_ro": "orbi.",
+       "dict_ro": "Rashi identifică orbii aici cu Israel însuși, „orb până acum de a privi spre Mine”, reluând tema orbirii morale din v.18-19."
+      },
+      {
+       "t": " pe un "
+      },
+      {
+       "t": "drum",
+       "w": "drum",
+       "heb": "בְּדֶרֶךְ",
+       "translit": "bedereh",
+       "strong": "H1870",
+       "pos": "substantiv, masculin",
+       "def_ro": "drum, cale."
+      },
+      {
+       "t": " pe care nu l-au "
+      },
+      {
+       "t": "cunoscut",
+       "w": "cunoscut",
+       "heb": "יָדָעוּ",
+       "translit": "iadau",
+       "strong": "H3045",
+       "pos": "verb, qal perfect",
+       "def_ro": "a cunoaște — aceeași rădăcină iada din 42:25, aici cu sens pozitiv (necunoașterea drumului, nu refuzul de a lua aminte)."
+      },
+      {
+       "t": ", pe "
+      },
+      {
+       "t": "cărări",
+       "w": "cărări",
+       "heb": "בִּנְתִיבוֹת",
+       "translit": "bintivot",
+       "strong": "H5410",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "cărare, potecă."
+      },
+      {
+       "t": " pe care nu le-au cunoscut îi voi face să "
+      },
+      {
+       "t": "meargă",
+       "w": "meargă",
+       "heb": "אַדְרִיכֵם",
+       "translit": "adrihēm",
+       "strong": "H1869",
+       "pos": "verb, hifil imperfect + sufix",
+       "def_ro": "a-i face să calce/meargă (cauzativ)."
+      },
+      {
+       "t": ", voi "
+      },
+      {
+       "t": "preface",
+       "w": "preface",
+       "heb": "אָשִׂים",
+       "translit": "așim",
+       "strong": "H7760",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a pune, a face, a preface — aceeași rădăcină ca „iasim” din 42:12."
+      },
+      {
+       "t": " înaintea lor "
+      },
+      {
+       "t": "întunericul",
+       "w": "întunericul",
+       "heb": "מַחְשָׁךְ",
+       "translit": "mahșah",
+       "strong": "H4285",
+       "pos": "substantiv, masculin",
+       "def_ro": "întuneric, loc întunecat."
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "lumină",
+       "w": "lumină",
+       "heb": "לָאוֹר",
+       "translit": "laor",
+       "strong": "H216",
+       "pos": "substantiv, masculin",
+       "def_ro": "lumină — revenirea temei centrale a Haftarot (v.6, v.16), semn al coerenței tematice a textului."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "povârnișurile",
+       "w": "povârnișurile",
+       "heb": "וּמַעֲקַשִּׁים",
+       "translit": "umaakașim",
+       "strong": "H4625",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "loc strâmb, denivelat, plin de obstacole."
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "șes",
+       "w": "șes",
+       "heb": "לְמִישׁוֹר",
+       "translit": "lemișor",
+       "strong": "H4334",
+       "pos": "substantiv, masculin",
+       "def_ro": "loc neted, câmpie, dreptate (sens figurat)."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Acestea sunt vorbele [Mele]",
+       "w": "Acestea sunt vorbele [Mele]",
+       "heb": "אֵלֶּה הַדְּבָרִים",
+       "translit": "ēle hadevarim",
+       "strong": "H1697",
+       "pos": "substantiv compus",
+       "def_ro": "acestea sunt lucrurile/cuvintele.",
+       "dict_ro": "Davar înseamnă deopotrivă „cuvânt” și „lucru/faptă” — în ebraică nu există o graniță netă între vorbă și acțiune: cuvântul rostit de Dumnezeu e deja, implicit, un fapt care se va împlini, nu doar o promisiune verbală."
+      },
+      {
+       "t": " — le voi îndeplini și nu le voi "
+      },
+      {
+       "t": "renega",
+       "w": "renega",
+       "heb": "עֲזַבְתִּים",
+       "translit": "azavtim",
+       "strong": "H5800",
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "a părăsi, a abandona (aici, în sens de a nu-Și călca vorba)."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהוֹלַכְתִּי עִוְרִים בְּדֶרֶךְ לֹא יָדָעוּ בִּנְתִיבוֹת לֹא־יָדְעוּ אַדְרִיכֵם אָשִׂים מַחְשָׁךְ לִפְנֵיהֶם לָאוֹר וּמַעֲקַשִּׁים לְמִישׁוֹר אֵלֶּה הַדְּבָרִים עֲשִׂיתִם וְלֹא עֲזַבְתִּים",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἄξω τυφλοὺς ἐν ὁδῷ, ᾗ οὐκ ἔγνωσαν, καὶ τρίβους, οὓς οὐκ ᾔδεισαν, πατῆσαι ποιήσω αὐτούς· ποιήσω αὐτοῖς τὸ σκότος εἰς φῶς καὶ τὰ σκολιὰ εἰς εὐθεῖαν. Ταῦτα τὰ ῥήματα ποιήσω καὶ οὐκ ἐγκαταλείψω αὐτούς.",
+       "greek": true,
+       "translation": "„Și voi duce pe orbi pe o cale pe care n-au cunoscut-o, și pe cărări pe care nu le-au știut îi voi face să calce; voi preface întunericul în lumină pentru ei și cele strâmbe în cale dreaptă. Aceste cuvinte le voi face și nu-i voi părăsi.”",
+       "note": "Traducere apropiată de original."
+      }
+     ],
+     "refs": [
+      "Isaia 35:8",
+      "Isaia 40:3-4",
+      "Ioan 9:39",
+      "Luca 3:5"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Voi conduce orbii” — pe Israel, care erau până acum orbi de a privi spre Mine, îi voi conduce pe calea cea bună, pe care nu știau să umble. „Le voi îndeplini” — timp de profeție: se vorbește despre viitor ca și cum ar fi deja împlinit."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Atunci voi conduce pe Israel spre țara lor pe drumul prin pustiu, cale pe care nu o cunoșteau, și erau ca niște orbi pentru ea... Calea strâmbă o voi face dreaptă și netedă — la fel am făcut și atunci când au ieșit din Egipt; și nu-i voi părăsi în viitor."
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 12:42.16",
+       "text": "Dumnezeu numește „orbi” pe cei ce suferă de necredință și sunt lipsiți de agerime a minții. El promite să le călăuzească pașii pe calea pe care n-o cunosc, fiindcă n-au recunoscut calea adevărului, ci au urmat căile rătăcirii. «Voi preface întunericul în lumină pentru ei» — după ce îi voi elibera de neștiința de mai înainte, îi voi socoti vrednici de cunoașterea lui Dumnezeu, căci neștiința e ca întunericul, iar cunoașterea e asemenea luminii. «Și cele strâmbe în cale dreaptă» — căci calea anevoioasă a înțelepciunii, a stăpânirii de sine și a dreptății, El a făcut-o ușoară, legând nădejdea bunătăților viitoare de strădania spre virtute."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Voi conduce orbii pe un drum pe care nu l-au cunoscut” — Targumul interpretează aceasta despre casa lui Israel; dar e mai potrivit s-o înțelegem despre neamuri, care, înainte de venirea luminii Evangheliei printre ele, erau oarbe cu privire la adevărata cunoaștere a lui Dumnezeu, la Hristos și la calea păcii, a vieții și a mântuirii prin El."
+      }
+     ]
+    },
+    {
+     "v": "42:17",
+     "t": "Împinși îndărăt și rușinați vor fi cei ce se încred într-un idol, cei ce zic idolului cioplit: «Voi sunteți dumnezeii noștri!»",
+     "heb": "נָסֹגוּ אָחוֹר יֵבֹשׁוּ בֹשֶׁת הַבֹּטְחִים בַּפָּסֶל הָאֹמְרִים לְמַסֵּכָה אַתֶּם אֱלֹהֵינוּ",
+     "translit": "Nasoghu ahor iēvoșu voșet habotehim bapesel haomrim lemaseha atem eloheinu.",
+     "tokens": [
+      {
+       "t": "Împinși "
+      },
+      {
+       "t": "îndărăt",
+       "w": "îndărăt",
+       "heb": "נָסֹגוּ אָחוֹר",
+       "translit": "nasoghu ahor",
+       "strong": "H5472",
+       "pos": "verb+adverb",
+       "def_ro": "a se retrage, a se întoarce înapoi.",
+       "dict_ro": "Nasog (a se retrage) descrie o mișcare militară de repliere/înfrângere — folosit adesea pentru armate învinse; aici, aplicat închinătorilor de idoli, sugerează o „înfrângere” spirituală vizibilă tuturor."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "rușinați",
+       "w": "rușinați",
+       "heb": "יֵבֹשׁוּ בֹשֶׁת",
+       "translit": "iēvoșu voșet",
+       "strong": "H954",
+       "pos": "verb+substantiv, formă intensivă",
+       "def_ro": "a fi rușinat, umilit — formă dublată pentru accent."
+      },
+      {
+       "t": " vor fi cei ce se "
+      },
+      {
+       "t": "încred",
+       "w": "încred",
+       "heb": "הַבֹּטְחִים",
+       "translit": "habotehim",
+       "strong": "H982",
+       "pos": "verb, qal participiu",
+       "def_ro": "a se încrede, a-și pune nădejdea.",
+       "dict_ro": "Batach e verbul standard pentru încredere/nădejde — folosit pozitiv pentru încrederea în DOMNUL (cf. Psalmul 37:3), dar aici, aplicat idolilor, expune absurditatea încrederii puse în ceva făcut de mână omenească."
+      },
+      {
+       "t": " într-un "
+      },
+      {
+       "t": "idol",
+       "w": "idol",
+       "heb": "בַּפָּסֶל",
+       "translit": "bapesel",
+       "strong": "H6459",
+       "pos": "substantiv, masculin",
+       "def_ro": "chip cioplit, idol — aceeași rădăcină ca la v.8."
+      },
+      {
+       "t": ", cei ce zic "
+      },
+      {
+       "t": "idolului cioplit",
+       "w": "idolului cioplit",
+       "heb": "לְמַסֵּכָה",
+       "translit": "lemaseha",
+       "strong": "H4541",
+       "pos": "substantiv, feminin",
+       "def_ro": "chip turnat (din metal topit).",
+       "dict_ro": "Masehah desemnează specific idolul turnat (nu cioplit în lemn/piatră) — cf. „vițelul de aur turnat” din Exod 32. Metzudat Țion îl leagă direct de tehnica turnării metalului."
+      },
+      {
+       "t": ": «Voi sunteți "
+      },
+      {
+       "t": "dumnezeii noștri",
+       "w": "dumnezeii noștri",
+       "heb": "אֱלֹהֵינוּ",
+       "translit": "eloheinu",
+       "strong": "H430",
+       "pos": "substantiv + sufix",
+       "def_ro": "dumnezeii/Dumnezeul nostru — aceeași rădăcină El/Elohim din 42:5."
+      },
+      {
+       "t": "!»"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "נָסֹגוּ אָחוֹר יֵבֹשׁוּ בֹשֶׁת הַבֹּטְחִים בַּפָּסֶל הָאֹמְרִים לְמַסֵּכָה אַתֶּם אֱלֹהֵינוּ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "αὐτοὶ δὲ ἀπεστράφησαν εἰς τὰ ὀπίσω· αἰσχύνθητε αἰσχύνην, οἱ πεποιθότες ἐπὶ τοῖς γλυπτοῖς, οἱ λέγοντες τοῖς χωνευτοῖς Ὑμεῖς ἐστε θεοὶ ἡμῶν.",
+       "greek": true,
+       "translation": "„Ei s-au întors înapoi; rușinați-vă de rușine, cei ce vă încredeți în chipurile cioplite, cei ce ziceți chipurilor turnate: Voi sunteți dumnezeii noștri.”",
+       "note": "LXX transformă imperativul implicit („rușinați-vă”) explicit, unde ebraica are formă pasivă descriptivă („vor fi rușinați”)."
+      }
+     ],
+     "refs": [
+      "Psalmul 97:7",
+      "Isaia 44:9-20",
+      "Habacuc 2:18-19"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "Atunci cei care se încred în idoli vor fi rușinați și se vor întoarce înapoi, precum omul rușinat care se retrage ca să nu fie văzut în rușinea lui."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Nasogu ahor” — expresia întoarcerii înapoi, ca „și s-a întors în urma Dumnezeului nostru” (mai jos, cap. 59). „Maseha” — chip de idoli făcut din metal prin turnare și topire."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„Vor fi împinși înapoi” — aceasta ne ajută să vedem mai limpede cui i se adresează învățătura de mai sus, căci face deosebirea între închinătorii lui Dumnezeu și închinătorii idolilor. DOMNUL va fi călăuză poporului Său, dar, pe de altă parte, cei ce se închină idolilor vor fi rușinați — ca și cum ar spune că aici DOMNUL ne dă de ales: fie să fim mântuiți prin harul Lui, fie să pierim mizerabil."
+      },
+      {
+       "author": "Jamieson-Fausset-Brown, Comentariu biblic",
+       "text": "„Întorși înapoi... rușinați” — dezamăgiți în încrederea lor; aceeași expresie apare în Psalmul 35:4."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Lemaseha” (idolului cioplit) — pentru dumnezeul turnat."
+      }
+     ]
+    },
+    {
+     "v": "42:18",
+     "t": "Surzilor, ascultați! Și orbilor, ridicați-vă ochii și priviți!",
+     "heb": "הַחֵרְשִׁים שְׁמָעוּ וְהַעִוְרִים הַבִּיטוּ לִרְאוֹת",
+     "translit": "Haherșim șemau vehaivrim habitu lirot.",
+     "tokens": [
+      {
+       "t": "Surzilor",
+       "w": "Surzilor",
+       "heb": "הַחֵרְשִׁים",
+       "translit": "haherșim",
+       "strong": "H2795",
+       "pos": "adjectiv substantivat, masculin plural",
+       "def_ro": "surzii."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ascultați",
+       "w": "ascultați",
+       "heb": "שְׁמָעוּ",
+       "translit": "șemau",
+       "strong": "H8085",
+       "pos": "verb, qal imperativ",
+       "def_ro": "a auzi, a asculta."
+      },
+      {
+       "t": "! Și "
+      },
+      {
+       "t": "orbilor",
+       "w": "orbilor",
+       "heb": "וְהַעִוְרִים",
+       "translit": "vehaivrim",
+       "strong": "H5787",
+       "pos": "adjectiv substantivat, masculin plural",
+       "def_ro": "orbii."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ridicați-vă ochii și priviți",
+       "w": "ridicați-vă ochii și priviți",
+       "heb": "הַבִּיטוּ לִרְאוֹת",
+       "translit": "habitu lirot",
+       "strong": "H5027",
+       "pos": "verb, hifil imperativ + infinitiv",
+       "def_ro": "a privi cu atenție, ca să vadă (dublare verbală pentru accent).",
+       "dict_ro": "Rashi identifică direct pe „surzi” și „orbi” cu Israel însuși — o interpelare directă, nu o categorie externă, temă reluată din v.16 și dezvoltată în v.19."
+      },
+      {
+       "t": "!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הַחֵרְשִׁים שְׁמָעוּ וְהַעִוְרִים הַבִּיטוּ לִרְאוֹת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Ἀκούσατε, οἱ κωφοί, καὶ οἱ τυφλοί, ἀναβλέψατε ἰδεῖν.",
+       "greek": true,
+       "translation": "„Auziți, surzilor, și orbilor, priviți ca să vedeți.”",
+       "note": "Traducere apropiată de original."
+      }
+     ],
+     "refs": [
+      "Isaia 6:9-10",
+      "Matei 13:14-15",
+      "Romani 11:8"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Surzilor... și orbilor” — despre Israel vorbește."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Voi, Israel — surzi la auzirea cuvântului DOMNULUI și orbi la vederea poruncilor Lui — ascultați de acum și priviți, căci un bine mare vă este pregătit."
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 13:42.19",
+       "text": "Cine este atât de orb ca cel ce s-a îndepărtat? [După Symmachus:] «Cine este atât de orb ca cel desăvârșit și atât de orb ca slujitorul Domnului?» El spune că, deși neamurile sunt la fel de rătăcite, nu merită aceeași învinuire, căci ele n-au avut profeți care să le călăuzească spre adevăr și n-au fost socotite vrednice de o asemenea atenție."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Habitu” (priviți) — termen de observare și vedere atentă."
+      },
+      {
+       "author": "Vasile cel Mare, Omilii la Psalmi 16.13 (Ps. 33)",
+       "text": "E limpede că unii au urechi mai potrivite să audă cuvintele lui Dumnezeu. Dar celor ce nu au acele urechi, ce le spune El? «Auziți, surzilor, și priviți, orbilor.» Toate acestea au fost spuse cu privire la simțurile care slujesc hranei duhovnicești și învățăturii duhovnicești."
+      }
+     ]
+    },
+    {
+     "v": "42:19",
+     "t": "Cine este orb, dacă nu slujitorul Meu, sau surd ca mesagerul Meu pe care îl trimit? Cine este orb ca desăvârșitul și surd ca slujitorul DOMNULUI?",
+     "heb": "מִי עִוֵּר כִּי אִם עַבְדִּי וְחֵרֵשׁ כְּמַלְאָכִי אֶשְׁלָח מִי עִוֵּר כִּמְשֻׁלָּם וְעִוֵּר כְּעֶבֶד יְהוָה",
+     "translit": "Mi ivēr ki im avdi veherēș kemalahi eșlah mi ivēr kimșulam veivēr keevēd ADONAI.",
+     "tokens": [
+      {
+       "t": "Cine",
+       "w": "Cine",
+       "heb": "מִי",
+       "translit": "mi",
+       "strong": "H4310",
+       "pos": "pronume interogativ",
+       "def_ro": "cine — repetat de trei ori în acest verset (v.19), retoric, pentru accent."
+      },
+      {
+       "t": " este "
+      },
+      {
+       "t": "orb",
+       "w": "orb",
+       "heb": "עִוֵּר",
+       "translit": "ivēr",
+       "strong": "H5787",
+       "pos": "adjectiv, masculin",
+       "def_ro": "orb."
+      },
+      {
+       "t": ", dacă nu "
+      },
+      {
+       "t": "slujitorul Meu",
+       "w": "slujitorul Meu",
+       "heb": "עַבְדִּי",
+       "translit": "avdi",
+       "strong": "H5650",
+       "pos": "substantiv + sufix",
+       "def_ro": "slujitor, rob.",
+       "dict_ro": "„Robul DOMNULUI” (eved Adonai) e titlul central al „cântărilor robului” din Isaia 42-53 — identificat variabil, în tradiția iudaică, cu Israel colectiv sau cu un individ providențial, iar în exegeza creștină timpurie, cu Hristos."
+      },
+      {
+       "t": ", sau "
+      },
+      {
+       "t": "surd",
+       "w": "surd",
+       "heb": "חֵרֵשׁ",
+       "translit": "herēș",
+       "strong": "H2795",
+       "pos": "adjectiv, masculin",
+       "def_ro": "surd."
+      },
+      {
+       "t": " ca "
+      },
+      {
+       "t": "mesagerul Meu",
+       "w": "mesagerul Meu",
+       "heb": "מַלְאָכִי",
+       "translit": "malahi",
+       "strong": "H4397",
+       "pos": "substantiv + sufix",
+       "def_ro": "mesager, sol, înger.",
+       "dict_ro": "Malah înseamnă atât „înger” cât și „sol omenesc” — aici, cu referire la profet, ca purtător al mesajului divin, „surd” intenționat la orice altceva decât porunca primită."
+      },
+      {
+       "t": " pe care îl "
+      },
+      {
+       "t": "trimit",
+       "w": "trimit",
+       "heb": "אֶשְׁלָח",
+       "translit": "eșlah",
+       "strong": "H7971",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a trimite.",
+       "dict_ro": "Șalach e verbul standard al misiunii profetice (cf. Isaia 6:8, „pe cine voi trimite?”) — leagă direct pe „slujitorul/mesagerul” din acest verset de tradiția chemării profetice, deși aici funcția lui e ironic răsturnată: trimis, dar „surd”."
+      },
+      {
+       "t": "? Cine este orb ca "
+      },
+      {
+       "t": "desăvârșitul",
+       "w": "desăvârșitul",
+       "heb": "מְשֻׁלָּם",
+       "translit": "meșulam",
+       "strong": "H7999",
+       "pos": "adjectiv, masculin",
+       "def_ro": "desăvârșit, răsplătit pe deplin.",
+       "dict_ro": "Rashi explică: „cel dintre voi care a fost orb și-a primit deja pedepsele — e ca unul căruia i s-au achitat toate răsplățile și iese curățit”."
+      },
+      {
+       "t": " și surd ca "
+      },
+      {
+       "t": "slujitorul DOMNULUI",
+       "w": "slujitorul DOMNULUI",
+       "heb": "כְּעֶבֶד יְהוָה",
+       "translit": "keevēd ADONAI",
+       "strong": "H5650",
+       "pos": "substantiv compus",
+       "def_ro": "ca slujitorul DOMNULUI — formă construită diferită de „avdi” (slujitorul Meu) de mai sus, aici la forma absolută, urmată de Tetragramă."
+      },
+      {
+       "t": "?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי עִוֵּר כִּי אִם עַבְדִּי וְחֵרֵשׁ כְּמַלְאָכִי אֶשְׁלָח מִי עִוֵּר כִּמְשֻׁלָּם וְעִוֵּר כְּעֶבֶד יְהוָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τίς τυφλὸς ἀλλ᾽ ἢ οἱ παῖδές μου, καὶ κωφοὶ ἀλλ᾽ ἢ οἱ κυριεύοντες αὐτῶν; καὶ ἐτυφλώθησαν οἱ δοῦλοι τοῦ Θεοῦ.",
+       "greek": true,
+       "translation": "„Și cine e orb, dacă nu robii Mei, și surzi, dacă nu cei ce stăpânesc peste ei? Și s-au orbit robii lui Dumnezeu.”",
+       "note": "LXX diferă considerabil: introduce „cei ce stăpânesc peste ei” (fără corespondent clar în ebraică) și pune verbul la trecut („s-au orbit”), o interpretare teologică distinctă de textul ebraic."
+      }
+     ],
+     "refs": [
+      "Isaia 6:9-10",
+      "Isaia 43:8",
+      "Romani 11:25"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Cine e orb” între voi? Nu e nimeni altul decât slujitorul Meu — el e cel mai orb dintre voi toți. Și cel mai surd dintre voi e ca mesagerul Meu, pe care îl trimit să profețească profeții. „Cel ce a fost orb e ca cel răsplătit pe deplin” — cel ce a fost orb dintre voi și-a primit deja pedepsele și e ca unul căruia i s-au achitat toate răsplățile, și iese curat."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Ca și cum și-ar explica vorbele, spunând: ce am rezumat mai sus se aplică și celor drepți dintre voi, numiți orbi și surzi, căci cine e mai vrednic să fie numit orb decât slujitorul Meu, fiindcă el cunoaște stricăciunea generației și nu se uită la faptele lor ca să le îndrepte? „Ca mesagerul Meu” — se întoarce la cuvântul „cine”: cine e mai vrednic să fie numit surd decât cel căruia i-am dat înțelepciune în inimă, și pe care parcă l-am trimis să învețe poporul cunoașterea, dar el e ca un surd, nu ia aminte la faptele poporului ca să-l avertizeze."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Kemalahi” (ca mesagerul meu) — termen de trimis/sol."
+      },
+      {
+       "author": "Jamieson-Fausset-Brown, Comentariu biblic",
+       "text": "„Slujitorul Meu” — adică Israel. Cine dintre neamuri e atât de orb? Având în vedere privilegiile înalte ale lui Israel, orbirea neamurilor nu era nimic pe lângă cea a idolatrilor israeliți. „Mesagerul Meu trimis” — Israel a fost rânduit de Dumnezeu să fie vestitorul adevărului Său către celelalte neamuri. „Desăvârșitul” — înzestrat cu instituții, civile și religioase, potrivite bunăstării sale depline; comp. titlul „Ieșurun”, cel desăvârșit, aplicat lui Israel."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Cine e orb, dacă nu slujitorul Meu” — fiindcă amintise despre neamuri chipul surzilor și orbilor, îl aseamănă și pe Israel cu aceleași chipuri; „a face pe surdul” înseamnă a tăcea, a nu lucra, a se preface că nu aude, ca „eu sunt ca un surd care nu aude” (Ps. 38:14) — la fel se spune despre Israel, că sunt surzi și orbi fiindcă îndură asuprirea în exil fără să se răscoale împotriva asupritorilor lor, ca și cum n-ar simți starea lor grea."
+      }
+     ]
+    },
+    {
+     "v": "42:20",
+     "t": "Văzând multe, dar fără să păstreze, deschizând urechile, dar fără să asculte.",
+     "heb": "רָאוֹת רַבּוֹת וְלֹא תִשְׁמֹר פָּקוֹחַ אָזְנַיִם וְלֹא יִשְׁמָע",
+     "translit": "Raot rabot velo tișmor pakoah aznaim velo ișma.",
+     "tokens": [
+      {
+       "t": "Văzând",
+       "w": "Văzând",
+       "heb": "רָאוֹת",
+       "translit": "raot",
+       "strong": "H7200",
+       "pos": "verb, qal infinitiv absolut",
+       "def_ro": "a vedea (infinitiv absolut, cu sens de intensitate: „văzând mult”)."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "multe",
+       "w": "multe",
+       "heb": "רַבּוֹת",
+       "translit": "rabot",
+       "strong": "H7227",
+       "pos": "adjectiv, feminin plural",
+       "def_ro": "multe, numeroase."
+      },
+      {
+       "t": ", dar fără să "
+      },
+      {
+       "t": "păstreze",
+       "w": "păstreze",
+       "heb": "תִשְׁמֹר",
+       "translit": "tișmor",
+       "strong": "H8104",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a păzi, a păstra, a lua aminte."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "deschizând urechile",
+       "w": "deschizând urechile",
+       "heb": "פָּקוֹחַ אָזְנַיִם",
+       "translit": "pakoah aznaim",
+       "strong": "H6491",
+       "pos": "verb infinitiv absolut+substantiv",
+       "def_ro": "a avea urechile deschise (dar fără rezultat)."
+      },
+      {
+       "t": ", dar fără să "
+      },
+      {
+       "t": "asculte",
+       "w": "asculte",
+       "heb": "יִשְׁמָע",
+       "translit": "ișma",
+       "strong": "H8085",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a asculta, a auzi — aceeași rădăcină ca „șemau” de la v.18."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "רָאוֹת רַבּוֹת וְלֹא תִשְׁמֹר פָּקוֹחַ אָזְנַיִם וְלֹא יִשְׁמָע",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εἴδετε πλεονάκις, καὶ οὐκ ἐφυλάξασθε· ἠνοιγμένα τὰ ὦτα, καὶ οὐκ ἠκούσατε.",
+       "greek": true,
+       "translation": "„Ați văzut de multe ori, și n-ați păzit; urechile [erau] deschise, și n-ați auzit.”",
+       "note": "LXX pune verbele la persoana a II-a plural („ați văzut”), unde ebraica are infinitive impersonale — o adresare mai directă."
+      }
+     ],
+     "refs": [
+      "Isaia 6:9-10",
+      "Ieremia 5:21",
+      "Ezechiel 12:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Sunt multe de văzut” — multe priveliști sunt înaintea voastră, și nu luați aminte să priviți faptele Mele și să vă întoarceți la Mine. „Deschizând urechi” — sunt ocupat să vă deschid urechile prin profeții Mei, dar niciunul dintre voi nu ascultă cuvintele Mele; e timp prezent."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Oare nu văd ei multă înțelepciune, dar nu e printre ei nimeni care să vegheze asupra aproapelui ca să-l întoarcă de pe calea sa cea rea? De aceea se cuvine să fie numiți orbi. „Deschizând urechile” — oare n-au ei urechi deschise ca să înțeleagă poruncile DOMNULUI, dar nu e printre ei nimeni care să asculte, căci se face pe sine ca și cum n-ar înțelege, și nu-l avertizează pe aproapele; de aceea se cuvine să fie numiți surzi."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Pakoah” (deschizând) — termen de deschidere."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„Văzând multe” — Profetul însuși explică natura acestei orbiri despre care a vorbit, și arată că e dublă; și aceasta arată limpede că vorbea despre evrei, care, printr-un dispreț nelegiuit, au stins lumina lui Dumnezeu. Vina noastră va fi îndoită la judecata lui Dumnezeu dacă închidem ochii când El ne arată lumina, și închidem urechile când ne învață prin cuvântul Său."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Văzând multe, dar fără să păstreze” — așa e felul slujitorului DOMNULUI în exil: el vede ce i se face spre batjocură și rușine, dar nu ia aminte, nu ține minte, iar urechile îi sunt deschise și aude tot ce se vorbește împotriva lui de ocară și blestem, dar se face pe sine ca și cum n-ar auzi, așa cum s-a spus mai sus «nu va striga și nu-și va ridica [glasul]»."
+      }
+     ]
+    },
+    {
+     "v": "42:21",
+     "t": "DOMNUL dorește, de dragul dreptății Sale, ca Învățătura Sa să fie mărită și glorioasă.",
+     "heb": "יְהוָה חָפֵץ לְמַעַן צִדְקוֹ יַגְדִּיל תּוֹרָה וְיַאְדִּיר",
+     "translit": "ADONAI hafēţ lemaan ţidko iaghdil Tora veiadir.",
+     "tokens": [
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "ADONAI",
+       "strong": "H3068",
+       "pos": "substantiv propriu",
+       "def_ro": "Tetragrama."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dorește",
+       "w": "dorește",
+       "heb": "חָפֵץ",
+       "translit": "hafēţ",
+       "strong": "H2654",
+       "pos": "verb, qal perfect",
+       "def_ro": "a dori, a găsi plăcere în ceva."
+      },
+      {
+       "t": ", de dragul "
+      },
+      {
+       "t": "dreptății Sale",
+       "w": "dreptății Sale",
+       "heb": "צִדְקוֹ",
+       "translit": "ţidko",
+       "strong": "H6664",
+       "pos": "substantiv + sufix",
+       "def_ro": "dreptatea Sa — aceeași rădăcină tzedek din v.6."
+      },
+      {
+       "t": ", ca "
+      },
+      {
+       "t": "Învățătura Sa",
+       "w": "Învățătura Sa",
+       "heb": "תּוֹרָה",
+       "translit": "Tora",
+       "strong": "H8451",
+       "pos": "substantiv, feminin",
+       "def_ro": "învățătură, lege, instrucțiune.",
+       "greek": "νόμος (nomos)",
+       "greek_def_ro": "lege.",
+       "dict_ro": "Tora vine din rădăcina yarah, „a arăta calea, a instrui” — nu doar „lege” în sens juridic strict, ci întreaga învățătură călăuzitoare a lui Dumnezeu. Aici, „mărirea Torei” exprimă dorința lui Dumnezeu ca poruncile Sale să fie cunoscute și respectate pe scară tot mai largă."
+      },
+      {
+       "t": " să fie mărită și "
+      },
+      {
+       "t": "glorioasă",
+       "w": "glorioasă",
+       "heb": "וְיַאְדִּיר",
+       "translit": "veiadir",
+       "strong": "H142",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a face glorios, măreț."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יְהוָה חָפֵץ לְמַעַן צִדְקוֹ יַגְדִּיל תּוֹרָה וְיַאְדִּיר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὁ Θεὸς ἐβουλεύσατο ἵνα δικαιωθῇ καὶ μεγαλύνῃ αἴνεσιν.",
+       "greek": true,
+       "translation": "„Dumnezeu a voit ca [poporul] să fie îndreptățit și să mărească lauda.”",
+       "note": "LXX traduce diferit obiectul verbului: nu „Legea” (Tora), ci „lauda” (αἴνεσιν) — divergență notabilă de sens între cele două tradiții textuale."
+      }
+     ],
+     "refs": [
+      "Psalmul 40:8",
+      "Matei 5:17"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„DOMNUL dorește” — să vă arate și să vă deschidă urechile, de dragul dreptății Sale; de aceea, El mărește și glorifică Tora pentru voi."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Adică: iată, dorința principală a DOMNULUI față de astfel de oameni este ca fiecare dintre ei să-l îndrepte pe aproapele, învățându-l calea cea dreaptă, și să mărească și să glorifice Tora — să înmulțească învățătura de minte dată poporului."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Hafēţ” — termen de voință/plăcere. „Veiadir” — termen de tărie/măreție."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„DOMNUL dorește” — ca să agraveze și mai mult vina evreilor, [profetul] arată acum că nu Dumnezeu i-a împiedicat să ducă o viață prosperă și fericită. El spusese deja că necazurile și suferințele pe care le îndură sunt pedeapsa orbirii lor, adusă de bunăvoie asupra lor înșiși; și acum aduce, ca încununare a acuzației, faptul că, prin încăpățânarea lor, resping orice ușurare."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„DOMNUL dorește, de dragul dreptății Sale” — de dragul dreptății și milei lui Dumnezeu. „Ca Învățătura Sa să fie mărită și glorioasă” — a voit ca Israel să învețe neamurile o învățătură mare și puternică, iar aceasta prin faptul că vor vedea că, oricât de umiliți, [evreii] vor fi izbăviți, și astfel vor recunoaște că mâna DOMNULUI a făcut aceasta — iată o învățătură mare și o lecție puternică ce vine la popoare dinspre Israel și întâmplările lui."
+      }
+     ]
+    },
+    {
+     "v": "42:22",
+     "t": "Dar el este un popor prădat și obidit: cu toții sunt prizonieri în temnițe, încarcerați în închisori; au fost prădați și fără salvator, obidiți, dar nimeni nu spune: „Dați înapoi!”",
+     "heb": "וְהוּא עַם־בָּזוּז וְשָׁסוּי הָפֵחַ בַּחוּרִים כֻּלָּם וּבְבָתֵּי כְלָאִים הָחְבָּאוּ הָיוּ לָבַז וְאֵין מַצִּיל מְשִׁסָּה וְאֵין־אֹמֵר הָשַׁב",
+     "translit": "Vehu am-bazuz veșasui hafēah bahurim kulam uvevatē helaim hohbau hau lavaz veēn matzil meșisa veēn-omēr hașav.",
+     "tokens": [
+      {
+       "t": "Dar el este un "
+      },
+      {
+       "t": "popor",
+       "w": "popor",
+       "heb": "עַם",
+       "translit": "am",
+       "strong": "H5971",
+       "pos": "substantiv, masculin",
+       "def_ro": "popor — aceeași rădăcină ca la 42:5, dar acolo desemna omenirea generic, aici Israel specific."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "prădat",
+       "w": "prădat",
+       "heb": "בָּזוּז",
+       "translit": "bazuz",
+       "strong": "H962",
+       "pos": "verb, qal participiu pasiv",
+       "def_ro": "jefuit, prădat."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "obidit",
+       "w": "obidit",
+       "heb": "וְשָׁסוּי",
+       "translit": "veșasui",
+       "strong": "H8155",
+       "pos": "verb, qal participiu pasiv",
+       "def_ro": "jefuit, călcat în picioare."
+      },
+      {
+       "t": ": cu "
+      },
+      {
+       "t": "toții",
+       "w": "toții",
+       "heb": "כֻּלָּם",
+       "translit": "kulam",
+       "strong": "H3605",
+       "pos": "substantiv + sufix",
+       "def_ro": "toți, întregime."
+      },
+      {
+       "t": " sunt "
+      },
+      {
+       "t": "prizonieri",
+       "w": "prizonieri",
+       "heb": "הָפֵחַ בַּחוּרִים",
+       "translit": "hafēah bahurim",
+       "strong": "H6341",
+       "pos": "expresie idiomatică",
+       "def_ro": "tinerii lor, [prinși] în capcane — expresie dificilă, tradusă tradițional „tinerii sunt descurajați/prinși”.",
+       "dict_ro": "Rashi oferă două explicații: (1) „tinerii lor sunt toți plini de descurajare sufletească”; (2) „se vor pune singuri în capcanele pământului și în gropi” — ambiguitate recunoscută explicit de comentatori încă din antichitate."
+      },
+      {
+       "t": " în temnițe, încarcerați în "
+      },
+      {
+       "t": "închisori",
+       "w": "închisori",
+       "heb": "בְבָתֵּי כְלָאִים",
+       "translit": "vevatē helaim",
+       "strong": "H3608",
+       "pos": "substantiv compus",
+       "def_ro": "case de închisoare."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "au fost",
+       "w": "au fost",
+       "heb": "הָיוּ",
+       "translit": "hau",
+       "strong": "H1961",
+       "pos": "verb, qal perfect",
+       "def_ro": "a fi, a deveni."
+      },
+      {
+       "t": " prădați și fără "
+      },
+      {
+       "t": "salvator",
+       "w": "salvator",
+       "heb": "מַצִּיל",
+       "translit": "matzil",
+       "strong": "H5337",
+       "pos": "verb, hifil participiu",
+       "def_ro": "cel ce salvează, eliberează."
+      },
+      {
+       "t": ", obidiți, dar nimeni nu spune: „Dați "
+      },
+      {
+       "t": "înapoi",
+       "w": "înapoi",
+       "heb": "הָשַׁב",
+       "translit": "hașav",
+       "strong": "H7725",
+       "pos": "verb, hifil imperativ",
+       "def_ro": "a întoarce, a da înapoi.",
+       "dict_ro": "Rashi notează o subtilitate gramaticală: forma „hașav” aici e scrisă fără accent dagheș (spre deosebire de aceeași formă din Geneza 43:18), diferență fonetică minoră discutată de gramaticienii medievali."
+      },
+      {
+       "t": "!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהוּא עַם־בָּזוּז וְשָׁסוּי הָפֵחַ בַּחוּרִים כֻּלָּם וּבְבָתֵּי כְלָאִים הָחְבָּאוּ הָיוּ לָבַז וְאֵין מַצִּיל מְשִׁסָּה וְאֵין־אֹמֵר הָשַׁב",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fraza „hafēah bahurim” e recunoscută ca dificilă de traducători încă din antichitate (vezi diferența notabilă LXX de mai jos)."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγένετο λαὸς πεπρονομευμένος καὶ διηρπασμένος· ἡ γὰρ παγὶς ἐν τοῖς ταμιείοις πανταχοῦ, καὶ ἐν οἴκοις ἅμα, ὅπου ἔκρυψαν αὐτούς· ἐγένοντο εἰς προνομήν, καὶ οὐκ ἦν ὁ ἐξαιρούμενος, ἅρπαγμα, καὶ οὐκ ἦν ὁ λέγων Ἀπόδος.",
+       "greek": true,
+       "translation": "„Și a ajuns popor prădat și jefuit; căci este cursă pretutindeni în cămări, și în case totodată, unde i-au ascuns; au ajuns de pradă, și nu era cine să-i scoată, jaf, și nu era cine să spună: Dă înapoi.”",
+       "note": "LXX interpretează expresia dificilă „hafēah bahurim” prin imaginea unei „curse ascunse în cămări” — o soluție diferită de explicațiile rabinice, confirmând dificultatea reală a pasajului ebraic."
+      }
+     ],
+     "refs": [
+      "Plângerile lui Ieremia 1:1-3",
+      "Isaia 42:24-25"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și el” — acest popor e prădat și jefuit, iar sfârșitul pasajului e (v.25) «și nu au pus la inimă» — toate acestea ca să spună: de ce ni s-a întâmplat asta? (v.24) «Cine l-a dat pe Iacov pradă?» „Tinerii lor sunt toți plini de descurajare” — altă explicație: se vor pune singuri în capcanele pământului și în gropi; «și în case de temniță au fost ascunși» dovedește că așa este. „Și nimeni nu spune «Dă înapoi»” — ca «hașēv», de aceea nu e punctat cu dagheș, dar «cel întors în sacii noștri» (Geneza 43:18) e punctat cu dagheș."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Ei n-au făcut așa, căci n-au învățat poporul și nu s-au întors de pe calea lor, iar ei, prin păcatul lor, sunt jefuiți și călcați în picioare de toți. Tot ce s-a spus mai sus se leagă de faptul că, pentru că n-au luat aminte să vadă stricăciunea generației și s-o îndrepte, le-a venit această nenorocire — și de aceea se cuvine să fie numiți orbi și surzi. „Fără salvator” — nimeni nu-i scapă din jaf. „Fără să spună «Dă înapoi»” — și tot ce s-a spus mai sus se leagă de faptul că nu și-au pus la inimă să audă și să vadă stricăciunea generației și s-o îndrepte."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Bazuz” — termen de jaf și pradă. „Șasui” — termen de călcare în picioare, ca „i-au călcat toți trecătorii” (Ps. 89). „Hafēah” — termen de îngrijorare și mâhnire. „Batē helaim” — locul păzirii temniței. „Meșisa” — ca „lemșisa”, termen de călcare în picioare."
+      },
+      {
+       "author": "Jamieson-Fausset-Brown, Comentariu biblic",
+       "text": "„În gropi” — prinși de dușmani în peșterile unde căutaseră adăpost, sau legați în temnițe subterane. „Case de temniță” — fie închisori literale, fie propriile lor case, din care nu îndrăzneau să iasă de teama dușmanului. Legătura [cu versetul precedent]: cu toate favorurile lui Dumnezeu față de poporul Său, de dragul dreptății Sale, ei au căzut în mizerie din pricina disprețuirii legii divine."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Și el este un popor prădat” — acest slujitor al DOMNULUI despre care s-a vorbit n-a avut puterea să se izbăvească singur. „Tinerii lui, toți, sunt descurajați” — tinerii lui, care după firea lor ar trebui să fie puternici, sunt slabi de inimă și lipsiți de curaj, ca și cum le-ar fi ieșit sufletul din ei — la fel ca „a suflat-o cea care a născut șapte” (Ieremia 15:9) și „mi-am suflat sufletul stăpânei sale” (Iov 31:39)."
+      }
+     ]
+    },
+    {
+     "v": "42:23",
+     "t": "Cine dintre voi [își] va pleca urechea la aceasta, [cine] va asculta și va auzi [ce va fi] mai târziu?",
+     "heb": "מִי בָכֶם יַאֲזִין זֹאת יַקְשִׁב וְיִשְׁמַע לְאָחוֹר",
+     "translit": "Mi vahem iaazin zot iakșiv veișma leahor.",
+     "tokens": [
+      {
+       "t": "Cine",
+       "w": "Cine",
+       "heb": "מִי",
+       "translit": "mi",
+       "strong": "H4310",
+       "pos": "pronume interogativ",
+       "def_ro": "cine."
+      },
+      {
+       "t": " dintre voi [își] va pleca "
+      },
+      {
+       "t": "urechea",
+       "w": "urechea",
+       "heb": "יַאֲזִין",
+       "translit": "iaazin",
+       "strong": "H238",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a pleca urechea, a lua aminte cu atenție (de la ozen, „ureche”)."
+      },
+      {
+       "t": " la aceasta, [cine] va "
+      },
+      {
+       "t": "asculta",
+       "w": "asculta",
+       "heb": "יַקְשִׁב",
+       "translit": "iakșiv",
+       "strong": "H7181",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a lua aminte, a asculta cu atenție."
+      },
+      {
+       "t": " și va auzi [ce va fi] "
+      },
+      {
+       "t": "mai târziu",
+       "w": "mai târziu",
+       "heb": "לְאָחוֹר",
+       "translit": "leahor",
+       "strong": "H268",
+       "pos": "adverb",
+       "def_ro": "la urmă, în cele din urmă (literal, „înapoi/spre spate”).",
+       "dict_ro": "Rashi: expresia „leahor” în Scriptură se referă mereu la ceva „destinat să se întâmple” — folosirea acestui termen temporal cu sens de „viitor” în loc de „trecut” (sensul spațial normal) e notată explicit ca particularitate lingvistică."
+      },
+      {
+       "t": "?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי בָכֶם יַאֲזִין זֹאת יַקְשִׁב וְיִשְׁמַע לְאָחוֹר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τίς ἐν ὑμῖν ὃς ἐνωτιεῖται ταῦτα; εἰσακούσεται εἰς τὰ ἐπερχόμενα.",
+       "greek": true,
+       "translation": "„Cine dintre voi va lua aminte la acestea? Va asculta pentru cele ce vor veni.”",
+       "note": "Traducere apropiată de original."
+      }
+     ],
+     "refs": [
+      "Isaia 42:9"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Va asculta” — să ia aminte la aceasta: «Cine l-a dat pe Iacov pradă?». „Leahor” — va lua aminte și va auzi ceva ce-i va sluji la urmă. Așa a tradus și Ionatan: «la sfârșit»; și la fel, orice «leahor» din Scriptură se referă la ceva destinat să se întâmple."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Adică: oare se găsește printre voi cineva care să-și plece urechea la ceea ce s-a spus mai jos? Oare se găsește cineva care să ia aminte să audă un lucru care-i va sluji la urmă?"
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Iaazin” — va asculta cu urechea. „Iakșiv” — termen de ascultare."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„Cine dintre voi?” — Isaia continuă același subiect, căci vrea să spună că evreii sunt și vor fi atât de nesimțitori, încât nu vor vedea nici atunci când sunt avertizați; și li se adresează în mod expres, fiindcă, deși ar fi trebuit să fie mai bine educați și învățați decât alții, totuși n-au înțeles nimic și n-au luat aminte la judecățile lui Dumnezeu, deși erau cu totul vădite."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Cine dintre voi” — vorbește către neamuri: cine dintre voi, cât timp Israel era în exil, și-ar fi plecat urechea la aceasta, dacă cineva i-ar fi spus-o? Și cine dintre voi ar fi luat aminte, ca prin aceasta să înțeleagă la urmă ce se va întâmpla — după chipul «de-ar fi înțelepți, ar pricepe aceasta, ar înțelege sfârșitul lor» — cum ar putea unul singur să urmărească o mie, dacă nu fiindcă Stânca lor i-a vândut?"
+      }
+     ]
+    },
+    {
+     "v": "42:24",
+     "t": "Cine l-a dat pe Iacov pradă și pe Israel în mâna jefuitorilor? Oare nu DOMNUL împotriva căruia am păcătuit, refuzând să mergem pe căile Lui și neascultându-I Învățătura?",
+     "heb": "מִי־נָתַן לִמְשִׁסָּה יַעֲקֹב וְיִשְׂרָאֵל לְבֹזְזִים הֲלוֹא יְהוָה זוּ חָטָאנוּ לוֹ וְלֹא־אָבוּ בִדְרָכָיו הָלוֹךְ וְלֹא שָׁמְעוּ בְּתוֹרָתוֹ",
+     "translit": "Mi-natan limșisa Iaakov veIsraēl levozezim halo ADONAI zu hataanu lo velo-avu vidrahav haloh velo șameu betorato.",
+     "tokens": [
+      {
+       "t": "Cine l-a dat",
+       "w": "Cine l-a dat",
+       "heb": "מִי־נָתַן",
+       "translit": "mi-natan",
+       "strong": "H5414",
+       "pos": "pronume + verb, qal perfect",
+       "def_ro": "cine a dat."
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "Iacov",
+       "w": "Iacov",
+       "heb": "יַעֲקֹב",
+       "translit": "Iaakov",
+       "strong": "H3290",
+       "pos": "substantiv propriu",
+       "def_ro": "Iacov, „cel ce ține de călcâi” — numele patriarhului, folosit adesea în paralel cu „Israel” pentru popor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pradă",
+       "w": "pradă",
+       "heb": "לִמְשִׁסָּה",
+       "translit": "limșisa",
+       "strong": "H4933",
+       "pos": "substantiv, feminin",
+       "def_ro": "pradă, jaf."
+      },
+      {
+       "t": " și pe "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "Israēl",
+       "strong": "H3478",
+       "pos": "substantiv propriu",
+       "def_ro": "Israel, „cel ce s-a luptat cu Dumnezeu” (Geneza 32:28) — numele dat lui Iacov."
+      },
+      {
+       "t": " în mâna "
+      },
+      {
+       "t": "jefuitorilor",
+       "w": "jefuitorilor",
+       "heb": "לְבֹזְזִים",
+       "translit": "levozezim",
+       "strong": "H962",
+       "pos": "verb, qal participiu",
+       "def_ro": "cei ce jefuiesc."
+      },
+      {
+       "t": "? Oare nu "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "ADONAI",
+       "strong": "H3068",
+       "pos": "substantiv propriu",
+       "def_ro": "Tetragrama."
+      },
+      {
+       "t": " împotriva căruia am "
+      },
+      {
+       "t": "păcătuit",
+       "w": "păcătuit",
+       "heb": "חָטָאנוּ",
+       "translit": "hataanu",
+       "strong": "H2398",
+       "pos": "verb, qal perfect",
+       "def_ro": "a păcătui, a greși ținta."
+      },
+      {
+       "t": ", refuzând "
+      },
+      {
+       "t": "să mergem",
+       "w": "să mergem",
+       "heb": "בִדְרָכָיו הָלוֹךְ",
+       "translit": "vidrahav haloh",
+       "strong": "H1980",
+       "pos": "verb infinitiv absolut + substantiv",
+       "def_ro": "a umbla pe căile Lui."
+      },
+      {
+       "t": " pe căile Lui și "
+      },
+      {
+       "t": "neascultându-I",
+       "w": "neascultându-I",
+       "heb": "וְלֹא שָׁמְעוּ",
+       "translit": "velo șameu",
+       "strong": "H8085",
+       "pos": "verb, qal perfect negat",
+       "def_ro": "a nu asculta."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Învățătura",
+       "w": "Învățătura",
+       "heb": "בְּתוֹרָתוֹ",
+       "translit": "betorato",
+       "strong": "H8451",
+       "pos": "substantiv + sufix",
+       "def_ro": "Învățătura/Legea Lui — aceeași rădăcină Tora din 42:21, revenind în sens negativ: nesocotirea ei, nu mărirea ei."
+      },
+      {
+       "t": "?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי־נָתַן לִמְשִׁסָּה יַעֲקֹב וְיִשְׂרָאֵל לְבֹזְזִים הֲלוֹא יְהוָה זוּ חָטָאנוּ לוֹ וְלֹא־אָבוּ בִדְרָכָיו הָלוֹךְ וְלֹא שָׁמְעוּ בְּתוֹרָתוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τίς ἔδωκεν εἰς διαρπαγὴν Ἰακώβ, καὶ Ἰσραὴλ τοῖς προνομεύουσιν αὐτόν; οὐχὶ ὁ Θεός, ᾧ ἡμάρτοσαν αὐτῷ καὶ οὐκ ἠβούλοντο ἐν ταῖς ὁδοῖς αὐτοῦ πορεύεσθαι οὐδὲ ἀκούειν τοῦ νόμου αὐτοῦ;",
+       "greek": true,
+       "translation": "„Cine l-a dat spre jaf pe Iacov, și pe Israel celor ce-l pradă? Oare nu Dumnezeu, față de care au păcătuit și n-au voit să umble pe căile Lui, nici să asculte de legea Lui?”",
+       "note": "Traducere apropiată de original, cu Θεός (Dumnezeu) în locul Tetragramei."
+      }
+     ],
+     "refs": [
+      "Deuteronom 28:15",
+      "Plângerile lui Ieremia 1:5",
+      "Isaia 1:2-4"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Aceasta, [că] am păcătuit față de El” — aceasta a fost pricina jafului și prădăciunii: ceea ce am păcătuit față de El. „Și n-au voit” — părinții noștri n-au voit să meargă pe căile Lui."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Adică: iată lucrul de înțeles — cine este cel care l-a dat pe Israel pe mâna jefuitorilor? Oare nu DOMNUL i-a dat, și nu s-a întâmplat din întâmplare? „Aceasta am păcătuit față de El” — aceasta e pricina pentru care am păcătuit față de El, iar El plătește după faptă. „Și n-au voit” — și Israel n-a voit să meargă pe căile Lui."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Velo avu” (și n-au voit) — ca în „nu a voit cumnatul meu” (Deut. 25:7)."
+      },
+      {
+       "author": "Eusebiu de Cezareea, despre Isaia 42:24",
+       "text": "Poporul recunoaște el însuși, printr-o mărturisire pusă în gura lui de profet, că nenorocirea prădăciunii nu vine dintr-o soartă oarbă, ci din neascultarea față de Legea DOMNULUI — o structură de căință care premerge, în text, promisiunea izbăvirii din capitolul următor."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Aceasta, [că] am păcătuit față de El” — ar fi trebuit să spună „au păcătuit”, dar profetul a vrut să se alăture lor, [vorbind la persoana întâi plural]. „Zu” (aceasta) are aici sensul lui „așer” (care), ca și cuvântul aramaic „di”, cu schimbarea lui dalet în zayin, cum se întâmplă adesea."
+      }
+     ]
+    },
+    {
+     "v": "42:25",
+     "t": "Așa că El Și-a vărsat mânia asupra lui și puterea războiului, și l-a aprins din toate părțile, dar el n-a știut, [focul] l-a ars din interior, dar el nu a pus la inimă.",
+     "heb": "וַיִּשְׁפֹּךְ עָלָיו חֵמָה אַפּוֹ וֶעֱזוּז מִלְחָמָה וַתְּלַהֲטֵהוּ מִסָּבִיב וְלֹא יָדָע וַתִּבְעַר־בּוֹ וְלֹא־יָשִׂים עַל־לֵב",
+     "translit": "Vaișpoh alav hēma apo veezuz milhama vateleahatehu misaviv velo iada vativar-bo velo-iasim al-lēv.",
+     "tokens": [
+      {
+       "t": "Așa că El "
+      },
+      {
+       "t": "Și-a vărsat",
+       "w": "Și-a vărsat",
+       "heb": "וַיִּשְׁפֹּךְ",
+       "translit": "vaișpoh",
+       "strong": "H8210",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a vărsa, a turna."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "mânia",
+       "w": "mânia",
+       "heb": "חֵמָה אַפּוֹ",
+       "translit": "hēma apo",
+       "strong": "H2534",
+       "pos": "substantiv dublu, formă intensivă",
+       "def_ro": "mânie arzătoare — expresie dublată pentru intensitate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "asupra lui",
+       "w": "asupra lui",
+       "heb": "עָלָיו",
+       "translit": "alav",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix",
+       "def_ro": "asupra lui/peste el."
+      },
+      {
+       "t": " și puterea "
+      },
+      {
+       "t": "războiului",
+       "w": "războiului",
+       "heb": "מִלְחָמָה",
+       "translit": "milhama",
+       "strong": "H4421",
+       "pos": "substantiv, feminin",
+       "def_ro": "război, luptă."
+      },
+      {
+       "t": ", și l-a "
+      },
+      {
+       "t": "aprins",
+       "w": "aprins",
+       "heb": "וַתְּלַהֲטֵהוּ",
+       "translit": "vateleahatehu",
+       "strong": "H3857",
+       "pos": "verb, piel imperfect + sufix",
+       "def_ro": "a arde, a mistui cu flacără."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din toate părțile",
+       "w": "din toate părțile",
+       "heb": "מִסָּבִיב",
+       "translit": "misaviv",
+       "strong": "H5439",
+       "pos": "substantiv + prep.",
+       "def_ro": "de jur împrejur."
+      },
+      {
+       "t": ", dar el n-a "
+      },
+      {
+       "t": "știut",
+       "w": "știut",
+       "heb": "יָדָע",
+       "translit": "iada",
+       "strong": "H3045",
+       "pos": "verb, qal perfect",
+       "def_ro": "a ști, a cunoaște.",
+       "dict_ro": "Rashi observă paradoxul: „el chiar știa, dar călca cu călcâiul” — nu ignoranță reală, ci refuz voit de a lua aminte, echivalentul biblic al „a face pe niznaiul”."
+      },
+      {
+       "t": ", [focul] "
+      },
+      {
+       "t": "l-a ars din interior",
+       "w": "l-a ars din interior",
+       "heb": "וַתִּבְעַר־בּוֹ",
+       "translit": "vativar-bo",
+       "strong": "H1197",
+       "pos": "verb, qal imperfect consecutiv + prep.",
+       "def_ro": "și a ars în el — verb diferit de „vateleahatehu” de mai sus, rădăcina ba'ar, „a arde”."
+      },
+      {
+       "t": ", dar el nu a "
+      },
+      {
+       "t": "pus la inimă",
+       "w": "pus la inimă",
+       "heb": "יָשִׂים עַל־לֵב",
+       "translit": "iasim al-lēv",
+       "strong": "H7760",
+       "pos": "verb+substantiv, expresie idiomatică",
+       "def_ro": "a lua aminte, literal „a pune pe inimă”."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשְׁפֹּךְ עָלָיו חֵמָה אַפּוֹ וֶעֱזוּז מִלְחָמָה וַתְּלַהֲטֵהוּ מִסָּבִיב וְלֹא יָדָע וַתִּבְעַר־בּוֹ וְלֹא־יָשִׂים עַל־לֵב",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπήγαγεν ἐπ᾽ αὐτοὺς ὀργὴν θυμοῦ αὐτοῦ, καὶ κατίσχυσεν αὐτοὺς πόλεμος καὶ οἱ συμφλέγοντες αὐτοὺς κύκλῳ, καὶ οὐκ ἔγνωσαν ἕκαστος αὐτῶν, οὐδὲ ἔθεντο ἐπὶ ψυχήν.",
+       "greek": true,
+       "translation": "„Și a adus asupra lor urgia mâniei Sale, și i-a copleșit războiul, și cei ce-i ardeau de jur împrejur, și n-a cunoscut niciunul dintre ei, nici nu și-au pus la suflet.”",
+       "note": "LXX pune verbele la plural („asupra lor... i-a copleșit”), unde ebraica folosește consistent singularul colectiv („asupra lui”) pentru poporul Israel — diferență gramaticală de numărul folosit pentru a exprima colectivitatea."
+      }
+     ],
+     "refs": [
+      "Deuteronom 32:22",
+      "Isaia 1:5-6"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și l-a aprins de jur împrejur” — am adus răzbunare asupra neamurilor dimprejur, ca să vadă și să ia învățătură, precum se spune (Țefania 3:6): «Am stârpit neamuri, turnurile lor s-au pustiit... am zis: Doar de Mă veți teme, veți lua învățătură...» „Și n-a știut” — de fapt știa, dar călca cu călcâiul; nu i-a păsat să înțeleagă aceasta și să se întoarcă de la răutatea sa. „Și l-a ars în el însuși” — după pedeapsa neamurilor dimprejur, a ars în el însuși."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "De aceea a vărsat asupra lui mânie aspră și tărie de război. Dar ei nu iau aminte să știe că a venit prin purtarea de grijă [a lui Dumnezeu]; și când a ars de jur împrejur, n-au știut că de la DOMNUL a venit, iar când a ars în el însuși și în trupul său, tot nu-și pune la inimă să înțeleagă că a venit prin providență — nici la vremea când necazul se apropie, nici la vremea când a venit deja."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Hēma apo” — dublarea cuvântului prin sinonime, ca „țărână de pământ” (Daniel 12:2) și expresii asemenea. „Ezuz” — termen de tărie și putere. „Vateleahatehu” — termen de ardere și pârjolire, ca „foc arzător” (Ps. 104), și „vativar” — termen de ardere."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Mânia [care e] urgia Lui” — mânia care este urgia Lui; „apo” explică „hēma”. „Și l-a aprins” — mânia, nu războiul (împotriva lui Radak și alții), căci războiul nu arde; ci „hēma” înseamnă căldură și foc, la fel ca „haron” (aprindere), de aceea se spune «vei trimite aprinderea Ta [și] îi va mistui ca paiul» — expresie care n-ar avea sens dacă nu ar însemna „aprindere”."
+      }
+     ]
+    },
+    {
+     "v": "43:1",
+     "t": "Și acum, așa a spus DOMNUL, Creatorul tău, Iacove; cel care te-a plăsmuit, Israele: „Nu te teme, căci te-am izbăvit, te-am chemat pe nume, căci tu ești al Meu.",
+     "heb": "וְעַתָּה כֹּה־אָמַר יְהוָה בֹּרַאֲךָ יַעֲקֹב וְיֹצֶרְךָ יִשְׂרָאֵל אַל־תִּירָא כִּי גְאַלְתִּיךָ קָרָאתִי בְשִׁמְךָ לִי־אָתָּה",
+     "translit": "Veata ko-amar ADONAI boraaha Iaakov veioţereha Israēl al-tira ki gealtiha karati veșimha li-ata.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "acum",
+       "w": "acum",
+       "heb": "וְעַתָּה",
+       "translit": "veata",
+       "strong": "H6258",
+       "pos": "adverb",
+       "def_ro": "acum, în acest moment.",
+       "dict_ro": "„Veata” („și acum”) marchează adesea, la profeți, o cotitură retorică — trecerea de la descrierea păcatului/judecății (42:18-25) la promisiunea de mântuire care urmează imediat, fără nicio tranziție narativă."
+      },
+      {
+       "t": ", așa a spus "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "ADONAI",
+       "strong": "H3068",
+       "pos": "substantiv propriu",
+       "def_ro": "Tetragrama."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "Creatorul tău",
+       "w": "Creatorul tău",
+       "heb": "בֹּרַאֲךָ",
+       "translit": "boraaha",
+       "strong": "H1254",
+       "pos": "verb participiu + sufix",
+       "def_ro": "cel ce te-a creat — aceeași rădăcină bara din 42:5, aplicată acum direct poporului.",
+       "dict_ro": "Revenirea verbului bara leagă explicit Creația cosmică (v.5) de „re-crearea” lui Israel prin izbăvire — actul de eliberare din exil e prezentat ca o nouă creație, nu doar o restaurare."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "Iacove",
+       "w": "Iacove",
+       "heb": "יַעֲקֹב",
+       "translit": "Iaakov",
+       "strong": "H3290",
+       "pos": "substantiv propriu, vocativ",
+       "def_ro": "Iacov — vocativ, adresare directă."
+      },
+      {
+       "t": "; cel care te-a "
+      },
+      {
+       "t": "plăsmuit",
+       "w": "plăsmuit",
+       "heb": "יֹצֶרְךָ",
+       "translit": "ioţereha",
+       "strong": "H3335",
+       "pos": "verb participiu + sufix",
+       "def_ro": "a modela, a forma (ca olarul lutul).",
+       "dict_ro": "Yatzar e verbul folosit pentru olar (cf. Ieremia 18) — imagine complementară lui bara: Dumnezeu nu doar creează din nimic, ci și modelează cu grijă, ca un meșter care-și cunoaște lucrarea."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "Israele",
+       "w": "Israele",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "Israēl",
+       "strong": "H3478",
+       "pos": "substantiv propriu, vocativ",
+       "def_ro": "Israel — vocativ, paralel cu „Iacove”."
+      },
+      {
+       "t": ": „Nu "
+      },
+      {
+       "t": "te teme",
+       "w": "te teme",
+       "heb": "תִּירָא",
+       "translit": "tira",
+       "strong": "H3372",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a se teme."
+      },
+      {
+       "t": ", căci te-am "
+      },
+      {
+       "t": "izbăvit",
+       "w": "izbăvit",
+       "heb": "גְאַלְתִּיךָ",
+       "translit": "gealtiha",
+       "strong": "H1350",
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "a răscumpăra, a izbăvi (ca ruda cea mai apropiată — go'el).",
+       "dict_ro": "Ga'al e termenul juridic-familial pentru „răscumpărătorul” — ruda cea mai apropiată care avea datoria de a răscumpăra o proprietate pierdută sau o persoană căzută în robie (cf. cartea lui Rut). Aplicat lui Dumnezeu, sugerează o relație de rudenie apropiată, nu doar de stăpânire."
+      },
+      {
+       "t": ", te-am "
+      },
+      {
+       "t": "chemat pe nume",
+       "w": "chemat pe nume",
+       "heb": "קָרָאתִי בְשִׁמְךָ",
+       "translit": "karati veșimha",
+       "strong": "H7121",
+       "pos": "verb+substantiv",
+       "def_ro": "te-am chemat pe numele tău.",
+       "dict_ro": "A chema pe nume, în context biblic, e mai mult decât identificare — implică o relație personală, aleasă (cf. Exod 33:12, „te cunosc pe nume”); revine tema din 43:7, unde „chemat cu numele Meu” devine identitatea colectivă a lui Israel."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "căci tu ești al Meu",
+       "w": "căci tu ești al Meu",
+       "heb": "לִי־אָתָּה",
+       "translit": "li-ata",
+       "strong": "H859",
+       "pos": "prep.+pronume",
+       "def_ro": "al Meu ești tu — formulă de apartenență, încheind versetul."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַתָּה כֹּה־אָמַר יְהוָה בֹּרַאֲךָ יַעֲקֹב וְיֹצֶרְךָ יִשְׂרָאֵל אַל־תִּירָא כִּי גְאַלְתִּיךָ קָרָאתִי בְשִׁמְךָ לִי־אָתָּה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ νῦν οὕτω λέγει Κύριος ὁ Θεὸς ὁ ποιήσας σε, Ἰακώβ, ὁ πλάσας σε, Ἰσραήλ· Μὴ φοβοῦ, ὅτι ἐλυτρωσάμην σε· ἐκάλεσά σε τὸ ὄνομά σου, ἐμὸς εἶ σύ.",
+       "greek": true,
+       "translation": "„Și acum, așa spune Domnul Dumnezeu, Cel ce te-a făcut, Iacove, Cel ce te-a plăsmuit, Israele: Nu te teme, căci te-am răscumpărat; te-am chemat pe numele tău, al Meu ești tu.”",
+       "note": "LXX traduce „bara” (a crea) prin ποιήσας („a face”), o nuanță mai slabă decât originalul — aceeași observație făcută deja la Geneza 1:1."
+      }
+     ],
+     "refs": [
+      "Geneza 1:27",
+      "Isaia 44:2",
+      "Ieremia 18:1-6",
+      "1 Corinteni 6:20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și acum” — cu toate acestea, așa a spus DOMNUL... „Nu te teme.”"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Adică: cu toate acestea, așa a spus DOMNUL — nu te teme ca nu cumva să pieri în exil. „Căci te-am izbăvit” — căci oare nu din Egipt te-am izbăvit, și te-am chemat atunci pe numele tău, că ești al Meu, poporul Meu și fiul Meu întâi-născut?"
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Nu te teme, căci te-am răscumpărat” — cuvintele acestea, deși rostite inițial poporului Israel cu privire la izbăvirea din robia babiloniană, sunt aplicate de creștini, în sens duhovnicesc, tuturor celor răscumpărați prin sângele lui Hristos, chemați pe nume de Dumnezeu Însuși, ca ai Săi proprii, printr-o cunoaștere și o alegere veșnică."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Și acum” — legat de cele de mai sus, e o mângâiere pentru Israel în exilul babilonian. „Creatorul tău... cel care te-a plăsmuit” — nu se referă la crearea lumii, ci la facerea lui Israel ca popor. „Te-am izbăvit” — sunt răscumpărătorul tău, prin pildă, așa cum răscumpărătorul își scapă ruda din robie; de aceea urmează «am dat Egiptul ca răscumpărare pentru tine», care n-are sens decât prin această pildă."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„Și acum, așa spune DOMNUL” — e greu de spus dacă acesta e un discurs diferit sau același cu cel dinainte, căci profeții, ale căror scrieri ne-au parvenit, nu și-au împărțit discursurile pe capitole distincte. Din partea mea, cred că e probabil ca această învățătură să fie legată de cea precedentă; căci, după ce vorbise cu asprime împotriva evreilor și le amenințase cu nimicirea, a dorit să îndulcească acea asprime."
+      }
+     ]
+    },
+    {
+     "v": "43:2",
+     "t": "Când treci prin apă, Eu sunt cu tine; și prin râuri, ele nu te vor inunda; când mergi prin foc, nu vei fi ars; și flacăra nu te va arde.",
+     "heb": "כִּי־תַעֲבֹר בַּמַּיִם אִתְּךָ־אָנִי וּבַנְּהָרוֹת לֹא יִשְׁטְפוּךָ כִּי־תֵלֵךְ בְּמוֹ־אֵשׁ לֹא תִכָּוֶה וְלֶהָבָה לֹא תִבְעַר־בָּךְ",
+     "translit": "Ki-taavor bamaim itheha-ani uvaneharot lo iștefuha ki-tēlēh bemo-eș lo tikave veléhava lo tivar-baha.",
+     "tokens": [
+      {
+       "t": "Când "
+      },
+      {
+       "t": "treci",
+       "w": "treci",
+       "heb": "תַעֲבֹר",
+       "translit": "taavor",
+       "strong": "H5674",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a trece, a traversa."
+      },
+      {
+       "t": " prin "
+      },
+      {
+       "t": "apă",
+       "w": "apă",
+       "heb": "בַּמַּיִם",
+       "translit": "bamaim",
+       "strong": "H4325",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "apă."
+      },
+      {
+       "t": ", Eu sunt cu tine; și prin "
+      },
+      {
+       "t": "râuri",
+       "w": "râuri",
+       "heb": "וּבַנְּהָרוֹת",
+       "translit": "uvaneharot",
+       "strong": "H5104",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "râuri."
+      },
+      {
+       "t": ", ele nu te vor "
+      },
+      {
+       "t": "inunda",
+       "w": "inunda",
+       "heb": "יִשְׁטְפוּךָ",
+       "translit": "iștefuha",
+       "strong": "H7857",
+       "pos": "verb, qal imperfect + sufix",
+       "def_ro": "a inunda, a lua pe sus (ca un puhoi)."
+      },
+      {
+       "t": "; când "
+      },
+      {
+       "t": "mergi",
+       "w": "mergi",
+       "heb": "תֵלֵךְ",
+       "translit": "tēlēh",
+       "strong": "H1980",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a merge, a umbla."
+      },
+      {
+       "t": " prin "
+      },
+      {
+       "t": "foc",
+       "w": "foc",
+       "heb": "אֵשׁ",
+       "translit": "eș",
+       "strong": "H784",
+       "pos": "substantiv, feminin",
+       "def_ro": "foc."
+      },
+      {
+       "t": ", nu vei fi "
+      },
+      {
+       "t": "ars",
+       "w": "ars",
+       "heb": "תִכָּוֶה",
+       "translit": "tikave",
+       "strong": "H3554",
+       "pos": "verb, nifal imperfect",
+       "def_ro": "a fi ars, pârjolit."
+      },
+      {
+       "t": "; și "
+      },
+      {
+       "t": "flacăra",
+       "w": "flacăra",
+       "heb": "וְלֶהָבָה",
+       "translit": "veléhava",
+       "strong": "H3852",
+       "pos": "substantiv, feminin",
+       "def_ro": "flacără, vâlvătaie."
+      },
+      {
+       "t": " nu te va arde."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־תַעֲבֹר בַּמַּיִם אִתְּךָ־אָנִי וּבַנְּהָרוֹת לֹא יִשְׁטְפוּךָ כִּי־תֵלֵךְ בְּמוֹ־אֵשׁ לֹא תִכָּוֶה וְלֶהָבָה לֹא תִבְעַר־בָּךְ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐὰν διαβαίνῃς δι᾽ ὕδατος, μετὰ σοῦ εἰμι, καὶ ποταμοὶ οὐ συγκλύσουσί σε· καὶ ἐὰν διέλθῃς διὰ πυρός, οὐ μὴ κατακαυθῇς, φλὸξ οὐ κατακαύσει σε.",
+       "greek": true,
+       "translation": "„Și de vei trece prin apă, cu tine sunt, și râurile nu te vor îneca; și de vei trece prin foc, nu vei fi ars, flacăra nu te va arde.”",
+       "note": "Traducere apropiată de original."
+      }
+     ],
+     "refs": [
+      "Exod 14:21-22",
+      "Daniel 3:25-27",
+      "Psalmul 66:12"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Când treci prin apă” — când ai trecut prin Marea Roșie, am fost cu tine. „Și prin râuri, ele nu te vor inunda” — ai locuit printre egipteni și neamurile numeroase ca apele unui râu, și n-au putut să te nimicească. „Când mergi prin foc” — în viitor: «căci iată, vine ziua, arzând ca un cuptor» (Malahi 3:19), căci voi face soarele să ardă asupra celor răi; și acolo, la fel, nu vei fi ars. „Flacăra” — care va mistui neamurile, precum se spune «și popoarele vor fi ca arderea varului» (Isaia 33:12); nici aceea nu va arde printre voi."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Când treci prin apă” — și vei fi aproape să te îneci în ea. „Și în râuri” — chiar de vei trece prin râuri repezi, nu te vor lua pe sus. „Nu vei fi ars” — nu vei fi pârjolit de foc, nici flacăra nu va arde în tine; adică: chiar de vei fi în adâncul necazurilor, nu vei pieri acolo."
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 13:43.1",
+       "text": "Chiar și atunci când Dumnezeul cel milostiv disciplinează, El nu părăsește mila... El zice: «judecă, cugetă, prinde curaj». Acum Dumnezeu îi întărește pe cei duși în robie la Babilon. Și de vreme ce purtau numele «popor al lui Dumnezeu», era potrivit ca Dumnezeu să se adreseze poporului astfel: «te-am chemat pe nume. Al Meu ești.» El zice: «Ai numele cu care te-am chemat.»"
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Bemo” (prin) — înăuntru, ca „prin Madmena” (mai sus, cap. 25). „Tikave” — termen de ardere și pârjolire, ca „arsurile de foc” (Levitic 13)."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Când treci prin apă” — pildă pentru orice fel de primejdie la întoarcerea lor din exilul babilonian."
+      }
+     ]
+    },
+    {
+     "v": "43:3",
+     "t": "Căci Eu sunt DOMNUL, Dumnezeul tău, Sfântul lui Israel, Salvatorul tău; am dat Egiptul ca răscumpărare și Etiopia și Saba în locul tău.",
+     "heb": "כִּי אֲנִי יְהוָה אֱלֹהֶיךָ קְדוֹשׁ יִשְׂרָאֵל מוֹשִׁיעֶךָ נָתַתִּי כָפְרְךָ מִצְרַיִם כּוּשׁ וּסְבָא תַּחְתֶּיךָ",
+     "translit": "Ki ani ADONAI Eloheha kedoș Israēl moșieha natati hofreha Miţraim Kuș useva tahteha.",
+     "tokens": [
+      {
+       "t": "Căci Eu sunt DOMNUL, "
+      },
+      {
+       "t": "Dumnezeul tău",
+       "w": "Dumnezeul tău",
+       "heb": "אֱלֹהֶיךָ",
+       "translit": "Eloheha",
+       "strong": "H430",
+       "pos": "substantiv + sufix",
+       "def_ro": "Dumnezeul tău."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "Sfântul lui Israel",
+       "w": "Sfântul lui Israel",
+       "heb": "קְדוֹשׁ יִשְׂרָאֵל",
+       "translit": "kedoș Israēl",
+       "strong": "H6918",
+       "pos": "substantiv/adjectiv, masculin",
+       "def_ro": "Sfântul lui Israel — titlu divin caracteristic cărții lui Isaia (peste 25 apariții).",
+       "dict_ro": "Kadoș, „sfânt”, denotă separare/transcendență absolută. Titlul „Sfântul lui Israel” e practic o semnătură stilistică a lui Isaia, unind transcendența divină cu relația specifică, personală cu Israel."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "Salvatorul tău",
+       "w": "Salvatorul tău",
+       "heb": "מוֹשִׁיעֶךָ",
+       "translit": "moșieha",
+       "strong": "H3467",
+       "pos": "verb hifil participiu + sufix",
+       "def_ro": "cel ce te salvează/mântuiește.",
+       "greek": "σῴζων (sōzōn)",
+       "greek_def_ro": "cel ce mântuiește.",
+       "dict_ro": "Rădăcina yasha (de unde și numele Isaia/Iehoșua/Iisus) înseamnă „a salva, a scoate la loc larg”. Titlul „Salvatorul tău” aplicat DOMNULUI e citat de Teodoret ca argument patristic pentru divinitatea lui Hristos, „Mântuitorul”, în polemica ariană."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "am dat",
+       "w": "am dat",
+       "heb": "נָתַתִּי",
+       "translit": "natati",
+       "strong": "H5414",
+       "pos": "verb, qal perfect",
+       "def_ro": "a da — aceeași rădăcină ca „mi-natan” din 42:24."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Egiptul",
+       "w": "Egiptul",
+       "heb": "מִצְרַיִם",
+       "translit": "Miţraim",
+       "strong": "H4714",
+       "pos": "substantiv propriu"
+      },
+      {
+       "t": " ca "
+      },
+      {
+       "t": "răscumpărare",
+       "w": "răscumpărare",
+       "heb": "כָפְרְךָ",
+       "translit": "hofreha",
+       "strong": "H3724",
+       "pos": "substantiv + sufix",
+       "def_ro": "preț de răscumpărare, ispășire.",
+       "dict_ro": "Kofer e prețul plătit în locul unei vieți datorate (cf. Exod 21:30) — imaginea sugerează că soarta Egiptului (întâii-născuți morți) a „plătit” cumva pentru cruțarea lui Israel la Ieșire."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "Etiopia",
+       "w": "Etiopia",
+       "heb": "כּוּשׁ",
+       "translit": "Kuș",
+       "strong": "H3568",
+       "pos": "substantiv propriu",
+       "def_ro": "Cuș, Etiopia/Nubia."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "Saba",
+       "w": "Saba",
+       "heb": "וּסְבָא",
+       "translit": "useva",
+       "strong": "H5434",
+       "pos": "substantiv propriu",
+       "def_ro": "Seba, regiune legată de peninsula arabică sau de sudul Egiptului."
+      },
+      {
+       "t": " în locul tău."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי אֲנִי יְהוָה אֱלֹהֶיךָ קְדוֹשׁ יִשְׂרָאֵל מוֹשִׁיעֶךָ נָתַתִּי כָפְרְךָ מִצְרַיִם כּוּשׁ וּסְבָא תַּחְתֶּיךָ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι ἐγὼ Κύριος ὁ Θεός σου, ὁ Ἅγιος Ἰσραήλ, ὁ σῴζων σε· ἐποίησά σου ἄλλαγμα Αἴγυπτον καὶ Αἰθιοπίαν καὶ Σοήνην ὑπὲρ σοῦ.",
+       "greek": true,
+       "translation": "„Căci Eu sunt Domnul Dumnezeul tău, Sfântul lui Israel, Cel ce te mântuiește; am făcut schimb pentru tine Egiptul și Etiopia și Soene pentru tine.”",
+       "note": "LXX redă „Saba” prin Σοήνην (Siene/Assuan, o localitate egipteană), o identificare geografică diferită de tradiția ebraică ce leagă „Saba” de peninsula arabică."
+      }
+     ],
+     "refs": [
+      "Isaia 45:14",
+      "Exod 12:29-30"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Am dat Egiptul ca răscumpărare pentru tine” — și ei au fost răscumpărarea ta, căci întâii lor născuți au murit, iar tu, fiul Meu întâi-născut, ai fost scăpat, deși erați vrednici de nimicire, precum se spune la Ezechiel (20:8): «Și am zis să-Mi vărs urgia asupra lor... în țara Egiptului»."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Totul e în mâna Mea. „Am dat Egiptul ca răscumpărare pentru tine” — oare nu în Egipt erați vrednici de nimicire, precum s-a spus, «și am zis să-Mi vărs urgia asupra lor în mijlocul țării Egiptului» (Ezechiel 20:8), și atunci ți-am dat Egiptul drept răscumpărare, căci ei au pierit în locul tău. „Cuș și Seva în locul tău” — precum Sanherib, când și-a îndreptat fața să lupte împotriva Ierusalimului, a ieșit mai întâi să lupte cu Cuș și Seva, și au pierit în locul tău, și ți-au fost ție izbăvire."
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 13:43.11",
+       "text": "[Referitor la titlul «Salvatorul tău»:] Nici Moise, nici alt profet nu e desemnat aici, ci Hristos, Stăpânul nostru... Căci Stăpânul nostru Hristos e numit «Mântuitor» în toată Sfânta Scriptură — și dacă, în afara lui Dumnezeu, nu există alt mântuitor, iar Hristos e numit Mântuitor, e limpede că El participă la [firea] dumnezeiască."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Kofreha” (răscumpărarea ta) — termen de răscumpărare/preț de izbăvire."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Am dat Egiptul ca răscumpărare pentru tine” — ca să fiu răscumpărătorul tău: dacă ar fi trebuit să te răscumpăr dând un alt popor în locul tău, aș fi dat în locul tău neamuri mari, puternice și bogate, pentru că ai fost scump în ochii Mei."
+      },
+      {
+       "author": "Keil-Delitzsch, Comentariu la Isaia 43:3-4",
+       "text": "Așa cum la v.1 „kî” („căci”) cu tot ce urmează arată pricina îndemnului încurajator „nu te teme”, tot așa aici un al doilea „kî” introduce pricina promisiunii care îi asigură împotriva primejdiilor apei sau focului: „Căci Eu, DOMNUL, sunt Dumnezeul tău.” Perfectul „am dat” (deja împlinit ca hotărâre, deși încă în desfășurare ca fapt istoric) arată o hotărâre divină fermă, nu doar o speranță."
+      }
+     ]
+    },
+    {
+     "v": "43:4",
+     "t": "Pentru că ai fost vrednic în ochii Mei, ai fost onorat și te-am iubit, și am dat un om în locul tău și popoare în schimbul sufletului tău.",
+     "heb": "מֵאֲשֶׁר יָקַרְתָּ בְעֵינַי נִכְבַּדְתָּ וַאֲנִי אֲהַבְתִּיךָ וְאֶתֵּן אָדָם תַּחְתֶּיךָ וּלְאֻמִּים תַּחַת נַפְשֶׁךָ",
+     "translit": "Mēașer iakarta veēinai nihbadta vaani ahavtiha veetēn adam tahteha uleumim tahat nafșeha.",
+     "tokens": [
+      {
+       "t": "Pentru că ai fost "
+      },
+      {
+       "t": "vrednic",
+       "w": "vrednic",
+       "heb": "יָקַרְתָּ",
+       "translit": "iakarta",
+       "strong": "H3365",
+       "pos": "verb, qal perfect",
+       "def_ro": "a fi prețios, scump, de valoare."
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "ochii Mei",
+       "w": "ochii Mei",
+       "heb": "בְעֵינַי",
+       "translit": "veēinai",
+       "strong": "H5869",
+       "pos": "substantiv + sufix",
+       "def_ro": "în ochii Mei, în privirea Mea."
+      },
+      {
+       "t": ", ai fost "
+      },
+      {
+       "t": "onorat",
+       "w": "onorat",
+       "heb": "נִכְבַּדְתָּ",
+       "translit": "nihbadta",
+       "strong": "H3513",
+       "pos": "verb, nifal perfect",
+       "def_ro": "a fi onorat, prețuit — aceeași rădăcină ca kavod (slavă) din 42:8."
+      },
+      {
+       "t": " și te-am "
+      },
+      {
+       "t": "iubit",
+       "w": "iubit",
+       "heb": "אֲהַבְתִּיךָ",
+       "translit": "ahavtiha",
+       "strong": "H157",
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "a iubi.",
+       "dict_ro": "Ahava e iubirea alegerii libere, nemeritate — folosită frecvent în Deuteronom pentru dragostea lui Dumnezeu față de patriarhi și Israel (cf. Deut. 7:8, „pentru că DOMNUL v-a iubit”), niciodată ca o consecință a vredniciei omenești, ci ca temei al ei."
+      },
+      {
+       "t": ", și am dat un om în locul tău și "
+      },
+      {
+       "t": "popoare",
+       "w": "popoare",
+       "heb": "וּלְאֻמִּים",
+       "translit": "uleumim",
+       "strong": "H3816",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "popoare, națiuni."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în schimbul",
+       "w": "în schimbul",
+       "heb": "תַּחַת",
+       "translit": "tahat",
+       "strong": "H8478",
+       "pos": "prepoziție",
+       "def_ro": "sub, în locul, în schimbul — aceeași prepoziție ca „tahteha” de mai sus în verset."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sufletului tău",
+       "w": "sufletului tău",
+       "heb": "נַפְשֶׁךָ",
+       "translit": "nafșeha",
+       "strong": "H5315",
+       "pos": "substantiv + sufix",
+       "def_ro": "suflet, viață, ființă.",
+       "dict_ro": "Nefeș desemnează întreaga ființă vie, nu doar o parte „spirituală” separată de trup — echivalentul biblic pentru „viață” în sensul cel mai concret."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מֵאֲשֶׁר יָקַרְתָּ בְעֵינַי נִכְבַּדְתָּ וַאֲנִי אֲהַבְתִּיךָ וְאֶתֵּן אָדָם תַּחְתֶּיךָ וּלְאֻמִּים תַּחַת נַפְשֶׁךָ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀφ᾽ οὗ ἔντιμος ἐγένου ἐναντίον ἐμοῦ, ἐδοξάσθης, κἀγώ σε ἠγάπησα καὶ δώσω ἀνθρώπους πολλοὺς ὑπὲρ σοῦ καὶ ἄρχοντας ὑπὲρ τῆς κεφαλῆς σου.",
+       "greek": true,
+       "translation": "„De când ai fost cinstit înaintea Mea, ai fost slăvit, și Eu te-am iubit și voi da mulți oameni pentru tine și căpetenii pentru capul tău.”",
+       "note": "LXX adaugă „mulți” (πολλοὺς) și „căpetenii pentru capul tău” — o amplificare absentă din textul ebraic, dar consecventă cu sensul general al versetului."
+      }
+     ],
+     "refs": [
+      "Deuteronom 7:6-8",
+      "Isaia 41:8-9"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și dau un om în locul tău” — mereu obișnuiesc astfel."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Pentru că ai fost scump în ochii Mei și onorat mai presus de toate neamurile, și Eu te-am iubit, de aceea e felul Meu să dau alți oameni în locul tău."
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 13:43.4",
+       "text": "Dumnezeu redă rezumatul binefacerilor de care se bucură [poporul]: pentru că te iubesc, zice El, și pentru că te-am ales, ai ajuns respectat și glorios. «Și voi da oameni pentru tine, și căpetenii pentru viața ta» — vrea să vorbească despre babilonieni, pe care i-a dat pe mâna lui Cirus."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Iakarta” (ai fost vrednic) — termen de preț și însemnătate."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Și am dat un om în locul tău” — aș fi dat, iar vavul e de prisos sau răspunde condiției, ca „de vei merge cu mine, voi merge” (Judecători 4:8)."
+      }
+     ]
+    },
+    {
+     "v": "43:5",
+     "t": "Nu te teme, căci sunt cu tine; de la răsărit îți voi aduce urmașii și de la apus te voi aduna.",
+     "heb": "אַל־תִּירָא כִּי אִתְּךָ־אָנִי מִמִּזְרָח אָבִיא זַרְעֶךָ וּמִמַּעֲרָב אֲקַבְּצֶךָּ",
+     "translit": "Al-tira ki itheha-ani mimizrah avi zareha umimaarav akabeţeha.",
+     "tokens": [
+      {
+       "t": "Nu te teme, căci sunt cu "
+      },
+      {
+       "t": "tine",
+       "w": "tine",
+       "heb": "אִתְּךָ",
+       "translit": "itheha",
+       "strong": "H854",
+       "pos": "prepoziție + sufix",
+       "def_ro": "cu tine.",
+       "dict_ro": "Promisiunea „sunt cu tine” (itheha ani) revine constant în ciclul acesta (43:2, 43:5) — formulă de asigurare a prezenței divine active, nu doar pasive, prezentă și în chemarea lui Moise (Exod 3:12) și Ghedeon (Judecători 6:12)."
+      },
+      {
+       "t": "; de la "
+      },
+      {
+       "t": "răsărit",
+       "w": "răsărit",
+       "heb": "מִמִּזְרָח",
+       "translit": "mimizrah",
+       "strong": "H4217",
+       "pos": "substantiv, masculin",
+       "def_ro": "răsărit, est."
+      },
+      {
+       "t": " îți voi "
+      },
+      {
+       "t": "aduce",
+       "w": "aduce",
+       "heb": "אָבִיא",
+       "translit": "avi",
+       "strong": "H935",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a aduce — aceeași rădăcină bo/vau din 42:9."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "urmașii",
+       "w": "urmașii",
+       "heb": "זַרְעֶךָ",
+       "translit": "zareha",
+       "strong": "H2233",
+       "pos": "substantiv + sufix",
+       "def_ro": "sămânța ta, urmașii tăi.",
+       "dict_ro": "Zera („sămânță”) leagă din nou textul de imaginea agricolă/organică din 42:5 („ceea ce crește”) — poporul risipit e ca o sămânță împrăștiată, pe care Dumnezeu o adună înapoi."
+      },
+      {
+       "t": " și de la "
+      },
+      {
+       "t": "apus",
+       "w": "apus",
+       "heb": "וּמִמַּעֲרָב",
+       "translit": "umimaarav",
+       "strong": "H4628",
+       "pos": "substantiv, masculin",
+       "def_ro": "apus, vest."
+      },
+      {
+       "t": " te voi "
+      },
+      {
+       "t": "aduna",
+       "w": "aduna",
+       "heb": "אֲקַבְּצֶךָּ",
+       "translit": "akabeţeha",
+       "strong": "H6908",
+       "pos": "verb, piel imperfect + sufix",
+       "def_ro": "a aduna, a strânge."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אַל־תִּירָא כִּי אִתְּךָ־אָנִי מִמִּזְרָח אָבִיא זַרְעֶךָ וּמִמַּעֲרָב אֲקַבְּצֶךָּ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μὴ φοβοῦ, ὅτι μετὰ σοῦ εἰμι· ἀπὸ ἀνατολῶν ἄξω τὸ σπέρμα σου καὶ ἀπὸ δυσμῶν συνάξω σε.",
+       "greek": true,
+       "translation": "„Nu te teme, căci cu tine sunt; de la răsărituri voi aduce sămânța ta și de la apusuri te voi aduna.”",
+       "note": "Traducere apropiată de original."
+      }
+     ],
+     "refs": [
+      "Isaia 11:11-12",
+      "Psalmul 107:2-3"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„De la răsărit” — pe cei risipiți acolo."
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 13:43.5",
+       "text": "Aceste prezicerii și-au primit împlinirea după înfrângerea babilonienilor, căci Cirus a poruncit [evreilor] să se întoarcă în Iudeea. La acea vreme, cei ce se întorceau dinspre răsărit, [precum] și cei care fugiseră în timpul războiului și ajunseseră spre apus, s-au întors atunci la țară."
+      },
+      {
+       "author": "Keil-Delitzsch, Comentariu la Isaia 43:5-7",
+       "text": "Îndemnul încurajator „nu te teme” e reluat aici pentru a-i adăuga încă un temei. Faptul că DOMNUL e cu Israel se va arăta prin aceasta, că El înfăptuiește restaurarea lui deplină din toate zările cerului — poruncă dată nordului și sudului să elibereze poporul reținut nedrept, să nu-l mai oprească, ci să-i întoarcă fiii și fiicele."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„Nu te teme” — când Isaia repetă des acest îndemn, nu trebuie să-l socotim de prisos, căci știm și simțim cât de înclinați suntem, din fire, spre neîncredere. Cu greu pot cuvintele exprima mărimea spaimei prin care Biserica era atunci zguduită; de îndată ce începem să punem la îndoială promisiunile lui Dumnezeu, mințile ne sunt sfâșiate de tot felul de gânduri."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„De la răsărit îți voi aduce urmașii” — deși pomenește cele patru vânturi ale cerului, nu se referă decât la exilul babilonian, dar împărăția Babilonului era mare și stăpânirea ei se întindea peste multe țări; poate că evreii s-au risipit, în vremea exilului lor, prin țări îndepărtate unele de altele, căci am văzut mai sus (24:4, 26:18) că Babilonul, prin întinderea stăpânirii sale, e numit „tevel” (lumea întreagă)."
+      }
+     ]
+    },
+    {
+     "v": "43:6",
+     "t": "Voi spune la miazănoapte: «Dă înapoi!» și la miazăzi: «Nu opri!», adu-Mi fiii de departe și fiicele de la marginile pământului,",
+     "heb": "אֹמַר לַצָּפוֹן תֵּנִי וּלְתֵימָן אַל־תִּכְלָאִי הָבִיאִי בָנַי מֵרָחוֹק וּבְנוֹתַי מִקְצֵה הָאָרֶץ",
+     "translit": "Omar laţafon tēni ulteiman al-tikelai haviи vanai mērahok uvenotai mikţē haareţ.",
+     "tokens": [
+      {
+       "t": "Voi spune",
+       "w": "Voi spune",
+       "heb": "אֹמַר",
+       "translit": "omar",
+       "strong": "H559",
+       "pos": "verb, qal imperfect",
+       "def_ro": "voi spune — aceeași rădăcină amar din 42:5, 42:9, 43:9."
+      },
+      {
+       "t": " la "
+      },
+      {
+       "t": "miazănoapte",
+       "w": "miazănoapte",
+       "heb": "לַצָּפוֹן",
+       "translit": "laţafon",
+       "strong": "H6828",
+       "pos": "substantiv, masculin",
+       "def_ro": "nord."
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "Dă",
+       "w": "Dă",
+       "heb": "תֵּנִי",
+       "translit": "tēni",
+       "strong": "H5414",
+       "pos": "verb, qal imperativ",
+       "def_ro": "dă — aceeași rădăcină natan/natati din 42:24, 43:3."
+      },
+      {
+       "t": " înapoi!» și la "
+      },
+      {
+       "t": "miazăzi",
+       "w": "miazăzi",
+       "heb": "וּלְתֵימָן",
+       "translit": "ulteiman",
+       "strong": "H8486",
+       "pos": "substantiv, masculin",
+       "def_ro": "sud."
+      },
+      {
+       "t": ": «Nu "
+      },
+      {
+       "t": "opri",
+       "w": "opri",
+       "heb": "תִּכְלָאִי",
+       "translit": "tikelai",
+       "strong": "H3607",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a opri, a reține.",
+       "dict_ro": "Rashi observă o subtilitate literară: vântul de nord (mai slab) primește imperativul „Trezește-te!”, cel de sud (deja puternic) primește doar „Nu opri!” — o distincție intenționată, comentată și în Cântarea Cântărilor 4:16."
+      },
+      {
+       "t": "!», "
+      },
+      {
+       "t": "adu-Mi",
+       "w": "adu-Mi",
+       "heb": "הָבִיאִי",
+       "translit": "haviи",
+       "strong": "H935",
+       "pos": "verb, hifil imperativ",
+       "def_ro": "adu — aceeași rădăcină bo/avi din 42:9, 43:5."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiii",
+       "w": "fiii",
+       "heb": "בָנַי",
+       "translit": "vanai",
+       "strong": "H1121",
+       "pos": "substantiv + sufix",
+       "def_ro": "fiii mei."
+      },
+      {
+       "t": " de "
+      },
+      {
+       "t": "departe",
+       "w": "departe",
+       "heb": "מֵרָחוֹק",
+       "translit": "mērahok",
+       "strong": "H7350",
+       "pos": "substantiv/adverb",
+       "def_ro": "din depărtare, de departe."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "fiicele",
+       "w": "fiicele",
+       "heb": "וּבְנוֹתַי",
+       "translit": "uvenotai",
+       "strong": "H1323",
+       "pos": "substantiv + sufix",
+       "def_ro": "fiicele mele."
+      },
+      {
+       "t": " de la "
+      },
+      {
+       "t": "marginile pământului",
+       "w": "marginile pământului",
+       "heb": "מִקְצֵה הָאָרֶץ",
+       "translit": "mikţē haareţ",
+       "strong": "H7097",
+       "pos": "substantiv compus",
+       "def_ro": "marginea/capătul pământului — aceeași expresie ca la 42:10."
+      },
+      {
+       "t": ","
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אֹמַר לַצָּפוֹן תֵּנִי וּלְתֵימָן אַל־תִּכְלָאִי הָבִיאִי בָנַי מֵרָחוֹק וּבְנוֹתַי מִקְצֵה הָאָרֶץ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐρῶ τῷ βορρᾷ Ἄγε, καὶ τῷ λιβί Μὴ κώλυε· ἄγε τοὺς υἱούς μου ἀπὸ γῆς πόρρωθεν καὶ τὰς θυγατέρας μου ἀπ᾽ ἄκρων τῆς γῆς.",
+       "greek": true,
+       "translation": "„Voi zice nordului: Adu, și sudului: Nu opri; adu pe fiii Mei din pământ îndepărtat și pe fiicele Mele de la marginile pământului.”",
+       "note": "Traducere apropiată de original."
+      }
+     ],
+     "refs": [
+      "Isaia 49:22",
+      "Deuteronom 30:4"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Voi spune” vântului de nord: «Dă» pe cei exilați care sunt în nord. „Și celui de sud”, care e vânt puternic: «Nu te opri din a sufla tare, ca să-i aduci pe exilații Mei.» Și tot astfel, în Cântarea Cântărilor (4:16): «Trezește-te, [vânt de] nord, și vino, [vânt de] sud» — pentru că vântul de nord e slab, are nevoie de întărire, de aceea scrie «trezește-te», «dă»; dar cel de sud, care n-are nevoie de întărire, scrie «vino», așa cum este, și la fel «nu te opri»."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Dă” — dă pe Israel cel risipit acolo. „Nu opri” — nu te reține de la a-l aduce pe Israel; adu-l. Ca și cum ar porunci fiecărei direcții a lumii să-l aducă pe Israel."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Tikelai” (opri) — termen de oprire/reținere, ca „și oprit-a poporul de la a mai aduce” (Exod 36:6)."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„Voi spune la miazănoapte” — prin aceste patru direcții [profetul] cuprinde lumea întreagă, lucru foarte obișnuit în toate limbile. Dar Isaia vorbește într-un limbaj ceva mai înalt decât Moise, fiindcă a vrut ca poporul să privească evenimentul ca și cum s-ar fi întâmplat deja; iar aceste descrieri vii, care parcă ni-l pun înaintea ochilor, sunt admirabil potrivite unui asemenea scop."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Voi spune la miazănoapte: Dă înapoi!” — faptul că vedem că nu s-au întors toți, nici măcar cei mai mulți, nu s-a datorat decât voinței lor proprii; întoarcerea era cu putință pentru toți, și nimic din afară nu-i împiedica."
+      }
+     ]
+    },
+    {
+     "v": "43:7",
+     "t": "[pe] oricine îmi poartă numele și am creat în slava Mea, pe care l-am modelat și l-am făcut.",
+     "heb": "כֹּל הַנִּקְרָא בִשְׁמִי וְלִכְבוֹדִי בְּרָאתִיו יְצַרְתִּיו אַף־עֲשִׂיתִיו",
+     "translit": "Kol hanikra vișmi velihvodi berativ ietzartiv af-asitiv.",
+     "tokens": [
+      {
+       "t": "[pe] "
+      },
+      {
+       "t": "oricine îmi poartă",
+       "w": "oricine îmi poartă",
+       "heb": "כֹּל הַנִּקְרָא",
+       "translit": "kol hanikra",
+       "strong": "H7121",
+       "pos": "substantiv + verb, nifal participiu",
+       "def_ro": "tot cel ce e chemat cu — literal „tot cel numit”."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "numele",
+       "w": "numele",
+       "heb": "בִשְׁמִי",
+       "translit": "vișmi",
+       "strong": "H8034",
+       "pos": "substantiv + sufix",
+       "def_ro": "numele Meu."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "am creat",
+       "w": "am creat",
+       "heb": "בְּרָאתִיו",
+       "translit": "berativ",
+       "strong": "H1254",
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "l-am creat — verbul bara, primul din tripleta de creație a acestui verset (bara/yatzar/asah), reluând tema centrală din 42:5."
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "slava Mea",
+       "w": "slava Mea",
+       "heb": "וְלִכְבוֹדִי",
+       "translit": "velihvodi",
+       "strong": "H3519",
+       "pos": "substantiv + sufix",
+       "def_ro": "slava/onoarea Mea — reluarea temei din 42:8."
+      },
+      {
+       "t": ", pe care l-am "
+      },
+      {
+       "t": "modelat",
+       "w": "modelat",
+       "heb": "יְצַרְתִּיו",
+       "translit": "ietzartiv",
+       "strong": "H3335",
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "l-am modelat — verbul yatzar, reluat din 43:1."
+      },
+      {
+       "t": " și l-am "
+      },
+      {
+       "t": "făcut",
+       "w": "făcut",
+       "heb": "עֲשִׂיתִיו",
+       "translit": "asitiv",
+       "strong": "H6213",
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "l-am făcut — al treilea verb de creație (după bara și yatzar) folosit pentru același subiect, o triplă accentuare a atenției divine."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּל הַנִּקְרָא בִשְׁמִי וְלִכְבוֹדִי בְּרָאתִיו יְצַרְתִּיו אַף־עֲשִׂיתִיו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πάντας ὅσοι ἐπικέκληνται τῷ ὀνόματί μου· ἐν γὰρ τῇ δόξῃ μου κατεσκεύασα αὐτὸν καὶ ἔπλασα καὶ ἐποίησα αὐτόν.",
+       "greek": true,
+       "translation": "„Pe toți câți sunt chemați cu numele Meu; căci întru slava Mea l-am întocmit și l-am plăsmuit și l-am făcut.”",
+       "note": "LXX pune verbele la singular colectiv ca și ebraica; traducere apropiată."
+      }
+     ],
+     "refs": [
+      "Isaia 49:3",
+      "Efeseni 1:5-6"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Oricine e chemat cu numele Meu și pe care l-am creat pentru slava Mea” — toți drepții, cei chemați cu numele Meu, și tot ce s-a făcut pentru slava Mea. „L-am modelat, chiar l-am făcut” — l-am întocmit cu tot ce-i trebuie și am pregătit totul. Adică: deși au trecut prin exil și necaz, le-am pregătit deja toate cele de trebuință pentru izbăvirea lor."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Oricine e chemat cu numele Meu” — tot Israel, cel chemat cu numele de popor al DOMNULUI. „Și pentru slava Mea” — cel făcut ca să Mă cinstesc și să Mă mândresc cu ei, precum s-a spus: «Israel, cu care Mă voi mândri» (mai jos, cap. 49). „L-am modelat” — adică deja am pregătit pentru el toate cele de trebuință ale izbăvirii, nimic nu lipsește."
+      },
+      {
+       "author": "Eusebiu de Cezareea, despre Isaia 43:7",
+       "text": "Cei chemați cu numele lui Dumnezeu și creați spre slava Sa sunt, în lectura profetică mai largă, toți cei aduși la cunoașterea adevărului — nu doar prin naștere, ci prin chemarea și modelarea lucrării divine, asemenea unui meșter care își desăvârșește lucrul."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Oricine e chemat cu numele Meu” — cel numit cu numele lui Dumnezeu, fiu sau fiică a Lui; sau cu numele lui Hristos, un creștin; oricine Îi aparține DOMNULUI, pe care El îl cheamă cu numele Său. „Căci l-am creat spre slava Mea, l-am modelat, chiar l-am făcut” — toate acestea exprimă puterea și harul lui Dumnezeu în nașterea din nou și întoarcerea poporului Său."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Oricine e chemat cu numele Meu” — explică „fiii Mei și fiicele Mele” de mai sus: toți cei chemați cu numele Meu, care se raportează la Mine fiind poporul DOMNULUI. „Și l-am creat pentru slava Mea” — poporul pe care l-am creat, l-am modelat și l-am făcut pentru slava Mea, ca prin ei să Mi se descopere măreția."
+      }
+     ]
+    },
+    {
+     "v": "43:8",
+     "t": "Eliberând poporul acela, deși are ochi, și pe cel surd, deși are urechi.",
+     "heb": "הוֹצִיא עַם־עִוֵּר וְעֵינַיִם יֵשׁ וְחֵרְשִׁים וְאָזְנַיִם לָמוֹ",
+     "translit": "Hoţi am-ivēr veēinaim ieș veherșim veaznaim lamo.",
+     "tokens": [
+      {
+       "t": "Eliberând",
+       "w": "Eliberând",
+       "heb": "הוֹצִיא",
+       "translit": "hoţi",
+       "strong": "H3318",
+       "pos": "verb, hifil infinitiv",
+       "def_ro": "a scoate, a elibera — aceeași rădăcină lehoţi din 42:7, revenind ca titlu al întregii lucrări de eliberare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul acela",
+       "w": "poporul acela",
+       "heb": "עַם־עִוֵּר",
+       "translit": "am-ivēr",
+       "strong": "H5971",
+       "pos": "substantiv+adjectiv",
+       "def_ro": "popor orb — reluarea temei orbirii din 42:16-19."
+      },
+      {
+       "t": ", deși are "
+      },
+      {
+       "t": "ochi",
+       "w": "ochi",
+       "heb": "וְעֵינַיִם יֵשׁ",
+       "translit": "veēinaim ieș",
+       "strong": "H5869",
+       "pos": "substantiv+particulă existențială",
+       "def_ro": "și are ochi."
+      },
+      {
+       "t": ", și pe "
+      },
+      {
+       "t": "cel surd",
+       "w": "cel surd",
+       "heb": "וְחֵרְשִׁים",
+       "translit": "veherșim",
+       "strong": "H2795",
+       "pos": "adjectiv substantivat, masculin plural",
+       "def_ro": "și surzi."
+      },
+      {
+       "t": ", deși are "
+      },
+      {
+       "t": "urechi",
+       "w": "urechi",
+       "heb": "וְאָזְנַיִם",
+       "translit": "veaznaim",
+       "strong": "H241",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "urechi, [dar nu ascultă] — „lamo” (lor) final subliniază posesia fără folos: au urechi, dar nu le folosesc."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הוֹצִיא עַם־עִוֵּר וְעֵינַיִם יֵשׁ וְחֵרְשִׁים וְאָזְנַיִם לָמוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen (v.7-8 unite în traducere românească).",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐξήγαγον λαὸν τυφλόν, καὶ ὀφθαλμοί εἰσιν ὡσαύτως τυφλοί, καὶ κωφοὶ τὰ ὦτα ἔχοντες.",
+       "greek": true,
+       "translation": "„Și am scos popor orb, și ochi sunt tot orbi, și surzi având urechi.”",
+       "note": "Traducere apropiată de original."
+      }
+     ],
+     "refs": [
+      "Isaia 42:18-19",
+      "Isaia 6:9-10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Să scoată un popor orb” — hoţi, ca lehoţi (a scoate) din exil pe cei ce au fost exilați pentru că au ajuns ca orbii; și aveau ochi, dar n-au văzut."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Să scoată” — să scoată din exil pe cei ce s-au exilat pentru că au ajuns ca orbii; și au ochi, dar n-au văzut fapta DOMNULUI — adică au inimă, dar nu vor să înțeleagă. „Și surzi” — au devenit ca surzii; și au urechi, dar nu ascultă poruncile DOMNULUI."
+      },
+      {
+       "author": "Eusebiu de Cezareea, Comentariu la Isaia 2:24",
+       "text": "Chiar dacă păreau să aibă ochii sufletului și o minte omenească, ei erau totuși orbi față de înșelăciunea idolatriei. Iar ceea ce li s-a întâmplat apoi stă la temelia mesajului lui Isaia: căci foștii orbi și surzi au fost adunați în Biserica lui Dumnezeu, chiar în vreme ce stăpânitorii neamurilor se împotriveau poporului lui Dumnezeu."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Isaia",
+       "text": "„Ca să scot” — scurtimea cuvintelor face sensul oarecum neclar. Unii traduc astfel: «voi scoate pe orb, și pe cel ce are ochi», adică atât pe orbi cât și pe cei ce văd, atât pe surzi cât și pe cei ce aud. Alții explică „orb” ca fiind cei ce au într-adevăr ochi, dar atât de tulburi încât nu pot pătrunde tainele înțelepciunii cerești."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la întreaga Biblie",
+       "text": "Dumnezeu îi cheamă aici pe susținătorii idolatriei să arate ce dovezi ale dumnezeirii falșilor lor zei pot aduce, cum a adus El, prin chiar această izbăvire a evreilor din Babilon, dovada că Dumnezeul lor e singurul Dumnezeu adevărat și viu. Idolii lor au ochi și nu văd, urechi și nu aud, iar cei ce-i fac și se încred în ei le seamănă — la fel spusese și David (Ps. 115:8), la care profetul pare să facă aluzie aici, numindu-i pe idolatri „popor orb, deși are ochi”."
+      }
+     ]
+    },
+    {
+     "v": "43:9",
+     "t": "[De ar fi] toate popoarele adunate laolaltă și toate neamurile reunite, cine dintre ei ar putea vesti asta, cine i-ar fi putut face să audă profețiile timpurii? Să-și aducă martorii și vor fi absolviți! Altfel, să asculte și vor spune: «Adevărat!»",
+     "heb": "כָּל־הַגּוֹיִם נִקְבְּצוּ יַחְדָּו וְיֵאָסְפוּ לְאֻמִּים מִי בָהֶם יַגִּיד זֹאת וְרִאשֹׁנוֹת יַשְׁמִיעֻנוּ יִתְּנוּ עֵדֵיהֶם וְיִצְדָּקוּ וְיִשְׁמְעוּ וְיֹאמְרוּ אֱמֶת",
+     "translit": "Kol-hagoim nikbeţu iahdav veiēasfu leumim mi vahem iaghid zot verișonot iașmiunu itenu ēdēihem veiţdaku veișmeu veiomeru emet.",
+     "tokens": [
+      {
+       "t": "[De ar fi] toate "
+      },
+      {
+       "t": "popoarele",
+       "w": "popoarele",
+       "heb": "הַגּוֹיִם",
+       "translit": "hagoim",
+       "strong": "H1471",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "neamurile, popoarele — reluat din 42:6."
+      },
+      {
+       "t": " adunate "
+      },
+      {
+       "t": "laolaltă",
+       "w": "laolaltă",
+       "heb": "יַחְדָּו",
+       "translit": "iahdav",
+       "strong": "H3162",
+       "pos": "adverb",
+       "def_ro": "împreună, laolaltă."
+      },
+      {
+       "t": " și toate neamurile "
+      },
+      {
+       "t": "reunite",
+       "w": "reunite",
+       "heb": "וְיֵאָסְפוּ",
+       "translit": "veiēasfu",
+       "strong": "H622",
+       "pos": "verb, nifal imperfect",
+       "def_ro": "a fi adunat, strâns."
+      },
+      {
+       "t": ", cine dintre ei ar putea "
+      },
+      {
+       "t": "vesti",
+       "w": "vesti",
+       "heb": "יַגִּיד",
+       "translit": "iaghid",
+       "strong": "H5046",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a vesti, a face cunoscut — verbul din 42:9."
+      },
+      {
+       "t": " asta, cine i-ar fi putut face să "
+      },
+      {
+       "t": "audă",
+       "w": "audă",
+       "heb": "יַשְׁמִיעֻנוּ",
+       "translit": "iașmiunu",
+       "strong": "H8085",
+       "pos": "verb, hifil imperfect + sufix",
+       "def_ro": "a face să audă, a ne face să auzim — aceeași rădăcină ca la 42:9."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "profețiile timpurii",
+       "w": "profețiile timpurii",
+       "heb": "וְרִאשֹׁנוֹת",
+       "translit": "verișonot",
+       "strong": "H7223",
+       "pos": "adjectiv substantivat, feminin plural",
+       "def_ro": "cele dintâi/de mai înainte — reluarea termenului din 42:9."
+      },
+      {
+       "t": "? Să-și aducă "
+      },
+      {
+       "t": "martorii",
+       "w": "martorii",
+       "heb": "עֵדֵיהֶם",
+       "translit": "ēdēihem",
+       "strong": "H5707",
+       "pos": "substantiv + sufix",
+       "def_ro": "martorii lor.",
+       "dict_ro": "Tema „martorilor” domină toată secțiunea 43:9-12: idolii/neamurile nu pot aduce martori credibili pentru profețiile lor, spre deosebire de Israel, chemat explicit „martorii Mei” în v.10."
+      },
+      {
+       "t": " și vor fi "
+      },
+      {
+       "t": "absolviți",
+       "w": "absolviți",
+       "heb": "וְיִצְדָּקוּ",
+       "translit": "veiţdaku",
+       "strong": "H6663",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a fi îndreptățit, găsit drept — aceeași rădăcină tzedek."
+      },
+      {
+       "t": "! Altfel, să asculte și vor "
+      },
+      {
+       "t": "spune",
+       "w": "spune",
+       "heb": "וְיֹאמְרוּ",
+       "translit": "veiomeru",
+       "strong": "H559",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a spune — aceeași rădăcină amar din 42:5, 42:9."
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "Adevărat",
+       "w": "Adevărat",
+       "heb": "אֱמֶת",
+       "translit": "emet",
+       "strong": "H571",
+       "pos": "substantiv, feminin",
+       "def_ro": "adevăr.",
+       "dict_ro": "Emet vine din aceeași rădăcină ca „amen” — adevărul biblic e conceput ca fermitate, statornicie, nu doar corectitudine factuală: ceva „adevărat” e ceva pe care te poți sprijini fără să cedeze."
+      },
+      {
+       "t": "!»"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כָּל־הַגּוֹיִם נִקְבְּצוּ יַחְדָּו וְיֵאָסְפוּ לְאֻמִּים מִי בָהֶם יַגִּיד זֹאת וְרִאשֹׁנוֹת יַשְׁמִיעֻנוּ יִתְּנוּ עֵדֵיהֶם וְיִצְדָּקוּ וְיִשְׁמְעוּ וְיֹאמְרוּ אֱמֶת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πάντα τὰ ἔθνη συνήχθησαν ἅμα, καὶ συναχθήσονται ἄρχοντες ἐξ αὐτῶν· τίς ἀναγγελεῖ ταῦτα; ἢ τὰ ἐξ ἀρχῆς τίς ἀναγγελεῖ ὑμῖν; ἀγαγέτωσαν τοὺς μάρτυρας αὐτῶν καὶ δικαιωθήτωσαν, καὶ εἰπάτωσαν ἀληθῆ.",
+       "greek": true,
+       "translation": "„Toate neamurile s-au adunat laolaltă, și se vor aduna căpetenii dintre ele; cine va vesti acestea? Sau cele dintru început cine vi le va vesti? Să-și aducă martorii lor și să fie îndreptățiți, și să spună adevărul.”",
+       "note": "LXX introduce „căpetenii dintre ele” (ἄρχοντες) unde ebraica are simplu „popoare” — adăugire interpretativă."
+      }
+     ],
+     "refs": [
+      "Isaia 41:21-24",
+      "Isaia 44:6-8"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Toate popoarele adunate” — dacă toate neamurile păgâne s-ar aduna laolaltă, cine dintre ele și dintre profeții lor ar putea vesti lucruri viitoare, sau «cele dintâi», care s-au întâmplat deja, să ni le facă cunoscute, zicând: «noi le-am vestit înainte să se întâmple»? „Să-și aducă martorii” — care au auzit că au profețit despre ele mai dinainte, și vor fi găsiți drepți; dar Eu am martori, căci voi sunteți martorii Mei, că i-am vestit lui Avraam, tatăl vostru, exilurile, și au venit."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Dacă toți păgânii s-ar aduna laolaltă, cine dintre ei ar putea vesti o asemenea [profeție], și oare idolul le-a spus-o? „Și cele dintâi” — sau cele dintâi, care au trecut deja, să ni le vestească, zicând: noi le-am vestit înainte să vină. „Să-și aducă martorii” — adică să aducă martori că a vestit un lucru înainte să vină, și atunci vor fi drepți în cuvintele lor."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Veișmeu” (și vor asculta) — vavul e „vav-ul despărțitor” (leagă alternativa, nu adaugă o acțiune nouă)."
+      },
+      {
+       "author": "Jamieson-Fausset-Brown, Comentariu biblic",
+       "text": "„Cine poate vesti aceasta” — cine dintre ghicitorii idolatri a prezis aceasta, adică faptul că Cirus va fi izbăvitorul lui Israel? „Cele dintâi” — profeții, ca la 42:9. „Să-și aducă martorii” — așa cum fac Eu pe ai Mei (43:10). „Vor fi absolviți” — declarați adevărați în profețiile lor pretinse."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Toate popoarele adunate laolaltă” — [DOMNUL] Se întoarce să Se judece cu închinătorii idolilor. „Nu Mă tem de mulțimea lor” — de aceea vreau ca toți să se adune. „Cine dintre ei ar putea vesti asta” — cine dintre ei vestește lucrurile ascunse. „Și profețiile timpurii” — cine dintre ei ne-a vestit mai dinainte profețiile despre fapte."
+      }
+     ]
+    },
+    {
+     "v": "43:10",
+     "t": "Voi sunteți martorii Mei — rostirea DOMNULUI — și slujitorul Meu pe care l-am ales, ca să știți și să credeți în Mine, și să înțelegeți că Eu sunt Acela; înaintea Mea nimic nu a fost creat de vreun dumnezeu și nici după Mine nu va fi.",
+     "heb": "אַתֶּם עֵדַי נְאֻם־יְהוָה וְעַבְדִּי אֲשֶׁר בָּחָרְתִּי לְמַעַן תֵּדְעוּ וְתַאֲמִינוּ לִי וְתָבִינוּ כִּי־אֲנִי הוּא לְפָנַי לֹא־נוֹצַר אֵל וְאַחֲרַי לֹא יִהְיֶה",
+     "translit": "Atem ēdai neum-ADONAI veavdi așer bahati lemaan tēdeu vetaaminu li vetavinu ki-ani hu lefanai lo-noţar Ēl veaharai lo ihie.",
+     "tokens": [
+      {
+       "t": "Voi",
+       "w": "Voi",
+       "heb": "אַתֶּם",
+       "translit": "atem",
+       "strong": "H859",
+       "pos": "pronume, persoana II plural",
+       "def_ro": "voi."
+      },
+      {
+       "t": " sunteți "
+      },
+      {
+       "t": "martorii Mei",
+       "w": "martorii Mei",
+       "heb": "עֵדַי",
+       "translit": "ēdai",
+       "strong": "H5707",
+       "pos": "substantiv + sufix",
+       "def_ro": "martorii Mei — punctul culminant al temei martorilor din v.9."
+      },
+      {
+       "t": " — "
+      },
+      {
+       "t": "rostirea DOMNULUI",
+       "w": "rostirea DOMNULUI",
+       "heb": "נְאֻם־יְהוָה",
+       "translit": "neum-ADONAI",
+       "strong": "H5002",
+       "pos": "substantiv compus",
+       "def_ro": "rostirea/cuvântarea DOMNULUI — formulă profetică de sigilare, ca o „semnătură” divină pusă pe mesaj."
+      },
+      {
+       "t": " — și "
+      },
+      {
+       "t": "slujitorul Meu",
+       "w": "slujitorul Meu",
+       "heb": "וְעַבְדִּי",
+       "translit": "veavdi",
+       "strong": "H5650",
+       "pos": "substantiv + sufix",
+       "def_ro": "slujitorul Meu — reluarea titlului din 42:19."
+      },
+      {
+       "t": " pe care l-am "
+      },
+      {
+       "t": "ales",
+       "w": "ales",
+       "heb": "בָּחָרְתִּי",
+       "translit": "bahati",
+       "strong": "H977",
+       "pos": "verb, qal perfect",
+       "def_ro": "a alege."
+      },
+      {
+       "t": ", ca să "
+      },
+      {
+       "t": "știți",
+       "w": "știți",
+       "heb": "תֵּדְעוּ",
+       "translit": "tēdeu",
+       "strong": "H3045",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a ști, a cunoaște — aceeași rădăcină iada din 42:16, 42:25."
+      },
+      {
+       "t": " și să "
+      },
+      {
+       "t": "credeți",
+       "w": "credeți",
+       "heb": "וְתַאֲמִינוּ",
+       "translit": "vetaaminu",
+       "strong": "H539",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "a crede, a avea încredere fermă — rădăcina amen.",
+       "dict_ro": "Din aceeași rădăcină vine „amen” — ideea de fermitate, stabilitate, ceva pe care te poți sprijini. A „crede” în ebraică nu e doar acceptare intelectuală, ci sprijinire activă, ca și cum te-ai rezema de un pilon ferm."
+      },
+      {
+       "t": " în Mine, și să "
+      },
+      {
+       "t": "înțelegeți",
+       "w": "înțelegeți",
+       "heb": "וְתָבִינוּ",
+       "translit": "vetavinu",
+       "strong": "H995",
+       "pos": "verb, qal imperfect",
+       "def_ro": "a înțelege, a pricepe."
+      },
+      {
+       "t": " că Eu sunt "
+      },
+      {
+       "t": "Acela",
+       "w": "Acela",
+       "heb": "הוּא",
+       "translit": "hu",
+       "strong": "H1931",
+       "pos": "pronume, persoana III",
+       "def_ro": "El, Acela — folosit ca titlu divin absolut („Eu sunt Acela/El”, ani hu), formulă de auto-afirmare unică, reluată des în Isaia 40-48 (cf. Isaia 41:4, 43:13, 46:4)."
+      },
+      {
+       "t": "; înaintea Mea nimic nu a fost "
+      },
+      {
+       "t": "creat",
+       "w": "creat",
+       "heb": "נוֹצַר",
+       "translit": "noţar",
+       "strong": "H3335",
+       "pos": "verb, nifal perfect",
+       "def_ro": "a fi modelat/format — aceeași rădăcină yatzar din 43:1,7.",
+       "dict_ro": "Verbul revine o ultimă dată, încheind inelul tematic al Creației deschis în 42:5: nu doar Israel, ci absolut orice „dumnezeu” rival ar fi trebuit să fie „modelat” de cineva anterior lui — imposibil, căci DOMNUL e singurul necreat."
+      },
+      {
+       "t": " de vreun "
+      },
+      {
+       "t": "dumnezeu",
+       "w": "dumnezeu",
+       "heb": "אֵל",
+       "translit": "Ēl",
+       "strong": "H410",
+       "pos": "substantiv, masculin",
+       "def_ro": "dumnezeu, ființă puternică — aceeași rădăcină El din 42:5, aici la forma cea mai generică, negată."
+      },
+      {
+       "t": " și nici după Mine nu va fi."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אַתֶּם עֵדַי נְאֻם־יְהוָה וְעַבְדִּי אֲשֶׁר בָּחָרְתִּי לְמַעַן תֵּדְעוּ וְתַאֲמִינוּ לִי וְתָבִינוּ כִּי־אֲנִי הוּא לְפָנַי לֹא־נוֹצַר אֵל וְאַחֲרַי לֹא יִהְיֶה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "γένεσθέ μοι μάρτυρες, κἀγὼ μάρτυς, λέγει Κύριος ὁ Θεός, καὶ ὁ παῖς, ὃν ἐξελεξάμην, ἵνα γνῶτε καὶ πιστεύσητέ μοι καὶ συνῆτε ὅτι ἐγώ εἰμι· ἔμπροσθέν μου οὐκ ἐγένετο ἄλλος Θεός, καὶ μετ᾽ ἐμὲ οὐκ ἔσται.",
+       "greek": true,
+       "translation": "„Fiți-Mi Mie martori, și Eu martor, zice Domnul Dumnezeu, și slujitorul pe care l-am ales, ca să cunoașteți și să-Mi credeți și să înțelegeți că Eu sunt; înaintea Mea n-a fost alt Dumnezeu, și după Mine nu va fi.”",
+       "note": "LXX adaugă „și Eu martor” (κἀγὼ μάρτυς), o dublare absentă din ebraică, întărind ideea de mărturie reciprocă."
+      }
+     ],
+     "refs": [
+      "Isaia 44:6",
+      "Isaia 44:8",
+      "Apocalipsa 1:8",
+      "Ioan 8:58"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și slujitorul Meu” — Iacov. „Pe care l-am ales” — el însuși va mărturisi că i-am promis când mergea în Aram-Naharaim, și Mi-am ținut promisiunea. „Ca să știți etc.” — toate acestea le-am făcut ca să vă puneți la inimă să Mă cunoașteți."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Voi sunteți martorii Mei” — dar Eu am martori, căci voi, Israel, sunteți martorii Mei, și robul Meu, profetul pe care l-am ales, e și el martor, că am vestit căderea lui Sanherib mai dinainte să vină. „Ca să știți” — din cele dintâi veți cunoaște toate cele de pe urmă, că așa va fi. „Și să credeți în Mine” — că voi împlini spusa Mea. „Și să înțelegeți că Eu sunt Acela” — din aceea [veți înțelege] că nu e nimeni care să știe viitorul ca Mine, veți înțelege că Eu sunt singurul și nu mai există alt dumnezeu. „Înaintea Mea n-a fost creat dumnezeu” — adică: înainte să creez Eu făpturile, n-a fost creată nicio făptură de vreun alt dumnezeu în afară de Mine, iar după ce am creat făpturile, nu va fi creată nicio făptură de vreun alt dumnezeu, căci nu există alt dumnezeu în afară de Mine."
+      },
+      {
+       "author": "Origen, Dialogul cu Heraclide",
+       "text": "Ce vor deci să spună dumnezeieștile Scripturi, de exemplu aici: «Înaintea Mea n-a fost Dumnezeu, și după Mine nu va fi» și «Eu sunt, și nu este alt Dumnezeu afară de Mine»? Să nu presupui că în aceste rostiri unitatea se aplică Dumnezeului universului... separat de Hristos, și, desigur, nu doar lui Hristos separat de Dumnezeu. Ci să vorbim despre aceasta așa cum Însuși Iisus a învățat: «Eu și Tatăl una suntem.»"
+      },
+      {
+       "author": "Teodoret al Cirului, Comentariu la Isaia 13:43.10-11",
+       "text": "Dacă vrei să Mă ai martor la judecata ta, fii tu primul care mărturisește adevărul Meu. În acest caz, nu voi fi singur în a mărturisi, ci e și robul Meu ales. Nu e vorba aici nici de Moise, nici de alt profet, ci de Hristos, Stăpânul nostru. Și Îl numește «rob» nu ca Dumnezeu, ci ca om — căci ca om L-a numit «ales»."
+      },
+      {
+       "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+       "text": "„Voi sunteți martorii Mei” — voi, neamurile despre care s-a spus «toate popoarele s-au adunat laolaltă», care ați auzit ce am vestit despre Cirus, veți fi și voi martorii Mei. „Și slujitorul Meu” — Israel, căci lor le-au fost spuse și încredințate profețiile. „Ca să știți” — astfel încât să puteți ști că Eu sunt Dumnezeu, căci disputa era dacă El e Dumnezeu, sau dacă idolii popoarelor sunt dumnezei, iar acum vor înțelege că El e Dumnezeu."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

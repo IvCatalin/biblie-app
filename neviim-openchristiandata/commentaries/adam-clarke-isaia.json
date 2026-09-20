@@ -1,0 +1,887 @@
+{
+ "meta": {
+  "id": "adam-clarke",
+  "title": "Adam Clarke Bible Commentary",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "schema_type": "commentary",
+  "source_url": "https://bible.helloao.org/api/c/adam-clarke/ISA/",
+  "source_format": "JSON (HelloAO Bible API)",
+  "book_scope": "Doar capitolele relevante Haftarot: 1,6,7,8,9,10,11,12,27,28,29,40,41,42,43,44,49,50,51,52,54,55,56,57,58,60,61,62,63,66",
+  "download_date": "2026-09-19",
+  "notes": "Extras restrans (nu cartea completa) - doar capitolele folosite de Haftarot catalogate."
+ },
+ "data": [
+  {
+   "entry_id": "adam-clarke.ISA.54.1",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 54,
+   "verse_range": "1-3",
+   "commentary_text": "Sing, O barren, thou that didst not bear \"Shout for joy, O thou barren, that didst not bear\" - The Church of God under the Old Testament, confined within the narrow bounds of the Jewish nation, and still more so in respect of the very small number of true believers, and which sometimes seemed to be deserted of God her husband, is the barren woman, that did not bear, and was desolate. She is exhorted to rejoice, and to express her joy in the strongest manner, on the reconciliation of her husband, (see Isa 54:6), and on the accession of the Gentiles to her family. The converted Gentiles are all along considered by the prophet as a new accession of adopted children, admitted into the original Church of God, and united with it. See Isa 49:20, Isa 49:21. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.54.4",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 54,
+   "verse_range": "4-6",
+   "commentary_text": "For thou shalt forget the shame of thy youth - That is, \"The bondage of Egypt: widowhood, the captivity of Babylon.\" - Secker. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.54.7",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 54,
+   "verse_range": "7",
+   "commentary_text": "For a small moment \"In a little anger\" - So the Chaldee and Syriac, either reading רגז regaz, for רגע rega; or understanding the latter word as meaning the same with the former, which they both make use of. See Psa 30:5; Psa 35:20, in the Septuagint, where they render רגע rega by οργη, anger. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.54.8",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 54,
+   "verse_range": "8",
+   "commentary_text": "I hid my face from thee for a moment - The word רגע rega is omitted by the Septuagint, Syriac, and two MSS. of Kennicott's, and two of De Rossi's. It seems to embarrass rather than to help the sentence. Forte reponi debet pro שצף shetseph, quod potest a קצף ketseph errore scribae originem duxisse. \"Perhaps it ought to be substituted for שצף shetseph, an error probably made by some scribe from its similarity to קצף ketseph.\" - Secker\nThy Redeemer - גאלך goalech: but for this word three of De Rossi's MSS. have מרחמך merachamech, thy commiserator. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.54.9",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 54,
+   "verse_range": "9-10",
+   "commentary_text": "For this is as the waters of Noah unto me \"The same will I do now, as in the days of Noah\" - כימי kimey, in one word, in a MS., and some editions; and so the Syriac, Chaldee, Vulgate, Symmachus, Theodotion, Abarbanel, Sal. ben Melec, and Kimchi acknowledge that their copies vary in this place.\nIt is certain that these two words כי מי ki mey, were written formerly as one. Taken as two כי מי ki mey, they signify for as the waters - when as one, כימי kimey, they signify as the days. This latter reading is found in about four of Kennicott's and De Rossi's MSS. In one of my own it appears to have been intended as one word: but he who added the points, which are by a much later hand than the MS. itself, has pointed the letters so as to make the two words which are commonly found in the text. For the waters, Symmachus, Theodotion, the Syriac, Vulgate, and Arabic have days. The former seems to make the best sense; and the ancient Versions, except the Septuagint, support it. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.54.11",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 54,
+   "verse_range": "11-14",
+   "commentary_text": "Behold, I will lay thy stones \"Behold, I lay thy stones\" - These seem to be general images to express beauty, magnificence, purity, strength, and solidity, agreeably to the ideas of the eastern nations; and to have never been intended to be strictly scrutinized, or minutely and particularly explained, as if they had each of them some precise, moral, or spiritual meaning. Tobit, in his prophecy of the final restoration of Israel, describes the New Jerusalem in the same oriental manner: \"For Jerusalem shall be built up with sapphires, and emeralds, and precious stones; thy walls, and towers, and battlements, with pure gold. And the streets of Jerusalem shall be paved with beryl, and carbuncle, and stones of ophir.\" Tob. 13:16, 17. Compare also Rev 21:18-21. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.54.15",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 54,
+   "verse_range": "15+",
+   "commentary_text": "Shall fall for thy sake \"Shall come over to thy side\" - For יפול yippol, twenty-eight MSS. (eight ancient) have יפל yipal, in its more common form. For the meaning of the word in this place, see Jer 37:13.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.55.1",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 55,
+   "verse_range": "1",
+   "commentary_text": "Ho, every one that thirsteth - \"Water,\" says Zimchi, \"is a metaphor for the law and wisdom: as the world cannot subsist without water, so it is impossible that it can subsist without wisdom. The law is also compared to wine and milk: to wine because wine rejoiceth the heart, as it is written: 'The statutes of the Lord are right, rejoicing the heart,' Psa 19:8. It is compared also to milk, because milk is the subsistence of the child; so are the words of the law the nourishment of his soul who walks in the Divine teaching, and grows up under it.\"\nCome, buy wine and milk - In ancient times our forefathers used what is now called the old third person singular, ending in eth, for the imperative mood. We have a fine example of His in the first verses of this chapter. I shall present them as they stand in my old MS. Bible: - Alle gee thirstinge cummeth to wateris: and gee that han not sylver, goth forth and bieth, and etith. Cummeth, bieth without silver, and without eny chaungyng, wyn and mylc. Heerith gee, heering me and etith gode thinge, and deliten schal in fattnesse your soule. Bowith in your eie and cummeth to mee, heerith and liven schal your soule. And I shall smyten with gou, everlastynge covenant, the faithful mercies of David. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.55.2",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 55,
+   "verse_range": "2",
+   "commentary_text": "Wherefore do ye spend - Why should ye be so zealously attached to a doctrine from which your souls derive neither comfort nor nourishment? \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.55.3",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 55,
+   "verse_range": "3-5",
+   "commentary_text": "I will make an everlasting covenant - Hebrews אכרתה לכם ברית עולם echrethah lachem berith olam, \"I will cut the old or everlasting covenant sacrifice with you.\" That covenant sacrifice which was pointed out of old from the very beginning; and which is to last to the consummation of ages; viz., the Lamb of God that was slain from the foundation of the world.\nThe sure mercies of David - That is, says Kimchi, \"The Messiah,\" called here David; as it is written, \"David my servant shall be a prince over you.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.55.6",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 55,
+   "verse_range": "6-8",
+   "commentary_text": "Seek ye the Lord while he may be found - Rab. David Kimchi gives the true sense of this passage: \"Seek ye the Lord, because he may be found: call upon him, because he is near. Repent before ye die, for after death there is no conversion of the soul.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.55.9",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 55,
+   "verse_range": "9-11",
+   "commentary_text": "For as the heavens are higher - I am persuaded that כ caph, the particle of comparison, is lost in this place, from the likeness of the particle כי ki, immediately preceding it. So Houbigant and Secker. And their remark is confirmed by all the ancient Versions, which express it; and by the following passage of Psa 103:11, which is almost the same: - \n\nהארץ על שמים כגבה כי haarets al shamayim chigboah ki יראיו על חסדו גבר yereaiv al chasdo gabar \n\"For as the heavens are high above the earth,\nSo high is his goodness over them that fear him.\"\nWhere, by the nature of the sentence, the verb in the second line ought to be the same with that in the first; גבה gabah, not גבר gabar: so Archbishop Secker conjectured; referring however to Psa 117:2. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.55.12",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 55,
+   "verse_range": "12",
+   "commentary_text": "The mountains and the hills - These are highly poetical images to express a happy state attended with joy and exultation.\nIpsi laetitia voces ad sidera jactant\nIntonsi montes: ipsae jam carmina rupes,\nIpsa sonant arbusta.\nVirg. Ecl. 5:61.\n\"The mountain tops unshorn, the rocks rejoice;\nThe lowly shrubs partake of human voice.\"\nDryden. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.55.13",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 55,
+   "verse_range": "13+",
+   "commentary_text": "Instead of the thorn \"Instead of the thorny bushes\" - These likewise (see note on Isa 55:12, and on Isa 54:11 (note)) are general poetical images, expressing a great and happy change for the better. The wilderness turned into a paradise, Lebanon into Carmel: the desert of the Gentiles watered with the heavenly snow and rain, which fail not to have their due effect, and becoming fruitful in piety and righteousness: or, as the Chaldee gives the moral sense of the emblem, \"instead of the wicked shall arise the just; and instead of sinners, such as fear to sin.\" Compare Isa 35:1, Isa 35:2; Isa 41:19.\nAnd instead of - The conjunction ו vau is added, ותחת vetachath, in forty-five MSS. of Kennicott's several of De Rossi's, and five editions; and it is acknowledged by all the ancient Versions. The Masoretes therefore might have safely received it into the text, and not have referred us for it to the margin. But this is no uncommon case with them. Even in our own Version the best reading is very often found in the margin.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.56.2",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 56,
+   "verse_range": "2-4",
+   "commentary_text": "That keepeth the Sabbath from polluting it - Kimchi has an excellent note here. \"The Sabbath is sanctified when it is distinguished in dignity; and separated from other days.\n1. As to the body, in meat, drink, and clean clothing.\n2. As to the soul, that it be empty of worldly occupations, and be busily employed in the words of the law and wisdom, and in meditation on the works of the Lord.\"\nThe rabbins say, \"Jerusalem had never been destroyed, had not the Sabbaths been profaned in it.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.56.5",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 56,
+   "verse_range": "5",
+   "commentary_text": "I will give them an everlasting name - For לו lo, him, in the singular, it is evident that we ought to read למו lamo, them, in the plural: so read the Septuagint, Syriac, Chaldee, and Vulgate. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.56.6",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 56,
+   "verse_range": "6",
+   "commentary_text": "The sons of the stranger - The Gentiles.\nThat join themselves to the Lord - Who shall enter into the Christian covenant by baptism and faith in Christ, as the Jews and proselytes did by circumcision.\nTo serve him - To live according to the Gospel, and ever do that which is right in the sight of the Lord.\nTo love the name of the Lord - The name of Jesus, the Christ, the Savior of sinners, the Anointed of God, and the Giver of the Holy Spirit to his followers.\nTo be his servants - To worship no other God but Jehovah, and to trust in none for salvation but his Christ.\nThat keepeth the Sabbath - That observes it as a type of the rest that remains for the people of God.\nAnd taketh hold of my covenant - בבריתי biberithi, \"of my covenant sacrifice;\" as without this he can do nothing good; and without it nothing can be acceptable to the infinite majesty of the Most High. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.56.7",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 56,
+   "verse_range": "7-8",
+   "commentary_text": "Shall be accepted - A word is here lost out of the text: it is supplied from the Septuagint, יהיו yihyu, εσονται, \"they shall be.\" - Houbigant. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.56.9",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 56,
+   "verse_range": "9",
+   "commentary_text": "All ye beasts of the field - Here manifestly begins a new section. The prophet in the foregoing chapters, having comforted the faithful Jews with many great promises of God's favor to be extended to them, in the restoration of their ruined state, and in the enlargement of his Church by the admission of the Gentiles; here on a sudden makes a transition to the more disagreeable part of the prospect, and to a sharp reproof of the wicked and unbelievers; and especially of the negligent and faithless governors and teachers, of the idolaters and hypocrites, who would still draw down his judgments upon the nation. Probably having in view the destruction of their city and polity by the Chaldeans, and perhaps by the Romans. The same subject is continued in the next chapter; in which the charge of corruption and apostasy becomes more general against the whole Jewish Church. Some expositors have made great difficulties in the 9th verse of this chapter, where there seems to be none. It is perfectly well explained by Jeremiah, Jer 12:7, Jer 12:9, where, having introduced God declaring his purpose of punishing his people, by giving them up as a prey to their enemies the Chaldeans, a charge to these his agents is given in words very nearly the same with those of Isaiah in this place: - \n\"I have forsaken my house; I have deserted my heritage;\nI have given up the beloved of my soul into the hands of her enemies. - \nCome away, be gathered together, all ye beasts of the field;\nCome away to devour.\"\nAll ye beasts in the forest \"All ye beasts of the forest\" - Instead of ביער baiyaar, three MSS. have יער yaar, without the preposition; which seems to be right, and is confirmed by all the ancient Versions. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.56.10",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 56,
+   "verse_range": "10",
+   "commentary_text": "His watchmen are blind - Kimchi observes, \"The flock is intrusted to the care of these watchmen. The wild beasts come; these dogs bark not; and the wild beasts devour the flock. Thus they do not profit the flock. Yea, they injure it; for the owner trusts in them, that they will watch and be faithful; but they are not. These are the false teachers and careless shepherds.\"\nDumb dogs, they cannot bark - See note on Isa 62:6.\nSleeping \"Dreamers\" - הזים hozim, ενυπνιαζομενοι, Septuagint. This seems to be the best authority for the meaning of this word, which occurs only in this place: but it is to be observed, that eleven MSS. of Kennicott's and De Rossi's, and four editions, have חזים chazim, seers, or those who see; and so the Vulgate seems to have read, videntes vana, \"seeing vain things.\"\nLoving to slumber - לנום lanum: but six of Kennicott's and seven of De Rossi's MSS. read לנוס lanus, to fly, \"to change their residence:\" but what connection such reading can have with the sense of the passage, I cannot discern. What is taken for ס samech here is, I have no doubt, a narrow formed final ם mem, which has been mistaken for the above. Many instances occur in my own MSS., where the final ם mem is similar to the samech; and yet no such change was intended by the scribe. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.56.11",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 56,
+   "verse_range": "11",
+   "commentary_text": "Greedy dogs - Insatiably feeding themselves with the fat, and clothing themselves with the wool, while the flock is scattered, ravaged, and starved! O what an abundance of these dumb and greedy dogs are there found hanging on and prowling about the flock of Christ! How can any careless, avaricious, hireling minister read this without agitation and dismay? \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.56.12",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 56,
+   "verse_range": "12+",
+   "commentary_text": "I will fetch wine \"Let us provide wine\" - For אקחה ekchah, first person singular, an ancient MS. has נקחה nikchah, first person plural; and another ancient MS. has אק ak upon a rasure. So the Syriac, Chaldee, and Vulgate render it. The spirit of this Epicurean sentiment is this: Let us indulge ourselves in the present time to the utmost, and instead of any gloomy forebodings of the future, let us expect nothing but increasing hilarity for every day we shall live. Thus they,\n\"Counting on long years of pleasure here,\nAre quite unfurnished for the world to come.\"\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.1",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "1",
+   "commentary_text": "The righteous perisheth - הצדק אבד hatstsadik abad. There is an emphasis here which seems intended to point out a particular person. See below. Perisheth - As the root אבד abad signifies the straying of cattle, their passing away from one pasture to another, I feel inclined to follow the grammatical meaning of the word \"perish,\" pereo. So the Vulgate, justus periit, from per, By or Through, and eo, to Go. In his death the righteous man may be said to have passed through life, and to have passed by men, i.e., gone or passed before them into the eternal world. A similar mode of speech is used by our Saxon ancestors to express death: he went out of sight; and he went away; and to fare forth, to die.\nThere are very few places in Isaiah where Jesus Christ is not intended; and I am inclined to think that He is intended here, That Just One; and perhaps Stephen had this place in view, when he thus charged the Jews, \"Ye denied τον ἁγιον και δικαιον, that Holy and Just One,\" Act 3:14. That his death was not laid to heart by the wicked Jewish people, needs no proof.\nMerciful men - If the first refers to Christ, this may well refer to the apostles. and to others of the primitive Christians, who were taken away, some by death and martyrdom, and others by a providential escape from the city that they knew was devoted to destruction.\nThe evil to come - That destruction which was to come upon this disobedient people by the Romans. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.2",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "2-5",
+   "commentary_text": "He shalt enter into peace \"He shall go in peace\" - יבוא שלום yabo shalom; the expression is elliptical, such as the prophet frequently uses. The same sense is expressed at large and in full terms, Gen 15:15 : ואתה תבא אל אבותיך בשלום veattah libbo al abotheycha beshalom, \"and thou shalt go to thy fathers in peace.\"\nThey shall rest in their beds, each one walking in his uprightness \"He shall rest in his bed; even the perfect man\" - This obscure sentence is reduced to a perfectly good sense, and easy construction by an ingenious remark of Dr. Durell. He reads ינוח על משכבו תם yanuach al mishcabo tam, \"the perfect man shall rest in his bed.\" Two MSS. (one of them ancient) have ינוח yanuach, singular; and so the Vulgate renders it, requiescat, \"he shall rest.\" The verb was probably altered to make it plural, and so consistent with what follows after the mistake had been made in the following words, by uniting משכבו mishcabo and תם tam into one word. See Merrick's Annotations on the Psalms, Addenda; where the reader will find that J. S. Moerlius, by the same sort of correction, and by rescuing the adjective תם tam, which had been swallowed up in another word in the same manner, has restored to a clear sense a passage before absolutely unintelligible: - \n\nלמו חרצבות אין כי lemo chartsubboth ein ki :אולם ובריא תם ulam ubari tham \n\"For no distresses happen to them;\nPerfect and firm is their strength.\"\nPsa 73:4.\nTo follow on my application of this to our Lord: - He, the Just One, shall enter into peace - the peaceable, prosperous possession of the glorious mediatorial kingdom. They shall rest upon their beds - the hand of wrong and oppression can reach these persecuted followers of Christ no more. (But see below.) The perfect man walking in his uprightness. This may be considered as a general declaration. The separated spirit, though disunited from its body walking in conscious existence in the paradise of God, reaping the fruit of righteousness. The word which we render their beds, משכבותם mishkebotham, the learned bishop supposes to be two words; and to be compounded of משכבו mishkabo, his bed, and תם tam, the upright or perfect man. This is the reading both of the Syriac and Vulgate, and it is favored by the Chaldee: and one of De Rossi's MS. has משכבו mishkabo, his bed, without the word תם tam, which has been added by a later hand. Bishop Lowth, as we have seen, adopts this separation of the word and for ינוחו yanuchu, they shall rest, reads ינוה yanuach, he shall rest, which is supported by two of Dr. Kennicott's MSS., and by the Vulgate, Septuagint, and Arabic. The word תם tam, taken from משכבותם mishkebotham, should begin the latter clause of the verse; and then the interpolated words, each one, which our translators supplied, may be very well spared. The verse may be then read and paraphrased thus; - \nHe shall enter into peace: he shall rest upon his bed;\nThe perfect man walking in his uprightness.\nThe bed must signify the grave; the walking in uprightness after death, the conscious existence of the happy spirit, and its eternal progression in happiness and perfection: נכחו nechocho, straight before him; proceeding into the unlimited extent of eternal glory, increasing in happiness, and increasing in perfection.\nMy old MS. Bible translates very nervously: - \nThe rigtwise man perishith,\nAnd there is not that bethinke in his herte.\nAnd men of mercy ben gedrid,\nFor there is not that understonde:\nFrom the face of malice,\nGedreid is the rigtwise.\nCumm pese: reste it in his bed\nThat geede in his rigt rewlinge.\nIt has been often remarked that, previously to the execution of God's judgments upon a wicked place, he has removed good men from it, that they might not suffer with the wicked. When great and good men are removed by death, or otherwise, from any place, the remaining inhabitants have much cause to tremble. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.6",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "6-7",
+   "commentary_text": "Among the smooth stones of the stream \"Among the smooth stones of the valley\" - The Jews were extremely addicted to the practice of many superstitious and idolatrous rites, which the prophet here inveighs against with great vehemence. Of the worship of rude stones consecrated, there are many testimonials of the ancients. They were called βαιτυλοι and βαιτυλια· probably from the stone which Jacob erected at Beth-el, pouring oil upon the top of it. This practice was very common in different ages and places. Arnobius, lib. i., gives an account of his own practice in this respect before he became a Christian: Si quando conspexeram lubricatum lapidem, et ex olivi unguine sordidatum; tanquam inesset vis praesens, adulabar, affabar, et beneficia poscebam nihil sentiente de trunco. \"When I have met with a smooth stone, smeared with oil, supposing a spiritual power to be connected with it, I worshipped it, paid my addresses to it, and requested blessings,\" etc. Clemens Alex., Strom. lib. vii., speaks of a worshipper of every smooth stone in a proverbial way, to denote one given up to superstition. And accordingly Theophrastus has marked this as one strong feature in the character of the superstitious man: Και των λιπαρων λιθων των εν ταις τριοδοις παριων, εκ της ληκυθου ελαιου καταχειν, και επι γονατα πεσων και προσκυνησας απαλλαττεσθαι. \"Passing by the anointed stones in the streets, he takes out his phial of oil, and pours it on them; and having fallen on his knees, and made his adorations, he departs. \"Kimchi says: \"When they found a beautiful polished stone in a brook or river, they paid Divine adoration to it.\" This idolatry is still prevalent among the Hindoos. The stone which is the object of their adoration is called salgram. They are found about eighty miles from the source of the river Sown, in the viceroyalty of Bahar, on the coast of Bengal. Ayeen Akbery vol. 2 p. 29. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.8",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "8",
+   "commentary_text": "Behind the doors also and the posts hast thou set up thy remembrance \"Behind the door, and the door-posts, hast thou set up thy memorial\" - That is, the image of their tutelary gods, or something dedicated to them; in direct opposition to the law of God, which commanded them to write upon the door-posts of their house, and upon their gates, the words of God's law; Deu 6:9; Deu 11:20. If they chose for them such a situation as more private, it was in defiance of a particular curse denounced in the law against the man who should make a graven or a molten image, and put it in a secret place; Deu 27:15. An ancient MS., with another, has אחר achar, without the conjunction ו vau, and. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.9",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "9",
+   "commentary_text": "And thou wentest to the king with ointment \"And thou hast visited the king with a present of oil\" - That is, the king of Assyria, or Egypt. Hosea, chap, Hos 12:1, reproaches the Israelites for the same practice: - \n\"They make a covenant with Assyria,\nAnd oil is carried to Egypt.\"\nIt is well known, that in all parts of the east, whoever visits a great person must carry him a present. \"It is counted uncivil,\" says Maundreg, p. 26, \"to visit in this country without an offering in hand. All great men expect it as a tribute due to their character and authority; and look upon themselves as affronted, and indeed defrauded, when the compliment is omitted.\" Hence שור shur, to visit a person, is equivalent to making him a present; and תשורה teshurah signifies a present made on such occasions; as our translators have rightly rendered it, Sa1 9:7; on which Jarchi says Menachem exponit תשורה teshurah, quod significat oblationem sive manus, ut aliquis aspiciat faciem regis, aut alicuius magnatis. \"Menachem expounds תשורה teshurah of an offering or gift which is presented in order to be admitted into the presence of the king or some great man.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.10",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "10",
+   "commentary_text": "Yet saidst thou not, There is no hope \"Thou hast said, There is hope\" - In one of the MSS. at Koningsberg, collated by Lilienthal, the words לא אמרת lo amarta, are left in the text unpointed, as suspected; and in the margin the corrector has written ותאמרי vattomari. Now if we compare Jer 2:25 and Jer 18:12, we shall find that the subject is in both places quite the same with this of Isaiah; and the sentiment expressed, that of a desperate resolution to continue at all hazards in their idolatrous practices; the very thing that in all reason we might expect here. Probably, therefore, the latter is the true reading in this place. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.11",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "11",
+   "commentary_text": "For laid it to thy heart \"Nor revolved it in thy hand\" - Eight MSS., (four ancient), and the two oldest editions, with another, add the conjunction ו vau, ולא velo: which is confirmed by all the ancient Versions.\nEven of old \"And winked\" - For ומעולם umeolam, which makes no good sense or construction in this place, twenty-three MSS. (seven ancient) and three editions have מעלם, (to be thus pointed מעלם malim); Παρορω, Septuagint; quasi non videns, \"as if not seeing,\" Vulgate. See Psa 10:1. The truth of this reading, so confirmed, admits of no doubt. In one of my own MSS. the ו vau has been written, but afterwards struck out. Is it not because I was silent, and winked? \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.12",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "12",
+   "commentary_text": "Thy righteousness \"My righteousness\" - For צדקתך tsidkathech, Thy righteousness, the Syriac, Septuagint, MSS. Alex. and Pachom., and 1. D. II., and Marchal. and οἱ Γ, and the Arabics read צדקי tsidki, My righteousness. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.13",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "13",
+   "commentary_text": "Let thy companies deliver thee \"Let thine associates deliver thee\" - Thirty-nine MSS. (ten ancient) of Dr. Kennicott's, and two of my own, and the two oldest editions have יצילכו yatstsiluchu, plural. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.14",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "14",
+   "commentary_text": "And shall say \"Then will I say\" - ואמר vaomer, to be pointed as the first person future. They are the words of God, as it is plain from the conclusion of the verse; my people, עמי ammi. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.15",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "15",
+   "commentary_text": "For thus saith the high and lofty One \"For thus saith Jehovah, the high and the lofty\" - A MS. adds יהוה Yehovah, after אמר amar, and edition Prag. 1518. So the Septuagint, Alex., and Arabic. An ancient MS. adds יה Yah.\nWith him also that is of a contrite and humble spirit - Twelve MSS. have את eth, without the conjunction ו vau. Pro ואת veeth, forte legendum ואראה veerah: confer Psa 113:5, et Psa 138:6. - Secker. \"We should perhaps read ואראה veerah, instead of ואת veeth. See Psa 113:5, and Psa 138:6.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.16",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "16",
+   "commentary_text": "For I will not contend for ever - The learned have taken a great deal of pains to little purpose on the latter part of this verses which they suppose to be very obscure. After all their labors upon it, I think the best and easiest explication of it is given in the two following elegant passages of the Psalms, which I presume are exactly parallel to it, and very clearly express the same sentiment.\n\"But he in his tender mercy will forgive their sin\nAnd will not destroy them;\nYea, oftentimes will he turn away his wrath,\nAnd will not rouse up his indignation:\nFor he remembereth that they are but flesh,\nA breath that passeth, and returneth not.\"\nPsa 78:38, Psa 78:39.\n\"He will not always contend\nNeither will he for ever hold his wrath:\nAs a father yearneth towards his children,\nSo is Jehovah tenderly compassionate towards them\nthat fear him For he knoweth our frame;\nHe remembereth that we are but dust.\"\nPsa 103:9, Psa 103:13, Psa 103:14.\nIn the former of these two passages the second line seems to be defective both in measure and sense. I suppose the word אותם otham, then is lost at the end; which seems to be acknowledged by the Chaldee and Vulgate, who render as if they had read ולא ישחית אותם velo yaschith otham. - L.\nFor the spirit - רוח ruach, the animal life.\nAnd the souls - נשמות neshamoth, the immortal spirits. The Targum understands this of the resurrection. I will restore the souls of the dead, i.e., to their bodies. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.17",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "17",
+   "commentary_text": "For the iniquity of his covetousness was I wroth \"Because of his iniquity for a short time was I wroth\" - For בצעו bitso, I read בצע betsa, a little while, from בצע batsa, he cut of, as the Septuagint read and render it, βραχυ τι, \"a certain short space.\" Propter iniquitatem avaritiae ejus, \"because of the iniquity of his avarice,\" the rendering of the Vulgate, which our translators and I believe all others follow, is surely quite beside the purpose. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.18",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "18",
+   "commentary_text": "I have seen his ways - Probably these verses refer to the restoration of the Jews from captivity. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.19",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "19-20",
+   "commentary_text": "I create the fruit of the lips - \"The sacrifice of praise,\" saith St. Paul, Heb 13:15, \"is the fruit of the lips.\" God creates this fruit of the lips, by giving new subject and cause of thanksgiving by his mercies conferred on those among his people, who acknowledge and bewail their transgressions, and return to him. The great subject of thanksgiving is peace, reconciliation and pardon, offered to them that are nigh, and to them that are afar off, not only to the Jew, but also to the Gentile, as St. Paul more than once applies those terms, Eph 2:13, Eph 2:17. See also Act 2:39.\nPeace to him that is far off \"That is, to the penitent; and to him that is near, i.e., the righteous.\" - Kimchi. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.57.21",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 57,
+   "verse_range": "21+",
+   "commentary_text": "There is no peace, saith my God - For אלהי Elohai, twenty-two MSS. (five ancient) of Kennicott's, thirty of De Rossi's, and one ancient of my own, read יהוה Yehovah; the Vulgate, Septuagint, Alex., and Arabic, and three MSS. have both. This verse has reference to the nineteenth. The perseveringly wicked and impenitent are excluded from all share in that peace above mentioned, that reconcilement and pardon which is promised to the penitent only. The forty-eighth chapter ends with the same declaration, to express the exclusion of the unbelievers and impenitent from the benefit of the foregoing promises. - L.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.1",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "1-2",
+   "commentary_text": "Cry aloud, spare not - Never was a louder cry against the hypocrisy, nor a more cutting reproof of the wickedness, of a people professing a national established religion, having all the forms of godliness without a particle of its power. This chapter has been often appointed to be read on political fast days for the success of wars carried on for - God knows what purposes, and originating in - God knows what motives. Politically speaking, was ever any thing more injudicious? \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.3",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "3",
+   "commentary_text": "Have we adopted our soul \"Have we afflicted our souls\" - Twenty-seven MSS. (six ancient) of Dr. Kennicott's, thirty-six of De Rossi's, and two of my own, and the old edition of 1488 have the noun in the plural number, נפשינו naphsheynu, our souls; and so the Septuagint, Chaldee, and Vulgate. This reading is undoubtedly genuine.\nIn the day of your fast ye find pleasure - Fast days are generally called holidays, and holidays are days of idleness and pleasure. In numberless cases the fast is turned into a feast.\nAnd exact all your labors - Some disregard the most sacred fast, and will oblige their servant to work all day long; others use fast days for the purpose of settling their accounts, posting up their books, and drawing out their bills to be ready to collect their debts. These are sneaking hypocrites; the others are daringly irreligious. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.4",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "4-5",
+   "commentary_text": "Ye fast for strife and debate - How often is this the case! A whole nation are called to fast to implore God's blessing on wars carried on for the purposes of wrath and ambition.\nTo smite with the fist of wickedness: ye shall not fast as ye do this day \"To smite with the fist the poor. Wherefore fast ye unto me in this manner\" - I follow the version of the Septuagint, which gives a much better sense than the present reading of the Hebrew. Instead of רשע לא resha lo, they seem to have read in their copy רש על מה לי rash al mah lli. The four first letters are the same, but otherwise divided in regard to the words; the four last are lost, and א aleph added in their place, in order to make some sort of sense with רשע ל. The version of the Septuagint is, και τυπτετε τυγμαις ταπεινον· ἱνα τι μοι νηστευετε - as above. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.6",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "6",
+   "commentary_text": "Let the oppressed go free - How can any nation pretend to fast or worship God at all, or dare to profess that they believe in the existence of such a Being, while they carry on the slave trade, and traffic in the souls, blood, and bodies, of men! O ye most flagitious of knaves, and worst of hypocrites, cast off at once the mask of religion; and deepen not your endless perdition by professing the faith of our Lord Jesus Christ, while ye continue in this traffic! \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.7",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "7",
+   "commentary_text": "Deal thy bread to the hungry - But this thou canst not do, if thou eat it thyself. When a man fasts, suppose he do it through a religious motive, he should give the food of that day, from which he abstains, to the poor and hungry, who, in the course of providence, are called to sustain many involuntary fasts, besides suffering general privations. Wo to him who saves a day's victuals by his religious fast! He should either give them or their value in money to the poor. See Isa 58:6.\nThat thou bring the poor that are cast out to thy house \"To bring the wandering poor into thy house\" - πτωχους αστεγους, Septuagint; egenos vagosque, Vulgate; and מטלטלין metaltelin, Chaldee. They read, instead of מרודים merudim, הנודים hanudim. מר mer is upon a rasure in the Bodleian MS. The same MS. reads ביתה bayethah, in domum, \"into the house.\" - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.8",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "8-9",
+   "commentary_text": "And thine health shall spring forth speedily \"And thy wounds shall speedily be healed over\" - Et cicatrix vulneris tui cito obducetur \"And the scar of thy wounds shall be speedily removed.\" Aquila's Version, as reported by Jerome, with which agrees that of the Chaldee.\nThe glory \"And the glory\" - Sixteen MSS. (five ancient) of Dr. Kennicott's, and the Septuagint, Syriac, and Vulgate add the conjunction ו vau, וכבוד vechabod. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.10",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "10",
+   "commentary_text": "And if thou draw out thy soul to the hungry \"If thou bring forth thy bread to the hungry\" - \"To draw out thy soul to the hungry,\" as our translators rightly enough express the present Hebrew text, is an obscure phrase, and without example in any other place. But instead of נפשך naphshecha, thy soul, eight MSS. (three ancient) of Kennicott's and three of De Rossi's read לחמך lachmecha, thy bread; and so the Syriac renders it. The Septuagint express both words, τον αρτον εκ της ψυχης σου, \"thy bread from thy soul.\" I cannot help thinking, however, that this reading is a gloss, and should not be adopted. To draw out the soul in relieving the poor, is to do it, not of constraint or necessity, but cheerfully, and is both nervous and elegant. His soul pities and his hand gives. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.11",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "11",
+   "commentary_text": "And make fat thy bones \"And he shall renew thy strength\" - Chaldaeus forte legit יחכיף עצמתך yachaliph otsmathecha; confer cap. Isa 40:29, Isa 40:31, et Isa 41:1. - Secker. \"The Chaldee perhaps read יחליף עצמתך yachaliph otsmathecha. \"The Chaldee has וגופך יחיי בחיי עלמא veguphach vechaiyey bechaiyey alma, \"and he will vivify thy body in life eternal.\" The rest of the ancients seem not to know what to make of יחליץ yachalits; and the rendering of the Vulgate, which seems to be the only proper one, ossa tua liberabit, \"he will deliver thy bones,\" makes no sense. I follow this excellent emendation; to favor which it is still farther to be observed that three MSS., instead of עצמתיך atsmotheycha, have עצמתך otsmathecha, singular. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.12",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "12",
+   "commentary_text": "The restorer of paths to dwell in \"The restorer of paths to be frequented by inhabitants\" - To this purpose it is rendered by the Syriac, Symmachus, and Theodotion. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.13",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "13",
+   "commentary_text": "If thou turn away thy foot from the Sabbath - The meaning of this seems to be, that they should be careful not to take their pleasure on the Sabbath day, by paying visits, and taking country jaunts; not going, as Kimchi interprets it, more than a Sabbath day's journey, which was only two thousand cubits beyond the city's suburbs. How vilely is this rule transgressed by the inhabitants of this land! They seem to think that the Sabbath was made only for their recreation!\nFrom doing thy pleasure - The Septuagint, Syriac, and Chaldee, for עשות asoth, manifestly express מעשות measoth. So likewise a MS. has it, but with the omission of the words שבת רגלך shabbath raglecha. - L.\nThe holy of the Lord \"And the holy feast of Jehovah\" - Twenty-eight MSS. (seven ancient) add the conjunction ו vau, ולקדוש velikedosh; and so the Syriac, Chaldee, and Vulgate. One of my own has the same reading.\nNor speaking thine own words \"From speaking vain words\" - It is necessary to add some epithet to make out the sense; the Septuagint say, angry words; the Chaldee, words of violence. If any such epithet is lost here, the safest way is to supply it by the prophet's own expression, Isa 58:9, ודבר און vedabar aven, vain words; that is, profane, impious, injurious, etc.\n\"The additional epithet seems unnecessary; the Vulgate and Syriac have it not; and the sense is good without it; two ways, first by taking ודבר vedabar for a noun, and דבר dabur for the participle pahul, and rendering, - \n'From pursuing thy pleasure, and the thing resolved on.'\nOr, secondly, by supposing the force of the preposition מ mem to have been continued from the verb ממצוא mimmetso to the verb ודבר vedabber immediately following; and rendering, - \n'From executing thy pleasure, and from speaking words concerning it.'\nBut the first seems the easier rendering.\"\nDr. Jubb. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.58.14",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 58,
+   "verse_range": "14+",
+   "commentary_text": "Then shalt thou delight thyself - If all fasts and religious observances be carried on in the spirit and manner recommended above, God's blessing will attend every ordinance. But in public fasts, prescribed not in the Book of God, but by the rulers of nations in general (very unfit persons) care should be taken that the cause is good, and that God's blessing may be safely implored in it.\nFrance has lately fasted and prayed that they might be able to subjugate Spain, restore and establish the horrible inquisition, and utterly destroy all the liberties of the people! Is this such a fast as God hath chosen? - a.d. 1823.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.1",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "1",
+   "commentary_text": "Arise - Call upon God through Christ, for his salvation; and,\nShine - אורי ori, be illuminated: for till thou arise and call upon God, thou wilt never receive true light.\nFor thy light is come - כי בא אורך ki ba orech, for thy light cometh. The Messiah is at the door; who, while he is a light to lighten the Gentiles, will be the glory - the effulgence, of his people Israel. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.2",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "2",
+   "commentary_text": "Darkness shall cover the earth - This is the state of the Gentile people. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.3",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "3",
+   "commentary_text": "And the Gentiles shall come - This has been in some sort already fulfilled. The Gentiles have received the light of the Gospel from the land of Judea, and the Gentile kings have embraced that Gospel; so that many nations of the earth are full of the doctrine of Christ. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.4",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "4",
+   "commentary_text": "Shall be nursed at thy side \"Shall be carried at the side\" - For תאמנה teamanah, shall be nursed, the Septuagint and Chaldee read תנשאנה tinnasenah, shall be carried. A MS. has על כתף תנשאנה al catheph tinnasenah, \"shall be carried on the shoulder;\" instead of על צד תאמנה al tsad teamanah, \"shall be nursed on the side.\" Another MS. has both כתף catheph and צד tsad. Another MS. has it thus: תאמנה:תנשאנה tinnasenah: teamanah, with a line drawn over the first word. Sir John Chardin says that it is the general custom in the east to carry their children astride upon the hip with the arm round their body. His MS. note on this place is as follows: - Coutume en Orient de porter les enfans sur le coste a; califourchon sur la hanche: cette facon est generale aux Indes; les enfans se tiennent comme cela, et la personne qui les porte les embrasse et serre par le corps; parceque sont (ni) emmaillottes, ni en robes qui les embrassent. \"In the east it is the custom to carry the children on the haunch, with the legs astride. This is the general custom in India. The children support themselves in this way, and the arm of the nurse goes round the body and presses the child close to the side; and this they can easily do, as the children are not swathed, nor encumbered with clothes.\" Non brachiis occidentalium more, sed humeris, divaricatis tibiis, impositos circumferunt. \"They carry them about, not in their arms after the manner of the western nations, but on their shoulders; the children being placed astride.\" Cotovic. Iter. Syr. cap. 14. This last quotation seems to favor the reading על כתף by al catheph, on the shoulder, as the Septuagint likewise do: but upon the whole I think that על צד תנשאנה al tsad tinnasenah is the true reading, which the Chaldee favors; and I have accordingly followed it. See Isa 66:12. - L. This mode of carrying children is as common in India as carrying them in the arms is in Europe. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.5",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "5",
+   "commentary_text": "Then thou shalt see \"Then shalt thou fear\" - For תראי tirai, thou shalt see, as ours and much the greater number of the translators, ancient and modern, render it, forty MSS. (ten ancient) of Kennicott's, and twenty-eight of De Rossi's, with one ancient of my own, and the old edition of 1488, have תיראי tirai, thou shalt fear: the true reading, confirmed by the perfect parallelism of the sentences: the heart ruffled and dilated in the second line answering to the fear and joy expressed in the first. The Prophet Jeremiah, Jer 33:9, has the same natural and elegant sentiment: - \n\"And this city shall become to me a name of joy;\nA praise and an honor for all the nations of the earth;\nWhich shall hear all the good that I do unto them:\nAnd they shall fear, and they shall tremble, at all the goodness\nAnd at all the prosperity that I procure unto her.\"\nAnd David: - \n\"I will praise thee, for I am fearfully and wonderfully made.\"\nPsa 139:14\nHis tibi me rebus quaedam divina voluptas\nPercipit atque horror.\nLucret. 3:28.\nRecenti mens trepidat metu,\nPlenoque Bacchi pectore turbidum\nLaetatur.\nHor. Carm. 2:19. 50:5. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.6",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "6",
+   "commentary_text": "The praises of the Lord \"And the praise of Jehovah\" - Thirty-three MSS. and three editions have ותהלת uthehillath, in the singular number; and so read the ancient versions, and one of my own MSS. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.7",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "7",
+   "commentary_text": "The rams of Nebaioth shall minister unto thee - Vitringa on the place understands their ministering, and ascending or going up on the altar, as offering themselves voluntarily: ipsi se, non expectato sacerdote alto, gloriae et sanctificationi divini nominis ultro ac libenter oblaturi. \"They, waiting for no priest, go and freely offer themselves to the glory and sanctification of the sacred name.\" This gives a very elegant and poetical turn to the image. It was a general notion that prevailed with sacrificers among the heathen, that the victim's being brought without reluctance to the altar was a good omen; and the contrary a bad one. Sabinos petit aliquanto tristior; quod sacrificanti hostia aufugerat. Sueton. Titus, cap. 10. Accessit dirum omen, profugus altaribus tauris. \"It was an omen of dreadful portent when the victim fled away from the altar.\" Tacit. Hist. 3:56. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.8",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "8",
+   "commentary_text": "And as the doves to their windows \"And like doves upon the wing?\" - Instead of אל el, to, forty-two MSS. of Kennicott's, and one of mine, have by על, upon. For ארבתיהם arubboteyhem, their windows, read אברתיהם ebrotheyhem, their wings, transposing a letter. - Houbigant. The Septuagint render it συν νεοσσοις, \"with their young;\" they read אפרחיהם ephrocheyhem, nearer to the latter than to the present reading. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.9",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "9-12",
+   "commentary_text": "The ships of Tarshish first \"The ships of Tarshish among the first\" - For בראשנה barishonah twenty-five MSS. and the Syriac read כבראשנה kebarishonah, \"as at the first.\" The ships of Tarshish AS at the first; that is, as they brought gold and silver in the days of Solomon. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.13",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "13-18",
+   "commentary_text": "And I will make the place of my feet glorious \"And that I may glorify the place whereon I rest my feet\" - The temple of Jerusalem was called the house of God, and the place of his rest or residence. The visible symbolical appearance of God, called by the Jews the schechinah, was in the most holy place, between the wings of the cherubim, above the ark. This is considered as the throne of God, presiding as King over the Jewish state; and as a footstool is a necessary appendage to a throne, (see note on Isa 52:2 (note)), the ark is considered as the footstool of God, and is so called, Psa 99:6; Ch1 28:2.\nThe glory of Lebanon - That is, the cedar. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.19",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "19-20",
+   "commentary_text": "Neither for brightness shall the moon give light unto thee \"Nor by night shall the brightness of the moon enlighten thee\" - This line, as it stands in the present text, seems to be defective. The Septuagint and Chaldee both express the night, which is almost necessary to answer to day in the preceding line, as well as to perfect the sense here. I therefore think that we ought, upon the authority of the Septuagint and Chaldee, to read either ולילה velailah, and by night, instead of ולנגה ulenogah, and for brightness; or ולנגה בלילה ulenogah ballailah, adding the word בלילה ballailah, by night. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.21",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "21",
+   "commentary_text": "Of my planting - מטעי mattai; so, with the Keri, read forty-four MSS. (seven ancient) and six editions; with which agree the Syriac, Chaldee, and Vulgate. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.60.22",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 60,
+   "verse_range": "22+",
+   "commentary_text": "I the Lord will hasten it in his time - There is a time set for the fulfillment of this prophecy: that time must come before it begins to take place; but when it does begin, the whole will be performed in a short space. It is not, therefore, the time determined for the event that shall be hastened, but all the circumstances of the event; all the parts of the prediction shall be speedily completed. I the Lorde in hys tyme sodeynly schal boun thys. - Old MS. Bible. And because it is the Lord, therefore it will be done: for although it be difficult, he is almighty.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.61.1",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 61,
+   "verse_range": "1-2",
+   "commentary_text": "The Spirit of the Lord God is upon me \"The Spirit of Jehovah is upon me\" - The Septuagint, Vulgate, and St. Luke, (Luk 4:18), and a MS., and two old editions omit the word אדני Adonai, the Lord; which was probably added to the text through the superstition of the Jews, to prevent the pronunciation of the word יהוה Jehovah following. See Kennicott on the state of the printed Hebrew text, vol. i., p. 610.\nIn most of Isaiah's prophecies there is a primary and secondary sense, or a remote subject illustrated by one that is near. The deliverance of the Jews from their captivity in Babylon is constantly used to shadow forth the salvation of men by Jesus Christ. Even the prophet himself is a typical person, and is sometimes intended to represent the great Savior. It is evident from Luk 4:18 that this is a prophecy of our blessed Lord and his preaching; and yet it is as evident that it primarily refers to Isaiah preaching the glad tidings of deliverance to the Jews.\nThe opening of the prison \"Perfect liberty\" - פקח קוח pekach koach. Ten MSS. of Kennicott's, several of De Rossi's, and one of my own, with the Complutensian, have פקחקוח pekachkoach in one word; and so the Septuagint and Vulgate appear to have taken it: not merely opening of prisons, but every kind of liberty - complete redemption.\nThe proclaiming of perfect liberty to the bound, and the year of acceptance with Jehovah. is a manifest allusion to the proclaiming of the year of jubilee by sound of trumpet. See Lev 25:9, etc. This was a year of general release of debts and obligations, of bondmen and bondwomen, of lands and possessions which had been sold from the families and tribes to which they belonged. Our Savior, by applying this text to himself, (Luk 4:18, Luk 4:19), a text so manifestly relating to the institution above mentioned, plainly declares the typical design of that institution. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.61.3",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 61,
+   "verse_range": "3",
+   "commentary_text": "To appoint unto them that mourn in Zion \"To impart gladness to the mourners of Zion\" - A word necessary to the sense is certainly lost in this place, of which the ancient Versions have preserved no traces. Houbigant, by conjecture, inserts the word ששון sason, gladness, taken from the line next but one below, where it stands opposed to אבל ebel, sorrow or mourning, as the word lost here was to אבלי abeley, mourners: I follow him. - L.\nBeauty for ashes \"A beautiful crown instead of ashes\" - In times of mourning the Jews put on sackcloth, or coarse and sordid raiment, and spread dust and ashes on their heads; on the contrary, splendid clothing and ointment poured on the head were the signs of joy. \"Feign thyself to be a mourner,\" says Joab to the woman of Tekoah, \"and put on now mourning apparel, and anoint not thyself with oil,\" Sa2 14:2. These customs are at large expressed in the Book of Judith: \"She pulled off the sackcloth which she had on, and put off the garments of her widowhood, and washed her body all over with water and anointed herself with precious ointment, and braided the hair of her head, and put on a tire [mitre, marg.] upon it; and put on her garments of gladness;\" chap. 10:3. - L.\nפאר תחת אפר peer tachath ephar, glory for ashes; a paronomasia which the prophet often uses: a chaplet, crown, or other ornament of the head (for so the Vulgate renders the word here and in the both verse; in which last place the Septuagint agree in the same rendering), instead of dust and ashes, which before covered it; and the costly ointments used on occasions of festivity, instead of the ensigns of sorrow. - L.\nTrees of righteousness \"Trees approved\" - Hebrews oaks of righteousness or truth; that is, such as by their flourishing condition should show that they were indeed \"the scion of God's planting, and the work of his hands;\" under which images, in the preceding chapter, Isa 60:21, the true servants of God, in a highly improved state of the Church, were represented; that is, says Vitringa on that place, \"commendable for the strength of their faith, their durability, and firmness.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.61.4",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 61,
+   "verse_range": "4",
+   "commentary_text": "\"And they that spring from thee\" - A word is lost here likewise. After ובנו ubanu, \"they shall build,\" add ממך mimmecha, they that spring from thee. Four MSS. have it so, (two of them ancient), and one of mine has it in the margin, and it is confirmed by Isa 58:12, where the sentence is the very same, this word being here added. Kimchi makes the same remark: \"the word ממך mimmecha is omitted here; but is found in Isa 58:12.\"\nThe desolations of many generations - It seems that these words cannot refer to the Jews in the Balbylonish captivity, for they were not there many generations; but it may refer to their dispersions and state of ruin since the advent of our Lord; and consequently this may be a promise of the restoration of the Jewish people. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.61.5",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 61,
+   "verse_range": "5-6",
+   "commentary_text": "Strangers shall - feed your flocks - Gentiles shall first preach to you the salvation of Christ, and feed with Divine knowledge the Jewish congregations. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.61.7",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 61,
+   "verse_range": "7",
+   "commentary_text": "For your shame \"Instead of your shame\" - The translation of this verse, which is very confused, and probably corrupted in the Hebrew, is taken from the Syriac Version; except that the latter has not expressed the word משנה mishneh, double, in the first place. Five MSS. add the conjunction ו vau to שמחת simchath. The Syriac reads תרנו taronnu, and תירשו tirashu, in the second person, \"ye shall rejoice, ye shall inherit. \"And for להם lahem, to them, two MSS., (one of them ancient), three of De Rossi's, and the Syriac, read לכם lachem, to you, in the second person likewise.\nThe Version of the Septuagint is imperfect in this place; the first half of the verse is entirely omitted in all the printed copies. It is supplied by MSS. Pachom. and 1. D. 2 in the following manner: - \nΑντι της αισχυνης ὑμων της διπλης,\nΚαι αντι της εντροπης αγαλλιασεται ἡ μερις αυτων·\nΔια τουτο την γην αυτων εκ δευτερου-\n\"Instead of your shame ye shall have double,\nAnd instead of your confusion their portion shall rejoice;\nTherefore, they shall possess their land a second time.\"\nIn which the two MSS. agree, except that 1. D. 2 has by mistake ἡμερας, day, for ἡ μερις, the part. And Cod. Marchal., in the margin, has pretty nearly the same supplement as from Theodotion. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.61.8",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 61,
+   "verse_range": "8",
+   "commentary_text": "I hate robbery for burnt-offering \"Who hate rapine and iniquity\" - The Syriac, and Chaldee prefix the conjunction ו vau, instead of the preposition ב beth, to עולה olah, which they render iniquity or oppression; and so the Septuagint, αδικιας. The difference lies in the punctuation; בעולה beolah, in a burnt-offering בעולה beavelah, in iniquity. The letters are the same in both words. Five of De Rossi's MSS. confirm this reading. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.61.9",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 61,
+   "verse_range": "9",
+   "commentary_text": "Their seed shall be known among the Gentiles - Both Jews and Gentiles are to make but one fold under one shepherd, Christ Jesus. But still, notwithstanding this, they may retain their peculiarity and national distinction; so that though they are known to be Christians, yet they shall appear to be converted Jews. After their conversion to Christianity this will necessarily be the case for a long time. Strange nations are not so speedily amalgamated, as to lose their peculiar cast of features, and other national distinctions. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.61.10",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 61,
+   "verse_range": "10",
+   "commentary_text": "I will greatly rejoice in the Lord - These may be the words of the Jews now converted, and brought into the Church of Christ, and with the Gentiles made fellow heirs of the blessings of the new covenant.\nAs a bridegroom decketh himself with ornaments \"As the bridegroom decketh himself with a priestly crown\" - An allusion to the magnificent dress of the high priest, when performing his functions; and particularly to the mitre, and crown or plate of gold on the front of it, Exo 29:6. The bonnet or mitre of the priests also was made, as Moses expresses it, \"for glory and for beauty, \"Exo 28:40. It is difficult to give its full force to the prophet's metaphor in another language. The version of Aquila and Symmachus comes nearest to it: ὡς νυμφιον ἱερατευομενον στεφανῳ· \"as a bridegroom decked with a priestly crown.\" - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.61.11",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 61,
+   "verse_range": "11+",
+   "commentary_text": "The Lord God \"The Lord Jehovah\" - \"אדני Adonai, the Lord, makes the line longer than the preceding and following; and the Septuagint, Alexandrian, (and MSS. Pachom. and 1. D. II.), and Arabic, do not so render it. Hence it seems to be interpolated.\" - Dr. Jubb. Three MSS. have it not. See the note on Isa 61:1 (note). Both words אדני יהוה Adonai Jehovah, are wanting in one of my MSS.; but are supplied in the margin by a later hand.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.62.1",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 62,
+   "verse_range": "1-3",
+   "commentary_text": "For Zion's sake will I not hold my peace - These are the words of Jehovah declaring his purpose relative to the events predicted in the preceding chapter.\nThou shalt be called by a new name - Viz., Christian - or, as in the fourth verse, חפצי בה chephtsi bah, \"my delight is in her\" - because she has now received that command, \"This is my beloved Son, in whom I am well pleased; Hear Him.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.62.4",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 62,
+   "verse_range": "4",
+   "commentary_text": "Thy land Beulah - בעולה beulah, married. In the prophets, a desolate land is represented under the notion of a widow; an inhabited land, under that of a married woman, who has both a husband and children. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.62.5",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 62,
+   "verse_range": "5",
+   "commentary_text": "For as a young man - so - The particles of comparison are not at present in the Hebrew Text: but the Septuagint, Syriac, and Chaldee seem to have read in their copies כ caph prefixed to the verb, כי כיבעל ki keyibal which seems to have been omitted by mistake of a transcriber, occasioned by the repetition of the same two letters. And before the verb in the second line a MS. adds כן ken, so; which the Septuagint, Syriac, and Chaldee seem also to have had in their copies. In the third line of this verse the same MS. has in like manner וכמשוש vechimsos, and two MSS. and the Babylonish Talmud כמשוש kimsos, adding the כ caph; and in the fourth line, the Babylonish Talmud likewise adds כן ken, so, before the verb.\nSir John Chardin, in his note on this place, tells us, \"that it is the custom in the east for youths, that were never married, always to marry virgins; and widowers, however young, to marry widows.\" - Harmer, Observ. 2 p. 482.\nSo shall thy sons marry thee - For בניך banayich, thy sons, Bishop Lowth reads, restorer or builder, as he does not consider the word as the plural of בן ben, a son, but the participle benoni of the verb בנה banah, he built. I do not see that we gain much by this translation. Thy sons shall dwell in thee, Vulgate; and so the Septuagint and Chaldee. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.62.6",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 62,
+   "verse_range": "6-8",
+   "commentary_text": "Ye that make mention of the Lord, keep not silence - The faithful, and in particular the priests and Levites, are exhorted by the prophet to beseech God with unremitted importunity (compare Luk 18:1, etc.) to hasten the redemption of Sion. The image in this place is taken from the temple service; in which there was appointed a constant watch, day and night, by the Levites: and among them this seems to have belonged particularly to the singers, see Ch1 9:33. Now the watches in the east, even to this day, are performed by a loud cry from time to time of the watchmen, to mark the time, and that very frequently, and in order to show that they themselves are constantly attentive to their duty. Hence the watchmen are said by the prophet, Isa 52:8, to lift up their voice; and here they are commanded, not to keep silence; and the greatest reproach to them is, that they are dumb dogs; they cannot bark; dreamers; sluggards, loving to slumber, Isa 56:10. \"The watchmen in the camp of the caravans go their rounds crying one after another, 'God is one, he is merciful:' and often add, 'Take heed to yourselves.'\" Tavernier, Voyage de Perse, 54:1 chap. 10. The hundred and thirty-fourth Psalm gives us an example of the temple watch. The whole Psalm is nothing more than the alternate cry of two different divisions of the watch. The first watch addresses the second, reminding them of their duty; the second answers by a solemn blessing. The address and the answer seem both to be a set form, which each division proclaimed, or sung aloud, at stated intervals, to notify the time of the night: - \nFirst Chorus\n\"Come on now, bless ye Jehovah, all ye servants of Jehovah;\nYe that stand in the house of Jehovah in the nights;\nLift up your hands towards the sanctuary,\nAnd bless ye Jehovah.\"\nSecond Chorus\n\"Jehovah bless thee out of Sion;\nHe that made heaven and earth.\"\n\"Ye who stand in the place of the watch, in the house of the sanctuary of the Lord; and ye praise through the nights;\" - says the Chaldee paraphrase on the second line. And this explains what is here particularly meant by proclaiming, or making remembrance of, the name of Jehovah: the form, which the watch made use of on these occasions, was always a short sentence, expressing some pious sentiment, of which Jehovah was the subject; and it is remarkable, that the custom in the east in this respect also still continues the very same; as appears by the example above given from Tavernier.\nAnd this observation leads to the explanation of an obscure passage in the Prophet Malachi, Mal 2:12.\n\"Jehovah will cut off the man that doeth this;\nThe watchman and the answerer, from the tabernacles of Jacob;\nAnd him that presenteth an offering to Jehovah God of hosts.\"\nער וענה er veoneh, the master and the scholar, says our translation, after the Vulgate: the son and the grandson, says the Syriac and Chaldee, as little to the purpose: Arias Montanus has given it vigilantem et respondentem, \"the watchman and the answerer;\" that is, the Levite and \"him that presenteth an offering to Jehovah,\" that is, the priest. - L. Ye that make mention of the Lord, keep not silence. Is not this clause an address to the ministers of Christ, to continue in supplication for the conversion of the Jewish people? Kimchi seems to think that the watchmen are the interceding angels! \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.62.9",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 62,
+   "verse_range": "9",
+   "commentary_text": "But they that have gathered it shall eat it, and praise the Lord - This and the following line have reference to the law of Moses: \"Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil; but thou must eat them before the Lord thy God, in the place which the Lord thy God shall choose,\" Deu 12:17, Deu 12:18. \"And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years it shall be as uncircumcised unto you; it shall not be eaten of. But in the fourth year all the fruit thereof shall be holy to praise the Lord withal. And in the fifth year ye shall eat the fruit thereof,\" Lev 19:23-25. This clearly explains the force of the expressions, \"shall praise Jehovah,\" and \"shall drink it in my sacred courts.\"\nFive MSS., one ancient, have יאכלוהו yocheluhu, they shall eat it, fully expressed: and so likewise ישתוהו yishtuhu, they shall drink it, is found in nineteen MSS., three of them ancient. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.62.10",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 62,
+   "verse_range": "10",
+   "commentary_text": "Of the people \"For the people\" - Before the word העם haam, the people, two MSS. insert יהוה Yehovah; one MS. adds the same word after; and eight MSS., three ancient, instead of העם haam, have יהוה Yehovah, and so likewise one edition. But though it makes a good sense either way, I believe it to be an interpolation, as the ancient Versions do not favor it. The Septuagint indeed read עמי ammi, my people. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.62.11",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 62,
+   "verse_range": "11",
+   "commentary_text": "Unto the end of the world - אל קצה הארץ el ketseh haarets - Instead of אל el, to, עד ad, Unto, is the reading of two of Kennicott's MSS.; and one of mine has מקצה mikketseh, \"From the end of the earth.\"\nBehold, thy salvation cometh \"Lo, thy Savior cometh\" - So all the ancient Versions render the word ישעך yishech.\nBehold, his reward - See note on Isa 40:10, Isa 40:11. This reward he carries as it were in his hand. His work is before him - he perfectly knows what is to be done; and is perfectly able to do it. He will do what God should do, and what man cannot do; and men should be workers with him. Let no man fear that the promise shall not be fulfilled on account of its difficulty, its greatness, the hinderances in the way, or the unworthiness of the person to whom it is made. It is God's work; he is able to do it, and as willing as he is able. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.62.12",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 62,
+   "verse_range": "12+",
+   "commentary_text": "They shall call them - These characteristics seem to be put in their inverted order. - \n1. God will not forsake them.\n2. They shall be sought out.\n3. They shall be redeemed. And,\n4. Be in consequence a holy people.\n1. When God calls, it is a proof that he has not forsaken.\n2. When he seeks, it is a proof he is waiting to be gracious.\n3. When the atonement is exhibited, all things are then ready.\n4. And when that is received, holiness of heart and life is then to be kept continually in view, as this is the genuine work of God's Spirit; and without holiness none shall see the Lord.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.1",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "1",
+   "commentary_text": "Who is this that cometh from Edom - Probably both Edom and Bozrah are only figurative expressions, to point out the place in which God should discomfit his enemies. Edom signifies red, and Bozrah, a vintage. Kimchi interprets the whole of the destruction of Rome.\nI that speak in righteousness \"I who publish righteousness\" - A MS. has המדבר hammedabber, with the demonstrative article added with greater force and emphasis: The announcer of righteousness. A MS. has צדקה tsedakah, without ב be prefixed; and so the Septuagint and Vulgate. And thirty-eight MSS. (seven ancient) of Dr. Kennicott's, and many of De Rossi's, and one of my own, add the conjunction ו vau to רב rab, and mighty; which the Septuagint, Syriac, and Vulgate confirm. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.2",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "2",
+   "commentary_text": "Wherefore art thou red in thine apparel - For ללבושך lilebushecha, twenty-nine MSS. (nine ancient) of Kennicott's, and thirty of De Rossi s, and one edition, have ללבושיך lilebusheycha in the plural; so the Septuagint and Syriac. And all the ancient Versions read it with מ mem, instead of the first ל lamed. But the true reading is probably מלבושך malbushecha in the singular, as in Isa 63:3. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.3",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "3-4",
+   "commentary_text": "And of the people there was none with me - I was wholly abandoned by them: but a good meaning is, No man has had any part in making the atonement; it is entirely the work of the Messiah alone. No created being could have any part in a sacrifice that was to be of infinite merit.\nAnd I will stain \"And I have stained\" - For אגאלתי egalti, a verb of very irregular formation, compounded, as they say, of the two forms of the preterite and future, a MS. has אגאלהו egalehu, the regular future with a pleonastic pronoun added to it, according to the Hebrew idiom: \"And all my raiment, I have stained it.\" The necessity of the verb's being in the past tense seems to have given occasion to the alteration made in the end of the word. The conversive ו vau at the beginning of the sentence affects the verb, though not joined to it; of which there are many examples: - \nanithani remim umikkarney עניתני רמים ומקרני \"And thou wilt hear me (or hear thou me) from among the horns of the unicorns,\"\nPsa 22:22. - L.\nInstead of על בגדי al begadai, upon my garments, one of my ancient MSS. has לארץ בגדי larets begadai, to the earth: but this word is partly effaced, and על al written in the margin by a later hand. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.5",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "5",
+   "commentary_text": "And my fury \"And mine indignation\" - For וחמתי vachamathi, nineteen MSS. (three ancient) of Kennicott's, nine of De Rossi's, and one of mine, and four editions, have וצדקתי vetsidkathi, and my righteousness; from Isa 59:16, which I suppose the transcriber retained in his memory. It is true that the Versions are in favor of the common reading; but that noticed above seems to stand on good authority, and is a reading both pleasing and impressive. Opposite, in the margin, my MS. has the common reading by a later hand. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.6",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "6",
+   "commentary_text": "And make them drunk in my fury \"And I crushed them in mine indignation\" - For ואשכרם vaashkerem, and I made them drunken, twenty-seven MSS., (three ancient), twelve of De Rossi's, and the old edition of 1488, have ואשברם vaashabberem, and I crushed them: and so the Syriac and Chaldee. The Septuagint have omitted this whole line. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.7",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "7",
+   "commentary_text": "I will mention the loving-kindnesses of the Lord - The prophet connects the preceding mercies of God to the Jews with the present prospect he has of their redemption by the Messiah; thus making a circle in which eternal goodness revolves. The remaining part of this chapter, with the whole chapter following, contains a penitential confession and supplication of the Israelites in their present state of dispersion, in which they have so long marvellously subsisted, and still continue to subsist, as a people; cast out of their country; without any proper form of civil polity or religious worship, their temple destroyed, their city desolated and lost to them, and their whole nation scattered over the face of the earth, apparently deserted and cast off by the God of their fathers, as no longer his peculiar people.\nThey begin with acknowledging God's great mercies and favors to their nation, and the ungrateful returns made to them on their part, that by their disobedience they had forfeited the protection of God, and had caused him to become their adversary. And now the prophet represents them, induced by the memory of the great things that God had done for them, as addressing their humble supplication for the renewal of his mercies. They beseech him to regard them in consideration of his former loving-kindness, they acknowledge him for their Father and Creator, they confess their wickedness and hardness of heart, they entreat his forgiveness, and deplore their present miserable condition under which they have so long suffered. It seems designed as a formulary of humiliation for the Israelites, in order to their conversion.\nThe whole passage is in the elegiac form, pathetic and elegant; but it has suffered much in our present copy by the mistakes of transcribers.\nThe praises of the Lord \"The praise of Jehovah\" - For תהלות tehilloth, plural, twenty-nine MSS. (three ancient) and two editions, have תהלת tehillath, in the singular number; and so the Vulgate renders it; and one of the Greek versions, in the margin of Cod. Marchal. and in the text of MSS. Pachom. and 1. D. 2: την αινεσιν Κυριου, \"the praise of the Lord.\" - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.8",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "8-9",
+   "commentary_text": "So he was their Savior. In all their affliction \"And he became their Savior in all their distress\" - I have followed the translation of the Septuagint in the latter part of the eighth, and the former part of the ninth verse; which agrees with the present text, a little differently divided as to thee members of the sentence. They read מכל miccol, out of all, instead of בכל bechol, in all, which makes no difference in the sense; and צר tsar they understand as ציר tsir. Και εγενετο αυτοις εις σωτηριαν εκ πασης θλιψεως αυτων· ου πρεσβυς, ουδε αγγελος·. \"And he was salvation to them in all their tribulation; neither an ambassador nor an angel, but himself saved them.\" An angel of his presence means an angel of superior order, in immediate attendance upon God. So the angel of the Lord says to Zacharias, \"I am Gabriel, that stand in the presence of God,\" Luk 1:19. The presence of Jehovah, Exo 33:14, Exo 33:15, and the angel, Exo 33:20, Exo 33:21, is Jehovah himself; here an angel of his presence is opposed to Jehovah himself, as an angel is in the following passages of the same book of Exodus. After their idolatrous worshipping of the golden calf, \"when God had said to Moses, I will send an angel before thee - I will not go up in the midst of thee - the people mourned,\" Exo 33:2-4. God afterwards comforts Moses, by saying, \"My presence (that is I myself in person, and not by an angel) will go with thee,\" Exo 33:14. Αυτος προπορευσομαι σου, \"I myself will go before thee, \"as the Septuagint render it.\nThe MSS. and editions are much divided between the two readings of the text and margin in the common copies, לא lo, not, and לו lo, to him. All the ancient Versions express the chetib reading, לא lo, not.\n\"And he bare then and carried them all the days of old\nAnd he took them up, and he bore them, all the days of old\"\n- See the note on Isa 46:3 (note). - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.10",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "10",
+   "commentary_text": "And he fought against them - Twenty-six MSS. (ten ancient) and the first edition, with another, add the conjunction ו vau, והוא vehu, and he. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.11",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "11-12",
+   "commentary_text": "Moses and his people \"Moses his servant\" - For עמו ammo, his people, two MSS. (one of them ancient) and one of my own, (ancient), and one of De Rossi's, and the old edition of 1488, and the Syriac, read עבדו abdo, his servant. These two words have been mistaken one for the other in other places; Psa 78:71, and Psa 80:5, for עמו ammo, his people, and עמך ammecha, thy people, the Septuagint read עבדו abdo, his servant, and עבדך abdecha, thy servant.\nWhere is he that brought them up out of the sea with the shepherd of his flock? where etc. \"How he brought them up from the sea, with the shepherd of his flock; how,\" etc. - For איה aiyeh, how, interrogative, twice, the Syriac Version reads איך eich, how, without interrogation, as that particle is used in the Syriac language, and sometimes in the Hebrew. See Rut 3:18; Ecc 2:16.\nThe shepherd of his flock - That is, Moses. The MSS. and editions vary in this word; some have it רעה roeh, in the singular number; so the Septuagint, Syriac, and Chaldee. Others רעי roey, plural, the shepherds. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.13",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "13",
+   "commentary_text": "That led them through the deep - As a beast goeth down into the valley - In both these verses there is an allusion to the Israelites going through the Red Sea, in the bottom of which they found no more inconvenience than a horse would in running in the desert, where there was neither stone nor mud; nor a beast in the valley, where all was plain and smooth. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.14",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "14",
+   "commentary_text": "The Spirit of the Lord caused him to rest \"The Spirit of Jehovah conducted them\" - For תניחנו tenichennu, caused him to rest, the Septuagint have ὡδηγησεν αυτους, conducted them; they read תנחם tanchem. The Syriac, Chaldee, and Vulgate read תנחנו tanchennu, conducted him. Two MSS. have the word without the י yod in the middle. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.15",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "15",
+   "commentary_text": "And thy strength \"And thy mighty power\" - For גבורתיך geburotheycha, plural, thirty-two MSS. (seven ancient) and twenty-one of De Rossi's, and seven editions, have גבורתך geburathecha, singular.\nAre they restrained? - For אלי elai, from (or in regard to) me, the Septuagint and Syriac read אלינו eleynu, from us. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.16",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "16",
+   "commentary_text": "Our Redeemer; thy name is from everlasting \"O deliver us for the sake of thy name\" - The present text reads, as our translation has rendered it, \"Our Redeemer, thy name is from everlasting.\" But instead of מעולם meolam, from everlasting, an ancient MS. has למען lemaan, for the sake of, which gives a much better sense. To show the impropriety of the present reading, it is sufficient to observe, that the Septuagint and Syriac translators thought it necessary to add עלינו aleynu, upon us, to make out the sense; That is, \"Thy name is upon us, or we are called by thy name, from of old.\" And the Septuagint have rendered גאלנו goalenu, in the imperative mood, ῥυσαι ἡμας, deliver us. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.17",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "17",
+   "commentary_text": "Why hast thou made us to err - A mere Hebraism, for why hast thou permitted us to err. So, Lead us not into temptation; do not suffer us to fall into that to which we are tempted. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.63.18",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 63,
+   "verse_range": "18+",
+   "commentary_text": "The people of thy holiness have possessed it but a little while \"It is little that they have taken possession of thy holy mountain\" - The difficulty of the construction in this place is acknowledged on all hands. Vitringa prefers that sense as the least exceptionable which our translation has expressed; in which however there seems to be a great defect; that is, the want of that in the speaker's view must have been the principal part of the proposition, the object of the verb, the land, or it, as our translators supply it, which surely ought to have been expressed, and not to have been left to be supplied by the reader. In a word, I believe there is some mistake in the text; and here the Septuagint help us out; they had in their copy הר har, mountain, instead of עם am, people, του ορους του ἁγιου σου, the mountain of thy Holy One. \"Not only have our enemies taken possession of Mount Sion, and trodden down thy sanctuary; even far worse than this has befallen us; thou hast long since utterly cast us off, and dost not consider us as thy peculiar people.\" - L.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.2",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "2",
+   "commentary_text": "And all those things have been \"And all these things are mine\" - A word absolutely necessary to the sense is here lost out of the text: לי li, mine. It is preserved by the Septuagint and Syriac. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.3",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "3-4",
+   "commentary_text": "He that killeth an ox is as if he slew a man \"He that slayeth an ox killeth a man\" - These are instances of wickedness joined with hypocrisy; of the most flagitious crimes committed by those who at the same time affected great strictness in the performance of all the external services of religion. God, by the Prophet Ezekiel, upbraids the Jews with the same practices: \"When they had slain their children to their idols, then they came the same day into my sanctuary to profane it,\" Eze 23:39. Of the same kind was the hypocrisy of the Pharisees in our Savior's time:\" who devoured widows' houses, and for a pretense made long prayers,\" Mat 23:14.\nThe generality of interpreters, by departing from the literal rendering of the text, have totally lost the true sense of it, and have substituted in its place what makes no good sense at all; for it is not easy to show how, in any circumstances, sacrifice and murder, the presenting of legal offerings and idolatrous worship, can possibly be of the same account in the sight of God.\nHe that offereth an oblation, as if he offered swine's blood \"That maketh an oblation offereth swine's blood\" - A word here likewise, necessary to complete the sense, is perhaps irrecoverably lost out of the text. The Vulgate and Chaldee add the word offereth, to make out the sense; not, as I imagine, from any different reading, (for the word wanted seems to have been lost before the time of the oldest of them as the Septuagint had it not in their copy,; but from mere necessity.\nLe Clerc thinks that מעלה maaleh is to be repeated from the beginning of this member; but that is not the case in the parallel members, which have another and a different verb in the second place, \"דם dam, sic Versiones; putarem tamen legendum participium aliquod, et quidem זבח zabach, cum sequatur ח cheth, nisi jam praecesserat.\" - Secker. Houbigant supplies אכל achal, eateth. After all, I think the most probable word is that which the Chaldee and Vulgate seem to have designed to represent; that is, מקריב makrib, offereth.\nIn their abominations - ובשקוציהם ubeshikkutseyhem, \"and in their abominations;\" two copies of the Machazor, and one of Kennicott's MSS. have ובגלוליהם ubegilluleyhem, \"and in their idols.\" So the Vulgate and Syriac. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.5",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "5",
+   "commentary_text": "Your brethren that hated you - said \"Say ye to your brethren that hate you\" - The Syriac reads אמרו לאחיכם imru laacheychem; and so the Septuagint, Edit. Comp. ειπατε αδελφοις ὑμων· and MS. Marchal. has αδελφοις· and so Cyril and Procopius read and explain it. It is not easy to make sense of the reading of the Septuagint in the other editions; ειπατε αδελφοι ἡμων τοις μισουσιν ὑμας· but for ἡμων, our, MS. 1. D. 2 also has ὑμων, your. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.6",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "6-7",
+   "commentary_text": "A voice of noise from the city, a voice from the temple, a voice of the Lord - It is very remarkable that similar words were spoken by Jesus, son of Ananias, previously to the destruction of Jerusalem. See his very affecting history related by Josephus, War, B. vi., chap. v. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.8",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "8",
+   "commentary_text": "Who hath seen \"And who hath seen\" - Twenty MSS., (four ancient), of Kennicott's, and twenty-nine of De Rossi's, and two ancient of my own, and the two oldest editions, with two others, have ומי umi, adding the conjunction ו vau; and so read all the ancient versions. And who hath seen? \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.9",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "9-10",
+   "commentary_text": "Shall I bring to the birth - האני אשביר haani ashbir, num ego matricem frangam; Montanus. The word means that which immediately precedes the appearance of the fetus - the breaking forth of the liquor amnii. This also is an expression that should be studiously avoided in prayers and sermons. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.11",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "11",
+   "commentary_text": "With the abundance of her glory \"From her abundant stores\" - For מזיז mizziz, from the splendor, two MSS. and the old edition of 1488, have מזיו mizziv; and the latter ז zain is upon a rasure in three other MSS. It is remarkable that Kimchi and Sal. ben Melec, not being able to make any thing of the word as it stands in the text, say it means the same with מזיו mizziv; that is, in effect, they admit of a various reading, or an error in the text. But as Vitringa observes, what sense is there in sucking nourishment from the splendor of her glory? He therefore endeavors to deduce another sense of the word זיז ziz; but, as far as it appears to me, without any authority. I am more inclined to accede to the opinion of those learned rabbins, and to think that there is some mistake in the word; for that in truth is their opinion, though they disguise it by saying that the corrupted word means the very same with that which they believe to be genuine. So in Isa 41:24 they say that אפע apha, a viper, means the same with אפס ephes, nothing; instead of acknowledging that one is written by mistake instead of the other. I would propose to read in this place מזין mizzin or מזן mizzen, which is the reading of one of De Rossi's MS., (instead of מזיז meziz), from the stores, from זון zun, to nourish, to feed; see Gen 45:23;Ch2 11:23; Psa 144:13. And this perhaps may be meant by Aquila, who renders the word by απο παντοδαπιας· with which that of the Vulgate, ab omnimoda gloria, and of Symmachus and Theodotion, nearly agree. The Chaldee follows a different reading, without improving the sense; מיין meyin, from the wine. - L. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.12",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "12-14",
+   "commentary_text": "Like a river, and - like a flowing stream \"Like the great river, and like the overflowing stream\" - That is, the Euphrates, (it ought to have been pointed כנהר cannahar, ut fluvius ille, as the river), and the Nile.\nThen shall ye suck \"And ye shall suck at the breast\" - These two words על שד al shad, at the breast, seem to have been omitted in the present text, from their likeness to the two words following; על צד al tsad, at the side. A very probable conjecture of Houbigant. The Chaldee and Vulgate have omitted the two latter words instead of the two former. See note on Isa 60:4 (note). \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.15",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "15-16",
+   "commentary_text": "The Lord will come with fire \"Jehovah shall come as a fire\" - For באש baesh, in fire, the Septuagint had in their copy קאש kaesh, as a fire; ὡς πυρ.\nTo render his anger with fury \"To breathe forth his anger in a burning heat\" - Instead of להשב lehashib, as pointed by the Masoretes, to render, I understand it as להשב lehashshib, to breathe, from נשב nashab. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.17",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "17",
+   "commentary_text": "Behind one tree \"After the rites of Achad\" - The Syrians worshipped a god called Adad, Plin. Nat. Hist. 37:11; Macrob. Sat. 1:23. They held him to be the highest and greatest of the gods, and to be the same with Jupiter and the sun; and the name Adad, says Macrobius, signifies one; as likewise does the word Achad in Isaiah. Many learned men therefore have supposed, and with some probability, that the prophet means the same pretended deity. אחד achad, in the Syrian and Chaldean dialects, is חד chad; and perhaps by reduplication of the last letter to express perfect unity, it may have become חדד chadad, not improperly expressed by Macrobius Adad, without the aspirate. It was also pronounced by the Syrians themselves, with a weaker aspirate, הדד hadad, as in Benhadad, Hadadezer, names of their kings, which were certainly taken from their chief object of worship. This seems to me to be a probable account of this name.\nBut the Masoretes correct the text in this place. Their marginal reading is אחת achath which is the same word, only in the feminine form; and so read thirty MSS. (six ancient) and the two oldest editions. This Le Clerc approves, and supposes it to mean Hecate, or the moon; and he supports his hypothesis by arguments not at all improbable. See his note on the place.\nWhatever the particular mode of idolatry which the prophet refers to might be, the general sense of the place is perfectly clear. But the Chaldee and Syriac, and after them Symmachus and Theodotion, cut off at once all these difficulties, by taking the word אחד achad in its common meaning, not as a proper name; the two latter rendering the sentence thus: Οπισω αλληλων εν μεσῳ εσθιοντων το κρεας το χοιρειον; \"One after another, in the midst of those that eat swine's flesh.\" I suppose they all read in their copies אחד אחד achad achad, one by one, or perhaps אחד אחר אחד achad achar achad, one after another. See a large dissertation on this subject in Davidis Millii Dissertationes Selectae, Dissert. vi. - L.\nI know not what to make of this place; it is certain that our translation makes no sense, and that of the learned prelate seems to me too refined. Kimchi interprets this of the Turks, who are remarkable for ablutions. \"Behind one in the midst\" he understands of a large fish-pond placed in the middle of their gardens. Others make אחד achad a deity, as above; and a deity of various names it is supposed to be, for it is Achad, and Chad, and Hadad, and Achath, and Hecat, an Assyrian idol. Behynd the fyrst tree or the gate withine forth. - Old MS. Bible. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.18",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "18",
+   "commentary_text": "For I know their works - A word is here lost out of the present text, leaving the text quite imperfect. The word is יודע yodea, knowing, supplied from the Syriac. The Chaldee had the same word in the copy before him, which he paraphrases by קדמי גלן kedemi gelon, their deeds are manifest before me; and the Aldine and Complutensian editions of the Septuagint acknowledge the same word επισταμαι, which is verified by MS. Pachom. and the Arabic version. I think there can be little doubt of its being genuine. The concluding verses of this chapter refer to the complete restoration of the Jews, and to the destruction of all the enemies of the Gospel of Christ, so that the earth shall be filled with the knowledge and glory of the Lord. Talia saecla currite! Lord, hasten the time!\nIt shall come \"And I come\" - For באה baah, which will not accord with any thing in the sentence, I read בא ba, with a MS.; the participle answering to יודע yodea, with which agree the Septuagint, Syriac, and Vulgate. Perhaps it ought to be ובא veba, when I shall come, Syr.; and so the Septuagint, according to Edit. Ald. and Complut., and Cod. Marchal. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.19",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "19",
+   "commentary_text": "That draw the bow - I much suspect that the words משכי קשת moshechey kesheth, who draw the bow, are a corruption of the word משך meshek, Moschi, the name of a nation situated between the Euxine and Caspian seas; and properly joined with תבל tubal, the Tibareni. See Bochart, Phaleg. Isa 3:12. The Septuagint have μοσοχ, without any thing of the drawers of the bow: the word being once taken for a participle, the bow was added to make sense of it קשת kesheth, the bow, is omitted in a MS. and by the Septuagint.\nThat have not heard my fame \"Who never heard my name\" - For שמעי shimi, my fame, I read, with the Septuagint and Syriac, שמי shemi, my name. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.20",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "20",
+   "commentary_text": "And in chariots \"And in counes\" - There is a sort of vehicle much used in the east, consisting of a pair of hampers or cradles, thrown across a camel's back, one on each side; in each of which a person is carried. They have a covering to defend them from the rain and the sun. Thevenot calls them counes, 1 p. 356. Maillet describes them as covered cages hanging on both sides of a camel. \"At Aleppo,\" says Dr. Russell, \"women of inferior condition in longer journeys are commonly stowed, one on each side of a mule, in a sort of covered cradles.\" Nat. Hist. of Aleppo, p. 89. These seem to be what the prophet means by the word צבים tsabbim. Harmer's Observations, 1 p. 445. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.21",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "21-23",
+   "commentary_text": "And for Levites - For ללוים laleviyim, fifty-nine MSS., (eight ancient), have וללוים velaleviyim, adding the conjunction ו vau, which the sense seems necessarily to require: and so read all the ancient versions. See Jos 3:3, and the various readings on that place in Kennicott's Bible. \n"
+  },
+  {
+   "entry_id": "adam-clarke.ISA.66.24",
+   "book": "Isaiah",
+   "book_osis": "ISA",
+   "chapter": 66,
+   "verse_range": "24+",
+   "commentary_text": "For their worm shall not die - These words of the prophet are applied by our blessed Savior, Mar 9:44, to express the everlasting punishment of the wicked in Gehenna, or in hell. Gehenna, or the valley of Hinnom, was very near to Jerusalem to the south-east: it was the place where the idolatrous Jews celebrated that horrible rite of making their children pass through the fire, that is, of burning them in sacrifice to Moloch. To put a stop to this abominable practice, Josiah defiled, or desecrated, the place, by filling it with human bones, Kg2 23:10, Kg2 23:14; and probably it was the custom afterwards to throw out the carcasses of animals there, when it also became the common burying place for the poorer people of Jerusalem. Our Savior expressed the state of the blessed by sensible images; such as paradise, Abraham's bosom, or, which is the same thing, a place to recline next to Abraham at table in the kingdom of heaven. See Mat 8:11. Coenabat Nerva cum paucis. Veiento proxies, atque etiam in sinu recumbebat. \"The Emperor Nerva supped with few. Veiento was the first in his estimation, and even reclined in his bosom.\" Plin. Epist. 4:22. Compare Joh 13:23; for we could not possibly have any conception of it but by analogy from worldly objects. In like manner he expressed the place of torment under the image of Gehenna; and the punishment of the wicked by the worm which there preyed on the carcasses, and the fire that consumed the wretched victims. Marking however, in the strongest manner, the difference between Gehenna and the invisible place of torment; namely, that in the former the suffering is transient: - the worm itself which preys upon the body, dies; and the fire which totally consumes it, is soon extinguished: - whereas in the figurative Gehenna the instruments of punishment shall be everlasting, and the suffering without end; \"for there the worm dieth not, and the fire is not quenched.\"\nThese emblematical images, expressing heaven and hell, were in use among the Jews before our Savior's time; and in using them he complied with their notions. \"Blessed is he that shall eat bread in the kingdom of God,\" says the Jew to our Savior, Luk 14:15. And in regard to Gehenna, the Chaldee paraphrase as I observed before on Isa 30:33, renders everlasting or continual burnings by \"the Gehenna of everlasting fire.\" And before his time the son of Sirach, 7:17, had said, \"The vengeance of the ungodly is fire and worms.\" So likewise the author of the book of Judith, chap. 16:17: \"Wo to the nations rising up against my kindred: the Lord Almighty will take vengeance of them in the day of judgment, in putting fire and worms in their flesh;\" manifestly referring to the same emblem. - L.\nKimchi's conclusion of his notes on this book is remarkable: - \n\"Blessed be God who hath created the mountains and the hills,\nAnd hath endued me with strength to finish the book of salvation:\nHe shall rejoice us with good tidings and reports;\nHe shall show us a token for good: - \nAnd the end of his miracles he shall cause to approach us.\"\nSeveral of the Versions have a peculiarity in their terminations: - \nAnd they shall be to a satiety of sight to all flesh.\nVulgate.\nAnd thei schul ben into fyllyng of sigt to all fleshe.\nOld MS. Bible.\nAnd they shall be as a vision to all flesh.\nSeptuagint.\nAnd the wicked shall be punished in hell till the righteous shall say, - It is enough.\nChaldee.\nThey shall be an astonishment to all flesh; So that they shall be a spectacle to all beings.\nSyriac.\nThe end of the prophecy of Isaiah the prophet.\nPraise to God who is truly praiseworthy.\nArabic.\nOne of my old Hebrew MSS. after the twenty-first verse repeats the twenty-third: \"And it shall come to pass that from one new moon to another, and from one Sabbath to another, shall all flesh come to worship before me, saith the Lord.\"\n\n"
+  }
+ ]
+}

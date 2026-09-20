@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "id": "jamieson-fausset-brown",
+  "title": "Jamieson-Fausset-Brown Bible Commentary",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "schema_type": "commentary",
+  "source_url": "https://bible.helloao.org/api/c/jamieson-fausset-brown/2SA/",
+  "source_format": "JSON (HelloAO Bible API)",
+  "book_scope": "Doar capitolele relevante Haftarot: 6,7,22",
+  "download_date": "2026-09-19",
+  "notes": "Extras restrans (nu cartea completa) - doar capitolele folosite de Haftarot catalogate."
+ },
+ "data": [
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.2",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "2",
+   "commentary_text": "from Baale of Judah--A very large force of picked men were selected for this important work lest the undertaking might be opposed or obstructed by the Philistines. Besides, a great concourse of people accompanied them out of veneration for the sacred article. The journey to Baale, which is related (Ch1 13:6), is here presupposed, and the historian describes the course of the procession from that place to the capital.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.3",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "3-5",
+   "commentary_text": "they set the ark of God upon a new cart--or a covered wagon (see on Sa1 6:7). This was a hasty and inconsiderate procedure, in violation of an express statute (see on Num 4:15 and see Num 7:9; Num 18:3).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.6",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "6-8",
+   "commentary_text": "UZZAH SMITTEN. (Sa2 6:6-11)\n\nthey came to Nachon's threshing-floor--or Chidon's (Ch1 13:9). The Chaldee version renders the words, \"came to the place prepared for the reception of the ark,\" that is, near the city of David (Sa2 6:13). \n\nthe oxen shook it--or, \"stumbled\" (Ch1 13:9). Fearing that the ark was in danger of being overturned, Uzzah, under the impulse of momentary feeling, laid hold of it to keep it steady. Whether it fell and crushed him, or some sudden disease attacked him, he fell dead upon the spot. This melancholy occurrence not only threw a cloud over the joyous scene, but entirely stopped the procession; for the ark was left where it then was, in the near neighborhood of the capital. It is of importance to observe the proportionate severity of the punishments attending the profanation of the ark. The Philistines suffered by diseases, from which they were relieved by their oblations, because the law had not been given to them [Sa1 5:8-12]; the Bethshemites also suffered, but not fatally [Sa1 6:19]; their error proceeded from ignorance or inadvertency. But Uzzah, who was a Levite, and well instructed, suffered death for his breach of the law. The severity of Uzzah's fate may seem to us too great for the nature and degree of the offense. But it does not become us to sit in judgment on the dispensations of God; and, besides, it is apparent that the divine purpose was to inspire awe of His majesty, a submission to His law, and a profound veneration for the symbols and ordinances of His worship.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.9",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "9-10",
+   "commentary_text": "David was afraid of the Lord that day, &c.--His feelings on this alarming judgment were greatly excited on various accounts, dreading that the displeasure of God had been provoked by the removal of the ark, that the punishment would be extended to himself and people, and that they might fall into some error or neglect during the further conveyance of the ark. He resolved, therefore, to wait for more light and direction as to the path of duty. An earlier consultation by Urim would have led him right at the first, whereas in this perplexity and distress, he was reaping the fruits of inconsideration and neglect.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.11",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "11",
+   "commentary_text": "Obed-edom the Gittite--a Levite (Ch1 15:18, Ch1 15:21, Ch1 15:24; Ch1 16:5; Ch1 26:4). He is called a Gittite, either from his residence at Gath, or more probably from Gath-rimmon, one of the Levitical cities (Jos 21:24-25).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.12",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "12",
+   "commentary_text": "DAVID AFTERWARDS BRINGS THE ARK TO ZION. (Sa2 6:12-19)\n\nit was told king David, saying, The Lord hath blessed the house of Obed-edom, and all that pertaineth unto him, because of the ark of God--The lapse of three months not only restored the agitated mind of the monarch to a tranquil and settled tone, but led him to a discovery of his former error. Having learned that the ark was kept in its temporary resting-place not only without inconvenience or danger, but with great advantage, he resolved forthwith to remove it to the capital, with the observance of all due form and solemnity (Ch1 15:1-13). It was transported now on the shoulders of the priests, who had been carefully prepared for the work, and the procession was distinguished by extraordinary solemnities and demonstrations of joy.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.13",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "13",
+   "commentary_text": "when they that bare the ark . . . had gone six paces--Some think that four altars were hastily raised for the offering of sacrifices at the distance of every six paces (but see on Ch1 15:26).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.14",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "14-16",
+   "commentary_text": "David danced before the Lord--The Hebrews, like other ancient people, had their sacred dances, which were performed on their solemn anniversaries and other great occasions of commemorating some special token of the divine goodness and favor. \n\nwith all his might--intimating violent efforts of leaping, and divested of his royal mantle (in a state of undress), conduct apparently unsuitable to the gravity of age or the dignity of a king. But it was unquestionably done as an act of religious homage, his attitudes and dress being symbolic, as they have always been in Oriental countries, of penitence, joy, thankfulness, and devotion. [See on Ch1 15:27.]\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.17",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "17",
+   "commentary_text": "they brought in the ark of the Lord, and set it in his place, in the midst of the tabernacle that David had pitched for it--The old tabernacle remained at Gibeon (Ch1 16:39; Ch1 21:29; Ch2 1:3). Probably it was not removed because it was too large for the temporary place the king had appropriated, and because he contemplated the building of a temple.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.18",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "18",
+   "commentary_text": "he blessed the people--in the double character of prophet and king (see Kg1 8:55-56). [See on Ch1 16:2.]\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.19",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "19",
+   "commentary_text": "cake of bread--unleavened and slender. \n\na good piece of flesh--roast beef.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.6.20",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "20+",
+   "commentary_text": "MICHAL'S BARRENNESS. (Sa2 6:20-23)\n\nMichal . . . came out to meet David, &c.--Proud of her royal extraction, she upbraided her husband for lowering the dignity of the crown and acting more like a buffoon than a king. But her taunting sarcasm was repelled in a manner that could not be agreeable to her feelings while it indicated the warm piety and gratitude of David.\n\n\n\n\nNext: 2 Samuel Chapter 7\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.7.3",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "3",
+   "commentary_text": "Nathan said to the king, Go, do all that is in thine heart--The piety of the design commended it to the prophet's mind, and he gave his hasty approval and encouragement to the royal plans. The prophets, when following the impulse of their own feelings, or forming conjectural opinions, fell into frequent mistakes. (See on Sa1 16:6; Kg2 4:27).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.7.4",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "4-10",
+   "commentary_text": "GOD APPOINTS HIS SUCCESSOR TO BUILD IT. (Sa2 7:4-17)\n\nit came to pass that night, that the word of the Lord came unto Nathan--The command was given to the prophet on the night immediately following; that is, before David could either take any measures or incur any expenses.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.7.11",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "11",
+   "commentary_text": "Also the Lord telleth thee that he will make thee an house--As a reward for his pious purpose, God would increase and maintain the family of David and secure the succession of the throne to his dynasty. [See on Ch1 17:10].\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.7.12",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "12",
+   "commentary_text": "I will set up thy seed after thee, &c.--It is customary for the oldest son born after the father's succession to the throne to succeed him in his dignity as king. David had several sons by Bath-sheba born after his removal to Jerusalem (Sa2 5:14-16; compare Ch1 3:5). But by a special ordinance and promise of God, his successor was to be a son born after this time; and the departure from the established usage of the East in fixing the succession, can be accounted for on no other known ground, except the fulfilment of the divine promise.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.7.13",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "13-17",
+   "commentary_text": "He shall build an house for my name, and I will establish the throne of his kingdom for ever--This declaration referred, in its primary application, to Solomon, and to the temporal kingdom of David's family. But in a larger and sublimer sense, it was meant of David's Son of another nature (Heb 1:8). [See on Ch1 17:14.]\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.7.18",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "18",
+   "commentary_text": "DAVID'S PRAYER AND THANKSGIVING. (Sa2 7:18-29)\n\nThen went king David in, and sat before the Lord--Sitting was anciently an attitude for worship (Exo 17:12; Sa1 4:13; Kg1 19:4). As to the particular attitude David sat, most probably, upon his heels. It was the posture of the ancient Egyptians before the shrines; it is the posture of deepest respect before a superior in the East. Persons of highest dignity sit thus when they do sit in the presence of kings and it is the only sitting attitude assumed by the modern Mohammedans in their places and rites of devotion.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.7.19",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "19",
+   "commentary_text": "is this the manner of man, O Lord God?--that is, is it customary for men to show such condescension to persons so humble as I am? (See Ch1 17:17.)\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.2SA.7.20",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "20+",
+   "commentary_text": "what can David say more unto thee?--that is, my obligations are greater than I can express.\n\n\n\n\nNext: 2 Samuel Chapter 8\n\n"
+  }
+ ]
+}

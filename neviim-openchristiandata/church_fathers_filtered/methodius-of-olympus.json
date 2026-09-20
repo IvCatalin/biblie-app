@@ -1,0 +1,293 @@
+{
+ "meta": {
+  "id": "methodius-of-olympus",
+  "author": "Methodius of Olympus",
+  "license": "public-domain",
+  "schema_type": "church_fathers",
+  "source_url": "https://github.com/HistoricalChristianFaith/Commentaries-Database",
+  "book_scope": "Doar cele 18 carti Nevi'im folosite de Haftarot catalogate",
+  "download_date": "2026-09-19"
+ },
+ "by_book": {
+  "1Sam": [
+   {
+    "entry_id": "methodius-of-olympus.1Sam.28.14.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "1 Samuel 28:14",
+     "osis": [
+      "1Sam.28.14"
+     ]
+    },
+    "quote": "And, therefore, if we inquire regarding the \"tongue,\" and the \"finger,\" and \"Abraham's bosom,\" and the reclining there, it may perhaps be that the soul receives a form similar in appearance to its earthly body in the change. If, then, any one of those who have fallen asleep is recorded as having reappeared, he is seen in the same way and in the form that he had when he was in the flesh. Besides, when Samuel appeared, it is clear that, being seen, he was clothed in a body; and this must especially be admitted, if we are pressed by arguments which prove that the essence of the soul is incorporeal and is manifested by itself.",
+    "source_title": "ON THE RESURRECTION 3.2.19",
+    "source_url": ""
+   }
+  ],
+  "2Kgs": [
+   {
+    "entry_id": "methodius-of-olympus.2Kgs.20.7.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "2 Kings 20:7",
+     "osis": [
+      "2Kgs.20.7"
+     ]
+    },
+    "quote": "The vine, and that not in a few places, refers to the Lord himself, and the fig tree to the Holy Spirit, as the Lord makes glad the hearts of people and heals them. And therefore Hezekiah is commanded first to make a plaster with a lump of figs—that is, the fruit of the Spirit—that he may be healed—that is, according to the apostle—by love; for he says, \"The fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance;\" which, on account of their great pleasantness the prophet calls figs. Micah also says, \"They shall sit everyone under his vine and under his fig tree; and none shall make them afraid.\" Now it is certain that those who have taken refuge and rested under the Spirit and under the shadow of the Word shall not be alarmed or frightened by him who troubles the hearts of humankind.",
+    "source_title": "SYMPOSIUM OR BANQUET OF THE TEN VIRGINS 10.5",
+    "source_url": ""
+   }
+  ],
+  "Hab": [
+   {
+    "entry_id": "methodius-of-olympus.Hab.2.20.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Habakkuk 2:20",
+     "osis": [
+      "Hab.2.20"
+     ]
+    },
+    "quote": "And then, as to that which is subjoined, \"When the time is come, Thou shalt be shown forth,\" what exposition doth this require, if a man diligently direct the eye of his mind to the festival which we are now celebrating? \"For then shalt Thou be shown forth,\" He says, \"as upon a kingly charger, by Thy pure and chaste mother, in the temple, and that in the grace and beauty of the flesh assumed by Thee.\" All these things the prophet, summing up for the sake of greater clearness, exclaims in brief: \"The Lord is in His holy temple;\" \"Fear before Him all the earth.\"",
+    "source_title": "ORATION CONCERNING SIMEON AND ANNA 4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Methodius%2520of%2520Olympus%2FOration%2520Concerning%2520Simeon%2520and%2520Anna.html"
+   }
+  ],
+  "Isa": [
+   {
+    "entry_id": "methodius-of-olympus.Isa.44.4.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Isaiah 44:4",
+     "osis": [
+      "Isa.44.4"
+     ]
+    },
+    "quote": "For everywhere the divine writings take the willow as the type of chastity, because when its flower is steeped in water, if it is drunk, it extinguishes whatever kindles sensual desires and passions within us, until it renders completely barren and makes every inclination to the begetting of children without effect, as also Homer indicated, for this reason calling the willows destructive of fruit.… For as it is the nature of this tree to bud and grow to maturity when enriched by words, so it is the nature of virginity to blossom and grow to maturity when enriched by words, so that one can hang one's body on it.If, then, the rivers of Babylon are the streams of voluptuousness, as wise people say, which confuse and disturb the soul, then the willows must be chastity, to which we may suspend and draw up the organs of lust that overbalance and weigh down the mind, so that they may not be borne down by the torrents of incontinence and be drawn like worms to impurity and corruption.",
+    "source_title": "SYMPOSIUM OR BANQUET OF THE TEN VIRGINS 4:3-4",
+    "source_url": ""
+   },
+   {
+    "entry_id": "methodius-of-olympus.Isa.45.18.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Isaiah 45:18",
+     "osis": [
+      "Isa.45.18"
+     ]
+    },
+    "quote": "For in reality God did not establish the universe in vain or to no purpose but destruction, as those weak-minded people say, but to exist and be inhabited and continue. Therefore the earth and the heaven must exist again after the conflagration and shaking of all things.",
+    "source_title": "ON THE RESURRECTION 1:8",
+    "source_url": ""
+   },
+   {
+    "entry_id": "methodius-of-olympus.Isa.51.6.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Isaiah 51:6",
+     "osis": [
+      "Isa.51.6"
+     ]
+    },
+    "quote": "But if our opponents say, How then is it, if the universe is not destroyed, that the Lord says that \"heaven and earth shall pass away,\" and the prophet, that \"the heaven shall perish as smoke\" and \"the earth shall grow old as a garment\"; we answer, because it is usual for the Scriptures to call the change of the world from its present condition to a better and more glorious one destruction, as its earlier form is lost in the change of all things to a state of greater splendor, for there is neither contradiction nor absurdity in the Scriptures. For not \"the world\" but \"the fashion of this world\" passes away, it is said. So it is usual for the Scriptures to call the change from an earlier form to a better and more comely state \"destruction\"; just as when one calls by the name of \"destruction\" the change from a childish form into a perfect adult, as the stature of the child is turned into mature size and beauty.",
+    "source_title": "ON THE RESURRECTION 1:9",
+    "source_url": ""
+   },
+   {
+    "entry_id": "methodius-of-olympus.Isa.52.2.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Isaiah 52:2",
+     "osis": [
+      "Isa.52.2"
+     ]
+    },
+    "quote": "The creation, then, after being restored to a better and more fitting state, remains, rejoicing and exulting over the children of God at the resurrection. For their sake the creation now groans and travails, waiting itself also for our redemption from the corruption of the body, that, when we have risen and shaken off the mortality of the flesh, according to that which is written, \"shake off the dust, and arise and sit down, O Jerusalem,\" and have been set free from sin, it also shall be freed from corruption and be subject no longer to vanity but to righteousness.",
+    "source_title": "ON THE RESURRECTION 1:8",
+    "source_url": ""
+   },
+   {
+    "entry_id": "methodius-of-olympus.Isa.60.1.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Isaiah 60:1",
+     "osis": [
+      "Isa.60.1"
+     ]
+    },
+    "quote": "Hail, thou heaven upon earth, Sion, the city that is for ever faithful unto the Lord. Hail, and shine thou Jerusalem, for thy light is come, the Light Eternal, the Light for ever enduring, the Light Supreme, the Light Immaterial, the Light of one substance with God and the Father, the Light which is in the Spirit, and in which is the Father; the Light which illumines the ages; the Light which gives light to mundane and supramundane things, Christ our very God. Hail, city sacred and elect of the Lord. Joyfully keep thy festal days, for they will not multiply so as to wax old and pass away.",
+    "source_title": "ORATION CONCERNING SIMEON AND ANNA 13",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Methodius%2520of%2520Olympus%2FOration%2520Concerning%2520Simeon%2520and%2520Anna.html"
+   },
+   {
+    "entry_id": "methodius-of-olympus.Isa.60.3.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Isaiah 60:3",
+     "osis": [
+      "Isa.60.3"
+     ]
+    },
+    "quote": "It is the church whose children shall come to it with all speed after the resurrection, running to it from all quarters. [The church] rejoices, receiving the light that never goes down and clothed with the brightness of the Word as with a robe. For with what other more precious or honorable ornament was it becoming that the queen should be adorned, to be led as a bride to the Lord, when she had received a garment of light and therefore was called by the Father? Come then, let us go forward in our discourse and look on this marvelous woman as on virgins prepared for a marriage, pure and undefiled, perfect and radiating a permanent beauty, lacking nothing of the brightness of light; and instead of a dress, clothed with light itself; and instead of precious stones, her head adorned with shining stars.",
+    "source_title": "SYMPOSIUM OR BANQUET OF THE TEN VIRGINS 8:5",
+    "source_url": ""
+   },
+   {
+    "entry_id": "methodius-of-olympus.Isa.66.7.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Isaiah 66:7",
+     "osis": [
+      "Isa.66.7"
+     ]
+    },
+    "quote": "Now that that parturition was polluted, and stood not in need of expiatory victims, Isaiah is our witness, who proclaims distinctly to the whole earth under the sun: \"Before she travailed,\" he says, \"she brought forth before her pains came, she escaped, and brought forth a man-child.\" Who hath heard such a thing? Who hath seen such things? The most holy virgin mother, therefore, escaped entirely the manner of women even before she brought forth: doubtless, in order that the Holy Spirit, betrothing her unto Himself, and sanctifying her, she might conceive without intercourse with man. She hath brought forth her first-born Son, even the only-begotten Son of God, Him, I say, who in the heavens above shone forth as the only-begotten, without mother, from out His Father's substance, and preserved the virginity of His natural unity undivided and inseparable; and who on earth, in the virgin's nuptial chamber, joined to Himself the nature of Adam, like a bridegroom, by an inalienable union, and preserved His mother's purity uncorrupt and uninjured—Him, in short, who in heaven was begotten without corruption, and on earth brought forth in a manner quite unspeakable.",
+    "source_title": "ORATION CONCERNING SIMEON AND ANNA 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Methodius%2520of%2520Olympus%2FOration%2520Concerning%2520Simeon%2520and%2520Anna.html"
+   }
+  ],
+  "Jer": [
+   {
+    "entry_id": "methodius-of-olympus.Jer.18.3-6.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Jeremiah 18:3-6",
+     "osis": [
+      "Jer.18.3"
+     ]
+    },
+    "quote": "The prophet Jeremiah addresses the Jews in these words: \"And I went down to the potter's house. Behold, he made a work on the stones. The vessel that he made in his hands was broken. Again he made another vessel, as it pleased him to make it. And the word of the Lord came to me, saying, 'Cannot I do to you as this potter, O house of Israel? Behold, you are like the clay of the potter in my hands.' \" For I call your attention to this, that, as I said, after human transgression the great Hand was not content to leave as a trophy of victory its own work, debased by the evil one, who wickedly injured it from motives of envy, but moistened and reduced it to clay, as a potter breaks up a vessel, that by the remodeling of it all the blemishes and bruises in it may disappear, and it may be made afresh faultless and pleasing.",
+    "source_title": "ON THE RESURRECTION 1:6-7",
+    "source_url": ""
+   },
+   {
+    "entry_id": "methodius-of-olympus.Jer.1.5.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:5",
+     "osis": [
+      "Jer.1.5"
+     ]
+    },
+    "quote": "So, if God still forms human beings, shall we not be guilty of audacity if we think of the generation of children as something offensive when even the Almighty is not ashamed to make use of them in working with his undefiled hands.",
+    "source_title": "BANQUET OF THE TEN VIRGINS 2:2",
+    "source_url": ""
+   },
+   {
+    "entry_id": "methodius-of-olympus.Jer.21.8.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Jeremiah 21:8",
+     "osis": [
+      "Jer.21.8"
+     ]
+    },
+    "quote": "It was not God's law that became the cause of my being brought into subjection to corruption, but the devil, that he might be made manifest. He wrought evil through that which is good. The inventor of evil became and was proved to be the greatest of all sinners. \"For we know that the law is spiritual.\" So the law cannot injure anyone in any way. Spiritual things are far removed from irrational lust and sin. \"But I am carnal, sold under sin.\" This means, \"I am carnal and placed between good and evil as a voluntary agent, so that I have it in my power to choose what I wish.\" For \"behold, I set before you life and death.\" This means, \"Death would result from disobedience of the spiritual law, that is, of the commandment, and from obedience to the carnal law, that is, the counsel of the serpent.\" By such a choice I am sold to the devil, fallen under sin. Hence evil, as though besieging me, clings to me and dwells in me. Justice gives me up to be sold to the evil one, as a result of having violated the law.",
+    "source_title": "ON THE RESURRECTION 3:2.1",
+    "source_url": ""
+   },
+   {
+    "entry_id": "methodius-of-olympus.Jer.24.2-3.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Jeremiah 24:2-3",
+     "osis": [
+      "Jer.24.2"
+     ]
+    },
+    "quote": "The fig tree can be taken as a type of the delights of paradise due to the sweetness and excellence of its fruit. The devil beguiled the man by imitating it and then led him captive, persuading him to conceal the nakedness of his body by fig leaves.… The enemy, by his power, always imitates the forms of virtue and righteousness, not for the purpose of truly promoting its exercise but for deception and hypocrisy. He camouflages himself with the colors of immortality in order to entice those who are fleeing from death to embrace death. And so he desires to look like a fig tree or vine and to produce sweetness and joy, and he is \"transformed into an angel of light,\" ensnaring many by the appearance of piety.For we find in the sacred Writings that there are two kinds of fig trees and vines, \"the good figs, which are very good, and the evil, which are very evil\"; and \"wine that makes glad the heart of people\" and wine that is the poison of dragons and the incurable venom of asps. But from the time when chastity began to rule over the human race, the fraud was detected and overcome, with Christ, the chief of virgins, overturning it. So both the true fig tree and the true vine yield fruit after that the power of chastity has laid hold on all, as Joel the prophet preaches, saying, \"Do not be afraid, O land. Be glad and rejoice, for the Lord will do great things. Do not be afraid, beasts of the field, for the pastures of the wilderness are springing into life, for the tree bears its fruit, the fig tree and the vine yield their strength. Be glad then, children of Zion, and rejoice in the Lord your God, for he has given you food for righteousness.\" He calls the former laws the vine and the fig, trees bearing fruit for righteousness for the children of the spiritual Zion that bore fruit after the incarnation of the Word, when chastity ruled over us, when formerly, because of sin and much error, they had checked and destroyed their buds. For the true vine and the true fig tree were not able to yield such nourishment to us as would be profitable for life while as yet the false fig tree, variously adorned for the purpose of fraud, flourished. But when the Lord dried up the false branches—imitations of the true branches—uttering the sentence against the bitter fig tree, \"Let no fruit grow on you henceforward forever,\" then those that were truly fruit-bearing trees flourished and yielded food for righteousness.\nThe vine—and not just in a few places—refers to the Lord, and the fig tree to the Holy Spirit, as the Lord makes glad the hearts of people and the Spirit heals them. And therefore Hezekiah is commanded first to make a plaster with a lump of figs—that is, the fruit of the Spirit—that he may be healed—that is, according to the apostle—by love; for he says, \"The fruit of the Spirit is love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, temperance\"; which, because of their great pleasantness, the prophet calls figs. Micah also says, \"Every person shall sit under his vine and under his fig tree; and none shall make them afraid.\" Now it is certain that those who have taken refuge and rested under the Spirit and under the shadow of the Word shall not be alarmed or frightened by him who troubles the hearts of people.",
+    "source_title": "SYMPOSIUM OR BANQUET OF THE TEN VIRGINS 10:5",
+    "source_url": ""
+   }
+  ],
+  "Joel": [
+   {
+    "entry_id": "methodius-of-olympus.Joel.2.22.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Joel 2:22",
+     "osis": [
+      "Joel.2.22"
+     ]
+    },
+    "quote": "For the fig tree, on account of its sweetness and richness, represents the delights of humankind, which they had in paradise before the Fall. Indeed, not rarely, as we shall afterwards show, the Holy Spirit takes the fruit of the fig tree as an emblem of goodness. But the vine, on account of the gladness produced by wine and the joy of those who were saved from wrath and from deluge, signifies the change produced from fear and anxiety into joy. Moreover, the olive, on account of the oil which it produces, indicates the compassion of God, who again, after the deluge, bore patiently when people turned aside to ungodliness, so that he gave them the law and manifested himself to some, and nourished by oil the light of virtue, now almost extinguished.",
+    "source_title": "BANQUET OF THE TEN VIRGINS 10:2",
+    "source_url": ""
+   }
+  ],
+  "Jonah": [
+   {
+    "entry_id": "methodius-of-olympus.Jonah.1.1.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Jonah 1:1",
+     "osis": [
+      "Jonah.1.1"
+     ]
+    },
+    "quote": "The history of Jonah contains a great mystery. For it seems that the whale signifies Time, which never stands still, but is always going on, and consumes the things which are made by long and shorter intervals. But Jonah, who fled from the presence of God, is himself the first man who, having transgressed the law, fled from being seen naked of immortality, having lost through sin his confidence in the Deity. And the ship in which he embarked, and which was tempest-tossed, is this brief and hard life in the present time; just as though we had turned and removed from that blessed and secure life, to that which was most tempestuous and unstable, as from solid land to a ship. For what a ship is to the land, that our present life is to that which is immortal. And the storm and the tempests which beat against us are the temptations of this life, which in the world, as in a tempestuous sea, do not permit us to have a fair voyage free from pain, in a calm sea, and one which is free from evils. And the casting of Jonah from the ship into the sea, signifies the fall of the first man from life to death, who received that sentence because, through having sinned, he fell from righteousness: \"Dust thou art, and unto dust shalt thou return,\" [Gen. iii. 19]. And his being swallowed by the whale signifies our inevitable removal by time. For the belly in which Jonah, when he was swallowed, was concealed, is the all-receiving earth, which receives all things which are consumed by time.",
+    "source_title": "Methodius Fragments: On the History of Jonah",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Methodius%2520of%2520Olympus%2FFragments.html"
+   },
+   {
+    "entry_id": "methodius-of-olympus.Jonah.2.1.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Jonah 2:1",
+     "osis": [
+      "Jonah.2.1"
+     ]
+    },
+    "quote": "As, then, Jonah spent three days and as many nights in the whale's belly, and was delivered up sound again, so shall we all, who have passed through the three stages of our present life on earth -- I mean the beginning, the middle, and the end, of which all this present time consists -- rise again. For there are altogether three intervals of time, the past, the future, and the present. And for this reason the Lord spent so many days in the earth symbolically, thereby teaching clearly that when the fore-mentioned intervals of time have been fulfilled, then shall come our resurrection, which is the beginning of the future age, and the end of this. For in that age there is neither past nor future, but only the present.\nMoreover, Jonah having spent three days and three nights in the belly of the whale, was not destroyed by his flesh being dissolved, as is the case with that natural decomposition which takes place in the belly, in the case of those meats which enter into it, on account of the greater heat in the liquids, that it might be shown that these bodies of ours may remain undestroyed. For consider that God had images of Himself made as of gold, that is of a purer spiritual substance, as the angels; and others of clay or brass, as ourselves. He united the soul which was made in the image of God to that which was earthy. As, then, we must here honour all the images of a king, on account of the form which is in them, so also it is incredible that we who are the images of God should be altogether destroyed as being without honour. Whence also the Word descended into our world, and was incarnate of our body, in order that, having fashioned it to a more divine image, He might raise it incorrupt, although it had been dissolved by time. And, indeed, when we trace out the dispensation which was figuratively set forth by the prophet, we shall find the whole discourse visibly extending to this.",
+    "source_title": "Methodius Fragments: On the History of Jonah",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Methodius%2520of%2520Olympus%2FFragments.html"
+   }
+  ],
+  "Judg": [
+   {
+    "entry_id": "methodius-of-olympus.Judg.9.8-15.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Judges 9:8-15",
+     "osis": [
+      "Judg.9.8"
+     ]
+    },
+    "quote": "But lest I should appear to some to be sophistical, and to conjecture these things from mere probabilities, and to babble, I will bring forward to you, O virgins, from the Old Testament, written prophecy from the book of Judges, to show that I speak the truth, where the future reign of chastity was already clearly foretold.…Now it is clear that these things are not said of trees growing out of the earth. Inanimate trees cannot be assembled in council to choose a king since they are firmly fixed to the earth by deep roots. But on the whole these things are narrated concerning souls that—before the incarnation of Christ—luxuriated too deeply in transgressions, who approach God as beggars asking for mercy so that they may be governed by his pity and compassion. This mercy is what Scripture expresses by the figure of the olive, because oil is of great advantage to our bodies: it takes away our fatigue and ailments and offers light. For all lamplight increases when nourished by oil. So also God's mercies entirely dispel death, assist the human race and nourish the light of the heart. Consider the laws [which were in effect] from the first created man successively on to Christ. Weren't they imaginatively set forth in these words by the Scripture, in opposition to which the devil has deceived humanity? In it the fig tree has been associated with the command given to the man in paradise, because, when he was deceived, he covered his nakedness with the leaves of a fig tree; and the vine [has been related] to the instruction given to Noah at the time of the deluge, because he was mocked when overpowered by wine. The olive signifies the law given to Moses in the desert, because the prophetic grace, the holy oil, had failed from their inheritance when they broke the law. Lastly, the bramble aptly refers to the law that was given to the apostles for the salvation of the world: by their instruction we have been taught virginity, which is the only figure that the devil has not been able to make into a deceptive image. For this reason, also, the four Gospels have been given, because God has four times given the gospel to the human race and has instructed them by four laws, the times of which are clearly known by the diversity of the fruits. For the fig tree, on account of its sweetness and richness, represents the delights of man, which he had in paradise before the fall. Indeed, as we shall afterwards show, the Holy Spirit frequently takes the fruit of the fig tree as an emblem of goodness. But the vine, on account of the gladness produced by wine and the joy of those who were saved from wrath and from the deluge, signifies the change produced from fear and anxiety into joy. Moreover, the olive, on account of the oil that it produces, indicates the compassion of God, who again, after the deluge, bore patiently when people turned aside to ungodliness, so that he gave them the law and manifested himself to some, and nourished by oil the light of virtue, which is now almost extinguished.",
+    "source_title": "BANQUET OF THE TEN VIRGINS 10.2",
+    "source_url": ""
+   }
+  ],
+  "Mic": [
+   {
+    "entry_id": "methodius-of-olympus.Mic.4.4.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Micah 4:4",
+     "osis": [
+      "Mic.4.4"
+     ]
+    },
+    "quote": "The vine, and that not in a few places, refers to the Lord himself, and the fig tree to the Holy Spirit, as the Lord \"makes glad the hearts of men,\" and the Spirit heals them. Hezekiah is commanded to make plaster with a lump of figs—that is, the fruit of the Spirit—that he may be healed. According to the apostle this healing begins with love. For he says, \"The fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance.\" On account of their great pleasantness, the prophet calls these spiritual fruits figs. Of them Micah also says, \"They shall sit every man under his vine and under his fig tree; and none shall make them afraid.\" Now it is certain that those who have taken refuge and rested under the Spirit and under the shadow of the Word shall not be alarmed or frightened by the one who troubles the hearts of humankind.",
+    "source_title": "BANQUET OF THE TEN VIRGINS 10:5",
+    "source_url": ""
+   }
+  ],
+  "Zech": [
+   {
+    "entry_id": "methodius-of-olympus.Zech.4.3.0",
+    "author": "Methodius of Olympus",
+    "anchor_ref": {
+     "raw": "Zechariah 4:3",
+     "osis": [
+      "Zech.4.3"
+     ]
+    },
+    "quote": "Zechariah shows that the olive shadows forth the law of Moses, speaking thus: \"And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep, and said to me, 'What do you see?' And I said, 'I have looked, and behold a candlestick all of gold, with a bowl on the top of it, … and two olive trees by it, one on the right side of the bowl and the other on its left side.' \" And after a few words, the prophet, asking what are the olives on the right and the left of the candlestick and what are the two olive boughs in the hands of the two pipes, the angel answered and said, \"These are the two sons of fruitfulness which stand by the Lord of the whole earth.\" [These signify] the two firstborn virtues that are waiting upon God, which, in his dwelling, supply around the wick, through the boughs, the spiritual oil of God, that humanity may have the light of divine knowledge. But the two boughs of the two olives are the law and the prophets, around, as it were, the lot of the inheritance, of which Christ and the Holy Spirit are the authors. We ourselves, meanwhile, [are] not being able to take the whole fruit and the greatness of these plants, before chastity began to rule the world, but only their boughs—namely, the law and the prophets—did we formerly cultivate, and those moderately, often letting them slip. For who was ever able to receive Christ or the Spirit, unless he first purified himself? For the exercise which prepares the soul from childhood for desirable and delectable glory, and carries this grace safely there with ease, and from small toils raises up mighty hopes, is chastity, which gives immortality to our bodies. It becomes all people willingly to prefer in honor and to praise above all things; some, that by its means they may be betrothed to the word, practicing virginity; and others, that by it they may be freed from the curse, \"Dust you are, and to dust you will return.\" This, O Arete, is the discourse on virginity which you required of me, accomplished according to my ability; which I pray, O mistress, although it is mediocre and short, that you will receive with kindness from me who was chosen to speak last.",
+    "source_title": "BANQUET OF THE TEN VIRGINS 10:6",
+    "source_url": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,839 @@
+{
+ "meta": {
+  "id": "john-gill",
+  "title": "John Gill Bible Commentary",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "schema_type": "commentary",
+  "source_url": "https://bible.helloao.org/api/c/john-gill/2SA/",
+  "source_format": "JSON (HelloAO Bible API)",
+  "book_scope": "Doar capitolele relevante Haftarot: 6,7,22",
+  "download_date": "2026-09-19",
+  "notes": "Extras restrans (nu cartea completa) - doar capitolele folosite de Haftarot catalogate."
+ },
+ "data": [
+  {
+   "entry_id": "john-gill.2SA.6.1",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "1",
+   "commentary_text": "Again, David gathered together all the chosen men of Israel, thirty thousand. Which was done by the advice of his officers, 1 Chronicles 13:1; the word \"again\" refers either to the gathering of them when they made him king in Hebron, as the Jewish writers generally observe; but then they gathered themselves, and not David: or rather to his gathering them to fight the Philistines a little while ago; and as they were the choice and young men that were gathered for war, as being the fittest, so now to fetch up the ark with dancing and singing, and to protect it; the Septuagint version says they were about seventy thousand; but the Targum, Syriac, and Arabic versions, have thirty thousand, agreeably to the Hebrew text. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.2",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "2",
+   "commentary_text": "And David arose, and went with all the people that were with him,.... The thirty thousand chosen men gathered together, and as many else as chose to go:\n\nfrom Baale of Judah, to bring up from thence the ark of God; that is, they first went to this place, as in 1 Chronicles 13:6; in order to fetch the ark from thence, as here expressed, and then they came from thence with it; this place is the same that is called Baalah and Kirjathbaal, a city in the tribe of Judah; hence Judah is added to it, and the same with Kirjathjearim, Joshua 15:9; the place where it was brought to when fetched from Bethshemesh, 1 Samuel 7:1; and had been here now near fifty years; nor was it any where else during this time, only once at Gibeah of Saul with him, 1 Samuel 14:18;\n\nwhose name he called by the name of the Lord of hosts, that dwelleth between the cherubim; not the ark, but the Lord, whose is the ark; his name is called by the name of Jehovah, the infinite, incomprehensible, eternal, and immutable Being, the Lord of armies above and below; whose habitation was between the cherubim that overshadowed the mercy seat, which was above the ark; all this is said, not only to express the greatness and majesty of God, but for the honour of the ark, which belonged to him. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.3",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "3",
+   "commentary_text": "And they set the ark of God upon a new cart,.... Which was a great mistake, since it ought not to have been put upon a cart, old or new; it was to be borne upon men's shoulders, and carried by Levites only, and those of the family of Kohath, to whom no wagons were given, when others had them, for the above reason, Numbers 7:9; it is strange that so many priests and Levites, and of the people of Israel gathered together on that account, and David also, so well versed in the law of God, should not refer to it; perhaps they were led by the example of the Philistines, who put it in a new cart, and set it forward towards Bethshemesh, and were not punished for it; but it should have been considered they were an ignorant Heathen people, and who had no proper persons among them to bear it, and so might be dispensed with. This mistake was afterwards seen by David, and rectified, 1 Chronicles 15:2; wherefore there is no reason to charge the text with an error or escape, and that the word \"Kirjathjearim\" is wanting, and to be supplied, as Spinosa (d) suggests:\n\nand brought it out, or \"after they had brought it out\" (e):\n\nof the house of Abinadab that was in Gibeah; or which was on the hill in Kirjathjearim, 1 Samuel 7:1,\n\nand Uzzah and Ahio the sons of Abinadab drew the new cart; perhaps not only Abinadab himself was dead, but Eleazar also, his eldest son, who was sanctified to keep the ark, as in 1 Samuel 7:1; and these might be his younger sons who at this time had the care of it, and it may be especially Uzzah.\n\n(d) Tractat. Theol. Politic. c. 9. p. 176. (e) \"quum extulissent\", Piscator. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.4",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "4",
+   "commentary_text": "And they brought it out of the house of Abinadab, which was at Gibeah,.... That is, the new cart, which is the last thing spoken of, 2 Samuel 6:3; and the bringing of the ark out of his house is mentioned before; though some take this to be the coffer in which were the presents of the Philistines, which was now brought out along with the ark, see 1 Samuel 6:8,\n\naccompanying the ark of God; or \"with the ark of God\" (f); that is, they brought the new cart \"from\" the house of Abinadab on the hill, with the ark of God upon it:\n\nand Ahio went before the ark; guiding the oxen that drew it, and Uzzah might go behind, or on one side, to take care that the ark fell not out of it.\n\n(f)   \"cum arca Dei\", Pagninus, Montanus, Tigurine version, Piscator. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.5",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "5",
+   "commentary_text": "And David and all the house of Israel played before the Lord,.... That is, before the ark, which was a symbol of the presence of the Lord:\n\non all manner of instruments made of fir wood: which is a general expression, the particulars follow; though instruments of different sorts are mentioned, and even some of metal, as cymbals, which were vessels of brass, they struck one against another, and gave a very acute sound, being hollow (g):\n\neven on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals; harps, psalteries, and timbrels, are frequently met with; cornets, according to Kimchi, are such sort of instruments, that in playing upon them it required an agitation of the whole body. Now it was that David penned the sixty eighth psalm, which begins, \"let God arise\", &c. Psalm 68:1, words used by Moses when the ark set forward, Numbers 10:35.\n\n(g) Suidas in voce \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.6",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "6",
+   "commentary_text": "And when they came to Nachon's threshingfloor,.... Who is called Chidon, 1 Chronicles 13:9; he seems to have had two names; or it was a place that had two names, as say the Jews (h); according to a tradition of theirs (i), Chidon is the name of the place where it was said to Joshua, stretch out the spear or shield in thine hand towards Ai, Joshua 8:18; so indeed the word signifies, nor was it unusual to stretch out the shield as a signal on occasion. Thus Aeneas lifted up his shield in his left hand, as a token to his Trojans that he was come to relieve them (k): where this threshingfloor was is not said; some say (l) it was the threshingfloor of Araunah the Jebusite; it could not be far from Jerusalem, since Baalejudah or Kirjathjearim was but about a mile from it, according to Bunting (m), from whence they fetched the ark:\n\nUzzah put forth his hand to the ark of God, and took hold of it; to keep it from falling: the reason was:\n\nfor the oxen shook it; the same word is used in 1 Chronicles 13:9; and there it is rendered, \"for the oxen stumbled\"; and by their stumbling the cart was shaken, and the ark in it, and in danger of falling, as Uzzah thought: or \"the oxen shook\", for the word \"it\" is a supplement; they shook as if their members were plucking asunder and parting, as Kimchi expresses it, because of the holiness of the ark; as if they were sensible it was wrong for them to draw it, when it ought to have been carried on the shoulders of Levites; and by this way, as well as by the death of Uzzah the error committed was pointed out: but others render it, \"for the oxen stuck in the clay\" (n), and could not go on; which Uzzah observing, and fearing that in their struggle to get out the cart should be overturned, or that the procession would be retarded too much, took hold of the ark to take it out, and carry it the remainder of the way, it not being far from Jerusalem.\n\n(h) T. Bab Sotah, fol. 35. 2.((i) Hieron. Trad. Heb. in lib. Paralipom. fol. 83. G. (k) Virgil. Aeneid. 10. ver. 261, 262. Vid. Diodor. Sic. l. 20. p. 787. (l) Gloss. in T. Bab. Sotah, fol. 35. 3.((m) Travels, &c. p. 138. (n)   \"nam luto haeserunt boves\", Noldius, p. 396. No. 1343. so Bochart. Hierozoic. par. 1. l. 2. c. 37. col. 374. ex Arabica Lingua. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.7",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "7",
+   "commentary_text": "And the anger of the Lord was kindled against Uzzah,.... And which was manifest by smiting him:\n\nand God smote him there for his error; committed at this time, which was complicated; as that the ark was put upon a cart, to which he might be the chief adviser, as Procopius Gazaeus notes, when it should have been carried on the shoulders of the Levites; and that be touched it with his hand, which none but priests might do, supposing him to be a Levite, which it is not clear he was, however not a Kohathite; and he took hold of it in order to carry it in his arms, which even Levites, and those Kohathites, might not do, but with staves put into it, which only they were to hold; and besides, as Abarbinel observes, he showed little faith in the power and providence of God, as if he could not take care of the ark without him:\n\nand there he died by the ark of God; directly, upon the spot, by the side of it; whether he was struck by lightning, or in what way, cannot be said; however, he died by the immediate hand of God, in token of his displeasure: and this shows that it is dangerous in matters of worship to act contrary to the command of God, even in things that may seem small and trivial; and though what may be done may be done with a good intention, as this was, yet that will not excuse the sin; nor are those who are the most forward and zealous in religious matters exempted from marks of God's displeasure when they go wrong. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.8",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "8",
+   "commentary_text": "And David was displeased, because the Lord had made a breach upon Uzzah,.... He could not easily submit, and be reconciled to the providence; his heart was ready to rise up against God, and murmur at him for striking him dead in such an awful manner, for so small a matter as this might seem to be; and the rather, as this put a stop to the procession, and cast a damp upon their joy and mirth on this occasion, and might seem to be an ill omen to David, and be improved by his enemies against him:\n\nand he called the name of the place Perezuzzah unto this day; the name he gave the place, which signifies \"the breach of Uzzah\", continued to the time of writing this book. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.9",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "9",
+   "commentary_text": "And David was afraid of the Lord that day,.... Lest he should be smitten for his error also, and especially as he had discovered some resentment at the Lord's dealing with Uzzah; when he ought to have been still and quiet, and submitted to the will of God, and owned his justice in it, confessed his own error, and been thankful for his sparing mercy vouchsafed to him:\n\nand said, how shall the ark of the Lord come to me? the meaning of which is not, how it should be brought to the place provided by him in Jerusalem, now Uzzah was dead, for there were Levites enough to carry it, as they afterwards did; but as signifying that it would be either boldness and presumption in him to do it, since God had shown such a mark of his displeasure at their proceeding, that he might be in doubt whether it was the will of God it should come to him; or as fearing it would be dangerous to him to have it with him, since he might be guilty of such an error, of the same, or like it, that had been committed. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.10",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "10",
+   "commentary_text": "So David would not remove the ark of the Lord unto him into the city of David,.... As yet, but wait a little longer, until he had more thoroughly considered of it, and made himself acquainted with everything relative to the ark, that he might know how to behave for the future, without giving offence:\n\nbut David carried it aside into the house of Obededom the Gittite; which was close by, on one side of the place where they were; this man was a Levite, as appears from his being afterwards appointed to be doorkeeper for the ark, and to sing praise before it, and so a proper person to commit the care of it to, 1 Chronicles 15:18; he is called a Gittite, either because he had sojourned in Gath some time, or rather because he was of Gathrimmon, a city of the Levites, Joshua 21:24. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.11",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "11",
+   "commentary_text": "And the ark of the Lord continued in the house of Obededom the Gittite three months,.... David, and those with him, returned to their habitations, where they continued during this time:\n\nand the Lord blessed Obededom, and all his household; him, and all his family, with spiritual blessings, and with an affluence of temporal good things; for godliness has the promise of this life, and of that which is to come; men are not losers but gainers, even in things temporal, for their attachment to the cause of religion, and the service of God, and their regard to that in their own houses, as well as in the house of God. Josephus (o) says, that Obededom was very poor before, and in a low condition, out of which he soon emerged, and came into affluent circumstances, so as to be taken notice of by his neighbours, and reported abroad; by which means David came to the hearing of it, as follows.\n\n(o) Antiqu. l. 7. c. 4. sect. 2. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.12",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "12",
+   "commentary_text": "And it was told King David,.... By some of his courtiers who had heard of it:\n\nsaying, the Lord hath blessed the house of Obededom, and all that pertaineth unto him, because of the ark of the Lord; it was so suddenly, in so short a time, and so largely, that it could not escape the notice and observation of men that knew him; and this increase was not in any natural way by which it could be accounted for; so that it could be ascribed to no other cause but the blessing of God, and that on account of the ark of God that was with him; nothing else could be thought of:\n\nso David went and brought up the ark of God from the house of Obededom into the city of David with gladness: being animated and encouraged by the blessing of God on the house of Obededom, because of it, and thereby freed from those slavish fears he was before possessed of, and filled with hopes of being blessed also on account of it; if not with temporal blessings, he needed not, yet with spiritual ones. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.13",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "13",
+   "commentary_text": "And it was so, that when they that bare the ark of the Lord,.... The Levites; for now David had seen the former mistake, and rectified it, and ordered the Levites to \"carry\" it, as they did upon their shoulders, with the staves therein, see 1 Chronicles 15:2; when these\n\nhad gone six paces, he sacrificed oxen and fatlings; upon an altar, which was at once erected for that purpose; the number and kind of sacrifices offered were seven bullocks and seven rams, 1 Chronicles 15:26; and these David offered, not by himself, but by the priests that were with him, and that as soon as they had gone six paces from the house of Obededom; whereby they perceived the Levites, were able to carry the ark, with what was in it, the Lord helping them, as in 1 Chronicles 15:2, and without stumbling and falling, or any evil attending them; and Kimchi thinks these six paces were just the measure of the ground Uzzah went before what befell him; but it is highly probable that he had gone further; however, no doubt by the order of David, the Levites set down the ark, and sacrifices were offered by way of thanksgiving to God, and for the continuance of his goodness, and for atonement for former errors. Some think these seven oxen and rams were offered, at seven different times and places, at every six paces an ox and a ram; but this is not very likely. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.14",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "14",
+   "commentary_text": "And David danced before the Lord with all his might,.... That is, before the ark of the Lord; not a set dance, or along with others; but he leaped and skipped as \"car\", a lamb, does, and that for joy that the ark was like to be brought home to his house, without any token of the divine displeasure, as before; the Targum is,\"he praised before the Lord with all his might;''exerted himself to the uttermost in singing the praises of God vocally, or by playing on an instrument; to which sense are the Septuagint, Syriac, and Arabic versions, which is approved of by Castel (p); who observes, it nowhere appears to have been a custom to dance before the ark; but it might be now done, though not usual, and therefore was observed by Michal with contempt, 2 Samuel 6:16; a later writer (q) shows that dancing is the proper sense of the word:\n\nand David was girded with a linen ephod; which others, besides priests, sometimes wore, as Samuel did, and which David might choose to appear in, rather than in his royal robes, as being more agreeable to the service of God, and lighter for him both to walk and dance in on this occasion.\n\n(p) Lexic. col. 1793. (q) Hackman. Praecidan. Sacr. p. 156, 157. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.15",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "15",
+   "commentary_text": "So David and all the house of Israel brought up the ark of the Lord,.... The elders of Israel, and the captains over thousands, 1 Chronicles 15:25; besides the common people; there might be as large a number with him now as before:\n\nwith shouting, and with the sound of the trumpet; with the shouts of the people in common, and with blowing of trumpets by those who were appointed for that purpose, and with other instruments of music, see 1 Chronicles 15:27; Josephus says (r), that seven choirs went before the priests bearing the ark, as the king commanded, he himself playing on the harp; so the Septuagint version.\n\n(r) Antiqu. l. 7. c. 4. sect. 2. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.16",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "16",
+   "commentary_text": "And as the ark of the Lord came into the city of David,.... Being brought thither on the shoulders of the Levites:\n\nMichal, Saul's daughter, looked through a window; in the king's palace, to see the procession, which was very grand, and in great pomp, attended by a vast number of people, and with music of all sorts. She is said to be Saul's daughter, though David's wife, as having a good deal of her father's haughty temper and disposition, as appears by what follows:\n\nand saw King David leaping and dancing before the Lord; the ark of the Lord, by these outward gestures expressing the inward joy of his heart on this occasion:\n\nand she despised him in her heart; as acting a mean part, quite beneath himself, and unbecoming his royal dignity. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.17",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "17",
+   "commentary_text": "And they brought in the ark of the Lord,.... Into the city of David, the strong hold of Zion:\n\nand set it in his place, in the midst of the tabernacle that David had pitched for it: or \"stretched out\"; for this was not the tabernacle of Moses, David pitched any where; that was at this time at Gibeon, where it continued to the time of Solomon, 1 Chronicles 21:29; but this was a curtain, or curtains, which he had stretched out or drawn around for the ark to be pitched in the midst of; and this was not in his own house, for he is afterwards said to go to that, but somewhere in Jerusalem or the city of David:\n\nand David offered burnt offerings and peace offerings before the Lord; that is, before the ark, and that by way of thanksgiving for its being brought safe thither, without any error or mistake on the side of him, the Levites, and the people, and without offence to God, and any mark of his displeasure as before. This must be supposed to be done by priests, and not by David himself, who was no priest. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.18",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "18",
+   "commentary_text": "And as soon as David had made an end of offering burnt offerings and peace offerings,.... Or these were performed according to his order:\n\nhe blessed the people in the name of the Lord of hosts; not as a priest, but as a prince, as the common father of them, wishing them all happiness and prosperity outward and inward, praying to God to bless them with all blessings temporal and spiritual, who is the God of armies above and below, and can do what he pleases, and more than his people can ask or think. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.19",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "19",
+   "commentary_text": "And he dealt among all the people,.... Gave a dole unto them, divided among them:\n\neven among the whole multitude of Israel: and if there were so many as at first, there were thirty thousand of them, 2 Samuel 6:1; and perhaps more, since it follows:\n\nas well to the women as men; to both the one and the other; and the women, it is very probable, were not among those that went to fetch the ark, but assembled to attend the entrance of it into the city, and were present at the solemnities of its settlement:\n\nto everyone a cake of bread; or a loaf of bread, of what quantity is not said, no doubt sufficient for anyone person, or more:\n\nand a good piece of flesh: not only that was good in quality, but large in quantity, a very large piece of it; the Jews say (s) the sixth part of a bullock, they dividing it into six parts as we into four quarters; but it is not likely that such a quantity of flesh should be given to each person:\n\nand a flagon of wine; but what such a vessel held cannot be said, though at least we may suppose it equal to a bottle of ours, or more; see Sol 2:5,\n\nso all the people departed everyone to his house; to refresh themselves with the provisions David had given them.\n\n(s) T. Bab. Pesachim, fol. 36. 3. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.20",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "20",
+   "commentary_text": "Then David returned to bless his household,.... His wife, children, and servants, to wish all happiness to them on this occasion, and pray to God for blessings on them temporal and spiritual. This was done when he came from the place where the ark was set, and was come to his own palace:\n\nand Michal the daughter of Saul came out to meet David; before he had gotten quite to his own house:\n\nand said, how glorious was the king of Israel today; which she spoke in an ironical jeering way, meaning the reverse, how inglorious, mean, and despicable he had made himself to be, by his airs and gestures:\n\nwho uncovered himself today in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself! because he had put off his royal robes, and put on a linen ephod; for that he had stripped himself naked cannot be supposed, nor do her words import so much though a passionate exaggeration of the case. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.21",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "21",
+   "commentary_text": "And David said unto Michal, it was before the Lord,.... Before the ark of the Lord, what was done was done there; she upbraided him with his dancing and singing, which was designed for the honour and glory of God, and in thankfulness to him for the bringing the ark to his city, and therefore she ought not to have reproached him with it, and he adds:\n\nwhich chose me before thy father, and before all his house; see 1 Samuel 13:14; which he observed to humble her pride, and mortify her, as well as to remark the distinguishing goodness of God to him, which laid him under obligation to express his thankfulness to him in every shape:\n\nto appoint me ruler over the people of the Lord, over Israel; which was a high honour conferred upon him, and required the utmost gratitude:\n\ntherefore will I play before the Lord; upon the harp, or praise before him, as the Targum, sing his praise before the ark, unto any instrument of music, without once imagining I disgrace myself, on the contrary think it to be the highest honour to me to be employed in such service. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.22",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "22",
+   "commentary_text": "And I will yet be more vile than thus,.... If this is to be vile, I will endeavour to be viler still; if to dance before the ark, and sing the praises of God, be reckoned a lessening of me, I will more and more be found in doing such things, or what is similar to them:\n\nand will be base in mine own sight: humble himself, and lie low in his own eyes, admiring the grace and goodness of God to him, thinking he could never condescend too low to exalt the Lord, and magnify the riches of his goodness:\n\nand of the maidservants which thou hast spoken of, of them shall I be had in honour; who the more humble I am, and the more I condescend, by laying aside all state in acts of devotion and religion, the more shall I be honoured and spoken well of by them. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.6.23",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 6,
+   "verse_range": "23+",
+   "commentary_text": "Therefore Michal the daughter of Saul had no child until the day of her death. The children she brought up for Adriel were not her own, but adopted ones, or Adriel's by another woman, 2 Samuel 21:8; however, she had none after this time, whatever she had before, and it does not appear that she had any, though the Jews say she was Eglah, and Ithream her son; see Gill on 2 Samuel 3:5. And thus she that vilified David brought a reproach upon herself, as barrenness was always reckoned, and no one descending from her arrived to royal dignity, and sat on the throne of David; and so it was ordered in Providence, as Abarbinel observes, that the seed of David and of Saul might not be mixed. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.1",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "1",
+   "commentary_text": "And it came to pass, when the king sat in his house,.... Which Hiram's servants had built for him, having no occasion to go out to war:\n\nand the Lord had given him rest round about from all his enemies; both at home and abroad; though this rest and peace did not last long; for the next chapter gives an account of each of the people he was engaged in war with, 2 Samuel 8:1. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.2",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "2",
+   "commentary_text": "That the king said unto Nathan the prophet,.... This is the first time this prophet is made mention of, but often afterwards, yet who he was, and from whence he came, is not known; he appears to be a man of great piety and prudence, as well as endowed with a prophetic spirit, and was very familiar with David, and perhaps dwelt in his palace; being a man on all accounts fit for conversation with princes, to whom David imparted what he had been meditating upon in his heart. The Jews have a tradition (t) that he was the same with Jonathan the son of Shimea, the brother of David, 2 Samuel 21:21; which is not very likely:\n\nsee now, I dwell in an house of cedar; made of the cedars of Lebanon; see what a spacious palace it is:\n\nbut the ark of God dwelleth within curtains; in a tabernacle within curtains, as the Targum; not the tabernacle of Moses, for that was at Gibeon, 1 Chronicles 21:29; but that which David had made for it, which consisted of curtains that were drawn around it, 2 Samuel 6:17. It gave him a concern that he should dwell in so magnificent a palace, and the ark of God should have so mean an habitation; wherefore it was upon his mind to build a grand edifice for it, and this he suggested hereby to Nathan, and so he understood him, as appears by what follows; and the rather he was led to such a thought, being now at rest and in peace; for then it was an house was to be built for God, in which he would cause his name to dwell, as David might easily learn from Deuteronomy 12:9; and who so proper to set forward such a work as a king, and he when at rest from his enemies?\n\n(t) Hieron. Trad. Heb. in 2 Reg. fol. 79. M. & in lib. Paralipom. fol. 89. B. F. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.3",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "3",
+   "commentary_text": "And Nathan said to the king, go, do till that is in thine heart,.... He perceived it was in his heart to build an house for God; he knew an house was to be built at one time or another, by some person or another; he knew it was a good work, and fit for a king to do, and might think this was a proper time any, he being at leisure, and therefore encouraged him to it: but inasmuch as the time when and the person by whom this was to be built were not pointed out particularly in the word of God, David and he should have consulted the Lord about it; in this they erred, and for which they were tacitly reproved; for, as the event shows, this was not the time when, nor David the person by whom, it was to be built. Nathan said this as a pious and good man, in a private capacity, not as a prophet, or under a spirit of prophecy; for prophets did not always speak under such an influence, but, as private men, said some things ignorantly and through mistake; see 1 Samuel 16:6,\n\nfor the Lord is with thee; prospering and succeeding him in all he undertook, giving him rest from all his enemies; and he might think that this motion he now made of building an house was from the Lord; the Targum is,\"the Word of the Lord shall be for thine help,''\n\nor thine helper, and shall assist thee in this work. David being thus encouraged by the prophet, his thoughts were more employed about it, and he was resolute and eager to perform it; and now it was he penned the hundred thirty second psalm, in which he expresses his oath and vow to find a place to build on, Psalm 132:1. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.4",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "4",
+   "commentary_text": "And it came to pass that night,.... The same night following the day in which David and Nathan had had the above conversation, that neither of them might continue long in their error and mistake, and especially lest David, in his great zeal and warm affection, should take an hasty and improper step:\n\nthat the word of the Lord came unto Nathan; the word of prophecy, as the Targum; before he was not under a prophetic influence, but spoke in his own words, and had not the word of God; but now it came to him:\n\nsaying; as follows. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.5",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "5",
+   "commentary_text": "Go and tell my servant David,.... The Lord speaks very honourably and respectfully of him, owns him to be his servant in other things, though he did not choose to employ him in this; and though he was not the person, nor this the time, to build the house of the Lord, yet, as he showed a good will towards it, so far it was acceptable to God:\n\nthus saith the Lord, shalt thou build me an house for me to dwell in? no, thou shalt not, as appears from 1 Chronicles 17:4; which seems to be expressed with much spirit, and some degree of resentment, to resolve on such a work, without seeking to know his mind in it. Eupolemus (u) an Heathen, confirms this account, only instead of a prophet he speaks of an angel, whose name he says was Dinnathan, who, when David was desirous of building a temple for God, and very anxious to be shown the place where the altar was to be erected, this angel appeared to him; and, though he showed him the place for the altar, forbad him building it, because he was polluted with human blood, and had been engaged in wars many years, and bid him leave the building of it to his son.\n\n(u) Apud Euseb. Evangel. Praepar. l. 9. c. 30. p. 447. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.6",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "6",
+   "commentary_text": "Whereas I have not dwelt in any house,.... Fixed, stated, habitation:\n\nsince the time that I brought up the children of Israel out of Egypt,\n\neven to this day; a space of five or six hundred years, though he might before:\n\nbut have walked in a tent and in a tabernacle; moving from place to place while in the wilderness, and since in the land of Canaan, first at Gilgal, then at Shiloh, afterwards at Nob, and now at Gibeon. \"Tent\" and \"tabernacle\" are distinguished, though they were but one building and habitation; the tent was the curtains of goats' hair, and the tabernacle the linen curtains, see Exodus 26:1. In 1 Chronicles 17:5 it is \"from tent to tent, and from one tabernacle to another\"; which does not intend variety of tabernacles, but change of place. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.7",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "7",
+   "commentary_text": "In all the places wherein I have walked with all the children of Israel,.... See Gill on 2 Samuel 7:6 on the places mentioned there:\n\nspake I a word with any of the tribes of Israel; or rather the sceptres of Israel; so the word is rendered, Genesis 49:10; the sceptre bearers, rulers, and governors, whose custom was to carry a sceptre in their hands, as Ben Melech observes; and so in a parallel text, 1 Chronicles 17:6, it is, \"to any of the judges of Israel\"; any of those from the times of Moses and Joshua to the times of Saul and David, and this is confirmed by what follows:\n\nwhom I commanded to feed my people Israel; that is, to rule and govern them, protect and defend them, which cannot be said of the tribes, but of the rulers of them; and the Lord asks this question, whether ever he had said a word to any of those, in all that space of time, expressing anything of this kind:\n\nsaying, why build ye not me an house of cedar? they never were bid to do it, or expostulated with why they did not, or ever reproved for not doing it; therefore why should David think of doing it? \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.8",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "8",
+   "commentary_text": "Now therefore so shalt thou say unto my servant David,.... For it was taken well at his hands, in part, that it was in his heart, and he had a desire to build an house for God, though he was wrong in determining upon it without seeking the Lord; and lest he should be discouraged by the prohibition of him from building, the following things are observed to assure him it was not from disregard unto him, or displeasure at him, that he would not be employed in this service; since the Lord had given sufficient tokens of his favour to him, and with which he should be content, as having honour enough done him; it was enough that God had raised him up from a low estate to great grandeur and dignity:\n\nthus saith the Lord of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel; for that was his employment, to keep his father's sheep, before he was taken into Saul's court, and married his daughter, when after his death he came to have the crown, of Israel: now this is said, not to upbraid him with his former meanness, but to observe the goodness of God unto him, and what reason he had for thankfulness, and to look upon himself as a favourite of God, who of a keeper of sheep was made a shepherd of men, to rule and feed them; so Cyrus is called a shepherd, Isaiah 44:28; and Agamemnon, in Homer (w), is called \"the shepherd of the people\".\n\n(w) Iliad. 2. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.9",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "9",
+   "commentary_text": "And I was with thee whithersoever thou wentest,.... When he went against Goliath, when he went forth against the Philistines, when in Saul's court, when he fled from Saul, and was obliged to go to various places, God was with him protecting and preserving him, prospering and succeeding him every where, and in everything:\n\nand have cut off all thine enemies out of thy sight: as Saul, and others in the land of Israel, and the Philistines, and other enemies round about him, so that he had rest from them all:\n\nand have made thee a great name, like unto the name of the great men that are in the earth; a name for a mighty king, warrior, and conqueror, such as some mighty kings and great men of the earth had obtained, and such fame, being made king over all Israel; and his success against the Jebusites had got him a name, as well as former victories he had been favoured with; on account of all which his name and fame had been spread abroad in the world, and he was reckoned as one of the greatest princes in it. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.10",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "10",
+   "commentary_text": "Moreover, I will appoint a place for my people Israel,.... The land of Canaan: this the Lord had of old appointed to them, and had introduced them into and settled them in it, but not entirely and alone; in many places the Canaanites had inhabited; but now they should be expelled, and the Israelites should have the place to themselves:\n\nand will plant them; so that they shall take root and flourish, and continue:\n\nthat they may dwell in a place of their own; and not as they dwelt in Egypt, in a land that was not theirs; or \"under themselves\" (x); under their own rulers and governors:\n\nand move no more; as they did in the times of the judges, when, sinning against God, they were often delivered into their enemies' hands, and carried captives:\n\nneither shall the children of wickedness afflict them any more, as beforetime; when in Egypt, and in the times of the judges; all which is supposed, provided they did not depart from the Lord, but abode by his word, worship, and ordinances, and obeyed his will; for it was by their obedience they held their tenure of the land of Canaan, see Isaiah 1:19; or all this may respect future times, when they shall be converted to the Messiah, and return to their own land, and ever continue in it, and never more be harassed and distressed, Jeremiah 32:41.\n\n(x)  \"sub se\", Montanus. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.11",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "11",
+   "commentary_text": "And as since the time that I commanded judges to be over my people Israel,.... Before the time the judges were raised they were greatly afflicted by one nation or another around them, and between judge and judge, but now they should be no more so; here the parenthesis should end:\n\nand have caused thee to rest from all thine enemies; this belongs to David personally, and intends the same as in 2 Samuel 7:1,\n\nalso the Lord telleth thee, that he will make thee an house; not only build up his family, and make that numerous, but establish the house of his kingdom, as the Targum; that whereas he was desirous of building an house for God, God would build up an house for him; which would be a clear proof, that though he did not think fit to make use of him in the building of his house, yet he was not cast out of his favour, nor was it to be so interpreted by himself or others. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.12",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "12",
+   "commentary_text": "And when thy days be fulfilled,.... The days of his life, which were appointed by the Lord for him to live, and when he had filled up the common term of man's life, as he exactly did; for he lived just seventy years, see 2 Samuel 5:4,\n\nand thou shalt sleep with thy fathers; die and be buried; for this is a phrase expressive of death, and the grave the common portion of men:\n\nI will set up thy seed after thee; sons to succeed in the kingdom, as they did for the space of five hundred years; though here it respects one particular seed or son, even Solomon, as appears by what follows:\n\nwhich shall proceed out of thy bowels; be begotten by him, and born unto him, and has regard to a future son of his not yet born; not Absalom nor Adonijah, nor any of the rest born in Hebron were to succeed him in the kingdom, but one as yet unborn:\n\nand I will establish his kingdom; so that he shall have a long and happy reign, as Solomon had. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.13",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "13",
+   "commentary_text": "He shall build an house for my name,.... For the honour of it, for the worship and service of God, as it is well known Solomon did; and so his antitype the Messiah, Zechariah 6:12,\n\nand I will stablish the throne of his kingdom for ever; that is, for a long time. Solomon's reign was forty years, and the kingdom of Judah continued in his posterity until the Babylonish captivity, and a prince that descended from him was the ruler of the people when they returned: this has its fulfilment more eminently in Christ, who was of his seed, to whom God has given \"the throne of his father David\", and who \"shall reign over the house of Jacob for ever\", Luke 1:32. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.14",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "14",
+   "commentary_text": "I will be his father, and he shall be my son,.... That is, I will be as kind unto him, and careful of him, as a father of a son; or he shall be, and appear to be my son, by adopting grace, as no doubt Solomon was, notwithstanding all his failings. This is applied to Christ, the antitypical Solomon, who was, in an higher sense, the Son of God, even by natural and eternal generation; see Hebrews 1:5,\n\nif he commit iniquity; which cannot be supposed of Christ; for though he was made sin by imputation, he neither knew nor did any, but may be supposed of his spiritual offspring, whom he represented as an head and surety, as of Solomon, who committed many sins and transgressions:\n\nI will chasten him with the rod of men, and with the stripes of the children of men; either with men themselves, as Hadad the Edomite, Rezon the son of Eliadah, and Jeroboam the son of Nebat, by all whom he was afflicted and distressed, after he felt into idolatry, 1 Kings 11:14; or with such rods and stripes as men correct their children with, not to destroy them, but to chastise them for their good; and so the phrases denote humane, kind, gentle, moderate corrections given in love, and which answer some good purposes. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.15",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "15",
+   "commentary_text": "But my mercy shall not depart away from him,.... Which is not to be understood of special mercy and grace, though it is true of these with respect to Solomon, and so to all the adopted children of God, see Psalm 89:32; but then this here designs such mercy as may be taken away from another, and as it was from Saul, as it follows:\n\nas I took it from Saul, whom I put away before thee; and therefore must be understood of his mercy and kindness, in giving him a kingdom, and setting him on the throne; this should not be taken away from him, as it was from Saul, whom God rejected from being king; not him personally, but his posterity; but so the Lord would not do, nor did he, to Solomon, in whose posterity the kingdom of Judah continued to the Babylonish captivity. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.16",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "16",
+   "commentary_text": "And thine house and thy kingdom shall be established for ever before thee,.... That is, both his family and his government should be perpetuated, or he should always have one of his family to sit upon his throne; the accomplishment of which, in the beginning of it, he saw with his eyes in his son Solomon, and with an eye of faith in his greater Son the Messiah, in whom only these words will have their complete fulfilment; and so Abarbinel says this vision or prophecy is explained by some of the days of the Messiah; and this house and kingdom, in 1 Chronicles 17:14; are called by the Lord \"my\" house, and \"my\" kingdom:\n\nthy throne shall be established for ever; which is a repetition of the same in other words for the confirmation of it. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.17",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "17",
+   "commentary_text": "According to all these words, and according to all this vision,.... All the words of this prophecy, just as they were delivered to Nathan, were exactly expressed by him; he did not vary from them in the least, but with the greatest faithfulness related them:\n\nso did Nathan speak unto David; though in the part which related to the history of the house of God, it was contrary to the advice which he had given; but he was not ashamed to retract his sense, when he was made acquainted with the mind of God. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.18",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "18",
+   "commentary_text": "Then went King David in,.... Into the tabernacle where the ark was, which he had prepared for it, 2 Samuel 6:17,\n\nand sat before the Lord; before the ark, the symbol of his presence, and prayed, and gave thanks, as follows: from whence it appears that a sitting posture was sometimes used in prayer, of which we have other instances, Exodus 17:11. It is said (y) that Pythagoras, and also Numa, ordered that worshippers should sit. So that this act of devotion is not to be limited to any particular posture, though it seems most agreeable either to stand or kneel; and the Jews look upon this to be a peculiar case, and infer from hence that none were allowed to sit in the court but the kings of the house of Judah (z); and some of them (a) will not allow that to them, since the seraphim above are even said to stand, Isaiah 6:2; and suppose the meaning of this to be only that David supported himself in the court; and some render the words, \"he remained before the Lord\" (b); he continued in meditation, prayer, and thanksgiving, and such like acts of devotion, for a considerable time; so the Targum, in 1 Chronicles 17:16.\"King David came and continued in prayer before the Lord:\"\n\nand he said, who am I, O Lord God? a creature, a sinful creature, a mean and unworthy one, undeserving of a place in the house of God, and of access unto him, and to receive any favour from him, less than the least of all saints, less than the least of all mercies:\n\nand what is my house: or family of which he was, the family of Jesse; for though it sprung from a prince in Israel, yet was but low and mean, in comparison of some others, and especially unworthy of the regard of the great God:\n\nthat thou hast brought me hitherto? to such grandeur and dignity, as to be king over all Israel and Judah, to have all his enemies subdued under him, and to be at peace and rest from them, and established in his kingdom; and which he signifies the Lord alone had brought him to, through many difficulties and tribulations, and which he could never have attained unto by his own wisdom and power, nor by the assistance of his friends; it was all the Lord's doing, and wondrous in his eyes.\n\n(y) Vid. D. Herbert. de Cherbury de Relig. Gent. c. 7. p. 65. (z) T. Bab. Yoma, fol. 69. 2. Maimon & Bartenor. in Misn. Yoma, c. 7. sect. 1.((a) Midrash in Abarbinel in loc. (b) \"et mansit\", Vatablus. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.19",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "19",
+   "commentary_text": "And this was yet a small thing in thy sight, O Lord God,.... This of raising him to the throne, and settling him on it, was but a small thing in comparison of what he promised to do for him and his:\n\nbut thou hast spoken also of thy servant's house for a great while to come; since he had not only spoken of a son that should succeed him in the kingdom, but that he would make him an house, and establish his kingdom; yea, that the throne of his kingdom should be established for ever, that a race of kings should spring from him, and especially the King Messiah, of whose kingdom there would be no end; and so the Targum,\"thou hast spoken of the house of thy servant unto the world to come,''a phrase often used by the Jews for the times of the Messiah; see Hebrews 2:5; and so Abarbinel thinks this clause has respect to Messiah the son of David:\n\nand is this the manner of man, O Lord God? to bestow their favours on their inferiors, persons of no worth and merit, and is a profuse manner? it is not; and yet to one so much below thee, and so undeserving, hast thou most largely and liberally given such great and unmerited mercies: or is it the manner, or customary to deal thus with men mean and abject, though it may with great personages that make a great figure in the world? it is not: and yet I am regarded by thee as if I was one of the greatest monarchs on earth: this sense agrees with the parallel text in 1 Chronicles 17:17; \"and hast regarded me according to the estate of a man of high degree\"; or, \"this is the law\", or \"doctrine of the man who is the Lord God\" (c). This doctrine contained in the promise now made respects the seed of the woman, the promised Shiloh, the illustrious man, Jehovah's fellow, the incarnate God, the Messiah, who is Jehovah our righteousness, the true God and eternal life.\n\n(c) So Luther and Osiander; or \"this is the delineation of the man who is the Lord\", &c. So Hiller. Onomastic. Sacr. p. 447. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.20",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "20",
+   "commentary_text": "And what can David say more unto thee,.... In a way of self-abasement, or in thankfulness for such wonderful favours, or in prayer for more and other mercies; he wants words, as if he should say, to express his sense of his own nothingness and unworthiness, and to praise the Lord for all his benefits; and so large are the grants and promises made, that there is no room for him to ask for more:\n\nfor thou, Lord God, knowest thy servant; what a sense he has of his own meanness and vileness, what gratitude his heart is filled with, and what his wants and necessities are, which God only can supply, and does abundantly, even more than he is able to ask or think. The Targum is,\"and thou hast performed the petition of thy servant, O Lord God.'' \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.21",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "21",
+   "commentary_text": "For thy word's sake,.... For the sake of the promise he had made to him by Samuel, that he should be king, and his kingdom should be established; or for the sake of the Messiah, that should spring from him; the Memra, as the Targum, the essential Word of God; and so the Septuagint version, \"because of thy servant\", with which agrees the parallel text in 1 Chronicles 17:19,\n\nand according to thine own heart; of his own sovereign good will and pleasure, of his own grace, as the Arabic version, and not according to the merits and deserts of David:\n\nhast thou done all these great things; in making him king of Israel, and settling the kingdom in his posterity to the times of the Messiah, who should spring from him:\n\nto make thy servant know them; as he now did by Nathan the prophet, what he and his should enjoy for time to come; so that it is not only a blessing to have favours designed, purposed, and promised, but to have the knowledge of them, to know the things that are freely given of God. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.22",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "22",
+   "commentary_text": "Wherefore thou art great, O Lord God,.... In his name, nature, persons, and perfections, purposes, promises, and works:\n\nfor there is none like thee; for his essence and attributes, for his greatness and goodness, for what he is in himself, for what he is to his people, and has done for them:\n\nneither is there any God beside thee; there is but one God, the living and true God, the former and maker of all things; all others are but fictitious and factitious gods, see 1 Samuel 2:2;\n\naccording to all that we have heard with our ears; concerning what he did in the land of Egypt upon the Egyptians, and in the wilderness, in favour of the Israelites, and in the land of Canaan, by driving out the inhabitants before the people of Israel, and in the times of the judges, in raising them up to deliver his people. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.23",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "23",
+   "commentary_text": "And what one nation in the earth is like thy people, even like Israel,.... For the knowledge and worship of the true God among them, for laws and or given them, and for blessings of goodness bestowed upon them:\n\nwhom God went to redeem for a people to himself; the words are plural, \"whom the gods went to redeem\"; the Targum is,\"they that were sent from the Lord,''meaning Moses and Aaron, of whom Jarchi interprets them, of the first of which it is said, \"I have made thee a god unto Pharaoh\", Exodus 7:1; but Kimchi and R. Isaiah understand it of the true God, only suppose, as the former, that the plural expression is used for the sake of honour and glory; whereas, no doubt, respect is had to the three divine Persons in the Trinity, who were all concerned in the redemption of Israel, see Isaiah 63:9, where mention is made of the Lord, and of the Angel of his presence, and of his holy Spirit, as engaged therein:\n\nand to make him a name; either to get himself a name, and honour and glory in the world, to show forth his power and might, as well as his mercy and goodness, or to make his people famous, great, and glorious in the earth:\n\nand to do for you great things and terrible; as he did in the land of Ham, at the Red sea, and in the wilderness, and in the land of Canaan, great things for his people, and terrible ones to their enemies:\n\nfor thy land; which is either spoken to God, whose was the land of Israel, and which he had chosen to dwell in, and had given to his people; or else to Israel, to whom the grant of this land was made, and who were put into the possession of it:\n\nbefore thy people which thou redeemedst to thee from Egypt: that is, the great and terrible things were done in their sight, when they were redeemed from the bondage of Egypt, see Psalm 78:12,\n\nfrom the nations, and their gods? meaning, that they were redeemed not only from Egypt, but the nations of the Canaanites were driven out before them; nor could their idols save them, but destruction came upon them as upon the gods of the Egyptians: some leave out the supplement \"from\", and interpret this of the persons redeemed, even of the nations and tribes of Israel, and their great men, their rulers and civil magistrates, sometimes called gods. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.24",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "24",
+   "commentary_text": "For thou hast confirmed to thyself thy people Israel to be a people unto thee for ever,.... So long as they were obedient to him, and observed his laws and statutes, and abode by his worship and ordinances, otherwise he would write a \"loammi\" on them, as he has, see Hosea 1:9,\n\nand thou, Lord, art become their God; their covenant God, they having avouched him to be their God, and he having avouched them to be his people, Deuteronomy 26:17. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.25",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "25",
+   "commentary_text": "And now, O Lord God,.... From confessions of unworthiness, and of the goodness of God, and a recital of favours conferred on him and the people of Israel, David proceeds to petitions:\n\nthe word that thou hast spoken concerning thy servant, and concerning his house, establish it for ever: he prays for the sure performance of the promise of God respecting himself and his family, and the stability and perpetual continuance of the kingdom in it, and has, no doubt, a special regard to the Messiah, the promised seed that should spring from him:\n\nand do as thou hast said: for though God had purposed and promised to do those several things, and would do them, yet it was expected by him, and it was right in David to pray for the performance of them; see Ezekiel 36:37. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.26",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "26",
+   "commentary_text": "And let thy name be magnified for ever,.... David desired the performance of the above things not so much for his own sake, and for the sake of his family, as for the glory of God; his great concern was, that God might be magnified, and his greatness displayed, in making him and his family great; and particularly that he might be magnified and glorified in that famous Son of his, the Messiah, as he has been, John 13:31; and by all his people in succeeding ages:\n\nsaying, the Lord of hosts is the God over Israel; the Lord of armies above and below, is God over all, and in a special and peculiar manner God over Israel, literal and spiritual, that takes care of them, supplies, protects, and defends them:\n\nand let the house of thy servant David be established before thee; as he had promised, 2 Samuel 7:16. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.27",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "27",
+   "commentary_text": "For thou, O Lord of hosts, God of Israel,.... As he is called in 2 Samuel 7:26,\n\nhast revealed to thy servant; which he otherwise could not have known:\n\nsaying, I will build thee an house; see 2 Samuel 7:11,\n\ntherefore hath thy servant found in his heart to pray this prayer unto thee; found his heart disposed to this service, or found freedom and boldness in him to put up this prayer to God; what encouraged and emboldened him to do it was the gracious promise of God, that he would build up his family, and establish his kingdom; or otherwise he could not have taken such liberty, and used such boldness with God in prayer, as to have requested it of him. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.28",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "28",
+   "commentary_text": "And now, O Lord God, thou art that God,.... Who is the Lord of hosts, and the God of Israel, that has promised and is able to perform, and is faithful to his promise:\n\nand thy words be true; are truly, punctually, and faithfully performed, never fail:\n\nand thou hast promised this goodness unto thy servant; concerning building and establishing his house. David repeats this promise as being greatly affected with it, and fully assured of the performance of it. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.7.29",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 7,
+   "verse_range": "29+",
+   "commentary_text": "Now therefore let it please thee to bless the house of thy servant,.... Not according to the merits of him or his family, but according to the sovereign will and pleasure of God; the Targum is, begin and bless; let the promised blessings begin to descend, that there may be some appearance of the performance of the promise, which may give encouragement that the whole will be fulfilled:\n\nthat it may continue for ever before thee; under his care and protection:\n\nfor thou, O Lord God, hast spoken it; whose words never fall to the ground, but have a sure accomplishment:\n\nand with thy blessing let the house of thy servant be blessed for ever; even both with temporal and spiritual blessedness. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.1",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "1",
+   "commentary_text": "And David spake unto the Lord the words of this song in the day that the Lord had delivered him out of the hand of all his enemies, and out of the hand of Saul. See Gill on Psalm 18:1. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.2",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "2",
+   "commentary_text": "And he said, The Lord is my rock, and my fortress, and my deliverer. See Gill on Psalm 18:2. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.3",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "3",
+   "commentary_text": "The God of my rock; in him will I:trust: he is my shield,\n\nand the horn of my salvation, my high tower, and my refuge, my saviour;\n\nthou savest me from violence. See Gill on Psalm 18:2. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.4",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "4",
+   "commentary_text": "I will call on the Lord, who is worthy to be praised: so shall I be saved from mine enemies. See Gill on Psalm 18:3. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.5",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "5",
+   "commentary_text": "When the waves of death compassed me, the floods of ungodly men made me afraid. See Gill on Psalm 18:4. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.6",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "6",
+   "commentary_text": "The sorrows of hell compassed me about; the snares of death prevented me. See Gill on Psalm 18:5. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.7",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "7",
+   "commentary_text": "In my distress I called upon the Lord, and cried to my God:\n\nand he did hear my voice out of his temple, and my cry did enter into his ears. See Gill on Psalm 18:6. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.8",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "8",
+   "commentary_text": "Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth. See Gill on Psalm 18:7. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.9",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "9",
+   "commentary_text": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it. See Gill on Psalm 18:8. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.10",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "10",
+   "commentary_text": "He bowed the heavens also, and came down; and darkness was under his feet. See Gill on Psalm 18:9. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.11",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "11",
+   "commentary_text": "And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind. See Gill on Psalm 18:10. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.12",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "12",
+   "commentary_text": "And he made darkness pavilions round about him, dark waters,\n\nand thick clouds of the skies. See Gill on Psalm 18:11. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.13",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "13",
+   "commentary_text": "Through the brightness before him were coals of fire kindled. See Gill on Psalm 18:12. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.14",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "14",
+   "commentary_text": "The Lord thundered from heaven, and the most High uttered his voice. See Gill on Psalm 18:13. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.15",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "15",
+   "commentary_text": "And he sent out arrows, and scattered them; lightning, and discomfited them. See Gill on Psalm 18:14. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.16",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "16",
+   "commentary_text": "And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the Lord, at the blast of the breath of his nostrils. See Gill on Psalm 18:15. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.17",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "17",
+   "commentary_text": "He sent from above, he took me; he drew me out of many waters. See Gill on Psalm 18:16. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.18",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "18",
+   "commentary_text": "He delivered me from my strong enemy, and from them that hated me: for they were too strong for me. See Gill on Psalm 18:17. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.19",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "19",
+   "commentary_text": "They prevented me in the day of my calamity: but the Lord was my stay. See Gill on Psalm 18:18. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.20",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "20",
+   "commentary_text": "He brought me forth also into a large place: he delivered me,\n\nbecause he delighted in me. See Gill on Psalm 18:19. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.21",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "21",
+   "commentary_text": "The Lord rewarded me according to my righteousness: according to the cleanness of my hands hath he recompensed me. See Gill on Psalm 18:20. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.22",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "22",
+   "commentary_text": "For I have kept the ways of the Lord, and have not wickedly departed from my God. See Gill on Psalm 18:21. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.23",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "23",
+   "commentary_text": "For all his judgments were before me: and as for his statutes, I did not depart from them. See Gill on Psalm 18:22. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.24",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "24",
+   "commentary_text": "I was also upright before him, and have kept myself from mine iniquity. See Gill on Psalm 18:23. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.25",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "25",
+   "commentary_text": "Therefore the Lord hath recompensed me according to my righteousness; according to my cleanness in his eye sight. See Gill on Psalm 18:24. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.26",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "26",
+   "commentary_text": "With the merciful thou wilt show thyself merciful, and with the upright man thou wilt show thyself upright. See Gill on Psalm 18:25. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.27",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "27",
+   "commentary_text": "With the pure thou wilt show thyself pure; and with the froward thou wilt show thyself unsavoury. See Gill on Psalm 18:26. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.28",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "28",
+   "commentary_text": "And the afflicted people thou wilt save: but thine eyes are upon the haughty, that thou mayest bring them down. See Gill on Psalm 18:27. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.29",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "29",
+   "commentary_text": "For thou art my lamp, O Lord: and the Lord will lighten my darkness. See Gill on Psalm 18:28. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.30",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "30",
+   "commentary_text": "For by thee I have run through a troop: by my God have I leaped over a wall. See Gill on Psalm 18:29. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.31",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "31",
+   "commentary_text": "As for God, his way is perfect; the word of the Lord is tried: he is a buckler to all them that trust in him. See Gill on Psalm 18:30. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.32",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "32",
+   "commentary_text": "For who is God, save the Lord? and who is a rock, save our God? See Gill on Psalm 18:31. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.33",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "33",
+   "commentary_text": "God is my strength and power: and he maketh my way perfect. See Gill on Psalm 18:32. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.34",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "34",
+   "commentary_text": "He maketh my feet like hinds' feet: and setteth me upon my high places. See Gill on Psalm 18:33. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.35",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "35",
+   "commentary_text": "He teacheth my hands to war; so that a bow of steel is broken by mine arms. See Gill on Psalm 18:34. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.36",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "36",
+   "commentary_text": "Thou hast also given me the shield of thy salvation: and thy gentleness hath made me great. See Gill on Psalm 18:35. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.37",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "37",
+   "commentary_text": "Thou hast enlarged my steps under me; so that my feet did not slip. See Gill on Psalm 18:36. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.38",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "38",
+   "commentary_text": "I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them. See Gill on Psalm 18:37. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.39",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "39",
+   "commentary_text": "And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet. See Gill on Psalm 18:38. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.40",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "40",
+   "commentary_text": "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me. See Gill on Psalm 18:39. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.41",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "41",
+   "commentary_text": "Thou hast also given me the necks of mine enemies, that I might destroy them that hate me. See Gill on Psalm 18:40. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.42",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "42",
+   "commentary_text": "They looked, but there was none to save; even unto the Lord, but he answered them not. See Gill on Psalm 18:41. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.43",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "43",
+   "commentary_text": "Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, and did spread them abroad. See Gill on Psalm 18:42. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.44",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "44",
+   "commentary_text": "Thou also hast delivered me from the strivings of my people,\n\nthou hast kept me to be head of the heathen: a people which I knew not shall serve me. See Gill on Psalm 18:43. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.45",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "45",
+   "commentary_text": "Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me. See Gill on Psalm 18:44. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.46",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "46",
+   "commentary_text": "Strangers shall fade away, and they shall be afraid out of their close places. See Gill on Psalm 18:45. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.47",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "47",
+   "commentary_text": "The Lord liveth; and blessed be my rock; and exalted be the God of the rock of my salvation. See Gill on Psalm 18:46. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.48",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "48",
+   "commentary_text": "It is God that avengeth me, and that bringeth down the people under me. See Gill on Psalm 18:47. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.49",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "49",
+   "commentary_text": "And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man. See Gill on Psalm 18:48. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.50",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "50",
+   "commentary_text": "Therefore I will give thanks unto thee, O Lord, among the heathen, and I will sing praises unto thy name. See Gill on Psalm 18:49. \n"
+  },
+  {
+   "entry_id": "john-gill.2SA.22.51",
+   "book": "2 Samuel",
+   "book_osis": "2SA",
+   "chapter": 22,
+   "verse_range": "51+",
+   "commentary_text": "He is the tower of salvation for his king: and showeth mercy to his anointed, unto David, and to his seed for evermore. See Gill on Psalm 18:50. \n"
+  }
+ ]
+}

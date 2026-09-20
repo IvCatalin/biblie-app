@@ -1,0 +1,534 @@
+{
+ "meta": {
+  "id": "gregory-of-nyssa",
+  "author": "Gregory of Nyssa",
+  "license": "public-domain",
+  "schema_type": "church_fathers",
+  "source_url": "https://github.com/HistoricalChristianFaith/Commentaries-Database",
+  "book_scope": "Doar cele 18 carti Nevi'im folosite de Haftarot catalogate",
+  "download_date": "2026-09-19"
+ },
+ "by_book": {
+  "1Sam": [
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.15.35.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 15:35",
+     "osis": [
+      "1Sam.15.35"
+     ]
+    },
+    "quote": "Holy Scripture is often accustomed to attributing expressions to God such that seem quite like our own, for example, \"The Lord was angry, and he was grieved because of their sins\"; and again, \"He repented that he had anointed Saul king\" … and besides this, it makes mention of his sitting, and standing, and moving, and the like, which are not as a fact connected with God but are not without their use as an accommodation to those who are under teaching. For in the case of the too unbridled, a show of anger restrains them by fear. And to those who need the medicine of repentance, it says that the Lord repents along with them of the evil, and those who grow insolent through prosperity it warns, by God's repentance in respect to Saul, that their good fortune is no certain possession, though it seems to come from God.",
+    "source_title": "ANSWER TO EUNOMIUS'S SECOND BOOK",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.16.23.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 16:23",
+     "osis": [
+      "1Sam.16.23"
+     ]
+    },
+    "quote": "Once when he came to Saul, who was frenzied and out of his right mind, he healed him by soothing his passions with song, so that Saul's understanding returned to him again in accordance with nature. The goal, then, of the symbolism of the singing is clear from these words. It recommends that we achieve the subjugation of those passions which arise in us in various ways from the circumstances of life.",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 1.3.24",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.19.11-12.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 19:11-12",
+     "osis": [
+      "1Sam.19.11"
+     ]
+    },
+    "quote": "The story relates how, when the vehement emotion of the demonic spirit had settled on Saul and the holy David quieted the disturbance of the passion by means of his psaltery, Saul found the spear that was standing by him, aimed it straight at David and hurled it against his benefactor. David, however, avoided the attack on himself by means of the divine alliance, and the assault of the spear fixed itself deeply in the wall. He fled the royal dwellings and was in his own house, in the hope that repentance would alter the king's anger. But Saul placed his spearmen around David's house and ordered the executioners to kill him. He barely escaped the dangers by letting himself down into the open through a window and avoiding detection by the guard.",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2.16.264",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.19.13-17.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 19:13-17",
+     "osis": [
+      "1Sam.19.13"
+     ]
+    },
+    "quote": "Now Michal's name means \"reign,\" because sin reigned over our nature up to that time. And at the very time he himself was born, he [the Lord in the figure of David] went out through a window. And the window indicates the return to the light again of the one who made himself known to those sitting in darkness and the shadow of death.And his image is seen on the bed. For the angel says to those seeking the Lord in the tomb, \"Why do you seek the living with the dead? He is not here; he is risen.\" \"Behold the place\" in which he lay. Those seeking the Lord saw the tomb in which he was buried empty of the body of the one they were seeking. Only the burial sheets were in it. We think, therefore, that the image of David on the bed signifies the resurrection of the Lord in the tomb, through which the true averting of our death through expiatory sacrifice occurs.",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2.16.272-73",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.19.24.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 19:24",
+     "osis": [
+      "1Sam.19.24"
+     ]
+    },
+    "quote": "For, by the arguments wherewith he [Eunomius] endeavours to destroy the truth, he is often himself unwittingly drawn into an advocacy of the very doctrines against which he is contending: Some such thing the history tells us concerning Saul, that once, when moved with wrath against the prophets, he was overcome by grace, and was found as one of the inspired, (the Spirit of prophecy willing, as I suppose, to instruct the apostate by means of himself,) whence the surprising nature of the event became a proverb in his after life, as the history records such an expression by way of wonder, \"Is Saul also among the prophets?\"",
+    "source_title": "AGAINST EUNOMIUS 3.4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25203.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.19.9-10.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 19:9-10",
+     "osis": [
+      "1Sam.19.9"
+     ]
+    },
+    "quote": "Now it is certainly obvious what the sequence is looking to through the figures of the story. The one of David is predicted by means of David, and the one who was anointed signifies the Christ. And the lyre is a human instrument, but the song which comes from it is the Word which has been made manifest to us through the one who was made flesh, whose work is to destroy the derangement that comes from demons so that \"the gods of the nations\" may no longer be \"demons.\"That king, however, who had the demons in himself, when the spirits withdrew at the song of him who adapted his instrument to this purpose, smote him with his spear (now a spear is wood which has been equipped with iron), but the wall received the spear instead of him. And we think that the wall is the earthly building, by which we understand the body, in relation to which we see the wood of the cross and the iron. But that David, who is both Christ and king, is without suffering. For the deity does not experience the cross and the nails.",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2.16.269-70",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.22.9-10.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 22:9-10",
+     "osis": [
+      "1Sam.22.9"
+     ]
+    },
+    "quote": "I am taught through these words that whenever understanding guides my life like it did the life of the great David, that this carries me through to the end of the victory. And then I grieve especially for Doeg, the tyrant of my salvation, whenever I am in the house of the priest and when the attendant of the mules plots against me secretly because he no longer has the power to come to grips with me face to face, by informing the one who thirsts for my blood that I am staying with the priest.It's obvious what the mules represent, which this Edomite has charge over. He tends that sterile nature which has no room for God's blessing that sets fruitfulness in the creature in the beginning by saying \"increase and multiply.\" Multiplication in evil, like the continuation of the species of mules, is not of God. As the animal is always begun anew, this sterile nature of the creature is produced by trickery and is achieved underhandedly by means of the nature itself.\nBut the goal intended by the Word is obvious in what has been said. For if everything that the Lord made was very good, and the mule is not part of what was made in creation, it is obvious that \"mule\" has been used by the story to indicate evil. Its existence does not come from God, and it lacks the ability to propagate in order to make its characteristic nature endure. As the mule is unable to maintain its nature by itself, so evil lacks the ability to remain forever or preserve itself. Like with mules, another evil comes into being when it is created by another, when what is noble and splendid in our nature, and perhaps also haughty, sinks to the desire for a union which is ass-like and irrational.\nThat foreigner Doeg, then, who became the messenger to Saul against David, the herdsman of the sterile herd of mules, is the wicked angel who draws the human soul to evil through the various passions of sin. Whenever he sees that the soul is in the house of the true priest, being unable to strike it with the kicks of the mules, he informs the ruler of wickedness, \"the spirit which is at work in the sons of disobedience.\"",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2.13.179-82",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.24.4-5.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 24:4-5",
+     "osis": [
+      "1Sam.24.4"
+     ]
+    },
+    "quote": "When, therefore, he was alone and had removed his robe and laid it down somewhere beside him, the light from the mouth of the cave made him visible to those hidden within the darkness. All of David's companions wanted to rush upon the enemy and avenge themselves on the one who had come to kill them, since God had given the enemy into the hands of those who were being pursued for slaughter. But David forbade them to attack, considering an assault against their king unlawful. He drew his own sword from its sheath and imperceptibly stood behind Saul. There was no witness to his undertaking against Saul, for the darkness in the cave concealed his appearance and prevented scrutiny of what was happening. When, then, he could have driven his whole sword through Saul's heart from behind with one blow, he neither touched his body nor was he about to. But he secretly cut off the end of his robe with his sword, so that the garment might be a witness later of his clemency toward Saul and prove the power that he had had to strike a blow against Saul's body by means of the cut at its end.By this it became obvious that David had been trained in forbearance. When he held the bare sword in his palm, and the body of his enemy lay under his hand, he had the power to kill him, but he conquered his anger with reason, and his power to strike the blow with the fear of God. Not only did he become superior to his own anger, but he also restrained his shield bearer who was eager to murder Saul, addressing him with that saying famous in song, \"Destroy not the anointed of the Lord.\"",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2.14.227-28",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.24.5.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 24:5",
+     "osis": [
+      "1Sam.24.5"
+     ]
+    },
+    "quote": "This is why the coming together of Saul, who was in pursuit of murder, and of David, who was shunning murder, in the cave is described after many events which it had preceded. The authority to kill was reversed in this event, since the one who was being pursued for execution had authority over the slaughter of his killer, and although he had the right, so far as retribution against his enemy was concerned, he stayed his power so far as consisted with the right and killed his own anger in himself instead of his enemy. - \"On the Inscriptions of the Psalms 2.14.224\"",
+    "source_title": null,
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.24.8-11.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 24:8-11",
+     "osis": [
+      "1Sam.24.8"
+     ]
+    },
+    "quote": "Saul, therefore, came out of the cave unaware of what had happened, wearing the little garment which had been trimmed all around. David came out behind him in self-assurance, and having seized the hill lying above the cave in advance, held out the end [of Saul's robe] in his hand. This was nothing other than a bloodless trophy against his enemies. And he cried out to Saul in a loud voice and told him about this new and marvelous heroism, which was unstained by the defilement of blood, in which the hero was victorious and the one defeated was saved from death. For David's excellence is not attested in the fall of his enemy, but the superiority of his power is made clearer in the salvation of his opponent from danger. He had such an excess of confidence that he did not think that his own salvation lay in the destruction of those arrayed against him, but even when those who plotted against him survived he was confident that no one would harm him.But the Word teaches rather by this story that the one who excels in virtue does not fight bravely against those of his own race but fights against the passions. The anger in both men, then, was destroyed by such excellence as David had, in the one, when he destroyed his own wrath by means of reason and quenched the urge to take vengeance, and in the other, when Saul put to death his evil against David because of the clemency which he had experienced. For one can learn from the story itself the kind of things Saul uttered afterwards to the victor when he was submerged in shame for what he had undertaken and demonstrated his spontaneous turning away from evil by his lament and tears.",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2.14.229-30",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.26.9.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 26:9",
+     "osis": [
+      "1Sam.26.9"
+     ]
+    },
+    "quote": "But this is marvelous not only for the fact that he grants life to the one who is doing everything against his life, but because David, although he had been anointed to the office of king and knew that he would not otherwise partake of that position unless Saul were out of the way, judged it better to suffer ill patiently in his private low estate than to enter upon the kingship by satisfying his anger against the one who had caused him grief.",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2.16.266",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.26.9.1",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 26:9",
+     "osis": [
+      "1Sam.26.9"
+     ]
+    },
+    "quote": "After that, the opportunity to kill the enemy presented itself to him twice. Once in the cave Saul fell into David's hands unawares, and again in the tent when he was relaxed in sleep. David stood over him when he was asleep, and when he could have satisfied all his anger by murdering the one who pursued him, he did not lay a hand on him himself, and he said to the one eager for the kill, \"Do not destroy.\" The voice which prevents destruction in the case of this man is obviously the voice of God.For this reason, just as those who produce the more notable inscriptions on stones cut the characters deeply by frequently applying the chisel with blows to the carving of the letters, so the Holy Spirit contrives, by means of continuous repetition, that this great saying may become more distinct and quite clear on the stela of our memory, so that this inscription, having been carved in us distinctly and without confusion, might be known well in the time of misfortunes. For, in my opinion, the goal of the economy of the Holy Spirit is to set forth the previous accomplishments of holy ones for guidance for the life after these accomplishments, the representation leading us forward to good which is equal and similar. For whenever the soul swells with revenge against someone who is provoking it, and the blood around the heart boils with anger against the one who has grieved the soul, then, when one has looked up at this stela which the Holy Spirit set up for David, and has read the word on it which David uttered on behalf of him who was eager for his own blood, he will not fail to calm the troubled thoughts in his soul and appease his passion by his desire to imitate the same things.",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2.15.246-47",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.1Sam.9.16.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "1 Samuel 9:16",
+     "osis": [
+      "1Sam.9.16"
+     ]
+    },
+    "quote": "However, since the rank of kingship underlies all worth and power and rule, by this title the royal power of Christ is authoritatively and primarily indicated (for the anointing of kingship, as we learn in the historical books, comes first), and all the force of the other titles depends on that of royalty. For this reason, the person who knows the separate elements included under it also knows the power encompassing these elements. But it is the kingship itself which declares what the title of Christ means.",
+    "source_title": "ON PERFECTION",
+    "source_url": ""
+   }
+  ],
+  "Ezek": [
+   {
+    "entry_id": "gregory-of-nyssa.Ezek.37.1-14.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Ezekiel 37:1-14",
+     "osis": [
+      "Ezek.37.1"
+     ]
+    },
+    "quote": "For instance, Ezekiel leaps in the spirit of prophecy over all the intervening time, with its vast duration; he stands, by his powers of foresight, in the actual moment of the Resurrection, and, as if he had really gazed on what is still to come, brings it in his description before our eyes. He saw a mighty plain, unfolded to an endless distance before him, and vast heaps of bones upon it flung at random, some this way, some that; and then under an impulse from God these bones began to move and group themselves with their fellows that they once owned, and adhere to the familiar sockets, and then clothe themselves with muscle, flesh, and skin (which was the process called \"decorating\" in the poetry of the Psalms); a Spirit in fact was giving life and movement to everything that lay there.",
+    "source_title": "ON THE SOUL AND THE RESURRECTION",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FOn%2520the%2520Soul%2520and%2520the%2520Resurrection.html"
+   }
+  ],
+  "Isa": [
+   {
+    "entry_id": "gregory-of-nyssa.Isa.28.16.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 28:16",
+     "osis": [
+      "Isa.28.16"
+     ]
+    },
+    "quote": "Jacob also, hastening to seek a bride, met Rachel unexpectedly at the well. And a great stone lay upon the well, which a multitude of shepherds were wont to roll away when they came together, and then gave water to themselves and to their flocks. But Jacob alone rolls away the stone, and waters the flocks of his spouse. The thing is, I think, a dark saying, a shadow of what should come. For what is the stone that is laid but Christ Himself? for of Him Isaiah says, \"And I will lay in the foundations of Sion a costly stone, precious, elect:\" and Daniel likewise, \"A stone was cut out without hands,\" that is, Christ was born without a man. For as it is a new and marvellous thing that a stone should be cut out of the rock without a hewer or stone-cutting tools, so it is a thing beyond all wonder that an offspring should appear from an unwedded Virgin.",
+    "source_title": "ON THE BAPTISM OF CHRIST",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FOn%2520the%2520Baptism%2520of%2520Christ.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.29.13.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 29:13",
+     "osis": [
+      "Isa.29.13"
+     ]
+    },
+    "quote": "For the speaking in this way or in that is not the cause of the thought within us; but the hidden conception of the heart supplies the motive for such and such words; \"for from the abundance of the heart the mouth speaketh.\" We make the words interpret the thought; we do not by a reverse process gather the thought from the words. Should both be at hand, a man may certainly be ready in both, in clever thinking and clever expression; but if the one should be wanting, the loss to the illiterate is slight, if the knowledge in his soul is perfect in the direction of moral goodness. \"This people honoureth me with their lips, but their heart is far from me.\" What is the meaning of that? That the right attitude of the soul towards the truth is more precious than the propriety of phrases in the sight of God, who hears the \"groanings that cannot be uttered.\" Phrases can be used in opposite senses; the tongue readily serving, at his will, the intention of the speaker; but the disposition of the soul, as it is, so is it seen by Him Who sees all secrets.",
+    "source_title": "AGAINST EUNOMIUS 1:37",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25201.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.35.1.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 35:1",
+     "osis": [
+      "Isa.35.1"
+     ]
+    },
+    "quote": "And where shall we place that oracle of Isaiah, which cries to the wilderness, \"Be glad, O thirsty wilderness: let the desert rejoice and blossom as a lily: and the desolate places of Jordan shall blossom and shall rejoice\"? For it is clear that it is not to places without soul or sense that he proclaims the good tidings of joy: but he speaks, by the figure of the desert, of the soul that is parched and unadorned, even as David also, when he says, \"My soul is unto Thee as a thirsty land,\" and, \"My soul is athirst for the mighty, for the living God.\"",
+    "source_title": "ON THE BAPTISM OF CHRIST",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FOn%2520the%2520Baptism%2520of%2520Christ.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.35.1.1",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 35:1",
+     "osis": [
+      "Isa.35.1"
+     ]
+    },
+    "quote": "And \"the excellency of Carmel\" is given to the soul that bears the likeness to the desert, that is, the grace bestowed through the Spirit. For since Elijah dwelt in Carmel, and the mountain became famous and renowned by the virtue of him who dwelt there, and since moreover John the Baptist, illustrious in the spirit of Elijah, sanctified the Jordan, therefore the prophet foretold that \"the excellency of Carmel\" should be given to the river.",
+    "source_title": "ON THE BAPTISM OF CHRIST",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FOn%2520the%2520Baptism%2520of%2520Christ.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.35.1.2",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 35:1",
+     "osis": [
+      "Isa.35.1"
+     ]
+    },
+    "quote": "And \"the glory of Lebanon,\" from the similitude of its lofty trees, he transfers to the river. For as great Lebanon presents a sufficient cause of wonder in the very trees which it brings forth and nourishes, so is the Jordan glorified by regenerating men and planting them in the Paradise of God: and of them, as the words of the Psalmist say, ever blooming and bearing the foliage of virtues, \"the leaf shall not wither,\" and God shall be glad, receiving their fruit in due season, rejoicing, like a good planter, in his own works.",
+    "source_title": "ON THE BAPTISM OF CHRIST",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FOn%2520the%2520Baptism%2520of%2520Christ.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.40.12.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 40:12",
+     "osis": [
+      "Isa.40.12"
+     ]
+    },
+    "quote": "Accordingly, when we hear the name \"Almighty,\" our conception is this, that God sustains in being all intelligible things as well as all things of a material nature. For this cause He sitteth upon the circle of the earth, for this cause He holdeth the ends of the earth in His hand, for this cause He \"meteth out heaven with the span, and measureth the waters in the hollow of His hand\"; for this cause He comprehendeth in Himself all the intelligible creation, that all things may remain in existence controlled by His encompassing power.",
+    "source_title": "AGAINST EUNOMIUS 2:11",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.41.10.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 41:10",
+     "osis": [
+      "Isa.41.10"
+     ]
+    },
+    "quote": "For to none other than to God does it belong to implant courage in the fearful, saying to the faint-hearted, \"Fear not, for I am with thee, be not dismayed,\" as says the Psalmist, \"Yea though I walk through the valley of the shadow of death I will fear no evil, for Thou art with me.\" Nay, the Lord Himself says to the fearful,—\"Let not your heart be troubled, neither let it be afraid,\" and, \"Why are ye fearful, O ye of little faith?\" and, \"Be of good cheer, it is I, be not afraid,\" and again, \"Be of good cheer: I have overcome the world.\"",
+    "source_title": "AGAINST EUNOMIUS 2:15",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.41.4.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 41:4",
+     "osis": [
+      "Isa.41.4"
+     ]
+    },
+    "quote": "The great Isaiah thus speaks of the Divine nature with reference to these doctrines, in his exalted utterance,—who speaks in the person of the Deity, \"I am the first, and hereafter am I, and no God was before Me, and no God shall be after Me.\" … Since, then, neither is that God which was before God, nor is that God which is after God, (for that which is after God is the creation, and that which is anterior to God is nothing, and Nothing is not God;—or one should rather say, that which is anterior to God is God in His eternal blessedness, defined in contradistinction to Nothing;)—since, I say, this inspired utterance was spoken by the mouth of the prophet, we learn by his means the doctrine that the Divine Nature is one, continuous with Itself and indiscerptible, not admitting in Itself priority and posteriority, though it be declared in Trinity. Since, then, the saying is the saying of God, whether you grant that the words are the words of the Father or of the Son, the orthodox doctrine is equally upheld by either. For if it is the Father that speaks thus, He bears witness to the Son that He is not \"after\" Himself: for if the Son is God, and whatever is \"after\" the Father is not God, it is clear that the saying bears witness to the truth that the Son is in the Father, and not after the Father. If, on the other hand, one were to grant that this utterance is of the Son, the phrase, \"None hath been before Me,\" will be a clear intimation that He Whom we contemplate \"in the Beginning\" is apprehended together with the eternity of the Beginning.",
+    "source_title": "AGAINST EUNOMIUS 5:1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25205.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.42.8.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 42:8",
+     "osis": [
+      "Isa.42.8"
+     ]
+    },
+    "quote": "[Eunomius says:] \"…receiving glory from the Father, not sharing His glory with the Father, for the glory of the Almighty is incommunicable, as He hath said, 'My glory will I not give to another.'\" Who is that \"other\" to whom God has said that He will not give His glory? The prophet speaks of the adversary of God, and Eunomius refers the prophecy to the only begotten God Himself! For when the prophet, speaking in the person of God, had said, \"My glory will I not give to another,\" he added, \"neither My praise to graven images.\" For when men were beguiled to offer to the adversary of God the worship and adoration due to God alone, paying homage in the representations of graven images to the enemy of God, who appeared in many shapes amongst men in the forms furnished by idols, He Who healeth them that are sick, in pity for men's ruin, foretold by the prophet the loving-kindness which in the latter days He would show in the abolishing of idols, saying, \"When My truth shall have been manifested, My glory shall no more be given to another, nor My praise bestowed upon graven images: for men, when they come to know My glory, shall no more be in bondage to them that by nature are no gods.\" All therefore that the prophet says in the person of the Lord concerning the power of the adversary, this fighter against God, refers to the Lord Himself, Who spake these words by the prophet!",
+    "source_title": "AGAINST EUNOMIUS 2:10",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.44.6.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 44:6",
+     "osis": [
+      "Isa.44.6"
+     ]
+    },
+    "quote": "\"I am the first, and hereafter am I, and no God was before Me, and no God shall be after Me.\" For knowing more perfectly than all others the mystery of the religion of the Gospel, this great prophet, who foretold even that marvellous sign concerning the Virgin, and gave us the good tidings of the birth of the Child, and clearly pointed out to us that Name of the Son,—he, in a word, who by the Spirit includes in himself all the truth,—in order that the characteristic of the Divine Nature, whereby we discern that which really is from that which came into being, might be made as plain as possible to all, utters this saying in the person of God: \"I am the first, and hereafter am I, and before Me no God hath been, and after Me is none.\"",
+    "source_title": "AGAINST EUNOMIUS 5:1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25205.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.51.2.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 51:2",
+     "osis": [
+      "Isa.51.2"
+     ]
+    },
+    "quote": "For the divine voice says somewhere in the prophecy of Isaiah, \"Consider Abraham, your father, and Sarah, who gave you birth.\" Scripture gives this admonition to those who wander outside virtue. Just as at sea those who are carried away from the direction of the harbor bring themselves back on a course by a clear sign, on seeing either a beacon light raised up high or some mountain peak coming into view, in the same way Scripture by the example of Abraham and Sarah may guide again to the harbor of the divine will those adrift on the sea of life with a pilotless mind.",
+    "source_title": "LIFE OF MOSES, PROLOGUE 11",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.59.5.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 59:5",
+     "osis": [
+      "Isa.59.5"
+     ]
+    },
+    "quote": "Of such a kind as this, perhaps, is that of which the prophet says, touching the ungodly, \"They weave a spider's web.\" For as in the cobweb there is the appearance of something woven, but no substantiality in the appearance,—for he who touches it touches nothing substantial, as the spider's threads break with the touch of a finger,—just such is the unsubstantial texture of idle phrases. \"Not dividing His own essence by begetting and being at once begetter and begotten.\" Ought we to give his words the name of argument, or to call them rather a swelling of humours secreted by some dropsical inflation? … Who is so distracted, who is so demented, as to make the statement against which Eunomius thinks he is doing battle? For the Church believes that the true Father is truly Father of His own Son, as the Apostle says, not of a Son alien from Him.",
+    "source_title": "AGAINST EUNOMIUS 2:7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.60.8.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 60:8",
+     "osis": [
+      "Isa.60.8"
+     ]
+    },
+    "quote": "Thus, typically, under the leadership of the Law (for Moses was a type of the Law that was coming) Israel passes unwetted over that sea, while the Egyptian who crosses in her track is overwhelmed. Each fares according to the disposition which he carries with him; one walks lightly enough, the other is dragged into the deep water. For virtue is a light and buoyant thing, and all who live in her way \"fly like clouds,\" as Isaiah says, \"and as doves with their young ones\"; but sin is a heavy affair, \"sitting,\" as another of the prophets says, \"upon a talent of lead.\" If, however, this reading of the history appears to any forced and inapplicable, and the miracle at the Red Sea does not present itself to him as written for our profit, let him listen to the Apostle: \"Now all these things happened unto them for types, and they are written for our admonition.\"",
+    "source_title": "ON VIRGINITY 18",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FOn%2520Virginity.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.66.2.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 66:2",
+     "osis": [
+      "Isa.66.2"
+     ]
+    },
+    "quote": "For the prophet says in the person of the Father, \"My Hand made all these things,\" meaning by \"Hand,\" in his dark saying, the power of the Only-begotten. Now the Apostle says that all things are of the Father, and that all things are by the Son, and the prophetic spirit in a way agrees with the Apostolic teaching, which itself also is given through the Spirit. For in the one passage, the prophet, when he says that all things are the work of the Hand of Him Who is over all, sets forth the nature of those things which have come into being in its relation to Him Who made them, while He Who made them is God over all, Who has the Hand, and by It makes all things. And again, in the other passage, the Apostle makes the same division of entities, making all things depend upon their productive cause, yet not reckoning in the number of \"all things\" that which produces them: so that we are hereby taught the difference of nature between the created and the uncreated, and it is shown that, in its own nature, that which makes is one thing and that which is produced is another.",
+    "source_title": "AGAINST EUNOMIUS 7:1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25207.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Isa.9.6.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Isaiah 9:6",
+     "osis": [
+      "Isa.9.6"
+     ]
+    },
+    "quote": "For we too say plainly, that the prophet, wishing to make manifest to men the mystery concerning Christ, called the Self-Existent \"Angel,\" that the meaning of the words might not be referred to the Father, as it would have been if the title of \"Existent\" alone had been found throughout the discourse. But just as our word is the revealer and messenger (or \"angel\") of the movements of the mind, even so we affirm that the true Word that was in the beginning, when He announces the will of His own Father, is styled \"Angel\" (or \"Messenger\"), a title given to Him on account of the operation of conveying the message. And as the sublime John, having previously called Him \"Word,\" so introduces the further truth that the Word was God, that our thoughts might not at once turn to the Father, as they would have done if the title of God had been put first, so too does the mighty Moses, after first calling Him \"Angel,\" teach us in the words that follow that He is none other than the Self-Existent Himself, that the mystery concerning the Christ might be foreshown, by the Scripture assuring us by the name \"Angel,\" that the Word is the interpreter of the Father's will, and, by the title of the \"Self-Existent,\" of the closeness of relation subsisting between the Son and the Father. And if he should bring forward Isaiah also as calling Him \"the Angel of mighty counsel,\" not even so will he overthrow our argument. For there, in clear and uncontrovertible terms, there is indicated by the prophecy the dispensation of His Humanity; for \"unto us,\" he says, \"a Child is born, unto us a Son is given, and the government shall be upon His shoulder, and His name is called the Angel of mighty counsel.\" And it is with an eye to this, I suppose, that David describes the establishment of His kingdom, not as though He were not a King, but in the view that the humiliation to the estate of a servant to which the Lord submitted by way of dispensation, was taken up and absorbed into the majesty of His Kingdom. For he says, \"I was established King by Him on His holy hill of Sion, declaring the ordinance of the Lord.\" Accordingly, He Who through Himself reveals the goodness of the Father is called \"Angel\" and \"Word,\" \"Seal\" and \"Image,\" and all similar titles with the same intention. For as the \"Angel\" (or \"Messenger\") gives information from some one, even so the Word reveals the thought within, the Seal shows by Its own stamp the original mould, and the Image by Itself interprets the beauty of that whereof It is the image, so that in their signification all these terms are equivalent to one another. For this reason the title \"Angel\" is placed before that of the \"Self-Existent,\" the Son being termed \"Angel\" as the exponent of His Father's will, and the \"Existent\" as having no name that could possibly give a knowledge of His essence, but transcending all the power of names to express.",
+    "source_title": "AGAINST EUNOMIUS 11:3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%252011.html"
+   }
+  ],
+  "Josh": [
+   {
+    "entry_id": "gregory-of-nyssa.Josh.23.10.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Joshua 23:10",
+     "osis": [
+      "Josh.23.10"
+     ]
+    },
+    "quote": "For faithful is he who has promised that \"a thousand shall be chased by one,\" and that \"ten thousand shall be put to flight by two,\" victory in battle being due not to numbers but to righteousness.",
+    "source_title": "ANSWER TO EUNOMIUS'S SECOND BOOK",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Josh.3.14-17.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Joshua 3:14-17",
+     "osis": [
+      "Josh.3.14"
+     ]
+    },
+    "quote": "Joshua son of Nun made the Jordan River stop, but only as long as the ark was in the water. As soon as the people had crossed to the other side and the ark had come through, he gave the river back its usual flow again. The bottom of the deep in the Red Sea was denuded of water when the sea was driven back to either side by the Spirit, but the duration of the marvel was the passage of the army through the deep on the dry strip. But after that the surface of the sea became one again, and the temporary gap was flooded over. So this remains a unique event which occurred in such a way that the marvel did not lose credibility because of the passage of time, since it continues to be testified to by visible traces.",
+    "source_title": "THE LIFE OF GREGORY THE WONDERWORKER 7.55",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Josh.4.3-4.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Joshua 4:3-4",
+     "osis": [
+      "Josh.4.3"
+     ]
+    },
+    "quote": "The people of the Hebrews, as we learn, after many sufferings, and after accomplishing their weary course in the desert, did not enter the land of promise until it had first been brought, with Joshua for its guide and the pilot of its life, to the passage of the Jordan. But it is clear that Joshua also, who set up the twelve stones in the stream, was anticipating the coming of the twelve disciples, the ministers of Baptism.",
+    "source_title": "ON THE BAPTISM OF CHRIST",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FOn%2520the%2520Baptism%2520of%2520Christ.html"
+   }
+  ],
+  "Judg": [
+   {
+    "entry_id": "gregory-of-nyssa.Judg.13.18.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Judges 13:18",
+     "osis": [
+      "Judg.13.18"
+     ]
+    },
+    "quote": "And so, too, the word that was spoken to Manoah shows the fact that the Divinity is not comprehensible by the significance of His name, because, when Manoah asks to know His name, that, when the promise has come actually to pass, he may by name glorify his benefactor, He says to him, \"Why askest thou this? It also is wonderful\"; so that by this we learn that there is one name significant of the Divine Nature—the wonder, namely, that arises unspeakably in our hearts concerning It.",
+    "source_title": "AGAINST EUNOMIUS 8.1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25208.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Judg.16.19-21.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Judges 16:19-21",
+     "osis": [
+      "Judg.16.19"
+     ]
+    },
+    "quote": "But the one who has taken root as \"a fruitful olive tree in the house of God\" composes those words against the tyrant which we have heard in the psalm, saying, \"Why do you glory in evil, you who are mighty in iniquity,\" whose \"tongue\" is \"like a sharp razor.\" It was by means of these two things that [Samson] was led off, after [Delilah] had removed the beauty of his hair and cut off the \"seven locks of curls\" in which our strength lies. Now you will by all means understand the meaning of the spiritual curls from the number seven, just as Isaiah has enumerated the grace which comes from the Spirit in seven parts. If these are cut off, as happened in the case of Samson, the destruction of the \"eyes\" follows, and one becomes a laughing stock to foreigners when they are drunk.",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2.13.183",
+    "source_url": ""
+   }
+  ],
+  "Mic": [
+   {
+    "entry_id": "gregory-of-nyssa.Mic.7.6.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Micah 7:6",
+     "osis": [
+      "Mic.7.6"
+     ]
+    },
+    "quote": "A man, then, who remains the same and yet prattles to himself about the change for the better that he has undergone in baptism should attend to what Paul says: \"If anyone thinks he is something when he is nothing, he deceives himself.\" For you are not what you have not yet become. The Gospel says of the regenerate, however, that \"he gave all those who received him the power to become God's children.\" Now the child born of someone certainly shares his parent's nature. If then you have received God and have become his child, let your way of life testify to the God within you. Make it clear who your father is! The marks by which we recognize God are the very ones by which a son must show his relation to him. \"He opens his hand and fills everything living with joy.\" \"He overlooks iniquity.\" \"He relents of his evil purpose.\" \"The Lord is kind to all and is not angry with us every day.\" \"God is straightforward, and there is no unrighteousness in him.\" This is what fathers do for children. Similar sayings are scattered through Scripture for our instruction. If you are like this, you have genuinely become a child of God. But if you persist in displaying the marks of evil, it is useless to babble to yourself about the birth from above.",
+    "source_title": "ADDRESS ON RELIGIOUS INSTRUCTION 40",
+    "source_url": ""
+   }
+  ],
+  "Zech": [
+   {
+    "entry_id": "gregory-of-nyssa.Zech.3.1.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Zechariah 3:1",
+     "osis": [
+      "Zech.3.1"
+     ]
+    },
+    "quote": "For in that passage too, in giving the name of High Priest to Him Who made with His own Blood the priestly propitiation for our sins, he does not by the word \"made\" declare the first existence of the Only-begotten, but says \"made\" with the intention of representing that grace which is commonly spoken of in connection with the appointment of priests. For Jesus, the great High Priest (as Zechariah says), Who offered up his own lamb, that is, His own Body, for the sin of the world; Who, by reason of the children that are partakers of flesh and blood, Himself also in like manner took part with them in blood (not in that He was in the beginning, being the Word and God, and being in the form of God, and equal with God, but in that He emptied Himself in the form of the servant, and offered an oblation and sacrifice for us), He, I say, became a High Priest many generations later, after the order of Melchisedech. Surely a reader who has more than a casual acquaintance with the discourse to the Hebrews knows the mystery of this matter.",
+    "source_title": "Against Eunomius, Book 6",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FAgainst%2520Eunomius%2FBook%25206.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Zech.3.3.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Zechariah 3:3",
+     "osis": [
+      "Zech.3.3"
+     ]
+    },
+    "quote": "Now in this, by that wondrous sacrifice, Elijah clearly proclaimed to us the sacramental rite of baptism that should afterwards be instituted. For the fire was kindled by water thrice poured upon it, so that it is clearly shown that where the mystic water is, there is the kindling, warm and fiery spirit that burns up the ungodly and illuminates the faithful. Yes, and yet again his disciple Elisha, when Naaman the Syrian, who was diseased with leprosy, had come to him as a suppliant, cleanses the sick man by washing him in the Jordan, clearly indicating what should come, both by the use of water generally and by dipping in the river in particular. For the Jordan alone of rivers, receiving in itself the firstfruits of sanctification and benediction, conveyed in its channel to the whole world, as it were from some fount in the type afforded by itself, the grace of baptism. These then are indications in deed and act of regeneration in baptism. Let us for the rest consider the prophecies of it in words and language. Isaiah cried, saying, \"Wash you, make you clean, put away evil from your souls,\" and David, \"Draw nigh to him and be enlightened, and your faces shall not be ashamed.\" And Ezekiel, writing more clearly and plainly than them both, says, \"And I will sprinkle clean water upon you, and you shall be cleansed; from all your filthiness, and from all your idols, will I cleanse you. A new heart also will I give you, and a new spirit will I give you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh, and my spirit will I put within you.\" Most manifestly also does Zechariah prophesy of Joshua, who was clothed with filthy garments (to wit, the flesh of a servant, even ours), and stripping him of his ill-favored raiment, adorns him with the clean and fair apparel, teaching us by the figurative illustration that truly in the baptism of Jesus all we, putting off our sins like some poor and patched garment, are clothed in the holy and most fair garment of regeneration.",
+    "source_title": "ON THE BAPTISM OF CHRIST",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FOn%2520the%2520Baptism%2520of%2520Christ.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Zech.5.7.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Zechariah 5:7",
+     "osis": [
+      "Zech.5.7"
+     ]
+    },
+    "quote": "For virtue is a light and buoyant thing, and all who live in her way \"fly like clouds,\" as Isaiah says, \"and as doves with their young ones\"; but sin is a heavy affair, \"sitting,\" as another of the prophets says, \"upon a talent of lead.\" If, however, this reading of the history appears to any forced and inapplicable, and the miracle at the Red Sea does not present itself to him as written for our profit, let him listen to the Apostle: \"Now all these things happened unto them for types, and they are written for our admonition.\"",
+    "source_title": "On Virginity 18",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nyssa%2FOn%2520Virginity.html"
+   },
+   {
+    "entry_id": "gregory-of-nyssa.Zech.6.12.0",
+    "author": "Gregory of Nyssa",
+    "anchor_ref": {
+     "raw": "Zechariah 6:12",
+     "osis": [
+      "Zech.6.12"
+     ]
+    },
+    "quote": "The inscription, \"for the octave,\" therefore, that we not look to the present time, but that we look toward the \"octave.\" For whenever this transitory and fleeting time ceases, in which one thing comes to be and another is dissolved, and the necessity of coming to be has passed away, and that which is dissolved no longer exists … the hebdomad too, which measures time, will by all means halt. Then that \"octave,\" which is the next age, will succeed it. The whole of the latter becomes one day, as one of the prophets says when he calls the life, which is anticipated \"the Great Day.\" For this reason the perceptible sun does not enlighten that day, but \"the true light,\" the \"sun of righteousness,\" who is designated \"rising\" by the prophecy because he is never veiled by the settings.",
+    "source_title": "ON THE INSCRIPTIONS OF THE PSALMS 2:5.53",
+    "source_url": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,992 @@
+{
+ "meta": {
+  "id": "cyril-of-jerusalem",
+  "author": "Cyril of Jerusalem",
+  "license": "public-domain",
+  "schema_type": "church_fathers",
+  "source_url": "https://github.com/HistoricalChristianFaith/Commentaries-Database",
+  "book_scope": "Doar cele 18 carti Nevi'im folosite de Haftarot catalogate",
+  "download_date": "2026-09-19"
+ },
+ "by_book": {
+  "1Kgs": [
+   {
+    "entry_id": "cyril-of-jerusalem.1Kgs.1.39.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "1 Kings 1:39",
+     "osis": [
+      "1Kgs.1.39"
+     ]
+    },
+    "quote": "Moreover, you should know that in the old Scripture there lies the symbol of this Chrism. For what time Moses imparted to his brother the command of God, and made him High-priest, after bathing in water, he anointed him; and Aaron was called Christ or Anointed, evidently from the typical Chrism. So also the High-priest, in advancing Solomon to the kingdom, anointed him after he had bathed in Gihon. To them however these things happened in a figure, but to you not in a figure, but in truth; because ye were truly anointed by the Holy Ghost. Christ is the beginning of your salvation; for He is truly the First-fruit, and ye the mass; but if the First-fruit be holy, it is manifest that Its holiness will pass to the mass also.",
+    "source_title": "Catechetical Lectures, Lecture 21 (Mystagogical Lecture 3)",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Jerusalem%2FCATECHETICAL%2520LECTURES%2FLecture%252021.html"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.1Kgs.8.27.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "1 Kings 8:27",
+     "osis": [
+      "1Kgs.8.27"
+     ]
+    },
+    "quote": "Afterwards Solomon, hearing his father David say these things, and having built a wondrous house and foreseeing him who would come to it, says in astonishment, \"Is it then to be thought that God should indeed dwell on earth?\" Yes, says David in anticipation in the psalm inscribed \"For Solomon,\" wherein it is said, \"He shall be like rain coming down on the fleece\"; \"rain\" because of his heavenly origin but \"on the fleece\" because of his humanity. For rain, falling on fleece, falls noiselessly; so that, the mystery of his birth being unknown, the wise men said, \"Where is he that is born king of the Jews?\" And Herod, being troubled, inquired concerning him who had been born, and said, \"Where is the Christ born?\"",
+    "source_title": "Catechetical Lecture 12:9",
+    "source_url": "https://www.newadvent.org/fathers/310112.htm"
+   }
+  ],
+  "1Sam": [
+   {
+    "entry_id": "cyril-of-jerusalem.1Sam.1.13-14.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "1 Samuel 1:13-14",
+     "osis": [
+      "1Sam.1.13"
+     ]
+    },
+    "quote": "Let the virgins likewise form a separate band, singing hymns or reading; silently, however, so that while their lips speak, no other's ears may hear what they say. For, \"I suffer not a woman to speak in church.\" Let the married woman imitate them: let her pray and her lips move but her voice not be heard. So shall Samuel come among us: your barren soul, that is to say, shall bring forth the salvation of \"God who has heard your prayers.\" For that is the meaning of \"Samuel.\"",
+    "source_title": "Catechetical Lectures, Prologue, 14",
+    "source_url": "https://www.newadvent.org/fathers/310100.htm"
+   }
+  ],
+  "2Kgs": [
+   {
+    "entry_id": "cyril-of-jerusalem.2Kgs.20.1-6.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "2 Kings 20:1-6",
+     "osis": [
+      "2Kgs.20.1"
+     ]
+    },
+    "quote": "Would you know the power of repentance? Would you understand this strong weapon of salvation and the might of confession? By confession Hezekiah routed 185,000 of the enemy. That was important, but it was little compared with what shall be told. The same king's repentance won the repeal of the sentence God had passed on him. For when he was sick, Isaiah said to him, \"Give charge concerning your house, for you shall die and not live.\" What expectation was left? What hope of recovery was there, when the prophet said, \"For you shall die\"? But Hezekiah did not cease from penitence, for he remembered what was written: \"In the hour that you turn and lament, you shall be saved.\" He turned his face to the wall, and from his bed of pain his mind soared up to heaven—for no wall is so thick as to stifle reverent prayer—\"Lord,\" he said, \"remember me. You are not subject to circumstance, but are yourself the legislator of life. For not on birth and conjunction of stars, as some vainly say, does our life depend. No, you are the arbiter, according to your will, of life and the duration of life.\" He whom the prophet's sentence had forbidden to hope was granted fifteen further years of life, the sun turning back its course in witness thereof. Now while the sun retraced its course for Hezekiah, for Christ it was eclipsed, the distinction marking the difference between the two, I mean Hezekiah and Jesus. Now if even Hezekiah could revoke God's decree, shall not Jesus grant the remission of sins? Turn and lament, shut your door, and beg for pardon, that God may remove from the scorching flames. For confession has the power to quench even fire; it can tame even lions.",
+    "source_title": "Catechetical Lecture 2:15",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.2Kgs.25.1-11.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "2 Kings 25:1-11",
+     "osis": [
+      "2Kgs.25.1"
+     ]
+    },
+    "quote": "What think you of Nebuchadnezzar? Have you not heard from Scripture that he was bloodthirsty, fierce, with the disposition of a lion? Have you not heard that he disinterred the kings? Have you not heard that he brought the people away into captivity? Have you not heard that he put the king's sons to the sword before Zedekiah's eyes and then blinded him? Have you not heard that he shattered the cherubim? I do not mean the invisible cherubim—it is blasphemy to think it—but the sculptured images and the mercy seat in the Holy of Holies, from the midst of which God was apt to speak with his voice. He trampled on the veil of sanctification, he took the censer and carried it away to a temple of idols; he seized all the offerings; he burned the temple to its foundations. What punishment did he not deserve for slaying kings, for burning the holy object, for reducing the people to captivity, for putting the sacred vessels in the temples of the idols? Did he not deserve ten thousand deaths?You have seen the enormity of his crimes. Turn now to the loving-kindness of God. Nebuchadnezzar was turned into a wild beast; he dwelled in the wilderness; God scourged him to save him. He had claws like a lion's, for he had preyed on the saints. He had a lion's mane, for he had been a ravening, roaring lion. He ate grass like an ox, for he had behaved like a brute beast, not knowing him who had given him his kingdom. His body was drenched with dew, because, after seeing the fire quenched by the dew, he had not believed. And what happened? Afterwards he says, \"I, Nebuchadnezzar, raised my eyes to heaven … and I blessed the Most High, and I praised and glorified him who lives forever.\" When therefore he acknowledged the Most High, and uttered words of thanksgiving to God, and repented of his past wickedness and recognized his own weakness, in that hour God restored to him his royal dignity.\nWhat then? If God granted pardon and a kingdom to Nebuchadnezzar after such terrible crimes, when he had made confession, will he not grant you the remission of your sins if you repent and the kingdom of heaven if you live worthily? God is merciful and quick to forgiveness but slow to vengeance. Therefore let no one despair of salvation. Peter, the chief and foremost of the apostles, denied the Lord thrice before a little serving maid; but, moved to repentance, he wept bitterly. His weeping revealed his heartfelt repentance, and for that reason not only did he receive pardon for his denial but also retained his apostolic prerogative.",
+    "source_title": "Catechetical Lecture 2:17-19",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   }
+  ],
+  "2Sam": [
+   {
+    "entry_id": "cyril-of-jerusalem.2Sam.12.13-14.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "2 Samuel 12:13-14",
+     "osis": [
+      "2Sam.12.13"
+     ]
+    },
+    "quote": "If you like, however, I will give you further examples relating to our condition. Come then to the blessed David, and take him for your example of repentance. Great as he was, he suffered a fall. It was in the afternoon, after his siesta, that he took a turn on the housetop and saw by chance what stirred his human passion. He fulfilled the sinful deed, but his nobility, when it came to confessing the lapse, had not perished with the doing of the deed. Nathan the prophet came, swift to convict, but now as a healer for his wound, saying, \"The Lord was angry, and you have sinned.\" So spoke a simple subject to his reigning sovereign. But David, though king and robed in purple, did not take it amiss, for he had regard not to the rank of the speaker but to the majesty of him who sent him. He was not puffed up by the fact that guardsmen were drawn up all around him, for the angelic host of the Lord came to his mind and he was in terror \"as seeing him who is invisible.\" So he answered and said to the man that came to him, or rather, in his person, to the God whose messenger he was, \"I have sinned against the Lord.\" You see this royal humility and the making of confession. Surely no one had been convicting him, nor were there many who knew what he had done. Swiftly the deed was done and immediately the prophet appeared as accuser. Lo! The sinner confesses his wicked deed, and as it was full and frank confession, he had the swiftest healing. For the prophet Nathan first threatened him, but then said immediately, \"And the Lord has put away your sin.\" And see how quickly lovingkindness changes the face of God! Except that he first declares, \"you have given great occasion to the enemies of the Lord to blaspheme\" as though he said \"you have many that are your foes because of your righteousness, from whom nevertheless, you were kept safe by your upright living. But as you have thrown away this best of armors, you have now, standing ready to strike, these foes that are risen up against you.\"So then the prophet comforted David as we have seen, but that blessed man, though he received most gladly the assurance, \"The Lord has put away your sin,\" did not, king as he was, draw back from penitence. Indeed he put on sackcloth in place of his purple robe, and the king sat in ashes on the bare earth instead of on his gilded throne. And in ashes he did not merely sit, but took them for eating, as he himself says, \"I have eaten ashes as it were bread, and mingled my drink with weeping.\" His lustful eye he wasted away with tears; as he says, \"every night I wash my bed and water my couch with my tears.\" And when his courtiers exhorted him to eat food, he would not, but prolonged his fast for seven whole days.",
+    "source_title": "Catechetical Lecture 2:11-12",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.2Sam.15.30.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "2 Samuel 15:30",
+     "osis": [
+      "2Sam.15.30"
+     ]
+    },
+    "quote": "Again, after Absalom's rebellion, when David was in flight, with many possible routes before him, he chose to make his escape by the Mount of Olives, as good as invoking in his own mind the Deliverer who should from there ascend into the heavens. And when Shimei cursed him bitterly he said, \"Let him be.\" For he knew that forgiveness is for those who forgive.… As, then, brothers, you have many examples of people who have sinned and then repented and been saved, do you also make confession to the Lord with all your heart, so as to receive pardon of all your sins of the time past and be accounted worthy of the heavenly gift and inherit the heavenly kingdom with all the saints in Christ Jesus, to whom be glory, world without end. Amen.",
+    "source_title": "Catechetical Lecture 2:12, 20",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.2Sam.23.2.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "2 Samuel 23:2",
+     "osis": [
+      "2Sam.23.2"
+     ]
+    },
+    "quote": "In Moses' day the Spirit was given by the imposition of hands; and Peter imparted the Spirit by the imposition of hands. Upon you also, who are to be baptized, the grace will come. In what manner I do not say, for I do not anticipate the proper time.… We learn clearly in the book of Kings [Samuel], of Samuel and David, how by the Holy Spirit they prophesied and were leaders of the prophets. Samuel in fact was called the \"seer.\" David says plainly: \"The spirit of the Lord has spoken by me;\" and in the psalms: \"and do not take your holy spirit from me;\" and again: \"May your good spirit guide me on level ground.\"",
+    "source_title": "Catechetical Lecture 16:26, 28",
+    "source_url": "https://www.newadvent.org/fathers/310116.htm"
+   }
+  ],
+  "Amos": [
+   {
+    "entry_id": "cyril-of-jerusalem.Amos.2.8.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Amos 2:8",
+     "osis": [
+      "Amos.2.8"
+     ]
+    },
+    "quote": "Cain was the first murderer. Afterwards a deluge engulfed the earth because of the exceeding wickedness of humanity. Fire came down from heaven upon the people of Sodom because of their corruption. Subsequently God elected Israel, but even Israel became perverse, and the chosen people were wounded. For while Moses stood on the mountain before God, the people worshiped a calf in the place of God. In the days of their lawgiver Moses, who said, \"You shall not commit adultery,\" a man dared to enter a brothel and be wanton. After Moses, prophets were sent to heal Israel, but in their exercise of healing they deplored the fact that you could not overcome evil. One of them says, \"The faithful are gone from the earth. Among men the upright are no more!\" and again, \"All alike have gone astray; they have become perverse; there is not one who does good, not even one.\" And again, \"Cursing and theft, and adultery, and killing have overflowed\" upon the land. \"They sacrificed their sons and daughters to demons.\" They engaged themselves in auguries and enchantments and divinations; and again, \"They fastened their garments with cords and hung veils next to the altar.\"",
+    "source_title": "CATECHETICAL LECTURE 12:6",
+    "source_url": ""
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Amos.4.13.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Amos 4:13",
+     "osis": [
+      "Amos.4.13"
+     ]
+    },
+    "quote": "When Christ came, the people of the old covenant denied him, but the devils confessed him. His forefather David was not ignorant of him when he said, \"I will place a lamp for my anointed.\" Some have interpreted \"lamp\" as the splendor of prophecy; others have understood by the lamp the flesh he assumed of the Virgin, according to the words of the apostle: \"But we carry this treasure in vessels of clay.\" The prophet was not ignorant of him when he said, \"And declaring his Christ to men.\" Moses also knew him, and Isaiah and Jeremiah as well. None of the prophets was ignorant of him. Even the devils acknowledged him, for he rebuked them, and Scripture adds, \"Because they knew that he was the Christ.\"",
+    "source_title": "CATECHETICAL LECTURE 10:15",
+    "source_url": ""
+   }
+  ],
+  "Ezek": [
+   {
+    "entry_id": "cyril-of-jerusalem.Ezek.18.21.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Ezekiel 18:21",
+     "osis": [
+      "Ezek.18.21"
+     ]
+    },
+    "quote": "Sin is a terrible thing, and the most grievous disease of the soul is iniquity, which corrodes the fiber of the soul and makes it liable to eternal fire. It is an evil freely chosen, the product of the will.",
+    "source_title": "Catechetical Lecture 2:1",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Ezek.18.31.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Ezekiel 18:31",
+     "osis": [
+      "Ezek.18.31"
+     ]
+    },
+    "quote": "\"Make for yourselves a new heart and a new spirit\" that you may become a subject of joy for the citizens of heaven. For if there is joy \"over one sinner who repents,\" according to the Gospel, how much more will the salvation of so many souls gladden the blessed saints? You have entered on a good and glorious course: run the holy race in good earnest.",
+    "source_title": "Catechetical Lecture 1:1",
+    "source_url": "https://www.newadvent.org/fathers/310101.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Ezek.1.28.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Ezekiel 1:28",
+     "osis": [
+      "Ezek.1.28"
+     ]
+    },
+    "quote": "One might gather from a passage in Ezekiel that Ezekiel saw him, but what does Scripture actually say? He saw \"the likeness of his glory\"; not the Lord but only the likeness of his glory, not the glory as it really is. Yet, on beholding the likeness of his glory and not the glory itself, he fell to the earth in fear. But if the vision of the likeness of the glory inspired the prophets with fear and trembling, anyone attempting to look on God would surely lose his life.",
+    "source_title": "Catechetical Lecture 9:1",
+    "source_url": "https://www.newadvent.org/fathers/310109.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Ezek.1.5-10.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Ezekiel 1:5-10",
+     "osis": [
+      "Ezek.1.5"
+     ]
+    },
+    "quote": "After this description of the prophet, we still cannot comprehend as we read. But if we cannot comprehend the throne that he has described, how will we be able to comprehend him who sits on it, the invisible and ineffable God? It is impossible to examine closely the nature of God, but for his works, which we see, we can offer him praise and glory.",
+    "source_title": "Catechetical Lecture 9:3",
+    "source_url": "https://www.newadvent.org/fathers/310109.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Ezek.28.12-13.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Ezekiel 28:12-13",
+     "osis": [
+      "Ezek.28.12"
+     ]
+    },
+    "quote": "The chief author of sin, then, is the devil, the author of all evil. Not I but the Lord has said, \"The devil sins from the beginning.\" Before him no one sinned. Nor did he sin because by nature he was of necessity prone to sin—or else the responsibility for sin would reflect on him who created him in this way—but after being created good, he became a devil by his own free choice, receiving that name from his action. Though he was an archangel, he was afterwards called devil (slanderer) from his slandering, and though he was once a good servant of God, he was afterwards rightly named Satan, for Satan is interpreted \"the adversary.\" This is not my teaching but that of the inspired prophet Ezekiel. For taking up a lament against him, he says, \"You were a seal of resemblance and crown of beauty; you were begotten in the paradise of God,\" and a little further on, \"Blameless you were in your conduct from the day you were created until evil was found in you.\"",
+    "source_title": "Catechetical Lecture 2:4",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Ezek.37.1-14.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Ezekiel 37:1-14",
+     "osis": [
+      "Ezek.37.1"
+     ]
+    },
+    "quote": "The hope of resurrection is the root of every kind of good work, for the expectation of reward braces the soul to productive toil. And whereas every worker is ready to sustain his toil if he can look forward to being repaid for his labors, where toil has no recompense the soul is soon discouraged and the body flags with it. A soldier who expects his share of the spoils is ready for war. But no one is prepared to die serving a king so undiscerning that he does not provide rewards for labors. In the same way, any soul that believes in resurrection takes care for itself, as is right, but any soul that disbelieves the resurrection abandons itself to destruction. A person who believes that the body survives to rise again is careful of this garment and does not soil it by fornicating. But a person who does not believe in the resurrection gives himself up to fornication, abusing his own body as if it were nothing to him. A mighty message and teaching of the holy Catholic church is belief about the resurrection of the dead; mighty and most indispensable. While many deny it, the truth claims credence for it. Greeks deny it, Samaritans disbelieve, while heretics tear away the half. Truth never appears but in one shape, while contradiction assumes a hundred.",
+    "source_title": "Catechetical Lecture 18:1",
+    "source_url": "https://www.newadvent.org/fathers/310118.htm"
+   }
+  ],
+  "Hos": [
+   {
+    "entry_id": "cyril-of-jerusalem.Hos.4.2.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Hosea 4:2",
+     "osis": [
+      "Hos.4.2"
+     ]
+    },
+    "quote": "After Moses, prophets were sent to heal Israel. But in their exercise of healing they deplored the fact that they could not overcome evil, so that one of them says, \"The faithful are gone from the earth, among men the upright are no more,\" and again, \"All alike have gone astray; they have become perverse; there is not one who does good, not even one.\" And again, \"Cursing, and theft, and adultery, and killing have overflowed\" upon the land. \"They sacrificed their sons and daughters to demons.\" They engaged themselves in auguries and enchantments and divinations; and again, \"they fastened their garments with cords and hung veils next to the altar.\"",
+    "source_title": "CATECHETICAL LECTURE 12:6",
+    "source_url": ""
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Hos.6.2.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Hosea 6:2",
+     "osis": [
+      "Hos.6.2"
+     ]
+    },
+    "quote": "A few of the Jews of that time were persuaded, but the world hearkened to the truth. Those who concealed the truth were buried in oblivion, but those who received it were made manifest by the power of the Savior, who rose from the dead and raised the dead himself. In the person of the risen dead the prophet Hosea says plainly, \"He will revive us after two days; on the third day he will raise us up, to live in his presence.\"",
+    "source_title": "CATECHETICAL LECTURE 14:4",
+    "source_url": ""
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Hos.9.12.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Hosea 9:12",
+     "osis": [
+      "Hos.9.12"
+     ]
+    },
+    "quote": "God is not ashamed to take flesh from such members, for he framed these very members. Who tells us this? The Lord said to Jeremiah, \"Before I formed you in the womb I knew you. Before you were born I dedicated you.\" If in fashioning me, therefore, he touched them and was not ashamed, was he ashamed in forming for himself the holy flesh, the veil of his Godhead? It is God who even now creates the babes in the womb, as it is written in Job, \"Did you not pour me out as milk, and thicken me like cheese? With skin and flesh you clothed me, with bones and sinews knit me together.\" There is nothing corrupt in the human bodily frame unless one defiles it with adulteries and wantonness. He who formed Adam formed Eve also; and male and female were fashioned by the divine hands. None of the members of the body, as fashioned from the beginning, is corrupt. Let all heretics be silent who slander their bodies, or rather him who formed them. But let us be mindful of Paul's words: \"Do you not know that your members are the temple of the Holy Spirit, who is in you?\" Again, the prophet has foretold in the person of Jesus, \"my flesh is from them.\"",
+    "source_title": "CATECHETICAL LECTURE 12:26",
+    "source_url": ""
+   }
+  ],
+  "Isa": [
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.11.2-3.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 11:2-3",
+     "osis": [
+      "Isa.11.2"
+     ]
+    },
+    "quote": "Isaiah signifies that the Spirit was indeed one and indivisible, but his operations diverse.",
+    "source_title": "Catechetical Lecture 16:30",
+    "source_url": "https://www.newadvent.org/fathers/310116.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.11.4.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 11:4",
+     "osis": [
+      "Isa.11.4"
+     ]
+    },
+    "quote": "He [Christ] does not esteem the learned above the simple, nor the rich above the poor.",
+    "source_title": "Catechetical Lecture 15:23",
+    "source_url": "https://www.newadvent.org/fathers/310115.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.1.18.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 1:18",
+     "osis": [
+      "Isa.1.18"
+     ]
+    },
+    "quote": "The Father will be seated, having \"his garment white as snow, and the hair of his head like the pure wool.\" This is spoken anthropomorphically. And the spiritual sense? That he is the King of such as are not defiled with sins. For God says, \"Your sins shall be as white as snow, and shall be as wool.\" Wool is the emblem of forgiveness of sins, as also of innocence.",
+    "source_title": "Catechetical Lecture 15:19-21",
+    "source_url": "https://www.newadvent.org/fathers/310115.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.1.7-8.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 1:7-8",
+     "osis": [
+      "Isa.1.7"
+     ]
+    },
+    "quote": "Isaiah lived almost [two] thousand years ago and saw Zion in a hut. The city was still standing, beautiful with public squares and clothed in honor; yet he says, \"Zion shall be plowed like a field,\" foretelling what has been fulfilled in our day. Observe the exactness of the prophecy; for he said, \"Daughter Zion will be left like a hut in a vineyard, like a shed in a melon patch.\" Now the place is full of melon patches.",
+    "source_title": "Catechetical Lecture 16:18",
+    "source_url": "https://www.newadvent.org/fathers/310116.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.25.6.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 25:6",
+     "osis": [
+      "Isa.25.6"
+     ]
+    },
+    "quote": "Having been counted worthy of this holy chrism, you are called Christians, verifying the name also by your new birth. For before you were deemed worthy of this grace, you had properly no right to this title but were advancing on your way toward being Christians.Moreover, you shall know that in the old Scripture there lies the symbol of this chrism. For at the time Moses imparted to his brother the command of God and made him high priest, he anointed him after bathing him in water. And Aaron was called Christ or anointed, evidently from the typical anointing. So also the high priest, in advancing Solomon to the kingdom, anointed him after he had bathed in Gihon. To them, however, these things happened in a figure, but to you not in a figure but in truth; because you were truly anointed by the Holy Spirit. Christ is the beginning of your salvation. He is truly the first fruit, and you are what follow. If the first fruit is holy, obviously its holiness will pass to the remainder also.\nKeep this teaching unspotted, for it shall teach you all things, if it abide in you.… For this holy thing is a spiritual safeguard of the body and salvation of the soul. Of this the blessed Isaiah prophesying of old time said, \"On this mountain shall the Lord make for all nations a feast; they shall drink wine, they shall drink gladness, they shall anoint themselves with ointment.\"",
+    "source_title": "Catechetical Lecture 11:5-7",
+    "source_url": "https://www.newadvent.org/fathers/310111.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.26.19.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 26:19",
+     "osis": [
+      "Isa.26.19"
+     ]
+    },
+    "quote": "Isaiah the prophet says, \"The dead men shall rise again, and those who are in the tombs shall awake.\" And the prophet Ezekiel, now before us, says most plainly, \"Behold, I will open your graves and bring you up out of your graves.\" And Daniel says, \"Many of those who sleep in the dust of the earth shall arise, some to everlasting life and some to everlasting shame.\"67And there are many Scriptures that testify of the resurrection of the dead. For there are many other sayings on this matter. But now, by way of remembrance only, we will make a passing mention of the raising of Lazarus on the fourth day and just allude, because of the shortness of the time, to the widow's son also who was raised. And merely for the sake of reminding you, let me mention the ruler of the synagogue's daughter, and the rending of the rocks, and how \"there arose many bodies of the saints which slept,\" their graves having been opened. But especially be it remembered that \"Christ has been raised from the dead.\"",
+    "source_title": "Catechetical Lecture 18:15-16",
+    "source_url": "https://www.newadvent.org/fathers/310118.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.26.19.1",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 26:19",
+     "osis": [
+      "Isa.26.19"
+     ]
+    },
+    "quote": "Do not listen to those who say that this body is not raised up; for raised it is, as Isaiah witnesses, saying, \"The dead shall arise, and they in the tombs shall be raised.\" Or, as Daniel says, \"Many of them that sleep in the dust of the earth shall arise, some to everlasting life and some to everlasting shame.\" But while rising again is the common lot of all people, the manner of rising again is not alike for all. For while we all receive everlasting bodies, those bodies are not alike for all. That is to say, the righteous receive such bodies as may enable them to join with the band of angels throughout eternity, while sinners received bodies in which to undergo through the ages the torture of their sins.",
+    "source_title": "Catechetical Lecture 4:31",
+    "source_url": "https://www.newadvent.org/fathers/310104.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.28.14-15.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 28:14-15",
+     "osis": [
+      "Isa.28.14"
+     ]
+    },
+    "quote": "When you renounce Satan, trampling underfoot every covenant with him, then you annul that ancient \"league with hell,\" and God's paradise opens before you, that Eden, planted in the east, from which for his transgression our first father was banished.",
+    "source_title": "Catechetical Lecture 1:9",
+    "source_url": "https://www.newadvent.org/fathers/310101.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.28.16.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 28:16",
+     "osis": [
+      "Isa.28.16"
+     ]
+    },
+    "quote": "Was his tomb made with hands? Does it rise above the ground, like the tombs of kings? Was the sepulcher made of stones joined together? And what is laid upon it? Tell us exactly, O prophets, about his tomb also, where it lies, and where we shall look for it. But they answer, \"Look upon the solid rock which you have hewn,\" look and see.… I, who am \"the chief corner stone, chosen, precious,\" lie for a while within a stone, I, who am \"a stone of stumbling\" to the Jews but of salvation to them that believe.",
+    "source_title": "Catechetical Lecture 13:35",
+    "source_url": "https://www.newadvent.org/fathers/310113.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.2.2.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 2:2",
+     "osis": [
+      "Isa.2.2"
+     ]
+    },
+    "quote": "He calls the church a mountain when he says, \"In the last days the mountain of the Lord's house shall be established.\"",
+    "source_title": "Catechetical Lecture 21:7",
+    "source_url": "https://www.newadvent.org/fathers/310121.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.30.10.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 30:10",
+     "osis": [
+      "Isa.30.10"
+     ]
+    },
+    "quote": "The chief priests and the Pharisees, through the agency of Pilate, sealed the tomb; but the women saw him who was risen.… The chief priests lacked understanding, but the women beheld with their own eyes. When the soldiers came into the city and told the chief priests what had happened, they said to the soldiers, \"Say, his disciples came by night and stole him while we were sleeping.\" Well did Isaiah foretell this also, in their persons: \"But tell us, and relate another error.\" Christ has risen and come back from the dead, and by a bribe they persuade the soldiers.",
+    "source_title": "Catechetical Lecture 14:14",
+    "source_url": "https://www.newadvent.org/fathers/310114.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.30.15.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 30:15",
+     "osis": [
+      "Isa.30.15"
+     ]
+    },
+    "quote": "Would you know the power of repentance? Would you understand this strong weapon of salvation and the might of confession? By confession Hezekiah routed 185,000 of the enemy. That was important, but it was little compared to what shall be told. The same king's repentance won the repeal of the sentence God had passed on him. For when he was sick, Isaiah said to him, \"Give charge concerning your house, for you shall die, and not live.\" What expectation was left? What hope of recovery was there when the prophet said, \"For you shall die\"? But Hezekiah did not cease from penitence, for he remembered what was written: \"In the hour that you turn and lament, you shall be saved.\" He turned his face to the wall, and from his bed of pain his mind soared up to heaven—for no wall is so thick as to stifle reverent prayer—\"Lord,\" he said, \"remember me.\" \"For it is sufficient for my healing if you remember me. You are not subject to circumstances but are yourself the legislator of life. For not on birth and conjunction of stars, as some vainly say, does our life depend. No, you are the arbiter, according to your will, of life and the duration of life.\" He whom the prophet's sentence had forbidden to hope was granted fifteen further years of life, the sun turning back its course in witness thereof. Now while the sun retraced its course for Hezekiah, for Christ it was eclipsed, the distinction marking the difference between the two, I mean Hezekiah and Jesus. Now if even Hezekiah could revoke God's decree, shall not Jesus grant the remission of sins? Turn and lament, shut your door and beg for pardon, that God may remove from you the scorching flames. For confession has the power to quench even fire; it can tame even lions.",
+    "source_title": "Catechetical Lecture 2:15",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.34.4.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 34:4",
+     "osis": [
+      "Isa.34.4"
+     ]
+    },
+    "quote": "So, our Lord Jesus Christ comes from heaven, and he comes with glory at the last day to bring this world to its close. For this world will accomplish its course, and the world that once came into being is hereafter to be renewed. For seeing that corruption, theft, adultery and every form of sin has been poured out on the earth, and in the world fresh blood has been ever mingled with previous blood, this astonishing habitation filled with iniquity is not to last. This world passes away that the fairer world may be revealed. Now would you have this proved by the express words of Scripture? Listen to these from Isaiah: \"And the heavens shall be rolled together as a scroll; and all the stars shall fall down, as the leaf falls off from the vine, and as a falling fig from the fig tree.\"",
+    "source_title": "Catechetical Lecture 15:3",
+    "source_url": "https://www.newadvent.org/fathers/310115.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.38.3.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 38:3",
+     "osis": [
+      "Isa.38.3"
+     ]
+    },
+    "quote": "Do you want to know the power of repentance? Do you want to understand this strong weapon of salvation and the might of confession? By confession Hezekiah routed 185,000 of the enemy. That was important, but it was small compared with what else happened. The same king's repentance won the repeal the sentence God had passed on him. When he was sick, Isaiah had said, \"Give direction for your household, for you will surely die, and not live.\" What expectation was left? What hope of recovery was there? The prophet had said, \"You will surely die.\" But Hezekiah remembered what was written: \"In the hour that you turn and lament, you will be saved.\" He turned his face to the wall, and from his bed of pain his mind soared up to heaven (for no wall is so thick as to stifle fervent prayer). He said, \"Lord, remember me.\" … He whom the prophet's sentence had forbidden to hope was granted fifteen further years of life, the sun turning back its course as a witness.",
+    "source_title": "Catechetical Lecture 2:15",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.38.8.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 38:8",
+     "osis": [
+      "Isa.38.8"
+     ]
+    },
+    "quote": "For Hezekiah's sake the sun turned back, but for Christ the sun was eclipsed. The sun did not simply retrace its path for Christ but was completely eclipsed. This shows the difference between Hezekiah and Jesus. The former's prayer resulted in the canceling of God's decree. But does not Jesus forgive sins? Repent, shut your door, and pray to be forgiven. Pray that Christ may remove you from the burning flames, for confession has power even to quench fire, power even to tame lions.",
+    "source_title": "Catechetical Lecture 2:15",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.3.9-10.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 3:9-10",
+     "osis": [
+      "Isa.3.9"
+     ]
+    },
+    "quote": "They bound Jesus and led him to the meeting place of the high priest. Can you recognize that this was already written? Isaiah says, \"Woe to their souls because they have taken evil counsel against themselves, saying, 'Let us bind the just one, for he is troublesome to us.' \" Woe to their souls indeed! Let us see why. Isaiah was sawn in two, but afterwards the people were restored. Jeremiah was thrown into the dungeon, but the Jews had their wound healed. In these instances the sin was against a man, and therefore less. However, when they sinned not against a man but against God become human, then woe to their souls!",
+    "source_title": "Catechetical Lecture 13:12",
+    "source_url": "https://www.newadvent.org/fathers/310113.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.40.12.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 40:12",
+     "osis": [
+      "Isa.40.12"
+     ]
+    },
+    "quote": "Now this Father of our Lord Jesus Christ is not circumscribed to some place, nor is there heaven beyond him, but \"the heavens are the work of his fingers,\" and \"the whole earth is held in the hollow of his hand.\" He is in everything and yet nothing contains him.",
+    "source_title": "Catechetical Lecture 4:5",
+    "source_url": "https://www.newadvent.org/fathers/310104.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.40.3.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 40:3",
+     "osis": [
+      "Isa.40.3"
+     ]
+    },
+    "quote": "While the heavenly powers rejoice, let the souls that are to be united to the spiritual bridegroom make themselves ready. For the voice is heard of one crying in the wilderness, \"Prepare the way of the Lord.\" For this is no light matter, no ordinary and indiscriminate union according to the flesh but the all-searching Spirit's election according to faith.",
+    "source_title": "Catechetical Lecture 3:1",
+    "source_url": "https://www.newadvent.org/fathers/310103.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.40.9.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 40:9",
+     "osis": [
+      "Isa.40.9"
+     ]
+    },
+    "quote": "For in the power of the Holy Spirit, by the will of the Father and the Son, Peter stood with the Eleven and, lifting up his voice (according to the text, \"Lift up your voice with strength, you who bring good tidings to Jerusalem\"), captured in the spiritual net of his words about three thousand souls. So great was the grace that worked in all the apostles together, that, out of the Jews … this great number believed, were baptized in the name of Christ and continued steadfast in the apostles' doctrine and in the prayers.",
+    "source_title": "Catechetical Lecture 17:21",
+    "source_url": "https://www.newadvent.org/fathers/310117.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.45.14.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 45:14",
+     "osis": [
+      "Isa.45.14"
+     ]
+    },
+    "quote": "Would you receive yet a third testimony to Christ's godhead? Hear Isaiah saying, \"Egypt has labored, and the merchandise of Ethiopia,\" and soon after, \"In you shall they make supplication, because God is in you, and there is no God except you. For you are God, and we knew it not, the God of Israel, the Savior.\" You see that the Son is God, having in himself God the Father, saying almost the very same which he has said in the Gospels. … And again he has not said, \"I and the Father am one\" but \"I and the Father are one,\" that we should neither separate them nor make a confusion of Son-Father.",
+    "source_title": "Catechetical Lecture 11:16",
+    "source_url": "https://www.newadvent.org/fathers/310111.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.49.1.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 49:1",
+     "osis": [
+      "Isa.49.1"
+     ]
+    },
+    "quote": "Consider how he who was not yet born could have a people, unless he were in being before he was born. The prophet says this in his person, \"From my mother's womb he gave me my name\"; because the angel foretold that he would be called Jesus. Again, concerning the plots of Herod, he says, \"He … concealed me in the shadow of his arm.\"",
+    "source_title": "Catechetical Lecture 10:12",
+    "source_url": "https://www.newadvent.org/fathers/310110.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.50.6.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 50:6",
+     "osis": [
+      "Isa.50.6"
+     ]
+    },
+    "quote": "[This is] as though he were to say, \"Though I knew beforehand that they would strike me, I did not even turn aside my cheek; for how could I have nerved my disciples to undergo death for the truth if I had been afraid?\"",
+    "source_title": "Catechetical Lecture 13:13",
+    "source_url": "https://www.newadvent.org/fathers/310113.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.52.5.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 52:5",
+     "osis": [
+      "Isa.52.5"
+     ]
+    },
+    "quote": "The name of God is in its nature holy, whether we say so or not; but since it is sometimes profaned among sinners, according to the words, \"Through you my name is continually blasphemed among the Gentiles,\" we pray that in us God's name may be hallowed; not that it comes to be holy from our being holy but because it becomes holy in us, when we are made holy and do things worthy of holiness.",
+    "source_title": "MYSTAGOGICAL LECTURES 5:12",
+    "source_url": ""
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.53.12.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 53:12",
+     "osis": [
+      "Isa.53.12"
+     ]
+    },
+    "quote": "Concerning the robbers who were crucified with him it is written, \"And he was numbered with the transgressors.\" Both of them were before this transgressors, but one was so no longer. For the one was a transgressor to the end, stubborn against salvation; who, though his hands were fastened, struck with blasphemy by his tongue. When the Jews passing by wagged their head, mocking the crucified and fulfilling what was written, \"When they looked on me, they shook their head,\" he also reviled with them. But the other rebuked the reviler; and it was to him the end of life and the beginning of restoration, the surrender of his soul a first share in salvation.",
+    "source_title": "Catechetical Lecture 13:30",
+    "source_url": "https://www.newadvent.org/fathers/310113.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.53.8.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 53:8",
+     "osis": [
+      "Isa.53.8"
+     ]
+    },
+    "quote": "This sheep is equally called shepherd and says \"I am the good Shepherd.\" By his manhood he is sheep; by his divine loving-kindness he is shepherd.",
+    "source_title": "Catechetical Lecture 10:3",
+    "source_url": "https://www.newadvent.org/fathers/310110.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.63.16.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 63:16",
+     "osis": [
+      "Isa.63.16"
+     ]
+    },
+    "quote": "For Thou art our Father, though Abraham be ignorant of us, and Sarah travailed not with us, need we inquire further on this point? And if the Psalmist says, Let them be troubled from His countenance, the Father of the fatherless, and Judge of the widows, is it not manifest to all, that when God is called the Father of orphans who have lately lost their own fathers, He is so named not as begetting them of Himself, but as caring for them and shielding them. But whereas God, as we have said, is in an improper sense the Father of men, of Christ alone He is the Father by nature, not by adoption: and the Father of men in time, but of Christ before all time, as He saith, And now, O Father, glorify Thou Me with Thine own self, with the glory which I had with Thee before the world was.",
+    "source_title": "''Catechetical Lectures, Lecture 7''",
+    "source_url": ""
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.63.3.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 63:3",
+     "osis": [
+      "Isa.63.3"
+     ]
+    },
+    "quote": "Who is that who for shame is clothed in scarlet? For Bosra among the Hebrews has such a meaning.",
+    "source_title": "Catechetical Lecture 13:27",
+    "source_url": "https://www.newadvent.org/fathers/310113.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.65.15.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 65:15",
+     "osis": [
+      "Isa.65.15"
+     ]
+    },
+    "quote": "With the ungrudging generosity of his godhead, Christ has granted to all of us to bear his name. For whereas as human sovereigns have some special title of sovereignty that they keep exclusively from use by other people, Jesus Christ, being Son of God, has deigned to bestow on us the title of Christians.… But some will say, \"The name of 'Christians' is new and was not previously in use\": and new-fashioned phrases are often objected to on the score of strangeness. The prophet made this point safe beforehand, saying, \"But on my servants shall a new name be called, which shall be blessed upon the earth.\"",
+    "source_title": "Catechetical Lecture 10:16",
+    "source_url": "https://www.newadvent.org/fathers/310110.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Isa.6.3.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Isaiah 6:3",
+     "osis": [
+      "Isa.6.3"
+     ]
+    },
+    "quote": "We make mention also of the seraphim, whom Isaiah in the Holy Spirit saw standing around the throne of God, and with two of their wings veiling their face, and with two their feet, while with two they flew, crying, \"Holy, holy, holy is the Lord of hosts.\" For the reason of our reciting this confession of God, delivered down to us from the seraphim, is this, that so we may be partakers with the hosts of the world above in their hymn of praise.",
+    "source_title": "Catechetical Lecture 23:6",
+    "source_url": "https://www.newadvent.org/fathers/310123.htm"
+   }
+  ],
+  "Jer": [
+   {
+    "entry_id": "cyril-of-jerusalem.Jer.11.18-19.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jeremiah 11:18-19",
+     "osis": [
+      "Jer.11.18"
+     ]
+    },
+    "quote": "Listen to Jeremiah and be convinced: \"I was as a meek lamb that is carried to be a victim. Did I not know it?\" (Read it thus as a question, as I have put it. For he who said, \"You know that after two days the Passover shall be here, and the Son of man will be delivered up to be crucified,\" did he not know?) \"I was a meek lamb that is carried to be a victim. Did I not know it?\" (What sort of lamb? Let John the Baptist interpret, when he says, \"Behold the lamb of God, who takes away the sins of the world!\") \"They devised a wicked counsel against me, saying (Was it that he who knew the counsels did not know their result? And what did they say?): \"Come, and let us put wood on his bread.\" (If the Lord shall count you worthy, hereafter you shall learn that his body, according to the Gospel, bore the figure of bread.) \"Come, and let us put wood on his bread, and cut him off from the land of the living (Life is not cut off. Why do you toil to no purpose?) And let his name be remembered no more.\"",
+    "source_title": "Catechetical Lecture 13:19",
+    "source_url": "https://www.newadvent.org/fathers/310113.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Jer.17.7-8.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:7-8",
+     "osis": [
+      "Jer.17.7"
+     ]
+    },
+    "quote": "He said to him, \"Yes, sir. The long duration of my illness makes me desire health. But, desire it as I may, I have no one.\" Do not lose heart, my good fellow, because you \"have no one.\" You have God standing by you. One who is at once man and God under different aspects, for both must be confessed. The confession of the humanity without the confession of the divinity is unavailing, or rather earns a curse. For \"cursed is one who puts his trust in humankind.\"",
+    "source_title": "SERMON ON THE PARALYTIC 6",
+    "source_url": ""
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Jer.1.5.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:5",
+     "osis": [
+      "Jer.1.5"
+     ]
+    },
+    "quote": "He is not ashamed to assume flesh, who is the creator of those very parts. Who tells us this? The Lord said to Jeremiah: \"Before I formed you in the belly, I knew you. Before you came forth out of the womb, I made you holy.\" If, then, in making humanity he was not ashamed of the contact, was he ashamed in making for his own sake the holy flesh, the veil of his Godhead? It is God who even now creates children in the womb, as it is written in Job, \"Didn't you pour me out as milk and curdled me like cheese? You have clothed me with skin and flesh and have knit me together with bones and sinews.\" There is nothing polluted in the human frame unless a person defiles it with fornication and adultery. God, who made Adam, also made Eve. Both male and female were formed by God's hands. None of the parts of the body as formed from the beginning are polluted.",
+    "source_title": "Catechetical Lecture 12:26",
+    "source_url": "https://www.newadvent.org/fathers/310112.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Jer.2.21-22.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:21-22",
+     "osis": [
+      "Jer.2.21"
+     ]
+    },
+    "quote": "Sin is a terrible thing, and the most grievous disease of the soul is iniquity, which corrupts the fiber of the soul and makes it liable to eternal fire. It is an evil freely chosen, the product of the will. The prophet clearly declares that we sin of our own free will: \"I had planted you, a choice vine of fully tested stock; how could you turn into bitterness, a spurious vine?\" The planting was good, but the fruit coming from the will is evil. So the planter is blameless, but the vine will burn with fire since it was planted for good and bore evil fruit of its own will.",
+    "source_title": "Catechetical Lecture 2:1",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Jer.2.21-22.1",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:21-22",
+     "osis": [
+      "Jer.2.21"
+     ]
+    },
+    "quote": "Learn this also, that before the soul comes into the world, it has committed no sin. But though we came into the world sinless, we now of our own choice commit sin.… Remember also how God again accuses them and says, \"I have planted you a choice vine, wholly of pure seed; how then have you turned degenerate and become a wild vine?\"",
+    "source_title": "Catechetical Lecture 4:19",
+    "source_url": "https://www.newadvent.org/fathers/310104.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Jer.2.27.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:27",
+     "osis": [
+      "Jer.2.27"
+     ]
+    },
+    "quote": "With unspeakable mercy, God deigned to be called the Father of humankind. He is in heaven, they on earth. He is the eternal Maker. They are made in time. He holds the earth in the hollow of his hand. They are like grasshoppers on the earth. Yet people forsook their heavenly Father and said to wood, \"you are my father, and to the stone, you have begotten me.\" And for this reason, I think, the psalmist says to humankind, \"Forget your own people as well, and your father's house.\"",
+    "source_title": "Catechetical Lecture 7:12",
+    "source_url": "https://www.newadvent.org/fathers/310107.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Jer.4.4.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jeremiah 4:4",
+     "osis": [
+      "Jer.4.4"
+     ]
+    },
+    "quote": "Let us see, then, how Abraham is the father of many nations. We confess that he is the father of Jews, through descent according to the flesh. But if we hold to the descent according to the flesh, we are forced to say that the prophecy was false. For he is no longer father of us all according to the flesh. Yet the example of his faith makes us all children of Abraham. How and in what manner? With people it is unbelievable that one should rise from the dead. In the same way, it is also unbelievable that there should be offspring from aged persons as good as dead. Yet when Christ is preached as having been crucified on the tree, as having died and risen again, we believe it. By the likeness of our faith, therefore, we become the adopted children of Abraham. And consequently by our faith, like him, we receive the spiritual seal, being circumcised by the Holy Spirit through the font of baptism, not in the foreskin of the body, but in the heart, according to the words of Jeremiah: \"For the sake of the Lord, be circumcised, remove the foreskins of your hearts.\" And according to the apostle: In the \"circumcision that is of Christ, buried together with him in baptism,\" and so forth.",
+    "source_title": "Catechetical Lecture 5:6",
+    "source_url": "https://www.newadvent.org/fathers/310105.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Jer.5.8.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:8",
+     "osis": [
+      "Jer.5.8"
+     ]
+    },
+    "quote": "The neighing horse depicts the recklessness of young men.",
+    "source_title": "Catechetical Lecture 9:13",
+    "source_url": "https://www.newadvent.org/fathers/310109.htm"
+   }
+  ],
+  "Joel": [
+   {
+    "entry_id": "cyril-of-jerusalem.Joel.2.28-29.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Joel 2:28-29",
+     "osis": [
+      "Joel.2.28"
+     ]
+    },
+    "quote": "And if you would receive a testimony also, \"listen,\" he says. \"But this is that which was spoken by the prophet Joel: 'And it shall come to pass after this, says God, I will pour forth of my Spirit' \"—and this word, 'I will pour forth,' implied a rich gift; 'for God gives not the Spirit by measure for the Father loves the Son, and has given all things into his hand'; and he has given him the power also of bestowing the grace of the all-holy Spirit on whomever he will—\"I will pour forth of my Spirit upon all flesh, and your sons and your daughters shall prophesy;\" and afterward, \"Yea, and on my servants and on my handmaidens I will pour out in those days of my Spirit, and they shall prophesy.\" The Holy Spirit is no respecter of persons, for he seeks not dignities but piety of soul. Let neither the rich be puffed up nor the poor be dejected, but only let each prepare himself for reception of the heavenly gift.",
+    "source_title": "CATECHETICAL LECTURE 27:19",
+    "source_url": ""
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Joel.2.30-31.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Joel 2:30-31",
+     "osis": [
+      "Joel.2.30"
+     ]
+    },
+    "quote": "For just as man is said to perish, according to the text, \"The just perishes, and no one takes it to heart,\" and this is said, though the resurrection is expected, so we look for a resurrection of the heavens. \"The sun will be turned to darkness, and the moon to blood.\" Let the converts from the Manichaeans be instructed and no longer make the luminaries their gods or impiously think that this sun that is darkened is Christ. Listen to the Lord's words: \"Heaven and earth will pass away, but my words will not pass away,\" for the master's creatures are less precious than his words.",
+    "source_title": "CATECHETICAL LECTURE 15:3",
+    "source_url": ""
+   }
+  ],
+  "Jonah": [
+   {
+    "entry_id": "cyril-of-jerusalem.Jonah.1.17.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jonah 1:17",
+     "osis": [
+      "Jonah.1.17"
+     ]
+    },
+    "quote": "They further object: A dead man recently deceased was raised by the living; but show us that it is possible for a man dead and buried for three days to rise again. The testimony we seek is supplied by the Lord Jesus himself in the Gospels, when he says, \"For even as Jonah was in the belly of the fish three days and three nights, so will the Son of man be three days and three nights in the heart of the earth.\" Now when we study the story of Jonah the force of the resemblance becomes striking. Jesus was sent to preach repentance. So was Jonah. Though Jonah fled, not knowing what was to come, Jesus came willingly, to grant repentance for salvation. Jonah slumbered in the ship and was fast asleep amid the stormy sea; while Jesus by God's will was sleeping, the sea was stirred up, for the purpose of manifesting thereafter the power of him who slept. They said to Jonah, \"What are you doing asleep? Rise up, call upon your God, that God may save us,\" but the apostles say, \"Lord, save us!\" In the first instance they said, Call upon your God, and in the second, save us. In the first Jonah said to them, \"Pick me up and throw me into the sea, that it may quiet down for you\"; in the other Christ himself \"rebuked the wind and the sea, and there came a great calm.\" Jonah was cast into the belly of a great fish, but Christ of his own will descended to the abode of the invisible fish of death. He went down of his own will to make death disgorge those it had swallowed up, according to the Scripture: \"I shall deliver them from the power of the nether world, and I shall redeem them from death.\"",
+    "source_title": "Catechetical Lecture 14:7",
+    "source_url": "https://www.newadvent.org/fathers/310114.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Jonah.2.6.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Jonah 2:6",
+     "osis": [
+      "Jonah.2.6"
+     ]
+    },
+    "quote": "Jonah fulfilled a type of our Savior when he prayed from the belly of the fish and said, \"I cried for help from the midst of the netherworld.\" He was in fact in the fish, yet he says that he is in the netherworld. In a later verse he manifestly prophesies in the person of Christ: \"My head went down into the chasms of the mountains.\" Yet he was still in the belly of the fish. What mountains encompass you? But I know, he says, that I am a type of him who is to be laid in the sepulcher hewn out of rock. While he was in the sea, Jonah says, \"I went down into the earth,\" for he typified Christ, who went down into the heart of the earth.",
+    "source_title": "Catechetical Lecture 14:20",
+    "source_url": "https://www.newadvent.org/fathers/310114.htm"
+   }
+  ],
+  "Josh": [
+   {
+    "entry_id": "cyril-of-jerusalem.Josh.2.11.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Joshua 2:11",
+     "osis": [
+      "Josh.2.11"
+     ]
+    },
+    "quote": "Pass now, pray, to the others who were saved by repentance. Perhaps even among the women someone will say, \"I have committed fornication and adultery. I have defiled my body with every excess. Can there be salvation for me?\" Fix your eyes, woman, upon Rahab, and look for salvation for yourself too. For if she who openly and publicly practiced fornication was saved through repentance, will not she whose fornication preceded the gift of grace be saved by repentance and fasting? For observe how she was saved. She said only this: \"Since the Lord, your God, is God in heaven above and on earth below.\" \"Your God,\" she said, for she did not dare call him her God, because of her wantonness. If you want scriptural testimony of her salvation, you have it recorded in the Psalms: \"I will think of Rahab and Babylon among those who know me.\" The salvation procured by repentance is open to men and women alike.",
+    "source_title": "Catechetical Lecture 2:9",
+    "source_url": "https://www.newadvent.org/fathers/310102.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Josh.3.1.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Joshua 3:1",
+     "osis": [
+      "Josh.3.1"
+     ]
+    },
+    "quote": "But Jesus [Joshua], son of Nave [Nun], was a type of him in many things; for when he began to rule the people, he began from the Jordan; thence also did Christ begin to preach the gospel after he was baptized. The son of Nave [Nun] appoints the twelve to divide the inheritance;2 and Jesus sends forth the twelve apostles, heralds of truth, into the whole world. He who was the type saved Rahab, the harlot, who had believed;4 the true Jesus … says, Behold: \"the publicans and the harlots are entering the kingdom of God before you.\" With but a shout, the walls of Jericho collapsed in the time of the type;6 and because of these words of Jesus, \"There will not be left here one stone upon another,\" the temple of the Jews just opposite us is fallen; not that this sentence was the cause of its ruin, but rather the sin of the transgressors.",
+    "source_title": "Catechetical Lecture 10:11",
+    "source_url": "https://www.newadvent.org/fathers/310110.htm"
+   }
+  ],
+  "Mal": [
+   {
+    "entry_id": "cyril-of-jerusalem.Mal.3.1.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Malachi 3:1",
+     "osis": [
+      "Mal.3.1"
+     ]
+    },
+    "quote": "Of these two comings the prophet Malachi says, \"And suddenly there will come to the temple the Lord whom you seek\"; that is one coming. Of the second coming he says, \" 'And the messenger of the covenant whom you desire, yes, he is coming,' says the Lord of hosts. 'But who will endure the day of his coming? And who can stand when he appears? For he is like a refiner's fire or like the fuller's lye. He will sit refining and purifying.' \" In what immediately follows the Savior himself says, \"I will draw near to you for judgment, and I will be swift to bear witness against sorcerers, adulterers and perjurers.\" It was with this in view that Paul says in due warning: \"But if anyone builds upon this foundation gold, silver, precious stones, wood, hay, straw—the work of each will be made manifest, for the Day of the Lord will declare it, since the day is to be revealed in fire.\" Paul indicates these two comings also in writing to Titus in these words: \"The grace of God our Savior has appeared to all men, instructing us, in order that, rejecting ungodliness and worldly lusts, we may live temperately and justly and piously in this world; looking for the blessed hope and glorious coming of our great God and Savior, Jesus Christ.\" Do you see how he speaks of a first coming, for which he gives thanks, and of a second we are going to look for? We find the same lesson in the wording of the creed we profess, as delivered to us, that is, to believe in him who \"ascended into heaven and sat down on the right of the Father, and is to come in glory to judge the living and dead, of whose kingdom there will be no end.\"",
+    "source_title": "Catechetical Lecture 15:2",
+    "source_url": "https://www.newadvent.org/fathers/310115.htm"
+   }
+  ],
+  "Mic": [
+   {
+    "entry_id": "cyril-of-jerusalem.Mic.3.12.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Micah 3:12",
+     "osis": [
+      "Mic.3.12"
+     ]
+    },
+    "quote": "Isaiah lived almost a thousand years ago and saw Zion in its primitive form. The city was still standing, beautified with public squares and clothed in honor; yet he says, \"Zion shall be plowed like a field.\" He was foretelling what has been fulfilled in our day. Observe the exactness of the prophecy; for he said, \"Daughter Zion shall be left like a hut in a vineyard, like a shed in a cucumber patch.\" Now the place is full of cucumber patches. Do you see how the Holy Spirit enlightens the saints? Therefore do not be distracted by a common term but hold fast to what is exactly true.",
+    "source_title": "Catechetical Lecture 16:18",
+    "source_url": "https://www.newadvent.org/fathers/310116.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Mic.3.8.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Micah 3:8",
+     "osis": [
+      "Mic.3.8"
+     ]
+    },
+    "quote": "If, further, one works through the twelve minor prophets, many testimonies to the Holy Spirit are to be found. Thus Micah speaks as God's mouthpiece and says, \"Truly I am full of power by the Spirit of the Lord.\" Joel cries, \" 'And it shall come to pass afterwards,' says God, 'that I will pour out my Spirit upon all flesh' \" and what follows. Haggai said, \" 'For I am with you,' says the Lord of hosts … 'my Spirit remained among you.' \" And in like manner Zechariah says, \"Receive my words and my statutes which I commanded my servants the prophets.\"",
+    "source_title": "Catechetical Lecture 15:29",
+    "source_url": "https://www.newadvent.org/fathers/310115.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Mic.5.2.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Micah 5:2",
+     "osis": [
+      "Mic.5.2"
+     ]
+    },
+    "quote": "It is enough for piety for you to know, as we have said, that God has one only Son, one naturally begotten, who did not begin to be when he was born in Bethlehem but is before all ages. For listen to the prophet Micah: \"And you, Bethlehem, house of Ephratha, are little to be among the thousands of Judah. From you shall come forth for me a leader who shall feed my people Israel; and his goings forth are from the beginning, from the days of eternity.\" Therefore do not fix your attention on him as coming from Bethlehem simply but worship him as begotten eternally of the Father. Admit no one who speaks of a beginning of the Son in time, but acknowledge his timeless beginning, the Father.",
+    "source_title": "Catechetical Lecture 11:20",
+    "source_url": "https://www.newadvent.org/fathers/310111.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Mic.7.2.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Micah 7:2",
+     "osis": [
+      "Mic.7.2"
+     ]
+    },
+    "quote": "Cain and Abel followed in the generation of humankind, and Cain was the first murderer. Afterwards a deluge engulfed the earth because of exceeding wickedness of humanity. Fire came down from heaven upon the people of Sodom because of their corruption. Subsequently God chose out Israel, but even Israel became perverse and the chosen race was wounded. For, while Moses stood on the mountain before God, the people worshiped a calf in place of God. In the days of their lawgiver Moses, who said, \"You shall not commit adultery,\" a man dared to enter a brothel and be wanton. After Moses, prophets were sent to heal Israel, but in their exercise of healing they deplored the fact that they could not overcome evil, so that one of them [Micah] says, \"The faithful are gone from the earth, among men the upright are no more!\" The psalmist says, \"All alike have gone astray; they have become perverse; there is not one who does good, not even one.\" And again, \"Cursing, and theft, and adultery, and killing have overflowed\" upon the land. \"They sacrificed their sons and daughters to demons.\" They engaged themselves in auguries and enchantments and divinations; and again, \"They fastened their garments with cords and hung veils next to the altar.\"",
+    "source_title": "Catechetical Lecture 12:6",
+    "source_url": "https://www.newadvent.org/fathers/310112.htm"
+   }
+  ],
+  "Zech": [
+   {
+    "entry_id": "cyril-of-jerusalem.Zech.11.12.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Zechariah 11:12",
+     "osis": [
+      "Zech.11.12"
+     ]
+    },
+    "quote": "Hear now in regard to thirty pieces of silver: \"And I will say to them, 'If it seems good to you, give me my wages, or refuse.' \" One recompense is due me for curing the blind and the lame, and I receive another; instead of thanksgiving, dishonor, and instead of worship, insult. Do you see how Scripture foresaw all this? \"And they counted out my wages, thirty pieces of silver.\" O prophetic accuracy! A great and unerring wisdom of the Holy Spirit! For he did not say ten or twenty but thirty, exactly the right amount. Tell also what happened to this payment, O prophet! Does he who received it keep it, or does he give it back? And after its return what becomes of it? The prophet says, \"So I took thirty pieces of silver, and I cast them into the house of the Lord, into the foundry.\" Compare with the prophecy of the Gospel, which says, \"Judas repented and flung the pieces of silver into the temple and withdrew.\"",
+    "source_title": "Catechetical Lecture 13:10",
+    "source_url": "https://www.newadvent.org/fathers/310113.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Zech.12.1.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Zechariah 12:1",
+     "osis": [
+      "Zech.12.1"
+     ]
+    },
+    "quote": "There are many statements of spirit in general in the sacred Scriptures, and a person could easily become confused from ignorance, if he did not know to what sort of spirit the particular text refers; therefore we must be sure of the nature of the Holy Spirit according to Scripture. For example, Aaron is called Christ (anointed), and David also, and Saul and others are called christs, yet there is only one true Christ; similarly, since the name of spirit has been given to many things, we must determine what in particular is called the Holy Spirit. Many things are called spirits; our soul is called spirit; this wind, which is blowing, is called spirit; great valor is called spirit; impure action is called spirit; and a hostile devil is called spirit. Take care, therefore, when you hear such things, not to mistake one for another because of the similarity of the name. Scripture says of the soul, \"When his spirit departs, he returns to the earth\"; and again of the soul: \"Who forms the spirit of man within him.\"",
+    "source_title": "Catechetical Lecture 16:13",
+    "source_url": "https://www.newadvent.org/fathers/310116.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Zech.14.4.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Zechariah 14:4",
+     "osis": [
+      "Zech.14.4"
+     ]
+    },
+    "quote": "But it might happen that he should sit upon a foal; give us rather a sign where the king who enters will stand. Give us a sign not far from the city, that it may not be unknown to us; give us a sign nearby and clearly visible, that being in the city we may behold the place. Again the prophet answers, saying, \"That day his feet shall rest upon the Mount of Olives, which is opposite Jerusalem to the east.\" Is it possible for anyone standing within the city not to behold the place?",
+    "source_title": "Catechetical Lecture 12:11",
+    "source_url": "https://www.newadvent.org/fathers/310112.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Zech.14.5-6.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Zechariah 14:5-6",
+     "osis": [
+      "Zech.14.5"
+     ]
+    },
+    "quote": "Christ, then, was crucified for us; he was judged in the night, when it was cold, and therefore a fire of coal was laid. He was crucified in the third hour, and \"from the sixth hour there was darkness until the ninth hour,\" but from the ninth hour there was light again. Are these details written down? Let us inquire. Zechariah says, \"And it shall come to pass in that day, and there shall be no light but cold and frost through one day (the cold on account of which Peter warmed himself), and that day shall be known to the Lord.\" (What? Did he not know the other days? There are many days, but \"this is the day [of the Lord's patience] the Lord has made.\")6 \"And that day shall be known to the Lord, and not day nor night.\" What dark saying does the prophet utter? That day is neither day nor night. What then shall we call it? The gospel interprets it, telling of the event. It was not day, for the sun did not shine without interruption from rising to setting, but from the sixth hour to the ninth there was darkness. The darkness was interposed, but God called the darkness night. Therefore it was neither all light, so as to be called day, nor all darkness, so as to be called night; but after the ninth hour the sun shone forth. This also the prophet foretells; for after saying \"not day nor night,\" he adds, \"And in the time of the evening there shall be light.\" Do you see the truth of the events foretold?",
+    "source_title": "Catechetical Lecture 13:24",
+    "source_url": "https://www.newadvent.org/fathers/310113.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Zech.2.10.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Zechariah 2:10",
+     "osis": [
+      "Zech.2.10"
+     ]
+    },
+    "quote": "The Lord heard the prayer of the prophets. The Father did not despise our race, which was perishing; he sent from heaven his own Son the Lord as our physician. One of the prophets says, \"The Lord whom you seek, comes; and he shall come suddenly.\" Where will he come? \"The Lord shall come to his temple,\" where you took up stones against him. Another of the prophets, on hearing this, says to him, \"In speaking of God's salvation, do you speak softly? In announcing the good tidings of God's coming for salvation, do you speak in secret?\" \"Go up onto a high mountain, Zion, herald of glad tidings; say to the cities of Judah\"—what shall I say?—\"Here is your God! Here comes with power the Lord God.\" Again the Lord himself has said, \" 'Behold, I come, and I will dwell in the midst of you,' says the Lord. 'And many nations shall be joined to the Lord.' \" The Israelites rejected salvation through me; \"I come to gather nations of every language,\" for, \"he came unto his own, and his own received him not.\" You come, and what do you bestow upon the nations? \"I come to gather nations of every language … I will set a sign among them.\" For from my conflict on the cross I will give to each of my soldiers a royal sign to bear upon his forehead. Still another prophet said, \"He inclined the heavens and came down, with dark clouds under his feet.\" For his coming down from heaven was unknown to humanity.",
+    "source_title": "Catechetical Lecture 12:8",
+    "source_url": "https://www.newadvent.org/fathers/310112.htm"
+   },
+   {
+    "entry_id": "cyril-of-jerusalem.Zech.9.11.0",
+    "author": "Cyril of Jerusalem",
+    "anchor_ref": {
+     "raw": "Zechariah 9:11",
+     "osis": [
+      "Zech.9.11"
+     ]
+    },
+    "quote": "The sun was darkened because of the Sun of justice. The rocks were rent because of \"the spiritual rock.\" Tombs were opened, and the dead arose, because of him who was \"free among the dead.\" He \"sent forth his prisoners out of the pit, wherein there is no water.\" Do not be ashamed, then, of the Crucified, but say with confidence, \"He bears our sins and carries our sorrows, and by his bruises we are healed.\" Let us not be ungrateful to our Benefactor. Again, \"For the wickedness of my people was he led to death; and I shall give the ungodly for his burial, and the rich for his death.\" And Paul says clearly \"that Christ died for our sins, according to the Scriptures, and that he was buried, and that he rose again the third day, according to the Scriptures.\"",
+    "source_title": "Catechetical Lecture 13:34",
+    "source_url": "https://www.newadvent.org/fathers/310113.htm"
+   }
+  ]
+ }
+}

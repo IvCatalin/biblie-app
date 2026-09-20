@@ -1,0 +1,1332 @@
+{
+ "meta": {
+  "id": "basil-of-caesarea",
+  "author": "Basil of Caesarea",
+  "license": "public-domain",
+  "schema_type": "church_fathers",
+  "source_url": "https://github.com/HistoricalChristianFaith/Commentaries-Database",
+  "book_scope": "Doar cele 18 carti Nevi'im folosite de Haftarot catalogate",
+  "download_date": "2026-09-19"
+ },
+ "by_book": {
+  "1Kgs": [
+   {
+    "entry_id": "basil-of-caesarea.1Kgs.12.14.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "1 Kings 12:14",
+     "osis": [
+      "1Kgs.12.14"
+     ]
+    },
+    "quote": "[Not only by reason of wealth] but also because of political honors do people exalt themselves beyond what is due their nature.… The position they occupy is entirely out of keeping with reason, for they possess a glory more unsubstantial than a dream. They are surrounded with a splendor more unreal than the phantoms of the night, since it comes into being or is swept away at the nod of the populace. A fool of this sort was that famous son of Solomon, youthful in years and younger still in wisdom, who threatened his people desiring a milder rule with an even harsher one and thereby destroyed his kingdom. By his threat, the very expedient whereby he hoped to be elevated to a more royal state, he was bereft of the dignity already his. Strength of arm, swiftness of foot and comeliness of body—the spoils of sickness and the plunder of time—also awaken pride in people, unaware as they are that \"all flesh is grass and all the glory of humankind as the flower of the field. The grass is withered, and the flower is fallen.\"",
+    "source_title": "ON HUMILITY",
+    "source_url": ""
+   }
+  ],
+  "1Sam": [
+   {
+    "entry_id": "basil-of-caesarea.1Sam.18.7.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "1 Samuel 18:7",
+     "osis": [
+      "1Sam.18.7"
+     ]
+    },
+    "quote": "Why do you grieve, my friend, when you yourself have suffered no misfortune? Why are you hostile to someone who is enjoying prosperity, when he has in no way caused your own possessions to decrease? If you are vexed even upon receiving a kindness [from the object of your spite], are you not quite clearly envious of your own good? Saul is an example of this. He made David's great favors to himself a motive for enmity with him. First, after he had been cured of insanity by the divine and melodious strains of David's harp, he attempted to run his benefactor through with a spear. Then, on another occasion, it happened that he and his army were delivered from the hands of the enemy and saved from embarrassment before Goliath. In singing the triumphal songs commemorating this victory, however, the dancers attributed to David a tenfold greater share in the achievement, saying, \"Saul killed his thousands and David his ten thousands.\" For this one utterance and because truth itself was its witness, Saul first attempted murder and tried to slay David by treachery, then forced him to flee.",
+    "source_title": "CONCERNING ENVY",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.1Sam.24.17-19.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "1 Samuel 24:17-19",
+     "osis": [
+      "1Sam.24.17"
+     ]
+    },
+    "quote": "Not even this act of benevolence moved Saul, however. Again he gathered an army and again he set out in pursuit, until he was a second time apprehended by David in the cave where he more clearly revealed his own iniquity and made the virtue of David even more resplendent. Envy is the most savage form of hatred. Favors render those who are hostile to us for any other reason more tractable, but kind treatment shown to an envious and spiteful person only aggravates his dislike. The greater the favors he receives, the more displeased and vexed and ill-disposed he becomes.",
+    "source_title": "CONCERNING ENVY",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.1Sam.26.7.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "1 Samuel 26:7",
+     "osis": [
+      "1Sam.26.7"
+     ]
+    },
+    "quote": "If Saul had been asked the reason for his hostility, he would have been compelled to admit that it was the favors received from David's hand. Moreover, even though Saul had been found asleep by David during the very time that the latter was being pursued, and although Saul lay, an easy victim, before his enemy, his life was again spared by that just man, for he refrained from doing him violence.",
+    "source_title": "CONCERNING ENVY",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.1Sam.2.22-25.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "1 Samuel 2:22-25",
+     "osis": [
+      "1Sam.2.22"
+     ]
+    },
+    "quote": "Because their father [Eli] did not chastise them with enough severity … he moved the forbearance of God to wrath so great that foreign peoples rose up against them and killed those sons of his in war in one day. His entire nation, furthermore, was vanquished, and a considerable number of his people fell. Now, this happened even with the ark of the holy covenant of God nearby—an unheard of thing—so that the ark, which it was not lawful at any time for the Israelites or even for all their priests themselves to touch and which was kept in a special place, was carried hither and yon by impious hands and was put in the shrines of idols instead of the holy temples. Under such circumstances one can readily conjecture the amount of laughter and mockery that was inflicted upon the very name of God by these foreigners. Add to this, also, that Eli himself is recorded to have met a most pitiable end after hearing the threat that his seed would be removed from the priestly dignity; and so it happened.Such, then, were the disasters which befell that nation. Such griefs did the father suffer because of the iniquity of his sons, even though no accusation was ever made against Eli's personal life. Moreover, he did not bear with those sons of his silence, but he earnestly exhorted them not to persist longer in those same wicked deeds, saying, \"Do not act this way, my sons; for I hear no good report concerning you.\" And to stress the enormity of their sin, he confronted them with an alarming view of their perilous state. \"If one man shall sin against another,\" he said, \"they will pray for him to the Lord; but if a man shall sin against God, who shall pray for him?\" Yet, as I said, because he did not exercise a suitable rigor of zeal in their regard, the disaster recounted above took place. And so I find throughout the Old Testament a great many instances of this kind illustrating the condemnation of all disobedience.",
+    "source_title": "PREFACE ON THE JUDGMENT OF GOD",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.1Sam.2.3.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "1 Samuel 2:3",
+     "osis": [
+      "1Sam.2.3"
+     ]
+    },
+    "quote": "No sensible person, then, will be proud of his wisdom … but will follow the excellent advice of blessed Hannah and of the prophet Jeremiah, \"Let not the wise man glory in his wisdom and let not the strong man glory in his strength and let not the rich man glory in his riches.\" But what is true glory and what makes one great? \"In this,\" says the prophet, \"let him that glories, glory, that he understands and knows that I am the Lord.\" This constitutes the pinnacle of human dignity, this is his glory and greatness: truly to know what is great and to cleave to it, and to seek after glory from the Lord of glory.",
+    "source_title": "ON HUMILITY",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.1Sam.3.13.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "1 Samuel 3:13",
+     "osis": [
+      "1Sam.3.13"
+     ]
+    },
+    "quote": "Benevolence to such persons is like that mistaken kindness of Eli which he was accused of showing his sons, contrary to the good pleasure of God. A feigned kindness to the wicked is a betrayal of the truth, an act of treachery to the community and a means of habituating oneself to indifference to evil.",
+    "source_title": "THE LONG RULES 28",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.1Sam.7.4.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "1 Samuel 7:4",
+     "osis": [
+      "1Sam.7.4"
+     ]
+    },
+    "quote": "God alone is substantially and essentially God. When I say \"alone,\" I set forth the holy and uncreated essence and substance of God. For the word alone is used in the case of any individual and generally of human nature. In the instance of Paul, that he alone was caught into the third heaven and \"heard unspeakable words that are not lawful for a man to utter,\" and of human nature, as when David says, \"as for man his days are as grass,\" not meaning any particular man but human nature generally; for every human is short-lived and mortal. So we understand these words to be said of the nature, \"who alone has immortality\" and \"to God only wise,\" and \"none is good save one, that is God,\" for here \"one\" means the same as alone.… In Scripture \"one\" and \"only\" are not predicated of God to mark distinction from the Son and the Holy Spirit but to exclude the unreal gods falsely so called. As for instance, \"The Lord alone did lead them and there was no strange god with them,\" and \"then the children of Israel did put away Baalim and Ashtaroth and served the Lord only.\"",
+    "source_title": "LETTER 8.3",
+    "source_url": ""
+   }
+  ],
+  "2Kgs": [
+   {
+    "entry_id": "basil-of-caesarea.2Kgs.7.16.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "2 Kings 7:16",
+     "osis": [
+      "2Kgs.7.16"
+     ]
+    },
+    "quote": "\"The Lord brings to nothing the counsels of nations, and he rejects the devices of people.\" … If you will read the things in each history that God did to the faithless nations, you will find that the statement has much force even according to our corporal intelligence. When Joram, son of Ahab, was king in Israel, then his son Ader, king of Syria, carrying on a war with a great force and a heavy hand, besieged Samaria, so that even the necessaries of life were wanting to them, and the head of a donkey was sold for fifty shekels of silver and the fourth part of a cabe of pigeon dung for five shekels of silver. At that time, therefore, in order that the promise of Elisha might be fulfilled, the counsels of Syria were brought to nothing, and abandoning their tents and all their supplies, they fled, leaving such a great abundance in Samaria that a measure of fine flour and two measures of barley were sold for one shekel. Thus, then, the Lord knew how to bring to nothing the counsels of the nations.",
+    "source_title": "HOMILIES ON THE PSALMS 15.(PS 32)",
+    "source_url": ""
+   }
+  ],
+  "2Sam": [
+   {
+    "entry_id": "basil-of-caesarea.2Sam.15.31.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "2 Samuel 15:31",
+     "osis": [
+      "2Sam.15.31"
+     ]
+    },
+    "quote": "Thus, then, the Lord knew how to bring to nothing the counsels of nations. We learned in the time of Ahithophel how he cast away the counsels of the princes, when David prayed, saying, \"Infatuate the counsel of Ahithophel.\" Therefore, when you hear someone making great threats and announcing that he will bring upon you all sorts of ill treatment, losses, blows or death, look up to the Lord who brings to nothing the counsels of nations and rejects the devices of the people.",
+    "source_title": "HOMILIES ON THE PSALMS 32.6",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.2Sam.17.15-16.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "2 Samuel 17:15-16",
+     "osis": [
+      "2Sam.17.15"
+     ]
+    },
+    "quote": "For in the history, Hushai is mentioned as the chief companion of David and the son of Arachi, but in the psalm, Hushai is the son of Jemini. Neither he nor any other of those appearing in the history was the son of Jemini. Perhaps he was called the son of Jemini for this reason, because he displayed great valor and strength through a mere pretense of friendship, going over, as he pretended, to Absalom, but in reality thwarting the plans of Ahithophel, a very skilled man, well trained in military affairs, who was giving his counsel. \"The son of Jemini\" is interpreted \"the son of the right hand.\" By his proposals he prevented the acceptance of the plan of Ahithophel—that no time should intervene in the affairs but that an attack should be made immediately on the father while he was unprepared—\"in order that,\" as Scripture says, \"the Lord might bring all evils upon Absalom.\" At all events, he seemed to them to introduce more plausible reasons for postponement and delay, while his real purpose was to give time to David to gather his forces. Because of Hushai's counsel he was acceptable to Absalom, who said, \"The counsel of Hushai the Archite is better than the counsel of Ahithophel.\"However, Hushai informed David through the priests Zadok and Abiathar of the decision and bade him not to camp in Araboth in the desert but urged him to cross it. Since, then, he was on the right hand of David through his good advice, he obtained the name from his brave deed. Surely it is because of this that he is called \"son of Jemini,\" that is, \"son of the right hand.\" It is a custom of Scripture not only to give those who are more wicked a name from their sin rather than from their fathers but also to call the better sons from the virtue characterizing them.",
+    "source_title": "HOMILIES ON THE PSALMS 7.1",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.2Sam.7.12-13.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "2 Samuel 7:12-13",
+     "osis": [
+      "2Sam.7.12"
+     ]
+    },
+    "quote": "However, the tribe of Judah did not fail until he came for whom it was reserved, who did not himself sit upon a material throne, for the kingdom of Judea had now been transferred to Herod, the son of Antipater, the Ascalonite, and to his sons, who divided Judea into four provinces when Pilate was governor and Tiberius held the power over the whole Roman province. But his indestructible kingdom he calls the throne of David on which the Lord sat. He himself is \"the expectation of nations,\" not of the least part of the world. \"For there will be the root of Jesse,\" it is said, \"and he who rises up to rule the Gentiles, in him the Gentiles will hope.\" \"For I have placed you for a covenant of the people, for a light of the Gentiles.\" \"And I shall establish,\" it is said, \"his seed forever, and his throne as the days of the heavens.\"",
+    "source_title": "LETTER 236",
+    "source_url": ""
+   }
+  ],
+  "Amos": [
+   {
+    "entry_id": "basil-of-caesarea.Amos.2.14.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Amos 2:14",
+     "osis": [
+      "Amos.2.14"
+     ]
+    },
+    "quote": "swift: Jeroboam I. Other kings are described afterwards.",
+    "source_title": null,
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Amos.2.7.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Amos 2:7",
+     "osis": [
+      "Amos.2.7"
+     ]
+    },
+    "quote": "In these laws it is not written that a father and son ought not to have the same concubine, but, in the prophet, it is thought deserving of the most extreme condemnation, \"A man and his father\" it is said \"will go in unto the same maid.\" And how many other forms of unclean lust have been found out in the devils' school, while divine scripture is silent about them, not choosing to befoul its dignity with the names of filthy things and condemning their uncleanness in general terms! As the apostle Paul says, \"Fornication and all uncleanness ... let it not be once named among you as becometh saints,\" thus including the unspeakable doings of both males and females under the name of uncleanness. It follows that silence certainly does not give license to voluptuaries.",
+    "source_title": "Letter CLX",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Basil%2520of%2520Caesarea%2FLetters%2FLetter%2520160.html"
+   },
+   {
+    "entry_id": "basil-of-caesarea.Amos.2.7.1",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Amos 2:7",
+     "osis": [
+      "Amos.2.7"
+     ]
+    },
+    "quote": "Because the example of the patriarch seemed injurious to many who indulged their flesh so far as to live with sisters in their life time. What ought to be my course? To quote the Scriptures, or to work out what they leave unsaid? In these laws it is not written that a father and son ought not to have the same concubine, but, in the prophet, it is thought deserving of the most extreme condemnation, \"A man and his father\" it is said \"will go in unto the same maid.\" And how many other forms of unclean lust have been found out in the devils' school, while divine scripture is silent about them, not choosing to befoul its dignity with the names of filthy things and condemning their uncleanness in general terms! As the apostle Paul says, \"Fornication and all uncleanness ... let it not be once named among you as becometh saints,\" thus including the unspeakable doings of both males and females under the name of uncleanness. It follows that silence certainly does not give license to voluptuaries.",
+    "source_title": "Letter CLX",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Basil%2520of%2520Caesarea%2FLetters%2FLetter%2520160.html"
+   },
+   {
+    "entry_id": "basil-of-caesarea.Amos.3.12.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Amos 3:12",
+     "osis": [
+      "Amos.3.12"
+     ]
+    },
+    "quote": "If, then, any hope of salvation is still left to you, if any slight remembrance of God, if any desire for future rewards, if any fear of the punishments reserved for the unrepentant come back quickly to sobriety; raise your eyes to the heavens; return to your senses; cease your wickedness; shake off the drunkenness that has drenched you; stand up against him who has overthrown you. Have the strength to rise up from the earth. Remember the good Shepherd, how he will pursue and deliver you. And if there are but \"two legs, or the tip of an ear,\" leap back from him who has wounded you. Remember the compassion of God, how he heals with olive oil and wine. Do not despair of salvation. Recall the memory of what has been written, how he that falls rises again, and he that is turned away turns again, he that has been smitten is healed, he that is caught by wild beasts escapes, and he that confesses is not rejected. The Lord does not wish the death of the sinner, but that he return and live. Do not be contemptuous as one who has fallen into the depths of sins.",
+    "source_title": "LETTER 44, TO A FALLEN MONK",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Amos.3.8.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Amos 3:8",
+     "osis": [
+      "Amos.3.8"
+     ]
+    },
+    "quote": "National calamity is traced to national sin, specially to neglect of the poor.",
+    "source_title": null,
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Amos.6.6.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Amos 6:6",
+     "osis": [
+      "Amos.6.6"
+     ]
+    },
+    "quote": "Just as it is not proper to provide ourselves with worldly trappings like a silver vessel, or a curtain edged with purple, or a downy couch, or transparent draperies, so we act unfittingly in contriving menus that deviate in any important way from our usual diet. That we should run about searching for anything not demanded by real necessity but calculated to provide a wretched delight and ruinous vainglory is not only shameful and out of keeping with our avowed purpose; it also causes harm of no mean gravity when they who spend their lives in sensual gratification and measure happiness in terms of pleasure for the appetite see us also taken up with the same preoccupations that keep them enthralled. If, indeed, sensual pleasure is evil and to be avoided, we should on no occasion indulge in it, for nothing that is condemned can at any time be beneficial. They who live riotously and are anointed with the best ointments and drink filtered wine come under the denunciation of Scripture. Because she lives in pleasure, the widow is dead while she is living. The rich man is debarred from paradise because he lived in luxury upon earth. What then have we to do with costly appointments? Has a guest arrived? If he is a brother and follows a way of life aiming at the same objective as ours, he will recognize the fare we provide as properly his own. What he has left at home, he will find with us. Suppose he is weary from his journey. We then provide as much extra nourishment as is required to relieve his weariness.",
+    "source_title": "THE LONG RULES, QUESTION 20",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Amos.8.11.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Amos 8:11",
+     "osis": [
+      "Amos.8.11"
+     ]
+    },
+    "quote": "The unreliability of excessive wealth may edify even to the point of eliciting contempt of corporal riches. Wealth is unstable. It is like a wave accustomed to change back and forth due to the violence of the wind. One might suppose that the people of Israel are rich, since they have the adoption of sons and divine worship, the promises and the patriarchs. However, they have become poor because of their sin against the Lord. \"But they that seek the Lord shall not be deprived of any good.\" They have lacked nourishment in a certain way and have suffered hunger. For when they had put to death the bread of life, a hunger for the bread came upon them. A chastisement for the thirst was imposed on them, but \"the hunger was not for sensible bread or the thirst for water, but a hunger to hear the Word of God.\" Therefore \"they have wanted and have suffered hunger.\"",
+    "source_title": "HOMILIES ON THE PSALMS 33:7",
+    "source_url": ""
+   }
+  ],
+  "Ezek": [
+   {
+    "entry_id": "basil-of-caesarea.Ezek.13.4.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Ezekiel 13:4",
+     "osis": [
+      "Ezek.13.4"
+     ]
+    },
+    "quote": "At another time, because of his deceit toward his brother, he makes himself like the villainous fox. Truly, there is in him excessive folly and a bestial lack of reason, because, made according to the image of the Creator, he neither perceives his own constitution from the beginning nor wishes to understand such great dispensations that were made for his sake, so that he could learn his own dignity from them; he does not realize that, throwing aside the image of the heavenly, he has taken up the image of the earthly.",
+    "source_title": "HOMILIES ON THE PSALMS 19:8 (PS 48)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Ezek.18.32.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Ezekiel 18:32",
+     "osis": [
+      "Ezek.18.32"
+     ]
+    },
+    "quote": "Remember the compassion of God, how he heals with olive oil and wine. Do not despair of salvation. Recall the memory of what has been written, how he that falls rises again, and he that is turned away turns again, he that has been smitten is healed, he that is caught by wild beasts escapes and he that confesses is not rejected. The Lord does not want the death of the sinner, but that he return and live. Do not be contemptuous like one who has fallen into the depths of sins.",
+    "source_title": "LETTER 44",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Ezek.1.1.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Ezekiel 1:1",
+     "osis": [
+      "Ezek.1.1"
+     ]
+    },
+    "quote": "We believe that the Spirit is present everywhere, while the rest of the bodiless powers are circumscribed by place.",
+    "source_title": "ON THE HOLY SPIRIT 23:54",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Ezek.1.15.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Ezekiel 1:15",
+     "osis": [
+      "Ezek.1.15"
+     ]
+    },
+    "quote": "Whoever is stretching forward, like a wheel, touching the earth with a small part of itself, is really such as that wheel was, about which Ezekiel spoke.",
+    "source_title": "HOMILIES ON THE PSALMS 13:3 (PS 28)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Ezek.34.16.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Ezekiel 34:16",
+     "osis": [
+      "Ezek.34.16"
+     ]
+    },
+    "quote": "If you are a shepherd, take care that none of your pastoral duties is neglected. And what are these duties? To bring back that which is lost, to bind up that which was broken, to heal that which is diseased.",
+    "source_title": "HOMILY ON THE WORDS 'GIVE HEED TO THYSELF.'",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Ezek.37.5.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Ezekiel 37:5",
+     "osis": [
+      "Ezek.37.5"
+     ]
+    },
+    "quote": "There should … be certain bones of the inner person in which the bond of union and harmony of spiritual powers is collected. Just as the bones by their own firmness protect the tenderness of the flesh, so also in the church there are some who through their own constancy are able to carry the infirmities of the weak. And as the bones are joined to each other through articulations by sinews and fastenings that have grown on them, so also would be the bond of charity and peace, which achieves a certain natural junction and union of the spiritual bones in the church of God.",
+    "source_title": "HOMILIES ON THE PSALMS 16:13 (PS 33)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Ezek.3.18.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Ezekiel 3:18",
+     "osis": [
+      "Ezek.3.18"
+     ]
+    },
+    "quote": "It is of the greatest importance that the superior [in a religious community] be convinced that if he fails to offer his brother the proper guidance, he will draw on himself heavy and inescapable wrath, for his blood will be required at his hands.",
+    "source_title": "THE LONG RULES 29",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Ezek.9.5.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Ezekiel 9:5",
+     "osis": [
+      "Ezek.9.5"
+     ]
+    },
+    "quote": "You have given a sign, the blood itself of a lamb without blemish, slain for the sin of the world. And Ezekiel says that a sign was given on the foreheads of the persons.",
+    "source_title": "HOMILIES ON THE PSALMS 20:3 (PS 59)",
+    "source_url": ""
+   }
+  ],
+  "Hab": [
+   {
+    "entry_id": "basil-of-caesarea.Hab.2.2-3.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Habakkuk 2:2-3",
+     "osis": [
+      "Hab.2.2"
+     ]
+    },
+    "quote": "You are perhaps distressed that you are driven outside the walls, but you shall dwell under the protection of the God of heaven. The angel who watches over the church has gone out with you. So they lie down in empty places day by day, bringing upon themselves heavy judgment as seen in the dispersion of the people. And, if in all this there is sorrow to be borne, I trust in the Lord that it will not be without its use to you. Therefore, the more have been your trials, look for a more perfect reward from your last judge. Do not take your present troubles ill. Do not lose hope. Yet a little while and your helper will come to you and will not tarry.",
+    "source_title": "LETTER 238",
+    "source_url": ""
+   }
+  ],
+  "Hos": [
+   {
+    "entry_id": "basil-of-caesarea.Hos.10.12.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Hosea 10:12",
+     "osis": [
+      "Hos.10.12"
+     ]
+    },
+    "quote": "So that we may know clearly what is meant by not having a share in the works which do not bear fruit, let us first inquire as to what sort of actions merit the attribute unfruitful—whether those only that are forbidden or such also are commendable but are not performed in good dispositions. In the Old Testament, the prophet, comparing the saints with the tree, says, \"which shall bring forth its fruit in due season.\" Solomon declares, \"The work of the just is unto life, but the fruit of the wicked is sin\"; and Hosea, \"Sow for yourselves in justice, reap the fruit of life.\"",
+    "source_title": "ON BAPTISM 2:9",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Hos.12.6.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Hosea 12:6",
+     "osis": [
+      "Hos.12.6"
+     ]
+    },
+    "quote": "Combine justice with mercy, spending in mercy what you possess with justice. It is written, \"Keep mercy and justice, and draw near to thy God always.\" Because God loves mercy and justice, he who takes care to do mercy and justice draws near to God. It remains, then, for each to examine himself and for the rich person to take careful inventory of the private resources from which he is to offer gifts to God, to make sure that he has not oppressed a poor person, or used force against one weaker than himself, or cheated one dependent upon him, thus exercising license rather than justice. We are bidden to practice fairness and justice also toward those who serve us. Do not employ force because you are in command, and do not take advantage because it is within your power to do so.",
+    "source_title": "HOMILY ON MERCY AND JUSTICE",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Hos.8.8.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Hosea 8:8",
+     "osis": [
+      "Hos.8.8"
+     ]
+    },
+    "quote": "O appalling hardness! O strange cruelty! You did not fear God, nor did you reverence others or feel shame before your friends. So you have suffered shipwreck of all things at once. You have stripped yourselves of every good thing at the same time. Therefore again I grieve for you, wretched man! You who were announcing your ardor for the kingdom have fallen from the kingdom. You who were inspiring all with a reverence for the doctrine did not have the fear of God before your eyes. You who were preaching holiness are now found to be polluted. You who glory in poverty are caught stealing money. You who through your guidance point out the punishment of God have drawn down chastisement upon yourselves. How shall I bewail you? How shall I grieve for you? The morning star, which rose early, has fallen and shattered upon the earth. The two ears of everyone who hears it will ring. How did the Nazirite who shone brighter than gold become darker than soot? And how did the worthy son of Zion instantly become like a polluted vessel?",
+    "source_title": "LETTER 44, TO A FALLEN MONK",
+    "source_url": ""
+   }
+  ],
+  "Isa": [
+   {
+    "entry_id": "basil-of-caesarea.Isa.1.1.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 1:1",
+     "osis": [
+      "Isa.1.1"
+     ]
+    },
+    "quote": "It is our task to pay diligent attention to the mind, so that it becomes clear-sighted, becoming perfect through appropriate exercises, while it is God's gift that the Spirit should illuminate us for the comprehension of his mysteries. The prophet puts \"vision\" first in his account and then introduces his report of the words, in order to show that he did not receive it through the faculty of hearing but is proclaiming the meaning of the word that has been impressed on his mind. For we need voice to indicate our thoughts, but God, affecting directly the very ruling aspect of the soul in those who are worthy, impresses on them the knowledge of his own will.",
+    "source_title": "COMMENTARY ON ISAIAH 1:8",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.1.11.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 1:11",
+     "osis": [
+      "Isa.1.11"
+     ]
+    },
+    "quote": "How do you hope to find any redemption for your souls through sacrifices that are offered in quantity but with no repentance worth mentioning? For God is merciful not through the blood of animals or through slaughter on the altar but upon the contrite heart. For \"the sacrifice to God is a contrite heart.\"It is fitting for the same to be said to those who are lavish in their expiations but do not repent through their deeds.… Scripture says, \"What is the multitude of your sacrifices to me?\" So it dismisses the multitude and seeks after the single sacrifice.",
+    "source_title": "COMMENTARY ON ISAIAH 1:24",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.1.11.1",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 1:11",
+     "osis": [
+      "Isa.1.11"
+     ]
+    },
+    "quote": "Observe that God does not say that he does not wish for any blood, but for this particular blood from these particular animals. For he would not say that he does not wish for the blood that was poured out \"in the last times for the annulment of sins,\" \"which speaks more effectively than that of Abel,\" but he changes the sacrifices to the spiritual plane, since \"the change of priesthood\" is about to happen. For if he rejects the physical sacrifices, he manifestly rejects the high priest according to the law.… They of the stock of Aaron are cast out, therefore, so that he [Christ] according to the order of Melchizedek might enter instead. The \"continuous sacrifices\" are no more, no more the sacrifices of the Day of Atonement, no more \"the ashes of the heifer which purify those that partake.\" For the sacrifice is one, the Christ, and the mortification of the saints according to him; the sprinkling is one, the bath of regeneration;14 the absolution of sins is one—the blood poured out for the salvation of the world. Because of this God renounces the former things, so that he may establish the latter.",
+    "source_title": "COMMENTARY ON ISAIAH 1:26",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.1.15.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 1:15",
+     "osis": [
+      "Isa.1.15"
+     ]
+    },
+    "quote": "Let those who do nothing right in life and think they are justified by the length of their prayer listen to these words. For the words of the prayer are not useful by themselves but only when they are offered up with earnest intent. Now the Pharisee also seemed to multiply his supplication. But what does the Scripture say? \"The Pharisee stood and prayed thus to himself,\" not to God, for he turned back toward himself, since at all events he was in the sin of arrogance.",
+    "source_title": "COMMENTARY ON ISAIAH 1:36",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.1.18.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 1:18",
+     "osis": [
+      "Isa.1.18"
+     ]
+    },
+    "quote": "The great physician of souls is ready to cure your suffering; he is the ready liberator, not of you alone, but of all those enslaved by sin.",
+    "source_title": "LETTER 46",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.1.3.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 1:3",
+     "osis": [
+      "Isa.1.3"
+     ]
+    },
+    "quote": "If the love of children for their parents is a natural endowment and if this love is noticeable in the behavior even of brute beasts, as well as in the affection of human beings in early infancy for their mothers, let us not appear to be less rational than infants or more savage than wild beasts by alienating ourselves from him who made us by being unloving toward him.… This gratitude is characteristic not only of humans, but it is also felt by almost all animals, so that they attach themselves to those who have conferred some good upon them.",
+    "source_title": "THE LONG RULES 2",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.1.3.1",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 1:3",
+     "osis": [
+      "Isa.1.3"
+     ]
+    },
+    "quote": "If even among the barbarians harmony is maintained through subjection to a single leader, what should we think of the disharmony among us and our failure to be subject to the Lord's commands? We should realize that our good God gives us examples to teach us and lead us to conversion. On the great and awesome day of judgment he will use them as a demonstration of the shame and condemnation of those who have not heeded his instruction. He has already said, and he continues to say, \"The ox knows his owner and the donkey his master's manger; but Israel has not known me, and my people have not understood.\"",
+    "source_title": "PREFACE ON THE JUDGMENT OF GOD 7",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.22.2.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 22:2",
+     "osis": [
+      "Isa.22.2"
+     ]
+    },
+    "quote": "Now is the time to utter aloud those words of the prophet who said, \"Who will give water to my head and a fountain of tears to my eyes, and I will weep for the slain of the daughters of my people?\" For, even if deep silence enfolds them and they lie dispossessed once and for all of their senses by the horrible deed (for by the deadly blow they have been deprived already of the very awareness of their condition), still we must not tearlessly disregard so great a fall. For, if Jeremiah judged those whose bodies were smitten in war worthy of innumerable laments, what should be said regarding so terrible a disaster to souls? \"Your slain,\" it is said, \"are not slain by the sword, and your dead are not dead in battle.\" But I bewail the sharp sting that causes real death, that is, grievous sin, and the fiery darts of the evil one, barbarously burning soul and body alike.",
+    "source_title": "LETTER 46",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.22.4.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 22:4",
+     "osis": [
+      "Isa.22.4"
+     ]
+    },
+    "quote": "Remember the compassion of God, how he heals with olive oil and wine. Do not despair of salvation. Recall the memory of what has been written, how he that falls rises again, and he that is turned away turns again, he that has been smitten is healed, he that is caught by wild beasts escapes, and he that confesses is not rejected. The Lord does not wish the death of the sinner, but that he return and live. Be not contemptuous as one who has fallen into the depths of sins.There is still time for patience, time for forbearance, time for healing, time for amendment. Have you slipped? Rise up. Have you sinned? Cease. Do not stand in the way of sinners, but turn aside; for then you will be saved when turning back you bewail your sins. In fact, from labors there is health; for sweat, salvation. So take heed, lest, in wishing to keep your contracts with others, you transgress your covenants with God that you confessed before many witnesses. Do not, therefore, because of certain human considerations, hesitate to come to me. For, receiving my dead, I shall lament; I shall care for him, \"I shall weep bitterly for the devastation of the daughter of my people.\" All welcome you, all will aid you in your sufferings. Do not lose heart; be mindful of the days of old. There is salvation; there is amendment. Have courage; do not despair. There is no law that passes sentence of death without pity, but grace, exceeding the chastisement, awaits the amendment. Not yet have the doors been closed; the Bridegroom listens; sin is not the master. Again take up the struggle; do not draw back, but pity yourself and all of us in Jesus Christ, our Lord, to whom be glory and might, now and forever, for ages of ages. Amen.",
+    "source_title": "LETTER 44",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.25.8.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 25:8",
+     "osis": [
+      "Isa.25.8"
+     ]
+    },
+    "quote": "For eternal rest lies before those who have struggled through the present life observant of the laws, a rest not given in payment for a debt owed for their works but provided as a grace of the munificent God for those who have hoped in him. Then, before he describes the good things there, telling in detail the escape from the troubles of the world, he gives thanks for them to the liberator of souls, who has delivered him from the varied and inexorable slavery of the passions. But what are these good things?\"For he has delivered my soul from death, my eyes from tears, my feet from falling.\" God describes the future rest by a comparison with things here. Here, he says, the sorrows of death have compassed me, but there he has delivered my soul from death. Here the eyes pour forth tears because of trouble, but there, no longer is there a tear to darken the eyes of those who are rejoicing in the contemplation of the beauty of the glory of God. \"For God has wiped away every tear from every face.\"",
+    "source_title": "HOMILIES ON THE PSALMS 114",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.27.1.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 27:1",
+     "osis": [
+      "Isa.27.1"
+     ]
+    },
+    "quote": "Let us earnestly endeavor, therefore, to flee every crooked and tortuous act, and let us keep our mind and the judgment of our soul as straight as a rule, in order that the praise of the Lord may be permitted to us since we are upright. In the same way the serpent, which is the author of sin, is called crooked, and the sword of God is drawn against the dragon, the crooked serpent, which makes many twists and turns in its progress.… Therefore one who follows the serpent shows that his life is crooked, uneven and filled with contrarieties; but one who follows after the Lord makes his paths straight and his footprints right.",
+    "source_title": "HOMILIES ON THE PSALMS 32:1",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.28.17.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 28:17",
+     "osis": [
+      "Isa.28.17"
+     ]
+    },
+    "quote": "The Judge wishes to have mercy on you and to share his own compassion, but on condition that he finds you humble after sin, contrite, lamenting much for your evil deeds, announcing publicly without shame sins committed secretly, begging the brothers to labor with you in reparation. In short, if he sees that you are worthy of pity, he provides his mercy for you ungrudgingly. But if he sees your heart unrepentant, your mind proud, your disbelief of the future life and your fearlessness of the judgment, then he desires the judgment for you. [This is like] a reasonable and kind doctor [who] tries at first with hot applications and soft poultices to reduce a tumor. But, when he sees that the mass is rigidly and obstinately resisting, casting away the olive oil and the gentle method of treatment, he prefers henceforth the use of the knife. Therefore [God] loves mercy in the case of those repenting, but he also loves judgment in the case of the unyielding. Isaiah says some such thing, too, to God: \"Your mercy in measure.\" For he compares the mercy with the judgment of him who gives compensation by scale and number and weight according to the deserts of each.",
+    "source_title": "HOMILIES ON THE PSALMS 32:3",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.2.3.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 2:3",
+     "osis": [
+      "Isa.2.3"
+     ]
+    },
+    "quote": "Ask a man of circumcision, a Jew after the flesh, which law and which word the prophet is talking about. About the law given through Moses? Let them show how this law comes \"out of Zion.\" For Moses did not enter the land of possession, whereas Zion is in Judea. The Scripture was mistaken then, according to them, using one name instead of another, for it said Zion instead of Sinai or Horeb. But it refers to the holy law. Which one? When was it given? Where was it written? And \"the word out of Jerusalem\" as well? The Jew after the flesh says that Isaiah means preaching of the prophets. Yet the preaching of the prophets took place everywhere across Judea, not only in Jerusalem and throughout Israel but also in captivity, in Nineveh and throughout the earth. Let them restrain themselves then before the truth and receive the law giving of the Lord that comes from the watchtower, the God-bearing flesh from which he watched over human actions. \"And the word of the Lord out of Jerusalem.\" Having started from there, the preaching of the gospel has been sown around the whole world.",
+    "source_title": "COMMENTARY ON ISAIAH 2:72",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.40.13-14.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 40:13-14",
+     "osis": [
+      "Isa.40.13"
+     ]
+    },
+    "quote": "\"Who has known the mind of the Lord or who rather has been his counselor?\" This passage is not merely a rhetorical question. If it were, \"who\" could not possibly refer to anyone. Rather, the use of \"who\" indicates a rare personage.… All these questions … have the same answer: \"For the Father loves the Son and shows him all that he himself is doing.\"",
+    "source_title": "ON THE HOLY SPIRIT 5:7",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.40.22-23.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 40:22-23",
+     "osis": [
+      "Isa.40.22"
+     ]
+    },
+    "quote": "\"He that stretches out the heavens as a vaulted ceiling.\" These same thoughts, let us also recommend to ourselves concerning the earth, not to be curious about what its substance is; or to wear ourselves out by reasoning, seeking its very foundation; or to search for some nature destitute of qualities, existing without quality of itself; but to realize well that all that is seen around it is related to the reason of its existence, forming an essential part of its substance.",
+    "source_title": "HOMILIES ON THE HEXAMERON 1:8",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.40.6.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 40:6",
+     "osis": [
+      "Isa.40.6"
+     ]
+    },
+    "quote": "\"The voice of the Lord is on the waters.\" In many places you might find the word voice occurring. Therefore, for the sake of understanding what the voice of the Lord is, we should gather, as far as we are able, from the divine Scripture what has been said about the voice; for instance, in the divine warning to Abraham: \"And immediately the voice came to him: He shall not be your heir.\" And in Moses: \"And all the people saw the voice and the flames.\" Again in Isaiah: \"The voice of one saying, Cry.\" With us, then, voice is either air that has been struck or some form that is in the air against which he who is crying out wishes to strike. Now, what is the voice of the Lord? Would it be considered the impact on the air? Or air, which has been struck reaching the hearing of him to whom the voice comes? Or neither of these but that this is a voice of another kind, namely, an image formed by the mind of people whom God wishes to hear his own voice, so that they have this representation corresponding to that which frequently occurs in their dreams? Indeed, just as, although the air is not struck, we keep some recollection of certain words and sounds occurring in our dreams, not receiving the voice through our hearing but through the impression on our heart itself, so also we must believe that some such voice from God appeared in the prophets.",
+    "source_title": "HOMILIES ON THE PSALMS 13:3 (PSALM 28)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.40.6.1",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 40:6",
+     "osis": [
+      "Isa.40.6"
+     ]
+    },
+    "quote": "I want the marvel of creation to gain such complete acceptance from you that, wherever you may be found and whatever kind of plants you may chance on, you may receive a clear reminder of the Creator. First, then, whenever you see a grassy plant or a flower, think of human nature, remembering the comparison of the wise Isaiah, that \"all flesh is as grass, and all the glory of humanity as the flower of the grass.\" For the short span of life and the briefly enduring pleasure and joy of human happiness have found a most apt comparison in the words of the prophet. Today he is vigorous in body, grown fleshy from delicacies, with a flowerlike complexion, in the prime of life, fresh and eager, and irresistible in attack. Tomorrow that same one is piteous or wasted with age or weakened by disease.",
+    "source_title": "HOMILIES ON THE HEXAMERON 5:2",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.42.14.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 42:14",
+     "osis": [
+      "Isa.42.14"
+     ]
+    },
+    "quote": "Still, the saying of Isaiah has come to my mind: \"I have kept silence; I shall not always keep silence and endure, shall I? I have been as patient as a woman in labor.\" May it be that we both receive the reward for our silence and acquire some power for refuting, so that, when we have given our proofs, we may dry up this bitter torrent of falsehood poured out against us. May we say, \"Our souls have passed through a torrent,\" and, \"If it has not been that the Lord was with us, when people rose up against us, perhaps they had swallowed us up alive, perhaps the waters had swallowed us up.\"",
+    "source_title": "LETTER 223",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.42.18.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 42:18",
+     "osis": [
+      "Isa.42.18"
+     ]
+    },
+    "quote": "It is evident, indeed, that some possess ears better able to hear the words of God. But to those who do not have those ears, what does he say? \"Hear, you deaf, and, you blind, behold.\" Also, \"I opened my mouth and panted,\" and \"You have broken the teeth of sinners.\"4 All these things were said in reference to the faculties that render service for spiritual food and spiritual doctrine.",
+    "source_title": "HOMILIES ON THE PSALMS 16.13. (PSALM 33)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.44.27.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 44:27",
+     "osis": [
+      "Isa.44.27"
+     ]
+    },
+    "quote": "Yet there will be a time when all things will be burned up by fire, as Isaiah says when he addresses the God of the universe: [You] \"who say to the deep, 'Be thou desolate, and I will dry up all your rivers.' \" Casting aside, therefore, the wisdom that has been turned into foolishness, receive with us the teaching of truth, homely in speech but infallible in doctrine.",
+    "source_title": "HOMILIES ON THE HEXAMERON 3:6",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.44.6.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 44:6",
+     "osis": [
+      "Isa.44.6"
+     ]
+    },
+    "quote": "If we count, we do not add, increasing from one to many. We do not say, \"one, two, three,\" or \"first, second, and third.\" God says, \"I am the first, and I am the last.\" We have never to this present day heard of two gods.… How does one and one not equal two gods? Because we speak of the emperor and the emperor's image—but not two emperors.… The image of the emperor is an image by imitation, but the Son is a natural image.",
+    "source_title": "ON THE HOLY SPIRIT 18:45",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.45.3.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 45:3",
+     "osis": [
+      "Isa.45.3"
+     ]
+    },
+    "quote": "To one who believes, a promise is given by God: \"I will give you hidden treasures, unseen ones.\" When we have been deemed worthy of knowledge face to face, we shall see also the depth in the storehouses of God.",
+    "source_title": "HOMILIES ON THE PSALMS 15:5 (PSALM 32)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.50.6.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 50:6",
+     "osis": [
+      "Isa.50.6"
+     ]
+    },
+    "quote": "If you remain unruffled, you silence your insolent assailant by giving him a practical illustration of self-control. Were you struck? So also was the Lord. Were you spat on? The Lord also suffered this, for \"he did not turn his face from the shame of the spittle.\" … You have not been condemned to death or crucified.",
+    "source_title": "HOMILY AGAINST THOSE WHO ARE PRONE TO ANGER",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.52.3.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 52:3",
+     "osis": [
+      "Isa.52.3"
+     ]
+    },
+    "quote": "No one is sufficient to redeem himself, unless he comes who turns away the captivity of the people, not with ransoms or with gifts, as it is written in Isaiah, but in his own blood.",
+    "source_title": "HOMILIES ON THE PSALMS 19:4 (PSALM 48)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.56.10.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 56:10",
+     "osis": [
+      "Isa.56.10"
+     ]
+    },
+    "quote": "In souls, pure and cleansed from all defilement, the prophetic gift shines clear. In a foul mirror you cannot see what the reflection is, neither can a soul preoccupied with cares of this life and darkened with the passions of the lust of the flesh receive the rays of the Holy Spirit. Every dream is not a prophecy, as Zechariah says, \"The Lord shall make bright clouds and give them showers of rain … for the idols have spoken vanity, and the diviners have spoken false dreams.\" Those who, as Isaiah says, \"dream and love to sleep in their bed\" forget that an instigation of error is sent to \"the children of disobedience.\"",
+    "source_title": "LETTER 210:6",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.5.1-2.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 5:1-2",
+     "osis": [
+      "Isa.5.1"
+     ]
+    },
+    "quote": "He invites us to produce fruits in abundance, for fear lest our sterility should condemn us to the fire. He constantly compares our souls to vines. \"My well beloved,\" says He, \"hath a vineyard in a very fruitful hill,\" and elsewhere, I have \"planted a vineyard and hedged it round about.\" Evidently He calls human souls His vine, those souls whom He has surrounded with the authority of His precepts and a guard of angels. \"The angel of the Lord encampeth round about them that fear him.\" And further: He has planted for us, so to say, props, in establishing in His Church apostles, prophets, teachers; and raising our thoughts by the example of the blessed in olden times, He has not allowed them to drag on the earth and be crushed under foot. He wishes that the claspings of love, like the tendrils of the vine, should attach us to our neighbours and make us rest on them, so that, in our continual aspirations towards heaven, we may imitate these vines, which raise themselves to the tops of the tallest trees. He also asks us to allow ourselves to be dug about; and that is what the soul does when it disembarrasses itself from the cares of the world, which are a weight on our hearts. He, then, who is freed from carnal affections and from the love of riches, and, far from being dazzled by them, disdains and despises this miserable vain glory, is, so to say, dug about and at length breathes, free from the useless weight of earthly thoughts.",
+    "source_title": "Homilies on the Hexaemeron 5.6",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Basil%2520of%2520Caesarea%2FThe%2520Hexaemeron%2FHomily%25205-The%2520Germination%2520of%2520the%2520Earth.html"
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.60.18.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 60:18",
+     "osis": [
+      "Isa.60.18"
+     ]
+    },
+    "quote": "Some give the definition that a city is an established community, administered according to law. And the definition that has been handed down of the city is in harmony with the celestial city, Jerusalem above. For there it is a community of the firstborn who have been enrolled in heaven, and this is established because of the unchanging manner of life of the saints, and it is administered according to the heavenly law. Therefore, it is not the privilege of human nature to learn the arrangement of that city and all this adornment. Those are the things \"eye has not seen or ear heard, nor has it entered into the heart of humanity, what things God has prepared for those who love him.\" But there are myriads of angels there, and an assembly of saints and a church of the firstborn that are enrolled in heaven.… Therefore, having raised the eyes of your souls, seek, in a manner worthy of things above, what pertains to the city of God. What could anyone consider as deserving of the happiness in that city, which the river of God makes joyful and of which God is the craftsman and creator?",
+    "source_title": "HOMILIES ON THE PSALMS 18:4 (PSALM 45)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.61.1.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 61:1",
+     "osis": [
+      "Isa.61.1"
+     ]
+    },
+    "quote": "For the naming of Christ is the confession of the whole, shewing forth as it does the God who gave, the Son who received, and the Spirit who is, the unction. So we have learned from Peter, in the Acts, of \"Jesus of Nazareth whom God anointed with the Holy Ghost;\" and in Isaiah, \"The Spirit of the Lord is upon me, because the Lord hath anointed me;\" and the Psalmist, \"Therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.\"",
+    "source_title": "On The Holy Spirit, Chapter 12",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Basil%2520of%2520Caesarea%2FON%2520THE%2520SPIRIT.html"
+   },
+   {
+    "entry_id": "basil-of-caesarea.Isa.7.9.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Isaiah 7:9",
+     "osis": [
+      "Isa.7.9"
+     ]
+    },
+    "quote": "Certainly one must have faith in the Scriptures as containing the divine mind, and thus one must proceed to the understanding of what is written in them. For one must go beyond the types and thus apprehend the truth of what has been shown to us. First one must believe in the Scriptures with the simple faith that they are \"inspired by God and useful\" and then go on to examine subtly and enquiringly the meaning contained in them.",
+    "source_title": "COMMENTARY ON ISAIAH 7:197",
+    "source_url": ""
+   }
+  ],
+  "Jer": [
+   {
+    "entry_id": "basil-of-caesarea.Jer.16.16.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 16:16",
+     "osis": [
+      "Jer.16.16"
+     ]
+    },
+    "quote": "In this great household of the church not only are there vessels of every kind—gold, silver, wooden and earthen—but also a great variety of pursuits. \"The house of God, which is the church of the living God,\" has hunters, travelers, architects, builders, farmers, shepherds, athletes, soldiers. To all of these this short admonition will be appropriate, for it will produce in each proficiency in action and energy of will. You are a hunter sent forth by the Lord, who says, \"Behold, I send many hunters, and they shall hunt them on every mountain.\" Take good care, therefore, that your prey does not elude you, so that, having captured them with the word of truth, you may bring back to the Savior those who have been made wild and savage by iniquity.",
+    "source_title": "HOMILY ON THE WORDS 'GIVE HEED TO THYSELF.'",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.17.6-7.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:6-7",
+     "osis": [
+      "Jer.17.6"
+     ]
+    },
+    "quote": "A person who relies on himself, however, or even on the person whose duty it is to provide for his needs, and thinks that his own activity or that of his associate is a sufficient resource for his livelihood runs the risk, as he places his hope in humankind, of falling under the curse that reads, \"Cursed is the one that trusts in humankind and makes flesh his arm and whose soul departs from the Lord.\" Now, by the words \"that trusts in humankind\" the Scripture forbids a person to place his hope in another, and by the words \"and makes flesh his arm\" it forbids him to trust in himself. Either course is termed a defection from the Lord. Further, in adding the final issue of both, \"He shall be like tamarisk in the desert, and he shall not see when good shall come,\" the Scripture declares that for anyone to place his trust either in himself or in anyone else is to alienate himself from the Lord.",
+    "source_title": "THE LONG RULES 42",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.17.6-7.1",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:6-7",
+     "osis": [
+      "Jer.17.6"
+     ]
+    },
+    "quote": "One thing you must flee, sin. One refuge from evil must be sought, God. Do not trust in princes. Do not be exalted in the uncertainty of wealth. Do not be proud of bodily strength. Do not pursue the splendor of human glory. None of these things save you. All are transient. All are deceptive. There is one refuge: God. \"Cursed is the one who trusts in humankind\" or in any human thing.",
+    "source_title": "HOMILIES ON THE PSALMS 18:1 (PS 45)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.17.6-7.2",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:6-7",
+     "osis": [
+      "Jer.17.6"
+     ]
+    },
+    "quote": "One who puts his trust in humankind or is buoyed up by some other concerns of life, such as power or possessions or any of the things considered by the many to be glorious, is not able to say, \"O Lord my God, in you have I put my trust.\" In fact, there is a command that we should not put our trust in rulers, and \"cursed is the one who trusts in humankind.\" As it is proper not to worship anything else besides God, so also is it proper not to trust in any other except God the Lord of all things. \"The Lord,\" it is said, \"is my hope and my praise.\"",
+    "source_title": "HOMILIES ON THE PSALMS 11:2 (PS 7)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.18.13.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 18:13",
+     "osis": [
+      "Jer.18.13"
+     ]
+    },
+    "quote": "Who would not grieve over such things and say, \"How is the faithful city become a harlot?\" How would not the Lord say to some of those who are now walking in the spirit of Jeremiah, \"Have you seen what the virgin of Israel has done to me?\" I betrothed her to me in trust, in purity, in righteousness, in judgment, in pity, and in mercy; as I promised her through Hosea the prophet. But she loved strangers, and while I, her husband, was yet alive, she is called adulteress and is not afraid to belong to another husband.",
+    "source_title": "LETTER 46:3",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.23.23.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 23:23",
+     "osis": [
+      "Jer.23.23"
+     ]
+    },
+    "quote": "He also observes the rule, \"Whether you eat or drink or whatever else you do, do all to the glory of God.\" But one who departs from the strict observance of the commandment in performing his actions clearly shows that he has given small thought to God. Mindful, therefore, of the voice of him who said, \"Do I not fill heaven and earth? declares the Lord\" and again, \"Am I a God at hand and not a God afar off?\" Also, \"Where there are two or three gathered together in my name, there am I in the midst of them.\" We should perform every action as if under the eyes of the Lord and think every thought as if observed by him. Thus, fear will abide constantly within us who hate iniquity, as it is written, insolence, pride, and the ways of the wicked, and love will be made perfect, fulfilling the words of the Lord: \"I seek not my own will but the will of him that sent me.\"",
+    "source_title": "THE LONG RULES 5",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.2.10-11.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:10-11",
+     "osis": [
+      "Jer.2.10"
+     ]
+    },
+    "quote": "This alone among all evils is without comparison. This is a new act of shamelessness in life. \"Go over to the islands of Kittim and see,\" the Lord says. \"Send to Kedar and consider carefully whether anything like this has ever been done—if a nation has changed its gods? (Yet they are not gods at all.).\" But the virgin \"has changed her glory,\" and her glory is in her shame.",
+    "source_title": "LETTER 46, TO A FALLEN VIRGIN",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.2.12.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:12",
+     "osis": [
+      "Jer.2.12"
+     ]
+    },
+    "quote": "And not only Paul, but generally all those to whom is committed any ministry of the word, never cease from testifying, but call heaven and earth to witness on the ground that now every deed that is done is done within them, and that in the examination of all the actions of life they will be present with the judged. So it is said, \"He shall call to the heavens above and to earth, that he may judge his people.\" And so Moses when about to deliver his oracles to the people says, \"I call heaven and earth to witness this day;\" and again in his song he says, \"Give ear, O ye heavens, and I will speak, and hear, O earth, the words of my mouth;\" and Isaiah, \"Hear, O heavens, and give ear, O earth;\" and Jeremiah describes astonishment in heaven at the tidings of the unholy deeds of the people: \"The heaven was astonished at this, and was horribly afraid, because my people committed two evils.\"",
+    "source_title": "On the Spirit 13.30",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Basil%2520of%2520Caesarea%2FON%2520THE%2520SPIRIT.html"
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.2.13.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:13",
+     "osis": [
+      "Jer.2.13"
+     ]
+    },
+    "quote": "Is he not one who bewitches the sheep of our patriarch, that they may not drink from the pure water that springs up unto life everlasting but may draw down on themselves the saying of the prophet: \"They have forsaken me, the fountain of living water, and have dug for themselves cisterns, broken cisterns that can hold no water\"? Because they should confess that the Father is God, the Son is God and the Holy Spirit is God, as the divine Word teaches and as they who have pondered it more deeply have taught.",
+    "source_title": "LETTER 8",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.2.13.1",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:13",
+     "osis": [
+      "Jer.2.13"
+     ]
+    },
+    "quote": "\"He has opened a pit and dug it.\" We do not find the name of \"pit\" ever assigned in the divine Scriptures to something good or a \"well\" of water to something bad. That into which Joseph was thrown by his brothers is a pit. There is a slaughter \"from the firstborn of Pharaoh to the firstborn of the captive woman that was in prison.\" In the Psalms, \"I am counted among those who go down to the pit.\" In Jeremiah it is said, \"They have forsaken me, the fountain of living water, and have dug to themselves cisterns, broken cisterns that can hold no water.\"",
+    "source_title": "HOMILIES ON THE PSALMS 11:8 (PS 7)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.37.15.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 37:15",
+     "osis": [
+      "Jer.37.15"
+     ]
+    },
+    "quote": "Thus there is the expression in Exodus: \"From the firstborn of Pharaoh to the firstborn of the captive woman who was in the pit.\" But they even threw Jeremiah also into a pit. His brothers through jealousy confined Joseph in a pit without water. Each act, therefore, either draws us downward by oppressing us with sin or lifts us upward by raising us on wings toward God. Therefore, you have saved me, I who formerly lived a wicked life, and have separated me from those who go down to the dark and frigid region. The meaning of the words \"you have upheld me\" is to say, \"you have led me back from my downward course, so as not to give my enemies an occasion to rejoice over me.\"",
+    "source_title": "HOMILIES ON THE PSALMS 14:3 (PS 29)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.3.14-15.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 3:14-15",
+     "osis": [
+      "Jer.3.14"
+     ]
+    },
+    "quote": "We should consider our pastor happy in his death because he has laid aside his life at an age rich with years and has gone to his rest with the greatest honors from the Lord. Concerning all else we have this to recommend, that you should cast off all depression, regain self-control and rise to the necessary duty of caring for the church, so that the holy God may give heed to his own flock and provide for you a shepherd according to his will, one who will govern you wisely.",
+    "source_title": "LETTER 62",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.3.7.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 3:7",
+     "osis": [
+      "Jer.3.7"
+     ]
+    },
+    "quote": "In addition to these things, \"when people fall, do they not rise again? If one turns away, does he not return?\" Why, then, is the virgin \"turned away with a stubborn revolting,\" even though she heard Christ, her spouse, saying through Jeremiah, \"And when she had committed all these fornications, I said, 'Return to me, and she did not return'?\" \"Is there no balm in Gilead? Is there no physician there? Why then has the health of the daughter of my people not been restored?\" Indeed, many safeguards against evil would you find in the divine Scripture and many remedies which from destruction bring salvation—the mysteries of death and resurrection, the words of the terrible judgment and everlasting punishment, the doctrines of repentance and the forgiveness of sin, those innumerable examples of conversion, the drachma, the sheep, the son who spent his livelihood with harlots, was lost and found, was dead and alive again. Let us use these safeguards against evil. Through them, let us heal our soul.",
+    "source_title": "LETTER 46",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.48.10.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 48:10",
+     "osis": [
+      "Jer.48.10"
+     ]
+    },
+    "quote": "It is hazardous for a superior to be delinquent, since he holds the position of arbiter in everything. It is both injurious and detrimental for those under their charge when they are disobedient. It is especially perilous if, in addition, the one who is in a superior position is scandalous. Each one who shows in his own place a tireless zeal, fulfilling the apostle's precept, \"in carefulness not slothful,\" merits praise for his promptness. But for negligence he deserves the opposite, that is, unhappiness and woe. For the prophet says, \"Cursed is the one who does the work of the Lord negligently.\"",
+    "source_title": "THE LONG RULES 24",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.48.10.1",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 48:10",
+     "osis": [
+      "Jer.48.10"
+     ]
+    },
+    "quote": "What condemnation, then, ought we to expect to fall on those who are frivolous and irresponsible in the management of goods that are already consecrated to the Lord? Are they not liable to the sentence of doom pronounced on the negligent, as it is written, \"Cursed is he who does the work of the Lord negligently\"?",
+    "source_title": "THE LONG RULES 9",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.48.10.2",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 48:10",
+     "osis": [
+      "Jer.48.10"
+     ]
+    },
+    "quote": "Do not allow another to do the work that is rightly yours, so that the reward as well may not be taken from you and given to another and he be enriched with your wealth while you are put to shame. Perform the duties of your ministry decently and with care as if you were serving Christ, for \"cursed,\" says the prophet, \"is everyone who does the work of the Lord negligently.\" Fear, as if the eye of the Lord were on you, the perversity that arises from fastidiousness and contempt, even though the task in hand seems to you a menial one. The work of the ministry is an exalted work and leads to the kingdom of heaven.",
+    "source_title": "ON RENUNCIATION OF THE WORLD",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.48.10.3",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 48:10",
+     "osis": [
+      "Jer.48.10"
+     ]
+    },
+    "quote": "Elsewhere, he expresses his condemnation more vividly: \"Depart from me, you cursed, into everlasting fire that was prepared for the devil and his angels.\" Then he alleges not the commission of any forbidden act but the omission of commended ones, saying, \"For I was hungry, and you gave me nothing to eat; I was thirsty, and you gave me nothing to drink,\" and so on. There are many passages like that that one might find to prove that not only are those who do wicked things worthy of death—for whom has been prepared the inextinguishable fire as well—but that along with these those are condemned who leave good works undone or who perform them negligently. For it is written, \"Cursed is every person who does the work of the Lord negligently.\"",
+    "source_title": "CONCERNING BAPTISM 2:6",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.5.22.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:22",
+     "osis": [
+      "Jer.5.22"
+     ]
+    },
+    "quote": "Through all the story of waters be mindful of that first word, \"Let the waters be gathered.\" It was necessary for them to flow that they might reach their own place. Then, being in the places appointed, they were to remain by themselves and not to advance further. For this reason, according to the saying of Ecclesiastes, \"All the rivers run into the sea, yet the sea does not overflow.\" It is through the divine command that waters flow, and it is due to that first legislation, \"Let the waters be gathered into one place,\" that the sea is enclosed within boundaries. For fear that the flowing water, spreading beyond the beds that hold it, always passing on and filling up one place after another, should continuously flood all the lands, it was ordered to be gathered into one place. Therefore, the sea, frequently raging with the winds and rising up in waves to towering heights, whenever it merely touches the shores breaks its onrush into foam and retires. \"Will you not then fear me, says the Lord? I have set the sand as a bound for the sea.\" With the weakest of all things, sand, the sea, irresistible in its violence, is bridled.",
+    "source_title": "HOMILIES ON THE HEXAMERON 4:3",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.5.22.1",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:22",
+     "osis": [
+      "Jer.5.22"
+     ]
+    },
+    "quote": "When I say \"we,\" I do not refer to human power but to the grace of God, who in the weakness of people shows forth his own power. This the prophet, speaking in the person of the Lord, says, \"Will not you, then, fear me? I have set the sand as the boundary for the sea.\" For by this weakest and most contemptible of all things, sand, the mighty One has bound the great and ponderous sea. Therefore, since our condition is somewhat similar, it would follow that some of the true brethren should be sent continuously from your charity to visit us in our afflictions and that affectionate letters should come more frequently to us, on the one hand to strengthen our zeal, and on the other to correct us if we fail in any respect. Indeed, we do not deny that we are subject to many faults, since we are people and are living in the flesh.",
+    "source_title": "LETTER 203",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.5.4.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:4",
+     "osis": [
+      "Jer.5.4"
+     ]
+    },
+    "quote": "Truly, slander humiliates a person, and slander troubles the poor person. The evil of slander is so great that it brings down both the perfect person … from his height, and the poor person, that is, the one who lacks great learning, as it seems to the prophet, who says, \"Perhaps they are poor … therefore they will not hear. I will go to the great ones,\" meaning by \"the poor\" those lacking in intelligence, and here, of course, those not yet made orderly in the inner person or having attained to the perfect measure of their age. These, the proverb says, are troubled and made to waver.",
+    "source_title": "LETTER 223",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.5.8.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:8",
+     "osis": [
+      "Jer.5.8"
+     ]
+    },
+    "quote": "Angels do not change. Not one of them is a child, or a young man, or an old man, but in whatever state they were created, in the beginning, in that state they remain. Their substance is preserved pure and inviolate for them. But we change in our body, as has been shown, and in our soul and in the inner person, always shifting our thoughts with the circumstances. In fact, we are one sort of person when we are cheerful and when all things in our life are moving forward with the current. But we are another sort in precarious times, when we stumble against something that is not according to our wishes. We are changed through anger, assuming a certain savage state. We are also changed through our lusts of carnal things, becoming like beasts through a life of pleasure. \"They become amorous horses,\" being madly in love with their neighbors' wives. The deceitful person is compared with a fox, as Herod was. The shameless person is called a dog, like Nabel the Carmelian. Do you see the variety and diversity of our change? Then, admire him who has fittingly adapted this title to us. For this very reason, a certain one of the interpreters seems to me to have handed over beautifully and accurately the same thought through another title. He says, \"For the lilies,\" in place of, \"For them that shall be changed.\" He thought that it was appropriate to compare the transitory state of human nature with the early death of flowers. But since this word has been inflected in the future tense (It is said, \"For them that shall be changed,\" as if at some time later this change will be shown to us), let us consider whether there is suggested to us the doctrine of the resurrection, in which a change will be granted to us, but a change for something better and something spiritual.",
+    "source_title": "HOMILIES ON THE PSALMS 17:1-2 (PS 44)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.5.8.1",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:8",
+     "osis": [
+      "Jer.5.8"
+     ]
+    },
+    "quote": "Fasting can be utilized as a weapon against demonic armies: \"For this kind does not come out except through prayer and fasting.\" Many good things come from fasting, but being satiated introduces the beginnings of insolence. It immediately rushes in alongside the delicacy you are eating and it accompanies rich sauces. All kinds of licentious behavior begin grazing at its table. After this, men start becoming \"lusty horses\" toward women because all this luxury begins to start a maddening itch that enters into their soul. Those who get drunk begin perverting themselves against nature, using a male like a female, or vice versa. Fasting, by contrast, reveals the proper boundaries for marriage. It curtails the excesses of even those things that may be permitted by law but that are abstained from by agreement so that the couple can devote themselves to prayer.But we should not limit the goodness of fasting only to abstaining from foods. True fasting, in whatever form, is the enemy of evil. \"Loose the chains of injustice!\" Forgive your neighbor when an offense occurs against you and forgive his debts. Do not \"fast in order to bring about judgment and strife.\"14\nYou may not eat meat, but you devour your brother. You abstain from wine but hold on to insolence. You wait till evening to indulge [in a meal] but spend the day in court. \"Woe to those who are drunk, but not from wine!\" Wrath can also be a drunkenness of the soul, making it senseless, like wine. Grief can also feel like being drunk, weighing down the mind. Fear is another form of drunkenness whenever it fears something where there is no need for fear, because the psalmist says, \"deliver my soul from the fear of my enemy.\" When taken together, each of these passions that allow the mind to be taken over and to go out of control is rightly termed drunkenness.… Guard against this kind of drunkenness, but do not be given over to the kind that comes from wine, either. Do not start being a water drinker just because you have been drinking too much. Do not let drunkenness be what leads you into fasting. The door that leads to fasting is not entered through drunkenness. Neither is greed the entryway into justice, nor is intemperance the way to sound judgment. In summary, evil never leads to virtue. There is another door into fasting. Drunkenness leads to intemperance. Contentment is what opens the door to fasting.",
+    "source_title": "HOMILY ON FASTING 1:9-10",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.5.8.2",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:8",
+     "osis": [
+      "Jer.5.8"
+     ]
+    },
+    "quote": "Humanity … did not understand and neglected to follow God and to become like his Creator. And becoming a slave of the passions of the flesh, \"he is compared with senseless beasts and is become like them.\" Now he is like an amorous horse that neighs after his neighbor's wife. Now like a ravenous wolf, lying in wait for strangers, but at another time, because of his deceit toward his brother, he makes himself like the villainous fox. Truly, there is excessive folly and beast-like lack of reason that he, made according to the image of the Creator, neither perceives his own from the beginning nor even wishes to understand such great dispensations that were made for his sake. At least, he should learn his own dignity from them, but he is unmindful of the fact, and he throws aside the image of the heavenly, but he has taken up the image of the earthly.",
+    "source_title": "HOMILIES ON THE PSALMS 19:8 (PS 48)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.8.22.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 8:22",
+     "osis": [
+      "Jer.8.22"
+     ]
+    },
+    "quote": "\"Shall not he that falls rise again, and he that is turned away, shall he not turn again?\" Why, then, is the virgin \"turned away with a stubborn revolting,\" even though she heard Christ, her spouse, saying through Jeremiah: \"And when she had committed all these fornications, I said: Return to me, and she did not return?\" \"Is there no balm in Gilead? Or is there no physician there? Why, then, is not the wound of the daughter of my people closed?\" Indeed, you will find many safeguards against evil in the divine Scripture, and many remedies which from destruction bring salvation. There are the mysteries of death and resurrection, the words of terrible judgment and everlasting punishment, the doctrines of repentance and the forgiveness of sin and those innumerable examples of conversion. There are the drachma, the sheep and the son who spent his livelihood with harlots, who was lost and found, was dead and lived again. Let us use these safeguards against evil. Through them, let us heal our soul.…While we can, let us lift ourselves from the fall. Let us never despair of ourselves, if only we depart from evil. Jesus Christ came into the world to save sinners. \"O come, let us worship and fall down; let us weep before him.\" The Word who invited us to repentance calls aloud, \"Come unto me, all you who labor and are heavy laden, and I will give you rest.\" There is, then, a way of salvation, if we want it. \"Death in his might has swallowed up, but again the Lord has wiped away tears from off all faces\" of those who repent. The Lord is faithful in all his words. He does not lie when he says, \"Though your sins are scarlet, they shall be as white as snow. Though they are red like crimson, they shall be as wool.\" The great Physician of souls who is the ready liberator, not of you alone, but of all who are enslaved by sin, is ready to heal your sickness. From him come the words, it was his sweet and saving lips that said, \"They who are whole do not need a physician but those who are sick.… I have not come to call the righteous but sinners to repentance.\" What excuse have you, what excuse has anyone, when he speaks in this way? The Lord wishes to cleanse you from the trouble of your sickness and to show you light after darkness. The good Shepherd who left those who had not wandered away is seeking after you. If you give yourself to him, he will not hold back. He, in his love, will not disdain even to carry you on his own shoulders, rejoicing that he has found his sheep that was lost. The Father stands and awaits your return from your wandering. Only come back, and while you are yet far off, he will run and fall on your neck, and, now that you are cleansed by repentance, will enfold you in embraces of love. He will clothe with the chief robe the soul that has put off the old person with all his works. He will put a ring on hands that have washed off the blood of death and will put shoes on feet that have turned from the evil way to the path of the gospel of peace. He will announce the day of joy and gladness to those who are his own, both angels and human beings, and will celebrate your salvation far and wide. For \"truly I say unto you,\" he says, \"there is joy in heaven before God over one sinner who repents.\"",
+    "source_title": "LETTER 46:5-6",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.8.4.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 8:4",
+     "osis": [
+      "Jer.8.4"
+     ]
+    },
+    "quote": "Have the strength to rise up from the earth. Remember the good Shepherd and how he will pursue and deliver you. And if there are but \"two legs or the tip of an ear,\" leap back from him who has wounded you. Remember the compassion of God, how he heals with olive oil and wine. Do not despair of salvation. Recall the memory of what has been written: how he who falls rises again, and he who is turned away turns again. He who has been smitten is healed, and he who is caught by wild beasts escapes. He who confesses is not rejected. The Lord does not wish the death of the sinner but that he return and live. Do not have contempt for yourself, like one who has fallen into the depths of sin.",
+    "source_title": "LETTER 44",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Jer.9.23-24.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jeremiah 9:23-24",
+     "osis": [
+      "Jer.9.23"
+     ]
+    },
+    "quote": "No sensible person, then, will be proud of his wisdom or of possessing the other goods I have mentioned but will follow the excellent advice of blessed Anna and of the prophet Jeremiah: \"Let not the wise person glory in his wisdom, and let not the strong person glory in his strength, and let not the rich person glory in his riches.\" But what is true glory, and what makes a person great? \"In this,\" says the prophet, \"let him that glories, glory that he understands and knows that I am the Lord.\" This constitutes the highest dignity of humankind, this is his glory and greatness. Truly it is to know what is great and to cleave to it, and to seek after glory from the Lord of glory.",
+    "source_title": "HOMILY 20, ON HUMILITY",
+    "source_url": ""
+   }
+  ],
+  "Joel": [
+   {
+    "entry_id": "basil-of-caesarea.Joel.2.11.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Joel 2:11",
+     "osis": [
+      "Joel.2.11"
+     ]
+    },
+    "quote": "If then the beginning of time is called \"one day\" rather than \"the first day,\" it is because Scripture wishes to establish its relationship with eternity. It was, in reality, fit and natural to call \"one\" the day whose character is to be one wholly separated and isolated from all the others. If Scripture speaks to us of many ages, saying everywhere, \"age of age, and ages of ages,\" we do not see it enumerate them as first, second, and third. It follows that we are hereby shown not so much limits, ends and succession of ages, as distinctions between various states and modes of action. \"The day of the Lord,\" Scripture says, \"is great and very terrible,\" and elsewhere \"Woe unto you that desire the day of the Lord: to what end is it for you? The day of the Lord is darkness and not light.\" A day of darkness for those who are worthy of darkness.",
+    "source_title": "Homilies on the Hexaemeron 2.8",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Basil%2520of%2520Caesarea%2FThe%2520Hexaemeron%2FHomily%25202-%2522The%2520Earth%2520Was%2520Invisible%2520and%2520Unfinished%2522.html"
+   },
+   {
+    "entry_id": "basil-of-caesarea.Joel.2.30-31.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Joel 2:30-31",
+     "osis": [
+      "Joel.2.30"
+     ]
+    },
+    "quote": "Further, the Lord has announced to us that at the dissolution of the universe, signs will appear in the sun, in the moon and in the stars. The sun shall be turned into blood and the moon shall not give her light, signs of the consummation of all things.",
+    "source_title": "HOMILIES ON THE HEXAEMERON 6:4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Basil%2520of%2520Caesarea%2FThe%2520Hexaemeron%2FHomily%25206-The%2520Creation%2520of%2520Luminous%2520Bodies.html"
+   },
+   {
+    "entry_id": "basil-of-caesarea.Joel.2.32.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Joel 2:32",
+     "osis": [
+      "Joel.2.32"
+     ]
+    },
+    "quote": "Well then, someone will say, will the large number of Christians who do not keep all the commandments practice the observance of some of them in vain? In this connection, it is well to recall blessed Peter, who, after he had performed so many good actions and had been a recipient of such great blessings, was told, upon his being guilty of one lapse only: \"If I do not wash you, you will have no part with me.\" I shall not point out that his act bore no signs of indifference or contempt but was a demonstration of honor and reverence. But, someone might say, it is written, \"Everyone who calls on the name of the Lord shall be saved.\"",
+    "source_title": "THE LONG RULES, PREFACE",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Joel.2.6.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Joel 2:6",
+     "osis": [
+      "Joel.2.6"
+     ]
+    },
+    "quote": "And so he will deserve to fulfill, likewise, those other words that have a bearing in this connection: \"buried together with him by baptism unto death.\" For what purpose? \"That as Christ is risen from the dead by the glory of the Father, so we also may walk in newness of life.\" He who is dead must be buried, and he who is buried in the likeness of death must rise again by the grace of God in Christ. No longer, because of sin, should he bear about in the inner man a countenance like a blackened kettle, but, after his sins have been made manifest by fire and pardon has been granted through the blood of Christ, he should shine forth in newness of life, by the justifications of Christ, more precious than any jewel.",
+    "source_title": "CONCERNING BAPTISM 1:2",
+    "source_url": ""
+   }
+  ],
+  "Jonah": [
+   {
+    "entry_id": "basil-of-caesarea.Jonah.2.1-2.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Jonah 2:1-2",
+     "osis": [
+      "Jonah.2.1"
+     ]
+    },
+    "quote": "Since the holy God has promised those who hope in him a means of escape from every affliction, we, even if we have been cut off in the midst of the seas of evils and are racked by the mighty waves stirred up against us by the spirits of wickedness, nevertheless endure in Christ who strengthens us. We have not slackened the intensity of our zeal for the churches, nor do we, as in a storm when the waves rise high, expect destruction. We still hold fast to our earnest endeavors as much as is possible, sensible of the fact that he who was swallowed by the whale was considered deserving of safety because he did not despair of his life but cried out to the Lord. So then, we ourselves, having reached the uttermost limit of evils, do not give up our hope in the Lord but watch and see his help on all sides.",
+    "source_title": "LETTER 242",
+    "source_url": ""
+   }
+  ],
+  "Josh": [
+   {
+    "entry_id": "basil-of-caesarea.Josh.24.27.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Joshua 24:27",
+     "osis": [
+      "Josh.24.27"
+     ]
+    },
+    "quote": "Moreover, Joshua, the son of Nun, even set up a stone as witness of his words (already a heap somewhere had been called a witness by Jacob), for he says, \"Behold this stone shall be a witness unto you this day to the end of days, when ye lie to the Lord our God,\" perhaps believing that by God's power even the stones would speak to the conviction of the transgressors; or, if not, that at least each man's conscience would be wounded by the force of the reminder. In this manner they who have been entrusted with the stewardship of souls provide witnesses, whatever they may be, so as to produce them at some future day. But the Spirit is ranked together with God, not on account of the emergency of the moment, but on account of the natural fellowship; is not dragged in by us, but invited by the Lord.",
+    "source_title": "ON THE SPIRIT 13.30",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Basil%2520of%2520Caesarea%2FON%2520THE%2520SPIRIT.html"
+   },
+   {
+    "entry_id": "basil-of-caesarea.Josh.7.25.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Joshua 7:25",
+     "osis": [
+      "Josh.7.25"
+     ]
+    },
+    "quote": "Accordingly, I find, in taking up the Holy Scripture, that in the Old and New Testament contumacy toward God is clearly condemned, not in consideration of the number or heinousness of transgressions but in terms of a single violation of any precept whatsoever, and, further, that the judgment of God covers all forms of disobedience. In the Old Testament, I read of the frightful end of Achan and the account of the man who gathered wood on the sabbath day. Neither of these men was guilty of any other offense against God, nor had they wronged a man in any way, small or great; but the one, merely for his first gathering of wood, paid the inescapable penalty and did not have an opportunity to make amends, for, by the command of God, he was forthwith stoned by all his people. The other, only because he had pilfered some part of the sacrificial offerings, even though these had not yet been brought into the synagogue nor had been received by those who perform this function, was the cause not only of his own destruction but of that also of his wife and children and of his house and personal possessions besides. Moreover, the evil consequences of his sin would presently have spread like fire over his nation—and this, too, although the people did not know what had occurred and had not excused the sinner—unless his people, sensing the anger of God from the destruction of the men who were slain, had promptly been struck with fear, and unless Joshua, son of Nun, sprinkling himself with dust, had prostrated himself together with the ancients, and unless the culprit, discovered thus by lot, had paid the penalty mentioned above.Perhaps someone will raise the objection that these men might plausibly be suspected of other sins for which they were overtaken by these punishments, yet the Holy Scripture made mention of these sins alone as very serious and worthy of death.",
+    "source_title": "PREFACE ON THE JUDGMENT OF GOD",
+    "source_url": ""
+   }
+  ],
+  "Judg": [
+   {
+    "entry_id": "basil-of-caesarea.Judg.21.25.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Judges 21:25",
+     "osis": [
+      "Judg.21.25"
+     ]
+    },
+    "quote": "After a long time spent in this state of indecision and while I was still busily searching for the cause I have mentioned, there came to my mind the book of Judges, which tells how each man did what was right in his own eyes and gives the reason for this in these words: \"In those days there was no king in Israel.\" With these words in mind, then, I applied also to the present circumstances that explanation which, incredible and frightening as it may be, is quite truly pertinent when it is understood; for never before has there arisen such discord and quarreling as now among the members of the church in consequence of their turning away from the one, great and true God and only King of the universe. Each person, indeed, abandons the teachings of our Lord Jesus Christ and arrogates to himself authority in dealing with certain questions, making his own private rules and preferring to exercise leadership in opposition to the Lord to being led by the Lord.",
+    "source_title": "PREFACE ON THE JUDGMENT OF GOD",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Judg.9.53.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Judges 9:53",
+     "osis": [
+      "Judg.9.53"
+     ]
+    },
+    "quote": "The homicide Abimelech, bastard son of Gideon, killed the seventy legitimate sons, and, thinking he had hit upon a ruse for securing his grasp on the royal power, he destroyed his accomplices in the crime. He, however, was in turn destroyed by them and in the end was slain with a stone cast by a woman's hand.… In short, countless examples teach us that the profit of human wisdom is illusory, for it is a meager and lowly thing and not a great and preeminent good.",
+    "source_title": "ON HUMILITY",
+    "source_url": ""
+   }
+  ],
+  "Mic": [
+   {
+    "entry_id": "basil-of-caesarea.Mic.7.19.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Micah 7:19",
+     "osis": [
+      "Mic.7.19"
+     ]
+    },
+    "quote": "\"The Lord sits enthroned over the flood.\" A flood is an overflow of water that causes all lying below it to disappear. It cleanses all that was previously filthy. Therefore he calls the grace of baptism a flood, so that the soul, being washed well of its sins and rid of the old person, is suitable henceforth as a dwelling place of God in the Spirit. Further, what is said in the twenty-first psalm agrees with this. For after he has said, \"I have acknowledged my sin, and my injustice I have not concealed,\" and also, \"For this shall every one that is holy pray to you,\" he then said, \"And yet in a flood of many waters, they shall not come near him.\" Indeed, sin shall not come near to one who received baptism for the remission of his transgressions through water and the Spirit. Something akin to this is found in the prophecy of Micah: \"Because he delights in mercy, he will turn again and have mercy on us. He will put away our iniquities and will cast them into the bottom of the sea.\"",
+    "source_title": "HOMILIES ON THE PSALMS 28:8",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Mic.7.9.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Micah 7:9",
+     "osis": [
+      "Mic.7.9"
+     ]
+    },
+    "quote": "We sometimes bear illness as a punishment for sin intended for our conversion, \"for whom the Lord loves,\" says the Scripture, \"he chastises.\" Again Scripture teaches, \"Therefore are there many infirm and weak among you, and some have died. But if we would judge ourselves, we should not be judged, we are chastised by the Lord that we be not condemned with the world.\" Consequently, when we who belong to this class have recognized our transgressions, it may be fitting that we should simply bear in silence and without recourse to medicine all the afflictions which come to us, remembering the words of the prophet: \"I will bear the wrath of the Lord because I have sinned against him.\" We should, moreover, give proof of our amendment by bringing forth fruits worthy of penance, remembering the words of the Lord: \"Behold, you are made whole; sin no more, lest some worse thing happen to you.\" Sometimes also, when sickness afflicts us at the request of the evil one, our benevolent master may condescend to enter combat with him, treating him as if he were a mighty adversary and confounding his boasts by the heroic patience of his servants.",
+    "source_title": "THE LONG RULES 55",
+    "source_url": ""
+   }
+  ],
+  "Zech": [
+   {
+    "entry_id": "basil-of-caesarea.Zech.10.1.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Zechariah 10:1",
+     "osis": [
+      "Zech.10.1"
+     ]
+    },
+    "quote": "Let us not, therefore, know God by halves or make his lovingkindness an excuse for our indolence; for this, his thunders, for this, his lightnings—that his goodness may not be held in despite. He who causes the sun to rise also strikes people with blindness. He who sends the rain also causes the rain of fire. By the one he manifests his goodness; by the other, his severity. For the one let us love him, for the other let us fear, that it may not be said also to us, \"Or despise you the riches of his goodness and patience and longsuffering? Know you not that the mercy of God leads you to repentance? But according to your hardness and impenitent heart, you treasure up to yourself wrath against the day of wrath.\"",
+    "source_title": "THE LONG RULES, PREFACE",
+    "source_url": ""
+   },
+   {
+    "entry_id": "basil-of-caesarea.Zech.6.12.0",
+    "author": "Basil of Caesarea",
+    "anchor_ref": {
+     "raw": "Zechariah 6:12",
+     "osis": [
+      "Zech.6.12"
+     ]
+    },
+    "quote": "Therefore God helps the city, producing in it early morning by his own rising and coming. \"Behold a man,\" it is said, \"the Orient is his name.\" For those upon whom the spiritual light will rise, when the darkness that comes from ignorance and wickedness is destroyed, early morning will be at hand. Since, then, light has come into the world in order that he who walks about in it may not stumble, his help is able to cause the early morning. Or perhaps, since the resurrection was in the dim morning twilight, God will help the city in the morning early, who on the third day, early on the morning of the resurrection gained the victory through death.",
+    "source_title": "HOMILIES ON THE PSALMS 45:18.5",
+    "source_url": ""
+   }
+  ]
+ }
+}

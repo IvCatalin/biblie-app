@@ -1,0 +1,592 @@
+{
+ "meta": {
+  "id": "irenaeus",
+  "author": "Irenaeus",
+  "license": "public-domain",
+  "schema_type": "church_fathers",
+  "source_url": "https://github.com/HistoricalChristianFaith/Commentaries-Database",
+  "book_scope": "Doar cele 18 carti Nevi'im folosite de Haftarot catalogate",
+  "download_date": "2026-09-19"
+ },
+ "by_book": {
+  "1Sam": [
+   {
+    "entry_id": "irenaeus.1Sam.12.3-5.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "1 Samuel 12:3-5",
+     "osis": [
+      "1Sam.12.3"
+     ]
+    },
+    "quote": "In this way, too, Samuel, who judged the people so many years, and bore rule over Israel without any pride, in the end cleared himself, saying, \"I have walked before you from my childhood even unto this day: answer me in the sight of God, and before His anointed; whose ox or whose ass of yours have I taken, or over whom have I tyrannized, or whom have I oppressed? or if I have received from the hand of any a bribe or [so much as] a shoe, speak out against me, and I will restore it to you.\" And when the people had said to him, \"Thou hast not tyrannized, neither hast thou oppressed us neither hast thou taken ought of any man's hand,\" he called the Lord to witness, saying, \"The Lord is witness, and His Anointed is witness this day, that ye have not found ought in my hand. And they said to him, He is witness.\" In this strain also the Apostle Paul, inasmuch as he had a good conscience, said to the Corinthians: \"For we are not as many, who corrupt the Word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ;\" \"We have injured no man, corrupted no man, circumvented no man.\"",
+    "source_title": "AGAINST HERESIES 4.26.4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.1Sam.15.22.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "1 Samuel 15:22",
+     "osis": [
+      "1Sam.15.22"
+     ]
+    },
+    "quote": "Moreover, the prophets indicate in the fullest manner that God stood in no need of their slavish obedience, but that it was upon their own account that He enjoined certain observances in the law. And again, that God needed not their oblation, but [merely demanded it], on account of man himself who offers it, the Lord taught distinctly, as I have pointed out. For when He perceived them neglecting righteousness, and abstaining from the love of God, and imagining that God was to be propitiated by sacrifices and the other typical observances, Samuel did even thus speak to them: \"God does not desire whole burnt-offerings and sacrifices, but He will have His voice to be hearkened to. Behold, a ready obedience is better than sacrifice, and to hearken than the fat of rams.\"",
+    "source_title": "AGAINST HERESIES 4.17.1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   }
+  ],
+  "Amos": [
+   {
+    "entry_id": "irenaeus.Amos.9.11-12.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Amos 9:11-12",
+     "osis": [
+      "Amos.9.11"
+     ]
+    },
+    "quote": "After him James spoke as follows: \"Men, brethren, Simon hath declared how God did purpose to take from among the Gentiles a people for His name. And thus do the words of the prophets agree, as it is written, After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build the ruins thereof, and I will set it up: that the residue of men may seek after the Lord, and all the Gentiles, among whom my name has been invoked, saith the Lord, doing these things. Known from eternity is His work to God. Wherefore I for my part give judgment, that we trouble not them who from among the Gentiles are turned to God: but that it be enjoined them, that they do abstain from the vanities of idols, and from fornication, and from blood; and whatsoever they wish not to be done to themselves, let them not do to others.\"",
+    "source_title": "Against Heresies Book III",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   }
+  ],
+  "Ezek": [
+   {
+    "entry_id": "irenaeus.Ezek.1.10.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Ezekiel 1:10",
+     "osis": [
+      "Ezek.1.10"
+     ]
+    },
+    "quote": "For the cherubim, too, were four-faced, and their faces were images of the dispensation of the Son of God. For, [as the Scripture] says, \"The first living creature was like a lion,\" symbolizing His effectual working, His leadership, and royal power; the second [living creature] was like a calf, signifying [His] sacrificial and sacerdotal order; but \"the third had, as it were, the face as of a man,\"-an evident description of His advent as a human being; \"the fourth was like a flying eagle,\" pointing out the gift of the Spirit hovering with His wings over the Church. And therefore the Gospels are in accord with these things, among which Christ Jesus is seated. For that according to John relates His original, effectual, and glorious generation from the Father, thus declaring, \"In the beginning was the Word, and the Word was with God, and the Word was God.\" Also, \"all things were made by Him, and without Him was nothing made.\" For this reason, too, is that Gospel full of all confidence, for such is His person. But that according to Luke, taking up [His] priestly character, commenced with Zacharias the priest offering sacrifice to God. For now was made ready the fatted calf, about to be immolated for the finding again of the younger son. Matthew, again, relates His generation as a man, saying, \"The book of the generation of Jesus Christ, the son of David, the son of Abraham;\" and also, \"The birth of Jesus Christ was on this wise.\" This, then, is the Gospel of His humanity; for which reason it is, too, that [the character of] a humble and meek man is kept up through the whole Gospel. Mark, on the other hand, commences with [a reference to] the prophetical spirit coming down from on high to men, saying, \"The beginning of the Gospel of Jesus Christ, as it is written in Esaias the prophet,\"-pointing to the winged aspect of the Gospel; and on this account he made a compendious and cursory narrative, for such is the prophetical character.",
+    "source_title": "Irenaeus Against Heresies Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   }
+  ],
+  "Hab": [
+   {
+    "entry_id": "irenaeus.Hab.3.2.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Habakkuk 3:2",
+     "osis": [
+      "Hab.3.2"
+     ]
+    },
+    "quote": "With Him is nothing incomplete or out of due season, just as with the Father there is nothing incongruous. For all these things were foreknown by the Father; but the Son works them out at the proper time in perfect order and sequence. This was the reason why, when Mary was urging [Him] on to [perform] the wonderful miracle of the wine, and was desirous before the time to partake of the cup of emblematic significance, the Lord, checking her untimely haste, said, \"Woman, what have I to do with thee? mine hour is not yet come\" -waiting for that hour which was foreknown by the Father. This is also the reason why, when men were often desirous to take Him, it is said, \"No man laid hands upon Him, for the hour of His being taken was not yet come;\" nor the time of His passion, which had been foreknown by the Father; as also says the prophet Habakkuk, \"By this Thou shalt be known when the years have drawn nigh; Thou shalt be set forth when the time comes; because my soul is disturbed by anger, Thou shalt remember Thy mercy.\" Paul also says: \"But when the fulness of time came, God sent forth His Son.\" By which is made manifest, that all things which had been foreknown of the Father, our Lord did accomplish in their order, season, and hour, foreknown and fitting, being indeed one and the same, but rich and great. For He fulfils the bountiful and comprehensive will of His Father, inasmuch as He is Himself the Saviour of those who are saved, and the Lord of those who are under authority, and the God of all those things which have been formed, the only-begotten of the Father, Christ who was announced, and the Word of God, who became incarnate when the fulness of time had come, at which the Son of God had to become the Son of man.",
+    "source_title": "AGAINST HERESIES 3:16.7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   },
+   {
+    "entry_id": "irenaeus.Hab.3.3.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Habakkuk 3:3",
+     "osis": [
+      "Hab.3.3"
+     ]
+    },
+    "quote": "And there are also some of them who say, \"The Lord hath spoken in Zion, and uttered His voice from Jerusalem;\" and, \"In Judah is God known;\" -these indicated His advent which took place in Judea. Those, again, who declare that \"God comes from the south, and from a mountain thick with foliage,\" announced His advent at Bethlehem, as I have pointed out in the preceding book. From that place, also, He who rules, and who feeds the people of His Father, has come. Those, again, who declare that at His coming \"the lame man shall leap as an hart, and the tongue of the dumb shall [speak] plainly, and the eyes of the blind shall be opened, and the ears of the deaf shall hear,\" and that \"the hands which hang down, and the feeble knees, shall be strengthened,\" and that \"the dead which are in the grave shall arise,\" and that He Himself \"shall take [upon Him] our weaknesses, and bear our sorrows,\" -[all these] proclaimed those works of healing which were accomplished by Him.",
+    "source_title": "AGAINST HERESIES 4:33.11",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   }
+  ],
+  "Hos": [
+   {
+    "entry_id": "irenaeus.Hos.12.10.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Hosea 12:10",
+     "osis": [
+      "Hos.12.10"
+     ]
+    },
+    "quote": "For certain of these men used to see the prophetic Spirit and His active influences poured forth for all kinds of gifts; others, again, [beheld] the advent of the Lord, and that dispensation which obtained from the beginning, by which He accomplished the will of the Father with regard to things both celestial and terrestrial; and others [beheld] paternal glories adapted to the times, and to those who saw and who heard them then, and to all who were subsequently to hear them. Thus, therefore, was God revealed; for God the Father is shown forth through all these [operations], the Spirit indeed working, and the Son ministering, while the Father was approving, and man's salvation being accomplished. As He also declares through Hosea the prophet: \"I,\" He says, \"have multiplied visions, and have used similitudes by the ministry of the prophets.\" But the apostle expounded this very passage, when he said, \"Now there are diversities of gifts, but the same Spirit; and there are differences of ministrations, but the same Lord; and there are diversities of operations, but it is the same God which worketh all in all. But the manifestation of the Spirit is given to every man to profit withal.\" But as He who worketh all things in all is God, [as to the points] of what nature and how great He is, [God] is invisible and indescribable to all things which have been made by Him, but He is by no means unknown: for all things learn through His Word that there is one God the Father, who contains all things, and who grants existence to all, as is written in the Gospel: \"No man hath seen God at any time, except the only-begotten Son, who is in the bosom of the Father; He has declared [Him.]\"",
+    "source_title": "AGAINST HERESIES 4:20.6",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Hos.12.10.1",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Hosea 12:10",
+     "osis": [
+      "Hos.12.10"
+     ]
+    },
+    "quote": "But that both the apostles and their disciples thus taught as the Church preaches, and thus teaching were perfected, wherefore also they were called away to that which is perfect-Stephen, teaching these truths, when he was yet on earth, saw the glory of God, and Jesus on His right hand, and exclaimed, \"Behold, I see the heavens opened, and the Son of man standing on the right hand of God.\" These words he said, and was stoned; and thus did he fulfil the perfect doctrine, copying in every respect the Leader of martyrdom, and praying for those who were slaying him, in these words: \"Lord, lay not this sin to their charge.\" Thus were they perfected who knew one and the same God, who from beginning to end was present with mankind in the various dispensations; as the prophet Hosea declares: \"I have filled up visions, and used similitudes by the hands of the prophets.\"",
+    "source_title": "AGAINST HERESIES 3:12.13",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   }
+  ],
+  "Isa": [
+   {
+    "entry_id": "irenaeus.Isa.11.6-7.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 11:6-7",
+     "osis": [
+      "Isa.11.6"
+     ]
+    },
+    "quote": "The predicted blessing, therefore, belongs unquestionably to the times of the kingdom, when the righteous shall bear rule upon their rising from the dead; when also the creation, having been renovated and set free, shall fructify with an abundance of all kinds of food, from the dew of heaven, and from the fertility of the earth: as the elders who saw John, the disciple of the Lord, related that they had heard from him how the Lord used to teach in regard to these times, and say: The days will come, in which vines shall grow, each having ten thousand branches, and in each branch ten thousand twigs, and in each true twig ten thousand shoots, and in each one of the shoots ten thousand clusters, and on every one of the clusters ten thousand grapes, and every grape when pressed will give five and twenty metretes of wine. And when any one of the saints shall lay hold of a cluster, another shall cry out, \"I am a better cluster, take me; bless the Lord through me.\" In like manner [the Lord declared] that a grain of wheat would produce ten thousand ears, and that every ear should have ten thousand grains, and every grain would yield ten pounds (quinque bilibres) of clear, pure, fine flour; and that all other fruit-bearing trees, and seeds and grass, would produce in similar proportions (secundum congruentiam iis consequentem); and that all animals feeding [only] on the productions of the earth, should [in those days] become peaceful and harmonious among each other, and be in perfect subjection to man.\n\nAnd these things are borne witness to in writing by Papias, the hearer of John, and a companion of Polycarp, in his fourth book; for there were five books compiled (συντεταγμένα) by him. And he says in addition, \"Now these things are credible to believers.\" And he says that, \"when the traitor Judas did not give credit to them, and put the question, 'How then can things about to bring forth so abundantly be wrought by the Lord.' the Lord declared, 'They who shall come to these [times] shall see.' \" When prophesying of these times, therefore, Esaias says: \"The wolf also shall feed with the lamb, and the leopard shall take his rest with the kid; the calf also, and the bull, and the lion shall eat together; and a little boy shall lead them. The ox and the bear shall feed together, and their young ones shall agree together; and the lion shall eat straw as well as the ox. And the infant boy shall thrust his hand into the asp's den, into the nest also of the adder's brood; and they shall do no harm, nor have power to hurt anything in my holy mountain.\" And again he says, in recapitulation, \"Wolves and lambs shall then browse together, and the lion shall eat straw like the ox, and the serpent earth as if it were bread; and they shall neither hurt nor annoy anything in my holy mountain, says the Lord.\" [Isaiah 40:6, etc.] I am quite aware that some persons endeavour to refer these words to the case of savage men, both of different nations and various habits, who come to believe, and when they have believed, act in harmony with the righteous. But although this is [true] now with regard to some men coming from various nations to the harmony of the faith, nevertheless in the resurrection of the just [the words shall also apply] to those animals mentioned. For God is rich in all things. And it is right that when the creation is restored, all the animals should obey and be in subjection to man, and revert to the food originally given by God (for they had been originally subjected in obedience to Adam), that is, the productions of the earth. But some other occasion, and not the present, is [to be sought] for showing that the lion shall [then] feed on straw. And this indicates the large size and rich quality of the fruits. For if that animal, the lion, feeds upon straw [at that period], of what a quality must the wheat itself be whose straw shall serve as suitable food for lions?",
+    "source_title": "Against Heresies (Book V, Chapter 33), Sections 3-4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.11.6.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 11:6",
+     "osis": [
+      "Isa.11.6"
+     ]
+    },
+    "quote": "I am quite aware that some persons endeavour to refer these words to the case of savage men, both of different nations and various habits, who come to believe, and when they have believed, act in harmony with the righteous. But although this is [true] now with regard to some men coming from various nations to the harmony of the faith, nevertheless in the resurrection of the just [the words shall also apply] to those animals mentioned. For God is non in all things. And it is right that when the creation is restored, all the animals should obey and be in subjection to man, and revert to the food originally given by God (for they had been originally subjected in obedience to Adam), that is, the productions of the earth. But some other occasion, and not the present, is [to be sought] for showing that the lion shall [then] feed on straw. And this indicates the large size and rich quality of the fruits. For if that animal, the lion, feeds upon straw [at that period], of what a quality must the wheat itself be whose straw shall serve as suitable food for lions?",
+    "source_title": "AGAINST HERESIES 5:33.4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.26.19.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 26:19",
+     "osis": [
+      "Isa.26.19"
+     ]
+    },
+    "quote": "Then, too, Isaiah himself has plainly declared that there shall be joy of this nature at the resurrection of the just, when he says: \"The dead shall rise again; those, too, who are in the tombs shall arise, and those who are in the earth shall rejoice. For the dew from Thee is health to them.\"",
+    "source_title": "AGAINST HERESIES 5:34.1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.42.3.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 42:3",
+     "osis": [
+      "Isa.42.3"
+     ]
+    },
+    "quote": "The prophets, therefore, did not openly behold the actual face of God, but [they saw] the dispensations and the mysteries through which man should afterwards see God. As was also said to Elias: \"Thou shalt go forth tomorrow, and stand in the presence of the Lord; and, behold, a wind great and strong, which shall rend the mountains, and break the rocks in pieces before the Lord. And the Lord [was] not in the wind; and after the wind an earthquake, but the Lord [was] not in the earthquake; and after the earthquake a fire, but the Lord [was] not in the fire; and after the fire a scarcely audible voice\" (vox aurae tenuis). For by such means was the prophet-very indignant, because of the transgression of the people and the slaughter of the prophets-both taught to act in a more gentle manner; and the Lord's advent as a man was pointed out, that it should be subsequent to that law which was given by Moses, mild and tranquil, in which He would neither break the bruised reed, nor quench the smoking flax. The mild and peaceful repose of His kingdom was indicated likewise. For, after the wind which rends the mountains, and after the earthquake, and after the fire, come the tranquil and peaceful times of His kingdom, in which the spirit of God does, in the most gentle manner, vivify and increase mankind.",
+    "source_title": "AGAINST HERESIES 4:20.10",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.42.5.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 42:5",
+     "osis": [
+      "Isa.42.5"
+     ]
+    },
+    "quote": "For the breath of life, which also rendered man an animated being, is one thing, and the vivifying Spirit another, which also caused him to become spiritual. And for this reason Isaiah said, \"Thus saith the Lord, who made heaven and established it, who founded the earth and the things therein, and gave breath to the people upon it, and Spirit to those walking upon it;\" thus telling us that breath is indeed given in common to all people upon earth, but that the Spirit is theirs alone who tread down earthly desires. And therefore Isaiah himself, distinguishing the things already mentioned, again exclaims, \"For the Spirit shall go forth from Me, and I have made every breath.\" Thus does he attribute the Spirit as peculiar to God which in the last times He pours forth upon the human race by the adoption of sons; but [he shows] that breath was common throughout the creation, and points it out as something created. Now what has been made is a different thing from him who makes it. The breath, then, is temporal, but the Spirit eternal. The breath, too, increases [in strength] for a short period, and continues for a certain time; after that it takes its departure, leaving its former abode destitute of breath. But when the Spirit pervades the man within and without, inasmuch as it continues there, it never leaves him.",
+    "source_title": "AGAINST HERESIES 5:12.2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.43.21.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 43:21",
+     "osis": [
+      "Isa.43.21"
+     ]
+    },
+    "quote": "And those of them who declare that God would make a new covenant with men, not such as that which He made with the fathers at Mount Horeb, and would give to men a new heart and a new spirit; and again, \"And remember ye not the things of old: behold, I make new things which shall now arise, and ye shall know it; and I will make a way in the desert, and riven in a dry land, to give drink to my chosen people, my people whom I have acquired, that they may show forth my praise,\" -plainly announced that liberty which distinguishes the new covenant, and the new wine which is put into new bottles, [that is], the faith which is in Christ, by which He has proclaimed the way of righteousness sprung up in the desert, and the streams of the Holy Spirit in a dry land, to give water to the elect people of God, whom He has acquired, that they might show forth His praise, but not that they might blaspheme Him who made these things, that is, God.",
+    "source_title": "AGAINST HERESIES 4:33.14",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.44.11.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 44:11",
+     "osis": [
+      "Isa.44.11"
+     ]
+    },
+    "quote": "When, however, the Scripture terms them [gods] which are no gods, it does not, as I have already remarked, declare them as gods in every sense, but with a certain addition and signification, by which they are shown to be no gods at all. As with David: \"The gods of the heathen are idols of demons;\" and, \"Ye shall not follow other gods.\" For in that he says \"the gods of the heathen\"—but the heathen are ignorant of the true God—and calls them \"other gods,\" he bars their claim [to be looked upon] as gods at all. But as to what they are in their own person, he speaks concerning them; \"for they are,\" he says, \"the idols of demons.\" And Esaias: \"Let them be confounded, all who blaspheme God, and carve useless things; even I am witness, saith God.\" He removes them from [the category of] gods, but he makes use of the word alone, for this [purpose], that we may know of whom he speaks.",
+    "source_title": "Against Heresies (Book III, Chapter 6), Section 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.51.6.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 51:6",
+     "osis": [
+      "Isa.51.6"
+     ]
+    },
+    "quote": "Again, as to their malignantly asserting that if heaven is indeed the throne of God, and earth His footstool, and if it is declared that the heaven and earth shall pass away, then when these pass away the God who sitteth above must also pass away, and therefore He cannot be the God who is over all; in the first place, they are ignorant what the expression means, that heaven is [His] throne and earth [His] footstool. For they do not know what God is, but they imagine that He sits after the fashion of a man, and is contained within bounds, but does not contain. And they are also unacquainted with [the meaning of] the passing away of the heaven and earth; but Paul was not ignorant of it when he declared, \"For the figure of this world passeth away.\" In the next place, David explains their question, for he says that when the fashion of this world passes away, not only shall God remain, but His servants also, expressing himself thus in the 101st Psalm: \"In the beginning, Thou, O Lord, hast founded the earth, and the heavens are the works of Thy hands. They shall perish, but Thou shalt endure, and all shall wax old as a garment; and as a vesture Thou shalt change them, and they shall be changed: but Thou art the same, and Thy years shall not fail. The children of Thy servants shall continue, and their seed shall be established for ever;\" pointing out plainly what things they are that pass away, and who it is that doth endure for ever—God, together with His servants. And in like manner Esaias says: \"Lift up your eyes to the heavens, and look upon the earth beneath; for the heaven has been set together as smoke, and the earth shall wax old like a garment, and they who dwell therein shall die in like manner. But my salvation shall be for ever, and my righteousness shall not pass away.\"",
+    "source_title": "Against Heresies (Book IV, Chapter 3), Section 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.53.2.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 53:2",
+     "osis": [
+      "Isa.53.2"
+     ]
+    },
+    "quote": "For this reason [it is, said], \"Who shall declare His generation?\" since \"He is a man, and who shall recognise Him?\" But he to whom the Father which is in heaven has revealed Him, knows Him, so that he understands that He who \"was not born either by the will of the flesh, or by the will of man,\" is the Son of man, this is Christ, the Son of the living God. For I have shown from the Scriptures, that no one of the sons of Adam is as to everything, and absolutely, called God, or named Lord. But that He is Himself in His own right, beyond all men who ever lived, God, and Lord, and King Eternal, and the Incarnate Word, proclaimed by all the prophets, the apostles, and by the Spirit Himself, may be seen by all who have attained to even a small portion of the truth. Now, the Scriptures would not have testified these things of Him, if, like others, He had been a mere man. But that He had, beyond all others, in Himself that pre-eminent birth which is from the Most High Father, and also experienced that pre-eminent generation which is from the Virgin, the divine Scriptures do in both respects testify of Him: also, that He was a man without comeliness, and liable to suffering; that He sat upon the foal of an ass; that He received for drink, vinegar and gall; that He was despised among the people, and humbled Himself even to death and that He is the holy Lord, the Wonderful, the Counsellor, the Beautiful in appearance, and the Mighty God, coming on the clouds as the Judge of all men;—all these things did the Scriptures prophesy of Him.",
+    "source_title": "Against Heresies (Book III, Chapter 19), Section 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.61.1.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 61:1",
+     "osis": [
+      "Isa.61.1"
+     ]
+    },
+    "quote": "For Christ did not at that time descend upon Jesus, neither was Christ one and Jesus another: but the Word of God-who is the Saviour of all, and the ruler of heaven and earth, who is Jesus, as I have already pointed out, who did also take upon Him flesh, and was anointed by the Spirit from the Father-was made Jesus Christ, as Esaias also says, \"There shall come forth a rod from the root of Jesse, and a flower shall rise from his root; and the Spirit of God shall rest upon Him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and piety, and the spirit of the fear of God, shall fill Him. He shall not judge according to glory, nor reprove after the manner of speech; but He shall dispense judgment to the humble man, and reprove the haughty ones of the earth.\" And again Esaias, pointing out beforehand His unction, and the reason why he was anointed, does himself say, \"The Spirit of God is upon Me, because He hath anointed Me: He hath sent Me to preach the Gospel to the lowly, to heal the broken up in heart, to proclaim liberty to the captives, and sight to the blind; to announce the acceptable year of the Lord, and the day of vengeance; to comfort all that mourn.\" For inasmuch as the Word of God was man from the root of Jesse, and son of Abraham, in this respect did the Spirit of God rest upon Him, and anoint Him to preach the Gospel to the lowly. But inasmuch as He was God, He did not judge according to glory, nor reprove after the manner of speech. For \"He needed not that any should testify to Him of man, for He Himself knew what was in man.\" For He called all men that mourn; and granting forgiveness to those who had been led into captivity by their sins, He loosed them from their chains, of whom Solomon says, \"Every one shall be holden with the cords of his own sins.\" Therefore did the Spirit of God descend upon Him, [the Spirit] of Him who had promised by the prophets that He would anoint Him, so that we, receiving from the abundance of His unction, might be saved. Such, then, [is the witness] of Matthew.",
+    "source_title": "Against Heresies (Book III, Chapter 9), Section 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.61.1.1",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 61:1",
+     "osis": [
+      "Isa.61.1"
+     ]
+    },
+    "quote": "...the Son of God having been made the Son of man, as the very name itself doth declare. For in the name of Christ is implied, He that anoints, He that is anointed, and the unction itself with which He is anointed. And it is the Father who anoints, but the Son who is anointed by the Spirit, who is the unction, as the Word declares by Isaiah, \"The Spirit of the Lord is upon me, because He hath anointed me,\" -pointing out both the anointing Father, the anointed Son, and the unction, which is the Spirit.",
+    "source_title": "Against Heresies (Book III, Chapter 18), Section 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.65.25.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 65:25",
+     "osis": [
+      "Isa.65.25"
+     ]
+    },
+    "quote": "The predicted blessing, therefore, belongs unquestionably to the times of the kingdom, when the righteous shall bear rule upon their rising from the dead; when also the creation, having been renovated and set free, shall fructify with an abundance of all kinds of food, from the dew of heaven, and from the fertility of the earth: as the elders who saw John, the disciple of the Lord, related that they had heard from him how the Lord used to teach in regard to these times, and say: The days will come, in which vines shall grow, each having ten thousand branches, and in each branch ten thousand twigs, and in each true twig ten thousand shoots, and in each one of the shoots ten thousand clusters, and on every one of the clusters ten thousand grapes, and every grape when pressed will give five and twenty metretes of wine. And when any one of the saints shall lay hold of a cluster, another shall cry out, \"I am a better cluster, take me; bless the Lord through me.\" In like manner [the Lord declared] that a grain of wheat would produce ten thousand ears, and that every ear should have ten thousand grains, and every grain would yield ten pounds (quinque bilibres) of clear, pure, fine flour; and that all other fruit-bearing trees, and seeds and grass, would produce in similar proportions (secundum congruentiam iis consequentem); and that all animals feeding [only] on the productions of the earth, should [in those days] become peaceful and harmonious among each other, and be in perfect subjection to man.\n\nAnd these things are borne witness to in writing by Papias, the hearer of John, and a companion of Polycarp, in his fourth book; for there were five books compiled (συντεταγμένα) by him. And he says in addition, \"Now these things are credible to believers.\" And he says that, \"when the traitor Judas did not give credit to them, and put the question, 'How then can things about to bring forth so abundantly be wrought by the Lord.' the Lord declared, 'They who shall come to these [times] shall see.' \" When prophesying of these times, therefore, Esaias says: \"The wolf also shall feed with the lamb, and the leopard shall take his rest with the kid; the calf also, and the bull, and the lion shall eat together; and a little boy shall lead them. The ox and the bear shall feed together, and their young ones shall agree together; and the lion shall eat straw as well as the ox. And the infant boy shall thrust his hand into the asp's den, into the nest also of the adder's brood; and they shall do no harm, nor have power to hurt anything in my holy mountain.\" And again he says, in recapitulation, \"Wolves and lambs shall then browse together, and the lion shall eat straw like the ox, and the serpent earth as if it were bread; and they shall neither hurt nor annoy anything in my holy mountain, says the Lord.\" [Isaiah 40:6, etc.] I am quite aware that some persons endeavour to refer these words to the case of savage men, both of different nations and various habits, who come to believe, and when they have believed, act in harmony with the righteous. But although this is [true] now with regard to some men coming from various nations to the harmony of the faith, nevertheless in the resurrection of the just [the words shall also apply] to those animals mentioned. For God is rich in all things. And it is right that when the creation is restored, all the animals should obey and be in subjection to man, and revert to the food originally given by God (for they had been originally subjected in obedience to Adam), that is, the productions of the earth. But some other occasion, and not the present, is [to be sought] for showing that the lion shall [then] feed on straw. And this indicates the large size and rich quality of the fruits. For if that animal, the lion, feeds upon straw [at that period], of what a quality must the wheat itself be whose straw shall serve as suitable food for lions?",
+    "source_title": "Against Heresies (Book V, Chapter 33), Sections 3-4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.7.10-17.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 7:10-17",
+     "osis": [
+      "Isa.7.10"
+     ]
+    },
+    "quote": "For the one and the same Spirit of God, who proclaimed by the prophets what and of what sort the advent of the Lord should be, did by these elders give a just interpretation of what had been truly prophesied; and He did Himself, by the apostles, announce that the fulness of the times of the adoption had arrived, that the kingdom of heaven had drawn nigh, and that He was dwelling within those that believe on Him who was born Emmanuel of the Virgin. To this effect they testify, [saying,] that before Joseph had come together with Mary, while she therefore remained in virginity, \"she was found with child of the Holy Ghost;\" [Matthew 1:18] and that the angel Gabriel said unto her, \"The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee; therefore also that holy thing which shall be born of thee shall be called the Son of God;\" [Luke 1:35] and that the angel said to Joseph in a dream, \"Now this was done, that it might be fulfilled which was spoken by Isaiah the prophet, Behold, a virgin shall be with child.\" [Matthew 1:23] But the elders have thus interpreted what Esaias said: \"And the Lord, moreover, said unto Ahaz, Ask for thyself a sign from the Lord thy God out of the depth below, or from the height above. And Ahaz said, I will not ask, and I will not tempt the Lord. And he said, It is not a small thing for you to weary men; and how does the Lord weary them? Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son; and ye shall call His name Emmanuel. Butter and honey shall He eat: before He knows or chooses out things that are evil, He shall exchange them for what is good; for before the child knows good or evil, He shall not consent to evil, that He may choose that which is good.\" [Isaiah 7:10-17] Carefully, then, has the Holy Ghost pointed out, by what has been said, His birth from a virgin, and His essence, that He is God (for the name Emmanuel indicates this). And He shows that He is a man, when He says, \"Butter and honey shall He eat;\" and in that He terms Him a child also, [in saying,] \"before He knows good and evil;\" for these are all the tokens of a human infant. But that He \"will not consent to evil, that He may choose that which is good,\"— this is proper to God; that by the fact, that He shall eat butter and honey, we should not understand that He is a mere man only, nor, on the other hand, from the name Emmanuel, should suspect Him to be God without flesh.",
+    "source_title": "Against Heresies (Book III, Chapter 21), Section 4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.7.11.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 7:11",
+     "osis": [
+      "Isa.7.11"
+     ]
+    },
+    "quote": "But what Isaiah said, \"From the height above, or from the depth beneath,\" was meant to indicate, that \"He who descended was the same also who ascended.\" But in this that he said, \"The Lord Himself shall give you a sign,\" he declared an unlooked-for thing with regard to His generation, which could have been accomplished in no other way than by God the Lord of all, God Himself giving a sign in the house of David. For what great thing or what sign should have been in this, that a young woman conceiving by a man should bring forth,-a thing which happens to all women that produce offspring? But since an unlooked-for salvation was to be provided for men through the help of God, so also was the unlooked-for birth from a virgin accomplished; God giving this sign, but man not working it out.",
+    "source_title": "Against Heresies (Book III, Chapter 21), Section 6",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   },
+   {
+    "entry_id": "irenaeus.Isa.7.13-14.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Isaiah 7:13-14",
+     "osis": [
+      "Isa.7.13"
+     ]
+    },
+    "quote": "And when He says, \"Hear, O house of David,\" [Isaiah 7:13] He performed the part of one indicating that He whom God promised David that He would raise up from the fruit of his belly (ventris) an eternal King, is the same who was born of the Virgin, herself of the lineage of David. For on this account also, He promised that the King should be \"of the fruit of his belly,\" which was the appropriate [term to use with respect] to a virgin conceiving, and not \"of the fruit of his loins,\" nor \"of the fruit of his reins,\" which expression is appropriate to a generating man, and a woman conceiving by a man. In this promise, therefore, the Scripture excluded all virile influence; yet it certainly is not mentioned that He who was born was not from the will of man. But it has fixed and established \"the fruit of the belly,\" that it might declare the generation of Him who should be [born] from the Virgin, as Elisabeth testified when filled with the Holy Ghost, saying to Mary, \"Blessed art thou among women, and blessed is the fruit of thy belly;\" [Luke 1:42] the Holy Ghost pointing out to those willing to hear, that the promise which God had made, of raising up a King from the fruit of [David's] belly, was fulfilled in the birth from the Virgin, that is, from Mary. Let those, therefore, who alter the passage of Isaiah thus, \"Behold, a young woman shall conceive,\" and who will have Him to be Joseph's son, also alter the form of the promise which was given to David, when God promised him to raise up, from the fruit of his belly, the horn of Christ the King. But they did not understand, otherwise they would have presumed to alter even this passage also.",
+    "source_title": "Against Heresies (Book III, Chapter 21), Section 5",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   }
+  ],
+  "Jer": [
+   {
+    "entry_id": "irenaeus.Jer.15.9.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 15:9",
+     "osis": [
+      "Jer.15.9"
+     ]
+    },
+    "quote": "\"In that day, saith the Lord, the sun shall go down at noon, and there shall be darkness over the earth in the clear day; and I will turn your feast days into mourning, and all your songs into lamentation,\" plainly announced that obscuration of the sun which at the time of His crucifixion took place from the sixth hour onwards, and that after this event, those days which were their festivals according to the law, and their songs, should be changed into grief and lamentation when they were handed over to the Gentiles. Jeremiah, too, makes this point still clearer, when he thus speaks concerning Jerusalem: \"She that hath born [seven] languisheth; her soul hath become weary; her sun hath gone down while it was yet noon; she hath been confounded, and suffered reproach: the remainder of them will I give to the sword in the sight of their enemies.\" Those of them, again, who spoke of His having slumbered and taken sleep, and of His having risen again because the Lord sustained Him, and who enjoined the principalities of heaven to set open the everlasting doors, that the King of glory might go in, proclaimed beforehand His resurrection from the dead through the Father's power, and His reception into heaven.",
+    "source_title": "AGAINST HERESIES 4:33.12-13",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.17.9.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:9",
+     "osis": [
+      "Jer.17.9"
+     ]
+    },
+    "quote": "For this reason [it is, said], \"Who shall declare His generation?\" since \"He is a man, and who shall recognise Him?\" But he to whom the Father which is in heaven has revealed Him, knows Him, so that he understands that He who \"was not born either by the will of the flesh, or by the will of man,\" is the Son of man, this is Christ, the Son of the living God. For I have shown from the Scriptures, that no one of the sons of Adam is as to everything, and absolutely, called God, or named Lord. But that He is Himself in His own right, beyond all men who ever lived, God, and Lord, and King Eternal, and the Incarnate Word, proclaimed by all the prophets, the apostles, and by the Spirit Himself, may be seen by all who have attained to even a small portion of the truth. Now, the Scriptures would not have testified these things of Him, if, like others, He had been a mere man. But that He had, beyond all others, in Himself that pre-eminent birth which is from the Most High Father, and also experienced that pre-eminent generation which is from the Virgin, the divine Scriptures do in both respects testify of Him: also, that He was a man without comeliness, and liable to suffering; that He sat upon the foal of an ass; that He received for drink, vinegar and gall; that He was despised among the people, and humbled Himself even to death and that He is the holy Lord, the Wonderful, the Counsellor, the Beautiful in appearance, and the Mighty God, coming on the clouds as the Judge of all men;—all these things did the Scriptures prophesy of Him.",
+    "source_title": "AGAINST HERESIES 3:19.2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.1.5.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:5",
+     "osis": [
+      "Jer.1.5"
+     ]
+    },
+    "quote": "Now, that the Word of God forms us in the womb, He says to Jeremiah, \"Before I formed thee in the womb, I knew thee; and before thou wentest forth from the belly, I sanctified thee, and appointed thee a prophet among the nations.\" And Paul, too, says in like manner, \"But when it pleased God, who separated me from my mother's womb, that I might declare Him among the nations.\" As, therefore, we are by the Word formed in the womb, this very same Word formed the visual power in him who had been blind from his birth; showing openly who it is that fashions us in secret, since the Word Himself had been made manifest to men: and declaring the original formation of Adam, and the manner in which he was created, and by what hand he was fashioned, indicating the whole from a part. For the Lord who formed the visual powers is He who made the whole man, carrying out the will of the Father.",
+    "source_title": "AGAINST HERESIES 5:15.3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.23.7-8.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 23:7-8",
+     "osis": [
+      "Jer.23.7"
+     ]
+    },
+    "quote": "Now I have shown a short time ago that the church is the seed of Abraham; and for this reason, that we may know that He who in the New Testament \"raises up from the stones children unto Abraham,\" is He who will gather, according to the Old Testament, those that shall be saved from all the nations, Jeremiah says: \"Behold, the days come, saith the Lord, that they shall no more say, The Lord liveth, who led the children of Israel from the north, and from every region whither they had been driven; He will restore them to their own land which He gave to their fathers.\"",
+    "source_title": "AGAINST HERESIES 5:34.1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.2.12.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:12",
+     "osis": [
+      "Jer.2.12"
+     ]
+    },
+    "quote": "For where the Church is, there is the Spirit of God; and where the Spirit of God is, there is the Church, and every kind of grace; but the Spirit is truth. Those, therefore, who do not partake of Him, are neither nourished into life from the mother's breasts, nor do they enjoy that most limpid fountain which issues from the body of Christ; but they dig for themselves broken cisterns out of earthly trenches, and drink putrid water out of the mire, fleeing from the faith of the Church lest they be convicted; and rejecting the Spirit, that they may not be instructed.",
+    "source_title": "AGAINST HERESIES 3:24.1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.2.19.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:19",
+     "osis": [
+      "Jer.2.19"
+     ]
+    },
+    "quote": "The Lord has therefore endured all these things on our behalf, in order that we, having been instructed by means of them all, may be in all respects circumspect for the time to come, and that, having been rationally taught to love God, we may continue in His perfect love: for God has displayed long-suffering in the case of man's apostasy; while man has been instructed by means of it, as also the prophet says, \"Thine own apostasy shall heal thee;\" God thus determining all things beforehand for the bringing of man to perfection, for his edification, and for the revelation of His dispensations, that goodness may both be made apparent, and righteousness perfected, and that the Church may be fashioned after the image of His Son, and that man may finally be brought to maturity at some future time, becoming ripe through such privileges to see and comprehend God.",
+    "source_title": "AGAINST HERESIES 4:37.7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.31.31.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 31:31",
+     "osis": [
+      "Jer.31.31"
+     ]
+    },
+    "quote": "All things therefore are of one and the same substance, that is, from one and the same God; as also the Lord says to the disciples \"Therefore every scribe, which is instructed unto the kingdom of heaven, is like unto a man that is an householder, which bringeth forth out of his treasure things new and old.\" He did not teach that he who brought forth the old was one, and he that brought forth the new, another; but that they were one and the same. For the Lord is the good man of the house, who rules the entire house of His Father; and who delivers a law suited both for slaves and those who are as yet undisciplined; and gives fitting precepts to those that are free, and have been justified by faith, as well as throws His own inheritance open to those that are sons. And He called His disciples \"scribes\" and \"teachers of the kingdom of heaven;\" of whom also He elsewhere says to the Jews: \"Behold, I send unto you wise men, and scribes, and teachers; and some of them ye shall kill, and persecute from city to city.\" Now, without contradiction, He means by those things which are brought forth from the treasure new and old, the two covenants; the old, that giving of the law which took place formerly; and He points out as the new, that manner of life required by the Gospel, of which David says, \"Sing unto the Lord a new song;\" and Esaias, \"Sing unto the Lord a new hymn. His beginning, His name is glorified from the height of the earth: they declare His powers in the isles.\" And Jeremiah says: \"Behold, I will make a new covenant, not as I made with your fathers\" in Mount Horeb. But one and the same householder produced both covenants, the Word of God, our Lord Jesus Christ, who spake with both Abraham and Moses, and who has restored us anew to liberty, and has multiplied that grace which is from Himself.",
+    "source_title": "AGAINST HERESIES 4:9.1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.35.15.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 35:15",
+     "osis": [
+      "Jer.35.15"
+     ]
+    },
+    "quote": "Now, by these words of His, does the Lord clearly show all these points, that there is one King and Lord, the Father of all, of whom He had previously said, \"Neither shalt thou swear by Jerusalem, for it is the city of the great King;\" and that He had from the beginning prepared the marriage for His Son, and used, with the utmost kindness, to call, by the instrumentality of His servants, the men of the former dispensation to the wedding feast; and when they would not obey, He still invited them by sending out other servants, yet that even then they did not obey Him, but even stoned and slew those who brought them the message of invitation. He accordingly sent forth His armies and destroyed them, and burned down their city; but He called together from all the highways, that is, from all nations, guests to the marriage feast of His Son, as also He says by Jeremiah: \"I have sent also unto you my servants the prophets to say, Return ye now, every man, from his very evil way, and amend your doings.\" And again He says by the same prophet: \"I have also sent unto you my servants the prophets throughout the day and before the light; yet they did not obey me, nor incline their ears unto me. And thou shall speak this word to them: This is a people that obeyeth not the voice of the Lord, nor receiveth correction; faith has perished from their mouth.\" The Lord, therefore, who has called us everywhere by the apostles, is He who called those of old by the prophets, as appears by the words of the Lord; and although they preached to various nations, the prophets were not from one God, and the apostles from another; but, proceeding from one and the same, some of them announced the Lord, others preached the Father, and others again foretold the advent of the Son of God, while yet others declared Him as already present to those who then were afar off.",
+    "source_title": "AGAINST HERESIES 4:36.5",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.4.22.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 4:22",
+     "osis": [
+      "Jer.4.22"
+     ]
+    },
+    "quote": "And therefore the scribes and Pharisees, too, who from the times of the law had begun to despise God, did not receive His Word, that is, they did not believe on Christ. Of these Esaias says: \"Thy princes are rebellious, companions of thieves, loving gifts, following after rewards, not judging the fatherless, and negligent of the cause of the widows.\" And Jeremiah, in like manner: \"They,\" he says, \"who rule my people did not know me; they are senseless and imprudent children; they are wise to do evil, but to do well they have no knowledge.\"",
+    "source_title": "AGAINST HERESIES 4:2.6",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.5.8.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:8",
+     "osis": [
+      "Jer.5.8"
+     ]
+    },
+    "quote": "Those who do indeed reject the Spirit's counsel, and are the slaves of fleshly lusts, and lead lives contrary to reason, and who, without restraint, plunge headlong into their own desires, having no longing after the Divine Spirit, do live after the manner of swine and of dogs; these men does the apostle very properly term \"carnal,\" because they have no thought of anything else except carnal things. For the same reason, too, do the prophets compare them to irrational animals, on account of the irrationality of their conduct, saying, \"They have become as horses raging for the females; each one of them neighing after his neighbour's wife.\" And again, \"Man, when he was in honour, was made like unto cattle.\" This denotes that, for his own fault, he is likened to cattle, by rivalling their irrational life. And we also, as the custom is, do designate men of this stamp as cattle and irrational beasts.",
+    "source_title": "AGAINST HERESIES 5:8.2-3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.6.20.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 6:20",
+     "osis": [
+      "Jer.6.20"
+     ]
+    },
+    "quote": "For it was not because He was angry, like a man, as many venture to say, that He rejected their sacrifices; but out of compassion to their blindness, and with the view of suggesting to them the true sacrifice, by offering which they shall appease God, that they may receive life from Him. As He elsewhere declares: \"The sacrifice to God is an afflicted heart: a sweet savour to God is a heart glorifying Him who formed it.\" For if, when angry, He had repudiated these sacrifices of theirs, as if they were persons unworthy to obtain His compassion, He would not certainly have urged these same things upon them as those by which they might be saved. But inasmuch as God is merciful, He did not cut them off from good counsel. For after He had said by Jeremiah, \"To what purpose bring ye Me incense from Saba, and cinnamon from a far country? Your whole burnt-offerings and sacrifices are not acceptable to Me;\" He proceeds: \"Hear the word of the Lord, all Judah. These things saith the Lord, the God of Israel, Make straight your ways and your doings, and I will establish you in this place. Put not your trust in lying words, for they will not at all profit you, saying, The temple of the Lord, The temple of the Lord, it is here.\"",
+    "source_title": "AGAINST HERESIES 4:17.2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.6.30.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 6:30",
+     "osis": [
+      "Jer.6.30"
+     ]
+    },
+    "quote": "And again in like manner does Jeremiah speak: \"I set watchmen over you; hearken to the sound of the trumpet; and they said, We will not hearken. Therefore have the Gentiles heard, and they who feed the flocks in them.\" It is therefore one and the same Father who planted the vineyard, who led forth the people, who sent the prophets, who sent His own Son, and who gave the vineyard to those other husbandmen that render the fruits in their season.",
+    "source_title": "AGAINST HERESIES 4:36.2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.7.1-6.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 7:1-6",
+     "osis": [
+      "Jer.7.1"
+     ]
+    },
+    "quote": "And thus did He send prophets prior to the transmigration to Babylon, and after that event others again in greater number than the former, to seek the fruits, saying thus to them (the Jews): \"Thus saith the Lord, Cleanse your ways and your doings, execute just judgment, and look each one with pity and compassion on his brother: oppress not the widow nor the orphan, the proselyte nor the poor, and let none of you treasure up evil against his brother in your hearts, and love not false swearing. Wash you, make you clean, put away evil from your hearts, learn to do well, seek judgment, protect the oppressed, judge the fatherless, plead for the widow; and come, let us reason together, saith the Lord.\" And again: \"Keep thy tongue from evil, and thy lips that they speak no guile; depart from evil, and do good; seek peace, and pursue it.\" In preaching these things, the prophets sought the fruits of righteousness.",
+    "source_title": "AGAINST HERESIES 4:36.2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Jer.7.29-30.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jeremiah 7:29-30",
+     "osis": [
+      "Jer.7.29"
+     ]
+    },
+    "quote": "But last of all He sent to those unbelievers His own Son, our Lord Jesus Christ, whom the wicked husbandmen cast out of the vineyard when they had slain Him. Wherefore the Lord God did even give it up (no longer hedged around, but thrown open throughout all the world) to other husbandmen, who render the fruits in their seasons—the beautiful elect tower being also raised everywhere. For the illustrious Church is [now] everywhere, and everywhere is the winepress digged: because those who do receive the Spirit are everywhere. For inasmuch as the former have rejected the Son of God, and cast Him out of the vineyard when they slew Him, God has justly rejected them, and given to the Gentiles outside the vineyard the fruits of its cultivation. This is in accordance with what Jeremiah says, \"The Lord hath rejected and cast off the nation which does these things; for the children of Judah have done evil in my sight, saith the Lord.\"",
+    "source_title": "AGAINST HERESIES 4:36.2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   }
+  ],
+  "Jonah": [
+   {
+    "entry_id": "irenaeus.Jonah.2.10.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jonah 2:10",
+     "osis": [
+      "Jonah.2.10"
+     ]
+    },
+    "quote": "If, however, any one imagine it impossible that men should survive for such a length of time, and that Elias was not caught up in the flesh, but that his flesh was consumed in the fiery chariot, let him consider that Jonah, when he had been cast into the deep, and swallowed down into the whale's belly, was by the command of God again thrown out safe upon the land.",
+    "source_title": "Against Heresies Book V",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   },
+   {
+    "entry_id": "irenaeus.Jonah.2.5.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Jonah 2:5",
+     "osis": [
+      "Jonah.2.5"
+     ]
+    },
+    "quote": "If, however, any one imagine it impossible that men should survive for such a length of time, and that Elias was not caught up in the flesh, but that his flesh was consumed in the fiery chariot, let him consider that Jonah, when he had been cast into the deep, and swallowed down into the whale's belly, was by the command of God again thrown out safe upon the land. And then, again, when Ananias, Azarias, and Misael were cast into the furnace of fire sevenfold heated, they sustained no harm whatever, neither was the smell of fire perceived upon them. As, therefore, the hand of God was present with them, working out marvellous things in their case-[things] impossible [to be accomplished] by man's nature-what wonder was it, if also in the case of those who were translated it performed something wonderful, working in obedience to the will of God, even the Father? Now this is the Son of God, as the Scripture represents Nebuchadnezzar the king as having said, \"Did not we cast three men bound into the furnace? and, lo, I do see four walking in the midst of the fire, and the fourth is like the Son of God.\" Neither the nature of any created thing, therefore, nor the weakness of the flesh, can prevail against the will of God. For God is not subject to created things, but created things to God; and all things yield obedience to His will. Wherefore also the Lord declares, \"The things which are impossible with men, are possible with God.\"",
+    "source_title": "Against Heresies Book V",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25205.html"
+   }
+  ],
+  "Mal": [
+   {
+    "entry_id": "irenaeus.Mal.2.10.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Malachi 2:10",
+     "osis": [
+      "Mal.2.10"
+     ]
+    },
+    "quote": "Truly, then, the Scripture declared, which says, \"First of all believe that there is one God, who has established all things, and completed them, and having caused that from what had no being, all things should come into existence:\" He who contains all things, and is Himself contained by no one. Rightly also has Malachi said among the prophets: \"Is it not one God who hath established us? Have we not all one Father?\" In accordance with this, too, does the apostle say, \"There is one God, the Father, who is above all, and in us all.\" Likewise does the Lord also say: \"All things are delivered to Me by My Father;\" manifestly by Him who made all things; for He did not deliver to Him the things of another, but His own. But in all things [it is implied that] nothing has been kept back [from Him], and for this reason the same person is the Judge of the living and the dead; \"having the key of David: He shall Open, and no man shall shut: He shall shut, and no man shall open.\" For no one was able, either in heaven or in earth, or under the earth, to open the book of the Father, or to behold Him, with the exception of the Lamb who was slain, and who redeemed us with His own blood, receiving power over all things from the same God who made all things by the Word, and adorned them by [His] Wisdom, when \"the Word was made flesh;\" that even as the Word of God had the sovereignty in the heavens, so also might He have the sovereignty in earth, inasmuch as [He was] a righteous man, \"who did no sin, neither was there found guile in His mouth;\" and that He might have the pre-eminence over those things which are under the earth, He Himself being made \"the first-begotten of the dead;\" and that all things, as I have already said, might behold their King; and that the paternal light might meet with and rest upon the flesh of our Lord, and come to us from His resplendent flesh, and that thus man might attain to immortality, having been invested with the paternal light.",
+    "source_title": "AGAINST HERESIES 4:20.2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Mal.3.1.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Malachi 3:1",
+     "osis": [
+      "Mal.3.1"
+     ]
+    },
+    "quote": "And that we may not have to ask, Of what God was the Word made flesh? he does himself previously teach us, saying, \"There was a man sent from God, whose name was John. The same came as a witness, that he might bear witness of that Light. He was not that Light, but [came] that he might testify of the Light.\" By what God, then, was John, the forerunner, who testifies of the Light, sent [into the world]? Truly it was by Him, of whom Gabriel is the angel, who also announced the glad tidings of his birth: [that God] who also had promised by the prophets that He would send His messenger before the face of His Son, who should prepare His way, that is, that he should bear witness of that Light in the spirit and power of Elias. But, again, of what God was Elias the servant and the prophet? Of Him who made heaven and earth, as he does himself confess. John, therefore, having been sent by the founder and maker of this world, how could he testify of that Light, which came down from things unspeakable and invisible? For all the heretics have decided that the Demiurge was ignorant of that Power above him, whose witness and herald John is found to be. Wherefore the Lord said that He deemed him \"more than a prophet.\" For all the other prophets preached the advent of the paternal Light, and desired to be worthy of seeing Him whom they preached; but John did both announce [the advent] beforehand, in a like manner as did the others, and actually saw Him when He came, and pointed Him out, and persuaded many to believe on Him, so that he did himself hold the place of both prophet and apostle. For this is to be more than a prophet, because, \"first apostles, secondarily prophets;\" but all things from one and the same God Himself.",
+    "source_title": "AGAINST HERESIES 3:11.4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
+   }
+  ],
+  "Zech": [
+   {
+    "entry_id": "irenaeus.Zech.7.10.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Zechariah 7:10",
+     "osis": [
+      "Zech.7.10"
+     ]
+    },
+    "quote": "And Zechariah also, among the twelve prophets, pointing out to the people the will of God, says: \"These things does the Lord Omnipotent declare: Execute true judgment, and show mercy and compassion each one to his brother. And oppress not the widow, and the orphan, and the proselyte, and the poor; and let none imagine evil against your brother in his heart.\" And again, he says: \"These are the words which ye shall utter. Speak ye the truth every man to his neighbour, and execute peaceful judgment in your gates, and let none of you imagine evil in his heart against his brother, and ye shall not love false swearing: for all these things I hate, saith the Lord Almighty.\" Moreover, David also says in like manner: \"What man is there who desireth life, and would fain see good days? Keep thy tongue from evil, and thy lips that they speak no guile. Shun evil, and do good: seek peace, and pursue it.\" From all these it is evident that God did not seek sacrifices and holocausts from them, but faith, and obedience, and righteousness, because of their salvation.",
+    "source_title": "Against Heresies Book IV",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   },
+   {
+    "entry_id": "irenaeus.Zech.9.9.0",
+    "author": "Irenaeus",
+    "anchor_ref": {
+     "raw": "Zechariah 9:9",
+     "osis": [
+      "Zech.9.9"
+     ]
+    },
+    "quote": "A spiritual disciple of this sort truly receiving the Spirit of God, who was from the beginning, in all the dispensations of God, present with mankind, and announced things future, revealed things present, and narrated things past-[such a man] does indeed \"judge all men, but is himself judged by no man.\" For he judges the Gentiles, \"who serve the creature more than the Creator,\" and with a reprobate mind spend all their labour on vanity. And he also judges the Jews, who do not accept of the word of liberty, nor are willing to go forth free, although they have a Deliverer present [with them]; but they pretend, at a time unsuitable [for such conduct], to serve, [with observances] beyond [those required by] the law, God who stands in need of nothing, and do not recognise the advent of Christ, which He accomplished for the salvation of men, nor are willing to understand that all the prophets announced His two advents: the one, indeed, in which He became a man subject to stripes, and knowing what it is to bear infirmity, and sat upon the foal of an ass, and was a stone rejected by the builders, and was led as a sheep to the slaughter, and by the stretching forth of His hands destroyed Amalek; while He gathered from the ends of the earth into His Father's fold the children who were scattered abroad, and remembered His own dead ones who had formerly fallen asleep, and came down to them that He might deliver them: but the second in which He will come on the clouds, bringing on the day which burns as a furnace, and smiting the earth with the word of His mouth, and slaying the impious with the breath of His lips, and having a fan in His hands, and cleansing His floor, and gathering the wheat indeed into His barn, but burning the chaff with unquenchable fire.",
+    "source_title": "Against Heresies Book IV",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25204.html"
+   }
+  ]
+ }
+}

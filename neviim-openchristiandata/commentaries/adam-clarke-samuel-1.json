@@ -1,0 +1,1023 @@
+{
+ "meta": {
+  "id": "adam-clarke",
+  "title": "Adam Clarke Bible Commentary",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "schema_type": "commentary",
+  "source_url": "https://bible.helloao.org/api/c/adam-clarke/1SA/",
+  "source_format": "JSON (HelloAO Bible API)",
+  "book_scope": "Doar capitolele relevante Haftarot: 1,2,11,12,15,20",
+  "download_date": "2026-09-19",
+  "notes": "Extras restrans (nu cartea completa) - doar capitolele folosite de Haftarot catalogate."
+ },
+ "data": [
+  {
+   "entry_id": "adam-clarke.1SA.1.1",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "1",
+   "commentary_text": "Ramathaim-zophim - Literally, the two high places of the watchman; these were, no doubt, two contiguous hills, on which watchtowers were built, and in which watchmen kept continual guard for the safety of the country and which afterwards gave name to the place. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.2",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "2",
+   "commentary_text": "He had two wives - The custom of those times permitted polygamy; but wherever there was more than one wife, we find the peace of the family greatly disturbed by it.\nThe name of the one was Hannah - חנה Channah, which signifies fixed or settled, and the other פננה Peninnah, which signifies a jewel or pearl. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.3",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "3",
+   "commentary_text": "Went up out of his city yearly to worship - As the ark was at Shiloh, there was the temple of God, and thither all the males were bound by the law to go once a year, on each of the great national festivals: viz., the passover, pentecost, and feast of tabernacles.\nThe Lord of hosts - יהוה צבאות Yehovah tsebaoth, Jehovah of armies. As all the heavenly bodies were called the hosts of heaven, צבא השמים tseba hashshamayim, Jehovah being called Lord of this host showed that he was their Maker and Governor; and consequently He, not they, was the proper object of religious worship. The sun, moon, planets, and stars, were the highest objects of religious worship to the heathens in general. The Jewish religion, teaching the knowledge of a Being who was the Lord of all these, showed at once its superiority to all that heathenism could boast. This is the first place where Lord of hosts is mentioned in the Bible; and this is so much in the style of the prophets Isaiah, Jeremiah, etc., that it gives some weight to the supposition that this book was written by a person who lived in or after the times of these prophets. See the preface. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.4",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "4",
+   "commentary_text": "He gave - portions - The sacrifices which were made were probably peace-offerings, of which the blood was poured out at the foot of the altar; the fat was burnt on the fire; the breast and right shoulder were the portion of the priest, and the rest belonged to him who made the offering; on it he and his family feasted, each receiving his portion; and to these feasts God commands them to invite the Levite, the poor, the widow, and the orphan, Deu 16:11. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.5",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "5",
+   "commentary_text": "Unto Hannah he gave a worthy portion - The Hebrew here is very obscure, יתן מנה אחת אפים yitten manah achath appayim; he gave her one portion of two faces; which the Syriac renders, he gave her one Double Part; and the Chaldee, he gave her one Chosen part; the Arabic is nearly the same; the Vulgate Annae autem dedit unam partem tristis, but to Anna he being sorrowful gave one part. As the shew-bread that was presented to the Lord was called לחם פנים lechem panim, the bread of faces, because it was placed before the face or appearances of the Lord; probably this was called מנה אפים manah appayim, because it was the portion that belonged to, or was placed before, the person who had offered the sacrifice. On this ground it might be said that Elkanah gave Hannah his own portion or a part of that which was placed before himself. Whatever it was, it was intended as a proof of his especial love to her; for, it is added, he loved Hannah. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.6",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "6",
+   "commentary_text": "And her adversary - That is, Peninnah.\nProvoked her sore - Was constantly striving to irritate and vex her, to make her fret - to make her discontented with her lot, because the Lord had denied her children. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.7",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "7",
+   "commentary_text": "And as he did so year by year - As the whole family went up to Shiloh to the annual festivals, Peninnah had both sons and daughters to accompany her, Sa1 1:4, but Hannah had none; and Peninnah took this opportunity particularly to twit Hannah with her barrenness, by making an ostentatious exhibition of her children.\nTherefore she wept - She was greatly distressed, because it was a great reproach to a woman among the Jews to be barren; because, say some, every one hoped that the Messiah should spring from her line. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.8",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "8",
+   "commentary_text": "Am not I better to thee than ten sons? - Ten, a certain for an uncertain number. Is not my especial affection to thee better than all the comfort thou couldst gain, even from a numerous family? \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.9",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "9-10",
+   "commentary_text": "Eli - sat upon a seat - על הכסא al hakkisse, upon the throne, i.e., of judgment; for he was then judge of Israel.\nBy a post of the temple of the Lord - I think this is the first place where היכל יהוה heychal Yehovah, \"temple of Jehovah,\" is mentioned. This gives room for a strong suspicion that the books of Samuel were not compiled till the first temple was built, or after the days of Solomon. After this the word temple is frequent in the books of Kings, Chronicles, and in the prophets. Perhaps those Psalms in which this word occurs were, like many others in the Psalms, not of David's composition; some of them were evidently made long after his time. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.11",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "11-12",
+   "commentary_text": "I will give him unto the Lord - Samuel, as a descendant of the house of Levi, was the Lord's property from twenty-five years of age till fifty; but the vow here implies that he should be consecrated to the Lord from his infancy to his death, and that he should not only act as a Levite, but as a Nazarite, on whose head no razor should pass. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.13",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "13-14",
+   "commentary_text": "Spake in her heart; only her lips moved - She prayed; her whole heart was engaged: and though she spake not with an audible voice, yet her lips formed themselves according to the pronunciation of the words which her heart uttered. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.15",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "15",
+   "commentary_text": "I have drunk neither wine nor strong drink - Neither wine nor inebriating drink has been poured out unto me; but I have poured out my soul unto the Lord. There is a great deal of delicacy and point in this vindication. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.16",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "16",
+   "commentary_text": "Count not thine handmaid for a daughter of Belial - אל תתן את אמתך לפני בת בליעל al titten eth amathecha liphney bath Beliyael; 'Put not thy handmaiden before the faces of a daughter of Belial.\" \"If I am a drunkard, and strive by the most execrable hypocrisy (praying in the house of God) to cover my iniquity, then I am the chief of the daughters of Belial.\" Or, \"Give not thy handmaid (to reproach) before the faces of the daughters of Belial.\" Several of these probably attended there for the purposes of prostitution and gain; for it is said, Sa1 2:22, that Eli's sons lay with the women at the door of the tabernacle, though this may refer to the women who kept the door. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.17",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "17",
+   "commentary_text": "Grant thee thy petition - He was satisfied he had formed a wrong judgment, and by it had added to the distress of one already sufficiently distressed.\nThe fact that Eli supposed her to be drunken, and the other of the conduct of Eli's sons already mentioned, prove that religion was at this time at a very low ebb in Shiloh; for it seems drunken women did come to the place, and lewd women were to be found there. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.18",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "18-19",
+   "commentary_text": "Let thine handmaid find grace - Continue to think favorably of me, and to pray for me. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.20",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "20",
+   "commentary_text": "Called his name Samuel - As she gave this name to her son because she had asked him of the Lord, the word שמואל Shemuel must be here considerably contracted; if it express this sentiment, the component parts of it are the following: שאול מאל shaul meEl, \"asked of God.\" This name would put both the mother and the son in continual remembrance of the Divine interposition at his birth. See on Sa1 1:28 (note). \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.21",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "21-22",
+   "commentary_text": "The man Elkanah and all his house - He and the whole of his family, Hannah and her child excepted, who purposed not to go up to Shiloh till her son was old enough to be employed in the Divine service.\nAnd his vow - Probably he had also made some vow to the Lord on the occasion of his wife's prayer and vow; in which, from his love to her. he could not be less interested than herself. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.23",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "23",
+   "commentary_text": "Until thou have weaned him - On the nature of this weaning, and the time in which it was usually done, the reader will be pleased to refer to the note on Gen 21:8.\nThe Lord establish his word - Or, may the Lord establish his word - preserve the child, cause him to grow up, and make him a blessing to Israel. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.24",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "24-25",
+   "commentary_text": "With three bullocks - The Septuagint, the Syriac, and the Arabic, read, a bullock of three years old; and this is probably correct, because we read, Sa1 1:25, that they slew את הפר eth happar, The bullock. We hear of no more, and we know that a bullock or heifer of three years old was ordinarily used, see Gen 15:9.\nOne ephah of flour - Seven gallons and a half.\nA bottle of wine - נבל יין nebel yayin, a skin full of wine. Their bottles for wine and fluids in general were made out of skins of goats, stripped off without being cut up; the places whence the legs were extracted sewed up, as also the lower part; and the top tied. She the notes on Gen 21:14, and Mat 9:17. These three things, the ox, the flour, and the wine, probably constituted the consecration-offering. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.26",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "26-27",
+   "commentary_text": "As thy soul liveth - As sure as thou art a living soul, so surely am I the person who stood by thee here praying. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.1.28",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 1,
+   "verse_range": "28+",
+   "commentary_text": "Therefore also I have lent him to the Lord - There is here a continual reference to her vow, and to the words which she used in making that vow.\nThe word Samuel, as we have already seen, is a contraction of the words שאול מאל Shaul meEl, that is, asked or lent of God; for his mother said, Sa1 1:27, The Lord hath given me my petition, which שאלתי Shaalti, I Asked of him. In Sa1 1:28 she says: הוא ששול ליהוה hu Shaul layhouah, he shall be Lent unto the Lord: here we find the verb is the same; and it is remarked by grammarians that שאל shaal, he asked, making in the participle pahul שאול shaul, Asked, in the conjugation hiphil signifies to lend; therefore, says his mother, Sa1 1:28, השאלתיהו ליהוה Hishiltihu layhovah, I have Lent him to the Lord. This twofold meaning of the Hebrew root is not only followed by our translators, but also by the Vulgate, Septuagint, and Syriac.\nAnd he worshipped the Lord there - Instead of וישתחו vaiyishtachu, He worshipped, וישתחוו vaiyishtachavu, and They worshipped, is the reading of six of Kennicott's and De Rossi's MSS., of some copies of the Septuagint, and of the Vulgate, Syriac, and Arabic.\nThis and the following chapter are connected in most copies of the Septuagint and Vulgate thus: And Anna worshipped, and said, My soul is strengthened in the Lord, etc. It is very likely that the whole passage, from the beginning of Sa1 1:26 to the end of Sa1 2:10 of the ensuing chapter, contains the words of Hannah alone; and that even the clause, He worshipped the Lord there, should be, And she worshipped the Lord there, and prayed, and said, etc. Indeed this latter clause is wanting in the Polyglot Septuagint, as I have stated above.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.1",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "1",
+   "commentary_text": "And Hannah prayed, and said - The Chaldee very properly says, And Hannah prayed in the spirit of prophecy; for indeed the whole of this prayer, or as it may be properly called oracular declaration, is a piece of regular prophecy, every part of it having respect to the future, and perhaps not a little - of it declaratory oil the Messiah's kingdom.\nDr. Hales has some very good observations on this prophetic song.\n\"This admirable hymn excels in simplicity of composition, closeness of connection, and uniformity of sentiment; breathing the pious effusions of a devout mind, deeply impressed with a conviction of God's mercies to herself in particular, and of his providential government of the world in general; exalting the poor in spirit or the humble-minded, and abasing the rich and the arrogant; rewarding the righteous, and punishing the wicked. Hannah was also a prophetess of the first class, besides predicting her own fruitfulness, Sa1 2:5, (for she bore six children in all, Sa1 2:21), she foretold not only the more immediate judgments of God upon the Philistines during her son's administration, Sa1 2:10, but his remoter judgments 'upon the ends of the earth,' Sa1 2:10, in the true spirit of the prophecies of Jacob, Balaam, and Moses. Like them, she describes the promised Savior of the world as a King, before there was any king in Israel; and she first applied to him the remarkable epithet Messiah in Hebrew, Christ in Greek, and Anointed in English, which was adopted by David, Nathan, Ethan, Isaiah, Daniel, and the succeeding prophets of the Old Testament; and by the apostles and inspired writers of the New. And the allusion thereto by Zacharias, the father of the Baptist, in his hymn, Luk 1:69, where he calls Christ a 'horn of salvation,' and the beautiful imitation of it by the blessed Virgin throughout in her hymn, Luk 1:46-55, furnishing the finest commentary thereon, clearly prove that Hannah in her rejoicing had respect to something higher than Peninnah her rival, or to the triumphs of Samuel, or even of David himself; the expressions are too magnificent and sublime to be confined to such objects. Indeed the learned rabbi, David Kimchi, was so struck with them that he ingenuously confessed that 'the King of whom Hannah speaks is the Messiah,' of whom she spake either by prophecy or tradition; for, continues he, 'there was a tradition among the Israelites, that a great zing should arise in Israel; and she seals up her song with celebrating this King who was to deliver them from all their enemies.' The tradition, as we have seen, was founded principally on Balaam's second and third prophecies, Num 24:7-17; and we cannot but admire that gracious dispensation of spiritual gifts to Hannah (whose name signifies grace) in ranking her among the prophets who should first unfold a leading title of the blessed Seed of the woman.\"\nIn the best MSS. the whole of this hymn is written in hemistich or poetic lines. I shall here produce it in this order, following the plan as exhibited in Kennicott's Bible, with some trifling alterations of our present version: - \nSa1 2:1. My heart exulteth in Jehovah; My horn is exalted in Jehovah. My mouth is incited over mine enemies, For I have rejoiced in thy salvation.\nSa1 2:2. There is none holy like Jehovah, For there is none besides thee; There is no rock like our God.\nSa1 2:3. Do not magnify yourselves, speak not proudly, proudly. Let not prevarication come out of your mouth; For the God of knowledge is Jehovah, And by him actions are directed.\nSa1 2:4. The bows of the heroes are broken, And the tottering are girded with strength.\nSa1 2:5. The full have hired out themselves for bread, And the famished cease for ever. The barren hath borne seven, And she who had many children is greatly enfeebled.\nSa1 2:6. Jehovah killeth, and maketh alive; He bringeth down to the grave, and bringeth up.\nSa1 2:7. Jehovah maketh poor, and maketh rich; He bringeth down, and he even exalteth.\nSa1 2:8. He lifteth up the poor from the dust; From the dunghill he exalteth the beggar, To make him sit with the nobles, And inherit the throne of glory. For to Jehovah belong the pillars of the earth, And upon them he hath placed the globe.\nSa1 2:9. The foot of his saints he shall keep, And the wicked shall be silent in darkness; For by strength shall no man prevail.\nSa1 2:10. Jehovah shall bruise them who contend with him; Upon them shall be thunder in the heavens. Jehovah shall judge the ends of the earth; And he shall give strength to his King. And shall exalt the horn of his Messiah.\nIt is not particularly stated here when Hannah composed or delivered this hymn; it appears from the connection to have been at the very time in which she dedicated her son to God at the tabernacle, though some think that she composed it immediately on the birth of Samuel. The former sentiment is probably the most correct.\nMine horn is exalted in the Lord - We have often seen that horn signifies power, might, and dominion. It is thus constantly used in the Bible, and was so used among the heathens. The following words of Horace to his jar are well known, and speak a sentiment very similar to that above: - \nTu spem reducis mentibus anxiis,\nViresque et addis Cornua pauperi.\nHor. Odar. lib. iii., Od. 21, v. 18.\nThou bringest back hope to desponding minds; And thou addest strength and horns to the poor man.\nParaphrastically expressed by Mr. Francis: - \n\"Hope, by thee, fair fugitive,\nBids the wretched strive to live.\nTo the beggar you dispense\nHeart and brow of confidence.\"\nIn which scarcely any thing of the meaning is preserved.\nMy mouth is enlarged - My faculty of speech is incited, stirred up, to express God's disapprobation against my adversaries. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.2",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "2",
+   "commentary_text": "None holy - Holiness is peculiar to the God of Israel; no false god ever pretended to holiness; it was no attribute of heathenism, nor of any religion ever professed in the world before or since the true revelation of the true God.\nThere is none beside thee - There can be but one unoriginated, infinite, and eternal Being; that Being is Jehovah.\nAny rock like our God - Rabbi Maimon has observed that the word צור tsur, which we translate rock, signifies, when applied to Jehovah, fountain, source, spring. There is no source whence continual help and salvation can arise but our God. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.3",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "3",
+   "commentary_text": "A God of knowledge - He is the most wise, teaching all good, and knowing all things.\nActions are weighed - נתכנו nithkenu, they are directed; it is by his counsel alone that we can successfully begin, continue, or end, any work. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.4",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "4",
+   "commentary_text": "The bows of the mighty - The Targum considers the first verse as including a prophecy against the Philistines; the second verse, against Sennacherib and his army; the third, against Nebuchadnezzar and the Chaldeans; the fourth, against the Greeks; the fifth, against Haman and his posterity; and the tenth, against Magog, and the enemies of the Messiah. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.5",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "5",
+   "commentary_text": "They that were full - All the things mentioned in these verses frequently happen in the course of the Divine providence; and indeed it is the particular providence of God that Hannah seems more especially to celebrate through the whole of this simple yet sublime ode. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.6",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "6",
+   "commentary_text": "The Lord killeth - God is the arbiter of life and death; he only can give life, and he only has a right to take it away.\nHe bringeth down to the grave - The Hebrew word שאול sheol, which we translate grave, seems to have the same meaning in the Old Testament with ἁδης, hades in the New, which is the word generally used by the Septuagint for the other. It means the grave, the state of the dead, and the invisible place, or place of separate spirits. Sometimes we translate it hell, which now means the state of perdition, or place of eternal torments; but as this comes from the Saxon, to cover or conceal, it means only the covered place. In some parts of England the word helling is used for the covers of a book, the slating of a house, etc. The Targum seems to understand it of death and the resurrection. \"He kills and commands to give life; he causes to descend into Sheol, that in the time to come he may bring them into the lives of eternity,\" i.e., the life of shame and everlasting contempt, and the life of glory. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.7",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "7",
+   "commentary_text": "The Lord maketh poor - For many cannot bear affluence, and if God should continue to trust them with riches, they would be their ruin.\nMaketh rich - Some he can trust, and therefore makes them stewards of his secular bounty. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.8",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "8",
+   "commentary_text": "To set them among princes - There have been many cases where, in the course of God's providence, a person has been raised from the lowest and most abject estate to the highest; from the plough to the imperial dignity: from the dungeon to the throne; from the dunghill to nobility. The story of Cincinnatus is well known; so is that of the patriarch Joseph; but there is one not less in point, that of Roushen Akhter, who was brought out of a dungeon, and exalted to the throne of Hindustan. On this circumstance the following elegant couplet was made: - \n\"He was a bright star, but now is become a moon,\nJoseph is taken from prison, and is become a king.\"\nThere is a play here on Roushen Akhter, which signifies a bright star; and there is an allusion to the history of the patriarch Joseph, because of the similarity of fortune between him and the Mohammedan prince.\nFor the pillars of the earth are the Lord's - He is almighty, and upholds all things by the word of his power. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.9",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "9",
+   "commentary_text": "He will keep the feet of his saints - He will order and direct all their goings, and keep them from every evil way.\nThe wicked shall be silent in darkness - The Targum understands this of their being sent to the darkness of hell; they shall be slain.\nBy strength shall no man prevail - Because God is omnipotent, and no power can be successfully exerted against him. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.10",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "10",
+   "commentary_text": "The adversaries of the Lord shall be broken - Those who contend with him, מריביו meribaiu, by sinning against his laws, opposing the progress of his word, or persecuting his people.\nShall judge the ends on the earth - His empire shall be extended over all mankind by the preaching of the everlasting Gospel, for to this the afterpart of the verse seems to apply: He shall give strength unto his king, and shall exalt the horn of his Christ, or, as the Targum says, וירבי מלכות משיחיה viribbey malcuth Meshicheyh, \"he shall multiply the kingdom of the Messiah.\" Here the horn means spiritual as well as secular dominion.\nAfter the clause, The adversaries of the Lord shall be broken to pieces, the Septuagint add the following words: Μη καυχασθω ὁ φρονιμος εν τῃ φρονησει αυτου, κ. τ. λ. Let not the wise man glory in his wisdom and let not the rich man glory in his riches; but let him who glorieth rather glory in this, that he understandeth and knoweth the Lord; and that he executeth judgment and righteousness in the midst of the earth. This is a very long addition, and appears to be taken from Jer 9:23, but on collating the two places the reader will find the words to be materially different. This clause is wanting in the Complutensian Polyglot, but it is in the edition of Aldus, in that of Cardinal Caroffa, and in the Codex Alexandrinus. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.11",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "11",
+   "commentary_text": "And Elkanah went to Ramah - Immediately after the 10th verse, the Septuagint add, Και κατελιπεν αυτον εκει ενωπιον Κυριου· και απηλθεν εις Αραματαια, And she left him there before the Lord, and went unto Arimathea. Thus the Septuagint suppose that the song of Hannah was composed when she brought Samuel to present him to the Lord; and as soon as she had completed this fine ode, she delivered him into the hands of Eli the high priest, and the child entered immediately on his ministration, under the direction and instructions of Eli. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.12",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "12",
+   "commentary_text": "The sons of Eli were sons of Belial - They were perverse, wicked, profligate men; devil's children. They knew not the Lord.\n\"They know! nor would an angel show Him; They would not know, nor choose to know Him.\"\nThese men were the principal cause of all the ungodliness of Israel. Their most execrable conduct, described Sa1 2:13-17, caused the people to abhor the Lord's offering. An impious priesthood is the grand cause of the transgressions and ruin of any nation; witness France, Germany, Spain, Ac., from 1792 to 1814. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.13",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "13",
+   "commentary_text": "When any man offered sacrifice - That is, when a peace-offering was brought, the right shoulder and the breast belonged to the priest, the fat was burnt upon the altar, and the blood was poured at the bottom of the altar; the rest of the flesh belonged to the offerer. Under pretense of taking only their own part, they took the best of all they chose, and as much as they chose. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.14",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "14",
+   "commentary_text": "Kettle - caldron, or pot - We know not what these were, nor of what capacity; nor is it of any consequence. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.15",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "15-16",
+   "commentary_text": "Before they burnt the fat - They would serve themselves before God was served! This was iniquity and arrogance of the first magnitude.\nHe will not have sodden flesh - He chooses roast meat, not boiled; and if they had it in the pot before the servant came, he took it out that it might be roasted. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.17",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "17",
+   "commentary_text": "Wherefore the sin of the young men was very great - That is, Hophni and Phinehas, the sons of Eli.\nMen abhorred the offering - As the people saw that the priests had no piety, and that they acted as if there was no God; they despised God's service, and became infidels.\nA national priesthood, when the foundation is right, may be a great blessing; but if the priesthood becomes corrupt, though the foundation itself stand sure, the corruption of the national manners will be the unavoidable consequence. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.18",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "18",
+   "commentary_text": "Girded with a linen ephod - This the Targum translates אסיר כרדוט דבוץ asir cardut debuts, \"Girded with a cardit of byssus, or fine linen.\" The word cardut they seem to have borrowed from the Greek χειριδωτος, a tunic, having χειριδας, i.e., sleeves that came down to, or covered, the hands. This was esteemed an effeminate garment among the Romans. See Buxtorf's Talmudic Lexicon. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.19",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "19",
+   "commentary_text": "Made him a little coat - מעיל קטן meil katon, a little cloak, or surtout, an upper garment: probably intended to keep him from the cold, and to save his other clothes from being abused in his meaner services. It is probable that she furnished him with a new one each year, when she came up to one of the annual sacrifices. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.20",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "20-21",
+   "commentary_text": "Eli blessed Elkanah - The natural place of this verse seems to be before the 11th; after which the 21st should come in; after the 21st, perhaps the 26th should come in. The subjects in this chapter seem very much entangled and confused by the wrong position of the verses. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.22",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "22",
+   "commentary_text": "They lay with the women that assembled - It is probable that these were persons who had some employment about the tabernacle. See the note on Exo 38:8, where the Hebrew text is similar to that in this place. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.23",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "23-24",
+   "commentary_text": "Why do ye such things! - Eli appears to have been a fondly affectionate, easy father, who wished his sons to do well, but did not bring them under proper discipline, and did not use his authority to restrain them. As judge, he had power to cast them immediately out of the vineyard, as wicked and unprofitable servants; this he did not, and his and their ruin was the consequence. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.25",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "25-26",
+   "commentary_text": "If one man sin against another - All differences between man and man may be settled by the proper judge; but if a man sin against the Supreme Judge, God himself, who shall reconcile him to his Maker? Your sin is immediately against God himself, and is the highest insult that can be offered, because it is in the matter of his own worship, therefore ye may expect his heaviest judgments.\nBut if a man sin against the Lord, who shall entreat for him? - This was a question of the most solemn importance under the old covenant, especially after the death of Moses, the mediator. The law had determined what sins should be punished with death; and it was supposed that there was not any appeal from the decision there pronounced. Jo1 2:1 is an answer to this question; but it is an answer which the Gospel alone can give: My little children, these things write I unto you, that ye sin not; but if any man sin, we have an Advocate with the Father, Jesus Christ the righteous.\nBecause the Lord would slay them - The particle כי ki, which we translate because, and thus make their continuance in sin the effect of God's determination to destroy them, should be translated therefore, as it means in many parts of the sacred writings. See Noldius's Particles, where the very text in question is introduced: Sed non auscultarunt, etc., Ideo voluit Jehova eos interficere; \"But they would not hearken, etc.; Therefore God purposed to destroy them.\" It was their not hearkening that induced the Lord to will their destruction. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.27",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "27",
+   "commentary_text": "There came a man of God - Who this was we know not, but the Chaldee terms him נביא דיי nebiya daya, a prophet of Jehovah.\nUnto the house of thy father - That is, to Aaron; he was the first high priest; the priesthood descended from him to his eldest son Eleazar, then to Phinehas. It became afterwards established in the younger branch of the family of Aaron; for Eli was a descendant of Ithamar, Aaron's youngest son. From Eli it was transferred back again to the family of Eleazar, because of the profligacy of Eli's sons. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.28",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "28",
+   "commentary_text": "And did I choose him - The high priesthood was a place of the greatest honor that could be conferred on man, and a place of considerable emolument; for from their part of the sacrifices they derived a most comfortable livelihood. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.29",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "29",
+   "commentary_text": "Wherefore kick ye at my sacrifice - They disdained to take the part allowed by law; and would take for themselves what part they pleased, and as much as they pleased, Sa1 2:13-16 : thus they kicked at the sacrifices.\nHonourest thy sons above me - Permitting them to deal, as above, with the offerings and sacrifices, and take their part before the fat, etc., was burnt unto the Lord: thus they were first served. At this Eli connived, and thus honored his sons above God. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.30",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "30",
+   "commentary_text": "Should walk before me for ever - See Exo 29:9; Exo 40:15; Num 25:10-13, where it is positively promised that the priesthood should be continued in the family of Aaron For Ever. But although this promise appears to be absolute, yet we plainly see that, like all other apparently absolute promises of God, it is conditional, i.e., a condition is implied though not expressed.\nBut now - be it far from me - You have walked unworthily; I shall annul my promise, and reverse my ordinance. See Jer 18:9, Jer 18:10.\nFor them that honor me - This is a plan from which God will never depart; this can have no alteration; every promise is made in reference to it; \"they who honor God shall be honored; they who despise him shall be lightly esteemed.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.31",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "31",
+   "commentary_text": "I will cut off thine arm - I will destroy the strength, power, and influence of thy family. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.32",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "32",
+   "commentary_text": "Thou shalt see an enemy in my habitation - Every version and almost every commentator understands this clause differently. The word צר tsar, which we translate an enemy, and the Vulgate aemulum, a rival, signifies calamity; and this is the best sense to understand it in here. The calamity which he saw was the defeat of the Israelites, the capture of the ark, the death of his wicked sons, and the triumph of the Philistines. All this he saw, that is, knew to have taken place, before he met with his own tragical death.\nIn all the wealth which God shall give Israel - This also is dark. The meaning may be this: God has spoken good concerning Israel; he will, in the end, make the triumph of the Philistines their own confusion; and the capture of the ark shall be the desolation of their gods; but the Israelites shall first be sorely pressed with calamity. Or, the affliction of the tabernacle, for all the wealth which God would have given Israel.\nThere shall not be an old man - This is repeated from the preceding verse, all the family shall die in the flower of their years, as is said in the following verse. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.33",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "33",
+   "commentary_text": "And the man of thine - Of this passage Calmet observes: \"The posterity of Eli possessed the high priesthood to the time of Solomon; and even when that dynasty was transferred to another family, God preserved that of Eli, not to render it more happy, but to punish it by seeing the prosperity of its enemies, to the end that it might see itself destitute and despised. This shows the depth of the judgments of God and the grandeur of his justice, which extends even to distant generations, and manifests itself to sinners both in life and death; both in their own disgrace, and in the prosperity of their enemies.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.34",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "34",
+   "commentary_text": "They shall die both of them - Hophni and Phinehas were both killed very shortly after in the great battle with the Philistines in which the Israelites were completely routed, and the ark taken. See Sa1 4:1-11. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.35",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "35",
+   "commentary_text": "A faithful priest - This seems to have been spoken of Zadok, who was anointed high priest in the room of Abiathar, the last descendant of the house of Eli; see Kg1 2:26, Kg1 2:27. Abiathar was removed because he had joined with Adonijah, who had got himself proclaimed king; see Kg1 1:7.\nI will build him a sure house - I will continue the priesthood in his family.\nHe shall walk before mine Anointed - He shall minister before Solomon, and the kings which shall reign in the land. The Targum says, \"He shall walk קדם משיחי kodam Meshichi, before my Messiah,\" and the Septuagint expresses it, ενωπιον Χριστου μον, \"before my Christ;\" for, in their proper and more extended sense, these things are supposed to belong to our great High Priest and the Christian system: but the word may refer to the Israelitish people. See the note on Heb 9:26. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.2.36",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 2,
+   "verse_range": "36+",
+   "commentary_text": "Shall come and crouch to him - Shall prostrate himself before him in the most abject manner, begging to be employed even in the meanest offices about the tabernacle, in order to get even the most scanty means of support.\nA piece of silver - אגורת כסף agorath keseph, translated by the Septuagint, οβολου αργυριου, an obolus of silver. The Targum translates it מעא mea, which is the same as the Hebrew gerah, and weighed about sixteen grains of barley.\nA morsel of bread - A mouthful; what might be sufficient to keep body and soul together. See the sin and its punishment. They formerly pampered themselves, and fed to the full on the Lord's sacrifices; and now they are reduced to a morsel of bread. They fed themselves without fear; and now they have cleanness of teeth in all their dwellings. They wasted the Lord's heritage, and now they beg their bread!\nIn religious establishments, vile persons, who have no higher motive, may and do get into the priest's office, that they may clothe themselves with the wool, and feed themselves with the fat, while they starve the flock. But where there is no law to back the claims of the worthless and the wicked, men of piety and solid merit only can find support; for they must live on the free-will offerings of the people. Where religion is established by law, the strictest ecclesiastical discipline should be kept up, and all hireling priests and ecclesiastical drones should be expelled from the Lord's vineyard. An established religion, where the foundation is good, as is ours, I consider a great blessing; but it is liable to this continual abuse, which nothing but careful and rigid ecclesiastical discipline can either cure or prevent. If our high priests, our archbishops and bishops, do not their duty, the whole body of the clergy may become corrupt or inefficient. If they be faithful, the establishment will be an honor to the kingdom, and a praise in the earth.\nThe words pillars of the earth, מצקי ארץ metsukey erets, Mr. Parkhurst translates and defends thus: \"The compressors of the earth; i.e., the columns of the celestial fluid which compress or keep its parts together.\" This is all imaginary; we do not know this compressing celestial fluid; but there is one that answers the same end, which we do know, i.e., the Air, the columns of which press upon the earth in all directions; above, below, around, with a weight of fifteen pounds to every square inch; so that a column of air of the height of the atmosphere, which on the surface of the globe measures one square inch, is known by the most accurate and indubitable experiments to weigh fifteen pounds. Now as a square foot contains one hundred and forty-four square inches, each foot must be compressed with a weight of incumbent atmospheric air equal to two thousand one hundred and sixty pounds. And as the earth is known to contain a surface of five thousand five hundred and seventy-five billions of square feet; hence, allowing two thousand one hundred and sixty pounds to each square foot, the whole surface of the globe must sustain a pressure of atmospheric air equal to twelve trillions and forty-one thousand billions of pounds; or six thousand and twenty-one billions of tons. This pressure, independently of what is called gravity, is sufficient to keep all the parts of the earth together, and perhaps to counteract all the influence of centrifugal force. But adding to this all the influence of gravity or attraction, by which every particle of matter tends to the center, these compressors of the earth are sufficient to poise, balance, and preserve the whole terraqueous globe. These pillars or compressors are an astonishing provision made by the wisdom of God for the necessities of the globe. Without this, water could not rise in fountains, nor the sap in vegetables. Without this, there could be no respiration for man or beast, and no circulation of the blood in any animal. In short, both vegetable and animal life depend, under God, on these pillars or compressors of the earth; and were it not for this compressing power, the air contained in the vessels of all plants and animals would by its elasticity expand and instantly rupture all those vessels, and cause the destruction of all animal and vegetable life: but God in his wisdom has so balanced these two forces, that, while they appear to counteract and balance each other, they serve, by mutual dilations and compressions, to promote the circulation of the sap in vegetables, and the blood in animals.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.1",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "1",
+   "commentary_text": "Nahash the Ammonite - In the Vulgate this chapter begins thus: Et factum est quasi post mensem, \"And it came to pass about a month after.\" This addition appears also in the principal copies of the Septuagint; though it is wanting in the Complutensian edition, both in the Greek and Latin, and is not acknowledged by any of the Oriental versions. But it is in Josephus, and probably was inserted from him into some copies of the Septuagint, and thence into the Vulgate. It appears to be of very little authority.\nWe know little about Nahash; there was a king of this name among the Ammonites in the time of David, Sa2 10:2, but probably not the same person. Nahash might have been a common name of the Ammonitish kings.\nMake a covenant with us - They found they were in no condition to risk a war; and they wish to have peace, and desire to know his conditions. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.2",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "2",
+   "commentary_text": "I may thrust out all your right eves - This cruel condition would serve at once as a badge of their slavery, and a means of incapacitating them from being effective warriors. Theodoret observes, \"He who opposes his shield to the enemy with his left hand, thereby hides his left eye, and looks at his enemy with his right eye; he therefore who plucks out that right eye makes men useless in war.\" Josephus gives the same reason. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.3",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "3",
+   "commentary_text": "Give us seven days respite - Such promises are frequently made by besieged places: \"We will surrender if not relieved in so many days;\" and such conditions are generally received by the besiegers. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.4",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "4",
+   "commentary_text": "Then came the messengers to Gibeah - It does not appear that the people of Jabesh-gilead knew any thing of Saul's appointment to the kingdom, for the message is not directed to him but to the people.\nThe people lifted up their voices and wept - They saw no hope of deliverance, and they expected that their reproach would be laid on all Israel. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.5",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "5",
+   "commentary_text": "Saul came after the herd - He had been bred up to an agricultural life, and after his consecration he returned to it, waiting for a call of Divine providence, which he considered he had now received in the message from Jabesh-gilead.\nIt has often been remarked, that mighty kings and accomplished generals have been chosen from among those who were engaged in agricultural concerns. In these observations one fact is lost sight of, viz., that in ancient times agriculture was the only employment. Trade and commerce were scarcely known; therefore all descriptions of official dignities must be chosen out of this class, there being no other to choose them from. We need not wonder at these words of the poet: - \nJura dabat populis posito modo consul aratro; Pascebatque suas ipse senator oves.\n\"The consul, having now laid aside his plough, gives laws to the people; And the senator himself feeds his own sheep.\"\nOvid, Fast. lib. i., v. 204-207. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.6",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "6",
+   "commentary_text": "The Spirit of God came upon Saul - He felt himself strongly excited to attempt the relief of his brethren.\nAnd his anger was kindled greatly - I believe this means no more than that his courage was greatly excited, he felt himself strong for fight, and confident of success. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.7",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "7",
+   "commentary_text": "He took a yoke of open - The sending the pieces of the oxen was an act similar to that of the Levite, Jdg 19:29 (note), where see the note. And both customs are similar to the sending about of the bloody cross, to call the clans to battle, practiced by the ancient Highlanders of Scotland. See at the end of this chapter, Sa1 11:15 (note). \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.8",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "8-9",
+   "commentary_text": "The children of Israel were three hundred thousand, and the men of Judah thirty thousand - This was a vast army, but the Septuagint make it even more: \"All the men of Israel were ἑξακοσιας χιλιαδας, Six Hundred thousand; and the men of Judah ἑβδομηκοντα χιλιαδας, Seventy thousand.\" Josephus goes yet higher with the number of the Israelites: \"He found the number of those whom he had gathered together to be ἑβδομηκοντα μυριαδας Seven Hundred thousand.\" Those of the tribe of Judah he makes seventy thousand, with the Septuagint. These numbers are not all right; and I suspect even the Hebrew text to be exaggerated, by the mistake or design of some ancient scribe. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.10",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "10",
+   "commentary_text": "To-morrow we will come out unto you - They concealed the information they had received of Saul's promised assistance. They did come out unto them; but it was in a different manner to what the Ammonites expected. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.11",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "11",
+   "commentary_text": "Put the people in three companies - Intending to attack the Ammonites in three different points, and to give his own men more room to act.\nIn the morning watch - He probably began his march in the evening, passed Jordan in the night, and reached the camp of the Ammonites by daybreak.\nThat two of them were not left together - This proves that the rout was complete. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.12",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "12",
+   "commentary_text": "Who is he that said, Shall Saul reign - Now, flushed with victory and proud of their leader, they wished to give him a proof of their attachment by slaying, even in cool blood, the persons who were at first averse from his being intrusted with the supreme power! The common soldier is scarcely ever inspired by his victory to acts of magnanimity; he has shed blood - he wishes to shed more! \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.13",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "13",
+   "commentary_text": "There shall not a man be put to death - This was as much to Saul's credit as the lately proposed measure was to the discredit of his soldiers. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.14",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "14",
+   "commentary_text": "Renew the kingdom - The unction of Saul, in the first instance, was a very private act; and his being appointed to be king was not known to the people in general. He had now shown himself worthy to command the people; and Samuel takes advantage of this circumstance to gain the general consent in his favor. Josephus says that Saul was anointed a second time at this convocation. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.11.15",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 11,
+   "verse_range": "15+",
+   "commentary_text": "There they made Saul king - It is likely, from these words, that Saul was anointed a second time; he was now publicly acknowledged, and there was no gainsayer. Thus far Saul acted well, and the kingdom seemed to be confirmed in his hand; but soon through imprudence he lost it.\nOn the custom referred to in Sa1 11:7 I am favored with the following observations by a learned correspondent: - \n\"It is considered that the authenticity of records respecting a peculiar people cannot be better illustrated, or the fidelity of the historian more clearly ascertained, than by proving that the manners and customs recorded are in unison with, or bear a resemblance to, the manners and customs of other nations of the same antiquity; or, what may be more correct, in a similar state of improvement; and the records of such rites and customs may possibly acquire an additional mark of authenticity, when the similarity is not so exact as to admit a presumption that the customs of one nation were merely copied from the other.\n\"Sir Walter Scott, in the third canto of the Lady of the Lake, describes the rites, incantations, and imprecations, used prior to the fiery cross being circulated, to summon the rough warriors of ancient times to the service of their chief; and in the first note of this canto he alludes to this ancient custom which, in comparatively modern times, has been used in Scotland, and proves that a similar punishment of death or destruction of the houses for disobeying the summons was inflicted by the ancient Scandinavians, as recorded by Olaus Magnus, in his history of the Goths. A custom still more in point than the one cited may be found to have existed in a more ancient nation, whose history is supposed the most, if not the only authentic narrative of deeds of ancient times, and which also records the sanguinary manners of uncultivated nations; see the preceding chapter, Sa1 10:1-8 (note). The similarity of the custom is to be found in the seventh verse; with the Highlanders a goat was slain; with the Israelites, an ox. The exhibition of a cross stained with the blood of the sacrificed animal was the summons of the former, while part of the animal was the mandate of the latter. Disobedience in the one nation was punished with the death of the parties, and burning of their dwellings; in the other, the punishment was more simple, and more allusive to the sacrificed emblem, the forfeiture or destruction of their oxen. It is not difficult to judge whether the comparison be correct.\n\"The first verses record the sanguinary practices of ancient times, which to many appear merely as the gratification of revenge, or as proofs of victory; yet when it is considered that the right eye must chiefly aid the warrior in aiming at his adversary, whether the weapon be of ancient or modern warfare, here arises a military reason, corroborative of the truth of history, for the deprivation, and in some degree lessening the cruelty of the mutilation, which would be increased if it were caused by revenge or wantonness; though Nahash declares it to be a reproach upon all Israel.\"\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.1",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "1",
+   "commentary_text": "And Samuel said - It is very likely that it was at this public meeting Samuel delivered the following address; no other time seems to be given for it, and this is the most proper that could be chosen. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.2",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "2",
+   "commentary_text": "My sons are with you - It is generally agreed that these words intimate that Samuel had deprived them of their public employ, and reduced them to a level with the common people.\nHave walked before you from my childhood - He had been a long, steady, and immaculate servant of the public. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.3",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "3",
+   "commentary_text": "Witness against me - Did ever a minister of state, in any part of the world, resign his office with so much self-consciousness of integrity, backed with the universal approbation of the public? No man was oppressed under his government, no man defrauded! He had accumulated no riches for himself; he had procured none for his friends; nor had one needy dependant been provided for out of the public purse. He might have pardoned his own sons, who had acted improperly, before he quitted the government; but though he was the most tender of parents, he would not, but abandoned them to national justice, with only a tacit solicitation of mercy: Behold, my sons are with you! They have acted improperly; I deprived them of their authority; they are amenable to you for their past conduct; I have walked uprightly and disinterestedly among you; they have not followed my steps: but can you forgive them for their father's sake? As a minister of justice, he abandons them to their fate; as a tender father, he indirectly and modestly pleads for them on the ground of his own services. Had he not acted thus in both these relations, he would have been unworthy of that character which he so deservedly bears. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.4",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "4-6",
+   "commentary_text": "They said, Thou hast not defrauded - Of what minister or governor can any nation under heaven say such things? \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.7",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "7",
+   "commentary_text": "Now therefore stand still - I have arraigned myself before God and you; I now arraign you before God. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.8",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "8",
+   "commentary_text": "The Lord sent Moses and Aaron - He shows them that through all their history God had ever raised them up deliverers, when their necessities required such interference. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.9",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "9-10",
+   "commentary_text": "The hand of Sisera - See these transactions in the book of Judges, Jdg 4:2 (note). \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.11",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "11",
+   "commentary_text": "Jerubbaal - That is, Gideon. And Bedan: instead of Bedan, whose name occurs nowhere else as a judge or deliverer of Israel, the Septuagint have Barak; the same reading is found in the Syriac and Arabic. The Targum has Samson. Many commentators are of this opinion; but Calmet thinks that Jair is intended, who judged Israel twenty-two years, Jdg 10:3. Instead of Samuel the Syriac and Arabic have Samson; and it is most natural to suppose that Samuel does not mention himself in this place. St. Paul's authority confirms these alterations: The time would fail me, says he, to tell of Gideon, of Barak, of Samson, of Jephthah, of David, etc. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.12",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "12-13",
+   "commentary_text": "When ye saw that Nahash - This was not the first time they had demanded a king; see before, Sa1 8:5. But at the crisis mentioned here they became more importunate; and it was in consequence of this that the kingdom was a second time confirmed to Saul. Saul was elected at Mizpeh, he was confirmed at Gilgal. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.14",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "14-15",
+   "commentary_text": "If ye will fear the Lord, etc. - On condition that ye rebel no more, God will take you and your king under his merciful protection, and he and his kingdom shall be confirmed and continued. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.16",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "16",
+   "commentary_text": "This great thing - This unusual occurrence. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.17",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "17",
+   "commentary_text": "Is it not wheat harvest to-day? - That is, This is the time of wheat harvest. According to St. Jerome, who spent several years in the promised land, this harvest commenced about the end of June or beginning of July, in which he says he never saw rain in Judea: Nunquam enim in fine mensis Junii, sive in mense Julio, in his provinciis, maximeque in Judea, pluvias vidimus. - Hier. in Amo 4:7; where he refers to this very history. What occurred now hardly ever occurs there but in the winter months. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.18",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "18",
+   "commentary_text": "The Lord sent thunder and rain that day - This was totally unusual; and, as it came at the call of Samuel, was a most evident miracle.\nGreatly feared the Lord - They dreaded His terrible majesty; and they feared Samuel, perceiving that he had so much power with God. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.19",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "19",
+   "commentary_text": "Pray for thy servants - that we die not - As they knew they had rebelled against God, they saw that they had every thing to fear from his justice and power.\nWe have added unto all our sins this evil - It is no sin to have a king; a good king is one of the greatest blessings of God's providence; but it is a sin to put a man in the place of God. Is it not strange that they did not now attempt to repair their fault? They might have done it, but they did not; they acknowledged their sin, but did not put it away. This is the general way of mankind. \"God help us, we are all sinners!\" is the general language of all people: but though to be a sinner is to be in the most solemn and awful circumstances, yet they are contented to bear the character, heedless of the consequences! \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.20",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "20",
+   "commentary_text": "Ye have done all this wickedness - That is, although ye have done all this wickedness: what was past God would pass by, provided they would be obedient in future. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.21",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "21",
+   "commentary_text": "After vain things - That is, idols; which he calls here התהו hattohu, the same expression found Gen 1:2. The earth was תהו tohu; it was waste, empty, and formless: so idols; they are confusion, and things of naught, for an idol is nothing in the world, it is not the representative of any intelligent being. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.22",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "22",
+   "commentary_text": "The Lord will not forsake his people - He will not as yet cast you off, though you have deserved it. His purpose in preserving them in their land and religion was not yet accomplished. It was not however for their sake that he would not cast them off, but for his own great name's sake. He drew his reasons from himself. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.23",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "23",
+   "commentary_text": "God forbid that I should sin - They had earnestly begged him, Sa1 12:19, to pray to God for them, that they might not die; and he tells them that he should consider himself a sinner, should he cease to be their intercessor.\nBut I will teach you the good and the right way - I will show you, as long as I am with you, what true religion is; it is the way to happiness and heaven. It is right - there is no crookedness in it; it is good - there is no evil in it. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.24",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "24",
+   "commentary_text": "Only fear the Lord - Know, respect, and reverence him.\nServe him - Consider him your Lord and Master; consider yourselves his servants.\nIn truth - Be ever honest, ever sincere; with all your heart - have every affection engaged in the work of obedience; act not merely from a principle of duty, but also from a pious, affectionate sense of obligation. Act towards your God as an affectionate child should act towards a tender and loving parent.\nConsider how great things - Review the history of your fathers, review your own life; see what interpositions of power, mercy, goodness, and truth, God has displayed in your behalf! Has he not daily loaded you with his benefits? \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.12.25",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 12,
+   "verse_range": "25+",
+   "commentary_text": "Ye shall be consumed - If ye do wickedly you shall be destroyed, your kingdom destroyed, and your king destroyed. Here they had set before them life and good, death and evil. Never was a people more fully warned, and never did a people profit less by the warning; and they continue to this day monuments of God's justice and forbearance. Reader, What art thou? Perhaps a similar monument. Consider therefore what great things God has done for thee.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.1",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "1",
+   "commentary_text": "The Lord sent me to anoint thee - This gave him a right to say what immediately follows. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.2",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "2",
+   "commentary_text": "I remember that which Amalek did - The Amalekites were a people of Arabia Petraea, who had occupied a tract of country on the frontiers of Egypt and Palestine. They had acted with great cruelty towards the Israelites on their coming out of Egypt. (See Exo 17:8 (note), and the notes there). They came upon them when they were faint and weary, and smote the hindermost of the people - those who were too weak to keep up with the rest. (See Deu 25:18). And God then purposed that Amalek, as a nation, should be blotted out from under heaven; which purpose was now fulfilled by Saul upwards of four hundred years afterwards! \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.3",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "3",
+   "commentary_text": "Slay both man and woman - Nothing could justify such an exterminating decree but the absolute authority of God. This was given: all the reasons of it we do not know; but this we know well, The Judge of all the earth doth right. This war was not for plunder, for God commanded that all the property as well as all the people should be destroyed. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.4",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "4",
+   "commentary_text": "Two hundred thousand - and ten thousand - The Septuagint, in the London Polyglot, have Four Hundred thousand companies of Israel, and Thirty thousand companies of Judah. The Codex Alexandrinus has Ten thousand of each. The Complutensian Polyglot has Two Hundred thousand companies of Israel, and Ten thousand of Judah. And Josephus has Four Hundred thousand of Israel, and Thirty thousand of Judah. All the other versions are the same with the Hebrew text; and there is no difference in the MSS. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.5",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "5",
+   "commentary_text": "Saul came to a city of Amalek - I believe the original should be translated, and Saul came to the city Amalek; their capital being called by the name of their tribe. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.6",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "6",
+   "commentary_text": "Said unto the Kenites - The Kenites were an ancient people. Jethro, the father-in-law of Moses, was a Kenite. Hobab his son (if the same person be not meant) was guide to the Hebrews through the wilderness. They had a portion of the promised land, near to the city Arad. See Jdg 1:16; and for more particulars concerning them and the Amalekites, see the notes on Num 26:20-21 (note). \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.7",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "7-10",
+   "commentary_text": "From Havilah - to Shur - From Pelusium in Egypt, unto the Red Sea. - Josephus. But Havilah lay eastward from the Red Sea; the Amalekites lay between this and the way to Egypt towards Shur. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.11",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "11",
+   "commentary_text": "It repenteth me that I have set up Saul - That is, I placed him on the throne; I intended, if he had been obedient, to have established his kingdom. He has been disobedient; I change my purpose, and the kingdom shall not be established in his family. This is what is meant by God's repenting - changing a purpose according to conditions already laid down or mentally determined. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.12",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "12-14",
+   "commentary_text": "He set him up a place - Literally, a hand, יד yad. Some say it was a monument; others, a triumphal arch: probably it was no more than a hand, pointing out the place where Saul had gained the victory. Absalom's pillar is called the hand of Absalom, Sa2 18:18. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.15",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "15-16",
+   "commentary_text": "The people spared the best of the sheep - It is very likely that the people did spare the best of the prey; and it is as likely that Saul might have restrained them if he would. That they might not love war, God had interdicted spoil and plunder, so the war was undertaken merely from a sense of duty, without any hope of enriching themselves by it. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.17",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "17-20",
+   "commentary_text": "Little in thine own sight - Who can bear prosperity? Is it not of the Lord's great goodness that the majority of the inhabitants of the earth are in comparative poverty? \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.21",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "21",
+   "commentary_text": "To sacrifice unto the Lord - Thus he endeavors to excuse the people. They did not take the spoil in order to enrich themselves by it, but to sacrifice unto the Lord; and did not this motive justify their conduct? \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.22",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "22",
+   "commentary_text": "Hath the Lord as great delight, etc. - This was a very proper answer to, and refutation of Saul's excuse. Is not obedience to the will of God the end of all religion, of its rites, ceremonies, and sacrifices? \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.23",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "23",
+   "commentary_text": "For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry - This is no translation of those difficult words, כי חטאת קסם מרי ואון ותרפים הפצר ki chattath kesem meri veaven utheraphim haphtsar. It appears to me that the three nouns which occur first in the text refer each to the three last in order. Thus, חטאת chattath, Transgression, refers to און aven, Iniquity, which is the principle whence transgression springs. קסם kesem, Divination, refers to תרפים teraphim, consecrated images or telesms, vulgarly talismans, used in incantations. And מרי meri, Rebellion, refers evidently to הפצר haphstar, Stubbornness, whence rebellion springs. The meaning therefore of this difficult place may be the following: As transgression comes from iniquity, divination from teraphim, and rebellion from stubbornness, so, because thou hast rejected the word of the Lord, he hath also rejected thee from being king. All the versions are different. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.24",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "24",
+   "commentary_text": "I have sinned - because I feared the people - This was the best excuse he could make for himself; but had he feared God more, he need have feared the People less. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.25",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "25",
+   "commentary_text": "Pardon my sin - Literally, bear my sin; take it away; forgive what I have done against thee, and be my intercessor with God, that he may forgive my offense against him; turn again with me, that I may worship the Lord. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.26",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "26-28",
+   "commentary_text": "I will not return with thee - I cannot acknowledge thee as king, seeing the Lord hath rejected thee. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.29",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "29-31",
+   "commentary_text": "The Strength of Israel will not lie - What God has purposed he will bring to pass, for he has all power in the heavens and in the earth; and he will not repent - change his purpose - concerning thee.\nWe may say it was some extenuation of Saul's fault that the people insisted on preserving the best of the prey; for who could resist the demands of a victorious mob? But his crime was in consenting; had he not, the crime would have been theirs alone. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.32",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "32",
+   "commentary_text": "Agag came unto him delicately - The Septuagint have τρεμων, trembling; the original, מעדנת maadannoth, delicacies; probably איש ish, man, understood; a man of delights, a pleasure-taker: the Vulgate, pinguissimus et tremens, \"very fat and trembling.\"\nSurely the bitterness of death is past - Almost all the versions render this differently from ours. Surely death is bitter, is their general sense; and this seems to be the true meaning. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.33",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "33-34",
+   "commentary_text": "As thy sword hath made women childless - It appears that Agag had forfeited his life by his own personal transgressions, and that his death now was the retribution of his cruelties.\nAnd Samuel hewed Agag in pieces - \n1. What Samuel did here he did in his magisterial capacity; and,\n2. It is not likely he did it by his own sword, but by that of an executioner. What kings, magistrates, and generals do, in an official way, by their subjects, servants, or soldiers, they are said to do themselves; qui facit per alterum, facit per se. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.15.35",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 15,
+   "verse_range": "35+",
+   "commentary_text": "And Samuel came no more to see Saul - But we read, Sa1 19:22-24, that Saul went to see Samuel at Naioth, but this does not affect what is said here. From this time Samuel had no connection with Saul; he never more acknowledged him as king; he mourned and prayed for him, and continued to perform his prophetic functions at Ramah, and at Naioth, superintending the school of the prophets in that place.\n\n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.1",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "1",
+   "commentary_text": "David fled from Naioth - On hearing that Saul had come to that place, knowing that he was no longer in safety, he fled for his life. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.2",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "2",
+   "commentary_text": "My father will do nothing - Jonathan thought that his father could have no evil design against David, because of the oath which he had sworn to himself Sa1 19:6; and at any rate, that he would do nothing against David without informing him. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.3",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "3-4",
+   "commentary_text": "There is but a step between me and death - My life is in the most imminent danger. Your father has, most assuredly, determined to destroy me.\nThe same figure used here, there is but a step between me and death, may be found in Juvenal, who, satirizing those who risk their lives for the sake of gain in perilous voyages, speaks thus: - \nI nune et ventis animam committe, dolato\nConfisus ligno, digitis a morte remotus\nQuatuor aut septem, si sit latissima teda.\nSat. xii., ver. 57.\n\"Go now, and commit thy life to the winds,\ntrusting to a hewn plank, four or seven fingers thick,\nif the beam out of which it has been cut have been large enough.\" \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.5",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "5-7",
+   "commentary_text": "To-morrow is the new moon - The months of the Hebrews were lunar months, and they reckoned from new moon to new moon. And as their other feasts, particularly the passover, were reckoned according to this, they were very scrupulous in observing the first appearance of each new moon. On these new moons they offered sacrifices, and had a feast; as we learn from Num 10:10; Num 28:11. And we may suppose that the families, on such occasions, sacrificed and feasted together. To this David seems to refer; but the gathering together all the families of a whole tribe seems to have taken place only once in the year. There is a yearly sacrifice there for all the family, Sa1 20:6. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.8",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "8-9",
+   "commentary_text": "If there be in me iniquity - If thou seest that I am plotting either against the state, or the life of thy father, then slay me thyself. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.10",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "10",
+   "commentary_text": "Who shall tell me? - Who shall give me the necessary information? What means wilt thou use to convey this intelligence to me? \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.11",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "11",
+   "commentary_text": "Come, and let us go out into the field - In answer to David's question, he now shows him how he shall convey this intelligence to him. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.12",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "12",
+   "commentary_text": "Jonathan said - O Lord God of Israel - There is, most evidently, something wanting in this verse. The Septuagint has, The Lord God of Israel doth Know. The Syriac and Arabic, The Lord God of Israel is Witness. Either of these makes a good sense. But two of Dr. Kennicott's MSS. supply the word חי chai, \"liveth;\" and the text reads thus, As the Lord God of Israel Liveth, when I have sounded my father - if there be good, and I then send not unto thee, and show it thee, the Lord do so and much more to Jonathan. This makes a still better sense. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.13",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "13",
+   "commentary_text": "The Lord be with thee, as he hath been with my father - From this, and other passages here it is evident that Jonathan knew that the Lord had appointed David to the kingdom. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.14",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "14-19",
+   "commentary_text": "Show me the kindness of the Lord - When thou comest to the kingdom, if I am alive, thou shalt show kindness to me, and thou shalt continue that kindness to my family after me. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.20",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "20-24",
+   "commentary_text": "I will shoot three arrows - Jonathan intended that David should stay at the stone Ezel, where probably there was some kind of cave, or hiding place; that, to prevent all suspicion, he would not go to him himself, but take his servant into the fields, and pretend to be exercising himself in archery; that he would shoot three arrows, the better to cover his design; and that, if he should say to his servant, who went to bring back the arrows, \"The arrows are on this side of thee,\" this should be a sign to David that he might safely return to court, no evil being designed; but if he should say, \"The arrows are beyond thee,\" then David should escape for his life, Saul having determined his destruction. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.25",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "25-28",
+   "commentary_text": "The king sat upon his seat - It seems that there was one table for Saul, Jonathan, David, and Abner; Saul having the chief seat, that next to the wall. As only four sat at this table, the absence of any one would soon be noticed. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.29",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "29",
+   "commentary_text": "Our family hath a sacrifice - Such sacrifices were undoubtedly festal ones; the beasts slain for the occasion were first offered to God, and their blood poured out before him; afterwards all that were bidden to the feast ate of the flesh. This was a family entertainment, at the commencement of which God was peculiarly honored. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.30",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "30-33",
+   "commentary_text": "Thou son of the perverse rebellious woman - This clause is variously translated and understood. The Hebrew might be translated, Son of an unjust rebellion; that is, \"Thou art a rebel against thy own father.\" The Vulgate, Fili mulieris virum ultro rapientis; \"Son of the woman who, of her own accord, forces the man.\" The Septuagint is equally curious, Υἱε κορασιων αυτομολουντων; \"Son of the damsels who came of their own accord.\" Were these the meaning of the Hebrew, then the bitter reflection must refer to some secret transaction between Saul and Jonathan's mother; which certainly reflects more dishonor on himself than on his brave son. Most sarcasms bear as hard upon the speaker, as they do on him against whom they are spoken. Abusive language always argues a mean, weak, and malevolent heart. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.34",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "34-37",
+   "commentary_text": "Jonathan arose - in fierce anger - We should probably understand this rather of Jonathan's grief than of his anger, the latter clause explaining the former: for he was grieved for David. He was grieved for his father - he was grieved for his friend. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.38",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "38-39",
+   "commentary_text": "Make speed, haste, stay not - Though these words appear to be addressed to the lad, yet they were spoken to David, indicating that his life was at stake, and only a prompt flight could save him. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.40",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "40",
+   "commentary_text": "Jonathan gave his artillery - I believe this to be the only place in our language where the word artillery is not applied to cannon or ordnance. The original (כלי keley) signifies simply instruments, and here means the bow, quiver, and arrows. \n"
+  },
+  {
+   "entry_id": "adam-clarke.1SA.20.41",
+   "book": "1 Samuel",
+   "book_osis": "1SA",
+   "chapter": 20,
+   "verse_range": "41+",
+   "commentary_text": "Until David exceeded - David's distress must, in the nature of things, be the greatest. Besides his friend Jonathan, whom he was now about to lose for ever, he lost his wife, relatives, country; and, what was most afflictive, the altars of his God, and the ordinances of religion.\nSaul saw David's growing popularity, and was convinced of his own maladministration. He did not humble himself before God, and therefore became a prey to envy, pride, jealousy, cruelty, and every other malevolent temper. From him David had every thing to fear, and therefore he thought it was safer to yield to the storm, than attempt to brave it; though he could have even raised a very powerful party in Israel, had he used the means which were so much in his power. But as he neither sought not affected the kingdom, he left it to the providence of God to bring him in by such means, at such a way, and in such a time, as was most suited to his godly wisdom. He that believeth shall not make haste: God's way and time are ever the best; and he who, even in God's way, runs before he is sent, runs at random; runs without light, and without Divine strength.\nFeeble, therefore, must be his own might, his own counsel, and his own wisdom: though he encompass himself with his own sparks yet this hath he at the Lord's hand - he shalt lie down in sorrow.\n\n"
+  }
+ ]
+}

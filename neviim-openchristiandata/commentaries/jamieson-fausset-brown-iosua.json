@@ -1,0 +1,415 @@
+{
+ "meta": {
+  "id": "jamieson-fausset-brown",
+  "title": "Jamieson-Fausset-Brown Bible Commentary",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "schema_type": "commentary",
+  "source_url": "https://bible.helloao.org/api/c/jamieson-fausset-brown/JOS/",
+  "source_format": "JSON (HelloAO Bible API)",
+  "book_scope": "Doar capitolele relevante Haftarot: 1,2,3,5,6",
+  "download_date": "2026-09-19",
+  "notes": "Extras restrans (nu cartea completa) - doar capitolele folosite de Haftarot catalogate."
+ },
+ "data": [
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.1.2",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 1,
+   "verse_range": "2",
+   "commentary_text": "now therefore arise, go over this Jordan--Joshua's mission was that of a military leader. This passage records his call to begin the work, and the address contains a literal repetition of the promise made to Moses (Deu 11:24-25; Deu 31:6-8, Deu 31:23).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.1.3",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 1,
+   "verse_range": "3",
+   "commentary_text": "Every place that the sole of your foot shall tread upon that have I given you--meaning, of course, not universal dominion, but only the territory comprised within the boundaries here specified (see on Deu 19:8).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.1.4",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 1,
+   "verse_range": "4",
+   "commentary_text": "all the land of the Hittites--These occupied the southern extremities and were the dominant tribe of Canaan. Their superior power and the extent of their dominions are attested by the mention of them under the name of Khita, on the Assyrian inscriptions, and still more frequently on the Egyptian inscriptions of the eighteenth and nineteenth Dynasties. What life and encouragement must have been imparted to Joshua by the assurance that his people, who had been overwhelmed with fear of that gigantic race, were to possess \"all the land of the Hittites\"!\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.1.5",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 1,
+   "verse_range": "5-9",
+   "commentary_text": "There shall not any man be able to stand before thee--Canaan was theirs by a divine grant; and the renewed confirmation of that grant to Joshua when about to lead the people into it, intimated not only a certain but an easy conquest. It is remarkable, however, that his courage and hope of victory were made to depend (see on Deu 17:18) on his firm and inflexible adherence to the law of God, not only that regarding the extirpation of the Canaanites, but the whole divine code.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.1.10",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 1,
+   "verse_range": "10",
+   "commentary_text": "Then Joshua commanded the officers of the people--These were the Shoterim (see on Exo 5:6; Deu 20:5).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.1.11",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 1,
+   "verse_range": "11-13",
+   "commentary_text": "command the people, saying, Prepare you victuals--not manna, which, though it still fell, would not keep; but corn, sheep, and articles of food procurable in the conquered countries. \n\nfor within three days ye shall pass over this Jordan--that is, the third day, according to Hebrew idiom--the time allotted for getting ready before the encampment in Abel-Shittim broke up and they removed to the desert bank of the river where no victuals were available. At the same time Joshua himself convened the two and a half tribes which had settled east of Jordan, to remind them of their promise (Num. 32:1-42) to assist their brethren in the conquest of western Canaan. Their readiness to redeem their pledge and the terms in which they answered the appeal of Joshua displayed to great advantage their patriotic and pious feelings at so interesting a crisis.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.1.14",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 1,
+   "verse_range": "14+",
+   "commentary_text": "ye shall pass . . . armed--that is, officered or marshalled under five leaders in the old and approved caravan order (see on Exo 13:18). \n\nall the mighty men of valour--The words are not to be interpreted strictly as meaning the whole, but only the flower or choice of the fighting men (see on Jos 4:12).\n\n\n\n\nNext: Joshua Chapter 2\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.2",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "2-3",
+   "commentary_text": "it was told the king--by the sentinels who at such a time of threatened invasion would be posted on the eastern frontier and whose duty required them to make a strict report to headquarters of the arrival of all strangers.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.4",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "4",
+   "commentary_text": "the woman took the two men, and hid them--literally, \"him,\" that is, each of them in separate places, of course previous to the appearance of the royal messengers and in anticipation of a speedy search after her guests. According to Eastern manners, which pay an almost superstitious respect to a woman's apartment, the royal messengers did not demand admittance to search but asked her to bring the foreigners out.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.5",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "5",
+   "commentary_text": "the time of shutting of the gates--The gates of all Oriental cities are closed at sunset, after which there is no possibility either of admission or egress. \n\nthe men went out--This was a palpable deception. But, as lying is a common vice among heathen people, Rahab was probably unconscious of its moral guilt, especially as she resorted to it as a means for screening her guests; and she might deem herself bound to do it by the laws of Eastern hospitality, which make it a point of honor to preserve the greatest enemy, if he has once eaten one's salt. Judged by the divine law, her answer was a sinful expedient; but her infirmity being united with faith, she was graciously pardoned and her service accepted (Jam 2:25).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.6",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "6",
+   "commentary_text": "she had brought them up to the roof of the house, and hid them with the stalks of flax--Flax, with other vegetable productions, is at a certain season spread out on the flat roofs of Eastern houses to be dried in the sun; and, after lying awhile, it is piled up in numerous little stacks, which, from the luxuriant growth of the flax, rise to a height of three or four feet. Behind some of these stacks Rahab concealed the spies.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.7",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "7",
+   "commentary_text": "the men pursued after them the way to Jordan unto the fords--That river is crossed at several well-known fords. The first and second immediately below the sea of Galilee; the third and fourth immediately above and below the pilgrims' bathing-place, opposite Jericho. \n\nas soon as they which pursued after them were gone out, they shut the gate--This precaution was to ensure the capture of the spies, should they have been lurking in the city.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.8",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "8-13",
+   "commentary_text": "THE COVENANT BETWEEN HER AND THEM. (Jos 2:8-21)\n\nshe came up unto them upon the roof and said--Rahab's dialogue is full of interest, as showing the universal panic and consternation of the Canaanites on the one hand (Jos 24:11; Deu 2:25), and her strong convictions on the other, founded on a knowledge of the divine promise, and the stupendous miracles that had opened the way of the Israelites to the confines of the promised land. She was convinced of the supremacy of Jehovah, and her earnest stipulations for the preservation of her relatives amid the perils of the approaching invasion, attest the sincerity and strength of her faith.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.14",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "14",
+   "commentary_text": "the men answered her, Our life for yours, if ye utter not this our business--This was a solemn pledge--a virtual oath, though the name of God is not mentioned; and the words were added, not as a condition of their fidelity, but as necessary for her safety, which might be endangered if the private agreement was divulged.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.15",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "15",
+   "commentary_text": "her house was upon the town wall--In many Oriental cities houses are built on the walls with overhanging windows; in others the town wall forms the back wall of the house, so that the window opens into the country. Rahab's was probably of this latter description, and the cord or rope sufficiently strong to bear the weight of a man.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.16",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "16-20",
+   "commentary_text": "she said--rather \"she had said,\" for what follows must have been part of the previous conversation. \n\nGet you to the mountain--A range of white limestone hills extends on the north, called Quarantania (now Jebel Karantu), rising to a height of from twelve hundred to fifteen hundred feet, and the sides of which are perforated with caves. Some one peak adjoining was familiarly known to the inhabitants as \"the mountain.\" The prudence and propriety of the advice to flee in that direction rather than to the ford, were made apparent by the sequel.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.2.21",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 2,
+   "verse_range": "21+",
+   "commentary_text": "she bound the scarlet line in the window--probably soon after the departure of the spies. It was not formed, as some suppose, into network, as a lattice, but simply to hang down the wall. Its red color made it conspicuous, and it was thus a sign and pledge of safety to Rahab's house, as the bloody mark on the lintels of the houses of the Israelites in Egypt to that people.\n\n\n\n\nNext: Joshua Chapter 3\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.3.2",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 3,
+   "verse_range": "2",
+   "commentary_text": "the officers went through the host; And they commanded the people--The instructions given at this time and in this place were different from those described (Jos 1:11).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.3.3",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 3,
+   "verse_range": "3-4",
+   "commentary_text": "When ye see the ark . . ., and the priests the Levites bearing it--The usual position of the ark, when at rest, was in the center of the camp; and, during a march, in the middle of the procession. On this occasion it was to occupy the van, and be borne, not by the Kohathite Levites, but the priests, as on all solemn and extraordinary occasions (compare Num 4:15; Jos 6:6; Kg1 8:3-6). \n\nthen ye shall . . . go after it. Yet there shall be a space between you and it--These instructions refer exclusively to the advance into the river. The distance which the people were to keep in the rear of the ark was nearly a mile. Had they crowded too near the ark, the view would have been intercepted, and this intervening space, therefore, was ordered, that the chest containing the sacred symbols might be distinctly visible to all parts of the camp, and be recognized as their guide in the untrodden way.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.3.5",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 3,
+   "verse_range": "5",
+   "commentary_text": "Joshua said unto the people--rather \"had said,\" for as he speaks of \"to-morrow,\" the address must have been made previous to the day of crossing, and the sanctification was in all probability the same as Moses had commanded before the giving of the law, consisting of an outward cleansing (Exo 19:10-15) preparatory to that serious and devout state of mind with which so great a manifestation should be witnessed.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.3.6",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 3,
+   "verse_range": "6",
+   "commentary_text": "Joshua spake unto the priests--This order to the priests would be given privately, and involving as it did an important change in the established order of march, it must be considered as announced in the name and by the authority of God. Moreover, as soon as the priests stepped into the waters of Jordan, they were to stand still. The ark was to accomplish what had been done by the rod of Moses.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.3.7",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 3,
+   "verse_range": "7-8",
+   "commentary_text": "THE LORD ENCOURAGES JOSHUA. (Jos 3:7-8)\n\nthe Lord said to Joshua, This day will I . . . magnify thee in the sight of all Israel--Joshua had already received distinguished honors (Exo 24:13; Deu 31:7). But a higher token of the divine favor was now to be publicly bestowed on him, and evidence given in the same unmistakable manner that his mission and authority were from God as was that of Moses (Exo 14:31).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.3.9",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 3,
+   "verse_range": "9-13",
+   "commentary_text": "JOSHUA ENCOURAGES THE PEOPLE. (Jos 3:9-13)\n\nCome hither, and hear the words of the Lord--It seems that the Israelites had no intimation how they were to cross the river till shortly before the event. The premonitory address of Joshua, taken in connection with the miraculous result exactly as he had described it, would tend to increase and confirm their faith in the God of their fathers as not a dull, senseless, inanimate thing like the idols of the nations, but a Being of life, power, and activity to defend them and work for them.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.3.14",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 3,
+   "verse_range": "14-15",
+   "commentary_text": "THE WATERS OF JORDAN ARE DIVIDED. (Jos 3:14-17)\n\nAnd it came to pass, when the people removed from their tents, &c.--To understand the scene described we must imagine the band of priests with the ark on their shoulders, standing on the depressed edge of the river, while the mass of the people were at a mile's distance. Suddenly the whole bed of the river was dried up; a spectacle the more extraordinary in that it took place in the time of harvest, corresponding to our April or May--when \"the Jordan overfloweth all its banks.\" The original words may be more properly rendered \"fills all its banks.\" Its channel, snow-fed from Lebanon, was at its greatest height--brimful; a translation which gives the only true description of the state of Jordan in harvest as observed by modern travellers. The river about Jericho is, in ordinary appearance, about fifty or sixty yards in breadth. But as seen in harvest, it is twice as broad; and in ancient times, when the hills on the right and left were much more drenched with rain and snow than since the forests have disappeared, the river must, from a greater accession of water, have been broader still than at harvest-time in the present day.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.3.16",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 3,
+   "verse_range": "16",
+   "commentary_text": "the waters which came down from above--that is, the Sea of Galilee \n\nstood and rose up upon a heap--\"in a heap,\" a firm, compact barrier (Exo 15:8; Psa 78:13); \n\nvery far--high up the stream; \n\nfrom the city Adam, that is beside Zaretan--near mount Sartabeh, in the northern part of the Ghor (Kg1 7:46); that is, a distance of thirty miles from the Israelitish encampment; and \n\nthose that came down toward the sea of the desert--the Dead Sea--were cut off (Psa 114:2-3). The river was thus dried up as far as the eye could reach. This was a stupendous miracle; Jordan takes its name, \"the Descender,\" from the force of its current, which, after passing the Sea of Galilee, becomes greatly increased as it plunges through twenty-seven \"horrible rapids and cascades,\" besides a great many lesser through a fall of a thousand feet, averaging from four to five miles an hour [LYNCH]. When swollen \"in time of harvest,\" it flows with a vastly accelerated current. \n\nthe people passed over right against Jericho--The exact spot is unknown; but it cannot be that fixed by Greek tradition--the pilgrims' bathing-place--both because it is too much to the north, and the eastern banks are there sheer precipices ten or fifteen feet high.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.3.17",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 3,
+   "verse_range": "17+",
+   "commentary_text": "the priests . . . and all the Israelites passed over on dry ground--the river about Jericho has a firm pebbly bottom, on which the host might pass, without inconvenience when the water was cleared off.\n\n\n\n\nNext: Joshua Chapter 4\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.5.2",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 5,
+   "verse_range": "2",
+   "commentary_text": "CIRCUMCISION IS RENEWED. (Jos 5:2-12)\n\nAt that time--on the encampment being made after the passage. \n\nthe Lord said unto Joshua, Make thee sharp knives--Stone knives, collect and make them ready. Flints have been used in the early times of all people; and although the use of iron was known to the Hebrews in the days of Joshua, probably the want of a sufficient number of metallic implements dictated the employment of flints on this occasion (compare Exo 4:25). \n\ncircumcise again the children of Israel the second time--literally, \"return and circumcise.\" The command did not require him to repeat the operation on those who had undergone it, but to resume the observance of the rite, which had been long discontinued. The language, however, evidently points to a general circumcising on some previous occasion, which, though unrecorded, must have been made before the celebration of the passover at Sinai (compare Exo 12:48; Num 9:5), as a mixed multitude accompanied the camp. \"The second time\" of general circumcising was at the entrance into Canaan.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.5.3",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 5,
+   "verse_range": "3",
+   "commentary_text": "at the hill--probably one of the argillaceous hills that form the highest terrace of the Jordan, on a rising ground at the palm forest.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.5.4",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 5,
+   "verse_range": "4-7",
+   "commentary_text": "this is the cause why Joshua did circumcise--The omission to circumcise the children born in the wilderness might have been owing to the incessant movements of the people; but it is most generally thought that the true cause was a temporary suspension of the covenant with the unbelieving race who, being rejected of the Lord, were doomed to perish in the wilderness, and whose children had to bear the iniquity of their fathers (Num 14:33), though, as the latter were to be brought into the promised land, the covenant would be renewed with them.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.5.8",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 5,
+   "verse_range": "8",
+   "commentary_text": "when they had done circumcising all the people--As the number of those born in the wilderness and uncircumcised must have been immense, a difficulty is apt to be felt how the rite could have been performed on such a multitude in so short a time. But it has been calculated that the proportion between those already circumcised (under twenty when the doom was pronounced) and those to be circumcised, was one to four, and consequently the whole ceremony could easily have been performed in a day. Circumcision being the sign and seal of the covenant, its performance was virtually an investment in the promised land, and its being delayed till their actual entrance into the country was a wise and gracious act on the part of God, who postponed this trying duty till the hearts of the people, animated by the recent astonishing miracle, were prepared to obey the divine will. \n\nthey abode in their places . . . till they were whole--It is calculated that, of those who did not need to be circumcised, more than fifty thousand were left to defend the camp if an attack had been then made upon it.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.5.9",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 5,
+   "verse_range": "9",
+   "commentary_text": "the Lord said unto Joshua, This day have I rolled away the reproach of Egypt--The taunts industriously cast by that people upon Israel as nationally rejected by God by the cessation of circumcision and the renewal of that rite was a practical announcement of the restoration of the covenant [KEIL]. \n\nGilgal--No trace either of the name or site is now to be found; but it was about two miles from Jericho [JOSEPHUS], and well suited for an encampment by the advantages of shade and water. It was the first place pronounced \"holy\" in the Holy Land (Jos 5:15).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.5.10",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 5,
+   "verse_range": "10",
+   "commentary_text": "kept the passover on the fourteenth day of the month at even--The time fixed by the law (see on Exo 12:17; Lev 23:5; Num 28:16). Thus the national existence was commenced by a solemn act of religious dedication.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.5.11",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 5,
+   "verse_range": "11-12",
+   "commentary_text": "And they did eat of the old corn of the land--found in storehouses of the inhabitants who had fled into Jericho. \n\nparched corn--new grain (see on Lev 23:10), probably lying in the fields. Roasted--a simple and primitive preparation, much liked in the East. This abundance of food led to the discontinuance of the manna; and the fact of its then ceasing, viewed in connection with its seasonable appearance in the barren wilderness, is a striking proof of its miraculous origin.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.5.13",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 5,
+   "verse_range": "13",
+   "commentary_text": "AN ANGEL APPEARS TO JOSHUA. (Jos 5:13-15)\n\nwhen Joshua was by Jericho--in the immediate vicinity of that city, probably engaged in surveying the fortifications, and in meditating the best plan of a siege. \n\nthere stood a man over against him with his sword drawn--It is evident from the strain of the context that this was not a mere vision, but an actual appearance; the suddenness of which surprised, but did not daunt, the intrepid leader.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.5.14",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 5,
+   "verse_range": "14+",
+   "commentary_text": "the host of the Lord--either the Israelitish people (Exo 7:4; Exo 12:41; Isa 55:4), or the angels (Psa 148:2), or both included, and the Captain of it was the angel of the covenant, whose visible manifestations were varied according to the occasion. His attitude of equipment betokened his approval of, and interest in, the war of invasion. \n\nJoshua fell on his face . . ., and did worship--The adoption by Joshua of this absolute form of prostration demonstrates the sentiments of profound reverence with which the language and majestic bearing of the stranger inspired him. The real character of this personage was disclosed by His accepting the homage of worship (compare Act 10:25-26; Rev 19:10), and still further in the command, \"Loose thy shoe from off thy foot\" (Exo 3:5).\n\n\n\n\nNext: Joshua Chapter 6\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.2",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "2",
+   "commentary_text": "See, I have given into thine hand Jericho--The language intimates that a purpose already formed was about to be carried into immediate execution; and that, although the king and inhabitants of Jericho were fierce and experienced warriors, who would make a stout and determined resistance, the Lord promised a certain and easy victory over them.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.3",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "3-5",
+   "commentary_text": "ye shall compass the city, all ye men of war. . . . Thus shalt thou do six days, &c.--Directions are here given as to the mode of procedure. Hebrew, \"horns of jubilee\"; that is, the bent or crooked trumpets with which the jubilee was proclaimed. It is probable that the horns of this animal were used at first; and that afterwards, when metallic trumpets were introduced, the primitive name, as well as form of them, was traditionally continued. The design of this whole proceeding was obviously to impress the Canaanites with a sense of the divine omnipotence, to teach the Israelites a memorable lesson of faith and confidence in God's promises, and to inspire sentiments of respect and reverence for the ark as the symbol of His presence. The length of time during which those circuits were made tended the more intensely to arrest the attention, and to deepen the impressions, both of the Israelites and the enemy. The number seven was among the Israelites the symbolic seal of the covenant between God and their nation [KEIL, HENGSTENBERG].\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.6",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "6-7",
+   "commentary_text": "Joshua . . . called the priests--The pious leader, whatever military preparations he had made, surrendered all his own views, at once and unreservedly, to the declared will of God.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.8",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "8-11",
+   "commentary_text": "THE CITY COMPASSED SIX DAYS. (Jos 6:8-19)\n\nthe seven priests bearing the seven trumpets . . . passed on before the Lord--before the ark, called \"the ark of the covenant,\" for it contained the tables on which the covenant was inscribed. The procession was made in deep and solemn silence, conforming to the instructions given to the people by their leader at the outset, that they were to refrain from all acclamation and noise of any kind until he should give them a signal. It must have been a strange sight; no mound was raised, no sword drawn, no engine planted, no pioneers undermining--here were armed men, but no stroke given; they must walk and not fight. Doubtless the people of Jericho made themselves merry with the spectacle [BISHOP HALL].\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.12",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "12-14",
+   "commentary_text": "Joshua rose early in the morning, and the priests took up the ark of the Lord--The second day's procession seems to have taken place in the morning. In all other respects, down even to the smallest details, the arrangements of the first day continued to be the rule followed on the other six.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.15",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "15",
+   "commentary_text": "on the seventh day, that they rose early about the dawning of the day, and compassed the city . . . seven times--on account of the seven circuits they had to make that day. It is evident, however, that the militia only of the Israelites had been called to the march--for it is inconceivable that two millions of people could have gone so frequently round the city in a day.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.16",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "16",
+   "commentary_text": "it came to pass at the seventh time, . . . Joshua said unto the people, Shout; for the Lord hath given you the city--This delay brought out their faith and obedience in so remarkable a manner, that it is celebrated by the apostle (Heb 11:30).\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.17",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "17",
+   "commentary_text": "And the city shall be accursed--(See on Lev 27:28). The cherem, or \"anathema,\" was a devotion to utter destruction (Deu 7:2; Deu 20:17; Sa1 15:3). When such a ban was pronounced against a hostile city, the men and animals were killed--no booty was allowed to be taken. The idols and all the precious ornaments on them were to be burned (Deu 7:25; compare Ch1 14:12). Everything was either to be destroyed or consecrated to the sanctuary. Joshua pronounced this ban on Jericho, a great and wealthy city, evidently by divine direction. The severity of the doom, accordant with the requirements of a law which was holy, just, and good, was justified, not only by the fact of its inhabitants being part of a race who had filled up their iniquities, but by their resisting the light of the recent astonishing miracle at the Jordan. Besides, as Jericho seems to have been defended by reinforcements from all the country (Jos 24:11), its destruction would paralyze all the rest of the devoted people, and thus tend to facilitate the conquest of the land; showing, as so astounding a military miracle did, that it was done, not by man, but by the power and through the anger, of God.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.18",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "18-19",
+   "commentary_text": "and ye, in any wise keep yourselves from the accursed thing--Generally they were at liberty to take the spoil of other cities that were captured (Deu 2:35; Deu 3:7; Jos 8:27). But this, as the first fruits of Canaan, was made an exception; nothing was to be spared but Rahab and those in her house [Jos 6:17]. A violation of these stringent orders would not only render the guilty persons obnoxious to the curse, but entail distress and adversity upon all Israel, by provoking the divine displeasure. These were the instructions given, or repeated (Deu 13:17; Deu 7:26), previous to the last act of the siege.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.20",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "20-21",
+   "commentary_text": "THE WALLS FALL DOWN. (Jos 6:20-21)\n\nSo the people shouted when the priests blew with the trumpets--Towards the close of the seventh circuit, the signal was given by Joshua, and on the Israelites' raising their loud war cry, the walls fell down, doubtless burying multitudes of the inhabitants in the ruins, while the besiegers, rushing in, consigned everything animate and inanimate to indiscriminate destruction (Deu 20:16-17). Jewish writers mention it as an immemorial tradition that the city fell on the Sabbath. It should be remembered that the Canaanites were incorrigible idolaters, addicted to the most horrible vices, and that the righteous judgment of God might sweep them away by the sword, as well as by famine or pestilence. There was mercy mingled with judgment in employing the sword as the instrument of punishing the guilty Canaanites, for while it was directed against one place, time was afforded for others to repent.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.22",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "22",
+   "commentary_text": "RAHAB IS SAVED. (Jos 6:22-25)\n\nJoshua had said . . . Go into the harlot's house, and bring out thence the woman, and all that she hath--It is evident that the town walls were not demolished universally, at least all at once, for Rahab's house was allowed to stand until her relatives were rescued according to promise.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.23",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "23",
+   "commentary_text": "they brought out all her kindred, and left them without the camp of Israel--a temporary exclusion, in order that they might be cleansed from the defilement of their native idolatries and gradually trained for admission into the society of God's people.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.24",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "24",
+   "commentary_text": "burned the city . . . and all . . . therein--except the silver, gold, and other metals, which, as they would not burn, were added to the treasury of the sanctuary.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.25",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "25",
+   "commentary_text": "she--Rahab \n\ndwelleth in Israel unto this day--a proof that this book was written not long after the events related.\n\n"
+  },
+  {
+   "entry_id": "jamieson-fausset-brown.JOS.6.26",
+   "book": "Joshua",
+   "book_osis": "JOS",
+   "chapter": 6,
+   "verse_range": "26+",
+   "commentary_text": "THE REBUILDER OF JERICHO CURSED. (Jos 6:26-27)\n\nJoshua adjured them at that time--that is, imposed upon his countrymen a solemn oath, binding on themselves as well as their posterity, that they would never rebuild that city. Its destruction was designed by God to be a permanent memorial of His abhorrence of idolatry and its attendant vices. \n\nCursed be the man . . . that riseth up and buildeth this city Jericho--that is, makes the daring attempt to build. \n\nhe shall lay the foundation thereof in his first-born, and in his youngest son shall he set up the gates of it--shall become childless--the first beginning being marked by the death of his oldest son, and his only surviving child dying at the time of its completion. This curse was accomplished five hundred fifty years after its denunciation (see on Kg1 16:34).\n\n\n\n\nNext: Joshua Chapter 7\n\n"
+  }
+ ]
+}

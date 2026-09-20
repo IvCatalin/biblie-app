@@ -1,0 +1,1092 @@
+{
+ "meta": {
+  "id": "gregory-of-nazianzus",
+  "author": "Gregory of Nazianzus",
+  "license": "public-domain",
+  "schema_type": "church_fathers",
+  "source_url": "https://github.com/HistoricalChristianFaith/Commentaries-Database",
+  "book_scope": "Doar cele 18 carti Nevi'im folosite de Haftarot catalogate",
+  "download_date": "2026-09-19"
+ },
+ "by_book": {
+  "1Sam": [
+   {
+    "entry_id": "gregory-of-nazianzus.1Sam.15.26.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "1 Samuel 15:26",
+     "osis": [
+      "1Sam.15.26"
+     ]
+    },
+    "quote": "Moreover, to distinguish still more clearly between them, we have, against the fear of office, a possible help in the law of obedience, inasmuch as God in his goodness rewards our faith, and makes a perfect ruler of the one who has confidence in him, and places all his hopes in him; but against the danger of disobedience I know of nothing which can help us, and of no ground to encourage our confidence. For we should fear that we will have to hear these words concerning those who have been entrusted to us: \"I will require their souls at your hands\"; and, \"Because you have rejected me, and [have] not been leaders and rulers of my people, I also will reject you, that I should not be king over you\"; and, \"As you refused to listen to my voice, and turned a stubborn back, and were disobedient, so shall it be when you call upon me, and I will not regard nor hear your prayer.\"",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2.113",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.1Sam.16.6-7.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "1 Samuel 16:6-7",
+     "osis": [
+      "1Sam.16.6"
+     ]
+    },
+    "quote": "Do not say, \"I do not mind a mere priest, if he is a celibate, and a religious [person], and of angelic life; for it would be a sad thing for me to be defiled even in the moment of my cleansing.\" Do not ask for credentials of the preacher or the baptizer. For another is his judge and the examiner of what you can't see. For humans look on the outward appearance, but the Lord looks on the heart.",
+    "source_title": "ON HOLY BAPTISM, ORATION 40.26",
+    "source_url": ""
+   }
+  ],
+  "Amos": [
+   {
+    "entry_id": "gregory-of-nazianzus.Amos.3.13.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Amos 3:13",
+     "osis": [
+      "Amos.3.13"
+     ]
+    },
+    "quote": "God's other titles fall into two distinct groups. The first group belongs to his power, the second to his providential ordering of the world, a twofold providential ordering—involving, and not involving, incarnation. Clear cases of titles that belong to his power are \"Almighty\" and \"King\"—whether it be of \"glory,\" \"the ages,\" \"of the forces,\" or \"of the beloved\" or the \"rulers\"16—\"Lord Sabbaoth,\" which means \"lord of the armies,\" \"forces\" or \"masters.\" To his providential ordering belong \"God\"—be it \"of salvation,\" \"retribution,\" \"peace,\" or \"righteousness,\" or \"of Abraham, Isaac and Jacob\" or all the spiritual \"Israel,\" which has the vision of God. For since we are controlled by three conditions—fear of punishment, hope for salvation and glory too, and the practice of the virtues which results in these last—the name which mentions retribution deals with fear, the one which mentions salvation with hope, and that which refers to virtues disciplines us to practice them. The intention is that by, as it were, carrying God inside one, a person may have some success here and press on all the harder to perfection, toward that affinity with God which comes from the virtues.",
+    "source_title": "ON THE SON, THEOLOGICAL ORATION 4(30).19",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Amos.5.23.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Amos 5:23",
+     "osis": [
+      "Amos.5.23"
+     ]
+    },
+    "quote": "What shall I say to those who worship Astarate or Chemosh, the abomination of the Sidions, or the likeness of a star, a god a little above them to these idolaters, but yet a creature and a piece of workmanship, when I myself either do not worship two of those into whose united name I am baptized, or else worship my fellow servants, for they are fellow servants, even if a little higher in the scale; for differences must exist among fellow servants.",
+    "source_title": "ORATION 40:42, ON HOLY BAPTISM",
+    "source_url": ""
+   }
+  ],
+  "Ezek": [
+   {
+    "entry_id": "gregory-of-nazianzus.Ezek.14.14.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Ezekiel 14:14",
+     "osis": [
+      "Ezek.14.14"
+     ]
+    },
+    "quote": "Who will cry aloud, spare your people, O Lord, and do not give your heritage to reproach, that the nations should rule over them: what Noah and Job and Daniel, who are reckoned together as men of prayer, will pray for us, that we may have a slight respite from warfare, and recover ourselves, and recognize one another for a while and no longer, instead of being a united Israel, be Judah and Israel, Rehoboam and Jeroboam, Jerusalem and Samaria, in turn delivered up because of our sins, and in turn lamented?",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:89",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Ezek.1.1.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Ezekiel 1:1",
+     "osis": [
+      "Ezek.1.1"
+     ]
+    },
+    "quote": "What would you say of Isaiah or Ezekiel, who was an eyewitness of very great mysteries, and of the other prophets: for one of these saw the Lord of Sabaoth sitting on the throne of glory and encircled and praised by the six-winged seraphim, and was himself purged by the live coal and equipped for his prophetic office; and the other describes the cherubic chariot of God, and the throne on them, and the firmament over it, and him that showed himself in the firmament, and voices and forces and deeds. And whether this was an appearance by day, only visible to saints, or an unerring vision of the night, or an impression on the mind holding converse with the future as if it were the present or some other ineffable form of prophecy, I cannot say; the God of the prophets knows, and they know who are thus inspired.",
+    "source_title": "ON THEOLOGY, THEOLOGICAL ORATION 2(28).19",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Ezek.33.2.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Ezekiel 33:2",
+     "osis": [
+      "Ezek.33.2"
+     ]
+    },
+    "quote": "How are we affected by Ezekiel, the beholder and expositor of the mighty mysteries and visions? By his injunction to the watchmen not to keep silence concerning vice and the sword impending over it, a course that would profit neither themselves nor the sinners, but rather to keep watch and forewarn and thus benefit at any rate those who gave warning, if not both those who spoke and those who heard.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:64",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Ezek.34.12.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Ezekiel 34:12",
+     "osis": [
+      "Ezek.34.12"
+     ]
+    },
+    "quote": "He is shepherd to shepherds and a guide to guides: that we may feed his flock with knowledge, not with the instruments of a foolish shepherd.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:117",
+    "source_url": ""
+   }
+  ],
+  "Hos": [
+   {
+    "entry_id": "gregory-of-nazianzus.Hos.11.1.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Hosea 11:1",
+     "osis": [
+      "Hos.11.1"
+     ]
+    },
+    "quote": "I will address myself as is right to those who have come from Egypt. They have come here eagerly, having overcome ill will by zeal. They come from that Egypt which is enriched by the river who is Christ, raining out of the earth and like the sea in its season—if I too may follow in my small measure those who have so eloquently spoken of these matters. They too are enriched by Christ my Lord. He too was once fugitive in Egypt; the first, when he fled from Herod's massacre of the children, and now by the love of the fathers for their children, by Christ the new food of those who hunger after good, who offers the greatest alms of corn of which history speaks and men believe. He is the bread that came down from heaven and gives life to the world, that life which is indestructible and indissoluble. It is of him that I now seem to hear the Father saying, \"Out of Egypt have I called my son.\"",
+    "source_title": "ON THE ARRIVAL OF THE EGYPTIANS, ORATION 34:1",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Hos.13.14.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Hosea 13:14",
+     "osis": [
+      "Hos.13.14"
+     ]
+    },
+    "quote": "But that brazen serpent was hung up as a remedy for the biting serpents, not as a type of him that suffered for us but as a contrast. And [the brazen serpent] saved those that looked upon it, not because they believed it to live but because it was killed, and killed with it were the powers that were subject to it, being destroyed as it deserved. And what is the fitting epitaph for it from us? \"O death, where is your sting? O grave, where is your victory?\" You are overthrown by the cross; you are slain by him who is the giver of life; you are without breath, dead, without motion, even though you keep the form of a serpent lifted up on a pole.",
+    "source_title": "ON HOLY EASTER, ORATION 45:22",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Hos.13.3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Hosea 13:3",
+     "osis": [
+      "Hos.13.3"
+     ]
+    },
+    "quote": "Such, brethren, is our life, we whose existence is so transitory. Such is the game we play upon earth. We do not exist, and then we are born, and being born we are soon dissolved. We are a fleeting dream, an apparition without substance, the flight of a bird that passes, a ship that leaves no trace upon the sea. We are dust, a vapor, the morning dew, a flower growing but a moment and withering in a moment. \"Man's days are as grass: as the flower of the field, so shall he flourish.\" How beautifully has holy David meditated on our weakness: \"Declare unto me the fewness of my days.\"",
+    "source_title": "ON HIS BROTHER ST. CAESARIUS, ORATION 7:19",
+    "source_url": ""
+   }
+  ],
+  "Isa": [
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.10.23.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 10:23",
+     "osis": [
+      "Isa.10.23"
+     ]
+    },
+    "quote": "Three gathered together in the name of the Lord count for more with God than tens of thousands of those who deny the Godhead. Would you prefer the whole of the Canaanites to Abraham alone? or the men of Sodom to Lot? or the Midianities to Moses, when each of these was a pilgrim and a stranger? How do the three hundred men with Gideon, who bravely lapped, compare with the thousands who were put to flight? Or the servants of Abraham, who scarcely exceeded them in number, with the many kings and the army of tens of thousands whom, few as they were, they overtook and defeated? Or how do you understand the passage that though the number of the children of Israel be as the sand of the sea, a remnant shall be saved? And again, I have left me seven thousand men, who have not bowed the knee to Baal? … God has not taken pleasure in numbers.",
+    "source_title": "THE LAST FAREWELL, ORATION 42:7",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.10.3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 10:3",
+     "osis": [
+      "Isa.10.3"
+     ]
+    },
+    "quote": "\"What shall we do in the day of visitation?\" One of the prophets terrifies me [with this question], whether that of the righteous sentence of God against us or that upon the mountains and hills, of which we have heard. Whatever and whenever it may be, he will reason with us and oppose us and set before us those bitter accusers, which are our sins, contrasting our wrongdoings with our benefits, striking thought with thought, scrutinizing action with action and calling us to account for the image that has been blurred and spoiled by wickedness. He will finally lead us away self-convicted and self-condemned, no longer able to say that we are being unjustly treated—a thought that is able even here sometimes to console in their condemnation those who are suffering.",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:8",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.11.2-3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 11:2-3",
+     "osis": [
+      "Isa.11.2"
+     ]
+    },
+    "quote": "I think Isaiah loves to call the activities of the Spirit \"spirits.\"",
+    "source_title": "ON PENTECOST, ORATION 41:3",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.1.22.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 1:22",
+     "osis": [
+      "Isa.1.22"
+     ]
+    },
+    "quote": "And who is sufficient for these things? For we are not as the many, able to corrupt the word of truth and mix the wine, which makes glad the heart of man, with water. [We do not] mix, that is, our doctrine with what is common and cheap, and debased, and stale, and tasteless, in order to turn the adulteration to our profit and accommodate ourselves to those who meet us, and curry favor with everyone. [We do not] become ventriloquists and chatterers, who serve their own pleasures by words uttered from the earth, and sink into the earth, and, to gain the special good will of the multitude, injure in the highest degree, no, ruin ourselves, and shed the innocent blood of simpler souls, which will be required at our hands.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT, ORATION 2:46",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.1.3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 1:3",
+     "osis": [
+      "Isa.1.3"
+     ]
+    },
+    "quote": "Isaiah calls to you to know your owner, like the ox, and to know the manger of your Lord, like the donkey.",
+    "source_title": "ON THE BIRTH OF CHRIST, ORATION 38:17",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.21.2.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 21:2",
+     "osis": [
+      "Isa.21.2"
+     ]
+    },
+    "quote": "We receive the Son's light from the Father's light in the light of the Spirit: that is what we ourselves have seen and what we now proclaim—it is the plain and simple explanation of the Trinity. Let the treacherous deal treacherously, let the transgressor transgress—we shall preach what we know. We shall climb a lofty mountain and shout it out, if we are not given a hearing below. We shall extol the Spirit; we shall not be afraid. If we do have fear, it will be of silence, not of preaching.",
+    "source_title": "ON THE HOLY SPIRIT, THEOLOGICAL ORATION 5 (31).3",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.24.2.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 24:2",
+     "osis": [
+      "Isa.24.2"
+     ]
+    },
+    "quote": "Nor indeed is there any distinction between the state of the people and that of the priesthood: but it seems to me to be a simple fulfillment of the ancient curse, \"As with the people, so with the priest.\" Nor again are the great and eminent men affected otherwise than the majority; no, they are openly at war with the priest, and the piety of the people is an aid to their powers of persuasion. And indeed, provided that it is on behalf of the faith and of the highest and most important questions, let the people be thus disposed, and I do not blame them. To say the truth, I go so far as to praise and congratulate the people.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT, ORATION 2:82",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.26.11.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 26:11",
+     "osis": [
+      "Isa.26.11"
+     ]
+    },
+    "quote": "I know the glittering sword, and the blade made drunk in heaven, bidden to slay, to bring to nothing, to make childless and to spare neither flesh nor marrow nor bones. I know him who, though free from passion, meets us like a bear robbed of her cubs, like a leopard in the way of the Assyrians, not only those of that day, but if anyone now is an Assyrian in wickedness. Nor is it possible to escape the might and speed of his wrath when he watches over our impieties, and his jealousy, which knows to devour his adversaries, pursues his enemies to the death. I know the emptying, the making void, the making waste, the melting of the heart and knocking of the knees together;7 such are the punishments of the ungodly.",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:7",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.26.18.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 26:18",
+     "osis": [
+      "Isa.26.18"
+     ]
+    },
+    "quote": "Let us talk about how \"mercy is put in the balance\" as holy Isaiah declares, for goodness is not without discernment, as the first laborers in the vineyard fancied, because they could not perceive any distinction between those who were paid alike. And [let us talk about] how anger, which is called \"the cup in the hand of the Lord\" and \"the cup of falling which is drained,\" is in proportion to transgressions, even though he abates to all somewhat of what is their due and dilutes with compassion the unmixed draught of his wrath. For he inclines from severity to indulgence toward those who accept chastisement with fear and who after a slight affliction conceived and are in pain with conversion and bring forth the perfect spirit of salvation. But nevertheless he reserves the dregs, the last drop of his anger, that he may pour it out entire upon those who, instead of being healed by his kindness, grow obdurate, like the hard-hearted Pharaoh, that bitter taskmaster, who is set forth as an example of the power of God over the ungodly.",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:4",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.28.11.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 28:11",
+     "osis": [
+      "Isa.28.11"
+     ]
+    },
+    "quote": "They spoke with strange tongues and not those of their native land; and the wonder was great, a language spoken by those who had not learned it. And the sign is to them that do not believe, not to them that believe, that it may be an accusation of the unbelievers, as it is written, \"With other tongues and other lips will I speak to this people, and not even so will they listen to me, says the Lord.\" But they heard. Here stop a little and raise a question. How are you to divide the words? For the expression has an ambiguity, which is to be determined by the punctuation. Did they each hear in their own dialect so that if I may so say, one sound was uttered but many were heard; the air being thus beaten and, so to speak, sounds being produced more clear than the original sound? Or are we to put the stop after \"they heard\" and then to add \"them speaking in their own languages\" to what follows, so that it would be speaking in the hearers' own languages, which would be foreign to the speakers? I prefer to put it this latter way; for on the other plan the miracle would be rather of the hearers than of the speakers; whereas in this it would be on the speakers' side. And it was they who were reproached for drunkenness, evidently because they by the Spirit wrought a miracle in the matter of the tongues.",
+    "source_title": "ON PENTECOST, ORATION 41:15",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.28.17.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 28:17",
+     "osis": [
+      "Isa.28.17"
+     ]
+    },
+    "quote": "Discourse awhile on our present heavy blow, about the just judgments of God, whether we grasp their meaning or are ignorant of their great depth. How again \"mercy is put in the balance,\" as holy Isaiah declares. For goodness is not without discernment, as the first laborers in the vineyard fancied, because they could not perceive any distinction between those who were paid alike. [Perceive] how anger, which is called \"the cup in the hand of the Lord\" and \"the cup of falling which is drained,\" is in proportion to transgressions, even though he shows mercy to every one according to what they are due and dilutes with compassion the unmixed draught of his wrath. For he inclines from severity to indulgence toward those who accept chastisement with fear, and who after a slight affliction conceive and are in pain with conversion, and bring forth the perfect spirit of salvation. But nevertheless he reserves the dregs, the last drop of his anger, that he may pour it out entire upon those who, instead of being healed by his kindness, grow obdurate, like the hard-hearted Pharaoh, that bitter taskmaster, who is set forth as an example of the power of God over the ungodly.",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:4",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.28.19.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 28:19",
+     "osis": [
+      "Isa.28.19"
+     ]
+    },
+    "quote": "Every time is suitable for your ablution, since any time may be your death. With Paul I shout to you with that loud voice, \"Behold now is the accepted time; behold now is the day of salvation\";56 and that now does not point to any one time but is every present moment. And again \"Awake, you that sleep, and Christ shall give you light,\" dispelling the darkness of sin. For as Isaiah says, \"In the night hope is evil,\" and it is more profitable to be received in the morning.",
+    "source_title": "ON HOLY BAPTISM, ORATION 40:13",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.29.9.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 29:9",
+     "osis": [
+      "Isa.29.9"
+     ]
+    },
+    "quote": "What are we to do now, my brothers, when crushed, cast down and drunk but not with strong drink or with wine, which excites and obfuscates but for a while, but with the blow which the Lord has inflicted upon us? He says, \"And you, O heart, be stirred and shaken, and gives to the despisers the spirit of sorrow and deep sleep to drink.\" To [them] he also says, \"See, you despisers, behold, and wonder and perish.\" How shall we bear his convictions; or what reply shall we make, when he reproaches us not only with the multitude of the benefits for which we have continued ungrateful, but also with his chastisements, and reckons up the remedies with which we have refused to be healed?",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:10",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.32.20.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 32:20",
+     "osis": [
+      "Isa.32.20"
+     ]
+    },
+    "quote": "Only let us not be condemned for frivolity by asking for little, and for what is unworthy of the giver. Blessed is he from whom Jesus asks drink, as he did from that Samaritan woman, and gives a well of water springing up unto eternal life. Blessed is he that sows beside all waters, and upon every soul, tomorrow to be ploughed and watered, which today the ox and the donkey tread, while it is dry and without water, and oppressed with lack of rationality. And blessed is he who, though he be a \"valley of rushes,\" is watered out of the house of the Lord; for he is made fruit-bearing instead of rush-bearing and produces that which is for the food of man, not that which is rough and unprofitable. And for the sake of this we must be very careful not to miss the grace.",
+    "source_title": "ON HOLY BAPTISM, ORATION 40:27",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.40.2.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 40:2",
+     "osis": [
+      "Isa.40.2"
+     ]
+    },
+    "quote": "How is it that some receive at the Lord's hand double for their sins and the measure of their wickedness is doubly filled up, as in the correction of Israel, while the sins of others are removed by a sevenfold compensation? What is the measure of the Amorites that is not yet full? And how is the sinner either acquitted or chastised again, acquitted perhaps, because reserved for the other world, chastised because healed thereby in this?",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:5",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.41.4.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 41:4",
+     "osis": [
+      "Isa.41.4"
+     ]
+    },
+    "quote": "[Where] do you get those fortresses of yours, \"ingenerate\" and \"unoriginate,\" from—or where the term \"immortal\"? Show us the express words, or we cross them out as unscriptural, and you will be dead as a result of your own principles, since the words, the wall of defense you trusted in, will have been destroyed. Is it not plain that these terms derived from passages that imply, without actually mentioning them? Which passages? What about \"I am the first, and I am hereafter,\" and \"Before me there is no other God and after me there shall be none,\" \"for everything that exists\" [God is saying] \"is mine, without beginning or ending\"? You have taken the truths that there is nothing before God and that he has no prior case, and you have given him the titles \"unoriginate\" and \"ingenerate.\" The fact that there is no halt to his ongoing existence means he is \"immortal\" and \"indestructible.\"",
+    "source_title": "ON THE HOLY SPIRIT, THEOLOGICAL ORATION 5(31).23",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.42.1.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 42:1",
+     "osis": [
+      "Isa.42.1"
+     ]
+    },
+    "quote": "Next is the fact of his being called Servant and serving many well, and that it is a great thing for him to be called the Child of God. For in truth he was in servitude to flesh and to birth and to the conditions of our life with a view to our liberation, and to that of all those whom he has saved, who were in bondage under sin. What greater destiny can befall humanity's humble state than that it should be intermingled with God and by this intermingling should be deified, and that we should be so visited by the Dayspring from on high, that even that holy thing that should be born should be called the Son of the Highest, and that there should be bestowed on him a name that is above every name? And what else can this be than God?—and that every knee should bow to him that was made of no reputation for us, and that mingled the form of God with the form of a servant, and that \"all the house of Israel should know that God has made him both Lord and Christ\"? For all this was done by the action of the Begotten and by the good pleasure of him that begat him.",
+    "source_title": "ON THE SON, THEOLOGICAL ORATION 4(30).3",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.42.8.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 42:8",
+     "osis": [
+      "Isa.42.8"
+     ]
+    },
+    "quote": "The same thing applies to the word Lord, which is also used as a name of God. \"I am the Lord your God,\" he says. \"This is my name,\" and \"The Lord is his name.\" But we are making deeper enquiries into a nature that has absolute existence, independent of anything else. The actual, personal being of God in its fullness is neither limited nor cut short by any prior or any subsequent reality—so it was, and so it will be.",
+    "source_title": "ON THE SON, THEOLOGICAL ORATION 4(30).18",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.45.3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 45:3",
+     "osis": [
+      "Isa.45.3"
+     ]
+    },
+    "quote": "Who is the person whose heart has never been made to burn, as the Scriptures have been opened, with the pure words of God that have been tried in a furnace;16 who has not, by a triple inscription of them on the breadth of his heart, attained the mind of Christ, or been admitted to the treasures that to most people remain hidden, secret and dark, to gaze on the riches therein and become able to enrich others, comparing spiritual things with spiritual.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:96",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.47.15.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 47:15",
+     "osis": [
+      "Isa.47.15"
+     ]
+    },
+    "quote": "For I know a cleansing fire that Christ came to send on the earth, and he himself is anagogically called a fire. This Fire takes away whatever is material and of evil habit. This [Christ] desires to kindle with all speed, for he longs for speed in doing us good, since he gives us even coals of fire to help us.",
+    "source_title": "ON HOLY BAPTISM, ORATION 40:36",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.48.4.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 48:4",
+     "osis": [
+      "Isa.48.4"
+     ]
+    },
+    "quote": "Perchance he will say to me, who am not reformed even by blows, \"I know that you are obstinate and your neck is an iron sinew, the heedless is heedless, and the lawless person acts lawlessly, and for nothing comes correction from heaven and the scourges.\" The bellows are burned, the lead is consumed, as I once reprimanded you by the mouth of Jeremiah: \"The founder melted the silver in vain; your wickednesses are not melted away.\" … May it not be that I should ever, among other chastisements, be thus approached by him who is good, and yet by my own contrariness continue to walk against his goodness. This causes God to walk against me in fury.",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:11-12",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.49.6.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 49:6",
+     "osis": [
+      "Isa.49.6"
+     ]
+    },
+    "quote": "He is called Servant and serves many well. And his being given the grand title \"Child of God\" agrees with this. For in truth he was subject as a servant to flesh and to birth and to the conditions of our life with a view toward our liberation. He was subject to all that he saved, held captive as we were in sin.",
+    "source_title": "ON THE SON, THEOLOGICAL ORATION 4(30).3",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.50.11.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 50:11",
+     "osis": [
+      "Isa.50.11"
+     ]
+    },
+    "quote": "One light alone let us shun: that which is the offspring of the terrible fire. Let us not walk in the light of our own fire and in the very flame we have kindled. For I know of a cleansing fire that Christ came to send on the earth, and that he himself is anagogically called a fire. This Fire takes away whatever is material and of evil habit. This he desires to kindle with all speed, for he longs for speed in doing us good, since he gives us even coals of fire to help us. I know also a fire that is not cleansing but avenging; either that fire of Sodom, which he pours down on all sinners, mingled with brimstone and storms, or that which is prepared for the devil and his angels.",
+    "source_title": "ON HOLY BAPTISM, ORATION 40:36",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.51.17.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 51:17",
+     "osis": [
+      "Isa.51.17"
+     ]
+    },
+    "quote": "Anger, which is called \"the cup in the hand of the Lord\" and \"the cup of falling that is drained,\" is in proportion to transgressions, even though he abates to all some of what is their due and dilutes with compassion the unmixed draught of his wrath. For he inclines from severity to indulgence toward those who accept chastisement with fear, and who after a slight affliction conceive and are in pain with conversion and bring forth the perfect spirit of salvation. But he nevertheless reserves the dregs, the last drop of his anger, that he may pour it out entire on those who, instead of being healed by his kindness, grow obdurate, like the hardhearted Pharaoh.",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:4",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.53.12.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 53:12",
+     "osis": [
+      "Isa.53.12"
+     ]
+    },
+    "quote": "If you are a Simon of Cyrene, take up the cross and follow. If you are crucified with him as a robber, acknowledge God as a penitent robber. If even he was numbered among the transgressors for you and your sin, do you become law-abiding for his sake. Worship him who was hanged for you, even if you yourself are hanging; make some gain even from your wickedness; purchase salvation by your death; enter with Jesus into paradise, so that you may learn from what you have fallen.",
+    "source_title": "ON HOLY EASTER, ORATION 45:24",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.53.2.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 53:2",
+     "osis": [
+      "Isa.53.2"
+     ]
+    },
+    "quote": "For he whom you now treat with contempt was once above you. He who is now man was once the uncompounded. What he was he continued to be; what he was not he took to himself. In the beginning he was uncaused; for what is the cause of God? But afterwards for a cause he was born. And that cause was that you might be saved, who insult him and despise his godhead, because of this, that he took on him your denser nature, having converse with flesh by means of mind. While his inferior nature, the humanity, became God, because it was united to God and became one person because the higher nature prevailed, [this happened] in order that I too might be made God so far as he is made man. He was born—but he had been begotten. He was born of a woman—but she was a virgin. The first is human, the second divine. In his human nature he had no father, but also in his divine nature [he had] no mother. Both these belong to godhead. He dwelled in the womb—but he was recognized by the prophet [John the Baptist], himself still in the womb, leaping before the Word, for whose sake he came into being. He was wrapped in swaddling clothes—but he took off the swathing bands of the grave by his rising again. He was laid in a manger—but he was glorified by angels, and proclaimed by a star and worshiped by the magi. Why are you offended by what is presented to your sight, because you will not look at what is presented to your mind? He was driven into exile into Egypt—but he drove away the Egyptian idols. He had no form or comeliness in the eyes of the Jews—but to David he is fairer than the children of humankind. And on the mountain he was bright as the lightning and became more luminous than the sun, initiating us into the mystery of the future.",
+    "source_title": "ON THE SON, THEOLOGICAL ORATION 3(29).19",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.53.4.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 53:4",
+     "osis": [
+      "Isa.53.4"
+     ]
+    },
+    "quote": "\"He was made flesh\" seems to be equivalent to that in which it is said that he was made sin or a curse for us, not that the Lord was transmuted into either of these—for how could he? But because by taking them on him he \"took away our iniquities and bore our infirmities.\"",
+    "source_title": "LETTER 51(101)",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.53.7.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 53:7",
+     "osis": [
+      "Isa.53.7"
+     ]
+    },
+    "quote": "He prays, but he hears prayer. He weeps, but he causes tears to cease. He asks where Lazarus was laid, for he was man; but he raises Lazarus, for he was God. He is sold, and very cheap, for it is only for thirty pieces of silver, but he redeems the world, and that at a great price, for the price was his own blood. As a sheep he is led to the slaughter, but he is the shepherd of Israel, and now of the whole world also. As a lamb he is silent, yet he is the Word and is proclaimed by the voice of one crying in the wilderness. He is bruised and wounded, but he heals every disease and every infirmity. He is lifted up and nailed to the tree, but by the tree of life he restores us, yes, he saves even the robber crucified with him. … He dies, but he gives life, and by his death, he destroys death. He is buried, but he rises again; he goes down into hell, but he brings up the souls; he ascends to heaven and shall come again to judge the living and the dead.",
+    "source_title": "ON THE SON, THEOLOGICAL ORATION 3(29).20",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.54.7-8.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 54:7-8",
+     "osis": [
+      "Isa.54.7"
+     ]
+    },
+    "quote": "I seem, indeed, to hear that voice from him who gathers together those who are broken and welcomes the oppressed.… The measure of his kindness exceeds the measure of his discipline. The former things were owing to our wickedness, the present things to the adorable Trinity, the former for our cleansing, the present for my Glory.",
+    "source_title": "THE LAST FAREWELL, ORATION 42:7",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.58.10.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 58:10",
+     "osis": [
+      "Isa.58.10"
+     ]
+    },
+    "quote": "[My father] actually treated his own property as if it were another's, of which he was but the steward, relieving poverty as far as he could and expending not only his superfluities but his necessities—a manifest proof of love for the poor, giving a portion not only to seven, according to the injunction of Solomon, but if an eighth came forward, not even in his case being stingy but more pleased to dispose of his wealth than we know others are to acquire it.… This is what most people do: they give indeed, but without that readiness that is a greater and more perfect thing than the mere offering. For he thought it much better to be generous even to the undeserving for the sake of the deserving than from fear of the undeserving to deprive those who were deserving. And this seems to be the duty of casting our bread on the waters, since it will not be swept away or perish in the eyes of the just Investigator but will arrive yonder where all that is ours is laid up and will meet with us in due time, even though we think it not. But what is best and greatest of all, [my father's] magnanimity was accompanied by freedom from ambition.",
+    "source_title": "ON THE DEATH OF HIS FATHER, ORATION 18:20-21",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.63.3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 63:3",
+     "osis": [
+      "Isa.63.3"
+     ]
+    },
+    "quote": "And, if they marvel and say, as in Isaiah's drama, \"Who is this that comes from Edom and from the things of the earth?\" or \"How are the garments red when he is without blood or body, as of one that treads in the full winepress?\"—if they say this, then set forth the beauty of the array of the body that suffered, adorned by the passion and made splendid by the Godhead. Nothing can be lovelier or more beautiful than that.… Will you think little of him because he humbled himself for your sake?… Do you conceive of him as less because he girds himself with a towel and washes his disciples and shows that humiliation is the best road to exaltation?",
+    "source_title": "ON HOLY EASTER, ORATION 45:25-26",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.7.14.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 7:14",
+     "osis": [
+      "Isa.7.14"
+     ]
+    },
+    "quote": "Humanity was blended with God, and he was one. The more powerful predominated in order that I might become god just as he became human. Although he was already begotten, he was born of a woman, who was a virgin. Because his birth was from a woman, it was human. Because she was a virgin, it was divine. He had neither a human father nor a divine mother.",
+    "source_title": "ON THE SON, THEOLOGICAL ORATION 3(29).19",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.9.13.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 9:13",
+     "osis": [
+      "Isa.9.13"
+     ]
+    },
+    "quote": "It is better to turn again when we err than to be free from correction when we stumble. For whom the Lord loves he chastens, and a rebuke is a fatherly action. Every soul that is not chastised is not healed. Is not then freedom from chastisement a hard thing? But to fail to be corrected by the chastisement is still harder.",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:15",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Isa.9.16-17.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Isaiah 9:16-17",
+     "osis": [
+      "Isa.9.16"
+     ]
+    },
+    "quote": "He [Paul] lived not to himself but to Christ and his preaching. He crucified the world to himself, and being crucified to the world and the things which are seen, he thought all things little and too small to be desired. [He thought this] even though from Jerusalem and round about to Illyricum he had fully preached the gospel, even though he had been prematurely caught up to the third heaven, and had had a vision of Paradise, and had heard unspeakable words. Such was Paul, and everyone of similar spirit with him. But we fear that in comparison with them, we may be foolish princes of Zoan, or extortionists who exact the fruits of the ground or falsely bless the people.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT, ORATION 2:56",
+    "source_url": ""
+   }
+  ],
+  "Jer": [
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.15.10.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 15:10",
+     "osis": [
+      "Jer.15.10"
+     ]
+    },
+    "quote": "Such is our life, we whose existence is so transitory. Such is the game we play on earth. We do not exist, and we are born, and being born, we disintegrate and disappear. We are a fleeting dream, an apparition without substance, the flight of a bird that passes, a ship that leaves no trace on the sea. We are dust, a vapor, the morning dew, a flower growing but a moment and withering in a moment. \"A person's days are as grass. As the flower of the field, so shall he flourish,\" beautifully, as described by holy David in meditating on our weakness. And again in these words: \"Declare to me the fewness of my days.\" And he defines the days of people as the measure of a span. What would you say to Jeremiah, who, complaining about his birth, even blames his mother, and that, too, for the failings of others. I have seen all things, says the Preacher, I have reviewed in thought all human things, wealth, pleasure, power, unstable glory, wisdom that evades us rather than is won; then pleasure again, wisdom again, often revolving the same objects, the pleasures of appetite, orchards, numbers of slaves, store of wealth, serving men and serving maids, singing men and singing women, arms, spearmen, subject nations, collected tributes, the pride of kings, all the necessaries and superfluities of life, in which I surpassed all the kings that were before me. And what does he say after all these things? Vanity of vanities.",
+    "source_title": "ON HIS BROTHER ST. CAESARIUS 7:19",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.1.10.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:10",
+     "osis": [
+      "Jer.1.10"
+     ]
+    },
+    "quote": "Isaiah, again, beheld the glory of the seraphim, and after him Jeremiah, who was entrusted with great power against nations and kings. The one heard the divine voice and was cleansed by a live coal for his prophetic office, and the other was known before his formation and sanctified before his birth. Paul, also, while yet a persecutor, who became the great herald of the truth and teacher of the Gentiles in faith, was surrounded by a light and acknowledged him whom he was persecuting, and was entrusted with his great ministry and filled every ear and mind with the gospel.",
+    "source_title": "ON THE DEATH OF HIS FATHER, ORATION 18:14",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.1.6.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:6",
+     "osis": [
+      "Jer.1.6"
+     ]
+    },
+    "quote": "I resort once again to history. When I consider the men of best repute in ancient days, who were ever preferred by grace to the office of ruler or prophet, I discover that some readily complied with the call while others deprecated the gift. I also learn that those who drew back were not blamed for their timidity, nor were those who came forward accused of being too eager. The former stood in awe of the greatness of the ministry; the latter trustfully obeyed him who called them. Aaron was eager, but Moses resisted; Isaiah readily submitted, but Jeremiah was afraid of his youth and did not venture to prophesy until he had received from God a promise and a power beyond his years.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:114",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.1.6.1",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:6",
+     "osis": [
+      "Jer.1.6"
+     ]
+    },
+    "quote": "It is a good thing even to hold back from God for a little while—as did the great Moses in ancient times, and Jeremiah later on—and then to run readily to him when he calls. This is what Aaron and Isaiah did—as long as both are done with a respectful spirit. Do the former because you lack strength. Do the latter because of the power of God who calls you.",
+    "source_title": "ON EASTER AND HIS RELUCTANCE, ORATION 1:1",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.1.8.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:8",
+     "osis": [
+      "Jer.1.8"
+     ]
+    },
+    "quote": "I resort once again to history, and on considering the men of best repute in ancient days, who were ever preferred by grace to the office of ruler or prophet, I discover that some readily complied with the call, others deprecated the gift, and that neither those who drew back were blamed for timidity, nor those who came forward for eagerness. The former stood in awe of the greatness of the ministry, the latter trustfully obeyed Him Who called them. Aaron was eager, but Moses resisted, Isaiah readily submitted, but Jeremiah was afraid of his youth, and did not venture to prophesy until he had received from God a promise and power beyond his years.\n\n...\n\nWhat is it that has induced this fear in me, that, instead of supposing me to be needlessly afraid, you may highly commend my foresight? I hear from Moses himself, when God spake to him, that, although many were bidden to come to the mount, one of whom was even Aaron, with his two sons who were priests, and seventy elders of the senate, the rest were ordered to worship afar off, and Moses alone to draw near, and the people were not to go up with him. For it is not everyone who may draw near to God, but only one who, like Moses, can bear the glory of God. Moreover, before this, when the law was first given, the trumpet-blasts, and lightnings, and thunders, and darkness, and the smoke of the whole mountain, and the terrible threats that if even a beast touched the mountain it should be stoned, and other like alarms, kept back the rest of the people, for whom it was a great privilege, after careful purification, merely to hear the voice of God. But Moses actually went up and entered into the cloud, and was charged with the law, and received the tables, which belong, for the multitude, to the letter, but, for those who are above the multitude, to the spirit.",
+    "source_title": "IN DEFENCE OF HIS FLIGHT TO PONTUS, ORATION 2.114, 2.92",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nazianzus%2FOrations%2FOration%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.23.24.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 23:24",
+     "osis": [
+      "Jer.23.24"
+     ]
+    },
+    "quote": "How, again, can justice be done to the scriptural fact that God pervades and fills the universe (\"Do not I fill heaven and earth?' says the Lord,\" and, \"The spirit of the Lord fills the world\") if part of it limits him and part of it is limited by him? It cannot, for he must either occupy a complete vacuum and our universe vanish—involving the blasphemy that God has been rendered corporeal and does not possess the universe he made; or his body must be contained by bodies, which is impossible; or he must be knit through them as a contrasted strand, like liquids in mixture, parting some, parted by others—which is a more absurd old wives' tale than even Epicurus's atoms. It follows, then, that talk of God's body has no solid body to it and must collapse. What if we call God \"immaterial,\" the fifth element envisaged by some, borne along the circular drift? Let us assume that he is some immaterial, fifth body, incorporeal, if they wait for it so to suit their free-drifting, self-constructing argument—I will not quarrel over the point. What place will he have in the moving drift of things—leaving out of account the blasphemy of identifying the creatures' motion with their creator's, the mover's (if they will concede the term) with that of the moved? What moves this fifth element? What moves the whole? What moves that which moves the whole? And so on ad infinitum. Must not this moving fifth element be in space? Suppose that they call it something other than the fifth element, an angelic body, say. What grounds have they for asserting that angels are bodies? What are these bodies? How far will God transcend angels who are his ministers? If supra-angelic, a countless swarm of bodies will be fetched in, an abyss of nonsense with no halting place.So we have proved that God is not a body. No divinely inspired teacher has asserted or accepted that idea; the verdict of our fold is against it. He can only be incorporeal. But the term \"incorporeal,\" though granted, does not give an all-embracing revelation of God's essential being. The same is true of \"ingenerate,\" \"unoriginate,\" \"immutable,\" and \"immortal,\" indeed of all attributes applied or referred to God. For what has the fact of owning no beginning, of freedom from change, from limitation, to do with his real, fundamental nature? No, the full reality is left to be grasped, philosophically treated and scrutinized by a more advanced theorist of God. Just as predicating \"is body\" or \"is begotten\" of something or other where these predicates are applicable is not enough clearly to set out the things, but you must also, if an object of knowledge is to be displayed with adequate clarity, give the predicates their subject (people, cows and horses, you see, are \"corporeal,\" \"begotten\" and \"mortal\"), so, in the same way, an inquirer into the nature of a real being cannot stop short at saying what it is not but must add to his denials a positive affirmation (and how much easier it is to take in a single thing than to run the full gamut of particular negations!). The point of this is that comprehension of the object of knowledge should be effected by negation of what the thing is not and by positive assertion of what it is. A person who tells you what God is not but fails to tell you what he is is rather like someone who, asked what twice five is, answers \"not two, not three, not four, not five, not twenty, not thirty, no number, in short, under ten or over ten.\" He does not deny it is ten, but he is also not settling the questioner's mind with a firm answer. It is much simpler, much briefer, to indicate all that something is not by indicating what it is, than to reveal what it is by denying what it is not.",
+    "source_title": "ON THEOLOGY, THEOLOGICAL ORATION 2 (28).8-9",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.23.24.1",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 23:24",
+     "osis": [
+      "Jer.23.24"
+     ]
+    },
+    "quote": "This is all common sense, surely, but now that we have proved deity incorporeal, we shall take the examination a stage further. The problem is this: is deity located in space or not? If it is not, then your shrewd critic might ask how it can even exist at all. Granted that what does not exist has no spatial location, it may well be the case that what has no spatial location does not exist. But if deity is spatially located there are two possible consequences: either the universe contains it, or it is located above the universe. Taking the first alternative, then, it is either contained in a part of the universe or the whole of it. Supposing deity is contained in a part of the universe, it will be delimited by something smaller; if in the whole, by something larger, quite different in relative scale, I mean, as between deity inside and the surrounding universe, granted the universe is going to be contained by the universe and all spatial location to have its bounding line. These consequences follow the hypotheses that the universe contains God. Again, where was it before the universe was created? This produces a considerable problem, you see. If, on the other hand, deity is located above the universe, what is the dividing line between it and the universe? Where is this higher place? How are higher and lower levels to be recognized; where there is no dividing line between to separate them? There will have, surely, to be something in between, something to bound the universe off from what lies above it. In that case this something in between must have the very spatial location we rejected. I do not now insist on the fact that deity must be delimited if it be mentally comprehended, for comprehension is one form of delimitation.Why have I made this digression, too labored, I dare say, for the general ear but in tune with the prevalent fashion in discussions, a fashion that despises noble simplicity and substitutes tortuous conundrums? I did it to make the tree known by its fruits, to make the darkness that activates dogmas like these, I mean, known by the obscurity of their expression. I did not do it to gain a reputation for startling oratory or extraordinary wisdom as a marvelous Daniel for \"showing hard sentences and dissolving doubts.\" No, I wanted to make plain the point my sermon began with, which was this: the incomprehensibility of deity to the human mind and its totally unimaginable grandeur. Not that deity resents our knowledge: resentment is a far cry from the divine nature, serene as it is, uniquely and properly \"good,\" especially resentment of its most prized creation. What can mean more to the Word than thinking beings, since their very existence is an act of supreme goodness? It is not that he treasures his own fullness of glory, keeping his majesty costly by inaccessibility. It would be utterly dishonest, utterly out of character not merely for God but also for an ordinary good person with anything of a proper conscience about him to get himself the senior place by keeping others out.",
+    "source_title": "ON THEOLOGY, THEOLOGICAL ORATION 2 (28).10-11",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.2.8.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:8",
+     "osis": [
+      "Jer.2.8"
+     ]
+    },
+    "quote": "Jeremiah was known before he was formed, and sanctified from the womb. … He longs for water over his head and a fountain of tears for his eyes that he may adequately weep for Israel. No less does he lament the depravity of its rulers. God speaks to him to rebuke the priests: \"The priests did not say, 'Where is the Lord?' Those who handle the law did not know me; the rulers transgressed against me.\" Again he says to him, \"The shepherds are stupid, and do not inquire of the LORD; therefore they have not prospered, and all their flock is scattered.\" Again, \"Many shepherds have destroyed my vineyard, they have trampled down my portion, they have made my pleasant portion a desolate wilderness.\" He further attacks the pastors again: \" 'Woe to the shepherds who destroy and scatter the sheep of my pasture!' says the LORD. Therefore thus says the LORD, the God of Israel, concerning the shepherds who care for my people: 'You have scattered my flock, and have driven them away, and you have not attended to them. Behold, I will attend to you for your evil doings, says the LORD.' \"",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:67-68",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.3.14-15.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 3:14-15",
+     "osis": [
+      "Jer.3.14"
+     ]
+    },
+    "quote": "God, who gave the word to those who preach the gospel with great power for the perfection of the gospel, may he himself hold me by my right hand, and guide me with his counsel and receive me with glory. He is a shepherd to shepherds and a guide to guides that we may feed his flock with knowledge, not with the instruments of a foolish shepherd, according to the blessing, and not according to the curse pronounced against the people of former days. May he give strength and power to his people, and himself present them to himself.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:117",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.3.9.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 3:9",
+     "osis": [
+      "Jer.3.9"
+     ]
+    },
+    "quote": "It is not only bodily sin that is called fornication and adultery, but any sin you have committed, and especially transgression against that which is divine. Perhaps you ask how we can prove this. \"They prostituted themselves,\" it says \"with things they made.\" Don't you see an impudent act of fornication? And again, \"They committed adultery with pieces of wood.\" Don't you see a kind of adulterous religion? Do not then commit spiritual adultery, while keeping your bodies chaste.",
+    "source_title": "ON THE WORDS OF THE GOSPEL, 'WHEN JESUS HAD FINISHED THESE SAYINGS,' ORATION 37:19",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.4.22.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 4:22",
+     "osis": [
+      "Jer.4.22"
+     ]
+    },
+    "quote": "The ancient and pious doctrine that defended the Trinity was abolished, by setting up a fort and battering down the incarnation. They opened the door to impiety by means of what is written, using as their pretext their reverence for Scripture and for the use of approved terms but really introducing unscriptural Arianism. For the phrase \"like, according to the Scriptures,\" was a bait to the simple, concealing the hook of impiety, a figure seeming to look in the direction of all who passed by, a boot fitting either foot, a winnowing with every wind, gaining authority from the newly written wickedness and tool against the truth. \"They were wise to do evil, but they had no knowledge to do good.\"",
+    "source_title": "ON THE GREAT ATHANASIUS, ORATION 21:22",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.4.3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 4:3",
+     "osis": [
+      "Jer.4.3"
+     ]
+    },
+    "quote": "In the last discourse we laid down clearly what sort of character the theologian ought to bear, what kind of subject he may philosophize about, and when and to what extent he may do so. We saw that he ought to be pure, as far as he can be, in order that light may be apprehended by light. He ought to associate with serious people in order that his word will not be fruitless by falling on an unfruitful soil and creating a climate of calm within from the whirl of outward distractions. Then we will not be like madmen constantly trying to catch our breath. This way, we can go as far as we have ourselves advanced or at least in the direction we are advancing. This is how it is when we have broken up for ourselves the fallows of Divinity, so as not to sow seed among thorns. We have plowed the ground, being molded and molding others by Holy Scripture.",
+    "source_title": "ON THEOLOGY, THEOLOGICAL ORATION 2(28).1",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.50.31.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 50:31",
+     "osis": [
+      "Jer.50.31"
+     ]
+    },
+    "quote": "I am to speak against persons who pride themselves on their eloquence; so, to begin with a text of Scripture, \"Behold, I am against you, O proud one,\" not only in your system of teaching but also in your hearing and in your tone of mind. For there are certain persons who have not only their ears and their tongues but even, as I now perceive, their hands too, itching for our words; who delight in profane babblings, and oppositions of science falsely so-called and arguments about words that tend to no profit; for so Paul, the preacher and establisher of the \"Word cut short,\" the disciple and teacher of the fishermen, calls all that is excessive or superfluous in discourse. But as to those to whom we refer, would that they, whose tongue is so verbose and clever in applying itself to noble and approved language, would likewise pay some attention to actions. For then perhaps in a little while they would become less sophistical and less absurd and strange acrobats of words, if I may use a ridiculous expression about a ridiculous subject.",
+    "source_title": "FIRST THEOLOGICAL ORATION 1(27).1",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jer.6.28-29.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jeremiah 6:28-29",
+     "osis": [
+      "Jer.6.28"
+     ]
+    },
+    "quote": "Perhaps he will say to me, who am not reformed even by blows, I know that you are obstinate, and your neck is an iron sinew, the heedless is heedless, and the lawless person acts lawlessly, naught is the heavenly correction, naught the scourges. The bellows are burned, the lead is consumed, as I once reproached you by the mouth of Jeremiah, the founder melted the silver in vain, your evil deeds are not melted away. Can you abide my wrath? says the Lord. Has not my hand the power to inflict on you other plagues also?",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:11",
+    "source_url": ""
+   }
+  ],
+  "Joel": [
+   {
+    "entry_id": "gregory-of-nazianzus.Joel.1.13.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Joel 1:13",
+     "osis": [
+      "Joel.1.13"
+     ]
+    },
+    "quote": "Joel again summons us wailing and will have the ministers of the altar lament under the conditions of famine. He does not allow us to revel in the misfortunes of others. After sanctifying a fast, calling a solemn assembly and gathering the old men, the children, and those of tender age, we ourselves must further haunt the temple in sackcloth and ashes, prostrated humbly on the ground, because the field is wasted and the meat offering and the drink offering is cut off from the house of the Lord, till we draw down mercy by our humiliation.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:59",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Joel.2.14.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Joel 2:14",
+     "osis": [
+      "Joel.2.14"
+     ]
+    },
+    "quote": "We should enter his house in sackcloth and lament night and day between the porch and the altar, in piteous array, and with more piteous voices. [We should] cry aloud without ceasing on behalf of ourselves and the people, sparing nothing, either toil or word, which may propitiate God. [We should] say, \"Spare, O Lord, your people, and give not your heritage to reproach,\" and the rest of our prayer; surpassing the people in our sense of the affliction as much as in our rank, instructing them in our own persons in compunction and correction of wickedness, and in the consequent longsuffering of God, and cessation of the scourge. Come then, all of you, my brethren, \"let us worship and fall down, and weep before the Lord our maker\"; let us appoint a public mourning in our various ages and families; let us raise the voice of supplication. Let this, instead of the cry which he hates, enter into the ears of the Lord of Sabbaoth. Let us anticipate his anger by confession;13 let us desire to see him appeased, after [his wrath]. Who knows, he says, if he will turn and choose again, and leave a blessing behind him?",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:13–14",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Joel.2.17.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Joel 2:17",
+     "osis": [
+      "Joel.2.17"
+     ]
+    },
+    "quote": "Who will cry aloud, \"Spare your people, O Lord, and do not give your heritage to reproach, that the nations should rule over them\"? Noah, Job and Daniel stood together as men of prayer. Who will pray for us, that we might have a slight respite from warfare and recover ourselves?",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:89",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Joel.2.3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Joel 2:3",
+     "osis": [
+      "Joel.2.3"
+     ]
+    },
+    "quote": "Terrible is an unfruitful season, and the loss of the crops. It could not be otherwise, when people are already rejoicing in their hopes and counting on their all but harvested stores. Terrible again is an unseasonable harvest, when the farmers labor with heavy hearts, sitting as it were beside the grave of their crops, which the gentle rain nourished but the wild storm has rooted up, \"with which the reaper does not fill his hand or the binder of sheaves his bosom.\" Nor have they obtained the blessing which passers-by bestow upon the farmers. Wretched indeed is the sight of the ground devastated, cleared and shorn of its ornaments, over which the blessed Joel wails in his most tragic picture of the desolation of the land and the scourge of the famine. Another prophet wails as he contrasts with its former beauty its final disorder and thus discourses on the anger of the Lord when he smites the land: before him is the Garden of Eden, behind him a desolate wilderness.",
+    "source_title": "ON HIS FATHER'S SILENCE, ORATION 16:6",
+    "source_url": ""
+   }
+  ],
+  "Jonah": [
+   {
+    "entry_id": "gregory-of-nazianzus.Jonah.1.1.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jonah 1:1",
+     "osis": [
+      "Jonah.1.1"
+     ]
+    },
+    "quote": "On the contrary, as my instructor said, and as I am myself convinced, Jonah knew better than any one the purpose of his message to the Ninevites, and that, in planning his flight, although he changed his place, he did not escape from God. Nor is this possible for any one else, either by concealing himself in the bosom of the earth, or in the depths of the sea, or by soaring on wings, if there be any means of doing so, and rising into the air, or by abiding in the lowest depths of hell, or by enveloping himself in a thick cloud, or by any other of the many devices for ensuring escape. For God alone of all things cannot be escaped from or contended with; if He wills to seize and bring them under His hand, He outstrips the swift, He outwits the wise, He overthrows the strong, He abases the lofty, He subdues rashness, He represses power.",
+    "source_title": "IN DEFENCE OF HIS FLIGHT TO PONTUS, ORATION 2.108",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nazianzus%2FOrations%2FOration%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jonah.1.1.1",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jonah 1:1",
+     "osis": [
+      "Jonah.1.1"
+     ]
+    },
+    "quote": "What then is the story, and wherein lies its application? For, perhaps, it would not be amiss to relate it, for the general security. Jonah also was fleeing from the face of God, or rather, thought that he was fleeing: but he was overtaken by the sea, and the storm, and the lot, and the whale's belly, and the three days' entombment, the type of a greater mystery. He fled from having to announce the dread and awful message to the Ninevites, and from being subsequently, if the city was saved by repentance, convicted of falsehood: not that he was displeased at the salvation of the wicked, but he was ashamed of being made an instrument of falsehood, and exceedingly zealous for the credit of prophecy, which was in danger of being destroyed in his person, since most men are unable to penetrate the depth of the Divine dispensation in such cases.",
+    "source_title": "IN DEFENCE OF HIS FLIGHT TO PONTUS, ORATION 2.106",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nazianzus%2FOrations%2FOration%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jonah.1.3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jonah 1:3",
+     "osis": [
+      "Jonah.1.3"
+     ]
+    },
+    "quote": "Jonah then was not ignorant of the mighty hand of God, with which he threatened other men, nor did he imagine that he could utterly escape the Divine power; this we are not to believe: but when he saw the falling away of Israel, and perceived the passing over of the grace of prophecy to the Gentiles—this was the cause of his retirement from preaching and of his delay in fulfilling the command; accordingly he left the watchtower of joy, for this is the meaning of Joppa in Hebrew, I mean his former dignity and reputation, and flung himself into the deep of sorrow: and hence he is tempest-tossed, and falls asleep, and is wrecked, and aroused from sleep, and taken by lot, and confesses his flight, and is cast into sea, and swallowed, but not destroyed, by the whale.",
+    "source_title": "In Defense of His Flight to Pontus, Oration 2:109",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nazianzus%2FOrations%2FOration%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jonah.1.3.1",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jonah 1:3",
+     "osis": [
+      "Jonah.1.3"
+     ]
+    },
+    "quote": "But there he calls upon God, and, marvellous as it is, on the third day he, like Christ, is delivered.… yet, in my own case, what could be said, what defence could be made, if I longer remained restive, and rejected the yoke of ministry, which, though I know not whether to call it light or heavy, had at any rate been laid upon me.… On this account I had much toilsome consideration to discover my duty, being set in the midst betwixt two fears, of which the one held me back, the other urged me on. For a long while I was at a loss between them, and after wavering from side to side, and, like a current driven by inconstant winds, inclining first in this direction, then in that, I at last yielded to the stronger, and the fear of disobedience overcame me.",
+    "source_title": "In Defense of His Flight to Pontus, Oration 2:109-12",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nazianzus%2FOrations%2FOration%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jonah.1.3.2",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jonah 1:3",
+     "osis": [
+      "Jonah.1.3"
+     ]
+    },
+    "quote": "On the contrary, as my instructor said, and as I am myself convinced, Jonah knew better than any one the purpose of his message to the Ninevites, and that, in planning his flight, although he changed his place, he did not escape from God. Nor is this possible for any one else, either by concealing himself in the bosom of the earth, or in the depths of the sea, or by soaring on wings, if there be any means of doing so, and rising into the air, or by abiding in the lowest depths of hell, or by enveloping himself in a thick cloud, or by any other of the many devices for ensuring escape. For God alone of all things cannot be escaped from or contended with; if He wills to seize and bring them under His hand, He outstrips the swift, He outwits the wise, He overthrows the strong, He abases the lofty, He subdues rashness, He represses power.",
+    "source_title": "In Defense of His Flight to Pontus, Oration 2:108",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nazianzus%2FOrations%2FOration%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jonah.1.9.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jonah 1:9",
+     "osis": [
+      "Jonah.1.9"
+     ]
+    },
+    "quote": "It was not likely that such a prophet should be ignorant of the design of God, which was to bring about, by means of threat, the escape of the Ninevites from the threatened doom, according to his great wisdom and unsearchable judgments and according to his ways which are beyond our tracing and finding out.… To imagine that Jonah hoped to hide himself at sea and escape by his flight the great eye of God is surely utterly absurd and stupid, and unworthy of credit, not only in the case of a prophet but even in the case of any sensible person, who has only a slight perception of God, whose power is over all.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:107",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jonah.2.1-2.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jonah 2:1-2",
+     "osis": [
+      "Jonah.2.1"
+     ]
+    },
+    "quote": "Do you praise the fearlessness of Elijah in speaking to tyrants and his translation in fire and the noble heritage of Elisha, the sheepskin mantle, accompanied by the spirit of Elijah? Then praise also the life of Basil passed in the midst of the fire, I mean in the multitude of temptations, and his preservation through fire which burned but did not consume, the miracle of the bush. Praise also the fair garment of skin, which came to him from on high, his fleshlessness. I shall omit other parallels, as the young men bedewed in the flames and the fugitive prophet praying in the belly of the fish and coming forth from the monster as from a chamber. I shall pass over the just man in the den, restraining the ferocity of lions, and the struggle of the seven Maccabees, who with a priest and their mother was perfected by blood and all kinds of tortures. Basil emulated their endurance and achieved their glory.",
+    "source_title": "ON BASIL THE GREAT, ORATION 43:74",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jonah.2.10.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jonah 2:10",
+     "osis": [
+      "Jonah.2.10"
+     ]
+    },
+    "quote": "Jonah then was not ignorant of the mighty hand of God, with which he threatened other men, nor did he imagine that he could utterly escape the Divine power; this we are not to believe: but when he saw the falling away of Israel, and perceived the passing over of the grace of prophecy to the Gentiles-this was the cause of his retirement from preaching and of his delay in fulfilling the command; accordingly he left the watchtower of joy, for this is the meaning of Joppa in Hebrew, I mean his former dignity and reputation, and flung himself into the deep of sorrow: and hence he is tempest-tossed, and falls asleep, and is wrecked, and aroused from sleep, and taken by lot, and confesses his flight, and is cast into sea, and swallowed, but not destroyed, by the whale; but there he calls upon God, and, marvellous as it is, on the third day he, like Christ, is delivered...",
+    "source_title": "In Defense of His Flight to Pontus, Oration 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nazianzus%2FOrations%2FOration%25202.html"
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Jonah.3.5.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Jonah 3:5",
+     "osis": [
+      "Jonah.3.5"
+     ]
+    },
+    "quote": "Let us sow in tears, so that we may reap in joy. Let us show ourselves people of Nineveh, not of Sodom. Let us amend our wickedness, lest we be consumed with it. Let us listen to the preaching of Jonah, lest we be overwhelmed by fire and brimstone. And if we have departed from Sodom, let us escape to the mountain. Let us flee to Zoar. Let us enter it as the sun rises. Let us not stay in all the plain. Let us not look around us, lest we be frozen into a pillar of salt, a really immoral pillar, to accuse the soul that returns to wickedness.",
+    "source_title": "On His Father's Silence, ORATION 16:14",
+    "source_url": ""
+   }
+  ],
+  "Josh": [
+   {
+    "entry_id": "gregory-of-nazianzus.Josh.1.3-4.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Joshua 1:3-4",
+     "osis": [
+      "Josh.1.3"
+     ]
+    },
+    "quote": "What is the special excellence of Joshua? His generalship, and the distribution of the inheritance, and the taking possession of the Holy Land.",
+    "source_title": "ON BASIL THE GREAT, ORATION 43.72",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Josh.1.8.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Joshua 1:8",
+     "osis": [
+      "Josh.1.8"
+     ]
+    },
+    "quote": "Next, on what subjects and to what extent may we philosophize? On matters within our reach, and to such an extent as the mental power and grasp of our audience may extend. No further, lest, as excessively loud sounds injure the hearing, or excess of food the body, or, if you will, as excessive burdens beyond the strength injure those who bear them, or excessive rains the earth; so these too, being pressed down and overweighted by the stiffness, if I may use the expression, of the arguments should suffer loss even in respect of the strength they originally possessed. Now, I am not saying that it is not needful to remember God at all times; ... I must not be misunderstood, or I shall be having these nimble and quick people down upon me again. For we ought to think of God even more often than we draw our breath; and if the expression is permissible, we ought to do nothing else. Yea, I am one of those who entirely approve that Word which bids us meditate day and night, and tell at eventide and morning and noon day, and praise the Lord at every time; or, to use Moses' words, whether a man lie down, or rise up, or walk by the way, or whatever else he be doing -and by this recollection we are to be moulded to purity. So that it is not the continual remembrance of God that I would hinder, but only the talking about God; nor even that as in itself wrong, but only when unseasonable; nor all teaching, but only want of moderation. As of even honey repletion and satiety, though it be of honey, produce vomiting; and, as Solomon says and I think, there is a time for every thing, and that which is good ceases to be good if it be not done in a good way; just as a flower is quite out of season in winter, and just as a man's dress does not become a woman, nor a woman's a man; and as geometry is out of place in mourning, or tears at a carousal; shall we in this instance alone disregard the proper time, in a matter in which most of all due season should be respected?",
+    "source_title": "THEOLOGICAL ORATIONS 1 (27).3-4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nazianzus%2FOrations%2FOration%252027.html"
+   }
+  ],
+  "Judg": [
+   {
+    "entry_id": "gregory-of-nazianzus.Judg.13.22.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Judges 13:22",
+     "osis": [
+      "Judg.13.22"
+     ]
+    },
+    "quote": "And are you not amazed at Manoah the Judge of yore... the one being unable to endure the sight even of one in whom was a representation of God; and saying, \"We are undone, O wife, we have seen God;\" speaking as though even a vision of God could not be grasped by human beings, let alone the Nature of God.",
+    "source_title": "THEOLOGICAL ORATIONS 2 (28).19",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Gregory%2520of%2520Nazianzus%2FOrations%2FOration%252028.html"
+   }
+  ],
+  "Mal": [
+   {
+    "entry_id": "gregory-of-nazianzus.Mal.1.11.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Malachi 1:11",
+     "osis": [
+      "Mal.1.11"
+     ]
+    },
+    "quote": "And in addition to what has been said, it is good with our head cleansed, as the head which is the workshop of the senses is cleansed, to hold fast the head of Christ, from which the whole body is fitly joined together and compacted, and to cast down our sin that exalted itself, when it would exalt us above our better part. It is good also for the shoulder to be sanctified and purified that it may be able to take up the cross of Christ, which not everyone can easily do. It is good for the hands to be consecrated, and the feet. [One is consecrated] that they may in every place be lifted up holy and that they may lay hold of the discipline of Christ, lest the Lord at any time be angered; and that the word may gain credence by action, as was the case with that which was given in the hand of a prophet. The other [is consecrated] that they be not too swift to shed blood or to run to evil, but that they be prompt to run to the gospel and the prize of the high calling and to receive Christ who washes and cleanses them. And it would be good if there is also a cleansing of that belly which receives and digests the food of the word. Do not make it a god by luxury and the meat that perishes. Rather, give it all possible cleansing and make it more spare, that it may receive the Word of God at the very heart and grieve honorably over the sins of Israel. I find also the heart and inward parts deemed worthy of honor. David convinces me of this when he prays that a clean heart may be created in him and a right spirit renewed in his inward parts, meaning, I think, the mind and its movements or thoughts.",
+    "source_title": "ON HOLY BAPTISM, ORATION 40:39",
+    "source_url": ""
+   }
+  ],
+  "Mic": [
+   {
+    "entry_id": "gregory-of-nazianzus.Mic.3.12.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Micah 3:12",
+     "osis": [
+      "Mic.3.12"
+     ]
+    },
+    "quote": "Hence again the divine Micah was unable to brook the building of Zion with blood, however you interpret the phrase, and of Jerusalem with iniquity. Meanwhile, these heads of the house of Jacob abhorred justice. The priests were teaching for hire. The prophets were prophesying for money! What does Micah say will be the result of this? \"Zion shall be plowed as a field, and Jerusalem shall be as a storehouse of fruit, and the mountain of the house shall be as the grove of the forest.\" He bewails also the scarcity of the upright, there being scarcely a stalk or a gleaming grape left, since both the prince asks and the judge curries favor, so that his language is almost the same as the mighty David's: \"Save me, O Lord, for the godly man ceases.\" Their blessings shall fail them, for \"you consume like a moth what is dear to him.\"",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:58",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Mic.6.3.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Micah 6:3",
+     "osis": [
+      "Mic.6.3"
+     ]
+    },
+    "quote": "Would you like me to utter to you the words of God to Israel, stiff-necked and hardened? \"O my people, what have I done to you, or in what way have I injured you, or wherein have I wearied you?\" This language indeed is more fit from me to you who insult me. It is a sad thing that we watch for opportunities against each other and having destroyed our fellowship of spirit by diversities of opinion have become almost more inhuman and savage to one another than even the barbarians who are now engaged in war against us, banded together against us by the Trinity whom we have separated. We are not foreigners making forays and raids upon foreigners or nations of a different language, which is some little consolation in the calamity. But we are making war upon one another, and almost upon those of the same household. Or if you will, we the members of the same body are consuming and being consumed by one another. Nor is this, bad as it is, the extent of our calamity, for we even regard our diminution as a gain. But since we are in such a condition and regulate our faith by the times, let us compare the times with one another; you your emperor, and I my sovereigns; you Ahab and I Josiah.",
+    "source_title": "AGAINST THE ARIANS AND ON HIMSELF, ORATION 33:2",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Mic.7.6.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Micah 7:6",
+     "osis": [
+      "Mic.7.6"
+     ]
+    },
+    "quote": "Just what is the work of the axe? The excision of the soul that is incurably fruitless, like the tree even after the dung has been applied. And what does the sword do? The sword of the Word cuts through defenses. It does the work of separating the worse from the better. It actually creates a division between the faithful and the unbeliever. It may even stir up the son and the daughter and the bride against the father and the mother and the mother-in-law, the young and fresh against the old and shadowy. Accordingly, what is the latchet of the shoe, which you, John, who baptized Jesus, may not let loose? You who are of the desert, without food, you, the new Elijah, you who are more than a prophet, inasmuch as you saw him of whom you did prophesy, you the mediator of the Old and New Testaments. What is this latchet? It is precisely the message of the advent, the incarnation. No one can make it happen—neither those yet carnal and babes in Christ nor those who are akin to John in spirit.",
+    "source_title": "ON THE HOLY LIGHTS, ORATION 39:15",
+    "source_url": ""
+   }
+  ],
+  "Zech": [
+   {
+    "entry_id": "gregory-of-nazianzus.Zech.11.15.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Zechariah 11:15",
+     "osis": [
+      "Zech.11.15"
+     ]
+    },
+    "quote": "Such is my defense; its reasonableness I have set forth. And may the God of peace, who made both one and has restored us to each other, who sets kings upon thrones and raises up the poor out of the dust and lifts up the beggar from the dunghill, who chose David his servant and took him away from the sheepfolds, though he was the least and youngest of the sons of Jesse, who gave the word to those who preach the gospel with great power for the perfection of the gospel—may he himself hold me by my right hand. [May he] guide me with his counsel and receive me with glory, who is a Shepherd to shepherds and Guide to guides. [May he guide us] that we may feed his flock with knowledge, not with the instruments of a foolish shepherd, according to the blessing, and not according to the curse pronounced against the men of former days. May he give strength and power to his people and himself present to himself  his flock resplendent and spotless and worthy of the fold on high, in the habitation of them that rejoice, in the splendor of the saints, so that in his temple everyone, both flock and shepherds together may say, Glory in Christ Jesus our Lord, to whom be all glory forever and ever. Amen.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:117",
+    "source_url": ""
+   },
+   {
+    "entry_id": "gregory-of-nazianzus.Zech.11.5.0",
+    "author": "Gregory of Nazianzus",
+    "anchor_ref": {
+     "raw": "Zechariah 11:5",
+     "osis": [
+      "Zech.11.5"
+     ]
+    },
+    "quote": "Whenever I remember Zechariah, I shudder at the reaping hook and likewise at his testimony against the priests, his hints in reference to the celebrated Joshua, the high priest, whom he represents as stripped of filthy garments and then clothed in rich priestly apparel. As for words and charges to Joshua which he puts into the angel's mouth, let them be treated with silent respect, as referring perhaps to a greater and higher object than those who are many priests. But even at his right hand stood the devil, to resist him, a fact, in my eyes, of no slight significance and demanding no slight fear and watchfulness. Who is so bold and adamant of soul as not to tremble and be abashed at the charges and reproaches deliberately urged against the rest of the shepherds? A voice, he says, of the howling of the shepherds. A voice of the roaring lions, for this has befallen them. Does he not all but hear the wailing as if close at hand, and himself wail with the afflicted. A little further is a more striking and impassioned strain. Feed, he says, the flock of slaughter, whose possessors slay them without repentance. They sell them saying, \"Blessed be the Lord, for we are rich,\" yet their own shepherds are without feeling for them. Therefore I will no more pity the inhabitants of the land, says the Lord almighty. And again: \"Awake, O sword, against the shepherds, and smite the shepherds, and scatter the sheep, and I will turn my hand upon the shepherds\"; and, \"My anger is kindled against the shepherds, and I will visit the lambs,\" adding to the threat those who rule over the people. So industriously does he apply himself to his task that he cannot easily free himself from denunciations, and I am afraid that if I referred to the whole series, I should exhaust your patience. This must then suffice for Zechariah.",
+    "source_title": "IN DEFENSE OF HIS FLIGHT TO PONTUS, ORATION 2:62-64",
+    "source_url": ""
+   }
+  ]
+ }
+}

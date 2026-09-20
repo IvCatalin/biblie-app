@@ -1,0 +1,1375 @@
+{
+ "meta": {
+  "id": "john-gill",
+  "title": "John Gill Bible Commentary",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "schema_type": "commentary",
+  "source_url": "https://bible.helloao.org/api/c/john-gill/2KI/",
+  "source_format": "JSON (HelloAO Bible API)",
+  "book_scope": "Doar capitolele relevante Haftarot: 4,5,7,11,12,23",
+  "download_date": "2026-09-19",
+  "notes": "Extras restrans (nu cartea completa) - doar capitolele folosite de Haftarot catalogate."
+ },
+ "data": [
+  {
+   "entry_id": "john-gill.2KI.4.1",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "1",
+   "commentary_text": "Now there cried a certain woman of the wives of the sons of the prophets unto Elisha,.... This, according to the Targum, was the wife of Obadiah, who had hid the prophets by fifty in a cave in the times of Ahab; and so Josephus (q), and it is the commonly received notion of the Jewish writers; though it does not appear that he was a prophet, or the son of a prophet, but the governor or steward of Ahab's house; she was more likely to be the wife of a meaner person; and from hence it is clear that the prophets and their disciples married:\n\nsaying, thy servant my husband is dead; which is the lot of prophets, as well as others, Zechariah 1:5.\n\nand thou knowest that thy servant did fear the Lord; her husband was well known to the prophet, and known to be a good man, one of the 7000 who bowed not the knee to Baal, for the truth of which she appeals to Elisha; and this character she gives of her husband, lest it should be thought that his poverty, and leaving her in debt, were owing to any ill practices of his:\n\nand the creditor is come to take unto him my two sons to be bondmen; which it seems were allowed of when men became poor and insolvent, and died so, to which the allusion is in Isaiah 1:1; see Gill on Matthew 18:25. Josephus (r) suggests, that the insolvency of this man was owing to his borrowing money to feed the prophets hid in the cave; and it is a common notion of the Jews that this creditor was Jehoram the son of Ahab; and in later times it was a law with the Athenians (s), that if a father had not paid what he was fined in court, the son was obliged to pay it, and in the mean while to lie in bonds, as was the case of Cimon (t), and others.\n\n(q) Antiqu. l. 9. c. 4. sect. 2.((r) Ibid. (s) Alex. ab Alex. Genial. Dier. l. 6. c. 10. (t) Cornel. Nep. in Vita Cimon. l. 5. c. 1. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.2",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "2",
+   "commentary_text": "And Elisha said unto her, what shall I do for thee?.... Or can I do, being poor himself, and unable to relieve her out of his substance, and not knowing where to get anything for her; and so what could she expect from him? signifying, that he pitied her case, but all that he could do was to give her his best advice, and pray for her:\n\ntell me what thou hast in thy house? that she could part with and dispose of, in order to pay her debt; and satisfy her creditor:\n\nand she said, thine handmaid hath not anything in the house, save a pot of oil; that is, nothing of any value; she might have some things, some sort of household goods, though perhaps she had parted with most of them in her poverty; this was the most valuable thing she had. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.3",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "3",
+   "commentary_text": "Then he said, go, borrow thee vessels abroad of all thy neighbours,.... For he perceived that she had none:\n\neven empty vessels; which they might more readily lend her:\n\nborrow not a few; but as many as she could get; the prophet, under a divine impulse, was directed to say this to her, foreseeing, by a spirit of prophecy, that a large quantity of oil would be given her. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.4",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "4",
+   "commentary_text": "And when thou art come in,.... Into her house:\n\nthou shall shut the door upon thee, and upon thy sons; that they might be alone in the house while the miracle was working; that they might not be interrupted in what they were to do, by the creditor coming in upon them, or by neighbours, who would be for getting the oil from them in the vessels they had lent them: and that the miracle might appear the plainer, no oil being brought into the house by any:\n\nand shalt pour out into all these vessels; out of the single pot of oil into all they borrowed:\n\nand thou shalt set aside that which is full; by itself, and fill the rest of the empty ones. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.5",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "5",
+   "commentary_text": "So she went from him,.... And did as he advised her, borrowed many empty vessels of her neighbours, having faith in what the prophet had said to her:\n\nand shut the door upon her, and upon her sons; and then went to work as she was directed, with her sons:\n\nwho brought the vessels to her; the empty ones she had borrowed: and she poured out; the oil out of her pot into them. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.6",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "6",
+   "commentary_text": "And it came to pass when the vessels were full,.... For the oil being miraculously increased as it was poured forth, there was enough to fill all the vessels; Ben Gersom and Abarbinel say, that when the pot was emptied, all the air that entered it was turned into oil:\n\nthat she said to her son, bring me yet a vessel; as she had two sons, one it is probable was employed in setting aside the full vessels, as she poured into them, and the other in bringing to her the empty vessels, and to whom she thus speaks:\n\nand he said unto her, there is not a vessel more; not an empty one, they were all filled:\n\nand the oil stayed; it ran no longer, it was no more multiplied; there was no necessity of continuing the miracle: this oil may be an emblem of the grace that flows from the fulness of it in Christ, to which it is compared, which will be always flowing, as long as there is a vessel of salvation, or faith in any to receive it; see Matthew 25:3 1 John 2:20. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.7",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "7",
+   "commentary_text": "Then she came and told the man of God,.... Elisha the prophet, what had been done, what a quantity of oil she had, and advised with him what was to be done with it:\n\nand he said, go, sell thy oil, and pay thy debt; what was thus miraculously produced was no doubt very good and excellent, and would fetch a good price; and she is therefore bid to turn it into money, and pay her debts with it; she was not to keep it all for her own use, and indulge to luxury with it, but first pay her just debt, as everyone ought to do that is able:\n\nand live thou and thy children of the rest; so that it seems there was enough to pay her debt with it, rid her of her troubles, and somewhat remaining for the support of herself and children. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.8",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "8",
+   "commentary_text": "And it fell on a day,.... Or so it was at a certain time:\n\nthat Elisha passed to Shunem; a city in the tribe of Issachar; of which see Joshua 19:18,\n\nwhere was a great woman; of great wealth and riches, of great benevolence and hospitality, and of great grace and piety; that feared sin, as the Targum paraphrases it; a woman of great credit and reputation on all accounts. The Jews say (u) she was the sister of Abishag the Shunammite, and the mother of Iddo the prophet:\n\nand she constrained him to eat bread; she had observed him at all times pass that way, and guessed by his habit and deportment that he was a religious man, and therefore took an opportunity to invite him into her house, and take a dinner with her; but he being modest and shy, she was obliged to use some pressing language, and be importunate with him, that he would accept of her invitation, which he did:\n\nand so it was, that, as oft as he passed by, he turned in thither to eat bread; being made very welcome, and encouraged by the free and kind entertainment he met with, as often as he had occasion to come that way, he called and took a meal with her; and this it seems was pretty often, for Shunem was not far from Carmel, which he frequented, and lay in the way to Samaria, Bethel, and Jericho, places he often visited, the schools of the prophets being there.\n\n(u) T. Bab. Bava Bathra, fol. 57. 2. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.9",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "9",
+   "commentary_text": "And she said unto her husband,.... Not being willing to do any thing without his leave and consent:\n\nbehold now, I perceive that this is an holy man of God which passeth by us continually: and calls here frequently: this she perceived by his discourse and conversation; and by his carriage and behaviour he appeared to be a prophet, and one very eminent for holiness and religion. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.10",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "10",
+   "commentary_text": "Let us make a little chamber, I pray thee, on the wall,.... Either of the city, to which their house might join, or of their garden, a little distance from the house; though the Jewish writers commonly understand it of a little edifice built up of walls of stone or bricks, and not one with reeds, or stud and mud:\n\nlet us set for him there a bed; that he may stay all night when he pleases:\n\nand a table; not only to eat his food, but to write on, and lay his books on he reads. Of the table of a scholar of the wise men, in later times, we are told (t), that two thirds of it were covered with a cloth, and the other third was uncovered, on which stood the plates and the herbs:\n\nand a stool; to sit upon at table:\n\nand a candlestick; with a candle in it, to light him in the night to read by, and the like:\n\nand it shall be, when he cometh to us, that he shall turn in thither; where he would be free from the noise of the house, and be more retired for prayer, reading, meditation, and study, and not be disturbed with the servants of the family, and be mixed with them; all this she contrived, both for his honour, and for his quietness and peace.\n\n(t) Pirke Eliezer, c. 33. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.11",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "11",
+   "commentary_text": "And it fell on a day that he came thither,.... As he had been wont to do:\n\nand he turned into the chamber; built for him, and to which he was directed:\n\nand lay there; all night, and which no doubt was frequently repeated by him, he accepting of the kindness of his host. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.12",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "12",
+   "commentary_text": "And he said to Gehazi his servant,.... Who attended him wherever he went, and ministered to him, and lay very probably in the same chamber with him; he might be one of the sons of the prophets:\n\ncall this Shunammite; tell her I desire to speak with her:\n\nand when he had called her, she stood before him; at the door of the chamber, in great reverence of him, and with much humility, waiting to hear what he had to say to her: this must be understood after what had further passed between Elisha and Gehazi, and between Gehazi and the woman, who returned to his master, and acquainted him with what she had said to him, upon which he was sent to call her, and she came. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.13",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "13",
+   "commentary_text": "And he said unto him,...., To Gehazi, before he went to call her:\n\nsay now unto her, behold, thou hast been careful for us with all this care; in building a chamber, and furnishing it with proper household goods, and providing food for them from time to time:\n\nwhat is to be done for thee? can anything be thought of by thee that will be acceptable, and in my masters power to do for thee, or thy husband?\n\nwouldest thou be spoken for to the king, or to the captain of the host? that her husband might be promoted to some post in the court, or in the camp; intimating, that if either of these was agreeable, Elisha would speak on his behalf, having interest in both through his services in Edom:\n\nand she answered, I will dwell among my own people she was content and satisfied with her present state of life, and the situation she was in, and with her friends and neighbours she lived among, and did not care to remove, though it was to a higher rank of life, and to greater dignity and honour; and she had no suit to make to the king or general, nothing to complain of; and she had friends enough to speak for her, should she want any assistance. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.14",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "14",
+   "commentary_text": "And he said,.... That is, Elisha to Gehazi, when he returned to him, and told him what the Shunammite said:\n\nwhat then is to be done for her? something he thought should be done in gratitude, the favours they had received, and advises with his servant what could be thought of, he being one about the house:\n\nand Gehazi answered, verily she hath no child, and her husband is old; and so not likely to have any by him; as children were always very desirable by women, and especially in those days, the servant suggests, that no doubt to have one would be very acceptable to her. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.15",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "15",
+   "commentary_text": "And he said, call her,.... Perhaps finding an impulse on his own mind, from the Spirit of God, that this was the thing to be done for her:\n\nand when he had called her, she stood in the door; of his chamber: See Gill on 2 Kings 4:12. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.16",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "16",
+   "commentary_text": "And he said, about this season,.... In the next year:\n\naccording to the time of life; the usual time women go with child:\n\nthou shalt embrace a son; in thine arms, that shall be born of thee, which she should have in her lap, and in her bosom:\n\nand she said, nay, my lord, do not lie unto thine handmaid; or speak unto her what was not truth; it was so great, and so unaccountable, how it could be in her circumstances, that she could not believe it to be true, though she wished it might; or do not deceive me with vain and false words, or flatter me, jest with me, which would be unbecoming his character as a man of God, and prophet of the Lord; according to the Targum, she wished it might prove true, and she not deceived; see 2 Kings 4:28. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.17",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "17",
+   "commentary_text": "And the woman conceived, and bare a son at the season that Elisha said unto her,.... Quickly after this she conceived, and became pregnant, and by that time the year came round, she was brought to bed of a son:\n\naccording to the time of life: when she had gone her full time to have a son born alive, and live. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.18",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "18",
+   "commentary_text": "And when the child was grown,.... Perhaps was six or seven years of age, or more:\n\nit fell on a day that he went out to his father to the reapers; it was harvest time, and the men were reaping the corn in the fields; and his father, though a wealthy man, was with them to direct them, and see they did their business well, as Boaz formerly; and the child went out from the house to the field, to see his father and the reapers, for his recreation and diversion. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.19",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "19",
+   "commentary_text": "And he said unto his father, my head, my head,.... After he had been some time with him, he complained of a pain in his head, which might be owing, as Abarbinel thinks, to the sun's beating upon it, being harvest time, and hot weather; and the pain being exceeding great and vehement, he repeated his complaint, see Jeremiah 4:19.\n\nand he said to a lad, carry him home to his mother; his father gave orders to a lad that attended the reapers to have him home to his mother, that she might give him something to ease him of his pain. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.20",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "20",
+   "commentary_text": "And when he had taken him, and brought him to his mother,.... The lad led him home, and delivered him to his mother:\n\nhe sat on her knees till noon, and then died; out of her great affection, she took him on her knees, and laid his head in her bosom to sooth the pain, and in this posture he continued until the middle of the day, and then expired; by which it appears it was in the morning when he went into the field, and when the sun was pretty high, and beat strongly on him; which, it may be, produced a fever, and which issued in his death. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.21",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "21",
+   "commentary_text": "And she went up,.... Into the little chamber built for the prophet:\n\nand laid him on the bed of the man of God; not from any imagination of any virtue in it to bring her child to life; though she might think of the prophet, and have faith that he could raise it to life, as Elijah raised the widow of Zarephath's son laid on his bed, of which she might have heard; but this being a private room, and into which none went, she laid it here to conceal its death from her husband and family, and to prevent grief, and that they might not bury it until she returned:\n\nand shut the door upon him; that no creature might enter, and, do any damage to his corpse:\n\nand went out; not out of the chamber, that she did before she shut the door, but out of the house. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.22",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "22",
+   "commentary_text": "And she called unto her husband,.... In the field, who might be within call, or by a messenger she sent to him:\n\nand said, send me, I pray thee, one of the young men, and one of the asses, that I may run to the man of God, and come again; intimating that she should not be long gone, but should return again presently; saying not a word of the death of the child, or of the occasion of her going. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.23",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "23",
+   "commentary_text": "And he said, wherefore wilt thou go to him today?.... What reason is there for it? what is the meaning of it?\n\nit is neither new moon nor sabbath; neither the first day of the month, nor the seventh day of the week, times which were religiously observed; so with the Heathens the new moon and the seventh of the week, and so the fourth, were sacred (u); which notions they borrowed from the Jews; see Gill on 1 Samuel 20:5 and when, it seems, it was usual to frequent the house of the prophet, to hear the word of God read and explained, and other religious exercises performed, as praying and singing praise, and receiving some good instructions and advice. Joseph Kimchi gives a different sense of these words:\"there is not a month past, no, not a week, since thou sawest him;''why therefore shouldest thou be in such haste to go to him? so the words for new moon and sabbath may signify:\n\nand she said, it shall be well; it was right for her to go, and it would be well for him and her, and the family; or, \"peace\" (w), be easy and quiet, farewell: it is much he had no mistrust of the death of the child, or that it was worse, since it went from him ill.\n\n(u) Hesiod. Opera & Dies, l. 2.((w) \"pax\", Pagninus, Montanus, &c. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.24",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "24",
+   "commentary_text": "Then she saddled an ass,.... Her servant did it by her order:\n\nand said to her servant, drive, and go forward; make all the haste he could:\n\nslack not thy riding for me, except I bid thee; do not be afraid of riding too fast for me; if thou dost, I will tell thee; till then, keep on a good pace: Abarbinel says she walked afoot all the way, and ordered the man not to slacken his pace in riding for her, unless she called to him; and the Targum seems to favour this sense,\"do not press me to ride unless I call to thee;''so that the ass was for Elijah to ride on; but one would think, that, as she was in haste, quicker dispatch would be made by her riding than by walking, see 2 Kings 4:22. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.25",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "25",
+   "commentary_text": "So she went and came unto the man of God at Mount Carmel,.... Where Elijah used to be, and where, perhaps, was a school of the prophets; this, according to Bunting (x), was sixteen miles from Shunem:\n\nand it came to pass, when the man of God saw her afar off; as he might from the eminence of the mountain:\n\nthat he said to Gehazi his servant, behold, yonder is that Shunammite; that has so often and so hospitably entertained us at her house.\n\n(x) Travels, &c. p. 207. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.26",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "26",
+   "commentary_text": "Run now, I pray thee, to meet her,.... In respect to her, and to know the occasion of her coming; something is the cause of it:\n\nand say unto her, is it well with thee? is it well with thy husband? is it well with the child? has any disaster befallen thee, thy husband, or the child? are all in good health? or does any disorder attend any of them?\n\nand she answered, it is well; as in general they were, the greatest part, she and her husband; and though the child was dead, yet, if gone to heaven, as she might hope, it was well too; and it is right to judge and say, that all that the Lord does is well: she gives a short answer to the servant, not being willing to be detained, and being desirous of telling her case to the prophet himself. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.27",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "27",
+   "commentary_text": "And when she came to the man of God to the hill,.... To the top of it:\n\nshe caught him by the feet; in reverence to him, and as a supplicant, she prostrated herself at his feet, and, out of affection to him, caught hold on them, and held them fast, and determined not to leave him until he had promised to go with her, see Matthew 28:9. It was usual with the Jews to lay hold on and kiss the feet or knees of those to whom they did homage, or made supplication, see Matthew 28:9. See Gill on Luke 7:38, and so with the Greeks, as may be observed in various passages in Homer (y) and others:\n\nbut Gehazi came near to thrust her away; as being troublesome and disagreeable to his master, and not for her honour and credit:\n\nand the man of God said, let her alone, for her soul is vexed within her; or \"is bitter\" (z), full of trouble and distress, and knows not what to do, nor very well what she does:\n\nand the Lord hath hid it from me, and hath not told me: what is the cause of this her trouble; for prophets did not know things of themselves, nor had they the vision of prophecy at their will and pleasure, but according to the will of God.\n\n(y) Vid. Barthium ad Claudian. de Raptu Proserpin. l. 1. ver. 50. (z) \"amara\", Pagninus, Montanus, &c. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.28",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "28",
+   "commentary_text": "Then she said, did I desire a son of my lord?.... It was not at her request she had one, at least the first motion was not from her; the prophet first told her, and assured her she should have one, without her asking for it; she might be pleased with it, and desire the promise might be fulfilled; but it was not an inordinate, importunate, desire of one, in which she had exceeded, that so the taking it away from her might be a correction of her for it:\n\ndid I not say, do not deceive me; by giving hopes of a child, and yet have none; and now it was equally the same, or worse, to have one, and then to have it taken away again as soon as had almost; so the Targum,\"did I not say unto thee, if a child is given me, let it live, if not, do not trouble or grieve me;''and then, no doubt, she told him plainly the child was dead, and where she had laid it, though not recorded. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.29",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "29",
+   "commentary_text": "Then he said to Gehazi, gird up thy loins,.... His loose and long garments about him, that he might make quicker dispatch in travelling:\n\nand take my staff in thine hand, and go thy way; not for the sake of travelling with it, but for an end after mentioned:\n\nif thou meet any man, salute him not; and if any salute thee, answer him not again; that so no time may be lost:\n\nand lay my staff upon the face of the child; he not intending when he said this to go himself, but at the time, as near as he could, when this action was performed, would pray to God to restore life to the child; for he could not imagine that by this bare action it could be done. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.30",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "30",
+   "commentary_text": "And the mother of the child said,.... Having no faith in what the servant was to do, or could do:\n\nas the Lord liveth, and as thy soul liveth, I will not leave thee; signifying she would not go with his servant, but insisted upon it that he himself went with her, or she would not depart:\n\nand he arose, and followed her; influenced by her importunity, and a sense of favours he had received from her, and more especially by the Spirit of God. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.31",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "31",
+   "commentary_text": "And Gehazi passed on before them,.... The prophet and the Shunammite:\n\nand laid the staff upon the face of the child; as he was ordered:\n\nbut there was neither voice nor hearing: it seems as if he spoke when he laid the staff on the child, but it heard and answered him not, so that there was no sign of life in it:\n\nwherefore he went again to meet him; upon the road between Carmel and Shunem:\n\nand told him, saying, the child is not awaked; by which he expresses its being dead; or, if he knew nothing of its death, he supposed it fast asleep, which was the reason of its not hearing and answering, though the former seems best. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.32",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "32",
+   "commentary_text": "And when Elisha was come into the house,.... Of the Shunamite, and into the chamber built for him:\n\nbehold, the child was dead, and laid upon the bed; upon his bed, and where he found it really dead. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.33",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "33",
+   "commentary_text": "He went in therefore, and shut the door upon them twain,.... Himself and the dead child; that nobody might come in and interrupt him in his prayers for the restoration of it to life, nor see the motions and gestures he used, and the postures he put himself in:\n\nand prayed unto the Lord; that he would restore the child to life. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.34",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "34",
+   "commentary_text": "And he went up,.... To the bed, which was on an ascent in the chamber; see Gill on 2 Kings 1:4 and lay upon the child; as Elijah did on the widow's son of Zarephath, 1 Kings 17:21.\n\nand put his mouth upon his mouth, and his eyes upon his eyes, and his hands upon his hands, and stretched himself upon the child; that is, he did each of these one after another, since the disproportion of their bodies would not admit of their being done together:\n\nand the flesh of the child waxed warm; not from any virtue imparted to it by these motions and actions of the prophet, but from life being infused into it by the Lord, which caused an heat in the several parts of the body. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.35",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "35",
+   "commentary_text": "Then he returned and walked in the house to and fro,.... Left the chamber, and came down to the house where the family chiefly resided, and walked to and fro in deep thought and meditation, and, no doubt, in fervent ejaculations for the wished for blessing to be completed:\n\nand went up; to the chamber again, and up to the bed in it:\n\nand stretched himself upon him; as before:\n\nand the child sneezed seven times; which was a sign of life, and even of health; and hereby his head was cleared, as some observe, of those humours that had caused the pains in it (a), and had issued in death:\n\nand the child opened his eyes; upon the prophet, another sign of life.\n\n(a) Vid. Plin. Nat. Hist. l. 28. c. 6. Aristot. Problem. sect. 33. qu. 9. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.36",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "36",
+   "commentary_text": "And he called Gehazi, and said, call this Shunammite,.... To come up to the chamber to him:\n\nso he called her: and when she was come in unto him, he said, take up thy son; from off the bed, alive, safe, and sound. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.37",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "37",
+   "commentary_text": "Then she went in, and fell at his feet, and bowed herself to the ground,.... In reverence of him, and with the most profound gratitude and thankfulness for the mercy received:\n\nand took up her son, and went out; of the chamber into her house, with great joy and gladness. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.38",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "38",
+   "commentary_text": "And Elisha came again to Gilgal,.... Where he was with Elijah a little before his assumption to heaven, 2 Kings 2:1 and whither he went, there being a school of the prophets, as he did to all places where there were any, and where he had been before with Elijah; partly to instruct, encourage, and strengthen them, and partly to confirm his office as a prophet by miracles, which he did in several places he came to:\n\nand there was a dearth in the land; a famine through drought:\n\nand the sons of the prophets were sitting before him: as disciples before their master, see Acts 22:3.\n\nand he said unto his servant; very probably Gehazi:\n\nset on the great pot, and seethe pottage for the sons of the prophets; who seemed to have lived together in one house or college, and to be to the number of one hundred, see 2 Kings 4:43 and therefore required to have a large pot set on to boil pottage for them all. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.39",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "39",
+   "commentary_text": "And one went out into the fields to gather herbs,.... To put into the pottage, the gardens affording none in this time of dearth; or, however, being scarce, were at too great a price for the sons of the prophets to purchase them; and therefore one of them went out into the field to gather what common herbs he could:\n\nand found a wild vine, and gathered thereof wild gourds his lap full; thought to be the same with coloquintida, the leaves of which are very like to a vine, of a very bitter taste, and a very violent purgative, which, if not remedied, will produce ulcerations in the bowels, and issue in death; some think the white brier or white vine is meant, the colour of whose berries is very inviting to look at, but very bitter and ungrateful, and it vehemently purges (b); the Arabs call a sort of mushroom that is white and soft by this name (c), but cannot be meant here, because it has no likeness to a wild vine:\n\nand came and shred them into the pot of pottage; cut or chopped them small, and put them into the pot:\n\nfor they knew them not; what they were, the nature and virtue of them, being unskilful in botany.\n\n(b) Vid. Scheuchzer. Physic. Sacr. vol. 3. p. 605, 859. (c) Golius, col. 1817. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.40",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "40",
+   "commentary_text": "So they poured out for the men to eat,.... When the pottage was boiled, they poured it out into dishes or basins, for the sons of the prophets to eat:\n\nand it came to pass, as they were eating of the pottage, that they cried out, and said, O thou man of God, there is death in the pot; poison, the cause of death; the pottage was so exceeding bitter, that they concluded there must be some poisonous herb in it; and coloquintida is so bitter, that it is called \"the gall of the earth\":\n\nand they could not eat thereof: they stopped eating, it being so very disagreeable, and, as they supposed, dangerous. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.41",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "41",
+   "commentary_text": "But he said, then bring meal: and he cast it into the pot,.... And stirred it about in it:\n\nand he said, pour out for the people, that they may eat; as they now might freely, and without any danger, as he intimated:\n\nand there was no harm in the pot; or anything that could do any harm or mischief to the health of men: this was not owing to the natural virtue of meal, but to a miraculous power attending it, whereby the pottage was cured of its malignity, as the bad waters of Jericho were by salt, in a preceding miracle. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.42",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "42",
+   "commentary_text": "And there came a man from Baalshalisha,.... Of which place See Gill on 1 Samuel 9:4, the Targum is, from the south country:\n\nand brought the man of God bread of the firstfruits, twenty loaves of barley; so that it was now barley harvest, and this the first fruits of it, which, according to the law, Leviticus 23:10, was to be brought to the priest; but being forbid in the land of Israel going up to Jerusalem, religious men brought their firstfruits to the prophets, and here to Elisha, the father of them; believing it would be dispensed with, and acceptable, since they were not allowed to carry them to the proper person; and in this time of famine was very agreeable to the man of God, supposing it only a present:\n\nand full ears of corn in the husk thereof; these were green ears of corn, which they used to parch; but might not be eaten until the firstfruits were offered, and then they might, Leviticus 23:14, the Targum renders it, \"in his garment\", in the skirt of his clothes; and to the same purpose are the Syriac and Arabic versions; and so Jarchi interprets it; and Ben Gersom says, it signifies some vessel in which he brought them:\n\nand he said, give unto the people, that they may eat; Elisha did not reserve this offering or present for himself, but, as he had freely received, he freely gave. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.43",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "43",
+   "commentary_text": "And his servitor said,.... His servant Gehazi very probably:\n\nwhat, should I set this before one hundred men? for so many, it seems, the sons of the prophets were in this place; and these loaves being very small, no more, it is thought by some, than one man could eat, and the ears of corn but few, the servant suggests they would be nothing comparatively to such a company of men:\n\nhe said again, give the people, that they may eat; he insisted upon it that his orders should be obeyed:\n\nfor thus saith the Lord, they shall eat, and shall leave thereof; it was suggested to him by a spirit of prophecy, there would be enough for them, and to spare. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.4.44",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 4,
+   "verse_range": "44+",
+   "commentary_text": "So he set it before them,.... The twenty barley loaves, and the full ears of corn:\n\nand they did eat, and left thereof, according to the word of the Lord; as the disciples did at the miracle of the loaves and fishes; though that must be allowed to be a greater miracle than this, Matthew 14:17. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.1",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "1",
+   "commentary_text": "Now Naaman, captain of the host of the king of Syria,.... The general of Benhadad's army; for he was now king of Syria, though some think Hazael his successor was:\n\nwas a great man with his master; high in his favour and esteem:\n\nand honourable; not only acceptable to the king, and loaded with honours by him, but greatly respected by all ranks and degrees among the people:\n\nbecause by him the Lord had given deliverance unto Syria; out of the hands of their enemies, and victory over them, and particularly in the last battle with Israel, in which Ahab was slain, and, as the Jews suppose, by the hands of Naaman; see Gill on 1 Kings 22:34 however, when any salvation was wrought, or victory obtained, even by Heathens, and by them over Israel, the people of God, it was of the Lord:\n\nhe was also a mighty man in valour; a very courageous valiant man:\n\nbut he was a leper; was stricken with the leprosy, which had deformed and disgraced his person, and weakened his strength, and dispirited him; all his grandeur and honour could not protect him from this loathsome disease. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.2",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "2",
+   "commentary_text": "And the Syrians had gone out by companies,.... Not regular troops, but a sort of banditti of robbers, which made excursions into the land of Israel, to plunder and carry off what booty they could:\n\nand had brought away captive out of the land of Israel a little maid; for boys and girls were a part of the booty of such robbers, whom they could sell for money, see Joel 3:1. Jarchi and Kimchi say she was a girl of Naaron, a city so called:\n\nand she waited on Naaman's wife; being either made a present of to the general by those plunderers, or was bought by him of them for his wife's service. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.3",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "3",
+   "commentary_text": "And she said unto her mistress,.... As she was waiting upon her at a certain time, and perhaps her mistress was lamenting the case of her husband as desperate and incurable:\n\nwould God my lord were with the prophet that is in Samaria; meaning Elisha, who, though sometimes in one place, and sometimes in another, yet often at Samaria, and it seems was there when this girl was taken captive:\n\nfor he would recover him of his leprosy; the maid had heard of the miracles wrought by Elisha, and doubted not that at the request of her lord he would be willing, as she believed he was able, to cure him of this disease. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.4",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "4",
+   "commentary_text": "And one went in and told his lord,.... What the girl had said to her mistress; one of the servants of the house that overheard it; or rather, Naaman went and told his lord the king of Syria; for as this was said to his wife, no doubt she told it to her husband, and not a servant; and the following words require this sense, and is the sense of most Jewish commentators:\n\nsaying, thus and thus said the maid that is of the land of Israel; who for her wit and beauty might be well known at court by the name of the Israelitish girl. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.5",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "5",
+   "commentary_text": "And the king of Syria said, go to, go,.... On what Naaman related to him from what the maid had said, he urged him by all means to go directly to Samaria:\n\nand I will send a letter unto the king of Israel; recommending him to use his interest in his behalf; this was Jehoram the son of Ahab:\n\nand he departed; set out on his journey immediately, as soon as he could conveniently:\n\nand took with him ten talents of silver, and six thousand pieces of gold; partly for the expenses of his journey, and partly to make presents to the king of Israel's servants, and especially to the prophet; a talent of silver, according to Brerewood (d), was three hundred and seventy five pounds of our money; but, according to Bishop Cumberland's (e) exact calculation, it was three hundred and fifty and three pounds eleven shillings and ten and an half pence the pieces of gold are, by the Targum, called golden pence, and a golden penny, according to the first of the above writers (f), was of the value of our money fifteen shillings; so that these amounted to 4500 pounds sterling:\n\nand ten changes of raiment; both for his own use, and presents.\n\n(d) De Ponder. & Pret. Vet. Num. c. 4. (e) Scripture Weights and Measures, c. 4. p. 120. (f) Ut supra, (De Ponder. & Pret. Vet. Num.) c. 3. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.6",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "6",
+   "commentary_text": "And he brought the letter to the king of Israel, saying,.... The contents of which were, so far as it concerned Naaman and his case, which are only observed, these:\n\nnow when this letter is come unto thee; was received by him:\n\nbehold, I have therewith sent Naaman my servant unto thee; the bearer of it:\n\nthat thou mayest recover him of his leprosy; meaning not he himself, but that he would recommend him to the care of a proper person, his prophet, and enjoin him to do the best he could for him; but the king of Israel mistook his meaning, as appears by what follows. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.7",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "7",
+   "commentary_text": "And it came to pass, when the king of Israel had read the letter, that he rent his clothes,.... As one in great distress, being thrown into perplexity of mind by it, not knowing what to do; or, as some think, at the blasphemy he supposed to be in it, requiring that of him which only God could do:\n\nand said, am I God, to kill and to make alive; or have the power of life and death, which only belongs to the Supreme Being:\n\nthat this man doth send unto me to recover a man of his leprosy; for a leper was reckoned as one dead, his disease incurable, his flesh upon him being mortified by it, see Numbers 12:12 and therefore not supposed to be in the power of man, only of God, to cure; and therefore, in Israel, none had anything to do with the leper but the priest, in the name of God:\n\nwherefore consider, I pray you, and see how he seeketh a quarrel against me; to pick a quarrel with him, in order to go to war with him as he supposed. This seems to have been spoken to his lords and courtiers about him. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.8",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "8",
+   "commentary_text": "And it was so, when Elisha the man of God had heard that the king of Israel had rent his clothes,.... And upon what account:\n\nthat he sent to the king, saying, wherefore hast thou rent thy clothes? and thereby expressed so much concern and distress:\n\nlet him come now to me: meaning Naaman the Syrian leper:\n\nand he shall know that there is a prophet in Israel; able in the name of the Lord to work miracles, which he should be sensible of and acknowledge, to the glory of the God of Israel, by the cure that should be wrought upon him; and hereby he taxed the king of Israel with ignorance or neglect of him as a prophet. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.9",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "9",
+   "commentary_text": "So Naaman came with his horses, and with his chariot,.... In his chariot drawn by horses; or \"with horsemen and chariots\", a great retinue, both for his own grandeur, and for the honour of the prophet, and to make him the more respectable by him:\n\nand stood at the door of the house of Elisha; who now dwelt at Gilgal, as is probable, see 2 Kings 4:38, hither Naaman was directed, and here he stopped; and having sent a messenger to Elisha to acquaint him who he was, and what was his business, he stayed waiting for an answer. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.10",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "10",
+   "commentary_text": "And Elisha sent a messenger unto him,.... Or returned an answer by Naaman's messenger; he did not go out to him, choosing to be retired, as he commonly did; and being perhaps employed in prayer for the cure; and it may be also to show his contempt of or little regard he had to worldly grandeur and honour, as well as to mortify the pride of Naaman:\n\nsaying, go and wash in Jordan seven times; so, according to the law of the cleansing the leper, he was to be sprinkled seven times, and on the seventh day his flesh was to be bathed or dipped all over in water, which is meant by washing here, Leviticus 14:7.\n\nand thy flesh shall come again to thee; which was eaten and consumed by the disease on him:\n\nand thou shalt be clean; freed from this pollution, or filthy disease, with which he was defiled; for a leper was reckoned unclean, Leviticus 13:3. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.11",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "11",
+   "commentary_text": "But Naaman was wroth with him,.... On more accounts than one:\n\nand went away; not to Jordan, but from the prophet's house, with an intention to return to his own country:\n\nbehold, I thought, he will surely come out to me this he said within himself, making no doubt of it but that he would show him so much respect and civility as to come out of his house to him, and converse with him, or invite him into it and not doing this was one thing made him wroth: and stand; he supposed that he would not only come out, but stand before him, as inferiors before their superiors in reverence, but instead of that he remained sitting within doors:\n\nand call on the name of the Lord his God: he expected, that as he was a prophet of the Lord, that he would have prayed to him for the cure of him:\n\nand strike his hand over the place; wave his hand to and fro, as the word signifies, over the place of the leprosy, as the Targum, over the place affected with it; or towards the place where he worshipped the Lord, as Ben Gersom, toward the temple at Jerusalem; or towards Jordan, the place where he bid him go and wash, as Abarbinel; but the first sense seems best: \"and recover the leper\"; meaning himself, heal him by the use of such means and rites. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.12",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "12",
+   "commentary_text": "Are not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel?.... Abana is, in the marginal reading, called Amana, and so the Targum; perhaps from the Mount Amana, from whence it sprung, a mountain in Syria (g), mentioned with Lebanon, Sol 4:8. This river is thought to be the Chrysorrhoas of Pliny (h), and other writers; there are no traces of its name, or of the following, to be met with now; the only river by Damascus is called Barrady, which supplies Damascus and its gardens, and makes them so fruitful and pleasant as they be; it pours down from the mountains, as Mr. Maundrell (i) describes it, and is divided into three streams, of which the middlemost and biggest runs directly to Damascus, through a large field, called the field of Damascus; and the other two are drawn round, the one to the right hand, and the other to the left, on the borders of the gardens. Pharpar is thought (k) to be the river Orontes, which runs close to the walls of Antioch, and courses through its large and spacious plain, being numbered among the rivers of Syria; it takes its rise from Lebanon, and, sliding through the said plain, falls into the Syrian sea. Benjamin of Tudela (l) speaks of these rivers under their Scripture names; Abana or Amana as he says, passes through the city and supplies the houses of great men with water through wooden pipes; and Pharpar is without the city and runs among the gardens and orchards, and waters them. Farfar is also the name of a river in Italy (m):\n\nmay I not wash in them, and be clean? as well as in Jordan; or rather, since they are better waters, and so not have been at this trouble and expense to come hither; or have I not washed in them every day? I have, and am I clean? I am not; which is the sense the several Jewish writers give (n):\n\nso he turned, and went away in a rage; in a great passion, swearing and cursing perhaps, ordering his chariot driver to turn and be gone at once.\n\n(g) Tacit. Annal. l. 2. c. 83. (h) Nat. Hist. l. 5. c. 18. (i) Journey from Aleppo, p. 122, 123. (k) Cartwright's Preacher's Travels, p. 7, 8. Hiller. Onomast. Sacr. p. 908. (l) Itinerar. p. 55. (m) Servius in Virgil. Aeneid. l. 7. p. 1243. (n) Ben Gersom in loc. & R. Joseph Kimchi, & R. Jonah in Ben Melech in. loc. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.13",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "13",
+   "commentary_text": "And his servant came near, and spake unto him, and said, my father,.... Or my lord, as the Targum; this being not a familiar and affectionate expression, but a term of honour, reverence, and submission:\n\nif the prophet had bid thee do some great thing, wouldest thou not have done it? something that was hard and difficult to done, or painful to bear, to go through some severe operation, or disagreeable course of physic:\n\nhow much rather then when he saith to thee, wash, and be clean? which is so easy to be done; though Abarbinel observes it may be interpreted, the prophet has bid thee do a great thing, and which is wonderful; for though he has said, wash and be clean, consider it a great thing, and which is a wonderful mystery, and therefore do not despise his cure. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.14",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "14",
+   "commentary_text": "Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God,.... He listened to the reasoning of his servant, and his passion subsided, and did as the prophet ordered him:\n\nand his flesh came again like unto the flesh of a little child; clear and fresh, soft and tender as an infant, quite new flesh:\n\nand he was clean; from the leprosy, and all the filthy symptoms of it. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.15",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "15",
+   "commentary_text": "And he returned to the man of God, he and all his company,.... To give him thanks for the advice he had given him, and by him to give thanks to God for the cure he had received; for he was sensible it was from the Lord, his words show:\n\nand came and stood before him; for being admitted into the prophet's house, instead of the prophet standing before him, as he before expected, he now stood before the prophet in veneration of him, and sensible of his obligation to him:\n\nbehold, now I know there is no God in all the earth, but in Israel; though he did not before, but his cure fully convinced him of it:\n\nI pray thee, take a blessing of thy servant; not a wish of health and happiness, which the prophet would not have refused, but a present; the Targum calls it an offering. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.16",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "16",
+   "commentary_text": "But he said, as the Lord liveth, before whom I stand,.... Whose minister and prophet he was, and by whom he swears:\n\nI will receive none: to let him know that this cure was not to be attributed to him, but the Lord only; and that what concern he had in it was not for the sake of money, but for the glory of the God of Israel:\n\nand he urged him to take it, but he refused it; Naaman was very pressing upon him to receive a gift from him, but he could not be prevailed upon to accept it. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.17",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "17",
+   "commentary_text": "And Naaman said, shall there not then, I pray thee, be given to thy servant two mules' burden of earth..... Not that he desired of Elisha that he would suffer his servant Gehazi to receive a present as much as two mules could carry; but inasmuch as the prophet refused a present from him, his servant, he asks a favour of him, that he would permit him to take with him, out of the land of Israel, as much earth two mules could carry, that is, to make an altar of earth, as the next words indicate: but as he might have this any where without the prophet's leave, some Jewish writers (o) think he requested it from his own house, and from the place his feet trod on, as conceiving in a superstitious way that there was a sort of holiness in it; or however, that wheresoever he had it, if with the prophet's leave, a blessing would go with it, or that would be a sort of a consecration of it; and having an altar made of the earth of this land, would show that he was in the faith of the same God, and performed the same worship to him Israel did:\n\nfor thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the Lord: hence the Jews say, he became a proselyte of righteousness (p), embraced the true religion, and the worship of the true God, according to the laws given to Israel; and the following words, rightly understood, confirm the same.\n\n(o) Ben Gersom & Abarbinel in loc. (p) Shalshalet Hakabala, fol. 11. 2. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.18",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "18",
+   "commentary_text": "In this thing the Lord pardon thy servant,.... Which he next mentions, and on account of which he desires the prayers of Elisha for him, as the Vulgate Latin version; or it may be, this is a prayer of his own, put up at this time to the true Jehovah, in whom he believed:\n\nthat when my master: meaning the king of Syria:\n\ngoeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon; the Lord pardon thy servant in this thing; the house of Rimmon was a temple of an idol of that name; what idol it was is not easy to say; the Septuagint version calls it Remman, thought by some to be the same with Remphan, Acts 7:43, a name of Saturn, said to be given him from a Greek word, which signifies to \"wander\" (q), he being placed among the wandering stars in the supreme heavens; which is not likely, for the word is certainly of a Syriac signification, and comes either from  which signifies \"high\", and so the same with Elioun, the Phoenician deity, called the most high (r); or, as \"Rimmon\" is used for a pomegranate, this is thought to design the Syrian goddess, to whom this sort of fruit was sacred; or Juno, whose statue, in her temple at Mycenas (s), had a pomegranate in one hand; or rather this Rimmon was Jupiter Cassius, so called from Mount Cassius, which divided Syria from Egypt, who is painted with his hand stretched out, and a pomegranate in it (t); and may be the same with Caphtor, the father of the Caphtorim, Genesis 10:14 who might be deified after his death, their names, Rimmon and Caphtor, being of the same signification (u). But be this deity as it may, it was worshipped by the Syrians; and when the king of Syria went in to worship, he used to lean upon the hand of one of his officers, either being lame, or for state sake, in which office Naaman was; and his request to the prophet, or to the Lord, is, not for pardon for a sin to be committed; nor to be indulged in his continuance of it; not to worship the idol along with his master; nor to dissemble the worship of it, when he really worshipped it not; nor to be excused any evil in the discharge of his post and office; but for the pardon of the sin of idolatry he had been guilty of, of which he was truly sensible, now sincerely acknowledges, and desires forgiveness of; and so Dr. Lightfoot (w), and some others (x), interpret it; and to this sense the words may be rendered:\n\nwhen my master went in to the house of Rimmon to worship there; which was his usual custom; and he leaned on my hand, which was the common form in which he was introduced into it:\n\nand I worshipped in the house of Rimmon, as his master did, for the same word is used here as before:\n\nin as much, or seeing I have worshipped in the house of Rimmon, have been guilty of such gross idolatry:\n\nthe Lord, I pray, forgive thy servant in this thing; the language of a true penitent.\n\n(q) A \"vagari\", Hesychius. (r) Vid. Selden. de Dis Syris Syntagm. 2. c. 10. (s) Pausan. Corinthiac. sive, l. 2. p. 114. (t) Achilles Tatius, l. 3. Vid. Reland. Palestin. Illustrat. tom. 2. p. 934. (u) See Clayton's Origin of Hieroglyphics, p. 113. (w) Works, vol. 1. p. 86. (x) Vid. Quenstedt. Dissert. de. Petit. Naaman. sect. 21, 22. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.19",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "19",
+   "commentary_text": "And he said unto him,.... That is, the prophet said to Naaman:\n\ngo in peace: in peace of mind; be assured that God has pardoned this and all other transgressions:\n\nso he departed from him a little way; about a mile, as the Targum, and so other Jewish writers; of this phrase; see Gill on Genesis 35:16, some say a land's length, that is, about one hundred and twenty feet; rather it was a thousand cubits, or half a mile. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.20",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "20",
+   "commentary_text": "But Gehazi the servant of Elisha the man of God said,.... Within himself, observing what had passed:\n\nbehold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: he speaks contemptibly of Naaman, as an alien from the commonwealth of Israel, and reproaches his master for letting him go free, without paying for his cure; when he thought he should have taken what he brought and offered, and given it to needy Israelites, and especially to the sons of the prophets, that wanted it; and perhaps it mostly disturbed him, that he had no share of it himself:\n\nbut, as the Lord liveth, I will run after him, and take somewhat of him; the word for \"somewhat\", wanting a letter usually in it, is what is sometimes used for a blot; and Jarchi observes, that Gehazi taking something from Naaman, was a blot unto him, and indeed such an one that he could not wipe off. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.21",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "21",
+   "commentary_text": "So Gehazi followed after Naaman,.... As fast as he could:\n\nand when Naaman saw him running after him; which he might observe, looking back, or be informed of by some of his servants:\n\nhe lighted down from the chariot to meet him; in honour to the prophet, whose servant he was:\n\nand said, is all well? fearing something ill had befallen Elisha; or he himself had done something wrong, which occasioned the servant to run after him. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.22",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "22",
+   "commentary_text": "And he said, all is well,.... He need give himself no uneasiness at the coming and sight of him:\n\nmy master hath sent me, saying, behold, even now there be come to me; just then, since he departed from him:\n\nfrom Mount Ephraim two young men of the sons of the prophets: where perhaps was a school of them:\n\ngive them, I pray thee, a talent of silver, and two changes of garments: which, as it was a downright lie, so highly improbable that Elisha should ask so large a sum of money, with two changes of raiment, for two young scholars, see 2 Kings 5:5 and which Naaman, with a little reflection, might have seen through; but his heart was so filled with gratitude for the benefit received, that he was glad of an opportunity, at any rate, of showing respect to the prophet. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.23",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "23",
+   "commentary_text": "And Naaman said, be content,.... Or be pleased; do not object to it:\n\ntake two talents: a talent for each young man, which amounted to between three hundred and four hundred pounds apiece:\n\nand he urged; pressed him hard, insisted upon his taking them, who might pretend a great deal of modesty, and a strict regard to his master's orders:\n\nand bound two talents of silver in two bags, with two changes of garments; for each young man:\n\nand laid them upon two of his servants, the servants of Naaman, not choosing to burden Elisha's servant with them; for such a quantity of money and clothes was pretty heavy:\n\nand they bare them before him; both for his ease, and for his honour. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.24",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "24",
+   "commentary_text": "And when he came to the tower,.... Of Samaria, or which was near it; a fortified place, and where was a watch, to whom he could safely commit the money and clothes:\n\nhe took them from their hand; not willing they should go any further with him, lest the affair should be discovered to his master:\n\nand bestowed them in the house; deposited them there in the hands of some person whom he could trust; or laid them out, or ordered them to be laid out, in the purchase of houses, lands, vineyards, &c. see 2 Kings 5:26.\n\nand he let the men go, and they departed; to their master. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.25",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "25",
+   "commentary_text": "But he went in, and stood before his master,.... To know his will, and minister to him, as he had used to do, and as if he had never been from the house:\n\nand Elisha said unto him, whence comest thou, Gehazi? where had he been, and where was he last?\n\nand he said, thy servant went no whither; he pretended he had never been out of doors, which was another impudent lie; one would have thought that he who had lived so long with the prophet, and had seen the miracles wrought by him, and knew with what a spirit of prophecy he was endowed, would never have ventured to tell such an untruth, since he might expect to be detected; but covetousness had blinded his eyes and hardened his heart. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.26",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "26",
+   "commentary_text": "And he said unto him, went not mine heart with thee?.... Did my heart or knowledge go from me, that what thou hast done should be hid from me? so Ben Gersom and others; or my heart did not go with thee, it was contrary to my mind and will what thou didst; so Abendana; or rather, as the Targum, by a spirit of prophecy it was shown unto me, &c. I knew full well what thou wentest for, and hast done; and so Maimonides (y); was not I employed in my thoughts? or, did I not think that so it was as thou hast done? I:did:\n\nwhen the man turned again from chariot to meet thee? meaning Naaman the Syrian:\n\nis it a time to receive money, and to receive garments: as Gehazi had now done:\n\nand oliveyards, and vineyards, and sheep and oxen, and menservants, and maidservants? that is, to purchase those with the two talents of silver he had received, as he thought in his heart, or intended to do, as the Targum; or had given orders to purchase such for him to the persons to whom he had committed the care of them in the tower; this was not a proper time, when the honour of the prophet, and the credit of religion, and the good of this man, as a new proselyte, were in danger thereby.\n\n(y) Moreh Nevochim, par. 1. c. 39. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.5.27",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 5,
+   "verse_range": "27+",
+   "commentary_text": "The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever,.... As long as any of his race remained; as through his covetousness he had his money, so for his punishment he should have his disease:\n\nand he went out from his presence; as one ashamed and confounded, and discharged from his master's service:\n\na leper as white as snow; a leprosy of which colour is the worst, and is incurable. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.1",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "1",
+   "commentary_text": "Then Elisha said, hear the word of the Lord,.... This he said to the king and those that were with him:\n\nthus saith the Lord, tomorrow, about this time; which very probably was the forenoon:\n\nshall a measure of fine flour be sold for a shekel; \"a seah\", the measure here spoken of, or \"saturn\", according to some (r), was a gallon and an half; but Bishop Cumberland (s) makes it two wine gallons and an half; and a shekel, according to his accurate computation, was two shillings and four pence farthing, and near the eighth part of one (t):\n\nand two measures of barley for a shekel, in the gate of Samaria; where the market was kept; the same sort of measure and of money is here used as before; and we learn from hence that a measure of wheat was equal to two of barley.\n\n(r) Godwin, ut supra. (Moses & Aaron, B. 6. c. 9.) (s) Of Scripture Weights and Measures, c. 3. p. 86. (t) lb. c. 4. p. 104, 105. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.2",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "2",
+   "commentary_text": "Then a lord, on whose hand the king leaned,.... Not figuratively, in whom the king confided, but literally, on whose hand he rested, and by whom he was supported, being a form and matter of state, while he and Elisha were talking together, or on whom he leaned as he came to him; this was a principal lord, the third to the king, as his title seems to denote; the word by which the Septuagint renders it is by Suidas (u) interpreted of such that held three spears in the hand together; and this was an honourable post, for a king to lean on him; such state was used by the king of Syria, 2 Kings 5:18 and by the kings and queens of Persia; so Gorionides (w) says of Esther, that on the third day; she put on her beautiful garments and glorious ornaments, and took two of her maidens with her, and put her right hand on one of them, and leaned upon her in a royal manner, or as was the manner of kings: the same\n\nanswered the man of God; the prophet of the Lord, as the Targum:\n\nand said, behold, if the Lord would make windows in heaven, might this thing be? it is impossible it should be, if he was to open the windows of heaven as at the flood, and let down showers of wheat and barley, in like manner as he rained manna in the wilderness:\n\nand he said; the prophet in reply to him:\n\nbehold, thou shalt see it with thine eyes, but shalt not eat thereof; wheat and barley sold at the above price, but should not taste of it, as a punishment of his unbelief.\n\n(u) In voce  (w) Heb. Hist. l. 2. c. 4. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.3",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "3",
+   "commentary_text": "And there were four leprous men at the entering in of the gate,.... Of the city of Samaria; lepers, according to the law, being obliged to be without the city and camp, Leviticus 13:46 these might have a dwelling assigned them near the gate; or they might get as near to it as they could, partly to obtain relief from the city, and partly for fear of the Syrians; these, the Jews say (x), were Gehazi and his three sons, see 2 Kings 5:27.\n\nand they said one to another, why sit we here until we die? being ready to perish with hunger.\n\n(x) T. Bab. Sotah, fol. 47. 1. & Sanhedrin, fol. 107. 2. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.4",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "4",
+   "commentary_text": "If we say we will enter into the city,.... Contrary to the law which forbid them:\n\nthen the famine is in the city, and we shall die there; not being able to obtain food to preserve life:\n\nand if we sit here, we die also; having nothing to eat to support nature:\n\nnow therefore let us come, and fall unto the host of the Syrians; put ourselves into their hands, and lie at their mercy:\n\nif they save us alive, we shall live; if they do not put us to death, but give us bread to eat, our lives will be preserved:\n\nand if they kill us, we shall but die; which we must inevitably do, whether we stay here, or go into the city. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.5",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "5",
+   "commentary_text": "And they rose up in the twilight, to go unto the camp of the Syrians,...., The dusk of the evening, or the evening twilight, as appears from 2 Kings 7:9,\n\nand when they were come to the uttermost part of the camp of Syria; not the further part of it, but the edge or border of it nearest to them:\n\nbehold, there was no man there; no sentinel or guard, which they expected, and to whom they would have surrendered themselves. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.6",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "6",
+   "commentary_text": "For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host,.... Or of many armies, as the Targum; either in the air by the ministry of angels; or the Lord so wrought upon their imagination, that they fancied they heard such noises; or he caused such noises in their ears:\n\nand they said one to another, lo, the king of Israel hath hired against us the kings of the Hittites; one of the nations of the Canaanites, and may be here put for the whole of those that remained, and who lived upon the borders of the land of Israel; though Josephus (y) has it, the kings of the isles; that is, of Chittim, see Jeremiah 2:10.\n\nand the kings of the Egyptians, to come upon us; Egypt being now divided into petty kingdoms; or else the governors of the several nomes or districts of it are here meant: for the king of Israel to hire these kings was very unlikely in his present circumstances; but those unreasonable things, in their panic, their imaginations suggested to them.\n\n(y) Ut supra, (Antiqu. l. 9. c. 4.) sect. 5. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.7",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "7",
+   "commentary_text": "Wherefore they arose and fled in the twilight,.... Or in the dark, as the Targum; when the twilight was going off; so that the lepers came very quickly after they were gone, 2 Kings 7:5.\n\nand left their tents, and their horses, and their asses; such was their fright, that they could not stay to loose their cattle, with which they might have made greater speed, but ran away on foot: and they left\n\neven the camp as it was; took nothing away with them, either money or provisions:\n\nand fled for their life; which they imagined to be in great danger. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.8",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "8",
+   "commentary_text": "And when these lepers came to the uttermost part of the camp, they went into one tent,.... The first they came to:\n\nand did eat and drink; which was the first thing they did, being hungry, and almost starved:\n\nand carried thence silver, and gold, and raiment, and went and hid it; in a place without the camp, where they thought it would be safe, and where they could come at it again:\n\nand came again and entered into another tent, and carried thence also, and went and hid it; this, Josephus says (z), they did four times.\n\n(z) Ut supra, (Antiqu. l. 9. c. 4.) sect. 5. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.9",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "9",
+   "commentary_text": "Then they said one to another, we do not well,.... This is not right, to take this booty to ourselves; it is not doing justice to our brethren, and it may not prove well to ourselves in the issue:\n\nthis day is a day of good tidings; to be delivered from the enemy, and have such plenty of provisions thrown into their hands; it would be joyful tidings to the inhabitants of the city, did they know it:\n\nand we hold our peace; and do not publish this good tidings, that others may share the benefit of it:\n\nif we tarry till the morning light; when it will in course be discovered:\n\nsome mischief will come upon us; either from the Syrians, who they might fear would return by that time, or some of them lurking about would fall upon them and destroy them; or the king of Israel, when he came to know it, would be so incensed as to inflict some punishment on them; or they might expect some evil from the immediate hand of God:\n\nnow therefore come, that we may go and tell the king's household; acquaint some of his servants with what had happened. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.10",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "10",
+   "commentary_text": "So they came and called to the porter of the city,.... The chief of those that had the care of the gate of it; for there were more than one, as follows:\n\nand they told them; the porter, and the watchmen with him:\n\nwe came to the camp of the Syrians, and, behold, there was no man there, neither voice of man; not one to be seen or heard:\n\nbut horses tied, and asses tied; to their mangers; the latter, as well as the former, were used for war, not only to carry burdens, but to fight upon, as Aelianus (a) relates of some people; and especially when there was a want of horses, as Strabo (b); and both observe that this creature was sacrificed to Mars:\n\nand the tents as they were; none of them struck, nor anything taken out of them.\n\n(a) De Animal. l. 12. c. 34. (b) Geograph. l. 15. p. 500. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.11",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "11",
+   "commentary_text": "And he called the porters,.... The porter of the city called to the porters of the king's palace:\n\nand they told it to the king's house within; to some of his domestic servants within the palace, and they reported it to the king. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.12",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "12",
+   "commentary_text": "And the king arose in the night,.... Upon the report made to him:\n\nand he said unto his servants, I will now show you what the Syrians have done to us; taking it to be a stratagem of theirs to decoy them:\n\nthey know that we be hungry; and would be glad to come out of the city to get some food:\n\ntherefore are they gone out of the camp to hide themselves in the field; to make us believe that they have broke up the siege, and have deserted the camp, and are gone, when they only lie in ambush:\n\nsaying, when they come out of the city; which they supposed they would do through hunger:\n\nwe shall catch them alive; take them captive at once:\n\nand get into the city; being open to let them out, and receive them on their return. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.13",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "13",
+   "commentary_text": "And one of his servants answered and said, let some take, I pray thee, five of the horses that remain, which are left in the city,.... Not having died through the famine as the rest:\n\nbehold, they are as all the multitude of Israel that are left in it; behold, I say, they are even as the multitude of Israel that are consumed; signifying, there was a like consumption among the horses as among the people, and they that remained were starving as they were; so that should those horses, and the men, fall into the hands of the Syrians, and perish, it would be no great matter; the loss would not be much, since they must perish if they continue in the city: according to the Vulgate Latin version, these five horses were all that were left:\n\nand let us send and see; whether the report of the lepers is true or not. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.14",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "14",
+   "commentary_text": "They took therefore two chariot horses,.... Not five, but two only, and those the best, that drew in the king's chariot perhaps, and so were better fed, and fitter for this expedition:\n\nand the king sent after the host of the Syrians, saying, go and see; whether they are fled or not. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.15",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "15",
+   "commentary_text": "And they went after them unto Jordan,.... Not finding them in the camp, and knowing the rout they would take to their own land, they went as far as Jordan, over which they must pass:\n\nand, lo, all the way was full of garments and vessels which the Syrians had cast away in their haste; in their fright and flight, such of their clothes as hindered them in running; and their armour, as Josephus (c) seems rightly to understand the word used, these they threw away for quicker dispatch:\n\nand the messengers returned and told the king: that it was as the lepers said, and what they themselves had seen.\n\n(c) Ut supra. (Antiqu. l. 9. c. 4. sect. 5.) \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.16",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "16",
+   "commentary_text": "And the people went out and spoiled the tents of the Syrians,.... Of their riches, and of their provisions; of which there was such a plenty, not only for present use, but for sale:\n\nso that a measure of fine flour was sold for a shekel, &c.\n\naccording to the word of the Lord; by Elisha, 2 Kings 7:1. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.17",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "17",
+   "commentary_text": "And the king appointed the lord, on whose hand he leaned, to have the charge of the gate,.... Not to keep out the enemy, of which there was no danger; but to prevent disorders and tumults among the people, and that they might go out in an orderly and regular manner:\n\nand the people trod upon him in the gate; being eager to get out for food; and he endeavouring to keep order among them, they pressed upon him, and threw him down, and trampled him under foot; or he was placed here to regulate the market, that everyone might be supplied in course, but through the people's pressing to get provisions, he was overborne, and trod upon:\n\nand died, as the man of God had said, who spake when the king came down to him; so that he saw the plenty, but partook not of it, as he said, see 2 Kings 7:2. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.18",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "18",
+   "commentary_text": "And it came to pass, as the man of God had spoken to the king, saying,.... As in 2 Kings 7:1, and what he said to the king there, and to the lord, in 2 Kings 7:2, are repeated in this and the next verse, that it might be observed how exactly the prophecies were fulfilled. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.19",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "19",
+   "commentary_text": "And that lord answered the man of God, and said,.... As in 2 Kings 7:2.\n\nand he said; that is, Elisha, as in the same place. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.7.20",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 7,
+   "verse_range": "20+",
+   "commentary_text": "And so it fell out unto him,.... As the prophet predicted:\n\nfor the people trod upon him in the gate, and he died; See Gill on 2 Kings 7:17. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.1",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "1",
+   "commentary_text": "And when Athaliah the mother of Ahaziah saw that her son was dead,.... Who was the daughter of Ahab, and granddaughter of Omri 2 Kings 8:18, she arose:\n\nand destroyed all the seed royal; that were left, for many had been slain already; the sons of Jehoshaphat, the brothers of Joram, were slain by him, 2 Chronicles 21:4 and all Joram's sons, excepting Ahaziah, were slain by the Arabians, 2 Chronicles 22:1, and the sons of the brethren of Ahaziah were slain by Jehu, 2 Kings 11:8, these therefore seem to be the children of Ahaziah, the grandchildren of this brutish woman, whom she massacred out of her ambition of rule and government, which perhaps she was intrusted with while her son went to visit Joram king of Israel; other reasons are by some assigned, but this seems to be the chief. For the same reason Laodice, who had six sons by Ariarathes king of the Cappadocians, poisoned five of them; the youngest escaping her hands, was murdered by the people (x), as this woman also was.\n\n(x) Justin. e Trogo, l. 37. c. 1. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.2",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "2",
+   "commentary_text": "But Jehosheba, the daughter of King Joram,.... Not by Athaliah, but another woman; for an high priest, as her husband was, would not have married the daughter of such an idolatrous woman, nor would she have married her to him:\n\nsister of Ahaziah, took Joash the son of Ahaziah, and stole him from among the king's sons which were slain: among whom he lay; either being cast there by the murderer, or her associates, supposed to be dead, or by his nurse, that he might be thought to be so, who acquainting his aunt with it, went and privately took him away:\n\nand they hid him, even him and his nurse, in the bedchamber from Athaliah, so that he was not slain; that is, Jehosheba and her husband hid him and his nurse in a bedchamber; or \"chamber of beds\" (y), in which there were more beds than one; one of the chambers of the priests and Levites in the temple, that is, which were adjoining to it; for into the sanctuary itself it was not usual to bring beds (z); wherefore\n\nthe house of the Lord, in the next verse, must be understood largely as including all the appendages of it.\n\n(y)  \"in cubiculo lectorum\", Pagninus, Montanus. So Sept. &c. (z) T. Bab. Tamid, c. 1. fol. 26. 2. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.3",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "3",
+   "commentary_text": "And he was with her hid in the house of the Lord six years,.... In the temple; not in the holy of holies, as Jarchi, but in a chamber of the priests and Levites, of which there were several in a temple, as Kimchi, and others; and the husband of Jehosheba, being high priest, had one of them for his own use; and here the child was hid six years, so that he was but a year old when he was first taken and preserved, for he was made king when seven years of age, 2 Kings 11:21,\n\nand Athaliah did reign over the land; the only instance we hear of a woman reigning in Israel, and this was not by right, but by usurpation; and so, according to the Jewish canons, a woman might not rule; which thus runs (a), they do not set a woman in the kingdom, as it is said, Deuteronomy 17:15, \"a king over them\", not a queen; and so, in all places of power and authority in Israel, they put in them none but a man.\n\n(a) Maimon. Hilchot Melachim, c. 1. sect. 5. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.4",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "4",
+   "commentary_text": "And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard,.... This was the husband of Jehosheba, who was high priest, 2 Chronicles 22:11 these\n\nrulers over hundreds were not those appointed over the people for civil affairs, as by the advice of Jethro, but over the priests and Levites in their courses; five of whom are mentioned by name, and were employed in gathering together the Levites, and the chief of the fathers, throughout all the cities of Judah, 2 Chronicles 23:1, and the \"captains\" here are the heads of the fathers there, who were the heads of the courses they were sent to gather; and the \"guard\", those of the late king, whom Athaliah had turned out of their post, and took in others in their room, unless rather the temple guard is meant:\n\nand brought them to him into the house of the Lord; the temple, that part of it where was the court of the priests and Levites:\n\nand made a covenant with them; to join with him, assist him, and stand by him in the restoration of the king, and the reformation of the kingdom:\n\nand took an oath of them in the house of the Lord; to keep secrecy, and be faithful to him:\n\nand showed them the king's son; for the truth of which he could produce his wife, the sister of the late king, and also the nurse of this child with him. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.5",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "5",
+   "commentary_text": "And he commanded them, saying, this is the thing that ye shall do,.... These were the rulers over hundreds among the priests and Levites, and which he, as high priest, could command, and whom he could convene without suspicion, being such as he had a connection with, and were unarmed men: and for the better understanding of what follows, it should be observed, that the priests, in the times of David, were divided into twenty four courses, which were by turns to serve a week in the temple; the course that came in entered when the sabbath began, and that which went out went out when it ended, and each course consisted of a thousand men: now with respect to both these courses, both that which went in and that which went out, Jehoiada gave them the following charge:\n\na third part of you that enter in on the sabbath; on the beginning of it, to do duty in the temple the week following:\n\nshall even be keepers of the watch of the king's house, which, according to some, was that part of the temple where the king was hid and brought up, supposed to be the north part of it: or rather these were set at the north gate of the temple, which led to the royal palace, lest any should rush out of that, and kill the king. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.6",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "6",
+   "commentary_text": "And a third part shall be at the gate of Sur,.... Generally thought by the Jews to be the eastern gate, so called, as they say, because such as were defiled were bid to depart, or go back, as this word signifies, and not enter the temple; it is called \"the gate of the foundation\", 2 Chronicles 23:5 because, according to Ben Gersom, here the foundation of the sanctuary was first laid; it is said (b) to have five other names besides these:\n\nand a third part at the gate behind the guard; the temple guard, which had a captain of them, Acts 4:1 this gate is supposed to be the same with \"sippim\", or the threshold gate, 2 Chronicles 23:4 and to be the southern one:\n\nso shall ye keep the watch of the house, that it be not broken down; guard the temple, that none break or rush into it, of Athaliah's party.\n\n(b) T. Hieros. Yoma apud Beckium in Targ. in 2 Chronicles 23.5. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.7",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "7",
+   "commentary_text": "And two parts of all you that go forth on the sabbath,.... The course that went out of service at the end of the sabbath; these were not suffered, not any of them, to go into the country, but were detained for the present purpose, and divided into two parts:\n\neven they shall keep the watch of the house of the Lord about the king, these were placed in the temple where the king was, or where he should be brought forth, and be a guard on his right and left; this interpretation seems to be agreeably to the order of the text here, and is the sense of Jarchi; but there is this objection to it, that, by such a distribution of both courses, no provision is made for the services of the temple; wherefore Dr. Lightfoot (c) divides them into six parts, each into three, one third of the course that came in for service, the other to keep the watch at the king's house, and the other third at the gate Sur; and the course that went out, one third of them was placed at the gate behind the guard, and the other two to keep the watch of the house for the king's safety; but according to the account in 2 Chronicles 23:4, there were but three ranks or orders of them in all; wherefore the sense of Kimchi, Ben Gersom, and Abarbinel, seems most agreeable, that the first consisted of those that went in on the sabbath, not of all, but half of them, the other half being employed in the service of the sanctuary; and the other two of the course that went out, even all of them, they being entirely at leisure, who were divided into two parts, and disposed of as above.\n\n(c) Prospect of the Temple, c. 20. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.8",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "8",
+   "commentary_text": "And ye shall compass the king round about, every man with his weapons in his hand,.... Afterwards given them, 2 Kings 11:10,\n\nand he that cometh within the ranges, let him be slain; any strange man that was not of them, that came into the ranks in which they were formed, was to be put to death as a spy, who might go and inform the queen what was doing; according to Jarchi, the word for \"ranges\" signifies the place through which the king went from his own house to the house of God (d); and here it seems the guards were placed:\n\nand be ye with the king as he goeth out and as he cometh in when brought forth to be crowned and anointed, and returned again.\n\n(d) Vid. David. de Pomis Lexic. fol. 205. 3. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.9",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "9",
+   "commentary_text": "And the captains over the hundreds did according to all things that Jehoiada the priest commanded,.... Of whom see 2 Kings 11:4.\n\nand they took every man his men; everyone his hundred:\n\nthat were to come in on the sabbath, with them that should go out on the sabbath; both the courses, of which see 2 Kings 11:5.\n\nand came to Jehoiada the priest; with the said courses, at least as many of them as were to be employed in the present service. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.10",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "10",
+   "commentary_text": "And to the captains over hundreds did the priest give King David's spears and shields, that were in the temple of the Lord. Such as he had taken in war from his enemies, and had dedicated for the service of the temple, to defend it on occasion, and laid up there; those the priests gave to the captains, to arm their men with, who came unarmed, and so unsuspected, and in this way might be armed without being seen and known. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.11",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "11",
+   "commentary_text": "And the guard stood, every man with his weapons in his hand, round about the king,.... As ordered, 2 Kings 11:8.\n\nfrom the right corner of the temple to the left corner of the temple from the northeast to the southeast:\n\nalong by the altar and the temple: the altar of burnt offering, which stood in the court. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.12",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "12",
+   "commentary_text": "And he brought forth the king's son,.... Out of the apartment in the temple where he had been brought up:\n\nand put the crown upon him; the crown royal, which seems to have been kept in the temple:\n\nand gave him the testimony; the book of the law, which he was to read in all his days, and according to it govern the people; and which was a testimony of the will of God both to him and them: Kimchi and Ben Melech interpret it of royal garments put upon him:\n\nand they made him king, and anointed him; proclaimed and declared him king, and anointed him, for the confirmation of it, because of the pretension Athaliah made to the kingdom; otherwise, as the Jewish writers say, the son of a king was not anointed; and hence, they say, it was, that Solomon was anointed, because of the claim of Adonijah:\n\nand they clapped their hands; in token of joy:\n\nand said, God save the king; or, \"let the king live\"; or, \"may he prosper\", as the Targum; may health and prosperity attend him in his government. In 2 Chronicles 23:11, it is said; \"Jehoiada and his sons anointed him\", and said those words; among whom must be Zechariah, whom this king afterwards slew, which was an instance of great ingratitude, 2 Chronicles 24:20. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.13",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "13",
+   "commentary_text": "And when Athaliah heard the noise of the guard, and of the people,.... Their acclamations and shouts at the coronation of the king; for by this time the people had some knowledge of the affair, and ran, and came flocking to see the new king, and express their joy on this occasion, and whom they greatly praised, 2 Chronicles 23:12.\n\nshe came to the people into the temple of the Lord; the outward court, where the people were assembled; and she seems to come alone, unattended, in great surprise and consternation, and was admitted to pass the guards, being the queen, and alone, and perhaps by the particular order of Jehoiada, though contrary to the general orders he gave, 2 Kings 11:8. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.14",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "14",
+   "commentary_text": "And when she looked, behold, the king stood by a pillar, as the manner was,.... Of kings, when they came into the temple on any occasion, civil or religious, therefore it is called his pillar, 2 Chronicles 23:13, some think this was the brazen scaffold erected by Solomon, 2 Chronicles 6:13, though Vitringa (e) and Bishop Patrick suppose it to be the post of the east gate of the inner court, from Ezekiel 46:2, according to Jacob Leo (f), this was the royal throne in the court of the Israelites, near the high or upper gate, on a marble pillar, where the kings of the house of David sat, when they came into the sanctuary to see the Lord in the second temple; this throne was like an high tower, standing upon two pillars, each twenty cubits high, and their circumference twelve; here sat Joash, and Hezekiah, and Josiah; however, Athaliah saw Jehoash with the crown on his head, and in the place where kings used to sit or stand:\n\nand the princes and the trumpeters by the king; the rulers of the courses of the priests, and the Levites, blowing the trumpets:\n\nand all the people of the land rejoiced, and blew with trumpets; it is added, in 2 Chronicles 23:13 that the singers played also on musical instruments; that were then and there assembled:\n\nand Athaliah rent her clothes; through grief, and as one almost distracted:\n\nand cried, treason, treason! to try if she could get any to take her part, and seize on the new king, and those that set him up.\n\n(e) Proleghom. de Synagog. Vet. c. 4. p. 32. (f) Apud Wagenseil. Sotah, p. 680. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.15",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "15",
+   "commentary_text": "But Jehoiada the priest commanded the captains of the hundreds, the officers of the host,.... Of the priests and Levites:\n\nand said unto them, have her forth without the ranges; the ranks of the guards, which were at the gate leading to the palace, or rather \"within\" them (g); the meaning is, that he ordered her to be had out of the court of the temple, and be put within their ranks, and enclosed by them, that her blood might not be shed in the temple, and yet not escape them:\n\nand him that followeth her, kill with the sword: that takes her part, and offers to help and assist her, passing through the ranks after her, dispatch him at once:\n\nfor the priest had said, let her not be slain in the house of the Lord: that it might not be defiled with her blood; by which it appears that the guards had orders concerning her before, should she come to the temple, see 2 Kings 11:13.\n\n(g)  \"intra ordines\", Munster, Junius, Tremellius, Piscator, Noldius, p. 79. No. 365. So Jarchi, Kimchi, Ben Gersom, & Ben Melech. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.16",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "16",
+   "commentary_text": "And they laid hands on her,.... Or rather,\"set a place for her'',as the Targum; so Jarchi and Kimchi; made a space, opened a way for her to come out of the temple into their ranks, that she might be there taken and slain, and not in the temple:\n\nand she went by the way by the which the horses came into the king's house; either the high road in which the horses and carriages went to the palace, or the way to the king's stables near the palace: and there was she slain; they let her go so far, which was far enough from the temple, and then they slew her. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.17",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "17",
+   "commentary_text": "And Jehoiada made a covenant between the Lord and the king and the people, that they should be the Lord's people,.... Renewed the covenant between the Lord on the one part, and the king and the people on the other; assuring them, that as God had declared that he would be their God, he would yet be their God to bless and protect them, they continuing in obedience to him; and obliging them to promise that they would serve the Lord their God, and him only, and root out all idolatry from the land, and restore, and continue in, the pure worship of God:\n\nbetween the king also and the people; he promising, on his part, that he would govern them according to the law of God, and protect them in their rights and properties, privileges and liberties; and they, on their part, that they would honour and obey him, and be his faithful subjects. In 2 Chronicles 23:16 Jehoiada is said to make this covenant between him, &c. which may be understood of the Lord; or if of himself, the meaning is, that it was made between him, the king and people, and the Lord. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.18",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "18",
+   "commentary_text": "And all the people of the land,.... That were at Jerusalem, and the parts adjacent, that came from the country, hearing what was done: went into the house of Baal; a temple of his Athaliah had built, either in Jerusalem, or near it; perhaps on the mount of Olives, called the mount of corruption, 2 Kings 23:13 from the idolatry there committed:\n\nand brake it down, his altars and his images brake they in pieces thoroughly; made an entire destruction of them all, temple, altars, the images of Baal and other deities:\n\nand slew Mattan the priest of Baal before the altar; either as he was sacrificing, or that he might be a sacrifice, or where he had fled for refuge:\n\nand the priest appointed officers over the house of the Lord; priests to offer sacrifices, Levites to sing the praises of God, porters at the door of the temple, and watches in it, and restored the courses of the priests, and everything to its proper order, which had been neglected, or had ceased, during the usurpation of Athaliah; see 2 Chronicles 23:18. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.19",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "19",
+   "commentary_text": "And he took the rulers over hundreds, and the captains, and the guard,.... Of which 2 Kings 11:4 and all the people of the land; as many as were assembled together on this occasion:\n\nand they brought down the king from the house of the Lord; the temple, which was built on an eminence:\n\nand came by the way of the gate to the king's house; the gate of the royal palace, where the king's guards were placed, and did their duty: and he sat on the throne of the kings: where the kings of Judah used to sit, and this finished the formality of his being made king. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.20",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "20",
+   "commentary_text": "And all the people of the land rejoiced,.... That one of the house of David was set upon the throne, which they might fear was extinct, as it very near was; the lamp of David was almost quenched, only this single life left, from whom a line of kings proceeded, and the King Messiah; the promise of God cannot fail see Psalm 132:11, this occasioned great joy:\n\nand the city was quiet: was very easy at, yea, pleased with, the dethroning and death of Athaliah; there was no tumult on account thereof, nor such disturbances as she occasioned in her life:\n\nand they slew Athaliah with the sword beside the king's house; as related in 2 Kings 11:16 where she was buried, or what became of her carcass, is not said; some have thought she was cast into the brook Kidron, because Josephus says (h) Jehoiada ordered her to be had into that valley, and there slain.\n\n(h) Antiqu. l. 9. c. 7. sect. 3. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.11.21",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 11,
+   "verse_range": "21+",
+   "commentary_text": "Seven years old was Jehoash when he began to reign. Being a year old when his father was killed and having been hid six years in the temple. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.1",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "1",
+   "commentary_text": "In the seventh year of Jehu Jehoash began to reign,.... So that he reigned twenty one or twenty two years contemporary with Jehu's reign, for Jehu reigned twenty eight years:\n\nand forty years reigned he in Jerusalem; the same number of years David and Solomon reigned:\n\nand his mother's name was Zibiah of Beersheba; a city in the tribe of Simeon, in the extreme part of the land of Canaan southward; her name in the Chaldee dialect is Tabitha, the same with Dorcas in Greek, Acts 9:36. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.2",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "2",
+   "commentary_text": "And Jehoash did that which was right in the sight of the Lord all his days,.... Worshipping the only true God, and ruling and walking according to the law of God:\n\nwherein Jehoiada the priest instructed him; and so long as he observed his instructions, and as long as that priest lived, he reigned well; for to that period \"all his days must be limited\"; for after his death he was seduced by the princes of Judah to idolatry, and lived scandalously, and died ignominiously; see 2 Chronicles 24:2. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.3",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "3",
+   "commentary_text": "But the high places were not taken away,.... Used before the temple was built, or set up in Rehoboam's time, 1 Kings 14:23 contrary to the law of God, which required that sacrifices should only be offered in the place the Lord chose to dwell in, Deuteronomy 12:4 the people still sacrificed and burnt incense in the high places; as they had done in the times of Athaliah, and though the pure worship of God was restored at Jerusalem; and indeed this they did in all preceding reigns; nor was it in the power of the best of kings, at least they did not think it safe to attempt to remove them till Hezekiah's time; so fond were the people of them because of their antiquity and supposed sanctity, and for the sake of ease. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.4",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "4",
+   "commentary_text": "And Jehoash said to the priests,.... Being minded or having it in his heart, to repair the temple, as in 2 Chronicles 24:4 not only because it was the sanctuary of the Lord, though that chiefly, but because it had been a sanctuary to him, where he was hid and preserved six years:\n\nall the money of the dedicated things that is brought into the house of the Lord: or rather, \"that is to be brought\", as De Dieu, and others render it, the particulars of which follow:\n\neven the money of everyone that passeth the account; or that passeth among them that are numbered, as in Exodus 30:13 that were upwards of twenty years of age, and bound to pay the half shekel for the ransom of their souls; and it is called the collection or burden Moses laid on them in the wilderness, 2 Chronicles 24:6.\n\nthe money that every man is set at; the price the priest set upon or estimated a man at, or whomsoever that belonged to him, that he devoted to the Lord, which by the law he was bound to pay for his redemption, and, till that was done, he and they were not his, but the Lord's, of which see Leviticus 27:1 and here the Targum calls it, the money of the redemption of souls, which is the gift of a man for the redemption of his soul:\n\nand all the money that cometh into any man's heart to bring into the house of the Lord: vows and freewill offerings made of their own accord. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.5",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "5",
+   "commentary_text": "Let the priests take it to them, every man of his acquaintance,.... Of those that were most known by them; for the priests had cities assigned them in several parts of the land, and they that dwelt with them in them, or in the parts adjacent to them, were best known by them; and they were sent into all the cities, some to one and some to another, where they were most acquainted, to collect money, both what was due by law, and what the people should freely give, see 2 Chronicles 24:5.\n\nand let them repair the breaches of the house, wheresoever any breach shall be found: that is, of the temple, which, according to the Jewish chronology (i), had been built but one hundred and fifty five years; and being built very strong, would have needed no considerable repairs as yet, but that it had been broken up and misused by Athaliah and her sons, 2 Chronicles 24:7.\n\n(i) Seder Olam Rabba, c. 18. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.6",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "6",
+   "commentary_text": "But it was so, that in the twenty and third year of King Jehoash, the priests had not repaired the breaches of the house. Either the people being backward to pay in the money, or the priests converted it to their own use: or, however, were negligent of doing the work enjoined them by the king, either in collecting the money, or in using it as they were directed. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.7",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "7",
+   "commentary_text": "Then King Jehoash called for Jehoiada the priest, and the other priests,.... The common priests, Jehoiada being high priest:\n\nand said unto them, why repair ye not the breaches of the house? in which they appeared to him very dilatory; the reason might be, the people were not forward to pay in their money, and they might not choose to begin the repairs until they had got it all in, or at least what was sufficient to carry them through them:\n\nnow therefore receive no more money of your acquaintance; suspecting that what they had received they kept for their own use:\n\nbut deliver it for the breaches of the house; into other hands for that use, and so dismissed them at once from collecting the money, and being concerned in the repairs of the temple. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.8",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "8",
+   "commentary_text": "And the priests consented to receive no more money of the people,.... And delivered up what they had:\n\nneither to repair the breaches of the house; being very willing to be stop both services, and especially since they seemed to be suspected. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.9",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "9",
+   "commentary_text": "But Jehoiada the priest took a chest,.... By the commandment of the king, 2 Chronicles 24:8, to put the money collected into, to prevent any fraud, or suspicion of any:\n\nand bored a hole in the lid of it; to drop the money into, by which means it could not be taken out without taking off the lid:\n\nand set it beside the altar; the altar of burnt offering, in the court:\n\non the right side, as one cometh into the house of the Lord; that is, on the north; for the entrance into the temple was at the east: in 2 Chronicles 24:8, it is said to be set without at the gate of the house; which Dr. Lightfoot (k) thinks respects another time, and that either another chest was made, or the same that was first placed by the altar, in the court of the priests, and so in their hands, and the money not coming in apace, was removed without the court at the entrance of it, whither the people brought it readily:\n\nand the priests that kept the door; the door of the outward court, the levites, the porters, or rather, as the Targum, the priests, the treasurers, who were appointed to this service in the room of the others dismissed; and so Kimchi and other Jewish commentators interpret this of the keepers of the vessels of the sanctuary, and not of the doors of it:\n\nthese put therein all the money that was brought into the house of the Lord; by the people from the several parts of the country, who, by proclamation, were required so to do, and very readily did, 2 Chronicles 24:9.\n\n(k) Prospect of the Temple, ch. 30. p. 20, 22. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.10",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "10",
+   "commentary_text": "And it was so, when they saw that there was much money in the chest,.... Which might easily be guessed at by the number of the people which contributed:\n\nthat the king's and the high priest came up; to the temple; the high priest did not choose to come alone, lest he should be suspected, but to have the king's secretary with him, that the money might be taken out of the chest, and told in the presence of them both: in 2 Chronicles 24:11 instead of the \"high priest\", it is the \"high priest's officer\", which the Targum there calls the Sagan of the high priest, or his deputy, who, perhaps, attended when the high priest could not:\n\nand they put up in bags, and told the money that was found in the house of the Lord; that is, they poured the money out of the chest, or emptied it, as in 2 Chronicles 24:11 and counted it, and very likely set down the sum in writing, and put it up in bags, very probably sealed. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.11",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "11",
+   "commentary_text": "And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the Lord,.... Who were appointed overseers of the workmen employed in the repairs of the temple; which overseers were laymen, and not priests, they being discharged from any concern in the repairs: this money \"told\", Kimchi interprets of its being coined; he supposes money coined and uncoined to be brought, which was put in separate bags; and that, which was not coined, they coined it before they delivered it to the overseers to pay the workmen with:\n\nand they laid it out to the carpenters and builders that wrought upon the house of the Lord; paid them with it, some that wrought in cutting the timber, and others in building with it. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.12",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "12",
+   "commentary_text": "And to masons, and hewers of stone,.... Which they cut out of the mountain, and the masons repaired the stone walls with:\n\nand to buy timber; felled in Lebanon:\n\nand hewed stone; fitted for building with:\n\nto repair the breaches of the house of the Lord; where both timber and stone were wanting:\n\nand for all that was laid out for the house to repair it; in whatsoever else it needed, as iron and brass to mend it, 2 Chronicles 24:12. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.13",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "13",
+   "commentary_text": "Howbeit there were not made for the house of the Lord, bowls of silver,.... Either to hold the blood of the sacrifices, or the drink offerings of wine:\n\nsnuffers; to trim the lamps; or, as Jarchi and other writers, both Jewish and Christian, musical instruments:\n\nbasins; vessels to sprinkle the blood with, as the word signifies:\n\ntrumpets; silver ones, to call the assembly, blow over the sacrifices, &c.\n\nany vessels of gold, or vessels of silver; for any other use: these were not made\n\nof the money that was brought into the house of the Lord; yet, in 2 Chronicles 24:14, it is said they were, which is to be reconciled thus; they did not make any of those things at first, until the house was repaired, and the charges of it defrayed; and then of what remained they made vessels for the house, which were wanting, that Athaliah had bestowed on Baalim, 2 Chronicles 24:7. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.14",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "14",
+   "commentary_text": "But they gave that to the workmen, and repaired therewith the house of the Lord. They took care that the workmen should first be paid for the repairs of the temple. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.15",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "15",
+   "commentary_text": "Moreover, they reckoned not with the men into whose hand they delivered the money to be bestowed on the workmen,.... That is, the king's secretary and the high priest, or his officer, never called to account the overseers of the workmen, to whom they committed the money to pay them with; never examined how they laid it out, and for what:\n\nfor they dealt faithfully; they saw they acted such an honest and upright part, and such an high opinion had they of them, that they never examined their accounts, or called for their bills. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.16",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "16",
+   "commentary_text": "The trespass money and sin money was not brought into the house of the Lord,.... Which was the money persons at a distance sent for their trespass and sin offerings instead of cattle, with which the sacrifices were bought; and what remained of the money was not brought into the temple, and made use of in the above manner:\n\nit was the priest's; the overplus of it, and such of the sacrifices which by the law were appropriated to them. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.17",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "17",
+   "commentary_text": "Then Hazael king of Syria went up and fought against Gath, and took it,.... When Jehoiada was dead, and Jehoash was become an apostate, the Lord suffered the king of Syria to be a scourge to him; who first attacked Gath, and took it, which was formerly one of the principalities of the Philistines, but was subdued by David, and had been in the hands of the Israelites ever since; the king of Syria began with this, as nearest to him, to open the way for what he had further in view:\n\nand Hazael set his face to go up to Jerusalem; he made such preparations, and took such measures, as plainly indicated what his design was. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.18",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "18",
+   "commentary_text": "And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated,.... To sacred uses, and had laid up in the temple:\n\nand his own hallowed things: which he had devoted to the same uses:\n\nand all the gold that was found in the treasures of the house of the Lord: which were gifts and presents from divers persons for sacred services:\n\nand sent it to Hazael king of Syria, and he went away from Jerusalem; to bribe him, that he might desist from his purpose; which showed a meanness of spirit, and was the effect of his idolatry and apostasy, having forsaken the Lord, and being forsaken by him; in whom should have been his trust and confidence, and then he need not have been afraid to meet the king of Syria. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.19",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "19",
+   "commentary_text": "And the rest of the acts of Jehoash, and all that he did, are they not written in the book of the chronicles of the kings of Judah? In the registers and annals of those princes; some of them are to be met with in 2 Chronicles 24:1. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.20",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "20",
+   "commentary_text": "And his servants arose,.... This was after he had slain Zechariah the son of Jehoiada, who reproved him for his idolatry; and after a second expedition of the king of Syria, who came to Jerusalem, and spoiled it, and left Jehoash diseased, as is recorded in 2 Chronicles 24:23,\n\nand made a conspiracy; not to get the kingdom into their hands, for his son succeeded him, but to avenge the death of Zechariah:\n\nand slew Jehoash in the house of Millo, which goeth down to Silla; these are both names of places; perhaps the latter is mentioned, to distinguish this Bethmillo from Millo in Zion; or rather that itself is meant, and described by the descent from it to a causeway, as Silla may signify, which led to the royal palace. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.12.21",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 12,
+   "verse_range": "21+",
+   "commentary_text": "For Jozachar the son of Shimeath,.... Said to be an Ammonitess, and this man's name Zabad, 2 Chronicles 24:26,\n\nand Jehozabad the son of Shomer, his servants; who is said in the same place to be the son of Shimrith a Moabitess:\n\nthese smote him, and he died; justly did he fall by the hands of such persons for his idolatry:\n\nand they buried him with his fathers in the city of David; but not in the sepulchres of the kings, because of his idolatry and murder of a priest of the Lord:\n\nand Amaziah his son reigned in his stead; the conspirators not seeking the kingdom, but vengeance on him for his sins, which, whether right in them to do, was suffered by the Lord. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.1",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "1",
+   "commentary_text": "And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem. Josiah sent messengers throughout the land, and convened all the principal men in it at Jerusalem. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.2",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "2",
+   "commentary_text": "And the king went up into the house of the Lord,.... To the temple, from his palace:\n\nand all the men of Judah and all the inhabitants of Jerusalem with him: they met him there:\n\nand the priests, and the prophets; the prophets Jeremiah, Zephaniah, and Uriah, who, though they might not be at Jerusalem when the book of the law was found, yet, upon this message of the king's, might come up thither from the countries where they were; the Targum interprets the word \"scribes\": and some take them to be the sons of the prophets, their disciples; in 2 Chronicles 34:30 they are called Levites:\n\nand all the people, both small and great; a very numerous assembly:\n\nand he read in their ears all the words of the book of the covenant which was found in the house of the Lord: that is, he caused it to be read by others, and perhaps by more than one, the congregation being so large. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.3",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "3",
+   "commentary_text": "And the king stood by a pillar,.... As the manner of kings was, 2 Kings 11:14 and is thought to be the brasen scaffold erected by Solomon, on which he stood at the dedication of the temple, and now Josiah at the reading of the law, 2 Chronicles 6:13, it is said to be his place, 2 Chronicles 34:31; see Gill on 2 Kings 11:14.\n\nand made a covenant before the Lord: agreed and promised in the presence of God, both he and his people:\n\nto walk after the Lord: the worship of the Lord, as the Targum; closely to attend to that:\n\nand to keep his commandments, and his testimonies, and his statutes: all the laws of God, moral, civil, and ceremonial:\n\nwith all their heart, and all their soul: cordially and sincerely:\n\nto perform the words of the covenant that were written in this book: lately found, and now read unto them:\n\nand all the people stood to the covenant: agreed to it, and promised to keep it; so the Targum,\"all the people took upon them the covenant,''engaged to observe it. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.4",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "4",
+   "commentary_text": "And the king commanded Hilkiah the high priest, and the priests of the second order,.... Or the second course of the priests; the course of Jedaiah, 1 Chronicles 24:7 as some think; or rather, the two chief priests next to the high priest, who were of the line both of Eleazar and Ithamar; though the Targum interprets it of the Sagan of the priests, a deputy of the high priest, such as in later times the high priest had always appointed for him on the day of atonement (r):\n\nand the keepers of the door: the porters at the door and gates of the temple; or rather the treasurers, as the Targum; such as were appointed over the vessels of the sanctuary, as the Jewish writers generally interpret it, and which best agrees with what follows:\n\nto bring forth out of the temple of the Lord all the vessels that were made for Baal: used in burning incense, or offering sacrifices to him:\n\nand for the grove: the idol of the grove, or Asherah, that is, Ashtoreth, or Astarte, the same with Venus, or the moon, as Baal was the sun, the one the husband, and the other the wife, according to the Jews (s):\n\nand for all the host of heaven: the stars:\n\nand he burnt them without Jerusalem in the fields of Kidron; or plain of Kidron, as the Targum; through which the brook Kidron ran:\n\nand carried the ashes of them unto Bethel; where one of Jeroboam's calves was set, and was the source of idolatry; and this he did in contempt of that place; and, to show his detestation of the idolatry there, he made it a dunghill of ashes of things used in idolatrous service; this he could do, that place being in the hands of the kings of Judah from the times of Ahijah, 2 Chronicles 13:19.\n\n(r) Misn. Yoma, c. 1. sect. 1.((s) Zohar in Gen. fol. 34. 3. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.5",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "5",
+   "commentary_text": "And he put down the idolatrous priests,.... The Cemarim, so called, because they wore black clothes, as Kimchi and others, whereas the priests of the Lord were clothed in white linen; see Gill on Zephaniah 1:4.\n\nwhom the kings of Judah had ordained to burn incense in the high places, in the cities of Judah, and in the places round about Jerusalem; for though those high places were destroyed by Hezekiah, they were rebuilt by Manasseh his son, and priests put in them to officiate there, whom Josiah now deposed, 2 Kings 21:3,\n\nthem also that burnt incense unto Baal; in the same high places; these were the priests, and the others in the preceding clause are thought to be ministers unto them:\n\nto the sun, and to the moon, and to the planets; the five planets besides the sun and moon, as Saturn, Jupiter, Mars, Mercury, and Venus; or to the twelve celestial signs in the firmament, as some (t); though Theodoret takes it to be a single star, the evening star:\n\nand to all the host of heaven; or even to the host of heaven, all the stars thereof: this part of worship:\n\nburning incense, which was peculiar to the most high God, yet was frequently made by idolaters to their deities; and from the word (u) by which it is here and elsewhere expressed may \"nectar\" be derived, so much spoken of by the Heathen poets as of a sweet smell (w), and as delicious to their gods; and so Porphyry (x) represents the gods as living on smoke, vapours, and perfumes; and frankincense is said, by Diodorus Siculus (y), to be most grateful to them, and beloved by them; this therefore is a much better derivation of the word \"nectar\" than what Suidas (z) gives, that is, as if it was \"nectar\", because it makes those young that drink it; or than the account Athenaeus (a) gives of it, that it is a wine in Babylon so called.\n\n(t) David de Pomis Lexic. fol. 77. 3.((u) \"suffitum fecit. Et diis acceptus--\" Nidor. Ovid. Metamorph. 1. 12, fab. 4. (w) Theocrit. Idyll. xvii. ver. 29. (x) De Abstinentia, l. 2. c. 42. Celsus apud Origen. l. 8. p. 417. (y) Biblioth. l. 2. p. 132. (z) In voce  (a) Deipnosophist. l. 1. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.6",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "6",
+   "commentary_text": "And he brought out the grove from the house of the Lord,.... Not a real grove of trees, but a carved one, as some think; or rather the image of the grove, 2 Kings 21:7 that is, the idol Ashtoreth, or Astarte, which was set up there; so Theodoret says; some interpreters call it Astoreth, the name of Venus, whom they call Astarte: this Josiah ordered to be brought\n\nwithout Jerusalem, unto the brook Kidron, and burnt it at the brook Kidron; the black brook, where the filth of the sacrifices was carried:\n\nand stamped it small to powder; as Moses did the golden calf:\n\nand cast the powder thereof upon the graves of the children of the people; the common people, see Jeremiah 26:23 or rather on the graves of the worshippers of idols, as it seems from 2 Chronicles 34:4 the Targum is,\"on the graves of the children of Galia,''which, Kimchi says, is the name of an idol; this was done partly in contempt of the idol, groves being, according to law, impure; and partly to the reproach of the deceased, and the memory of them, for their idolatry, and to deter from it those that survived them. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.7",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "7",
+   "commentary_text": "And he brake down the houses of the Sodomites that were by the house of the Lord,.... Near the temple were apartments, in which men, the worshippers of idols, prostituted their bodies to each other; committing that unnatural sin with one another, which has its name from Sodom, and from which those are so called, and which sin they committed in honour of the idols they worshipped; to such vile affections were they, in a judicial manner, delivered up, because of their idolatry; see Romans 1:27 the word signifies \"Holy Ones\", they being called so by an antiphrasis; though Abarbinel thinks these were the idolatrous priests, whom the worshippers of idols reckoned \"holy\", and so built houses for them near the temple to lodge in; the Targum is,\"and broke down the houses of things consecrated to idols,''where they were put; and Theodoret on the place observes, that by an homonymy, they called the demons or idols themselves \"Holy Ones\"; and it is not likely, indeed, that the Sodomites should be\n\nwhere the women wove hangings for the grove; that is, for Astarte, as the same writer observes: or \"curtains\", as the Jewish writers generally interpret it, in which either the idol was enclosed, or these made apartments for the idolaters to commit their abominable wickedness privately; though the Syriac and Arabic versions are,\"they wove garments for the idols that were there;''and so the Septuagint version, of the Complutensian edition; that is, they wove garments for the goddess Astarte, which they dressed her with: the word signifies \"houses\", and may mean the shrines of the idol made of woven work. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.8",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "8",
+   "commentary_text": "And he brought all the priests out of the cities of Judah,.... Who were of the sons of Aaron, and had served in the high places there:\n\nand defiled the high places where the priests had burnt incense; by casting dead carcasses, or the bones of dead men, or dung, or anything that was unclean, into them, by way of contempt:\n\nfrom Geba to Beersheba; which were the northern and southern boundaries of the land of Judah:\n\nand brake down the high places of the gates: of the cities where some think tutelar gods were placed to be worshipped by persons as they went in or out of them: and particularly that\n\nwhich were in the entering in of the gate of Joshua the governor of the city, which were on a man's left hand at the gate of the city; of the city of Jerusalem, where this Joshua was chief magistrate under the king; at whose door stood an high place, which, Kimchi thinks, might he greater than the rest, and therefore mentioned alone, yet was not spared on account of its greatness, or of the person to whom it belonged. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.9",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "9",
+   "commentary_text": "Nevertheless, the priests of the high places came not up to the altar of the Lord at Jerusalem,.... To sacrifice there, as the Targum; though they were removed from the high places, they were not admitted to officiate at the altar of the Lord, having offered in forbidden places:\n\nbut they did eat of the unleavened bread with their brethren; the priests that were pure, as the sons of Zadok; though they might not offer sacrifices, they were allowed to partake of the holy things with the priests, as the meat offerings made of flour unleavened, Leviticus 2:4 which are here meant, and put for all the rest on which the priests lived, see Ezekiel 44:10. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.10",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "10",
+   "commentary_text": "And he defiled Topheth,.... A place so called, as is generally thought, from the beating of drums or timbrels in it, that the shrieks of the infants sacrificed here to Molech might not be heard by their parents, and they repent of delivering them to him, and take them away. So the Indians in India now, at the burning of wives with their deceased husbands, attend them with drums and trumpets; and at such time as the fire is put to the wood, the drums and trumpets make a terrible noise for fear their cries should be heard (b); See Gill on Isaiah 30:33, Jeremiah 7:31 this he defiled by casting any sort of filth or unclean thing into it, in contempt of the idolatry there committed, and to alienate the minds of men from it:\n\nwhich is the valley of the children of Hinnom; a valley that belonged to the posterity of a man of this name, near to Jerusalem, see Joshua 15:8, hence the Greek word \"geenna\" for hell, in the New Testament:\n\nthat no man might make his son or his daughter pass through the fire to Molech; which piece of idolatry used to be committed in this place.\n\n(b) Agreement of Customs between the East Indians and Jews, art. 25. p. 85, 86. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.11",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "11",
+   "commentary_text": "And he took away the horses that the kings of Judah had given to the sun,.... Consecrated to it; these were not images of horses, as some have thought, but real living ones; and the kings that gave them for the service of the sun, and for sacrifice to it, very probably were Manasseh and Amon: that horses were sacred to the sun with many Heathen nations, as the Massagetae, a people in Scythia, and the Persians, and Babylonians, and Ethiopians, is affirmed by various writers (c): and from them the Jews received this notion. According to the Jewish commentators, these were horses provided for the worshippers of the sun to ride upon, and meet the sun in the morning at its rising, and pay their homage to it; but certain it is that the Heathen nations before mentioned slew the horses, and sacrificed them as burnt offerings to the sun, as is asserted by Herodotus (d), Xenophon (e), Strabo (f), Pausanias (g), Philostratus (h), and other writers (i); and so the Indians of India (k) sacrificed them to Apollo, the same with the sun; these being the swiftest of creatures, they offered them to the swiftest of their gods, as Herodotus and Heliodorus observe, in the places before referred to. The stables in which these horses were kept were\n\nat the entering of the house of the Lord, by the chamber of Nathanmelech the chamberlain, which was in the suburbs; so that they reached from the temple to the suburbs of Jerusalem, to that part of them where this officer had a chamber, or lodgings, being in some place of power and authority there; though, according to L'Empereur (l), it is the same with Parbar, 1 Chronicles 26:18 and should not be rendered \"suburbs\", it being between the compass or wall of the temple, and the court:\n\nand burnt the chariots of the sun with fire; these were either chariots, in which the king and his nobles rode, when they went to meet and worship the rising sun; or rather such as were sacred to the sun, as well as the horses, or Josiah would not have burnt them; they seem to be such in which the images of the sun were carried. Herodotus (m) makes mention as of sacred horses, so of a sacred chariot. Xenophon (n) speaks of the chariot of the sun as being of a white colour, and drawn in procession at the worship of the sun; as does also Pausanias (o) of a chariot, in which were the sun, Jupiter, and Juno, and near them other deities; which notion of sacred chariots the Heathens might take from the chariot of the cherubim Jehovah sat and rode in, 1 Chronicles 28:18.\n\n(c) Justin e Trogo, l. 1. c. 10. Curt. Hist. l. 3. c. 3. Ovid. Fast. l. 1. Alex. ab Alex. Genial. Dier. l. 6. c. 26. Heliodor. Ethiop. l. 10. c. 6. 28. (d) Clio, sive, l. 1. c. 216. (e) Cyropaed. l. 8. c. 23, 24. (f) Geograph. l. 11. p. 353. (g) Laconica, sive, l. 3. p. 201. (h) Vit. Apollon. l. 1. c. 20. (i) Vid. Lactant. de fals. Relig. l. 1. c. 21. (k) Laon. Chalcondyl. de Rebus Turc. l. 3. p. 108. (l) Not. in Misn. Middot, c. 2. sect. 3. No. 3. So Boehart. Hierozoic. par. 1. l. 2. c. 10. col. 177. (m) Polymnia, sive, l. 7. c. 55. (n) Ut supra, (Cyropaed. l. 8.) c. 23. (o) Eliac. 1. sive, l. 5. p, 307. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.12",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "12",
+   "commentary_text": "And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made,.... Which were on the roof of the royal palace; the roofs of houses in Judah being flat, Deuteronomy 21:8 altars might be built upon them; so, in Arabia, altars were built on the tops of houses to offer incense thereon daily to the sun (p); as here by Manasseh and Amon very probably, which might be chosen because nearer the heavens; for which reason the Heathens made use of high places to worship in, see Jeremiah 19:13.\n\nand the altars which Manasseh had made in the two courts of the house of the Lord; 2 Kings 21:5.\n\ndid the king beat down; ordered to be demolished:\n\nand brake them down from thence, and cast the dust of them into the brook Kidron; that there might be no remains of them to be put to any superstitious use.\n\n(p) Strabo, Geograph l. 16. p. 539. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.13",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "13",
+   "commentary_text": "And the high places that were before Jerusalem,.... Not only that were within the city, and at the gates of it, but what were without it:\n\nwhich were on the right hand of the mount of corruption: the mount of Olives, so called from the idolatry and corrupt worship performed in it, by way of reproach, with a small alteration of the letters of the word for  at the right hand, or south of this mountain, as the Targum; though others say (q), on the north side of the mount of Olives, four furlongs or half a mile from Jerusalem, were high places:\n\nwhich Solomon king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon; of which See Gill on 1 Kings 11:5, 1 Kings 11:7.\n\ndid the king defile; by casting unclean things into them. Rauwolff (r) says,\"before Mount Zion toward the south, at the other side of the rivulet Kidron, lies the mount of transgression, called Mashith, 2 Kings 23:13, this is higher and steeper than any hereabout; there you still see some old walls of habitations, wherein the concubines of Solomon did live;''and Mr. Maundrell (s) observes, that below the hill stands now a village called Siloe, where it is said he kept them.\n\n(q) Vid Adrichom. Theatrum T. S. p. 171. (r) Travels, par. 3. c. 4. p. 233. (s) Journey from Aleppo, &c. p. 102. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.14",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "14",
+   "commentary_text": "And he brake in pieces the images,.... Of Ashtoreth, Chemosh, and Milcom, in the above high places; which as these high places had been rebuilt by Manasseh or Amon, so new images of these deities were placed there:\n\nand cut down the groves; in which they were set:\n\nand filled their places with the bones of men; of idolatrous priests and worshippers, buried in parts adjacent; these he dug up and scattered in the high places and groves to defile them, bones of the dead being by law unclean, Numbers 19:15. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.15",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "15",
+   "commentary_text": "Moreover, the altar that was at Bethel, and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made. For the worship of the calf there:\n\nboth that altar, and the high place, he brake down; according to an ancient prophecy of the man of God, 1 Kings 13:3 and of Amos in later times, Amos 9:1.\n\nand burnt the high place, and stamped it small to powder; that there might be no remains of it:\n\nand burnt the grove; either the grove of trees on it, or the idol that was in it. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.16",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "16",
+   "commentary_text": "And as Josiah turned himself,.... From the high place, and the altar at Bethel; for he not only gave orders for the destroying of idolatrous places and idols, but he saw them executed himself:\n\nhe spied the sepulchres that were there in the mount; the graves of idolatrous priests and worshippers, who chose to be buried near those places of idolatry; nor was it unusual for persons to be buried on hills and mountains, see Joshua 24:30 and this was a custom in other nations formerly (t), particularly among the Indians (u) now, who in many things agree with the Jews:\n\nand sent and took the bones out of the sepulchres, and burnt them upon the altar; where they had sacrificed to idols:\n\nand polluted it; with their bones, which, according to the law, were defiling, and which was done in contempt of their idolatrous worship there:\n\naccording to the word of the Lord which the man of God proclaimed, who proclaimed these words; or things; foretold that such a king by name would arise, and burn men's bones upon the altar, and which had been foretold more than three hundred and fifty years before this time.\n\n(t) Vid. Servium in Virgil. Aeneid. 11. ver 849. \"fuit ingens monte sub alto\". (u) Manasseh ben Israel Spes Israelis. sect 6. p. 29. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.17",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "17",
+   "commentary_text": "Then he said, what title is that that I see?.... A high and large monument over a grave, with an inscription on it, more remarkable than any of the rest, which made Josiah take notice of it; and the Jews have a tradition, as Kimchi observes, that on one side of the grave grew nettles and thistles, and on the other side odoriferous herbs; which is not to be depended on; but what he further observes may be right, that the old prophet, as he gave orders to his sons to lay his body in the same grave with the man of God, believing his words would be fulfilled, so he likewise gave orders to have a distinguished monument or pillar erected over the grave; and which people in later times took care to support, in memory of the man of God, that thereby it might be known; by which means not only the bones of the man of God were preserved from being burnt, but those of the old prophet also, buried with him:\n\nand the men of the city told him, it is the sepulchre of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Bethel; see 1 Kings 13:1. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.18",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "18",
+   "commentary_text": "And he said, let him alone, let no man move his bones,.... Not take them out of the grave, as they had done the rest:\n\nso they let his bones alone, with the bones of the prophet that came out of Samaria; the old prophet, whereby his end was answered in being buried with him, 1 Kings 13:31. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.19",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "19",
+   "commentary_text": "And all the houses also of the high places,.... The temples of the idols there, and the houses for the priests to dwell in:\n\nthat were in the cities of Samaria, which the kings of Israel had made to provoke the Lord to anger, Josiah took away; particularly in the cities of Manasseh, Ephraim, and Simeon, unto Naphtali, 2 Chronicles 34:6 the Israelites that remained there acknowledging Josiah as their king; and perhaps, after the defeat of Sennacherib, many of the cities of Israel might put themselves under the protection of Hezekiah, and especially upon the destruction of the Assyrian empire; and Manasseh, with his liberty, might have his kingdom enlarged by the king of Babylon; and which being continued and increased in the times of Josiah, might be the reason of his opposing the king of Egypt in favour of the king of Babylon:\n\nand did to them according to all the acts that he had done in Bethel; defiled them, and broke down the altars in them. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.20",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "20",
+   "commentary_text": "And he slew all the priests of the high places that were there,.... The idolatrous priests who sacrificed to Baal, and other Heathen deities; for as for others that burnt incense in high places, yet to the true God, those he spared, though they were not suffered to officiate at the altar of God: the others he slew\n\nupon the altars; where they sacrificed:\n\nand burnt men's bones upon them: the bones of the priests, and worshippers of idols, as he had done at Bethel:\n\nand returned to Jerusalem; after he had gone through the land, both of Judah and Israel, and abolished idolatrous worship everywhere. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.21",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "21",
+   "commentary_text": "And the king commanded all the people,.... Not at Jerusalem only, but throughout the whole kingdom: saying:\n\nkeep the passover unto the Lord your God, as it is written in this book of the covenant; which had been lately found and read, and they had agreed to observe, and in which this ordinance was strictly enjoined, and was a commemoration of their deliverance out of Egypt, and a direction of their faith to the Messiah, the antitype of the passover. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.22",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "22",
+   "commentary_text": "Surely there was not holden such a passover from the days of the judges that judged Israel,.... As the king commanded; the people obeyed and kept the passover, according to the law of the Lord; the manner of its being kept is not here recorded, but is at large in 2 Chronicles 35:1 where it is observed there had not been such an one from the days of Samuel, the last of the judges; so that the days of the judges here mean the last days of them:\n\nnor in all the days of the kings of Israel, nor of the kings of Judah; since the division of the kingdoms; for as for the kings of Israel, they kept it not; and though it was observed in the times of Hezekiah king of Judah, yet not universally, and by some in their uncleanness; for it is a mistake of Clemens of Alexandria (w), that it was not kept in the times between Samuel and Josiah; in the days of David and Solomon it might be kept by greater numbers, but not with such purity, and with such cheerfulness and joy of heart, or with so many other sacrifices attending it, or so exactly agreeable to the law of God, and with such munificence and liberality; the king, and the chief of the priests and Levites, providing out of their own substance for the people and their brethren.\n\n(w) Stromat. l. 1. p. 328. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.23",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "23",
+   "commentary_text": "But in the eighteenth year of king Josiah, wherein this passover was holden to the Lord in Jerusalem. This shows that Josiah must begin the reformation very early that year, since he did all that is before recorded in this and the preceding chapter by the fourteenth of Nisan, the day on which the passover was kept, which month answers to part of our March and part of April, see 2 Kings 22:3 and was the same year the repairs of the temple were finished. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.24",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "24",
+   "commentary_text": "Moreover, the workers with familiar spirits, and the wizards,.... Who were not to be allowed among the Israelites, Deuteronomy 18:10.\n\nand the images; or teraphim: and the idols, and all the abominations; which were worshipped by the Heathens, and introduced among the Jews, and forbidden by the word of God:\n\nthat were spied in the land of Judah, and in Jerusalem, did Josiah put away; for which, it seems, diligent search was made, and wherever they were discovered were removed:\n\nthat he might perform the words of the law, which were written in the book that Hilkiah the priest found in the house of the Lord; both with respect to witchcraft and idolatry, see Leviticus 20:27. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.25",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "25",
+   "commentary_text": "And like unto him was there no king before him,.... The same is said of Hezekiah, 2 Kings 18:5, Hezekiah might excel him in some things, as Josiah might excel Hezekiah in others:\n\nthat turned to the Lord with all his heart, and with all his soul, and with all his might; with such sincerity, heartiness, zeal, and constancy:\n\naccording to all the law of Moses; having respect to every commandment, especially relative to worship, with the greatest precision and exactness:\n\nneither after him arose there any like him; for all to the captivity were wicked princes. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.26",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "26",
+   "commentary_text": "Notwithstanding, the Lord turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah,.... Notwithstanding the great reformation wrought among them; for though Josiah was a sincere reformer, and did what he did heartily, as to the Lord, according to his will, and for his glory; yet the people were not sincere in their compliance, they turned to the Lord not with their whole heart, but feignedly, Jeremiah 3:10.\n\nbecause of all the provocations that Manasseh had provoked him withal; by shedding innocent blood and committing idolatry, which the people consented to and approved of, and even now privately committed idolatry, as the prophecies of Jeremiah and Zephaniah show; and it may easily be concluded that their hearts were after their idols, by their openly returning to them in the days of the sons of Josiah. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.27",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "27",
+   "commentary_text": "And the Lord said, I will remove Judah also out of my sight, as I have removed Israel. Not from his all seeing eye, but from being the object of his special care and protection; the meaning is, that he would suffer them to he carried out of their land into captivity as Israel was; this he had said in his heart, was determined upon; the decree was gone forth, and it was irrevocable:\n\nand will cast off this city Jerusalem which I have chosen: for the place of his worship, the people having forsaken his worship there, and followed after idols:\n\nand the house of which I said, my name shall be there; the temple, called after his name, and where his name was to be, and had been, called upon. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.28",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "28",
+   "commentary_text": "Now the rest of the acts of Josiah, and all that he did,.... For abolishing idolatry, and restoring the true worship of God:\n\nare they not written in the book of the chronicles of the kings of Judah? and also of Israel, in which an account was kept of the transactions of their reign; many other of the acts of Josiah are recorded in the canonical book of Chronicles, 2 Chronicles 34:1. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.29",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "29",
+   "commentary_text": "In his days Pharaohnechoh king of Egypt,.... Who is called in the Targum Pharaoh the lame, because he was lame in his feet, perhaps gouty; Herodotus (x) also calls him Necos the son of Psammiticus; now it was in the last days of Josiah this king reigned in Egypt, or however that the following event was:\n\nthat he went up against the king of Assyria to the river Euphrates; to Carchemish, a city situated upon it; see 2 Chronicles 35:26, the king he went against was the king of Babylon, who had conquered the Assyrian monarchy, and therefore called king of it; some take him to be Nabopolassar; according to Marsham (y), he was Chyniladanus:\n\nand King Josiah went against him; to stop him, that he might not pass through his country, and attack the king of Babylon, whose ally, perhaps, Josiah was; or, however, thought himself obliged to him by the privileges, power, and authority he allowed him to exercise in the land of Israel:\n\nand he slew him at Megiddo, when he had seen him; as soon as they came face to face, and engaged in battle, see 2 Kings 14:8 that is Pharaoh slew Josiah at the first onset. Megiddo was a city in the tribe of Manasseh, Joshua 17:11. Herodotus (z) calls it Magdolus, which seems to be a city on the borders of Egypt, the same with Migdol, Jeremiah 44:1 where he says Pharoahnechoh conquered the Syrians; in Josephus (a) it is called Mendes very wrongly. Josiah seems to have engaged in this action without consulting the Lord and his prophets.\n\n(x) Euterpe, sive, l. 2. c. 158. (y) Chronic. Secul. 18. p. 568. (z) Ibid. c. 159. (a) Antiqu. l. 10. c. 5. sect. 1. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.30",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "30",
+   "commentary_text": "And his servants carried him in a chariot dead from Megiddo,.... They took him out of the chariot in which he was wounded, and put him into another, where he died of his wounds by the way; being mortally wounded, he is said to be dead, or a dead man, see 2 Chronicles 35:24.\n\nand brought him to Jerusalem; which, according to Bunting (b), was forty four miles from Megiddo:\n\nand buried him in his own sepulchre; which either he had provided for himself in his lifetime, or which in common belonged to the kings of Judah, see 2 Chronicles 35:24.\n\nand the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father's stead; though he was not the eldest son, Jehoiakim, who was afterwards placed in his room, being two years older, as appears from 2 Kings 23:31 and this is the reason, as the Jewish commentators in general agree, that he was anointed; which they say was never done to the son of a king, unless there was a competitor, or some objection to, or dispute about, the succession, as in the case of Solomon and others.\n\n(b) Travels, &c. p. 188. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.31",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "31",
+   "commentary_text": "Jehoahaz was twenty three years old when he began to reign,.... Who seems to be the same with Shallum, Jeremiah 22:11.\n\nand he reigned three months in Jerusalem; a short reign, being deposed by the king of Egypt, as after related:\n\nand his mother's name was Hamutal, the daughter of Jeremiah of Libnah; a city in the tribe of Judah, Joshua 10:29. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.32",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "32",
+   "commentary_text": "And he did that which was evil in the sight of the Lord,.... Committed idolatry:\n\naccording to all that his fathers had done; his grand father and great grandfather, Amon and Manasseh; so soon after Josiah's death was the revolt to idolatry. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.33",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "33",
+   "commentary_text": "And Pharaohnechoh put him in bands at Riblah in the land of Hamath,.... Places in Syria; Hamath was formerly a kingdom in Syria, and Riblah is said by Jerom (c) to be Antioch of Syria, near to which was the fountain of Daphne; and in the Targums of Jonathan and Jerusalem on Numbers 34:11. Daphne is put for Riblah; and Josephus (d) says Antioch was by Daphne of Syria; and in the Apocrypha:\"Which when Onias knew of a surety, he reproved him, and withdrew himself into a sanctuary at Daphne, that lieth by Antiochia.'' (2 Maccabees 4:33)Daphne is said to be by Antioch; with which place Pompey was greatly delighted, because of the pleasantness of it, and the abundance of waters about it (e): hither, it is probable, Jehoahaz went with an army to avenge his father's death on the king of Egypt, or to assist the king of Babylon, or both; and here Pharaoh met with him, and took him, and bound him; he seems to be of a martial spirit, from Ezekiel 19:3.\n\nthat he might not reign in Jerusalem; whither afterwards the king of Egypt came, and took it; and so Herodotus (f) says that after he had conquered the Syrians at Migdol, he took Cadytis, a great city of Syria, which seems to be Jerusalem, the holy city:\n\nand put the land to a tribute of one hundred talents of silver, and a talent of gold; the land of Judah; and one hundred talents, according to Bunting (g), amounted to 37,500 pounds of our money; and a talent of gold, according to Brerewood (h), was 4,500 pounds; but Bishop Cumberland (i) makes it 5,067 pounds, three shillings, and ten pence; a talent of gold could not be so large in Homer's time, since he speaks of seven of them given at once in a way of hospitality (k).\n\n(c) Comment. in Ezekiel 47.fol. 261. C. (d) Antiqu. l. 17. c. 2. sect. 3.((e) Rufi Fest. Breviar. Eutrop. Hist. Rom. l. 6. (f) Ut supra. (Chronic. Secil. 18. p. 568.) (g) Ut supra, (Travels, &c.) p. 288. (h) De Ponder & Pret. Vet. Num. c. 4. (i) Scripture Weights and Measures, ch. 4. p. 21. (k) Odyss. 9. ver. 258. & Odyss. 24. ver. 321. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.34",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "34",
+   "commentary_text": "And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father,.... Not in the room of Jehoahaz; for he did not allow him to be a king, and to have any lawful right to the throne; but, deposing him, set up his elder brother:\n\nand turned his name to Jehoiakim; to show his subjection to him, and that he held his government by him:\n\nand took Jehoahaz away: with him, from Jerusalem, when he departed thence:\n\nand he came to Egypt, and died there: and never returned to Jerusalem, according to the prophecy of Jeremiah, Jeremiah 22:11. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.35",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "35",
+   "commentary_text": "And Jehoiakim gave the silver and gold to Pharaoh,.... The one hundred talents of silver and the talent of gold, which he imposed as a tribute upon the land:\n\nbut he taxed the land to give the money according to the commandment of Pharaoh; he did not take it out of his own treasures nor the treasures of the house of the Lord, which perhaps might be exhausted, but levied it of the people of the land:\n\nhe exacted the silver and gold of the people of the land, required them to pay it in:\n\nof everyone according to his taxation, to give it unto Pharaohnechoh: everyone was taxed according to his abilities, in proportion to what he was worth, or to the estate he was possessed of. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.36",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "36",
+   "commentary_text": "Jehoiakim was twenty and five years old when he began to reign,.... And therefore must be two years older than his brother Jehoahaz, who was deposed:\n\nand he reigned eleven years in Jerusalem; and therefore must die at the age of thirty and six:\n\nand his mother's name was Zebudah, the daughter of Pedaiah of Rumah; which Josephus (l) calls Abuma; but he speaks of a village in Galilee called Ruma (m); but whether the same with this is not certain.\n\n(l) Antiqu. l. 10. c. 5. sect. 2.((m) De Bello Jud l. 3. c. 6. sect. 21. \n"
+  },
+  {
+   "entry_id": "john-gill.2KI.23.37",
+   "book": "2 Kings",
+   "book_osis": "2KI",
+   "chapter": 23,
+   "verse_range": "37+",
+   "commentary_text": "And he did that which was evil in the sight of the Lord, according to all that his fathers had done. Amon and Manasseh; see 2 Kings 23:32. \n"
+  }
+ ]
+}

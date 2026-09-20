@@ -1,0 +1,793 @@
+{
+ "meta": {
+  "id": "clement-of-alexandria",
+  "author": "Clement of Alexandria",
+  "license": "public-domain",
+  "schema_type": "church_fathers",
+  "source_url": "https://github.com/HistoricalChristianFaith/Commentaries-Database",
+  "book_scope": "Doar cele 18 carti Nevi'im folosite de Haftarot catalogate",
+  "download_date": "2026-09-19"
+ },
+ "by_book": {
+  "1Kgs": [
+   {
+    "entry_id": "clement-of-alexandria.1Kgs.8.27.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "1 Kings 8:27",
+     "osis": [
+      "1Kgs.8.27"
+     ]
+    },
+    "quote": "Solomon the son of David, in the books styled The Reigns of the Kings, comprehending not only that the structure of the true temple was celestial and spiritual but had also a reference to the flesh, which he who was both the son and the Lord of David was to build up, both for his own presence, where, as a living image, he resolved to make his shrine, and for the church that was to rise up through the union of faith, says expressly, \"Will God in very deed dwell with humans on the earth?\" He dwells on the earth clothed in flesh, and his abode with humans is effected by the conjunction and harmony that obtain among the righteous and that build … a new temple. For the righteous are the earth, being still encompassed with the earth; and earth, too, in comparison with the greatness of the Lord. Thus also the blessed Peter does not hesitate to say, \"You also, as living stones, are built up, a spiritual house, a holy temple, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.\" And with reference to the body, which by circumscription he consecrated as a hallowed place for himself on earth, he said, \"Destroy this temple, and in three days I will raise it up again.\" The Jews therefore said, \"In forty-six years was this temple built, and will you raise it up in three days?\" \"But he spoke of the temple of his body.\"",
+    "source_title": "Fragments Not Given in the Oxford Edition",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FFragments%2F12.-Fragments%2520Not%2520Given%2520in%2520the%2520Oxford%2520Edition.html"
+   }
+  ],
+  "1Sam": [
+   {
+    "entry_id": "clement-of-alexandria.1Sam.16.6-7.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "1 Samuel 16:6-7",
+     "osis": [
+      "1Sam.16.6"
+     ]
+    },
+    "quote": "They have gone beyond the limits of impropriety. They have invented mirrors to reflect all this artificial beautification of theirs, as if it were nobility of character or self-improvement. They should, rather, conceal such deception with a veil. It did the handsome Narcissus no good to gaze on his own image, as the Greek myth tells us. If Moses forbade his people to fashion any image to take the place of God, is it right for these women to study their reflected images for no other reason that to distort the natural features of their faces?In much the same way, when Samuel the prophet was sent to anoint one of the sons of Jesse as king, and when he brought out his chrism as soon as he saw the oldest son, admiring his handsomeness and height, Scripture tells us, \"The Lord said to him: 'Look not on his countenance, nor on the height of his stature, because I have rejected him. For man sees those things that appear, but the Lord beholds the heart.' \" He finally anointed not the one who was fair in body but the one who was fair of soul. If the Lord places more importance on beauty of soul than on that of the body, what must he think of artificial beautification when he abhors so thoroughly every sort of lie? \"We walk by faith, not by sight.\"",
+    "source_title": "The Instructor Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25203.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.1Sam.1.13-14.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "1 Samuel 1:13-14",
+     "osis": [
+      "1Sam.1.13"
+     ]
+    },
+    "quote": "Prayer is, then, to speak more boldly, converse with God. Though whispering, consequently, and not opening the lips, we speak in silence, yet we cry inwardly. For God hears continually all the inward converse. So also we raise the head and lift the hands to heaven, and set the feet in motion at the closing utterance of the prayer, following the eagerness of the spirit directed towards the intellectual essence; and endeavouring to abstract the body from the earth, along with the discourse, raising the soul aloft, winged with longing for better things, we compel it to advance to the region of holiness, magnanimously despising the chain of the flesh.",
+    "source_title": "The Stromata Book 7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25207.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.1Sam.8.13.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "1 Samuel 8:13",
+     "osis": [
+      "1Sam.8.13"
+     ]
+    },
+    "quote": "I must now … express my disapproval of the possession of too many slaves. People resort to servants to escape work and waiting on themselves.… The Word has given a complete description of these offenders when he promised through the prophet Samuel that the people who were demanding a king would have not a kind master but one who would be an unfeeling tyrant, given over to immorality, \"who will take,\" he said, \"your daughters to make him ointments and to be his cooks and bakers,\" who will rule by law of war and not be zealous for the administration of peace.",
+    "source_title": "The Instructor Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25203.html"
+   }
+  ],
+  "2Kgs": [
+   {
+    "entry_id": "clement-of-alexandria.2Kgs.25.26.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "2 Kings 25:26",
+     "osis": [
+      "2Kgs.25.26"
+     ]
+    },
+    "quote": "In the twelfth year of king Zedekiah, seventy years before the dominance of the Persians, Nebuchadnezzar campaigned against the Phoenicians and Jews, as Berossus says in his \"Researches on the Chaldeans.\" Juba, writing \"On the Assyrians,\" admits that he took his account from Berossus, testifying to its accuracy. Nebuchadnezzar blinded Zedekiah and removed him to Babylon, deporting the whole people except a few who escaped to Egypt. The captivity lasted for seventy years. Jeremiah and Habakkuk continued to prophesy under Zedekiah, and in the fifth year of his reign Ezekiel was prophesying in Babylon. After him came the prophet Nahum, then Daniel, and again after him, Haggai and Zechariah prophesied for two years under Darius I, and after him, one of the twelve, the Herald.",
+    "source_title": "The Stromata Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
+   }
+  ],
+  "2Sam": [
+   {
+    "entry_id": "clement-of-alexandria.2Sam.6.19.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "2 Samuel 6:19",
+     "osis": [
+      "2Sam.6.19"
+     ]
+    },
+    "quote": "So it is that he who of all philosophers so praised truth, Plato, gave new life to the dying ember of Hebrew philosophy by condemning a life spent in revelry. \"When I arrived,\" he said, \"what is here called a life of pleasure, filled with Italian and Syracusan meals, was very repulsive to me. It is a life in which one gorges oneself twice a day, sleeps not only during the night, and engages in all the pastimes that go with this sort of life. No one upon earth could ever become wise in this way, if from his youth he had followed such pursuits as these, nor would he ever attain in that way any reputation for an excellent physique.\" Surely, Plato was not unacquainted with David, who, when he was settling the holy ark in the middle of the tabernacle of his city, made a feast for all his obedient subjects and \"before the face of the Lord, distributed to all the multitude of Israel, both men and women, to everyone, a cake of bread and baked bread and pancakes from the frying pan.\" This food sufficed, this food of Israel; that of the Gentiles is extravagance.",
+    "source_title": "The Instructor Book 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25202.html"
+   }
+  ],
+  "Amos": [
+   {
+    "entry_id": "clement-of-alexandria.Amos.2.6.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Amos 2:6",
+     "osis": [
+      "Amos.2.6"
+     ]
+    },
+    "quote": "Many, truly, are the shoes of the sinful soul, by which it is bound and cramped. For each man is cramped by the cords of his own sins. Accordingly, Abraham swears to the king of Sodom, \"I will not take of all that is thine, from a thread to a shoe-latchet.\" On account of these being defiled and polluted on the earth, every kind of wrong and selfishness engrosses life. As the Lord reproves Israel by Amos, saying, \"For three iniquities of Israel, yea, for four, I will not turn him back; because they have given away the righteous for silver, and the needy for a pair of shoes, which tread upon the dust of the ground.\"",
+    "source_title": "Fragments Found in Greek Only in the Oxford Edition",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FFragments%2F11.-Fragments%2520Found%2520in%2520Greek%2520Only%2520in%2520the%2520Oxford%2520Edition.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Amos.4.11.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Amos 4:11",
+     "osis": [
+      "Amos.4.11"
+     ]
+    },
+    "quote": "See how God, through His love of goodness, seeks repentance; and by means of the plan He pursues of threatening silently, shows His own love for man. \"I will avert,\" He says, \"My face from them, and show what shall happen to them.\" For where the face of the Lord looks, there is peace and rejoicing; but where it is averted, there is the introduction of evil.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   }
+  ],
+  "Ezek": [
+   {
+    "entry_id": "clement-of-alexandria.Ezek.13.13.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Ezekiel 13:13",
+     "osis": [
+      "Ezek.13.13"
+     ]
+    },
+    "quote": "The words that follow describe and condemn some sin that has been committed. The judgment contained in these words is just, for it is as if he were giving notice in the words of the prophet that, if you had not sinned, he would not have made these threats.… The inspired Word exists because of both obedience and disobedience: that we may be saved by obeying it and educated because we have disobeyed.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Ezek.18.23.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Ezekiel 18:23",
+     "osis": [
+      "Ezek.18.23"
+     ]
+    },
+    "quote": "He takes delight in the conversion of sinners, for he desires the conversion that follows their sins. Surely, he himself is the only sinless one.",
+    "source_title": "The Instructor Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25203.html"
+   }
+  ],
+  "Hos": [
+   {
+    "entry_id": "clement-of-alexandria.Hos.6.6-7.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Hosea 6:6-7",
+     "osis": [
+      "Hos.6.6"
+     ]
+    },
+    "quote": "For to every one who has turned to God in truth and with a whole heart, the doors are open, and the thrice-glad Father receives his truly repentant child. And true repentance is to be no longer bound in the same sins for which he denounced death against himself, but to eradicate them completely from the soul. For on their uprooting God takes up his abode again in you. For it is said there is great and exceeding joy and festivity in the heavens with the Father and the angels when one sinner turns and repents. This is why he cries, \"I will have mercy, and not sacrifice.\"",
+    "source_title": "Who is the Rich Man that Shall Be Saved?",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FFragments%2FWho%2520is%2520the%2520Rich%2520Man%2520that%2520Shall%2520Be%2520Saved%253F.html"
+   }
+  ],
+  "Isa": [
+   {
+    "entry_id": "clement-of-alexandria.Isa.1.3.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 1:3",
+     "osis": [
+      "Isa.1.3"
+     ]
+    },
+    "quote": "For how shall we not regard it fearful, if one who knows God shall not recognize the Lord? While the ox and the donkey, stupid and foolish animals, will know one who feeds them, Israel is found to be more irrational than these? And having, by Jeremiah, complained against the people on many grounds, God adds, \"They have forsaken me, says the Lord.\"",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.1.4.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 1:4",
+     "osis": [
+      "Isa.1.4"
+     ]
+    },
+    "quote": "Correction is a public rebuke of sin. [God] uses it in a manner that is particularly necessary for our instruction because of the weak faith of so many. For example, he says through Isaiah, \"You have forsaken the Lord, you have provoked the holy one of Israel.\"",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.1.4.1",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 1:4",
+     "osis": [
+      "Isa.1.4"
+     ]
+    },
+    "quote": "Excoriation is the most vigorous expression of disapproval. God employed excoriation as a remedy when he said through Isaiah, \"Ah, sinful nation, a people full of sins, an evil seed, lawless children.\"",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.29.14.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 29:14",
+     "osis": [
+      "Isa.29.14"
+     ]
+    },
+    "quote": "It is of … those … who practice idle discourse that God's Scriptures say superbly: \"I will destroy the wisdom of the wise and bring to nothing the cleverness of the clever.\"",
+    "source_title": "The Stromata Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.29.15.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 29:15",
+     "osis": [
+      "Isa.29.15"
+     ]
+    },
+    "quote": "He forgets the words of the Educator: \"Every man that passes beyond his own bed, who says in his soul: Who sees me? Darkness compasses me about, and the walls cover me, and no man sees my sins: whom do I fear? The Most High will not remember.\" Such a person is most wretched, for he fears only the human observation and thinks to hide from God. \"He does not know,\" Scripture continues, \"that the eyes of the Most High Lord are far brighter than the sun, beholding all the ways of men and looking into the most hidden parts.\" Another time, the Educator gives warning through Isaiah: \"Woe to you who made your counsel in secret and say: Who sees us?\" A light that can be seen by the senses may pass unnoticed, but that which illumines the mind cannot be ignored.",
+    "source_title": "The Instructor Book 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25202.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.30.1.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 30:1",
+     "osis": [
+      "Isa.30.1"
+     ]
+    },
+    "quote": "Reprimand is disapproval expressed in correction or strongly worded blame. The Educator resorts to this method of training when he says through Isaiah, \"Woe to you, apostate children, says the Lord, that you would take counsel and not of me, and make treaties and not of my Spirit.\" He flavors each pronouncement in turn with the tart spice of fear to whet the appetite of his people for salvation and make them more aware of it, just as wool to be dyed is usually steeped first in an astringent to prepare it to preserve the dye.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.32.20.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 32:20",
+     "osis": [
+      "Isa.32.20"
+     ]
+    },
+    "quote": "The prophet says, \"Blessed is he that sows into all waters, whose ox and donkey tread,\" [that is] the people, from the law and from the Gentiles, gathered into one faith.",
+    "source_title": "The Stromata Book 6",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25206.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.40.11.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 40:11",
+     "osis": [
+      "Isa.40.11"
+     ]
+    },
+    "quote": "And that He also calls us lambs, the Spirit by the mouth of Isaiah is an unimpeachable witness: \"He will feed His flock like a shepherd, He will gather the lambs with His arm,\"—using the figurative appellation of lambs, which are still more tender than sheep, to express simplicity.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.42.10.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 42:10",
+     "osis": [
+      "Isa.42.10"
+     ]
+    },
+    "quote": "Well, in as much as the Word was from the first, He was and is the divine source of all things; but in as much as He has now assumed the name Christ, consecrated of old, and worthy of power, he has been called by me the New Song. This Word, then, the Christ, the cause of both our being at first (for He was in God) and of our well-being, this very Word has now appeared as man, He alone being both, both God and man-the Author of all blessings to us; by whom we, being taught to live well, are sent on our way to life eternal. This is the New Song, the manifestation of the Word that was in the beginning, and before the beginning. The Saviour, who existed before, has in recent days appeared.",
+    "source_title": "Exhortation to the Heathen",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FExhortation%2520to%2520the%2520Heathen.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.42.7.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 42:7",
+     "osis": [
+      "Isa.42.7"
+     ]
+    },
+    "quote": "\"The opened eyes of the blind\" means [Christ] provided clear knowledge of the Father through the Son.",
+    "source_title": "The Stromata Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.43.19-20.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 43:19-20",
+     "osis": [
+      "Isa.43.19"
+     ]
+    },
+    "quote": "The Word says, \"Look, I am doing something new, which no eye has seen, no ear heard, no human heart felt.\" These are to be seen, heard and grasped by a new eye, a new hearing and a new heart when the Lord's disciples speak, listen and act in the Spirit.",
+    "source_title": "The Stromata Book 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25202.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.43.2.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 43:2",
+     "osis": [
+      "Isa.43.2"
+     ]
+    },
+    "quote": "\"Even if we cross over, they shall not slip, says the Lord.\" We shall not slip into corruption, we who are crossing over into incorruption, because he himself will support us. For so he himself has said and so he has willed.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.43.26.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 43:26",
+     "osis": [
+      "Isa.43.26"
+     ]
+    },
+    "quote": "And it is ours to flee to God. And let us endeavor after this ceaselessly and energetically. For he says, \"Come to me, all who labor and are heavy laden, and I will give you rest.\" And prayer and confession with humility are voluntary acts. Therefore it is enjoined, \"First tell your sins, that you may be justified.\" What afterwards we shall obtain, and what we shall be, it is not for us to judge.",
+    "source_title": "Fragments Found in Greek Only in the Oxford Edition",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FFragments%2F11.-Fragments%2520Found%2520in%2520Greek%2520Only%2520in%2520the%2520Oxford%2520Edition.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.4.4.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 4:4",
+     "osis": [
+      "Isa.4.4"
+     ]
+    },
+    "quote": "The greatest cleansing is the spiritual washing that washes away the filth of the soul. The inspired word speaks of such a washing: \"The Lord shall wash away the filth of the sons and daughters of Israel and shall wash away the blood from their midst.\" This refers to the blood of immortality as well as the killing of the prophets. He means by this purification, seen from the added phrase, \"by the spirit of judgment and by the spirit of burning.\" The washing of the body, however, is physical and is accomplished only by water. In fact, it can even be done in fields far away from the baths.",
+    "source_title": "The Instructor Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25203.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.50.9.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 50:9",
+     "osis": [
+      "Isa.50.9"
+     ]
+    },
+    "quote": "There is a person who runs down birth, describing it as subject to decay and death, who forces things and suggests that the Savior was speaking about having children in saying that we should not store treasure on earth, where it grows rusty and moth-eaten. And [this person] is not ashamed to set alongside these the prophet's words: \"You shall all grow old like clothes, and the moth will feed on you.\" We do not contradict Scripture. Our bodies are subject to decay and are naturally unstable. Perhaps he might be prophesying decay to his audience because they were sinners. The Savior was not speaking about having children. He was encouraging sharing of resources in those who wanted only to amass vast amounts of wealth rather than offer help to those in need.",
+    "source_title": "The Stromata Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25203.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.53.2.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 53:2",
+     "osis": [
+      "Isa.53.2"
+     ]
+    },
+    "quote": "And that the Lord Himself was uncomely in aspect, the Spirit testifies by Esaias: \"And we saw Him, and He had no form nor comeliness but His form was mean, inferior to men.\" Yet who was more admirable than the Lord? But it was not the beauty of the flesh visible to the eye, but the true beauty of both soul and body, which He exhibited, which in the former is beneficence; in the latter-that is, the flesh-immortality.",
+    "source_title": "The Instructor Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25203.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.53.6.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 53:6",
+     "osis": [
+      "Isa.53.6"
+     ]
+    },
+    "quote": "Isaiah says [about Christ], \"The Lord has laid on him the iniquity of us all,\" that is, to correct our iniquities and set them right. For that reason, he alone is able to forgive our sins, he who has been appointed by the Father of all as our educator, for he alone is able to separate obedience from disobedience.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.58.7-8.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 58:7-8",
+     "osis": [
+      "Isa.58.7"
+     ]
+    },
+    "quote": "And we shall find many examples also in other places,-as, for instance, respecting prayer: \"Good works are an acceptable prayer to the Lord,\" says the Scripture. And the manner of prayer is described. \"If thou seest,\" it is said, \"the naked, cover him; and thou shalt not overlook those who belong to thy seed. Then shall thy light spring forth early, and thy healing shall spring up quickly; and thy righteousness shall go before thee, and the glory of God shall encompass thee.\" What, then, is the fruit of such prayer? \"Then shall thou call, and God will hear thee; whilst thou art yet speaking, He will say, I am here.\"",
+    "source_title": "The Instructor Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25203.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.66.1.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 66:1",
+     "osis": [
+      "Isa.66.1"
+     ]
+    },
+    "quote": "He has not even built a house for himself! He has nothing to do with space. Even if it is written that \"the heaven is his throne,\" he is not contained as the words suggest.",
+    "source_title": "The Stromata Book 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25202.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Isa.66.13.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Isaiah 66:13",
+     "osis": [
+      "Isa.66.13"
+     ]
+    },
+    "quote": "A mother draws her children near her; we seek our mother, the church. Whatever is weak and young has an appeal and sweetness and lovableness of its own, just because in its weakness it does stand in need of assistance. But God does not withhold assistance from such an age of life. Just as the male and female parent regard their young tenderly—whether it be horses their colts, or cows their calves, or lions their cubs, or deer their fawn or men and women their children—so, too, does the Father of all draw near to those who seek his aid, giving them a new birth and making them his own adopted children. He recognizes them as his little ones, he loves only them, and he comes to the aid of such as these and defends them. That is why he calls them his children.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   }
+  ],
+  "Jer": [
+   {
+    "entry_id": "clement-of-alexandria.Jer.13.1-2.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 13:1-2",
+     "osis": [
+      "Jer.13.1"
+     ]
+    },
+    "quote": "Furthermore, this Paul said strongly that \"the kingdom of God is not a matter of eating and drinking\"—or abstinence from wine or meat—\"but of righteousness, peace and joy in the Holy Spirit.\" Which of them goes around like Elijah wearing a sheepskin and a leather belt? Which of them wears no shoes and nothing but a piece of sackcloth like Isaiah? Or with nothing on but a linen loincloth, like Jeremiah?",
+    "source_title": "The Stromata Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25203.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.13.1-2.1",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 13:1-2",
+     "osis": [
+      "Jer.13.1"
+     ]
+    },
+    "quote": "The blessed John disdained sheep's wool because it savored of luxury; he preferred camel's hair and clothed himself in it, giving us an example of simple, frugal living. Incidentally, he also ate only honey and locusts, food that is sweet and with a spiritual significance. So it was that he prepared the way of the Lord and kept it humble and chaste. He fled from the false pretenses of the city and led a peaceful life in the desert with God, away from all vanity, boasting and servitude. How could he possibly have worn a purple mantle? Elijah used a sheepskin for his garment and girded it tight with a belt made of leather. Isaiah, another historic prophet, went \"naked and without sandals\" and often put on sackcloth as a garment of humility. If you protest and make mention of Jeremiah, he wore only a loincloth made of linen.",
+    "source_title": "The Instructor Book 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25202.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.20.12.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 20:12",
+     "osis": [
+      "Jer.20.12"
+     ]
+    },
+    "quote": "For God does not hold out against his children when they beg his pity. And for you he will pray purely, held in high honor as an angel of God, and grieved not by you but for you. This is sincere repentance. \"God is not mocked,\" nor does he give heed to vain words. For he alone searches the innermost recesses of the heart, and hears those that are in the fire, and listens to those who supplicate in the whale's belly and is near to all who believe, and far from the ungodly if they do not repent.",
+    "source_title": "Who is the Rich Man that Shall Be Saved?",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FFragments%2FWho%2520is%2520the%2520Rich%2520Man%2520that%2520Shall%2520Be%2520Saved%253F.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.22.29-30.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 22:29-30",
+     "osis": [
+      "Jer.22.29"
+     ]
+    },
+    "quote": "Someone who is in a state of ignorance is sinful and considered \"earth and ashes.\" Someone who is in a state of knowledge, being assimilated as far as possible to God, is already spiritual and thus is considered elect. Scripture calls the senseless and disobedient by the term \"dirt,\" which is clear from what Jeremiah the prophet says in reference to Joachim and his brothers: \"Earth, earth, hear the word of the Lord. Inscribe this man as an outcast.\"",
+    "source_title": "The Stromata Book 4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25204.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.23.23-24.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 23:23-24",
+     "osis": [
+      "Jer.23.23"
+     ]
+    },
+    "quote": "Jeremiah the prophet, gifted with consummate wisdom, or rather the Holy Spirit in Jeremiah, exhibits God. \"Am I a God at hand,\" he says, \"and not a God afar off? Shall a man do ought in secret, and I not see him? Do I not fill heaven and earth? Saith the Lord.\" For \"the Lord who created the earth by His power,\" as Jeremiah says, \"has raised up the world by His wisdom;\" for wisdom, which is His word, raises us up to the truth, who have fallen prostrate before idols, and is itself the first resurrection from our fall.",
+    "source_title": "Exhortation to the Heathen",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FExhortation%2520to%2520the%2520Heathen.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.23.24.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 23:24",
+     "osis": [
+      "Jer.23.24"
+     ]
+    },
+    "quote": "\"I have known all that is hidden and all that is open to view. I was a pupil of Wisdom, who formed them all.\" There, in brief, you have the profession of our philosophy. The process of learning about these, if practiced under good supervision, leads upward via Wisdom, who formed the whole universe, to the ruler of the universe, a being hard to catch, hard to track down, who always distances himself in retreat from his pursuer. But this same ruler, distant as he is, has—truth be told!—drawn near. \"I am God who is near at hand, declares the Lord.\" In his essential being he is distant—how could a creature subject to birth ever draw near to the unborn and the uncreated?—but very close by the exercise of that power that had enfolded all things in its embrace. It is written, \"Can anyone act in secret without my seeing him?\" Yes, the power of God is always present, touching us with a power that sees, is good and instructs.",
+    "source_title": "The Stromata Book 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25202.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.2.12.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:12",
+     "osis": [
+      "Jer.2.12"
+     ]
+    },
+    "quote": "Reproof is the bringing forward of sin, laying it before one. This form of instruction God employs as necessary in the highest degree by reason of the feebleness of the faith of many. For he says by Isaiah, \"You have forsaken the Lord and have provoked the holy One of Israel to anger.\" He says also by Jeremiah: \"Heaven was astonished at this, and the earth shuddered exceedingly. My people have committed two evils. They have forsaken me, the fountain of living waters, and have hewn out for themselves broken cisterns that will not be able to hold water.\"",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.2.27.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:27",
+     "osis": [
+      "Jer.2.27"
+     ]
+    },
+    "quote": "It is adultery, if you abandon the ecclesiastical and true knowledge and the opinion about God, and consent to false and incompatible opinion, either by deifying any created object or by making an idol of anything that does not exist, so as to overstep, or rather step away from, knowledge.… For this reason, the noble apostle calls one of the kinds of fornication, idolatry. In following the prophet says, \"My people have committed fornication with wood and stone. They have said to the wood, 'you are my father' and to the stone, 'you have begotten me.' \"",
+    "source_title": "The Stromata Book 6",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25206.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.31.31.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 31:31",
+     "osis": [
+      "Jer.31.31"
+     ]
+    },
+    "quote": "For we find in the Scriptures, as the Lord says, \"Behold, I make with you a new covenant, not as I made with your ancestors in Mount Horeb.\" He made a new covenant with us. For what belonged to the Greeks and Jews is old. But we, who worship him in a new way, in the third form, are Christians. For clearly, as I think, he showed that the one and only God was known by the Greeks in a Gentile way, by the Jews Judaically and in a new and spiritual way by us.",
+    "source_title": "The Stromata Book 6",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25206.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.31.34.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 31:34",
+     "osis": [
+      "Jer.31.34"
+     ]
+    },
+    "quote": "He hath changed sunset into sunrise, and through the cross brought death to life; and having wrenched man from destruction, He hath raised him to the skies, transplanting mortality into immortality, and translating earth to heaven-He, the husbandman of God, \"Pointing out the favourable signs and rousing the nations to good works, putting them in mind of the true sustenance;\" having bestowed on us the truly great, divine, and inalienable inheritance of the Father, deifying man by heavenly teaching, putting His laws into our minds, and writing them on our hearts. What laws does He inscribe? \"That all shall know God, from small to great;\" and, \"I will be merciful to them,\" says God, \"and will not remember their sins.\" Let us receive the laws of life, let us comply with God's expostulations; let us become acquainted with Him, that He may be gracious.",
+    "source_title": "Exhortation to the Heathen",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FExhortation%2520to%2520the%2520Heathen.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.3.3-4.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 3:3-4",
+     "osis": [
+      "Jer.3.3"
+     ]
+    },
+    "quote": "Accusation is censure of wrongdoers.… Of this help the divine Instructor made use by Jeremiah, saying, \"You have a prostitute's forehead. You were shameless toward all. You did not call me to the house, I who am your father, and Lord of your virginity.\" \"And a fair and graceful harlot skilled in enchanted potions.\" With consummate art, after applying to the virgin the disgraceful name of whoredom, he at once calls her back to an honorable life by filling her with shame.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.3.9.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 3:9",
+     "osis": [
+      "Jer.3.9"
+     ]
+    },
+    "quote": "Let us now proceed to consider the mode of his loving discipline, with the aid of the prophetic testimony. Admonition, then, is loving care's censure and produces understanding. Such is Christ the Educator in his admonitions, as when he says in the Gospel, \"How often would I have gathered your children, as a bird gathers her young ones under her wings, and you did not allow it!\" And again, the Scripture admonishes, saying, \"And they committed adultery with wood and stone and burned incense to Baal.\" For it is a very great proof of his love, that, though knowing well the shamelessness of the people who had kicked and bounded away, he notwithstanding exhorts them to repentance and says by Ezekiel, \"Son of man, you live in the midst of scorpions; nevertheless, speak to them, if perhaps they will hear.\"",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.3.9.1",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 3:9",
+     "osis": [
+      "Jer.3.9"
+     ]
+    },
+    "quote": "Admonition, then, is loving care's censure and produces understanding. Such is Christ the Educator in his admonitions, as when he says in the Gospel, \"How often would I have gathered your children, as a bird gathers her young ones under her wings, and you would not!\" And again, the Scripture admonishes, saying, \"And they committed adultery with stock and stone and burned incense to Baal.\" For it is a very great proof of God's love that, though knowing well the shamelessness of the people who had kicked and bounded away, he nevertheless exhorts them to repentance. He says by Ezekiel, \"Son of man, you dwell in the midst of scorpions. Nevertheless, speak to them, if by chance they will hear.\" Further, to Moses he says, \"Go and tell Pharaoh to send my people forth, but I know that he will not send them forth.\"",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.4.30.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 4:30",
+     "osis": [
+      "Jer.4.30"
+     ]
+    },
+    "quote": "And if Plutus is blind, are not those women who are crazy about him and have an attraction with him blind too? Having, then, no limit to their lust, they push on to shamelessness. For the theater, and pageants, and many spectators, and strolling in the temples and loitering in the streets, that they may be seen conspicuously by all, are necessary to them. For those who glory in their looks, not in heart, dress to please others. For as the brand shows the slave, so do gaudy colors the adulteress. \"For though you clothe yourself in scarlet, and deck yourself with ornaments of gold and anoint your eyes with paint, in vain is your beauty,\" says the Word by Jeremiah. Is it not monstrous that while horses, birds and the rest of the animals spring and bound from the grass and meadows, rejoicing in ornament that is their own, in mane and natural color and varied plumage, woman, as if inferior to the brute creation, should think herself so unlovely as to need foreign, bought and painted beauty?",
+    "source_title": "The Instructor Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25203.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.5.11-12.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:11-12",
+     "osis": [
+      "Jer.5.11"
+     ]
+    },
+    "quote": "Accusation is the censure of wrongdoers. This mode of instruction God employs by David, when he says, \"The people whom I did not know served me, and when their ears heard they obeyed me. Sons of strangers came to me, and halted from their ways.\" And by Jeremiah: \"And I gave her a divorce decree, but covenant-breaking Judah did not fear.\" And again: \"And the house of Israel disregarded me. The house of Judah lied to the Lord.\"",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.5.8.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:8",
+     "osis": [
+      "Jer.5.8"
+     ]
+    },
+    "quote": "At another time, he speaks of us under the figure of a colt. He means by that that we are unyoked to evil, unsubdued by wickedness, unaffected and high-spirited only with him our Father. We are colts, not stallions \"who whinny lustfully for their neighbor's wife,\" beasts of burden unrestrained in their lust. Rather, we are free and newly born, joyous in our faith, and hold fast to the course of truth. We are swift in seeking salvation, and we spurn and trample on worldliness.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.5.8.1",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:8",
+     "osis": [
+      "Jer.5.8"
+     ]
+    },
+    "quote": "If birth is an evil, then the blasphemers must place the Lord who went through birth and the virgin who gave him birth in the category of evil. Abominable people! In attacking birth they are maligning the will of God and the mystery of creation. This is the basis of Cassian's docetism, Marcion's too, yes, and Valentinus's \"semi-spiritual body.\" It leads them to say, \"Humanity became like cattle in coming to sexual intercourse.\" But it is when a man, swollen with lust, really and truly wants to go to bed with a woman not his own, that that sort of man actually becomes a wild beast. \"They turned into stallions crazed for mares; each was whinnying for his neighbor's wife.\"",
+    "source_title": "The Stromata Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25203.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.5.8.2",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 5:8",
+     "osis": [
+      "Jer.5.8"
+     ]
+    },
+    "quote": "Rebuking censures what is base and highlights what is noble. This is shown by Jeremiah: \"They were horses mad for females. Each one neighed for his neighbor's wife. Shall I not visit them for these things? says the Lord. Should not I avenge my soul against such a nation as this?\" He everywhere interweaves fear, because \"the fear of the Lord is the beginning of reason.\"",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.6.16.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 6:16",
+     "osis": [
+      "Jer.6.16"
+     ]
+    },
+    "quote": "Since the soul became too enfeebled for the apprehension of realities, we needed a divine teacher. The Savior is sent down—a teacher and leader in the acquisition of the good, as the secret and sacred token of the great Providence. \"Where, then, is the scribe? Where is the searcher of this world? Has not God made foolish the wisdom of this world?\" it is said. And again, \"I will destroy the wisdom of the wise, and bring to nothing the understanding of the prudent,\" speaks plainly of those who are wise in their own eyes and contentious. Excellently, therefore, Jeremiah says, \"Thus says the Lord, 'Stand in the ways, and ask for the eternal paths, what is the good way, and walk in it, and you shall find expiation for your souls.' \"",
+    "source_title": "The Stromata Book 5",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25205.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.6.16.1",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 6:16",
+     "osis": [
+      "Jer.6.16"
+     ]
+    },
+    "quote": "And through Jeremiah, he provides further enlightenment in the truth for those who have erred: \"Thus says the Lord, stand in the roads, and look. Ask for the eternal paths of the Lord. Look for the good path, and walk in it, and you shall find purification for your souls.\" He leads us to repentance in order to promote our salvation.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.6.9.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 6:9",
+     "osis": [
+      "Jer.6.9"
+     ]
+    },
+    "quote": "God invites us to knowledge also, when he says by Jeremiah, \"If you had walked in the way of God, you would have dwelled forever in peace.\" … God grants pardon to those who have erred. He says, \"Turn, turn, as a grape gatherer returns to his basket.\" Do you see the goodness of justice in that it advises us to repent?",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.8.22.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 8:22",
+     "osis": [
+      "Jer.8.22"
+     ]
+    },
+    "quote": "Let no one, then, run down the law, as if, on account of the penalty, it were not beautiful and good. Shouldn't he who drives away bodily disease appear as a benefactor? Shouldn't he who attempts to deliver the soul from iniquity even more appear as a friend since the soul is a more precious thing than the body? Besides, for the sake of bodily health we submit to incisions, cauterization and medicinal draughts. He who administers them is called savior and healer. He is called this even though he amputates parts, but he works not from a grudge or ill will toward the patient. He instead acts according to the principles that the art prescribes so that the sound parts may not perish along with them. No one accuses the physician's art of wickedness. In the same way, shouldn't we submit, for the soul's sake, to either banishment, or punishment or bonds, as long as from unrighteousness we shall obtain righteousness?",
+    "source_title": "The Stromata Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
+   },
+   {
+    "entry_id": "clement-of-alexandria.Jer.9.23-24.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Jeremiah 9:23-24",
+     "osis": [
+      "Jer.9.23"
+     ]
+    },
+    "quote": "What is the philosophy that the apostle bids us shun? This, then, \"the wisdom of the world is foolishness with God.\" \"The Lord knows the thoughts of the wise, that they are vain.\" Let no one therefore glory on account of pre-eminence in human thought. For it is written well in Jeremiah, \"Let not the wise person glory in his wisdom, and let not the mighty person glory in his might, and let not the rich person glory in his riches. But let him that glories glory in this, that he understands and knows that I am the Lord, that executes mercy and judgment and righteousness on the earth: for in these things is my delight, say the Lord.\"",
+    "source_title": "The Stromata Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
+   }
+  ],
+  "Joel": [
+   {
+    "entry_id": "clement-of-alexandria.Joel.2.10.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Joel 2:10",
+     "osis": [
+      "Joel.2.10"
+     ]
+    },
+    "quote": "What, then, is the vanity, and what the lie? The holy apostle of the Lord, reprehending the Greeks, will show thee: \"Because that, when they knew God, they glorified Him not as God, neither were thankful; but became vain in their imaginations, and changed the glory of God into the likeness of corruptible man, and worshipped and served the creature more than the Creator.\" And verily this is the God who \"in the beginning made the heaven and the earth.\" But you do not know God, and worship the heaven, and how shall you escape the guilt of impiety? Hear again the prophet speaking: \"The sun, shall suffer eclipse, and the heaven be darkened; but the Almighty shall shine for ever: while the powers of the heavens shall be shaken, and the heavens stretched out and drawn together shall be rolled as a parchment-skin (for these are the prophetic expressions), and the earth shall flee away from before the face of the Lord.\"",
+    "source_title": "Exhortation to the Heathen",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FExhortation%2520to%2520the%2520Heathen.html"
+   }
+  ],
+  "Josh": [
+   {
+    "entry_id": "clement-of-alexandria.Josh.1.5.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Joshua 1:5",
+     "osis": [
+      "Josh.1.5"
+     ]
+    },
+    "quote": "We must join in disciplining ourselves to beware of all that is subject to the passions. We must, like true philosophers, escape from any foods that arouse sexual desire, from a dissolute relaxation in bed, from luxury and all the passions that make for luxury. We realize that others find this a grievous struggle. It is no longer so for us, since self-discipline is God's greatest gift. \"He has said, 'I will never forsake you or abandon you,' \" who has judged you worthy by a decision that is wholly genuine. In this way, as we carefully strive to go to him, the Lord's \"easy yoke\" will receive us.",
+    "source_title": "The Stromata Book 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25202.html"
+   }
+  ],
+  "Mic": [
+   {
+    "entry_id": "clement-of-alexandria.Mic.6.6-7.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Micah 6:6-7",
+     "osis": [
+      "Mic.6.6"
+     ]
+    },
+    "quote": "Is everyone who is turning from sin to faith, turning from sinful practices (as if they were his mother) to life? I shall call in evidence one of the twelve prophets, who says, \"Am I to make an offering of my firstborn son for my impiety? Should I offer the fruit of my womb for the sin of my soul?\" Can the mother buy her way to God by giving up her firstborn? This must not be taken as an attack on the words \"increase in numbers.\" Micah is naming, by using the word impiety, the first impulses after birth, which do not help us to knowledge of God. If anyone misuses this as a basis for saying that that birth is evil, he should also use it as a basis for saying that it is good, in that in it we come to know the truth. \"Come back to a sober and upright life and stop sinning.\" But the sinner knows nothing of God. \"We are not wrestling against flesh and blood but against spiritual beings, potent in temptation, the rulers of this dark world,\" so there is forbearance. This is why Paul says, \"I bruise my own body and treat it as a slave, because every athlete goes into total training.\" By \"total training\" we understand not that he abstains from absolutely everything but that he shows self-control in those things he has taken a deliberate decision to use. \"They do it to win a crown which dies, we for one which never dies,\" if we win the contest. No effort, no crown!",
+    "source_title": "The Stromata Book 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25203.html"
+   }
+  ],
+  "Zech": [
+   {
+    "entry_id": "clement-of-alexandria.Zech.9.9.0",
+    "author": "Clement of Alexandria",
+    "anchor_ref": {
+     "raw": "Zechariah 9:9",
+     "osis": [
+      "Zech.9.9"
+     ]
+    },
+    "quote": "At another time, he speaks of us under the figure of a colt. He means by [the colt] that we are unyoked to evil, unsubdued by wickedness, unaffected, high-spirited only with him our Father. We are colts, not stallions, \"who whinny lustfully for their neighbor's wife, beasts of burden unrestrained in their lust.\" Rather, we are free and newly born, joyous in our faith, holding fast to the course of truth, swift in seeking salvation, spurning and trampling upon worldliness. \"Rejoice greatly, O daughter of Zion. Shout for joy, O daughter of Jerusalem. Behold, your king comes to you, the just and the Savior, and he is poor and riding upon an ass and upon a young colt.\" He is not satisfied to say \"colt\"; he adds \"young\" to emphasize humankind's rejuvenation in Christ and its unending, eternal youth and simplicity. Our divine Tamer trains such young colts as we little ones. Although the passage speaks of a young ass, it too is a colt.",
+    "source_title": "The Instructor Book 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
+   }
+  ]
+ }
+}

@@ -1,0 +1,1387 @@
+{
+ "meta": {
+  "id": "tertullian",
+  "author": "Tertullian",
+  "license": "public-domain",
+  "schema_type": "church_fathers",
+  "source_url": "https://github.com/HistoricalChristianFaith/Commentaries-Database",
+  "book_scope": "Doar cele 18 carti Nevi'im folosite de Haftarot catalogate",
+  "download_date": "2026-09-19"
+ },
+ "by_book": {
+  "1Kgs": [
+   {
+    "entry_id": "tertullian.1Kgs.13.19.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Kings 13:19",
+     "osis": [
+      "1Kgs.13.19"
+     ]
+    },
+    "quote": "For even if God does prefer the works of righteousness, still, these works are not without sacrifice, which represents a soul afflicted with fasts. He, at all events, is the God to whom neither a people incontinent of appetite nor a priest nor a prophet was pleasing. To this day the \"monuments of concupiscence\" remain, where the people, greedy of \"flesh\"—until, by devouring without digesting the quails, they brought on cholera—were buried. Eli breaks his neck before the temple doors, his sons fall in battle, his daughter-in-law expires in childbirth. For such was the blow that had been deserved at the hand of God by the shameless house, the defrauder of the fleshy sacrifices. Sameas, a man of God, after prophesying the issue of the idolatry introduced by king Jeroboam (the drying up and immediate restoration of that king's hand; after the rending in two of the sacrificial altar), being on account of these signs invited [home] by the king by way of reward, plainly declined [for he had been prohibited by God] to touch food at all in that place. However, having presently afterwards rashly taken food from another old man who deceitfully professed himself a prophet, he was deprived of burial in his fathers' sepulchers, in accordance with the word of God then and there uttered over the table. For he was felled by the rushing of a lion on him along the way and was buried among strangers; and thus he paid the penalty of his breach of fast. These will be warnings both to people and to bishops, even spiritual ones, in case they may ever have been guilty of not controlling their appetite.",
+    "source_title": "ON FASTING 16",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Fasting.html"
+   }
+  ],
+  "1Sam": [
+   {
+    "entry_id": "tertullian.1Sam.10.11.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 10:11",
+     "osis": [
+      "1Sam.10.11"
+     ]
+    },
+    "quote": "It is possible for an evil spirit to influence a person. The spirit of God later turned Saul into another man, that is, into a prophet, when people said, \"What is this that has happened to the son of Kish? Is Saul also among the prophets?\" But the evil spirit also turned him into another man, in other words, into a renegade. For some time Judas was numbered among the chosen [apostles], even becoming the keeper of the purse. He was then not yet a traitor, but he was dishonest. Later, the devil entered into his soul.Therefore, if neither the spirit of God nor the devil enters into the soul of man at the birth of the soul, then the soul must exist separately before the accession of either spirit. If it exists alone, then it is simple and uncompounded in substance and it breathes simply as a result of the substance which it received from God.",
+    "source_title": "ON THE SOUL 11.5-6",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.13.14.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 13:14",
+     "osis": [
+      "1Sam.13.14"
+     ]
+    },
+    "quote": "And is it surprising that a person previously of good repute should afterwards fall? Saul, though good beyond all others, was afterwards overthrown by jealousy. David, a good man after the Lord's heart, was afterwards guilty of murder and adultery. Solomon, whom the Lord had endowed with all grace and wisdom, was led by women into idolatry. To remain without sin was reserved for the Son of God alone. If then a bishop or deacon, a widow, a virgin or a teacher, or even a martyr, has lapsed from the Rule of Faith, must we conclude that heresy possesses the truth? Do we test the faith by persons or person by the faith? No one is wise, no one is faithful, no one worthy of honor unless he is a Christian, and no one is a Christian unless he perseveres to the end.",
+    "source_title": "PRESCRIPTIONS AGAINST HERETICS 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.14.24-26.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 14:24-26",
+     "osis": [
+      "1Sam.14.24"
+     ]
+    },
+    "quote": "At all events, Saul himself, when engaged in battle, clearly enjoined this duty: \"Cursed (be) the man who shall have eaten bread until evening, until I am avenged against my enemy\"; and his whole company did not taste (food), and (yet) the whole earth was breakfasting! So solemn a sanction, moreover, did God confer on the edict which enjoined that station, that Jonathan the son of Saul, although it had been in ignorance of the fast having been appointed till a late hour that he had allowed himself a taste of honey, was both presently convicted, by lot … and with difficulty was exempted from punishment through the prayer of the people: for he had been convicted of gluttony, although of a simple kind.",
+    "source_title": "ON FASTING 10",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Fasting.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.15.11.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 15:11",
+     "osis": [
+      "1Sam.15.11"
+     ]
+    },
+    "quote": "Furthermore, with respect to the repentance which occurs in his conduct you interpret it with similar perverseness just as if it were with fickleness and improvidence that he repented, or on the recollection of some wrongdoing; because he actually said, \"I repent that I have set up Saul to be king,\" very much as if he meant that his repentance savored of an acknowledgment of some evil work or error. Well, this is not always implied. For there occurs even in good works a confession of repentance, as a reproach and condemnation of the man who has proved himself unthankful for a benefit. For instance, in this one case of Saul, the Creator, who had made no mistake in selecting him for the kingdom and endowing him with his Holy Spirit, makes a statement respecting the goodness of his person, how that he had most fitly chosen him as being at that moment the choicest man, so that (as he says) there was not one like him among the children of Israel. Neither was he ignorant how he would afterwards turn out. For no one would bear you out in imputing lack of foresight to that God whom, since you do not deny him to be divine, you allow to be also foreseeing; for this proper attribute of divinity exists in him. However, he did, as I have said, burden the guilt of Saul with the confession of his own repentance; but as there is an absence of all error and wrong in his choice of Saul, it follows that this repentance is to be understood as upbraiding another rather than as self-incriminating.",
+    "source_title": "AGAINST MARCION 2.24",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25202.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.16.14-15.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 16:14-15",
+     "osis": [
+      "1Sam.16.14"
+     ]
+    },
+    "quote": "The devil has power that might be called his own, only over such as no longer belong to God, the heathen whom he considers once for all as a drop in a bucket, as dust on the threshing floor, as spittle in the mouth—and, as such, totally handed over to the devil as a quite useless possession.Otherwise, he may do nothing by his own right, against those who dwell in the house of God, because the cases that are noted in Scripture show us when—that is, for what reasons—he may touch them. The right to tempt a person is granted to the devil, either for the sake of a trial, as in the texts cited above, whether God or the devil initiates the plan, or for the purpose of the reprobation of a sinner, who is handed over to the devil as to an executioner. This was the case with Saul. \"The spirit of the Lord departed from Saul, and an evil spirit from the Lord troubled and stifled him.\" Again, it may happen in order to humble a person, as Paul tells us that there was given him a thorn, a messenger of Satan, to buffet him, and even this sort of thing is not permitted for the humiliation of holy ones through torment of the flesh, unless it be done so that their power to resist may be perfected in weakness.",
+    "source_title": "ON FLIGHT IN TIME OF PERSECUTION 2.6-7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Flight%2520in%2520Persecution.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.16.6-7.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 16:6-7",
+     "osis": [
+      "1Sam.16.6"
+     ]
+    },
+    "quote": "You are human, and so you know other people only from the outside. You think as you see, and you see only what your eyes let you see. But \"the eyes of the Lord are lofty.\" \"Man looks on the outward appearance, God looks on the heart.\" So \"the Lord knows them that are his\" and roots up the plant which he has not planted. He shows the last to be first, he carries a fan in his hand to purge his floor. Let the chaff of light faith fly away as it pleases before every wind of temptation. So much the purer is the heap of wheat which the Lord will gather into his garner.",
+    "source_title": "PRESCRIPTIONS AGAINST HERETICS 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.18.8.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 18:8",
+     "osis": [
+      "1Sam.18.8"
+     ]
+    },
+    "quote": "It is usual, indeed, with persons of a weaker character, to be so built up in confidence by certain individuals who are caught by heresy, as to topple over into ruin themselves. How does it come to pass, they ask, that this woman or that man, who were the most faithful, the most prudent and the most approved in the church, have gone over to the other side? Who that asks such a question does not in fact reply to it himself, to the effect that men whom heresies have been able to pervert ought never to have been esteemed prudent or faithful or approved? This again, I suppose, is an extraordinary thing, that one who has been approved should afterwards fall back? Saul, who was good beyond all others, is afterwards subverted by envy. David, a good man \"after the Lord's own heart.\" is guilty afterwards of murder and adultery. Solomon, endowed by the Lord with all grace and wisdom, is led into idolatry by women. For to the Son of God alone was it reserved to persevere to the last without sin.",
+    "source_title": "PRESCRIPTIONS AGAINST HERETICS 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.1.7-8.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 1:7-8",
+     "osis": [
+      "1Sam.1.7"
+     ]
+    },
+    "quote": "Thus a Godward fast is a work of reverential awe. By its means also Hannah the wife of Elkanah making suit, barren as she had been beforetime, easily obtained from God the filling of her belly, empty of food, with a son, indeed, and a prophet.",
+    "source_title": "ON FASTING 7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Fasting.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.21.3-6.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 21:3-6",
+     "osis": [
+      "1Sam.21.3"
+     ]
+    },
+    "quote": "When the disciples had been hungry on the sabbath and had plucked some ears [of grain] and rubbed them in their hands, they violated the holy day by so preparing their food. Yet Christ excuses them and even became their accomplice in breaking the sabbath. … For from the Creator's Scripture and from the purpose of Christ there is derived a vivid precedent from David's example when he went into the temple on the sabbath and provided food by boldly breaking up the show bread. Even he remembered that this privilege (the dispensation from fasting) was allowed on the sabbath from the very beginning, from when the sabbath itself was instituted. For although the Creator had forbidden that the manna should be gathered for two days, he permitted it on only one occasion—the day before the sabbath—so that the previous day's provision of food might free them from fasting on the following sabbath. Therefore the Lord had good reason for pursuing the same principle in the \"annulling\" of the sabbath (since that is the word which people will use). He had good reason, too, for expressing the Creator's will, when he bestowed the privilege of not fasting on the sabbath. In short, might he have—right then and there—put an end not only to the sabbath but to the Creator himself if he had commanded his disciples to fast on the sabbath, as this would have been contrary to the intention of the Scripture and of the Creator's will. But is he alien from the Creator because he did not directly defend his disciples but excuses them? Or because he interposes human need, as if deprecating censure? Or because he maintains the honor of the sabbath as a day which is to be free from gloom rather than from work? Or because he puts David and his companions on a level with his own disciples in their fault and their validation? Or because he is pleased to endorse the Creator's indulgence? Or because he is himself good according to his example—is he therefore alien from the Creator?",
+    "source_title": "AGAINST MARCION 4.12",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.28.14.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 28:14",
+     "osis": [
+      "1Sam.28.14"
+     ]
+    },
+    "quote": "Why, even now the followers of Simon [Magus] are so confident of their art that they undertake to bring back the souls of the prophets from hell. And this, I believe, because their power lies in their ability to deceive. This power was actually granted to the witch of Endor, who brought back the soul of Samuel after Saul had consulted God in vain. Apart from that case, God forbid we should believe that any soul, much less a prophet, could be called forth by a demon. We are told that \"Satan himself is transformed into an angel of light\"—and more easily into a man of light—and that at the end he will work marvelous signs and show himself as God, so much so that, \"if possible, he will deceive even the elect.\" He hardly hesitated to declare to Saul that he was the prophet [Samuel] in whom the devil was then dwelling.So, you must not think that the spirit which created the apparition was different from the one who made Saul believe in it; but, the same spirit was in the witch of Endor and in the apostate [Saul], and so it was easy for him to suggest the lie that he had already made Saul believe. Saul's treasure, indeed, was then where his heart was, where God most certainly was not. Thus, he saw only the devil, through whom he believed he would see Samuel, for he believed in the spirit who showed him the apparition.",
+    "source_title": "ON THE SOUL 57.7-9",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
+   },
+   {
+    "entry_id": "tertullian.1Sam.2.6.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "1 Samuel 2:6",
+     "osis": [
+      "1Sam.2.6"
+     ]
+    },
+    "quote": "Certainly his making alive is to take place after he has killed. As, therefore, it is by death that he kills, it is by the resurrection that he will make alive. Now it is the flesh which is killed by death; the flesh, therefore, will be revived by the resurrection. Surely if killing means taking away life from the flesh, and its opposite, reviving, amounts to restoring life to the flesh, it must needs be that the flesh rise again, to which the life, which has been taken away by killing, has to be restored by vivification.",
+    "source_title": "ON THE RESURRECTION OF THE FLESH 28",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
+   }
+  ],
+  "2Kgs": [
+   {
+    "entry_id": "tertullian.2Kgs.6.6-7.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "2 Kings 6:6-7",
+     "osis": [
+      "2Kgs.6.6"
+     ]
+    },
+    "quote": "And accordingly Elisha, having taken \"wood\" and cast it into that place where the iron had been submerged, forthwith it rose and swam on the surface, and the \"wood\" sank, which the sons of the prophets recovered. Thus they understood that the spirit of Elijah was presently conferred on him. What is more manifest than the mystery of this wood: that the obduracy of this world had been sunk in the profundity of error and is freed in baptism by the wood of Christ, that is, of his passion, in order that what had formerly perished through the tree in Adam should be restored through the tree in Christ?",
+    "source_title": "AN ANSWER TO THE JEWS 13",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
+   }
+  ],
+  "2Sam": [
+   {
+    "entry_id": "tertullian.2Sam.22.44-45.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "2 Samuel 22:44-45",
+     "osis": [
+      "2Sam.22.44"
+     ]
+    },
+    "quote": "Therefore as we have shown above that the coming cessation of the old law and of the carnal circumcision was declared, so, too, the observance of the new law and the spiritual circumcision has shone out into the voluntary obediences of peace. For \"a people,\" he says, \"whom I did not know has served me; in obedience of the ear it has obeyed me.\" Prophets made the announcement. But what is the people which was ignorant of God, but ours, who in days bygone did not know God? And who, in the hearing of the ear, paid attention to him, but we, who, forsaking idols, have been converted to God?",
+    "source_title": "AN ANSWER TO THE JEWS 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
+   },
+   {
+    "entry_id": "tertullian.2Sam.5.8.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "2 Samuel 5:8",
+     "osis": [
+      "2Sam.5.8"
+     ]
+    },
+    "quote": "For (here is one of Marcion's antitheses): whereas David long ago, in the capture of Zion, was offended by the blind who opposed his admission (into the stronghold). In this respect (I should rather say) that they were a type of people equally blind, who in later times would not admit Christ to be the son of David. So, on the contrary, Christ helped the blind man to show, by this act, that he was not David's son and how different in disposition he was, by being kind to the blind while David ordered them to be slain. If all this were so, why did Marcion allege that the blind man's faith was of such a worthless type? The fact is, the Son of David acted so that the antithesis must lose its point by its own absurdity. Those persons who offended David were blind, and the man who now presents himself as a beggar to David's son is afflicted with the same infirmity. Therefore the Son of David was appeased with some sort of satisfaction by the blind man when he restored him to sight, and added his approval of the faith which had led him to believe the very truth that he must gain the Son of David's help by earnest entreaty. But, after all, I suspect that it was the audacity (of the old Jebusites) which offended David, and not their malady.",
+    "source_title": "AGAINST MARCION 4.36",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.2Sam.7.12-13.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "2 Samuel 7:12-13",
+     "osis": [
+      "2Sam.7.12"
+     ]
+    },
+    "quote": "That new dispensation, then, which is found in Christ now, will prove to be what the Creator then promised under the appellation of \"the sure mercies of David,\" which were Christ's, inasmuch as Christ sprang from David, or rather his very flesh itself was David's \"sure mercies,\" consecrated by religion, and \"sure\" after its resurrection. Accordingly the prophet Nathan, in the first [book] of Kings [Samuel], makes a promise to David for his seed, \"which shall proceed,\" he says, \"from your own body.\" Now, if you explain this simply of Solomon, you will send me into a fit of laughter. For David will evidently have brought forth Solomon! But is not Christ here designated the seed of David, as of that womb which was derived from David, that is, Mary's? Now, because Christ rather than any other was to build the temple of God, that is to say, a holy manhood, wherein God's Spirit might dwell as in a better temple, Christ rather than David's son Solomon was to be looked for as the Son of God. Then, again, the throne forever with the kingdom forever is more suited to Christ than to Solomon, a mere temporal king.",
+    "source_title": "AGAINST MARCION 3.20",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
+   }
+  ],
+  "Amos": [
+   {
+    "entry_id": "tertullian.Amos.2.6.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Amos 2:6",
+     "osis": [
+      "Amos.2.6"
+     ]
+    },
+    "quote": "He might also have been betrayed by any stranger, did I not find that even here too he fulfilled a psalm: \"He who did eat bread with me has lifted up his heel against me.\" And without a price might he have been betrayed. For what need of a traitor was there in the case of one who offered himself to the people openly and might quite as easily have been captured by force as taken by treachery? This might, no doubt, have been well enough for another Christ but would not have been suitable in one who was accomplishing prophecies. For it was written, \"The righteous one did they sell for silver.\" The very amount and the destination of the money, which on Judas's remorse was recalled \"from its first purpose of a fee\" and appropriated to the purchase of a potter's field, as narrated in the Gospel of Matthew, were clearly foretold by Jeremiah: \"And they took the thirty pieces of silver, the price of him who was valued, and gave them for the potter's field.\"",
+    "source_title": "AGAINST MARCION 4.",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Amos.5.10.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Amos 5:10",
+     "osis": [
+      "Amos.5.10"
+     ]
+    },
+    "quote": "They take the two sons as types of two peoples, the elder Jewish, the younger Christian.… But if I show that the Jew does not fit the type represented by the elder son, it will be admitted, in consequence, that the Christian is not typified by the younger. Admittedly, the Jew is called a \"son\" and an \"elder son\" since he is first by adoption, and although he resents the Christian's reconciliation with God his Father (this is a point which our opponents seize upon most eagerly), yet the statement \"Behold, how many years I serve you and I have never transgressed your commandment\" cannot be one which the Jew makes to the Father. For when was Judah not a transgressor of the law? \"Hearing with the ear and not hearing, holding in hate him who reproves at the gates and scorning holy speech.\"",
+    "source_title": "ON PURITY 8",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
+   },
+   {
+    "entry_id": "tertullian.Amos.6.1.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Amos 6:1",
+     "osis": [
+      "Amos.6.1"
+     ]
+    },
+    "quote": "Jesus' miracle was performed in the district of Samaria, to which country also belonged one of the lepers. Samaria, however, had revolted from Israel, carrying with it the disaffected nine tribes, which having been alienated by the prophet Ahijah, Jeroboam settled in Samaria. Besides, the Samaritans were always pleased with the mountains and the wells of their ancestors. Thus, in the Gospel of John, the woman of Samaria, when conversing with the Lord at the well, says, \"No doubt yours are greater,\" and again, \"Our fathers worshiped in this mountain, but you say that Jerusalem is the place where men ought to worship.\" Accordingly, he who said \"woe unto them that trust in the mountain of Samaria,\" promising now to restore that very region, purposely requests the men \"to go and show themselves to the priests,\" because these were to be found only there where the temple was, submitting the Samaritan to the Jew, inasmuch as \"salvation was of the Jews,\" whether to the Israelite or the Samaritan.",
+    "source_title": "AGAINST MARCION 4.35",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Amos.9.6.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Amos 9:6",
+     "osis": [
+      "Amos.9.6"
+     ]
+    },
+    "quote": "The heavenly intelligences gazed with admiration on \"the Jerusalem that is above,\" and by the mouth of Isaiah said long ago, \"Who are these that fly as clouds, and as doves with their young ones, unto me?\" Now, as Christ has prepared for us this ascension into heaven, he must be the Christ of whom Amos spoke: \"It is he who builds his ascent up to the heavens,\" even for himself and his people.",
+    "source_title": "AGAINST MARCION 5.15",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
+   }
+  ],
+  "Ezek": [
+   {
+    "entry_id": "tertullian.Ezek.18.21.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Ezekiel 18:21",
+     "osis": [
+      "Ezek.18.21"
+     ]
+    },
+    "quote": "Repentance, then, means life, since it is preferred to death. You must, as a sinner like myself—yes, and a lesser one than I, for I recognize my eminence in evil—lay hold on it and grip it fast, as one who is shipwrecked holds to a plank of salvation. It will buoy you up when you are plunged into a sea of sin and bear you safely to the haven of divine mercy.",
+    "source_title": "ON PENITENCE 4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Repentance.html"
+   },
+   {
+    "entry_id": "tertullian.Ezek.18.23.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Ezekiel 18:23",
+     "osis": [
+      "Ezek.18.23"
+     ]
+    },
+    "quote": "A petition for pardon is a full confession; because one who begs for pardon fully admits his guilt. So, too, penitence is demonstrated as acceptable to God, who desires it rather than the death of a sinner.",
+    "source_title": "ON PRAYER 7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
+   },
+   {
+    "entry_id": "tertullian.Ezek.20.34.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Ezekiel 20:34",
+     "osis": [
+      "Ezek.20.34"
+     ]
+    },
+    "quote": "He commands us to be completely separated from idolatry and have no close dealing with it, because even the earthly serpent sucks people into its jaws at a distance with its breath.",
+    "source_title": "THE CHAPLET 10:7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Chaplet%252C%2520or%2520De%2520Corona.html"
+   },
+   {
+    "entry_id": "tertullian.Ezek.20.41.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Ezekiel 20:41",
+     "osis": [
+      "Ezek.20.41"
+     ]
+    },
+    "quote": "Consider yourselves as having been transferred from prison to what we may call a place of safety. Darkness is there, but you are light; chains are there, but you are free before God. It breathes forth a foul smell, but you are an odor of sweetness.",
+    "source_title": "TO THE MARTYRS 2:4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520the%2520Martyrs.html"
+   },
+   {
+    "entry_id": "tertullian.Ezek.28.12-13.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Ezekiel 28:12-13",
+     "osis": [
+      "Ezek.28.12"
+     ]
+    },
+    "quote": "It If you turn to the prophecy of Ezekiel, you will at once perceive that this angel was both by creation good and by choice corrupt. For he speaks of the devil there in the person of the prince of Tyre.",
+    "source_title": "AGAINST MARCION 2.10",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25202.html"
+   },
+   {
+    "entry_id": "tertullian.Ezek.33.11.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Ezekiel 33:11",
+     "osis": [
+      "Ezek.33.11"
+     ]
+    },
+    "quote": "Come now, you tightrope walker, walking on a tightrope of purity and chastity and every sort of sexual asceticism, you who, on the slender cord of a discipline like this, far from the path of truth, advance with reluctant feet, balancing the flesh by the spirit, moderating your desires by the faith, guarding your eyes through fear, why do you watch your step so anxiously?",
+    "source_title": "ON PURITY 10",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
+   },
+   {
+    "entry_id": "tertullian.Ezek.33.11.1",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Ezekiel 33:11",
+     "osis": [
+      "Ezek.33.11"
+     ]
+    },
+    "quote": "Having considered God's generosity, we pray next for his indulgence. For of what benefit is food if, in reality, we are bent on it like a bull on his victim? Our Lord knew that he alone was without sin. Therefore he taught us to say in prayer, \"Forgive us our trespasses.\" A prayer for pardon is an acknowledgment of sin, since one who asks for pardon confesses guilt. Thus, too, repentance is shown to be acceptable to God, because God wills this rather than the death of the sinner.",
+    "source_title": "ON PRAYER 7:1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
+   },
+   {
+    "entry_id": "tertullian.Ezek.34.2.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Ezekiel 34:2",
+     "osis": [
+      "Ezek.34.2"
+     ]
+    },
+    "quote": "Quite clearly he states that they have caused the sheep to be lost and to be devoured by the beasts of the field; nor, if they are abandoned, could they avoid being lost in death and devoured. But he does not say that they should be restored after they have been lost in death and devoured.",
+    "source_title": "ON PURITY 7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
+   },
+   {
+    "entry_id": "tertullian.Ezek.48.30-35.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Ezekiel 48:30-35",
+     "osis": [
+      "Ezek.48.30"
+     ]
+    },
+    "quote": "But we do confess that a kingdom is promised to us upon the earth, although before heaven, only in another state of existence; inasmuch as it will be after the resurrection for a thousand years in the divinely-built city of Jerusalem, \"let down from heaven,\" [Revelation 21:2] which the apostle also calls \"our mother from above;\" [Galatians 4:26] and, while declaring that our πολίτευμα, or citizenship, is in heaven, he predicates of it that it is really a city in heaven. This both Ezekiel had knowledge of [Ezekiel 48:30-35] and the Apostle John beheld. [Revelation 21:10-23] And the word of the new prophecy which is a part of our belief, attests how it foretold that there would be for a sign a picture of this very city exhibited to view previous to its manifestation. This prophecy, indeed, has been very lately fulfilled in an expedition to the East. For it is evident from the testimony of even heathen witnesses, that in Judæa there was suspended in the sky a city early every morning for forty days. As the day advanced, the entire figure of its walls would wane gradually, and sometimes it would vanish instantly. We say that this city has been provided by God for receiving the saints on their resurrection, and refreshing them with the abundance of all really spiritual blessings, as a recompense for those which in the world we have either despised or lost; since it is both just and God-worthy that His servants should have their joy in the place where they have also suffered affliction for His name's sake. Of the heavenly kingdom this is the process. After its thousand years are over, within which period is completed the resurrection of the saints, who rise sooner or later according to their deserts there will ensue the destruction of the world and the conflagration of all things at the judgment: we shall then be changed in a moment into the substance of angels, even by the investiture of an incorruptible nature, and so be removed to that kingdom in heaven of which we have now been treating, just as if it had not been predicted by the Creator, and as if it were proving Christ to belong to the other god and as if he were the first and sole revealer of it.",
+    "source_title": "Against Marcion, Book III, Chapter 25",
+    "source_url": "https://www.newadvent.org/fathers/03123.htm"
+   }
+  ],
+  "Hab": [
+   {
+    "entry_id": "tertullian.Hab.3.2.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Habakkuk 3:2",
+     "osis": [
+      "Hab.3.2"
+     ]
+    },
+    "quote": "The Father gave to the Son new disciples after Moses and Elijah had been exhibited along with him in the honor of his glory and had then been dismissed as having fully discharged their duty and office.… But we have the entire structure of this same vision in Habakkuk also, where the spirit in the person of some of the apostles says, \"O Lord, I have heard your speech and was afraid.\" What speech was this, other than the words of the voice from heaven, \"This is my beloved Son, hear him\"? \"I considered your works and was astonished.\" When could this have better happened than when Peter, on seeing his glory, knew not what he was saying? \"In the midst of the two you shall be known\"—even Moses and Elijah.",
+    "source_title": "AGAINST MARCION 4.12",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   }
+  ],
+  "Hos": [
+   {
+    "entry_id": "tertullian.Hos.10.5-6.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Hosea 10:5-6",
+     "osis": [
+      "Hos.10.5"
+     ]
+    },
+    "quote": "The Lord himself comes to a trial with \"the elders and rulers of the people,\" as Isaiah predicted. And then he fulfilled all that had been written of his passion. At that time \"the heathen raged, and the people imagined vain things; the kings of the earth set themselves, and the rulers gathered themselves together against the Lord and against his Christ.\" The heathen were Pilate and the Romans; the people were the tribes of Israel; the kings were represented in Herod and the rulers in the chief priests. When, indeed, he was sent to Herod gratuitously by Pilate, the words of Hosea were accomplished, for he had prophesied of Christ, \"And they shall carry him bound as a present to the king.\"",
+    "source_title": "AGAINST MARCION 4.42",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Hos.12.4.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Hosea 12:4",
+     "osis": [
+      "Hos.12.4"
+     ]
+    },
+    "quote": "There were places in Jerusalem where he taught and other places to which he retired. \"In daytime he was teaching in the temple.\" Just this had been foretold by Hosea: \"In my house did they find me, and there did I speak with them.\"",
+    "source_title": "AGAINST MARCION 4.39",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Hos.6.6-7.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Hosea 6:6-7",
+     "osis": [
+      "Hos.6.6"
+     ]
+    },
+    "quote": "But he would not threaten the impenitent if he failed to pardon the penitent. This would be doubtful only if he had not revealed elsewhere the profusion of his mercy. Has he not said, \"He who is fallen shall rise, and he who was turned away shall return\"? He it is, most assuredly, who \"will have mercy rather than sacrifice.\" The heavens and the angels who are there rejoice at human repentance. Look at you now, sinner, be of good heart! You see where it is that you are a cause of joy.",
+    "source_title": "ON PENITENCE 8",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Repentance.html"
+   }
+  ],
+  "Isa": [
+   {
+    "entry_id": "tertullian.Isa.10.23.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 10:23",
+     "osis": [
+      "Isa.10.23"
+     ]
+    },
+    "quote": "When God made statements such as \"You shall not murder; you shall not commit adultery; you shall not steal; you shall not bear false witness,\" he was teaching me to refrain from doing to others what I would be unwilling to do to myself. Therefore the precept offered in the Gospel belongs only to the one who first drew it up in ancient times, arranging it according to his own teaching in a formula that could easily be understood. This was predicted in another passage in which the Lord, that is, Christ, was \"to make a concise word on the earth.\"",
+    "source_title": "AGAINST MARCION 4.16",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.10.33.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 10:33",
+     "osis": [
+      "Isa.10.33"
+     ]
+    },
+    "quote": "And who are these but the rich? Because they have indeed received their consolation, glory and honor, and a lofty position from their wealth.",
+    "source_title": "AGAINST MARCION 4.15",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.11.1.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 11:1",
+     "osis": [
+      "Isa.11.1"
+     ]
+    },
+    "quote": "In him dwelt the fullness of the Spirit; therefore I acknowledge him to be \"the rod of the stem of Jesse.\" His blooming flower shall be my Christ, upon whom has rested, according to Isaiah, \"the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and piety, and of the fear of the Lord.\" Now to no man, except Christ, would this diversity of spiritual proofs suitably apply. He is indeed like a flower for the Spirit's grace, reckoned indeed of the stem of Jesse but thence to derive his descent through Mary.",
+    "source_title": "AGAINST MARCION 3.17",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.11.8.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 11:8",
+     "osis": [
+      "Isa.11.8"
+     ]
+    },
+    "quote": "Happily the Creator has promised by Isaiah to give this power even to little children, of putting their hand in the cockatrice den and on the hole of the young asps without at all receiving hurt. And, indeed, we are aware … that under the figure of scorpions and serpents are portended evil spirits, whose very prince is described by the name of serpent, dragon and every other most conspicuous beast in the power of the Creator. This power the Creator conferred first of all upon his Christ, even as the ninetieth psalm says to him: \"Upon the asp and the basilisk shall you tread; the lion and the dragon shall you trample under foot.\" So also Isaiah: \"In that day the Lord God shall draw his sacred, great and strong sword\" (even his Christ) \"against that dragon, that great and tortuous serpent; and he shall slay him in that day.\"",
+    "source_title": "AGAINST MARCION 4.24",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.19.1.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 19:1",
+     "osis": [
+      "Isa.19.1"
+     ]
+    },
+    "quote": "Egypt is sometimes understood to mean the whole world in [Isaiah], because of superstition and malediction.",
+    "source_title": "AN ANSWER TO THE JEWS 9",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.1.12.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 1:12",
+     "osis": [
+      "Isa.1.12"
+     ]
+    },
+    "quote": "As for the burdensome sacrifices and the troublesome scrupulousness of their ceremonies and oblations, no one should blame the Jews, as if God specially required them for himself.… But he should see in those sacrifices a careful provision on God's part, which showed his wish to bind to his own religion a people who were prone to idolatry and transgression by that kind of services wherein consisted the superstition of that period. He did this in order to call them away from idolatry, while requesting sacrifices to be performed to himself, as if he desired that no sin should be committed in making idols.",
+    "source_title": "AGAINST MARCION 1.",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25201.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.1.12.1",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 1:12",
+     "osis": [
+      "Isa.1.12"
+     ]
+    },
+    "quote": "Now this is the spiritual victim which has set aside the earlier sacrifice.… The gospel teaches what God demands. \"The hour is coming,\" he says, \"when the true worshipers will worship the Father in spirit and in truth.\" … We are the true worshipers and true priests who, offering our prayer in the spirit, offer sacrifice in the spirit—that is, prayer—as a victim that is appropriate and acceptable to God; this is what he has demanded and what he has foreordained for himself.",
+    "source_title": "ON PRAYER 28",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.1.14.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 1:14",
+     "osis": [
+      "Isa.1.14"
+     ]
+    },
+    "quote": "Through this arises the question for us, what sabbath God willed us to keep? For the Scriptures point to an eternal sabbath and a temporal sabbath. For Isaiah the prophet says, \"My soul hates your sabbaths,\" and in another place he says, \"My sabbath you have profaned.\" From which we discern that the temporal sabbath is human and the eternal sabbath is accounted divine.",
+    "source_title": "AN ANSWER TO THE JEWS 4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.1.14.1",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 1:14",
+     "osis": [
+      "Isa.1.14"
+     ]
+    },
+    "quote": "God has here expressed an aversion to certain sabbaths. By calling them \"your sabbaths\" he means that the sabbaths he rejects are humanity's, and not his. He rejects them because they were celebrated without the fear of God by a people full of sins who love God \"with the lip, not the heart.\"",
+    "source_title": "AGAINST MARCION 1.",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25201.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.1.17.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 1:17",
+     "osis": [
+      "Isa.1.17"
+     ]
+    },
+    "quote": "God offers a brief summary through the prophet Isaiah of the honor that widows enjoy in the sight of God.… The Father defends these two types of people [widows and orphans] through divine mercy in proportion to their being destitute of human aid. Look how the widow's benefactor is put on a level with the widow herself, whose champion shall \"reason with the Lord.\"",
+    "source_title": "TO HIS WIFE 8",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520His%2520Wife%2FBook%25201.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.1.18.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 1:18",
+     "osis": [
+      "Isa.1.18"
+     ]
+    },
+    "quote": "In the scarlet color he indicates the blood of the prophets; in the crimson, that of the Lord, as the brighter.",
+    "source_title": "AGAINST MARCION 4.10",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.1.19.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 1:19",
+     "osis": [
+      "Isa.1.19"
+     ]
+    },
+    "quote": "This passage means the blessings that await the flesh when in the kingdom of God it shall be renewed, and made like the angels, and waiting to obtain the things \"which neither eye has seen nor ear heard, and which have not entered into the heart of man.\"",
+    "source_title": "ON THE RESURRECTION OF THE FLESH 26",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.1.2.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 1:2",
+     "osis": [
+      "Isa.1.2"
+     ]
+    },
+    "quote": "Our Lord frequently proclaimed God as a Father to us. He even gave us an instruction \"that we call no one on earth father, but the Father whom we have in the heavens.\" So, in praying [\"Our Father\"] we are likewise obeying the precept. Those who recognize their Father are blessed! This is the reproach that is brought against Israel, to which the Spirit attests heaven and earth, saying, \"I have begotten children, and they have not recognized me.\"",
+    "source_title": "ON PRAYER 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.26.19.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 26:19",
+     "osis": [
+      "Isa.26.19"
+     ]
+    },
+    "quote": "Unquestionably, if the people were indulging in figurative murmurs that their bones were become dry and that their hope had perished—plaintive at the consequences of their dispersion—then God might fairly enough seem to have consoled their figurative despair with a figurative promise. Since, however, no injury had as yet alighted on the people from their dispersion, although the hope of the resurrection had very frequently failed among them, it is manifest that it was owing to the perishing condition of their bodies that their faith in the resurrection was shaken. God, therefore, was rebuilding the faith that the people were pulling down. But even if it were true that Israel was depressed at some shock in their existing circumstances, we must not on that account suppose that the purpose of revelation could have rested in a parable. Its aim must have been to testify a resurrection, in order to raise the nation's hope to even an eternal salvation and an indispensable restoration and thereby turn off their minds from brooding over their present affairs. This indeed is the aim of other prophets likewise. \"You shall go forth,\" [says Malachi], \"from your tombs, as young calves let loose from their bonds, and you shall tread down your enemies.\" And again [Isaiah says], \"Your heart shall rejoice, and your bones shall spring up like the grass,\" because the grass also is renewed by the dissolution and corruption of the seed. In a word, if it is contended that the figure of the rising bones refers properly to the state of Israel, why is the same hope announced to all nations, instead of being limited to Israel only, of reinvesting those bony remains with bodily substance and vital breath and of raising up their dead out of the grave? For the language is universal: \"The dead shall arise and come forth from their graves; for the dew which comes from you is medicine to their bones.\" In another passage it is written: \"All flesh shall come to worship before me, says the Lord.\" When? When the fashion of this world shall begin to pass away. For he said before, \"As the new heaven and the new earth, which I make, remain before me, says the Lord, so shall your seed remain.\" Then also shall be fulfilled what is written afterwards: \"And they shall go forth\" [namely, from their graves] \"and shall see the carcasses of those who have transgressed: for their worm shall never die, nor shall their fire be quenched; and they shall be a spectacle to all flesh,\" even to that which, being raised again from the dead and brought out from the grave, shall adore the Lord for his great grace.",
+    "source_title": "ON THE RESURRECTION OF THE FLESH 31",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.26.20.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 26:20",
+     "osis": [
+      "Isa.26.20"
+     ]
+    },
+    "quote": "When we read, \"Go, my people, enter into your closets for a little while, until my anger passes away,\" we have in the closets graves, in which they will have to rest for a little while, who shall have at the end of the world departed this life in the last furious onset of the power of Antichrist. Why else did he use the expression closets in preference to some other receptacle, if it were not that the flesh is kept in these closets or cellars salted and reserved for use, to be drawn out thence on a suitable occasion? It is on a similar principle that embalmed corpses are set aside for burial in mausoleums and sepulchers, in order that they may be removed from there when the Master shall order it. Since, therefore, there is consistency in thus understanding the passage (for what refuge of little closets could possibly shelter us from the wrath of God?), it appears that by the very phrase which he uses, \"until his anger passes away,\" which shall extinguish Antichrist, he in fact shows that after that indignation the flesh will come forth from the sepulcher, in which it had been deposited previous to the bursting out of the anger. Now out of the closets nothing else is brought than that which had been put into them, and after the extirpation of Antichrist shall be busily transacted the great process of the resurrection.",
+    "source_title": "ON THE RESURRECTION OF THE FLESH 27",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.27.11.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 27:11",
+     "osis": [
+      "Isa.27.11"
+     ]
+    },
+    "quote": "The women, returning from the sepulcher and from this vision of the angels, were foreseen by Isaiah, when he says, \"Come, you women, who return from the vision,\" that is, \"come\" to report the resurrection of the Lord. It was well, however, that the unbelief of the disciples was so persistent, in order that to the last we might consistently maintain that Jesus revealed himself to the disciples as none other than the Christ of the prophets.",
+    "source_title": "AGAINST MARCION 4.43",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.28.14-15.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 28:14-15",
+     "osis": [
+      "Isa.28.14"
+     ]
+    },
+    "quote": "What, then, are the burdens that he censures? None but those which they were accumulating of their own accord, when they taught for commandments the doctrines of men; for the sake of private advantage joining house to house, so as to deprive their neighbor of his own; cajoling the people, loving gifts, pursuing rewards, robbing the poor of the right of judgment, that they might have the widow for a prey and the fatherless for a spoil. Of these Isaiah also says, \"woe to them that are strong in Jerusalem!\"",
+    "source_title": "AGAINST MARCION 4.27",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.2.19.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 2:19",
+     "osis": [
+      "Isa.2.19"
+     ]
+    },
+    "quote": "The Creator ought to be known even by the light of nature, for he may be understood from his works and may thereby become the object of a more widely spread knowledge. To him, therefore, does it appertain to punish such as do not know God, for none ought to be ignorant of him. In the apostle's phrase, \"From the presence of the Lord, and from the glory of his power,\" he uses the words of Isaiah, who for that same reason attests the very same Lord as arising \"to shake terribly the earth.\"",
+    "source_title": "AGAINST MARCION 5.16",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.2.4.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 2:4",
+     "osis": [
+      "Isa.2.4"
+     ]
+    },
+    "quote": "Long ago did Isaiah declare that \"out of Zion should go forth the law, and the word of the Lord from Jerusalem,\" some other law, that is, and another word. In short, he says, \"He shall judge among the nations and shall rebuke many people,\" meaning not those of the Jewish people only, but also of the nations which are judged by the new law of the gospel and the new word of the apostles, and are among themselves rebuked of their old error as soon as they have believed. And as the result of this, \"They beat their swords into plowshares, and their spears (which are a kind of hunting instrument) into pruning hooks.\" That is to say, minds that once were fierce and cruel are changed by the gospel and the word of the apostles into good dispositions productive of good fruit.",
+    "source_title": "AGAINST MARCION 4.1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.2.4.1",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 2:4",
+     "osis": [
+      "Isa.2.4"
+     ]
+    },
+    "quote": "The gospel will be this \"way\" of the new law and the new word in Christ, no longer in Moses. \"And he shall judge among the nations,\" even concerning their error. \"And these shall rebuke a large nation,\" that of the Jews themselves and their proselytes. \"And they shall beat their swords into plowshares\"; in other words, they shall change into pursuits of moderation and peace the dispositions of injurious minds, hostile tongues and all kinds of evil and blasphemy.… You learn here that Christ is promised not as powerful in war but pursuing peace.",
+    "source_title": "AGAINST MARCION 3.21",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.33.14.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 33:14",
+     "osis": [
+      "Isa.33.14"
+     ]
+    },
+    "quote": "The Scripture itself … expressly distinguishes between Abraham's bosom, where the poor man dwells, and the infernal place of torment. \"Hell\" (I take it) means one thing, and \"Abraham's bosom\" another. \"A great gulf\" is said to separate those regions and to hinder a passage from one to the other. Besides, the rich man could not have \"lifted up his eyes,\" and from a distance too, except to a superior height, and from the said distance all up through the vast immensity of height and depth.… There is some determinate place called Abraham's bosom, and it is designed for the reception of souls of Abraham's children, even from among the Gentiles (since he is \"the father of many nations,\" which must be classed amongst his family), and of the same faith as that with which he himself believed God, without the yoke of the law and the sign of circumcision. This region, therefore, I call Abraham's bosom. Although it is not in heaven, it is yet higher than hell, and it is appointed to afford an interval of rest to the souls of the righteous, until the consummation of all things shall complete the resurrections of all people with the \"full recompense of their reward.\" This consummation will then be manifested in heavenly promises.… Amos, however, tells us of \"those stories towards heaven\" which Christ \"builds\"—of course for his people. There also is that everlasting abode of which Isaiah asks, \"Who shall declare to you the eternal place, but he (that is, of course, Christ) who walks in righteousness, speaks of the straight path, and hates injustice and iniquity?\" Now, although this everlasting abode is promised, and the ascending stories (or steps) to heaven are built by the Creator, who further promises that the seed of Abraham shall be even as the stars of heaven, by virtue certainly of the heavenly promise, why may it not be possible, without any injury to that promise, that by Abraham's bosom is meant some temporary receptacle of faithful souls, wherein is even now delineated an image of the future and where is given some foresight of the glory of both judgments?",
+    "source_title": "AGAINST MARCION 4.34",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.35.10.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 35:10",
+     "osis": [
+      "Isa.35.10"
+     ]
+    },
+    "quote": "\"Everlasting joy,\" says Isaiah, \"shall be upon their heads.\" Well, there is nothing eternal until after the resurrection. \"And sorrow and sighing,\" he continues, \"shall flee away.\" The angel echoes the same to John: \"And God shall wipe away all tears from their eyes,\" from the same eyes indeed which had formerly wept and which might weep again if the loving kindness of God did not dry up every fountain of tears. And again: \"God shall wipe away all tears from their eyes; and there shall be no more death,\" and therefore no more corruption, it being chased away by incorruption, even as death is by immortality.",
+    "source_title": "ON THE RESURRECTION OF THE FLESH 58",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.35.3.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 35:3",
+     "osis": [
+      "Isa.35.3"
+     ]
+    },
+    "quote": "The sick of the palsy is healed, and that in public, in the sight of the people. For, says Isaiah, \"they shall see the glory of the Lord and the excellence of our God.\" What glory, and what excellence? \"Be strong, you weak hands and feeble knees\" refers to the palsy. \"Be strong; fear not.\" \"Be strong\" is not vainly repeated, nor is \"fear not\" vainly added; because with the renewal of the limbs there was to be, according to the promise, a restoration also of bodily energies: \"Arise, and take up your couch\"; and likewise moral courage not to be afraid of those who should say, \"Who can forgive sins, but God alone?\"",
+    "source_title": "AGAINST MARCION 4.10.1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.35.4.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 35:4",
+     "osis": [
+      "Isa.35.4"
+     ]
+    },
+    "quote": "The actions of Christ must be seen alongside the rule of the Scriptures. Unless I am mistaken, we see that Christ's work consisted of two actions: preaching and power. Let us look at each of these in the order we have just listed them. First, Christ was announced as a preacher. Isaiah said, \"Cry out loud, and do not hold back. Lift up your voice as a trumpet, and declare to my people their crimes and to the house of Jacob their sins. Then seek me day by day and desire to learn my ways, as a nation that has done righteousness and has not forsaken the judgment of God,\" and so forth. Second, it was announced that Christ would do acts of power from the Father. Isaiah said, \"Behold, our God will come with judgment; he will come and save us. Then the sick will be healed, the eyes of the blind will see, the ears of the deaf will hear, the mute will speak, and the lame will leap as a deer.\"",
+    "source_title": "AN ANSWER TO THE JEWS 9",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.35.6.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 35:6",
+     "osis": [
+      "Isa.35.6"
+     ]
+    },
+    "quote": "Let me dispel at once the … assertion that the prophets make all their announcements in figures of speech. Now, if this were the case, the figures themselves could not possibly have been distinguished, inasmuch as the verities would not have been declared, out of which the figurative language is stretched. And, indeed, if all are figures, where will be that of which they are the figures? How can you hold up a mirror for your face, if the face nowhere exists? But, in truth, all are not figures, but there are also literal statements; nor are all shadows, but there are bodies too. We have prophecies about the Lord himself even, which are clearer than the day. For it was not figuratively that the Virgin conceived in her womb.… Not even of his mighty works have [the prophets] used parabolic language. Or else, were not the eyes of the blind opened? Did not the tongue of the mute recover speech? Did not the relaxed hands and palsied knees become strong, and the lame leap like a deer? No doubt we are accustomed also to give a spiritual significance to these statements of prophecy, according to the analogy of the physical diseases that were healed by the Lord. But still they were all fulfilled literally, thus showing that the prophets foretold both senses, except that very many of their words can be taken only in a pure and simple signification and free from all allegorical obscurity.",
+    "source_title": "ON THE RESURRECTION OF THE FLESH 20",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.39.1-2.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 39:1-2",
+     "osis": [
+      "Isa.39.1"
+     ]
+    },
+    "quote": "In the parable of the rich man, he flattered himself about the increase of his fields. But God said to him, \"Fool! This night your soul is required of you; and the things you have prepared, whose will they be?\" It was the same way when King Hezekiah heard from Isaiah the sad doom of his kingdom after he had gloried before the envoys of Babylon in his treasures and the deposits of his precious things.",
+    "source_title": "AGAINST MARCION 4.28",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.3.1-3.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 3:1-3",
+     "osis": [
+      "Isa.3.1"
+     ]
+    },
+    "quote": "Consider whether what follows in the prophet has not received its fulfillment: \"The Lord of hosts has taken away from Judah and from Jerusalem, among other things, both the prophet and the wise craftsman\"; that is, his Holy Spirit, who builds the church, which is indeed the temple, and household and city of God.… And so in this manner the law and the prophets were until John, but the dews of divine grace were withdrawn from the nation.",
+    "source_title": "AGAINST MARCION 3.23",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.40.25.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 40:25",
+     "osis": [
+      "Isa.40.25"
+     ]
+    },
+    "quote": "God is one thing, and what belongs to God is another thing.… How will you employ in a comparison with God an object as your example, [such as a king] which fails in all the purposes that belong to a comparison? Why, when supreme power among kings cannot evidently be varied but only unique and singular, is an exception made in the case of him (of all others) who is King of kings, and (from the exceeding greatness of his power and the subjection of all other ranks to him) the very summit, as it were, of dominion?",
+    "source_title": "AGAINST MARCION 1.4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25201.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.40.3.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 40:3",
+     "osis": [
+      "Isa.40.3"
+     ]
+    },
+    "quote": "Since even then by Isaiah it was Christ, the Word and the Spirit of the Creator who prophetically described John as \"the voice of one crying in the wilderness to prepare the way of the Lord.\" And [he] was about to come forth for the purpose of terminating from that point onwards the course of the law and the prophets: by their fulfillment and not their extinction.",
+    "source_title": "AGAINST MARCION 4.33",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.41.18.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 41:18",
+     "osis": [
+      "Isa.41.18"
+     ]
+    },
+    "quote": "God is not offering his services as a water manager or a farmer when he says, \"I will open rivers in a dry land; I will plant in the wilderness the cedar and the box tree.\"",
+    "source_title": "AGAINST MARCION 3.5",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.42.5.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 42:5",
+     "osis": [
+      "Isa.42.5"
+     ]
+    },
+    "quote": "And again, \"who gave breath to the people on the earth and spirit to those walking on it.\" For at first the soul, that is, \"breath,\" was given to the people who go around on the earth, that is, to those acting in flesh in a fleshly manner; then later the Spirit was given to those who walk on the earth, that is, those who subdue the works of the flesh, as the apostle affirms, \"Not that which is spiritual first, but that which is animal and then that which is spiritual.\" For although Adam from the beginning prophesied that great mystery in Christ and the church, \"this is now bone of my bone and flesh of my flesh, on which account a man will leave his father and mother and cleave to his wife and they two will become one flesh,\" he was subject to a falling of the spirit.",
+    "source_title": "ON THE SOUL 11:3-4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.43.19-20.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 43:19-20",
+     "osis": [
+      "Isa.43.19"
+     ]
+    },
+    "quote": "For of this number I find figurative hints up and down the Creator's dispensation in the twelve streams of Elim. … Now the same number of apostles was thus portended, as if they were to be fountains and rivers that should water the Gentile world, which was formerly dry and destitute of knowledge, as he says by Isaiah, \"I will put streams in the unwatered ground.\"",
+    "source_title": "AGAINST MARCION 4.13",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.44.25.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 44:25",
+     "osis": [
+      "Isa.44.25"
+     ]
+    },
+    "quote": "Remember that the \"heart of humanity is ashes,\" according to the estimate of God, and that \"the very wisdom of the world is foolishness.\" … Then, if the heretic seeks refuge in the depraved thoughts of the vulgar or the imaginations of the world, I must say to him, \"Part company with the heathen, O heretic!\" For although you are all agreed in imagining a God, yet while you do so in the name of Christ, so long as you deem yourself a Christian, you are a different person from a heathen. So give the nonbeliever back his own view of things, since he does not himself learn from yours. Why lean on a blind guide, if you have eyes of your own? Why be clothed by one who is naked, if you have put on Christ?",
+    "source_title": "ON THE RESURRECTION OF THE FLESH 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.45.1.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 45:1",
+     "osis": [
+      "Isa.45.1"
+     ]
+    },
+    "quote": "\"Thus says the Lord God to my Christ [the] Lord, whose right hand I have held, that the nations may hear him, 'the powers of kings will I burst asunder; I will open before him the gates, and the cities shall not be closed to him.' \" This very thing we see now fulfilled. For whose right hand does God the Father hold but Christ's, his Son? All nations have heard of him, that is, people of all nations have believed. Their preachers, the apostles, are pointed to in the psalms of David: \"Into the entire earth,\" he says, \"is gone out their sound, and to the ends of the earth their words.\" For on whom else have nations the world over believed but on the Christ who has now already come?… In all these places the name of the Christ has already come to reign. He is the one before whom the gates of all cities have been opened and to whom none are closed, before whom iron bars have been crumbled and brazen gates opened. There is a spiritual sense affixed to these expressions. The hearts of individuals, having been blockaded in various ways by the devil, are now unbarred by the faith of Christ. This promise has already been evidently fulfilled, inasmuch as in all these places there are people who live believing in the name of Christ.",
+    "source_title": "AN ANSWER TO THE JEWS 7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.45.6.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 45:6",
+     "osis": [
+      "Isa.45.6"
+     ]
+    },
+    "quote": "And inasmuch as this Son is undivided and inseparable from the Father, so is he to be reckoned as being in the Father, even when he is not named. The fact is, if he had named him expressly, he would have separated him, saying in so many words, \"Beside me there is none else, except my Son.\" In short, he would have made his Son actually another, after excepting him from others.",
+    "source_title": "AGAINST PRAXEAS 18",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.45.7.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 45:7",
+     "osis": [
+      "Isa.45.7"
+     ]
+    },
+    "quote": "Now (like many other persons nowadays, especially those who have a heretical proclivity), while morbidly brooding over the question of the origin of evil, Marcion's perception became blunted by the very irregularity of his researches. When he found the Creator declaring, \"I am he that creates evil,\" Marcion had already concluded from other arguments that satisfy only twisted minds that God is the author of evil. So Marcion now applied to the Creator the figure of the corrupt tree bringing forth evil fruit, that is, moral evil, and then presumed that there ought to be another god, after the analogy of the good tree producing its good fruit. Accordingly, finding in Christ a different disposition—one of a simple and pure benevolence, differing from the Creator—Marcion readily argued that in his Christ had been revealed a new and strange divinity; and then with a little leaven he leavened the whole lump of the faith, flavoring it with the acidity of his own heresy.",
+    "source_title": "AGAINST MARCION 1.2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25201.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.48.13.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 48:13",
+     "osis": [
+      "Isa.48.13"
+     ]
+    },
+    "quote": "He is the Lord's right hand, indeed his two hands, by which he worked and constructed the universe.",
+    "source_title": "AGAINST HERMOGENES 45",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Hermogenes.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.50.10.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 50:10",
+     "osis": [
+      "Isa.50.10"
+     ]
+    },
+    "quote": "By the mouth of Isaiah also [God] has asked concerning him, \"Who is there among you that hears God? Let him hear the voice of his Son.\" When, therefore, he here presents him with the words, \"This is my beloved Son,\" this clause is of course understood, \"who I have promised.\" For if he once promised and afterwards says, \"This is he,\" it is suitable conduct for one who accomplishes his purpose that he should utter his voice in proof of the promise that he had formerly made; but unsuitable in one who is amenable to the retort, \"Can you, indeed, have a right to say, 'This is my son,' concerning whom you have given us no previous information, any more than you have favored us with a revelation about your own prior existence?\"",
+    "source_title": "AGAINST MARCION 4.22",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.52.14.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 52:14",
+     "osis": [
+      "Isa.52.14"
+     ]
+    },
+    "quote": "Similarly the Father addressed the Son, \"Even as many will be astounded at you, so your appearance will be without glory from people.\" For though, as David has it, he is timely in beauty even above the children of human beings, yet this is in that allegorical state of spiritual grace, when he girds himself with the sword of the Word, which is in truth his very own form and comeliness and glory.",
+    "source_title": "AGAINST MARCION 3.17",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.52.5.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 52:5",
+     "osis": [
+      "Isa.52.5"
+     ]
+    },
+    "quote": "There is indeed a blasphemy that we must avoid completely, namely, that any of us should give a pagan any cause for blasphemy by deceit or injury or insult or some other matter justifying complaint in which the Name is deservedly blamed, so that the Lord is deservedly angry. But if the words \"because of you my name is blasphemed\" cover every blasphemy, then we are all lost, since the whole culture assails the Name, for no fault of ours, with its wicked outcries.… Our name is blessed when we are cursed for keeping our discipline.",
+    "source_title": "ON IDOLATRY 7:14",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.53.1.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 53:1",
+     "osis": [
+      "Isa.53.1"
+     ]
+    },
+    "quote": "Now he would most certainly have said \"your arm\" if he had not wished us to understand that the Father is Lord and the Son also is Lord.",
+    "source_title": "AGAINST PRAXEAS 13",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.53.11.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 53:11",
+     "osis": [
+      "Isa.53.11"
+     ]
+    },
+    "quote": "However, I will show [Marcion] the death and burial and resurrection of Christ all indicated in a single sentence of Isaiah, who says, \"His sepulchre was removed from the midst of them.\" Now there could have been no sepulchre without death and no removal of sepulchre except by resurrection.… \"He shall divide the spoil of many, because he poured out his soul to death.\" For here is set forth the cause of this favor to him, even that it was to recompense him for his death.",
+    "source_title": "AGAINST MARCION 3.19",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.53.4.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 53:4",
+     "osis": [
+      "Isa.53.4"
+     ]
+    },
+    "quote": "Now the Greeks are accustomed to use for \"carry\" a word that also signifies \"to take away.\" … Whatever were the cures that Jesus effected, he is mine.",
+    "source_title": "AGAINST MARCION 4.8",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.5.20.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 5:20",
+     "osis": [
+      "Isa.5.20"
+     ]
+    },
+    "quote": "For, in like manner, they also who oppose martyrdoms, representing salvation to be destruction, transmute sweet into bitter, as well as light into darkness. Thus, by preferring this very wretched life to that most blessed one, they put bitter for sweet, as well as darkness for light.",
+    "source_title": "SCORPIACE 1",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FScorpiace.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.5.26.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 5:26",
+     "osis": [
+      "Isa.5.26"
+     ]
+    },
+    "quote": "He [God] says the following about the Gentiles, those he was about to call together from the ends of the earth: \"Behold, they shall come swiftly with speed.\" He says \"swiftly\" because of the hastening toward end times. He says \"with speed\" because they will not be weighed down by the weights of the ancient law. He says \"they shall be filled\" because it is a promise made only to those who hunger and thirst.",
+    "source_title": "AGAINST MARCION 4.15",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.63.1-2.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 63:1-2",
+     "osis": [
+      "Isa.63.1"
+     ]
+    },
+    "quote": "He likewise, when mentioning the cup and making the New Testament to be sealed \"in his blood,\" affirms the reality of Christ's body. For no blood can belong to a body that is not a body of flesh. If any sort of body were presented to our view, which is not one of flesh, not being fleshly, it would not possess blood. In order, however, that you might discover how anciently wine is used as a figure for blood, turn to Isaiah, who asks, \"Who is this that comes from Edom, from Bosor with garments dyed in red, so glorious in his apparel, in the greatness of his might? Why are your garments red, and your clothing as his who comes from the treading of the full winepress?\" The prophetic Spirit contemplates the Lord as if he were already on his way to his passion, clad in his fleshly nature; and as he was to suffer therein, he represents the bleeding condition of his flesh under the metaphor of garments dyed in red, as if reddened in the treading and crushing process of the winepress, from which the laborers descend reddened with the wine juice, like men stained in blood.",
+    "source_title": "AGAINST MARCION 4.40",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.7.14.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 7:14",
+     "osis": [
+      "Isa.7.14"
+     ]
+    },
+    "quote": "What is the sign? \"Behold, a virgin shall conceive and bear a son.\" In fact, a virgin did conceive and gave birth to \"Emmanuel, God with us.\" This is the new birth: a man born from God. God was born in the man, taking the flesh of the old human race without the help of the old human seed. God took the flesh in order to reform the old human race with a new seed. In other words, he spiritually cleansed the old human race by removing its old stains.",
+    "source_title": "ON THE FLESH OF CHRIST 17",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Flesh%2520of%2520Christ.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.8.4.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 8:4",
+     "osis": [
+      "Isa.8.4"
+     ]
+    },
+    "quote": "I, on my part, now wish to engage with you in a discussion on the allegorical expressions of the apostle. What figures of speech could the novel god have found in the prophets (fit for himself)? \"He led captivity captive,\" [Ephesians 4:8] says the apostle. With what arms? In what conflicts? From the devastation of what country? From the overthrow of what city? What women, what children, what princes did the Conqueror throw into chains? For when by David Christ is sung as \"girded with His sword upon His thigh,\" [Psalm 45:3] or by Isaiah as \"taking away the spoils of Samaria and the power of Damascus,\" [Isaiah 8:4] you make Him out to be really and truly a warrior confest to the eye. Learn then now, that His is a spiritual armour and warfare, since you have already discovered that the captivity is spiritual, in order that you may further learn that this also belongs to Him, even because the apostle derived the mention of the captivity from the same prophets as suggested to him his precepts likewise: ...",
+    "source_title": "The Five Books Against Marcion, Book 5",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
+   },
+   {
+    "entry_id": "tertullian.Isa.9.6.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Isaiah 9:6",
+     "osis": [
+      "Isa.9.6"
+     ]
+    },
+    "quote": "Likewise Isaiah also says, \"For unto us a child is born.\" But what is there unusual in this, unless he speaks of the Son of God? \"To us is given he whose government is upon his shoulder.\" Now, what king is there who bears the ensign of his dominion upon his shoulder, and not rather upon his head as a diadem, or in his hand as a scepter, or else as a mark in some royal apparel? But the one new King of the new ages, Jesus Christ, carried on his shoulder both the power and the excellence of his new glory, even his cross; so that, according to our former prophecy, he might thenceforth reign from the tree as Lord.",
+    "source_title": "AGAINST MARCION 3.19",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
+   }
+  ],
+  "Jer": [
+   {
+    "entry_id": "tertullian.Jer.14.11-12.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 14:11-12",
+     "osis": [
+      "Jer.14.11"
+     ]
+    },
+    "quote": "Although God is by nature good, yet he is also just, and as the case requires. He knows how to heal but also how to strike. He brings peace, but he brings about evil. He desires repentance, yet he commands Jeremiah not to intercede for the sinful people, since, he says, even if they fast, I will not hear their prayer.",
+    "source_title": "ON PURITY 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.17.10.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:10",
+     "osis": [
+      "Jer.17.10"
+     ]
+    },
+    "quote": "God has promised that Christ will be a light and has declared that he himself is a lantern, searching the hearts and seats of affections.",
+    "source_title": "AGAINST MARCION 5.7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.17.10.1",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:10",
+     "osis": [
+      "Jer.17.10"
+     ]
+    },
+    "quote": "The Pharisees, by justifying themselves before people, were placing in people their hope of reward. His rebuke to them had the same bearing as that of the prophet Jeremiah, \"Cursed is the one who trusts in humankind.\" He says next, \"But God knows your hearts.\" This was a reference to the power of that God who declared himself a shining light, \"searching the hearts and the seats of emotions.\" If he turns with hostility toward their pride, \"what is exalted among people is an abomination in the sight of God,\" he sets Isaiah in front of their eyes, \"For the LORD of hosts has a day against all that is proud and lofty, against all that is lifted up and high.\"",
+    "source_title": "AGAINST MARCION 4.33",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.17.7-8.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:7-8",
+     "osis": [
+      "Jer.17.7"
+     ]
+    },
+    "quote": "For as it says in the psalm, \"Those who sow in tears shall reap with shouts of joy,\" so also in the gospel, those who sow in laughter, that is, because of joy, shall reap in tears. Long ago did the Creator set these things side by side: Christ, by not changing them but only giving them emphasis, has made them new. \"Woe to you, when all people speak well of you.\" That is what their ancestors used to do to the false prophets. No less does the Creator, by Isaiah, censure those who seek after the blessing and praise of people: \"My people, those who call you blessed, lead you astray and upset the paths of your feet.\" And in other terms he even forbids them to have any confidence in a person, and consequently not in human praise, as by Jeremiah, \"Cursed is the one who trusts in humankind.\"",
+    "source_title": "AGAINST MARCION 4.16",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.17.9.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:9",
+     "osis": [
+      "Jer.17.9"
+     ]
+    },
+    "quote": "For it is of him that Isaiah writes: \"A man of suffering and acquainted with the bearing of weakness.\" Jeremiah writes: \"He is man, and who has known him?\" And Daniel writes: \"On the clouds he came as the son of man.\" The apostle Paul likewise says: \"The man Christ Jesus is the one mediator between God and humankind.\"",
+    "source_title": "ON THE FLESH OF CHRIST 15",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Flesh%2520of%2520Christ.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.17.9.1",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 17:9",
+     "osis": [
+      "Jer.17.9"
+     ]
+    },
+    "quote": "The Father, now that he has made him a little lower than the angels, will crown him with glory and honor and will put all things beneath his feet. Then those who pierced him will know who he is and will strike their breasts, tribe to tribe—because in fact they formerly failed to recognize him in the humility of human condition. \"And he is man,\" says Jeremiah, \"and who shall know him?\" Because also, Isaiah says, \"His nativity, who shall tell of it?\"",
+    "source_title": "AGAINST MARCION 3.7",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.18.11.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 18:11",
+     "osis": [
+      "Jer.18.11"
+     ]
+    },
+    "quote": "I affirm that \"wickedness\" in this context does not signify something that can be referred to the Creator's nature, as though he were evil, but to his authority, because he is a judge. It was in view of this that he declared, \"It is I who create evils,\" and, \"Behold, I send evils against you.\" These are not evils of ill doing but evils of vengeance—and I have already cleared away the ill repute of these by showing them to be fit and proper for a judge. As then, though described as evils, they are no matter of disrepute in a judge, nor by being so described do they stigmatize the judge as evil, so also \"wickedness\" in this context must now be understood as that which, deriving from those judiciary evils, is along with them proper to a judge.… As then his purpose, being a just one, was not evil, he had decided on it for justice's sake, not from wickedness. Yet the Scripture has described the punishment itself as \"wickedness\" because of the well-deserved evil of what they were to suffer.",
+    "source_title": "AGAINST MARCION 2.24",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25202.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.1.5.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:5",
+     "osis": [
+      "Jer.1.5"
+     ]
+    },
+    "quote": "Read the word of God that was spoken to Jeremiah, \"Before I formed you in the womb, I knew you.\" God not only forms us in the womb; he also breathes on us as he did at the first creation, when \"the Lord God formed man and breathed into him the breath of life.\" And God could not have known a person in the womb, except in his entire nature: \"And before you came forth out of the womb, I sanctified you.\" Well, was it then a dead body at that early stage? Certainly not. For \"God is not the God of the dead but of the living.\"",
+    "source_title": "ON THE SOUL 26",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.1.5.1",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:5",
+     "osis": [
+      "Jer.1.5"
+     ]
+    },
+    "quote": "The embryo therefore becomes a human being in the womb from the moment that its form is completed. The law of Moses, indeed, punishes with due penalties the one who shall cause an abortion, inasmuch as there exists already the rudiment of a human being that has imputed to it even now the condition of life and death, since it is already liable to the issues of both, although, by living still in the mother, it for the most part shares its own state with the mother.",
+    "source_title": "ON THE SOUL 37",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.1.9.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 1:9",
+     "osis": [
+      "Jer.1.9"
+     ]
+    },
+    "quote": "The Scripture narrative goes on to explain in a popular manner that \"they did not understand that he spoke to them about the Father,\" although they ought certainly to have known that the Father's words were uttered in the Son because they read in Jeremiah, \"And the Lord said to me, 'Behold, I have put my words in your mouth.' \"",
+    "source_title": "AGAINST PRAXEAS 22",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.2.13.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 2:13",
+     "osis": [
+      "Jer.2.13"
+     ]
+    },
+    "quote": "This \"tree\" is a mystery. In ancient times, Moses sweetened the bitter water with it. The people who were perishing of thirst in the desert drank and were revived because of it. We do this, too. We were drawn out from the calamities of the world in which we were lingering, perishing with thirst (that is, deprived of the divine Word). We drank \"by the faith which is on him,\" the baptismal water of the \"tree\" of the passion of Christ. We have revived the faith from which Israel has fallen away, as foretold through Jeremiah, who says, \"Send, and continue to ask whether such things have been done, whether nations will change their gods (and these are not gods!). But my people have changed their glory for that which does not profit. Be appalled at this, O heavens!\"—and when were they appalled? Undoubtedly when Christ suffered—\"and be shocked,\" he says, \"utterly desolate.\"",
+    "source_title": "AN ANSWER TO THE JEWS 13",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.31.8.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 31:8",
+     "osis": [
+      "Jer.31.8"
+     ]
+    },
+    "quote": "When Jeremiah says, \"And I will gather them together from the extremities of the land in the feast day,\" he signifies the day of the Passover and of Pentecost, which is properly a \"feast day.\" However, every day is the Lord's. Every hour, every time, is apt for baptism. If there is a difference in the solemnity, there is no distinction in the grace.",
+    "source_title": "ON BAPTISM 19",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.32.19.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 32:19",
+     "osis": [
+      "Jer.32.19"
+     ]
+    },
+    "quote": "You, as a person, know any other person from the way he appears outside. You think the way you see. And you see as far only as your eyes do. But the Scripture says, \"The eyes of the Lord are lofty,\" \"People look at the outward appearance, but God looks at the heart,\" \"The Lord sees and knows his own,\" and \"the plant that my heavenly Father has not planted, he roots up,\" and \"the first shall,\" as he shows, \"be last,\" and he carries \"his fan in his hand to purge his threshing floor.\" Let the chaff of a fickle faith fly off as much as it will at every blast of temptation; all the purer will be that heap of corn that shall be laid up in the garner of the Lord.",
+    "source_title": "PRESCRIPTIONS AGAINST HERETICS 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.32.27.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 32:27",
+     "osis": [
+      "Jer.32.27"
+     ]
+    },
+    "quote": "Of course nothing is \"too hard for the Lord.\" But if we choose to apply this principle so extravagantly and harshly in our capricious imaginations, we may then make out God to have done anything we please, on the ground that it was not impossible for him to do it. We must not suppose, however, because he is able to do all things, that he has done what he has not done. But we must inquire whether he has really done it. God could, if he had liked, have furnished humankind with wings to fly with, just as he gave wings to kites. We must not, however, run to the conclusion that he did this because he was able to do it. He might also have extinguished Praxeas and all other heretics at once; it does not follow, however, that he did, simply because he was able. For it was necessary that there should be both kites and heretics; it was necessary also that the Father should be crucified. In one sense there will be something difficult even for God—namely, that which he has not done—not because he could not but because he would not do it. For with God, to be willing is to be able and to be unwilling is to be unable; all that he has willed, however, he has both been able to accomplish and has displayed his ability.",
+    "source_title": "AGAINST PRAXEAS 10",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.4.4.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 4:4",
+     "osis": [
+      "Jer.4.4"
+     ]
+    },
+    "quote": "Paul mentioned \"certain false brethren as having crept in secretly,\" who wished to turn the Galatians to another gospel. He shows that that adulteration of the gospel was not meant to transfer them to the faith of another god and christ, but rather to perpetuate the teaching of the law. He blames them for maintaining circumcision and observing times, and days, and months and years, according to those Jewish ceremonies that they ought to have known were now abolished, according to the new dispensation willed by the Creator, who foretold in ancient times this very thing by his prophets. Thus he says by Isaiah: \"Old things have passed away. Behold, I will do a new thing.\" And in another passage: \"I will make a new covenant, not according to the covenant that I made with their fathers, when I brought them out of the land of Egypt.\" In the same he said by Jeremiah: Make to yourselves a new covenant, \"circumcise yourselves to the Lord, and take away the foreskins of your heart.\" It is this circumcision, therefore, and this renewal, that the apostle insisted on when he forbade those ancient ceremonies concerning which their very founder announced that they were one day to cease.",
+    "source_title": "AGAINST MARCION 1.20",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25201.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.4.4.1",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 4:4",
+     "osis": [
+      "Jer.4.4"
+     ]
+    },
+    "quote": "This was God's forethought: He gave circumcision to Israel, as a sign by which they might be identified when the time should arrive that their above-mentioned reward should prevent them from entering Jerusalem. This situation, because it would come to be, was announced. Because we see it accomplished, we recognize it. Just as the physical circumcision, which was temporary, was made to be \"a sign\" in a rebellious people, so spiritual circumcision has been given for salvation to an obedient people.The prophet Jeremiah says, \"Renew yourselves, and do not sow among thorns. Be circumcised to God, and circumcise the foreskin of your heart,\" and in another place he says, \"Behold, days shall come, the Lord says, when I will draw up for the house of Judah and for the house of Jacob a new testament; not such as I once gave their fathers in the day that I led them out from the land of Egypt.\"",
+    "source_title": "AN ANSWER TO THE JEWS 3",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.51.15.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 51:15",
+     "osis": [
+      "Jer.51.15"
+     ]
+    },
+    "quote": "For this is proved by Jeremiah when he says, \"God has made the earth by his power; he has established the world by his wisdom and has stretched out the heavens by his understanding.\" These are the energies by the exercise of which he made this universe. His glory is greater if he labored. At length on the seventh day he rested from his works. Both one and the other were after his manner.",
+    "source_title": "AGAINST HERMOGENES 45",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Hermogenes.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.7.16.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 7:16",
+     "osis": [
+      "Jer.7.16"
+     ]
+    },
+    "quote": "Just as God knows how to heal, so does he furthermore know how to smite. He knows how to make peace but likewise permits evils. He prefers repentance but moreover commands Jeremiah not to pray for the reversal of ills on behalf of the sinful people. He says, \"If they will fast, I still will not listen to their plea.\" And again: \"Do not pray to me on behalf of the people, and do not request on their behalf in prayer and supplication, since I will not listen to them in the time when they shall have invoked me, in the time of their affliction.\" And further he, the same One who prefers mercy above sacrifice, says, \"And do not pray to me on behalf of this people, and do not request that they may obtain mercy, and do not approach me on their behalf, since I will not listen to them in the time wherein they shall have invoked me, in the time of their affliction.\"",
+    "source_title": "ON PURITY 2",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
+   },
+   {
+    "entry_id": "tertullian.Jer.7.23-26.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Jeremiah 7:23-26",
+     "osis": [
+      "Jer.7.23"
+     ]
+    },
+    "quote": "In a manner most germane to this parable, He said by Jeremiah: \"Obey my voice, and I will be your God, and ye shall be my people; and ye shall walk in all my ways, which I have commanded you.\" This is the invitation of God. \"But,\" says He, \"they hearkened not, nor inclined their ear.\" This is the refusal of the people. \"They departed, and walked every one in the imagination of their evil heart.\" \"I have bought a field-and I have bought some oxen-and I have married a wife.\" And still He urges them: \"I have sent unto you all my servants the prophets, rising early even before day-light.\" The Holy Spirit is here meant, the admonisher of the guests. \"Yet my people hearkened not unto me, nor inclined their ear, but hardened their neck.\"",
+    "source_title": "The Five Books Against Marcion, Book 4",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
+   }
+  ],
+  "Joel": [
+   {
+    "entry_id": "tertullian.Joel.2.22.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Joel 2:22",
+     "osis": [
+      "Joel.2.22"
+     ]
+    },
+    "quote": "David said that \"the Lord would reign from the tree.\" Elsewhere too the prophet predicts the fruit of this tree, saying, \"The earth has given its blessings\"—of course that virgin earth, not yet irrigated with rains or fertilized by showers, out of which humanity was of old first formed, out of which now Christ through the flesh has been born of a virgin. \"And the tree bears its fruit\"—not that tree in paradise, which yielded death to the first humans, but the tree of the passion of Christ, whence life, hanging, you did not believe!",
+    "source_title": "ANSWER TO THE JEWS 12",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
+   },
+   {
+    "entry_id": "tertullian.Joel.2.28-29.0",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Joel 2:28-29",
+     "osis": [
+      "Joel.2.28"
+     ]
+    },
+    "quote": "You hold to the Scriptures in which the flesh is disparaged; receive also those in which it is ennobled. You read whatever passage abases it. Now direct your eyes also to that which elevates it. \"All flesh is grass.\" Well, but Isaiah was not content to say only this; he also declared, \"All flesh shall see the salvation of God.\" Then notice what God says in Genesis: \"My spirit shall not remain among these men, because they are flesh\"; but then he is also heard saying by Joel, \"I will pour out of my Spirit upon all flesh.\" Even the apostle ought not to be known for any one statement in which he is inclined to reproach the flesh. Admittedly he says that \"in his flesh dwells no good thing\" and \"they who are in the flesh cannot please God,\" because \"the flesh lusts against the Spirit.\" Yet in these and similar assertions that he makes, it is not the substance of the flesh, but its actions, which are censured. Moreover, we shall elsewhere take occasion to remark that no reproaches can fairly be cast upon the flesh without tending also to the castigation of the soul, which compels the flesh to do its bidding. However, let me meanwhile add that in the same passage Paul \"carries about in his body the marks of the Lord Jesus.\" He also forbids our body to be profaned, since it is \"the temple of God.\" He makes our bodies \"the members of Christ.\" And he exhorts us to exalt and \"glorify God in our body.\" If, therefore, the humiliations of the flesh do not prevent its resurrection, why wouldn't its high prerogatives avail to bringing it about? It better suits the character of God to restore to salvation what for a while he rejected, than to surrender to perditions what he once approved.",
+    "source_title": "ON THE RESURRECTION OF THE FLESH 10",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
+   },
+   {
+    "entry_id": "tertullian.Joel.2.28-29.1",
+    "author": "Tertullian",
+    "anchor_ref": {
+     "raw": "Joel 2:28-29",
+     "osis": [
+      "Joel.2.28"
+     ]
+    },
+    "quote": "We declare, then, that dreams are inflicted on us mainly by demons, although they sometimes turn out true and favorable to us. When, however, with the deliberate aim after evil, of which we have just spoken, they assume a flattering and captivating style, they show themselves proportionately vain, and deceitful, and obscure, and wanton, and impure. And no wonder that the images partake of the character of the realities. But from God—who has promised, indeed, \"to pour out the grace of the Holy Spirit upon all flesh, and has ordained that his servants and his handmaids should see visions as well as utter prophecies\"—must all those visions be regarded as emanating. [Those visions] may be compared with the actual grace of God, as being honest, holy, prophetic, inspired, instructive, inviting to virtue, the bountiful nature of which causes them to overflow even to the profane, since God, with grand impartiality, \"sends his showers and sunshine on the just and on the unjust.\"",
+    "source_title": "ON THE SOUL 47",
+    "source_url": "https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
+   }
+  ]
+ }
+}
