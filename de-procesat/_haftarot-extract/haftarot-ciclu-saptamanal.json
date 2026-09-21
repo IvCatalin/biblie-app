@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "3 capitole (din 54+2 planificate) · 3 complete la Standardul Davar",
+ "meta": "4 capitole (din 54+2 planificate) · 4 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -10426,6 +10426,4062 @@
       {
        "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
        "text": "„Vei vântura” — vânturat (compară Matei 3:12). „Vijelia... îi va risipi” — (Iov 27:21; Iov 30:22)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "title": "Haftarat Vaiera",
+   "ref": "Regi II 4:1-37",
+   "intro": "Haftara pentru parașat Vaiera. Notă structurală: sefarzii și comunitățile Chabad se opresc la 4:23, așkenazii continuă până la 4:37 — textul de mai jos urmează versiunea completă (așkenază), cu nota tradițională păstrată onest ca fapt istoric de tradiție, nu ca alegere editorială proprie. Povestea femeii șunamite (paralelă cu ospitalitatea lui Avraham față de îngeri din parașa omonimă) și minunea untdelemnului văduvei (paralelă tematică cu ospitalitatea săracă transformată în abundență).",
+   "verses": [
+    {
+     "v": "4:1",
+     "t": "Și o femeie dintre soțiile fiilor profeților a strigat către Elișa, spunând: „Slujitorul tău, soțul meu, a murit, și tu știi că slujitorul tău era temător de DOMNUL. Și creditorul a venit acum să-i ia pe cei doi copii ai mei să-i fie sclavi.”",
+     "heb": "וְאִשָּׁה אַחַת מִנְּשֵׁי בְנֵי־הַנְּבִיאִים צָעֲקָה אֶל־אֱלִישָׁע לֵאמֹר עַבְדְּךָ אִישִׁי מֵת וְאַתָּה יָדַעְתָּ כִּי עַבְדְּךָ הָיָה יָרֵא אֶת־יְהוָה וְהַנֹּשֶׁה בָּא לָקַחַת אֶת־שְׁנֵי יְלָדַי לוֹ לַעֲבָדִים",
+     "translit": "Veişa ahat minşēi venēi-haneviim ţaaka el-Elişa lēmor avdeha işi mēt veata iadata ki avdeha haia iarē et-ADONAI vehanoşe ba lakahat et-şenēi ieladai lo laavadim.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "o femeie dintre soțiile fiilor profeților",
+       "w": "o femeie dintre soțiile fiilor profeților",
+       "heb": "וְאִשָּׁה אַחַת מִנְּשֵׁי בְנֵי־הַנְּבִיאִים",
+       "translit": "veişa ahat minşēi venēi-haneviim",
+       "strong": "H1121",
+       "pos": "substantiv compus",
+       "def_ro": "o femeie dintre soțiile fiilor profeților.",
+       "dict_ro": "„Fiii profeților” (benēi hanevi'im) e termenul tehnic pentru ucenicii adunați în jurul lui Elisei și Ilie, un fel de „școli ale profeților” — Targumul lui Ionatan îl redă peste tot prin „ucenicii profeților”. Tradiția (Rashi, citând Midrașul Tanhuma, și Targumul) identifică femeia drept văduva lui Obadia, administratorul lui Ahab care a ascuns o sută de profeți în peșteri de furia Izabelei (1 Regi 18:4) — deși Obadia însuși nu era, propriu-zis, „fiu al profeților”."
+      },
+      {
+       "t": " a "
+      },
+      {
+       "t": "strigat",
+       "w": "strigat",
+       "heb": "צָעֲקָה",
+       "translit": "ţaaka",
+       "strong": "H6817",
+       "pos": "verb, qal perfect",
+       "def_ro": "a strigat (după ajutor)."
+      },
+      {
+       "t": " către "
+      },
+      {
+       "t": "Elișa",
+       "w": "Elișa",
+       "heb": "אֱלִישָׁע",
+       "translit": "Elişa",
+       "strong": "H477",
+       "pos": "substantiv propriu",
+       "def_ro": "Elisei."
+      },
+      {
+       "t": ", spunând: „"
+      },
+      {
+       "t": "Slujitorul tău, soțul meu, a murit",
+       "w": "Slujitorul tău, soțul meu, a murit",
+       "heb": "עַבְדְּךָ אִישִׁי מֵת",
+       "translit": "avdeha işi mēt",
+       "strong": "H5650",
+       "pos": "substantiv + substantiv + verb",
+       "def_ro": "slujitorul tău, soțul meu, a murit."
+      },
+      {
+       "t": ", și tu "
+      },
+      {
+       "t": "știi",
+       "w": "știi",
+       "heb": "יָדַעְתָּ",
+       "translit": "iadata",
+       "strong": "H3045",
+       "pos": "verb, qal perfect",
+       "def_ro": "ai știut/știi."
+      },
+      {
+       "t": " că slujitorul tău era "
+      },
+      {
+       "t": "temător de DOMNUL",
+       "w": "temător de DOMNUL",
+       "heb": "יָרֵא אֶת־יְהוָה",
+       "translit": "iarē et-ADONAI",
+       "strong": "H3373",
+       "pos": "adjectiv + substantiv propriu",
+       "def_ro": "cel ce se teme de DOMNUL — titlu folosit și pentru cei 7000 care nu și-au plecat genunchiul înaintea lui Baal (1 Regi 19:18)."
+      },
+      {
+       "t": ". Și "
+      },
+      {
+       "t": "creditorul",
+       "w": "creditorul",
+       "heb": "וְהַנֹּשֶׁה",
+       "translit": "vehanoşe",
+       "strong": "H5383",
+       "pos": "substantiv, qal participiu",
+       "def_ro": "cel ce dă cu împrumut, creditorul."
+      },
+      {
+       "t": " a "
+      },
+      {
+       "t": "venit",
+       "w": "venit",
+       "heb": "בָּא",
+       "translit": "ba",
+       "strong": "H935",
+       "pos": "verb, qal perfect",
+       "def_ro": "a venit."
+      },
+      {
+       "t": " acum să-i "
+      },
+      {
+       "t": "ia",
+       "w": "ia",
+       "heb": "לָקַחַת",
+       "translit": "lakahat",
+       "strong": "H3947",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să ia."
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "cei doi copii ai mei",
+       "w": "cei doi copii ai mei",
+       "heb": "אֶת־שְׁנֵי יְלָדַי",
+       "translit": "et-şenēi ieladai",
+       "strong": "H3206",
+       "pos": "substantiv compus",
+       "def_ro": "cei doi copii ai mei."
+      },
+      {
+       "t": " să-i fie "
+      },
+      {
+       "t": "sclavi",
+       "w": "sclavi",
+       "heb": "לַעֲבָדִים",
+       "translit": "laavadim",
+       "strong": "H5650",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "robi/sclavi.",
+       "dict_ro": "Legea ebraică (Exod 21:7; Levitic 25:39) îngăduia unui părinte sărac să-și vândă copiii pentru achitarea unei datorii — practica din spatele acestui verset nu era o cruzime izolată, ci o extensie legală recunoscută a dreptului creditorului asupra proprietății debitorului insolvabil."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאִשָּׁה אַחַת מִנְּשֵׁי בְנֵי־הַנְּבִיאִים צָעֲקָה אֶל־אֱלִישָׁע לֵאמֹר עַבְדְּךָ אִישִׁי מֵת וְאַתָּה יָדַעְתָּ כִּי עַבְדְּךָ הָיָה יָרֵא אֶת־יְהוָה וְהַנֹּשֶׁה בָּא לָקַחַת אֶת־שְׁנֵי יְלָדַי לוֹ לַעֲבָדִים",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ γυνὴ μία ἀπὸ τῶν υἱῶν τῶν προφητῶν ἐβόα πρὸς Ἐλεισαῖε λέγουσα Ὁ δοῦλός σου ὁ ἀνήρ μου ἀπέθανεν, καὶ σὺ ἔγνως ὅτι δοῦλος ἦν φοβούμενος τὸν κύριον.",
+       "greek": true,
+       "translation": "„Și o femeie dintre fiii profeților striga către Elisei, spunând: Slujitorul tău, bărbatul meu, a murit, și tu ai cunoscut că era slujitor temător de Domnul.”",
+       "note": "LXX omite partea finală a versetului despre creditor și cei doi copii, mutând-o (în unele ediții) ca propoziție separată; sensul general rămâne identic."
+      }
+     ],
+     "refs": [
+      "1 Regi 18:3-4",
+      "Exod 21:7",
+      "Levitic 25:39"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Dintre soțiile fiilor profeților” — era soția lui Obadia. Orice expresie „fiii profeților” din Scriptură, Targumul o traduce „ucenicii profeților”. „Iar creditorul” — acesta era Iehoram, fiul lui Ahab, care îl împrumuta cu dobândă pe ce hrănise el pe profeți în zilele tatălui său, după Midrașul Rabi Tanhuma; de aceea se spune mai jos (9:24) „și l-a lovit pe Iehoram între brațe” — cele pe care le întinsese ca să ia dobândă."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Înțelepții noștri, binecuvântată să le fie amintirea, au spus (Zohar Hadaș, Rut) că această femeie era soția lui Obadia, iar creditorul era Iehoram, fiul lui Ahab, care, pe când trăia Ahab, îi împrumutase bani cu dobândă ca să poată hrăni profeții. „Ca robi” — pentru datoria de bani."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Vehanoşe” — cel ce dă cu împrumut, ca „și omul căruia îi ești dator” (Deuteronom 24:11)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Aceasta, potrivit Targumului, era soția lui Obadia, care ascunsese cincizeci de profeți într-o peșteră în zilele lui Ahab; așa spune și Josephus, și e părerea îndeobște primită a scriitorilor evrei — deși nu reiese că el însuși ar fi fost profet sau fiu de profet, ci mai degrabă administratorul casei lui Ahab; văduva putea la fel de bine să fie soția unei persoane mai neînsemnate. De aici e limpede că profeții și ucenicii lor se căsătoreau."
+      },
+      {
+       "author": "Efrem Sirul, Comentariu la Cartea a Patra a Regilor",
+       "text": "Se spune că această femeie era soția lui Obadia, vistiernicul lui Ahab și ucenic tainic al lui Ilie, care scăpase o sută de profeți de furia Izabelei și-i hrănise când erau flămânzi. Se pare că în această privință i se încredințase aurul casei regale, dar după moartea lui soția lui a rămas cu o datorie uriașă de plătit stăpânilor lui."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Minunile lui Elisei erau spre folos, nu spre paradă; cea de aici e un act de milostenie adevărată. La fel erau și minunile lui Hristos: nu doar mari semne, ci mari binefaceri pentru cei pentru care se făceau. Dumnezeu Își arată bunătatea împreună cu puterea Sa."
+      }
+     ]
+    },
+    {
+     "v": "4:2",
+     "t": "Elișa i-a spus: „Ce pot face pentru tine? Spune-mi: ce ai în casă?” Ea a spus: „Slujnica ta nu are nimic în casă, în afară de un ulcior cu untdelemn.”",
+     "heb": "וַיֹּאמֶר אֵלֶיהָ אֱלִישָׁע מָה אֶעֱשֶׂה־לָּךְ הַגִּידִי לִי מַה־יֶּשׁ־לָךְ בַּבָּיִת וַתֹּאמֶר אֵין לְשִׁפְחָתְךָ כֹל בַּבַּיִת כִּי אִם־אָסוּךְ שָׁמֶן",
+     "translit": "Vaiomer ēleha Elişa ma eesē-lah haghidi li ma-ieş-lah babait vatomer ēin leşifhatha hol babait ki im-asuh şamen.",
+     "tokens": [
+      {
+       "t": "Elișa i-a spus: „"
+      },
+      {
+       "t": "Ce pot face pentru tine",
+       "w": "Ce pot face pentru tine",
+       "heb": "מָה אֶעֱשֶׂה־לָּךְ",
+       "translit": "ma eesē-lah",
+       "strong": "H6213",
+       "pos": "pronume + verb, qal imperfect",
+       "def_ro": "ce voi face pentru tine?"
+      },
+      {
+       "t": "? "
+      },
+      {
+       "t": "Spune-mi",
+       "w": "Spune-mi",
+       "heb": "הַגִּידִי לִי",
+       "translit": "haghidi li",
+       "strong": "H5046",
+       "pos": "verb, hifil imperativ",
+       "def_ro": "vestește-mi, spune-mi."
+      },
+      {
+       "t": ": "
+      },
+      {
+       "t": "ce ai în casă",
+       "w": "ce ai în casă",
+       "heb": "מַה־יֶּשׁ־לָךְ בַּבָּיִת",
+       "translit": "ma-ieş-lah babait",
+       "strong": "H3426",
+       "pos": "pronume + substantiv",
+       "def_ro": "ce ai în casă?"
+      },
+      {
+       "t": "?” Ea a spus: „"
+      },
+      {
+       "t": "Slujnica ta",
+       "w": "Slujnica ta",
+       "heb": "לְשִׁפְחָתְךָ",
+       "translit": "leşifhatha",
+       "strong": "H8198",
+       "pos": "substantiv + sufix",
+       "def_ro": "slujnicei tale — mod smerit al femeii de a vorbi despre sine."
+      },
+      {
+       "t": " nu are "
+      },
+      {
+       "t": "nimic în casă",
+       "w": "nimic în casă",
+       "heb": "אֵין ... כֹל בַּבַּיִת",
+       "translit": "ēin hol babait",
+       "strong": "H369",
+       "pos": "substantiv negat",
+       "def_ro": "nimic în casă."
+      },
+      {
+       "t": ", în afară de "
+      },
+      {
+       "t": "un ulcior cu untdelemn",
+       "w": "un ulcior cu untdelemn",
+       "heb": "אָסוּךְ שָׁמֶן",
+       "translit": "asuh şamen",
+       "strong": "H4610",
+       "pos": "substantiv compus",
+       "def_ro": "un vas mic pentru uns, cu untdelemn.",
+       "dict_ro": "„Asuch” apare o singură dată în tot Tanahul (hapax legomenon), aici — Rashi explică rădăcina din „sicha” (a unge), un vas suficient doar pentru puțin untdelemn de uns, nu pentru comerț; smerenia extremă a resursei subliniază caracterul cu totul miraculos al înmulțirii care urmează."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֵלֶיהָ אֱלִישָׁע מָה אֶעֱשֶׂה־לָּךְ הַגִּידִי לִי מַה־יֶּשׁ־לָךְ בַּבָּיִת וַתֹּאמֶר אֵין לְשִׁפְחָתְךָ כֹל בַּבַּיִת כִּי אִם־אָסוּךְ שָׁמֶן",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν Ἐλεισαῖε Τί ποιήσω σοι; τί ἔστιν σοι ἐν τῷ οἴκῳ; ἡ δὲ εἶπεν Οὐκ ἔστιν τῇ δούλῃ σου οὐθὲν ὅτι ἀλλ᾽ ἢ ὃ ἀλείψομαι ἔλαιον.",
+       "greek": true,
+       "translation": "„Și a zis Elisei: Ce-ți voi face? Ce ai în casă? Iar ea a zis: Roaba ta n-are nimic în casă, decât cu ce mă voi unge, untdelemn.”",
+       "note": "LXX nu redă „asuch” (vasul specific) printr-un substantiv concret, ci printr-o frază descriptivă, „cu ce mă voi unge” — arătând probabil că traducătorii greci nu mai recunoșteau cuvântul rar „asuch”, prezent o singură dată în tot textul ebraic."
+      }
+     ],
+     "refs": [
+      "Matei 25:1-9"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Ce ai” — ca binecuvântarea să se poată așeza pe el. „Nimic în casă” — nimic absolut."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Asuch” — numele vasului de untdelemn, numit așa de la faptul că din el se unge și se miruiește."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Sau ce pot face, el însuși fiind sărac și neputând s-o ajute din avutul lui, neștiind de unde să-i facă rost de ceva? Astfel arătând că-i plânge de milă starea, dar tot ce putea face era să-i dea cel mai bun sfat și să se roage pentru ea. „Spune-mi ce ai în casă” — ce ar putea da și folosi, ca să-și plătească datoria și să-și mulțumească creditorul."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Untdelemnul era folosit ca hrană, pentru ungerea trupului după scăldat, și pentru ungerea morților. Unii cred că acest vas de untdelemn era ceea ce văduva păstrase pentru înmormântarea ei — vezi Matei 26:12."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Un vas sau ulcior de untdelemn. Aceasta alcătuind tot avutul ei de vase casnice, el o îndrumă să împrumute vase goale nu puține; apoi, retrăgându-se cu copiii ei, [văduva] trebuia să toarne untdelemn din ulciorul ei în vasele împrumutate, și, vânzând untdelemnul, să-și achite datoria, apoi să se întrețină pe sine și familia ei cu ce rămânea."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Elisei primește cu bunăvoință plângerea unei sărace văduve. Era văduva unui profet; cui altcuiva ar fi trebuit deci să i se adreseze, dacă nu celui ce era ca un tată pentru fiii profeților și se îngrijea de bunăstarea familiilor lor? Se pare că profeții aveau soții, ca și preoții, deși profeția nu se moștenea ca preoția. Căsătoria e cinstită în toate, și nu e nepotrivită cu cele mai sfinte chemări."
+      }
+     ]
+    },
+    {
+     "v": "4:3",
+     "t": "Și el a spus: „Mergi și împrumută-ți vase de afară, de la toți vecinii tăi, vase goale; și nu [cere] puține.",
+     "heb": "וַיֹּאמֶר לְכִי שַׁאֲלִי־לָךְ כֵּלִים מִן־הַחוּץ מֵאֵת כָּל־שְׁכֵנָיִךְ כֵּלִים רֵקִים אַל־תַּמְעִיטִי",
+     "translit": "Vaiomer lehi şaali-lah kēlim min-hahuţ mēēt kol-şehēnaih kēlim rēkim al-tamiti.",
+     "tokens": [
+      {
+       "t": "Și el a spus: „"
+      },
+      {
+       "t": "Mergi",
+       "w": "Mergi",
+       "heb": "לְכִי",
+       "translit": "lehi",
+       "strong": "H1980",
+       "pos": "verb, qal imperativ, feminin",
+       "def_ro": "mergi, du-te."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "împrumută-ți",
+       "w": "împrumută-ți",
+       "heb": "שַׁאֲלִי־לָךְ",
+       "translit": "şaali-lah",
+       "strong": "H7592",
+       "pos": "verb, qal imperativ + sufix",
+       "def_ro": "cere-ți/împrumută-ți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vase de afară",
+       "w": "vase de afară",
+       "heb": "כֵּלִים מִן־הַחוּץ",
+       "translit": "kēlim min-hahuţ",
+       "strong": "H3627",
+       "pos": "substantiv + prepoziție",
+       "def_ro": "vase din afară."
+      },
+      {
+       "t": ", de la "
+      },
+      {
+       "t": "toți vecinii tăi",
+       "w": "toți vecinii tăi",
+       "heb": "כָּל־שְׁכֵנָיִךְ",
+       "translit": "kol-şehēnaih",
+       "strong": "H7934",
+       "pos": "substantiv, masculin plural + sufix",
+       "def_ro": "toți vecinii tăi."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "vase goale",
+       "w": "vase goale",
+       "heb": "כֵּלִים רֵקִים",
+       "translit": "kēlim rēkim",
+       "strong": "H7386",
+       "pos": "substantiv + adjectiv",
+       "def_ro": "vase goale."
+      },
+      {
+       "t": "; și nu [cere] "
+      },
+      {
+       "t": "puține",
+       "w": "puține",
+       "heb": "אַל־תַּמְעִיטִי",
+       "translit": "al-tamiti",
+       "strong": "H4591",
+       "pos": "verb, hifil imperfect negat",
+       "def_ro": "nu puțini/puține — nu împuțina numărul lor."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר לְכִי שַׁאֲלִי־לָךְ כֵּלִים מִן־הַחוּץ מֵאֵת כָּל־שכנכי [שְׁכֵנָיִךְ] כֵּלִים רֵקִים אַל־תַּמְעִיטִי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Textul consonantic scris („שכנכי”) diferă ușor de forma citită tradițional („שְׁכֵנָיִךְ”, vecinii tăi) — un exemplu obișnuit de kri/ktiv (formă scrisă/formă citită), fără schimbare de sens."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν πρὸς αὐτήν Δεῦρο αἴτησον σαυτῇ σκεύη ἔξωθεν παρὰ πάντων τῶν γειτόνων, σκεύη κενά· μὴ ὀλιγώσῃς.",
+       "greek": true,
+       "translation": "„Și i-a zis: Vino, cere-ți vase de afară, de la toți vecinii, vase goale; nu le împuțina.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„De afară” — de la oamenii din afara casei tale; iar spre mai multă lămurire a adăugat: de la toți vecinii tăi. „Nu împuțina” — nu cere puține, ci multe vase."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Căci [Elisei] și-a dat seama că ea n-avea niciunul: vase goale, pe care i le-ar fi împrumutat mai ușor; nu puține, ci cât mai multe putea căpăta — profetul, sub o îndemnare divină, a fost călăuzit să-i spună aceasta, prevăzând, printr-un duh de profeție, că i se va da o mare cantitate de untdelemn."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Untdelemnul era o marfă de mare preț la evrei; iar minunea consta tocmai în această înmulțire fără sfârșit — atâta cât erau vase de umplut, era și untdelemn de turnat."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Toate minunile descrise în această secțiune (2 Regi 4 - 8:6) țin de domnia lui Ioram, regele lui Israel; ele n-au fost istorisite în ordine cronologică strictă, ci grupate adesea după alt principiu de organizare a materialului."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Poate mulți dintre vecinii ei aveau vase de prisos, de care nu se foloseau; era o faptă bună din partea lor să le împrumute unei sărace văduve în strâmtorare, chiar dacă nu știau la ce anume aveau să-i folosească."
+      }
+     ]
+    },
+    {
+     "v": "4:4",
+     "t": "Apoi mergi și închide ușa în urma ta și în urma copiilor tăi; și toarnă în toate aceste vase, și pune deoparte orice [vas] plin.”",
+     "heb": "וּבָאת וְסָגַרְתְּ הַדֶּלֶת בַּעֲדֵךְ וּבְעַד־בָּנַיִךְ וְיָצַקְתְּ עַל כָּל־הַכֵּלִים הָאֵלֶּה וְהַמָּלֵא תַּסִּיעִי",
+     "translit": "Uvaat vesagart hadelet baadēh uvead-banaih veiaţakt al kol-hakēlim haēle vehamalē tasii.",
+     "tokens": [
+      {
+       "t": "Apoi "
+      },
+      {
+       "t": "mergi",
+       "w": "mergi",
+       "heb": "וּבָאת",
+       "translit": "uvaat",
+       "strong": "H935",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vei veni/vei intra."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "închide ușa",
+       "w": "închide ușa",
+       "heb": "וְסָגַרְתְּ הַדֶּלֶת",
+       "translit": "vesagart hadelet",
+       "strong": "H5462",
+       "pos": "verb, qal perfect + substantiv",
+       "def_ro": "și vei închide ușa.",
+       "dict_ro": "Rashi notează: e o cinste adusă minunii ca ea să se petreacă în taină, ferită de priviri — modelul discreției care revine și la alte minuni biblice (2 Regi 4:33, ușa închisă de Elisei la învierea copilului)."
+      },
+      {
+       "t": " în urma ta și în urma "
+      },
+      {
+       "t": "copiilor tăi",
+       "w": "copiilor tăi",
+       "heb": "בָּנַיִךְ",
+       "translit": "banaih",
+       "strong": "H1121",
+       "pos": "substantiv + sufix",
+       "def_ro": "fiii tăi."
+      },
+      {
+       "t": "; și "
+      },
+      {
+       "t": "toarnă",
+       "w": "toarnă",
+       "heb": "וְיָצַקְתְּ",
+       "translit": "veiaţakt",
+       "strong": "H3332",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vei turna."
+      },
+      {
+       "t": " în toate "
+      },
+      {
+       "t": "aceste vase",
+       "w": "aceste vase",
+       "heb": "כָּל־הַכֵּלִים הָאֵלֶּה",
+       "translit": "kol-hakēlim haēle",
+       "strong": "H3627",
+       "pos": "substantiv compus",
+       "def_ro": "toate aceste vase."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "pune deoparte",
+       "w": "pune deoparte",
+       "heb": "תַּסִּיעִי",
+       "translit": "tasii",
+       "strong": "H5265",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "vei muta/vei da la o parte."
+      },
+      {
+       "t": " orice [vas] "
+      },
+      {
+       "t": "plin",
+       "w": "plin",
+       "heb": "וְהַמָּלֵא",
+       "translit": "vehamalē",
+       "strong": "H4392",
+       "pos": "adjectiv, masculin",
+       "def_ro": "cel plin."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּבָאת וְסָגַרְתְּ הַדֶּלֶת בַּעֲדֵךְ וּבְעַד־בָּנַיִךְ וְיָצַקְתְּ עַל כָּל־הַכֵּלִים הָאֵלֶּה וְהַמָּלֵא תַּסִּיעִי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἰσελεύσῃ καὶ ἀποκλείσεις τὴν θύραν κατὰ σοῦ καὶ κατὰ τῶν υἱῶν σου, καὶ ἀποχεεῖς εἰς τὰ σκεύη ταῦτα.",
+       "greek": true,
+       "translation": "„Și vei intra, și vei încuia ușa după tine și după fiii tăi, și vei turna în aceste vase.”",
+       "note": "LXX nu redă separat porunca „pune deoparte vasul plin” — ideea rămâne implicită în continuarea narațiunii, nu enunțată explicit ca poruncă distinctă."
+      }
+     ],
+     "refs": [
+      "2 Regi 4:33"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și închide ușa” — e o cinste a minunii să vină în taină. „Și vasul plin să-l dai la o parte” — dinaintea ta, și să pui alt vas în locul lui ca să-l umpli, dar ulciorul de untdelemn să nu-l urnești din locul lui, căci Cel Sfânt, binecuvântat fie El, îl face ca pe un izvor, și nu-i obiceiul să miști un izvor din locul lui — am auzit acest Midraș Agada."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și vasul plin” — vasul pe care-l vei umple, dă-l la o parte din locul lui, ca să pui altul în locul lui, dar ulciorul să nu-l urnești din loc, fiindcă ulciorul s-a făcut ca un izvor, și nu-i obiceiul izvorului să se urnească."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Baadēh” — împotriva/în dreptul tău. „Tasii” — vei smulge din locul ei."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Ca să fie singuri în casă cât timp lucra minunea; ca să nu fie întrerupți în ce aveau de făcut de venirea creditorului peste ei, sau de vecini, care ar fi vrut să ia untdelemnul din vasele pe care li le-ar fi împrumutat; și ca minunea să apară mai limpede, nefiind adus în casă niciun untdelemn de nimeni."
+      },
+      {
+       "author": "Efrem Sirul, Comentariu la Cartea a Patra a Regilor",
+       "text": "Aici Scriptura istorisește cealaltă minune pe care Elisei a făcut-o ca s-o ajute pe văduvă. A făcut să curgă în vase atâta untdelemn cât să plătească datoria bărbatului ei, și l-a înmulțit din belșug pentru hrana copiilor ei. Din punct de vedere simbolic trebuie observate trei lucruri aici: mai întâi, se spune că văduva a umplut vasele vecinilor ei cu un untdelemn țâșnit în casa ei printr-un dar al lui Dumnezeu, căci sfânta Biserică seamănă cu văduva."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Untdelemnul alcătuind tot avutul ei de vase casnice, [Elisei] o îndrumă să împrumute vase goale, nu puține; apoi, retrăgându-se cu copiii ei, [văduva] trebuia să toarne untdelemn din ulciorul ei în vasele împrumutate."
+      }
+     ]
+    },
+    {
+     "v": "4:5",
+     "t": "Ea a plecat de la el și a închis ușa în urma ei și în urma copiilor ei. Ei i-au adus [vase] și ea a turnat.",
+     "heb": "וַתֵּלֶךְ מֵאִתּוֹ וַתִּסְגֹּר הַדֶּלֶת בַּעֲדָהּ וּבְעַד בָּנֶיהָ הֵם מַגִּישִׁים אֵלֶיהָ וְהִיא מוֹצָקֶת",
+     "translit": "Vatēleh mēito vatisgor hadelet baada uvead baneha hēm maghişim ēleha vehi moţaket.",
+     "tokens": [
+      {
+       "t": "Ea a "
+      },
+      {
+       "t": "plecat de la el",
+       "w": "plecat de la el",
+       "heb": "וַתֵּלֶךְ מֵאִתּוֹ",
+       "translit": "vatēleh mēito",
+       "strong": "H1980",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a plecat de la el."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "închis ușa",
+       "w": "închis ușa",
+       "heb": "וַתִּסְגֹּר הַדֶּלֶת",
+       "translit": "vatisgor hadelet",
+       "strong": "H5462",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "a închis ușa."
+      },
+      {
+       "t": " în urma ei și în urma "
+      },
+      {
+       "t": "copiilor ei",
+       "w": "copiilor ei",
+       "heb": "בָּנֶיהָ",
+       "translit": "baneha",
+       "strong": "H1121",
+       "pos": "substantiv + sufix",
+       "def_ro": "fiii ei."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Ei i-au adus",
+       "w": "Ei i-au adus",
+       "heb": "הֵם מַגִּישִׁים אֵלֶיהָ",
+       "translit": "hēm maghişim ēleha",
+       "strong": "H5066",
+       "pos": "pronume + verb, hifil participiu",
+       "def_ro": "ei îi aduceau [vasele]."
+      },
+      {
+       "t": " [vase] și ea a "
+      },
+      {
+       "t": "turnat",
+       "w": "turnat",
+       "heb": "מוֹצָקֶת",
+       "translit": "moţaket",
+       "strong": "H3332",
+       "pos": "verb, hifil participiu",
+       "def_ro": "turna."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֵּלֶךְ מֵאִתּוֹ וַתִּסְגֹּר הַדֶּלֶת בַּעֲדָהּ וּבְעַד בָּנֶיהָ הֵם מַגִּשִׁים אֵלֶיהָ וְהִיא מיצקת [מוֹצָקֶת]",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Din nou un caz de kri/ktiv la ultimul cuvânt („מיצקת” scris, „מוֹצָקֶת” citit), fără schimbare de sens — formă participială a verbului „a turna”."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπῆλθεν παρ᾽ αὐτοῦ, καὶ ἀπέκλεισεν τὴν θύραν κατ᾽ αὐτῆς καὶ κατὰ τῶν υἱῶν αὐτῆς· αὐτοὶ προσήγγιζον πρὸς αὐτήν.",
+       "greek": true,
+       "translation": "„Și a plecat de la el, și a încuiat ușa după ea și după fiii ei; ei se apropiau de ea.”",
+       "note": "LXX nu redă explicit acțiunea de turnare a untdelemnului la finalul versetului — se subînțelege din contextul imediat următor."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Ei i-au adus” — vasele."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Îi aduc” — vasele goale, căci ea nu se mișcase din locul ei cu ulciorul."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și a făcut cum o sfătuise profetul, împrumutând multe vase goale de la vecinii ei, având credință în ce-i spusese profetul: a închis ușa în urma ei și a fiilor ei, apoi s-a apucat de lucru cum i se poruncise, împreună cu fiii ei — cei ce i-au adus vasele fiind cele goale pe care le împrumutase, iar ea turnând untdelemnul din ulciorul ei în ele."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Ascultarea ei promptă și fără îndoială de porunca profetului, chiar înainte de a vedea vreun semn al minunii, e ea însăși o mărturie despre credința pe care cuvântul lui Elisei o inspira în tot poporul."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Observă credința ei ascultătoare: nu a pus la îndoială cum ar putea puținul ei untdelemn să umple atâtea vase împrumutate, ci a făcut întocmai cum i s-a poruncit, lăsând urmarea în seama lui Dumnezeu, prin cuvântul profetului Său."
+      }
+     ]
+    },
+    {
+     "v": "4:6",
+     "t": "Când toate vasele erau pline, ea i-a spus fiului ei: „Adu-mi alt vas!” El i-a spus: „Nu mai este niciun vas.” Și untdelemnul s-a oprit [să mai curgă].",
+     "heb": "וַיְהִי כִּמְלֹאת הַכֵּלִים וַתֹּאמֶר אֶל־בְּנָהּ הַגִּישָׁה אֵלַי עוֹד כֶּלִי וַיֹּאמֶר אֵלֶיהָ אֵין עוֹד כֶּלִי וַיַּעֲמֹד הַשָּׁמֶן",
+     "translit": "Vaiehi kimlot hakēlim vatomer el-bena haghişa ēlai od keli vaiomer ēleha ēin od keli vaiaamod haşamen.",
+     "tokens": [
+      {
+       "t": "Când "
+      },
+      {
+       "t": "toate vasele erau pline",
+       "w": "toate vasele erau pline",
+       "heb": "כִּמְלֹאת הַכֵּלִים",
+       "translit": "kimlot hakēlim",
+       "strong": "H4390",
+       "pos": "verb, qal infinitiv + substantiv",
+       "def_ro": "la umplerea vaselor."
+      },
+      {
+       "t": ", ea i-a spus fiului ei: „"
+      },
+      {
+       "t": "Adu-mi",
+       "w": "Adu-mi",
+       "heb": "הַגִּישָׁה אֵלַי",
+       "translit": "haghişa ēlai",
+       "strong": "H5066",
+       "pos": "verb, hifil imperativ",
+       "def_ro": "adu-mi, apropie-mi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "alt vas",
+       "w": "alt vas",
+       "heb": "עוֹד כֶּלִי",
+       "translit": "od keli",
+       "strong": "H3627",
+       "pos": "adverb + substantiv",
+       "def_ro": "încă un vas."
+      },
+      {
+       "t": "!” El i-a spus: „"
+      },
+      {
+       "t": "Nu mai este niciun vas",
+       "w": "Nu mai este niciun vas",
+       "heb": "אֵין עוֹד כֶּלִי",
+       "translit": "ēin od keli",
+       "strong": "H369",
+       "pos": "substantiv negat",
+       "def_ro": "nu mai e niciun vas."
+      },
+      {
+       "t": ".” Și "
+      },
+      {
+       "t": "untdelemnul s-a oprit",
+       "w": "untdelemnul s-a oprit",
+       "heb": "וַיַּעֲמֹד הַשָּׁמֶן",
+       "translit": "vaiaamod haşamen",
+       "strong": "H5975",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "și untdelemnul s-a oprit [din curs]."
+      },
+      {
+       "t": " [să mai curgă]."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי כִּמְלֹאת הַכֵּלִים וַתֹּאמֶר אֶל־בְּנָהּ הַגִּישָׁה אֵלַי עוֹד כֶּלִי וַיֹּאמֶר אֵלֶיהָ אֵין עוֹד כֶּלִי וַיַּעֲמֹד הַשָּׁמֶן",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν πρὸς τοὺς υἱοὺς αὐτῆς Ἐγγίσατε ἔτι πρὸς μὲ τὸ σκεῦος· καὶ εἶπον αὐτῇ Οὐκ ἔστιν ἔτι σκεῦος· καὶ ἔστη τὸ ἔλαιον.",
+       "greek": true,
+       "translation": "„Și a zis către fiii ei: Apropiați-mi încă un vas; și i-au zis: Nu mai e niciun vas; și untdelemnul s-a oprit.”",
+       "note": "LXX pune porunca la plural („fiilor ei”), pe când TM o adresează unui singur fiu — o mică diferență de număr, fără schimbare de sens general."
+      }
+     ],
+     "refs": [
+      "Matei 25:1-9",
+      "1 Ioan 2:20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și untdelemnul s-a oprit” — din a mai curge. [După] Midrașul Agada, prețul untdelemnului a crescut (Bereșit Rabah 35:3)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Vasele” — pe care le împrumutase. „I-a adus” ș.a.m.d. — căci ea nu știa că toate se umpluseră deja. „Și untdelemnul s-a oprit” — nu s-a mai vărsat."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Căci untdelemnul, înmulțindu-se minunat pe măsură ce era turnat, a fost de-ajuns cât să umple toate vasele; Ben Ghersom și Abarbinel spun că, atunci când ulciorul se golea, tot aerul care intra în el se prefăcea în untdelemn. Acest untdelemn poate fi o icoană a harului care curge din plinătatea lui în Hristos, cu care e comparat, și care va curge mereu cât timp există un vas al mântuirii, sau credință la cineva ca să-l primească."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Cât timp era un vas de umplut, era și untdelemn de ajuns; el a încetat să curgă doar când n-a mai fost niciun vas să-l primească. Aceasta e o bună icoană a harului lui Dumnezeu: cât timp există o inimă goală, care tânjește, există un izvor neîncetat, revărsat, de mântuire."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Untdelemnul nu s-a oprit fiindcă s-ar fi sfârșit, ci fiindcă nu mai era niciun vas gol care să-l primească — Dumnezeu dă după măsura credinței și a pregătirii noastre de a primi, nu după vreo limită a bunătății Lui, care e fără de sfârșit."
+      }
+     ]
+    },
+    {
+     "v": "4:7",
+     "t": "Ea a venit și i-a spus omului lui Dumnezeu și el a spus: „Mergi și vinde untdelemnul și plătește-ți creditorii și trăiește, tu și copiii tăi, din ce rămâne.”",
+     "heb": "וַתָּבֹא וַתַּגֵּד לְאִישׁ הָאֱלֹהִים וַיֹּאמֶר לְכִי מִכְרִי אֶת־הַשֶּׁמֶן וְשַׁלְּמִי אֶת־נִשְׁיֵךְ וְאַתְּ וּבָנַיִךְ תִחְיִי בַּנּוֹתָר",
+     "translit": "Vatavo vataghēd leiş ha'Elohim vaiomer lehi mihri et-haşemen veşalemi et-nişiēh veat uvanaih tihii banotar.",
+     "tokens": [
+      {
+       "t": "Ea a venit și i-a spus omului lui Dumnezeu",
+       "w": "Ea a venit și i-a spus omului lui Dumnezeu",
+       "heb": "וַתָּבֹא וַתַּגֵּד לְאִישׁ הָאֱלֹהִים",
+       "translit": "vatavo vataghēd leiş ha'Elohim",
+       "strong": "H935",
+       "pos": "verb + verb + substantiv compus",
+       "def_ro": "a venit și a vestit omului lui Dumnezeu.",
+       "dict_ro": "Rashi explică sensul narativ implicit: femeia a venit să ceară sfat, nu doar să anunțe faptul împlinit — nedumerită dacă să vândă untdelemnul imediat sau să aștepte să se scumpească și mai mult."
+      },
+      {
+       "t": " și el a spus: „"
+      },
+      {
+       "t": "Mergi",
+       "w": "Mergi",
+       "heb": "לְכִי",
+       "translit": "lehi",
+       "strong": "H1980",
+       "pos": "verb, qal imperativ",
+       "def_ro": "mergi, du-te."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "vinde untdelemnul",
+       "w": "vinde untdelemnul",
+       "heb": "מִכְרִי אֶת־הַשֶּׁמֶן",
+       "translit": "mihri et-haşemen",
+       "strong": "H4376",
+       "pos": "verb, qal imperativ + substantiv",
+       "def_ro": "vinde untdelemnul."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "plătește-ți creditorii",
+       "w": "plătește-ți creditorii",
+       "heb": "וְשַׁלְּמִי אֶת־נִשְׁיֵךְ",
+       "translit": "veşalemi et-nişiēh",
+       "strong": "H7999",
+       "pos": "verb, piel imperativ + substantiv",
+       "def_ro": "achită-ți datoria."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "trăiește, tu și copiii tăi",
+       "w": "trăiește, tu și copiii tăi",
+       "heb": "וְאַתְּ וּבָנַיִךְ תִחְיִי",
+       "translit": "veat uvanaih tihii",
+       "strong": "H2421",
+       "pos": "pronume + substantiv + verb",
+       "def_ro": "iar tu și fiii tăi veți trăi."
+      },
+      {
+       "t": ", din "
+      },
+      {
+       "t": "ce rămâne",
+       "w": "ce rămâne",
+       "heb": "בַּנּוֹתָר",
+       "translit": "banotar",
+       "strong": "H3498",
+       "pos": "substantiv, nifal participiu",
+       "def_ro": "din rămășiță/din ce prisosește."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתָּבֹא וַתַּגֵּד לְאִישׁ הָאֱלֹהִים וַיֹּאמֶר לְכִי מִכְרִי אֶת־הַשֶּׁמֶן וְשַׁלְּמִי אֶת־נִשְׁיֵךְ וְאַתְּ וּבָנַיִךְ תִחְיִי בַּנּוֹתָר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἦλθεν καὶ ἀπήγγειλεν τῷ ἀνθρώπῳ τοῦ θεοῦ· καὶ εἶπεν Ἐλεισαῖε Δεῦρο καὶ ἀπόδου τὸ ἔλαιον.",
+       "greek": true,
+       "translation": "„Și a venit și a vestit omului lui Dumnezeu; și a zis Elisei: Vino și vinde untdelemnul.”",
+       "note": "LXX prescurtează finalul versetului, omițând explicit „achită-ți datoria” și „tu și copiii tăi veți trăi din ce rămâne” — idei păstrate doar implicit, din context."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„A venit și a spus etc.” — a venit să ceară sfat, dacă să vândă ori să aștepte să se scumpească și mai mult. El i-a spus: „Mergi, vinde, căci e de-ajuns pentru toată datoria ta, și să trăiești tu și fiii tăi din rămășiță, până vor învia morții” [Malbim adaugă: i-a binecuvântat cu viață veșnică, adică viață până la Învierea Morților]."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Din rămășiță” — din prețul untdelemnului, după plata datoriei."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Nişiēh” — datoria ta."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Ceea ce se produsese astfel în chip minunat era, fără îndoială, foarte bun și de calitate, și avea să aducă un preț bun; de aceea i se spune să-l prefacă în bani și să-și plătească datoriile cu ei; nu trebuia să-l țină tot pentru folosul ei și să se dedea luxului cu el, ci întâi să-și plătească datoria dreaptă, cum ar trebui să facă oricine e în stare."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "[Elisei] nu se răstește împotriva cruzimii acestui creditor, fiindcă legea și obiceiul țării îi dădeau autoritatea pe care o exercita; mai degrabă decât să lase o văduvă săracă și cinstită să-și vadă copiii vânduți, sau chiar ca un filistean care dăduse credit unui israelit adevărat să sufere pagubă, [Elisei] a făcut o minune ca să plătească o datorie pe care, în cursul providenței, ea n-o putea achita."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Așa se pare că era de-ajuns untdelemnul nu doar pentru plata datoriei, ci și pentru scăparea ei de necazuri, și mai rămânea și pentru întreținerea ei și a copiilor ei — Dumnezeu dă întotdeauna mai mult decât e strict necesar, spre slava belșugului harului Său."
+      }
+     ]
+    },
+    {
+     "v": "4:8",
+     "t": "Și a fost într-o zi că Elișa a călătorit spre Șunem. Și acolo era o femeie de vază care a stăruit să ia masa [la ea]; așa că de fiecare dată când trecea [pe acolo], el se abătea să mănânce o masă.",
+     "heb": "וַיְהִי הַיּוֹם וַיַּעֲבֹר אֱלִישָׁע אֶל־שׁוּנֵם וְשָׁם אִשָּׁה גְדוֹלָה וַתַּחֲזֶק־בּוֹ לֶאֱכָל־לָחֶם וַיְהִי מִדֵּי עָבְרוֹ יָסֻר שָׁמָּה לֶאֱכָל־לָחֶם",
+     "translit": "Vaiehi haiom vaiaavor Elişa el-Şunēm veşam işa ghedola vatahazek-bo leehol-lahem vaiehi midēi ovro iasur şama leehol-lahem.",
+     "tokens": [
+      {
+       "t": "Și a fost într-o zi",
+       "w": "Și a fost într-o zi",
+       "heb": "וַיְהִי הַיּוֹם",
+       "translit": "vaiehi haiom",
+       "strong": "H3117",
+       "pos": "verb + substantiv",
+       "def_ro": "și a fost ziua/într-o zi."
+      },
+      {
+       "t": " că "
+      },
+      {
+       "t": "Elișa a călătorit spre Șunem",
+       "w": "Elișa a călătorit spre Șunem",
+       "heb": "וַיַּעֲבֹר אֱלִישָׁע אֶל־שׁוּנֵם",
+       "translit": "vaiaavor Elişa el-Şunēm",
+       "strong": "H5674",
+       "pos": "verb, qal imperfect consecutiv + substantiv propriu",
+       "def_ro": "și Elisei a trecut spre Șunem — cetate din teritoriul lui Isahar (Iosua 19:18)."
+      },
+      {
+       "t": ". Și acolo era "
+      },
+      {
+       "t": "o femeie de vază",
+       "w": "o femeie de vază",
+       "heb": "אִשָּׁה גְדוֹלָה",
+       "translit": "işa ghedola",
+       "strong": "H1419",
+       "pos": "substantiv + adjectiv",
+       "def_ro": "o femeie mare/însemnată — de avere, ospitalitate și evlavie.",
+       "dict_ro": "Rashi menționează o tradiție din Pirkei de-Rabi Eliezer (cap. 23): femeia șunamită ar fi fost sora Abișagăi șunamita (1 Regi 1:1-4) — și, potrivit lui Radak, chiar mama profetului Ido (1 Regi 13:1)."
+      },
+      {
+       "t": " care "
+      },
+      {
+       "t": "a stăruit să ia masa",
+       "w": "a stăruit să ia masa",
+       "heb": "וַתַּחֲזֶק־בּוֹ לֶאֱכָל־לָחֶם",
+       "translit": "vatahazek-bo leehol-lahem",
+       "strong": "H2388",
+       "pos": "verb, hifil imperfect consecutiv + verb",
+       "def_ro": "l-a silit/stăruit să mănânce pâine."
+      },
+      {
+       "t": " [la ea]; așa că "
+      },
+      {
+       "t": "de fiecare dată când trecea",
+       "w": "de fiecare dată când trecea",
+       "heb": "מִדֵּי עָבְרוֹ",
+       "translit": "midēi ovro",
+       "strong": "H5674",
+       "pos": "substantiv + verb, infinitiv construct",
+       "def_ro": "de câte ori trecea."
+      },
+      {
+       "t": " [pe acolo], el se "
+      },
+      {
+       "t": "abătea să mănânce o masă",
+       "w": "abătea să mănânce o masă",
+       "heb": "יָסֻר שָׁמָּה לֶאֱכָל־לָחֶם",
+       "translit": "iasur şama leehol-lahem",
+       "strong": "H5493",
+       "pos": "verb, qal imperfect",
+       "def_ro": "se abătea acolo să mănânce pâine."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי הַיּוֹם וַיַּעֲבֹר אֱלִישָׁע אֶל־שׁוּנֵם וְשָׁם אִשָּׁה גְדוֹלָה וַתַּחֲזֶק־בּוֹ לֶאֱכָל־לָחֶם וַיְהִי מִדֵּי עָבְרוֹ יָסֻר שָׁמָּה לֶאֱכָל־לָחֶם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἐγένετο ἡμέρα καὶ διέβη Ἐλεισαῖε εἰς Σουμάν, καὶ ἐκεῖ γυνὴ μεγάλη.",
+       "greek": true,
+       "translation": "„Și a fost o zi, și a trecut Elisei în Suman, și acolo o femeie mare.”",
+       "note": "LXX transliterează numele „Șunem” ca „Suman”, iar restul versetului (stăruința femeii, obiceiul repetat al lui Elisei) e prescurtat, dedus din versetele următoare."
+      }
+     ],
+     "refs": [
+      "Iosua 19:18",
+      "1 Regi 1:1-4",
+      "1 Regi 13:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și a fost ziua” — vrea să spună: a venit ziua în care Elisei a trecut spre Șunem. „O femeie de vază” — o femeie însemnată. „Și de câte ori trecea” — din ziua aceea încolo, de câte ori trecea etc."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "O cetate din tribul lui Isahar (Iosua 19:18); acolo era o femeie de mare avere și bogăție, de mare bunăvoință și ospitalitate, și de mare har și evlavie — care se temea de păcat, parafrazează Targumul; o femeie de mare credit și reputație în toate privințele. Evreii spun că era sora Abișagăi șunamita și mama profetului Ido."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Această cetate era în tribul lui Isahar, la sud de pârâul Chison, la poalele muntelui Tabor. „O femeie de vază” — în Pirkei Rabi Eliezer, se spune că această femeie era sora Abișagăi șunamita, bine cunoscută din istoria lui David."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Pe când Elisei mergea într-o zi (literal, „ziua”, adică pe atunci) spre Șunem (Solam, la poalele de sud-vest ale Micului Hermon), o femeie bogată (ghedola, ca la 1 Samuel 25:2) l-a silit să mănânce în casa ei; de atunci, de câte ori trecea prin acel loc în călătoriile lui ulterioare, dinspre Carmel spre Izreel și înapoi, obișnuia să treacă pe la ea."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Lucrurile stăteau destul de rău în Israel, dar nu chiar atât de rău încât profetul lui Dumnezeu să nu găsească prieteni oriunde mergea. Șunem era o cetate din tribul lui Isahar, aflată pe drumul dintre Samaria și Carmel, drum pe care Elisei îl străbătea des."
+      },
+      {
+       "author": "Efrem Sirul, Comentariu la Cartea a Patra a Regilor",
+       "text": "S-a întâmplat, în zilele următoare, ca Elisei să ajungă la Șunem și să treacă pe acolo. După înălțarea lui Ilie, Elisei i-a luat locul și a fost rânduit căpetenie și supraveghetor al fiilor profeților; îndatorirea chemării lui îl obliga să le viziteze locuințele din Betel, Ierihon și de-a lungul Iordanului. Fiindcă drumul drept al călătoriei lui îl silea să treacă prin satul Șunem, din când în când făcea un ocol până la casa șunamitei, fiindcă ea era..."
+      }
+     ]
+    },
+    {
+     "v": "4:9",
+     "t": "Ea i-a spus soțului ei: „Iată, acum știu că el este omul lui Dumnezeu, sfânt, acela care trece regulat pe la noi.",
+     "heb": "וַתֹּאמֶר אֶל־אִישָׁהּ הִנֵּה־נָא יָדַעְתִּי כִּי אִישׁ אֱלֹהִים קָדוֹשׁ הוּא עֹבֵר עָלֵינוּ תָּמִיד",
+     "translit": "Vatomer el-işa hinē-na iadati ki iş Elohim kadoş hu ovēr alēinu tamid.",
+     "tokens": [
+      {
+       "t": "Ea i-a spus soțului ei",
+       "w": "Ea i-a spus soțului ei",
+       "heb": "וַתֹּאמֶר אֶל־אִישָׁהּ",
+       "translit": "vatomer el-işa",
+       "strong": "H559",
+       "pos": "verb + substantiv + sufix",
+       "def_ro": "i-a spus soțului ei — nevrând să facă nimic fără voia și încuviințarea lui."
+      },
+      {
+       "t": ": „Iată, acum "
+      },
+      {
+       "t": "știu",
+       "w": "știu",
+       "heb": "יָדַעְתִּי",
+       "translit": "iadati",
+       "strong": "H3045",
+       "pos": "verb, qal perfect",
+       "def_ro": "am cunoscut/știu.",
+       "dict_ro": "Talmudul Babilonian (Berahot 10b) folosește exact acest verset pentru a stabili o regulă: „Rabi Yosei, fiul lui Rabi Hanina, a spus: de aici [se vede] că femeia recunoaște oaspeții mai bine decât bărbatul” — femeia șunamită a sesizat sfințenia lui Elisei înaintea propriului soț."
+      },
+      {
+       "t": " că el este "
+      },
+      {
+       "t": "omul lui Dumnezeu, sfânt",
+       "w": "omul lui Dumnezeu, sfânt",
+       "heb": "אִישׁ אֱלֹהִים קָדוֹשׁ הוּא",
+       "translit": "iş Elohim kadoş hu",
+       "strong": "H430",
+       "pos": "substantiv compus + adjectiv",
+       "def_ro": "om al lui Dumnezeu, sfânt este el."
+      },
+      {
+       "t": ", acela care "
+      },
+      {
+       "t": "trece regulat pe la noi",
+       "w": "trece regulat pe la noi",
+       "heb": "עֹבֵר עָלֵינוּ תָּמִיד",
+       "translit": "ovēr alēinu tamid",
+       "strong": "H8548",
+       "pos": "verb, qal participiu + adverb",
+       "def_ro": "trece pe la noi întotdeauna."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֹּאמֶר אֶל־אִישָׁהּ הִנֵּה־נָא יָדַעְתִּי כִּי אִישׁ אֱלֹהִים קָדוֹשׁ הוּא עֹבֵר עָלֵינוּ תָּמִיד",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ἡ γυνὴ πρὸς τὸν ἄνδρα αὐτῆς Ἰδοὺ δὴ ἔγνων ὅτι ἄνθρωπος τοῦ θεοῦ ἅγιος οὗτος.",
+       "greek": true,
+       "translation": "„Și a zis femeia către bărbatul ei: Iată, am cunoscut că omul acesta al lui Dumnezeu e sfânt.”",
+       "note": "LXX omite finalul „care trece regulat pe la noi”, prezent explicit în TM; ideea se subînțelege din context."
+      }
+     ],
+     "refs": [
+      "Talmud Bavli, Berahot 10b"
+     ],
+     "commentaries": [
+      {
+       "author": "Talmud Bavli, Berahot 10b",
+       "text": "„Și a zis către bărbatul ei: Iată, acum știu că el e om al lui Dumnezeu, sfânt, acela care trece regulat pe la noi” (2 Regi 4:9) — Rabi Yosei, fiul lui Rabi Hanina, a spus: de aici [se învață] că, în cazul șunamitei, care a sesizat măreția profetului înaintea soțului ei, femeia recunoaște firea oaspeților mai bine decât bărbatul."
+      },
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Iată, acum știu” — pentru că [ea] nu a văzut niciodată o muscă pe masa lui, nici sămânță pe cearșaful lui."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Recunosc despre el că e un om sfânt, și nu se cuvine să stea la masă cu noi; și au spus înțelepții noștri, binecuvântată să le fie amintirea (Berahot 12): femeia recunoaște oaspeții mai bine decât bărbatul. „Care trece” — chiar el trece pe la noi mereu, de câte ori vine aici, și cum să stea de atâtea ori cu noi la masă [ca un oaspete obișnuit]?"
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Işa” — soțul ei."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Nevrând să facă nimic fără îngăduința și încuviințarea soțului ei: „iată, acum știu că acesta e un om sfânt al lui Dumnezeu, care trece pe la noi mereu” — și vine des pe aici; aceasta a sesizat-o din vorbirea și purtarea lui, din felul lui de a fi, care arăta a fi un profet, unul foarte însemnat pentru sfințenie și evlavie."
+      }
+     ]
+    },
+    {
+     "v": "4:10",
+     "t": "Să-i facem o odaie în pod și să-i punem acolo un pat, o masă, un scaun și o lampă, ca atunci când vine la noi, să poată trage acolo.”",
+     "heb": "נַעֲשֶׂה־נָּא עֲלִיַּת־קִיר קְטַנָּה וְנָשִׂים לוֹ שָׁם מִטָּה וְשֻׁלְחָן וְכִסֵּא וּמְנוֹרָה וְהָיָה בְּבֹאוֹ אֵלֵינוּ יָסוּר שָׁמָּה",
+     "translit": "Naasē-na aliat-kir ketana venasim lo şam mita veşulhan vehisē umenora vehaia bevoo ēlēnu iasur şama.",
+     "tokens": [
+      {
+       "t": "Să-i facem",
+       "w": "Să-i facem",
+       "heb": "נַעֲשֶׂה־נָּא",
+       "translit": "naasē-na",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect coortativ",
+       "def_ro": "să facem, te rog."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "o odaie în pod",
+       "w": "o odaie în pod",
+       "heb": "עֲלִיַּת־קִיר קְטַנָּה",
+       "translit": "aliat-kir ketana",
+       "strong": "H5944",
+       "pos": "substantiv compus + adjectiv",
+       "def_ro": "o odaie mică de zid, la etaj.",
+       "dict_ro": "„Aliat-kir” denumește o cameră superioară zidită (nu una improvizată din stuf și lut) — Metzudat David o descrie ca „o odăiță mică, construită din pereți de piatră, o construcție de calitate”, arătând grija deosebită a femeii pentru confortul profetului."
+      },
+      {
+       "t": " și să-i "
+      },
+      {
+       "t": "punem",
+       "w": "punem",
+       "heb": "וְנָשִׂים",
+       "translit": "venasim",
+       "strong": "H7760",
+       "pos": "verb, qal imperfect",
+       "def_ro": "și să punem."
+      },
+      {
+       "t": " acolo "
+      },
+      {
+       "t": "un pat, o masă, un scaun și o lampă",
+       "w": "un pat, o masă, un scaun și o lampă",
+       "heb": "מִטָּה וְשֻׁלְחָן וְכִסֵּא וּמְנוֹרָה",
+       "translit": "mita veşulhan vehisē umenora",
+       "strong": "H4296",
+       "pos": "substantiv compus",
+       "def_ro": "un pat, o masă, un scaun și un sfeșnic."
+      },
+      {
+       "t": ", ca atunci când "
+      },
+      {
+       "t": "vine la noi",
+       "w": "vine la noi",
+       "heb": "בְּבֹאוֹ אֵלֵינוּ",
+       "translit": "bevoo ēlēnu",
+       "strong": "H935",
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "la venirea lui la noi."
+      },
+      {
+       "t": ", să poată "
+      },
+      {
+       "t": "trage acolo",
+       "w": "trage acolo",
+       "heb": "יָסוּר שָׁמָּה",
+       "translit": "iasur şama",
+       "strong": "H5493",
+       "pos": "verb, qal imperfect",
+       "def_ro": "să se abată acolo."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "נַעֲשֶׂה־נָּא עֲלִיַּת־קִיר קְטַנָּה וְנָשִׂים לוֹ שָׁם מִטָּה וְשֻׁלְחָן וְכִסֵּא וּמְנוֹרָה וְהָיָה בְּבֹאוֹ אֵלֵינוּ יָסוּר שָׁמָּה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ποιήσωμεν δὴ αὐτῷ ὑπερῷον, τόπον μικρόν, καὶ θῶμεν αὐτῷ ἐκεῖ κλίνην.",
+       "greek": true,
+       "translation": "„Să-i facem, dar, un foișor, un loc mic, și să-i punem acolo un pat.”",
+       "note": "LXX prescurtează lista de mobilier la un singur obiect (patul), omițând masa, scaunul și lampa enumerate explicit în TM."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Odaie în pod” — o odăiță mică, zidită cu pereți de piatră, o construcție aleasă."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Kir” — perete. „Venasim” — din rădăcina „a pune”."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Fie al cetății, de care casa lor s-ar putea alătura, fie al grădinii lor, la mică distanță de casă; scriitorii evrei înțeleg de obicei o clădire mică din pereți de piatră sau cărămidă, nu una din stuf sau lut și paie. „Un pat” — ca să poată rămâne peste noapte când voiește; „o masă” — nu doar ca să mănânce, ci și ca să scrie și să-și pună cărțile pe care le citește; „un scaun” — ca să stea la masă; „un sfeșnic” — cu o lumânare în el, ca să-i lumineze noaptea când citește."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Cum femeia era încredințată că Elisei era un profet, știa că el trebuie să aibă nevoie de mai multă intimitate decât putea oferi starea obișnuită a casei ei; de aceea propune ceea ce știa că-i va fi de mare folos, căci putea locui în această odăiță la fel de retras ca și cum ar fi fost în propria lui casă."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Să facem o odăiță” — nu s-o construiască, ci s-o pregătească. Ea se gândea la o cameră în „aliya”, pridvorul sau intrarea, alipită de fața casei, ducând spre curte și încăperile interioare. Fața casei, cu excepția ușii, e un zid orb, de aceea camera aceasta e numită „odaie în perete”; e de obicei rezervată străinilor sau celor ce înnoptează o noapte, și, prin izolarea ei, e potrivită pentru studiu sau retragere."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Femeia i-a cerut apoi soțului ei să zidească o odăiță mică la etaj pentru acest sfânt om al lui Dumnezeu, și s-o mobileze cu cele necesare (pat, masă, scaun și lampă), ca să tragă mereu la casa lor."
+      }
+     ]
+    },
+    {
+     "v": "4:11",
+     "t": "Și a fost într-o zi că el a venit acolo și a tras în pod și s-a culcat acolo.",
+     "heb": "וַיְהִי הַיּוֹם וַיָּבֹא שָׁמָּה וַיָּסַר אֶל־הָעֲלִיָּה וַיִּשְׁכַּב־שָׁמָּה",
+     "translit": "Vaiehi haiom vaiavo şama vaiasar el-haalia vaişkav-şama.",
+     "tokens": [
+      {
+       "t": "Și a fost într-o zi",
+       "w": "Și a fost într-o zi",
+       "heb": "וַיְהִי הַיּוֹם",
+       "translit": "vaiehi haiom",
+       "strong": "H3117",
+       "pos": "verb + substantiv",
+       "def_ro": "și a fost ziua."
+      },
+      {
+       "t": " că el a "
+      },
+      {
+       "t": "venit acolo",
+       "w": "venit acolo",
+       "heb": "וַיָּבֹא שָׁמָּה",
+       "translit": "vaiavo şama",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + adverb",
+       "def_ro": "a venit acolo."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "tras în pod",
+       "w": "tras în pod",
+       "heb": "וַיָּסַר אֶל־הָעֲלִיָּה",
+       "translit": "vaiasar el-haalia",
+       "strong": "H5493",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "s-a abătut spre odaia de sus."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "s-a culcat acolo",
+       "w": "s-a culcat acolo",
+       "heb": "וַיִּשְׁכַּב־שָׁמָּה",
+       "translit": "vaişkav-şama",
+       "strong": "H7901",
+       "pos": "verb, qal imperfect consecutiv + adverb",
+       "def_ro": "s-a culcat acolo."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי הַיּוֹם וַיָּבֹא שָׁמָּה וַיָּסַר אֶל־הָעֲלִיָּה וַיִּשְׁכַּב־שָׁמָּה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγένετο ἡμέρα καὶ εἰσῆλθεν ἐκεῖ, καὶ ἐξέκλινεν εἰς τὸ ὑπερῷον.",
+       "greek": true,
+       "translation": "„Și a fost o zi, și a intrat acolo, și s-a abătut spre foișor.”",
+       "note": "LXX omite explicit „și s-a culcat acolo”, ultima acțiune fiind subînțeleasă."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și a fost ziua” — și a fost o [anumită] zi."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și a fost ziua” — a venit ziua când a venit acolo, după ce ea făcuse odaia."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Cum obișnuia să facă; s-a abătut în odaia făcută pentru el și spre care fusese îndrumat, și s-a culcat acolo peste noapte — lucru, fără îndoială, repetat adesea de el, primind bunăvoința gazdei sale."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "După o vreme, când Elisei petrecuse noaptea în odaia pregătită pentru el, a voit să-i mulțumească gazdei sale."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Elisei, om al lui Dumnezeu, nu disprețuiește o gazdă smerită, ci primește cu bunăvoință ospitalitatea oferită din inimă curată — pilda unei prietenii statornice între slujitorul lui Dumnezeu și cei ce-l cinstesc."
+      }
+     ]
+    },
+    {
+     "v": "4:12",
+     "t": "Și i-a spus lui Ghehazi, slujitorul său: „Cheam-o pe femeia șunamită.” Și el a chemat-o și ea a stat înaintea lui.",
+     "heb": "וַיֹּאמֶר אֶל־גֵּיחֲזִי נַעֲרוֹ קְרָא לַשּׁוּנַמִּית הַזֹּאת וַיִּקְרָא־לָהּ וַתַּעֲמֹד לְפָנָיו",
+     "translit": "Vaiomer el-Ghēihazi naaro kera laşunamit hazot vaikra-la vataamod lefanav.",
+     "tokens": [
+      {
+       "t": "Și i-a spus lui "
+      },
+      {
+       "t": "Ghehazi, slujitorul său",
+       "w": "Ghehazi, slujitorul său",
+       "heb": "גֵּיחֲזִי נַעֲרוֹ",
+       "translit": "Ghēihazi naaro",
+       "strong": "H1522",
+       "pos": "substantiv propriu + substantiv",
+       "def_ro": "Ghehazi, sluga lui."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Cheam-o",
+       "w": "Cheam-o",
+       "heb": "קְרָא",
+       "translit": "kera",
+       "strong": "H7121",
+       "pos": "verb, qal imperativ",
+       "def_ro": "cheam-o."
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "femeia șunamită",
+       "w": "femeia șunamită",
+       "heb": "לַשּׁוּנַמִּית הַזֹּאת",
+       "translit": "laşunamit hazot",
+       "strong": "H7767",
+       "pos": "substantiv, gentilic",
+       "def_ro": "pe această șunamită."
+      },
+      {
+       "t": ".” Și el "
+      },
+      {
+       "t": "a chemat-o",
+       "w": "a chemat-o",
+       "heb": "וַיִּקְרָא־לָהּ",
+       "translit": "vaikra-la",
+       "strong": "H7121",
+       "pos": "verb, qal imperfect consecutiv + sufix",
+       "def_ro": "a chemat-o."
+      },
+      {
+       "t": " și ea a "
+      },
+      {
+       "t": "stat înaintea lui",
+       "w": "stat înaintea lui",
+       "heb": "וַתַּעֲמֹד לְפָנָיו",
+       "translit": "vataamod lefanav",
+       "strong": "H5975",
+       "pos": "verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "a stat înaintea lui."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֶל־גֵּיחֲזִי נַעֲרוֹ קְרָא לַשּׁוּנַמִּית הַזֹּאת וַיִּקְרָא־לָהּ וַתַּעֲמֹד לְפָנָיו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν πρὸς Γιεζεὶ τὸ παιδάριον αὐτοῦ Κάλεσόν μοι τὴν Σωμανεῖτιν ταύτην.",
+       "greek": true,
+       "translation": "„Și a zis către Ghiezi, sluga lui: Cheamă-mi pe această Șomanit.”",
+       "note": "LXX omite finalul versetului (chemarea și prezentarea femeii înaintea lui), subînțeles din context."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Care îl însoțea oriunde mergea și-i slujea, culcându-se probabil în aceeași odaie cu el; ar fi putut fi unul dintre fiii profeților. „Cheam-o pe această șunamită” — spune-i că doresc să vorbesc cu ea; „și după ce a chemat-o, ea a stat înaintea lui” — la ușa odăii, cu mare respect față de el și cu multă smerenie, așteptând să audă ce are să-i spună; aceasta trebuie înțeles după ce s-a mai petrecut ceva între Elisei și Ghehazi, și între Ghehazi și femeie, care s-a întors la stăpânul lui și i-a spus ce-i spusese ea, după care a fost trimis s-o cheme, și ea a venit."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Ghehazi, sluga lui — aceasta e prima dată când auzim despre acest personaj destul de îndoielnic [ca fire morală, dovedită mai târziu în capitolul 5]."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Elisei a voit să-i arate gazdei sale o dovadă de recunoștință, și de aceea a poruncit slugii sale Ghehazi s-o cheme pe șunamită înaintea lui."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Elisei, deși profet mare, nu uită bunătatea arătată lui, ci caută s-o răsplătească — un model de recunoștință pentru toți cei ce primesc ospitalitate din partea celor mai smeriți decât ei înșiși."
+      }
+     ]
+    },
+    {
+     "v": "4:13",
+     "t": "El i-a spus lui [Ghehazi]: „Spune-i acum [femeii]: «Iată, te-ai deranjat mult pentru noi. Ce s-ar putea face oare pentru tine? S-ar putea vorbi oare ceva pentru tine regelui sau căpeteniei armatei?»” Iar ea i-a spus: «Eu locuiesc în sânul poporului meu.»",
+     "heb": "וַיֹּאמֶר לוֹ אֱמָר־נָא אֵלֶיהָ הִנֵּה חָרַדְתְּ אֵלֵינוּ אֶת־כָּל־הַחֲרָדָה הַזֹּאת מֶה לַעֲשׂוֹת לָךְ הֲיֵשׁ לְדַבֶּר־לָךְ אֶל־הַמֶּלֶךְ אוֹ אֶל־שַׂר הַצָּבָא וַתֹּאמֶר בְּתוֹךְ עַמִּי אָנֹכִי יֹשָׁבֶת",
+     "translit": "Vaiomer lo emor-na ēleha hinē haradet ēlēinu et-kol-haharada hazot me laasot lah haieş ledaber-lah el-hameleh o el-sar haţava vatomer betoh ami anohi ioşavet.",
+     "tokens": [
+      {
+       "t": "El i-a spus lui [Ghehazi]: „Spune-i acum [femeii]: «Iată, "
+      },
+      {
+       "t": "te-ai deranjat mult pentru noi",
+       "w": "te-ai deranjat mult pentru noi",
+       "heb": "חָרַדְתְּ אֵלֵינוּ אֶת־כָּל־הַחֲרָדָה הַזֹּאת",
+       "translit": "haradet ēlēinu et-kol-haharada hazot",
+       "strong": "H2729",
+       "pos": "verb + substantiv",
+       "def_ro": "te-ai zbuciumat pentru noi cu toată această grijă/zbucium.",
+       "dict_ro": "Rashi observă că rădăcina harad (זבucium, cutremur) apare de două ori în aceeași frază — verb și obiectul lui intern — pentru a exprima intensitatea grijii: „a-ți pune inima în această treabă”, ca la „și se cutremură de cuvântul Meu” (Isaia 66:2)."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Ce s-ar putea face oare pentru tine",
+       "w": "Ce s-ar putea face oare pentru tine",
+       "heb": "מֶה לַעֲשׂוֹת לָךְ",
+       "translit": "me laasot lah",
+       "strong": "H6213",
+       "pos": "pronume + verb + prepoziție",
+       "def_ro": "ce e de făcut pentru tine?"
+      },
+      {
+       "t": "? "
+      },
+      {
+       "t": "S-ar putea vorbi oare ceva pentru tine regelui sau căpeteniei armatei",
+       "w": "S-ar putea vorbi oare ceva pentru tine regelui sau căpeteniei armatei",
+       "heb": "הֲיֵשׁ לְדַבֶּר־לָךְ אֶל־הַמֶּלֶךְ אוֹ אֶל־שַׂר הַצָּבָא",
+       "translit": "haieş ledaber-lah el-hameleh o el-sar haţava",
+       "strong": "H4428",
+       "pos": "verb + substantiv + substantiv compus",
+       "def_ro": "e ceva de vorbit pentru tine regelui sau căpeteniei oștirii?"
+      },
+      {
+       "t": "?»” Iar ea i-a spus: «"
+      },
+      {
+       "t": "Eu locuiesc în sânul poporului meu",
+       "w": "Eu locuiesc în sânul poporului meu",
+       "heb": "בְּתוֹךְ עַמִּי אָנֹכִי יֹשָׁבֶת",
+       "translit": "betoh ami anohi ioşavet",
+       "strong": "H5971",
+       "pos": "substantiv + pronume + verb",
+       "def_ro": "în mijlocul poporului meu eu locuiesc.",
+       "dict_ro": "Rashi tâlcuiește refuzul ei ca pe o afirmație de siguranță socială deplină: „printre rudele mele, nimeni nu-mi face rău; n-am nevoie nici de rege, nici de căpetenia oștirii” — un răspuns de independență liniștită, nu de modestie forțată."
+      },
+      {
+       "t": ".»"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר לוֹ אֱמָר־נָא אֵלֶיהָ הִנֵּה חָרַדְתְּ אֵלֵינוּ אֶת־כָּל־הַחֲרָדָה הַזֹּאת מֶה לַעֲשׂוֹת לָךְ הֲיֵשׁ לְדַבֶּר־לָךְ אֶל־הַמֶּלֶךְ אוֹ אֶל־שַׂר הַצָּבָא וַתֹּאמֶר בְּתוֹךְ עַמִּי אָנֹכִי יֹשָׁבֶת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν αὐτῷ Εἰπὸν δὴ πρὸς αὐτήν Ἰδοὺ ἐξέστησας ἡμῖν τὴν πᾶσαν ἔνκτησιν ταύτην.",
+       "greek": true,
+       "translation": "„Și i-a zis: Spune-i, dar: Iată, ne-ai pus la dispoziție toată această agoniseală.”",
+       "note": "Divergență reală: LXX înțelege „harada” (zbucium, grijă) ca „ἔνκτησιν” (agoniseală, avut, proprietate pusă la dispoziție) — o traducere complet diferită de sensul TM, centrat pe efortul/grija ei, nu pe bunurile materiale oferite."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Te-ai zbuciumat pentru noi” — pentru noi. „Cu tot acest zbucium” — să-ți pui inima în această treabă, ca „și se cutremură de cuvântul Meu” (Isaia 66:2) — atent la lucrul care trebuie făcut, punându-și inima în el. „Ce e de făcut pentru tine” — de ce ai tu nevoie, ca noi să facem pentru tine, fiindcă tu te-ai zbuciumat pentru noi cu toate acestea? „În mijlocul poporului meu” — printre rudele mele, nimeni nu-mi face rău; n-am nevoie nici de rege, nici de căpetenia oștirii."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "[Elisei] n-a vrut să vorbească cu femeia față în față. „Iată, te-ai zbuciumat” etc. — vrea să spună: fiindcă tu te-ai ostenit cu toată această osteneală pentru noi, și care e răsplata de făcut pentru tine — ai vreun lucru de vorbit în locul tău regelui etc.? „În mijlocul poporului meu” — vrea să spună: eu locuiesc în mijlocul familiei mele, și nimeni dintre ei nu-mi face rău, ca să am nevoie să mă plâng sau să mă tânguiesc cuiva."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Haradet” — termen de mișcare puternică, chiar dacă fără frică, ca „și bătrânii cetății au tresărit înaintea lui” (1 Samuel 16:4)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Iată, te-ai îngrijit de noi cu toată această grijă” — zidind o odaie și mobilând-o cu cele de trebuință, și dându-le hrană din vreme în vreme. „Ce e de făcut pentru tine?” — se poate gândi la ceva ce ți-ar fi pe plac, și pe care stăpânul meu să-l poată face pentru tine sau pentru soțul tău? „Ai vrea să vorbim pentru tine regelui sau căpeteniei oștirii?” — ca soțul ei să fie înaintat la vreo slujbă la curte sau în tabără."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Elisei trebuie să fi avut o influență considerabilă la rege, din partea pe care o avusese în recentul război cu moabiții. Iehoram avea motiv să creadă că profetul, sub Dumnezeu, fusese singura pricină a izbânzii lui, și de aceea nu putea avea nicio îndoială că regele i-ar fi împlinit orice cerere rezonabilă."
+      }
+     ]
+    },
+    {
+     "v": "4:14",
+     "t": "Și el i-a spus [lui Elișa]: „Și totuși, ce se poate face pentru ea?” Și Ghehazi a spus: „Păi nu are copil, iar soțul ei este bătrân.”",
+     "heb": "וַיֹּאמֶר וּמֶה לַעֲשׂוֹת לָהּ וַיֹּאמֶר גֵּיחֲזִי אֲבָל בֵּן אֵין־לָהּ וְאִישָׁהּ זָקֵן",
+     "translit": "Vaiomer ume laasot la vaiomer Ghēihazi aval bēn ēin-la veişa zakēn.",
+     "tokens": [
+      {
+       "t": "Și el i-a spus [lui Elișa]: „Și totuși, "
+      },
+      {
+       "t": "ce se poate face pentru ea",
+       "w": "ce se poate face pentru ea",
+       "heb": "וּמֶה לַעֲשׂוֹת לָהּ",
+       "translit": "ume laasot la",
+       "strong": "H6213",
+       "pos": "pronume + verb + prepoziție",
+       "def_ro": "și ce e de făcut pentru ea?"
+      },
+      {
+       "t": "?” Și "
+      },
+      {
+       "t": "Ghehazi a spus",
+       "w": "Ghehazi a spus",
+       "heb": "וַיֹּאמֶר גֵּיחֲזִי",
+       "translit": "vaiomer Ghēihazi",
+       "strong": "H559",
+       "pos": "verb + substantiv propriu",
+       "def_ro": "și Ghehazi a spus."
+      },
+      {
+       "t": ": „Păi "
+      },
+      {
+       "t": "nu are copil",
+       "w": "nu are copil",
+       "heb": "אֲבָל בֵּן אֵין־לָהּ",
+       "translit": "aval bēn ēin-la",
+       "strong": "H61",
+       "pos": "adverb + substantiv negat",
+       "def_ro": "dar fiu nu are."
+      },
+      {
+       "t": ", iar "
+      },
+      {
+       "t": "soțul ei este bătrân",
+       "w": "soțul ei este bătrân",
+       "heb": "וְאִישָׁהּ זָקֵן",
+       "translit": "veişa zakēn",
+       "strong": "H2205",
+       "pos": "substantiv + sufix + adjectiv",
+       "def_ro": "și soțul ei e bătrân."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר וּמֶה לַעֲשׂוֹת לָהּ וַיֹּאמֶר גֵּיחֲזִי אֲבָל בֵּן אֵין־לָהּ וְאִישָׁהּ זָקֵן",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν Τί δεῖ ποιῆσαι αὐτῇ; καὶ εἶπεν Γιεζεὶ τὸ παιδάριον αὐτοῦ Καὶ μάλα υἱὸς οὐκ ἔστιν αὐτῇ, καὶ ὁ ἀνὴρ αὐτῆς πρεσβύτης.",
+       "greek": true,
+       "translation": "„Și a zis: Ce trebuie făcut pentru ea? Și a zis Ghiezi, sluga lui: Într-adevăr, fiu nu are, iar bărbatul ei e bătrân.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Geneza 18:10-15"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și a spus Elisei” — lui Ghehazi. „Și ce e de făcut pentru ea” — ca răsplată pentru această binefacere."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "După ce ea a plecat dinaintea lui, l-a întrebat pe Ghehazi: și care e atunci răsplata pe care i-o voi face? „Dar” — cu adevărat există loc să-i facă o răsplată, căci n-are fiu, și e femeie în vârstă, și după rânduiala firii nu va mai naște; iar dacă va naște prin tine un fiu, se va socoti o răsplată mare."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Adică Elisei către Ghehazi, când acesta s-a întors la el și i-a spus ce zisese șunamita: „ce e de făcut pentru ea?” — ceva ce el credea că trebuie făcut din recunoștință pentru bunătatea primită, și se sfătuiește cu sluga lui, care era om al casei, ce s-ar putea gândi. „Cu adevărat n-are copil, și soțul ei e bătrân” — și deci puțin probabil să mai aibă vreunul de la el."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Dorind să-și arate recunoștința pentru primirea ospitalieră a acestei familii, [Elisei] i-a vestit nașterea unui fiu „la vremea aceasta, anul viitor”. Importanța unei asemenea vești nu poate fi apreciată decât ținând seama că femeile orientale, și cele evreice în chip deosebit, leagă de sterilitate ideea de rușine, și doresc copii mai arzător decât femeile din orice altă parte a lumii."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Darul unui fiu celor bătrâni și de multă vreme fără copii a fost, din vechime, o dovadă a puterii și bunăvoinței divine — cazul lui Avraam, al lui Isaac, al lui Manoah și al lui Elkana; îl găsim aici printre minunile săvârșite de Elisei. Aceasta s-a lucrat ca răsplată pentru primirea binevoitoare pe care i-a făcut-o o femeie bună, așa cum lui Avraam i s-a dat făgăduința unui fiu atunci când a găzduit îngeri."
+      }
+     ]
+    },
+    {
+     "v": "4:15",
+     "t": "Și el i-a spus: „Cheam-o!”, așa că el a chemat-o și ea a stat în prag.",
+     "heb": "וַיֹּאמֶר קְרָא־לָהּ וַיִּקְרָא־לָהּ וַתַּעֲמֹד בַּפָּתַח",
+     "translit": "Vaiomer kera-la vaikra-la vataamod bapatah.",
+     "tokens": [
+      {
+       "t": "Și el i-a spus: „"
+      },
+      {
+       "t": "Cheam-o",
+       "w": "Cheam-o",
+       "heb": "קְרָא־לָהּ",
+       "translit": "kera-la",
+       "strong": "H7121",
+       "pos": "verb, qal imperativ + sufix",
+       "def_ro": "cheam-o."
+      },
+      {
+       "t": "!”, așa că el "
+      },
+      {
+       "t": "a chemat-o",
+       "w": "a chemat-o",
+       "heb": "וַיִּקְרָא־לָהּ",
+       "translit": "vaikra-la",
+       "strong": "H7121",
+       "pos": "verb, qal imperfect consecutiv + sufix",
+       "def_ro": "a chemat-o."
+      },
+      {
+       "t": " și ea a "
+      },
+      {
+       "t": "stat în prag",
+       "w": "stat în prag",
+       "heb": "וַתַּעֲמֹד בַּפָּתַח",
+       "translit": "vataamod bapatah",
+       "strong": "H6607",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "a stat în ușă/prag.",
+       "dict_ro": "Metzudat David observă o nuanță de sfială: văzând că Elisei nu-i vorbește față în față (ci prin Ghehazi), femeia s-a retras și mai mult, oprindu-se în prag, nu intrând în odaie — un gest de modestie remarcat favorabil de comentator."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר קְרָא־לָהּ וַיִּקְרָא־לָהּ וַתַּעֲמֹד בַּפָּתַח",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐκάλεσεν αὐτήν, καὶ ἔστη παρὰ τὴν θύραν.",
+       "greek": true,
+       "translation": "„Și a chemat-o, și a stat lângă ușă.”",
+       "note": "LXX omite prima poruncă („cheam-o!”), păstrând doar acțiunea; sensul rămâne identic."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„În prag” — văzând că el nu vorbește cu ea față în față, s-a depărtat și mai mult, și a stat în prag."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Poate găsind în mintea lui, prin Duhul lui Dumnezeu, o îndemnare că aceasta era ceea ce trebuia făcut pentru ea; și după ce a chemat-o, ea a stat în ușa odăii lui."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Se pare că femeia s-a retras de îndată ce a dat răspunsul amintit la versetul anterior — de aceea a fost nevoie s-o cheme din nou."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Modestia femeii, care nu se apropie decât până în prag, arată o cuviință și o smerenie potrivite cu locul ei — nici prea îndrăzneață, nici lipsită de respect față de omul lui Dumnezeu."
+      }
+     ]
+    },
+    {
+     "v": "4:16",
+     "t": "[Elișa] a spus: „La vremea aceasta, anul viitor, vei ține un fiu în brațe.” Ea a spus: „Nu, stăpâne, om al lui Dumnezeu, nu o amăgi pe slujnica ta!”",
+     "heb": "וַיֹּאמֶר לַמּוֹעֵד הַזֶּה כָּעֵת חַיָּה אַתְּ חֹבֶקֶת בֵּן וַתֹּאמֶר אַל אֲדֹנִי אִישׁ הָאֱלֹהִים אַל־תְּכַזֵּב בְּשִׁפְחָתֶךָ",
+     "translit": "Vaiomer lamoēd haze kaēt haia at hoveket bēn vatomer al-adoni iş ha'Elohim al-tehazēv beşifhateha.",
+     "tokens": [
+      {
+       "t": "[Elișa] a spus: „"
+      },
+      {
+       "t": "La vremea aceasta, anul viitor",
+       "w": "La vremea aceasta, anul viitor",
+       "heb": "לַמּוֹעֵד הַזֶּה כָּעֵת חַיָּה",
+       "translit": "lamoēd haze kaēt haia",
+       "strong": "H4150",
+       "pos": "substantiv compus",
+       "def_ro": "la vremea hotărâtă aceasta, la vremea de naștere.",
+       "dict_ro": "Rashi explică formula „kaēt haia” prin analogie cu însăși existența ei prezentă: „așa cum ești vie și sănătoasă azi, tot așa vei fi vie la vremea aceasta [anul viitor]” — o garanție implicită a sănătății ei viitoare, nu doar o mențiune temporală. Metzudat David propune și o a doua citire: „haia” s-ar referi la femeia care naște (o lăuză), iar „kaēt haia” ar desemna intervalul de nouă luni, durata normală a unei sarcini."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "vei ține un fiu în brațe",
+       "w": "vei ține un fiu în brațe",
+       "heb": "אַתְּ חֹבֶקֶת בֵּן",
+       "translit": "at hoveket bēn",
+       "strong": "H2263",
+       "pos": "pronume + verb, qal participiu + substantiv",
+       "def_ro": "tu vei îmbrățișa un fiu."
+      },
+      {
+       "t": ".” Ea a spus: „Nu, "
+      },
+      {
+       "t": "stăpâne, om al lui Dumnezeu",
+       "w": "stăpâne, om al lui Dumnezeu",
+       "heb": "אֲדֹנִי אִישׁ הָאֱלֹהִים",
+       "translit": "adoni iş ha'Elohim",
+       "strong": "H113",
+       "pos": "substantiv compus",
+       "def_ro": "stăpânul meu, om al lui Dumnezeu."
+      },
+      {
+       "t": ", nu o "
+      },
+      {
+       "t": "amăgi",
+       "w": "amăgi",
+       "heb": "אַל־תְּכַזֵּב",
+       "translit": "al-tehazēv",
+       "strong": "H3576",
+       "pos": "verb, piel imperfect negat",
+       "def_ro": "nu minți/nu amăgi.",
+       "dict_ro": "Rashi leagă acest verb de Isaia 58:11 („ale cărui ape nu vor seca/mint”) — nu o simplă rugăminte de sinceritate, ci o cerere ca promisiunea să fie durabilă: „nu-mi arăta ceva ce se va curma” — teama ei nu era că nu va avea un fiu, ci că acel fiu nu va trăi. Malbim observă că verbul folosit de Elisei, „vei îmbrățișa un fiu”, nu „vei avea un fiu” (formula folosită de îngeri către Avraam în Geneza 18:10), a trezit-o la această bănuială."
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "slujnica ta",
+       "w": "slujnica ta",
+       "heb": "בְּשִׁפְחָתֶךָ",
+       "translit": "beşifhateha",
+       "strong": "H8198",
+       "pos": "substantiv + sufix",
+       "def_ro": "cu slujnica ta."
+      },
+      {
+       "t": "!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר לַמּוֹעֵד הַזֶּה כָּעֵת חַיָּה [את] אַתְּ חֹבֶקֶת בֵּן וַתֹּאמֶר אַל אֲדֹנִי אִישׁ הָאֱלֹהִים אַל־תְּכַזֵּב בְּשִׁפְחָתֶךָ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Un caz de kri/ktiv: forma scrisă „את” e citită „אַתְּ” (pronumele „tu”, feminin) — variație grafică obișnuită, fără schimbare de sens."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν Ἐλεισαῖε πρὸς αὐτήν Εἰς τὸν καιρὸν τοῦτον, ὡς ἡ ὥρα ζῶσα, σὺ περιειληφυῖα υἱόν; ἡ δὲ εἶπεν Μή, κύριε μου, μὴ διαψεύσῃ τὴν δούλην σου.",
+       "greek": true,
+       "translation": "„Și a zis Elisei către ea: La vremea aceasta, ca ceasul care viețuiește, tu vei cuprinde un fiu? Iar ea a zis: Nu, stăpânul meu, nu minți pe roaba ta.”",
+       "note": "LXX redă „kaēt haia” printr-o construcție literală neobișnuită, „ca ceasul viețuitor” — o traducere excesiv de literală a expresiei ebraice rare, care a lăsat traducătorii nesiguri asupra sensului ei exact."
+      }
+     ],
+     "refs": [
+      "Geneza 18:10",
+      "Isaia 58:11"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„La vremea aceasta, la vreme de viață” — așa cum ești vie și sănătoasă azi, tot așa vei fi vie la vremea aceasta, îmbrățișând un fiu. „Nu, stăpâne” — nu spune „îmbrățișând un fiu”; ce nevoie am eu să-l îmbrățișez dacă la urmă va trebui să-l îngrop? Așa i-a spus ea când [copilul] a murit: „Nu ți-am spus: nu mă amăgi?” „Nu amăgi” — nu-mi arăta ceva ce se va curma; ai putere să ceri milă, ca să mi se dea un fiu, dar te rog, nu-mi da decât un fiu care va trăi. „Nu amăgi” — ca la „ale cărui ape nu vor seca” (Isaia 58:11)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Ca și cum ar spune: la vremea ce va veni, la vremea potrivită să fii «vie» — adică lăuză — și la sfârșitul a nouă luni, care sunt zilele sarcinii. „Vei îmbrățișa un fiu” — vrea să spună: te vei desfăta cu fiul tău, îmbrățișându-l; și deși la început nu i-a vorbit față în față, după ce i-a văzut sfiala, că stătea în prag, a revenit să-i vorbească. „Nu, stăpâne” — nu vorbi asemenea cuvinte. „Nu amăgi” — nu spune un lucru care se va curma, ca să bucuri inima slujnicei tale [degeaba]; iar fiindcă a spus „îmbrățișând un fiu”, care arată o desfătare oarecare, dar nu i-a făgăduit că se va statornici, de aceea i-a spus: nu mă bucura cu un lucru care nu se va statornici."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Haia” — așa se numește lăuza, ca în cuvintele înțelepților noștri, binecuvântată să le fie amintirea (Yoma 73b): „iar lăuza va încălța sandaua”. „Techazēv” — înseamnă lucru ce se curmă, ca «ale cărui ape nu vor seca» (Isaia 58:11)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Nu, stăpânul meu, nu minți pe roaba ta” — sau nu-i spune ceva ce nu-i adevărat; era un lucru atât de mare și atât de greu de explicat, cum ar putea fi așa în situația ei, încât nu putea crede că e adevărat, deși ar fi dorit să fie; sau: nu mă amăgi cu vorbe deșarte și mincinoase, nu-ți bate joc de mine — lucru nepotrivit cu firea lui de om al lui Dumnezeu și profet al DOMNULUI."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Această făgăduință, și împrejurările celor implicați, nu sunt foarte diferite de cele legate de nașterea lui Isaac, și de Avraam și Sara. „Nu minți” — adică: fie ca vorbele tale să se adeverească; sau, cum înțeleg rabinii, nu-ți bate joc de mine dându-mi un fiu care va fi curând luat prin moarte, ci lasă-mă să am unul care să-mi supraviețuiască."
+      },
+      {
+       "author": "Efrem Sirul, Comentariu la Cartea a Patra a Regilor",
+       "text": "Elisei a spus femeii șunamite: „La vremea aceasta, la vremea potrivită, vei îmbrățișa un fiu.” A voit să-și plătească datoria pentru slujirea și ajutorul ei evlavios față de el. Fiindcă era binecuvântată cu bunurile Legii, dar lipsită de copii — chiar dacă Legea făgăduia copii celor ce o păzeau — ea dorea aprins să aibă un moștenitor al acelor bunuri. Așa i-a făgăduit Elisei femeii șunamite această binecuvântare, deși ea nu i-o ceruse."
+      }
+     ]
+    },
+    {
+     "v": "4:17",
+     "t": "Femeia a zămislit și a născut un fiu chiar la vremea aceea în anul următor, precum îi vorbise Elișa.",
+     "heb": "וַתַּהַר הָאִשָּׁה וַתֵּלֶד בֵּן לַמּוֹעֵד הַזֶּה כָּעֵת חַיָּה אֲשֶׁר־דִּבֶּר אֵלֶיהָ אֱלִישָׁע",
+     "translit": "Vatahar haişa vatēled bēn lamoēd haze kaēt haia aşer-diber ēleha Elişa.",
+     "tokens": [
+      {
+       "t": "Femeia a "
+      },
+      {
+       "t": "zămislit",
+       "w": "zămislit",
+       "heb": "וַתַּהַר הָאִשָּׁה",
+       "translit": "vatahar haişa",
+       "strong": "H2029",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "a zămislit femeia."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "născut un fiu",
+       "w": "născut un fiu",
+       "heb": "וַתֵּלֶד בֵּן",
+       "translit": "vatēled bēn",
+       "strong": "H3205",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "a născut un fiu."
+      },
+      {
+       "t": " chiar "
+      },
+      {
+       "t": "la vremea aceea în anul următor",
+       "w": "la vremea aceea în anul următor",
+       "heb": "לַמּוֹעֵד הַזֶּה כָּעֵת חַיָּה",
+       "translit": "lamoēd haze kaēt haia",
+       "strong": "H4150",
+       "pos": "substantiv compus",
+       "def_ro": "la vremea aceasta, la vremea de naștere."
+      },
+      {
+       "t": ", precum îi vorbise "
+      },
+      {
+       "t": "Elișa",
+       "w": "Elișa",
+       "heb": "אֲשֶׁר־דִּבֶּר אֵלֶיהָ אֱלִישָׁע",
+       "translit": "aşer-diber ēleha Elişa",
+       "strong": "H1696",
+       "pos": "verb + substantiv propriu",
+       "def_ro": "cum îi vorbise ei Elisei."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתַּהַר הָאִשָּׁה וַתֵּלֶד בֵּן לַמּוֹעֵד הַזֶּה כָּעֵת חַיָּה אֲשֶׁר־דִּבֶּר אֵלֶיהָ אֱלִישָׁע",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν γαστρὶ ἔλαβεν ἡ γυνή, καὶ ἔτεκεν υἱὸν εἰς τὸν καιρὸν τοῦτον ὡς ἡ ὥρα ζῶσα, ὡς ἐλάλησεν πρὸς αὐτὴν Ἐλεισαῖε.",
+       "greek": true,
+       "translation": "„Și a luat în pântece femeia, și a născut un fiu la vremea aceasta, ca ceasul care viețuiește, cum îi vorbise Elisei.”",
+       "note": "LXX păstrează aceeași traducere literală, „ca ceasul care viețuiește”, deja întâlnită la v. 16."
+      }
+     ],
+     "refs": [
+      "Geneza 21:1-2"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„La vremea aceasta” — potrivit celor spuse de Elisei."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Curând după aceasta a zămislit și a rămas însărcinată, și când s-a împlinit anul, a fost adusă să nască un fiu — la vremea vieții, adică atunci când și-a împlinit sorocul deplin, ca fiul să se nască viu și să trăiască."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Interesul și însemnătatea unei asemenea vestiri nu pot fi apreciate decât ținând seama că femeile orientale, și cele evreiești în chip deosebit, leagă de sterilitate ideea de rușine, și doresc copii mai arzător decât femeile din orice altă parte a lumii."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Putem crede pe bună dreptate că, după nașterea acestui fiu, profetul a fost de două ori mai binevenit la buna șunamită. El se socotise dator ei; de acum înainte, cât va trăi, ea se va socoti datoare lui, și că niciodată nu va putea face prea mult pentru el."
+      },
+      {
+       "author": "Efrem Sirul, Comentariu la Cartea a Patra a Regilor",
+       "text": "„Femeia a zămislit și a născut un fiu la vremea aceasta, la vremea potrivită, cum îi vestise Elisei” — dar după câțiva ani, copilul a murit."
+      }
+     ]
+    },
+    {
+     "v": "4:18",
+     "t": "Copilul a crescut. Și a fost într-o zi, când tatăl lui se dusese la secerători,",
+     "heb": "וַיִּגְדַּל הַיָּלֶד וַיְהִי הַיּוֹם וַיֵּצֵא אֶל־אָבִיו אֶל־הַקֹּצְרִים",
+     "translit": "Vaigdal haialed vaiehi haiom vaiēţē el-aviv el-hakoţrim.",
+     "tokens": [
+      {
+       "t": "Copilul a "
+      },
+      {
+       "t": "crescut",
+       "w": "crescut",
+       "heb": "וַיִּגְדַּל הַיָּלֶד",
+       "translit": "vaigdal haialed",
+       "strong": "H1431",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "a crescut copilul."
+      },
+      {
+       "t": ". Și a fost într-o zi",
+       "w": "Și a fost într-o zi",
+       "heb": "וַיְהִי הַיּוֹם",
+       "translit": "vaiehi haiom",
+       "strong": "H3117",
+       "pos": "verb + substantiv",
+       "def_ro": "și a fost ziua."
+      },
+      {
+       "t": ", când "
+      },
+      {
+       "t": "tatăl lui se dusese la secerători",
+       "w": "tatăl lui se dusese la secerători",
+       "heb": "וַיֵּצֵא אֶל־אָבִיו אֶל־הַקֹּצְרִים",
+       "translit": "vaiēţē el-aviv el-hakoţrim",
+       "strong": "H7114",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "a ieșit la tatăl lui, la secerători.",
+       "dict_ro": "Textul ebraic spune literal că BĂIATUL a ieșit la tatăl lui, la secerători — nu că tatăl s-ar fi dus el însuși; traducerea românească reformulează perspectiva, punând tatăl ca subiect al deplasării spre câmp, deși în ebraică subiectul deplasării e copilul care vine la tatăl său, aflat deja printre lucrătorii de la seceriș."
+      },
+      {
+       "t": ","
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּגְדַּל הַיָּלֶד וַיְהִי הַיּוֹם וַיֵּצֵא אֶל־אָבִיו אֶל־הַקֹּצְרִים",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Traducerea românească inversează subiectul acțiunii de deplasare față de original — vezi dict_ro de mai sus."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἡδρύνθη τὸ παιδάριον· καὶ ἐγένετο ἡνίκα ἐξῆλθεν πρὸς τὸν πατέρα αὐτοῦ πρὸς τοὺς θερίζοντας,",
+       "greek": true,
+       "translation": "„Și a crescut copilul; și a fost când a ieșit la tatăl lui, la cei ce secerau,”",
+       "note": "LXX urmează fidel TM: copilul e cel ce iese la tatăl său, aflat la seceriș — confirmând citirea corectă a subiectului."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și a fost ziua” — a venit ziua în care [copilul] a ieșit la tatăl lui, aflat printre secerători."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Poate avea șase sau șapte ani, sau mai mult; era vremea secerișului, și oamenii secerau grâul pe câmpuri; iar tatăl lui, deși om cu stare, era cu ei ca să-i îndrume și să vadă că-și fac bine lucrul, ca odinioară Boaz; iar copilul a ieșit din casă la câmp, ca să-l vadă pe tatăl lui și pe secerători, spre recreere și distracție."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Nu știm ce vârstă avea; probabil patru sau șase ani, dacă nu mai mult, de vreme ce putea ieși la secerători pe câmpul de seceriș, să vorbească etc."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Copilul trecuse de primejdiile pruniciei, fiind în stare să meargă pe câmp la tatăl său, care fără îndoială se bucura de vorbele lui plăcute, iar bucuria lui pentru fiul său era mai mare decât bucuria secerișului."
+      }
+     ]
+    },
+    {
+     "v": "4:19",
+     "t": "că el i-a spus tatălui lui: „Capul meu! Capul meu!” Iar tatăl Lui i-a spus slujitorului: „Du-l la mama lui!”",
+     "heb": "וַיֹּאמֶר אֶל־אָבִיו רֹאשִׁי רֹאשִׁי וַיֹּאמֶר אֶל־הַנַּעַר שָׂאֵהוּ אֶל־אִמּוֹ",
+     "translit": "Vaiomer el-aviv roşi roşi vaiomer el-hanaar saēhu el-imo.",
+     "tokens": [
+      {
+       "t": "că el i-a spus "
+      },
+      {
+       "t": "tatălui lui",
+       "w": "tatălui lui",
+       "heb": "אֶל־אָבִיו",
+       "translit": "el-aviv",
+       "strong": "H1",
+       "pos": "substantiv + sufix",
+       "def_ro": "tatălui lui."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Capul meu! Capul meu",
+       "w": "Capul meu! Capul meu",
+       "heb": "רֹאשִׁי רֹאשִׁי",
+       "translit": "roşi roşi",
+       "strong": "H7218",
+       "pos": "substantiv + sufix (dublat)",
+       "def_ro": "capul meu, capul meu — repetiția redă intensitatea suferinței, ca la „măruntaiele mele, măruntaiele mele” (Ieremia 4:19)."
+      },
+      {
+       "t": "!” Iar "
+      },
+      {
+       "t": "tatăl Lui",
+       "w": "tatăl Lui",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a spus."
+      },
+      {
+       "t": " i-a spus "
+      },
+      {
+       "t": "slujitorului",
+       "w": "slujitorului",
+       "heb": "אֶל־הַנַּעַר",
+       "translit": "el-hanaar",
+       "strong": "H5288",
+       "pos": "substantiv",
+       "def_ro": "slujitorului/tânărului."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Du-l la mama lui",
+       "w": "Du-l la mama lui",
+       "heb": "שָׂאֵהוּ אֶל־אִמּוֹ",
+       "translit": "saēhu el-imo",
+       "strong": "H5375",
+       "pos": "verb, qal imperativ + sufix + substantiv",
+       "def_ro": "poartă-l la mama lui."
+      },
+      {
+       "t": "!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֶל־אָבִיו רֹאשִׁי רֹאשִׁי וַיֹּאמֶר אֶל־הַנַּעַר שָׂאֵהוּ אֶל־אִמּוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν πρὸς τὸν πατέρα αὐτοῦ Τὴν κεφαλήν μου, τὴν κεφαλήν μου· καὶ εἶπεν τῷ παιδαρίῳ Ἆρον αὐτὸν πρὸς τὴν μητέρα αὐτοῦ.",
+       "greek": true,
+       "translation": "„Și a zis către tatăl lui: Capul meu, capul meu; și a zis slujitorului: Du-l la mama lui.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:19"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Capul meu, capul meu” — sunt bolnav la cap. „Și a spus” — tatăl lui, către unul dintre slujitori: „Du-l la mama lui.”"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Capul meu, capul meu” — am durere de cap, iar repetarea cuvântului e după felul celui ce geme de durere, ca „măruntaiele mele, măruntaiele mele, mă zvârcolesc” (Ieremia 4:19)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "După ce a stat o vreme cu el, s-a plâns de durere de cap, pricinuită, crede Abarbinel, de arșița soarelui, fiind vreme de seceriș și zi fierbinte; iar durerea fiind foarte mare și cumplită, și-a repetat plângerea. „Și a spus unui tânăr: du-l acasă la mama lui” — tatăl lui a poruncit unui tânăr care-i slujea pe secerători să-l ducă acasă la mama lui, ca ea să-i dea ceva să-i aline durerea."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Strigătele băiatului, partea afectată și anotimpul anului fac probabil că fusese lovit de o insolație. Durerea, amorțeala și febra inflamatorie sunt simptomele acestei boli, adesea mortale."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Probabil lovit de un coup de soleil, adică o insolație, care putea, la un subiect atât de tânăr, să pricinuiască repede moartea, mai ales în acea țară fierbinte."
+      }
+     ]
+    },
+    {
+     "v": "4:20",
+     "t": "El l-a dus și l-a adus la mama lui; el a stat în poala ei până la amiază și apoi a murit.",
+     "heb": "וַיִּשָּׂאֵהוּ וַיְבִיאֵהוּ אֶל־אִמּוֹ וַיֵּשֶׁב עַל־בִּרְכֶּיהָ עַד־הַצָּהֳרַיִם וַיָּמֹת",
+     "translit": "Vaisaēhu vaiviēhu el-imo vaieşev al-birkeha ad-haţahoraim vaiamot.",
+     "tokens": [
+      {
+       "t": "El l-a "
+      },
+      {
+       "t": "dus",
+       "w": "dus",
+       "heb": "וַיִּשָּׂאֵהוּ",
+       "translit": "vaisaēhu",
+       "strong": "H5375",
+       "pos": "verb, qal imperfect consecutiv + sufix",
+       "def_ro": "l-a purtat."
+      },
+      {
+       "t": " și l-a "
+      },
+      {
+       "t": "adus la mama lui",
+       "w": "adus la mama lui",
+       "heb": "וַיְבִיאֵהוּ אֶל־אִמּוֹ",
+       "translit": "vaiviēhu el-imo",
+       "strong": "H935",
+       "pos": "verb, hifil imperfect consecutiv + substantiv",
+       "def_ro": "l-a adus la mama lui."
+      },
+      {
+       "t": "; el a "
+      },
+      {
+       "t": "stat în poala ei",
+       "w": "stat în poala ei",
+       "heb": "וַיֵּשֶׁב עַל־בִּרְכֶּיהָ",
+       "translit": "vaieşev al-birkeha",
+       "strong": "H1290",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "a șezut pe genunchii ei."
+      },
+      {
+       "t": " până la "
+      },
+      {
+       "t": "amiază",
+       "w": "amiază",
+       "heb": "הַצָּהֳרַיִם",
+       "translit": "haţahoraim",
+       "strong": "H6672",
+       "pos": "substantiv, masculin dual",
+       "def_ro": "amiaza."
+      },
+      {
+       "t": " și apoi a "
+      },
+      {
+       "t": "murit",
+       "w": "murit",
+       "heb": "וַיָּמֹת",
+       "translit": "vaiamot",
+       "strong": "H4191",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a murit."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשָּׂאֵהוּ וַיְבִיאֵהוּ אֶל־אִמּוֹ וַיֵּשֶׁב עַל־בִּרְכֶּיהָ עַד־הַצָּהֳרַיִם וַיָּמֹת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐκοιμήθη ἐπὶ τῶν γονάτων αὐτῆς ἕως μεσημβρίας, καὶ ἀπέθανεν.",
+       "greek": true,
+       "translation": "„Și a adormit pe genunchii ei până la amiază, și a murit.”",
+       "note": "LXX omite prima parte a versetului (dusul și adusul copilului), continuând direct de la momentul în care stă pe genunchii mamei — probabil considerată redundantă față de finalul v. 19."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Tânărul l-a dus acasă și l-a dat mamei lui: din marea ei dragoste, l-a luat pe genunchi și i-a pus capul la piept ca să-i aline durerea, și în această poziție a rămas până la mijlocul zilei, apoi și-a dat sufletul; de unde reiese că era dimineață când a ieșit pe câmp, și că soarele era destul de sus și bătea puternic asupra lui, ceea ce poate a pricinuit o febră, sfârșită prin moartea lui."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Strigătele băiatului, partea afectată și anotimpul anului fac probabil că fusese lovit de o insolație. Durerea, amorțeala și febra inflamatorie sunt simptomele acestei boli, adesea mortale."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Probabil lovit de o insolație, care putea, la un subiect atât de tânăr, să pricinuiască repede moartea, mai ales în acea țară fierbinte."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Copilul, atât de drag, moare deodată în brațele mamei lui — o durere cu atât mai amară cu cât venise ca răspuns direct la o făgăduință a lui Dumnezeu prin gura profetului Său; dar credința ei nu se clatină, ci se îndreaptă imediat spre singurul loc de unde știa că poate veni ajutorul."
+      }
+     ]
+    },
+    {
+     "v": "4:21",
+     "t": "Și ea a urcat și l-a întins pe patul omului lui Dumnezeu, a închis ușa în urma lui și a ieșit.",
+     "heb": "וַתַּעַל וַתַּשְׁכִּבֵהוּ עַל־מִטַּת אִישׁ הָאֱלֹהִים וַתִּסְגֹּר בַּעֲדוֹ וַתֵּצֵא",
+     "translit": "Vataal vataşkivēhu al-mitat iş ha'Elohim vatisgor baado vatēţē.",
+     "tokens": [
+      {
+       "t": "Și ea a "
+      },
+      {
+       "t": "urcat",
+       "w": "urcat",
+       "heb": "וַתַּעַל",
+       "translit": "vataal",
+       "strong": "H5927",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "s-a suit."
+      },
+      {
+       "t": " și l-a "
+      },
+      {
+       "t": "întins pe patul omului lui Dumnezeu",
+       "w": "întins pe patul omului lui Dumnezeu",
+       "heb": "וַתַּשְׁכִּבֵהוּ עַל־מִטַּת אִישׁ הָאֱלֹהִים",
+       "translit": "vataşkivēhu al-mitat iş ha'Elohim",
+       "strong": "H7901",
+       "pos": "verb, hifil imperfect consecutiv + substantiv compus",
+       "def_ro": "l-a culcat pe patul omului lui Dumnezeu."
+      },
+      {
+       "t": ", a "
+      },
+      {
+       "t": "închis ușa în urma lui",
+       "w": "închis ușa în urma lui",
+       "heb": "וַתִּסְגֹּר בַּעֲדוֹ",
+       "translit": "vatisgor baado",
+       "strong": "H5462",
+       "pos": "verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "a închis [ușa] în urma lui."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "ieșit",
+       "w": "ieșit",
+       "heb": "וַתֵּצֵא",
+       "translit": "vatēţē",
+       "strong": "H3318",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a ieșit."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתַּעַל וַתַּשְׁכִּבֵהוּ עַל־מִטַּת אִישׁ הָאֱלֹהִים וַתִּסְגֹּר בַּעֲדוֹ וַתֵּצֵא",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνήνεγκεν αὐτὸν καὶ ἐκοίμισεν αὐτὸν ἐπὶ τὴν κλίνην τοῦ ἀνθρώπου τοῦ θεοῦ, καὶ ἀπέκλεισεν κατ᾽ αὐτοῦ καὶ ἐξῆλθεν.",
+       "greek": true,
+       "translation": "„Și l-a suit, și l-a culcat pe patul omului lui Dumnezeu, și a încuiat [ușa] după el, și a ieșit.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "1 Regi 17:19"
+     ],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "În odăița zidită pentru profet: „și l-a pus pe patul omului lui Dumnezeu” — nu din vreo închipuire că patul ar avea vreo putere să-i învie copilul, deși poate se gândea la profet și avea credință că el l-ar putea învia, așa cum Ilie a înviat fiul văduvei din Sarepta, pus pe patul lui, despre care poate auzise; ci fiindcă era o odaie retrasă, în care nu intra nimeni, l-a pus acolo ca să ascundă moartea lui de soțul și familia ei, și să nu-l îngroape până nu se întoarce ea."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Fără îndoială auzise că Ilie a înviat pe fiul văduvei din Sarepta; și credea că cel ce obținuse pentru ea acest dar de la Dumnezeu, ar putea obține și învierea lui."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Vedem aici o credință tăcută, dar hotărâtă: nu se tânguiește, nu strigă, nu cheamă vecinii la jale, ci așază copilul mort exact acolo unde știe că se odihnește omul lui Dumnezeu, ca și cum ar spune, fără cuvinte, lui Dumnezeu Însuși: „Aici e locul potrivit pentru necazul meu.”"
+      }
+     ]
+    },
+    {
+     "v": "4:22",
+     "t": "Apoi l-a chemat pe soțul ei și a spus: „Trimite-mi, rogu-te, pe unul dintre slujitori și una dintre măgărițe, ca să mă grăbesc la omul lui Dumnezeu și să mă întorc.”",
+     "heb": "וַתִּקְרָא אֶל־אִישָׁהּ וַתֹּאמֶר שִׁלְחָה נָא לִי אֶחָד מִן־הַנְּעָרִים וְאַחַת הָאֲתֹנוֹת וְאָרוּצָה עַד־אִישׁ הָאֱלֹהִים וְאָשׁוּבָה",
+     "translit": "Vatikra el-işa vatomer şilha na li ehad min-hanearim veahat haatonot vearuţa ad-iş ha'Elohim veaşuva.",
+     "tokens": [
+      {
+       "t": "Apoi "
+      },
+      {
+       "t": "l-a chemat pe soțul ei",
+       "w": "l-a chemat pe soțul ei",
+       "heb": "וַתִּקְרָא אֶל־אִישָׁהּ",
+       "translit": "vatikra el-işa",
+       "strong": "H7121",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "a chemat spre soțul ei."
+      },
+      {
+       "t": " și a spus: „"
+      },
+      {
+       "t": "Trimite-mi, rogu-te",
+       "w": "Trimite-mi, rogu-te",
+       "heb": "שִׁלְחָה נָא לִי",
+       "translit": "şilha na li",
+       "strong": "H7971",
+       "pos": "verb, qal imperativ cohortativ + particulă",
+       "def_ro": "trimite-mi, te rog."
+      },
+      {
+       "t": ", pe "
+      },
+      {
+       "t": "unul dintre slujitori",
+       "w": "unul dintre slujitori",
+       "heb": "אֶחָד מִן־הַנְּעָרִים",
+       "translit": "ehad min-hanearim",
+       "strong": "H5288",
+       "pos": "substantiv compus",
+       "def_ro": "unul dintre tineri/slujitori."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "una dintre măgărițe",
+       "w": "una dintre măgărițe",
+       "heb": "וְאַחַת הָאֲתֹנוֹת",
+       "translit": "veahat haatonot",
+       "strong": "H860",
+       "pos": "substantiv compus",
+       "def_ro": "și una dintre măgărițe."
+      },
+      {
+       "t": ", ca să "
+      },
+      {
+       "t": "mă grăbesc la omul lui Dumnezeu",
+       "w": "mă grăbesc la omul lui Dumnezeu",
+       "heb": "וְאָרוּצָה עַד־אִישׁ הָאֱלֹהִים",
+       "translit": "vearuţa ad-iş ha'Elohim",
+       "strong": "H7323",
+       "pos": "verb, qal imperfect cohortativ + substantiv compus",
+       "def_ro": "să alerg până la omul lui Dumnezeu."
+      },
+      {
+       "t": " și să "
+      },
+      {
+       "t": "mă întorc",
+       "w": "mă întorc",
+       "heb": "וְאָשׁוּבָה",
+       "translit": "veaşuva",
+       "strong": "H7725",
+       "pos": "verb, qal imperfect cohortativ",
+       "def_ro": "să mă întorc."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתִּקְרָא אֶל־אִישָׁהּ וַתֹּאמֶר שִׁלְחָה נָא לִי אֶחָד מִן־הַנְּעָרִים וְאַחַת הָאֲתֹנוֹת וְאָרוּצָה עַד־אִישׁ הָאֱלֹהִים וְאָשׁוּבָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐκάλεσεν τὸν ἄνδρα αὐτῆς καὶ εἶπεν Ἀπόστειλον δή μοι ἓν τῶν παιδαρίων καὶ μίαν τῶν ὄνων, καὶ δραμοῦμαι ἕως τοῦ ἀνθρώπου τοῦ θεοῦ καὶ ἐπιστρέψω.",
+       "greek": true,
+       "translation": "„Și a chemat pe bărbatul ei, și a zis: Trimite-mi, dar, unul dintre slujitori și una dintre măgărițe, și voi alerga până la omul lui Dumnezeu și mă voi întoarce.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "L-a chemat pe câmp, unde poate era la îndemână, sau printr-un sol trimis la el: „trimite-mi, te rog, unul dintre tineri și una dintre măgărițe, ca să alerg la omul lui Dumnezeu și să mă întorc” — arătând că nu va lipsi mult, ci se va întoarce curând, fără să sufle o vorbă despre moartea copilului sau despre motivul plecării ei."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Tăinuirea ei eroică a morții față de soțul ei nu e cea mai neînsemnată trăsătură a acestei povestiri."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Era o femeie foarte chibzuită; n-a vrut să-i tulbure sufletul soțului ei vestindu-i moartea fiului lui până nu încerca puterea profetului."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Observă cumpătarea și tăria ei sufletească: nu se lasă copleșită de durere, ci acționează cu hotărâre calmă, ferindu-și soțul de o veste pe care el n-ar fi putut-o schimba, și mergând direct la singura sursă de la care aștepta ajutor real."
+      }
+     ]
+    },
+    {
+     "v": "4:23",
+     "t": "Iar el a spus: „De ce te duci la el astăzi? Nu este Lună Nouă și nici Șabat!” Iar ea a spus: „Totul este bine.”",
+     "heb": "וַיֹּאמֶר מַדּוּעַ אַתְּ הֹלֶכֶת אֵלָיו הַיּוֹם לֹא־חֹדֶשׁ וְלֹא שַׁבָּת וַתֹּאמֶר שָׁלוֹם",
+     "translit": "Vaiomer madua at holehet ēlav haiom lo-hodeş velo şabat vatomer şalom.",
+     "tokens": [
+      {
+       "t": "Iar el a spus: „"
+      },
+      {
+       "t": "De ce te duci la el astăzi",
+       "w": "De ce te duci la el astăzi",
+       "heb": "מַדּוּעַ אַתְּ הֹלֶכֶת אֵלָיו הַיּוֹם",
+       "translit": "madua at holehet ēlav haiom",
+       "strong": "H4069",
+       "pos": "adverb interogativ + pronume + verb",
+       "def_ro": "de ce mergi la el azi?"
+      },
+      {
+       "t": "? "
+      },
+      {
+       "t": "Nu este Lună Nouă și nici Șabat",
+       "w": "Nu este Lună Nouă și nici Șabat",
+       "heb": "לֹא־חֹדֶשׁ וְלֹא שַׁבָּת",
+       "translit": "lo-hodeş velo şabat",
+       "strong": "H2320",
+       "pos": "substantiv negat + substantiv negat",
+       "def_ro": "nu e lună nouă, nici sabat.",
+       "dict_ro": "Menționarea Lunii Noi și a Șabatului ca zile obișnuite de vizită la omul lui Dumnezeu arată o practică religioasă răspândită deja în epoca lui Elisei — vizite la profet pentru închinare, învățătură și rugăciune în zilele sfinte, un fel de precursor al sinagogii, cum notează unii comentatori."
+      },
+      {
+       "t": "!” Iar ea a spus: „"
+      },
+      {
+       "t": "Totul este bine",
+       "w": "Totul este bine",
+       "heb": "שָׁלוֹם",
+       "translit": "şalom",
+       "strong": "H7965",
+       "pos": "substantiv, masculin",
+       "def_ro": "pace, bine — un răspuns intenționat evaziv, pentru a nu dezvălui adevărul."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר מַדּוּעַ אַתְּ הלכתי [הֹלֶכֶת] אֵלָיו הַיּוֹם לֹא־חֹדֶשׁ וְלֹא שַׁבָּת וַתֹּאמֶר שָׁלוֹם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Un caz de kri/ktiv: forma scrisă „הלכתי” (la persoana întâi) e citită „הֹלֶכֶת” (participiu, persoana a doua feminin) — variație grafică fără schimbare de sens."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν Τί ὅτι σὺ πορεύῃ πρὸς αὐτὸν σήμερον; οὐ νεομηνία οὐδὲ σάββατον· ἡ δὲ εἶπεν Εἰρήνη.",
+       "greek": true,
+       "translation": "„Și a zis: De ce mergi tu la el astăzi? Nu e lună nouă, nici sabat; iar ea a zis: Pace.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "2 Regi 4:9"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Nu e lună nouă nici sabat” — căci la lună nouă și la sabat obișnuia să-i întâmpine fața [pe profet]. „Și a spus: bine” — vrea să spună: nu e nimic rău pentru care să merg la profet; și n-a vrut să dezvăluie lucrul soțului ei, căci a socotit mai bine ca minunea să se facă în taină."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„De ce te duci la el astăzi? Nu e nici lună nouă, nici sabat” — zile în care erau ținute cu evlavie; se pare că era obiceiul să se meargă des la casa profetului, ca să se audă citirea și tâlcuirea cuvântului lui Dumnezeu, și să se facă alte îndeletniciri religioase, precum rugăciunea și cântarea de laudă, primind sfaturi și învățături bune."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Deși religia adevăratului Dumnezeu nu era religia statului, existau fără îndoială mulțimi care continuau să se închine numai adevăratului Dumnezeu, și obișnuiau, cum se sugerează aici, să meargă la lunile noi și la sabate să-l consulte pe profet."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Tăinuirea ei eroică a morții față de soțul ei nu e cea mai neînsemnată trăsătură a acestei povestiri."
+      }
+     ]
+    },
+    {
+     "v": "4:24",
+     "t": "Ea și-a înșeuat măgărița și i-a spus slujitorului ei: „Mână, și mergi și să nu te oprești până când nu îți voi spune.”",
+     "heb": "וַתַּחֲבֹשׁ הָאָתוֹן וַתֹּאמֶר אֶל־נַעֲרָהּ נְהַג וָלֵךְ אַל־תַּעֲצָר־לִי לִרְכֹּב כִּי אִם־אָמַרְתִּי לָךְ",
+     "translit": "Vatahavoş haaton vatomer el-naara nehag valeh al-taaţor-li lirkov ki im-amarti lah.",
+     "tokens": [
+      {
+       "t": "Ea și-a "
+      },
+      {
+       "t": "înșeuat măgărița",
+       "w": "înșeuat măgărița",
+       "heb": "וַתַּחֲבֹשׁ הָאָתוֹן",
+       "translit": "vatahavoş haaton",
+       "strong": "H2280",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "a înșeuat/legat măgărița."
+      },
+      {
+       "t": " și i-a spus slujitorului ei: „"
+      },
+      {
+       "t": "Mână",
+       "w": "Mână",
+       "heb": "נְהַג",
+       "translit": "nehag",
+       "strong": "H5090",
+       "pos": "verb, qal imperativ",
+       "def_ro": "mână, condu (animalul) — grăbește-te."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "mergi",
+       "w": "mergi",
+       "heb": "וָלֵךְ",
+       "translit": "valeh",
+       "strong": "H1980",
+       "pos": "verb, qal imperativ",
+       "def_ro": "și mergi."
+      },
+      {
+       "t": " și să nu "
+      },
+      {
+       "t": "te oprești",
+       "w": "te oprești",
+       "heb": "אַל־תַּעֲצָר־לִי לִרְכֹּב",
+       "translit": "al-taaţor-li lirkov",
+       "strong": "H6113",
+       "pos": "verb, qal imperfect negat + verb",
+       "def_ro": "nu opri mersul de dragul meu."
+      },
+      {
+       "t": " până când nu îți voi "
+      },
+      {
+       "t": "spune",
+       "w": "spune",
+       "heb": "כִּי אִם־אָמַרְתִּי לָךְ",
+       "translit": "ki im-amarti lah",
+       "strong": "H559",
+       "pos": "conjuncție + verb",
+       "def_ro": "decât dacă îți voi spune."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתַּחֲבֹשׁ הָאָתוֹן וַתֹּאמֶר אֶל־נַעֲרָהּ נְהַג וָלֵךְ אַל־תַּעֲצָר־לִי לִרְכֹּב כִּי אִם־אָמַרְתִּי לָךְ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπέσαξεν τὴν ὄνον, καὶ εἶπεν πρὸς τὸ παιδάριον αὐτῆς Ἄγε πορεύου, μὴ ἐπίσχῃς μοι τοῦ ἐπιβῆναι, ὅτι ἐὰν εἴπω σοι.",
+       "greek": true,
+       "translation": "„Și a înșeuat măgărița, și a zis slujitorului ei: Mână, mergi; nu mă opri să încalec, decât dacă îți voi spune.”",
+       "note": "LXX înțelege „lirkov” („de dragul mersului/călăritului”) ca referindu-se la propria ei urcare pe măgăriță, nu la ritmul general al mersului — o nuanță ușor diferită."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Mână și mergi” — grăbește-te. „Nu opri mersul de dragul meu” — nu întârzia mersul din pricina mea."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Nu opri mersul de dragul meu” — mână măgărița și mergi tu, și nu te opri din pricina mea, ca și cum eu aș voi să încalec pe ea; ci doar când îți voi spune «oprește», atunci să te oprești."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Taaţor” — vei opri, ca „te vom opri puțin” (Judecători 13:15)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Abarbinel spune că ea a mers pe jos tot drumul și i-a poruncit omului să nu-și încetinească pasul de călărie din pricina ei, decât dacă îi striga; iar Targumul pare să sprijine acest sens: „nu mă sili să călăresc decât dacă te chem”; deci măgărița era ca Ilie să încalece pe ea. Dar s-ar crede că, fiind ea în grabă, s-ar fi mers mai repede călare decât pe jos."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "E obișnuit ca femeile să călărească pe măgari, însoțite de un slujitor, care merge în urmă și mână dobitocul cu bățul, îmboldindu-l la viteza cerută de stăpâna lui. Șunamita trebuia să facă o călătorie de cinci-șase ore până în vârful Carmelului."
+      }
+     ]
+    },
+    {
+     "v": "4:25",
+     "t": "El a mers și a ajuns la omul lui Dumnezeu, la Muntele Carmel. Și a fost, când omul lui Dumnezeu a văzut-o de departe, că i-a spus slujitorului său Ghehazi: „Iată, este acea femeie șunamită.",
+     "heb": "וַתֵּלֶךְ וַתָּבוֹא אֶל־אִישׁ הָאֱלֹהִים אֶל־הַר הַכַּרְמֶל וַיְהִי כִּרְאוֹת אִישׁ־הָאֱלֹהִים אֹתָהּ מִנֶּגֶד וַיֹּאמֶר אֶל־גֵּיחֲזִי נַעֲרוֹ הִנֵּה הַשּׁוּנַמִּית הַלָּז",
+     "translit": "Vatēleh vatavo el-iş ha'Elohim el-har haKarmel vaiehi kiroot iş-ha'Elohim ota mineghed vaiomer el-Ghēihazi naaro hinē haşunamit haläz.",
+     "tokens": [
+      {
+       "t": "El a "
+      },
+      {
+       "t": "mers",
+       "w": "mers",
+       "heb": "וַתֵּלֶךְ",
+       "translit": "vatēleh",
+       "strong": "H1980",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a mers.",
+       "dict_ro": "Deși subiectul gramatical al verbelor „vatēleh” și „vatavo” e feminin (referindu-se, aparent, tot la femeia șunamită, nu la slujitor), traducerea românească urmează aici interpretarea că slujitorul e cel ce conduce și ajunge la Carmel — o alegere de traducere care clarifică cine efectiv ajunge la Elisei, deși ebraica păstrează formele verbale feminine, posibil ca ecou al subiectului precedent."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "ajuns la omul lui Dumnezeu, la Muntele Carmel",
+       "w": "ajuns la omul lui Dumnezeu, la Muntele Carmel",
+       "heb": "וַתָּבוֹא אֶל־אִישׁ הָאֱלֹהִים אֶל־הַר הַכַּרְמֶל",
+       "translit": "vatavo el-iş ha'Elohim el-har haKarmel",
+       "strong": "H3760",
+       "pos": "verb + substantiv compus + substantiv propriu",
+       "def_ro": "a venit la omul lui Dumnezeu, la Muntele Carmel."
+      },
+      {
+       "t": ". Și a fost, când "
+      },
+      {
+       "t": "omul lui Dumnezeu a văzut-o de departe",
+       "w": "omul lui Dumnezeu a văzut-o de departe",
+       "heb": "כִּרְאוֹת אִישׁ־הָאֱלֹהִים אֹתָהּ מִנֶּגֶד",
+       "translit": "kiroot iş-ha'Elohim ota mineghed",
+       "strong": "H7200",
+       "pos": "verb, infinitiv + substantiv compus + pronume + adverb",
+       "def_ro": "la vederea omului lui Dumnezeu asupra ei de departe."
+      },
+      {
+       "t": ", că i-a spus slujitorului său "
+      },
+      {
+       "t": "Ghehazi",
+       "w": "Ghehazi",
+       "heb": "גֵּיחֲזִי נַעֲרוֹ",
+       "translit": "Ghēihazi naaro",
+       "strong": "H1522",
+       "pos": "substantiv propriu + substantiv",
+       "def_ro": "Ghehazi, sluga lui."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Iată, este acea femeie șunamită",
+       "w": "Iată, este acea femeie șunamită",
+       "heb": "הִנֵּה הַשּׁוּנַמִּית הַלָּז",
+       "translit": "hinē haşunamit haläz",
+       "strong": "H1975",
+       "pos": "interjecție + substantiv + pronume demonstrativ",
+       "def_ro": "iată, aceea [e] șunamita."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֵּלֶךְ וַתָּבוֹא אֶל־אִישׁ הָאֱלֹהִים אֶל־הַר הַכַּרְמֶל וַיְהִי כִּרְאוֹת אִישׁ־הָאֱלֹהִים אֹתָהּ מִנֶּגֶד וַיֹּאמֶר אֶל־גֵּיחֲזִי נַעֲרוֹ הִנֵּה הַשּׁוּנַמִּית הַלָּז",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Vezi dict_ro de mai sus: verbele „a mers”/„a ajuns” sunt, gramatical, la forma feminină (subiect: femeia, nu slujitorul), deși traducerea românească atribuie deplasarea slujitorului."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Δεῦρο καὶ πορεύσῃ, καὶ ἐλεύσῃ πρὸς τὸν ἄνθρωπον τοῦ θεοῦ εἰς τὸ ὄρος τὸ Καρμήλιον.",
+       "greek": true,
+       "translation": "„Vino și vei merge, și vei ajunge la omul lui Dumnezeu, la Muntele Carmel.”",
+       "note": "LXX plasează aici, la finalul unei fraze anterioare, ceea ce TM tratează ca început al v. 25 — o mică diferență de împărțire a versetelor, fără schimbare de sens."
+      }
+     ],
+     "refs": [
+      "1 Regi 18:19-20"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„De departe” — de la distanță."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Haläz” — aceasta [formă arhaică a pronumelui demonstrativ]."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "A ajuns la omul lui Dumnezeu la Muntele Carmel, unde obișnuia să fie Ilie, și unde poate era o școală a profeților; potrivit lui Bunting, aceasta era la șaisprezece mile de Șunem. „Și a fost, când omul lui Dumnezeu a văzut-o de departe” — cum putea de la înălțimea muntelui — „că i-a spus slujitorului său Ghehazi: iată, aceea e șunamita” — care ne-a găzduit atât de des și cu atâta ospitalitate în casa ei."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Toate minunile descrise în această secțiune țin de domnia lui Ioram, regele lui Israel, deși n-au fost istorisite neapărat în ordine cronologică strictă."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Observă statornicia credinței ei: parcurge un drum lung, obositor, fără să șovăie, cu inima frântă dar hotărâtă, îndreptându-se direct spre singurul loc de unde știa că poate veni ajutorul adevărat."
+      }
+     ]
+    },
+    {
+     "v": "4:26",
+     "t": "Acum fugi, rogu-te, în întâmpinarea ei și spune-i: «Totul este bine cu tine? Este bine cu soțul tău? Este bine cu copilul?»” Și ea a spus: „Totul este bine.”",
+     "heb": "עַתָּה רוּץ־נָא לִקְרָאתָהּ וֶאֱמָר־לָהּ הֲשָׁלוֹם לָךְ הֲשָׁלוֹם לְאִישֵׁךְ הֲשָׁלוֹם לַיָּלֶד וַתֹּאמֶר שָׁלוֹם",
+     "translit": "Ata ruţ-na likratah veemor-la haşalom lah haşalom leişēh haşalom laialed vatomer şalom.",
+     "tokens": [
+      {
+       "t": "Acum "
+      },
+      {
+       "t": "fugi, rogu-te",
+       "w": "fugi, rogu-te",
+       "heb": "רוּץ־נָא",
+       "translit": "ruţ-na",
+       "strong": "H7323",
+       "pos": "verb, qal imperativ + particulă",
+       "def_ro": "aleargă, te rog."
+      },
+      {
+       "t": ", în "
+      },
+      {
+       "t": "întâmpinarea ei",
+       "w": "întâmpinarea ei",
+       "heb": "לִקְרָאתָהּ",
+       "translit": "likratah",
+       "strong": "H7125",
+       "pos": "substantiv + sufix",
+       "def_ro": "în întâmpinarea ei."
+      },
+      {
+       "t": " și spune-i: «"
+      },
+      {
+       "t": "Totul este bine cu tine",
+       "w": "Totul este bine cu tine",
+       "heb": "הֲשָׁלוֹם לָךְ",
+       "translit": "haşalom lah",
+       "strong": "H7965",
+       "pos": "particulă interogativă + substantiv",
+       "def_ro": "e bine [pace] cu tine?"
+      },
+      {
+       "t": "? "
+      },
+      {
+       "t": "Este bine cu soțul tău",
+       "w": "Este bine cu soțul tău",
+       "heb": "הֲשָׁלוֹם לְאִישֵׁךְ",
+       "translit": "haşalom leişēh",
+       "strong": "H7965",
+       "pos": "particulă interogativă + substantiv",
+       "def_ro": "e bine cu soțul tău?"
+      },
+      {
+       "t": "? "
+      },
+      {
+       "t": "Este bine cu copilul",
+       "w": "Este bine cu copilul",
+       "heb": "הֲשָׁלוֹם לַיָּלֶד",
+       "translit": "haşalom laialed",
+       "strong": "H7965",
+       "pos": "particulă interogativă + substantiv",
+       "def_ro": "e bine cu copilul?"
+      },
+      {
+       "t": "?»” Și ea a spus: „"
+      },
+      {
+       "t": "Totul este bine",
+       "w": "Totul este bine",
+       "heb": "וַתֹּאמֶר שָׁלוֹם",
+       "translit": "vatomer şalom",
+       "strong": "H7965",
+       "pos": "verb + substantiv",
+       "def_ro": "a spus: bine.",
+       "dict_ro": "Rashi observă că acesta e un „verset scurtat”: firesc ar fi trebuit scris „și [Ghehazi] a întrebat-o, iar ea a spus: suntem bine” — dar textul omite întrebarea intermediară a slujitorului, trecând direct la răspunsul femeii, o economie stilistică frecventă în proza biblică ebraică."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַתָּה רוּץ־נָא לִקְרָאתָהּ וֶאֱמָר־לָהּ הֲשָׁלוֹם לָךְ הֲשָׁלוֹם לְאִישֵׁךְ הֲשָׁלוֹם לַיָּלֶד וַתֹּאמֶר שָׁלוֹם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "νῦν δράμε εἰς ἀπαντὴν αὐτῆς καὶ ἐρεῖς Ἢ εἰρήνη σοι; ἢ εἰρήνη τῷ ἀνδρί σου; ἢ εἰρήνη τῷ παιδαρίῳ;",
+       "greek": true,
+       "translation": "„Acum aleargă în întâmpinarea ei, și vei zice: Oare pace ție? Oare pace bărbatului tău? Oare pace copilului?”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și a spus: bine” — acesta e un verset scurtat, căci ar fi trebuit scris „și a întrebat-o, iar ea a spus: suntem bine”."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și a spus: bine” — după ce a întrebat-o, ea i-a spus: totul e bine — și n-a vrut să-i dezvăluie [adevărul] nici lui."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Din respect pentru ea, și ca să afle pricina venirii ei — ceva trebuie să fie cauza. „E bine cu tine? E bine cu bărbatul tău? E bine cu copilul?” — s-a întâmplat vreo nenorocire ție, bărbatului tău sau copilului? „Și ea a răspuns: bine” — dă un răspuns scurt slujitorului, nedorind să fie reținută, dornică să-i spună situația ei chiar profetului."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Cât de puternică era credința ei în Dumnezeu și supunerea față de autoritatea Lui! Deși tocmai se abătuse asupra ei și a soțului ei cea mai grea încercare de familie, totuși, crezând că era o rânduială a Providenței, care în sine nu era nici neînțeleaptă, nici lipsită de bunătate, a spus: e bine cu mine, cu soțul meu și cu copilul meu."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Răspunsul ei către Ghehazi a fost dinadins scurt și vag, căci păstra dezvăluirea deplină a pierderii sale pentru urechea profetului însuși. Îl întâlnise pe Ghehazi la poalele muntelui, și nu s-a oprit din urcare până nu și-a descărcat sufletul greu împovărat la picioarele lui Elisei."
+      }
+     ]
+    },
+    {
+     "v": "4:27",
+     "t": "Ea a ajuns la omul lui Dumnezeu, pe munte, și s-a prins de picioarele lui. Ghehazi s-a apropiat să o împingă, dar omul lui Dumnezeu a spus: „Las-o, căci sufletul îi este amărât, dar DOMNUL mi-a ascuns [aceasta] și nu mi-a spus.”",
+     "heb": "וַתָּבֹא אֶל־אִישׁ הָאֱלֹהִים אֶל־הָהָר וַתַּחֲזֵק בְּרַגְלָיו וַיִּגַּשׁ גֵּיחֲזִי לְהָדְפָהּ וַיֹּאמֶר אִישׁ הָאֱלֹהִים הַרְפֵּה־לָהּ כִּי־נַפְשָׁהּ מָרָה־לָהּ וַיהוָה הֶעְלִים מִמֶּנִּי וְלֹא הִגִּיד לִי",
+     "translit": "Vatavo el-iş ha'Elohim el-hahar vatahazēk beraglav vaigaş Ghēihazi lehadfa vaiomer iş ha'Elohim harpē-la ki-nafşa mara-la va'ADONAI heelim mimeni velo highid li.",
+     "tokens": [
+      {
+       "t": "Ea a "
+      },
+      {
+       "t": "ajuns la omul lui Dumnezeu, pe munte",
+       "w": "ajuns la omul lui Dumnezeu, pe munte",
+       "heb": "וַתָּבֹא אֶל־אִישׁ הָאֱלֹהִים אֶל־הָהָר",
+       "translit": "vatavo el-iş ha'Elohim el-hahar",
+       "strong": "H935",
+       "pos": "verb + substantiv compus + substantiv",
+       "def_ro": "a venit la omul lui Dumnezeu, la munte."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "s-a prins de picioarele lui",
+       "w": "s-a prins de picioarele lui",
+       "heb": "וַתַּחֲזֵק בְּרַגְלָיו",
+       "translit": "vatahazēk beraglav",
+       "strong": "H2388",
+       "pos": "verb, hifil imperfect consecutiv + substantiv",
+       "def_ro": "s-a agățat de picioarele lui — gest de omagiu și implorare, ca la Matei 28:9."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Ghehazi s-a apropiat să o împingă",
+       "w": "Ghehazi s-a apropiat să o împingă",
+       "heb": "וַיִּגַּשׁ גֵּיחֲזִי לְהָדְפָהּ",
+       "translit": "vaigaş Ghēihazi lehadfa",
+       "strong": "H5066",
+       "pos": "verb + substantiv propriu + verb",
+       "def_ro": "s-a apropiat Ghehazi ca s-o îndepărteze."
+      },
+      {
+       "t": ", dar omul lui Dumnezeu a spus: „"
+      },
+      {
+       "t": "Las-o",
+       "w": "Las-o",
+       "heb": "הַרְפֵּה־לָהּ",
+       "translit": "harpē-la",
+       "strong": "H7503",
+       "pos": "verb, hifil imperativ + sufix",
+       "def_ro": "slăbește-o, las-o [în pace]."
+      },
+      {
+       "t": ", căci "
+      },
+      {
+       "t": "sufletul îi este amărât",
+       "w": "sufletul îi este amărât",
+       "heb": "נַפְשָׁהּ מָרָה־לָהּ",
+       "translit": "nafşa mara-la",
+       "strong": "H4784",
+       "pos": "substantiv + adjectiv",
+       "def_ro": "sufletul ei e amar în ea."
+      },
+      {
+       "t": ", dar "
+      },
+      {
+       "t": "DOMNUL mi-a ascuns [aceasta]",
+       "w": "DOMNUL mi-a ascuns [aceasta]",
+       "heb": "וַיהוָה הֶעְלִים מִמֶּנִּי",
+       "translit": "va'ADONAI heelim mimeni",
+       "strong": "H5956",
+       "pos": "substantiv propriu + verb, hifil perfect",
+       "def_ro": "și DOMNUL a ascuns de la mine."
+      },
+      {
+       "t": " și nu mi-a "
+      },
+      {
+       "t": "spus",
+       "w": "spus",
+       "heb": "וְלֹא הִגִּיד לִי",
+       "translit": "velo highid li",
+       "strong": "H5046",
+       "pos": "verb, hifil perfect negat",
+       "def_ro": "și nu mi-a vestit."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתָּבֹא אֶל־אִישׁ הָאֱלֹהִים אֶל־הָהָר וַתַּחֲזֵק בְּרַגְלָיו וַיִּגַּשׁ גֵּיחֲזִי לְהָדְפָהּ וַיֹּאמֶר אִישׁ הָאֱלֹהִים הַרְפֵּה־לָהּ כִּי־נַפְשָׁהּ מָרָה־לָהּ וַיהוָה הֶעְלִים מִמֶּנִּי וְלֹא הִגִּיד לִי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἦλθεν πρὸς Ἐλεισαῖε εἰς τὸ ὄρος καὶ ἐπελάβετο τῶν ποδῶν αὐτοῦ.",
+       "greek": true,
+       "translation": "„Și a venit la Elisei, la munte, și s-a prins de picioarele lui.”",
+       "note": "LXX prescurtează versetul, omițând episodul cu Ghehazi și cuvintele lui Elisei despre sufletul ei amărât și despre ascunderea făcută de DOMNUL — reluate probabil implicit din context."
+      }
+     ],
+     "refs": [
+      "Matei 28:9",
+      "Luca 7:38"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Să o împingă” — din pricina cinstei profetului, ca ea să nu-i țină picioarele. „Las-o” — dă-i frâu liber și nu o îndepărta, căci face aceasta din amărăciunea sufletului ei; iar eu nu știu ce are, căci DOMNUL a ascuns de la mine în vremea când s-a întâmplat, și nici acum nu mi-a spus."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "S-a aruncat la picioarele lui, cuprinsă de evlavie, ca o rugătoare, și din afecțiune s-a prins de ele, ținându-le strâns, hotărâtă să nu-l lase până nu-i va făgădui că merge cu ea. Era obicei la evrei să prindă și să sărute picioarele sau genunchii celor cărora le aduceau omagiu sau cerere; la fel la greci, cum se vede în multe locuri din Homer. „Dar Ghehazi s-a apropiat s-o îndepărteze” — socotind-o supărătoare și nepotrivită pentru stăpânul lui, nu spre cinstea și onoarea ei."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Izbucnirea violentă de durere în care a căzut apropiindu-se de el i s-a părut lui Ghehazi un act de lipsă de respect față de stăpânul lui; se pregătea s-o îndepărteze când ochiul atent al profetului a băgat de seamă că era copleșită de o pricină de suferință necunoscută. Cât de mare e dragostea unei mame! Cât de minunate sunt lucrările Providenței!"
+      },
+      {
+       "author": "Efrem Sirul, Comentariu la Cartea a Patra a Regilor",
+       "text": "Când i-a văzut suferința și zbuciumul, [Elisei] a trimis îndată pe ucenicul lui, încredințându-i toiagul lui, și i-a poruncit să-l pună pe copilul mort și să-l vestească despre rezultatul slujirii lui. A voit ca învierea mortului să se facă prin toiagul stăpânului și mâinile ucenicului, dacă sluga lui ar fi de-ajuns pentru minune."
+      }
+     ]
+    },
+    {
+     "v": "4:28",
+     "t": "Ea a spus: „Am cerut eu oare un fiu de la stăpânul meu? N-am spus eu oare: «Nu mă amăgi!»?”",
+     "heb": "וַתֹּאמֶר הֲשָׁאַלְתִּי בֵן מֵאֵת אֲדֹנִי הֲלֹא אָמַרְתִּי לֹא תַשְׁלֶה אֹתִי",
+     "translit": "Vatomer haşaalti vēn mēēt adoni halo amarti lo taşlē oti.",
+     "tokens": [
+      {
+       "t": "Ea a spus: „"
+      },
+      {
+       "t": "Am cerut eu oare un fiu",
+       "w": "Am cerut eu oare un fiu",
+       "heb": "הֲשָׁאַלְתִּי בֵן",
+       "translit": "haşaalti vēn",
+       "strong": "H7592",
+       "pos": "particulă interogativă + verb, qal perfect + substantiv",
+       "def_ro": "oare am cerut un fiu?"
+      },
+      {
+       "t": " de la "
+      },
+      {
+       "t": "stăpânul meu",
+       "w": "stăpânul meu",
+       "heb": "מֵאֵת אֲדֹנִי",
+       "translit": "mēēt adoni",
+       "strong": "H113",
+       "pos": "prepoziție + substantiv",
+       "def_ro": "de la domnul meu."
+      },
+      {
+       "t": "? "
+      },
+      {
+       "t": "N-am spus eu oare",
+       "w": "N-am spus eu oare",
+       "heb": "הֲלֹא אָמַרְתִּי",
+       "translit": "halo amarti",
+       "strong": "H559",
+       "pos": "particulă interogativă + verb, qal perfect",
+       "def_ro": "oare n-am spus?"
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "Nu mă amăgi",
+       "w": "Nu mă amăgi",
+       "heb": "לֹא תַשְׁלֶה אֹתִי",
+       "translit": "lo taşlē oti",
+       "strong": "H7952",
+       "pos": "verb, hifil imperfect negat + pronume",
+       "def_ro": "nu mă amăgi/nu mă înșela.",
+       "dict_ro": "Rashi leagă „taşlē” de rădăcina „a greși/a rătăci” — nu doar o minciună simplă, ci o promisiune care se dovedește o eroare cumplită; Targumul redă alternativ „nu mă întrista”. Femeia citează practic cuvânt cu cuvânt propria ei rugăminte de la 4:16, subliniind că temerea ei de atunci s-a împlinit întocmai."
+      },
+      {
+       "t": "!»?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֹּאמֶר הֲשָׁאַלְתִּי בֵן מֵאֵת אֲדֹנִי הֲלֹא אָמַרְתִּי לֹא תַשְׁלֶה אֹתִי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἡ δὲ εἶπεν Μὴ ᾐτησάμην υἱὸν παρὰ τοῦ κυρίου μου; ὅτι οὐκ εἶπα Οὐ πλανήσεις μετ' ἐμοῦ;",
+       "greek": true,
+       "translation": "„Iar ea a zis: Nu cumva am cerut eu fiu de la stăpânul meu? N-am zis eu: nu mă vei rătăci?”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset; LXX folosește verbul „a rătăci” (πλανάω), apropiat de sensul propus de Rashi mai sus."
+      }
+     ],
+     "refs": [
+      "2 Regi 4:16"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„N-am spus eu” — ție: nu amăgi pe slujnica ta (mai sus, v. 16). „Nu mă amăgi” — nu mă rătăci [dându-mi speranță deșartă] în privința unei greșeli."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Am cerut eu” — oare eu am cerut un fiu, de m-ai silit fără voia mea să-mi făgăduiești chiar și un lucru care nu se va statornici? „N-am spus eu” — la vremea făgăduinței am spus: nu mă amăgi, promițându-mi un lucru care se va curma."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Taşlē” — termen de greșeală și uitare, ca „pentru greșeală” (2 Samuel 6:7), și vrea să spună: mă vei face să greșesc."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Nu la cererea ei a avut un fiu, cel puțin nu ea a fost cea dintâi care a pornit lucrul; profetul i-a spus întâi și a încredințat-o că va avea unul, fără ca ea să-l ceară; putea fi bucuroasă de aceasta și să dorească împlinirea făgăduinței, dar n-a fost o dorință nepotrivită, stăruitoare, în care ar fi întrecut măsura, ca luarea lui înapoi să fie o pedeapsă pentru asta."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Nu ți-am arătat o asemenea dorință; eram mulțumită și fericită; iar când tu mi-ai făgăduit un fiu, n-am spus oare: nu mă amăgi? Nu-ți bate joc de mine dându-mi un copil care va crește plăcut și drag, doar ca să-mi fie luat curând prin moarte?"
+      }
+     ]
+    },
+    {
+     "v": "4:29",
+     "t": "El i-a spus lui Ghehazi: „Încinge-ți mijlocul, ia toiagul meu în mână și du-te; și dacă întâlnești un om, nu-l saluta, iar dacă omul te salută, nu îi răspunde. Și pune toiagul meu pe fața tânărului.”",
+     "heb": "וַיֹּאמֶר לְגֵיחֲזִי חֲגֹר מָתְנֶיךָ וְקַח מִשְׁעַנְתִּי בְיָדְךָ וָלֵךְ כִּי־תִמְצָא אִישׁ לֹא תְבָרְכֶנּוּ וְכִי־יְבָרֶכְךָ אִישׁ לֹא תַעֲנֶנּוּ וְשַׂמְתָּ מִשְׁעַנְתִּי עַל־פְּנֵי הַנָּעַר",
+     "translit": "Vaiomer leGhēihazi hagor matneha vekah mişanti veiadha valeh ki-timţa iş lo tevarhenu vehi-ievareha iş lo taanenu veşamta mişanti al-penēi hanaar.",
+     "tokens": [
+      {
+       "t": "El i-a spus lui Ghehazi: „"
+      },
+      {
+       "t": "Încinge-ți mijlocul",
+       "w": "Încinge-ți mijlocul",
+       "heb": "חֲגֹר מָתְנֶיךָ",
+       "translit": "hagor matneha",
+       "strong": "H2296",
+       "pos": "verb, qal imperativ + substantiv",
+       "def_ro": "încinge-ți coapsele — pregătire pentru mers grăbit."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ia toiagul meu în mână",
+       "w": "ia toiagul meu în mână",
+       "heb": "וְקַח מִשְׁעַנְתִּי בְיָדְךָ",
+       "translit": "vekah mişanti veiadha",
+       "strong": "H4938",
+       "pos": "verb, qal imperativ + substantiv + sufix",
+       "def_ro": "și ia toiagul meu în mâna ta."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "du-te",
+       "w": "du-te",
+       "heb": "וָלֵךְ",
+       "translit": "valeh",
+       "strong": "H1980",
+       "pos": "verb, qal imperativ",
+       "def_ro": "și mergi."
+      },
+      {
+       "t": "; și dacă "
+      },
+      {
+       "t": "întâlnești un om, nu-l saluta",
+       "w": "întâlnești un om, nu-l saluta",
+       "heb": "תִמְצָא אִישׁ לֹא תְבָרְכֶנּוּ",
+       "translit": "timţa iş lo tevarhenu",
+       "strong": "H1288",
+       "pos": "verb + substantiv + verb negat",
+       "def_ro": "vei întâlni un om, nu-l vei binecuvânta [saluta]."
+      },
+      {
+       "t": ", iar dacă "
+      },
+      {
+       "t": "omul te salută, nu îi răspunde",
+       "w": "omul te salută, nu îi răspunde",
+       "heb": "יְבָרֶכְךָ אִישׁ לֹא תַעֲנֶנּוּ",
+       "translit": "ievareha iş lo taanenu",
+       "strong": "H6030",
+       "pos": "verb + substantiv + verb negat",
+       "def_ro": "te va saluta un om, nu-i vei răspunde.",
+       "dict_ro": "Interdicția de a saluta pe drum nu e simplă grabă utilitară — Rashi explică scopul precis: să nu se lungească vorba și cineva să-l întrebe încotro merge, silindu-l să răspundă „ca să înviez un mort”, ceea ce n-ar fi fost o cinste pentru minune, dacă cel prin care se face s-ar lăuda cu ea. Însă, notează Metzudat David citând tradiția (Talmudul Ierusalmi, Sanhedrin), Ghehazi nu a ascultat acest ordin și a povestit tuturor pe drum unde se duce — una din pricinile pentru care misiunea lui a eșuat."
+      },
+      {
+       "t": ". Și "
+      },
+      {
+       "t": "pune toiagul meu pe fața tânărului",
+       "w": "pune toiagul meu pe fața tânărului",
+       "heb": "וְשַׂמְתָּ מִשְׁעַנְתִּי עַל־פְּנֵי הַנָּעַר",
+       "translit": "veşamta mişanti al-penēi hanaar",
+       "strong": "H7760",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și pune toiagul meu pe fața tânărului."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר לְגֵיחֲזִי חֲגֹר מָתְנֶיךָ וְקַח מִשְׁעַנְתִּי בְיָדְךָ וָלֵךְ כִּי־תִמְצָא אִישׁ לֹא תְבָרְכֶנּוּ וְכִי־יְבָרֶכְךָ אִישׁ לֹא תַעֲנֶנּוּ וְשַׂמְתָּ מִשְׁעַנְתִּי עַל־פְּנֵי הַנָּעַר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν Ἐλεισαῖε τῷ Γιεζεί Ζῶσαι τὴν ὀσφύν σου καὶ λάβε τὴν βακτηρίαν μου.",
+       "greek": true,
+       "translation": "„Și a zis Elisei lui Ghiezi: Încinge-ți mijlocul și ia toiagul meu.”",
+       "note": "LXX prescurtează versetul, omițând porunca despre salut și porunca finală despre punerea toiagului pe fața tânărului, ambele deduse din context."
+      }
+     ],
+     "refs": [
+      "Talmud Ierusalmi, Sanhedrin 10:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Nu-l saluta” — nu-l întreba de sănătate. Toate acestea, ca să nu se lungească vorba și cineva să-l întrebe: unde te duci? — și el să spună: să înviez un mort. Nu e cinstea minunii ca cel prin care se face să se laude cu ea. Dar el n-a făcut așa, ci la toți care l-au întrebat le-a răspuns: stăpânul meu m-a trimis să înviez un mort."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Încinge-ți mijlocul” — ca să meargă repede și cu iuțeală. „Nu-l saluta” — ca să nu întârzii pe drum. [Notă:] Rabinii noștri, binecuvântată să le fie amintirea, au spus (Ierușalmi, Sanhedrin) că Ghehazi n-a ascultat cuvintele profetului, ba încă se lăuda pe drum, spunând că se duce să învie un mort."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Mişanti” — toiagul pe care mă sprijin. „Taanenu” — din rădăcina răspunsului."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Veșmintele lui largi și lungi, ca să poată merge mai iute la drum. „Ia toiagul meu” — nu ca să călătorească sprijinit pe el, ci pentru scopul arătat mai jos. „Dacă întâlnești vreun om, nu-l saluta; și dacă cineva te salută, nu-i răspunde” — ca să nu se piardă vreme."
+      },
+      {
+       "author": "Sfântul Augustin, Predici despre Vechiul Testament",
+       "text": "Iată o altă închipuire a aceluiași adevăr: fapta lui Elisei de a-și trimite mai întâi sluga cu toiagul lui, ca să învie copilul mort. Fiul femeii care-l găzduise pe Elisei murise; vestea i s-a adus lui Elisei, iar el a trimis sluga cu toiagul. «Mergi», i-a spus, «și pune toiagul pe copilul mort». Era oare profetul nesigur ce să facă? Sluga a mers înainte și a pus toiagul pe trup; dar copilul mort n-a înviat. Dacă o Lege în stare să dea viață ar fi fost dată..."
+      }
+     ]
+    },
+    {
+     "v": "4:30",
+     "t": "Mama tânărului a spus: „Viu este DOMNUL și viu este sufletul meu! Nu voi pleca de la tine!” Așa că el s-a ridicat și a urmat-o.",
+     "heb": "וַתֹּאמֶר אֵם הַנַּעַר חַי־יְהוָה וְחֵי־נַפְשְׁךָ אִם־אֶעֶזְבֶךָּ וַיָּקָם וַיֵּלֶךְ אַחֲרֶיהָ",
+     "translit": "Vatomer ēm hanaar hai-ADONAI vehēi-nafşeha im-eezvekä vaiakam vaiēleh ahareha.",
+     "tokens": [
+      {
+       "t": "Mama tânărului a spus: „"
+      },
+      {
+       "t": "Viu este DOMNUL și viu este sufletul meu",
+       "w": "Viu este DOMNUL și viu este sufletul meu",
+       "heb": "חַי־יְהוָה וְחֵי־נַפְשְׁךָ",
+       "translit": "hai-ADONAI vehēi-nafşeha",
+       "strong": "H2416",
+       "pos": "adjectiv + substantiv propriu + adjectiv + substantiv",
+       "def_ro": "viu e DOMNUL, și viu e sufletul tău — formulă solemnă de jurământ."
+      },
+      {
+       "t": "! "
+      },
+      {
+       "t": "Nu voi pleca de la tine",
+       "w": "Nu voi pleca de la tine",
+       "heb": "אִם־אֶעֶזְבֶךָּ",
+       "translit": "im-eezvekä",
+       "strong": "H5800",
+       "pos": "particulă de jurământ + verb, qal imperfect",
+       "def_ro": "[jur că] nu te voi părăsi."
+      },
+      {
+       "t": "!” Așa că el s-a "
+      },
+      {
+       "t": "ridicat",
+       "w": "ridicat",
+       "heb": "וַיָּקָם",
+       "translit": "vaiakam",
+       "strong": "H6965",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "s-a sculat."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "urmat-o",
+       "w": "urmat-o",
+       "heb": "וַיֵּלֶךְ אַחֲרֶיהָ",
+       "translit": "vaiēleh ahareha",
+       "strong": "H310",
+       "pos": "verb + prepoziție + sufix",
+       "def_ro": "a mers după ea."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֹּאמֶר אֵם הַנַּעַר חַי־יְהוָה וְחֵי־נַפְשְׁךָ אִם־אֶעֶזְבֶךָּ וַיָּקָם וַיֵּלֶךְ אַחֲרֶיהָ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ἡ μήτηρ τοῦ παιδαρίου Ζῇ Κύριος καὶ ζῇ ἡ ψυχή σου, εἰ ἐνκαταλείψω σε.",
+       "greek": true,
+       "translation": "„Și a zis mama copilului: Viu e Domnul, și vie e sufletul tău, de te voi părăsi.”",
+       "note": "LXX omite explicit ridicarea și urmarea lui Elisei, subînțelese din continuarea narațiunii."
+      }
+     ],
+     "refs": [
+      "Rut 1:16-17"
+     ],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Neavând nicio încredere în ce urma să facă sau ar fi putut face slujitorul, spune: „viu e DOMNUL, și viu e sufletul tău, nu te voi lăsa” — arătând că nu va merge cu sluga lui, ci stăruie ca el însuși să meargă cu ea, ori nu se va depărta."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Se pare că profetul n-avea de gând s-o însoțească; intenționa să aștepte întoarcerea lui Ghehazi; dar cum femeia era pe deplin încredințată că fiul îi murise, era hotărâtă să nu se întoarcă până nu-l aducea pe profet cu ea."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Toiagul era probabil un baston oficial, de o formă și mărime anume. Vrăjitorii obișnuiau să-și trimită toiagul cu porunci ca solii să nu-l lase să atingă nimic pe drum care ar fi putut risipi sau strica puterea încredințată lui; unii au crezut că Elisei însuși avea idei asemănătoare — dar aceasta e o bănuială necinstitoare pentru caracterul profetului."
+      },
+      {
+       "author": "Efrem Sirul, Comentariu la Cartea a Patra a Regilor",
+       "text": "„Atunci mama copilului a spus: viu e Domnul, și viu e sufletul tău, nu te voi părăsi” — de vreme ce Elisei rămăsese acasă și trimisese ucenicul, mama copilului mort a stăruit ca el s-o ajute personal. Elisei s-a îndurat de durerea ei, care era mare, și a pornit s-o însoțească spre satul Șunem."
+      }
+     ]
+    },
+    {
+     "v": "4:31",
+     "t": "Ghehazi a mers înaintea lor și a pus toiagul pe fața tânărului, dar nu a fost nici glas, nici sunet. [Ghehazi] s-a întors în întâmpinarea lui și i-a spus: „Tânărul nu s-a trezit.”",
+     "heb": "וְגֵיחֲזִי עָבַר לִפְנֵיהֶם וַיָּשֶׂם אֶת־הַמִּשְׁעֶנֶת עַל־פְּנֵי הַנַּעַר וְאֵין קוֹל וְאֵין קָשֶׁב וַיָּשָׁב לִקְרָאתוֹ וַיַּגֶּד־לוֹ לֵאמֹר לֹא הֵקִיץ הַנָּעַר",
+     "translit": "VeGhēihazi avar lifnēihem vaiaşem et-hamişenet al-penēi hanaar veēin kol veēin kaşev vaiaşov likrato vaiaghed-lo lēmor lo hēkiţ hanaar.",
+     "tokens": [
+      {
+       "t": "Ghehazi a "
+      },
+      {
+       "t": "mers înaintea lor",
+       "w": "mers înaintea lor",
+       "heb": "עָבַר לִפְנֵיהֶם",
+       "translit": "avar lifnēihem",
+       "strong": "H5674",
+       "pos": "verb, qal perfect + prepoziție",
+       "def_ro": "a trecut înaintea lor."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "pus toiagul pe fața tânărului",
+       "w": "pus toiagul pe fața tânărului",
+       "heb": "וַיָּשֶׂם אֶת־הַמִּשְׁעֶנֶת עַל־פְּנֵי הַנַּעַר",
+       "translit": "vaiaşem et-hamişenet al-penēi hanaar",
+       "strong": "H7760",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "a pus toiagul pe fața tânărului."
+      },
+      {
+       "t": ", dar "
+      },
+      {
+       "t": "nu a fost nici glas, nici sunet",
+       "w": "nu a fost nici glas, nici sunet",
+       "heb": "וְאֵין קוֹל וְאֵין קָשֶׁב",
+       "translit": "veēin kol veēin kaşev",
+       "strong": "H6963",
+       "pos": "substantiv negat + substantiv negat",
+       "def_ro": "și nu era glas, și nu era ascultare/răspuns."
+      },
+      {
+       "t": ". [Ghehazi] s-a "
+      },
+      {
+       "t": "întors în întâmpinarea lui",
+       "w": "întors în întâmpinarea lui",
+       "heb": "וַיָּשָׁב לִקְרָאתוֹ",
+       "translit": "vaiaşov likrato",
+       "strong": "H7725",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "s-a întors în întâmpinarea lui."
+      },
+      {
+       "t": " și i-a spus: „"
+      },
+      {
+       "t": "Tânărul nu s-a trezit",
+       "w": "Tânărul nu s-a trezit",
+       "heb": "לֹא הֵקִיץ הַנָּעַר",
+       "translit": "lo hēkiţ hanaar",
+       "strong": "H6974",
+       "pos": "verb, hifil perfect negat + substantiv",
+       "def_ro": "nu s-a trezit tânărul."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגֵיחֲזִי עָבַר לִפְנֵיהֶם וַיָּשֶׂם אֶת־הַמִּשְׁעֶנֶת עַל־פְּנֵי הַנַּעַר וְאֵין קוֹל וְאֵין קָשֶׁב וַיָּשָׁב לִקְרָאתוֹ וַיַּגֶּד־לוֹ לֵאמֹר לֹא הֵקִיץ הַנָּעַר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ Γιεζεὶ διῆλθεν ἔμπροσθεν αὐτῆς, καὶ ἐπέθηκεν τὴν βακτηρίαν ἐπὶ πρόσωπον τοῦ παιδαρίου.",
+       "greek": true,
+       "translation": "„Și Ghiezi a trecut înaintea ei, și a pus toiagul pe fața copilului.”",
+       "note": "LXX omite finalul versetului (absența oricărui semn de viață și întoarcerea lui Ghehazi cu vestea eșecului), reluat probabil în versetul următor din tradiția greacă."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "[Rabinii noștri, binecuvântată să le fie amintirea, au spus în Ierușalmi:] căci Ghehazi n-a ascultat cuvintele profetului, și încă se mai lăuda pe drum, spunând că merge să învie un mort. „Și nu era ascultare” — e același lucru, căci unde nu-i glas, nu-i nimic de ascultat, și ideea se repetă cu cuvinte diferite."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Se pare că a vorbit când a pus toiagul pe copil, dar acesta n-a auzit și nu i-a răspuns, așa că nu era niciun semn de viață în el. „De aceea s-a întors în întâmpinarea lui” — pe drumul dintre Carmel și Șunem — „și i-a spus, zicând: copilul nu s-a trezit” — prin care exprimă că era mort; sau, dacă nu știa nimic despre moartea lui, presupunea că doarme adânc, ceea ce ar fi pricina pentru care n-a auzit și n-a răspuns — deși prima explicație pare mai bună."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "[Elisei] a voit s-o învețe pe șunamită, care în chip vădit punea prea multă încredere în el însuși, o lecție de neuitat: să privească spre Dumnezeu. Trimițându-și slujitorul înainte să-i pună toiagul pe copil, i-a ridicat așteptările, dar în același timp a învățat-o că ajutorul lui propriu era fără de folos — „nu era nici glas, nici ascultare”."
+      },
+      {
+       "author": "Sfântul Augustin, Predici despre Vechiul Testament",
+       "text": "Sluga a mers înainte și a pus toiagul pe trup; dar copilul mort n-a înviat. Dacă o Lege în stare să dea viață ar fi fost dată, într-adevăr dreptatea ar fi venit din Lege; dar Scriptura a închis totul sub păcat, ca făgăduința să fie dată, prin credința în Isus Hristos, celor ce cred."
+      },
+      {
+       "author": "Efrem Sirul, Comentariu la Cartea a Patra a Regilor",
+       "text": "Ghehazi, ucenicul lui, pusese toiagul pe copil la vremea hotărâtă de stăpânul lui, dar nu-l înviase; adică învierea copilului mort nu s-a împlinit doar prin toiag și mâna ucenicului, ci aștepta venirea profetului însuși."
+      }
+     ]
+    },
+    {
+     "v": "4:32",
+     "t": "Atunci Elișa a venit în casă și iată, tânărul era mort, întins pe patul lui.",
+     "heb": "וַיָּבֹא אֱלִישָׁע הַבָּיְתָה וְהִנֵּה הַנַּעַר מֵת מֻשְׁכָּב עַל־מִטָּתוֹ",
+     "translit": "Vaiavo Elişa habaita vehinē hanaar mēt muşkav al-mitato.",
+     "tokens": [
+      {
+       "t": "Atunci "
+      },
+      {
+       "t": "Elișa a venit în casă",
+       "w": "Elișa a venit în casă",
+       "heb": "וַיָּבֹא אֱלִישָׁע הַבָּיְתָה",
+       "translit": "vaiavo Elişa habaita",
+       "strong": "H935",
+       "pos": "verb + substantiv propriu + substantiv",
+       "def_ro": "a venit Elisei în casă."
+      },
+      {
+       "t": " și iată, "
+      },
+      {
+       "t": "tânărul era mort",
+       "w": "tânărul era mort",
+       "heb": "הַנַּעַר מֵת",
+       "translit": "hanaar mēt",
+       "strong": "H4191",
+       "pos": "substantiv + adjectiv",
+       "def_ro": "tânărul [era] mort."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "întins pe patul lui",
+       "w": "întins pe patul lui",
+       "heb": "מֻשְׁכָּב עַל־מִטָּתוֹ",
+       "translit": "muşkav al-mitato",
+       "strong": "H7901",
+       "pos": "verb, hofal participiu + substantiv",
+       "def_ro": "culcat pe patul lui."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּבֹא אֱלִישָׁע הַבָּיְתָה וְהִנֵּה הַנַּעַר מֵת מֻשְׁכָּב עַל־מִטָּתוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἰσῆλθεν Ἐλεισαῖε εἰς τὸν οἶκον, καὶ ἰδοὺ τὸ παιδάριον τεθνηκώς, κεκοιμισμένον ἐπὶ τὴν κλίνην αὐτοῦ.",
+       "greek": true,
+       "translation": "„Și a intrat Elisei în casă, și iată copilul mort, culcat pe patul lui.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "[Elisei a intrat] în casa șunamitei, în odaia zidită pentru el: „iată, copilul era mort, întins pe pat” — pe patul lui, unde l-a găsit cu adevărat mort."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Profetul a văzut atunci că trupul și duhul copilului erau despărțite."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Toate minunile din această secțiune (2 Regi 4 - 8:6) au ca scop să dovedească faptul că Elisei a fost continuatorul lucrării începute de Ilie, de a întoarce pe Israel de la slujirea lui Baal la slujirea Dumnezeului celui viu."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Putem crede pe bună dreptate că, după nașterea acestui fiu, profetul a fost de două ori mai binevenit la buna șunamită; și copilul îi era drag, ca fiul rugăciunilor lui."
+      }
+     ]
+    },
+    {
+     "v": "4:33",
+     "t": "Și a intrat și a închis ușa în urma amândurora și s-a rugat DOMNULUI.",
+     "heb": "וַיָּבֹא וַיִּסְגֹּר הַדֶּלֶת בְּעַד שְׁנֵיהֶם וַיִּתְפַּלֵּל אֶל־יְהוָה",
+     "translit": "Vaiavo vaisgor hadelet bead şenēihem vaitpalēl el-ADONAI.",
+     "tokens": [
+      {
+       "t": "Și a "
+      },
+      {
+       "t": "intrat",
+       "w": "intrat",
+       "heb": "וַיָּבֹא",
+       "translit": "vaiavo",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a intrat."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "închis ușa în urma amândurora",
+       "w": "închis ușa în urma amândurora",
+       "heb": "וַיִּסְגֹּר הַדֶּלֶת בְּעַד שְׁנֵיהֶם",
+       "translit": "vaisgor hadelet bead şenēihem",
+       "strong": "H5462",
+       "pos": "verb + substantiv + prepoziție + numeral",
+       "def_ro": "a închis ușa în urma celor doi — el și copilul.",
+       "dict_ro": "Discreția minunii, deja remarcată la 4:4 (ulciorul de untdelemn) și 4:21 (ascunderea trupului de familie), revine aici a treia oară: Elisei se închide singur, fără martori, ca să se roage — modelul biblic constant al minunii săvârșite în taină, nu în văzul lumii."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "s-a rugat DOMNULUI",
+       "w": "s-a rugat DOMNULUI",
+       "heb": "וַיִּתְפַּלֵּל אֶל־יְהוָה",
+       "translit": "vaitpalēl el-ADONAI",
+       "strong": "H6419",
+       "pos": "verb, hitpael imperfect consecutiv + substantiv propriu",
+       "def_ro": "s-a rugat către DOMNUL."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּבֹא וַיִּסְגֹּר הַדֶּלֶת בְּעַד שְׁנֵיהֶם וַיִּתְפַּלֵּל אֶל־יְהוָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἰσῆλθεν Ἐλεισαῖε εἰς τὸν οἶκον καὶ ἀπέκλεισεν τὴν θύραν κατὰ τῶν δύο ἑαυτῶν, καὶ προσηύξατο πρὸς Κύριον.",
+       "greek": true,
+       "translation": "„Și a intrat Elisei în casă, și a încuiat ușa după cei doi ai lui, și s-a rugat către Domnul.”",
+       "note": "LXX repetă „a intrat Elisei în casă” (deja spus la v. 32), pe când TM folosește doar verbul „a intrat”, subînțelegând subiectul din versetul precedent."
+      }
+     ],
+     "refs": [
+      "1 Regi 17:20-21"
+     ],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Ca nimeni să nu intre și să-l întrerupă în rugăciunile lui pentru întoarcerea copilului la viață, nici să vadă mișcările și gesturile pe care le făcea, și pozițiile în care se punea: „și s-a rugat DOMNULUI” — ca să întoarcă viața copilului."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "N-avea nicio putere a lui prin care să poată învia copilul [de aceea s-a rugat DOMNULUI]."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Deși atingerea unui trup mort ar fi adus necurăție ceremonială, în împlinirea marilor datorii morale de evlavie și bunăvoință, legile pozitive erau uneori lăsate deoparte, mai ales de către profeți."
+      }
+     ]
+    },
+    {
+     "v": "4:34",
+     "t": "Apoi s-a urcat și s-a întins peste tânăr, și și-a pus gura pe gura lui, ochii pe ochii lui, palmele pe palmele lui; și s-a întins asupra lui și a încălzit trupul tânărului.",
+     "heb": "וַיַּעַל וַיִּשְׁכַּב עַל־הַיֶּלֶד וַיָּשֶׂם פִּיו עַל־פִּיו וְעֵינָיו עַל־עֵינָיו וְכַפָּיו עַל־כַּפָּיו וַיִּגְהַר עָלָיו וַיָּחָם בְּשַׂר הַיָּלֶד",
+     "translit": "Vaiaal vaişkav al-haialed vaiaşem piv al-piv veēinav al-ēinav vehapav al-kapav vaighar alav vaiaham beşar haialed.",
+     "tokens": [
+      {
+       "t": "Apoi s-a "
+      },
+      {
+       "t": "urcat",
+       "w": "urcat",
+       "heb": "וַיַּעַל",
+       "translit": "vaiaal",
+       "strong": "H5927",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "s-a suit."
+      },
+      {
+       "t": " și s-a "
+      },
+      {
+       "t": "întins peste tânăr",
+       "w": "întins peste tânăr",
+       "heb": "וַיִּשְׁכַּב עַל־הַיֶּלֶד",
+       "translit": "vaişkav al-haialed",
+       "strong": "H7901",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "s-a culcat peste copil — după modelul lui Ilie la 1 Regi 17:21."
+      },
+      {
+       "t": ", și și-a "
+      },
+      {
+       "t": "pus gura pe gura lui, ochii pe ochii lui, palmele pe palmele lui",
+       "w": "pus gura pe gura lui, ochii pe ochii lui, palmele pe palmele lui",
+       "heb": "וַיָּשֶׂם פִּיו עַל־פִּיו וְעֵינָיו עַל־עֵינָיו וְכַפָּיו עַל־כַּפָּיו",
+       "translit": "vaiaşem piv al-piv veēinav al-ēinav vehapav al-kapav",
+       "strong": "H6310",
+       "pos": "verb + substantive compuse",
+       "def_ro": "a pus gura lui pe gura lui, și ochii lui pe ochii lui, și palmele lui pe palmele lui.",
+       "dict_ro": "Metzudat David înțelege gestul ca pe un transfer simbolic de vitalitate: „ca și cum ar revărsa din viața propriilor lui mădulare în mădularele tânărului” — nu o simplă poziție rituală, ci o imagine a vieții profetului „împrumutată” trupului fără suflare."
+      },
+      {
+       "t": "; și s-a "
+      },
+      {
+       "t": "întins asupra lui",
+       "w": "întins asupra lui",
+       "heb": "וַיִּגְהַר עָלָיו",
+       "translit": "vaighar alav",
+       "strong": "H1457",
+       "pos": "verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "s-a aplecat/prosternat asupra lui.",
+       "dict_ro": "Rashi notează o dezbatere veche asupra sensului exact al verbului rar „vaighar”: Targumul lui Ionatan îl leagă de „oboseală” („s-a istovit asupra lui”), citând o formă asemănătoare din Baraita lui Haazinu și din Sifrei, în timp ce Menahem îl explică după context, „s-a întins/culcat peste el” — aceeași rădăcină apare la 1 Regi 18:42, despre Ilie plecat cu fața la pământ pe Carmel."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "încălzit trupul tânărului",
+       "w": "încălzit trupul tânărului",
+       "heb": "וַיָּחָם בְּשַׂר הַיָּלֶד",
+       "translit": "vaiaham beşar haialed",
+       "strong": "H2552",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "s-a încălzit carnea copilului."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַל וַיִּשְׁכַּב עַל־הַיֶּלֶד וַיָּשֶׂם פִּיו עַל־פִּיו וְעֵינָיו עַל־עֵינָיו וְכַפָּיו עַל־כַּפָּיו וַיִּגְהַר עָלָיו וַיָּחָם בְּשַׂר הַיָּלֶד",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέβη καὶ ἐκοιμήθη ἐπὶ τὸ παιδάριον, καὶ ἔθηκεν τὸ στόμα αὐτοῦ ἐπὶ τὸ στόμα αὐτοῦ...",
+       "greek": true,
+       "translation": "„Și s-a suit, și s-a culcat peste copil, și a pus gura lui pe gura lui...”",
+       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+      }
+     ],
+     "refs": [
+      "1 Regi 17:21",
+      "Faptele Apostolilor 20:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„S-a întins asupra lui” — Targumul lui Ionatan redă „ve'alhi alohi”, expresie de istovire [„s-a culcat istovit peste el”]; există o formă asemănătoare în Baraita lui Haazinu și în Sifrei. Dar Menahem explică „vaighar” după context, [ca] „s-a întins/prosternat peste el” — vezi 1 Regi 18:42."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Gura lui pe gura lui” — ca și cum ar revărsa din viața aflată în mădularele lui în mădularele tânărului."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Vaighar” — termen de întindere a trupului la pământ, ca „s-a aplecat la pământ” (1 Regi 18:42). „Vaiaham” — din rădăcina căldurii."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "S-a urcat la pat, care era pe o ridicătură în odaie, și s-a întins peste copil, cum făcuse Ilie cu fiul văduvei din Sarepta. A făcut fiecare din aceste lucruri pe rând, întrucât disproporția trupurilor lor n-ar fi îngăduit să le facă deodată: „și carnea copilului s-a încălzit” — nu prin vreo putere dată de aceste mișcări și fapte ale profetului, ci prin viața turnată în el de DOMNUL, care a pricinuit căldură în diferitele părți ale trupului."
+      },
+      {
+       "author": "Sfântul Augustin, Cuvântări despre Vechiul Testament",
+       "text": "Ce rost are adăugirea pe care ai crezut că trebuie s-o faci la această comparație luată din pilda fericitului Elisei, anume că a înviat un copil mort suflând peste fața lui? Crezi oare cu adevărat că suflarea lui Elisei a devenit sufletul copilului? N-aș fi crezut că te-ai rătăcit atât de departe de adevăr."
+      }
+     ]
+    },
+    {
+     "v": "4:35",
+     "t": "Apoi [Elișa] s-a dat la o parte și s-a plimbat prin casă, încolo și încoace, s-a ridicat și s-a culcat peste el. Și tânărul a strănutat de șapte ori și tânărul a deschis ochii.",
+     "heb": "וַיָּשָׁב וַיֵּלֶךְ בַּבַּיִת אַחַת הֵנָּה וְאַחַת הֵנָּה וַיַּעַל וַיִּגְהַר עָלָיו וַיְזוֹרֵר הַנַּעַר עַד־שֶׁבַע פְּעָמִים וַיִּפְקַח הַנַּעַר אֶת־עֵינָיו",
+     "translit": "Vaiaşov vaiēleh babait ahat hēna veahat hēna vaiaal vaighar alav vaizorēr hanaar ad-şeva peamim vaifkah hanaar et-ēinav.",
+     "tokens": [
+      {
+       "t": "Apoi [Elișa] s-a "
+      },
+      {
+       "t": "dat la o parte",
+       "w": "dat la o parte",
+       "heb": "וַיָּשָׁב",
+       "translit": "vaiaşov",
+       "strong": "H7725",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "s-a întors/retras."
+      },
+      {
+       "t": " și s-a "
+      },
+      {
+       "t": "plimbat prin casă, încolo și încoace",
+       "w": "plimbat prin casă, încolo și încoace",
+       "heb": "וַיֵּלֶךְ בַּבַּיִת אַחַת הֵנָּה וְאַחַת הֵנָּה",
+       "translit": "vaiēleh babait ahat hēna veahat hēna",
+       "strong": "H1980",
+       "pos": "verb + substantiv + expresie adverbială",
+       "def_ro": "a umblat prin casă, o dată încoace și o dată încolo."
+      },
+      {
+       "t": ", s-a "
+      },
+      {
+       "t": "ridicat",
+       "w": "ridicat",
+       "heb": "וַיַּעַל",
+       "translit": "vaiaal",
+       "strong": "H5927",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "s-a suit din nou [la odaie]."
+      },
+      {
+       "t": " și s-a "
+      },
+      {
+       "t": "culcat peste el",
+       "w": "culcat peste el",
+       "heb": "וַיִּגְהַר עָלָיו",
+       "translit": "vaighar alav",
+       "strong": "H1457",
+       "pos": "verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "s-a întins peste el, a doua oară."
+      },
+      {
+       "t": ". Și "
+      },
+      {
+       "t": "tânărul a strănutat de șapte ori",
+       "w": "tânărul a strănutat de șapte ori",
+       "heb": "וַיְזוֹרֵר הַנַּעַר עַד־שֶׁבַע פְּעָמִים",
+       "translit": "vaizorēr hanaar ad-şeva peamim",
+       "strong": "H2237",
+       "pos": "verb + substantiv + expresie numerică",
+       "def_ro": "a strănutat tânărul de șapte ori.",
+       "dict_ro": "Potrivit unei tradiții citate în legătură cu comentariul lui Rashi la acest verset, izvorâtă din Zohar, copilul înviat aici ar fi fost, în viața lui de mai târziu, profetul Habacuc — o identificare midrașică ce leagă cuvântul „hoveket” („vei îmbrățișa [un fiu]”, 4:16) de rădăcina numelui Habacuc (חבק, „a îmbrățișa”)."
+      },
+      {
+       "t": " și tânărul a "
+      },
+      {
+       "t": "deschis ochii",
+       "w": "deschis ochii",
+       "heb": "וַיִּפְקַח הַנַּעַר אֶת־עֵינָיו",
+       "translit": "vaifkah hanaar et-ēinav",
+       "strong": "H6491",
+       "pos": "verb, qal imperfect consecutiv + substantiv + substantiv",
+       "def_ro": "a deschis tânărul ochii lui."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּשָׁב וַיֵּלֶךְ בַּבַּיִת אַחַת הֵנָּה וְאַחַת הֵנָּה וַיַּעַל וַיִּגְהַר עָלָיו וַיְזוֹרֵר הַנַּעַר עַד־שֶׁבַע פְּעָמִים וַיִּפְקַח הַנַּעַר אֶת־עֵינָיו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπέστρεψεν καὶ ἐπορεύθη ἐν τῇ οἰκίᾳ ἔνθεν καὶ ἔνθεν, καὶ ἀνέβη καὶ συνέκαμψεν ἐπὶ τὸ παιδάριον...",
+       "greek": true,
+       "translation": "„Și s-a întors, și a umblat prin casă încoace și încolo, și s-a suit, și s-a aplecat peste copil...”",
+       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„A strănutat” — a strănutat. [Potrivit unei tradiții citate din Zohar la acest verset:] copilul înviat aici de Elisei ar fi profetul Habacuc — aluzie prezentă deja la v. 16, unde profetul îi spune femeii „vei îmbrățișa [חֹבֶקֶת] un fiu”."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„S-a întors” — a revenit, coborând de pe pat. „O dată încoace” — o dată trecând într-o parte, o dată în cealaltă. „De șapte ori” — a strănutat de șapte ori, și abia după aceea a deschis ochii."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Vaizorēr” — termen de strănut, ca „strănuturile lui strălucesc lumina” (Iov 41:10), tradus [de Targum] „zerirohi”. „Vaifkah” — a deschis, ca „ochii lui deschiși” (Iov 27:19)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "A părăsit odaia și a coborât în casa unde locuia de obicei familia, și a umblat încolo și încoace, adânc cufundat în gând și meditație, și, fără îndoială, în suspine fierbinți pentru împlinirea binecuvântării dorite; apoi s-a urcat din nou la odaie, la pat, și s-a întins peste el ca înainte: „și copilul a strănutat de șapte ori”, semn de viață, ba chiar de sănătate; prin aceasta i s-a limpezit capul, observă unii, de umorile care-i pricinuiseră durerile și sfârșiseră prin moarte; „și copilul și-a deschis ochii” — spre profet, alt semn de viață."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Acestea au fost primele semne ale respirației reînnoite, și sunt descrise ca pași succesivi. Minunile erau de cele mai multe ori săvârșite pe loc; dar uneori, de asemenea, înaintau treptat spre împlinire (1 Regi 18:44-45; Marcu 8:24-25)."
+      }
+     ]
+    },
+    {
+     "v": "4:36",
+     "t": "El l-a chemat pe Ghehazi și i-a spus: „Cheam-o pe femeia șunamită.” El a chemat-o și ea a venit la el; și el i-a spus: „Ia-ți copilul!”",
+     "heb": "וַיִּקְרָא אֶל־גֵּיחֲזִי וַיֹּאמֶר קְרָא אֶל־הַשֻּׁנַמִּית הַזֹּאת וַיִּקְרָאֶהָ וַתָּבוֹא אֵלָיו וַיֹּאמֶר שְׂאִי בְנֵךְ",
+     "translit": "Vaikra el-Ghēihazi vaiomer kera el-haşunamit hazot vaikraeha vatavo ēlav vaiomer seī venēh.",
+     "tokens": [
+      {
+       "t": "El l-a chemat pe Ghehazi și i-a spus: „"
+      },
+      {
+       "t": "Cheam-o pe femeia șunamită",
+       "w": "Cheam-o pe femeia șunamită",
+       "heb": "קְרָא אֶל־הַשֻּׁנַמִּית הַזֹּאת",
+       "translit": "kera el-haşunamit hazot",
+       "strong": "H7121",
+       "pos": "verb, qal imperativ + substantiv",
+       "def_ro": "cheamă pe această șunamită."
+      },
+      {
+       "t": ".” El "
+      },
+      {
+       "t": "a chemat-o",
+       "w": "a chemat-o",
+       "heb": "וַיִּקְרָאֶהָ",
+       "translit": "vaikraeha",
+       "strong": "H7121",
+       "pos": "verb, qal imperfect consecutiv + sufix",
+       "def_ro": "a chemat-o."
+      },
+      {
+       "t": " și ea a "
+      },
+      {
+       "t": "venit la el",
+       "w": "venit la el",
+       "heb": "וַתָּבוֹא אֵלָיו",
+       "translit": "vatavo ēlav",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "a venit la el."
+      },
+      {
+       "t": "; și el i-a spus: „"
+      },
+      {
+       "t": "Ia-ți copilul",
+       "w": "Ia-ți copilul",
+       "heb": "שְׂאִי בְנֵךְ",
+       "translit": "seī venēh",
+       "strong": "H5375",
+       "pos": "verb, qal imperativ + substantiv",
+       "def_ro": "ridică-ți fiul."
+      },
+      {
+       "t": "!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּקְרָא אֶל־גֵּיחֲזִי וַיֹּאמֶר קְרָא אֶל־הַשֻּׁנַמִּית הַזֹּאת וַיִּקְרָאֶהָ וַתָּבוֹא אֵלָיו וַיֹּאמֶר שְׂאִי בְנֵךְ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐξεβόησεν Ἐλεισαῖε πρὸς Γιεζεὶ καὶ εἶπεν Κάλεσον τὴν Σωμανεῖτιν ταύτην...",
+       "greek": true,
+       "translation": "„Și a strigat Elisei către Ghiezi, și a zis: Cheamă pe această Șomanit...”",
+       "note": "LXX folosește un verb mai intens, „a strigat” (ἐξεβόησεν), în locul simplului „a chemat” din TM — sugerând poate emoția momentului."
+      }
+     ],
+     "refs": [
+      "1 Regi 17:23"
+     ],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Ia-ți fiul” — de pe pat, viu, teafăr și sănătos."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Cuvintele scurte ale lui Elisei — „ia-ți copilul” — ascund o bucurie și o biruință pe care niciun discurs lung n-ar fi putut-o exprima mai bine; e felul lui Dumnezeu de a lucra: fără paradă, dar cu roade depline."
+      }
+     ]
+    },
+    {
+     "v": "4:37",
+     "t": "Ea a venit și i-a căzut la picioare și s-a prosternat până la pământ, apoi și-a luat copilul și a plecat.",
+     "heb": "וַתָּבֹא וַתִּפֹּל עַל־רַגְלָיו וַתִּשְׁתַּחוּ אָרְצָה וַתִּשָּׂא אֶת־בְּנָהּ וַתֵּצֵא",
+     "translit": "Vatavo vatipol al-raglav vatiştahu arţa vatisa et-bena vatēţē.",
+     "tokens": [
+      {
+       "t": "Ea a "
+      },
+      {
+       "t": "venit",
+       "w": "venit",
+       "heb": "וַתָּבֹא",
+       "translit": "vatavo",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a venit."
+      },
+      {
+       "t": " și i-a "
+      },
+      {
+       "t": "căzut la picioare",
+       "w": "căzut la picioare",
+       "heb": "וַתִּפֹּל עַל־רַגְלָיו",
+       "translit": "vatipol al-raglav",
+       "strong": "H5307",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "a căzut la picioarele lui."
+      },
+      {
+       "t": " și s-a "
+      },
+      {
+       "t": "prosternat până la pământ",
+       "w": "prosternat până la pământ",
+       "heb": "וַתִּשְׁתַּחוּ אָרְצָה",
+       "translit": "vatiştahu arţa",
+       "strong": "H7812",
+       "pos": "verb, hishtafel imperfect consecutiv + substantiv",
+       "def_ro": "s-a închinat până la pământ."
+      },
+      {
+       "t": ", apoi și-a "
+      },
+      {
+       "t": "luat copilul",
+       "w": "luat copilul",
+       "heb": "וַתִּשָּׂא אֶת־בְּנָהּ",
+       "translit": "vatisa et-bena",
+       "strong": "H5375",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "și-a ridicat fiul."
+      },
+      {
+       "t": " și a "
+      },
+      {
+       "t": "plecat",
+       "w": "plecat",
+       "heb": "וַתֵּצֵא",
+       "translit": "vatēţē",
+       "strong": "H3318",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a ieșit."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתָּבֹא וַתִּפֹּל עַל־רַגְלָיו וַתִּשְׁתַּחוּ אָרְצָה וַתִּשָּׂא אֶת־בְּנָהּ וַתֵּצֵא",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἰσῆλθεν ἡ γυνὴ καὶ ἔπεσεν ἐπὶ τοὺς πόδας αὐτοῦ καὶ προσεκύνησεν ἐπὶ τὴν γῆν...",
+       "greek": true,
+       "translation": "„Și a intrat femeia, și a căzut la picioarele lui, și s-a închinat la pământ...”",
+       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+      }
+     ],
+     "refs": [
+      "1 Regi 17:24"
+     ],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Din odaie în casa ei, cu mare bucurie și veselie."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "Puțini pot pătrunde simțămintele acestei femei nobile. Cât de mare trebuie să fi fost neliniștea ei în timp ce profetul se ostenea în acel proces lent descris mai sus! căci lent trebuie să fi fost prin însăși firea lui, și cu totul istovitor pentru profetul însuși."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Așa se încheie una dintre cele mai frumoase povești din toată cartea Regilor: o credință liniștită, o durere tăinuită cu tărie, și o bucurie deplină la sfârșit — pildă pentru toți cei ce, în ceasul cel mai greu, știu unde să-și ducă necazul, și cui să i-l încredințeze."
+      },
+      {
+       "author": "Fericitul Ieronim, Omilii la Psalmi",
+       "text": "«Cântați Domnului.» De ce? Ce a făcut El? De ce I se cuvine o cântare nouă? «Căci a făcut lucruri minunate.» A săvârșit minuni printre iudei: a vindecat paralitici, a curățit leproși, a înviat morți. Dar și alți proroci au făcut aceasta. Elisei a înviat un mort — dar ce lucru nou a făcut [Hristos] Însuși, ca să merite o cântare nouă? Vrei să știi ce a făcut nou? Dumnezeu a murit ca om, ca omenirea să trăiască; Fiul lui Dumnezeu a fost răstignit, ca să ne înalțe la cer."
       }
      ]
     }
