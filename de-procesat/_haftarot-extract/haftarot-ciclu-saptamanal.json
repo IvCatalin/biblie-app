@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "7 capitole (din 54+2 planificate) · 7 complete la Standardul Davar",
+ "meta": "8 capitole (din 54+2 planificate) · 8 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -24009,6 +24009,1855 @@
       {
        "author": "John Gill, Expoziție la Vechiul Testament (la Ioel 2:27)",
        "text": "Și veți ști că Eu sunt în mijlocul lui Israel — prin prezența Mea specială cu ei, prin ocrotirea și purtarea Mea de grijă față de ei, în ciuda judecăților trecute, arătând că nu i-am părăsit cu totul. Și Eu sunt DOMNUL, Dumnezeul vostru, și nu este altul — niciun alt dumnezeu adevărat afară de Mine, oricâți idoli deșerți s-ar închipui și s-ar închina."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "num": 8,
+   "title": "Haftarat Vaișlah",
+   "ref": "Ovadia 1:1-21",
+   "intro": "Haftara pentru parașat Vaișlah — cuprinde toată cartea profetului Ovadia (al cărui nume înseamnă „slujitorul lui Dumnezeu”), una dintre cele mai scurte cărți din toată Biblia Ebraică. Profetul — el însuși un urmaș îndepărtat al lui Esau, dar cu un comportament atipic pentru acel neam, potrivit tradiției rabinice citate de Rashi (Sanhedrin 39b) — primește misiunea de a exprima în cuvinte mânia divină la adresa lui Esau, care, deși a fost expus acelorași valori ca și Iacov, a ales să meargă pe o cale morală și spirituală complet diferită. Textul redă diverse momente ale istoriei lui Esau, pornind de la relatări biblice și culminând cu o profeție despre Imperiul Roman. Firul roșu al narațiunii e că, în întreaga istorie, conform binecuvântării primite de la Isaac, Esau a trăit prin sabie și a avut numeroase confruntări cu urmașii lui Iacov, poporul evreu.",
+   "verses": [
+    {
+     "v": "1:1",
+     "t": "Viziunea lui Ovadia: Astfel a spus Stăpânul meu, Domnul DUMNEZEU, despre Edom: Am primit vești de la DOMNUL și între popoare un sol a fost trimis: „Ridicați-vă! Să ne ridicăm împotriva lui la luptă!”",
+     "heb": "חֲזוֹן עֹבַדְיָה כֹּה־אָמַר אֲדֹנָי יְהוִה לֶאֱדוֹם שְׁמוּעָה שָׁמַעְנוּ מֵאֵת יְהוָה וְצִיר בַּגּוֹיִם שֻׁלָּח קוּמוּ וְנָקוּמָה עָלֶיהָ לַמִּלְחָמָה",
+     "translit": "Hazon Ovadia ko-amar Adonai ELOHIM le'Edom şemua şamanu mēēt ADONAI vetzir bagoim şulah kumu venakuma aleha lamilhama.",
+     "tokens": [
+      {
+       "t": "Viziunea lui Ovadia",
+       "w": "Viziunea lui Ovadia",
+       "heb": "חֲזוֹן עֹבַדְיָה",
+       "translit": "hazon Ovadia",
+       "strong": "H5662",
+       "pos": "substantiv + substantiv propriu",
+       "def_ro": "viziunea lui Ovadia.",
+       "dict_ro": "Rashi citează Talmudul (Sanhedrin 39b) pentru a explica de ce anume Ovadia a fost ales să profețească împotriva lui Edom, și nu altă profeție: „Ovadia era un prozelit edomit. A spus Cel Sfânt, binecuvântat fie El: din mijlocul lor și prin ei voi aduce asupra lor [pedeapsa]. Să vină Ovadia, care a locuit între doi răi, Ahab și Izabela, și n-a învățat din faptele lor, și să facă dreptate împotriva lui Esau cel rău, care a locuit între doi drepți, Isaac și Rebeca, și n-a învățat din faptele lor.” Numele „Ovadia” înseamnă literal „slujitorul lui Dumnezeu”."
+      },
+      {
+       "t": ": Astfel a spus "
+      },
+      {
+       "t": "Stăpânul meu, Domnul DUMNEZEU, despre Edom",
+       "w": "Stăpânul meu, Domnul DUMNEZEU, despre Edom",
+       "heb": "כֹּה־אָמַר אֲדֹנָי יְהוִה לֶאֱדוֹם",
+       "translit": "ko-amar Adonai ELOHIM le'Edom",
+       "strong": "H113",
+       "pos": "verb + substantiv + substantiv propriu + substantiv propriu",
+       "def_ro": "așa a zis Stăpânul DOMN despre Edom."
+      },
+      {
+       "t": ": Am primit "
+      },
+      {
+       "t": "vești de la DOMNUL",
+       "w": "vești de la DOMNUL",
+       "heb": "שְׁמוּעָה שָׁמַעְנוּ מֵאֵת יְהוָה",
+       "translit": "şemua şamanu mēēt ADONAI",
+       "strong": "H8052",
+       "pos": "substantiv + verb + substantiv propriu",
+       "def_ro": "o veste am auzit de la DOMNUL."
+      },
+      {
+       "t": " și între popoare "
+      },
+      {
+       "t": "un sol a fost trimis",
+       "w": "un sol a fost trimis",
+       "heb": "וְצִיר בַּגּוֹיִם שֻׁלָּח",
+       "translit": "vetzir bagoim şulah",
+       "strong": "H6735",
+       "pos": "substantiv + substantiv + verb",
+       "def_ro": "și un sol printre neamuri a fost trimis."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Ridicați-vă! Să ne ridicăm împotriva lui la luptă!",
+       "w": "Ridicați-vă! Să ne ridicăm împotriva lui la luptă!",
+       "heb": "קוּמוּ וְנָקוּמָה עָלֶיהָ לַמִּלְחָמָה",
+       "translit": "kumu venakuma aleha lamilhama",
+       "strong": "H4421",
+       "pos": "verb + verb + substantiv",
+       "def_ro": "ridicați-vă și să ne ridicăm împotriva ei la război."
+      },
+      {
+       "t": "”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "חֲזוֹן עֹבַדְיָה כֹּה־אָמַר אֲדֹנָי יְהוִה לֶאֱדוֹם שְׁמוּעָה שָׁמַעְנוּ מֵאֵת יְהוָה וְצִיר בַּגּוֹיִם שֻׁלָּח קוּמוּ וְנָקוּמָה עָלֶיהָ לַמִּלְחָמָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale față de LXX la acest verset — deschiderea cărții e aproape identică între TM și Septuaginta."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΟΡΑΣΙΣ Ὀβδειού. Τάδε λέγει Κύριος ὁ θεὸς τῇ Ἰδουμαίᾳ Ἀκοὴν ἤκουσα παρὰ Κυρίου, καὶ περιοχὴν εἰς τὰ ἔθνη ἐξαπέστειλεν Ἀνάστητε καὶ ἐξαναστῶμεν ἐπ᾽ αὐτὴν εἰς πόλεμον.",
+       "greek": true,
+       "translation": "„Viziunea lui Obdeiu. Așa zice Domnul Dumnezeu Idumeii: Un zvon am auzit de la Domnul, și o solie a trimis la neamuri: Ridicați-vă și să ne ridicăm împotriva ei la război.”",
+       "note": "LXX redă „sol” prin „solie/asediu” (περιοχή, cuvânt cu sens dublu în greacă), o nuanță ușor diferită de simplul „mesager” (צִיר) din TM."
+      }
+     ],
+     "refs": [
+      "Ieremia 49:14-16",
+      "Talmud Bavli, Sanhedrin 39b"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Viziunea lui Ovadia” — de ce anume Ovadia [a fost ales] pentru Edom, și n-a profețit altă profeție? Au spus Înțelepții: Ovadia era un prozelit edomit. A spus Cel Sfânt, binecuvântat fie El: din mijlocul lor și prin ei voi aduce asupra lor. Să vină Ovadia, care a locuit între doi răi, Ahab și Izabela, și n-a învățat din faptele lor, și să facă dreptate împotriva lui Esau cel rău, care a locuit între doi drepți, Isaac și Rebeca, și n-a învățat din faptele lor. [din Sanhedrin 39b]"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Viziunea lui Ovadia” — aceasta e vedenia profeției lui Ovadia. „Despre Edom” — vrea să spună: eu și ceilalți profeți am auzit o veste de la DOMNUL, căci mulți profeți au profețit despre nimicirea Edomului. „Și un sol” — vrea să spună: așa cum am auzit, așa este, căci toate neamurile s-au ridicat să vină împotriva lui la război, și și-au trimis solii unii altora, zicând: ridicați-vă și voi, să mergem și noi împreună la război împotriva lui."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Viziunea lui Ovadia — sau profeția, cum spune Targumul; care i-a fost dată de DOMNUL într-o vedenie; nu era ceea ce el și-a închipuit sau a visat, ci ceea ce a văzut, ceea ce i-a fost descoperit limpede minții. Aceasta era o singură profeție; deși uneori o carte alcătuită din mai multe profeții e numită „vedenie”, cum profețiile lui Isaia sunt numite „vedenia lui Isaia” (Isaia 1:1)."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Ovadia",
+       "text": "Prefața lui Ovadia e că n-a adus nimic omenesc, ci doar a vestit vedenia ce i-a fost înfățișată de sus. Știm, într-adevăr, că numai Dumnezeu trebuia ascultat mereu în Biserică, așa cum și acum cere să fie ascultat; dar și-a trimis totuși profeții, așa cum mai târziu a trimis apostolii; da, așa cum și-a trimis pe însuși Fiul Său unul-născut."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "DOMNUL amenință pe Edom cu război, pentru că a hotărât să smerească și să umilească acest neam, care acum, cu mândra lui încredere în cetățuile lui înalte de stâncă, se socotește de neînvins."
+      }
+     ]
+    },
+    {
+     "v": "1:2",
+     "t": "Iată, te-am făcut mic printre neamuri, ești foarte disprețuit.",
+     "heb": "הִנֵּה קָטֹן נְתַתִּיךָ בַּגּוֹיִם בָּזוּי אַתָּה מְאֹד",
+     "translit": "Hinē katon netatiha bagoim bazui ata meod.",
+     "tokens": [
+      {
+       "t": "Iată, te-am "
+      },
+      {
+       "t": "făcut mic printre neamuri",
+       "w": "făcut mic printre neamuri",
+       "heb": "הִנֵּה קָטֹן נְתַתִּיךָ בַּגּוֹיִם",
+       "translit": "hinē katon netatiha bagoim",
+       "strong": "H6996",
+       "pos": "interjecție + adjectiv + verb + substantiv",
+       "def_ro": "iată, mic te-am făcut printre neamuri.",
+       "dict_ro": "Rashi citează un midraș (Pesikta de-Rav Kahana, Bereșit Rabbah 65:11) care leagă direct acest verset de Geneza: „spre deosebire de ceea ce tatăl lui îl numea «fiul lui cel mare» și mama lui îl numea «fiul ei cel mare», Cel Sfânt, binecuvântat fie El, zice: înaintea Mea el e mic.” Talmudul (Avoda Zara 10a) adaugă o explicație suplimentară: „mic” — pentru că edomiții n-aveau nici scriere proprie, nici limbă proprie, spre deosebire de alte popoare."
+      },
+      {
+       "t": ", ești foarte "
+      },
+      {
+       "t": "disprețuit",
+       "w": "disprețuit",
+       "heb": "בָּזוּי אַתָּה מְאֹד",
+       "translit": "bazui ata meod",
+       "strong": "H959",
+       "pos": "adjectiv + pronume + adverb",
+       "def_ro": "disprețuit ești tu foarte."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הִנֵּה קָטֹן נְתַתִּיךָ בַּגּוֹיִם בָּזוּי אַתָּה מְאֹד",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἰδοὺ ὀλιγοστὸν δέδωκά σε ἐν τοῖς ἔθνεσιν, ἠτιμωμένος σὺ εἶ σφόδρα·",
+       "greek": true,
+       "translation": "„Iată, foarte mic te-am dat printre neamuri, disprețuit ești tu foarte.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Geneza 25:23",
+      "Ieremia 49:15",
+      "Talmud Bavli, Avoda Zara 10a"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Iată, te-am făcut mic” — spre deosebire de ceea ce tatăl lui îl numea «fiul lui cel mare» și mama lui îl numea «fiul ei cel mare», Cel Sfânt, binecuvântat fie El, zice: înaintea Mea el e mic. Iar Înțelepții noștri au tâlcuit (Avoda Zara 10a): mic — pentru că n-aveau nici scriere, nici limbă. „Disprețuit” — pentru că nu puneau rege fiu de rege [ca succesiune]."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Iată, te-am făcut mic” — la începutul stăpânirii tale în țara Seir, iată, atunci ai fost mic printre neamuri și foarte disprețuit printre ele, căci era o împărăție de rând."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Te-am făcut mic” — reducerea ta la neînsemnătate e la fel de sigură ca și cum ar fi deja împlinită; de aceea se folosește timpul trecut [Maurer]. Edomul se întindea atunci de la Dedan al Arabiei până la Bozra, la nord."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "„Iată, te-am făcut mic printre neamuri, foarte disprețuit ești.” Versetul 2 e legat corect prin „căci” de continuarea din Ieremia (49:15), întrucât conține motivul atacului [ce urmează]."
+      }
+     ]
+    },
+    {
+     "v": "1:3",
+     "t": "Inima ta arogantă te-a amăgit, tu, cel care sălășluiești în crăpătura stâncii, al cărui sălaș este în înălțimi, care spune în sinea sa: „Cine mă poate coborî pe pământ?”",
+     "heb": "זְדוֹן לִבְּךָ הִשִּׁיאֶךָ שֹׁכְנִי בְחַגְוֵי־סֶלַע מְרוֹם שִׁבְתּוֹ אֹמֵר בְּלִבּוֹ מִי יוֹרִדֵנִי אָרֶץ",
+     "translit": "Zedon libeha hişieha şohni vehagvēi-sela merom şivto omēr belibo mi ioridēni aretz.",
+     "tokens": [
+      {
+       "t": "Inima ta arogantă te-a amăgit",
+       "w": "Inima ta arogantă te-a amăgit",
+       "heb": "זְדוֹן לִבְּךָ הִשִּׁיאֶךָ",
+       "translit": "zedon libeha hişieha",
+       "strong": "H2087",
+       "pos": "substantiv + substantiv + verb",
+       "def_ro": "trufia inimii tale te-a amăgit."
+      },
+      {
+       "t": ", tu, cel care "
+      },
+      {
+       "t": "sălășluiești în crăpătura stâncii",
+       "w": "sălășluiești în crăpătura stâncii",
+       "heb": "שֹׁכְנִי בְחַגְוֵי־סֶלַע",
+       "translit": "şohni vehagvēi-sela",
+       "strong": "H2288",
+       "pos": "verb + substantiv compus",
+       "def_ro": "cel ce locuiește în crăpăturile stâncii.",
+       "dict_ro": "Rashi observă o legătură teologică implicită în adresarea „tu, cel ce sălășluiești”: Edom se sprijină pe meritul strămoșilor Avraam și Isaac (comuni cu Israel), dar profetul avertizează că această descendență nu-l va ajuta — meritul patriarhilor nu se moștenește automat prin descendență fizică, ci prin faptele proprii, temă centrală reluată la fiecare verset al mustrării."
+      },
+      {
+       "t": ", al cărui "
+      },
+      {
+       "t": "sălaș este în înălțimi",
+       "w": "sălaș este în înălțimi",
+       "heb": "מְרוֹם שִׁבְתּוֹ",
+       "translit": "merom şivto",
+       "strong": "H4791",
+       "pos": "substantiv + substantiv",
+       "def_ro": "înălțimea [este] locuința lui."
+      },
+      {
+       "t": ", care spune în sinea sa: „"
+      },
+      {
+       "t": "Cine mă poate coborî pe pământ?",
+       "w": "Cine mă poate coborî pe pământ?",
+       "heb": "אֹמֵר בְּלִבּוֹ מִי יוֹרִדֵנִי אָרֶץ",
+       "translit": "omēr belibo mi ioridēni aretz",
+       "strong": "H3381",
+       "pos": "verb + substantiv + pronume interogativ + verb + substantiv",
+       "def_ro": "zicând în inima lui: cine mă va coborî la pământ?"
+      },
+      {
+       "t": "”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "זְדוֹן לִבְּךָ הִשִּׁיאֶךָ שֹׁכְנִי בְחַגְוֵי־סֶלַע מְרוֹם שִׁבְתּוֹ אֹמֵר בְּלִבּוֹ מִי יוֹרִדֵנִי אָרֶץ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὑπερηφανία τῆς καρδίας σου ἐπῆρέν σε κατασκηνοῦντα ἐν ταῖς ὀπαῖς τῶν πετρῶν· ὑψῶν κατοικίαν αὐτοῦ, λέγων ἐν καρδίᾳ αὐτοῦ Τίς με κατάξει ἐπὶ τὴν γῆν;",
+       "greek": true,
+       "translation": "„Mândria inimii tale te-a înălțat, pe tine, cel ce locuiești în găurile pietrelor, înălțându-ți locuința, zicând în inima lui: Cine mă va coborî la pământ?”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Ieremia 49:16",
+      "Cântarea Cântărilor 2:14"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Cel ce sălășluiești în crăpătura stâncii” — cel ce se sprijină pe reazemul strămoșilor lui, Avraam și Isaac, dar ei nu-i vor folosi la nimic."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Trufia inimii tale te-a amăgit” — ca și cum ar spune: iată, acum, când te-ai mărit ca să stăpânești o stăpânire mare, de când ai venit la muntele Seir etc., de aceea trufia inimii tale te-a amăgit să te mândrești peste măsură. „Cel ce sălășluiești” — ca și cum ai locui în crăpăturile stâncii, unde nimeni nu se poate apropia de tine, și ca și cum locuința ta ar fi într-un loc înalt și trufaș, iar de aceea gândești în inima ta: cine mă va putea coborî în josul pământului?"
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Trufia inimii tale te-a amăgit — Edomiții erau trufași din pricina bogăției și avuției lor, pe care le strânseseră prin jafuri; și din pricina iscusinței și curajului lor militar, și a prietenilor și aliaților lor; și mai ales din pricina cetăților și fortărețelor lor, atât naturale, cât și artificiale; și de aceea se socoteau siguri, și că niciun vrăjmaș nu-i putea ajunge ca să le facă rău, iar aceasta i-a amăgit. Tu, cel ce locuiești în crăpăturile stâncii — țara lor era numită Arabia Petraea, cea stâncoasă, iar mitropola lor Petra, stânca."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Crăpăturile stâncii” — cetățile Edomului, și printre ele Petra, capitala, în Wadi Musa, alcătuită din case în cea mai mare parte săpate în stânci."
+      }
+     ]
+    },
+    {
+     "v": "1:4",
+     "t": "Chiar de te-nalți ca un vultur și îți așezi cuibul printre stele, de acolo te voi coborî – rostirea DOMNULUI.",
+     "heb": "אִם־תַּגְבִּיהַּ כַּנֶּשֶׁר וְאִם־בֵּין כּוֹכָבִים שִׂים קִנֶּךָ מִשָּׁם אוֹרִידְךָ נְאֻם־יְהוָה",
+     "translit": "Im-tagbiha kaneşer veim-bēin kohavim sim kineha mişam oridha neum-ADONAI.",
+     "tokens": [
+      {
+       "t": "Chiar de "
+      },
+      {
+       "t": "te-nalți ca un vultur",
+       "w": "te-nalți ca un vultur",
+       "heb": "אִם־תַּגְבִּיהַּ כַּנֶּשֶׁר",
+       "translit": "im-tagbiha kaneşer",
+       "strong": "H5404",
+       "pos": "conjuncție + verb + substantiv",
+       "def_ro": "de te vei înălța ca vulturul."
+      },
+      {
+       "t": " și îți "
+      },
+      {
+       "t": "așezi cuibul printre stele",
+       "w": "așezi cuibul printre stele",
+       "heb": "וְאִם־בֵּין כּוֹכָבִים שִׂים קִנֶּךָ",
+       "translit": "veim-bēin kohavim sim kineha",
+       "strong": "H3556",
+       "pos": "conjuncție + substantiv + verb + substantiv",
+       "def_ro": "și de-ți vei pune cuibul între stele."
+      },
+      {
+       "t": ", de acolo "
+      },
+      {
+       "t": "te voi coborî",
+       "w": "te voi coborî",
+       "heb": "מִשָּׁם אוֹרִידְךָ",
+       "translit": "mişam oridha",
+       "strong": "H3381",
+       "pos": "adverb + verb",
+       "def_ro": "de acolo te voi coborî."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "rostirea DOMNULUI",
+       "w": "rostirea DOMNULUI",
+       "heb": "נְאֻם־יְהוָה",
+       "translit": "neum-ADONAI",
+       "strong": "H5002",
+       "pos": "substantiv + substantiv propriu",
+       "def_ro": "rostirea DOMNULUI."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אִם־תַּגְבִּיהַּ כַּנֶּשֶׁר וְאִם־בֵּין כּוֹכָבִים שִׂים קִנֶּךָ מִשָּׁם אוֹרִידְךָ נְאֻם־יְהוָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐὰν μετεωρισθῇς ὡς ἀετός, καὶ ἐὰν ἀνὰ μέσον τῶν ἄστρων θῇς νοσσιάν σου, ἐκεῖθεν κατάξω σε, λέγει Κύριος.",
+       "greek": true,
+       "translation": "„De te vei înălța ca vulturul, și de-ți vei pune cuibul în mijlocul stelelor, de acolo te voi coborî, zice Domnul.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Ieremia 49:16",
+      "Iov 39:27",
+      "Isaia 14:13-15"
+     ],
+     "commentaries": [
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Te înalți” — sau se subînțelege din a doua parte „cuibul tău” [Maurer] (compară Iov 39:27; Ieremia 49:16). „Îți așezi cuibul printre stele” — adică pe cele mai înalte dealuri, care par să ajungă până la stele. Edom e un tip al lui Antihrist (Isaia 14:13-15; Ieremia 49:16)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Deși te înalți ca vulturul — care se avântă sus, zboară înalt, chiar dincolo de vedere, mai sus decât orice altă pasăre; sau, „îți înalți locuința”, și o faci la fel de înaltă ca cuibul vulturului; vezi Ieremia 49:16; și de-ți așezi cuibul printre stele — chiar mai sus decât al vulturului; o expresie hiperbolică, presupunând ceva ce n-a fost și nici nu poate fi vreodată; totuși, chiar dacă ar fi cu putință, tot nu te-ar apăra de primejdie."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "„De vei zidi înalt ca vulturul, și de ți-ar fi pus cuibul printre stele, de acolo te voi coborî, e cuvântul DOMNULUI.” Acesta e răspunsul la întrebarea trufașă, sau la provocarea îndrăzneață, rostită la versetul 3: „cine mă va coborî la pământ?”"
+      }
+     ]
+    },
+    {
+     "v": "1:5",
+     "t": "Dacă niște hoți ar intra la tine, sau prădători în timpul nopții – o, cât de nimicit ești! – n-ar fura oare cât pot? Dacă tăietorii de struguri ar veni peste tine, n-ar lăsa ei ciorchinii necopți?",
+     "heb": "אִם־גַּנָּבִים בָּאוּ־לְךָ אִם־שׁוֹדְדֵי לַיְלָה אֵיךְ נִדְמֵיתָה הֲלוֹא יִגְנְבוּ דַּיָּם אִם־בֹּצְרִים בָּאוּ לָךְ הֲלוֹא יַשְׁאִירוּ עֹלֵלוֹת",
+     "translit": "Im-ganavim bau-leha im-şodedēi laila ēih nidmēita halo ignevu daiam im-botzrim bau lah halo iaşiru olēlot.",
+     "tokens": [
+      {
+       "t": "Dacă niște hoți ar intra la tine",
+       "w": "Dacă niște hoți ar intra la tine",
+       "heb": "אִם־גַּנָּבִים בָּאוּ־לְךָ",
+       "translit": "im-ganavim bau-leha",
+       "strong": "H1590",
+       "pos": "conjuncție + substantiv + verb",
+       "def_ro": "de ar veni la tine hoți."
+      },
+      {
+       "t": ", sau "
+      },
+      {
+       "t": "prădători în timpul nopții",
+       "w": "prădători în timpul nopții",
+       "heb": "אִם־שׁוֹדְדֵי לַיְלָה",
+       "translit": "im-şodedēi laila",
+       "strong": "H7703",
+       "pos": "conjuncție + substantiv + substantiv",
+       "def_ro": "de ar veni prădători de noapte."
+      },
+      {
+       "t": " – o, "
+      },
+      {
+       "t": "cât de nimicit ești!",
+       "w": "cât de nimicit ești!",
+       "heb": "אֵיךְ נִדְמֵיתָה",
+       "translit": "ēih nidmēita",
+       "strong": "H1820",
+       "pos": "adverb + verb",
+       "def_ro": "cum ai fost nimicit!",
+       "dict_ro": "Metzudat Țion citește נִדְמֵיתָה din rădăcina care înseamnă „a nimici/a stârpi” (ca la Isaia 15:1, „Ar-Moav e stârpit”), nu din rădăcina „a tăcea” — de aici traducerea „cât de nimicit ești”, spre deosebire de alte traduceri care redau printr-o imagine de tăcere/amuțire; discuția reflectă o ambiguitate reală a rădăcinii דמה în ebraică, care poate însemna atât „a tăcea/a fi asemenea”, cât și „a nimici”."
+      },
+      {
+       "t": " – n-ar fura oare cât pot?",
+       "w": "n-ar fura oare cât pot?",
+       "heb": "הֲלוֹא יִגְנְבוּ דַּיָּם",
+       "translit": "halo ignevu daiam",
+       "strong": "H1767",
+       "pos": "particulă interogativă + verb + substantiv",
+       "def_ro": "oare n-ar fura destulul lor?"
+      },
+      {
+       "t": " Dacă tăietorii de struguri ar veni peste tine",
+       "w": "Dacă tăietorii de struguri ar veni peste tine",
+       "heb": "אִם־בֹּצְרִים בָּאוּ לָךְ",
+       "translit": "im-botzrim bau lah",
+       "strong": "H1219",
+       "pos": "conjuncție + substantiv + verb",
+       "def_ro": "de ar veni la tine culegători de vie."
+      },
+      {
+       "t": ", n-ar lăsa ei ciorchinii necopți?",
+       "w": "n-ar lăsa ei ciorchinii necopți?",
+       "heb": "הֲלוֹא יַשְׁאִירוּ עֹלֵלוֹת",
+       "translit": "halo iaşiru olēlot",
+       "strong": "H5955",
+       "pos": "particulă interogativă + verb + substantiv",
+       "def_ro": "oare n-ar lăsa ciorchinii rămași?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אִם־גַּנָּבִים בָּאוּ־לְךָ אִם־שׁוֹדְדֵי לַיְלָה אֵיךְ נִדְמֵיתָה הֲלוֹא יִגְנְבוּ דַּיָּם אִם־בֹּצְרִים בָּאוּ לָךְ הֲלוֹא יַשְׁאִירוּ עֹלֵלוֹת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εἰ κλέπται εἰσῆλθον πρὸς σὲ ἢ λῃσταὶ νυκτός, ποῦ ἂν ἀπερρίφης; οὐκ ἂν ἔκλεψαν τὰ ἱκανὰ ἑαυτοῖς; καὶ εἰ τρυγηταὶ εἰσῆλθον πρὸς σέ, οὐκ ἂν ὑπελίποντο ἐπιφυλλίδας;",
+       "greek": true,
+       "translation": "„De ar fi intrat la tine hoți, sau tâlhari de noapte, unde ai fi fost aruncat? Oare n-ar fi furat cât le ajungea? Și dacă ar fi intrat la tine culegători de struguri, oare n-ar fi lăsat câțiva ciorchini rămași?”",
+       "note": "LXX citește „cât de nimicit ești” diferit — ca o întrebare retorică despre unde ai fi aruncat (ποῦ ἂν ἀπερρίφης) — o divergență reală de interpretare a formei ebraice נִדְמֵיתָה, discutată și la nivel rabinic (vezi dict_ro)."
+      }
+     ],
+     "refs": [
+      "Ieremia 49:9-10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Cum ai fost nimicit!” — de ce ai adormit adânc și liniștit până au furat tot ce-au voit? „Oare culegătorii n-ar lăsa struguri rămași?” — dar aceștia nu-ți vor lăsa nimic, căci te vor căuta, vor descoperi și vor cerceta lucrurile tale ascunse."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Au venit la tine” — au venit asupra ta. „Prădători de noapte” — cei ce se tem să jefuiască ziua și jefuiesc noaptea. „Cât de nimicit ești” — cum ai fost stârpit cu totul (vorbește la timpul trecut, după obiceiul multor profeții, căci profetul vede ca și cum s-ar fi întâmplat deja). „Oare n-ar fura destulul lor?” — vrea să spună: oare obiceiul lor nu e să fure doar cât le ajunge, lăsând restul — și de ce atunci ai fost stârpit cu totul, fără rămășiță?"
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Ovadia",
+       "text": "Profetul arată în acest verset că năpasta cu care Dumnezeu hotărâse să lovească pe idumeni nu va fi ușoară, căci nimic nu le va rămâne; și amplifică ce spune printr-o comparație. Când cineva e jefuit de avutul lui de hoți, se întristează, dar măcar rămâne ceva."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Prăduirea pe care o vei suferi nu va fi ca aceea pricinuită de hoți, oricât de rea ar fi ea, căci aceștia, după ce au luat destul, sau tot ce pot lua în grabă, lasă restul — nici ca aceea pricinuită de culegătorii de struguri într-o vie, căci ei, după ce au cules majoritatea strugurilor, lasă în urmă ciorchini uitați — ci va fi deplină, așa încât nu-ți va rămâne nimic."
+      }
+     ]
+    },
+    {
+     "v": "1:6",
+     "t": "Cât de răvășit va fi Esau, cât de răscolite [vor fi] comorile lui ascunse!",
+     "heb": "אֵיךְ נֶחְפְּשׂוּ עֵשָׂו נִבְעוּ מַצְפֻּנָיו",
+     "translit": "Ēih nehpesu Ēsav nivu matzpunav.",
+     "tokens": [
+      {
+       "t": "Cât de "
+      },
+      {
+       "t": "răvășit va fi Esau",
+       "w": "răvășit va fi Esau",
+       "heb": "אֵיךְ נֶחְפְּשׂוּ עֵשָׂו",
+       "translit": "ēih nehpesu Ēsav",
+       "strong": "H2664",
+       "pos": "adverb + verb + substantiv propriu",
+       "def_ro": "cum au fost cercetați/scotociți [cei ai lui] Esau!"
+      },
+      {
+       "t": ", cât de "
+      },
+      {
+       "t": "răscolite [vor fi] comorile lui ascunse!",
+       "w": "răscolite [vor fi] comorile lui ascunse!",
+       "heb": "נִבְעוּ מַצְפֻּנָיו",
+       "translit": "nivu matzpunav",
+       "strong": "H1219",
+       "pos": "verb + substantiv",
+       "def_ro": "căutate [vor fi] lucrurile lui ascunse!",
+       "dict_ro": "Rashi glosează נִבְעוּ pe baza aramaicii, ca „au fost căutate/cerute” (נִתְבַּקְּשׁוּ), citând Isaia 21:12 „dacă veți cere, cereți” (אִם תִּבְעָיוּן בְּעָיוּ) ca paralelă lexicală pentru aceeași rădăcină folosită acolo cu sens de „a cere/a căuta”."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אֵיךְ נֶחְפְּשׂוּ עֵשָׂו נִבְעוּ מַצְפֻּנָיו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πῶς ἐξηρευνήθη Ἠσαὺ καὶ κατελήμφθη αὐτοῦ τὰ κεκρυμμένα.",
+       "greek": true,
+       "translation": "„Cum a fost cercetat Esau și au fost prinse lucrurile lui ascunse!”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Isaia 21:12"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Au fost căutate” — Targum Ionatan: „au fost descoperite”, iar în aramaică נִבְעוּ înseamnă „au fost cerute/căutate”, ca în „dacă veți cere, cereți” (Isaia 21:12)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Cum au fost cercetate [casele] lui Esau” — cum au fost scotocite casele lui Esau ca să li se ia totul, și cum au fost căutate și cercetate locurile lui ascunse, ca să li se ia tot ce se găsea în ele — și acesta e un repetiție de idee cu ceea ce s-a spus."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Cum au fost cercetate lucrurile lui Esau! — sau cum au fost căutați urmașii lui Esau! Chiar dacă locuiau în crăpăturile stâncilor și se ascundeau în peșteri și bârloguri, totuși vrăjmașii lor i-au cercetat, i-au găsit acolo și i-au scos de acolo, așa încât niciunul n-a scăpat: cum au fost căutate lucrurile lui ascunse! — bogățiile, avuția și comorile lui, ascunse în fortărețe, în stânci și peșteri, unde se credeau în siguranță și socotite inaccesibile."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Ovadia",
+       "text": "El întărește sentința de mai înainte — că idumenii se încrezuseră în zadar că bogățiile lor vor fi în siguranță, pentru că aveau ascunzători adânci și tăinuite. Chiar și atunci când o țară e prădată de vrăjmași, cuceritorii nu îndrăznesc să meargă în locuri primejdioase."
+      }
+     ]
+    },
+    {
+     "v": "1:7",
+     "t": "Până la hotar te-au gonit tovarășii tăi, cei care păreau că făcuseră pace cu tine te-au amăgit și te-au biruit, cei care mănâncă din pâinea ta vor pune dedesubtul tău boală, cei care nu reușesc să înțeleagă.",
+     "heb": "עַד־הַגְּבוּל שִׁלְּחוּךָ כֹּל אַנְשֵׁי בְרִיתֶךָ הִשִּׁיאוּךָ יָכְלוּ לְךָ אַנְשֵׁי שְׁלֹמֶךָ לַחְמְךָ יָשִׂימוּ מָזוֹר תַּחְתֶּיךָ אֵין תְּבוּנָה בּוֹ",
+     "translit": "Ad-hagevul şilehuha kol anşēi veriteha hişiuha ihelu leha anşēi şelomeha lahmeha iasimu mazor tahteha ēin tevuna bo.",
+     "tokens": [
+      {
+       "t": "Până la hotar te-au gonit tovarășii tăi",
+       "w": "Până la hotar te-au gonit tovarășii tăi",
+       "heb": "עַד־הַגְּבוּל שִׁלְּחוּךָ כֹּל אַנְשֵׁי בְרִיתֶךָ",
+       "translit": "ad-hagevul şilehuha kol anşēi veriteha",
+       "strong": "H1285",
+       "pos": "substantiv + verb + substantiv + substantiv",
+       "def_ro": "până la hotar te-au trimis toți oamenii legământului tău.",
+       "dict_ro": "Rashi descrie scena concret: aliații care-i promiseseră ajutor au venit cu el și l-au însoțit până la hotarul propriei lui țări, unde de fapt s-au întors împotriva lui la luptă — „prin aceasta te-au amăgit și au izbutit”; imaginea e a unei trădări în doi timpi: însoțire aparent loială, urmată de abandon sau întoarcere de arme chiar la graniță."
+      },
+      {
+       "t": ", cei care păreau că făcuseră pace cu tine te-au amăgit și te-au biruit",
+       "w": "cei care păreau că făcuseră pace cu tine te-au amăgit și te-au biruit",
+       "heb": "הִשִּׁיאוּךָ יָכְלוּ לְךָ אַנְשֵׁי שְׁלֹמֶךָ",
+       "translit": "hişiuha ihelu leha anşēi şelomeha",
+       "strong": "H7965",
+       "pos": "verb + verb + substantiv + substantiv",
+       "def_ro": "te-au amăgit, te-au biruit oamenii păcii tale."
+      },
+      {
+       "t": ", cei care mănâncă din pâinea ta vor pune dedesubtul tău boală",
+       "w": "cei care mănâncă din pâinea ta vor pune dedesubtul tău boală",
+       "heb": "לַחְמְךָ יָשִׂימוּ מָזוֹר תַּחְתֶּיךָ",
+       "translit": "lahmeha iasimu mazor tahteha",
+       "strong": "H4204",
+       "pos": "substantiv + verb + substantiv + substantiv",
+       "def_ro": "pâinea ta o vor face rană sub tine."
+      },
+      {
+       "t": ", cei care nu reușesc să înțeleagă",
+       "w": "cei care nu reușesc să înțeleagă",
+       "heb": "אֵין תְּבוּנָה בּוֹ",
+       "translit": "ēin tevuna bo",
+       "strong": "H8394",
+       "pos": "adverb de negație + substantiv + prepoziție",
+       "def_ro": "nu e pricepere în el."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַד־הַגְּבוּל שִׁלְּחוּךָ כֹּל אַנְשֵׁי בְרִיתֶךָ הִשִּׁיאוּךָ יָכְלוּ לְךָ אַנְשֵׁי שְׁלֹמֶךָ לַחְמְךָ יָשִׂימוּ מָזוֹר תַּחְתֶּיךָ אֵין תְּבוּנָה בּוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset dens, elipsic — traducerile variază real în identificarea subiectului fiecărei clauze."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἕως τῶν ὁρίων ἐξαπέστειλάν σε; πάντες οἱ ἄνδρες τῆς διαθήκης σου ἀντέστησάν σοι, ἠδυνάσθησαν πρὸς σὲ ἄνδρες εἰρηνικοί σου, ἔθηκαν ἔνεδρα ὑποκάτω σου, οὐκ ἔστιν σύνεσις αὐτοῖς.",
+       "greek": true,
+       "translation": "„Până la hotare te-au trimis; toți oamenii legământului tău s-au ridicat împotriva ta, te-au biruit oamenii păcii tale, au pus curse dedesubtul tău, nu e pricepere în ei.”",
+       "note": "LXX redă ultima clauză diferit: nu „pâinea ta” (לַחְמְךָ), ci „curse/capcane” (ἔνεδρα) — o divergență reală de citire, posibil din confuzia dintre rădăcini ebraice apropiate grafic."
+      }
+     ],
+     "refs": [
+      "Ieremia 38:22",
+      "Psalmul 41:9"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Până la hotar te-au gonit” — aceia care ți-au promis ajutor au venit cu tine și te-au însoțit până la hotarul țării tale, până la graniță, de unde au venit asupra ta la luptă, și prin aceasta te-au amăgit și au izbutit. „Te-au biruit” — ca să te amăgească să pleci, și s-au întors de la tine. „Pâinea ta o vor face rană sub tine” — chiar mâncarea ta ți-a făcut-o fratele tău Iacov rană, căci ți-a dat pâine și fiertură de linte, și prin aceasta ai disprețuit dreptul de întâi-născut."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Până la hotar etc.” — când a ieșit la luptă împotriva neamurilor, l-au însoțit toți oamenii legământului pe care-l avea cu ei, până la marginea hotarului țării lui, și de acolo s-au întors și n-au mers la luptă ca să-i fie de ajutor, și l-au amăgit, căci îi promiseseră să meargă cu el. „Te-au biruit” — oamenii cu care erai în pace te-au ațâțat să mergi la luptă și au izbutit împotriva ta, căci i-ai ascultat și ai mers. „Pâinea ta” — cei ce mănâncă pâinea ta, care iau răsplată de la tine, ei îți vor pune rană sub tine, adică în locul tău au pregătit pentru tine pieire și nimicire, căci au uneltit rău împotriva ta, și nu e în el pricepere să simtă lucrul, ca să se păzească de ei."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Ovadia",
+       "text": "Toți oamenii legământului tău te-au gonit până la hotar; te-au amăgit și te-au biruit oamenii păcii tale; oamenii pâinii tale au pus rană sub tine; nu e pricepere în el. Profetul arată aici pricina pentru care Dumnezeu se va purta atât de aspru și de groaznic [cu Edom]."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Oamenii legământului tău” — adică aliații tăi. „Te-au adus până la hotar” — adică, atunci când ambasadorii idumeni vor merge la statele aliate să caute ajutor, aceștia din urmă îi vor conduce cu multă ceremonie până la hotarul lor, oferindu-le complimente goale, dar nu ajutorul cerut [Drusius]."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "În mijlocul acestei năpaste, Edom va fi părăsit și trădat de aliații lui, și nu va putea nici să-și procure izbăvire prin propria lui pricepere. Aliații îl trimit pe Edom chiar până la hotar."
+      }
+     ]
+    },
+    {
+     "v": "1:8",
+     "t": "Oare în ziua aceea – rostirea DOMNULUI – nu voi face să se piardă înțelepții Edomului și priceperea din muntele lui Esau?",
+     "heb": "הֲלוֹא בַּיּוֹם הַהוּא נְאֻם־יְהוָה וְהַאֲבַדְתִּי חֲכָמִים מֵאֱדוֹם וּתְבוּנָה מֵהַר עֵשָׂו",
+     "translit": "Halo baiom hahu neum-ADONAI vehaavadtī hahamim mē'Edom utevuna mēhar Ēsav.",
+     "tokens": [
+      {
+       "t": "Oare "
+      },
+      {
+       "t": "în ziua aceea – rostirea DOMNULUI",
+       "w": "în ziua aceea – rostirea DOMNULUI",
+       "heb": "בַּיּוֹם הַהוּא נְאֻם־יְהוָה",
+       "translit": "baiom hahu neum-ADONAI",
+       "strong": "H3117",
+       "pos": "substantiv + pronume + substantiv + substantiv propriu",
+       "def_ro": "în ziua aceea, rostirea DOMNULUI."
+      },
+      {
+       "t": " – nu voi face "
+      },
+      {
+       "t": "să se piardă înțelepții Edomului",
+       "w": "să se piardă înțelepții Edomului",
+       "heb": "וְהַאֲבַדְתִּי חֲכָמִים מֵאֱדוֹם",
+       "translit": "vehaavadtī hahamim mē'Edom",
+       "strong": "H2450",
+       "pos": "verb + substantiv + substantiv propriu",
+       "def_ro": "și voi pierde pe înțelepți din Edom."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "priceperea din muntele lui Esau?",
+       "w": "priceperea din muntele lui Esau?",
+       "heb": "וּתְבוּנָה מֵהַר עֵשָׂו",
+       "translit": "utevuna mēhar Ēsav",
+       "strong": "H8394",
+       "pos": "substantiv + substantiv + substantiv propriu",
+       "def_ro": "și priceperea din muntele lui Esau?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הֲלוֹא בַּיּוֹם הַהוּא נְאֻם־יְהוָה וְהַאֲבַדְתִּי חֲכָמִים מֵאֱדוֹם וּתְבוּנָה מֵהַר עֵשָׂו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐν ἐκείνῃ τῇ ἡμέρᾳ, λέγει Κύριος, ἀπολῶ σοφοὺς ἐκ τῆς Ἰδουμαίας καὶ σύνεσιν ἐξ ὄρους Ἠσαύ·",
+       "greek": true,
+       "translation": "„În ziua aceea, zice Domnul, voi pierde pe înțelepți din Idumeea și priceperea din muntele lui Esau.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Ieremia 49:7",
+      "Baruh 3:22-23"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„În ziua aceea” — în ziua venirii pedepsei. „Și voi pierde pe înțelepți” — nu se vor mai pricepe la vicleșugurile războiului ca să-și scape viața. „Și priceperea etc.” — repetiție de idee cu ceea ce s-a spus."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Oare în ziua aceea, zice DOMNUL, nu voi pierde chiar și pe înțelepții Edomului?... Când vor fi invadați de vrăjmaș, și trădați cu vicleșug de aliații lor, încât nu vor mai avea sfetnici înțelepți la curte care să dea sfat asupra metodelor potrivite de urmat într-o astfel de vreme; ei vor fi fie luați prin moarte, fie înțelepciunea lor se va preface în nebunie."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Până acum Edomul, prin legăturile cu Babilonul și Egiptul, și prin mijloacele de informare prin numeroasele caravane ce treceau între Europa și India, a fost vestit pentru înțelepciune; dar în ziua aceea, în sfârșit («chiar»), voi nimici pe înțelepții lui."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Ca să dea pe idumeni pieirii în vremea aceea, DOMNUL va lua priceperea de la înțelepții lor, așa încât nici chiar ei nu-i vor putea ajuta. Nimicirea înțelepților nu trebuie înțeleasă ca și cum toți înțelepții ar fi uciși, sau uciși înaintea celorlalți, ci pur și simplu că vor fi nimiciți ca înțelepți, prin luarea sau nimicirea înțelepciunii lor."
+      }
+     ]
+    },
+    {
+     "v": "1:9",
+     "t": "Puternicii tăi de la miazăzi vor fi descurajați, ca nimeni din muntele lui Esau să nu scape neucis în măcel.",
+     "heb": "וְחַתּוּ גִבּוֹרֶיךָ תֵּימָן לְמַעַן יִכָּרֶת־אִישׁ מֵהַר עֵשָׂו מִקָּטֶל",
+     "translit": "Vehatu ghiboreha Tēiman lemaan ikaret-iş mēhar Ēsav mikatel.",
+     "tokens": [
+      {
+       "t": "Puternicii tăi de la miazăzi vor fi descurajați",
+       "w": "Puternicii tăi de la miazăzi vor fi descurajați",
+       "heb": "וְחַתּוּ גִבּוֹרֶיךָ תֵּימָן",
+       "translit": "vehatu ghiboreha Tēiman",
+       "strong": "H2865",
+       "pos": "verb + substantiv + substantiv propriu",
+       "def_ro": "și se vor înspăimânta vitejii tăi, Teman.",
+       "dict_ro": "Rashi și Metzudat Țion identifică „Teman” drept regiunea sudică a Edomului, numită după Teman, fiul lui Elifaz și nepotul lui Esau (Geneza 36:11) — o zonă vestită pentru vitejii ei; Rashi observă că, deși erau cei mai depărtați de babilonienii care veneau dinspre nord, tot nu vor scăpa de spaimă și fugă."
+      },
+      {
+       "t": ", ca nimeni din muntele lui Esau să nu scape neucis în măcel",
+       "w": "ca nimeni din muntele lui Esau să nu scape neucis în măcel",
+       "heb": "לְמַעַן יִכָּרֶת־אִישׁ מֵהַר עֵשָׂו מִקָּטֶל",
+       "translit": "lemaan ikaret-iş mēhar Ēsav mikatel",
+       "strong": "H3772",
+       "pos": "conjuncție + verb + substantiv + substantiv propriu + substantiv",
+       "def_ro": "ca să fie stârpit tot omul din muntele lui Esau, prin măcel."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְחַתּוּ גִבּוֹרֶיךָ תֵּימָן לְמַעַן יִכָּרֶת־אִישׁ מֵהַר עֵשָׂו מִקָּטֶל",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ πτοηθήσονται οἱ μαχηταί σου οἱ ἐκ Θαιμάν, ὅπως ἐξαρθῇ ἄνθρωπος ἐξ ὄρους Ἠσαύ·",
+       "greek": true,
+       "translation": "„Și se vor înspăimânta luptătorii tăi cei din Teman, ca să fie stârpit omul din muntele lui Esau.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Geneza 36:11",
+      "Ieremia 49:7",
+      "Ieremia 49:20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Se vor înspăimânta vitejii tăi, Teman” — se vor înspăimânta și se vor teme să fugă în țara lui Ismael. Iar Targum Ionatan traduce: „și vor fi zdrobiți vitejii tăi, locuitorii ținutului de miazăzi.” „Ca să fie stârpit” — adică orice om viteaz. „Din muntele lui Esau, prin măcel” — prin măcelul mare ce va veni peste voi."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Se vor înspăimânta vitejii tăi, Teman” — tu, al cărui izvor de obârșie e din Edom, care șade la miazăzi de Țara lui Israel, iată, vor fi zdrobiți în luptă. „Ca să fie stârpit” — în așa fel încât să fie stârpit tot omul din locurile unde locuiesc pe muntele Seir, adică nu va rămâne niciunul dintre ei. „Prin măcel” — adică stârpirea va veni din uciderea pe care le-o vor face, nu din faptul că vor muri în paturile lor."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și vitejii tăi, o, Teman, vor fi înspăimântați — Teman era o parte a țării Edomului, numită astfel după Teman, fiul lui Elifaz și nepotul lui Esau (Geneza 36:11); și care se pare că fusese vestită pentru oameni de vitejie și curaj; era plină de ofițeri viteji și soldați curajoși, care acum vor fi cu totul descurajați, și n-vor avea inimă să iasă împotriva vrăjmașului."
+      }
+     ]
+    },
+    {
+     "v": "1:10",
+     "t": "Pentru violența față de fratele tău Iacov, vei fi acoperit de rușine și vei fi nimicit veșnic.",
+     "heb": "מֵחֲמַס אָחִיךָ יַעֲקֹב תְּכַסְּךָ בוּשָׁה וְנִכְרַתָּ לְעוֹלָם",
+     "translit": "Mēhamas ahiha Iaakov tehaseha buşa venihrata le'olam.",
+     "tokens": [
+      {
+       "t": "Pentru "
+      },
+      {
+       "t": "violența față de fratele tău Iacov",
+       "w": "violența față de fratele tău Iacov",
+       "heb": "מֵחֲמַס אָחִיךָ יַעֲקֹב",
+       "translit": "mēhamas ahiha Iaakov",
+       "strong": "H2555",
+       "pos": "substantiv + substantiv + substantiv propriu",
+       "def_ro": "din pricina violenței [față de] fratele tău Iacov."
+      },
+      {
+       "t": ", vei fi "
+      },
+      {
+       "t": "acoperit de rușine",
+       "w": "acoperit de rușine",
+       "heb": "תְּכַסְּךָ בוּשָׁה",
+       "translit": "tehaseha buşa",
+       "strong": "H954",
+       "pos": "verb + substantiv",
+       "def_ro": "te va acoperi rușinea."
+      },
+      {
+       "t": " și vei fi "
+      },
+      {
+       "t": "nimicit veșnic",
+       "w": "nimicit veșnic",
+       "heb": "וְנִכְרַתָּ לְעוֹלָם",
+       "translit": "venihrata le'olam",
+       "strong": "H3772",
+       "pos": "verb + adverb",
+       "def_ro": "și vei fi stârpit pe veci."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מֵחֲמַס אָחִיךָ יַעֲקֹב תְּכַסְּךָ בוּשָׁה וְנִכְרַתָּ לְעוֹלָם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διὰ τὴν σφαγὴν καὶ τὴν ἀσέβειαν ἀδελφοῦ σου Ἰακὼβ καλύψει σε αἰσχύνη, καὶ ἐξαρθήσῃ εἰς τὸν αἰῶνα.",
+       "greek": true,
+       "translation": "„Pentru măcelul și nelegiuirea [față de] fratele tău Iacov te va acoperi rușinea, și vei fi stârpit pe veci.”",
+       "note": "LXX adaugă „măcelul” (σφαγή) alături de „violență/nelegiuire”, o extindere reală absentă din formularea mai scurtă a TM la acest verset."
+      }
+     ],
+     "refs": [
+      "Geneza 27:41",
+      "Numeri 20:14-21",
+      "Amos 1:11"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Din pricina violenței față de fratele tău Iacov” — din pricina violenței pe care ai făcut-o lui Iacov."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Din pricina violenței față de fratele tău Iacov” — din pricina violenței pe care ai făcut-o fratelui tău Iacov, te va acoperi rușinea și vei fi stârpit pe veci și nu vei mai putea să te ridici."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Împotriva fratelui tău” — aceasta agravează păcatul lui Esau, că a fost împotriva celui care-i era frate prin naștere și prin circumcizie. Urmașii lui Esau au urmat pe urma urii tatălui lor față de Iacov, prin violență împotriva seminției lui Iacov. „Iacov” — nu doar fratele lui, ci fratele lui geamăn; de aceea numele „Iacov”, nu „Israel”, e pus aici cu subliniere."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Pricina pieirii idumenilor e nelegiuirea lor față de neamul frate, Iacov (v. 10-11), arătată mai departe la v. 12-14 sub formă de avertisment, însoțită de vestirea răsplătirii drepte în ziua DOMNULUI asupra tuturor neamurilor (v. 15-16). „Din pricina violenței față de fratele tău Iacov te va acoperi rușinea, și vei fi stârpit pe veci.”"
+      }
+     ]
+    },
+    {
+     "v": "1:11",
+     "t": "În ziua când ai stat deoparte, în ziua când străinii i-au prădat bogăția, când necunoscuții au intrat pe porțile lui și au tras la sorți pentru Ierusalim – tu ai fost asemenea lor.",
+     "heb": "בְּיוֹם עֲמָדְךָ מִנֶּגֶד בְּיוֹם שְׁבוֹת זָרִים חֵילוֹ וְנָכְרִים בָּאוּ שְׁעָרָיו וְעַל־יְרוּשָׁלִַם יַדּוּ גוֹרָל גַּם־אַתָּה כְּאַחַד מֵהֶם",
+     "translit": "Beiom amadeha mineghed beiom şevot zarim hēilo venohrim bau şearav veal-Ieruşalaim iadu goral gam-ata keahad mēhem.",
+     "tokens": [
+      {
+       "t": "În ziua când ai stat deoparte",
+       "w": "În ziua când ai stat deoparte",
+       "heb": "בְּיוֹם עֲמָדְךָ מִנֶּגֶד",
+       "translit": "beiom amadeha mineghed",
+       "strong": "H5048",
+       "pos": "substantiv + verb + adverb",
+       "def_ro": "în ziua stării tale de departe.",
+       "dict_ro": "Rashi explică precis natura pasivității acuzate: nu că Edom ar fi luat parte activă la jaf, ci „că n-ai venit să-i ajuți” — Metzudat David identifică momentul istoric exact ca fiind distrugerea Primului Templu de către Nebucadnețar, unde Edom a stat deoparte, privind fără să intervină în favoarea fratelui Iacov."
+      },
+      {
+       "t": ", în ziua când "
+      },
+      {
+       "t": "străinii i-au prădat bogăția",
+       "w": "străinii i-au prădat bogăția",
+       "heb": "בְּיוֹם שְׁבוֹת זָרִים חֵילוֹ",
+       "translit": "beiom şevot zarim hēilo",
+       "strong": "H2428",
+       "pos": "substantiv + verb + substantiv + substantiv",
+       "def_ro": "în ziua luării în captivitate de către străini a bogăției lui."
+      },
+      {
+       "t": ", când "
+      },
+      {
+       "t": "necunoscuții au intrat pe porțile lui",
+       "w": "necunoscuții au intrat pe porțile lui",
+       "heb": "וְנָכְרִים בָּאוּ שְׁעָרָיו",
+       "translit": "venohrim bau şearav",
+       "strong": "H5237",
+       "pos": "substantiv + verb + substantiv",
+       "def_ro": "și cei străini au intrat pe porțile lui."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "au tras la sorți pentru Ierusalim",
+       "w": "au tras la sorți pentru Ierusalim",
+       "heb": "וְעַל־יְרוּשָׁלִַם יַדּוּ גוֹרָל",
+       "translit": "veal-Ieruşalaim iadu goral",
+       "strong": "H1486",
+       "pos": "substantiv propriu + verb + substantiv",
+       "def_ro": "și asupra Ierusalimului au aruncat sorți."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "tu ai fost asemenea lor",
+       "w": "tu ai fost asemenea lor",
+       "heb": "גַּם־אַתָּה כְּאַחַד מֵהֶם",
+       "translit": "gam-ata keahad mēhem",
+       "strong": "H259",
+       "pos": "adverb + pronume + adjectiv + substantiv",
+       "def_ro": "chiar tu [ai fost] ca unul dintre ei."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בְּיוֹם עֲמָדְךָ מִנֶּגֶד בְּיוֹם שְׁבוֹת זָרִים חֵילוֹ וְנָכְרִים בָּאוּ שְׁעָרָיו וְעַל־יְרוּשָׁלִַם יַדּוּ גוֹרָל גַּם־אַתָּה כְּאַחַד מֵהֶם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Ἀφ᾽ ἧς ἡμέρας ἀντέστης ἐξ ἐναντίας ἐν ἡμέραις αἰχμαλωτευόντων ἀλλογενῶν δύναμιν αὐτοῦ, καὶ ἀλλότριοι εἰσῆλθον εἰς πύλας αὐτοῦ καὶ ἐπὶ Ἰερουσαλὴμ ἔβαλον κλήρους, καὶ σὺ ἦς ὡς εἷς ἐξ αὐτῶν.",
+       "greek": true,
+       "translation": "„Din ziua în care te-ai împotrivit din față, în zilele când neamurile străine i-au luat captivă puterea, și cei străini au intrat pe porțile lui și au aruncat sorți asupra Ierusalimului, și tu erai ca unul dintre ei.”",
+       "note": "LXX adaugă o nuanță mai activă la început („te-ai împotrivit din față”, ἀντέστης ἐξ ἐναντίας), mai puternică decât simpla „stare deoparte” pasivă din TM."
+      }
+     ],
+     "refs": [
+      "Ioel 3:3",
+      "Naum 3:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„În ziua când ai stat deoparte” — că n-ai venit să-i ajuți. „Tu ai fost asemenea lor” — te socotesc ca și cum ai fi fost unul dintre cei ce au venit asupra lor."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„În ziua stării tale deoparte” — acum tălmăcește ce anume a fost violența făcută, și spune: iată, în ziua când ai stat deoparte, în vremea când străinii au dus în captivitate bogăția lui Iacov — și despre Nebucadnețar, cel ce a distrus Primul Templu, se vorbește — el a văzut aceasta și a stat deoparte și n-a ajutat pe Iacov, fratele lui. „Tu ai fost asemenea lor” — vrea să spună: de vreme ce ai stat deoparte și n-ai ajutat pe Israel, te socotesc ca și cum ai fi fost și tu unul dintre cei ce s-au luptat și au prădat, și aceasta e violența."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "În ziua când ai stat de partea cealaltă — departe, ca un spectator al ruinei Ierusalimului, și aceasta cu plăcere și desfătare; când s-ar fi cuvenit, ca frați și vecini, să ajute împotriva vrăjmașului comun; dar, în loc de aceasta, au stat deoparte; sau au trecut de partea cealaltă, și s-au alăturat vrăjmașului, stând în împotrivire față de frații lor, iudeii."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Ai stat deoparte” — într-o atitudine de dușmănie, mai degrabă decât simpatia care s-ar fi cuvenit unui frate, desfătându-ți ochii cu mizeria lui Iacov și pândind cu lăcomie pieirea lui. Așa și Mesia, antitipul Ierusalimului, a fost părăsit de rudele Lui."
+      }
+     ]
+    },
+    {
+     "v": "1:12",
+     "t": "N-ar fi trebuit să privești [nepăsător] la ziua fratelui tău, la ziua când a fost exilat. N-ar fi trebuit să te bucuri pe seama copiilor lui Iuda în ziua pierzaniei lor. N-ar fi trebuit să vorbești cu aroganță în ziua necazului.",
+     "heb": "וְאַל־תֵּרֶא בְיוֹם־אָחִיךָ בְּיוֹם נָכְרוֹ וְאַל־תִּשְׂמַח לִבְנֵי־יְהוּדָה בְּיוֹם אָבְדָם וְאַל־תַּגְדֵּל פִּיךָ בְּיוֹם צָרָה",
+     "translit": "Veal-tērē veiom-ahiha beiom nohro veal-tişmah livnēi-Iehuda beiom avdam veal-tagdēl piha beiom tzara.",
+     "tokens": [
+      {
+       "t": "N-ar fi trebuit să "
+      },
+      {
+       "t": "privești [nepăsător] la ziua fratelui tău, la ziua când a fost exilat",
+       "w": "privești [nepăsător] la ziua fratelui tău, la ziua când a fost exilat",
+       "heb": "וְאַל־תֵּרֶא בְיוֹם־אָחִיךָ בְּיוֹם נָכְרוֹ",
+       "translit": "veal-tērē veiom-ahiha beiom nohro",
+       "strong": "H5236",
+       "pos": "negație + verb + substantiv + substantiv + substantiv",
+       "def_ro": "și nu privi la ziua fratelui tău, la ziua străinării lui.",
+       "dict_ro": "Rashi identifică נָכְרוֹ cu momentul predării în mâna vrăjmașului, citând 1 Samuel 23:7 despre Saul („Dumnezeu l-a predat/înstrăinat [נִכַּר] în mâna mea”) ca paralelă lexicală pentru aceeași rădăcină folosită cu sensul „a fi dat pe mâna vrăjmașului”, nu doar „a deveni străin” în sens general."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "N-ar fi trebuit să te bucuri pe seama copiilor lui Iuda în ziua pierzaniei lor",
+       "w": "N-ar fi trebuit să te bucuri pe seama copiilor lui Iuda în ziua pierzaniei lor",
+       "heb": "וְאַל־תִּשְׂמַח לִבְנֵי־יְהוּדָה בְּיוֹם אָבְדָם",
+       "translit": "veal-tişmah livnēi-Iehuda beiom avdam",
+       "strong": "H8055",
+       "pos": "negație + verb + substantiv + substantiv",
+       "def_ro": "și nu te bucura de fiii lui Iuda în ziua pieirii lor."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "N-ar fi trebuit să vorbești cu aroganță în ziua necazului",
+       "w": "N-ar fi trebuit să vorbești cu aroganță în ziua necazului",
+       "heb": "וְאַל־תַּגְדֵּל פִּיךָ בְּיוֹם צָרָה",
+       "translit": "veal-tagdēl piha beiom tzara",
+       "strong": "H1431",
+       "pos": "negație + verb + substantiv + substantiv",
+       "def_ro": "și nu-ți mări gura în ziua necazului."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאַל־תֵּרֶא בְיוֹם־אָחִיךָ בְּיוֹם נָכְרוֹ וְאַל־תִּשְׂמַח לִבְנֵי־יְהוּדָה בְּיוֹם אָבְדָם וְאַל־תַּגְדֵּל פִּיךָ בְּיוֹם צָרָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Formă gramaticală ambiguă între imperativ negativ direct și descriere retrospectivă — vezi divergența de traducere la nota LXX."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ μὴ ἐπίδῃς ἡμέραν ἀδελφοῦ σου ἐν ἡμέρᾳ ἀλλοτρίων, καὶ μὴ ἐπιχαρῇς ἐπὶ τοὺς υἱοὺς Ἰούδα ἐν ἡμέρᾳ ἀπωλίας αὐτῶν, καὶ μὴ μεγαλορημονῇς ἐν ἡμέρᾳ θλίψεως·",
+       "greek": true,
+       "translation": "„Și nu privi ziua fratelui tău, în ziua celor străini, și nu te bucura de fiii lui Iuda în ziua pieirii lor, și nu vorbi cu îngâmfare în ziua necazului.”",
+       "note": "LXX păstrează aceeași structură de imperative negative ca TM, confirmând citirea directă folosită și de Rosen."
+      }
+     ],
+     "refs": [
+      "Proverbele 24:17",
+      "Mica 7:8-10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și nu privi la ziua fratelui tău” — nu s-ar fi cuvenit să privești și să stai deoparte."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și nu privi” — nu se cuvenea să privești la ziua necazului fratelui tău, în vremea când a fost înstrăinat din țara lui și izgonit din ea — și ca și cum ar spune: chiar dacă mâna ta n-a putut să-l ajute, măcar ți s-ar fi cuvenit să stai acasă și să nu privești la rușinea lui ca să-l faci de ocară. „Și nu te bucura” — cu atât mai mult nu se cuvenea să te bucuri de fiii lui Iuda în vremea pieirii și nimicirii lor. „Și nu-ți mări gura” — cu atât mai puțin se cuvenea să-ți lărgești gura și să rostești vorbe de batjocură în ziua necazului lor veniți peste ei."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "N-ar fi trebuit să privești la ziua fratelui tău — ziua necazului, suferinței și pieirii lui, cum se lămurește mai departe; adică cu plăcere și mulțumire, ca și cum te-ar bucura și te-ai desfăta de ea; ci mai degrabă s-ar fi cuvenit să te întristezi și să jelești, temându-ți-se că-ți va veni și ție rândul."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Ai privit” — cu plăcere răutăcioasă, și o privire brutală. Așa antitipurile, vrăjmașii lui Mesia. Maurer traduce, ca la margine, „să nu mai privești”; Versiunea engleză se potrivește mai bine cu contextul."
+      }
+     ]
+    },
+    {
+     "v": "1:13",
+     "t": "N-ar fi trebuit să intri pe poarta poporului Meu în ziua dezastrului lor. Și n-ar fi trebuit să privești la nenorocirea lui în ziua dezastrului lui. N-ar fi trebuit să-ți întinzi mâna către prada lui în ziua dezastrului lui.",
+     "heb": "אַל־תָּבוֹא בְשַׁעַר־עַמִּי בְּיוֹם אֵידָם אַל־תֵּרֶא גַם־אַתָּה בְּרָעָתוֹ בְּיוֹם אֵידוֹ וְאַל־תִּשְׁלַחְנָה בְחֵילוֹ בְּיוֹם אֵידוֹ",
+     "translit": "Al-tavo veşaar-ami beiom ēidam al-tērē gam-ata beraato beiom ēido veal-tişlahna vehēilo beiom ēido.",
+     "tokens": [
+      {
+       "t": "N-ar fi trebuit să "
+      },
+      {
+       "t": "intri pe poarta poporului Meu în ziua dezastrului lor",
+       "w": "intri pe poarta poporului Meu în ziua dezastrului lor",
+       "heb": "אַל־תָּבוֹא בְשַׁעַר־עַמִּי בְּיוֹם אֵידָם",
+       "translit": "al-tavo veşaar-ami beiom ēidam",
+       "strong": "H8179",
+       "pos": "negație + verb + substantiv + substantiv + substantiv",
+       "def_ro": "nu intra pe poarta poporului Meu în ziua nenorocirii lor."
+      },
+      {
+       "t": ". Și n-ar fi trebuit să "
+      },
+      {
+       "t": "privești la nenorocirea lui în ziua dezastrului lui",
+       "w": "privești la nenorocirea lui în ziua dezastrului lui",
+       "heb": "אַל־תֵּרֶא גַם־אַתָּה בְּרָעָתוֹ בְּיוֹם אֵידוֹ",
+       "translit": "al-tērē gam-ata beraato beiom ēido",
+       "strong": "H7451",
+       "pos": "negație + verb + adverb + substantiv + substantiv",
+       "def_ro": "nu privi, chiar tu, la răul lui, în ziua nenorocirii lui."
+      },
+      {
+       "t": ". N-ar fi trebuit să-ți "
+      },
+      {
+       "t": "întinzi mâna către prada lui în ziua dezastrului lui",
+       "w": "întinzi mâna către prada lui în ziua dezastrului lui",
+       "heb": "וְאַל־תִּשְׁלַחְנָה בְחֵילוֹ בְּיוֹם אֵידוֹ",
+       "translit": "veal-tişlahna vehēilo beiom ēido",
+       "strong": "H7971",
+       "pos": "negație + verb + substantiv + substantiv",
+       "def_ro": "și nu-ți întinde [mâinile] spre bogăția lui în ziua nenorocirii lui."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אַל־תָּבוֹא בְשַׁעַר־עַמִּי בְּיוֹם אֵידָם אַל־תֵּרֶא גַם־אַתָּה בְּרָעָתוֹ בְּיוֹם אֵידוֹ וְאַל־תִּשְׁלַחְנָה בְחֵילוֹ בְּיוֹם אֵידוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μηδὲ εἰσέλθῃς εἰς πύλας λαῶν ἐν ἡμέρᾳ πόνων αὐτῶν, μηδὲ ἐπίδῃς καὶ σὺ τὴν συναγωγὴν αὐτῶν ἐν ἡμέρᾳ ὀλέθρου αὐτῶν, μηδὲ συνεπιθῇ ἐπὶ τὴν δύναμιν αὐτῶν ἐν ἡμέρᾳ ἀπωλίας αὐτῶν·",
+       "greek": true,
+       "translation": "„Nici să nu intri pe porțile popoarelor în ziua durerilor lor, nici să nu privești, chiar tu, adunarea lor în ziua pieirii lor, nici să nu te ridici asupra puterii lor în ziua nimicirii lor.”",
+       "note": "LXX redă „poporul Meu” prin „popoarelor” la plural, o divergență reală de sens — posibil o generalizare sau o confuzie de citire a sufixului posesiv."
+      }
+     ],
+     "refs": [
+      "Plângerile lui Ieremia 4:21-22",
+      "Ezechiel 25:12"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Nu intra” — cu atât mai mult nu se cuvenea să intri pe porțile cetăților poporului Meu în ziua venirii asupra lor a năpastei, adică nu se cuvenea să intri pe porțile cetăților ca să le cucerești, cum ai făcut la distrugerea celui de-al Doilea Templu. „Nu privi, chiar tu” — aceasta se spune despre neamurile care locuiau pe muntele Seir, vecinii lui Israel, căci în ziua când [dușmanul] a cucerit Ierusalimul, au venit și ei și au întins mâna să ia pradă și să jefuiască, cum e amintit la Iosefus."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "N-ar fi trebuit să intri pe poarta poporului Meu în ziua nenorocirii lor — sau porțile, cum spune Targumul; porțile oricăreia dintre cetățile lor, și mai ales ale Ierusalimului; în care au intrat edomiții împreună cu caldeenii, triumfând asupra iudeilor și insultându-i, alăturându-se vrăjmașului în a-i chinui și a-i jefui."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "„Și nu privi la ziua fratelui tău în ziua nenorocirii lui; și nu te bucura de fiii lui Iuda în ziua pieirii lor, și nu-ți lărgi gura în ziua necazului. Nu intra pe poarta poporului Meu în ziua nenorocirii lor; nu privi, chiar tu, la nenorocirea lui în ziua nenorocirii lui, și nu-ți întinde mâna spre avuția lui în ziua nenorocirii lui.” Acest avertisment nu poate fi lămurit mulțumitor prin presupunerea că profetul ar prevesti aici distrugerea viitoare a Iudei și Ierusalimului."
+      }
+     ]
+    },
+    {
+     "v": "1:14",
+     "t": "N-ar fi trebuit să stai la răscruci și să-i tai pe fugarii lui și n-ar fi trebuit să-i închizi pe supraviețuitorii lui în ziua necazului lui.",
+     "heb": "וְאַל־תַּעֲמֹד עַל־הַפֶּרֶק לְהַכְרִית אֶת־פְּלִיטָיו וְאַל־תַּסְגֵּר שְׂרִידָיו בְּיוֹם צָרָה",
+     "translit": "Veal-taamod al-haperek lehahrit et-pelitav veal-tasgēr seridav beiom tzara.",
+     "tokens": [
+      {
+       "t": "N-ar fi trebuit să "
+      },
+      {
+       "t": "stai la răscruci și să-i tai pe fugarii lui",
+       "w": "stai la răscruci și să-i tai pe fugarii lui",
+       "heb": "וְאַל־תַּעֲמֹד עַל־הַפֶּרֶק לְהַכְרִית אֶת־פְּלִיטָיו",
+       "translit": "veal-taamod al-haperek lehahrit et-pelitav",
+       "strong": "H6563",
+       "pos": "negație + verb + substantiv + verb + substantiv",
+       "def_ro": "și nu sta la răscruce, ca să tai pe cei fugiți ai lui.",
+       "dict_ro": "Rashi glosează „הַפֶּרֶק” drept locul pe unde ies cei ce fug, ca să scape — un punct strategic de trecere, nu doar o „răscruce” generală; iar Metzudat David identifică istoricește această acuzație cu vremea distrugerii Templului de către romani, sub Titus, când edomiții s-ar fi purtat la fel de crud ca la distrugerea Primului Templu — o continuitate acuzatoare peste secole, nu un singur incident izolat."
+      },
+      {
+       "t": " și n-ar fi trebuit să-i "
+      },
+      {
+       "t": "închizi pe supraviețuitorii lui în ziua necazului lui",
+       "w": "închizi pe supraviețuitorii lui în ziua necazului lui",
+       "heb": "וְאַל־תַּסְגֵּר שְׂרִידָיו בְּיוֹם צָרָה",
+       "translit": "veal-tasgēr seridav beiom tzara",
+       "strong": "H5462",
+       "pos": "negație + verb + substantiv + substantiv + substantiv",
+       "def_ro": "și nu-i închide pe cei rămași ai lui în ziua necazului."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאַל־תַּעֲמֹד עַל־הַפֶּרֶק לְהַכְרִית אֶת־פְּלִיטָיו וְאַל־תַּסְגֵּר שְׂרִידָיו בְּיוֹם צָרָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μηδὲ ἐπιστῇς ἐπὶ τὰς διεκβολὰς αὐτοῦ ἐξολεθρεῦσαι τοὺς ἀνασωζομένους αὐτοῦ, μηδὲ συγκλείσῃς τοὺς φεύγοντας αὐτοῦ ἐν ἡμέρᾳ θλίψεως.",
+       "greek": true,
+       "translation": "„Nici să nu stai la ieșirile lui, ca să-i nimicești pe cei izbăviți ai lui, nici să nu-i închizi pe cei ce fug ai lui în ziua necazului.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Amos 1:6",
+      "Ioel 3:19"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și nu sta la răscruce” — locul pe unde ies cei ce fug, ca să scape, iar în franceza veche se numește «trou»."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Nu sta la răscruce” — aceasta se spune despre oamenii lui Titus care i-au exilat pe israeliți, și spune: măcar nu se cuvenea să stai și să te întărești asupra prăpădului, ca să-i stârpești pe supraviețuitorii lui, adică măcar, pe când era el în exil, nu se cuvenea să-i pierzi și să-i stârpești pe cei rămași din rămășiță, cum ai pierdut și stârpit în fiece generație. „Și nu-i închide” — nu se cuvenea să-i închizi în temniță, cum ai făcut în fiece generație."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Nici n-ar fi trebuit să stai la răscruce — într-un loc unde se întâlneau două sau mai multe drumuri, ca să oprești pe iudeii ce fugeau, orice drum ar fi ales să apuce: sau, „la spărtură”, adică a zidurilor cetății; ca să-i taie pe cei ai lui care scăpau; pe aceia dintre iudei care scăpaseră de sabia caldeenilor în cetate, și încercau să fugă prin spărturile zidurilor ei, sau apucau diferite drumuri ca să scape; aceștia erau prinși și opriți de edomiți, care se așezau la aceste spărturi, sau la locurile unde se întâlneau două sau mai multe drumuri, și-i tăiau."
+      }
+     ]
+    },
+    {
+     "v": "1:15",
+     "t": "Căci aproape este ziua DOMNULUI peste toate neamurile! Cum ai făcut, așa ți se va face; răsplata se va întoarce peste capul tău.",
+     "heb": "כִּי־קָרוֹב יוֹם־יְהוָה עַל־כָּל־הַגּוֹיִם כַּאֲשֶׁר עָשִׂיתָ יֵעָשֶׂה לָּךְ גְּמֻלְךָ יָשׁוּב בְּרֹאשֶׁךָ",
+     "translit": "Ki-karov iom-ADONAI al-kol-hagoim kaaşer asita ieasē lah gemulha iaşuv beroşeha.",
+     "tokens": [
+      {
+       "t": "Căci "
+      },
+      {
+       "t": "aproape este ziua DOMNULUI peste toate neamurile!",
+       "w": "aproape este ziua DOMNULUI peste toate neamurile!",
+       "heb": "קָרוֹב יוֹם־יְהוָה עַל־כָּל־הַגּוֹיִם",
+       "translit": "karov iom-ADONAI al-kol-hagoim",
+       "strong": "H7138",
+       "pos": "adjectiv + substantiv + substantiv propriu + substantiv",
+       "def_ro": "aproape [este] ziua DOMNULUI peste toate neamurile!"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Cum ai făcut, așa ți se va face",
+       "w": "Cum ai făcut, așa ți se va face",
+       "heb": "כַּאֲשֶׁר עָשִׂיתָ יֵעָשֶׂה לָּךְ",
+       "translit": "kaaşer asita ieasē lah",
+       "strong": "H6213",
+       "pos": "pronume relativ + verb + verb + prepoziție",
+       "def_ro": "după cum ai făcut, ți se va face."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "răsplata se va întoarce peste capul tău",
+       "w": "răsplata se va întoarce peste capul tău",
+       "heb": "גְּמֻלְךָ יָשׁוּב בְּרֹאשֶׁךָ",
+       "translit": "gemulha iaşuv beroşeha",
+       "strong": "H1576",
+       "pos": "substantiv + verb + substantiv",
+       "def_ro": "răsplata ta se va întoarce pe capul tău."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־קָרוֹב יוֹם־יְהוָה עַל־כָּל־הַגּוֹיִם כַּאֲשֶׁר עָשִׂיתָ יֵעָשֶׂה לָּךְ גְּמֻלְךָ יָשׁוּב בְּרֹאשֶׁךָ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset central al cărții, care marchează trecerea de la mustrarea specifică asupra Edomului la vestirea universală a „zilei DOMNULUI” asupra tuturor neamurilor."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι ἐγγὺς ἡμέρα Κυρίου ἐπὶ πάντα τὰ ἔθνη; ὃν τρόπον ἐποίησας, οὕτως ἔσται σοι; τὸ ἀνταπόδομά σου ἀνταποδοθήσεται εἰς κεφαλήν σου·",
+       "greek": true,
+       "translation": "„Căci aproape este ziua Domnului peste toate neamurile; după cum ai făcut, așa îți va fi ție; răsplata ta ți se va răsplăti peste capul tău.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Ieremia 25:15-33",
+      "Ieremia 49:12",
+      "Plângerile lui Ieremia 4:21"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Căci aproape este ziua DOMNULUI” — vrea să spună: s-ar fi cuvenit să gândești că ziua răsplătirii de la DOMNUL, rânduită să vină asupra tuturor neamurilor care au făcut rău lui Israel, este aproape și gata pregătită înaintea Lui să vină, și după cum ai făcut tu lui Israel, așa ți se va face și ție. „Răsplata ta” — răsplata cuvenită ție se va întoarce pe capul tău."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Căci aproape este ziua DOMNULUI peste toate neamurile — adică, vremea era aproape, hotărâtă și fixată de DOMNUL, și vestită prin profeții Lui, când va pedepsi toate neamurile păgâne dimprejur pentru păcatele lor; ca egiptenii, filistenii, tirienii, amoniții, moabiții și alții; și astfel și edomiții printre ceilalți; căci aceasta e amintită de dragul lor, ca să arate că pedeapsa lor era de neînlăturat."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Ovadia",
+       "text": "Spunând că ziua Domnului era aproape peste toate neamurile, profetul poate fi socotit că argumentează de la mai mare la mai mic: „Dacă Dumnezeu nu va cruța alte neamuri, cum vei putea tu scăpa din mâna Lui?” Într-un chip asemănător vorbește și Ieremia în capitolul 49."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Aproape” — reluare, în legătură cu v. 10, unde Edomul era amenințat cu stârpire veșnică. „Ziua DOMNULUI” — ziua în care Se va arăta ca Pedepsitorul drept al neamurilor nelegiuite. Cuvântul „toate” arată că împlinirea nu se epuizează în pedeapsa dată neamurilor dimprejur prin mâna lui Nebucadnețar, ci, ca la Ioel și Isaia, e vorba de judecata din urmă ce va veni peste neamurile unite împotriva Ierusalimului."
+      }
+     ]
+    },
+    {
+     "v": "1:16",
+     "t": "Căci așa cum ați băut pe muntele Meu cel sfânt, așa vor bea necontenit și neamurile: vor bea și vor înghiți, și vor fi ca și cum n-ar fi fost.",
+     "heb": "כִּי כַּאֲשֶׁר שְׁתִיתֶם עַל־הַר קָדְשִׁי יִשְׁתּוּ כָל־הַגּוֹיִם תָּמִיד וְשָׁתוּ וְלָעוּ וְהָיוּ כְּלוֹא הָיוּ",
+     "translit": "Ki kaaşer şetitem al-har kodşī ishtu hol-hagoim tamid veşatu velau vehaiu kelo haiu.",
+     "tokens": [
+      {
+       "t": "Căci așa cum "
+      },
+      {
+       "t": "ați băut pe muntele Meu cel sfânt",
+       "w": "ați băut pe muntele Meu cel sfânt",
+       "heb": "כַּאֲשֶׁר שְׁתִיתֶם עַל־הַר קָדְשִׁי",
+       "translit": "kaaşer şetitem al-har kodşī",
+       "strong": "H8354",
+       "pos": "pronume relativ + verb + substantiv compus",
+       "def_ro": "după cum ați băut pe muntele sfințeniei Mele.",
+       "dict_ro": "Rashi citează targumul lui Ionatan pentru a clarifica adresarea: „așa cum v-ați bucurat la lovirea muntelui sfințeniei Mele” — imaginea „băutului” de pe muntele sfânt se referă la bucuria triumfătoare a dușmanilor la distrugerea Templului, nu la un act literal de băut; Ibn Ezra citat de comentatorii creștini (Aben Ezra, via Gill) oferă o interpretare rivală: cuvintele s-ar adresa israeliților înșiși, „așa cum ați băut voi paharul [mâniei]”."
+      },
+      {
+       "t": ", așa "
+      },
+      {
+       "t": "vor bea necontenit și neamurile",
+       "w": "vor bea necontenit și neamurile",
+       "heb": "יִשְׁתּוּ כָל־הַגּוֹיִם תָּמִיד",
+       "translit": "ishtu hol-hagoim tamid",
+       "strong": "H8548",
+       "pos": "verb + substantiv + adverb",
+       "def_ro": "vor bea toate neamurile necontenit."
+      },
+      {
+       "t": ": "
+      },
+      {
+       "t": "vor bea și vor înghiți",
+       "w": "vor bea și vor înghiți",
+       "heb": "וְשָׁתוּ וְלָעוּ",
+       "translit": "veşatu velau",
+       "strong": "H3886",
+       "pos": "verb + verb",
+       "def_ro": "și vor bea și vor sorbi/înghiți."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "vor fi ca și cum n-ar fi fost",
+       "w": "vor fi ca și cum n-ar fi fost",
+       "heb": "וְהָיוּ כְּלוֹא הָיוּ",
+       "translit": "vehaiu kelo haiu",
+       "strong": "H3808",
+       "pos": "verb + adverb de negație + verb",
+       "def_ro": "și vor fi ca și cum n-ar fi fost."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי כַּאֲשֶׁר שְׁתִיתֶם עַל־הַר קָדְשִׁי יִשְׁתּוּ כָל־הַגּוֹיִם תָּמִיד וְשָׁתוּ וְלָעוּ וְהָיוּ כְּלוֹא הָיוּ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Destinatarul primei clauze („ați băut”) e ambiguu real — tradiția rabinică (Rashi, Metzudat David) îl citește ca adresat lui Edom/neamurilor, dar Ibn Ezra propune o lectură rivală, adresată direct israeliților."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι ὃν τρόπον ἔπιες ἐπὶ τὸ ὄρος τὸ ἅγιόν μου, πίονται καὶ καταβήσονται, καὶ ἔσονται καθὼς οὐχ ὑπάρχοντες.",
+       "greek": true,
+       "translation": "„Căci în felul în care ai băut pe muntele Meu cel sfânt, vor bea și se vor coborî, și vor fi ca și cum n-ar exista.”",
+       "note": "LXX redă „vor înghiți” prin „se vor coborî/prăbuși” (καταβήσονται) — o divergență reală de citire, posibil din confuzia rădăcinii לוע (a înghiți) cu o formă legată de coborâre."
+      }
+     ],
+     "refs": [
+      "Ieremia 25:15-29",
+      "Plângerile lui Ieremia 4:21"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Așa cum ați băut pe muntele Meu cel sfânt” — așa cum v-ați bucurat la lovirea muntelui sfințeniei Mele. [din Targum Ionatan] „Și vor înghiți” — Targum: „și vor fi zguduiți”, o expresie de tulburare, uimire și rătăcire a minții."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Căci așa cum ați băut” — cu privire la Iuda se spune: așa cum voi ați băut pe muntele Meu cel sfânt din cupa amețelii, așa vor bea și babilonienii care v-au făcut rău mereu cupa amețelii, până când vor pieri. „Și vor bea și vor înghiți” — și cum vor bea cupa, vor fi stricați și tulburați, o expresie figurată, adică vor fi tulburați de pedeapsă ca și cum ar fi băut o băutură care ametește și tulbură. „Și vor fi ca și cum n-ar fi fost” — vor pieri ca și cum n-ar fi existat niciodată."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Căci așa cum ați băut pe muntele Meu cel sfânt, așa vor bea toate neamurile necontenit — fie că e vorba spuse edomiților, și sensul e, potrivit Targumului: „așa cum v-ați bucurat de lovitura [dată sau la surparea și distrugerea] muntelui sfințeniei Mele, toate popoarele vor bea cupa răzbunării lor”, sau a pedepsei; și în același sens tâlcuiesc Jarchi și Japhet; și tot așa Kimchi: „așa cum ați făcut un ospăț, bucurându-vă de distrugerea muntelui Meu sfânt, așa tu și toate neamurile veți bea din cupa cutremurului”; dar Aben Ezra crede că vorbele sunt spuse israeliților: „așa cum ați băut voi cupa, așa vor bea toate neamurile.”"
+      }
+     ]
+    },
+    {
+     "v": "1:17",
+     "t": "Iar pe muntele Țion va fi o rămășiță și va fi sfântă, și casa lui Iacov vor deposeda pe cei ce i-au deposedat.",
+     "heb": "וּבְהַר צִיּוֹן תִּהְיֶה פְלֵיטָה וְהָיָה קֹדֶשׁ וְיָרְשׁוּ בֵּית יַעֲקֹב אֵת מוֹרָשֵׁיהֶם",
+     "translit": "Uvehar Tzion tihiē pelēita vehaia kodeş veiarşu bēit Iaakov ēt moraşēhem.",
+     "tokens": [
+      {
+       "t": "Iar "
+      },
+      {
+       "t": "pe muntele Țion va fi o rămășiță",
+       "w": "pe muntele Țion va fi o rămășiță",
+       "heb": "וּבְהַר צִיּוֹן תִּהְיֶה פְלֵיטָה",
+       "translit": "uvehar Tzion tihiē pelēita",
+       "strong": "H6413",
+       "pos": "substantiv propriu + verb + substantiv",
+       "def_ro": "și pe muntele Țion va fi o scăpare/rămășiță."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "va fi sfântă",
+       "w": "va fi sfântă",
+       "heb": "וְהָיָה קֹדֶשׁ",
+       "translit": "vehaia kodeş",
+       "strong": "H6944",
+       "pos": "verb + substantiv",
+       "def_ro": "și va fi [loc] sfânt."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "casa lui Iacov vor deposeda pe cei ce i-au deposedat",
+       "w": "casa lui Iacov vor deposeda pe cei ce i-au deposedat",
+       "heb": "וְיָרְשׁוּ בֵּית יַעֲקֹב אֵת מוֹרָשֵׁיהֶם",
+       "translit": "veiarşu bēit Iaakov ēt moraşēhem",
+       "strong": "H3423",
+       "pos": "verb + substantiv + substantiv propriu + substantiv",
+       "def_ro": "și va moșteni casa lui Iacov pe cei ce i-au moștenit.",
+       "dict_ro": "Rashi observă jocul de cuvinte pe rădăcina ירש (a moșteni): cei care odinioară „i-au moștenit” (i-au deposedat, le-au luat moștenirea) vor fi, la rândul lor, „moșteniți” — Israel va lua înapoi exact ce i s-a luat, de la exact aceiași care i-au luat-o, o simetrie de răsplată exprimată prin repetiția aceleiași rădăcini verbale."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּבְהַר צִיּוֹן תִּהְיֶה פְלֵיטָה וְהָיָה קֹדֶשׁ וְיָרְשׁוּ בֵּית יַעֲקֹב אֵת מוֹרָשֵׁיהֶם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Ἐν δὲ τῷ ὄρει Σειὼν ἔσται σωτηρία, καὶ ἔσται ἅγιον καὶ κατακληρονομήσουσιν ὁ οἶκος Ἰακὼβ τοὺς κατακληρονομήσαντας αὐτούς.",
+       "greek": true,
+       "translation": "„Iar pe muntele Sion va fi mântuire, și va fi sfânt, și va moșteni casa lui Iacov pe cei ce i-au moștenit.”",
+       "note": "LXX redă „rămășiță” prin „mântuire” (σωτηρία) — o nuanță teologică diferită, mai puternică decât simpla „scăpare/rămășiță” a TM, dar păstrând simetria jocului de cuvinte de la a doua parte a versetului."
+      }
+     ],
+     "refs": [
+      "Ioel 2:32",
+      "Isaia 4:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Pe cei ce i-au moștenit” — averile popoarelor care i-au moștenit pe ei [Israel]. [din Targum Ionatan]"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Dar pe muntele Țion” — dar pe muntele Țion va fi scăpare și rămășiță, adică oamenii lui vor rămâne. „Și va fi sfânt” — căci nu va mai veni în el necircumcis și necurat. „Pe cei ce i-au moștenit” — pe neamurile care i-au moștenit pe ei de atunci."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Dar pe muntele Țion va fi izbăvire — nu doar prin Cirus, la sfârșitul celor șaptezeci de ani de robie; și prin macabei, de la idumeni și alți vrăjmași; ci prin Mesia; căci nu doar izbăvirea vremelnică e vizată aici, decât ca o umbră, un tip și o închipuire; ci izbăvirea duhovnicească de sub lege, păcat, satana, lume, moarte, iad și mânia viitoare, prin Hristos."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Ovadia",
+       "text": "Aici profetul făgăduiește iudeilor izbăvire; căci celelalte mângâieri n-ar fi avut prea mare însemnătate, dacă cei ce atunci pieirea n-ar fi avut nicio nădejde să fie vreodată restaurați la siguranță."
+      }
+     ]
+    },
+    {
+     "v": "1:18",
+     "t": "Casa lui Iacov va fi foc, și casa lui Iosef flacără, și casa lui Esau paie: se vor aprinde printre ei și-i vor mistui și nu va fi niciun supraviețuitor din casa lui Esau, căci DOMNUL a vorbit!",
+     "heb": "וְהָיָה בֵית־יַעֲקֹב אֵשׁ וּבֵית יוֹסֵף לֶהָבָה וּבֵית עֵשָׂו לְקַשׁ וְדָלְקוּ בָהֶם וַאֲכָלוּם וְלֹא־יִהְיֶה שָׂרִיד לְבֵית עֵשָׂו כִּי יְהוָה דִּבֵּר",
+     "translit": "Vehaia vēit-Iaakov ēş uvēit Iosēf lehava uvēit Ēsav lekaş vedalku vahem vaahalum velo-ihiē sarid levēit Ēsav ki ADONAI dibēr.",
+     "tokens": [
+      {
+       "t": "Casa lui Iacov va fi foc",
+       "w": "Casa lui Iacov va fi foc",
+       "heb": "וְהָיָה בֵית־יַעֲקֹב אֵשׁ",
+       "translit": "vehaia vēit-Iaakov ēş",
+       "strong": "H784",
+       "pos": "verb + substantiv propriu compus + substantiv",
+       "def_ro": "și va fi casa lui Iacov foc."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "casa lui Iosef flacără",
+       "w": "casa lui Iosef flacără",
+       "heb": "וּבֵית יוֹסֵף לֶהָבָה",
+       "translit": "uvēit Iosēf lehava",
+       "strong": "H3852",
+       "pos": "substantiv propriu compus + substantiv",
+       "def_ro": "și casa lui Iosef, flacără."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "casa lui Esau paie",
+       "w": "casa lui Esau paie",
+       "heb": "וּבֵית עֵשָׂו לְקַשׁ",
+       "translit": "uvēit Ēsav lekaş",
+       "strong": "H7179",
+       "pos": "substantiv propriu compus + substantiv",
+       "def_ro": "și casa lui Esau, paie."
+      },
+      {
+       "t": ": "
+      },
+      {
+       "t": "se vor aprinde printre ei și-i vor mistui",
+       "w": "se vor aprinde printre ei și-i vor mistui",
+       "heb": "וְדָלְקוּ בָהֶם וַאֲכָלוּם",
+       "translit": "vedalku vahem vaahalum",
+       "strong": "H1814",
+       "pos": "verb + substantiv + verb",
+       "def_ro": "și se vor aprinde asupra lor și-i vor mânca."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "nu va fi niciun supraviețuitor din casa lui Esau",
+       "w": "nu va fi niciun supraviețuitor din casa lui Esau",
+       "heb": "וְלֹא־יִהְיֶה שָׂרִיד לְבֵית עֵשָׂו",
+       "translit": "velo-ihiē sarid levēit Ēsav",
+       "strong": "H8300",
+       "pos": "negație + verb + substantiv + substantiv propriu compus",
+       "def_ro": "și nu va fi rămășiță pentru casa lui Esau."
+      },
+      {
+       "t": ", căci "
+      },
+      {
+       "t": "DOMNUL a vorbit!",
+       "w": "DOMNUL a vorbit!",
+       "heb": "כִּי יְהוָה דִּבֵּר",
+       "translit": "ki ADONAI dibēr",
+       "strong": "H1696",
+       "pos": "conjuncție + substantiv propriu + verb",
+       "def_ro": "căci DOMNUL a vorbit!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיָה בֵית־יַעֲקֹב אֵשׁ וּבֵית יוֹסֵף לֶהָבָה וּבֵית עֵשָׂו לְקַשׁ וְדָלְקוּ בָהֶם וַאֲכָלוּם וְלֹא־יִהְיֶה שָׂרִיד לְבֵית עֵשָׂו כִּי יְהוָה דִּבֵּר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔσται ὁ οἶκος Ἰακὼβ πῦρ, ὁ δὲ οἶκος Ἰωσὴφ φλόξ, ὁ δὲ οἶκος Ἠσαὺ εἰς καλάμην, καὶ ἐκκαυθήσονται εἰς αὐτοὺς καὶ καταφάγονται αὐτούς, καὶ οὐκ ἔσται πυροφόρος τῷ οἴκῳ Ἠσαύ, διότι Κύριος ἐλάλησεν.",
+       "greek": true,
+       "translation": "„Și va fi casa lui Iacov foc, iar casa lui Iosif flacără, iar casa lui Esau spre trestie, și se vor aprinde asupra lor și-i vor mistui, și nu va mai fi purtător de foc pentru casa lui Esau, căci Domnul a grăit.”",
+       "note": "LXX redă finalul diferit: nu „supraviețuitor” (שָׂרִיד), ci „purtător de foc” (πυροφόρος) — o divergență reală de citire, deși sensul general (nimicire totală, fără urmaș) rămâne identic."
+      }
+     ],
+     "refs": [
+      "Ieremia 49:10",
+      "Amos 1:11-12",
+      "Isaia 34:5-10"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Foc” — vor arde ca focul. „Și casa lui Iosif, flacără” — repetiție de idee cu ceea ce s-a spus. „Paie” — caldeenii vor fi asemenea paielor arse repede. „Și se vor aprinde asupra lor” — Israel va aprinde casa caldeenilor și-i va arde, adică ei vor duce la capăt nimicirea lor și nu va rămâne nimic din ei. „Căci DOMNUL a vorbit” — și cu siguranță așa va fi."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și casa lui Iacov va fi foc, și casa lui Iosif flacără — prima poate însemna cele două triburi, Iuda și Beniamin, iar a doua, cele zece triburi, care după despărțirea din vremea lui Roboam au fost numite Efraim, și uneori Iosif; deși aici pot însemna unul și același lucru, de vreme ce toate triburile se vor uni și vor deveni un singur popor, la vremea la care se referă profeția: înțelesul e că poporul lui Iuda și al lui Israel va avea putere și tărie să cucerească și să nimicească pe vrăjmașii lor, la fel de ușor cum flăcările focului mistuie pleava sau miriștea, sau orice altă materie ce ia foc ușor, așa cum urmează."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Ovadia",
+       "text": "Aici din nou profetul întâmpină o îndoială ce ar fi putut veni în mintea fiecăruia dintre ei; căci idumenii înfloreau, iar starea lor era neatârnată, pe când israeliții, ca și iudeii, erau duși în robie."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Acest verset nu doar reia discuția despre răsplătire, astfel încât corespunde versetului 15, ci afirmă și, ca un adaos la versetul 17, că Edom va fi nimicit deplin. Prin „casa lui Iacov” se înțelege Iuda, cum arată limpede coordonarea cu casa lui Iosif, adică a celor zece triburi."
+      }
+     ]
+    },
+    {
+     "v": "1:19",
+     "t": "Vor moșteni la miazăzi, muntele lui Esau; și podișul, Filistia; și vor moșteni câmpul lui Efraim și câmpul Samariei; și Beniamin [va moșteni] Ghiladul.",
+     "heb": "וְיָרְשׁוּ הַנֶּגֶב אֶת־הַר עֵשָׂו וְהַשְּׁפֵלָה אֶת־פְּלִשְׁתִּים וְיָרְשׁוּ אֶת־שְׂדֵה אֶפְרַיִם וְאֵת שְׂדֵה שֹׁמְרוֹן וּבִנְיָמִן אֶת־הַגִּלְעָד",
+     "translit": "Veiarşu ha'Neghev et-har Ēsav vehaşefēla et-pelishtim veiarşu et-sedē Efraim veēt sedē Şomron u'Viniamin et-ha'Ghilad.",
+     "tokens": [
+      {
+       "t": "Vor moșteni la miazăzi, muntele lui Esau",
+       "w": "Vor moșteni la miazăzi, muntele lui Esau",
+       "heb": "וְיָרְשׁוּ הַנֶּגֶב אֶת־הַר עֵשָׂו",
+       "translit": "veiarşu ha'Neghev et-har Ēsav",
+       "strong": "H5045",
+       "pos": "verb + substantiv propriu + substantiv propriu compus",
+       "def_ro": "și vor moșteni [cei din] miazăzi muntele lui Esau."
+      },
+      {
+       "t": "; și "
+      },
+      {
+       "t": "podișul, Filistia",
+       "w": "podișul, Filistia",
+       "heb": "וְהַשְּׁפֵלָה אֶת־פְּלִשְׁתִּים",
+       "translit": "vehaşefēla et-pelishtim",
+       "strong": "H8219",
+       "pos": "substantiv propriu + substantiv propriu",
+       "def_ro": "și [cei din] podiș, [pe] filisteni."
+      },
+      {
+       "t": "; și vor moșteni "
+      },
+      {
+       "t": "câmpul lui Efraim și câmpul Samariei",
+       "w": "câmpul lui Efraim și câmpul Samariei",
+       "heb": "אֶת־שְׂדֵה אֶפְרַיִם וְאֵת שְׂדֵה שֹׁמְרוֹן",
+       "translit": "et-sedē Efraim veēt sedē Şomron",
+       "strong": "H7704",
+       "pos": "substantiv + substantiv propriu + substantiv + substantiv propriu",
+       "def_ro": "câmpul lui Efraim și câmpul Samariei."
+      },
+      {
+       "t": "; și "
+      },
+      {
+       "t": "Beniamin [va moșteni] Ghiladul",
+       "w": "Beniamin [va moșteni] Ghiladul",
+       "heb": "וּבִנְיָמִן אֶת־הַגִּלְעָד",
+       "translit": "u'Viniamin et-ha'Ghilad",
+       "strong": "H1121",
+       "pos": "substantiv propriu + substantiv propriu",
+       "def_ro": "și Beniamin, Ghiladul."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְיָרְשׁוּ הַנֶּגֶב אֶת־הַר עֵשָׂו וְהַשְּׁפֵלָה אֶת־פְּלִשְׁתִּים וְיָרְשׁוּ אֶת־שְׂדֵה אֶפְרַיִם וְאֵת שְׂדֵה שֹׁמְרוֹן וּבִנְיָמִן אֶת־הַגִּלְעָד",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ κατακληρονομήσουσιν οἱ ἐν Νάγεβ τὸ ὄρος τὸ Ἠσαύ, καὶ οἱ ἐν τῇ Σεφηλὰ τοὺς ἀλλοφύλους; καὶ κατακληρονομήσουσιν τὸ ὄρος Ἐφράιμ καὶ τὸ πεδίον Σαμαρείας καὶ Βενιαμεὶν καὶ τὴν Γαλααδεῖτιν.",
+       "greek": true,
+       "translation": "„Și vor moșteni cei din Negev muntele lui Esau, și cei din Șefela pe cei de alt neam; și vor moșteni muntele Efraim și câmpia Samariei, și pe Beniamin, și Galaaditida.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Iosua 15:21",
+      "Amos 9:12"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Vor moșteni [cei din] miazăzi” — Israel, care locuiau la miazăzi de Țara lui Israel, vor moșteni muntele lui Esau, care e la hotarul de miazăzi; iar fiii câmpiei vor moșteni țara filistenilor și muntele Efraim și muntele Samariei. „Și Beniamin, Ghiladul” — și fiii lui Manase, a căror țară era Ghiladul, se vor întinde peste hotarele Țării lui Israel spre răsărit."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și vor moșteni [cei din] miazăzi” — casa lui Iacov, amintită în versetul dinainte, ei vor moșteni miazăzi, și se întoarce să tălmăcească: muntele lui Esau, care e la miazăzi Țării lui Israel. „Și podișul” — vor moșteni și podișul, și se întoarce să tălmăcească: filistenii, căci țara filistenilor era la podiș."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și cei de la miazăzi vor moșteni țara lui Esau — adică acei iudei care vor locui în partea de miazăzi a Iudeii vor pune stăpânire pe țara Idumeii, aflată alături de ei; își vor lărgi hotarul, luând-o în stăpânire. Și cei din podiș, pe filisteni — sau din Șefela, cei ce vor locui în podișul, sau ținutul câmpiei Iudeii, precum părțile Lidei, Emausului și Șaronului."
+      }
+     ]
+    },
+    {
+     "v": "1:20",
+     "t": "Și această oaste exilată a copiilor lui Israel, care au fost cu canaaniții până în Țarfat, iar exilații din Ierusalim, care sunt în Sefarad, vor moșteni orașele de la miazăzi!",
+     "heb": "וְגָלֻת הַחֵל־הַזֶּה לִבְנֵי יִשְׂרָאֵל אֲשֶׁר־כְּנַעֲנִים עַד־צָרְפַת וְגָלֻת יְרוּשָׁלִַם אֲשֶׁר בִּסְפָרַד יִירְשׁוּ אֵת עָרֵי הַנֶּגֶב",
+     "translit": "Vegalut hahēl-haze livnēi Israēl aşer-kenaanim ad-Tzarefat vegalut Ieruşalaim aşer bi'Sefarad irşu ēt arēi ha'Neghev.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "această oaste exilată a copiilor lui Israel",
+       "w": "această oaste exilată a copiilor lui Israel",
+       "heb": "וְגָלֻת הַחֵל־הַזֶּה לִבְנֵי יִשְׂרָאֵל",
+       "translit": "vegalut hahēl-haze livnēi Israēl",
+       "strong": "H1546",
+       "pos": "substantiv + substantiv + substantiv propriu",
+       "def_ro": "și exilul acestei oști a fiilor lui Israel.",
+       "dict_ro": "Rashi identifică „Țarfat” cu regatul numit în franceza veche „Franța” (פרנצ״א), iar „Sefarad” cu Spania, urmând traducerea targumului lui Ionatan pentru acest din urmă termen — identificări geografice medievale, nu neapărat cele originale ale textului biblic din secolul VI î.Hr., dar transmise fidel ca parte a tradiției exegetice a lui Rashi."
+      },
+      {
+       "t": ", care au fost "
+      },
+      {
+       "t": "cu canaaniții până în Țarfat",
+       "w": "cu canaaniții până în Țarfat",
+       "heb": "אֲשֶׁר־כְּנַעֲנִים עַד־צָרְפַת",
+       "translit": "aşer-kenaanim ad-Tzarefat",
+       "strong": "H3667",
+       "pos": "pronume relativ + substantiv propriu + substantiv propriu",
+       "def_ro": "care [sunt] canaaniți, până la Țarfat."
+      },
+      {
+       "t": ", iar "
+      },
+      {
+       "t": "exilații din Ierusalim, care sunt în Sefarad",
+       "w": "exilații din Ierusalim, care sunt în Sefarad",
+       "heb": "וְגָלֻת יְרוּשָׁלִַם אֲשֶׁר בִּסְפָרַד",
+       "translit": "vegalut Ieruşalaim aşer bi'Sefarad",
+       "strong": "H3389",
+       "pos": "substantiv + substantiv propriu + pronume relativ + substantiv propriu",
+       "def_ro": "și exilul Ierusalimului, care e în Sefarad."
+      },
+      {
+       "t": ", vor moșteni "
+      },
+      {
+       "t": "orașele de la miazăzi!",
+       "w": "orașele de la miazăzi!",
+       "heb": "יִירְשׁוּ אֵת עָרֵי הַנֶּגֶב",
+       "translit": "irşu ēt arēi ha'Neghev",
+       "strong": "H5892",
+       "pos": "verb + substantiv + substantiv propriu",
+       "def_ro": "vor moșteni cetățile de la miazăzi!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגָלֻת הַחֵל־הַזֶּה לִבְנֵי יִשְׂרָאֵל אֲשֶׁר־כְּנַעֲנִים עַד־צָרְפַת וְגָלֻת יְרוּשָׁלִַם אֲשֶׁר בִּסְפָרַד יִירְשׁוּ אֵת עָרֵי הַנֶּגֶב",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Identificarea geografică a „Sefarad” cu Spania (urmată de Rosen, Rashi și Targum) e o tradiție exegetică ulterioară, larg acceptată — savanții moderni discută alte posibilități (Sardis în Asia Mică)."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τῆς μετοικεσίας ἡ ἀρχὴ αὕτη; τοῖς υἱοῖς Ἰσραήλ, γῆ τῶν Χαναναίων ἕως Σαρέπτων, καὶ ἡ μετοικεσία Ἰερουσαλὴμ ἕως Ἐφράθα; κληρονομήσουσιν τὰς πόλεις τοῦ Νάγεβ.",
+       "greek": true,
+       "translation": "„Și acesta e începutul strămutării fiilor lui Israel: țara canaaniților până la Sarepta; și strămutarea Ierusalimului, până la Efrata; vor moșteni cetățile Negevului.”",
+       "note": "LXX redă „Sefarad” prin „Efrata” (Ἐφράθα) — o divergență majoră de identificare geografică, complet diferită atât de „Spania” a lui Rashi/Targum, cât și de orice identificare modernă cunoscută."
+      }
+     ],
+     "refs": [
+      "1 Regi 17:9-10",
+      "Luca 4:26"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și acest exil al oștii” — Targum: „acest popor”. הַחֵל e o expresie de oaste, ca în „și a venit la Ierusalim cu o oaste (חֵיל) mare” (Isaia 36:2), despre Rabșache, doar că aici lipsește un «iod». „Cu canaaniții până la Țarfat” — exilul, care e din fiii lui Israel, care au fost exilați din cele zece triburi în țara canaaniților, până la Țarfat. „Exilul Ierusalimului, care e în Sefarad” — cei din fiii lui Iuda, exilați în Sefarad, ei vor moșteni cetățile de la miazăzi, care sunt în partea de miazăzi a Țării lui Israel. Iar tălmăcitorii spun: «Țarfat» e regatul numit în franceza veche «Franța». «Sefarad» — Targum: Spania."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și exilul acestei oști etc.” — în versetul dinainte s-a spus că oamenii casei lui Iacov vor moșteni miazăzi etc., și acum tălmăcește cine anume dintre ei vor fi moștenitorii, și spune: fiii exilului acestei oști a fiilor lui Israel, care au locuit împreună cu canaaniții ce fugiseră din țara lor în zilele lui Iosua, al căror loc de locuire e până la Țarfat, și de asemenea fiii exilului Ierusalimului care au locuit în Sefarad, ei vor moșteni cetățile de la miazăzi, adică muntele lui Esau, țara Edomului."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Iar exilul acestei oștiri a fiilor lui Israel va moșteni pe cel al canaaniților, chiar până la Țarfat — adică oastea, marele număr al fiilor lui Israel, care au fost duși captivi, la întoarcerea lor va lua în stăpânire acea parte a țării lui Israel care fusese locuită mai înainte de canaaniți, chiar până la Țarfat, despre care se spune că aparține Sidonului (1 Regi 17:10), numit Sarepta Sidonului."
+      }
+     ]
+    },
+    {
+     "v": "1:21",
+     "t": "Izbăvitorii se vor urca pe muntele Țion ca să judece muntele lui Esau, și a DOMNULUI va fi împărăția!",
+     "heb": "וְעָלוּ מוֹשִׁעִים בְּהַר צִיּוֹן לִשְׁפֹּט אֶת־הַר עֵשָׂו וְהָיְתָה לַיהוָה הַמְּלוּכָה",
+     "translit": "Vealu moşiim behar Tzion lishpot et-har Ēsav vehaita l'ADONAI hameluha.",
+     "tokens": [
+      {
+       "t": "Izbăvitorii se vor urca pe muntele Țion",
+       "w": "Izbăvitorii se vor urca pe muntele Țion",
+       "heb": "וְעָלוּ מוֹשִׁעִים בְּהַר צִיּוֹן",
+       "translit": "vealu moşiim behar Tzion",
+       "strong": "H3467",
+       "pos": "verb + substantiv + substantiv propriu",
+       "def_ro": "și se vor sui izbăvitori pe muntele Țion.",
+       "dict_ro": "Rashi identifică pe „izbăvitori” drept „căpeteniile lui Israel, mântuitori pe muntele Țion”, iar targumul lui Ionatan redă „muntele lui Esau” prin „cetatea cea mare a lui Esau” — o precizare care lărgește imaginea de la munte la centru de putere; Rashi adaugă o notă teologică finală: acest verset „ne învață că împărăția Lui nu va fi deplină până nu se va face dreptate împotriva lui Amalek” — leagă explicit împlinirea eshatologică a împărăției divine de răsplătirea finală asupra descendenței lui Esau/Amalek."
+      },
+      {
+       "t": " ca să "
+      },
+      {
+       "t": "judece muntele lui Esau",
+       "w": "judece muntele lui Esau",
+       "heb": "לִשְׁפֹּט אֶת־הַר עֵשָׂו",
+       "translit": "lishpot et-har Ēsav",
+       "strong": "H8199",
+       "pos": "verb + substantiv propriu compus",
+       "def_ro": "ca să judece muntele lui Esau."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "a DOMNULUI va fi împărăția!",
+       "w": "a DOMNULUI va fi împărăția!",
+       "heb": "וְהָיְתָה לַיהוָה הַמְּלוּכָה",
+       "translit": "vehaita l'ADONAI hameluha",
+       "strong": "H4410",
+       "pos": "verb + substantiv propriu + substantiv",
+       "def_ro": "și va fi a DOMNULUI împărăția!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעָלוּ מוֹשִׁעִים בְּהַר צִיּוֹן לִשְׁפֹּט אֶת־הַר עֵשָׂו וְהָיְתָה לַיהוָה הַמְּלוּכָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Ultimul verset al cărții lui Ovadia — încheiere cu privire eshatologică asupra întregii lumi, nu doar asupra Edomului."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀναβήσονται ἀνασωζόμενοι ἐξ ὄρους Σειὼν τοῦ ἐκδικῆσαι τὸ ὄρος Ἠσαύ, καὶ ἔσται τῷ κυρίῳ ἡ βασιλεία.",
+       "greek": true,
+       "translation": "„Și se vor sui cei izbăviți din muntele Sion, ca să răzbune muntele lui Esau, și a Domnului va fi împărăția.”",
+       "note": "LXX inversează direcția mișcării: „cei izbăviți din muntele Sion” (mișcare dinspre Sion) față de TM „izbăvitorii [se vor sui] pe muntele Sion” (mișcare spre Sion) — o divergență reală de sens, nu doar de nuanță de traducere."
+      }
+     ],
+     "refs": [
+      "Numeri 24:19",
+      "Zaharia 14:9",
+      "Neemia 9:27"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și se vor sui” — căpeteniile lui Israel, mântuitori, pe muntele Țion. „Ca să judece muntele lui Esau” — ca să facă dreptate împotriva muntelui lui Esau pentru ceea ce i-au făcut lui Israel. „Muntele lui Esau” — Targum Ionatan: „cetatea cea mare a lui Esau”. „Și a DOMNULUI va fi împărăția” — aceasta te învață că împărăția Lui nu va fi deplină până nu Se va răzbuna pe Amalek."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și se vor sui izbăvitori” — izbăvitorii care vor fi pe muntele Țion sunt regele Mesia și căpeteniile lui, când se vor sui pe muntele Seir ca să facă în ei judecată pentru răul ce l-au făcut lui Israel; atunci va fi a DOMNULUI împărăția, adică atunci toți vor mărturisi împărăția Lui și-L vor primi ca Dumnezeu."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și izbăvitori se vor sui pe muntele Țion — care, după unii, trebuie înțeles literal, fie despre Zorobabel și Iosua, după întoarcerea iudeilor din robia babiloniană, care au fost restauratorii stării lor civile și bisericești; fie mai degrabă despre Iuda Macabeul și frații lui, care au izbăvit pe poporul iudeu de Antioh și generalii lui, numiți «izbăvitori», așa cum erau numiți odinioară judecătorii (Neemia 9:27); dar cel mai bine e să interpretăm acești «izbăvitori» ca apostolii lui Hristos, și slujitorii Cuvântului."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Izbăvitori” — va fi în împărăția ce va veni niciun rege, ci un prinț; perioada sabatică a judecătorilor se va întoarce, când nu era rege văzut, ci Dumnezeu domnea în teocrație. Israeliții, nu străinii, vor face dreptate unui popor temător de Dumnezeu (Ezechiel 45:1-25)."
       }
      ]
     }
