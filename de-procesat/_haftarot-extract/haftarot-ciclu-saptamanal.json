@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "5 capitole (din 54+2 planificate) · 5 complete la Standardul Davar",
+ "meta": "6 capitole (din 54+2 planificate) · 6 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -17383,6 +17383,2353 @@
       {
        "author": "Matthew Henry, Comentariu la Biblie",
        "text": "Formula „să trăiască regele în veac” nu e doar o urare de curtoazie — la Batșeba, ea vine dintr-o inimă cu adevărat recunoscătoare, care nu și-a dorit niciodată moartea regelui, ci doar dreptatea făgăduinței lui împlinită."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "title": "Haftarat Toldot",
+   "ref": "Maleahi 1:1-2:7",
+   "intro": "Haftara pentru parașat Toldot. Asociată pericopei care descrie disputa dintre Iacov și Esav legat de binecuvântarea părintească, Haftarat Toldot discută destinul lui Iacov-Israel, în contrast cu cel al urmașilor lui Esav (Edom). Maleahi, ultimul profet al lui Israel, aduce aici o aspră mustrare preoților pentru că au transformat serviciul divin într-un ritual sec, lipsit de încărcătură spirituală, amintind de legământul de viață și pace încheiat cu Levi.",
+   "verses": [
+    {
+     "v": "1:1",
+     "t": "Povara cuvântului DOMNULUI către Israel, prin [profeția lui] Malahi:",
+     "heb": "מַשָּׂא דְבַר־יְהוָה אֶל־יִשְׂרָאֵל בְּיַד מַלְאָכִי",
+     "translit": "Masa devar-ADONAI el-Israēl beiad Malahi.",
+     "tokens": [
+      {
+       "t": "Povara cuvântului DOMNULUI",
+       "w": "Povara cuvântului DOMNULUI",
+       "heb": "מַשָּׂא דְבַר־יְהוָה",
+       "translit": "masa devar-ADONAI",
+       "strong": "H4853",
+       "pos": "substantiv compus",
+       "def_ro": "povara/rostirea cuvântului DOMNULUI.",
+       "dict_ro": "Calvin observă că „massa” (povară) nu e un simplu sinonim pentru „profeție”: cuvântul apare aproape întotdeauna legat de o judecată divină iminentă — Ieremia 23:38 arată că necredincioșii foloseau ironic acest termen ca poreclă disprețuitoare pentru orice cuvânt profetic, ca să-l poată respinge mai ușor drept „doar o amenințare”."
+      },
+      {
+       "t": " către Israel, prin [profeția lui] "
+      },
+      {
+       "t": "Malahi",
+       "w": "Malahi",
+       "heb": "בְּיַד מַלְאָכִי",
+       "translit": "beiad Malahi",
+       "strong": "H4401",
+       "pos": "substantiv + substantiv propriu",
+       "def_ro": "prin mâna lui Malahi.",
+       "dict_ro": "Rashi citează o baraita din Mechilta: toți profeții au stat la Muntele Sinai, unde le-au fost încredințate profețiile lor — de aceea „era încredințat în mâna lui de multă vreme”, deși vestit abia acum. Numele „Malahi” înseamnă literal „mesagerul/îngerul Meu” — Septuaginta îl traduce chiar așa, „prin mâna îngerului Său”, netratându-l ca nume propriu, ci ca titlu, o dezbatere reală și veche asupra identității exacte a acestui ultim profet."
+      },
+      {
+       "t": ":"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מַשָּׂא דְבַר־יְהוָה אֶל־יִשְׂרָאֵל בְּיַד מַלְאָכִי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΛΗΜΜΑ λόγου Κυρίου ἐπὶ τὸν Ἰσραὴλ ἐν χειρὶ ἀγγέλου αὐτοῦ· θέσθε δὴ ἐπὶ τὰς καρδίας ὑμῶν.",
+       "greek": true,
+       "translation": "„Cuvânt luat al Domnului către Israel, prin mâna îngerului Său; puneți-l, dar, la inimile voastre.”",
+       "note": "Divergență reală și importantă: LXX nu tratează „Malahi” ca nume propriu de profet, ci îl traduce prin sensul literal al cuvântului ebraic, „îngerul/mesagerul Său” (ἀγγέλου αὐτοῦ) — reflectând o veche nesiguranță, păstrată până azi în cercetarea biblică, asupra identității reale a autorului acestei cărți: unii îl socotesc chiar pe Ezra, alții un profet anonim desemnat doar prin acest titlu funcțional."
+      }
+     ],
+     "refs": [
+      "Ieremia 23:38",
+      "Zaharia 9:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Masa” — un cuvânt încredințat lui Malahi, ca să-l ducă fiilor lui Israel. „Prin mâna lui Malahi” — îi era încredințat deja de multă vreme. De aici au tâlcuit rabinii noștri, într-o baraita din Mechilta, că toți profeții au stat pe Muntele Sinai, și acolo le-au fost încredințate profețiile; și tot așa spune [Isaia 48:16]: «Din vremea când a fost, acolo eram Eu, și acum, DOMNUL Dumnezeu m-a trimis [pe mine și Duhul Său]»."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Prin mâna lui Malahi” — [cuvântul] trimis prin mâna lui Malahi."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Masa” — profeție, și, spre lămurire suplimentară, se adaugă «cuvântul DOMNULUI»."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Prin aceasta se înțelege profeția acestei cărți, numită astfel nu fiindcă ar fi grea, apăsătoare și chinuitoare, fie pentru ca profetul s-o poarte, fie pentru popor s-o îndure — căci o parte din ea, cea privitoare la Hristos și înaintemergătorul Lui, era prilej de bucurie pentru poporul lui Dumnezeu — ci fiindcă era o solie trimisă de DOMNUL, purtată de profet la popor."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Cei ce explică „massa” drept simplu sinonim al profeției, fără excepție, greșesc, cum am amintit și în altă parte; căci profeția nu e numită pretutindeni „povară”, și oriunde apare acest cuvânt, trebuie înțeleasă întotdeauna o judecată a lui Dumnezeu. Reiese limpede din Ieremia 23:38 că acest cuvânt era socotit de rău augur, așa încât cei nelegiuiți, voind să înfiereze profeții cu vreun semn de ocară, foloseau aceasta ca zicală obișnuită: «E o povară»."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Faptul că profeția acestei cărți e numită „povara cuvântului DOMNULUI” arată, întâi, că avea mare greutate și însemnătate: ce spuneau profeții mincinoși era ușor ca pleava, ce spuneau profeții adevărați era greu ca grâul (Ieremia 23:28)."
+      }
+     ]
+    },
+    {
+     "v": "1:2",
+     "t": "„Eu v-am iubit pe voi”, a spus DOMNUL, însă voi ați spus: „Cum ne-ai iubit?” N-a fost [și] Esav, fratele lui Iacov – rostirea DOMNULUI – dar l-am iubit pe Iacov?",
+     "heb": "אָהַבְתִּי אֶתְכֶם אָמַר יְהוָה וַאֲמַרְתֶּם בַּמָּה אֲהַבְתָּנוּ הֲלוֹא־אָח עֵשָׂו לְיַעֲקֹב נְאֻם־יְהוָה וָאֹהַב אֶת־יַעֲקֹב",
+     "translit": "Ahavti ethem amar ADONAI vaamartem bame ahavtanu halo-ah Ēsav le'Iaakov neum-ADONAI vaohav et-Iaakov.",
+     "tokens": [
+      {
+       "t": "„"
+      },
+      {
+       "t": "Eu v-am iubit pe voi",
+       "w": "Eu v-am iubit pe voi",
+       "heb": "אָהַבְתִּי אֶתְכֶם",
+       "translit": "ahavti ethem",
+       "strong": "H157",
+       "pos": "verb, qal perfect + pronume",
+       "def_ro": "v-am iubit."
+      },
+      {
+       "t": "”, a spus DOMNUL, însă voi ați spus: „"
+      },
+      {
+       "t": "Cum ne-ai iubit",
+       "w": "Cum ne-ai iubit",
+       "heb": "בַּמָּה אֲהַבְתָּנוּ",
+       "translit": "bame ahavtanu",
+       "strong": "H4100",
+       "pos": "pronume interogativ + verb",
+       "def_ro": "cu ce ne-ai iubit?"
+      },
+      {
+       "t": "?” "
+      },
+      {
+       "t": "N-a fost [și] Esav, fratele lui Iacov",
+       "w": "N-a fost [și] Esav, fratele lui Iacov",
+       "heb": "הֲלוֹא־אָח עֵשָׂו לְיַעֲקֹב",
+       "translit": "halo-ah Ēsav le'Iaakov",
+       "strong": "H251",
+       "pos": "particulă interogativă + substantiv + substantiv propriu compus",
+       "def_ro": "oare nu era Esav frate lui Iacov?"
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "rostirea DOMNULUI",
+       "w": "rostirea DOMNULUI",
+       "heb": "נְאֻם־יְהוָה",
+       "translit": "neum-ADONAI",
+       "strong": "H5002",
+       "pos": "substantiv compus",
+       "def_ro": "cuvântul/rostirea DOMNULUI."
+      },
+      {
+       "t": " – dar "
+      },
+      {
+       "t": "l-am iubit pe Iacov",
+       "w": "l-am iubit pe Iacov",
+       "heb": "וָאֹהַב אֶת־יַעֲקֹב",
+       "translit": "vaohav et-Iaakov",
+       "strong": "H157",
+       "pos": "verb, qal imperfect consecutiv + substantiv propriu",
+       "def_ro": "și l-am iubit pe Iacov."
+      },
+      {
+       "t": "?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אָהַבְתִּי אֶתְכֶם אָמַר יְהוָה וַאֲמַרְתֶּם בַּמָּה אֲהַבְתָּנוּ הֲלוֹא־אָח עֵשָׂו לְיַעֲקֹב נְאֻם־יְהוָה וָאֹהַב אֶת־יַעֲקֹב",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Ἠγάπησα ὑμᾶς, λέγει Κύριος· καὶ εἴπατε Ἐν τίνι ἠγάπησας ἡμᾶς; οὐκ ἀδελφὸς ἦν Ἠσαὺ τοῦ Ἰακώβ; λέγει Κύριος; καὶ ἠγάπησα τὸν Ἰακώβ,",
+       "greek": true,
+       "translation": "„V-am iubit, zice Domnul; și ați zis: Cu ce ne-ai iubit? Nu era Esau frate al lui Iacov? zice Domnul; și l-am iubit pe Iacov,”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Romani 9:13",
+      "Deuteronom 7:8",
+      "Osea 11:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "Vrea să spună: dacă veți zice, cu ce v-am iubit din pricina voastră înșivă — adică, chiar dacă am făcut cu voi mult bine, aceasta nu vine din iubirea voastră, ci din iubirea părinților și a mamelor [voastre]. „Oare nu era Esav” ș.a.m.d. — ca și cum ar spune: la aceasta vă răspund: oare nu era Esav frate lui Iacov, din tată și din mamă, având aceeași descendență din părinți și mame, și totuși l-am iubit doar pe Iacov."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„V-am iubit, zice DOMNUL” — ceea ce s-a arătat din vechime, alegându-i, mai presus de toate popoarele de pe fața pământului, să-i fie popor deosebit și ales; „dar voi ziceți: cu ce ne-ai iubit?” — Targumul redă: «și dacă veți zice»; ceea ce sugerează că, deși poate n-au rostit-o în atâtea cuvinte, păreau înclinați s-o spună; o gândeau, chiar dacă n-o rosteau."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Aceasta e o mustrare pentru nerecunoștința poporului, care, în ciuda unei iubiri atât de vădite a lui Dumnezeu, îndrăznește să întrebe în ce fel a fost iubit — o insolență ce dovedește o insensibilitate desăvârșită față de darurile primite."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Cu ce ne-ai iubit?” — în contrast dureros cu duioșia plină de lacrimi a iubirii lui Dumnezeu stă provocarea lor obraznică. Rădăcina păcatului lor era nesimțirea față de iubirea lui Dumnezeu și față de propria lor răutate; luându-li-se prosperitatea, ei sugerează că n-ar mai avea semne ale iubirii lui Dumnezeu — privesc la ce le-a luat Dumnezeu, nu la ce le-a lăsat."
+      }
+     ]
+    },
+    {
+     "v": "1:3",
+     "t": "Iar pe Esav l-am urât și i-am prefăcut munții în pustiu, și moștenirea lui am dat-o șerpilor deșertului.",
+     "heb": "וְאֶת־עֵשָׂו שָׂנֵאתִי וָאָשִׂים אֶת־הָרָיו שְׁמָמָה וְאֶת־נַחֲלָתוֹ לְתַנּוֹת מִדְבָּר",
+     "translit": "Veet-Ēsav sanēti vaasim et-harav şemama veet-nahalato letanot midbar.",
+     "tokens": [
+      {
+       "t": "Iar pe "
+      },
+      {
+       "t": "Esav l-am urât",
+       "w": "Esav l-am urât",
+       "heb": "אֶת־עֵשָׂו שָׂנֵאתִי",
+       "translit": "et-Ēsav sanēti",
+       "strong": "H8130",
+       "pos": "substantiv propriu + verb, qal perfect",
+       "def_ro": "pe Esav l-am urât.",
+       "dict_ro": "Rashi și comentatorii clasici (urmați de Jamieson-Fausset-Brown, citând Romani 9:13) explică: nu e o ură pozitivă, ci relativă — „a nu alege”, spre deosebire de alegerea gratuită a lui Iacov. E obiceiul lumii, spune Rashi, ca cel ce are doi fii să aleagă partea cea mai bună pentru întâiul născut — Dumnezeu a răsturnat exact acest obicei firesc."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "i-am prefăcut munții în pustiu",
+       "w": "i-am prefăcut munții în pustiu",
+       "heb": "וָאָשִׂים אֶת־הָרָיו שְׁמָמָה",
+       "translit": "vaasim et-harav şemama",
+       "strong": "H8047",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și am făcut munții lui pustietate."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "moștenirea lui am dat-o șerpilor deșertului",
+       "w": "moștenirea lui am dat-o șerpilor deșertului",
+       "heb": "אֶת־נַחֲלָתוֹ לְתַנּוֹת מִדְבָּר",
+       "translit": "et-nahalato letanot midbar",
+       "strong": "H8577",
+       "pos": "substantiv + substantiv compus",
+       "def_ro": "moștenirea lui, sălaș de șacali ai pustiei."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאֶת־עֵשָׂו שָׂנֵאתִי וָאָשִׂים אֶת־הָרָיו שְׁמָמָה וְאֶת־נַחֲלָתוֹ לְתַנּוֹת מִדְבָּר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τὸν δὲ Ἠσαὺ ἐμίσησα, καὶ ἔταξα τὰ ὅρια αὐτοῦ εἰς ἀφανισμὸν καὶ τὴν κληρονομίαν αὐτοῦ εἰς δόματα ἐρήμου.",
+       "greek": true,
+       "translation": "„Iar pe Esau l-am urât, și am pus hotarele lui spre pustiire, și moștenirea lui spre daruri ale pustiei.”",
+       "note": "LXX traduce „lețanot midbar” (sălaș de șacali) printr-o expresie mai vagă, „daruri ale pustiei” (δόματα ἐρήμου) — probabil necunoscând sensul exact al cuvântului rar „tanim”."
+      }
+     ],
+     "refs": [
+      "Romani 9:13",
+      "Ieremia 49:7-18",
+      "Geneza 36:8"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Pe Esav l-am urât” — ca să-l împing în țara Seir, din pricina lui Iacov, fratele lui. Iar obiceiul lumii e ca, atunci când cineva are doi fii, să aleagă pentru întâiul născut partea cea mai bună. „Și am făcut munții lui pustietate” — nu se aseamănă cu munții lui Israel. „Sălaș de șacali ai pustiei” — vizuină de șacali."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Dacă ar fi fost doar din iubirea părinților și a mamelor, ar fi trebuit să-l iubesc și pe Esav; dar adevărul e că v-am iubit și pe voi înșivă, adăugat la iubirea față de părinți și mame. „Și am făcut” ș.a.m.d. — acum lămurește prin ce l-a urât pe Esav, și spune: vedeți acum, căci amândoi ați fost exilați prin Nebucadnețar, dar voi v-ați întors în țara voastră, pe când pe locuitorii Seirului îi voi lăsa pustietate mai departe, iar moștenirea lui va fi sălaș pentru șacalii aflați în pustie."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Adică l-a respins, cum spune Targumul; nu l-a iubit ca pe Iacov: aceasta e o ură negativă, nu pozitivă; e adevărat despre el luat personal, nu doar prin faptul că i s-a luat dreptul de întâi-născut și binecuvântarea, pe care le-a disprețuit, ci și prin faptul că i-a refuzat harul Său deosebit, lăsându-l în păcatele lui și poftelor lui, așa încât a devenit un om lumesc."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Dumnezeu nu declară aici o ură arbitrară, ci arată limpede prin fapte istorice — pustiirea muntelui Seir, spre deosebire de restaurarea lui Israel — că alegerea Lui gratuită a lui Iacov n-a fost întâmplătoare, ci o dovadă concretă, verificabilă în istorie, a felului cum tratează Dumnezeu pe cel ales și pe cel respins."
+      }
+     ]
+    },
+    {
+     "v": "1:4",
+     "t": "Căci a spus Edom: „Am sărăcit, dar ne vom întoarce și vom reconstrui ruinele”. Așa a spus DOMNUL Oștirilor. „Iată, vor construi, dar voi dărâma; și se vor numi: «hotarul răutății» și «poporul care l-a înfuriat pe DOMNUL, veșnic»”.",
+     "heb": "כִּי־תֹאמַר אֱדוֹם רֻשַּׁשְׁנוּ וְנָשׁוּב וְנִבְנֶה חֳרָבוֹת כֹּה אָמַר יְהוָה צְבָאוֹת הֵמָּה יִבְנוּ וַאֲנִי אֶהֱרוֹס וְקָרְאוּ לָהֶם גְּבוּל רִשְׁעָה וְהָעָם אֲשֶׁר־זָעַם יְהוָה עַד־עוֹלָם",
+     "translit": "Ki-tomar Edom ruşaşnu venaşuv univnē horavot ko amar ADONAI Ţevaot hēma ivnu vaani eheros vekaru lahem ghevul rişa vehaam aşer-zaam ADONAI ad-olam.",
+     "tokens": [
+      {
+       "t": "Căci a spus "
+      },
+      {
+       "t": "Edom",
+       "w": "Edom",
+       "heb": "אֱדוֹם",
+       "translit": "Edom",
+       "strong": "H123",
+       "pos": "substantiv propriu",
+       "def_ro": "Edom — urmașii lui Esav."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Am sărăcit",
+       "w": "Am sărăcit",
+       "heb": "רֻשַּׁשְׁנוּ",
+       "translit": "ruşaşnu",
+       "strong": "H7567",
+       "pos": "verb, pual perfect",
+       "def_ro": "am fost sărăciți."
+      },
+      {
+       "t": ", dar "
+      },
+      {
+       "t": "ne vom întoarce și vom reconstrui ruinele",
+       "w": "ne vom întoarce și vom reconstrui ruinele",
+       "heb": "וְנָשׁוּב וְנִבְנֶה חֳרָבוֹת",
+       "translit": "venaşuv univnē horavot",
+       "strong": "H7725",
+       "pos": "verb + verb + substantiv",
+       "def_ro": "și ne vom întoarce și vom zidi ruinele."
+      },
+      {
+       "t": "”. Așa a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": ". „Iată, "
+      },
+      {
+       "t": "vor construi, dar voi dărâma",
+       "w": "vor construi, dar voi dărâma",
+       "heb": "הֵמָּה יִבְנוּ וַאֲנִי אֶהֱרוֹס",
+       "translit": "hēma ivnu vaani eheros",
+       "strong": "H1129",
+       "pos": "pronume + verb + pronume + verb",
+       "def_ro": "ei vor zidi, iar Eu voi dărâma."
+      },
+      {
+       "t": "; și "
+      },
+      {
+       "t": "se vor numi",
+       "w": "se vor numi",
+       "heb": "וְקָרְאוּ לָהֶם",
+       "translit": "vekaru lahem",
+       "strong": "H7121",
+       "pos": "verb, qal perfect consecutiv + prepoziție",
+       "def_ro": "li se va zice."
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "hotarul răutății",
+       "w": "hotarul răutății",
+       "heb": "גְּבוּל רִשְׁעָה",
+       "translit": "ghevul rişa",
+       "strong": "H1366",
+       "pos": "substantiv compus",
+       "def_ro": "hotarul răutății."
+      },
+      {
+       "t": "» și «"
+      },
+      {
+       "t": "poporul care l-a înfuriat pe DOMNUL, veșnic",
+       "w": "poporul care l-a înfuriat pe DOMNUL, veșnic",
+       "heb": "הָעָם אֲשֶׁר־זָעַם יְהוָה עַד־עוֹלָם",
+       "translit": "haam aşer-zaam ADONAI ad-olam",
+       "strong": "H2194",
+       "pos": "substantiv + verb + substantiv propriu + adverb",
+       "def_ro": "poporul pe care DOMNUL l-a blestemat pe veci."
+      },
+      {
+       "t": "»”."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־תֹאמַר אֱדוֹם רֻשַּׁשְׁנוּ וְנָשׁוּב וְנִבְנֶה חֳרָבוֹת כֹּה אָמַר יְהוָה צְבָאוֹת הֵמָּה יִבְנוּ וַאֲנִי אֶהֱרוֹס וְקָרְאוּ לָהֶם גְּבוּל רִשְׁעָה וְהָעָם אֲשֶׁר־זָעַם יְהוָה עַד־עוֹלָם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι ἐρεῖ Ἡ Ἰδουμαία κατέστραπται, καὶ ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους.",
+       "greek": true,
+       "translation": "„Fiindcă va zice: Idumeea a fost răsturnată, și să ne întoarcem și să rezidim pustiirile.”",
+       "note": "LXX prescurtează versetul, omițând finalul despre „hotarul răutății” și „poporul blestemat pe veci”, reluat probabil implicit."
+      }
+     ],
+     "refs": [
+      "Ieremia 49:7-18",
+      "Isaia 34:5-15"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Căci va zice Edom: am sărăcit” — iar dacă vor zice cei ce au dărâmat Templul: la început eram săraci, dar de acum, îmbogățiți din prada Ierusalimului, «ne vom întoarce și vom zidi ruinele» noastre — «așa a spus DOMNUL» ș.a.m.d."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Căci va zice Edom” — dacă vor zice cei ce au dărâmat Templul: iată, acum suntem săraci și mizerabili, și țara noastră e pustiită, dar ne vom întoarce și vom mai zidi ruinele, căci vor zice că nu asta vine din ura DOMNULUI față de noi, ca dărâmarea să dăinuie, ci a venit din întâmplare, și cum a venit, tot așa va trece. „Ei vor zidi” — cu adevărat vor zidi ruinele și vor stăpâni mult, dar la sfârșit voi nimici totul cu desăvârșire, și nu se vor mai întoarce la starea lor de mai înainte."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Sau idumeenii, cum spune Targumul; urmașii lui Esav, care recunosc că au fost mult reduși prin pustiirile făcute în țara lor, cetățile, orașele și casele lor, jefuite de tot ce aveau de valoare. „Dar ne vom întoarce” — devenind acum bogați, adaugă Targumul, adică, după cum explică Jarchi, cu prada Ierusalimului."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Prin acest contrast, Dumnezeu arată că nimicirea Edomului nu va fi trecătoare, ca a lui Israel, ci veșnică — nu un accident al istoriei, ci o pecete pusă asupra unui popor pe care l-a osândit definitiv, spre deosebire de mila reînnoită mereu arătată lui Iacov."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Edom poate să se străduiască oricât să-și refacă starea, dar va fi în zadar, căci [DOMNUL] o osândește la o pustiire veșnică, pe când pe Israel îl restaurează. Aceasta o declară Iehova ca să arate mila Lui gratuită față de Israel, mai degrabă decât față de Edom."
+      }
+     ]
+    },
+    {
+     "v": "1:5",
+     "t": "Și ochii voștri vor vedea și veți spune: «DOMNUL este mare dincolo de hotarul lui Israel»”.",
+     "heb": "וְעֵינֵיכֶם תִּרְאֶינָה וְאַתֶּם תֹּאמְרוּ יִגְדַּל יְהוָה מֵעַל לִגְבוּל יִשְׂרָאֵל",
+     "translit": "Veēinēhem tirena veatem tomru igdal ADONAI meal ligvul Israēl.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "ochii voștri vor vedea",
+       "w": "ochii voștri vor vedea",
+       "heb": "וְעֵינֵיכֶם תִּרְאֶינָה",
+       "translit": "veēinēhem tirena",
+       "strong": "H5869",
+       "pos": "substantiv + verb",
+       "def_ro": "și ochii voștri vor vedea."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "veți spune",
+       "w": "veți spune",
+       "heb": "וְאַתֶּם תֹּאמְרוּ",
+       "translit": "veatem tomru",
+       "strong": "H559",
+       "pos": "pronume + verb",
+       "def_ro": "și voi veți spune."
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "DOMNUL este mare dincolo de hotarul lui Israel",
+       "w": "DOMNUL este mare dincolo de hotarul lui Israel",
+       "heb": "יִגְדַּל יְהוָה מֵעַל לִגְבוּל יִשְׂרָאֵל",
+       "translit": "igdal ADONAI meal ligvul Israēl",
+       "strong": "H1431",
+       "pos": "verb + substantiv propriu + substantiv compus",
+       "def_ro": "să Se preamărească DOMNUL dincolo de hotarul lui Israel.",
+       "dict_ro": "Rashi înțelege versetul ca pe o promisiune de recunoaștere universală: DOMNUL Își va arăta măreția „dincolo de hotarul nostru”, ca să se știe pretutindeni că Israel Îi aparține — Targumul lui Ionatan redă chiar mai explicit: „să se înmulțească slava DOMNULUI, căci a lărgit hotarul Israelului”."
+      },
+      {
+       "t": "»”."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעֵינֵיכֶם תִּרְאֶינָה וְאַתֶּם תֹּאמְרוּ יִגְדַּל יְהוָה מֵעַל לִגְבוּל יִשְׂרָאֵל",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὀφθαλμοὶ ὑμῶν ὄψονται, καὶ ὑμεῖς ἐρεῖτε Ἐμεγαλύνθη Κύριος ὑπεράνω τῶν ὁρίων τοῦ Ἰσραήλ.",
+       "greek": true,
+       "translation": "„Și ochii voștri vor vedea, și voi veți zice: S-a preamărit Domnul mai presus de hotarele lui Israel.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„DOMNUL Se va preamări dincolo de hotarul nostru” — Își va arăta măreția dincolo de hotarul nostru, ca să se cunoască faptul că noi suntem poporul Lui. Iar Ionatan a tradus: «să se înmulțească slava DOMNULUI, și a lărgit El hotarul pământului lui Israel»."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Nimicirea idumeenilor, și încercările lor zadarnice de a-și rezidi ruinele; și deosebirea dintre ei și israeliți, întorși la pământul lor și moștenindu-l, când ei n-au putut; și iubirea lui Dumnezeu față de unul, și ura Lui față de celălalt. „Și veți zice: DOMNUL Se va preamări dincolo de hotarul lui Israel” — Ibn Ezra tâlcuiește: voi, cei ce locuiți în hotarul lui Israel, veți zice: DOMNUL să fie preamărit, sau lăudat, pentru ce a făcut."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Acest verset închide argumentul: poporul, văzând cu ochii proprii contrastul dintre restaurarea lor și pustiirea veșnică a Edomului, nu va mai putea pretinde ignoranță asupra iubirii gratuite a lui Dumnezeu față de ei."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Voi, întorși la propriile voastre „hotare” în Israel, „din” ele veți înălța glasul ca să „preamăriți pe DOMNUL”, recunoscând că Iehova v-a arătat o bunăvoință gratuită, nearătată Edomului, și de aceea se cuvine să fie „preamărit dincolo de hotarele lui Israel” în chip deosebit."
+      }
+     ]
+    },
+    {
+     "v": "1:6",
+     "t": "„Un fiu își cinstește tatăl și un slujitor stăpânul. Dacă Eu sunt Tatăl, unde-i cinstirea Mea? Și dacă Eu sunt Stăpânul, unde-i teama de Mine” – v-a spus DOMNUL Oștirilor – „preoților care Îmi disprețuiți numele?” Dar voi spuneți: „Prin ce Ți-am disprețuit numele?”",
+     "heb": "בֵּן יְכַבֵּד אָב וְעֶבֶד אֲדֹנָיו וְאִם־אָב אָנִי אַיֵּה כְבוֹדִי וְאִם־אֲדוֹנִים אָנִי אַיֵּה מוֹרָאִי אָמַר יְהוָה צְבָאוֹת לָכֶם הַכֹּהֲנִים בּוֹזֵי שְׁמִי וַאֲמַרְתֶּם בַּמֶּה בָזִינוּ אֶת־שְׁמֶךָ",
+     "translit": "Bēn iehabēd av veeved adonav veim-av ani aiē hevodi veim-adonim ani aiē morai amar ADONAI Ţevaot lahem hakohanim bozēi şemi vaamartem bame vazinu et-şemeha.",
+     "tokens": [
+      {
+       "t": "„"
+      },
+      {
+       "t": "Un fiu își cinstește tatăl",
+       "w": "Un fiu își cinstește tatăl",
+       "heb": "בֵּן יְכַבֵּד אָב",
+       "translit": "bēn iehabēd av",
+       "strong": "H1121",
+       "pos": "substantiv + verb + substantiv",
+       "def_ro": "fiul cinstește pe tată."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "un slujitor stăpânul",
+       "w": "un slujitor stăpânul",
+       "heb": "וְעֶבֶד אֲדֹנָיו",
+       "translit": "veeved adonav",
+       "strong": "H5650",
+       "pos": "substantiv + substantiv",
+       "def_ro": "și slujitorul, pe stăpânul lui.",
+       "dict_ro": "Metzudat Țion notează: forma ebraică „adonav” (stăpânii lui) e la plural, dar cu sens de singular — o construcție obișnuită în ebraică pentru titluri de autoritate (ca „adonei Iosef”, „stăpânii lui Iosif”, Geneza 39)."
+      },
+      {
+       "t": ". Dacă Eu sunt "
+      },
+      {
+       "t": "Tatăl",
+       "w": "Tatăl",
+       "heb": "אָב אָנִי",
+       "translit": "av ani",
+       "strong": "H1",
+       "pos": "substantiv + pronume",
+       "def_ro": "[dacă] Tată sunt Eu."
+      },
+      {
+       "t": ", unde-i "
+      },
+      {
+       "t": "cinstirea Mea",
+       "w": "cinstirea Mea",
+       "heb": "אַיֵּה כְבוֹדִי",
+       "translit": "aiē hevodi",
+       "strong": "H3519",
+       "pos": "adverb interogativ + substantiv",
+       "def_ro": "unde e cinstea Mea?"
+      },
+      {
+       "t": "? Și dacă Eu sunt "
+      },
+      {
+       "t": "Stăpânul",
+       "w": "Stăpânul",
+       "heb": "אֲדוֹנִים אָנִי",
+       "translit": "adonim ani",
+       "strong": "H113",
+       "pos": "substantiv + pronume",
+       "def_ro": "[dacă] Stăpân sunt Eu."
+      },
+      {
+       "t": ", unde-i "
+      },
+      {
+       "t": "teama de Mine",
+       "w": "teama de Mine",
+       "heb": "אַיֵּה מוֹרָאִי",
+       "translit": "aiē morai",
+       "strong": "H4172",
+       "pos": "adverb interogativ + substantiv",
+       "def_ro": "unde e teama de Mine?"
+      },
+      {
+       "t": "” – v-a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": " – „"
+      },
+      {
+       "t": "preoților care Îmi disprețuiți numele",
+       "w": "preoților care Îmi disprețuiți numele",
+       "heb": "הַכֹּהֲנִים בּוֹזֵי שְׁמִי",
+       "translit": "hakohanim bozēi şemi",
+       "strong": "H959",
+       "pos": "substantiv + substantiv, qal participiu construct",
+       "def_ro": "preoților, disprețuitorii Numelui Meu."
+      },
+      {
+       "t": "?” Dar voi spuneți: „"
+      },
+      {
+       "t": "Prin ce Ți-am disprețuit numele",
+       "w": "Prin ce Ți-am disprețuit numele",
+       "heb": "בַּמֶּה בָזִינוּ אֶת־שְׁמֶךָ",
+       "translit": "bame vazinu et-şemeha",
+       "strong": "H4100",
+       "pos": "pronume interogativ + verb + substantiv",
+       "def_ro": "cu ce am disprețuit Numele Tău?"
+      },
+      {
+       "t": "?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בֵּן יְכַבֵּד אָב וְעֶבֶד אֲדֹנָיו וְאִם־אָב אָנִי אַיֵּה כְבוֹדִי וְאִם־אֲדוֹנִים אָנִי אַיֵּה מוֹרָאִי אָמַר יְהוָה צְבָאוֹת לָכֶם הַכֹּהֲנִים בּוֹזֵי שְׁמִי וַאֲמַרְתֶּם בַּמֶּה בָזִינוּ אֶת־שְׁמֶךָ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Υἱὸς δοξάζει πατέρα, καὶ δοῦλος τὸν κύριον αὐτοῦ. καὶ εἰ πατήρ εἰμι ἐγώ, ποῦ ἐστιν ἡ δόξα μου;",
+       "greek": true,
+       "translation": "„Fiul slăvește pe tatăl, și robul pe stăpânul lui. Și dacă Eu sunt Tată, unde este slava Mea?”",
+       "note": "LXX traduce „a cinsti” (kabed) prin „a slăvi” (δοξάζει) — o nuanță mai puternică decât simpla cinstire, apropiată de „a da slavă”."
+      }
+     ],
+     "refs": [
+      "Exod 20:12",
+      "Isaia 63:16"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Fiul” are datoria să-și cinstească tatăl, și tot așa robul pe stăpânul lui — iar voi sunteți numiți fii și robi. Și acum, dacă Eu sunt Tatăl vostru, unde e cinstea Mea? „V-a spus DOMNUL Oștirilor” — vouă, preoților care disprețuiți Numele Meu. „Dar voi spuneți: cu ce am disprețuit” — știam că-Mi veți spune: «cu ce am disprețuit?» — iată disprețul [ce urmează]."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Fiul cinstește” — se leagă de ce s-a spus mai sus: de vreme ce e așa, că Eu vă iubesc pe voi înșivă, oare nu e felul fiului să-și cinstească tatăl, pentru că tatăl lui l-a iubit?"
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Adonav” — Scriptura obișnuiește să pomenească titlul de stăpânire la plural, ca «stăpânii lui Iosif» (Geneza 39)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "„Fiul cinstește pe tatăl, și robul pe stăpânul lui” — sau „va cinsti”, „ar trebui să cinstească”; e datoria lor s-o facă, atât după legile lui Dumnezeu, cât și ale oamenilor; și tot așa Targumul: «nu despre fiu se spune că trebuie să-și cinstească tatăl? și despre rob, că trebuie să se teamă înaintea stăpânului lui?»"
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "[Profetul] rănește aici pe preoți mai greu, fiindcă degeneraseră până la a fi cu totul nevrednici de slujba și titlul lor onorabil. Se cuvenea ca ei, mai presus de toți, să-I dea lui Dumnezeu cinstea unui Tată și teama unui Stăpân, fiind cei rânduiți să-i învețe pe alții tocmai aceste lucruri."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Întorcându-Se de la popor spre preoți, Iehova întreabă: de vreme ce iubirea Lui față de popor a fost atât de mare, unde era iubirea lor față de El? Se adresează preoților, fiindcă ei ar fi trebuit să fie fruntași în evlavie față de restul poporului, pe când sunt cei dintâi în „a disprețui Numele Lui”."
+      }
+     ]
+    },
+    {
+     "v": "1:7",
+     "t": "Aduceți pâine pângărită pe altarul Meu și spuneți: «Prin ce Te-am pângărit?» Prin spusa voastră că «masa DOMNULUI este disprețuită».",
+     "heb": "מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ בֶּאֱמָרְכֶם שֻׁלְחַן יְהוָה נִבְזֶה הוּא",
+     "translit": "Maghişim al-mizbehi lehem migoal vaamartem bame ghealnuha beemorhem şulhan ADONAI nivze hu.",
+     "tokens": [
+      {
+       "t": "Aduceți "
+      },
+      {
+       "t": "pâine pângărită",
+       "w": "pâine pângărită",
+       "heb": "לֶחֶם מְגֹאָל",
+       "translit": "lehem migoal",
+       "strong": "H1602",
+       "pos": "substantiv + adjectiv",
+       "def_ro": "pâine pângărită/spurcată.",
+       "dict_ro": "„Lehem” (pâine) e termenul generic pentru orice se aduce pe altar, inclusiv carnea jertfelor — Jamieson-Fausset-Brown notează paralela cu Levitic 21:8, unde „pâinea Dumnezeului tău” înseamnă jertfele aduse Lui, nu literalmente pâinea de pe masa punerii înainte."
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "altarul Meu",
+       "w": "altarul Meu",
+       "heb": "מִזְבְּחִי",
+       "translit": "mizbehi",
+       "strong": "H4196",
+       "pos": "substantiv + sufix",
+       "def_ro": "altarul Meu."
+      },
+      {
+       "t": " și spuneți: «"
+      },
+      {
+       "t": "Prin ce Te-am pângărit",
+       "w": "Prin ce Te-am pângărit",
+       "heb": "בַּמֶּה גֵאַלְנוּךָ",
+       "translit": "bame ghealnuha",
+       "strong": "H1351",
+       "pos": "pronume interogativ + verb",
+       "def_ro": "cu ce Te-am pângărit?"
+      },
+      {
+       "t": "?» Prin spusa voastră că «"
+      },
+      {
+       "t": "masa DOMNULUI este disprețuită",
+       "w": "masa DOMNULUI este disprețuită",
+       "heb": "שֻׁלְחַן יְהוָה נִבְזֶה הוּא",
+       "translit": "şulhan ADONAI nivze hu",
+       "strong": "H7979",
+       "pos": "substantiv compus + adjectiv",
+       "def_ro": "masa DOMNULUI, disprețuită este.",
+       "dict_ro": "Rashi explică fondul practic al disprețului: preoții priveau ca pe o corvoadă supărătoare împărțirea dreaptă, între ei, a fiecărei bucăți din darurile de mâncare și lucrurile sfințite — nedorind să se ostenească să împartă fiecare ofrandă pentru porția de mărimea unei măsline sau a unui bob cuvenită fiecăruia."
+      },
+      {
+       "t": "»."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ בֶּאֱמָרְכֶם שֻׁלְחַן יְהוָה נִבְזֶה הוּא",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "προσάγοντες πρὸς τὸ θυσιαστήριόν μου ἄρτους ἠλισγημένους.",
+       "greek": true,
+       "translation": "„Aducând la altarul Meu pâini pângărite.”",
+       "note": "LXX prescurtează versetul, omițând dialogul „prin ce Te-am pângărit” și acuzația despre „masa DOMNULUI disprețuită”, reluate probabil implicit din context."
+      }
+     ],
+     "refs": [
+      "Levitic 21:8",
+      "Ezechiel 41:22"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Aduceți pe altarul Meu, etc.; și spuneți” — adică, dacă veți zice: «cu ce Te-am pângărit?» — am pângărit pentru Tine pâinea altarului Tău. Vă răspund că prin aceasta M-ați pângărit, spunând: «masa DOMNULUI este disprețuită». Disprețuiau să împartă între ei darurile de mâncare și lucrurile sfinte, zicând: de vreme ce ne e oprit să împărțim un dar de mâncare pentru altul sau o jertfă pentru alta, e prea multă osteneală și trudă să împărțim fiecare dar de mâncare pentru bucata de mărimea unei măsline sau a unui bob cuvenită fiecăruia."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și veți zice” — și dacă veți zice, cu ce spurcăm și pângărim jertfa Ta? „Prin spusa voastră” — vă voi răspunde prin ceea ce voi spuneți: masa DOMNULUI, adică altarul pe care se rânduiește jertfa pentru Cel Preaînalt, e disprețuit, căci se stropește pe el sângele și se arde pe el grăsimea, de care sufletul omului se scârbește."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Unii înțeleg aceasta despre pâinea punerii înainte, făcându-se după aceea și mențiune de o „masă”, cum spune Ieronim, care observă că era făcută din grâu pe care preoții înșiși îl semănau, îl secerau, îl măcinau și-l coceau, putând astfel lua din el ce voiau."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Pâine pângărită” — jertfe cu meteahnă (Maleahi 1:8, 13-14; Deuteronom 15:21). Așa cum „pâinea Dumnezeului tău” e folosit pentru „jertfe aduse lui Dumnezeu” (Levitic 21:8). „Masa DOMNULUI” — adică altarul (Ezechiel 41:22), nu masa pâinilor punerii înainte, întocmai cum carnea de jertfă e numită „pâine”."
+      }
+     ]
+    },
+    {
+     "v": "1:8",
+     "t": "Iar când aduceți un [dobitoc] orb ca jertfă, nu-i rău? Și când aduceți pe unul șchiop sau bolnav, nu-i rău? Jertfește-l, dacă vrei, guvernatorului tău – oare îți va arăta bunăvoință și Își va îndrepta fața spre tine?”, a spus DOMNUL Oștirilor.",
+     "heb": "וְכִי־תַגִּישׁוּן עִוֵּר לִזְבֹּחַ אֵין רָע וְכִי תַגִּישׁוּ פִּסֵּחַ וְחֹלֶה אֵין רָע הַקְרִיבֵהוּ נָא לְפֶחָתֶךָ הֲיִרְצְךָ אוֹ הֲיִשָּׂא פָנֶיךָ אָמַר יְהוָה צְבָאוֹת",
+     "translit": "Vehi-taghişun ivēr lizboah ēin ra vehi taghişu pisēah veholē ēin ra hakrivēhu na lefehateha hairţeha o haisa fanēha amar ADONAI Ţevaot.",
+     "tokens": [
+      {
+       "t": "Iar când "
+      },
+      {
+       "t": "aduceți un [dobitoc] orb ca jertfă",
+       "w": "aduceți un [dobitoc] orb ca jertfă",
+       "heb": "תַגִּישׁוּן עִוֵּר לִזְבֹּחַ",
+       "translit": "taghişun ivēr lizboah",
+       "strong": "H5788",
+       "pos": "verb + adjectiv + verb",
+       "def_ro": "aduceți un orb pentru jertfă."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "nu-i rău",
+       "w": "nu-i rău",
+       "heb": "אֵין רָע",
+       "translit": "ēin ra",
+       "strong": "H7451",
+       "pos": "substantiv negat",
+       "def_ro": "nu e rău?"
+      },
+      {
+       "t": "? Și când "
+      },
+      {
+       "t": "aduceți pe unul șchiop sau bolnav",
+       "w": "aduceți pe unul șchiop sau bolnav",
+       "heb": "תַגִּישׁוּ פִּסֵּחַ וְחֹלֶה",
+       "translit": "taghişu pisēah veholē",
+       "strong": "H6455",
+       "pos": "verb + adjectiv + adjectiv",
+       "def_ro": "aduceți un șchiop și un bolnav."
+      },
+      {
+       "t": ", nu-i rău? "
+      },
+      {
+       "t": "Jertfește-l, dacă vrei, guvernatorului tău",
+       "w": "Jertfește-l, dacă vrei, guvernatorului tău",
+       "heb": "הַקְרִיבֵהוּ נָא לְפֶחָתֶךָ",
+       "translit": "hakrivēhu na lefehateha",
+       "strong": "H6346",
+       "pos": "verb, hifil imperativ + substantiv",
+       "def_ro": "adu-l, te rog, guvernatorului tău.",
+       "dict_ro": "„Pehateha” (guvernatorul tău) denumește o căpetenie persană locală, folosit și pentru Neemia (Neemia 5:14) — un termen istoric precis pentru administrația provincială persană din vremea lui Maleahi, nu un titlu generic."
+      },
+      {
+       "t": " – oare "
+      },
+      {
+       "t": "îți va arăta bunăvoință",
+       "w": "îți va arăta bunăvoință",
+       "heb": "הֲיִרְצְךָ",
+       "translit": "hairţeha",
+       "strong": "H7521",
+       "pos": "particulă interogativă + verb",
+       "def_ro": "oare te va primi bine?"
+      },
+      {
+       "t": " și Își va "
+      },
+      {
+       "t": "îndrepta fața spre tine",
+       "w": "îndrepta fața spre tine",
+       "heb": "הֲיִשָּׂא פָנֶיךָ",
+       "translit": "haisa fanēha",
+       "strong": "H5375",
+       "pos": "particulă interogativă + verb + substantiv",
+       "def_ro": "oare îți va ridica fața?"
+      },
+      {
+       "t": "?”, a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְכִי־תַגִּישׁוּן עִוֵּר לִזְבֹּחַ אֵין רָע וְכִי תַגִּישׁוּ פִּסֵּחַ וְחֹלֶה אֵין רָע הַקְרִיבֵהוּ נָא לְפֶחָתֶךָ הֲיִרְצְךָ אוֹ הֲיִשָּׂא פָנֶיךָ אָמַר יְהוָה צְבָאוֹת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι ἐὰν προσαγάγητε τυφλὸν εἰς θυσίαν, οὐ κακόν; καὶ ἐὰν προσαγάγητε χωλὸν ἢ ἄρρωστον,...",
+       "greek": true,
+       "translation": "„Fiindcă dacă aduceți un orb pentru jertfă, nu e rău? Și dacă aduceți un șchiop sau un bolnav,...”",
+       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+      }
+     ],
+     "refs": [
+      "Levitic 22:22",
+      "Neemia 5:14"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și chiar dacă aduceți un orb” — și de aceea, chiar dacă aduceți un orb pentru jertfă, nu vi se pare rău, de vreme ce altarul e disprețuit în ochii voștri; ca și cum ar spune: iată, prin aceasta disprețuiți jertfa Mea, și acesta e disprețul Numelui Meu. „Adu-l” — cercetează lucrul și adu una dintre acestea în dar guvernatorului tău — oare îi va fi pe plac acest dar, ca să te ierte de vina ta față de el, sau îți va ridica fața să te cinstească pentru un asemenea dar, dacă i-l vei aduce fără o vină dinainte?"
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Cu siguranță e, potrivit legii din Levitic 22:22; sau, cum tâlcuiește Kimchi: când vă aduc un miel orb ca jertfă, ca să-l aduceți, voi ziceți: acesta nu-i rău; dar e bun s-o aduceți, fiindcă masa e disprețuită. Sensul e că, oricât de rău ar fi aceasta în sine, după ei era destul de bun ca să fie adus pe altar."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "[Profetul] arată astfel absurditatea vădită a purtării lor: ceea ce n-ar îndrăzni să ofere unui guvernator pământesc, fără să-i atragă mânia, îndrăznesc să-I aducă lui Dumnezeu Însuși, ca și cum măreția Lui ar conta mai puțin decât a unui simplu dregător persan."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Guvernatorul tău pământesc s-ar simți insultat, dacă i-ai oferi tu darul cu care Îl amăgești pe Dumnezeu (vezi Levitic 22:22, 24). „Nu-i rău?” — Maurer traduce: «nu e rău», în opinia voastră, într-un asemenea dar; e destul de bun pentru un asemenea scop."
+      }
+     ]
+    },
+    {
+     "v": "1:9",
+     "t": "„Și acum, implorați-L așadar pe DOMNUL ca să fie binevoitor, [căci] din mâinile voastre a fost asta. Oare Își va întoarce El fața spre oricare din voi?”, a spus DOMNUL Oștirilor.",
+     "heb": "וְעַתָּה חַלּוּ־נָא פְנֵי־אֵל וִיחָנֵנוּ מִיֶּדְכֶם הָיְתָה זֹּאת הֲיִשָּׂא מִכֶּם פָּנִים אָמַר יְהוָה צְבָאוֹת",
+     "translit": "Veata halu-na fenēi-Ēl vihonēnu miedhem haita zot haisa mikem panim amar ADONAI Ţevaot.",
+     "tokens": [
+      {
+       "t": "„Și acum, "
+      },
+      {
+       "t": "implorați-L așadar pe DOMNUL",
+       "w": "implorați-L așadar pe DOMNUL",
+       "heb": "חַלּוּ־נָא פְנֵי־אֵל",
+       "translit": "halu-na fenēi-Ēl",
+       "strong": "H2470",
+       "pos": "verb, piel imperativ + substantiv compus",
+       "def_ro": "îmblânziți, vă rog, fața lui Dumnezeu."
+      },
+      {
+       "t": " ca să fie "
+      },
+      {
+       "t": "binevoitor",
+       "w": "binevoitor",
+       "heb": "וִיחָנֵנוּ",
+       "translit": "vihonēnu",
+       "strong": "H2603",
+       "pos": "verb, qal imperfect",
+       "def_ro": "și să ne fie milostiv."
+      },
+      {
+       "t": ", [căci] din mâinile voastre "
+      },
+      {
+       "t": "a fost asta",
+       "w": "a fost asta",
+       "heb": "מִיֶּדְכֶם הָיְתָה זֹּאת",
+       "translit": "miedhem haita zot",
+       "strong": "H3027",
+       "pos": "substantiv + verb + pronume",
+       "def_ro": "de la mâna voastră a fost aceasta.",
+       "dict_ro": "Calvin insistă că întreg versetul e ironic, nu o exortație sinceră: profetul nu-i îndeamnă pe preoți să mijlocească smerit pentru popor, ci le arată, cu sarcasm amar, zădărnicia oricărei mijlociri venite din partea celor ce, cu propriile mâini, au pricinuit răul pe care acum s-ar preface să-l îndrepte."
+      },
+      {
+       "t": ". Oare "
+      },
+      {
+       "t": "Își va întoarce El fața spre oricare din voi",
+       "w": "Își va întoarce El fața spre oricare din voi",
+       "heb": "הֲיִשָּׂא מִכֶּם פָּנִים",
+       "translit": "haisa mikem panim",
+       "strong": "H5375",
+       "pos": "particulă interogativă + verb + substantiv",
+       "def_ro": "oare va ridica de la voi fața?"
+      },
+      {
+       "t": "?”, a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַתָּה חַלּוּ־נָא פְנֵי־אֵל וִיחָנֵנוּ מִיֶּדְכֶם הָיְתָה זֹּאת הֲיִשָּׂא מִכֶּם פָּנִים אָמַר יְהוָה צְבָאוֹת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ νῦν ἐξιλάσκεσθε τὸ πρόσωπον τοῦ θεοῦ ὑμῶν καὶ δεήθητε αὐτοῦ;",
+       "greek": true,
+       "translation": "„Și acum, împăcați fața Dumnezeului vostru și rugați-vă Lui?”",
+       "note": "LXX pune fraza sub formă de întrebare retorică, întărind și mai mult tonul ironic prezent deja în TM."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și acum, imploră-L pe DOMNUL” — și acum, voi, preoții care faceți acest rău, cum vă vine în minte că puteți fi solii lui Israel, ca să implorați mila pentru ei? Iată, din mâna voastră a venit acest rău. „Oare Își va întoarce” — fața Sa, ca să asculte o rugăciune din gura voastră, și să-i miluiască pe cei ce v-au trimis?"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și acum, imploră-L” — faceți o cercetare și mijlociți pentru noi la DOMNUL, ca să ne fie milostiv de dragul rugăciunii voastre — dar oare blestemul trimis nu vine tocmai din pricina voastră? Și oare de dragul vostru ne va ridica fața? Nu-i așa, căci acuzatorul nu poate deveni apărător."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Acestea sunt cuvintele profetului către preoți, rostite fie serios, îndemnându-i la acea parte a slujbei lor care era mijlocirea pentru popor, ca Dumnezeu să le fie milostiv și să le ierte păcatele — cu atât mai mult cu cât ei înșiși fuseseră mijlocul păcatului lor, complici la el —, fie în chip ironic."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Aici [profetul] rănește pe preoți și mai adânc — fiindcă degeneraseră până acolo încât erau cu totul nevrednici de slujba și titlul lor onorabil. «Mergeți», le spune, «și rugați fața lui Dumnezeu.» Toate acestea sunt ironice; interpreții greșesc mult crezând că profetul îi îndeamnă pe preoți să ceară smerit iertare de la Dumnezeu, atât pentru ei, cât și pentru popor."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Ironic. Credeți voi că Dumnezeu Se va lăsa înduplecat de asemenea daruri pângărite să vă fie milostiv? Departe de asta. „Din mâna voastră a fost aceasta” — literal, «mâna»: aceste daruri disprețuite sunt fapta voastră, ca preoți mijlocitori între Dumnezeu și popor."
+      }
+     ]
+    },
+    {
+     "v": "1:10",
+     "t": "„Măcar de ar fi cineva dintre voi care să închidă ușile [Templului], ca să nu mai aprindeți [foc pe] altarul Meu în van! N-am nicio dorință față de voi”, a spus DOMNUL Oștirilor, „și nici prinos nu voi dori din mâna voastră.",
+     "heb": "מִי גַם־בָּכֶם וְיִסְגֹּר דְּלָתַיִם וְלֹא־תָאִירוּ מִזְבְּחִי חִנָּם אֵין־לִי חֵפֶץ בָּכֶם אָמַר יְהוָה צְבָאוֹת וּמִנְחָה לֹא־אֶרְצֶה מִיֶּדְכֶם",
+     "translit": "Mi gam-bahem veisgor delataim velo-tairu mizbehi hinam ēin-li hēfeţ bahem amar ADONAI Ţevaot uminha lo-erţe miedhem.",
+     "tokens": [
+      {
+       "t": "„"
+      },
+      {
+       "t": "Măcar de ar fi cineva dintre voi",
+       "w": "Măcar de ar fi cineva dintre voi",
+       "heb": "מִי גַם־בָּכֶם",
+       "translit": "mi gam-bahem",
+       "strong": "H4310",
+       "pos": "pronume interogativ + adverb + prepoziție",
+       "def_ro": "cine, oare, dintre voi?"
+      },
+      {
+       "t": " care să "
+      },
+      {
+       "t": "închidă ușile [Templului]",
+       "w": "închidă ușile [Templului]",
+       "heb": "וְיִסְגֹּר דְּלָתַיִם",
+       "translit": "veisgor delataim",
+       "strong": "H5462",
+       "pos": "verb, qal imperfect + substantiv",
+       "def_ro": "și să închidă ușile.",
+       "dict_ro": "Rashi citează Torat Kohanim: cel ce cere unui prieten „închide-mi ușa asta” sau „aprinde-mi lumânarea asta” nu-i pretinde plată — dar preoții n-au închis porțile Templului nici măcar gratuit, cu atât mai puțin au refuzat plata pentru lucruri pe care ar fi trebuit să le facă degeaba, din datorie sfântă."
+      },
+      {
+       "t": ", ca să nu mai "
+      },
+      {
+       "t": "aprindeți [foc pe] altarul Meu în van",
+       "w": "aprindeți [foc pe] altarul Meu în van",
+       "heb": "תָאִירוּ מִזְבְּחִי חִנָּם",
+       "translit": "tairu mizbehi hinam",
+       "strong": "H215",
+       "pos": "verb + substantiv + adverb",
+       "def_ro": "aprindeți altarul Meu în zadar."
+      },
+      {
+       "t": "! "
+      },
+      {
+       "t": "N-am nicio dorință față de voi",
+       "w": "N-am nicio dorință față de voi",
+       "heb": "אֵין־לִי חֵפֶץ בָּכֶם",
+       "translit": "ēin-li hēfeţ bahem",
+       "strong": "H2656",
+       "pos": "substantiv negat + prepoziție",
+       "def_ro": "nu am plăcere în voi."
+      },
+      {
+       "t": "”, a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": ", „și nici "
+      },
+      {
+       "t": "prinos nu voi dori din mâna voastră",
+       "w": "prinos nu voi dori din mâna voastră",
+       "heb": "וּמִנְחָה לֹא־אֶרְצֶה מִיֶּדְכֶם",
+       "translit": "uminha lo-erţe miedhem",
+       "strong": "H4503",
+       "pos": "substantiv + verb negat + substantiv",
+       "def_ro": "și prinos nu voi primi din mâna voastră."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי גַם־בָּכֶם וְיִסְגֹּר דְּלָתַיִם וְלֹא־תָאִירוּ מִזְבְּחִי חִנָּם אֵין־לִי חֵפֶץ בָּכֶם אָמַר יְהוָה צְבָאוֹת וּמִנְחָה לֹא־אֶרְצֶה מִיֶּדְכֶם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι καὶ ἐν ὑμῖν συνκλεισθήσονται θύραι, καὶ οὐκ ἀνάψεται τὸ θυσιαστήριόν μου...",
+       "greek": true,
+       "translation": "„Căci și printre voi se vor închide ușile, și nu se va mai aprinde altarul Meu...”",
+       "note": "LXX pune verbele la pasiv/viitor, „se vor închide”, mai degrabă decât dorința optativă „măcar de-ar fi cineva” din TM — o nuanță de certitudine profetică viitoare, nu doar de regret prezent."
+      }
+     ],
+     "refs": [
+      "1 Corinteni 9:13"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Măcar de ar fi cineva dintre voi care să închidă ușile” — de-ar fi să se ridice printre voi un om bun care să închidă ușile Sanctuarului Meu, ca să nu se aducă acolo această jertfă scârboasă. „Și să nu aprindeți altarul Meu în zadar” — cu jertfele de foc cu care nu Mă împac, căci n-am nicio dorință în voi. Și rabinii noștri au tâlcuit în Torat Kohanim: dacă cineva îi spune prietenului său «închide-mi ușa aceasta», nu-i cere plată pentru asta; «aprinde-mi lumânarea aceasta», nu-i cere plată pentru asta. Dar voi — cine dintre voi a închis ușile Mele degeaba? Nici n-ați aprins altarul Meu degeaba. Cu atât mai mult n-ați făcut degeaba lucruri pentru care e obiceiul să se ceară plată. De aceea n-am nicio dorință în voi."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Măcar de ar fi cineva dintre voi” — de s-ar găsi cineva dintre voi care să închidă ușile Templului, ca să nu mai vină nimeni acolo să calce curtea în picioare. „Și să nu aprindeți” — să nu mai aprindeți foc pe altarul Meu în zadar."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Fie al templului, cum spun Targumul și Jarchi; căci la fiecare poartă a templului erau rânduiți portari pe vremea lui David, plătiți pentru slujba lor. „Cine ar închide ușile în zadar” — cuvintele „în zadar” nu sunt, în textul original, la sfârșitul acestei propoziții, ci la sfârșitul celei următoare."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "[Profetul] continuă același subiect — că preoții se purtau foarte rușinos în slujba lor, și că poporul se împietrise după exemplul lor, așa încât toată religia era disprețuită. De aceea spune că ușile nu erau închise de ei."
+      }
+     ]
+    },
+    {
+     "v": "1:11",
+     "t": "Căci de la răsăritul soarelui și până la apusul lui, numele Meu este mare printre neamuri și în orice loc este adusă ofrandă fumegândă în numele Meu și prinos curat, căci mare este numele Meu printre neamuri” – a spus DOMNUL Oștirilor.",
+     "heb": "כִּי מִמִּזְרַח־שֶׁמֶשׁ וְעַד־מְבוֹאוֹ גָּדוֹל שְׁמִי בַּגּוֹיִם וּבְכָל־מָקוֹם מֻקְטָר מֻגָּשׁ לִשְׁמִי וּמִנְחָה טְהוֹרָה כִּי־גָדוֹל שְׁמִי בַּגּוֹיִם אָמַר יְהוָה צְבָאוֹת",
+     "translit": "Ki mimizrah-şemeş vead-mevoo gadol şemi bagoim uvehol-makom muktar mugaş lişmi uminha tehora ki-gadol şemi bagoim amar ADONAI Ţevaot.",
+     "tokens": [
+      {
+       "t": "Căci de la "
+      },
+      {
+       "t": "răsăritul soarelui",
+       "w": "răsăritul soarelui",
+       "heb": "מִמִּזְרַח־שֶׁמֶשׁ",
+       "translit": "mimizrah-şemeş",
+       "strong": "H4217",
+       "pos": "substantiv compus",
+       "def_ro": "de la răsăritul soarelui."
+      },
+      {
+       "t": " și până la "
+      },
+      {
+       "t": "apusul lui",
+       "w": "apusul lui",
+       "heb": "מְבוֹאוֹ",
+       "translit": "mevoo",
+       "strong": "H3996",
+       "pos": "substantiv + sufix",
+       "def_ro": "apusul/intrarea lui [a soarelui]."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "numele Meu este mare printre neamuri",
+       "w": "numele Meu este mare printre neamuri",
+       "heb": "גָּדוֹל שְׁמִי בַּגּוֹיִם",
+       "translit": "gadol şemi bagoim",
+       "strong": "H1419",
+       "pos": "adjectiv + substantiv + substantiv",
+       "def_ro": "mare e numele Meu printre neamuri.",
+       "dict_ro": "Rashi oferă aici două tâlcuiri complementare, ambele autentic rabinice, nu una singură: (1) Talmudul (Menahot 110a) spune că până și cei ce se închină la idoli Îl numesc pe Dumnezeu „Dumnezeul dumnezeilor”, recunoscându-L implicit ca fiind mai presus de toate; (2) alți înțelepți explică versetul despre cărturarii Torei angajați pretutindeni în legile slujirii, și despre orice rugăciune a lui Israel, oriunde s-ar rosti, ca fiind pentru DOMNUL „ca un prinos curat” — Targumul lui Ionatan urmează această a doua explicație."
+      },
+      {
+       "t": " și în orice loc este "
+      },
+      {
+       "t": "adusă ofrandă fumegândă în numele Meu",
+       "w": "adusă ofrandă fumegândă în numele Meu",
+       "heb": "מֻקְטָר מֻגָּשׁ לִשְׁמִי",
+       "translit": "muktar mugaş lişmi",
+       "strong": "H6999",
+       "pos": "verb, hofal participiu + verb, hofal participiu + substantiv",
+       "def_ro": "[este] tămâiat, adus Numelui Meu."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "prinos curat",
+       "w": "prinos curat",
+       "heb": "וּמִנְחָה טְהוֹרָה",
+       "translit": "uminha tehora",
+       "strong": "H2889",
+       "pos": "substantiv + adjectiv",
+       "def_ro": "și un prinos curat."
+      },
+      {
+       "t": ", căci mare este numele Meu printre neamuri” – a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי מִמִּזְרַח־שֶׁמֶשׁ וְעַד־מְבוֹאוֹ גָּדוֹל שְׁמִי בַּגּוֹיִם וּבְכָל־מָקוֹם מֻקְטָר מֻגָּשׁ לִשְׁמִי וּמִנְחָה טְהוֹרָה כִּי־גָדוֹל שְׁמִי בַּגּוֹיִם אָמַר יְהוָה צְבָאוֹת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι ἀπ᾽ ἀνατολῶν ἡλίου καὶ ἕως δυσμῶν τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι, καὶ ἐν παντὶ τόπῳ θυμίαμα προσάγεται τῷ ὀνόματί μου καὶ θυσία καθαρά, διότι μέγα τὸ ὄνομά μου ἐν τοῖς ἔθνεσι, λέγει Κύριος παντοκράτωρ.",
+       "greek": true,
+       "translation": "„Căci de la răsăriturile soarelui și până la apusuri, numele Meu e slăvit printre neamuri, și în tot locul se aduce tămâie numelui Meu și jertfă curată, căci mare e numele Meu printre neamuri, zice Domnul Atotțiitorul.”",
+       "note": "Acest verset devine, în lumea creștină timpurie, un text-cheie: Iustin Martirul îl citează aproape identic în Dialogul cu Trifon (cap. 41, sec. II d.Hr.), aplicându-l direct Euharistiei creștine, „pâinea și paharul Euharistiei”, oferite „în tot locul” de neamurile (Gentile) devenite ucenici — o citire absentă din tot spectrul de comentarii rabinice verificate aici, care înțeleg versetul fie despre recunoașterea implicită a lui Dumnezeu de către idolatri (Talmud, Menahot 110a), fie despre rugăciunea lui Israel din diaspora."
+      }
+     ],
+     "refs": [
+      "Talmud Bavli, Menahot 110a",
+      "Ioan 4:21-23",
+      "1 Timotei 2:8"
+     ],
+     "commentaries": [
+      {
+       "author": "Talmud Bavli, Menahot 110a",
+       "text": "„De la răsăritul soarelui până la apusul lui, mare e numele Meu printre neamuri, și în tot locul se aduce tămâie numelui Meu, și prinos curat” (Maleahi 1:11) — Rav a răspuns: „îl numesc Dumnezeul dumnezeilor” [recunoscându-L implicit, deși prin idolatrie, ca fiind mai presus de toate]."
+      },
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Mare e numele Meu printre neamuri” — au spus rabinii noștri: căci Îl numesc «Dumnezeul dumnezeilor». Chiar și cel ce are un idol știe că El e Cel de deasupra tuturor — și pretutindeni se aduc daruri Numelui Meu, chiar și de către cei ce se închină la stele și la idoli. Dar rabinii noștri au mai tâlcuit: aceștia sunt învățații Torei, ocupați pretutindeni cu legile slujirii, și tot așa orice rugăciune a lui Israel, oriunde s-ar ruga, Îmi este ca un prinos curat. Așa a tradus și Ionatan: «și în orice vreme când voi faceți voia Mea, primesc rugăciunea voastră, și Numele Meu cel mare Se sfințește prin voi, și rugăciunea voastră e ca o jertfă curată înaintea Mea»."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Vrea să spună: de la locul răsăritului soarelui până la locul apusului lui, numele Meu e mare printre neamuri, căci toate mărturisesc despre El, binecuvântat fie El, că e pricina cea dintâi din care curg toate, deși unele dintre ele socotesc că rânduirea acestei lumi de jos vine în întregime de la mersul cerurilor."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "De la răsărit la apus, adică tot [pământul] locuit; nu la fel spre nord și sud, observă Kimchi, ale căror extremități nu sunt locuibile. Abarbinel crede că „în” e cauzal, și că sensul e: din pricina mișcării soarelui la răsărit și apus, neamurile recunosc pe Dumnezeu drept prima mișcare și cauza tuturor lucrurilor."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Aici Dumnezeu arată că nu-I mai pasă de iudei, căci va porunci să I se ridice altare pretutindeni și în toate părțile lumii, ca să fie slujit cu adevărat — nu prin ipocrizia unei preoții degenerate, ci prin închinarea curată pe care o va stârni printre neamurile pe care iudeii le disprețuiau ca necurate."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "De vreme ce voi, preoții și poporul iudeu, „disprețuiți Numele Meu”, voi găsi alții care Îl vor preamări. Să nu credeți că nu voi avea închinători fiindcă nu vă am pe voi: de la răsărit la apus, Numele Meu va fi mare printre neamuri. „Prinos curat” — nu «orbul, șchiopul și bolnavul», cum aduceți voi. „În orice loc” — implică universalitatea Bisericii creștine (Ioan 4:21, 23; 1 Timotei 2:8)."
+      }
+     ]
+    },
+    {
+     "v": "1:12",
+     "t": "Dar voi Îl pângăriți cu vorba voastră: «Masa Stăpânului meu e detestabilă» și cu spusa lui: «Hrana Lui este de disprețuit.»",
+     "heb": "וְאַתֶּם מְחַלְּלִים אוֹתוֹ בֶּאֱמָרְכֶם שֻׁלְחַן אֲדֹנָי מְגֹאָל הוּא וְנִיבוֹ נִבְזֶה אָכְלוֹ",
+     "translit": "Veatem mehalelim oto beemorhem şulhan Adonai megoal hu venivo nivze ohlo.",
+     "tokens": [
+      {
+       "t": "Dar voi "
+      },
+      {
+       "t": "Îl pângăriți cu vorba voastră",
+       "w": "Îl pângăriți cu vorba voastră",
+       "heb": "מְחַלְּלִים אוֹתוֹ בֶּאֱמָרְכֶם",
+       "translit": "mehalelim oto beemorhem",
+       "strong": "H2490",
+       "pos": "verb, piel participiu + pronume + substantiv",
+       "def_ro": "Îl pângăriți prin spusa voastră."
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "Masa Stăpânului meu e detestabilă",
+       "w": "Masa Stăpânului meu e detestabilă",
+       "heb": "שֻׁלְחַן אֲדֹנָי מְגֹאָל הוּא",
+       "translit": "şulhan Adonai megoal hu",
+       "strong": "H7979",
+       "pos": "substantiv compus + adjectiv",
+       "def_ro": "masa Stăpânului meu, pângărită este."
+      },
+      {
+       "t": "» și cu "
+      },
+      {
+       "t": "spusa lui",
+       "w": "spusa lui",
+       "heb": "וְנִיבוֹ",
+       "translit": "venivo",
+       "strong": "H5108",
+       "pos": "substantiv + sufix",
+       "def_ro": "și rostirea lui.",
+       "dict_ro": "Rashi explică: „nivo” e cuvântul-obișnuit-pe-buze despre altar, refrenul pe care preoții îl repetau mereu — „hrana lui e mereu de disprețuit”. Nu era o singură vorbă răzleață, ci o defăimare consecventă, întărită prin repetiție."
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "Hrana Lui este de disprețuit",
+       "w": "Hrana Lui este de disprețuit",
+       "heb": "נִבְזֶה אָכְלוֹ",
+       "translit": "nivze ohlo",
+       "strong": "H400",
+       "pos": "adjectiv + substantiv",
+       "def_ro": "disprețuită e hrana lui."
+      },
+      {
+       "t": ".»"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאַתֶּם מְחַלְּלִים אוֹתוֹ בֶּאֱמָרְכֶם שֻׁלְחַן אֲדֹנָי מְגֹאָל הוּא וְנִיבוֹ נִבְזֶה אָכְלוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὑμεῖς δὲ βεβηλοῦτε αὐτὸ ἐν τῷ λέγειν ὑμᾶς Τράπεζα Κυρίου ἠλισγημένη ἐστίν, καὶ τὰ ἐπιτιθέμενα ἐξουδένωνται βρώματα αὐτοῦ.",
+       "greek": true,
+       "translation": "„Iar voi Îl pângăriți, zicând voi: Masa Domnului e pângărită, și cele puse pe ea, hrana lui, sunt disprețuite.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Maleahi 1:7"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și rostirea lui: disprețuită-i hrana lui” — cuvântul despre altar, obișnuit pe buzele voastre, e mereu acesta: «disprețuită-i hrana lui» — asta ziceți despre el. Adică, ați scos deja această defăimare, și ați întărit acest cuvânt despre altarul Meu."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "Dar voi pângăriți Numele DOMNULUI prin ceea ce spuneți, că masa DOMNULUI — adică altarul — e de nesuferit, fiindcă se stropește pe el sângele și se arde pe el grăsimea, lucruri de care sufletul omului se scârbește, și din pricina aceasta aduceți și animale cu meteahnă, cum s-a spus mai sus."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Adică Numele DOMNULUI, despre care s-a spus că-l disprețuiesc (v. 6) și-l pângăresc (v. 7), și e motivul pentru care ei și darurile lor au fost respinse; iar faptul că au pângărit Numele DOMNULUI reiese din aceea că zic: masa DOMNULUI e pângărită."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Reînnoirea acuzației din v. 7. „Rodul... hrana” — darurile poporului. „Rodul” e produsul altarului, din care trăiau preoții. Ei nu spuneau literal «masa DOMNULUI e disprețuită», dar faptele lor spuneau exact asta: n-au acționat astfel încât să-i îndemne pe oameni la evlavie și să-și aducă cele mai bune daruri DOMNULUI pe ea."
+      }
+     ]
+    },
+    {
+     "v": "1:13",
+     "t": "Și spuneți: «Iată, este atât de dificil», și Îl întristați – a spus DOMNUL Oștirilor – „și aduceți dobitoace furate, șchioape și bolnave, și aduceți unul ca prinos. Oare să-l [primesc] din mâna voastră?”, a spus DOMNUL.",
+     "heb": "וַאֲמַרְתֶּם הִנֵּה מַתְּלָאָה וְהִפַּחְתֶּם אוֹתוֹ אָמַר יְהוָה צְבָאוֹת וַהֲבֵאתֶם גָּזוּל וְאֶת־הַפִּסֵּחַ וְאֶת־הַחוֹלֶה וַהֲבֵאתֶם אֶת־הַמִּנְחָה הַאֶרְצֶה אוֹתָהּ מִיֶּדְכֶם אָמַר יְהוָה",
+     "translit": "Vaamartem hinē matlaa vehipahtem oto amar ADONAI Ţevaot vahavētem gazul veet-hapisēah veet-haholē vahavētem et-haminha haerţe otah miedhem amar ADONAI.",
+     "tokens": [
+      {
+       "t": "Și spuneți: «"
+      },
+      {
+       "t": "Iată, este atât de dificil",
+       "w": "Iată, este atât de dificil",
+       "heb": "הִנֵּה מַתְּלָאָה",
+       "translit": "hinē matlaa",
+       "strong": "H8513",
+       "pos": "interjecție + substantiv",
+       "def_ro": "iată, ce trudă/osteneală!",
+       "dict_ro": "Metzudat David explică situația concretă: cei ce aduceau jertfa purtau mielul îngrășat pe umeri și se plângeau prefăcut de greutatea sarcinii, ca justificare implicită pentru a aduce, altă dată, un animal mai slab. Rashi notează: „matlaa” denumește un animal costeliv, iar Targumul explică vorbele acestea ca replică a poporului: «asta-i tot ce am adus din truda noastră», o scuză pentru sărăcia darului."
+      },
+      {
+       "t": "», și "
+      },
+      {
+       "t": "Îl întristați",
+       "w": "Îl întristați",
+       "heb": "וְהִפַּחְתֶּם אוֹתוֹ",
+       "translit": "vehipahtem oto",
+       "strong": "H5301",
+       "pos": "verb, hifil perfect consecutiv + pronume",
+       "def_ro": "și Îl întristați.",
+       "dict_ro": "Rashi identifică acest cuvânt drept unul din cele optsprezece „tikkunei soferim” (îndreptări ale scribilor): forma originală ar fi trebuit să fie „oti” („pe Mine”, direct), dar Scriptura a eufemizat, scriind „oto” („pe el” — pe altar) — ca să evite exprimarea prea directă a durerii resimțite de Dumnezeu Însuși, o tradiție veche despre grija scribală de a atenua antropomorfismele cele mai crude ale textului sacru."
+      },
+      {
+       "t": " – a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": " – „și "
+      },
+      {
+       "t": "aduceți dobitoace furate, șchioape și bolnave",
+       "w": "aduceți dobitoace furate, șchioape și bolnave",
+       "heb": "וַהֲבֵאתֶם גָּזוּל וְאֶת־הַפִּסֵּחַ וְאֶת־הַחוֹלֶה",
+       "translit": "vahavētem gazul veet-hapisēah veet-haholē",
+       "strong": "H1497",
+       "pos": "verb + adjectiv + substantive",
+       "def_ro": "și aduceți furat, și pe cel șchiop, și pe cel bolnav."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "aduceți unul ca prinos",
+       "w": "aduceți unul ca prinos",
+       "heb": "וַהֲבֵאתֶם אֶת־הַמִּנְחָה",
+       "translit": "vahavētem et-haminha",
+       "strong": "H4503",
+       "pos": "verb + substantiv",
+       "def_ro": "și aduceți prinosul."
+      },
+      {
+       "t": ". Oare "
+      },
+      {
+       "t": "să-l [primesc] din mâna voastră",
+       "w": "să-l [primesc] din mâna voastră",
+       "heb": "הַאֶרְצֶה אוֹתָהּ מִיֶּדְכֶם",
+       "translit": "haerţe otah miedhem",
+       "strong": "H7521",
+       "pos": "particulă interogativă + verb + pronume + substantiv",
+       "def_ro": "oare îl voi primi din mâna voastră?"
+      },
+      {
+       "t": "?”, a spus "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "אָמַר יְהוָה",
+       "translit": "amar ADONAI",
+       "strong": "H3068",
+       "pos": "verb + substantiv propriu",
+       "def_ro": "a spus DOMNUL."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַאֲמַרְתֶּם הִנֵּה מַתְּלָאָה וְהִפַּחְתֶּם אוֹתוֹ אָמַר יְהוָה צְבָאוֹת וַהֲבֵאתֶם גָּזוּל וְאֶת־הַפִּסֵּחַ וְאֶת־הַחוֹלֶה וַהֲבֵאתֶם אֶת־הַמִּנְחָה הַאֶרְצֶה אוֹתָהּ מִיֶּדְכֶם אָמַר יְהוָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen — vezi dict_ro de mai sus pentru „tikkun soferim” la „והפחתם אותו”.",
+       "note": "Fără alte variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἴπατε Ταῦτα ἐκ κακοπαθίας ἐστίν. καὶ ἐξεφύσησα αὐτά, λέγει Κύριος Παντοκράτωρ. καὶ εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα...",
+       "greek": true,
+       "translation": "„Și ați zis: Acestea sunt din osteneală. Și am suflat asupra lor, zice Domnul Atotțiitorul. Și aduceați lucruri răpite, și pe cele șchioape, și pe cele chinuite de boală...”",
+       "note": "LXX pune verbul „am suflat asupra lor” la persoana întâi, subiect fiind DOMNUL Însuși — o traducere literală care confirmă exact ce Rashi spune că a fost evitat de scribii ebraici: sensul direct, neeufemizat, „Eu am suflat/M-am mâhnit de aceasta”, e păstrat neschimbat în tradiția greacă."
+      }
+     ],
+     "refs": [
+      "Exod 22:31",
+      "Mica 6:3",
+      "Isaia 43:22-24"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și spuneți: iată, ce trudă” — un animal costeliv, [ziceți] și noi suntem săraci și n-avem cum să aducem cele mai alese pentru făgăduințe. Și tot așa a tradus Ionatan: «iată ce am adus din truda noastră»."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și spuneți: iată, ce trudă” — vrea să spună: când aduceți la jertfă un miel costeliv și slab, vă prefaceți zicând: iată, am obosit și am ostenit de povara mielului pe care l-am purtat pe umeri, căci [de fapt] e gras și cu multă carne — iar vorbele voastre sunt spre mâhnirea sufletului Celui Sfânt, binecuvântat fie El, căci îndrăzniți să mințiți înaintea Lui."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Acestea sunt fie cuvintele preoților, spunând cât de obositoare și de trudnică era slujba templului pentru ei, pentru care socoteau că sunt prost plătiți; fie ale poporului, care, aducând un miel pe umeri și punându-l jos, ziceau: cât de obosiți suntem aducându-l, sugerând că era așa de gras și cărnos."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Ce trudă!” — socotiți slujba lui Dumnezeu drept apăsătoare, și de aceea încercați s-o terminați cât mai repede, aducând darurile cele mai fără valoare. Compară Mica 6:3, unde Dumnezeu Își provoacă poporul să arate în ce constă „truda” sau greutatea slujirii Lui; de asemenea Isaia 43:22-24, unde arată că ei sunt cei ce L-au „obosit”, nu El pe ei."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "[Profetul] continuă același subiect: că închinarea lui Dumnezeu era disprețuită de ei și socotită aproape fără valoare. Trebuie să ținem minte ce am spus mai înainte — că iudeii nu erau [scuzabili prin sărăcie], ci prin lăcomie și nepăsare aduceau ce le venea mai ieftin."
+      }
+     ]
+    },
+    {
+     "v": "1:14",
+     "t": "„Blestemat este șarlatanul care are un [dobitoc] de parte bărbătească în turma lui, dar care promite și jertfește Stăpânului lui pe unul cu meteahnă, căci Eu sunt Rege mare”, a spus DOMNUL Oștirilor, „și numele Meu este înfricoșător printre neamuri.”",
+     "heb": "וְאָרוּר נוֹכֵל וְיֵשׁ בְּעֶדְרוֹ זָכָר וְנֹדֵר וְזֹבֵחַ מָשְׁחָת לַאדֹנָי כִּי מֶלֶךְ גָּדוֹל אָנִי אָמַר יְהוָה צְבָאוֹת וּשְׁמִי נוֹרָא בַגּוֹיִם",
+     "translit": "Vearur nohēl veieş beedro zahar venodēr vezovēah moşhat l'Adonai ki meleh gadol ani amar ADONAI Ţevaot uşemi nora vagoim.",
+     "tokens": [
+      {
+       "t": "„"
+      },
+      {
+       "t": "Blestemat este șarlatanul",
+       "w": "Blestemat este șarlatanul",
+       "heb": "וְאָרוּר נוֹכֵל",
+       "translit": "vearur nohēl",
+       "strong": "H779",
+       "pos": "adjectiv + substantiv, qal participiu",
+       "def_ro": "blestemat e cel viclean/înșelătorul.",
+       "dict_ro": "John Gill notează o divergență veche de traducere: unii derivă „nohel” din rădăcina „a putea” (יכל), sens urmat chiar de Septuaginta și de versiunea arabă („cel puternic/în stare”), în loc de „cel viclean”, urmat de traducerea românească și de majoritatea comentatorilor rabinici."
+      },
+      {
+       "t": " care are "
+      },
+      {
+       "t": "un [dobitoc] de parte bărbătească în turma lui",
+       "w": "un [dobitoc] de parte bărbătească în turma lui",
+       "heb": "יֵשׁ בְּעֶדְרוֹ זָכָר",
+       "translit": "ieş beedro zahar",
+       "strong": "H2145",
+       "pos": "substantiv + substantiv + adjectiv",
+       "def_ro": "este în turma lui parte bărbătească."
+      },
+      {
+       "t": ", dar care "
+      },
+      {
+       "t": "promite",
+       "w": "promite",
+       "heb": "וְנֹדֵר",
+       "translit": "venodēr",
+       "strong": "H5087",
+       "pos": "verb, qal participiu",
+       "def_ro": "și face juruință."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "jertfește Stăpânului lui pe unul cu meteahnă",
+       "w": "jertfește Stăpânului lui pe unul cu meteahnă",
+       "heb": "וְזֹבֵחַ מָשְׁחָת לַאדֹנָי",
+       "translit": "vezovēah moşhat l'Adonai",
+       "strong": "H2076",
+       "pos": "verb + adjectiv + substantiv",
+       "def_ro": "și jertfește Stăpânului un [animal] cu meteahnă."
+      },
+      {
+       "t": ", căci Eu sunt "
+      },
+      {
+       "t": "Rege mare",
+       "w": "Rege mare",
+       "heb": "מֶלֶךְ גָּדוֹל אָנִי",
+       "translit": "meleh gadol ani",
+       "strong": "H4428",
+       "pos": "substantiv + adjectiv + pronume",
+       "def_ro": "Rege mare sunt Eu."
+      },
+      {
+       "t": "”, a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": ", „și "
+      },
+      {
+       "t": "numele Meu este înfricoșător printre neamuri",
+       "w": "numele Meu este înfricoșător printre neamuri",
+       "heb": "וּשְׁמִי נוֹרָא בַגּוֹיִם",
+       "translit": "uşemi nora vagoim",
+       "strong": "H3372",
+       "pos": "substantiv + adjectiv + substantiv",
+       "def_ro": "și numele Meu e temut printre neamuri."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאָרוּר נוֹכֵל וְיֵשׁ בְּעֶדְרוֹ זָכָר וְנֹדֵר וְזֹבֵחַ מָשְׁחָת לַאדֹנָי כִּי מֶלֶךְ גָּדוֹל אָנִי אָמַר יְהוָה צְבָאוֹת וּשְׁמִי נוֹרָא בַגּוֹיִם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπικατάρατος ὃς ἦν δυνατός, καὶ ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν, καὶ εὐχὴ αὐτοῦ ἐπ᾽ αὐτῷ, καὶ θύει διεφθαρμένον τῷ κυρίῳ...",
+       "greek": true,
+       "translation": "„Și blestemat cel ce era în stare, și era în turma lui parte bărbătească, și făgăduința lui era pentru el, și jertfește stricat Domnului...”",
+       "note": "LXX confirmă citirea „cel ce era în stare/puternic” (δυνατός) pentru „nohel”, susținând observația lui Gill despre o rădăcină alternativă de traducere, „a putea”, diferită de „a înșela” urmată de traducerea românească."
+      }
+     ],
+     "refs": [
+      "Levitic 22:18-25",
+      "Psalmul 48:2",
+      "Matei 5:35"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Șarlatanul” — cel ce uneltește cu viclenie, cu vorbe mincinoase înaintea Mea, zicând: n-am nimic mai bun decât acesta. „Și are în turma lui parte bărbătească” — un berbec potrivit pentru arderea de tot, dar el juruiește o jertfă [inferioară]. „Cu meteahnă” — cu cusur, ca «meteahna lor e în ele» (Levitic 22:25)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Blestemat e șarlatanul” — blestemat cel ce se preface, zicând că n-are ceva mai ales de adus pentru jertfă decât ce a adus, dar de fapt are în turma lui parte bărbătească aleasă și bună, potrivită pentru ardere de tot. „Și juruiește” — și el juruiește și jertfește DOMNULUI un miel stricat și costeliv. „Căci Eu sunt Rege mare” — și de aceea s-ar cuveni să-Mi aducă din cel mai ales."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Un om viclean, șiret, subtil, care gândește și unelteste, vorbește și lucrează într-un fel foarte iscusit și înșelător; deși unii derivă cuvântul din «a putea», și așa îl redau Septuaginta și versiunea arabă, «cel ce e în stare» — să aducă o jertfă potrivită, un miel desăvârșit, cum urmează."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Nu sărăcia, ci lăcomia era pricina darurilor lor sărăcăcioase — ei aveau în turmă animale bune, dar preferau să le păstreze pentru ei și să-I aducă lui Dumnezeu doar ce nu le mai folosea, sub pretextul unei sărăcii prefăcute."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Șarlatanul” — fățarnicul. Nu sărăcia, ci lăcomia era pricina darurilor lor mizerabile. „Parte bărbătească” — cerut de lege (Levitic 1:3, 10). „Rege mare” (Psalmul 48:2; Matei 5:35). „Numele Meu... înfricoșător printre neamuri” — chiar și neamurile se tem de Mine din pricina judecăților Mele; ce ocară pentru voi, poporul Meu, care nu vă temeți de Mine!"
+      }
+     ]
+    },
+    {
+     "v": "2:1",
+     "t": "„Și acum, asupra voastră este această poruncă, preoților!",
+     "heb": "וְעַתָּה אֲלֵיכֶם הַמִּצְוָה הַזֹּאת הַכֹּהֲנִים",
+     "translit": "Veata alēhem hamiţva hazot hakohanim.",
+     "tokens": [
+      {
+       "t": "„Și acum, "
+      },
+      {
+       "t": "asupra voastră este această poruncă",
+       "w": "asupra voastră este această poruncă",
+       "heb": "אֲלֵיכֶם הַמִּצְוָה הַזֹּאת",
+       "translit": "alēhem hamiţva hazot",
+       "strong": "H4687",
+       "pos": "prepoziție + substantiv compus",
+       "def_ro": "către voi [este] porunca aceasta."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "preoților",
+       "w": "preoților",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoților."
+      },
+      {
+       "t": "!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַתָּה אֲלֵיכֶם הַמִּצְוָה הַזֹּאת הַכֹּהֲנִים",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ νῦν ἡ ἐντολὴ αὕτη πρὸς ὑμᾶς, οἱ ἱερεῖς.",
+       "greek": true,
+       "translation": "„Și acum, porunca aceasta [este] către voi, preoților.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Asupra voastră” — vouă, preoților, vă poruncesc porunca aceasta, ca să nu aduceți acestea pe altarul Meu."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și acum, asupra voastră” — vouă, preoților, vă poruncesc porunca aceasta, ca să nu primiți o jertfă stricată și costelivă."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Care disprețuiseră și pângăriseră Numele DOMNULUI, care îngăduiseră să fie aduse și jertfite asemenea jertfe stricate și nelegiuite: „porunca aceasta e pentru voi” — de a da slavă Numelui lui Dumnezeu, de a purta grijă de închinarea Lui, de a învăța poporul cunoștința și de a-l îndruma pe calea pe care trebuie să meargă."
+      },
+      {
+       "author": "Matthew Henry, Comentariu la Biblie",
+       "text": "Ce s-a spus în capitolul precedent era îndreptat către preoți (1:6): «Așa a spus DOMNUL Oștirilor vouă, preoților, care disprețuiți Numele Meu.» Dar fărădelegile de care au fost acuzați acolo le-au săvârșit ca jertfitori; aici, cele plânse acolo sunt urmărite până la izvorul lor — vina pe care au avut-o ca învățători ai poporului."
+      }
+     ]
+    },
+    {
+     "v": "2:2",
+     "t": "Dacă nu veți asculta și nu veți pune la inimă să dați cinstire numelui Meu”, a spus DOMNUL Oștirilor, „voi trimite blestemul asupra voastră și voi blestema binecuvântările voastre. Deja vi le-am blestemat, căci nu [le-]ați pus la inimă.",
+     "heb": "אִם־לֹא תִשְׁמְעוּ וְאִם־לֹא תָשִׂימוּ עַל־לֵב לָתֵת כָּבוֹד לִשְׁמִי אָמַר יְהוָה צְבָאוֹת וְשִׁלַּחְתִּי בָכֶם אֶת־הַמְּאֵרָה וְאָרוֹתִי אֶת־בִּרְכוֹתֵיכֶם וְגַם אָרוֹתִיהָ כִּי אֵינְכֶם שָׂמִים עַל־לֵב",
+     "translit": "Im-lo tişmeu veim-lo tasimu al-lēv latēt kavod lişmi amar ADONAI Ţevaot veşilahti bahem et-hameēra vearoti et-birhotēhem vegam arotiha ki ēinhem samim al-lēv.",
+     "tokens": [
+      {
+       "t": "Dacă nu "
+      },
+      {
+       "t": "veți asculta",
+       "w": "veți asculta",
+       "heb": "תִשְׁמְעוּ",
+       "translit": "tişmeu",
+       "strong": "H8085",
+       "pos": "verb, qal imperfect",
+       "def_ro": "veți asculta."
+      },
+      {
+       "t": " și nu veți "
+      },
+      {
+       "t": "pune la inimă",
+       "w": "pune la inimă",
+       "heb": "תָשִׂימוּ עַל־לֵב",
+       "translit": "tasimu al-lēv",
+       "strong": "H7760",
+       "pos": "verb + substantiv",
+       "def_ro": "pune la inimă."
+      },
+      {
+       "t": " să "
+      },
+      {
+       "t": "dați cinstire numelui Meu",
+       "w": "dați cinstire numelui Meu",
+       "heb": "לָתֵת כָּבוֹד לִשְׁמִי",
+       "translit": "latēt kavod lişmi",
+       "strong": "H3519",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "să dați slavă Numelui Meu."
+      },
+      {
+       "t": "”, a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": ", „voi "
+      },
+      {
+       "t": "trimite blestemul asupra voastră",
+       "w": "trimite blestemul asupra voastră",
+       "heb": "וְשִׁלַּחְתִּי בָכֶם אֶת־הַמְּאֵרָה",
+       "translit": "veşilahti bahem et-hameēra",
+       "strong": "H3994",
+       "pos": "verb + prepoziție + substantiv",
+       "def_ro": "și voi trimite asupra voastră blestemul.",
+       "dict_ro": "Jamieson-Fausset-Brown leagă „hameēra” (blestemul, cu articol hotărât) direct de lista blestemelor Legii din Deuteronom 27-28 — nu un blestem oarecare, ci exact acela cunoscut din legământ, invocat aici ca sancțiune deja scrisă, nu inventată acum."
+      },
+      {
+       "t": " și voi "
+      },
+      {
+       "t": "blestema binecuvântările voastre",
+       "w": "blestema binecuvântările voastre",
+       "heb": "וְאָרוֹתִי אֶת־בִּרְכוֹתֵיכֶם",
+       "translit": "vearoti et-birhotēhem",
+       "strong": "H1288",
+       "pos": "verb + substantiv",
+       "def_ro": "și voi blestema binecuvântările voastre."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Deja vi le-am blestemat",
+       "w": "Deja vi le-am blestemat",
+       "heb": "וְגַם אָרוֹתִיהָ",
+       "translit": "vegam arotiha",
+       "strong": "H779",
+       "pos": "adverb + verb",
+       "def_ro": "și chiar le-am blestemat deja.",
+       "dict_ro": "Rashi observă: nu mai era nevoie ca lucrul să atârne de condiția „dacă nu veți asculta” — DOMNUL știa dinainte că nu vor asculta, de aceea spune că binecuvântările sunt „deja” blestemate, de pe acum, nu doar condiționat, în viitor."
+      },
+      {
+       "t": ", căci nu [le-]ați "
+      },
+      {
+       "t": "pus la inimă",
+       "w": "pus la inimă",
+       "heb": "אֵינְכֶם שָׂמִים עַל־לֵב",
+       "translit": "ēinhem samim al-lēv",
+       "strong": "H7760",
+       "pos": "verb negat + substantiv",
+       "def_ro": "nu le puneți la inimă."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אִם־לֹא תִשְׁמְעוּ וְאִם־לֹא תָשִׂימוּ עַל־לֵב לָתֵת כָּבוֹד לִשְׁמִי אָמַר יְהוָה צְבָאוֹת וְשִׁלַּחְתִּי בָכֶם אֶת־הַמְּאֵרָה וְאָרוֹתִי אֶת־בִּרְכוֹתֵיכֶם וְגַם אָרוֹתִיהָ כִּי אֵינְכֶם שָׂמִים עַל־לֵב",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐὰν μὴ ἀκούσητε, καὶ ἐὰν μὴ θῆσθε εἰς τὴν καρδίαν ὑμῶν τοῦ δοῦναι δόξαν τῷ ὀνόματί μου...",
+       "greek": true,
+       "translation": "„De nu veți asculta, și de nu veți pune la inima voastră ca să dați slavă Numelui Meu...”",
+       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+      }
+     ],
+     "refs": [
+      "Deuteronom 27:15-26",
+      "Deuteronom 28:15-68",
+      "Psalmul 106:15"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și voi blestema” — și voi blestema binecuvântările voastre, ceea ce trebuia să vă binecuvântez: grânele, mustul și untdelemnul. „Și le-am blestemat deja” — și, într-adevăr, nu mai e nevoie ca lucrul să atârne de condiția pe care am pus-o, «dacă nu veți asculta», căci știu că nu veți asculta; de aceea le-am blestemat deja, de pe acum."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și voi trimite” — asupra preoților și poporului. „Și voi blestema binecuvântările voastre” — vrea să spună binecuvântarea cu care v-am binecuvântat din vremea când s-a pus temelia Templului DOMNULUI, cum s-a spus la Hagai: «o voi preface în blestem». „Și le-am blestemat deja” — vrea să spună: chiar și blestemul care se abate acum nu vine din întâmplare, căci Eu l-am trimis, fiindcă nu vă puneți la inimă să fiți cu grijă la cinstea Mea."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Porunca ce li se dăduse; sau Evanghelia predicată lor de Hristos și apostolii Lui. „Voi trimite chiar un blestem asupra voastră” — atât asupra preoților, cât și a poporului; atât asupra celor ce aduc darurile rele, cât și asupra celor ce le primesc, cum spune Kimchi; deși Abarbinel îl restrânge la preoți."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Blestemul” — mai degrabă, ca în ebraică, «blestemul», adică cel rostit în Deuteronom 27:15-26 și 28:15-68. „Voi blestema binecuvântările voastre” — voi preface în blestem binecuvântările de care vă bucurați (Psalmul 106:15). „Le-am blestemat” — literal, «pe fiecare din ele»; adică, am blestemat fiecare dintre binecuvântările voastre în parte."
+      }
+     ]
+    },
+    {
+     "v": "2:3",
+     "t": "Iată, îi voi mustra pe urmașii voștri din pricina voastră și voi împrăștia bălegar pe fețele voastre, bălegarul jertfelor voastre de sărbătoare; [păcatele] vă vor purta spre aceasta.",
+     "heb": "הִנְנִי גֹעֵר לָכֶם אֶת־הַזֶּרַע וְזֵרִיתִי פֶרֶשׁ עַל־פְּנֵיכֶם פֶּרֶשׁ חַגֵּיכֶם וְנָשָׂא אֶתְכֶם אֵלָיו",
+     "translit": "Hineni goēr lahem et-hazera vezēriti fereş al-penēhem fereş haghēhem venasa ethem ēlav.",
+     "tokens": [
+      {
+       "t": "Iată, "
+      },
+      {
+       "t": "îi voi mustra pe urmașii voștri din pricina voastră",
+       "w": "îi voi mustra pe urmașii voștri din pricina voastră",
+       "heb": "גֹעֵר לָכֶם אֶת־הַזֶּרַע",
+       "translit": "goēr lahem et-hazera",
+       "strong": "H1605",
+       "pos": "verb, qal participiu + substantiv",
+       "def_ro": "mustrând pentru voi sămânța [semințele].",
+       "dict_ro": "John Gill notează două citiri posibile: „hazera” poate însemna „sămânța” (semințele semănate în pământ, pe care DOMNUL amenință s-o strice, aducând foamete) sau, cum sugerează Targumul, „urmașii” — o dublă amenințare, agricolă și genealogică, ambele legate de blestemul retras al fertilității."
+      },
+      {
+       "t": " și voi "
+      },
+      {
+       "t": "împrăștia bălegar pe fețele voastre",
+       "w": "împrăștia bălegar pe fețele voastre",
+       "heb": "וְזֵרִיתִי פֶרֶשׁ עַל־פְּנֵיכֶם",
+       "translit": "vezēriti fereş al-penēhem",
+       "strong": "H2508",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și voi împrăștia balegă pe fețele voastre."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "bălegarul jertfelor voastre de sărbătoare",
+       "w": "bălegarul jertfelor voastre de sărbătoare",
+       "heb": "פֶּרֶשׁ חַגֵּיכֶם",
+       "translit": "fereş haghēhem",
+       "strong": "H2282",
+       "pos": "substantiv + substantiv",
+       "def_ro": "balega sărbătorilor voastre.",
+       "dict_ro": "Jamieson-Fausset-Brown explică o realitate legală precisă: măruntaiele animalelor jertfite la sărbători reveneau, prin lege (Deuteronom 18:3), preoților ca porție cuvenită — pedeapsa profetică e o ironie amară: în loc de porția aleasă, preoții vor primi doar balega, mizeria pe care ar fi trebuit s-o îndepărteze, nu s-o primească drept răsplată."
+      },
+      {
+       "t": "; [păcatele] vă vor "
+      },
+      {
+       "t": "purta spre aceasta",
+       "w": "purta spre aceasta",
+       "heb": "וְנָשָׂא אֶתְכֶם אֵלָיו",
+       "translit": "venasa ethem ēlav",
+       "strong": "H5375",
+       "pos": "verb + pronume + prepoziție",
+       "def_ro": "și vă va purta pe voi spre el."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הִנְנִי גֹעֵר לָכֶם אֶת־הַזֶּרַע וְזֵרִיתִי פֶרֶשׁ עַל־פְּנֵיכֶם פֶּרֶשׁ חַגֵּיכֶם וְנָשָׂא אֶתְכֶם אֵלָיו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἰδοὺ ἐγὼ ἀφορίζω ὑμῖν τὸν ὦμον, καὶ σκορπιῶ ἔνυστρον ἐπὶ τὰ πρόσωπα ὑμῶν...",
+       "greek": true,
+       "translation": "„Iată, Eu vă despart brațul, și voi împrăștia măruntaiele pe fețele voastre...”",
+       "note": "Divergență reală, remarcată chiar de Calvin: LXX traduce „hazera” (sămânța, זֶרַע) prin „brațul” (τὸν ὦμον, corespunzând ebraicului זְרוֹעַ) — o confuzie de consoane aproape identice (זֶרַע/זְרוֹעַ), pe care Calvin o numește explicit o eroare „dintr-o singură literă” a traducătorilor greci."
+      }
+     ],
+     "refs": [
+      "Deuteronom 18:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și voi împrăștia balegă” — a animalelor de la sărbătorile voastre, [pe fețele voastre]. Adică, nu veți primi răsplată de la Mine decât spre rău și rușine, și voi mustra pentru voi sămânța câmpului. „Și vă va purta spre el” — balega animalelor voastre de jertfă vă va purta spre ea, ca să fiți lacomi și disprețuiți ca ea."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Iată, voi mustra pentru voi sămânța” — din pricina voastră voi mustra sămânța, ca să nu răsară. „Și voi împrăștia” — voi împrăștia balegă pe fețele voastre, și reia, lămurind: balega din animalele pe care Mi le aduceți jertfă, cea mai dezgustătoare parte a animalului, pe aceea o voi împrăștia ca să vă înjosească prin ea, așa cum voi înjosiți Numele Meu. „Și vă va purta” — acest păcat al vostru vă va purta spre această înjosire."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Sau „sămânța pentru voi”, adică din pricina voastră, cum lămuresc Kimchi și Ben Melech; înțelegând sămânța pe care o aruncă în pământ, pe care DOMNUL amenință s-o strice și s-o nimicească, ca să nu mai răsară și să nu mai aducă spor."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Balega din pântecele animalelor jertfite la sărbători; pântecele era partea cuvenită preoților (Deuteronom 18:3), ceea ce dă o ascuțime deosebită amenințării de aici: veți primi balega pântecelui ca parte cuvenită, în loc de pântecele însuși."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "[Grecii traduc] «brațul», dar au fost înșelați de o singură literă. El confirmă aici din nou ce spusese în versetul anterior — că vor simți blestemul lui Dumnezeu prin lipsă și sărăcie. Blestemul lui Dumnezeu e orice fel de nenorocire; căci așa cum Dumnezeu Își arată în chip deosebit bunăvoința printr-un sprijin darnic, tot așa sterilitatea pământului și rodul lipsit [arată mânia Lui]."
+      }
+     ]
+    },
+    {
+     "v": "2:4",
+     "t": "Și veți ști că am trimis porunca aceasta peste voi, pentru ca legământul Meu să fie cu Levi”, a spus DOMNUL Oștirilor.",
+     "heb": "וִידַעְתֶּם כִּי שִׁלַּחְתִּי אֲלֵיכֶם אֵת הַמִּצְוָה הַזֹּאת לִהְיוֹת בְּרִיתִי אֶת־לֵוִי אָמַר יְהוָה צְבָאוֹת",
+     "translit": "Vidatem ki şilahti alēhem et hamiţva hazot lihiot beriti et-Lēvi amar ADONAI Ţevaot.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "veți ști",
+       "w": "veți ști",
+       "heb": "וִידַעְתֶּם",
+       "translit": "vidatem",
+       "strong": "H3045",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și veți cunoaște."
+      },
+      {
+       "t": " că "
+      },
+      {
+       "t": "am trimis porunca aceasta peste voi",
+       "w": "am trimis porunca aceasta peste voi",
+       "heb": "שִׁלַּחְתִּי אֲלֵיכֶם אֵת הַמִּצְוָה הַזֹּאת",
+       "translit": "şilahti alēhem et hamiţva hazot",
+       "strong": "H7971",
+       "pos": "verb + prepoziție + substantiv compus",
+       "def_ro": "am trimis către voi porunca aceasta."
+      },
+      {
+       "t": ", pentru ca "
+      },
+      {
+       "t": "legământul Meu să fie cu Levi",
+       "w": "legământul Meu să fie cu Levi",
+       "heb": "לִהְיוֹת בְּרִיתִי אֶת־לֵוִי",
+       "translit": "lihiot beriti et-Lēvi",
+       "strong": "H1285",
+       "pos": "verb + substantiv + substantiv propriu",
+       "def_ro": "să fie legământul Meu cu Levi.",
+       "dict_ro": "Rashi explică: DOMNUL dorește ca preoții să dăinuie prin legământul pe care l-a încheiat cu tribul lui Levi — adesea identificat, în tradiția rabinică și în comentariile creștine deopotrivă, ca legământul preoției veșnice cu Aaron și, mai precis, cu Fineas (Numeri 25:12-13), „legământul Meu de pace”."
+      },
+      {
+       "t": "”, a spus "
+      },
+      {
+       "t": "DOMNUL Oștirilor",
+       "w": "DOMNUL Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "ADONAI Ţevaot",
+       "strong": "H6635",
+       "pos": "substantiv propriu compus",
+       "def_ro": "DOMNUL Oștirilor."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וִידַעְתֶּם כִּי שִׁלַּחְתִּי אֲלֵיכֶם אֵת הַמִּצְוָה הַזֹּאת לִהְיוֹת בְּרִיתִי אֶת־לֵוִי אָמַר יְהוָה צְבָאוֹת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπιγνώσεσθε διότι ἐγὼ ἐξαπέσταλκα πρὸς ὑμᾶς τὴν ἐντολὴν ταύτην...",
+       "greek": true,
+       "translation": "„Și veți cunoaște deplin că Eu am trimis către voi porunca aceasta...”",
+       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+      }
+     ],
+     "refs": [
+      "Numeri 25:12-13"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Ca legământul Meu să fie cu Levi” — căci doresc ca voi să dăinuiți cu Mine în legământul pe care l-am încheiat cu tribul lui Levi."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și veți ști” — să știți că am trimis la voi porunca aceasta, ca să fiți cu grijă la cinstea Mea, pentru ca voi să primiți răsplată bună, ca să dăinuie legământul pe care l-am încheiat cu tribul lui Levi — adică cu Aaron, capul tribului, căci cu el am încheiat legământul ca preoția să fie a lui și a urmașilor lui după el."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Nu ca legea ceremonială să fie confirmată și întemeiată, pe care se sprijinea preoția levitică; căci era voia lui Dumnezeu ca aceea să fie desființată, din pricina slăbiciunii și nefolosului ei; ci ca legământul harului, făcut cu Hristos, antitipul lui Levi, la care se află adevăratul Urim și Tumim (Deuteronom 33:8), Care are o slujire și o preoție mai desăvârșită decât a lui, să se împlinească, să se arate și să se descopere sub rânduiala Evangheliei."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Aici [profetul] se adresează în chip deosebit preoților; căci deși tot poporul, cu multă îngâmfare, se împotrivea lui Dumnezeu, preoții îi întreceau pe toți. Și știm cât de gata sunt oamenii să întoarcă spre rău orice binefaceri le dă Dumnezeu."
+      }
+     ]
+    },
+    {
+     "v": "2:5",
+     "t": "„Legământul Meu a fost cu el – viața și pacea – și li le-am dat lui, de dragul temii cu care s-a temut de Mine, căci el a tremurat în fața numelui Meu.",
+     "heb": "בְּרִיתִי הָיְתָה אִתּוֹ הַחַיִּים וְהַשָּׁלוֹם וָאֶתְּנֵם־לוֹ מוֹרָא וַיִּירָאֵנִי וּמִפְּנֵי שְׁמִי נִחַת הוּא",
+     "translit": "Beriti haita ito hahaim vehaşalom vaetnēm-lo mora vaiirani umipenēi şemi nihat hu.",
+     "tokens": [
+      {
+       "t": "„"
+      },
+      {
+       "t": "Legământul Meu a fost cu el",
+       "w": "Legământul Meu a fost cu el",
+       "heb": "בְּרִיתִי הָיְתָה אִתּוֹ",
+       "translit": "beriti haita ito",
+       "strong": "H1285",
+       "pos": "substantiv + verb + prepoziție",
+       "def_ro": "legământul Meu a fost cu el."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "viața și pacea",
+       "w": "viața și pacea",
+       "heb": "הַחַיִּים וְהַשָּׁלוֹם",
+       "translit": "hahaim vehaşalom",
+       "strong": "H2416",
+       "pos": "substantiv + substantiv",
+       "def_ro": "viața și pacea.",
+       "dict_ro": "Rashi leagă direct această formulă de legământul special încheiat cu Fineas: „legământul Meu de pace” (Numeri 25:12), promis lui și seminției lui după el — o dovadă că sămânța lui va dăinui în viață."
+      },
+      {
+       "t": " – și li le-am "
+      },
+      {
+       "t": "dat lui",
+       "w": "dat lui",
+       "heb": "וָאֶתְּנֵם־לוֹ",
+       "translit": "vaetnēm-lo",
+       "strong": "H5414",
+       "pos": "verb + sufix",
+       "def_ro": "și i le-am dat lui."
+      },
+      {
+       "t": ", de dragul "
+      },
+      {
+       "t": "temii cu care s-a temut de Mine",
+       "w": "temii cu care s-a temut de Mine",
+       "heb": "מוֹרָא וַיִּירָאֵנִי",
+       "translit": "mora vaiirani",
+       "strong": "H4172",
+       "pos": "substantiv + verb",
+       "def_ro": "teamă, și s-a temut de Mine."
+      },
+      {
+       "t": ", căci el a "
+      },
+      {
+       "t": "tremurat în fața numelui Meu",
+       "w": "tremurat în fața numelui Meu",
+       "heb": "וּמִפְּנֵי שְׁמִי נִחַת הוּא",
+       "translit": "umipenēi şemi nihat hu",
+       "strong": "H2865",
+       "pos": "prepoziție + substantiv + verb + pronume",
+       "def_ro": "și de frica Numelui Meu, el a fost înspăimântat.",
+       "dict_ro": "Metzudat Țion explică „nihat” prin rădăcina „hitat” (spaimă/cutremur), aceeași folosită la Geneza 35:5, „spaima lui Dumnezeu” — o teamă reverențială autentică, nu simplă supunere formală."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בְּרִיתִי הָיְתָה אִתּוֹ הַחַיִּים וְהַשָּׁלוֹם וָאֶתְּנֵם־לוֹ מוֹרָא וַיִּירָאֵנִי וּמִפְּנֵי שְׁמִי נִחַת הוּא",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἡ διαθήκη μου ἦν μετ᾽ αὐτοῦ τῆς ζωῆς καὶ τῆς εἰρήνης...",
+       "greek": true,
+       "translation": "„Legământul Meu era cu el, al vieții și al păcii...”",
+       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+      }
+     ],
+     "refs": [
+      "Numeri 25:12-13",
+      "Geneza 35:5"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Viața și pacea” — cum s-a spus lui Fineas: «legământul Meu de pace» (Numeri 25:12); și i s-a făgăduit lui și seminției lui după el, arătând că sămânța lui va fi în viață. „Și i le-am dat” — ca să le primească cu teamă, și așa a făcut, și s-a temut de Mine. „Nihat” — expresie de spaimă («hitat»); s-a înspăimântat."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Legământul care era cu el” — legământul pe care l-am avut cu el i-a adăugat viață și pace. „Și i le-am dat lui” — teamă și s-a temut de Mine — repetă cuvintele pentru tăria lucrului. „Nihat el a fost” — se temea și se cutremura."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Nu cu Aaron, nici cu Fineas; nici nu trebuie înțeles despre un legământ care promite viață vremelnică și prosperitate exterioară vreunuia dintre ei; Aaron a trăit o sută douăzeci și trei de ani (Numeri 33:39), și Fineas, potrivit unor scriitori evrei, peste trei sute de ani — ci despre legământul făcut cu Hristos din veșnicie, numit «legământ al vieții», căci a fost făcut cu Hristos, Cuvântul vieții, care era cu Tatăl din toată veșnicia, și în timp S-a arătat în trup."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "El descrie făgăduințele, dar și condițiile legământului; păzirea condițiilor de către Levi și răsplata lui (compară Numeri 25:11-13, râvna lui Fineas); iar pe de altă parte, încălcarea condițiilor și pedeapsa preoților de acum. „Viața” include aici perpetuitatea implicată în Numeri 25:13, «preoție veșnică». „Pacea” e menționată atât aici, cât și acolo."
+      }
+     ]
+    },
+    {
+     "v": "2:6",
+     "t": "Învățătura adevărului a fost în gura lui și nicio nedreptate nu s-a găsit pe buzele lui, el a mers cu mine în pace și onestitate și a întors pe mulți de la păcat.",
+     "heb": "תּוֹרַת אֱמֶת הָיְתָה בְּפִיהוּ וְעַוְלָה לֹא־נִמְצָא בִשְׂפָתָיו בְּשָׁלוֹם וּבְמִישׁוֹר הָלַךְ אִתִּי וְרַבִּים הֵשִׁיב מֵעָוֹן",
+     "translit": "Torat emet haita befihu veavla lo-nimţa vesfatav beşalom uvemişor halah iti verabim hēşiv mēavon.",
+     "tokens": [
+      {
+       "t": "Învățătura adevărului a fost în gura lui",
+       "w": "Învățătura adevărului a fost în gura lui",
+       "heb": "תּוֹרַת אֱמֶת הָיְתָה בְּפִיהוּ",
+       "translit": "torat emet haita befihu",
+       "strong": "H8451",
+       "pos": "substantiv compus + verb + substantiv",
+       "def_ro": "legea/învățătura adevărului a fost în gura lui."
+      },
+      {
+       "t": " și nicio "
+      },
+      {
+       "t": "nedreptate nu s-a găsit pe buzele lui",
+       "w": "nedreptate nu s-a găsit pe buzele lui",
+       "heb": "וְעַוְלָה לֹא־נִמְצָא בִשְׂפָתָיו",
+       "translit": "veavla lo-nimţa vesfatav",
+       "strong": "H5766",
+       "pos": "substantiv + verb negat + substantiv",
+       "def_ro": "și nedreptate nu s-a găsit pe buzele lui."
+      },
+      {
+       "t": ", el a "
+      },
+      {
+       "t": "mers cu mine în pace și onestitate",
+       "w": "mers cu mine în pace și onestitate",
+       "heb": "בְּשָׁלוֹם וּבְמִישׁוֹר הָלַךְ אִתִּי",
+       "translit": "beşalom uvemişor halah iti",
+       "strong": "H4334",
+       "pos": "substantiv + substantiv + verb + prepoziție",
+       "def_ro": "în pace și în dreptate a mers cu mine."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "a întors pe mulți de la păcat",
+       "w": "a întors pe mulți de la păcat",
+       "heb": "וְרַבִּים הֵשִׁיב מֵעָוֹן",
+       "translit": "verabim hēşiv mēavon",
+       "strong": "H7725",
+       "pos": "adjectiv + verb + substantiv",
+       "def_ro": "și pe mulți i-a întors de la nelegiuire."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "תּוֹרַת אֱמֶת הָיְתָה בְּפִיהוּ וְעַוְלָה לֹא־נִמְצָא בִשְׂפָתָיו בְּשָׁלוֹם וּבְמִישׁוֹר הָלַךְ אִתִּי וְרַבִּים הֵשִׁיב מֵעָוֹן",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "νόμος ἀληθείας ἦν ἐν τῷ στόματι αὐτοῦ, καὶ ἀδικία οὐχ εὑρέθη ἐν χείλεσιν αὐτοῦ...",
+       "greek": true,
+       "translation": "„Legea adevărului era în gura lui, și nedreptate nu s-a găsit pe buzele lui...”",
+       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+      }
+     ],
+     "refs": [
+      "Deuteronom 33:10",
+      "Exod 32:26"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„A mers cu mine în pace și în dreptate” — Aaron, Elazar și Fineas; și tot așa la fapta vițelului de aur, și-au întors întregul trib de la nelegiuire, cum s-a spus: «și s-au adunat la el toți fiii lui Levi» (Exod 32:26)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Tora” — a învățat Tora poporului și nu s-a abătut de la calea adevărului. „Și pe mulți i-a întors” — repetă lucrul cu alte cuvinte. „A mers cu mine” — din pricina poruncii Mele, umbla căutând să facă pace între oameni și să-i îndrume pe calea dreaptă."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Evanghelia, cuvântul și doctrina adevărului; care vine de la Dumnezeul adevărului; privește pe Hristos, adevărul, și oamenii sunt călăuziți spre ea de Duhul adevărului; cuprinde cele mai slăvite adevăruri, și nimic altceva decât adevăr: și aceasta era în gura lui Hristos, pusă acolo de Tatăl Său, care I-a dat ce să spună și ce să vorbească."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "[Profetul] explică mai pe larg cum a răspuns Levi poruncii lui Dumnezeu — că a avut legea adevărului în gura lui. Datoria principală a unui preot e să arate poporului calea dreaptă de viețuire; căci oricât de curat și sfânt ar fi cineva în toată viața lui, nu prin asta trebuie socotit preot."
+      }
+     ]
+    },
+    {
+     "v": "2:7",
+     "t": "Căci buzele unui preot trebuie să păzească cunoștința și [oamenii] trebuie să caute învățătură din gura lui, căci el este sol al DOMNULUI Oștirilor.”",
+     "heb": "כִּי־שִׂפְתֵי כֹהֵן יִשְׁמְרוּ־דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יְהוָה־צְבָאוֹת הוּא",
+     "translit": "Ki-siftēi hohēn işmeru-daat vetora ievakşu mipihu ki malah ADONAI-Ţevaot hu.",
+     "tokens": [
+      {
+       "t": "Căci "
+      },
+      {
+       "t": "buzele unui preot trebuie să păzească cunoștința",
+       "w": "buzele unui preot trebuie să păzească cunoștința",
+       "heb": "שִׂפְתֵי כֹהֵן יִשְׁמְרוּ־דַעַת",
+       "translit": "siftēi hohēn işmeru-daat",
+       "strong": "H8193",
+       "pos": "substantiv compus + verb + substantiv",
+       "def_ro": "buzele preotului vor păzi cunoștința."
+      },
+      {
+       "t": " și [oamenii] trebuie să "
+      },
+      {
+       "t": "caute învățătură din gura lui",
+       "w": "caute învățătură din gura lui",
+       "heb": "וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ",
+       "translit": "vetora ievakşu mipihu",
+       "strong": "H8451",
+       "pos": "substantiv + verb + substantiv",
+       "def_ro": "și învățătură [Tora] vor căuta din gura lui."
+      },
+      {
+       "t": ", căci el este "
+      },
+      {
+       "t": "sol al DOMNULUI Oștirilor",
+       "w": "sol al DOMNULUI Oștirilor",
+       "heb": "מַלְאַךְ יְהוָה־צְבָאוֹת הוּא",
+       "translit": "malah ADONAI-Ţevaot hu",
+       "strong": "H4397",
+       "pos": "substantiv compus + pronume",
+       "def_ro": "sol al DOMNULUI Oștirilor este el.",
+       "dict_ro": "Rashi explică: preotul e „trimisul Celui Sfânt, binecuvântat fie El” — asemenea îngerilor slujitori, chemat să slujească înaintea Lui și să intre în incinta Prezenței divine. Cuvântul ebraic „malah” e identic cu cel din numele profetului Malahi (1:1) — o legătură lexicală reală, remarcată de comentatori, între „mesagerul” profetic și „mesagerul” preoțesc, ambii numiți cu același termen."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־שִׂפְתֵי כֹהֵן יִשְׁמְרוּ־דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יְהוָה־צְבָאוֹת הוּא",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără variante semnificative."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι χείλη ἱερέως φυλάξεται γνῶσιν, καὶ νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ...",
+       "greek": true,
+       "translation": "„Căci buzele preotului vor păzi cunoștința, și lege vor căuta din gura lui...”",
+       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+      }
+     ],
+     "refs": [
+      "Deuteronom 33:10",
+      "Hagai 1:13",
+      "2 Corinteni 5:20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Căci buzele preotului” — asupra lor apasă datoria de a păzi cunoștința. De ce? Fiindcă «învățătură vor căuta din gura lui» — acest lucru le-a fost deja încredințat: «vor învăța pe Iacov judecățile Tale» (Deuteronom 33:10). „Căci sol” — trimisul Celui Sfânt, binecuvântat fie El, ca îngerii slujitori, ca să slujească înaintea Lui și să intre înăuntru, în incinta Lui."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Căci buzele preotului” — vrea să spună: iată, toate acestea se cuvin oricărui preot, căci buzele preotului trebuie să păzească cunoștința ca să vorbească despre ea, și se cuvine ca toți fiii lui Israel să caute Tora din gura lui, și ca el să-i învețe."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Toate acestea sunt adevărate despre Hristos, marele nostru Preot; căci, așa cum s-a prorocit despre El, că buzele Lui vor păzi cunoștința, tot așa au păzit-o și o păzesc; nu ascunzând-o, ci păstrând-o și comunicând-o liber și deschis, cum a făcut ucenicilor și urmașilor Săi când era aici pe pământ, și prin ei altora."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Maleahi",
+       "text": "Ce a spus profetul despre primii preoți, extinde acum la întreg tribul levitic, arătând că era o lege perpetuă și neschimbată în privința preoției. Spusese că Levi fusese pus peste Biserică, nu ca să-și însușească cinstea cuvenită lui Dumnezeu, ci ca să stea în locul lui de slujitor al lui Dumnezeu și învățător al poporului ales."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Sol al DOMNULUI” — tălmăcitorul voii Lui; compară, cu privire la proroci, Hagai 1:13. Tot așa slujitorii sunt numiți «soli ai lui Hristos» (2 Corinteni 5:20), iar episcopii celor șapte biserici din Apocalipsa, «îngeri» sau soli."
       }
      ]
     }
