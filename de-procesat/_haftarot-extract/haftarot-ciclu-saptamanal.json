@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "11 capitole (din 54+2 planificate) · 11 complete la Standardul Davar",
+ "meta": "12 capitole (din 54+2 planificate) · 12 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -29545,6 +29545,920 @@
       {
        "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
        "text": "Profeția înaintează de la judecata asupra tuturor neamurilor la desăvârșirea împărăției lui Dumnezeu, prin ridicarea lui Israel la stăpânire peste toată lumea. Pe când judecata cade asupra tuturor neamurilor păgâne, muntele Țion va fi un adăpost pentru cei izbăviți."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "num": 12,
+   "title": "Haftarat Vaiehi",
+   "ref": "1 Regi 2:1-12",
+   "intro": "Haftara pentru parașat Vaiehi — la fel ca pericopa omonimă, care prezintă binecuvântarea finală și testamentul spiritual al lui Iacov, cu o tematică similară, Haftarat Vaiehi prezintă testamentul spiritual al regelui David, una din cele mai importante personalități din istoria poporului evreu, către fiul său Solomon, care urma să construiască Templul din Ierusalim. Valorile promovate de David sunt ascultarea de Dumnezeu și mila și bunătatea față de semeni. În mod particular, contrastul dintre loialitatea lui Barzilai și duplicitatea lui Ioav și Șimi determină atitudini diferite din partea lui Solomon, oferind poporului lecții valoroase despre dreptate și relații interumane.",
+   "verses": [
+    {
+     "v": "2:1",
+     "t": "Și s-au apropiat zilele lui David să moară și el l-a instruit pe fiul său Solomon, spunând:",
+     "heb": "וַיִּקְרְבוּ יְמֵי־דָוִד לָמוּת וַיְצַו אֶת־שְׁלֹמֹה בְנוֹ לֵאמֹר",
+     "translit": "Vaikrevu iemēi-David lamut vaitzav et-Şlomo veno lēmor.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "s-au apropiat zilele lui David să moară",
+       "w": "s-au apropiat zilele lui David să moară",
+       "heb": "וַיִּקְרְבוּ יְמֵי־דָוִד לָמוּת",
+       "translit": "vaikrevu iemēi-David lamut",
+       "strong": "H7126",
+       "pos": "verb + substantiv + substantiv propriu + verb",
+       "def_ro": "și s-au apropiat zilele lui David să moară.",
+       "dict_ro": "John Gill observă o notă de nuanță în numele folosit aici: „e numit doar David, nu regele David, pentru că fiul lui Solomon era acum uns rege și domnea în locul lui” — Abarbanel citat de Gill, alături de o a doua explicație rabinică: „niciun om, nici chiar un rege, nu are putere în ziua morții; el nu mai e rege atunci”."
+      },
+      {
+       "t": " și el l-a instruit pe fiul său Solomon, spunând:",
+       "w": "și el l-a instruit pe fiul său Solomon, spunând:",
+       "heb": "וַיְצַו אֶת־שְׁלֹמֹה בְנוֹ לֵאמֹר",
+       "translit": "vaitzav et-Şlomo veno lēmor",
+       "strong": "H6680",
+       "pos": "verb + substantiv propriu + substantiv + verb",
+       "def_ro": "și a poruncit lui Solomon, fiul lui, spunând."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּקְרְבוּ יְמֵי־דָוִד לָמוּת וַיְצַו אֶת־שְׁלֹמֹה בְנוֹ לֵאמֹר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset de deschidere al Haftaratei Vaiehi — testamentul spiritual al lui David către Solomon, paralel tematic cu binecuvântarea finală a lui Iacov din pericopa omonimă."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν, καὶ ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων",
+       "greek": true,
+       "translation": "„Și s-au apropiat zilele lui David ca să moară, și a răspuns lui Solomon, fiul lui, zicând.”",
+       "note": "LXX redă „l-a instruit/i-a poruncit” (וַיְצַו) prin „a răspuns” (ἀπεκρίνατο) — o divergență reală de verb, care presupune un dialog anterior nemenționat explicit în TM."
+      }
+     ],
+     "refs": [
+      "Iov 14:5",
+      "Geneza 47:29"
+     ],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "S-au apropiat zilele lui David să moară — numărul zilelor lui, fixat și hotărât de DOMNUL (Iov 14:5); și care puteau fi socotite ca apropiindu-se, atât de el însuși, cât și de alții, prin neputințele tot mai mari ale bătrâneții, slăbirea firii, și diferitele semne ale unui sfârșit apropiat care erau asupra lui; vezi Geneza 47:29. Abarbanel observă că e numit doar David, nu regele David, pentru că fiul lui Solomon era acum uns rege și domnea în locul lui."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Ungerea lui Solomon ca rege, înfăptuită la porunca lui David (1 Regi 1), e amintită doar pe scurt în 1 Cronici 23:1, cu cuvintele: «Când David era bătrân și sătul de zile, l-a făcut pe fiul său Solomon rege peste Israel» — care slujesc drept introducere la relatarea rânduielilor făcute de David în zilele din urmă ale vieții lui."
+      }
+     ]
+    },
+    {
+     "v": "2:2",
+     "t": "„Eu merg pe calea întregului pământ. Întărește-te și fii bărbat.",
+     "heb": "אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כָּל־הָאָרֶץ וְחָזַקְתָּ וְהָיִיתָ לְאִישׁ",
+     "translit": "Anohi holēh bedereh kol-haaretz vehazakta vehaita leiş.",
+     "tokens": [
+      {
+       "t": "„Eu "
+      },
+      {
+       "t": "merg pe calea întregului pământ",
+       "w": "merg pe calea întregului pământ",
+       "heb": "אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כָּל־הָאָרֶץ",
+       "translit": "anohi holēh bedereh kol-haaretz",
+       "strong": "H1980",
+       "pos": "pronume + verb + substantiv + substantiv",
+       "def_ro": "eu merg pe calea a tot pământul.",
+       "dict_ro": "John Gill observă o paralelă lexicală directă cu cartea lui Iosua: „aceeași expresie e folosită de Iosua, de la care se pare că David a împrumutat-o, și arată că acea carte a fost scrisă în zilele lui” (Iosua 23:14) — o observație despre continuitatea limbajului biblic peste generații, tratând expresia „calea întregului pământ” ca pe o formulă consacrată pentru moarte, nu o metaforă originală a lui David."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Întărește-te și fii bărbat",
+       "w": "Întărește-te și fii bărbat",
+       "heb": "וְחָזַקְתָּ וְהָיִיתָ לְאִישׁ",
+       "translit": "vehazakta vehaita leiş",
+       "strong": "H2388",
+       "pos": "verb + verb + substantiv",
+       "def_ro": "și te întărește, și fii ca un bărbat."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כָּל־הָאָרֶץ וְחָזַקְתָּ וְהָיִיתָ לְאִישׁ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Ἐγώ εἰμι πορεύομαι ἐν ὁδῷ πάσης τῆς γῆς· καὶ ἰσχύσεις καὶ ἔσῃ εἰς ἄνδρα·",
+       "greek": true,
+       "translation": "„Eu merg pe calea a tot pământul; și te vei întări și vei fi bărbat.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Iosua 23:14",
+      "1 Corinteni 16:13"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Pe calea etc.” — vrea să spună: după obiceiul cuvenit tuturor făpturilor. „Și fii bărbat” — deși ești încă tânăr, întărește-te ca să fii ca un bărbat desăvârșit în anii lui, de vreme ce eu voi muri și nu voi mai fi să te călăuzesc pe calea pe care vei merge."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Eu merg pe calea a tot pământul — o cale care e calea morții, pe care trec toți, regi și țărani, sus-puși și de rând, bogați și săraci, mari și mici, buni și răi; nimeni nu e scutit, toți trebuie să moară, și mor; aceasta e rânduiala lui Dumnezeu, o hotărâre care nu poate fi niciodată răsturnată; toată experiența o confirmă: aceeași expresie e folosită de Iosua, de la care se pare că David a împrumutat-o, și arată că acea carte a fost scrisă în zilele lui, Iosua 23:14."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Eu merg pe calea a tot pământul” — o perifrază frumoasă și impresionantă pentru moarte. „Întărește-te... arată-te bărbat” — acest sfat e asemănător îndrumării apostolice (1 Corinteni 16:13) și privește fermitatea sau tăria minții cerută pentru a împlini îndatoririle grele ale regelui."
+      }
+     ]
+    },
+    {
+     "v": "2:3",
+     "t": "Și păzește sarcina DOMNULUI, Dumnezeul tău, umblând pe căile Lui și păstrând decretele Lui, poruncile Lui, judecățile Lui și mărturiile Lui, după cum este scris în Învățătura lui Moise, ca să reușești în tot ceea ce vei face și oriunde te vei îndrepta.",
+     "heb": "וְשָׁמַרְתָּ אֶת־מִשְׁמֶרֶת יְהוָה אֱלֹהֶיךָ לָלֶכֶת בִּדְרָכָיו לִשְׁמֹר חֻקֹּתָיו מִצְוֺתָיו וּמִשְׁפָּטָיו וְעֵדְוֹתָיו כַּכָּתוּב בְּתוֹרַת מֹשֶׁה לְמַעַן תַּשְׂכִּיל אֵת כָּל־אֲשֶׁר תַּעֲשֶׂה וְאֵת כָּל־אֲשֶׁר תִּפְנֶה שָׁם",
+     "translit": "Veşamarta et-mişmeret ADONAI Eloheha lalehet bidrahav lişmor hukotav mitzvotav umişpatav veēdvotav kakatuv betorat Moşē lemaan taskil ēt kol-aşer taasē veēt kol-aşer tifnē şam.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "păzește sarcina DOMNULUI, Dumnezeul tău",
+       "w": "păzește sarcina DOMNULUI, Dumnezeul tău",
+       "heb": "וְשָׁמַרְתָּ אֶת־מִשְׁמֶרֶת יְהוָה אֱלֹהֶיךָ",
+       "translit": "veşamarta et-mişmeret ADONAI Eloheha",
+       "strong": "H4931",
+       "pos": "verb + substantiv + substantiv propriu + substantiv",
+       "def_ro": "și păzește rânduiala DOMNULUI, Dumnezeul tău.",
+       "dict_ro": "Metzudat David precizează sensul practic al acestei formule: „lucrurile pe care le-a poruncit DOMNUL să le păzești — și nu te sprijini pe priceperea ta” — un avertisment explicit împotriva încrederii exclusive în propria judecată, oricât de mare, în locul supunerii față de Tora scrisă."
+      },
+      {
+       "t": ", umblând pe căile Lui și păstrând decretele Lui, poruncile Lui, judecățile Lui și mărturiile Lui",
+       "w": "umblând pe căile Lui și păstrând decretele Lui, poruncile Lui, judecățile Lui și mărturiile Lui",
+       "heb": "לָלֶכֶת בִּדְרָכָיו לִשְׁמֹר חֻקֹּתָיו מִצְוֺתָיו וּמִשְׁפָּטָיו וְעֵדְוֹתָיו",
+       "translit": "lalehet bidrahav lişmor hukotav mitzvotav umişpatav veēdvotav",
+       "strong": "H2708",
+       "pos": "verb + substantiv + verb + substantiv + substantiv + substantiv + substantiv",
+       "def_ro": "să umbli pe căile Lui, să păzești decretele Lui, poruncile Lui și judecățile Lui și mărturiile Lui.",
+       "dict_ro": "Metzudat David distinge riguros între cele patru termeni: „חֻקֹּתָיו” sunt poruncile ale căror temeiuri n-au fost descoperite, ca un decret și o hotărâre; „מִצְוֺתָיו” privesc ce e între om și Cel Atotprezent; „וּמִשְׁפָּטָיו” privesc ce e între om și semenul lui; „וְעֵדְוֹתָיו” sunt poruncile al căror temei e să mărturisească despre minunile DOMNULUI, ca Șabatul și sărbătorile Lui — o clasificare tehnică precisă a categoriilor de lege biblică."
+      },
+      {
+       "t": ", după cum este scris în Învățătura lui Moise",
+       "w": "după cum este scris în Învățătura lui Moise",
+       "heb": "כַּכָּתוּב בְּתוֹרַת מֹשֶׁה",
+       "translit": "kakatuv betorat Moşē",
+       "strong": "H8451",
+       "pos": "verb + substantiv compus + substantiv propriu",
+       "def_ro": "după cum e scris în Tora lui Moise."
+      },
+      {
+       "t": ", ca să "
+      },
+      {
+       "t": "reușești în tot ceea ce vei face și oriunde te vei îndrepta",
+       "w": "reușești în tot ceea ce vei face și oriunde te vei îndrepta",
+       "heb": "לְמַעַן תַּשְׂכִּיל אֵת כָּל־אֲשֶׁר תַּעֲשֶׂה וְאֵת כָּל־אֲשֶׁר תִּפְנֶה שָׁם",
+       "translit": "lemaan taskil ēt kol-aşer taasē veēt kol-aşer tifnē şam",
+       "strong": "H7919",
+       "pos": "conjuncție + verb + pronume + verb + pronume + verb",
+       "def_ro": "ca să înțelegi/reușești tot ce vei face și oriunde te vei întoarce acolo."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְשָׁמַרְתָּ אֶת־מִשְׁמֶרֶת יְהוָה אֱלֹהֶיךָ לָלֶכֶת בִּדְרָכָיו לִשְׁמֹר חֻקֹּתָיו מִצְוֺתָיו וּמִשְׁפָּטָיו וְעֵדְוֹתָיו כַּכָּתוּב בְּתוֹרַת מֹשֶׁה לְמַעַן תַּשְׂכִּיל אֵת כָּל־אֲשֶׁר תַּעֲשֶׂה וְאֵת כָּל־אֲשֶׁר תִּפְנֶה שָׁם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset care trimite explicit la obligația regelui israelit de a scrie și păstra o copie personală a Torei (Deuteronom 17:18-19) — testamentul lui David nu e doar etic general, ci ancorat într-o normă constituțională precisă a regatului."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ φυλάξεις φυλακὴν θεοῦ σου τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα τὰ γεγραμμένα ἐν νόμῳ Μωυσέως, ἵνα συνήσεις ἃ ποιήσεις κατὰ πάντα ὅσα ἂν ἐντείλωμαί σοι·",
+       "greek": true,
+       "translation": "„Și vei păzi rânduiala Dumnezeului tău, ca să umbli pe căile Lui, să păzești poruncile Lui și rânduielile drepte și judecățile scrise în legea lui Moise, ca să înțelegi ce vei face, potrivit tuturor câte-ți voi porunci.”",
+       "note": "LXX înlocuiește ultima parte „oriunde te vei îndrepta” cu „potrivit tuturor câte-ți voi porunci” — o divergență reală de conținut, mutând accentul de la propria inițiativă a lui Solomon la poruncile suplimentare ale lui David."
+      }
+     ],
+     "refs": [
+      "Deuteronom 17:18-19"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Rânduiala DOMNULUI” — lucrurile pe care le-a poruncit DOMNUL să le păzești, și nu te sprijini pe priceperea ta. „Pe căile Lui” — să fii milostiv și plin de îndurare ca El. „Decretele Lui” — sunt poruncile ale căror temeiuri n-au fost descoperite, și sunt ca un decret și o hotărâre. „Poruncile Lui” — ce e între om și Cel Atotprezent. „Și judecățile Lui” — ce e între om și semenul lui. „Și mărturiile Lui” — sunt poruncile al căror temei e să mărturisească despre minunile DOMNULUI, ca Șabatul și sărbătorile Lui și cele asemenea lor. „Ca să reușești” — vrea să spună: când vei păzi toate poruncile, vei mai înțelege din ele tot ce vei face, din lucrurile ce nu sunt spuse în Tora, căci din ele vei lua înțelepciune ca să slujești DOMNULUI."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și păzește rânduiala DOMNULUI, Dumnezeul tău — care poate privi în general toată umblarea și purtarea lui, și ascultarea lui de legea și voia lui Dumnezeu; și în particular, dreapta cârmuire a lui Israel, încredințată grijii lui: să umbli pe căile Lui — arătate în cuvântul Lui: să păzești decretele Lui și judecățile Lui — legile Lui, ceremoniale, morale și judiciare: și mărturiile Lui — legile de mai sus, care mărturisesc despre gândul Lui, și arată ce voia să fie făcut și păzit: după cum e scris în legea lui Moise — pe care un rege al lui Israel era dator să-și scrie o copie, s-o păstreze la el, s-o citească, și să domnească după ea, Deuteronom 17:18."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "„Păzește rânduiala DOMNULUI” — păzește ce ți-a dat Dumnezeu să păzești. 1. Umblă pe căile Lui. Nu pe ale tale, nici pe căile unei lumi rele, pieritoare. 2. Păzește decretele Lui. Socotește toate rânduielile Lui sfinte, drepte și bune; primește-le ca atare, și păzește-le cu luare-aminte. 3. Păzește poruncile Lui. Tot ce ți-a poruncit să faci, fă; ce ți-a oprit să faci, lasă. 4. Păzește judecățile Lui. Ce a hotărât El a fi drept e drept în chip esențial și adânc; ce a hotărât a fi rău sau nelegiuit e rău și nelegiuit în chip esențial și adânc."
+      }
+     ]
+    },
+    {
+     "v": "2:4",
+     "t": "Ca DOMNUL să-Și împlinească cuvântul pe care mi l-a vorbit, spunând: «dacă fiii tăi vor păzi calea lor, mergând înaintea Mea cu credință, cu toată inima lor și cu tot sufletul lor», spunând: «nimeni dintre ai tăi nu va fi îndepărtat de la tronul lui Israel.»",
+     "heb": "לְמַעַן יָקִים יְהוָה אֶת־דְּבָרוֹ אֲשֶׁר דִּבֶּר עָלַי לֵאמֹר אִם־יִשְׁמְרוּ בָנֶיךָ אֶת־דַּרְכָּם לָלֶכֶת לְפָנַי בֶּאֱמֶת בְּכָל־לְבָבָם וּבְכָל־נַפְשָׁם לֵאמֹר לֹא־יִכָּרֵת לְךָ אִישׁ מֵעַל כִּסֵּא יִשְׂרָאֵל",
+     "translit": "Lemaan iakim ADONAI et-devaro aşer dibēr alai lēmor im-işmeru vaneha et-darkam lalehet lefanai beemet behol-levavam uvehol-nafşam lēmor lo-ikarēt leha iş mēal kisē Israēl.",
+     "tokens": [
+      {
+       "t": "Ca "
+      },
+      {
+       "t": "DOMNUL să-Și împlinească cuvântul pe care mi l-a vorbit",
+       "w": "DOMNUL să-Și împlinească cuvântul pe care mi l-a vorbit",
+       "heb": "יָקִים יְהוָה אֶת־דְּבָרוֹ אֲשֶׁר דִּבֶּר עָלַי",
+       "translit": "iakim ADONAI et-devaro aşer dibēr alai",
+       "strong": "H6965",
+       "pos": "verb + substantiv propriu + substantiv + pronume relativ + verb",
+       "def_ro": "să împlinească DOMNUL cuvântul Lui pe care l-a vorbit despre mine."
+      },
+      {
+       "t": ", spunând: «dacă fiii tăi vor păzi calea lor, mergând înaintea Mea cu credință, cu toată inima lor și cu tot sufletul lor»",
+       "w": "dacă fiii tăi vor păzi calea lor, mergând înaintea Mea cu credință, cu toată inima lor și cu tot sufletul lor",
+       "heb": "אִם־יִשְׁמְרוּ בָנֶיךָ אֶת־דַּרְכָּם לָלֶכֶת לְפָנַי בֶּאֱמֶת בְּכָל־לְבָבָם וּבְכָל־נַפְשָׁם",
+       "translit": "im-işmeru vaneha et-darkam lalehet lefanai beemet behol-levavam uvehol-nafşam",
+       "strong": "H1121",
+       "pos": "conjuncție + verb + substantiv + substantiv + verb + substantiv + substantiv + substantiv",
+       "def_ro": "de vor păzi fiii tăi calea lor, ca să umble înaintea Mea în adevăr, cu toată inima lor și cu tot sufletul lor."
+      },
+      {
+       "t": ", spunând: «"
+      },
+      {
+       "t": "nimeni dintre ai tăi nu va fi îndepărtat de la tronul lui Israel.»",
+       "w": "nimeni dintre ai tăi nu va fi îndepărtat de la tronul lui Israel.",
+       "heb": "לֹא־יִכָּרֵת לְךָ אִישׁ מֵעַל כִּסֵּא יִשְׂרָאֵל",
+       "translit": "lo-ikarēt leha iş mēal kisē Israēl",
+       "strong": "H3772",
+       "pos": "negație + verb + substantiv + substantiv propriu compus",
+       "def_ro": "nu va fi stârpit pentru tine un bărbat de pe tronul lui Israel."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לְמַעַן יָקִים יְהוָה אֶת־דְּבָרוֹ אֲשֶׁר דִּבֶּר עָלַי לֵאמֹר אִם־יִשְׁמְרוּ בָנֶיךָ אֶת־דַּרְכָּם לָלֶכֶת לְפָנַי בֶּאֱמֶת בְּכָל־לְבָבָם וּבְכָל־נַפְשָׁם לֵאמֹר לֹא־יִכָּרֵת לְךָ אִישׁ מֵעַל כִּסֵּא יִשְׂרָאֵל",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Reia direct promisiunea făcută lui David prin Natan (2 Samuel 7:11-16), aplicând condiționalitatea ei explicit la Solomon și la urmașii lui — o promisiune reluată ulterior aproape identic la 1 Regi 9:5."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἵνα στήσῃ Κύριος τὸν λόγον αὐτοῦ ὃν ἐλάλησεν λέγων Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν, λέγων Οὐκ ἐξολοθρευθήσεταί σοι ἀνὴρ ἐπάνωθεν θρόνου Ἰσραήλ.",
+       "greek": true,
+       "translation": "„Ca să întărească Domnul cuvântul Lui pe care l-a grăit, zicând: De vor păzi fiii tăi calea lor, ca să umble înaintea Mea în adevăr, cu toată inima lor, zicând: nu va fi stârpit ție bărbat de pe tronul lui Israel.”",
+       "note": "LXX omite „și cu tot sufletul lor” (וּבְכָל־נַפְשָׁם) din TM — o compresie reală a formulei duble caracteristice ebraicii biblice."
+      }
+     ],
+     "refs": [
+      "2 Samuel 7:11-16",
+      "1 Regi 9:5",
+      "Ieremia 33:17"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Spunând: nu va fi stârpit” — fiindcă vorbele s-au lungit, spune iarăși «spunând»."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Nu-ți va lipsi... un bărbat pe tronul lui Israel” — o trimitere la promisiunea făcută lui David despre suveranitatea așezată pe veci în seminția lui (2 Samuel 7:11-16), confirmată apoi lui Solomon (1 Regi 9:5), și repetată, cu privire la înțelesul ei duhovnicesc, mult mai târziu (Ieremia 33:17)."
+      }
+     ]
+    },
+    {
+     "v": "2:5",
+     "t": "În plus, tu știi ce mi-a făcut Ioav, fiul Țeruiei, ce a făcut celor doi conducători ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter, pe care i-a omorât, vărsând astfel sânge de război în vreme de pace, punând sângele de război pe cingătoarea pe care o are la brâu și pe încălțămintea lui pe care o are în picioare.",
+     "heb": "וְגַם אַתָּה יָדַעְתָּ אֵת אֲשֶׁר־עָשָׂה לִי יוֹאָב בֶּן־צְרוּיָה אֲשֶׁר עָשָׂה לִשְׁנֵי־שָׂרֵי צִבְאוֹת יִשְׂרָאֵל לְאַבְנֵר בֶּן־נֵר וְלַעֲמָשָׂא בֶן־יֶתֶר וַיַּהַרְגֵם וַיָּשֶׂם דְּמֵי־מִלְחָמָה בְּשָׁלֹם וַיִּתֵּן דְּמֵי מִלְחָמָה בַּחֲגֹרָתוֹ אֲשֶׁר בְּמָתְנָיו וּבְנַעֲלוֹ אֲשֶׁר בְּרַגְלָיו",
+     "translit": "Vegam ata iadata ēt aşer-asa li Ioav ben-Tzeruia aşer asa lişnēi-sarēi tzivot Israēl le'Avnēr ben-Nēr velaAmasa ven-Ieter vaiaharghēm vaiasem demēi-milhama beşalom vaitēn demēi milhama bahagorato aşer bemotnav uvenaalo aşer beraglav.",
+     "tokens": [
+      {
+       "t": "În plus, "
+      },
+      {
+       "t": "tu știi ce mi-a făcut Ioav, fiul Țeruiei",
+       "w": "tu știi ce mi-a făcut Ioav, fiul Țeruiei",
+       "heb": "וְגַם אַתָּה יָדַעְתָּ אֵת אֲשֶׁר־עָשָׂה לִי יוֹאָב בֶּן־צְרוּיָה",
+       "translit": "vegam ata iadata ēt aşer-asa li Ioav ben-Tzeruia",
+       "strong": "H3097",
+       "pos": "adverb + pronume + verb + pronume relativ + verb + substantiv propriu + substantiv propriu",
+       "def_ro": "și de asemenea tu ai știut ce mi-a făcut Ioav, fiul Țeruiei."
+      },
+      {
+       "t": ", ce a făcut "
+      },
+      {
+       "t": "celor doi conducători ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter",
+       "w": "celor doi conducători ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter",
+       "heb": "אֲשֶׁר עָשָׂה לִשְׁנֵי־שָׂרֵי צִבְאוֹת יִשְׂרָאֵל לְאַבְנֵר בֶּן־נֵר וְלַעֲמָשָׂא בֶן־יֶתֶר",
+       "translit": "aşer asa lişnēi-sarēi tzivot Israēl le'Avnēr ben-Nēr velaAmasa ven-Ieter",
+       "strong": "H74",
+       "pos": "pronume relativ + verb + substantiv + substantiv propriu + substantiv propriu + substantiv propriu",
+       "def_ro": "ce a făcut celor doi căpetenii ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter.",
+       "dict_ro": "Rashi identifică precis sursa care i-a permis lui Solomon să cunoască detaliile crimei: „arătându-le scrisoarea pe care David o trimisese prin mâna lui Uria” — potrivit unui midraș citat de Rashi (Midrash Tanhuma), Ioav a divulgat scrisoarea prin care David îi poruncise moartea lui Uria, ca răzbunare/apărare, dezvăluind astfel taina cea mai apăsătoare a lui David; comentatorii creștini clasici (Gill) leagă mai degrabă „ce mi-a făcut” de trădarea recentă a lui Ioav prin alăturarea la Adonia."
+      },
+      {
+       "t": ", pe care i-a omorât",
+       "w": "pe care i-a omorât",
+       "heb": "וַיַּהַרְגֵם",
+       "translit": "vaiaharghēm",
+       "strong": "H2026",
+       "pos": "verb",
+       "def_ro": "și i-a omorât."
+      },
+      {
+       "t": ", vărsând astfel sânge de război în vreme de pace",
+       "w": "vărsând astfel sânge de război în vreme de pace",
+       "heb": "וַיָּשֶׂם דְּמֵי־מִלְחָמָה בְּשָׁלֹם",
+       "translit": "vaiasem demēi-milhama beşalom",
+       "strong": "H1818",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și a pus sânge de război în pace.",
+       "dict_ro": "Rashi explică precis mecanismul crimei lui Ioav împotriva lui Amasa: și-a legat sabia la brâu cu vârful în jos, nu în felul obișnuit de a o purta, ca aceasta să cadă atunci când s-ar apleca — „iar când a căzut, a luat-o; iar Amasa a presupus că a luat-o doar ca s-o ridice de la pământ, și nu s-a păzit de sabia din mâna lui Ioav”. Pentru Avner, Rashi citează metoda diferită: l-a ucis prin viclenie, întrebându-l „cum se descalță o femeie fără mâini” (referire la ritualul halița), pentru a-l face să-și coboare garda la poartă."
+      },
+      {
+       "t": ", punând sângele de război pe cingătoarea pe care o are la brâu și pe încălțămintea lui pe care o are în picioare",
+       "w": "punând sângele de război pe cingătoarea pe care o are la brâu și pe încălțămintea lui pe care o are în picioare",
+       "heb": "וַיִּתֵּן דְּמֵי מִלְחָמָה בַּחֲגֹרָתוֹ אֲשֶׁר בְּמָתְנָיו וּבְנַעֲלוֹ אֲשֶׁר בְּרַגְלָיו",
+       "translit": "vaitēn demēi milhama bahagorato aşer bemotnav uvenaalo aşer beraglav",
+       "strong": "H2290",
+       "pos": "verb + substantiv + substantiv + substantiv + substantiv",
+       "def_ro": "și a pus sânge de război pe cingătoarea lui, care e la brâul lui, și pe încălțămintea lui, care e la picioarele lui."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגַם אַתָּה יָדַעְתָּ אֵת אֲשֶׁר־עָשָׂה לִי יוֹאָב בֶּן־צְרוּיָה אֲשֶׁר עָשָׂה לִשְׁנֵי־שָׂרֵי צִבְאוֹת יִשְׂרָאֵל לְאַבְנֵר בֶּן־נֵר וְלַעֲמָשָׂא בֶן־יֶתֶר וַיַּהַרְגֵם וַיָּשֶׂם דְּמֵי־מִלְחָמָה בְּשָׁלֹם וַיִּתֵּן דְּמֵי מִלְחָמָה בַּחֲגֹרָתוֹ אֲשֶׁר בְּמָתְנָיו וּבְנַעֲלוֹ אֲשֶׁר בְּרַגְלָיו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset dens, care rezumă două episoade narate pe larg în 2 Samuel (uciderea lui Avner, cap. 3; uciderea lui Amasa, cap. 20) — David presupune că Solomon cunoaște deja detaliile, spre deosebire de Gill, care observă că unele dintre ele i-ar fi putut fi cunoscute doar din auzite."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καί γε σὺ ἔγνως ὅσα ἐποίησέν μοι Ἰωὰβ υἱὸς Σαρουίας, ὅσα ἐποίησεν τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ, καὶ ἀπέκτεινεν αὐτοὺς καὶ ἔταξεν τὰ αἵματα πολέμου ἐν τῇ ζώνῃ αὐτοῦ τῇ ἐν τῇ ὀσφύι αὐτοῦ καὶ ἐν τῷ ὑποδήματι αὐτοῦ τῷ ἐν τῷ ποδὶ αὐτοῦ.",
+       "greek": true,
+       "translation": "„Și tu ai cunoscut câte mi-a făcut Ioab, fiul Sarviei, câte a făcut celor doi căpetenii ai puterilor lui Israel, lui Avennir, fiul lui Nir, și lui Amessaia, fiul lui Iether, și i-a ucis, și a pus sângele războiului pe cingătoarea lui, cea de pe mijlocul lui, și pe încălțămintea lui, cea de pe piciorul lui.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "2 Samuel 3:22-27",
+      "2 Samuel 20:8-10",
+      "Exod 3:5"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Ce mi-a făcut” — arătându-le scrisoarea pe care David o trimisese prin mâna lui Uria [din Midrash Rabbi Tanhuma]. „Sânge de război în pace” — de vreme ce erau în pace cu el, nu se păzeau de el. „Pe cingătoarea lui, care e la brâul lui” — își legase sabia la brâu, nu în felul obișnuit al celor ce o poartă, la ieșirea în întâmpinarea lui Amasa, cu vârful în jos, ca să cadă, cum se spune: «și el a ieșit, și ea a căzut»; iar când a căzut, a luat-o; Amasa a presupus că a luat-o doar ca s-o ridice de la pământ, și nu s-a păzit de sabia din mâna lui Ioav. „Și pe încălțămintea lui, care e la picioarele lui” — pe Avner l-a ucis prin viclenie, întrebându-l cum se descalță o femeie fără mâini, cum se spune: «și Ioav l-a abătut spre poartă, să vorbească cu el «bașeli»» — o expresie de «desculță-ți» încălțările."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și de asemenea tu ai știut” — vrea să spună: așa cum știu eu, tot așa ai știut și tu, și nu-i nevoie să-ți povestesc amănuntele lucrurilor. „Ce mi-a făcut” — și se întoarce să lămurească: aceasta e ce a făcut celor doi căpetenii etc., căci fiindcă au venit prin făgăduința lui David și au mers cu misiunea lui, și cu toate acestea Ioav i-a ucis, se socotește deci lui David spre rușine."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Mai mult, tu știi ce mi-a făcut Ioav, fiul Țeruiei — ucigându-l pe Absalom, împotriva poruncilor lui, și purtându-se obraznic față de el din pricina jelirii lui pentru el, și la alte vremuri; dar cum aceste lucruri nu i-ar fi fost neapărat cunoscute personal lui Solomon, decât din auzite, aceasta s-ar putea referi la necredincioșia lui față de el, alăturându-se lui Adonia, care s-a proclamat rege pe timpul vieții lui, fără știrea și învoirea lui."
+      }
+     ]
+    },
+    {
+     "v": "2:6",
+     "t": "Fă după înțelepciunea ta, dar nu-i lăsa perii albi să coboare în pace în sălașul morților.",
+     "heb": "וְעָשִׂיתָ כְּחָכְמָתֶךָ וְלֹא־תוֹרֵד שֵׂיבָתוֹ בְּשָׁלֹם שְׁאֹל",
+     "translit": "Veasita kehohmateha velo-torēd sēivato beşalom şeol.",
+     "tokens": [
+      {
+       "t": "Fă "
+      },
+      {
+       "t": "după înțelepciunea ta",
+       "w": "după înțelepciunea ta",
+       "heb": "וְעָשִׂיתָ כְּחָכְמָתֶךָ",
+       "translit": "veasita kehohmateha",
+       "strong": "H2451",
+       "pos": "verb + substantiv",
+       "def_ro": "și fă după înțelepciunea ta."
+      },
+      {
+       "t": ", dar "
+      },
+      {
+       "t": "nu-i lăsa perii albi să coboare în pace în sălașul morților",
+       "w": "nu-i lăsa perii albi să coboare în pace în sălașul morților",
+       "heb": "וְלֹא־תוֹרֵד שֵׂיבָתוֹ בְּשָׁלֹם שְׁאֹל",
+       "translit": "velo-torēd sēivato beşalom şeol",
+       "strong": "H7872",
+       "pos": "negație + verb + substantiv + substantiv + substantiv",
+       "def_ro": "și nu-i coborî cărunteța lui în pace, în Locuința Morților.",
+       "dict_ro": "Rashi propune o lectură surprinzătoare, cu o motivație spirituală, nu doar politică: „nu-l lăsa să moară de moartea lui firească, ca să cadă în Gheenă” — potrivit acestei tradiții, David dorea binele veșnic al lui Ioav, iar execuția pentru sânge nevinovat (nu moartea naturală) era, paradoxal, calea prin care Ioav putea evita o pedeapsă mai gravă în viața de apoi."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעָשִׂיתָ כְּחָכְמָתֶךָ וְלֹא־תוֹרֵד שֵׂיבָתוֹ בְּשָׁלֹם שְׁאֹל",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ποιήσεις κατὰ τὴν σοφίαν σου, καὶ σὺ κατάξεις τὴν πολιὰν αὐτοῦ ἐν εἰρήνῃ εἰς ᾅδου.",
+       "greek": true,
+       "translation": "„Și vei face după înțelepciunea ta, și tu îi vei coborî cărunteța lui în pace în locuința morților.”",
+       "note": "LXX inversează sensul negativ al TM: nu „nu-i coborî”, ci afirmativ „îi vei coborî... în pace” — o divergență reală de sens, aparent contrară intenției explicite a poruncii lui David; posibilă eroare de transmitere sau interpretare textuală diferită în tradiția grecească."
+      }
+     ],
+     "refs": [
+      "1 Regi 2:28-34"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și nu-i coborî cărunteța în pace în Locuința Morților” — nu-l lăsa să moară de moartea lui firească, ca să cadă în Gheenă."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„După înțelepciunea ta” — după înțelepciunea ta vei găsi pentru el un prilej. „Și nu-i coborî cărunteța” — vrea să spună: deși e om bătrân, nu-i cinsti fața, ci vezi ca nu cumva să coboare în mormânt în pace, murind de moarte firească."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Fă deci după înțelepciunea ta — care, deși tânăr, începuse să se arate în el, chiar în viața tatălui lui; îl îndeamnă deci să folosească înțelepciunea pe care o avea, și să prindă cea dintâi și cea mai potrivită ocazie ca să-l stârpească pentru omorurile lui de mai înainte și pentru trădarea recentă, ca pe un om primejdios pentru domnia lui și pentru pacea ei: și nu lăsa capul lui cărunt să coboare la mormânt în pace — adică, să nu moară de moarte firească, ci violentă."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "„Nu lăsa capul lui cărunt să coboare la mormânt în pace” — ar fi fost o insultă adusă dreptății să nu i se fi luat viața lui Ioav. David a fost vinovat că a amânat-o atâta vreme; dar probabil împrejurările domniei lui nu-i îngăduiau s-o facă mai devreme. Potrivit legii lui Dumnezeu, Ioav, care-i ucisese pe Avner și pe Amasa, trebuia să moară."
+      }
+     ]
+    },
+    {
+     "v": "2:7",
+     "t": "Dar față de copiii lui Barzilai ghiladitul poartă-te cu bunătate. Ei să fie printre cei ce mănâncă la masa ta, căci s-au apropiat de mine când fugeam dinaintea fratelui tău Avșalom.",
+     "heb": "וְלִבְנֵי בַרְזִלַּי הַגִּלְעָדִי תַּעֲשֶׂה־חֶסֶד וְהָיוּ בְּאֹכְלֵי שֻׁלְחָנֶךָ כִּי־כֵן קָרְבוּ אֵלַי בְּבָרְחִי מִפְּנֵי אַבְשָׁלוֹם אָחִיךָ",
+     "translit": "Velivnēi Varzilai haGhiladi taasē-hesed vehaiu beohlēi şulhaneha ki-hēn karvu ēlai bevorhi mipenēi Avşalom ahiha.",
+     "tokens": [
+      {
+       "t": "Dar "
+      },
+      {
+       "t": "față de copiii lui Barzilai ghiladitul poartă-te cu bunătate",
+       "w": "față de copiii lui Barzilai ghiladitul poartă-te cu bunătate",
+       "heb": "וְלִבְנֵי בַרְזִלַּי הַגִּלְעָדִי תַּעֲשֶׂה־חֶסֶד",
+       "translit": "velivnēi Varzilai haGhiladi taasē-hesed",
+       "strong": "H2617",
+       "pos": "substantiv + substantiv propriu + adjectiv + verb + substantiv",
+       "def_ro": "și cu fiii lui Barzilai ghiladitul fă bunătate."
+      },
+      {
+       "t": ". Ei să fie printre cei ce mănâncă la masa ta",
+       "w": "Ei să fie printre cei ce mănâncă la masa ta",
+       "heb": "וְהָיוּ בְּאֹכְלֵי שֻׁלְחָנֶךָ",
+       "translit": "vehaiu beohlēi şulhaneha",
+       "strong": "H7979",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și să fie printre cei ce mănâncă masa ta."
+      },
+      {
+       "t": ", căci s-au apropiat de mine când fugeam dinaintea fratelui tău Avșalom",
+       "w": "căci s-au apropiat de mine când fugeam dinaintea fratelui tău Avșalom",
+       "heb": "כִּי־כֵן קָרְבוּ אֵלַי בְּבָרְחִי מִפְּנֵי אַבְשָׁלוֹם אָחִיךָ",
+       "translit": "ki-hēn karvu ēlai bevorhi mipenēi Avşalom ahiha",
+       "strong": "H1272",
+       "pos": "conjuncție + verb + verb + substantiv propriu + substantiv",
+       "def_ro": "căci așa s-au apropiat de mine când fugeam dinaintea lui Avșalom, fratele tău.",
+       "dict_ro": "Metzudat David observă distincția fină pe care David o face aici: „vrea să spună: chiar prin acest lucru [de a mă fi ajutat atunci] m-au apropiat să mănânc la masa tatălui lor — ca și cum ar spune: fă-le totuși bunătate, dincolo de faptul că vor mânca la masa ta, căci aceasta e răsplată datorată, nu se numește bunătate” — distincția juridică dintre răsplata cuvenită (גמול) și bunătatea gratuită (חסד) e centrală pentru înțelegerea acestei porunci."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְלִבְנֵי בַרְזִלַּי הַגִּלְעָדִי תַּעֲשֶׂה־חֶסֶד וְהָיוּ בְּאֹכְלֵי שֻׁלְחָנֶךָ כִּי־כֵן קָרְבוּ אֵלַי בְּבָרְחִי מִפְּנֵי אַבְשָׁלוֹם אָחִיךָ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Contrastul structural dintre acest verset (bunătate cerută pentru un prieten loial) și versetele vecine (pedeapsă cerută pentru vinovați) constituie firul etic central al întregului testament al lui David: dreptate strictă acolo unde se cuvine, recunoștință acolo unde se cuvine."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος, καὶ ἔσονται ἐν τοῖς ἐσθίουσιν τὴν τράπεζάν σου· ὅτι οὕτως ἤγγισάν μοι ἐν τῷ με ἀποδιδράσκειν ἀπὸ προσώπου Ἀβεσσαλὼμ τοῦ ἀδελφοῦ σου.",
+       "greek": true,
+       "translation": "„Și fiilor lui Verzellei Galaaditul le vei face milă, și vor fi printre cei ce mănâncă masa ta; căci așa s-au apropiat de mine când fugeam dinaintea lui Abessalom, fratele tău.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "2 Samuel 17:27-29",
+      "2 Samuel 19:31-39"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Căci așa” — vrea să spună: chiar prin acest lucru m-au apropiat să mănânc la masa tatălui lor. Și ca și cum ar spune: fă-le totuși bunătate, dincolo de faptul că vor mânca la masa ta, căci aceasta e răsplată datorată, nu se numește bunătate."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Dar arată bunătate fiilor lui Barzilai Ghiladitul — care poate că acum murise, și de aceea voia să se arate bunătate urmașilor lui, de dragul lui: și să fie printre cei ce mănâncă la masa ta — cum avusese Mefiboșet la a lui, care poate că și el murise, de vreme ce nu se face nicio mențiune despre el; și cum ar fi voit David să-l aibă și pe Barzilai, dar acesta ceruse să fie scutit din pricina vârstei: căci așa au venit la mine, când am fugit din pricina lui Avșalom, fratele tău — adică au venit la el, nu doar Barzilai, ci și fiii lui, se pare; și l-au hrănit, sau i-au dat merinde, când a fost silit să fugă de partea cealaltă a Iordanului, din pricina răzvrătirii."
+      }
+     ]
+    },
+    {
+     "v": "2:8",
+     "t": "Iată, îi ai cu tine pe Șimi, fiul lui Ghera, beniamitul, din Bahurim. El m-a blestemat cu blestem aspru în ziua în care am mers la Mahanaim, dar a coborât să mă întâmpine la Iordan și i-am jurat pe DOMNUL, spunând: «Nu te voi omorî cu sabia.»",
+     "heb": "וְהִנֵּה עִמְּךָ שִׁמְעִי בֶן־גֵּרָא בֶן־הַיְמִינִי מִבַּחֻרִים וְהוּא קִלְלַנִי קְלָלָה נִמְרֶצֶת בְּיוֹם לֶכְתִּי מַחֲנָיִם וְהוּא־יָרַד לִקְרָאתִי הַיַּרְדֵּן וָאֶשָּׁבַע לוֹ בַיהוָה לֵאמֹר אִם־אֲמִיתְךָ בֶּחָרֶב",
+     "translit": "Vehinē imeha Şimi ven-Ghēra ven-haIemini mi'Bahurim vehu kilelani kelala nimretzet beiom lehti Mahanaim vehu-iarad likrati haIardēn vaeşava lo b'ADONAI lēmor im-amitha beherev.",
+     "tokens": [
+      {
+       "t": "Iată, "
+      },
+      {
+       "t": "îi ai cu tine pe Șimi, fiul lui Ghera, beniamitul, din Bahurim",
+       "w": "îi ai cu tine pe Șimi, fiul lui Ghera, beniamitul, din Bahurim",
+       "heb": "וְהִנֵּה עִמְּךָ שִׁמְעִי בֶן־גֵּרָא בֶן־הַיְמִינִי מִבַּחֻרִים",
+       "translit": "vehinē imeha Şimi ven-Ghēra ven-haIemini mi'Bahurim",
+       "strong": "H8096",
+       "pos": "interjecție + substantiv + substantiv propriu + substantiv propriu + substantiv + substantiv propriu",
+       "def_ro": "și iată, cu tine e Șimi, fiul lui Ghera, fiul beniamitului, din Bahurim."
+      },
+      {
+       "t": ". El m-a blestemat cu blestem aspru",
+       "w": "El m-a blestemat cu blestem aspru",
+       "heb": "וְהוּא קִלְלַנִי קְלָלָה נִמְרֶצֶת",
+       "translit": "vehu kilelani kelala nimretzet",
+       "strong": "H7043",
+       "pos": "pronume + verb + substantiv + adjectiv",
+       "def_ro": "și el m-a blestemat cu blestem aspru.",
+       "dict_ro": "Rashi glosează נִמְרֶצֶת ca „lămurit/precis”, citând paralele din Iov (16:3, 6:25) pentru aceeași rădăcină; Metzudat Țion oferă o glosă apropiată, „puternic”, citând Mica 2:10. O tradiție rabinică ulterioară (Talmud, Șabat 105a, citată în josul comentariilor) leagă acest cuvânt de un acronim al celor cinci acuzații pe care Șimi le-a adus lui David — adulter, moabit, ucigaș, asupritor, urâciune — deși acest detaliu nu apare explicit în textul disponibil aici."
+      },
+      {
+       "t": " în ziua în care am mers la Mahanaim",
+       "w": "în ziua în care am mers la Mahanaim",
+       "heb": "בְּיוֹם לֶכְתִּי מַחֲנָיִם",
+       "translit": "beiom lehti Mahanaim",
+       "strong": "H4266",
+       "pos": "substantiv + verb + substantiv propriu",
+       "def_ro": "în ziua mergerii mele la Mahanaim."
+      },
+      {
+       "t": ", dar a coborât să mă întâmpine la Iordan",
+       "w": "dar a coborât să mă întâmpine la Iordan",
+       "heb": "וְהוּא־יָרַד לִקְרָאתִי הַיַּרְדֵּן",
+       "translit": "vehu-iarad likrati haIardēn",
+       "strong": "H3381",
+       "pos": "pronume + verb + verb + substantiv propriu",
+       "def_ro": "și el a coborât în întâmpinarea mea la Iordan."
+      },
+      {
+       "t": " și i-am jurat pe DOMNUL, spunând: «"
+      },
+      {
+       "t": "Nu te voi omorî cu sabia.»",
+       "w": "Nu te voi omorî cu sabia.",
+       "heb": "וָאֶשָּׁבַע לוֹ בַיהוָה לֵאמֹר אִם־אֲמִיתְךָ בֶּחָרֶב",
+       "translit": "vaeşava lo b'ADONAI lēmor im-amitha beherev",
+       "strong": "H7650",
+       "pos": "verb + substantiv propriu + verb + negație + verb + substantiv",
+       "def_ro": "și i-am jurat pe DOMNUL, spunând: nu te voi ucide cu sabia."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהִנֵּה עִמְּךָ שִׁמְעִי בֶן־גֵּרָא בֶן־הַיְמִינִי מִבַּחֻרִים וְהוּא קִלְלַנִי קְלָלָה נִמְרֶצֶת בְּיוֹם לֶכְתִּי מַחֲנָיִם וְהוּא־יָרַד לִקְרָאתִי הַיַּרְדֵּן וָאֶשָּׁבַע לוֹ בַיהוָה לֵאמֹר אִם־אֲמִיתְךָ בֶּחָרֶב",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "David reamintește exact jurământul lui personal (2 Samuel 19:23), a cărui literă rămâne neîncălcată chiar și în pasajul următor — o distincție juridică fină pe care versetul 9 o exploatează explicit."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ· καὶ αὐτὸς κατηράσατό με κατάραν ὀδυνηρὰν τῇ ἡμέρᾳ ᾗ ἐπορευόμην εἰς παρεμβολάς, καὶ αὐτὸς κατέβη εἰς ἀπαντήν μου εἰς τὸν Ἰορδάνην, καὶ ὤμοσα αὐτῷ ἐν Κυρίῳ λέγων Εἰ θανατώσω σε ἐν ῥομφαίᾳ.",
+       "greek": true,
+       "translation": "„Și iată, cu tine e Semeei, fiul lui Ghira, fiul Iemineiului, din Baathurim; și el m-a blestemat cu blestem dureros în ziua în care mergeam spre tabere, și el a coborât în întâmpinarea mea la Iordan, și i-am jurat pe Domnul, zicând: de te voi ucide cu sabia.”",
+       "note": "LXX redă „Mahanaim” (nume propriu de loc) prin „tabere” (εἰς παρεμβολάς, tradus generic) — o divergență de citire a numelui geografic ca substantiv comun."
+      }
+     ],
+     "refs": [
+      "2 Samuel 16:5-13",
+      "2 Samuel 19:16-23"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Blestem aspru” — lămurit, ca în «ce te va lămuri» (Iov 16:3); «și cât de lămurite [sunt cuvintele drepte]» (Iov 6:25), la fel ca «nimletzu» [o formă apropiată]."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Cu tine” — vrea să spună: prietenul tău, care șade mereu cu tine, iar Înțelepții noștri, binecuvântată fie-le amintirea, au spus că-l învăța Tora. „În ziua mergerii mele la Mahanaim” — căci atunci când a fugit dinaintea lui Avșalom, a mers până la Mahanaim, și a șezut acolo până s-a întors la Ierusalim. „Și el a coborât” — ca să mă îmbuneze, și atunci i-am jurat să nu-l ucid, și de aceea eu însumi nu-mi pot lua răzbunarea asupra lui."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„M-a blestemat” — o expresie de ușurătate și disprețuire. „Aspru” — puternic, ca în «și legătura tare/puternică» (Mica 2:10)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și iată, tu îl ai cu tine pe Șimi, fiul lui Ghera, un beniamit din Bahurim — despre el, și despre locul lui de baștină, vezi la 2 Samuel 16:5; era acum la Ierusalim, și astfel cu Solomon, sau la îndemână; și era de partea lui, și de partida lui; dar nu era de încredere, nici de privit ca un prieten adevărat: care m-a blestemat cu blestem aspru, când am mers la Mahanaim — un loc de dincolo de Iordan, despre care loc, și despre blestemele pe care omul acesta le-a aruncat asupra lui David, vezi 2 Samuel 16:7."
+      }
+     ]
+    },
+    {
+     "v": "2:9",
+     "t": "Însă acum, să nu-l socotești nevinovat, căci ești om înțelept și vei ști ce să-i faci, coborându-i perii albi, cu sânge, în sălașul morților.",
+     "heb": "וְעַתָּה אַל־תְּנַקֵּהוּ כִּי אִישׁ חָכָם אַתָּה וְיָדַעְתָּ אֵת אֲשֶׁר תַּעֲשֶׂה־לּוֹ וְהוֹרַדְתָּ אֶת־שֵׂיבָתוֹ בְּדָם שְׁאוֹל",
+     "translit": "Veata al-tenakēhu ki iş hahom ata veiadata ēt aşer taasē-lo vehoradta et-sēivato bedam şeol.",
+     "tokens": [
+      {
+       "t": "Însă acum, "
+      },
+      {
+       "t": "să nu-l socotești nevinovat",
+       "w": "să nu-l socotești nevinovat",
+       "heb": "אַל־תְּנַקֵּהוּ",
+       "translit": "al-tenakēhu",
+       "strong": "H5352",
+       "pos": "negație + verb",
+       "def_ro": "nu-l socoti nevinovat."
+      },
+      {
+       "t": ", căci ești om înțelept și vei ști ce să-i faci",
+       "w": "căci ești om înțelept și vei ști ce să-i faci",
+       "heb": "כִּי אִישׁ חָכָם אַתָּה וְיָדַעְתָּ אֵת אֲשֶׁר תַּעֲשֶׂה־לּוֹ",
+       "translit": "ki iş hahom ata veiadata ēt aşer taasē-lo",
+       "strong": "H2450",
+       "pos": "conjuncție + substantiv + adjectiv + pronume + verb + pronume relativ + verb",
+       "def_ro": "căci om înțelept ești tu, și vei ști ce să-i faci."
+      },
+      {
+       "t": ", coborându-i "
+      },
+      {
+       "t": "perii albi, cu sânge, în sălașul morților",
+       "w": "perii albi, cu sânge, în sălașul morților",
+       "heb": "וְהוֹרַדְתָּ אֶת־שֵׂיבָתוֹ בְּדָם שְׁאוֹל",
+       "translit": "vehoradta et-sēivato bedam şeol",
+       "strong": "H1818",
+       "pos": "verb + substantiv + substantiv + substantiv",
+       "def_ro": "și coboară-i cărunteța lui, cu sânge, la Locuința Morților.",
+       "dict_ro": "Rashi identifică precis natura instrucțiunii: „pune-ți la inimă să găsești pentru el o vină de moarte, dintr-o altă pricină [decât jurământul încălcat] — aceasta e ce înseamnă «vei ști ce să-i faci»” — soluția juridică oferită e una de precizie: jurământul lui David privea strict fapta de la Bahurim, nu orice altă vină viitoare; Solomon rămâne astfel liber să-l judece pe Șimi pentru o nouă abatere, fără a încălca litera jurământului tatălui său (episod narat ulterior la 1 Regi 2:36-46)."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַתָּה אַל־תְּנַקֵּהוּ כִּי אִישׁ חָכָם אַתָּה וְיָדַעְתָּ אֵת אֲשֶׁר תַּעֲשֶׂה־לּוֹ וְהוֹרַדְתָּ אֶת־שֵׂיבָתוֹ בְּדָם שְׁאוֹל",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Formula finală „coborându-i perii albi... în sălașul morților” reia aproape identic formula folosită la v. 6 despre Ioav — o simetrie literară deliberată a testamentului, aplicată la doi vinovați diferiți, dar cu proceduri distincte (una directă, alta condiționată de o nouă faptă)."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ οὐ μὴ ἀθῳώσῃς αὐτόν, ὅτι ἀνὴρ σοφὸς εἶ σύ, καὶ γνώσῃ ἃ ποιήσεις αὐτῷ· καὶ κατάξεις τὴν πολιὰν αὐτοῦ ἐν αἵματι εἰς ᾅδου.",
+       "greek": true,
+       "translation": "„Și nicidecum să nu-l socotești fără vină, căci tu ești om înțelept, și vei ști ce-i vei face; și-i vei coborî cărunteța lui cu sânge la locuința morților.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "1 Regi 2:36-46"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Căci om înțelept ești tu” — pune-ți la inimă să găsești pentru el o vină de moarte dintr-o altă pricină; și aceasta e ce înseamnă: «și vei ști ce să-i faci»."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și acum” — de vreme ce tu vei domni în locul meu, nu-l socoti nevinovat de fărădelegea aceasta, fără să-i plătești răsplata cuvenită. „Căci om înțelept ești tu” — și vei putea găsi prilejul, ce să-i faci. „Cărunteța lui” — vrea să spună: nu te teme să-i cinstești fața din pricina cărunteții lui. „Cu sânge, la Locuința Morților” — vrea să spună: nu-l lăsa să moară pe patul lui, ci să i se verse sângele prin sabie."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Acum deci, nu-l socoti nevinovat — nu-l privi ca pe o persoană nevinovată; și dacă săvârșește o fărădelege împotriva ta, cum a făcut împotriva mea, nu-l ierta cum am făcut eu: căci ești om înțelept — se pare deci că era, încă înainte de arătarea DOMNULUI la Ghivon, chiar înainte de moartea tatălui lui, dovedise unele semne ale acesteia chiar lui David: și știi ce trebuie să-i faci — să-l urmărești și să-l observi, iar, dacă e găsit greșind, să-l pedepsești după rânduielile dreptății și legile țării."
+      }
+     ]
+    },
+    {
+     "v": "2:10",
+     "t": "Și David s-a culcat alături de strămoșii lui și a fost înmormântat în cetatea lui David.",
+     "heb": "וַיִּשְׁכַּב דָּוִד עִם־אֲבֹתָיו וַיִּקָּבֵר בְּעִיר דָּוִד",
+     "translit": "Vaişkav David im-avotav vaikavēr beir David.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "David s-a culcat alături de strămoșii lui",
+       "w": "David s-a culcat alături de strămoșii lui",
+       "heb": "וַיִּשְׁכַּב דָּוִד עִם־אֲבֹתָיו",
+       "translit": "vaişkav David im-avotav",
+       "strong": "H7901",
+       "pos": "verb + substantiv propriu + substantiv",
+       "def_ro": "și s-a culcat David cu strămoșii lui."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "a fost înmormântat în cetatea lui David",
+       "w": "a fost înmormântat în cetatea lui David",
+       "heb": "וַיִּקָּבֵר בְּעִיר דָּוִד",
+       "translit": "vaikavēr beir David",
+       "strong": "H6912",
+       "pos": "verb + substantiv + substantiv propriu",
+       "def_ro": "și a fost îngropat în cetatea lui David.",
+       "dict_ro": "Metzudat David identifică precis „cetatea lui David” cu Țion — o precizare geografică simplă, dar necesară pentru cititorul ulterior, care ar fi putut confunda locul cu Betleemul, orașul natal al lui David. John Gill adaugă o notă cronologică: potrivit tradiției rabinice citate de el, David ar fi murit de Șavuot, iar potrivit episcopului Ussher, în anul 1014 î.Hr."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשְׁכַּב דָּוִד עִם־אֲבֹתָיו וַיִּקָּבֵר בְּעִיר דָּוִד",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset de tranziție, care încheie viața lui David și deschide relatarea domniei depline a lui Solomon."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐκοιμήθη Δαυεὶδ μετὰ τῶν πατέρων αὐτοῦ, καὶ ἐτάφη ἐν πόλει Δαυείδ.",
+       "greek": true,
+       "translation": "„Și a adormit David cu părinții lui, și a fost îngropat în cetatea lui David.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "2 Samuel 5:7",
+      "Faptele Apostolilor 2:29"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„În cetatea lui David” — aceasta e Țion."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Așa s-a culcat David cu strămoșii lui — a murit, cum au murit înaintașii lui de dinainte; căci, îngropat cu ei, n-a fost; și de aceea nu se poate înțelege că ar fi zăcut cu ei în mormânt, ci în starea morților; a murit, spun evreii, în ziua Cincizecimii, iar potrivit episcopului Ussher, în anul lumii 2990, și înainte de Hristos 1014: și a fost îngropat în cetatea lui David — nu la Betleem, în mormântul lui Iese, care era un om de rând; ci, fiind rege, în propria lui cetate, cetățuia Țion, pe care o luase de la iebusiți, și care de atunci a fost numită după numele lui, 2 Samuel 5:7; iar mormântul lui a rămas până în vremea apostolilor."
+      }
+     ]
+    },
+    {
+     "v": "2:11",
+     "t": "Și zilele pe care le-a domnit David peste Israel au fost patruzeci de ani: la Hebron a domnit șapte ani, iar la Ierusalim a domnit treizeci și trei de ani.",
+     "heb": "וְהַיָּמִים אֲשֶׁר מָלַךְ דָּוִד עַל־יִשְׂרָאֵל אַרְבָּעִים שָׁנָה בְּחֶבְרוֹן מָלַךְ שֶׁבַע שָׁנִים וּבִירוּשָׁלִַם מָלַךְ שְׁלֹשִׁים וְשָׁלֹשׁ שָׁנִים",
+     "translit": "Vehaiamim aşer maleh David al-Israēl arbaim şana beHevron maleh şeva şanim uvi'Iruşalaim maleh şeloşim veşaloş şanim.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "zilele pe care le-a domnit David peste Israel au fost patruzeci de ani",
+       "w": "zilele pe care le-a domnit David peste Israel au fost patruzeci de ani",
+       "heb": "וְהַיָּמִים אֲשֶׁר מָלַךְ דָּוִד עַל־יִשְׂרָאֵל אַרְבָּעִים שָׁנָה",
+       "translit": "vehaiamim aşer maleh David al-Israēl arbaim şana",
+       "strong": "H4427",
+       "pos": "substantiv + pronume relativ + verb + substantiv propriu + substantiv + numeral + substantiv",
+       "def_ro": "și zilele pe care a domnit David peste Israel, patruzeci de ani.",
+       "dict_ro": "Metzudat David observă o precizare aritmetică: „în 2 Samuel se spune și șase luni, dar aici nu s-a îngrijit să le numere, pentru că a fost urmărit de Avșalom șase luni corespunzătoare lor” — numărul rotund de patruzeci de ani (7+33) omite cele șase luni suplimentare menționate în 2 Samuel 5:5, nu ca eroare, ci ca simplificare cronologică deliberată, compensată de coincidența cu perioada de fugă dinaintea lui Avșalom."
+      },
+      {
+       "t": ": la Hebron a domnit șapte ani",
+       "w": "la Hebron a domnit șapte ani",
+       "heb": "בְּחֶבְרוֹן מָלַךְ שֶׁבַע שָׁנִים",
+       "translit": "beHevron maleh şeva şanim",
+       "strong": "H2275",
+       "pos": "substantiv propriu + verb + numeral + substantiv",
+       "def_ro": "la Hebron a domnit șapte ani."
+      },
+      {
+       "t": ", iar la Ierusalim a domnit treizeci și trei de ani",
+       "w": "iar la Ierusalim a domnit treizeci și trei de ani",
+       "heb": "וּבִירוּשָׁלִַם מָלַךְ שְׁלֹשִׁים וְשָׁלֹשׁ שָׁנִים",
+       "translit": "uvi'Iruşalaim maleh şeloşim veşaloş şanim",
+       "strong": "H3389",
+       "pos": "substantiv propriu + verb + numeral + numeral + substantiv",
+       "def_ro": "și la Ierusalim a domnit treizeci și trei de ani."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהַיָּמִים אֲשֶׁר מָלַךְ דָּוִד עַל־יִשְׂרָאֵל אַרְבָּעִים שָׁנָה בְּחֶבְרוֹן מָלַךְ שֶׁבַע שָׁנִים וּבִירוּשָׁלִַם מָלַךְ שְׁלֹשִׁים וְשָׁלֹשׁ שָׁנִים",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Cifra rotundă „patruzeci de ani” corespunde exact sumei 7+33, deși 2 Samuel 5:5 adaugă explicit „șase luni” la perioada de la Hebron — o omisiune minoră, explicată de Metzudat David ca simplificare intenționată."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη· ἐν Χεβρὼν ἐβασίλευσεν ἔτη ἑπτά, καὶ ἐν Ἰερουσαλὴμ τριάκοντα τρία ἔτη.",
+       "greek": true,
+       "translation": "„Și zilele pe care a domnit David peste Israel, patruzeci de ani; la Hebron a domnit șapte ani, și la Ierusalim treizeci și trei de ani.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "2 Samuel 5:4-5"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Șapte ani” — iar în [cartea] Samuel se spune și șase luni, dar aici nu s-a îngrijit să le numere, pentru că a fost urmărit de Avșalom șase luni corespunzătoare lor."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și zilele pe care David a domnit peste Israel au fost patruzeci de ani — așa spune Eupolemus, un scriitor păgân, socotite astfel: șapte ani a domnit la Hebron — cele șase luni în plus sunt omise, 2 Samuel 5:5; această parte a domniei lui a fost doar peste Iuda: și treizeci și trei de ani a domnit la Ierusalim — peste cele douăsprezece triburi, în total patruzeci, care e doar un număr rotund dat; deși de fapt a domnit cu șase luni mai mult."
+      }
+     ]
+    },
+    {
+     "v": "2:12",
+     "t": "Și Solomon s-a așezat pe tronul tatălui său David, și domnia lui s-a întărit mult.",
+     "heb": "וּשְׁלֹמֹה יָשַׁב עַל־כִּסֵּא דָּוִד אָבִיו וַתִּכֹּן מַלְכֻתוֹ מְאֹד",
+     "translit": "U'Şlomo iaşav al-kisē David aviv vatikon malhuto meod.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "Solomon s-a așezat pe tronul tatălui său David",
+       "w": "Solomon s-a așezat pe tronul tatălui său David",
+       "heb": "וּשְׁלֹמֹה יָשַׁב עַל־כִּסֵּא דָּוִד אָבִיו",
+       "translit": "u'Şlomo iaşav al-kisē David aviv",
+       "strong": "H3427",
+       "pos": "substantiv propriu + verb + substantiv + substantiv propriu + substantiv",
+       "def_ro": "și Solomon a șezut pe tronul lui David, tatăl lui."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "domnia lui s-a întărit mult",
+       "w": "domnia lui s-a întărit mult",
+       "heb": "וַתִּכֹּן מַלְכֻתוֹ מְאֹד",
+       "translit": "vatikon malhuto meod",
+       "strong": "H3559",
+       "pos": "verb + substantiv + adverb",
+       "def_ro": "și s-a întărit domnia lui foarte mult.",
+       "dict_ro": "Rashi propune o lectură care extinde semnificativ sfera acestei întăriri: „[a fost întărită] și peste cele de sus” — potrivit acestei tradiții, autoritatea lui Solomon nu s-a limitat la domeniul pământesc, ci a cuprins și făpturile cerești, o aluzie la tradițiile ulterioare despre stăpânirea lui Solomon peste duhuri. Metzudat David oferă contrastul istoric mai concret: „nu ca tatăl lui, care era uneori urmărit în vremea domniei lui, de Avșalom și de Șeba ben Bihri, căci domnia lui [a lui Solomon] era foarte întărită”."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּשְׁלֹמֹה יָשַׁב עַל־כִּסֵּא דָּוִד אָבִיו וַתִּכֹּן מַלְכֻתוֹ מְאֹד",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset final al Haftaratei Vaiehi — marchează încheierea deplină și necontestată a tranziției de la David la Solomon, pregătind terenul pentru episoadele următoare din capitolul 2 (nemenționate în Haftara), în care Solomon își consolidează domnia."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ, καὶ ἡτοιμάσθη ἡ βασιλεία αὐτοῦ σφόδρα.",
+       "greek": true,
+       "translation": "„Și Solomon a șezut pe tronul lui David, tatăl lui, și s-a pregătit/întemeiat domnia lui foarte mult.”",
+       "note": "LXX redă „s-a întărit” prin „s-a pregătit/întemeiat” (ἡτοιμάσθη) — o nuanță diferită, orientată spre stabilirea inițială a domniei, nu doar spre consolidarea ei ulterioară."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și s-a întărit domnia lui foarte mult” — [a fost întărită] și peste cele de sus."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„S-a întărit domnia lui” — nu ca tatăl lui, care era uneori urmărit în vremea domniei lui, de Avșalom și de Șeba ben Bihri, căci domnia lui era foarte întărită."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Atunci Solomon a șezut pe tronul lui David, tatăl lui — așa a făcut și în timpul vieții lui, cu învoirea lui, și din porunca lui, iar acum prin înțelegerea întregului popor: și domnia lui s-a întărit foarte mult — toți supunându-se ei, și niciunul nemaiîmpotrivindu-se."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Atunci Solomon a șezut pe tronul lui David, tatăl lui” — urcarea lui la demnitatea regală s-a făcut sub cele mai fericite auspicii. Fiind născut după ce tatăl lui devenise monarh peste tot regatul, dreptul lui, potrivit noțiunilor popoarelor răsăritene, era de preferat celui al tuturor, chiar și al fraților lui mai mari. Regatul evreiesc se bucura de propășire lăuntrică; era respectat și vestit în afară, iar Solomon știa bine cum să sporească aceste foloase."
       }
      ]
     }
