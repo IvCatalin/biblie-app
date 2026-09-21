@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "9 capitole (din 54+2 planificate) · 9 complete la Standardul Davar",
+ "meta": "10 capitole (din 54+2 planificate) · 10 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -27400,6 +27400,1105 @@
       {
        "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
        "text": "Așa cum atunci când «leul rage» (compară Amos 1:2; 3:4), nimeni nu se poate abține să nu se teamă, tot așa, când Iehova comunică mesajul Lui înfricoșător, profetul nu poate să nu profețească. Nu-mi găsiți vină pentru că profețesc; trebuie să ascult de Dumnezeu. Într-un sens mai larg, e adevărat despre toți credincioșii (Faptele Apostolilor 4:20; 5:29)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "num": 10,
+   "title": "Haftarat Mikeț",
+   "ref": "1 Regi 3:15-4:1",
+   "intro": "Haftara pentru parașat Mikeț — la fel ca pericopa asociată, are ca laitmotiv visul unui rege: în pericopă, Faraonul Egiptului, iar în haftara, regele Solomon. Înzestrat de Dumnezeu, după propria dorință, cu o înțelepciune ieșită din comun, regele Solomon este surprins aici în postura de judecător, într-un episod biblic celebru: împărțirea echitabilă a unui copil revendicat de două femei. Noțiunile de „drept” și „bine”, indispensabile oricărui sistem juridic și social, sunt aduse aici în prim-plan, oferind o imagine a justiției umane încercând să o emuleze pe cea divină.",
+   "verses": [
+    {
+     "v": "3:15",
+     "t": "Solomon s-a trezit și iată, fusese un vis! A venit în Ierusalim și a stat înaintea Chivotului Legământului Stăpânului și a adus arderi-de-tot și a făcut jertfe de pace și a făcut ospăț pentru toți slujitorii lui.",
+     "heb": "וַיִּקַץ שְׁלֹמֹה וְהִנֵּה חֲלוֹם וַיָּבוֹא יְרוּשָׁלִַם וַיַּעֲמֹד לִפְנֵי אֲרוֹן בְּרִית־אֲדֹנָי וַיַּעַל עֹלוֹת וַיַּעַשׂ שְׁלָמִים וַיַּעַשׂ מִשְׁתֶּה לְכָל־עֲבָדָיו",
+     "translit": "Vaikatz Şlomo vehinē halom vaiavo Ieruşalaim vaiaamod lifnēi aron berit-Adonai vaiaal olot vaiaas şelamim vaiaas miştē lehol-avadav.",
+     "tokens": [
+      {
+       "t": "Solomon s-a "
+      },
+      {
+       "t": "trezit și iată, fusese un vis!",
+       "w": "trezit și iată, fusese un vis!",
+       "heb": "וַיִּקַץ שְׁלֹמֹה וְהִנֵּה חֲלוֹם",
+       "translit": "vaikatz Şlomo vehinē halom",
+       "strong": "H3364",
+       "pos": "verb + substantiv propriu + interjecție + substantiv",
+       "def_ro": "și s-a trezit Solomon, și iată, [fusese] vis.",
+       "dict_ro": "Rashi observă implicația trezirii: Solomon nu doar a înțeles că a avut un vis, ci a înțeles imediat că visul fusese adevărat — dovada concretă fiind că, trezit, auzea o pasăre ciripind și-i înțelegea limbajul, un câine lătrând și-i înțelegea limbajul. Metzudat David confirmă aceeași structură logică: „când s-a trezit, a știut că era vis, dar în vis i s-a părut că lucrurile se petreceau în stare de veghe”."
+      },
+      {
+       "t": " A venit în Ierusalim și a stat înaintea Chivotului Legământului Stăpânului",
+       "w": "A venit în Ierusalim și a stat înaintea Chivotului Legământului Stăpânului",
+       "heb": "וַיָּבוֹא יְרוּשָׁלִַם וַיַּעֲמֹד לִפְנֵי אֲרוֹן בְּרִית־אֲדֹנָי",
+       "translit": "vaiavo Ieruşalaim vaiaamod lifnēi aron berit-Adonai",
+       "strong": "H727",
+       "pos": "verb + substantiv propriu + verb + substantiv compus",
+       "def_ro": "și a venit la Ierusalim și a stat înaintea chivotului legământului Stăpânului."
+      },
+      {
+       "t": " și a adus "
+      },
+      {
+       "t": "arderi-de-tot și a făcut jertfe de pace",
+       "w": "arderi-de-tot și a făcut jertfe de pace",
+       "heb": "וַיַּעַל עֹלוֹת וַיַּעַשׂ שְׁלָמִים",
+       "translit": "vaiaal olot vaiaas şelamim",
+       "strong": "H5930",
+       "pos": "verb + substantiv + verb + substantiv",
+       "def_ro": "și a suit arderi de tot și a făcut jertfe de pace."
+      },
+      {
+       "t": " și a făcut "
+      },
+      {
+       "t": "ospăț pentru toți slujitorii lui",
+       "w": "ospăț pentru toți slujitorii lui",
+       "heb": "וַיַּעַשׂ מִשְׁתֶּה לְכָל־עֲבָדָיו",
+       "translit": "vaiaas miştē lehol-avadav",
+       "strong": "H4960",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și a făcut ospăț pentru toți slujitorii lui.",
+       "dict_ro": "Rashi leagă acest ospăț direct de bucuria descoperirii că visul e adevărat: „din bucuria inimii lui, fiindcă a înțeles că visul lui era adevărat” — o notă rabinică (citată în Cântarea Cântărilor Rabbah 1:9) atribuie chiar acestui verset originea obiceiului evreiesc de a face masă festivă (siyum) la încheierea studierii unui tratat din Tora."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּקַץ שְׁלֹמֹה וְהִנֵּה חֲלוֹם וַיָּבוֹא יְרוּשָׁלִַם וַיַּעֲמֹד לִפְנֵי אֲרוֹן בְּרִית־אֲדֹנָי וַיַּעַל עֹלוֹת וַיַּעַשׂ שְׁלָמִים וַיַּעַשׂ מִשְׁתֶּה לְכָל־עֲבָדָיו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Acest verset marchează trecerea de la visul de la Ghivon (unde Dumnezeu i-a oferit lui Solomon să ceară orice, iar el a cerut înțelepciune) la episodul concret care urmează — prima demonstrație publică a acelei înțelepciuni."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐξυπνίσθη Σαλωμών, καὶ ἰδοὺ ἐνύπνιον· καὶ ἀνέστη καὶ παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον τοῦ θυσιαστηρίου τοῦ κατὰ πρόσωπον κιβωτοῦ διαθήκης Κυρίου ἐν Σειών, καὶ ἀνήγαγεν ὁλοκαυτώσεις καὶ ἐποίησεν εἰρηνικάς, καὶ ἐποίησεν πότον μέγαν ἑαυτῷ καὶ πᾶσιν τοῖς παισὶν ἑαυτοῦ.",
+       "greek": true,
+       "translation": "„Și s-a trezit Solomon, și iată, vis! Și s-a sculat și a venit la Ierusalim, și a stat înaintea altarului dinaintea chivotului legământului Domnului în Sion, și a adus arderi de tot și a făcut jertfe de pace, și a făcut un ospăț mare pentru sine și pentru toți slujitorii lui.”",
+       "note": "LXX precizează explicit „înaintea altarului” (κατὰ πρόσωπον τοῦ θυσιαστηρίου) și amplasarea „în Sion”, detalii absente din formularea mai concisă a TM — o extindere reală, nu doar o nuanță de traducere."
+      }
+     ],
+     "refs": [
+      "1 Regi 3:5-14",
+      "Cântarea Cântărilor Rabbah 1:9"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Solomon s-a trezit și iată, [fusese] vis” — și iată, a înțeles că visul lui era adevărat. Auzea o pasăre ciripind și-i înțelegea limbajul, un câine lătrând și-i înțelegea limbajul. „Și a făcut ospăț” — din bucuria inimii lui, fiindcă a înțeles că visul lui era adevărat."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și s-a trezit etc.” — când s-a trezit, a știut că era vis, dar în vis i s-a părut că lucrurile se petreceau în stare de veghe."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și Solomon s-a trezit, și iată, era un vis — nu că n-ar fi fost decât un vis, unul natural, deșert și gol, ci unul divin și supranatural, un vis de profeție, cum îl numesc evreii, sau un vis profetic; unul adevărat, care și-a avut împlinirea deplină în el, al cărui adevăr l-a priceput imediat ce s-a trezit; căci s-a găsit pe sine stăpânind o măsură de înțelepciune și cunoștință pe care n-o avusese niciodată înainte, ceea ce a prilejuit mulțumirea și bucuria ce urmează."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Iată, era un vis” — impresia vie, amintirea neștearsă a acestui vis, împreună cu energia nouă și sporită comunicată minții lui, și cu revărsarea de propășire lumească ce s-a năpustit asupra lui, i-au dat lui Solomon încredințarea că venise prin insuflare divină și își avea izvorul în harul lui Dumnezeu."
+      }
+     ]
+    },
+    {
+     "v": "3:16",
+     "t": "Apoi, două femei prostituate au venit la rege și au stat înaintea lui.",
+     "heb": "אָז תָּבֹאנָה שְׁתַּיִם נָשִׁים זֹנוֹת אֶל־הַמֶּלֶךְ וַתַּעֲמֹדְנָה לְפָנָיו",
+     "translit": "Az tavona şetaim naşim zonot el-hameleh vataamodna lefanav.",
+     "tokens": [
+      {
+       "t": "Apoi, "
+      },
+      {
+       "t": "două femei prostituate au venit la rege",
+       "w": "două femei prostituate au venit la rege",
+       "heb": "אָז תָּבֹאנָה שְׁתַּיִם נָשִׁים זֹנוֹת אֶל־הַמֶּלֶךְ",
+       "translit": "az tavona şetaim naşim zonot el-hameleh",
+       "strong": "H2181",
+       "pos": "adverb + verb + numeral + substantiv + substantiv + substantiv",
+       "def_ro": "atunci au venit două femei curve la rege.",
+       "dict_ro": "Adam Clarke discută o divergență de identificare notabilă: cuvântul ebraic זֹנוֹת (zonot), tradus tradițional „prostituate”, e redat de Targumul aramaic prin פּוּנְדְּקָיָן (pundekaian), „hangițe/proprietare de han” — Clarke argumentează că, dacă ar fi fost prostituate propriu-zise, nu ar fi fost probabil admise înaintea regelui, iar femeile obișnuite din acea meserie nu ar fi fost de obicei mame; discuția rămâne deschisă în tradiția exegetică, fără consens ferm."
+      },
+      {
+       "t": " și au stat înaintea lui",
+       "w": "și au stat înaintea lui",
+       "heb": "וַתַּעֲמֹדְנָה לְפָנָיו",
+       "translit": "vataamodna lefanav",
+       "strong": "H5975",
+       "pos": "verb + substantiv",
+       "def_ro": "și au stat înaintea lui."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אָז תָּבֹאנָה שְׁתַּיִם נָשִׁים זֹנוֹת אֶל־הַמֶּלֶךְ וַתַּעֲמֹדְנָה לְפָנָיו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Identificarea celor două femei ca „זֹנוֹת” (curve/prostituate) e reluată identic în Septuaginta (πόρναι), spre deosebire de targumul aramaic, care le identifică drept hangițe — o divergență reală în tradiția interpretativă, nu în textul consonantic ebraic însuși."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Τότε ὤφθησαν δύο γυναῖκες πόρναι τῷ βασιλεῖ καὶ ἔστησαν ἐνώπιον αὐτοῦ.",
+       "greek": true,
+       "translation": "„Atunci s-au arătat regelui două femei curve, și au stat înaintea lui.”",
+       "note": "LXX confirmă direct citirea literală „curve” (πόρναι), aceeași cu TM, spre deosebire de citirea targumică de „hangițe” menționată de Adam Clarke."
+      }
+     ],
+     "refs": [
+      "Iosua 2:1"
+     ],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Atunci au venit la rege două femei care erau curve — în aceeași zi, crede Abarbanel, în noaptea dinaintea căreia DOMNUL i Se arătase lui Solomon; aceasta s-a întâmplat prin purtarea de grijă a lui Dumnezeu, ca să fie de îndată o pildă și o dovadă a înțelepciunii și priceperii pe care DOMNUL i-o dăduse lui Solomon; aceste femei, potrivit Targumului, erau hangițe sau proprietare de han; și tot așa crede Ben Gersom, că erau vânzătoare de mâncare, ca Rahab, deși observă că e posibil să se fi și prostituat."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "„Atunci au venit două femei — curve” — cuvântul זנות zonoth, pe care-l traducem impropriu aici, și în alte locuri, „curve”, e redat de caldeeană (cel mai bun judecător în acest caz) prin פונדקין pundekayan, „hangițe”. Dacă acestea ar fi fost curve, nu e probabil că ar fi îndrăznit să se înfățișeze înaintea lui Solomon; și dacă ar fi fost femei de rând din acea meserie, nu e probabil să fi avut copii; nici nu e probabil ca asemenea persoane să fi fost îngăduite sub domnia lui David."
+      }
+     ]
+    },
+    {
+     "v": "3:17",
+     "t": "Și una dintre femei a spus: „Te rog, stăpâne, eu și femeia aceasta locuim în aceeași casă și eu am născut în timp ce eram cu ea în casă.",
+     "heb": "וַתֹּאמֶר הָאִשָּׁה הָאַחַת בִּי אֲדֹנִי אֲנִי וְהָאִשָּׁה הַזֹּאת יֹשְׁבֹת בְּבַיִת אֶחָד וָאֵלֵד עִמָּהּ בַּבָּיִת",
+     "translit": "Vatomer haişa haahat bi adoni ani vehaişa hazot ioşvot bevait ehad vaēlēd ima babait.",
+     "tokens": [
+      {
+       "t": "Și una dintre femei a spus: „Te rog, stăpâne",
+       "w": "Și una dintre femei a spus: „Te rog, stăpâne",
+       "heb": "וַתֹּאמֶר הָאִשָּׁה הָאַחַת בִּי אֲדֹנִי",
+       "translit": "vatomer haişa haahat bi adoni",
+       "strong": "H802",
+       "pos": "verb + substantiv + adjectiv + interjecție + substantiv",
+       "def_ro": "și a spus femeia cea una: te rog, stăpânul meu."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "eu și femeia aceasta locuim în aceeași casă",
+       "w": "eu și femeia aceasta locuim în aceeași casă",
+       "heb": "אֲנִי וְהָאִשָּׁה הַזֹּאת יֹשְׁבֹת בְּבַיִת אֶחָד",
+       "translit": "ani vehaişa hazot ioşvot bevait ehad",
+       "strong": "H3427",
+       "pos": "pronume + substantiv + verb + substantiv + numeral",
+       "def_ro": "eu și femeia aceasta locuim într-o casă."
+      },
+      {
+       "t": " și eu "
+      },
+      {
+       "t": "am născut în timp ce eram cu ea în casă",
+       "w": "am născut în timp ce eram cu ea în casă",
+       "heb": "וָאֵלֵד עִמָּהּ בַּבָּיִת",
+       "translit": "vaēlēd ima babait",
+       "strong": "H3205",
+       "pos": "verb + prepoziție + substantiv",
+       "def_ro": "și am născut cu ea în casă."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֹּאמֶר הָאִשָּׁה הָאַחַת בִּי אֲדֹנִי אֲנִי וְהָאִשָּׁה הַזֹּאת יֹשְׁבֹת בְּבַיִת אֶחָד וָאֵלֵד עִמָּהּ בַּבָּיִת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ἡ γυνὴ ἡ μία Ἐν ἐμοί, κύριε· ἐγὼ καὶ ἡ γυνὴ αὕτη οἰκοῦμεν ἐν οἴκῳ ἑνί, καὶ ἐτέκομεν ἐν τῷ οἴκῳ.",
+       "greek": true,
+       "translation": "„Și a spus femeia cea una: în mine, stăpâne; eu și femeia aceasta locuim într-o singură casă, și am născut în casă.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și una dintre femei a spus — cea care era reclamanta: «te rog, stăpâne, eu și femeia aceasta locuim în aceeași casă», arătând spre pârâtă, care stătea alături de ea: «și eu am născut un copil cu ea în casă» — fiind ea de față la naștere, și numai ea, pe cât se pare."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Ca dovadă că DOMNUL i-a dăruit lui Solomon o înțelepciune neobișnuită în materie de judecată, e adăugată o hotărâre a lui într-un caz foarte greu, în care Solomon a dat dovadă de o pătrundere extraordinară. Două curve, care locuiau împreună într-o casă, născuseră fiecare câte un copil, iar una dintre ele se culcase peste copilul ei noaptea, în somn."
+      }
+     ]
+    },
+    {
+     "v": "3:18",
+     "t": "Și a fost în a treia zi după ce născusem, că femeia aceasta a născut și ea. Eram împreună, nu era niciun străin cu noi în casă, numai noi două eram în casă.",
+     "heb": "וַיְהִי בַּיּוֹם הַשְּׁלִישִׁי לְלִדְתִּי וַתֵּלֶד גַּם־הָאִשָּׁה הַזֹּאת וַאֲנַחְנוּ יַחְדָּו אֵין־זָר אִתָּנוּ בַּבַּיִת זוּלָתִי שְׁתַּיִם־אֲנַחְנוּ בַּבָּיִת",
+     "translit": "Vaiehi baiom haşeliişi lelidti vatēled gam-haişa hazot vaanahnu iahdav ēin-zar itanu babait zulati şetaim-anahnu babait.",
+     "tokens": [
+      {
+       "t": "Și a fost în a treia zi după ce născusem",
+       "w": "Și a fost în a treia zi după ce născusem",
+       "heb": "וַיְהִי בַּיּוֹם הַשְּׁלִישִׁי לְלִדְתִּי",
+       "translit": "vaiehi baiom haşeliişi lelidti",
+       "strong": "H7992",
+       "pos": "verb + substantiv + numeral + verb",
+       "def_ro": "și a fost în ziua a treia de la nașterea mea."
+      },
+      {
+       "t": ", că "
+      },
+      {
+       "t": "femeia aceasta a născut și ea",
+       "w": "femeia aceasta a născut și ea",
+       "heb": "וַתֵּלֶד גַּם־הָאִשָּׁה הַזֹּאת",
+       "translit": "vatēled gam-haişa hazot",
+       "strong": "H3205",
+       "pos": "verb + adverb + substantiv",
+       "def_ro": "și a născut și femeia aceasta."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Eram împreună, nu era niciun străin cu noi în casă",
+       "w": "Eram împreună, nu era niciun străin cu noi în casă",
+       "heb": "וַאֲנַחְנוּ יַחְדָּו אֵין־זָר אִתָּנוּ בַּבַּיִת",
+       "translit": "vaanahnu iahdav ēin-zar itanu babait",
+       "strong": "H2114",
+       "pos": "pronume + adverb + adverb de negație + substantiv",
+       "def_ro": "și noi împreună, nu era străin cu noi în casă."
+      },
+      {
+       "t": ", numai "
+      },
+      {
+       "t": "noi două eram în casă",
+       "w": "noi două eram în casă",
+       "heb": "זוּלָתִי שְׁתַּיִם־אֲנַחְנוּ בַּבָּיִת",
+       "translit": "zulati şetaim-anahnu babait",
+       "strong": "H2108",
+       "pos": "prepoziție + numeral + pronume + substantiv",
+       "def_ro": "în afară [de noi], noi două eram în casă."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי בַּיּוֹם הַשְּׁלִישִׁי לְלִדְתִּי וַתֵּלֶד גַּם־הָאִשָּׁה הַזֹּאת וַאֲנַחְנוּ יַחְדָּו אֵין־זָר אִתָּנוּ בַּבַּיִת זוּלָתִי שְׁתַּיִם־אֲנַחְנוּ בַּבָּיִת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset esențial pentru cazul juridic: absența oricărui martor exterior face imposibilă dovada obișnuită, motiv pentru care Solomon va trebui să recurgă la un test psihologic, nu la mărturii."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγενήθη ἐν τῇ ἡμέρᾳ τῇ τρίτῃ τεκούσης μου καὶ ἔτεκεν καὶ ἡ γυνὴ αὕτη· καὶ ἡμεῖς κατὰ τὸ αὐτό, καὶ οὐκ ἔστιν οὐθεὶς μεθ᾽ ἡμῶν παρὲξ ἀμφοτέρων ἡμῶν ἐν τῷ οἴκῳ.",
+       "greek": true,
+       "translation": "„Și a fost, în ziua a treia de la nașterea mea, că a născut și femeia aceasta; și eram împreună, și nu era nimeni cu noi, afară de amândouă, în casă.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și a fost, în a treia zi după ce am născut — un copil, cum s-a spus mai înainte: «că femeia aceasta a născut și ea» — un alt copil; și fiind amândoi de același sex, amândoi fii, cum reiese mai departe, și fiind atât de apropiați ca vârstă, era greu să fie deosebiți; «și eram împreună; nu era niciun străin cu noi în casă, afară de noi două» — așa încât, în această judecată, nu se puteau produce mărturii de nicio parte."
+      }
+     ]
+    },
+    {
+     "v": "3:19",
+     "t": "Și copilul femeii acesteia a murit noaptea, pentru că s-a culcat peste el.",
+     "heb": "וַיָּמָת בֶּן־הָאִשָּׁה הַזֹּאת לָיְלָה אֲשֶׁר שָׁכְבָה עָלָיו",
+     "translit": "Vaiamot ben-haişa hazot laila aşer şahva alav.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "copilul femeii acesteia a murit noaptea",
+       "w": "copilul femeii acesteia a murit noaptea",
+       "heb": "וַיָּמָת בֶּן־הָאִשָּׁה הַזֹּאת לָיְלָה",
+       "translit": "vaiamot ben-haişa hazot laila",
+       "strong": "H4191",
+       "pos": "verb + substantiv + substantiv + substantiv",
+       "def_ro": "și a murit copilul femeii acesteia, noaptea."
+      },
+      {
+       "t": ", pentru că "
+      },
+      {
+       "t": "s-a culcat peste el",
+       "w": "s-a culcat peste el",
+       "heb": "אֲשֶׁר שָׁכְבָה עָלָיו",
+       "translit": "aşer şahva alav",
+       "strong": "H7901",
+       "pos": "pronume relativ + verb + prepoziție",
+       "def_ro": "pentru că s-a culcat peste el.",
+       "dict_ro": "Metzudat David observă un detaliu juridic subtil: moartea a fost cauzată prin sufocare accidentală („căci s-a culcat peste el și l-a apăsat, și a murit”), nu prin boală — dacă ar fi fost boală, femeile care vizitau lăuza ar fi putut ști ai cui era fiecare copil, ceea ce ar fi făcut disputa imposibilă; natura bruscă și nocturnă a morții e ceea ce face cazul atât de greu de dovedit."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּמָת בֶּן־הָאִשָּׁה הַזֹּאת לָיְלָה אֲשֶׁר שָׁכְבָה עָלָיו",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπέθανεν ὁ υἱὸς τῆς γυναικὸς ταύτης τὴν νύκτα, ὡς ἐπεκοιμήθη ἐπ᾽ αὐτόν·",
+       "greek": true,
+       "translation": "„Și a murit fiul femeii acesteia noaptea, fiindcă a adormit peste el.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Pentru că s-a culcat peste el” — moartea lui s-a datorat faptului că s-a culcat peste el și l-a apăsat, și a murit; căci dacă ar fi fost din pricina unei boli, femeile care veneau în vizită ar fi știut al cui fiu era."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și copilul acestei femei a murit noaptea — dacă chiar în noaptea următoare zilei în care s-a născut, nu e sigur — «pentru că s-a culcat peste el»; sau s-a întins peste el, fiind îngreunată de somn, și, neștiind ce face, s-a întors peste el și l-a sufocat; pentru că n-a avut nicio boală anterioară, nici vreun semn al unei boli de care s-ar fi putut crede că a murit, și poate erau unele semne că fusese sufocat."
+      }
+     ]
+    },
+    {
+     "v": "3:20",
+     "t": "Ea s-a sculat în timpul nopții și l-a luat pe copilul meu de lângă mine, în timp ce slujitoarea ta dormea, și l-a culcat la sânul ei; iar pe copilul mort l-a culcat la sânul meu.",
+     "heb": "וַתָּקָם בְּתוֹךְ הַלַּיְלָה וַתִּקַּח אֶת־בְּנִי מֵאֶצְלִי וַאֲמָתְךָ יְשֵׁנָה וַתַּשְׁכִּיבֵהוּ בְּחֵיקָהּ וְאֶת־בְּנָהּ הַמֵּת הִשְׁכִּיבָה בְחֵיקִי",
+     "translit": "Vatakom betoh halaila vatikah et-beni mēetzli vaamatha ieşēna vataşkivēhu behēika veet-bena hamēt hişkiva vehēiki.",
+     "tokens": [
+      {
+       "t": "Ea s-a sculat în timpul nopții",
+       "w": "Ea s-a sculat în timpul nopții",
+       "heb": "וַתָּקָם בְּתוֹךְ הַלַּיְלָה",
+       "translit": "vatakom betoh halaila",
+       "strong": "H6965",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și s-a sculat în mijlocul nopții."
+      },
+      {
+       "t": " și l-a luat pe copilul meu de lângă mine",
+       "w": "și l-a luat pe copilul meu de lângă mine",
+       "heb": "וַתִּקַּח אֶת־בְּנִי מֵאֶצְלִי",
+       "translit": "vatikah et-beni mēetzli",
+       "strong": "H3947",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și a luat pe fiul meu de lângă mine."
+      },
+      {
+       "t": ", în timp ce "
+      },
+      {
+       "t": "slujitoarea ta dormea",
+       "w": "slujitoarea ta dormea",
+       "heb": "וַאֲמָתְךָ יְשֵׁנָה",
+       "translit": "vaamatha ieşēna",
+       "strong": "H519",
+       "pos": "substantiv + adjectiv",
+       "def_ro": "și slujitoarea ta dormea."
+      },
+      {
+       "t": ", și l-a culcat la sânul ei",
+       "w": "și l-a culcat la sânul ei",
+       "heb": "וַתַּשְׁכִּיבֵהוּ בְּחֵיקָהּ",
+       "translit": "vataşkivēhu behēika",
+       "strong": "H2436",
+       "pos": "verb + substantiv",
+       "def_ro": "și l-a culcat la sânul ei."
+      },
+      {
+       "t": "; iar "
+      },
+      {
+       "t": "pe copilul mort l-a culcat la sânul meu",
+       "w": "pe copilul mort l-a culcat la sânul meu",
+       "heb": "וְאֶת־בְּנָהּ הַמֵּת הִשְׁכִּיבָה בְחֵיקִי",
+       "translit": "veet-bena hamēt hişkiva vehēiki",
+       "strong": "H4191",
+       "pos": "substantiv + adjectiv + verb + substantiv",
+       "def_ro": "și pe fiul ei cel mort l-a culcat la sânul meu."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתָּקָם בְּתוֹךְ הַלַּיְלָה וַתִּקַּח אֶת־בְּנִי מֵאֶצְלִי וַאֲמָתְךָ יְשֵׁנָה וַתַּשְׁכִּיבֵהוּ בְּחֵיקָהּ וְאֶת־בְּנָהּ הַמֵּת הִשְׁכִּיבָה בְחֵיקִי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέστη μέσης τῆς νυκτὸς καὶ ἔλαβεν τὸν υἱόν μου ἐκ τῶν ἀγκαλῶν μου καὶ ἐκοίμισεν αὐτὸν ἐν τῷ κόλπῳ αὐτῆς, καὶ τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου.",
+       "greek": true,
+       "translation": "„Și s-a sculat la miezul nopții și a luat pe fiul meu din brațele mele, și l-a culcat în sânul ei, și pe fiul ei cel mort l-a culcat în sânul meu.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset; LXX precizează „din brațele mele” (ἐκ τῶν ἀγκαλῶν μου), o nuanță de detaliu absentă din TM."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "[Vezi nota generală la v. 19 — moartea prin sufocare accidentală, nu prin boală, e ceea ce face posibilă substituirea copiilor fără martori.]"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și slujitoarea ta dormea” — vrea să spună: și n-am simțit lucrul."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și s-a sculat la miezul nopții — pricepând ce făcuse, că-și sufocase copilul, și era mort; fie de frica pedepsei pentru cei ce se dovedeau astfel neglijenți, fie din pricina rușinii, nemaipurtând grijă copilului ei, s-a folosit de următoarea șiretenie: «și a luat pe fiul meu de lângă mine, în timp ce slujitoarea ta dormea» — aceasta servea să încurce pricina, căci cum putea ea să știe ce a făcut cât timp dormea? aceasta nu putea s-o dovedească, era doar bănuială: «și l-a culcat la sânul ei, și pe copilul ei mort l-a culcat la sânul meu» — unde l-a găsit dimineața."
+      }
+     ]
+    },
+    {
+     "v": "3:21",
+     "t": "Și când m-am sculat de dimineață să-mi alăptez copilul, iată, era mort. Și când m-am uitat bine la el de dimineață, iată, nu era copilul meu, pe care îl născusem.”",
+     "heb": "וָאָקֻם בַּבֹּקֶר לְהֵינִיק אֶת־בְּנִי וְהִנֵּה־מֵת וָאֶתְבּוֹנֵן אֵלָיו בַּבֹּקֶר וְהִנֵּה לֹא־הָיָה בְנִי אֲשֶׁר יָלָדְתִּי",
+     "translit": "Vaakum baboker lehēinik et-beni vehinē-mēt vaetbonēn ēlav baboker vehinē lo-haia veni aşer ialadti.",
+     "tokens": [
+      {
+       "t": "Și când m-am sculat de dimineață să-mi alăptez copilul",
+       "w": "Și când m-am sculat de dimineață să-mi alăptez copilul",
+       "heb": "וָאָקֻם בַּבֹּקֶר לְהֵינִיק אֶת־בְּנִי",
+       "translit": "vaakum baboker lehēinik et-beni",
+       "strong": "H3243",
+       "pos": "verb + substantiv + verb + substantiv",
+       "def_ro": "și m-am sculat dimineața să alăptez pe fiul meu."
+      },
+      {
+       "t": ", iată, era mort",
+       "w": "iată, era mort",
+       "heb": "וְהִנֵּה־מֵת",
+       "translit": "vehinē-mēt",
+       "strong": "H4191",
+       "pos": "interjecție + verb",
+       "def_ro": "și iată, [era] mort."
+      },
+      {
+       "t": ". Și când "
+      },
+      {
+       "t": "m-am uitat bine la el de dimineață",
+       "w": "m-am uitat bine la el de dimineață",
+       "heb": "וָאֶתְבּוֹנֵן אֵלָיו בַּבֹּקֶר",
+       "translit": "vaetbonēn ēlav baboker",
+       "strong": "H995",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și m-am uitat bine la el dimineața.",
+       "dict_ro": "Rashi glosează אֶתְבּוֹנֵן ca „mi-am pus inima să-l privesc cu atenție” — verbul denotă o observare deliberată, minuțioasă, nu o privire în treacăt; e exact detaliul care avea să confirme cu certitudine schimbarea copilului."
+      },
+      {
+       "t": ", iată, "
+      },
+      {
+       "t": "nu era copilul meu, pe care îl născusem",
+       "w": "nu era copilul meu, pe care îl născusem",
+       "heb": "וְהִנֵּה לֹא־הָיָה בְנִי אֲשֶׁר יָלָדְתִּי",
+       "translit": "vehinē lo-haia veni aşer ialadti",
+       "strong": "H1121",
+       "pos": "interjecție + adverb de negație + substantiv + pronume relativ + verb",
+       "def_ro": "și iată, nu era fiul meu pe care-l născusem."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וָאָקֻם בַּבֹּקֶר לְהֵינִיק אֶת־בְּנִי וְהִנֵּה־מֵת וָאֶתְבּוֹנֵן אֵלָיו בַּבֹּקֶר וְהִנֵּה לֹא־הָיָה בְנִי אֲשֶׁר יָלָדְתִּי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Cu acest verset se încheie relatarea primei femei — discursul ei, început la v. 17, se închide aici cu ghilimelele deschise la „Te rog, stăpâne”."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου, καὶ ἐκεῖνος ἦν τεθνηκώς· καὶ ἰδοὺ κατενόησα αὐτὸν πρωί, καὶ ἰδοὺ οὐκ ἦν ὁ υἱός μου ὃν ἔτεκον.",
+       "greek": true,
+       "translation": "„Și m-am sculat dimineața să alăptez pe fiul meu, și acela era mort; și iată, m-am uitat bine la el dimineața, și iată, nu era fiul meu pe care-l născusem.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„M-am uitat bine la el” — mi-am pus inima să-l privesc cu atenție [și de aceea sunt sigură că nu m-am înșelat]."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și când m-am sculat dimineața să-mi alăptez copilul — cum obișnuia să facă: «iată, era mort» — copilul ei, așa cum a crezut la început; «dar când m-am uitat bine la el dimineața» — era spre dimineață, sau chiar în zorii zilei, când s-a sculat să-l alăpteze și l-a găsit mort: dar când s-a făcut ziuă deplină, iar lumina dimineții a sporit, l-a privit mai atent, și, după trăsăturile lui, sau după unele semne pe care le observase: «iată, nu era fiul meu, pe care-l născusem» — era pe deplin încredințată că nu era copilul ei, ci al celeilalte."
+      }
+     ]
+    },
+    {
+     "v": "3:22",
+     "t": "Dar cealaltă femeie a spus: „Nu-i așa! Copilul meu este cel viu și copilul ei este cel mort!” Dar prima a spus: „Nu-i așa! Copilul tău este cel mort, iar copilul meu este cel viu!” Și au continuat să vorbească în fața regelui.",
+     "heb": "וַתֹּאמֶר הָאִשָּׁה הָאַחֶרֶת לֹא כִי בְּנִי הַחַי וּבְנֵךְ הַמֵּת וְזֹאת אֹמֶרֶת לֹא כִי בְּנֵךְ הַמֵּת וּבְנִי הֶחָי וַתְּדַבֵּרְנָה לִפְנֵי הַמֶּלֶךְ",
+     "translit": "Vatomer haişa haaheret lo hi beni hahai uvenēh hamēt vezot omeret lo hi benēh hamēt uveni hehai vatedabērna lifnēi hameleh.",
+     "tokens": [
+      {
+       "t": "Dar cealaltă femeie a spus: „Nu-i așa!",
+       "w": "Dar cealaltă femeie a spus: „Nu-i așa!",
+       "heb": "וַתֹּאמֶר הָאִשָּׁה הָאַחֶרֶת לֹא כִי",
+       "translit": "vatomer haişa haaheret lo hi",
+       "strong": "H312",
+       "pos": "verb + substantiv + adjectiv + negație",
+       "def_ro": "și a spus cealaltă femeie: nu, ci."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Copilul meu este cel viu și copilul ei este cel mort!",
+       "w": "Copilul meu este cel viu și copilul ei este cel mort!",
+       "heb": "בְּנִי הַחַי וּבְנֵךְ הַמֵּת",
+       "translit": "beni hahai uvenēh hamēt",
+       "strong": "H2416",
+       "pos": "substantiv + adjectiv + substantiv + adjectiv",
+       "def_ro": "fiul meu e cel viu, și fiul tău e cel mort."
+      },
+      {
+       "t": "” Dar prima a spus: „Nu-i așa!",
+       "w": "Dar prima a spus: „Nu-i așa!",
+       "heb": "וְזֹאת אֹמֶרֶת לֹא כִי",
+       "translit": "vezot omeret lo hi",
+       "strong": "H2063",
+       "pos": "pronume + verb + negație",
+       "def_ro": "și aceasta spune: nu, ci."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Copilul tău este cel mort, iar copilul meu este cel viu!",
+       "w": "Copilul tău este cel mort, iar copilul meu este cel viu!",
+       "heb": "בְּנֵךְ הַמֵּת וּבְנִי הֶחָי",
+       "translit": "benēh hamēt uveni hehai",
+       "strong": "H4191",
+       "pos": "substantiv + adjectiv + substantiv + adjectiv",
+       "def_ro": "fiul tău e cel mort, și fiul meu e cel viu."
+      },
+      {
+       "t": "” Și au continuat să vorbească în fața regelui",
+       "w": "Și au continuat să vorbească în fața regelui",
+       "heb": "וַתְּדַבֵּרְנָה לִפְנֵי הַמֶּלֶךְ",
+       "translit": "vatedabērna lifnēi hameleh",
+       "strong": "H1696",
+       "pos": "verb + substantiv",
+       "def_ro": "și au vorbit înaintea regelui.",
+       "dict_ro": "Metzudat David observă exact impasul logic pe care-l descrie acest verset: cele două femei „se certau asupra lucrului”, repetând identic aceleași afirmații contrare, fără ca vreuna să poată aduce dovadă — situația care obligă structural la soluția neconvențională a lui Solomon, de vreme ce metodele juridice obișnuite (mărturii, probe) sunt epuizate."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֹּאמֶר הָאִשָּׁה הָאַחֶרֶת לֹא כִי בְּנִי הַחַי וּבְנֵךְ הַמֵּת וְזֹאת אֹמֶרֶת לֹא כִי בְּנֵךְ הַמֵּת וּבְנִי הֶחָי וַתְּדַבֵּרְנָה לִפְנֵי הַמֶּלֶךְ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ἡ γυνὴ ἡ ἑτέρα Οὐχί, ἀλλὰ ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς· καὶ ἐλάλησαν ἐνώπιον τοῦ βασιλέως.",
+       "greek": true,
+       "translation": "„Și a spus cealaltă femeie: Nu, ci fiul meu e cel viu, și fiul tău e cel mort; și au vorbit înaintea regelui.”",
+       "note": "LXX prezintă doar replica celei de-a doua femei explicit, apoi trece direct la „au vorbit înaintea regelui”, fără a repeta a doua replică a primei femei ca discurs direct separat — o compresie stilistică față de TM."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și au continuat să vorbească” — se certau asupra lucrului."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Dar cealaltă femeie a spus — pârâta: «nu, ci fiul meu e cel viu, și fiul tău e cel mort»; a tăgăduit ce spusese cealaltă, dar n-a adus nimic ca dovadă: «și aceasta a spus» — cea care era reclamanta a răspuns în aceleași cuvinte: «nu, ci fiul tău e cel mort, și fiul meu e cel viu» — fără să poată adăuga nimic care să întărească ceea ce depusese; «astfel au vorbit înaintea regelui» — de mai multe ori, spunând iar și iar ceea ce s-a spus mai sus, neavând nimic de adus de o parte sau de alta ca dovadă."
+      }
+     ]
+    },
+    {
+     "v": "3:23",
+     "t": "Și regele a spus: „Aceasta spune: «Acesta este copilul meu, cel viu, și copilul tău este cel mort», iar cealaltă spune: «Nu-i așa! Copilul tău este cel mort, și copilul meu este cel viu.»”",
+     "heb": "וַיֹּאמֶר הַמֶּלֶךְ זֹאת אֹמֶרֶת זֶה־בְּנִי הַחַי וּבְנֵךְ הַמֵּת וְזֹאת אֹמֶרֶת לֹא כִי בְּנֵךְ הַמֵּת וּבְנִי הֶחָי",
+     "translit": "Vaiomer hameleh zot omeret ze-beni hahai uvenēh hamēt vezot omeret lo hi benēh hamēt uveni hehai.",
+     "tokens": [
+      {
+       "t": "Și regele a spus: „Aceasta spune: «Acesta este copilul meu, cel viu, și copilul tău este cel mort»",
+       "w": "Și regele a spus: „Aceasta spune: «Acesta este copilul meu, cel viu, și copilul tău este cel mort»",
+       "heb": "וַיֹּאמֶר הַמֶּלֶךְ זֹאת אֹמֶרֶת זֶה־בְּנִי הַחַי וּבְנֵךְ הַמֵּת",
+       "translit": "vaiomer hameleh zot omeret ze-beni hahai uvenēh hamēt",
+       "strong": "H4428",
+       "pos": "verb + substantiv + pronume + verb + pronume + substantiv + adjectiv + substantiv + adjectiv",
+       "def_ro": "și a spus regele: aceasta spune: acesta e fiul meu cel viu, și fiul tău e cel mort."
+      },
+      {
+       "t": ", iar cealaltă spune: «Nu-i așa! Copilul tău este cel mort, și copilul meu este cel viu.»”",
+       "w": "iar cealaltă spune: «Nu-i așa! Copilul tău este cel mort, și copilul meu este cel viu.»",
+       "heb": "וְזֹאת אֹמֶרֶת לֹא כִי בְּנֵךְ הַמֵּת וּבְנִי הֶחָי",
+       "translit": "vezot omeret lo hi benēh hamēt uveni hehai",
+       "strong": "H2063",
+       "pos": "pronume + verb + negație + substantiv + adjectiv + substantiv + adjectiv",
+       "def_ro": "și cealaltă spune: nu, ci fiul tău e cel mort și fiul meu e cel viu."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר הַמֶּלֶךְ זֹאת אֹמֶרֶת זֶה־בְּנִי הַחַי וּבְנֵךְ הַמֵּת וְזֹאת אֹמֶרֶת לֹא כִי בְּנֵךְ הַמֵּת וּבְנִי הֶחָי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς· καὶ σὺ λέγεις Οὐχί, ἀλλὰ ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱός σου ὁ τεθνηκώς.",
+       "greek": true,
+       "translation": "„Și le-a spus regele: Tu zici: acesta e fiul meu cel viu, iar fiul ei e cel mort; și tu zici: Nu, ci fiul meu e cel viu, și fiul tău e cel mort.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Atunci a spus regele — ca judecător, rezumând ce se spusese de ambele părți, care nu erau decât simple afirmații fără dovadă: una susținea ce cealaltă tăgăduia, și cealaltă tăgăduia ce prima susținea: «aceasta zice: fiul meu este cel viu, iar fiul tău e cel mort; și cealaltă zice: nu; ci fiul tău e cel mort, și fiul meu e cel viu» — a repetat aceasta ca să arate tuturor celor de față că nu se poate ajunge la nicio hotărâre din ce fusese spus de fiecare parte, și că trebuia luată o altă cale."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Cum se acuzau reciproc, fără ca vreuna să poată dovedi susținerea ei, iar Solomon nu avea niciun mijloc de a stabili adevărul prin mărturie exterioară, a recurs la un test al iubirii materne, poruncind să se aducă o sabie, ca și cum ar fi vrut să taie copilul viu în două și să dea o jumătate fiecăreia."
+      }
+     ]
+    },
+    {
+     "v": "3:24",
+     "t": "Și regele a spus: „Aduceți-mi o sabie”, și au adus sabia înaintea regelui.",
+     "heb": "וַיֹּאמֶר הַמֶּלֶךְ קְחוּ לִי־חָרֶב וַיָּבִאוּ הַחֶרֶב לִפְנֵי הַמֶּלֶךְ",
+     "translit": "Vaiomer hameleh kehu li-harev vaiaviu haherev lifnēi hameleh.",
+     "tokens": [
+      {
+       "t": "Și regele a spus: „"
+      },
+      {
+       "t": "Aduceți-mi o sabie”",
+       "w": "Aduceți-mi o sabie",
+       "heb": "קְחוּ לִי־חָרֶב",
+       "translit": "kehu li-harev",
+       "strong": "H2719",
+       "pos": "verb + substantiv",
+       "def_ro": "luați-mi o sabie.",
+       "dict_ro": "Adam Clarke discută scopul acestei porunci aparent șocante: „aceasta părea o hotărâre foarte ciudată, și una pe care nimic n-ar fi putut-o îndreptăți dacă ar fi fost dusă la îndeplinire; dar Solomon a văzut că singurul mijloc de a afla mama adevărată era prin afecțiunea și tandrețea pe care aceasta le-ar arăta” — testul nu urmărea execuția reală, ci reacția emoțională autentică drept singurul indiciu disponibil, în absența oricărei alte dovezi."
+      },
+      {
+       "t": ", și au adus "
+      },
+      {
+       "t": "sabia înaintea regelui",
+       "w": "sabia înaintea regelui",
+       "heb": "וַיָּבִאוּ הַחֶרֶב לִפְנֵי הַמֶּלֶךְ",
+       "translit": "vaiaviu haherev lifnēi hameleh",
+       "strong": "H935",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și au adus sabia înaintea regelui."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר הַמֶּלֶךְ קְחוּ לִי־חָרֶב וַיָּבִאוּ הַחֶרֶב לִפְנֵי הַמֶּלֶךְ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ὁ βασιλεύς Λάβετε μάχαιραν· καὶ προσήνεγκαν τὴν μάχαιραν ἐνώπιον τοῦ βασιλέως.",
+       "greek": true,
+       "translation": "„Și a spus regele: luați o sabie; și au adus sabia înaintea regelui.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și regele a spus: aduceți-mi o sabie — al cărei scop poate că nu era limpede de la început curții, și ar fi putut părea ciudat, și foarte de mirat, ce ar fi însemnat aceasta: «și au adus o sabie înaintea regelui» — poruncile lui au fost ascultate."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "„Tăiați copilul viu în două” — aceasta părea, la prima vedere, o hotărâre foarte ciudată, și una pe care nimic n-ar fi putut-o îndreptăți dacă ar fi fost dusă la îndeplinire; dar Solomon a văzut că singurul mijloc de a afla adevărata mamă era prin afecțiunea și duioșia pe care ea le-ar arăta neapărat față de copilul ei. Vedea limpede că adevărata mamă ar renunța mai degrabă la dreptul ei asupra copilului decât să-l vadă tăiat în bucăți înaintea ochilor ei, pe când era probabil ca pretendenta să privească aceasta cu nepăsare."
+      }
+     ]
+    },
+    {
+     "v": "3:25",
+     "t": "Și regele a spus: „Tăiați copilul viu în două și dați uneia o jumătate, și celeilalte o jumătate.”",
+     "heb": "וַיֹּאמֶר הַמֶּלֶךְ גִּזְרוּ אֶת־הַיֶּלֶד הַחַי לִשְׁנָיִם וּתְנוּ אֶת־הַחֲצִי לְאֶחָת וְאֶת־הַחֲצִי לְאֶחָת",
+     "translit": "Vaiomer hameleh gizru et-haieled hahai lişnaim utenu et-hahatzi leahat veet-hahatzi leahat.",
+     "tokens": [
+      {
+       "t": "Și regele a spus: „"
+      },
+      {
+       "t": "Tăiați copilul viu în două",
+       "w": "Tăiați copilul viu în două",
+       "heb": "גִּזְרוּ אֶת־הַיֶּלֶד הַחַי לִשְׁנָיִם",
+       "translit": "gizru et-haieled hahai lişnaim",
+       "strong": "H1504",
+       "pos": "verb + substantiv + adjectiv + numeral",
+       "def_ro": "tăiați copilul cel viu în două.",
+       "dict_ro": "Metzudat Țion glosează גִּזְרוּ simplu ca „despicați/tăiați”, iar Metzudat David observă implicit la v. 25 că regele „a priceput din cuvintele lor, cu înțelepciunea lui, de partea cui e dreptatea” chiar înainte de a rosti porunca sabiei — proba cu sabia nu era mijlocul prin care Solomon afla adevărul, ci mijlocul prin care-l demonstra public celor de față, confirmându-și astfel judecata deja formată."
+      },
+      {
+       "t": " și dați uneia o jumătate, și celeilalte o jumătate.”",
+       "w": "și dați uneia o jumătate, și celeilalte o jumătate.",
+       "heb": "וּתְנוּ אֶת־הַחֲצִי לְאֶחָת וְאֶת־הַחֲצִי לְאֶחָת",
+       "translit": "utenu et-hahatzi leahat veet-hahatzi leahat",
+       "strong": "H2677",
+       "pos": "verb + substantiv + numeral + substantiv + numeral",
+       "def_ro": "și dați jumătatea uneia, și jumătatea celeilalte."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר הַמֶּלֶךְ גִּזְרוּ אֶת־הַיֶּלֶד הַחַי לִשְׁנָיִם וּתְנוּ אֶת־הַחֲצִי לְאֶחָת וְאֶת־הַחֲצִי לְאֶחָת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ὁ βασιλεύς Διέλετε τὸ παιδίον τὸ θηλάζον τὸ ζῶν εἰς δύο, καὶ δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ.",
+       "greek": true,
+       "translation": "„Și a spus regele: despărțiți copilul cel sugar, cel viu, în două, și dați jumătate din el acesteia, și jumătate din el acesteia.”",
+       "note": "LXX precizează „copilul sugar” (τὸ παιδίον τὸ θηλάζον), un detaliu absent din TM, care accentuează și mai mult vârsta fragedă a copilului și, implicit, cruzimea aparentă a poruncii."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Tăiați” — din cuvintele lor a priceput regele, cu înțelepciunea lui, de partea cui era dreptatea, și a spus celor de față că adevărul era acesta, că una a furat copilul viu, iar ca să întărească spusele lui a făcut această cercetare."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și regele a spus: tăiați copilul viu în două — nu că ar fi voit ca lucrul să se facă întocmai, deși la început s-ar fi putut crede că el chiar intenționa aceasta, izbind astfel mințile unora cu groază, cum a și izbit-o, oricum, pe mamă; ci a poruncit aceasta ca să încerce afecțiunea femeilor, și astfel să ajungă la adevărata cunoaștere a lucrului; deși unii cred că el o știa dinainte, din chipul și felul lor de a vorbi, dar dorea ca toți cei de față să vadă și să se încredințeze de aceasta."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Solomon a văzut din aceasta cine era mama copilului viu, și i l-a dat ei."
+      }
+     ]
+    },
+    {
+     "v": "3:26",
+     "t": "Și atunci, femeia al cărui copil era viu i-a spus regelui – căci o apucase mila pentru copilul ei – și a spus: „Te rog, stăpâne, dă-i ei pe nou-născutul viu și nu-l ucide!” Dar cealaltă a spus: „Nici al meu, nici al tău să nu fie, tăiați-l!”",
+     "heb": "וַתֹּאמֶר הָאִשָּׁה אֲשֶׁר־בְּנָהּ הַחַי אֶל־הַמֶּלֶךְ כִּי־נִכְמְרוּ רַחֲמֶיהָ עַל־בְּנָהּ וַתֹּאמֶר בִּי אֲדֹנִי תְּנוּ־לָהּ אֶת־הַיָּלוּד הַחַי וְהָמֵת אַל־תְּמִיתֻהוּ וְזֹאת אֹמֶרֶת גַּם־לִי גַם־לָךְ לֹא יִהְיֶה גְּזֹרוּ",
+     "translit": "Vatomer haişa aşer-bena hahai el-hameleh ki-nihmeru rahameha al-bena vatomer bi adoni tenu-lah et-haialud hahai vehamēt al-temituhu vezot omeret gam-li gam-lah lo ihiē gezoru.",
+     "tokens": [
+      {
+       "t": "Și atunci, "
+      },
+      {
+       "t": "femeia al cărui copil era viu i-a spus regelui",
+       "w": "femeia al cărui copil era viu i-a spus regelui",
+       "heb": "וַתֹּאמֶר הָאִשָּׁה אֲשֶׁר־בְּנָהּ הַחַי אֶל־הַמֶּלֶךְ",
+       "translit": "vatomer haişa aşer-bena hahai el-hameleh",
+       "strong": "H802",
+       "pos": "verb + substantiv + pronume relativ + substantiv + adjectiv + substantiv",
+       "def_ro": "și a spus femeia al cărei fiu era cel viu, către rege."
+      },
+      {
+       "t": " – căci "
+      },
+      {
+       "t": "o apucase mila pentru copilul ei",
+       "w": "o apucase mila pentru copilul ei",
+       "heb": "כִּי־נִכְמְרוּ רַחֲמֶיהָ עַל־בְּנָהּ",
+       "translit": "ki-nihmeru rahameha al-bena",
+       "strong": "H3648",
+       "pos": "conjuncție + verb + substantiv + substantiv",
+       "def_ro": "căci s-au fierbințit îndurările ei pentru fiul ei.",
+       "dict_ro": "Metzudat Țion glosează נִכְמְרוּ ca „s-au încălzit”, citând paralela din Plângeri 5:10 („pielea noastră s-a înfierbântat ca un cuptor”) și Geneza 43:30 (unde Iosif e cuprins de aceeași milă viscerală pentru Beniamin) — expresia denotă o reacție fiziologică involuntară, nu doar un sentiment intelectual, exact semnul autentic pe care testul lui Solomon era conceput să-l scoată la iveală."
+      },
+      {
+       "t": " – și a spus: „Te rog, stăpâne, dă-i ei pe nou-născutul viu și nu-l ucide!”",
+       "w": "Te rog, stăpâne, dă-i ei pe nou-născutul viu și nu-l ucide!",
+       "heb": "וַתֹּאמֶר בִּי אֲדֹנִי תְּנוּ־לָהּ אֶת־הַיָּלוּד הַחַי וְהָמֵת אַל־תְּמִיתֻהוּ",
+       "translit": "vatomer bi adoni tenu-lah et-haialud hahai vehamēt al-temituhu",
+       "strong": "H3205",
+       "pos": "verb + interjecție + substantiv + verb + substantiv + adjectiv + negație + verb",
+       "def_ro": "și a spus: te rog, stăpânul meu, dați-i ei pe cel născut viu, și a-l ucide, să nu-l ucideți."
+      },
+      {
+       "t": " Dar cealaltă a spus: „Nici al meu, nici al tău să nu fie, tăiați-l!”",
+       "w": "Nici al meu, nici al tău să nu fie, tăiați-l!",
+       "heb": "וְזֹאת אֹמֶרֶת גַּם־לִי גַם־לָךְ לֹא יִהְיֶה גְּזֹרוּ",
+       "translit": "vezot omeret gam-li gam-lah lo ihiē gezoru",
+       "strong": "H1504",
+       "pos": "pronume + verb + adverb + pronume + adverb + pronume + negație + verb + verb",
+       "def_ro": "și aceasta spune: nici mie, nici ție să nu fie, tăiați-l."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֹּאמֶר הָאִשָּׁה אֲשֶׁר־בְּנָהּ הַחַי אֶל־הַמֶּלֶךְ כִּי־נִכְמְרוּ רַחֲמֶיהָ עַל־בְּנָהּ וַתֹּאמֶר בִּי אֲדֹנִי תְּנוּ־לָהּ אֶת־הַיָּלוּד הַחַי וְהָמֵת אַל־תְּמִיתֻהוּ וְזֹאת אֹמֶרֶת גַּם־לִי גַם־לָךְ לֹא יִהְיֶה גְּזֹרוּ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset central al episodului: reacția emoțională viscerală a mamei adevărate, contrastată direct cu indiferența calculată a celeilalte femei — testul funcționează tocmai prin acest contrast."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα, ὅτι ἐταράχθη ἡ μήτρα αὐτῆς ἐπὶ τῷ υἱῷ αὐτῆς, καὶ εἶπεν Ἐν ἐμοί, κύριε, δότε αὐτῇ τὸ παιδίον καὶ θανάτῳ μὴ θανατώσητε αὐτόν· καὶ αὕτη εἶπεν Μήτε ἐμοὶ μήτε αὐτῇ ἔστω· διέλετε.",
+       "greek": true,
+       "translation": "„Și a răspuns femeia al cărei fiu era cel viu, și a spus către rege, căci s-a tulburat pântecele ei pentru fiul ei, și a spus: în mine, stăpâne, dați-i ei copilul, și cu moarte să nu-l omorâți; iar aceasta a spus: nici mie, nici ei să nu fie; despărțiți-l.”",
+       "note": "LXX redă „rahameha” (îndurările ei) prin „μήτρα” (pântecele ei) — o imagine anatomică mai concretă decât termenul ebraic, care denotă generic „milă/compasiune”."
+      }
+     ],
+     "refs": [
+      "Geneza 43:30",
+      "Plângerile lui Ieremia 5:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat Țion",
+       "text": "„S-au fierbințit [îndurările ei]” — s-au încălzit, ca în „pielea noastră s-a înfierbântat ca un cuptor” (Plângeri 5:10), o expresie de milă, ca și la „s-au fierbințit îndurările lui” (Geneza 43:30)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Chiar mie și chiar ție” — de vreme ce intenția ei adevărată era ca cealaltă să nu se bucure de moartea fiului ei, căci ce-i păsa ei să alăpteze fiul altei femei; iar când a auzit că regele poruncise să fie ucis, a dorit mai mult aceasta, căci atunci cealaltă nu se va mai bucura, iar ea nu va mai alăpta fiul altei femei; iar regele a priceput dinainte, cu înțelepciunea lui, că ea va dori mai degrabă aceasta."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Atunci a vorbit către rege femeia al cărei era copilul cel viu — în grabă, și cu mare înflăcărare, ca nu cumva călăul să-l ucidă pe loc: «căci i se topeau măruntaiele pentru fiul ei» — necăpătând inima să vadă cum i se ia viața: «și a spus: o, stăpânul meu» — sau «asupra mea, stăpânul meu»; să fie asupra mea păcatul, minciuna pe care am spus-o, și pedeapsa ei; a preferat mai degrabă să fie socotită mincinoasă, și să sufere orice pedeapsă cuvenită unei asemenea greșeli, decât să-i fie tăiat copilul."
+      },
+      {
+       "author": "Adam Clarke, Comentariu la Vechiul Testament",
+       "text": "„Împărțiți copilul viu în două” — Solomon a văzut limpede că adevărata mamă ar renunța mai degrabă la dreptul ei asupra copilului decât să-l vadă tăiat în bucăți înaintea ochilor ei, pe când era probabil ca pretendenta să privească aceasta cu nepăsare."
+      }
+     ]
+    },
+    {
+     "v": "3:27",
+     "t": "Și regele a răspuns și a spus: „Dați-i nou-născutul viu și nu-l ucideți, ea este mama lui!”",
+     "heb": "וַיַּעַן הַמֶּלֶךְ וַיֹּאמֶר תְּנוּ־לָהּ אֶת־הַיָּלוּד הַחַי וְהָמֵת לֹא תְמִיתֻהוּ הִיא אִמּוֹ",
+     "translit": "Vaiaan hameleh vaiomer tenu-lah et-haialud hahai vehamēt lo temituhu hi imo.",
+     "tokens": [
+      {
+       "t": "Și regele a răspuns și a spus: „"
+      },
+      {
+       "t": "Dați-i nou-născutul viu și nu-l ucideți",
+       "w": "Dați-i nou-născutul viu și nu-l ucideți",
+       "heb": "תְּנוּ־לָהּ אֶת־הַיָּלוּד הַחַי וְהָמֵת לֹא תְמִיתֻהוּ",
+       "translit": "tenu-lah et-haialud hahai vehamēt lo temituhu",
+       "strong": "H3205",
+       "pos": "verb + substantiv + adjectiv + negație + verb",
+       "def_ro": "dați-i ei pe cel născut viu, și a-l ucide, nu-l ucideți."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ea este mama lui!”",
+       "w": "ea este mama lui!",
+       "heb": "הִיא אִמּוֹ",
+       "translit": "hi imo",
+       "strong": "H517",
+       "pos": "pronume + substantiv",
+       "def_ro": "ea e mama lui!",
+       "dict_ro": "Rashi citează un midraș care leagă acest verset direct de o intervenție supranaturală: „un glas ceresc s-a arătat și a spus: ea este mama lui” — deși textul biblic prezintă concluzia ca fiind a raționamentului lui Solomon însuși, tradiția rabinică (Makot 23b) adaugă confirmarea divină directă la această hotărâre, subliniind că înțelepciunea regelui a fost ea însăși un dar direct de la Dumnezeu, nu doar o iscusință omenească."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַן הַמֶּלֶךְ וַיֹּאמֶר תְּנוּ־לָהּ אֶת־הַיָּלוּד הַחַי וְהָמֵת לֹא תְמִיתֻהוּ הִיא אִמּוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset-culminație al episodului — hotărârea finală a lui Solomon."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπεκρίθη ὁ βασιλεὺς καὶ εἶπεν Δότε τὸ παιδίον τῇ εἰπούσῃ Δότε αὐτῇ αὐτὸ καὶ θανάτῳ μὴ θανατώσητε αὐτόν· αὐτὴ ἡ μήτηρ αὐτοῦ.",
+       "greek": true,
+       "translation": "„Și a răspuns regele și a spus: dați copilul celei ce a spus: dați-i-l ei, și cu moarte să nu-l omorâți; ea e mama lui.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Talmud Bavli, Makot 23b"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Ea este mama lui” — un glas ceresc s-a arătat și a spus: ea este mama lui. [din Makot 23b]"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Dați-i ei” — femeii care spusese: dați-i copilul născut etc. „Ea este mama lui” — de vreme ce are milă de el."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Atunci regele a răspuns și a spus: dați-i copilul viu — adică ei care dorise ca el să nu fie ucis, ci mai degrabă să fie dat celei ce n-avea dreptul asupra lui: «ea este mama lui» — ceea ce se putea deduce cu putere din mila ei față de el, din înflăcărarea și stăruința ei de a-i cruța viața, și din nepăsarea celeilalte, ba chiar din cruzimea și barbaria ei de a cere să fie tăiat."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Solomon a văzut din aceasta care era mama copilului viu, și i l-a dat ei. [Grotius observă: «Iscusința lui Solomon s-a arătat foarte mare prin aceasta. Există o oarecare asemănare cu povestea lui Ariopharnis, regele tracilor, care, atunci când trei persoane pretindeau că sunt fiii regelui cimerienilor, a hotărât că era fiul cel care nu voia să asculte porunca de a arunca sulițe asupra trupului tatălui său.» Povestea e dată de Diodor din Sicilia.]"
+      }
+     ]
+    },
+    {
+     "v": "3:28",
+     "t": "Tot Israelul a auzit judecata pe care o judecase regele în ziua aceea și s-au temut de rege, căci au văzut că înțelepciunea lui Dumnezeu era cu el, ca să facă dreptate.",
+     "heb": "וַיִּשְׁמְעוּ כָל־יִשְׂרָאֵל אֶת־הַמִּשְׁפָּט אֲשֶׁר שָׁפַט הַמֶּלֶךְ וַיִּרְאוּ מִפְּנֵי הַמֶּלֶךְ כִּי רָאוּ כִּי־חָכְמַת אֱלֹהִים בְּקִרְבּוֹ לַעֲשׂוֹת מִשְׁפָּט",
+     "translit": "Vaişmeu hol-Israēl et-hamişpat aşer şafat hameleh vaireu mipenēi hameleh ki raou ki-hohmat Elohim bekirbo laasot mişpat.",
+     "tokens": [
+      {
+       "t": "Tot Israelul a auzit judecata pe care o judecase regele în ziua aceea",
+       "w": "Tot Israelul a auzit judecata pe care o judecase regele în ziua aceea",
+       "heb": "וַיִּשְׁמְעוּ כָל־יִשְׂרָאֵל אֶת־הַמִּשְׁפָּט אֲשֶׁר שָׁפַט הַמֶּלֶךְ",
+       "translit": "vaişmeu hol-Israēl et-hamişpat aşer şafat hameleh",
+       "strong": "H4941",
+       "pos": "verb + substantiv propriu + substantiv + pronume relativ + verb + substantiv",
+       "def_ro": "și a auzit tot Israelul judecata pe care o judecase regele."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "s-au temut de rege",
+       "w": "s-au temut de rege",
+       "heb": "וַיִּרְאוּ מִפְּנֵי הַמֶּלֶךְ",
+       "translit": "vaireu mipenēi hameleh",
+       "strong": "H3372",
+       "pos": "verb + substantiv",
+       "def_ro": "și s-au temut de fața regelui."
+      },
+      {
+       "t": ", căci au văzut că "
+      },
+      {
+       "t": "înțelepciunea lui Dumnezeu era cu el, ca să facă dreptate",
+       "w": "înțelepciunea lui Dumnezeu era cu el, ca să facă dreptate",
+       "heb": "כִּי־חָכְמַת אֱלֹהִים בְּקִרְבּוֹ לַעֲשׂוֹת מִשְׁפָּט",
+       "translit": "ki-hohmat Elohim bekirbo laasot mişpat",
+       "strong": "H2451",
+       "pos": "substantiv + substantiv + substantiv + verb + substantiv",
+       "def_ro": "că înțelepciunea lui Dumnezeu [era] în el, ca să facă judecată.",
+       "dict_ro": "Metzudat David observă că acest verset final legitimează întreaga domnie a lui Solomon în ochii poporului: „văzând că prin înțelepciunea lui înțelege tainele inimii”, poporul nu doar s-a minunat, ci s-a și temut — un rege capabil să dezvăluie adevărul ascuns nu putea fi păcălit, ceea ce a întărit atât autoritatea lui juridică, cât și supunerea generală."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשְׁמְעוּ כָל־יִשְׂרָאֵל אֶת־הַמִּשְׁפָּט אֲשֶׁר שָׁפַט הַמֶּלֶךְ וַיִּרְאוּ מִפְּנֵי הַמֶּלֶךְ כִּי רָאוּ כִּי־חָכְמַת אֱלֹהִים בְּקִרְבּוֹ לַעֲשׂוֹת מִשְׁפָּט",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset de încheiere al episodului — trece de la scena judiciară particulară la reacția întregului popor, pregătind astfel tranziția spre capitolul 4, cu lista miniștrilor și administrația lui Solomon."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς· καὶ ἐφοβήθησαν ἀπὸ προσώπου τοῦ βασιλέως, ὅτι εἶδον ὅτι φρόνησις θεοῦ ἐν αὐτῷ τοῦ ποιεῖν δικαίωμα.",
+       "greek": true,
+       "translation": "„Și a auzit tot Israelul judecata aceasta pe care o judecase regele; și s-au temut de fața regelui, căci au văzut că înțelepciunea lui Dumnezeu era în el, ca să facă dreptate.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Au văzut” — văzând că prin înțelepciunea lui înțelege tainele inimii. „Ca să facă dreptate” — ca să priceapă adevărul de partea cui e, și să-l lămurească prin cercetare."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și tot Israelul a auzit de judecata pe care o judecase regele — în cazul de mai sus; hotărârea ei s-a răspândit prin toată țara, iar faima ei s-a împrăștiat pretutindeni: «și s-au temut de rege» — l-au cinstit ca pe un rege înțelept, chibzuit și credincios, și s-au temut să facă orice de natură nelegiuită, pricepând că el era atât de pătrunzător și de ager, încât ar fi descoperit-o repede, și i-ar fi adus la rușine și pedeapsă: «căci au văzut că înțelepciunea lui Dumnezeu era în el, ca să facă judecată» — că Dumnezeu îi dăduse o înțelepciune mai mult decât obișnuită, ca să facă o judecată dreaptă în pricinile ce i se aduceau."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Această hotărâre judiciară a încredințat tot poporul că Solomon era înzestrat cu înțelepciune divină pentru administrarea dreptății."
+      }
+     ]
+    },
+    {
+     "v": "4:1",
+     "t": "Și regele Solomon a fost rege peste tot Israelul.",
+     "heb": "וַיְהִי הַמֶּלֶךְ שְׁלֹמֹה מֶלֶךְ עַל־כָּל־יִשְׂרָאֵל",
+     "translit": "Vaiehi hameleh Şlomo meleh al-kol-Israēl.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "regele Solomon a fost rege peste tot Israelul",
+       "w": "regele Solomon a fost rege peste tot Israelul",
+       "heb": "וַיְהִי הַמֶּלֶךְ שְׁלֹמֹה מֶלֶךְ עַל־כָּל־יִשְׂרָאֵל",
+       "translit": "vaiehi hameleh Şlomo meleh al-kol-Israēl",
+       "strong": "H4428",
+       "pos": "verb + substantiv + substantiv propriu + substantiv + substantiv propriu",
+       "def_ro": "și a fost regele Solomon rege peste tot Israelul.",
+       "dict_ro": "Rashi leagă direct acest verset de episodul judecății: „când au văzut înțelepciunea lui, s-au bucurat cu toții de domnia lui” — citând implicit pe Radak, care adaugă că, de aici înainte, nimeni nu i s-a mai împotrivit. Metzudat David confirmă aceeași lectură: „vrea să spune: de acum toți l-au primit cu iubire, văzând înțelepciunea lui” — episodul judecății celor două femei funcționează astfel ca punctul de cotitură care asigură legitimitatea deplină, necontestată a domniei lui Solomon peste întregul Israel, nu doar peste o parte a lui."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי הַמֶּלֶךְ שְׁלֹמֹה מֶלֶךְ עַל־כָּל־יִשְׂרָאֵל",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Ultimul verset al Haftaratei Mikeț — deschide totodată capitolul 4, cu lista administrației lui Solomon, care continuă dincolo de porțiunea citită la Haftarah."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἦν ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ.",
+       "greek": true,
+       "translation": "„Și era regele Solomon domnind peste Israel.”",
+       "note": "LXX redă „peste tot Israelul” prin simplul „peste Israel” (ἐπὶ Ἰσραήλ), fără cuvântul „tot” — o omisiune minoră, dar reală, a insistenței TM asupra universalității domniei lui Solomon."
+      }
+     ],
+     "refs": [],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Rege peste tot Israelul” — când au văzut înțelepciunea lui, s-au bucurat cu toții de domnia lui. [și nimeni nu i s-a împotrivit — Radak]"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Peste tot Israelul” — vrea să spună: de acum toți l-au primit cu iubire, văzând înțelepciunea lui."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Așa era regele Solomon rege peste tot Israelul — așa cum tatăl lui, David, nu fusese la început, ci doar peste Iuda, și așa cum urmașii lui Solomon n-au mai fost, după împărțirea regatului sub fiul lui, Roboam; deși aceasta pare să privească îndeosebi ce s-a povestit în capitolul dinainte despre înțelepciunea lui Solomon, pentru care era atât de vestit, încât a domnit prin bunăvoința tuturor, și în inimile întregului popor al lui Israel."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Lista e introdusă la 4:1 prin observația generală, că «regele Solomon era rege peste tot Israelul»."
       }
      ]
     }
