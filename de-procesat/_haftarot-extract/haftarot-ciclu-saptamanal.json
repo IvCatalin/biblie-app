@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "8 capitole (din 54+2 planificate) · 8 complete la Standardul Davar",
+ "meta": "9 capitole (din 54+2 planificate) · 9 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -25858,6 +25858,1548 @@
       {
        "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
        "text": "„Izbăvitori” — va fi în împărăția ce va veni niciun rege, ci un prinț; perioada sabatică a judecătorilor se va întoarce, când nu era rege văzut, ci Dumnezeu domnea în teocrație. Israeliții, nu străinii, vor face dreptate unui popor temător de Dumnezeu (Ezechiel 45:1-25)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "num": 9,
+   "title": "Haftarat Vaieșev",
+   "ref": "Amos 2:6-3:8",
+   "intro": "Haftara pentru parașat Vaieșev — un avertisment al profetului Amos, care pedeapsa pe care Dumnezeu urmează s-o aducă asupra poporului evreu. Trei păcate capitale — crimă, adulter și idolatrie — pot fi trecute cu vederea de către Dumnezeu, însă al patrulea, persecutarea celor defavorizați — săraci, văduve și orfani — înclină definitiv balanța dinspre milă către vină și condamnare. Semnele pedepsei iminente există și ar trebui să fie luate în seamă: „leul rage în pădure” tocmai pentru că prada este aproape, iar poporul ar face bine să asculte și să ia seama la aceste semne și să se căiască. Decăderea spirituală este ceva ce Dumnezeu poate îndura, dar decăderea morală este de neiertat și necesită o intervenție divină rapidă și decisivă, menită a-i convinge chiar și pe cei mai puternici de atotputernicia lui Dumnezeu.",
+   "verses": [
+    {
+     "v": "2:6",
+     "t": "Așa a spus DOMNUL: „Pentru trei fărădelegi ale lui Israel – și pentru a patra să nu cer socoteală? – pentru că au vândut un om drept pe argint și un sărac pentru o pereche de încălțări!",
+     "heb": "כֹּה אָמַר יְהוָה עַל־שְׁלֹשָׁה פִּשְׁעֵי יִשְׂרָאֵל וְעַל־אַרְבָּעָה לֹא אֲשִׁיבֶנּוּ עַל־מִכְרָם בַּכֶּסֶף צַדִּיק וְאֶבְיוֹן בַּעֲבוּר נַעֲלָיִם",
+     "translit": "Ko amar ADONAI al-şeloşa pişēi Israēl veal-arbaa lo aşivenu al-mihram bakesef tzadik veevion baavur naalaim.",
+     "tokens": [
+      {
+       "t": "Așa a spus DOMNUL: „"
+      },
+      {
+       "t": "Pentru trei fărădelegi ale lui Israel",
+       "w": "Pentru trei fărădelegi ale lui Israel",
+       "heb": "עַל־שְׁלֹשָׁה פִּשְׁעֵי יִשְׂרָאֵל",
+       "translit": "al-şeloşa pişēi Israēl",
+       "strong": "H6588",
+       "pos": "substantiv + substantiv + substantiv propriu",
+       "def_ro": "pentru trei fărădelegi ale lui Israel."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "și pentru a patra să nu cer socoteală?",
+       "w": "și pentru a patra să nu cer socoteală?",
+       "heb": "וְעַל־אַרְבָּעָה לֹא אֲשִׁיבֶנּוּ",
+       "translit": "veal-arbaa lo aşivenu",
+       "strong": "H7725",
+       "pos": "substantiv + adverb de negație + verb",
+       "def_ro": "și pentru patru, nu-l voi întoarce."
+      },
+      {
+       "t": " – pentru că au "
+      },
+      {
+       "t": "vândut un om drept pe argint",
+       "w": "vândut un om drept pe argint",
+       "heb": "עַל־מִכְרָם בַּכֶּסֶף צַדִּיק",
+       "translit": "al-mihram bakesef tzadik",
+       "strong": "H4376",
+       "pos": "substantiv + substantiv + adjectiv",
+       "def_ro": "pentru vânzarea lor pe argint a celui drept.",
+       "dict_ro": "Rashi identifică precis mecanismul corupției: „judecătorii vindeau pe cel ce era nevinovat conform legii, pe argint — adică pe mita pe care o primeau de la partea adversă” — nu vânzare literală de sclavi, ci coruperea sistemului judiciar prin mituire, astfel încât verdictul „vinovat” se cumpăra cu bani de la partea nedreaptă."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "un sărac pentru o pereche de încălțări!",
+       "w": "un sărac pentru o pereche de încălțări!",
+       "heb": "וְאֶבְיוֹן בַּעֲבוּר נַעֲלָיִם",
+       "translit": "veevion baavur naalaim",
+       "strong": "H5275",
+       "pos": "substantiv + substantiv",
+       "def_ro": "și pe cel sărman pentru o pereche de încălțări."
+      },
+      {
+       "t": ""
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה אָמַר יְהוָה עַל־שְׁלֹשָׁה פִּשְׁעֵי יִשְׂרָאֵל וְעַל־אַרְבָּעָה לֹא אֲשִׁיבֶנּוּ עַל־מִכְרָם בַּכֶּסֶף צַדִּיק וְאֶבְיוֹן בַּעֲבוּר נַעֲלָיִם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Formula „pentru trei... și pentru patru” deschide fiecare oracol de judecată din Amos 1-2 (împotriva Damascului, Gazei, Tirului, Edomului, Amonului, Moabului, Iudei și, în final, Israelului) — Israel e ultimul și cel mai dezvoltat dintre toate aceste oracole, culminând întregul tipar."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Τάδε λέγει Κύριος Ἐπὶ ταῖς τρισὶν ἀσεβείαις Ἰσραὴλ καὶ ἐπὶ ταῖς τέσσαρσιν οὐκ ἀποστραφήσομαι αὐτόν, ἀνθ᾽ ὧν ἀπέδοντο ἀργυρίου δίκαιον, καὶ πένητα ἕνεκεν ὑποδημάτων",
+       "greek": true,
+       "translation": "„Așa zice Domnul: Pentru trei nelegiuiri ale lui Israel, și pentru patru, nu Mă voi întoarce de la el, pentru că au vândut pe cel drept pe argint, și pe cel sărac pentru încălțăminte.”",
+       "note": "LXX redă „פִּשְׁעֵי” prin „ἀσεβείαις” (nelegiuiri/necredincioșii), o nuanță mai degrabă religioasă decât juridică față de termenul ebraic, care înseamnă strict „răzvrătire/fărădelege”."
+      }
+     ],
+     "refs": [
+      "Deuteronom 16:19",
+      "Amos 8:6",
+      "Ezechiel 13:19",
+      "Ioel 3:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Pentru vânzarea lor pe argint a celui drept” — judecătorii vindeau pe cel ce era nevinovat conform legii, pe argint — adică pe mita pe care o primeau de la partea adversă."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Pentru vânzarea lor” — vrea să spună: pervertesc judecata celui drept și-l vând pe prețul mitei de argint. „Și pe cel sărman” — pervertesc judecata săracului pentru prețul mitei unei perechi de încălțări — adică chiar și pentru mită mică pervertesc judecata."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Așa zice DOMNUL: pentru trei fărădelegi ale lui Israel — cele zece triburi rupte de casa lui David în vremea lui Roboam, care s-au depărtat de adevărata închinare a lui Dumnezeu și au ridicat viței la Dan și Betel: și pentru patru, nu voi întoarce pedeapsa ei — partea de mai departe a acestei profeții tratează despre păcatele și pedeapsa lui Israel."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Israel” — cele zece triburi, subiectul principal al profețiilor lui Amos. „Au vândut pe cel drept” — judecătorii lui Israel, pentru o mită, sunt îndemnați să condamne la judecată pe cel ce are o cauză dreaptă; cu încălcarea Deuteronomului 16:19. „Săracul pentru o pereche de încălțări” — literal, «sandale» de lemn, prinse de picior cu curele de piele; mai puțin prețioase decât încălțările obișnuite."
+      }
+     ]
+    },
+    {
+     "v": "2:7",
+     "t": "Cei care doresc ca pulberea pământului să fie peste capetele săracilor, cei care strâmbă calea celor nevoiași! Un om și tatăl lui vin la aceeași fecioară, pentru ca să pângărească numele Meu cel sfânt.",
+     "heb": "הַשֹּׁאֲפִים עַל־עֲפַר־אֶרֶץ בְּרֹאשׁ דַּלִּים וְדֶרֶךְ עֲנָוִים יַטּוּ וְאִישׁ וְאָבִיו יֵלְכוּ אֶל־הַנַּעֲרָה לְמַעַן חַלֵּל אֶת־שֵׁם קָדְשִׁי",
+     "translit": "Haşoafim al-afar-eretz beroş dalim vedereh anavim iatu veiş veaviv iēlhu el-hanaara lemaan halēl et-şēm kodşī.",
+     "tokens": [
+      {
+       "t": "Cei care doresc ca "
+      },
+      {
+       "t": "pulberea pământului să fie peste capetele săracilor",
+       "w": "pulberea pământului să fie peste capetele săracilor",
+       "heb": "הַשֹּׁאֲפִים עַל־עֲפַר־אֶרֶץ בְּרֹאשׁ דַּלִּים",
+       "translit": "haşoafim al-afar-eretz beroş dalim",
+       "strong": "H7602",
+       "pos": "verb + substantiv compus + substantiv",
+       "def_ro": "cei ce jinduiesc [să vadă] pulberea pământului pe capul celor săraci.",
+       "dict_ro": "Rashi citește imaginea în chip concret și crud: „pe pulberea pământului pe care merg, toată jinduirea și toate gândurile lor sunt asupra capului celor săraci — cum să-i jefuiască și să le ia avutul.” Metzudat David extinde imaginea cu detaliu suplimentar: judecătorii puneau slujitori care-i târau pe săraci la pământ de păr, îi trânteau și-i călcau în picioare — de aici „pulberea pământului pe capul celor săraci”."
+      },
+      {
+       "t": ", cei care "
+      },
+      {
+       "t": "strâmbă calea celor nevoiași!",
+       "w": "strâmbă calea celor nevoiași!",
+       "heb": "וְדֶרֶךְ עֲנָוִים יַטּוּ",
+       "translit": "vedereh anavim iatu",
+       "strong": "H6035",
+       "pos": "substantiv + substantiv + verb",
+       "def_ro": "și calea celor smeriți o abat."
+      },
+      {
+       "t": " Un om și tatăl lui vin la aceeași fecioară",
+       "w": "Un om și tatăl lui vin la aceeași fecioară",
+       "heb": "וְאִישׁ וְאָבִיו יֵלְכוּ אֶל־הַנַּעֲרָה",
+       "translit": "veiş veaviv iēlhu el-hanaara",
+       "strong": "H5291",
+       "pos": "substantiv + substantiv + verb + substantiv",
+       "def_ro": "și un om și tatăl lui merg la [aceeași] tânără.",
+       "dict_ro": "Rashi precizează că „fecioara” (הַנַּעֲרָה) e o tânără logodită — o agravare specifică a păcatului, nu doar imoralitate generală, ci o formă de adulter fiindcă victima era deja promisă altcuiva prin logodnă."
+      },
+      {
+       "t": ", pentru ca să "
+      },
+      {
+       "t": "pângărească numele Meu cel sfânt",
+       "w": "pângărească numele Meu cel sfânt",
+       "heb": "לְמַעַן חַלֵּל אֶת־שֵׁם קָדְשִׁי",
+       "translit": "lemaan halēl et-şēm kodşī",
+       "strong": "H2490",
+       "pos": "conjuncție + verb + substantiv",
+       "def_ro": "ca să pângărească numele sfințeniei Mele."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הַשֹּׁאֲפִים עַל־עֲפַר־אֶרֶץ בְּרֹאשׁ דַּלִּים וְדֶרֶךְ עֲנָוִים יַטּוּ וְאִישׁ וְאָבִיו יֵלְכוּ אֶל־הַנַּעֲרָה לְמַעַן חַלֵּל אֶת־שֵׁם קָדְשִׁי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Imaginea „pulberii pe capul săracilor” e citită diferit în tradiția evreiască (jinduire după avutul lor) față de cea creștină clasică (dorința de a-i umili fizic) — vezi comentarii."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τὰ πατοῦντα ἐπὶ τὸν χοῦν τῆς γῆς, καὶ ἐκονδύλιζον εἰς κεφαλὰς πτωχῶν, καὶ ὁδὸν ταπεινῶν ἐξέκλιναν, καὶ υἱὸς καὶ πατὴρ αὐτοῦ εἰσεπορεύοντο πρὸς τὴν αὐτὴν παιδίσκην, ὅπως βεβηλῶσιν τὸ ὄνομα τοῦ θεοῦ αὐτῶν",
+       "greek": true,
+       "translation": "„Cei ce calcă pe pulberea pământului, și loveau cu pumnul capetele săracilor, și abăteau calea celor smeriți; și fiul și tatăl lui intrau la aceeași slujnică, ca să pângărească numele Dumnezeului lor.”",
+       "note": "LXX citește prima imagine ca pe o lovire fizică („ἐκονδύλιζον” — loveau cu pumnul), mai concretă decât imaginea de „jinduire” din lectura rabinică a TM — o divergență reală de interpretare a verbului ebraic שאף."
+      }
+     ],
+     "refs": [
+      "Iov 24:4",
+      "1 Corinteni 5:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Cei ce jinduiesc [să vadă] pulberea pământului” — pe pulberea pământului pe care merg, toată jinduirea și toate gândurile lor sunt asupra capului celor săraci: cum să-i jefuiască și să le ia avutul. „Și calea celor smeriți o abat etc.” — cei slabi se abat de la calea lor și merg pe o cale ocolitoare din pricina fricii de ei, cum spune Scriptura: «abat pe cei sărmani de la cale» (Iov 24:4). „La fecioară” — cea logodită."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Cei ce jinduiesc” — care privesc spre pulberea pământului, ca să fie locul lor pe capul celor săraci, căci judecătorii aceia puneau slujitori sub ei, ca să-i îndoaie pe cei săraci să împlinească porunca judecății, iar dacă refuzau, îi apucau de părul capului și-i trânteau la pământ și-i călcau cu picioarele — și iată pulberea pământului pe capul celor săraci."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Cei ce jinduiesc după pulberea pământului pe capul celor săraci — fie erau lacomi după bani, pulberea pământului, chiar și după acea mică porție pe care o aveau săracii; nu puteau suferi ca ei să se bucure de acel puțin pe care-l aveau, ci doreau să li-l ia prin asuprire și nedreptate: sau erau doritori cu ardoare să-i arunce pe săraci la pământ, și să-i calce în picioare, și să-i târască prin pulberea lui, umplându-le astfel capetele și acoperindu-le fețele cu ea."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Om și tatăl lui” — o crimă «nici măcar numită printre neamuri» (1 Corinteni 5:1). Când poporul lui Dumnezeu păcătuiește în fața luminii, adesea cade mai jos chiar decât cei ce nu-L cunosc pe Dumnezeu. „Merg la aceeași fecioară” — din Amos 2:8 pare probabil că «fecioara» amintită e una dintre prostituatele legate de cultul idolatru."
+      }
+     ]
+    },
+    {
+     "v": "2:8",
+     "t": "Și pe veșminte luate în gaj se întind, lângă fiecare altar, și beau vin cumpărat cu [bani adunați din] amenzi, în templele dumnezeilor lor.",
+     "heb": "וְעַל־בְּגָדִים חֲבֻלִים יַטּוּ אֵצֶל כָּל־מִזְבֵּחַ וְיֵין עֲנוּשִׁים יִשְׁתּוּ בֵּית אֱלֹהֵיהֶם",
+     "translit": "Veal-begadim havulim iatu ētzel kol-mizbēah veiēin anuşim iştu bēit elohēhem.",
+     "tokens": [
+      {
+       "t": "Și pe "
+      },
+      {
+       "t": "veșminte luate în gaj se întind",
+       "w": "veșminte luate în gaj se întind",
+       "heb": "וְעַל־בְּגָדִים חֲבֻלִים יַטּוּ",
+       "translit": "veal-begadim havulim iatu",
+       "strong": "H2254",
+       "pos": "substantiv + adjectiv + verb",
+       "def_ro": "și pe veșminte zălogite se apleacă [să șadă la masă]."
+      },
+      {
+       "t": ", lângă fiecare altar",
+       "w": "lângă fiecare altar",
+       "heb": "אֵצֶל כָּל־מִזְבֵּחַ",
+       "translit": "ētzel kol-mizbēah",
+       "strong": "H4196",
+       "pos": "prepoziție + substantiv",
+       "def_ro": "lângă orice altar."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "beau vin cumpărat cu [bani adunați din] amenzi",
+       "w": "beau vin cumpărat cu [bani adunați din] amenzi",
+       "heb": "וְיֵין עֲנוּשִׁים יִשְׁתּוּ",
+       "translit": "veiēin anuşim iştu",
+       "strong": "H6064",
+       "pos": "substantiv + substantiv + verb",
+       "def_ro": "și vin al celor pedepsiți [cu amendă] beau.",
+       "dict_ro": "Rashi identifică locul exact al acestei desfătări necuvenite: „casa idolului pe care-l aveau lângă altar” — banii adunați din amenzile nedrepte impuse săracilor erau folosiți pentru a cumpăra vin băut chiar în templul idolatru, o combinație dublă de nedreptate socială și idolatrie religioasă."
+      },
+      {
+       "t": ", în templele dumnezeilor lor",
+       "w": "în templele dumnezeilor lor",
+       "heb": "בֵּית אֱלֹהֵיהֶם",
+       "translit": "bēit elohēhem",
+       "strong": "H430",
+       "pos": "substantiv + substantiv",
+       "def_ro": "în casa dumnezeilor lor."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַל־בְּגָדִים חֲבֻלִים יַטּוּ אֵצֶל כָּל־מִזְבֵּחַ וְיֵין עֲנוּשִׁים יִשְׁתּוּ בֵּית אֱלֹהֵיהֶם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τὰ ἱμάτια αὐτῶν δεσμεύοντες σχοινίοις παραπετάσματα ἐποίουν ἐχόμενα τοῦ θυσιαστηρίου, καὶ οἶνον ἐκ συκοφαντιῶν ἔπινον ἐν τῷ οἴκῳ τοῦ θεοῦ αὐτῶν",
+       "greek": true,
+       "translation": "„Și legând veșmintele lor cu funii, făceau din ele perdele lângă altar, și beau vin din bani stoarși prin sicofantie [șantaj] în casa dumnezeului lor.”",
+       "note": "LXX descrie o folosire diferită a veșmintelor luate în gaj — nu paturi pentru a se întinde (ca la Rashi/TM), ci perdele legate cu funii lângă altar — o divergență reală de imagine, deși ambele denunță același abuz al garanțiilor luate de la săraci."
+      }
+     ],
+     "refs": [
+      "Exod 22:26",
+      "Deuteronom 24:12-13"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și pe veșminte zălogite se apleacă” — Targum Ionatan: «pe paturi făcute din zălog fac negoț [de mâncare]»; pun datorie asupra săracilor și-i zălogesc și fac din veșmintele lor paturi și se întind pe ele înclinat la vremea mesei lor «în casa dumnezeilor lor» — în casa idolului pe care-l aveau lângă altar. „Se apleacă” — o expresie de ospăț la masă, căci orice ospăț se ținea înclinat, sprijinit pe partea stângă. „Și vinul celor pedepsiți” — de la care storc bani prin amenzi și beau vin cu ei."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și pe veșminte zălogite se apleacă” — zălogesc veșmintele celor ce refuză judecata lor și se sprijină pe ele la vremea ospățului, pe care-l țin lângă orice altar făcut pentru idoli. „Și vin al celor pedepsiți beau” — pedepsesc pe cel ce refuză să dea bani, și cu ei cumpără vin și beau în casa idolatriei."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și se întind pe veșminte luate în gaj lângă fiecare altar — adică veșmintele luate în gaj de la săraci, pe care ar fi trebuit să le înapoieze înainte de apusul soarelui (Exodul 22:26); acestea le întindeau lângă fiecare altar, dintre care aveau multe ridicate idolilor lor, și pe acestea, ca pe niște covoare, dormeau lângă ele, cum era obiceiul la neamuri."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Se întind pe veșminte luate în gaj” — haina de deasupra, pe care Exod 22:25-27 poruncea să fie înapoiată săracului înainte de apusul soarelui, fiind singura lui acoperitoare. Agravează crima faptul că se întindeau pe aceste veșminte într-un templu idolatru. „Beau vinul celor amendați” — adică vin cumpărat cu banii celor amendați pe nedrept."
+      }
+     ]
+    },
+    {
+     "v": "2:9",
+     "t": "Dar Eu l-am nimicit pe amorit înaintea lor, a cărui înălțime era ca înălțimea cedrilor și care era puternic ca stejarii. I-am distrus rodul de deasupra și rădăcinile de dedesubt.",
+     "heb": "וְאָנֹכִי הִשְׁמַדְתִּי אֶת־הָאֱמֹרִי מִפְּנֵיהֶם אֲשֶׁר כְּגֹבַהּ אֲרָזִים גָּבְהוֹ וְחָסֹן הוּא כָּאַלּוֹנִים וָאַשְׁמִיד פִּרְיוֹ מִמַּעַל וְשָׁרָשָׁיו מִתָּחַת",
+     "translit": "Veanohi hişmadeti et-haemori mipenēhem aşer kegova arazim govho vehason hu kaalonim vaaşmid pirio mimaal veşaraşav mitahat.",
+     "tokens": [
+      {
+       "t": "Dar Eu "
+      },
+      {
+       "t": "l-am nimicit pe amorit înaintea lor",
+       "w": "l-am nimicit pe amorit înaintea lor",
+       "heb": "וְאָנֹכִי הִשְׁמַדְתִּי אֶת־הָאֱמֹרִי מִפְּנֵיהֶם",
+       "translit": "veanohi hişmadeti et-haemori mipenēhem",
+       "strong": "H8045",
+       "pos": "pronume + verb + substantiv propriu + substantiv",
+       "def_ro": "și eu am nimicit pe amorit dinaintea lor."
+      },
+      {
+       "t": ", a cărui "
+      },
+      {
+       "t": "înălțime era ca înălțimea cedrilor",
+       "w": "înălțime era ca înălțimea cedrilor",
+       "heb": "אֲשֶׁר כְּגֹבַהּ אֲרָזִים גָּבְהוֹ",
+       "translit": "aşer kegova arazim govho",
+       "strong": "H1364",
+       "pos": "pronume relativ + substantiv + substantiv + substantiv",
+       "def_ro": "a cărui înălțime [era] ca înălțimea cedrilor."
+      },
+      {
+       "t": " și care era "
+      },
+      {
+       "t": "puternic ca stejarii",
+       "w": "puternic ca stejarii",
+       "heb": "וְחָסֹן הוּא כָּאַלּוֹנִים",
+       "translit": "vehason hu kaalonim",
+       "strong": "H438",
+       "pos": "adjectiv + pronume + substantiv",
+       "def_ro": "și puternic el ca stejarii.",
+       "dict_ro": "Rashi citează un midraș (Sotah 36a) care oferă o lectură secundă, mai fantastică, la „rodul de deasupra și rădăcinile de dedesubt”: viespea (צִרְעָה) trimisă de Dumnezeu împotriva amoriților le orbea ochii de deasupra și-i castra de dedesubt — o legendă rabinică despre cucerirea Canaanului, citată alături de lectura literală (nimicirea completă a copacului, de la vârf la rădăcină)."
+      },
+      {
+       "t": ". I-am "
+      },
+      {
+       "t": "distrus rodul de deasupra și rădăcinile de dedesubt",
+       "w": "distrus rodul de deasupra și rădăcinile de dedesubt",
+       "heb": "וָאַשְׁמִיד פִּרְיוֹ מִמַּעַל וְשָׁרָשָׁיו מִתָּחַת",
+       "translit": "vaaşmid pirio mimaal veşaraşav mitahat",
+       "strong": "H6529",
+       "pos": "verb + substantiv + adverb + substantiv + adverb",
+       "def_ro": "și i-am nimicit rodul de sus și rădăcinile de jos."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאָנֹכִי הִשְׁמַדְתִּי אֶת־הָאֱמֹרִי מִפְּנֵיהֶם אֲשֶׁר כְּגֹבַהּ אֲרָזִים גָּבְהוֹ וְחָסֹן הוּא כָּאַלּוֹנִים וָאַשְׁמִיד פִּרְיוֹ מִמַּעַל וְשָׁרָשָׁיו מִתָּחַת",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐγὼ δὲ ἐξῆρα τὸν Ἀμορραῖον ἐκ προσώπου αὐτῶν, οὗ ἦν καθὼς ὕψος κέδρου τὸ ὕψος αὐτοῦ",
+       "greek": true,
+       "translation": "„Iar Eu am stârpit pe amorit dinaintea feței lor, a cărui înălțime era ca înălțimea cedrului.”",
+       "note": "LXX scurtează versetul, omițând comparația cu stejarii și detaliul rodului/rădăcinilor — o versiune mai concisă decât cea masoretică."
+      }
+     ],
+     "refs": [
+      "Geneza 15:16",
+      "Numeri 13:32-33",
+      "Deuteronom 1:20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Ca stejarii” — kesnes (chênes) în franceză. „I-am nimicit rodul de deasupra” — căpeteniile de sus. „Și rădăcinile de dedesubt” — căpeteniile de jos. Altă explicație: viespea le orbea ochii de deasupra și-i castra de dedesubt. [din Sota 36a]"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Dar Eu l-am nimicit” — vrea să spună: oare nu chiar și pe neamurile care nu M-au cunoscut Eu i-am pedepsit pentru nelegiuirea lor, căci iată, am nimicit dinaintea lor pe amorit a cărui înălțime era ca a cedrului și puternic ca stejarul? „Și l-am nimicit etc.” — l-am nimicit până la capăt, iar fiindcă l-a asemănat cu un copac, folosește expresia potrivită unei distrugeri de pom roditor, cu rodul căzut și rădăcinile smulse."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Totuși Eu am nimicit pe amorit dinaintea lor — aici DOMNUL, prin profet, înșiră multele favoruri și binecuvântări pe care le-a revărsat asupra lui Israel, ceea ce agrava păcatele lor, arătându-i vinovați de mare nerecunoștință, și îndreptățea pedeapsa Lui asupra lor: a izgonit dinaintea lor cele șapte neamuri ale canaaniților, ca să le facă loc, și le-a nimicit, dintre care amoritul era unul de frunte, și e pus aici pentru toți ceilalți."
+      }
+     ]
+    },
+    {
+     "v": "2:10",
+     "t": "Și Eu v-am ridicat din țara Egiptului și v-am făcut să mergeți prin deșert [vreme de] patruzeci de ani, ca să moșteniți țara amoriților.",
+     "heb": "וְאָנֹכִי הֶעֱלֵיתִי אֶתְכֶם מֵאֶרֶץ מִצְרָיִם וָאוֹלֵךְ אֶתְכֶם בַּמִּדְבָּר אַרְבָּעִים שָׁנָה לָרֶשֶׁת אֶת־אֶרֶץ הָאֱמֹרִי",
+     "translit": "Veanohi heelēiti ethem mēeretz Mitzraim vaolēh ethem bamidbar arbaim şana lareşet et-eretz haemori.",
+     "tokens": [
+      {
+       "t": "Și Eu "
+      },
+      {
+       "t": "v-am ridicat din țara Egiptului",
+       "w": "v-am ridicat din țara Egiptului",
+       "heb": "וְאָנֹכִי הֶעֱלֵיתִי אֶתְכֶם מֵאֶרֶץ מִצְרָיִם",
+       "translit": "veanohi heelēiti ethem mēeretz Mitzraim",
+       "strong": "H5927",
+       "pos": "pronume + verb + substantiv compus",
+       "def_ro": "și eu v-am suit din țara Egiptului."
+      },
+      {
+       "t": " și v-am făcut "
+      },
+      {
+       "t": "să mergeți prin deșert [vreme de] patruzeci de ani",
+       "w": "să mergeți prin deșert [vreme de] patruzeci de ani",
+       "heb": "וָאוֹלֵךְ אֶתְכֶם בַּמִּדְבָּר אַרְבָּעִים שָׁנָה",
+       "translit": "vaolēh ethem bamidbar arbaim şana",
+       "strong": "H4057",
+       "pos": "verb + substantiv + numeral + substantiv",
+       "def_ro": "și v-am dus prin pustie patruzeci de ani."
+      },
+      {
+       "t": ", ca să "
+      },
+      {
+       "t": "moșteniți țara amoriților",
+       "w": "moșteniți țara amoriților",
+       "heb": "לָרֶשֶׁת אֶת־אֶרֶץ הָאֱמֹרִי",
+       "translit": "lareşet et-eretz haemori",
+       "strong": "H3423",
+       "pos": "verb + substantiv compus",
+       "def_ro": "ca să moșteniți țara amoritului."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאָנֹכִי הֶעֱלֵיתִי אֶתְכֶם מֵאֶרֶץ מִצְרָיִם וָאוֹלֵךְ אֶתְכֶם בַּמִּדְבָּר אַרְבָּעִים שָׁנָה לָרֶשֶׁת אֶת־אֶרֶץ הָאֱמֹרִי",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγὼ ἀνήγαγον ὑμᾶς ἐκ γῆς Αἰγύπτου, καὶ περιήγαγον ὑμᾶς ἐν τῇ ἐρήμῳ μ᾽ ἔτη",
+       "greek": true,
+       "translation": "„Și Eu v-am suit din țara Egiptului, și v-am purtat prin pustie patruzeci de ani.”",
+       "note": "LXX scurtează finalul, omițând scopul explicit „ca să moșteniți țara amoritului” — o compresie stilistică, nu o divergență de conținut real."
+      }
+     ],
+     "refs": [
+      "Exod 20:2",
+      "Numeri 14:33-34",
+      "Deuteronom 8:2-4"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și Eu v-am ridicat” — și voi, oare nu M-ați cunoscut, căci Eu v-am suit etc. și v-am purtat de grijă în pustie patruzeci de ani, ca să veniți să moșteniți țara amoritului."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "De asemenea v-am ridicat din țara Egiptului — unde erați robi și în mare necaz și strâmtorare, și nu puteați să vă ajutați singuri; dar DOMNUL a lucrat izbăvirea pentru voi și v-a scos din această casă a robiei cu mână puternică și braț tare: și v-am purtat patruzeci de ani prin pustie — mergând înaintea lor într-un stâlp de nor ziua, și într-un stâlp de foc noaptea; îngrijindu-i cu toate cele necesare, cu hrană și îmbrăcăminte, și apărându-i de toți vrăjmașii lor."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„V-am ridicat din Egipt” — «ridicat» e expresia folosită, căci Egiptul era jos și neted, iar Canaanul muntos. „Ca să moșteniți țara amoritului” — amoriții ocupau strict ambele maluri ale Iordanului și munții stăpâniți mai apoi de Iuda; dar aici, ca și la Amos 2:9, stau pentru toți canaaniții. Dumnezeu i-a ținut pe Israel patruzeci de ani în pustie, ceea ce a slujit la disciplinarea lor în rânduielile Lui, ca să fie mai bine pregătiți pentru a intra în stăpânirea Canaanului."
+      }
+     ]
+    },
+    {
+     "v": "2:11",
+     "t": "Am ridicat dintre copiii voștri profeți, și dintre tinerii voștri [am ridicat] nazirei. Oare nu este așa, copii ai lui Israel? – rostirea DOMNULUI.",
+     "heb": "וָאָקִים מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים הַאַף אֵין־זֹאת בְּנֵי יִשְׂרָאֵל נְאֻם־יְהוָה",
+     "translit": "Vaakim mibenēhem linviim umibahurēhem linzirim haaf ēin-zot benēi Israēl neum-ADONAI.",
+     "tokens": [
+      {
+       "t": "Am "
+      },
+      {
+       "t": "ridicat dintre copiii voștri profeți",
+       "w": "ridicat dintre copiii voștri profeți",
+       "heb": "וָאָקִים מִבְּנֵיכֶם לִנְבִיאִים",
+       "translit": "vaakim mibenēhem linviim",
+       "strong": "H6965",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și am ridicat dintre fiii voștri profeți."
+      },
+      {
+       "t": ", și dintre "
+      },
+      {
+       "t": "tinerii voștri [am ridicat] nazirei",
+       "w": "tinerii voștri [am ridicat] nazirei",
+       "heb": "וּמִבַּחוּרֵיכֶם לִנְזִרִים",
+       "translit": "umibahurēhem linzirim",
+       "strong": "H5139",
+       "pos": "substantiv + substantiv",
+       "def_ro": "și dintre tinerii voștri, naziri.",
+       "dict_ro": "Rashi respinge citirea targumului lui Ionatan, care traduce „nazirei” prin „învățători” (cei separați de căile poporului de rând, ocupați cu Tora), și afirmă în schimb sensul literal: „expresia nezirah nu înseamnă în niciun loc decât separare” — un naziriat efectiv, cu jurământul specific descris în Numeri 6 (abstinență de vin și struguri, nefrizat)."
+      },
+      {
+       "t": ". Oare nu este așa, copii ai lui Israel?",
+       "w": "Oare nu este așa, copii ai lui Israel?",
+       "heb": "הַאַף אֵין־זֹאת בְּנֵי יִשְׂרָאֵל",
+       "translit": "haaf ēin-zot benēi Israēl",
+       "strong": "H1121",
+       "pos": "particulă interogativă + adverb de negație + pronume + substantiv propriu",
+       "def_ro": "oare nu-i așa, fii ai lui Israel?"
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "rostirea DOMNULUI",
+       "w": "rostirea DOMNULUI",
+       "heb": "נְאֻם־יְהוָה",
+       "translit": "neum-ADONAI",
+       "strong": "H5002",
+       "pos": "substantiv + substantiv propriu",
+       "def_ro": "rostirea DOMNULUI."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וָאָקִים מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים הַאַף אֵין־זֹאת בְּנֵי יִשְׂרָאֵל נְאֻם־יְהוָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔλαβον ἐκ τῶν υἱῶν ὑμῶν εἰς προφήτας, καὶ ἐκ τῶν νεανίσκων ὑμῶν εἰς ἁγιασμόν",
+       "greek": true,
+       "translation": "„Și am luat dintre fiii voștri profeți, și dintre tinerii voștri spre sfințire.”",
+       "note": "LXX redă „naziri” printr-un termen general, „spre sfințire” (εἰς ἁγιασμόν), fără să păstreze termenul tehnic „nazireu” — o generalizare a instituției specifice descrise în Numeri 6."
+      }
+     ],
+     "refs": [
+      "Numeri 6:1-21",
+      "Judecători 13:5",
+      "1 Samuel 1:11"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Naziri” — Targum Ionatan: «învățători», căci erau despărțiți de căile poporului de rând și se ocupau cu Tora. Expresia nezirah nu înseamnă în niciun loc decât separare. „Oare nu este așa?” — aceasta e o întrebare retorică. Adică: puteți tăgădui aceasta?"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Am ridicat etc.” — în toate zilele generațiilor am ridicat dintre fiii voștri profeți și am făcut să se odihnească Șehina Mea asupra lor. „Și dintre tinerii voștri, naziri” — am pus în inima lor duh de curăție ca să fie naziri. „Oare nu-i așa?” — vrea să spună: și oare și aceasta o veți tăgădui, spunând că n-a fost așa? Ca și cum ar spune: nu-i acesta un lucru cunoscut, cu neputință de tăgăduit?"
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și am ridicat dintre fiii voștri profeți — precum Moise, Iosua și cei șaptezeci de bătrâni, și alții; nu doar ca să vestească lucruri viitoare, ci să învețe și să instruiască poporul în învățăturile și îndatoririle religiei, și să-i avertizeze de păcatele lor și de primejdia acestora: și dintre tinerii voștri, naziri — precum Samson, Samuel, și alții; al căror jurământ îi obliga nu doar să nu-și radă părul, ci să se abțină de la băutul vinului și mâncatul strugurilor, la care tinerețea e înclinată."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Instituția profeției și legea nazireatului erau daruri de har, prin care Israel avea un avantaj față de orice alt neam, și prin care se deosebea de păgâni ca popor sfânt al lui Dumnezeu."
+      }
+     ]
+    },
+    {
+     "v": "2:12",
+     "t": "Dar voi le-ați dat nazireilor să bea vin, și profeților le-ați dat poruncă, spunând: «Nu profetiți!»",
+     "heb": "וַתַּשְׁקוּ אֶת־הַנְּזִרִים יָיִן וְעַל־הַנְּבִיאִים צִוִּיתֶם לֵאמֹר לֹא תִנָּבְאוּ",
+     "translit": "Vataşku et-hanezirim iain veal-haneviim tzivitem lēmor lo tinaveu.",
+     "tokens": [
+      {
+       "t": "Dar voi le-ați dat "
+      },
+      {
+       "t": "nazireilor să bea vin",
+       "w": "nazireilor să bea vin",
+       "heb": "וַתַּשְׁקוּ אֶת־הַנְּזִרִים יָיִן",
+       "translit": "vataşku et-hanezirim iain",
+       "strong": "H5137",
+       "pos": "verb + substantiv + substantiv",
+       "def_ro": "și ați dat de băut nazireilor vin.",
+       "dict_ro": "Rashi explică scopul precis al acestui abuz: „ca să nu vă instruiască — căci cel beat e oprit să dea învățătură [halahică]” — nu doar o batjocorire a jurământului nazireatului, ci un mijloc calculat de a reduce la tăcere pe cei ce puteau mustra poporul."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "profeților le-ați dat poruncă",
+       "w": "profeților le-ați dat poruncă",
+       "heb": "וְעַל־הַנְּבִיאִים צִוִּיתֶם",
+       "translit": "veal-haneviim tzivitem",
+       "strong": "H6680",
+       "pos": "substantiv + verb",
+       "def_ro": "și profeților le-ați poruncit."
+      },
+      {
+       "t": ", spunând: «"
+      },
+      {
+       "t": "Nu profetiți!»",
+       "w": "Nu profetiți!»",
+       "heb": "לֵאמֹר לֹא תִנָּבְאוּ",
+       "translit": "lēmor lo tinaveu",
+       "strong": "H5012",
+       "pos": "verb + adverb de negație + verb",
+       "def_ro": "zicând: nu profetiți!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתַּשְׁקוּ אֶת־הַנְּזִרִים יָיִן וְעַל־הַנְּבִיאִים צִוִּיתֶם לֵאמֹר לֹא תִנָּבְאוּ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐποτίζετε τοὺς ἡγιασμένους οἶνον, καὶ τοῖς προφήταις ἐνετέλλεσθε λέγοντες",
+       "greek": true,
+       "translation": "„Și dădeați să bea vin celor sfințiți, și profeților le porunceați, zicând...”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset; LXX nu redă explicit conținutul poruncii, dar contextul îl subînțelege identic."
+      }
+     ],
+     "refs": [
+      "Amos 7:12-13",
+      "Isaia 30:10",
+      "Numeri 6:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Le-ați dat nazireilor să bea vin” — ca să nu vă instruiască, căci cel beat e oprit să dea învățătură. Targum Ionatan: «și v-ați rătăcit învățătorii cu vin». „«Nu profetiți!»” — așa i-a poruncit lui Amos preotul Amația din Betel: «văzătorule, du-te, fugi în țara lui Iuda» (Amos 7:12)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Le-ați dat să bea” — ați ademenit pe naziri să bea vin, și le-ați șters mâna profeților ca să nu profețească."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Dar voi le-ați dat nazireilor să bea vin — împotriva jurământului și chemării lor, și în disprețul lui, și ca să-i faceți asemenea vouă; fie i-ați convins, fie i-ați silit la aceasta: și profeților le-ați poruncit, spunând: «nu profetiți»; cuvinte grele și apăsătoare, judecăți și vestiri de răzbunare — doar cuvinte netede; prin acest limbaj poruncitor reiese că aceasta se spune despre conducătorii și stăpânitorii poporului, ca rege, prinți și preoți; vezi Amos 7:12."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Ați disprețuit aceste binefaceri ale Mele atât de mult, încât ați ispitit pe nazireu să-și încalce jurământul; și ați oprit pe profeți să profețească (Isaia 30:10). Așa i-a oprit Amația pe Amos (Amos 7:12-14)."
+      }
+     ]
+    },
+    {
+     "v": "2:13",
+     "t": "Iată, Eu vă strivesc în locul vostru, așa cum este strivit carul încărcat cu snopi.",
+     "heb": "הִנֵּה אָנֹכִי מֵעִיק תַּחְתֵּיכֶם כַּאֲשֶׁר תָּעִיק הָעֲגָלָה הַמְלֵאָה לָהּ עָמִיר",
+     "translit": "Hinē anohi mēik tahtēhem kaaşer taik haagala hamēlēa lah amir.",
+     "tokens": [
+      {
+       "t": "Iată, "
+      },
+      {
+       "t": "Eu vă strivesc în locul vostru",
+       "w": "Eu vă strivesc în locul vostru",
+       "heb": "אָנֹכִי מֵעִיק תַּחְתֵּיכֶם",
+       "translit": "anohi mēik tahtēhem",
+       "strong": "H5781",
+       "pos": "pronume + verb + substantiv",
+       "def_ro": "eu apăs greu în locul vostru.",
+       "dict_ro": "Rashi glosează מֵעִיק ca aramaicul pentru מֵצִיק (a apăsa/asupri), iar „locul vostru” (תַּחְתֵּיכֶם) ca „locul unde tăbărâți” — o imagine de asuprire fizică, nu doar figurată, a poporului chiar în locurile lor de ședere."
+      },
+      {
+       "t": ", așa cum este "
+      },
+      {
+       "t": "strivit carul încărcat cu snopi",
+       "w": "strivit carul încărcat cu snopi",
+       "heb": "כַּאֲשֶׁר תָּעִיק הָעֲגָלָה הַמְלֵאָה לָהּ עָמִיר",
+       "translit": "kaaşer taik haagala hamēlēa lah amir",
+       "strong": "H5749",
+       "pos": "pronume relativ + verb + substantiv + adjectiv + substantiv",
+       "def_ro": "așa cum apasă carul plin de snopi."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הִנֵּה אָנֹכִי מֵעִיק תַּחְתֵּיכֶם כַּאֲשֶׁר תָּעִיק הָעֲגָלָה הַמְלֵאָה לָהּ עָמִיר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Sensul verbului „מֵעִיק” e citit diferit: pasiv (DOMNUL e apăsat de povara păcatelor lor, ca la Isaia 1:14) sau activ (DOMNUL îi apasă pe ei) — ambele lecturi sunt susținute de comentatori, vezi Calvin mai jos."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διὰ τοῦτο ἰδοὺ ἐγὼ κυλίω ὑποκάτω ὑμῶν ὃν τρόπον κυλίεται ἡ ἅμαξα ἡ γέμουσα καλάμης",
+       "greek": true,
+       "translation": "„De aceea, iată, Eu vă răstorn/rostogolesc dedesubt, în felul în care se rostogolește carul plin de trestie.”",
+       "note": "LXX citește imaginea ca pe o răsturnare/rostogolire (κυλίω), nu ca pe o simplă apăsare — o nuanță de mișcare mai violentă decât presiunea statică din lectura TM."
+      }
+     ],
+     "refs": [
+      "Isaia 1:14"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Mēik” — traducerea aramaică a lui „mētzik” (apasă). „Locul vostru” — locul unde tăbărâți. „Precum apasă carul” — de greutatea sarcinii de deasupra lui."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Iată Eu” — se leagă de mai sus, unde s-a spus: dacă am răsplătit neamurilor care nu M-au cunoscut, cu atât mai mult vouă, cărora v-am făcut atâta bine, și totuși ați păcătuit împotriva Mea, cu atât mai mult vă voi răsplăti. De aceea, iată, aduc peste voi strâmtorare în locul vostru, și nu veți putea fugi, căci oriunde veți fi, strâmtorarea vă va ajunge."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Amos",
+       "text": "Iată, Eu sunt apăsat sub voi, cum e apăsat un car plin de snopi. Verbul ebraic yq, oik, e adesea tranzitiv, dar e și neutru. Acest loc poate deci admite două interpretări. Prima e că Dumnezeu era apăsat sub israeliți, ca un car ce geme sub prea multă greutate; și astfel Dumnezeu Se plânge prin Isaia că era apăsat de israeliți: «Mă siliți», zice El, «să trudesc sub păcatele voastre» (Isaia 1:14)."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Sunt apăsat sub voi” — așa CALVIN (compară Isaia 1:14). Marginea traduce activ: «voi apăsa locul vostru», adică: «îl voi face strâmt», o metaforă pentru asuprirea unui popor. Amos, ca păstor, trage în mod potrivit comparațiile din scene rustice."
+      }
+     ]
+    },
+    {
+     "v": "2:14",
+     "t": "Cel iute [de picior] nu va putea fugi, și nici cel tare nu-și va găsi puterea, și nici cel puternic nu va scăpa cu viață.",
+     "heb": "וְאָבַד מָנוֹס מִקָּל וְחָזָק לֹא־יְאַמֵּץ כֹּחוֹ וְגִבּוֹר לֹא־יְמַלֵּט נַפְשׁוֹ",
+     "translit": "Veavad manos mikal vehazak lo-ieamētz koho veghibor lo-iemalēt nafşo.",
+     "tokens": [
+      {
+       "t": "Cel iute [de picior] nu va putea fugi",
+       "w": "Cel iute [de picior] nu va putea fugi",
+       "heb": "וְאָבַד מָנוֹס מִקָּל",
+       "translit": "veavad manos mikal",
+       "strong": "H4498",
+       "pos": "verb + substantiv + adjectiv",
+       "def_ro": "și va pieri fuga de la cel iute."
+      },
+      {
+       "t": ", și nici "
+      },
+      {
+       "t": "cel tare nu-și va găsi puterea",
+       "w": "cel tare nu-și va găsi puterea",
+       "heb": "וְחָזָק לֹא־יְאַמֵּץ כֹּחוֹ",
+       "translit": "vehazak lo-ieamētz koho",
+       "strong": "H2389",
+       "pos": "adjectiv + adverb de negație + verb + substantiv",
+       "def_ro": "și cel tare nu-și va întări puterea lui."
+      },
+      {
+       "t": ", și nici "
+      },
+      {
+       "t": "cel puternic nu va scăpa cu viață",
+       "w": "cel puternic nu va scăpa cu viață",
+       "heb": "וְגִבּוֹר לֹא־יְמַלֵּט נַפְשׁוֹ",
+       "translit": "veghibor lo-iemalēt nafşo",
+       "strong": "H1368",
+       "pos": "substantiv + adverb de negație + verb + substantiv",
+       "def_ro": "și viteazul nu-și va scăpa sufletul."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאָבַד מָנוֹס מִקָּל וְחָזָק לֹא־יְאַמֵּץ כֹּחוֹ וְגִבּוֹר לֹא־יְמַלֵּט נַפְשׁוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπολεῖται φυγὴ ἐκ δρομέως, καὶ ὁ κραταιὸς οὐ μὴ κρατήσῃ τῆς ἰσχύος αὐτοῦ",
+       "greek": true,
+       "translation": "„Și va pieri fuga de la alergător, și cel tare nu-și va stăpâni tăria lui.”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Psalmul 33:16"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și va pieri fuga” — chiar și cel iute de picior nu-și va putea scăpa viața fugind dinaintea vrăjmașului, de vreme ce va găsi vrăjmaș oriunde s-ar afla. „Nu-și va întări” — nu-și va putea întări puterea în luptă."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "De aceea fuga va pieri de la cel iute — vor fi atât de strâmtorați și înghesuiți, și atât de încărcați cu presiuni, încât cei la fel de iuți de picior ca Asael nu vor putea să scape fugind: și cel tare nu-și va întări puterea — nu o va putea spori, sau aduna, sau întrebuința într-o asemenea măsură încât să se poată apăra și feri de vrăjmaș: nici cel puternic nu se va putea izbăvi — nici sufletul, nici viața lui; un soldat, un om de război, un ofițer priceput și curajos în fruntea trupei sale, sau chiar generalul armatei; vezi Psalmul 33:16."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "DOMNUL amenință ca pedeapsă o apăsare grea, de care nimeni nu va putea scăpa — nici cel iute de picior, prin fugă, nici cel tare, prin puterea lui, nici viteazul, prin vitejia lui."
+      }
+     ]
+    },
+    {
+     "v": "2:15",
+     "t": "Cel care mânuiește arcul nu va putea sta în picioare, și nici cel iute de picior nu va scăpa, și nici cel care călărește calul nu va scăpa cu viață.",
+     "heb": "וְתֹפֵשׂ הַקֶּשֶׁת לֹא יַעֲמֹד וְקַל בְּרַגְלָיו לֹא יְמַלֵּט וְרֹכֵב הַסּוּס לֹא יְמַלֵּט נַפְשׁוֹ",
+     "translit": "Vetofēs hakeşet lo iaamod vekal beraglav lo iemalēt verohēv hasus lo iemalēt nafşo.",
+     "tokens": [
+      {
+       "t": "Cel care mânuiește arcul nu va putea sta în picioare",
+       "w": "Cel care mânuiește arcul nu va putea sta în picioare",
+       "heb": "וְתֹפֵשׂ הַקֶּשֶׁת לֹא יַעֲמֹד",
+       "translit": "vetofēs hakeşet lo iaamod",
+       "strong": "H8610",
+       "pos": "verb + substantiv + adverb de negație + verb",
+       "def_ro": "și cel ce apucă arcul nu va sta."
+      },
+      {
+       "t": ", și nici "
+      },
+      {
+       "t": "cel iute de picior nu va scăpa",
+       "w": "cel iute de picior nu va scăpa",
+       "heb": "וְקַל בְּרַגְלָיו לֹא יְמַלֵּט",
+       "translit": "vekal beraglav lo iemalēt",
+       "strong": "H7031",
+       "pos": "adjectiv + substantiv + adverb de negație + verb",
+       "def_ro": "și iutele de picioarele lui nu va scăpa."
+      },
+      {
+       "t": ", și nici "
+      },
+      {
+       "t": "cel care călărește calul nu va scăpa cu viață",
+       "w": "cel care călărește calul nu va scăpa cu viață",
+       "heb": "וְרֹכֵב הַסּוּס לֹא יְמַלֵּט נַפְשׁוֹ",
+       "translit": "verohēv hasus lo iemalēt nafşo",
+       "strong": "H7392",
+       "pos": "verb + substantiv + adverb de negație + verb + substantiv",
+       "def_ro": "și cel ce călărește calul nu-și va scăpa sufletul."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְתֹפֵשׂ הַקֶּשֶׁת לֹא יַעֲמֹד וְקַל בְּרַגְלָיו לֹא יְמַלֵּט וְרֹכֵב הַסּוּס לֹא יְמַלֵּט נַפְשׁוֹ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὁ τοξότης οὐ μὴ ὑποστῇ, καὶ ὁ ὀξὺς τοῖς ποσὶν αὐτοῦ οὐ μὴ διασωθῇ",
+       "greek": true,
+       "translation": "„Și arcașul nu va rezista, și cel iute de picioarele lui nu va fi izbăvit.”",
+       "note": "LXX omite explicit imaginea călărețului de la finalul versetului, deși sensul general (nimeni nu va scăpa) rămâne neschimbat."
+      }
+     ],
+     "refs": [
+      "Psalmul 33:17"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Nu va sta” — vrea să spună: nu va sta pe poziție în încleștarea luptei, căci inima i se va înmuia și va fugi să-și scape viața. „Nu-și va scăpa sufletul” — prin galopul calului."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Nici cel ce mânuiește arcul nu va sta — adică la o oarecare depărtare, și poate folosi armele lui de luptă de departe; totuși nu va socoti sigur să-și țină poziția, ci va lua fuga cât poate de repede ca să se salveze: și cel iute de picior nu va scăpa — aceasta se repetă, ca nimeni să nu-și pună încrederea în iuțeala lui, și ca să arate cât de deplină și de nesigură va fi năpasta."
+      }
+     ]
+    },
+    {
+     "v": "2:16",
+     "t": "Iar cel cu inima cea mai viteajă dintre viteji va fugi gol în ziua aceea – rostirea DOMNULUI.",
+     "heb": "וְאַמִּיץ לִבּוֹ בַּגִּבּוֹרִים עָרוֹם יָנוּס בַּיּוֹם־הַהוּא נְאֻם־יְהוָה",
+     "translit": "Veamitz libo baghiborim arom ianus baiom-hahu neum-ADONAI.",
+     "tokens": [
+      {
+       "t": "Iar "
+      },
+      {
+       "t": "cel cu inima cea mai viteajă dintre viteji",
+       "w": "cel cu inima cea mai viteajă dintre viteji",
+       "heb": "וְאַמִּיץ לִבּוֹ בַּגִּבּוֹרִים",
+       "translit": "veamitz libo baghiborim",
+       "strong": "H533",
+       "pos": "adjectiv + substantiv + substantiv",
+       "def_ro": "și cel curajos la inimă dintre viteji."
+      },
+      {
+       "t": " va "
+      },
+      {
+       "t": "fugi gol în ziua aceea",
+       "w": "fugi gol în ziua aceea",
+       "heb": "עָרוֹם יָנוּס בַּיּוֹם־הַהוּא",
+       "translit": "arom ianus baiom-hahu",
+       "strong": "H6174",
+       "pos": "adjectiv + verb + substantiv",
+       "def_ro": "gol va fugi în ziua aceea."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "rostirea DOMNULUI",
+       "w": "rostirea DOMNULUI",
+       "heb": "נְאֻם־יְהוָה",
+       "translit": "neum-ADONAI",
+       "strong": "H5002",
+       "pos": "substantiv + substantiv propriu",
+       "def_ro": "rostirea DOMNULUI."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאַמִּיץ לִבּוֹ בַּגִּבּוֹרִים עָרוֹם יָנוּס בַּיּוֹם־הַהוּא נְאֻם־יְהוָה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Ultimul verset al oracolelor de judecată împotriva neamurilor (1:3-2:16), culminând cu Israel — profetul trece la capitolul 3 cu un discurs direct adresat exclusiv poporului lui Israel."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὁ κραταιὸς οὐ μὴ εὑρήσει τὴν καρδίαν αὐτοῦ ἐν δυναστείαις, ὁ γυμνὸς διώξεται",
+       "greek": true,
+       "translation": "„Și cel tare nu-și va afla inima în puteri, cel gol va fi urmărit.”",
+       "note": "LXX citește ultima parte diferit: „va fi urmărit” (διώξεται, pasiv) în loc de „va fugi” (activ) — o divergență reală de sens, deși ambele descriu aceeași scenă de dezastru total."
+      }
+     ],
+     "refs": [
+      "Psalmul 33:16-17"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și cel cu inima curajoasă” — chiar și cel obișnuit să-și întărească și să-și oțelească inima printre viteji, iată, atunci va fugi gol, căci își va lepăda hainele ca să fie mai ușor la fugă, căci frica îi va intra în inimă."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Și cel cu inima cea mai vitează dintre viteji va fugi gol în ziua aceea — sau «tare la inimă», unul de mare inimă, vestit pentru curaj și bărbăție, care întrece printre viteji, cei mai viteji soldați și ofițeri: va fugi gol — își va lepăda armele, ba chiar și hainele, fiindcă îl împiedică în fugă, și ca să facă mai bine față: rostirea DOMNULUI — aceasta e adăugată ca să arate certitudinea celor spuse; putea fi socotit sigur că așa va fi, de vreme ce DOMNUL, Dumnezeul adevărului, o rostise; și s-a împlinit cam la optzeci de ani după această profeție."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Va fugi gol” — dacă vreunul va scăpa, va fi cu pierderea armurii, și a tot ce l-ar putea împiedica în fuga rapidă. Va trebui să se mulțumească doar cu scăparea vieții."
+      }
+     ]
+    },
+    {
+     "v": "3:1",
+     "t": "Ascultați acest lucru pe care l-a vorbit DOMNUL în privința voastră, copii ai lui Israel, despre toată familia pe care am ridicat-o din țara Egiptului, spunând:",
+     "heb": "שִׁמְעוּ אֶת־הַדָּבָר הַזֶּה אֲשֶׁר דִּבֶּר יְהוָה עֲלֵיכֶם בְּנֵי יִשְׂרָאֵל עַל כָּל־הַמִּשְׁפָּחָה אֲשֶׁר הֶעֱלֵיתִי מֵאֶרֶץ מִצְרַיִם לֵאמֹר",
+     "translit": "Şimu et-hadavar haze aşer dibēr ADONAI alēhem benēi Israēl al kol-hamişpaha aşer heelēiti mēeretz Mitzraim lēmor.",
+     "tokens": [
+      {
+       "t": "Ascultați "
+      },
+      {
+       "t": "acest lucru pe care l-a vorbit DOMNUL în privința voastră",
+       "w": "acest lucru pe care l-a vorbit DOMNUL în privința voastră",
+       "heb": "אֶת־הַדָּבָר הַזֶּה אֲשֶׁר דִּבֶּר יְהוָה עֲלֵיכֶם",
+       "translit": "et-hadavar haze aşer dibēr ADONAI alēhem",
+       "strong": "H1697",
+       "pos": "substantiv + pronume + pronume relativ + verb + substantiv propriu + pronume",
+       "def_ro": "cuvântul acesta pe care l-a vorbit DOMNUL asupra voastră."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "copii ai lui Israel",
+       "w": "copii ai lui Israel",
+       "heb": "בְּנֵי יִשְׂרָאֵל",
+       "translit": "benēi Israēl",
+       "strong": "H3478",
+       "pos": "substantiv + substantiv propriu",
+       "def_ro": "fii ai lui Israel."
+      },
+      {
+       "t": ", despre "
+      },
+      {
+       "t": "toată familia pe care am ridicat-o din țara Egiptului",
+       "w": "toată familia pe care am ridicat-o din țara Egiptului",
+       "heb": "עַל כָּל־הַמִּשְׁפָּחָה אֲשֶׁר הֶעֱלֵיתִי מֵאֶרֶץ מִצְרַיִם",
+       "translit": "al kol-hamişpaha aşer heelēiti mēeretz Mitzraim",
+       "strong": "H4940",
+       "pos": "substantiv + pronume relativ + verb + substantiv compus",
+       "def_ro": "asupra întregii familii pe care am suit-o din țara Egiptului.",
+       "dict_ro": "Metzudat David observă că „familie” aici desemnează întregul popor, nu doar o gospodărie restrânsă, citând paralela lexicală din Zaharia 14:18 (unde „familia Egiptului” înseamnă întreaga națiune egipteană) — o folosire extinsă a termenului ebraic מִשְׁפָּחָה."
+      },
+      {
+       "t": ", spunând:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "שִׁמְעוּ אֶת־הַדָּבָר הַזֶּה אֲשֶׁר דִּבֶּר יְהוָה עֲלֵיכֶם בְּנֵי יִשְׂרָאֵל עַל כָּל־הַמִּשְׁפָּחָה אֲשֶׁר הֶעֱלֵיתִי מֵאֶרֶץ מִצְרַיִם לֵאמֹר",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Începe o nouă secțiune a cărții (capitolele 3-6), un discurs adresat direct exclusiv lui Israel, spre deosebire de seria de oracole împotriva neamurilor din capitolele 1-2."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Ἀκούσατε τὸν λόγον τοῦτον ὃν ἐλάλησεν Κύριος ἐφ᾽ ὑμᾶς, οἶκος Ἰσραήλ",
+       "greek": true,
+       "translation": "„Ascultați cuvântul acesta pe care l-a vorbit Domnul asupra voastră, casă a lui Israel.”",
+       "note": "LXX e mai scurt, omițând precizarea „despre toată familia pe care am ridicat-o din țara Egiptului” — o compresie stilistică a versetului."
+      }
+     ],
+     "refs": [
+      "Zaharia 14:18",
+      "Exod 20:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Despre toată familia” — repetiție de idee cu ceea ce s-a spus, căci termenul «familie» se folosește pentru tot poporul, ca în «și dacă familia Egiptului» (Zaharia 14:18)."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Ascultați acest cuvânt pe care l-a vorbit DOMNUL împotriva voastră, copii ai lui Israel — profeția împotriva lui Israel începe în capitolul precedent, unde sunt luate în seamă păcatele lor, cel puțin unele dintre ele, și împrejurările lor agravante, și pieirea sigură; și aici sunt chemați să ia aminte și să asculte ce vorbise DOMNUL prin profetul Lui, și era pe cale să le mai vorbească; și să «primească» acest cuvânt, cum spune Targumul; să-l primească drept cuvântul lui Dumnezeu, iar nu al oamenilor, și cu toată smerenia și cinstea."
+      },
+      {
+       "author": "Jean Calvin, Comentariu la Amos",
+       "text": "Profetul a dorit, fără îndoială, prin aceste cuvinte, să-și întărească propria autoritate, căci vedea că învățătura lui era privită... [cu neîncredere de popor, motiv pentru care insistă asupra sursei divine a mesajului]."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Amos 3:1 și 3:2 cuprind introducerea și gândul central al întregii vestiri profetice. Cuvântul DOMNULUI e adresat întregii familii a lui Israel, pe care Dumnezeu a scos-o din Egipt, adică tuturor celor douăsprezece triburi ale poporului legământului, deși în cele ce urmează sunt vizate în primul rând cele zece triburi ale lui Israel."
+      }
+     ]
+    },
+    {
+     "v": "3:2",
+     "t": "«Numai pe voi v-am cunoscut dintre toate familiile de pe pământ, de aceea voi reaminti asupra voastră toate fărădelegile voastre.",
+     "heb": "רַק אֶתְכֶם יָדַעְתִּי מִכֹּל מִשְׁפְּחוֹת הָאֲדָמָה עַל־כֵּן אֶפְקֹד עֲלֵיכֶם אֵת כָּל־עֲוֺנֹתֵיכֶם",
+     "translit": "Rak ethem iadati mikol mişpehot haadama al-kēn efkod alēhem ēt kol-avonotēhem.",
+     "tokens": [
+      {
+       "t": "«"
+      },
+      {
+       "t": "Numai pe voi v-am cunoscut",
+       "w": "Numai pe voi v-am cunoscut",
+       "heb": "רַק אֶתְכֶם יָדַעְתִּי",
+       "translit": "rak ethem iadati",
+       "strong": "H3045",
+       "pos": "adverb + pronume + verb",
+       "def_ro": "numai pe voi v-am cunoscut.",
+       "dict_ro": "Rashi observă că „am cunoscut” înseamnă aici „am iubit” — o folosire relațională, nu doar cognitivă, a rădăcinii ידע; citează totuși și o interpretare rivală a Înțelepților (Talmud, Avoda Zara 4a), care tratează versetul „într-un alt fel”, fără să detalieze conținutul exact al acelei lecturi alternative în textul disponibil."
+      },
+      {
+       "t": " dintre toate familiile de pe pământ",
+       "w": "dintre toate familiile de pe pământ",
+       "heb": "מִכֹּל מִשְׁפְּחוֹת הָאֲדָמָה",
+       "translit": "mikol mişpehot haadama",
+       "strong": "H127",
+       "pos": "substantiv + substantiv + substantiv",
+       "def_ro": "dintre toate familiile pământului."
+      },
+      {
+       "t": ", de aceea voi "
+      },
+      {
+       "t": "reaminti asupra voastră toate fărădelegile voastre",
+       "w": "reaminti asupra voastră toate fărădelegile voastre",
+       "heb": "עַל־כֵּן אֶפְקֹד עֲלֵיכֶם אֵת כָּל־עֲוֺנֹתֵיכֶם",
+       "translit": "al-kēn efkod alēhem ēt kol-avonotēhem",
+       "strong": "H6485",
+       "pos": "conjuncție + verb + substantiv",
+       "def_ro": "de aceea voi cerceta asupra voastră toate nelegiuirile voastre."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "רַק אֶתְכֶם יָדַעְתִּי מִכֹּל מִשְׁפְּחוֹת הָאֲדָמָה עַל־כֵּן אֶפְקֹד עֲלֵיכֶם אֵת כָּל־עֲוֺנֹתֵיכֶם",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset-cheie al cărții, care leagă privilegiul alegerii divine direct de răspunderea sporită — o logică teologică reluată explicit de comentatorii creștini clasici."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Πλὴν ὑμᾶς ἔγνων ἐκ πασῶν φυλῶν γῆς· διὰ τοῦτο ἐκδικήσω ἐφ᾽ ὑμᾶς πάσας τὰς ἁμαρτίας ὑμῶν",
+       "greek": true,
+       "translation": "„Numai pe voi v-am cunoscut dintre toate triburile pământului; de aceea voi răzbuna asupra voastră toate păcatele voastre.”",
+       "note": "LXX redă „am reamintit/voi cerceta” (אֶפְקֹד) prin „voi răzbuna” (ἐκδικήσω) — o nuanță mai aspră, orientată direct spre pedeapsă, decât termenul ebraic mai neutru de „cercetare/vizitare”."
+      }
+     ],
+     "refs": [
+      "Exod 19:5",
+      "Deuteronom 4:20",
+      "Ioan 10:14",
+      "2 Timotei 2:19"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Numai pe voi v-am cunoscut” — v-am iubit, dar voi v-ați răzvrătit împotriva Mea; de aceea etc. Dar Înțelepții noștri au tâlcuit-o într-un alt fel, în tratatul Avoda Zara (4a)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Numai pe voi v-am cunoscut” — numai pe voi v-am iubit dintre toate neamurile, iar voi v-ați răzvrătit împotriva Mea; de aceea Îmi voi aminti asupra voastră toate nelegiuirile voastre, ca să plătesc răsplată pentru toate."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Numai pe voi v-am cunoscut dintre toate familiile pământului — toate familiile sau neamurile pământului, și toți locuitorii lui, sunt cunoscute de DOMNUL, fiind Dumnezeul atotștiutor; dar niciuna n-a fost cunoscută de El ca familie, sau neam, cu acea iubire și afecțiune cu care a fost cunoscută această familie, sau deosebită prin favorurile Lui ca ea, nu doar vremelnice, ci și duhovnicești."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Numai pe voi v-am cunoscut” — adică, v-am recunoscut ca popor al Meu, și v-am tratat cu o bunăvoință deosebită (Exod 19:5; Deuteronom 4:20). Compară folosirea cuvântului «a cunoaște», Psalmul 1:6; 144:3; Ioan 10:14; 2 Timotei 2:19. „De aceea vă voi pedepsi” — cu cât mai mari privilegiile, cu atât mai grea pedeapsa pentru abuzul lor; căci la celelalte fărădelegi se adaugă, în acest caz, nerecunoștința."
+      }
+     ]
+    },
+    {
+     "v": "3:3",
+     "t": "Merg oare doi oameni împreună dacă nu s-au înțeles [să facă] astfel?",
+     "heb": "הֲיֵלְכוּ שְׁנַיִם יַחְדָּו בִּלְתִּי אִם־נוֹעָדוּ",
+     "translit": "Haiēlhu şenaim iahdav bilti im-noadu.",
+     "tokens": [
+      {
+       "t": "Merg oare "
+      },
+      {
+       "t": "doi oameni împreună",
+       "w": "doi oameni împreună",
+       "heb": "שְׁנַיִם יַחְדָּו",
+       "translit": "şenaim iahdav",
+       "strong": "H3162",
+       "pos": "numeral + adverb",
+       "def_ro": "doi împreună."
+      },
+      {
+       "t": " dacă "
+      },
+      {
+       "t": "nu s-au înțeles [să facă] astfel?",
+       "w": "nu s-au înțeles [să facă] astfel?",
+       "heb": "בִּלְתִּי אִם־נוֹעָדוּ",
+       "translit": "bilti im-noadu",
+       "strong": "H3259",
+       "pos": "prepoziție + conjuncție + verb",
+       "def_ro": "decât dacă s-au întâlnit/înțeles.",
+       "dict_ro": "Rashi leagă direct această primă parabolă de acuzația de la 2:12 („nu profetiți!”): întrebarea retorică vizează concret pe profeți — „oare profeții profețesc din mintea lor, dacă n-au primit poruncă? Se fac oare lucrurile altfel decât după felul lor obișnuit?” Fiecare din cele cinci parabole care urmează (leul, pasărea, capcana, trâmbița) construiește progresiv același argument: nimic nu se întâmplă fără o cauză, iar profeția lui Amos are o cauză — porunca lui Dumnezeu."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הֲיֵלְכוּ שְׁנַיִם יַחְדָּו בִּלְתִּי אִם־נוֹעָדוּ",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Prima dintr-un lanț de șapte întrebări retorice (v. 3-6), fiecare construită pe principiul cauzalității, culminând cu justificarea directă a chemării profetice a lui Amos la v. 7-8."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εἰ πορεύσονται δύο ἐπὶ τὸ αὐτὸ καθόλου ἐὰν μὴ γνωρίσωσιν ἑαυτούς",
+       "greek": true,
+       "translation": "„Oare vor merge doi împreună la fel, dacă nu se cunosc unul pe altul?”",
+       "note": "LXX redă „s-au înțeles” prin „se cunosc unul pe altul” (γνωρίσωσιν) — o nuanță ușor diferită, mai apropiată de recunoaștere reciprocă decât de o înțelegere/programare explicită."
+      }
+     ],
+     "refs": [
+      "Amos 7:12-13"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Merg oare doi împreună” — cu privire la ceea ce spuneți profeților «nu profetiți», oare profețesc profeții din mintea lor, dacă n-au primit poruncă? Se fac oare lucrurile altfel decât după felul lor obișnuit? „Dacă nu s-au înțeles” — decât dacă au stabilit o vreme să meargă împreună la cutare loc."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Merg oare” — oare vor merge doi oameni împreună pe același drum, dacă nu au stabilit și rânduit de la început o vreme hotărâtă să meargă împreună?"
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Merg oare doi împreună, dacă nu s-au înțeles? Dacă nu se întâlnesc și stabilesc vremea și locul, când și unde vor porni, ce drum vor lua, și unde vor merge; fără o astfel de înțelegere, nu se poate gândi că ar merge împreună; nici prietenește, dacă nu sunt uniți în prietenie, și au aceeași afecțiune unul față de altul, și aceleași gânduri unul cu altul; sau va fi ciudat dacă nu se ceartă pe drum. Scopul acestor cuvinte e să arate că fără prietenie nu există părtășie, și fără înțelegere, nu există comuniune."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Dar acest adevăr întâmpina împotrivire chiar în popor. Păcătoșii mândri și încrezuți în siguranța lor nu voiau să audă o astfel de profeție. Amos se străduiește, deci, înainte de a face orice altă vestire a judecății lui Dumnezeu, să-și întemeieze dreptul și datoria de a profeți, printr-un lanț de asemănări trase din viață."
+      }
+     ]
+    },
+    {
+     "v": "3:4",
+     "t": "Oare rage un leu în pădure dacă nu are pradă? Oare leul tânăr își ridică glasul în vizuina lui dacă nu a prins ceva?",
+     "heb": "הֲיִשְׁאַג אַרְיֵה בַּיַּעַר וְטֶרֶף אֵין לוֹ הֲיִתֵּן כְּפִיר קוֹלוֹ מִמְּעֹנָתוֹ בִּלְתִּי אִם־לָכָד",
+     "translit": "Haişag arie baiaar veteref ēin lo haitēn kefir kolo mimeonato bilti im-lahad.",
+     "tokens": [
+      {
+       "t": "Oare "
+      },
+      {
+       "t": "rage un leu în pădure dacă nu are pradă?",
+       "w": "rage un leu în pădure dacă nu are pradă?",
+       "heb": "הֲיִשְׁאַג אַרְיֵה בַּיַּעַר וְטֶרֶף אֵין לוֹ",
+       "translit": "haişag arie baiaar veteref ēin lo",
+       "strong": "H7580",
+       "pos": "particulă interogativă + verb + substantiv + substantiv + substantiv + adverb de negație",
+       "def_ro": "oare va rage leul în pădure, și pradă nu are el?",
+       "dict_ro": "Rashi explică mecanismul natural invocat: „când leul apucă prada, obișnuiește să ragă, și nu ragă decât dacă a prins [ceva]” — citând paralele din Isaia 5:29 și 31:4 pentru a confirma că ragetul leului urmează, nu precede, capturarea prăzii; imaginea susține argumentul din v. 8: profeția lui Amos e ca ragetul — un semn că ceva real (porunca divină) s-a produs deja."
+      },
+      {
+       "t": " Oare "
+      },
+      {
+       "t": "leul tânăr își ridică glasul în vizuina lui dacă nu a prins ceva?",
+       "w": "leul tânăr își ridică glasul în vizuina lui dacă nu a prins ceva?",
+       "heb": "הֲיִתֵּן כְּפִיר קוֹלוֹ מִמְּעֹנָתוֹ בִּלְתִּי אִם־לָכָד",
+       "translit": "haitēn kefir kolo mimeonato bilti im-lahad",
+       "strong": "H3715",
+       "pos": "particulă interogativă + verb + substantiv + substantiv + substantiv + prepoziție + conjuncție + verb",
+       "def_ro": "oare va da leul tânăr glasul lui din vizuina lui, decât dacă a prins?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הֲיִשְׁאַג אַרְיֵה בַּיַּעַר וְטֶרֶף אֵין לוֹ הֲיִתֵּן כְּפִיר קוֹלוֹ מִמְּעֹנָתוֹ בִּלְתִּי אִם־לָכָד",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Imaginea leului care rage leagă acest verset direct de Amos 1:2 (deschiderea cărții, „DOMNUL rage din Sion”) și de 3:8 (încheierea acestui lanț de parabole) — un fir imagistic deliberat, nu întâmplător."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εἰ ἐρεύξεται λέων ἐκ τοῦ δρυμοῦ αὐτοῦ θήραν οὐκ ἔχων; εἰ δώσει σκύμνος φωνὴν αὐτοῦ ἐκ τῆς μάνδρας αὐτοῦ καθόλου ἐὰν μὴ ἁρπάσῃ τι",
+       "greek": true,
+       "translation": "„Oare va răcni leul din codrul lui, neavând vânat? Oare va da puiul de leu glasul lui din bârlogul lui, dacă n-a apucat ceva?”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Isaia 5:29",
+      "Isaia 31:4",
+      "Amos 1:2",
+      "Amos 3:8"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Oare rage leul în pădure, și pradă nu are el?” — când leul apucă prada, obișnuiește să ragă, și nu ragă decât dacă a prins [ceva]; și tot așa spune Scriptura: «va rage ca puii de leu, și va mârâi, și va apuca prada» (Isaia 5:29); și tot așa: «cum mârâie leul tânăr și leul asupra prăzii lui» (Isaia 31:4)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Oare rage leul” — și oare va rage leul în pădure dacă n-a găsit pradă? Căci auzind fiarele glasul ragetului lui, vor sta pe loc de frica lui, și el va veni la ele să prade după voia lui. „Oare va da” — și oare puiul de leu va scoate glas de bucurie din vizuina lui dacă n-a prins ceva? Căci atunci se va bucura și se va veseli, iar nu când încă n-a prins."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Oare va rage leul în pădure când nu are pradă? Nu va face aceasta, decât dacă o are în față, sau în gheare; ragă atunci când o vede întâi, prin care înspăimântă creatura, încât aceasta nu se poate clinti până nu vine el la ea; și când a prins-o în gheare, ragă deasupra ei, ca să cheme și pe alții să ia parte cu el. Acum, profeția de la DOMNUL e comparată cu ragetul leului (Amos 1:2); și aceasta niciodată nu vine ca judecată fără o pricină; păcatul oamenilor, sau al unui neam, care-i face pradă mâniei și urgiei lui Dumnezeu."
+      }
+     ]
+    },
+    {
+     "v": "3:5",
+     "t": "Oare o pasăre cade în laț dacă nu există un laț pentru ea? Oare lațul se ridică de pe pământ fără să se fi prins ceva în el?",
+     "heb": "הֲתִפֹּל צִפּוֹר עַל־פַּח הָאָרֶץ וּמוֹקֵשׁ אֵין לָהּ הֲיַעֲלֶה־פַּח מִן־הָאֲדָמָה וְלָכוֹד לֹא יִלְכּוֹד",
+     "translit": "Hatipol tzipor al-pah haaretz umokēş ēin lah haiaalē-pah min-haadama velahod lo ilhod.",
+     "tokens": [
+      {
+       "t": "Oare "
+      },
+      {
+       "t": "o pasăre cade în laț dacă nu există un laț pentru ea?",
+       "w": "o pasăre cade în laț dacă nu există un laț pentru ea?",
+       "heb": "הֲתִפֹּל צִפּוֹר עַל־פַּח הָאָרֶץ וּמוֹקֵשׁ אֵין לָהּ",
+       "translit": "hatipol tzipor al-pah haaretz umokēş ēin lah",
+       "strong": "H6341",
+       "pos": "particulă interogativă + verb + substantiv + substantiv + substantiv + substantiv + adverb de negație",
+       "def_ro": "oare cade o pasăre pe lațul pământului, iar cursă nu are ea?"
+      },
+      {
+       "t": " Oare "
+      },
+      {
+       "t": "lațul se ridică de pe pământ fără să se fi prins ceva în el?",
+       "w": "lațul se ridică de pe pământ fără să se fi prins ceva în el?",
+       "heb": "הֲיַעֲלֶה־פַּח מִן־הָאֲדָמָה וְלָכוֹד לֹא יִלְכּוֹד",
+       "translit": "haiaalē-pah min-haadama velahod lo ilhod",
+       "strong": "H5927",
+       "pos": "particulă interogativă + verb + substantiv + substantiv + verb + adverb de negație + verb",
+       "def_ro": "oare se ridică lațul de la pământ, și prins n-a prins nimic?",
+       "dict_ro": "Rashi explică mecanismul concret al capcanei: lațul rămâne întins pe pământ până când o pasăre se prinde în el, moment în care pasărea, încercând să scape, trage lațul și-l ridică ușor de la locul lui — „și în acel moment [pasărea] e deja prinsă”. Imaginea confirmă din nou principiul cauzalității folosit în toate cele cinci parabole: nimic nu se mișcă fără o cauză reală care l-a pus în mișcare."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הֲתִפֹּל צִפּוֹר עַל־פַּח הָאָרֶץ וּמוֹקֵשׁ אֵין לָהּ הֲיַעֲלֶה־פַּח מִן־הָאֲדָמָה וְלָכוֹד לֹא יִלְכּוֹד",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εἰ πεσεῖται ὄρνεον ἐπὶ τὴν γῆν ἄνευ ἰξευτοῦ; εἰ σχασθήσεται παγὶς ἐπὶ τῆς γῆς ἄνευ τοῦ συλλαβεῖν τι",
+       "greek": true,
+       "translation": "„Oare va cădea o pasăre la pământ fără vânător de păsări? Oare se va desface o cursă pe pământ fără să fi prins ceva?”",
+       "note": "LXX menționează explicit „vânătorul de păsări” (ἰξευτής), o precizare a agentului uman absentă din formularea mai impersonală a TM."
+      }
+     ],
+     "refs": [
+      "Matei 10:29"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Oare cade pasărea pe lațul de la pământ, și cursă nu are ea?” — în lațul pe care a căzut peste ea, și cursă nu are ea? „Oare se ridică lațul de la pământ” — din locul unde a fost pus, decât dacă s-a prins în el pasărea? Când vrea să fugă, smulge lațul și-l ridică puțin din locul lui, și în acel moment e deja prinsă."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Oare va sta pasărea” — oare va sta pasărea pe lațul întins pe pământ fără să găsească o cursă în care să se prindă, și oare degeaba e întinsă plasa? „Oare se va ridica lațul” — felul păsării, când e prinsă și vrea să-și scape viața, se zbate în laț și-l ridică puțin de la pământ, și [profetul] spune: oare se va ridica lațul de la pământ fără să fi prins nimic, și oare cineva ridică lațul [degeaba]?"
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Cade oare o pasăre într-un laț pe pământ, unde nu e cursă pentru ea? Nu, trebuie să fie pusă o cursă, altfel o pasăre nu poate fi niciodată prinsă în ea; și aceasta nu se întâmplă din întâmplare, ci prin voia vânătorului; da, cu știința și voia lui Dumnezeu Însuși, Matei 10:29; scopul acesta e să arate că nicio judecată sau năpastă nu vine peste un popor, sau ei nu cad în una, din întâmplare, sau fără rânduiala lui Dumnezeu; ele sunt plasele și lațurile Lui, pe care le întinde și le așază înadins pentru oameni, ca să-i prindă în ele."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Când o pasăre ce încearcă să zboare în sus e făcută să cadă pe capcana de pe pământ, e o dovadă limpede că lațul e acolo; tot așa, Israele, acum că cazi, dedu de aici că ești prins tocmai în lațul judecății divine [Ludovicus de Dieu]."
+      }
+     ]
+    },
+    {
+     "v": "3:6",
+     "t": "Dacă sună cornul în oraș, oare oamenii nu tremură? Vine oare o nenorocire în oraș fără s-o fi adus DOMNUL?",
+     "heb": "אִם־יִתָּקַע שׁוֹפָר בְּעִיר וְעָם לֹא יֶחֱרָדוּ אִם־תִּהְיֶה רָעָה בְּעִיר וַיהוָה לֹא עָשָׂה",
+     "translit": "Im-itaka şofar beir veam lo iehēradu im-tihiē raa beir v'ADONAI lo asa.",
+     "tokens": [
+      {
+       "t": "Dacă "
+      },
+      {
+       "t": "sună cornul în oraș, oare oamenii nu tremură?",
+       "w": "sună cornul în oraș, oare oamenii nu tremură?",
+       "heb": "אִם־יִתָּקַע שׁוֹפָר בְּעִיר וְעָם לֹא יֶחֱרָדוּ",
+       "translit": "im-itaka şofar beir veam lo iehēradu",
+       "strong": "H7782",
+       "pos": "conjuncție + verb + substantiv + substantiv + substantiv + adverb de negație + verb",
+       "def_ro": "dacă se sună din corn în cetate, oare poporul nu se va cutremura?",
+       "dict_ro": "Rashi identifică imaginea drept cea a străjerului de pe zidurile cetății care vede trupe dușmane apropiindu-se și sună din corn ca să avertizeze poporul: „acestea nu sunt decât cuvinte de pildă și asemănare” — Rashi explică apoi întreg lanțul de cinci parabole (leu, pui de leu, pasăre, laț, corn) ca reprezentând, fiecare, un pas al aceluiași proces: Dumnezeu nu aduce cuvânt greu prin gura profeților decât dacă pedeapsa a fost deja hotărâtă — la fel cum trâmbița sună doar când primejdia e reală."
+      },
+      {
+       "t": " Vine oare "
+      },
+      {
+       "t": "o nenorocire în oraș fără s-o fi adus DOMNUL?",
+       "w": "o nenorocire în oraș fără s-o fi adus DOMNUL?",
+       "heb": "אִם־תִּהְיֶה רָעָה בְּעִיר וַיהוָה לֹא עָשָׂה",
+       "translit": "im-tihiē raa beir v'ADONAI lo asa",
+       "strong": "H7451",
+       "pos": "conjuncție + verb + substantiv + substantiv + substantiv propriu + adverb de negație + verb",
+       "def_ro": "dacă va fi nenorocire în cetate, și DOMNUL n-a făcut-o?"
+      },
+      {
+       "t": ""
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אִם־יִתָּקַע שׁוֹפָר בְּעִיר וְעָם לֹא יֶחֱרָדוּ אִם־תִּהְיֶה רָעָה בְּעִיר וַיהוָה לֹא עָשָׂה",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Acest verset e cheia interpretativă a întregului lanț de parabole precedente (v. 3-5): trâmbița e semnul, cutremurul poporului e reacția firească, iar nenorocirea din cetate e explicit atribuită acțiunii directe a DOMNULUI, nu întâmplării."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εἰ φωνήσει σάλπιγξ ἐν πόλει καὶ λαὸς οὐ μὴ πτοηθήσεται; εἰ ἔσται κακία ἐν πόλει ἣν Κύριος οὐκ ἐποίησεν",
+       "greek": true,
+       "translation": "„Oare va suna trâmbița în cetate, și poporul nu se va înspăimânta? Oare va fi rău în cetate pe care Domnul nu l-a făcut?”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:19-21",
+      "Ezechiel 33:3-6"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Dacă sună cornul” — căci străjerul vede trupe venind asupra cetății și sună din corn ca să avertizeze poporul; acestea nu sunt decât cuvinte de pildă și asemănare. „Oare rage leul” — acesta e Nebucadnețar. Altă explicație: profeții asemănă duhul sfânt ce vine asupra lor cu ragetul leului, cum spun mai jos (v. 8): «leul a răgit, cine nu se va teme?», iar aici e lămurirea pildei: oare va veni duhul sfânt în gura profeților ca să vorbească un cuvânt de la Cel Sfânt, binecuvântat fie El, spre rău, decât dacă pedeapsa a fost hotărâtă dinaintea Lui — aceasta e prada."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Dacă sună cornul” — la vreme de război se pune un străjer să vadă dacă vine vrăjmașul, și când vine, sună din corn ca să avertizeze poporul; și spune: oare va suna cornul în cetate și poporul nu se va cutremura? Fără îndoială, cu siguranță se vor cutremura foarte tare. „Oare va fi nenorocire... și DOMNUL n-a făcut-o?” — vrea să spună: așa cum toate aceste lucruri amintite nu pot fi decât potrivit lucrului cuvenit fiecăruia, tot așa nu se poate să fie nenorocire în cetate din întâmplare, fără ca DOMNUL s-o fi făcut ca răsplată pentru fapte."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Se va suna oare o trâmbiță în cetate, și poporul să nu se teamă? — nu se referă la orice trâmbiță suflată, ca trâmbița de argint pentru adunarea poporului la închinare, sau trâmbița jubileului, care vestea libertatea, ori orice altă trâmbiță, expresie de bucurie și veselie; ci sunetul trâmbiței, alarma de război, sau ceea ce sună străjerii de pe ziduri, zărind un vrăjmaș, sau vreo primejdie apropiată: și poporul să nu se teamă? — trebuie, de obicei se tem, ca nu cumva viața lor și a copiilor lor să fie luată, și avutul lor să devină pradă vrăjmașului."
+      },
+      {
+       "author": "Keil & Delitzsch, Comentariu la Vechiul Testament",
+       "text": "Amos și-a apărat astfel propria chemare, și dreptul tuturor profeților, de a vesti poporului judecățile lui Dumnezeu; și acum (v. 9-15) poate vesti fără rezervă ceea ce DOMNUL a hotărât să facă asupra lui Israel celui păcătos."
+      }
+     ]
+    },
+    {
+     "v": "3:7",
+     "t": "Căci Stăpânul meu, Domnul DUMNEZEU, nu va face nimic fără a-Și fi dezvăluit secretul către slujitorii Săi, profeții.",
+     "heb": "כִּי לֹא יַעֲשֶׂה אֲדֹנָי יְהוִה דָּבָר כִּי אִם־גָּלָה סוֹדוֹ אֶל־עֲבָדָיו הַנְּבִיאִים",
+     "translit": "Ki lo iaasē Adonai ELOHIM davar ki im-gala sodo el-avadav haneviim.",
+     "tokens": [
+      {
+       "t": "Căci "
+      },
+      {
+       "t": "Stăpânul meu, Domnul DUMNEZEU, nu va face nimic",
+       "w": "Stăpânul meu, Domnul DUMNEZEU, nu va face nimic",
+       "heb": "לֹא יַעֲשֶׂה אֲדֹנָי יְהוִה דָּבָר",
+       "translit": "lo iaasē Adonai ELOHIM davar",
+       "strong": "H113",
+       "pos": "adverb de negație + verb + substantiv + substantiv propriu + substantiv",
+       "def_ro": "nu va face Stăpânul DOMN nimic."
+      },
+      {
+       "t": " fără a-Și fi "
+      },
+      {
+       "t": "dezvăluit secretul către slujitorii Săi, profeții",
+       "w": "dezvăluit secretul către slujitorii Săi, profeții",
+       "heb": "כִּי אִם־גָּלָה סוֹדוֹ אֶל־עֲבָדָיו הַנְּבִיאִים",
+       "translit": "ki im-gala sodo el-avadav haneviim",
+       "strong": "H5475",
+       "pos": "conjuncție + verb + substantiv + substantiv + substantiv",
+       "def_ro": "decât dacă a descoperit taina Lui slujitorilor Lui, profeții."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי לֹא יַעֲשֶׂה אֲדֹנָי יְהוִה דָּבָר כִּי אִם־גָּלָה סוֹדוֹ אֶל־עֲבָדָיו הַנְּבִיאִים",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset central pentru înțelegerea rolului profeției în teologia biblică — citat frecvent ca principiu general al relației dintre Dumnezeu și profeții Săi."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι οὐ μὴ ποιήσει Κύριος ὁ θεὸς πρᾶγμα ἐὰν μὴ ἀποκαλύψῃ παιδείαν πρὸς τοὺς δούλους αὐτοῦ τοὺς προφήτας",
+       "greek": true,
+       "translation": "„Căci nicidecum nu va face Domnul Dumnezeu un lucru, dacă nu va descoperi mai întâi disciplina/învățătura Lui către slujitorii Săi, profeții.”",
+       "note": "LXX redă „secretul/taina” (סוֹד) prin „disciplina/învățătura” (παιδεία) — o nuanță teologică diferită, orientată mai mult spre instruire decât spre revelarea unui plan ascuns."
+      }
+     ],
+     "refs": [
+      "Geneza 18:17",
+      "Ieremia 20:9",
+      "Psalmul 25:14",
+      "Ioan 15:15"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Căci nu va face Stăpânul DUMNEZEU nimic” — decât dacă a descoperit taina aceea slujitorilor Săi, profeții."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Căci nu va face” — aduce dovadă că totul vine prin purtare de grijă, căci DOMNUL nu face nimic decât dacă mai întâi descoperă taina Lui profeților."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Cu adevărat, Domnul DUMNEZEU nu va face nimic — în lume, într-un neam sau o cetate; niciun eveniment de seamă nu s-a întâmplat, sau nu se va întâmpla, fiilor oamenilor: ci Își descoperă taina Lui slujitorilor Săi, profeții — ceea ce a voit și a hotărât să facă, ce era o taină în pieptul Lui, până a fost descoperită; și aceasta, îndeobște și mai ales, o face cunoscută celor ce se tem de El și-I slujesc; și mai ales celor pe care-i pune în slujbă publică, ca profeți și slujitori ai Săi, înainte de a împlini lucrul."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "„Taina Lui” — adică scopul Lui ascuns de la toți, până e descoperit profeților Săi (compară Geneza 18:17). Într-un sens mai larg, voia lui Dumnezeu e descoperită tuturor celor ce-L iubesc, ceea ce nu e descoperit lumii (Psalmul 25:14; Ioan 15:15; 17:25-26)."
+      }
+     ]
+    },
+    {
+     "v": "3:8",
+     "t": "Un leu a răgit – cine nu se va teme? Stăpânul meu, Domnul DUMNEZEU, a vorbit – cine nu va profeți?”",
+     "heb": "אַרְיֵה שָׁאָג מִי לֹא יִירָא אֲדֹנָי יְהוִה דִּבֶּר מִי לֹא יִנָּבֵא",
+     "translit": "Arie şaag mi lo iira Adonai ELOHIM dibēr mi lo inavē.",
+     "tokens": [
+      {
+       "t": "Un "
+      },
+      {
+       "t": "leu a răgit – cine nu se va teme?",
+       "w": "leu a răgit – cine nu se va teme?",
+       "heb": "אַרְיֵה שָׁאָג מִי לֹא יִירָא",
+       "translit": "arie şaag mi lo iira",
+       "strong": "H7580",
+       "pos": "substantiv + verb + pronume interogativ + adverb de negație + verb",
+       "def_ro": "leul a răgit, cine nu se va teme?"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Stăpânul meu, Domnul DUMNEZEU, a vorbit – cine nu va profeți?",
+       "w": "Stăpânul meu, Domnul DUMNEZEU, a vorbit – cine nu va profeți?",
+       "heb": "אֲדֹנָי יְהוִה דִּבֶּר מִי לֹא יִנָּבֵא",
+       "translit": "Adonai ELOHIM dibēr mi lo inavē",
+       "strong": "H5012",
+       "pos": "substantiv + substantiv propriu + verb + pronume interogativ + adverb de negație + verb",
+       "def_ro": "Stăpânul DOMN a vorbit, cine nu va profeți?",
+       "dict_ro": "Rashi încheie lanțul de parabole cu concluzia directă: „așa a vorbit Cel Sfânt, binecuvântat fie El, profeților, ca să profețească — cine nu va profeți?” Acest verset e citat de Talmud (implicit prin tradiția care leagă profeția de o constrângere lăuntrică imposibil de refuzat, paralelă cu Ieremia 20:9 „a fost în inima mea ca un foc arzător”) drept temeiul clasic al doctrinei că adevărata profeție nu e o alegere, ci o necesitate impusă profetului de cuvântul primit."
+      },
+      {
+       "t": "”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אַרְיֵה שָׁאָג מִי לֹא יִירָא אֲדֹנָי יְהוִה דִּבֶּר מִי לֹא יִנָּבֵא",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
+       "note": "Verset final al lanțului de parabole deschis la 3:3 — reia imaginea leului de la 3:4, închizând simetric argumentul întregii secțiuni."
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "λέων ἐρεύξεται, καὶ τίς οὐ φοβηθήσεται; Κύριος ὁ θεὸς ἐλάλησεν, καὶ τίς οὐ προφητεύσει",
+       "greek": true,
+       "translation": "„Leul va răcni, și cine nu se va teme? Domnul Dumnezeu a grăit, și cine nu va profeți?”",
+       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset — încheierea simetrică a lanțului de parabole e păstrată identic în ambele tradiții textuale."
+      }
+     ],
+     "refs": [
+      "Ieremia 20:9",
+      "1 Corinteni 14:3",
+      "Faptele Apostolilor 4:20",
+      "Faptele Apostolilor 5:29"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Leul a răgit, cine nu se va teme?” — așa a vorbit Cel Sfânt, binecuvântat fie El, profeților, ca să profețească. Cine nu va profeți?"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Leul a răgit” — vrea să spună: oare nu profeții, cu siguranță, profețesc cuvântul poporului și nu ascund profeția? Căci așa cum, dacă răgește leul, nu se va găsi cineva care să nu se teamă de glasul ragetului lui, tot așa, dacă DOMNUL grăiește ceva profeților, nu se va găsi cineva care să nu profețească. Deci orice lucru care se aude din gura profetului înainte să se întâmple — nu este aceasta întâmplare, ci purtare de grijă — și se leagă de începutul cuvântării, unde s-a spus «de aceea voi cerceta asupra voastră etc.», ca să plătească răsplată, căci de vreme ce totul e prin purtare de grijă, există răsplată pentru faptă."
+      },
+      {
+       "author": "John Gill, Expoziție la Vechiul Testament",
+       "text": "Leul a răgit, cine nu se va teme? Amos spune aceasta din propria experiență, el, care, fiind păstor în pustia Tekoa, auzise adesea un leu răgind, ceea ce-l cuprinsese de spaimă, atât pentru el, cât și pentru vitele pe care le păzea: Domnul DUMNEZEU a vorbit, cine nu poate să nu profețească? — fie ca să vestească lucruri viitoare, pe care DOMNUL le-a făcut cunoscut că se vor întâmpla; fie ca să predice cuvântul, adică să profețească spre zidire, îndemn și mângâiere, 1 Corinteni 14:3."
+      },
+      {
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
+       "text": "Așa cum atunci când «leul rage» (compară Amos 1:2; 3:4), nimeni nu se poate abține să nu se teamă, tot așa, când Iehova comunică mesajul Lui înfricoșător, profetul nu poate să nu profețească. Nu-mi găsiți vină pentru că profețesc; trebuie să ascult de Dumnezeu. Într-un sens mai larg, e adevărat despre toți credincioșii (Faptele Apostolilor 4:20; 5:29)."
       }
      ]
     }
