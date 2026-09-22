@@ -4092,7 +4092,7 @@ window.CHAPTER_DATA = [
         "text": "Rashi discută dubla menționare a „DOMNULUI” în acest verset („DOMNUL a făcut să plouă... de la DOMNUL”) ca element stilistic remarcat de comentatori — unii citesc a doua mențiune ca referire la o manifestare divină distinctă coborâtă special pentru judecată."
       },
       {
-        "author": "Talmud Babilonian, Sanhedrin 109b (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 109b",
         "text": "O discuție talmudică suplimentară, în continuarea celei despre generația Turnului, tratează distrugerea Sodomei ca pedeapsă model pentru păcatele sociale — în special lipsa de ospitalitate instituționalizată, discutată explicit ca motiv central alături de alte fărădelegi."
       }
     ]

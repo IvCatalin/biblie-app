@@ -2919,7 +2919,7 @@ window.CHAPTER_DATA = [
         "text": "Identificarea tradițională a lui Malhițedek cu Șem, fiul lui Noe (încă în viață conform cronologiei genealogice din cap. 11), explică autoritatea sa preoțească recunoscută de Avram — o figură venerabilă, moștenitor direct al cunoașterii lui Dumnezeu dinaintea Potopului, independent de linia lui Avram însuși."
       },
       {
-        "author": "Talmud Babilonian, Nedarim 32b (verificat)",
+        "author": "Talmud Babilonian, Nedarim 32b",
         "text": "Rabi Zeharia, în numele lui Rabi Ișmael, transmite tradiția că Dumnezeu ar fi vrut inițial ca preoția să vină din linia lui Șem (identificat aici cu Malhițedek) — dar poziția aceasta avea să fie transferată ulterior lui Avraham, din cauza unui detaliu discutat chiar în pasajul următor."
       }
     ]
@@ -3088,7 +3088,7 @@ window.CHAPTER_DATA = [
         "text": "Titlul „Dumnezeul Preaînalt” (El Elion), folosit de Malhițedek, e recunoscut și adoptat imediat de Avram însuși la v.22 — Rashi notează acest schimb ca pe o confirmare reciprocă: doi oameni din tradiții și genealogii diferite recunoscând același Dumnezeu unic sub un nume comun."
       },
       {
-        "author": "Talmud Babilonian, Nedarim 32b (verificat)",
+        "author": "Talmud Babilonian, Nedarim 32b",
         "text": "Aceeași sursă discută o problemă din formularea binecuvântării lui Malhițedek: el Îl menționează pe Dumnezeu abia după ce îl binecuvântează pe Avram, o ordine pe care tradiția o citește ca o greșeală de etichetă spirituală — „slujitorul” (Avram) binecuvântat înaintea „Stăpânului” — motiv pentru care, conform acestei tradiții, preoția i-a fost retrasă simbolic lui Malhițedek și transferată descendenței lui Avraham."
       }
     ]

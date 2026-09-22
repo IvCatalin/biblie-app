@@ -160,7 +160,7 @@ window.CHAPTER_DATA = [
         "text": "Lista Regilor Sumerieni (o inscripție veche de mii de ani, cunoscută în mai multe copii, printre care „Prisma Weld-Blundell”) înregistrează, la fel ca Geneza 5, o genealogie de figuri dinainte de un potop uriaș — dar cu domnii de zeci de mii de ani fiecare (unul dintre regi, Alulim, ar fi domnit 28.000 de ani). Paralela structurală e izbitoare: ambele texte listează un șir de figuri „antediluviene” cu vârste/domnii fantastic de lungi, urmate de un potop universal. Diferența majoră: cifrele sumeriene sunt cu ordine de mărime mai mari, iar Geneza păstrează, comparativ, o „moderație” — patriarhii trăiesc sute de ani, nu zeci de mii."
       },
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
         "text": "Josephus povestește o tradiție extra-biblică despre urmașii lui Șet (linia din acest capitol): fiind „inventatorii înțelepciunii legate de corpurile cerești și ordinea lor”, și temându-se că descoperirile lor s-ar putea pierde — Adam prezisese că lumea va fi distrusă „o dată de foc, altă dată de apă” — ar fi ridicat doi stâlpi, unul de cărămidă, altul de piatră, cu descoperirile inscripționate pe amândoi: dacă stâlpul de cărămidă ar fi distrus de potop, cel de piatră ar supraviețui. Josephus adaugă că „acesta rămâne în ținutul Siriad până în ziua de azi” — o afirmație pe care o face ca martor contemporan."
       }
     ],
@@ -702,7 +702,7 @@ window.CHAPTER_DATA = [
         "text": "Notează cifra rotundă — 930 de ani, cu 70 mai puțin decât o mie. O tradiție citată de Rashi leagă asta direct de Psalmul 90:4 („o mie de ani înaintea Ta sunt ca ziua de ieri”) și de avertismentul din Geneza 2:17 („în ziua în care vei mânca, vei muri negreșit”): Adam moare, simbolic, chiar în cursul „zilei” divine de o mie de ani în care a păcătuit — deși trăiește aproape întreaga durată a acelei „zile”."
       },
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
         "text": "Josephus discută explicit longevitatea patriarhilor, anticipând obiecția modernă: „Să nu creadă nimeni, comparând viețile celor din vechime cu viețile noastre de-acum și cu puținii ani pe care-i trăim azi, că ce-am spus despre ei ar fi fals... acei oameni din vechime erau iubiți de Dumnezeu și [de curând] făcuți chiar de Dumnezeu.” Oferă și o justificare practică: viețile lungi ar fi fost necesare pentru ca descoperirile lor astronomice și geometrice să fie verificate — „anul cel mare” (un ciclu astronomic complet) necesitând, spune el, 600 de ani pentru a se împlini o dată."
       }
     ],

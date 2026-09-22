@@ -1060,7 +1060,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 4 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 4",
         "text": "Josephus dezvoltă mult povestea lui Nimrod, absentă din restul textului biblic: îl descrie explicit ca instigator la construirea Turnului Babel, motivat de dorința de a se răzvrăti împotriva lui Dumnezeu și de teama unui nou potop — o tradiție care leagă direct capitolul 10 de evenimentul din capitolul 11."
       },
       {

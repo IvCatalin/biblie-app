@@ -3217,7 +3217,7 @@ window.CHAPTER_DATA = [
         "text": "Rashi notează „strigătul” Sodomei ca referindu-se probabil la strigătele victimelor nedreptății sistematice din oraș, nu doar la zvonuri generale despre păcătoșenie — o acuzație concretă, nu abstractă."
       },
       {
-        "author": "Talmud Babilonian, Sanhedrin 109a (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 109a",
         "text": "O Mișnă citată acolo declară explicit că oamenii Sodomei nu au parte de Lumea Viitoare, iar Ghemara citează Geneza 13:13 („oamenii Sodomei erau răi și păcătoși înaintea DOMNULUI foarte”) ca text-suport, discutând separat gravitatea comportamentului lor față de oameni („răi”) și a păcatului lor spiritual („păcătoși”)."
       }
     ]

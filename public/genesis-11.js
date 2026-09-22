@@ -565,7 +565,7 @@ window.CHAPTER_DATA = [
         "text": "Motivația explicită — „să ne facem un nume, ca să nu fim împrăștiați” — e citită de Rashi ca o formă de răzvrătire împotriva poruncii divine de la Geneza 9:1 („umpleți pământul”): construind un centru unificat, oamenii încearcă activ să evite exact răspândirea pe care Dumnezeu o poruncise."
       },
       {
-        "author": "Talmud Babilonian, Sanhedrin 109a (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 109a",
         "text": "Discuție reală, cu mai multe opinii tanaite, despre natura exactă a păcatului generației Turnului (Tora nu o precizează explicit): școala lui Rabi Șeila susține că voiau literalmente să urce la cer; Rabi Ieremia bar Elazar descrie trei facțiuni cu scopuri diferite (locuire, idolatrie, război); Rabi Natan leagă explicit expresia „să ne facem un nume” de idolatrie, printr-o comparație textuală cu Exod 23:13."
       }
     ]
@@ -1119,7 +1119,7 @@ window.CHAPTER_DATA = [
         "text": "Motivul unei confuzii lingvistice care oprește un proiect de construcție uriaș apare și în alte tradiții mesopotamiene (ex. „Enmerkar și stăpânul Aratta”), unde zeul Enki încurcă limbile omenirii — o paralelă remarcată des de asirologi, deși cu motivații diferite de cele din Geneza."
       },
       {
-        "author": "Talmud Babilonian, Sanhedrin 109a (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 109a",
         "text": "Rabi Iohanan descrie soarta fizică a turnului însuși după distrugere: o treime superioară arsă (asociată judecății pentru idolatrie), o treime inferioară înghițită de pământ, iar treimea din mijloc rămasă intactă — o imagine simbolică a pedepsei proporționale cu diferitele motivații ale constructorilor."
       }
     ]

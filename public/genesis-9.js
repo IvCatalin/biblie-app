@@ -545,7 +545,7 @@ window.CHAPTER_DATA = [
         "text": "Interdicția de a mânca „carne cu sufletul ei” (sângele) e explicată de Rashi ca interzicerea consumului de carne dintr-un animal viu — o practică păgână veche, aici explicit interzisă chiar din prima poruncă alimentară dată omenirii de după Potop."
       },
       {
-        "author": "Talmud Babilonian, Sanhedrin 56a-59a (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 56a-59a",
         "text": "Acest verset e sursa textuală standard pentru interdicția „ever min ha-chai” (a nu mânca dintr-un animal viu), a doua dintre cele șapte legi noahide enumerate și dezbătute pe larg în tratatul Sanhedrin — obligatorii, conform tradiției rabinice, pentru toată omenirea, nu doar pentru poporul evreu."
       }
     ]
@@ -826,7 +826,7 @@ window.CHAPTER_DATA = [
         "text": "Prima instituire explicită a pedepsei capitale pentru omor — Rashi leagă direct pedeapsa de motivul teologic („căci în imaginea lui Dumnezeu l-a făcut pe om”): a ucide un om înseamnă a ataca, simbolic, chipul lui Dumnezeu însuși."
       },
       {
-        "author": "Talmud Babilonian, Sanhedrin 56a-59a (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 56a-59a",
         "text": "Interdicția vărsării de sânge uman e discutată în același pasaj ca fiind cea dintâi și cea mai gravă dintre legile noahide — Sanhedrin explică motivarea explicită oferită chiar în text („căci în imaginea lui Dumnezeu l-a făcut pe om”): valoarea vieții umane derivă direct din statutul de purtător al chipului divin, nu dintr-o convenție socială."
       }
     ]
@@ -3739,7 +3739,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
         "text": "Josephus confirmă aceeași cronologie — Noe trăind încă multă vreme după Potop — și discută pe larg genealogia popoarelor descinse din cei trei fii ai lui Noe, temă pe care o va relua în detaliu în comentariul la capitolul 10."
       }
     ]

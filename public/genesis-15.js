@@ -1930,7 +1930,7 @@ window.CHAPTER_DATA = [
         "text": "Cei „patru sute de ani” de robie prezintă o dificultate cronologică discutată intens de comentatori — calculați de la nașterea lui Isaac (nu de la coborârea efectivă în Egipt, care a fost mai târziu), perioada exactă a șederii propriu-zise în Egipt fiind, conform tradiției rabinice, mai scurtă."
       },
       {
-        "author": "Talmud Babilonian, Megillah 9a (verificat direct în arhivă)",
+        "author": "Talmud Babilonian, Megillah 9a",
         "text": "O tradiție talmudică discută o problemă textuală înrudită: la traducerea Septuagintei, cei șaptezeci și doi de înțelepți ar fi schimbat deliberat formularea „patru sute treizeci de ani” din Exod 12:40 (durata exactă a șederii, incluzând timpul petrecut și în alte țări înainte de Egipt) în „patru sute de ani”, tocmai pentru a evita o citire literală care ar fi părut incorectă istoric — o dovadă indirectă că durata reală a șederii propriu-zise în Egipt a fost mai scurtă decât cei 400 de ani profetizați aici, promisiunea incluzând și perioada anterioară."
       }
     ]

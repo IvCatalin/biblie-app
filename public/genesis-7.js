@@ -1427,7 +1427,7 @@ window.CHAPTER_DATA = [
         "text": "Epopeea lui Ghilgameș (tăblița XI) descrie și ea o ploaie și un potop de șase zile și șapte nopți — mult mai scurt decât cele 40 de zile și nopți din Geneza, deși efectul (acoperirea completă a pământului) e similar. Detaliul „izvoarelor adâncului” care izbucnesc, nu doar ploaia din cer, apare și în tradițiile mesopotamiene, unde apele de dedesubt (Apsu) și cele de deasupra sunt ambele implicate în distrugere."
       },
       {
-        "author": "Talmud Babilonian, Rosh Hashana 11b-12a (verificat)",
+        "author": "Talmud Babilonian, Rosh Hashana 11b-12a",
         "text": "O dispută reală, documentată, între doi înțelepți tanaiți: Rabi Eliezer susține că data exactă menționată aici (luna a doua, ziua 17) s-ar referi la luna Marheșvan, socotită de la Tișrei — sezonul în care izvoarele cresc natural, deci nu neapărat un semn supranatural; Rabi Iehoșua, dimpotrivă, susține că e vorba de luna Iyar, socotită de la Nisan — o poziție care implică un caracter mult mai neobișnuit, chiar miraculos, al declanșării Potopului într-un anotimp secetos."
       }
     ]

@@ -204,7 +204,7 @@ window.CHAPTER_DATA = [
         "text": "Discută ambiguitatea celebră a expresiei „am dobândit un om <i>cu</i> DOMNUL” — particula ebraică „et” (אֶת) e de obicei doar marcatorul gramatical al obiectului direct, dar aici poate fi citită și ca prepoziția „cu/împreună cu”. O tradiție citată de Rashi înțelege din asta o afirmație aproape trufașă a Evei: „am creat un om, [la fel] ca DOMNUL” — prima naștere umană devine, în această lectură, ocazia primei mândrii exagerate legate de procreare."
       },
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
         "text": "Josephus explică și numele fiilor: „Numele lui [Cain], tradus, înseamnă «posesie/dobândire»; cel mai tânăr [a fost numit] Abel, care înseamnă «durere/întristare».” Confirmă etimologia deja discutată de Rashi, dar dintr-o sursă independentă, mult mai veche (sec. I d.Hr.)."
       }
     ],
@@ -686,7 +686,7 @@ window.CHAPTER_DATA = [
     "fidela": "Şi Abel, de asemenea, a adus din întâii născuţi ai turmei sale şi din grăsimea lor. Şi DOMNUL s-a uitat cu plăcere la Abel şi la darul său.",
     "commentaries": [
       {
-        "author": "Ioan Gură de Aur (cca. 347–407), Omilii la Facere, Omilia 18 (verificat)",
+        "author": "Ioan Gură de Aur (cca. 347–407), Omilii la Facere, Omilia 18",
         "text": "Ioan Gură de Aur insistă asupra calității ofrandei lui Abel, nu doar a tipului ei: „observă cum [textul] ne sugerează evlavia acestui om — faptul că n-a oferit pur și simplu una din oile lui, ci una «dintre cele întâi-născute», adică dintre cele valoroase și deosebite” — spre deosebire de Cain, la care „nimic de acest fel nu este sugerat” în text. Pentru Ioan Gură de Aur, diferența dintre cele două jertfe nu stă în tipul lor (vegetală vs. animală), ci în atenția și seriozitatea din spatele alegerii fiecăruia."
       }
     ]
@@ -1287,7 +1287,7 @@ window.CHAPTER_DATA = [
         "text": "Oferă o soluție diferită de Rashi la aceeași lacună (ce-a „vorbit” Cain lui Abel): sugerează că replica lipsă ar fi fost, de fapt, chiar mustrările pe care Cain le auzise de la Dumnezeu (v. 6-7), pe care le-a transmis mai departe, cu amărăciune, fratelui său. Respinge tăios, cu ironie, o întrebare des pusă de cititori — „cum a putut Cain să-l ucidă fără sabie?” — răspunzând că un om poate ucide la fel de ușor cu mâinile goale sau cu orice piatră sau băț găsit pe câmp; arma nu era problema."
       },
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
         "text": "Josephus adaugă detalii despre firea lui Cain, absente din textul biblic: îl descrie ca fiind „extrem de rău în multe privințe” și „complet absorbit de a dobândi”, notând că el a fost „primul care a plugărit pământul” — o inovație tehnologică atribuită direct primului ucigaș, temă reluată apoi în v. 20-22 cu urmașii săi."
       }
     ],

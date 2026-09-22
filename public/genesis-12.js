@@ -470,7 +470,7 @@ window.CHAPTER_DATA = [
         "text": "Observă asimetria gramaticală: „îi voi binecuvânta pe cei care te binecuvântează” e la plural, dar „pe cel care te blestemă” e la singular — sugerând că binecuvântarea va veni de la mulți, dar blestemul, chiar și de la unul singur, va atrage răspuns divin egal de sigur."
       },
       {
-        "author": "Talmud Babilonian, tratatul Yevamot (verificat direct în arhivă — Rabi Elazar, pe tema „toate familiile pământului”)",
+        "author": "Talmud Babilonian, tratatul Yevamot",
         "text": "Rabi Elazar interpretează „toate familiile pământului vor fi binecuvântate în tine” printr-o tradiție conform căreia Dumnezeu i-ar fi promis lui Avraham doi „lăstari buni” de altoit în linia sa — o referire la convertiți providențiali din neamuri străine (tradiția menționează explicit pe Rut moabita) care aveau să se alăture poporului lui Avraham și să-i îmbogățească linia."
       }
     ]
@@ -649,7 +649,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 7 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 7",
         "text": "Josephus adaugă un detaliu absent din textul biblic: motivul emigrării ar fi fost și opoziția caldeenilor față de convingerile monoteiste ale lui Avram, care ar fi respins public zeitățile politeiste locale — o tradiție care prezintă plecarea nu doar ca ascultare divină, ci și ca rezultat al unui conflict religios real cu comunitatea natală."
       }
     ]

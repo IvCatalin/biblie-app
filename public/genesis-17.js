@@ -1245,7 +1245,7 @@ window.CHAPTER_DATA = [
     "fidela": "Acesta este legământul meu pe care îl veţi ţine, între mine şi voi şi sămânţa ta după tine: Fiecare parte bărbătească dintre voi să fie circumcisă.",
     "commentaries": [
       {
-        "author": "Talmud Babilonian, Nedarim 61b-62a (verificat)",
+        "author": "Talmud Babilonian, Nedarim 61b-62a",
         "text": "O serie întreagă de înțelepți subliniază măreția excepțională a poruncii circumciziei: Rabi Iose spune că anulează chiar interdicțiile Șabatului; Rabi Iehoșua ben Korha o leagă de gravitatea pedepsei lui Moise pentru neglijarea ei; Rabi Nehemia spune că anulează chiar și restricțiile legate de lepră; iar o altă tradiție citată acolo merge până la a spune că, fără acest legământ, lumea însăși nu ar fi fost creată."
       }
     ],
@@ -1854,7 +1854,7 @@ window.CHAPTER_DATA = [
     "fidela": "Şi partea bărbătească necircumcisă, a cărei carne a prepuţului nu este circumcisă, acel suflet va fi stârpit din poporul său; el a rupt legământul meu.",
     "commentaries": [
       {
-        "author": "Talmud Babilonian, Nedarim 62a (verificat)",
+        "author": "Talmud Babilonian, Nedarim 62a",
         "text": "Rabi Iehuda HaNasi (redactorul Mișnei) afirmă că, deși nimeni nu s-a dedicat poruncilor mai mult decât Avraham însuși, el nu e numit „desăvârșit” (tamim) decât după circumcizie — dovadă, în opinia acestui înțelept, a centralității unice a acestei porunci, mai presus chiar de toate celelalte fapte bune ale patriarhului."
       }
     ],

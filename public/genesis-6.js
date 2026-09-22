@@ -262,7 +262,7 @@ window.CHAPTER_DATA = [
         "text": "Explică expresia „fiii lui Elohim” (<span class=\"heb-inline\">בְנֵי־הָאֱלֹהִים</span>) ca desemnând nu ființe angelice, ci fiii conducătorilor și judecătorilor omenești — oameni cu putere și rang, care, folosindu-și poziția, luau orice femeie doreau, chiar și pe cele deja căsătorite. Respinge explicit citirea „îngeri” ca ducând la concluzii teologic problematice."
       },
       {
-        "author": "Talmud Babilonian, Sanhedrin 108a-108b (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 108a-108b",
         "text": "Rabi Iose leagă mândria generației Potopului tocmai de „pofta ochiului” — citând direct acest verset („fiii de vază au văzut că fiicele oamenilor erau frumoase”) — și explică pedeapsa ulterioară (Potopul, apă) ca „asemănătoare globului ochiului”, o pedeapsă în oglindă pentru păcatul poftei vizuale."
       },
       {
@@ -270,7 +270,7 @@ window.CHAPTER_DATA = [
         "text": "Motivul uniunilor între ființe divine și femei omenești, care nasc eroi/uriași, apare și în mitologia mesopotamiană și greacă (eroii semi-divini din epopeile sumeriene, mai târziu titanii și eroii greci). Geneza 6:1-4 rămâne, totuși, remarcabil de scurt și lipsit de detalii epice față de paralelele sale — doar patru versete, fără nicio glorificare a acestor „puternici de odinioară”, ci direct legate, în versetele următoare, de motivul păcatului care duce la Potop."
       },
       {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3 (verificat)",
+        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
         "text": "Josephus susține explicit citirea angelică: „mulți îngeri ai lui Dumnezeu s-au unit cu femei și au născut fii nedrepți, disprețuitori a tot ce era bun, datorită încrederii pe care o aveau în propria putere; căci tradiția spune că acești oameni au făcut fapte asemănătoare cu cele pe care grecii le atribuie giganților.” Adaugă un detaliu absent din textul biblic: Noe ar fi încercat, fără succes, să-i convingă pe acești „fii ai lui Dumnezeu” să-și schimbe purtarea, înainte de a se retrage de teamă pentru familia sa."
       },
       {
@@ -828,7 +828,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Talmud Babilonian, Sanhedrin 108a-108b (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 108a-108b",
         "text": "Talmudul discută explicit sensul cuvântului „vayinachem” (S-a regretat/S-a mângâiat), citând două explicații opuse. Una (Rav Dimi): Dumnezeu „S-a mângâiat” — a fost bine că a pregătit deja morminte (pământul) pentru oameni, deci judecata putea urma firesc. Cealaltă: Dumnezeu „a regretat” în sensul propriu — n-a fost bine că i-a creat, ca să-i distrugă. Ambele lecturi rămân deschise în text, o discuție remarcabilă pentru un verset care pare, la prima vedere, să sugereze că Dumnezeu Își schimbă părerea."
       }
     ],
@@ -1274,7 +1274,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Talmud Babilonian, Sanhedrin 108a-108b (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 108a-108b",
         "text": "Consemnează o dezbatere clasică despre „integru în generațiile sale”: Rabi Iohanan citește expresia restrictiv — Noe era drept doar prin comparație cu contemporanii lui răi; într-o generație mai bună, n-ar fi ieșit în evidență la fel de mult. Reish Lakiș citește exact invers — dacă Noe a rămas drept chiar înconjurat de o generație atât de coruptă, cu atât mai mult ar fi fost drept într-o generație bună. Rabi Hanina ilustrează prima poziție cu o pildă: un butoi de vin pus într-o pivniță plină de oțet — parfumul lui se simte puternic acolo, dar n-ar ieși în evidență la fel de mult printre alte vinuri bune."
       },
       {
@@ -1652,7 +1652,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Talmud Babilonian, Sanhedrin 108a-108b (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 108a-108b",
         "text": "Rabi Iohanan interpretează expresia „toată firea își pervertise calea” drept referire la o corupție care a depășit granițele speciei: oamenii ar fi împerecheat animale domestice cu sălbatice, dincolo de speciile lor, și oameni cu animale — o corupție generalizată a ordinii naturale, nu doar violență morală între oameni."
       }
     ],
@@ -1820,7 +1820,7 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
-        "author": "Talmud Babilonian, Sanhedrin 108a-108b (verificat)",
+        "author": "Talmud Babilonian, Sanhedrin 108a-108b",
         "text": "Rabi Iohanan notează un detaliu remarcat des: deși generația Potopului încălcase practic fiecare poruncă morală, sentința lor n-a fost pecetluită definitiv decât după ce s-au apucat și de jaf/tâlhărie — „s-a umplut pământul de jaf”. Jaful pare să fi fost păcatul care a întors balanța final, nu doar unul dintre multe."
       }
     ],

@@ -2582,7 +2582,7 @@ window.CHAPTER_DATA = [
         "text": "Rashi explică numele locului ca exprimând atât actul lui Avraham de a vedea providența divină, cât și promisiunea că generațiile viitoare vor „fi văzute”, adică vor experimenta la rândul lor mila divină, în acel loc (identificat tradițional cu Templul din Ierusalim)."
       },
       {
-        "author": "Talmud Babilonian, Taanit 16a (verificat direct în arhivă)",
+        "author": "Talmud Babilonian, Taanit 16a",
         "text": "O dezbatere reală între Rabi Levi bar Hama și Rabi Hanina: primul explică cenușa pusă pe cap în zilele de post ca simbol al smereniei proprii, al doilea o citește ca reamintire adresată lui Dumnezeu a „cenușii lui Isaac, strămoșul nostru” — o tradiție care păstrează simbolic ideea jertfei chiar dacă Isaac nu a murit efectiv. Aceiași doi înțelepți dezbat, separat, și etimologia numelui Muntele Moria — unul îl leagă de „hora'a” (instrucțiune, referitor la Marele Sanhedrin care avea să se întrunească acolo)."
       }
     ]

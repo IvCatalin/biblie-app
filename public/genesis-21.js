@@ -804,7 +804,7 @@ window.CHAPTER_DATA = [
         "text": "Rashi discută dubla semnificație a jocului de cuvinte cu numele Isaac („va râde”) — atât bucuria proprie a Sarei, cât și bucuria împărtășită a celor care vor auzi despre minune."
       },
       {
-        "author": "Talmud Babilonian, Bava Metzia 87a (verificat direct în arhivă)",
+        "author": "Talmud Babilonian, Bava Metzia 87a",
         "text": "Ghemara relatează o tradiție: Avraham a invitat marii oameni ai vremii, iar Sara a invitat soțiile lor, fiecare aducând copilul, dar nu și doica — un miracol a făcut ca Sara însăși să alăpteze toți acei copii, dovadă publică a laptelui ei real. Aceeași secțiune adaugă că, până la Avraham, bătrânețea nu era vizibilă fizic — cine voia să vorbească cu Avraham vorbea din greșeală cu Isaac, atât de identici la înfățișare erau tatăl și fiul."
       }
     ]
