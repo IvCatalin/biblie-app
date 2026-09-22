@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "22 capitole (din 54+2 planificate) · 22 complete la Standardul Davar",
+ "meta": "23 capitole (din 54+2 planificate) · 23 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -46533,6 +46533,518 @@
       "text": "Rashi precizează sensul exact al aclamației: poporul nu spune doar „DOMNUL este Dumnezeu” în general, ci, în contextul disputei directe cu Baal, afirmă explicit că DOMNUL — și nu Baal — este singurul Dumnezeu adevărat; repetarea dublă a formulei încheie simetric întrebarea retorică pusă de Ilie la v.21, transformând nehotărârea poporului în mărturisire unanimă."
      }
     ]
+   }
+  ]
+ }
+ ,
+  {
+  "num": 23,
+  "title": "Haftarat Vaiakhél (sefard și Chabad)",
+  "ref": "Regi I 7:13-26",
+  "intro": "Haftarat Vaiakhél leagă construcția Cortului Întâlnirii din pericopă de lucrarea măiestrului Hiram din Tir la Templul lui Solomon — cei doi stâlpi de aramă, Iachin și Boaz, și „Marea” turnată, bazinul ritual pentru curățirea preoților. Tradiția sefardă și comunitățile Chabad citesc acest pasaj tehnic, arhitectural, ca paralelă directă la măiestria lui Bețalel din Exod.",
+  "verses": [
+   {
+    "v": "7:13",
+    "t": "Regele Solomon a trimis și l-a adus pe Hiram din Tir.",
+    "heb": "וַיִּשְׁלַח הַמֶּלֶךְ שְׁלֹמֹה וַיִּקַּח אֶת־חִירָם מִצֹּֽר׃",
+    "translit": "Vayișlah hameleh Șlomo vayikah et-Hiram miȚor.",
+    "tokens": [
+     {
+      "t": "Regele Solomon a trimis și l-a adus pe "
+     },
+     {
+      "t": "Hiram",
+      "w": "Hiram",
+      "heb": "חִירָם",
+      "translit": "Hiram",
+      "strong": "H2438",
+      "pos": "nume propriu",
+      "def_ro": "Hiram — numele meșterului din Tir.",
+      "dict_ro": "Hiram (aici, meșterul artizan, de distins de Hiram regele Tirului din 5:15) — omonimie remarcată de comentatori: doi bărbați cu același nume, ambii esențiali pentru construcția Templului, unul furnizând materialele și priceperea politică, celălalt priceperea tehnică efectivă. Numele are probabil sensul „fratele meu e înălțat”, potrivit statutului lui privilegiat la curtea lui Solomon."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח הַמֶּלֶךְ שְׁלֹמֹה וַיִּקַּח אֶת־חִירָם מִצֹּֽר׃",
+      "translation": "„Regele Solomon a trimis și l-a adus pe Hiram din Tir.” — traducerea rabinului Rosen.",
+      "note": "Notă onestă: Septuaginta (III Regate) reordonează substanțial capitolul 7 față de textul masoretic — secțiunea despre stâlpi și „Marea” apare într-o altă succesiune de versete în textul grecesc, iar numele meșterului și ale stâlpilor sunt redate diferit (vezi nota la v.21). Din acest motiv, comparația verset-cu-verset cu Septuaginta nu se poate face cu precizie mecanică la acest pasaj; divergențele reale, verificate, sunt semnalate punctual mai jos, fără a presupune o corespondență falsă."
+     }
+    ],
+    "refs": [
+     "1 Regi 5:15"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:14",
+    "t": "El era fiul unei femei văduve din tribul Naftali, iar tatăl lui era un bărbat din Tir. El era făuritor în aramă, era plin de înțelepciune, talent și cunoaștere în întocmirea oricărei lucrări din aramă, și a venit la regele Solomon și a făcut toată lucrarea lui.",
+    "heb": "בֶּן־אִשָּׁה אַלְמָנָה הוּא מִמַּטֵּה נַפְתָּלִי וְאָבִיו אִישׁ־צֹרִי חֹרֵשׁ נְחֹשֶׁת וַיִּמָּלֵא אֶת־הַחָכְמָה וְאֶת־הַתְּבוּנָה וְאֶת־הַדַּעַת לַעֲשׂוֹת כָּל־מְלָאכָה בַּנְּחֹשֶׁת וַיָּבוֹא אֶל־הַמֶּלֶךְ שְׁלֹמֹה וַיַּעַשׂ אֶת־כָּל־מְלַאכְתּוֹ׃",
+    "translit": "Ben-ișa almana hu mimate Naftali veaviv iș-Țori horeș nehoșet vayimale et-hahochma veet-hatevuna veet-hadaat laasot kol-melacha banehoșet vayavo el-hameleh Șlomo vayaas et-kol-melachto.",
+    "tokens": [
+     {
+      "t": "El era fiul unei femei văduve din tribul Naftali, iar tatăl lui era un bărbat din Tir. El era făuritor în aramă, era plin de "
+     },
+     {
+      "t": "înțelepciune",
+      "w": "înțelepciune",
+      "heb": "הַחָכְמָה",
+      "translit": "ha-hochma",
+      "strong": "H2451",
+      "pos": "substantiv, feminin",
+      "def_ro": "înțelepciune.",
+      "dict_ro": "Hochma — același termen folosit pentru darul special dat lui Bețalel la construcția Cortului (Exod 31:3, „l-am umplut cu duhul lui Dumnezeu, în înțelepciune, în pricepere și în cunoștință”); tripleta hochma-tevuna-daat e identică aici, textual, cu cea din Exod — paralelă deliberată, care așază munca lui Hiram la Templu în continuitate directă cu darul divin acordat lui Bețalel."
+     },
+     {
+      "t": ", talent și cunoaștere în întocmirea oricărei lucrări din aramă, și a venit la regele Solomon și a făcut toată lucrarea lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בֶּן־אִשָּׁה אַלְמָנָה הוּא מִמַּטֵּה נַפְתָּלִי...",
+      "translation": "„El era fiul unei femei văduve din tribul Naftali...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "Exod 31:3"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:15",
+    "t": "Și [Hiram] a făurit cei doi stâlpi de aramă: optsprezece coți era înălțimea fiecărui stâlp și o sfoară [cu lungimea] de doisprezece coți îi putea măsura circumferința; și la fel era și al doilea stâlp.",
+    "heb": "וַיָּצַר אֶת־שְׁנֵי הָעַמּוּדִים נְחֹשֶׁת שְׁמֹנֶה עֶשְׂרֵה אַמָּה קוֹמַת הָעַמּוּד הָאֶחָד וְחוּט שְׁתֵּים־עֶשְׂרֵה אַמָּה יָסֹב אֶת־הָעַמּוּד הַשֵּׁנִי׃",
+    "translit": "Vayatzar et-șenei haamudim nehoșet șmone esre ama komat haamud haehad vehut șteim-esre ama yasov et-haamud hașeni.",
+    "tokens": [
+     {
+      "t": "Și [Hiram] a făurit cei doi "
+     },
+     {
+      "t": "stâlpi",
+      "w": "stâlpi",
+      "heb": "הָעַמּוּדִים",
+      "translit": "ha-amudim",
+      "strong": "H5982",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "stâlpii.",
+      "dict_ro": "Amud — Rashi observă o discrepanță reală între înălțimea dată aici (optsprezece coți) și cea din relatarea paralelă din 2 Cronici 3:15 (treizeci și cinci de coți), pe care o explică prin faptul că cei treizeci și cinci de coți din Cronici reprezintă lungimea totală a metalului lucrat pentru amândoi stâlpii împreună (aproximativ dublul celor optsprezece, plus rotunjiri), nu înălțimea unui singur stâlp ridicat."
+     },
+     {
+      "t": " de aramă: optsprezece coți era înălțimea fiecărui stâlp și o sfoară [cu lungimea] de doisprezece coți îi putea măsura circumferința; și la fel era și al doilea stâlp."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּצַר אֶת־שְׁנֵי הָעַמּוּדִים נְחֹשֶׁת...",
+      "translation": "„Și [Hiram] a făurit cei doi stâlpi de aramă...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "2 Cronici 3:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi rezolvă discrepanța dintre cei optsprezece coți din Regi și cei treizeci și cinci de coți din Cronici pentru înălțimea stâlpilor, explicând că relatarea din Cronici numără lungimea totală a metalului turnat pentru amândoi stâlpii, incluzând porțiunile ascunse în interiorul zidului, nu doar partea vizibilă, ridicată liber."
+     }
+    ]
+   },
+   {
+    "v": "7:16",
+    "t": "A făcut două capiteluri care să fie puse la vârful celor doi stâlpi, turnate din aramă; înălțimea unui capitel era de cinci coți și înălțimea celuilalt capitel era de cinci coți.",
+    "heb": "וּשְׁתֵּי כֹתָרֹת עָשָׂה לָתֵת עַל־רָאשֵׁי הָעַמּוּדִים מֻצַק נְחֹשֶׁת חָמֵשׁ אַמּוֹת קוֹמַת הַכֹּתֶרֶת הָאֶחָת וְחָמֵשׁ אַמּוֹת קוֹמַת הַכֹּתֶרֶת הַשֵּׁנִית׃",
+    "translit": "Uștei hotarot asa latet al-rașei haamudim mutzak nehoșet hameș amot komat hakoteret haehat vehameș amot komat hakoteret hașenit.",
+    "tokens": [
+     {
+      "t": "A făcut două "
+     },
+     {
+      "t": "capiteluri",
+      "w": "capiteluri",
+      "heb": "כֹתָרֹת",
+      "translit": "hotarot",
+      "strong": "H3805",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "capiteluri, coroane.",
+      "dict_ro": "Hoteret — de la aceeași rădăcină ca hoter, „coroană”; ornamentul de la vârful stâlpilor, distinct de trupul lor drept, subliniind funcția pur decorativă (nu structurală) a acestor coloane — Iachin și Boaz nu susțineau nimic, stăteau libere, în fața Sălii Templului, ca simbol, nu ca element de arhitectură portantă."
+     },
+     {
+      "t": " care să fie puse la vârful celor doi stâlpi, turnate din aramă; înălțimea unui capitel era de cinci coți și înălțimea celuilalt capitel era de cinci coți."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּשְׁתֵּי כֹתָרֹת עָשָׂה לָתֵת עַל־רָאשֵׁי הָעַמּוּדִים...",
+      "translation": "„A făcut două capiteluri...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "7:17",
+    "t": "A făcut niște rețele de plasă împletită, din lanțuri împletite, pentru capitelurile care se aflau pe vârful stâlpilor – șapte pentru primul capitel și șapte pentru al doilea capitel.",
+    "heb": "שְׂבָכִים מַעֲשֵׂה שְׂבָכָה גְּדִלִים מַעֲשֵׂה שַׁרְשְׁרוֹת לַכֹּתָרֹת אֲשֶׁר עַל־רֹאשׁ הָעַמּוּדִים שִׁבְעָה לַכֹּתֶרֶת הָאֶחָת וְשִׁבְעָה לַכֹּתֶרֶת הַשֵּׁנִית׃",
+    "translit": "Sevachim maase sevacha ghedilim maase șarșerot lakotarot așer al-roș haamudim șiva lakoteret haehat veșiva lakoteret hașenit.",
+    "tokens": [
+     {
+      "t": "A făcut niște "
+     },
+     {
+      "t": "rețele",
+      "w": "rețele",
+      "heb": "שְׂבָכִים",
+      "translit": "sevachim",
+      "strong": "H7639",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "rețele, plase.",
+      "dict_ro": "Sevacha — plasă decorativă de metal; Rashi o compară, ca formă, cu un tip de acoperitoare de cap folosită de femei în epoca lui, o imagine vizuală menită să ajute cititorul medieval să-și închipuie ornamentul, mai degrabă decât un termen tehnic biblic propriu-zis."
+     },
+     {
+      "t": " de plasă împletită, din lanțuri împletite, pentru capitelurile care se aflau pe vârful stâlpilor – șapte pentru primul capitel și șapte pentru al doilea capitel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שְׂבָכִים מַעֲשֵׂה שְׂבָכָה גְּדִלִים...",
+      "translation": "„A făcut niște rețele de plasă împletită...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "7:18",
+    "t": "A făcut stâlpii și două rânduri [de rodii], de jur împrejurul fiecărei rețele, ca să acopere capitelurile din vârf cu rodii; și a făcut la fel pentru al doilea capitel.",
+    "heb": "וַיַּעַשׂ אֶת־הָעַמּוּדִים וּשְׁנֵי טוּרִים סָבִיב עַל־הַשְּׂבָכָה הָאֶחָת לְכַסּוֹת אֶת־הַכֹּתָרֹת אֲשֶׁר עַל־רֹאשׁ הָרִמֹּנִים וְכֵן עָשָׂה לַכֹּתֶרֶת הַשֵּׁנִית׃",
+    "translit": "Vayaas et-haamudim ușnei turim saviv al-hasevacha haehat lechasot et-hakotarot așer al-roș harimonim vechen asa lakoteret hașenit.",
+    "tokens": [
+     {
+      "t": "A făcut stâlpii și două rânduri de "
+     },
+     {
+      "t": "rodii",
+      "w": "rodii",
+      "heb": "הָרִמֹּנִים",
+      "translit": "ha-rimonim",
+      "strong": "H7416",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "rodiile.",
+      "dict_ro": "Rimon, „rodie” — motiv ornamental recurent la Templu, identic cu cel de pe poalele veșmântului marelui preot (Exod 28:33-34); rodia, fruct cu multe semințe, e asociată în tradiția evreiască ulterioară cu belșugul poruncilor (613, cifră tradițională legată popular de numărul semințelor unei rodii) — deși legătura aceasta numerică apare abia în surse rabinice mult mai târzii."
+     },
+     {
+      "t": ", de jur împrejurul fiecărei rețele, ca să acopere capitelurile din vârf cu rodii; și a făcut la fel pentru al doilea capitel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעַשׂ אֶת־הָעַמּוּדִים וּשְׁנֵי טוּרִים סָבִיב...",
+      "translation": "„A făcut stâlpii și două rânduri [de rodii]...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "Exod 28:33-34"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:19",
+    "t": "Iar capitelurile care se aflau în vârful stâlpilor aveau același [ornament] în formă de trandafir ca și în Sală, având patru coți.",
+    "heb": "וְכֹתָרֹת אֲשֶׁר עַל־רֹאשׁ הָעַמּוּדִים מַעֲשֵׂה שׁוּשַׁן בָּאוּלָם אַרְבַּע אַמּוֹת׃",
+    "translit": "Vehotarot așer al-roș haamudim maase șușan baulam arba amot.",
+    "tokens": [
+     {
+      "t": "Iar capitelurile care se aflau în vârful stâlpilor aveau același ornament în formă de "
+     },
+     {
+      "t": "trandafir",
+      "w": "trandafir",
+      "heb": "שׁוּשַׁן",
+      "translit": "șușan",
+      "strong": "H7799",
+      "pos": "substantiv, masculin",
+      "def_ro": "crin, trandafir.",
+      "dict_ro": "Șușan — de fapt „crin” (lilium), nu trandafir propriu-zis, deși traducerea românească tradițională păstrează „trandafir”; e rădăcina numelui orașului Susa (Șușan ha-bira, „Susa, capitala”, cf. Estera 1:2), numit probabil după abundența acestei flori în regiune."
+     },
+     {
+      "t": " ca și în Sală, având patru coți."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְכֹתָרֹת אֲשֶׁר עַל־רֹאשׁ הָעַמּוּדִים מַעֲשֵׂה שׁוּשַׁן...",
+      "translation": "„Iar capitelurile care se aflau în vârful stâlpilor...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "Estera 1:2"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:20",
+    "t": "Și capitelurile care se aflau pe cei doi stâlpi continuau și deasupra, vizavi de ridicătura care se afla la marginea rețelei; și două sute de rodii – în rânduri de jur împrejur – se aflau pe cel de-al doilea capitel.",
+    "heb": "וְכֹתָרֹת עַל־שְׁנֵי הָעַמּוּדִים גַּם־מִמַּעַל מִלְּעֻמַּת הַבֶּטֶן אֲשֶׁר לְעֵבֶר שְׂבָכָה וְהָרִמּוֹנִים מָאתַיִם טֻרִים סָבִיב עַל הַכֹּתֶרֶת הַשֵּׁנִית׃",
+    "translit": "Vehotarot al-șenei haamudim gam-mimaal mileumat habeten așer leever sevacha veharimonim matayim turim saviv al hakoteret hașenit.",
+    "tokens": [
+     {
+      "t": "Și capitelurile care se aflau pe cei doi stâlpi continuau și deasupra, vizavi de ridicătura care se afla la marginea rețelei; și "
+     },
+     {
+      "t": "două sute",
+      "w": "două sute",
+      "heb": "מָאתַיִם",
+      "translit": "matayim",
+      "strong": "H3967",
+      "pos": "numeral, dual",
+      "def_ro": "două sute.",
+      "dict_ro": "Matayim — două sute de rodii pe fiecare capitel (deci patru sute în total, cf. 2 Cronici 4:13, unde suma apare explicit), dintre care doar o parte, aranjate pe rândul exterior vizibil, erau numărate separat ca „nouă sute șase” la 7:42 — detaliu tehnic al construcției pe care Rashi îl explică prin distincția dintre rodiile pe rândul vizibil dinspre exterior și cele ascunse dinspre stâlp."
+     },
+     {
+      "t": " de rodii – în rânduri de jur împrejur – se aflau pe cel de-al doilea capitel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְכֹתָרֹת עַל־שְׁנֵי הָעַמּוּדִים גַּם־מִמַּעַל...",
+      "translation": "„Și capitelurile care se aflau pe cei doi stâlpi continuau și deasupra...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "2 Cronici 4:13",
+     "1 Regi 7:42"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:21",
+    "t": "A ridicat stâlpii pentru Sala Sanctuarului: a ridicat stâlpul din dreapta și i-a pus numele Iachin și a ridicat stâlpul din stânga și i-a pus numele Boaz.",
+    "heb": "וַיָּקֶם אֶת־הָעַמֻּדִים לְאֻלָם הַהֵיכָל וַיָּקֶם אֶת־הָעַמּוּד הַיְמָנִי וַיִּקְרָא אֶת־שְׁמוֹ יָכִין וַיָּקֶם אֶת־הָעַמּוּד הַשְּׂמָאלִי וַיִּקְרָא אֶת־שְׁמוֹ בֹּעַז׃",
+    "translit": "Vayakem et-haamudim leulam haheichal vayakem et-haamud hayemani vayikra et-șemo Yachin vayakem et-haamud hasmali vayikra et-șemo Boaz.",
+    "tokens": [
+     {
+      "t": "A ridicat stâlpii pentru Sala Sanctuarului: a ridicat stâlpul din dreapta și i-a pus numele "
+     },
+     {
+      "t": "Iachin",
+      "w": "Iachin",
+      "heb": "יָכִין",
+      "translit": "Yachin",
+      "strong": "H3199",
+      "pos": "nume propriu",
+      "def_ro": "Iachin — „El va întemeia”.",
+      "dict_ro": "Yakhin, de la rădăcina kun, „a întemeia, a stabili” — Talmudul (Yoma 21b) și tradiția rabinică ulterioară citesc numele celor doi stâlpi împreună, ca o singură propoziție-program: Yakhin uvoaz, „El [DOMNUL] va întemeia [tronul lui David/Templul] cu tărie” — nu simple nume decorative, ci o promisiune dinastică turnată în aramă, la intrarea Sanctuarului."
+     },
+     {
+      "t": " și a ridicat stâlpul din stânga și i-a pus numele "
+     },
+     {
+      "t": "Boaz",
+      "w": "Boaz",
+      "heb": "בֹּעַז",
+      "translit": "Boaz",
+      "strong": "H1162",
+      "pos": "nume propriu",
+      "def_ro": "Boaz — „în El e tărie”.",
+      "dict_ro": "Bo-az, „în El [este] tărie” — completează propoziția-program începută de Iachin; numele coincide, notabil, cu cel al strămoșului lui David, Boaz din cartea Rut — coincidență pe care unii comentatori o leagă simbolic de promisiunea dinastică davidică aflată chiar la intrarea Templului construit de urmașul lui David, Solomon."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּקֶם אֶת־הָעַמֻּדִים לְאֻלָם הַהֵיכָל...",
+      "translation": "„A ridicat stâlpii pentru Sala Sanctuarului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἔστησε τὸν στῦλον τὸν ἕνα καὶ ἐπεκάλεσε τὸ ὄνομα αὐτοῦ Ἰαχούμ· καὶ ἔστησε τὸν στῦλον τὸν δεύτερον καὶ ἐπεκάλεσε τὸ ὄνομα αὐτοῦ Βαάς.",
+      "greek": true,
+      "translation": "„și a ridicat stâlpul unul și a chemat numele lui Iahum; și a ridicat al doilea stâlp și a chemat numele lui Baas.”",
+      "note": "Divergență reală, notabilă: Septuaginta redă numele stâlpilor ca „Iahum” și „Baas”, forme grecizate distincte de „Iachin” și „Boaz” din textul masoretic — fie o tradiție textuală diferită a numelor proprii, fie o coruptelă de transmitere în manuscrisele grecești; nu există consens savant ferm asupra cauzei exacte."
+     }
+    ],
+    "refs": [
+     "Rut 4:21",
+     "1 Cronici 2:11-12"
+    ],
+    "commentaries": [
+     {
+      "author": "Talmud Babilonian, tratatul Yoma 21b",
+      "text": "Talmudul citește cele două nume ca o singură frază continuă, „Yakhin uvoaz” — „El va întemeia [cu] tărie” — o promisiune divină turnată literal la intrarea Templului, referitoare la statornicia dinastiei davidice și a Casei DOMNULUI."
+     }
+    ]
+   },
+   {
+    "v": "7:22",
+    "t": "Iar peste vârful stâlpilor se afla [un ornament] în formă de trandafir; și astfel s-a încheiat lucrarea stâlpilor.",
+    "heb": "וְעַל רֹאשׁ הָעַמּוּדִים מַעֲשֵׂה שׁוֹשָׁן וַתִּתֹּם מְלֶאכֶת הָעַמּוּדִים׃",
+    "translit": "Veal roș haamudim maase șoșan vatitom melechet haamudim.",
+    "tokens": [],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַל רֹאשׁ הָעַמּוּדִים מַעֲשֵׂה שׁוֹשָׁן...",
+      "translation": "„Iar peste vârful stâlpilor se afla [un ornament] în formă de trandafir...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "7:23",
+    "t": "Și a făcut „Marea” turnată, de zece coți de la o margine la cealaltă margine, rotundă de jur împrejur și având înălțimea de cinci coți, iar o sfoară cu lungimea de treizeci de coți o putea înconjura de jur împrejur.",
+    "heb": "וַיַּעַשׂ אֶת־הַיָּם מוּצָק עֶשֶׂר בָּאַמָּה מִשְּׂפָתוֹ עַד־שְׂפָתוֹ עָגֹל סָבִיב וְחָמֵשׁ בָּאַמָּה קוֹמָתוֹ וְקָו שְׁלֹשִׁים בָּאַמָּה יָסֹב אֹתוֹ סָבִיב׃",
+    "translit": "Vayaas et-hayam mutzak eser baama misefato ad-sefato agol saviv vehameș baama komato vekav șloșim baama yasov oto saviv.",
+    "tokens": [
+     {
+      "t": "Și a făcut „"
+     },
+     {
+      "t": "Marea",
+      "w": "Marea",
+      "heb": "הַיָּם",
+      "translit": "ha-yam",
+      "strong": "H3220",
+      "pos": "substantiv, masculin, cu articol",
+      "def_ro": "Marea — numele dat bazinului mare de aramă.",
+      "dict_ro": "Ha-yam, „Marea” — numele dat marelui bazin ritual, folosit de preoți pentru spălarea mâinilor și picioarelor (parale funcțional cu ligheanul din bronz al Cortului, Exod 30:18), numit metaforic „mare” datorită capacității uriașe. Faimosul pasaj talmudic din Eruvin 76b discută exact aceste măsurători — zece coți diametru, treizeci de coți circumferință — ca sursă a aproximării rabinice tradiționale a raportului dintre circumferință și diametru la exact 3:1."
+     },
+     {
+      "t": "” turnată, de zece coți de la o margine la cealaltă margine, rotundă de jur împrejur și având înălțimea de cinci coți, iar o sfoară cu lungimea de treizeci de coți o putea înconjura de jur împrejur."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעַשׂ אֶת־הַיָּם מוּצָק עֶשֶׂר בָּאַמָּה...",
+      "translation": "„Și a făcut «Marea» turnată...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐποίησε τὴν θάλασσαν δέκα ἐν πήχει ἀπὸ τοῦ χείλους αὐτῆς ἕως τοῦ χείλους αὐτῆς...",
+      "greek": true,
+      "translation": "„și a făcut marea de zece coți de la buza ei până la buza ei...”",
+      "note": "Traducere fidelă (θάλασσα = „mare”, calc direct al ebraicului yam); numerotarea versetelor din LXX diferă însă de cea masoretică în acest capitol, conform notei de la v.13."
+     }
+    ],
+    "refs": [
+     "Exod 30:18"
+    ],
+    "commentaries": [
+     {
+      "author": "Talmud Babilonian, tratatul Eruvin 76b",
+      "text": "Talmudul folosește exact aceste măsurători ale «Mării» — zece coți diametru, treizeci de coți circumferință — ca temei pentru regula practică rabinică potrivit căreia orice obiect circular are o circumferință de aproximativ trei ori diametrul său („kol șe-hekifo șaloșa tefahim, rohbo tefah”), aproximare pe care Rashi o citează la v.23, explicând geometric relația dintre cele două măsurători."
+     }
+    ]
+   },
+   {
+    "v": "7:24",
+    "t": "Sub marginea ei, de jur împrejur, erau ornamente în formă de ou, câte zece la fiecare cot, împodobind „Marea” de jur împrejur; ouăle erau pe două rânduri, turnate odată [cu „Marea”].",
+    "heb": "וּפְקָעִים מִתַּחַת לִשְׂפָתוֹ סָבִיב סֹבְבִים אֹתוֹ עֶשֶׂר בָּאַמָּה מַקִּפִים אֶת־הַיָּם סָבִיב שְׁנֵי טוּרִים הַפְּקָעִים יְצֻקִים בִּיצֻקָתוֹ׃",
+    "translit": "Ufkaim mitahat lisfato saviv sovevim oto eser baama makifim et-hayam saviv șenei turim hapekaim yetzukim bitzukato.",
+    "tokens": [],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּפְקָעִים מִתַּחַת לִשְׂפָתוֹ סָבִיב...",
+      "translation": "„Sub marginea ei, de jur împrejur, erau ornamente în formă de ou...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "7:25",
+    "t": "Ea era pusă pe doisprezece boi, trei orientați spre miazănoapte, trei orientați spre apus, trei orientați spre miazăzi și trei orientați spre răsărit; „Marea” era așezată deasupra lor, cu partea lor din spate spre interior.",
+    "heb": "עֹמֵד עַל־שְׁנֵי עָשָׂר בָּקָר שְׁלֹשָׁה פֹנִים צָפוֹנָה וּשְׁלֹשָׁה פֹנִים יָמָּה וּשְׁלֹשָׁה פֹּנִים נֶגְבָּה וּשְׁלֹשָׁה פֹּנִים מִזְרָחָה וְהַיָּם עֲלֵיהֶם מִלְמָעְלָה וְכָל־אֲחֹרֵיהֶם בָּיְתָה׃",
+    "translit": "Omed al-șenei asar bakar șloșa fonim tzafona ușloșa fonim yama ușloșa fonim negba ușloșa fonim mizraha vehayam aleihem milmala vechol-ahoreihem baita.",
+    "tokens": [
+     {
+      "t": "Ea era pusă pe "
+     },
+     {
+      "t": "doisprezece boi",
+      "w": "doisprezece boi",
+      "heb": "שְׁנֵי עָשָׂר בָּקָר",
+      "translit": "șenei asar bakar",
+      "strong": "H1241",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "doisprezece boi.",
+      "dict_ro": "Bakar — cei doisprezece boi, câte trei spre fiecare punct cardinal, reprezintă simbolic cele douăsprezece triburi ale lui Israel susținând „Marea” purificării; regele Ahaz, generații mai târziu, a îndepărtat acest suport, punând „Marea” direct pe o bază de piatră, ca tribut plătit regelui Asiriei (2 Regi 16:17) — un gest citit tradițional ca simbol al degradării spirituale a monarhiei, distrugând tocmai imaginea unității celor douăsprezece triburi."
+     },
+     {
+      "t": ", trei orientați spre miazănoapte, trei orientați spre apus, trei orientați spre miazăzi și trei orientați spre răsărit; „Marea” era așezată deasupra lor, cu partea lor din spate spre interior."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עֹמֵד עַל־שְׁנֵי עָשָׂר בָּקָר...",
+      "translation": "„Ea era pusă pe doisprezece boi...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "2 Regi 16:17"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:26",
+    "t": "Grosimea ei era de o palmă, iar marginea ei era făcută ca marginea unei cupe cu o lucrare de trandafir și conținea două mii de bați de lichid.",
+    "heb": "וְעָבְיוֹ טֶפַח וּשְׂפָתוֹ כְּמַעֲשֵׂה שְׂפַת־כּוֹס פֶּרַח שׁוֹשָׁן אַלְפַּיִם בַּת יָכִיל׃",
+    "translit": "Veovyo tefah usefato kemaase sefat-kos perah șoșan alpaim bat yachil.",
+    "tokens": [
+     {
+      "t": "Grosimea ei era de o palmă, iar marginea ei era făcută ca marginea unei cupe cu o lucrare de trandafir și conținea "
+     },
+     {
+      "t": "două mii de bați",
+      "w": "două mii de bați",
+      "heb": "אַלְפַּיִם בַּת",
+      "translit": "alpaim bat",
+      "strong": "H1324",
+      "pos": "substantiv, feminin, cu numeral",
+      "def_ro": "două mii de bați [unitate de măsură pentru lichide].",
+      "dict_ro": "Bat — unitate standard de capacitate în perioada regatelor israelite, echivalentă aproximativ cu 22 de litri, ceea ce dă „Mării” un volum de circa 44.000 de litri; relatarea paralelă din 2 Cronici 4:5 dă cifra „trei mii de bați” pentru capacitate maximă, discrepanță pe care comentatorii tradiționali o explică prin distincția dintre volumul folosit efectiv pentru apă (2.000 bați, cifra din Regi) și capacitatea totală teoretică a formei rotunde a vasului (3.000 bați, cifra din Cronici)."
+     },
+     {
+      "t": " de lichid."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעָבְיוֹ טֶפַח וּשְׂפָתוֹ כְּמַעֲשֵׂה שְׂפַת־כּוֹס...",
+      "translation": "„Grosimea ei era de o palmă...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "2 Cronici 4:5"
+    ],
+    "commentaries": []
    }
   ]
  }
