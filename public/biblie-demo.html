@@ -2282,6 +2282,22 @@
     line-height:1;
     cursor:pointer;
   }
+  .commentary-lib-go{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    flex-shrink:0;
+    width:22px; height:22px;
+    margin-left:4px;
+    border-radius:50%;
+    background:rgba(212,160,23,0.14);
+    border:1px solid rgba(212,160,23,0.4);
+    color:var(--gold);
+    font-size:12px;
+    line-height:1;
+    cursor:pointer;
+    vertical-align:middle;
+  }
   .pericope-section-label{
     font-family:'Inter', sans-serif;
     font-size:11px;
@@ -5214,6 +5230,58 @@ const SUBFOLDER_CARD_IMAGES = {
       openFolder(currentFolderKey);
     }
   });
+
+  // ---- deschidere directă la un capitol anume (folosit de săgeata aurie din
+  // comentariile apocrife, ex. Geneza -> 1 Enoh cap. 6) ----
+  function findLibraryBookBySlug(slug){
+    function searchList(list){
+      if(!Array.isArray(list)) return null;
+      for(const entry of list){
+        if(!entry || entry.isHeader) continue;
+        if(entry.isSubgroup){
+          const found = searchList(entry.items);
+          if(found) return found;
+          continue;
+        }
+        if(entry.slug === slug) return entry;
+      }
+      return null;
+    }
+    for(const key of Object.keys(LIBRARY)){
+      const folder = LIBRARY[key];
+      if(Array.isArray(folder.books)){
+        const found = searchList(folder.books);
+        if(found) return found;
+      }
+      if(Array.isArray(folder.subfolders)){
+        for(const sub of folder.subfolders){
+          const found = searchList(sub.items);
+          if(found) return found;
+        }
+      }
+    }
+    return null;
+  }
+  function openReaderAtChapter(book, chapterIdx){
+    currentBook = book;
+    currentChapterIdx = chapterIdx;
+    readerBackdrop.classList.add("show");
+    readerModal.classList.add("show");
+    libApplyTextPrefs();
+    renderChapter();
+  }
+  // apelată din HTML-ul comentariilor (ex. genesis-6.js), ca onclick inline —
+  // de aceea e expusă pe window, nu doar închisă în acest scope local
+  window.openLibraryCitation = function(slug, chapterNum){
+    const book = findLibraryBookBySlug(slug);
+    if(!book){
+      console.warn("Lucrare negăsită în Bibliotecă pentru citare:", slug);
+      return;
+    }
+    const total = totalChapters(book);
+    const idx = Math.min(Math.max(0, (chapterNum|0) - 1), Math.max(0, total - 1));
+    openReaderAtChapter(book, idx);
+  };
 
   // ---- info ediție (iconița ⓘ din cititor) ----
   const libReaderInfo = document.getElementById("lib-reader-info");
