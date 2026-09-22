@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "19 capitole (din 54+2 planificate) · 19 complete la Standardul Davar",
+ "meta": "20 capitole (din 54+2 planificate) · 20 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -42620,6 +42620,1116 @@
       "text": "Rashi leagă direct acest verset de precedentul, ca parte a aceleiași afirmații condiționale: la fel cum legământul zilei și nopții și legile cerului și pământului nu pot fi anulate, tot atât de sigur nu va fi respinsă „sămânța lui Iacov” și linia lui David — o promisiune fermă rostită tocmai în contextul cel mai sumbru posibil, chiar înaintea căderii finale a ultimului rege davidic, Țedechia."
      }
     ]
+   }
+  ]
+ }
+ ,
+  {
+  "num": 20,
+  "title": "Haftarat Teruma",
+  "ref": "Regi I 5:26-6:13",
+  "intro": "Haftarat Teruma leagă poruncile detaliate despre construcția Cortului Întâlnirii, din pericopa cu același nume, de construcția Templului lui Solomon — al doilea mare proiect arhitectural sacru al Bibliei. Capitolul se încheie cu o promisiune condiționată, esențială pentru toată teologia Templului: prezența divină nu e garantată de zidurile de piatră, ci de ascultarea poporului.",
+  "verses": [
+   {
+    "v": "5:26",
+    "t": "DOMNUL i-a dat înțelepciune lui Solomon, după cum îi vorbise, și a fost pace între Hiram și Solomon, și cei doi au pecetluit un legământ.",
+    "heb": "וַיהוָה נָתַן חָכְמָה לִשְׁלֹמֹה כַּאֲשֶׁר דִּבֶּר־לוֹ וַיְהִי שָׁלֹם בֵּין חִירָם וּבֵין שְׁלֹמֹה וַיִּכְרְתוּ בְרִית שְׁנֵיהֶם׃",
+    "translit": "Va-Adonai natan chokhmah li-Shlomo ka'asher dibber-lo va-yehi shalom bein Chiram u-vein Shlomo va-yikhretu verit shneihem.",
+    "tokens": [
+     {
+      "t": "DOMNUL i-a dat "
+     },
+     {
+      "t": "înțelepciune",
+      "w": "înțelepciune",
+      "heb": "חָכְמָה",
+      "translit": "chokhmah",
+      "strong": "H2451",
+      "pos": "substantiv, feminin",
+      "def_ro": "înțelepciune.",
+      "dict_ro": "Chokhmah — darul central acordat lui Solomon (1 Regi 3:9-12), aici aplicat concret capacității lui diplomatice de a încheia o alianță pașnică cu Hiram, regele Tirului, esențială pentru asigurarea materialelor de construcție ale Templului."
+     },
+     {
+      "t": ", după cum îi vorbise, și a fost pace între "
+     },
+     {
+      "t": "Hiram",
+      "w": "Hiram",
+      "heb": "חִירָם",
+      "translit": "Chiram",
+      "strong": "H2438",
+      "pos": "nume propriu",
+      "def_ro": "Hiram.",
+      "dict_ro": "Chiram — regele Tirului, aliat fidel al lui David și Solomon, furnizor principal de lemn de cedru și meșteșugari calificați; relația lui cu Israel ilustrează un raport pașnic, reciproc avantajos, cu o putere străină, spre deosebire de tensiunile militare descrise în alte Haftarot."
+     },
+     {
+      "t": " și Solomon, și cei doi au "
+     },
+     {
+      "t": "pecetluit un legământ",
+      "w": "pecetluit un legământ",
+      "heb": "וַיִּכְרְתוּ בְרִית",
+      "translit": "va-yikhretu verit",
+      "strong": "H3772",
+      "pos": "verb, qal imperfect",
+      "def_ro": "au încheiat un legământ.",
+      "dict_ro": "Rădăcina karat, „a tăia [un legământ]” — tratat internațional formal între cei doi regi, garantând cooperarea materială și tehnică necesară proiectului de construcție a Templului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיהוָה נָתַן חָכְמָה לִשְׁלֹמֹה כַּאֲשֶׁר דִּבֶּר־לוֹ...",
+      "translation": "„DOMNUL i-a dat înțelepciune lui Solomon...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ Κύριος ἔδωκε σοφίαν τῷ Σαλωμὼν καθὼς ἐλάλησεν αὐτῷ, καὶ ἦν εἰρήνη ἀνὰ μέσον Χιρὰμ καὶ ἀνὰ μέσον Σαλωμών, καὶ διέθεντο διαθήκην ἀνὰ μέσον ἑαυτῶν.",
+      "greek": true,
+      "translation": "„și Domnul a dat înțelepciune lui Salomon, precum îi vorbise, și era pace între Hiram și Salomon, și au încheiat legământ între ei.”",
+      "note": "Traducere fidelă structurii ebraice. Cartea e numită „III Regate” (Βασιλειῶν Γ) în tradiția Septuagintei, urmând altă împărțire a cărților istorice decât cea masoretică (unde 1-2 Samuel și 1-2 Regi sunt patru cărți separate)."
+     }
+    ],
+    "refs": [
+     "1 Regi 3:9-12"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "5:27",
+    "t": "Regele Solomon a impus o taxă asupra întregului Israel și taxa a constat în treizeci de mii de oameni.",
+    "heb": "וַיַּעַל הַמֶּלֶךְ שְׁלֹמֹה מַס מִכָּל־יִשְׂרָאֵל וַיְהִי הַמַּס שְׁלֹשִׁים אֶלֶף אִישׁ׃",
+    "translit": "Va-ya'al ha-melekh Shlomo mas mi-kol-Yisra'el va-yehi ha-mas shloshim elef ish.",
+    "tokens": [
+     {
+      "t": "Regele Solomon a "
+     },
+     {
+      "t": "impus o taxă",
+      "w": "impus o taxă",
+      "heb": "וַיַּעַל... מַס",
+      "translit": "va-ya'al... mas",
+      "strong": "H4522",
+      "pos": "substantiv, masculin",
+      "def_ro": "a ridicat o dare/corvoadă.",
+      "dict_ro": "Mas — nu o taxă bănească, ci corvoadă de muncă obligatorie (munca forțată); Rashi precizează că acești treizeci de mii erau israeliți nativi, spre deosebire de cei o sută cincizeci de mii de muncitori menționați la v.29-30, recrutați dintre străinii convertiți."
+     },
+     {
+      "t": " asupra întregului Israel și taxa a constat în treizeci de mii de oameni."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעַל הַמֶּלֶךְ שְׁלֹמֹה מַס מִכָּל־יִשְׂרָאֵל...",
+      "translation": "„Regele Solomon a impus o taxă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἀνήνεγκεν ὁ βασιλεὺς Σαλωμὼν φόρον ἐκ παντὸς Ἰσραήλ, καὶ ἦν ὁ φόρος τριάκοντα χιλιάδες ἀνδρῶν.",
+      "greek": true,
+      "translation": "„și a ridicat regele Solomon tribut din tot Israelul, și tributul era de treizeci de mii de bărbați.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi precizează: acest mas ridicat „din tot Israelul” — treizeci de mii de bărbați — erau israeliți nativi, munca lor la Liban fiind distinctă de cei o sută cincizeci de mii de muncitori proveniți din rândul prozeliților, menționați separat la versetele următoare."
+     }
+    ]
+   },
+   {
+    "v": "5:28",
+    "t": "Și i-a trimis în Liban în schimburi de zece mii pe lună; o lună erau detașați în Liban și două luni erau [fiecare] la casa lui. Și Adoniram a fost cel însărcinat cu taxa.",
+    "heb": "וַיִּשְׁלָחֵם לְבָנוֹנָה עֲשֶׂרֶת אֲלָפִים בַּחֹדֶשׁ חֲלִיפוֹת חֹדֶשׁ יִהְיוּ בַלְּבָנוֹן שְׁנַיִם חֳדָשִׁים בְּבֵיתוֹ וַאֲדֹנִירָם עַל־הַמַּס׃",
+    "translit": "Va-yishlachem Levanonah asseret alafim ba-chodesh chalifot chodesh yihyu va-Levanon shnayim chodashim be-veito va-Adoniram al-ha-mas.",
+    "tokens": [
+     {
+      "t": "Și i-a trimis în Liban în "
+     },
+     {
+      "t": "schimburi",
+      "w": "schimburi",
+      "heb": "חֲלִיפוֹת",
+      "translit": "chalifot",
+      "strong": "H2487",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "schimburi, rotații.",
+      "dict_ro": "Chalifot — Rashi explică sistemul precis de rotație: zece mii plecau la Liban în luna Tișrei, alte zece mii îi înlocuiau în Marheșvan, o a treia grupă în Chislev, apoi ciclul se repeta — fiecare bărbat lucrând o lună la Liban, urmată de două luni de odihnă acasă, un sistem echitabil de repartizare a corvoadei."
+     },
+     {
+      "t": " de zece mii pe lună; o lună erau detașați în Liban și două luni erau [fiecare] la casa lui. Și "
+     },
+     {
+      "t": "Adoniram",
+      "w": "Adoniram",
+      "heb": "אֲדֹנִירָם",
+      "translit": "Adoniram",
+      "strong": "H141",
+      "pos": "nume propriu",
+      "def_ro": "Adoniram.",
+      "dict_ro": "Adoniram — funcționarul responsabil de administrarea corvoadei, aceeași figură menționată și în timpul domniei lui David și, mai târziu, ucis de popor la începutul domniei lui Roboam (1 Regi 12:18) — semn al resentimentului acumulat de-a lungul deceniilor față de sistemul de muncă obligatorie."
+     },
+     {
+      "t": " a fost cel însărcinat cu taxa."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלָחֵם לְבָנוֹנָה עֲשֶׂרֶת אֲלָפִים בַּחֹדֶשׁ...",
+      "translation": "„Și i-a trimis în Liban în schimburi de zece mii pe lună...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἀπέστειλεν αὐτοὺς εἰς τὸν Λίβανον, δέκα χιλιάδες τὸν μῆνα ἀλλασσόμενοι, μῆνα ἦσαν ἐν τῷ Λιβάνῳ καὶ δύο μῆνας ἐν οἴκῳ αὐτῶν· καὶ Ἀδωνιρὰμ ἐπὶ τοῦ φόρου.",
+      "greek": true,
+      "translation": "„și i-a trimis în Liban, zece mii pe lună, schimbându-se; o lună erau în Liban și două luni acasă; și Adoniram [era] peste tribut.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "1 Regi 12:18"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi detaliază precis sistemul de rotație lunară: zece mii plecau la Liban în Tișrei, revenind în Marheșvan pentru a fi înlocuiți de a doua grupă, apoi a treia în Chislev, ciclul repetându-se astfel încât fiecare bărbat servea o lună la Liban urmată de două luni de odihnă acasă — un aranjament administrativ echitabil pentru corvoada obligatorie."
+     }
+    ]
+   },
+   {
+    "v": "5:29",
+    "t": "Iar Solomon avea șaptezeci de mii de cărăuși de povară și opt mii de lucrători în carieră, la munte,",
+    "heb": "וַיְהִי לִשְׁלֹמֹה שִׁבְעִים אֶלֶף נֹשֵׂא סַבָּל וּשְׁמֹנִים אֶלֶף חֹצֵב בָּהָר׃",
+    "translit": "Va-yehi li-Shlomo shiv'im elef nose savval u-shmonim elef chotsev ba-har.",
+    "tokens": [
+     {
+      "t": "Iar Solomon avea "
+     },
+     {
+      "t": "șaptezeci de mii de cărăuși",
+      "w": "șaptezeci de mii de cărăuși",
+      "heb": "שִׁבְעִים אֶלֶף נֹשֵׂא סַבָּל",
+      "translit": "shiv'im elef nose savval",
+      "strong": "H5449",
+      "pos": "substantiv, masculin",
+      "def_ro": "șaptezeci de mii de purtători de sarcini.",
+      "dict_ro": "Sabbal, „cărăuș, purtător de poveri” — Rashi identifică pe cei o sută cincizeci de mii de muncitori (70.000 cărăuși plus 80.000 tăietori de piatră) cu prozeliți convertiți datorită măreției și mesei bogate a lui Solomon, citând confirmarea directă din 2 Cronici: „Solomon a numărat toți străinii... și i-a găsit o sută cincizeci de mii”."
+     },
+     {
+      "t": " și opt mii de "
+     },
+     {
+      "t": "lucrători în carieră",
+      "w": "lucrători în carieră",
+      "heb": "חֹצֵב בָּהָר",
+      "translit": "chotsev ba-har",
+      "strong": "H2672",
+      "pos": "verb, qal participiu",
+      "def_ro": "tăietor de piatră la munte.",
+      "dict_ro": "Rădăcina chatsav, „a ciopli, a extrage piatră” — muncitori specializați în cariere, separați de simplii cărăuși; combinația celor două categorii tehnice arată organizarea complexă, pe specializări, a șantierului Templului."
+     },
+     {
+      "t": ", la munte,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי לִשְׁלֹמֹה שִׁבְעִים אֶלֶף נֹשֵׂא סַבָּל...",
+      "translation": "„Iar Solomon avea șaptezeci de mii de cărăuși de povară...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἦσαν τῷ Σαλωμὼν ἑβδομήκοντα χιλιάδες αἴροντες ἄρσιν καὶ ὀγδοήκοντα χιλιάδες λατόμων ἐν τῷ ὄρει,",
+      "greek": true,
+      "translation": "„și erau ai lui Solomon șaptezeci de mii de purtători de sarcini și optzeci de mii de pietrari în munte,”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "2 Cronici 2:16-17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică cele o sută cincizeci de mii de lucrători (70.000 cărăuși plus 80.000 tăietori) cu prozeliți atrași de măreția și ospitalitatea lui Solomon, citând confirmarea din 2 Cronici: „Solomon a numărat toți străinii care erau în țara lui Israel... și i-a găsit o sută cincizeci de mii, și a făcut din ei... [cărăuși și tăietori]”."
+     }
+    ]
+   },
+   {
+    "v": "5:30",
+    "t": "pe lângă cei trei mii trei sute de conducători de elită ai lui Solomon care supravegheau munca, care îi conduceau pe oamenii care făceau munca.",
+    "heb": "לְבַד מִשָּׂרֵי הַנִּצָּבִים לִשְׁלֹמֹה אֲשֶׁר עַל־הַמְּלָאכָה שְׁלֹשֶׁת אֲלָפִים וּשְׁלֹשׁ מֵאוֹת הָרֹדִים בָּעָם הָעֹשִׂים בַּמְּלָאכָה׃",
+    "translit": "Le-vad mi-sarei ha-nitstsavim li-Shlomo asher al-ha-melakhah shloshet alafim u-shlosh me'ot ha-rodim ba-am ha-osim ba-melakhah.",
+    "tokens": [
+     {
+      "t": "pe lângă cei trei mii trei sute de "
+     },
+     {
+      "t": "conducători de elită",
+      "w": "conducători de elită",
+      "heb": "שָׂרֵי הַנִּצָּבִים",
+      "translit": "sarei ha-nitstsavim",
+      "strong": "H5324",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "căpeteniile supraveghetorilor.",
+      "dict_ro": "Rashi observă o aparentă contradicție numerică notabilă între surse — acest verset dă 3.300, dar alt verset din aceeași carte dă 5.550, iar 2 Cronici dă 3.600 și separat 250 — și rezolvă disputa arătând că sursele numără categorii diferite: unele doar supraveghetorii direcți ai prozeliților, altele adăugând și pe cei responsabili de „cetățile de provizii”, israeliți nativi, numărați separat."
+     },
+     {
+      "t": " ai lui Solomon care supravegheau munca, care îi "
+     },
+     {
+      "t": "conduceau",
+      "w": "conduceau",
+      "heb": "הָרֹדִים",
+      "translit": "ha-rodim",
+      "strong": "H7287",
+      "pos": "verb, qal participiu",
+      "def_ro": "cei ce stăpâneau, conduceau [cu asprime].",
+      "dict_ro": "Rădăcina radah, „a stăpâni, a asupri” — aceeași rădăcină ca la porunca „stăpâniți peste pământ” (Geneza 1:28), dar aici cu conotație de supraveghere fermă a muncii forțate — supraveghetorii direcți ai celor care efectuau munca fizică."
+     },
+     {
+      "t": " pe oamenii care făceau munca."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לְבַד מִשָּׂרֵי הַנִּצָּבִים לִשְׁלֹמֹה אֲשֶׁר עַל־הַמְּלָאכָה...",
+      "translation": "„pe lângă cei trei mii trei sute de conducători de elită...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "χωρὶς ἀρχόντων τῶν καθεσταμένων τῷ Σαλωμὼν ἐπὶ τῶν ἔργων, τρεῖς χιλιάδες καὶ ἑξακόσιοι ἐπιστάται τοῦ λαοῦ οἱ ποιοῦντες τὰ ἔργα.",
+      "greek": true,
+      "translation": "„fără conducătorii rânduiți de Solomon peste lucrări, trei mii șase sute de supraveghetori ai poporului care făceau lucrările.”",
+      "note": "Divergență numerică reală: LXX dă „trei mii șase sute” (3.600), nu „trei mii trei sute” (3.300) ca în textul masoretic — cifră care coincide de fapt cu una din sursele alternative citate chiar de Rashi (2 Cronici), confirmând complexitatea reală a acestei tradiții numerice multiple."
+     }
+    ],
+    "refs": [
+     "2 Cronici 2:1",
+     "2 Cronici 2:17-18"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi rezolvă o contradicție numerică reală între patru versete biblice care par să se contrazică (3.300 aici, 5.550 în altă parte a acestei cărți, 3.600 și separat 250 în 2 Cronici): explică faptul că unele surse numără doar supraveghetorii direcți ai prozeliților (câte unul la 45+ muncitori), altele adaugă și o categorie superioară de supraveghere generală, iar 2 Cronici separă complet supraveghetorii prozeliților de cei 250 responsabili de israeliții nativi lucrând la „cetățile de provizii”."
+     }
+    ]
+   },
+   {
+    "v": "5:31",
+    "t": "Și regele a dat poruncă și ei au dislocat pietre mari, pietre impunătoare, ca să așeze fundația Templului cu pietre cioplite.",
+    "heb": "וַיְצַו הַמֶּלֶךְ וַיַּסִּעוּ אֲבָנִים גְּדֹלוֹת אֲבָנִים יְקָרוֹת לְיַסֵּד הַבָּיִת אַבְנֵי גָזִית׃",
+    "translit": "Va-yetsav ha-melekh va-yassi'u avanim gedolot avanim yekarot le-yassed ha-bayit avnei gazit.",
+    "tokens": [
+     {
+      "t": "Și regele a dat poruncă și ei au "
+     },
+     {
+      "t": "dislocat",
+      "w": "dislocat",
+      "heb": "וַיַּסִּעוּ",
+      "translit": "va-yassi'u",
+      "strong": "H5265",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "au mutat, au transportat.",
+      "dict_ro": "Rădăcina nasa, „a călători, a se deplasa” — la forma cauzativă, transportul masiv de blocuri de piatră de la munte la șantierul Templului, o operațiune logistică majoră implicând mii de cărăuși deja menționați la v.29."
+     },
+     {
+      "t": " pietre mari, pietre impunătoare, ca să așeze fundația Templului cu "
+     },
+     {
+      "t": "pietre cioplite",
+      "w": "pietre cioplite",
+      "heb": "אַבְנֵי גָזִית",
+      "translit": "avnei gazit",
+      "strong": "H1496",
+      "pos": "substantiv, feminin",
+      "def_ro": "pietre cioplite/tăiate.",
+      "dict_ro": "Gazit, „piatră cioplită, tăiată cu unealta” — Rashi observă o tensiune aparentă cu v.7, unde se spune explicit că niciun fier n-a fost auzit la Templu în timpul construcției; rezolvă contradicția explicând că pietrele erau cioplite AFARĂ, la carieră, apoi transportate deja finisate și doar asamblate în tăcere pe șantier."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְצַו הַמֶּלֶךְ וַיַּסִּעוּ אֲבָנִים גְּדֹלוֹת...",
+      "translation": "„Și regele a dat poruncă și ei au dislocat pietre mari...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐνετείλατο ὁ βασιλεὺς καὶ ᾖραν λίθους μεγάλους, λίθους τιμίους εἰς τὸν θεμέλιον τοῦ οἴκου καὶ λίθους ἀπελεκήτους.",
+      "greek": true,
+      "translation": "„și a poruncit regele și au ridicat pietre mari, pietre de preț, pentru temelia casei, și pietre necioplite.”",
+      "note": "Divergență notabilă: LXX traduce „avnei gazit” prin „λίθους ἀπελεκήτους” („pietre necioplite”) — sens aproape opus termenului ebraic „cioplite”, posibil o confuzie sau o tradiție textuală diferită la baza traducerii grecești."
+     }
+    ],
+    "refs": [
+     "1 Regi 6:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi rezolvă tensiunea aparentă cu versetul 7, care spune că niciun fier n-a fost auzit la Templu: pietrele erau cioplite și finisate afară, la carieră, cu unelte de fier, apoi transportate deja gata și doar așezate, în tăcere deplină, direct la locul lor pe șantierul propriu-zis."
+     }
+    ]
+   },
+   {
+    "v": "5:32",
+    "t": "Constructorii lui Solomon, constructorii lui Hiram și ghebaliții au cioplit [piatra] și au pregătit lemnele și pietrele, ca să fie construit Templul.",
+    "heb": "וַיִּפְסְלוּ בֹּנֵי שְׁלֹמֹה וּבֹנֵי חִירֹם וְהַגִּבְלִים וַיָּכִינוּ הָעֵצִים וְהָאֲבָנִים לִבְנוֹת הַבָּיִת׃",
+    "translit": "Va-yifselu bonei Shlomo u-vonei Chirom ve-ha-Givlim va-yakhinu ha-etsim ve-ha-avanim livnot ha-bayit.",
+    "tokens": [
+     {
+      "t": "Constructorii lui Solomon, constructorii lui Hiram și "
+     },
+     {
+      "t": "ghebaliții",
+      "w": "ghebaliții",
+      "heb": "הַגִּבְלִים",
+      "translit": "ha-Givlim",
+      "strong": "H1382",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "locuitorii Ghebalului.",
+      "dict_ro": "Givlim — meșteșugari din cetatea feniciană Gebal (Biblos), renumiți pentru priceperea lor în cioplirea pietrei și construcție; Rashi citează în context Ezechiel 27:9, unde „bătrânii Ghebalului și înțelepții lui” sunt lăudați pentru abilitatea de a repara vasele maritime ale Tirului — aceeași expertiză tehnică pusă acum în slujba Templului."
+     },
+     {
+      "t": " au cioplit [piatra] și au "
+     },
+     {
+      "t": "pregătit",
+      "w": "pregătit",
+      "heb": "וַיָּכִינוּ",
+      "translit": "va-yakhinu",
+      "strong": "H3559",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "au pregătit.",
+      "dict_ro": "Rădăcina kun, „a pregăti, a rândui” — aceeași rădăcină ca numele „Hakhin” dat mai târziu templului („casa pregătită”); încheie secțiunea introductivă, marcând finalizarea etapei pregătitoare înainte de începerea propriu-zisă a construcției, narată la 6:1."
+     },
+     {
+      "t": " lemnele și pietrele, ca să fie construit Templul."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּפְסְלוּ בֹּנֵי שְׁלֹמֹה וּבֹנֵי חִירֹם וְהַגִּבְלִים...",
+      "translation": "„Constructorii lui Solomon, constructorii lui Hiram...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἡτοίμασαν τοὺς λίθους καὶ τὰ ξύλα τρία ἔτη.",
+      "greek": true,
+      "translation": "„și au pregătit pietrele și lemnele trei ani.”",
+      "note": "LXX condensează dramatic acest verset, omițând complet mențiunea constructorilor lui Solomon, ai lui Hiram și a ghebaliților, dar adăugând precizarea temporală „trei ani”, absentă din textul masoretic — o divergență structurală notabilă."
+     }
+    ],
+    "refs": [
+     "Ezechiel 27:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică pe ghebaliți cu locuitorii cetății feniciene Ghebal (Biblos), citând Ezechiel 27:9, unde „bătrânii Ghebalului și înțelepții lui” sunt lăudați ca meșteșugari pricepuți în repararea corăbiilor Tirului — aceeași expertiză tehnică specializată fiind pusă acum în slujba construcției Templului."
+     }
+    ]
+   },
+   {
+    "v": "6:1",
+    "t": "Și a fost în al patru sute optzecilea an după ieșirea copiilor lui Israel din țara Egiptului: în anul al patrulea de domnie a lui Solomon peste Israel, în luna Ziv, adică a doua lună [a anului], a construit Templul pentru DOMNUL.",
+    "heb": "וַיְהִי בִשְׁמוֹנִים שָׁנָה וְאַרְבַּע מֵאוֹת שָׁנָה לְצֵאת בְּנֵי־יִשְׂרָאֵל מֵאֶרֶץ־מִצְרַיִם בַּשָּׁנָה הָרְבִיעִית בְּחֹדֶשׁ זִו הוּא הַחֹדֶשׁ הַשֵּׁנִי לִמְלֹךְ שְׁלֹמֹה עַל־יִשְׂרָאֵל וַיִּבֶן הַבַּיִת לַיהוָה׃",
+    "translit": "Va-yehi vi-shmonim shanah ve-arba me'ot shanah le-tset benei-Yisra'el me-erets-Mitsrayim ba-shanah ha-revi'it be-chodesh Ziv hu ha-chodesh ha-sheni li-mlokh Shlomo al-Yisra'el va-yiven ha-bayit l-Adonai.",
+    "tokens": [
+     {
+      "t": "Și a fost în al "
+     },
+     {
+      "t": "patru sute optzecilea an",
+      "w": "patru sute optzecilea an",
+      "heb": "בִשְׁמוֹנִים שָׁנָה וְאַרְבַּע מֵאוֹת שָׁנָה",
+      "translit": "vi-shmonim shanah ve-arba me'ot shanah",
+      "strong": "H8084",
+      "pos": "numeral",
+      "def_ro": "în anul optzeci și patru sute.",
+      "dict_ro": "Datare unică în toată Biblia, singurul loc care leagă explicit anul construcției Templului de anul Exodului — o legătură cronologică teologică deliberată, nu doar informativă: Templul reprezintă împlinirea unui plan divin pus în mișcare cu patru veacuri și jumătate în urmă."
+     },
+     {
+      "t": " după ieșirea copiilor lui Israel din țara Egiptului: în anul al patrulea de domnie a lui Solomon peste Israel, în luna "
+     },
+     {
+      "t": "Ziv",
+      "w": "Ziv",
+      "heb": "זִו",
+      "translit": "Ziv",
+      "strong": "H2099",
+      "pos": "nume propriu",
+      "def_ro": "Ziv — a doua lună [Iiar].",
+      "dict_ro": "Ziv — numele antic canaanit al lunii Iiar (a doua lună a anului religios, care începe cu Nisan); Rashi explică etimologia: „ziv” înseamnă „strălucire, splendoare”, potrivit sezonului de înflorire a pomilor, conform și Targumului lui Ionatan."
+     },
+     {
+      "t": ", adică a doua lună [a anului], a construit Templul pentru DOMNUL."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי בִשְׁמוֹנִים שָׁנָה וְאַרְבַּע מֵאוֹת שָׁנָה לְצֵאת בְּנֵי־יִשְׂרָאֵל...",
+      "translation": "„Și a fost în al patru sute optzecilea an...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐγενήθη ἐν τῷ τεσσαρακοστῷ καὶ τετρακοσιοστῷ ἔτει τῆς ἐξόδου υἱῶν Ἰσραὴλ ἐξ Αἰγύπτου...",
+      "greek": true,
+      "translation": "„și a fost în anul patru sute patruzeci al ieșirii fiilor lui Israel din Egipt...”",
+      "note": "Divergență numerică reală și bine documentată: LXX are „anul patru sute patruzeci” (440), nu „patru sute optzeci” (480) ca în textul masoretic — o discrepanță de patruzeci de ani între cele două tradiții textuale asupra celei mai importante date cronologice biblice legate de construcția Templului."
+     }
+    ],
+    "refs": [
+     "Exodul 12:40-41"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică luna „Ziv” drept numele antic al lui Iiar, legat de rădăcina „strălucire”, potrivit sezonului de înflorire — și leagă „anul al patrulea” explicit de domnia lui Solomon, confirmat și în 2 Cronici: „a început să construiască în luna a doua, în anul al patrulea al domniei sale”."
+     }
+    ]
+   },
+   {
+    "v": "6:2",
+    "t": "Iar Templul pe care Solomon l-a construit pentru DOMNUL era de șaizeci de coți lungime, douăzeci de coți lățime și treizeci de coți înălțime.",
+    "heb": "וְהַבַּיִת אֲשֶׁר בָּנָה הַמֶּלֶךְ שְׁלֹמֹה לַיהוָה שִׁשִּׁים־אַמָּה אָרְכּוֹ וְעֶשְׂרִים רָחְבּוֹ וּשְׁלֹשִׁים אַמָּה קוֹמָתוֹ׃",
+    "translit": "Ve-ha-bayit asher banah ha-melekh Shlomo l-Adonai shishim-ammah orko ve-esrim rochbo u-shloshim ammah komato.",
+    "tokens": [
+     {
+      "t": "Iar Templul pe care Solomon l-a construit pentru DOMNUL era de "
+     },
+     {
+      "t": "șaizeci de coți lungime",
+      "w": "șaizeci de coți lungime",
+      "heb": "שִׁשִּׁים־אַמָּה אָרְכּוֹ",
+      "translit": "shishim-ammah orko",
+      "strong": "H520",
+      "pos": "substantiv, feminin",
+      "def_ro": "șaizeci de coți lungimea lui.",
+      "dict_ro": "Rashi precizează: cei șaizeci de coți includ împreună Sala (Heikhal) și Sfânta Sfintelor (Devir), cele două încăperi principale ale clădirii centrale — o măsură compusă, nu a unei singure încăperi."
+     },
+     {
+      "t": ", douăzeci de coți lățime și treizeci de coți înălțime."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהַבַּיִת אֲשֶׁר בָּנָה הַמֶּלֶךְ שְׁלֹמֹה לַיהוָה שִׁשִּׁים־אַמָּה אָרְכּוֹ...",
+      "translation": "„Iar Templul pe care Solomon l-a construit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ὁ οἶκος, ὃν ᾠκοδόμησεν ὁ βασιλεὺς Σαλωμὼν τῷ Κυρίῳ, τεσσαράκοντα πήχεων μῆκος αὐτοῦ, καὶ εἴκοσι ἐν πήχει τὸ πλάτος αὐτοῦ, καὶ πέντε καὶ εἴκοσι ἐν πήχει τὸ ὕψος αὐτοῦ.",
+      "greek": true,
+      "translation": "„și casa pe care a zidit-o regele Solomon Domnului, patruzeci de coți lungimea ei, și douăzeci de coți lățimea ei, și douăzeci și cinci de coți înălțimea ei.”",
+      "note": "Divergențe numerice notabile: LXX dă lungimea de 40 de coți (nu 60) și înălțimea de 25 (nu 30) — două discrepanțe reale de măsurători între cele două tradiții textuale, nu doar una izolată."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi precizează că cei șaizeci de coți lungime includ împreună cele două încăperi principale — Sala (Heikhal) și Sfânta Sfintelor (Devir) —, o măsură totală a clădirii centrale, nu a unei singure camere."
+     }
+    ]
+   },
+   {
+    "v": "6:3",
+    "t": "Și porticul din fața Sălii Templului avea douăzeci de coți lungime în fața lățimii Templului și zece coți lățime în fața Templului.",
+    "heb": "וְהָאוּלָם עַל־פְּנֵי הֵיכַל הַבַּיִת עֶשְׂרִים אַמָּה אָרְכּוֹ עַל־פְּנֵי רֹחַב הַבָּיִת עֶשֶׂר בָּאַמָּה רָחְבּוֹ עַל־פְּנֵי הַבָּיִת׃",
+    "translit": "Ve-ha-ulam al-penei heikhal ha-bayit esrim ammah orko al-penei rochav ha-bayit eser ba-ammah rochbo al-penei ha-bayit.",
+    "tokens": [
+     {
+      "t": "Și "
+     },
+     {
+      "t": "porticul",
+      "w": "porticul",
+      "heb": "הָאוּלָם",
+      "translit": "ha-ulam",
+      "strong": "H197",
+      "pos": "substantiv, masculin",
+      "def_ro": "porticul, pridvorul.",
+      "dict_ro": "Ulam — Rashi explică principiul de măsurare folosit consecvent în capitol: dimensiunea mai mare a fiecărei structuri e numită „lungime”, cea mai mică „lățime” — la Sală, axa est-vest era mai lungă („lungime”); la portic, axa nord-sud era mai lungă, deci „lungimea” porticului corespunde de fapt „lățimii” Sălii, o convenție geometrică ce clarifică aparenta confuzie a termenilor."
+     },
+     {
+      "t": " din fața Sălii Templului avea douăzeci de coți lungime în fața lățimii Templului și zece coți lățime în fața Templului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָאוּלָם עַל־פְּנֵי הֵיכַל הַבַּיִת עֶשְׂרִים אַמָּה אָרְכּוֹ...",
+      "translation": "„Și porticul din fața Sălii Templului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ τὸ αἰλὰμ κατὰ πρόσωπον τοῦ ναοῦ, εἴκοσι ἐν πήχει μῆκος αὐτοῦ εἰς τὸ πλάτος τοῦ οἴκου, καὶ δέκα ἐν πήχει τὸ πλάτος αὐτοῦ κατὰ πρόσωπον τοῦ οἴκου.",
+      "greek": true,
+      "translation": "„și pridvorul dinaintea templului, douăzeci de coți lungimea lui, [corespunzător] lățimii casei, și zece coți lățimea lui, dinaintea casei.”",
+      "note": "Traducere fidelă structurii ebraice, păstrând aceleași cifre."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică principiul geometric al măsurătorilor: dimensiunea mai mare a fiecărei structuri e numită „lungime”, iar cea mai mică „lățime” — astfel, „lungimea” porticului (nord-sud) corespunde de fapt „lățimii” Sălii (aceeași axă), o convenție care evită confuzia aparentă a termenilor folosiți pentru structuri orientate diferit."
+     }
+    ]
+   },
+   {
+    "v": "6:4",
+    "t": "Și a făcut pentru Templu ferestre largi [la exterior] cu deschidere îngustă [la interior].",
+    "heb": "וַיַּעַשׂ לַבָּיִת חַלּוֹנֵי שְׁקֻפִים אֲטֻמִים׃",
+    "translit": "Va-ya'as la-bayit chalonei shekufim atumim.",
+    "tokens": [
+     {
+      "t": "Și a făcut pentru Templu "
+     },
+     {
+      "t": "ferestre largi... cu deschidere îngustă",
+      "w": "ferestre largi... cu deschidere îngustă",
+      "heb": "חַלּוֹנֵי שְׁקֻפִים אֲטֻמִים",
+      "translit": "chalonei shekufim atumim",
+      "strong": "H2474",
+      "pos": "substantiv, feminin",
+      "def_ro": "ferestre largi la exterior, înguste la interior.",
+      "dict_ro": "Rashi, citând tradiția rabinică, explică o construcție inversă normalului: majoritatea ferestrelor sunt înguste afară și largi înăuntru, pentru a maximiza lumina; ferestrele Templului erau invers — largi afară, înguste înăuntru — semn, spune tradiția, că Templul nu avea nevoie de lumină din exterior, ci el însuși emitea/răspândea lumină spre lume."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעַשׂ לַבָּיִת חַלּוֹנֵי שְׁקֻפִים אֲטֻמִים׃",
+      "translation": "„Și a făcut pentru Templu ferestre largi cu deschidere îngustă.” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐποίησε τῷ οἴκῳ θυρίδας παρακυπτομένας κρυπτάς.",
+      "greek": true,
+      "translation": "„și a făcut casei ferestre ascunse, aplecate spre înăuntru.”",
+      "note": "LXX traduce diferit expresia tehnică obscură a ebraicei, cu sensul de „ferestre ascunse” — o interpretare distinctă de nuanța arhitecturală precisă (largi afară, înguste înăuntru) reținută de tradiția rabinică."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică, urmând tradiția înțelepților, o construcție inversă normalului: majoritatea ferestrelor sunt înguste afară și largi înăuntru, pentru mai multă lumină; cele ale Templului erau largi afară și înguste înăuntru — semn simbolic că locul sfânt nu avea nevoie să primească lumină din afară, ci era el însuși izvor de lumină pentru lume."
+     }
+    ]
+   },
+   {
+    "v": "6:5",
+    "t": "Lângă peretele Templului a construit o cameră de jur împrejur pereții Templului de jur împrejurul Sălii și Sfintei Sfintelor – și a făcut camere de jur împrejur.",
+    "heb": "וַיִּבֶן עַל־קִיר הַבַּיִת יָצִיעַ סָבִיב אֶת־קִירוֹת הַבַּיִת סָבִיב לַהֵיכָל וְלַדְּבִיר וַיַּעַשׂ צְלָעוֹת סָבִיב׃",
+    "translit": "Va-yiven al-kir ha-bayit yatsi'a saviv et-kirot ha-bayit saviv la-heikhal ve-la-devir va-ya'as tsela'ot saviv.",
+    "tokens": [
+     {
+      "t": "Lângă peretele Templului a construit o "
+     },
+     {
+      "t": "cameră",
+      "w": "cameră",
+      "heb": "יָצִיעַ",
+      "translit": "yatsi'a",
+      "strong": "H3326",
+      "pos": "substantiv, masculin",
+      "def_ro": "anexă, etaj lateral.",
+      "dict_ro": "Yatsi'a — Rashi notează trei termeni sinonimi folosiți în tradiție pentru aceeași structură (yatsi'a, ta, tsela), citând Tratatul Bava Batra — o structură anexă cu trei niveluri, construită lipită de zidurile exterioare ale Sălii și Sfintei Sfintelor, folosită probabil pentru depozitare și camere ale preoților."
+     },
+     {
+      "t": " de jur împrejur pereții Templului de jur împrejurul Sălii și "
+     },
+     {
+      "t": "Sfintei Sfintelor",
+      "w": "Sfintei Sfintelor",
+      "heb": "לַדְּבִיר",
+      "translit": "la-devir",
+      "strong": "H1687",
+      "pos": "substantiv, masculin",
+      "def_ro": "Sfânta Sfintelor.",
+      "dict_ro": "Devir, „locul de vorbire/oracol” — de la rădăcina davar, „a vorbi” — încăperea cea mai interioară, sacră, a Templului, unde se afla Chivotul Legământului, locul revelației divine directe către marele preot."
+     },
+     {
+      "t": " – și a făcut camere de jur împrejur."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּבֶן עַל־קִיר הַבַּיִת יָצִיעַ סָבִיב...",
+      "translation": "„Lângă peretele Templului a construit o cameră...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἔδωκεν ἐπὶ τὸν τοῖχον τοῦ οἴκου πλευρὰς κυκλόθεν τῷ ναῷ καὶ τῷ δαβίρ καὶ ἐποίησε πλευρὰς κυκλόθεν.",
+      "greek": true,
+      "translation": "„și a dat pe zidul casei coaste de jur împrejur templului și dabirului, și a făcut coaste de jur împrejur.”",
+      "note": "LXX transliterează „devir” ca „δαβίρ”, tratându-l ca termen tehnic netradus, și folosește „πλευρὰς” („coaste, laturi”) pentru yatsi'a, o traducere anatomică vie a structurii anexe."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi notează trei sinonime folosite în tradiția rabinică (Tratatul Bava Batra) pentru aceeași structură anexă — yatsi'a, ta, tsela — o construcție cu trei niveluri, lipită de zidurile exterioare ale Sălii și Sfintei Sfintelor, servind probabil ca spațiu de depozitare și camere pentru preoți."
+     }
+    ]
+   },
+   {
+    "v": "6:6",
+    "t": "Nivelul de jos era lat de cinci coți, cel mijlociu era lat de șase coți, iar al treilea era lat de șapte coți, căci făcuse borduri de jur împrejurul Templului, pe dinafară, ca să nu fie străpunse zidurile Templului.",
+    "heb": "הַיָּצִיעַ הַתַּחְתֹּנָה חָמֵשׁ בָּאַמָּה רָחְבָּהּ וְהַתִּיכֹנָה שֵׁשׁ בָּאַמָּה רָחְבָּהּ וְהַשְּׁלִישִׁית שֶׁבַע בָּאַמָּה רָחְבָּהּ כִּי מִגְרָעוֹת נָתַן לַבַּיִת סָבִיב חוּצָה לְבִלְתִּי אֲחֹז בְּקִירוֹת־הַבָּיִת׃",
+    "translit": "Ha-yatsi'a ha-tachtonah chamesh ba-ammah rochbah ve-ha-tikhonah shesh ba-ammah rochbah ve-ha-shlishit sheva ba-ammah rochbah ki migra'ot natan la-bayit saviv chutsah le-vilti achoz be-kirot-ha-bayit.",
+    "tokens": [
+     {
+      "t": "Nivelul de jos era lat de cinci coți, cel mijlociu era lat de șase coți, iar al treilea era lat de șapte coți, căci făcuse "
+     },
+     {
+      "t": "borduri",
+      "w": "borduri",
+      "heb": "מִגְרָעוֹת",
+      "translit": "migra'ot",
+      "strong": "H4052",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "retrageri, praguri în zid.",
+      "dict_ro": "Migra'ot — Rashi descrie tehnica precisă, confirmată și în Tratatul Middot: zidul Sălii se subția treptat cu un cot la fiecare cinci coți de înălțime, creând praguri pe care se sprijineau capetele grinzilor fiecărui nivel al anexei, fără ca acestea să fie înfipte direct în zidul sacru — soluție arhitecturală elegantă care explică de ce fiecare nivel al anexei era cu un cot mai lat decât cel de dedesubt."
+     },
+     {
+      "t": " de jur împrejurul Templului, pe dinafară, ca să nu fie "
+     },
+     {
+      "t": "străpunse",
+      "w": "străpunse",
+      "heb": "לְבִלְתִּי אֲחֹז",
+      "translit": "le-vilti achoz",
+      "strong": "H270",
+      "pos": "verb, qal infinitiv",
+      "def_ro": "ca să nu fie prinse/înfipte.",
+      "dict_ro": "Rădăcina achaz, „a prinde, a apuca” — grinzile anexei nu trebuiau înfipte direct în zidurile sacre ale Sălii, o precauție structurală care evita orice deteriorare a zidului principal al Templului prin găurire."
+     },
+     {
+      "t": " zidurile Templului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַיָּצִיעַ הַתַּחְתֹּנָה חָמֵשׁ בָּאַמָּה רָחְבָּהּ...",
+      "translation": "„Nivelul de jos era lat de cinci coți...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "ἡ πλευρὰ ἡ ὑποκάτω πέντε πήχεων τὸ πλάτος αὐτῆς, καὶ ἡ μέση ἓξ πήχεων τὸ πλάτος αὐτῆς, καὶ ἡ τρίτη ἑπτὰ ἐν πήχει τὸ πλάτος αὐτῆς...",
+      "greek": true,
+      "translation": "„coasta de dedesubt, cinci coți lățimea ei, și cea mijlocie, șase coți lățimea ei, și a treia, șapte coți lățimea ei...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi descrie tehnica arhitecturală precisă, confirmată în Tratatul Middot: zidul Sălii se subția cu un cot la fiecare cinci coți de înălțime, creând praguri pe care se sprijineau capetele grinzilor fiecărui nivel al anexei, fără ca acestea să fie înfipte direct în zidul sacru al Templului — soluție elegantă care explică creșterea progresivă a lățimii fiecărui nivel."
+     }
+    ]
+   },
+   {
+    "v": "6:7",
+    "t": "Când Templul a fost construit, a fost construit cu piatră întreagă de la carieră; nici ciocane, nici dalte, nici orice unealtă de fier nu s-a auzit în Templu când a fost construit.",
+    "heb": "וְהַבַּיִת בְּהִבָּנֹתוֹ אֶבֶן־שְׁלֵמָה מַסָּע נִבְנָה וּמַקָּבוֹת וְהַגַּרְזֶן כָּל־כְּלִי בַרְזֶל לֹא־נִשְׁמַע בַּבַּיִת בְּהִבָּנֹתוֹ׃",
+    "translit": "Ve-ha-bayit be-hibbanoto even-shlemah massa nivnah u-makkavot ve-ha-garzen kol-keli varzel lo-nishma ba-bayit be-hibbanoto.",
+    "tokens": [
+     {
+      "t": "Când Templul a fost construit, a fost construit cu "
+     },
+     {
+      "t": "piatră întreagă de la carieră",
+      "w": "piatră întreagă de la carieră",
+      "heb": "אֶבֶן־שְׁלֵמָה מַסָּע",
+      "translit": "even-shlemah massa",
+      "strong": "H4551",
+      "pos": "substantiv, feminin",
+      "def_ro": "piatră întreagă, [gata] din transport.",
+      "dict_ro": "Rashi rezolvă aici explicit tensiunea numerică observată deja la v.31 din capitolul anterior: pietrele erau aduse „precum au fost mutate de la munte prin [unealta legendară] Shamir”, gata cioplite, așezate direct în zid fără nicio prelucrare ulterioară pe șantier — nicio unealtă de fier nu era necesară AICI, deși fusese folosită la carieră."
+     },
+     {
+      "t": "; nici ciocane, nici dalte, nici orice "
+     },
+     {
+      "t": "unealtă de fier",
+      "w": "unealtă de fier",
+      "heb": "כְּלִי בַרְזֶל",
+      "translit": "keli varzel",
+      "strong": "H1270",
+      "pos": "substantiv, masculin",
+      "def_ro": "unealtă de fier.",
+      "dict_ro": "Tradiția rabinică (citată implicit de Rashi prin referire la Shamir, viermele legendar capabil să despice piatra fără metal) leagă interdicția fierului de altarul de jertfe (Deuteronom 27:5, „nu vei ridica fier peste ele”) — fierul, instrument de război și moarte, era considerat incompatibil cu locul sfințeniei și al păcii."
+     },
+     {
+      "t": " nu s-a auzit în Templu când a fost construit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהַבַּיִת בְּהִבָּנֹתוֹ אֶבֶן־שְׁלֵמָה מַסָּע נִבְנָה...",
+      "translation": "„Când Templul a fost construit, a fost construit cu piatră întreagă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ὁ οἶκος ἐν τῷ οἰκοδομεῖσθαι αὐτὸν λίθοις ἀκρωτόμοις ἀργοῖς ᾠκοδομήθη, καὶ σφῦρα καὶ πέλεκυς καὶ πᾶν σκεῦος σιδηροῦν οὐκ ἠκούσθη ἐν τῷ οἴκῳ ἐν τῷ οἰκοδομεῖσθαι αὐτόν.",
+      "greek": true,
+      "translation": "„și casa, când se zidea, a fost zidită din pietre necioplite, brute, și ciocan și secure și orice unealtă de fier nu s-a auzit în casă când se zidea.”",
+      "note": "LXX traduce „even-shlemah” prin „λίθοις ἀκρωτόμοις ἀργοῖς” („pietre necioplite, brute”) — divergență semantică notabilă, aproape contrară sensului „pietre gata finisate” presupus de interpretarea tradițională ebraică."
+     }
+    ],
+    "refs": [
+     "Deuteronom 27:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică: pietrele erau transportate de la carieră exact așa cum fuseseră cioplite acolo prin [legendara unealtă] Shamir, și așezate direct în zidul construcției, fără nicio prelucrare ulterioară pe șantier — motiv pentru care nicio unealtă de fier nu era necesară la locul construcției Templului, deși fusese folosită, la distanță, pentru pregătirea materialului."
+     }
+    ]
+   },
+   {
+    "v": "6:8",
+    "t": "Intrarea camerei centrale de jos era în partea de miazăzi a Templului, iar pe o scară în spirală se urca la nivelul de mijloc, iar de la nivelul de mijloc la al treilea nivel.",
+    "heb": "פֶּתַח הַצֵּלָע הַתִּיכֹנָה אֶל־כֶּתֶף הַבַּיִת הַיְמָנִית וְבְלוּלִּים יַעֲלוּ עַל־הַתִּיכֹנָה וּמִן־הַתִּיכֹנָה אֶל־הַשְּׁלִשִׁים׃",
+    "translit": "Petach ha-tsela ha-tikhonah el-ketef ha-bayit ha-yemanit u-velullim ya'alu al-ha-tikhonah u-min-ha-tikhonah el-ha-shlishim.",
+    "tokens": [
+     {
+      "t": "Intrarea camerei centrale de jos era în partea de miazăzi a Templului, iar pe o "
+     },
+     {
+      "t": "scară în spirală",
+      "w": "scară în spirală",
+      "heb": "בְלוּלִּים",
+      "translit": "velullim",
+      "strong": "H3883",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "scări în spirală.",
+      "dict_ro": "Lulim — Rashi descrie construcția: un stâlp central din piatră, în jurul căruia se înfășoară trepte spiralate, permițând urcarea fără nevoia unei pante line ca la o scară obișnuită, deoarece traiectoria circulară în sine oferă panta necesară — o soluție arhitecturală economică de spațiu pentru accesul între cele trei niveluri ale anexei."
+     },
+     {
+      "t": " se urca la nivelul de mijloc, iar de la nivelul de mijloc la al treilea nivel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "פֶּתַח הַצֵּלָע הַתִּיכֹנָה אֶל־כֶּתֶף הַבַּיִת הַיְמָנִית...",
+      "translation": "„Intrarea camerei centrale de jos...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἡ θύρα τῆς πλευρᾶς τῆς ὑποκάτωθεν ὑπὸ τὴν ὠμίαν τοῦ οἴκου τὴν δεξιάν, καὶ ἑλικτὴ ἀνάβασις εἰς τὸ μέσον καὶ ἐκ τῆς μέσης ἐπὶ τὰ τριώροφα.",
+      "greek": true,
+      "translation": "„și ușa coastei de dedesubt, sub umărul drept al casei, și urcuș elicoidal spre mijloc și de la mijloc spre cele trei niveluri.”",
+      "note": "Traducere fidelă, cu imaginea vie „ἑλικτὴ ἀνάβασις” (urcuș elicoidal/spiralat) pentru lulim."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi descrie construcția scării în spirală: un stâlp de piatră în jurul căruia se înfășoară trepte, oferind acces la nivelurile superioare fără a necesita o pantă lină ca la o scară dreaptă obișnuită, deoarece traiectoria circulară în sine constituie panta necesară."
+     }
+    ]
+   },
+   {
+    "v": "6:9",
+    "t": "[Solomon] a construit Templul și l-a isprăvit și a făcut tavanul Templului din lemn decorativ și cu scânduri de cedru.",
+    "heb": "וַיִּבֶן אֶת־הַבַּיִת וַיְכַלֵּהוּ וַיִּסְפֹּן אֶת־הַבַּיִת גֵּבִים וּשְׂדֵרֹת בָּאֲרָזִים׃",
+    "translit": "Va-yiven et-ha-bayit va-yekhallehu va-yispon et-ha-bayit gevim u-sderot ba-arazim.",
+    "tokens": [
+     {
+      "t": "[Solomon] a construit Templul și l-a "
+     },
+     {
+      "t": "isprăvit",
+      "w": "isprăvit",
+      "heb": "וַיְכַלֵּהוּ",
+      "translit": "va-yekhallehu",
+      "strong": "H3615",
+      "pos": "verb, piel imperfect",
+      "def_ro": "l-a terminat, l-a desăvârșit.",
+      "dict_ro": "Rădăcina kalah, „a termina, a desăvârși” — marchează finalizarea structurii de bază, înainte de detaliile finisajului interior descrise imediat după."
+     },
+     {
+      "t": " și a făcut "
+     },
+     {
+      "t": "tavanul",
+      "w": "tavanul",
+      "heb": "וַיִּסְפֹּן",
+      "translit": "va-yispon",
+      "strong": "H5603",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a acoperit cu tavan.",
+      "dict_ro": "Rashi descrie, citând o tradiție a Rabbi Menahem, două straturi de tavan: unul decorativ, dedesubt, din scânduri împletite artistic „gevim”, și unul funcțional, deasupra, din lemn masiv de cedru „sederot” — combinând estetica interioară cu structura de rezistență a acoperișului."
+     },
+     {
+      "t": " Templului din lemn decorativ și cu scânduri de cedru."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּבֶן אֶת־הַבַּיִת וַיְכַלֵּהוּ...",
+      "translation": "„[Solomon] a construit Templul și l-a isprăvit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ᾠκοδόμησε τὸν οἶκον καὶ συνετέλεσεν αὐτόν, καὶ ἐκοιλοστάθμησε τὸν οἶκον δοκοῖς κεδρίνοις.",
+      "greek": true,
+      "translation": "„și a zidit casa și a desăvârșit-o, și a boltit casa cu grinzi de cedru.”",
+      "note": "LXX simplifică descrierea tehnică, folosind un singur termen pentru acoperiș („ἐκοιλοστάθμησε”, a boltit/scobit), fără distincția pe două straturi (decorativ + structural) reținută de tradiția rabinică."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi, citând o tradiție atribuită lui Rabbi Menahem, descrie două straturi de tavan: unul decorativ dedesubt, din scânduri împletite artistic („gevim”), și unul funcțional deasupra, din lemn masiv de cedru („sederot”) — combinând finisajul estetic vizibil cu structura de rezistență ascunsă a acoperișului."
+     }
+    ]
+   },
+   {
+    "v": "6:10",
+    "t": "A construit camera de jur împrejurul întregului Templu, de cinci coți înălțime, și a acoperit Templul cu lemn de cedru.",
+    "heb": "וַיִּבֶן הַיָּצִיעַ עַל־כָּל־הַבַּיִת חָמֵשׁ אַמּוֹת קוֹמָתוֹ וַיֶּאֱחֹז אֶת־הַבַּיִת בַּעֲצֵי אֲרָזִים׃",
+    "translit": "Va-yiven ha-yatsi'a al-kol-ha-bayit chamesh ammot komato va-ye'echoz et-ha-bayit ba-atsei arazim.",
+    "tokens": [
+     {
+      "t": "A construit camera de jur împrejurul întregului Templu, de "
+     },
+     {
+      "t": "cinci coți înălțime",
+      "w": "cinci coți înălțime",
+      "heb": "חָמֵשׁ אַמּוֹת קוֹמָתוֹ",
+      "translit": "chamesh ammot komato",
+      "strong": "H6967",
+      "pos": "substantiv, feminin",
+      "def_ro": "cinci coți înălțimea lui.",
+      "dict_ro": "Rashi precizează: aceasta e înălțimea fiecărui nivel individual — trei niveluri a câte cinci coți fiecare înseamnă cincisprezece coți în total, fără a socoti grosimea propriu-zisă a tavanelor dintre ele."
+     },
+     {
+      "t": ", și a "
+     },
+     {
+      "t": "acoperit",
+      "w": "acoperit",
+      "heb": "וַיֶּאֱחֹז",
+      "translit": "va-ye'echoz",
+      "strong": "H270",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a prins, a fixat.",
+      "dict_ro": "Rădăcina achaz, aceeași ca la v.6, dar aici cu sens pozitiv: acoperirea/fixarea acoperișului superior al întregii clădiri cu lemn de cedru — distinct de tavanul intern deja descris la v.9, aici fiind vorba de acoperișul exterior final."
+     },
+     {
+      "t": " Templul cu lemn de cedru."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּבֶן הַיָּצִיעַ עַל־כָּל־הַבַּיִת חָמֵשׁ אַמּוֹת קוֹמָתוֹ...",
+      "translation": "„A construit camera de jur împrejurul întregului Templu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ᾠκοδόμησε τοὺς ἐνδέσμους δι' ὅλου τοῦ οἴκου πέντε ἐν πήχει τὸ ὕψος αὐτοῦ, καὶ συνέσχε τὸν ἔνδεσμον ἐν ξύλοις κεδρίνοις.",
+      "greek": true,
+      "translation": "„și a construit legăturile de-a lungul întregii case, cinci coți înălțimea lor, și a prins legătura în lemne de cedru.”",
+      "note": "LXX traduce „yatsi'a” prin „ἐνδέσμους” („legături, contraforturi”), o interpretare structurală diferită de „anexă laterală cu trei niveluri” reținută de tradiția rabinică."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi precizează că cei cinci coți reprezintă înălțimea fiecărui nivel individual al anexei — trei niveluri a câte cinci coți totalizând cincisprezece coți, fără a include grosimea tavanelor intermediare dintre ele, confirmând descrierea detaliată deja dată la v.6."
+     }
+    ]
+   },
+   {
+    "v": "6:11",
+    "t": "Cuvântul DOMNULUI a venit la Solomon, spunând:",
+    "heb": "וַיְהִי דְּבַר־יְהוָה אֶל־שְׁלֹמֹה לֵאמֹר׃",
+    "translit": "Va-yehi devar-Adonai el-Shlomo lemor.",
+    "tokens": [
+     {
+      "t": "Cuvântul DOMNULUI a venit la Solomon, "
+     },
+     {
+      "t": "spunând",
+      "w": "spunând",
+      "heb": "לֵאמֹר",
+      "translit": "lemor",
+      "strong": "H559",
+      "pos": "verb, qal infinitiv",
+      "def_ro": "zicând.",
+      "dict_ro": "Formula standard care introduce un oracol profetic — remarcabil, singura intervenție directă a cuvântului DOMNULUI din toată descrierea construcției, plasată exact în mijlocul detaliilor tehnice, subliniind că sensul teologic al clădirii contează mai mult decât precizia ei arhitecturală."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי דְּבַר־יְהוָה אֶל־שְׁלֹמֹה לֵאמֹר׃",
+      "translation": "„Cuvântul DOMNULUI a venit la Solomon, spunând:” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "(unele ediții ale LXX plasează sau tratează diferit versetele 11-13; conținutul verbal e confirmat totuși direct — vezi versetele următoare)",
+      "greek": true,
+      "translation": "",
+      "note": "Structura versetelor 11-14 prezintă divergențe reale de organizare între tradițiile textuale ale cărții III Regate, unele manuscrise grecești tratând această secțiune diferit de diviziunea standard a textului masoretic — un punct de complexitate textuală recunoscut, nu doar o simplă variantă de traducere."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "6:12",
+    "t": "„Acest Templu pe care îl construiești – dacă vei urma edictele Mele, vei îndeplini judecățile Mele și vei înfăptui și vei păzi toate poruncile Mele ca să mergi după ele, atunci Îmi voi împlini cuvântul către tine, pe care l-am vorbit tatălui tău, David.",
+    "heb": "הַבַּיִת הַזֶּה אֲשֶׁר־אַתָּה בֹנֶה אִם־תֵּלֵךְ בְּחֻקֹּתַי וְאֶת־מִשְׁפָּטַי תַּעֲשֶׂה וְשָׁמַרְתָּ אֶת־כָּל־מִצְוֹתַי לָלֶכֶת בָּהֶם וַהֲקִמֹתִי אֶת־דְּבָרִי אִתָּךְ אֲשֶׁר דִּבַּרְתִּי אֶל־דָּוִד אָבִיךָ׃",
+    "translit": "Ha-bayit ha-zeh asher-attah voneh im-telekh be-chukkotai ve-et-mishpatai ta'aseh ve-shamarta et-kol-mitsvotai lalekhet bahem va-hakimoti et-devari ittakh asher dibbarti el-David avikha.",
+    "tokens": [
+     {
+      "t": "„Acest Templu pe care îl construiești – dacă vei urma "
+     },
+     {
+      "t": "edictele Mele",
+      "w": "edictele Mele",
+      "heb": "בְּחֻקֹּתַי",
+      "translit": "be-chukkotai",
+      "strong": "H2708",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "în hotărârile Mele.",
+      "dict_ro": "Chukkim — legi fără justificare rațională explicită (spre deosebire de mishpatim, legi cu logică evidentă); includerea ambelor categorii aici arată caracterul total al ascultării cerute: nu doar legile ușor de înțeles, ci și cele care cer supunere din credință pură."
+     },
+     {
+      "t": ", vei îndeplini judecățile Mele și vei înfăptui și vei păzi toate poruncile Mele ca să mergi după ele, atunci Îmi voi "
+     },
+     {
+      "t": "împlini cuvântul",
+      "w": "împlini cuvântul",
+      "heb": "וַהֲקִמֹתִי אֶת־דְּבָרִי",
+      "translit": "va-hakimoti et-devari",
+      "strong": "H6965",
+      "pos": "verb, hifil perfect",
+      "def_ro": "voi împlini cuvântul Meu.",
+      "dict_ro": "Rădăcina qum, „a se ridica” — la forma cauzativă, „a împlini/a ridica o promisiune”; leagă explicit acest verset de promisiunea dinastică făcută lui David (2 Samuel 7:12-16) — condiționarea aici nu privește existența Templului, ci durabilitatea dinastiei și a prezenței divine în el."
+     },
+     {
+      "t": " către tine, pe care l-am vorbit tatălui tău, David."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַבַּיִת הַזֶּה אֲשֶׁר־אַתָּה בֹנֶה אִם־תֵּלֵךְ בְּחֻקֹּתַי...",
+      "translation": "„«Acest Templu pe care îl construiești...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "ὁ οἶκος οὗτος, ὃν σὺ οἰκοδομεῖς, ἐὰν ὁδεύῃς τοῖς προστάγμασί μου καὶ τὰ κρίματά μου ποιήσῃς καὶ φυλάξῃς πάσας τὰς ἐντολάς μου τοῦ πορεύεσθαι αὐταῖς, καὶ στήσω τὸν λόγον μου, ὃν ἐλάλησα πρὸς Δαυὶδ τὸν πατέρα σου.",
+      "greek": true,
+      "translation": "„casa aceasta, pe care tu o zidești, dacă vei umbla după poruncile Mele și vei face judecățile Mele și vei păzi toate poruncile Mele ca să umbli în ele, voi statornici cuvântul Meu, pe care l-am grăit către David, tatăl tău.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "2 Samuel 7:12-16"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "6:13",
+    "t": "Voi sălășlui printre copiii lui Israel și nu voi părăsi pe poporul Meu, Israel.”",
+    "heb": "וְשָׁכַנְתִּי בְּתוֹךְ בְּנֵי יִשְׂרָאֵל וְלֹא אֶעֱזֹב אֶת־עַמִּי יִשְׂרָאֵל׃",
+    "translit": "Ve-shakhanti be-tokh benei Yisra'el ve-lo e'ezov et-ammi Yisra'el.",
+    "tokens": [
+     {
+      "t": "Voi "
+     },
+     {
+      "t": "sălășlui",
+      "w": "sălășlui",
+      "heb": "וְשָׁכַנְתִּי",
+      "translit": "ve-shakhanti",
+      "strong": "H7931",
+      "pos": "verb, qal perfect",
+      "def_ro": "voi locui, Îmi voi așeza prezența.",
+      "dict_ro": "Rădăcina shakhan, „a locui, a sălășlui” — aceeași rădăcină ca Șechina, termenul rabinic clasic pentru prezența divină imanentă; concluzia întregii Haftarot: nu piatra, cedrul sau aurul garantează prezența lui Dumnezeu, ci ascultarea vie a poporului, condiție explicit legată de acest verset final."
+     },
+     {
+      "t": " printre copiii lui Israel și nu voi "
+     },
+     {
+      "t": "părăsi",
+      "w": "părăsi",
+      "heb": "אֶעֱזֹב",
+      "translit": "e'ezov",
+      "strong": "H5800",
+      "pos": "verb, qal imperfect",
+      "def_ro": "voi părăsi.",
+      "dict_ro": "Rădăcina azav, „a părăsi, a abandona” — promisiune finală, condiționată explicit de versetul precedent, dar rostită aici cu certitudinea deplină a unui legământ reînnoit, încheind capitolul pe nota teologică centrală a întregii Haftarot Teruma: „Îmi voi așeza sălașul în mijlocul lor” (ecou direct al Exodului 25:8)."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְשָׁכַנְתִּי בְּתוֹךְ בְּנֵי יִשְׂרָאֵל וְלֹא אֶעֱזֹב אֶת־עַמִּי יִשְׂרָאֵל׃",
+      "translation": "„Voi sălășlui printre copiii lui Israel și nu voi părăsi pe poporul Meu, Israel.” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ κατασκηνώσω ἐν μέσῳ υἱῶν Ἰσραὴλ καὶ οὐκ ἐγκαταλείψω τὸν λαόν μου Ἰσραήλ.",
+      "greek": true,
+      "translation": "„și Îmi voi așeza sălașul în mijlocul fiilor lui Israel și nu voi părăsi poporul Meu, Israel.”",
+      "note": "Traducere fidelă structurii ebraice, cu „κατασκηνώσω” corespunzând exact conceptului de Șechina din ebraică."
+     }
+    ],
+    "refs": [
+     "Exodul 25:8"
+    ],
+    "commentaries": []
    }
   ]
  }
