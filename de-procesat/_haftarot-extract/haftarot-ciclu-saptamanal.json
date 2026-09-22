@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "12 capitole (din 54+2 planificate) · 12 complete la Standardul Davar",
+ "meta": "13 capitole (din 54+2 planificate) · 13 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -30464,5 +30464,2141 @@
     }
    ]
   }
+ ,
+  {
+  "num": 13,
+  "title": "Haftarat Șemot (așkenaz)",
+  "ref": "Isaia 27:6-28:13; 29:22-23",
+  "intro": "Haftarat Șemot, în tradiția așkenază, leagă cartea Exodului — începutul robiei și al izbăvirii lui Israel — de o promisiune amplă de restaurare la Isaia: Iacov va prinde rădăcină și va înflori (27:6), risipiții din Asiria și Egipt se vor întoarce la muntele sfânt (27:12-13), dar drumul până acolo trece printr-o mustrare aspră a conducătorilor lui Efraim, beți și incapabili să înțeleagă cuvântul profetic (28:1-13), înainte de încheierea cu promisiunea că urmașii lui Iacov nu se vor mai rușina, ci vor sfinți Numele DOMNULUI (29:22-23).",
+  "verses": [
+   {
+    "v": "27:6",
+    "t": "[Zile] vin când Iacov va prinde rădăcină, Israel va înmuguri și va înflori și va umple toată fața lumii cu rod.",
+    "heb": "הַבָּאִים יַשְׁרֵשׁ יַעֲקֹב יָצִיץ וּפָרַח יִשְׂרָאֵל וּמָלְאוּ פְנֵי־תֵבֵל תְּנוּבָה׃",
+    "translit": "Habaim iașreș Iaakov iațiț ufarah Israel umal'u fenei-tevel tenuvah.",
+    "tokens": [
+     {
+      "t": "[Zile] "
+     },
+     {
+      "t": "vin",
+      "w": "vin",
+      "heb": "הַבָּאִים",
+      "translit": "habba'im",
+      "strong": "H935",
+      "pos": "verb, participiu qal",
+      "def_ro": "cele care vin, zilele viitoare.",
+      "dict_ro": "Participiul „habba'im” („cele ce vin”) deschide, fără subiect explicit, o formulă tipică profetică de anunțare a viitorului — Rashi îl leagă direct de finalul capitolului, unde „cei pierduți în Asiria” și „cei exilați în Egipt” chiar „vin” înapoi (27:13), făcând din acest cuvânt un fir narativ care leagă tot pasajul."
+     },
+     {
+      "t": " când "
+     },
+     {
+      "t": "Iacov",
+      "w": "Iacov",
+      "heb": "יַעֲקֹב",
+      "translit": "Ya'akov",
+      "strong": "H3290",
+      "pos": "nume propriu",
+      "def_ro": "Iacov — aici numele folosit pentru poporul Israel.",
+      "dict_ro": "„Iacov” denumește aici, ca adesea la profeți, întregul popor descins din patriarh, nu doar persoana istorică. Metzudat David observă că „va prinde rădăcină” presupune un cuvânt implicit de timp („în zilele care vin”), legând planta lui Iacov de o creștere lentă, sigură, spre deosebire de dezrădăcinarea suferită în exil."
+     },
+     {
+      "t": " va "
+     },
+     {
+      "t": "prinde rădăcină",
+      "w": "prinde rădăcină",
+      "heb": "יַשְׁרֵשׁ",
+      "translit": "yashresh",
+      "strong": "H8327",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "va prinde rădăcină, se va înrădăcina.",
+      "dict_ro": "Rădăcina shoresh, „rădăcină”, aici la forma cauzativă hifil — Iacov nu doar crește, ci „face să prindă rădăcină”, o creștere activă, voită. Imaginea vegetală (rădăcină, mugur, floare, rod) domină tot versetul, contrastând cu imaginea plantei ofilite și dezrădăcinate din capitolul următor (28:1, 4), aplicată acolo lui Efraim cel mândru și beat."
+     },
+     {
+      "t": ", "
+     },
+     {
+      "t": "Israel",
+      "w": "Israel",
+      "heb": "יִשְׂרָאֵל",
+      "translit": "Yisra'el",
+      "strong": "H3478",
+      "pos": "nume propriu",
+      "def_ro": "Israel.",
+      "dict_ro": "Numele „Israel” („cel ce se luptă cu Dumnezeu”, Geneza 32:29) apare aici în paralelism poetic perfect cu „Iacov” din prima jumătate a versetului — tehnica standard a poeziei ebraice, unde același subiect e numit de două ori, cu nume diferite, pentru accent."
+     },
+     {
+      "t": " va "
+     },
+     {
+      "t": "înmuguri",
+      "w": "înmuguri",
+      "heb": "יָצִיץ",
+      "translit": "yatsits",
+      "strong": "H6692",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "va înmuguri, va înflori.",
+      "dict_ro": "Rădăcina tsuts, „a înflori, a înmuguri” — aceeași rădăcină ca în toiagul înmugurit al lui Aaron (Numeri 17:23), unde o creangă uscată dă semn de viață nouă prin voia divină, nu prin natură. Aici, înflorirea lui Israel e la fel un semn minunat, nu un proces pur natural."
+     },
+     {
+      "t": " și va "
+     },
+     {
+      "t": "înflori",
+      "w": "înflori",
+      "heb": "וּפָרַח",
+      "translit": "u-farach",
+      "strong": "H6524",
+      "pos": "verb, qal perfect",
+      "def_ro": "va înflori, va înmuguri.",
+      "dict_ro": "Rădăcina parach, „a înflori, a da muguri” — Metzudat Tzion citează exact același verb la Numeri 17:23 pentru toiagul lui Aaron, confirmând ecoul intenționat: renașterea lui Israel e de aceeași natură miraculoasă ca minunea toiagului înflorit."
+     },
+     {
+      "t": " și va umple toată "
+     },
+     {
+      "t": "fața lumii",
+      "w": "fața lumii",
+      "heb": "פְנֵי־תֵבֵל",
+      "translit": "penei-tevel",
+      "strong": "H8398",
+      "pos": "substantiv, feminin",
+      "def_ro": "fața lumii, fața pământului locuit.",
+      "dict_ro": "Tevel, „lume, pământ locuit” — distinct de erets („pământ” în sens general) sau adamah („sol”), tevel accentuează lumea ca loc de locuire umană, folosit adesea în context poetic-cosmic (Psalmul 24:1, Isaia 24:4). Rodul lui Iacov nu rămâne local, ci umple „fața” întregii lumi locuite — o promisiune cu bătaie universală."
+     },
+     {
+      "t": " cu "
+     },
+     {
+      "t": "rod",
+      "w": "rod",
+      "heb": "תְּנוּבָה",
+      "translit": "tenuvah",
+      "strong": "H8570",
+      "pos": "substantiv, feminin",
+      "def_ro": "rod, roadă.",
+      "dict_ro": "Tenuvah, „rod, produs [al pământului]” — cuvânt rar, folosit tot în context de belșug agricol la Plângeri 4:9 (invers, despre lipsa rodului în asediu). Aici încheie lanțul vegetal al versetului (rădăcină → mugur → floare → rod), o imagine completă de restaurare organică."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַבָּאִים יַשְׁרֵשׁ יַעֲקֹב יָצִיץ וּפָרַח יִשְׂרָאֵל וּמָלְאוּ פְנֵי־תֵבֵל תְּנוּבָה׃",
+      "translation": "„[Zile] vin când Iacov va prinde rădăcină, Israel va înmuguri și va înflori și va umple toată fața lumii cu rod.” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "οἱ ἐρχόμενοι, τέκνα Ἰακώβ, βλαστήσει καὶ ἐξανθήσει Ἰσραήλ, καὶ ἐμπλησθήσεται ἡ οἰκουμένη τοῦ καρποῦ αὐτοῦ.",
+      "greek": true,
+      "translation": "„Cei ce vin, copii ai lui Iacov, va înmuguri și va înflori Israel, și se va umple lumea locuită de rodul lui.”",
+      "note": "LXX adaugă „copii ai” înaintea lui Iacov (τέκνα Ἰακώβ), absent din ebraică — o glosă explicativă, arătând limpede că „Iacov” se referă la urmașii lui, nu la patriarh însuși. În rest, traducerea urmărește îndeaproape structura ebraică."
+     }
+    ],
+    "refs": [
+     "Numeri 17:16-23",
+     "Osea 14:6-8",
+     "Ioan 15:1-5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește versetul ca pe o întrebare retorică divină adresată popoarelor: „Nu știți ce am făcut prima dată? Cei ce au venit în Egipt, [neamul] pe care Iacov l-a înrădăcinat [acolo], a înmugurit și a înflorit acolo până a umplut fața lumii cu rod” — adică chiar înmulțirea lui Israel în robia egipteană dinaintea Exodului e dovada capacității lui Dumnezeu de a repeta minunea la o scară și mai mare, la restaurarea finală."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David explică lipsa unui subiect temporal explicit: propoziția presupune „în zilele ce vor veni” — o făgăduință amânată în timp, dar sigură, care va face din creșterea lui Iacov un proces vizibil, complet, „fața lumii” fiind umplută cu rod, nu doar un colț anume al ei."
+     }
+    ]
+   },
+   {
+    "v": "27:7",
+    "t": "L-a lovit oare pe [Israel] precum i-a lovit pe cei care l-au lovit? L-a ucis precum i-a ucis pe cei ce l-au ucis?",
+    "heb": "הַכְּמַכַּת מַכֵּהוּ הִכָּהוּ אִם־כְּהֶרֶג הֲרֻגָיו הֹרָג׃",
+    "translit": "Ha-khemakat makkehu hikkahu im-ke-hereg harugav horag.",
+    "tokens": [
+     {
+      "t": "L-a "
+     },
+     {
+      "t": "lovit",
+      "w": "lovit",
+      "heb": "הִכָּהוּ",
+      "translit": "hikkahu",
+      "strong": "H5221",
+      "pos": "verb, hifil perfect",
+      "def_ro": "l-a lovit.",
+      "dict_ro": "Rădăcina nakhah, „a lovi” — verbul revine de patru ori în acest verset scurt (makkat, makkehu, hikkahu, horag), o insistență retorică ce pune față în față pedeapsa lui Israel cu pedeapsa asupra dușmanilor lui, întrebând dacă cele două au fost egale."
+     },
+     {
+      "t": " oare pe [Israel] precum "
+     },
+     {
+      "t": "i-a lovit",
+      "w": "i-a lovit",
+      "heb": "מַכֵּהוּ",
+      "translit": "makkehu",
+      "strong": "H5221",
+      "pos": "verb, hifil participiu",
+      "def_ro": "cel/cei care l-au lovit.",
+      "dict_ro": "Participiul de la aceeași rădăcină nakhah desemnează aici pe „cel ce lovește” Israelul — dușmanii lui (Egiptul, la citirea lui Rashi). Structura chiastică a versetului (lovit-lovitor / ucis-ucigători) pune întrebarea retoric: pedeapsa aplicată dușmanilor a fost pe măsura celei suferite de Israel?"
+     },
+     {
+      "t": " pe cei care l-au lovit? L-a "
+     },
+     {
+      "t": "ucis",
+      "w": "ucis",
+      "heb": "הֹרָג",
+      "translit": "horag",
+      "strong": "H2026",
+      "pos": "verb, qal pasiv participiu",
+      "def_ro": "a fost ucis.",
+      "dict_ro": "Rădăcina harag, „a ucide” — la pasiv, încheind paralela cu prima jumătate a versetului. Rashi leagă acest verset direct de Ieșirea din Egipt: „ei [egiptenii] i-au înecat [pe evrei] în apă, iar Eu i-am înecat [pe ei] în apă” — aceeași măsură, dar întoarsă."
+     },
+     {
+      "t": " precum "
+     },
+     {
+      "t": "i-a ucis",
+      "w": "i-a ucis",
+      "heb": "הֲרֻגָיו",
+      "translit": "harugav",
+      "strong": "H2026",
+      "pos": "verb, qal pasiv participiu, plural construct",
+      "def_ro": "cei uciși de el.",
+      "dict_ro": "Plural de la harag, „a ucide” — „cei uciși ai lui”, adică victimele dușmanului. Metzudat David explică întreg versetul ca pe o comparație implicită: „oare, așa cum Egiptul i-a lovit pe cei uciși ai lui [pe evrei], tot așa a fost lovit el [Egiptul]?” — răspunsul implicit fiind că pedeapsa lui Dumnezeu asupra Egiptului a fost mai grea."
+     },
+     {
+      "t": " pe cei ce l-au ucis?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַכְּמַכַּת מַכֵּהוּ הִכָּהוּ אִם־כְּהֶרֶג הֲרֻגָיו הֹרָג׃",
+      "translation": "„L-a lovit oare pe [Israel] precum i-a lovit pe cei care l-au lovit? L-a ucis precum i-a ucis pe cei ce l-au ucis?” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "μὴ ὡς αὐτὸς ἐπάταξε, καὶ αὐτὸς οὕτως πληγήσεται, καὶ ὡς αὐτὸς ἀνεῖλεν, οὕτως ἀναιρεθήσεται;",
+      "greek": true,
+      "translation": "„Oare, precum el [dușmanul] a lovit, tot așa va fi lovit? Și precum el a ucis, tot așa va fi ucis?”",
+      "note": "LXX inversează cine e subiectul acțiunii față de lectura lui Rashi: în greacă, întrebarea e dacă dușmanul (nu Israel) va suferi aceeași soartă pe care a provocat-o — o lectură de răzbunare viitoare, nu de comparație retrospectivă a suferinței trecute a lui Israel."
+     }
+    ],
+    "refs": [
+     "Exodul 14:27-28",
+     "Osea 6:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește versetul ca pe o afirmare a puterii divine prin comparație directă cu Exodul: „ați văzut măreția Mea, cum l-am lovit pe Iacov cu o lovitură asemenea celei cu care a fost lovit [de dușmani]? Ei i-au înecat [pe evrei] în apă, iar Eu i-am înecat pe ei [pe egipteni] în apă.” Există mirări care rămân valabile [ca răspuns retoric] — chiar dacă Israel a fost „ucis” asemenea celor uciși de Faraon, tot Faraon și poporul lui au fost, la rândul lor, uciși la fel."
+     },
+     {
+      "author": "Metzudat Tzion",
+      "text": "Metzudat Tzion notează repetiția insistentă a rădăcinii nakhah („a lovi”) de patru ori în acest verset scurt — o tehnică poetică de accentuare, subliniind prin repetiție ideea de talion: lovitura primită și lovitura dată se cântăresc, verset după verset, în aceeași balanță."
+     }
+    ]
+   },
+   {
+    "v": "27:8",
+    "t": "După măsura sa, a lovit împotriva țarinii sale, despuindu-o cu vântul Său puternic în ziua vântului de la răsărit.",
+    "heb": "בְּסַאסְּאָה בְּשַׁלְחָהּ תְּרִיבֶנָּה הָגָה בְּרוּחוֹ הַקָּשָׁה בְּיוֹם קָדִים׃",
+    "translit": "Be-sa'sse'ah be-shalchah terivennah hagah be-rucho ha-kashah be-yom kadim.",
+    "tokens": [
+     {
+      "t": "După "
+     },
+     {
+      "t": "măsura sa",
+      "w": "măsura sa",
+      "heb": "בְּסַאסְּאָה",
+      "translit": "be-sa'sse'ah",
+      "strong": "H5432",
+      "pos": "substantiv, feminin",
+      "def_ro": "cu măsura, potrivit.",
+      "dict_ro": "Se'ah, „măsură [de capacitate]” — cuvânt rar, dublat aici (sa'sse'ah) pentru accent, ca într-o expresie idiomatică „măsură cu măsură”. Metzudat Tzion leagă imaginea de judecata proporțională: pedeapsa lui Israel a fost măsurată cu grijă, nu una haotică sau excesivă."
+     },
+     {
+      "t": ", a lovit împotriva "
+     },
+     {
+      "t": "țarinii sale",
+      "w": "țarinii sale",
+      "heb": "בְּשַׁלְחָהּ",
+      "translit": "be-shalchah",
+      "strong": "H7971",
+      "pos": "verb, piel infinitiv",
+      "def_ro": "trimițând-o, alungând-o.",
+      "dict_ro": "Rădăcina shalach, „a trimite, a alunga” — aici despre trimiterea în exil a viei/poporului, aceeași rădăcină ca la trimiterea lui Israel din Egipt (Exodul 5:1, „lasă-Mi poporul să plece”) — un ecou ironic, de data asta exilul fiind pedeapsă, nu eliberare."
+     },
+     {
+      "t": ", despuindu-o cu "
+     },
+     {
+      "t": "vântul Său puternic",
+      "w": "vântul Său puternic",
+      "heb": "בְּרוּחוֹ הַקָּשָׁה",
+      "translit": "be-rucho ha-kashah",
+      "strong": "H7307",
+      "pos": "substantiv, feminin",
+      "def_ro": "cu duhul/vântul Lui aspru.",
+      "dict_ro": "Ruach, „duh, vânt, suflare” — cuvânt cu triplu sens în ebraică (fizic, psihologic, spiritual). Aici, la forma „duh/vânt aspru”, descrie judecata divină ca pe o forță naturală necruțătoare, dar controlată — spre deosebire de furtuna distrugătoare din capitolul următor (28:2), unde nu mai există limită."
+     },
+     {
+      "t": " în ziua "
+     },
+     {
+      "t": "vântului de la răsărit",
+      "w": "vântului de la răsărit",
+      "heb": "קָדִים",
+      "translit": "kadim",
+      "strong": "H6921",
+      "pos": "substantiv, masculin",
+      "def_ro": "vânt de răsărit.",
+      "dict_ro": "Kadim, „vânt de răsărit” — în geografia Israelului, un vânt fierbinte, uscat, venit dinspre deșert, simbol biblic constant al judecății divine aspre (Exodul 10:13, vântul care aduce lăcustele; Exodul 14:21, vântul care desparte Marea Roșie). Rashi leagă explicit acest vânt de cel care a despărțit apele la Ieșirea din Egipt."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּסַאסְּאָה בְּשַׁלְחָהּ תְּרִיבֶנָּה הָגָה בְּרוּחוֹ הַקָּשָׁה בְּיוֹם קָדִים׃",
+      "translation": "„După măsura sa, a lovit împotriva țarinii sale, despuindu-o cu vântul Său puternic în ziua vântului de la răsărit.” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "μαχόμενος καὶ ὀνειδίζων ἐξαποστελεῖ αὐτούς· οὐ σὺ ἦσθα ὁ μελετῶν τῷ πνεύματι τῷ σκληρῷ ἀνελεῖν αὐτοὺς πνεύματι θυμοῦ;",
+      "greek": true,
+      "translation": "„Luptând și ocărând, îi va trimite departe; oare nu erai Tu cel ce cugetai, cu duhul aspru, să-i nimicești cu duh de mânie?”",
+      "note": "LXX citește versetul complet diferit, ca pe o adresare directă către Dumnezeu („oare nu erai Tu...”), spre deosebire de descrierea la persoana a treia din ebraică — o divergență substanțială de interpretare, nu doar de nuanță, tipică pentru pasajele obscure ale acestui capitol."
+     }
+    ],
+    "refs": [
+     "Exodul 14:21",
+     "Exodul 10:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „măsura” ca fiind chiar măsura folosită la Ieșire: „când Egiptul l-a trimis pe Israel [afară], [Dumnezeu] s-a certat cu el prin acea măsură” — adică judecata asupra Egiptului a folosit aceeași unitate de măsură cu care Egiptul îl asuprise pe Israel. „Vântul de răsărit” e, pentru Rashi, o trimitere directă la ziua în care „DOMNUL a purtat marea cu un vânt de răsărit puternic” (Exodul 14:21), despărțind apele."
+     }
+    ]
+   },
+   {
+    "v": "27:9",
+    "t": "De aceea, prin aceasta va fi ispășită vina lui Iacov și acesta va fi tot rodul îndepărtării păcatului lui: când va face toate pietrele altarelor precum creta pisată și copacii sacri și idolii soarelui nu se vor mai ridica.",
+    "heb": "לָכֵן בְּזֹאת יְכֻפַּר עֲוֹן־יַעֲקֹב וְזֶה כָּל־פְּרִי הָסִר חַטָּאתוֹ בְּשׂוּמוֹ כָּל־אַבְנֵי מִזְבֵּחַ כְּאַבְנֵי־גִר מְנֻפָּצוֹת לֹא־יָקֻמוּ אֲשֵׁרִים וְחַמָּנִים׃",
+    "translit": "Lakhen be-zot yekhuppar avon-Ya'akov ve-zeh kol-peri hasir chattato be-sumo kol-avnei mizbe'ach ke-avnei-gir menuppatsot lo-yakumu asherim ve-chammanim.",
+    "tokens": [
+     {
+      "t": "De aceea, prin aceasta va fi "
+     },
+     {
+      "t": "ispășită",
+      "w": "ispășită",
+      "heb": "יְכֻפַּר",
+      "translit": "yekhuppar",
+      "strong": "H3722",
+      "pos": "verb, pual imperfect",
+      "def_ro": "va fi ispășită, va fi acoperită.",
+      "dict_ro": "Rădăcina kafar, „a acoperi, a ispăși” — aceeași rădăcină ca Yom Kippur, „Ziua Ispășirii”. La pasiv (pual), „vina va fi ispășită” — nu printr-o jertfă rituală, ci, cum arată restul versetului, prin distrugerea deliberată a altarelor idolatre, faptă care devine ea însăși mijlocul ispășirii."
+     },
+     {
+      "t": " vina lui "
+     },
+     {
+      "t": "Iacov",
+      "w": "Iacov",
+      "heb": "יַעֲקֹב",
+      "translit": "Ya'akov",
+      "strong": "H3290",
+      "pos": "nume propriu",
+      "def_ro": "Iacov.",
+      "dict_ro": "Vezi nota de la 27:6 — „Iacov” pentru poporul Israel."
+     },
+     {
+      "t": " și acesta va fi tot rodul îndepărtării "
+     },
+     {
+      "t": "păcatului lui",
+      "w": "păcatului lui",
+      "heb": "חַטָּאתוֹ",
+      "translit": "chattato",
+      "strong": "H2403",
+      "pos": "substantiv, feminin",
+      "def_ro": "păcatul lui.",
+      "dict_ro": "Chatat, „păcat” — de la rădăcina chata, „a rata ținta”. Versetul leagă explicit îndepărtarea acestui păcat de un act concret: distrugerea altarelor idolatre, nu doar o schimbare interioară abstractă."
+     },
+     {
+      "t": ": când va face toate "
+     },
+     {
+      "t": "pietrele altarelor",
+      "w": "pietrele altarelor",
+      "heb": "אַבְנֵי מִזְבֵּחַ",
+      "translit": "avnei mizbe'ach",
+      "strong": "H4196",
+      "pos": "substantiv, masculin",
+      "def_ro": "pietrele altarului.",
+      "dict_ro": "Mizbeach, „altar” — de la rădăcina zavach, „a jertfi”. Aici, la plural, desemnează altarele idolatre ale lui Efraim/Israel, nu altarul legitim al Templului — pietrele lor vor fi „pisate ca creta”, adică reduse la o pulbere inertă, incapabilă să mai fie refolosită."
+     },
+     {
+      "t": " precum creta pisată și "
+     },
+     {
+      "t": "copacii sacri",
+      "w": "copacii sacri",
+      "heb": "אֲשֵׁרִים",
+      "translit": "asherim",
+      "strong": "H842",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "stâlpi sacri, copaci de cult ai zeiței Așera.",
+      "dict_ro": "Asherim, plural de la Așera, zeița canaanită a fertilității — obiectele de cult (stâlpi de lemn sau copaci sacri) dedicate ei, interzise explicit în Tora (Deuteronom 16:21). Prezența lor alături de altarele „lui Efraim” arată sincretismul religios pe care profetul îl condamnă."
+     },
+     {
+      "t": " și "
+     },
+     {
+      "t": "idolii soarelui",
+      "w": "idolii soarelui",
+      "heb": "חַמָּנִים",
+      "translit": "chammanim",
+      "strong": "H2553",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "altare/idoli de cult solar.",
+      "dict_ro": "Chammanim, de la rădăcina chamah, „soare, căldură” — obiecte de cult solar, atestate arheologic în situri canaanite și feniciene. Metzudat Tzion le leagă de fabricarea unor idoli special dedicați soarelui, distincți de asherim."
+     },
+     {
+      "t": " nu se vor mai "
+     },
+     {
+      "t": "ridica",
+      "w": "ridica",
+      "heb": "יָקֻמוּ",
+      "translit": "yakumu",
+      "strong": "H6965",
+      "pos": "verb, qal imperfect",
+      "def_ro": "se vor ridica, vor sta în picioare.",
+      "dict_ro": "Rădăcina qum, „a se ridica, a sta în picioare” — la negativ, promisiunea fermă că aceste obiecte idolatre nu vor mai „sta în picioare”, adică nu vor mai fi refăcute după distrugere."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן בְּזֹאת יְכֻפַּר עֲוֹן־יַעֲקֹב וְזֶה כָּל־פְּרִי הָסִר חַטָּאתוֹ בְּשׂוּמוֹ כָּל־אַבְנֵי מִזְבֵּחַ כְּאַבְנֵי־גִר מְנֻפָּצוֹת לֹא־יָקֻמוּ אֲשֵׁרִים וְחַמָּנִים׃",
+      "translation": "„De aceea, prin aceasta va fi ispășită vina lui Iacov...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "διὰ τοῦτο ἀφαιρεθήσεται ἡ ἀνομία Ἰακώβ, καὶ τοῦτό ἐστιν ἡ εὐλογία αὐτοῦ, ὅταν ἀφέλωμαι τὴν ἁμαρτίαν αὐτοῦ, ὅταν θῶσι πάντας τοὺς λίθους τῶν βωμῶν κατακεκομμένους ὡς κονίαν λεπτήν· καὶ οὐ μὴ μείνῃ τὰ δένδρα αὐτῶν, καὶ τὰ εἴδωλα αὐτῶν ἐκκεκομμένα ὥσπερ δρυμὸς μακράν.",
+      "greek": true,
+      "translation": "„De aceea va fi îndepărtată fărădelegea lui Iacov, și aceasta este binecuvântarea lui, când voi îndepărta păcatul lui, când vor face toate pietrele altarelor sfărâmate ca praful subțire; și nu vor mai rămâne copacii lor, iar idolii lor vor fi tăiați ca o pădure îndepărtată.”",
+      "note": "LXX traduce „chammanim” (idolii solari) prin „δένδρα” (copaci) — probabil confundându-i cu asherim din același verset — și adaugă comparația „ca o pădure îndepărtată”, absentă din ebraică."
+     }
+    ],
+    "refs": [
+     "Deuteronom 16:21",
+     "2 Regi 23:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică: „chiar și acum, prin aceasta ar fi ispășită vina lui Iacov, ca să merite să fie izbăvit ca odinioară — și acesta va fi întregul rod bun pentru el, ca să-și îndepărteze păcatul: dacă va face toate pietrele altarelor idolatre de pe înălțimile lui ca pietrele de cretă pisate și zdrobite” — condiția izbăvirii viitoare e distrugerea completă, nu parțială, a idolatriei."
+     },
+     {
+      "author": "Metzudat Tzion",
+      "text": "Metzudat Tzion distinge cei doi termeni finali ai versetului: asherim sunt copacii sau stâlpii de lemn dedicați cultului zeiței Așera, în timp ce chammanim, de la rădăcina „căldură/soare”, sunt obiecte separate, dedicate cultului solar — două forme distincte de idolatrie, ambele condamnate deopotrivă la dispariție completă."
+     }
+    ]
+   },
+   {
+    "v": "27:10",
+    "t": "Căci orașul fortificat va fi însingurat, pustiit și abandonat ca un deșert.",
+    "heb": "כִּי עִיר בְּצוּרָה בָּדָד נָוֶה מְשֻׁלָּח וְנֶעֱזָב כַּמִּדְבָּר",
+    "translit": "Ki ir betsurah badad naveh meshullach ve-ne'ezav ka-midbar.",
+    "tokens": [
+     {
+      "t": "Căci "
+     },
+     {
+      "t": "orașul fortificat",
+      "w": "orașul fortificat",
+      "heb": "עִיר בְּצוּרָה",
+      "translit": "ir betsurah",
+      "strong": "H5892",
+      "pos": "substantiv, feminin",
+      "def_ro": "cetate întărită.",
+      "dict_ro": "Ir betsurah, „cetate fortificată” — Rashi identifică această cetate cu o capitală ismaelită/a dușmanilor lui Israel, nu cu o cetate israelită; imaginea încheie tema răsturnării: cetatea cuceritoare va ajunge, la rândul ei, pustie ca un deșert."
+     },
+     {
+      "t": " va fi "
+     },
+     {
+      "t": "însingurat",
+      "w": "însingurat",
+      "heb": "בָּדָד",
+      "translit": "badad",
+      "strong": "H910",
+      "pos": "adverb/adjectiv",
+      "def_ro": "singur, izolat.",
+      "dict_ro": "Badad, „singur, izolat” — același cuvânt ca la Plângeri 1:1, „cum stă singură cetatea [Ierusalimul]” în bocetul asupra distrugerii lui — aici aplicat, ironic, cetății dușmane, nu Ierusalimului."
+     },
+     {
+      "t": ", pustiit și abandonat ca un "
+     },
+     {
+      "t": "deșert",
+      "w": "deșert",
+      "heb": "מִדְבָּר",
+      "translit": "midbar",
+      "strong": "H4057",
+      "pos": "substantiv, masculin",
+      "def_ro": "pustiu, deșert.",
+      "dict_ro": "Midbar, „pustiu” — de la rădăcina davar, „a vorbi”, posibil legat de ideea unui loc „nelocuit”, gol. Imaginea unei cetăți fortificate reduse la starea unui pustiu revine des la profeți ca simbol al judecății divine asupra mândriei umane (cf. Isaia 13:19-22, despre Babilon)."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי עִיר בְּצוּרָה בָּדָד נָוֶה מְשֻׁלָּח וְנֶעֱזָב כַּמִּדְבָּר",
+      "translation": "„Căci orașul fortificat va fi însingurat, pustiit și abandonat ca un deșert.” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "τὸ κατοικούμενον ποίμνιον ἀνειμένον ἔσται, ὡς ποίμνιον καταλελειμμένον καὶ ἔσται πολὺν χρόνον εἰς βόσκημα, καὶ ἐκεῖ ἀναπαύσονται ποίμνια.",
+      "greek": true,
+      "translation": "„Turma locuită va fi lăsată slobodă, ca o turmă părăsită, și va fi multă vreme loc de pășune, și acolo se vor odihni turmele.”",
+      "note": "LXX citește complet altfel: unde ebraica are „cetate fortificată” (ir betsurah), grecescul are „turmă” (ποίμνιον) — probabil o confuzie de citire a consoanelor ebraice, sau o tradiție textuală diferită la baza traducerii grecești."
+     }
+    ],
+    "refs": [
+     "Plângeri 1:1",
+     "Isaia 13:19-22"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi leagă versetul de cel anterior: „căci prin faptul că [Israel] va face aceasta [va distruge idolatria], cetatea fortificată a lui Ismael va fi singură, iar locuința va fi pustiită și abandonată ca deșertul.” Vede aici o continuare a temei răsturnării sorții — cetatea agresorului devine ea însăși pustie."
+     }
+    ]
+   },
+   {
+    "v": "27:11",
+    "t": "Acolo va paște vițelul și acolo se va culca și îi va mânca ramurile. Când ramura lui se va usca, va fi ruptă, femei vor veni și vor aprinde foc cu ea, căci a fost [un neam] fără minte – de aceea, Creatorul său nu îi va arăta milă și Cel care l-a făurit nu îi va arăta îndurare.",
+    "heb": "שָׁם יִרְעֶה עֵגֶל וְשָׁם יִרְבָּץ וְכִלָּה סְעִפֶיהָ׃ בִּיבֹשׁ קְצִירָהּ תִּשָּׁבַרְנָה נָשִׁים בָּאוֹת מְאִירוֹת אוֹתָהּ כִּי לֹא עַם־בִּינוֹת הוּא עַל־כֵּן לֹא־יְרַחֲמֶנּוּ עֹשֵׂהוּ וְיֹצְרוֹ לֹא יְחֻנֶּנּוּ׃",
+    "translit": "Sham yir'eh egel ve-sham yirbats ve-killah se'ifeha. Bi-yvosh ketsirah tishshavarnah nashim ba'ot me'irot otah ki lo am-binot hu al-ken lo-yerachamennu osehu ve-yotsro lo yechunennu.",
+    "tokens": [
+     {
+      "t": "Acolo va paște "
+     },
+     {
+      "t": "vițelul",
+      "w": "vițelul",
+      "heb": "עֵגֶל",
+      "translit": "egel",
+      "strong": "H5695",
+      "pos": "substantiv, masculin",
+      "def_ro": "vițel.",
+      "dict_ro": "Egel, „vițel” — Rashi îl identifică simbolic cu Efraim, citând Osea 4:16 („căci Israel e neascultător ca o juncă neînvățată”), unde poporul e comparat cu o vită tânără și nesupusă."
+     },
+     {
+      "t": " și acolo se va culca și îi va mânca "
+     },
+     {
+      "t": "ramurile",
+      "w": "ramurile",
+      "heb": "סְעִפֶיהָ",
+      "translit": "se'ifeha",
+      "strong": "H5589",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "ramurile ei.",
+      "dict_ro": "Se'ifim, „ramuri, crengi” — continuă imaginea vegetală din 27:6, dar inversată: acolo, rodul umplea lumea; aici, ramurile sunt mâncate și rupte, un tablou al decăderii totale a aceleiași „vii”."
+     },
+     {
+      "t": ". Când ramura lui se va "
+     },
+     {
+      "t": "usca",
+      "w": "usca",
+      "heb": "בִּיבֹשׁ",
+      "translit": "bi-yvosh",
+      "strong": "H3001",
+      "pos": "verb, qal infinitiv",
+      "def_ro": "la uscarea, când se usucă.",
+      "dict_ro": "Rădăcina yavesh, „a se usca” — Rashi citează o dezbatere lingvistică veche (Dunash vs. Menachem ibn Saruq) despre sensul exact al frazei, dar concluzia practică rămâne clară: uscăciunea ramurilor marchează sfârșitul oricărei utilități sau protecții pentru popor."
+     },
+     {
+      "t": ", va fi ruptă, femei vor veni și vor "
+     },
+     {
+      "t": "aprinde foc",
+      "w": "aprinde foc",
+      "heb": "מְאִירוֹת",
+      "translit": "me'irot",
+      "strong": "H215",
+      "pos": "verb, hifil participiu",
+      "def_ro": "aprinzând.",
+      "dict_ro": "Rădăcina or, „lumină”, la forma cauzativă „a aprinde” — Rashi (citând pe Ionatan) vede în „femei” un simbol al slăbiciunii: un popor atât de slab și lipsit de apărare, încât până și femeile pot aprinde nestingherite focul cu ramurile lui uscate."
+     },
+     {
+      "t": " cu ea, căci a fost [un neam] fără "
+     },
+     {
+      "t": "minte",
+      "w": "minte",
+      "heb": "בִּינוֹת",
+      "translit": "binot",
+      "strong": "H998",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "înțelegere, pricepere.",
+      "dict_ro": "Binah, „înțelegere, pricepere” — la plural intensiv, „lipsit cu totul de înțelegere”. Lipsa de binah e motivul explicit dat pentru absența milei divine — nu o pedeapsă arbitrară, ci consecința directă a refuzului de a înțelege."
+     },
+     {
+      "t": " – de aceea, "
+     },
+     {
+      "t": "Creatorul său",
+      "w": "Creatorul său",
+      "heb": "עֹשֵׂהוּ",
+      "translit": "osehu",
+      "strong": "H6213",
+      "pos": "verb, qal participiu",
+      "def_ro": "cel ce l-a făcut.",
+      "dict_ro": "Participiul de la asah, „a face” — „cel ce l-a făcut”, unul din cele două cuvinte paralele pentru Dumnezeu ca Făcător în acest verset (celălalt fiind yotser, „cel ce l-a plămădit”, din arta olarului, Geneza 2:7). Chiar Creatorul refuză mila față de o creatură care a refuzat să înțeleagă."
+     },
+     {
+      "t": " nu îi va arăta milă și "
+     },
+     {
+      "t": "Cel care l-a făurit",
+      "w": "Cel care l-a făurit",
+      "heb": "יֹצְרוֹ",
+      "translit": "yotsro",
+      "strong": "H3335",
+      "pos": "verb, qal participiu",
+      "def_ro": "cel ce l-a plămădit.",
+      "dict_ro": "Yatsar, „a plămădi, a modela” — verbul folosit la Geneza 2:7 pentru plămădirea omului din țărână, o imagine de olar. Paralelismul cu osehu întărește ideea unui Dumnezeu care a investit personal în formarea poporului — refuzul milei e cu atât mai grav, venind din partea Celui ce l-a modelat cu grijă."
+     },
+     {
+      "t": " nu îi va arăta îndurare."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שָׁם יִרְעֶה עֵגֶל וְשָׁם יִרְבָּץ וְכִלָּה סְעִפֶיהָ׃ בִּיבֹשׁ קְצִירָהּ תִּשָּׁבַרְנָה נָשִׁים בָּאוֹת מְאִירוֹת אוֹתָהּ כִּי לֹא עַם־בִּינוֹת הוּא עַל־כֵּן לֹא־יְרַחֲמֶנּוּ עֹשֵׂהוּ וְיֹצְרוֹ לֹא יְחֻנֶּנּוּ׃",
+      "translation": "„Acolo va paște vițelul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ μετὰ χρόνον οὐκ ἔσται ἐν αὐτῇ πᾶν χλωρὸν διὰ τὸ ξηρανθῆναι. γυναῖκες ἐρχόμεναι ἀπὸ θέας, δεῦτε· οὐ γὰρ λαός ἐστιν ἔχων σύνεσιν, διὰ τοῦτο οὐ μὴ οἰκτειρήσῃ ὁ ποιήσας αὐτούς, οὐδὲ ὁ πλάσας αὐτοὺς οὐ μὴ ἐλεήσῃ.",
+      "greek": true,
+      "translation": "„Și după o vreme nu va mai fi în ea nimic verde, din pricina uscării. Femei venind de la priveliște, veniți; căci nu e popor cu pricepere, de aceea nu se va îndura de ei cel ce i-a făcut, nici cel ce i-a plămădit nu-i va milui.”",
+      "note": "LXX păstrează sensul general (lipsa de pricepere → lipsa milei divine), dar reformulează imaginea femeilor („venind de la priveliște”) diferit de ebraică („aprinzând foc”) — probabil altă tradiție de citire a verbului obscur me'irot."
+     }
+    ],
+    "refs": [
+     "Osea 4:16",
+     "Geneza 2:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică „vițelul” cu Efraim (citând Osea 4:16) și explică „femei aprinzând” prin Targumul lui Ionatan: „un popor slab ca femeile îl vor aprinde” — o imagine a lipsei totale de apărare. Notează și o dezbatere gramaticală veche (Dunash contra lui Menachem) despre sensul exact al versetului, pe care o tranșează în favoarea lecturii care leagă uscarea ramurilor de imposibilitatea de a mai culege rod."
+     }
+    ]
+   },
+   {
+    "v": "27:12",
+    "t": "Și va fi, în ziua aceea, că DOMNUL va treiera de la râul [Eufratului] și până la fluviul Egiptului și veți fi adunați, unul câte unul, copiii ai lui Israel.",
+    "heb": "וְהָיָה בַּיּוֹם הַהוּא יַחְבֹּט יְהוָה מִשִּׁבֹּלֶת הַנָּהָר עַד־נַחַל מִצְרַיִם וְאַתֶּם תְּלֻקְּטוּ לְאַחַד אֶחָד בְּנֵי יִשְׂרָאֵל׃",
+    "translit": "Ve-hayah ba-yom ha-hu yachbot Adonai mi-shibbolet ha-nahar ad-nachal Mitsrayim ve-attem telukketu le-achad echad benei Yisra'el.",
+    "tokens": [
+     {
+      "t": "Și va fi, în ziua aceea, că DOMNUL va "
+     },
+     {
+      "t": "treiera",
+      "w": "treiera",
+      "heb": "יַחְבֹּט",
+      "translit": "yachbot",
+      "strong": "H2251",
+      "pos": "verb, qal imperfect",
+      "def_ro": "va treiera, va bate.",
+      "dict_ro": "Rădăcina chavat, „a treiera, a bate [grânele/măslinele]” — Rashi vede aici o imagine dublă: Dumnezeu „treieră” dușmanii ca pe niște snopi (împrăștiindu-i), dar în același timp „adună” cu grijă fiecare bob rămas — la fel cum treieratul măslinelor e urmat de strângerea rodului căzut."
+     },
+     {
+      "t": " de la "
+     },
+     {
+      "t": "râul",
+      "w": "râul",
+      "heb": "הַנָּהָר",
+      "translit": "ha-nahar",
+      "strong": "H5104",
+      "pos": "substantiv, masculin",
+      "def_ro": "râul, fluviul [Eufratului].",
+      "dict_ro": "Nahar, cu articol hotărât, desemnează în mod obișnuit în Biblie fluviul Eufrat — hotarul nord-estic clasic al Țării Făgăduinței (Geneza 15:18), aici folosit ca hotar geografic al adunării exilaților."
+     },
+     {
+      "t": " [Eufratului] și până la "
+     },
+     {
+      "t": "fluviul Egiptului",
+      "w": "fluviul Egiptului",
+      "heb": "נַחַל מִצְרַיִם",
+      "translit": "nachal Mitsrayim",
+      "strong": "H5158",
+      "pos": "substantiv, masculin",
+      "def_ro": "pârâul/uedul Egiptului.",
+      "dict_ro": "Nachal Mitsrayim, hotarul sud-vestic tradițional al Țării Făgăduinței (Numeri 34:5), formând împreună cu „râul” (Eufratul) din prima parte a versetului perechea completă de hotare ale promisiunii făcute lui Avraam (Geneza 15:18) — adunarea exilaților acoperă întreg teritoriul promis, de la un capăt la altul."
+     },
+     {
+      "t": " și veți fi "
+     },
+     {
+      "t": "adunați",
+      "w": "adunați",
+      "heb": "תְּלֻקְּטוּ",
+      "translit": "telukketu",
+      "strong": "H3950",
+      "pos": "verb, pual imperfect",
+      "def_ro": "veți fi strânși, adunați.",
+      "dict_ro": "Rădăcina lakat, „a culege, a strânge” — folosită de obicei pentru culesul spicelor rămase după seceriș (cf. Rut 2:2). Israel exilat e comparat cu spicele risipite, adunate acum, una câte una, cu aceeași grijă cu care se culege rodul rămas pe câmp."
+     },
+     {
+      "t": ", unul câte unul, copiii ai lui Israel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה בַּיּוֹם הַהוּא יַחְבֹּט יְהוָה מִשִּׁבֹּלֶת הַנָּהָר עַד־נַחַל מִצְרַיִם וְאַתֶּם תְּלֻקְּטוּ לְאַחַד אֶחָד בְּנֵי יִשְׂרָאֵל׃",
+      "translation": "„Și va fi, în ziua aceea, că DOMNUL va treiera...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ συμφράξει ὁ Θεὸς ἀπὸ τῆς διώρυγος τοῦ ποταμοῦ ἕως Ῥινοκορούρων, ὑμεῖς δὲ συναγάγετε τοὺς υἱοὺς Ἰσραὴλ κατὰ ἕνα ἕνα.",
+      "greek": true,
+      "translation": "„Și va fi în ziua aceea: Dumnezeu va îngrădi de la canalul râului până la Rinocorura, iar voi adunați-i pe fiii lui Israel unul câte unul.”",
+      "note": "LXX înlocuiește „nachal Mitsrayim” (fluviul/uedul Egiptului) cu numele grecesc „Rinocorura”, o localitate reală de graniță între Egipt și Canaan — o identificare geografică precisă, absentă ca atare din ebraică."
+     }
+    ],
+    "refs": [
+     "Geneza 15:18",
+     "Numeri 34:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică imaginea prin analogie agricolă: „așa cum cel ce treieră măslinele și apoi le culege, iar altele le culeg de pe pământ — tot așa Cel Sfânt va începe adunarea, cum s-a spus: se va sufla dintr-un corn mare [v.13]”. Treieratul și culesul, deși par acțiuni opuse, sunt de fapt etape ale aceluiași proces de strângere atentă."
+     }
+    ]
+   },
+   {
+    "v": "27:13",
+    "t": "Și va fi, în ziua aceea, că se va sufla dintr-un corn mare, și vor veni cei care sunt pierduți în țara Asiriei și cei exilați în țara Egiptului și se vor prosterna DOMNULUI pe muntele cel sfânt, în Ierusalim.",
+    "heb": "וְהָיָה בַּיּוֹם הַהוּא יִתָּקַע בְּשׁוֹפָר גָּדוֹל וּבָאוּ הָאֹבְדִים בְּאֶרֶץ אַשּׁוּר וְהַנִּדָּחִים בְּאֶרֶץ מִצְרָיִם וְהִשְׁתַּחֲווּ לַיהוָה בְּהַר הַקֹּדֶשׁ בִּירוּשָׁלָ‍ִם׃",
+    "translit": "Ve-hayah ba-yom ha-hu yittaka be-shofar gadol u-va'u ha-ovedim be-erets Ashshur ve-ha-niddachim be-erets Mitsrayim ve-hishtachavu l-Adonai be-har ha-kodesh bi-Yrushalayim.",
+    "tokens": [
+     {
+      "t": "Și va fi, în ziua aceea, că se va sufla dintr-un "
+     },
+     {
+      "t": "corn mare",
+      "w": "corn mare",
+      "heb": "שׁוֹפָר גָּדוֹל",
+      "translit": "shofar gadol",
+      "strong": "H7782",
+      "pos": "substantiv, masculin",
+      "def_ro": "corn [de berbec] mare.",
+      "dict_ro": "Shofar, cornul de berbec folosit ritual — de la revelația de pe Sinai (Exodul 19:16) la Roș Hașana. Un „shofar mare” devine, în tradiția evreiască, simbolul sunetului care va vesti izbăvirea finală, iar acest verset e citat pe scară largă în liturghia de Roș Hașana."
+     },
+     {
+      "t": ", și vor veni cei care sunt "
+     },
+     {
+      "t": "pierduți",
+      "w": "pierduți",
+      "heb": "הָאֹבְדִים",
+      "translit": "ha-ovedim",
+      "strong": "H6",
+      "pos": "verb, qal participiu",
+      "def_ro": "cei pierduți, rătăciți.",
+      "dict_ro": "Rădăcina avad, „a pieri, a se pierde” — Rashi explică termenul prin distanța extremă: exilații din Asiria fuseseră împrăștiați dincolo de legendarul râu Sambation, atât de departe încât păreau definitiv „pierduți”, nu doar temporar absenți."
+     },
+     {
+      "t": " în țara Asiriei și cei "
+     },
+     {
+      "t": "exilați",
+      "w": "exilați",
+      "heb": "הַנִּדָּחִים",
+      "translit": "ha-niddachim",
+      "strong": "H5080",
+      "pos": "verb, nifal participiu",
+      "def_ro": "cei alungați, izgoniți.",
+      "dict_ro": "Rădăcina nadach, „a alunga, a izgoni” — folosit constant la profeți pentru exilul forțat, distinct de ha-ovedim din prima parte a versetului: cei „pierduți” în Asiria (mai îndepărtați, mai puțin cunoscuți) versus cei „izgoniți” în Egipt (mai apropiați, mai accesibili)."
+     },
+     {
+      "t": " în țara Egiptului și se vor "
+     },
+     {
+      "t": "prosterna",
+      "w": "prosterna",
+      "heb": "וְהִשְׁתַּחֲווּ",
+      "translit": "ve-hishtachavu",
+      "strong": "H7812",
+      "pos": "verb, hishtafel perfect",
+      "def_ro": "se vor închina, se vor prosterna.",
+      "dict_ro": "Rădăcina shachah, „a se prosterna, a se închina” — gestul fizic complet de prosternare, folosit atât pentru închinarea la Dumnezeu, cât și, în alte contexte, pentru omagiul adus unui rege. Aici încheie versetul cu imaginea finală, pozitivă, a întregii diaspore adunate în închinare unită, pe muntele sfânt."
+     },
+     {
+      "t": " DOMNULUI pe muntele cel sfânt, în "
+     },
+     {
+      "t": "Ierusalim",
+      "w": "Ierusalim",
+      "heb": "בִּירוּשָׁלָ‍ִם",
+      "translit": "bi-Yrushalayim",
+      "strong": "H3389",
+      "pos": "nume propriu",
+      "def_ro": "în Ierusalim.",
+      "dict_ro": "Ierusalimul încheie capitolul ca punct final de întoarcere al tuturor exilaților — de la risipirea extremă (Asiria, Egipt, capetele lumii cunoscute) la unitatea centrală a închinării pe „muntele cel sfânt”."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה בַּיּוֹם הַהוּא יִתָּקַע בְּשׁוֹפָר גָּדוֹל וּבָאוּ הָאֹבְדִים בְּאֶרֶץ אַשּׁוּר וְהַנִּדָּחִים בְּאֶרֶץ מִצְרָיִם וְהִשְׁתַּחֲווּ לַיהוָה בְּהַר הַקֹּדֶשׁ בִּירוּשָׁלָ‍ִם׃",
+      "translation": "„Și va fi, în ziua aceea, că se va sufla dintr-un corn mare...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ σαλπιοῦσι τῇ σάλπιγγι τῇ μεγάλῃ, καὶ ἥξουσιν οἱ ἀπολόμενοι ἐν τῇ χώρᾳ τῶν Ἀσσυρίων καὶ οἱ ἀπολόμενοι ἐν Αἰγύπτῳ καὶ προσκυνήσουσι τῷ Κυρίῳ ἐπὶ τὸ ὄρος τὸ ἅγιον ἐν Ἱερουσαλήμ.",
+      "greek": true,
+      "translation": "„Și va fi în ziua aceea: vor suna din trâmbița cea mare, și vor veni cei pierduți în țara asirienilor și cei pierduți în Egipt, și se vor închina Domnului pe muntele cel sfânt, în Ierusalim.”",
+      "note": "LXX traduce ambii termeni ebraici distincți (ha-ovedim, „pierduți”, și ha-niddachim, „izgoniți”) prin același cuvânt grecesc „οἱ ἀπολόμενοι” („cei pierduți”), pierzând nuanța dintre cele două categorii de exilați marcată în ebraică."
+     }
+    ],
+    "refs": [
+     "Exodul 19:16",
+     "Matei 24:31",
+     "1 Corinteni 15:52"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „cei pierduți în țara Asiriei” prin distanța lor extremă: fiindcă au fost împrăștiați într-o țară îndepărtată, dincolo de legendarul râu Sambation, [profetul] îi numește „pierduți” — nu morți, ci atât de departe încât par de negăsit, spre deosebire de „cei izgoniți în Egipt”, mai aproape și mai accesibili."
+     }
+    ]
+   },
+   {
+    "v": "28:1",
+    "t": "Vai, o cunună a aroganței este asupra bețivilor lui Efraim și o floare ofilită este frumusețea splendorii sale pe cap, precum o vale de untdelemnuri a celor doborâți din pricina vinului.",
+    "heb": "הוֹי עֲטֶרֶת גֵּאוּת שִׁכֹּרֵי אֶפְרַיִם וְצִיץ נֹבֵל צְבִי תִפְאַרְתּוֹ אֲשֶׁר עַל־רֹאשׁ גֵּיא־שְׁמָנִים הֲלוּמֵי יָיִן׃",
+    "translit": "Hoy ateret ge'ut shikkorei Efrayim ve-tsits novel tsevi tif'arto asher al-rosh gei-shemanim halumei yayin.",
+    "tokens": [
+     {
+      "t": "Vai",
+      "w": "Vai",
+      "heb": "הוֹי",
+      "translit": "hoy",
+      "strong": "H1945",
+      "pos": "interjecție",
+      "def_ro": "vai!",
+      "dict_ro": "Hoy, interjecția clasică a „vaietelor” profetice (cf. Isaia 5:8-23, șirul de „hoy”-uri împotriva nedreptății) — deschide un nou oracol de judecată, de data asta îndreptat spre capitala regatului de nord, Samaria, numită metonimic „Efraim”."
+     },
+     {
+      "t": ", o "
+     },
+     {
+      "t": "cunună a aroganței",
+      "w": "cunună a aroganței",
+      "heb": "עֲטֶרֶת גֵּאוּת",
+      "translit": "ateret ge'ut",
+      "strong": "H5850",
+      "pos": "substantiv, feminin",
+      "def_ro": "cunună a mândriei.",
+      "dict_ro": "Ateret, „cunună, diademă” — Rashi identifică imaginea cu Samaria însăși, capitala așezată pe un deal, „ca o cunună” pe fruntea regatului de nord, dar o cunună a „ge'ut”, mândrie/aroganță, nu a gloriei legitime."
+     },
+     {
+      "t": " este asupra "
+     },
+     {
+      "t": "bețivilor lui Efraim",
+      "w": "bețivilor lui Efraim",
+      "heb": "שִׁכֹּרֵי אֶפְרַיִם",
+      "translit": "shikkorei Efrayim",
+      "strong": "H7910",
+      "pos": "substantiv, masculin plural construct",
+      "def_ro": "bețivii lui Efraim.",
+      "dict_ro": "Shikkorim, „bețivi” — Rashi citează o tradiție talmudică (Șabat 147b) despre vestitul vin al provinciei Frigia, care i-ar fi „doborât” pe cei zece triburi ale regatului de nord — o explicație concretă a viciului atribuit conducerii lui Efraim."
+     },
+     {
+      "t": " și o "
+     },
+     {
+      "t": "floare ofilită",
+      "w": "floare ofilită",
+      "heb": "צִיץ נֹבֵל",
+      "translit": "tsits novel",
+      "strong": "H6731",
+      "pos": "substantiv, masculin",
+      "def_ro": "floare veștejită.",
+      "dict_ro": "Tsits, „floare, mugur” — aceeași rădăcină folosită pozitiv la 27:6 pentru înflorirea lui Iacov; aici, la forma „ofilită” (novel), imaginea e răsturnată: splendoarea lui Efraim e o floare deja pe moarte, nu una care crește."
+     },
+     {
+      "t": " este frumusețea splendorii sale pe cap, precum o "
+     },
+     {
+      "t": "vale de untdelemnuri",
+      "w": "vale de untdelemnuri",
+      "heb": "גֵּיא־שְׁמָנִים",
+      "translit": "gei-shemanim",
+      "strong": "H8081",
+      "pos": "substantiv, masculin",
+      "def_ro": "vale grasă, mănoasă.",
+      "dict_ro": "Gei-shemanim, „valea grăsimilor/untdelemnurilor” — Rashi identifică valea cu regiunea fertilă a Chineretului (Marea Galileii), cunoscută pentru rodnicia ei — o zonă de belșug material care devine, ironic, scena beției și decăderii morale."
+     },
+     {
+      "t": " a celor "
+     },
+     {
+      "t": "doborâți din pricina vinului",
+      "w": "doborâți din pricina vinului",
+      "heb": "הֲלוּמֵי יָיִן",
+      "translit": "halumei yayin",
+      "strong": "H1986",
+      "pos": "verb, qal pasiv participiu",
+      "def_ro": "loviți, doborâți de vin.",
+      "dict_ro": "Rădăcina halam, „a lovi, a doborî cu o lovitură” — participiul pasiv descrie efectul devastator al vinului asupra conducătorilor lui Efraim, ca și cum ar fi fost loviți fizic, nu doar amețiți."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הוֹי עֲטֶרֶת גֵּאוּת שִׁכֹּרֵי אֶפְרַיִם וְצִיץ נֹבֵל צְבִי תִפְאַרְתּוֹ אֲשֶׁר עַל־רֹאשׁ גֵּיא־שְׁמָנִים הֲלוּמֵי יָיִן׃",
+      "translation": "„Vai, o cunună a aroganței este asupra bețivilor lui Efraim...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ΟΥΑΙ τῷ στεφάνῳ τῆς ὕβρεως, οἱ μισθωτοὶ Ἐφραίμ· τὸ ἄνθος τὸ ἐκπεσὸν ἐκ τῆς δόξης ἐπὶ τῆς κορυφῆς τοῦ ὄρους τοῦ παχέος, οἱ μεθύοντες ἄνευ οἴνου.",
+      "greek": true,
+      "translation": "„Vai cununii semeției, simbriașilor lui Efraim; floarea căzută din slavă pe vârful muntelui gras, celor ce se îmbată fără vin.”",
+      "note": "Divergență notabilă: unde ebraica spune „doborâți DE vin” (halumei yayin), LXX are „cei ce se îmbată FĂRĂ vin” (μεθύοντες ἄνευ οἴνου) — o inversare completă de sens, posibil o interpretare metaforică a traducătorului grec (beție de mândrie, nu de băutură)."
+     }
+    ],
+    "refs": [
+     "Isaia 5:11-12",
+     "1 Corinteni 6:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică: „bețivii lui Efraim se îmbătau cu vinul bun al provinciei Frigia, precum se spune [în Talmud, Șabat 147b]: «apa Damascului și vinul Frigiei au secătuit [puterea] celor zece triburi»”. Iar „valea untdelemnurilor” e Chineretul (Marea Galileii), ale cărei roade erau dulci — acolo se îmbătau ei pe îndelete."
+     }
+    ]
+   },
+   {
+    "v": "28:2",
+    "t": "Iată, [o urgie] puternică și măreață are Stăpânul meu, ca o aversă de grindină, o furtună distrugătoare, ape puternice ca potopul, și ele vor pune la pământ [cununa], cu forță.",
+    "heb": "הִנֵּה חָזָק וְאַמִּץ לַאדֹנָי כְּזֶרֶם בָּרָד שַׂעַר קָטֶב כְּזֶרֶם מַיִם כַּבִּירִים שֹׁטְפִים הִנִּיחַ לָאָרֶץ בְּיָד׃",
+    "translit": "Hinneh chazak ve-ammits la-Adonai ke-zerem barad sa'ar katev ke-zerem mayim kabbirim shotefim hinnicha la-arets be-yad.",
+    "tokens": [
+     {
+      "t": "Iată, [o urgie] "
+     },
+     {
+      "t": "puternică și măreață",
+      "w": "puternică și măreață",
+      "heb": "חָזָק וְאַמִּץ",
+      "translit": "chazak ve-ammits",
+      "strong": "H2389",
+      "pos": "adjectiv, masculin",
+      "def_ro": "puternic și tare.",
+      "dict_ro": "Chazak, „tare, puternic” — descrie aici nu pe Dumnezeu Însuși, ci instrumentul judecății Sale, ținut „la” (la-Adonai) dispoziția Stăpânului, gata să fie dezlănțuit — o forță aflată în mâna divină, nu autonomă."
+     },
+     {
+      "t": " are Stăpânul meu, ca o "
+     },
+     {
+      "t": "aversă de grindină",
+      "w": "aversă de grindină",
+      "heb": "זֶרֶם בָּרָד",
+      "translit": "zerem barad",
+      "strong": "H1258",
+      "pos": "substantiv, masculin",
+      "def_ro": "potop de grindină.",
+      "dict_ro": "Zerem, „potop, aversă violentă” — folosit la Isaia adesea pentru judecata divină ca forță naturală devastatoare, aici combinat cu barad, „grindină”, ecou direct al celei de-a șaptea urgii a Egiptului (Exodul 9:18-26)."
+     },
+     {
+      "t": ", o furtună distrugătoare, "
+     },
+     {
+      "t": "ape puternice",
+      "w": "ape puternice",
+      "heb": "מַיִם כַּבִּירִים",
+      "translit": "mayim kabbirim",
+      "strong": "H3524",
+      "pos": "adjectiv, masculin plural",
+      "def_ro": "ape puternice, năvalnice.",
+      "dict_ro": "Kabbirim, „puternici, năvalnici” — cuvânt rar, întărind imaginea unui potop copleșitor, de neoprit, care „pune la pământ cu forță” tot ce stă în cale — inclusiv „cununa aroganței” din versetul anterior."
+     },
+     {
+      "t": " ca potopul, și ele vor "
+     },
+     {
+      "t": "pune la pământ",
+      "w": "pune la pământ",
+      "heb": "הִנִּיחַ לָאָרֶץ",
+      "translit": "hinnicha la-arets",
+      "strong": "H3240",
+      "pos": "verb, hifil perfect",
+      "def_ro": "va așeza/doborî la pământ.",
+      "dict_ro": "Rădăcina nuach, „a se odihni, a așeza” — la forma cauzativă, „a doborî la pământ”, un uz ironic al unui verb care înseamnă de obicei „odihnă”: furtuna nu aduce odihnă, ci distrugere violentă, prăbușind cununa mândriei direct la pământ."
+     },
+     {
+      "t": " [cununa], cu "
+     },
+     {
+      "t": "forță",
+      "w": "forță",
+      "heb": "בְּיָד",
+      "translit": "be-yad",
+      "strong": "H3027",
+      "pos": "substantiv, feminin",
+      "def_ro": "cu mâna, cu forța.",
+      "dict_ro": "Yad, „mână” — folosit idiomatic pentru „forță, putere”, la fel ca „mâna tare” a lui Dumnezeu în relatarea Exodului (Exodul 13:9) — un alt ecou din limbajul robiei și izbăvirii din Egipt, aplicat aici judecății asupra lui Efraim."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנֵּה חָזָק וְאַמִּץ לַאדֹנָי כְּזֶרֶם בָּרָד שַׂעַר קָטֶב כְּזֶרֶם מַיִם כַּבִּירִים שֹׁטְפִים הִנִּיחַ לָאָרֶץ בְּיָד׃",
+      "translation": "„Iată, [o urgie] puternică și măreață are Stăpânul meu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἰδοὺ ἰσχυρὸν καὶ σκληρὸν ὁ θυμὸς Κυρίου ὡς χάλαζα καταφερομένη οὐκ ἔχουσα σκέπην, βίᾳ καταφερομένη· ὡς ὕδατος πολὺ πλῆθος σῦρον χώραν τῇ γῇ ποιήσει ἀνάπαυσιν ταῖς χερσί.",
+      "greek": true,
+      "translation": "„Iată, puternică și aspră e mânia Domnului, ca o grindină care cade fără adăpost, căzând cu putere; ca o mulțime mare de apă ce mătură ținutul, va face pământului odihnă cu mâinile.”",
+      "note": "LXX identifică explicit forța distrugătoare drept „mânia Domnului” (θυμὸς Κυρίου), unde ebraica rămâne mai impersonală, descriind doar „[ceva] puternic și tare” aparținând Stăpânului — o clarificare teologică adăugată de traducător."
+     }
+    ],
+    "refs": [
+     "Exodul 9:18-26",
+     "Exodul 13:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește versetul ca descriind un vânt/duh puternic, aparținând lui Dumnezeu, asemenea unei averse de grindină și unei furtuni amare — care „va așeza la pământ, cu mâna Lui puternică” [urgia] peste țara lor, doborând florile ofilite de pe cununa lui Efraim."
+     }
+    ]
+   },
+   {
+    "v": "28:3",
+    "t": "În picioare va fi călcată cununa aroganței bețivilor lui Efraim.",
+    "heb": "בְּרַגְלַיִם תֵּרָמַסְנָה עֲטֶרֶת גֵּאוּת שִׁכּוֹרֵי אֶפְרָיִם׃",
+    "translit": "Be-raglayim teramasnah ateret ge'ut shikkorei Efrayim.",
+    "tokens": [
+     {
+      "t": "În "
+     },
+     {
+      "t": "picioare",
+      "w": "picioare",
+      "heb": "רַגְלַיִם",
+      "translit": "raglayim",
+      "strong": "H7272",
+      "pos": "substantiv, feminin dual",
+      "def_ro": "picioare.",
+      "dict_ro": "Regel, „picior”, la dual „cele două picioare” — călcarea în picioare e imaginea supremă a umilirii publice în Biblie, aplicată aici direct cununii mândriei descrise la 28:1."
+     },
+     {
+      "t": " va fi "
+     },
+     {
+      "t": "călcată",
+      "w": "călcată",
+      "heb": "תֵּרָמַסְנָה",
+      "translit": "teramasnah",
+      "strong": "H7429",
+      "pos": "verb, nifal imperfect",
+      "def_ro": "va fi călcată în picioare.",
+      "dict_ro": "Rădăcina ramas, „a călca în picioare” — verset care încheie, cu simetrie exactă, tema deschisă la 28:1: cununa mândriei, odată „pe cap”, ajunge acum „sub picioare” — o răsturnare completă a poziției."
+     },
+     {
+      "t": " cununa aroganței "
+     },
+     {
+      "t": "bețivilor lui Efraim",
+      "w": "bețivilor lui Efraim",
+      "heb": "שִׁכּוֹרֵי אֶפְרָיִם",
+      "translit": "shikkorei Efrayim",
+      "strong": "H7910",
+      "pos": "substantiv, masculin plural construct",
+      "def_ro": "bețivii lui Efraim.",
+      "dict_ro": "Vezi nota de la 28:1 — repetiția aproape verbatim a versetului 1 marchează structura poetică a pasajului, un ecou intenționat care subliniază implacabilitatea judecății anunțate."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּרַגְלַיִם תֵּרָמַסְנָה עֲטֶרֶת גֵּאוּת שִׁכּוֹרֵי אֶפְרָיִם׃",
+      "translation": "„În picioare va fi călcată cununa aroganței bețivilor lui Efraim.” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ τοῖς ποσὶ καταπατηθήσεται ὁ στέφανος τῆς ὕβρεως, οἱ μισθωτοὶ τοῦ Ἐφραίμ.",
+      "greek": true,
+      "translation": "„Și cu picioarele va fi călcată în picioare cununa semeției, simbriașii lui Efraim.”",
+      "note": "Traducere aproape identică cu ebraica, păstrând paralelismul repetitiv cu 28:1."
+     }
+    ],
+    "refs": [
+     "Isaia 28:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David observă simetria intenționată cu primul verset al capitolului: aceeași „cunună a aroganței” descrisă acolo pe cap, aici e călcată sub picioare — imaginea judecății complete, de la înălțimea mândriei la umilirea totală."
+     }
+    ]
+   },
+   {
+    "v": "28:4",
+    "t": "Iar floarea ofilită, frumusețea splendorii de pe cap, o vale a untdelemnurilor, va fi ca o smochină care se coace cât timp nu este încă vară; orice privitor care o vede, de îndată ce pune mâna pe ea, o înghite.",
+    "heb": "וְהָיְתָה צִיצַת נֹבֵל צְבִי תִפְאַרְתּוֹ אֲשֶׁר עַל־רֹאשׁ גֵּיא שְׁמָנִים כְּבִכּוּרָהּ בְּטֶרֶם קַיִץ אֲשֶׁר יִרְאֶה הָרֹאֶה אוֹתָהּ בְּעוֹדָהּ בְּכַפּוֹ יִבְלָעֶנָּה׃",
+    "translit": "Ve-hayetah tsitsat novel tsevi tif'arto asher al-rosh gei shemanim ke-vikkurah be-terem kayits asher yireh ha-ro'eh otah be-odah be-khappo yivla'ennah.",
+    "tokens": [
+     {
+      "t": "Iar floarea ofilită, frumusețea splendorii de pe cap, o vale a untdelemnurilor, va fi ca o "
+     },
+     {
+      "t": "smochină timpurie",
+      "w": "smochină timpurie",
+      "heb": "בִּכּוּרָהּ",
+      "translit": "bikkurah",
+      "strong": "H1063",
+      "pos": "substantiv, feminin",
+      "def_ro": "smochina timpurie/de vară timpurie.",
+      "dict_ro": "Bikkurah, „[smochina] timpurie” — aceeași rădăcină ca bikkurim, „primele roade” (aduse la Templu, Exodul 23:19). O smochină timpurie, coaptă înainte de sezon, e o delicatesă rară, culeasă și mâncată imediat — la fel de repede va fi „înghițită”, adică nimicită, cununa lui Efraim."
+     },
+     {
+      "t": " care se coace cât timp nu este încă "
+     },
+     {
+      "t": "vară",
+      "w": "vară",
+      "heb": "קַיִץ",
+      "translit": "kayits",
+      "strong": "H7019",
+      "pos": "substantiv, masculin",
+      "def_ro": "vară.",
+      "dict_ro": "Kayits, „vară” — sezonul normal de coacere a smochinelor; o smochină coaptă „înainte de vară” e o excepție, remarcată și dorită imediat de orice trecător."
+     },
+     {
+      "t": "; orice privitor care o vede, de îndată ce pune mâna pe ea, o "
+     },
+     {
+      "t": "înghite",
+      "w": "înghite",
+      "heb": "יִבְלָעֶנָּה",
+      "translit": "yivla'ennah",
+      "strong": "H1104",
+      "pos": "verb, qal imperfect",
+      "def_ro": "o înghite.",
+      "dict_ro": "Rădăcina bala, „a înghiți” — imaginea rapidității nimicirii: la fel de repede cum e văzută, culeasă și mâncată o smochină timpurie, tot atât de repede va dispărea „splendoarea” lui Efraim — fără luptă, fără rezistență."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיְתָה צִיצַת נֹבֵל צְבִי תִפְאַרְתּוֹ אֲשֶׁר עַל־רֹאשׁ גֵּיא שְׁמָנִים כְּבִכּוּרָהּ בְּטֶרֶם קַיִץ אֲשֶׁר יִרְאֶה הָרֹאֶה אוֹתָהּ בְּעוֹדָהּ בְּכַפּוֹ יִבְלָעֶנָּה׃",
+      "translation": "„Iar floarea ofilită...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἔσται τὸ ἄνθος τὸ ἐκπεσὸν τῆς ἐλπίδος τῆς δόξης ἐπ᾿ ἄκρου τοῦ ὄρους τοῦ ὑψηλοῦ ὡς πρόδρομος σύκου, ὁ ἰδὼν αὐτό, πρὶν ἢ εἰς τὴν χεῖραν αὐτοῦ λαβεῖν, θελήσει αὐτὸ καταπιεῖν.",
+      "greek": true,
+      "translation": "„Și va fi floarea căzută a nădejdii slavei pe vârful muntelui înalt, ca smochina timpurie: cel ce o vede, înainte s-o ia în mână, va dori s-o înghită.”",
+      "note": "Traducere apropiată, cu adăugarea „nădejdii” (τῆς ἐλπίδος), absentă din ebraică — LXX accentuează dimensiunea speranței deșarte, nu doar a splendorii materiale."
+     }
+    ],
+    "refs": [
+     "Exodul 23:19",
+     "Osea 9:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică imaginea prin comparație directă: „ca coacerea unei smochine, cu floarea ofilită, înainte de vremea coacerii celorlalte smochine” — nimicirea lui Efraim va veni neașteptat de repede, la fel cum o smochină timpurie e culeasă și mâncată imediat, fără să apuce să se coacă pe deplin."
+     }
+    ]
+   },
+   {
+    "v": "28:5",
+    "t": "În ziua aceea, DOMNUL Oștirilor va fi o cunună glorioasă și o diademă de splendoare pentru rămășița poporului Său",
+    "heb": "בַּיּוֹם הַהוּא יִהְיֶה יְהוָה צְבָאוֹת לַעֲטֶרֶת צְבִי וְלִצְפִירַת תִּפְאָרָה לִשְׁאָר עַמּוֹ׃",
+    "translit": "Ba-yom ha-hu yihyeh Adonai Tseva'ot la-ateret tsevi ve-li-tsfirat tif'arah li-she'ar ammo.",
+    "tokens": [
+     {
+      "t": "În ziua aceea, DOMNUL "
+     },
+     {
+      "t": "Oștirilor",
+      "w": "Oștirilor",
+      "heb": "צְבָאוֹת",
+      "translit": "Tseva'ot",
+      "strong": "H6635",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "al Oștirilor.",
+      "dict_ro": "Tseva'ot, „oștiri” — titlu divin frecvent la profeți (Isaia, Ieremia), evocând fie oștirile cerești (îngeri, stele), fie oștirile lui Israel; aici marchează trecerea bruscă de la judecată (28:1-4) la o promisiune de restaurare pentru „rămășița” credincioasă."
+     },
+     {
+      "t": " va fi o cunună glorioasă și o "
+     },
+     {
+      "t": "diademă de splendoare",
+      "w": "diademă de splendoare",
+      "heb": "צְפִירַת תִּפְאָרָה",
+      "translit": "tsfirat tif'arah",
+      "strong": "H6843",
+      "pos": "substantiv, feminin",
+      "def_ro": "diademă/coroană de splendoare.",
+      "dict_ro": "Tsfirah, „diademă, coroană împletită” — cuvânt rar, folosit doar aici în tot Tanahul. Contrastul e deliberat cu ateret ge'ut („cununa aroganței”, 28:1,3): unde Efraim purta o cunună a mândriei omenești, rămășița credincioasă va purta o cunună dată chiar de DOMNUL Însuși."
+     },
+     {
+      "t": " pentru "
+     },
+     {
+      "t": "rămășița",
+      "w": "rămășița",
+      "heb": "שְׁאָר",
+      "translit": "she'ar",
+      "strong": "H7605",
+      "pos": "substantiv, masculin",
+      "def_ro": "rămășița, cei rămași.",
+      "dict_ro": "She'ar, „rămășiță” — concept teologic central la Isaia (cf. numele fiului său Șear-Iașub, „o rămășiță se va întoarce”, Isaia 7:3): din tot poporul lovit de judecată, doar o parte credincioasă va rămâne să primească restaurarea promisă."
+     },
+     {
+      "t": " poporului Său"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בַּיּוֹם הַהוּא יִהְיֶה יְהוָה צְבָאוֹת לַעֲטֶרֶת צְבִי וְלִצְפִירַת תִּפְאָרָה לִשְׁאָר עַמּוֹ׃",
+      "translation": "„În ziua aceea, DOMNUL Oștirilor va fi o cunună glorioasă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "τῇ ἡμέρᾳ ἐκείνῃ ἔσται Κύριος σαβαὼθ ὁ στέφανος τῆς ἐλπίδος ὁ πλακεὶς τῆς δόξης τῷ καταλειφθέντι μου λαῷ·",
+      "greek": true,
+      "translation": "„În ziua aceea va fi Domnul Savaot cununa nădejdii, împletită din slavă, pentru poporul Meu cel rămas.”",
+      "note": "LXX păstrează titlul ebraic „Savaot” netradus (transliterat), spre deosebire de traducerea obișnuită „Κύριος τῶν δυνάμεων”, și adaugă din nou „nădejdea” absentă din ebraică."
+     }
+    ],
+    "refs": [
+     "Isaia 7:3",
+     "Isaia 10:20-22"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David citește versetul ca pe o consolare directă pentru „rămășița poporului Său” — cei drepți care vor rămâne după judecata asupra celor păcătoși: pentru ei, DOMNUL Însuși va fi cununa de glorie, nu o cunună omenească trecătoare precum cea a lui Efraim."
+     }
+    ]
+   },
+   {
+    "v": "28:6",
+    "t": "și un duh de judecată pentru cel care stă la judecată și de putere pentru cei care se întorc la poartă de la război.",
+    "heb": "וּלְרוּחַ מִשְׁפָּט לַיּוֹשֵׁב עַל־הַמִּשְׁפָּט וְלִגְבוּרָה מְשִׁיבֵי מִלְחָמָה שָׁעְרָה׃",
+    "translit": "U-le-ruach mishpat la-yoshev al-ha-mishpat ve-li-gvurah meshivei milchamah sha'rah.",
+    "tokens": [
+     {
+      "t": "și un "
+     },
+     {
+      "t": "duh de judecată",
+      "w": "duh de judecată",
+      "heb": "רוּחַ מִשְׁפָּט",
+      "translit": "ruach mishpat",
+      "strong": "H4941",
+      "pos": "substantiv, masculin",
+      "def_ro": "duh de judecată dreaptă.",
+      "dict_ro": "Ruach mishpat, „duh de judecată” — capacitatea de a judeca drept, dată direct de Dumnezeu celui care „stă la judecată” (judecătorului); continuă tema restaurării de la 28:5, promițând nu doar glorie, ci și înțelepciune practică pentru conducerea rămășiței."
+     },
+     {
+      "t": " pentru cel care stă la judecată și de "
+     },
+     {
+      "t": "putere",
+      "w": "putere",
+      "heb": "גְבוּרָה",
+      "translit": "gevurah",
+      "strong": "H1369",
+      "pos": "substantiv, feminin",
+      "def_ro": "putere, vitejie.",
+      "dict_ro": "Gevurah, „putere, vitejie” — aici, forța necesară celor ce se întorc de la luptă „la poarta [cetății]”, unde se ținea judecata locală (cf. Rut 4:1) — poarta cetății fiind atât locul apărării militare, cât și al justiției civile."
+     },
+     {
+      "t": " pentru cei care se întorc la "
+     },
+     {
+      "t": "poartă",
+      "w": "poartă",
+      "heb": "שָׁעְרָה",
+      "translit": "sha'rah",
+      "strong": "H8179",
+      "pos": "substantiv, feminin",
+      "def_ro": "la poartă.",
+      "dict_ro": "Sha'ar, „poartă [a cetății]” — locul dublu simbolic al vieții civice antice: apărare militară și administrare a justiției, ambele funcții menționate explicit în acest verset scurt."
+     },
+     {
+      "t": " de la război."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּלְרוּחַ מִשְׁפָּט לַיּוֹשֵׁב עַל־הַמִּשְׁפָּט וְלִגְבוּרָה מְשִׁיבֵי מִלְחָמָה שָׁעְרָה׃",
+      "translation": "„și un duh de judecată...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καταλειφθήσονται ἐπὶ πνεύματι κρίσεως ἐπὶ κρίσιν καὶ ἰσχὺν κωλύων ἀνελεῖν.",
+      "greek": true,
+      "translation": "„Vor fi lăsați cu duh de judecată spre judecată, și tărie, oprind pe cel ce vrea să nimicească.”",
+      "note": "LXX reformulează substanțial, cu sens mai puțin clar decât ebraica — posibil o traducere dificilă a unui text ebraic obscur, tipică pentru pasajele poetice mai complexe ale lui Isaia."
+     }
+    ],
+    "refs": [
+     "Rut 4:1",
+     "Deuteronom 16:18"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică: „duh de judecată” va fi Cel Sfânt pentru cel ce judecă, învățându-l să judece drept, iar „putere” pentru cei ce se întorc de la „războiul Torei” — bătălia interpretării legii — la poarta [cetății, unde se ținea judecata]."
+     }
+    ]
+   },
+   {
+    "v": "28:7",
+    "t": "Chiar și ei au greșit prin vin și s-au clătinat de la băutura tare, preot și profet au greșit prin băutură tare, au fost amețiți de băutură tare, au greșit în viziune și au pervertit justiția.",
+    "heb": "וְגַם־אֵלֶּה בַּיַּיִן שָׁגוּ וּבַשֵּׁכָר תָּעוּ כֹּהֵן וְנָבִיא שָׁגוּ בַשֵּׁכָר נִבְלְעוּ מִן־הַיַּיִן תָּעוּ מִן־הַשֵּׁכָר שָׁגוּ בָּרֹאֶה פָּקוּ פְּלִילִיָּה׃",
+    "translit": "Ve-gam-elleh ba-yayin shagu u-va-shekhar ta'u kohen ve-navi shagu va-shekhar niv'lu min-ha-yayin ta'u min-ha-shekhar shagu ba-ro'eh paku peliliyyah.",
+    "tokens": [
+     {
+      "t": "Chiar și ei au "
+     },
+     {
+      "t": "greșit",
+      "w": "greșit",
+      "heb": "שָׁגוּ",
+      "translit": "shagu",
+      "strong": "H7686",
+      "pos": "verb, qal perfect",
+      "def_ro": "au greșit, au rătăcit.",
+      "dict_ro": "Rădăcina shagah, „a greși, a rătăci [fără intenție]” — verb repetat de trei ori în acest verset, alături de sinonimul ta'ah („a rătăci”), o acumulare stilistică ce pictează haosul moral total al conducerii religioase a lui Efraim."
+     },
+     {
+      "t": " prin vin și s-au "
+     },
+     {
+      "t": "clătinat",
+      "w": "clătinat",
+      "heb": "תָּעוּ",
+      "translit": "ta'u",
+      "strong": "H8582",
+      "pos": "verb, qal perfect",
+      "def_ro": "au rătăcit, s-au clătinat.",
+      "dict_ro": "Rădăcina ta'ah, „a rătăci” — aceeași rădăcină ca „țapul ispășitor” (Levitic 16, animalul „trimis să rătăcească”). Aici descrie rătăcirea morală și fizică indusă de băutură."
+     },
+     {
+      "t": " de la "
+     },
+     {
+      "t": "băutura tare",
+      "w": "băutura tare",
+      "heb": "שֵּׁכָר",
+      "translit": "shekhar",
+      "strong": "H7941",
+      "pos": "substantiv, masculin",
+      "def_ro": "băutură tare, must fermentat.",
+      "dict_ro": "Shekhar, „băutură amețitoare”, distinctă de yayin (vin) — categorie mai largă de băuturi fermentate, interzisă explicit preoților în timpul slujirii la Templu (Levitic 10:9), tocmai pentru a preveni exact acest tip de eșec descris aici."
+     },
+     {
+      "t": ", "
+     },
+     {
+      "t": "preot și profet",
+      "w": "preot și profet",
+      "heb": "כֹּהֵן וְנָבִיא",
+      "translit": "kohen ve-navi",
+      "strong": "H3548",
+      "pos": "substantiv, masculin",
+      "def_ro": "preot și profet.",
+      "dict_ro": "Kohen ve-navi, „preot și profet” — cele două oficii spirituale centrale ale lui Israel, ambele corupte de băutură; gravitatea acuzației stă tocmai în identitatea celor vinovați — nu oameni de rând, ci liderii religioși ai națiunii."
+     },
+     {
+      "t": " au greșit prin băutură tare, au fost amețiți de băutură tare, au greșit în "
+     },
+     {
+      "t": "viziune",
+      "w": "viziune",
+      "heb": "רֹאֶה",
+      "translit": "ro'eh",
+      "strong": "H7203",
+      "pos": "substantiv, masculin",
+      "def_ro": "vedere, viziune profetică.",
+      "dict_ro": "Ro'eh, „văzător” — termen vechi pentru profet (cf. 1 Samuel 9:9, „văzător” era numele dat înainte profetului). Aici desemnează chiar actul viziunii profetice, pervertit de beție — profeții „văd” greșit, oracolele lor devin nesigure."
+     },
+     {
+      "t": " și au pervertit "
+     },
+     {
+      "t": "justiția",
+      "w": "justiția",
+      "heb": "פְּלִילִיָּה",
+      "translit": "peliliyyah",
+      "strong": "H6415",
+      "pos": "substantiv, feminin",
+      "def_ro": "judecata, sentința.",
+      "dict_ro": "Pelilyah, „judecată, sentință” — cuvânt rar, de la aceeași rădăcină ca palil, „judecător”. Judecata pervertită prin beție e efectul final, practic, al șirului de eșecuri morale descrise în verset — de la percepție (viziune) la acțiune (judecată dreaptă)."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְגַם־אֵלֶּה בַּיַּיִן שָׁגוּ וּבַשֵּׁכָר תָּעוּ כֹּהֵן וְנָבִיא שָׁגוּ בַשֵּׁכָר נִבְלְעוּ מִן־הַיַּיִן תָּעוּ מִן־הַשֵּׁכָר שָׁגוּ בָּרֹאֶה פָּקוּ פְּלִילִיָּה׃",
+      "translation": "„Chiar și ei au greșit prin vin...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "οὗτοι γὰρ οἴνω πεπλανημένοι εἰσίν, ἐπλανήθησαν διὰ τὸ σίκερα· ἱερεὺς καὶ προφήτης ἐξέστησαν διὰ τὸ σίκερα, κατεπόθησαν διὰ τὸν οἶνον, ἐσείσθησαν ἀπὸ τῆς μέθης, ἐπλανήθησαν· τοῦτ᾿ ἔστι φάσμα.",
+      "greek": true,
+      "translation": "„Căci aceștia sunt rătăciți de vin, s-au rătăcit din pricina băuturii tari; preotul și profetul și-au ieșit din minți din pricina băuturii tari, au fost înghițiți de vin, s-au clătinat de beție, s-au rătăcit — aceasta e o nălucire.”",
+      "note": "LXX adaugă la final „τοῦτ᾿ ἔστι φάσμα” („aceasta e o nălucire/arătare”), o interpretare a cuvântului ebraic obscur ba-ro'eh („în viziune”) ca pe o falsă vedenie, nu doar un eșec de percepție."
+     }
+    ],
+    "refs": [
+     "Levitic 10:9",
+     "1 Samuel 9:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „au greșit în viziune” drept „au batjocorit cuvintele profeților”, iar „au pervertit justiția” drept „au stricat judecata” — acuzația se extinde de la simpla beție fizică la disprețul activ față de cuvântul profetic și la coruperea deliberată a hotărârilor de judecată."
+     }
+    ]
+   },
+   {
+    "v": "28:8",
+    "t": "Căci toate mesele sunt pline de vomă [și] excrement, niciun loc nu este [curat].",
+    "heb": "כִּי כָּל־שֻׁלְחָנוֹת מָלְאוּ קִיא צֹאָה בְּלִי מָקוֹם׃",
+    "translit": "Ki kol-shulchanot mal'u ki tso'ah beli makom.",
+    "tokens": [
+     {
+      "t": "Căci toate "
+     },
+     {
+      "t": "mesele",
+      "w": "mesele",
+      "heb": "שֻׁלְחָנוֹת",
+      "translit": "shulchanot",
+      "strong": "H7979",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "mesele.",
+      "dict_ro": "Shulchan, „masă” — poate desemna aici mesele private de ospăț ale conducătorilor beți, dar unii comentatori (urmând Ionatan) văd o aluzie și la „masa” altarului Templului, profanată simbolic de coruperea celor ce ar fi trebuit s-o slujească."
+     },
+     {
+      "t": " sunt pline de "
+     },
+     {
+      "t": "vomă",
+      "w": "vomă",
+      "heb": "קִיא",
+      "translit": "ki",
+      "strong": "H6892",
+      "pos": "substantiv, masculin",
+      "def_ro": "vomă.",
+      "dict_ro": "Ki, „vomă” — imagine deliberat respingătoare, cea mai crudă descriere fizică a beției din tot pasajul, subliniind degradarea totală, fără menajamente, a conducerii lui Efraim."
+     },
+     {
+      "t": " [și] "
+     },
+     {
+      "t": "excrement",
+      "w": "excrement",
+      "heb": "צֹאָה",
+      "translit": "tso'ah",
+      "strong": "H6675",
+      "pos": "substantiv, feminin",
+      "def_ro": "murdărie, excrement.",
+      "dict_ro": "Tso'ah, „murdărie, excrement” — cuvânt dur, evitat de obicei în poezia biblică mai reținută; alegerea lui aici marchează intensitatea disprețului profetic față de decăderea liderilor lui Israel."
+     },
+     {
+      "t": ", niciun "
+     },
+     {
+      "t": "loc",
+      "w": "loc",
+      "heb": "מָקוֹם",
+      "translit": "makom",
+      "strong": "H4725",
+      "pos": "substantiv, masculin",
+      "def_ro": "loc.",
+      "dict_ro": "Makom, „loc” — aici, „fără loc [curat]”, adică nu mai există niciun spațiu neatins de degradare, nicio masă, niciun colț al vieții publice a lui Efraim rămas nepângărit."
+     },
+     {
+      "t": " nu este [curat]."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי כָּל־שֻׁלְחָנוֹת מָלְאוּ קִיא צֹאָה בְּלִי מָקוֹם׃",
+      "translation": "„Căci toate mesele sunt pline de vomă [și] excrement...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἀρὰ ἔδεται ταύτην τὴν βουλήν· αὕτη γὰρ ἡ βουλὴ ἕνεκεν πλεονεξίας.",
+      "greek": true,
+      "translation": "„Blestemul va mistui acest sfat; căci acest sfat [vine] din pricina lăcomiei.”",
+      "note": "LXX se îndepărtează complet de imaginea fizică dură a ebraicei, oferind o traducere abstractă, morală — probabil traducătorul grec a evitat deliberat redarea literală a unei imagini pe care a considerat-o prea crudă."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește versetul literal, ca pe cea mai directă descriere a degradării fizice provocate de beție: mesele lor „de jertfe pentru morți” (o expresie idiomatică pentru ospețe pline de decădere) sunt ca voma și murdăria — „mintea [omului] nu le poate suporta”."
+     }
+    ]
+   },
+   {
+    "v": "28:9",
+    "t": "Cui să îi predea cineva cunoaștere, cine poate fi făcut să înțeleagă mesajul? Cei înțarcați de lapte, cei tocmai luați de la sân?",
+    "heb": "אֶת־מִי יוֹרֶה דֵעָה וְאֶת־מִי יָבִין שְׁמוּעָה גְּמוּלֵי מֵחָלָב עַתִּיקֵי מִשָּׁדָיִם׃",
+    "translit": "Et-mi yoreh de'ah ve-et-mi yavin shemu'ah gemulei me-chalav attikei mi-shadayim.",
+    "tokens": [
+     {
+      "t": "Cui să îi "
+     },
+     {
+      "t": "predea",
+      "w": "predea",
+      "heb": "יוֹרֶה",
+      "translit": "yoreh",
+      "strong": "H3384",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "va învăța, va preda.",
+      "dict_ro": "Rădăcina yarah, „a arunca [o săgeată], a arăta, a învăța” — aceeași rădăcină ca Torah, „învățătură”. Întrebarea retorică batjocoritoare presupune conducătorii beți răspunzându-i profetului: „cui crezi că te adresezi, unor prunci de la sân?”"
+     },
+     {
+      "t": " cineva "
+     },
+     {
+      "t": "cunoaștere",
+      "w": "cunoaștere",
+      "heb": "דֵעָה",
+      "translit": "de'ah",
+      "strong": "H1844",
+      "pos": "substantiv, feminin",
+      "def_ro": "cunoaștere.",
+      "dict_ro": "De'ah, „cunoaștere” — Rashi citește tot versetul ca pe batjocura conducătorilor beți la adresa lui Isaia: îl acuză că îi tratează ca pe niște copii, învățându-i „linie după linie”, ca la abecedar (v.10)."
+     },
+     {
+      "t": ", cine poate fi făcut să înțeleagă "
+     },
+     {
+      "t": "mesajul",
+      "w": "mesajul",
+      "heb": "שְׁמוּעָה",
+      "translit": "shemu'ah",
+      "strong": "H8052",
+      "pos": "substantiv, feminin",
+      "def_ro": "vestea, mesajul.",
+      "dict_ro": "Shemu'ah, „veste, mesaj [auzit]” — de la rădăcina shama, „a auzi”, mesajul profetic pe care conducătorii beți refuză să-l ia în serios, considerându-l potrivit doar pentru copii."
+     },
+     {
+      "t": "? Cei "
+     },
+     {
+      "t": "înțarcați de lapte",
+      "w": "înțarcați de lapte",
+      "heb": "גְּמוּלֵי מֵחָלָב",
+      "translit": "gemulei me-chalav",
+      "strong": "H1580",
+      "pos": "verb, qal pasiv participiu",
+      "def_ro": "cei înțărcați de la lapte.",
+      "dict_ro": "Rădăcina gamal, „a înțărca, a răsplăti” — participiul „cei înțărcați” descrie pruncii de curând scoși de la sân, imaginea disprețuitoare pe care conducătorii beți o folosesc pentru a-l ridiculiza pe profet și mesajul lui, considerat potrivit doar pentru minți infantile."
+     },
+     {
+      "t": ", cei tocmai "
+     },
+     {
+      "t": "luați de la sân",
+      "w": "luați de la sân",
+      "heb": "עַתִּיקֵי מִשָּׁדָיִם",
+      "translit": "attikei mi-shadayim",
+      "strong": "H6267",
+      "pos": "adjectiv, masculin plural",
+      "def_ro": "cei mutați/luați de la sân.",
+      "dict_ro": "Atik, „mutat, îndepărtat [de la]” — completează imaginea batjocoritoare a pruncilor abia înțărcați, ținta ironică a conducătorilor lui Efraim, care resping mesajul lui Isaia ca fiind bun doar pentru copii mici."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אֶת־מִי יוֹרֶה דֵעָה וְאֶת־מִי יָבִין שְׁמוּעָה גְּמוּלֵי מֵחָלָב עַתִּיקֵי מִשָּׁדָיִם׃",
+      "translation": "„Cui să îi predea cineva cunoaștere...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "τίνι ἀνηγγείλαμεν κακὰ καὶ τίνι ἀνηγγείλαμεν ἀγγελίαν, οἱ ἀπογεγαλακτισμένοι ἀπὸ γάλακτος, οἱ ἀπεσπασμένοι ἀπὸ μαστοῦ;",
+      "greek": true,
+      "translation": "„Cui am vestit noi rele și cui am vestit noi solia — celor înțărcați de lapte, celor luați de la sân?”",
+      "note": "LXX pune întrebarea la persoana întâi plural („am vestit noi”), transformând-o dintr-o batjocură a ascultătorilor beți (lectura lui Rashi) într-o întrebare retorică rostită chiar de profeți despre eficacitatea propriului mesaj."
+     }
+    ],
+    "refs": [
+     "Evrei 5:12-14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește tot pasajul (v.9-10) ca vorbele batjocoritoare ale conducătorilor beți despre Isaia: „cui vrea el să învețe cunoaștere, oare pe niște copii abia înțărcați de la sân? [Ne vorbește] poruncă după poruncă, ca la abecedar!” — o disprețuire directă a autorității profetice."
+     }
+    ]
+   },
+   {
+    "v": "28:10",
+    "t": "Căci poruncă după poruncă, poruncă după poruncă, linie după linie, linie după linie, puțin aici, puțin acolo.",
+    "heb": "כִּי צַו לָצָו צַו לָצָו קַו לָקָו קַו לָקָו זְעֵיר שָׁם זְעֵיר שָׁם׃",
+    "translit": "Ki tsav la-tsav tsav la-tsav kav la-kav kav la-kav ze'eir sham ze'eir sham.",
+    "tokens": [
+     {
+      "t": "Căci "
+     },
+     {
+      "t": "poruncă după poruncă",
+      "w": "poruncă după poruncă",
+      "heb": "צַו לָצָו",
+      "translit": "tsav la-tsav",
+      "strong": "H6673",
+      "pos": "substantiv, masculin",
+      "def_ro": "poruncă peste poruncă.",
+      "dict_ro": "Tsav, „poruncă” — cuvânt rar, aparent ales și pentru sonoritatea lui monotonă, aproape onomatopeică. Rashi citește această repetiție ca vorbirea batjocoritoare a conducătorilor beți, imitând tonul unui învățător de abecedar ce se adresează unor copii mici."
+     },
+     {
+      "t": ", poruncă după poruncă, "
+     },
+     {
+      "t": "linie după linie",
+      "w": "linie după linie",
+      "heb": "קַו לָקָו",
+      "translit": "kav la-kav",
+      "strong": "H6957",
+      "pos": "substantiv, masculin",
+      "def_ro": "linie peste linie, măsură peste măsură.",
+      "dict_ro": "Kav, „linie, fir de măsurat” — instrumentul folosit de zidari și constructori pentru a trasa linii drepte; imaginea sugerează fie învățarea pas cu pas, elementară, fie măsura strictă a judecății divine care va urma, aplicată „linie cu linie”."
+     },
+     {
+      "t": ", linie după linie, "
+     },
+     {
+      "t": "puțin aici, puțin acolo",
+      "w": "puțin aici, puțin acolo",
+      "heb": "זְעֵיר שָׁם זְעֵיר שָׁם",
+      "translit": "ze'eir sham ze'eir sham",
+      "strong": "H2191",
+      "pos": "adjectiv/adverb",
+      "def_ro": "puțin aici, puțin acolo.",
+      "dict_ro": "Ze'eir, „puțin, mic” — cuvânt rar, folosit doar de câteva ori în tot Tanahul, întărind aici ideea unei învățături date fragmentat, bucată cu bucată, fie ca metodă pedagogică disprețuită, fie — în lectura versetului 13 — ca formă a pedepsei ce se abate treptat, dar sigur."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי צַו לָצָו צַו לָצָו קַו לָקָו קַו לָקָו זְעֵיר שָׁם זְעֵיר שָׁם׃",
+      "translation": "„Căci poruncă după poruncă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "θλῖψιν ἐπὶ θλῖψιν προσδέχου, ἐλπίδα ἐπ᾿ ἐλπίδι, ἔτι μικρὸν ἔτι μικρὸν",
+      "greek": true,
+      "translation": "„Aștaptă necaz peste necaz, nădejde peste nădejde, încă puțin, încă puțin.”",
+      "note": "LXX abandonează complet imaginea ebraică a repetiției didactice (poruncă/linie), traducând-o direct ca „necaz” și „nădejde” — o interpretare teologică a pasajului obscur, nu o traducere literală a termenilor."
+     }
+    ],
+    "refs": [
+     "Isaia 28:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi vede în acest verset continuarea directă a batjocurii conducătorilor beți față de Isaia — repetând monoton, ca o parodie a stilului lui didactic, „poruncă după poruncă... linie după linie... puțin aici, puțin acolo”, disprețuindu-i mesajul ca fiind potrivit doar pentru pruncii de la sân (v.9)."
+     }
+    ]
+   },
+   {
+    "v": "28:11",
+    "t": "căci prin buze nedeslușite și într-o altă limbă poate cineva vorbi acestui popor,",
+    "heb": "כִּי בְּלַעֲגֵי שָׂפָה וּבְלָשׁוֹן אַחֶרֶת יְדַבֵּר אֶל־הָעָם הַזֶּה׃",
+    "translit": "Ki be-la'agei safah u-ve-lashon acheret yedabber el-ha-am ha-zeh.",
+    "tokens": [
+     {
+      "t": "căci prin "
+     },
+     {
+      "t": "buze nedeslușite",
+      "w": "buze nedeslușite",
+      "heb": "לַעֲגֵי שָׂפָה",
+      "translit": "la'agei safah",
+      "strong": "H3934",
+      "pos": "substantiv, masculin",
+      "def_ro": "vorbire de neînțeles, bâlbâială.",
+      "dict_ro": "La'ag, „batjocură, vorbire de neînțeles” — versetul se răstoarnă ironic: cei care l-au batjocorit pe profet pentru vorbirea lui simplă, „ca la copii” (v.9-10), vor auzi în curând o vorbire cu adevărat de neînțeles — limba cuceritorilor asirieni."
+     },
+     {
+      "t": " și într-o "
+     },
+     {
+      "t": "altă limbă",
+      "w": "altă limbă",
+      "heb": "לָשׁוֹן אַחֶרֶת",
+      "translit": "lashon acheret",
+      "strong": "H3956",
+      "pos": "substantiv, feminin",
+      "def_ro": "altă limbă.",
+      "dict_ro": "Lashon acheret, „altă limbă” — Pavel citează explicit acest verset în 1 Corinteni 14:21, aplicându-l la vorbirea în limbi, cu referire directă la acest context de judecată prin invazie străină."
+     },
+     {
+      "t": " poate cineva vorbi acestui popor,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי בְּלַעֲגֵי שָׂפָה וּבְלָשׁוֹן אַחֶרֶת יְדַבֵּר אֶל־הָעָם הַזֶּה׃",
+      "translation": "„căci prin buze nedeslușite și într-o altă limbă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "διὰ φαυλισμὸν χειλέων διὰ γλώσσης ἑτέρας, ὅτι λαλήσουσι τῷ λαῷ τούτῳ",
+      "greek": true,
+      "translation": "„Prin dispreț de buze, prin limbă străină, căci vor vorbi poporului acestuia,”",
+      "note": "Traducere apropiată de ebraică, cu nuanța „dispreț” (φαυλισμὸν) pentru la'ag, subliniind tonul disprețuitor al vorbirii străine ce va urma."
+     }
+    ],
+    "refs": [
+     "1 Corinteni 14:21"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică vorbirea „într-o altă limbă” cu limba asiriană, cea a viitorilor cuceritori — pedeapsa pentru batjocura adusă vorbirii simple a profeților va fi confruntarea cu o limbă cu adevărat străină și amenințătoare."
+     },
+     {
+      "author": "Apostolul Pavel, 1 Corinteni 14:21",
+      "text": "Pavel citează direct acest verset în discuția despre vorbirea în limbi în comunitatea din Corint: „În Lege este scris: «Prin oameni de altă limbă și prin buze străine voi vorbi acestui popor, dar nici așa nu Mă vor asculta», zice DOMNUL.” Pavel folosește textul pentru a arăta că vorbirea în limbi neînțelese e, paradoxal, un semn pentru necredincioși, nu neapărat o binecuvântare edificatoare pentru adunare."
+     }
+    ]
+   },
+   {
+    "v": "28:12",
+    "t": "căci El le-a spus: „Iată locul de odihnă! Lăsați-l pe cel obosit să se odihnească! Și asta aduce odihnă, dar n-au vrut să asculte.",
+    "heb": "אֲשֶׁר אָמַר אֲלֵיהֶם זֹאת הַמְּנוּחָה הָנִיחוּ לֶעָיֵף וְזֹאת הַמַּרְגֵּעָה וְלֹא אָבוּא שְׁמוֹעַ׃",
+    "translit": "Asher amar aleihem zot ha-menuchah hanichu la-ayef ve-zot ha-margeah ve-lo avu shemoa.",
+    "tokens": [
+     {
+      "t": "căci El le-a spus: „Iată "
+     },
+     {
+      "t": "locul de odihnă",
+      "w": "locul de odihnă",
+      "heb": "הַמְּנוּחָה",
+      "translit": "ha-menuchah",
+      "strong": "H4496",
+      "pos": "substantiv, feminin",
+      "def_ro": "odihna.",
+      "dict_ro": "Menuchah, „odihnă” — de la rădăcina nuach; termen folosit adesea pentru odihna promisă în Țara Făgăduinței (Deuteronom 12:9). Aici, oferta divină de odihnă/pace e explicit refuzată de popor — ironie amară în raport cu promisiunea inițială a Torei."
+     },
+     {
+      "t": "! Lăsați-l pe cel "
+     },
+     {
+      "t": "obosit",
+      "w": "obosit",
+      "heb": "עָיֵף",
+      "translit": "ayef",
+      "strong": "H5889",
+      "pos": "adjectiv, masculin",
+      "def_ro": "obosit, sleit.",
+      "dict_ro": "Ayef, „obosit” — descrie starea poporului epuizat de propriile păcate și de amenințarea iminentă, căruia i se oferă totuși, explicit, o cale de odihnă și scăpare."
+     },
+     {
+      "t": " să se odihnească! Și asta aduce odihnă, dar n-au vrut să "
+     },
+     {
+      "t": "asculte",
+      "w": "asculte",
+      "heb": "שְׁמוֹעַ",
+      "translit": "shemoa",
+      "strong": "H8085",
+      "pos": "verb, qal infinitiv",
+      "def_ro": "să asculte.",
+      "dict_ro": "Rădăcina shama, „a auzi, a asculta” — refuzul final, explicit, încheie secțiunea: oferta de odihnă a fost limpede exprimată, dar respinsă din voință proprie, nu din neînțelegere — vina cade direct asupra poporului, nu asupra clarității mesajului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אֲשֶׁר אָמַר אֲלֵיהֶם זֹאת הַמְּנוּחָה הָנִיחוּ לֶעָיֵף וְזֹאת הַמַּרְגֵּעָה וְלֹא אָבוּא שְׁמוֹעַ׃",
+      "translation": "„căci El le-a spus: «Iată locul de odihnă!»...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "λέγοντες αὐτῷ· τοῦτο τὸ ἀνάπαυμα τῷ πεινῶντι καὶ τοῦτο τὸ σύντριμμα, καὶ οὐκ ἠθέλησαν ἀκούειν.",
+      "greek": true,
+      "translation": "„Spunându-i: aceasta e odihna pentru cel flămând, și aceasta e zdrobirea — și n-au vrut să asculte.”",
+      "note": "LXX citește „ha-margeah” (odihnă) ca „σύντριμμα” (zdrobire), o traducere neobișnuită — posibil o interpretare ironică a odihnei refuzate ca ducând, în cele din urmă, la zdrobire."
+     }
+    ],
+    "refs": [
+     "Deuteronom 12:9",
+     "Matei 11:28"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește versetul ca pe cuvintele profetului însuși, adresate poporului: „aceasta e odihna — lăsați-l pe cel obosit să se odihnească, nu-l jefuiți; aceasta vă va fi vouă alinare” — dar, în ciuda clarității ofertei, „n-au vrut să asculte”."
+     }
+    ]
+   },
+   {
+    "v": "28:13",
+    "t": "Și pentru ei cuvântul DOMNULUI va fi: „Poruncă după poruncă, poruncă după poruncă, linie după linie, linie după linie, puțin aici, puțin acolo”, ca să meargă și să cadă pe spate, să fie zdrobiți, să fie prinși și capturați.",
+    "heb": "וְהָיָה לָהֶם דְּבַר־יְהוָה צַו לָצָו צַו לָצָו קַו לָקָו קַו לָקָו זְעֵיר שָׁם זְעֵיר שָׁם לְמַעַן יֵלְכוּ וְכָשְׁלוּ אָחוֹר וְנִשְׁבָּרוּ וְנוֹקְשׁוּ וְנִלְכָּדוּ׃",
+    "translit": "Ve-hayah lahem devar-Adonai tsav la-tsav tsav la-tsav kav la-kav kav la-kav ze'eir sham ze'eir sham lema'an yelekhu ve-khashlu achor ve-nishbaru ve-nokshu ve-nilkadu.",
+    "tokens": [
+     {
+      "t": "Și pentru ei "
+     },
+     {
+      "t": "cuvântul DOMNULUI",
+      "w": "cuvântul DOMNULUI",
+      "heb": "דְּבַר־יְהוָה",
+      "translit": "devar-Adonai",
+      "strong": "H1697",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "cuvântul DOMNULUI.",
+      "dict_ro": "Davar, „cuvânt” — versetul repetă aproape identic formula batjocoritoare din 28:10, dar de data asta ca sentință reală: același „poruncă după poruncă” pe care conducătorii îl auziseră ca pe o parodie infantilă devine acum cuvântul judecății care li se împlinește cu adevărat."
+     },
+     {
+      "t": " va fi: „Poruncă după poruncă, poruncă după poruncă, linie după linie, linie după linie, puțin aici, puțin acolo”, ca să meargă și să "
+     },
+     {
+      "t": "cadă pe spate",
+      "w": "cadă pe spate",
+      "heb": "וְכָשְׁלוּ אָחוֹר",
+      "translit": "ve-khashlu achor",
+      "strong": "H3782",
+      "pos": "verb, qal perfect",
+      "def_ro": "se vor poticni înapoi.",
+      "dict_ro": "Rădăcina kashal, „a se poticni, a cădea” — imaginea unei retrageri dezordonate, o cădere pe spate în plină derută, contrastul complet cu mersul sigur promis celor ce ar fi ascultat oferta de odihnă (v.12)."
+     },
+     {
+      "t": ", să fie "
+     },
+     {
+      "t": "zdrobiți",
+      "w": "zdrobiți",
+      "heb": "וְנִשְׁבָּרוּ",
+      "translit": "ve-nishbaru",
+      "strong": "H7665",
+      "pos": "verb, nifal perfect",
+      "def_ro": "vor fi zdrobiți.",
+      "dict_ro": "Rădăcina shavar, „a zdrobi, a sfărâma” — completează șirul de patru verbe finale (cad, zdrobiți, prinși, capturați), o acumulare care descrie colapsul total, fizic și militar, al celor ce au refuzat avertismentul profetic."
+     },
+     {
+      "t": ", să fie "
+     },
+     {
+      "t": "prinși și capturați",
+      "w": "prinși și capturați",
+      "heb": "וְנוֹקְשׁוּ וְנִלְכָּדוּ",
+      "translit": "ve-nokshu ve-nilkadu",
+      "strong": "H3369",
+      "pos": "verb, nifal perfect",
+      "def_ro": "vor fi prinși în capcană și capturați.",
+      "dict_ro": "Rădăcina yakosh, „a prinde în capcană/laț”, alături de lakad, „a captura” — imaginea vânătorii încheie capitolul: poporul, care a respins avertismentul ca fiind bun doar pentru copii, ajunge el însuși ca vânatul prins în capcană."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה לָהֶם דְּבַר־יְהוָה צַו לָצָו צַו לָצָו קַו לָקָו קַו לָקָו זְעֵיר שָׁם זְעֵיר שָׁם לְמַעַן יֵלְכוּ וְכָשְׁלוּ אָחוֹר וְנִשְׁבָּרוּ וְנוֹקְשׁוּ וְנִלְכָּדוּ׃",
+      "translation": "„Și pentru ei cuvântul DOMNULUI va fi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἔσται αὐτοῖς τὸ λόγιον Κυρίου τοῦ Θεοῦ θλῖψις ἐπὶ θλῖψιν, ἐλπὶς ἐπ᾿ ἐλπίδι, ἔτι μικρὸν ἔτι μικρόν, ἵνα πορευθῶσι καὶ πέσωσιν εἰς τὰ ὀπίσω καὶ κινδυνεύσουσι καὶ συντριβήσονται καὶ ἁλώσονται.",
+      "greek": true,
+      "translation": "„Și le va fi lor cuvântul Domnului Dumnezeu: necaz peste necaz, nădejde peste nădejde, încă puțin, încă puțin — ca să meargă și să cadă înapoi, și să fie în primejdie, și să fie zdrobiți, și să fie prinși.”",
+      "note": "LXX păstrează aceeași reinterpretare ca la 28:10 (necaz/nădejde în locul poruncă/linie), consecvent cu propria sa lectură teologică a pasajului obscur."
+     }
+    ],
+    "refs": [
+     "Isaia 28:10",
+     "Romani 11:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică: „cuvântul DOMNULUI le va fi lor măsură cu măsură — El va hotărî că, așa cum ei au poruncă [de idolatrie] peste poruncă, tot așa vor avea poruncă [a pedepsei] peste poruncă; linie [de judecată] după linie [de judecată]” — pedeapsa reflectă exact refuzul lor batjocoritor de la v.9-10."
+     }
+    ]
+   },
+   {
+    "v": "29:22",
+    "t": "De aceea, așa a spus DOMNUL, Cel care l-a răscumpărat pe Avraham, casei lui Iacov: „Acum nu te rușina, Iacov, și fața lui să nu fie palidă,",
+    "heb": "לָכֵן כֹּה־אָמַר יְהוָה אֶל־בֵּית יַעֲקֹב אֲשֶׁר פָּדָה אֶת־אַבְרָהָם לֹא־עַתָּה יֵבוֹשׁ יַעֲקֹב וְלֹא עַתָּה פָּנָיו יֶחֱוָרוּ׃",
+    "translit": "Lakhen koh-amar Adonai el-beit Ya'akov asher padah et-Avraham lo-attah yevosh Ya'akov ve-lo attah panav yecheveru.",
+    "tokens": [
+     {
+      "t": "De aceea, așa a spus DOMNUL, Cel care l-a "
+     },
+     {
+      "t": "răscumpărat",
+      "w": "răscumpărat",
+      "heb": "פָּדָה",
+      "translit": "padah",
+      "strong": "H6299",
+      "pos": "verb, qal perfect",
+      "def_ro": "a răscumpărat.",
+      "dict_ro": "Rădăcina padah, „a răscumpăra” — Rashi explică: Avraam a fost „răscumpărat” din Ur al Caldeilor, scăpat din cuptorul de foc al lui Nimrod (tradiție midrashică); verbul anticipează limbajul central al Exodului, unde Dumnezeu „răscumpără” întreg poporul din robie."
+     },
+     {
+      "t": " pe Avraham, casei lui "
+     },
+     {
+      "t": "Iacov",
+      "w": "Iacov",
+      "heb": "יַעֲקֹב",
+      "translit": "Ya'akov",
+      "strong": "H3290",
+      "pos": "nume propriu",
+      "def_ro": "Iacov, poporul Israel.",
+      "dict_ro": "Aici „Iacov” revine ca desemnare a poporului, încadrând promisiunea între strămoșul îndepărtat (Avraam) și urmașii prezenți — o genealogie a nădejdii care leagă trecutul răscumpărării de viitorul restaurării."
+     },
+     {
+      "t": ": „Acum nu te "
+     },
+     {
+      "t": "rușina",
+      "w": "rușina",
+      "heb": "יֵבוֹשׁ",
+      "translit": "yevosh",
+      "strong": "H954",
+      "pos": "verb, qal imperfect",
+      "def_ro": "se va rușina.",
+      "dict_ro": "Rădăcina bosh, „a se rușina” — Rashi leagă rușinea de origine: „nu se va mai rușina din pricina tatălui său” [Iacov, cu privire la înșelăciunea de la Isaac] — promisiunea acoperă nu doar viitorul, ci și vindecarea rușinilor din trecutul familiei patriarhale."
+     },
+     {
+      "t": ", Iacov, și "
+     },
+     {
+      "t": "fața lui",
+      "w": "fața lui",
+      "heb": "פָּנָיו",
+      "translit": "panav",
+      "strong": "H6440",
+      "pos": "substantiv, masculin plural construct",
+      "def_ro": "fața lui.",
+      "dict_ro": "Panim, „față” — „fața” care nu se va mai îngălbeni/păli de rușine, imagine fizică a demnității recăpătate, contrastând direct cu fețele posomorâte și rușinate din tot restul secțiunii de judecată a capitolelor precedente."
+     },
+     {
+      "t": " să nu fie "
+     },
+     {
+      "t": "palidă",
+      "w": "palidă",
+      "heb": "יֶחֱוָרוּ",
+      "translit": "yecheveru",
+      "strong": "H2357",
+      "pos": "verb, qal imperfect",
+      "def_ro": "va păli, va deveni palidă.",
+      "dict_ro": "Rădăcina chaver, „a păli, a deveni alb” — cuvânt rar, folosit doar aici în tot Tanahul; Rashi îl leagă de „bunicul său” [Isaac] — nu se va mai găsi nimic necurat în patul lui Isaac, patul lui fiind „întreg/desăvârșit” [prin faptul că toți fiii lui au rămas în legământ, spre deosebire de Avraam, cu Ismael]."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן כֹּה־אָמַר יְהוָה אֶל־בֵּית יַעֲקֹב אֲשֶׁר פָּדָה אֶת־אַבְרָהָם לֹא־עַתָּה יֵבוֹשׁ יַעֲקֹב וְלֹא עַתָּה פָּנָיו יֶחֱוָרוּ׃",
+      "translation": "„De aceea, așa a spus DOMNUL...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "διὰ τοῦτο τάδε λέγει Κύριος ἐπὶ τὸν οἶκον Ἰακώβ, ὃν ἀφώρισεν ἐξ Ἁβραάμ· οὐ νῦν αἰσχυνθήσεται Ἰακώβ, οὐδὲ νῦν τὸ πρόσωπον μεταβαλεῖ Ἰσραήλ",
+      "greek": true,
+      "translation": "„De aceea, așa zice Domnul despre casa lui Iacov, pe care a osebit-o din Avraam: nu se va rușina acum Iacov, nici nu-și va schimba fața acum Israel”",
+      "note": "LXX traduce padah („a răscumpărat”) prin ἀφώρισεν („a osebit/separat”), o nuanță diferită — accentul cade pe alegerea/separarea lui Avraam, nu pe răscumpărarea lui dintr-o primejdie anume."
+     }
+    ],
+    "refs": [
+     "Geneza 15:7",
+     "Geneza 27:35"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică: „«l-a răscumpărat pe Avraham» — din Ur al Caldeilor [din cuptorul lui Nimrod]. «Acum nu se va mai rușina Iacov» — din pricina tatălui său [Isaac, cu privire la binecuvântarea luată prin înșelăciune]. «Și fața lui nu va mai păli» — din pricina bunicului său [Avraam], căci nu se va găsi nimic necurat în patul lui [Isaac] — patul lui e desăvârșit [toți fiii au rămas credincioși]”."
+     }
+    ]
+   },
+   {
+    "v": "29:23",
+    "t": "căci atunci când își vede copiii, lucrarea mâinilor Mele; în mijlocul său, ei vor sfinți numele Meu și vor sfinți pe Sfântul lui Iacov și pe Dumnezeul lui Israel Îl vor preaslăvi.",
+    "heb": "כִּי בִרְאֹתוֹ יְלָדָיו מַעֲשֵׂה יָדַי בְּקִרְבּוֹ יַקְדִּישׁוּ שְׁמִי וְהִקְדִּישׁוּ אֶת־קְדוֹשׁ יַעֲקֹב וְאֶת־אֱלֹהֵי יִשְׂרָאֵל יַעֲרִיצוּ׃",
+    "translit": "Ki bir'oto yeladav ma'aseh yadai be-kirbo yakdishu shemi ve-hikdishu et-kedosh Ya'akov ve-et-Elohei Yisra'el ya'aritsu.",
+    "tokens": [
+     {
+      "t": "căci atunci când își vede "
+     },
+     {
+      "t": "copiii",
+      "w": "copiii",
+      "heb": "יְלָדָיו",
+      "translit": "yeladav",
+      "strong": "H3206",
+      "pos": "substantiv, masculin plural construct",
+      "def_ro": "copiii lui.",
+      "dict_ro": "Yeled, „copil” — Rashi identifică pe acești copii cu figuri concrete drepte precum Hanania, Mișael și Azaria (Daniel 3), exemple istorice ulterioare de sfințire publică a Numelui divin în mijlocul păgânătății."
+     },
+     {
+      "t": ", lucrarea "
+     },
+     {
+      "t": "mâinilor Mele",
+      "w": "mâinilor Mele",
+      "heb": "מַעֲשֵׂה יָדַי",
+      "translit": "ma'aseh yadai",
+      "strong": "H3027",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "lucrarea mâinilor Mele.",
+      "dict_ro": "Ma'aseh yadai, „lucrarea mâinilor Mele” — expresie ce descrie pe copiii drepți ca pe o creație directă, personală, a lui Dumnezeu — nu doar biologic, ci în caracterul lor moral și spiritual, rezultat al acțiunii divine."
+     },
+     {
+      "t": "; în mijlocul său, ei vor "
+     },
+     {
+      "t": "sfinți",
+      "w": "sfinți",
+      "heb": "יַקְדִּישׁוּ",
+      "translit": "yakdishu",
+      "strong": "H6942",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "vor sfinți.",
+      "dict_ro": "Rădăcina kadash, „a sfinți, a face sfânt” — repetat de două ori în verset (yakdishu, hikdishu), central pentru conceptul de Kiddush Hashem, „sfințirea Numelui”, unul din cele mai importante principii etice ale iudaismului: viața dreaptă a poporului aduce cinste publică Numelui lui Dumnezeu."
+     },
+     {
+      "t": " numele Meu și vor sfinți pe "
+     },
+     {
+      "t": "Sfântul lui Iacov",
+      "w": "Sfântul lui Iacov",
+      "heb": "קְדוֹשׁ יַעֲקֹב",
+      "translit": "Kedosh Ya'akov",
+      "strong": "H6918",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "Sfântul lui Iacov.",
+      "dict_ro": "Kadosh, „sfânt” — titlu divin caracteristic pentru Isaia (cf. „Sfântul lui Israel”, folosit de peste 25 de ori în carte), unul din marile teme teologice ale profetului: transcendența și separarea absolută a lui Dumnezeu de păcat."
+     },
+     {
+      "t": " și pe "
+     },
+     {
+      "t": "Dumnezeul lui Israel",
+      "w": "Dumnezeul lui Israel",
+      "heb": "אֱלֹהֵי יִשְׂרָאֵל",
+      "translit": "Elohei Yisra'el",
+      "strong": "H430",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "Dumnezeul lui Israel.",
+      "dict_ro": "Elohei Yisra'el, „Dumnezeul lui Israel” — încheie capitolul cu un al treilea nume/titlu divin (după YHVH și Kedosh Ya'akov), formând o acumulare solemnă tipică finalurilor de oracole profetice de restaurare."
+     },
+     {
+      "t": " Îl vor "
+     },
+     {
+      "t": "preaslăvi",
+      "w": "preaslăvi",
+      "heb": "יַעֲרִיצוּ",
+      "translit": "ya'aritsu",
+      "strong": "H6206",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "vor privi cu teamă sfântă, vor preaslăvi.",
+      "dict_ro": "Rădăcina arats, „a se teme [cu venerație], a privi cu cutremur sfânt” — încheie capitolul cu nota emoțională a cinstirii pline de teamă reverențială, nu doar admirație abstractă, față de Dumnezeul lui Israel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי בִרְאֹתוֹ יְלָדָיו מַעֲשֵׂה יָדַי בְּקִרְבּוֹ יַקְדִּישׁוּ שְׁמִי וְהִקְדִּישׁוּ אֶת־קְדוֹשׁ יַעֲקֹב וְאֶת־אֱלֹהֵי יִשְׂרָאֵל יַעֲרִיצוּ׃",
+      "translation": "„căci atunci când își vede copiii...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἀλλ᾿ ὅταν ἴδωσι τὰ τέκνα αὐτῶν τὰ ἔργα μου, δι᾿ ἐμὲ ἁγιάσουσιν τὸ ὄνομά μου καὶ ἁγιάσουσιν τὸν ἅγιον Ἰακὼβ καὶ τὸν Θεὸν τοῦ Ἰσραὴλ φοβηθήσονται",
+      "greek": true,
+      "translation": "„Ci atunci când vor vedea copiii lor lucrările Mele, pentru Mine vor sfinți numele Meu și vor sfinți pe Sfântul lui Iacov și de Dumnezeul lui Israel se vor teme.”",
+      "note": "LXX traduce ya'aritsu („vor preaslăvi cu cutremur”) prin „φοβηθήσονται” („se vor teme”), o redare mai simplă, care pierde nuanța de venerație combinată cu admirație a verbului ebraic arats."
+     }
+    ],
+    "refs": [
+     "Daniel 3:16-18",
+     "1 Petru 3:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică pe „copiii, lucrarea mâinilor Mele” cu exemple concrete de sfințire publică a Numelui divin, precum Hanania, Mișael și Azaria (Daniel 3) — cei ce au sfințit Numele lui Dumnezeu în public, refuzând să se închine idolului, chiar cu prețul cuptorului de foc."
+     }
+    ]
+   }
+  ]
+ }
  ]
 }
