@@ -6332,6 +6332,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi notează contrastul dintre numele celor doi fii — Moab, deschis despre origine, și Ben-Ami („fiul poporului meu”), mai voalat — posibil reflectând diferențe subtile în atitudinea celor două fiice față de propriul act."
+      },
+      {
+        "author": "Cartea Jubileelor 16 — context/comparație",
+        "text": "Spre deosebire de tonul relativ neutru al Genezei — fiicele credeau că „nu mai e niciun om pe pământ” (v. 31) — Jubilee condamnă fapta cu o asprime fără egal: „el și fiicele lui au făcut păcat pe pământ, cum nu mai fusese pe pământ din zilele lui Adam până în vremea lui” (16:8), și adaugă o osândă radicală, absentă din Geneza: „s-a poruncit și s-a săpat... pe tablele cerești, să-i ia și să-i stârpească, și să facă judecată asupra lor ca judecata Sodomei” — adică toată sămânța ieșită din acest act, popoarele Moab și Amon, ar fi fost sortite unei nimiciri asemănătoare celei a Sodomei înseși. Tonul mult mai aspru explică, dintr-o perspectivă textuală, ostilitatea ulterioară a lui Israel față de Moab și Amon (Deuteronom 23:3-6), absentă ca justificare explicită din capitolul de față al Genezei. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 16)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   }

@@ -3220,6 +3220,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "„Împărțirea pământului” în zilele lui Peleg e interpretată tradițional fie ca referire la evenimentul de la Babel (Geneza 11, împrăștierea popoarelor prin confuzia limbilor), fie, de unii comentatori moderni, ca o posibilă amintire îndepărtată a unei diviziuni geografice sau politice reale."
+      },
+      {
+        "author": "Cartea Jubileelor 8-9 — context/comparație",
+        "text": "Jubilee oferă exact explicația concretă pe care Geneza o lasă deschisă: „în zilele când s-a născut el [Peleg], fiii lui Noe au început să-și împartă pământul între ei” (8:8), inițial în taină, apoi formal, prin tragere la sorți în fața lui Noe (8:10-11). Capitolul 9 detaliază apoi, teritoriu cu teritoriu, partea fiecărui fiu al lui Sem, Ham și Iafet — o hartă etnografică mult mai amănunțită decât simpla listă de nume din Geneza 10. Împărțirea se încheie cu un jurământ solemn, cu blestem asupra oricui ar încălca hotarele fixate: „au zis toți: Amin, amin, pentru ei și pentru fiii lor pe veci... până în ziua judecății” (9:14-15) — jurământ pe care mai târziu Canaan îl încalcă, ocupând teritoriul lui Sem în locul celui cuvenit lui Ham (temă reluată în capitolul 10 al cărții). <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 8)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },

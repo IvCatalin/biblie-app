@@ -2022,6 +2022,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ibn Ezra (1089–1167)",
         "text": "Discută posibilitatea legală a căsătoriei cu o soră vitregă (aceeași tată, mamă diferită) ca practică acceptată în perioada patriarhală, înainte de interdicțiile ulterioare din Levitic — un detaliu care explică validitatea căsătoriei lui Avraham fără a contrazice legea mozaică de mai târziu."
+      },
+      {
+        "author": "Cartea Jubileelor 12 — context/comparație",
+        "text": "Confirmare independentă, câteva secole înaintea acestui verset din perspectiva narativă internă: Jubilee menționează căsătoria ca fapt simplu, fără nicio urmă de controversă sau justificare — „Avram și-a luat soție, și numele ei era Sarai, fiica tatălui său, și ea a ajuns soția lui” (12:9). Faptul că înrudirea e redată direct, ca informație genealogică obișnuită, nu ca o scuză retrospectivă, sprijină lectura lui Rashi și Ibn Ezra: nu o invenție strategică a lui Avraham în fața lui Avimeleh, ci o relație de familie reală, cunoscută și necontestată în tradiție. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 12)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },

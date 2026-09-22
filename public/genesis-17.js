@@ -1247,6 +1247,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Nedarim 61b-62a",
         "text": "O serie întreagă de înțelepți subliniază măreția excepțională a poruncii circumciziei: Rabi Iose spune că anulează chiar interdicțiile Șabatului; Rabi Iehoșua ben Korha o leagă de gravitatea pedepsei lui Moise pentru neglijarea ei; Rabi Nehemia spune că anulează chiar și restricțiile legate de lepră; iar o altă tradiție citată acolo merge până la a spune că, fără acest legământ, lumea însăși nu ar fi fost creată."
+      },
+      {
+        "author": "Cartea Jubileelor 15 — context/comparație",
+        "text": "Jubilee leagă circumcizia de o afirmație teologică absentă din Geneza: peste toate celelalte neamuri Dumnezeu „a pus duhuri cu stăpânire să le rătăcească de la El”, „dar peste Israel n-a pus nici un înger, nici un duh, căci El singur este stăpânul lor” (15:31-32) — circumcizia devine astfel semnul vizibil al unei relații fără intermediar, directe, exclusive între Israel și Dumnezeu, spre deosebire de celelalte popoare, guvernate prin puteri angelice delegate. Cartea insistă și pe caracterul absolut al termenului de opt zile — „nu este tăiere împrejur a zilelor, și nici o omitere a unei zile din cele opt zile” (15:25) — o rânduială „scrisă pe tablele cerești”, adăugând astfel o dimensiune cosmică poruncii pur și simplu enunțate în Geneza. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 15)\" title=\"Citește capitolul\">→</button>"
       }
     ],
     "refs": [

@@ -311,6 +311,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi notează venirea lui Avraham „să o elogieze și să o plângă” imediat după Akedah (conform ordinii capitolelor) — o tradiție leagă chiar moartea Sarei de vestea legării lui Isaac, șocul fiind fatal."
+      },
+      {
+        "author": "Cartea Jubileelor 19 — context/comparație",
+        "text": "Jubilee merge într-o direcție surprinzătoare: nu tratează moartea Sarei doar ca pe un eveniment tragic, ci ca pe cadrul unei noi încercări divine, distinctă de Akedah — „Avraam a mers să o jelească și s-o îngroape, și l-am încercat să vedem dacă duhul lui e răbdător... Aceasta este a zecea încercare cu care a fost încercat Avraam, și a fost găsit credincios, răbdător în duh” (19:3, 8). Tratativele răbdătoare cu fiii lui Het pentru un loc de înmormântare (Geneza 23:3-16) devin astfel, în cronologia cărții, chiar ultima dintre cele zece încercări ale lui Avraam — o rânduială diferită de tradiția mai târzie a „celor zece încercări”, atestată și ea în arhivă (Pirkei Avot 5:4: „cu zece încercări a fost încercat Avraam părintele nostru”), care însă nu precizează ea însăși care anume sunt cele zece, lăsând loc unor liste diferite în diverse surse rabinice. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 19)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },
