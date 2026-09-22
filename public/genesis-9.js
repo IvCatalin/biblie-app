@@ -828,6 +828,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Sanhedrin 56a-59a",
         "text": "Interdicția vărsării de sânge uman e discutată în același pasaj ca fiind cea dintâi și cea mai gravă dintre legile noahide — Sanhedrin explică motivarea explicită oferită chiar în text („căci în imaginea lui Dumnezeu l-a făcut pe om”): valoarea vieții umane derivă direct din statutul de purtător al chipului divin, nu dintr-o convenție socială."
+      },
+      {
+        "author": "Cartea Jubileelor 6-7 — context/comparație",
+        "text": "Jubilee reia și amplifică această lege de mai multe ori, cu o insistență absentă din Geneza — semn al centralității ei în teologia cărții. La 6:7-8 apare aproape identic: „carne cu viața ei, cu sângele, să nu mâncați... cine varsă sângele omului, prin om să i se verse sângele.” Cartea adaugă apoi (7:20-28) o predică întreagă pusă în gura lui Noe către fiii săi, explicând retrospectiv cauza Potopului („din pricina acestor trei lucruri a venit potopul... desfrânarea Veghetorilor... vărsarea de sânge... și tot gândul oamenilor își închipuiau deșertăciune și rău neîncetat”) și avertizându-i explicit pe urmașii lui să nu verse sânge — un material didactic complet absent din textul biblic, dar care explică de ce anume legea aceasta primește loc de frunte imediat după Potop. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 7)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },
@@ -3364,6 +3368,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Discută dificultatea morală centrală a pasajului: de ce e blestemat Canaan, fiul lui Ham, și nu Ham însuși, care a comis fapta? Ramban citează tradiția conform căreia Ham fusese deja binecuvântat implicit (ca fiu al lui Noe, la v.1), iar blestemul nu putea anula direct o binecuvântare anterioară, motiv pentru care s-a extins simbolic asupra descendenței sale."
+      },
+      {
+        "author": "Cartea Jubileelor 7 — context/comparație",
+        "text": "Formula exactă a blestemului apare identic în Jubilee: „Noe s-a deșteptat din somnul său și a cunoscut tot ce-i făcuse fiul său cel mai tânăr, și și-a blestemat fiul și a zis: Blestemat să fie Canaan; rob înrobit să fie el fraților săi” (7:10). Cartea adaugă însă un episod absent din Geneza: reacția lui Ham la aflarea blestemului — „Ham a cunoscut că tatăl său blestemase pe fiul său cel mai tânăr, și i-a părut rău că i-a blestemat fiul, și s-a despărțit de tatăl său, el și fiii lui cu el: Cuș, și Mițraim, și Put, și Canaan” (7:13). Separarea fizică a lui Ham de Noe, motivată explicit de regretul față de blestem, oferă un fundal narativ pentru împrăștierea ulterioară a neamurilor din capitolul 10, complet netratat de textul biblic. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 7)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },

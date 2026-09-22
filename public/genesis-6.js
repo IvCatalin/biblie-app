@@ -276,6 +276,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Context patristic timpuriu (Sfinții Părinți din primele secole)",
         "text": "Interpretarea „fiii lui Dumnezeu” = îngeri căzuți nu a fost doar o poziție izolată — a fost citirea dominantă în primele secole creștine, susținută explicit de Justin Martirul, Clement din Alexandria, Origen, Irineu și **Tertulian** (toți „Părinți ante-niceeni”), alături de istoricii evrei Josephus și Filon și de istoricul creștin Eusebiu din Cezareea. Abia mai târziu, începând cu Iulius Africanul (sec. III) și mai ales cu Augustin (sec. IV-V), s-a impus în Apus citirea alternativă — „fiii lui Dumnezeu” ca linia dreaptă a lui Șet, iar „fiicele oamenilor” ca femei din linia lui Cain — cea pe care o urmează, în mare, și Rashi mai târziu (v. comentariul de mai sus)."
+      },
+      {
+        "author": "1 Enoh 6-7 — context/comparație",
+        "text": "1 Enoh e sursa cea mai amplă a citirii „îngeri căzuți”, amintită de Josephus și de Părinții timpurii de mai sus: capitolul 6 numește 200 de „Veghetori” (îngeri) conduși de Semiaza, care coboară pe Muntele Hermon și jură împreună să-și ia soții dintre „fiicele oamenilor” — o dezvoltare narativă directă a acestui verset, cu nume proprii și un loc geografic precis, absente din textul biblic. Capitolul 7 continuă cu nașterea uriașilor („trei mii de coți” înălțime, o cifră hiperbolică) și cu foametea și canibalismul care urmează — fundalul direct pentru „Nefilimii” de la v. 4 și pentru corupția care duce la Potop (v. 5, 11-13). <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('1-enoh', 6)\" title=\"Citește capitolul\">→</button>"
       }
     ],
     "fidela": "Că fiii lui Dumnezeu au văzut că fiicele oamenilor erau frumoase şi şi-au luat soţii din toate pe care le-au ales.",
@@ -608,6 +612,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„Nefilimii” — de la rădăcina „a cădea” — sunt uniți în verset de „puternicii de odinioară, oameni cu renume”, deși Rashi observă că textul nu-i condamnă explicit pe ei înșiși, ci îi menționează ca fundal pentru păcatul generalizat descris la versetele următoare."
+      },
+      {
+        "author": "1 Enoh 7 — context/comparație",
+        "text": "Capitolul 7 al cărții lui Enoh dezvoltă direct nașterea „puternicilor” din acest verset: din unirea Veghetorilor cu „fiicele oamenilor” s-au născut „uriași mari, a căror înălțime era de trei mii de coți” — o cifră hiperbolică, tipică genului apocaliptic, absentă din textul biblic (Geneza spune doar „puternicii de odinioară”, fără dimensiuni). Tot 1 Enoh adaugă motivul care lipsește din Geneza pentru tranziția spre Potop: uriașii „au mâncat toată osteneala oamenilor” și, când n-a mai fost destulă hrană, „s-au întors împotriva lor și au mâncat pe oameni” — o explicație narativă a corupției generalizate („tot gândul închipuirilor inimii lui era numai rău”, v. 5) pe care Geneza o afirmă, dar nu o dezvoltă. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('1-enoh', 7)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },

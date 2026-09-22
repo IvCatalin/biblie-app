@@ -2168,6 +2168,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi notează o modificare intenționată în raportarea divină a cuvintelor Sarei către Avraham — ea spusese „soțul meu este bătrân”, dar Dumnezeu îi repovestește lui Avraham doar „am îmbătrânit”, omițând partea despre soțul ei, pentru a păstra pacea conjugală."
+      },
+      {
+        "author": "Cartea Jubileelor 16 — context/comparație",
+        "text": "Jubilee confirmă episodul aproape identic, dar din perspectiva vizitatorilor cerești înșiși: „Sara a râs, căci a auzit că grăisem cuvintele acestea cu Avraam, și am mustrat-o, și s-a temut, și a tăgăduit că râsese din pricina cuvintelor” (16:2). Un detaliu de nuanță absent din Geneza: cartea leagă explicit vestirea aceasta de data exactă a nașterii viitoare a lui Isaac, „la luna nouă a lunii a patra” (16:1), integrând episodul într-un calendar liturgic precis, tipic întregii cărți. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 16)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },

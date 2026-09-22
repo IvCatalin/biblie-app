@@ -567,6 +567,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Sanhedrin 109a",
         "text": "Discuție reală, cu mai multe opinii tanaite, despre natura exactă a păcatului generației Turnului (Tora nu o precizează explicit): școala lui Rabi Șeila susține că voiau literalmente să urce la cer; Rabi Ieremia bar Elazar descrie trei facțiuni cu scopuri diferite (locuire, idolatrie, război); Rabi Natan leagă explicit expresia „să ne facem un nume” de idolatrie, printr-o comparație textuală cu Exod 23:13."
+      },
+      {
+        "author": "Cartea Jubileelor 10 — context/comparație",
+        "text": "Cu câteva secole înaintea dezbaterii talmudice de mai sus, Jubilee afirmă deja, direct și fără ambiguitate, prima dintre cele trei explicații rabinice: „au plecat din ținutul Araratului spre răsărit, la Șinear; căci în zilele lui au zidit cetatea și turnul, zicând: Haideți, să ne suim prin el în cer” (10:19). Cartea adaugă și detalii tehnice de construcție absente din Geneza — „au făcut cărămidă cu foc, și cărămizile le-au ținut loc de piatră, și lutul cu care le-au lipit era asfalt, care iese din mare” (10:20) — și explică motivul exact al numelui „Babel”: „acolo a încurcat Domnul toată limba fiilor oamenilor” (10:25), identic cu etimologia populară din Geneza 11:9. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 10)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },
@@ -3742,6 +3746,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "„Ur Casdim” (Ur al caldeilor) e identificat de majoritatea cercetătorilor cu orașul sumerian Ur, unul dintre cele mai importante centre urbane ale lumii antice, cu săpături arheologice extinse (Leonard Woolley, anii 1920) care au dezvăluit un oraș sofisticat, cu temple, morminte regale bogate și scriere cuneiformă."
+      },
+      {
+        "author": "Cartea Jubileelor 12 — context/comparație",
+        "text": "Geneza tace complet asupra împrejurărilor morții lui Haran — spune doar că „a murit înaintea tatălui său”. Cartea Jubileelor umple acest gol cu o legendă celebră: la 60 de ani, Avram, convins deja că idolii tatălui său Terah sunt neputincioși (o dispută anterioară, la 12:1-8, în care Avram îl întreabă direct „ce ajutor și ce folos avem de la idolii aceștia”), „s-a sculat noaptea și a ars casa idolilor”; oamenii casei s-au trezit și au încercat să-și scape zeii din foc, iar „Haran s-a grăbit să-i scape, dar focul a izbucnit peste el, și a fost ars în foc, și a murit în Ur al caldeilor înaintea lui Terah, tatăl său”. E un joc de cuvinte tradițional pe „Ur” (care înseamnă și „foc” în unele lecturi rabinice) — o explicație narativă a morții premature a lui Haran, complet absentă din textul biblic. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 12)\" title=\"Citește capitolul\">→</button>"
+      },
+      {
+        "author": "Apocalipsa lui Avraam 1-8 — context/comparație",
+        "text": "O a doua tradiție pseudepigrafă, independentă de Jubilee și cu detalii diferite, dezvoltă și mai amplu tema idolilor lui Terah: Avraam, slujind în templul tatălui său, sparge accidental capul idolului Marumath, apoi e trimis să vândă alți cinci idoli unor negustori sirieni — episod în care idolii „cad” de pe asin și se sfărâmă. Avraam ajunge la concluzia „un zeu care nu-și poate mântui sufletul, nici trupul, nici capul, cum poate mântui sufletul sau trupul unui om?” și-l întreabă direct pe Terah de ce se închină unor obiecte fără putere — un dialog filosofic mult mai extins decât cel din Jubilee, dar cu aceeași concluzie: respingerea rațională a idolatriei, ca prolog la chemarea divină din Geneza 12:1. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('apocalipsa-avraam', 1)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },

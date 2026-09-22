@@ -5248,6 +5248,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.23.35",
     "text": "«Dumnezeu a pus heruvimi și o sabie de flacără, mișcătoare, să păzească drumul spre pomul vieții.» Cei ce traduc cuvintele ebraice din Scriptură spun că «heruvim» înseamnă în latină «plinătatea cunoașterii». Sabia de flacără, mișcătoare, înseamnă pedepsele vremelnice, fiindcă vremurile se mișcă în neîncetata lor schimbare. Se numește «de flacără» fiindcă orice necaz arde într-un fel sau altul. Dar altceva e să fii ars până ești mistuit, și altceva să fii ars până ești curățit."
+   },
+   {
+    "author": "Apocalipsa lui Moise 28 — context/comparație",
+    "text": "Această scriere pseudepigrafă (recenzia grecească a „Vieții lui Adam și Eva”) dramatizează exact acest verset, punându-l pe Adam să ceară, înainte de izgonire, rod din Pomul Vieții — cerere refuzată explicit de Dumnezeu: „Nu vei lua din el acum, căci am poruncit heruvimilor cu sabia de flacără care se învârtește să-l păzească de tine ca să nu guști din el.” Textul adaugă însă un detaliu absent din Geneza: paza heruvimilor nu e prezentată ca veșnică, ci ca temporară — „când va veni iarăși Învierea, te voi scula și atunci ți se va da Pomul Vieții” — o reinterpretare eshatologică explicită, care transformă interdicția din Geneza 3:24 într-o amânare, nu o excludere definitivă. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('apocalipsa-moise', 28)\" title=\"Citește capitolul\">→</button>"
    }
   ],
   "textCompare": [

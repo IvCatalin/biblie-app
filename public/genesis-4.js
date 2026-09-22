@@ -4022,6 +4022,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Numele „Șet” (de la rădăcina „a pune, a așeza”) marchează, prin explicația chiar dată de Eva în verset, o resetare — un nou început pentru linia binecuvântată, după pierderea atât a lui Abel (ucis) cât și, practic, a lui Cain (izgonit, blestemat)."
+      },
+      {
+        "author": "Cartea Jubileelor 4 — context/comparație",
+        "text": "Jubilee adaugă un detaliu cronologic absent din Geneza, care explică indirect intervalul de timp implicit dintre uciderea lui Abel și nașterea lui Șet: „Adam și soția lui l-au jelit pe Abel patru săptămâni de ani” — adică 28 de ani, în sistemul de numărare pe „săptămâni de ani” propriu acestei cărți — „și în anul al patrulea al săptămânii a cincea s-au veselit, și Adam a cunoscut iarăși pe soția sa, și ea i-a născut un fiu.” O perioadă lungă de doliu, complet netrecută în text la Geneza, dar presupusă de structura narativă a capitolului 5, unde Adam are 130 de ani la nașterea lui Șet. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 4)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },

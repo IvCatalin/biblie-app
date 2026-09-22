@@ -177,6 +177,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Discută pe larg semnificația teologică a poruncii „Lekh lekha” — nu doar o instrucțiune geografică, ci un act fondator: prima poruncă divină personală adresată cuiva în toată Tora, care va deveni modelul întregii relații legământale ulterioare dintre Dumnezeu și urmașii lui Avraham."
+      },
+      {
+        "author": "Cartea Jubileelor 12 — context/comparație",
+        "text": "Jubilee redă porunca aproape cuvânt cu cuvânt: „Ieși din țara ta, și din rudenia ta, și din casa tatălui tău, într-o țară pe care ți-o voi arăta, și te voi face un neam mare și numeros” (12:22) — plasată direct după disputa lui Avram cu Terah despre idolatrie (12:1-8) și după incendiul casei idolilor în care moare Haran (12:12-14, v. comentariul de la Geneza 11:28). Particularitatea cărții e naratorul: întregul verset e rostit la persoana întâi de „mine” — îngerul prezenței, care dictează lui Moise pe Sinai istoria întreagă — un cadru literar caracteristic Jubilee-ului, absent din Geneza, unde vorbitorul e DOMNUL Însuși, fără intermediar. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 12)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },

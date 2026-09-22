@@ -148,6 +148,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută sensul „încercării” — nu pentru ca Dumnezeu să afle ceva ce nu știa deja, ci pentru a face vizibilă, public, calitatea deja existentă a lui Avraham, ridicându-l ca exemplu etern pentru toate generațiile."
+      },
+      {
+        "author": "Cartea Jubileelor 17-18 — context/comparație",
+        "text": "Jubilee adaugă un element structural absent din Geneza, apropiat de prologul Cărții lui Iov: încercarea nu vine direct de la Dumnezeu, ci e instigată de „principele Mastema” — o figură adversă, satanică — care, după ce se aud „în cer... glasuri despre Avraam, că era credincios în tot ce-i spusese”, „a venit și a zis înaintea lui Dumnezeu: Iată, Avraam îl iubește pe Isaac, fiul său, și se desfătează în el mai presus de toate; poruncește-i să-l aducă ca jertfă arsă pe altar, și vei vedea dacă va face porunca aceasta, și vei cunoaște dacă este credincios în tot ce-l încerci” (17:15-16). În punctul culminant al jertfei (18:9-12), „principele Mastema a fost făcut de rușine” chiar în clipa în care îngerul oprește mâna lui Avraam — cadrul cosmic al testului (o dispută cerească despre loialitatea lui Avraam) rămâne complet implicit în Geneza, dar e făcut explicit aici. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 17)\" title=\"Citește capitolul\">→</button>"
       }
     ]
   },

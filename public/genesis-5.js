@@ -2860,6 +2860,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Bereshit Rabbah 25:1 (Midraș clasic)",
         "text": "O tradiție midrashică veche discută explicit ambiguitatea sfârșitului lui Enoh: unii înțelepți au interpretat „l-a luat Dumnezeu” ca pe o luare timpurie în ceruri (ca Ilie mai târziu), în timp ce alții au insistat, dimpotrivă, că exprimă o moarte prematură, tocmai pentru a preveni interpretări care ar fi putut duce la o venerare necorespunzătoare a lui Enoh ca ființă semi-divină."
+      },
+      {
+        "author": "1 Enoh 12 — context",
+        "text": "Întreaga carte pseudepigrafă a lui 1 Enoh se prezintă ca fiind chiar mărturia pe care Enoh a lăsat-o înainte de această „luare”. Capitolul 12 narează direct continuarea versetului: „Înainte de aceste lucruri Enoh era ascuns și niciunul dintre fiii oamenilor nu știa unde era ascuns și unde se afla și ce s-a întâmplat cu el. Și toate faptele lui erau cu sfinții și cu Veghetorii în zilele lui.” De aici încolo, Enoh e chemat de „Veghetori” (îngerii căzuți din capitolul următor, legați de Geneza 6:1-4) ca să le ducă mesajul judecății divine — o continuare narativă directă a versetului 24, care explică totodată de ce autorii din secolele III-I î.Hr. au ales tocmai figura lui Enoh drept vehicul pentru o revelație apocaliptică amplă. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('1-enoh', 12)\" title=\"Citește capitolul\">→</button>"
       }
     ],
     "fidela": "Şi Enoh a umblat cu Dumnezeu: şi nu a mai fost, pentru că Dumnezeu l-a luat.",
