@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "16 capitole (din 54+2 planificate) · 16 complete la Standardul Davar",
+ "meta": "17 capitole (din 54+2 planificate) · 17 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -37148,6 +37148,3088 @@
      {
       "author": "Rashi (1040–1105)",
       "text": "Rashi explică „la-mishpat” prin Targumul lui Ionatan — „cu judecată măsurată, puțin câte puțin” — și „ve-nakkeh lo anakkekka” tot prin Targum, în sensul de nimicire [a păcatului, nu a persoanei]. Versetul stabilește distincția teologică centrală a întregului pasaj: neamurile păgâne primesc nimicire totală și finală, dar Israel primește doar disciplină corectivă, proporțională — pedepsit real, dar niciodată abandonat definitiv."
+     }
+    ]
+   }
+  ]
+ }
+ ,
+  {
+  "num": 17,
+  "title": "Haftarat Beșalah",
+  "ref": "Judecători 4:4-5:31",
+  "intro": "Haftarat Beșalah leagă Cântarea Mării, cântată de Moise și Miriam după trecerea prin Marea Roșie, de Cântarea Devorei, o altă cântare de victorie condusă de o femeie profetesă, după înfrângerea lui Sisra. Tradiția așkenază citește toată povestea, începând cu naratiunea în proză (cap. 4); tradiția sefardă începe direct cu poemul (cap. 5:1), care singur numără 31 de versete — unul dintre cele mai vechi și mai dificile texte poetice din toată Biblia ebraică.",
+  "verses": [
+   {
+    "v": "4:4",
+    "t": "Iar Devora era o femeie profetesă, o femeie care făcea fitile [pentru candelele din Templu]; și ea era judecătoare a lui Israel în vremea aceea.",
+    "heb": "וּדְבוֹרָה אִשָּׁה נְבִיאָה אֵשֶׁת לַפִּידוֹת הִיא שֹׁפְטָה אֶת־יִשְׂרָאֵל בָּעֵת הַהִיא׃",
+    "translit": "U-Devorah ishah nevi'ah eshet Lappidot hi shofetah et-Yisra'el ba-et ha-hi.",
+    "tokens": [
+     {
+      "t": "Iar "
+     },
+     {
+      "t": "Devora",
+      "w": "Devora",
+      "heb": "דְּבוֹרָה",
+      "translit": "Devorah",
+      "strong": "H1683",
+      "pos": "nume propriu",
+      "def_ro": "Devora — literal „albină”.",
+      "dict_ro": "Devorah, „albină” — a doua femeie din Biblie purtând acest nume, după doica Rebecăi (Geneza 35:8); numele evocă atât hărnicia, cât și capacitatea de a „înțepa” dușmanii, o coincidență onomastică remarcată de comentatori."
+     },
+     {
+      "t": " era o femeie "
+     },
+     {
+      "t": "profetesă",
+      "w": "profetesă",
+      "heb": "נְבִיאָה",
+      "translit": "nevi'ah",
+      "strong": "H5031",
+      "pos": "substantiv, feminin",
+      "def_ro": "profetesă.",
+      "dict_ro": "Nevi'ah — Devora e una din cele șapte profetese numite explicit în tradiția rabinică (alături de Sara, Miriam, Hulda, Abigail, Estera), unica dintre ele care a condus și ca judecătoare, îmbinând autoritatea spirituală cu cea civică/militară."
+     },
+     {
+      "t": ", o femeie care făcea "
+     },
+     {
+      "t": "fitile",
+      "w": "fitile",
+      "heb": "אֵשֶׁת לַפִּידוֹת",
+      "translit": "eshet Lappidot",
+      "strong": "H3940",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "soția lui Lapidot / femeie a fitilelor.",
+      "dict_ro": "Rashi citește „eshet Lappidot” nu ca nume de soț, ci literal, „femeie a torțelor/fitilelor”: ea confecționa fitilele pentru candelabrul Templului din Șilo — o muncă smerită, aparent minoră, care devine simbol al slujirii ei constante, dinaintea chemării publice ca judecătoare."
+     },
+     {
+      "t": "; și ea era "
+     },
+     {
+      "t": "judecătoare",
+      "w": "judecătoare",
+      "heb": "שֹׁפְטָה",
+      "translit": "shofetah",
+      "strong": "H8199",
+      "pos": "verb, qal participiu",
+      "def_ro": "judeca, era judecătoare.",
+      "dict_ro": "Rădăcina shafat, „a judeca” — Devora e singura femeie din tot ciclul Cărții Judecătorilor care ocupă acest rol de conducere centrală, combinând funcțiile de judecător civil, profetă și, curând, strateg militar."
+     },
+     {
+      "t": " a lui Israel în vremea aceea."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּדְבוֹרָה אִשָּׁה נְבִיאָה אֵשֶׁת לַפִּידוֹת הִיא שֹׁפְטָה אֶת־יִשְׂרָאֵל בָּעֵת הַהִיא׃",
+      "translation": "„Iar Devora era o femeie profetesă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ Δεββώρα γυνὴ προφῆτις γυνὴ Λαφιδώθ, αὕτη ἔκρινε τὸν Ἰσραὴλ ἐν τῷ καιρῷ ἐκείνῳ.",
+      "greek": true,
+      "translation": "„Și Devora, femeie profetesă, femeia lui Lapidot, ea judeca pe Israel în vremea aceea.”",
+      "note": "LXX citește „Lapidot” ca nume propriu al soțului Devorei (γυνὴ Λαφιδώθ, „femeia lui Lapidot”), spre deosebire de lectura simbolică a lui Rashi („femeie a fitilelor”) — o divergență interpretativă reală, nu doar de traducere."
+     }
+    ],
+    "refs": [
+     "Geneza 35:8",
+     "1 Samuel 3:20"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „eshet Lappidot” nu ca desemnare a soțului, ci literal: era o femeie care făcea fitile pentru candelabrul din Sanctuarul de la Șilo — o muncă smerită, care pregătește simbolic rolul ei ulterior: „precum fitilul primește flacăra, tot așa i s-a dat ei duh de profeție și a luminat pe Israel”."
+     }
+    ]
+   },
+   {
+    "v": "4:5",
+    "t": "Ea obișnuia să stea sub palmierul Devorei, între Rama și Bet-El, la Muntele Efraim, și copiii lui Israel urcau la ea pentru judecată.",
+    "heb": "וְהִיא יוֹשֶׁבֶת תַּחַת־תֹּמֶר דְּבוֹרָה בֵּין הָרָמָה וּבֵין בֵּית־אֵל בְּהַר אֶפְרָיִם וַיַּעֲלוּ אֵלֶיהָ בְּנֵי יִשְׂרָאֵל לַמִּשְׁפָּט׃",
+    "translit": "Ve-hi yoshevet tachat-tomer Devorah bein ha-Ramah u-vein Beit-El be-har Efrayim va-ya'alu eleha benei Yisra'el la-mishpat.",
+    "tokens": [
+     {
+      "t": "Ea obișnuia să stea sub "
+     },
+     {
+      "t": "palmierul Devorei",
+      "w": "palmierul Devorei",
+      "heb": "תֹּמֶר דְּבוֹרָה",
+      "translit": "tomer Devorah",
+      "strong": "H8560",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "palmierul lui Devora.",
+      "dict_ro": "Tomer, „palmier” — Rashi respinge lectura literală a acestui verset ca simplă însemnare geografică; consideră, urmând Targumul lui Ionatan, că versetul descrie de fapt proprietăți economice ale unei femei bogate — livezi de palmieri la Ierihon, vii la Rama, măslini la Bet-El — nu locul ei permanent de ședere."
+     },
+     {
+      "t": ", între Rama și Bet-El, la "
+     },
+     {
+      "t": "Muntele Efraim",
+      "w": "Muntele Efraim",
+      "heb": "הַר אֶפְרָיִם",
+      "translit": "har Efrayim",
+      "strong": "H2022",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "muntele lui Efraim.",
+      "dict_ro": "Har Efrayim — regiune muntoasă centrală, teritoriul tribului lui Efraim; Rashi identifică orașul real de reședință al Devorei cu Atarot, distinct de reperele economice enumerate în acest verset."
+     },
+     {
+      "t": ", și copiii lui Israel "
+     },
+     {
+      "t": "urcau",
+      "w": "urcau",
+      "heb": "וַיַּעֲלוּ",
+      "translit": "va-ya'alu",
+      "strong": "H5927",
+      "pos": "verb, qal imperfect",
+      "def_ro": "urcau, se suiau.",
+      "dict_ro": "Rădăcina alah, „a se sui” — verb standard pentru deplasarea către un loc de autoritate centrală (folosit și pentru urcarea la Templu), aici pentru pelerinajul judiciar al israeliților spre Devora, semn al recunoașterii ei unanime ca autoritate supremă."
+     },
+     {
+      "t": " la ea pentru judecată."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהִיא יוֹשֶׁבֶת תַּחַת־תֹּמֶר דְּבוֹרָה בֵּין הָרָמָה וּבֵין בֵּית־אֵל בְּהַר אֶפְרָיִם וַיַּעֲלוּ אֵלֶיהָ בְּנֵי יִשְׂרָאֵל לַמִּשְׁפָּט׃",
+      "translation": "„Ea obișnuia să stea sub palmierul Devorei...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ αὐτὴ ἐκάθητο ὑπὸ φοίνικα Δεββώρα ἀνὰ μέσον τῆς Ῥαμὰ καὶ ἀνὰ μέσον τῆς Βαιθὴλ ἐν τῷ ὄρει Ἐφραίμ, καὶ ἀνέβαινον πρὸς αὐτὴν οἱ υἱοὶ Ἰσραὴλ εἰς κρίσιν.",
+      "greek": true,
+      "translation": "„și ea ședea sub palmierul Devorei, între Rama și Betel, la muntele Efraim, și se suiau la ea fiii lui Israel pentru judecată.”",
+      "note": "Traducere fidelă structurii ebraice; LXX citește „tomer Devorah” literal, ca loc geografic, spre deosebire de reinterpretarea economică propusă de Rashi."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi, urmând pe Targumul lui Ionatan, respinge lectura literală a versetului ca simplă localizare geografică a locului ei de judecată: „am învățat de aici că era o femeie bogată, iar din aceste locuri [Ierihon, Rama, Bet-El] își avea venitul” — palmieri, vii, măslini —, în timp ce ea locuia efectiv în orașul ei, numit Atarot."
+     }
+    ]
+   },
+   {
+    "v": "4:6",
+    "t": "Ea a trimis să fie chemat Barak, fiul lui Avinoam, din Kedeș-Naftali și i-a spus: „Oare n-a poruncit DOMNUL, Dumnezeul lui Israel: «Mergi și adună [oameni] către Muntele Tabor, și ia cu tine zece mii de bărbați dintre copiii lui Naftali și dintre copiii lui Zevulun.",
+    "heb": "וַתִּשְׁלַח וַתִּקְרָא לְבָרָק בֶּן־אֲבִינֹעַם מִקֶּדֶשׁ נַפְתָּלִי וַתֹּאמֶר אֵלָיו הֲלֹא צִוָּה יְהוָה אֱלֹהֵי־יִשְׂרָאֵל לֵךְ וּמָשַׁכְתָּ בְּהַר תָּבוֹר וְלָקַחְתָּ עִמְּךָ עֲשֶׂרֶת אֲלָפִים אִישׁ מִבְּנֵי נַפְתָּלִי וּמִבְּנֵי זְבֻלוּן׃",
+    "translit": "Va-tishlach va-tikra le-Varak ben-Avino'am mi-Kedesh Naftali va-tomer elav ha-lo tsivvah Adonai Elohei-Yisra'el lekh u-mashakta be-har Tavor ve-lakachta immekha aseret alafim ish mi-benei Naftali u-mi-benei Zevulun.",
+    "tokens": [
+     {
+      "t": "Ea a trimis să fie chemat "
+     },
+     {
+      "t": "Barak",
+      "w": "Barak",
+      "heb": "בָּרָק",
+      "translit": "Barak",
+      "strong": "H1301",
+      "pos": "nume propriu",
+      "def_ro": "Barak — „fulger”.",
+      "dict_ro": "Barak, „fulger” — comandant militar din tribul Neftali; deși numele lui sugerează viteză și forță fulgerătoare, textul îl arată reticent, având nevoie de asigurarea explicită a Devorei pentru a porni la luptă."
+     },
+     {
+      "t": ", fiul lui Avinoam, din Kedeș-Naftali și i-a spus: „Oare n-a poruncit DOMNUL, Dumnezeul lui Israel: «Mergi și "
+     },
+     {
+      "t": "adună",
+      "w": "adună",
+      "heb": "וּמָשַׁכְתָּ",
+      "translit": "u-mashakta",
+      "strong": "H4900",
+      "pos": "verb, qal perfect",
+      "def_ro": "vei atrage/aduna.",
+      "dict_ro": "Rădăcina mashakh, „a trage, a atrage” — folosit aici pentru mobilizarea trupelor și, simetric, în versetul următor pentru „atragerea” lui Sisra spre capcana de la Kișon — un ecou verbal deliberat: cine adună o armată va fi, la rândul lui, „atras” spre pieire."
+     },
+     {
+      "t": " [oameni] către Muntele Tabor, și ia cu tine "
+     },
+     {
+      "t": "zece mii de bărbați",
+      "w": "zece mii de bărbați",
+      "heb": "עֲשֶׂרֶת אֲלָפִים אִישׁ",
+      "translit": "aseret alafim ish",
+      "strong": "H6235",
+      "pos": "numeral",
+      "def_ro": "zece mii de bărbați.",
+      "dict_ro": "O forță relativ modestă în raport cu cele nouă sute de care de fier ale lui Sisra (v.13) — contrastul numeric/tehnologic subliniază, încă de la început, că victoria promisă nu va veni prin superioritate militară convențională."
+     },
+     {
+      "t": " dintre copiii lui Naftali și dintre copiii lui Zevulun."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתִּשְׁלַח וַתִּקְרָא לְבָרָק בֶּן־אֲבִינֹעַם מִקֶּדֶשׁ נַפְתָּלִי וַתֹּאמֶר אֵלָיו הֲלֹא צִוָּה יְהוָה אֱלֹהֵי־יִשְׂרָאֵל...",
+      "translation": "„Ea a trimis să fie chemat Barak...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἀπέστειλε Δεββώρα καὶ ἐκάλεσε τὸν Βαρὰκ υἱὸν Ἀβινεὲμ ἐκ Κάδης Νεφθαλὶ καὶ εἶπε πρὸς αὐτόν· οὐχὶ ἐνετείλατο Κύριος ὁ Θεὸς Ἰσραήλ σοι...",
+      "greek": true,
+      "translation": "„și a trimis Devora și l-a chemat pe Barak, fiul lui Abineem, din Kades-Neftali, și i-a zis: oare nu ți-a poruncit Domnul Dumnezeul lui Israel...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Deuteronom 20:17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi leagă porunca inițială a stârpirii dușmanilor din Canaan de cea dată prin Moise (Deuteronom 20:17), citând Mechilta: cucerirea și supunerea deplină a Canaanului rămâne un mandat continuu, nu doar al generației lui Iosua, transmis mai departe generațiilor următoare, inclusiv celei a Devorei și a lui Barak."
+     }
+    ]
+   },
+   {
+    "v": "4:7",
+    "t": "Și îl voi atrage către tine, către valea Kișon, pe Sisra, conducătorul oștii lui Iavin, carele lui și mulțimile lui [de oșteni], și îi voi preda în mâna ta»?”",
+    "heb": "וּמָשַׁכְתִּי אֵלֶיךָ אֶל־נַחַל קִישׁוֹן אֶת־סִיסְרָא שַׂר־צְבָא יָבִין וְאֶת־רִכְבּוֹ וְאֶת־הֲמוֹנוֹ וּנְתַתִּיהוּ בְּיָדֶךָ׃",
+    "translit": "U-mashakti eleikha el-nachal Kishon et-Sisra sar-tseva Yavin ve-et-rikhbo ve-et-hamono u-netattihu be-yadekha.",
+    "tokens": [
+     {
+      "t": "Și îl voi atrage către tine, către valea "
+     },
+     {
+      "t": "Kișon",
+      "w": "Kișon",
+      "heb": "קִישׁוֹן",
+      "translit": "Kishon",
+      "strong": "H7028",
+      "pos": "nume propriu",
+      "def_ro": "Kișon.",
+      "dict_ro": "Nachal Kishon — râul care traversează valea Izreel; devine, prin ploaia torențială menționată în cântarea Devorei (5:4, 21), un aliat activ al lui Israel, revărsându-se și transformând câmpia în mlaștină, imobilizând carele de fier ale lui Sisra."
+     },
+     {
+      "t": ", pe "
+     },
+     {
+      "t": "Sisra",
+      "w": "Sisra",
+      "heb": "סִיסְרָא",
+      "translit": "Sisra",
+      "strong": "H5516",
+      "pos": "nume propriu",
+      "def_ro": "Sisra.",
+      "dict_ro": "Sisra — comandantul oștii cananeene a regelui Iavin al Hațorului, personajul central al oracolului de judecată din acest capitol; etimologia numelui rămâne disputată, posibil de origine non-semitică."
+     },
+     {
+      "t": ", conducătorul oștii lui Iavin, carele lui și "
+     },
+     {
+      "t": "mulțimile lui",
+      "w": "mulțimile lui",
+      "heb": "הֲמוֹנוֹ",
+      "translit": "hamono",
+      "strong": "H1995",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "mulțimea lui, oastea lui.",
+      "dict_ro": "Hamon, „mulțime, gloată” — desemnează efectivul numeros al armatei cananeene, contrastat direct cu cei zece mii ai lui Barak (v.6) — promisiunea divină de victorie e cu atât mai remarcabilă cu cât inegalitatea numerică e explicit recunoscută."
+     },
+     {
+      "t": ", și îi voi preda în mâna ta»?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּמָשַׁכְתִּי אֵלֶיךָ אֶל־נַחַל קִישׁוֹן אֶת־סִיסְרָא שַׂר־צְבָא יָבִין...",
+      "translation": "„Și îl voi atrage către tine...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἐπάξω πρὸς σὲ εἰς τὸν χειμάρρουν Κισῶν τὸν Σισάρα ἄρχοντα τῆς δυνάμεως Ἰαβὶν καὶ τὰ ἅρματα αὐτοῦ καὶ τὸ πλῆθος αὐτοῦ καὶ παραδώσω αὐτόν εἰς χεῖράς σου.",
+      "greek": true,
+      "translation": "„și îl voi aduce către tine, la pârâul Kison, pe Sisara, conducătorul oștirii lui Iabin, și carele lui și mulțimea lui, și-l voi da în mâinile tale.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Judecători 5:4",
+     "Judecători 5:21"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "4:8",
+    "t": "Și Barak i-a spus: „Dacă vei merge cu mine, atunci voi merge, dar dacă nu vei merge cu mine, nu voi merge!”",
+    "heb": "וַיֹּאמֶר אֵלֶיהָ בָּרָק אִם־תֵּלְכִי עִמִּי וְהָלָכְתִּי וְאִם־לֹא תֵלְכִי עִמִּי לֹא אֵלֵךְ׃",
+    "translit": "Va-yomer eleha Varak im-telekhi immi ve-halakhti ve-im-lo telekhi immi lo elekh.",
+    "tokens": [
+     {
+      "t": "Și Barak i-a spus: „Dacă vei merge cu mine, atunci voi merge, dar dacă nu vei merge cu mine, nu voi "
+     },
+     {
+      "t": "merge",
+      "w": "merge",
+      "heb": "אֵלֵךְ",
+      "translit": "elekh",
+      "strong": "H1980",
+      "pos": "verb, qal imperfect",
+      "def_ro": "voi merge.",
+      "dict_ro": "Rădăcina halakh, „a merge” — repetat de patru ori în acest scurt verset, structura chiastică accentuând dependența totală a lui Barak de prezența fizică a Devorei ca garanție a prezenței divine — o ezitare pe care ea o va interpreta, la versetul următor, ca pierdere a onoarei cuvenite unui comandant."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר אֵלֶיהָ בָּרָק אִם־תֵּלְכִי עִמִּי וְהָלָכְתִּי וְאִם־לֹא תֵלְכִי עִמִּי לֹא אֵלֵךְ׃",
+      "translation": "„Și Barak i-a spus...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ εἶπε πρὸς αὐτὴν Βαράκ· ἐὰν πορευθῇς μετ᾿ ἐμοῦ, πορεύσομαι, καὶ ἐὰν μὴ πορευθῇς, οὐ πορεύσομαι· ὅτι οὐκ οἶδα τὴν ἡμέραν, ἐν ᾗ εὐοδοῖ Κύριος τὸν ἄγγελον μετ᾿ ἐμοῦ.",
+      "greek": true,
+      "translation": "„și i-a zis Barac: dacă vei merge cu mine, voi merge, iar dacă nu vei merge, nu voi merge; căci nu știu ziua în care Domnul va face să izbutească îngerul cu mine.”",
+      "note": "LXX adaugă o propoziție întreagă, absentă din ebraică, despre necunoașterea „zilei” și a „îngerului” care ar însoți lupta — o explicație suplimentară a motivului ezitării lui Barak, absentă din textul masoretic, care lasă motivul neexplicat."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "4:9",
+    "t": "Ea i-a zis: „De mers voi merge cu tine, numai că drumul pe care mergi nu va fi spre slava ta, căci DOMNUL îl va preda pe Sisra în mâna unei femei.” Apoi Devora s-a ridicat și a plecat cu Barak la Kedeș.",
+    "heb": "וַתֹּאמֶר הָלֹךְ אֵלֵךְ עִמָּךְ אֶפֶס כִּי לֹא תִהְיֶה תִּפְאַרְתְּךָ עַל־הַדֶּרֶךְ אֲשֶׁר אַתָּה הוֹלֵךְ כִּי בְיַד־אִשָּׁה יִמְכֹּר יְהוָה אֶת־סִיסְרָא וַתָּקָם דְּבוֹרָה וַתֵּלֶךְ עִם־בָּרָק קֶדְשָׁה׃",
+    "translit": "Va-tomer halokh elekh immakh efes ki lo tihyeh tif'artekha al-ha-derekh asher attah holekh ki ve-yad-ishah yimkor Adonai et-Sisra va-takom Devorah va-telekh im-Barak Kedshah.",
+    "tokens": [
+     {
+      "t": "Ea i-a zis: „De mers voi merge cu tine, numai că drumul pe care mergi nu va fi spre "
+     },
+     {
+      "t": "slava ta",
+      "w": "slava ta",
+      "heb": "תִּפְאַרְתְּךָ",
+      "translit": "tif'artekha",
+      "strong": "H8597",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "gloria/podoaba ta.",
+      "dict_ro": "Tif'eret, „glorie, frumusețe, podoabă” — Devora anunță explicit că gloria victoriei nu-i va reveni lui Barak; ea cade, în schimb, asupra unei femei — dublă ironie, căci nu doar Devora conduce strategia, ci și mâna care ucide efectiv pe Sisra va fi tot a unei femei, Iael."
+     },
+     {
+      "t": ", căci DOMNUL îl va "
+     },
+     {
+      "t": "preda",
+      "w": "preda",
+      "heb": "יִמְכֹּר",
+      "translit": "yimkor",
+      "strong": "H4376",
+      "pos": "verb, qal imperfect",
+      "def_ro": "va vinde, va preda.",
+      "dict_ro": "Rădăcina makhar, „a vinde” — verb neobișnuit pentru predarea unui dușman; imaginea comercială („a vinde”) apare și în alte pasaje din Judecători pentru predarea lui Israel însuși în mâna asupritorilor, aici inversată: acum Sisra e cel „vândut”."
+     },
+     {
+      "t": " pe Sisra în mâna unei femei.” Apoi Devora s-a ridicat și a plecat cu Barak la Kedeș."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֹּאמֶר הָלֹךְ אֵלֵךְ עִמָּךְ אֶפֶס כִּי לֹא תִהְיֶה תִּפְאַרְתְּךָ...",
+      "translation": "„Ea i-a zis: «De mers voi merge cu tine...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ εἶπε· πορευομένη πορεύσομαι μετὰ σοῦ· πλὴν γίνωσκε ὅτι οὐκ ἔσται τὸ προτέρημά σου ἐπὶ τὴν ὁδόν, ἣν σὺ πορεύῃ, ὅτι ἐν χειρὶ γυναικὸς ἀποδώσεται Κύριος τὸν Σισάρα.",
+      "greek": true,
+      "translation": "„și a zis: mergând, voi merge cu tine; dar să știi că nu va fi întâietatea ta pe calea pe care mergi, căci în mâna unei femei va da Domnul pe Sisara.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică, citat prin tradiția aggadică, sensul dublu al profeției: nu doar Devora conduce alături de Barak, ci fapta decisivă a războiului — uciderea lui Sisra — va fi comisă tot de o femeie, Iael, dublând astfel ironia asupra oricărei pretenții de glorie exclusiv masculină în această victorie."
+     }
+    ]
+   },
+   {
+    "v": "4:10",
+    "t": "Barak i-a chemat la Kedeș pe [cei din] Zevulun și din Naftali și a adus cu el zece mii de bărbați, iar Devora s-a urcat împreună cu el.",
+    "heb": "וַיַּזְעֵק בָּרָק אֶת־זְבוּלֻן וְאֶת־נַפְתָּלִי קֶדְשָׁה וַיַּעַל בְּרַגְלָיו עֲשֶׂרֶת אַלְפֵי אִישׁ וַתַּעַל עִמּוֹ דְּבוֹרָה׃",
+    "translit": "Va-yaz'ek Barak et-Zevulun ve-et-Naftali Kedshah va-ya'al be-raglav aseret alfei ish va-ta'al immo Devorah.",
+    "tokens": [
+     {
+      "t": "Barak i-a "
+     },
+     {
+      "t": "chemat",
+      "w": "chemat",
+      "heb": "וַיַּזְעֵק",
+      "translit": "va-yaz'ek",
+      "strong": "H2199",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "a chemat, a strigat la [mobilizare].",
+      "dict_ro": "Rădăcina za'ak, „a striga” — folosit tehnic pentru convocarea trupelor prin strigăt/chemare publică, un act de mobilizare militară formală, distinct de simpla informare privată."
+     },
+     {
+      "t": " la Kedeș pe [cei din] Zevulun și din Naftali și a adus cu el zece mii de bărbați, iar Devora s-a urcat împreună cu el."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּזְעֵק בָּרָק אֶת־זְבוּלֻן וְאֶת־נַפְתָּלִי קֶדְשָׁה...",
+      "translation": "„Barak i-a chemat la Kedeș...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἐβόησε Βαρὰκ τὸν Ζαβουλὼν καὶ τὸν Νεφθαλὶ ἐκ Κάδης, καὶ ἀνέβησαν κατὰ πόδας αὐτοῦ δέκα χιλιάδες ἀνδρῶν· καί ἀνέβη Δεββώρα μετ᾿ αὐτοῦ.",
+      "greek": true,
+      "translation": "„și a strigat Barac pe Zabulon și pe Neftali din Kades, și s-au suit după el zece mii de bărbați; și s-a suit Devora împreună cu el.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "4:11",
+    "t": "Chenitul Hever s-a separat de cheniți, urmașii lui Hovav, socrul lui Moise, și și-a așezat cortul lângă terebintul din Taananim, în apropiere de Kedeș.",
+    "heb": "וְחֶבֶר הַקֵּינִי נִפְרָד מִקַּיִן מִבְּנֵי חֹבָב חֹתֵן מֹשֶׁה וַיֵּט אָהֳלוֹ עַד־אֵלוֹן בַּצַעֲנַנִּים אֲשֶׁר אֶת־קֶדֶשׁ׃",
+    "translit": "Ve-Chever ha-Keini nifrad mi-Kayin mi-benei Chovav choten Moshe va-yet oholo ad-Elon be-Tsa'ananim asher et-Kedesh.",
+    "tokens": [
+     {
+      "t": "Chenitul "
+     },
+     {
+      "t": "Hever",
+      "w": "Hever",
+      "heb": "חֶבֶר",
+      "translit": "Chever",
+      "strong": "H2268",
+      "pos": "nume propriu",
+      "def_ro": "Hever.",
+      "dict_ro": "Chever ha-Keini — descendent al lui Hovav (identificat tradițional cu Ietro/Reuel, socrul lui Moise, Numeri 10:29); menționarea prieteniei lui cu regele Iavin (v.17) devine crucială pentru intriga: Sisra caută adăpost la cei considerați aliați, fără să știe de fapta pe care avea s-o comită Iael."
+     },
+     {
+      "t": " s-a "
+     },
+     {
+      "t": "separat",
+      "w": "separat",
+      "heb": "נִפְרָד",
+      "translit": "nifrad",
+      "strong": "H6504",
+      "pos": "verb, nifal perfect",
+      "def_ro": "s-a despărțit, s-a separat.",
+      "dict_ro": "Rădăcina parad, „a se despărți” — Hever se desprinde de restul clanului chenit, stabilindu-se separat lângă Kedeș — detaliu geografic aparent minor, dar esențial pentru plauzibilitatea narativă a fugii lui Sisra tocmai spre cortul soției lui, Iael."
+     },
+     {
+      "t": " de cheniți, urmașii lui Hovav, socrul lui Moise, și și-a așezat cortul lângă terebintul din Taananim, în apropiere de Kedeș."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְחֶבֶר הַקֵּינִי נִפְרָד מִקַּיִן מִבְּנֵי חֹבָב חֹתֵן מֹשֶׁה...",
+      "translation": "„Chenitul Hever s-a separat de cheniți...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ Χαβὲρ ὁ Κιναῖος ἐχωρίσθη ἀπὸ Καινᾶ ἀπὸ τῶν υἱῶν Ἰωβὰβ γαμβροῦ Μωυσῆ καὶ ἔπηξε τὴν σκηνὴν αὐτοῦ ἕως δρυὸς πλεονεκτούντων, ἥ ἐστιν ἐχόμενα Κεδές.",
+      "greek": true,
+      "translation": "„și Haber Chineul s-a despărțit de Chena, dintre fiii lui Iobab, ginerele lui Moise, și și-a înfipt cortul până la stejarul celor ce au câștig, care e lângă Kades.”",
+      "note": "LXX traduce numele locului „Elon be-Tsa'ananim” printr-o expresie descriptivă („stejarul celor ce au câștig”), nu ca toponim propriu-zis — o interpretare a numelui, nu o transliterare directă."
+     }
+    ],
+    "refs": [
+     "Numeri 10:29"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "4:12",
+    "t": "Apoi i s-a dat de știre lui Sisra că Barak, fiul lui Avinoam, a urcat către muntele Tabor.",
+    "heb": "וַיַּגִּדוּ לְסִיסְרָא כִּי עָלָה בָּרָק בֶּן־אֲבִינֹעַם הַר־תָּבוֹר׃",
+    "translit": "Va-yaggidu le-Sisra ki alah Varak ben-Avino'am har-Tavor.",
+    "tokens": [
+     {
+      "t": "Apoi i s-a "
+     },
+     {
+      "t": "dat de știre",
+      "w": "dat de știre",
+      "heb": "וַיַּגִּדוּ",
+      "translit": "va-yaggidu",
+      "strong": "H5046",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "i-au dat de știre, i-au spus.",
+      "dict_ro": "Rădăcina nagad, „a spune, a face cunoscut” — verb care marchează schimbul de informații dintre cele două tabere, punând în mișcare confruntarea militară care urmează."
+     },
+     {
+      "t": " lui Sisra că Barak, fiul lui Avinoam, a urcat către muntele Tabor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּגִּדוּ לְסִיסְרָא כִּי עָלָה בָּרָק בֶּן־אֲבִינֹעַם הַר־תָּבוֹר׃",
+      "translation": "„Apoi i s-a dat de știre lui Sisra...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἀνηγγέλη Σισάρᾳ, ὅτι ἀνέβη Βαρὰκ υἱὸς Ἀβινεὲμ εἰς ὄρος Θαβώρ.",
+      "greek": true,
+      "translation": "„și i s-a vestit lui Sisara că s-a suit Barac, fiul lui Abineem, pe muntele Tabor.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "4:13",
+    "t": "Iar Sisra și-a chemat toate carele – nouă sute de care de fier – și tot poporul care se afla cu el, de la Haroșet-Hagoim la valea Kișon.",
+    "heb": "וַיַּזְעֵק סִיסְרָא אֶת־כָּל־רִכְבּוֹ תְּשַׁע מֵאוֹת רֶכֶב בַּרְזֶל וְאֶת־כָּל־הָעָם אֲשֶׁר אִתּוֹ מֵחֲרֹשֶׁת הַגּוֹיִם אֶל־נַחַל קִישׁוֹן׃",
+    "translit": "Va-yaz'ek Sisra et-kol-rikhbo tesha me'ot rekhev barzel ve-et-kol-ha-am asher itto me-Charoshet ha-goyim el-nachal Kishon.",
+    "tokens": [
+     {
+      "t": "Iar Sisra și-a chemat toate carele – "
+     },
+     {
+      "t": "nouă sute de care de fier",
+      "w": "nouă sute de care de fier",
+      "heb": "תְּשַׁע מֵאוֹת רֶכֶב בַּרְזֶל",
+      "translit": "tesha me'ot rekhev barzel",
+      "strong": "H1270",
+      "pos": "substantiv, masculin",
+      "def_ro": "nouă sute de care de fier.",
+      "dict_ro": "Rechev barzel, „care de fier” — tehnologie militară superioară, aceeași categorie de armament menționată la Iosua 17:16-18 ca obstacol de netrecut pentru triburile israelite din câmpie; superioritatea tehnologică cananeeană face victoria promisă cu atât mai remarcabilă."
+     },
+     {
+      "t": " – și tot poporul care se afla cu el, de la Haroșet-Hagoim la valea Kișon."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּזְעֵק סִיסְרָא אֶת־כָּל־רִכְבּוֹ תְּשַׁע מֵאוֹת רֶכֶב בַּרְזֶל...",
+      "translation": "„Iar Sisra și-a chemat toate carele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἐκάλεσε Σισάρα πάντα τὰ ἅρματα αὐτοῦ ἐννακόσια ἅρματα σιδηρᾶ, καὶ πάντα τὸν λαὸν τὸν μετ᾿ αὐτοῦ ἀπὸ Ἀρισὼθ τῶν ἐθνῶν εἰς τὸν χειμάρρουν Κισῶν.",
+      "greek": true,
+      "translation": "„și a chemat Sisara toate carele sale, nouă sute de care de fier, și tot poporul care era cu el, de la Arisot al neamurilor la pârâul Kison.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Iosua 17:16-18"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "4:14",
+    "t": "Devora i-a spus lui Barak: „Ridică-te, căci aceasta este ziua în care l-a dat DOMNUL pe Sisra în mâinile tale! Oare nu a mers DOMNUL înaintea ta?” Și Barak a coborât de pe muntele Tabor cu zece mii de bărbați după el.",
+    "heb": "וַתֹּאמֶר דְּבֹרָה אֶל־בָּרָק קוּם כִּי זֶה הַיּוֹם אֲשֶׁר נָתַן יְהוָה אֶת־סִיסְרָא בְּיָדֶךָ הֲלֹא יְהוָה יָצָא לְפָנֶיךָ וַיֵּרֶד בָּרָק מֵהַר תָּבוֹר וַעֲשֶׂרֶת אֲלָפִים אִישׁ אַחֲרָיו׃",
+    "translit": "Va-tomer Devorah el-Varak kum ki zeh ha-yom asher natan Adonai et-Sisra be-yadekha ha-lo Adonai yatsa le-fanekha va-yered Varak me-har Tavor va-aseret alafim ish acharav.",
+    "tokens": [
+     {
+      "t": "Devora i-a spus lui Barak: „"
+     },
+     {
+      "t": "Ridică-te",
+      "w": "Ridică-te",
+      "heb": "קוּם",
+      "translit": "kum",
+      "strong": "H6965",
+      "pos": "verb, qal imperativ",
+      "def_ro": "ridică-te, scoală-te.",
+      "dict_ro": "Rădăcina qum, „a se ridica” — comandă scurtă, imperativă, de inițiere a atacului; Devora funcționează aici explicit ca voce profetică ce transmite direct hotărârea divină, nu ca simplu sfat strategic personal."
+     },
+     {
+      "t": ", căci aceasta este ziua în care l-a dat DOMNUL pe Sisra în mâinile tale! Oare nu a "
+     },
+     {
+      "t": "mers",
+      "w": "mers",
+      "heb": "יָצָא",
+      "translit": "yatsa",
+      "strong": "H3318",
+      "pos": "verb, qal perfect",
+      "def_ro": "a ieșit, a mers.",
+      "dict_ro": "Rădăcina yatsa, „a ieși” — imaginea DOMNULUI „ieșind înaintea” armatei, ecou direct al Cântării Devorei (5:4, „DOAMNE, când ai ieșit din Seir”) — un fir tematic care leagă naratiunea în proză de poemul ce urmează."
+     },
+     {
+      "t": " DOMNUL înaintea ta?” Și Barak a coborât de pe muntele Tabor cu zece mii de bărbați după el."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֹּאמֶר דְּבֹרָה אֶל־בָּרָק קוּם כִּי זֶה הַיּוֹם...",
+      "translation": "„Devora i-a spus lui Barak: «Ridică-te...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ εἶπε Δεββώρα πρὸς Βαράκ· ἀνάστηθι, ὅτι αὕτη ἡ ἡμέρα, ἐν ᾗ παρέδωκε Κύριος τὸν Σισάρα ἐν τῇ χειρί σου...",
+      "greek": true,
+      "translation": "„și a zis Devora către Barac: ridică-te, căci aceasta e ziua în care a dat Domnul pe Sisara în mâna ta...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Judecători 5:4"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "4:15",
+    "t": "Iar DOMNUL a derutat pe Sisra și toate carele sale și întreaga tabără, cu tăișul sabiei, înaintea lui Barak. Și Sisra a coborât din car și a luat-o la fugă pe jos.",
+    "heb": "וַיָּהָם יְהוָה אֶת־סִיסְרָא וְאֶת־כָּל־הָרֶכֶב וְאֶת־כָּל־הַמַּחֲנֶה לְפִי־חֶרֶב לִפְנֵי בָרָק וַיֵּרֶד סִיסְרָא מֵעַל הַמֶּרְכָּבָה וַיָּנָס בְּרַגְלָיו׃",
+    "translit": "Va-yaham Adonai et-Sisra ve-et-kol-ha-rekhev ve-et-kol-ha-machaneh le-fi-cherev lifnei Varak va-yered Sisra me-al ha-merkavah va-yanas be-raglav.",
+    "tokens": [
+     {
+      "t": "Iar DOMNUL a "
+     },
+     {
+      "t": "derutat",
+      "w": "derutat",
+      "heb": "וַיָּהָם",
+      "translit": "va-yaham",
+      "strong": "H2000",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a pus în derută, a înspăimântat.",
+      "dict_ro": "Rădăcina hamam, „a pune în panică, a deruta” — același verb folosit la Exodul 14:24 pentru derutarea armatei egiptene la Marea Roșie, ecou deliberat între cele două mari izbăviri militare ale lui Israel."
+     },
+     {
+      "t": " pe Sisra și toate carele sale și întreaga tabără, cu tăișul sabiei, înaintea lui Barak. Și Sisra a coborât din car și a luat-o la "
+     },
+     {
+      "t": "fugă pe jos",
+      "w": "fugă pe jos",
+      "heb": "וַיָּנָס בְּרַגְלָיו",
+      "translit": "va-yanas be-raglav",
+      "strong": "H5127",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a fugit pe picioarele lui.",
+      "dict_ro": "Detaliul „pe jos”, subliniat repetitiv în tot pasajul (v.15, 17), accentuează ironic prăbușirea statutului lui Sisra: comandantul carelor de fier se salvează fugind ca un om de rând, fără nicio superioritate tehnologică care să-l mai ajute."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּהָם יְהוָה אֶת־סִיסְרָא וְאֶת־כָּל־הָרֶכֶב...",
+      "translation": "„Iar DOMNUL a derutat pe Sisra...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἐξέστησε Κύριος τὸν Σισάρα καὶ πάντα τὰ ἅρματα αὐτοῦ καὶ πᾶσαν τὴν παρεμβολὴν αὐτοῦ ἐν στόματι ῥομφαίας ἐνώπιον Βαράκ...",
+      "greek": true,
+      "translation": "„și a înspăimântat Domnul pe Sisara și toate carele lui și toată tabăra lui cu ascuțișul sabiei înaintea lui Barac...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Exodul 14:24"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "4:16",
+    "t": "Iar Barak a urmărit carele și tabăra până la Haroșet-Hagoim și toată tabăra lui Sisra a căzut [lovită] de tăișul sabiei; nu a mai rămas nici măcar unul.",
+    "heb": "וּבָרָק רָדַף אַחֲרֵי הָרֶכֶב וְאַחֲרֵי הַמַּחֲנֶה עַד חֲרֹשֶׁת הַגּוֹיִם וַיִּפֹּל כָּל־מַחֲנֵה סִיסְרָא לְפִי־חֶרֶב לֹא נִשְׁאַר עַד־אֶחָד׃",
+    "translit": "U-Varak radaf acharei ha-rekhev ve-acharei ha-machaneh ad Charoshet ha-goyim va-yippol kol-machaneh Sisra le-fi-cherev lo nish'ar ad-echad.",
+    "tokens": [
+     {
+      "t": "Iar Barak a "
+     },
+     {
+      "t": "urmărit",
+      "w": "urmărit",
+      "heb": "רָדַף",
+      "translit": "radaf",
+      "strong": "H7291",
+      "pos": "verb, qal perfect",
+      "def_ro": "a urmărit.",
+      "dict_ro": "Rădăcina radaf, „a urmări” — verb care marchează inversarea completă de roluri: cel ce vânase (Sisra, cu superioritatea lui tehnologică) devine acum vânat, urmărit fără scăpare de infanteria israelită."
+     },
+     {
+      "t": " carele și tabăra până la Haroșet-Hagoim și toată tabăra lui Sisra a căzut [lovită] de tăișul sabiei; nu a mai rămas "
+     },
+     {
+      "t": "nici măcar unul",
+      "w": "nici măcar unul",
+      "heb": "לֹא נִשְׁאַר עַד־אֶחָד",
+      "translit": "lo nish'ar ad-echad",
+      "strong": "H7604",
+      "pos": "verb, nifal perfect",
+      "def_ro": "n-a mai rămas nici unul.",
+      "dict_ro": "Formula „nu a rămas niciunul” marchează o victorie totală, fără excepție — deznodământul militar complet, pregătind contrastul dramatic cu soarta individuală a lui Sisra însuși, singurul supraviețuitor temporar al dezastrului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּבָרָק רָדַף אַחֲרֵי הָרֶכֶב וְאַחֲרֵי הַמַּחֲנֶה...",
+      "translation": "„Iar Barak a urmărit carele și tabăra...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ Βαρὰκ διώκων ὀπίσω τῶν ἁρμάτων καὶ ὀπίσω τῆς παρεμβολῆς ἕως Ἀρισὼθ τῶν ἐθνῶν· καὶ ἔπεσε πᾶσα παρεμβολὴ Σισάρα ἐν στόματι ρομφαίας, οὐ κατελείφθη ἕως ἑνός.",
+      "greek": true,
+      "translation": "„și Barac urmărind carele și tabăra până la Arisot al neamurilor; și a căzut toată tabăra lui Sisara de ascuțișul sabiei, nu a rămas niciunul.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "4:17",
+    "t": "Și Sisra a fugit pe jos în cortul lui Iael, soția lui Hever chenitul, căci fusese pace între Iavin, regele Hațorului, și casa lui Hever chenitul.",
+    "heb": "וְסִיסְרָא נָס בְּרַגְלָיו אֶל־אֹהֶל יָעֵל אֵשֶׁת חֶבֶר הַקֵּינִי כִּי שָׁלוֹם בֵּין יָבִין מֶלֶךְ־חָצוֹר וּבֵין בֵּית חֶבֶר הַקֵּינִי׃",
+    "translit": "Ve-Sisra nas be-raglav el-ohel Ya'el eshet Chever ha-Keini ki shalom bein Yavin melekh-Chatsor u-vein beit Chever ha-Keini.",
+    "tokens": [
+     {
+      "t": "Și Sisra a fugit pe jos în cortul lui "
+     },
+     {
+      "t": "Iael",
+      "w": "Iael",
+      "heb": "יָעֵל",
+      "translit": "Ya'el",
+      "strong": "H3278",
+      "pos": "nume propriu",
+      "def_ro": "Iael — „capră sălbatică”.",
+      "dict_ro": "Ya'el, „capră de munte” — femeie nomadă, soția lui Hever chenitul; alegerea ei ca instrument al izbăvirii, în locul unui războinic israelit, continuă tema centrală a capitolului: victoria vine printr-o mână complet neașteptată."
+     },
+     {
+      "t": ", soția lui Hever chenitul, căci fusese "
+     },
+     {
+      "t": "pace",
+      "w": "pace",
+      "heb": "שָׁלוֹם",
+      "translit": "shalom",
+      "strong": "H7965",
+      "pos": "substantiv, masculin",
+      "def_ro": "pace, alianță.",
+      "dict_ro": "Shalom, „pace” — aici cu sensul tehnic de „alianță/tratat de neagresiune” între casa lui Hever și regele Iavin; exact această alianță aparentă e cea care-l face pe Sisra să considere cortul lui Iael un refugiu sigur, ignorând loialitatea ei mai profundă față de Israel."
+     },
+     {
+      "t": " între Iavin, regele Hațorului, și casa lui Hever chenitul."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְסִיסְרָא נָס בְּרַגְלָיו אֶל־אֹהֶל יָעֵל...",
+      "translation": "„Și Sisra a fugit pe jos în cortul lui Iael...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ Σισάρα ἔφυγε τοῖς ποσὶν αὐτοῦ εἰς σκηνὴν Ἰαὴλ γυναικὸς Χαβὲρ ἑταίρου τοῦ Κιναίου, ὅτι εἰρήνη ἦν ἀναμέσον Ἰαβὶν βασιλέως Ἀσὼρ καὶ ἀναμέσον τοῦ οἴκου Χαβὲρ τοῦ Κιναίου.",
+      "greek": true,
+      "translation": "„și Sisara a fugit pe picioarele lui în cortul Iaelei, femeia lui Haber tovarășul Chineului, căci pace era între Iabin, regele Asorului, și casa lui Haber Chineul.”",
+      "note": "LXX adaugă „ἑταίρου” („tovarăș, prieten”) pentru a descrie relația lui Hever cu poporul chenit, o nuanță absentă din ebraica simplă."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "4:18",
+    "t": "Și Iael i-a ieșit în întâmpinare lui Sisra și i-a spus: „Îndreaptă-te, stăpâne, îndreaptă-te către mine, nu te teme.” Și el s-a îndreptat către ea în cort, iar ea l-a acoperit cu o învelitoare.",
+    "heb": "וַתֵּצֵא יָעֵל לִקְרַאת סִיסְרָא וַתֹּאמֶר אֵלָיו סוּרָה אֲדֹנִי סוּרָה אֵלַי אַל־תִּירָא וַיָּסַר אֵלֶיהָ הָאֹהֱלָה וַתְּכַסֵּהוּ בַּשְּׂמִיכָה׃",
+    "translit": "Va-tetse Ya'el likrat Sisra va-tomer elav surah adoni surah elai al-tira va-yasar eleha ha-ohelah va-tekhassehu ba-semikhah.",
+    "tokens": [
+     {
+      "t": "Și Iael i-a ieșit în întâmpinare lui Sisra și i-a spus: „"
+     },
+     {
+      "t": "Îndreaptă-te",
+      "w": "Îndreaptă-te",
+      "heb": "סוּרָה",
+      "translit": "surah",
+      "strong": "H5493",
+      "pos": "verb, qal imperativ",
+      "def_ro": "abate-te, îndreaptă-te.",
+      "dict_ro": "Rădăcina sur, „a se abate, a se întoarce” — invitație ospitalieră aparent obișnuită, repetată de două ori pentru accent; Sisra, epuizat și fugărit, interpretează gestul ca refugiu sigur, exact capcana pregătită."
+     },
+     {
+      "t": ", stăpâne, îndreaptă-te către mine, nu te teme.” Și el s-a îndreptat către ea în cort, iar ea l-a acoperit cu o "
+     },
+     {
+      "t": "învelitoare",
+      "w": "învelitoare",
+      "heb": "בַּשְּׂמִיכָה",
+      "translit": "ba-semikhah",
+      "strong": "H8063",
+      "pos": "substantiv, feminin",
+      "def_ro": "cuvertură, învelitoare.",
+      "dict_ro": "Semikhah — cuvânt rar, tradus de Rashi prin termenul aramaic „gonkha”, un fel de plapumă/acoperitoare groasă; gestul matern de a-l acoperi întărește falsa impresie de siguranță și ospitalitate oferită lui Sisra."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֵּצֵא יָעֵל לִקְרַאת סִיסְרָא וַתֹּאמֶר אֵלָיו סוּרָה אֲדֹנִי...",
+      "translation": "„Și Iael i-a ieșit în întâmpinare lui Sisra...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἐξῆλθεν Ἰαὴλ εἰς συνάντησιν Σισάρα καὶ εἶπεν αὐτῷ· ἔκκλινον, κύριέ μου, ἔκλινον πρός με, μὴ φοβοῦ...",
+      "greek": true,
+      "translation": "„și a ieșit Iael în întâmpinarea lui Sisara și i-a zis: abate-te, stăpânul meu, abate-te la mine, nu te teme...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică „semikhah” cu termenul aramaic al Targumului, „gonkha” — o cuvertură groasă folosită pentru odihnă — un detaliu de ospitalitate aparent inofensivă, care pregătește somnul profund din care Sisra nu se va mai trezi."
+     }
+    ]
+   },
+   {
+    "v": "4:19",
+    "t": "El i-a spus: „Dă-mi, te rog, să beau puțină apă, căci sunt însetat” și ea a deschis burduful de lapte și i-a dat să bea și l-a acoperit.",
+    "heb": "וַיֹּאמֶר אֵלֶיהָ הַשְׁקִינִי־נָא מְעַט־מַיִם כִּי צָמֵאתִי וַתִּפְתַּח אֶת־נֹאוד הֶחָלָב וַתַּשְׁקֵהוּ וַתְּכַסֵּהוּ׃",
+    "translit": "Va-yomer eleha hashkini-na me'at-mayim ki tsame'ti va-tiftach et-nod he-chalav va-tashkehu va-tekhassehu.",
+    "tokens": [
+     {
+      "t": "El i-a spus: „Dă-mi, te rog, să beau puțină apă, căci sunt însetat” și ea a deschis "
+     },
+     {
+      "t": "burduful de lapte",
+      "w": "burduful de lapte",
+      "heb": "נֹאוד הֶחָלָב",
+      "translit": "nod he-chalav",
+      "strong": "H2461",
+      "pos": "substantiv, masculin",
+      "def_ro": "burduful de lapte.",
+      "dict_ro": "Chalav, „lapte” — Rashi explică alegerea deliberată a Iaelei: laptele, mai greu de digerat decât apa cerută, are efect soporific, favorizând adormirea profundă a lui Sisra — un prim pas tactic, nu doar un gest de generozitate."
+     },
+     {
+      "t": " și i-a dat să bea și l-a acoperit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר אֵלֶיהָ הַשְׁקִינִי־נָא מְעַט־מַיִם...",
+      "translation": "„El i-a spus: «Dă-mi, te rog, să beau puțină apă...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ εἶπε Σισάρα πρὸς αὐτήν· πότισόν με δὴ μικρὸν ὕδωρ, ὅτι ἐδίψησα· καὶ ἤνοιξε τὸν ἀσκὸν τοῦ γάλακτος, καὶ ἐπότισεν αὐτὸν καὶ περιέβαλεν αὐτόν.",
+      "greek": true,
+      "translation": "„și a zis Sisara către ea: adapă-mă cu puțină apă, căci am însetat; și a deschis burduful de lapte și l-a adăpat și l-a învelit.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică motivul pentru care Iael dă lapte, nu apa cerută: laptele îngreunează trupul, favorizând un somn mai profund — un prim gest tactic, aparent de ospitalitate generoasă, pregătind de fapt momentul vulnerabilității complete a lui Sisra."
+     }
+    ]
+   },
+   {
+    "v": "4:20",
+    "t": "El i-a spus să stea la intrarea cortului, „și va fi că dacă va veni oricine și te va întreba și va spune: «Este cineva aici?», tu să spui «Nu este».”",
+    "heb": "וַיֹּאמֶר אֵלֶיהָ עֲמֹד פֶּתַח הָאֹהֶל וְהָיָה אִם־אִישׁ יָבוֹא וּשְׁאֵלֵךְ וְאָמַר הֲיֵשׁ־פֹּה אִישׁ וְאָמַרְתְּ אָיִן׃",
+    "translit": "Va-yomer eleha amod petach ha-ohel ve-hayah im-ish yavo u-she'elekh ve-amar ha-yesh-po ish ve-amart ayin.",
+    "tokens": [
+     {
+      "t": "El i-a spus să "
+     },
+     {
+      "t": "stea",
+      "w": "stea",
+      "heb": "עֲמֹד",
+      "translit": "amod",
+      "strong": "H5975",
+      "pos": "verb, qal imperativ",
+      "def_ro": "stai, rămâi.",
+      "dict_ro": "Rădăcina amad, „a sta [în picioare]” — Rashi citește imperativul ca pe o încurajare de a-și asuma un rol activ, protector, „ca un bărbat”, o observație ironică ce anticipează exact rolul pe care Iael avea să-l joace — nu de pază pasivă, ci de agent activ al justiției divine."
+     },
+     {
+      "t": " la intrarea cortului, „și va fi că dacă va veni oricine și te va întreba și va spune: «Este cineva aici?», tu să spui «Nu este».”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר אֵלֶיהָ עֲמֹד פֶּתַח הָאֹהֶל...",
+      "translation": "„El i-a spus să stea la intrarea cortului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ εἶπε πρὸς αὐτὴν Σισάρα· στῆθι δὴ ἐπὶ τὴν θύραν τῆς σκηνῆς...",
+      "greek": true,
+      "translation": "„și a zis Sisara către ea: stai la ușa cortului...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește porunca lui Sisra „stai la intrarea cortului” ca pe un îndemn spre curaj activ, „ca un bărbat” — ironie amară a textului: exact aceeași fermitate cerută de el pentru propria-i pază avea să fie folosită de Iael împotriva lui."
+     }
+    ]
+   },
+   {
+    "v": "4:21",
+    "t": "Iael, soția lui Hever, a luat țărușul cortului și a luat ciocanul în mână. A venit la el pe furiș și i-a înfipt țărușul în tâmplă până a străpuns pământul – căci el era adormit și epuizat – și el a murit.",
+    "heb": "וַתִּקַּח יָעֵל אֵשֶׁת־חֶבֶר אֶת־יְתַד הָאֹהֶל וַתָּשֶׂם אֶת־הַמַּקֶּבֶת בְּיָדָהּ וַתָּבוֹא אֵלָיו בַּלָּאט וַתִּתְקַע אֶת־הַיָּתֵד בְּרַקָּתוֹ וַתִּצְנַח בָּאָרֶץ וְהוּא־נִרְדָּם וַיָּעַף וַיָּמֹת׃",
+    "translit": "Va-tikkach Ya'el eshet-Chever et-yetad ha-ohel va-tasem et-ha-makkevet be-yadah va-tavo elav ba-la't va-titka et-ha-yated be-rakato va-titsnach ba-arets ve-hu-nirdam va-ya'af va-yamot.",
+    "tokens": [
+     {
+      "t": "Iael, soția lui Hever, a luat "
+     },
+     {
+      "t": "țărușul cortului",
+      "w": "țărușul cortului",
+      "heb": "יְתַד הָאֹהֶל",
+      "translit": "yetad ha-ohel",
+      "strong": "H3489",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "țărușul cortului.",
+      "dict_ro": "Yated, „țăruș” — o unealtă domestică obișnuită, folosită de femeile nomade la fixarea corturilor, transformată aici în armă — accentul textului cade pe faptul că izbăvirea vine printr-un obiect din sfera muncii feminine tipice, nu printr-o armă de război."
+     },
+     {
+      "t": " și a luat ciocanul în mână. A venit la el "
+     },
+     {
+      "t": "pe furiș",
+      "w": "pe furiș",
+      "heb": "בַּלָּאט",
+      "translit": "ba-la't",
+      "strong": "H3814",
+      "pos": "adverb",
+      "def_ro": "tăcut, în ascuns.",
+      "dict_ro": "Rashi glosează acest cuvânt rar prin termenul aramaic pentru „în taină, pe furiș” — precizia și calmul acțiunii Iaelei contrastează cu violența haotică a bătăliei descrise anterior."
+     },
+     {
+      "t": " și i-a înfipt țărușul în tâmplă până a străpuns pământul – căci el era "
+     },
+     {
+      "t": "adormit și epuizat",
+      "w": "adormit și epuizat",
+      "heb": "נִרְדָּם וַיָּעַף",
+      "translit": "nirdam va-ya'af",
+      "strong": "H7290",
+      "pos": "verb, nifal perfect",
+      "def_ro": "adormit adânc și extenuat.",
+      "dict_ro": "Nirdam, „adormit profund” — aceeași rădăcină folosită pentru somnul adânc al lui Adam (Geneza 2:21); epuizarea fizică totală a lui Sisra, după fuga disperată, îl lasă complet vulnerabil, incapabil să reziste."
+     },
+     {
+      "t": " – și el a murit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתִּקַּח יָעֵל אֵשֶׁת־חֶבֶר אֶת־יְתַד הָאֹהֶל...",
+      "translation": "„Iael, soția lui Hever, a luat țărușul cortului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἔλαβεν Ἰαὴλ γυνὴ Χαβὲρ τὸν πάσσαλον τῆς σκηνῆς καὶ ἔθηκε τὴν σφῦραν ἐν τῇ χειρὶ αὐτῆς...",
+      "greek": true,
+      "translation": "„și a luat Iael, femeia lui Haber, țărușul cortului și a pus ciocanul în mâna ei...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Geneza 2:21",
+     "Judecători 5:26-27"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „balat” prin termenul aramaic pentru „tăcut, ascuns” — precizia calculată a actului Iaelei, contrastând cu haosul violent al restului bătăliei, subliniind că izbăvirea finală vine printr-un gest deliberat, controlat, nu prin forță militară copleșitoare."
+     }
+    ]
+   },
+   {
+    "v": "4:22",
+    "t": "Și iată, Barak îl urmărea pe Sisra, iar Iael i-a ieșit în întâmpinare și i-a spus: „Haide să ți-l arăt pe cel pe care îl cauți.” El a venit la ea și iată, Sisra zăcea mort cu un țăruș în tâmplă.",
+    "heb": "וְהִנֵּה בָרָק רֹדֵף אֶת־סִיסְרָא וַתֵּצֵא יָעֵל לִקְרָאתוֹ וַתֹּאמֶר לוֹ לֵךְ וְאַרְאֶךָּ אֶת־הָאִישׁ אֲשֶׁר־אַתָּה מְבַקֵּשׁ וַיָּבֹא אֵלֶיהָ וְהִנֵּה סִיסְרָא נֹפֵל מֵת וְהַיָּתֵד בְּרַקָּתוֹ׃",
+    "translit": "Ve-hineh Varak rodef et-Sisra va-tetse Ya'el likrato va-tomer lo lekh ve-ar'ekka et-ha-ish asher-attah mevakkesh va-yavo eleha ve-hineh Sisra nofel met ve-ha-yated be-rakato.",
+    "tokens": [
+     {
+      "t": "Și iată, Barak îl urmărea pe Sisra, iar Iael i-a ieșit în întâmpinare și i-a spus: „Haide să ți-l "
+     },
+     {
+      "t": "arăt",
+      "w": "arăt",
+      "heb": "וְאַרְאֶךָּ",
+      "translit": "ve-ar'ekka",
+      "strong": "H7200",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "să-ți arăt.",
+      "dict_ro": "Rădăcina ra'ah, „a vedea”, la forma cauzativă — Iael preia inițiativa completă a narațiunii, invitându-l pe Barak să vadă cu ochii lui împlinirea profeției Devorei de la 4:9: victoria a fost deja luată din mâinile bărbaților."
+     },
+     {
+      "t": " pe cel pe care îl cauți.” El a venit la ea și iată, Sisra zăcea mort cu un țăruș în tâmplă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהִנֵּה בָרָק רֹדֵף אֶת־סִיסְרָא וַתֵּצֵא יָעֵל לִקְרָאתוֹ...",
+      "translation": "„Și iată, Barak îl urmărea pe Sisra...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἰδοὺ Βαρὰκ διώκων τὸν Σισάρα, καὶ ἐξῆλθεν Ἰαὴλ εἰς συνάντησιν αὐτῷ...",
+      "greek": true,
+      "translation": "„și iată, Barac urmărindu-l pe Sisara, și a ieșit Iael în întâmpinarea lui...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Judecători 4:9"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "4:23",
+    "t": "În acea zi, Dumnezeu l-a subjugat pe Iavin, regele Canaanului, înaintea copiilor lui Israel.",
+    "heb": "וַיַּכְנַע אֱלֹהִים בַּיּוֹם הַהוּא אֵת יָבִין מֶלֶךְ־כְּנַעַן לִפְנֵי בְּנֵי יִשְׂרָאֵל׃",
+    "translit": "Va-yakhna Elohim ba-yom ha-hu et Yavin melekh-Kena'an lifnei benei Yisra'el.",
+    "tokens": [
+     {
+      "t": "În acea zi, Dumnezeu l-a "
+     },
+     {
+      "t": "subjugat",
+      "w": "subjugat",
+      "heb": "וַיַּכְנַע",
+      "translit": "va-yakhna",
+      "strong": "H3665",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "a subjugat, a supus.",
+      "dict_ro": "Rădăcina kana, „a se pleca, a se supune” — narațiunea trece de la moartea individuală a lui Sisra la victoria strategică completă asupra întregului regat al lui Iavin, atribuită explicit lui Elohim, nu doar vitejiei umane."
+     },
+     {
+      "t": " pe Iavin, regele Canaanului, înaintea copiilor lui Israel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּכְנַע אֱלֹהִים בַּיּוֹם הַהוּא אֵת יָבִין מֶלֶךְ־כְּנַעַן...",
+      "translation": "„În acea zi, Dumnezeu l-a subjugat pe Iavin...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἐτρόπωσεν ὁ Θεὸς τὸν Ἰαβὶν βασιλέα Χαναὰν ἐν τῇ ἡμέρᾳ ἐκείνῃ ἔμπροσθεν τῶν υἱῶν Ἰσραήλ.",
+      "greek": true,
+      "translation": "„și a pus pe fugă Dumnezeu pe Iabin, regele Canaanului, în ziua aceea, înaintea fiilor lui Israel.”",
+      "note": "LXX traduce „va-yakhna” (a supus) prin „ἐτρόπωσεν” („a pus pe fugă”), o nuanță militară mai specifică decât supunerea generală descrisă în ebraică."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "4:24",
+    "t": "Și mâna copiilor lui Israel s-a înăsprit din ce în ce asupra lui Iavin, regele Canaanului, până l-au nimicit pe Iavin, regele Canaanului.",
+    "heb": "וַתֵּלֶךְ יַד בְּנֵי־יִשְׂרָאֵל הָלוֹךְ וְקָשָׁה עַל יָבִין מֶלֶךְ־כְּנַעַן עַד אֲשֶׁר הִכְרִיתוּ אֵת יָבִין מֶלֶךְ־כְּנָעַן׃",
+    "translit": "Va-telekh yad benei-Yisra'el halokh ve-kashah al Yavin melekh-Kena'an ad asher hikhritu et Yavin melekh-Kena'an.",
+    "tokens": [
+     {
+      "t": "Și mâna copiilor lui Israel s-a "
+     },
+     {
+      "t": "înăsprit din ce în ce",
+      "w": "înăsprit din ce în ce",
+      "heb": "הָלוֹךְ וְקָשָׁה",
+      "translit": "halokh ve-kashah",
+      "strong": "H3212",
+      "pos": "verb, qal infinitiv absolut",
+      "def_ro": "mergea și se întărea.",
+      "dict_ro": "Construcția „halokh ve-...” („mergând și...”) e idiomatică pentru un proces gradual, continuu — victoria nu vine dintr-o singură bătălie decisivă, ci printr-o presiune militară susținută, până la nimicirea completă a puterii lui Iavin."
+     },
+     {
+      "t": " asupra lui Iavin, regele Canaanului, până l-au "
+     },
+     {
+      "t": "nimicit",
+      "w": "nimicit",
+      "heb": "הִכְרִיתוּ",
+      "translit": "hikhritu",
+      "strong": "H3772",
+      "pos": "verb, hifil perfect",
+      "def_ro": "l-au stârpit, l-au nimicit.",
+      "dict_ro": "Rădăcina karat, „a tăia” — la forma cauzativă, „a stârpi complet”, verb tehnic pentru distrugerea definitivă a unei dinastii sau linii regale, încheind ciclul de asuprire descris la începutul capitolului 4."
+     },
+     {
+      "t": " pe Iavin, regele Canaanului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֵּלֶךְ יַד בְּנֵי־יִשְׂרָאֵל הָלוֹךְ וְקָשָׁה עַל יָבִין...",
+      "translation": "„Și mâna copiilor lui Israel s-a înăsprit din ce în ce...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἐπορεύετο χεὶρ τῶν υἱῶν Ἰσραὴλ πορευομένη καὶ σκληρυνομένη ἐπὶ Ἰαβὶν βασιλέα Χαναάν...",
+      "greek": true,
+      "translation": "„și mergea mâna fiilor lui Israel, mergând și întărindu-se, asupra lui Iabin, regele Canaanului...”",
+      "note": "Traducere fidelă structurii ebraice, păstrând construcția idiomatică a infinitivului absolut."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "5:1",
+    "t": "În ziua aceea, Devora și Barak, fiul lui Avinoam, au cântat, spunând:",
+    "heb": "וַתָּשַׁר דְּבוֹרָה וּבָרָק בֶּן־אֲבִינֹעַם בַּיּוֹם הַהוּא לֵאמֹר׃",
+    "translit": "Va-tashar Devorah u-Varak ben-Avino'am ba-yom ha-hu lemor.",
+    "tokens": [
+     {
+      "t": "În ziua aceea, Devora și Barak, fiul lui Avinoam, au "
+     },
+     {
+      "t": "cântat",
+      "w": "cântat",
+      "heb": "וַתָּשַׁר",
+      "translit": "va-tashar",
+      "strong": "H7891",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a cântat.",
+      "dict_ro": "Rădăcina shir, „a cânta” — verbul la forma feminină, deși subiectul e dublu (Devora și Barak), semn gramatical că Devora e autoarea principală a cântării — ecou direct al Cântării Mării (Exodul 15:1), unde Moise și fiii lui Israel cântă, dar Miriam conduce refrenul feminin."
+     },
+     {
+      "t": ", spunând:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתָּשַׁר דְּבוֹרָה וּבָרָק בֶּן־אֲבִינֹעַם בַּיּוֹם הַהוּא לֵאמֹר׃",
+      "translation": "„În ziua aceea, Devora și Barak au cântat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "Καὶ ἦσαν Δεββώρα καὶ Βαρὰκ υἱὸς Ἀβινεὲμ ἐν τῇ ἡμέρᾳ ἐκείνῃ λέγοντες",
+      "greek": true,
+      "translation": "„Și erau Devora și Barac, fiul lui Abineem, în ziua aceea, zicând”",
+      "note": "LXX traduce verbul principal printr-o formă mai vagă „ἦσαν... λέγοντες” („erau... zicând”) în loc de un verb specific „a cânta” — o pierdere a nuanței muzicale explicite prezente în ebraică."
+     }
+    ],
+    "refs": [
+     "Exodul 15:1",
+     "Exodul 15:20-21"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "5:2",
+    "t": "„Când [DOMNUL] aduce răzbunare contra lui Israel, când poporul se consacră – binecuvântați pe DOMNUL!",
+    "heb": "בִּפְרֹעַ פְּרָעוֹת בְּיִשְׂרָאֵל בְּהִתְנַדֵּב עָם בָּרְכוּ יְהוָה׃",
+    "translit": "Bifroa pera'ot be-Yisra'el be-hitnaddev am barekhu Adonai.",
+    "tokens": [
+     {
+      "t": "„Când [DOMNUL] aduce "
+     },
+     {
+      "t": "răzbunare",
+      "w": "răzbunare",
+      "heb": "פְּרָעוֹת",
+      "translit": "pera'ot",
+      "strong": "H6546",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "izbăviri/răzbunări.",
+      "dict_ro": "Para, rădăcină rară și obscură — Rashi o citește ca „bresha, pârjol” prin care dușmanii năvăleau asupra lui Israel din pricina părăsirii Legii; versetul deschide cântarea printr-un cuvânt care rezumă întreg tiparul cărții Judecătorilor: păcat, asuprire, apoi izbăvire."
+     },
+     {
+      "t": " contra lui Israel, când poporul se "
+     },
+     {
+      "t": "consacră",
+      "w": "consacră",
+      "heb": "בְּהִתְנַדֵּב",
+      "translit": "be-hitnaddev",
+      "strong": "H5068",
+      "pos": "verb, hitpael infinitiv",
+      "def_ro": "se oferă de bunăvoie.",
+      "dict_ro": "Rădăcina nadav, „a oferi de bunăvoie” — subliniază caracterul voluntar al mobilizării militare descrise în capitolul 4: nu o poruncă impusă cu forța, ci un răspuns liber al poporului la chemarea Devorei."
+     },
+     {
+      "t": " – binecuvântați pe DOMNUL!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בִּפְרֹעַ פְּרָעוֹת בְּיִשְׂרָאֵל בְּהִתְנַדֵּב עָם בָּרְכוּ יְהוָה׃",
+      "translation": "„Când [DOMNUL] aduce răzbunare contra lui Israel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "Ἀπεκαλύφθη ἀποκάλυμμα ἐν Ἰσραήλ· ἐν τῷ ἑκουσιασθῆναι λαόν, εὐλογεῖτε Κύριον",
+      "greek": true,
+      "translation": "„S-a descoperit o descoperire în Israel; când poporul s-a oferit de bunăvoie, binecuvântați pe Domnul”",
+      "note": "Divergență semnificativă: LXX citește rădăcina obscură „para” ca „a descoperi, a dezvălui” (ἀποκάλυμμα), complet diferit de lectura tradițională „a răzbuna/izbăvi” — o mărturie a dificultății reale a acestui cuvânt pentru orice traducător, antic sau modern."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică versetul de deschidere ca referindu-se la ciclul complet: „când au venit spărturile asupra lui Israel, [dușmanii] care au pătruns printre ei pentru că au părăsit pe DOMNUL, iar poporul s-a oferit de bunăvoie să se întoarcă în pocăință — de-acum, binecuvântați pe DOMNUL pentru izbăvirile pe care le-a făcut”."
+     }
+    ]
+   },
+   {
+    "v": "5:3",
+    "t": "Ascultați, regilor, plecați-vă urechea, domnitorilor! Eu Îi voi cânta DOMNULUI, Îi voi cânta slavă DOMNULUI, Dumnezeului lui Israel.",
+    "heb": "שִׁמְעוּ מְלָכִים הַאֲזִינוּ רֹזְנִים אָנֹכִי לַיהוָה אָנֹכִי אָשִׁירָה אֲזַמֵּר לַיהוָה אֱלֹהֵי יִשְׂרָאֵל׃",
+    "translit": "Shim'u melakhim ha'azinu roznim anokhi l-Adonai anokhi ashirah azammer l-Adonai Elohei Yisra'el.",
+    "tokens": [
+     {
+      "t": "Ascultați, regilor, plecați-vă urechea, "
+     },
+     {
+      "t": "domnitorilor",
+      "w": "domnitorilor",
+      "heb": "רֹזְנִים",
+      "translit": "roznim",
+      "strong": "H7336",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "domnitori, conducători.",
+      "dict_ro": "Rozen, „domnitor, conducător” — cuvânt poetic rar, sinonim cu „melekh” (rege); adresarea directă către regi și domnitori străini transformă acest cântec local într-o proclamație cu ambiție universală, similară invocării „popoarelor” la Cântarea Mării."
+     },
+     {
+      "t": "! Eu Îi voi cânta DOMNULUI, Îi voi cânta "
+     },
+     {
+      "t": "slavă",
+      "w": "slavă",
+      "heb": "אֲזַמֵּר",
+      "translit": "azammer",
+      "strong": "H2167",
+      "pos": "verb, piel imperfect",
+      "def_ro": "voi cânta imn de laudă.",
+      "dict_ro": "Rădăcina zamar, „a cânta [cu instrumente], a preaslăvi” — dublarea verbelor „voi cânta... voi cânta slavă” (ashirah/azammer) intensifică declarația solemnă de deschidere a imnului, tipar poetic comun în psalmi."
+     },
+     {
+      "t": " DOMNULUI, Dumnezeului lui Israel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שִׁמְעוּ מְלָכִים הַאֲזִינוּ רֹזְנִים...",
+      "translation": "„Ascultați, regilor, plecați-vă urechea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἀκούσατε, βασιλεῖς, καὶ ἐνωτίσασθε, σατράπαι· ἐγώ εἰμι τῷ Κυρίῳ, ἐγώ εἰμι, ἄσομαι, ψαλῶ τῷ Κυρίῳ τῷ Θεῷ Ἰσραήλ.",
+      "greek": true,
+      "translation": "„ascultați, regilor, și luați aminte cu urechea, satrapilor; eu sunt al Domnului, eu sunt, voi cânta, voi cânta psalmi Domnului Dumnezeului lui Israel.”",
+      "note": "LXX traduce „roznim” prin „σατράπαι” (satrapi), termen tehnic persan pentru guvernatori regionali — anacronism cultural care arată influența contextului elenistic/persan asupra traducătorilor greci."
+     }
+    ],
+    "refs": [
+     "Exodul 15:1"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "5:4",
+    "t": "DOAMNE, când ai ieșit din Seir, când ai mărșăluit din câmpul Edomului, pământul s-a cutremurat și chiar și cerurile au picurat, chiar și norii au turnat ape.",
+    "heb": "יְהוָה בְּצֵאתְךָ מִשֵּׂעִיר בְּצַעְדְּךָ מִשְּׂדֵה אֱדוֹם אֶרֶץ רָעָשָׁה גַּם־שָׁמַיִם נָטָפוּ גַּם־עָבִים נָטְפוּ מָיִם׃",
+    "translit": "Adonai be-tsetkha mi-Se'ir be-tsad'dekha mi-sdeh Edom erets ra'ashah gam-shamayim natafu gam-avim natfu mayim.",
+    "tokens": [
+     {
+      "t": "DOAMNE, când ai "
+     },
+     {
+      "t": "ieșit din Seir",
+      "w": "ieșit din Seir",
+      "heb": "בְּצֵאתְךָ מִשֵּׂעִיר",
+      "translit": "be-tsetkha mi-Se'ir",
+      "strong": "H8165",
+      "pos": "substantiv, masculin",
+      "def_ro": "la ieșirea Ta din Seir.",
+      "dict_ro": "Se'ir — regiunea muntoasă a Edomului, asociată tradițional cu direcția din care s-a manifestat prezența divină la Sinai; Rashi identifică explicit acest verset cu darea Legii, citind Deuteronom 33:2 („DOMNUL a răsărit din Sinai... a strălucit din Seir”) ca text paralel."
+     },
+     {
+      "t": ", când ai mărșăluit din câmpul Edomului, pământul s-a "
+     },
+     {
+      "t": "cutremurat",
+      "w": "cutremurat",
+      "heb": "רָעָשָׁה",
+      "translit": "ra'ashah",
+      "strong": "H7493",
+      "pos": "verb, qal perfect",
+      "def_ro": "s-a cutremurat.",
+      "dict_ro": "Rădăcina ra'ash, „a se cutremura” — descrie fenomenele cosmice ce au însoțit revelația de la Sinai (cf. Exodul 19:18), reamintite aici ca precedent al intervenției divine active în istorie, aplicat acum la bătălia împotriva lui Sisra."
+     },
+     {
+      "t": " și chiar și cerurile au "
+     },
+     {
+      "t": "picurat",
+      "w": "picurat",
+      "heb": "נָטָפוּ",
+      "translit": "natafu",
+      "strong": "H5197",
+      "pos": "verb, qal perfect",
+      "def_ro": "au picurat.",
+      "dict_ro": "Rashi glosează „natafu” drept „au vărsat rouă de înviere” — o imagine care leagă revelația de la Sinai de o binecuvântare vitală, dătătoare de viață, coborâtă din ceruri, nu doar de un fenomen meteorologic."
+     },
+     {
+      "t": ", chiar și norii au turnat ape."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יְהוָה בְּצֵאתְךָ מִשֵּׂעִיר בְּצַעְדְּךָ מִשְּׂדֵה אֱדוֹם...",
+      "translation": "„DOAMNE, când ai ieșit din Seir...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "Κύριε, ἐν τῇ ἐξόδῳ σου ἐν Σηείρ, ἐν τῷ ἀπαίρειν σε ἐξ ἀγροῦ Ἐδώμ, γῆ ἐσείσθη καὶ ὁ οὐρανὸς ἔσταξε δρόσους, καὶ αἱ νεφέλαι ἔσταξαν ὕδωρ·",
+      "greek": true,
+      "translation": "„Doamne, la ieșirea Ta din Seir, la plecarea Ta din câmpul Edomului, pământul s-a cutremurat, și cerul a picurat rouă, și norii au picurat apă;”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Deuteronom 33:2",
+     "Exodul 19:18",
+     "Psalmul 68:8-9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică acest verset direct cu revelația de la Sinai: „DOAMNE, la ieșirea Ta din Seir” — greu i-a fost Torei să se despartă [de acel loc înalt], dar bună e ea celui ce se alipește de ea, căci a fost dată în teamă și putere; de aceea Israel a fost predat în mâna dușmanilor când s-a despărțit de ea, dar când poporul s-a oferit de bunăvoie s-o urmeze, a fost izbăvit — toate acestea, spune Rashi, se pot învăța din Targumul lui Ionatan."
+     }
+    ]
+   },
+   {
+    "v": "5:5",
+    "t": "Munți au tremurat dinaintea DOMNULUI – acesta este Sinaiul – dinaintea DOMNULUI, Dumnezeului lui Israel.",
+    "heb": "הָרִים נָזְלוּ מִפְּנֵי יְהוָה זֶה סִינַי מִפְּנֵי יְהוָה אֱלֹהֵי יִשְׂרָאֵל׃",
+    "translit": "Harim nazlu mi-penei Adonai zeh Sinai mi-penei Adonai Elohei Yisra'el.",
+    "tokens": [
+     {
+      "t": "Munți au "
+     },
+     {
+      "t": "tremurat",
+      "w": "tremurat",
+      "heb": "נָזְלוּ",
+      "translit": "nazlu",
+      "strong": "H2151",
+      "pos": "verb, qal perfect",
+      "def_ro": "s-au topit/scurs.",
+      "dict_ro": "Rashi glosează „nazlu” prin „s-au topit ca apele curgătoare”, imagine de dizolvare completă a soliditații muntelui în fața prezenței divine — o hiperbolă poetică puternică pentru înfricoșarea cosmică declanșată de teofania de la Sinai."
+     },
+     {
+      "t": " dinaintea DOMNULUI – acesta este "
+     },
+     {
+      "t": "Sinaiul",
+      "w": "Sinaiul",
+      "heb": "סִינַי",
+      "translit": "Sinai",
+      "strong": "H5514",
+      "pos": "nume propriu",
+      "def_ro": "Sinai.",
+      "dict_ro": "Sinai — Rashi explică fraza eliptică „zeh Sinai” prin trimitere directă la Exodul 19:18: „iată ce s-a văzut pe el — fum peste tot, glas, torțe și foc” — versetul rezumă printr-o formulă scurtă întreaga scenă a revelației deja narate în Tora."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הָרִים נָזְלוּ מִפְּנֵי יְהוָה זֶה סִינַי...",
+      "translation": "„Munți au tremurat dinaintea DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ὄρη ἐσαλεύθησαν ἀπὸ προσώπου Κυρίου Ἐλωΐ, τοῦτο Σινὰ ἀπὸ προσώπου Κυρίου Θεοῦ Ἰσραήλ.",
+      "greek": true,
+      "translation": "„munții s-au clătinat dinaintea feței Domnului Eloi, acesta e Sinai, dinaintea feței Domnului Dumnezeului lui Israel.”",
+      "note": "LXX transliterează un titlu divin suplimentar „Ἐλωΐ” (probabil o formă a lui „Elohim” tratată eronat ca nume propriu separat), absent ca atare din structura clară a ebraicei."
+     }
+    ],
+    "refs": [
+     "Exodul 19:18"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică versetul eliptic „acesta e Sinai” prin trimitere directă la relatarea din Exodul: „deja s-a explicat ce s-a văzut pe el — fum peste tot, glas, torțe și foc” — cântarea presupune cunoașterea deja narată a evenimentului de la Sinai, rezumând-o printr-o singură frază."
+     }
+    ]
+   },
+   {
+    "v": "5:6",
+    "t": "În zilele lui Șamgar, fiul lui Anat, în zilele lui Iael, se pustiiseră drumurile, iar drumeții călătoreau pe căi ocolite.",
+    "heb": "בִּימֵי שַׁמְגַּר בֶּן־עֲנָת בִּימֵי יָעֵל חָדְלוּ אֳרָחוֹת וְהֹלְכֵי נְתִיבוֹת יֵלְכוּ אֳרָחוֹת עֲקַלְקַלּוֹת׃",
+    "translit": "Bi-mei Shamgar ben-Anat bi-mei Ya'el chadlu orachot ve-holkhei netivot yelkhu orachot akalkalot.",
+    "tokens": [
+     {
+      "t": "În zilele lui "
+     },
+     {
+      "t": "Șamgar",
+      "w": "Șamgar",
+      "heb": "שַׁמְגַּר",
+      "translit": "Shamgar",
+      "strong": "H8044",
+      "pos": "nume propriu",
+      "def_ro": "Șamgar.",
+      "dict_ro": "Shamgar ben-Anat — judecător menționat pe scurt la Judecători 3:31, cunoscut pentru uciderea a șase sute de filisteni cu un otig de plug; alăturarea lui de Iael în acest verset (deși Iael nu e judecătoare formal) sugerează, după Rashi, că și ea a exercitat o formă de conducere/judecată în acea vreme tulbure."
+     },
+     {
+      "t": ", fiul lui Anat, în zilele lui Iael, se "
+     },
+     {
+      "t": "pustiiseră drumurile",
+      "w": "pustiiseră drumurile",
+      "heb": "חָדְלוּ אֳרָחוֹת",
+      "translit": "chadlu orachot",
+      "strong": "H2308",
+      "pos": "verb, qal perfect",
+      "def_ro": "au încetat drumurile [să fie folosite].",
+      "dict_ro": "Rădăcina chadal, „a înceta” — drumurile principale au fost abandonate din teama de dușmani, oamenii preferând căi lăturalnice, mai sigure dar mai lungi — imagine a insecurității generalizate dinaintea izbăvirii aduse de Devora."
+     },
+     {
+      "t": ", iar drumeții călătoreau pe căi ocolite."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בִּימֵי שַׁמְגַּר בֶּן־עֲנָת בִּימֵי יָעֵל חָדְלוּ אֳרָחוֹת...",
+      "translation": "„În zilele lui Șamgar, fiul lui Anat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἐν ἡμέραις Σαμεγὰρ υἱοῦ Ἀνάθ, ἐν ἡμέραις Ἰαὴλ ἐξέλιπον ὁδοὺς καὶ ἐπορεύθησαν ἀτραπούς, ἐπορεύθησαν ὁδοὺς διεστραμμένας·",
+      "greek": true,
+      "translation": "„în zilele lui Samegar, fiul lui Anat, în zilele Iaelei, au încetat drumurile și au mers pe poteci, au mers pe drumuri strâmbe;”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Judecători 3:31"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi observă mențiunea alăturată a lui Șamgar și a lui Iael: aceasta ne învață că și Iael a judecat pe Israel în zilele ei — atât Șamgar, cât și Iael, deși nu numărați formal printre judecătorii principali, au exercitat totuși o formă de autoritate protectoare asupra poporului în vremuri de mare pericol."
+     }
+    ]
+   },
+   {
+    "v": "5:7",
+    "t": "Încetase [viața locuitorilor din] satele lui Israel, încetase; până când m-am ridicat [eu], Devora, m-am ridicat ca o mamă în Israel.",
+    "heb": "חָדְלוּ פְרָזוֹן בְּיִשְׂרָאֵל חָדֵלּוּ עַד שַׁקַּמְתִּי דְּבוֹרָה שַׁקַּמְתִּי אֵם בְּיִשְׂרָאֵל׃",
+    "translit": "Chadlu ferazon be-Yisra'el chadellu ad shakkamti Devorah shakkamti em be-Yisra'el.",
+    "tokens": [
+     {
+      "t": "Încetase [viața locuitorilor din] "
+     },
+     {
+      "t": "satele",
+      "w": "satele",
+      "heb": "פְרָזוֹן",
+      "translit": "ferazon",
+      "strong": "H6520",
+      "pos": "substantiv, masculin",
+      "def_ro": "satele nefortificate.",
+      "dict_ro": "Perazon — Rashi îl explică drept „cetățile deschise, fără ziduri”, ai căror locuitori au fost siliți să se refugieze în cetăți fortificate din pricina dușmanilor — imagine a colapsului vieții rurale obișnuite sub presiunea asupririi cananeene."
+     },
+     {
+      "t": " lui Israel, încetase; până când m-am ridicat [eu], Devora, m-am ridicat ca o "
+     },
+     {
+      "t": "mamă",
+      "w": "mamă",
+      "heb": "אֵם",
+      "translit": "em",
+      "strong": "H517",
+      "pos": "substantiv, feminin",
+      "def_ro": "mamă.",
+      "dict_ro": "Em, „mamă” — titlu remarcabil de autodesemnare, unic în literatura biblică pentru un lider militar/judecătoresc; Devora se descrie nu ca general sau rege, ci ca figură maternă protectoare, ocrotind un popor altfel lipsit de apărare."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חָדְלוּ פְרָזוֹן בְּיִשְׂרָאֵל חָדֵלּוּ עַד שַׁקַּמְתִּי דְּבוֹרָה...",
+      "translation": "„Încetase [viața locuitorilor din] satele lui Israel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἐξέλιπον δυνατοὶ ἐν Ἰσραήλ, ἐξέλιπον, ἕως οὗ ἀνέστη Δεββώρα, ἕως οὗ ἀνέστη μήτηρ ἐν Ἰσραήλ.",
+      "greek": true,
+      "translation": "„au încetat cei puternici în Israel, au încetat, până s-a ridicat Devora, până s-a ridicat o mamă în Israel.”",
+      "note": "LXX traduce „perazon” prin „δυνατοὶ” („cei puternici, vitejii”), diferit de lectura lui Rashi („satele nefortificate”) — o divergență reală de interpretare a acestui cuvânt rar și disputat."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „perazon” drept cetățile deschise, fără ziduri de apărare, ai căror locuitori au încetat să mai poată trăi liniștit acolo, refugiindu-se în cetăți fortificate din pricina asupririi — situație care s-a schimbat abia odată cu ridicarea Devorei ca „mamă” protectoare a întregului popor."
+     }
+    ]
+   },
+   {
+    "v": "5:8",
+    "t": "[Israel] și-a ales dumnezei noi, iar războiul a venit la porțile lui. Oare s-a văzut vreo pavăză sau vreo suliță printre cei patruzeci de mii ai lui Israel?",
+    "heb": "יִבְחַר אֱלֹהִים חֲדָשִׁים אָז לָחֶם שְׁעָרִים מָגֵן אִם־יֵרָאֶה וָרֹמַח בְּאַרְבָּעִים אֶלֶף בְּיִשְׂרָאֵל׃",
+    "translit": "Yivchar elohim chadashim az lachem she'arim magen im-yera'eh va-romach be-arba'im elef be-Yisra'el.",
+    "tokens": [
+     {
+      "t": "[Israel] și-a ales "
+     },
+     {
+      "t": "dumnezei noi",
+      "w": "dumnezei noi",
+      "heb": "אֱלֹהִים חֲדָשִׁים",
+      "translit": "elohim chadashim",
+      "strong": "H2319",
+      "pos": "adjectiv, masculin plural",
+      "def_ro": "dumnezei noi.",
+      "dict_ro": "Elohim chadashim — cauza directă a suferinței descrise: idolatria, nu doar slăbiciunea militară. Devora identifică rădăcina teologică a crizei înainte de a descrie soluția ei militară, tipar constant al cărții Judecătorilor."
+     },
+     {
+      "t": ", iar războiul a venit la "
+     },
+     {
+      "t": "porțile lui",
+      "w": "porțile lui",
+      "heb": "שְׁעָרִים",
+      "translit": "she'arim",
+      "strong": "H8179",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "porțile [cetăților].",
+      "dict_ro": "Rashi glosează „she'arim” prin „orașe, așezări” (cf. Deuteronom 17:2), nu literalmente porți fizice — dovada consecinței directe: idolatria a adus războiul chiar în interiorul localităților israelite, nu doar la granițe îndepărtate."
+     },
+     {
+      "t": ". Oare s-a văzut vreo "
+     },
+     {
+      "t": "pavăză",
+      "w": "pavăză",
+      "heb": "מָגֵן",
+      "translit": "magen",
+      "strong": "H4043",
+      "pos": "substantiv, masculin",
+      "def_ro": "scut.",
+      "dict_ro": "Magen, „scut” — întrebarea retorică subliniază dezarmarea completă a lui Israel dinaintea confruntării: patruzeci de mii de oameni, dar fără arme adecvate de apărare vizibile — victoria promisă cu atât mai remarcabilă, venind nu din echipament, ci din intervenție divină."
+     },
+     {
+      "t": " sau vreo suliță printre cei patruzeci de mii ai lui Israel?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יִבְחַר אֱלֹהִים חֲדָשִׁים אָז לָחֶם שְׁעָרִים...",
+      "translation": "„[Israel] și-a ales dumnezei noi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἐξελέξαντο θεοὺς καινούς· τότε ἐπολέμησαν πόλεις ἀρχόντων· θυρεὸς ἐὰν ὀφθῇ καὶ λόγχη ἐν τεσσαράκοντα χιλιάσιν ἐν Ἰσραήλ.",
+      "greek": true,
+      "translation": "„și-au ales dumnezei noi; atunci au luptat cetățile conducătorilor; oare s-a văzut scut și suliță la patruzeci de mii în Israel?”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Deuteronom 17:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică logica versetului: când Israel și-a ales dumnezei noi, atunci a fost nevoit să lupte în propriile lui orașe; priviți acum, în oferirea lor de bunăvoie, dacă se vede vreun scut sau suliță pregătite pentru cei patruzeci de mii de căpetenii de oști aduse de vrăjmaș — dezarmarea completă a lui Israel, biruit totuși prin „lupta stelelor” (v.20) și potopul Kișonului."
+     }
+    ]
+   },
+   {
+    "v": "5:9",
+    "t": "Inima mea este cu cei care dau lege în Israel, care sunt dedicați poporului, spunând: «Binecuvântați pe DOMNUL!»",
+    "heb": "לִבִּי לְחוֹקְקֵי יִשְׂרָאֵל הַמִּתְנַדְּבִים בָּעָם בָּרְכוּ יְהוָה׃",
+    "translit": "Libbi le-chokkei Yisra'el ha-mitnaddevim ba-am barekhu Adonai.",
+    "tokens": [
+     {
+      "t": "Inima mea este cu cei care "
+     },
+     {
+      "t": "dau lege",
+      "w": "dau lege",
+      "heb": "לְחוֹקְקֵי",
+      "translit": "le-chokkei",
+      "strong": "H2710",
+      "pos": "verb, poel participiu construct",
+      "def_ro": "cei ce rânduiesc, cei ce dau lege.",
+      "dict_ro": "Rădăcina chakak, „a rândui, a hotărî legi” — desemnează conducătorii/căpeteniile care au organizat efectiv mobilizarea, verb care revine în lista tribală (v.14) pentru Machir și Zevulun, legând acest verset introductiv de catalogul detaliat ce urmează."
+     },
+     {
+      "t": " în Israel, care sunt "
+     },
+     {
+      "t": "dedicați",
+      "w": "dedicați",
+      "heb": "הַמִּתְנַדְּבִים",
+      "translit": "ha-mitnaddevim",
+      "strong": "H5068",
+      "pos": "verb, hitpael participiu",
+      "def_ro": "cei ce se oferă de bunăvoie.",
+      "dict_ro": "Aceeași rădăcină nadav din v.2 — repetiția tematică leagă introducerea cântării de acest al doilea verset de tranziție, înainte de catalogul detaliat al triburilor participante și absente (v.14-18)."
+     },
+     {
+      "t": " poporului, spunând: «Binecuvântați pe DOMNUL!»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לִבִּי לְחוֹקְקֵי יִשְׂרָאֵל הַמִּתְנַדְּבִים בָּעָם...",
+      "translation": "„Inima mea este cu cei care dau lege în Israel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἡ καρδία μου εἰς τὰ διατεταγμένα τῷ Ἰσραήλ· οἱ ἐκουσιαζόμενοι ἐν λαῷ εὐλογεῖτε Κύριον.",
+      "greek": true,
+      "translation": "„inima mea [se îndreaptă] spre cele rânduite lui Israel; cei ce vă oferiți de bunăvoie în popor, binecuvântați pe Domnul.”",
+      "note": "Traducere apropiată, cu o nuanță abstractă (τὰ διατεταγμένα, „cele rânduite”) în locul persoanelor concrete („cei ce dau lege”) din ebraică."
+     }
+    ],
+    "refs": [
+     "Judecători 5:14"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "5:10",
+    "t": "Cei care călăriți pe măgărițe albe, [voi] cei care stați la judecată și voi, cei care mergeți pe drum – vorbiți!",
+    "heb": "רֹכְבֵי אֲתֹנוֹת צְחֹרוֹת יֹשְׁבֵי עַל־מִדִּין וְהֹלְכֵי עַל־דֶּרֶךְ שִׂיחוּ׃",
+    "translit": "Rokhvei atonot tsechorot yoshvei al-middin ve-holkhei al-derekh sichu.",
+    "tokens": [
+     {
+      "t": "Cei care călăriți pe "
+     },
+     {
+      "t": "măgărițe albe",
+      "w": "măgărițe albe",
+      "heb": "אֲתֹנוֹת צְחֹרוֹת",
+      "translit": "atonot tsechorot",
+      "strong": "H860",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "măgărițe albe.",
+      "dict_ro": "Aton tsechorot — semn de statut social înalt în societatea antică israelită; a călări pe o măgăriță albă era apanajul liderilor, judecătorilor și oamenilor bogați, spre deosebire de mersul pe jos al oamenilor de rând."
+     },
+     {
+      "t": ", [voi] cei care stați la "
+     },
+     {
+      "t": "judecată",
+      "w": "judecată",
+      "heb": "מִדִּין",
+      "translit": "middin",
+      "strong": "H4055",
+      "pos": "substantiv, masculin",
+      "def_ro": "judecată, proces.",
+      "dict_ro": "Middin — cuvânt rar, legat de rădăcina din, „a judeca”; se adresează direct clasei judecătorilor și liderilor comunitari, chemați acum să depună mărturie despre minunea izbăvirii, alături de oamenii simpli „ce merg pe drum”."
+     },
+     {
+      "t": " și voi, cei care mergeți pe drum – "
+     },
+     {
+      "t": "vorbiți",
+      "w": "vorbiți",
+      "heb": "שִׂיחוּ",
+      "translit": "sichu",
+      "strong": "H7878",
+      "pos": "verb, qal imperativ",
+      "def_ro": "vorbiți, cugetați cu glas tare.",
+      "dict_ro": "Rădăcina sichah, „a cugeta, a vorbi [meditativ]” — chemare adresată tuturor claselor sociale, de la elită la oamenii simpli, să povestească și să mediteze public asupra evenimentelor extraordinare tocmai narate."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "רֹכְבֵי אֲתֹנוֹת צְחֹרוֹת יֹשְׁבֵי עַל־מִדִּין...",
+      "translation": "„Cei care călăriți pe măgărițe albe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἐπιβεβηκότες ἐπὶ ὄνου θηλείας μεσημβρίας, καθήμενοι ἐπὶ κριτηρίου καὶ πορευόμενοι ἐπὶ ὁδοὺς συνέδρων ἐφ᾿ ὁδῷ,",
+      "greek": true,
+      "translation": "„cei ce călăriți pe măgăriță la amiază, cei ce ședeți la scaunul de judecată și mergeți pe drumurile adunărilor, pe cale,”",
+      "note": "LXX adaugă „la amiază” (μεσημβρίας), absent din ebraică, posibil o lectură diferită a cuvântului „tsechorot” (albe) ca legat de o rădăcină pentru „amiază, lumină puternică”."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "5:11",
+    "t": "În loc de zgomotul șuierător al săgeților printre cei care scot apă, acolo vor pomeni faptele miloase ale DOMNULUI, faptele miloase ale orașelor Sale fără apărare din Israel. Atunci va coborî la porți poporul DOMNULUI.",
+    "heb": "מִקּוֹל מְחַצְצִים בֵּין מַשְׁאַבִּים שָׁם יְתַנּוּ צִדְקוֹת יְהוָה צִדְקֹת פִּרְזֹנוֹ בְּיִשְׂרָאֵל אָז יָרְדוּ לַשְּׁעָרִים עַם־יְהוָה׃",
+    "translit": "Mi-kol mechatstsim bein mash'abbim sham yetannu tsidkot Adonai tsidkot pirzono be-Yisra'el az yardu la-she'arim am-Adonai.",
+    "tokens": [
+     {
+      "t": "În loc de zgomotul șuierător al "
+     },
+     {
+      "t": "săgeților",
+      "w": "săgeților",
+      "heb": "מְחַצְצִים",
+      "translit": "mechatstsim",
+      "strong": "H2686",
+      "pos": "verb, piel participiu",
+      "def_ro": "arcași, trăgători cu săgeata.",
+      "dict_ro": "Rădăcina chats, „săgeată” — imagine sonoră a pericolului: șuieratul săgeților care obișnuiau să-i atace pe cei care se adunau la fântânile publice, un detaliu concret al insecurității cronice dinaintea izbăvirii."
+     },
+     {
+      "t": " printre cei care scot apă, acolo vor "
+     },
+     {
+      "t": "pomeni",
+      "w": "pomeni",
+      "heb": "יְתַנּוּ",
+      "translit": "yetannu",
+      "strong": "H8567",
+      "pos": "verb, piel imperfect",
+      "def_ro": "vor istorisi, vor povesti.",
+      "dict_ro": "Rădăcina tanah, „a povesti, a repeta [o istorisire]” — verb rar, aceeași rădăcină folosită la Judecători 11:40 pentru comemorarea anuală a fiicei lui Iefta; sugerează instituirea unei tradiții narative repetate, nu doar o mențiune trecătoare."
+     },
+     {
+      "t": " faptele miloase ale DOMNULUI, faptele miloase ale orașelor Sale fără apărare din Israel. Atunci va coborî la porți poporul DOMNULUI."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִקּוֹל מְחַצְצִים בֵּין מַשְׁאַבִּים...",
+      "translation": "„În loc de zgomotul șuierător al săgeților...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "διηγεῖσθε ἀπὸ φωνῆς ἀνακρουομένων ἀνὰ μέσον ὑδρευομένων· ἐκεῖ δώσουσι δικαιοσύνας Κυρίῳ...",
+      "greek": true,
+      "translation": "„povestiți de glasul celor ce cântă printre cei ce scot apă; acolo vor da dreptăți Domnului...”",
+      "note": "LXX citește „mechatstsim” ca legat de muzică/cântare (ἀνακρουομένων), nu de săgeți, o divergență semantică reală, diferită de lectura tradițională ebraică a unei rădăcini legate de arme."
+     }
+    ],
+    "refs": [
+     "Judecători 11:40"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "5:12",
+    "t": "Trezește-te, trezește-te, Devora! Trezește-te, trezește-te și zi o cântare! Ridică-te, Barak, și capturează-ți prizonierii, fiu al lui Avinoam!",
+    "heb": "עוּרִי עוּרִי דְּבוֹרָה עוּרִי עוּרִי דַּבְּרִי־שִׁיר קוּם בָּרָק וּשֲׁבֵה שֶׁבְיְךָ בֶּן־אֲבִינֹעַם׃",
+    "translit": "Uri uri Devorah uri uri dabberi-shir kum Varak u-shevei shevyekha ben-Avino'am.",
+    "tokens": [
+     {
+      "t": "„"
+     },
+     {
+      "t": "Trezește-te, trezește-te",
+      "w": "Trezește-te, trezește-te",
+      "heb": "עוּרִי עוּרִי",
+      "translit": "uri uri",
+      "strong": "H5782",
+      "pos": "verb, qal imperativ",
+      "def_ro": "trezește-te! trezește-te!",
+      "dict_ro": "Rădăcina ur, „a se trezi” — repetat de patru ori în acest verset (uri uri... uri uri), cea mai intensă acumulare imperativă din toată cântarea, marcând momentul culminant de auto-invocare a poetei, chemându-se pe sine la actul creator al cântării."
+     },
+     {
+      "t": ", Devora! Trezește-te, trezește-te și zi o cântare! Ridică-te, Barak, și "
+     },
+     {
+      "t": "capturează-ți prizonierii",
+      "w": "capturează-ți prizonierii",
+      "heb": "וּשֲׁבֵה שֶׁבְיְךָ",
+      "translit": "u-shevei shevyekha",
+      "strong": "H7617",
+      "pos": "verb, qal imperativ",
+      "def_ro": "ia-ți captivii, capturează-i.",
+      "dict_ro": "Rădăcina shavah, „a lua captiv” — joc de cuvinte intern (shevei/shevyekha), poruncă adresată lui Barak să-și revendice acum trofeele victoriei, deși — ironie subtilă a întregii cântări — capturarea decisivă a fost deja realizată de Iael, nu de el."
+     },
+     {
+      "t": ", fiu al lui Avinoam!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עוּרִי עוּרִי דְּבוֹרָה עוּרִי עוּרִי דַּבְּרִי־שִׁיר...",
+      "translation": "„Trezește-te, trezește-te, Devora!...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἐξεγείρου, ἐξεγείρου, Δεββώρα. ἐξεγείρου, ἐξεγείρου, λάλησον ᾠδήν· ἀνάστα Βαράκ, καὶ αἰχμαλώτισον αἰχμαλωσίαν σου, υἱὸς Ἀβινεέμ.",
+      "greek": true,
+      "translation": "„trezește-te, trezește-te, Devora. Trezește-te, trezește-te, rostește o cântare; ridică-te, Barac, și ia captivă captivitatea ta, fiul lui Abineem.”",
+      "note": "Traducere fidelă structurii ebraice, păstrând jocul de cuvinte al ebraicei (αἰχμαλώτισον αἰχμαλωσίαν, „ia captivă captivitatea”)."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "5:13",
+    "t": "Atunci cel rămas va domina pe cei puternici din popor, [căci] DOMNUL mi-a dat [puterea] să-i domin pe cei puternici.",
+    "heb": "אָז יְרַד שָׂרִיד לְאַדִּירִים עָם יְהוָה יְרַד־לִי בַּגִּבּוֹרִים׃",
+    "translit": "Az yerad sarid le-addirim am Adonai yerad-li ba-gibborim.",
+    "tokens": [
+     {
+      "t": "Atunci "
+     },
+     {
+      "t": "cel rămas",
+      "w": "cel rămas",
+      "heb": "שָׂרִיד",
+      "translit": "sarid",
+      "strong": "H8300",
+      "pos": "substantiv, masculin",
+      "def_ro": "cel rămas, supraviețuitor.",
+      "dict_ro": "Sarid, „rămășiță, supraviețuitor” — verset extrem de obscur, tradus divers de comentatori; Devora descrie triumful mic-numărul-rămas al israeliților asupra „celor puternici” (cananeenii, bine echipați militar) — victoria disproporției inversate."
+     },
+     {
+      "t": " va domina pe cei puternici din popor, [căci] DOMNUL mi-a dat [puterea] să-i "
+     },
+     {
+      "t": "domin",
+      "w": "domin",
+      "heb": "יְרַד",
+      "translit": "yerad",
+      "strong": "H7287",
+      "pos": "verb, qal imperfect",
+      "def_ro": "va coborî/domina.",
+      "dict_ro": "Rădăcina radah (posibil confundată aici cu yarad, „a coborî”) — ambiguitate lingvistică reală, disputată încă din antichitate (vezi divergența LXX din nota alăturată), reflectând dificultatea intrinsecă a acestui verset pentru orice traducător."
+     },
+     {
+      "t": " pe cei puternici."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אָז יְרַד שָׂרִיד לְאַדִּירִים עָם...",
+      "translation": "„Atunci cel rămas va domina pe cei puternici...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "τότε κατέβη κατάλειμμα τοῖς ἰσχυροῖς, λαὸς Κυρίου κατέβη αὐτῷ ἐν τοῖς κραταιοῖς.",
+      "greek": true,
+      "translation": "„atunci a coborât rămășița către cei puternici, poporul Domnului a coborât către el, printre cei viteji.”",
+      "note": "LXX citește „yerad” consecvent ca „a coborî” (κατέβη), nu ca „a domina” — o divergență interpretativă majoră asupra unui verset recunoscut ca fiind printre cele mai obscure din toată poezia biblică ebraică."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "5:14",
+    "t": "Dinspre Efraim, a cărui rădăcină este în [Ioșua, biruitorul lui] Amalek; te va urma [Șaul, din tribul] Beniamin, cu popoarele tale; de la Mahir s-au coborât cei care dau legea, iar de la Zevulun, cei care țin pana scribilor.",
+    "heb": "מִנִּי אֶפְרַיִם שָׁרְשָׁם בַּעֲמָלֵק אַחֲרֶיךָ בִנְיָמִין בַּעֲמָמֶיךָ מִנִּי מָכִיר יָרְדוּ מְחֹקְקִים וּמִזְּבוּלֻן מֹשְׁכִים בְּשֵׁבֶט סֹפֵר׃",
+    "translit": "Minni Efrayim shorsham ba-Amalek achareikha Vinyamin ba-amameikha minni Makhir yardu mechokkim u-mi-Zevulun moshkhim be-shevet sofer.",
+    "tokens": [
+     {
+      "t": "Dinspre "
+     },
+     {
+      "t": "Efraim",
+      "w": "Efraim",
+      "heb": "אֶפְרַיִם",
+      "translit": "Efrayim",
+      "strong": "H669",
+      "pos": "nume propriu",
+      "def_ro": "Efraim.",
+      "dict_ro": "Rashi citește „shorsham ba-Amalek” („rădăcina lor în Amalek”) ca aluzie profetică la Iosua, din tribul lui Efraim, viitorul biruitor al lui Amalek (Exodul 17:9-13) — versetul leagă strategic acest triumf local de o victorie viitoare, mai mare, a aceluiași trib."
+     },
+     {
+      "t": ", a cărui rădăcină este în [Ioșua, biruitorul lui] Amalek; te va urma [Șaul, din tribul] "
+     },
+     {
+      "t": "Beniamin",
+      "w": "Beniamin",
+      "heb": "בִנְיָמִין",
+      "translit": "Vinyamin",
+      "strong": "H1144",
+      "pos": "nume propriu",
+      "def_ro": "Beniamin.",
+      "dict_ro": "Rashi vede aici o aluzie la Saul, viitorul rege din tribul lui Beniamin, care va lupta cu o oaste de două sute de mii de pedeștri — o a doua profeție încapsulată, alături de cea despre Iosua, în structura genealogică a acestui verset dens."
+     },
+     {
+      "t": ", cu popoarele tale; de la "
+     },
+     {
+      "t": "Mahir",
+      "w": "Mahir",
+      "heb": "מָכִיר",
+      "translit": "Makhir",
+      "strong": "H4353",
+      "pos": "nume propriu",
+      "def_ro": "Mahir — clan din Manase.",
+      "dict_ro": "Makhir — fiul lui Manase, aici reprezentând, prin extensie, triburile Manase și Gad de dincolo de Iordan; Rashi identifică „cei ce dau legea” din acest clan cu marile căpetenii ce au cucerit șaizeci de cetăți în regiunea Argob (Deuteronom 3:4)."
+     },
+     {
+      "t": " s-au coborât cei care dau legea, iar de la Zevulun, cei care țin "
+     },
+     {
+      "t": "pana scribilor",
+      "w": "pana scribilor",
+      "heb": "שֵׁבֶט סֹפֵר",
+      "translit": "shevet sofer",
+      "strong": "H5608",
+      "pos": "substantiv, masculin",
+      "def_ro": "toiagul scribului.",
+      "dict_ro": "Sofer, „scrib” — desemnează, prin extensie, pe cei instruiți în scriere/organizare administrativă, contribuția distinctă a lui Zevulun la mobilizarea militară fiind una organizatorică/administrativă, nu doar de forță brută."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִנִּי אֶפְרַיִם שָׁרְשָׁם בַּעֲמָלֵק אַחֲרֶיךָ בִנְיָמִין בַּעֲמָמֶיךָ...",
+      "translation": "„Dinspre Efraim, a cărui rădăcină este în Amalek...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἐξ ἐμοῦ Ἐφραὶμ ἐξερρίζωσεν αὐτοὺς ἐν τῷ Ἀμαλήκ· ὀπίσω σου Βενιαμὶν ἐν τοῖς λαοῖς σου...",
+      "greek": true,
+      "translation": "„din mine Efraim i-a dezrădăcinat pe ei în Amalek; după tine Beniamin în popoarele tale...”",
+      "note": "LXX citește „minni” ca „din mine” (ἐξ ἐμοῦ), interpretând întreg versetul ca vorbire directă la persoana întâi a Devorei despre propriul ei trib, o structură gramaticală diferită de cea propusă de Rashi (trimitere profetică la Iosua)."
+     }
+    ],
+    "refs": [
+     "Exodul 17:9-13",
+     "Deuteronom 3:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește acest verset dens ca purtând două aluzii profetice încapsulate: „din Efraim a ieșit rădăcina lui Iosua, fiul lui Nun”, viitorul biruitor al lui Amalek prin sabie, iar „după tine, Beniamin” — se va ridica din tribul lui Beniamin Saul, fiul lui Chiș, care va veni cu popoarele sale [o oaste de două sute de mii de pedeștri]."
+     }
+    ]
+   },
+   {
+    "v": "5:15",
+    "t": "Conducătorii lui Isahar au fost cu Devora, iar Isahar a fost precum Barak; în vale a fost trimis pe jos; dar în retragerea lui Ruben s-a pus mult sfat.",
+    "heb": "וְשָׂרַי בְּיִשָּׂשכָר עִם־דְּבֹרָה וְיִשָּׂשכָר כֵּן בָּרָק בָּעֵמֶק שֻׁלַּח בְּרַגְלָיו בִּפְלַגּוֹת רְאוּבֵן גְּדֹלִים חִקְקֵי־לֵב׃",
+    "translit": "Ve-sarai be-Yissakhar im-Devorah ve-Yissakhar ken Varak ba-emek shullach be-raglav bi-flaggot Re'uven gedolim chikkei-lev.",
+    "tokens": [
+     {
+      "t": "Conducătorii lui "
+     },
+     {
+      "t": "Isahar",
+      "w": "Isahar",
+      "heb": "יִשָּׂשכָר",
+      "translit": "Yissakhar",
+      "strong": "H3485",
+      "pos": "nume propriu",
+      "def_ro": "Isahar.",
+      "dict_ro": "Rashi identifică pe „conducătorii lui Isahar” cu membrii Sanhedrinului, cunoscuți pentru „înțelegerea vremurilor” (1 Cronici 12:33) — tribul lui Isahar, tradițional asociat cu studiul Torei, e prezentat aici ca sprijin constant al Devorei în chestiuni de lege și învățătură."
+     },
+     {
+      "t": " au fost cu Devora, iar Isahar a fost precum Barak; în vale a fost trimis pe jos; dar în "
+     },
+     {
+      "t": "retragerea lui Ruben",
+      "w": "retragerea lui Ruben",
+      "heb": "בִּפְלַגּוֹת רְאוּבֵן",
+      "translit": "bi-flaggot Re'uven",
+      "strong": "H6390",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "în diviziunile [inimii] lui Ruben.",
+      "dict_ro": "Peluggah — Rashi glosează prin „nichlei liba”, „viclenii ale inimii”, adică ezitare, indecizie interioară — Ruben deliberase mult, dar în cele din urmă n-a acționat, exact tema criticii ironice reluate la versetul următor."
+     },
+     {
+      "t": " s-a pus mult sfat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְשָׂרַי בְּיִשָּׂשכָר עִם־דְּבֹרָה וְיִשָּׂשכָר כֵּן בָּרָק...",
+      "translation": "„Conducătorii lui Isahar au fost cu Devora...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἀρχηγοὶ ἐν Ἰσσάχαρ μετὰ Δεββώρας καὶ Βαράκ, οὕτω Βαρὰκ ἐν κοιλάσιν ἀπέστειλεν ἐν ποσὶν αὐτοῦ...",
+      "greek": true,
+      "translation": "„și căpeteniile în Isahar cu Devora și cu Barac, așa Barac în văi a trimis pe picioarele lui...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "1 Cronici 12:33"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică pe „conducătorii lui Isahar” cu Sanhedrinul, „cei ce cunosc înțelegerea vremurilor” (1 Cronici 12:33), constant alături de Devora pentru a învăța pe Israel lege și dreptate; restul poporului lui Isahar a fost la fel, alături de Barak, la orice poruncă a lui, adunându-se pentru toate nevoile războiului."
+     }
+    ]
+   },
+   {
+    "v": "5:16",
+    "t": "De ce ai rămas printre hotare să asculți behăitul turmelor? Retragerea lui Ruben a fost mare sfat.",
+    "heb": "לָמָּה יָשַׁבְתָּ בֵּין הַמִּשְׁפְּתַיִם לִשְׁמֹעַ שְׁרִקוֹת עֲדָרִים לִפְלַגּוֹת רְאוּבֵן גְּדוֹלִים חִקְרֵי־לֵב׃",
+    "translit": "Lammah yashavta bein ha-mishpetayim lishmoa shrikot adarim li-flaggot Re'uven gedolim chikrei-lev.",
+    "tokens": [
+     {
+      "t": "De ce ai rămas printre "
+     },
+     {
+      "t": "hotare",
+      "w": "hotare",
+      "heb": "הַמִּשְׁפְּתַיִם",
+      "translit": "ha-mishpetayim",
+      "strong": "H4942",
+      "pos": "substantiv, masculin dual",
+      "def_ro": "cele două îngrădituri [de vite].",
+      "dict_ro": "Mishpetayim — cuvânt rar, formă duală, desemnând probabil două staule/țarcuri pentru turme; imaginea unui trib care preferă confortul păstoritului liniștit refuzului de a se mobiliza pentru luptă, spre deosebire de Zevulun și Neftali (v.18), gata să-și riște viața."
+     },
+     {
+      "t": " să asculți "
+     },
+     {
+      "t": "behăitul turmelor",
+      "w": "behăitul turmelor",
+      "heb": "שְׁרִקוֹת עֲדָרִים",
+      "translit": "shrikot adarim",
+      "strong": "H8292",
+      "pos": "substantiv, feminin",
+      "def_ro": "șuierăturile/behăitul turmelor.",
+      "dict_ro": "Shrikah — sunetul fluierului ciobanului sau al turmelor înseși; imaginea idilică, pastorală, subliniază prin contrast dur reproșul: Ruben a preferat liniștea familiară păstoritului mobilizării la luptă pentru popor."
+     },
+     {
+      "t": "? Retragerea lui Ruben a fost mare sfat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָמָּה יָשַׁבְתָּ בֵּין הַמִּשְׁפְּתַיִם...",
+      "translation": "„De ce ai rămas printre hotare...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "εἰς τί ἐκάθισαν ἀνὰ μέσον τῆς διγομίας τοῦ ἀκοῦσαι συρισμοῦ ἀγγέλων; εἰς διαιρέσεις Ῥουβὴν μεγάλοι ἐξετασμοὶ καρδίας.",
+      "greek": true,
+      "translation": "„de ce au șezut între cele două poveri, ca să audă șuieratul vestitorilor? Pentru dezbinările lui Ruben, mari cercetări ale inimii.”",
+      "note": "LXX traduce „mishpetayim” prin „διγομίας” (poveri duble), o interpretare diferită de imaginea pastorală a lui Rashi (staule pentru turme)."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „chitrei-lev” (viclenia inimii) prin gestul concret al lui Ruben: a stat între graniță și tabăra de luptă, ascultând cine învinge, pentru a se alătura părții câștigătoare — o strategie de amânare oportunistă, ascultând „behăitul turmelor de război” fără să se implice efectiv."
+     }
+    ]
+   },
+   {
+    "v": "5:17",
+    "t": "Ghilad a rămas dincolo de Iordan, iar Dan, de ce și-a adus [avere] în corăbii? Însă Așer a trăit pe malul mării și a trebuit să rămână lângă orașele sale fără apărare.",
+    "heb": "גִּלְעָד בְּעֵבֶר הַיַּרְדֵּן שָׁכֵן וְדָן לָמָּה יָגוּר אֳנִיּוֹת אָשֵׁר יָשַׁב לְחוֹף יַמִּים וְעַל מִפְרָצָיו יִשְׁכּוֹן׃",
+    "translit": "Gilad be-ever ha-Yarden shakhen ve-Dan lammah yagur oniyot Asher yashav le-chof yammim ve-al mifratsav yishkon.",
+    "tokens": [
+     {
+      "t": "Ghilad a rămas dincolo de Iordan, iar "
+     },
+     {
+      "t": "Dan",
+      "w": "Dan",
+      "heb": "דָן",
+      "translit": "Dan",
+      "strong": "H1835",
+      "pos": "nume propriu",
+      "def_ro": "Dan.",
+      "dict_ro": "Rashi explică absența lui Dan prin ocupația lui maritimă: „a introdus avuția lui pe corăbii ca să stea gata de fugă” — critică ascunsă a priorității date comerțului și securității materiale în locul mobilizării pentru luptă."
+     },
+     {
+      "t": ", de ce și-a adus [avere] în corăbii? Însă "
+     },
+     {
+      "t": "Așer",
+      "w": "Așer",
+      "heb": "אָשֵׁר",
+      "translit": "Asher",
+      "strong": "H836",
+      "pos": "nume propriu",
+      "def_ro": "Așer.",
+      "dict_ro": "Rashi citește absența lui Așer diferit: „a rămas să păzească spărturile [breșele] țării lui”, o interpretare mai indulgentă decât cea aplicată lui Ruben sau Dan — teritoriul lui de coastă necesita apărare defensivă permanentă, nu doar refuz de participare."
+     },
+     {
+      "t": " a trăit pe malul mării și a trebuit să rămână lângă orașele sale fără apărare."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "גִּלְעָד בְּעֵבֶר הַיַּרְדֵּן שָׁכֵן וְדָן לָמָּה יָגוּר אֳנִיּוֹת...",
+      "translation": "„Ghilad a rămas dincolo de Iordan...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "Γαλαὰδ ἐν τῷ πέραν τοῦ Ἰορδάνου ἐσκήνωσε· καὶ Δὰν εἰς τί παροικεῖ πλοίοις; Ἀσὴρ ἐκάθισε παραλίαν θαλασσῶν...",
+      "greek": true,
+      "translation": "„Galaad dincolo de Iordan a locuit; și Dan, de ce locuiește lângă corăbii? Așer a șezut la malul mărilor...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi distinge nuanțat cele patru triburi absente de la luptă: Ruben (viclenie/ezitare calculată), Dan (prioritate acordată comerțului maritim și fugii pregătite), Ghilad/Gad-Manase (rămași confortabil pe teritoriul lor de dincolo de Iordan), dar Așer e tratat mai indulgent — a rămas să apere breșele propriului teritoriu costier, nu din simplă indiferență."
+     }
+    ]
+   },
+   {
+    "v": "5:18",
+    "t": "Zevulun este un popor care își riscă viața până la moarte, iar Naftali, pe înălțimile câmpului de bătălie.",
+    "heb": "זְבֻלוּן עַם חֵרֵף נַפְשׁוֹ לָמוּת וְנַפְתָּלִי עַל מְרוֹמֵי שָׂדֶה׃",
+    "translit": "Zevulun am cheref nafsho lamut ve-Naftali al meromei sadeh.",
+    "tokens": [
+     {
+      "t": "Zevulun este un popor care "
+     },
+     {
+      "t": "își riscă viața",
+      "w": "își riscă viața",
+      "heb": "חֵרֵף נַפְשׁוֹ",
+      "translit": "cheref nafsho",
+      "strong": "H2778",
+      "pos": "verb, piel perfect",
+      "def_ro": "și-a disprețuit/riscat viața.",
+      "dict_ro": "Rădăcina charaf, „a sfida, a disprețui [pericolul]” — contrast direct și deliberat cu triburile absente enumerate anterior: Zevulun și Neftali (menționate deja ca aliați principali la 4:6, 10) își asumă riscul suprem, fără ezitare sau calcul defensiv."
+     },
+     {
+      "t": " până la moarte, iar Naftali, pe "
+     },
+     {
+      "t": "înălțimile câmpului de bătălie",
+      "w": "înălțimile câmpului de bătălie",
+      "heb": "מְרוֹמֵי שָׂדֶה",
+      "translit": "meromei sadeh",
+      "strong": "H4791",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "înălțimile câmpiei.",
+      "dict_ro": "Rashi identifică aceste înălțimi cu muntele Tabor însuși, locul de plecare al atacului condus de Barak — Neftali încheie catalogul tribal exact acolo unde a început acțiunea narativă din capitolul 4."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "זְבֻלוּן עַם חֵרֵף נַפְשׁוֹ לָמוּת וְנַפְתָּלִי עַל מְרוֹמֵי שָׂדֶה׃",
+      "translation": "„Zevulun este un popor care își riscă viața...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "Ζαβουλὼν λαὸς ὠνείδισε ψυχὴν αὐτοῦ εἰς θάνατον καὶ Νεφθαλὶ ἐπὶ ὕψη ἀγροῦ.",
+      "greek": true,
+      "translation": "„Zabulon, popor care și-a disprețuit sufletul spre moarte, și Neftali pe înălțimile câmpului.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Judecători 4:6",
+     "Judecători 4:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică „înălțimile câmpului” cu muntele Tabor, locul din care Barak a coborât la atac (4:14) — Zevulun și Neftali, singurele triburi lăudate fără rezervă în această cântare, sunt exact cele care au format nucleul armatei mobilizate de la începutul capitolului 4."
+     }
+    ]
+   },
+   {
+    "v": "5:19",
+    "t": "Regi au venit și au luptat [alături de Sisra], apoi regii Canaanului s-au luptat în Taanah până la apele din Meghido, și niciun câștig în bani nu au primit.",
+    "heb": "בָּאוּ מְלָכִים נִלְחָמוּ אָז נִלְחֲמוּ מַלְכֵי כְנַעַן בְּתַעְנַךְ עַל־מֵי מְגִדּוֹ בֶּצַע כֶּסֶף לֹא לָקָחוּ׃",
+    "translit": "Ba'u melakhim nilchamu az nilchamu malkhei Khena'an be-Ta'nakh al-mei Megiddo betsa kesef lo lakachu.",
+    "tokens": [
+     {
+      "t": "Regi au venit și au luptat [alături de Sisra], apoi regii Canaanului s-au luptat în "
+     },
+     {
+      "t": "Taanah",
+      "w": "Taanah",
+      "heb": "תַעְנַךְ",
+      "translit": "Ta'nakh",
+      "strong": "H8590",
+      "pos": "nume propriu",
+      "def_ro": "Taanah.",
+      "dict_ro": "Ta'nakh — cetate cananeeană importantă în valea Izreel, aproape de Meghido; ambele localități formau vechiul teatru strategic al bătăliilor decisive din regiune, reconfirmat aici ca loc al înfrângerii cananeene."
+     },
+     {
+      "t": " până la apele din "
+     },
+     {
+      "t": "Meghido",
+      "w": "Meghido",
+      "heb": "מְגִדּוֹ",
+      "translit": "Megiddo",
+      "strong": "H4023",
+      "pos": "nume propriu",
+      "def_ro": "Meghido.",
+      "dict_ro": "Meghido — cetate-cheie a văii Izreel, ulterior sursă a numelui „Armaghedon” (har Meghido, „muntele Meghido”) în literatura apocaliptică — locul acestei victorii timpurii devine, peste secole, simbol al bătăliei finale."
+     },
+     {
+      "t": ", și niciun "
+     },
+     {
+      "t": "câștig în bani",
+      "w": "câștig în bani",
+      "heb": "בֶּצַע כֶּסֶף",
+      "translit": "betsa kesef",
+      "strong": "H1215",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "câștig de argint.",
+      "dict_ro": "Betsa, „câștig [necinstit], profit” — subliniere ironică: regii cananeeni, deși motivați de speranța prăzii, n-au câștigat nimic — coaliția lor s-a încheiat în înfrângere totală, fără nicio recompensă materială pentru riscul asumat."
+     },
+     {
+      "t": " nu au primit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בָּאוּ מְלָכִים נִלְחָמוּ אָז נִלְחֲמוּ מַלְכֵי כְנַעַן...",
+      "translation": "„Regi au venit și au luptat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἦλθον αὐτῶν βασιλεῖς, παρετάξαντο, τότε ἐπολέμησαν βασιλεῖς Χαναὰν ἐν Θαναὰχ ἐπὶ ὕδατι Μαγεδδώ· δῶρον ἀργυρίου οὐκ ἔλαβον.",
+      "greek": true,
+      "translation": "„au venit regii lor, s-au așezat în ordine de luptă, atunci au luptat regii Canaanului în Tanaah, la apa Mageddo; dar de argint ca dar n-au luat.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Apocalipsa 16:16"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "5:20",
+    "t": "Din ceruri au luptat, stelele de pe cărările lor au luptat împotriva lui Sisra.",
+    "heb": "מִן־שָׁמַיִם נִלְחָמוּ הַכּוֹכָבִים מִמְּסִלּוֹתָם נִלְחֲמוּ עִם־סִיסְרָא׃",
+    "translit": "Min-shamayim nilchamu ha-kokhavim mi-mesillotam nilchamu im-Sisra.",
+    "tokens": [
+     {
+      "t": "Din ceruri au luptat, "
+     },
+     {
+      "t": "stelele",
+      "w": "stelele",
+      "heb": "הַכּוֹכָבִים",
+      "translit": "ha-kokhavim",
+      "strong": "H3556",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "stelele.",
+      "dict_ro": "Kokhavim, „stele” — Rashi, urmând tradiția talmudică (citată la v.8), interpretează acest verset ca aluzie la o intervenție astronomică/meteorologică reală, poate legată de căderea unei ploi torențiale sau grindine care a imobilizat carele de fier ale lui Sisra în noroi — o „luptă cosmică” de partea lui Israel."
+     },
+     {
+      "t": " de pe cărările lor au luptat împotriva lui Sisra."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִן־שָׁמַיִם נִלְחָמוּ הַכּוֹכָבִים מִמְּסִלּוֹתָם...",
+      "translation": "„Din ceruri au luptat, stelele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἐξ οὐρανοῦ παρετάξαντο οἱ ἀστέρες, ἐκ τρίβων αὐτῶν παρετάξαντο μετὰ Σισάρα.",
+      "greek": true,
+      "translation": "„din cer s-au așezat în luptă stelele, de pe cărările lor s-au așezat în luptă cu Sisara.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Judecători 5:8"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "5:21",
+    "t": "Valea Kișon i-a măturat – valea cea străveche, Valea Kișon – eu însămi i-am călcat în picioare cu forță!",
+    "heb": "נַחַל קִישׁוֹן גְּרָפָם נַחַל קְדוּמִים נַחַל קִישׁוֹן תִּדְרְכִי נַפְשִׁי עֹז׃",
+    "translit": "Nachal Kishon gerafam nachal kedumim nachal Kishon tidrekhi nafshi oz.",
+    "tokens": [
+     {
+      "t": "Valea Kișon i-a "
+     },
+     {
+      "t": "măturat",
+      "w": "măturat",
+      "heb": "גְּרָפָם",
+      "translit": "gerafam",
+      "strong": "H1640",
+      "pos": "verb, qal perfect",
+      "def_ro": "i-a măturat, i-a luat pe sus.",
+      "dict_ro": "Rădăcina garaf, „a mătura [cu un potop]” — confirmă interpretarea rolului activ al viiturii de apă: carele de fier ale lui Sisra, imobilizate în mâl, au fost apoi pur și simplu luate de puhoiul revărsat al Kișonului, transformat din obstacol geografic în armă divină."
+     },
+     {
+      "t": " – valea cea "
+     },
+     {
+      "t": "străveche",
+      "w": "străveche",
+      "heb": "קְדוּמִים",
+      "translit": "kedumim",
+      "strong": "H6924",
+      "pos": "adjectiv, masculin plural",
+      "def_ro": "vechi, dintru început.",
+      "dict_ro": "Kedumim, „vechi, primordial” — epitet neobișnuit, poate evocând ideea că natura însăși, de la creație, a fost rânduită să servească acest scop de judecată, exact la momentul potrivit."
+     },
+     {
+      "t": " – eu însămi i-am "
+     },
+     {
+      "t": "călcat în picioare",
+      "w": "călcat în picioare",
+      "heb": "תִּדְרְכִי",
+      "translit": "tidrekhi",
+      "strong": "H1869",
+      "pos": "verb, qal imperfect",
+      "def_ro": "voi călca [triumfător].",
+      "dict_ro": "Rădăcina darakh, „a călca, a păși cu putere” — Devora vorbește acum la persoana întâi, identificându-se emoțional total cu triumful narat, imaginea unei călcări triumfătoare, ferme, peste dușmanul înfrânt."
+     },
+     {
+      "t": " cu forță!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "נַחַל קִישׁוֹן גְּרָפָם נַחַל קְדוּמִים נַחַל קִישׁוֹן...",
+      "translation": "„Valea Kișon i-a măturat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "χειμάρρους Κισῶν ἐξέσυρεν αὐτούς, χειμάρρους ἀρχαίων, χειμάρρους Κισῶν· καταπατήσει αὐτὸν ψυχή μου δυνατή.",
+      "greek": true,
+      "translation": "„pârâul Kison i-a târât, pârâul celor vechi, pârâul Kison; îl va călca sufletul meu puternic.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi leagă acest verset direct de „lupta stelelor” din v.20: intervenția astrală/meteorologică s-a manifestat concret printr-o revărsare a apelor Kișonului, care a măturat carele de fier deja imobilizate în noroi — o dublă imagine a intervenției divine, cosmică și geografică deopotrivă, cooperând pentru victoria lui Israel."
+     }
+    ]
+   },
+   {
+    "v": "5:22",
+    "t": "Apoi copitele cailor au tropăit în galop, galopul călăreților săi viteji.",
+    "heb": "אָז הָלְמוּ עִקְּבֵי־סוּס מִדַּהֲרוֹת דַּהֲרוֹת אַבִּירָיו׃",
+    "translit": "Az halmu ikkevei-sus mi-daharot daharot abbirav.",
+    "tokens": [
+     {
+      "t": "Apoi "
+     },
+     {
+      "t": "copitele cailor",
+      "w": "copitele cailor",
+      "heb": "עִקְּבֵי־סוּס",
+      "translit": "ikkevei-sus",
+      "strong": "H6119",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "copitele calului.",
+      "dict_ro": "Ikvei-sus — imagine sonoră vie a haosului galopului dezordonat, cai fugind panicat prin noroiul înmuiat de ploaie, dovadă concretă a confuziei totale provocate armatei cananeene."
+     },
+     {
+      "t": " au "
+     },
+     {
+      "t": "tropăit",
+      "w": "tropăit",
+      "heb": "הָלְמוּ",
+      "translit": "halmu",
+      "strong": "H1986",
+      "pos": "verb, qal perfect",
+      "def_ro": "au bătut, au tropăit.",
+      "dict_ro": "Rădăcina halam, „a lovi, a bate” — aceeași rădăcină ca la v.26, unde Iael „lovește” capul lui Sisra cu ciocanul, un ecou verbal intenționat între lovitura haotică a copitelor fugărite și lovitura fatală, precisă, care va urma."
+     },
+     {
+      "t": " în galop, galopul călăreților săi viteji."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אָז הָלְמוּ עִקְּבֵי־סוּס מִדַּהֲרוֹת דַּהֲרוֹת אַבִּירָיו׃",
+      "translation": "„Apoi copitele cailor au tropăit în galop...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ὅτε ἐνεποδίσθησαν πτέρναι ἵππου, σπουδῇ ἔσπευσαν ἰσχυροὶ αὐτοῦ.",
+      "greek": true,
+      "translation": "„când s-au împiedicat copitele calului, s-au grăbit cu urgență cei puternici ai lui.”",
+      "note": "LXX subliniază explicit „împiedicarea” copitelor, confirmând lectura tradițională a cailor blocați/derutați în teren noroios, ecou al viiturii Kișonului din versetul anterior."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "5:23",
+    "t": "«Blestemați-l pe Meroz!», a spus îngerul DOMNULUI. «Blestemați, blestemați sunt locuitorii săi, căci n-au venit în ajutorul DOMNULUI, să-L ajute pe DOMNUL împotriva celor puternici.»",
+    "heb": "אוֹרוּ מֵרוֹז אָמַר מַלְאַךְ יְהוָה אֹרוּ אָרוֹר יֹשְׁבֶיהָ כִּי לֹא־בָאוּ לְעֶזְרַת יְהוָה לְעֶזְרַת יְהוָה בַּגִּבּוֹרִים׃",
+    "translit": "Oru Meroz amar mal'akh Adonai oru aror yoshveha ki lo-va'u le-ezrat Adonai le-ezrat Adonai ba-gibborim.",
+    "tokens": [
+     {
+      "t": "«"
+     },
+     {
+      "t": "Blestemați-l",
+      "w": "Blestemați-l",
+      "heb": "אוֹרוּ",
+      "translit": "oru",
+      "strong": "H779",
+      "pos": "verb, qal imperativ",
+      "def_ro": "blestemați!",
+      "dict_ro": "Rădăcina arar, „a blestema” — verbul deschide unicul blestem rostit explicit de „îngerul DOMNULUI” în toată Cartea Judecătorilor, un act de severitate extraordinară, îndreptat nu împotriva unui dușman, ci împotriva unui oraș israelit care a refuzat implicarea."
+     },
+     {
+      "t": " pe "
+     },
+     {
+      "t": "Meroz",
+      "w": "Meroz",
+      "heb": "מֵרוֹז",
+      "translit": "Meroz",
+      "strong": "H4789",
+      "pos": "nume propriu",
+      "def_ro": "Meroz.",
+      "dict_ro": "Meroz — localitate necunoscută astăzi cu precizie, dar identificată de tradiție ca fiind aproape de locul bătăliei; Rashi citește dezbaterea talmudică asupra identității ei — „unii spun că era o stea, alții că era un om important” — care n-a venit în ajutor, deși situat aproape de teatrul confruntării."
+     },
+     {
+      "t": "!», a spus îngerul DOMNULUI. «Blestemați, blestemați sunt locuitorii săi, căci n-au venit în ajutorul DOMNULUI, să-L ajute pe DOMNUL împotriva celor puternici.»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אוֹרוּ מֵרוֹז אָמַר מַלְאַךְ יְהוָה אֹרוּ אָרוֹר יֹשְׁבֶיהָ...",
+      "translation": "„«Blestemați-l pe Meroz!»...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καταρᾶσθε Μηρώζ, εἶπεν ἄγγελος Κυρίου, καταρᾶσθε, ἐπικατάρατος πᾶς ὁ κατοικῶν αὐτήν...",
+      "greek": true,
+      "translation": "„blestemați Meroz, a zis îngerul Domnului, blestemați, blestemat tot cel ce locuiește în ea...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește tradiția talmudică (Mo'ed Katan 16a) despre identitatea lui Meroz: unii spun că era o stea, alții că era un om important, aflat aproape de locul bătăliei, dar care n-a venit în ajutor — explică „îngerul DOMNULUI” drept vocea lui Barak însuși, rostind acest blestem prin autoritatea delegată de Cel Sfânt; „locuitorii ei” fiind sortiți excomunicării de patru sute de ori, câte una pentru fiecare trâmbiță de blestem."
+     }
+    ]
+   },
+   {
+    "v": "5:24",
+    "t": "Binecuvântată de către femei este Iael, soția lui Hever chenitul, între femeile care locuiesc în corturi să fie binecuvântată!",
+    "heb": "תְּבֹרַךְ מִנָּשִׁים יָעֵל אֵשֶׁת חֶבֶר הַקֵּינִי מִנָּשִׁים בָּאֹהֶל תְּבֹרָךְ׃",
+    "translit": "Tevorakh minnashim Ya'el eshet Chever ha-Keini minnashim ba-ohel tevorakh.",
+    "tokens": [
+     {
+      "t": "Binecuvântată de către "
+     },
+     {
+      "t": "femei",
+      "w": "femei",
+      "heb": "מִנָּשִׁים",
+      "translit": "minnashim",
+      "strong": "H802",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "mai mult decât femeile, dintre femei.",
+      "dict_ro": "Rashi identifică grupul de „femei [din cort]” cu matriarhele — Sara („iată, în cort”, Geneza 18:9), Rebeca (dusă „în cortul” Sarei, Geneza 24:67), Rahela și Lea (asociate cu „cortul Leei”, Geneza 31:33) — Iael e binecuvântată în raport direct cu aceste modele supreme de virtute biblică feminină."
+     },
+     {
+      "t": " este Iael, soția lui Hever chenitul, între femeile care locuiesc în "
+     },
+     {
+      "t": "corturi",
+      "w": "corturi",
+      "heb": "בָּאֹהֶל",
+      "translit": "ba-ohel",
+      "strong": "H168",
+      "pos": "substantiv, masculin",
+      "def_ro": "în cort.",
+      "dict_ro": "Ohel, „cort” — Rashi oferă o a doua explicație: Iael însăși era femeie de cort (nomadă), motiv suplimentar pentru care e amintită special în „binecuvântarea corturilor”, alături de matriarhe."
+     },
+     {
+      "t": " să fie binecuvântată!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "תְּבֹרַךְ מִנָּשִׁים יָעֵל אֵשֶׁת חֶבֶר הַקֵּינִי...",
+      "translation": "„Binecuvântată de către femei este Iael...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "εὐλογηθείη ἐν γυναιξὶν Ἰαὴλ γυνὴ Χαβὲρ τοῦ Κιναίου, ἀπὸ γυναικῶν ἐν σκηναῖς εὐλογηθείη.",
+      "greek": true,
+      "translation": "„binecuvântată să fie între femei Iael, femeia lui Haber Chineul, dintre femeile în corturi să fie binecuvântată.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Geneza 18:9",
+     "Geneza 24:67",
+     "Geneza 31:33"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică „femeile din cort” cu matriarhele — Sara, Rebeca, Rahela și Lea, fiecare legată explicit în Tora de imaginea cortului — Devora o așează pe Iael, printr-un gest de mare cinstire poetică, alături de cele mai venerate figuri feminine ale tradiției patriarhale, deși ea, spre deosebire de ele, o provine dintr-un neam neevreu."
+     }
+    ]
+   },
+   {
+    "v": "5:25",
+    "t": "El a cerut apă, iar ea i-a dat lapte; într-un bol al nobilimii i-a adus unt.",
+    "heb": "מַיִם שָׁאַל חָלָב נָתָנָה בְּסֵפֶל אַדִּירִים הִקְרִיבָה חֶמְאָה׃",
+    "translit": "Mayim sha'al chalav natanah be-sefel addirim hikrivah chem'ah.",
+    "tokens": [
+     {
+      "t": "El a cerut apă, iar ea i-a dat lapte; într-un "
+     },
+     {
+      "t": "bol al nobilimii",
+      "w": "bol al nobilimii",
+      "heb": "סֵפֶל אַדִּירִים",
+      "translit": "sefel addirim",
+      "strong": "H5602",
+      "pos": "substantiv, masculin",
+      "def_ro": "vas/bol al celor de vază.",
+      "dict_ro": "Rashi explică „sefel addirim” drept vasul din care se bea apă (numită idiomatic „ape puternice” la Exodul 15:10) — Iael îi oferă lui Sisra ospitalitatea din cel mai nobil vas al gospodăriei, sporind falsa impresie de bun venit onorific."
+     },
+     {
+      "t": " i-a adus "
+     },
+     {
+      "t": "unt",
+      "w": "unt",
+      "heb": "חֶמְאָה",
+      "translit": "chem'ah",
+      "strong": "H2529",
+      "pos": "substantiv, feminin",
+      "def_ro": "unt, smântână.",
+      "dict_ro": "Chem'ah — dincolo de laptele simplu cerut, Iael oferă un aliment și mai bogat, mai greu, accentuând stratagema: ospitalitatea generoasă, aparent onorifică, e de fapt concepută să adâncească somnul epuizat al fugarului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מַיִם שָׁאַל חָלָב נָתָנָה בְּסֵפֶל אַדִּירִים הִקְרִיבָה חֶמְאָה׃",
+      "translation": "„El a cerut apă, iar ea i-a dat lapte...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ὕδωρ ᾔτησε, γάλα ἔδωκεν, ἐν λεκάνῃ ὑπερεχόντων προσήνεγκε βούτυρον.",
+      "greek": true,
+      "translation": "„apă a cerut, lapte a dat, într-un vas al celor de vază a adus unt.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Exodul 15:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „sefel addirim” prin trimitere la Exodul 15:10, unde apele mării sunt numite „ape puternice” — vasul din care Iael îl adapă pe Sisra e cel mai de cinste al gospodăriei sale, servind ospitalitatea cu o generozitate care ascunde perfect intenția reală."
+     }
+    ]
+   },
+   {
+    "v": "5:26",
+    "t": "Mâna și-a întins-o către țăruș și dreapta ei către ciocanul lucrătorilor; și l-a lovit pe Sisra, i-a zdrobit capul, i-a sfărâmat și i-a străpuns tâmpla.",
+    "heb": "יָדָהּ לַיָּתֵד תִּשְׁלַחְנָה וִימִינָהּ לְהַלְמוּת עֲמֵלִים וְהָלְמָה סִיסְרָא מָחֲקָה רֹאשׁוֹ וּמָחֲצָה וְחָלְפָה רַקָּתוֹ׃",
+    "translit": "Yadah la-yated tishlachnah vi-minah le-halmut amelim ve-halmah Sisra machakah rosho u-machatsah ve-chalfah rakato.",
+    "tokens": [
+     {
+      "t": "Mâna și-a întins-o către țăruș și dreapta ei către "
+     },
+     {
+      "t": "ciocanul lucrătorilor",
+      "w": "ciocanul lucrătorilor",
+      "heb": "הַלְמוּת עֲמֵלִים",
+      "translit": "halmut amelim",
+      "strong": "H1993",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "ciocanul celor osteniți.",
+      "dict_ro": "Rashi identifică pe „cel ostenit” chiar cu Sisra: „ciocanul [pentru] Sisra, care era ostenit și obosit” — jocul de cuvinte leagă unealta obișnuită de muncă domestică direct de victima ei, transformând un obiect banal în armă de judecată."
+     },
+     {
+      "t": "; și l-a lovit pe Sisra, i-a "
+     },
+     {
+      "t": "zdrobit capul",
+      "w": "zdrobit capul",
+      "heb": "מָחֲקָה רֹאשׁוֹ",
+      "translit": "machakah rosho",
+      "strong": "H4272",
+      "pos": "verb, qal perfect",
+      "def_ro": "i-a zdrobit capul.",
+      "dict_ro": "Rashi glosează „machakah” prin „lashon chikkui”, „limbaj de ștergere/lovire”, iar „u-machatsah” prin rădăcina obișnuită pentru „a lovi puternic” — trei verbe consecutive de violență (machakah, machatsah, chalfah) descriu, în cadență poetică staccato, actul letal cu o precizie clinică neobișnuită pentru poezia biblică."
+     },
+     {
+      "t": ", i-a sfărâmat și i-a "
+     },
+     {
+      "t": "străpuns tâmpla",
+      "w": "străpuns tâmpla",
+      "heb": "וְחָלְפָה רַקָּתוֹ",
+      "translit": "ve-chalfah rakato",
+      "strong": "H2498",
+      "pos": "verb, qal perfect",
+      "def_ro": "i-a străpuns tâmpla.",
+      "dict_ro": "Rădăcina chalaf, „a trece prin, a străpunge” — confirmă, în versuri poetice, detaliul deja narat în proză la 4:21: țărușul străpunge complet tâmpla, fixând trupul lui Sisra la pământ."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יָדָהּ לַיָּתֵד תִּשְׁלַחְנָה וִימִינָהּ לְהַלְמוּת עֲמֵלִים...",
+      "translation": "„Mâna și-a întins-o către țăruș...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "χεῖρα αὐτῆς ἀριστερὰν εἰς πάσσαλον ἐξέτεινε καὶ δεξιὰν αὐτῆς εἰς σφῦραν κοπιώντων καὶ ἐσφυροκόπησε Σισάρα...",
+      "greek": true,
+      "translation": "„mâna ei stângă a întins-o spre țăruș, și dreapta ei spre ciocanul lucrătorilor, și l-a lovit cu ciocanul pe Sisara...”",
+      "note": "LXX adaugă precizarea „mâna stângă” (ἀριστερὰν), absentă din ebraică, oferind un detaliu coregrafic suplimentar al gestului dublu-mânuit al Iaelei."
+     }
+    ],
+    "refs": [
+     "Judecători 4:21"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „le-halmut amelim” drept „ciocanul [pentru lovirea celui] ostenit”, identificând direct pe „cel ostenit” cu Sisra însuși, epuizat de fugă și de luptă — verbele consecutive de lovire, zdrobire și străpungere descriu cu o precizie neobișnuit de detaliată actul care încheie definitiv soarta comandantului cananean."
+     }
+    ]
+   },
+   {
+    "v": "5:27",
+    "t": "Între picioarele ei a îngenunchiat, s-a prăvălit și a fost culcat [la pământ], între picioarele ei a îngenunchiat și a căzut, acolo unde a îngenunchiat a căzut învins.",
+    "heb": "בֵּין רַגְלֶיהָ כָּרַע נָפַל שָׁכָב בֵּין רַגְלֶיהָ כָּרַע נָפָל בַּאֲשֶׁר כָּרַע שָׁם נָפַל שָׁדוּד׃",
+    "translit": "Bein raglehah kara nafal shakhav bein raglehah kara nafal ba-asher kara sham nafal shadud.",
+    "tokens": [
+     {
+      "t": "Între picioarele ei a "
+     },
+     {
+      "t": "îngenunchiat",
+      "w": "îngenunchiat",
+      "heb": "כָּרַע",
+      "translit": "kara",
+      "strong": "H3766",
+      "pos": "verb, qal perfect",
+      "def_ro": "a îngenunchiat, s-a plecat.",
+      "dict_ro": "Rădăcina kara, „a se pleca, a îngenunchia” — repetat de trei ori în acest verset intens, alături de nafal („a cădea”, tot de trei ori), o acumulare poetică rară care zăbovește deliberat asupra momentului final, prelungind imaginea prăbușirii complete a lui Sisra."
+     },
+     {
+      "t": ", s-a prăvălit și a fost culcat [la pământ], între picioarele ei a îngenunchiat și a căzut, acolo unde a îngenunchiat a căzut "
+     },
+     {
+      "t": "învins",
+      "w": "învins",
+      "heb": "שָׁדוּד",
+      "translit": "shadud",
+      "strong": "H7703",
+      "pos": "verb, qal pasiv participiu",
+      "def_ro": "jefuit, distrus, învins.",
+      "dict_ro": "Rădăcina shadad, „a jefui, a distruge” — ultimul cuvânt al scenei, sigilând definitiv soarta lui Sisra: nu doar mort, ci complet „distrus”, orice urmă de statut sau demnitate anterioară fiind ștearsă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בֵּין רַגְלֶיהָ כָּרַע נָפַל שָׁכָב בֵּין רַגְלֶיהָ כָּרַע נָפָל...",
+      "translation": "„Între picioarele ei a îngenunchiat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἀνὰ μέσον τῶν ποδῶν αὐτῆς κατεκυλίσθη, ἔπεσε καὶ ἐκοιμήθη...",
+      "greek": true,
+      "translation": "„între picioarele ei s-a rostogolit, a căzut și a adormit [somnul morții]...”",
+      "note": "Traducere fidelă structurii ebraice, cu eufemismul „a adormit” pentru moarte."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "5:28",
+    "t": "Pe fereastră a privit mama lui Sisra și a suspinat printre zăbrele: «Oare de ce întârzie carul lui să sosească, oare de ce întârzie zgomotul copitelor [cailor de la] carele lui?»",
+    "heb": "בְּעַד הַחַלּוֹן נִשְׁקְפָה וַתְּיַבֵּב אֵם סִיסְרָא בְּעַד הָאֶשְׁנָב מַדּוּעַ בֹּשֵׁשׁ רִכְבּוֹ לָבוֹא מַדּוּעַ אֶחֱרוּ פַּעֲמֵי מַרְכְּבוֹתָיו׃",
+    "translit": "Be'ad ha-chalon nishkefah va-teyabbev em Sisra be'ad ha-eshnav maddua boshesh rikhbo lavo maddua echeru pa'amei markevotav.",
+    "tokens": [
+     {
+      "t": "Pe fereastră a "
+     },
+     {
+      "t": "privit",
+      "w": "privit",
+      "heb": "נִשְׁקְפָה",
+      "translit": "nishkefah",
+      "strong": "H8259",
+      "pos": "verb, nifal perfect",
+      "def_ro": "a privit, s-a uitat afară.",
+      "dict_ro": "Rădăcina shakaf, „a privi în jos/afară” — scenă bruscă de schimbare a perspectivei: de la triumful israelit, cântarea trece la tabăra dușmanului, umanizând tragic mama lui Sisra, aflată în așteptare neștiutoare."
+     },
+     {
+      "t": " mama lui Sisra și a "
+     },
+     {
+      "t": "suspinat",
+      "w": "suspinat",
+      "heb": "וַתְּיַבֵּב",
+      "translit": "va-teyabbev",
+      "strong": "H2980",
+      "pos": "verb, piel imperfect",
+      "def_ro": "a gemut, a strigat plângând.",
+      "dict_ro": "Rashi discută pe larg acest verb rar: unii îl leagă de „vorbire” (niv sefatayim), alții de „geamăt” asemenea sunetului trâmbiței de Roș Hașana (teruah); Rashi propune propria interpretare, legându-l de „a privi” — femeia „veghează” cu ochii, scrutând drumul cu neliniște crescândă."
+     },
+     {
+      "t": " printre zăbrele: «Oare de ce "
+     },
+     {
+      "t": "întârzie",
+      "w": "întârzie",
+      "heb": "בֹּשֵׁשׁ",
+      "translit": "boshesh",
+      "strong": "H954",
+      "pos": "verb, polel perfect",
+      "def_ro": "întârzie [rușinos de mult].",
+      "dict_ro": "Rădăcina bosh, „a se rușina, a întârzia” — dublul sens al rădăcinii (întârziere/rușine) adaugă un strat ironic dureros: neliniștea mamei se va dovedi curând justificată, dar nu din cauza unei simple întârzieri, ci a unei rușini/înfrângeri totale."
+     },
+     {
+      "t": " carul lui să sosească, oare de ce întârzie zgomotul copitelor [cailor de la] carele lui?»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּעַד הַחַלּוֹן נִשְׁקְפָה וַתְּיַבֵּב אֵם סִיסְרָא...",
+      "translation": "„Pe fereastră a privit mama lui Sisra...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "διὰ τῆς θυρίδος παρέκυψε μήτηρ Σισάρα ἐκτὸς τοῦ τοξικοῦ, διότι ἠσχύνθη ἅρμα αὐτοῦ...",
+      "greek": true,
+      "translation": "„prin fereastră s-a aplecat mama lui Sisara, afară de zăbrele, căci s-a rușinat carul lui...”",
+      "note": "LXX traduce „boshesh” explicit prin „ἠσχύνθη” („s-a rușinat”), alegând sensul de rușine, nu de întârziere, confirmând ambiguitatea reală a rădăcinii ebraice observată și de Rashi."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi discută pe larg verbul rar „va-teyabbev”, citând interpretări variate — de la „vorbire” la „geamăt asemenea sunetului trâmbiței” — și propune propria lectură, legată de o privire scrutătoare, neliniștită, a mamei care așteaptă în zadar întoarcerea fiului ei, ignorând soarta reală întâlnită de acesta."
+     }
+    ]
+   },
+   {
+    "v": "5:29",
+    "t": "Cele mai înțelepte din preotesele ei i-au răspuns, și chiar și ea și-a răspuns deopotrivă:",
+    "heb": "חַכְמוֹת שָׂרוֹתֶיהָ תַּעֲנֶינָּה אַף־הִיא תָּשִׁיב אֲמָרֶיהָ לָהּ׃",
+    "translit": "Chakhmot saroteha ta'anenah af-hi tashiv amareha lah.",
+    "tokens": [
+     {
+      "t": "Cele mai "
+     },
+     {
+      "t": "înțelepte",
+      "w": "înțelepte",
+      "heb": "חַכְמוֹת",
+      "translit": "chakhmot",
+      "strong": "H2450",
+      "pos": "adjectiv, feminin plural",
+      "def_ro": "cele înțelepte.",
+      "dict_ro": "Rashi notează o subtilitate gramaticală: vocalizarea specifică a „chakhmot” (nu forma substantivală obișnuită „chokhmot”) indică adjectivul „cele înțelepte dintre doamnele ei”, nu un substantiv abstract — precizie filologică necesară pentru sensul corect al versetului."
+     },
+     {
+      "t": " din preotesele ei i-au "
+     },
+     {
+      "t": "răspuns",
+      "w": "răspuns",
+      "heb": "תַּעֲנֶינָּה",
+      "translit": "ta'anenah",
+      "strong": "H6030",
+      "pos": "verb, qal imperfect",
+      "def_ro": "i-au răspuns [ei].",
+      "dict_ro": "Doamnele de la curte încearcă s-o consoleze pe mama neliniștită cu explicații optimiste (v.30) despre motivul întârzierii — un cor de voci feminine care, ironic, elaborează scenariul falsei speranțe chiar în timp ce cititorul știe deja adevărul tragic."
+     },
+     {
+      "t": ", și chiar și ea și-a "
+     },
+     {
+      "t": "răspuns deopotrivă",
+      "w": "răspuns deopotrivă",
+      "heb": "תָּשִׁיב אֲמָרֶיהָ לָהּ",
+      "translit": "tashiv amareha lah",
+      "strong": "H7725",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "și-a repetat sieși cuvintele.",
+      "dict_ro": "Rashi glosează: „mângâieri pentru ea însăși” — mama lui Sisra repetă, ea singură, aceleași explicații liniștitoare oferite de doamnele ei, într-un gest patetic de auto-consolare disperată."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חַכְמוֹת שָׂרוֹתֶיהָ תַּעֲנֶינָּה אַף־הִיא תָּשִׁיב אֲמָרֶיהָ לָהּ׃",
+      "translation": "„Cele mai înțelepte din preotesele ei i-au răspuns...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "αἱ σοφαὶ ἄρχουσαι αὐτῆς ἀπεκρίθησαν πρὸς αὐτήν, καὶ αὐτὴ ἀπέστρεψε λόγους αὐτῆς ἑαυτῇ.",
+      "greek": true,
+      "translation": "„înțeleptele ei căpetenii i-au răspuns, iar ea și-a întors cuvintele ei către sine.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică ultima frază — „chiar și ea și-a răspuns sieși aceleași cuvinte” — ca gest de auto-consolare: „ce mă mir eu, întrebând de întârzierea fiului meu?” — repetând, singură, aceleași motive optimiste pe care doamnele ei tocmai i le ofereau."
+     }
+    ]
+   },
+   {
+    "v": "5:30",
+    "t": "«Oare nu găsesc și nu împart pradă? Câte o femeie, două, pentru fiecare cap de bărbat, pradă de stofă colorată pentru Sisra, pradă de broderie colorată, veșminte dublu brodate pentru grumazul prădătorilor.»",
+    "heb": "הֲלֹא יִמְצְאוּ יְחַלְּקוּ שָׁלָל רַחַם רַחֲמָתַיִם לְרֹאשׁ גֶּבֶר שְׁלַל צְבָעִים לְסִיסְרָא שְׁלַל צְבָעִים רִקְמָה צֶבַע רִקְמָתַיִם לְצַוְּארֵי שָׁלָל׃",
+    "translit": "Ha-lo yimtse'u yechallequ shalal racham rachamatayim le-rosh gever shelal tseva'im le-Sisra shelal tseva'im rikmah tseva rikmatayim le-tsav'erei shalal.",
+    "tokens": [
+     {
+      "t": "«Oare nu găsesc și nu împart "
+     },
+     {
+      "t": "pradă",
+      "w": "pradă",
+      "heb": "שָׁלָל",
+      "translit": "shalal",
+      "strong": "H7998",
+      "pos": "substantiv, masculin",
+      "def_ro": "pradă de război.",
+      "dict_ro": "Shalal, repetat de patru ori în acest verset dens — dovada ironică a ceea ce mama lui Sisra și doamnele ei anticipau: nu victorie sângeroasă, ci simplă distribuire de trofee, inclusiv femei captive, tratate explicit ca marfă de împărțit."
+     },
+     {
+      "t": "? Câte o "
+     },
+     {
+      "t": "femeie",
+      "w": "femeie",
+      "heb": "רַחַם",
+      "translit": "racham",
+      "strong": "H7356",
+      "pos": "substantiv, feminin",
+      "def_ro": "femeie, pântece.",
+      "dict_ro": "Racham — cuvânt dur, literal „pântece/uter”, folosit disprețuitor pentru femeile captive tratate ca obiecte sexuale de război — cea mai crudă frază a întregii cântări, pusă intenționat în gura victimelor cananeene, condamnate acum de propria lor logică."
+     },
+     {
+      "t": ", două, pentru fiecare cap de bărbat, pradă de "
+     },
+     {
+      "t": "stofă colorată",
+      "w": "stofă colorată",
+      "heb": "צְבָעִים",
+      "translit": "tseva'im",
+      "strong": "H6648",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "stofe colorate, vopsite.",
+      "dict_ro": "Tseva, „culoare, vopsea” — textile scumpe, vopsite, semn de lux și bogăție materială pe care armata cananeeană spera să le jefuiască de la Israel, dublând jaful uman cu cel material."
+     },
+     {
+      "t": " pentru Sisra, pradă de broderie colorată, veșminte dublu brodate pentru grumazul prădătorilor.»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֲלֹא יִמְצְאוּ יְחַלְּקוּ שָׁלָל רַחַם רַחֲמָתַיִם לְרֹאשׁ גֶּבֶר...",
+      "translation": "„«Oare nu găsesc și nu împart pradă?...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "οὐχ εὑρήσουσιν αὐτὸν διαμερίζοντα σκῦλα; οἰκτίρμων οἰκτειρήσει εἰς κεφαλὴν ἀνδρός· σκῦλα βαμμάτων τῷ Σισάρᾳ...",
+      "greek": true,
+      "translation": "„oare nu-l vor găsi împărțind prăzi? Milostivul se va milostivi pentru capul unui bărbat: prăzi de veșminte vopsite pentru Sisara...”",
+      "note": "LXX evită duritatea explicită a termenului „racham” (pântece/femeie tratată ca obiect), traducând mai abstract „οἰκτίρμων οἰκτειρήσει” („milostivul se va milostivi”) — o atenuare eufemistică notabilă a crudului original ebraic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică fără menajamente: „femei frumoase din Israel sunt chinuite, iar fiecare bărbat [dintre cananeeni] are în patul lui două sau trei femei” — reprezentarea directă, neînfrumusețată, a mentalității de pradă a taberei dușmane, care face condamnarea lor cu atât mai deplin justificată în ochii cititorului."
+     }
+    ]
+   },
+   {
+    "v": "5:31",
+    "t": "Așa să piară toți dușmanii Tăi, DOAMNE! Și fie ca aceia care Îl iubesc [pe DOMNUL] să ajungă precum soarele în puterea sa! Și a fost liniște în țară vreme de patruzeci de ani.",
+    "heb": "כֵּן יֹאבְדוּ כָל־אוֹיְבֶיךָ יְהוָה וְאֹהֲבָיו כְּצֵאת הַשֶּׁמֶשׁ בִּגְבֻרָתוֹ וַתִּשְׁקֹט הָאָרֶץ אַרְבָּעִים שָׁנָה׃",
+    "translit": "Ken yovdu khol-oyeveikha Adonai ve-ohavav ke-tset ha-shemesh bi-gvurato va-tishkot ha-arets arba'im shanah.",
+    "tokens": [
+     {
+      "t": "Așa să "
+     },
+     {
+      "t": "piară",
+      "w": "piară",
+      "heb": "יֹאבְדוּ",
+      "translit": "yovdu",
+      "strong": "H6",
+      "pos": "verb, qal imperfect",
+      "def_ro": "vor pieri.",
+      "dict_ro": "Rădăcina avad, „a pieri” — verset final încheie tema cântării printr-o dorință generalizată, valabilă dincolo de conflictul particular cu Sisra: soarta oricărui dușman al DOMNULUI, contrastată direct cu strălucirea promisă celor ce-L iubesc."
+     },
+     {
+      "t": " toți dușmanii Tăi, DOAMNE! Și fie ca aceia care Îl iubesc [pe DOMNUL] să ajungă precum "
+     },
+     {
+      "t": "soarele în puterea sa",
+      "w": "soarele în puterea sa",
+      "heb": "כְּצֵאת הַשֶּׁמֶשׁ בִּגְבֻרָתוֹ",
+      "translit": "ke-tset ha-shemesh bi-gvurato",
+      "strong": "H8121",
+      "pos": "substantiv, feminin",
+      "def_ro": "ca răsăritul soarelui în puterea lui.",
+      "dict_ro": "Imaginea soarelui răsărind în toată forța lui — simbol al strălucirii și vitalității depline, metaforă reluată în literatura rabinică pentru drepții din lumea viitoare, comparație culminantă care încheie triumfal întreaga cântare."
+     },
+     {
+      "t": "! Și a fost "
+     },
+     {
+      "t": "liniște",
+      "w": "liniște",
+      "heb": "וַתִּשְׁקֹט",
+      "translit": "va-tishkot",
+      "strong": "H8252",
+      "pos": "verb, qal imperfect",
+      "def_ro": "s-a liniștit, a avut pace.",
+      "dict_ro": "Rădăcina shakat, „a se liniști” — formula de închidere standard a ciclurilor narative din Cartea Judecătorilor, marcând sfârșitul oficial al episodului Devora-Barak-Sisra și revenirea la o perioadă de pace stabilă, de aceeași durată simbolică (patruzeci de ani) ca alte perioade de restaurare biblică."
+     },
+     {
+      "t": " în țară vreme de patruzeci de ani."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כֵּן יֹאבְדוּ כָל־אוֹיְבֶיךָ יְהוָה וְאֹהֲבָיו כְּצֵאת הַשֶּׁמֶשׁ בִּגְבֻרָתוֹ...",
+      "translation": "„Așa să piară toți dușmanii Tăi, DOAMNE!...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "οὕτως ἀπόλοιντο πάντες οἱ ἐχθροί σου, Κύριε· καὶ οἱ ἀγαπῶντες αὐτὸν ὡς ἔξοδος ἡλίου ἐν δυνάμει αὐτοῦ. Καὶ ἡσύχασεν ἡ γῆ τεσσαράκοντα ἔτη.",
+      "greek": true,
+      "translation": "„așa să piară toți vrăjmașii Tăi, Doamne; iar cei ce-L iubesc, ca ieșirea soarelui întru puterea lui. Și s-a liniștit țara patruzeci de ani.”",
+      "note": "Traducere fidelă structurii ebraice, încheind, ca și ebraica, întreaga carte a episodului Devora-Barak cu formula standard de pace restaurată."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citează o tradiție agadică asupra comparației finale: „precum soarele nu se rușinează niciodată să-și îndeplinească misiunea [de a răsări zilnic]”, tot așa cei drepți, care-L iubesc pe DOMNUL, nu se vor rușina niciodată de faptele lor — imagine de încredere și statornicie eternă, încheind cântarea pe o notă de speranță universală, dincolo de victoria particulară asupra lui Sisra."
      }
     ]
    }
