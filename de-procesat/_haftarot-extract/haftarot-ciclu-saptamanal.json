@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "21 capitole (din 54+2 planificate) · 21 complete la Standardul Davar",
+ "meta": "22 capitole (din 54+2 planificate) · 22 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -44690,6 +44690,1847 @@
      {
       "author": "Rashi (1040–1105)",
       "text": "Rashi glosează „ve-ratsi'ti” simplu drept „limbaj de bunăvoință/acceptare” — cuvântul final al capitolului mută accentul de la precizia tehnică a măsurătorilor și ritualurilor la scopul lor ultim, relațional: acceptarea plină de bunăvoință a lui Dumnezeu față de poporul Său, exact tema cu care se încheiase deja Haftarat Teruma."
+     }
+    ]
+   }
+  ]
+ }
+ ,
+  {
+  "num": 22,
+  "title": "Haftarat Ki Tisa",
+  "ref": "Regi I 18:1-39",
+  "intro": "Haftarat Ki Tisa leagă păcatul vițelului de aur, din pericopa cu același nume, de o confruntare ulterioară, la fel de dramatică, împotriva idolatriei: Ilie pe muntele Carmel, înfruntând patru sute cincizeci de profeți ai lui Baal. Tradiția așkenază citește toată povestea, de la porunca dată lui Ilie de a se arăta lui Ahab; sefarzii și comunitățile Chabad încep direct cu confruntarea de pe munte, la 18:20.",
+  "verses": [
+   {
+    "v": "18:1",
+    "t": "Și a fost, după multe zile: „Cuvântul DOMNULUI a venit la Eliahu, în al treilea an, spunând: «Du-te și înfățișează-te lui Ahab și Eu voi trimite ploaie peste fața pământului.»”",
+    "heb": "וַיְהִי יָמִים רַבִּים וּדְבַר־יְהוָה הָיָה אֶל־אֵלִיָּהוּ בַּשָּׁנָה הַשְּׁלִישִׁית לֵאמֹר לֵךְ הֵרָאֵה אֶל־אַחְאָב וְאֶתְּנָה מָטָר עַל־פְּנֵי הָאֲדָמָה׃",
+    "translit": "Va-yehi yamim rabbim u-devar-Adonai hayah el-Eliyahu ba-shanah ha-shlishit lemor lekh hera'eh el-Achav ve-ettenah matar al-penei ha-adamah.",
+    "tokens": [
+     {
+      "t": "Și a fost, după multe zile: „Cuvântul DOMNULUI a venit la "
+     },
+     {
+      "t": "Eliahu",
+      "w": "Eliahu",
+      "heb": "אֵלִיָּהוּ",
+      "translit": "Eliyahu",
+      "strong": "H452",
+      "pos": "nume propriu",
+      "def_ro": "Ilie — „Dumnezeul meu e DOMNUL”.",
+      "dict_ro": "Eliyahu — numele însuși e o mărturisire de credință, program al întregii misiuni a profetului: confruntarea de pe Carmel nu face decât să demonstreze, cu foc din cer, exact ceea ce numele lui deja proclamă."
+     },
+     {
+      "t": ", în al treilea an, spunând: «Du-te și înfățișează-te lui Ahab și Eu voi trimite "
+     },
+     {
+      "t": "ploaie",
+      "w": "ploaie",
+      "heb": "מָטָר",
+      "translit": "matar",
+      "strong": "H4306",
+      "pos": "substantiv, masculin",
+      "def_ro": "ploaie.",
+      "dict_ro": "Matar, „ploaie” — încheie cei trei ani de secetă anunțați anterior de Ilie însuși (17:1); promisiunea ploii, deja hotărâtă, va veni totuși abia după confruntarea publică de pe Carmel — foametea continuă servește ca teren de pregătire pentru marea demonstrație a puterii DOMNULUI."
+     },
+     {
+      "t": " peste fața pământului.»”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי יָמִים רַבִּים וּדְבַר־יְהוָה הָיָה אֶל־אֵלִיָּהוּ...",
+      "translation": "„Și a fost, după multe zile...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "Καὶ ἐγένετο μεθ᾿ ἡμέρας πολλὰς καὶ ῥῆμα Κυρίου ἐγένετο πρὸς Ἠλιοὺ ἐν τῷ ἐνιαυτῷ τῷ τρίτῳ λέγων· πορεύθητι καὶ ὄφθητι τῷ Ἀχαάβ, καὶ δώσω ὑετὸν ἐπὶ πρόσωπον τῆς γῆς.",
+      "greek": true,
+      "translation": "„și a fost după multe zile, și cuvântul Domnului a fost către Ilie, în anul al treilea, zicând: mergi și arată-te lui Ahaab, și voi da ploaie pe fața pământului.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "1 Regi 17:1"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "18:2",
+    "t": "Eliahu s-a dus să i se înfățișeze lui Ahab, iar foametea era aspră în Samaria.",
+    "heb": "וַיֵּלֶךְ אֵלִיָּהוּ לְהֵרָאוֹת אֶל־אַחְאָב וְהָרָעָב חָזָק בְּשֹׁמְרוֹן׃",
+    "translit": "Va-yelekh Eliyahu le-hera'ot el-Achav ve-ha-ra'av chazak be-Shomron.",
+    "tokens": [
+     {
+      "t": "Eliahu s-a dus să i se înfățișeze lui Ahab, iar "
+     },
+     {
+      "t": "foametea",
+      "w": "foametea",
+      "heb": "הָרָעָב",
+      "translit": "ha-ra'av",
+      "strong": "H7458",
+      "pos": "substantiv, masculin",
+      "def_ro": "foametea.",
+      "dict_ro": "Ra'av, „foamete” — consecință directă a secetei anunțate de Ilie; severitatea ei explică pe deplin disperarea lui Ahab din versetele următoare, dispus să caute personal iarbă pentru animale în tot regatul."
+     },
+     {
+      "t": " era aspră în Samaria."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּלֶךְ אֵלִיָּהוּ לְהֵרָאוֹת אֶל־אַחְאָב...",
+      "translation": "„Eliahu s-a dus să i se înfățișeze lui Ahab...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐπορεύθη Ἠλιοὺ τοῦ ὀφθῆναι τῷ Ἀχαάβ, καὶ ἡ λιμὸς κραταιὰ ἐν Σαμαρείᾳ.",
+      "greek": true,
+      "translation": "„și a mers Ilie ca să se arate lui Ahaab, și foametea era puternică în Samaria.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:3",
+    "t": "Ahab l-a chemat pe Ovadia, care era mai-mare peste casa lui, iar Ovadia se temea mult de Dumnezeu.",
+    "heb": "וַיִּקְרָא אַחְאָב אֶל־עֹבַדְיָהוּ אֲשֶׁר עַל־הַבָּיִת וְעֹבַדְיָהוּ הָיָה יָרֵא אֶת־יְהוָה מְאֹד׃",
+    "translit": "Va-yikra Achav el-Ovadyahu asher al-ha-bayit ve-Ovadyahu hayah yare et-Adonai me'od.",
+    "tokens": [
+     {
+      "t": "Ahab l-a chemat pe "
+     },
+     {
+      "t": "Ovadia",
+      "w": "Ovadia",
+      "heb": "עֹבַדְיָהוּ",
+      "translit": "Ovadyahu",
+      "strong": "H5662",
+      "pos": "nume propriu",
+      "def_ro": "Ovadia — „slujitorul DOMNULUI”.",
+      "dict_ro": "Ovadyahu — numele lui contrastează direct cu poziția lui socială: „slujitorul DOMNULUI” slujește totuși, funcțional, ca „mai-mare peste casa” unui rege idolatru — o tensiune biografică rezolvată prin fidelitatea lui secretă, dovedită imediat la versetul următor."
+     },
+     {
+      "t": ", care era "
+     },
+     {
+      "t": "mai-mare peste casa lui",
+      "w": "mai-mare peste casa lui",
+      "heb": "אֲשֶׁר עַל־הַבָּיִת",
+      "translit": "asher al-ha-bayit",
+      "strong": "H1004",
+      "pos": "substantiv, masculin",
+      "def_ro": "cel peste casă, majordom.",
+      "dict_ro": "Al ha-bayit — titlu tehnic pentru cel mai înalt funcționar de curte, administratorul general al palatului regal — poziție de mare încredere și influență, ocupată aici, remarcabil, de un om temător de Dumnezeu în mijlocul unei curți profund idolatre."
+     },
+     {
+      "t": ", iar Ovadia se temea mult de Dumnezeu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּקְרָא אַחְאָב אֶל־עֹבַדְיָהוּ אֲשֶׁר עַל־הַבָּיִת...",
+      "translation": "„Ahab l-a chemat pe Ovadia...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐκάλεσεν Ἀχαὰβ τὸν Ἀβδιοὺ τὸν οἰκονόμον· (καὶ Ἀβδιοὺ ἦν φοβούμενος τὸν Κύριον σφόδρα,",
+      "greek": true,
+      "translation": "„și a chemat Ahaab pe Abdiu, administratorul; (și Abdiu se temea de Domnul foarte mult,”",
+      "note": "LXX transliterează numele ca „Ἀβδιοὺ” (Abdiu) și traduce „asher al ha-bayit” prin „τὸν οἰκονόμον” („administratorul, intendentul”), o redare tehnică precisă a funcției."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:4",
+    "t": "Când Izebel îi tăia [cu sabia] pe profeții DOMNULUI, Ovadia a luat o sută de profeți și i-a ascuns, cincizeci în câte o peșteră, și i-a hrănit cu pâine și apă.",
+    "heb": "וַיְהִי בְּהַכְרִית אִיזֶבֶל אֵת נְבִיאֵי יְהוָה וַיִּקַּח עֹבַדְיָהוּ מֵאָה נְבִיאִים וַיַּחְבִּיאֵם חֲמִשִּׁים אִישׁ בַּמְּעָרָה וְכִלְכְּלָם לֶחֶם וָמָיִם׃",
+    "translit": "Va-yehi be-hakhrit Izevel et nevi'ei Adonai va-yikkach Ovadyahu me'ah nevi'im va-yachbi'em chamishim ish ba-me'arah ve-khilkelam lechem va-mayim.",
+    "tokens": [
+     {
+      "t": "Când "
+     },
+     {
+      "t": "Izebel",
+      "w": "Izebel",
+      "heb": "אִיזֶבֶל",
+      "translit": "Izevel",
+      "strong": "H348",
+      "pos": "nume propriu",
+      "def_ro": "Izebel.",
+      "dict_ro": "Izevel — soția feniciană a lui Ahab, promotoare activă a cultului lui Baal și Așera, responsabilă pentru persecuția sistematică a profeților DOMNULUI narată aici — antagonista principală a lui Ilie de-a lungul întregului ciclu narativ."
+     },
+     {
+      "t": " îi tăia [cu sabia] pe profeții DOMNULUI, Ovadia a luat o sută de profeți și i-a "
+     },
+     {
+      "t": "ascuns",
+      "w": "ascuns",
+      "heb": "וַיַּחְבִּיאֵם",
+      "translit": "va-yachbi'em",
+      "strong": "H2244",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "i-a ascuns.",
+      "dict_ro": "Rashi precizează structura ascunzătorii: cincizeci de bărbați într-o peșteră, alți cincizeci într-o a doua peșteră — precauție dublă, probabil pentru a limita riscul descoperirii întregului grup deodată."
+     },
+     {
+      "t": ", cincizeci în câte o peșteră, și i-a hrănit cu pâine și apă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי בְּהַכְרִית אִיזֶבֶל אֵת נְבִיאֵי יְהוָה...",
+      "translation": "„Când Izebel îi tăia [cu sabia] pe profeții DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐγένετο ἐν τῷ τύπτειν τὴν Ἰεζάβελ τοὺς προφήτας Κυρίου καὶ ἔλαβεν Ἀβδιοὺ ἑκατὸν ἄνδρας προφήτας καὶ κατέκρυψεν αὐτοὺς κατὰ πεντήκοντα ἐν σπηλαίῳ...",
+      "greek": true,
+      "translation": "„și a fost când lovea Iezabel pe profeții Domnului, și a luat Abdiu o sută de bărbați profeți și i-a ascuns câte cincizeci într-o peșteră...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi precizează structura menționării repetate a acestui episod (aici și la v.13, în relatarea proprie a lui Ovadia): scopul versetului e să arate concret, prin faptă, cum anume „Ovadia se temea mult de DOMNUL” — nu doar o afirmație abstractă despre caracterul lui, ci o dovadă istorică precisă a riscului personal asumat."
+     }
+    ]
+   },
+   {
+    "v": "18:5",
+    "t": "Și Ahab i-a spus lui Ovadia: „Mergi prin țară, la fiecare izvor de apă și la toate pâraiele, poate vom găsi iarbă ca să ținem în viață caii și măgarii și să nu rămânem fără dobitoace.”",
+    "heb": "וַיֹּאמֶר אַחְאָב אֶל־עֹבַדְיָהוּ לֵךְ בָּאָרֶץ אֶל־כָּל־מַעְיְנֵי הַמַּיִם וְאֶל כָּל־הַנְּחָלִים אוּלַי נִמְצָא חָצִיר וּנְחַיֶּה סוּס וָפֶרֶד וְלוֹא נַכְרִית מֵהַבְּהֵמָה׃",
+    "translit": "Va-yomer Achav el-Ovadyahu lekh ba-arets el-kol-ma'yenei ha-mayim ve-el kol-ha-nechalim ulai nimtsa chatsir u-nechayeh sus va-fered ve-lo nakhrit me-ha-behemah.",
+    "tokens": [
+     {
+      "t": "Și Ahab i-a spus lui Ovadia: „Mergi prin țară, la fiecare izvor de apă și la toate pâraiele, poate vom găsi "
+     },
+     {
+      "t": "iarbă",
+      "w": "iarbă",
+      "heb": "חָצִיר",
+      "translit": "chatsir",
+      "strong": "H2682",
+      "pos": "substantiv, masculin",
+      "def_ro": "iarbă, verdeață.",
+      "dict_ro": "Chatsir — priorități revelatoare ale regelui: preocupat personal de soarta cailor și catârilor regali, dispus să străbată el însuși țara pentru animale, în timp ce sistematic ignoră soarta profeților DOMNULUI persecutați de propria lui soție — un contrast tăcut, dar puternic, al textului."
+     },
+     {
+      "t": " ca să ținem în viață caii și măgarii și să nu rămânem fără dobitoace.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר אַחְאָב אֶל־עֹבַדְיָהוּ לֵךְ בָּאָרֶץ...",
+      "translation": "„Și Ahab i-a spus lui Ovadia...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ εἶπεν Ἀχαὰβ πρὸς Ἀβδιού· δεῦρο καὶ διέλθωμεν ἐπὶ τὴν γῆν καὶ ἐπὶ πηγὰς τῶν ὑδάτων...",
+      "greek": true,
+      "translation": "„și a zis Ahaab către Abdiu: vino și să străbatem țara și izvoarele apelor...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:6",
+    "t": "Ei au împărțit țara între ei, ca să o poată străbate: Ahav a mers singur pe un drum anume, iar Ovadia a mers singur pe un alt drum.",
+    "heb": "וַיְחַלְּקוּ לָהֶם אֶת־הָאָרֶץ לַעֲבָר־בָּהּ אַחְאָב הָלַךְ בְּדֶרֶךְ אֶחָד לְבַדּוֹ וְעֹבַדְיָהוּ הָלַךְ בְּדֶרֶךְ־אֶחָד לְבַדּוֹ׃",
+    "translit": "Va-yechalleku lahem et-ha-arets la-avor-bah Achav halakh be-derekh echad levaddo ve-Ovadyahu halakh be-derekh-echad levaddo.",
+    "tokens": [
+     {
+      "t": "Ei au "
+     },
+     {
+      "t": "împărțit",
+      "w": "împărțit",
+      "heb": "וַיְחַלְּקוּ",
+      "translit": "va-yechalleku",
+      "strong": "H2505",
+      "pos": "verb, piel imperfect",
+      "def_ro": "au împărțit.",
+      "dict_ro": "Rădăcina chalak, „a împărți” — decizie practică de eficiență: acoperirea unui teritoriu mai mare, mai repede, separându-se pe drumuri diferite — detaliu care pregătește logic întâlnirea „întâmplătoare” dintre Ovadia și Ilie, imposibilă dacă ar fi călătorit împreună."
+     },
+     {
+      "t": " țara între ei, ca să o poată străbate: Ahav a mers singur pe un drum anume, iar Ovadia a mers singur pe un alt drum."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְחַלְּקוּ לָהֶם אֶת־הָאָרֶץ לַעֲבָר־בָּהּ...",
+      "translation": "„Ei au împărțit țara între ei...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐμέρισαν ἑαυτοῖς τὴν ὁδὸν τοῦ διελθεῖν αὐτήν· Ἀχαὰβ ἐπορεύθη ἐν ὁδῷ μιᾷ καὶ Ἀβδιοὺ ἐπορεύθη ἐν ὁδῷ ἄλλῃ μόνος.",
+      "greek": true,
+      "translation": "„și și-au împărțit drumul ca s-o străbată; Ahaab a mers pe un drum și Abdiu a mers pe alt drum, singur.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:7",
+    "t": "Ovadia era pe drum și iată, Eliahu i-a ieșit în întâmpinare; el l-a recunoscut și a căzut cu fața la pământ și a spus: „Tu ești acela, stăpânul meu Eliahu?”",
+    "heb": "וַיְהִי עֹבַדְיָהוּ בַדֶּרֶךְ וְהִנֵּה אֵלִיָּהוּ לִקְרָאתוֹ וַיַּכִּרֵהוּ וַיִּפֹּל עַל־פָּנָיו וַיֹּאמֶר הַאַתָּה זֶה אֲדֹנִי אֵלִיָּהוּ׃",
+    "translit": "Va-yehi Ovadyahu ba-derekh ve-hinneh Eliyahu likrato va-yakkirehu va-yippol al-panav va-yomer ha-attah zeh adoni Eliyahu.",
+    "tokens": [
+     {
+      "t": "Ovadia era pe drum și iată, Eliahu i-a ieșit în întâmpinare; el l-a "
+     },
+     {
+      "t": "recunoscut",
+      "w": "recunoscut",
+      "heb": "וַיַּכִּרֵהוּ",
+      "translit": "va-yakkirehu",
+      "strong": "H5234",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "l-a recunoscut.",
+      "dict_ro": "Rădăcina nakar, „a recunoaște” — recunoașterea imediată sugerează faima deja stabilită a lui Ilie, chiar în mijlocul secetei pe care el însuși o provocase, dincolo de orice contact direct anterior menționat între cei doi."
+     },
+     {
+      "t": " și a căzut cu fața la pământ și a spus: „Tu ești acela, stăpânul meu Eliahu?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי עֹבַדְיָהוּ בַדֶּרֶךְ וְהִנֵּה אֵלִיָּהוּ לִקְרָאתוֹ...",
+      "translation": "„Ovadia era pe drum și iată, Eliahu i-a ieșit în întâmpinare...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἦν Ἀβδιοὺ ἐν τῇ ὁδῷ μόνος, καὶ ἦλθεν Ἠλιοὺ εἰς συνάντησιν αὐτοῦ μόνος· καὶ Ἀβδιοὺ ἔσπευσεν καὶ ἔπεσεν ἐπὶ πρόσωπον αὐτοῦ...",
+      "greek": true,
+      "translation": "„și era Abdiu pe drum singur, și a venit Ilie în întâmpinarea lui singur; și Abdiu s-a grăbit și a căzut pe fața lui...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:8",
+    "t": "Și el i-a spus: „Eu sunt. Mergi și spune-i stăpânului tău [Ahab] că Eliahu este aici.”",
+    "heb": "וַיֹּאמֶר לוֹ אֲנִי לֵךְ אֱמֹר לַאדֹנֶיךָ הִנֵּה אֵלִיָּהוּ׃",
+    "translit": "Va-yomer lo ani lekh emor l-adonekha hinneh Eliyahu.",
+    "tokens": [
+     {
+      "t": "Și el i-a spus: „Eu sunt. Mergi și spune-i stăpânului tău [Ahab] că "
+     },
+     {
+      "t": "Eliahu este aici",
+      "w": "Eliahu este aici",
+      "heb": "הִנֵּה אֵלִיָּהוּ",
+      "translit": "hinneh Eliyahu",
+      "strong": "H2009",
+      "pos": "particulă",
+      "def_ro": "iată, Ilie [e aici].",
+      "dict_ro": "Formulă simplă, repetată identic de patru ori în tot pasajul (v.8, 11, 14) — mesajul lui Ilie e reducţia la esenţial: propria lui prezenţă vizibilă e suficientă anunţ, fără nicio explicaţie suplimentară necesară."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר לוֹ אֲנִי לֵךְ אֱמֹר לַאדֹנֶיךָ הִנֵּה אֵלִיָּהוּ׃",
+      "translation": "„Și el i-a spus: «Eu sunt...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ εἶπεν Ἠλιοὺ αὐτῷ· ἐγώ. πορεύου, λέγε τῷ κυρίῳ σου· ἰδοὺ Ἠλιού.",
+      "greek": true,
+      "translation": "„și a zis Ilie către el: eu. mergi, spune stăpânului tău: iată Ilie.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:9",
+    "t": "El a spus: „Care îmi este oare păcatul, de îl predai pe slujitorul tău în mâna lui Ahab, ca să mă omoare?",
+    "heb": "וַיֹּאמֶר מֶה חָטָאתִי כִּי־אַתָּה נֹתֵן אֶת־עַבְדְּךָ בְּיַד־אַחְאָב לַהֲמִיתֵנִי׃",
+    "translit": "Va-yomer meh chatati ki-attah noten et-avdekha be-yad-Achav la-hamiteni.",
+    "tokens": [
+     {
+      "t": "El a spus: „Care îmi este oare "
+     },
+     {
+      "t": "păcatul",
+      "w": "păcatul",
+      "heb": "חָטָאתִי",
+      "translit": "chatati",
+      "strong": "H2398",
+      "pos": "verb, qal perfect",
+      "def_ro": "păcatul meu, am greșit.",
+      "dict_ro": "Rădăcina chata — Ovadia interpretează cererea lui Ilie ca pe o pedeapsă nemeritată, o reacție de panică imediată care deschide un lung discurs de auto-apărare, dovedind teama lui reală de furia imprevizibilă a lui Ahab."
+     },
+     {
+      "t": ", de îl predai pe slujitorul tău în mâna lui Ahab, ca să mă omoare?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מֶה חָטָאתִי כִּי־אַתָּה נֹתֵן אֶת־עַבְדְּךָ...",
+      "translation": "„El a spus: «Care îmi este oare păcatul...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ εἶπεν Ἀβδιού· τί ἡμάρτηκα, ὅτι δίδως τὸν δοῦλόν σου εἰς χεῖρα Ἀχαὰβ τοῦ θανατῶσαί με?",
+      "greek": true,
+      "translation": "„și a zis Abdiu: cu ce am greșit, că dai pe robul tău în mâna lui Ahaab, ca să mă omoare?”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:10",
+    "t": "Viu este DOMNUL, Dumnezeul tău – [îți spun că] nu există neam sau regat unde stăpânul meu să nu fi trimis să te fi căutat și [toți] au răspuns: «Nu este aici.» Și el a pus regatul și neamul să jure că nu te-a putut găsi.",
+    "heb": "חַי יְהוָה אֱלֹהֶיךָ אִם־יֶשׁ־גּוֹי וּמַמְלָכָה אֲשֶׁר לֹא־שָׁלַח אֲדֹנִי שָׁם לְבַקֶּשְׁךָ וְאָמְרוּ אָיִן וְהִשְׁבִּיעַ אֶת־הַמַּמְלָכָה וְאֶת־הַגּוֹי כִּי לֹא יִמְצָאֶכָּה׃",
+    "translit": "Chai Adonai Eloheikha im-yesh-goy u-mamlakhah asher lo-shalach adoni sham le-vakkeshkha ve-amru ayin ve-hishbia et-ha-mamlakhah ve-et-ha-goy ki lo yimtsa'ekka.",
+    "tokens": [
+     {
+      "t": "Viu este DOMNUL, Dumnezeul tău – [îți spun că] nu există "
+     },
+     {
+      "t": "neam sau regat",
+      "w": "neam sau regat",
+      "heb": "גּוֹי וּמַמְלָכָה",
+      "translit": "goy u-mamlakhah",
+      "strong": "H1471",
+      "pos": "substantiv, masculin",
+      "def_ro": "neam sau regat.",
+      "dict_ro": "Goy u-mamlakhah — hiperbolă care măsoară amploarea căutării lui Ahab: nu doar în regatul lui Israel, ci în TOATE regatele cunoscute din regiune, extinzând reputația și temerea inspirată de Ilie dincolo de granițele naționale."
+     },
+     {
+      "t": " unde stăpânul meu să nu fi trimis să te fi căutat și [toți] au răspuns: «Nu este aici.» Și el a pus regatul și neamul să "
+     },
+     {
+      "t": "jure",
+      "w": "jure",
+      "heb": "וְהִשְׁבִּיעַ",
+      "translit": "ve-hishbia",
+      "strong": "H7650",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "a pus să jure.",
+      "dict_ro": "Rădăcina shava, „a jura” — Ahab a cerut jurământ formal de la fiecare regat interogat, dovadă a disperării lui de a-l localiza pe Ilie — detaliu care sporește gravitatea riscului pe care Ovadia crede că i-l cere Ilie acum."
+     },
+     {
+      "t": " nu te-a putut găsi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חַי יְהוָה אֱלֹהֶיךָ אִם־יֶשׁ־גּוֹי וּמַמְלָכָה...",
+      "translation": "„Viu este DOMNUL, Dumnezeul tău...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "ζῇ Κύριος ὁ Θεός σου, εἰ ἔστιν ἔθνος ἢ βασιλεία, οὗ οὐκ ἀπέστειλεν ὁ κύριός μου ζητεῖν σε...",
+      "greek": true,
+      "translation": "„viu este Domnul Dumnezeul tău, dacă este neam sau regat unde n-a trimis stăpânul meu să te caute...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică temerea lui Ovadia direct în legătură cu versetul 12: se teme că, în intervalul dintre a-l anunța pe Ahab și a se întoarce cu el la locul întâlnirii, „duhul DOMNULUI” l-ar putea purta pe Ilie într-un loc necunoscut — exact mecanismul care avea să-l coste viața."
+     }
+    ]
+   },
+   {
+    "v": "18:11",
+    "t": "Iar acum tu îmi spui: «Mergi și spune-i stăpânului tău că Eliahu este aici.»",
+    "heb": "וְעַתָּה אַתָּה אֹמֵר לֵךְ אֱמֹר לַאדֹנֶיךָ הִנֵּה אֵלִיָּהוּ׃",
+    "translit": "Ve-attah attah omer lekh emor l-adonekha hinneh Eliyahu.",
+    "tokens": [
+     {
+      "t": "Iar acum tu îmi spui: «Mergi și spune-i stăpânului tău că Eliahu este aici.»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה אַתָּה אֹמֵר לֵךְ אֱמֹר לַאדֹנֶיךָ הִנֵּה אֵלִיָּהוּ׃",
+      "translation": "„Iar acum tu îmi spui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ νῦν σὺ λέγεις· πορεύου, ἀνάγγελλε τῷ κυρίῳ σου· ἰδοὺ Ἠλιού.",
+      "greek": true,
+      "translation": "„și acum tu zici: mergi, vestește stăpânului tău: iată Ilie.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:12",
+    "t": "Și va fi că, de îndată ce eu mă voi duce de la tine, un suflu al DOMNULUI te va purta undeva unde eu nu voi ști, și voi veni să îi spun lui Ahab, și el nu te va găsi și atunci mă va omorî. Dar slujitorul tău s-a temut de DOMNUL [încă] de pe vremea când eram tânăr.",
+    "heb": "וְהָיָה אֲנִי אֵלֵךְ מֵאִתָּךְ וְרוּחַ יְהוָה יִשָּׂאֲךָ עַל אֲשֶׁר לֹא־אֵדָע וּבָאתִי לְהַגִּיד לְאַחְאָב וְלֹא יִמְצָאֲךָ וַהֲרָגָנִי וְעַבְדְּךָ יָרֵא אֶת־יְהוָה מִנְּעֻרָי׃",
+    "translit": "Ve-hayah ani elekh me-ittakh ve-ruach Adonai yisa'akha al asher lo-eda u-vati le-haggid le-Achav ve-lo yimtsa'akha va-haragani ve-avdekha yare et-Adonai mi-neurai.",
+    "tokens": [
+     {
+      "t": "Și va fi că, de îndată ce eu mă voi duce de la tine, un "
+     },
+     {
+      "t": "suflu al DOMNULUI",
+      "w": "suflu al DOMNULUI",
+      "heb": "רוּחַ יְהוָה",
+      "translit": "ruach Adonai",
+      "strong": "H7307",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "duhul DOMNULUI.",
+      "dict_ro": "Ruach Adonai — temerea concretă a lui Ovadia: capacitatea supranaturală a lui Ilie de a fi „purtat” instantaneu, deja demonstrată în alte tradiții profetice (cf. Ezechiel 3:12, 8:3), face situația imprevizibilă și periculoasă pentru mesagerul care garantează prezența lui fixă."
+     },
+     {
+      "t": " te va purta undeva unde eu nu voi ști, și voi veni să îi spun lui Ahab, și el nu te va găsi și atunci mă va omorî. Dar slujitorul tău s-a temut de DOMNUL [încă] de pe vremea când eram "
+     },
+     {
+      "t": "tânăr",
+      "w": "tânăr",
+      "heb": "מִנְּעֻרָי",
+      "translit": "mi-neurai",
+      "strong": "H5271",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "din tinerețea mea.",
+      "dict_ro": "Ne'urim, „tinerețe” — apel emoțional final la un istoric lung și constant de credincioșie, nu doar o virtute recentă sau oportunistă — Ovadia își pledează cauza invocând o viață întreagă de fidelitate, nu un moment izolat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה אֲנִי אֵלֵךְ מֵאִתָּךְ וְרוּחַ יְהוָה יִשָּׂאֲךָ...",
+      "translation": "„Și va fi că, de îndată ce eu mă voi duce de la tine...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἔσται ἐὰν ἐγὼ ἀπέλθω ἀπὸ σοῦ, καὶ πνεῦμα Κυρίου ἀρεῖ σε εἰς τὴν γῆν, ἣν οὐκ οἶδα...",
+      "greek": true,
+      "translation": "„și va fi dacă eu voi pleca de la tine, și duhul Domnului te va ridica într-un pământ pe care nu-l știu...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Ezechiel 3:12",
+     "Ezechiel 8:3"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "18:13",
+    "t": "Cu siguranță stăpânului meu i s-a vestit ce am făcut când Izebel i-a omorât pe profeții DOMNULUI, că am ascuns pe unii din profeții DOMNULUI, o sută de bărbați, câte cincizeci într-o peșteră, și i-am hrănit cu pâine și apă.",
+    "heb": "הֲלֹא־הֻגַּד לַאדֹנִי אֵת אֲשֶׁר־עָשִׂיתִי בַּהֲרֹג אִיזֶבֶל אֵת נְבִיאֵי יְהוָה וָאַחְבִּא מִנְּבִיאֵי יְהוָה מֵאָה אִישׁ חֲמִשִּׁים חֲמִשִּׁים אִישׁ בַּמְּעָרָה וָאֲכַלְכְּלֵם לֶחֶם וָמָיִם׃",
+    "translit": "Ha-lo-huggad l-adoni et asher-asiti ba-harog Izevel et nevi'ei Adonai va-achbi mi-nevi'ei Adonai me'ah ish chamishim chamishim ish ba-me'arah va-achalkelem lechem va-mayim.",
+    "tokens": [
+     {
+      "t": "Cu siguranță stăpânului meu i s-a "
+     },
+     {
+      "t": "vestit",
+      "w": "vestit",
+      "heb": "הֻגַּד",
+      "translit": "huggad",
+      "strong": "H5046",
+      "pos": "verb, hofal perfect",
+      "def_ro": "i s-a vestit.",
+      "dict_ro": "Rădăcina nagad, la forma pasivă — Ovadia repetă, cu detalii identice deja narate direct de text la v.4, fapta lui riscantă, sperând ca reamintirea concretă a acestui act de curaj să-l convingă pe Ilie de sinceritatea temerii sale actuale."
+     },
+     {
+      "t": " ce am făcut când Izebel i-a omorât pe profeții DOMNULUI, că am ascuns pe unii din profeții DOMNULUI, o sută de bărbați, câte cincizeci într-o peșteră, și i-am hrănit cu pâine și apă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֲלֹא־הֻגַּד לַאדֹנִי אֵת אֲשֶׁר־עָשִׂיתִי...",
+      "translation": "„Cu siguranță stăpânului meu i s-a vestit ce am făcut...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "ᾖ οὐκ ἀπηγγέλη σοι τῷ κυρίῳ μου, οἷα πεποίηκα ἐν τῷ ἀποκτείνειν τὴν Ἰεζάβελ τοὺς προφήτας Κυρίου...",
+      "greek": true,
+      "translation": "„oare nu ți s-a vestit ție, stăpânul meu, ce am făcut când ucidea Iezabel pe profeții Domnului...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:14",
+    "t": "Iar acum tu îmi spui: «Du-te și spune-i stăpânului tău că Eliahu este aici», iar el mă va omorî.”",
+    "heb": "וְעַתָּה אַתָּה אֹמֵר לֵךְ אֱמֹר לַאדֹנֶיךָ הִנֵּה אֵלִיָּהוּ וַהֲרָגָנִי׃",
+    "translit": "Ve-attah attah omer lekh emor l-adonekha hinneh Eliyahu va-haragani.",
+    "tokens": [
+     {
+      "t": "Iar acum tu îmi spui: «Du-te și spune-i stăpânului tău că Eliahu este aici», iar el mă va "
+     },
+     {
+      "t": "omorî",
+      "w": "omorî",
+      "heb": "וַהֲרָגָנִי",
+      "translit": "va-haragani",
+      "strong": "H2026",
+      "pos": "verb, qal perfect",
+      "def_ro": "și mă va ucide.",
+      "dict_ro": "Rădăcina harag — încheie discursul lui Ovadia exact cum îl deschisese (v.9), cu aceeași teamă concretă a morții, formând o structură circulară de argumentare, tipică unui om aflat sub presiune emoțională reală."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה אַתָּה אֹמֵר לֵךְ אֱמֹר לַאדֹנֶיךָ הִנֵּה אֵלִיָּהוּ וַהֲרָגָנִי׃",
+      "translation": "„Iar acum tu îmi spui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ νῦν σὺ λέγεις μοι· πορεύου, λέγε τῷ κυρίῳ σου· ἰδοὺ Ἠλιού· καὶ ἀποκτενεῖ με?",
+      "greek": true,
+      "translation": "„și acum tu îmi zici: mergi, spune stăpânului tău: iată Ilie; și mă va ucide?”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:15",
+    "t": "Eliahu a spus: „Viu este DOMNUL Oștirilor, înaintea Căruia am stat: azi mă voi înfățișa înaintea lui [Ahab].”",
+    "heb": "וַיֹּאמֶר אֵלִיָּהוּ חַי יְהוָה צְבָאוֹת אֲשֶׁר עָמַדְתִּי לְפָנָיו כִּי הַיּוֹם אֵרָאֶה אֵלָיו׃",
+    "translit": "Va-yomer Eliyahu chai Adonai Tseva'ot asher amadti lefanav ki ha-yom era'eh elav.",
+    "tokens": [
+     {
+      "t": "Eliahu a spus: „Viu este DOMNUL Oștirilor, înaintea Căruia "
+     },
+     {
+      "t": "am stat",
+      "w": "am stat",
+      "heb": "עָמַדְתִּי",
+      "translit": "amadti",
+      "strong": "H5975",
+      "pos": "verb, qal perfect",
+      "def_ro": "am stat, slujesc.",
+      "dict_ro": "Rădăcina amad, „a sta” — formulă de autodescriere profetică standard (aceeași expresie revine la 2 Regi 3:14, 5:16), desemnând poziția de slujitor permanent, activ, în prezența divină — garanția lui Ilie e proprie credibilitate profetică, nu doar o promisiune verbală obișnuită."
+     },
+     {
+      "t": ": azi mă voi înfățișa înaintea lui [Ahab].”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר אֵלִיָּהוּ חַי יְהוָה צְבָאוֹת אֲשֶׁר עָמַדְתִּי לְפָנָיו...",
+      "translation": "„Eliahu a spus: «Viu este DOMNUL Oștirilor...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ εἶπεν Ἠλιού· ζῇ Κύριος τῶν δυνάμεων, ᾧ παρέστην ἐνώπιον αὐτοῦ, ὅτι σήμερον ὀφθήσομαι αὐτῷ.",
+      "greek": true,
+      "translation": "„și a zis Ilie: viu este Domnul puterilor, înaintea căruia am stat, căci astăzi mă voi arăta lui.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "2 Regi 3:14",
+     "2 Regi 5:16"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "18:16",
+    "t": "Ovadia a mers către Ahab și i-a spus, iar Ahab a mers către Eliahu.",
+    "heb": "וַיֵּלֶךְ עֹבַדְיָהוּ לִקְרַאת אַחְאָב וַיַּגֶּד־לוֹ וַיֵּלֶךְ אַחְאָב לִקְרַאת אֵלִיָּהוּ׃",
+    "translit": "Va-yelekh Ovadyahu likrat Achav va-yagged-lo va-yelekh Achav likrat Eliyahu.",
+    "tokens": [
+     {
+      "t": "Ovadia a mers către Ahab și i-a spus, iar Ahab a mers către Eliahu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּלֶךְ עֹבַדְיָהוּ לִקְרַאת אַחְאָב וַיַּגֶּד־לוֹ...",
+      "translation": "„Ovadia a mers către Ahab și i-a spus...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐπορεύθη Ἀβδιοὺ εἰς συναντὴν τῷ Ἀχαὰβ καὶ ἀπήγγειλεν αὐτῷ· καὶ ἐξέδραμεν Ἀχαὰβ καὶ ἐπορεύθη εἰς συνάντησιν Ἠλιού.",
+      "greek": true,
+      "translation": "„și a mers Abdiu în întâmpinarea lui Ahaab și i-a vestit; și a alergat Ahaab și a mers în întâmpinarea lui Ilie.”",
+      "note": "LXX adaugă detaliul „a alergat” (ἐξέδραμεν), absent din ebraică, sugerând graba/nerăbdarea lui Ahab de a-l vedea pe Ilie."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:17",
+    "t": "Când Ahab l-a văzut pe Eliahu, Ahab i-a spus: „Tu ești acela care chinuie pe Israel?”",
+    "heb": "וַיְהִי כִּרְאוֹת אַחְאָב אֶת־אֵלִיָּהוּ וַיֹּאמֶר אַחְאָב אֵלָיו הַאַתָּה זֶה עֹכֵר יִשְׂרָאֵל׃",
+    "translit": "Va-yehi kirot Achav et-Eliyahu va-yomer Achav elav ha-attah zeh okher Yisra'el.",
+    "tokens": [
+     {
+      "t": "Când Ahab l-a văzut pe Eliahu, Ahab i-a spus: „Tu ești acela care "
+     },
+     {
+      "t": "chinuie",
+      "w": "chinuie",
+      "heb": "עֹכֵר",
+      "translit": "okher",
+      "strong": "H5916",
+      "pos": "verb, qal participiu",
+      "def_ro": "cel ce tulbură, nenorocește.",
+      "dict_ro": "Rădăcina akhar, „a tulbura, a aduce nenorocire” — aceeași rădăcină ca la Achan, „tulburătorul lui Israel” (Iosua 7:25); Ahab răstoarnă vina asupra lui Ilie, tratându-l ca pe un nou Achan, responsabil de dezastrul secetei, deși cauza reală e propria lui idolatrie."
+     },
+     {
+      "t": " pe Israel?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי כִּרְאוֹת אַחְאָב אֶת־אֵלִיָּהוּ...",
+      "translation": "„Când Ahab l-a văzut pe Eliahu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "Καὶ ἐγένετο ὡς εἶδεν Ἀχαὰβ τὸν Ἠλιού, καὶ εἶπεν Ἀχαὰβ πρὸς Ἠλιού· εἰ σὺ εἶ αὐτὸς ὁ διαστρέφων τὸν Ἰσραήλ?",
+      "greek": true,
+      "translation": "„și a fost când l-a văzut Ahaab pe Ilie, și a zis Ahaab către Ilie: oare tu ești cel ce răstoarnă pe Israel?”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Iosua 7:25"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "18:18",
+    "t": "El i-a spus: „Nu eu l-am chinuit pe Israel, ci tu și casa tatălui tău, când ați părăsit poruncile DOMNULUI și i-ai urmat pe idolii lui Baal!",
+    "heb": "וַיֹּאמֶר לֹא עָכַרְתִּי אֶת־יִשְׂרָאֵל כִּי אִם־אַתָּה וּבֵית אָבִיךָ בַּעֲזָבְכֶם אֶת־מִצְוֹת יְהוָה וַתֵּלֶךְ אַחֲרֵי הַבְּעָלִים׃",
+    "translit": "Va-yomer lo akharti et-Yisra'el ki im-attah u-veit avikha ba-azavkhem et-mitsvot Adonai va-telekh acharei ha-be'alim.",
+    "tokens": [
+     {
+      "t": "El i-a spus: „Nu eu l-am chinuit pe Israel, ci tu și casa tatălui tău, când ați "
+     },
+     {
+      "t": "părăsit",
+      "w": "părăsit",
+      "heb": "בַּעֲזָבְכֶם",
+      "translit": "ba-azavkhem",
+      "strong": "H5800",
+      "pos": "verb, qal infinitiv construct",
+      "def_ro": "când ați părăsit.",
+      "dict_ro": "Rădăcina azav — Ilie inversează direct acuzația lui Ahab, identificând sursa reală a nenorocirii naționale: nu profetul care anunță judecata, ci regele care a provocat-o prin idolatrie sistematică, moștenită de la „casa tatălui tău” (Omri, dinastie cunoscută pentru politica religioasă sincretistă)."
+     },
+     {
+      "t": " poruncile DOMNULUI și i-ai urmat pe "
+     },
+     {
+      "t": "idolii lui Baal",
+      "w": "idolii lui Baal",
+      "heb": "הַבְּעָלִים",
+      "translit": "ha-be'alim",
+      "strong": "H1168",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "idolii Baal, zeii-Baal locali.",
+      "dict_ro": "Ba'alim — plural, referindu-se la multiplele manifestări locale ale cultului lui Baal, zeul canaanit al furtunii și fertilității — exact zeitatea a cărei putere de a aduce ploaie va fi contestată direct în confruntarea de pe Carmel."
+     },
+     {
+      "t": "!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר לֹא עָכַרְתִּי אֶת־יִשְׂרָאֵל...",
+      "translation": "„El i-a spus: «Nu eu l-am chinuit pe Israel...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ εἶπεν Ἠλιού· οὐ διαστρέφω τὸν Ἰσραήλ, ὅτι ἀλλ᾿ ἢ σὺ καὶ οἶκος τοῦ πατρός σου...",
+      "greek": true,
+      "translation": "„și a zis Ilie: nu eu răstorn pe Israel, ci tu și casa tatălui tău...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:19",
+    "t": "Și acum, trimite de adună tot Israelul la mine, la Muntele Carmel, și pe cei patru sute cincizeci de profeți ai lui Baal și pe cei patru sute de profeți ai Așerei, care mănâncă la masa lui Izebel.”",
+    "heb": "וְעַתָּה שְׁלַח קְבֹץ אֵלַי אֶת־כָּל־יִשְׂרָאֵל אֶל־הַר הַכַּרְמֶל וְאֶת־נְבִיאֵי הַבַּעַל אַרְבַּע מֵאוֹת וַחֲמִשִּׁים וּנְבִיאֵי הָאֲשֵׁרָה אַרְבַּע מֵאוֹת אֹכְלֵי שֻׁלְחַן אִיזָבֶל׃",
+    "translit": "Ve-attah shelach kevots elai et-kol-Yisra'el el-har ha-Karmel ve-et-nevi'ei ha-Ba'al arba me'ot va-chamishim u-nevi'ei ha-Asherah arba me'ot okhlei shulchan Izavel.",
+    "tokens": [
+     {
+      "t": "Și acum, trimite de adună tot Israelul la mine, la "
+     },
+     {
+      "t": "Muntele Carmel",
+      "w": "Muntele Carmel",
+      "heb": "הַר הַכַּרְמֶל",
+      "translit": "har ha-Karmel",
+      "strong": "H3760",
+      "pos": "substantiv, masculin",
+      "def_ro": "muntele Carmel.",
+      "dict_ro": "Har ha-Karmel — lanț muntos de coastă, la granița dintre teritoriul israelit și cel fenician, loc simbolic ideal pentru o confruntare religioasă: vizibil de departe, sacru probabil deja pentru ambele culturi, punct neutru de demonstrație publică maximă."
+     },
+     {
+      "t": " și pe cei patru sute cincizeci de profeți ai lui Baal și pe cei patru sute de profeți ai "
+     },
+     {
+      "t": "Așerei",
+      "w": "Așerei",
+      "heb": "הָאֲשֵׁרָה",
+      "translit": "ha-Asherah",
+      "strong": "H842",
+      "pos": "nume propriu",
+      "def_ro": "Așera — zeița canaanită a fertilității.",
+      "dict_ro": "Asherah — divinitate feminină canaanită, adesea asociată cult ca pereche a lui Baal; remarcabil, profeții Așerei nu sunt menționați deloc mai departe în narațiune (doar cei ai lui Baal participă efectiv la confruntare) — o inconsecvență observată de comentatori, posibil explicată prin protecția specială oferită lor de Izebel însăși."
+     },
+     {
+      "t": ", care mănâncă la masa lui Izebel.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה שְׁלַח קְבֹץ אֵלַי אֶת־כָּל־יִשְׂרָאֵל...",
+      "translation": "„Și acum, trimite de adună tot Israelul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ νῦν ἀπόστειλον, συνάθροισον πρός με πάντα Ἰσραὴλ εἰς ὄρος τὸ Καρμήλιον καὶ τοὺς προφήτας τῆς αἰσχύνης τετρακοσίους καὶ πεντήκοντα...",
+      "greek": true,
+      "translation": "„și acum trimite, adună la mine tot Israelul pe muntele Carmelului, și pe profeții rușinii, patru sute cincizeci...”",
+      "note": "Divergență interesantă: LXX traduce „Baal” prin „τῆς αἰσχύνης” („al rușinii”) — o substituție eufemistică deliberată, evitând să pronunțe/transliterareze numele zeului păgân, tehnică folosită și în alte locuri biblice pentru a evita glorificarea implicită a unei zeități false."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:20",
+    "t": "Ahab a trimis [veste] între toți copiii lui Israel și i-a adunat pe profeți la Muntele Carmel.",
+    "heb": "וַיִּשְׁלַח אַחְאָב בְּכָל־בְּנֵי יִשְׂרָאֵל וַיִּקְבֹּץ אֶת־הַנְּבִיאִים אֶל־הַר הַכַּרְמֶל׃",
+    "translit": "Va-yishlach Achav be-khol-benei Yisra'el va-yikbots et-ha-nevi'im el-har ha-Karmel.",
+    "tokens": [
+     {
+      "t": "Ahab a trimis [veste] între toți copiii lui Israel și i-a "
+     },
+     {
+      "t": "adunat",
+      "w": "adunat",
+      "heb": "וַיִּקְבֹּץ",
+      "translit": "va-yikbots",
+      "strong": "H6908",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a adunat.",
+      "dict_ro": "Rădăcina kavats — Ahab se supune fără ezitare cererii lui Ilie, semn poate al propriei lui nesiguranțe religioase reale, dispus să vadă o demonstrație publică decisivă mai degrabă decât să refuze provocarea profetului."
+     },
+     {
+      "t": " pe profeți la Muntele Carmel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח אַחְאָב בְּכָל־בְּנֵי יִשְׂרָאֵל...",
+      "translation": "„Ahab a trimis [veste] între toți copiii lui Israel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἀπέστειλεν Ἀχαὰβ εἰς πάντα Ἰσραὴλ καὶ ἐπισυνήγαγε πάντας τοὺς προφήτας εἰς ὄρος τὸ Καρμήλιον.",
+      "greek": true,
+      "translation": "„și a trimis Ahaab la tot Israelul și a adunat pe toți profeții pe muntele Carmelului.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:21",
+    "t": "Eliahu s-a apropiat de întreg poporul și a spus: „Până când veți mai țopăi între două convingeri? Dacă DOMNUL este Dumnezeu, atunci mergeți după El! Iar dacă este Baal, atunci mergeți după el!” Și poporul nu i-a răspuns nimic.",
+    "heb": "וַיִּגַּשׁ אֵלִיָּהוּ אֶל־כָּל־הָעָם וַיֹּאמֶר עַד־מָתַי אַתֶּם פֹּסְחִים עַל־שְׁתֵּי הַסְּעִפִּים אִם־יְהוָה הָאֱלֹהִים לְכוּ אַחֲרָיו וְאִם־הַבַּעַל לְכוּ אַחֲרָיו וְלֹא־עָנוּ הָעָם אֹתוֹ דָּבָר׃",
+    "translit": "Va-yiggash Eliyahu el-kol-ha-am va-yomer ad-matai attem posechim al-shtei ha-se'ippim im-Adonai ha-Elohim lekhu acharav ve-im-ha-Ba'al lekhu acharav ve-lo-anu ha-am oto davar.",
+    "tokens": [
+     {
+      "t": "Eliahu s-a apropiat de întreg poporul și a spus: „Până când veți mai "
+     },
+     {
+      "t": "țopăi",
+      "w": "țopăi",
+      "heb": "פֹּסְחִים",
+      "translit": "posechim",
+      "strong": "H6452",
+      "pos": "verb, qal participiu",
+      "def_ro": "șchiopătați, săltați între.",
+      "dict_ro": "Rashi explică „shtei ha-se'ippim” drept „cele două gânduri/opinii” — imaginea unui om care șchiopătează, incapabil să meargă drept, nedecis între două alegeri, incapabil să discearnă care e adevăratul Dumnezeu."
+     },
+     {
+      "t": " între "
+     },
+     {
+      "t": "două convingeri",
+      "w": "două convingeri",
+      "heb": "שְׁתֵּי הַסְּעִפִּים",
+      "translit": "shtei ha-se'ippim",
+      "strong": "H5587",
+      "pos": "substantiv, masculin",
+      "def_ro": "cele două gânduri/ramuri.",
+      "dict_ro": "Se'ippim, literal „ramuri, crengi” — metaforă vie: poporul e ca un om călărind pe două crengi diferite deodată, incapabil de a se decide ferm, o sincretism religios practicat inconștient, fără angajament clar de o parte sau alta."
+     },
+     {
+      "t": "? Dacă DOMNUL este Dumnezeu, atunci mergeți după El! Iar dacă este Baal, atunci mergeți după el!” Și poporul nu i-a răspuns nimic."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּגַּשׁ אֵלִיָּהוּ אֶל־כָּל־הָעָם וַיֹּאמֶר עַד־מָתַי אַתֶּם פֹּסְחִים...",
+      "translation": "„Eliahu s-a apropiat de întreg poporul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ προσήγαγεν Ἠλιοὺ πρὸς πάντας, καὶ εἶπεν αὐτοῖς Ἠλιού· ἕως πότε ὑμεῖς χωλανεῖτε ἐπ᾿ ἀμφοτέραις ταῖς ἰγνύαις;",
+      "greek": true,
+      "translation": "„și a venit Ilie la toți, și le-a zis Ilie: până când voi șchiopătați pe amândoi genunchii?”",
+      "note": "LXX omite complet finalul versetului („mergeți după El... mergeți după el... poporul n-a răspuns nimic”), oprindu-se doar la întrebarea retorică — o scurtare notabilă a textului grecesc."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „shtei ha-se'ippim” drept „cele două gânduri/păreri” — imaginea unui om care șchiopătează, incapabil să discearnă cu claritate cine e adevăratul Dumnezeu, tocmai pentru că nu are curajul de a se angaja ferm; tăcerea poporului confirmă exact această paralizie interioară descrisă de metaforă."
+     }
+    ]
+   },
+   {
+    "v": "18:22",
+    "t": "Eliahu i-a spus poporului: „Eu singur am rămas profet al DOMNULUI, dar profeții lui Baal sunt patru sute cincizeci de bărbați.",
+    "heb": "וַיֹּאמֶר אֵלִיָּהוּ אֶל־הָעָם אֲנִי נוֹתַרְתִּי נָבִיא לַיהוָה לְבַדִּי וּנְבִיאֵי הַבַּעַל אַרְבַּע־מֵאוֹת וַחֲמִשִּׁים אִישׁ׃",
+    "translit": "Va-yomer Eliyahu el-ha-am ani notarti navi l-Adonai levaddi u-nevi'ei ha-Ba'al arba-me'ot va-chamishim ish.",
+    "tokens": [
+     {
+      "t": "Eliahu i-a spus poporului: „Eu singur am "
+     },
+     {
+      "t": "rămas",
+      "w": "rămas",
+      "heb": "נוֹתַרְתִּי",
+      "translit": "notarti",
+      "strong": "H3498",
+      "pos": "verb, nifal perfect",
+      "def_ro": "am rămas.",
+      "dict_ro": "Rădăcina yatar, „a rămâne, a fi de prisos” — Ilie descrie disproporția copleșitoare a confruntării: unul singur împotriva a patru sute cincizeci; alți profeți ai DOMNULUI existau, dar ascunși de Ovadia (v.4), astfel „singur” se referă la vizibilitatea publică, nu la existența absolută."
+     },
+     {
+      "t": " profet al DOMNULUI, dar profeții lui Baal sunt patru sute cincizeci de bărbați."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר אֵלִיָּהוּ אֶל־הָעָם אֲנִי נוֹתַרְתִּי נָבִיא לַיהוָה לְבַדִּי...",
+      "translation": "„Eliahu i-a spus poporului: «Eu singur am rămas...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ εἶπεν Ἠλιοὺ πρὸς τὸν λαόν· ἐγὼ ὑπολέλειμμαι προφήτης τοῦ Κυρίου μονώτατος, καὶ οἱ προφῆται τοῦ Βάαλ τετρακόσιοι καὶ πεντήκοντα ἄνδρες",
+      "greek": true,
+      "translation": "„și a zis Ilie către popor: eu am rămas profet al Domnului, cu totul singur, și profeții lui Baal, patru sute cincizeci de bărbați”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "1 Regi 18:4"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "18:23",
+    "t": "Să ni se dea doi tauri; să își aleagă taurul pentru ei, să îl taie și să îl pună peste lemne, dar să nu pună foc. Și eu voi pregăti [celălalt] taur și îl voi pune peste lemne, dar nu voi pune foc.",
+    "heb": "וְיִתְּנוּ־לָנוּ שְׁנַיִם פָּרִים וְיִבְחֲרוּ לָהֶם הַפָּר הָאֶחָד וִינַתְּחֻהוּ וְיָשִׂימוּ עַל־הָעֵצִים וְאֵשׁ לֹא יָשִׂימוּ וַאֲנִי אֶעֱשֶׂה אֶת־הַפָּר הָאֶחָד וְנָתַתִּי עַל־הָעֵצִים וְאֵשׁ לֹא אָשִׂים׃",
+    "translit": "Ve-yittenu-lanu shnayim parim ve-yivcharu lahem ha-par ha-echad vi-natechuhu ve-yasimu al-ha-etsim ve-esh lo yasimu va-ani e'eseh et-ha-par ha-echad ve-natatti al-ha-etsim ve-esh lo asim.",
+    "tokens": [
+     {
+      "t": "Să ni se dea doi tauri; să își aleagă taurul pentru ei, să îl "
+     },
+     {
+      "t": "taie",
+      "w": "taie",
+      "heb": "וִינַתְּחֻהוּ",
+      "translit": "vi-natechuhu",
+      "strong": "H5408",
+      "pos": "verb, piel imperfect",
+      "def_ro": "și să-l taie în bucăți.",
+      "dict_ro": "Rădăcina natach, „a tăia [animal de jertfă] în bucăți” — termen tehnic ritual pentru pregătirea standard a unei jertfe de ardere-de-tot; condiția experimentului e rigidă și corectă — identică pentru ambele tabere, fără avantaj procedural pentru niciuna."
+     },
+     {
+      "t": " și să îl pună peste lemne, dar să nu pună foc. Și eu voi pregăti [celălalt] taur și îl voi pune peste lemne, dar nu voi pune foc."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְיִתְּנוּ־לָנוּ שְׁנַיִם פָּרִים וְיִבְחֲרוּ לָהֶם הַפָּר הָאֶחָד...",
+      "translation": "„Să ni se dea doi tauri...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "δότωσαν ἡμῖν δύο βόας, καὶ ἐκλεξάσθωσαν ἑαυτοῖς τὸν ἕνα καὶ μελισάτωσαν",
+      "greek": true,
+      "translation": "„să ne dea doi boi, și să-și aleagă unul și să-l taie în bucăți”",
+      "note": "Traducere fidelă structurii ebraice, deși mai condensată."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:24",
+    "t": "Să strigați în numele dumnezeului vostru și eu o să strig în numele DOMNULUI, și va fi că acela dintre dumnezei care va răspunde cu foc, el este Dumnezeu.” Iar poporul a răspuns și a spus: „Este bun lucrul.”",
+    "heb": "וּקְרָאתֶם בְּשֵׁם אֱלֹהֵיכֶם וַאֲנִי אֶקְרָא בְשֵׁם־יְהוָה וְהָיָה הָאֱלֹהִים אֲשֶׁר־יַעֲנֶה בָאֵשׁ הוּא הָאֱלֹהִים וַיַּעַן כָּל־הָעָם וַיֹּאמְרוּ טוֹב הַדָּבָר׃",
+    "translit": "U-keratem be-shem eloheikhem va-ani ekra ve-shem-Adonai ve-hayah ha-Elohim asher-ya'aneh va-esh hu ha-Elohim va-ya'an kol-ha-am va-yomeru tov ha-davar.",
+    "tokens": [
+     {
+      "t": "Să strigați în numele dumnezeului vostru și eu o să strig în numele DOMNULUI, și va fi că acela dintre dumnezei care va "
+     },
+     {
+      "t": "răspunde",
+      "w": "răspunde",
+      "heb": "יַעֲנֶה",
+      "translit": "ya'aneh",
+      "strong": "H6030",
+      "pos": "verb, qal imperfect",
+      "def_ro": "va răspunde.",
+      "dict_ro": "Rădăcina anah — condiția stabilită de Ilie e strict verificabilă empiric: nu o dispută teologică abstractă, ci un test public, obiectiv, cu un rezultat vizibil și indiscutabil pentru toți cei prezenți."
+     },
+     {
+      "t": " cu foc, el este Dumnezeu.” Iar poporul a răspuns și a spus: „Este bun lucrul.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּקְרָאתֶם בְּשֵׁם אֱלֹהֵיכֶם וַאֲנִי אֶקְרָא בְשֵׁם־יְהוָה...",
+      "translation": "„Să strigați în numele dumnezeului vostru...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ βοᾶτε ἐν ὀνόματι θεῶν ὑμῶν, καὶ ἐγὼ ἐπικαλέσομαι ἐν τῷ ὀνόματι Κυρίου τοῦ Θεοῦ μου",
+      "greek": true,
+      "translation": "„și strigați în numele dumnezeilor voștri, iar eu voi chema în numele Domnului Dumnezeului meu”",
+      "note": "LXX omite finalul versetului (condiția focului și confirmarea poporului), oprindu-se doar la propunerea inițială — o scurtare consecventă cu tiparul deja observat la v.21."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:25",
+    "t": "Eliahu le-a spus profeților lui Baal: „Alegeți-vă un taur și pregătiți-l primii, căci voi sunteți cei mulți, și strigați în numele dumnezeului vostru, dar să nu puneți foc.”",
+    "heb": "וַיֹּאמֶר אֵלִיָּהוּ לִנְבִיאֵי הַבַּעַל בַּחֲרוּ לָכֶם הַפָּר הָאֶחָד וַעֲשׂוּ רִאשֹׁנָה כִּי אַתֶּם הָרַבִּים וְקִרְאוּ בְּשֵׁם אֱלֹהֵיכֶם וְאֵשׁ לֹא תָשִׂימוּ׃",
+    "translit": "Va-yomer Eliyahu li-nevi'ei ha-Ba'al bacharu lakhem ha-par ha-echad va-asu rishonah ki attem ha-rabbim ve-kiru be-shem eloheikhem ve-esh lo tasimu.",
+    "tokens": [
+     {
+      "t": "Eliahu le-a spus profeților lui Baal: „Alegeți-vă un taur și pregătiți-l primii, căci voi sunteți "
+     },
+     {
+      "t": "cei mulți",
+      "w": "cei mulți",
+      "heb": "הָרַבִּים",
+      "translit": "ha-rabbim",
+      "strong": "H7227",
+      "pos": "adjectiv, masculin",
+      "def_ro": "cei mulți, majoritari.",
+      "dict_ro": "Rashi observă un gest de curtoazie/strategie a lui Ilie: îi lasă pe profeții lui Baal să înceapă primii, tocmai pentru a le oferi toată vremea și avantajul numeric posibil, subliniind astfel, prin contrast maxim, eșecul lor total — condițiile testului nu puteau fi acuzate ulterior de vreo nedreptate procedurală."
+     },
+     {
+      "t": " și strigați în numele dumnezeului vostru, dar să nu puneți foc.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר אֵלִיָּהוּ לִנְבִיאֵי הַבַּעַל בַּחֲרוּ לָכֶם הַפָּר הָאֶחָד...",
+      "translation": "„Eliahu le-a spus profeților lui Baal...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ εἶπεν Ἠλιοὺ τοῖς προφήταις τῆς αἰσχύνης· ἐκλέξασθε ἑαυτοῖς τὸν μόσχον τὸν ἕνα",
+      "greek": true,
+      "translation": "„și a zis Ilie profeților rușinii: alegeți-vă unul vițelul”",
+      "note": "LXX continuă eufemismul „profeți ai rușinii” de la v.19, și scurtează dramatic restul versetului, omițând motivul („căci sunteți mulți”) și restricția focului."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi observă că unul dintre cei doi tauri desemnați pentru profeții lui Baal s-a smucit și a fugit spre Ilie, refuzând să fie jertfit unei divinități false; Ilie i-a spus taurului: „du-te, prin voi amândoi [prin tine și prin taurul rămas cu profeții] se va sfinți Numele” — o tradiție care atribuie chiar animalului o formă de recunoaștere instinctivă a sfințeniei adevărate."
+     }
+    ]
+   },
+   {
+    "v": "18:26",
+    "t": "Ei au luat taurul pe care li l-a dat și l-au pregătit și au strigat în numele lui Baal de dimineață până la prânz, spunând: „O Baal, răspunde-ne!” Dar nu a fost nici sunet și nici răspuns, iar ei au dansat lângă altarul pe care îl făcuse[ră].",
+    "heb": "וַיִּקְחוּ אֶת־הַפָּר אֲשֶׁר־נָתַן לָהֶם וַיַּעֲשׂוּ וַיִּקְרְאוּ בְשֵׁם־הַבַּעַל מֵהַבֹּקֶר וְעַד־הַצָּהֳרַיִם לֵאמֹר הַבַּעַל עֲנֵנוּ וְאֵין קוֹל וְאֵין עֹנֶה וַיְפַסְּחוּ עַל־הַמִּזְבֵּחַ אֲשֶׁר עָשָׂה׃",
+    "translit": "Va-yikchu et-ha-par asher-natan lahem va-ya'asu va-yikre'u ve-shem-ha-Ba'al me-ha-boker ve-ad-ha-tsahorayim lemor ha-Ba'al anenu ve-ein kol ve-ein oneh va-yefassechu al-ha-mizbe'ach asher asah.",
+    "tokens": [
+     {
+      "t": "Ei au luat taurul pe care li l-a dat și l-au pregătit și au strigat în numele lui Baal de dimineață până la prânz, spunând: „O Baal, răspunde-ne!” Dar nu a fost nici sunet și nici răspuns, iar ei au "
+     },
+     {
+      "t": "dansat",
+      "w": "dansat",
+      "heb": "וַיְפַסְּחוּ",
+      "translit": "va-yefassechu",
+      "strong": "H6452",
+      "pos": "verb, piel imperfect",
+      "def_ro": "au sărit/dansat ritual.",
+      "dict_ro": "Rashi citește Targumul lui Ionatan: „se învârteau/dansau după obiceiul lor” în jurul altarului — aceeași rădăcină ca „posechim” din v.21 („șchiopătând”), sugerând acum o coregrafie rituală extatică, disperată, în jurul altarului mut al lui Baal."
+     },
+     {
+      "t": " lângă altarul pe care îl făcuse[ră]."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּקְחוּ אֶת־הַפָּר אֲשֶׁר־נָתַן לָהֶם וַיַּעֲשׂוּ...",
+      "translation": "„Ei au luat taurul pe care li l-a dat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἔλαβον τὸν μόσχον καὶ ἐποίησαν καὶ ἐπεκαλοῦντο ἐν ὀνόματι τοῦ Βάαλ ἐκ πρωΐθεν ἕως μεσημβρίας",
+      "greek": true,
+      "translation": "„și au luat vițelul și l-au pregătit și au chemat în numele lui Baal de dimineață până la amiază”",
+      "note": "LXX omite finalul versetului (tăcerea totală și dansul ritual lângă altar), oprindu-se la simpla chemare a numelui."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi, citând Targumul lui Ionatan, explică „va-yefassechu” drept „se învârteau, dansau după obiceiul lor” în jurul altarului — un ritual coregrafic disperat, aceeași rădăcină ca „posechim” (șchiopătând) din v.21, imagine a agitației zadarnice în fața tăcerii absolute a lui Baal."
+     }
+    ]
+   },
+   {
+    "v": "18:27",
+    "t": "La amiază, Eliahu i-a batjocorit și a spus: „Strigați cu voce tare, căci este dumnezeu. Poate vorbește, sau poate este ocupat, sau poate este pe drum, sau poate doarme și [așa] se va trezi.”",
+    "heb": "וַיְהִי בַצָּהֳרַיִם וַיְהַתֵּל בָּהֶם אֵלִיָּהוּ וַיֹּאמֶר קִרְאוּ בְקוֹל־גָּדוֹל כִּי־אֱלֹהִים הוּא כִּי שִׂיחַ וְכִי־שִׂיג לוֹ וְכִי־דֶרֶךְ לוֹ אוּלַי יָשֵׁן הוּא וְיִקָץ׃",
+    "translit": "Va-yehi va-tsahorayim va-yehattel bahem Eliyahu va-yomer kiru ve-kol-gadol ki-Elohim hu ki siach ve-khi-sig lo ve-khi-derekh lo ulai yashen hu ve-yikats.",
+    "tokens": [
+     {
+      "t": "La amiază, Eliahu i-a "
+     },
+     {
+      "t": "batjocorit",
+      "w": "batjocorit",
+      "heb": "וַיְהַתֵּל",
+      "translit": "va-yehattel",
+      "strong": "H2048",
+      "pos": "verb, piel imperfect",
+      "def_ro": "și-a bătut joc.",
+      "dict_ro": "Rădăcina hatal, „a batjocori, a-și bate joc” — unicul moment de ironie deschisă, satirică, a lui Ilie în toată narațiunea, folosind aceleași categorii omenești (ocupație, călătorie, somn) pentru a dezvălui absurditatea închinării la o statuie neputincioasă."
+     },
+     {
+      "t": " și a spus: „Strigați cu voce tare, căci este dumnezeu. Poate vorbește, sau poate este "
+     },
+     {
+      "t": "ocupat",
+      "w": "ocupat",
+      "heb": "שִׂיג",
+      "translit": "sig",
+      "strong": "H7873",
+      "pos": "substantiv, masculin",
+      "def_ro": "urmărire, treabă.",
+      "dict_ro": "Sig — cuvânt rar; Rashi îl explică prin „poate are treabă cu sfetnicii lui acum” sau „poate e ocupat urmărind pe cineva la război acum” — o glosă concretă, aproape comică, a inactivității zeului tăcut."
+     },
+     {
+      "t": ", sau poate este pe drum, sau poate "
+     },
+     {
+      "t": "doarme",
+      "w": "doarme",
+      "heb": "יָשֵׁן",
+      "translit": "yashen",
+      "strong": "H3463",
+      "pos": "adjectiv, masculin",
+      "def_ro": "adormit.",
+      "dict_ro": "Yashen, „adormit” — ultima și cea mai directă ironie: chiar dacă zeul ar exista, condiția lui de „somn” confirmă neputința totală, incapabil să reacționeze la propriii lui adoratori disperați."
+     },
+     {
+      "t": " și [așa] se va trezi.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי בַצָּהֳרַיִם וַיְהַתֵּל בָּהֶם אֵלִיָּהוּ...",
+      "translation": "„La amiază, Eliahu i-a batjocorit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐγένετο μεσημβρία καὶ ἐμυκτήρισεν αὐτοὺς Ἠλιοὺ ὁ Θεσβίτης",
+      "greek": true,
+      "translation": "„și a fost amiază și i-a batjocorit Ilie Tesviteanul”",
+      "note": "LXX adaugă epitetul „Tesviteanul” (originea geografică a lui Ilie, cf. 1 Regi 17:1) și omite complet lista batjocoritoare a activităților posibile ale zeului tăcut."
+     }
+    ],
+    "refs": [
+     "1 Regi 17:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică fiecare din opțiunile batjocoritoare ale lui Ilie: „siach” — poate are treabă cu sfetnicii lui acum; „sig” — poate urmărește pe cineva la război; „derekh” — literal, „la budă” [eufemism pentru nevoia fiziologică] — o interpretare crudă, deliberat degradantă, care reduce statuia unui zeu la limitele cele mai umilitoare ale corporalității omenești."
+     }
+    ]
+   },
+   {
+    "v": "18:28",
+    "t": "Ei au strigat cu voce tare și s-au tăiat cu săbiile și cuțitele, după obiceiul lor, până le-a țâșnit sângele.",
+    "heb": "וַיִּקְרְאוּ בְּקוֹל גָּדוֹל וַיִּתְגֹּדְדוּ כְּמִשְׁפָּטָם בַּחֲרָבוֹת וּבָרְמָחִים עַד־שְׁפָךְ־דָּם עֲלֵיהֶם׃",
+    "translit": "Va-yikre'u be-kol gadol va-yitgodedu ke-mishpatam ba-charavot u-va-remachim ad-shefokh-dam aleihem.",
+    "tokens": [
+     {
+      "t": "Ei au strigat cu voce tare și s-au "
+     },
+     {
+      "t": "tăiat",
+      "w": "tăiat",
+      "heb": "וַיִּתְגֹּדְדוּ",
+      "translit": "va-yitgodedu",
+      "strong": "H1413",
+      "pos": "verb, hitpael imperfect",
+      "def_ro": "s-au tăiat, s-au brăzdat.",
+      "dict_ro": "Rădăcina gadad, „a se tăia, a face incizii” — practică rituală păgână interzisă explicit poporului Israel (Deuteronom 14:1, „nu vă veți face incizii... pentru un mort”); contrastul cu autocontrolul disciplinat al lui Ilie e maxim, subliniind natura autodistructivă a cultului lui Baal."
+     },
+     {
+      "t": " cu săbiile și cuțitele, după obiceiul lor, până le-a "
+     },
+     {
+      "t": "țâșnit sângele",
+      "w": "țâșnit sângele",
+      "heb": "עַד־שְׁפָךְ־דָּם",
+      "translit": "ad-shefokh-dam",
+      "strong": "H8210",
+      "pos": "verb, qal infinitiv construct",
+      "def_ro": "până a curs sângele.",
+      "dict_ro": "Shafakh dam, „a vărsa sânge” — culminarea disperării rituale: profeții lui Baal se rănesc singuri, sperând ca oferirea propriului sânge să provoace o reacție divină — gest care nu face decât să adâncească tăcerea totală care urmează la v.29."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּקְרְאוּ בְּקוֹל גָּדוֹל וַיִּתְגֹּדְדוּ כְּמִשְׁפָּטָם...",
+      "translation": "„Ei au strigat cu voce tare și s-au tăiat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐπεκαλοῦντο ἐν φωνῇ μεγάλῃ καὶ κατετέμνοντο κατὰ τὸν ἐθισμὸν αὐτῶν ἐν μαχαίραις καὶ σειρομάσταις",
+      "greek": true,
+      "translation": "„și chemau cu glas mare și se tăiau după obiceiul lor cu săbii și sulițe”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Deuteronom 14:1"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "18:29",
+    "t": "Iar după ce a trecut amiaza, au profețit până la vremea jertfei de după-amiază, dar nu a fost nici sunet, nici cine să răspundă sau să asculte.",
+    "heb": "וַיְהִי כַּעֲבֹר הַצָּהֳרַיִם וַיִּתְנַבְּאוּ עַד לַעֲלוֹת הַמִּנְחָה וְאֵין־קוֹל וְאֵין־עֹנֶה וְאֵין קָשֶׁב׃",
+    "translit": "Va-yehi ka-avor ha-tsahorayim va-yitnabbe'u ad la-alot ha-minchah ve-ein-kol ve-ein-oneh ve-ein kashev.",
+    "tokens": [
+     {
+      "t": "Iar după ce a trecut amiaza, au "
+     },
+     {
+      "t": "profețit",
+      "w": "profețit",
+      "heb": "וַיִּתְנַבְּאוּ",
+      "translit": "va-yitnabbe'u",
+      "strong": "H5012",
+      "pos": "verb, hitpael imperfect",
+      "def_ro": "au profețit, au intrat în extaz profetic.",
+      "dict_ro": "Rădăcina naba, la forma reflexivă — nu profeție veritabilă, ci o formă de extaz ritual auto-indus, o stare delirantă de comportament frenetic; textul folosește termenul tehnic al profeției autentice ironic, pentru a descrie o contrafacere goală, fără conținut real."
+     },
+     {
+      "t": " până la vremea jertfei de după-amiază, dar nu a fost nici sunet, nici cine să răspundă sau să "
+     },
+     {
+      "t": "asculte",
+      "w": "asculte",
+      "heb": "קָשֶׁב",
+      "translit": "kashev",
+      "strong": "H7182",
+      "pos": "substantiv, masculin",
+      "def_ro": "atenție, ascultare.",
+      "dict_ro": "Kashev — triplă negație finală (nici sunet, nici răspuns, nici atenție) desăvârșește imaginea tăcerii absolute, totale, a lui Baal — verdictul empiric al testului propus la v.24 e deja, la acest punct, complet dovedit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי כַּעֲבֹר הַצָּהֳרַיִם וַיִּתְנַבְּאוּ עַד לַעֲלוֹת הַמִּנְחָה...",
+      "translation": "„Iar după ce a trecut amiaza...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐπροφήτευον ἕως οὗ παρῆλθε τὸ δειλινόν. καὶ ἐγένετο ὡς ὁ καιρὸς τοῦ ἀναβῆναι τὴν θυσίαν καὶ οὐκ ἦν φωνή.",
+      "greek": true,
+      "translation": "„și profețeau până a trecut seara. și a fost când era vremea să se aducă jertfa, și nu era glas.”",
+      "note": "Traducere apropiată, cu o singură negație finală (nu era glas), spre deosebire de tripla negație a textului masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "18:30",
+    "t": "Eliahu a spus întregului popor: „Apropiați-vă de mine” și tot poporul s-a apropiat de el. El a refăcut altarul distrus al DOMNULUI.",
+    "heb": "וַיֹּאמֶר אֵלִיָּהוּ לְכָל־הָעָם גְּשׁוּ אֵלַי וַיִּגְּשׁוּ כָל־הָעָם אֵלָיו וַיְרַפֵּא אֶת־מִזְבַּח יְהוָה הֶהָרוּס׃",
+    "translit": "Va-yomer Eliyahu le-khol-ha-am geshu elai va-yiggeshu khol-ha-am elav va-yerappe et-mizbach Adonai he-harus.",
+    "tokens": [
+     {
+      "t": "Eliahu a spus întregului popor: „Apropiați-vă de mine” și tot poporul s-a apropiat de el. El a "
+     },
+     {
+      "t": "refăcut",
+      "w": "refăcut",
+      "heb": "וַיְרַפֵּא",
+      "translit": "va-yerappe",
+      "strong": "H7495",
+      "pos": "verb, piel imperfect",
+      "def_ro": "a vindecat, a refăcut.",
+      "dict_ro": "Rădăcina rafa, „a vindeca” — alegere verbală remarcabilă: nu simpla „reconstruire” a unui zid, ci „vindecarea” altarului, ca și cum piatra însăși ar fi o rană a memoriei colective; Rashi identifică acest altar dărâmat cu cel construit odinioară de regele Saul pe Carmel (1 Samuel 15:12), distrus ulterior de regii idolatri ai lui Israel."
+     },
+     {
+      "t": " altarul distrus al DOMNULUI."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר אֵלִיָּהוּ לְכָל־הָעָם גְּשׁוּ אֵלַי...",
+      "translation": "„Eliahu a spus întregului popor: «Apropiați-vă de mine»...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ εἶπεν Ἠλιοὺ πρὸς τὸν λαόν· προσαγάγετε πρός με· καὶ προσήγαγε πᾶς ὁ λαὸς πρὸς αὐτόν.",
+      "greek": true,
+      "translation": "„și a zis Ilie către popor: apropiați-vă de mine; și s-a apropiat tot poporul de el.”",
+      "note": "LXX omite finalul versetului despre refacerea altarului, care apare separat abia la versetul următor."
+     }
+    ],
+    "refs": [
+     "1 Samuel 15:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi propune, alături de sensul simplu (Ilie a reamintit poporului de altarul DOMNULUI, uitat și interzis din memoria colectivă a celor zece triburi), o tradiție midrashică: altarul dărâmat era chiar cel construit de regele Saul pe muntele Carmel (1 Samuel 15:12), distrus între timp de regii idolatri ai lui Israel — Ilie nu construiește un altar nou, ci reînviază unul vechi, legitim."
+     }
+    ]
+   },
+   {
+    "v": "18:31",
+    "t": "Eliahu a luat douăsprezece pietre, după numărul triburilor copiilor lui Iacov, la care venise cuvântul DOMNULUI, spunând: „Numele tău va fi Israel.”",
+    "heb": "וַיִּקַּח אֵלִיָּהוּ שְׁתֵּים עֶשְׂרֵה אֲבָנִים כְּמִסְפַּר שִׁבְטֵי בְנֵי־יַעֲקֹב אֲשֶׁר הָיָה דְבַר־יְהוָה אֵלָיו לֵאמֹר יִשְׂרָאֵל יִהְיֶה שְׁמֶךָ׃",
+    "translit": "Vayikah Eliahu șteim esre avanim kemispar șivtei venei-Yaakov așer haya devar-ADONAI elav lemor Israël yihye șemecha.",
+    "tokens": [
+     {
+      "t": "Eliahu a luat douăsprezece "
+     },
+     {
+      "t": "pietre",
+      "w": "pietre",
+      "heb": "אֲבָנִים",
+      "translit": "avanim",
+      "strong": "H68",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "pietre.",
+      "dict_ro": "Even, „piatră” — alegerea numărului doisprezece, câte una pentru fiecare trib, are un precedent direct: Moise ridică doisprezece stâlpi la poalele Sinaiului (Exod 24:4), iar Iosua așază douăsprezece pietre din Iordan la Ghilgal (Iosua 4:20). Gestul lui Ilie afirmă simbolic unitatea celor douăsprezece triburi — deși zece dintre ele trăiau la acea vreme separat, în regatul de nord — printr-un act de cult centrat pe Muntele Carmel."
+     },
+     {
+      "t": ", după numărul triburilor copiilor lui Iacov, la care venise cuvântul DOMNULUI, spunând: „Numele tău va fi "
+     },
+     {
+      "t": "Israel",
+      "w": "Israel",
+      "heb": "יִשְׂרָאֵל",
+      "translit": "Israël",
+      "strong": "H3478",
+      "pos": "substantiv propriu",
+      "def_ro": "Israel — numele dat lui Iacov.",
+      "dict_ro": "Numele Israel, „cel ce a luptat cu Dumnezeu”, i-a fost dat lui Iacov mai întâi la Peniel, după lupta cu îngerul (Geneza 32:29), și reafirmat apoi la Betel (Geneza 35:10). Rashi observă că menționarea explicită a acestui episod în gura lui Ilie, la Carmel, amintește poporului divizat de rădăcina lui comună, unică — un contrast direct cu ruptura religioasă provocată de cultul lui Baal."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּקַּח אֵלִיָּהוּ שְׁתֵּים עֶשְׂרֵה אֲבָנִים כְּמִסְפַּר שִׁבְטֵי בְנֵי־יַעֲקֹב...",
+      "translation": "„Eliahu a luat douăsprezece pietre...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἔλαβεν Ἠλιοὺ δώδεκα λίθους κατὰ ἀριθμὸν φυλῶν τοῦ Ἰσραήλ, ὡς ἐλάλησε Κύριος πρὸς αὐτὸν λέγων· Ἰσραὴλ ἔσται τὸ ὄνομά σου.",
+      "greek": true,
+      "translation": "„și a luat Ilie doisprezece pietre după numărul triburilor lui Israel, precum a grăit Domnul către el zicând: Israel va fi numele tău.”",
+      "note": "LXX spune „triburile lui Israel”, nu „triburile fiilor lui Iacov” ca textul masoretic — variantă de formulare fără schimbare de sens."
+     }
+    ],
+    "refs": [
+     "Geneza 32:29",
+     "Geneza 35:10",
+     "Exod 24:4",
+     "Iosua 4:20"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi leagă explicit numele „Israel” de episodul de la Betel (Geneza 35:10), unde DOMNUL i-a reafirmat lui Iacov acest nume după întoarcerea din Padan-Aram — Bereishit Rabbah citează acest verset ca dovadă a continuității numelui între patriarh și poporul întreg, chiar și în vremea diviziunii politice dintre cele două regate."
+     }
+    ]
+   },
+   {
+    "v": "18:32",
+    "t": "A construit cu pietrele un altar în numele DOMNULUI și a făcut un șanț suficient de larg ca să se planteze două măsuri de sămânță, de jur împrejurul altarului.",
+    "heb": "וַיִּבְנֶה אֶת־הָאֲבָנִים מִזְבֵּחַ בְּשֵׁם יְהוָה וַיַּעַשׂ תְּעָלָה כְּבֵית סָאתַיִם זֶרַע סָבִיב לַמִּזְבֵּחַ׃",
+    "translit": "Vayivne et-haavanim mizbeah beșem ADONAI vayaas teala keveit satayim zera saviv lamizbeah.",
+    "tokens": [
+     {
+      "t": "A construit cu pietrele un altar în numele DOMNULUI și a făcut un "
+     },
+     {
+      "t": "șanț",
+      "w": "șanț",
+      "heb": "תְּעָלָה",
+      "translit": "teala",
+      "strong": "H8585",
+      "pos": "substantiv, feminin",
+      "def_ro": "șanț, canal.",
+      "dict_ro": "Te'alah — termen tehnic pentru un canal săpat în jurul altarului; Rashi îl traduce, folosind terminologia franceză medievală a vremii lui, prin „fossade” (șanț de apărare). Rolul lui aici e dublu: separă vizual altarul de teren, dar mai ales elimină orice suspiciune de truc — apa turnată nu se poate scurge neobservată, orice foc care ar apărea ulterior nu poate fi atribuit unei scântei ascunse."
+     },
+     {
+      "t": " suficient de larg ca să se planteze două măsuri de sămânță, de jur împrejurul altarului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּבְנֶה אֶת־הָאֲבָנִים מִזְבֵּחַ בְּשֵׁם יְהוָה...",
+      "translation": "„A construit cu pietrele un altar în numele DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ᾠκοδόμησε τοὺς λίθους ἐν ὀνόματι Κυρίου καὶ ἰάσατο τὸ θυσιαστήριον τὸ κατεσκαμμένον, καὶ ἐποίησε θάλασσαν χωροῦσαν δύο μετρητὰς σπέρματος κυκλόθεν τοῦ θυσιαστηρίου.",
+      "greek": true,
+      "translation": "„și a zidit pietrele în numele Domnului și a vindecat altarul cel surpat, și a făcut un bazin cuprinzând două măsuri de sămânță împrejurul altarului.”",
+      "note": "LXX repetă aici, ca și la v.30, verbul „a vindeca” (ἰάσατο) pentru altarul dărâmat, și traduce te'alah prin θάλασσαν („bazin”, lit. „mare”) — termenul folosit și pentru bazinul mare de bronz din curtea Templului lui Solomon (1 Regi 7:23)."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică măsura „ke-veit sa'tayim” (cât încape doi sa'im de sămânță) ca fiind aceeași suprafață — o sută pe cincizeci de coți — cu cea a curții Cortului Întâlnirii din pustiu, o comparație pe care o deduce din calculul rabinic tradițional al ariei curții Tabernacolului."
+     }
+    ]
+   },
+   {
+    "v": "18:33",
+    "t": "A aranjat lemnele, a tăiat taurul și l-a pus peste lemne.",
+    "heb": "וַיַּעֲרֹךְ אֶת־הָעֵצִים וַיְנַתַּח אֶת־הַפָּר וַיָּשֶׂם עַל־הָעֵצִים׃",
+    "translit": "Vayaaroch et-haetzim vayenatah et-hapar vayasem al-haetzim.",
+    "tokens": [
+     {
+      "t": "A aranjat lemnele, a "
+     },
+     {
+      "t": "tăiat",
+      "w": "tăiat",
+      "heb": "וַיְנַתַּח",
+      "translit": "vayenatah",
+      "strong": "H5408",
+      "pos": "verb, piel imperfect",
+      "def_ro": "a tăiat în bucăți.",
+      "dict_ro": "Natah, „a tăia în bucăți” — același verb tehnic folosit pentru tranșarea jertfelor de ardere-de-tot în Levitic 1:6,12; Ilie urmează întocmai procedura rituală mozaică a jertfei, spre deosebire de profeții lui Baal, ale căror gesturi (v.28) sunt haotice și automutilante — contrastul dintre ordine sacră și frenezie păgână e deliberat construit de narator."
+     },
+     {
+      "t": " taurul și l-a pus peste lemne."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעֲרֹךְ אֶת־הָעֵצִים וַיְנַתַּח אֶת־הַפָּר...",
+      "translation": "„A aranjat lemnele, a tăiat taurul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἐστοίβασε τὰς σχίδακας ἐπὶ τὸ θυσιαστήριον, ὃ ἐποίησε, καὶ ἐμέλισε τὸ ὁλοκαύτωμα καὶ ἐπέθηκεν ἐπὶ τὰς σχίδακας καὶ ἐστοίβασεν ἐπὶ τὸ θυσιαστήριον καὶ εἶπε· λάβετέ μοι τέσσαρας ὑδρίας ὕδατος καὶ ἐπιχέετε ἐπὶ τὸ ὁλοκαύτωμα καὶ ἐπὶ τὰς σχίδακας· καὶ ἐποίησαν οὕτως.",
+      "greek": true,
+      "translation": "„și a stivuit lemnele pe altarul pe care l-a făcut, și a tranșat arderea-de-tot și a pus-o peste lemne și a stivuit pe altar, și a zis: aduceți-mi patru vase de apă și turnați peste arderea-de-tot și peste lemne; și au făcut așa.”",
+      "note": "LXX unește în același verset porunca despre cele patru vase de apă, pe care textul masoretic o separă distinct la versetul 34."
+     }
+    ],
+    "refs": [
+     "Levitic 1:6",
+     "Levitic 1:12"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "18:34",
+    "t": "Și a spus: „Umpleți patru ulcioare cu apă și turnați-le pe arderea-de-tot și pe lemne.” Apoi a spus: „Faceți a doua oară!” și ei au făcut a doua oară, iar el a spus: „Faceți a treia oară!” și ei au făcut a treia oară.",
+    "heb": "וַיֹּאמֶר מִלְאוּ אַרְבָּעָה כַדִּים מַיִם וְיִצְקוּ עַל־הָעֹלָה וְעַל־הָעֵצִים וַיֹּאמֶר שְׁנוּ וַיִּשְׁנוּ וַיֹּאמֶר שַׁלֵּשׁוּ וַיְשַׁלֵּשׁוּ׃",
+    "translit": "Vayomer milu arbaa kadim mayim veyitzku al-haola veal-haetzim vayomer șenu vayișnu vayomer șaleșu vayeșaleșu.",
+    "tokens": [
+     {
+      "t": "Și a spus: „Umpleți patru "
+     },
+     {
+      "t": "ulcioare",
+      "w": "ulcioare",
+      "heb": "כַדִּים",
+      "translit": "kadim",
+      "strong": "H3537",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "ulcioare, vase de lut.",
+      "dict_ro": "Kad — vasul obișnuit pentru purtat apă (cf. Rebeca la fântână, Geneza 24:14); repetarea de trei ori a turnării apei, într-o perioadă de secetă severă (1 Regi 18:5, unde apa era atât de rară încât Ahab și Ovadia cutreierau țara căutând izvoare) transformă gestul într-o dovadă publică maximă: apa, resursa cea mai prețioasă a momentului, e irosită deliberat, tocmai pentru a elimina orice bănuială de truc."
+     },
+     {
+      "t": " cu apă și turnați-le pe arderea-de-tot și pe lemne.” Apoi a spus: „Faceți a doua oară!” și ei au făcut a doua oară, iar el a spus: „Faceți a treia oară!” și ei au făcut a treia oară."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מִלְאוּ אַרְבָּעָה כַדִּים מַיִם...",
+      "translation": "„Și a spus: «Umpleți patru ulcioare cu apă»...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ εἶπε· δευτερώσατε· καὶ ἐδευτέρωσαν. καὶ εἶπε· τρισσώσατε· καὶ ἐτρίσσευσαν.",
+      "greek": true,
+      "translation": "„și a zis: faceți a doua oară; și au făcut a doua oară. și a zis: faceți a treia oară; și au făcut a treia oară.”",
+      "note": "LXX omite aici porunca inițială despre umplerea celor patru ulcioare, mutată la versetul anterior (33) — vezi nota de acolo."
+     }
+    ],
+    "refs": [
+     "Geneza 24:14",
+     "1 Regi 18:5"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "18:35",
+    "t": "Și apa s-a scurs de jur împrejurul altarului și chiar și șanțul s-a umplut cu apă.",
+    "heb": "וַיֵּלְכוּ הַמַּיִם סָבִיב לַמִּזְבֵּחַ וְגַם אֶת־הַתְּעָלָה מִלֵּא־מָיִם׃",
+    "translit": "Vayelchu hamayim saviv lamizbeah vegam et-hateala mile-mayim.",
+    "tokens": [
+     {
+      "t": "Și "
+     },
+     {
+      "t": "apa",
+      "w": "apa",
+      "heb": "הַמַּיִם",
+      "translit": "hamayim",
+      "strong": "H4325",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "apa.",
+      "dict_ro": "Mayim — Rashi păstrează aici o tradiție remarcabilă: cel care a purtat efectiv apa din mare (probabil de pe coasta Carmelului, cea mai apropiată sursă suficient de mare pentru un asemenea volum) a fost tânărul discipol Elișa, al cărui merit — udarea mâinilor lui Ilie (o expresie folosită mai târziu literal, în 2 Regi 3:11, „Elișa... care turna apă pe mâinile lui Ilie”) — i-a adus mai apoi darul profetic dublu."
+     },
+     {
+      "t": " s-a scurs de jur împrejurul altarului și chiar și șanțul s-a umplut cu apă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּלְכוּ הַמַּיִם סָבִיב לַמִּזְבֵּחַ...",
+      "translation": "„Și apa s-a scurs de jur împrejurul altarului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ διεπορεύετο τὸ ὕδωρ κύκλῳ τοῦ θυσιαστηρίου, καὶ τὴν θάλασσαν ἔπλησαν ὕδατος.",
+      "greek": true,
+      "translation": "„și apa curgea de jur împrejurul altarului, și au umplut bazinul cu apă.”",
+      "note": "Traducere fidelă, cu θάλασσαν („bazinul”) pentru te'alah, ca și la v.32."
+     }
+    ],
+    "refs": [
+     "2 Regi 3:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică, pe baza unei tradiții rabinice, slujitorul care a adus apa din mare cu tânărul Elișa — degetele lui, spune tradiția, au devenit ca niște izvoare, capabile să poarte cantitatea uriașă de apă necesară pentru a umple de trei ori vasele și șanțul întreg, într-o vreme de secetă totală; meritul acestui gest e legat explicit de chemarea sa profetică ulterioară."
+     }
+    ]
+   },
+   {
+    "v": "18:36",
+    "t": "La vremea jertfei de după-amiază, profetul Eliahu s-a apropiat și a spus: „DOAMNE, Dumnezeul lui Avraham, Isaac și Israel, astăzi se va ști că Tu ești Dumnezeu în Israel și că eu sunt slujitorul Tău și că după cuvântul Tău am făcut toate aceste lucruri.",
+    "heb": "וַיְהִי בַּעֲלוֹת הַמִּנְחָה וַיִּגַּשׁ אֵלִיָּהוּ הַנָּבִיא וַיֹּאמַר יְהוָה אֱלֹהֵי אַבְרָהָם יִצְחָק וְיִשְׂרָאֵל הַיּוֹם יִוָּדַע כִּי־אַתָּה אֱלֹהִים בְּיִשְׂרָאֵל וַאֲנִי עַבְדֶּךָ ובדבריך [וּבִדְבָרְךָ] עָשִׂיתִי אֵת כָּל־הַדְּבָרִים הָאֵלֶּה׃",
+    "translit": "Vayehi baalot haminha vayigaș Eliahu hanavi vayomar ADONAI Elohei Avraham Yițhak veIsraël hayom yivada ki-ata Elohim beIsraël vaani avdecha uvidvar'cha asiti et kol-hadevarim haele.",
+    "tokens": [
+     {
+      "t": "La vremea jertfei de după-amiază, profetul Eliahu s-a apropiat și a spus: „DOAMNE, Dumnezeul lui Avraham, Isaac și Israel, astăzi se va ști că Tu ești Dumnezeu în Israel și că eu sunt slujitorul Tău și că după "
+     },
+     {
+      "t": "cuvântul Tău",
+      "w": "cuvântul Tău",
+      "heb": "וּבִדְבָרְךָ",
+      "translit": "uvidvar'cha",
+      "strong": "H1697",
+      "pos": "substantiv, masculin, cu sufix pronominal",
+      "def_ro": "prin cuvântul Tău, la porunca Ta.",
+      "dict_ro": "Davar, „cuvânt, poruncă” — textul masoretic are aici o formă scrisă neobișnuită (ketiv „ובדבריך”, plural, „prin cuvintele Tale”) citită diferit (qere „וּבִדְבָרְךָ”, singular). Rashi explică miza teologică a expresiei: Ilie subliniază că a construit un altar și a adus jertfă pe un munte (o bamah), lucru interzis în afara Templului după centralizarea cultului — dar a făcut-o EXPLICIT „după cuvântul Tău”, adică printr-o îngăduință profetică excepțională, nu din proprie inițiativă."
+     },
+     {
+      "t": " am făcut toate aceste lucruri."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי בַּעֲלוֹת הַמִּנְחָה וַיִּגַּשׁ אֵלִיָּהוּ הַנָּבִיא...",
+      "translation": "„La vremea jertfei de după-amiază, profetul Eliahu s-a apropiat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἀνεβόησεν Ἠλιοὺ εἰς τὸν οὐρανὸν καὶ εἶπε· Κύριε ὁ Θεὸς Ἁβραὰμ καὶ Ἰσαὰκ καὶ Ἰσραήλ, ἐπάκουσόν μου, Κύριε, ἐπάκουσόν μου σήμερον ἐν πυρί, καὶ γνώτωσαν πᾶς ὁ λαὸς οὗτος ὅτι σὺ εἶ Κύριος ὁ Θεὸς Ἰσραὴλ καὶ ἐγὼ δοῦλός σου καὶ διὰ σὲ πεποίηκα τὰ ἔργα ταῦτα.",
+      "greek": true,
+      "translation": "„și a strigat Ilie spre cer și a zis: Doamne, Dumnezeul lui Avraam și Isaac și Israel, ascultă-mă, Doamne, ascultă-mă astăzi cu foc, și să știe tot poporul acesta că Tu ești Domnul Dumnezeul lui Israel și eu sunt robul Tău și pentru Tine am făcut lucrurile acestea.”",
+      "note": "Divergență reală, notabilă: LXX include deja aici cererea „ascultă-mă cu foc”, pe care textul masoretic o plasează abia la versetul următor (37) — Septuaginta anticipează și dublează astfel tema rugăciunii, structură diferită de cea ebraică, dar fără schimbare de sens doctrinar."
+     }
+    ],
+    "refs": [
+     "Geneza 12:1-3",
+     "Exod 3:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citește „prin cuvântul Tău” ca justificarea explicită a lui Ilie pentru jertfa adusă pe Carmel — o bamah, un altar privat, interzis după centralizarea cultului israelit la Templu: Ilie nu acționează din proprie autoritate, ci printr-o poruncă profetică directă a DOMNULUI, singura circumstanță în care o asemenea jertfă rămâne legitimă."
+     }
+    ]
+   },
+   {
+    "v": "18:37",
+    "t": "Răspunde-mi, DOAMNE, răspunde-mi, și fă acest popor să știe că Tu ești DOMNUL Dumnezeu, și că Tu le vei întoarce inimile înapoi.”",
+    "heb": "עֲנֵנִי יְהוָה עֲנֵנִי וְיֵדְעוּ הָעָם הַזֶּה כִּי־אַתָּה יְהוָה הָאֱלֹהִים וְאַתָּה הֲסִבֹּתָ אֶת־לִבָּם אֲחֹרַנִּית׃",
+    "translit": "Aneni ADONAI aneni veyedeu haam haze ki-ata ADONAI haElohim veata hasibota et-libam ahoranit.",
+    "tokens": [
+     {
+      "t": "„"
+     },
+     {
+      "t": "Răspunde-mi",
+      "w": "Răspunde-mi",
+      "heb": "עֲנֵנִי",
+      "translit": "aneni",
+      "strong": "H6030",
+      "pos": "verb, qal imperativ, cu sufix pronominal",
+      "def_ro": "răspunde-mi.",
+      "dict_ro": "Anah, „a răspunde” — repetat de două ori, apel dublu intens. Targum Yonatan parafrazează teologic dubla cerere ca „răspunde-mi cu foc, răspunde-mi cu ploaie” — anticipând ploaia promisă la v.1 și adusă efectiv la finalul capitolului (v.41-45). Rashi notează grija reală a lui Ilie, exprimată în surse rabinice: dacă focul ar cădea fără explicație clară dinaintea poporului, riscul era ca minunea să fie atribuită vrăjitoriei, nu DOMNULUI — de aceea rugăciunea insistă explicit asupra scopului „ca să știe poporul acesta”, exact ca Moise înaintea răscoalei lui Korah (Numeri 16:28-30), care își leagă public autoritatea profetică de rezultatul vizibil al unui semn."
+     },
+     {
+      "t": ", DOAMNE, răspunde-mi, și fă acest popor să știe că Tu ești DOMNUL Dumnezeu, și că Tu le vei întoarce inimile înapoi.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עֲנֵנִי יְהוָה עֲנֵנִי...",
+      "translation": "„Răspunde-mi, DOAMNE, răspunde-mi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "ἐπάκουσόν μου, Κύριε, ἐπάκουσόν μου ἐν πυρί, καὶ γνώτω ὁ λαὸς οὗτος, ὅτι σὺ εἶ Κύριος ὁ Θεὸς καὶ σὺ ἔστρεψας τὴν καρδίαν τοῦ λαοῦ τούτου ὀπίσω.",
+      "greek": true,
+      "translation": "„ascultă-mă, Doamne, ascultă-mă cu foc, și să știe poporul acesta că Tu ești Domnul Dumnezeu și Tu ai întors înapoi inima poporului acestuia.”",
+      "note": "LXX reia aici, a doua oară, cererea „cu foc” (deja anticipată la v.36) — dublare specifică textului grecesc, vezi nota de la versetul precedent."
+     }
+    ],
+    "refs": [
+     "Numeri 16:28-30"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Pe baza Targumului lui Yonatan ben Uziel, Rashi explică dubla cerere „răspunde-mi” ca acoperind două minuni distincte, legate una de alta: focul care va cădea imediat (v.38) și ploaia promisă încă de la v.1, care va veni la finalul capitolului — Ilie cere DOMNULUI să confirme public, prin ambele semne, că israeliții s-au întors deja, în inimile lor, spre El."
+     }
+    ]
+   },
+   {
+    "v": "18:38",
+    "t": "Un foc al DOMNULUI a coborât și a mistuit arderea-de-tot și lemnele, și pietrele și țărâna; și a lins și apa care era în șanț.",
+    "heb": "וַתִּפֹּל אֵשׁ־יְהוָה וַתֹּאכַל אֶת־הָעֹלָה וְאֶת־הָעֵצִים וְאֶת־הָאֲבָנִים וְאֶת־הֶעָפָר וְאֶת־הַמַּיִם אֲשֶׁר־בַּתְּעָלָה לִחֵכָה׃",
+    "translit": "Vatipol eș-ADONAI vatochal et-haola veet-haetzim veet-haavanim veet-heafar veet-hamayim așer-bateala lihecha.",
+    "tokens": [
+     {
+      "t": "Un "
+     },
+     {
+      "t": "foc",
+      "w": "foc",
+      "heb": "אֵשׁ",
+      "translit": "eș",
+      "strong": "H784",
+      "pos": "substantiv, feminin",
+      "def_ro": "foc.",
+      "dict_ro": "Esh — focul DOMNULUI aici nu doar consumă jertfa (funcție normală a focului de altar), ci mistuie totul: lemnele, pietrele altarului însuși, țărâna de dedesubt și chiar apa din șanț, „a lins-o” (lichah, verb folosit altfel pentru limbile animalelor, cf. Judecători 7:5) — o intensitate care depășește complet natura fizică a focului obișnuit, semn al unei intervenții supranaturale totale, fără ambiguitate posibilă."
+     },
+     {
+      "t": " al DOMNULUI a coborât și a mistuit arderea-de-tot și lemnele, și pietrele și țărâna; și a lins și apa care era în șanț."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתִּפֹּל אֵשׁ־יְהוָה וַתֹּאכַל אֶת־הָעֹלָה...",
+      "translation": "„Un foc al DOMNULUI a coborât și a mistuit arderea-de-tot...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἔπεσε πῦρ παρὰ Κυρίου ἐκ τοῦ οὐρανοῦ καὶ κατέφαγε τὰ ὁλοκαυτώματα καὶ τὰς σχίδακας καὶ τὸ ὕδωρ τὸ ἐν τῇ θαλάσσῃ, καὶ τοὺς λίθους καὶ τὸν χοῦν ἐξέλειξε τὸ πῦρ.",
+      "greek": true,
+      "translation": "„și a căzut foc de la Domnul din cer și a mistuit arderile-de-tot și lemnele și apa cea din bazin, și pietrele și țărâna le-a lins focul.”",
+      "note": "LXX adaugă explicit „din cer” (ἐκ τοῦ οὐρανοῦ), detaliu absent în textul masoretic, dar subînțeles din context; ordinea elementelor mistuite diferă ușor, fără schimbare de sens."
+     }
+    ],
+    "refs": [
+     "Judecători 7:5",
+     "Levitic 9:24"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "18:39",
+    "t": "Tot poporul a văzut și au căzut cu fețele [la pământ] și au spus: „DOMNUL – El este Dumnezeul! DOMNUL – El este Dumnezeul!”",
+    "heb": "וַיַּרְא כָּל־הָעָם וַיִּפְּלוּ עַל־פְּנֵיהֶם וַיֹּאמְרוּ יְהוָה הוּא הָאֱלֹהִים יְהוָה הוּא הָאֱלֹהִים׃",
+    "translit": "Vayar kol-haam vayiplu al-peneihem vayomru ADONAI hu haElohim ADONAI hu haElohim.",
+    "tokens": [
+     {
+      "t": "Tot poporul a văzut și au căzut cu fețele [la pământ] și au spus: „DOMNUL – El este "
+     },
+     {
+      "t": "Dumnezeul",
+      "w": "Dumnezeul",
+      "heb": "הָאֱלֹהִים",
+      "translit": "haElohim",
+      "strong": "H430",
+      "pos": "substantiv, masculin plural (formă de măreție), cu articol",
+      "def_ro": "Dumnezeul, El [este] Dumnezeu.",
+      "dict_ro": "Ha-Elohim, cu articolul hotărât — Rashi subliniază precis ce anume recunoaște poporul: nu doar că DOMNUL e „un” dumnezeu printre alții, ci că El, și NU Baal, este singurul Dumnezeu adevărat. Repetarea de două ori a formulei (o dată pentru fiecare din cele două minuni cerute la v.37 — focul, deja căzut, și ploaia care va urma) încheie public, definitiv, disputa deschisă de Ilie la v.21: „Până când veți mai țopăi între două convingeri?”"
+     },
+     {
+      "t": "! DOMNUL – El este Dumnezeul!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּרְא כָּל־הָעָם וַיִּפְּלוּ עַל־פְּנֵיהֶם...",
+      "translation": "„Tot poporul a văzut și au căzut cu fețele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate)",
+      "original": "καὶ ἔπεσε πᾶς ὁ λαὸς ἐπὶ πρόσωπον αὐτῶν καὶ εἶπον· ἀληθῶς Κύριος ὁ Θεός, αὐτὸς ὁ Θεός.",
+      "greek": true,
+      "translation": "„și a căzut tot poporul cu fața la pământ și au zis: cu adevărat Domnul este Dumnezeu, El este Dumnezeu.”",
+      "note": "LXX adaugă „cu adevărat” (ἀληθῶς) și nu repetă complet formula a doua oară în forma identică — traduce sensul, nu structura repetitivă exactă a ebraicii, dar păstrează ideea centrală: recunoașterea publică unanimă."
+     }
+    ],
+    "refs": [
+     "1 Regi 18:21",
+     "Deuteronom 4:35",
+     "Deuteronom 4:39"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi precizează sensul exact al aclamației: poporul nu spune doar „DOMNUL este Dumnezeu” în general, ci, în contextul disputei directe cu Baal, afirmă explicit că DOMNUL — și nu Baal — este singurul Dumnezeu adevărat; repetarea dublă a formulei încheie simetric întrebarea retorică pusă de Ilie la v.21, transformând nehotărârea poporului în mărturisire unanimă."
      }
     ]
    }
