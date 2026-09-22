@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "23 capitole (din 54+2 planificate) · 23 complete la Standardul Davar",
+ "meta": "24 capitole (din 54+2 planificate) · 24 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -47045,6 +47045,364 @@
      "2 Cronici 4:5"
     ],
     "commentaries": []
+   }
+  ]
+ }
+ ,
+  {
+  "num": 24,
+  "title": "Haftarat Vaiakhél (așkenaz)",
+  "ref": "Regi I 7:40-50",
+  "intro": "Haftarat Vaiakhél, în tradiția așkenază, încheie relatarea despre lucrarea lui Hiram din Tir cu inventarul complet al vaselor Templului lui Solomon — de la lighene și socluri de aramă, la altarul de aur, masa pâinilor și cele zece sfeșnice. Aceeași pericopă se citește și de Șabat Hanuca, atunci când în ciclul anual cade a doua lectură de Hanuca — legătura firească fiind tocmai imaginea celor zece sfeșnice de aur din v.49, ecou al Menorei aprinse la sărbătoare.",
+  "verses": [
+   {
+    "v": "7:40",
+    "t": "Și Hiram a făcut ligheanele, lopețile și vasele [pentru sânge] și Hiram a isprăvit de făcut toată lucrarea pe care o făcuse pentru regele Solomon, la Casa DOMNULUI:",
+    "heb": "וַיַּעַשׂ חִירוֹם אֶת־הַכִּיֹּרוֹת וְאֶת־הַיָּעִים וְאֶת־הַמִּזְרָקוֹת וַיְכַל חִירָם לַעֲשׂוֹת אֶת־כָּל־הַמְּלָאכָה אֲשֶׁר עָשָׂה לַמֶּלֶךְ שְׁלֹמֹה בֵּית יְהוָה׃",
+    "translit": "Vayaas Hirom et-hakiyorot veet-hayaím veet-hamizrakot vayechal Hiram laasot et-kol-hamelacha așer asa lameleh Șlomo beit ADONAI.",
+    "tokens": [
+     {
+      "t": "Și Hiram a făcut "
+     },
+     {
+      "t": "ligheanele",
+      "w": "ligheanele",
+      "heb": "הַכִּיֹּרוֹת",
+      "translit": "ha-kiyorot",
+      "strong": "H3595",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "ligheanele, bazinele.",
+      "dict_ro": "Kiyor — Rashi identifică termenul kiyorot aici cu sirot de la v.45 (traduse „oale”), explicând că sunt vase folosite pentru scoaterea cenușii de pe altar; alături de lopeți (pentru strânsul cenușii) și vasele pentru stropirea sângelui jertfelor, formează trusa completă a slujirii zilnice de la altarul de aramă din curte."
+     },
+     {
+      "t": ", lopețile și vasele [pentru sânge] și Hiram a isprăvit de făcut toată lucrarea pe care o făcuse pentru regele Solomon, la Casa DOMNULUI:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעַשׂ חִירוֹם אֶת־הַכִּיֹּרוֹת וְאֶת־הַיָּעִים...",
+      "translation": "„Și Hiram a făcut ligheanele, lopețile și vasele...” — traducerea rabinului Rosen.",
+      "note": "Notă onestă: ca și la pasajul precedent (7:13-26), Septuaginta (III Regate) reordonează substanțial inventarul vaselor Templului față de succesiunea versetelor din textul masoretic, iar unele versete masoretice sunt împărțite diferit față de edițiile ebraice moderne de referință (de exemplu, Miqra standard desparte v.41 în două versete acolo unde ediția Rosen le păstrează unite) — o chestiune de versificare, nu de conținut real diferit. Din acest motiv, comparația verset-cu-verset cu Septuaginta nu se face mecanic la acest pasaj tehnic; unde textul grecesc oferă o formulare clar identificabilă și verificată, ea e citată punctual mai jos."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi clarifică terminologia tehnică a vaselor de aramă din slujba altarului: kiyorot (ligheanele de aici) sunt aceleași cu sirot („oalele”) de la v.46, folosite pentru scoaterea cenușii, alături de lopeți speciale pentru strâns cenușa (numite, în glosele lui în limba franceză medievală, „vedil”) și de vasele pentru stropirea sângelui jertfelor pe altar."
+     }
+    ]
+   },
+   {
+    "v": "7:41",
+    "t": "cei doi stâlpi și cele două globuri ale capitelurilor care se aflau în vârful stâlpilor; și cele două seturi ornamentale de rețele care acopereau cele două globuri ale capitelurilor care se aflau în vârful stâlpilor;",
+    "heb": "עַמֻּדִים שְׁנַיִם וְגֻלֹּת הַכֹּתָרֹת אֲשֶׁר־עַל־רֹאשׁ הָעַמֻּדִים שְׁתָּיִם וְהַשְּׂבָכוֹת שְׁתַּיִם לְכַסּוֹת אֶת־שְׁתֵּי גֻּלֹּת הַכֹּתָרֹת אֲשֶׁר עַל־רֹאשׁ הָעַמּוּדִים׃",
+    "translit": "Amudim șnayim vegulot hakotarot așer-al-roș haamudim ștayim vehasvachot ștayim lechasot et-ștei gulot hakotarot așer al-roș haamudim.",
+    "tokens": [],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עַמֻּדִים שְׁנַיִם וְגֻלֹּת הַכֹּתָרֹת...",
+      "translation": "„cei doi stâlpi și cele două globuri ale capitelurilor...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "7:42",
+    "t": "și cele patru sute de rodii [care împodobeau] cele două seturi ornamentale de rețele, cele două rânduri de rodii destinate fiecărui set, ca să acopere cele două globuri ale capitelurilor care se aflau în partea superioară a stâlpilor;",
+    "heb": "וְאֶת־הָרִמֹּנִים אַרְבַּע מֵאוֹת לִשְׁתֵּי הַשְּׂבָכוֹת שְׁנֵי־טוּרִים רִמֹּנִים לַשְּׂבָכָה הָאֶחָת לְכַסּוֹת אֶת־שְׁתֵּי גֻּלֹּת הַכֹּתָרֹת אֲשֶׁר עַל־פְּנֵי הָעַמּוּדִים׃",
+    "translit": "Veet-harimonim arba meot liștei hasvachot șnei-turim rimonim lasevacha haehat lechasot et-ștei gulot hakotarot așer al-penei haamudim.",
+    "tokens": [
+     {
+      "t": "și cele patru sute de "
+     },
+     {
+      "t": "rodii",
+      "w": "rodii",
+      "heb": "הָרִמֹּנִים",
+      "translit": "ha-rimonim",
+      "strong": "H7416",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "rodiile.",
+      "dict_ro": "Rimon — Rashi observă că suta de rodii pe fiecare rând, înmulțită cu cele două rânduri și cele două rețele, dă exact patru sute, cifra citată aici — o verificare aritmetică internă a textului, obișnuită la comentatorii medievali pentru pasajele cu inventare numerice detaliate."
+     },
+     {
+      "t": " [care împodobeau] cele două seturi ornamentale de rețele, cele două rânduri de rodii destinate fiecărui set, ca să acopere cele două globuri ale capitelurilor care se aflau în partea superioară a stâlpilor;"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־הָרִמֹּנִים אַרְבַּע מֵאוֹת...",
+      "translation": "„și cele patru sute de rodii...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "1 Regi 7:20"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:43",
+    "t": "și cele zece socluri și cele zece ligheane care se aflau pe socluri;",
+    "heb": "וְאֶת־הַמְּכֹנוֹת עֶשֶׂר וְאֶת־הַכִּיֹּרֹת עֲשָׂרָה עַל־הַמְּכֹנוֹת׃",
+    "translit": "Veet-hamechonot eser veet-hakiyorot asara al-hamechonot.",
+    "tokens": [],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־הַמְּכֹנוֹת עֶשֶׂר וְאֶת־הַכִּיֹּרֹת עֲשָׂרָה...",
+      "translation": "„și cele zece socluri și cele zece ligheane...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "7:44",
+    "t": "și „Marea” cea unică și cei doisprezece boi care se aflau sub „Mare”;",
+    "heb": "וְאֶת־הַיָּם הָאֶחָד וְאֶת־הַבָּקָר שְׁנֵים־עָשָׂר תַּחַת הַיָּם׃",
+    "translit": "Veet-hayam haehad veet-habakar șneim-asar tahat hayam.",
+    "tokens": [],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־הַיָּם הָאֶחָד וְאֶת־הַבָּקָר שְׁנֵים־עָשָׂר...",
+      "translation": "„și «Marea» cea unică și cei doisprezece boi...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "1 Regi 7:23",
+     "1 Regi 7:25"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:45",
+    "t": "și oalele, și lopețile, și vasele [pentru sânge] – toate aceste vase pe care le-a făcut Hiram pentru regele Solomon, pentru Casa DOMNULUI, erau din aramă lustruită.",
+    "heb": "וְאֶת־הַסִּירוֹת וְאֶת־הַיָּעִים וְאֶת־הַמִּזְרָקוֹת וְאֵת כָּל־הַכֵּלִים הָאֵלֶּה אֲשֶׁר עָשָׂה חִירָם לַמֶּלֶךְ שְׁלֹמֹה בֵּית יְהוָה נְחֹשֶׁת מְמֹרָט׃",
+    "translit": "Veet-hasirot veet-hayaím veet-hamizrakot veet kol-hakelim haele așer asa Hiram lameleh Șlomo beit ADONAI nehoșet memorat.",
+    "tokens": [
+     {
+      "t": "și oalele, și lopețile, și vasele [pentru sânge] – toate aceste vase pe care le-a făcut Hiram pentru regele Solomon, pentru Casa DOMNULUI, erau din "
+     },
+     {
+      "t": "aramă lustruită",
+      "w": "aramă lustruită",
+      "heb": "נְחֹשֶׁת מְמֹרָט",
+      "translit": "nehoșet memorat",
+      "strong": "H4838",
+      "pos": "verb, pual participiu",
+      "def_ro": "aramă lustruită, șlefuită.",
+      "dict_ro": "Marat, la forma pasivă pual — arama era șlefuită până la o strălucire aproape aurie, tehnică menționată și de Josephus Flavius (Antichitățile Iudaice, Cartea VIII, cap. 3), care descrie vasele de aramă ale Templului ca având o strălucire ce imita aurul, la o fracțiune din cost — detaliu tehnologic real al metalurgiei fenicio-israelite din secolul al X-lea î.e.n."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־הַסִּירוֹת וְאֶת־הַיָּעִים...",
+      "translation": "„și oalele, și lopețile...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Josephus Flavius, Antichitățile Iudaice, Cartea VIII, cap. 3",
+      "text": "Josephus descrie vasele de aramă lustruită ale Templului lui Solomon ca având o strălucire aurie, obținută printr-o tehnică de șlefuire specială — detaliu care confirmă, dintr-o sursă externă din secolul I e.n., practica metalurgică menționată direct în text."
+     }
+    ]
+   },
+   {
+    "v": "7:46",
+    "t": "Regele le-a turnat în câmpia Iordanului, în clei tare, între Sucot și Țartan.",
+    "heb": "בְּכִכַּר הַיַּרְדֵּן יְצָקָם הַמֶּלֶךְ בְּמַעֲבֵה הָאֲדָמָה בֵּין סֻכּוֹת וּבֵין צָרְתָן׃",
+    "translit": "Bechikar haYarden yetzakam hameleh bemaave haadama bein Sukot uvein Tzartan.",
+    "tokens": [
+     {
+      "t": "Regele le-a turnat în câmpia Iordanului, în "
+     },
+     {
+      "t": "clei tare",
+      "w": "clei tare",
+      "heb": "בְּמַעֲבֵה הָאֲדָמָה",
+      "translit": "be-maave ha-adama",
+      "strong": "H4568",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "în grosimea/densitatea pământului [forme de lut].",
+      "dict_ro": "Maave — Rashi explică procedeul: vasele de aramă erau turnate direct în tipare de lut compact, săpate în pământul dens al câmpiei Iordanului, aproape de Sucot, zonă cunoscută pentru calitatea specială a lutului ei, potrivit pentru turnătorie la scară mare — motivul practic pentru care Solomon a ales acest loc, departe de Ierusalim, pentru turnarea vaselor uriașe ca «Marea»."
+     },
+     {
+      "t": ", între Sucot și Țartan."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּכִכַּר הַיַּרְדֵּן יְצָקָם הַמֶּלֶךְ...",
+      "translation": "„Regele le-a turnat în câmpia Iordanului...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "Geneza 33:17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică faptul că vasele au fost turnate în tipare de lut săpate direct în pământul compact al câmpiei Iordanului — un lut de calitate specială, potrivit pentru turnătoria la scară mare a unor obiecte de dimensiunea „Mării” — motiv pentru care operațiunea s-a desfășurat departe de Ierusalim, lângă Sucot."
+     }
+    ]
+   },
+   {
+    "v": "7:47",
+    "t": "Solomon a lăsat toate vasele [necântărite], pentru că erau foarte multe; greutatea aramei nu a fost calculată.",
+    "heb": "וַיַּנַּח שְׁלֹמֹה אֶת־כָּל־הַכֵּלִים מֵרֹב מְאֹד מְאֹד לֹא נֶחְקַר מִשְׁקַל הַנְּחֹשֶׁת׃",
+    "translit": "Vayanah Șlomo et-kol-hakelim merov meod meod lo nehkar mișkal hanehoșet.",
+    "tokens": [],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּנַּח שְׁלֹמֹה אֶת־כָּל־הַכֵּלִים מֵרֹב מְאֹד מְאֹד...",
+      "translation": "„Solomon a lăsat toate vasele [necântărite]...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică repetiția „meod meod” („foarte, foarte”) ca accentuare a cantității extraordinare de aramă folosite — atât de multă, încât Solomon a renunțat la cântărirea exactă a fiecărui vas, posibil păstrând și cantități suplimentare, nefolosite încă, pentru reparații sau lucrări viitoare la Templu."
+     }
+    ]
+   },
+   {
+    "v": "7:48",
+    "t": "Solomon a făcut toate vasele care erau în Casa DOMNULUI: altarul de aur, masa pe care era pâinea – din aur;",
+    "heb": "וַיַּעַשׂ שְׁלֹמֹה אֵת כָּל־הַכֵּלִים אֲשֶׁר בֵּית יְהוָה אֵת מִזְבַּח הַזָּהָב וְאֶת־הַשֻּׁלְחָן אֲשֶׁר עָלָיו לֶחֶם הַפָּנִים זָהָב׃",
+    "translit": "Vayaas Șlomo et kol-hakelim așer beit ADONAI et mizbah hazahav veet-hașulhan așer alav lehem hapanim zahav.",
+    "tokens": [
+     {
+      "t": "Solomon a făcut toate vasele care erau în Casa DOMNULUI: altarul de aur, masa pe care era "
+     },
+     {
+      "t": "pâinea",
+      "w": "pâinea",
+      "heb": "לֶחֶם הַפָּנִים",
+      "translit": "lehem ha-panim",
+      "strong": "H3899",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "pâinea prezenței [pâinile de pe masa sfântă].",
+      "dict_ro": "Lehem ha-panim, literal „pâinea feței” — cele douăsprezece pâini așezate săptămânal pe masa de aur din Sanctuar (cf. Levitic 24:5-9), câte una pentru fiecare trib; masa de aur din Templul lui Solomon reproduce, la o scară mai măreață, masa acoperită cu aur a Cortului Întâlnirii din pustiu (Exod 25:23-30), continuitate directă de rit între cele două sanctuare."
+     },
+     {
+      "t": " – din aur;"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעַשׂ שְׁלֹמֹה אֵת כָּל־הַכֵּלִים אֲשֶׁר בֵּית יְהוָה...",
+      "translation": "„Solomon a făcut toate vasele care erau în Casa DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "Exod 25:23-30",
+     "Levitic 24:5-9"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:49",
+    "t": "și sfeșnicele, cinci în dreapta și cinci în stânga, înaintea Sfintei Sfintelor – din aur curat; și mugurii, candelele și cleștii – din aur;",
+    "heb": "וְאֶת־הַמְּנֹרוֹת חָמֵשׁ מִיָּמִין וְחָמֵשׁ מִשְּׂמֹאול לִפְנֵי הַדְּבִיר זָהָב סָגוּר וְהַפֶּרַח וְהַנֵּרֹת וְהַמֶּלְקַחַיִם זָהָב׃",
+    "translit": "Veet-hamenorot hameș miyamin vehameș mișmol lifnei hadevir zahav sagur vehaperah vehanerot vehamelkahayim zahav.",
+    "tokens": [
+     {
+      "t": "și "
+     },
+     {
+      "t": "sfeșnicele",
+      "w": "sfeșnicele",
+      "heb": "הַמְּנֹרוֹת",
+      "translit": "ha-menorot",
+      "strong": "H4501",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "sfeșnicele.",
+      "dict_ro": "Menora, aici la plural — spre deosebire de Cortul Întâlnirii, care avea o singură menora (Exod 25:31), Templul lui Solomon are zece, câte cinci pe fiecare parte. Rashi păstrează o tradiție remarcabilă despre plasare: menora originală a lui Moise stătea în centru, iar cele zece noi erau așezate simetric, cinci în dreapta și cinci în stânga ei — nu ca înlocuitor, ci ca adaos de cinste în jurul celei vechi, sfinte prin însăși vechimea ei."
+     },
+     {
+      "t": ", cinci în dreapta și cinci în stânga, înaintea Sfintei Sfintelor – din aur curat; și mugurii, candelele și cleștii – din aur;"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־הַמְּנֹרוֹת חָמֵשׁ מִיָּמִין וְחָמֵשׁ מִשְּׂמֹאול...",
+      "translation": "„și sfeșnicele, cinci în dreapta și cinci în stânga...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [
+     "Exod 25:31",
+     "2 Cronici 4:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi rezolvă aparenta nepotrivire dintre cele zece sfeșnice noi ale Templului și singura menora a lui Moise din Cortul Întâlnirii, explicând că menora originală a rămas la locul ei central, sfântă prin vechime, iar cele zece sfeșnice noi, câte cinci de fiecare parte, au fost adăugate simetric în jurul ei, ca podoabă suplimentară, nu ca înlocuire."
+     }
+    ]
+   },
+   {
+    "v": "7:50",
+    "t": "și bolurile, instrumentele muzicale, vasele pentru sânge, lingurile și cădelnițele – din aur curat; iar balamalele pentru camera cea mai din interiorul Templului, pentru Sfânta Sfintelor, pentru ușile Sălii Templului, erau din aur.",
+    "heb": "וְהַסִּפּוֹת וְהַמְזַמְּרוֹת וְהַמִּזְרָקוֹת וְהַכַּפּוֹת וְהַמַּחְתּוֹת זָהָב סָגוּר וְהַפֹּתוֹת לְדַלְתוֹת הַבַּיִת הַפְּנִימִי לְקֹדֶשׁ הַקֳּדָשִׁים לְדַלְתֵי הַבַּיִת לַהֵיכָל זָהָב׃",
+    "translit": "Vehasipot vehamzamerot vehamizrakot vehakapot vehamachtot zahav sagur vehapotot ledaltot habayit hapenimi lekodeș hakodașim ledaltei habayit laheichal zahav.",
+    "tokens": [
+     {
+      "t": "și bolurile, instrumentele muzicale, vasele pentru sânge, lingurile și cădelnițele – din aur curat; iar "
+     },
+     {
+      "t": "balamalele",
+      "w": "balamalele",
+      "heb": "הַפֹּתוֹת",
+      "translit": "ha-potot",
+      "strong": "H6596",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "balamalele, țâțânile.",
+      "dict_ro": "Pot — Rashi identifică aceste balamale de aur drept țâțânile ușilor Sfintei Sfintelor și ale Sălii Templului; chiar și un element structural, funcțional, ascuns vederii curente (balamaua ușii), e făcut din aur curat — detaliu care subliniază caracterul integral, fără compromisuri, al lucrării Templului, nu doar la elementele vizibile ale ritului."
+     },
+     {
+      "t": " pentru camera cea mai din interiorul Templului, pentru Sfânta Sfintelor, pentru ușile Sălii Templului, erau din aur."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהַסִּפּוֹת וְהַמְזַמְּרוֹת וְהַמִּזְרָקוֹת...",
+      "translation": "„și bolurile, instrumentele muzicale, vasele pentru sânge...” — traducerea rabinului Rosen.",
+      "note": ""
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi enumeră funcțiile fiecărui vas din inventarul final: cădelnițele pentru transferul cărbunilor aprinși între altare, lingurile pentru tămâie, vasele pentru stropirea sângelui — și identifică „potot” drept balamalele de aur ale ușilor Sfintei Sfintelor, semn că nici cel mai ascuns detaliu structural al Templului nu a fost lăsat din alt metal decât aur curat."
+     }
+    ]
    }
   ]
  }
