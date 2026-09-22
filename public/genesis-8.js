@@ -11,7 +11,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "ὁ Θεὸς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Dumnezeu."
+        "def_ro": "Dumnezeu."
       },
       {
         "t": " Și-a "
@@ -25,7 +25,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐμνήσθη",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Și-a adus aminte."
+        "def_ro": "Și-a adus aminte."
       },
       {
         "t": " de "
@@ -39,7 +39,7 @@ window.CHAPTER_DATA = [
         "pos": "nume propriu",
         "greek": "τοῦ Νῶε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Noe."
+        "def_ro": "Noe."
       },
       {
         "t": " și de "
@@ -53,7 +53,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "πάντων",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "toate."
+        "def_ro": "toate."
       },
       {
         "t": " "
@@ -67,7 +67,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῶν θηρίων",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "sălbăticiunile."
+        "def_ro": "sălbăticiunile."
       },
       {
         "t": " și de "
@@ -81,7 +81,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "πάντων",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "toate."
+        "def_ro": "toate."
       },
       {
         "t": " "
@@ -95,7 +95,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῶν κτηνῶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "dobitoacele."
+        "def_ro": "dobitoacele."
       },
       {
         "t": " care erau cu "
@@ -109,7 +109,7 @@ window.CHAPTER_DATA = [
         "pos": "prepoziție cu sufix",
         "greek": "μετ᾿ αὐτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "cu el."
+        "def_ro": "cu el."
       },
       {
         "t": " în "
@@ -123,7 +123,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "τῇ κιβωτῷ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "arcă."
+        "def_ro": "arcă."
       },
       {
         "t": "; și Dumnezeu a "
@@ -137,7 +137,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐπήγαγεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a făcut să treacă."
+        "def_ro": "a făcut să treacă."
       },
       {
         "t": " un "
@@ -151,7 +151,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "πνεῦμα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "suflu, vânt."
+        "def_ro": "suflu, vânt."
       },
       {
         "t": " pe "
@@ -165,7 +165,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὴν γῆν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pământ."
+        "def_ro": "pământ."
       },
       {
         "t": " și "
@@ -179,7 +179,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὸ ὕδωρ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "apele."
+        "def_ro": "apele."
       },
       {
         "t": " s-au "
@@ -193,7 +193,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐκόπασεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-au potolit."
+        "def_ro": "s-au potolit."
       },
       {
         "t": "."
@@ -244,7 +244,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "αἱ πηγαὶ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "izvoarele."
+        "def_ro": "izvoarele."
       },
       {
         "t": " "
@@ -258,7 +258,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "τῆς ἀβύσσου",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "adâncului."
+        "def_ro": "adâncului."
       },
       {
         "t": " și "
@@ -272,7 +272,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "οἱ καταρράκται",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "zăgazurile."
+        "def_ro": "zăgazurile."
       },
       {
         "t": " "
@@ -286,7 +286,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τοῦ οὐρανοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "cerurilor."
+        "def_ro": "cerurilor."
       },
       {
         "t": " au fost "
@@ -300,7 +300,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (nifal)",
         "greek": "συνεσχέθησαν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "au fost stăvilite."
+        "def_ro": "au fost stăvilite."
       },
       {
         "t": " și "
@@ -314,7 +314,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "ὁ ὑετὸς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "ploaia."
+        "def_ro": "ploaia."
       },
       {
         "t": " din "
@@ -328,7 +328,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τοῦ οὐρανοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "ceruri."
+        "def_ro": "ceruri."
       },
       {
         "t": " a fost "
@@ -342,7 +342,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (nifal)",
         "greek": "συνεσχέθη",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a fost oprită."
+        "def_ro": "a fost oprită."
       },
       {
         "t": "."
@@ -395,7 +395,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὸ ὕδωρ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "apele."
+        "def_ro": "apele."
       },
       {
         "t": " s-au tot "
@@ -409,7 +409,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐνεδίδου",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-au retras."
+        "def_ro": "s-au retras."
       },
       {
         "t": " de pe "
@@ -423,7 +423,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς γῆς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pământ."
+        "def_ro": "pământ."
       },
       {
         "t": ", "
@@ -437,7 +437,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (infinitiv absolut, dublat)",
         "greek": "πορευόμενον",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "continuu."
+        "def_ro": "continuu."
       },
       {
         "t": ", și la "
@@ -451,7 +451,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "μετὰ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "sfârșitul."
+        "def_ro": "sfârșitul."
       },
       {
         "t": " a "
@@ -465,7 +465,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral",
         "greek": "ἑκατὸν πεντήκοντα ἡμερῶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "o sută cincizeci de zile."
+        "def_ro": "o sută cincizeci de zile."
       },
       {
         "t": " "
@@ -479,7 +479,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὸ ὕδωρ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "apele."
+        "def_ro": "apele."
       },
       {
         "t": " s-au "
@@ -493,7 +493,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἠλαττονοῦτο",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-au împuținat."
+        "def_ro": "s-au împuținat."
       },
       {
         "t": "."
@@ -546,7 +546,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "ἡ κιβωτὸς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "arca."
+        "def_ro": "arca."
       },
       {
         "t": " s-a "
@@ -560,7 +560,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐκάθισεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-a oprit."
+        "def_ro": "s-a oprit."
       },
       {
         "t": " în "
@@ -574,7 +574,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τοῦ μηνὸς τοῦ ἑβδόμου",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "luna a șaptea."
+        "def_ro": "luna a șaptea."
       },
       {
         "t": ", în "
@@ -588,7 +588,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral",
         "greek": "ἑβδόμῃ καὶ εἰκάδι",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a șaptesprezecea zi."
+        "def_ro": "a șaptesprezecea zi."
       },
       {
         "t": " a "
@@ -602,7 +602,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "τοῦ μηνός",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a lunii."
+        "def_ro": "a lunii."
       },
       {
         "t": ", pe "
@@ -616,7 +616,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, stare construită",
         "greek": "τὰ ὄρη",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "munții."
+        "def_ro": "munții."
       },
       {
         "t": " "
@@ -630,7 +630,7 @@ window.CHAPTER_DATA = [
         "pos": "nume propriu",
         "greek": "Ἀραράτ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Ararat."
+        "def_ro": "Ararat."
       },
       {
         "t": "."
@@ -680,7 +680,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὸ ὕδωρ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "apele."
+        "def_ro": "apele."
       },
       {
         "t": " s-au tot "
@@ -694,7 +694,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (infinitiv absolut, dublat)",
         "greek": "ἠλαττονοῦτο",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-au tot împuținat."
+        "def_ro": "s-au tot împuținat."
       },
       {
         "t": " până în "
@@ -708,7 +708,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τοῦ δεκάτου μηνός",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "luna a zecea."
+        "def_ro": "luna a zecea."
       },
       {
         "t": "; iar în "
@@ -722,7 +722,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral, cu articol",
         "greek": "τῷ δεκάτῳ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a zecea."
+        "def_ro": "a zecea."
       },
       {
         "t": " [lună], în "
@@ -736,7 +736,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral, cu prefix",
         "greek": "μιᾷ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "prima."
+        "def_ro": "prima."
       },
       {
         "t": " a "
@@ -750,7 +750,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "τοῦ μηνός",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a lunii."
+        "def_ro": "a lunii."
       },
       {
         "t": ", s-au "
@@ -764,7 +764,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (nifal)",
         "greek": "ὤφθησαν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-au zărit."
+        "def_ro": "s-au zărit."
       },
       {
         "t": " "
@@ -778,7 +778,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, stare construită",
         "greek": "αἱ κεφαλαὶ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "vârfurile."
+        "def_ro": "vârfurile."
       },
       {
         "t": " munților."
@@ -831,7 +831,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐγένετο",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a fost."
+        "def_ro": "a fost."
       },
       {
         "t": ", la "
@@ -845,7 +845,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "μετὰ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "capătul."
+        "def_ro": "capătul."
       },
       {
         "t": " a "
@@ -859,7 +859,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral",
         "greek": "τεσσαράκοντα ἡμέρας",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "patruzeci de zile."
+        "def_ro": "patruzeci de zile."
       },
       {
         "t": ", că "
@@ -873,7 +873,7 @@ window.CHAPTER_DATA = [
         "pos": "nume propriu",
         "greek": "Νῶε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Noe."
+        "def_ro": "Noe."
       },
       {
         "t": " a "
@@ -887,7 +887,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἤνοιξεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a deschis."
+        "def_ro": "a deschis."
       },
       {
         "t": " "
@@ -901,7 +901,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "τὴν θυρίδα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "fereastra."
+        "def_ro": "fereastra."
       },
       {
         "t": " "
@@ -915,7 +915,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς κιβωτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "arcei."
+        "def_ro": "arcei."
       },
       {
         "t": " pe "
@@ -929,7 +929,7 @@ window.CHAPTER_DATA = [
         "pos": "pronume relativ",
         "greek": "ἣν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "care."
+        "def_ro": "care."
       },
       {
         "t": " o "
@@ -943,7 +943,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐποίησεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "făcuse."
+        "def_ro": "făcuse."
       }
     ],
     "textCompare": [
@@ -993,7 +993,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἀπέστειλεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "i-a dat drumul."
+        "def_ro": "i-a dat drumul."
       },
       {
         "t": " "
@@ -1007,7 +1007,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὸν κόρακα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "corbului."
+        "def_ro": "corbului."
       },
       {
         "t": ", iar "
@@ -1021,7 +1021,7 @@ window.CHAPTER_DATA = [
         "pos": "pronume",
         "greek": "ὃς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "el."
+        "def_ro": "el."
       },
       {
         "t": " a "
@@ -1035,7 +1035,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐξελθὼν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a ieșit."
+        "def_ro": "a ieșit."
       },
       {
         "t": " [din arcă], tot "
@@ -1049,7 +1049,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (infinitiv absolut, dublat)",
         "greek": "ἐξελθὼν καὶ οὐχ ὑπέστρεψεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "ducându-se și întorcându-se."
+        "def_ro": "ducându-se și întorcându-se."
       },
       {
         "t": ", până când s-au "
@@ -1063,7 +1063,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (infinitiv)",
         "greek": "ἕως τοῦ ξηρανθῆναι",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-au uscat."
+        "def_ro": "s-au uscat."
       },
       {
         "t": " "
@@ -1077,7 +1077,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὸ ὕδωρ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "apele."
+        "def_ro": "apele."
       },
       {
         "t": " de pe "
@@ -1091,7 +1091,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς γῆς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pământ."
+        "def_ro": "pământ."
       },
       {
         "t": "."
@@ -1148,7 +1148,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἀπέστειλεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a dat drumul."
+        "def_ro": "a dat drumul."
       },
       {
         "t": " "
@@ -1162,7 +1162,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὴν περιστερὰν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "porumbelului."
+        "def_ro": "porumbelului."
       },
       {
         "t": " de la "
@@ -1176,7 +1176,7 @@ window.CHAPTER_DATA = [
         "pos": "prepoziție cu sufix",
         "greek": "ἀπ᾿ αὐτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "de la el."
+        "def_ro": "de la el."
       },
       {
         "t": ", ca să "
@@ -1190,7 +1190,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (infinitiv)",
         "greek": "ἰδεῖν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "să vadă."
+        "def_ro": "să vadă."
       },
       {
         "t": " dacă s-au "
@@ -1204,7 +1204,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "κεκόπακεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-au retras."
+        "def_ro": "s-au retras."
       },
       {
         "t": " apele de pe "
@@ -1218,7 +1218,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, stare construită",
         "greek": "προσώπου",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "fața."
+        "def_ro": "fața."
       },
       {
         "t": " "
@@ -1232,7 +1232,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς γῆς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pământului."
+        "def_ro": "pământului."
       },
       {
         "t": "."
@@ -1285,7 +1285,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "ἡ περιστερὰ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "porumbelul."
+        "def_ro": "porumbelul."
       },
       {
         "t": " nu a "
@@ -1299,7 +1299,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "εὗρεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a găsit."
+        "def_ro": "a găsit."
       },
       {
         "t": " "
@@ -1313,7 +1313,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "ἀνάπαυσιν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "odihnă."
+        "def_ro": "odihnă."
       },
       {
         "t": " pentru "
@@ -1327,7 +1327,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv cu sufix",
         "greek": "τοῖς ποσὶν αὐτῆς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "talpa piciorului ei."
+        "def_ro": "talpa piciorului ei."
       },
       {
         "t": " său și s-a "
@@ -1341,7 +1341,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ὑπέστρεψεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-a întors."
+        "def_ro": "s-a întors."
       },
       {
         "t": " la "
@@ -1355,7 +1355,7 @@ window.CHAPTER_DATA = [
         "pos": "prepoziție cu sufix",
         "greek": "πρὸς αὐτὸν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "la el."
+        "def_ro": "la el."
       },
       {
         "t": ", la "
@@ -1369,7 +1369,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὴν κιβωτόν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "arcă."
+        "def_ro": "arcă."
       },
       {
         "t": ", căci erau "
@@ -1383,7 +1383,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "ὕδωρ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "ape."
+        "def_ro": "ape."
       },
       {
         "t": " pe fața "
@@ -1397,7 +1397,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv (locuțiune)",
         "greek": "πάσης τῆς γῆς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "întregului pământ."
+        "def_ro": "întregului pământ."
       },
       {
         "t": ". Și [Noe] a "
@@ -1411,7 +1411,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐκτείνας",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a întins."
+        "def_ro": "a întins."
       },
       {
         "t": " "
@@ -1425,7 +1425,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv cu sufix",
         "greek": "τὴν χεῖρα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "mâna."
+        "def_ro": "mâna."
       },
       {
         "t": " și l-a "
@@ -1439,7 +1439,7 @@ window.CHAPTER_DATA = [
         "pos": "verb, cu sufix",
         "greek": "ἔλαβεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "l-a luat."
+        "def_ro": "l-a luat."
       },
       {
         "t": " și l-a "
@@ -1453,7 +1453,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "εἰσήγαγεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "l-a adus."
+        "def_ro": "l-a adus."
       },
       {
         "t": " la el, la arcă."
@@ -1506,7 +1506,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "διαλιπὼν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a mai așteptat."
+        "def_ro": "a mai așteptat."
       },
       {
         "t": " încă "
@@ -1520,7 +1520,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral",
         "greek": "ἑπτὰ ἡμέρας ἄλλας",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "încă șapte zile."
+        "def_ro": "încă șapte zile."
       },
       {
         "t": " și a "
@@ -1534,7 +1534,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "πάλιν ἐξαπέστειλεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "din nou a dat drumul."
+        "def_ro": "din nou a dat drumul."
       },
       {
         "t": " din nou "
@@ -1548,7 +1548,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὴν περιστερὰν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "porumbelului."
+        "def_ro": "porumbelului."
       },
       {
         "t": " din "
@@ -1562,7 +1562,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς κιβωτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "arcă."
+        "def_ro": "arcă."
       },
       {
         "t": "."
@@ -1612,7 +1612,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "ἡ περιστερὰ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "porumbelul."
+        "def_ro": "porumbelul."
       },
       {
         "t": " a "
@@ -1626,7 +1626,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἀνέστρεψεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a revenit."
+        "def_ro": "a revenit."
       },
       {
         "t": " la el către "
@@ -1640,7 +1640,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "ἑσπέραν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "seară."
+        "def_ro": "seară."
       },
       {
         "t": " și iată, [avea] o "
@@ -1654,7 +1654,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv (locuțiune)",
         "greek": "φύλλον ἐλαίας",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "frunză de măslin."
+        "def_ro": "frunză de măslin."
       },
       {
         "t": " pe care o "
@@ -1668,7 +1668,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "κάρφος",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "o rupsese."
+        "def_ro": "o rupsese."
       },
       {
         "t": " cu "
@@ -1682,7 +1682,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv cu sufix",
         "greek": "τῷ στόματι αὐτῆς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "cu ciocul ei."
+        "def_ro": "cu ciocul ei."
       },
       {
         "t": "; și "
@@ -1696,7 +1696,7 @@ window.CHAPTER_DATA = [
         "pos": "nume propriu",
         "greek": "Νῶε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Noe."
+        "def_ro": "Noe."
       },
       {
         "t": " a "
@@ -1710,7 +1710,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἔγνω",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a știut."
+        "def_ro": "a știut."
       },
       {
         "t": " că apele s-au retras de pe "
@@ -1724,7 +1724,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς γῆς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pământ."
+        "def_ro": "pământ."
       },
       {
         "t": "."
@@ -1781,7 +1781,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (nifal)",
         "greek": "προσέμεινεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a așteptat."
+        "def_ro": "a așteptat."
       },
       {
         "t": " încă "
@@ -1795,7 +1795,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral",
         "greek": "ἑπτὰ ἡμέρας",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "șapte zile."
+        "def_ro": "șapte zile."
       },
       {
         "t": " și a "
@@ -1809,7 +1809,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐξαπέστειλεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a dat drumul."
+        "def_ro": "a dat drumul."
       },
       {
         "t": " "
@@ -1823,7 +1823,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὴν περιστερὰν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "porumbelului."
+        "def_ro": "porumbelului."
       },
       {
         "t": ", iar [porumbelul] nu s-a mai "
@@ -1837,7 +1837,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "οὐ προσέθετο τοῦ ἐπιστρέψαι",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "nu s-a mai întors."
+        "def_ro": "nu s-a mai întors."
       },
       {
         "t": " la "
@@ -1851,7 +1851,7 @@ window.CHAPTER_DATA = [
         "pos": "prepoziție cu sufix",
         "greek": "πρὸς αὐτὸν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "la el."
+        "def_ro": "la el."
       },
       {
         "t": "."
@@ -1904,7 +1904,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐγένετο",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a fost."
+        "def_ro": "a fost."
       },
       {
         "t": " în "
@@ -1918,7 +1918,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral",
         "greek": "ἐν τῷ ἑξακοσιοστῷ πρώτῳ ἔτει",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "al șase sute unulea an."
+        "def_ro": "al șase sute unulea an."
       },
       {
         "t": ", în "
@@ -1932,7 +1932,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral, cu articol",
         "greek": "τοῦ πρώτου μηνός",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "prima [lună]."
+        "def_ro": "prima [lună]."
       },
       {
         "t": " [lună], în "
@@ -1946,7 +1946,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral, cu prefix",
         "greek": "μιᾷ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "prima [zi]."
+        "def_ro": "prima [zi]."
       },
       {
         "t": " a "
@@ -1960,7 +1960,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "τοῦ μηνός",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a lunii."
+        "def_ro": "a lunii."
       },
       {
         "t": ", că "
@@ -1974,7 +1974,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὸ ὕδωρ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "apele."
+        "def_ro": "apele."
       },
       {
         "t": " s-au "
@@ -1988,7 +1988,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐξέλιπεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-au zvântat."
+        "def_ro": "s-au zvântat."
       },
       {
         "t": " de pe "
@@ -2002,7 +2002,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς γῆς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pământ."
+        "def_ro": "pământ."
       },
       {
         "t": ". "
@@ -2016,7 +2016,7 @@ window.CHAPTER_DATA = [
         "pos": "nume propriu",
         "greek": "Νῶε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Noe."
+        "def_ro": "Noe."
       },
       {
         "t": " a "
@@ -2030,7 +2030,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἀπεκάλυψεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a dat la o parte."
+        "def_ro": "a dat la o parte."
       },
       {
         "t": " "
@@ -2044,7 +2044,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "τὴν στέγην",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "acoperământul."
+        "def_ro": "acoperământul."
       },
       {
         "t": " "
@@ -2058,7 +2058,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς κιβωτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "arcei."
+        "def_ro": "arcei."
       },
       {
         "t": " și s-a "
@@ -2072,7 +2072,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "εἶδεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "s-a uitat."
+        "def_ro": "s-a uitat."
       },
       {
         "t": " și iată, "
@@ -2086,7 +2086,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, stare construită",
         "greek": "τὸ πρόσωπον",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "fața."
+        "def_ro": "fața."
       },
       {
         "t": " pământului se "
@@ -2100,7 +2100,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐξελιπηκυῖα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "se zvântase."
+        "def_ro": "se zvântase."
       },
       {
         "t": "."
@@ -2154,7 +2154,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τοῦ μηνὸς τοῦ δευτέρου",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "luna a doua."
+        "def_ro": "luna a doua."
       },
       {
         "t": ", în "
@@ -2168,7 +2168,7 @@ window.CHAPTER_DATA = [
         "pos": "numeral",
         "greek": "ἑβδόμῃ καὶ εἰκάδι",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "ziua a douăzeci și șaptea."
+        "def_ro": "ziua a douăzeci și șaptea."
       },
       {
         "t": " a "
@@ -2182,7 +2182,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "τοῦ μηνός",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a lunii."
+        "def_ro": "a lunii."
       },
       {
         "t": ", "
@@ -2196,7 +2196,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "ἡ γῆ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pământul."
+        "def_ro": "pământul."
       },
       {
         "t": " se "
@@ -2210,7 +2210,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐξηράνθη",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "se uscase."
+        "def_ro": "se uscase."
       },
       {
         "t": "."
@@ -2260,7 +2260,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "ὁ Θεὸς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Dumnezeu."
+        "def_ro": "Dumnezeu."
       },
       {
         "t": " i-a "
@@ -2274,7 +2274,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "εἶπεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a vorbit."
+        "def_ro": "a vorbit."
       },
       {
         "t": " lui "
@@ -2288,7 +2288,7 @@ window.CHAPTER_DATA = [
         "pos": "nume propriu",
         "greek": "Νῶε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Noe."
+        "def_ro": "Noe."
       },
       {
         "t": ", "
@@ -2302,7 +2302,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (infinitiv)",
         "greek": "λέγων",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "spunând."
+        "def_ro": "spunând."
       },
       {
         "t": ":"
@@ -2355,7 +2355,7 @@ window.CHAPTER_DATA = [
         "pos": "verb, imperativ",
         "greek": "Ἔξελθε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "ieși."
+        "def_ro": "ieși."
       },
       {
         "t": " din "
@@ -2369,7 +2369,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς κιβωτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "arcă."
+        "def_ro": "arcă."
       },
       {
         "t": ", "
@@ -2383,7 +2383,7 @@ window.CHAPTER_DATA = [
         "pos": "pronume",
         "greek": "σὺ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "tu."
+        "def_ro": "tu."
       },
       {
         "t": " și "
@@ -2397,7 +2397,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv cu sufix",
         "greek": "ἡ γυνή σου",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "soția ta."
+        "def_ro": "soția ta."
       },
       {
         "t": " ta, "
@@ -2411,7 +2411,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv cu sufix",
         "greek": "οἱ υἱοί σου",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "fiii tăi."
+        "def_ro": "fiii tăi."
       },
       {
         "t": " tăi și "
@@ -2425,7 +2425,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, stare construită",
         "greek": "αἱ γυναῖκες",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "soțiile."
+        "def_ro": "soțiile."
       },
       {
         "t": " fiilor tăi împreună cu "
@@ -2439,7 +2439,7 @@ window.CHAPTER_DATA = [
         "pos": "prepoziție cu sufix",
         "greek": "μετὰ σοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "cu tine."
+        "def_ro": "cu tine."
       },
       {
         "t": "."
@@ -2492,7 +2492,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὰ θηρία",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "vietățile."
+        "def_ro": "vietățile."
       },
       {
         "t": " care sunt cu "
@@ -2506,7 +2506,7 @@ window.CHAPTER_DATA = [
         "pos": "prepoziție cu sufix",
         "greek": "μετὰ σοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "cu tine."
+        "def_ro": "cu tine."
       },
       {
         "t": " din toată "
@@ -2520,7 +2520,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "σὰρξ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "firea, carnea."
+        "def_ro": "firea, carnea."
       },
       {
         "t": " – "
@@ -2534,7 +2534,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "ἀπὸ πετεινῶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "păsări."
+        "def_ro": "păsări."
       },
       {
         "t": ", "
@@ -2548,7 +2548,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "ἕως κτηνῶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "animale."
+        "def_ro": "animale."
       },
       {
         "t": " și toate "
@@ -2562,7 +2562,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὰ ἑρπετὰ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "târâtoarele."
+        "def_ro": "târâtoarele."
       },
       {
         "t": " care se "
@@ -2576,7 +2576,7 @@ window.CHAPTER_DATA = [
         "pos": "verb, participiu, cu articol",
         "greek": "ἑρπόντων",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "se târăsc."
+        "def_ro": "se târăsc."
       },
       {
         "t": " pe pământ – "
@@ -2590,7 +2590,7 @@ window.CHAPTER_DATA = [
         "pos": "verb, imperativ",
         "greek": "ἐξάγαγε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "scoate-le."
+        "def_ro": "scoate-le."
       },
       {
         "t": " cu tine; să "
@@ -2604,7 +2604,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "αὐξάνεσθε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "să mișune."
+        "def_ro": "să mișune."
       },
       {
         "t": " pe pământ, să fie "
@@ -2618,7 +2618,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "πληθύνεσθε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "roditoare."
+        "def_ro": "roditoare."
       },
       {
         "t": " și să se "
@@ -2632,7 +2632,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "πληθύνεσθε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "să se înmulțească."
+        "def_ro": "să se înmulțească."
       },
       {
         "t": " pe pământ.”"
@@ -2686,7 +2686,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐξῆλθεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a ieșit."
+        "def_ro": "a ieșit."
       },
       {
         "t": " "
@@ -2700,7 +2700,7 @@ window.CHAPTER_DATA = [
         "pos": "nume propriu",
         "greek": "Νῶε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Noe."
+        "def_ro": "Noe."
       },
       {
         "t": ", și "
@@ -2714,7 +2714,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv cu sufix",
         "greek": "οἱ υἱοὶ αὐτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "fiii lui."
+        "def_ro": "fiii lui."
       },
       {
         "t": " lui, "
@@ -2728,7 +2728,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv cu sufix",
         "greek": "ἡ γυνὴ αὐτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "soția lui."
+        "def_ro": "soția lui."
       },
       {
         "t": " lui și "
@@ -2742,7 +2742,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, stare construită",
         "greek": "αἱ γυναῖκες",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "soțiile."
+        "def_ro": "soțiile."
       },
       {
         "t": " fiilor lui împreună cu "
@@ -2756,7 +2756,7 @@ window.CHAPTER_DATA = [
         "pos": "prepoziție cu sufix",
         "greek": "μετ᾿ αὐτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "cu el."
+        "def_ro": "cu el."
       },
       {
         "t": "."
@@ -2809,7 +2809,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "θηρία",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "animal."
+        "def_ro": "animal."
       },
       {
         "t": ", fiecare "
@@ -2823,7 +2823,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "ἑρπετὰ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "târâtoare."
+        "def_ro": "târâtoare."
       },
       {
         "t": " și fiecare "
@@ -2837,7 +2837,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "πετεινὰ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pasăre."
+        "def_ro": "pasăre."
       },
       {
         "t": ", "
@@ -2851,7 +2851,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "πᾶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "tot ce."
+        "def_ro": "tot ce."
       },
       {
         "t": " "
@@ -2865,7 +2865,7 @@ window.CHAPTER_DATA = [
         "pos": "verb, participiu",
         "greek": "κινούμενον",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "mișună."
+        "def_ro": "mișună."
       },
       {
         "t": " pe pământ, după "
@@ -2879,7 +2879,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu sufix",
         "greek": "κατὰ γένος αὐτῶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "familiile lor."
+        "def_ro": "familiile lor."
       },
       {
         "t": " lor, au "
@@ -2893,7 +2893,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐξεπορεύθησαν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "au ieșit."
+        "def_ro": "au ieșit."
       },
       {
         "t": " din "
@@ -2907,7 +2907,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς κιβωτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "arcă."
+        "def_ro": "arcă."
       },
       {
         "t": "."
@@ -2960,7 +2960,7 @@ window.CHAPTER_DATA = [
         "pos": "nume propriu",
         "greek": "Νῶε",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "Noe."
+        "def_ro": "Noe."
       },
       {
         "t": " a "
@@ -2974,7 +2974,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ᾠκοδόμησεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a construit."
+        "def_ro": "a construit."
       },
       {
         "t": " un "
@@ -2988,7 +2988,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "θυσιαστήριον",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "altar."
+        "def_ro": "altar."
       },
       {
         "t": " "
@@ -3002,7 +3002,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "τῷ Θεῷ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "DOMNULUI."
+        "def_ro": "DOMNULUI."
       },
       {
         "t": " și a "
@@ -3016,7 +3016,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἔλαβεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a luat."
+        "def_ro": "a luat."
       },
       {
         "t": " din "
@@ -3030,7 +3030,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "ἀπὸ πάντων",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "din fiecare."
+        "def_ro": "din fiecare."
       },
       {
         "t": " "
@@ -3044,7 +3044,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "κτηνῶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "animal."
+        "def_ro": "animal."
       },
       {
         "t": " "
@@ -3058,7 +3058,7 @@ window.CHAPTER_DATA = [
         "pos": "adjectiv, cu articol",
         "greek": "καθαρῶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "curat."
+        "def_ro": "curat."
       },
       {
         "t": " și din "
@@ -3072,7 +3072,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "ἀπὸ πάντων",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "din fiecare."
+        "def_ro": "din fiecare."
       },
       {
         "t": " "
@@ -3086,7 +3086,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "πετεινῶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pasăre."
+        "def_ro": "pasăre."
       },
       {
         "t": " "
@@ -3100,7 +3100,7 @@ window.CHAPTER_DATA = [
         "pos": "adjectiv, cu articol",
         "greek": "τῶν καθαρῶν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "curată."
+        "def_ro": "curată."
       },
       {
         "t": " și a "
@@ -3114,7 +3114,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἀνήνεγκεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a înălțat."
+        "def_ro": "a înălțat."
       },
       {
         "t": " "
@@ -3128,7 +3128,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, plural",
         "greek": "ὁλοκαρπώσεις",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "arderi-de-tot."
+        "def_ro": "arderi-de-tot."
       },
       {
         "t": " pe "
@@ -3142,7 +3142,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu prefix",
         "greek": "τὸ θυσιαστήριον",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "altar."
+        "def_ro": "altar."
       },
       {
         "t": "."
@@ -3200,7 +3200,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "Κύριος",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "DOMNUL."
+        "def_ro": "DOMNUL."
       },
       {
         "t": " a "
@@ -3214,7 +3214,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ὠσφράνθη",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a mirosit."
+        "def_ro": "a mirosit."
       },
       {
         "t": " "
@@ -3228,7 +3228,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv (locuțiune)",
         "greek": "ὀσμὴν εὐωδίας",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "aroma plăcută."
+        "def_ro": "aroma plăcută."
       },
       {
         "t": " și DOMNUL a "
@@ -3242,7 +3242,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "εἶπεν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "a spus."
+        "def_ro": "a spus."
       },
       {
         "t": " în "
@@ -3256,7 +3256,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv cu sufix",
         "greek": "τῇ διανοίᾳ αὐτοῦ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "inima Sa."
+        "def_ro": "inima Sa."
       },
       {
         "t": " Sa: „Nu voi mai "
@@ -3270,7 +3270,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (infinitiv)",
         "greek": "προσθήσω... καταράσασθαι",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "voi mai blestema."
+        "def_ro": "voi mai blestema."
       },
       {
         "t": " iarăși "
@@ -3284,7 +3284,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τὴν γῆν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pământul."
+        "def_ro": "pământul."
       },
       {
         "t": " din pricina omului, căci "
@@ -3298,7 +3298,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "ἡ διάνοια",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pornirea, plăsmuirea."
+        "def_ro": "pornirea, plăsmuirea."
       },
       {
         "t": " inimii omului este "
@@ -3312,7 +3312,7 @@ window.CHAPTER_DATA = [
         "pos": "adjectiv",
         "greek": "ἐπιμελῶς ἐπὶ τὰ πονηρὰ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "răutate."
+        "def_ro": "răutate."
       },
       {
         "t": ", din "
@@ -3326,7 +3326,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv cu sufix",
         "greek": "ἐκ νεότητος",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "tinerețea lui."
+        "def_ro": "tinerețea lui."
       },
       {
         "t": " lui; și nu voi mai "
@@ -3340,7 +3340,7 @@ window.CHAPTER_DATA = [
         "pos": "verb (infinitiv)",
         "greek": "πατάξαι",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "să lovesc."
+        "def_ro": "să lovesc."
       },
       {
         "t": " iarăși "
@@ -3354,7 +3354,7 @@ window.CHAPTER_DATA = [
         "pos": "adjectiv (locuțiune)",
         "greek": "πᾶσαν σάρκα ζῶσαν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "tot ce este viu."
+        "def_ro": "tot ce este viu."
       },
       {
         "t": ", precum am "
@@ -3368,7 +3368,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "ἐποίησα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "am făcut."
+        "def_ro": "am făcut."
       },
       {
         "t": "."
@@ -3427,7 +3427,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv (locuțiune)",
         "greek": "πάσας τὰς ἡμέρας",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "toate zilele."
+        "def_ro": "toate zilele."
       },
       {
         "t": " "
@@ -3441,7 +3441,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv, cu articol",
         "greek": "τῆς γῆς",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "pământului."
+        "def_ro": "pământului."
       },
       {
         "t": ", "
@@ -3455,7 +3455,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "σπέρμα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "semănatul."
+        "def_ro": "semănatul."
       },
       {
         "t": " și "
@@ -3469,7 +3469,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "θερισμός",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "culesul."
+        "def_ro": "culesul."
       },
       {
         "t": ", "
@@ -3483,7 +3483,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "ψῦχος",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "frigul."
+        "def_ro": "frigul."
       },
       {
         "t": " și "
@@ -3497,7 +3497,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "καῦμα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "căldura."
+        "def_ro": "căldura."
       },
       {
         "t": ", "
@@ -3511,7 +3511,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "θέρος",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "vara."
+        "def_ro": "vara."
       },
       {
         "t": " și "
@@ -3525,7 +3525,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "σπόρα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "iarna."
+        "def_ro": "iarna."
       },
       {
         "t": ", "
@@ -3539,7 +3539,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "ἡμέρα",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "ziua."
+        "def_ro": "ziua."
       },
       {
         "t": " și "
@@ -3553,7 +3553,7 @@ window.CHAPTER_DATA = [
         "pos": "substantiv",
         "greek": "νύξ",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "noaptea."
+        "def_ro": "noaptea."
       },
       {
         "t": " nu vor "
@@ -3567,7 +3567,7 @@ window.CHAPTER_DATA = [
         "pos": "verb",
         "greek": "καταπαύσουσιν",
         "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def": "vor înceta."
+        "def_ro": "vor înceta."
       },
       {
         "t": ".”"
