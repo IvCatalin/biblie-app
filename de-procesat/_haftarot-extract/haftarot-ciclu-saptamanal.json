@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "18 capitole (din 54+2 planificate) · 18 complete la Standardul Davar",
+ "meta": "19 capitole (din 54+2 planificate) · 19 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -41697,6 +41697,927 @@
      {
       "author": "Rashi (1040–1105)",
       "text": "Rashi citează, la finalul comentariului său la acest pasaj, o tradiție talmudică (Sanhedrin 94a): Cel Sfânt a dorit să-l facă pe Hezechia Mesia și pe Sanherib Gog și Magog, dar îngerii slujitori au întrebat: „cel ce a tăiat ușile Templului și le-a trimis regelui Asiriei să fie făcut Mesia?” — imediat textul a fost „sigilat”, o tradiție care arată limita fixată chiar de exegeza rabinică asupra aspirațiilor mesianice legate de Hezechia, deosebind explicit domnia lui istorică reală de speranța mesianică finală, nedeplin împlinită încă."
+     }
+    ]
+   }
+  ]
+ }
+ ,
+  {
+  "num": 19,
+  "title": "Haftarat Mișpatim",
+  "ref": "Ieremia 34:8-22, 33:25-26",
+  "intro": "Haftarat Mișpatim leagă legile despre eliberarea sclavilor evrei după șase ani, din pericopa cu același nume (Exodul 21:2), de episodul dramatic al legământului rupt din vremea lui Țedechia: poporul eliberase sclavii, apoi îi luase înapoi, încălcând chiar legea pe care abia o respectase. Capitolul se încheie cu o notă de speranță fermă, luată din alt loc al cărții (33:25-26): legământul lui Dumnezeu cu urmașii lui Iacov rămâne la fel de sigur ca legile fixe ale cerului și pământului.",
+  "verses": [
+   {
+    "v": "34:8",
+    "t": "Cuvântul care a venit la Ieremia a fost de la DOMNUL, după ce regele Țedekia a pecetluit un legământ cu tot poporul care era în Ierusalim, ca să proclame libertate pentru ei:",
+    "heb": "הַדָּבָר אֲשֶׁר־הָיָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה אַחֲרֵי כְּרֹת הַמֶּלֶךְ צִדְקִיָּהוּ בְּרִית אֶת־כָּל־הָעָם אֲשֶׁר בִּירוּשָׁלַ͏ִם לִקְרֹא לָהֶם דְּרוֹר׃",
+    "translit": "Ha-davar asher-hayah el-Yirmeyahu me-et Adonai acharei kerot ha-melekh Tsidkiyahu berit et-kol-ha-am asher bi-Yrushalayim likro lahem deror.",
+    "tokens": [
+     {
+      "t": "Cuvântul care a venit la Ieremia a fost de la DOMNUL, după ce regele Țedekia a "
+     },
+     {
+      "t": "pecetluit un legământ",
+      "w": "pecetluit un legământ",
+      "heb": "כְּרֹת... בְּרִית",
+      "translit": "kerot... berit",
+      "strong": "H1285",
+      "pos": "substantiv, feminin",
+      "def_ro": "a încheiat un legământ.",
+      "dict_ro": "Berit, „legământ” — verbul asociat, karat („a tăia”), amintește de ritualul antic al tăierii unui animal în două, prin ale cărui jumătăți treceau părțile legământului (v.18) — un legământ care avea să fie, literal, rupt de participanți la fel cum fusese „tăiat” animalul jertfit."
+     },
+     {
+      "t": " cu tot poporul care era în Ierusalim, ca să proclame "
+     },
+     {
+      "t": "libertate",
+      "w": "libertate",
+      "heb": "דְּרוֹר",
+      "translit": "deror",
+      "strong": "H1865",
+      "pos": "substantiv, masculin",
+      "def_ro": "libertate, eliberare.",
+      "dict_ro": "Deror — același cuvânt din Levitic 25:10 pentru anul jubiliar („veți vesti libertatea în toată țara”), evocând direct legea eliberării sclavilor evrei; Rashi datează acest legământ în anul al șaptelea al domniei lui Țedechia, legându-l de o întrebare pusă lui Ezechiel (Ezechiel 20:1) despre statutul ritual al sclavilor eliberați."
+     },
+     {
+      "t": " pentru ei:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַדָּבָר אֲשֶׁר־הָיָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה אַחֲרֵי כְּרֹת הַמֶּלֶךְ צִדְקִיָּהוּ בְּרִית...",
+      "translation": "„Cuvântul care a venit la Ieremia a fost de la DOMNUL...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, Ieremia cap. 41 în numerotarea LXX)",
+      "original": "Ὁ λόγος ὁ γενόμενος πρὸς Ἱερεμίαν παρὰ Κυρίου μετὰ τὸ συντελέσαι τὸν βασιλέα Σεδεκίαν διαθήκην πρὸς τὸν λαὸν τοῦ καλέσαι ἄφεσιν",
+      "greek": true,
+      "translation": "„Cuvântul care a fost către Ieremia de la Domnul, după ce a încheiat regele Sedechia legământ cu poporul, ca să vestească slobozire”",
+      "note": "În Septuaginta, acest pasaj apare la capitolul 41, nu la 34 — reflectând reorganizarea structurală amplă a cărții lui Ieremia în tradiția textuală grecească, unde secțiuni întregi sunt reordonate față de textul masoretic."
+     }
+    ],
+    "refs": [
+     "Levitic 25:10",
+     "Ezechiel 20:1",
+     "Exodul 21:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi datează acest legământ în anul al șaptelea al domniei lui Țedechia, citând Seder Olam Rabbah și legând momentul de o întrebare adresată lui Ezechiel de bătrânii lui Iuda (Ezechiel 20:1) despre statutul ritual al unui sclav preot eliberat — o dovadă indirectă, spune Rashi, că poporul căuta să demonstreze că nu fusese pedepsit din pricina neglijării poruncilor, tocmai pentru că eliberase deja sclavii."
+     }
+    ]
+   },
+   {
+    "v": "34:9",
+    "t": "ca fiecare om să-și elibereze sclavul și fiecare [să-și elibereze] slujnica, evreul și evreica, astfel ca nimeni să nu-l [mai] înrobească pe fratele său evreu.",
+    "heb": "לְשַׁלַּח אִישׁ אֶת־עַבְדּוֹ וְאִישׁ אֶת־שִׁפְחָתוֹ הָעִבְרִי וְהָעִבְרִיָּה חָפְשִׁים לְבִלְתִּי עֲבָד־בָּם בִּיהוּדִי אָחִיהוּ אִישׁ׃",
+    "translit": "Le-shallach ish et-avdo ve-ish et-shifchato ha-ivri ve-ha-ivriyyah chofshim le-vilti avod-bam bi-Yhudi achihu ish.",
+    "tokens": [
+     {
+      "t": "ca fiecare om să-și "
+     },
+     {
+      "t": "elibereze",
+      "w": "elibereze",
+      "heb": "לְשַׁלַּח",
+      "translit": "le-shallach",
+      "strong": "H7971",
+      "pos": "verb, piel infinitiv",
+      "def_ro": "să trimită liber, să elibereze.",
+      "dict_ro": "Rădăcina shalach, „a trimite” — la forma intensivă, „a elibera”, aceeași rădăcină ca „Șalah et-ami”, cererea repetată către Faraon la Exodul 5-11 — ecoul verbal leagă eliberarea sclavilor evrei de propria istorie a lui Israel ca sclavi eliberați din Egipt."
+     },
+     {
+      "t": " sclavul și fiecare [să-și elibereze] slujnica, evreul și evreica, astfel ca nimeni să nu-l [mai] "
+     },
+     {
+      "t": "înrobească",
+      "w": "înrobească",
+      "heb": "עֲבָד־בָּם",
+      "translit": "avod-bam",
+      "strong": "H5647",
+      "pos": "verb, qal infinitiv construct",
+      "def_ro": "să-l facă să muncească [ca sclav].",
+      "dict_ro": "Rădăcina avad, „a lucra, a sluji” — aceeași rădăcină ca „avadim”, sclavi, folosită constant pentru robia din Egipt; porunca vizează explicit fratele „evreu”, nu sclavii străini, aplicând legea specifică a Torei (Exodul 21:2) pentru compatrioți."
+     },
+     {
+      "t": " pe fratele său evreu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לְשַׁלַּח אִישׁ אֶת־עַבְדּוֹ וְאִישׁ אֶת־שִׁפְחָתוֹ...",
+      "translation": "„ca fiecare om să-și elibereze sclavul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "τοῦ ἐξαποστεῖλαι ἕκαστον τὸν παῖδα αὐτοῦ καὶ ἕκαστον τὴν παιδίσκην αὐτοῦ, τὸν Ἑβραῖον καὶ τὴν Ἑβραίαν ἐλευθέρους, πρὸς τὸ μὴ δουλεύειν ἄνδρα ἐξ Ἰούδα",
+      "greek": true,
+      "translation": "„ca să trimită fiecare pe robul lui și fiecare pe roaba lui, pe evreu și pe evreică, liberi, ca să nu mai slujească niciun bărbat din Iuda”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Exodul 21:2",
+     "Exodul 5:1"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "34:10",
+    "t": "Și toți conducătorii poporului și întreg poporul care a intrat în legământ au ascultat, fiecare eliberându-și sclavul și fiecare [eliberându-și] slujnica, astfel ca nimeni să nu îi mai înrobească; și au ascultat și le-au dat drumul liberi.",
+    "heb": "וַיִּשְׁמְעוּ כָל־הַשָּׂרִים וְכָל־הָעָם אֲשֶׁר־בָּאוּ בַבְּרִית לְשַׁלַּח אִישׁ אֶת־עַבְדּוֹ וְאִישׁ אֶת־שִׁפְחָתוֹ חָפְשִׁים לְבִלְתִּי עֲבָד־בָּם עוֹד וַיִּשְׁמְעוּ וַיְשַׁלֵּחוּ׃",
+    "translit": "Va-yishme'u khol-ha-sarim ve-khol-ha-am asher-ba'u va-berit le-shallach ish et-avdo ve-ish et-shifchato chofshim le-vilti avod-bam od va-yishme'u va-yeshallechu.",
+    "tokens": [
+     {
+      "t": "Și toți "
+     },
+     {
+      "t": "conducătorii",
+      "w": "conducătorii",
+      "heb": "הַשָּׂרִים",
+      "translit": "ha-sarim",
+      "strong": "H8269",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "conducătorii, dregătorii.",
+      "dict_ro": "Sar, „conducător” — accentuează caracterul public, oficial al legământului: nu doar oamenii de rând, ci întreaga clasă conducătoare a Ierusalimului s-a angajat solemn în acest act de eliberare, ceea ce face încălcarea ulterioară (v.11) cu atât mai gravă."
+     },
+     {
+      "t": " poporului și întreg poporul care a intrat în legământ au ascultat, fiecare eliberându-și sclavul și fiecare [eliberându-și] slujnica, astfel ca nimeni să nu îi mai înrobească; și au ascultat și le-au dat drumul liberi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁמְעוּ כָל־הַשָּׂרִים וְכָל־הָעָם אֲשֶׁר־בָּאוּ בַבְּרִית...",
+      "translation": "„Și toți conducătorii poporului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "καὶ ἐπεστράφησαν πάντες οἱ μεγιστᾶνες καὶ πᾶς ὁ λαὸς οἱ εἰσελθόντες ἐν τῇ διαθήκῃ τοῦ ἀποστεῖλαι ἕκαστον τὸν παῖδα αὐτοῦ καὶ ἕκαστον τὴν παιδίσκην αὐτοῦ καὶ ἐῶσαν αὐτοὺς εἰς παῖδας καὶ παιδίσκας",
+      "greek": true,
+      "translation": "„și s-au întors toți cei mari și tot poporul care intraseră în legământ să trimită fiecare pe robul lui și fiecare pe roaba lui, și i-au lăsat [iarăși] robi și roabe”",
+      "note": "LXX combină aici, într-un singur verset dens, conținutul care în ebraică ocupă atât v.10 (respectarea inițială) cât și începutul v.11 (revenirea asupra deciziei) — o structură de verset diferită între cele două tradiții."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "34:11",
+    "t": "Însă după aceea s-au răzgândit și i-au adus înapoi pe sclavii și pe slujnicele pe care îi eliberaseră, și i-au asuprit iarăși, ca sclavi și ca slujnice.",
+    "heb": "וַיָּשׁוּבוּ אַחֲרֵי־כֵן וַיָּשִׁבוּ אֶת־הָעֲבָדִים וְאֶת־הַשְּׁפָחוֹת אֲשֶׁר שִׁלְּחוּ חָפְשִׁים ויכבישום [וַיִּכְבְּשׁוּם] לַעֲבָדִים וְלִשְׁפָחוֹת׃",
+    "translit": "Va-yashuvu acharei-khen va-yashivu et-ha-avadim ve-et-ha-shefachot asher shilechu chofshim va-yikhbeshum la-avadim ve-li-shfachot.",
+    "tokens": [
+     {
+      "t": "Însă după aceea s-au "
+     },
+     {
+      "t": "răzgândit",
+      "w": "răzgândit",
+      "heb": "וַיָּשׁוּבוּ",
+      "translit": "va-yashuvu",
+      "strong": "H7725",
+      "pos": "verb, qal imperfect",
+      "def_ro": "s-au întors, s-au răzgândit.",
+      "dict_ro": "Rădăcina shuv, „a se întoarce” — verb central al cărții lui Ieremia, folosit de obicei pentru „întoarcerea” pozitivă la pocăință; aici, tragic răsturnat, desemnează întoarcerea de la o faptă bună înapoi la păcat — o „pocăință” inversă."
+     },
+     {
+      "t": " și i-au adus înapoi pe sclavii și pe slujnicele pe care îi eliberaseră, și i-au "
+     },
+     {
+      "t": "asuprit iarăși",
+      "w": "asuprit iarăși",
+      "heb": "וַיִּכְבְּשׁוּם",
+      "translit": "va-yikhbeshum",
+      "strong": "H3533",
+      "pos": "verb, qal imperfect",
+      "def_ro": "i-au subjugat.",
+      "dict_ro": "Rădăcina kavash, „a subjuga, a forța” — verb dur, care descrie un act de forță explicită, nu doar o simplă revenire administrativă la o stare anterioară — sclavii eliberați au fost activ recapturați și constrânși din nou."
+     },
+     {
+      "t": ", ca sclavi și ca slujnice."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּשׁוּבוּ אַחֲרֵי־כֵן וַיָּשִׁבוּ אֶת־הָעֲבָדִים...",
+      "translation": "„Însă după aceea s-au răzgândit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "(inclus în structura versetului 10 grecesc, vezi nota anterioară)",
+      "greek": true,
+      "translation": "",
+      "note": "Vezi nota de la v.10: LXX contopește conținutul acestui verset cu cel precedent, fără o diviziune de verset separată corespunzătoare."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "34:12",
+    "t": "Apoi cuvântul DOMNULUI a venit la Ieremia, de la DOMNUL, spunând:",
+    "heb": "וַיְהִי דְבַר־יְהוָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר׃",
+    "translit": "Va-yehi devar-Adonai el-Yirmeyahu me-et Adonai lemor.",
+    "tokens": [
+     {
+      "t": "Apoi cuvântul DOMNULUI a venit la Ieremia, de la DOMNUL, "
+     },
+     {
+      "t": "spunând",
+      "w": "spunând",
+      "heb": "לֵאמֹר",
+      "translit": "lemor",
+      "strong": "H559",
+      "pos": "verb, qal infinitiv",
+      "def_ro": "zicând.",
+      "dict_ro": "Formula standard care marchează începutul unui nou oracol — repetiția „de la DOMNUL... de la DOMNUL” în același verset accentuează solemnitatea și autoritatea absolută a mesajului care urmează, o dublare stilistică neobișnuită chiar și pentru Ieremia."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי דְבַר־יְהוָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר׃",
+      "translation": "„Apoi cuvântul DOMNULUI a venit la Ieremia...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "καὶ ἐγενήθη λόγος Κυρίου πρὸς Ἱερεμίαν λέγων",
+      "greek": true,
+      "translation": "„și a fost cuvântul Domnului către Ieremia, zicând”",
+      "note": "LXX omite repetiția „de la Domnul” (μετά Κυρίου), redând formula mai simplu, o singură dată."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "34:13",
+    "t": "„Așa a spus DOMNUL, Dumnezeul lui Israel. Eu am pecetluit un legământ cu strămoșii voștri în ziua când i-am scos din țara Egiptului, din casa robiei, spunând:",
+    "heb": "כֹּה־אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל אָנֹכִי כָּרַתִּי בְרִית אֶת־אֲבוֹתֵיכֶם בְּיוֹם הוֹצִאִי אוֹתָם מֵאֶרֶץ מִצְרַיִם מִבֵּית עֲבָדִים לֵאמֹר׃",
+    "translit": "Koh-amar Adonai Elohei Yisra'el anokhi karati verit et-avoteikhem be-yom hotsi'i otam me-erets Mitsrayim mi-beit avadim lemor.",
+    "tokens": [
+     {
+      "t": "„Așa a spus DOMNUL, Dumnezeul lui Israel. Eu am pecetluit un legământ cu strămoșii voștri în ziua când i-am "
+     },
+     {
+      "t": "scos",
+      "w": "scos",
+      "heb": "הוֹצִאִי",
+      "translit": "hotsi'i",
+      "strong": "H3318",
+      "pos": "verb, hifil infinitiv construct",
+      "def_ro": "i-am scos.",
+      "dict_ro": "Rădăcina yatsa, „a ieși”, la forma cauzativă „a scoate” — verbul-cheie al Exodului, folosit constant în formulele legământului mozaic; leagă direct porunca eliberării sclavilor de propria experiență fondatoare a lui Israel ca sclavi eliberați."
+     },
+     {
+      "t": " din țara Egiptului, din "
+     },
+     {
+      "t": "casa robiei",
+      "w": "casa robiei",
+      "heb": "מִבֵּית עֲבָדִים",
+      "translit": "mi-beit avadim",
+      "strong": "H1004",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "din casa sclavilor.",
+      "dict_ro": "Beit avadim, „casa robilor” — formulă standard a Decalogului (Exodul 20:2) pentru Egipt; repetarea ei aici transformă porunca despre eliberarea sclavilor evrei într-un act de memorie activă, nu doar o lege abstractă."
+     },
+     {
+      "t": ", spunând:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כֹּה־אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל אָנֹכִי כָּרַתִּי בְרִית אֶת־אֲבוֹתֵיכֶם...",
+      "translation": "„Așa a spus DOMNUL, Dumnezeul lui Israel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "οὕτως εἶπε Κύριος ὁ Θεὸς Ἰσραήλ· ἐγὼ διεθέμην διαθήκην πρὸς τοὺς πατέρας ὑμῶν ἐν τῇ ἡμέρᾳ, ᾗ ἐξειλάμην αὐτοὺς ἐκ γῆς Αἰγύπτου, ἐξ οἴκου δουλείας, λέγων",
+      "greek": true,
+      "translation": "„așa a zis Domnul Dumnezeul lui Israel: Eu am încheiat legământ cu părinții voștri în ziua în care i-am scos din țara Egiptului, din casa robiei, zicând”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Exodul 20:2"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "34:14",
+    "t": "«La capătul a șapte ani, fiecare dintre voi să își elibereze fratele evreu care vă va fi fost vândut. Să își slujească șase ani și apoi să îi dai drumul liber de la tine.» Dar părinții tăi n-au ascultat de Mine și nu și-au plecat urechea.",
+    "heb": "מִקֵּץ שֶׁבַע שָׁנִים תְּשַׁלְּחוּ אִישׁ אֶת־אָחִיו הָעִבְרִי אֲשֶׁר־יִמָּכֵר לְךָ וַעֲבָדְךָ שֵׁשׁ שָׁנִים וְשִׁלַּחְתּוֹ חָפְשִׁי מֵעִמָּךְ וְלֹא־שָׁמְעוּ אֲבוֹתֵיכֶם אֵלַי וְלֹא הִטּוּ אֶת־אָזְנָם׃",
+    "translit": "Mi-kets sheva shanim teshallechu ish et-achiv ha-ivri asher-yimmakher lekha va-avadkha shesh shanim ve-shillachto chofshi me-immakh ve-lo-shame'u avoteikhem elai ve-lo hittu et-oznam.",
+    "tokens": [
+     {
+      "t": "«La capătul a "
+     },
+     {
+      "t": "șapte ani",
+      "w": "șapte ani",
+      "heb": "שֶׁבַע שָׁנִים",
+      "translit": "sheva shanim",
+      "strong": "H7651",
+      "pos": "numeral",
+      "def_ro": "șapte ani.",
+      "dict_ro": "Notă textuală remarcată de comentatori: legea citată aici de Ieremia vorbește de „șapte ani” la începutul versetului, dar apoi precizează „să te slujească șase ani” — o aparentă tensiune numerică rezolvată prin observarea că anul al șaptelea e chiar anul eliberării, nu un an suplimentar de muncă, coerent cu Exodul 21:2."
+     },
+     {
+      "t": ", fiecare dintre voi să își elibereze fratele evreu care vă va fi fost vândut. Să își slujească șase ani și apoi să îi dai drumul liber de la tine.» Dar părinții tăi n-au ascultat de Mine și nu și-au "
+     },
+     {
+      "t": "plecat urechea",
+      "w": "plecat urechea",
+      "heb": "הִטּוּ אֶת־אָזְנָם",
+      "translit": "hittu et-oznam",
+      "strong": "H5186",
+      "pos": "verb, hifil perfect",
+      "def_ro": "și-au plecat urechea.",
+      "dict_ro": "Rădăcina nata, „a înclina, a apleca” — expresie idiomatică standard pentru ascultare atentă; negația ei confirmă un tipar istoric îndelungat de nesupunere, nu doar un eșec izolat al generației prezente a lui Țedechia."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִקֵּץ שֶׁבַע שָׁנִים תְּשַׁלְּחוּ אִישׁ אֶת־אָחִיו הָעִבְרִי...",
+      "translation": "„«La capătul a șapte ani...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "ὅταν πληρωθῇ ἓξ ἔτη, ἀποστελεῖς τὸν ἀδελφόν σου τὸν Ἑβραῖον, ὃς παραθήσεταί σοι· καὶ ἐργᾶταί σοι ἓξ ἔτη, καὶ ἐξαποστελεῖς αὐτὸν ἐλεύθερον...",
+      "greek": true,
+      "translation": "„când se vor împlini șase ani, vei trimite pe fratele tău evreu, care ți s-a alăturat; și îți va lucra șase ani, și-l vei trimite liber...”",
+      "note": "LXX evită tensiunea numerică a ebraicei citând direct „șase ani” de la început (nu „șapte”), o soluție de traducere care armonizează cele două cifre din text, la fel cum face și Rashi implicit."
+     }
+    ],
+    "refs": [
+     "Exodul 21:2"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "34:15",
+    "t": "V-ați căit astăzi și ați făcut ceea ce este drept în ochii Mei, ca fiecare să proclame libertatea pentru semenul său, și ați pecetluit un legământ înaintea Mea în Templul asupra căruia este proclamat numele Meu.",
+    "heb": "וַתָּשֻׁבוּ אַתֶּם הַיּוֹם וַתַּעֲשׂוּ אֶת־הַיָּשָׁר בְּעֵינַי לִקְרֹא דְרוֹר אִישׁ לְרֵעֵהוּ וַתִּכְרְתוּ בְרִית לְפָנַי בַּבַּיִת אֲשֶׁר־נִקְרָא שְׁמִי עָלָיו׃",
+    "translit": "Va-tashuvu attem ha-yom va-ta'asu et-ha-yashar be-einai likro deror ish le-re'ehu va-tikhretu verit le-fanai ba-bayit asher-nikra shemi alav.",
+    "tokens": [
+     {
+      "t": "V-ați "
+     },
+     {
+      "t": "căit",
+      "w": "căit",
+      "heb": "וַתָּשֻׁבוּ",
+      "translit": "va-tashuvu",
+      "strong": "H7725",
+      "pos": "verb, qal imperfect",
+      "def_ro": "v-ați întors [la bine].",
+      "dict_ro": "Aceeași rădăcină shuv de la v.11, dar aici folosită pozitiv — recunoașterea explicită de către Dumnezeu Însuși a faptului că actul inițial de eliberare a fost, cu adevărat, o formă reală de pocăință, „ceea ce este drept” — ceea ce face trădarea ulterioară cu atât mai gravă."
+     },
+     {
+      "t": " astăzi și ați făcut ceea ce este drept în ochii Mei, ca fiecare să proclame libertatea pentru semenul său, și ați pecetluit un legământ înaintea Mea în "
+     },
+     {
+      "t": "Templul",
+      "w": "Templul",
+      "heb": "בַּבַּיִת",
+      "translit": "ba-bayit",
+      "strong": "H1004",
+      "pos": "substantiv, masculin",
+      "def_ro": "în Casă [Templu].",
+      "dict_ro": "Bayit, „casă” — desemnare standard a Templului; legământul n-a fost doar civil, ci religios, pecetluit chiar în locul sfânt purtător al Numelui divin, ceea ce face profanarea lui ulterioară (v.16) o încălcare sacrilegă, nu doar contractuală."
+     },
+     {
+      "t": " asupra căruia este proclamat numele Meu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתָּשֻׁבוּ אַתֶּם הַיּוֹם וַתַּעֲשׂוּ אֶת־הַיָּשָׁר בְּעֵינַי...",
+      "translation": "„V-ați căit astăzi și ați făcut ceea ce este drept...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "καὶ ἐπέστρεψαν σήμερον ποιῆσαι τὸ εὐθὲς πρὸ ὀφθαλμῶν μου τοῦ καλέσαι ἄφεσιν ἕκαστον τοῦ πλησίον αὐτοῦ καὶ συνετέλεσαν διαθήκην κατὰ πρόσωπόν μου ἐν τῷ οἴκῳ, οὗ ἐπεκλήθη τὸ ὄνομά μου ἐπ' αὐτῷ",
+      "greek": true,
+      "translation": "„și s-au întors astăzi să facă ce e drept înaintea ochilor Mei, vestind slobozire fiecare aproapelui său, și au încheiat legământ înaintea feței Mele, în casa peste care a fost chemat numele Meu”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "34:16",
+    "t": "Apoi v-ați răzgândit și ați profanat numele Meu, și fiecare și-a adus înapoi sclavul și fiecare sclava pe care îi lăsaseți să meargă unde vor ei și i-ați subjugat [iar] să vă fie sclavi și slujnice.”",
+    "heb": "וַתָּשֻׁבוּ וַתְּחַלְּלוּ אֶת־שְׁמִי וַתָּשִׁבוּ אִישׁ אֶת־עַבְדּוֹ וְאִישׁ אֶת־שִׁפְחָתוֹ אֲשֶׁר־שִׁלַּחְתֶּם חָפְשִׁים לְנַפְשָׁם וַתִּכְבְּשׁוּ אֹתָם לִהְיוֹת לָכֶם לַעֲבָדִים וְלִשְׁפָחוֹת׃",
+    "translit": "Va-tashuvu va-techallelu et-shemi va-tashivu ish et-avdo ve-ish et-shifchato asher-shillachtem chofshim le-nafsham va-tikhbeshu otam lihyot lakhem la-avadim ve-li-shfachot.",
+    "tokens": [
+     {
+      "t": "Apoi v-ați răzgândit și ați "
+     },
+     {
+      "t": "profanat",
+      "w": "profanat",
+      "heb": "וַתְּחַלְּלוּ",
+      "translit": "va-techallelu",
+      "strong": "H2490",
+      "pos": "verb, piel imperfect",
+      "def_ro": "ați profanat, ați pângărit.",
+      "dict_ro": "Rădăcina chalal, „a profana” — verb tehnic-ritual, folosit pentru pângărirea unui lucru sfânt (Sabatul, Numele divin, altarul); încălcarea legământului nu e doar o promisiune ruptă între oameni, ci un act direct de sacrilegiu, „numele Meu” fiind invocat solemn în chiar actul legământului (v.15)."
+     },
+     {
+      "t": " numele Meu, și fiecare și-a adus înapoi sclavul și fiecare sclava pe care îi lăsaseți să meargă "
+     },
+     {
+      "t": "unde vor ei",
+      "w": "unde vor ei",
+      "heb": "לְנַפְשָׁם",
+      "translit": "le-nafsham",
+      "strong": "H5315",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "după sufletul/voința lor.",
+      "dict_ro": "Nefesh, „suflet, dorință” — formulă care accentuează libertatea deplină acordată inițial: nu doar eliberare tehnică, ci deplină autonomie a voinței lor, cu atât mai cruntă fiind revocarea ei ulterioară."
+     },
+     {
+      "t": " și i-ați subjugat [iar] să vă fie sclavi și slujnice.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתָּשֻׁבוּ וַתְּחַלְּלוּ אֶת־שְׁמִי...",
+      "translation": "„Apoi v-ați răzgândit și ați profanat numele Meu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "καὶ ἐπεστρέψατε καὶ ἐβεβηλώσατε τὸ ὄνομά μου τοῦ ἐπιστρέψαι ἕκαστον τὸν παῖδα αὐτοῦ καὶ ἕκαστον τὴν παιδίσκην αὐτοῦ, οὓς ἐξαπεστείλατε ἐλευθέρους τῇ ψυχῇ αὐτῶν...",
+      "greek": true,
+      "translation": "„și v-ați întors și ați pângărit numele Meu, întorcând fiecare pe robul lui și fiecare pe roaba lui, pe care-i trimiseserăți liberi după sufletul lor...”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "34:17",
+    "t": "De aceea, așa a spus DOMNUL: «Voi nu ați ascultat de Mine, ca să proclamați libertate, fiecare pentru fratele său și fiecare pentru semenul său. Iată, Eu proclam libertate peste voi – rostirea DOMNULUI – pentru sabie, pentru molimă și pentru foamete și voi face din voi o pricină de groază pentru toate regatele pământului.",
+    "heb": "לָכֵן כֹּה־אָמַר יְהוָה אַתֶּם לֹא־שְׁמַעְתֶּם אֵלַי לִקְרֹא דְרוֹר אִישׁ לְאָחִיו וְאִישׁ לְרֵעֵהוּ הִנְנִי קֹרֵא לָכֶם דְּרוֹר נְאֻם־יְהוָה אֶל־הַחֶרֶב אֶל־הַדֶּבֶר וְאֶל־הָרָעָב וְנָתַתִּי אֶתְכֶם לזועה [לְזַעֲוָה] לְכֹל מַמְלְכוֹת הָאָרֶץ׃",
+    "translit": "Lakhen koh-amar Adonai attem lo-shema'tem elai likro deror ish le-achiv ve-ish le-re'ehu hineni kore lakhem deror ne'um-Adonai el-ha-cherev el-ha-dever ve-el-ha-ra'av ve-natatti etkhem le-za'avah le-khol mamlekhot ha-arets.",
+    "tokens": [
+     {
+      "t": "De aceea, așa a spus DOMNUL: «Voi nu ați ascultat de Mine, ca să proclamați libertate, fiecare pentru fratele său și fiecare pentru semenul său. Iată, Eu "
+     },
+     {
+      "t": "proclam libertate",
+      "w": "proclam libertate",
+      "heb": "קֹרֵא לָכֶם דְּרוֹר",
+      "translit": "kore lakhem deror",
+      "strong": "H7121",
+      "pos": "verb, qal participiu",
+      "def_ro": "vă proclam libertate.",
+      "dict_ro": "Joc de cuvinte amar și ironic: DOMNUL „proclamă libertate” asupra lor — dar nu eliberarea din robie, ci „libertatea” de a cădea pradă sabiei, molimei și foametei — cuvântul lor refuzat li se întoarce, transformat în judecată."
+     },
+     {
+      "t": " peste voi – rostirea DOMNULUI – pentru sabie, pentru molimă și pentru foamete și voi face din voi o "
+     },
+     {
+      "t": "pricină de groază",
+      "w": "pricină de groază",
+      "heb": "לְזַעֲוָה",
+      "translit": "le-za'avah",
+      "strong": "H2189",
+      "pos": "substantiv, feminin",
+      "def_ro": "spre groază, spre oroare.",
+      "dict_ro": "Za'avah — cuvânt rar pentru groaza/oroarea provocată altora prin exemplul propriei nenorociri; Israel, menit să fie „lumină pentru neamuri”, devine în schimb un exemplu negativ, o poveste de avertisment pentru toate regatele din jur."
+     },
+     {
+      "t": " pentru toate regatele pământului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן כֹּה־אָמַר יְהוָה אַתֶּם לֹא־שְׁמַעְתֶּם אֵלַי...",
+      "translation": "„De aceea, așa a spus DOMNUL...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "διὰ τοῦτο οὕτως εἶπε Κύριος· ὑμεῖς οὐκ ἠκούσατέ μου τοῦ καλέσαι ἄφεσιν ἕκαστος πρὸς τὸν πλησίον αὐτοῦ· ἰδοὺ ἐγὼ καλῶ ἄφεσιν ὑμῖν εἰς μάχαιραν καὶ εἰς τὸν θάνατον καὶ εἰς τὸν λιμὸν...",
+      "greek": true,
+      "translation": "„de aceea așa a zis Domnul: voi nu M-ați ascultat să vestiți slobozire fiecare aproapelui său; iată, Eu vă vestesc vouă slobozire spre sabie și spre moarte și spre foamete...”",
+      "note": "Traducere fidelă, păstrând exact jocul de cuvinte al ebraicei (aceeași rădăcină pentru „a proclama libertate” aplicată acum judecății)."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică sensul dublu al versetului: „vă proclam vouă libertate — de la Mine, care nu vă mai sunt Stăpân ca să vă scap, și veți fi lăsați de izbeliște în fața sabiei și a foametei” — ironia amară a cuvântului „deror” (libertate), folosit acum pentru abandonarea divină, nu pentru eliberare."
+     }
+    ]
+   },
+   {
+    "v": "34:18",
+    "t": "Voi hărăzi oamenilor care Mi-au încălcat legământul, celor care nu au împlinit cuvintele legământului pe care l-au pecetluit înaintea Mea, [precum i-a fost hărăzit] vițelului care a fost tăiat în două și printre jumătățile căruia au trecut",
+    "heb": "וְנָתַתִּי אֶת־הָאֲנָשִׁים הָעֹבְרִים אֶת־בְּרִתִי אֲשֶׁר לֹא־הֵקִימוּ אֶת־דִּבְרֵי הַבְּרִית אֲשֶׁר כָּרְתוּ לְפָנָי הָעֵגֶל אֲשֶׁר כָּרְתוּ לִשְׁנַיִם וַיַּעַבְרוּ בֵּין בְּתָרָיו׃",
+    "translit": "Ve-natatti et-ha-anashim ha-overim et-beriti asher lo-hekimu et-divrei ha-berit asher kartu lefanai ha-egel asher kartu li-shnayim va-ya'avru bein betarav.",
+    "tokens": [
+     {
+      "t": "Voi hărăzi oamenilor care Mi-au "
+     },
+     {
+      "t": "încălcat legământul",
+      "w": "încălcat legământul",
+      "heb": "הָעֹבְרִים אֶת־בְּרִתִי",
+      "translit": "ha-overim et-beriti",
+      "strong": "H5674",
+      "pos": "verb, qal participiu",
+      "def_ro": "cei ce încalcă legământul Meu.",
+      "dict_ro": "Rădăcina avar, „a trece” — joc de cuvinte dublu: „cei ce trec peste legământul Meu” [îl încalcă] sunt exact aceiași care „au trecut” fizic printre bucățile vițelului tăiat (v.18b), aceeași rădăcină verbală legând vina de ritualul jurământului."
+     },
+     {
+      "t": ", celor care nu au împlinit cuvintele legământului pe care l-au pecetluit înaintea Mea, [precum i-a fost hărăzit] "
+     },
+     {
+      "t": "vițelului",
+      "w": "vițelului",
+      "heb": "הָעֵגֶל",
+      "translit": "ha-egel",
+      "strong": "H5695",
+      "pos": "substantiv, masculin",
+      "def_ro": "vițelul.",
+      "dict_ro": "Egel — ritual antic al legământului (cf. Geneza 15:9-17), în care animalul tăiat în două simboliza soarta celui ce ar încălca jurământul: să fie „tăiat” la fel. Rashi citește surprinzător acest ritual ca aparținând nu legământului inițial de eliberare (v.8-10), ci unui al doilea legământ, de răzvrătire, încheiat de popor DUPĂ ce și-au recapturat sclavii."
+     },
+     {
+      "t": " care a fost tăiat în două și printre jumătățile căruia au trecut"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְנָתַתִּי אֶת־הָאֲנָשִׁים הָעֹבְרִים אֶת־בְּרִתִי...",
+      "translation": "„Voi hărăzi oamenilor care Mi-au încălcat legământul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "καὶ δώσω τοὺς ἄνδρας τοὺς παρεληλυθότας τὴν διαθήκην μου, τοὺς μὴ στήσαντας τὴν διαθήκην μου, ἣν ἐποίησαν κατὰ πρόσωπόν μου, τὸν μόσχον, ὃν ἐποίησαν ἐργάζεσθαι αὐτῷ,",
+      "greek": true,
+      "translation": "„și voi da pe oamenii care au trecut peste legământul Meu, care n-au ținut legământul Meu, pe care l-au făcut înaintea feței Mele, vițelul pe care l-au făcut să lucreze pentru el,”",
+      "note": "Divergență semnificativă: LXX traduce ultima parte a versetului („vițelul pe care l-au tăiat în două și au trecut printre bucățile lui”) complet diferit — „vițelul pe care l-au făcut să lucreze pentru el” — pierzând complet imaginea ritualului antic al legământului, posibil dintr-o confuzie de citire a verbelor ebraice rare din acest pasaj."
+     }
+    ],
+    "refs": [
+     "Geneza 15:9-17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi propune o lectură surprinzătoare: vițelul tăiat în două nu aparține legământului inițial, ci unui al doilea legământ — încheiat de popor DUPĂ ce și-au recapturat sclavii, pentru a se răzvrăti solidar împotriva lui Dumnezeu, jurând unii altora: „așa să fie tăiat și despărțit oricine calcă acest [nou] legământ [de nesupunere]” — un jurământ de complicitate în păcat, nu ecoul unui ritual sfânt profanat."
+     }
+    ]
+   },
+   {
+    "v": "34:19",
+    "t": "conducătorii lui Iuda și conducătorii Ierusalimului, dregătorii și preoții și tot poporul țării, cei care au trecut printre jumătățile vițelului.",
+    "heb": "שָׂרֵי יְהוּדָה וְשָׂרֵי יְרוּשָׁלַ͏ִם הַסָּרִסִים וְהַכֹּהֲנִים וְכֹל עַם הָאָרֶץ הָעֹבְרִים בֵּין בִּתְרֵי הָעֵגֶל׃",
+    "translit": "Sarei Yehudah ve-sarei Yerushalayim ha-sarisim ve-ha-kohanim ve-khol am ha-arets ha-overim bein bitrei ha-egel.",
+    "tokens": [
+     {
+      "t": "conducătorii lui Iuda și conducătorii Ierusalimului, "
+     },
+     {
+      "t": "dregătorii",
+      "w": "dregătorii",
+      "heb": "הַסָּרִסִים",
+      "translit": "ha-sarisim",
+      "strong": "H5631",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "eunucii, dregătorii de curte.",
+      "dict_ro": "Saris — termen tehnic pentru înalți funcționari de curte (nu neapărat literal eunuci); lista completă a participanților la legământul rupt — conducători politici, funcționari, preoți și „tot poporul țării” — subliniază responsabilitatea colectivă, la toate nivelurile societății, pentru încălcarea comisă."
+     },
+     {
+      "t": " și preoții și tot poporul țării, cei care au trecut printre jumătățile vițelului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שָׂרֵי יְהוּדָה וְשָׂרֵי יְרוּשָׁלַ͏ִם הַסָּרִסִים וְהַכֹּהֲנִים...",
+      "translation": "„conducătorii lui Iuda și conducătorii Ierusalimului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "τοὺς ἄρχοντας Ἰούδα καὶ τοὺς δυνάστας καὶ τοὺς ἱερεῖς καὶ τὸν λαόν,",
+      "greek": true,
+      "translation": "„pe conducătorii lui Iuda și pe cei puternici și pe preoți și pe popor,”",
+      "note": "LXX omite complet mențiunea separată a Ierusalimului și a dregătorilor de curte (sarisim), oferind o listă mai scurtă, generalizată, a categoriilor sociale responsabile."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "34:20",
+    "t": "Și îi voi da în mâna dușmanilor lor și în mâna celor care caută să le ia viața, iar hoiturile lor vor fi drept hrană pentru pasărea cerului și pentru fiara pământului.",
+    "heb": "וְנָתַתִּי אוֹתָם בְּיַד אֹיְבֵיהֶם וּבְיַד מְבַקְשֵׁי נַפְשָׁם וְהָיְתָה נִבְלָתָם לְמַאֲכָל לְעוֹף הַשָּׁמַיִם וּלְבֶהֱמַת הָאָרֶץ׃",
+    "translit": "Ve-natatti otam be-yad oyveihem u-ve-yad mevakshei nafsham ve-hayetah nivlatam le-ma'akhal le-of ha-shamayim u-le-vehemat ha-arets.",
+    "tokens": [
+     {
+      "t": "Și îi voi da în mâna dușmanilor lor și în mâna celor care caută să le ia viața, iar "
+     },
+     {
+      "t": "hoiturile lor",
+      "w": "hoiturile lor",
+      "heb": "נִבְלָתָם",
+      "translit": "nivlatam",
+      "strong": "H5038",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "cadavrele/hoiturile lor.",
+      "dict_ro": "Nevelah, „hoit, cadavru [neîngropat]” — formula standard a pedepsei celei mai de rușine în literatura profetică: nu doar moarte, ci lipsa oricărei înmormântări demne, trupul lăsat pradă deschisă animalelor — soarta exact inversă onoarei presupuse de statutul social al conducătorilor enumerați la v.19."
+     },
+     {
+      "t": " vor fi drept hrană pentru pasărea cerului și pentru fiara pământului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְנָתַתִּי אוֹתָם בְּיַד אֹיְבֵיהֶם וּבְיַד מְבַקְשֵׁי נַפְשָׁם...",
+      "translation": "„Și îi voi da în mâna dușmanilor lor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "καὶ δώσω αὐτοὺς τοῖς ἐχθροῖς αὐτῶν καὶ ἔσται τὰ θνησιμαῖα αὐτῶν βρῶσις τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ τοῖς θηρίοις τῆς γῆς.",
+      "greek": true,
+      "translation": "„și-i voi da vrăjmașilor lor, și vor fi trupurile lor moarte mâncare păsărilor cerului și fiarelor pământului.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "34:21",
+    "t": "Iar pe Țedekia, regele din Iuda, și pe conducătorii lui, îi voi da în mâna dușmanilor lor și în mâna celor care caută să le ia viața, și în mâna armatei regelui Babilonului care s-a retras de la voi.",
+    "heb": "וְאֶת־צִדְקִיָּהוּ מֶלֶךְ־יְהוּדָה וְאֶת־שָׂרָיו אֶתֵּן בְּיַד אֹיְבֵיהֶם וּבְיַד מְבַקְשֵׁי נַפְשָׁם וּבְיַד חֵיל מֶלֶךְ בָּבֶל הָעֹלִים מֵעֲלֵיכֶם׃",
+    "translit": "Ve-et-Tsidkiyahu melekh-Yehudah ve-et-sarav etten be-yad oyveihem u-ve-yad mevakshei nafsham u-ve-yad cheil melekh Bavel ha-olim me-aleikhem.",
+    "tokens": [
+     {
+      "t": "Iar pe Țedekia, regele din Iuda, și pe conducătorii lui, îi voi da în mâna dușmanilor lor și în mâna celor care caută să le ia viața, și în mâna armatei regelui Babilonului care s-a "
+     },
+     {
+      "t": "retras",
+      "w": "retras",
+      "heb": "הָעֹלִים מֵעֲלֵיכֶם",
+      "translit": "ha-olim me-aleikhem",
+      "strong": "H5927",
+      "pos": "verb, qal participiu",
+      "def_ro": "cei ce se ridică/se retrag de la voi.",
+      "dict_ro": "Rashi leagă această retragere temporară a asediului babilonian de venirea armatei lui Faraon dinspre Egipt (Ieremia 37:5-11), care a forțat o pauză scurtă a asediului Ierusalimului — un răgaz fals de speranță, urmat însă de revenirea inevitabilă a caldeenilor (v.22)."
+     },
+     {
+      "t": " de la voi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־צִדְקִיָּהוּ מֶלֶךְ־יְהוּדָה וְאֶת־שָׂרָיו אֶתֵּן...",
+      "translation": "„Iar pe Țedekia, regele din Iuda...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "καὶ τὸν Σεδεκίαν βασιλέα τῆς Ἰουδαίας καὶ τοὺς ἄρχοντας αὐτῶν δώσω εἰς χεῖρας ἐχθρῶν αὐτῶν, καὶ δύναμις βασιλέως Βαβυλῶνος τοῖς ἀποτρέχουσιν ἀπ' αὐτῶν.",
+      "greek": true,
+      "translation": "„și pe Sedechia, regele Iudeii, și pe conducătorii lor îi voi da în mâinile vrăjmașilor lor, și puterea regelui Babilonului [va fi dată] celor ce fug de la ei.”",
+      "note": "Traducere apropiată de structura ebraică, cu o formulare ușor diferită a ultimei clauze."
+     }
+    ],
+    "refs": [
+     "Ieremia 37:5-11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „cei ce s-au retras de la voi” prin trimitere la episodul narat mai târziu în carte (Ieremia 37): armata babiloniană ridicase temporar asediul Ierusalimului la vestea apropierii oștii lui Faraon, oferind un scurt răgaz fals de speranță — exact acea armată retrasă avea să revină curând, împlinind judecata anunțată aici."
+     }
+    ]
+   },
+   {
+    "v": "34:22",
+    "t": "Iată, am poruncit – rostirea DOMNULUI – și Mă voi întoarce la acest oraș și voi purta război împotriva lui, îl voi cuceri și îl voi arde în foc; și voi preface în pustiu orașele din Iuda, fără vreun locuitor.»”",
+    "heb": "הִנְנִי מְצַוֶּה נְאֻם־יְהוָה וַהֲשִׁבֹתִים אֶל־הָעִיר הַזֹּאת וְנִלְחֲמוּ עָלֶיהָ וּלְכָדוּהָ וּשְׂרָפֻהָ בָאֵשׁ וְאֶת־עָרֵי יְהוּדָה אֶתֵּן שְׁמָמָה מֵאֵין יֹשֵׁב׃",
+    "translit": "Hineni metsavveh ne'um-Adonai va-hashivotim el-ha-ir ha-zot ve-nilchamu aleha u-lekhaduha u-serafuha va-esh ve-et-arei Yehudah etten shemamah me-ein yoshev.",
+    "tokens": [
+     {
+      "t": "Iată, am "
+     },
+     {
+      "t": "poruncit",
+      "w": "poruncit",
+      "heb": "מְצַוֶּה",
+      "translit": "metsavveh",
+      "strong": "H6680",
+      "pos": "verb, piel participiu",
+      "def_ro": "poruncesc.",
+      "dict_ro": "Rashi explică laconic acest verset: „armata lui Faraon se va întoarce în țara ei, iar caldeenii se vor întoarce asupra voastră” — porunca divină pune în mișcare exact revenirea anunțată la versetul anterior, închizând cercul judecății."
+     },
+     {
+      "t": " – rostirea DOMNULUI – și Mă voi întoarce la acest oraș și voi purta război împotriva lui, îl voi "
+     },
+     {
+      "t": "cuceri",
+      "w": "cuceri",
+      "heb": "וּלְכָדוּהָ",
+      "translit": "u-lekhaduha",
+      "strong": "H3920",
+      "pos": "verb, qal perfect",
+      "def_ro": "și-l vor cuceri.",
+      "dict_ro": "Rădăcina lakhad, „a captura, a cuceri” — verb tehnic militar, folosit constant pentru căderea Ierusalimului în tot restul cărții lui Ieremia, aici anunțând explicit distrugerea finală, deja apropiată la momentul rostirii acestui oracol."
+     },
+     {
+      "t": " și îl voi arde în foc; și voi preface în pustiu orașele din Iuda, fără vreun locuitor.»”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנְנִי מְצַוֶּה נְאֻם־יְהוָה וַהֲשִׁבֹתִים אֶל־הָעִיר הַזֹּאת...",
+      "translation": "„Iată, am poruncit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, cap. 41 LXX)",
+      "original": "ἰδοὺ ἐγὼ συντάσσω, φησὶ Κύριος, καὶ ἐπιστρέψω αὐτοὺς εἰς τὴν γῆν ταύτην, καὶ πολεμήσουσιν ἐπ' αὐτὴν καὶ λήψονται αὐτὴν καὶ κατακαύσουσιν αὐτὴν ἐν πυρὶ καὶ τὰς πόλεις Ἰούδα, καὶ δώσω αὐτὰς ἐρήμους ἀπὸ τῶν κατοικούντων.",
+      "greek": true,
+      "translation": "„iată, Eu poruncesc, zice Domnul, și-i voi întoarce în țara aceasta, și vor lupta împotriva ei și o vor lua și o vor arde cu foc, și cetățile lui Iuda, și le voi da pustii, fără locuitori.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi rezumă simplu împlinirea sentinței: „armata lui Faraon se va întoarce în țara ei [Egipt], iar caldeenii [babilonienii] se vor întoarce asupra voastră” — porunca divină reia asediul suspendat temporar, ducând de această dată la cucerirea și arderea completă a Ierusalimului, împlinind astfel toate avertismentele rostite de-a lungul capitolului."
+     }
+    ]
+   },
+   {
+    "v": "33:25",
+    "t": "Așa a spus DOMNUL: „Dacă n-ar fi fost legământul Meu, zi și noapte, dacă n-aș fi rânduit legi pentru ceruri și pământ –",
+    "heb": "כֹּה אָמַר יְהוָה אִם־לֹא בְרִיתִי יוֹמָם וָלָיְלָה חֻקּוֹת שָׁמַיִם וָאָרֶץ לֹא־שָׂמְתִּי׃",
+    "translit": "Koh amar Adonai im-lo veriti yomam va-laylah chukkot shamayim va-arets lo-samti.",
+    "tokens": [
+     {
+      "t": "Așa a spus DOMNUL: „Dacă n-ar fi fost legământul Meu, "
+     },
+     {
+      "t": "zi și noapte",
+      "w": "zi și noapte",
+      "heb": "יוֹמָם וָלָיְלָה",
+      "translit": "yomam va-laylah",
+      "strong": "H3119",
+      "pos": "substantiv, masculin",
+      "def_ro": "ziua și noaptea.",
+      "dict_ro": "Rashi explică: „e cu neputință ca legământul pe care l-am încheiat pentru ziua și noaptea [să fie] la vremea lor să nu se împlinească” — ciclul zi-noapte devine garanția vizibilă, verificabilă zilnic, a fidelității absolute a lui Dumnezeu față de orice legământ pe care-l face."
+     },
+     {
+      "t": ", dacă n-aș fi "
+     },
+     {
+      "t": "rânduit",
+      "w": "rânduit",
+      "heb": "שָׂמְתִּי",
+      "translit": "samti",
+      "strong": "H7760",
+      "pos": "verb, qal perfect",
+      "def_ro": "am pus, am rânduit.",
+      "dict_ro": "Rădăcina sim, „a pune, a rândui” — legile fizice ale universului (ceruri și pământ) devin, în acest verset, metafora cea mai puternică posibilă pentru certitudinea legământului: la fel de imposibil ca soarele să nu răsară, la fel de imposibil ar fi ca promisiunea făcută urmașilor lui Iacov să nu se împlinească."
+     },
+     {
+      "t": " legi pentru ceruri și pământ –"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כֹּה אָמַר יְהוָה אִם־לֹא בְרִיתִי יוֹמָם וָלָיְלָה חֻקּוֹת שָׁמַיִם וָאָרֶץ לֹא־שָׂמְתִּי׃",
+      "translation": "„Așa a spus DOMNUL: «Dacă n-ar fi fost legământul Meu...»” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "(absent din Septuaginta)",
+      "greek": true,
+      "translation": "",
+      "note": "Ieremia 33:14-26 (întreaga secțiune despre legământul veșnic cu urmașii lui David, care include acest verset) lipsește complet din Septuaginta — cea mai lungă omisiune continuă din toată cartea lui Ieremia în textul grecesc vechi, bine documentată în cercetarea biblică modernă. Nu există, așadar, niciun text grecesc paralel de comparat pentru acest verset și cel următor."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică: e cu neputință ca legământul pentru ziua și noaptea, ca fiecare să vină la vremea ei, să nu se împlinească; și e cu neputință ca legile cerului și pământului să fie anulate, ca și cum nu le-aș fi rânduit — [tot atât e cu neputință ca promisiunea către] „sămânța lui Iacov” (v.26) [să nu se împlinească]. Rashi citează și o interpretare a înțelepților (Nedarim 32a), care leagă acest verset de legământul Torei, învățând de aici că pentru Tora au fost create cerurile și pământul — deși Rashi însuși notează că acest midraș nu se potrivește perfect ordinii literale a versetelor."
+     }
+    ]
+   },
+   {
+    "v": "33:26",
+    "t": "chiar și pe urmașii lui Iacov și [pe cei] ai slujitorului Meu David i-aș fi respins, neluând pe urmașii conducătorilor peste urmașii lui Avraham, Isaac și Iacov. Căci le voi aduce înapoi captivii și le voi arăta milă.”",
+    "heb": "גַּם־זֶרַע יַעֲקֹב וְדָוִד עַבְדִּי אֶמְאַס מִקַּחַת מִזַּרְעוֹ מֹשְׁלִים אֶל־זֶרַע אַבְרָהָם יִשְׂחָק וְיַעֲקֹב כִּי־אָשִׁיב [אָשִׁיב] אֶת־שְׁבוּתָם וְרִחַמְתִּים׃",
+    "translit": "Gam-zera Ya'akov ve-David avdi em'as mi-kachat mi-zaro moshlim el-zera Avraham Yischak ve-Ya'akov ki-ashiv et-shevutam ve-richamtim.",
+    "tokens": [
+     {
+      "t": "chiar și pe "
+     },
+     {
+      "t": "urmașii lui Iacov",
+      "w": "urmașii lui Iacov",
+      "heb": "זֶרַע יַעֲקֹב",
+      "translit": "zera Ya'akov",
+      "strong": "H2233",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "sămânța lui Iacov.",
+      "dict_ro": "Zera, „sămânță, urmași” — promisiunea finală a Haftarei leagă direct soarta poporului („sămânța lui Iacov”) de dinastia davidică („David, slujitorul Meu”), cele două legăminte — cel național și cel regal-mesianic — garantate împreună prin aceeași certitudine cosmică descrisă la v.25."
+     },
+     {
+      "t": " și [pe cei] ai slujitorului Meu David i-aș fi "
+     },
+     {
+      "t": "respins",
+      "w": "respins",
+      "heb": "אֶמְאַס",
+      "translit": "em'as",
+      "strong": "H3988",
+      "pos": "verb, qal imperfect",
+      "def_ro": "aș respinge, aș lepăda.",
+      "dict_ro": "Rădăcina ma'as, „a respinge, a lepăda” — negat implicit prin structura condițională a întregului pasaj: la fel de imposibil cum e ca legile cosmice să cadă, la fel de imposibil e ca Dumnezeu să respingă definitiv linia davidică, oricât de sumbre ar părea circumstanțele istorice prezente (căderea iminentă a lui Țedechia, ultimul rege davidic domnitor)."
+     },
+     {
+      "t": ", neluând pe urmașii conducătorilor peste urmașii lui Avraham, Isaac și Iacov. Căci le voi "
+     },
+     {
+      "t": "aduce înapoi captivii",
+      "w": "aduce înapoi captivii",
+      "heb": "אָשִׁיב אֶת־שְׁבוּתָם",
+      "translit": "ashiv et-shevutam",
+      "strong": "H7725",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "le voi întoarce captivitatea.",
+      "dict_ro": "Aceeași formulă idiomatică shuv shevut întâlnită și la Ezechiel 29:14 pentru restaurarea Egiptului — aici aplicată promisiunii finale, celei mai sigure posibile, pentru poporul lui Dumnezeu Însuși, încheind Haftara pe nota de speranță necesară după capitolul întunecat al legământului rupt."
+     },
+     {
+      "t": " și le voi arăta milă.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "גַּם־זֶרַע יַעֲקֹב וְדָוִד עַבְדִּי אֶמְאַס מִקַּחַת מִזַּרְעוֹ מֹשְׁלִים...",
+      "translation": "„chiar și pe urmașii lui Iacov și [pe cei] ai slujitorului Meu David i-aș fi respins...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "(absent din Septuaginta)",
+      "greek": true,
+      "translation": "",
+      "note": "Ca și versetul anterior, acest verset lipsește complet din textul grecesc vechi al Septuagintei — parte a aceleiași omisiuni ample (33:14-26), una dintre cele mai discutate divergențe textuale din toată cartea lui Ieremia între tradiția masoretică și cea grecească."
+     }
+    ],
+    "refs": [
+     "Ezechiel 29:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi leagă direct acest verset de precedentul, ca parte a aceleiași afirmații condiționale: la fel cum legământul zilei și nopții și legile cerului și pământului nu pot fi anulate, tot atât de sigur nu va fi respinsă „sămânța lui Iacov” și linia lui David — o promisiune fermă rostită tocmai în contextul cel mai sumbru posibil, chiar înaintea căderii finale a ultimului rege davidic, Țedechia."
      }
     ]
    }
