@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "14 capitole (din 54+2 planificate) · 14 complete la Standardul Davar",
+ "meta": "15 capitole (din 54+2 planificate) · 15 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -34240,6 +34240,1678 @@
      {
       "author": "Rashi (1040–1105)",
       "text": "Rashi explică: „sfânt e Israel pentru DOMNUL” — ca teruma [ofranda ridicată], interzisă la consum; iar „primul rod al recoltei Sale” — ca primul snop secerat înaintea aducerii omerului, care e oprit spre mâncare până la aducerea lui — [Targumul] traduce astfel: la fel, oricine îl mănâncă [pe Israel, adică îl asuprește] se face vinovat, exact cum se întâmplă cu cel ce mănâncă din recolta oprită înainte de vreme."
+     }
+    ]
+   }
+  ]
+ }
+ ,
+  {
+  "num": 15,
+  "title": "Haftarat Vaera",
+  "ref": "Ezechiel 28:25-29:21",
+  "intro": "Haftarat Vaera leagă pericopa Exodului — unde Faraon se laudă cu puterea sa și refuză să-L recunoască pe DOMNUL — de oracolul lui Ezechiel împotriva unui Faraon mult mai târziu, la fel de arogant, care se declară pe sine creator al propriului Nil („al meu este râul și eu m-am creat”). Aceeași mândrie, aceeași formulă de recunoaștere finală forțată („vor ști că Eu sunt DOMNUL”) leagă cele două texte peste secole de istorie.",
+  "verses": [
+   {
+    "v": "28:25",
+    "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „Atunci când voi strânge laolaltă casa lui Israel, dintre popoarele printre care sunt împrăștiați și voi fi sfințit prin ei în ochii neamurilor și ei vor locui pe pământul lor pe care l-am dat slujitorului Meu, lui Iacov,",
+    "heb": "כֹּה אָמַר אֲדֹנָי יְהוִה בְּקַבְּצִי אֶת־בֵּית יִשְׂרָאֵל מִן־הָעַמִּים אֲשֶׁר נָפֹצוּ בָם וְנִקְדַּשְׁתִּי בָם לְעֵינֵי הַגּוֹיִם וְיָשְׁבוּ עַל־אַדְמָתָם אֲשֶׁר נָתַתִּי לְעַבְדִּי לְיַעֲקֹב׃",
+    "translit": "Koh-amar Adonai Elohim be-kabbetsi et-beit Yisra'el min-ha-ammim asher nafotsu vam ve-nikdashti vam le-einei ha-goyim ve-yashvu al-admatam asher natatti le-avdi le-Ya'akov.",
+    "tokens": [
+     {
+      "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „Atunci când voi "
+     },
+     {
+      "t": "strânge laolaltă",
+      "w": "strânge laolaltă",
+      "heb": "בְּקַבְּצִי",
+      "translit": "be-kabbetsi",
+      "strong": "H6908",
+      "pos": "verb, piel infinitiv construct",
+      "def_ro": "la adunarea Mea, când voi aduna.",
+      "dict_ro": "Rădăcina kavats, „a aduna, a strânge” — verb central în profeția de restaurare, folosit constant pentru reîntoarcerea din exil (cf. Isaia 11:12, Ieremia 29:14); deschide capitolul cu promisiunea pozitivă a adunării lui Israel, contrastând deliberat cu judecata aspră asupra Egiptului care urmează imediat."
+     },
+     {
+      "t": " casa lui Israel, dintre popoarele printre care sunt "
+     },
+     {
+      "t": "împrăștiați",
+      "w": "împrăștiați",
+      "heb": "נָפֹצוּ",
+      "translit": "nafotsu",
+      "strong": "H6327",
+      "pos": "verb, qal perfect",
+      "def_ro": "au fost împrăștiați.",
+      "dict_ro": "Rădăcina puts, „a împrăștia, a risipi” — condiția prezentă a exilului, descrisă ca fapt împlinit, premisă necesară pentru promisiunea de adunare care urmează."
+     },
+     {
+      "t": " și voi fi "
+     },
+     {
+      "t": "sfințit",
+      "w": "sfințit",
+      "heb": "וְנִקְדַּשְׁתִּי",
+      "translit": "ve-nikdashti",
+      "strong": "H6942",
+      "pos": "verb, nifal perfect",
+      "def_ro": "voi fi sfințit, Mi se va recunoaște sfințenia.",
+      "dict_ro": "Rădăcina kadash, „a sfinți” — la forma pasivă/reflexivă, „Mă voi sfinți/Mi se va recunoaște sfințenia” — conceptul de Kiddush Hashem (sfințirea Numelui) aplicat aici la restaurarea lui Israel însăși, vizibilă „în ochii neamurilor” ca dovadă publică a puterii și fidelității divine."
+     },
+     {
+      "t": " prin ei în ochii neamurilor și ei vor locui pe pământul lor pe care l-am dat "
+     },
+     {
+      "t": "slujitorului Meu",
+      "w": "slujitorului Meu",
+      "heb": "לְעַבְדִּי",
+      "translit": "le-avdi",
+      "strong": "H5650",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "slujitorului Meu.",
+      "dict_ro": "Eved, „slujitor” — titlu de mare cinste în vocabularul biblic (folosit și pentru Moise, David), aplicat aici lui Iacov ca reprezentant al întregului popor: darul pământului nu e un act arbitrar, ci recompensa/moștenirea unei relații de slujire loială."
+     },
+     {
+      "t": ", lui Iacov,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כֹּה אָמַר אֲדֹנָי יְהוִה בְּקַבְּצִי אֶת־בֵּית יִשְׂרָאֵל מִן־הָעַמִּים אֲשֶׁר נָפֹצוּ בָם וְנִקְדַּשְׁתִּי בָם לְעֵינֵי הַגּוֹיִם וְיָשְׁבוּ עַל־אַדְמָתָם אֲשֶׁר נָתַתִּי לְעַבְדִּי לְיַעֲקֹב׃",
+      "translation": "„Așa a spus Stăpânul meu, Domnul DUMNEZEU...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "τάδε λέγει Κύριος Κύριος· καὶ συνάξω τὸν Ἰσραὴλ ἐκ τῶν ἐθνῶν, οὗ διεσκορπίσθησαν ἐκεῖ, καὶ ἁγιασθήσομαι ἐν αὐτοῖς ἐνώπιον τῶν λαῶν καὶ τῶν ἐθνῶν·",
+      "greek": true,
+      "translation": "„Așa zice Domnul Domnul: și voi aduna pe Israel dintre neamurile unde a fost risipit acolo, și Mă voi sfinți în ei înaintea popoarelor și a neamurilor;”",
+      "note": "LXX dublează titlul divin „Κύριος Κύριος” pentru a reda combinația ebraică Adonai-Elohim, o soluție de traducere folosită constant în tot Ezechiel pentru această formulă solemnă specifică profetului."
+     }
+    ],
+    "refs": [
+     "Isaia 11:12",
+     "Ieremia 29:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David citește versetul ca deschidere pozitivă, de restaurare, imediat înaintea unui oracol de judecată aspră împotriva Egiptului: contrastul deliberat arată că soarta lui Israel și soarta națiunilor care l-au asuprit sau disprețuit urmează căi opuse — unul spre adunare și sfințire, celelalte spre pustiire."
+     }
+    ]
+   },
+   {
+    "v": "28:26",
+    "t": "atunci vor locui pe el în siguranță și vor construi case și vor planta vii și vor locui în siguranță – când voi face judecăți asupra tuturor celor care îi disprețuiesc de jur împrejurul lor – atunci vor ști că Eu sunt DOMNUL, Dumnezeul lor.",
+    "heb": "וְיָשְׁבוּ עָלֶיהָ לָבֶטַח וּבָנוּ בָתִּים וְנָטְעוּ כְרָמִים וְיָשְׁבוּ לָבֶטַח בַּעֲשׂוֹתִי שְׁפָטִים בְּכֹל הַשָּׁאטִים אֹתָם מִסְּבִיבוֹתָם וְיָדְעוּ כִּי אֲנִי יְהוָה אֱלֹהֵיהֶם׃",
+    "translit": "Ve-yashvu aleha la-vetach u-vanu battim ve-nate'u keramim ve-yashvu la-vetach ba-asoti shefatim be-khol ha-sha'tim otam mi-sevivotam ve-yad'u ki ani Adonai Eloheihem.",
+    "tokens": [
+     {
+      "t": "atunci vor locui pe el în "
+     },
+     {
+      "t": "siguranță",
+      "w": "siguranță",
+      "heb": "לָבֶטַח",
+      "translit": "la-vetach",
+      "strong": "H983",
+      "pos": "substantiv, masculin",
+      "def_ro": "în siguranță, fără teamă.",
+      "dict_ro": "Betach, „siguranță, încredere” — repetat de două ori în acest verset, accentuând stabilitatea completă a restaurării promise: nu doar întoarcerea pe pământ, ci o locuire liniștită, fără amenințarea constantă a exilului sau invaziei."
+     },
+     {
+      "t": " și vor construi case și vor planta "
+     },
+     {
+      "t": "vii",
+      "w": "vii",
+      "heb": "כְרָמִים",
+      "translit": "keramim",
+      "strong": "H3754",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "vii, podgorii.",
+      "dict_ro": "Kerem, „vie” — imagine standard a stabilității agricole și a prosperității pe termen lung (o vie cere ani de îngrijire înainte de rod), simbol al unei păci nu doar temporare, ci durabile."
+     },
+     {
+      "t": " și vor locui în siguranță – când voi face "
+     },
+     {
+      "t": "judecăți",
+      "w": "judecăți",
+      "heb": "שְׁפָטִים",
+      "translit": "shefatim",
+      "strong": "H8201",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "judecăți, pedepse.",
+      "dict_ro": "Shefatim, plural de la mishpat/shofet — termen tehnic pentru actele de judecată/pedeapsă divină, aici aplicate popoarelor vecine ostile lui Israel, prima dintre acestea, dezvoltată pe larg în restul capitolului, fiind chiar Egiptul."
+     },
+     {
+      "t": " asupra tuturor celor care îi "
+     },
+     {
+      "t": "disprețuiesc",
+      "w": "disprețuiesc",
+      "heb": "הַשָּׁאטִים",
+      "translit": "ha-sha'tim",
+      "strong": "H7590",
+      "pos": "verb, qal participiu",
+      "def_ro": "cei ce-i disprețuiesc.",
+      "dict_ro": "Rădăcina sha'at, „a disprețui” — cuvânt rar, desemnând vecinii ostili care au tratat cu dispreț poporul exilat și slăbit; judecata divină asupra lor devine condiția necesară pentru siguranța promisă lui Israel."
+     },
+     {
+      "t": " de jur împrejurul lor – atunci vor ști că Eu sunt DOMNUL, Dumnezeul lor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְיָשְׁבוּ עָלֶיהָ לָבֶטַח וּבָנוּ בָתִּים וְנָטְעוּ כְרָמִים וְיָשְׁבוּ לָבֶטַח בַּעֲשׂוֹתִי שְׁפָטִים בְּכֹל הַשָּׁאטִים אֹתָם מִסְּבִיבוֹתָם וְיָדְעוּ כִּי אֲנִי יְהוָה אֱלֹהֵיהֶם׃",
+      "translation": "„atunci vor locui pe el în siguranță...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ κατοικήσουσιν ἐπὶ τῆς γῆς αὐτῶν, ἣν δέδωκα τῷ δούλῳ μου Ἰακώβ, καὶ κατοικήσουσιν ἐπ' αὐτῆς ἐν ἐλπίδι καὶ οἰκοδομήσουσιν οἰκίας καὶ φυτεύσουσιν ἀμπελῶνας καὶ κατοικήσουσιν ἐν ἐλπίδι...",
+      "greek": true,
+      "translation": "„și vor locui pe pământul lor, pe care l-am dat robului Meu Iacov, și vor locui pe el în nădejde, și vor zidi case și vor sădi vii și vor locui în nădejde...”",
+      "note": "LXX traduce „la-vetach” (în siguranță) prin „ἐν ἐλπίδι” („în nădejde”) — o nuanță teologică diferită: nu doar absența pericolului fizic, ci o stare interioară de speranță activă."
+     }
+    ],
+    "refs": [
+     "Deuteronom 28:30",
+     "Amos 9:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David observă structura repetitivă a versetului („vor locui în siguranță”, repetat de două ori): promisiunea se confirmă și se întărește prin repetiție — prima dată ca anunț general, a doua oară legată explicit de condiția prealabilă a judecății divine asupra vecinilor disprețuitori."
+     }
+    ]
+   },
+   {
+    "v": "29:1",
+    "t": "În anul al zecelea, în [luna] a zecea, în a douăsprezecea [zi] a lunii, cuvântul DOMNULUI a venit la mine, spunând:",
+    "heb": "בַּשָּׁנָה הָעֲשִׂירִית בָּעֲשִׂרִי בִּשְׁנֵים עָשָׂר לַחֹדֶשׁ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
+    "translit": "Ba-shanah ha-asirit ba-asiri bi-shnem asar la-chodesh hayah devar-Adonai elai lemor.",
+    "tokens": [
+     {
+      "t": "În "
+     },
+     {
+      "t": "anul al zecelea",
+      "w": "anul al zecelea",
+      "heb": "הָעֲשִׂירִית",
+      "translit": "ha-asirit",
+      "strong": "H6224",
+      "pos": "numeral ordinal",
+      "def_ro": "al zecelea.",
+      "dict_ro": "Anul al zecelea al exilului regelui Iehoiachin (aprox. 588/587 î.Hr.) — datare precisă, plasând acest oracol chiar în perioada asediului final al Ierusalimului de către Babilon, context istoric direct pentru mesajul împotriva Egiptului, aliatul politic nesigur pe care Iuda sperase să-l găsească."
+     },
+     {
+      "t": ", în [luna] a zecea, în a douăsprezecea [zi] a lunii, cuvântul DOMNULUI a venit la mine, spunând:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בַּשָּׁנָה הָעֲשִׂירִית בָּעֲשִׂרִי בִּשְׁנֵים עָשָׂר לַחֹדֶשׁ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
+      "translation": "„În anul al zecelea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ΕΝ τῷ ἔτει τῷ δωδεκάτῳ, ἐν τῷ δεκάτῳ μηνί, μιᾷ τοῦ μηνός, ἐγένετο λόγος Κυρίου πρός με λέγων",
+      "greek": true,
+      "translation": "„În anul al doisprezecelea, în luna a zecea, în [ziua] întâi a lunii, a fost cuvântul Domnului către mine, zicând”",
+      "note": "Divergență cronologică notabilă: unde ebraica are „anul al zecelea” și „ziua a douăsprezecea”, LXX are „anul al doisprezecelea” și „ziua întâi” — o discrepanță reală de datare, nu doar de traducere, între cele două tradiții textuale."
+     }
+    ],
+    "refs": [
+     "2 Regi 25:1"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "29:2",
+    "t": "„Fiul omului, îndreaptă-ți fața spre Faraon, regele Egiptului, și profețește împotriva lui și împotriva întregului Egipt.",
+    "heb": "בֶּן־אָדָם שִׂים פָּנֶיךָ עַל־פַּרְעֹה מֶלֶךְ מִצְרַיִם וְהִנָּבֵא עָלָיו וְעַל־מִצְרַיִם כֻּלָּהּ׃",
+    "translit": "Ben-adam sim paneikha al-Par'oh melekh Mitsrayim ve-hinnave alav ve-al-Mitsrayim kullah.",
+    "tokens": [
+     {
+      "t": "„"
+     },
+     {
+      "t": "Fiul omului",
+      "w": "Fiul omului",
+      "heb": "בֶּן־אָדָם",
+      "translit": "ben-adam",
+      "strong": "H1121",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "fiul omului.",
+      "dict_ro": "Ben-adam, „fiu al omului” — formula de adresare divină constantă către Ezechiel în toată cartea (peste 90 de ori), accentuând contrastul dintre fragilitatea/muritudinea umană a profetului și maiestatea copleșitoare a viziunilor pe care le primește."
+     },
+     {
+      "t": ", "
+     },
+     {
+      "t": "îndreaptă-ți fața",
+      "w": "îndreaptă-ți fața",
+      "heb": "שִׂים פָּנֶיךָ",
+      "translit": "sim paneikha",
+      "strong": "H7760",
+      "pos": "verb, qal imperativ",
+      "def_ro": "pune-ți fața, îndreaptă-ți privirea.",
+      "dict_ro": "Expresia „a-și pune fața spre” cineva/ceva e o formulă recurentă la Ezechiel (folosită și pentru Ierusalim, muntele Seir, Gog) pentru introducerea unui oracol de judecată direcționat precis, aproape ca o țintire fizică a mesajului."
+     },
+     {
+      "t": " spre "
+     },
+     {
+      "t": "Faraon",
+      "w": "Faraon",
+      "heb": "פַּרְעֹה",
+      "translit": "Par'oh",
+      "strong": "H6547",
+      "pos": "nume propriu/titlu",
+      "def_ro": "Faraon.",
+      "dict_ro": "Par'oh — titlu regal egiptean, nu nume propriu; identificarea istorică cea mai probabilă a acestui Faraon e Hofra (Apries, cca. 589-570 î.Hr.), contemporan cu Țedechia și cu asediul final al Ierusalimului, cunoscut pentru promisiunile de ajutor militar neonorate față de Iuda (cf. Ieremia 37:5-7)."
+     },
+     {
+      "t": ", regele Egiptului, și "
+     },
+     {
+      "t": "profețește",
+      "w": "profețește",
+      "heb": "וְהִנָּבֵא",
+      "translit": "ve-hinnave",
+      "strong": "H5012",
+      "pos": "verb, nifal imperativ",
+      "def_ro": "profețește.",
+      "dict_ro": "Rădăcina naba, „a profeți” — deschide formal seria de oracole împotriva națiunilor din Ezechiel (cap. 25-32), un gen literar profetic distinct, cu propriile convenții stilistice, aici aplicat pe larg Egiptului, cel mai extins dintre toate aceste oracole."
+     },
+     {
+      "t": " împotriva lui și împotriva întregului Egipt."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בֶּן־אָדָם שִׂים פָּנֶיךָ עַל־פַּרְעֹה מֶלֶךְ מִצְרַיִם וְהִנָּבֵא עָלָיו וְעַל־מִצְרַיִם כֻּלָּהּ׃",
+      "translation": "„Fiul omului, îndreaptă-ți fața spre Faraon...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "υἱὲ ἀνθρώπου, στήρισον τὸ πρόσωπόν σου ἐπὶ Φαραὼ βασιλέα Αἰγύπτου καὶ προφήτευσον ἐπ' αὐτὸν καὶ ἐπ' Αἴγυπτον ὅλην",
+      "greek": true,
+      "translation": "„fiul omului, întărește-ți fața spre Faraon, regele Egiptului, și profețește împotriva lui și împotriva întregului Egipt”",
+      "note": "LXX traduce „sim” (pune) prin „στήρισον” („întărește, fixează ferm”) — o nuanță mai intensă decât simpla „îndreptare” a feței, sugerând o hotărâre fermă, neclintită, necesară pentru un oracol atât de dur."
+     }
+    ],
+    "refs": [
+     "Ieremia 37:5-7",
+     "Isaia 19:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David identifică Faraonul acestui oracol cu regele contemporan lui Țedechia, cel care promisese ajutor militar Ierusalimului asediat, dar ale cărui trupe s-au retras fără luptă reală (cf. Ieremia 37:5-7) — mândria lui nefondată e tocmai ținta oracolului care urmează."
+     }
+    ]
+   },
+   {
+    "v": "29:3",
+    "t": "Vorbește și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Iată-Mă, Eu sunt împotriva ta, Faraon, rege al Egiptului, mare monstru marin care se cuibărește în râurile sale, cel care a spus: ‘Al meu este râul și eu m-am creat.’",
+    "heb": "דַּבֵּר וְאָמַרְתָּ כֹּה־אָמַר אֲדֹנָי יְהוִה הִנְנִי עָלֶיךָ פַּרְעֹה מֶלֶךְ־מִצְרַיִם הַתַּנִּים הַגָּדוֹל הָרֹבֵץ בְּתוֹךְ יְאֹרָיו אֲשֶׁר אָמַר לִי יְאֹרִי וַאֲנִי עֲשִׂיתִנִי׃",
+    "translit": "Dabber ve-amarta koh-amar Adonai Elohim hineni aleikha Par'oh melekh-Mitsrayim ha-tannim ha-gadol ha-rovets be-tokh ye'orav asher amar li ye'ori va-ani asitini.",
+    "tokens": [
+     {
+      "t": "Vorbește și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Iată-Mă, Eu sunt împotriva ta, Faraon, rege al Egiptului, mare "
+     },
+     {
+      "t": "monstru marin",
+      "w": "monstru marin",
+      "heb": "הַתַּנִּים הַגָּדוֹל",
+      "translit": "ha-tannim ha-gadol",
+      "strong": "H8577",
+      "pos": "substantiv, masculin",
+      "def_ro": "marele monstru/crocodil.",
+      "dict_ro": "Tannim, „monstru marin, crocodil” — Rashi explică imaginea: întreaga măreție și bogăție a Egiptului vine prin apele Nilului, de aceea profetul îl compară pe regele Egiptului cu un crocodil (animalul dominant al Nilului) și poporul lui cu peștii din același fluviu — o metaforă precisă, construită pe realitatea economică egipteană."
+     },
+     {
+      "t": " care se "
+     },
+     {
+      "t": "cuibărește",
+      "w": "cuibărește",
+      "heb": "הָרֹבֵץ",
+      "translit": "ha-rovets",
+      "strong": "H7257",
+      "pos": "verb, qal participiu",
+      "def_ro": "care se culcă, se odihnește.",
+      "dict_ro": "Rădăcina ravats, „a se culca, a se odihni [ca o fiară]” — aceeași imagine folosită la Geneza 4:7 pentru păcatul „culcat” la ușa lui Cain: o poziție de falsă siguranță, de stăpânire liniștită a teritoriului, pe care oracolul o va răsturna violent."
+     },
+     {
+      "t": " în "
+     },
+     {
+      "t": "râurile sale",
+      "w": "râurile sale",
+      "heb": "יְאֹרָיו",
+      "translit": "ye'orav",
+      "strong": "H2975",
+      "pos": "substantiv, masculin plural construct",
+      "def_ro": "canalele/brațele Nilului său.",
+      "dict_ro": "Ye'or, termen tehnic egiptean împrumutat în ebraică pentru Nilul și canalele lui de irigație — cuvântul revine constant în tot oracolul (v.3-10), centrul simbolic al întregii economii și identități egiptene, pe care Faraon o revendică arogant ca proprie creație."
+     },
+     {
+      "t": ", cel care a spus: «Al meu este "
+     },
+     {
+      "t": "râul",
+      "w": "râul",
+      "heb": "יְאֹרִי",
+      "translit": "ye'ori",
+      "strong": "H2975",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "râul meu.",
+      "dict_ro": "Aceeași rădăcină ye'or, acum cu sufix posesiv — culmea aroganței faraonice: nu doar stăpânirea, ci pretenția de proprietate absolută asupra sursei de viață a întregii națiuni."
+     },
+     {
+      "t": " și eu "
+     },
+     {
+      "t": "m-am creat",
+      "w": "m-am creat",
+      "heb": "עֲשִׂיתִנִי",
+      "translit": "asitini",
+      "strong": "H6213",
+      "pos": "verb, qal perfect",
+      "def_ro": "m-am făcut [pe mine însumi].",
+      "dict_ro": "Rădăcina asah, „a face” — declarația supremă de auto-suficiență și auto-divinizare: Faraon nu doar respinge autoritatea lui Dumnezeu, ci pretinde literal că e propriul său creator, ecou direct al refuzului lui Faraon din Exod de a-L recunoaște pe DOMNUL (Exodul 5:2)."
+     },
+     {
+      "t": ".»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "דַּבֵּר וְאָמַרְתָּ כֹּה־אָמַר אֲדֹנָי יְהוִה הִנְנִי עָלֶיךָ פַּרְעֹה מֶלֶךְ־מִצְרַיִם הַתַּנִּים הַגָּדוֹל הָרֹבֵץ בְּתוֹךְ יְאֹרָיו אֲשֶׁר אָמַר לִי יְאֹרִי וַאֲנִי עֲשִׂיתִנִי׃",
+      "translation": "„Vorbește și spune-le...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ εἰπόν· τάδε λέγει Κύριος· ἰδοὺ ἐγὼ ἐπὶ Φαραώ, τὸν δράκοντα τὸν μέγαν τὸν ἐγκαθήμενον ἐν μέσῳ ποταμῶν αὐτοῦ, τὸν λέγοντα· ἐμοί εἰσιν οἱ ποταμοί, καὶ ἐγὼ ἐποίησα αὐτούς.",
+      "greek": true,
+      "translation": "„și spune: așa zice Domnul: iată, Eu sunt împotriva lui Faraon, balaurul cel mare, care șade în mijlocul râurilor sale, care zice: ale mele sunt râurile, și eu le-am făcut.”",
+      "note": "LXX traduce „tannim” prin „δράκων” (balaur/dragon), o redare mitologică mai puternică decât „crocodil”, apropiată de imaginea Leviatanului din alte texte biblice poetice."
+     }
+    ],
+    "refs": [
+     "Exodul 5:2",
+     "Geneza 4:7",
+     "Isaia 27:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică metafora: pentru că toată măreția și toată belșugul Egiptului vin prin canalele Nilului, profetul îl compară pe regele lui cu un crocodil [tannim], iar poporul lui cu peștii din același râu. „Al meu e râul meu” — nu am nevoie de cei de sus [de cer], căci am râul meu, care-mi ajunge pentru toate nevoile. „Și eu m-am creat” — prin puterea și înțelepciunea mea mi-am mărit măreția și stăpânirea."
+     }
+    ]
+   },
+   {
+    "v": "29:4",
+    "t": "Îți voi pune cârlige în fălci și voi face peștii râurilor tale să ți se lipească de solzi și te voi scoate afară din râurile tale și toți peștii râurilor tale ți se vor lipi de solzi.",
+    "heb": "וְנָתַתִּי חַחִים בִּלְחָיֶיךָ וְהִדְבַּקְתִּי דְגַת־יְאֹרֶיךָ בְּקַשְׂקְשֹׂתֶיךָ וְהַעֲלִיתִיךָ מִתּוֹךְ יְאֹרֶיךָ וְאֵת כָּל־דְּגַת יְאֹרֶיךָ בְּקַשְׂקְשֹׂתֶיךָ תִּדְבָּק׃",
+    "translit": "Ve-natatti chachim bi-lchayeikha ve-hidbakti degat-ye'oreikha be-kaskesoteikha ve-ha'alitikha mi-tokh ye'oreikha ve-et kol-degat ye'oreikha be-kaskesoteikha tidbak.",
+    "tokens": [
+     {
+      "t": "Îți voi pune "
+     },
+     {
+      "t": "cârlige",
+      "w": "cârlige",
+      "heb": "חַחִים",
+      "translit": "chachim",
+      "strong": "H2397",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "cârlige, inele.",
+      "dict_ro": "Chachim, „cârlige, inele [de metal]” — Rashi le descrie ca „un fel de inele de fier”, imaginea concretă a vânării unui crocodil uriaș (identificat cu Faraon la v.3) prin metoda antică de pescuit cu cârlige în fălci — o umilire fizică directă a imaginii regale de putere netulburată."
+     },
+     {
+      "t": " în "
+     },
+     {
+      "t": "fălci",
+      "w": "fălci",
+      "heb": "לְחָיֶיךָ",
+      "translit": "lechayeikha",
+      "strong": "H3895",
+      "pos": "substantiv, feminin plural construct",
+      "def_ro": "fălcile tale.",
+      "dict_ro": "Lechi, „falcă, obraz” — continuă imaginea vânătorii/capturării unei fiare de pradă, gura mare și fălcile puternice ale crocodilului („monstrul marin” de la v.3) devenind acum punctul exact al vulnerabilității lui."
+     },
+     {
+      "t": " și voi face "
+     },
+     {
+      "t": "peștii",
+      "w": "peștii",
+      "heb": "דְגַת",
+      "translit": "degat",
+      "strong": "H1710",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "peștii.",
+      "dict_ro": "Dagah, „pește” — Rashi extinde metafora: poporul Egiptului, ca „peștii Nilului lui”, va fi antrenat prin voia lui Dumnezeu să lupte alături de Faraon, dar toți vor cădea împreună cu el, prinși în aceeași capcană a solzilor lipiți de cârlig."
+     },
+     {
+      "t": " râurilor tale să ți se lipească de "
+     },
+     {
+      "t": "solzi",
+      "w": "solzi",
+      "heb": "קַשְׂקְשֹׂתֶיךָ",
+      "translit": "kaskesoteikha",
+      "strong": "H7193",
+      "pos": "substantiv, feminin plural construct",
+      "def_ro": "solzii tăi.",
+      "dict_ro": "Kaskeset, „solz” — imagine tehnică precisă din anatomia peștelui/crocodilului, întărind coerența metaforei acvatice a întregului oracol: capturarea nu e doar prin gură, ci prin întreaga suprafață a corpului, o prindere totală, fără scăpare."
+     },
+     {
+      "t": " și te voi "
+     },
+     {
+      "t": "scoate afară",
+      "w": "scoate afară",
+      "heb": "וְהַעֲלִיתִיךָ",
+      "translit": "ve-ha'alitikha",
+      "strong": "H5927",
+      "pos": "verb, hifil perfect",
+      "def_ro": "te voi scoate afară, te voi ridica.",
+      "dict_ro": "Rădăcina alah, „a se urca, a scoate [din apă]” — verbul final al imaginii de pescuit: crocodilul, simbol al stăpânirii netulburate a apelor natale, e smuls cu forța din propriul lui element, complet expus și neputincios."
+     },
+     {
+      "t": " din râurile tale și toți peștii râurilor tale ți se vor lipi de solzi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְנָתַתִּי חַחִים בִּלְחָיֶיךָ וְהִדְבַּקְתִּי דְגַת־יְאֹרֶיךָ בְּקַשְׂקְשֹׂתֶיךָ וְהַעֲלִיתִיךָ מִתּוֹךְ יְאֹרֶיךָ וְאֵת כָּל־דְּגַת יְאֹרֶיךָ בְּקַשְׂקְשֹׂתֶיךָ תִּדְבָּק׃",
+      "translation": "„Îți voi pune cârlige în fălci...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἐγὼ δώσω παγίδας εἰς τὰς σιαγόνας σου καὶ προσκολλήσω τοὺς ἰχθύας τοῦ ποταμοῦ σου πρὸς τὰς πτέρυγάς σου καὶ ἀνάξω σε ἐκ μέσου τοῦ ποταμοῦ σου·",
+      "greek": true,
+      "translation": "„și voi pune capcane în fălcile tale și voi lipi peștii râului tău de aripioarele tale și te voi scoate din mijlocul râului tău;”",
+      "note": "LXX traduce „kaskesoteikha” (solzii tăi) prin „τὰς πτέρυγάς σου” (aripioarele tale) — o alegere anatomică diferită, dar coerentă cu imaginea unui pește/crocodil mare."
+     }
+    ],
+    "refs": [
+     "Iov 40:25-26",
+     "Isaia 27:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „peștii râurilor tale lipiți de solzii tăi” drept imaginea supunerii forțate: voi pune în inima tuturor vitejilor tăi să iasă cu tine la război, și vor cădea cu toții împreună cu tine — poporul întreg e antrenat, prin voia divină, în aceeași cursă a înfrângerii ca regele lor."
+     }
+    ]
+   },
+   {
+    "v": "29:5",
+    "t": "Și te voi arunca în deșert, pe tine și toți peștii râurilor tale, pe fața câmpiei vei cădea și nu vei fi luat sau adunat. Fiarelor pământului și păsărilor cerurilor te-am dat ca hrană.",
+    "heb": "וּנְטַשְׁתִּיךָ הַמִּדְבָּרָה אוֹתְךָ וְאֵת כָּל־דְּגַת יְאֹרֶיךָ עַל־פְּנֵי הַשָּׂדֶה תִּפּוֹל לֹא תֵאָסֵף וְלֹא תִקָּבֵץ לְחַיַּת הָאָרֶץ וּלְעוֹף הַשָּׁמַיִם נְתַתִּיךָ לְאָכְלָה׃",
+    "translit": "U-netashtikha ha-midbarah otekha ve-et kol-degat ye'oreikha al-penei ha-sadeh tippol lo te'asef ve-lo tikkavets le-chayat ha-arets u-le-of ha-shamayim netattikha le-okhlah.",
+    "tokens": [
+     {
+      "t": "Și te voi "
+     },
+     {
+      "t": "arunca",
+      "w": "arunca",
+      "heb": "וּנְטַשְׁתִּיךָ",
+      "translit": "u-netashtikha",
+      "strong": "H5203",
+      "pos": "verb, qal perfect",
+      "def_ro": "te voi arunca, te voi părăsi.",
+      "dict_ro": "Rădăcina natash, „a arunca, a abandona” — soarta crocodilului scos din apă (v.4): nu doar capturat, ci aruncat departe de mediul lui vital, în deșert, unde nu poate supraviețui, o imagine a umilirii complete și ireversibile."
+     },
+     {
+      "t": " în deșert, pe tine și toți peștii râurilor tale, pe fața câmpiei vei cădea și nu vei fi "
+     },
+     {
+      "t": "luat sau adunat",
+      "w": "luat sau adunat",
+      "heb": "לֹא תֵאָסֵף וְלֹא תִקָּבֵץ",
+      "translit": "lo te'asef ve-lo tikkavets",
+      "strong": "H622",
+      "pos": "verb, nifal imperfect",
+      "def_ro": "nu vei fi strâns, nu vei fi adunat.",
+      "dict_ro": "Rădăcina asaf/kavats, „a strânge, a aduna” — dublarea negativă intensifică ideea unei morți fără nicio demnitate funerară, trupul lăsat pradă deschisă, fără nici măcar actul minim de respect al înmormântării."
+     },
+     {
+      "t": ". Fiarelor pământului și "
+     },
+     {
+      "t": "păsărilor cerurilor",
+      "w": "păsărilor cerurilor",
+      "heb": "וּלְעוֹף הַשָּׁמַיִם",
+      "translit": "u-le-of ha-shamayim",
+      "strong": "H5775",
+      "pos": "substantiv, masculin",
+      "def_ro": "păsările cerului.",
+      "dict_ro": "Of ha-shamayim, „păsările cerului” — formulă frecventă pentru soarta trupurilor neîngropate lăsate expuse; aceeași imagine revine în oracolele împotriva multor alte popoare mândre din literatura profetică, semn standard al unei înfrângeri complete și ignominioase."
+     },
+     {
+      "t": " te-am dat ca "
+     },
+     {
+      "t": "hrană",
+      "w": "hrană",
+      "heb": "לְאָכְלָה",
+      "translit": "le-okhlah",
+      "strong": "H402",
+      "pos": "substantiv, feminin",
+      "def_ro": "ca hrană, ca mâncare.",
+      "dict_ro": "Okhlah, „hrană, mâncare” — sentința finală a imaginii: cel ce se pretindea propriul creator (v.3) ajunge, ironic, simplă hrană pentru fiare și păsări, cea mai joasă poziție posibilă în lanțul existenței."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּנְטַשְׁתִּיךָ הַמִּדְבָּרָה אוֹתְךָ וְאֵת כָּל־דְּגַת יְאֹרֶיךָ עַל־פְּנֵי הַשָּׂדֶה תִּפּוֹל לֹא תֵאָסֵף וְלֹא תִקָּבֵץ לְחַיַּת הָאָרֶץ וּלְעוֹף הַשָּׁמַיִם נְתַתִּיךָ לְאָכְלָה׃",
+      "translation": "„Și te voi arunca în deșert...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ καταβαλῶ σε ἐν τάχει καὶ πάντας τοὺς ἰχθύας τοῦ ποταμοῦ σου· ἐπὶ πρόσωπον τοῦ πεδίου πεσῇ, καὶ οὐ μὴ συναχθῇς καὶ οὐ μὴ περισταλῇς, τοῖς θηρίοις τῆς γῆς καὶ τοῖς πετεινοῖς τοῦ οὐρανοῦ δέδωκά σε εἰς κατάβρωμα·",
+      "greek": true,
+      "translation": "„și te voi doborî repede, pe tine și pe toți peștii râului tău; pe fața câmpiei vei cădea, și nu vei fi adunat și nu vei fi înfășurat [pentru înmormântare], fiarelor pământului și păsărilor cerului te-am dat spre mâncare;”",
+      "note": "LXX traduce „ha-midbarah” (în deșert) prin „ἐν τάχει” („repede”) — o divergență semantică notabilă, posibil o confuzie de citire a rădăcinii ebraice."
+     }
+    ],
+    "refs": [
+     "1 Regi 21:24",
+     "Ieremia 8:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David citește versetul ca pe încheierea logică a metaforei crocodilului scos din apă: nu doar capturat, ci abandonat complet, lăsat neîngropat — soarta cea mai de rușine posibilă pentru un rege care se pretinsese propriul său creator."
+     }
+    ]
+   },
+   {
+    "v": "29:6",
+    "t": "Și toți cei care locuiesc în Egipt vor ști că Eu sunt DOMNUL, căci au fost ca un sprijin de trestie pentru casa lui Israel.",
+    "heb": "וְיָדְעוּ כָּל־יֹשְׁבֵי מִצְרַיִם כִּי אֲנִי יְהוָה יַעַן הֱיוֹתָם מִשְׁעֶנֶת קָנֶה לְבֵית יִשְׂרָאֵל׃",
+    "translit": "Ve-yad'u kol-yoshvei Mitsrayim ki ani Adonai ya'an heyotam mish'enet kaneh le-veit Yisra'el.",
+    "tokens": [
+     {
+      "t": "Și toți cei care locuiesc în Egipt vor ști că Eu sunt DOMNUL, căci au fost ca un "
+     },
+     {
+      "t": "sprijin de trestie",
+      "w": "sprijin de trestie",
+      "heb": "מִשְׁעֶנֶת קָנֶה",
+      "translit": "mish'enet kaneh",
+      "strong": "H4938",
+      "pos": "substantiv, feminin",
+      "def_ro": "toiag de trestie.",
+      "dict_ro": "Mish'enet kaneh, „toiag de trestie” — imagine a unui sprijin fals, gata să se frângă sub greutate reală; același „toiag de trestie frântă” apare aproape identic la Isaia 36:6, în discursul lui Rabșache către Ezechia, avertizându-l explicit împotriva încrederii în alianța egipteană."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְיָדְעוּ כָּל־יֹשְׁבֵי מִצְרַיִם כִּי אֲנִי יְהוָה יַעַן הֱיוֹתָם מִשְׁעֶנֶת קָנֶה לְבֵית יִשְׂרָאֵל׃",
+      "translation": "„Și toți cei care locuiesc în Egipt vor ști...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ γνώσονται πάντες οἱ κατοικοῦντες Αἴγυπτον ὅτι ἐγώ εἰμι Κύριος, ἀνθ' ὧν ἐγενήθης ῥάβδος καλαμίνη τῷ οἴκῳ Ἰσραήλ.",
+      "greek": true,
+      "translation": "„și vor cunoaște toți locuitorii Egiptului că Eu sunt Domnul, pentru că ai fost toiag de trestie casei lui Israel.”",
+      "note": "Traducere fidelă structurii ebraice, păstrând exact aceeași imagine a toiagului de trestie."
+     }
+    ],
+    "refs": [
+     "Isaia 36:6",
+     "2 Regi 18:21"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David leagă direct imaginea toiagului de trestie de politica externă a lui Iuda: alianța cu Egiptul, în care regii lui Iuda își puseseră speranța de apărare împotriva Babilonului, s-a dovedit, ca orice sprijin pe trestie, complet neputincioasă în ceasul real al nevoii."
+     }
+    ]
+   },
+   {
+    "v": "29:7",
+    "t": "Când ei te apucă în mână, te vei sfărâma și le vei străpunge orice umăr; iar când se reazemă de tine, te vei rupe, și tot mijlocul lor va trebui să stea drept.»”",
+    "heb": "בְּתָפְשָׂם בְּךָ בַכַּף תֵּרוֹץ וּבָקַעְתָּ לָהֶם כָּל־כָּתֵף וּבְהִשָּׁעֲנָם עָלֶיךָ תִּשָּׁבֵר וְהַעֲמַדְתָּ לָהֶם כָּל־מָתְנָיִם׃",
+    "translit": "Be-tofsam bekha va-khaf teruts u-vaka'ta lahem kol-katef u-ve-hishsha'anam aleikha tishaver ve-ha'amadta lahem kol-motnayim.",
+    "tokens": [
+     {
+      "t": "Când ei te apucă în "
+     },
+     {
+      "t": "mână",
+      "w": "mână",
+      "heb": "בַכַּף",
+      "translit": "va-khaf",
+      "strong": "H3709",
+      "pos": "substantiv, feminin",
+      "def_ro": "în palmă.",
+      "dict_ro": "Kaf, „palmă, mână” — imaginea trestiei fragile care se sfărâmă exact în momentul în care e apucată pentru sprijin, rănind mâna care căuta ajutor — o metaforă precisă a alianței egiptene: dăunătoare tocmai celor care se bazează pe ea."
+     },
+     {
+      "t": ", te vei "
+     },
+     {
+      "t": "sfărâma",
+      "w": "sfărâma",
+      "heb": "תֵּרוֹץ",
+      "translit": "teruts",
+      "strong": "H7533",
+      "pos": "verb, qal imperfect",
+      "def_ro": "te vei sfărâma.",
+      "dict_ro": "Rădăcina ratsats, „a sfărâma, a zdrobi” — verb ce descrie fragilitatea absolută a trestiei egiptene sub greutatea încrederii puse în ea, ilustrare directă a experienței istorice reale a lui Iuda cu promisiunile militare egiptene neonorate."
+     },
+     {
+      "t": " și le vei străpunge orice umăr; iar când se "
+     },
+     {
+      "t": "reazemă",
+      "w": "reazemă",
+      "heb": "וּבְהִשָּׁעֲנָם",
+      "translit": "u-ve-hishsha'anam",
+      "strong": "H8172",
+      "pos": "verb, nifal infinitiv",
+      "def_ro": "se sprijină, se reazemă.",
+      "dict_ro": "Rădăcina sha'an, „a se sprijini, a se rezema” — actul de încredere pusă în alianța egipteană, care se dovedește nu doar inutilă, ci activ dăunătoare: cel ce se sprijină pe trestia frântă se rănește el însuși, dublu eșec al oricărei speranțe puse acolo."
+     },
+     {
+      "t": " de tine, te vei rupe, și tot mijlocul lor va trebui să stea drept.»”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּתָפְשָׂם בְּךָ בַכַּף תֵּרוֹץ וּבָקַעְתָּ לָהֶם כָּל־כָּתֵף וּבְהִשָּׁעֲנָם עָלֶיךָ תִּשָּׁבֵר וְהַעֲמַדְתָּ לָהֶם כָּל־מָתְנָיִם׃",
+      "translation": "„Când ei te apucă în mână...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ὅτε ἐπελάβοντό σου τῇ χειρὶ αὐτῶν, ἐθλάσθης, καὶ ὅτε ἐπεκρότησεν ἐπ' αὐτοὺς πᾶσα χεὶρ καὶ ὅτε ἐπανεπαύσαντο ἐπὶ σέ, συνετρίβης καὶ συνέκλασας αὐτῶν πᾶσαν ὀσφύν.",
+      "greek": true,
+      "translation": "„când te-au apucat cu mâna lor, te-ai frânt, și când toată mâna a bătut asupra lor și când s-au odihnit pe tine, te-ai zdrobit și le-ai frânt tot mijlocul lor.”",
+      "note": "LXX pune verbele la timpul trecut (aorist), tratând evenimentul ca deja împlinit, spre deosebire de viitorul din ebraică — o nuanță temporală diferită asupra aceleiași imagini."
+     }
+    ],
+    "refs": [
+     "Isaia 36:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David explică imaginea completă: cel ce se sprijină pe o trestie subțire nu doar rămâne fără sprijinul căutat, ci e activ rănit de ea, atât în mâna cu care o apucă, cât și în mijlocul cu care se sprijină — o dublă vătămare, exact soarta lui Iuda în relația cu Egiptul."
+     }
+    ]
+   },
+   {
+    "v": "29:8",
+    "t": "De aceea, așa a spus Stăpânul meu, Domnul DUMNEZEU: „Iată-Mă, voi aduce împotriva ta sabie și voi nimici dintr-ale tale om și dobitoc.",
+    "heb": "לָכֵן כֹּה אָמַר אֲדֹנָי יְהוִה הִנְנִי מֵבִיא עָלֶיךָ חֶרֶב וְהִכְרַתִּי מִמְּךָ אָדָם וּבְהֵמָה׃",
+    "translit": "Lakhen koh amar Adonai Elohim hineni mevi aleikha cherev ve-hikhratti mimmekha adam u-vehemah.",
+    "tokens": [
+     {
+      "t": "De aceea, așa a spus Stăpânul meu, Domnul DUMNEZEU: „Iată-Mă, voi aduce împotriva ta "
+     },
+     {
+      "t": "sabie",
+      "w": "sabie",
+      "heb": "חֶרֶב",
+      "translit": "cherev",
+      "strong": "H2719",
+      "pos": "substantiv, feminin",
+      "def_ro": "sabie.",
+      "dict_ro": "Cherev, „sabie” — simbol standard al invaziei militare la profeți; oracolul trece aici de la imaginea simbolică (crocodil, trestie) la anunțul direct și literal al distrugerii prin cucerire militară, treaptă de intensificare tipică structurii oracolelor profetice."
+     },
+     {
+      "t": " și voi nimici dintr-ale tale "
+     },
+     {
+      "t": "om și dobitoc",
+      "w": "om și dobitoc",
+      "heb": "אָדָם וּבְהֵמָה",
+      "translit": "adam u-vehemah",
+      "strong": "H120",
+      "pos": "substantiv, masculin",
+      "def_ro": "om și animal.",
+      "dict_ro": "Adam u-vehemah, „om și animal” — formulă standard care desemnează distrugerea totală, fără excepție, a întregii vieți dintr-un teritoriu, folosită constant în oracolele de judecată (cf. Ieremia 7:20, 21:6)."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן כֹּה אָמַר אֲדֹנָי יְהוִה הִנְנִי מֵבִיא עָלֶיךָ חֶרֶב וְהִכְרַתִּי מִמְּךָ אָדָם וּבְהֵמָה׃",
+      "translation": "„De aceea, așa a spus Stăpânul meu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "διὰ τοῦτο τάδε λέγει Κύριος· ἰδοὺ ἐγὼ ἐπάγω ἐπὶ σὲ ρομφαίαν καὶ ἀπολῶ ἀπὸ σοῦ ἀνθρώπους καὶ κτήνη·",
+      "greek": true,
+      "translation": "„de aceea așa zice Domnul: iată, Eu aduc asupra ta sabie și voi nimici de la tine oameni și dobitoace;”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Ieremia 7:20",
+     "Ieremia 46:13-26"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "29:9",
+    "t": "Și țara Egiptului va fi pustietate și ruină, și ei vor ști că Eu sunt DOMNUL, din pricină că a spus: ‘Râul este al meu și eu am creat.’",
+    "heb": "וְהָיְתָה אֶרֶץ־מִצְרַיִם לִשְׁמָמָה וְחָרְבָּה וְיָדְעוּ כִּי־אֲנִי יְהוָה יַעַן אָמַר יְאֹר לִי וַאֲנִי עָשִׂיתִי׃",
+    "translit": "Ve-hayetah erets-Mitsrayim li-shmamah ve-chorbah ve-yad'u ki-ani Adonai ya'an amar ye'or li va-ani asiti.",
+    "tokens": [
+     {
+      "t": "Și țara Egiptului va fi "
+     },
+     {
+      "t": "pustietate și ruină",
+      "w": "pustietate și ruină",
+      "heb": "לִשְׁמָמָה וְחָרְבָּה",
+      "translit": "li-shmamah ve-chorbah",
+      "strong": "H8077",
+      "pos": "substantiv, feminin",
+      "def_ro": "pustiire și ruină.",
+      "dict_ro": "Shemamah, „pustiire” — cuvânt pereche cu chorbah, „ruină, dărâmătură”, formulă dublă de intensificare folosită constant pentru descrierea judecăților divine devastatoare, aici anticipând deja tema centrală a restului capitolului: cei patruzeci de ani de pustiire totală (v.11-12)."
+     },
+     {
+      "t": " și ei vor ști că Eu sunt DOMNUL, din pricină că a spus: «Râul este al meu și eu am creat.»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיְתָה אֶרֶץ־מִצְרַיִם לִשְׁמָמָה וְחָרְבָּה וְיָדְעוּ כִּי־אֲנִי יְהוָה יַעַן אָמַר יְאֹר לִי וַאֲנִי עָשִׂיתִי׃",
+      "translation": "„Și țara Egiptului va fi pustietate și ruină...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἔσται ἡ γῆ Αἰγύπτου ἀπώλεια καὶ ἔρημος, καὶ γνώσονται ὅτι ἐγώ εἰμι Κύριος, ἀντὶ τοῦ λέγειν σε· οἱ ποταμοὶ ἐμοί εἰσι, καὶ ἐγὼ ἐποίησα αὐτούς.",
+      "greek": true,
+      "translation": "„și va fi țara Egiptului pieire și pustiu, și vor cunoaște că Eu sunt Domnul, pentru că ai zis: ale mele sunt râurile, și eu le-am făcut.”",
+      "note": "Traducere fidelă, reluând aproape textual formula aroganței faraonice deja citată la v.3."
+     }
+    ],
+    "refs": [
+     "Ezechiel 29:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David observă repetiția deliberată a formulei aroganței lui Faraon (identică celei de la v.3), reamintind cititorului exact motivul judecății: pedeapsa nu e arbitrară, ci răspunsul precis la declarația de auto-suficiență și auto-divinizare rostită la începutul oracolului."
+     }
+    ]
+   },
+   {
+    "v": "29:10",
+    "t": "De aceea, iată-Mă, Eu sunt împotriva ta și împotriva râurilor tale; și voi preface țara Egiptului în ruină, într-o pustietate dezolantă, de la Migdol-Sevene și până la hotarul Cușului.",
+    "heb": "לָכֵן הִנְנִי אֵלֶיךָ וְאֶל־יְאֹרֶיךָ וְנָתַתִּי אֶת־אֶרֶץ מִצְרַיִם לְחָרְבוֹת חֹרֶב שְׁמָמָה מִמִּגְדֹּל סְוֵנֵה וְעַד־גְּבוּל כּוּשׁ׃",
+    "translit": "Lakhen hineni eleikha ve-el-ye'oreikha ve-natatti et-erets Mitsrayim le-chorvot chorev shemamah mi-Migdol Seveneh ve-ad-gevul Kush.",
+    "tokens": [
+     {
+      "t": "De aceea, iată-Mă, Eu sunt împotriva ta și împotriva râurilor tale; și voi preface țara Egiptului în ruină, într-o pustietate dezolantă, de la "
+     },
+     {
+      "t": "Migdol",
+      "w": "Migdol",
+      "heb": "מִגְדֹּל",
+      "translit": "Migdol",
+      "strong": "H4024",
+      "pos": "nume propriu",
+      "def_ro": "Migdol.",
+      "dict_ro": "Migdol, „turn” — localitate la extremitatea nord-estică a Egiptului, pe ruta spre Canaan (menționată și la Exodul 14:2, ca reper geografic al traversării Mării Roșii); marchează aici hotarul nordic al pustiirii anunțate."
+     },
+     {
+      "t": "-"
+     },
+     {
+      "t": "Sevene",
+      "w": "Sevene",
+      "heb": "סְוֵנֵה",
+      "translit": "Seveneh",
+      "strong": "H5482",
+      "pos": "nume propriu",
+      "def_ro": "Sevene [Aswan].",
+      "dict_ro": "Seveneh, orașul modern Aswan, la extremitatea sudică a Egiptului, aproape de granița cu Nubia — împreună cu Migdol la nord, formează perechea de hotare care încadrează întregul teritoriu egiptean, „de la un capăt la altul”."
+     },
+     {
+      "t": " și până la hotarul "
+     },
+     {
+      "t": "Cușului",
+      "w": "Cușului",
+      "heb": "כּוּשׁ",
+      "translit": "Kush",
+      "strong": "H3568",
+      "pos": "nume propriu",
+      "def_ro": "Cuș [Nubia/Etiopia].",
+      "dict_ro": "Kush, regiunea de la sud de Egipt (aproximativ Nubia/Sudanul de astăzi) — hotarul sudic extrem, confirmând amploarea totală, de la un capăt geografic la celălalt, a pustiirii anunțate asupra întregului teritoriu egiptean."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן הִנְנִי אֵלֶיךָ וְאֶל־יְאֹרֶיךָ וְנָתַתִּי אֶת־אֶרֶץ מִצְרַיִם לְחָרְבוֹת חֹרֶב שְׁמָמָה מִמִּגְדֹּל סְוֵנֵה וְעַד־גְּבוּל כּוּשׁ׃",
+      "translation": "„De aceea, iată-Mă, Eu sunt împotriva ta...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "διὰ τοῦτο ἰδοὺ ἐγὼ ἐπὶ σὲ καὶ ἐπὶ πάντας τοὺς ποταμούς σου καὶ δώσω γῆν Αἰγύπτου εἰς ἔρημον καὶ ρομφαίαν καὶ ἀπώλειαν ἀπὸ Μαγδώλου καὶ Συήνης καὶ ἕως ὁρίων Αἰθιόπων.",
+      "greek": true,
+      "translation": "„de aceea, iată, Eu sunt împotriva ta și împotriva tuturor râurilor tale, și voi da țara Egiptului spre pustiu și sabie și pieire, de la Magdol și Siene, și până la hotarele Etiopiei.”",
+      "note": "LXX traduce „Cuș” prin „Αἰθιόπων” (etiopieni) — echivalarea standard greacă pentru Cuș, regiunea sudică a Nilului, confirmând identificarea geografică."
+     }
+    ],
+    "refs": [
+     "Exodul 14:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David identifică Migdol și Sevene ca hotare geografice nordic și sudic ale Egiptului antic, iar Cuș ca regiunea de dincolo de granița sudică — expresia „de la Migdol la Cuș” desemnând, prin merism geografic, întregul teritoriu al țării, fără nicio parte cruțată de pustiire."
+     }
+    ]
+   },
+   {
+    "v": "29:11",
+    "t": "Nu va trece prin ea picior de om, și nici picior de dobitoc nu va trece prin ea și nu va fi locuită vreme de patruzeci de ani.",
+    "heb": "לֹא תַעֲבָר־בָּהּ רֶגֶל אָדָם וְרֶגֶל בְּהֵמָה לֹא תַעֲבָר־בָּהּ וְלֹא תֵשֵׁב אַרְבָּעִים שָׁנָה׃",
+    "translit": "Lo ta'avor-bah regel adam ve-regel behemah lo ta'avor-bah ve-lo teshev arba'im shanah.",
+    "tokens": [
+     {
+      "t": "Nu va "
+     },
+     {
+      "t": "trece",
+      "w": "trece",
+      "heb": "תַעֲבָר",
+      "translit": "ta'avor",
+      "strong": "H5674",
+      "pos": "verb, qal imperfect",
+      "def_ro": "va trece.",
+      "dict_ro": "Rădăcina avar, „a trece” — repetat de două ori (pentru om și pentru animal), accentuând golirea completă a țării de orice prezență vie, nu doar distrugerea structurilor, ci absența oricărei mișcări sau activități."
+     },
+     {
+      "t": " prin ea picior de om, și nici picior de dobitoc nu va trece prin ea și nu va fi "
+     },
+     {
+      "t": "locuită",
+      "w": "locuită",
+      "heb": "תֵשֵׁב",
+      "translit": "teshev",
+      "strong": "H3427",
+      "pos": "verb, qal imperfect",
+      "def_ro": "va fi locuită.",
+      "dict_ro": "Rădăcina yashav, „a locui, a se așeza” — la negativ, confirmă golirea completă și îndelungată a țării; perioada exactă de patruzeci de ani (numărul simbolic al unei generații întregi, cf. rătăcirea prin pustiu) marchează o pedeapsă severă, dar nu una veșnică — restaurarea promisă la v.13-14 pune un termen clar acestei pustiiri."
+     },
+     {
+      "t": " vreme de "
+     },
+     {
+      "t": "patruzeci de ani",
+      "w": "patruzeci de ani",
+      "heb": "אַרְבָּעִים שָׁנָה",
+      "translit": "arba'im shanah",
+      "strong": "H705",
+      "pos": "numeral",
+      "def_ro": "patruzeci de ani.",
+      "dict_ro": "Arba'im shanah, „patruzeci de ani” — numărul simbolic clasic al unei generații complete în Biblie (rătăcirea prin pustiu, Exodul 16:35; domnia lui David și Solomon), aici aplicat perioadei de pustiire a Egiptului, sugerând o pedeapsă temporară, deși severă, urmată sigur de restaurare."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לֹא תַעֲבָר־בָּהּ רֶגֶל אָדָם וְרֶגֶל בְּהֵמָה לֹא תַעֲבָר־בָּהּ וְלֹא תֵשֵׁב אַרְבָּעִים שָׁנָה׃",
+      "translation": "„Nu va trece prin ea picior de om...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "οὐ μὴ διέλθῃ ἐν αὐτῇ ποὺς ἀνθρώπου, καὶ ποὺς κτήνους οὐ μὴ διέλθῃ αὐτήν, καὶ οὐ κατοικηθήσεται τεσσαράκοντα ἔτη.",
+      "greek": true,
+      "translation": "„nu va trece prin ea picior de om, și picior de dobitoc nu va trece prin ea, și nu va fi locuită patruzeci de ani.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Numeri 14:33-34",
+     "Exodul 16:35"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David notează numărul simbolic al celor patruzeci de ani, ecou direct al celor patruzeci de ani ai rătăcirii lui Israel prin pustiu — o perioadă de pedeapsă completă, dar cu un termen clar, nu o distrugere veșnică fără speranță de restaurare."
+     }
+    ]
+   },
+   {
+    "v": "29:12",
+    "t": "Și voi face ca țara Egiptului să fie pustiită în mijlocul [altor] țări pustiite, iar orașele ei vor fi ruinate în mijlocul [altor] orașe ruinate, pustiită va rămâne vreme de patruzeci de ani. Și-i voi împrăștia pe egipteni printre neamuri și îi voi risipi prin țări [străine].”",
+    "heb": "וְנָתַתִּי אֶת־אֶרֶץ מִצְרַיִם שְׁמָמָה בְּתוֹךְ אֲרָצוֹת נְשַׁמּוֹת וְעָרֶיהָ בְּתוֹךְ עָרִים מָחֳרָבוֹת תִּהְיֶיןָ שְׁמָמָה אַרְבָּעִים שָׁנָה וַהֲפִצֹתִי אֶת־מִצְרַיִם בַּגּוֹיִם וְזֵרִיתִים בָּאֲרָצוֹת׃",
+    "translit": "Ve-natatti et-erets Mitsrayim shemamah be-tokh aratsot neshammot ve-areha be-tokh arim mochoravot tihyeynah shemamah arba'im shanah va-hafitsoti et-Mitsrayim ba-goyim ve-zeritim ba-aratsot.",
+    "tokens": [
+     {
+      "t": "Și voi face ca țara Egiptului să fie pustiită în mijlocul [altor] țări pustiite, iar "
+     },
+     {
+      "t": "orașele ei",
+      "w": "orașele ei",
+      "heb": "וְעָרֶיהָ",
+      "translit": "ve-areha",
+      "strong": "H5892",
+      "pos": "substantiv, feminin plural construct",
+      "def_ro": "cetățile ei.",
+      "dict_ro": "Ir, „cetate, oraș” — extinde pustiirea de la nivelul întregii țări la nivelul concret al fiecărui centru urban, o distrugere sistematică, nu doar o desemnare generală abstractă."
+     },
+     {
+      "t": " vor fi ruinate în mijlocul [altor] orașe ruinate, pustiită va rămâne vreme de patruzeci de ani. Și-i voi "
+     },
+     {
+      "t": "împrăștia",
+      "w": "împrăștia",
+      "heb": "וַהֲפִצֹתִי",
+      "translit": "va-hafitsoti",
+      "strong": "H6327",
+      "pos": "verb, hifil perfect",
+      "def_ro": "îi voi împrăștia.",
+      "dict_ro": "Rădăcina puts, „a împrăștia” — aceeași rădăcină folosită la 28:25 pentru împrăștierea/exilul lui Israel — paralela structurală e deliberată: la fel cum Israel fusese împrăștiat printre neamuri, tot așa va fi acum Egiptul, dar cu o diferență esențială — Israel va fi adunat înapoi (28:25), pe când restaurarea Egiptului (v.13-14) îl va readuce doar la statutul de „regat neînsemnat”."
+     },
+     {
+      "t": " pe egipteni printre neamuri și îi voi "
+     },
+     {
+      "t": "risipi",
+      "w": "risipi",
+      "heb": "וְזֵרִיתִים",
+      "translit": "ve-zeritim",
+      "strong": "H2219",
+      "pos": "verb, piel perfect",
+      "def_ro": "îi voi risipi.",
+      "dict_ro": "Rădăcina zarah, „a risipi, a vântura” — imagine agricolă, ca vânturarea grâului pentru separarea pleavei, aplicată aici la dispersarea forțată a populației egiptene printre alte țări."
+     },
+     {
+      "t": " prin țări [străine].”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְנָתַתִּי אֶת־אֶרֶץ מִצְרַיִם שְׁמָמָה בְּתוֹךְ אֲרָצוֹת נְשַׁמּוֹת וְעָרֶיהָ בְּתוֹךְ עָרִים מָחֳרָבוֹת תִּהְיֶיןָ שְׁמָמָה אַרְבָּעִים שָׁנָה וַהֲפִצֹתִי אֶת־מִצְרַיִם בַּגּוֹיִם וְזֵרִיתִים בָּאֲרָצוֹת׃",
+      "translation": "„Și voi face ca țara Egiptului să fie pustiită...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ δώσω τὴν γῆν αὐτῆς ἀπώλειαν ἐν μέσῳ γῆς ἠρημωμένης, καὶ αἱ πόλεις αὐτῆς ἐν μέσῳ πόλεων ἠρημωμένων ἔσονται τεσσαράκοντα ἔτη· καὶ διασπερῶ Αἴγυπτον ἐν τοῖς ἔθνεσι καὶ λικμήσω αὐτοὺς εἰς τὰς χώρας.",
+      "greek": true,
+      "translation": "„și voi da pământul ei spre pieire în mijlocul pământului pustiit, și cetățile ei vor fi în mijlocul cetăților pustiite patruzeci de ani; și voi risipi Egiptul printre neamuri și-i voi vântura prin țări.”",
+      "note": "Traducere fidelă structurii ebraice, păstrând inclusiv imaginea agricolă a „vânturării”."
+     }
+    ],
+    "refs": [
+     "Ezechiel 28:25"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David observă paralela structurală cu 28:25: la fel cum Israel a fost împrăștiat printre neamuri, tot așa va fi și Egiptul — dar cu diferența esențială că Israel va fi adunat înapoi la măreția lui deplină, pe când Egiptul, deși restaurat după patruzeci de ani, va rămâne pentru totdeauna „un regat neînsemnat” (v.14-15)."
+     }
+    ]
+   },
+   {
+    "v": "29:13",
+    "t": "Căci așa a spus Stăpânul meu, Domnul DUMNEZEU: „La capătul a patruzeci de ani, îi voi aduna pe egipteni dintre popoarele unde au fost împrăștiați.",
+    "heb": "כִּי כֹּה אָמַר אֲדֹנָי יְהוִה מִקֵּץ אַרְבָּעִים שָׁנָה אֲקַבֵּץ אֶת־מִצְרַיִם מִן־הָעַמִּים אֲשֶׁר־נָפֹצוּ שָׁמָּה׃",
+    "translit": "Ki koh amar Adonai Elohim mi-kets arba'im shanah akabbets et-Mitsrayim min-ha-ammim asher-nafotsu shammah.",
+    "tokens": [
+     {
+      "t": "Căci așa a spus Stăpânul meu, Domnul DUMNEZEU: „La capătul a patruzeci de ani, îi voi "
+     },
+     {
+      "t": "aduna",
+      "w": "aduna",
+      "heb": "אֲקַבֵּץ",
+      "translit": "akabbets",
+      "strong": "H6908",
+      "pos": "verb, piel imperfect",
+      "def_ro": "voi aduna.",
+      "dict_ro": "Aceeași rădăcină kavats folosită la 28:25 pentru adunarea lui Israel — remarcabil, Dumnezeu promite un act de restaurare similar chiar și Egiptului, dușmanul judecat, confirmând un tipar teologic mai larg: judecata divină asupra națiunilor păgâne nu e niciodată ultimul cuvânt absolut, ci lasă loc unei restaurări limitate."
+     },
+     {
+      "t": " pe egipteni dintre popoarele unde au fost împrăștiați."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי כֹּה אָמַר אֲדֹנָי יְהוִה מִקֵּץ אַרְבָּעִים שָׁנָה אֲקַבֵּץ אֶת־מִצְרַיִם מִן־הָעַמִּים אֲשֶׁר־נָפֹצוּ שָׁמָּה׃",
+      "translation": "„Căci așa a spus Stăpânul meu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "τάδε λέγει Κύριος· μετὰ τεσσαράκοντα ἔτη συνάξω Αἰγυπτίους ἀπὸ τῶν ἐθνῶν, οὗ διεσκορπίσθησαν ἐκεῖ,",
+      "greek": true,
+      "translation": "„așa zice Domnul: după patruzeci de ani voi aduna pe egipteni dintre neamurile unde au fost risipiți acolo,”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Ezechiel 28:25"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "29:14",
+    "t": "Îi voi întoarce pe captivii Egiptului și îi voi aduce înapoi în țara Patrosului, în țara sălașluirilor lor, și vor fi acolo un regat neînsemnat.",
+    "heb": "וְשַׁבְתִּי אֶת־שְׁבוּת מִצְרַיִם וַהֲשִׁבֹתִי אֹתָם אֶרֶץ פַּתְרוֹס עַל־אֶרֶץ מְכוּרָתָם וְהָיוּ שָׁם מַמְלָכָה שְׁפָלָה׃",
+    "translit": "Ve-shavti et-shevut Mitsrayim va-hashivoti otam erets Patros al-erets mekhuratam ve-hayu sham mamlakhah shefalah.",
+    "tokens": [
+     {
+      "t": "Îi voi întoarce pe "
+     },
+     {
+      "t": "captivii Egiptului",
+      "w": "captivii Egiptului",
+      "heb": "שְׁבוּת מִצְרַיִם",
+      "translit": "shevut Mitsrayim",
+      "strong": "H7622",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "captivitatea/robimea Egiptului.",
+      "dict_ro": "Shevut, „captivitate, robie [întoarsă]” — formula „a întoarce captivitatea cuiva” (shuv shevut) e o expresie idiomatică standard pentru restaurarea din exil, folosită frecvent și pentru Israel însuși (cf. Ieremia 30:3) — dovadă a aceluiași tipar de restaurare aplicat, limitat, chiar și Egiptului."
+     },
+     {
+      "t": " și îi voi aduce înapoi în țara "
+     },
+     {
+      "t": "Patrosului",
+      "w": "Patrosului",
+      "heb": "פַּתְרוֹס",
+      "translit": "Patros",
+      "strong": "H6624",
+      "pos": "nume propriu",
+      "def_ro": "Patros [Egiptul de Sus].",
+      "dict_ro": "Patros — regiunea Egiptului de Sus (valea superioară a Nilului), aparent locul de origine ancestrală a poporului egiptean; restaurarea îi readuce nu la putere, ci la teritoriul lor originar, mai restrâns decât imperiul de odinioară."
+     },
+     {
+      "t": ", în țara "
+     },
+     {
+      "t": "sălașluirilor lor",
+      "w": "sălașluirilor lor",
+      "heb": "מְכוּרָתָם",
+      "translit": "mekhuratam",
+      "strong": "H4351",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "originea lor, locul nașterii lor.",
+      "dict_ro": "Mekhorah, „origine, loc de naștere” — cuvânt rar, subliniind o revenire la rădăcinile geografice originare, nu o restaurare a măreției imperiale trecute."
+     },
+     {
+      "t": ", și vor fi acolo un "
+     },
+     {
+      "t": "regat neînsemnat",
+      "w": "regat neînsemnat",
+      "heb": "מַמְלָכָה שְׁפָלָה",
+      "translit": "mamlakhah shefalah",
+      "strong": "H8217",
+      "pos": "adjectiv, feminin",
+      "def_ro": "regat smerit, umil.",
+      "dict_ro": "Shafal, „jos, smerit, neînsemnat” — contrastul final și definitiv cu aroganța de la v.3 („eu m-am creat”): Egiptul va exista în continuare, dar niciodată nu va mai recăpăta statutul de mare putere dominantă — o umilire permanentă, nu doar o pedeapsă trecătoare."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְשַׁבְתִּי אֶת־שְׁבוּת מִצְרַיִם וַהֲשִׁבֹתִי אֹתָם אֶרֶץ פַּתְרוֹס עַל־אֶרֶץ מְכוּרָתָם וְהָיוּ שָׁם מַמְלָכָה שְׁפָלָה׃",
+      "translation": "„Îi voi întoarce pe captivii Egiptului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἀποστρέψω τὴν αἰχμαλωσίαν τῶν Αἰγυπτίων καὶ κατοικίσω αὐτοὺς ἐν γῇ Φαθωρῆς, ἐν τῇ γῇ, ὅθεν ἐλήφθησαν· καὶ ἔσται ἀρχὴ ταπεινὴ",
+      "greek": true,
+      "translation": "„și voi întoarce robia egiptenilor și-i voi așeza în țara Fathores, în țara de unde au fost luați; și va fi o stăpânire smerită”",
+      "note": "Traducere fidelă, cu „Φαθωρῆς” ca echivalent grecesc direct al ebraicului Patros."
+     }
+    ],
+    "refs": [
+     "Ieremia 30:3",
+     "Isaia 11:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David explică „țara Patros” ca fiind Egiptul de Sus, regiunea de origine ancestrală a poporului egiptean — restaurarea promisă nu readuce Egiptul la statutul de imperiu, ci la un teritoriu restrâns, natal, marcând definitiv sfârșitul pretențiilor lui de mare putere."
+     }
+    ]
+   },
+   {
+    "v": "29:15",
+    "t": "Dintre regate, va fi cel mai neînsemnat și nu se va mai înălța vreodată asupra altor neamuri; și-i voi impuțina, ca nu cumva să mai domine [vreodată] peste neamuri.",
+    "heb": "מִן־הַמַּמְלָכוֹת תִּהְיֶה שְׁפָלָה וְלֹא־תִתְנַשֵּׂא עוֹד עַל־הַגּוֹיִם וְהִמְעַטְתִּים לְבִלְתִּי רְדוֹת בַּגּוֹיִם׃",
+    "translit": "Min-ha-mamlakhot tihyeh shefalah ve-lo-titnase od al-ha-goyim ve-him'attitim le-vilti redot ba-goyim.",
+    "tokens": [
+     {
+      "t": "Dintre regate, va fi cel mai neînsemnat și nu se va mai "
+     },
+     {
+      "t": "înălța",
+      "w": "înălța",
+      "heb": "תִתְנַשֵּׂא",
+      "translit": "titnase",
+      "strong": "H5375",
+      "pos": "verb, hitpael imperfect",
+      "def_ro": "se va înălța pe sine.",
+      "dict_ro": "Rădăcina nasa, „a ridica”, la forma reflexivă hitpael, „a se înălța pe sine” — verb care descrie exact atitudinea aroganței auto-suficiente respinsă la v.3, acum interzisă definitiv Egiptului ca posibilitate viitoare."
+     },
+     {
+      "t": " vreodată asupra altor neamuri; și-i voi "
+     },
+     {
+      "t": "impuțina",
+      "w": "impuțina",
+      "heb": "וְהִמְעַטְתִּים",
+      "translit": "ve-him'attitim",
+      "strong": "H4591",
+      "pos": "verb, hifil perfect",
+      "def_ro": "îi voi micșora, îi voi împuțina.",
+      "dict_ro": "Rădăcina ma'at, „a fi puțin, a micșora” — reducerea deliberată a populației și puterii egiptene, garanție suplimentară că restaurarea promisă nu va permite niciodată revenirea la statutul anterior de mare putere."
+     },
+     {
+      "t": ", ca nu cumva să mai "
+     },
+     {
+      "t": "domine",
+      "w": "domine",
+      "heb": "רְדוֹת",
+      "translit": "redot",
+      "strong": "H7287",
+      "pos": "verb, qal infinitiv",
+      "def_ro": "să stăpânească, să domine.",
+      "dict_ro": "Rădăcina radah, „a stăpâni, a domina” — aceeași rădăcină ca la porunca dată omului la Geneza 1:28 („stăpâniți peste pământ”); aici, interzisă explicit Egiptului față de alte neamuri, o limitare permanentă a ambiției lui imperiale."
+     },
+     {
+      "t": " [vreodată] peste neamuri."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִן־הַמַּמְלָכוֹת תִּהְיֶה שְׁפָלָה וְלֹא־תִתְנַשֵּׂא עוֹד עַל־הַגּוֹיִם וְהִמְעַטְתִּים לְבִלְתִּי רְדוֹת בַּגּוֹיִם׃",
+      "translation": "„Dintre regate, va fi cel mai neînsemnat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "παρὰ πάσας τὰς ἀρχάς, οὐ μὴ ὑψωθῇ ἔτι ἐπὶ τὰ ἔθνη, καὶ ὀλιγοστοὺς αὐτοὺς ποιήσω τοῦ μὴ εἶναι αὐτοὺς πλείονας ἐν τοῖς ἔθνεσι.",
+      "greek": true,
+      "translation": "„mai [smerită] decât toate stăpânirile, nu se va mai înălța peste neamuri, și-i voi face puțini la număr, ca să nu mai fie mulți printre neamuri.”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Geneza 1:28"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "29:16",
+    "t": "Și nu vor mai fi drept sprijin pentru casa lui Israel, [ca] aducere-aminte a păcatului când se întorceau după ei, și așa vor cunoaște că Eu sunt Stăpânul, Domnul DUMNEZEU.”",
+    "heb": "וְלֹא יִהְיֶה־עוֹד לְבֵית יִשְׂרָאֵל לְמִבְטָח מַזְכִּיר עָוֹן בִּפְנוֹתָם אַחֲרֵיהֶם וְיָדְעוּ כִּי אֲנִי אֲדֹנָי יְהוִה׃",
+    "translit": "Ve-lo yihyeh-od le-veit Yisra'el le-mivtach mazkir avon bi-fnotam achareihem ve-yad'u ki ani Adonai Elohim.",
+    "tokens": [
+     {
+      "t": "Și nu vor mai fi drept "
+     },
+     {
+      "t": "sprijin",
+      "w": "sprijin",
+      "heb": "מִבְטָח",
+      "translit": "mivtach",
+      "strong": "H4009",
+      "pos": "substantiv, masculin",
+      "def_ro": "încredere, sprijin.",
+      "dict_ro": "Mivtach, „încredere, sprijin” — aceeași rădăcină ca betach folosit la 28:26 pentru siguranța promisă lui Israel; contrastul e deliberat: siguranța adevărată a lui Israel nu va mai veni niciodată dintr-o alianță politică falsă cu Egiptul, ci direct de la Dumnezeu."
+     },
+     {
+      "t": " pentru casa lui Israel, [ca] "
+     },
+     {
+      "t": "aducere-aminte",
+      "w": "aducere-aminte",
+      "heb": "מַזְכִּיר",
+      "translit": "mazkir",
+      "strong": "H2142",
+      "pos": "verb, hifil participiu",
+      "def_ro": "aducător-aminte, amintind.",
+      "dict_ro": "Rădăcina zakhar, „a-și aduce aminte” — la forma cauzativă, „cel ce amintește/face să se rememoreze”; orice alianță viitoare cu Egiptul ar rămâne, permanent, un memento dureros al greșelii repetate de a căuta sprijin politic în afara încrederii exclusive în Dumnezeu."
+     },
+     {
+      "t": " a "
+     },
+     {
+      "t": "păcatului",
+      "w": "păcatului",
+      "heb": "עָוֹן",
+      "translit": "avon",
+      "strong": "H5771",
+      "pos": "substantiv, masculin",
+      "def_ro": "vina, păcatul.",
+      "dict_ro": "Avon, „vină, păcat” — desemnează aici concret alianța politică cu Egiptul ca pe un act de necredință față de Dumnezeu, nu o simplă greșeală strategică militară, ci o încălcare morală/religioasă a încrederii exclusive datorate DOMNULUI."
+     },
+     {
+      "t": " când se întorceau după ei, și așa vor cunoaște că Eu sunt Stăpânul, Domnul DUMNEZEU.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְלֹא יִהְיֶה־עוֹד לְבֵית יִשְׂרָאֵל לְמִבְטָח מַזְכִּיר עָוֹן בִּפְנוֹתָם אַחֲרֵיהֶם וְיָדְעוּ כִּי אֲנִי אֲדֹנָי יְהוִה׃",
+      "translation": "„Și nu vor mai fi drept sprijin...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ οὐκέτι ἔσονται τῷ οἴκῳ Ἰσραὴλ εἰς ἐλπίδα ἀναμιμνήσκουσαν ἀνομίαν ἐν τῷ ἀκολουθῆσαι αὐτοὺς ὀπίσω αὐτῶν· καὶ γνώσονται ὅτι ἐγώ εἰμι Κύριος.",
+      "greek": true,
+      "translation": "„și nu vor mai fi casei lui Israel spre nădejde, amintind fărădelegea de a fi umblat după ei; și vor cunoaște că Eu sunt Domnul.”",
+      "note": "Traducere fidelă structurii ebraice, cu „ἐλπίδα” (nădejde) pentru mivtach, consecvent cu opțiunea de traducere folosită deja pentru betach la 28:26."
+     }
+    ],
+    "refs": [
+     "Ezechiel 28:26",
+     "Isaia 30:1-3"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David încheie secțiunea principală a oracolului: umilirea Egiptului nu e doar o pedeapsă pentru propria lui arogantă auto-divinizare, ci și un beneficiu spiritual permanent pentru Israel — eliminarea unei tentații politice recurente de a căuta sprijin într-o alianță pământească, în locul încrederii exclusive cuvenite DOMNULUI."
+     }
+    ]
+   },
+   {
+    "v": "29:17",
+    "t": "Și a fost în anul al douăzeci și șaptelea, în prima [lună], în prima [zi] a lunii. Și a fost [așa]: cuvântul DOMNULUI a venit la mine, spunând:",
+    "heb": "וַיְהִי בְּעֶשְׂרִים וָשֶׁבַע שָׁנָה בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
+    "translit": "Va-yehi be-esrim va-sheva shanah ba-rishon be-echad la-chodesh hayah devar-Adonai elai lemor.",
+    "tokens": [
+     {
+      "t": "Și a fost în "
+     },
+     {
+      "t": "anul al douăzeci și șaptelea",
+      "w": "anul al douăzeci și șaptelea",
+      "heb": "עֶשְׂרִים וָשֶׁבַע שָׁנָה",
+      "translit": "esrim va-sheva shanah",
+      "strong": "H6242",
+      "pos": "numeral",
+      "def_ro": "anul al douăzeci și șaptelea.",
+      "dict_ro": "Anul al douăzeci și șaptelea al exilului lui Iehoiachin (aprox. 571 î.Hr.) — cea mai târzie dată exactă din toată cartea lui Ezechiel, plasând acest oracol final la aproximativ șaisprezece ani după cel din v.1-16, după ce profeția inițială a asediului Tirului (13 ani, neamintit direct aici, dar presupus împlinit fără prada promisă) nu s-a materializat cum se aștepta."
+     },
+     {
+      "t": ", în prima [lună], în prima [zi] a lunii. Și a fost [așa]: cuvântul DOMNULUI a venit la mine, spunând:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי בְּעֶשְׂרִים וָשֶׁבַע שָׁנָה בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
+      "translation": "„Și a fost în anul al douăzeci și șaptelea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "καὶ ἐγένετο ἐν τῷ ἑβδόμῳ καὶ εἰκοστῷ ἔτει, μιᾷ τοῦ μηνὸς τοῦ πρώτου, ἐγένετο λόγος Κυρίου πρός με λέγων·",
+      "greek": true,
+      "translation": "„și a fost în anul al douăzeci și șaptelea, în [ziua] întâi a lunii întâi, a fost cuvântul Domnului către mine, zicând;”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Ezechiel 26:7-14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David datează acest oracol final ca fiind cel mai târziu din toată cartea lui Ezechiel — rostit după ce asediul îndelungat al Tirului de către Nabucodonosor (profețit anterior în capitolul 26) s-a încheiat fără prada bogată așteptată, motiv pentru care Dumnezeu îi promite acum Egiptul drept „răsplată” compensatorie pentru armata babiloniană."
+     }
+    ]
+   },
+   {
+    "v": "29:18",
+    "t": "„Fiul omului, Nabucodonosor, regele Babilonului, și-a pus oștirea să facă un lucru mare împotriva Tirului. Fiecare cap este chel și fiecare umăr zdrelit, iar el și oștirea lui n-au avut nicio răsplată de la Tir pentru lucrarea pe care au făcut-o împotriva sa.”",
+    "heb": "בֶּן־אָדָם נְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל הֶעֱבִיד אֶת־חֵילוֹ עֲבֹדָה גְדֹלָה אֶל־צֹר כָּל־רֹאשׁ מֻקְרָח וְכָל־כָּתֵף מְרוּטָה וְשָׂכָר לֹא־הָיָה לוֹ וּלְחֵילוֹ מִצֹּר עַל־הָעֲבֹדָה אֲשֶׁר־עָבַד עָלֶיהָ׃",
+    "translit": "Ben-adam Nevukhadretsar melekh-Bavel he'evid et-cheilo avodah gedolah el-Tsor kol-rosh mukrach ve-khol-katef merutah ve-sakhar lo-hayah lo u-le-cheilo mi-Tsor al-ha-avodah asher-avad aleha.",
+    "tokens": [
+     {
+      "t": "„Fiul omului, "
+     },
+     {
+      "t": "Nabucodonosor",
+      "w": "Nabucodonosor",
+      "heb": "נְבוּכַדְרֶאצַּר",
+      "translit": "Nevukhadretsar",
+      "strong": "H5019",
+      "pos": "nume propriu",
+      "def_ro": "Nabucodonosor.",
+      "dict_ro": "Nevukhadretsar — regele Babilonului (605-562 î.Hr.), unealta principală a judecății divine în toată cartea lui Ezechiel, atât asupra lui Iuda, cât și, aici, asupra Tirului și Egiptului — un instrument istoric real folosit teologic pentru împlinirea planurilor divine, fără ca el însuși să fie conștient de acest rol."
+     },
+     {
+      "t": ", regele Babilonului, și-a pus oștirea să facă un lucru mare împotriva "
+     },
+     {
+      "t": "Tirului",
+      "w": "Tirului",
+      "heb": "צֹר",
+      "translit": "Tsor",
+      "strong": "H6865",
+      "pos": "nume propriu",
+      "def_ro": "Tir.",
+      "dict_ro": "Tsor, Tirul — marele port fenician, asediat îndelung (13 ani, conform tradiției istorice) de Nabucodonosor; asediul prelungit, dus mai ales pe uscat împotriva unei cetăți-insulă greu accesibile, a epuizat armata babiloniană fără câștigul de pradă obișnuit al unei cuceriri."
+     },
+     {
+      "t": ". Fiecare "
+     },
+     {
+      "t": "cap este chel",
+      "w": "cap este chel",
+      "heb": "כָּל־רֹאשׁ מֻקְרָח",
+      "translit": "kol-rosh mukrach",
+      "strong": "H7139",
+      "pos": "verb, hofal participiu",
+      "def_ro": "orice cap e pleșuv.",
+      "dict_ro": "Rădăcina karach, „a fi chel, pleșuv” — imagine fizică a epuizării extreme a soldaților: pierderea părului de pe cap, cauzată probabil de purtarea îndelungată a coifurilor de asediu sau de efortul fizic constant al transportului materialelor de construcție a rampelor de asalt."
+     },
+     {
+      "t": " și fiecare "
+     },
+     {
+      "t": "umăr zdrelit",
+      "w": "umăr zdrelit",
+      "heb": "כָתֵף מְרוּטָה",
+      "translit": "katef merutah",
+      "strong": "H4803",
+      "pos": "verb, qal pasiv participiu",
+      "def_ro": "umăr jupuit, zdrelit.",
+      "dict_ro": "Rădăcina marat, „a smulge, a jupui” — completează imaginea suferinței fizice reale a soldaturilor, umerii răniți de cărarea constantă a materialelor grele pentru construcția lucrărilor de asediu, un detaliu concret, aproape documentar, al costului militar uman al campaniei."
+     },
+     {
+      "t": ", iar el și oștirea lui n-au avut nicio "
+     },
+     {
+      "t": "răsplată",
+      "w": "răsplată",
+      "heb": "שָׂכָר",
+      "translit": "sakhar",
+      "strong": "H7939",
+      "pos": "substantiv, masculin",
+      "def_ro": "plată, răsplată.",
+      "dict_ro": "Sakhar, „plată, răsplată” — termenul-cheie al întregului pasaj: efortul militar imens (v.18) rămâne fără compensația așteptată din partea Tirului, ceea ce motivează direct promisiunea următoare (v.19-20) a Egiptului ca „plată” alternativă oferită de Dumnezeu Însuși."
+     },
+     {
+      "t": " de la Tir pentru lucrarea pe care au făcut-o împotriva sa.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בֶּן־אָדָם נְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל הֶעֱבִיד אֶת־חֵילוֹ עֲבֹדָה גְדֹלָה אֶל־צֹר כָּל־רֹאשׁ מֻקְרָח וְכָל־כָּתֵף מְרוּטָה וְשָׂכָר לֹא־הָיָה לוֹ וּלְחֵילוֹ מִצֹּר עַל־הָעֲבֹדָה אֲשֶׁר־עָבַד עָלֶיהָ׃",
+      "translation": "„Fiul omului, Nabucodonosor, regele Babilonului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "υἱὲ ἀνθρώπου, Ναβουχοδονόσορ βασιλεὺς Βαβυλῶνος κατεδουλώσατο τὴν δύναμιν αὐτοῦ δουλείᾳ μεγάλῃ ἐπὶ Τύρου, πᾶσα κεφαλὴ φαλακρὰ καὶ πᾶς ὦμος μαδῶν, καὶ μισθὸς οὐκ ἐγενήθη αὐτῷ καὶ τῇ δυνάμει αὐτοῦ ἐπὶ Τύρου καὶ τῆς δουλείας, ἧς ἐδούλευσαν ἐπ' αὐτήν.",
+      "greek": true,
+      "translation": "„fiul omului, Nabucodonosor, regele Babilonului, a supus puterea sa la o robie mare împotriva Tirului, orice cap [e] chel și orice umăr jupuit, și plată nu i-a fost lui și puterii lui asupra Tirului, pentru robia cu care au robit-o.”",
+      "note": "Traducere fidelă, cu nuanța „δουλείᾳ” („robie, muncă silnică”) pentru avodah — accentuând caracterul de muncă forțată, epuizantă, a efortului militar de asediu."
+     }
+    ],
+    "refs": [
+     "Ezechiel 26:7-14",
+     "Isaia 23:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David explică imaginea capetelor pleșuve și umerilor jupuiți drept efectul fizic direct al muncii istovitoare de asediu — coifurile purtate constant și cărarea materialelor pentru rampele de asalt, timp de treisprezece ani, fără ca Tirul, o cetate-insulă greu de jefuit complet, să ofere prada așteptată drept compensație."
+     }
+    ]
+   },
+   {
+    "v": "29:19",
+    "t": "De aceea, spune Stăpânul meu, Domnul DUMNEZEU: „Iată-Mă, îi voi da țara Egiptului lui Nabocodonosor, regele Babilonului, și el îi va duce populația [în exil] și va lua din ea pradă și îi va jefui bogăția – aceasta va fi răsplata oștirii lui.",
+    "heb": "לָכֵן כֹּה אָמַר אֲדֹנָי יְהוִה הִנְנִי נֹתֵן לִנְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל אֶת־אֶרֶץ מִצְרָיִם וְנָשָׂא הֲמֹנָהּ וְשָׁלַל שְׁלָלָהּ וּבָזַז בִּזָּהּ וְהָיְתָה שָׂכָר לְחֵילוֹ׃",
+    "translit": "Lakhen koh amar Adonai Elohim hineni noten li-Nevukhadretsar melekh-Bavel et-erets Mitsrayim ve-nasa hamonah ve-shalal shelalah u-vazaz bizzah ve-hayetah sakhar le-cheilo.",
+    "tokens": [
+     {
+      "t": "De aceea, spune Stăpânul meu, Domnul DUMNEZEU: „Iată-Mă, îi voi da țara Egiptului lui Nabucodonosor, regele Babilonului, și el îi va duce "
+     },
+     {
+      "t": "populația",
+      "w": "populația",
+      "heb": "הֲמֹנָהּ",
+      "translit": "hamonah",
+      "strong": "H1995",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "mulțimea ei, belșugul ei.",
+      "dict_ro": "Hamon, „mulțime, belșug, tumult” — cuvânt cu dublu sens, desemnând atât populația numeroasă a Egiptului, cât și bogăția/abundența lui materială — Nabucodonosor va lua ambele, oameni și avere deopotrivă."
+     },
+     {
+      "t": " [în exil] și va lua din ea "
+     },
+     {
+      "t": "pradă",
+      "w": "pradă",
+      "heb": "שְׁלָלָהּ",
+      "translit": "shelalah",
+      "strong": "H7998",
+      "pos": "substantiv, masculin construct",
+      "def_ro": "prada ei.",
+      "dict_ro": "Shalal, „pradă de război” — recompensa materială promisă direct de Dumnezeu armatei babiloniene, compensând explicit lipsa de câștig menționată la v.18 în urma asediului Tirului."
+     },
+     {
+      "t": " și îi va jefui "
+     },
+     {
+      "t": "bogăția",
+      "w": "bogăția",
+      "heb": "בִּזָּהּ",
+      "translit": "bizzah",
+      "strong": "H957",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "jaful ei, bogăția ei jefuită.",
+      "dict_ro": "Bizzah, „jaf, pradă” — sinonim aproape complet cu shalal din aceeași frază, o dublare stilistică tipică poeziei profetice pentru accentuare, confirmând amploarea totală a jafului promis ca „plată” armatei babiloniene."
+     },
+     {
+      "t": " – aceasta va fi răsplata oștirii lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן כֹּה אָמַר אֲדֹנָי יְהוִה הִנְנִי נֹתֵן לִנְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל אֶת־אֶרֶץ מִצְרָיִם וְנָשָׂא הֲמֹנָהּ וְשָׁלַל שְׁלָלָהּ וּבָזַז בִּזָּהּ וְהָיְתָה שָׂכָר לְחֵילוֹ׃",
+      "translation": "„De aceea, spune Stăpânul meu, Domnul DUMNEZEU...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "τάδε λέγει Κύριος Κύριος· ἰδοὺ ἐγὼ δίδωμι τῷ Ναβουχοδονόσορ βασιλεῖ Βαβυλῶνος γῆν Αἰγύπτου, καὶ προνομεύσει τὴν προνομὴν αὐτῆς καὶ σκυλεύσει τὰ σκῦλα αὐτῆς, καὶ ἔσται μισθὸς τῇ δυνάμει αὐτοῦ·",
+      "greek": true,
+      "translation": "„așa zice Domnul Domnul: iată, Eu dau lui Nabucodonosor, regele Babilonului, țara Egiptului, și va prăda prada ei și va jefui jaful ei, și va fi plată puterii lui;”",
+      "note": "Traducere fidelă structurii ebraice."
+     }
+    ],
+    "refs": [
+     "Ezechiel 29:18"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi notează, în comentariul general la acest final de capitol, principiul teologic pe care Ezechiel îl ilustrează aici: chiar și un rege păgân ostil, folosit ca unealtă a judecății divine, primește o „răsplată” pentru serviciul prestat fără să știe — Dumnezeu nu lasă nicio muncă, nici măcar una îndeplinită fără intenție conștientă de supunere, fără o formă de compensație corespunzătoare."
+     }
+    ]
+   },
+   {
+    "v": "29:20",
+    "t": "Pentru lucrarea sa pe care a făcut-o în ea i-am dat lui țara Egiptului, pentru ceea ce au făcut pentru Mine – rostirea Stăpânului meu, Domnul DUMNEZEU.",
+    "heb": "פְּעֻלָּתוֹ אֲשֶׁר־עָבַד בָּהּ נָתַתִּי לוֹ אֶת־אֶרֶץ מִצְרָיִם אֲשֶׁר עָשׂוּ לִי נְאֻם אֲדֹנָי יְהוִה׃",
+    "translit": "Pe'ullato asher-avad bah natatti lo et-erets Mitsrayim asher asu li ne'um Adonai Elohim.",
+    "tokens": [
+     {
+      "t": "Pentru "
+     },
+     {
+      "t": "lucrarea sa",
+      "w": "lucrarea sa",
+      "heb": "פְּעֻלָּתוֹ",
+      "translit": "pe'ullato",
+      "strong": "H6468",
+      "pos": "substantiv, feminin construct",
+      "def_ro": "lucrarea/truda lui.",
+      "dict_ro": "Pe'ullah, „lucrare, faptă, plată pentru muncă” — cuvânt care poate însemna atât „efortul depus”, cât și „răsplata cuvenită pentru el”, dublu sens care rezumă exact tranzacția descrisă în acest verset final al secțiunii: munca depusă la Tir e răscumpărată prin darul Egiptului."
+     },
+     {
+      "t": " pe care a făcut-o în ea i-am dat lui țara Egiptului, pentru ceea ce au făcut "
+     },
+     {
+      "t": "pentru Mine",
+      "w": "pentru Mine",
+      "heb": "לִי",
+      "translit": "li",
+      "strong": "H0",
+      "pos": "prepoziție cu sufix",
+      "def_ro": "pentru Mine.",
+      "dict_ro": "Remarcabilă declarația finală: efortul militar al lui Nabucodonosor împotriva Tirului, deși motivat politic și economic din perspectiva babiloniană, e reinterpretat teologic de Dumnezeu ca fiind făcut, în ultimă instanță, „pentru Mine” — confirmarea explicită a suveranității divine asupra istoriei, chiar și asupra acțiunilor unor conducători păgâni care nu-L cunosc și nu-L slujesc conștient."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "פְּעֻלָּתוֹ אֲשֶׁר־עָבַד בָּהּ נָתַתִּי לוֹ אֶת־אֶרֶץ מִצְרָיִם אֲשֶׁר עָשׂוּ לִי נְאֻם אֲדֹנָי יְהוִה׃",
+      "translation": "„Pentru lucrarea sa pe care a făcut-o în ea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἀντὶ τῆς λειτουργίας αὐτοῦ, ἧς ἐδούλευσεν ἐπὶ Τύρον, δέδωκα αὐτῷ γῆν Αἰγύπτου. τάδε λέγει Κύριος Κύριος·",
+      "greek": true,
+      "translation": "„în locul slujirii lui, cu care a slujit împotriva Tirului, i-am dat lui țara Egiptului. Așa zice Domnul Domnul;”",
+      "note": "LXX traduce „pe'ullato” prin „λειτουργίας” (slujire, serviciu liturgic/public), un termen cu conotații aproape sacre, întărind ideea teologică a unei „slujiri” involuntare aduse lui Dumnezeu."
+     }
+    ],
+    "refs": [
+     "Isaia 10:5-7",
+     "Ezechiel 29:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David subliniază cuvântul final, „pentru Mine” — deși Nabucodonosor a acționat din propria ambiție politică, fără nicio intenție de a-L sluji pe DOMNUL, Dumnezeu privește efortul lui ca îndeplinind, în cele din urmă, un scop pe care Însuși l-a rânduit, motiv pentru care primește o răsplată reală, deși neconștientizată ca atare."
+     }
+    ]
+   },
+   {
+    "v": "29:21",
+    "t": "În acea zi voi face să înflorească puterea casei lui Israel și te voi răzbuna în mijlocul lor, și vor ști că Eu sunt DOMNUL.”",
+    "heb": "בַּיּוֹם הַהוּא אַצְמִיחַ קֶרֶן לְבֵית יִשְׂרָאֵל וּלְךָ אֶתֵּן פִּתְחוֹן־פֶּה בְּתוֹכָם וְיָדְעוּ כִּי־אֲנִי יְהוָה׃",
+    "translit": "Ba-yom ha-hu atsmiach keren le-veit Yisra'el u-lekha etten pitchon-peh be-tokham ve-yad'u ki-ani Adonai.",
+    "tokens": [
+     {
+      "t": "În acea zi voi face să "
+     },
+     {
+      "t": "înflorească",
+      "w": "înflorească",
+      "heb": "אַצְמִיחַ",
+      "translit": "atsmiach",
+      "strong": "H6779",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "voi face să răsară, să crească.",
+      "dict_ro": "Rădăcina tsamach, „a răsări, a crește” — folosită adesea pentru vegetație, dar și metaforic pentru ridicarea puterii (cf. „odrasla” mesianică, Ieremia 23:5, folosind aceeași rădăcină) — un final de secțiune neașteptat de pozitiv, promițând restaurarea puterii lui Israel exact în contextul umilirii Egiptului."
+     },
+     {
+      "t": " "
+     },
+     {
+      "t": "puterea",
+      "w": "puterea",
+      "heb": "קֶרֶן",
+      "translit": "keren",
+      "strong": "H7161",
+      "pos": "substantiv, feminin",
+      "def_ro": "cornul, puterea.",
+      "dict_ro": "Keren, „corn” — simbol biblic standard al puterii și demnității (cf. „va înălța cornul poporului Său”, Psalmul 148:14), imagine luată din cornul animalului ca armă și semn de forță; „înălțarea cornului” înseamnă restaurarea onoarei și autorității naționale."
+     },
+     {
+      "t": " casei lui Israel și te voi "
+     },
+     {
+      "t": "răzbuna",
+      "w": "răzbuna",
+      "heb": "פִּתְחוֹן־פֶּה",
+      "translit": "pitchon-peh",
+      "strong": "H6610",
+      "pos": "substantiv, masculin",
+      "def_ro": "deschiderea gurii, îndreptățire de a vorbi.",
+      "dict_ro": "Pitchon peh, literal „deschiderea gurii” — expresie idiomatică rară, însemnând recunoașterea publică a autorității/dreptății cuiva de a vorbi, aici aplicată direct lui Ezechiel: adeverirea împlinită a profețiilor sale (Tir, Egipt) îi va da, în sfârșit, credibilitate deplină înaintea poporului exilat, care se îndoise adesea de cuvântul lui."
+     },
+     {
+      "t": " în mijlocul lor, și vor ști că Eu sunt DOMNUL.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בַּיּוֹם הַהוּא אַצְמִיחַ קֶרֶן לְבֵית יִשְׂרָאֵל וּלְךָ אֶתֵּן פִּתְחוֹן־פֶּה בְּתוֹכָם וְיָדְעוּ כִּי־אֲנִי יְהוָה׃",
+      "translation": "„În acea zi voi face să înflorească puterea casei lui Israel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă)",
+      "original": "ἐν τῇ ἡμέρᾳ ἐκείνῃ ἀνατελεῖ κέρας παντὶ τῷ οἴκῳ Ἰσραήλ, καὶ σοὶ δώσω στόμα ἀνεῳγμένον ἐν μέσῳ αὐτῶν, καὶ γνώσονται ὅτι ἐγώ εἰμι Κύριος.",
+      "greek": true,
+      "translation": "„în ziua aceea va răsări un corn întregii case a lui Israel, și ție îți voi da gură deschisă în mijlocul lor, și vor cunoaște că Eu sunt Domnul.”",
+      "note": "Traducere fidelă structurii ebraice, inclusiv imaginea idiomatică a „gurii deschise” (πιτχωνπε redat literal prin στόμα ἀνεῳγμένον)."
+     }
+    ],
+    "refs": [
+     "Ieremia 23:5",
+     "Psalmul 148:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică „deschiderea gurii” dată lui Ezechiel ca pe împlinirea văzută a acestei ultime profeții (Egiptul dat Babilonului) — semn concret, verificabil istoric, care avea să confirme public, în fața poporului exilat, autoritatea și adevărul tuturor celorlalte cuvinte rostite de profet."
      }
     ]
    }
