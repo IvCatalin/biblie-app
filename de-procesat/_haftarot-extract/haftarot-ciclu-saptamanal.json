@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "25 capitole (din 54+2 planificate) · 25 complete la Standardul Davar",
+ "meta": "26 capitole (din 54+2 planificate) · 26 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -23273,7 +23273,6 @@
      ],
      "refs": [
       "Deuteronom 17:16",
-      "Osea 7:11",
       "Osea 11:5",
       "Osea 12:1",
       "2 Regi 17:4",
@@ -48023,6 +48022,1713 @@
      "Exod 24:7-8"
     ],
     "commentaries": []
+   }
+  ]
+ },
+  {
+  "num": 26,
+  "title": "Haftarat Vaikra",
+  "ref": "Isaia 43:21-44:23",
+  "intro": "Haftarat Vaikra deschide ciclul haftarot al cărții Levitic acolo unde pericopa își începe propriul discurs — cu jertfele aduse în Sanctuar. Isaia răstoarnă însă perspectiva: DOMNUL nu a fost împovărat de cerințe de jertfă, ci dimpotrivă, poporul L-a împovărat cu păcatele lui, aducând prea puțin, nu prea mult. Din acest rechizitoriu, capitolul 43 se încheie, iar capitolul 44 se deschide cu una din cele mai limpezi afirmații monoteiste din toată Scriptura — polemica împotriva idolilor, cu descrierea detaliată, aproape satirică, a meșterului care taie un copac, arde jumătate ca lemn de foc și se închină celeilalte jumătăți ca unui dumnezeu — încheiată cu asigurarea răscumpărării și un imn cosmic de bucurie.",
+  "verses": [
+   {
+    "v": "43:21",
+    "t": "Acest popor l-am făurit pentru Mine, ca să-Mi declare slava.",
+    "heb": "עַם־זוּ יָצַרְתִּי לִי תְּהִלָּתִי יְסַפֵּרוּ׃",
+    "translit": "Am-zu iatzarti li tehilati iesaperu.",
+    "tokens": [
+     {
+      "t": "Acest popor l-am "
+     },
+     {
+      "t": "făurit",
+      "w": "făurit",
+      "heb": "יָצַרְתִּי",
+      "translit": "iatzarti",
+      "strong": "H3335",
+      "pos": "verb, qal perfect, persoana I singular",
+      "def_ro": "am format, am modelat.",
+      "dict_ro": "Iatzar — același verb folosit la Geneza 2:7 pentru formarea omului din țărână, ca un olar care modelează lutul. Folosindu-l aici pentru poporul Israel, Isaia leagă alegerea lui Israel de actul Creației înseși — Israel nu e doar ales, ci „modelat” cu aceeași grijă intenționată cu care a fost modelat Adam."
+     },
+     {
+      "t": " pentru Mine, ca să-Mi declare slava."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עַם־זוּ יָצַרְתִּי לִי תְּהִלָּתִי יְסַפֵּרוּ׃",
+      "translation": "„Acest popor l-am făurit pentru Mine...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "λαόν μου, ὃν περιεποιησάμην τὰς ἀρετάς μου διηγεῖσθαι.",
+      "greek": true,
+      "translation": "„Poporul Meu, pe care l-am dobândit ca să istorisească virtuțile Mele.”",
+      "note": "Corespondență strânsă cu Textul Masoretic; LXX redă „tehilati” (slava/lauda Mea) prin „τὰς ἀρετάς μου” (virtuțile Mele) — o nuanță reală, mutând accentul de la laudă/imn spre calitate morală demonstrată."
+     }
+    ],
+    "refs": [
+     "Isaia 60:21",
+     "Psalmul 102:18",
+     "Proverbe 16:4",
+     "1 Petru 2:9",
+     "Evrei 13:15",
+     "Tit 2:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi leagă direct scopul formării poporului de încheierea versetului: „i-am format pentru Mine” — pentru ca „să-Mi istorisească slava”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„I-am format ca popor pentru Mine, ca ei să istorisească slava Mea” — scopul creării lui Israel ca popor distinct este proclamarea publică a lui Dumnezeu, nu doar existența lui privată."
+     }
+    ]
+   },
+   {
+    "v": "43:22",
+    "t": "Dar n-ai strigat către Mine, Iacove, căci te-ai obosit de Mine, Israele.",
+    "heb": "וְלֹא־אֹתִי קָרָאתָ יַעֲקֹב כִּי־יָגַעְתָּ בִּי יִשְׂרָאֵל׃",
+    "translit": "Velo-oti karata Iaakov ki-iagata bi Israël.",
+    "tokens": [
+     {
+      "t": "Dar n-ai strigat către Mine, Iacove, căci te-ai "
+     },
+     {
+      "t": "obosit",
+      "w": "obosit",
+      "heb": "יָגַעְתָּ",
+      "translit": "iagata",
+      "strong": "H3021",
+      "pos": "verb, qal perfect, persoana a II-a singular",
+      "def_ro": "te-ai ostenit, te-ai plictisit.",
+      "dict_ro": "Iaga — verbul denotă oboseală fizică din muncă istovitoare, aplicat aici metaforic la relația cu DOMNUL: nu e vorba de o povară obiectivă (v.23 arată că cerințele rituale erau minime), ci de o oboseală subiectivă, o lehamite spirituală a poporului față de închinare."
+     },
+     {
+      "t": " de Mine, Israele."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְלֹא־אֹתִי קָרָאתָ יַעֲקֹב כִּי־יָגַעְתָּ בִּי יִשְׂרָאֵל׃",
+      "translation": "„Dar n-ai strigat către Mine, Iacove...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐ νῦν ἐκάλεσά σε, Ἰακώβ, οὐδὲ κοπιάσαι σε ἐποίησα, Ἰσραήλ.",
+      "greek": true,
+      "translation": "„Nu acum te-am chemat, Iacove, nici nu te-am făcut să te ostenești, Israele.”",
+      "note": "Divergență reală: Textul Masoretic pune poporul ca subiect activ care nu L-a chemat pe DOMNUL și s-a obosit el însuși de El; Septuaginta inversează structura — DOMNUL e Cel care „nu te-a chemat” și „nu te-a făcut să te ostenești”, mutând accentul dinspre vina poporului spre absența unei poveri impuse de Dumnezeu."
+     }
+    ],
+    "refs": [
+     "Mica 6:3",
+     "Maleahi 1:13",
+     "Ieremia 2:31,32",
+     "Isaia 64:7",
+     "Osea 7:14",
+     "Iov 21:14,15"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică: „nu M-ai chemat” — atunci când te-ai întors spre idolatrie; „căci te-ai obosit de Mine” — v-ați plictisit repede de slujirea Mea (după Pesikta Rabbati 29)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David precizează contrastul: „tu, Iacov, nu M-ai chemat, căci te-ai întors spre idoli — ai devenit ostenit și obosit în slujirea Mea și ai părăsit-o”."
+     }
+    ]
+   },
+   {
+    "v": "43:23",
+    "t": "Nu Mi-ai adus mielul arderilor-de-tot ale tale și nici nu M-ai cinstit cu jertfele tale de pace. Eu nu te-am împovărat cu prinosuri și nu te-am obosit cu tămâie.",
+    "heb": "לֹא־הֵבֵיאתָ לִּי שֵׂה עֹלֹתֶיךָ וּזְבָחֶיךָ לֹא כִבַּדְתָּנִי לֹא הֶעֱבַדְתִּיךָ בְּמִנְחָה וְלֹא הוֹגַעְתִּיךָ בִּלְבוֹנָה׃",
+    "translit": "Lo-hevéta li se oloteha uzvaheha lo kibadtani lo heevadticha beminha velo hogaticha bilvona.",
+    "tokens": [
+     {
+      "t": "Nu Mi-ai adus mielul "
+     },
+     {
+      "t": "arderilor-de-tot",
+      "w": "arderilor-de-tot",
+      "heb": "עֹלֹתֶיךָ",
+      "translit": "oloteha",
+      "strong": "H5930",
+      "pos": "substantiv, feminin plural construct + sufix",
+      "def_ro": "arderile tale de tot.",
+      "dict_ro": "Ola — jertfa mistuită integral pe altar, fără nicio parte lăsată închinătorului, simbol al dăruirii totale. Faptul că DOMNUL notează absența ei nu ca acuzație de neglijență rituală, ci ca argument („nu te-am împovărat”), inversează logica obișnuită a rechizitoriilor profetice: aici lipsa jertfei arată tocmai cât de puțin a cerut DOMNUL, nu cât de mult a lipsit poporul."
+     },
+     {
+      "t": " ale tale și nici nu M-ai cinstit cu jertfele tale de pace. Eu nu te-am împovărat cu prinosuri și nu te-am obosit cu tămâie."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לֹא־הֵבֵיאתָ לִּי שֵׂה עֹלֹתֶיךָ...",
+      "translation": "„Nu Mi-ai adus mielul arderilor-de-tot ale tale...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐκ ἐμοὶ ἤνεγκας πρόβατα τῆς ὁλοκαρπώσεώς σου, οὐδὲ ἐν ταῖς θυσίαις σου ἐδόξασάς με· οὐκ ἐδούλωσά σε ἐν θυσίαις, οὐδὲ ἔγκοπον ἐποίησά σε ἐν λιβάνῳ.",
+      "greek": true,
+      "translation": "„Nu Mi-ai adus oile arderii tale de tot, nici nu M-ai slăvit cu jertfele tale; nu te-am înrobit cu jertfe, nici nu te-am făcut ostenit cu tămâie.”",
+      "note": "Corespondență apropiată cu Textul Masoretic pe tot versetul."
+     }
+    ],
+    "refs": [
+     "Isaia 1:11-15",
+     "Amos 5:21,22",
+     "Proverbe 21:27",
+     "Zaharia 7:5,6",
+     "Matei 11:30",
+     "Maleahi 1:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică momentul istoric: aceasta s-a întâmplat în zilele lui Ahaz, care a oprit slujba Templului — „a închis ușile Casei DOMNULUI” (2 Cronici 28) — fiu său Ezechia mărturisind ulterior „părinții noștri au fost necredincioși... au și închis ușile” (2 Cronici 29)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nu te-am împovărat cu prinosuri” — nu ți-am impus o muncă grea sau o cheltuială mare la aducerea prinosului, căci am poruncit doar un pumn mic să fie ars pe altar, iar tămâia nu Mi-am cerut-o din abundență."
+     }
+    ]
+   },
+   {
+    "v": "43:24",
+    "t": "Nu Mi-ai cumpărat scorțișoară cu bani și nici nu M-ai săturat cu grăsimea jertfelor tale, ci M-ai împovărat cu păcatele tale și M-ai obosit cu nelegiuirile tale.",
+    "heb": "לֹא־קָנִיתָ לִּי בַכֶּסֶף קָנֶה וְחֵלֶב זְבָחֶיךָ לֹא הִרְוִיתָנִי אַךְ הֶעֱבַדְתַּנִי בְּחַטֹּאותֶיךָ הוֹגַעְתַּנִי בַּעֲוֹנֹתֶיךָ׃",
+    "translit": "Lo-kanita li vakesef kane vehelev zvaheha lo hirvitani ach heevadtani behatoteha hogatani baavonoteha.",
+    "tokens": [
+     {
+      "t": "Nu Mi-ai cumpărat scorțișoară cu bani și nici nu M-ai săturat cu grăsimea jertfelor tale, ci M-ai "
+     },
+     {
+      "t": "împovărat",
+      "w": "împovărat",
+      "heb": "הֶעֱבַדְתַּנִי",
+      "translit": "heevadtani",
+      "strong": "H5647",
+      "pos": "verb, hifil perfect, persoana a II-a + sufix",
+      "def_ro": "m-ai pus să slujesc, m-ai făcut rob.",
+      "dict_ro": "Avad la forma hifil — „m-ai făcut să slujesc/muncesc”, aceeași rădăcină din care vine „eved” (rob) și „avoda” (slujire, inclusiv slujirea rituală din Templu). Ironia versetului stă în inversarea rolurilor: poporul n-a fost pus să „slujească” prin jertfe grele, dar L-a pus pe DOMNUL Însuși să „slujească”, purtând povara păcatelor lor — o imagine șocantă, pe care Rashi o leagă explicit de exil."
+     },
+     {
+      "t": " și M-ai obosit cu nelegiuirile tale."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לֹא־קָנִיתָ לִּי בַכֶּסֶף קָנֶה...",
+      "translation": "„Nu Mi-ai cumpărat scorțișoară cu bani...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐδὲ ἐκτήσω μοι ἀργυρίου θυμίαμα, οὐδὲ τὸ στέαρ τῶν θυσιῶν σου ἐπεθύμησα, ἀλλὰ ἐν ταῖς ἁμαρτίαις σου καὶ ἐν ταῖς ἀδικίαις σου προέστην σου.",
+      "greek": true,
+      "translation": "„Nici nu Mi-ai dobândit cu argint tămâie, nici n-am poftit grăsimea jertfelor tale, ci cu păcatele tale și cu nedreptățile tale ai stat înaintea Mea/M-ai împovărat.”",
+      "note": "Divergență lexicală reală: Textul Masoretic vorbește despre „kane” (trestie mirositoare/calamus, o mirodenie specifică), pe când Septuaginta traduce generic prin „θυμίαμα” (tămâie) — probabil pentru că traducătorii alexandrini nu au găsit un echivalent grecesc exact pentru planta ebraică."
+     }
+    ],
+    "refs": [
+     "Ieremia 6:20",
+     "Psalmul 50:9-13",
+     "Isaia 1:14",
+     "Isaia 63:10",
+     "Ezechiel 6:9",
+     "Amos 2:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi citează pe Rabi Abba: scorțișoara creștea din belșug în Țara lui Israel, mâncată chiar de capre și căprioare (după Eicha Rabbah, Petihta 10) — n-a fost nevoie s-o cumpere scump. Iar „M-ai împovărat cu păcatele tale” Rashi îl leagă de exil: poporul L-a făcut pe DOMNUL, ca să zicem așa, „slujitor” al națiunilor idolatre, precum vede Ezechiel carul Șechinei întorcându-se din Babilon (Ezechiel 1:4) — ca să nu se spună că Israel a fost dat pe mâna unei națiuni josnice (după Talmud Bavli, Chagiga 13b)."
+     }
+    ]
+   },
+   {
+    "v": "43:25",
+    "t": "Eu, doar Eu, sunt cel care șterg nelegiuirile tale de dragul Meu, iar păcatele tale nu le mai amintesc.",
+    "heb": "אָנֹכִי אָנֹכִי הוּא מֹחֶה פְשָׁעֶיךָ לְמַעֲנִי וְחַטֹּאתֶיךָ לֹא אֶזְכֹּר׃",
+    "translit": "Anochi anochi hu mohe feșaeha lemaani vehatoteha lo ezkor.",
+    "tokens": [
+     {
+      "t": "Eu, doar Eu, sunt cel care "
+     },
+     {
+      "t": "șterg",
+      "w": "șterg",
+      "heb": "מֹחֶה",
+      "translit": "mohe",
+      "strong": "H4229",
+      "pos": "verb, qal participiu, masculin singular",
+      "def_ro": "cel care șterge, cel care curăță.",
+      "dict_ro": "Mahah — imaginea e a ștergerii unui text scris (aceeași rădăcină e folosită pentru ștergerea numelui divin în ritualul soției bănuite de infidelitate, Numeri 5:23) — păcatul e conceput ca o înscriere care poate fi complet îndepărtată, nu doar acoperită. Dubla repetiție „Anochi anochi” (Eu, Eu) subliniază că numai DOMNUL, nimeni altcineva, are autoritatea de a ierta astfel."
+     },
+     {
+      "t": " nelegiuirile tale de dragul Meu, iar păcatele tale nu le mai amintesc."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אָנֹכִי אָנֹכִי הוּא מֹחֶה פְשָׁעֶיךָ...",
+      "translation": "„Eu, doar Eu, sunt cel care șterg nelegiuirile tale...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐγώ εἰμι, ὁ ἐξαλείφων τὰς ἀνομίας σου ἕνεκεν ἐμοῦ καὶ τὰς ἁμαρτίας σου καὶ οὐ μὴ μνησθήσομαι.",
+      "greek": true,
+      "translation": "„Eu sunt Cel ce șterge nelegiuirile tale de dragul Meu și păcatele tale, și nu Mi le voi aminti.”",
+      "note": "Septuaginta redă repetiția emfatică ebraică „Anochi anochi” (Eu, Eu) printr-un simplu „ἐγώ εἰμι” (Eu sunt), pierzând nuanța de accentuare dublă a Textului Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 44:22",
+     "Mica 7:18,19",
+     "Ieremia 31:34",
+     "Evrei 8:12",
+     "Ezechiel 36:22",
+     "Psalmul 25:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Eu, Eu” — Eu sunt Cel care le-am șters de atunci, și Eu le șterg și acum; „de dragul Meu” — nu datorită vreunui merit al tău, nici al dreptății părinților tăi."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De dragul Meu, ca să nu-Mi fie profanat Numele când voi face cu voi ceea ce meritați pentru păcatele voastre — de aceea le șterg cu desăvârșire, să nu rămână nicio urmă, nici să nu mai fie amintite.”"
+     }
+    ]
+   },
+   {
+    "v": "43:26",
+    "t": "Adu-Mi aminte, hai să ne judecăm unul cu altul! Apără-ți cauza, ca să fii socotit drept.",
+    "heb": "הַזְכִּירֵנִי נִשָּׁפְטָה יָחַד סַפֵּר אַתָּה לְמַעַן תִּצְדָּק׃",
+    "translit": "Hazkireni nișafta iahád saper ata lemaan titzdak.",
+    "tokens": [
+     {
+      "t": "Adu-Mi aminte, hai să ne "
+     },
+     {
+      "t": "judecăm",
+      "w": "judecăm",
+      "heb": "נִשָּׁפְטָה",
+      "translit": "nișafta",
+      "strong": "H8199",
+      "pos": "verb, nifal cohortativ, persoana I plural",
+      "def_ro": "să ne judecăm, să intrăm la judecată.",
+      "dict_ro": "Șafat la forma nifal cohortativă evocă limbajul juridic al unui proces (rîv) — DOMNUL invită poporul la o dezbatere de tribunal, în care fiecare parte își prezintă argumentele. E o formulă retorică frecventă la profeți (cf. Isaia 1:18, Mica 6:1-2), care nu presupune o judecată reală egală, ci ironizează pretenția omului de a avea vreo apărare valabilă în fața lui Dumnezeu."
+     },
+     {
+      "t": " Apără-ți cauza, ca să fii socotit drept."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַזְכִּירֵנִי נִשָּׁפְטָה יָחַד...",
+      "translation": "„Adu-Mi aminte, hai să ne judecăm unul cu altul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "σὺ δὲ μνήσθητι καὶ κριθῶμεν· λέγε σὺ τὰς ἀνομίας σου πρῶτος, ἵνα δικαιωθῇς.",
+      "greek": true,
+      "translation": "„Iar tu adu-ți aminte și să ne judecăm; spune tu nelegiuirile tale mai întâi, ca să fii îndreptățit.”",
+      "note": "Divergență reală, notabilă: Textul Masoretic are imperativul „Adu-Mi aminte” (hazkireni, cu sufixul de persoana I — „fă-Mă să-Mi amintesc”), pe când Septuaginta redă „σὺ...μνήσθητι” — „TU adu-ți aminte”, mutând accentul dinspre o provocare adresată lui Dumnezeu spre un îndemn la autoexaminare adresat poporului. LXX adaugă și explicit „spune nelegiuirile tale” (τὰς ἀνομίας σου), acolo unde Textul Masoretic are doar „saper ata” („tu, recunoaște/expune-ți cauza”), fără să precizeze dacă obiectul e nelegiuirea sau argumentele de apărare."
+     }
+    ],
+    "refs": [
+     "Isaia 1:18",
+     "Iov 23:3-6",
+     "Romani 10:3",
+     "Luca 18:9-14",
+     "Romani 8:33",
+     "Isaia 43:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Adu-Mi aminte” — orice răsplată pe care crezi că o ai de la Mine, tu și părinții tăi; „să ne judecăm unul cu altul” — să venim la judecată."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David explică imaginea printr-o parabolă între oameni: „adu-mi aminte ce merit ai față de mine, să ne judecăm împreună” — chiar dacă tu vei vorbi primul, nu vei fi găsit drept înaintea Mea."
+     }
+    ]
+   },
+   {
+    "v": "43:27",
+    "t": "Primul tău strămoș a greșit, iar avocații tăi M-au trădat.",
+    "heb": "אָבִיךָ הָרִאשׁוֹן חָטָא וּמְלִיצֶיךָ פָּשְׁעוּ בִי׃",
+    "translit": "Avicha harișon hata umelitzechha pașu vi.",
+    "tokens": [
+     {
+      "t": "Primul tău strămoș a greșit, iar "
+     },
+     {
+      "t": "avocații",
+      "w": "avocații",
+      "heb": "מְלִיצֶיךָ",
+      "translit": "melitzeha",
+      "strong": "H3887",
+      "pos": "substantiv, masculin plural construct + sufix",
+      "def_ro": "interpreții tăi, mijlocitorii tăi.",
+      "dict_ro": "Melitz — de la rădăcina „lutz”, cel care mijlocește sau interpretează, aici cu sensul de purtător de cuvânt sau apărător — un termen aplicat de tradiție preoților și profeților care ar fi trebuit să pledeze cauza poporului, dar care, în schimb, s-au făcut ei înșiși vinovați de răzvrătire."
+     },
+     {
+      "t": " M-au trădat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אָבִיךָ הָרִאשׁוֹן חָטָא...",
+      "translation": "„Primul tău strămoș a greșit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οἱ πατέρες ὑμῶν πρῶτοι καὶ οἱ ἄρχοντες ὑμῶν ἠνόμησαν εἰς ἐμέ.",
+      "greek": true,
+      "translation": "„Părinții voștri, cei dintâi, și conducătorii voștri au nelegiuit împotriva Mea.”",
+      "note": "Divergență reală: Textul Masoretic vorbește la singular despre „primul tău strămoș” (avicha harișon) și despre „mijlocitorii/interpreții tăi” (melitzeha); Septuaginta pluralizează în „părinții voștri” și înlocuiește „mijlocitorii” cu „conducătorii” (ἄρχοντες) — o schimbare de sens reală, de la rolul de apărători/interpreți la cel de autorități politice."
+     }
+    ],
+    "refs": [
+     "Romani 5:12",
+     "Ezechiel 16:3",
+     "Ieremia 23:11-15",
+     "Mica 3:11",
+     "Osea 4:6",
+     "Ezechiel 22:25-28"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică „primul tău strămoș” cu Avraam, care a greșit atunci când a întrebat „Din ce voi cunoaște [că voi moșteni țara]?” (Geneza 15:8); iar despre „mijlocitorii tăi”: „nu ai, dintre toți mijlocitorii pe al căror merit te bizui, unul în care să nu fi găsit vină — chiar Isaac l-a iubit pe cel care Mă ura [Esau]”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "Metzudat David citește versetul diferit, identificând „primul tău strămoș” cu Adam, care a păcătuit mâncând din pomul cunoștinței — deși era el însuși lucrarea directă a mâinilor lui Dumnezeu; cu atât mai mult voi, care v-ați născut din bărbat și femeie, plini de nelegiuire."
+     }
+    ]
+   },
+   {
+    "v": "43:28",
+    "t": "De aceea, i-am pângărit pe conducătorii Sanctuarului, l-am dat spre distrugere pe Iacov, iar pe Israel [l-am dat] dojenilor.",
+    "heb": "וַאֲחַלֵּל שָׂרֵי קֹדֶשׁ וְאֶתְּנָה לַחֵרֶם יַעֲקֹב וְיִשְׂרָאֵל לְגִדּוּפִים׃",
+    "translit": "Vaahalel sarei kodeș veetna laherem Iaakov veIsraël legidufim.",
+    "tokens": [
+     {
+      "t": "De aceea, i-am "
+     },
+     {
+      "t": "pângărit",
+      "w": "pângărit",
+      "heb": "וַאֲחַלֵּל",
+      "translit": "vaahalel",
+      "strong": "H2490",
+      "pos": "verb, piel imperfect consecutiv, persoana I singular",
+      "def_ro": "și am profanat, am spurcat.",
+      "dict_ro": "Halal la forma piel — „a profana”, opusul lui „kadeș” (a sfinți); folosit aici pentru „sarei kodeș” (conducătorii sfințeniei/Sanctuarului), sugerează degradarea publică a rangului preoțesc/conducător ca pedeapsă directă pentru păcatele descrise anterior — cei puși să păzească sfințenia devin ei înșiși dezonorați."
+     },
+     {
+      "t": " pe conducătorii Sanctuarului, l-am dat spre distrugere pe Iacov, iar pe Israel [l-am dat] dojenilor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַאֲחַלֵּל שָׂרֵי קֹדֶשׁ...",
+      "translation": "„De aceea, i-am pângărit pe conducătorii Sanctuarului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐμίαναν οἱ ἄρχοντες τὰ ἅγιά μου, καὶ ἔδωκα ἀπολέσαι Ἰακὼβ καὶ Ἰσραὴλ εἰς ὀνειδισμόν.",
+      "greek": true,
+      "translation": "„Și conducătorii au pângărit cele sfinte ale Mele, și am dat spre pieire pe Iacov, și pe Israel spre ocară.”",
+      "note": "Divergență reală și semnificativă: în Textul Masoretic DOMNUL Însuși este subiectul care „pângărește” conducătorii Sanctuarului, ca act de pedeapsă; în Septuaginta, rolurile se inversează — conducătorii (ἄρχοντες) sunt cei care pângăresc „cele sfinte ale Mele” ale lui Dumnezeu, ca act de vină, iar pedeapsa (distrugerea lui Iacov) urmează separat ca o consecință. LXX schimbă astfel agentul acțiunii de profanare de la Dumnezeu la conducătorii înșiși."
+     }
+    ],
+    "refs": [
+     "Plângerile lui Ieremia 2:6,7",
+     "Psalmul 89:39",
+     "Deuteronom 28:15-20",
+     "Isaia 42:24,25",
+     "Ieremia 24:9",
+     "Daniel 9:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „i-am pângărit” — din cauza nelegiuirilor voastre."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Din cauza păcatelor voastre am pângărit chiar și pe conducătorii voștri sfinți, i-am dat spre nimicire și ocară în gura vrăjmașului.”"
+     }
+    ]
+   },
+   {
+    "v": "44:1",
+    "t": "Dar acum ascultă, Iacove, slujitorul Meu, și Israele, pe care l-am ales!",
+    "heb": "וְעַתָּה שְׁמַע יַעֲקֹב עַבְדִּי וְיִשְׂרָאֵל בָּחַרְתִּי בוֹ׃",
+    "translit": "Veata șema Iaakov avdi veIsraël baharti vo.",
+    "tokens": [
+     {
+      "t": "Dar acum ascultă, Iacove, "
+     },
+     {
+      "t": "slujitorul",
+      "w": "slujitorul",
+      "heb": "עַבְדִּי",
+      "translit": "avdi",
+      "strong": "H5650",
+      "pos": "substantiv, masculin singular construct + sufix",
+      "def_ro": "slujitorul Meu, robul Meu.",
+      "dict_ro": "Eved — titlul „robul/slujitorul DOMNULUI” aplicat lui Israel revine ca un laitmotiv structural în Isaia 40-53 (cf. 41:8, 44:21, 49:3), desemnând nu înjosire, ci o relație de apartenență privilegiată și de misiune — la fel cum Moise e numit „robul DOMNULUI” (Deuteronom 34:5) ca titlu de onoare, nu de subordonare degradantă."
+     },
+     {
+      "t": " Meu, și Israele, pe care l-am ales!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה שְׁמַע יַעֲקֹב עַבְדִּי...",
+      "translation": "„Dar acum ascultă, Iacove, slujitorul Meu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Νῦν δὲ ἄκουσον, Ἰακὼβ ὁ παῖς μου καὶ Ἰσραήλ, ὃν ἐξελεξάμην.",
+      "greek": true,
+      "translation": "„Iar acum ascultă, Iacove, slujitorul Meu, și Israele, pe care l-am ales.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 41:8",
+     "Deuteronom 7:6-8",
+     "Ieremia 30:10",
+     "Romani 11:5,6",
+     "Psalmul 105:6",
+     "Isaia 43:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Dar acum ascultă” — întoarce-te la Tora Mea, Iacove, robul Meu."
+     }
+    ]
+   },
+   {
+    "v": "44:2",
+    "t": "Așa spune DOMNUL, cel care te-a făcut și te-a făurit din pântec – El te va ajuta. Nu te teme, slujitorul Meu Iacov, și Ieșurun pe care l-am ales.",
+    "heb": "כֹּה־אָמַר יְהוָה עֹשֶׂךָ וְיֹצֶרְךָ מִבֶּטֶן יַעְזְרֶךָּ אַל־תִּירָא עַבְדִּי יַעֲקֹב וִישֻׁרוּן בָּחַרְתִּי בוֹ׃",
+    "translit": "Ko-amar ADONAI osecha veiotzercha mibeten iaazrecha al-tira avdi Iaakov viȘurun baharti vo.",
+    "tokens": [
+     {
+      "t": "Așa spune DOMNUL, cel care te-a făcut și te-a făurit din pântec – El te va ajuta. Nu te teme, slujitorul Meu Iacov, și "
+     },
+     {
+      "t": "Ieșurun",
+      "w": "Ieșurun",
+      "heb": "יְשֻׁרוּן",
+      "translit": "Ieșurun",
+      "strong": "H3484",
+      "pos": "substantiv propriu, nume simbolic",
+      "def_ro": "cel drept, poreclă poetică pentru Israel.",
+      "dict_ro": "Ieșurun — de la rădăcina „iașar” (drept), un nume de alint/idealizat pentru Israel, folosit doar de patru ori în toată Scriptura (aici, Deuteronom 32:15, 33:5, 33:26) — desemnând poporul nu așa cum e de fapt, mereu răzvrătit, ci așa cum ar trebui să fie sau va ajunge să fie, drept și integru, într-un contrast voit cu numele „Iacov”, care evocă înșelăciunea de la naștere (Geneza 25:26)."
+     },
+     {
+      "t": " pe care l-am ales."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כֹּה־אָמַר יְהוָה עֹשֶׂךָ וְיֹצֶרְךָ מִבֶּטֶן...",
+      "translation": "„Așa spune DOMNUL, cel care te-a făcut și te-a făurit din pântec...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὕτω λέγει Κύριος ὁ Θεὸς ὁ ποιήσας σε καὶ ὁ πλάσας σε ἐκ κοιλίας· ἔτι βοηθηθήσῃ, μὴ φοβοῦ, παῖς μου Ἰακὼβ καὶ ἠγαπημένος Ἰσραήλ, ὃν ἐξελεξάμην.",
+      "greek": true,
+      "translation": "„Așa zice Domnul Dumnezeu, Cel ce te-a făcut și te-a plăsmuit din pântece; iarăși vei fi ajutat, nu te teme, slujitorul Meu Iacov, și iubitul Israel, pe care l-am ales.”",
+      "note": "Divergență lexicală reală: acolo unde Textul Masoretic are numele distinctiv „Ieșurun”, Septuaginta redă printr-un epitet generic — „ἠγαπημένος” („cel iubit”) — probabil pentru că traducătorii alexandrini n-au avut un echivalent pentru acest nume rar, preferând să-i traducă sensul afectiv."
+     }
+    ],
+    "refs": [
+     "Isaia 43:1",
+     "Ieremia 1:5",
+     "Deuteronom 32:15",
+     "Deuteronom 33:5",
+     "Isaia 41:10",
+     "Efeseni 1:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Cel care te-a făcut și te-a format” — din clipa în care ai ieșit din pântece, te va ajuta; iar „Ieșurun” este numele sub care e chemat Israel, poporul cel drept."
+     }
+    ]
+   },
+   {
+    "v": "44:3",
+    "t": "La fel cum torn apă peste pământul însetat și râuri peste pământul uscat, așa voi turna duhul Meu peste seminția ta și binecuvântarea Mea peste urmașii tăi.",
+    "heb": "כִּי אֶצָּק־מַיִם עַל־צָמֵא וְנֹזְלִים עַל־יַבָּשָׁה אֶצֹּק רוּחִי עַל־זַרְעֶךָ וּבִרְכָתִי עַל־צֶאֱצָאֶיךָ׃",
+    "translit": "Ki etzok-maim al-tzame venozlim al-iabașa etzok ruhi al-zarecha uvirchati al-tzeetzaecha.",
+    "tokens": [
+     {
+      "t": "La fel cum torn apă peste pământul însetat și râuri peste pământul uscat, așa voi turna "
+     },
+     {
+      "t": "duhul",
+      "w": "duhul",
+      "heb": "רוּחִי",
+      "translit": "ruhi",
+      "strong": "H7307",
+      "pos": "substantiv, feminin singular + sufix",
+      "def_ro": "duhul Meu, suflarea Mea.",
+      "dict_ro": "Ruah — același cuvânt pentru „duh/suflare/vânt”, folosit aici într-o revărsare care depășește darul obișnuit al profeției individuale, promițând o efuziune generalizată peste toată „sămânța” poporului — tradiția rabinică (și, separat, cea creștină prin Faptele Apostolilor 2, care citează exact acest tip de pasaj din Ioel 2:28) citește acest verset ca profeție a unei transformări spirituale colective, nu doar a câtorva aleși."
+     },
+     {
+      "t": " peste seminția ta și binecuvântarea Mea peste urmașii tăi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי אֶצָּק־מַיִם עַל־צָמֵא...",
+      "translation": "„La fel cum torn apă peste pământul însetat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι ἐγὼ δώσω ὕδωρ ἐν δίψει τοῖς πορευομένοις ἐν ἀνύδρῳ, ἐπιθήσω τὸ πνεῦμά μου ἐπὶ τὸ σπέρμα σου καὶ τὰς εὐλογίας μου ἐπὶ τὰ τέκνα σου.",
+      "greek": true,
+      "translation": "„Căci Eu voi da apă celor însetați, celor ce merg prin pustiu fără apă; voi pune Duhul Meu peste sămânța ta și binecuvântările Mele peste copiii tăi.”",
+      "note": "Divergență de nuanță: Textul Masoretic vorbește generic despre „pământul însetat/uscat”, pe când Septuaginta concretizează imaginea prin „celor ce merg prin pustiu fără apă” — o adaptare narativă a metaforei agricole într-o imagine de călătorie."
+     }
+    ],
+    "refs": [
+     "Ioel 2:28",
+     "Faptele Apostolilor 2:17",
+     "Ezechiel 39:29",
+     "Isaia 35:6,7",
+     "Ioan 7:37-39",
+     "Psalmul 1:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „la fel cum torn apă peste pământul însetat”, tot așa „voi turna duhul Meu peste sămânța ta”."
+     }
+    ]
+   },
+   {
+    "v": "44:4",
+    "t": "Ei vor înmuguri în iarbă, precum sălciile lângă pâraiele de apă.",
+    "heb": "וְצָמְחוּ בְּבֵין חָצִיר כַּעֲרָבִים עַל־יִבְלֵי־מָיִם׃",
+    "translit": "Vetzamehu bevein hatzir kaaravim al-ivlei-maim.",
+    "tokens": [
+     {
+      "t": "Ei vor înmuguri în iarbă, precum "
+     },
+     {
+      "t": "sălciile",
+      "w": "sălciile",
+      "heb": "כַּעֲרָבִים",
+      "translit": "kaaravim",
+      "strong": "H6155",
+      "pos": "substantiv, masculin plural, cu prefix comparativ",
+      "def_ro": "ca sălciile, ca plopii de baltă.",
+      "dict_ro": "Aravim — sălciile de apă, aceeași plantă din care se face una dintre cele patru specii ale Sucotului (lulav). Metzudat David citește „iarba” (hatzir) din prima parte a versetului ca aluzie la Amalec, cel mai slab și disprețuit dușman al lui Israel (cf. Isaia 34:13, unde „hatzir” denotă pustiirea locurilor lui Amalec), sugerând că mulțimea urmașilor lui Israel va crește chiar din mijlocul celor mai neașteptate origini — prin convertiți."
+     },
+     {
+      "t": " lângă pâraiele de apă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְצָמְחוּ בְּבֵין חָצִיר...",
+      "translation": "„Ei vor înmuguri în iarbă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνατελοῦσιν ὡς ἀναμέσον ὕδατος χόρτος καὶ ὡς ἰτέα ἐπὶ παραρρέον ὕδωρ.",
+      "greek": true,
+      "translation": "„Și vor răsări ca iarba în mijlocul apei și ca salcia lângă apa curgătoare.”",
+      "note": "Corespondență apropiată cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 58:11",
+     "Psalmul 92:13-15",
+     "Ezechiel 17:5",
+     "Faptele Apostolilor 2:41-47",
+     "Psalmul 137:1,2",
+     "Isaia 61:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi identifică „iarba” (hatzir) cu Amalec, căci despre teritoriul lui s-a spus: „va fi locuință de șacali, iarbă pentru struți” (Isaia 34:13) — poporul lui Israel va crește prin convertiți dintre neamurile cele mai neașteptate, ca prin mijlocul lui Amalec însuși."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Vor crește și se vor înmulți ca și cum ar fi puși în mijlocul ierbii, asemenea sălciilor de pârâu sădite lângă albiile de apă, care cresc și înfloresc repede.”"
+     }
+    ]
+   },
+   {
+    "v": "44:5",
+    "t": "Unul va spune: „Eu sunt al DOMNULUI”, iar altul va invoca numele lui Iacov; unul va iscăli cu mâna [lui] că aparține DOMNULUI, iar altul va adopta numele de Israel.",
+    "heb": "זֶה יֹאמַר לַיהוָה אָנִי וְזֶה יִקְרָא בְשֵׁם־יַעֲקֹב וְזֶה יִכְתֹּב יָדוֹ לַיהוָה וּבְשֵׁם יִשְׂרָאֵל יְכַנֶּה׃",
+    "translit": "Ze yomar lADONAI ani veze yikra veșem-Iaakov veze yichtov yado lADONAI uveșem Israël yechane.",
+    "tokens": [
+     {
+      "t": "Unul va spune: „Eu sunt al DOMNULUI”, iar altul va invoca numele lui Iacov; unul va "
+     },
+     {
+      "t": "iscăli",
+      "w": "iscăli",
+      "heb": "יִכְתֹּב יָדוֹ",
+      "translit": "yichtov yado",
+      "strong": "H3789",
+      "pos": "verb + substantiv, „va scrie mâna lui”",
+      "def_ro": "va scrie cu mâna lui, își va semna angajamentul.",
+      "dict_ro": "Katav yado — literal „își va scrie mâna”, o expresie idiomatică pentru un angajament formal, în scris, asumat personal — imaginea unui legământ pus pe hârtie și semnat, precum legământul scris și pecetluit al lui Neemia (Neemia 9:38, 10:1). Midrașul citat de Rashi (Avot deRabi Natan 36) identifică patru categorii de oameni în acest verset: drepți desăvârșiți, copii ai celor răi care se îndreaptă, penitenți și prozeliți."
+     },
+     {
+      "t": " că aparține DOMNULUI, iar altul va adopta numele de Israel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "זֶה יֹאמַר לַיהוָה אָנִי...",
+      "translation": "„Unul va spune: «Eu sunt al DOMNULUI»...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὗτος ἐρεῖ· τοῦ Θεοῦ εἰμι, καὶ οὗτος βοήσεται ἐπὶ τῷ ὀνόματι Ἰακώβ, καὶ ἕτερος ἐπιγράψει χειρὶ αὐτοῦ· τοῦ Θεοῦ εἰμι, καὶ ἐπὶ τῷ ὀνόματι Ἰσραὴλ βοήσεται.",
+      "greek": true,
+      "translation": "„Acesta va zice: al lui Dumnezeu sunt; și acesta va striga în numele lui Iacov; și altul va scrie cu mâna lui: al lui Dumnezeu sunt; și în numele lui Israel va striga.”",
+      "note": "Corespondență generală cu Textul Masoretic, cu variație de topică între cele patru declarații paralele."
+     }
+    ],
+    "refs": [
+     "Neemia 9:38",
+     "Neemia 10:1-29",
+     "Zaharia 8:20-23",
+     "Ieremia 50:5",
+     "2 Corinteni 8:5",
+     "Galateni 6:16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi, citând Avot deRabi Natan (36): „acesta va spune: al DOMNULUI sunt eu” — aceștia sunt drepții desăvârșiți; „iar acesta va invoca numele lui Iacov” — aceștia sunt copiii mici ai celor răi; „acesta va iscăli cu mâna lui că aparține DOMNULUI” — aceștia sunt cei ce se pocăiesc; „iar acesta va adopta numele de Israel” — aceștia sunt convertiții dintre popoarele idolatre."
+     }
+    ]
+   },
+   {
+    "v": "44:6",
+    "t": "Așa a spus DOMNUL, Regele lui Israel și Mântuitorul lui, DOMNUL Oștirilor: „Eu sunt cel dintâi și Eu sunt cel din urmă, și în afară de Mine nu este alt dumnezeu.",
+    "heb": "כֹּה־אָמַר יְהוָה מֶלֶךְ־יִשְׂרָאֵל וְגֹאֲלוֹ יְהוָה צְבָאוֹת אֲנִי רִאשׁוֹן וַאֲנִי אַחֲרוֹן וּמִבַּלְעָדַי אֵין אֱלֹהִים׃",
+    "translit": "Ko-amar ADONAI meleh-Israël vegoalo ADONAI Țevaot ani rișon vaani aharon umibaladai ein Elohim.",
+    "tokens": [
+     {
+      "t": "Așa a spus DOMNUL, Regele lui Israel și "
+     },
+     {
+      "t": "Mântuitorul",
+      "w": "Mântuitorul",
+      "heb": "גֹאֲלוֹ",
+      "translit": "goalo",
+      "strong": "H1350",
+      "pos": "substantiv, masculin singular participiu + sufix",
+      "def_ro": "răscumpărătorul lui, cel care îl eliberează.",
+      "dict_ro": "Goel — termen din dreptul familial israelit, desemnând ruda cea mai apropiată cu obligația de a răscumpăra o proprietate pierdută, a elibera o rudă din robie sau a răzbuna sângele vărsat (cf. cartea lui Rut). Aplicat lui Dumnezeu, titlul „Goel” transformă relația legământului într-una de rudenie apropiată și obligație personală, nu doar de suveranitate distantă."
+     },
+     {
+      "t": " lui, DOMNUL Oștirilor: „Eu sunt cel dintâi și Eu sunt cel din urmă, și în afară de Mine nu este alt dumnezeu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כֹּה־אָמַר יְהוָה מֶלֶךְ־יִשְׂרָאֵל...",
+      "translation": "„Așa a spus DOMNUL, Regele lui Israel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Οὕτως λέγει ὁ Θεὸς ὁ βασιλεὺς τοῦ Ἰσραὴλ ὁ ῥυσάμενος αὐτὸν Θεὸς σαβαώθ· ἐγὼ πρῶτος καὶ ἐγὼ μετὰ ταῦτα· πλὴν ἐμοῦ οὐκ ἔστι Θεός.",
+      "greek": true,
+      "translation": "„Așa zice Dumnezeu, Împăratul lui Israel, Cel ce l-a izbăvit, Dumnezeu Savaot: Eu sunt Cel dintâi și Eu sunt după acestea; în afară de Mine nu este Dumnezeu.”",
+      "note": "Corespondență apropiată de sens, cu variație minoră: LXX redă „Eu sunt cel din urmă” (aharon) prin expresia „Eu sunt după acestea” — o formulare mai puțin simetrică decât perechea ebraică „rișon/aharon” (cel dintâi/cel din urmă)."
+     }
+    ],
+    "refs": [
+     "Isaia 41:4",
+     "Isaia 48:12",
+     "Apocalipsa 1:8",
+     "Apocalipsa 22:13",
+     "Deuteronom 32:39",
+     "Deuteronom 6:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Eu sunt cel dintâi” — mai dinainte de crearea lumii; „și Eu sunt cel din urmă” — după ce lumea va înceta să existe."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 38b",
+      "text": "Talmudul folosește chiar acest verset ca respingere directă a ereziei „celor două puteri” din cer: „Eu sunt cel dintâi” — n-am tată; „și Eu sunt cel din urmă” — n-am fiu/frate; „și în afară de Mine nu este alt dumnezeu” — n-am asociat."
+     }
+    ]
+   },
+   {
+    "v": "44:7",
+    "t": "Cine este capabil să spună că el, ca și Mine, poate proclama ordinea lucrurilor de când Mi-am întemeiat poporul? Să spună ce miracole se vor mai întâmpla!",
+    "heb": "וּמִי־כָמוֹנִי יִקְרָא וְיַגִּידֶהָ וְיַעְרְכָהּ לִי מִשּׂוּמִי עַם־עוֹלָם וְאֹתִיּוֹת וְאֲשֶׁר תָּבֹאנָה יַגִּידוּ לָמוֹ׃",
+    "translit": "Umi-chamoni yikra veyagideha veyaarcheha li misumi am-olam veotiyot vaașer tavona yagidu lamo.",
+    "tokens": [
+     {
+      "t": "Cine este capabil să spună că el, ca și Mine, poate proclama ordinea lucrurilor de când Mi-am întemeiat poporul? Să spună "
+     },
+     {
+      "t": "ce miracole",
+      "w": "ce miracole",
+      "heb": "וְאֹתִיּוֹת",
+      "translit": "veotiyot",
+      "strong": "H226",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "și semnele, și minunile.",
+      "dict_ro": "Ot (plural otiyot) — „semn”, cuvântul folosit și pentru minunile din Egipt (Exod 4:8-9) sau pentru semnele cerești (Geneza 1:14); Rashi îl citește aici ca „cuvinte de minune”, adică profeții care se vor confirma prin împlinire — capacitatea unică a lui Dumnezeu de a vesti dinainte evenimente ca eliberarea prin Cirus, la o vreme când nici Templul nu era distrus, nici exilul nu începuse, nici Cirus nu se născuse."
+     },
+     {
+      "t": " se vor mai întâmpla!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּמִי־כָמוֹנִי יִקְרָא...",
+      "translation": "„Cine este capabil să spună că el, ca și Mine...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τίς ὥσπερ ἐγώ; στήτω καὶ καλεσάτω καὶ ἀναγγειλάτω καὶ ἑτοιμασάτω μοι ἀφ᾽ οὗ ἐποίησα ἄνθρωπον εἰς τὸν αἰῶνα, καὶ τὰ ἐπερχόμενα πρὸ τοῦ ἐλθεῖν ἀναγγειλάτωσαν ὑμῖν.",
+      "greek": true,
+      "translation": "„Cine este ca Mine? Să stea și să cheme și să vestească și să-Mi pregătească [dovada], de când am făcut omul pentru veșnicie, și cele ce vin, înainte să vină, să vi le vestească.”",
+      "note": "Divergență notabilă: Textul Masoretic vorbește despre întemeierea „poporului” (am-olam, „popor veșnic” — Israel), pe când Septuaginta extinde referința la crearea „omului” în general (ἄνθρωπον) — o universalizare reală a domeniului provocării divine, de la istoria lui Israel la istoria omenirii."
+     }
+    ],
+    "refs": [
+     "Isaia 46:9,10",
+     "Isaia 41:22",
+     "Isaia 45:21",
+     "Isaia 48:3-8",
+     "Deuteronom 32:8",
+     "Faptele Apostolilor 17:26"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „și cine va vesti și va rândui înaintea Mea” tot ce s-a întâmplat „de când am întemeiat poporul veșnic” și până acum? „Otiyot” — cuvinte de minune; „și cele ce vor veni” — și lucrurile viitoare le va vesti, așa cum fac Eu acum, când Templul încă nu era dărâmat, voi nu erați exilați, Cirus nu se născuse, iar Eu vă vestesc despre el."
+     }
+    ]
+   },
+   {
+    "v": "44:8",
+    "t": "Nu vă temeți, nu vă înspăimântați! Oare nu v-am anunțat și nu v-am vestit aceste lucruri de demult? Voi Îmi sunteți martori că nu există alt dumnezeu în afară de Mine și că nu există nicio stâncă pe care să nu o cunosc!",
+    "heb": "אַל־תִּפְחֲדוּ וְאַל־תִּרְהוּ הֲלֹא מֵאָז הִשְׁמַעְתִּיךָ וְהִגַּדְתִּי וְאַתֶּם עֵדָי הֲיֵשׁ אֱלוֹהַּ מִבַּלְעָדַי וְאֵין צוּר בַּל־יָדָעְתִּי׃",
+    "translit": "Al-tifhadu veal-tirhu halo meaz hișmaticha vehigadti veatem edai hayeș eloah mibaladai veein tzur bal-yadati.",
+    "tokens": [
+     {
+      "t": "Nu vă temeți, nu vă înspăimântați! Oare nu v-am anunțat și nu v-am vestit aceste lucruri de demult? Voi Îmi sunteți "
+     },
+     {
+      "t": "martori",
+      "w": "martori",
+      "heb": "עֵדָי",
+      "translit": "edai",
+      "strong": "H5707",
+      "pos": "substantiv, masculin plural + sufix",
+      "def_ro": "martorii Mei.",
+      "dict_ro": "Ed (plural edim/edai) — termen juridic pentru martorul dintr-un proces; Israel e chemat aici, la fel ca la Isaia 43:10,12, să depună mărturie despre unicitatea lui Dumnezeu, nu pe baza unei speculații filosofice, ci a experienței istorice directe — Rashi leagă acest rol de revelația de la Sinai, unde șapte ceruri s-au deschis ca dovadă vizibilă."
+     },
+     {
+      "t": " că nu există alt dumnezeu în afară de Mine și că nu există nicio stâncă pe care să nu o cunosc!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אַל־תִּפְחֲדוּ וְאַל־תִּרְהוּ...",
+      "translation": "„Nu vă temeți, nu vă înspăimântați!...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "μὴ παρακαλύπτεσθε μηδὲ πλανᾶσθε· οὐκ ἀπ᾿ ἀρχῆς ἠνωτίσασθε καὶ ἀπήγγειλα ὑμῖν; μάρτυρες ὑμεῖς ἐστε, εἰ ἔτσι Θεὸς πλὴν ἐμοῦ.",
+      "greek": true,
+      "translation": "„Nu vă ascundeți, nici nu vă rătăciți; oare nu de la început ați auzit și v-am vestit? Voi sunteți martori, dacă este Dumnezeu în afară de Mine.”",
+      "note": "Divergență lexicală reală: Textul Masoretic are „nu vă temeți, nu vă înspăimântați” (verbe de frică), pe când Septuaginta traduce „nu vă ascundeți, nu vă rătăciți” — o citire diferită a rădăcinii ebraice rare „רהה”, tradusă de traducătorii alexandrini nu ca teamă, ci ca rătăcire/eroare."
+     }
+    ],
+    "refs": [
+     "Isaia 43:10,12",
+     "1 Samuel 2:2",
+     "2 Samuel 22:32",
+     "Psalmul 18:31",
+     "Faptele Apostolilor 1:8",
+     "Deuteronom 4:35"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „de la Sinai v-am vestit și v-am spus acolo că nu este alt dumnezeu în afară de Mine”; „și voi sunteți martorii Mei” — căci v-am deschis șapte ceruri și v-am arătat că nu este altul, iar voi sunteți martorii Mei în acest lucru. Iar „bal iadati” (targumul lui Ionatan): „și nu este tare afară de Cel de la care i se dă tărie oricărui tare”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nu vă temeți de alți dumnezei; la muntele Sinai v-am vestit și am arătat că nu este alt dumnezeu afară de Mine, iar voi sunteți martorii Mei în această privință, căci am deschis atunci șapte ceruri.”"
+     }
+    ]
+   },
+   {
+    "v": "44:9",
+    "t": "Făuritorii de idoli sunt cu toții pustii, iar lucrurile lor nu sunt de niciun folos; ei mărturisesc despre ei înșiși, nu văd și nu cunosc, iar cei care îi venerează vor fi rușinați.",
+    "heb": "יֹצְרֵי־פֶסֶל כֻּלָּם תֹּהוּ וַחֲמוּדֵיהֶם בַּל־יוֹעִילוּ וְעֵדֵיהֶם הֵמָּה בַּל־יִרְאוּ וּבַל־יֵדְעוּ לְמַעַן יֵבֹשׁוּ׃",
+    "translit": "Yotzrei-fesel kulam tohu vahamudeihem bal-yoilu veedeihem hema bal-yiru uval-yedu lemaan yevosu.",
+    "tokens": [
+     {
+      "t": "Făuritorii de "
+     },
+     {
+      "t": "idoli",
+      "w": "idoli",
+      "heb": "פֶסֶל",
+      "translit": "fesel",
+      "strong": "H6459",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "chip cioplit, idol.",
+      "dict_ro": "Pesel — de la rădăcina „pasal” (a ciopli), desemnând orice imagine sculptată folosită ca obiect de cult, interzisă explicit în a doua poruncă (Exod 20:4). Faptul că „mărturisesc despre ei înșiși” (edeihem hema) joacă ironic pe tema martorului din v.8 — idolii, martori muți și orbi ai propriei lor neputințe, contrastează direct cu Israel, martor viu al unui Dumnezeu care vede și cunoaște."
+     },
+     {
+      "t": " sunt cu toții pustii, iar lucrurile lor nu sunt de niciun folos; ei mărturisesc despre ei înșiși, nu văd și nu cunosc, iar cei care îi venerează vor fi rușinați."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יֹצְרֵי־פֶסֶל כֻּלָּם תֹּהוּ...",
+      "translation": "„Făuritorii de idoli sunt cu toții pustii...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οὐκ ἦσαν τότε οἱ πλάσσοντες καὶ γλύφοντες πάντες μάταιοι οἱ ποιοῦντες τὰ καταθύμια αὐτῶν, ἃ οὐκ ὠφελήσει αὐτούς· ἀλλὰ αἰσχυνθήσονται.",
+      "greek": true,
+      "translation": "„Și nu erau atunci cei ce plăsmuiesc și cioplesc, toți deșerți, cei ce fac după plăcerea inimii lor, lucruri care nu le vor folosi; ci se vor rușina.”",
+      "note": "Divergență structurală: Septuaginta leagă gramatical acest verset de contextul precedent («și nu erau atunci...»), o construcție sintactică diferită de afirmația directă și autonomă a Textului Masoretic («Făuritorii de idoli sunt cu toții pustii»)."
+     }
+    ],
+    "refs": [
+     "Ieremia 10:3-8,14,15",
+     "Habacuc 2:18,19",
+     "Psalmul 115:8",
+     "Psalmul 135:18",
+     "1 Corinteni 8:4",
+     "Isaia 42:17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „și martorii lor sunt aceștia” — chipurile cioplite sunt martorii rușinii închinătorilor lor, căci noi vedem că ele nu văd și nu cunosc, și totuși oamenii li se închinau; „ca ei să se rușineze” — cei care li se închină."
+     }
+    ]
+   },
+   {
+    "v": "44:10",
+    "t": "Cine ar modela un dumnezeu sau un idol turnat ce nu are vreun rost?",
+    "heb": "מִי־יָצַר אֵל וּפֶסֶל נָסָךְ לְבִלְתִּי הוֹעִיל׃",
+    "translit": "Mi-yatzar el ufesel nasach levilti hoil.",
+    "tokens": [
+     {
+      "t": "Cine ar modela un dumnezeu sau un idol "
+     },
+     {
+      "t": "turnat",
+      "w": "turnat",
+      "heb": "נָסָךְ",
+      "translit": "nasach",
+      "strong": "H5257",
+      "pos": "verb, qal participiu pasiv, masculin singular",
+      "def_ro": "turnat, vărsat în tipar.",
+      "dict_ro": "Nasach — de la rădăcina care înseamnă și „a turna” (metal topit) și „a vărsa” (o libație de vin), cu litera nun a rădăcinii care de fapt dispare la anumite forme flexionare (aceeași categorie ca „nașach” — a mușca sau „nagaf” — a lovi), o observație gramaticală pe care Rashi o notează explicit — idolul turnat era realizat prin vărsarea metalului topit într-un tipar."
+     },
+     {
+      "t": " ce nu are vreun rost?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִי־יָצַר אֵל וּפֶסֶל נָסָךְ...",
+      "translation": "„Cine ar modela un dumnezeu sau un idol turnat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "πάντες οἱ πλάσσοντες Θεὸν καὶ γλύφοντες ἀνωφελῆ.",
+      "greek": true,
+      "translation": "„Toți cei ce plăsmuiesc un dumnezeu și cioplesc [ceva] nefolositor.”",
+      "note": "Divergență de formă: Textul Masoretic pune întrebarea retorică („cine ar modela...?”), pe când Septuaginta o transformă într-o afirmație descriptivă generală despre „toți cei ce plăsmuiesc” — pierzând nuanța retorică a originalului."
+     }
+    ],
+    "refs": [
+     "1 Regi 12:28",
+     "Ieremia 10:5",
+     "Daniel 3:1,14",
+     "Habacuc 2:18",
+     "Faptele Apostolilor 19:26",
+     "1 Corinteni 8:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică termenul gramatical: „nasach” — cuvânt din familia „turnare/vărsare”, iar litera nun din rădăcină e una care cade la anumite forme, precum nun-ul din „nașach” (a mușca) sau din „nagaf” (a lovi)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cine ar face o asemenea prostie, să facă un dumnezeu și să toarne un idol fără niciun folos?”"
+     }
+    ]
+   },
+   {
+    "v": "44:11",
+    "t": "Iată, toți cei care i se alătură vor fi rușinați, iar făuritorii [lui] sunt doar oameni! Să se adune și să stea în picioare și să se teamă și să se rușineze laolaltă!",
+    "heb": "הֵן כָּל־חֲבֵרָיו יֵבֹשׁוּ וְחָרָשִׁים הֵמָּה מֵאָדָם יִתְקַבְּצוּ כֻלָּם יַעֲמֹדוּ יִפְחֲדוּ יֵבֹשׁוּ יָחַד׃",
+    "translit": "Hen kol-haverav yevosu veharașim hema meadam yitkabetzu kulam yaamodu yifhadu yevosu yahad.",
+    "tokens": [
+     {
+      "t": "Iată, toți cei care i se alătură vor fi rușinați, iar "
+     },
+     {
+      "t": "făuritorii",
+      "w": "făuritorii",
+      "heb": "וְחָרָשִׁים",
+      "translit": "veharașim",
+      "strong": "H2796",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "meșterii, artizanii.",
+      "dict_ro": "Harash — termen general pentru orice meșteșugar (fierar, tâmplar, sculptor), aici cu accent polemic: cei care fac idolii „sunt doar oameni” (meadam), muritori limitați, deci incapabili prin definiție să confere putere divină obiectului pe care îl modelează — argumentul central al întregii polemici din capitol."
+     },
+     {
+      "t": " sunt doar oameni! Să se adune și să stea în picioare și să se teamă și să se rușineze laolaltă!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֵן כָּל־חֲבֵרָיו יֵבֹשׁוּ...",
+      "translation": "„Iată, toți cei care i se alătură vor fi rușinați...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ πάντες ὅθεν ἐγένοντο ἐξηράνθησαν, καὶ κωφοὶ ἀπὸ ἀνθρώπων συναχθήτωσαν πάντες καὶ στησάτωσαν ἅμα, ἐντραπήτωσαν καὶ αἰσχυνθήτωσαν ἅμα.",
+      "greek": true,
+      "translation": "„Și toți din care s-au născut s-au uscat, și surzii dintre oameni să se adune toți și să stea împreună, să se rușineze și să fie făcuți de ocară împreună.”",
+      "note": "Divergență lexicală notabilă: Textul Masoretic vorbește despre „tovarășii/asociații” idolului care se rușinează; Septuaginta introduce imaginea „surzilor” (κωφοί) — o traducere diferită a termenului ebraic dificil, posibil legată de o interpretare a rădăcinii ca referindu-se la incapacitatea de a auzi/răspunde."
+     }
+    ],
+    "refs": [
+     "1 Samuel 5:3-7",
+     "Isaia 45:16",
+     "Ieremia 10:14",
+     "1 Regi 18:19-40",
+     "Psalmul 97:7",
+     "Ieremia 51:17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „toți tovarășii lui” — ai acelui meșter care modelează și toarnă idoli, cei care se alătură lui ca să se închine lucrării și turnăturii lui, vor fi rușinați; „iar meșterii aceștia sunt [doar] oameni” — cu atât mai mult lucrarea lor, care e deșertăciune."
+     }
+    ]
+   },
+   {
+    "v": "44:12",
+    "t": "Un fierar își face unealta și lucrează cu cărbune și făurește cu lovituri de ciocan, îl modelează cu toată puterea brațului său; chiar dacă flămânzește sau nu are putere, nu bea apă și vlăguiește.",
+    "heb": "חָרַשׁ בַּרְזֶל מַעֲצָד וּפָעַל בַּפֶּחָם וּבַמַּקָּבוֹת יִצְּרֵהוּ וַיִּפְעָלֵהוּ בִּזְרוֹעַ כֹּחוֹ גַּם־רָעֵב וְאֵין כֹּחַ לֹא־שָׁתָה מַיִם וַיִּיעָף׃",
+    "translit": "Haraș barzel maatzad ufaal bapeham uvamakavot yitzrehu vayifalehu bizroa koho gam-raev veein koah lo-șata maim vayiaf.",
+    "tokens": [
+     {
+      "t": "Un "
+     },
+     {
+      "t": "fierar",
+      "w": "fierar",
+      "heb": "חָרַשׁ בַּרְזֶל",
+      "translit": "haraș barzel",
+      "strong": "H2796",
+      "pos": "substantiv construct + substantiv",
+      "def_ro": "meșter în fier, fierar.",
+      "dict_ro": "Harash barzel — „meșterul fierului”, literalmente. Metzudat David subliniază ironia detaliului final: meșterul care modelează „dumnezeul” devine el însuși, în timpul lucrului, slab, înfometat și vlăguit — cel care are nevoie de hrană și apă ca să supraviețuiască pretinde să dea naștere unei ființe pretins atotputernice."
+     },
+     {
+      "t": " își face unealta și lucrează cu cărbune și făurește cu lovituri de ciocan, îl modelează cu toată puterea brațului său; chiar dacă flămânzește sau nu are putere, nu bea apă și vlăguiește."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חָרַשׁ בַּרְזֶל מַעֲצָד...",
+      "translation": "„Un fierar își face unealta...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι ὤξυνε τέκτων σίδηρον, σκεπάρνῳ εἰργάσατο αὐτὸ καὶ ἐν τερέτρῳ ἔστησεν αὐτό, εἰργάσατο αὐτὸ ἐν τῷ βραχίονι τῆς ἰσχύος αὐτοῦ· καὶ πεινάσει καὶ ἀσθενήσει καὶ οὐ μὴ πίῃ ὕδωρ.",
+      "greek": true,
+      "translation": "„Căci meșterul a ascuțit fierul, l-a lucrat cu securea și l-a fixat cu sfredelul, l-a lucrat cu brațul puterii sale; și va flămânzi și va slăbi și nu va bea apă.”",
+      "note": "Corespondență generală cu Textul Masoretic, cu unelte specifice redate diferit (securea/sfredelul grecesc versus ciocanul ebraic)."
+     }
+    ],
+    "refs": [
+     "Isaia 40:19",
+     "Isaia 41:6,7",
+     "Isaia 46:6,7",
+     "Exod 32:4,8",
+     "Ieremia 10:3-11",
+     "Habacuc 2:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi explică termenii tehnici: „maatzad” — una din uneltele fierarilor; „bapeham” — cărbunele (glosat în franceza veche „carbon”); „uvamakavot” — ciocanele (glosat „martel”); „yitzrehu” — de la rădăcina „ciur/formă”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "Meșterul de fier face un topor și lucrează cu cărbuni, îl modelează cu ciocanele, punând toată puterea brațului în lucrare — chiar dacă flămânzește, nu-și lasă lucrul, iar dacă însetează și n-a băut apă, ajunge vlăguit dintr-o dată — cu atât mai mult lucrarea lui n-are nicio putere să ajute pe altcineva."
+     }
+    ]
+   },
+   {
+    "v": "44:13",
+    "t": "Un tâmplar își întinde linia, își însemnează forma cu cretă, rindeluiește și o marchează cu compasul; o face în formă de bărbat, de om în splendoarea sa, de așezat în casă.",
+    "heb": "חָרַשׁ עֵצִים נָטָה קָו יְתָאֲרֵהוּ בַשֶּׂרֶד יַעֲשֵׂהוּ בַּמַּקְצֻעוֹת וּבַמְּחוּגָה יְתָאֳרֵהוּ וַיַּעֲשֵׂהוּ כְּתַבְנִית אִישׁ כְּתִפְאֶרֶת אָדָם לָשֶׁבֶת בָּיִת׃",
+    "translit": "Haraș etzim nata kav yetaarehu vasered yaasehu bamaketzot uvamehuga yetaorehu vayaasehu ketavnit iș ketiferet adam lașevet bayit.",
+    "tokens": [
+     {
+      "t": "Un tâmplar își întinde linia, își însemnează forma cu cretă, rindeluiește și o marchează cu compasul; o face în formă de bărbat, de om în "
+     },
+     {
+      "t": "splendoarea",
+      "w": "splendoarea",
+      "heb": "תִפְאֶרֶת",
+      "translit": "tiferet",
+      "strong": "H8597",
+      "pos": "substantiv, feminin singular construct",
+      "def_ro": "podoaba, frumusețea, splendoarea.",
+      "dict_ro": "Tiferet — Metzudat David citește aici „tiferet adam” (splendoarea omului) ca referire la femeie — „ea este podoaba bărbatului ei” — meșterul dând idolului forma cea mai frumoasă cunoscută lui, aceea a chipului omenesc idealizat, ca să fie potrivit de stat în casă."
+     },
+     {
+      "t": " sa, de așezat în casă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חָרַשׁ עֵצִים נָטָה קָו...",
+      "translation": "„Un tâmplar își întinde linia...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐκλεξάμενος τέκτων ξύλον ἔστησεν αὐτὸ ἐν μέτρῳ καὶ ἐν κόλλῃ ἐρρύθμισεν αὐτὸ καὶ ἐποίησεν αὐτὸ ὡς μορφὴν ἀνδρὸς καὶ ὡς ὡραιότητα ἀνθρώπου στῆσαι αὐτὸ ἐν οἴκῳ.",
+      "greek": true,
+      "translation": "„Alegând lemnul, tâmplarul l-a măsurat și l-a potrivit cu clei și l-a făcut în chip de bărbat și ca frumusețea omului, ca să-l așeze în casă.”",
+      "note": "Divergență reală: Textul Masoretic menționează măsurarea cu „compasul” (mehuga) pentru forme rotunjite, pe când Septuaginta vorbește despre fixarea cu „clei” (κόλλῃ) — instrumente și tehnici de lucru redate diferit între cele două tradiții textuale."
+     }
+    ],
+    "refs": [
+     "Exod 20:4,5",
+     "Deuteronom 4:16-18",
+     "Romani 1:23",
+     "Geneza 31:19",
+     "Judecători 17:4,5",
+     "Ezechiel 8:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi detaliază uneltele tâmplarului: „netiat kav” — după obiceiul tâmplarilor, cu firul întins; „yetaarehu vasered” — îl netezește cu fierăstrăul; „bamaketzot” — îl șlefuiește cu rindeaua și dalta, tradus de Targum Ionatan „izmelaya”; „uvamehuga” — dacă vrea să facă forme rotunde, îl învârte cu compasul."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ktiferet adam” — aceasta este femeia, care e podoaba soțului ei; iar întreaga muncă arată că omul n-a făcut niciodată idolul ca să stea în casă din alt motiv decât ca să-l vadă frumos, ca pe un chip de om."
+     }
+    ]
+   },
+   {
+    "v": "44:14",
+    "t": "Taie el însuși cedri, ia gorun și stejar și-i întărește cu copaci din pădure; plantează un pin, iar ploaia îl face să crească.",
+    "heb": "לִכְרָת־לוֹ אֲרָזִים וַיִּקַּח תִּרְזָה וְאַלּוֹן וַיְאַמֶּץ־לוֹ בַּעֲצֵי־יָעַר נָטַע אֹרֶן וְגֶשֶׁם יְגַדֵּל׃",
+    "translit": "Lichrot-lo arazim vayikah tirza vealon veyametz-lo baatzei-yaar nata oren vageșem yegadel.",
+    "tokens": [
+     {
+      "t": "Taie el însuși cedri, ia gorun și stejar și-i întărește cu copaci din pădure; "
+     },
+     {
+      "t": "plantează",
+      "w": "plantează",
+      "heb": "נָטַע",
+      "translit": "nata",
+      "strong": "H5193",
+      "pos": "verb, qal perfect, persoana a III-a singular",
+      "def_ro": "a sădit, a plantat.",
+      "dict_ro": "Nata — Metzudat David observă aici o ironie suplimentară, dincolo de tăierea copacilor deja crescuți: unii meșteri merg mai departe și plantează chiar ei un pui de pin anume pentru acest scop, așteptând ani de zile să crească — o investiție de efort și timp cu atât mai absurdă, dată fiind ținta finală."
+     },
+     {
+      "t": " un pin, iar ploaia îl face să crească."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לִכְרָת־לוֹ אֲרָזִים...",
+      "translation": "„Taie el însuși cedri...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἔκοψε ξύλον ἐκ τοῦ δρυμοῦ, ὃ ἐφύτευσε Κύριος καὶ ὑετὸς ἐμήκυνεν.",
+      "greek": true,
+      "translation": "„A tăiat lemn din pădure, pe care l-a sădit Domnul și ploaia l-a făcut să crească.”",
+      "note": "Divergență teologică reală și semnificativă: Textul Masoretic atribuie plantarea copacului meșterului însuși („nata” — el a plantat), pe când Septuaginta face din DOMNUL subiectul plantării („ὃ ἐφύτευσε Κύριος” — pe care l-a sădit Domnul) — o schimbare care adaugă o ironie suplimentară textului grecesc: chiar copacul din care omul își face idolul a fost sădit de adevăratul Dumnezeu."
+     }
+    ],
+    "refs": [
+     "Isaia 40:20",
+     "Ieremia 10:3-8",
+     "Osea 4:12",
+     "Habacuc 2:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „tirza” și „alon” — specii de copaci sălbatici, fără rod; „îi întărește cu copaci din pădure” — le adaugă tărie, fie pentru soliditate, fie pentru frumusețe, cu specii de lemn diferite unele de altele la înfățișare."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "Mai sus s-a vorbit despre lucrarea idolului dintr-un copac deja tăiat; acum se arată că unii merg și mai departe: taie cedri, iau gorun și stejar, îi întăresc cu alți copaci — și unul chiar sădește dinadins un pin, așteptând ca ploaia să-l facă să crească, tocmai pentru acest scop."
+     }
+    ]
+   },
+   {
+    "v": "44:15",
+    "t": "El va fi [lemn de foc] omului, va lua din ei și se va încălzi, chiar va aprinde foc și va coace pâine – și apoi va face un dumnezeu căruia i se va prosterna, va face din el chip cioplit și îl va venera.",
+    "heb": "וְהָיָה לְאָדָם לְבָעֵר וַיִּקַּח מֵהֶם וַיָּחָם אַף־יַשִּׂיק וְאָפָה לָחֶם אַף־יִפְעַל־אֵל וַיִּשְׁתָּחוּ עָשָׂהוּ פֶסֶל וַיִּסְגָּד־לָמוֹ׃",
+    "translit": "Vehaya leadam levaer vayikah mehem vayacham af-yașik veafa lehem af-yifal-el vayiștahu asahu fesel vayisgad-lamo.",
+    "tokens": [
+     {
+      "t": "El va fi [lemn de foc] omului, va lua din ei și se va încălzi, chiar va aprinde foc și va coace pâine – și apoi va face un "
+     },
+     {
+      "t": "dumnezeu",
+      "w": "dumnezeu",
+      "heb": "אֵל",
+      "translit": "el",
+      "strong": "H410",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "dumnezeu, ființă divină.",
+      "dict_ro": "El — cel mai general termen semitic pentru „dumnezeu/zeitate”, aici folosit ironic pentru un obiect din același lemn cu care omul tocmai și-a copt pâinea — Isaia insistă asupra identității materiale totale între combustibilul banal și obiectul de cult, distrugând orice pretenție de sacralitate intrinsecă a materiei."
+     },
+     {
+      "t": " căruia i se va prosterna, va face din el chip cioplit și îl va venera."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה לְאָדָם לְבָעֵר...",
+      "translation": "„El va fi [lemn de foc] omului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἵνα ᾖ ἀνθρώποις εἰς καῦσιν· καὶ λαβὼν ἀπ᾿ αὐτοῦ ἐθερμάνθη, καὶ καύσαντες ἔπεψαν ἄρτους ἐπ᾿ αὐτῶν, τὸ δὲ λοιπὸν εἰργάσαντο θεούς, καὶ προσκυνοῦσιν αὐτοῖς.",
+      "greek": true,
+      "translation": "„Ca să fie oamenilor spre ardere; și luând din el s-a încălzit, și arzând au copt pâini pe ele, iar restul l-au lucrat în dumnezei, și li se închină lor.”",
+      "note": "Divergență de număr: Textul Masoretic vorbește la singular despre „un dumnezeu” (el) făcut de un singur om, pe când Septuaginta pluralizează în „dumnezei” (θεούς) cărora „li se închină” la plural — o generalizare a practicii idolatre de la un caz individual la o practică colectivă."
+     }
+    ],
+    "refs": [
+     "Isaia 44:10",
+     "Isaia 45:20",
+     "Judecători 2:19",
+     "2 Cronici 25:14",
+     "Apocalipsa 9:20"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: acel lemn „va fi pentru om spre a-l arde” — din el va lua omul și se va încălzi la foc, chiar va aprinde din el cuptorul și va coace pâine; „af-yifal-el” — și din ce a rămas [dincolo de ce a folosit ca lemn de foc]."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "Din același copac, o parte va fi folosită de om ca lemn de foc — va lua din el, se va încălzi, va aprinde cuptorul și va coace pâine cu el — iar din rest va face un dumnezeu, i se va prosterna, îl va face chip cioplit și i se va închina."
+     }
+    ]
+   },
+   {
+    "v": "44:16",
+    "t": "Jumătate din el îl arde în foc, cu jumătate gătește carne să mănânce, frigând-o și săturându-se; se și încălzește și spune: „Ah, m-am încălzit, mă bucur de foc!”",
+    "heb": "חֶצְיוֹ שָׂרַף בְּמוֹ־אֵשׁ עַל־חֶצְיוֹ בָּשָׂר יֹאכֵל יִצְלֶה צָלִי וְיִשְׂבָּע אַף־יָחֹם וְיֹאמַר הֶאָח חַמּוֹתִי רָאִיתִי אוּר׃",
+    "translit": "Hetzio saraf bemo-eș al-hetzio basar yochel yitzle tzali veyisba af-yahom veyomar heah hamoti raiti ur.",
+    "tokens": [
+     {
+      "t": "Jumătate din el îl arde în foc, cu jumătate gătește carne să mănânce, frigând-o și săturându-se; se și încălzește și spune: „Ah, "
+     },
+     {
+      "t": "m-am încălzit",
+      "w": "m-am încălzit",
+      "heb": "חַמּוֹתִי",
+      "translit": "hamoti",
+      "strong": "H2552",
+      "pos": "verb, qal perfect, persoana I singular",
+      "def_ro": "m-am încălzit.",
+      "dict_ro": "Ham — verb comun, banal, descriind pur și simplu senzația fizică de căldură lângă foc; forța retorică a versetului stă tocmai în banalitatea absolută a exclamației — omul rostește aceleași cuvinte simple, satisfăcute, indiferent dacă lemnul care arde e destinat gătitului sau, în versetul următor, dacă restul aceluiași lemn devine „dumnezeul” lui."
+     },
+     {
+      "t": ", mă bucur de foc!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חֶצְיוֹ שָׂרַף בְּמוֹ־אֵשׁ...",
+      "translation": "„Jumătate din el îl arde în foc...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὗ τὸ ἥμισυ αὐτοῦ κατέκαυσεν ἐν πυρὶ καὶ καύσαντες ἔπεψαν ἄρτους ἐπ᾿ αὐτῶν· καὶ ἐπ᾿ αὐτοῦ κρέας ὀπτήσας ἔφαγε καὶ ἐνεπλήσθη, καὶ θερμανθεὶς εἶπεν· ἡδύ μοι ὅτι ἐθερμάνθην καὶ εἶδον πῦρ.",
+      "greek": true,
+      "translation": "„Din care jumătate a ars-o în foc și, arzând, au copt pâini pe ea; și pe ea a fript carne și a mâncat și s-a săturat, și încălzindu-se a zis: plăcut îmi este că m-am încălzit și am văzut focul.”",
+      "note": "Septuaginta adaugă explicit coacerea pâinii la acest verset (element absent aici în Textul Masoretic, unde apăruse deja la v.15/19), o dublare armonizantă între versete, probabil din tendința traducătorilor de a completa lista completă a folosințelor lemnului la fiecare menționare."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "Cu o parte din lemn arde direct focul, cu altă parte frige carne pe care o mănâncă și se satură; iar el, încălzindu-se, se bucură și spune: «Ah, m-am încălzit, mă bucur privind focul!»"
+     }
+    ]
+   },
+   {
+    "v": "44:17",
+    "t": "Iar cu restul își face un dumnezeu ca și chip cioplit, se înclină în fața lui, se prosternează și se roagă la el și spune: „Salvează-mă, căci tu ești dumnezeul meu!”",
+    "heb": "וּשְׁאֵרִיתוֹ לְאֵל עָשָׂה לְפִסְלוֹ יִסְגּוֹד־לוֹ וְיִשְׁתַּחוּ וְיִתְפַּלֵּל אֵלָיו וְיֹאמַר הַצִּילֵנִי כִּי אֵלִי אָתָּה׃",
+    "translit": "Ușeerito leel asa lefisló yisgod-lo veyiștahu veyitpalel elav veyomar hatzileni ki eli ata.",
+    "tokens": [
+     {
+      "t": "Iar cu "
+     },
+     {
+      "t": "restul",
+      "w": "restul",
+      "heb": "וּשְׁאֵרִיתוֹ",
+      "translit": "ușeerito",
+      "strong": "H7611",
+      "pos": "substantiv, feminin singular + sufix",
+      "def_ro": "rămășița lui, ce a mai rămas din el.",
+      "dict_ro": "Șeerit — „rămășița”, un cuvânt care în alte contexte profetice (Isaia 10:20-22) desemnează cu speranță „rămășița lui Israel” care va supraviețui judecății; aici, folosit despre bucata de lemn rămasă neconsumată de foc, cuvântul devine o ironie amară — „rămășița” care ar trebui să poarte speranța de mântuire devine, în chip absurd, obiectul din care e sculptat „mântuitorul” fals, căruia i se cere „salvează-mă”."
+     },
+     {
+      "t": " își face un dumnezeu ca și chip cioplit, se înclină în fața lui, se prosternează și se roagă la el și spune: „Salvează-mă, căci tu ești dumnezeul meu!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּשְׁאֵרִיתוֹ לְאֵל עָשָׂה...",
+      "translation": "„Iar cu restul își face un dumnezeu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τὸ δὲ λοιπὸν ἐποίησεν εἰς θεὸν γλυπτὸν καὶ προσκυνεῖ αὐτῷ καὶ προσεύχεται λέγων· ἐξελοῦ με, ὅτι θεός μου εἶ σύ.",
+      "greek": true,
+      "translation": "„Iar din rest a făcut dumnezeu cioplit și i se închină și se roagă lui, zicând: izbăvește-mă, căci dumnezeul meu ești tu.”",
+      "note": "Corespondență apropiată cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 36:19,20",
+     "Isaia 37:38",
+     "Daniel 3:17,29",
+     "Daniel 6:16,20-22,27"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Din ce a mai rămas din lemn, face un dumnezeu — își face din el un chip cioplit — se prosternează în fața lui, se roagă la el și spune: «Salvează-mă, căci tu ești dumnezeul meu.»”"
+     }
+    ]
+   },
+   {
+    "v": "44:18",
+    "t": "Ei nu știu și nu înțeleg; un văl le acoperă ochii ca să nu vadă și inimile ca să nu priceapă.",
+    "heb": "לֹא יָדְעוּ וְלֹא יָבִינוּ כִּי טַח מֵרְאוֹת עֵינֵיהֶם מֵהַשְׂכִּיל לִבֹּתָם׃",
+    "translit": "Lo yadeu velo yavinu ki tah meroot eineihem mehaskil libotam.",
+    "tokens": [
+     {
+      "t": "Ei nu știu și nu înțeleg; un "
+     },
+     {
+      "t": "văl",
+      "w": "văl",
+      "heb": "טַח",
+      "translit": "tah",
+      "strong": "H2902",
+      "pos": "verb, qal perfect, persoana a III-a singular",
+      "def_ro": "e tencuit, e lipit, e astupat.",
+      "dict_ro": "Tah — de la rădăcina „a tencui/a lipi” (aceeași folosită pentru tencuirea unui zid), o imagine puternică: nu e vorba de o simplă lipsă de vedere, ci de o acoperire activă, ca un strat de tencuială lipit peste ochi, care blochează complet percepția. Metzudat David atribuie această orbire înclinației spre rău (yetzer hara) din inima omului, care „tencuiește” singură ochii de la a vedea adevărul."
+     },
+     {
+      "t": " le acoperă ochii ca să nu vadă și inimile ca să nu priceapă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לֹא יָדְעוּ וְלֹא יָבִינוּ...",
+      "translation": "„Ei nu știu și nu înțeleg...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐκ ἔγνωσαν φρονῆσαι, ὅτι ἀπημαυρώθησαν τοῦ βλέπειν τοῖς ὀφθαλμοῖς αὐτῶν καὶ τοῦ νοῆσαι τῇ καρδίᾳ αὐτῶν.",
+      "greek": true,
+      "translation": "„N-au cunoscut ca să priceapă, căci li s-au întunecat ochii ca să nu vadă și inima ca să nu înțeleagă.”",
+      "note": "Corespondență de sens cu Textul Masoretic, cu o nuanță diferită de imagine: LXX vorbește despre „întunecare” (ἀπημαυρώθησαν), Textul Masoretic despre o acoperire/tencuire fizică a ochilor (tah)."
+     }
+    ],
+    "refs": [
+     "Isaia 6:10",
+     "Matei 13:14,15",
+     "Romani 11:8",
+     "2 Corinteni 4:4",
+     "Ioan 12:39,40",
+     "Isaia 29:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Nu au nici cunoștință, nici înțelegere — înclinația rea [yetzer hara] care îi ademenește le-a tencuit ochii ca să nu vadă și inimile ca să nu priceapă.”"
+     }
+    ]
+   },
+   {
+    "v": "44:19",
+    "t": "Niciunul nu-i dă replică propriei inimi, nu au înțelepciune sau discernământ să-și spună: „Am ars în foc jumătate din el și am copt pâine pe cărbunii lui, am fript carne și am mâncat-o – pot oare să fac o oroare din restul [lemnului], pot oare să mă prosternez la ramura unui copac?”",
+    "heb": "וְלֹא־יָשִׁיב אֶל־לִבּוֹ וְלֹא דַעַת וְלֹא־תְבוּנָה לֵאמֹר חֶצְיוֹ שָׂרַפְתִּי בְמוֹ־אֵשׁ וְאַף אָפִיתִי עַל־גֶּחָלָיו לֶחֶם אֶצְלֶה בָשָׂר וְאֹכֵל וְיִתְרוֹ לְתוֹעֵבָה אֶעֱשֶׂה לְבוּל עֵץ אֶסְגּוֹד׃",
+    "translit": "Velo-yașiv el-libo velo daat velo-tevuna lemor hetzio sarafeti vemó-eș veaf afiti al-gehalav lehem etzle basar veochel veyitro letoeva eese levul etz esgod.",
+    "tokens": [
+     {
+      "t": "Niciunul nu-i dă replică propriei inimi, nu au înțelepciune sau discernământ să-și spună: „Am ars în foc jumătate din el și am copt pâine pe cărbunii lui, am fript carne și am mâncat-o – pot oare să fac o "
+     },
+     {
+      "t": "oroare",
+      "w": "oroare",
+      "heb": "לְתוֹעֵבָה",
+      "translit": "letoeva",
+      "strong": "H8441",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "urâciune, lucru dezgustător ritual.",
+      "dict_ro": "Toeva — termenul tehnic pentru „urâciune” folosit constant în Tora pentru practicile idolatre și ritualurile interzise (cf. Deuteronom 7:25-26). Ironia versetului e maximă aici: bucata de lemn deja identificată, fără ambiguitate, ca fiind aceeași cu cea folosită pentru gătit — recunoscută de omul însuși ca material banal — devine totuși, prin propria lui alegere absurdă, obiectul unei „urâciuni” pe care el singur o creează și i se închină."
+     },
+     {
+      "t": " din restul [lemnului], pot oare să mă prosternez la ramura unui copac?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְלֹא־יָשִׁיב אֶל־לִבּוֹ...",
+      "translation": "„Niciunul nu-i dă replică propriei inimi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οὐκ ἐλογίσατο τῇ καρδίᾳ αὐτοῦ οὐδὲ ἀνελογίσατο ἐν τῇ ψυχῇ αὐτοῦ οὐδὲ ἔγνω τῇ φρονήσει, ὅτι τὸ ἥμισυ αὐτοῦ κατέκαυσεν ἐν πυρὶ καὶ ἔπεψεν ἐπὶ τῶν ἀνθράκων αὐτοῦ ἄρτους καὶ ὀπτήσας κρέα ἔφαγε καὶ τὸ λοιπὸν αὐτοῦ εἰς βδέλυγμα ἐποίησε καὶ προσκυνοῦσιν αὐτῷ.",
+      "greek": true,
+      "translation": "„Și nu a cugetat în inima lui, nici n-a socotit în sufletul lui, nici n-a cunoscut cu mintea, că jumătate din el l-a ars în foc și a copt pâini pe cărbunii lui și a fript și a mâncat carne, iar din rest a făcut urâciune și i se închină.”",
+      "note": "Corespondență apropiată de sens; Septuaginta redă tot la persoana a III-a narativă, unde Textul Masoretic trece la vorbire directă («am ars», «am copt») în interiorul citatului ipotetic al gândului nerostit."
+     }
+    ],
+    "refs": [
+     "Isaia 46:8",
+     "Deuteronom 27:15",
+     "1 Regi 11:5,7",
+     "2 Regi 23:13",
+     "Hagai 1:5",
+     "Osea 7:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „nu-i dă replică inimii lui” [să spună]: «jumătate din el l-am ars în foc»; „nu are nici cunoștință, nici discernământ” să spună acest lucru; „levul etz” — spre putrezirea lemnului mă prosternez."
+     }
+    ]
+   },
+   {
+    "v": "44:20",
+    "t": "Păstorul lor este doar cenușă, inima lui înșelătoare l-a condus greșit; nici măcar nu se poate salva, dar totuși nu spune: „Ce țin în mâna mea dreaptă este o minciună!”",
+    "heb": "רֹעֶה אֵפֶר לֵב הוּתַל הִטָּהוּ וְלֹא־יַצִּיל אֶת־נַפְשׁוֹ וְלֹא יֹאמַר הֲלוֹא שֶׁקֶר בִּימִינִי׃",
+    "translit": "Roe efer lev hutal hitahu velo-yatzil et-nafșo velo yomar halo șeker bimini.",
+    "tokens": [
+     {
+      "t": "Păstorul lor este doar "
+     },
+     {
+      "t": "cenușă",
+      "w": "cenușă",
+      "heb": "אֵפֶר",
+      "translit": "efer",
+      "strong": "H665",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "cenușă.",
+      "dict_ro": "Efer — cenușa, ceea ce rămâne după arderea completă a jumătății de lemn (v.16,19). Rashi oferă o a doua lectură pentru „roe efer” („păstor de cenușă”): nu doar „păstorul lui e cenușă”, ci o joacă de cuvinte pe rădăcina „reut” (tovărășie/asociere) — omul „se asociază cu” lucrarea altora, adunând la sine o slujire care nu e decât cenușă."
+     },
+     {
+      "t": " lor este doar cenușă, inima lui înșelătoare l-a condus greșit; nici măcar nu se poate salva, dar totuși nu spune: „Ce țin în mâna mea dreaptă este o minciună!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "רֹעֶה אֵפֶר לֵב הוּתַל הִטָּהוּ...",
+      "translation": "„Păstorul lor este doar cenușă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "γνῶθι ὅτι σποδὸς ἡ καρδία αὐτῶν, καὶ πλανῶνται, καὶ οὐδεὶς δύναται ἐξελέσθαι τὴν ψυχὴν αὐτοῦ· ἴδετε, οὐκ ἐρεῖτε ὅτι ψεῦδος ἐν τῇ δεξιᾷ μου;",
+      "greek": true,
+      "translation": "„Cunoaște că inima lor este cenușă, și se rătăcesc, și nimeni nu-și poate izbăvi sufletul; vedeți, nu veți zice: oare nu e minciună în dreapta mea?”",
+      "note": "Divergență reală de subiect: Textul Masoretic vorbește despre „păstorul” (roe) ca fiind cenușă, o imagine despre idolul-păstor fals; Septuaginta mută accentul direct pe „inima lor” (ἡ καρδία αὐτῶν) ca fiind cenușă — deplasând imaginea de la obiectul închinat la starea internă a închinătorului."
+     }
+    ],
+    "refs": [
+     "Osea 12:1",
+     "Iov 15:31",
+     "Romani 1:21,22,28",
+     "2 Tesaloniceni 2:11",
+     "Isaia 28:15-17",
+     "Ieremia 16:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „inima lui înșelătoare” — nebunul acesta credea că are un păstor și un purtător de grijă [în idol]; altă interpretare: „roe efer” din rădăcina „reut” (tovărășie) — slujește lucrarea altora și adună la sine slujirea altora, care e doar cenușă."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nici măcar sufletul propriu nu și-l poate salva, rătăcitul, ca să spună: «oare nu-i minciună ce țin în dreapta mea?» — și să se despartă de idol.”"
+     }
+    ]
+   },
+   {
+    "v": "44:21",
+    "t": "Amintește-ți de aceasta, Iacov și Israel, căci tu ești slujitorul Meu – te-am făurit să fii slujitorul Meu – Israele, nu mă uita!",
+    "heb": "זְכָר־אֵלֶּה יַעֲקֹב וְיִשְׂרָאֵל כִּי עַבְדִּי־אָתָּה יְצַרְתִּיךָ עֶבֶד־לִי אַתָּה יִשְׂרָאֵל לֹא תִנָּשֵׁנִי׃",
+    "translit": "Zehor-ele Iaakov veIsraël ki avdi-ata yetzarticha eved-li ata Israël lo tinașeni.",
+    "tokens": [
+     {
+      "t": "Amintește-ți de aceasta, Iacov și Israel, căci tu ești slujitorul Meu – te-am făurit să fii slujitorul Meu – Israele, nu mă "
+     },
+     {
+      "t": "uita",
+      "w": "uita",
+      "heb": "תִנָּשֵׁנִי",
+      "translit": "tinașeni",
+      "strong": "H5382",
+      "pos": "verb, nifal imperfect, persoana a II-a + sufix",
+      "def_ro": "nu Mă vei uita, nu vei fi uitat de Mine.",
+      "dict_ro": "Nașa — verbul „a uita”, aici la o formă nifal ambiguă gramatical, pe care Rashi o citește ca „nu vei fi uitat de frica Mea” — nu doar un îndemn pasiv de a nu uita, ci o asigurare că legătura poporului cu DOMNUL nu se va stinge din memorie, oricât ar fi ea amenințată de idolatria descrisă anterior."
+     },
+     {
+      "t": "!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "זְכָר־אֵלֶּה יַעֲקֹב וְיִשְׂרָאֵל...",
+      "translation": "„Amintește-ți de aceasta, Iacov și Israel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Μνήσθητι ταῦτα Ἰακὼβ καὶ Ἰσραήλ, ὅτι παῖς μου εἶ σύ· ἔπλασά σε παῖδά μου, καὶ σὺ Ἰσραὴλ μὴ ἐπιλανθάνου μου.",
+      "greek": true,
+      "translation": "„Adu-ți aminte de acestea, Iacove și Israele, căci slujitorul Meu ești tu; te-am plăsmuit slujitorul Meu, și tu, Israele, nu Mă uita.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 44:1,2",
+     "Deuteronom 4:9",
+     "Deuteronom 32:18",
+     "Isaia 49:15,16",
+     "Romani 11:28,29",
+     "Isaia 41:8,9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „nu vei fi uitat” de frica Mea."
+     }
+    ]
+   },
+   {
+    "v": "44:22",
+    "t": "Am șters păcatele tale ca o negură și greșelile tale ca un nor. Întoarce-te la Mine, căci te-am răscumpărat.",
+    "heb": "מָחִיתִי כֶעָב פְּשָׁעֶיךָ וְכֶעָנָן חַטֹּאותֶיךָ שׁוּבָה אֵלַי כִּי גְאַלְתִּיךָ׃",
+    "translit": "Mahiti cheav peșaeha vecheanan hatoteha șuva elai ki gealticha.",
+    "tokens": [
+     {
+      "t": "Am șters păcatele tale ca o negură și greșelile tale ca un nor. "
+     },
+     {
+      "t": "Întoarce-te",
+      "w": "Întoarce-te",
+      "heb": "שׁוּבָה",
+      "translit": "șuva",
+      "strong": "H7725",
+      "pos": "verb, qal imperativ, persoana a II-a singular",
+      "def_ro": "întoarce-te, revino.",
+      "dict_ro": "Șuv — rădăcina din care vine și „teșuva” (pocăința/întoarcerea), termenul central al teologiei biblice a pocăinței. Ordinea logică a versetului e semnificativă: iertarea („am șters”) precede chemarea la întoarcere, nu invers — DOMNUL nu așteaptă pocăința ca precondiție a iertării, ci anunță întâi iertarea deja înfăptuită, ca temei și motivație pentru întoarcere."
+     },
+     {
+      "t": " la Mine, căci te-am răscumpărat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מָחִיתִי כֶעָב פְּשָׁעֶיךָ...",
+      "translation": "„Am șters păcatele tale ca o negură...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἰδοὺ γὰρ ἀπήλειψα ὡς νεφέλην τὰς ἀνομίας σου καὶ ὡς γνόφον τὰς ἁμαρτίας σου· ἐπιστράφηθι πρός με, καὶ λυτρώσομαί σε.",
+      "greek": true,
+      "translation": "„Căci iată, am șters ca un nor nelegiuirile tale și ca o negură păcatele tale; întoarce-te la Mine, și te voi răscumpăra.”",
+      "note": "Divergență de timp verbal reală: Textul Masoretic are „te-am răscumpărat” (gealticha, perfect — răscumpărarea deja înfăptuită), pe când Septuaginta are „λυτρώσομαί σε” (viitor — «te voi răscumpăra») — o schimbare temporală care mută promisiunea răscumpărării din trecutul deja asigurat spre un viitor condiționat de întoarcere."
+     }
+    ],
+    "refs": [
+     "Isaia 43:25",
+     "Psalmul 103:12",
+     "Mica 7:19",
+     "Ieremia 3:12-14",
+     "Osea 14:1-4",
+     "Faptele Apostolilor 3:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi leagă acest verset de v.24: „am șters ca o negură” — [păcatele săvârșite] în Egipt și în pustie; „întoarce-te la Mine” — chiar și acum."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Dintotdeauna am șters păcatele tale ca acest nor care se șterge cu apa — de aceea, întoarce-te la Mine, căci Eu sunt Cel care te răscumpără.”"
+     }
+    ]
+   },
+   {
+    "v": "44:23",
+    "t": "Cântați cântare veselă, cerurilor, pentru ce a făcut DOMNUL! Strigă, miez al pământului! Izbucniți, munților, în cântec vesel, pădure și fiecare copac din ea! Căci DOMNUL l-a răscumpărat pe Iacov, și în Israel va fi slăvit.",
+    "heb": "רָנּוּ שָׁמַיִם כִּי־עָשָׂה יְהוָה הָרִיעוּ תַּחְתִּיּוֹת אָרֶץ פִּצְחוּ הָרִים רִנָּה יַעַר וְכָל־עֵץ בּוֹ כִּי־גָאַל יְהוָה יַעֲקֹב וּבְיִשְׂרָאֵל יִתְפָּאָר׃",
+    "translit": "Ranu șamayim ki-asa ADONAI hariu tahtiyot aretz pitzhu harim rina yaar vechol-etz bo ki-gaal ADONAI Iaakov uveIsraël yitpaar.",
+    "tokens": [
+     {
+      "t": "Cântați cântare veselă, cerurilor, pentru ce a făcut DOMNUL! Strigă, miez al pământului! "
+     },
+     {
+      "t": "Izbucniți",
+      "w": "Izbucniți",
+      "heb": "פִּצְחוּ",
+      "translit": "pitzhu",
+      "strong": "H6476",
+      "pos": "verb, qal imperativ, persoana a II-a plural",
+      "def_ro": "izbucniți, spargeți tăcerea.",
+      "dict_ro": "Patzah — verbul descrie o izbucnire bruscă, ca o deschidere forțată (aceeași rădăcină apare pentru „a deschide gura larg” la Judecători 11:35-36) — nu o simplă bucurie liniștită, ci o erupție copleșitoare, care implică deopotrivă cerurile, adâncurile pământului, munții și pădurea într-un cor cosmic al răscumpărării — natura însăși devine martoră și participantă la eliberarea lui Iacov."
+     },
+     {
+      "t": ", munților, în cântec vesel, pădure și fiecare copac din ea! Căci DOMNUL l-a răscumpărat pe Iacov, și în Israel va fi slăvit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "רָנּוּ שָׁמַיִם כִּי־עָשָׂה יְהוָה...",
+      "translation": "„Cântați cântare veselă, cerurilor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "εὐφράνθητε, οὐρανοί, ὅτι ἠλέησεν ὁ Θεός τὸν Ἰσραήλ· σαλπίσατε, τὰ θεμέλια τῆς γῆς, βοήσατε, ὄρη, εὐφροσύνην, οἱ βουνοὶ καὶ πάντα τὰ ξύλα τὰ ἐν αὐτοῖς, ὅτι ἐλυτρώσατο ὁ Θεὸς τὸν Ἰακώβ, καὶ Ἰσραὴλ δοξασθήσεται.",
+      "greek": true,
+      "translation": "„Veseliți-vă, ceruri, căci Dumnezeu a avut milă de Israel; trâmbițați, temelii ale pământului, strigați, munților, de veselie, dealurilor și tuturor copacilor de pe ele, căci Dumnezeu l-a răscumpărat pe Iacov, și Israel va fi slăvit.”",
+      "note": "Divergență reală: acolo unde Textul Masoretic are „ki-asa ADONAI” („căci DOMNUL a lucrat/a făcut [aceasta]”, fără obiect explicit), Septuaginta precizează „ὅτι ἠλέησεν ὁ Θεός τὸν Ἰσραήλ” („căci Dumnezeu a avut milă de Israel”) — o completare interpretativă explicită a obiectului acțiunii divine, absentă din formularea ebraică mai laconică."
+     }
+    ],
+    "refs": [
+     "Psalmul 96:11,12",
+     "Psalmul 98:7,8",
+     "Isaia 49:13",
+     "Isaia 55:12,13",
+     "Isaia 42:10-12",
+     "Efeseni 1:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Ranu șamayim” — e o figură de stil, arătând bucuria mare care va fi în lume; „tahtiyot aretz” — punctul median al globului pământesc; „yaar” — locul unde stau copacii; „uveIsraël yitpaar” — prin răscumpărarea lui Israel, El va fi slăvit în gura tuturor."
+     }
+    ]
    }
   ]
  }
