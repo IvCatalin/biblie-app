@@ -53936,6 +53936,1222 @@
     ]
    }
   ]
+ },
+  {
+  "num": 30,
+  "title": "Haftarat Tazria",
+  "ref": "Regi II 4:42-5:19",
+  "intro": "Haftarat Tazria însoțește pericopa în care Tora descrie țaraat — boala de piele numită îndeobște lepră — și ritualul de declarare a leprosului curat sau necurat. Haftara aduce același subiect în mijlocul istoriei: Naaman, generalul victorios al Aramului, om mare, onorat și erou, este totuși lepros. Vindecarea lui nu vine prin daruri scumpe, scrisori regale sau un ritual spectaculos, ci prin ascultarea de un cuvânt simplu al profetului Elișa — cufundarea de șapte ori în Iordan —, la sfatul unei sclave captive și al propriilor slujitori. Naaman iese din apă cu trupul ca al unui copil mic și mărturisește că nu există Dumnezeu pe tot pământul decât în Israel. Haftara începe cu o minune mai mică, dar de același tipar: douăzeci de pâini de orz care, după cuvântul DOMNULUI, hrănesc o sută de oameni, ba mai și rămâne din ele.",
+  "verses": [
+   {
+    "v": "4:42",
+    "t": "Și a venit un om din Baal-Șalișa și a adus la omul lui Dumnezeu mâncare din primele roade: douăzeci de franzele de pâine de orz și spice proaspete de grâu cu pleava lor. [Elișa] i-a spus: „Dă-le poporului să le mănânce.”",
+    "heb": "וְאִישׁ בָּא מִבַּעַל שָׁלִשָׁה וַיָּבֵא לְאִישׁ הָאֱלֹהִים לֶחֶם בִּכּוּרִים עֶשְׂרִים־לֶחֶם שְׂעֹרִים וְכַרְמֶל בְּצִקְלֹנוֹ וַיֹּאמֶר תֵּן לָעָם וְיֹאכֵלוּ׃",
+    "translit": "Veiș ba miBaal Șalișa vaiave leiș haElohim lehem bikurim esrim-lehem seorim veharmel betziclono vaiomer ten laam veiochelu.",
+    "tokens": [
+     {
+      "t": "Și a venit un om din Baal-Șalișa și a adus la omul lui Dumnezeu mâncare din "
+     },
+     {
+      "t": "primele roade",
+      "w": "primele roade",
+      "heb": "בִּכּוּרִים",
+      "translit": "bikurim",
+      "strong": "H1061",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "primele roade, pârga recoltei.",
+      "dict_ro": "Bikurim — „cele dintâi coapte”, rădăcina bakhar („a se coace devreme, a fi întâi-născut”); de obicei termenul desemnează ofranda pârgii adusă la Templu (Exod 23:16), dar aici e vorba de pâine din prima recoltă — Rashi notează că era în timpul lui Pesah, când se coace orzul. Talmudul (Sanhedrin 12a) deduce din acest verset că, deși Baal-Șalișa era locul unde roadele se coceau cel mai repede în toată Țara, doar orzul ajunsese la maturitate — deci anul ar fi trebuit prelungit cu o lună, iar Elișa nu l-a prelungit numai din cauza foametei."
+     },
+     {
+      "t": ": douăzeci de franzele de pâine de orz și spice proaspete de grâu cu pleava lor. [Elișa] i-a spus: „Dă-le poporului să le mănânce.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאִישׁ בָּא מִבַּעַל שָׁלִשָׁה...",
+      "translation": "„Și a venit un om din...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνὴρ διῆλθεν ἐκ Βαιθσαρισὰ καὶ ἤνεγκε πρὸς τὸν ἄνθρωπον τοῦ Θεοῦ πρωτογεννημάτων εἴκοσιν ἄρτους κριθίνους καὶ παλάθας, καὶ εἶπε· δότε τῷ λαῷ καὶ ἐσθιέτωσαν.",
+      "greek": true,
+      "translation": "„Și un om a trecut din Baitsarisa și a adus omului lui Dumnezeu, din pârgă, douăzeci de pâini de orz și turte de smochine, și a zis: dați poporului și să mănânce.”",
+      "note": "Septuaginta redă numele locului ca „Baitsarisa” și înlocuiește „spice proaspete de grâu cu pleava lor” (karmel betziklono) prin „turte de smochine” (παλάθας) — o divergență reală de conținut; în plus, porunca e pusă la plural („dați”), nu la singular."
+     }
+    ],
+    "refs": [
+     "1 Samuel 9:4,7",
+     "2 Regi 4:38",
+     "Exod 23:16",
+     "Deuteronom 26:2-10",
+     "Proverbe 3:9,10",
+     "Ioan 6:9,13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „din Baal-Șalișa” — numele unui ținut; Targum Ionatan însă traduce „din țara de spre miazăzi”, căci „baal” înseamnă câmpie. „Pâine din primele roade” — era în timpul lui Pesah, când se coace orzul. „Betziklono” — în învelișul lui. „Dă poporului” — ucenicilor [profeților], pe care îi întreținea."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "Pâine făcută din prima recoltă — douăzeci [de pâini], făcute din soiuri de orz; iar „karmel betziklono” sunt spice moi și pline, ca și cum ar fi fost încă în pleava lor."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 12a",
+      "text": "Rabi [Iehuda HaNasi] spune: nu există în toată Țara Israelului loc în care roadele să se coacă mai repede decât în Baal-Șalișa, și totuși nu se copsese decât un singur soi din cele șapte, căci scrie „pâine din primele roade” — și ca nu cumva să spui că e vorba de grâu, scrie „de orz”; și ca nu cumva să spui că era înainte de aducerea omerului, scrie „dă poporului să mănânce”. Anul era deci potrivit pentru a fi prelungit — și de ce nu l-a prelungit Elișa? Pentru că era an de foamete și toți alergau la arie."
+     }
+    ]
+   },
+   {
+    "v": "4:43",
+    "t": "Slujitorul lui a spus: „Cum pot să pun aceasta înaintea a o sută de oameni?” Așa că el a spus: „Dă poporului să le mănânce, căci așa a spus DOMNUL: «Vor mânca și va mai rămâne.»”",
+    "heb": "וַיֹּאמֶר מְשָׁרְתוֹ מָה אֶתֵּן זֶה לִפְנֵי מֵאָה אִישׁ וַיֹּאמֶר תֵּן לָעָם וְיֹאכֵלוּ כִּי כֹה אָמַר יְהוָה אָכוֹל וְהוֹתֵר׃",
+    "translit": "Vaiomer meșareto ma eten ze lifnei mea iș vaiomer ten laam veiochelu ki cho amar ADONAI achol vehoter.",
+    "tokens": [
+     {
+      "t": "Slujitorul lui a spus: „Cum pot să pun aceasta înaintea a o sută de oameni?” Așa că el a spus: „Dă poporului să le mănânce, căci așa a spus DOMNUL: «Vor mânca și "
+     },
+     {
+      "t": "va mai rămâne",
+      "w": "va mai rămâne",
+      "heb": "וְהוֹתֵר",
+      "translit": "vehoter",
+      "strong": "H3498",
+      "pos": "verb, hifil, infinitiv absolut",
+      "def_ro": "a lăsa să rămână, a prisosi.",
+      "dict_ro": "Iatar — „a rămâne, a prisosi”; infinitivul absolut dublat („achol vehoter”, „a mânca și a lăsa rest”) are forța unei promisiuni categorice: nu doar că va ajunge, ci va și prisosi. Metzudat David subliniază contrastul: slujitorul vede „foarte puțin”, dar cuvântul DOMNULUI garantează îndestulare pentru toți, cu rest — tiparul pe care tradiția creștină îl recunoaște în înmulțirea pâinilor din Evanghelii (Matei 14:20)."
+     },
+     {
+      "t": ".»”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מְשָׁרְתוֹ מָה אֶתֵּן...",
+      "translation": "„Slujitorul lui a spus: „Cum pot...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ὁ λειτουργὸς αὐτοῦ· τί δῶ τοῦτο ἐνώπιον ἑκατὸν ἀνδρῶν; καὶ εἶπε· δὸς τῷ λαῷ καὶ ἐσθιέτωσαν, ὅτι τάδε λέγει Κύριος· φάγονται καὶ καταλείψουσι.",
+      "greek": true,
+      "translation": "„Și a zis slujitorul lui: cum să dau aceasta înaintea a o sută de oameni? Și a zis: dă poporului și să mănânce, căci așa zice Domnul: vor mânca și vor lăsa rest.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Matei 14:16,17",
+     "Marcu 6:37-39",
+     "Ioan 6:9",
+     "Matei 14:20",
+     "Marcu 8:20",
+     "Ioan 6:11-13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cum să pun aceasta” — adică fiecare pâine [înaintea atâtor oameni]."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cum să pun aceasta înaintea a o sută de oameni” — ca și cum ar spune: e foarte puțină [mâncare] aici. „Vor mânca și va mai rămâne” — va fi destulă hrană pentru toți și va mai și rămâne."
+     }
+    ]
+   },
+   {
+    "v": "4:44",
+    "t": "El le-a pus înaintea lor și ei au mâncat și a mai și rămas, precum spusese DOMNUL.",
+    "heb": "וַיִּתֵּן לִפְנֵיהֶם וַיֹּאכְלוּ וַיּוֹתִרוּ כִּדְבַר יְהוָה׃",
+    "translit": "Vaiten lifneihem vaiochlu vaiotiru kidvar ADONAI.",
+    "tokens": [
+     {
+      "t": "El le-a pus înaintea lor și ei au mâncat și a mai și rămas, "
+     },
+     {
+      "t": "precum spusese DOMNUL",
+      "w": "precum spusese DOMNUL",
+      "heb": "כִּדְבַר יְהוָה",
+      "translit": "kidvar ADONAI",
+      "strong": "H1697",
+      "pos": "prepoziție + substantiv, masculin singular, în construcție",
+      "def_ro": "după cuvântul DOMNULUI.",
+      "dict_ro": "Kidvar ADONAI — formula de împlinire care încheie episodul: nu puterea lui Elișa e în centru, ci cuvântul DOMNULUI rostit dinainte (v. 43) și împlinit întocmai. Aceeași construcție încheie și vindecarea lui Naaman, care urmează imediat în haftara („după cuvântul omului lui Dumnezeu”, 5:14), legând cele două minuni printr-un singur principiu: ascultarea de cuvânt aduce împlinirea."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּתֵּן לִפְנֵיהֶם וַיֹּאכְלוּ וַיּוֹתִרוּ...",
+      "translation": "„El le-a pus înaintea lor și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔφαγον καὶ κατέλιπον κατὰ τὸ ρῆμα Κυρίου.",
+      "greek": true,
+      "translation": "„Și au mâncat și au lăsat rest, după cuvântul Domnului.”",
+      "note": "Septuaginta omite fraza de deschidere „el le-a pus înaintea lor” (vayiten lifneihem) din Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "5:1",
+    "t": "Naaman, un general în oștirea regelui Aramului, era om de seamă înaintea stăpânului său, și foarte respectat, căci prin el dăduse DOMNUL biruință Aramului. El era mare luptător, [dar] era lepros.",
+    "heb": "וְנַעֲמָן שַׂר־צְבָא מֶלֶךְ־אֲרָם הָיָה אִישׁ גָּדוֹל לִפְנֵי אֲדֹנָיו וּנְשֻׂא פָנִים כִּי־בוֹ נָתַן־יְהוָה תְּשׁוּעָה לַאֲרָם וְהָאִישׁ הָיָה גִּבּוֹר חַיִל מְצֹרָע׃",
+    "translit": "VeNaaman sar-tzva meleh-Aram haia iș gadol lifnei adonav unesu fanim ki-vo natan-ADONAI teșua laAram vehaiș haia ghibor hail metzora.",
+    "tokens": [
+     {
+      "t": "Naaman, un general în oștirea regelui Aramului, era om de seamă înaintea stăpânului său, și foarte respectat, căci prin el dăduse DOMNUL biruință Aramului. El era mare luptător, [dar] era "
+     },
+     {
+      "t": "lepros",
+      "w": "lepros",
+      "heb": "מְצֹרָע",
+      "translit": "metzora",
+      "strong": "H6879",
+      "pos": "verb, pual, participiu, masculin singular",
+      "def_ro": "lovit de țaraat, lepros.",
+      "dict_ro": "Metzora — cel lovit de țaraat, boala de piele descrisă pe larg în pericopa Tazria (Levitic 13), de unde și alegerea acestei haftare. Versetul adună toate titlurile de glorie ale lui Naaman — general, om mare, onorat, erou — și le răstoarnă cu un singur cuvânt final: „lepros”. Metzudat David explică durerea din spatele cuvântului: fiind un mare luptător, Naaman dorea să iasă mereu la război, dar boala îl împiedica, și suferea din această pricină."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְנַעֲמָן שַׂר־צְבָא מֶלֶךְ־אֲרָם הָיָה...",
+      "translation": "„Naaman, un general în oștirea regelui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Καὶ Ναιμὰν ὁ ἄρχων τῆς δυνάμεως Συρίας ἦν ἀνὴρ μέγας ἐνώπιον τοῦ κυρίου αὐτοῦ καὶ τεθαυμασμένος προσώπῳ, ὅτι ἐν αὐτῷ ἔδωκε Κύριος σωτηρίαν Συρίᾳ· καὶ ὁ ἀνὴρ ἦν δυνατὸς ἰσχύϊ, λελεπρωμένος.",
+      "greek": true,
+      "translation": "„Și Naiman, căpetenia oștirii Siriei, era om mare înaintea stăpânului său și admirat la față, căci prin el dăduse Domnul mântuire Siriei; și omul era puternic în tărie, [dar] lepros.”",
+      "note": "Septuaginta redă „Aram” prin „Siria” (Συρία) și numele eroului ca „Naiman”; „biruință” (teșua) devine „mântuire” (σωτηρία) — același cuvânt grec folosit ulterior în Noul Testament."
+     }
+    ],
+    "refs": [
+     "Luca 4:27",
+     "Exod 11:3",
+     "Proverbe 21:31",
+     "Isaia 10:5,6",
+     "Levitic 13:2,3,44-46",
+     "Numeri 12:10-12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Naaman, generalul” — [Scriptura] continuă să înșire minunile care s-au făcut prin Elișa. „Biruință Aramului” — el a tras cu arcul fără țintă și l-a ucis pe Ahab."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Om de seamă” — adică prețuit înaintea lui. „Foarte respectat” — toți îl cinsteau, pentru că prin el venise biruința Aramului; iar înțelepții noștri au spus (Yalkut Șimoni) că el a tras cu arcul fără să țintească și l-a ucis pe Ahab. „Mare luptător, lepros” — ca și cum ar spune: fiind mare luptător, dorea să coboare mereu la război, dar din cauza leprei era împiedicat, și suferea din această pricină."
+     }
+    ]
+   },
+   {
+    "v": "5:2",
+    "t": "Aram ieșise la luptă în cete și luaseră prizonieră o tânără fată din țara Israelului și ea îi slujea soției lui Naaman.",
+    "heb": "וַאֲרָם יָצְאוּ גְדוּדִים וַיִּשְׁבּוּ מֵאֶרֶץ יִשְׂרָאֵל נַעֲרָה קְטַנָּה וַתְּהִי לִפְנֵי אֵשֶׁת נַעֲמָן׃",
+    "translit": "VaAram yatzu ghedudim vayișbu meereț Israël naara ketana vatehi lifnei eșet Naaman.",
+    "tokens": [
+     {
+      "t": "Aram ieșise la luptă în cete și luaseră prizonieră "
+     },
+     {
+      "t": "o tânără fată",
+      "w": "o tânără fată",
+      "heb": "נַעֲרָה קְטַנָּה",
+      "translit": "naara ketana",
+      "strong": "H5291",
+      "pos": "substantiv + adjectiv, feminin singular",
+      "def_ro": "o fată tânără, o fetiță.",
+      "dict_ro": "Naara ketana — expresia pare redundantă (naara desemnează deja o fată tânără), de aceea Rashi propune că naara indică proveniența ei din orașul Naaran (1 Cronici 7:28), iar Metzudat David răspunde că și o copilă mică poate fi numită naara (ca în Isaia 11:6, „un copil mic îi va mâna”). Contrastul e intenționat: cea mai mică și mai lipsită de putere persoană din poveste, o sclavă captivă, devine veriga prin care generalul atotputernic ajunge la vindecare."
+     },
+     {
+      "t": " din țara Israelului și ea îi slujea soției lui Naaman."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַאֲרָם יָצְאוּ גְדוּדִים וַיִּשְׁבּוּ...",
+      "translation": "„Aram ieșise la luptă în cete...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ Συρία ἐξῆλθον μονόζωνοι καὶ ᾐχμαλώτευσαν ἐκ γῆς ᾿Ισραὴλ νεάνιδα μικράν, καὶ ἦν ἐνώπιον τῆς γυναικὸς Ναιμάν.",
+      "greek": true,
+      "translation": "„Și Siria ieșiseră [oameni] cu arme ușoare și luaseră robă din țara lui Israel o fată mică, și ea era înaintea soției lui Naiman.”",
+      "note": "Septuaginta redă „cete” (gedudim) prin „oameni încinși ușor / cu armură ușoară” (μονόζωνοι) — o interpretare militară precisă a cuvântului ebraic, nu o traducere literală."
+     }
+    ],
+    "refs": [
+     "2 Regi 6:23",
+     "2 Regi 13:20",
+     "Judecători 9:34",
+     "1 Samuel 13:17,18",
+     "Psalmul 123:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Au ieșit cete” — când oamenii merg de capul lor, câte o sută sau două sute, ca să jefuiască tot ce găsesc, aceasta se numește gedud. „O tânără fată” — o fată din orașul Naaran. „Și ea îi slujea” — [Targum Ionatan traduce:] „și slujea înaintea soției lui Naaman”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Au ieșit cete” — când merg de la sine câțiva oameni ca să prade ce găsesc, se numește gedud. „O tânără fată” — și una mică se numește naara, ca în „și un copil mic îi va mâna” (Isaia 11:6). „Și ea îi slujea” — slujea înaintea soției lui Naaman."
+     }
+    ]
+   },
+   {
+    "v": "5:3",
+    "t": "Ea i-a spus stăpânei ei: „Rugămințile stăpânului meu să fie aduse în fața profetului care este în Samaria, și atunci el îl va vindeca de lepră.”",
+    "heb": "וַתֹּאמֶר אֶל־גְּבִרְתָּהּ אַחֲלֵי אֲדֹנִי לִפְנֵי הַנָּבִיא אֲשֶׁר בְּשֹׁמְרוֹן אָז יֶאֱסֹף אֹתוֹ מִצָּרַעְתּוֹ׃",
+    "translit": "Vatomer el-ghevirta ahaléi adoni lifnei hanavi așer beȘomron az yeesof oto mitzarato.",
+    "tokens": [
+     {
+      "t": "Ea i-a spus stăpânei ei: „Rugămințile stăpânului meu să fie aduse în fața profetului care este în Samaria, și atunci el "
+     },
+     {
+      "t": "îl va vindeca",
+      "w": "îl va vindeca",
+      "heb": "יֶאֱסֹף",
+      "translit": "yeesof",
+      "strong": "H622",
+      "pos": "verb, qal, imperfect, persoana a III-a masculin singular",
+      "def_ro": "îl va aduna, adică îl va vindeca de lepră.",
+      "dict_ro": "Asaf — literal „a aduna, a strânge înăuntru”; aplicat leprosului, înseamnă vindecarea, pentru că, explică Rashi, în timpul bolii toți se țin departe de el, iar când se vindecă e din nou „adunat” printre oameni. Metzudat David adaugă temeiul biblic: leprosul locuia în afara taberei și, vindecat, era primit înapoi — ca Miriam, la care scrie „până ce a fost adunată [primită înapoi] Miriam” (Numeri 12:15)."
+     },
+     {
+      "t": " de lepră.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֹּאמֶר אֶל־גְּבִרְתָּהּ אַחֲלֵי אֲדֹנִי...",
+      "translation": "„Ea i-a spus stăpânei ei: „Rugămințile...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἡ δὲ εἶπε τῇ κυρίᾳ αὐτῆς· ὄφελον ὁ κύριός μου ἐνώπιον τοῦ προφήτου τοῦ Θεοῦ τοῦ ἐν Σαμαρείᾳ, τότε ἀποσυνάξει αὐτὸν ἀπὸ τῆς λέπρας αὐτοῦ.",
+      "greek": true,
+      "translation": "„Iar ea a zis stăpânei ei: o, de-ar fi stăpânul meu înaintea profetului lui Dumnezeu din Samaria! Atunci l-ar aduna [vindeca] de lepra lui.”",
+      "note": "Septuaginta adaugă „al lui Dumnezeu” după „profetul” și păstrează literal metafora ebraică a „adunării” (ἀποσυνάξει) pentru vindecare."
+     }
+    ],
+    "refs": [
+     "Numeri 11:29",
+     "Faptele Apostolilor 26:29",
+     "2 Regi 5:8",
+     "Matei 8:2,3",
+     "Matei 11:5",
+     "Luca 17:12-14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ahaléi” — o expresie de rugăminte, ca „și Moise L-a rugat” (Exod 32:11): rugămințile tuturor celor ce se roagă pentru el să fie ca minunea să vină înaintea profetului. „Îl va vindeca” — „adunarea” spusă despre lepros înseamnă vindecarea lui, căci când se vindecă e adunat din nou printre oameni, iar în timpul bolii toți se țin departe de el."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ahaléi adoni” — dacă rugămintea stăpânului meu ar ajunge înaintea profetului, atunci fără îndoială l-ar vindeca de lepra lui; iar vindecarea leprosului se numește „adunare”, pentru că, atâta timp cât e bolnav, locuiește în afara taberei, iar când se vindecă e adunat și intră în tabără, precum s-a spus: „până ce a fost adunată Miriam” (Numeri 12:15)."
+     }
+    ]
+   },
+   {
+    "v": "5:4",
+    "t": "[Naaman] a mers și i-a povestit stăpânului său, spunând: „Precum aceste [cuvinte] a vorbit fata din țara Israelului.”",
+    "heb": "וַיָּבֹא וַיַּגֵּד לַאדֹנָיו לֵאמֹר כָּזֹאת וְכָזֹאת דִּבְּרָה הַנַּעֲרָה אֲשֶׁר מֵאֶרֶץ יִשְׂרָאֵל׃",
+    "translit": "Vaiavo vaiaged ladonav lemor kazot vechazot dibra hanaara așer meereț Israël.",
+    "tokens": [
+     {
+      "t": "[Naaman] a mers și i-a povestit stăpânului său, spunând: „"
+     },
+     {
+      "t": "Precum aceste",
+      "w": "Precum aceste",
+      "heb": "כָּזֹאת וְכָזֹאת",
+      "translit": "kazot vechazot",
+      "strong": "H2063",
+      "pos": "prepoziție + pronume demonstrativ, feminin, repetat",
+      "def_ro": "așa și așa, în cutare fel.",
+      "dict_ro": "Kazot vechazot — „așa și așa”, formulă de rezumare prin care naratorul evită să repete cuvintele fetei deja citate. Rashi și Metzudat David precizează cine vorbește cu cine: Naaman însuși a venit și i-a povestit stăpânului său, regele Aramului. Faptul că un general de rang înalt ia în serios cuvântul unei sclave captive și îl duce până la rege arată cât de disperată era situația lui."
+     },
+     {
+      "t": " [cuvinte] a vorbit fata din țara Israelului.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבֹא וַיַּגֵּד לַאדֹנָיו לֵאמֹר...",
+      "translation": "„[Naaman] a mers și i-a povestit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἰσῆλθε καὶ ἀπήγγειλε τῷ κυρίῳ ἑαυτῆς καὶ εἶπεν· οὕτως καὶ οὕτως ἐλάλησεν ἡ νεᾶνις ἡ ἐκ γῆς ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Și a intrat și a vestit stăpânului ei și a zis: așa și așa a vorbit fata din țara lui Israel.”",
+      "note": "Divergență reală: în Septuaginta pronumele e feminin („stăpânului ei”, τῷ κυρίῳ ἑαυτῆς), sugerând că soția lui Naaman i-a vestit soțului ei; în Textul Masoretic Naaman însuși merge și îi povestește regelui, stăpânului său."
+     }
+    ],
+    "refs": [
+     "2 Regi 7:9-11",
+     "Marcu 5:19",
+     "Ioan 1:42-46",
+     "Ioan 4:28,29",
+     "1 Corinteni 1:26,27"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „A mers” — Naaman. „Și i-a povestit stăpânului său” — regelui Aramului."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„A mers și i-a povestit” — Naaman a povestit lucrul acesta înaintea regelui."
+     }
+    ]
+   },
+   {
+    "v": "5:5",
+    "t": "Regele Aramului i-a spus: „Mergi la el și eu voi trimite o scrisoare regelui Israelului.” El a mers și a luat cu sine zece talanți de argint, șase mii de monede de aur și zece schimburi de haine.",
+    "heb": "וַיֹּאמֶר מֶלֶךְ־אֲרָם לֶךְ־בֹּא וְאֶשְׁלְחָה סֵפֶר אֶל־מֶלֶךְ יִשְׂרָאֵל וַיֵּלֶךְ וַיִּקַּח בְּיָדוֹ עֶשֶׂר כִּכְּרֵי־כֶסֶף וְשֵׁשֶׁת אֲלָפִים זָהָב וְעֶשֶׂר חֲלִיפוֹת בְּגָדִים׃",
+    "translit": "Vaiomer meleh-Aram leh-bo veeșleha sefer el-meleh Israël vaieleh vayikah beyado eser kikrei-chesef veșeshet alafim zahav veeser halifot begadim.",
+    "tokens": [
+     {
+      "t": "Regele Aramului i-a spus: „Mergi la el și eu voi trimite o scrisoare regelui Israelului.” El a mers și a luat cu sine zece talanți de argint, șase mii de monede de aur și "
+     },
+     {
+      "t": "zece schimburi de haine",
+      "w": "zece schimburi de haine",
+      "heb": "עֶשֶׂר חֲלִיפוֹת בְּגָדִים",
+      "translit": "eser halifot begadim",
+      "strong": "H2487",
+      "pos": "numeral + substantiv, feminin plural, în construcție + substantiv",
+      "def_ro": "zece rânduri de haine de schimb.",
+      "dict_ro": "Halifot begadim — „schimburi de haine”, veșminte de sărbătoare, un dar prețios în lumea antică (vezi Geneza 45:22, darurile lui Iosif pentru frații săi). Împreună cu cei zece talanți de argint și cele șase mii [de sicli] de aur, darul arată cum își imagina Naaman vindecarea: ca pe un serviciu cumpărat de la un vraci de curte. Rashi și Metzudat David precizează că darul era destinat profetului, nu regelui — iar refuzul lui Elișa (v. 16) va răsturna tocmai această logică."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מֶלֶךְ־אֲרָם לֶךְ־בֹּא וְאֶשְׁלְחָה...",
+      "translation": "„Regele Aramului i-a spus: „Mergi la...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε βασιλεὺς Συρίας πρὸς Ναιμάν· δεῦρο εἴσελθε, καὶ ἐξαποστελῶ βιβλίον πρὸς βασιλέα ᾿Ισραήλ· καὶ ἐπορεύθη καὶ ἔλαβεν ἐν τῇ χειρὶ αὐτοῦ δέκα τάλαντα ἀργυρίου καὶ ἑξακισχιλίους χρυσοῦς καὶ δέκα ἀλλασσομένας στολάς.",
+      "greek": true,
+      "translation": "„Și a zis regele Siriei către Naiman: vino, intră, și voi trimite o carte regelui lui Israel. Și a mers și a luat în mâna lui zece talanți de argint și șase mii de [monede de] aur și zece veșminte de schimb.”",
+      "note": "Septuaginta numește explicit destinatarul poruncii („către Naiman”), implicit în Textul Masoretic; în rest, corespondență strânsă."
+     }
+    ],
+    "refs": [
+     "2 Regi 8:8,9",
+     "Numeri 22:7,17,18",
+     "1 Samuel 9:8",
+     "Faptele Apostolilor 8:18-20",
+     "Geneza 45:22",
+     "Judecători 14:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și a luat în mâna lui” — un dar pentru profet. „Șase mii de aur” — monede de aur."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Mergi” — la profet. „Regelui Israelului” — ca el să-i poruncească profetului să facă aceasta. „Și a luat în mâna lui” — un dar pentru profet."
+     }
+    ]
+   },
+   {
+    "v": "5:6",
+    "t": "Și i-a adus regelui Israelului o scrisoare care spunea: „Și acum, când această scrisoare va ajunge la tine, iată, l-am trimis la tine pe slujitorul meu Naaman, ca să-l vindeci de lepra lui.”",
+    "heb": "וַיָּבֵא הַסֵּפֶר אֶל־מֶלֶךְ יִשְׂרָאֵל לֵאמֹר וְעַתָּה כְּבוֹא הַסֵּפֶר הַזֶּה אֵלֶיךָ הִנֵּה שָׁלַחְתִּי אֵלֶיךָ אֶת־נַעֲמָן עַבְדִּי וַאֲסַפְתּוֹ מִצָּרַעְתּוֹ׃",
+    "translit": "Vaiave hasefer el-meleh Israël lemor veata kevo hasefer haze elecha hine șalahti elecha et-Naaman avdi vaasafto mitzarato.",
+    "tokens": [
+     {
+      "t": "Și i-a adus regelui Israelului o "
+     },
+     {
+      "t": "scrisoare",
+      "w": "scrisoare",
+      "heb": "הַסֵּפֶר",
+      "translit": "hasefer",
+      "strong": "H5612",
+      "pos": "substantiv, masculin singular, cu articol",
+      "def_ro": "scrisoarea, înscrisul.",
+      "dict_ro": "Sefer — orice document scris: carte, sul, scrisoare oficială. Metzudat David observă că Scriptura redă doar finalul scrisorii („și acum...”), pentru că începutul cuprindea salutările obișnuite; iar regele Aramului nu se aștepta ca regele Israelului să-l vindece el însuși, ci ca acesta să-i poruncească profetului. Formularea ambiguă — „ca să-l vindeci” — e tocmai ceea ce va provoca panica regelui din versetul următor."
+     },
+     {
+      "t": " care spunea: „Și acum, când această scrisoare va ajunge la tine, iată, l-am trimis la tine pe slujitorul meu Naaman, ca să-l vindeci de lepra lui.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבֵא הַסֵּפֶר אֶל־מֶלֶךְ יִשְׂרָאֵל...",
+      "translation": "„Și i-a adus regelui Israelului o...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἤνεγκε τὸ βιβλίον πρὸς τὸν βασιλέα ᾿Ισραὴλ λέγων· καὶ νῦν ὡς ἂν ἔλθῃ τὸ βιβλίον τοῦτο πρὸς σέ, ἰδοὺ ἀπέστειλα πρός σε Ναιμὰν τὸν δοῦλόν μου, καὶ ἀποσυνάξεις αὐτὸν ἀπὸ τῆς λέπρας αὐτοῦ.",
+      "greek": true,
+      "translation": "„Și a adus cartea regelui lui Israel, zicând: și acum, când va ajunge cartea aceasta la tine, iată, l-am trimis la tine pe Naiman, robul meu, și îl vei aduna [vindeca] de lepra lui.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Spunând: «Și acum, când va ajunge scrisoarea»” — scrisoarea îi spunea: „Și acum, când va ajunge...”. „Ca să-l vindeci de lepră” — „adunarea” spusă despre lepros înseamnă vindecarea lui, căci când se vindecă e adunat din nou printre oameni, iar în timpul bolii toți se țin departe de el."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și acum” — Scriptura nu explică ce scria la începutul cuvintelor lui, pentru că era după obicei, ca să-l salute; iar sfârșitul cuvintelor lui era: „și acum...”. „Ca să-l vindeci” — regele Aramului nu gândea că regele Israelului îl va vindeca de lepra lui, ci cuvintele lui însemnau că acesta îi va porunci profetului să-l vindece."
+     }
+    ]
+   },
+   {
+    "v": "5:7",
+    "t": "Când regele Israelului a citit scrisoarea, și-a sfâșiat veșmintele și a spus: „Sunt eu oare Dumnezeu ca să pot ucide și să pot da viață, că omul acesta trimite la mine pe cineva să-l vindec de lepră? Să știi și să vezi că el caută pricină împotriva mea!”",
+    "heb": "וַיְהִי כִּקְרֹא מֶלֶךְ־יִשְׂרָאֵל אֶת־הַסֵּפֶר וַיִּקְרַע בְּגָדָיו וַיֹּאמֶר הַאֱלֹהִים אָנִי לְהָמִית וּלְהַחֲיוֹת כִּי־זֶה שֹׁלֵחַ אֵלַי לֶאֱסֹף אִישׁ מִצָּרַעְתּוֹ כִּי אַךְ־דְּעוּ־נָא וּרְאוּ כִּי־מִתְאַנֶּה הוּא לִי׃",
+    "translit": "Vayehi kikro meleh-Israël et-hasefer vayikra begadav vaiomer haElohim ani lehamit ulehahaiot ki-ze șoleah elai leesof iș mitzarato ki ach-deu-na ureu ki-mitane hu li.",
+    "tokens": [
+     {
+      "t": "Când regele Israelului a citit scrisoarea, și-a sfâșiat veșmintele și a spus: „Sunt eu oare Dumnezeu ca să pot ucide și să pot da viață, că omul acesta trimite la mine pe cineva să-l vindec de lepră? Să știi și să vezi că el "
+     },
+     {
+      "t": "caută pricină",
+      "w": "caută pricină",
+      "heb": "מִתְאַנֶּה",
+      "translit": "mitane",
+      "strong": "H579",
+      "pos": "verb, hitpael, participiu, masculin singular",
+      "def_ro": "caută prilej, caută pretext de ceartă.",
+      "dict_ro": "Ana, la forma hitpael — „a căuta prilej, a pândi o ocazie” împotriva cuiva; Rashi îl leagă de „alilot devarim” (învinuiri mincinoase, Deuteronom 22:14): regele crede că Aramul caută un pretext de război. Metzudat David vede aici și un diagnostic spiritual: din pricina răutății lui, regele Israelului nici nu s-a gândit la profetul din țara lui, ci a crezut că i se cere lui însuși o minune pe care numai Cel ce „omoară și dă viață” o poate face."
+     },
+     {
+      "t": " împotriva mea!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי כִּקְרֹא מֶלֶךְ־יִשְׂרָאֵל אֶת־הַסֵּפֶר...",
+      "translation": "„Când regele Israelului a citit scrisoarea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο ὡς ἀνέγνω βασιλεὺς ᾿Ισραὴλ τὸ βιβλίον, διέρρηξε τὰ ἱμάτια αὐτοῦ καὶ εἶπεν· ὁ Θεὸς ἐγὼ τοῦ θανατῶσαι καὶ ζωοποιῆσαι, ὅτι οὖτος ἀποστέλλει πρός με ἀποσυνάξαι ἄνδρα ἀπὸ τῆς λέπρας αὐτοῦ; ὅτι πλὴν γνῶτε δὴ καὶ ἴδετε ὅτι προφασίζεται οὗτός μοι.",
+      "greek": true,
+      "translation": "„Și a fost că, după ce a citit regele lui Israel cartea, și-a rupt hainele și a zis: sunt eu Dumnezeu, ca să omor și să dau viață, că acesta trimite la mine să adun [vindec] un om de lepra lui? Numai să știți și să vedeți că acesta își caută pretext împotriva mea.”",
+      "note": "Corespondență strânsă; „caută pricină” e redat prin προφασίζεται („își face un pretext”)."
+     }
+    ],
+    "refs": [
+     "2 Regi 19:1",
+     "Matei 26:65",
+     "Geneza 30:2",
+     "1 Samuel 2:6",
+     "Osea 6:1",
+     "1 Regi 20:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Sunt eu oare Dumnezeu?” — litera he [de la început] e vocalizată cu patah, ca să arate că e o întrebare. „Caută pricină” — caută un pretext ca să mă atace; e o expresie de „învinuiri mincinoase” (Deuteronom 22:14)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și-a sfâșiat veșmintele” — de spaimă. „Sunt eu oare Dumnezeu” — oare sunt eu Dumnezeu, să fie în puterea mea să omor și să dau viață? Căci nimeni nu poate vindeca leprosul decât Cel în a cărui mână e să omoare și să dea viață; iar din pricina marii lui răutăți n-a crezut în profet și a crezut că [regele Aramului] îl trimisese ca să-l vindece el însuși. „Să știi și să vezi” — ca și cum ar spune: nu-i e ascuns că nu pot aceasta, ci intenția lui e să găsească pretext ca să se lupte cu mine."
+     }
+    ]
+   },
+   {
+    "v": "5:8",
+    "t": "Când Elișa, omul lui Dumnezeu, a auzit că regele Israelului și-a sfâșiat veșmintele, a trimis [veste] la rege, spunând: „De ce ți-ai sfâșiat veșmintele? Dă-i voie să vină la mine și va ști că există un profet în Israel.”",
+    "heb": "וַיְהִי כִּשְׁמֹעַ אֱלִישָׁע אִישׁ־הָאֱלֹהִים כִּי־קָרַע מֶלֶךְ־יִשְׂרָאֵל אֶת־בְּגָדָיו וַיִּשְׁלַח אֶל־הַמֶּלֶךְ לֵאמֹר לָמָּה קָרַעְתָּ בְּגָדֶיךָ יָבֹא־נָא אֵלַי וְיֵדַע כִּי יֵשׁ נָבִיא בְּיִשְׂרָאֵל׃",
+    "translit": "Vayehi kișmoa Elișa iș-haElohim ki-kara meleh-Israël et-begadav vayișlah el-hameleh lemor lama karata begadeha yavo-na elai veyeda ki yeș navi beIsraël.",
+    "tokens": [
+     {
+      "t": "Când Elișa, omul lui Dumnezeu, a auzit că regele Israelului și-a sfâșiat veșmintele, a trimis [veste] la rege, spunând: „De ce ți-ai sfâșiat veșmintele? Dă-i voie să vină la mine și va ști că există "
+     },
+     {
+      "t": "un profet",
+      "w": "un profet",
+      "heb": "נָבִיא",
+      "translit": "navi",
+      "strong": "H5030",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "profet, purtător al cuvântului divin.",
+      "dict_ro": "Navi — cel chemat să vestească cuvântul lui Dumnezeu. Răspunsul lui Elișa corectează ironic panica regelui: nu regele trebuie să facă minunea, ci Naaman trebuie să afle că „există un profet în Israel”. Metzudat David precizează motivul: nu pentru gloria regelui îl va vindeca, ci „pentru sfințirea Numelui” — ca un străin să cunoască puterea Dumnezeului lui Israel, ceea ce se și împlinește în mărturisirea lui Naaman din v. 15."
+     },
+     {
+      "t": " în Israel.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי כִּשְׁמֹעַ אֱלִישָׁע אִישׁ־הָאֱלֹהִים...",
+      "translation": "„Când Elișa, omul lui Dumnezeu, a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο ὡς ἤκουσεν ῾Ελισαιὲ ὅτι διέρρηξεν ὁ βασιλεὺς ᾿Ισραὴλ τὰ ἱμάτια αὐτοῦ, καὶ ἀπέστειλε πρὸς τὸν βασιλέα ᾿Ισραὴλ λέγων· ἱνατὶ διέρρηξας τὰ ἱμάτιά σου; ἐλθέτω δὴ πρός με Ναιμὰν καὶ γνώτω ὅτι ἐστὶ προφήτης ἐν ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Și a fost că, după ce a auzit Elisaie că regele lui Israel și-a rupt hainele, a trimis la regele lui Israel zicând: de ce ți-ai rupt hainele? Să vină Naiman la mine și să știe că este profet în Israel.”",
+      "note": "Septuaginta omite titlul „omul lui Dumnezeu” după numele lui Elișa și numește explicit pe Naiman ca subiect al lui „să vină”, implicit în Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Regi 5:3,15",
+     "2 Regi 1:6",
+     "1 Regi 17:24",
+     "1 Regi 18:36,37",
+     "Ezechiel 2:5",
+     "Osea 12:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și va ști” — nu de dragul tău îl voi vindeca, ci pentru sfințirea Numelui [lui Dumnezeu]."
+     }
+    ]
+   },
+   {
+    "v": "5:9",
+    "t": "Naaman a venit cu caii lui și carul lui și a stat la ușa casei lui Elișa.",
+    "heb": "וַיָּבֹא נַעֲמָן בְּסוּסוֹ וּבְרִכְבּוֹ וַיַּעֲמֹד פֶּתַח־הַבַּיִת לֶאֱלִישָׁע׃",
+    "translit": "Vaiavo Naaman besuso uverichbo vayaamod petah-habait leElișa.",
+    "tokens": [
+     {
+      "t": "Naaman a venit cu caii lui și carul lui și a stat "
+     },
+     {
+      "t": "la ușa casei",
+      "w": "la ușa casei",
+      "heb": "פֶּתַח־הַבַּיִת",
+      "translit": "petah-habait",
+      "strong": "H6607",
+      "pos": "substantiv, masculin singular, în construcție + substantiv cu articol",
+      "def_ro": "la intrarea casei.",
+      "dict_ro": "Petah — deschizătura, intrarea. Imaginea e voit teatrală: generalul străin vine cu toată pompa — cai și car de luptă — și se oprește la ușa unei case modeste de profet, așteptând să fie întâmpinat cu onoruri. Versetul pregătește astfel contrastul din versetul următor, în care Elișa nici nu iese la el, ci îi trimite doar un sol."
+     },
+     {
+      "t": " lui Elișa."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבֹא נַעֲמָן בְּסוּסוֹ וּבְרִכְבּוֹ...",
+      "translation": "„Naaman a venit cu caii lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἦλθε Ναιμὰν ἐν ἵππῳ καὶ ἅρματι καὶ ἔστη ἐπὶ θύρας οἴκου ῾Ελισαιέ.",
+      "greek": true,
+      "translation": "„Și a venit Naiman cu cal și car și a stat la ușa casei lui Elisaie.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Regi 3:12",
+     "2 Regi 6:32",
+     "Isaia 60:14",
+     "Faptele Apostolilor 16:29,30"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "5:10",
+    "t": "Elișa a trimis la el un sol, spunând: „Mergi și cufundă-te de șapte ori în Iordan și carnea ta își va reveni și vei fi curățit.”",
+    "heb": "וַיִּשְׁלַח אֵלָיו אֱלִישָׁע מַלְאָךְ לֵאמֹר הָלוֹךְ וְרָחַצְתָּ שֶׁבַע־פְּעָמִים בַּיַּרְדֵּן וְיָשֹׁב בְּשָׂרְךָ לְךָ וּטְהָר׃",
+    "translit": "Vayișlah elav Elișa malach lemor haloch verahatzta șeva-peamim baIarden veyașov besarha lecha utehar.",
+    "tokens": [
+     {
+      "t": "Elișa a trimis la el un sol, spunând: „Mergi și cufundă-te "
+     },
+     {
+      "t": "de șapte ori",
+      "w": "de șapte ori",
+      "heb": "שֶׁבַע־פְּעָמִים",
+      "translit": "șeva-peamim",
+      "strong": "H7651",
+      "pos": "numeral + substantiv, feminin plural",
+      "def_ro": "de șapte ori.",
+      "dict_ro": "Șeva peamim — numărul șapte străbate ritualul de curățire a leprosului din Tora: stropirea de șapte ori cu sângele păsării (Levitic 14:7) și cu untdelemn (Levitic 14:16), la fel ca stropirea cu apa de curățire (Numeri 19:4). Metzudat David explică și făgăduința „carnea ta își va reveni”: prin lepră carnea slăbise și se topise, iar acum nu doar că va fi curățit, ci îi va reveni și carnea sănătoasă."
+     },
+     {
+      "t": " în Iordan și carnea ta își va reveni și vei fi curățit.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח אֵלָיו אֱלִישָׁע מַלְאָךְ...",
+      "translation": "„Elișa a trimis la el un...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπέστειλεν ῾Ελισαιὲ ἄγγελον πρὸς αὐτὸν λέγων· πορευθεὶς λοῦσαι ἑπτάκις ἐν τῷ ᾿Ιορδάνῃ, καὶ ἐπιστρέψει ἡ σάρξ σού σοι, καὶ καθαρισθήσῃ.",
+      "greek": true,
+      "translation": "„Și a trimis Elisaie un sol la el zicând: mergând, spală-te de șapte ori în Iordan, și carnea ta se va întoarce la tine, și vei fi curățit.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Matei 15:23-26",
+     "2 Regi 2:21",
+     "Ioan 9:7",
+     "Levitic 14:7,16,51",
+     "Numeri 19:4,19",
+     "Exod 4:6,7"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și carnea ta își va reveni” — căci din cauza leprei carnea slăbise din grăsimea ei, iar de acum carnea ți se va întoarce și vei fi și curat de lepră."
+     }
+    ]
+   },
+   {
+    "v": "5:11",
+    "t": "Naaman s-a mâniat și a plecat; și a spus: „Iată, mi-am spus că va ieși negreșit în întâmpinarea mea și că va sta în picioare și va chema în numele DOMNULUI, Dumnezeului lui, și își va ridica mâinile către [Cel] Omniprezent și leprosul se va vindeca.",
+    "heb": "וַיִּקְצֹף נַעֲמָן וַיֵּלַךְ וַיֹּאמֶר הִנֵּה אָמַרְתִּי אֵלַי יֵצֵא יָצוֹא וְעָמַד וְקָרָא בְּשֵׁם־יְהוָה אֱלֹהָיו וְהֵנִיף יָדוֹ אֶל־הַמָּקוֹם וְאָסַף הַמְּצֹרָע׃",
+    "translit": "Vayiktzof Naaman vaieleh vaiomer hine amarti elai yetze yatzo veamad vekara beșem-ADONAI Elohav vehenif yado el-hamakom veasaf hametzora.",
+    "tokens": [
+     {
+      "t": "Naaman s-a mâniat și a plecat; și a spus: „Iată, mi-am spus că va ieși negreșit în întâmpinarea mea și că va sta în picioare și va chema în numele DOMNULUI, Dumnezeului lui, și își va ridica mâinile către "
+     },
+     {
+      "t": "[Cel] Omniprezent",
+      "w": "[Cel] Omniprezent",
+      "heb": "הַמָּקוֹם",
+      "translit": "hamakom",
+      "strong": "H4725",
+      "pos": "substantiv, masculin singular, cu articol",
+      "def_ro": "locul; în tradiția rabinică, și nume al lui Dumnezeu („Cel Omniprezent”).",
+      "dict_ro": "Makom — literal „loc”; în literatura rabinică „HaMakom” devine un nume al lui Dumnezeu (Cel Omniprezent, „locul lumii”), sens pe care îl reflectă traducerea de aici. Rashi însă citește simplu: Naaman se aștepta ca profetul să-și fluture mâna „spre locul” bolii, iar Metzudat David completează — ca să reverse vindecarea acolo prin minune. Versetul dezvăluie așteptarea lui Naaman: un ritual spectaculos, cu onoruri și gesturi, nu o simplă poruncă."
+     },
+     {
+      "t": " și leprosul se va vindeca."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּקְצֹף נַעֲמָן וַיֵּלַךְ וַיֹּאמֶר...",
+      "translation": "„Naaman s-a mâniat și a plecat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐθυμώθη Ναιμὰν καὶ ἀπῆλθε καὶ εἶπεν· ἰδοὺ εἶπον ὅτι πρός με πάντως ἐξελεύσεται καὶ στήσεται καὶ ἐπικαλέσεται ἐν ὀνόματι Θεοῦ αὐτοῦ καὶ ἐπιθήσει τὴν χεῖρα αὐτοῦ ἐπὶ τὸν τόπον καὶ ἀποσυνάξει τὸ λεπρόν·",
+      "greek": true,
+      "translation": "„Și s-a mâniat Naiman și a plecat și a zis: iată, am zis că negreșit va ieși la mine și va sta și va chema numele Dumnezeului său și își va pune mâna pe loc și va aduna [vindeca] lepra.”",
+      "note": "Septuaginta omite numele divin („în numele DOMNULUI, Dumnezeului lui” devine doar „în numele Dumnezeului său”), transformă gestul „va flutura mâna” în „își va pune mâna” și înțelege „makom” strict ca loc fizic (τὸν τόπον) — sprijinind lectura lui Rashi."
+     }
+    ],
+    "refs": [
+     "Proverbe 13:10",
+     "Matei 8:8",
+     "Luca 14:11",
+     "Proverbe 3:7",
+     "Isaia 55:8,9",
+     "1 Corinteni 1:21-25"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Iată, mi-am spus” — mă gândeam că profetul va ieși și va vorbi cu mine și va vedea boala. „Și își va ridica mâna către locul” — [locul] leprei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Va ieși la mine” — mă gândeam că va ieși la mine pentru cinstea mea și va sta în picioare înaintea mea, după obiceiul de cinste pe care oamenii îl arată marilor dregători. Iar în privința vindecării, mă gândeam că va chema numele DOMNULUI și își va flutura mâna spre locul leprei, ca să reverse acolo vindecarea prin minune, și în felul acesta leprosul va fi vindecat."
+     }
+    ]
+   },
+   {
+    "v": "5:12",
+    "t": "Nu sunt oare Amana și Farpar, râurile Damascului, mai bune decât toate apele Israelului? Oare nu m-aș putea cufunda în ele și să fiu curățit?” Și s-a întors și a plecat mânios.",
+    "heb": "הֲלֹא טוֹב אֲמָנָה וּפַרְפַּר נַהֲרוֹת דַּמֶּשֶׂק מִכֹּל מֵימֵי יִשְׂרָאֵל הֲלֹא־אֶרְחַץ בָּהֶם וְטָהָרְתִּי וַיִּפֶן וַיֵּלֶךְ בְּחֵמָה׃",
+    "translit": "Halo tov Amana uFarpar naharot Dameșek mikol meimei Israël halo-erhatz bahem vetaharti vayifen vaieleh behema.",
+    "tokens": [
+     {
+      "t": "Nu sunt oare "
+     },
+     {
+      "t": "Amana",
+      "w": "Amana",
+      "heb": "אֲמָנָה",
+      "translit": "Amana",
+      "strong": "H71",
+      "pos": "substantiv propriu, nume de râu",
+      "def_ro": "Amana (citit Avana), râu al Damascului.",
+      "dict_ro": "Amana / Avana — textul scris (ketiv) are Amana, iar citirea tradițională (keri) e Avana; e râul identificat de obicei cu Barada de azi, care traversează Damascul, iar Farpar cu un râu vecin din aceeași regiune, ambele cu ape limpezi, spre deosebire de Iordanul tulbure. Metzudat David redă logica lui Naaman: dacă spălarea ar fi un leac natural, râurile Damascului, în care se spăla mereu, l-ar fi vindecat deja — de ce ar ajuta Iordanul?"
+     },
+     {
+      "t": " și Farpar, râurile Damascului, mai bune decât toate apele Israelului? Oare nu m-aș putea cufunda în ele și să fiu curățit?” Și s-a întors și a plecat mânios."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֲלֹא טוֹב אֲמָנָה וּפַרְפַּר...",
+      "translation": "„Nu sunt oare Amana și Farpar...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐχὶ ἀγαθὸς ᾿Αβανὰ καὶ Φαρφὰρ ποταμοὶ Δαμασκοῦ ὑπὲρ πάντα τὰ ὕδατα ᾿Ισραήλ; οὐχὶ πορευθεὶς λούσομαι ἐν αὐτοῖς καὶ καθαρισθήσομαι; καὶ ἐξέκλινε καὶ ἀπῆλθεν ἐν θυμῷ.",
+      "greek": true,
+      "translation": "„Nu sunt Abana și Farfar, râurile Damascului, mai bune decât toate apele lui Israel? Nu mă voi duce să mă spăl în ele și să fiu curățit? Și s-a întors și a plecat cu mânie.”",
+      "note": "Septuaginta urmează citirea tradițională (keri) „Abana” (᾿Αβανὰ), nu forma scrisă (ketiv) „Amana” din textul ebraic consonantic."
+     }
+    ],
+    "refs": [
+     "2 Regi 5:17",
+     "Iosua 3:15-17",
+     "Ezechiel 47:1-8",
+     "Zaharia 13:1",
+     "Zaharia 14:8",
+     "Marcu 1:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Nu sunt oare mai bune” — ca și cum ar spune: dar prin faptul că a zis „spală-te și fii curățit”, pare că a vorbit despre un leac natural; și, desigur, nu e nimic în cuvintele lui, căci râurile Damascului sunt mai bune decât toate apele Israelului, și eu mă spăl mereu în ele — și oare sunt curat? Deci, precum nu mi-au folosit râurile Damascului, tot așa nu-mi vor folosi apele Iordanului."
+     }
+    ]
+   },
+   {
+    "v": "5:13",
+    "t": "Slujitorii lui s-au apropiat și i-au vorbit, spunând: „Părinte, dacă profetul ți-ar fi poruncit un lucru greu, oare nu l-ai fi făcut? Cu atât mai mult acum, când ți-a spus doar: «Cufundă-te și fii curățit!»”",
+    "heb": "וַיִּגְּשׁוּ עֲבָדָיו וַיְדַבְּרוּ אֵלָיו וַיֹּאמְרוּ אָבִי דָּבָר גָּדוֹל הַנָּבִיא דִּבֶּר אֵלֶיךָ הֲלוֹא תַעֲשֶׂה וְאַף כִּי־אָמַר אֵלֶיךָ רְחַץ וּטְהָר׃",
+    "translit": "Vayigșu avadav vayedabru elav vayomru avi davar gadol hanavi diber elecha halo taase veaf ki-amar elecha rehatz utehar.",
+    "tokens": [
+     {
+      "t": "Slujitorii lui s-au apropiat și i-au vorbit, spunând: „"
+     },
+     {
+      "t": "Părinte",
+      "w": "Părinte",
+      "heb": "אָבִי",
+      "translit": "avi",
+      "strong": "H1",
+      "pos": "substantiv, masculin singular + sufix persoana I",
+      "def_ro": "tatăl meu; aici, formulă de respect: „stăpâne”.",
+      "dict_ro": "Avi — „tatăl meu”; Rashi explică că aici e echivalentul lui „adoni” (stăpâne), titlu de respect pentru un om de rang înalt — la fel cum Iosif spune că Dumnezeu l-a pus „tată pentru Faraon” (Geneza 45:8). Argumentul slujitorilor e un „kal vahomer” (de la mai greu la mai ușor) clasic: dacă profetul ți-ar fi cerut ceva greu, l-ai fi făcut — cu atât mai mult un lucru atât de ușor."
+     },
+     {
+      "t": ", dacă profetul ți-ar fi poruncit un lucru greu, oare nu l-ai fi făcut? Cu atât mai mult acum, când ți-a spus doar: «Cufundă-te și fii curățit!»”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּגְּשׁוּ עֲבָדָיו וַיְדַבְּרוּ אֵלָיו...",
+      "translation": "„Slujitorii lui s-au apropiat și i-au...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἤγγισαν οἱ παῖδες αὐτοῦ καὶ ἐλάλησαν πρὸς αὐτόν· μέγα λόγον ἐλάλησεν ὁ προφήτης πρὸς σέ· οὐχὶ ποιήσεις; καὶ ὅτι εἶπε πρὸς σέ, λοῦσαι καὶ καθαρίσθητι.",
+      "greek": true,
+      "translation": "„Și s-au apropiat slujitorii lui și au vorbit către el: un cuvânt mare ți-a vorbit profetul; nu-l vei face? Și încă, fiindcă ți-a zis: spală-te și fii curățit.”",
+      "note": "Septuaginta omite adresarea „Părinte” (avi) și redă condiționalul ebraic („dacă ți-ar fi poruncit un lucru greu”) ca afirmație („un cuvânt mare ți-a vorbit”), slăbind argumentul „de la greu la ușor” al slujitorilor."
+     }
+    ],
+    "refs": [
+     "1 Samuel 25:14-17",
+     "2 Regi 2:12",
+     "2 Regi 6:21",
+     "Geneza 41:43",
+     "Maleahi 1:6",
+     "1 Corinteni 1:21,27"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Părinte” — avi e același lucru cu adoni (stăpâne). „Oare nu l-ai fi făcut?” — n-ai fi făcut-o, chiar dacă ți-ar fi spus să faci ceva ce cere osteneală? „Cu atât mai mult” — printr-o deducție de la mai greu la mai ușor, căci ți-a spus un lucru ușor: „cufundă-te și fii curățit”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Un lucru mare” — dacă profetul ți-ar fi spus un lucru de mare osteneală ca să fii curățit, n-ar fi fost cuvenit să-l faci? Cu atât mai mult când ți-a spus un lucru ușor — spală-te și prin aceasta vei fi curățit; de ce, atunci, te împotrivești să-l faci?"
+     }
+    ]
+   },
+   {
+    "v": "5:14",
+    "t": "S-a coborât și s-a cufundat în Iordan de șapte ori, după cuvântul omului lui Dumnezeu, și carnea lui a revenit ca trupul unui copil mic, și a fost curățit.",
+    "heb": "וַיֵּרֶד וַיִּטְבֹּל בַּיַּרְדֵּן שֶׁבַע פְּעָמִים כִּדְבַר אִישׁ הָאֱלֹהִים וַיָּשָׁב בְּשָׂרוֹ כִּבְשַׂר נַעַר קָטֹן וַיִּטְהָר׃",
+    "translit": "Vaiered vayitbol baIarden șeva peamim kidvar iș haElohim vayașav besaro kivsar naar katon vayithar.",
+    "tokens": [
+     {
+      "t": "S-a coborât și "
+     },
+     {
+      "t": "s-a cufundat",
+      "w": "s-a cufundat",
+      "heb": "וַיִּטְבֹּל",
+      "translit": "vayitbol",
+      "strong": "H2881",
+      "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin singular",
+      "def_ro": "s-a cufundat, s-a scufundat în apă.",
+      "dict_ro": "Taval — „a (se) cufunda”, rădăcina din care vine în limbajul rabinic „tevila”, cufundarea rituală în mikve. E semnificativ că Elișa spusese „rahatz” (spală-te, v. 10), iar Naaman face mai mult — „taval”, cufundare completă, de șapte ori. Metzudat David explică „ca trupul unui copil mic”: carnea i-a devenit curată și strălucitoare, deci nu doar vindecată, ci înnoită."
+     },
+     {
+      "t": " în Iordan de șapte ori, după cuvântul omului lui Dumnezeu, și carnea lui a revenit ca trupul unui copil mic, și a fost curățit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּרֶד וַיִּטְבֹּל בַּיַּרְדֵּן שֶׁבַע...",
+      "translation": "„S-a coborât și s-a cufundat în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ κατέβη Ναιμὰν καὶ ἐβαπτίσατο ἐν τῷ ᾿Ιορδάνῃ ἑπτάκις κατὰ τὸ ῥῆμα ῾Ελισαιέ, καὶ ἐπέστρεψεν ἡ σάρξ αὐτοῦ ὡς σάρξ παιδαρίου μικροῦ, καὶ ἐκαθαρίσθη.",
+      "greek": true,
+      "translation": "„Și s-a coborât Naiman și s-a cufundat în Iordan de șapte ori, după cuvântul lui Elisaie, și carnea lui s-a întors ca a unui copil mic, și a fost curățit.”",
+      "note": "Septuaginta redă „s-a cufundat” prin ἐβαπτίσατο — verbul din care vine „botez” — și înlocuiește „omul lui Dumnezeu” cu numele „Elisaie”."
+     }
+    ],
+    "refs": [
+     "2 Cronici 20:20",
+     "Ioan 2:5",
+     "Evrei 11:7,8",
+     "Iov 33:25",
+     "Luca 4:27",
+     "Luca 5:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Ca trupul unui copil mic” — adică curată și strălucitoare. „Și a fost curățit” — a devenit curat de lepră."
+     }
+    ]
+   },
+   {
+    "v": "5:15",
+    "t": "S-a întors la omul lui Dumnezeu, el și toată suita lui, a venit și a stat înaintea lui și a spus: „Iată, acum știu că nu există Dumnezeu pe tot pământul, decât în Israel. Și acum, primește, te rog, un dar de la slujitorul tău.”",
+    "heb": "וַיָּשָׁב אֶל־אִישׁ הָאֱלֹהִים הוּא וְכָל־מַחֲנֵהוּ וַיָּבֹא וַיַּעֲמֹד לְפָנָיו וַיֹּאמֶר הִנֵּה־נָא יָדַעְתִּי כִּי אֵין אֱלֹהִים בְּכָל־הָאָרֶץ כִּי אִם־בְּיִשְׂרָאֵל וְעַתָּה קַח־נָא בְרָכָה מֵאֵת עַבְדֶּךָ׃",
+    "translit": "Vayașav el-iș haElohim hu vechol-mahanehu vaiavo vayaamod lefanav vaiomer hine-na yadati ki ein Elohim bechol-haaretz ki im-beIsraël veata kah-na beracha meet avdecha.",
+    "tokens": [
+     {
+      "t": "S-a întors la omul lui Dumnezeu, el și toată suita lui, a venit și a stat înaintea lui și a spus: „Iată, acum știu că nu există Dumnezeu pe tot pământul, decât în Israel. Și acum, primește, te rog, "
+     },
+     {
+      "t": "un dar",
+      "w": "un dar",
+      "heb": "בְרָכָה",
+      "translit": "veracha",
+      "strong": "H1293",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "binecuvântare; aici, dar oferit în semn de recunoștință.",
+      "dict_ro": "Beraha — literal „binecuvântare”; Rashi explică că e un dar de pace oferit la salut, cum dă ucenicul sau slujitorul stăpânului său; același cuvânt desemnează darul lui Iacov pentru Esau (Geneza 33:11). Mărturisirea care o precede — „nu există Dumnezeu pe tot pământul, decât în Israel” — e punctul culminant al haftarei; Talmudul (Ghitin 57b) precizează totuși că Naaman nu s-a convertit, ci a rămas „ger toșav”, un neevreu care păzește cele șapte porunci ale urmașilor lui Noe."
+     },
+     {
+      "t": " de la slujitorul tău.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּשָׁב אֶל־אִישׁ הָאֱלֹהִים הוּא...",
+      "translation": "„S-a întors la omul lui Dumnezeu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπέστρεψε πρὸς ῾Ελισαιὲ αὐτὸς καὶ πᾶσα ἡ παρεμβολὴ αὐτοῦ, καὶ ἦλθε καὶ ἔστη ἐνώπιον αὐτοῦ καὶ εἶπεν· ἰδοὺ δὴ ἔγνωκα ὅτι οὐκ ἔστι Θεὸς ἐν πάσῃ τῇ γῇ, ὅτι ἀλλ᾿ ἢ ἐν τῷ ᾿Ισραήλ· καὶ νῦν λαβὲ τὴν εὐλογίαν παρὰ τοῦ δούλου σου.",
+      "greek": true,
+      "translation": "„Și s-a întors la Elisaie, el și toată tabăra lui, și a venit și a stat înaintea lui și a zis: iată, am cunoscut că nu este Dumnezeu pe tot pământul, decât în Israel; și acum ia binecuvântarea de la robul tău.”",
+      "note": "Septuaginta înlocuiește „omul lui Dumnezeu” cu numele „Elisaie” și păstrează literal „binecuvântarea” (εὐλογία) pentru dar."
+     }
+    ],
+    "refs": [
+     "Luca 17:15-18",
+     "Iosua 2:9-11",
+     "1 Samuel 17:46,47",
+     "Daniel 2:47",
+     "Daniel 3:29",
+     "Geneza 33:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Un dar” — un dar de pace, la salut, precum [dă] un ucenic sau un slujitor stăpânului său."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„A stat înaintea lui” — ca un slujitor înaintea stăpânului. „Și acum” — pentru vindecarea și mărturisirea aceasta, primește de la mine un dar."
+     },
+     {
+      "author": "Talmud Bavli, Ghitin 57b",
+      "text": "Un înțelept a învățat [într-o baraita]: Naaman a fost ger toșav — un neevreu care păzește cele șapte porunci ale urmașilor lui Noe —, iar Nebuzaradan a fost un convertit deplin."
+     }
+    ]
+   },
+   {
+    "v": "5:16",
+    "t": "El a spus: „Viu este DOMNUL înaintea Căruia stau, că nu voi primi.” El l-a îndemnat să primească, dar el a refuzat.",
+    "heb": "וַיֹּאמֶר חַי־יְהוָה אֲשֶׁר־עָמַדְתִּי לְפָנָיו אִם־אֶקָּח וַיִּפְצַר־בּוֹ לָקַחַת וַיְמָאֵן׃",
+    "translit": "Vaiomer hai-ADONAI așer-amadti lefanav im-ekah vayiftzar-bo lakahat vayemaen.",
+    "tokens": [
+     {
+      "t": "El a spus: „Viu este DOMNUL înaintea Căruia stau, că nu voi primi.” El "
+     },
+     {
+      "t": "l-a îndemnat",
+      "w": "l-a îndemnat",
+      "heb": "וַיִּפְצַר",
+      "translit": "vayiftzar",
+      "strong": "H6484",
+      "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin singular",
+      "def_ro": "a stăruit, a insistat, l-a presat.",
+      "dict_ro": "Pațar — „a stărui, a presa pe cineva” (aceeași rădăcină ca la Lot, care „a stăruit mult” pe lângă îngeri, Geneza 19:3). Insistența lui Naaman se lovește de jurământul lui Elișa: „Viu este DOMNUL înaintea Căruia stau”. Metzudat David explică expresia ca „înaintea Căruia obișnuiesc să stau în rugăciune” și că formula e un jurământ propriu-zis: pedeapsa jurământului să fie asupra mea dacă voi lua. Rashi adaugă motivul refuzului: printre banii aceia se aflau bani legați de idolatrie."
+     },
+     {
+      "t": " să primească, dar el a refuzat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר חַי־יְהוָה אֲשֶׁר־עָמַדְתִּי לְפָנָיו...",
+      "translation": "„El a spus: „Viu este DOMNUL...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ῾Ελισαιέ· ζῇ Κύριος, ᾧ παρέστην ἐνώπιον αὐτοῦ, εἰ λήψομαι· καὶ παρεβιάσατο αὐτὸν λαβεῖν, καὶ ἠπείθησε.",
+      "greek": true,
+      "translation": "„Și a zis Elisaie: viu este Domnul, înaintea căruia am stat, că nu voi lua. Și l-a silit să ia, dar el n-a ascultat.”",
+      "note": "Septuaginta numește explicit vorbitorul („Elisaie”) și redă insistența lui Naaman printr-un verb mai tare, „l-a silit” (παρεβιάσατο)."
+     }
+    ],
+    "refs": [
+     "1 Regi 17:1",
+     "1 Regi 18:15",
+     "2 Regi 5:20,26",
+     "Geneza 14:22,23",
+     "Matei 10:8",
+     "Faptele Apostolilor 20:33-35"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Nu voi primi” — pentru că printre ei sunt amestecați bani legați de idolatrie."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Înaintea Căruia stau” — înaintea Căruia obișnuiesc să stau în rugăciune. „Că nu voi primi” — adică pedeapsa jurământului să fie asupra mea, dacă voi lua."
+     }
+    ]
+   },
+   {
+    "v": "5:17",
+    "t": "Naaman a spus: „Dacă nu, atunci să i se dea slujitorului tău o încărcătură de pământ cât pot duce o pereche de catâri; căci slujitorul tău nu va mai aduce ardere-de-tot sau jertfă altor dumnezei, ci numai DOMNULUI.",
+    "heb": "וַיֹּאמֶר נַעֲמָן וָלֹא יֻתַּן־נָא לְעַבְדְּךָ מַשָּׂא צֶמֶד־פְּרָדִים אֲדָמָה כִּי לוֹא־יַעֲשֶׂה עוֹד עַבְדְּךָ עֹלָה וָזֶבַח לֵאלֹהִים אֲחֵרִים כִּי אִם־לַיהוָה׃",
+    "translit": "Vaiomer Naaman valo yutan-na leavdecha masa tzemed-peradim adama ki lo-yaase od avdecha ola vazevah lelohim aherim ki im-lADONAI.",
+    "tokens": [
+     {
+      "t": "Naaman a spus: „Dacă nu, atunci să i se dea slujitorului tău o încărcătură de "
+     },
+     {
+      "t": "pământ",
+      "w": "pământ",
+      "heb": "אֲדָמָה",
+      "translit": "adama",
+      "strong": "H127",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "pământ, țărână, sol.",
+      "dict_ro": "Adama — pământul, solul roditor. Cererea lui Naaman pornește din credința antică potrivit căreia fiecare zeitate e legată de pământul ei: ca să se închine DOMNULUI în Aram, vrea să ia cu el țărână din Țara Israelului. Rashi explică: din pământul acesta al Țării, care e sfânt, va face un altar în orașul lui; iar Metzudat David subliniază delicatețea lui — n-a vrut să ia nici măcar pământ fără permisiunea profetului."
+     },
+     {
+      "t": " cât pot duce o pereche de catâri; căci slujitorul tău nu va mai aduce ardere-de-tot sau jertfă altor dumnezei, ci numai DOMNULUI."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר נַעֲמָן וָלֹא יֻתַּן־נָא...",
+      "translation": "„Naaman a spus: „Dacă nu, atunci...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Ναιμάν· καὶ εἰ μή, δοθήτω δὴ τῷ δούλῳ σου γόμος ζεῦγος ἡμιόνων, ὅτι οὐ ποιήσει ἔτι ὁ δοῦλός σου ὁλοκαύτωμα καὶ θυσίασμα θεοῖς ἑτέροις, ἀλλ᾿ ἢ τῷ Κυρίῳ μόνῳ·",
+      "greek": true,
+      "translation": "„Și a zis Naiman: și dacă nu, să i se dea robului tău povara unei perechi de catâri, căci robul tău nu va mai face ardere de tot și jertfă altor dumnezei, ci numai Domnului singur.”",
+      "note": "Divergență reală: în această formă a textului grec lipsește cuvântul „pământ” (adama) — rămâne doar „povara unei perechi de catâri”, fără să se spună ce anume; în plus, Septuaginta adaugă „singur” (μόνῳ) după „Domnului”, accentuând monoteismul mărturisit de Naaman."
+     }
+    ],
+    "refs": [
+     "2 Regi 5:12",
+     "Faptele Apostolilor 26:18",
+     "1 Tesaloniceni 1:9",
+     "1 Petru 4:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Dacă nu” — [valo] e o expresie de rugăminte, ca „o, de-ar fi așa!”. „Să i se dea” — din pământul acesta al Țării Israelului, care e sfânt, o povară cât poartă o pereche de catâri, și îl voi duce în orașul meu și îl voi face altar."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Să i se dea” — a cerut în formă de întrebare să i se dea pământ din țărâna Țării Israelului, cât poartă doi catâri, ca să-l ducă în țara lui și să umple din el un altar pe care să jertfească DOMNULUI; și n-a vrut să-l ia fără permisiunea profetului. „Căci nu va mai aduce” — de acum încolo nu voi mai aduce ardere-de-tot [altor dumnezei]."
+     },
+     {
+      "author": "Talmud Bavli, Ghitin 57b",
+      "text": "Naaman a fost ger toșav — a primit asupra lui cele șapte porunci ale urmașilor lui Noe, nu toate poruncile Torei; spre deosebire de el, Nebuzaradan a fost un convertit deplin."
+     }
+    ]
+   },
+   {
+    "v": "5:18",
+    "t": "Pentru acest lucru să-l ierte DOMNUL pe slujitorul tău: când stăpânul meu merge în casa lui Rimon să se închine acolo și se sprijină de mâna mea și mă închin în casa lui Rimon – când mă închin în casa lui Rimon, să-l ierte DOMNUL pe slujitorul tău pentru acest lucru.”",
+    "heb": "לַדָּבָר הַזֶּה יִסְלַח יְהוָה לְעַבְדֶּךָ בְּבוֹא אֲדֹנִי בֵית־רִמּוֹן לְהִשְׁתַּחֲוֺת שָׁמָּה וְהוּא נִשְׁעָן עַל־יָדִי וְהִשְׁתַּחֲוֵיתִי בֵּית רִמֹּן בְּהִשְׁתַּחֲוָיָתִי בֵּית רִמֹּן יִסְלַח־נָא יְהוָה לְעַבְדְּךָ בַּדָּבָר הַזֶּה׃",
+    "translit": "Ladavar haze yislah ADONAI leavdecha bevo adoni beit-Rimon lehiștahavot șama vehu nișan al-yadi vehiștahaveti beit Rimon behiștahavayati beit Rimon yislah-na ADONAI leavdecha badavar haze.",
+    "tokens": [
+     {
+      "t": "Pentru acest lucru să-l ierte DOMNUL pe slujitorul tău: când stăpânul meu merge în "
+     },
+     {
+      "t": "casa lui Rimon",
+      "w": "casa lui Rimon",
+      "heb": "בֵית־רִמּוֹן",
+      "translit": "beit-Rimon",
+      "strong": "H7417",
+      "pos": "substantiv, masculin singular, în construcție + nume propriu",
+      "def_ro": "templul lui Rimon, zeitatea Damascului.",
+      "dict_ro": "Rimon — zeul principal al Damascului, identificat de obicei cu zeul furtunii Hadad (Rammanu în textele asiro-babiloniene); numele sună în ebraică la fel ca „rodie”. Rashi explică situația lui Naaman: e o închinare silită — când regele intră în templu, se sprijină de mâna generalului, iar acesta trebuie să se aplece odată cu el. Cererea lui nu e o permisiune de idolatrie, ci o rugăciune de iertare pentru un gest exterior pe care nu-l poate evita."
+     },
+     {
+      "t": " să se închine acolo și se sprijină de mâna mea și mă închin în casa lui Rimon – când mă închin în casa lui Rimon, să-l ierte DOMNUL pe slujitorul tău pentru acest lucru.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לַדָּבָר הַזֶּה יִסְלַח יְהוָה...",
+      "translation": "„Pentru acest lucru să-l ierte DOMNUL...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἱλάσεται Κύριος τῷ δούλῳ σου ἐν τῷ εἰσπορεύεσθαι τὸν κύριόν μου εἰς οἶκον Ῥεμμὰν προσκυνῆσαι ἐκεῖ καὶ αὐτὸς ἐπαναπαύσεται ἐπὶ τῆς χειρός μου καὶ προσκυνήσω ἐν οἴκῳ Ῥεμμὰν ἐν τῷ προσκυνεῖν αὐτὸν ἐν οἴκῳ Ῥεμμάν, καὶ ἱλάσεται δὴ Κύριος τῷ δούλῳ σου ἐν τῷ λόγῳ τούτῳ.",
+      "greek": true,
+      "translation": "„Și Domnul va fi îndurător cu robul tău, când stăpânul meu intră în casa lui Remman să se închine acolo, și el se va sprijini de mâna mea, și mă voi închina în casa lui Remman, când se închină el în casa lui Remman — și Domnul va fi îndurător cu robul tău în lucrul acesta.”",
+      "note": "Septuaginta redă numele zeului ca „Remman” și formulează iertarea ca o afirmație la viitor („Domnul va fi îndurător”), nu ca o rugăminte; precizează și că Naaman se închină „când se închină el [regele]”, subliniind caracterul silit al gestului."
+     }
+    ],
+    "refs": [
+     "2 Regi 7:2,17",
+     "2 Regi 17:35",
+     "Exod 20:5",
+     "1 Regi 19:18",
+     "2 Cronici 30:18,19",
+     "Ieremia 50:20"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Casa lui Rimon” — numele unei zeități idolatre. „Să se închine acolo” — împotriva voii mele, când stăpânul meu se închină, pentru că se sprijină de mâna mea."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Pentru acest lucru” — l-a rugat pe profet să mijlocească pentru el înaintea DOMNULUI, ca să-l ierte pentru lucrul spus aici. „Și se sprijină de mâna mea” — când vine să se închine, iar eu, fără voia mea, mă închin și eu împreună cu el. „Când mă închin” — pentru acea închinare să mă ierte DOMNUL."
+     }
+    ]
+   },
+   {
+    "v": "5:19",
+    "t": "El i-a spus: „Mergi în pace.” Și s-a depărtat de el o bucată de drum.",
+    "heb": "וַיֹּאמֶר לוֹ לֵךְ לְשָׁלוֹם וַיֵּלֶךְ מֵאִתּוֹ כִּבְרַת־אָרֶץ׃",
+    "translit": "Vaiomer lo leh leșalom vaieleh meito kivrat-aretz.",
+    "tokens": [
+     {
+      "t": "El i-a spus: „Mergi în pace.” Și s-a depărtat de el "
+     },
+     {
+      "t": "o bucată de drum",
+      "w": "o bucată de drum",
+      "heb": "כִּבְרַת־אָרֶץ",
+      "translit": "kivrat-aretz",
+      "strong": "H3530",
+      "pos": "substantiv, feminin singular, în construcție + substantiv",
+      "def_ro": "o întindere de pământ, o distanță (ca măsură de drum).",
+      "dict_ro": "Kivrat eretz — o unitate de distanță a cărei lungime exactă nu e sigură; Rashi o explică drept numele unei măsuri de teren (comparând-o cu măsurile de vie din Isaia 5:10), iar expresia apare și la moartea Rahelei, „la o bucată de drum de Efrata” (Geneza 35:16). „Mergi în pace” nu e o aprobare explicită a cererii din versetul precedent, ci o despărțire binevoitoare, care lasă deschisă întrebarea — iar versetele imediat următoare, cu lăcomia lui Ghehazi, nu mai fac parte din haftară."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר לוֹ לֵךְ לְשָׁלוֹם...",
+      "translation": "„El i-a spus: „Mergi în pace.”...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ῾Ελισαιὲ πρὸς Ναιμάν· δεῦρο εἰς εἰρήνην. καὶ ἀπῆλθεν ἀπ αὐτοῦ εἰς δεβραθὰ τῆς γῆς.",
+      "greek": true,
+      "translation": "„Și a zis Elisaie către Naiman: mergi în pace. Și a plecat de la el cale de «debrata» de pământ.”",
+      "note": "Septuaginta nu traduce termenul kivrat, ci îl transliterează (δεβραθὰ), semn că sensul exact al măsurii nu era cunoscut traducătorilor; numește și explicit vorbitorul și interlocutorul („Elisaie către Naiman”)."
+     }
+    ],
+    "refs": [
+     "Exod 4:18",
+     "1 Samuel 1:17",
+     "Marcu 5:34",
+     "Luca 7:50",
+     "Luca 8:48",
+     "Geneza 35:16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „O bucată de drum” — kivrat eretz e numele unei măsuri de pământ, ca „zece pogoane de vie” (Isaia 5:10)."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
