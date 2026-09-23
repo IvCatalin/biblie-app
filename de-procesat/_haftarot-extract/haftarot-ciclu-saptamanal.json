@@ -56118,6 +56118,572 @@
     ]
    }
   ]
+ },
+  {
+  "num": 32,
+  "title": "Haftarat Aharéi Mot",
+  "ref": "Amos 9:7-15",
+  "intro": "Haftarat Aharéi Mot se leagă de pericopa omonimă prin tema exilului pe care poporul îl va îndura pentru păcatele sale. Amos începe cu o întrebare incomodă: nu sunt fiii lui Israel pentru DOMNUL ca oricare alt popor, dacă nu se întorc la El? Pedeapsa va lovi însă regatul păcătos și pe păcătoșii încrezători că „răul nu ne va ajunge” — nu legământul cu poporul: casa lui Iacov va fi cernută printre neamuri ca într-o sită, dar nu va fi nimicită. Profeția se încheie cu una dintre cele mai luminoase imagini din profeți: coliba căzută a lui David ridicată din nou, un belșug în care plugarul îl ajunge pe secerător, cetățile pustii rezidite și Israel sădit în pământul lui, fără să mai fie vreodată smuls din el. Tradiția sefardă citește această haftara la Kedoșim; tradiția așkenază, la Aharéi Mot sau când cele două pericope se citesc împreună.",
+  "verses": [
+   {
+    "v": "9:7",
+    "t": "Nu sunteți voi oare pentru Mine ca și copiii etiopienilor, copii ai lui Israel? – rostirea DOMNULUI. Nu l-am scos Eu oare pe Israel din țara Egiptului, pe filisteni din Caftor și pe Aram din Kir?",
+    "heb": "הֲלוֹא כִבְנֵי כֻשִׁיִּים אַתֶּם לִי בְּנֵי יִשְׂרָאֵל נְאֻם־יְהוָה הֲלוֹא אֶת־יִשְׂרָאֵל הֶעֱלֵיתִי מֵאֶרֶץ מִצְרַיִם וּפְלִשְׁתִּיִּים מִכַּפְתּוֹר וַאֲרָם מִקִּיר׃",
+    "translit": "Halo kivnei hușiim atem li benei Israël neum-ADONAI halo et-Israël heeléiti meereț Mițraim ufliștiim miKaftor vaAram miKir.",
+    "tokens": [
+     {
+      "t": "Nu sunteți voi oare pentru Mine ca și copiii "
+     },
+     {
+      "t": "etiopienilor",
+      "w": "etiopienilor",
+      "heb": "כֻשִׁיִּים",
+      "translit": "hușiim",
+      "strong": "H3569",
+      "pos": "substantiv propriu (gentilic), masculin plural",
+      "def_ro": "cușiți, etiopieni — locuitorii țării Cuș.",
+      "dict_ro": "Cușiim — urmașii lui Cuș, fiul lui Ham (Geneza 10:6), locuitorii ținutului de la sud de Egipt; Metzudat Țion îi descrie simplu: „oamenii negri, din fiii lui Cuș”. Comparația a primit interpretări foarte diferite: Rashi o leagă de Ieremia 13:23 („poate un cușit să-și schimbe pielea?”) — sunteți la fel de neschimbați în răutatea voastră; Metzudat David și Radak văd în cușiți imaginea robilor pe viață: cum ei aparțin stăpânilor, așa Israel, răscumpărat din casa robiei, Îi aparține lui Dumnezeu pentru totdeauna."
+     },
+     {
+      "t": ", copii ai lui Israel? – rostirea DOMNULUI. Nu l-am scos Eu oare pe Israel din țara Egiptului, pe filisteni din Caftor și pe Aram din Kir?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֲלוֹא כִבְנֵי כֻשִׁיִּים אַתֶּם...",
+      "translation": "„Nu sunteți voi oare pentru Mine...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐχ ὡς υἱοὶ Αἰθιόπων ὑμεῖς ἐστε ἐμοί, υἱοὶ ᾿Ισραήλ; λέγει Κύριος. οὐ τὸν ᾿Ισραὴλ ἀνήγαγον ἐκ γῆς Αἰγύπτου καὶ τοὺς ἀλλοφύλους ἐκ Καππαδοκίας καὶ τοὺς Σύρους ἐκ βόθρου;",
+      "greek": true,
+      "translation": "„Nu sunteți voi pentru Mine ca fiii etiopienilor, fii ai lui Israel? zice Domnul. Nu l-am scos Eu pe Israel din țara Egiptului, și pe cei de alt neam din Capadocia, și pe sirieni din groapă?”",
+      "note": "Septuaginta redă „Caftor” prin „Capadocia” și „Kir” prin „groapă” (βόθρου) — o interpretare a numelui de loc ca substantiv comun; „filistenii” devin generic „cei de alt neam” (ἀλλόφυλοι), ca în toată Septuaginta."
+     }
+    ],
+    "refs": [
+     "Ieremia 9:25,26",
+     "Ieremia 13:23",
+     "Amos 2:10",
+     "Deuteronom 2:23",
+     "Amos 1:5",
+     "2 Regi 16:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Nu sunteți voi oare pentru Mine ca fiii cușiților” — de ce M-aș opri să vă pedepsesc, de vreme ce nu vă întoarceți la Mine? Oare nu veniți și voi din fiii lui Noe, ca celelalte neamuri? Ca cușiții, cu care v-ați asemănat, precum s-a spus: „poate un cușit să-și schimbe pielea?... tot așa ați putea voi să faceți binele” (Ieremia 13:23). „Nu l-am scos Eu” — oare nu din bunătatea Mea a fost începutul alegerii voastre, scoaterea din țara Egiptului? Și ce-Mi pasă de aceasta? Și pe filisteni i-am scos la fel din Caftor... și totuși nu i-am făcut poporul Meu."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nu sunteți voi oare ca fiii cușiților” — precum fiii cușiților sunt robi ai stăpânilor lor pe vecie, așa sunteți voi robii Mei în toate zilele, căci v-am scos din țara Egiptului, din casa robiei. „Și pe filisteni din Caftor” — adică: oare i-am ridicat Eu pe filisteni din locul în care fuseseră exilați? Ca și cum ar spune: de vreme ce n-am făcut și nu voi face pentru alt neam ce am făcut pentru voi, sunteți dobândiți ai Mei ca robi."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: ca fiii cușiților, care sunt robi — oamenii negri din fiii lui Cuș, fiul lui Ham, care sunt vânduți ca robi — tot așa se cuvenea să fiți voi robii Mei, căci v-am dobândit din casa robiei. Iar despre filisteni și aram: oare i-am ridicat Eu din exilul lor așa cum v-am ridicat pe voi din Egipt? Pe ei i-am exilat din pricina iubirii Mele pentru voi, căci erau vecinii voștri și v-au făcut mult rău, și nu i-am mai adus înapoi."
+     }
+    ]
+   },
+   {
+    "v": "9:8",
+    "t": "Iată, ochii Stăpânului meu, Domnul DUMNEZEU, sunt asupra monarhiei păcătoase și o voi nimici de pe fața pământului. Dar nu voi nimici casa lui Iacov – rostirea DOMNULUI.",
+    "heb": "הִנֵּה עֵינֵי אֲדֹנָי יְהוִה בַּמַּמְלָכָה הַחַטָּאָה וְהִשְׁמַדְתִּי אֹתָהּ מֵעַל פְּנֵי הָאֲדָמָה אֶפֶס כִּי לֹא הַשְׁמֵיד אַשְׁמִיד אֶת־בֵּית יַעֲקֹב נְאֻם־יְהוָה׃",
+    "translit": "Hine einei Adonai ELOHIM bamamlaha hahataa vehișmadeti ota meal penei haadama efes ki lo hașmeid așmid et-beit Iaakov neum-ADONAI.",
+    "tokens": [
+     {
+      "t": "Iată, ochii Stăpânului meu, Domnul DUMNEZEU, sunt asupra "
+     },
+     {
+      "t": "monarhiei păcătoase",
+      "w": "monarhiei păcătoase",
+      "heb": "בַּמַּמְלָכָה הַחַטָּאָה",
+      "translit": "bamamlaha hahataa",
+      "strong": "H4467",
+      "pos": "prepoziție + substantiv, feminin singular, cu articol + adjectiv",
+      "def_ro": "regatul păcătos, domnia vinovată.",
+      "dict_ro": "Mamlaha — regatul, domnia; Radak și Metzudat David o identifică cu regatul lui Efraim (Israelul de nord), în care toți regii, de la Ieroboam fiul lui Nebat până la Hoșea fiul lui Ela, au fost răi. Distincția versetului e esențială: e nimicită instituția regală vinovată, nu poporul — „dar nu voi nimici cu totul casa lui Iacov”; Rashi precizează că regatul este casa lui Iehu. Introducerea ediției Rosen rezumă chiar această idee: pedeapsa îi lovește pe regi și conducători, legământul cu poporul rămâne veșnic."
+     },
+     {
+      "t": " și o voi nimici de pe fața pământului. Dar nu voi nimici casa lui Iacov – rostirea DOMNULUI."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנֵּה עֵינֵי אֲדֹנָי יְהוִה...",
+      "translation": "„Iată, ochii Stăpânului meu, Domnul DUMNEZEU...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "᾿Ιδοὺ οἱ ὀφθαλμοὶ Κυρίου τοῦ Θεοῦ ἐπὶ τὴν βασιλείαν τῶν ἁμαρτωλῶν καὶ ἐξαρῶ αὐτὴν ἀπὸ προσώπου τῆς γῆς· πλὴν ὅτι οὐκ εἰς τέλος ἐξαρῶ τὸν οἶκον ᾿Ιακώβ, λέγει Κύριος.",
+      "greek": true,
+      "translation": "„Iată, ochii Domnului Dumnezeu sunt asupra împărăției păcătoșilor, și o voi stârpi de pe fața pământului; numai că nu voi stârpi până la capăt casa lui Iacov, zice Domnul.”",
+      "note": "Septuaginta redă „monarhia păcătoasă” prin „împărăția păcătoșilor” și traduce corect infinitivul absolut ebraic (lo hașmeid așmid) prin „nu... până la capăt” (οὐκ εἰς τέλος)."
+     }
+    ],
+    "refs": [
+     "Amos 9:4",
+     "Psalmul 11:4-6",
+     "Proverbe 15:3",
+     "Osea 1:6",
+     "Ieremia 30:11",
+     "Romani 11:1-7,28,29"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și o voi nimici” — regatul este casa lui Iehu; dar casa lui Iacov n-o voi nimici."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iată, ochii Stăpânului” — adică: de vreme ce așa stau lucrurile și voi ați păcătuit împotriva Mea, iată, ochii DOMNULUI și purtarea Lui de grijă sunt asupra regatului păcătos, adică regatul lui Efraim, ca să-l nimicească. „Dar nu” — doar că nu voi nimici casa lui Iacov, mulțimea poporului; numai domnia o voi nimici, și nu vor mai avea rege."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Regatul păcătos” — este regatul lui Efraim, căci toți regii au fost răi și păcătoși, de la Ieroboam fiul lui Nebat până la Hoșea fiul lui Ela. „Și o voi nimici” — domnia o voi nimici, ca să nu mai fie din ei rege, dar casa lui Iacov n-o voi nimici."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Efes” — înseamnă „doar”, ca în „doar cuvântul [pe care ți-l voi spune]” (Numeri 22)."
+     }
+    ]
+   },
+   {
+    "v": "9:9",
+    "t": "Căci iată, poruncesc: Voi scutura casa lui Israel între toate neamurile, precum se scutură [grânele] într-o sită și nicio piatră nu va cădea la pământ.",
+    "heb": "כִּי־הִנֵּה אָנֹכִי מְצַוֶּה וַהֲנִעוֹתִי בְכָל־הַגּוֹיִם אֶת־בֵּית יִשְׂרָאֵל כַּאֲשֶׁר יִנּוֹעַ בַּכְּבָרָה וְלֹא־יִפּוֹל צְרוֹר אָרֶץ׃",
+    "translit": "Ki-hine anochi metzave vahanioti vechol-hagoyim et-beit Israël kaașer inoa bakevara velo-ipol tzeror aretz.",
+    "tokens": [
+     {
+      "t": "Căci iată, poruncesc: Voi scutura casa lui Israel între toate neamurile, precum se scutură [grânele] "
+     },
+     {
+      "t": "într-o sită",
+      "w": "într-o sită",
+      "heb": "בַּכְּבָרָה",
+      "translit": "bakevara",
+      "strong": "H3531",
+      "pos": "prepoziție + substantiv, feminin singular, cu articol",
+      "def_ro": "în sită, în ciur.",
+      "dict_ro": "Kevara — sita sau ciurul în care se cerne grâul; Metzudat Țion o compară cu sita de făină și cu „grătarul” (mikhbar) al altarului (Exod 27:4). Imaginea e dublă: exilul îl va scutura pe Israel printre toate neamurile, dar sita păstrează ce e prețios. Radak și Metzudat David explică: praful și pleava cad prin găuri, dar boabele bune și pietricelele mari rămân sus — tot așa vor pieri în exil păcătoșii, dar cei drepți nu se vor pierde, ci vor vedea mântuirea."
+     },
+     {
+      "t": " și nicio piatră nu va cădea la pământ."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי־הִנֵּה אָנֹכִי מְצַוֶּה וַהֲנִעוֹתִי...",
+      "translation": "„Căci iată, poruncesc: Voi scutura casa...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "διότι ἰδοὺ ἐγὼ ἐντέλλομαι καὶ λικμήσω ἐν πᾶσι τοῖς ἔθνεσι τὸν οἶκον ᾿Ισραήλ, ὃν τρόπον λικμᾶται ἐν τῷ λικμῷ καὶ οὐ μὴ πέσῃ σύντριμμα ἐπὶ τὴν γῆν.",
+      "greek": true,
+      "translation": "„Căci iată, Eu poruncesc și voi vântura casa lui Israel printre toate neamurile, precum se vântură cu lopata de vânturat, și nu va cădea nicio fărâmă pe pământ.”",
+      "note": "Septuaginta schimbă imaginea din „cernere în sită” în „vânturare” (λικμάω) și redă „piatră” (țeror) prin „fărâmă” (σύντριμμα)."
+     }
+    ],
+    "refs": [
+     "Levitic 26:33",
+     "Deuteronom 28:64"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Căci iată, poruncesc” — să-i exilez printre toate neamurile, o risipire neobișnuit de mare. „Precum se scutură” — ce se cerne cu sita, după ce tărâța fină a ieșit din ea și rămâne cea groasă, care nu poate ieși, și atunci cel ce scutură o scutură din toate puterile."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și voi scutura” — îi voi clătina pe Israel în exil printre neamuri, precum se scutură grânele în sită ca să cadă țărâna prin găurile ei; și cu toate acestea, pietricelele mari nu cad pe pământ prin găurile sitei, căci găurile sunt prea strâmte pentru ele. Tot așa Israel: chiar dacă vor fi rătăcitori și pribegi în exil, nu se vor sfârși acolo cei drepți, ci doar cei nelegiuiți și răzvrătiți."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: așa cum se clatină bobul de grâu în sită, iar țărâna și pleava cad la pământ, și boabele bune, cele mari, rămân sus — tot așa Israel va fi clătinat și purtat printre toate neamurile, și nu vor cădea la pământ decât păcătoșii dintre ei, asemenea țărânii și plevei, care n-au nădejde în mântuire; ceilalți, care vor fi vii în vremea mântuirii, și cei ce vor muri în exil cu pocăință, toți vor vedea mântuirea."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Bakevara” — un fel de sită în care se cerne făina, asemenea lui „și să-i faci un grătar” (Exod 27:4). „Țeror” — o bucată groasă de pământ."
+     }
+    ]
+   },
+   {
+    "v": "9:10",
+    "t": "De sabie vor peri toți păcătoșii din poporul Meu, aceia care spun: „Răul nu se va apropia de noi și nu ne va ajunge!”",
+    "heb": "בַּחֶרֶב יָמוּתוּ כֹּל חַטָּאֵי עַמִּי הָאֹמְרִים לֹא־תַגִּישׁ וְתַקְדִּים בַּעֲדֵינוּ הָרָעָה׃",
+    "translit": "Baherev iamutu kol hataei ami haomrim lo-tagiș vetakdim baadeinu haraa.",
+    "tokens": [
+     {
+      "t": "De sabie vor peri toți "
+     },
+     {
+      "t": "păcătoșii",
+      "w": "păcătoșii",
+      "heb": "חַטָּאֵי",
+      "translit": "hataei",
+      "strong": "H2400",
+      "pos": "substantiv, masculin plural, în construcție",
+      "def_ro": "păcătoșii, cei vinovați.",
+      "dict_ro": "Hataim — păcătoșii statornici, cei al căror caracter e definit de păcat. Radak precizează că profetul nu vorbește despre toți păcătoșii, ci despre cei care spuneau „răul nu se va apropia de noi” — care negau legătura dintre faptă și urmare și socoteau orice nenorocire o simplă întâmplare, cum avertizează Tora: „dacă veți umbla cu Mine la întâmplare” (Levitic 26:21). Metzudat David rezumă: ei spuneau că nu există răsplată și pedeapsă."
+     },
+     {
+      "t": " din poporul Meu, aceia care spun: „Răul nu se va apropia de noi și nu ne va ajunge!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בַּחֶרֶב יָמוּתוּ כֹּל חַטָּאֵי...",
+      "translation": "„De sabie vor peri toți păcătoșii...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐν ρομφαίᾳ τελευτήσουσι πάντες ἁμαρτωλοὶ λαοῦ μου οἱ λέγοντες· οὐ μὴ ἐγγίσῃ οὐδ᾿ οὐ μὴ γένηται ἐφ᾿ ἡμᾶς τὰ κακά.",
+      "greek": true,
+      "translation": "„De sabie vor muri toți păcătoșii poporului Meu, cei ce zic: nicidecum nu se vor apropia și nicidecum nu vor veni asupra noastră relele.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 33:14",
+     "Ezechiel 20:38",
+     "Maleahi 3:2-5",
+     "Matei 3:10-12",
+     "Psalmul 10:11",
+     "Eclesiastul 8:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Răul nu se va apropia și nu ne va ajunge” — din pricina nelegiuirilor noastre, răul nu se va grăbi să se apropie și să vină."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De sabie vor peri” — cei ce vor muri de sabia neamurilor vor fi toți păcătoșii din poporul Meu, care spun: nu va veni răul asupra noastră, căci nu există răsplată și pedeapsă; dar cei drepți vor rămâne și sabia nu-i va mistui."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: profetul a vorbit despre păcătoșii din generația lui, și nu despre toți păcătoșii, căci mulți dintre ei au fost exilați, ci despre cei care spuneau „răul nu se va apropia și nu ne va ajunge”: deznădăjduiau de pedeapsă și ziceau: vom face după pofta inimii noastre, iar dacă va veni răul, nu va veni din pricina faptelor noastre, ci e o întâmplare în lume, precum a spus Tora: „și veți umbla cu Mine la întâmplare”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tagiș” — cu sensul de apropiere. „Vetakdim” — cu sensul de grabă. „Baadeinu” — adică asupra noastră."
+     }
+    ]
+   },
+   {
+    "v": "9:11",
+    "t": "În ziua aceea, voi ridica coliba prăbușită a lui David, voi repara crăpăturile ei și îi voi ridica ruinele și o voi reclădi cum era în zilele de odinioară,",
+    "heb": "בַּיּוֹם הַהוּא אָקִים אֶת־סֻכַּת דָּוִיד הַנֹּפֶלֶת וְגָדַרְתִּי אֶת־פִּרְצֵיהֶן וַהֲרִסֹתָיו אָקִים וּבְנִיתִיהָ כִּימֵי עוֹלָם׃",
+    "translit": "Bayom hahu akim et-sukat David hanofelet vegadarti et-pirtzeihem veharisotav akim uvenitiha kimei olam.",
+    "tokens": [
+     {
+      "t": "În ziua aceea, voi ridica "
+     },
+     {
+      "t": "coliba prăbușită a lui David",
+      "w": "coliba prăbușită a lui David",
+      "heb": "סֻכַּת דָּוִיד הַנֹּפֶלֶת",
+      "translit": "sukat David hanofelet",
+      "strong": "H5521",
+      "pos": "substantiv, feminin singular, în construcție + nume propriu + participiu",
+      "def_ro": "coliba căzută, cortul prăbușit.",
+      "dict_ro": "Suka — coliba de ramuri, adăpostul fragil (același cuvânt ca la sărbătoarea Sucot); Radak explică imaginea: domnia lui David e numită „colibă” pentru că îl acoperă și îl adăpostește pe popor, iar Targum Ionatan, citat de Rashi, traduce direct „regatul casei lui David”. Talmudul (Sanhedrin 96b-97a) numește de aici pe Mesia „bar nifli” — „fiul celei căzute”. Iacov, fratele Domnului, citează versetul la Sinodul din Ierusalim (Faptele Apostolilor 15:16-17), după forma lui din Septuaginta."
+     },
+     {
+      "t": ", voi repara crăpăturile ei și îi voi ridica ruinele și o voi reclădi cum era în zilele de odinioară,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בַּיּוֹם הַהוּא אָקִים אֶת־סֻכַּת...",
+      "translation": "„În ziua aceea, voi ridica coliba...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐν τῇ ἡμέρᾳ ἐκείνῃ ἀναστήσω τὴν σκηνὴν Δαυὶδ τὴν πεπτωκυῖαν καὶ ἀνοικοδομήσω τὰ πεπτωκότα αὐτῆς καὶ τὰ κατεσκαμμένα αὐτῆς ἀναστήσω καὶ ἀνοικοδομήσω αὐτὴν καθὼς αἱ ἡμέραι τοῦ αἰῶνος,",
+      "greek": true,
+      "translation": "„În ziua aceea voi ridica cortul lui David cel căzut și voi rezidi cele căzute ale lui și cele dărâmate ale lui le voi ridica și îl voi rezidi ca în zilele veacului,”",
+      "note": "Corespondență strânsă; „coliba” e redată prin „cort” (σκηνή), iar „crăpăturile” prin „cele căzute”."
+     }
+    ],
+    "refs": [
+     "Faptele Apostolilor 15:15-17",
+     "Isaia 9:6,7",
+     "Ieremia 23:5,6",
+     "Ezechiel 34:23,24",
+     "Osea 3:5",
+     "Isaia 16:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „În ziua aceea” — după ce toate acestea vor veni asupra lui, va veni ziua aceea, ziua hotărâtă pentru mântuire, și atunci... „Voi ridica coliba prăbușită a lui David” — Ionatan traduce: regatul casei lui David."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„În ziua aceea” — când se vor sfârși nelegiuiții. „Voi ridica” — adică voi întoarce domnia la casa lui David, care a căzut și a fost umilită în zilele exilului. „Și ruinele” — ceea ce a fost dărâmat din domnia casei lui David în toate zilele exilului, în care n-au domnit deloc, atunci o voi ridica și o voi zidi ca să fie zidită și întocmită ca în zilele de odinioară, adică așa cum a fost în zilele lui David însuși."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „În ziua aceea” — în ziua mântuirii voi ridica coliba căzută a lui David; pentru că a spus că domnia lui Efraim va înceta, a spus că domnia lui David se va ridica. Iar ea e numită „colibă” ca pildă, pentru că acoperă poporul [ca un adăpost]."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 96b-97a",
+      "text": "Rav Nahman i-a spus lui Rabi Ițhak: ai auzit când va veni „bar nifli”? Rabi Ițhak i-a spus: cine este bar nifli? I-a răspuns: Mesia. Îl numești pe Mesia „bar nifli”? Da, căci scrie: „În ziua aceea voi ridica coliba lui David cea căzută (hanofelet)” (Amos 9:11) — de aceea Mesia e numit „fiul celei căzute”."
+     }
+    ]
+   },
+   {
+    "v": "9:12",
+    "t": "pentru ca să cucerească rămășița Edomului și toate neamurile, căci numele Meu este asupra lor – rostirea DOMNULUI care înfăptuiește aceasta.",
+    "heb": "לְמַעַן יִירְשׁוּ אֶת־שְׁאֵרִית אֱדוֹם וְכָל־הַגּוֹיִם אֲשֶׁר־נִקְרָא שְׁמִי עֲלֵיהֶם נְאֻם־יְהוָה עֹשֶׂה זֹאת׃",
+    "translit": "Leman yirșu et-șeerit Edom vechol-hagoyim așer-nikra șemi aleihem neum-ADONAI ose zot.",
+    "tokens": [
+     {
+      "t": "pentru ca să cucerească "
+     },
+     {
+      "t": "rămășița Edomului",
+      "w": "rămășița Edomului",
+      "heb": "שְׁאֵרִית אֱדוֹם",
+      "translit": "șeerit Edom",
+      "strong": "H7611",
+      "pos": "substantiv, feminin singular, în construcție + nume propriu",
+      "def_ro": "rămășița lui Edom, ce a rămas din Edom.",
+      "dict_ro": "Șeerit — rămășița, restul supraviețuitor; Radak explică că Israel va stăpâni ce va rămâne din țara Edomului, ca în zilele lui David, care pusese garnizoane în Edom (Samuel II 8:14). Versetul are o istorie de lectură remarcabilă: Septuaginta a citit „Adam” (oameni) în loc de „Edom” și „vor căuta” (idreșu) în loc de „vor moșteni” (yirșu), obținând „ca să caute [pe Domnul] rămășița oamenilor și toate neamurile” — formă pe care Iacov o citează în Faptele Apostolilor 15:17 ca temei pentru primirea neamurilor."
+     },
+     {
+      "t": " și toate neamurile, căci numele Meu este asupra lor – rostirea DOMNULUI care înfăptuiește aceasta."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לְמַעַן יִירְשׁוּ אֶת־שְׁאֵרִית אֱדוֹם...",
+      "translation": "„pentru ca să cucerească rămășița Edomului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅπως ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων καὶ πάντα τὰ ἔθνη, ἐφ᾿ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ᾿ αὐτούς, λέγει Κύριος ὁ Θεὸς ὁ ποιῶν πάντα ταῦτα.",
+      "greek": true,
+      "translation": "„ca să caute [pe Domnul] rămășița oamenilor și toate neamurile peste care s-a chemat numele Meu, zice Domnul Dumnezeu, Cel ce face toate acestea.”",
+      "note": "Divergență majoră: Septuaginta are „ca să caute rămășița oamenilor”, acolo unde Textul Masoretic are „ca să cucerească rămășița Edomului” — traducătorii au citit Adam (oameni) în loc de Edom și idreșu (vor căuta) în loc de yirșu (vor moșteni). Forma greacă e cea citată în Faptele Apostolilor 15:17."
+     }
+    ],
+    "refs": [
+     "Isaia 11:14",
+     "Obadia 1:18-21",
+     "Numeri 24:17",
+     "Maleahi 1:4",
+     "Isaia 43:7",
+     "Ieremia 14:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Pentru ca să cucerească” — [adică] Israel [să moștenească] rămășița Edomului etc., pentru că numele Meu este chemat asupra lor; „așer” are aici sensul de „căci”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Pentru ca să cucerească” — versetul e inversat, ca și cum ar fi spus: „ca să moștenească cei peste care e chemat numele Meu”; adică domnia va fi astfel încât poporul peste care e chemat numele Meu, ca să fie numit poporul DOMNULUI, să moștenească rămășița ce va rămâne din toate neamurile. „Care înfăptuiește aceasta” — Cel ce face binele acela."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: voi zidi [coliba] ca în zilele de odinioară, ca să-i moștenească pe dușmanii lor vecini — Edom, filisteni, Moab și Amon, adică „toate neamurile”; căci David, regele lui Israel, a pus garnizoane în Edom și i-a supus pe toți ceilalți înaintea lui, și tot așa va fi în viitor. „Care înfăptuiește aceasta” — hotărârea pe care am rostit-o o voi împlini, căci puterea e în mâna Mea."
+     }
+    ]
+   },
+   {
+    "v": "9:13",
+    "t": "Iată, vin zile – rostirea DOMNULUI – când cel care ară va întâlni pe cel care culege și cel care stoarce strugurii va întâlni pe cel care aduce semințele. Din munți va picura vin și dealurile se vor topi.",
+    "heb": "הִנֵּה יָמִים בָּאִים נְאֻם־יְהוָה וְנִגַּשׁ חוֹרֵשׁ בַּקֹּצֵר וְדֹרֵךְ עֲנָבִים בְּמֹשֵׁךְ הַזָּרַע וְהִטִּיפוּ הֶהָרִים עָסִיס וְכָל־הַגְּבָעוֹת תִּתְמוֹגַגְנָה׃",
+    "translit": "Hine iamim baim neum-ADONAI venigaș horeș bakotzer vedoreh anavim bemoshech hazara vehitifu heharim asis vechol-hagevaot titmogagna.",
+    "tokens": [
+     {
+      "t": "Iată, vin zile – rostirea DOMNULUI – când "
+     },
+     {
+      "t": "cel care ară",
+      "w": "cel care ară",
+      "heb": "חוֹרֵשׁ",
+      "translit": "horeș",
+      "strong": "H2790",
+      "pos": "verb, qal, participiu, masculin singular",
+      "def_ro": "plugarul, cel ce ară.",
+      "dict_ro": "Hareș — „a ara, a brăzda”; imaginea plugarului care îl ajunge pe secerător reia binecuvântarea din Levitic 26:5 („treieratul vă va ține până la culesul viei”), dar o întrece: recolta va fi atât de mare încât seceratul nu se va termina până nu vine vremea aratului următor. Radak și Metzudat David citesc și „munții vor picura must” și „dealurile se vor topi” ca pilde ale belșugului — dealurile par să se topească din pricina laptelui care curge din turme (compară Ioel 3:18)."
+     },
+     {
+      "t": " va întâlni pe cel care culege și cel care stoarce strugurii va întâlni pe cel care aduce semințele. Din munți va picura vin și dealurile se vor topi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנֵּה יָמִים בָּאִים נְאֻם־יְהוָה...",
+      "translation": "„Iată, vin zile – rostirea DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἰδοὺ ἡμέραι ἔρχονται, λέγει Κύριος, καὶ καταλήψεται ὁ ἀμητὸς τὸν τρυγητόν, καὶ περκάσει ἡ σταφυλὴ ἐν τῷ σπόρῳ, καὶ ἀποσταλάξει τὰ ὄρη γλυκασμόν, καὶ πάντες οἱ βουνοὶ σύμφυτοι ἔσονται·",
+      "greek": true,
+      "translation": "„Iată, vin zile, zice Domnul, și secerișul va ajunge culesul viei, și strugurele se va pârgui în vremea semănatului, și munții vor picura dulceață, și toate dealurile vor fi sădite.”",
+      "note": "Septuaginta reformulează imaginile agricole („secerișul va ajunge culesul viei”, „strugurele se va pârgui la semănat”) și redă „dealurile se vor topi” prin „dealurile vor fi sădite” (σύμφυτοι) — o divergență reală de sens."
+     }
+    ],
+    "refs": [
+     "Levitic 26:5",
+     "Ezechiel 36:35",
+     "Osea 2:21-23",
+     "Ioan 4:35",
+     "Ioel 3:18,20",
+     "Isaia 35:1,2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cel care ară va întâlni pe cel care culege” — „treieratul vă va ține până la culesul viei, iar culesul viei până la semănat” (Levitic 26:5): nu vor termina de arat până nu vine secerișul, și nu vor termina de secerat până nu vine vremea semănatului. „Se vor topi” — Ionatan traduce: se vor despica; pământul lucrat se despică atunci când vin ploile. „Asis” — vin bun și dulce."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cel care ară va întâlni pe cel care culege” — adică va crește multă recoltă și se vor ocupa cu seceratul până la vremea aratului, iar plugarul și secerătorul se vor apropia și se vor întâlni unul cu altul; la fel, cel ce calcă strugurii îl va întâlni pe cel ce duce sămânța la semănat. „Și dealurile se vor topi” — adică va fi pășune grasă și laptele va curge din turme, ca și cum dealurile s-ar topi din belșugul laptelui."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: atât de mare va fi recolta, încât se vor îndeletnici cu seceratul până la vremea aratului și se vor întâlni unul cu altul, plugarul cu secerătorul, după cum a spus Tora: „treieratul vă va ține până la culesul viei” — dar aceasta e mai mult. „Munții vor picura must” — ca pildă, din belșugul vinului și al roadelor, asemenea expresiei „[țară] în care curge lapte și miere”."
+     }
+    ]
+   },
+   {
+    "v": "9:14",
+    "t": "Voi aduce înapoi pe prizonierii poporului Meu Israel și ei vor reconstrui orașele pustiite și ei se vor întoarce și vor planta vii și le vor bea vinul, vor face grădini și le vor mânca rodul.",
+    "heb": "וְשַׁבְתִּי אֶת־שְׁבוּת עַמִּי יִשְׂרָאֵל וּבָנוּ עָרִים נְשַׁמּוֹת וְיָשָׁבוּ וְנָטְעוּ כְרָמִים וְשָׁתוּ אֶת־יֵינָם וְעָשׂוּ גַנּוֹת וְאָכְלוּ אֶת־פְּרִיהֶם׃",
+    "translit": "Veșavti et-șevut ami Israël uvanu arim neșamot veyașavu venateu cheramim veșatu et-einam veasu ganot veachlu et-periehem.",
+    "tokens": [
+     {
+      "t": "Voi aduce înapoi pe "
+     },
+     {
+      "t": "prizonierii",
+      "w": "prizonierii",
+      "heb": "שְׁבוּת",
+      "translit": "șevut",
+      "strong": "H7622",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "captivitatea, cei robiți; „a întoarce șevut” — a restatornici.",
+      "dict_ro": "Șevut — de la șava, „a lua captiv”; expresia șav șevut („a întoarce captivitatea”) ajunge să însemne restatornicirea deplină a unui popor. Metzudat Țion leagă verbul „veșavti” și de „șuva”, liniște și odihnă (Isaia 30:15), iar Metzudat David explică: voi așeza în liniște și odihnă pe fiii robiei poporului Meu. Radak subliniază inversarea blestemului: altădată dușmanii mâncau roadele muncii lor (Deuteronom 28:30), acum ei înșiși vor bea vinul viilor pe care le-au sădit."
+     },
+     {
+      "t": " poporului Meu Israel și ei vor reconstrui orașele pustiite și ei se vor întoarce și vor planta vii și le vor bea vinul, vor face grădini și le vor mânca rodul."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְשַׁבְתִּי אֶת־שְׁבוּת עַמִּי יִשְׂרָאֵל...",
+      "translation": "„Voi aduce înapoi pe prizonierii poporului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπιστρέψω τὴν αἰχμαλωσίαν τοῦ λαοῦ μου ᾿Ισραήλ, καὶ οἰκοδομήσουσι πόλεις τὰς ἠφανισμένας καὶ κατοικήσουσι καὶ φυτεύσουσιν ἀμπελῶνας καὶ πίονται τὸν οἶνον αὐτῶν καὶ ποιήσουσι κήπους καὶ φάγονται τὸν καρπὸν αὐτῶν·",
+      "greek": true,
+      "translation": "„Și voi întoarce robia poporului Meu Israel, și vor zidi cetățile pustiite și le vor locui și vor sădi vii și vor bea vinul lor și vor face grădini și vor mânca rodul lor.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmul 53:6",
+     "Ieremia 30:3,18",
+     "Ezechiel 39:25",
+     "Isaia 61:4",
+     "Isaia 65:21",
+     "Isaia 62:8,9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Voi aduce înapoi” — îi voi așeza în liniște și odihnă pe fiii robiei poporului Meu Israel. „Orașele pustiite” — care fuseseră pustii în vremea exilului. „Și se vor întoarce” — vor locui în orașele acelea și nu vor mai fi exilați din ele. „Și le vor bea vinul” — ei vor bea vinul, și neamurile nu vor mai veni să-l bea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și le vor bea vinul și le vor mânca rodul” — adică osteneala lor nu va fi în zadar, să-și lucreze pământul și să-l mănânce dușmanii lor vecini, cum făceau când erau în țara lor înainte de nimicirea ei, când nu făceau voia lui Dumnezeu; și tot așa a spus în profeția lui Isaia: „vor zidi case și le vor locui, vor sădi vii și le vor mânca rodul” (Isaia 65:21)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Veșavti” — cu sensul de liniște și odihnă, ca în „prin întoarcere și odihnă veți fi mântuiți” (Isaia 30:15). „Șevut” — din „robia” exilului. „Neșamot” — din „pustiire”."
+     }
+    ]
+   },
+   {
+    "v": "9:15",
+    "t": "Îi voi planta pe pământul lor și nu vor mai fi niciodată dezrădăcinați de pe pământul lor pe care li l-am dat – a spus DOMNUL, Dumnezeul tău.",
+    "heb": "וּנְטַעְתִּים עַל־אַדְמָתָם וְלֹא יִנָּתְשׁוּ עוֹד מֵעַל אַדְמָתָם אֲשֶׁר נָתַתִּי לָהֶם אָמַר יְהוָה אֱלֹהֶיךָ׃",
+    "translit": "Unetatim al-admatam velo inatșu od meal admatam așer natati lahem amar ADONAI Eloheha.",
+    "tokens": [
+     {
+      "t": "Îi voi planta",
+      "w": "Îi voi planta",
+      "heb": "וּנְטַעְתִּים",
+      "translit": "unetatim",
+      "strong": "H5193",
+      "pos": "verb, qal, perfect consecutiv, persoana I singular + sufix persoana a III-a plural",
+      "def_ro": "îi voi sădi, îi voi înrădăcina.",
+      "dict_ro": "Nata — „a sădi, a planta”; după versetul precedent, în care oamenii plantează vii și grădini, acum Dumnezeu Însuși îl plantează pe Israel în pământul lui. Contrapunctul e verbul nataș — „a smulge din rădăcină” —, pe care Metzudat Țion îl leagă de misiunea lui Ieremia, „să smulgi și să dărâmi” (Ieremia 1:10). Radak explică: ca pomul sădit, care nu se mișcă din locul lui, nu vor mai fi exilați — și aceasta pentru că vor sluji mereu lui Dumnezeu și vor face voia Lui."
+     },
+     {
+      "t": " pe pământul lor și nu vor mai fi niciodată dezrădăcinați de pe pământul lor pe care li l-am dat – a spus DOMNUL, Dumnezeul tău."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּנְטַעְתִּים עַל־אַדְמָתָם וְלֹא יִנָּתְשׁוּ...",
+      "translation": "„Îi voi planta pe pământul lor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ καταφυτεύσω αὐτοὺς ἐπὶ τῆς γῆς αὐτῶν καὶ οὐ μὴ ἐκσπασθῶσιν οὐκέτι ἀπὸ τῆς γῆς, ἧς ἔδωκα αὐτοῖς, λέγει Κύριος ὁ Θεὸς ὁ παντοκράτωρ.",
+      "greek": true,
+      "translation": "„Și îi voi sădi în pământul lor, și nicidecum nu vor mai fi smulși din pământul pe care li l-am dat, zice Domnul Dumnezeu Atotțiitorul.”",
+      "note": "Septuaginta încheie cu „Domnul Dumnezeu Atotțiitorul” (ὁ παντοκράτωρ), acolo unde Textul Masoretic are „DOMNUL, Dumnezeul tău” — adresarea personală către Israel („al tău”) dispare."
+     }
+    ],
+    "refs": [
+     "Isaia 60:21",
+     "Ieremia 24:6",
+     "Ieremia 32:41",
+     "Ezechiel 34:28",
+     "Ioel 3:20",
+     "Mica 4:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Îi voi planta” — vor fi înrădăcinați ca un pom sădit. „Și nu vor mai fi dezrădăcinați” — nu vor mai fi smulși de pe pământul pe care li l-am dat de la început, adică nu vor mai fi exilați din el, căci vor locui acolo pe vecie."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Îi voi planta” — ca pomul sădit, care nu se mișcă din locul lui; iar sensul este că nu vor mai fi exilați din țara lor, și aceasta pentru că vor sluji mereu lui Dumnezeu și vor face voia Lui. „A spus DOMNUL, Dumnezeul tău” — este cuvântul lui Dumnezeu adresat profetului."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Yinatșu” — cu sensul de smulgere din rădăcină, ca în „să smulgi și să dărâmi” (Ieremia 1:10)."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
