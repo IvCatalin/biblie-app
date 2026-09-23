@@ -55152,6 +55152,972 @@
     ]
    }
   ]
+ },
+  {
+  "num": 31,
+  "title": "Haftarat Mețora",
+  "ref": "Regi II 7:3-20",
+  "intro": "Haftarat Mețora însoțește pericopa despre curățirea leprosului și rămâne, ca și cea precedentă, în ciclul lui Elișa: Samaria e asediată de arameii lui Ben-Hadad, iar foametea a ajuns atât de cumplită încât prețurile au devenit de neconceput. Elișa vestise că a doua zi, la aceeași oră, făina și orzul se vor vinde ieftin la poarta Samariei — iar ofițerul regelui își bătuse joc de profeție. Salvarea vine prin cei mai disprețuiți oameni din cetate: patru leproși, ținuți afară de lege la poartă, care descoperă că DOMNUL a pus pe fugă întreaga oaste aramee printr-un simplu zgomot de care și cai. După ce își potolesc foamea, conștiința îi împinge să vestească „ziua de veste bună”. Profeția se împlinește întocmai, în ambele ei părți: poporul se îndestulează, iar ofițerul necredincios vede minunea, dar moare călcat în picioare la poartă, fără să guste din ea.",
+  "verses": [
+   {
+    "v": "7:3",
+    "t": "Și patru oameni erau leproși [care stăteau] la poartă și fiecare a spus semenului său: „De ce stăm aici până când vom muri?",
+    "heb": "וְאַרְבָּעָה אֲנָשִׁים הָיוּ מְצֹרָעִים פֶּתַח הַשָּׁעַר וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ מָה אֲנַחְנוּ יֹשְׁבִים פֹּה עַד־מָתְנוּ׃",
+    "translit": "Vearbaa anașim haiu metzoraim petah hașaar vayomru iș el-reehu ma anahnu yoșvim po ad-matnu.",
+    "tokens": [
+     {
+      "t": "Și patru oameni erau "
+     },
+     {
+      "t": "leproși",
+      "w": "leproși",
+      "heb": "מְצֹרָעִים",
+      "translit": "metzoraim",
+      "strong": "H6879",
+      "pos": "verb, pual, participiu, masculin plural",
+      "def_ro": "loviți de țaraat, leproși.",
+      "dict_ro": "Metzoraim — leproșii, legătura directă cu pericopa Mețora (Levitic 14), care descrie curățirea leprosului. Ei stau „la poartă” pentru că Tora poruncește ca leprosul să locuiască „în afara taberei” (Levitic 13:46), explică atât Rashi, cât și Metzudat David. Talmudul (Sanhedrin 107b) îi identifică: Rabi Iohanan spune că erau Ghehazi și cei trei fii ai lui — lovit de lepra lui Naaman pentru lăcomia lui (Regi II 5:27), ucenicul alungat al lui Elișa devine, fără să știe, primul vestitor al împlinirii profeției învățătorului său."
+     },
+     {
+      "t": " [care stăteau] la poartă și fiecare a spus semenului său: „De ce stăm aici până când vom muri?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאַרְבָּעָה אֲנָשִׁים הָיוּ מְצֹרָעִים...",
+      "translation": "„Și patru oameni erau leproși [care...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τέσσαρες ἄνδρες ἦσαν λεπροὶ παρὰ τὴν θύραν τῆς πόλεως, καὶ εἶπεν ἀνὴρ πρὸς τὸν πλησίον αὐτοῦ· τί ἡμεῖς καθήμεθα ὧδε, ἕως ἀποθάνωμεν;",
+      "greek": true,
+      "translation": "„Și patru oameni erau leproși la poarta cetății, și a zis fiecare către aproapele său: de ce stăm noi aici până vom muri?”",
+      "note": "Septuaginta precizează „poarta cetății”, unde Textul Masoretic spune doar „la intrarea porții”; în rest, corespondență strânsă."
+     }
+    ],
+    "refs": [
+     "2 Regi 5:1",
+     "2 Regi 8:4",
+     "Levitic 13:46",
+     "Numeri 5:2-4",
+     "Numeri 12:14",
+     "Ieremia 8:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Patru oameni” — Ghehazi și fiii lui. „La intrarea porții” — precum s-a spus: „să locuiască singur, în afara taberei să-i fie locuința” (Levitic 13:46)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„La intrarea porții” — stăteau la intrarea porții, după legea leprosului, precum s-a spus: „în afara taberei să-i fie locuința” (Levitic 13:46). „Până vom muri” — până vom muri de foame."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 107b",
+      "text": "„Și patru oameni erau leproși la intrarea porții” (Regi II 7:3) — Rabi Iohanan spune: aceștia erau Ghehazi și cei trei fii ai lui."
+     }
+    ]
+   },
+   {
+    "v": "7:4",
+    "t": "Dacă ne gândim să mergem în oraș, foametea este în oraș și vom muri acolo; iar dacă vom sta aici, vom muri. Haideți așadar să mergem să ne predăm în tabăra arameilor: dacă ne vor cruța, vom trăi, iar dacă ne vor ucide, vom muri.”",
+    "heb": "אִם־אָמַרְנוּ נָבוֹא הָעִיר וְהָרָעָב בָּעִיר וָמַתְנוּ שָׁם וְאִם־יָשַׁבְנוּ פֹה וָמָתְנוּ וְעַתָּה לְכוּ וְנִפְּלָה אֶל־מַחֲנֵה אֲרָם אִם־יְחַיֻּנוּ נִחְיֶה וְאִם־יְמִיתֻנוּ וָמָתְנוּ׃",
+    "translit": "Im-amarnu navo hair veharaav bair vamatnu șam veim-yașavnu fo vamatnu veata lechu venipela el-mahane Aram im-yehayunu nihe veim-yemitunu vamatnu.",
+    "tokens": [
+     {
+      "t": "Dacă ne gândim să mergem în oraș, foametea este în oraș și vom muri acolo; iar dacă vom sta aici, vom muri. Haideți așadar să mergem "
+     },
+     {
+      "t": "să ne predăm",
+      "w": "să ne predăm",
+      "heb": "וְנִפְּלָה",
+      "translit": "venipla",
+      "strong": "H5307",
+      "pos": "verb, qal, cohortativ, persoana I plural",
+      "def_ro": "să cădem, să trecem de partea cuiva, să ne predăm.",
+      "dict_ro": "Nafal — literal „a cădea”; cu prepoziția „el” capătă sensul de „a trece la dușman, a dezerta”, cum explică Metzudat Țion, comparând cu acuzația adusă lui Ieremia: „tu treci la caldeeni” (Ieremia 37:13). Logica leproșilor e un calcul lucid al disperării: orașul înseamnă moarte sigură, locul lor tot moarte sigură, iar tabăra dușmană e singura variantă în care au măcar o șansă — Metzudat David o rezumă ca „oricum am alege, suntem sortiți morții”."
+     },
+     {
+      "t": " în tabăra arameilor: dacă ne vor cruța, vom trăi, iar dacă ne vor ucide, vom muri.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אִם־אָמַרְנוּ נָבוֹא הָעִיר וְהָרָעָב...",
+      "translation": "„Dacă ne gândim să mergem în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐὰν εἴπωμεν, εἰσέλθωμεν εἰς τὴν πόλιν, καὶ ὁ λιμὸς ἐν τῇ πόλει καὶ ἀποθανούμεθα ἐκεῖ· καὶ ἐὰν καθίσωμεν ὧδε, καὶ ἀποθανούμεθα. καὶ νῦν δεῦτε καὶ ἐμπέσωμεν εἰς τὴν παρεμβολὴν Συρίας· ἐὰν ζωογονήσωσιν ἡμᾶς, καὶ ζησόμεθα· καὶ ἐὰν θανατώσωσιν ἡμᾶς, καὶ ἀποθανούμεθα.",
+      "greek": true,
+      "translation": "„Dacă zicem: să intrăm în cetate — foametea e în cetate și vom muri acolo; și dacă stăm aici, vom muri. Și acum, veniți să cădem în tabăra Siriei: dacă ne vor lăsa în viață, vom trăi; și dacă ne vor omorî, vom muri.”",
+      "note": "Corespondență strânsă cu Textul Masoretic; „să ne predăm” e redat literal, „să cădem în” (ἐμπέσωμεν)."
+     }
+    ],
+    "refs": [
+     "Ieremia 14:18",
+     "Ieremia 37:13,14",
+     "Estera 4:16",
+     "Iona 3:9",
+     "Luca 15:17-19",
+     "2 Samuel 14:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Vom trăi” — căci acolo se găsește pâine. „Vom muri” — ca și cum ar spune: ce contează dacă murim, căci, oricum am alege, suntem sortiți morții."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Venipla” — cu sensul de a se abate [de partea cuiva], ca în „tu treci la caldeeni” (Ieremia 37:13)."
+     }
+    ]
+   },
+   {
+    "v": "7:5",
+    "t": "Și s-au ridicat, și în amurg au ajuns la tabăra arameilor și au ajuns la marginea taberei arameilor și iată, nu era nimeni acolo.",
+    "heb": "וַיָּקֻמוּ בַנֶּשֶׁף לָבוֹא אֶל־מַחֲנֵה אֲרָם וַיָּבֹאוּ עַד־קְצֵה מַחֲנֵה אֲרָם וְהִנֵּה אֵין־שָׁם אִישׁ׃",
+    "translit": "Vayakumu vaneșef lavo el-mahane Aram vayavou ad-ketze mahane Aram vehine ein-șam iș.",
+    "tokens": [
+     {
+      "t": "Și s-au ridicat, și "
+     },
+     {
+      "t": "în amurg",
+      "w": "în amurg",
+      "heb": "בַנֶּשֶׁף",
+      "translit": "vaneșef",
+      "strong": "H5399",
+      "pos": "prepoziție + substantiv, masculin singular, cu articol",
+      "def_ro": "în amurg, la căderea serii.",
+      "dict_ro": "Neșef — ora de trecere dintre zi și noapte (sau dintre noapte și zi); Metzudat Țion îl explică prin „seară”, comparând cu Isaia 5:11, „cei ce zăbovesc până în amurg”. Același cuvânt revine în v. 7: arameii fugiseră tocmai „în amurg” — leproșii pornesc la aceeași oră la care tabăra fusese părăsită, astfel încât ajung imediat după fugă, înaintea oricui altcuiva."
+     },
+     {
+      "t": " au ajuns la tabăra arameilor și au ajuns la marginea taberei arameilor și iată, nu era nimeni acolo."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּקֻמוּ בַנֶּשֶׁף לָבוֹא אֶל־מַחֲנֵה...",
+      "translation": "„Și s-au ridicat, și în amurg...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνέστησαν ἐν τῷ σκότει εἰσελθεῖν εἰς τὴν παρεμβολὴν Συρίας καὶ ἦλθον εἰς μέρος παρεμβολῆς Συρίας, καὶ ἰδοὺ οὐκ ἔστιν ἀνὴρ ἐκεῖ.",
+      "greek": true,
+      "translation": "„Și s-au sculat în întuneric să intre în tabăra Siriei și au venit la o parte a taberei Siriei, și iată, nu era niciun om acolo.”",
+      "note": "Septuaginta redă „amurg” prin „întuneric” (ἐν τῷ σκότει) și „marginea taberei” prin „o parte a taberei” (μέρος)."
+     }
+    ],
+    "refs": [
+     "1 Samuel 30:17",
+     "Ezechiel 12:6,7,12",
+     "Deuteronom 28:7",
+     "Deuteronom 32:25,30"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat Țion",
+      "text": "„Baneșef” — seara, ca în „cei ce zăbovesc până în amurg” (Isaia 5:11)."
+     }
+    ]
+   },
+   {
+    "v": "7:6",
+    "t": "Iar Domnul făcuse ca tabăra arameilor să audă zgomotul carelor, zgomotul cailor și zgomotul unei mari oștiri, și fiecare a spus către fratele său: „Iată, regele Israelului i-a tocmit pe regii hitiților și pe regii Egiptului să vină peste noi!”",
+    "heb": "וַאדֹנָי הִשְׁמִיעַ אֶת־מַחֲנֵה אֲרָם קוֹל רֶכֶב קוֹל סוּס קוֹל חַיִל גָּדוֹל וַיֹּאמְרוּ אִישׁ אֶל־אָחִיו הִנֵּה שָׂכַר־עָלֵינוּ מֶלֶךְ יִשְׂרָאֵל אֶת־מַלְכֵי הַחִתִּים וְאֶת־מַלְכֵי מִצְרַיִם לָבוֹא עָלֵינוּ׃",
+    "translit": "VaAdonai hișmia et-mahane Aram kol rehev kol sus kol hail gadol vayomru iș el-ahiv hine sachar-aleinu meleh Israël et-malchei hahitim veet-malchei Mițraim lavo aleinu.",
+    "tokens": [
+     {
+      "t": "Iar Domnul făcuse ca tabăra arameilor să audă "
+     },
+     {
+      "t": "zgomotul carelor",
+      "w": "zgomotul carelor",
+      "heb": "קוֹל רֶכֶב",
+      "translit": "kol reveh",
+      "strong": "H6963",
+      "pos": "substantiv, masculin singular, în construcție + substantiv",
+      "def_ro": "sunetul, vuietul carelor de luptă.",
+      "dict_ro": "Kol — „glas, sunet, zgomot”; repetat de trei ori în verset (car, cal, oaste mare), creează un crescendo auditiv. Rashi și Metzudat David subliniază că nu era un zgomot real, ci o percepție trimisă de DOMNUL: „li se părea că aud” — biruința vine fără nicio armă, doar printr-un sunet. Pomenirea regilor hitiților și a Egiptului reflectă realitatea politică a vremii: carele egiptene și caii din nord erau marile forțe militare pe care Israelul le putea tocmi cu plată (vezi Regi I 10:29)."
+     },
+     {
+      "t": ", zgomotul cailor și zgomotul unei mari oștiri, și fiecare a spus către fratele său: „Iată, regele Israelului i-a tocmit pe regii hitiților și pe regii Egiptului să vină peste noi!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַאדֹנָי הִשְׁמִיעַ אֶת־מַחֲנֵה אֲרָם...",
+      "translation": "„Iar Domnul făcuse ca tabăra arameilor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ κύριος ἀκουστὴν ἐποίησε παρεμβολὴν τὴν Συρίας φωνὴν ἅρματος καὶ φωνὴν ἵππου, φωνὴν δυνάμεως μεγάλης, καὶ εἶπεν ἀνὴρ πρὸς τὸν ἀδελφὸν αὐτοῦ· νῦν ἐμισθώσατο ἐφ᾿ ἡμᾶς ὁ βασιλεὺς ᾿Ισραὴλ τοὺς βασιλέας τῶν Χετταίων καὶ τοὺς βασιλέας Αἰγύπτου τοῦ ἐλθεῖν ἐφ᾿ ἡμᾶς.",
+      "greek": true,
+      "translation": "„Și Domnul a făcut ca tabăra Siriei să audă glas de car și glas de cal, glas de oaste mare; și a zis fiecare către fratele său: acum a tocmit împotriva noastră regele lui Israel pe regii hetiților și pe regii Egiptului, ca să vină asupra noastră.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Regi 19:7",
+     "2 Samuel 5:24",
+     "Iov 15:21",
+     "Psalmul 14:5",
+     "1 Regi 10:29",
+     "Isaia 31:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Făcuse ca tabăra Aramului să audă” — li se părea ca și cum ar auzi."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și DOMNUL făcuse să audă” — pricina pentru care n-au găsit acolo pe nimeni era că DOMNUL făcuse să se audă..., adică, prin purtarea de grijă a DOMNULUI, li s-a părut ca și cum ar auzi. „Să vină peste noi” — și acesta e zgomotul pe care îl auzim."
+     }
+    ]
+   },
+   {
+    "v": "7:7",
+    "t": "Astfel că s-au ridicat și au fugit în amurg, și și-au părăsit corturile și caii lor și măgarii lor – tabăra așa cum era – și au fugit ca să-și salveze viața.",
+    "heb": "וַיָּקוּמוּ וַיָּנוּסוּ בַנֶּשֶׁף וַיַּעַזְבוּ אֶת־אָהֳלֵיהֶם וְאֶת־סוּסֵיהֶם וְאֶת־חֲמֹרֵיהֶם הַמַּחֲנֶה כַּאֲשֶׁר־הִיא וַיָּנֻסוּ אֶל־נַפְשָׁם׃",
+    "translit": "Vayakumu vayanusu vaneșef vayaazvu et-oholeihem veet-suseihem veet-hamoreihem hamahane kaașer-hi vayanusu el-nafșam.",
+    "tokens": [
+     {
+      "t": "Astfel că s-au ridicat și au fugit în amurg, și și-au părăsit corturile și caii lor și măgarii lor – tabăra așa cum era – și au fugit "
+     },
+     {
+      "t": "ca să-și salveze viața",
+      "w": "ca să-și salveze viața",
+      "heb": "אֶל־נַפְשָׁם",
+      "translit": "el-nafșam",
+      "strong": "H5315",
+      "pos": "prepoziție + substantiv, feminin singular + sufix persoana a III-a plural",
+      "def_ro": "pentru viața lor, ca să scape cu viață.",
+      "dict_ro": "Nefeș — suflet, viață, ființă vie; „a fugi el-nafșo” înseamnă a fugi doar cu viața, lăsând totul în urmă, iar Metzudat David explică: „ca să-și salveze sufletele”. Detaliul „tabăra așa cum era” — pe care Metzudat David îl citește ca „totul întreg, cum fusese cât timp erau acolo” — pregătește ironia poveștii: o oaste întreagă își abandonează proviziile tocmai în fața unui oraș care murea de foame."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּקוּמוּ וַיָּנוּסוּ בַנֶּשֶׁף וַיַּעַזְבוּ...",
+      "translation": "„Astfel că s-au ridicat și au...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνέστησαν καὶ ἀπέδρασαν ἐν τῷ σκότει καὶ ἐγκατέλιπαν τὰς σκηνὰς αὐτῶν καὶ τοὺς ἵππους αὐτῶν καὶ τοὺς ὄνους αὐτῶν ἐν τῇ παρεμβολῇ ὥς ἐστι καὶ ἔφυγον πρὸς τὴν ψυχὴν ἑαυτῶν.",
+      "greek": true,
+      "translation": "„Și s-au sculat și au fugit în întuneric și și-au părăsit corturile și caii și măgarii în tabără, cum era, și au fugit pentru sufletul lor.”",
+      "note": "Corespondență strânsă; „amurg” e redat din nou prin „întuneric”."
+     }
+    ],
+    "refs": [
+     "Iov 18:11",
+     "Psalmul 48:4-6",
+     "Proverbe 28:1",
+     "Psalmul 33:17",
+     "Amos 2:14-16",
+     "Isaia 2:20"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Tabăra așa cum era” — totul întreg, așa cum fusese cât timp erau ei acolo. „Ca să-și salveze viața” — ca să-și scape sufletele."
+     }
+    ]
+   },
+   {
+    "v": "7:8",
+    "t": "Leproșii aceștia au ajuns până la marginea taberei și au intrat într-un cort și au mâncat și au băut și au luat de acolo argint și aur și veșminte și s-au dus și le-au ascuns; s-au întors și au intrat în alt cort și au luat de acolo și s-au dus și le-au ascuns.",
+    "heb": "וַיָּבֹאוּ הַמְצֹרָעִים הָאֵלֶּה עַד־קְצֵה הַמַּחֲנֶה וַיָּבֹאוּ אֶל־אֹהֶל אֶחָד וַיֹּאכְלוּ וַיִּשְׁתּוּ וַיִּשְׂאוּ מִשָּׁם כֶּסֶף וְזָהָב וּבְגָדִים וַיֵּלְכוּ וַיַּטְמִנוּ וַיָּשֻׁבוּ וַיָּבֹאוּ אֶל־אֹהֶל אַחֵר וַיִּשְׂאוּ מִשָּׁם וַיֵּלְכוּ וַיַּטְמִנוּ׃",
+    "translit": "Vayavou hametzoraim haele ad-ketze hamahane vayavou el-ohel ehad vaiochlu vayiștu vayisu mișam kesef vezahav uvegadim vaielchu vayatminu vayașuvu vayavou el-ohel aher vayisu mișam vaielchu vayatminu.",
+    "tokens": [
+     {
+      "t": "Leproșii aceștia au ajuns până la marginea taberei și au intrat într-un cort și au mâncat și au băut și au luat de acolo argint și aur și veșminte și s-au dus și "
+     },
+     {
+      "t": "le-au ascuns",
+      "w": "le-au ascuns",
+      "heb": "וַיַּטְמִנוּ",
+      "translit": "vayatminu",
+      "strong": "H2934",
+      "pos": "verb, hifil, imperfect consecutiv, persoana a III-a masculin plural",
+      "def_ro": "au ascuns, au îngropat [ca să păstreze].",
+      "dict_ro": "Taman — „a ascunde, a îngropa”, de obicei în pământ, ca să păstrezi ceva de valoare (ca Acan, care a ascuns prada în cortul lui, Iosua 7:21). Primul impuls al leproșilor, după foamea potolită, e să-și asigure bogăția — de două ori, cort după cort. Tocmai această repetiție face cu atât mai puternică întoarcerea de conștiință din versetul următor: „nu facem bine”."
+     },
+     {
+      "t": "; s-au întors și au intrat în alt cort și au luat de acolo și s-au dus și le-au ascuns."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבֹאוּ הַמְצֹרָעִים הָאֵלֶּה עַד־קְצֵה...",
+      "translation": "„Leproșii aceștia au ajuns până la...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἰσῆλθον οἱ λεπροὶ οὗτοι ἕως μέρους τῆς παρεμβολῆς καὶ εἰσῆλθον εἰς σκηνὴν μίαν καὶ ἔφαγον καὶ ἔπιον καὶ ᾖραν ἐκεῖθεν ἀργύριον καὶ χρυσίον καὶ ἱματισμὸν καὶ ἐπορεύθησαν· καὶ ἐπέστρεψαν ἐκεῖθεν καὶ εἰσῆλθον εἰς σκηνὴν ἄλλην καὶ ἔλαβον ἐκεῖθεν καὶ ἐπορεύθησαν καὶ κατέκρυψαν.",
+      "greek": true,
+      "translation": "„Și au intrat leproșii aceștia până la o parte a taberei și au intrat într-un cort și au mâncat și au băut și au luat de acolo argint și aur și îmbrăcăminte și s-au dus; și s-au întors de acolo și au intrat în alt cort și au luat de acolo și s-au dus și le-au ascuns.”",
+      "note": "Septuaginta omite prima mențiune „și le-au ascuns” (după primul cort), păstrând-o doar la final."
+     }
+    ],
+    "refs": [
+     "2 Regi 5:24",
+     "Iosua 7:21",
+     "Ieremia 41:8",
+     "Matei 13:44",
+     "Matei 25:18"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:9",
+    "t": "Apoi și-au spus unul altuia: „Nu facem bine. Ziua aceasta este o zi de veste bună, iar noi tăcem. Dacă așteptăm până se luminează dimineața, vom fi găsiți vinovați. Haideți să mergem acum și să vestim casa regelui.”",
+    "heb": "וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ לֹא־כֵן אֲנַחְנוּ עֹשִׂים הַיּוֹם הַזֶּה יוֹם־בְּשֹׂרָה הוּא וַאֲנַחְנוּ מַחְשִׁים וְחִכִּינוּ עַד־אוֹר הַבֹּקֶר וּמְצָאָנוּ עָוֹן וְעַתָּה לְכוּ וְנָבֹאָה וְנַגִּידָה בֵּית הַמֶּלֶךְ׃",
+    "translit": "Vayomru iș el-reehu lo-chen anahnu osim hayom haze yom-besora hu vaanahnu mahșim vehikinu ad-or haboker umetzanu avon veata lechu venavoa venagida beit hameleh.",
+    "tokens": [
+     {
+      "t": "Apoi și-au spus unul altuia: „Nu facem bine. Ziua aceasta este "
+     },
+     {
+      "t": "o zi de veste bună",
+      "w": "o zi de veste bună",
+      "heb": "יוֹם־בְּשֹׂרָה",
+      "translit": "iom-besora",
+      "strong": "H1309",
+      "pos": "substantiv, masculin singular, în construcție + substantiv, feminin singular",
+      "def_ro": "zi de vestire bună, zi de vești bune.",
+      "dict_ro": "Besora — „veste (bună)”, din rădăcina basar, „a vesti”; Septuaginta o redă aici prin εὐαγγελία, din aceeași familie cu „evanghelie”. Metzudat David explică de ce tăcerea ar fi vinovată: dacă așteaptă până dimineață, regele va afla de la alții și îi va socoti vinovați că n-au alergat să vestească. Tradiția creștină a citit în acest verset principiul că vestea bună nu poate fi păstrată doar pentru sine (vezi Isaia 52:7)."
+     },
+     {
+      "t": ", iar noi tăcem. Dacă așteptăm până se luminează dimineața, vom fi găsiți vinovați. Haideți să mergem acum și să vestim casa regelui.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ לֹא־כֵן...",
+      "translation": "„Apoi și-au spus unul altuia: „Nu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ἀνὴρ πρὸς τὸν πλησίον αὐτοῦ· οὐχ οὕτως ἡμεῖς ποιοῦμεν· ἡ ἡμέρα αὕτη ἡμέρα εὐαγγελίας ἐστί, καὶ ἡμεῖς σιωπῶμεν καὶ μένομεν ἕως φωτὸς τοῦ πρωΐ καὶ εὑρήσομεν ἀνομίαν· καὶ νῦν δεῦρο καὶ εἰσέλθωμεν καὶ ἀναγγείλωμεν εἰς τὸν οἶκον τοῦ βασιλέως.",
+      "greek": true,
+      "translation": "„Și a zis fiecare către aproapele său: nu facem bine; ziua aceasta e zi de veste bună, și noi tăcem și rămânem până la lumina dimineții și vom găsi fărădelege; și acum, veniți să intrăm și să vestim în casa regelui.”",
+      "note": "Corespondență strânsă; „veste bună” e redată prin εὐαγγελία, din aceeași familie de cuvinte cu „evanghelie”."
+     }
+    ],
+    "refs": [
+     "Hagai 1:4,5",
+     "Isaia 41:27",
+     "Isaia 52:7",
+     "Naum 1:15",
+     "Luca 2:10",
+     "Numeri 32:23"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Vom fi găsiți vinovați” — vom fi socotiți vinovați de către domnie."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nu facem bine” — nu e bine și drept. „Ziua aceasta...” — căci astăzi e ceva de vestit, iar noi tăcem de la a vesti; și dacă vom aștepta până dimineață, oare nu va afla regele prin alții, și vom fi vinovați în ochii lui că nu ne-am grăbit să venim să vestim?"
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mahșim” — tăcem, ca în „și eu știu, tăceți” (Regi II 2:3). „Vehikinu” — cu sensul de întârziere și așteptare."
+     }
+    ]
+   },
+   {
+    "v": "7:10",
+    "t": "Au venit și au strigat către portarul orașului și le-au vestit, spunând: „Am ajuns la tabăra arameilor și iată, nu e nimeni acolo, nici glas de om, ci doar caii legați și măgarii legați, și corturile așa cum erau.”",
+    "heb": "וַיָּבֹאוּ וַיִּקְרְאוּ אֶל־שֹׁעֵר הָעִיר וַיַּגִּידוּ לָהֶם לֵאמֹר בָּאנוּ אֶל־מַחֲנֵה אֲרָם וְהִנֵּה אֵין־שָׁם אִישׁ וְקוֹל אָדָם כִּי אִם־הַסּוּס אָסוּר וְהַחֲמוֹר אָסוּר וְאֹהָלִים כַּאֲשֶׁר־הֵמָּה׃",
+    "translit": "Vayavou vayikreu el-șoer hair vayagidu lahem lemor banu el-mahane Aram vehine ein-șam iș vekol adam ki im-hasus asur vehahamor asur veohalim kaașer-hema.",
+    "tokens": [
+     {
+      "t": "Au venit și au strigat către "
+     },
+     {
+      "t": "portarul orașului",
+      "w": "portarul orașului",
+      "heb": "שֹׁעֵר הָעִיר",
+      "translit": "șoer hair",
+      "strong": "H7778",
+      "pos": "substantiv, masculin singular, în construcție + substantiv cu articol",
+      "def_ro": "paznicul porții orașului.",
+      "dict_ro": "Șoer — portarul, paznicul porții, din șaar („poartă”). Leproșii nu pot intra în oraș — legea îi ține afară —, așa că vestea trebuie strigată de dinafară către paznic, iar de la el trece mai departe, din mână în mână, până la rege (v. 11). Detaliile raportului — cai și măgari legați, corturi neatinse — sunt, după Rashi și Metzudat David, semnul că tabăra fusese lăsată întocmai cum era, cu toate proviziile înăuntru."
+     },
+     {
+      "t": " și le-au vestit, spunând: „Am ajuns la tabăra arameilor și iată, nu e nimeni acolo, nici glas de om, ci doar caii legați și măgarii legați, și corturile așa cum erau.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבֹאוּ וַיִּקְרְאוּ אֶל־שֹׁעֵר הָעִיר...",
+      "translation": "„Au venit și au strigat către...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἰσῆλθον καὶ ἐβόησαν πρὸς τὴν πύλην τῆς πόλεως καὶ ἀνήγγειλαν αὐτοῖς, λέγοντες· εἰσήλθομεν εἰς τὴν παρεμβολὴν Συρίας, καὶ ἰδοὺ οὐκ ἔστιν ἐκεῖ ἀνὴρ καὶ φωνὴ ἀνθρώπου, ὅτι εἰ μὴ ἵππος δεδεμένος καὶ ὄνος καὶ αἱ σκηναὶ αὐτῶν ὡς εἰσί.",
+      "greek": true,
+      "translation": "„Și au venit și au strigat către poarta cetății și le-au vestit, zicând: am intrat în tabăra Siriei, și iată, nu e acolo niciun om, nici glas de om, ci doar cal legat și măgar, și corturile lor cum sunt.”",
+      "note": "Septuaginta spune că au strigat „către poarta cetății”, nu „către portar” (probabil citind șaar în loc de șoer), și omite „legat” la măgar."
+     }
+    ],
+    "refs": [
+     "2 Regi 7:11",
+     "2 Samuel 18:26",
+     "Psalmul 127:1",
+     "Marcu 13:34,35",
+     "2 Regi 7:6,7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Așa cum erau” — pline, ca de la început; nu scoseseră ce era în ele."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Portarul orașului” — paznicul porții orașului. „Legați” — legați la iesle, după obicei. „Așa cum erau” — cum fuseseră dintotdeauna, cât timp stătuseră acolo."
+     }
+    ]
+   },
+   {
+    "v": "7:11",
+    "t": "Portarii au strigat și au vestit [aceasta] înăuntru, casei regelui.",
+    "heb": "וַיִּקְרָא הַשֹּׁעֲרִים וַיַּגִּידוּ בֵּית הַמֶּלֶךְ פְּנִימָה׃",
+    "translit": "Vayikra hașoarim vayagidu beit hameleh penima.",
+    "tokens": [
+     {
+      "t": "Portarii au strigat și au vestit [aceasta] "
+     },
+     {
+      "t": "înăuntru",
+      "w": "înăuntru",
+      "heb": "פְּנִימָה",
+      "translit": "penima",
+      "strong": "H6441",
+      "pos": "adverb",
+      "def_ro": "înăuntru, spre interior.",
+      "dict_ro": "Penima — „spre înăuntru”; Metzudat David descrie lanțul vestirii: portarul orașului a strigat către paznicii porților palatului, iar aceștia au dus vestea „înăuntru”, în încăperea interioară unde locuia regele. Distanța dintre leproșii de la poartă și regele din camera cea mai dinăuntru e, simbolic, distanța pe care o străbate vestea bună — de la cei mai de jos până la cel mai de sus."
+     },
+     {
+      "t": ", casei regelui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּקְרָא הַשֹּׁעֲרִים וַיַּגִּידוּ בֵּית...",
+      "translation": "„Portarii au strigat și au vestit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐβόησαν οἱ θυρωροὶ καὶ ἀνήγγειλαν εἰς τὸν οἶκον τοῦ βασιλέως ἔσω.",
+      "greek": true,
+      "translation": "„Și au strigat portarii și au vestit în casa regelui, înăuntru.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Portarii au strigat” — portarul orașului a strigat către paznicii porților casei regelui și le-a spus lucrurile acestea, iar ei au vestit lucrul în casa dinăuntru, locul unde stătea regele."
+     }
+    ]
+   },
+   {
+    "v": "7:12",
+    "t": "Regele s-a sculat noaptea și a spus slujitorilor săi: „Vă voi spune acum ce ne-au făcut arameii. Ei știu că suntem flămânzi, au ieșit din tabără să se ascundă pe câmp, zicând: «Când vor ieși din oraș, îi vom prinde de vii și vom intra în oraș.»”",
+    "heb": "וַיָּקָם הַמֶּלֶךְ לַיְלָה וַיֹּאמֶר אֶל־עֲבָדָיו אַגִּידָה־נָּא לָכֶם אֵת אֲשֶׁר־עָשׂוּ לָנוּ אֲרָם יָדְעוּ כִּי־רְעֵבִים אֲנַחְנוּ וַיֵּצְאוּ מִן־הַמַּחֲנֶה לְהֵחָבֵה בְהַשָּׂדֶה לֵאמֹר כִּי־יֵצְאוּ מִן־הָעִיר וְנִתְפְּשֵׂם חַיִּים וְאֶל־הָעִיר נָבֹא׃",
+    "translit": "Vayakom hameleh laila vaiomer el-avadav agida-na lachem et așer-asu lanu Aram yadeu ki-reevim anahnu vayetzeu min-hamahane lehehavee vehasade lemor ki-yetzeu min-hair venitpesem hayim veel-hair navo.",
+    "tokens": [
+     {
+      "t": "Regele s-a sculat noaptea și a spus slujitorilor săi: „Vă voi spune acum ce ne-au făcut arameii. Ei știu că suntem flămânzi, au ieșit din tabără "
+     },
+     {
+      "t": "să se ascundă",
+      "w": "să se ascundă",
+      "heb": "לְהֵחָבֵה",
+      "translit": "leheháve",
+      "strong": "H2244",
+      "pos": "verb, nifal, infinitiv construct",
+      "def_ro": "a se ascunde, a sta la pândă.",
+      "dict_ro": "Hava — „a se ascunde”; regele bănuiește o ambuscadă clasică: tabăra pare părăsită, dar oastea stă ascunsă pe câmp, așteptând ca flămânzii să iasă. Metzudat David explică de ce planul ar fi părut plauzibil: din cauza marii foamete, asediații n-ar mai sta să cerceteze lucrurile înainte de a ieși. Neîncrederea regelui contrastează cu profeția lui Elișa din versetele anterioare (7:1), pe care el nici nu o ia în calcul."
+     },
+     {
+      "t": " pe câmp, zicând: «Când vor ieși din oraș, îi vom prinde de vii și vom intra în oraș.»”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּקָם הַמֶּלֶךְ לַיְלָה וַיֹּאמֶר...",
+      "translation": "„Regele s-a sculat noaptea și a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνέστη ὁ βασιλεὺς νυκτὸς καὶ εἶπε πρὸς τοὺς παῖδας αὐτοῦ· ἀναγγελῶ δὴ ὑμῖν ἃ ἐποίησεν ὑμῖν Συρία· ἔγνωσαν ὅτι πεινῶμεν ἡμεῖς, καὶ ἐξῆλθαν ἐκ τῆς παρεμβολῆς καὶ ἐκρύβησαν ἐν τῷ ἀγρῷ λέγοντες· ὅτι ἐξελεύσονται ἐκ τῆς πόλεως, καὶ συλληψόμεθα αὐτοὺς ζῶντας καὶ εἰς τὴν πόλιν εἰσελευσόμεθα.",
+      "greek": true,
+      "translation": "„Și s-a sculat regele noaptea și a zis slujitorilor săi: vă voi vesti ce v-a făcut Siria; au știut că suntem flămânzi și au ieșit din tabără și s-au ascuns în câmp, zicând: vor ieși din cetate și îi vom prinde vii și vom intra în cetate.”",
+      "note": "Septuaginta are „ce v-a făcut” (ὑμῖν), acolo unde Textul Masoretic are „ce ne-au făcut”; în rest, corespondență strânsă."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Suntem flămânzi” — și dornici să ieșim după pradă și după mâncare."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ce ne-au făcut” — viclenia și șiretlicul pe care le-au făcut. „Când vor ieși” — ca să găsească ceva de mâncare; căci, din cauza marii foamete, nu vor aștepta să cerceteze lucrul."
+     }
+    ]
+   },
+   {
+    "v": "7:13",
+    "t": "Unul dintre slujitorii săi a răspuns și a spus: „Să se ia, te rog, cinci dintre caii care au rămas – iată, ei sunt ca toată mulțimea lui Israel care a rămas, care sunt ca toată mulțimea lui Israel care a pierit. Să-i trimitem și vom vedea.”",
+    "heb": "וַיַּעַן אֶחָד מֵעֲבָדָיו וַיֹּאמֶר וְיִקְחוּ־נָא חֲמִשָּׁה מִן־הַסּוּסִים הַנִּשְׁאָרִים אֲשֶׁר נִשְׁאֲרוּ־בָהּ הִנָּם כְּכָל־הַהֲמוֹן יִשְׂרָאֵל אֲשֶׁר נִשְׁאֲרוּ־בָהּ הִנָּם כְּכָל־הֲמוֹן יִשְׂרָאֵל אֲשֶׁר־תָּמּוּ וְנִשְׁלְחָה וְנִרְאֶה׃",
+    "translit": "Vayaan ehad meavadav vaiomer veyikehu-na hamișa min-hasusim hanișarim așer nișaru-vah hinam kechol-hahamon Israël așer nișaru-vah hinam kechol-hamon Israël așer-tamu venișleha venire.",
+    "tokens": [
+     {
+      "t": "Unul dintre slujitorii săi a răspuns și a spus: „Să se ia, te rog, cinci dintre caii care au rămas – iată, ei sunt ca toată "
+     },
+     {
+      "t": "mulțimea",
+      "w": "mulțimea",
+      "heb": "הֲמוֹן",
+      "translit": "hamon",
+      "strong": "H1995",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "mulțime, gloată, vuiet de popor.",
+      "dict_ro": "Hamon — mulțime zgomotoasă, din rădăcina hama, „a vui, a face zgomot”; Metzudat Țion îl explică simplu: „mulțime de popor”. Repetiția din text (ketiv și keri diferă ușor) exprimă argumentul slujitorului, pe care Rashi și Metzudat David îl desfac în două: dacă cei cinci călăreți rămân în oraș, vor muri de foame ca toți cei rămași; dacă mor uciși de aramei, vor fi doar ca mulțimea care a pierit deja — deci nu se pierde nimic trimițându-i."
+     },
+     {
+      "t": " lui Israel care a rămas, care sunt ca toată mulțimea lui Israel care a pierit. Să-i trimitem și vom vedea.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעַן אֶחָד מֵעֲבָדָיו וַיֹּאמֶר...",
+      "translation": "„Unul dintre slujitorii săi a răspuns...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπεκρίθη εἷς τῶν παίδων αὐτοῦ καὶ εἶπε· λαβέτωσαν δὴ πέντε τῶν ἵππων τῶν ὑπολελειμμένων, οἳ κατελείφθησαν ὧδε, ἰδού εἰσι πρὸς πᾶν τὸ πλῆθος ᾿Ισραὴλ τὸ ἐκλεῖπον· καὶ ἀποστελοῦμεν ἐκεῖ καὶ ὀψόμεθα.",
+      "greek": true,
+      "translation": "„Și a răspuns unul din slujitorii lui și a zis: să se ia cinci din caii rămași, care au fost lăsați aici — iată, ei sunt ca toată mulțimea lui Israel care se stinge; și vom trimite acolo și vom vedea.”",
+      "note": "Divergență reală: Septuaginta are o singură comparație („ca toată mulțimea lui Israel care se stinge”), omițând complet fraza dublată din Textul Masoretic („ca toată mulțimea care a rămas... ca toată mulțimea care a pierit”)."
+     }
+    ],
+    "refs": [
+     "2 Regi 5:13",
+     "2 Regi 7:4",
+     "2 Regi 6:33",
+     "Ieremia 14:18",
+     "Plângerile lui Ieremia 4:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Care au rămas în ea” — în oraș, care n-au murit de foame. „Iată, ei sunt ca toată mulțimea lui Israel care a rămas” — dacă vor spune că sunt în primejdie să fie uciși de aramei, iată, [dacă rămân] în oraș sunt în primejdie ca toată mulțimea lui Israel care a rămas acolo; iar dacă mor, sunt ca toată mulțimea lui Israel care a pierit de foame."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Care au rămas în ea...” — ca și cum ar spune: chiar dacă dușmanul îi va ucide pe călăreți, nu e nicio pagubă, căci vor fi ca toată mulțimea lui Israel rămasă în oraș, fiindcă toți suntem sortiți să murim de foame, iar călăreții sunt ca unul dintre noi dacă rămân aici; și dacă e să ne temem că moartea le va veni mai devreme, oare nu vor fi ca toată mulțimea lui Israel care a pierit deja înaintea lor? De aceea, să trimitem și să vedem."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hinam” — iată-i. „Hamon” — cu sensul de mulțime de popor. „Tamu” — s-au sfârșit."
+     }
+    ]
+   },
+   {
+    "v": "7:14",
+    "t": "Au luat doi călăreți și regele i-a trimis pe urma taberei Aramului, spunând: „Mergeți și uitați-vă!”",
+    "heb": "וַיִּקְחוּ שְׁנֵי רֶכֶב סוּסִים וַיִּשְׁלַח הַמֶּלֶךְ אַחֲרֵי מַחֲנֵה־אֲרָם לֵאמֹר לְכוּ וּרְאוּ׃",
+    "translit": "Vayikehu șenei rehev susim vayișlah hameleh aharei mahane-Aram lemor lechu ureu.",
+    "tokens": [
+     {
+      "t": "Au luat "
+     },
+     {
+      "t": "doi călăreți",
+      "w": "doi călăreți",
+      "heb": "שְׁנֵי רֶכֶב סוּסִים",
+      "translit": "șnei reveh susim",
+      "strong": "H7393",
+      "pos": "numeral + substantiv, masculin singular, în construcție + substantiv plural",
+      "def_ro": "două atelaje de cai, două care cu caii lor.",
+      "dict_ro": "Reveh susim — literal „două [care cu] atelaj de cai”, adică două echipaje de cercetare. Slujitorul propusese cinci cai, dar s-au trimis doar doi: Metzudat David explică că, în ciuda argumentului că nu se pierde nimic, n-au vrut să pună în primejdie decât pe doi. Direcția urmăririi — „pe urma taberei” — înseamnă, după același comentator, pe drumul spre țara lor."
+     },
+     {
+      "t": " și regele i-a trimis pe urma taberei Aramului, spunând: „Mergeți și uitați-vă!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּקְחוּ שְׁנֵי רֶכֶב סוּסִים...",
+      "translation": "„Au luat doi călăreți și regele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔλαβον δύο ἐπιβάτας ἵππων, καὶ ἀπέστειλεν ὁ βασιλεὺς ᾿Ισραὴλ ὀπίσω τοῦ βασιλέως Συρίας λέγων· δεῦτε καὶ ἴδετε.",
+      "greek": true,
+      "translation": "„Și au luat doi călăreți de cai, și a trimis regele lui Israel după regele Siriei, zicând: mergeți și vedeți.”",
+      "note": "Septuaginta îi trimite pe cercetași „după regele Siriei”, nu „după tabăra Aramului”, și numește explicit „regele lui Israel”."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Doi călăreți” — căci, cu toate acestea, n-au vrut să bage în primejdie decât doi. „Pe urma taberei” — adică pe drumul spre țara lor."
+     }
+    ]
+   },
+   {
+    "v": "7:15",
+    "t": "I-au urmărit până la Iordan și iată, tot drumul era plin cu haine și lucruri pe care arameii le aruncaseră în goana lor; și solii s-au întors și i-au vestit regelui.",
+    "heb": "וַיֵּלְכוּ אַחֲרֵיהֶם עַד־הַיַּרְדֵּן וְהִנֵּה כָל־הַדֶּרֶךְ מְלֵאָה בְגָדִים וְכֵלִים אֲשֶׁר־הִשְׁלִיכוּ אֲרָם בְּחָפְזָם וַיָּשֻׁבוּ הַמַּלְאָכִים וַיַּגִּדוּ לַמֶּלֶךְ׃",
+    "translit": "Vaielchu ahareihem ad-haIarden vehine chol-haderech meleaa vegadim vechelim așer-hișlichu Aram behofzam vayașuvu hamalachim vayagidu lameleh.",
+    "tokens": [
+     {
+      "t": "I-au urmărit până la Iordan și iată, tot drumul era plin cu haine și lucruri pe care arameii le aruncaseră "
+     },
+     {
+      "t": "în goana lor",
+      "w": "în goana lor",
+      "heb": "בְּחָפְזָם",
+      "translit": "behofzam",
+      "strong": "H2648",
+      "pos": "verb, qal, infinitiv construct + sufix persoana a III-a plural",
+      "def_ro": "în graba lor, în fuga lor panicată.",
+      "dict_ro": "Hafaz — „a se grăbi cu spaimă”, graba celui care fuge îngrozit; Metzudat Țion compară cu fuga doicii lui Mefiboșet, „în graba ei de a fugi” (Samuel II 4:4). Metzudat David explică de ce drumul era plin de lucruri: arameii își aruncau poverile ca să fugă mai ușor. Drumul până la Iordan, presărat cu haine și vase, devine dovada vizibilă că tabăra fusese părăsită cu adevărat, nu o capcană."
+     },
+     {
+      "t": "; și solii s-au întors și i-au vestit regelui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּלְכוּ אַחֲרֵיהֶם עַד־הַיַּרְדֵּן וְהִנֵּה...",
+      "translation": "„I-au urmărit până la Iordan și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπορεύθησαν ὀπίσω αὐτῶν ἕως τοῦ ᾿Ιορδάνου, καὶ ἰδοὺ πᾶσα ἡ ὁδὸς πλήρης ἱματίων καὶ σκευῶν, ὧν ἔρριψε Συρία ἐν τῷ θαμβεῖσθαι αὐτούς· καὶ ἐπέστρεψαν οἱ ἄγγελοι καὶ ἀνήγγειλαν τῷ βασιλεῖ.",
+      "greek": true,
+      "translation": "„Și au mers după ei până la Iordan, și iată, tot drumul era plin de haine și vase, pe care le aruncase Siria în spaima lor; și s-au întors solii și au vestit regelui.”",
+      "note": "Septuaginta redă „în graba lor” prin „în spaima lor” (ἐν τῷ θαμβεῖσθαι), punând accentul pe groază, nu pe grabă — de altfel, ambele nuanțe sunt prezente în verbul ebraic hafaz."
+     }
+    ],
+    "refs": [
+     "Estera 1:7",
+     "Iov 2:4",
+     "Isaia 2:20",
+     "Isaia 31:7",
+     "Filipeni 3:7,8",
+     "Evrei 12:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „În goana lor” — în graba lor de a fugi."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Pe care le aruncaseră” — ca să-și ușureze povara, din pricina grabei fugii."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Behofzam” — cu sensul de grabă, ca în „și în graba ei de a fugi” (Samuel II 4:4)."
+     }
+    ]
+   },
+   {
+    "v": "7:16",
+    "t": "Poporul a ieșit și a prădat tabăra arameilor; iar o măsură de făină fină costa un siclu și două măsuri de orz costau un siclu – după cuvântul DOMNULUI.",
+    "heb": "וַיֵּצֵא הָעָם וַיָּבֹזּוּ אֵת מַחֲנֵה אֲרָם וַיְהִי סְאָה־סֹלֶת בְּשֶׁקֶל וְסָאתַיִם שְׂעֹרִים בְּשֶׁקֶל כִּדְבַר יְהוָה׃",
+    "translit": "Vayetze haam vayavozu et mahane Aram vayehi sea-solet beșekel vesataim seorim beșekel kidvar ADONAI.",
+    "tokens": [
+     {
+      "t": "Poporul a ieșit și a prădat tabăra arameilor; iar "
+     },
+     {
+      "t": "o măsură de făină fină",
+      "w": "o măsură de făină fină",
+      "heb": "סְאָה־סֹלֶת",
+      "translit": "sea-solet",
+      "strong": "H5429",
+      "pos": "substantiv, feminin singular, în construcție + substantiv",
+      "def_ro": "o sea (măsură de capacitate) de făină aleasă.",
+      "dict_ro": "Sea — unitate de măsură pentru cereale, a treia parte dintr-o efa (cam 7-13 litri, după diferite estimări); solet e făina cea mai fină, cea folosită la ofrandele de la Templu. Cu o zi înainte, în foametea asediului, un cap de măgar se vindea cu optzeci de sicli de argint (Regi II 6:25); acum, într-o singură zi, prețurile scad exact la nivelul vestit de Elișa (7:1) — „după cuvântul DOMNULUI”, cum subliniază textul."
+     },
+     {
+      "t": " costa un siclu și două măsuri de orz costau un siclu – după cuvântul DOMNULUI."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּצֵא הָעָם וַיָּבֹזּוּ אֵת...",
+      "translation": "„Poporul a ieșit și a prădat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐξῆλθεν ὁ λαὸς καὶ διήρπασαν τὴν παρεμβολὴν Συρίας, καὶ ἐγένετο μέτρον σεμιδάλεως σίκλου, κατὰ τὸ ρῆμα Κυρίου, καὶ δίμετρον κριθῶν σίκλου.",
+      "greek": true,
+      "translation": "„Și a ieșit poporul și a prădat tabăra Siriei, și a fost o măsură de făină aleasă un siclu, după cuvântul Domnului, și două măsuri de orz un siclu.”",
+      "note": "Septuaginta mută formula „după cuvântul Domnului” între cele două prețuri, în loc să o lase la sfârșitul versetului."
+     }
+    ],
+    "refs": [
+     "2 Regi 7:1",
+     "1 Samuel 17:53",
+     "2 Cronici 20:25",
+     "Isaia 33:1,4,23",
+     "Numeri 23:19",
+     "Matei 24:35"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "7:17",
+    "t": "Regele încredințase paza porții ofițerului pe mâna căruia se sprijinea; oamenii l-au călcat în picioare la poartă și el a murit, după cum vorbise omul lui Dumnezeu, și [după cum] vorbise el când regele coborâse la el.",
+    "heb": "וְהַמֶּלֶךְ הִפְקִיד אֶת־הַשָּׁלִישׁ אֲשֶׁר־נִשְׁעָן עַל־יָדוֹ עַל־הַשַּׁעַר וַיִּרְמְסֻהוּ הָעָם בַּשַּׁעַר וַיָּמֹת כַּאֲשֶׁר דִּבֶּר אִישׁ הָאֱלֹהִים אֲשֶׁר דִּבֶּר בְּרֶדֶת הַמֶּלֶךְ אֵלָיו׃",
+    "translit": "Vehameleh hifkid et-hașaliș așer-nișan al-yado al-hașaar vayirmesuhu haam bașaar vayamot kaașer diber iș haElohim așer diber beredet hameleh elav.",
+    "tokens": [
+     {
+      "t": "Regele încredințase paza porții "
+     },
+     {
+      "t": "ofițerului",
+      "w": "ofițerului",
+      "heb": "הַשָּׁלִישׁ",
+      "translit": "hașaliș",
+      "strong": "H7991",
+      "pos": "substantiv, masculin singular, cu articol",
+      "def_ro": "ofițerul, adjutantul regelui (al treilea om din car).",
+      "dict_ro": "Șaliș — din rădăcina „trei”: la origine „al treilea om” din carul de luptă, apoi ofițer de rang înalt, adjutant personal; de aici și redarea greacă „tristatis”. E ofițerul care își bătuse joc de profeția lui Elișa (7:2). Rashi precizează că „mâna pe care se sprijinea regele” se referă la ziua dinainte, când regele venise la casa lui Elișa; Metzudat David explică moartea lui: mulțimea care se grăbea spre pradă l-a călcat în picioare la poartă, din pricina îmbulzelii."
+     },
+     {
+      "t": " pe mâna căruia se sprijinea; oamenii l-au călcat în picioare la poartă și el a murit, după cum vorbise omul lui Dumnezeu, și [după cum] vorbise el când regele coborâse la el."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהַמֶּלֶךְ הִפְקִיד אֶת־הַשָּׁלִישׁ אֲשֶׁר־נִשְׁעָן...",
+      "translation": "„Regele încredințase paza porții ofițerului pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ὁ βασιλεὺς κατέστησε τὸν τριστάτην, ἐφ᾿ ὃν ὁ βασιλεὺς ἐπανεπαύσατο τῇ χειρὶ αὐτοῦ, ἐπὶ τῆς πύλης. καὶ συνεπάτησεν αὐτὸν ὁ λαὸς ἐν τῇ πύλῃ, καὶ ἀπέθανε, καθὰ ἐλάλησεν ὁ ἄνθρωπος τοῦ Θεοῦ, ὃς ἐλάλησεν ἐν τῷ καταβῆναι τὸν ἄγγελον πρὸς αὐτόν.",
+      "greek": true,
+      "translation": "„Și regele l-a pus pe tristat, pe a cărui mână se sprijinea regele, peste poartă; și l-a călcat poporul în poartă, și a murit, după cum grăise omul lui Dumnezeu, care grăise când coborâse solul la el.”",
+      "note": "Divergență reală la final: Septuaginta are „când coborâse solul (ἄγγελον) la el”, acolo unde Textul Masoretic are „când coborâse regele la el” — diferența dintre malah (sol) și meleh (rege), care apare și la Regi II 6:33."
+     }
+    ],
+    "refs": [
+     "2 Regi 9:33",
+     "Judecători 20:43",
+     "Isaia 25:10",
+     "Mica 7:10",
+     "Evrei 10:29"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Pe mâna căruia se sprijinea” — în ziua dinainte, când venise la casa lui Elișa."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Încredințase” — l-a numit atunci să fie paznicul porții. „L-au călcat în picioare” — din pricina marii îmbulzeli, poporul care mergea să ia pradă l-a călcat cu picioarele."
+     }
+    ]
+   },
+   {
+    "v": "7:18",
+    "t": "Și s-a împlinit întocmai cum îi profetise omul lui Dumnezeu regelui, spunând: „Două măsuri de orz vor costa un siclu și o măsură de făină fină va costa un siclu mâine pe vremea aceasta, la poarta Samariei.”",
+    "heb": "וַיְהִי כְּדַבֵּר אִישׁ הָאֱלֹהִים אֶל־הַמֶּלֶךְ לֵאמֹר סָאתַיִם שְׂעֹרִים בְּשֶׁקֶל וּסְאָה־סֹלֶת בְּשֶׁקֶל יִהְיֶה כָּעֵת מָחָר בְּשַׁעַר שֹׁמְרוֹן׃",
+    "translit": "Vayehi kedaber iș haElohim el-hameleh lemor sataim seorim beșekel usea-solet beșekel yihye kaet mahar beșaar Șomron.",
+    "tokens": [
+     {
+      "t": "Și s-a împlinit întocmai cum îi profetise omul lui Dumnezeu regelui, spunând: „Două măsuri de orz vor costa un siclu și o măsură de făină fină va costa un siclu "
+     },
+     {
+      "t": "mâine pe vremea aceasta",
+      "w": "mâine pe vremea aceasta",
+      "heb": "כָּעֵת מָחָר",
+      "translit": "kaet mahar",
+      "strong": "H4279",
+      "pos": "prepoziție + substantiv + adverb",
+      "def_ro": "mâine, la ora aceasta.",
+      "dict_ro": "Mahar — „mâine”; precizia temporală a profeției (nu „curând”, ci „mâine la ora aceasta”, „la poarta Samariei”) face ca împlinirea să fie verificabilă de oricine. Metzudat David explică de ce naratorul repetă profeția întreagă: ca să lămurească de ce a vestit profetul și moartea ofițerului — pentru că acesta își bătuse joc de un cuvânt atât de precis al lui Dumnezeu."
+     },
+     {
+      "t": ", la poarta Samariei.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי כְּדַבֵּר אִישׁ הָאֱלֹהִים...",
+      "translation": "„Și s-a împlinit întocmai cum îi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο καθὰ ἐλάλησεν ῾Ελισαιὲ πρὸς τὸν βασιλέα λέγων· δίμετρον κριθῆς σίκλου καὶ μέτρον σεμιδάλεως σίκλου καὶ ἔσται ὡς ἡ ὥρα αὔριον ἐν τῇ πύλῃ Σαμαρείας·",
+      "greek": true,
+      "translation": "„Și a fost după cum grăise Elisaie către rege, zicând: două măsuri de orz un siclu și o măsură de făină aleasă un siclu, și va fi mâine la ora aceasta în poarta Samariei.”",
+      "note": "Septuaginta înlocuiește „omul lui Dumnezeu” cu numele „Elisaie”."
+     }
+    ],
+    "refs": [
+     "2 Regi 7:1,2",
+     "2 Regi 6:32",
+     "Geneza 18:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și s-a împlinit întocmai” — [Scriptura] revine și explică de ce a spus profetul că ofițerul va muri, zicând: pentru că, atunci când a vorbit omul lui Dumnezeu..."
+     }
+    ]
+   },
+   {
+    "v": "7:19",
+    "t": "Iar acel ofițer îi răspunsese omului lui Dumnezeu și spusese: „Privește, chiar dacă DOMNUL ar face ferestre în ceruri, s-ar putea oare întâmpla așa ceva?” Dar [profetul] a spus: „Vei vedea cu ochii tăi, dar tu nu vei mânca din ele!”",
+    "heb": "וַיַּעַן הַשָּׁלִישׁ אֶת־אִישׁ הָאֱלֹהִים וַיֹּאמֶר וְהִנֵּה יְהוָה עֹשֶׂה אֲרֻבּוֹת בַּשָּׁמַיִם הֲיִהְיֶה הַדָּבָר הַזֶּה וַיֹּאמֶר הִנְּךָ רֹאֶה בְּעֵינֶיךָ וּמִשָּׁם לֹא תֹאכֵל׃",
+    "translit": "Vayaan hașaliș et-iș haElohim vaiomer vehine ADONAI ose arubot bașamayim hayihye hadavar haze vaiomer hincha roe beeinecha umișam lo tochel.",
+    "tokens": [
+     {
+      "t": "Iar acel ofițer îi răspunsese omului lui Dumnezeu și spusese: „Privește, chiar dacă DOMNUL ar face "
+     },
+     {
+      "t": "ferestre în ceruri",
+      "w": "ferestre în ceruri",
+      "heb": "אֲרֻבּוֹת בַּשָּׁמַיִם",
+      "translit": "arubot bașamaim",
+      "strong": "H699",
+      "pos": "substantiv, feminin plural + prepoziție + substantiv cu articol",
+      "def_ro": "deschizături, zăgazuri în cer.",
+      "dict_ro": "Arubot — „ferestre, zăgazuri”, aceleași „stăvilare ale cerurilor” care se deschid la potop (Geneza 7:11) și pe care Maleahi le promite deschise pentru binecuvântare (Maleahi 3:10). Batjocura ofițerului e totală: nici dacă DOMNUL ar deschide cerul ca la potop n-ar putea scădea prețurile peste noapte. Răspunsul profetului — „vei vedea, dar nu vei mânca” — face din necredință însăși pedeapsa: martor al minunii, dar exclus de la ea."
+     },
+     {
+      "t": ", s-ar putea oare întâmpla așa ceva?” Dar [profetul] a spus: „Vei vedea cu ochii tăi, dar tu nu vei mânca din ele!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעַן הַשָּׁלִישׁ אֶת־אִישׁ הָאֱלֹהִים...",
+      "translation": "„Iar acel ofițer îi răspunsese omului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπεκρίθη ὁ τριστάτης τῷ ῾Ελισαιὲ καὶ εἶπεν· ἰδοὺ Κύριος ποιεῖ καταράκτας ἐν τῷ οὐρανῷ, μὴ ἔσται τὸ ρῆμα τοῦτο; καὶ εἶπεν ῾Ελισαιέ· ἰδοὺ ὄψῃ τοῖς ὀφθαλμοῖς σου καὶ ἐκεῖθεν οὐ μὴ φάγῃ.",
+      "greek": true,
+      "translation": "„Și a răspuns tristatul lui Elisaie și a zis: iată, Domnul face cataracte în cer — oare va fi lucrul acesta? Și a zis Elisaie: iată, vei vedea cu ochii tăi, dar de acolo nicidecum nu vei mânca.”",
+      "note": "Septuaginta folosește pentru „ferestre” cuvântul καταράκτας — același termen ca la „cataractele cerului” din relatarea potopului (Geneza 7:11) —, numește explicit pe Elisaie ca vorbitor și întărește negația finală („nicidecum”, οὐ μὴ)."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și a răspuns” — atunci ofițerul a răspuns... „Și a spus” — atunci profetul i-a spus: „vei vedea cu ochii tăi...”."
+     }
+    ]
+   },
+   {
+    "v": "7:20",
+    "t": "Și într-adevăr așa a pățit: poporul l-a călcat în picioare la poartă și el a murit.",
+    "heb": "וַיְהִי־לוֹ כֵּן וַיִּרְמְסוּ אֹתוֹ הָעָם בַּשַּׁעַר וַיָּמֹת׃",
+    "translit": "Vayehi-lo ken vayirmesu oto haam bașaar vayamot.",
+    "tokens": [
+     {
+      "t": "Și într-adevăr așa a pățit: poporul "
+     },
+     {
+      "t": "l-a călcat în picioare",
+      "w": "l-a călcat în picioare",
+      "heb": "וַיִּרְמְסוּ",
+      "translit": "vayirmesu",
+      "strong": "H7429",
+      "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin plural",
+      "def_ro": "l-au călcat în picioare, l-au strivit.",
+      "dict_ro": "Ramas — „a călca în picioare, a zdrobi sub tălpi”; cuvântul revine identic din v. 17, ca o pecete a împlinirii. Metzudat David rezumă întregul verset în patru cuvinte: „cum a spus profetul, așa a fost”. Haftara se încheie astfel cu două împliniri paralele ale aceluiași cuvânt profetic: îndestularea poporului și moartea celui care l-a batjocorit."
+     },
+     {
+      "t": " la poartă și el a murit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי־לוֹ כֵּן וַיִּרְמְסוּ אֹתוֹ...",
+      "translation": "„Și într-adevăr așa a pățit: poporul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο οὕτως, καὶ συνεπάτησεν αὐτὸν ὁ λαὸς ἐν τῇ πύλῃ καὶ ἀπέθανε.",
+      "greek": true,
+      "translation": "„Și a fost așa: și l-a călcat poporul în poartă, și a murit.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 20:12",
+     "2 Cronici 20:20",
+     "Isaia 7:9",
+     "Ieremia 17:5,6",
+     "Evrei 3:18,19"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și într-adevăr așa a pățit” — cum a spus profetul, așa a fost."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
