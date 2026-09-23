@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "27 capitole (din 54+2 planificate) · 27 complete la Standardul Davar",
+ "meta": "28 capitole (din 54+2 planificate) · 28 complete la Standardul Davar",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -50766,6 +50766,1028 @@
      {
       "author": "Metzudat David",
       "text": "„Cel ce se laudă, să se laude cu aceasta: că a priceput și M-a cunoscut, că Eu sunt DOMNUL, și nu mai e altul afară de Mine; că Eu sunt Cel care fac bunăvoință celor ce Mă iubesc și păzesc poruncile Mele, Cel care fac judecată ca să pedepsesc pe cei răi și Cel care fac dreptate primindu-i pe cei ce se pocăiesc — nu doar unul care lucrează binele și altul care lucrează răul, ferească Dumnezeu, ci în toate acestea Eu doresc să dau fiecăruia după fapta lui; iar cel care înțelege aceasta e vrednic să se laude cu ea, căci din aceasta va avea mare folos.”"
+     }
+    ]
+   }
+  ]
+ },
+  {
+  "num": 28,
+  "title": "Haftarat Șemini (sefard)",
+  "ref": "Samuel II 6:1-19",
+  "intro": "Haftarat Șemini oglindește pericopa printr-un ecou tragic: dacă Nadab și Abihu mor pentru o abatere de la ritualul poruncit (Levitic 10), Uza moare pentru o abatere similară — atingerea Chivotului cu propria mână, în loc să-l poarte pe umeri, așa cum era poruncit explicit (Numeri 7:9). Capitolul se mișcă de la entuziasmul inițial al procesiunii, prin tragedia lui Uza și teama lui David, la relansarea reușită a urcării Chivotului, cu jertfe, muzică și dans — și se încheie cu disprețul Mihalei față de dansul regal al lui David, o notă discordantă lăsată deschisă chiar la finalul haftarei (continuarea, cu pedeapsa Mihalei, aparține versetelor următoare, în afara acestei lecturi).",
+  "verses": [
+   {
+    "v": "6:1",
+    "t": "David i-a adunat din nou pe toți aleșii din Israel, treizeci de mii [la număr].",
+    "heb": "וַיֹּסֶף עוֹד דָּוִד אֶת־כָּל־בָּחוּר בְּיִשְׂרָאֵל שְׁלֹשִׁים אָלֶף׃",
+    "translit": "Vayosef od David et-kol-bahur beIsraël șeloșim alef.",
+    "tokens": [
+     {
+      "t": "David i-a adunat "
+     },
+     {
+      "t": "din nou",
+      "w": "din nou",
+      "heb": "וַיֹּסֶף עוֹד",
+      "translit": "vayosef od",
+      "strong": "H3254",
+      "pos": "verb, hifil imperfect consecutiv + adverb",
+      "def_ro": "și a adăugat din nou, a continuat să adune.",
+      "dict_ro": "Iasaf od — Rashi explică precis „din nou”: poporul se strânsese deja o dată în jurul lui David când l-au uns rege la Hebron; aceasta este a doua adunare, distinctă de cea dintâi, de aceea textul marchează explicit repetiția cu „din nou”, nu doar „a adunat”."
+     },
+     {
+      "t": " pe toți aleșii din Israel, treizeci de mii [la număr]."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּסֶף עוֹד דָּוִד אֶת־כָּל־בָּחוּר בְּיִשְׂרָאֵל שְׁלֹשִׁים אָלֶף׃",
+      "translation": "„David i-a adunat din nou pe toți aleșii din Israel, treizeci de mii...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΚΑΙ συνήγαγεν ἔτι Δαυὶδ πάντα νεανίαν ἐξ Ἰσραήλ, ὡς ἑβδομήκοντα χιλιάδας.",
+      "greek": true,
+      "translation": "„Și David a adunat din nou pe toți tinerii din Israel, ca la șaptezeci de mii.”",
+      "note": "Divergență numerică reală și semnificativă: Textul Masoretic are 30.000 (șeloșim alef), pe când Septuaginta are 70.000 (ἑβδομήκοντα χιλιάδας) — o discrepanță substanțială, necorespunzătoare unei simple confuzii grafice de literă-cifră, documentată ca atare în critica textuală a cărților Samuel."
+     }
+    ],
+    "refs": [
+     "2 Samuel 5:1",
+     "1 Regi 8:1",
+     "1 Cronici 13:1-4",
+     "Psalmul 132:1-6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „i-a adunat din nou” — pentru că se adunaseră deja la el când l-au făcut rege la Hebron, iar aceasta a fost o a doua adunare; de aceea se spune „din nou”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Fiindcă mulți se adunau la el încă din vremea când a devenit rege, de aceea a spus că a mai adunat din nou la el pe aleșii din Israel, ca să ridice Chivotul.”"
+     }
+    ]
+   },
+   {
+    "v": "6:2",
+    "t": "Apoi David s-a ridicat și a mers, împreună cu tot poporul care era cu el, de la Baalei-Iuda, ca să ridice de acolo Chivotul lui Dumnezeu asupra căruia este invocat numele – numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi, este asupra lui.",
+    "heb": "וַיָּקָם וַיֵּלֶךְ דָּוִד וְכָל־הָעָם אֲשֶׁר אִתּוֹ מִבַּעֲלֵי יְהוּדָה לְהַעֲלוֹת מִשָּׁם אֵת אֲרוֹן הָאֱלֹהִים אֲשֶׁר־נִקְרָא שֵׁם שֵׁם יְהוָה צְבָאוֹת יֹשֵׁב הַכְּרֻבִים עָלָיו׃",
+    "translit": "Vayakom vaieleh David vechol-haam așer ito miBaalei Yehuda lehaalot mișam et aron haElohim așer-nikra șem șem ADONAI Țevaot yoșev hakeruvim alav.",
+    "tokens": [
+     {
+      "t": "Apoi David s-a ridicat și a mers, împreună cu tot poporul care era cu el, de la "
+     },
+     {
+      "t": "Baalei-Iuda",
+      "w": "Baalei-Iuda",
+      "heb": "בַּעֲלֵי יְהוּדָה",
+      "translit": "Baalei Yehuda",
+      "strong": "H1184",
+      "pos": "substantiv propriu, nume de loc",
+      "def_ro": "Baale-Iuda, alt nume pentru Chiriat-Iearim.",
+      "dict_ro": "Baale Yehuda — Rashi identifică locul, citând Iosua 15:9 și 1 Cronici 13:6, drept un alt nume pentru Chiriat-Iearim, unde Chivotul fusese adus și păstrat de la înfrângerea filistenilor (1 Samuel 7:1); cuvântul „baal” aici are, după Rashi, sensul de „câmpie/loc neted”, nu de zeitate."
+     },
+     {
+      "t": " ca să ridice de acolo Chivotul lui Dumnezeu asupra căruia este invocat numele – numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi, este asupra lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּקָם וַיֵּלֶךְ דָּוִד...",
+      "translation": "„Apoi David s-a ridicat și a mers...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνέστη καὶ ἐπορεύθη Δαυὶδ καὶ πᾶς ὁ λαὸς ὁ μετ' αὐτοῦ καὶ ἀπὸ τῶν ἀρχόντων Ἰούδα ἐν ἀναβάσει τοῦ ἀναγαγεῖν ἐκεῖθεν τὴν κιβωτὸν τοῦ Θεοῦ, ἐφ' ἣν ἐπεκλήθη τὸ ὄνομα τοῦ Κυρίου τῶν δυνάμεων καθημένου ἐπὶ τῶν Χερουβὶν ἐπ' αὐτῆς.",
+      "greek": true,
+      "translation": "„Și s-a ridicat și a mers David și tot poporul care era cu el, și dintre căpeteniile lui Iuda, în suire, ca să aducă de acolo chivotul lui Dumnezeu, peste care s-a chemat numele Domnului puterilor, care șade pe heruvimi, peste el.”",
+      "note": "Divergență de nume propriu: acolo unde Textul Masoretic are toponimul „Baale-Iuda”, Septuaginta traduce generic prin „căpeteniile lui Iuda” (τῶν ἀρχόντων Ἰούδα) — o citire diferită a consoanelor ebraice, tratând „baalei” ca „stăpânii/căpeteniile” lui Iuda, nu ca parte a unui nume de loc."
+     }
+    ],
+    "refs": [
+     "1 Cronici 13:5,6",
+     "1 Samuel 7:1",
+     "Exod 25:18-22",
+     "1 Samuel 4:4",
+     "Psalmul 80:1",
+     "1 Regi 8:6,7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „miBaalei Yehuda” — aceasta este Chiriat-Iearim, după cum se spune la Iosua: „și hotarul se întorcea și urca la Baala, aceasta e Chiriat-Iearim” (Iosua 15:9), și tot așa la Cronici: „și David și tot Israelul s-au suit la Baalata, aceasta e Chiriat-Iearim” (1 Cronici 13:6); „baal” e un termen de câmpie/loc neted."
+     }
+    ]
+   },
+   {
+    "v": "6:3",
+    "t": "Și au pus Chivotul lui Dumnezeu într-un car nou și l-au purtat din casa lui Avinadav care era pe deal, iar Uza și Ahio, fiii lui Avinadav, conduceau carul cel nou.",
+    "heb": "וַיַּרְכִּבוּ אֶת־אֲרוֹן הָאֱלֹהִים אֶל־עֲגָלָה חֲדָשָׁה וַיִּשָּׂאֻהוּ מִבֵּית אֲבִינָדָב אֲשֶׁר בַּגִּבְעָה וְעֻזָּא וְאַחְיוֹ בְּנֵי אֲבִינָדָב נֹהֲגִים אֶת־הָעֲגָלָה חֲדָשָׁה׃",
+    "translit": "Vayarkivu et-aron haElohim el-agala hadașa vaisauhu mibeit Avinadav așer bagiva veUza veAhio benei Avinadav nohagim et-haagala hadașa.",
+    "tokens": [
+     {
+      "t": "Și au pus Chivotul lui Dumnezeu într-un "
+     },
+     {
+      "t": "car nou",
+      "w": "car nou",
+      "heb": "עֲגָלָה חֲדָשָׁה",
+      "translit": "agala hadașa",
+      "strong": "H5699",
+      "pos": "substantiv + adjectiv, feminin singular",
+      "def_ro": "car nou, căruță nouă.",
+      "dict_ro": "Agala — greșeala fatală a lui David, spune Rashi, e una pe care „chiar copiii de școală o cunosc”: legea spune explicit că lucrurile sfinte trebuie purtate pe umeri (Numeri 7:9), nu transportate cu carul, oricât de nou. Metoda carului fusese folosită anterior doar de filisteni (1 Samuel 6:7), care nu erau ținuți de Lege — copierea metodei lor păgâne, nu a poruncii mozaice, e sursa reală a tragediei care urmează."
+     },
+     {
+      "t": " și l-au purtat din casa lui Avinadav care era pe deal, iar Uza și Ahio, fiii lui Avinadav, conduceau carul cel nou."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּרְכִּבוּ אֶת־אֲרוֹן הָאֱלֹהִים...",
+      "translation": "„Și au pus Chivotul lui Dumnezeu într-un car nou...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπεβίβασαν τὴν κιβωτὸν Κυρίου ἐφ' ἅμαξαν καινὴν καὶ ᾖραν αὐτὴν ἐξ οἴκου Ἀμιναδὰβ τοῦ ἐν τῷ βουνῷ· καὶ Ὀζὰ καὶ οἱ ἀδελφοὶ αὐτοῦ υἱοὶ Ἀμιναδὰβ ἦγον τὴν ἅμαξαν σὺν τῇ κιβωτῷ.",
+      "greek": true,
+      "translation": "„Și au suit chivotul Domnului pe un car nou și l-au ridicat din casa lui Aminadab cea de pe deal; și Oza și frații lui, fiii lui Aminadab, mânau carul împreună cu chivotul.”",
+      "note": "Divergență reală de rudenie: Textul Masoretic numește explicit „Uza și Ahio” (nume propriu), pe când Septuaginta redă „Οζὰ καὶ οἱ ἀδελφοὶ αὐτοῦ” („Oza și frații lui”) — citind „Ahio” nu ca nume propriu, ci ca substantiv comun „ahav” (fratele lui) la plural, o interpretare gramaticală diferită a consoanelor ebraice."
+     }
+    ],
+    "refs": [
+     "Numeri 4:5-12",
+     "Numeri 7:9",
+     "1 Samuel 6:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: a greșit într-un lucru pe care chiar copiii de la școală îl cunosc — „căci slujba sfântă e a lor, pe umeri o vor purta” (Numeri 7:9); și fiindcă spusese [David]: „cântări au fost pentru mine hotărârile Tale, în casa pribegiei mele” (Psalmul 119:54), a fost pedepsit să ajungă la aceasta, și Uza a murit prin mâna lui — de aceea, când au adus-o din casa lui Oved, au adus-o pe umeri, precum se spune: „le-a zis: voi sunteți căpeteniile părinților leviților, sfințiți-vă voi și frații voștri și suiți Chivotul... căci întâia dată n-ați fost voi, de aceea DOMNUL Dumnezeul nostru a făcut spărtură în noi, căci nu L-am căutat după rânduială” (1 Cronici 15:12-13)."
+     }
+    ]
+   },
+   {
+    "v": "6:4",
+    "t": "Și l-au purtat din casa lui Avinadav, care era pe deal, împreună cu Chivotul lui Dumnezeu, iar Ahio mergea înaintea carului.",
+    "heb": "וַיִּשָּׂאֻהוּ מִבֵּית אֲבִינָדָב אֲשֶׁר בַּגִּבְעָה עִם אֲרוֹן הָאֱלֹהִים וְאַחְיוֹ הֹלֵךְ לִפְנֵי הָאָרוֹן׃",
+    "translit": "Vaisauhu mibeit Avinadav așer bagiva im aron haElohim veAhio holech lifnei haaron.",
+    "tokens": [
+     {
+      "t": "Și l-au purtat din casa lui Avinadav, care era pe deal, împreună cu Chivotul lui Dumnezeu, iar Ahio mergea "
+     },
+     {
+      "t": "înaintea",
+      "w": "înaintea",
+      "heb": "לִפְנֵי",
+      "translit": "lifnei",
+      "strong": "H6440",
+      "pos": "prepoziție compusă",
+      "def_ro": "înaintea, în fața.",
+      "dict_ro": "Lifnei — Metzudat David explică de ce Ahio, nu Uza, e menționat mergând „înaintea Chivotului”: Ahio conducea boii din față, în timp ce Uza mergea alături de Chivot, pe lateral — poziție care explică de ce doar Uza a simțit boii clătinând Chivotul și a întins mâna, în timp ce Ahio, aflat înainte, nu a observat nimic."
+     },
+     {
+      "t": " carului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשָּׂאֻהוּ מִבֵּית אֲבִינָדָב...",
+      "translation": "„Și l-au purtat din casa lui Avinadav...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οἱ ἀδελφοὶ αὐτοῦ ἐπορεύοντο ἔμπροσθεν τῆς κιβωτοῦ.",
+      "greek": true,
+      "translation": "„Și frații lui mergeau înaintea chivotului.”",
+      "note": "Septuaginta e mult mai scurtă la acest verset, omițând repetarea „l-au purtat din casa lui Avinadav, care era pe deal” (deja spusă la v.3) și păstrând doar partea finală despre mersul înaintea Chivotului — coerent cu redarea de la v.3, unde „Ahio” fusese deja tradus la plural, „frații lui”."
+     }
+    ],
+    "refs": [
+     "1 Samuel 7:1,2",
+     "1 Cronici 13:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi notează că versetul repetă pe scurt ceea ce s-a spus deja: „ei vin cu Chivotul lui Dumnezeu”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ahio mergea înaintea Chivotului” pentru a conduce boii din față, spre deosebire de Uza, care mergea alături de Chivot — de aceea doar el a simțit clătinarea boilor, iar Ahio, fiind în față, nu și-a dat seama.”"
+     }
+    ]
+   },
+   {
+    "v": "6:5",
+    "t": "Și David și toată casa lui Israel jucau înaintea DOMNULUI cu tot [soiul de] instrumente din lemn de chiparos, și cu harpe, și cu lire, și cu tobe, și cu tamburine, și cu talgere.",
+    "heb": "וְדָוִד וְכָל־בֵּית יִשְׂרָאֵל מְשַׂחֲקִים לִפְנֵי יְהוָה בְּכֹל עֲצֵי בְרוֹשִׁים וּבְכִנֹּרוֹת וּבִנְבָלִים וּבְתֻפִּים וּבִמְנַעַנְעִים וּבְצֶלְצֵלִים׃",
+    "translit": "VeDavid vechol-beit Israël mesahakim lifnei ADONAI bechol atzei veroșim uvechinorot uvinvalim uvetupim uvimenaanim uvetzeltzelim.",
+    "tokens": [
+     {
+      "t": "Și David și toată casa lui Israel jucau înaintea DOMNULUI cu tot [soiul de] instrumente din "
+     },
+     {
+      "t": "lemn de chiparos",
+      "w": "lemn de chiparos",
+      "heb": "עֲצֵי בְרוֹשִׁים",
+      "translit": "atzei veroșim",
+      "strong": "H1265",
+      "pos": "substantiv construct + substantiv, masculin plural",
+      "def_ro": "lemne de chiparos/brad.",
+      "dict_ro": "Beroș — Rashi precizează că expresia nu descrie pădurea prin care treceau, ci materialul din care erau confecționate instrumentele muzicale înșirate imediat după — harpe, lire, tobe, tamburine, talgere — toate lucrate din lemn de chiparos, cunoscut pentru rezonanța lui bună."
+     },
+     {
+      "t": ", și cu harpe, și cu lire, și cu tobe, și cu tamburine, și cu talgere."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְדָוִד וְכָל־בֵּית יִשְׂרָאֵל מְשַׂחֲקִים...",
+      "translation": "„Și David și toată casa lui Israel jucau înaintea DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ Δαυὶδ καὶ υἱοὶ Ἰσραὴλ παίζοντες ἐνώπιον Κυρίου ἐν ὀργάνοις ἡρμοσμένοις ἐν ἰσχύϊ, καὶ ἐν ᾠδαῖς καὶ ἐν κινύραις καὶ ἐν νάβλαις καὶ ἐν τυμπάνοις καὶ ἐν κυμβάλοις καὶ ἐν αὐλοῖς.",
+      "greek": true,
+      "translation": "„Și David și fiii lui Israel jucau înaintea Domnului cu instrumente acordate cu putere, și cu cântări, și cu lire, și cu harpe, și cu tobe, și cu chimvale, și cu fluiere.”",
+      "note": "Divergență reală: acolo unde Textul Masoretic specifică „lemn de chiparos” ca material al instrumentelor, Septuaginta traduce generic „instrumente acordate cu putere” (ὀργάνοις ἡρμοσμένοις ἐν ἰσχύϊ) — pierzând referința la materialul lemnos — și adaugă „fluiere” (αὐλοῖς), instrument absent din lista ebraică."
+     }
+    ],
+    "refs": [
+     "1 Cronici 13:8",
+     "1 Cronici 15:16-24",
+     "Psalmul 68:25",
+     "Psalmul 150:3-5",
+     "Amos 6:5",
+     "1 Samuel 16:16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „becol atzei veroșim” — cu instrumente muzicale lucrate din lemn de chiparos."
+     }
+    ]
+   },
+   {
+    "v": "6:6",
+    "t": "Au ajuns la aria lui Nahon, și Uza s-a întins către Chivotul lui Dumnezeu și l-a apucat, căci boii îl mișcaseră.",
+    "heb": "וַיָּבֹאוּ עַד־גֹּרֶן נָכוֹן וַיִּשְׁלַח עֻזָּא אֶל־אֲרוֹן הָאֱלֹהִים וַיֹּאחֶז בּוֹ כִּי שָׁמְטוּ הַבָּקָר׃",
+    "translit": "Vayavou ad-goren Nachon vayișlah Uza el-aron haElohim vayohez bo ki șamtu habakar.",
+    "tokens": [
+     {
+      "t": "Au ajuns la aria lui Nahon, și Uza s-a întins către Chivotul lui Dumnezeu și l-a "
+     },
+     {
+      "t": "apucat",
+      "w": "apucat",
+      "heb": "וַיֹּאחֶז",
+      "translit": "vayohez",
+      "strong": "H270",
+      "pos": "verb, qal imperfect consecutiv, persoana a III-a",
+      "def_ro": "și l-a prins, l-a apucat.",
+      "dict_ro": "Ahaz — Metzudat David explică motivul gestului: Uza a crezut că Chivotul e pe cale să cadă din car, din pricina zdruncinării provocate de boi, și a întins mâna instinctiv ca să-l țină — un gest omenește explicabil, dar care presupunea o neîncredere implicită în capacitatea Chivotului de a se apăra singur, sfințenia lui fiind mai presus de nevoia de sprijin fizic omenesc."
+     },
+     {
+      "t": ", căci boii îl mișcaseră."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבֹאוּ עַד־גֹּרֶן נָכוֹן...",
+      "translation": "„Au ajuns la aria lui Nahon...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ παραγίνονται ἕως ἅλω Ναχώρ, καὶ ἐξέτεινεν Ὀζὰ τὴν χεῖρα αὐτοῦ ἐπὶ τὴν κιβωτὸν τοῦ Θεοῦ κατασχεῖν αὐτὴν καὶ ἐκράτησεν αὐτήν, ὅτι περιέσπασεν αὐτὴν ὁ μόσχος.",
+      "greek": true,
+      "translation": "„Și au ajuns până la aria lui Nahor, și Oza și-a întins mâna spre chivotul lui Dumnezeu ca să-l țină, și l-a apucat, căci vițelul l-a răsucit.”",
+      "note": "Divergență de nume propriu reală: Textul Masoretic are „Nahon” (נָכוֹן), Septuaginta are „Nahor” (Ναχώρ) — o citire diferită a numelui locului; și „boii” (habakar, plural generic) devin în greacă „vițelul” (ὁ μόσχος, singular) — o schimbare de număr."
+     }
+    ],
+    "refs": [
+     "1 Cronici 13:9",
+     "Numeri 4:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „ki șametu habakar” — căci boii l-au clătinat și l-au mișcat, așa cum traduce Targum Ionatan „ari meragohi toraia”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Uza și-a întins mâna” — a crezut că, dacă boii îl clatină, va cădea de pe car.”"
+     }
+    ]
+   },
+   {
+    "v": "6:7",
+    "t": "Mânia DOMNULUI s-a aprins împotriva lui Uza și Dumnezeu l-a lovit acolo pentru greșeală, și Uza a murit acolo, alături de Chivotul lui Dumnezeu.",
+    "heb": "וַיִּחַר־אַף יְהוָה בְּעֻזָּה וַיַּכֵּהוּ שָׁם הָאֱלֹהִים עַל־הַשַּׁל וַיָּמָת שָׁם עִם אֲרוֹן הָאֱלֹהִים׃",
+    "translit": "Vayihar-af ADONAI beUza vayakehu șam haElohim al-hașal vayamat șam im aron haElohim.",
+    "tokens": [
+     {
+      "t": "Mânia DOMNULUI s-a aprins împotriva lui Uza și Dumnezeu l-a lovit acolo pentru "
+     },
+     {
+      "t": "greșeală",
+      "w": "greșeală",
+      "heb": "הַשַּׁל",
+      "translit": "hașal",
+      "strong": "H7944",
+      "pos": "substantiv, masculin singular, cu articol, hapax legomenon",
+      "def_ro": "greșeala, eroarea neintenționată.",
+      "dict_ro": "Șal — cuvânt extrem de rar (hapax legomenon în această formă), pe care Rashi îl citește ca „șgaga” (greșeală neintenționată, din neștiință) — Uza n-a acționat din răutate, ci dintr-o judecată greșită pe care ar fi trebuit s-o evite printr-un raționament simplu, a fortiori (kal vahomer): dacă cei ce purtau Chivotul pe umeri l-au trecut cu bine prin Iordan fără să-l atingă, cu atât mai puțin era nevoie ca el să-l atingă acum, pe uscat."
+     },
+     {
+      "t": ", și Uza a murit acolo, alături de Chivotul lui Dumnezeu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּחַר־אַף יְהוָה בְּעֻזָּה...",
+      "translation": "„Mânia DOMNULUI s-a aprins împotriva lui Uza...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐθυμώθη ὀργῇ Κύριος τῷ Ὀζά, καὶ ἔπαισεν αὐτὸν ἐκεῖ ὁ Θεός, καὶ ἀπέθανεν ἐκεῖ παρὰ τὴν κιβωτὸν τοῦ Κυρίου ἐνώπιον τοῦ Θεοῦ.",
+      "greek": true,
+      "translation": "„Și s-a mâniat cu mânie Domnul pe Oza, și l-a lovit acolo Dumnezeu, și a murit acolo lângă chivotul Domnului, înaintea lui Dumnezeu.”",
+      "note": "Divergență reală: cuvântul rar „al-hașal” (pentru greșeală/eroare) din Textul Masoretic nu are un echivalent distinct în Septuaginta, care redă doar structura generală a pedepsei, fără a preciza motivul printr-un termen separat — probabil pentru că traducătorii alexandrini n-au recunoscut sau n-au putut echivala acest cuvânt rar."
+     }
+    ],
+    "refs": [
+     "Levitic 10:1-3",
+     "1 Cronici 15:13",
+     "1 Corinteni 11:30-32",
+     "1 Samuel 6:19",
+     "1 Cronici 13:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „al hașal” — pentru greșeala [neintenționată], căci ar fi trebuit să raționeze a fortiori: dacă cei ce l-au purtat [pe Chivot] l-au purtat prin Iordan [fără să-l atingă cu mâna], cu atât mai mult el însuși [n-ar fi trebuit să-l atingă]."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„S-a mâniat DOMNUL” — pentru puțina lui încredere în DOMNUL, gândind că Chivotul ar putea cădea la pământ; „pentru greșeală” — pentru fapta pe care a făcut-o din neștiință, ca și cum ar fi uitat că e Chivotul DOMNULUI.”"
+     }
+    ]
+   },
+   {
+    "v": "6:8",
+    "t": "David s-a mâniat de răbufnirea cu care DOMNUL răbufnise împotriva lui Uza și a numit locul acela Pereț-Uza (n.t. Răbufnirea [contra] lui Uza), până în ziua de astăzi.",
+    "heb": "וַיִּחַר לְדָוִד עַל אֲשֶׁר פָּרַץ יְהוָה פֶּרֶץ בְּעֻזָּה וַיִּקְרָא לַמָּקוֹם הַהוּא פֶּרֶץ עֻזָּה עַד הַיּוֹם הַזֶּה׃",
+    "translit": "Vayihar leDavid al așer paratz ADONAI peretz beUza vayikra lamakom hahu Peretz Uza ad hayom haze.",
+    "tokens": [
+     {
+      "t": "David s-a mâniat de "
+     },
+     {
+      "t": "răbufnirea",
+      "w": "răbufnirea",
+      "heb": "פֶּרֶץ",
+      "translit": "peretz",
+      "strong": "H6556",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "spărtura, izbucnirea bruscă.",
+      "dict_ro": "Peretz — literal „spărtură”, imaginea unei bariere care cedează brusc sub presiune; Metzudat David citește „vayihar leDavid” nu ca mânie a lui David împotriva lui Dumnezeu, ci ca o tulburare interioară îndreptată spre sine însuși, în felul în care „vayihar leȘmuel” (1 Samuel 15:11) descrie neliniștea lui Samuel, nu furia lui — David e zguduit și îngrozit, nu supărat pe DOMNUL."
+     },
+     {
+      "t": " cu care DOMNUL răbufnise împotriva lui Uza și a numit locul acela Pereț-Uza (n.t. Răbufnirea [contra] lui Uza), până în ziua de astăzi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּחַר לְדָוִד עַל אֲשֶׁר פָּרַץ יְהוָה פֶּרֶץ בְּעֻזָּה...",
+      "translation": "„David s-a mâniat de răbufnirea cu care DOMNUL răbufnise împotriva lui Uza...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἠθύμησε Δαυὶδ ὑπὲρ οὗ διέκοψε Κύριος διακοπὴν ἐν τῷ Ὀζά· καὶ ἐκλήθη ὁ τόπος ἐκεῖνος Διακοπὴ Ὀζὰ ἕως τῆς ἡμέρας ταύτης.",
+      "greek": true,
+      "translation": "„Și s-a mâhnit David pentru că Domnul a făcut spărtură asupra lui Oza; și s-a numit locul acela Spărtura lui Oza până în ziua aceasta.”",
+      "note": "Divergență reală de nuanță emoțională: Textul Masoretic folosește „vayihar” (verbul „a se mânia/a se aprinde”, aceeași rădăcină ca la v.7 pentru mânia DOMNULUI), pe când Septuaginta alege „ἠθύμησε” („s-a mâhnit/descurajat”) — o redare mai blândă, care mută tonul de la o posibilă tulburare/mânie a lui David spre simplă tristețe."
+     }
+    ],
+    "refs": [
+     "1 Cronici 13:11,12",
+     "Iona 4:1,9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Vayihar leDavid” — s-a mâhnit și s-a tulburat pentru sine, în felul celui strâmtorat și înspăimântat, la fel cum se spune «și s-a mâhnit Samuel» (1 Samuel 15:11); „pentru spărtura” — din pricina neliniștii pe care i-a provocat-o acea spărtură.”"
+     }
+    ]
+   },
+   {
+    "v": "6:9",
+    "t": "Și David s-a temut de DOMNUL în ziua aceea și a spus: „Cum să vină Chivotul DOMNULUI la mine?”",
+    "heb": "וַיִּרָא דָוִד אֶת־יְהוָה בַּיּוֹם הַהוּא וַיֹּאמֶר אֵיךְ יָבוֹא אֵלַי אֲרוֹן יְהוָה׃",
+    "translit": "Vayira David et-ADONAI bayom hahu vaiomer eich yavo elai aron ADONAI.",
+    "tokens": [
+     {
+      "t": "Și David s-a temut de DOMNUL în ziua aceea și a spus: „Cum să "
+     },
+     {
+      "t": "vină",
+      "w": "vină",
+      "heb": "יָבוֹא",
+      "translit": "yavo",
+      "strong": "H935",
+      "pos": "verb, qal imperfect, persoana a III-a",
+      "def_ro": "să vină, să intre.",
+      "dict_ro": "Bo — Metzudat David explică teama lui David nu ca o îndoială privind valoarea Chivotului, ci ca o conștientizare bruscă a riscului practic al sfințeniei sale: dacă un act aparent minor precum atingerea Chivotului a adus moarte instantanee, David se întreabă legitim cum ar putea asigura o găzduire corespunzătoare, fără riscul unei noi greșeli fatale — aceeași teamă structurală ce apare la filisteni în 1 Samuel 6:20."
+     },
+     {
+      "t": " Chivotul DOMNULUI la mine?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּרָא דָוִד אֶת־יְהוָה בַּיּוֹם הַהוּא...",
+      "translation": "„Și David s-a temut de DOMNUL în ziua aceea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐφοβήθη Δαυὶδ τὸν Κύριον ἐν τῇ ἡμέρᾳ ἐκείνῃ λέγων· πῶς εἰσελεύσεται πρός με ἡ κιβωτὸς Κυρίου;",
+      "greek": true,
+      "translation": "„Și s-a temut David de Domnul în ziua aceea, zicând: cum va intra la mine chivotul Domnului?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 17:12,13",
+     "1 Samuel 6:20",
+     "Isaia 6:5",
+     "Luca 5:8,9",
+     "1 Regi 8:27",
+     "1 Cronici 13:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Et ADONAI” — Chivotul DOMNULUI, căci a gândit că nu se poate păzi cu adevărat sfințenia lui.”"
+     }
+    ]
+   },
+   {
+    "v": "6:10",
+    "t": "Și David n-a mai vrut să aducă Chivotul DOMNULUI la el, în Orașul lui David, ci David l-a deturnat către casa lui Oved-Edom, ghititul.",
+    "heb": "וְלֹא־אָבָה דָוִד לְהָסִיר אֵלָיו אֶת־אֲרוֹן יְהוָה עַל־עִיר דָּוִד וַיַּטֵּהוּ דָוִד בֵּית עֹבֵד־אֱדוֹם הַגִּתִּי׃",
+    "translit": "Velo-ava David lehasir elav et-aron ADONAI al-ir David vayatehu David beit Oved-Edom hagiti.",
+    "tokens": [
+     {
+      "t": "Și David n-a mai vrut să aducă Chivotul DOMNULUI la el, în Orașul lui David, ci David l-a deturnat către casa lui "
+     },
+     {
+      "t": "Oved-Edom, ghititul",
+      "w": "Oved-Edom, ghititul",
+      "heb": "עֹבֵד־אֱדוֹם הַגִּתִּי",
+      "translit": "Oved-Edom hagiti",
+      "strong": "H5654",
+      "pos": "substantiv propriu + adjectiv gentilic, cu articol",
+      "def_ro": "Oved-Edom din Gat.",
+      "dict_ro": "Ha-gити — epitetul „ghititul” (din Gat) ar sugera o origine filisteană, dar Rashi, citând 1 Cronici 15:18, îl identifică drept levit, unul dintre portarii sanctuarului — probabil numit „ghitit” după un oraș levitic cu acest nume sau după o perioadă petrecută acolo, nu după etnie. Alegerea unei case levite, nu oricare, pentru a găzdui Chivotul, sugerează că David, chiar înspăimântat, a rămas atent la rânduiala corectă."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְלֹא־אָבָה דָוִד לְהָסִיר אֵלָיו...",
+      "translation": "„Și David n-a mai vrut să aducă Chivotul DOMNULUI la el...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οὐκ ἐβούλετο Δαυὶδ τοῦ ἐκκλῖναι πρὸς αὐτὸν τὴν κιβωτὸν διαθήκης Κυρίου εἰς τὴν πόλιν Δαυίδ, καὶ ἀπέκλινεν αὐτὴν Δαυὶδ εἰς οἶκον Ἀβεδδαρὰ τοῦ Γεθαίου.",
+      "greek": true,
+      "translation": "„Și n-a voit David să abată la el chivotul legământului Domnului, în cetatea lui David, și l-a abătut David spre casa lui Abeddara Gheteul.”",
+      "note": "Divergență reală de titulatură: Septuaginta adaugă „legământului” (διαθήκης) la „chivotul Domnului”, formulă absentă la acest verset în Textul Masoretic — o completare teologică explicativă."
+     }
+    ],
+    "refs": [
+     "1 Cronici 13:13",
+     "1 Cronici 15:18",
+     "1 Cronici 16:5",
+     "1 Cronici 26:4-8",
+     "2 Samuel 15:19",
+     "2 Samuel 18:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Oved-Edom” era levit, după cum stă scris la Cronici, „și dintre portari era” (1 Cronici 15:18)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„L-a deturnat” — l-a abătut de la drumul spre Cetatea lui David, spre casa lui Oved-Edom.”"
+     }
+    ]
+   },
+   {
+    "v": "6:11",
+    "t": "Și Chivotul DOMNULUI a rămas în casa lui Oved-Edom, ghititul, timp de trei luni, iar DOMNUL l-a binecuvântat pe Oved-Edom împreună cu toată casa lui.",
+    "heb": "וַיֵּשֶׁב אֲרוֹן יְהוָה בֵּית עֹבֵד אֱדוֹם הַגִּתִּי שְׁלֹשָׁה חֳדָשִׁים וַיְבָרֶךְ יְהוָה אֶת־עֹבֵד אֱדוֹם וְאֶת־כָּל־בֵּיתוֹ׃",
+    "translit": "Vayeșev aron ADONAI beit Oved Edom hagiti șeloșa hodașim vayvarech ADONAI et-Oved Edom veet-kol-beito.",
+    "tokens": [
+     {
+      "t": "Și Chivotul DOMNULUI a rămas în casa lui Oved-Edom, ghititul, timp de trei luni, iar DOMNUL l-a "
+     },
+     {
+      "t": "binecuvântat",
+      "w": "binecuvântat",
+      "heb": "וַיְבָרֶךְ",
+      "translit": "vayvarech",
+      "strong": "H1288",
+      "pos": "verb, piel imperfect consecutiv, persoana a III-a",
+      "def_ro": "și a binecuvântat.",
+      "dict_ro": "Barach — Rashi citează o tradiție (bazată pe 1 Cronici 26:5, unde Oved-Edom e numit „al optulea” între cei binecuvântați cu mulți fii) potrivit căreia soția lui Oved-Edom și cele opt nurori ale sale au născut fiecare câte șase fii dintr-o singură sarcină, în cele trei luni — o binecuvântare literalizată, fizică, ca răspuns direct la primirea cu credință a aceluiași Chivot care adusese moarte în casa lui Uza."
+     },
+     {
+      "t": " pe Oved-Edom împreună cu toată casa lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּשֶׁב אֲרוֹן יְהוָה בֵּית עֹבֵד אֱדוֹם...",
+      "translation": "„Și Chivotul DOMNULUI a rămas în casa lui Oved-Edom...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐκάθισεν ἡ κιβωτὸς τοῦ Κυρίου εἰς οἶκον Ἀβεδδαρὰ τοῦ Γεθαίου μῆνας τρεῖς· καὶ εὐλόγησε Κύριος ὅλον τὸν οἶκον Ἀβεδδαρὰ καὶ πάντα τὰ αὐτοῦ.",
+      "greek": true,
+      "translation": "„Și a șezut chivotul Domnului în casa lui Abeddara Gheteul trei luni; și a binecuvântat Domnul toată casa lui Abeddara și toate ale lui.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Geneza 30:27",
+     "Geneza 39:5,23",
+     "Proverbe 3:9,10",
+     "Maleahi 3:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: soția lui și cele opt nurori ale sale au născut șase fii fiecare, dintr-o singură sarcină, precum se spune: „lucrarea lui, al optulea” (1 Cronici 26:5) — șaizeci și doi [de fii] lui Oved-Edom."
+     }
+    ]
+   },
+   {
+    "v": "6:12",
+    "t": "Și i s-a vestit lui David că DOMNUL îl binecuvântase pe Oved-Edom și toată casa lui din pricina Chivotului DOMNULUI, și David a mers și a ridicat Chivotul lui Dumnezeu din casa lui Oved-Edom, către Orașul lui David, cu bucurie.",
+    "heb": "וַיֻּגַּד לַמֶּלֶךְ דָּוִד לֵאמֹר בֵּרַךְ יְהוָה אֶת־בֵּית עֹבֵד אֱדוֹם וְאֶת־כָּל־אֲשֶׁר־לוֹ בַּעֲבוּר אֲרוֹן הָאֱלֹהִים וַיֵּלֶךְ דָּוִד וַיַּעַל אֶת־אֲרוֹן הָאֱלֹהִים מִבֵּית עֹבֵד אֱדוֹם עִיר דָּוִד בְּשִׂמְחָה׃",
+    "translit": "Vayugad lameleh David lemor berach ADONAI et-beit Oved Edom veet-kol-așer-lo baavur aron haElohim vaieleh David vayaal et-aron haElohim mibeit Oved Edom ir David besimha.",
+    "tokens": [
+     {
+      "t": "Și i s-a vestit lui David că DOMNUL îl binecuvântase pe Oved-Edom și toată casa lui din pricina Chivotului DOMNULUI, și David a mers și a ridicat Chivotul lui Dumnezeu din casa lui Oved-Edom, către Orașul lui David, cu "
+     },
+     {
+      "t": "bucurie",
+      "w": "bucurie",
+      "heb": "בְּשִׂמְחָה",
+      "translit": "besimha",
+      "strong": "H8057",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "cu bucurie, cu veselie.",
+      "dict_ro": "Simha — Metzudat David identifică sursa concretă a bucuriei lui David: vestea binecuvântării revărsate asupra casei lui Oved-Edom l-a asigurat pe David că, de această dată, Chivotul poate fi mutat fără primejdie — bucuria nu e doar emoție religioasă generică, ci ușurarea practică a unui om care abia acum se simte liber să corecteze greșeala din urmă cu trei luni."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֻּגַּד לַמֶּלֶךְ דָּוִד...",
+      "translation": "„Și i s-a vestit lui David...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπηγγέλη τῷ βασιλεῖ Δαυὶδ λέγοντες· εὐλόγησε Κύριος τὸν οἶκον Ἀβεδδαρὰ καὶ πάντα τὰ αὐτοῦ ἕνεκα τῆς κιβωτοῦ τοῦ Θεοῦ, καὶ ἐπορεύθη Δαυὶδ καὶ ἀνήγαγε τὴν κιβωτὸν τοῦ Κυρίου ἐκ τοῦ οἴκου Ἀβεδδαρὰ εἰς τὴν πόλιν Δαυὶδ ἐν εὐφροσύνῃ.",
+      "greek": true,
+      "translation": "„Și s-a vestit regelui David, zicându-i: a binecuvântat Domnul casa lui Abeddara și toate ale lui, din pricina chivotului lui Dumnezeu; și a mers David și a suit chivotul Domnului din casa lui Abeddara în cetatea lui David, cu veselie.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "1 Cronici 15:1-3,25",
+     "Psalmul 24:7-10",
+     "Psalmul 68:24-27",
+     "Psalmul 132:6-8",
+     "Matei 10:42"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Din pricina Chivotului” — care șade în casa lui, căci înainte de aceasta n-a ajuns la o asemenea binecuvântare; „Orașul lui David” — către cetatea lui David, adică Țion.”"
+     }
+    ]
+   },
+   {
+    "v": "6:13",
+    "t": "La fiecare șase pași pe care îi făceau purtătorii Chivotului DOMNULUI, el jertfea un taur și un taur îngrășat.",
+    "heb": "וַיְהִי כִּי צָעֲדוּ נֹשְׂאֵי אֲרוֹן־יְהוָה שִׁשָּׁה צְעָדִים וַיִּזְבַּח שׁוֹר וּמְרִיא׃",
+    "translit": "Vayehi ki tzaadu noseei aron-ADONAI șișa tzeadim vayizbah șor umeri.",
+    "tokens": [
+     {
+      "t": "La fiecare "
+     },
+     {
+      "t": "șase pași",
+      "w": "șase pași",
+      "heb": "שִׁשָּׁה צְעָדִים",
+      "translit": "șișa tzeadim",
+      "strong": "H6806",
+      "pos": "numeral + substantiv, masculin plural",
+      "def_ro": "șase pași.",
+      "dict_ro": "Tzaad — Metzudat David precizează că jertfele erau aduse după fiecare grup de șase pași, adică repetat, de-a lungul întregii procesiuni, nu o singură dată — subliniind atât proporția impresionantă a jertfelor aduse la această a doua, reușită, încercare de urcare a Chivotului, cât și grija scrupuloasă de a marca fiecare etapă a drumului cu recunoștință."
+     },
+     {
+      "t": " pe care îi făceau purtătorii Chivotului DOMNULUI, el jertfea un taur și un taur îngrășat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי כִּי צָעֲדוּ נֹשְׂאֵי אֲרוֹן־יְהוָה...",
+      "translation": "„La fiecare șase pași pe care îi făceau purtătorii Chivotului DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἦσαν μετ' αὐτοῦ αἴροντες τὴν κιβωτὸν ἑπτὰ χοροὶ καὶ θῦμα μόσχος καὶ ἄρνες.",
+      "greek": true,
+      "translation": "„Și erau cu el, purtând chivotul, șapte coruri, și ca jertfă, un vițel și miei.”",
+      "note": "Divergență reală și substanțială: Textul Masoretic descrie jertfe repetate „la fiecare șase pași”, cu „un taur și un taur îngrășat”; Septuaginta redă cu totul altfel — „șapte coruri” de purtători/cântăreți și o singură jertfă, „un vițel și miei” — o versiune notabil diferită atât în structura procesiunii, cât și în natura jertfelor aduse."
+     }
+    ],
+    "refs": [
+     "Numeri 4:15",
+     "Numeri 7:9",
+     "Iosua 3:3",
+     "1 Cronici 15:26",
+     "1 Regi 8:5",
+     "2 Cronici 5:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„După fiecare șase pași” — de fiecare dată când purtătorii Chivotului făceau șase pași, David jertfea din nou, iar aceasta s-a repetat de-a lungul întregului drum.”"
+     }
+    ]
+   },
+   {
+    "v": "6:14",
+    "t": "Și David dansa cu toată puterea [lui] înaintea DOMNULUI, încins cu o tunică de in.",
+    "heb": "וְדָוִד מְכַרְכֵּר בְּכָל־עֹז לִפְנֵי יְהוָה וְדָוִד חָגוּר אֵפוֹד בָּד׃",
+    "translit": "VeDavid meharker bechol-oz lifnei ADONAI veDavid hagur efod bad.",
+    "tokens": [
+     {
+      "t": "Și David dansa cu toată puterea [lui] înaintea DOMNULUI, încins cu o "
+     },
+     {
+      "t": "tunică de in",
+      "w": "tunică de in",
+      "heb": "אֵפוֹד בָּד",
+      "translit": "efod bad",
+      "strong": "H646",
+      "pos": "substantiv construct + substantiv",
+      "def_ro": "efod de in, veșmânt simplu de in.",
+      "dict_ro": "Efod bad — nu efodul bogat, împodobit cu pietre prețioase, al marelui preot, ci un veșmânt simplu de in, purtat de cei consacrați slujirii DOMNULUI într-un mod smerit — aceeași expresie exactă descrie veșmântul tânărului Samuel (1 Samuel 2:18). Metzudat David notează că David, deși rege, s-a îmbrăcat pentru acest moment nu în straie regale, ci în haina simplă a unui slujitor devotat."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְדָוִד מְכַרְכֵּר בְּכָל־עֹז לִפְנֵי יְהוָה...",
+      "translation": "„Și David dansa cu toată puterea [lui] înaintea DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ Δαυὶδ ἀνεκρούετο ἐν ὀργάνοις ἡρμοσμένοις ἐνώπιον Κυρίου, καὶ ὁ Δαυὶδ ἐνδεδυκὼς στολὴν ἔξαλλον.",
+      "greek": true,
+      "translation": "„Și David cânta la instrumente acordate înaintea Domnului, iar David era îmbrăcat cu o haină neobișnuită.”",
+      "note": "Divergență reală: acolo unde Textul Masoretic spune limpede că David „dansa” (mecharker), Septuaginta traduce „ἀνεκρούετο” — „cânta la instrumente” — o schimbare de acțiune, de la dans la interpretare muzicală; iar „efod bad” (tunică simplă de in) devine „στολὴν ἔξαλλον” („haină neobișnuită/ciudată”), o redare vagă a veșmântului specific."
+     }
+    ],
+    "refs": [
+     "Exod 15:20",
+     "1 Samuel 2:18",
+     "Psalmul 149:3",
+     "Psalmul 150:4",
+     "Luca 15:25",
+     "1 Cronici 15:27"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „mecharker” — dansa; „efod bad” — o mantie de in, tradusă de Targum Ionatan „kardut”, aceeași folosită și pentru mantiile Tamarei, sora lui Abșalom (Samuel II 13:18)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Efod bad” — un veșmânt făcut după chipul efodului marelui preot, dedicat celor ce se dedică în chip aparte slujirii DOMNULUI, precum se spune despre Samuel: „iar Samuel... încins cu un efod de in” (1 Samuel 2:18) — și David l-a îmbrăcat la ridicarea Chivotului.”"
+     }
+    ]
+   },
+   {
+    "v": "6:15",
+    "t": "Și David și toată casa lui Israel au ridicat Chivotul DOMNULUI cu glas vesel și puternic, și cu sunet de corn.",
+    "heb": "וְדָוִד וְכָל־בֵּית יִשְׂרָאֵל מַעֲלִים אֶת־אֲרוֹן יְהוָה בִּתְרוּעָה וּבְקוֹל שׁוֹפָר׃",
+    "translit": "VeDavid vechol-beit Israël maalim et-aron ADONAI bitrua uvekol șofar.",
+    "tokens": [
+     {
+      "t": "Și David și toată casa lui Israel au ridicat Chivotul DOMNULUI cu "
+     },
+     {
+      "t": "glas vesel și puternic",
+      "w": "glas vesel și puternic",
+      "heb": "בִּתְרוּעָה",
+      "translit": "bitrua",
+      "strong": "H8643",
+      "pos": "substantiv, feminin singular, cu prefix",
+      "def_ro": "cu strigăt, cu sunet de veselie.",
+      "dict_ro": "Terua — termen tehnic care desemnează atât strigătul uman de bucurie/luptă, cât și sunetul specific al trâmbiței (aceeași rădăcină din „Yom Terua”, numele biblic al Roș Hașana); asocierea directă cu „kol șofar” (sunetul cornului) în același verset arată o procesiune completă senzorial — voci umane și instrumente muzicale unite într-un singur act public de bucurie."
+     },
+     {
+      "t": ", și cu sunet de corn."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְדָוִד וְכָל־בֵּית יִשְׂרָאֵל מַעֲלִים...",
+      "translation": "„Și David și toată casa lui Israel au ridicat Chivotul DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ Δαυὶδ καὶ πᾶς ὁ οἶκος Ἰσραὴλ ἀνήγαγον τὴν κιβωτὸν Κυρίου μετὰ κραυγῆς καὶ μετὰ φωνῆς σάλπιγγος.",
+      "greek": true,
+      "translation": "„Și David și toată casa lui Israel au suit chivotul Domnului cu strigăt și cu sunet de trâmbiță.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmul 132:18",
+     "1 Cronici 15:28",
+     "Numeri 10:1-10",
+     "Iosua 6:4,5",
+     "Psalmul 47:1,5,6",
+     "Ezra 3:10,11"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Bitrua” — cu glas de bucurie, așa cum e obiceiul la aducerea unui lucru de mare cinste, iar aceasta arată bucuria pe care o simțeau la ridicarea Chivotului.”"
+     }
+    ]
+   },
+   {
+    "v": "6:16",
+    "t": "Când Chivotul a ajuns în Orașul lui David, Mihal, fiica lui Șaul, a privit pe fereastră și l-a văzut pe regele David sărind și dansând înaintea DOMNULUI, și l-a disprețuit în inima ei.",
+    "heb": "וְהָיָה אֲרוֹן יְהוָה בָּא עִיר דָּוִד וּמִיכַל בַּת־שָׁאוּל נִשְׁקְפָה בְּעַד הַחַלּוֹן וַתֵּרֶא אֶת־הַמֶּלֶךְ דָּוִד מְפַזֵּז וּמְכַרְכֵּר לִפְנֵי יְהוָה וַתִּבֶז לוֹ בְּלִבָּהּ׃",
+    "translit": "Vehaya aron ADONAI ba ir David uMihal bat-Șaul nișkefa bead hahalon vatere et-hameleh David mefazez umeharker lifnei ADONAI vativez lo beliba.",
+    "tokens": [
+     {
+      "t": "Când Chivotul a ajuns în Orașul lui David, Mihal, fiica lui Șaul, a privit pe fereastră și l-a văzut pe regele David sărind și dansând înaintea DOMNULUI, și l-a "
+     },
+     {
+      "t": "disprețuit",
+      "w": "disprețuit",
+      "heb": "וַתִּבֶז",
+      "translit": "vativez",
+      "strong": "H959",
+      "pos": "verb, qal imperfect consecutiv, persoana a III-a feminin",
+      "def_ro": "și l-a disprețuit.",
+      "dict_ro": "Baza — Metzudat David citește disprețul Mihalei nu ca o reacție morală, ci ca o judecată de etichetă regală: ea a considerat dansul public al lui David nepotrivit pentru un rege, mai ales „chiar înaintea Chivotului”, adică într-un context solemn unde s-ar fi așteptat o demnitate rezervată, nu o exprimare corporală atât de dezinhibată — o neînțelegere fundamentală a naturii adevăratei smerenii regale."
+     },
+     {
+      "t": " în inima ei."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה אֲרוֹן יְהוָה בָּא עִיר דָּוִד...",
+      "translation": "„Când Chivotul a ajuns în Orașul lui David...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο τῆς κιβωτοῦ παραγινομένης ἕως πόλεως Δαυὶδ καὶ Μελχὸλ ἡ θυγάτηρ Σαοὺλ διέκυπτε διὰ τῆς θυρίδος καὶ εἶδε τὸν βασιλέα Δαυὶδ ὀρχούμενον καὶ ἀνακρουόμενον ἐνώπιον Κυρίου καὶ ἐξουδένωσεν αὐτὸν ἐν τῇ καρδίᾳ αὐτῆς.",
+      "greek": true,
+      "translation": "„Și a fost când chivotul ajungea la cetatea lui David, Melhol, fiica lui Saul, se pleca pe fereastră și l-a văzut pe regele David dansând și cântând la instrumente înaintea Domnului, și l-a disprețuit în inima ei.”",
+      "note": "Corespondență strânsă cu Textul Masoretic; numele „Mihal” apare în forma grecizată „Μελχὸλ”."
+     }
+    ],
+    "refs": [
+     "1 Cronici 15:29",
+     "2 Samuel 3:14",
+     "Psalmul 69:7",
+     "Isaia 53:3",
+     "Faptele Apostolilor 2:13",
+     "1 Corinteni 2:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„L-a disprețuit în inima ei” — a socotit-o, în inima ei, o faptă necuvenită pentru un rege să facă asemenea lucruri, chiar înaintea Chivotului.”"
+     }
+    ]
+   },
+   {
+    "v": "6:17",
+    "t": "Au adus Chivotul DOMNULUI și l-au așezat la locul lui, în cortul pe care David îl ridicase pentru el; și David a adus arderi-de-tot înaintea DOMNULUI și jertfe de pace.",
+    "heb": "וַיָּבִאוּ אֶת־אֲרוֹן יְהוָה וַיַּצִּגוּ אֹתוֹ בִּמְקוֹמוֹ בְּתוֹךְ הָאֹהֶל אֲשֶׁר נָטָה־לוֹ דָּוִד וַיַּעַל דָּוִד עֹלוֹת לִפְנֵי יְהוָה וּשְׁלָמִים׃",
+    "translit": "Vayaviu et-aron ADONAI vayatzigu oto bimkomo betochhaohel așer nata-lo David vayaal David olot lifnei ADONAI ușelamim.",
+    "tokens": [
+     {
+      "t": "Au adus Chivotul DOMNULUI și l-au așezat la "
+     },
+     {
+      "t": "locul lui",
+      "w": "locul lui",
+      "heb": "בִּמְקוֹמוֹ",
+      "translit": "bimkomo",
+      "strong": "H4725",
+      "pos": "substantiv, masculin singular + sufix",
+      "def_ro": "la locul lui.",
+      "dict_ro": "Makom — Metzudat David precizează că „locul lui” desemnează poziția special pregătită dinainte de David, în interiorul cortului pe care el însuși îl ridicase în acest scop — nu un cort improvizat pe loc, ci o structură pregătită anticipat, semn al planificării serioase din partea lui David pentru primirea permanentă a Chivotului la Ierusalim."
+     },
+     {
+      "t": ", în cortul pe care David îl ridicase pentru el; și David a adus arderi-de-tot înaintea DOMNULUI și jertfe de pace."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבִאוּ אֶת־אֲרוֹן יְהוָה וַיַּצִּגוּ אֹתוֹ בִּמְקוֹמוֹ...",
+      "translation": "„Au adus Chivotul DOMNULUI și l-au așezat la locul lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ φέρουσι τὴν κιβωτὸν τοῦ Κυρίου καὶ ἀνέθησαν αὐτὴν εἰς τὸν τόπον αὐτῆς εἰς μέσον τῆς σκηνῆς, ἧς ἔπηξεν αὐτῇ Δαυίδ· καὶ ἀνήνεγκε Δαυὶδ ὁλοκαυτώματα ἐνώπιον Κυρίου καὶ εἰρηνικάς.",
+      "greek": true,
+      "translation": "„Și aduc chivotul Domnului și l-au așezat la locul lui, în mijlocul cortului pe care i-l întinsese David; și a adus David arderi de tot înaintea Domnului, și [jertfe] de pace.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "1 Cronici 16:1",
+     "2 Cronici 1:4",
+     "Psalmul 132:8",
+     "1 Regi 8:5",
+     "2 Cronici 5:6",
+     "Ezra 6:16,17"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Bimkomo” — la locul pregătit pentru el în mijlocul cortului pe care David îl întinsese anume pentru Chivot.”"
+     }
+    ]
+   },
+   {
+    "v": "6:18",
+    "t": "Când David a încheiat de adus arderea-de-tot și jertfa de pace, a binecuvântat poporul cu numele DOMNULUI Oștirilor.",
+    "heb": "וַיְכַל דָּוִד מֵהַעֲלוֹת הָעוֹלָה וְהַשְּׁלָמִים וַיְבָרֶךְ אֶת־הָעָם בְּשֵׁם יְהוָה צְבָאוֹת׃",
+    "translit": "Vaychal David mehaalot haola vehașelamim vayvarech et-haam beșem ADONAI Țevaot.",
+    "tokens": [
+     {
+      "t": "Când David a încheiat de adus arderea-de-tot și jertfa de pace, a "
+     },
+     {
+      "t": "binecuvântat",
+      "w": "binecuvântat",
+      "heb": "וַיְבָרֶךְ",
+      "translit": "vayvarech",
+      "strong": "H1288",
+      "pos": "verb, piel imperfect consecutiv, persoana a III-a",
+      "def_ro": "și a binecuvântat.",
+      "dict_ro": "Barach — deși binecuvântarea poporului era în mod tradițional prerogativa preoților (Levitic 9:22-23) sau, ocazional, a figurilor regal-preoțești precum Melhisedec (Geneza 14:19), David, ca rege, binecuvântează poporul „în Numele DOMNULUI Oștirilor” — o formulă care subliniază că binecuvântarea nu vine din autoritatea lui personală, ci e rostită explicit ca reprezentant al lui Dumnezeu, într-un moment de bucurie liturgică excepțională."
+     },
+     {
+      "t": " poporul cu numele DOMNULUI Oștirilor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְכַל דָּוִד מֵהַעֲלוֹת הָעוֹלָה...",
+      "translation": "„Când David a încheiat de adus arderea-de-tot...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ συνετέλεσε Δαυὶδ συναναφέρων τὰς ὁλοκαυτώσεις καὶ τὰς εἰρηνικὰς καὶ εὐλόγησε τὸν λαὸν ἐν ὀνόματι Κυρίου τῶν δυνάμεων.",
+      "greek": true,
+      "translation": "„Și a isprăvit David de adus arderile de tot și [jertfele] de pace, și a binecuvântat poporul în numele Domnului puterilor.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "1 Regi 8:55",
+     "1 Cronici 16:2",
+     "2 Cronici 6:3",
+     "Geneza 14:19",
+     "Levitic 9:22,23",
+     "Evrei 7:1-7"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "David, ca rege, binecuvântează poporul în Numele DOMNULUI Oștirilor — la fel cum, mai târziu, la sfințirea Templului, Solomon va binecuvânta întreaga adunare a lui Israel (1 Regi 8:55)."
+     }
+    ]
+   },
+   {
+    "v": "6:19",
+    "t": "Și a dat întregului popor, întregii mulțimi a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o așișa (n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui.",
+    "heb": "וַיְחַלֵּק לְכָל־הָעָם לְכָל־הֲמוֹן יִשְׂרָאֵל לְמֵאִישׁ וְעַד־אִשָּׁה לְאִישׁ חַלַּת לֶחֶם אַחַת וְאֶשְׁפָּר אֶחָד וַאֲשִׁישָׁה אֶחָת וַיֵּלֶךְ כָּל־הָעָם אִישׁ לְבֵיתוֹ׃",
+    "translit": "Vayhalek lechol-haam lechol-hamon Israël lemeiș vead-ișa leiș halat lehem ahat veeșpar ehad vaașișa ehat vaieleh kol-haam iș leveito.",
+    "tokens": [
+     {
+      "t": "Și a dat întregului popor, întregii mulțimi a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o "
+     },
+     {
+      "t": "așișa",
+      "w": "așișa",
+      "heb": "אֲשִׁישָׁה",
+      "translit": "așișa",
+      "strong": "H809",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "turtă cu stafide sau ulcior de vin.",
+      "dict_ro": "Așișa — cuvânt cu sens disputat, notat onest ca atare de traducerea Rosen; Rashi, urmând Talmudul (Pesahim 36b), identifică „eșpar” drept a șasea parte dintr-un taur (o porție de carne standardizată), iar „așișa” drept un urcior/butoiaș de vin — interpretare tradițională păstrată în paralel cu varianta „turtă cu stafide”, mai des întâlnită în traducerile moderne bazate pe context (cf. Osea 3:1, unde termenul apare în context clar culinar)."
+     },
+     {
+      "t": "); și apoi tot poporul, fiecare om, a mers la casa lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְחַלֵּק לְכָל־הָעָם...",
+      "translation": "„Și a dat întregului popor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ διεμέρισε παντὶ τῷ λαῷ εἰς πᾶσαν τὴν δύναμιν τοῦ Ἰσραὴλ ἀπὸ Δὰν ἕως Βηρσαβεὲ καὶ ἀπό ἀνδρὸς ἕως γυναικός, ἑκάστῳ κολλυρίδα ἄρτου καὶ ἐσχαρίτην καὶ λάγανον ἀπὸ τηγάνου· καὶ ἀπῆλθε πᾶς ὁ λαὸς ἕκαστος εἰς τὸν οἶκον αὐτοῦ.",
+      "greek": true,
+      "translation": "„Și a împărțit întregului popor, întregii puteri a lui Israel, de la Dan până la Beer-Șeba, și de la bărbat până la femeie, fiecăruia o turtă de pâine, și o prăjitură de pe grătar, și o clătită din tigaie; și a plecat tot poporul, fiecare la casa lui.”",
+      "note": "Divergență lexicală reală: Septuaginta adaugă precizarea geografică „de la Dan până la Beer-Șeba” (absentă din Textul Masoretic la acest verset) și traduce cele trei daruri prin termeni culinari concreți diferiți — „turtă de pâine”, „prăjitură de pe grătar” și „clătită din tigaie” — variind sensibil de la lectura tradițională a lui „eșpar” și „așișa” ca porție de carne și, respectiv, vin sau turtă cu stafide."
+     }
+    ],
+    "refs": [
+     "1 Cronici 16:3",
+     "2 Cronici 35:7,8",
+     "Neemia 8:10",
+     "Faptele Apostolilor 20:35",
+     "Efeseni 4:8",
+     "1 Regi 8:66"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „eșpar” — a șasea parte dintr-un taur (Talmud Bavli, Pesahim 36b); „așișa ahat” — un urcior de vin (ibidem)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Le-am ish” — vrea să spună: fiecăruia, atât bărbat cât și femeie.”"
      }
     ]
    }
