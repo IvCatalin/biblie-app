@@ -58945,6 +58945,1026 @@
     ]
    }
   ]
+ },
+  {
+  "num": 35,
+  "title": "Haftarat Emor",
+  "ref": "Ezechiel 44:15-31",
+  "intro": "Pericopa Emor începe cu legile speciale ale preoților — ferirea de necurăția morților, căsătoria, sfințenia trupului — și continuă cu calendarul sărbătorilor. Haftara din Ezechiel reia aceleași teme pentru Templul viitor: preoții din familia lui Țadok, care au rămas credincioși când poporul s-a abătut, vor sluji înaintea lui Dumnezeu în veșminte de in, fără vin, tunși cu măsură, căsătorindu-se după reguli stricte, ferindu-se de morți și învățând poporul să deosebească între sfânt și profan, între necurat și curat. Unele dintre aceste reguli diferă de cele din Tora, iar tradiția evreiască le-a înțeles fie ca rânduieli pentru vremea mesianică, fie ca pasaje pe care, după Talmud, „Eliahu le va explica în viitor”. Haftara se încheie cu darurile datorate preoților, care nu au moștenire în pământ, pentru că „Eu sunt moștenirea lor”.",
+  "verses": [
+   {
+    "v": "44:15",
+    "t": "Iar preoții leviți – fiii lui Țadok, care au păzit sarcina Sanctuarului Meu atunci când copiii lui Israel s-au abătut de la Mine – ei să se apropie de Mine ca să-Mi slujească și să stea în picioare în fața Mea ca să-Mi aducă grăsime și sânge – rostirea Stăpânului meu, Domnul DUMNEZEU.",
+    "heb": "וְהַכֹּהֲנִים הַלְוִיִּם בְּנֵי צָדוֹק אֲשֶׁר שָׁמְרוּ אֶת־מִשְׁמֶרֶת מִקְדָּשִׁי בִּתְעוֹת בְּנֵי־יִשְׂרָאֵל מֵעָלַי הֵמָּה יִקְרְבוּ אֵלַי לְשָׁרְתֵנִי וְעָמְדוּ לְפָנַי לְהַקְרִיב לִי חֵלֶב וָדָם נְאֻם אֲדֹנָי יְהוִה׃",
+    "translit": "Vehakohanim haleviim benei Țadok așer șamru et-mișmeret mikdași bitot benei-Israël mealai hema yikrevu elai leșarteni veamdu lefanai lehakriv li helev vadam neum Adonai ELOHIM.",
+    "tokens": [
+     {
+      "t": "Iar preoții leviți – "
+     },
+     {
+      "t": "fiii lui Țadok",
+      "w": "fiii lui Țadok",
+      "heb": "בְּנֵי צָדוֹק",
+      "translit": "benei Țadok",
+      "strong": "H6659",
+      "pos": "substantiv, masculin plural, în construcție + nume propriu",
+      "def_ro": "urmașii lui Țadok, familia marilor preoți.",
+      "dict_ro": "Țadok — marele preot din vremea lui David și Solomon (Regi I 2:35), numit, după Rashi, pentru că a fost primul care a slujit ca mare preot în Templul lui Solomon; numele lui înseamnă „drept”. Ezechiel le rezervă urmașilor lui slujirea din viitorul Templu, pentru că ei „au păzit sarcina Sanctuarului” atunci când restul poporului s-a abătut; Radak explică contrastul: preoții care s-au rătăcit nu se vor mai întoarce la slujire, pe când cei care n-au rătăcit o vor primi înapoi."
+     },
+     {
+      "t": ", care au păzit sarcina Sanctuarului Meu atunci când copiii lui Israel s-au abătut de la Mine – ei să se apropie de Mine ca să-Mi slujească și să stea în picioare în fața Mea ca să-Mi aducă grăsime și sânge – rostirea Stăpânului meu, Domnul DUMNEZEU."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהַכֹּהֲנִים הַלְוִיִּם בְּנֵי צָדוֹק...",
+      "translation": "„Iar preoții leviți – fiii lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οἱ ἱερεῖς οἱ Λευῖται, οἱ υἱοὶ τοῦ Σαδδούκ, οἵτινες ἐφυλάξαντο τὰς φυλακὰς τῶν ἁγίων μου ἐν τῷ πλανᾶσθαι οἶκον ᾿Ισραὴλ ἀπ’ ἐμοῦ, οὗτοι προσάξουσι πρός με τοῦ λειτουργεῖν μοι καὶ στήσονται πρὸ προσώπου μου τοῦ προσφέρειν μοι θυσίαν, στέαρ καὶ αἷμα, λέγει Κύριος ὁ Θεός.",
+      "greek": true,
+      "translation": "„preoții leviți, fiii lui Sadduc, care au păzit rânduielile celor sfinte ale Mele când s-a rătăcit casa lui Israel de la Mine, aceștia se vor apropia de Mine ca să-Mi slujească și vor sta înaintea feței Mele ca să-Mi aducă jertfă, grăsime și sânge, zice Domnul Dumnezeu.”",
+      "note": "Corespondență strânsă; Septuaginta adaugă „jertfă” (θυσίαν) înainte de „grăsime și sânge”."
+     }
+    ],
+    "refs": [
+     "Ezechiel 40:46",
+     "Ezechiel 48:11",
+     "1 Samuel 2:35",
+     "1 Regi 2:35",
+     "Deuteronom 10:8",
+     "Levitic 3:16,17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Iar preoții leviți” — [adică preoții, care sunt] din tribul lui Levi. „Fiii lui Țadok” — pentru că el a fost marele preot care a slujit primul în Sanctuarul din zilele lui Solomon, ei sunt numiți după numele lui."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iar preoții leviți” — dar preoții din fiii lui Levi, din sămânța lui Țadok, care a slujit în zilele lui Solomon. „Care au păzit” — și nu s-au clintit de la slujirea Locului atunci când fiii lui Israel s-au rătăcit."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: pentru că a spus că preoții care s-au rătăcit nu se vor mai întoarce în viitor la rânduiala slujirii, a spus că cei care nu s-au rătăcit se vor întoarce la rânduiala slujirii lor."
+     }
+    ]
+   },
+   {
+    "v": "44:16",
+    "t": "Ei să vină la Sanctuarul Meu și să se apropie de masa Mea, să-Mi slujească și să păzească sarcina Mea.",
+    "heb": "הֵמָּה יָבֹאוּ אֶל־מִקְדָּשִׁי וְהֵמָּה יִקְרְבוּ אֶל־שֻׁלְחָנִי לְשָׁרְתֵנִי וְשָׁמְרוּ אֶת־מִשְׁמַרְתִּי׃",
+    "translit": "Hema yavou el-mikdași vehema yikrevu el-șulhani leșarteni veșamru et-mișmarti.",
+    "tokens": [
+     {
+      "t": "Ei să vină la Sanctuarul Meu și să se apropie de "
+     },
+     {
+      "t": "masa Mea",
+      "w": "masa Mea",
+      "heb": "שֻׁלְחָנִי",
+      "translit": "șulhani",
+      "strong": "H7979",
+      "pos": "substantiv, masculin singular + sufix persoana I",
+      "def_ro": "masa Mea.",
+      "dict_ro": "Șulhan — masa; „masa Mea” e aici altarul sau masa pâinilor punerii înainte. Metzudat David și Radak (după Targum Ionatan, „la masa pâinilor feței”) o identifică cu rânduirea pâinilor punerii înainte pe masa din Sanctuar. Maleahi folosește aceeași expresie, „masa DOMNULUI”, pentru altar (Maleahi 1:7), iar ideea unei „mese” a lui Dumnezeu la care slujesc preoții a trecut și în limbajul creștin despre altar."
+     },
+     {
+      "t": ", să-Mi slujească și să păzească sarcina Mea."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֵמָּה יָבֹאוּ אֶל־מִקְדָּשִׁי וְהֵמָּה...",
+      "translation": "„Ei să vină la Sanctuarul Meu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὗτοι εἰσελεύσονται εἰς τὰ ἅγιά μου, καὶ οὗτοι προσελεύσονται πρὸς τὴν τράπεζάν μου τοῦ λειτουργεῖν μοι καὶ φυλάξουσι τὰς φυλακάς μου.",
+      "greek": true,
+      "translation": "„Aceștia vor intra în cele sfinte ale Mele și aceștia se vor apropia de masa Mea ca să-Mi slujească și vor păzi rânduielile Mele.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Apocalipsa 1:6",
+     "Ezechiel 41:22",
+     "Maleahi 1:7,12",
+     "Numeri 18:7,8",
+     "Deuteronom 33:8-10"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„La masa Mea, să-Mi slujească” — aceasta este rânduirea pâinilor punerii înainte, care sunt pe masă. „Și să păzească” — în orice lucru al slujirii."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „La masa Mea, să-Mi slujească” — cum a tradus Ionatan: „la masa pâinilor feței”."
+     }
+    ]
+   },
+   {
+    "v": "44:17",
+    "t": "Și va fi, când intră pe porțile curții interioare, să poarte veșminte de in; niciun veșmânt de lână să nu se afle asupra lor când slujesc [dincolo de] porțile curții interioare sau înăuntrul ei.",
+    "heb": "וְהָיָה בְּבוֹאָם אֶל־שַׁעֲרֵי הֶחָצֵר הַפְּנִימִית בִּגְדֵי פִשְׁתִּים יִלְבָּשׁוּ וְלֹא־יַעֲלֶה עֲלֵיהֶם צֶמֶר בְּשָׁרְתָם בְּשַׁעֲרֵי הֶחָצֵר הַפְּנִימִית וָבָיְתָה׃",
+    "translit": "Vehaya bevoam el-șaarei hehatzer hapenimit bigdei fiștim yilbașu velo-yaale aleihem tzemer beșartam beșaarei hehatzer hapenimit vavaita.",
+    "tokens": [
+     {
+      "t": "Și va fi, când intră pe porțile curții interioare, să poarte "
+     },
+     {
+      "t": "veșminte de in",
+      "w": "veșminte de in",
+      "heb": "בִּגְדֵי פִשְׁתִּים",
+      "translit": "bigdei fiștim",
+      "strong": "H6593",
+      "pos": "substantiv, masculin plural, în construcție + substantiv plural",
+      "def_ro": "haine de in.",
+      "dict_ro": "Pișteh — inul, fibra vegetală din care erau făcute veșmintele preoțești, în contrast cu lâna (țemer). Rashi și Metzudat David leagă versetul de slujirea marelui preot în Sfânta Sfintelor, în ziua de Iom Kipur, când purta doar „veșmintele albe” de in (Levitic 16:4), fără albastrul de lână din mantie și brâu. Radak observă însă că formularea la plural nu se potrivește cu slujba unică a marelui preot și propune că e o rânduială nouă pentru Templul viitor."
+     },
+     {
+      "t": "; niciun veșmânt de lână să nu se afle asupra lor când slujesc [dincolo de] porțile curții interioare sau înăuntrul ei."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה בְּבוֹאָם אֶל־שַׁעֲרֵי הֶחָצֵר...",
+      "translation": "„Și va fi, când intră pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔσται ἐν τῷ εἰσπορεύεσθαι αὐτοὺς τὰς πύλας τῆς αὐλῆς τῆς ἐσωτέρας στολὰς λινᾶς ἐνδύσονται καὶ οὐκ ἐνδύσονται ἔρια ἐν τῷ λειτουργεῖν αὐτοὺς ἀπὸ τῆς πύλης τῆς ἐσωτέρας αὐλῆς·",
+      "greek": true,
+      "translation": "„Și va fi, când vor intra pe porțile curții dinăuntru, vor îmbrăca veșminte de in și nu vor îmbrăca lână când slujesc de la poarta curții dinăuntru;”",
+      "note": "Septuaginta omite ultima precizare din Textul Masoretic, „sau înăuntrul ei” (uvaita)."
+     }
+    ],
+    "refs": [
+     "Exod 28:39,40,43",
+     "Exod 39:27-29",
+     "Levitic 16:4",
+     "Apocalipsa 19:8"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Când intră pe porțile curții interioare” — în Sfânta Sfintelor, în Ziua Ispășirii. „Și nicio lână să nu fie asupra lor” — să nu poarte albastrul de lână care era în mantie și în brâu, în Ziua Ispășirii, în timpul slujirii dinăuntru."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și va fi” — adică în Ziua Ispășirii, când vor intra marii preoți pe porțile curții interioare, care este Sanctuarul. „Veșminte de in” — sunt veșmintele albe cu care marele preot slujește în Ziua Ispășirii, la slujba dinăuntru; căci înăuntru nu se face slujire în cele opt veșminte, în care e lână."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: dacă „curtea interioară” e înțeleasă la propriu, ar fi o rânduială nouă pentru viitor, căci în veșmintele preoțești folosite era lână, cum scrie în Tora lui Moise. Iar dacă spunem că e vorba de slujirea marelui preot în Ziua Ispășirii, în Sfânta Sfintelor, cum ar numi el Sanctuarul „curte”, care este o casă, și cum ar spune „când intră ei” la plural, când slujba aceea o făcea doar marele preot, singur?"
+     }
+    ]
+   },
+   {
+    "v": "44:18",
+    "t": "Turbane de in să fie pe capul lor și izmene de in să fie pe coapsele lor. Și să nu se încingă în locul unde transpiră.",
+    "heb": "פַּאֲרֵי פִשְׁתִּים יִהְיוּ עַל־רֹאשָׁם וּמִכְנְסֵי פִשְׁתִּים יִהְיוּ עַל־מָתְנֵיהֶם לֹא יַחְגְּרוּ בַּיָּזַע׃",
+    "translit": "Paarei fiștim yihyu al-roșam umichnesei fiștim yihyu al-motneihem lo yahgeru bayaza.",
+    "tokens": [
+     {
+      "t": "Turbane de in să fie pe capul lor și izmene de in să fie pe coapsele lor. Și să nu se încingă "
+     },
+     {
+      "t": "în locul unde transpiră",
+      "w": "în locul unde transpiră",
+      "heb": "בַּיָּזַע",
+      "translit": "bayaza",
+      "strong": "H3154",
+      "pos": "prepoziție + substantiv, masculin singular, cu articol",
+      "def_ro": "în [locul de] sudoare.",
+      "dict_ro": "Yeza — sudoarea, cuvânt care apare doar aici în Biblie. Talmudul (Zevahim 18b) îl explică: „să nu se încingă în locul unde oamenii transpiră” — brâul nu se leagă nici sub șolduri, nici deasupra coatelor, ci la înălțimea coatelor; Abaye adaugă că Ezechiel doar a dat sprijin scris unei tradiții care exista de dinainte. Rashi mai aduce o explicație: Tora a interzis preoților lâna tocmai pentru că încălzește trupul și îl face să transpire."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "פַּאֲרֵי פִשְׁתִּים יִהְיוּ עַל־רֹאשָׁם...",
+      "translation": "„Turbane de in să fie pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ κιδάρεις λινᾶς ἕξουσιν ἐπὶ ταῖς κεφαλαῖς αὐτῶν καὶ περισκελῆ λινᾶ ἕξουσιν ἐπὶ τὰς ὀσφύας αὐτῶν καὶ οὐ περιζώσονται βίᾳ.",
+      "greek": true,
+      "translation": "„și tiare de in vor avea pe capetele lor și pantaloni de in vor avea pe coapsele lor, și nu se vor încinge strâns.”",
+      "note": "Septuaginta redă „să nu se încingă în locul unde transpiră” prin „să nu se încingă strâns / cu forță” (βίᾳ), pierzând legătura cu sudoarea."
+     }
+    ],
+    "refs": [
+     "Exod 28:40,41",
+     "Exod 39:28",
+     "Exod 28:42,43",
+     "1 Corinteni 14:40"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Turbane” — pălării, acoperăminte de cap. „Să nu se încingă în locul unde transpiră” — am învățat într-o baraita (Zevahim 18b-19a): nu se încing în locul unde transpiră, nici deasupra coatelor, nici sub șolduri, care sunt locuri de sudoare. O altă explicație: Tora le-a interzis preoților veșmintele de lână, pentru că lâna face trupul să transpire."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Turbane de in” — acoperăminte de in să fie pe capul lor. „Să nu se încingă în locul unde transpiră” — să nu-și lege brâiele în locul unde carnea se îndoaie și se suprapune, căci acolo e multă sudoare, și s-ar murdări veșmintele preoției."
+     },
+     {
+      "author": "Talmud Bavli, Zevahim 18b",
+      "text": "Ce înseamnă „să nu se încingă cu yeza”? Abaye a spus: să nu se încingă în locul în care oamenii transpiră, precum s-a învățat într-o baraita: când se încing cu brâul, nu se încing nici sub șolduri, nici deasupra coatelor, ci în dreptul coatelor. Iar până să vină Ezechiel, de unde știam aceasta? E o tradiție primită, iar Ezechiel a venit și i-a dat sprijin printr-un verset scris."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Paarei” — așa se numesc acoperămintele de cap, ca în „podoabele tiarelor” (Exod 39:28), numite așa pentru frumusețea și strălucirea lor. „Bayeza” — din „sudoare”."
+     }
+    ]
+   },
+   {
+    "v": "44:19",
+    "t": "Iar când ies spre curtea exterioară, către curtea exterioară și către popor, să-și scoată hainele în care slujesc și să le lase în odăile sfinte și să îmbrace alte haine și să nu sfințească poporul cu hainele lor.",
+    "heb": "וּבְצֵאתָם אֶל־הֶחָצֵר הַחִיצוֹנָה אֶל־הָעָם יִפְשְׁטוּ אֶת־בִּגְדֵיהֶם אֲשֶׁר־הֵמָּה מְשָׁרְתִם בָּם וְהִנִּיחוּ אוֹתָם בְּלִשְׁכֹת הַקֹּדֶשׁ וְלָבְשׁוּ בְּגָדִים אֲחֵרִים וְלֹא־יְקַדְּשׁוּ אֶת־הָעָם בְּבִגְדֵיהֶם׃",
+    "translit": "Uvetzetam el-hehatzer hahitzona el-haam yifșetu et-bigdeihem așer-hema meșartim bam vehinihu otam belișchot hakodeș velavșu begadim aherim velo-yekadșu et-haam bebigdeihem.",
+    "tokens": [
+     {
+      "t": "Iar când ies spre curtea exterioară, către curtea exterioară și către popor, să-și scoată hainele în care slujesc și să le lase în "
+     },
+     {
+      "t": "odăile sfinte",
+      "w": "odăile sfinte",
+      "heb": "לִשְׁכֹת הַקֹּדֶשׁ",
+      "translit": "lișhot hakodeș",
+      "strong": "H3957",
+      "pos": "substantiv, feminin plural, în construcție + substantiv cu articol",
+      "def_ro": "camerele Sanctuarului.",
+      "dict_ro": "Lișka — o încăpere laterală a Templului, folosită pentru păstrarea veșmintelor și a obiectelor sfinte (Ezechiel 42:13-14). Rashi vede aici porunca dată marelui preot în Levitic 16:23: „își va scoate veșmintele de in... și le va lăsa acolo”. Motivul — „să nu sfințească poporul cu hainele lor” — e explicat de Metzudat David și Radak: ca nu cumva, atingându-se de veșmintele sfinte, poporul să pară sfânt ca preoții."
+     },
+     {
+      "t": " și să îmbrace alte haine și să nu sfințească poporul cu hainele lor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּבְצֵאתָם אֶל־הֶחָצֵר הַחִיצוֹנָה אֶל־הָעָם...",
+      "translation": "„Iar când ies spre curtea exterioară...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐν τῷ ἐκπορεύεσθαι αὐτοὺς εἰς τὴν αὐλὴν τὴν ἐξωτέραν πρὸς τὸν λαὸν ἐκδύσονται τὰς στολὰς αὐτῶν, ἐν αἷς αὐτοὶ λειτουργοῦσιν ἐν αὐταῖς, καὶ θήσουσιν αὐτὰς ἐν ταῖς ἐξέδραις τῶν ἁγίων καὶ ἐνδύσονται στολὰς ἑτέρας καὶ οὐ μὴ ἁγιάσωσι τὸν λαὸν ἐν ταῖς στολαῖς αὐτῶν.",
+      "greek": true,
+      "translation": "„Și când vor ieși în curtea din afară, la popor, își vor dezbrăca veșmintele în care slujesc și le vor pune în încăperile celor sfinte și vor îmbrăca alte veșminte, și nu vor sfinți poporul cu veșmintele lor.”",
+      "note": "Septuaginta pomenește „curtea din afară” o singură dată, fără repetiția din Textul Masoretic („spre curtea exterioară, către curtea exterioară”)."
+     }
+    ],
+    "refs": [
+     "Ezechiel 42:13,14",
+     "Levitic 6:10,11",
+     "Ezechiel 46:20",
+     "Exod 29:37",
+     "Levitic 6:27",
+     "Matei 23:17-19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Spre curtea exterioară, către curtea exterioară” — pentru că vorbise despre Sanctuar și Sfânta Sfintelor, numindu-le „curtea interioară”, iar față de ele curtea israeliților ar trebui numită „exterioară”, a trebuit să dubleze expresia ca să arate că vorbește de curtea bărbaților, locul în care intră tot Israelul. „Și să le lase în odăile sfinte” — cum a spus Moise, învățătorul nostru: „își va scoate veșmintele de in... și le va lăsa acolo” (Levitic 16:23)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Alte haine” — haine obișnuite. „Să nu sfințească” — adică să nu pară că poporul e sfânt ca ei; căci, dacă ar veni acolo în veșmintele preoției, ar părea tuturor că nu e nicio grijă dacă oamenii din popor se ating de ele, ca și cum ar fi sfinți ca preoții."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și să nu sfințească poporul cu hainele lor” — căci, dacă se vor atinge de popor cu veșmintele preoției, care sunt sfinte, va părea că poporul e sfânt ca ei; și pe această cale a tradus Ionatan: „și să nu se amestece cu poporul în veșmintele lor”."
+     }
+    ]
+   },
+   {
+    "v": "44:20",
+    "t": "Să nu își radă capul și nici să nu își lase pletele să crească în voie, ci să aibă capetele tunse.",
+    "heb": "וְרֹאשָׁם לֹא יְגַלֵּחוּ וּפֶרַע לֹא יְשַׁלֵּחוּ כָּסוֹם יִכְסְמוּ אֶת־רָאשֵׁיהֶם׃",
+    "translit": "Veroșam lo yegalehu ufera lo yeșalehu kasom yichsemu et-rașeihem.",
+    "tokens": [
+     {
+      "t": "Să nu își radă capul și nici să nu își lase pletele să crească în voie, ci să aibă "
+     },
+     {
+      "t": "capetele tunse",
+      "w": "capetele tunse",
+      "heb": "כָּסוֹם יִכְסְמוּ",
+      "translit": "kasom yihsemu",
+      "strong": "H3697",
+      "pos": "verb, qal, infinitiv absolut + imperfect, persoana a III-a plural",
+      "def_ro": "să-și tundă [părul] cu măsură.",
+      "dict_ro": "Kasam — „a tunde, a scurta”, înrudit cu kusemet, grâul spelta (Metzudat Țion). Talmudul (Sanhedrin 22b) deduce de aici că preotul obișnuit trebuie să se tundă o dată la treizeci de zile, prin analogie cu nazireul, la care „pletele” (pera) cresc cel puțin treizeci de zile. Rashi descrie tunsoarea marelui preot „ca spicele de spelta”, cu vârful unui fir lângă rădăcina celuilalt, sau, într-o altă explicație, o măsură de mijloc: nici ras cu totul, nici lăsat să crească."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְרֹאשָׁם לֹא יְגַלֵּחוּ וּפֶרַע...",
+      "translation": "„Să nu își radă capul și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τὰς κεφαλὰς αὐτῶν οὐ ξυρήσονται καὶ τὰς κόμας αὐτῶν οὐ ψιλώσουσι, καλύπτοντες καλύψουσι τὰς κεφαλὰς αὐτῶν.",
+      "greek": true,
+      "translation": "„Și capetele nu și le vor rade și părul nu și-l vor tunde scurt; acoperind, își vor acoperi capetele.”",
+      "note": "Divergență reală: Septuaginta are „acoperind, își vor acoperi capetele” (καλύπτοντες καλύψουσι), acolo unde Textul Masoretic are „să-și tundă capetele” (kasom yihsemu)."
+     }
+    ],
+    "refs": [
+     "Levitic 21:5-24",
+     "Deuteronom 14:1",
+     "Numeri 6:5",
+     "1 Corinteni 11:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și capul să nu și-l radă” — ca să îndepărteze tot părul. „Și nici să nu-și lase pletele să crească” — să nu-și lase părul să crească foarte lung. „Kasom yihsemu” — ca spelta, așezată în spic, cu vârful unuia lângă rădăcina celuilalt; așa am auzit în numele lui Rabi Menahem. Se poate explica și ca o măsură de mijloc: nici ras [tot] capul, nici părul lăsat să crească, ci o măsură potrivită."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și capul să nu și-l radă” — părul capului să nu-l radă niciodată. „Și nici să nu-și lase pletele” — să nu lase creșterea părului să se întindă prea mult, iar înțelepții noștri au spus că se tund o dată la treizeci de zile (Sanhedrin 22)."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 22b",
+      "text": "Preotul obișnuit se tunde o dată la treizeci de zile, căci scrie despre preoți: „capul să nu și-l radă și pletele să nu le lase să crească” (Ezechiel 44:20), și se învață „plete” de aici de la „plete” de la nazireu: „să lase să crească pletele părului capului său” (Numeri 6:5); precum acolo sunt treizeci de zile, așa și aici."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Pera” — așa se numește creșterea părului, ca în „să nu-și lase capul netuns” (Levitic 21:10). „Kasom yihsemu” — din „grâul și spelta” (Exod 9:32), care e un soi de sămânță."
+     }
+    ]
+   },
+   {
+    "v": "44:21",
+    "t": "Niciun preot să nu bea vin când intră în curtea interioară.",
+    "heb": "וְיַיִן לֹא־יִשְׁתּוּ כָּל־כֹּהֵן בְּבוֹאָם אֶל־הֶחָצֵר הַפְּנִימִית׃",
+    "translit": "Veyayin lo-yiștu kol-kohen bevoam el-hehatzer hapenimit.",
+    "tokens": [
+     {
+      "t": "Niciun preot să nu bea "
+     },
+     {
+      "t": "vin",
+      "w": "vin",
+      "heb": "וְיַיִן",
+      "translit": "veiain",
+      "strong": "H3196",
+      "pos": "conjuncție + substantiv, masculin singular",
+      "def_ro": "vin.",
+      "dict_ro": "Iain — vinul; interdicția vine din Tora, după moartea lui Nadav și Avihu: „vin și băutură tare să nu bei, tu și fiii tăi, când intrați în Cortul Întâlnirii, ca să nu muriți” (Levitic 10:9), motivul fiind — după versetul următor de acolo — ca preotul să poată deosebi între sfânt și profan. Radak observă că Ezechiel repetă aici și reguli deja scrise în Tora, alături de rânduieli noi pentru viitor."
+     },
+     {
+      "t": " când intră în curtea interioară."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְיַיִן לֹא־יִשְׁתּוּ כָּל־כֹּהֵן בְּבוֹאָם...",
+      "translation": "„Niciun preot să nu bea vin...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οἶνον οὐ μὴ πίωσι πᾶς ἱερεὺς ἐν τῷ εἰσπορεύεσθαι αὐτοὺς εἰς τὴν αὐλὴν τὴν ἐσωτέραν.",
+      "greek": true,
+      "translation": "„Și vin să nu bea niciun preot când intră în curtea dinăuntru.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Levitic 10:9",
+     "Luca 1:15",
+     "1 Timotei 3:8",
+     "Tit 1:7,8"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Când intră în curtea interioară” — în Sanctuar."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Niciun preot” — fie mare preot, fie preot obișnuit. „În curtea interioară” — este Sanctuarul, numit „curte” față de Sfânta Sfintelor."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „În curtea interioară” — în curtea preoților, de la altar spre înăuntru, cum scrie în Tora; și deși aceasta e scrisă în Tora, a înșirat legile preoților pentru că a înnoit lucruri care nu sunt explicite în Tora scrisă, și poate că a înnoit lucruri care vor fi în viitor, spre o sporire a sfințeniei."
+     }
+    ]
+   },
+   {
+    "v": "44:22",
+    "t": "Văduvă sau divorțată să nu-și ia de soție, ci doar fecioare din seminția casei lui Israel, sau o văduvă care a fost soție de preot, să ia [de soție].",
+    "heb": "וְאַלְמָנָה וּגְרוּשָׁה לֹא־יִקְחוּ לָהֶם לְנָשִׁים כִּי אִם־בְּתוּלֹת מִזֶּרַע בֵּית יִשְׂרָאֵל וְהָאַלְמָנָה אֲשֶׁר תִּהְיֶה אַלְמָנָה מִכֹּהֵן יִקָּחוּ׃",
+    "translit": "Vealmana ugerușa lo-yikehu lahem lenașim ki im-betulot mizera beit Israël vehaalmana așer tihye almana mikohen yikahu.",
+    "tokens": [
+     {
+      "t": "Văduvă sau divorțată să nu-și ia de soție, ci doar "
+     },
+     {
+      "t": "fecioare",
+      "w": "fecioare",
+      "heb": "בְּתוּלֹת",
+      "translit": "betulot",
+      "strong": "H1330",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "fecioare.",
+      "dict_ro": "Betula — fecioara. Tora interzice doar marelui preot căsătoria cu o văduvă (Levitic 21:14), iar versetul lui Ezechiel pare să extindă interdicția la toți preoții. Talmudul (Kidușin 78b) rezolvă contradicția: prima parte a versetului se referă la marele preot, iar a doua („o văduvă care a fost soție de preot, să ia”) la preotul obișnuit; Rava arată că un verset poate trata astfel două subiecte fără delimitare. Rashi și Metzudat David urmează această lectură."
+     },
+     {
+      "t": " din seminția casei lui Israel, sau o văduvă care a fost soție de preot, să ia [de soție]."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאַלְמָנָה וּגְרוּשָׁה לֹא־יִקְחוּ לָהֶם...",
+      "translation": "„Văduvă sau divorțată să nu-și ia...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ χήραν καὶ ἐκβεβλημένην οὐ λήψονται ἑαυτοῖς εἰς γυναῖκα, ἀλλ’ ἢ παρθένον ἐκ τοῦ σπέρματος ᾿Ισραήλ· καὶ χήρα ἐὰν γένηται ἐξ ἱερέως, λήψονται.",
+      "greek": true,
+      "translation": "„Și văduvă și femeie izgonită nu-și vor lua de soție, ci numai fecioară din sămânța lui Israel; iar văduvă, dacă a fost [soție] de preot, vor lua.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Levitic 21:7,13,14",
+     "1 Timotei 3:2,4,5,11,12",
+     "Tit 1:6",
+     "Deuteronom 24:1-4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ci doar fecioare” — să ia marii preoți. Dar sunt unii preoți care pot lua o văduvă, și anume cei obișnuiți; acesta e sensul lui „dintre preoți să ia” — sunt unii preoți cărora le e îngăduit să ia o văduvă. „Care a fost [doar] văduvă” — o văduvă propriu-zisă, nu o divorțată sau una care a primit halița; aceasta, chiar dacă e necăsătorită, e oprită și preotului obișnuit."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Văduvă...” — aceasta e despre marii preoți, cărora le e oprită și văduva, și nu iau decât fecioare. „Care a fost văduvă” — adică să fie numai văduvă, nu și eliberată prin halița; atunci „dintre preoți să ia” — adică unii preoți pot s-o ia, și anume cei obișnuiți."
+     },
+     {
+      "author": "Talmud Bavli, Kidușin 78b",
+      "text": "Despre acest verset din Ezechiel: prima parte se referă la marele preot, căci spune că nu va lua o văduvă, iar partea a doua se referă la preotul obișnuit, căci spune că poate lua o văduvă. Oare așa se explică un verset? Rava a spus: da, așa este explicația corectă; și există un caz asemănător: „candela lui Dumnezeu încă nu se stinsese, și Samuel era culcat în Templul DOMNULUI” (Samuel I 3:3)."
+     }
+    ]
+   },
+   {
+    "v": "44:23",
+    "t": "Iar pe poporul Meu să îl învețe să deosebească între sacru și profan, și să îi facă să cunoască diferența dintre necurat și curat.",
+    "heb": "וְאֶת־עַמִּי יוֹרוּ בֵּין קֹדֶשׁ לְחֹל וּבֵין־טָמֵא לְטָהוֹר יוֹדִעֻם׃",
+    "translit": "Veet-ami yoru bein kodeș lehol uvein-tame letahor yodium.",
+    "tokens": [
+     {
+      "t": "Iar pe poporul Meu să îl învețe să deosebească "
+     },
+     {
+      "t": "între sacru și profan",
+      "w": "între sacru și profan",
+      "heb": "בֵּין קֹדֶשׁ לְחֹל",
+      "translit": "bein kodeș lehol",
+      "strong": "H2455",
+      "pos": "prepoziție + substantiv + prepoziție + substantiv",
+      "def_ro": "deosebirea dintre ce e sfânt și ce e obișnuit.",
+      "dict_ro": "Hol — ceea ce e obișnuit, profan, neconsacrat, opusul lui kodeș. Rolul preoților ca învățători ai poporului e formulat încă în Levitic 10:10-11 („ca să deosebiți între sfânt și profan... și să-i învățați pe fiii lui Israel”) și în binecuvântarea lui Moise pentru Levi (Deuteronom 33:10). Ezechiel acuzase exact încălcarea acestei datorii în capitolul 22: „preoții ei... n-au făcut deosebire între sfânt și profan” (Ezechiel 22:26)."
+     },
+     {
+      "t": ", și să îi facă să cunoască diferența dintre necurat și curat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־עַמִּי יוֹרוּ בֵּין קֹדֶשׁ...",
+      "translation": "„Iar pe poporul Meu să îl...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τὸν λαόν μου διδάξουσιν ἀνὰ μέσον ἁγίου καὶ βεβήλου καὶ ἀνὰ μέσον ἀκαθάρτου καὶ καθαροῦ γνωριοῦσιν αὐτοῖς.",
+      "greek": true,
+      "translation": "„Și pe poporul Meu îl vor învăța deosebirea dintre sfânt și profan, și deosebirea dintre necurat și curat le-o vor face cunoscută.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ezechiel 22:26",
+     "Levitic 10:10,11",
+     "Deuteronom 33:10",
+     "Osea 4:6",
+     "Hagai 2:11-13",
+     "Maleahi 2:6-9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Iar pe poporul Meu să îl învețe” — preoții să învețe poporul să deosebească între sfânt și profan și să le facă cunoscută și deosebirea dintre necurat și curat."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Yoru” — din învățătură și îndrumare."
+     }
+    ]
+   },
+   {
+    "v": "44:24",
+    "t": "Și legat de orice dispută, să stea la judecată și să o decidă după legile Mele; învățăturile Mele și decretele legate de soroacele Mele să le păzească și Șabaturile Mele să le sfințească.",
+    "heb": "וְעַל־רִיב הֵמָּה יַעַמְדוּ לְשָׁפְט וּבְמִשְׁפָּטַי יִשְׁפְּטֻהוּ וְאֶת־תּוֹרֹתַי וְאֶת־חֻקֹּתַי בְּכָל־מוֹעֲדַי יִשְׁמֹרוּ וְאֶת־שַׁבְּתוֹתַי יְקַדֵּשׁוּ׃",
+    "translit": "Veal-riv hema yaamdu lișfot uvemișpatai yișpetuhu veet-torotai veet-hukotai bechol-moadai yișmoru veet-șabtotai yekadeșu.",
+    "tokens": [
+     {
+      "t": "Și legat de orice dispută, să stea la judecată și să o decidă după legile Mele; învățăturile Mele și decretele legate de "
+     },
+     {
+      "t": "soroacele Mele",
+      "w": "soroacele Mele",
+      "heb": "מוֹעֲדַי",
+      "translit": "moadai",
+      "strong": "H4150",
+      "pos": "substantiv, masculin plural + sufix persoana I",
+      "def_ro": "sărbătorile, timpurile rânduite ale Mele.",
+      "dict_ro": "Moed — timpul fixat, întâlnirea rânduită; „soroacele Mele” sunt sărbătorile descrise pe larg în pericopa Emor (Levitic 23) — legătura cea mai directă dintre pericopă și această haftara. Metzudat David explică că preoții trebuie să păzească legile jertfelor pentru fiecare sărbătoare și să sfințească Sabatele prin jertfele datorate în ziua aceea; iar în pricinile de judecată să judece „după judecățile Torei, nu după părerea lor”."
+     },
+     {
+      "t": " să le păzească și Șabaturile Mele să le sfințească."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַל־רִיב הֵמָּה יַעַמְדוּ לְשָׁפְט...",
+      "translation": "„Și legat de orice dispută, să...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπὶ κρίσιν αἵματος οὗτοι ἐπιστήσονται τοῦ διακρίνειν· τὰ δικαιώματά μου δικαιώσουσι καὶ τὰ κρίματά μου κρινοῦσι καὶ τὰ νόμιμά μου καὶ τὰ προστάγματά μου ἐν πάσαις ταῖς ἑορταῖς μου φυλάξονται καὶ τὰ σάββατά μου ἁγιάσουσι.",
+      "greek": true,
+      "translation": "„Și la judecată de sânge aceștia vor sta ca să hotărască; rânduielile Mele le vor împlini și judecățile Mele le vor judeca, și legiuirile Mele și poruncile Mele la toate sărbătorile Mele le vor păzi și Sabatele Mele le vor sfinți.”",
+      "note": "Septuaginta redă „dispută” (riv) prin „judecată de sânge” (κρίσιν αἵματος), restrângând competența preoților la pricinile capitale."
+     }
+    ],
+    "refs": [
+     "Deuteronom 17:8-13",
+     "2 Cronici 19:8-10",
+     "1 Timotei 3:15",
+     "Levitic 23:1-44",
+     "Numeri 28:1-29",
+     "Isaia 58:13,14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și legat de orice dispută” — pentru pricinile de bani, poporul va sta la judecată înaintea lor, iar ei îi vor judeca după judecățile Torei, nu după aprecierea lor. „Învățăturile Mele” — învățăturile și decretele obișnuite în toate zilele de sărbătoare ale DOMNULUI, privitoare la jertfe, să le păzească ei împlinindu-le; și tot așa să sfințească Sabatele, prin jertfele datorate în ziua aceea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Lemișpat” — scris „lișpot” și citit „lemișpat”, iar sensul e același. „Și decretele Mele la toate soroacele Mele” — în privința jertfelor; și tot așa să sfințească Sabatele Mele."
+     }
+    ]
+   },
+   {
+    "v": "44:25",
+    "t": "Și să nu vină la un trup mort ca să devină necurați, ci numai pentru tată și pentru mamă, pentru fiu și pentru fiică, pentru frate și pentru soră care nu a fost niciodată cu un bărbat să devină necurați.",
+    "heb": "וְאֶל־מֵת אָדָם לֹא יָבוֹא לְטָמְאָה כִּי אִם־לְאָב וּלְאֵם וּלְבֵן וּלְבַת לְאָח וּלְאָחוֹת אֲשֶׁר לֹא־הָיְתָה לְאִישׁ יִטַּמָּאוּ׃",
+    "translit": "Veel-met adam lo yavo letamea ki im-leav uleem uleven ulevat leah uleahot așer lo-haita leiș yitamu.",
+    "tokens": [
+     {
+      "t": "Și să nu vină la "
+     },
+     {
+      "t": "un trup mort",
+      "w": "un trup mort",
+      "heb": "מֵת אָדָם",
+      "translit": "met adam",
+      "strong": "H4191",
+      "pos": "verb, qal, participiu (substantivat) + substantiv",
+      "def_ro": "un mort, un cadavru de om.",
+      "dict_ro": "Met — mortul; contactul cu un cadavru e sursa cea mai gravă de necurăție rituală (tumat met), de care preotul trebuie să se ferească, cu excepția rudelor apropiate enumerate aici și în Levitic 21:1-3 — legea care deschide chiar pericopa Emor. Radak precizează că e vorba de preotul obișnuit, marele preot neavând voie să se facă necurat nici pentru părinții lui (Levitic 21:11); Metzudat David explică „sora care n-a fost cu un bărbat”: care n-a fost căsătorită."
+     },
+     {
+      "t": " ca să devină necurați, ci numai pentru tată și pentru mamă, pentru fiu și pentru fiică, pentru frate și pentru soră care nu a fost niciodată cu un bărbat să devină necurați."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶל־מֵת אָדָם לֹא יָבוֹא...",
+      "translation": "„Și să nu vină la un...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπὶ ψυχὴν ἀνθρώπου οὐκ εἰσελεύσονται τοῦ μιανθῆναι, ἀλλ’ ἢ ἐπὶ πατρὶ καὶ ἐπὶ μητρὶ καὶ ἐπὶ υἱῷ καὶ ἐπὶ θυγατρὶ καὶ ἐπὶ ἀδελφῷ καὶ ἐπὶ ἀδελφῇ αὐτοῦ, ἣ οὐ γέγονεν ἀνδρί, μιανθήσεται.",
+      "greek": true,
+      "translation": "„Și la suflet de om [mort] nu vor intra ca să se pângărească, ci numai pentru tată și pentru mamă și pentru fiu și pentru fiică și pentru frate și pentru sora lui care n-a fost a unui bărbat se va pângări.”",
+      "note": "Corespondență strânsă; „mort” e redat prin „suflet de om” (ψυχὴν ἀνθρώπου), ca și în Levitic 21:1 după Septuaginta."
+     }
+    ],
+    "refs": [
+     "Levitic 21:1-6",
+     "Levitic 22:4",
+     "Matei 8:21,22",
+     "Luca 9:59,60",
+     "1 Tesaloniceni 4:13-15"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Ca să devină necurați” — ca să se facă pe sine necurat. „Care nu a fost cu un bărbat” — spre culcare, adică necăsătorită."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și să nu vină la un trup mort” — aceasta este despre preotul obișnuit."
+     }
+    ]
+   },
+   {
+    "v": "44:26",
+    "t": "Iar după ce [un preot] se va curăța, să numere pentru sine șapte zile.",
+    "heb": "וְאַחֲרֵי טָהֳרָתוֹ שִׁבְעַת יָמִים יִסְפְּרוּ־לוֹ׃",
+    "translit": "Veaharei toharato șivat yamim yisperu-lo.",
+    "tokens": [
+     {
+      "t": "Iar după ce [un preot] se va curăța, să numere pentru sine "
+     },
+     {
+      "t": "șapte zile",
+      "w": "șapte zile",
+      "heb": "שִׁבְעַת יָמִים",
+      "translit": "șivat iamim",
+      "strong": "H7651",
+      "pos": "numeral + substantiv plural",
+      "def_ro": "șapte zile.",
+      "dict_ro": "Șivat iamim — perioada de purificare după contactul cu un mort (Numeri 19:11-12). Versetul ridică o întrebare: purificarea obișnuită durează deja șapte zile, atunci ce sunt aceste „șapte zile” numărate „după curățire”? Rashi și Metzudat David, după înțelepți (Moed Katan 15b), explică „după curățire” ca „după despărțirea de mort”; Radak propune și posibilitatea unei rânduieli noi pentru viitor, o sporire a sfințeniei, cu încă șapte zile după purificare. Metzudat David adaugă că frații preoți numără pentru el, ca să nu intre din greșeală."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאַחֲרֵי טָהֳרָתוֹ שִׁבְעַת יָמִים...",
+      "translation": "„Iar după ce [un preot] se...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ μετὰ τὸ καθαρισθῆναι αὐτὸν ἑπτὰ ἡμέρας ἐξαριθμηθήσῃ αὐτῷ·",
+      "greek": true,
+      "translation": "„Și după ce se va curăți, șapte zile i se vor număra lui;”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 6:10-21",
+     "Numeri 19:11-13",
+     "Evrei 9:13,14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și după curățirea lui” — și după ce s-a despărțit de mort; așa s-a învățat în Moed Katan (15b)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și după curățirea lui” — adică după despărțirea lui de mort, așa au spus înțelepții. „Șapte zile” — și după aceea e curat. „Să numere” — adică frații lui, preoții, să numere pentru el, ca, dacă el uită, să nu-l lase să intre în Sanctuar până după șapte zile, când va fi curat."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: se poate ca aceasta să fie pentru viitor, o sporire a sfințeniei: după ce se vor curăți la sfârșitul celor șapte [zile], să mai numere pentru el încă șapte zile; dar înțelepții noștri au explicat-o fără înnoire, explicând „după curățirea lui” ca „după despărțirea lui de mort”."
+     }
+    ]
+   },
+   {
+    "v": "44:27",
+    "t": "Și în ziua în care va intra în Sanctuar, în curtea interioară, ca să slujească în Sanctuar, să își aducă jertfa sa de păcat – rostirea Stăpânului meu, Domnul DUMNEZEU.",
+    "heb": "וּבְיוֹם בֹּאוֹ אֶל־הַקֹּדֶשׁ אֶל־הֶחָצֵר הַפְּנִימִית לְשָׁרֵת בַּקֹּדֶשׁ יַקְרִיב חַטָּאתוֹ נְאֻם אֲדֹנָי יְהוִה׃",
+    "translit": "Uveyom boo el-hakodeș el-hehatzer hapenimit leșaret bakodeș yakriv hatato neum Adonai ELOHIM.",
+    "tokens": [
+     {
+      "t": "Și în ziua în care va intra în Sanctuar, în curtea interioară, ca să slujească în Sanctuar, să își aducă "
+     },
+     {
+      "t": "jertfa sa de păcat",
+      "w": "jertfa sa de păcat",
+      "heb": "חַטָּאתוֹ",
+      "translit": "hatato",
+      "strong": "H2403",
+      "pos": "substantiv, feminin singular + sufix persoana a III-a masculin",
+      "def_ro": "jertfa lui de ispășire pentru păcat.",
+      "dict_ro": "Hatat — jertfa pentru păcat, de la hata, „a greși ținta”. Rashi și Metzudat David o identifică, după înțelepți (Moed Katan 16a; Menahot 51b), cu „a zecea parte de efă” de făină pe care preotul obișnuit o aduce în ziua în care începe să slujească (Levitic 6:13). Radak nu e convins: el observă că versetul vorbește despre preotul obișnuit care s-a făcut necurat pentru o rudă și vede aici fie o jertfă nouă pentru viitor, fie regula că preotul nu-și poate aduce jertfele în zilele necurăției."
+     },
+     {
+      "t": " – rostirea Stăpânului meu, Domnul DUMNEZEU."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּבְיוֹם בֹּאוֹ אֶל־הַקֹּדֶשׁ אֶל־הֶחָצֵר...",
+      "translation": "„Și în ziua în care va...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ᾗ ἂν ἡμέρᾳ εἰσπορεύωνται εἰς τὴν αὐλὴν τὴν ἐσωτέραν τοῦ λειτουργεῖν ἐν τῷ ἁγίῳ, προσοίσουσιν ἱλασμόν, λέγει Κύριος ὁ Θεός.",
+      "greek": true,
+      "translation": "„și în ziua în care vor intra în curtea dinăuntru ca să slujească în cel sfânt, vor aduce ispășire, zice Domnul Dumnezeu.”",
+      "note": "Septuaginta omite prima mențiune „în Sanctuar” și redă „jertfa sa de păcat” prin „ispășire” (ἱλασμόν), la plural („vor aduce”)."
+     }
+    ],
+    "refs": [
+     "Levitic 4:3-35",
+     "Levitic 8:14-36",
+     "Numeri 6:9-11",
+     "Evrei 7:26-28"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și în ziua în care va intra în Sanctuar” — pentru prima dată, ca să se inițieze în slujire, să-și aducă jertfa de păcat; aceasta este a zecea parte de efă. În Moed Katan (16a) se învață: preotul obișnuit trebuie să aducă a zecea parte de efă în ziua inițierii lui, precum s-a spus: „aceasta este jertfa lui Aaron și a fiilor lui” (Levitic 6:13), și cum se explică în tratatul Menahot (51b)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și în ziua în care va intra” — adică la începutul intrării preotului, ca să se inițieze în slujire. „Să își aducă jertfa de păcat” — aceasta e a zecea parte de efă pe care preoții o aduceau în ziua inițierii, cum s-a spus: „aceasta este jertfa lui Aaron și a fiilor lui... a zecea parte dintr-o efă de făină”."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: adică după ce se va curăți și va intra în Sanctuar, în care n-a intrat în timpul necurăției, acum, după curățire, va aduce o jertfă de păcat pentru necurăția lui, și aceasta ar fi o înnoire pentru viitor; înțelepții noștri au explicat-o fără înnoire. Și mă mir de cel care a spus că „jertfa lui de păcat” e a zecea parte de efă, căci versetul vorbește de preotul obișnuit, care se face necurat pentru rude, iar a zecea parte de efă o aducea marele preot în fiecare zi, iar preotul obișnuit doar la inițierea în slujire."
+     }
+    ]
+   },
+   {
+    "v": "44:28",
+    "t": "Și aceasta să fie moștenirea pentru ei: Eu sunt moștenirea lor, să nu le dai nicio posesiune în Israel, Eu sunt posesiunea lor.",
+    "heb": "וְהָיְתָה לָהֶם לְנַחֲלָה אֲנִי נַחֲלָתָם אֲחֻזָּה לֹא־תִתְּנוּ לָהֶם בְּיִשְׂרָאֵל אֲנִי אֲחֻזָּתָם׃",
+    "translit": "Vehaita lahem lenahala ani nahalatam ahuzza lo-titnu lahem beIsraël ani ahuzatam.",
+    "tokens": [
+     {
+      "t": "Și aceasta să fie moștenirea pentru ei: Eu sunt "
+     },
+     {
+      "t": "moștenirea lor",
+      "w": "moștenirea lor",
+      "heb": "נַחֲלָתָם",
+      "translit": "nahalatam",
+      "strong": "H5159",
+      "pos": "substantiv, feminin singular + sufix persoana a III-a plural",
+      "def_ro": "moștenirea, partea lor de moștenire.",
+      "dict_ro": "Nahala — moștenirea, lotul de pământ primit în Țară; preoții și leviții nu primesc teritoriu, pentru că „Eu sunt moștenirea lor” (Numeri 18:20; Deuteronom 18:1-2). Rashi și Radak înțeleg „aceasta” din începutul versetului ca preoția însăși, care le ține loc de pământ, iar Metzudat David explică scopul practic: să fie liberi pentru slujirea în Templu, trăind din ce rămâne din jertfe."
+     },
+     {
+      "t": ", să nu le dai nicio posesiune în Israel, Eu sunt posesiunea lor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיְתָה לָהֶם לְנַחֲלָה אֲנִי...",
+      "translation": "„Și aceasta să fie moștenirea pentru...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔσται αὐτοῖς εἰς κληρονομίαν· ἐγὼ κληρονομία αὐτοῖς, καὶ κατάσχεσις αὐτοῖς οὐ δοθήσεται ἐν τοῖς υἱοῖς ᾿Ισραήλ, ὅτι ἐγὼ κατάσχεσις αὐτῶν.",
+      "greek": true,
+      "translation": "„Și le va fi spre moștenire: Eu sunt moștenirea lor; și stăpânire nu li se va da între fiii lui Israel, căci Eu sunt stăpânirea lor.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ezechiel 45:4",
+     "Numeri 18:20",
+     "Deuteronom 10:9",
+     "Deuteronom 18:1,2",
+     "Iosua 13:14,33",
+     "1 Petru 5:2-4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și aceasta să fie pentru ei” — preoția, drept moștenire."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și aceasta să fie moștenirea pentru ei” — preoția le va fi moștenire, căci nu vor moșteni o parte în Țară. „Eu sunt moștenirea lor” — adică ce rămâne din jertfele Mele va fi moștenirea lor. „Și posesiune” — posesiune de ogoare și vii să nu le dați, ca să fie liberi să se ocupe de slujirea Sanctuarului."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și aceasta să fie moștenirea pentru ei” — preoția le va fi moștenire, ca să nu aibă posesiune în Israel, cum a spus în Tora."
+     }
+    ]
+   },
+   {
+    "v": "44:29",
+    "t": "Să mănânce prinosul, jertfa de păcat și jertfa de vină, și toate cele consacrate prin jurământ să fie pentru ei.",
+    "heb": "הַמִּנְחָה וְהַחַטָּאת וְהָאָשָׁם הֵמָּה יֹאכְלוּם וְכָל־חֵרֶם בְּיִשְׂרָאֵל לָהֶם יִהְיֶה׃",
+    "translit": "Haminha vehahatat vehaașam hema yochlum vechol-herem beIsraël lahem yihye.",
+    "tokens": [
+     {
+      "t": "Să mănânce "
+     },
+     {
+      "t": "prinosul",
+      "w": "prinosul",
+      "heb": "הַמִּנְחָה",
+      "translit": "haminha",
+      "strong": "H4503",
+      "pos": "substantiv, feminin singular, cu articol",
+      "def_ro": "darul de făină (jertfa nesângeroasă).",
+      "dict_ro": "Minha — darul, jertfa de făină; Metzudat David precizează că preoții mănâncă „ce rămâne din prinos”, după arderea părții de pe altar (Levitic 2:3). „Toate cele consacrate” (herem) desemnează, după Rashi și Metzudat Țion, bunurile închinate Sanctuarului, care revin preoților (Numeri 18:14) — un sens al cuvântului herem diferit de cel de „nimicire totală” din relatările cuceririi."
+     },
+     {
+      "t": ", jertfa de păcat și jertfa de vină, și toate cele consacrate prin jurământ să fie pentru ei."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַמִּנְחָה וְהַחַטָּאת וְהָאָשָׁם הֵמָּה...",
+      "translation": "„Să mănânce prinosul, jertfa de păcat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τὰς θυσίας καὶ τὰ ὑπὲρ ἁμαρτίας καὶ τὰ ὑπὲρ ἀγνοίας οὗτοι φάγονται, καὶ πᾶν ἀφόρισμα ἐν τῷ ᾿Ισραὴλ αὐτοῖς ἔσται·",
+      "greek": true,
+      "translation": "„Și jertfele și cele pentru păcat și cele pentru neștiință aceștia le vor mânca, și tot ce e pus deoparte în Israel va fi al lor.”",
+      "note": "Septuaginta redă „jertfa de vină” (așam) prin „[jertfa] pentru neștiință” (ὑπὲρ ἀγνοίας), accentuând caracterul involuntar al greșelii."
+     }
+    ],
+    "refs": [
+     "Levitic 2:3,10",
+     "Levitic 6:14-18,26,29",
+     "Numeri 18:9-11",
+     "1 Corinteni 9:13,14",
+     "Levitic 27:21,28",
+     "Numeri 18:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și toate cele consacrate” — „herem” este o expresie de sfințenie, și așa este orice „herem” în contextul lucrurilor sfințite."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Prinosul” — adică rămășițele prinosului. „Și toate cele consacrate” — toate lucrurile închinate."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Herem” — adică lucru sfințit, ca în „tot ce e închinat în Israel va fi al tău” (Numeri 18:14)."
+     }
+    ]
+   },
+   {
+    "v": "44:30",
+    "t": "Și cele mai bune din primele roade de orice fel și toată donația de [recolte] de orice fel – din toate darurile donate – să meargă la preoți; prima parte din coca voastră să o dați preotului, ca să păstrați binecuvântarea asupra casei tale.",
+    "heb": "וְרֵאשִׁית כָּל־בִּכּוּרֵי כֹל וְכָל־תְּרוּמַת כֹּל מִכֹּל תְּרוּמוֹתֵיכֶם לַכֹּהֲנִים יִהְיֶה וְרֵאשִׁית עֲרִסוֹתֵיכֶם תִּתְּנוּ לַכֹּהֵן לְהָנִיחַ בְּרָכָה אֶל־בֵּיתֶךָ׃",
+    "translit": "Vereșit kol-bikurei chol vechol-terumat kol mikol terumoteichem lakohanim yihye vereșit arisoteichem titnu lakohen lehaniah beracha el-beitecha.",
+    "tokens": [
+     {
+      "t": "Și cele mai bune din primele roade de orice fel și toată donația de [recolte] de orice fel – din toate darurile donate – să meargă la preoți; "
+     },
+     {
+      "t": "prima parte din coca voastră",
+      "w": "prima parte din coca voastră",
+      "heb": "רֵאשִׁית עֲרִסוֹתֵיכֶם",
+      "translit": "reșit arisoteihem",
+      "strong": "H6182",
+      "pos": "substantiv, feminin singular, în construcție + substantiv plural cu sufix",
+      "def_ro": "pârga aluatului, hala.",
+      "dict_ro": "Arisa — aluatul, coca; „pârga cocii” e porunca halei, partea de aluat dată preotului (Numeri 15:20-21), păstrată în practica evreiască până azi prin separarea și arderea unei bucăți din aluatul frământat. Metzudat David explică promisiunea „ca să păstrați binecuvântarea asupra casei tale”: să nu vă pară rău că dați toate acestea preoților, căci darul va aduce binecuvântare și bogăția nu va scădea, ci va crește — idee reluată de Maleahi 3:10."
+     },
+     {
+      "t": " să o dați preotului, ca să păstrați binecuvântarea asupra casei tale."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְרֵאשִׁית כָּל־בִּכּוּרֵי כֹל וְכָל־תְּרוּמַת...",
+      "translation": "„Și cele mai bune din primele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀπαρχαὶ πάντων καὶ τὰ πρωτότοκα πάντων καὶ τὰ ἀφαιρέματα πάντα ἐκ πάντων τῶν ἀπαρχῶν ὑμῶν τοῖς ἱερεῦσιν ἔσται· καὶ τὰ πρωτογεννήματα ὑμῶν δώσετε τῷ ἱερεῖ τοῦ θεῖναι εὐλογίας ὑμῶν ἐπὶ τοὺς οἴκους ὑμῶν.",
+      "greek": true,
+      "translation": "„Pârgile tuturor și întâii-născuți ai tuturor și toate cele luate deoparte din toate pârgile voastre vor fi ale preoților; și pârga aluaturilor voastre o veți da preotului, ca să puneți binecuvântările voastre asupra caselor voastre.”",
+      "note": "Septuaginta adaugă „întâii-născuți ai tuturor” (τὰ πρωτότοκα), absent din Textul Masoretic, și trece binecuvântarea la plural („asupra caselor voastre”)."
+     }
+    ],
+    "refs": [
+     "Exod 23:19",
+     "Numeri 15:19-21",
+     "Numeri 18:12-18,27-30",
+     "Deuteronom 18:4",
+     "Proverbe 3:9,10",
+     "Maleahi 3:10,11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ca să păstrați binecuvântarea asupra casei tale” — „lehaniah” înseamnă a face să se așeze, să rămână, ca în „și s-au așezat în toate hotarele Egiptului” (Exod 10:14)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și cele mai bune din primele roade” — pârga din toate lucrurile care s-au copt primele, adică primele roade. „Prima parte din coca voastră” — prima parte din aluat, înainte de a mânca din el; aceasta se spune despre hala. „Ca să păstrați binecuvântarea” — ca și cum ar spune: să nu vă pară rău să dați toate acestea preoților, căci aceasta va fi pricină ca binecuvântarea să se așeze în casa ta, și bogăția nu se va împuțina, ci va spori."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Bikurei” — coacerea timpurie a recoltei se numește „bikur”, ca în „cele dintâi roade ale pământului tău” (Exod 23:19). „Arisoteihem” — cu sensul de aluat, cocă. „Lehaniah” — din „a așeza”."
+     }
+    ]
+   },
+   {
+    "v": "44:31",
+    "t": "Orice hoit sau animal sfâșiat dintre păsări și dintre dobitoace, preoții să nu le mănânce.",
+    "heb": "כָּל־נְבֵלָה וּטְרֵפָה מִן־הָעוֹף וּמִן־הַבְּהֵמָה לֹא יֹאכְלוּ הַכֹּהֲנִים׃",
+    "translit": "Kol-nevela utrefa min-haof umin-habehema lo yochlu hakohanim.",
+    "tokens": [
+     {
+      "t": "Orice "
+     },
+     {
+      "t": "hoit",
+      "w": "hoit",
+      "heb": "נְבֵלָה",
+      "translit": "nevela",
+      "strong": "H5038",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "animal mort de la sine, hoit.",
+      "dict_ro": "Nevela — animalul mort fără sacrificare rituală, oprit oricărui israelit (Deuteronom 14:21), la fel ca terefa, animalul sfâșiat. De aceea Talmudul (Menahot 45a) se întreabă: doar preoților le e oprit? Rabi Iohanan răspunde: „acest pasaj e greu, iar în viitor Eliahu îl va explica”; Ravina propune că, fiindcă preoților le era îngăduită jertfa de păcat din păsări ucisă prin ciupire (care e tehnic nevela), ar fi putut crede că li se îngăduie și alte hoituri. Rashi, Metzudat David și Radak aduc aceeași explicație."
+     },
+     {
+      "t": " sau animal sfâșiat dintre păsări și dintre dobitoace, preoții să nu le mănânce."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כָּל־נְבֵלָה וּטְרֵפָה מִן־הָעוֹף וּמִן־הַבְּהֵמָה...",
+      "translation": "„Orice hoit sau animal sfâșiat dintre...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ πᾶν θνησιμαῖον καὶ θηριάλωτον ἐκ τῶν πετεινῶν καὶ ἐκ τῶν κτηνῶν οὐ φάγονται οἱ ἱερεῖς.",
+      "greek": true,
+      "translation": "„Și orice mortăciune și ce e sfâșiat de fiare, din păsări și din dobitoace, să nu mănânce preoții.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 22:31",
+     "Levitic 17:15",
+     "Levitic 22:8",
+     "Deuteronom 14:21",
+     "Romani 14:20",
+     "1 Corinteni 8:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Orice hoit sau animal sfâșiat” — pentru că ciupirea gâtului păsării aduse ca jertfă de păcat era îngăduită [preoților], iar aceasta echivalează cu un hoit sau cu un animal sfâșiat, a trebuit să-i avertizeze în privința celorlalte hoituri și animale sfâșiate. Așa explică înțelepții noștri."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Orice hoit sau animal sfâșiat” — cum s-a spus în Tora: „hoit și animal sfâșiat să nu mănânce, ca să nu se pângărească prin ele” (Levitic 22:8); deși și Israelul e oprit de la ele, preoții sunt avertizați mai mult din pricina necurăției, pentru că sunt mereu în Sanctuar. Iar înțelepții noștri au spus: pentru că le-a fost îngăduită ciupirea jertfei de păcat din păsări, care e hoit și animal sfâșiat, s-ar putea crede că le sunt îngăduite și celelalte hoituri; de aceea au fost avertizați."
+     },
+     {
+      "author": "Talmud Bavli, Menahot 45a",
+      "text": "„Orice hoit sau animal sfâșiat, din păsări și din dobitoace, să nu mănânce preoții” (Ezechiel 44:31) — oare doar preoții nu pot mânca, iar un israelit poate? Rabi Iohanan a spus: acest pasaj e greu, iar în viitor Eliahu îl va explica. Ravina a spus: era necesar pentru preoți, căci ți-ar fi putut trece prin minte că, de vreme ce ciupirea [jertfei din păsări] le-a fost îngăduită, [și hoiturile le-ar fi îngăduite]."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
