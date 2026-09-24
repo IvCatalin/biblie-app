@@ -57858,6 +57858,1093 @@
     ]
    }
   ]
+ },
+  {
+  "num": 34,
+  "title": "Haftarat Kedoșim (sefard)",
+  "ref": "Ezechiel 20:2-20",
+  "intro": "În tradiția sefardă și în comunitățile Chabad, haftara pericopei Kedoșim este din Ezechiel 20; ea se citește și atunci când pericopele Aharéi Mot și Kedoșim se citesc împreună. Bătrânii lui Israel vin să-L caute pe DOMNUL prin profet, iar răspunsul este o lecție de istorie: din Egipt și până în pustie, poporul s-a răzvrătit iar și iar, părăsind decretele, judecățile și Sabatele pe care Dumnezeu i le dăduse „ca omul să le înfăptuiască și să trăiască prin ele”. De fiecare dată, Dumnezeu i-a cruțat „de dragul Numelui Său”, ca să nu fie pângărit înaintea neamurilor. Haftara se încheie cu îndemnul adresat noii generații — să nu urmeze decretele părinților, ci să sfințească Sabatele, semnul dintre Dumnezeu și poporul Său —, făcând ecou chemării pericopei: „sfinți să fiți”.",
+  "verses": [
+   {
+    "v": "20:2",
+    "t": "Atunci cuvântul DOMNULUI a venit la mine, spunând:",
+    "heb": "וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
+    "translit": "Vayehi devar-ADONAI elai lemor.",
+    "tokens": [
+     {
+      "t": "Atunci "
+     },
+     {
+      "t": "cuvântul DOMNULUI",
+      "w": "cuvântul DOMNULUI",
+      "heb": "דְבַר־יְהוָה",
+      "translit": "devar-ADONAI",
+      "strong": "H1697",
+      "pos": "substantiv, masculin singular, în construcție + nume divin",
+      "def_ro": "cuvântul DOMNULUI.",
+      "dict_ro": "Devar ADONAI — formula care deschide oracolul; capitolul 20 e datat precis (20:1), în al șaptelea an al exilului lui Iehoiahin, când bătrânii lui Israel vin să-l întrebe pe profet. Răspunsul pe care îl primesc nu e cel așteptat: în loc de o profeție despre viitor, Ezechiel face istoria răzvrătirilor lui Israel, de la Egipt până la pustie."
+     },
+     {
+      "t": " a venit la mine, spunând:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃...",
+      "translation": "„Atunci cuvântul DOMNULUI a venit la...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο λόγος Κυρίου πρός με λέγων·",
+      "greek": true,
+      "translation": "„Și a fost cuvântul Domnului către mine, zicând:”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "20:3",
+    "t": "„Fiu al omului, vorbește bătrânilor lui Israel și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Ca să Mă căutați ați venit? Precum Eu sunt viu, nu Mă voi lăsa căutat de voi – rostirea Stăpânului meu, Domnul DUMNEZEU.»",
+    "heb": "בֶּן־אָדָם דַּבֵּר אֶת־זִקְנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם כֹּה אָמַר אֲדֹנָי יְהוִה הֲלִדְרֹשׁ אֹתִי אַתֶּם בָּאִים חַי־אָנִי אִם־אִדָּרֵשׁ לָכֶם נְאֻם אֲדֹנָי יְהוִה׃",
+    "translit": "Ben-adam daber et-ziknei Israël veamarta alehem ko amar Adonai ELOHIM halidroș oti atem baim hai-ani im-idareș lachem neum Adonai ELOHIM.",
+    "tokens": [
+     {
+      "t": "„Fiu al omului, vorbește "
+     },
+     {
+      "t": "bătrânilor lui Israel",
+      "w": "bătrânilor lui Israel",
+      "heb": "זִקְנֵי יִשְׂרָאֵל",
+      "translit": "ziknei Israël",
+      "strong": "H2205",
+      "pos": "adjectiv substantivat, masculin plural, în construcție + nume propriu",
+      "def_ro": "bătrânii, conducătorii lui Israel.",
+      "dict_ro": "Zekenim — bătrânii, conducătorii comunității exilate, care vin „să-L caute” pe DOMNUL prin profet; Metzudat David explică „a căuta” ca rugăciune: de aceea jurământul „nu Mă voi lăsa căutat” înseamnă „nu vă voi primi rugăciunea”. Rashi observă însă că la sfârșitul cărții (Ezechiel 36:37) Dumnezeu spune „Mă voi lăsa căutat de casa lui Israel” — unul dintre locurile care arată că Sfântul, binecuvântat fie El, Se întoarce de la rău."
+     },
+     {
+      "t": " și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Ca să Mă căutați ați venit? Precum Eu sunt viu, nu Mă voi lăsa căutat de voi – rostirea Stăpânului meu, Domnul DUMNEZEU.»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בֶּן־אָדָם דַּבֵּר אֶת־זִקְנֵי יִשְׂרָאֵל...",
+      "translation": "„„Fiu al omului, vorbește bătrânilor lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "υἱὲ ἀνθρώπου, λάλησον πρὸς τοὺς πρεσβυτέρους τοῦ οἴκου ᾿Ισραὴλ καὶ ἐρεῖς πρὸς αὐτούς· τάδε λέγει Κύριος· εἰ ἐπερωτῆσαί με ὑμεῖς ἔρχεσθε; ζῶ ἐγὼ εἰ ἀποκριθήσομαι ὑμῖν, λέγει Κύριος·",
+      "greek": true,
+      "translation": "„Fiul omului, vorbește bătrânilor casei lui Israel și le vei zice: Așa zice Domnul: Oare ca să Mă întrebați veniți voi? Viu sunt Eu, că nu vă voi răspunde, zice Domnul.”",
+      "note": "Septuaginta redă „nu Mă voi lăsa căutat de voi” prin „nu vă voi răspunde” (ἀποκριθήσομαι) și adaugă „casei” (bătrânii casei lui Israel)."
+     }
+    ],
+    "refs": [
+     "Isaia 1:12",
+     "Matei 3:7",
+     "Ezechiel 14:3,4,7,8",
+     "1 Samuel 28:6",
+     "Proverbe 15:8",
+     "Isaia 1:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Nu Mă voi lăsa căutat de voi” — în cererea voastră. Și totuși, la sfârșitul acestei cărți (36:37), El spune: „Mă voi lăsa căutat de casa lui Israel” — acesta e unul dintre locurile care ne învață că Sfântul, binecuvântat fie El, Se răzgândește de la rău; și despre lucruri asemănătoare s-a spus: „El spune, dar nu face” (după Midrash Tanhuma)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ca să Mă căutați” — cu he interogativ: oare ați venit să Mă căutați prin rugăciune? Iată, să știți: Mă jur, viu sunt Eu, că nu Mă voi lăsa căutat de voi, ca să vă primesc rugăciunea."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hălidroș” — cu sensul de rugăciune, ca în „eu L-aș căuta pe Dumnezeu” (Iov 5:8)."
+     }
+    ]
+   },
+   {
+    "v": "20:4",
+    "t": "Îi vei dojeni, [îi] vei dojeni, fiu al omului? Fă-le cunoscute ororile părinților lor",
+    "heb": "הֲתִשְׁפֹּט אֹתָם הֲתִשְׁפֹּט בֶּן־אָדָם אֶת־תּוֹעֲבֹת אֲבוֹתָם הוֹדִיעֵם׃",
+    "translit": "Hatișpot otam hatișpot ben-adam et-toavot avotam hodiem.",
+    "tokens": [
+     {
+      "t": "Îi vei dojeni, [îi] vei dojeni, fiu al omului? Fă-le cunoscute "
+     },
+     {
+      "t": "ororile",
+      "w": "ororile",
+      "heb": "תּוֹעֲבֹת",
+      "translit": "toavot",
+      "strong": "H8441",
+      "pos": "substantiv, feminin plural, în construcție",
+      "def_ro": "urâciunile, lucrurile abominabile.",
+      "dict_ro": "Toeva — urâciunea, ceea ce e respingător înaintea lui Dumnezeu, termen folosit mai ales pentru idolatrie și relațiile oprite. Radak explică sensul dojanei: profetul trebuie să le arate nu doar faptele lor, ci și „ororile părinților”, căci încă de la început aceștia Îl mâniaseră prin lucrarea mâinilor lor; Metzudat David adaugă că astfel se arată că judecata e dreaptă, păcatele lor venind peste cele moștenite."
+     },
+     {
+      "t": " părinților lor"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֲתִשְׁפֹּט אֹתָם הֲתִשְׁפֹּט בֶּן־אָדָם...",
+      "translation": "„Îi vei dojeni, [îi] vei dojeni...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "εἰ ἐκδικήσω αὐτοὺς ἐκδικήσει, υἱὲ ἀνθρώπου, τὰς ἀνομίας τῶν πατέρων αὐτῶν διαμάρτυραι αὐτοῖς",
+      "greek": true,
+      "translation": "„Oare îi voi pedepsi cu pedeapsă, fiul omului? Mărturisește-le fărădelegile părinților lor”",
+      "note": "Septuaginta redă „îi vei dojeni?” prin „îi voi pedepsi cu pedeapsă?” (ἐκδικήσω), mutând acțiunea de la profet la Dumnezeu."
+     }
+    ],
+    "refs": [
+     "Ezechiel 22:2",
+     "Ezechiel 23:36,45",
+     "Ieremia 7:16",
+     "Ezechiel 16:2,3",
+     "Matei 23:29-37",
+     "Faptele Apostolilor 7:51,52"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Îi vei dojeni” — „hatișpot” e o expresie de dispută, de ceartă în judecată."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Îi vei dojeni” — oare te vei certa cu ei ca să le arăți că dreptatea e de partea Mea? Fă aceasta: fă-le cunoscute ororile părinților lor, împreună cu cele pe care le-au adăugat ei."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: Ionatan traduce „ceartă-te cu ei, ceartă-te, fiu al omului” — adică, dacă vrei să-i judeci pentru răutatea lor, mustră-i pentru faptele lor rele și fă-le cunoscute și ororile părinților lor, căci încă de demult M-au mâniat prin lucrarea mâinilor lor."
+     }
+    ]
+   },
+   {
+    "v": "20:5",
+    "t": "și spune-le: Așa a spus Stăpânul meu, Domnul DUMNEZEU: «În ziua în care l-am ales pe Israel, când Mi-am ridicat mâna [în jurământ] către seminția casei lui Iacov și M-am făcut cunoscut lor în Egipt și le-am jurat, spunând: ‘Eu sunt DOMNUL, Dumnezeul vostru’,",
+    "heb": "וְאָמַרְתָּ אֲלֵיהֶם כֹּה־אָמַר אֲדֹנָי יְהוִה בְּיוֹם בָּחֲרִי בְיִשְׂרָאֵל וָאֶשָּׂא יָדִי לְזֶרַע בֵּית יַעֲקֹב וָאִוָּדַע לָהֶם בְּאֶרֶץ מִצְרָיִם וָאֶשָּׂא יָדִי לָהֶם לֵאמֹר אֲנִי יְהוָה אֱלֹהֵיכֶם׃",
+    "translit": "Veamarta aleihem ko-amar Adonai ELOHIM beyom bahari veIsraël vaesa yadi lezera beit Iaakov vaivada lahem beereț Mițraim vaesa yadi lahem lemor ani ADONAI Eloheichem.",
+    "tokens": [
+     {
+      "t": "și spune-le: Așa a spus Stăpânul meu, Domnul DUMNEZEU: «În ziua în care l-am ales pe Israel, când "
+     },
+     {
+      "t": "Mi-am ridicat mâna",
+      "w": "Mi-am ridicat mâna",
+      "heb": "וָאֶשָּׂא יָדִי",
+      "translit": "vaesa iadi",
+      "strong": "H5375",
+      "pos": "verb, qal, imperfect consecutiv, persoana I singular + substantiv cu sufix",
+      "def_ro": "Mi-am ridicat mâna (gest de jurământ).",
+      "dict_ro": "Nasa iad — „a ridica mâna”, gestul jurământului solemn (compară Geneza 14:22; Deuteronom 32:40); Radak explică jurământul prin formula „Eu sunt DOMNUL”, ca promisiunea de a da Țara „pe care Mi-am ridicat mâna s-o dau lui Avraham, Isaac și Iacov” (Exod 6:8). Rashi aduce aici o tradiție surprinzătoare: această ură a stat ascunsă înaintea lui Dumnezeu aproape nouă sute de ani, din Egipt până la Ezechiel, acoperită de iubire, și s-a trezit acum, când păcatele s-au înmulțit — „ura stârnește certuri, dar iubirea acoperă toate greșelile” (Proverbe 10:12)."
+     },
+     {
+      "t": " [în jurământ] către seminția casei lui Iacov și M-am făcut cunoscut lor în Egipt și le-am jurat, spunând: ‘Eu sunt DOMNUL, Dumnezeul vostru’,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאָמַרְתָּ אֲלֵיהֶם כֹּה־אָמַר אֲדֹנָי...",
+      "translation": "„și spune-le: Așa a spus Stăpânul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐρεῖς πρὸς αὐτούς· τάδε λέγει Κύριος· ἀφ’ ἧς ἡμέρας ᾑρέτισα τὸν οἶκον ᾿Ισραὴλ καὶ ἐγνωρίσθην τῷ σπέρματι οἴκου ᾿Ιακὼβ καὶ ἐγνώσθην αὐτοῖς ἐν γῇ Αἰγύπτου καὶ ἀντελαβόμην τῇ χειρί μου αὐτῶν λέγων· ἐγὼ Κύριος ὁ Θεὸς ὑμῶν,",
+      "greek": true,
+      "translation": "„și le vei zice: Așa zice Domnul: Din ziua în care am ales casa lui Israel și M-am făcut cunoscut seminței casei lui Iacov și M-am făcut cunoscut lor în țara Egiptului și i-am sprijinit cu mâna Mea, zicând: Eu sunt Domnul Dumnezeul vostru,”",
+      "note": "Septuaginta redă gestul jurământului („Mi-am ridicat mâna”) prin „i-am sprijinit cu mâna Mea” (ἀντελαβόμην τῇ χειρί μου) — din jurământ devine ocrotire."
+     }
+    ],
+    "refs": [
+     "Exod 6:6,7",
+     "Deuteronom 7:6",
+     "Isaia 41:8,9",
+     "Geneza 14:22",
+     "Deuteronom 32:40",
+     "Exod 20:2,3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „În ziua în care l-am ales pe Israel” — această ură a stat ascunsă înaintea Celui Omniprezent aproape nouă sute de ani, din vremea când erau în Egipt până la Ezechiel, dar iubirea Lui îi acoperea; acum însă, că și-au înmulțit fărădelegile, s-a trezit, și despre aceasta s-a spus: „ura stârnește certuri” (Proverbe 10:12)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„În ziua în care l-am ales pe Israel” — când i-am ales, fiind ei în Egipt. „Mi-am ridicat mâna” — atunci Mi-am ridicat mâna în jurământ să-i scot de acolo. „M-am făcut cunoscut lor” — prin sălășluirea Prezenței Mele asupra lui Aaron, jurând: „Eu sunt DOMNUL, Dumnezeul vostru” — adică Eu vă voi conduce și vă voi purta de grijă, nu ca neamurilor de odinioară, conduse prin mijlocirea ordinii cerești."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Mi-am ridicat mâna” — ca în „pe care Mi-am ridicat mâna s-o dau lui Avraham, lui Isaac și lui Iacov”; și aici a precizat „seminției lui Iacov”, căci ce a dat lui Avraham și lui Isaac a dat de dragul seminției lui Iacov. „Eu sunt DOMNUL” — acesta e jurământul."
+     }
+    ]
+   },
+   {
+    "v": "20:6",
+    "t": "în acea zi Mi-am ridicat mâna [în jurământ] că îi voi scoate din țara Egiptului și îi voi duce într-o țară pe care am căutat-o pentru ei, în care curge lapte și miere, ea fiind o splendoare pentru toate țările.",
+    "heb": "בַּיּוֹם הַהוּא נָשָׂאתִי יָדִי לָהֶם לְהוֹצִיאָם מֵאֶרֶץ מִצְרָיִם אֶל־אֶרֶץ אֲשֶׁר־תַּרְתִּי לָהֶם זָבַת חָלָב וּדְבַשׁ צְבִי הִיא לְכָל־הָאֲרָצוֹת׃",
+    "translit": "Bayom hahu nasati yadi lahem lehotziam meereț Mițraim el-eretz așer-tarti lahem zavat halav udevash tzvi hi lechol-haaratzot.",
+    "tokens": [
+     {
+      "t": "în acea zi Mi-am ridicat mâna [în jurământ] că îi voi scoate din țara Egiptului și îi voi duce într-o țară pe care am căutat-o pentru ei, în care curge lapte și miere, ea fiind "
+     },
+     {
+      "t": "o splendoare",
+      "w": "o splendoare",
+      "heb": "צְבִי",
+      "translit": "țevi",
+      "strong": "H6643",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "podoabă, splendoare, frumusețe.",
+      "dict_ro": "Țevi — podoaba, strălucirea; de aici denumirea Țării „eretz hațevi”, „țara cea frumoasă” (Daniel 8:9; 11:16). Radak explică de ce: e ținutul din mijloc, lăudat mai presus de celelalte, cu aerul cel mai bine temperat dintre toate țările, precum s-a spus „frumoasă pe înălțime, bucuria întregului pământ” (Psalmul 48:3). Metzudat Țion explică „am căutat-o” (tarti) ca „cercetare”, ca în Eclesiastul 2:3 — o țară aleasă după cercetare, anume pentru ei."
+     },
+     {
+      "t": " pentru toate țările."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בַּיּוֹם הַהוּא נָשָׂאתִי יָדִי...",
+      "translation": "„în acea zi Mi-am ridicat mâna...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐν ἐκείνῃ τῇ ἡμέρᾳ ἀντελαβόμην τῇ χειρί μου αὐτῶν τοῦ ἐξαγαγεῖν αὐτοὺς ἐκ γῆς Αἰγύπτου εἰς τὴν γῆν, ἣν ἡτοίμασα αὐτοῖς, γῆν ῥέουσαν γάλα καὶ μέλι, κηρίον ἐστὶ παρὰ πᾶσαν τὴν γῆν.",
+      "greek": true,
+      "translation": "„în ziua aceea i-am sprijinit cu mâna Mea, ca să-i scot din țara Egiptului în țara pe care le-am pregătit-o, țară în care curge lapte și miere; fagure de miere este ea peste tot pământul.”",
+      "note": "Septuaginta redă „am căutat-o pentru ei” prin „le-am pregătit-o” (ἡτοίμασα) și „splendoare” (țevi) prin „fagure de miere” (κηρίον) — o divergență reală de imagine."
+     }
+    ],
+    "refs": [
+     "Exod 3:8,17",
+     "Deuteronom 8:7-9",
+     "Exod 13:5",
+     "Numeri 14:8",
+     "Psalmul 48:2",
+     "Daniel 8:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„În acea zi” — adică în chiar ziua în care le-am jurat că le voi fi Conducător și Ocrotitor, atunci am jurat să-i scot din Egipt într-o țară pe care am căutat-o pentru ei, în care curge lapte și miere, și care este cea mai strălucită dintre toate țările."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „O splendoare pentru toate țările” — podoabă și desfătare pentru toate țările este ea, căci este ținutul din mijloc, lăudat mai presus de celelalte ținuturi, iar aerul ei este cel mai bine temperat și mai bun dintre toate țările; și tot așa s-a spus: „frumoasă pe înălțime, bucuria întregului pământ”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tarti” — cu sensul de cercetare, ca în „am cercetat în inima mea” (Eclesiastul 2:3). „Zavat” — din curgere și picurare. „Țevi” — cu sensul de podoabă și frumusețe."
+     }
+    ]
+   },
+   {
+    "v": "20:7",
+    "t": "Și le-am spus: ‘Fiecare om să își arunce scârboșeniile ochilor săi și să nu se [mai] pângărească cu idolii Egiptului – Eu sunt DOMNUL, Dumnezeul vostru.’",
+    "heb": "וָאֹמַר אֲלֵהֶם אִישׁ שִׁקּוּצֵי עֵינָיו הַשְׁלִיכוּ וּבְגִלּוּלֵי מִצְרַיִם אַל־תִּטַּמָּאוּ אֲנִי יְהוָה אֱלֹהֵיכֶם׃",
+    "translit": "Vaomar alehem iș șikutzei einav hașlichu uvegilulei Mițraim al-titamu ani ADONAI Eloheichem.",
+    "tokens": [
+     {
+      "t": "Și le-am spus: ‘Fiecare om să își arunce "
+     },
+     {
+      "t": "scârboșeniile ochilor săi",
+      "w": "scârboșeniile ochilor săi",
+      "heb": "שִׁקּוּצֵי עֵינָיו",
+      "translit": "șikuței einav",
+      "strong": "H8251",
+      "pos": "substantiv, masculin plural, în construcție + substantiv cu sufix",
+      "def_ro": "urâciunile pe care le privesc ochii lui (idolii).",
+      "dict_ro": "Șikuț — lucrul scârbos, termen disprețuitor pentru idoli; „scârboșeniile ochilor” sunt idolii la care ochii se uită cu poftă. Radak explică expresia prin rolul ochilor în păcat — „să nu vă luați după inima voastră și după ochii voștri” (Numeri 15:39) — și citează vorba înțelepților: „ochiul și inima sunt cei doi agenți ai păcatului” (Talmud Ierușalmi, Berahot 1:5). Rashi și Metzudat David adaugă că porunca le-a fost dată în Egipt prin Aaron, înainte ca Dumnezeu să i se descopere lui Moise în rug."
+     },
+     {
+      "t": " și să nu se [mai] pângărească cu idolii Egiptului – Eu sunt DOMNUL, Dumnezeul vostru.’"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֹמַר אֲלֵהֶם אִישׁ שִׁקּוּצֵי...",
+      "translation": "„Și le-am spus: ‘Fiecare om să...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπα πρὸς αὐτούς· ἕκαστος βδελύγματα τῶν ὀφθαλμῶν αὐτοῦ ἀπορριψάτω, καὶ ἐν τοῖς ἐπιτηδεύμασιν Αἰγύπτου μὴ μιαίνεσθε, ἐγὼ Κύριος ὁ Θεὸς ὑμῶν.",
+      "greek": true,
+      "translation": "„Și am zis către ei: Fiecare să lepede urâciunile ochilor săi și să nu vă pângăriți cu obiceiurile Egiptului; Eu sunt Domnul Dumnezeul vostru.”",
+      "note": "Septuaginta redă „idolii Egiptului” (ghilulei Mițraim) prin „obiceiurile Egiptului” (ἐπιτηδεύμασιν)."
+     }
+    ],
+    "refs": [
+     "Ezechiel 18:6,15,31",
+     "Isaia 31:7",
+     "2 Cronici 15:8",
+     "Levitic 18:3",
+     "Iosua 24:14",
+     "Levitic 20:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și le-am spus” — Aaron le-a vestit această profeție înainte ca Sfântul, binecuvântat fie El, să i Se descopere lui Moise în rug; aceasta s-a spus lui Eli: „M-am descoperit Eu casei tatălui tău când erau în Egipt...?” (Samuel I 2:27)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și le-am spus” — prin Aaron le-am spus: fiecare om să lepede scârboșenia și urâciunea pe care i-o arată ochii lui, căci ochiul este mijlocitorul păcatului. „Și cu idolii Egiptului” — să nu vă pângăriți mergând după ei. „Eu sunt DOMNUL, Dumnezeul vostru” — ca și cum ar spune: cum Mă puteți schimba, atunci, cu idolii?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Fiecare să-și arunce scârboșeniile ochilor săi” — căci ochii îl aduc pe om la păcat, cum s-a spus: „să nu vă luați după inima voastră și după ochii voștri” (Numeri 15:39); și au spus înțelepții noștri: ochiul și inima sunt cei doi agenți ai păcatului."
+     },
+     {
+      "author": "Talmud Ierușalmi, Berahot 1:5",
+      "text": "Rabi Levi a spus: inima și ochiul sunt cei doi agenți ai păcatului, căci scrie: „Fiul meu, dă-Mi inima ta și ochii tăi să păzească drumurile Mele” (Proverbe 23:26) — Sfântul, binecuvântat fie El, spune: dacă Îmi dai inima și ochii tăi, știu că ești al Meu."
+     }
+    ]
+   },
+   {
+    "v": "20:8",
+    "t": "Dar ei s-au răzvrătit împotriva Mea și n-au vrut să asculte de Mine. Niciunul nu a aruncat scârboșeniile ochilor lor și nu au abandonat idolii Egiptului și Mi-am spus că Îmi voi revărsa furia asupra lor, ca să Îmi sfârșesc mânia asupra lor în mijlocul țării Egiptului.",
+    "heb": "וַיַּמְרוּ־בִי וְלֹא אָבוּ לִשְׁמֹעַ אֵלַי אִישׁ אֶת־שִׁקּוּצֵי עֵינֵיהֶם לֹא הִשְׁלִיכוּ וְאֶת־גִּלּוּלֵי מִצְרַיִם לֹא עָזָבוּ וָאֹמַר לִשְׁפֹּךְ חֲמָתִי עֲלֵיהֶם",
+    "translit": "Vayamru-vi velo avu lișmoa elai iș et-șikutzei eineihem lo hișlichu veet-gilulei Mițraim lo azavu vaomar lișpoch hamati aleihem",
+    "tokens": [
+     {
+      "t": "Dar ei "
+     },
+     {
+      "t": "s-au răzvrătit",
+      "w": "s-au răzvrătit",
+      "heb": "וַיַּמְרוּ",
+      "translit": "vayamru",
+      "strong": "H4784",
+      "pos": "verb, hifil, imperfect consecutiv, persoana a III-a masculin plural",
+      "def_ro": "s-au răzvrătit, s-au împotrivit.",
+      "dict_ro": "Mara — „a fi răzvrătit, încăpățânat”, verbul care descrie în Tora generația pustiei („ați fost răzvrătiți împotriva DOMNULUI”, Deuteronom 9:7). Rashi aduce tradiția că răzvrătiții, majoritatea poporului, au murit în cele trei zile de întuneric din Egipt, iar din Egipt n-a ieșit decât unul din cincizeci (după alții, unul din cinci sute). Radak explică dublarea „să-Mi revărs furia... să-Mi sfârșesc mânia” prin imaginea vasului golit: cine varsă ce e în vas îl sfârșește."
+     },
+     {
+      "t": " împotriva Mea și n-au vrut să asculte de Mine. Niciunul nu a aruncat scârboșeniile ochilor lor și nu au abandonat idolii Egiptului și Mi-am spus că Îmi voi revărsa furia asupra lor, ca să Îmi sfârșesc mânia asupra lor în mijlocul țării Egiptului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּמְרוּ־בִי וְלֹא אָבוּ לִשְׁמֹעַ...",
+      "translation": "„Dar ei s-au răzvrătit împotriva Mea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπέστησαν ἀπ’ ἐμοῦ καὶ οὐκ ἠθέλησαν εἰσακοῦσαί μου, τὰ βδελύγματα τῶν ὀφθαλμῶν αὐτῶν οὐκ ἀπέρριψαν καὶ τὰ ἐπιτηδεύματα Αἰγύπτου οὐκ ἐγκατέλιπον. καὶ εἶπα τοῦ ἐκχέαι τὸν θυμόν μου ἐπ’ αὐτοὺς τοῦ συντελέσαι τὴν ὀργήν μου ἐν αὐτοῖς ἐν μέσῳ γῆς Αἰγύπτου.",
+      "greek": true,
+      "translation": "„Și s-au depărtat de Mine și n-au voit să Mă asculte; urâciunile ochilor lor nu le-au lepădat și obiceiurile Egiptului nu le-au părăsit. Și am zis să-Mi vărs mânia asupra lor, să-Mi sfârșesc urgia în ei, în mijlocul țării Egiptului.”",
+      "note": "Corespondență strânsă; „idolii Egiptului” sunt redați din nou prin „obiceiurile Egiptului”."
+     }
+    ],
+    "refs": [
+     "Deuteronom 9:7",
+     "Neemia 9:26",
+     "Isaia 63:10",
+     "Exod 32:4-6",
+     "Ezechiel 5:13",
+     "Ezechiel 7:8"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Dar ei s-au răzvrătit împotriva Mea” — aceștia sunt nelegiuiții, majoritatea lui Israel, care au murit în cele trei zile de întuneric, precum s-a spus: „și fiii lui Israel au ieșit din Egipt «hamușim»” (Exod 13:18) — unul din cincizeci, iar unii spun: unul din cinci sute."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„S-au răzvrătit împotriva Mea” — încă fiind în Egipt s-au răzvrătit împotriva DOMNULUI. „Și Mi-am spus” — din pricina aceasta M-am gândit să-Mi vărs furia asupra lor și să arunc asupra lor aprinderea mâniei Mele."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Să-Mi revărs furia... să-Mi sfârșesc mânia” — dublarea sensului în cuvinte diferite; căci atunci când omul varsă ce e într-un vas, el sfârșește ce e înăuntru."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vayamru” — din răzvrătire și răscoală. „Velo avu” — și n-au vrut, ca în „nu vrea cumnatul meu” (Deuteronom 25:7). „Lehalot” — cu sensul de sfârșire."
+     }
+    ]
+   },
+   {
+    "v": "20:9",
+    "t": "Dar am acționat de dragul numelui Meu, ca să nu fie pângărit în ochii neamurilor printre care se află, în ochii cărora M-am făcut cunoscut lor ca să îi scot din țara Egiptului.",
+    "heb": "לְכַלּוֹת אַפִּי בָּהֶם בְּתוֹךְ אֶרֶץ מִצְרָיִם׃ וָאַעַשׂ לְמַעַן שְׁמִי לְבִלְתִּי הֵחֵל לְעֵינֵי הַגּוֹיִם אֲשֶׁר־הֵמָּה בְתוֹכָם אֲשֶׁר נוֹדַעְתִּי אֲלֵיהֶם לְעֵינֵיהֶם לְהוֹצִיאָם מֵאֶרֶץ מִצְרָיִם׃",
+    "translit": "lechalot api bahem betoch eretz Mițraim. Vaaas lemaan șemi levilti hehel leeinei hagoyim așer-hema vetocham așer nodati aleihem leeineihem lehotziam meereț Mițraim.",
+    "tokens": [
+     {
+      "t": "Dar am acționat "
+     },
+     {
+      "t": "de dragul numelui Meu",
+      "w": "de dragul numelui Meu",
+      "heb": "לְמַעַן שְׁמִי",
+      "translit": "lemaan șemi",
+      "strong": "H8034",
+      "pos": "prepoziție + substantiv, masculin singular + sufix persoana I",
+      "def_ro": "pentru Numele Meu, de dragul reputației Mele.",
+      "dict_ro": "Lemaan șemi — motivul central al capitolului, repetat ca un refren (20:9, 14, 22): Dumnezeu nu i-a nimicit, nu pentru că ar fi meritat, ci ca Numele Lui să nu fie pângărit înaintea neamurilor. Rashi explică: de vreme ce M-am făcut cunoscut lor și am făgăduit să-i scot, iar egiptenii știau că sunt poporul Meu, dacă i-aș fi nimicit, dușmanii ar fi zis: „pentru că n-a fost în stare să-i scoată” — același argument pe care îl folosise Moise în rugăciunea lui (Numeri 14:13-16)."
+     },
+     {
+      "t": ", ca să nu fie pângărit în ochii neamurilor printre care se află, în ochii cărora M-am făcut cunoscut lor ca să îi scot din țara Egiptului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לְכַלּוֹת אַפִּי בָּהֶם בְּתוֹךְ...",
+      "translation": "„Dar am acționat de dragul numelui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐποίησα ὅπως τὸ ὄνομά μου τὸ παράπαν μὴ βεβηλωθῇ ἐνώπιον τῶν ἐθνῶν, ὧν αὐτοί εἰσιν ἐν μέσῳ αὐτῶν, ἐν οἷς ἐγνώσθην πρὸς αὐτοὺς ἐνώπιον αὐτῶν τοῦ ἐξαγαγεῖν αὐτοὺς ἐκ γῆς Αἰγύπτου.",
+      "greek": true,
+      "translation": "„Și am lucrat așa încât numele Meu să nu fie deloc pângărit înaintea neamurilor în mijlocul cărora erau ei, între care M-am făcut cunoscut lor înaintea ochilor lor, ca să-i scot din țara Egiptului.”",
+      "note": "Corespondență strânsă; Septuaginta adaugă „deloc” (τὸ παράπαν) pentru a întări negația."
+     }
+    ],
+    "refs": [
+     "Ezechiel 36:21,22",
+     "Exod 32:12",
+     "Numeri 14:13-25",
+     "Deuteronom 9:28",
+     "Iosua 7:9",
+     "Iosua 2:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ca să nu fie pângărit” — ca să nu fie pângărit Numele Meu; căci M-am făcut cunoscut lor și am făgăduit să-i scot, iar egiptenii au recunoscut că sunt poporul Meu; dacă i-aș fi nimicit, dușmanii lor ar fi zis: „pentru că n-a avut puterea să-i scoată”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Dar am acționat” — dar am lucrat de dragul Numelui Meu, ca să nu fie pângărit în ochii egiptenilor. „În ochii cărora M-am făcut cunoscut” — căci M-am făcut cunoscut lui Israel prin Aaron, care le vestea prin profeție, sub ochii egiptenilor, că îi voi răscumpăra de acolo; iar dacă ar fi pierit în Egipt, ar fi fost o pângărire a Numelui DOMNULUI, căci ar fi spus: pentru că DOMNUL n-a putut să-i scoată, i-a nimicit."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Sub ochii lor” — căci egiptenii auzeau când le vorbeau profeții și le făgăduiau să-i scoată din mijlocul lor, chiar înainte de Moise. Iar în cuvintele înțelepților noștri, și după ce a venit Moise au fost printre ei nelegiuiți care nu s-au întors de la calea lor rea, și aceia au murit în cele trei zile de întuneric, ca egiptenii să nu le vadă căderea și să se bucure de ea."
+     }
+    ]
+   },
+   {
+    "v": "20:10",
+    "t": "Și i-am scos din țara Egiptului și i-am adus în deșert,",
+    "heb": "וָאוֹצִיאֵם מֵאֶרֶץ מִצְרָיִם וָאֲבִאֵם אֶל־הַמִּדְבָּר׃",
+    "translit": "Vaotziem meereț Mițraim vaaviem el-hamidbar.",
+    "tokens": [
+     {
+      "t": "Și i-am scos din țara Egiptului și i-am adus "
+     },
+     {
+      "t": "în deșert",
+      "w": "în deșert",
+      "heb": "הַמִּדְבָּר",
+      "translit": "hamidbar",
+      "strong": "H4057",
+      "pos": "substantiv, masculin singular, cu articol",
+      "def_ro": "pustiul, deșertul.",
+      "dict_ro": "Midbar — pustiul, locul fără așezări, dar în tradiția biblică și locul întâlnirii cu Dumnezeu: acolo au primit Tora, Sabatul și mana. Versetul e scurt, o simplă tranziție, dar Ezechiel construiește pe el întreaga a doua etapă a istoriei: pustiul devine scena a două răzvrătiri — generația care a ieșit din Egipt (20:13-17) și copiii ei (20:18 și urm.)."
+     },
+     {
+      "t": ","
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאוֹצִיאֵם מֵאֶרֶץ מִצְרָיִם וָאֲבִאֵם...",
+      "translation": "„Și i-am scos din țara Egiptului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἤγαγον αὐτοὺς εἰς τὴν ἔρημον",
+      "greek": true,
+      "translation": "„Și i-am dus în pustie”",
+      "note": "Septuaginta omite prima jumătate a versetului („i-am scos din țara Egiptului”), păstrând doar „i-am dus în pustie”."
+     }
+    ],
+    "refs": [
+     "Exod 13:17,18",
+     "Exod 14:17-22",
+     "Exod 15:22",
+     "Exod 20:2"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "20:11",
+    "t": "și le-am dat decretele Mele, și le-am făcut cunoscute judecățile Mele pe care omul să le înfăptuiască și să trăiască prin ele.",
+    "heb": "וָאֶתֵּן לָהֶם אֶת־חֻקּוֹתַי וְאֶת־מִשְׁפָּטַי הוֹדַעְתִּי אוֹתָם אֲשֶׁר יַעֲשֶׂה אוֹתָם הָאָדָם וָחַי בָּהֶם׃",
+    "translit": "Vaeten lahem et-hukotai veet-mișpatai hodati otam așer yaase otam haadam vahai bahem.",
+    "tokens": [
+     {
+      "t": "și le-am dat decretele Mele, și le-am făcut cunoscute judecățile Mele pe care omul să le înfăptuiască și "
+     },
+     {
+      "t": "să trăiască prin ele",
+      "w": "să trăiască prin ele",
+      "heb": "וָחַי בָּהֶם",
+      "translit": "vahai bahem",
+      "strong": "H2425",
+      "pos": "verb, qal, perfect consecutiv, persoana a III-a masculin singular + prepoziție cu sufix",
+      "def_ro": "și va trăi prin ele.",
+      "dict_ro": "Vahai bahem — citat direct din Levitic 18:5, „pe care omul le va face și va trăi prin ele”. Radak și Metzudat David, urmând Targumul, citesc „va trăi” ca viață deplină: viața din lumea aceasta și viața lumii ce va veni. Pavel folosește același verset (Romani 10:5; Galateni 3:12) ca definiție a dreptății prin Lege."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֶתֵּן לָהֶם אֶת־חֻקּוֹתַי וְאֶת־מִשְׁפָּטַי...",
+      "translation": "„și le-am dat decretele Mele, și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔδωκα αὐτοῖς τὰ προστάγματά μου καὶ τὰ δικαιώματά μου ἐγνώρισα αὐτοῖς, ὅσα ποιήσει αὐτὰ ἄνθρωπος καὶ ζήσεται ἐν αὐτοῖς.",
+      "greek": true,
+      "translation": "„și le-am dat poruncile Mele și rânduielile Mele le-am făcut cunoscute lor, pe care făcându-le omul va trăi prin ele.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Deuteronom 4:8",
+     "Neemia 9:13,14",
+     "Psalmul 147:19,20",
+     "Levitic 18:5",
+     "Luca 10:28",
+     "Romani 10:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Pe care omul să le înfăptuiască” — adică decretele și judecățile acelea sunt în stare să-l facă să trăiască pe omul care le împlinește, în viața lumii acesteia și a lumii ce va veni."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și să trăiască prin ele” — ca în traducerea lui [Ionatan]: „și va trăi prin ele viața veșnică”; și tot așa a tradus Onkelos „și va trăi prin ele” [din Levitic 18:5]."
+     }
+    ]
+   },
+   {
+    "v": "20:12",
+    "t": "Și le-am dat totodată Șabaturile Mele, ca să fie semn între Mine și ei, să știe că Eu sunt DOMNUL care îi sfințește.",
+    "heb": "וְגַם אֶת־שַׁבְּתוֹתַי נָתַתִּי לָהֶם לִהְיוֹת לְאוֹת בֵּינִי וּבֵינֵיהֶם לָדַעַת כִּי אֲנִי יְהוָה מְקַדְּשָׁם׃",
+    "translit": "Vegam et-șabtotai natati lahem lihyot leot beini uveineihem ladaat ki ani ADONAI mekadșam.",
+    "tokens": [
+     {
+      "t": "Și le-am dat totodată Șabaturile Mele, ca să fie "
+     },
+     {
+      "t": "semn",
+      "w": "semn",
+      "heb": "לְאוֹת",
+      "translit": "leot",
+      "strong": "H226",
+      "pos": "prepoziție + substantiv, masculin singular",
+      "def_ro": "semn, însemn, dovadă.",
+      "dict_ro": "Ot — semnul, marca vizibilă a unei realități nevăzute; Sabatul e numit „semn între Mine și voi” încă din Exod 31:13, de unde e preluată formularea. Rashi îl numește „un semn mare” — Dumnezeu le-a dat ziua odihnei Lui ca zi de odihnă, dovadă că i-a sfințit pentru Sine. Radak adaugă că pluralul „Sabatele Mele” cuprinde și sărbătorile și că, fiind Sabatul echivalent cu toate poruncile — învățătura lui Rebbi din Talmudul Ierușalmi, Berahot 1:5 —, profetul revine de atâtea ori la pângărirea lui."
+     },
+     {
+      "t": " între Mine și ei, să știe că Eu sunt DOMNUL care îi sfințește."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְגַם אֶת־שַׁבְּתוֹתַי נָתַתִּי לָהֶם...",
+      "translation": "„Și le-am dat totodată Șabaturile Mele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τὰ σάββατά μου ἔδωκα αὐτοῖς τοῦ εἶναι εἰς σημεῖον ἀνὰ μέσον ἐμοῦ καὶ ἀνὰ μέσον αὐτῶν τοῦ γνῶναι αὐτοὺς διότι ἐγὼ Κύριος ὁ ἁγιάζων αὐτούς.",
+      "greek": true,
+      "translation": "„Și Sabatele Mele le-am dat lor, ca să fie semn între Mine și ei, ca să cunoască ei că Eu sunt Domnul, Cel ce îi sfințește.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 31:13-17",
+     "Exod 20:8-11",
+     "Deuteronom 5:12-15",
+     "Neemia 9:14",
+     "Marcu 2:27,28",
+     "Ezechiel 37:28"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ca să fie semn” — este un semn mare pentru ei că le-am dat ziua odihnei Mele spre odihnă; iată, aceasta e o dovadă minunată că i-am sfințit pentru Mine."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și Sabatele Mele” — a spus „și”, căci este un dar bun pe care Dumnezeu l-a dat poporului Său Israel, ca să le amintească ziua odihnei pe care le-a dat-o și că i-a scos din robie la libertate; și acesta e semnul dintre Dumnezeu și Israel, că i-a sfințit și i-a despărțit de neamuri. A spus „Sabatele” la plural, cuprinzând și odihna sărbătorilor, căci și ele sunt amintire a ieșirii din Egipt; și pentru că porunca Sabatului e mare și cântărește cât toate poruncile, a pomenit de atâtea ori în această mustrare pângărirea Sabatului."
+     },
+     {
+      "author": "Talmud Ierușalmi, Berahot 1:5",
+      "text": "Rebbi a spus: aceasta este porunca Sabatului, care cântărește cât toate celelalte porunci ale Torei laolaltă, căci scrie: „Le-ai făcut cunoscut Sabatul Tău cel sfânt și le-ai poruncit porunci, legi și învățătură” (Neemia 9:14)."
+     }
+    ]
+   },
+   {
+    "v": "20:13",
+    "t": "Dar casa lui Israel s-a răzvrătit împotriva Mea în deșert, nu au urmat decretele Mele și au respins judecățile Mele pe care să le înfăptuiască omul și să trăiască prin ele, și Șabaturile Mele le-au pângărit mult. Și Mi-am spus că Îmi voi revărsa furia asupra lor în deșert, ca să îi nimicesc.",
+    "heb": "וַיַּמְרוּ־בִי בֵית־יִשְׂרָאֵל בַּמִּדְבָּר בְּחֻקּוֹתַי לֹא־הָלָכוּ וְאֶת־מִשְׁפָּטַי מָאָסוּ אֲשֶׁר יַעֲשֶׂה אֹתָם הָאָדָם וָחַי בָּהֶם וְאֶת־שַׁבְּתֹתַי חִלְּלוּ מְאֹד וָאֹמַר לִשְׁפֹּךְ חֲמָתִי עֲלֵיהֶם בַּמִּדְבָּר לְכַלּוֹתָם׃",
+    "translit": "Vayamru-vi beit-Israël bamidbar behukotai lo-halachu veet-mișpatai maasu așer yaase otam haadam vahai bahem veet-șabtotai hilelu meod vaomar lișpoch hamati aleihem bamidbar lechalotam.",
+    "tokens": [
+     {
+      "t": "Dar casa lui Israel s-a răzvrătit împotriva Mea în deșert, nu au urmat decretele Mele și "
+     },
+     {
+      "t": "au respins",
+      "w": "au respins",
+      "heb": "מָאָסוּ",
+      "translit": "maasu",
+      "strong": "H3988",
+      "pos": "verb, qal, perfect, persoana a III-a plural",
+      "def_ro": "au lepădat, au disprețuit.",
+      "dict_ro": "Maas — „a respinge, a lepăda cu dispreț”, verbul folosit în blestemele din Levitic 26:15, 43 („dacă veți disprețui legile Mele”). Rashi enumeră răzvrătirile concrete din pustie: L-au ispitit cu vițelul, la Refidim au șovăit să primească Tora și au lăsat mană peste noapte; iar „Sabatele le-au pângărit” — unii din popor au ieșit să strângă mană în Sabat (Exod 16:27). Metzudat David explică „foarte”: în primul Sabat au ieșit după mană, iar în al doilea omul care strângea lemne l-a pângărit cu totul (Numeri 15:32)."
+     },
+     {
+      "t": " judecățile Mele pe care să le înfăptuiască omul și să trăiască prin ele, și Șabaturile Mele le-au pângărit mult. Și Mi-am spus că Îmi voi revărsa furia asupra lor în deșert, ca să îi nimicesc."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּמְרוּ־בִי בֵית־יִשְׂרָאֵל בַּמִּדְבָּר בְּחֻקּוֹתַי...",
+      "translation": "„Dar casa lui Israel s-a răzvrătit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπα πρὸς τὸν οἶκον τοῦ ᾿Ισραὴλ ἐν τῇ ἐρήμῳ· ἐν τοῖς προστάγμασί μου πορεύεσθε· καὶ οὐκ ἐπορεύθησαν καὶ τὰ δικαιώματά μου ἀπώσαντο, ἃ ποιήσει αὐτὰ ἄνθρωπος καὶ ζήσεται ἐν αὐτοῖς, καὶ τὰ σάββατά μου ἐβεβήλωσαν σφόδρα. καὶ εἶπα τοῦ ἐκχέαι τὸν θυμόν μου ἐπ’ αὐτοὺς ἐν τῇ ἐρήμῳ τοῦ ἐξαναλῶσαι αὐτούς.",
+      "greek": true,
+      "translation": "„Și am zis casei lui Israel în pustie: Umblați în poruncile Mele; dar n-au umblat, și rânduielile Mele le-au lepădat, pe care făcându-le omul va trăi prin ele, și Sabatele Mele le-au pângărit foarte. Și am zis să-Mi vărs mânia asupra lor în pustie, ca să-i nimicesc.”",
+      "note": "Septuaginta reformulează începutul: în loc de „s-a răzvrătit împotriva Mea”, are „am zis casei lui Israel în pustie: umblați în poruncile Mele; dar n-au umblat” — o divergență reală de structură."
+     }
+    ],
+    "refs": [
+     "Exod 16:28",
+     "Numeri 14:22",
+     "Psalmul 78:40,41",
+     "Numeri 15:31-36",
+     "Levitic 26:15,43",
+     "Psalmul 106:23"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „N-au umblat în decretele Mele” — M-au ispitit cu vițelul și la Refidim [șovăind] să primească Tora, și au lăsat din mană [până dimineața]. „Și Sabatele Mele le-au pângărit” — unii din popor au ieșit să strângă mană."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Pe care să le înfăptuiască omul” — ca și cum ar spune: deși decretele și judecățile sunt în stare să-l facă să trăiască pe omul care le împlinește, n-au ținut seama de ele. „Le-au pângărit mult” — căci în primul Sabat l-au pângărit, cum s-a spus: „în ziua a șaptea unii din popor au ieșit să strângă” (Exod 16:27), iar în al doilea Sabat l-a pângărit cel ce strângea lemne, cu dispreț."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „N-au umblat în decretele Mele” — pe care li le-a poruncit la Mara, cum scrie acolo: „acolo i-a dat o lege și o rânduială” (Exod 15:25). „Le-au pângărit mult” — căci chiar primul Sabat l-au pângărit, ieșind să strângă mană; de aceea a spus „mult”."
+     }
+    ]
+   },
+   {
+    "v": "20:14",
+    "t": "Dar am acționat de dragul numelui Meu, pentru ca el să nu fie pângărit în ochii neamurilor sub ochii cărora i-am scos [din Egipt].",
+    "heb": "וָאֶעֱשֶׂה לְמַעַן שְׁמִי לְבִלְתִּי הֵחֵל לְעֵינֵי הַגּוֹיִם אֲשֶׁר הוֹצֵאתִים לְעֵינֵיהֶם׃",
+    "translit": "Vaeese lemaan șemi levilti hehel leeinei hagoyim așer hotzetim leeineihem.",
+    "tokens": [
+     {
+      "t": "Dar am acționat de dragul numelui Meu, pentru ca el "
+     },
+     {
+      "t": "să nu fie pângărit",
+      "w": "să nu fie pângărit",
+      "heb": "לְבִלְתִּי הֵחֵל",
+      "translit": "levilti hehel",
+      "strong": "H2490",
+      "pos": "prepoziție negativă + verb, nifal, infinitiv construct",
+      "def_ro": "ca să nu fie profanat.",
+      "dict_ro": "Halal, la nifal — „a fi profanat, pângărit”; pângărirea Numelui (hilul Hașem) e opusul sfințirii lui, ideea centrală a acestui capitol. Metzudat David precizează cine ar fi vorbit: egiptenii, sub ochii cărora ieșiseră, ar fi spus că DOMNUL n-a fost în stare să-i aducă în Canaan și de aceea i-a nimicit în pustie — de aceea Dumnezeu i-a cruțat și a doua oară."
+     },
+     {
+      "t": " în ochii neamurilor sub ochii cărora i-am scos [din Egipt]."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֶעֱשֶׂה לְמַעַן שְׁמִי לְבִלְתִּי...",
+      "translation": "„Dar am acționat de dragul numelui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐποίησα ὅπως τὸ ὄνομά μου τὸ παράπαν μὴ βεβηλωθῇ ἐνώπιον τῶν ἐθνῶν, ὧν ἐξήγαγον αὐτοὺς κατ’ ὀφθαλμοὺς αὐτῶν.",
+      "greek": true,
+      "translation": "„Și am lucrat așa încât numele Meu să nu fie deloc pângărit înaintea neamurilor din mijlocul cărora i-am scos înaintea ochilor lor.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ezechiel 20:9,22",
+     "Ezechiel 36:22,23",
+     "Efeseni 1:6,12"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Să nu fie pângărit” — ca să nu fie pângărit în ochii neamurilor sub ochii cărora i-am scos pe Israel, adică egiptenii; căci așa ar fi spus: pentru că DOMNUL n-a putut să-i aducă în țara Canaanului, i-a nimicit în pustie."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hehel” — din „pângărire”."
+     }
+    ]
+   },
+   {
+    "v": "20:15",
+    "t": "Dar totodată, le-am jurat în deșert să nu îi aduc în țara pe care le-am dat-o lor, în care curge lapte și miere, ea fiind o splendoare pentru toate țările.",
+    "heb": "וְגַם־אֲנִי נָשָׂאתִי יָדִי לָהֶם בַּמִּדְבָּר לְבִלְתִּי הָבִיא אוֹתָם אֶל־הָאָרֶץ אֲשֶׁר־נָתַתִּי זָבַת חָלָב וּדְבַשׁ צְבִי הִיא לְכָל־הָאֲרָצוֹת׃",
+    "translit": "Vegam-ani nasati yadi lahem bamidbar levilti havi otam el-haaretz așer-natati zavat halav udevash tzvi hi lechol-haaratzot.",
+    "tokens": [
+     {
+      "t": "Dar totodată, "
+     },
+     {
+      "t": "le-am jurat",
+      "w": "le-am jurat",
+      "heb": "נָשָׂאתִי יָדִי",
+      "translit": "nasati iadi",
+      "strong": "H5375",
+      "pos": "verb, qal, perfect, persoana I singular + substantiv cu sufix",
+      "def_ro": "Mi-am ridicat mâna [în jurământ], am jurat.",
+      "dict_ro": "Nasa iad — aceeași expresie a jurământului ca în 20:5, dar acum întoarsă împotriva lor: Dumnezeu, care jurase să-i aducă în Țară, jură acum că nu-i va aduce. Metzudat David și Radak identifică momentul: păcatul iscoadelor, când s-a hotărât ca generația pustiei să nu intre în Țară — „dar viu sunt Eu... niciunul dintre oamenii aceștia nu va vedea țara” (Numeri 14:21-23)."
+     },
+     {
+      "t": " în deșert să nu îi aduc în țara pe care le-am dat-o lor, în care curge lapte și miere, ea fiind o splendoare pentru toate țările."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְגַם־אֲנִי נָשָׂאתִי יָדִי לָהֶם...",
+      "translation": "„Dar totodată, le-am jurat în deșert...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγὼ ἐξῇρα τὴν χεῖρά μου ἐπ’ αὐτοὺς ἐν τῇ ἐρήμῳ τὸ παράπαν τοῦ μὴ εἰσαγαγεῖν αὐτοὺς εἰς τὴν γῆν, ἣν ἔδωκα αὐτοῖς, γῆν ρέουσαν γάλα καὶ μέλι, κηρίον ἐστὶ παρὰ πᾶσαν τὴν γῆν,",
+      "greek": true,
+      "translation": "„Și Eu Mi-am ridicat mâna asupra lor în pustie, ca nicidecum să nu-i aduc în țara pe care le-am dat-o, țară în care curge lapte și miere; fagure de miere este ea peste tot pământul,”",
+      "note": "Septuaginta redă din nou „splendoare” (țevi) prin „fagure de miere” (κηρίον), ca la 20:6."
+     }
+    ],
+    "refs": [
+     "Numeri 14:23-30",
+     "Numeri 26:64,65",
+     "Deuteronom 1:34,35",
+     "Psalmul 95:11",
+     "Evrei 3:11",
+     "Psalmul 106:26"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Le-am jurat” — Mi-am ridicat mâna în jurământ asupra lor. „Să nu îi aduc” — aceasta a fost din pricina păcatului iscoadelor, căci atunci s-a hotărât asupra lor să nu intre în Țară."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și Eu Mi-am ridicat mâna împotriva lor” — la întâmplarea cu iscoadele, când a spus: „dar viu sunt Eu, și slava DOMNULUI va umple tot pământul” (Numeri 14:21)."
+     }
+    ]
+   },
+   {
+    "v": "20:16",
+    "t": "Căci Mi-au respins judecățile și nu au urmat decretele Mele, Mi-au pângărit Șabaturile, căci inima lor merge după idolii lor.",
+    "heb": "יַעַן בְּמִשְׁפָּטַי מָאָסוּ וְאֶת־חֻקּוֹתַי לֹא־הָלְכוּ בָהֶם וְאֶת־שַׁבְּתוֹתַי חִלֵּלוּ כִּי אַחֲרֵי גִלּוּלֵיהֶם לִבָּם הֹלֵךְ׃",
+    "translit": "Yaan bemișpatai maasu veet-hukotai lo-halchu vahem veet-șabtotai hilelu ki aharei giluleihem libam holech.",
+    "tokens": [
+     {
+      "t": "Căci Mi-au respins judecățile și nu au urmat decretele Mele, Mi-au pângărit Șabaturile, căci inima lor merge după "
+     },
+     {
+      "t": "idolii lor",
+      "w": "idolii lor",
+      "heb": "גִּלּוּלֵיהֶם",
+      "translit": "ghiluleihem",
+      "strong": "H1544",
+      "pos": "substantiv, masculin plural + sufix persoana a III-a plural",
+      "def_ro": "idolii lor.",
+      "dict_ro": "Ghilulim — idolii (cuvântul disprețuitor preferat de Ezechiel); Metzudat David precizează că e vorba de idolii pe care îi slujiseră în Egipt. Expresia „inima lor merge după idolii lor” completează imaginea din 20:7, unde păcatul pornea de la ochi: acum inima însăși a luat-o pe urma lor — cei doi „agenți ai păcatului” despre care vorbea Rabi Levi."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יַעַן בְּמִשְׁפָּטַי מָאָסוּ וְאֶת־חֻקּוֹתַי...",
+      "translation": "„Căci Mi-au respins judecățile și nu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀνθ’ ὧν τὰ δικαιώματά μου ἀπώσαντο καὶ ἐν τοῖς προστάγμασί μου οὐκ ἐπορεύθησαν ἐν αὐτοῖς καὶ τὰ σάββατά μου ἐβεβήλουν καὶ ὀπίσω τῶν ἐνθυμημάτων καρδίας αὐτῶν ἐπορεύοντο.",
+      "greek": true,
+      "translation": "„pentru că rânduielile Mele le-au lepădat și în poruncile Mele n-au umblat și Sabatele Mele le pângăreau și mergeau după născocirile inimii lor.”",
+      "note": "Septuaginta redă „idolii lor” prin „născocirile inimii lor” (ἐνθυμημάτων καρδίας), evitând din nou numirea directă a idolilor."
+     }
+    ],
+    "refs": [
+     "Ezechiel 20:13,14",
+     "Exod 32:1-8",
+     "Numeri 15:39",
+     "Numeri 25:2",
+     "Amos 5:25,26",
+     "Faptele Apostolilor 7:39-43"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„După idolii lor” — după idolii pe care îi slujiseră în Egipt."
+     }
+    ]
+   },
+   {
+    "v": "20:17",
+    "t": "Dar ochiului Meu i s-a făcut milă de ei, nedistrugându-i, și nu i-am făcut să se sfârșească în deșert.",
+    "heb": "וַתָּחָס עֵינִי עֲלֵיהֶם מִשַּׁחֲתָם וְלֹא־עָשִׂיתִי אוֹתָם כָּלָה בַּמִּדְבָּר׃",
+    "translit": "Vatahas eini aleihem mișahatam velo-asiti otam kala bamidbar.",
+    "tokens": [
+     {
+      "t": "Dar ochiului Meu "
+     },
+     {
+      "t": "i s-a făcut milă",
+      "w": "i s-a făcut milă",
+      "heb": "וַתָּחָס",
+      "translit": "vatahos",
+      "strong": "H2347",
+      "pos": "verb, qal, imperfect consecutiv, persoana a III-a feminin singular",
+      "def_ro": "a cruțat, i s-a făcut milă.",
+      "dict_ro": "Hus — „a cruța, a avea milă”, spus de obicei despre ochi („să nu-ți cruțe ochiul”, Deuteronom 7:16), de unde și formularea neobișnuită „ochiului Meu i s-a făcut milă”. Metzudat David explică: meritaseră nimicirea totală, dar ochiul Meu i-a cruțat; iar Radak arată în ce a constat mila — i-a lăsat pe copiii lor după ei, ca să-i aducă pe aceștia în Țară."
+     },
+     {
+      "t": " de ei, nedistrugându-i, și nu i-am făcut să se sfârșească în deșert."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתָּחָס עֵינִי עֲלֵיהֶם מִשַּׁחֲתָם...",
+      "translation": "„Dar ochiului Meu i s-a făcut...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐφείσατο ὁ ὀφθαλμός μου ἐπ’ αὐτοὺς τοῦ ἐξαλεῖψαι αὐτοὺς καὶ οὐκ ἐποίησα αὐτοὺς εἰς συντέλειαν ἐν τῇ ἐρήμῳ.",
+      "greek": true,
+      "translation": "„Și ochiul Meu i-a cruțat, ca să nu-i șterg, și nu i-am făcut să piară de tot în pustie.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Neemia 9:19",
+     "Psalmul 78:37,38",
+     "Ieremia 4:27",
+     "Ieremia 5:18"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„I s-a făcut milă” — adică erau vrednici chiar de nimicire, dar ochiul Meu i-a cruțat, ca să nu-i distrug, și de aceea nu i-am sfârșit în pustie."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și nu i-am făcut să se sfârșească” — căci le-am lăsat pe copiii lor după ei, ca să-i aduc în Țară."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vatahos” — din cruțare și milă."
+     }
+    ]
+   },
+   {
+    "v": "20:18",
+    "t": "Ci le-am spus copiilor lor în deșert: ‘Nu urmați judecățile părinților voștri, nu păziți decretele lor și nu vă pângăriți prin idolii lor.",
+    "heb": "וָאֹמַר אֶל־בְּנֵיהֶם בַּמִּדְבָּר בְּחוּקֵּי אֲבוֹתֵיכֶם אַל־תֵּלֵכוּ וְאֶת־מִשְׁפְּטֵיהֶם אַל־תִּשְׁמֹרוּ וּבְגִלּוּלֵיהֶם אַל־תִּטַּמָּאוּ׃",
+    "translit": "Vaomar el-beneihem bamidbar behukei avoteichem al-telechu veet-mișpeteihem al-tișmoru uvegiluleihem al-titamu.",
+    "tokens": [
+     {
+      "t": "Ci le-am spus "
+     },
+     {
+      "t": "copiilor lor",
+      "w": "copiilor lor",
+      "heb": "בְּנֵיהֶם",
+      "translit": "beneihem",
+      "strong": "H1121",
+      "pos": "substantiv, masculin plural + sufix persoana a III-a plural",
+      "def_ro": "fiii, copiii lor.",
+      "dict_ro": "Banim — fiii, a doua generație a pustiei, cea care urma să intre în Țară (Metzudat David). Îndemnul „nu urmați judecățile părinților voștri” răstoarnă respectul obișnuit față de tradiția părinților: când aceasta e idolatrie, fidelitatea față de părinți devine păcat — Metzudat David precizează că e vorba de „decretele pe care le-au născocit din inima lor, pe care DOMNUL nu le-a poruncit”."
+     },
+     {
+      "t": " în deșert: ‘Nu urmați judecățile părinților voștri, nu păziți decretele lor și nu vă pângăriți prin idolii lor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֹמַר אֶל־בְּנֵיהֶם בַּמִּדְבָּר בְּחוּקֵּי...",
+      "translation": "„Ci le-am spus copiilor lor în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπα πρὸς τὰ τέκνα αὐτῶν ἐν τῇ ἐρήμῳ· ἐν τοῖς νομίμοις τῶν πατέρων ὑμῶν μὴ πορεύεσθε καὶ τὰ δικαιώματα αὐτῶν μὴ φυλάσσεσθε καὶ ἐν τοῖς ἐπιτηδεύμασιν αὐτῶν μὴ συναναμίσγεσθε καὶ μὴ μιαίνεσθε.",
+      "greek": true,
+      "translation": "„Și am zis copiilor lor în pustie: În obiceiurile părinților voștri să nu umblați și rânduielile lor să nu le păziți și cu născocirile lor să nu vă amestecați și să nu vă pângăriți.”",
+      "note": "Septuaginta adaugă „să nu vă amestecați” (μὴ συναναμίσγεσθε) și redă „idolii lor” prin „născocirile lor”."
+     }
+    ],
+    "refs": [
+     "Numeri 14:32,33",
+     "Deuteronom 4:3-6",
+     "Psalmul 78:6-8",
+     "Zaharia 1:2-4",
+     "1 Petru 1:18",
+     "Ieremia 2:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Copiilor lor” — fiii generației care ieșise din Egipt, ei sunt cei care au intrat în Țară. „Judecățile părinților voștri” — pe care le-au născocit din inima lor, pe care DOMNUL nu le-a poruncit."
+     }
+    ]
+   },
+   {
+    "v": "20:19",
+    "t": "Eu sunt DOMNUL, Dumnezeul vostru. Urmați decretele Mele, păziți judecățile Mele și înfăptuiți-le.",
+    "heb": "אֲנִי יְהוָה אֱלֹהֵיכֶם בְּחֻקּוֹתַי לֵכוּ וְאֶת־מִשְׁפָּטַי שִׁמְרוּ וַעֲשׂוּ אוֹתָם׃",
+    "translit": "Ani ADONAI Eloheichem behukotai lechu veet-mișpatai șimru vaasu otam.",
+    "tokens": [
+     {
+      "t": "Eu sunt DOMNUL, Dumnezeul vostru. Urmați "
+     },
+     {
+      "t": "decretele Mele",
+      "w": "decretele Mele",
+      "heb": "בְּחֻקּוֹתַי",
+      "translit": "behukotai",
+      "strong": "H2708",
+      "pos": "prepoziție + substantiv, feminin plural + sufix persoana I",
+      "def_ro": "rânduielile, decretele Mele.",
+      "dict_ro": "Hukot — rânduielile, decretele (de la hakak, „a grava, a sculpta”), opuse în versetul precedent „decretelor părinților”; e același cuvânt care deschide pericopa Behukotai („dacă veți umbla în decretele Mele”, Levitic 26:3). Metzudat David leagă îndemnul de afirmația de început: „Eu sunt DOMNUL, Dumnezeul vostru” — de aceea să asculte de Mine, să umble în decretele Mele și să le păzească în inima lor."
+     },
+     {
+      "t": ", păziți judecățile Mele și înfăptuiți-le."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אֲנִי יְהוָה אֱלֹהֵיכֶם בְּחֻקּוֹתַי...",
+      "translation": "„Eu sunt DOMNUL, Dumnezeul vostru. Urmați...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐγὼ Κύριος ὁ Θεὸς ὑμῶν, ἐν τοῖς προστάγμασί μου πορεύεσθε καὶ τὰ δικαιώματά μου φυλάσσεσθε, καὶ ποιεῖτε αὐτά·",
+      "greek": true,
+      "translation": "„Eu sunt Domnul Dumnezeul vostru; în poruncile Mele umblați și rânduielile Mele păziți-le și faceți-le,”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 20:2,3",
+     "Deuteronom 5:6,7",
+     "Ezechiel 36:27",
+     "Deuteronom 4:1",
+     "Psalmul 19:7-11",
+     "Tit 2:11-14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Eu sunt DOMNUL, Dumnezeul vostru” — și de aceea să Mă asculte: umblați în decretele Mele și păziți judecățile Mele în inima voastră și împliniți-le."
+     }
+    ]
+   },
+   {
+    "v": "20:20",
+    "t": "Sfințiți Șabaturile Mele și ele vor fi un semn între Mine și voi, să știți că Eu sunt DOMNUL, Dumnezeul vostru.’»”",
+    "heb": "וְאֶת־שַׁבְּתוֹתַי קַדֵּשׁוּ וְהָיוּ לְאוֹת בֵּינִי וּבֵינֵיכֶם לָדַעַת כִּי אֲנִי יְהוָה אֱלֹהֵיכֶם׃",
+    "translit": "Veet-șabtotai kadeșu vehayu leot beini uveineichem ladaat ki ani ADONAI Eloheichem.",
+    "tokens": [
+     {
+      "t": "Sfințiți",
+      "w": "Sfințiți",
+      "heb": "קַדֵּשׁוּ",
+      "translit": "kadeșu",
+      "strong": "H6942",
+      "pos": "verb, piel, imperativ, masculin plural",
+      "def_ro": "sfințiți, țineți sfânt.",
+      "dict_ro": "Kadeș, la forma piel — „a sfinți, a trata ca sfânt”; aceeași rădăcină ca Kedoșim („sfinți”), numele pericopei, ceea ce face din acest verset încheierea firească a haftarei sefarde. Haftara se încheie cu porunca Sabatului ca „semn”, reluând 20:12 — dar acum ca îndemn adresat noii generații, care are încă posibilitatea să aleagă altfel decât părinții ei."
+     },
+     {
+      "t": " Șabaturile Mele și ele vor fi un semn între Mine și voi, să știți că Eu sunt DOMNUL, Dumnezeul vostru.’»”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־שַׁבְּתוֹתַי קַדֵּשׁוּ וְהָיוּ לְאוֹת...",
+      "translation": "„Sfințiți Șabaturile Mele și ele vor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τὰ σάββατά μου ἁγιάζετε, καὶ ἔστω εἰς σημεῖον ἀνὰ μέσον ἐμοῦ καὶ ὑμῶν τοῦ γινώσκειν διότι ἐγὼ Κύριος ὁ Θεὸς ὑμῶν.",
+      "greek": true,
+      "translation": "„și Sabatele Mele sfințiți-le, și să fie semn între Mine și voi, ca să cunoașteți că Eu sunt Domnul Dumnezeul vostru.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ezechiel 20:12",
+     "Exod 31:13-17",
+     "Isaia 58:13",
+     "Ieremia 17:22,24,27",
+     "Neemia 13:15-22"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și ele vor fi un semn” — ca să fie un semn."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
