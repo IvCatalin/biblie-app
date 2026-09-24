@@ -30579,6 +30579,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "rod, roadă.",
       "dict_ro": "Tenuvah, „rod, produs [al pământului]” — cuvânt rar, folosit tot în context de belșug agricol la Plângeri 4:9 (invers, despre lipsa rodului în asediu). Aici încheie lanțul vegetal al versetului (rădăcină → mugur → floare → rod), o imagine completă de restaurare organică."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -30761,6 +30764,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "vânt de răsărit.",
       "dict_ro": "Kadim, „vânt de răsărit” — în geografia Israelului, un vânt fierbinte, uscat, venit dinspre deșert, simbol biblic constant al judecății divine aspre (Exodul 10:13, vântul care aduce lăcustele; Exodul 14:21, vântul care desparte Marea Roșie). Rashi leagă explicit acest vânt de cel care a despărțit apele la Ieșirea din Egipt."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -30885,6 +30891,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "se vor ridica, vor sta în picioare.",
       "dict_ro": "Rădăcina qum, „a se ridica, a sta în picioare” — la negativ, promisiunea fermă că aceste obiecte idolatre nu vor mai „sta în picioare”, adică nu vor mai fi refăcute după distrugere."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -30961,6 +30970,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "pustiu, deșert.",
       "dict_ro": "Midbar, „pustiu” — de la rădăcina davar, „a vorbi”, posibil legat de ideea unui loc „nelocuit”, gol. Imaginea unei cetăți fortificate reduse la starea unui pustiu revine des la profeți ca simbol al judecății divine asupra mândriei umane (cf. Isaia 13:19-22, despre Babilon)."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -31118,7 +31130,7 @@
    },
    {
     "v": "27:12",
-    "t": "Și va fi, în ziua aceea, că DOMNUL va treiera de la râul [Eufratului] și până la fluviul Egiptului și veți fi adunați, unul câte unul, copiii ai lui Israel.",
+    "t": "Și va fi, în ziua aceea, că DOMNUL va treiera de la râul [Eufratului] și până la fluviul Egiptului și veți fi adunați, unul câte unul, copii ai lui Israel.",
     "heb": "וְהָיָה בַּיּוֹם הַהוּא יַחְבֹּט יְהוָה מִשִּׁבֹּלֶת הַנָּהָר עַד־נַחַל מִצְרַיִם וְאַתֶּם תְּלֻקְּטוּ לְאַחַד אֶחָד בְּנֵי יִשְׂרָאֵל׃",
     "translit": "Ve-hayah ba-yom ha-hu yachbot Adonai mi-shibbolet ha-nahar ad-nachal Mitsrayim ve-attem telukketu le-achad echad benei Yisra'el.",
     "tokens": [
@@ -31175,7 +31187,7 @@
       "dict_ro": "Rădăcina lakat, „a culege, a strânge” — folosită de obicei pentru culesul spicelor rămase după seceriș (cf. Rut 2:2). Israel exilat e comparat cu spicele risipite, adunate acum, una câte una, cu aceeași grijă cu care se culege rodul rămas pe câmp."
      },
      {
-      "t": ", unul câte unul, copiii ai lui Israel."
+      "t": ", unul câte unul, copii ai lui Israel."
      }
     ],
     "textCompare": [
@@ -31274,6 +31286,9 @@
       "pos": "nume propriu",
       "def_ro": "în Ierusalim.",
       "dict_ro": "Ierusalimul încheie capitolul ca punct final de întoarcere al tuturor exilaților — de la risipirea extremă (Asiria, Egipt, capetele lumii cunoscute) la unitatea centrală a închinării pe „muntele cel sfânt”."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -31383,6 +31398,9 @@
       "pos": "verb, qal pasiv participiu",
       "def_ro": "loviți, doborâți de vin.",
       "dict_ro": "Rădăcina halam, „a lovi, a doborî cu o lovitură” — participiul pasiv descrie efectul devastator al vinului asupra conducătorilor lui Efraim, ca și cum ar fi fost loviți fizic, nu doar amețiți."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -31481,6 +31499,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "cu mâna, cu forța.",
       "dict_ro": "Yad, „mână” — folosit idiomatic pentru „forță, putere”, la fel ca „mâna tare” a lui Dumnezeu în relatarea Exodului (Exodul 13:9) — un alt ecou din limbajul robiei și izbăvirii din Egipt, aplicat aici judecății asupra lui Efraim."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -31553,6 +31574,9 @@
       "pos": "substantiv, masculin plural construct",
       "def_ro": "bețivii lui Efraim.",
       "dict_ro": "Vezi nota de la 28:1 — repetiția aproape verbatim a versetului 1 marchează structura poetică a pasajului, un ecou intenționat care subliniază implacabilitatea judecății anunțate."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -31590,8 +31614,8 @@
       "t": "Iar floarea ofilită, frumusețea splendorii de pe cap, o vale a untdelemnurilor, va fi ca o "
      },
      {
-      "t": "smochină timpurie",
-      "w": "smochină timpurie",
+      "t": "smochină",
+      "w": "smochină",
       "heb": "בִּכּוּרָהּ",
       "translit": "bikkurah",
       "strong": "H1063",
@@ -31624,6 +31648,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "o înghite.",
       "dict_ro": "Rădăcina bala, „a înghiți” — imaginea rapidității nimicirii: la fel de repede cum e văzută, culeasă și mâncată o smochină timpurie, tot atât de repede va dispărea „splendoarea” lui Efraim — fără luptă, fără rezistență."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -31885,6 +31912,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "judecata, sentința.",
       "dict_ro": "Pelilyah, „judecată, sentință” — cuvânt rar, de la aceeași rădăcină ca palil, „judecător”. Judecata pervertită prin beție e efectul final, practic, al șirului de eșecuri morale descrise în verset — de la percepție (viziune) la acțiune (judecată dreaptă)."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -32068,6 +32098,9 @@
       "pos": "adjectiv, masculin plural",
       "def_ro": "cei mutați/luați de la sân.",
       "dict_ro": "Atik, „mutat, îndepărtat [de la]” — completează imaginea batjocoritoare a pruncilor abia înțărcați, ținta ironică a conducătorilor lui Efraim, care resping mesajul lui Isaia ca fiind bun doar pentru copii mici."
+     },
+     {
+      "t": "?"
      }
     ],
     "textCompare": [
@@ -32139,6 +32172,9 @@
       "pos": "adjectiv/adverb",
       "def_ro": "puțin aici, puțin acolo.",
       "dict_ro": "Ze'eir, „puțin, mic” — cuvânt rar, folosit doar de câteva ori în tot Tanahul, întărind aici ideea unei învățături date fragmentat, bucată cu bucată, fie ca metodă pedagogică disprețuită, fie — în lectura versetului 13 — ca formă a pedepsei ce se abate treptat, dar sigur."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -32168,12 +32204,12 @@
    },
    {
     "v": "28:11",
-    "t": "căci prin buze nedeslușite și într-o altă limbă poate cineva vorbi acestui popor,",
+    "t": "Căci prin buze nedeslușite și într-o altă limbă poate cineva vorbi acestui popor,",
     "heb": "כִּי בְּלַעֲגֵי שָׂפָה וּבְלָשׁוֹן אַחֶרֶת יְדַבֵּר אֶל־הָעָם הַזֶּה׃",
     "translit": "Ki be-la'agei safah u-ve-lashon acheret yedabber el-ha-am ha-zeh.",
     "tokens": [
      {
-      "t": "căci prin "
+      "t": "Căci prin "
      },
      {
       "t": "buze nedeslușite",
@@ -32206,7 +32242,7 @@
      {
       "source": "Textul Masoretic (ebraică)",
       "original": "כִּי בְּלַעֲגֵי שָׂפָה וּבְלָשׁוֹן אַחֶרֶת יְדַבֵּר אֶל־הָעָם הַזֶּה׃",
-      "translation": "„căci prin buze nedeslușite și într-o altă limbă...” — traducerea rabinului Rosen.",
+      "translation": "„Căci prin buze nedeslușite și într-o altă limbă...” — traducerea rabinului Rosen.",
       "note": ""
      },
      {
@@ -32275,6 +32311,9 @@
       "pos": "verb, qal infinitiv",
       "def_ro": "să asculte.",
       "dict_ro": "Rădăcina shama, „a auzi, a asculta” — refuzul final, explicit, încheie secțiunea: oferta de odihnă a fost limpede exprimată, dar respinsă din voință proprie, nu din neînțelegere — vina cade direct asupra poporului, nu asupra clarității mesajului."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -32360,6 +32399,9 @@
       "pos": "verb, nifal perfect",
       "def_ro": "vor fi prinși în capcană și capturați.",
       "dict_ro": "Rădăcina yakosh, „a prinde în capcană/laț”, alături de lakad, „a captura” — imaginea vânătorii încheie capitolul: poporul, care a respins avertismentul ca fiind bun doar pentru copii, ajunge el însuși ca vânatul prins în capcană."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -32458,6 +32500,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "va păli, va deveni palidă.",
       "dict_ro": "Rădăcina chaver, „a păli, a deveni alb” — cuvânt rar, folosit doar aici în tot Tanahul; Rashi îl leagă de „bunicul său” [Isaac] — nu se va mai găsi nimic necurat în patul lui Isaac, patul lui fiind „întreg/desăvârșit” [prin faptul că toți fiii lui au rămas în legământ, spre deosebire de Avraam, cu Ismael]."
+     },
+     {
+      "t": ","
      }
     ],
     "textCompare": [
@@ -32569,6 +32614,9 @@
       "pos": "verb, hifil imperfect",
       "def_ro": "vor privi cu teamă sfântă, vor preaslăvi.",
       "dict_ro": "Rădăcina arats, „a se teme [cu venerație], a privi cu cutremur sfânt” — încheie capitolul cu nota emoțională a cinstirii pline de teamă reverențială, nu doar admirație abstractă, față de Dumnezeul lui Israel."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -32676,6 +32724,9 @@
       "pos": "nume propriu",
       "def_ro": "Beniamin.",
       "dict_ro": "Binyamin — triburile Iuda și Beniamin formau împreună regatul de sud după despărțirea regatului (1 Regi 12); localizarea geografică precisă din primul verset ancorează profeția lui Ieremia ferm în istoria politică reală a lui Iuda, nu într-un cadru vag, atemporal."
+     },
+     {
+      "t": ","
      }
     ],
     "textCompare": [
@@ -32738,7 +32789,7 @@
       "dict_ro": "Yoshiyahu, „DOMNUL sprijină/vindecă” — regele reformator care a curățat cultul idolatru din Iuda (2 Regi 22-23); chemarea lui Ieremia are loc în timpul acestei reforme, sub un rege drept, deși prăbușirea națională avea să vină curând după moartea lui."
      },
      {
-      "t": ", în cel de-al "
+      "t": ", fiul lui Amon, regele lui Iuda, în cel de-al "
      },
      {
       "t": "treisprezecelea an",
@@ -32749,6 +32800,9 @@
       "pos": "numeral",
       "def_ro": "în anul al treisprezecelea.",
       "dict_ro": "Anul al treisprezecelea al lui Ioșia (aprox. 627 î.Hr.) — datare istorică precisă, plasând începutul misiunii lui Ieremia cu aproximativ cinci ani înainte de descoperirea Cărții Legii în Templu (2 Regi 22:8, anul al optsprezecelea)."
+     },
+     {
+      "t": " al domniei sale."
      }
     ],
     "textCompare": [
@@ -32797,7 +32851,7 @@
       "dict_ro": "Yehoyakim, „DOMNUL ridică/stabilește” — fiul lui Ioșia, instalat rege de Faraonul Neco (2 Regi 23:34), cunoscut pentru ostilitatea lui față de Ieremia, ajungând să ardă sulul profetic al lui Ieremia (Ieremia 36:23)."
      },
      {
-      "t": ", regele lui Iuda, până la sfârșitul celui de-al unsprezecelea an al lui "
+      "t": ", fiul lui Ioșiahu, regele lui Iuda, până la sfârșitul celui de-al unsprezecelea an al lui "
      },
      {
       "t": "Țedekia",
@@ -32810,7 +32864,7 @@
       "dict_ro": "Tsidkiyahu, „DOMNUL e dreptatea mea” — ultimul rege al lui Iuda dinaintea distrugerii Templului; anul al unsprezecelea al domniei lui marchează sfârșitul cronologic al activității profetice principale a lui Ieremia, în anul căderii Ierusalimului."
      },
      {
-      "t": ", regele lui Iuda, până când "
+      "t": ", fiul lui Ioșiahu, regele lui Iuda, până când "
      },
      {
       "t": "Ierusalimul",
@@ -32883,6 +32937,9 @@
       "pos": "verb, qal infinitiv",
       "def_ro": "zicând, spunând.",
       "dict_ro": "Lemor, formula standard de introducere a vorbirii directe divine — de aici, textul trece de la introducerea biografică/istorică (v.1-3) la relatarea propriu-zisă, la persoana întâi, a chemării profetice."
+     },
+     {
+      "t": ":"
      }
     ],
     "textCompare": [
@@ -32910,7 +32967,7 @@
     "translit": "Be-terem etsorkha va-beten yeda'tikha u-ve-terem tetse me-rechem hikdashtikha navi la-goyim netatikha.",
     "tokens": [
      {
-      "t": "Înainte să te fi "
+      "t": "„Înainte să te fi "
      },
      {
       "t": "plăsmuit",
@@ -32986,6 +33043,9 @@
       "pos": "substantiv, masculin plural",
       "def_ro": "neamuri, popoare.",
       "dict_ro": "Goyim, „neamuri, națiuni” — termen ambiguu, discutat de Rashi (vezi nota anterioară): poate desemna fie națiunile păgâne propriu-zise, fie, ironic, pe Israel însuși, atunci când se poartă „ca neamurile”."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -33060,6 +33120,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "tânăr, băiat.",
       "dict_ro": "Na'ar, „tânăr” — Rashi explică obiecția lui Ieremia nu ca pe o chestiune de vârstă cronologică strictă, ci de autoritate morală: „nu sunt vrednic să-i mustru” — spre deosebire de Moise, ale cărui minuni (Ieșirea din Egipt, despărțirea mării, mana) îi câștigaseră deja autoritatea în ochii poporului."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -33195,6 +33258,9 @@
       "pos": "substantiv, masculin construct",
       "def_ro": "rostirea/spusa DOMNULUI.",
       "dict_ro": "Ne'um, „rostire, oracol” — formulă de sigilare a unei declarații divine solemne, folosită de peste 175 de ori în Ieremia (mai des decât în orice altă carte biblică) — o marcă stilistică a acestui profet."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -33409,6 +33475,9 @@
       "pos": "verb, qal infinitiv",
       "def_ro": "să plantezi.",
       "dict_ro": "Rădăcina nata, „a planta” — încheie versetul-program al întregii cărți cu o notă de speranță, imaginea plantării fiind centrală și în promisiunea Noului Legământ de mai târziu (Ieremia 31:28, unde aceleași șase verbe revin aproape identic)."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -33468,6 +33537,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "migdal.",
       "dict_ro": "Shaked, „migdal” — pomul de migdal e primul care înflorește primăvara în Israel, adesea în ianuarie-februarie, înaintea tuturor celorlalți pomi. Numele lui derivă din aceeași rădăcină ca verbul din versetul următor, shoked, „a fi treaz, vigilent, grăbit” — jocul de cuvinte e intenționat și explicat direct de Dumnezeu la v.12."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -33516,7 +33588,7 @@
       "dict_ro": "Rădăcina shakad, „a fi treaz, a veghea, a se grăbi” — jocul de cuvinte cu shaked (migdal) de la v.11 e explicat aici direct: la fel cum migdalul se grăbește să înflorească înaintea tuturor pomilor, tot așa Dumnezeu „veghează, se grăbește” să-Și împlinească fără întârziere cuvântul rostit."
      },
      {
-      "t": " să-Mi împlinesc "
+      "t": " (n.t. joc de cuvinte cu substantivul „migdal” din versetul anterior) să-Mi împlinesc "
      },
      {
       "t": "cuvântul",
@@ -33586,6 +33658,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "spre nord.",
       "dict_ro": "Tsafon, „nord” — direcția din care venea, geografic, invazia babiloniană; Rashi identifică explicit „nordul” cu Babilonul, situat la nord de Israel pe rutele comerciale/militare obișnuite (deși geografic e mai degrabă la est) — o observație confirmată în Talmud (Ghitin 6a)."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -33645,6 +33720,9 @@
       "pos": "substantiv, masculin plural construct",
       "def_ro": "locuitorii țării.",
       "dict_ro": "Yoshvei ha-arets, „locuitorii țării” — desemnează întreaga populație a lui Iuda, fără excepție, subliniind amploarea universală a judecății anunțate, nu doar pedeapsa unei clase conducătoare izolate."
+     },
+     {
+      "t": ","
      }
     ],
     "textCompare": [
@@ -33805,6 +33883,9 @@
       "pos": "substantiv, masculin plural",
       "def_ro": "alți dumnezei.",
       "dict_ro": "Elohim acherim, „alți/străini dumnezei” — expresia idiomatică standard pentru idolatrie în toată Tora și literatura profetică, prima și cea mai gravă dintre poruncile Decalogului fiind tocmai interzicerea ei."
+     },
+     {
+      "t": " și s-au prosternat înaintea lucrării mâinilor lor."
      }
     ],
     "textCompare": [
@@ -34014,6 +34095,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "vor putea, vor izbuti.",
       "dict_ro": "Rădăcina yakhol, „a putea, a fi în stare” — garanția finală a chemării: opoziția va fi reală, dar nu va reuși niciodată să-l distrugă complet pe profet — o promisiune confirmată narativ de-a lungul întregii cărți, unde Ieremia suferă mult, dar supraviețuiește până la sfârșit."
+     },
+     {
+      "t": ", căci Eu sunt cu tine – rostirea DOMNULUI – ca să te salvez.”"
      }
     ],
     "textCompare": [
@@ -34127,6 +34211,9 @@
       "pos": "verb, qal pasiv participiu",
       "def_ro": "neînsămânțat.",
       "dict_ro": "Rădăcina zara, „a semăna” — la negativ, „neînsămânțat”, accentuând imposibilitatea materială a supraviețuirii prin mijloace obișnuite; încrederea lui Israel de a urma pe Dumnezeu într-un asemenea loc devine dovada supremă a iubirii lui timpurii."
+     },
+     {
+      "t": ".»"
      }
     ],
     "textCompare": [
@@ -34213,6 +34300,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "vor fi vinovați, vor purta vina.",
       "dict_ro": "Rădăcina asham, „a fi vinovat” — aceeași rădăcină ca korban asham, „jertfa pentru vină”, în Levitic; termen tehnic care confirmă gravitatea încălcării — atingerea a ceva sfânt, consacrat, aduce automat vinovăție rituală și morală asupra celui care o comite."
+     },
+     {
+      "t": ", răul se va abate asupra lor – rostirea DOMNULUI.”"
      }
     ],
     "textCompare": [
@@ -34604,7 +34694,7 @@
       "dict_ro": "Ye'or, termen tehnic egiptean împrumutat în ebraică pentru Nilul și canalele lui de irigație — cuvântul revine constant în tot oracolul (v.3-10), centrul simbolic al întregii economii și identități egiptene, pe care Faraon o revendică arogant ca proprie creație."
      },
      {
-      "t": ", cel care a spus: «Al meu este "
+      "t": ", cel care a spus: ‘Al meu este "
      },
      {
       "t": "râul",
@@ -34630,7 +34720,7 @@
       "dict_ro": "Rădăcina asah, „a face” — declarația supremă de auto-suficiență și auto-divinizare: Faraon nu doar respinge autoritatea lui Dumnezeu, ci pretinde literal că e propriul său creator, ecou direct al refuzului lui Faraon din Exod de a-L recunoaște pe DOMNUL (Exodul 5:2)."
      },
      {
-      "t": ".»"
+      "t": ".’"
      }
     ],
     "textCompare": [
@@ -34818,6 +34908,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "ca hrană, ca mâncare.",
       "dict_ro": "Okhlah, „hrană, mâncare” — sentința finală a imaginii: cel ce se pretindea propriul creator (v.3) ajunge, ironic, simplă hrană pentru fiare și păsări, cea mai joasă poziție posibilă în lanțul existenței."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -34864,6 +34957,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "toiag de trestie.",
       "dict_ro": "Mish'enet kaneh, „toiag de trestie” — imagine a unui sprijin fals, gata să se frângă sub greutate reală; același „toiag de trestie frântă” apare aproape identic la Isaia 36:6, în discursul lui Rabșache către Ezechia, avertizându-l explicit împotriva încrederii în alianța egipteană."
+     },
+     {
+      "t": " pentru casa lui Israel."
      }
     ],
     "textCompare": [
@@ -34997,6 +35093,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "om și animal.",
       "dict_ro": "Adam u-vehemah, „om și animal” — formulă standard care desemnează distrugerea totală, fără excepție, a întregii vieți dintr-un teritoriu, folosită constant în oracolele de judecată (cf. Ieremia 7:20, 21:6)."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -35040,7 +35139,7 @@
       "dict_ro": "Shemamah, „pustiire” — cuvânt pereche cu chorbah, „ruină, dărâmătură”, formulă dublă de intensificare folosită constant pentru descrierea judecăților divine devastatoare, aici anticipând deja tema centrală a restului capitolului: cei patruzeci de ani de pustiire totală (v.11-12)."
      },
      {
-      "t": " și ei vor ști că Eu sunt DOMNUL, din pricină că a spus: «Râul este al meu și eu am creat.»"
+      "t": ", și ei vor ști că Eu sunt DOMNUL, din pricină că a spus: ‘Râul este al meu și eu am creat.’"
      }
     ],
     "textCompare": [
@@ -35112,6 +35211,9 @@
       "pos": "nume propriu",
       "def_ro": "Cuș [Nubia/Etiopia].",
       "dict_ro": "Kush, regiunea de la sud de Egipt (aproximativ Nubia/Sudanul de astăzi) — hotarul sudic extrem, confirmând amploarea totală, de la un capăt geografic la celălalt, a pustiirii anunțate asupra întregului teritoriu egiptean."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -35183,6 +35285,9 @@
       "pos": "numeral",
       "def_ro": "patruzeci de ani.",
       "dict_ro": "Arba'im shanah, „patruzeci de ani” — numărul simbolic clasic al unei generații complete în Biblie (rătăcirea prin pustiu, Exodul 16:35; domnia lui David și Solomon), aici aplicat perioadei de pustiire a Egiptului, sugerând o pedeapsă temporară, deși severă, urmată sigur de restaurare."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -35385,6 +35490,9 @@
       "pos": "adjectiv, feminin",
       "def_ro": "regat smerit, umil.",
       "dict_ro": "Shafal, „jos, smerit, neînsemnat” — contrastul final și definitiv cu aroganța de la v.3 („eu m-am creat”): Egiptul va exista în continuare, dar niciodată nu va mai recăpăta statutul de mare putere dominantă — o umilire permanentă, nu doar o pedeapsă trecătoare."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -35713,7 +35821,7 @@
     "translit": "Lakhen koh amar Adonai Elohim hineni noten li-Nevukhadretsar melekh-Bavel et-erets Mitsrayim ve-nasa hamonah ve-shalal shelalah u-vazaz bizzah ve-hayetah sakhar le-cheilo.",
     "tokens": [
      {
-      "t": "De aceea, spune Stăpânul meu, Domnul DUMNEZEU: „Iată-Mă, îi voi da țara Egiptului lui Nabucodonosor, regele Babilonului, și el îi va duce "
+      "t": "De aceea, spune Stăpânul meu, Domnul DUMNEZEU: „Iată-Mă, îi voi da țara Egiptului lui Nabocodonosor, regele Babilonului, și el îi va duce "
      },
      {
       "t": "populația",
@@ -35811,6 +35919,9 @@
       "pos": "prepoziție cu sufix",
       "def_ro": "pentru Mine.",
       "dict_ro": "Remarcabilă declarația finală: efortul militar al lui Nabucodonosor împotriva Tirului, deși motivat politic și economic din perspectiva babiloniană, e reinterpretat teologic de Dumnezeu ca fiind făcut, în ultimă instanță, „pentru Mine” — confirmarea explicită a suveranității divine asupra istoriei, chiar și asupra acțiunilor unor conducători păgâni care nu-L cunosc și nu-L slujesc conștient."
+     },
+     {
+      "t": " – rostirea Stăpânului meu, Domnul DUMNEZEU."
      }
     ],
     "textCompare": [
@@ -36116,6 +36227,9 @@
       "pos": "verb, qal perfect",
       "def_ro": "l-a împins, l-a doborât.",
       "dict_ro": "Rădăcina hadaf, „a împinge, a respinge cu forța” — cauza reală a înfrângerii nu e superioritatea militară babiloniană, ci acțiunea directă a DOMNULUI Însuși, temă centrală a întregului oracol: Nabucodonosor e doar unealta vizibilă a unei judecăți orchestrate divin."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -36187,6 +36301,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "sabia opresivă/copleșitoare.",
       "dict_ro": "Expresie obscură și disputată: Rashi citează Targumul lui Ionatan, care leagă „ha-yonah” de „yayin” (vin) — „sabia dușmanului, care e ca vinul care amețește” —, dar oferă și o a doua lectură posibilă, legată de rădăcina yanah, „a asupri, a înșela”. LXX, la rândul ei, citește complet altfel (vezi nota din textCompare)."
+     },
+     {
+      "t": "!’"
      }
     ],
     "textCompare": [
@@ -36256,6 +36373,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "vremea rânduită, momentul potrivit.",
       "dict_ro": "Mo'ed, „vreme rânduită, termen fixat” — Rashi explică: Faraon fixase o dată anume pentru a ieși la luptă, dar n-a ieșit, iar acel termen a trecut fără acțiune (citând Talmudul, Mo'ed Katan 16a) — lăudăroșenia zgomotoasă (sha'on) contrastează dureros cu lipsa reală de curaj în momentul decisiv."
+     },
+     {
+      "t": ".’"
      }
     ],
     "textCompare": [
@@ -36325,6 +36445,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "va veni.",
       "dict_ro": "Rădăcina bo, „a veni” — verbul final, simplu, dar solemn, sigilat de jurământul divin „Viu sunt Eu” (chai-ani), formula cea mai puternică de garanție folosită în tot Tanahul pentru certitudinea absolută a unei profeții."
+     },
+     {
+      "t": "!"
      }
     ],
     "textCompare": [
@@ -36471,6 +36594,9 @@
       "pos": "verb, qal perfect",
       "def_ro": "vine, vine [cu repetiție de accent].",
       "dict_ro": "Repetiția verbului bo, „a veni”, e o tehnică poetică de intensificare a urgenței și inevitabilității — nu o simplă amenințare viitoare, ci un pericol deja pus în mișcare, apropiindu-se ireversibil."
+     },
+     {
+      "t": "!"
      }
     ],
     "textCompare": [
@@ -36555,6 +36681,9 @@
       "pos": "substantiv, feminin construct",
       "def_ro": "cercetarea/pedeapsa lor.",
       "dict_ro": "Pekuddah, „cercetare, vizitare [divină]” — termen tehnic pentru momentul judecății divine active, aceeași rădăcină pakad folosită constant la profeți pentru intervenția lui Dumnezeu în istorie."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -36639,6 +36768,9 @@
       "pos": "substantiv, masculin construct",
       "def_ro": "cei ce taie lemne, tăietori de lemne.",
       "dict_ro": "Chotev, „tăietor [de lemne]” — completează metafora forestieră: Egiptul, atât de mândru și de puternic în aparență, devine simplă „pădure” de tăiat, imagine sistematică a distrugerii metodice, nu haotice."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -36723,6 +36855,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "număr.",
       "dict_ro": "Mispar, „număr” — la negativ, „fără număr”, confirmă amploarea copleșitoare a forțelor babiloniene invadatoare, imposibil de estimat sau contracarat prin calcul militar obișnuit."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -36893,7 +37028,7 @@
    },
    {
     "v": "46:26",
-    "t": "Și îi voi da în mâna celor ce caută să le ia viețile și în mâna lui Nabucodonosor, regele Babilonului și în mâna slujitorilor lui. Dar apoi vei avea odihnă și în zilele de odinioară – rostirea DOMNULUI.»",
+    "t": "Și îi voi da în mâna celor ce caută să le ia viețile și în mâna lui Nabucodonosor, regele Babilonului și în mâna slujitorilor lui. Dar apoi vei avea odihnă ca în zilele de odinioară – rostirea DOMNULUI.»",
     "heb": "וּנְתַתִּים בְּיַד מְבַקְשֵׁי נַפְשָׁם וּבְיַד נְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל וּבְיַד־עֲבָדָיו וְאַחֲרֵי־כֵן תִּשְׁכֹּן כִּימֵי־קֶדֶם נְאֻם־יְהוָה׃",
     "translit": "U-netattim be-yad mevakshei nafsham u-ve-yad Nevukhadretsar melekh-Bavel u-ve-yad-avadav ve-acharei-khen tishkon ki-mei-kedem ne'um-Adonai.",
     "tokens": [
@@ -36924,7 +37059,7 @@
       "dict_ro": "Rădăcina shakhan, „a locui, a se așeza” — Rashi leagă acest cuvânt de restaurarea promisă la Ezechiel 29:13-14, „la capătul a patruzeci de ani”: chiar și judecata asupra Egiptului nu e definitivă și fără speranță, ci urmată de o revenire la stabilitate, „ca în zilele de odinioară”."
      },
      {
-      "t": " și în zilele de odinioară – rostirea DOMNULUI.»"
+      "t": " ca în zilele de odinioară – rostirea DOMNULUI.»"
      }
     ],
     "textCompare": [
@@ -37035,6 +37170,9 @@
       "pos": "verb, hifil participiu",
       "def_ro": "cel ce înspăimântă, face să tremure.",
       "dict_ro": "Rădăcina charad, „a tremura [de frică]” — formula finală, „nimeni nu-l va mai înspăimânta”, revine aproape identic în Mica 4:4 și în alte texte de restaurare mesianică, semn al unei păci absolute, garantate divin, nu doar temporare."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -37205,7 +37343,7 @@
       "dict_ro": "Rashi citește „eshet Lappidot” nu ca nume de soț, ci literal, „femeie a torțelor/fitilelor”: ea confecționa fitilele pentru candelabrul Templului din Șilo — o muncă smerită, aparent minoră, care devine simbol al slujirii ei constante, dinaintea chemării publice ca judecătoare."
      },
      {
-      "t": "; și ea era "
+      "t": " [pentru candelele din Templu]; și ea era "
      },
      {
       "t": "judecătoare",
@@ -37439,7 +37577,7 @@
       "dict_ro": "Hamon, „mulțime, gloată” — desemnează efectivul numeros al armatei cananeene, contrastat direct cu cei zece mii ai lui Barak (v.6) — promisiunea divină de victorie e cu atât mai remarcabilă cu cât inegalitatea numerică e explicit recunoscută."
      },
      {
-      "t": ", și îi voi preda în mâna ta»?”"
+      "t": " [de oșteni], și îi voi preda în mâna ta»?”"
      }
     ],
     "textCompare": [
@@ -37470,7 +37608,7 @@
     "translit": "Va-yomer eleha Varak im-telekhi immi ve-halakhti ve-im-lo telekhi immi lo elekh.",
     "tokens": [
      {
-      "t": "Și Barak i-a spus: „Dacă vei merge cu mine, atunci voi merge, dar dacă nu vei merge cu mine, nu voi "
+      "t": "Și Barak i-a spus: „Dacă vei "
      },
      {
       "t": "merge",
@@ -37481,6 +37619,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "voi merge.",
       "dict_ro": "Rădăcina halakh, „a merge” — repetat de patru ori în acest scurt verset, structura chiastică accentuând dependența totală a lui Barak de prezența fizică a Devorei ca garanție a prezenței divine — o ezitare pe care ea o va interpreta, la versetul următor, ca pierdere a onoarei cuvenite unui comandant."
+     },
+     {
+      "t": " cu mine, atunci voi merge, dar dacă nu vei merge cu mine, nu voi merge!”"
      }
     ],
     "textCompare": [
@@ -37603,7 +37744,7 @@
    },
    {
     "v": "4:11",
-    "t": "Chenitul Hever s-a separat de cheniți, urmașii lui Hovav, socrul lui Moise, și și-a așezat cortul lângă terebintul din Taananim, în apropiere de Kedeș.",
+    "t": "Chenitul Hever s-a separat de cheniți, urmașii lui Hovav, socrul lui Moise, și și-a așezat cortul lângă terebintul din Țaananim, în apropiere de Kedeș.",
     "heb": "וְחֶבֶר הַקֵּינִי נִפְרָד מִקַּיִן מִבְּנֵי חֹבָב חֹתֵן מֹשֶׁה וַיֵּט אָהֳלוֹ עַד־אֵלוֹן בַּצַעֲנַנִּים אֲשֶׁר אֶת־קֶדֶשׁ׃",
     "translit": "Ve-Chever ha-Keini nifrad mi-Kayin mi-benei Chovav choten Moshe va-yet oholo ad-Elon be-Tsa'ananim asher et-Kedesh.",
     "tokens": [
@@ -37634,7 +37775,7 @@
       "dict_ro": "Rădăcina parad, „a se despărți” — Hever se desprinde de restul clanului chenit, stabilindu-se separat lângă Kedeș — detaliu geografic aparent minor, dar esențial pentru plauzibilitatea narativă a fugii lui Sisra tocmai spre cortul soției lui, Iael."
      },
      {
-      "t": " de cheniți, urmașii lui Hovav, socrul lui Moise, și și-a așezat cortul lângă terebintul din Taananim, în apropiere de Kedeș."
+      "t": " de cheniți, urmașii lui Hovav, socrul lui Moise, și și-a așezat cortul lângă terebintul din Țaananim, în apropiere de Kedeș."
      }
     ],
     "textCompare": [
@@ -37828,6 +37969,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "a fugit pe picioarele lui.",
       "dict_ro": "Detaliul „pe jos”, subliniat repetitiv în tot pasajul (v.15, 17), accentuează ironic prăbușirea statutului lui Sisra: comandantul carelor de fier se salvează fugind ca un om de rând, fără nicio superioritate tehnologică care să-l mai ajute."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -37881,6 +38025,9 @@
       "pos": "verb, nifal perfect",
       "def_ro": "n-a mai rămas nici unul.",
       "dict_ro": "Formula „nu a rămas niciunul” marchează o victorie totală, fără excepție — deznodământul militar complet, pregătind contrastul dramatic cu soarta individuală a lui Sisra însuși, singurul supraviețuitor temporar al dezastrului."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -37986,6 +38133,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "cuvertură, învelitoare.",
       "dict_ro": "Semikhah — cuvânt rar, tradus de Rashi prin termenul aramaic „gonkha”, un fel de plapumă/acoperitoare groasă; gestul matern de a-l acoperi întărește falsa impresie de siguranță și ospitalitate oferită lui Sisra."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -38582,6 +38732,9 @@
       "pos": "nume propriu",
       "def_ro": "Sinai.",
       "dict_ro": "Sinai — Rashi explică fraza eliptică „zeh Sinai” prin trimitere directă la Exodul 19:18: „iată ce s-a văzut pe el — fum peste tot, glas, torțe și foc” — versetul rezumă printr-o formulă scurtă întreaga scenă a revelației deja narate în Tora."
+     },
+     {
+      "t": " – dinaintea DOMNULUI, Dumnezeului lui Israel."
      }
     ],
     "textCompare": [
@@ -38701,6 +38854,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "mamă.",
       "dict_ro": "Em, „mamă” — titlu remarcabil de autodesemnare, unic în literatura biblică pentru un lider militar/judecătoresc; Devora se descrie nu ca general sau rege, ci ca figură maternă protectoare, ocrotind un popor altfel lipsit de apărare."
+     },
+     {
+      "t": " în Israel."
      }
     ],
     "textCompare": [
@@ -38900,6 +39056,9 @@
       "pos": "verb, qal imperativ",
       "def_ro": "vorbiți, cugetați cu glas tare.",
       "dict_ro": "Rădăcina sichah, „a cugeta, a vorbi [meditativ]” — chemare adresată tuturor claselor sociale, de la elită la oamenii simpli, să povestească și să mediteze public asupra evenimentelor extraordinare tocmai narate."
+     },
+     {
+      "t": "!"
      }
     ],
     "textCompare": [
@@ -38983,9 +39142,6 @@
     "translit": "Uri uri Devorah uri uri dabberi-shir kum Varak u-shevei shevyekha ben-Avino'am.",
     "tokens": [
      {
-      "t": "„"
-     },
-     {
       "t": "Trezește-te, trezește-te",
       "w": "Trezește-te, trezește-te",
       "heb": "עוּרִי עוּרִי",
@@ -39009,7 +39165,7 @@
       "dict_ro": "Rădăcina shavah, „a lua captiv” — joc de cuvinte intern (shevei/shevyekha), poruncă adresată lui Barak să-și revendice acum trofeele victoriei, deși — ironie subtilă a întregii cântări — capturarea decisivă a fost deja realizată de Iael, nu de el."
      },
      {
-      "t": ", fiu al lui Avinoam!”"
+      "t": ", fiu al lui Avinoam!"
      }
     ],
     "textCompare": [
@@ -39141,6 +39297,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "toiagul scribului.",
       "dict_ro": "Sofer, „scrib” — desemnează, prin extensie, pe cei instruiți în scriere/organizare administrativă, contribuția distinctă a lui Zevulun la mobilizarea militară fiind una organizatorică/administrativă, nu doar de forță brută."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -39291,7 +39450,7 @@
    },
    {
     "v": "5:17",
-    "t": "Ghilad a rămas dincolo de Iordan, iar Dan, de ce și-a adus [avere] în corăbii? Însă Așer a trăit pe malul mării și a trebuit să rămână lângă orașele sale fără apărare.",
+    "t": "Ghilad a rămas dincolo de Iordan, iar Dan, de ce și-a adus [averea] în corăbii? Însă Așer a trăit pe malul mării și a trebuit să rămână lângă orașele sale fără apărare.",
     "heb": "גִּלְעָד בְּעֵבֶר הַיַּרְדֵּן שָׁכֵן וְדָן לָמָּה יָגוּר אֳנִיּוֹת אָשֵׁר יָשַׁב לְחוֹף יַמִּים וְעַל מִפְרָצָיו יִשְׁכּוֹן׃",
     "translit": "Gilad be-ever ha-Yarden shakhen ve-Dan lammah yagur oniyot Asher yashav le-chof yammim ve-al mifratsav yishkon.",
     "tokens": [
@@ -39309,7 +39468,7 @@
       "dict_ro": "Rashi explică absența lui Dan prin ocupația lui maritimă: „a introdus avuția lui pe corăbii ca să stea gata de fugă” — critică ascunsă a priorității date comerțului și securității materiale în locul mobilizării pentru luptă."
      },
      {
-      "t": ", de ce și-a adus [avere] în corăbii? Însă "
+      "t": ", de ce și-a adus [averea] în corăbii? Însă "
      },
      {
       "t": "Așer",
@@ -39379,6 +39538,9 @@
       "pos": "substantiv, masculin construct",
       "def_ro": "înălțimile câmpiei.",
       "dict_ro": "Rashi identifică aceste înălțimi cu muntele Tabor însuși, locul de plecare al atacului condus de Barak — Neftali încheie catalogul tribal exact acolo unde a început acțiunea narativă din capitolul 4."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -39552,7 +39714,7 @@
       "dict_ro": "Kedumim, „vechi, primordial” — epitet neobișnuit, poate evocând ideea că natura însăși, de la creație, a fost rânduită să servească acest scop de judecată, exact la momentul potrivit."
      },
      {
-      "t": " – eu însămi i-am "
+      "t": ", Valea Kișon – eu însămi i-am "
      },
      {
       "t": "călcat în picioare",
@@ -39798,6 +39960,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "unt, smântână.",
       "dict_ro": "Chem'ah — dincolo de laptele simplu cerut, Iael oferă un aliment și mai bogat, mai greu, accentuând stratagema: ospitalitatea generoasă, aparent onorifică, e de fapt concepută să adâncească somnul epuizat al fugarului."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -39869,6 +40034,9 @@
       "pos": "verb, qal perfect",
       "def_ro": "i-a străpuns tâmpla.",
       "dict_ro": "Rădăcina chalaf, „a trece prin, a străpunge” — confirmă, în versuri poetice, detaliul deja narat în proză la 4:21: țărușul străpunge complet tâmpla, fixând trupul lui Sisra la pământ."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -39927,6 +40095,9 @@
       "pos": "verb, qal pasiv participiu",
       "def_ro": "jefuit, distrus, învins.",
       "dict_ro": "Rădăcina shadad, „a jefui, a distruge” — ultimul cuvânt al scenei, sigilând definitiv soarta lui Sisra: nu doar mort, ci complet „distrus”, orice urmă de statut sau demnitate anterioară fiind ștearsă."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -40021,7 +40192,7 @@
    },
    {
     "v": "5:29",
-    "t": "Cele mai înțelepte din preotesele ei i-au răspuns, și chiar și ea și-a răspuns deopotrivă:",
+    "t": "Cele mai înțelepte din prințesele ei i-au răspuns, și chiar și ea și-a răspuns deopotrivă:",
     "heb": "חַכְמוֹת שָׂרוֹתֶיהָ תַּעֲנֶינָּה אַף־הִיא תָּשִׁיב אֲמָרֶיהָ לָהּ׃",
     "translit": "Chakhmot saroteha ta'anenah af-hi tashiv amareha lah.",
     "tokens": [
@@ -40039,7 +40210,7 @@
       "dict_ro": "Rashi notează o subtilitate gramaticală: vocalizarea specifică a „chakhmot” (nu forma substantivală obișnuită „chokhmot”) indică adjectivul „cele înțelepte dintre doamnele ei”, nu un substantiv abstract — precizie filologică necesară pentru sensul corect al versetului."
      },
      {
-      "t": " din preotesele ei i-au "
+      "t": " din prințesele ei i-au "
      },
      {
       "t": "răspuns",
@@ -40063,13 +40234,16 @@
       "pos": "verb, hifil imperfect",
       "def_ro": "și-a repetat sieși cuvintele.",
       "dict_ro": "Rashi glosează: „mângâieri pentru ea însăși” — mama lui Sisra repetă, ea singură, aceleași explicații liniștitoare oferite de doamnele ei, într-un gest patetic de auto-consolare disperată."
+     },
+     {
+      "t": ":"
      }
     ],
     "textCompare": [
      {
       "source": "Textul Masoretic (ebraică)",
       "original": "חַכְמוֹת שָׂרוֹתֶיהָ תַּעֲנֶינָּה אַף־הִיא תָּשִׁיב אֲמָרֶיהָ לָהּ׃",
-      "translation": "„Cele mai înțelepte din preotesele ei i-au răspuns...” — traducerea rabinului Rosen.",
+      "translation": "„Cele mai înțelepte din prințesele ei i-au răspuns...” — traducerea rabinului Rosen.",
       "note": ""
      },
      {
@@ -40346,7 +40520,7 @@
       "dict_ro": "Kanaf, „aripă” — structura simetrică triplă (față/picioare/zbor) organizează întreaga ființă angelică în jurul unui singur act: reverența absolută dinaintea prezenței divine, fiecare pereche de aripi servind o formă distinctă de smerenie sau slujire."
      },
      {
-      "t": " fiecare: cu două își "
+      "t": ", cu câte șase aripi fiecare: cu două își "
      },
      {
       "t": "acoperea fața",
@@ -40383,6 +40557,9 @@
       "pos": "verb, polel imperfect",
       "def_ro": "zbura.",
       "dict_ro": "Rădăcina uf, „a zbura” — singura pereche de aripi rezervată efectiv mișcării/slujirii active, spre deosebire de celelalte patru, consacrate exclusiv smereniei — proporția simbolică (patru din șase aripi pentru reverență) accentuează centralitatea cinstirii dinaintea acțiunii."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -40455,6 +40632,9 @@
       "pos": "substantiv, masculin construct",
       "def_ro": "slava Lui.",
       "dict_ro": "Kavod, „slavă, greutate, prezență manifestă” — proclamația finală extinde sfințenia transcendentă a lui Dumnezeu (spațiul ceresc al tronului) la imanența Lui în întreaga creație pământească — cele două dimensiuni ale prezenței divine unite într-un singur strigăt."
+     },
+     {
+      "t": "!”"
      }
     ],
     "textCompare": [
@@ -40513,6 +40693,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "se umplea de fum.",
       "dict_ro": "Ashan, „fum” — Rashi citește acest fum ca semn direct al judecății asupra lui Uzia: în aceeași zi în care regele s-a ridicat să tămâieze ilegal în Templu, cerurile s-au cutremurat gata să-l ardă, pământul gata să-l înghită ca pe Core — până când un glas ceresc a decis: doar lepră, nu nimicire."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -40734,6 +40917,9 @@
       "pos": "verb, pual imperfect",
       "def_ro": "și păcatul tău va fi ispășit.",
       "dict_ro": "Rădăcina kafar, „a ispăși” — aceeași rădăcină ca Yom Kippur; purificarea profetului, necesară înainte de misiunea lui, devine un tipar recurent al chemărilor profetice biblice — nimeni nu poate rosti cuvântul divin fără o curățire prealabilă reală."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -40855,7 +41041,7 @@
       "dict_ro": "Rădăcina bin, „a înțelege” — verset de o intensitate teologică extraordinară, citat de patru evangheliști în Noul Testament (Matei 13:14-15, Marcu 4:12, Luca 8:10, Ioan 12:40) și de Faptele Apostolilor 28:26-27 pentru a explica refuzul unei părți a poporului evreu de a accepta mesajul lui Isus — unul din cele mai influente versete biblice pentru teologia creștină ulterioară."
      },
      {
-      "t": "; cu siguranță vedeți, dar nu cunoașteți.”"
+      "t": "; cu siguranță vedeți, dar nu cunoașteți."
      }
     ],
     "textCompare": [
@@ -41125,6 +41311,9 @@
       "pos": "substantiv, masculin construct",
       "def_ro": "sămânță sfântă.",
       "dict_ro": "Zera kodesh — imagine de speranță finală care încheie capitolul: din distrugerea totală anunțată, rămâne totuși o „sămânță sfântă”, garanție a continuității poporului, chiar dacă redus radical ca număr — versetul-cheie care justifică prezența acestei viziuni întunecate în ciclul liturgic al Haftarot, o carte a judecății care se încheie totuși cu speranță."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -41181,6 +41370,9 @@
       "pos": "verb, qal perfect",
       "def_ro": "și n-a putut să lupte împotriva ei.",
       "dict_ro": "Rashi citește o tradiție agadică: îngerii slujitori întreabă de ce Dumnezeu nu-l pedepsește pe acest rege răufăcător, iar răspunsul e explicit: „e fiul lui Iotam, e fiul lui Uzia; strămoșii lui au fost drepți, de aceea nu vreau să-Mi întind mâna asupra lui” — meritul strămoșilor protejează chiar și pe un urmaș nevrednic."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -41339,6 +41531,9 @@
       "pos": "substantiv, masculin construct",
       "def_ro": "ogorul spălătorului/nălbitorului.",
       "dict_ro": "Rashi explică: „câmpul unde spălătorii [de rufe] își întind hainele pentru uscare” — un loc public, obișnuit, al Ierusalimului cotidian, ales pentru o întâlnire de mare importanță teologică — profeția intervine direct în viața practică a regelui, nu doar în vise sau viziuni."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -41499,7 +41694,7 @@
       "dict_ro": "Rashi glosează: „îl vom face egal cu noi, ca o vale netedă” — imagine de nivelare completă a distincției politice, reducerea regatului lui Iuda la statutul unei provincii supuse."
      },
      {
-      "t": " pentru noi și să îl punem pe fiul lui "
+      "t": " pentru noi și să îl punem pe fiul pe "
      },
      {
       "t": "Tabeel",
@@ -41941,6 +42136,9 @@
       "pos": "verb, qal infinitiv",
       "def_ro": "zicând.",
       "dict_ro": "Formula standard care marchează începutul unui nou oracol — repetiția „de la DOMNUL... de la DOMNUL” în același verset accentuează solemnitatea și autoritatea absolută a mesajului care urmează, o dublare stilistică neobișnuită chiar și pentru Ieremia."
+     },
+     {
+      "t": ":"
      }
     ],
     "textCompare": [
@@ -42019,7 +42217,7 @@
    },
    {
     "v": "34:14",
-    "t": "«La capătul a șapte ani, fiecare dintre voi să își elibereze fratele evreu care vă va fi fost vândut. Să își slujească șase ani și apoi să îi dai drumul liber de la tine.» Dar părinții tăi n-au ascultat de Mine și nu și-au plecat urechea.",
+    "t": "«La capătul a șapte ani, fiecare dintre voi să își elibereze fratele evreu care vă va fi fost vândut. Să îți slujească șase ani și apoi să îi dai drumul liber de la tine.» Dar părinții tăi n-au ascultat de Mine și nu și-au plecat urechea.",
     "heb": "מִקֵּץ שֶׁבַע שָׁנִים תְּשַׁלְּחוּ אִישׁ אֶת־אָחִיו הָעִבְרִי אֲשֶׁר־יִמָּכֵר לְךָ וַעֲבָדְךָ שֵׁשׁ שָׁנִים וְשִׁלַּחְתּוֹ חָפְשִׁי מֵעִמָּךְ וְלֹא־שָׁמְעוּ אֲבוֹתֵיכֶם אֵלַי וְלֹא הִטּוּ אֶת־אָזְנָם׃",
     "translit": "Mi-kets sheva shanim teshallechu ish et-achiv ha-ivri asher-yimmakher lekha va-avadkha shesh shanim ve-shillachto chofshi me-immakh ve-lo-shame'u avoteikhem elai ve-lo hittu et-oznam.",
     "tokens": [
@@ -42037,7 +42235,7 @@
       "dict_ro": "Notă textuală remarcată de comentatori: legea citată aici de Ieremia vorbește de „șapte ani” la începutul versetului, dar apoi precizează „să te slujească șase ani” — o aparentă tensiune numerică rezolvată prin observarea că anul al șaptelea e chiar anul eliberării, nu un an suplimentar de muncă, coerent cu Exodul 21:2."
      },
      {
-      "t": ", fiecare dintre voi să își elibereze fratele evreu care vă va fi fost vândut. Să își slujească șase ani și apoi să îi dai drumul liber de la tine.» Dar părinții tăi n-au ascultat de Mine și nu și-au "
+      "t": ", fiecare dintre voi să își elibereze fratele evreu care vă va fi fost vândut. Să îți slujească șase ani și apoi să îi dai drumul liber de la tine.» Dar părinții tăi n-au ascultat de Mine și nu și-au "
      },
      {
       "t": "plecat urechea",
@@ -42048,6 +42246,9 @@
       "pos": "verb, hifil perfect",
       "def_ro": "și-au plecat urechea.",
       "dict_ro": "Rădăcina nata, „a înclina, a apleca” — expresie idiomatică standard pentru ascultare atentă; negația ei confirmă un tipar istoric îndelungat de nesupunere, nu doar un eșec izolat al generației prezente a lui Țedechia."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -42649,7 +42850,7 @@
       "dict_ro": "Chokhmah — darul central acordat lui Solomon (1 Regi 3:9-12), aici aplicat concret capacității lui diplomatice de a încheia o alianță pașnică cu Hiram, regele Tirului, esențială pentru asigurarea materialelor de construcție ale Templului."
      },
      {
-      "t": ", după cum îi vorbise, și a fost pace între "
+      "t": " lui Solomon, după cum îi vorbise, și a fost pace între "
      },
      {
       "t": "Hiram",
@@ -42673,6 +42874,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "au încheiat un legământ.",
       "dict_ro": "Rădăcina karat, „a tăia [un legământ]” — tratat internațional formal între cei doi regi, garantând cooperarea materială și tehnică necesară proiectului de construcție a Templului."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -42822,7 +43026,7 @@
       "dict_ro": "Sabbal, „cărăuș, purtător de poveri” — Rashi identifică pe cei o sută cincizeci de mii de muncitori (70.000 cărăuși plus 80.000 tăietori de piatră) cu prozeliți convertiți datorită măreției și mesei bogate a lui Solomon, citând confirmarea directă din 2 Cronici: „Solomon a numărat toți străinii... și i-a găsit o sută cincizeci de mii”."
      },
      {
-      "t": " și opt mii de "
+      "t": " de povară și opt mii de "
      },
      {
       "t": "lucrători în carieră",
@@ -42956,6 +43160,9 @@
       "pos": "substantiv, feminin",
       "def_ro": "pietre cioplite/tăiate.",
       "dict_ro": "Gazit, „piatră cioplită, tăiată cu unealta” — Rashi observă o tensiune aparentă cu v.7, unde se spune explicit că niciun fier n-a fost auzit la Templu în timpul construcției; rezolvă contradicția explicând că pietrele erau cioplite AFARĂ, la carieră, apoi transportate deja finisate și doar asamblate în tăcere pe șantier."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -43207,14 +43414,17 @@
       "t": "Și a făcut pentru Templu "
      },
      {
-      "t": "ferestre largi... cu deschidere îngustă",
-      "w": "ferestre largi... cu deschidere îngustă",
+      "t": "ferestre largi [la exterior] cu deschidere îngustă",
+      "w": "ferestre largi [la exterior] cu deschidere îngustă",
       "heb": "חַלּוֹנֵי שְׁקֻפִים אֲטֻמִים",
       "translit": "chalonei shekufim atumim",
       "strong": "H2474",
       "pos": "substantiv, feminin",
       "def_ro": "ferestre largi la exterior, înguste la interior.",
       "dict_ro": "Rashi, citând tradiția rabinică, explică o construcție inversă normalului: majoritatea ferestrelor sunt înguste afară și largi înăuntru, pentru a maximiza lumina; ferestrele Templului erau invers — largi afară, înguste înăuntru — semn, spune tradiția, că Templul nu avea nevoie de lumină din exterior, ci el însuși emitea/răspândea lumină spre lume."
+     },
+     {
+      "t": " [la interior]."
      }
     ],
     "textCompare": [
@@ -43242,7 +43452,7 @@
    },
    {
     "v": "6:5",
-    "t": "Lângă peretele Templului a construit o cameră de jur împrejur pereții Templului de jur împrejurul Sălii și Sfintei Sfintelor – și a făcut camere de jur împrejur.",
+    "t": "Lângă peretele Templului a construit o cameră de jur împrejur – pereții Templului de jur împrejurul Sălii și Sfintei Sfintelor – și a făcut camere de jur împrejur.",
     "heb": "וַיִּבֶן עַל־קִיר הַבַּיִת יָצִיעַ סָבִיב אֶת־קִירוֹת הַבַּיִת סָבִיב לַהֵיכָל וְלַדְּבִיר וַיַּעַשׂ צְלָעוֹת סָבִיב׃",
     "translit": "Va-yiven al-kir ha-bayit yatsi'a saviv et-kirot ha-bayit saviv la-heikhal ve-la-devir va-ya'as tsela'ot saviv.",
     "tokens": [
@@ -43260,7 +43470,7 @@
       "dict_ro": "Yatsi'a — Rashi notează trei termeni sinonimi folosiți în tradiție pentru aceeași structură (yatsi'a, ta, tsela), citând Tratatul Bava Batra — o structură anexă cu trei niveluri, construită lipită de zidurile exterioare ale Sălii și Sfintei Sfintelor, folosită probabil pentru depozitare și camere ale preoților."
      },
      {
-      "t": " de jur împrejur pereții Templului de jur împrejurul Sălii și "
+      "t": " de jur împrejur – pereții Templului de jur împrejurul Sălii și "
      },
      {
       "t": "Sfintei Sfintelor",
@@ -43601,6 +43811,9 @@
       "pos": "verb, qal infinitiv",
       "def_ro": "zicând.",
       "dict_ro": "Formula standard care introduce un oracol profetic — remarcabil, singura intervenție directă a cuvântului DOMNULUI din toată descrierea construcției, plasată exact în mijlocul detaliilor tehnice, subliniind că sensul teologic al clădirii contează mai mult decât precizia ei arhitecturală."
+     },
+     {
+      "t": ":"
      }
     ],
     "textCompare": [
@@ -43708,6 +43921,9 @@
       "pos": "verb, qal imperfect",
       "def_ro": "voi părăsi.",
       "dict_ro": "Rădăcina azav, „a părăsi, a abandona” — promisiune finală, condiționată explicit de versetul precedent, dar rostită aici cu certitudinea deplină a unui legământ reînnoit, încheind capitolul pe nota teologică centrală a întregii Haftarot Teruma: „Îmi voi așeza sălașul în mijlocul lor” (ecou direct al Exodului 25:8)."
+     },
+     {
+      "t": " pe poporul Meu, Israel.”"
      }
     ],
     "textCompare": [
@@ -44018,7 +44234,7 @@
    },
    {
     "v": "43:15",
-    "t": "Iar Harel cea mare – patru coți cu un cot lățime.",
+    "t": "Iar Harel – patru coți; și de la Ariel în sus – patru colțuri.",
     "heb": "וְהַהַרְאֵל אַרְבַּע אַמּוֹת וּמֵהָאֲרִיאֵל וּלְמַעְלָה הַקְּרָנוֹת אַרְבַּע׃",
     "translit": "Ve-ha-har'el arba ammot u-me-ha-ari'el u-le-ma'lah ha-keranot arba.",
     "tokens": [
@@ -44036,7 +44252,7 @@
       "dict_ro": "Har'el — Rashi identifică acest nume simbolic cu partea superioară a acoperișului altarului, de la cornișa de jos în sus; în Templul lui Solomon avea doar trei coți, aici patru — o denumire poetică ce leagă altarul de imaginea unui munte sacru miniatural, ecou al muntelui Moria însuși."
      },
      {
-      "t": " cea mare – patru coți cu un cot lățime."
+      "t": " – patru coți; și de la Ariel în sus – patru colțuri."
      }
     ],
     "textCompare": [
@@ -44199,6 +44415,9 @@
       "pos": "verb, qal infinitiv",
       "def_ro": "să fie stropit, aruncat.",
       "dict_ro": "Rădăcina zaraq, „a stropi, a arunca [lichid]” — termen tehnic ritual standard pentru aspersiunea sângelui jertfei pe altar (cf. Levitic 1:5), aici aplicat pentru prima dată noului altar al Templului viitor, în ritualul de inaugurare descris în restul capitolului."
+     },
+     {
+      "t": " pe el."
      }
     ],
     "textCompare": [
@@ -44609,6 +44828,9 @@
       "pos": "verb, piel perfect",
       "def_ro": "și-i vor umple mâna [îl vor investi].",
       "dict_ro": "Expresie idiomatică literal „a umple mâna”, formulă tehnică standard pentru investirea în funcție/consacrare (folosită identic pentru consacrarea preoților, Exodul 29:9); aplicată aici altarului însuși, ca și cum obiectul de piatră ar fi „învestit” cu funcția lui sacră, printr-un proces solemn de șapte zile."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -44651,7 +44873,7 @@
       "dict_ro": "Ecou direct al consacrării originale a Cortului: „ziua a opta” marchează exact momentul în care preoții încep efectiv să slujească, după cele șapte zile de consacrare (Levitic 9:1) — funcționarea normală a cultului începe abia după încheierea completă a perioadei rituale."
      },
      {
-      "t": " preoții pot pregăti pe altar arderile-de-tot ale tale și jertfele tale de pace, iar Eu îți voi arăta "
+      "t": ", preoții pot pregăti pe altar arderile-de-tot ale tale și jertfele tale de pace, iar Eu îți voi arăta "
      },
      {
       "t": "bunăvoință",
@@ -45052,6 +45274,9 @@
       "pos": "particulă",
       "def_ro": "iată, Ilie [e aici].",
       "dict_ro": "Formulă simplă, repetată identic de patru ori în tot pasajul (v.8, 11, 14) — mesajul lui Ilie e reducţia la esenţial: propria lui prezenţă vizibilă e suficientă anunţ, fără nicio explicaţie suplimentară necesară."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -45146,7 +45371,7 @@
       "dict_ro": "Rădăcina shava, „a jura” — Ahab a cerut jurământ formal de la fiecare regat interogat, dovadă a disperării lui de a-l localiza pe Ilie — detaliu care sporește gravitatea riscului pe care Ovadia crede că i-l cere Ilie acum."
      },
      {
-      "t": " nu te-a putut găsi."
+      "t": " că nu te-a putut găsi."
      }
     ],
     "textCompare": [
@@ -45231,6 +45456,9 @@
       "pos": "substantiv, masculin construct",
       "def_ro": "din tinerețea mea.",
       "dict_ro": "Ne'urim, „tinerețe” — apel emoțional final la un istoric lung și constant de credincioșie, nu doar o virtute recentă sau oportunistă — Ovadia își pledează cauza invocând o viață întreagă de fidelitate, nu un moment izolat."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -45313,6 +45541,9 @@
       "pos": "verb, qal perfect",
       "def_ro": "și mă va ucide.",
       "dict_ro": "Rădăcina harag — încheie discursul lui Ovadia exact cum îl deschisese (v.9), cu aceeași teamă concretă a morții, formând o structură circulară de argumentare, tipică unui om aflat sub presiune emoțională reală."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -45522,7 +45753,7 @@
       "dict_ro": "Har ha-Karmel — lanț muntos de coastă, la granița dintre teritoriul israelit și cel fenician, loc simbolic ideal pentru o confruntare religioasă: vizibil de departe, sacru probabil deja pentru ambele culturi, punct neutru de demonstrație publică maximă."
      },
      {
-      "t": " și pe cei patru sute cincizeci de profeți ai lui Baal și pe cei patru sute de profeți ai "
+      "t": ", și pe cei patru sute cincizeci de profeți ai lui Baal și pe cei patru sute de profeți ai "
      },
      {
       "t": "Așerei",
@@ -45801,7 +46032,7 @@
       "dict_ro": "Rashi observă un gest de curtoazie/strategie a lui Ilie: îi lasă pe profeții lui Baal să înceapă primii, tocmai pentru a le oferi toată vremea și avantajul numeric posibil, subliniind astfel, prin contrast maxim, eșecul lor total — condițiile testului nu puteau fi acuzate ulterior de vreo nedreptate procedurală."
      },
      {
-      "t": " și strigați în numele dumnezeului vostru, dar să nu puneți foc.”"
+      "t": ", și strigați în numele dumnezeului vostru, dar să nu puneți foc.”"
      }
     ],
     "textCompare": [
@@ -45978,6 +46209,9 @@
       "pos": "verb, qal infinitiv construct",
       "def_ro": "până a curs sângele.",
       "dict_ro": "Shafakh dam, „a vărsa sânge” — culminarea disperării rituale: profeții lui Baal se rănesc singuri, sperând ca oferirea propriului sânge să provoace o reacție divină — gest care nu face decât să adâncească tăcerea totală care urmează la v.29."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -46031,6 +46265,9 @@
       "pos": "substantiv, masculin",
       "def_ro": "atenție, ascultare.",
       "dict_ro": "Kashev — triplă negație finală (nici sunet, nici răspuns, nici atenție) desăvârșește imaginea tăcerii absolute, totale, a lui Baal — verdictul empiric al testului propus la v.24 e deja, la acest punct, complet dovedit."
+     },
+     {
+      "t": "."
      }
     ],
     "textCompare": [
@@ -46130,6 +46367,9 @@
       "pos": "substantiv propriu",
       "def_ro": "Israel — numele dat lui Iacov.",
       "dict_ro": "Numele Israel, „cel ce a luptat cu Dumnezeu”, i-a fost dat lui Iacov mai întâi la Peniel, după lupta cu îngerul (Geneza 32:29), și reafirmat apoi la Betel (Geneza 35:10). Rashi observă că menționarea explicită a acestui episod în gura lui Ilie, la Carmel, amintește poporului divizat de rădăcina lui comună, unică — un contrast direct cu ruptura religioasă provocată de cultul lui Baal."
+     },
+     {
+      "t": ".”"
      }
     ],
     "textCompare": [
@@ -46398,9 +46638,6 @@
     "translit": "Aneni ADONAI aneni veyedeu haam haze ki-ata ADONAI haElohim veata hasibota et-libam ahoranit.",
     "tokens": [
      {
-      "t": "„"
-     },
-     {
       "t": "Răspunde-mi",
       "w": "Răspunde-mi",
       "heb": "עֲנֵנִי",
@@ -46560,6 +46797,9 @@
       "pos": "nume propriu",
       "def_ro": "Hiram — numele meșterului din Tir.",
       "dict_ro": "Hiram (aici, meșterul artizan, de distins de Hiram regele Tirului din 5:15) — omonimie remarcată de comentatori: doi bărbați cu același nume, ambii esențiali pentru construcția Templului, unul furnizând materialele și priceperea politică, celălalt priceperea tehnică efectivă. Numele are probabil sensul „fratele meu e înălțat”, potrivit statutului lui privilegiat la curtea lui Solomon."
+     },
+     {
+      "t": " din Tir."
      }
     ],
     "textCompare": [
@@ -46727,7 +46967,7 @@
     "translit": "Vayaas et-haamudim ușnei turim saviv al-hasevacha haehat lechasot et-hakotarot așer al-roș harimonim vechen asa lakoteret hașenit.",
     "tokens": [
      {
-      "t": "A făcut stâlpii și două rânduri de "
+      "t": "A făcut stâlpii și două rânduri [de "
      },
      {
       "t": "rodii",
@@ -46740,7 +46980,7 @@
       "dict_ro": "Rimon, „rodie” — motiv ornamental recurent la Templu, identic cu cel de pe poalele veșmântului marelui preot (Exod 28:33-34); rodia, fruct cu multe semințe, e asociată în tradiția evreiască ulterioară cu belșugul poruncilor (613, cifră tradițională legată popular de numărul semințelor unei rodii) — deși legătura aceasta numerică apare abia în surse rabinice mult mai târzii."
      },
      {
-      "t": ", de jur împrejurul fiecărei rețele, ca să acopere capitelurile din vârf cu rodii; și a făcut la fel pentru al doilea capitel."
+      "t": "], de jur împrejurul fiecărei rețele, ca să acopere capitelurile din vârf cu rodii; și a făcut la fel pentru al doilea capitel."
      }
     ],
     "textCompare": [
@@ -46763,7 +47003,7 @@
     "translit": "Vehotarot așer al-roș haamudim maase șușan baulam arba amot.",
     "tokens": [
      {
-      "t": "Iar capitelurile care se aflau în vârful stâlpilor aveau același ornament în formă de "
+      "t": "Iar capitelurile care se aflau în vârful stâlpilor aveau același [ornament] în formă de "
      },
      {
       "t": "trandafir",
@@ -46831,7 +47071,7 @@
    },
    {
     "v": "7:21",
-    "t": "A ridicat stâlpii pentru Sala Sanctuarului: a ridicat stâlpul din dreapta și i-a pus numele Iachin și a ridicat stâlpul din stânga și i-a pus numele Boaz.",
+    "t": "A ridicat stâlpii pentru Sala Sanctuarului: a ridicat stâlpul din dreapta și i-a pus numele Iahin și a ridicat stâlpul din stânga și i-a pus numele Boaz.",
     "heb": "וַיָּקֶם אֶת־הָעַמֻּדִים לְאֻלָם הַהֵיכָל וַיָּקֶם אֶת־הָעַמּוּד הַיְמָנִי וַיִּקְרָא אֶת־שְׁמוֹ יָכִין וַיָּקֶם אֶת־הָעַמּוּד הַשְּׂמָאלִי וַיִּקְרָא אֶת־שְׁמוֹ בֹּעַז׃",
     "translit": "Vayakem et-haamudim leulam haheichal vayakem et-haamud hayemani vayikra et-șemo Yachin vayakem et-haamud hasmali vayikra et-șemo Boaz.",
     "tokens": [
@@ -46839,8 +47079,8 @@
       "t": "A ridicat stâlpii pentru Sala Sanctuarului: a ridicat stâlpul din dreapta și i-a pus numele "
      },
      {
-      "t": "Iachin",
-      "w": "Iachin",
+      "t": "Iahin",
+      "w": "Iahin",
       "heb": "יָכִין",
       "translit": "Yachin",
       "strong": "H3199",
@@ -48222,7 +48462,7 @@
       "dict_ro": "Avad la forma hifil — „m-ai făcut să slujesc/muncesc”, aceeași rădăcină din care vine „eved” (rob) și „avoda” (slujire, inclusiv slujirea rituală din Templu). Ironia versetului stă în inversarea rolurilor: poporul n-a fost pus să „slujească” prin jertfe grele, dar L-a pus pe DOMNUL Însuși să „slujească”, purtând povara păcatelor lor — o imagine șocantă, pe care Rashi o leagă explicit de exil."
      },
      {
-      "t": " și M-ai obosit cu nelegiuirile tale."
+      "t": " cu păcatele tale și M-ai obosit cu nelegiuirile tale."
      }
     ],
     "textCompare": [
@@ -48332,7 +48572,7 @@
       "dict_ro": "Șafat la forma nifal cohortativă evocă limbajul juridic al unui proces (rîv) — DOMNUL invită poporul la o dezbatere de tribunal, în care fiecare parte își prezintă argumentele. E o formulă retorică frecventă la profeți (cf. Isaia 1:18, Mica 6:1-2), care nu presupune o judecată reală egală, ci ironizează pretenția omului de a avea vreo apărare valabilă în fața lui Dumnezeu."
      },
      {
-      "t": " Apără-ți cauza, ca să fii socotit drept."
+      "t": " unul cu altul! Apără-ți cauza, ca să fii socotit drept."
      }
     ],
     "textCompare": [
@@ -48389,7 +48629,7 @@
       "dict_ro": "Melitz — de la rădăcina „lutz”, cel care mijlocește sau interpretează, aici cu sensul de purtător de cuvânt sau apărător — un termen aplicat de tradiție preoților și profeților care ar fi trebuit să pledeze cauza poporului, dar care, în schimb, s-au făcut ei înșiși vinovați de răzvrătire."
      },
      {
-      "t": " M-au trădat."
+      "t": " tăi M-au trădat."
      }
     ],
     "textCompare": [
@@ -48609,7 +48849,7 @@
       "dict_ro": "Ruah — același cuvânt pentru „duh/suflare/vânt”, folosit aici într-o revărsare care depășește darul obișnuit al profeției individuale, promițând o efuziune generalizată peste toată „sămânța” poporului — tradiția rabinică (și, separat, cea creștină prin Faptele Apostolilor 2, care citează exact acest tip de pasaj din Ioel 2:28) citește acest verset ca profeție a unei transformări spirituale colective, nu doar a câtorva aleși."
      },
      {
-      "t": " peste seminția ta și binecuvântarea Mea peste urmașii tăi."
+      "t": " Meu peste seminția ta și binecuvântarea Mea peste urmașii tăi."
      }
     ],
     "textCompare": [
@@ -48719,7 +48959,7 @@
       "dict_ro": "Katav yado — literal „își va scrie mâna”, o expresie idiomatică pentru un angajament formal, în scris, asumat personal — imaginea unui legământ pus pe hârtie și semnat, precum legământul scris și pecetluit al lui Neemia (Neemia 9:38, 10:1). Midrașul citat de Rashi (Avot deRabi Natan 36) identifică patru categorii de oameni în acest verset: drepți desăvârșiți, copii ai celor răi care se îndreaptă, penitenți și prozeliți."
      },
      {
-      "t": " că aparține DOMNULUI, iar altul va adopta numele de Israel."
+      "t": " cu mâna [lui] că aparține DOMNULUI, iar altul va adopta numele de Israel."
      }
     ],
     "textCompare": [
@@ -48921,7 +49161,7 @@
    },
    {
     "v": "44:9",
-    "t": "Făuritorii de idoli sunt cu toții pustii, iar lucrurile lor nu sunt de niciun folos; ei mărturisesc despre ei înșiși, nu văd și nu cunosc, iar cei care îi venerează vor fi rușinați.",
+    "t": "Făuritorii de idoli sunt cu toții pustii, iar lucrurile dragi lor nu sunt de niciun folos; ei mărturisesc despre ei înșiși, nu văd și nu cunosc, iar cei care îi venerează vor fi rușinați.",
     "heb": "יֹצְרֵי־פֶסֶל כֻּלָּם תֹּהוּ וַחֲמוּדֵיהֶם בַּל־יוֹעִילוּ וְעֵדֵיהֶם הֵמָּה בַּל־יִרְאוּ וּבַל־יֵדְעוּ לְמַעַן יֵבֹשׁוּ׃",
     "translit": "Yotzrei-fesel kulam tohu vahamudeihem bal-yoilu veedeihem hema bal-yiru uval-yedu lemaan yevosu.",
     "tokens": [
@@ -48939,7 +49179,7 @@
       "dict_ro": "Pesel — de la rădăcina „pasal” (a ciopli), desemnând orice imagine sculptată folosită ca obiect de cult, interzisă explicit în a doua poruncă (Exod 20:4). Faptul că „mărturisesc despre ei înșiși” (edeihem hema) joacă ironic pe tema martorului din v.8 — idolii, martori muți și orbi ai propriei lor neputințe, contrastează direct cu Israel, martor viu al unui Dumnezeu care vede și cunoaște."
      },
      {
-      "t": " sunt cu toții pustii, iar lucrurile lor nu sunt de niciun folos; ei mărturisesc despre ei înșiși, nu văd și nu cunosc, iar cei care îi venerează vor fi rușinați."
+      "t": " sunt cu toții pustii, iar lucrurile dragi lor nu sunt de niciun folos; ei mărturisesc despre ei înșiși, nu văd și nu cunosc, iar cei care îi venerează vor fi rușinați."
      }
     ],
     "textCompare": [
@@ -49049,7 +49289,7 @@
       "dict_ro": "Harash — termen general pentru orice meșteșugar (fierar, tâmplar, sculptor), aici cu accent polemic: cei care fac idolii „sunt doar oameni” (meadam), muritori limitați, deci incapabili prin definiție să confere putere divină obiectului pe care îl modelează — argumentul central al întregii polemici din capitol."
      },
      {
-      "t": " sunt doar oameni! Să se adune și să stea în picioare și să se teamă și să se rușineze laolaltă!"
+      "t": " [lui] sunt doar oameni! Să se adune și să stea în picioare și să se teamă și să se rușineze laolaltă!"
      }
     ],
     "textCompare": [
@@ -49141,12 +49381,12 @@
    },
    {
     "v": "44:13",
-    "t": "Un tâmplar își întinde linia, își însemnează forma cu cretă, rindeluiește și o marchează cu compasul; o face în formă de bărbat, de om în splendoarea sa, de așezat în casă.",
+    "t": "Un tâmplar măsoară cu linia, își însemnează forma cu cretă, rindeluiește și o marchează cu compasul; o face în formă de bărbat, de om în splendoarea sa, de așezat în casă.",
     "heb": "חָרַשׁ עֵצִים נָטָה קָו יְתָאֲרֵהוּ בַשֶּׂרֶד יַעֲשֵׂהוּ בַּמַּקְצֻעוֹת וּבַמְּחוּגָה יְתָאֳרֵהוּ וַיַּעֲשֵׂהוּ כְּתַבְנִית אִישׁ כְּתִפְאֶרֶת אָדָם לָשֶׁבֶת בָּיִת׃",
     "translit": "Haraș etzim nata kav yetaarehu vasered yaasehu bamaketzot uvamehuga yetaorehu vayaasehu ketavnit iș ketiferet adam lașevet bayit.",
     "tokens": [
      {
-      "t": "Un tâmplar își întinde linia, își însemnează forma cu cretă, rindeluiește și o marchează cu compasul; o face în formă de bărbat, de om în "
+      "t": "Un tâmplar măsoară cu linia, își însemnează forma cu cretă, rindeluiește și o marchează cu compasul; o face în formă de bărbat, de om în "
      },
      {
       "t": "splendoarea",
@@ -49166,7 +49406,7 @@
      {
       "source": "Textul Masoretic (ebraică)",
       "original": "חָרַשׁ עֵצִים נָטָה קָו...",
-      "translation": "„Un tâmplar își întinde linia...” — traducerea rabinului Rosen.",
+      "translation": "„Un tâmplar măsoară cu linia...” — traducerea rabinului Rosen.",
       "note": ""
      },
      {
@@ -49530,7 +49770,7 @@
       "dict_ro": "Efer — cenușa, ceea ce rămâne după arderea completă a jumătății de lemn (v.16,19). Rashi oferă o a doua lectură pentru „roe efer” („păstor de cenușă”): nu doar „păstorul lui e cenușă”, ci o joacă de cuvinte pe rădăcina „reut” (tovărășie/asociere) — omul „se asociază cu” lucrarea altora, adunând la sine o slujire care nu e decât cenușă."
      },
      {
-      "t": " lor este doar cenușă, inima lui înșelătoare l-a condus greșit; nici măcar nu se poate salva, dar totuși nu spune: „Ce țin în mâna mea dreaptă este o minciună!”"
+      "t": ", inima lui înșelătoare l-a condus greșit; nici măcar nu se poate salva, dar totuși nu spune: „Ce țin în mâna mea dreaptă este o minciună!”"
      }
     ],
     "textCompare": [
@@ -49813,7 +50053,7 @@
       "dict_ro": "Tzava — Rashi precizează limita exactă a afirmației: nu că porunca despre jertfe n-ar exista deloc (ea vine în Levitic), ci că nu aceasta a fost condiția inițială pusă la Sinai — condiția dintâi, dinaintea oricărei legi rituale, a fost simplu „ascultați de glasul Meu” (v.23), citând explicit Exod 19:5. Jertfele sunt parte din Lege, dar nu temelia legământului."
      },
      {
-      "t": " în ziua când i-am scos din țara Egiptului, despre arderi-de-tot sau jertfe de pace,"
+      "t": ", în ziua când i-am scos din țara Egiptului, despre arderi-de-tot sau jertfe de pace,"
      }
     ],
     "textCompare": [
@@ -50015,12 +50255,12 @@
    },
    {
     "v": "7:26",
-    "t": "Dar ei nu au ascultat de Mine și nu își pleacă urechea; ei și-au învârtoșat grumazul și au devenit mai răi decât strămoșii lor.",
+    "t": "Dar ei nu ascultă de Mine și nu își pleacă urechea; ei și-au învârtoșat grumazul și au devenit mai răi decât strămoșii lor.",
     "heb": "וְלוֹא שָׁמְעוּ אֵלַי וְלֹא הִטּוּ אֶת־אָזְנָם וַיַּקְשׁוּ אֶת־עָרְפָּם הֵרֵעוּ מֵאֲבוֹתָם׃",
     "translit": "Velo șameu elai velo hitu et-oznam vayakșu et-orpam heréu meavotam.",
     "tokens": [
      {
-      "t": "Dar ei nu au ascultat de Mine și nu își pleacă urechea; ei și-au "
+      "t": "Dar ei nu ascultă de Mine și nu își pleacă urechea; ei și-au "
      },
      {
       "t": "învârtoșat grumazul",
@@ -50040,7 +50280,7 @@
      {
       "source": "Textul Masoretic (ebraică)",
       "original": "וְלוֹא שָׁמְעוּ אֵלַי...",
-      "translation": "„Dar ei nu au ascultat de Mine...” — traducerea rabinului Rosen.",
+      "translation": "„Dar ei nu ascultă de Mine...” — traducerea rabinului Rosen.",
       "note": ""
      },
      {
@@ -50139,7 +50379,7 @@
       "dict_ro": "Musar — termen central în literatura de înțelepciune (cf. Proverbe 1:7, „nebunii disprețuiesc înțelepciunea și musar-ul”), desemnând nu o simplă critică, ci disciplina formativă primită cu smerenie. Refuzul ei aici nu e doar un defect moral izolat, ci simptomul unei pierderi mai adânci: „credința/statornicia” (emuna) însăși a dispărut, până și din vorbire — poporul nu mai poate nici măcar rosti adevărul despre sine."
      },
      {
-      "t": " credința sa este pierdută și nimicită din gura lor.”"
+      "t": "; credința sa este pierdută și nimicită din gura lor.”"
      }
     ],
     "textCompare": [
@@ -50852,7 +51092,7 @@
       "dict_ro": "Baale Yehuda — Rashi identifică locul, citând Iosua 15:9 și 1 Cronici 13:6, drept un alt nume pentru Chiriat-Iearim, unde Chivotul fusese adus și păstrat de la înfrângerea filistenilor (1 Samuel 7:1); cuvântul „baal” aici are, după Rashi, sensul de „câmpie/loc neted”, nu de zeitate."
      },
      {
-      "t": " ca să ridice de acolo Chivotul lui Dumnezeu asupra căruia este invocat numele – numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi, este asupra lui."
+      "t": ", ca să ridice de acolo Chivotul lui Dumnezeu asupra căruia este invocat numele – numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi, este asupra lui."
      }
     ],
     "textCompare": [
@@ -51736,12 +51976,12 @@
    },
    {
     "v": "6:19",
-    "t": "Și a dat întregului popor, întregii mulțimi a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o așișa (n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui.",
+    "t": "Și a dat întregului popor, întregii multitudini a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o așișa (n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui.",
     "heb": "וַיְחַלֵּק לְכָל־הָעָם לְכָל־הֲמוֹן יִשְׂרָאֵל לְמֵאִישׁ וְעַד־אִשָּׁה לְאִישׁ חַלַּת לֶחֶם אַחַת וְאֶשְׁפָּר אֶחָד וַאֲשִׁישָׁה אֶחָת וַיֵּלֶךְ כָּל־הָעָם אִישׁ לְבֵיתוֹ׃",
     "translit": "Vayhalek lechol-haam lechol-hamon Israël lemeiș vead-ișa leiș halat lehem ahat veeșpar ehad vaașișa ehat vaieleh kol-haam iș leveito.",
     "tokens": [
      {
-      "t": "Și a dat întregului popor, întregii mulțimi a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o "
+      "t": "Și a dat întregului popor, întregii multitudini a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o "
      },
      {
       "t": "așișa",
@@ -51754,7 +51994,7 @@
       "dict_ro": "Așișa — cuvânt cu sens disputat, notat onest ca atare de traducerea Rosen; Rashi, urmând Talmudul (Pesahim 36b), identifică „eșpar” drept a șasea parte dintr-un taur (o porție de carne standardizată), iar „așișa” drept un urcior/butoiaș de vin — interpretare tradițională păstrată în paralel cu varianta „turtă cu stafide”, mai des întâlnită în traducerile moderne bazate pe context (cf. Osea 3:1, unde termenul apare în context clar culinar)."
      },
      {
-      "t": "); și apoi tot poporul, fiecare om, a mers la casa lui."
+      "t": " (n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui."
      }
     ],
     "textCompare": [
@@ -51874,7 +52114,7 @@
       "dict_ro": "Baale Yehuda — Rashi identifică locul, citând Iosua 15:9 și 1 Cronici 13:6, drept un alt nume pentru Chiriat-Iearim, unde Chivotul fusese adus și păstrat de la înfrângerea filistenilor (1 Samuel 7:1); cuvântul „baal” aici are, după Rashi, sensul de „câmpie/loc neted”, nu de zeitate."
      },
      {
-      "t": " ca să ridice de acolo Chivotul lui Dumnezeu asupra căruia este invocat numele – numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi, este asupra lui."
+      "t": ", ca să ridice de acolo Chivotul lui Dumnezeu asupra căruia este invocat numele – numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi, este asupra lui."
      }
     ],
     "textCompare": [
@@ -52758,12 +52998,12 @@
    },
    {
     "v": "6:19",
-    "t": "Și a dat întregului popor, întregii mulțimi a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o așișa (n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui.",
+    "t": "Și a dat întregului popor, întregii multitudini a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o așișa (n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui.",
     "heb": "וַיְחַלֵּק לְכָל־הָעָם לְכָל־הֲמוֹן יִשְׂרָאֵל לְמֵאִישׁ וְעַד־אִשָּׁה לְאִישׁ חַלַּת לֶחֶם אַחַת וְאֶשְׁפָּר אֶחָד וַאֲשִׁישָׁה אֶחָת וַיֵּלֶךְ כָּל־הָעָם אִישׁ לְבֵיתוֹ׃",
     "translit": "Vayhalek lechol-haam lechol-hamon Israël lemeiș vead-ișa leiș halat lehem ahat veeșpar ehad vaașișa ehat vaieleh kol-haam iș leveito.",
     "tokens": [
      {
-      "t": "Și a dat întregului popor, întregii mulțimi a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o "
+      "t": "Și a dat întregului popor, întregii multitudini a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o "
      },
      {
       "t": "așișa",
@@ -52776,7 +53016,7 @@
       "dict_ro": "Așișa — cuvânt cu sens disputat, notat onest ca atare de traducerea Rosen; Rashi, urmând Talmudul (Pesahim 36b), identifică „eșpar” drept a șasea parte dintr-un taur (o porție de carne standardizată), iar „așișa” drept un urcior/butoiaș de vin — interpretare tradițională păstrată în paralel cu varianta „turtă cu stafide”, mai des întâlnită în traducerile moderne bazate pe context (cf. Osea 3:1, unde termenul apare în context clar culinar)."
      },
      {
-      "t": "); și apoi tot poporul, fiecare om, a mers la casa lui."
+      "t": " (n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui."
      }
     ],
     "textCompare": [
@@ -52890,7 +53130,7 @@
       "dict_ro": "Bahar — David nu respinge acuzația Mihalei ca fiind falsă din punct de vedere factual, ci îi contestă premisa: onoarea regală nu vine din descendența dinastică (așa cum crede Mihal, fiica lui Saul), ci din alegerea directă a DOMNULUI, care l-a preferat pe David „față de tatăl tău și față de toată casa lui” — o replică ce transformă critica ei de etichetă regală într-o discuție despre sursa reală a legitimității puterii."
      },
      {
-      "t": " ca să mă instaureze conducător peste poporul DOMNULUI, peste Israel – înaintea DOMNULUI am jucat."
+      "t": " față de tatăl tău și față de toată casa lui, ca să mă instaureze conducător peste poporul DOMNULUI, peste Israel – înaintea DOMNULUI am jucat."
      }
     ],
     "textCompare": [
@@ -53248,7 +53488,7 @@
    },
    {
     "v": "7:5",
-    "t": "„Mergi și spune-i slujitorului Meu, lui David: «Așa a spus DOMNUL: oare vei construi tu o casă ca să Mă așez în ea?",
+    "t": "„Mergi și spune-i slujitorului Meu, lui David: «Așa a spus DOMNUL: oare vei construi tu o casă ca să mă așez în ea?",
     "heb": "לֵךְ וְאָמַרְתָּ אֶל־עַבְדִּי אֶל־דָּוִד כֹּה אָמַר יְהוָה הַאַתָּה תִּבְנֶה־לִּי בַיִת לְשִׁבְתִּי׃",
     "translit": "Lech veamarta el-avdi el-David ko amar ADONAI haata tivne-li bayit leșivti.",
     "tokens": [
@@ -53266,7 +53506,7 @@
       "dict_ro": "Bana — Metzudat David citește particula interogativă „ha-” de la începutul frazei ca marcând o mirare retorică, nu o simplă întrebare: „oare tu vei zidi Mie o casă?” în sensul „ajunge-ți binele pe care ți l-am făcut deja, cum se arată în versetele următoare” — răspunsul negativ nu e o respingere a proiectului în sine, ci o amânare a lui pentru generația următoare."
      },
      {
-      "t": " o casă ca să Mă așez în ea?"
+      "t": " o casă ca să mă așez în ea?"
      }
     ],
     "textCompare": [
@@ -53358,7 +53598,7 @@
     "translit": "Bechol așer-hithalachti bechol-benei Israël hadavar dibarti et-ahad șivtei Israël așer tziviti lirot et-ami et-Israël lemor lama lo-venitem li beit arazim.",
     "tokens": [
      {
-      "t": "Oriunde am umblat printre toți copiii lui Israel, oare am vorbit Eu vreo vorbă aceluia pe care l-am numit să "
+      "t": "Oriunde am umblat printre toți copiii lui Israel, oare am vorbit Eu vreo vorbă aceluia pe care l-am numit să-Mi "
      },
      {
       "t": "păstorească",
@@ -53406,12 +53646,12 @@
    },
    {
     "v": "7:8",
-    "t": "Și acum, așa să-i spui slujitorului Meu, lui David: Așa a spus DOMNUL Oștirilor: Eu te-am luat de la stână, de la păstoritul turmelor, ca să fii conducător peste poporul Meu, peste Israel.",
+    "t": "Și acum, așa să-i spui slujitorului Meu, lui David: ‘Așa a spus DOMNUL Oștirilor: Eu te-am luat de la stână, de la păstoritul turmelor, ca să fii conducător peste poporul Meu, peste Israel.",
     "heb": "וְעַתָּה כֹּה־תֹאמַר לְעַבְדִּי לְדָוִד כֹּה אָמַר יְהוָה צְבָאוֹת אֲנִי לְקַחְתִּיךָ מִן־הַנָּוֶה מֵאַחַר הַצֹּאן לִהְיוֹת נָגִיד עַל־עַמִּי עַל־יִשְׂרָאֵל׃",
     "translit": "Veata ko-tomar leavdi leDavid ko amar ADONAI Țevaot ani lekachticha min-hanave meahar hatzon lihyot nagid al-ami al-Israël.",
     "tokens": [
      {
-      "t": "Și acum, așa să-i spui slujitorului Meu, lui David: Așa a spus DOMNUL Oștirilor: Eu te-am luat de la "
+      "t": "Și acum, așa să-i spui slujitorului Meu, lui David: ‘Așa a spus DOMNUL Oștirilor: Eu te-am luat de la "
      },
      {
       "t": "stână",
@@ -53640,7 +53880,7 @@
       "dict_ro": "Zera — cuvântul „zera” (sămânță) desemnează aici, gramatical, un singular colectiv, dar precizarea „care va ieși dintre coapsele tale” (yetze mimeecha) îl restrânge explicit la un fiu direct, biologic, nu la o descendență generală — punctul de plecare al unei promisiuni dinastice care va fi citită ulterior atât ca împlinire imediată în Solomon, cât și, în tradiția mesianică ulterioară, ca profeție cu împlinire finală mult mai îndepărtată."
      },
      {
-      "t": ", și îi voi statornici domnia."
+      "t": " după tine, cel care va ieși dintre coapsele tale, și îi voi statornici domnia."
      }
     ],
     "textCompare": [
@@ -53746,7 +53986,7 @@
       "dict_ro": "Șevet anașim — Rashi identifică aceste pedepse concrete cu evenimente istorice din domnia lui Solomon: „toiagul oamenilor” ar fi Hadad edomitul și Rezon, fiul lui Eliada, adversari politici ridicați împotriva lui Solomon (1 Regi 11:14-25), iar „chinurile fiilor omului” ar fi Așmodai, care, potrivit unei tradiții aggadice, l-ar fi alungat vremelnic pe Solomon de pe tron — o lectură care leagă limbajul general al versetului de episoade narative precise din cartea 1 Regi."
      },
      {
-      "t": "."
+      "t": " și cu chinurile omenești."
      }
     ],
     "textCompare": [
