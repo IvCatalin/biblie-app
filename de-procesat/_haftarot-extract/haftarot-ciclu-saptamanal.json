@@ -63731,6 +63731,1381 @@
     ]
    }
   ]
+ },
+  {
+  "num": 39,
+  "title": "Haftarat Naso",
+  "ref": "Judecători 13:2-25",
+  "intro": "Pericopa Naso cuprinde legea nazireului: bărbatul sau femeia care se consacră lui Dumnezeu se abține de la vin și de la tot ce iese din vița-de-vie și nu-și tunde părul. Haftara spune povestea singurului nazireu „din pântece” pe care Scriptura îl numește astfel de la naștere: Samson. Un înger i se arată soției sterpe a lui Manoah, din tribul lui Dan, îi vestește un fiu și îi poruncește să păzească ea însăși, de pe acum, legile nazireului. Manoah se roagă să revină îngerul; acesta vine, dar nu adaugă nimic, refuză masa, își ascunde numele („este miraculos”) și se înalță în flacăra jertfei. Manoah se teme că vor muri pentru că L-au văzut pe Dumnezeu, iar soția lui îi răspunde cu înțelepciune că Dumnezeu nu le-ar fi primit jertfa și nu le-ar fi vestit un fiu dacă ar fi vrut să-i omoare. Capitolul se încheie cu nașterea lui Samson și cu primele mișcări ale duhului DOMNULUI în el.",
+  "verses": [
+   {
+    "v": "13:2",
+    "t": "Era un bărbat anume din Țora, din familia daniților, al cărui nume era Manoah, iar soția lui era stearpă și nu născuse.",
+    "heb": "וַיְהִי אִישׁ אֶחָד מִצָּרְעָה מִמִּשְׁפַּחַת הַדָּנִי וּשְׁמוֹ מָנוֹחַ וְאִשְׁתּוֹ עֲקָרָה וְלֹא יָלָדָה׃",
+    "translit": "Vaihi iș ehad mi'Tora mimișpahat hadani ușemo Manoah veișto akara velo ialada.",
+    "tokens": [
+     {
+      "t": "Era un bărbat anume din Țora, din familia daniților, al cărui nume era Manoah, iar soția lui era "
+     },
+     {
+      "t": "stearpă",
+      "w": "stearpă",
+      "heb": "עֲקָרָה",
+      "translit": "akara",
+      "strong": "H6135",
+      "pos": "adjectiv, feminin singular",
+      "def_ro": "stearpă, fără copii.",
+      "dict_ro": "Akara — de la rădăcina akar, „a smulge din rădăcină”: femeia fără urmași e ca un copac dezrădăcinat. Scriptura repetă tiparul maicilor sterpe prin care Dumnezeu își începe lucrarea — Sara, Rebeca, Rahela, Ana, iar în Noul Testament Elisabeta (Luca 1:7). Talmudul (Bava Batra 91a) păstrează o tradiție despre numele ei, pe care Scriptura nu-l dă: Țelelponit. Tot acolo se spune că Ivțan (Boaz, după tradiție) nu l-a invitat pe Manoah la nicio nuntă a copiilor lui, socotind că un om fără copii nu-l va putea chema niciodată înapoi."
+     },
+     {
+      "t": " și nu născuse."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי אִישׁ אֶחָד מִצָּרְעָה...",
+      "translation": "„Era un bărbat anume din Țora...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἦν ἀνὴρ εἷς ἀπὸ Σαραὰ ἀπὸ δήμου συγγενείας τοῦ Δανί, καὶ ὄνομα αὐτῷ Μανωέ, καὶ γυνὴ αὐτοῦ στεῖρα καὶ οὐκ ἔτεκε.",
+      "greek": true,
+      "translation": "„Și era un bărbat din Saraa, din neamul rudeniei lui Dan, și numele lui era Manoe, iar femeia lui era stearpă și nu năștea.”",
+      "note": "Septuaginta scrie numele Saraa (pentru Țora) și Manoe (pentru Manoah); altfel, corespondență strânsă."
+     }
+    ],
+    "refs": [
+     "Iosua 15:33",
+     "Iosua 19:41",
+     "Geneza 16:1",
+     "Geneza 25:21",
+     "1 Samuel 1:2-6",
+     "Luca 1:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și soția lui era stearpă” — iar ca lămurire în plus a spus „și nu născuse”."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Din familia daniților” — cu yod-ul de apartenență, ca în „tribul manasiților”; iar „familie” are aici sensul de „trib”, ca în „a apropiat familia lui Iuda” (Iosua 7:17). „Stearpă și nu născuse” — adăugire de lămurire, ca în „Sarai era stearpă, nu avea copil” (Geneza 11:30)."
+     },
+     {
+      "author": "Talmud Bavli, Bava Batra 91a",
+      "text": "Rav Hanan bar Rava a spus: mama lui Samson se numea Țelelponit, iar sora lui, Nașian. Și la ce folosește să le știm numele? Pentru un răspuns celor care pun întrebări despre numele acestor femei, pe care Scriptura nu le pomenește: există o tradiție primită despre numele lor."
+     }
+    ]
+   },
+   {
+    "v": "13:3",
+    "t": "Și un înger al lui Dumnezeu i s-a arătat femeii și i-a spus: „Iată, acum ești stearpă și nu ai născut, dar vei zămisli și vei naște un fiu.",
+    "heb": "וַיֵּרָא מַלְאַךְ־יְהוָה אֶל־הָאִשָּׁה וַיֹּאמֶר אֵלֶיהָ הִנֵּה־נָא אַתְּ עֲקָרָה וְלֹא יָלַדְתְּ וְהָרִית וְיָלַדְתְּ בֵּן׃",
+    "translit": "Vaièra malah-ADONAI el-haișa vaiomer eleha hine-na at-akara velo ialadet veharit veialadet ben.",
+    "tokens": [
+     {
+      "t": "Și "
+     },
+     {
+      "t": "un înger al lui Dumnezeu",
+      "w": "un înger al lui Dumnezeu",
+      "heb": "מַלְאַךְ־יְהוָה",
+      "translit": "malah-ADONAI",
+      "strong": "H4397",
+      "pos": "substantiv, masculin singular, în construcție + numele divin",
+      "def_ro": "trimisul, îngerul DOMNULUI.",
+      "dict_ro": "Malah — „trimis, sol”, de la o rădăcină care înseamnă „a trimite cu o însărcinare”; același cuvânt desemnează un mesager omenesc sau unul ceresc. Îngerul i se arată femeii, nu lui Manoah — și de fiecare dată în capitol ea înțelege mai repede decât soțul ei. Vestirea urmează tiparul biblic al vestirii nașterii: arătarea, constatarea sterpiciunii, făgăduința („vei zămisli și vei naște un fiu”), cu ecouri în Geneza 18:10 și în vestirea lui Ioan Botezătorul (Luca 1:13)."
+     },
+     {
+      "t": " i s-a arătat femeii și i-a spus: „Iată, acum ești stearpă și nu ai născut, dar vei zămisli și vei naște un fiu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּרָא מַלְאַךְ־יְהוָה אֶל־הָאִשָּׁה וַיֹּאמֶר...",
+      "translation": "„Și un înger al lui Dumnezeu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ὤφθη ἄγγελος Κυρίου πρὸς τὴν γυναῖκα, καὶ εἶπε πρὸς αὐτήν· ἰδοὺ σὺ στεῖρα καὶ οὐ τέτοκας, καὶ συλλήψῃ υἱόν.",
+      "greek": true,
+      "translation": "„Și îngerul Domnului i s-a arătat femeii și i-a zis: Iată, tu ești stearpă și n-ai născut, și vei zămisli un fiu.”",
+      "note": "Septuaginta (textul B) are doar „vei zămisli un fiu”, fără „și vei naște”."
+     }
+    ],
+    "refs": [
+     "Judecători 6:11,12",
+     "Geneza 16:7-13",
+     "Luca 1:11,28-38",
+     "Geneza 18:10",
+     "1 Samuel 1:20",
+     "Luca 1:13,31"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și vei zămisli” — vei rămâne însărcinată."
+     }
+    ]
+   },
+   {
+    "v": "13:4",
+    "t": "Și acum, păzește-te așadar: să nu bei nici vin și nici băutură tare, și să nu mănânci nimic necurat.",
+    "heb": "וְעַתָּה הִשָּׁמְרִי נָא וְאַל־תִּשְׁתִּי יַיִן וְשֵׁכָר וְאַל־תֹּאכְלִי כָּל־טָמֵא׃",
+    "translit": "Veata hișameri na veal-tiști iain veșehar veal-tohli kol-tame.",
+    "tokens": [
+     {
+      "t": "Și acum, păzește-te așadar: să nu bei nici vin și nici "
+     },
+     {
+      "t": "băutură tare",
+      "w": "băutură tare",
+      "heb": "וְשֵׁכָר",
+      "translit": "veșehar",
+      "strong": "H7941",
+      "pos": "conjuncție + substantiv, masculin singular",
+      "def_ro": "băutură amețitoare, băutură tare.",
+      "dict_ro": "Șehar — orice băutură care îmbată (de la șahar, „a se îmbăta”), alături de vin în legea nazireului (Numeri 6:3) și în interdicția pentru preoții care intră în Cortul Întâlnirii (Levitic 10:9). Rashi, după Targumul lui Ionatan, explică perechea „vin și băutură tare” ca „vin proaspăt și vin vechi”. Legătura cu pericopa Naso e directă: acolo Tora dă legile nazireului, aici mama lui Samson trebuie să le păzească de pe acum, pentru copilul pe care îl va purta."
+     },
+     {
+      "t": ", și să nu mănânci nimic necurat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה הִשָּׁמְרִי נָא וְאַל־תִּשְׁתִּי...",
+      "translation": "„Și acum, păzește-te așadar: să nu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν φύλαξαι δὴ καὶ μὴ πίῃς οἶνον καὶ μέθυσμα καὶ μὴ φάγῃς πᾶν ἀκάθαρτον·",
+      "greek": true,
+      "translation": "„Și acum păzește-te dar și să nu bei vin și băutură amețitoare și să nu mănânci nimic necurat;”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Judecători 13:14",
+     "Numeri 6:2,3",
+     "Luca 1:15",
+     "Levitic 11:27,47",
+     "Faptele Apostolilor 10:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Vin și băutură tare” — vin proaspăt stors sau vin vechi (așa traduce Targumul lui Ionatan)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și acum” — de acum înainte păzește-te și nu bea... „Nimic necurat” — ci doar mâncare obișnuită, în curăție; iar înțelepții noștri au spus (Sota 9b) că „necurat” înseamnă aici lucrurile interzise nazireului."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: i-a poruncit să se păzească de toate lucrurile interzise nazireului, pentru ca sfințenia copilului să înceapă din pântece. Iar „nimic necurat” se poate explica fie ca mâncăruri necurate, fie — cum au explicat înțelepții noștri — ca lucrurile interzise nazireului, adică „tot ce iese din vița-de-vie, de la sâmburi până la pieliță” (Numeri 6:4)."
+     },
+     {
+      "author": "Talmud Bavli, Sota 9b",
+      "text": "„Și să nu mănânci nimic necurat” (Judecători 13:4) — ce înseamnă „nimic necurat”? Oare până acum mâncase lucruri necurate? Rabi Ițhak din școala lui Rabi Ami a spus: nu e vorba de mâncăruri propriu-zis necurate, ci de lucruri interzise nazireului."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Iain veșehar” — adică vin nou și vin vechi."
+     }
+    ]
+   },
+   {
+    "v": "13:5",
+    "t": "Căci iată, vei zămisli și vei naște un fiu. Briciul să nu treacă peste capul lui, căci tânărul va fi nazireu pentru Dumnezeu încă din pântec și va începe să-l mântuiască pe Israel din mâna filistenilor.”",
+    "heb": "כִּי הִנָּךְ הָרָה וְיֹלַדְתְּ בֵּן וּמוֹרָה לֹא־יַעֲלֶה עַל־רֹאשׁוֹ כִּי־נְזִיר אֱלֹהִים יִהְיֶה הַנַּעַר מִן־הַבֶּטֶן וְהוּא יָחֵל לְהוֹשִׁיעַ אֶת־יִשְׂרָאֵל מִיַּד פְּלִשְׁתִּים׃",
+    "translit": "Ki hinah hara veioladet ben umora lo-iaale al-roșo ki-nezir Elohim ihie hanaar min-habeten vehu iahel lehoșia et-Israel miiad peliștim.",
+    "tokens": [
+     {
+      "t": "Căci iată, vei zămisli și vei naște un fiu. Briciul să nu treacă peste capul lui, căci tânărul va fi "
+     },
+     {
+      "t": "nazireu",
+      "w": "nazireu",
+      "heb": "נְזִיר",
+      "translit": "nezir",
+      "strong": "H5139",
+      "pos": "substantiv, masculin singular, în construcție",
+      "def_ro": "nazireu, cel pus deoparte pentru Dumnezeu.",
+      "dict_ro": "Nazir — de la nazar, „a se separa, a se consacra”; Metzudat Țion îl explică: „pentru că s-a despărțit de plăcerile lumii”. Legea nazireului (Numeri 6, în pericopa Naso) e un jurământ luat de bunăvoie, pe o perioadă; Samson este însă nazireu „din pântece”, fără jurământul lui, prin cuvântul îngerului — de aceea Talmudul (Nazir 4b) vorbește de un „nazireu ca Samson”, cu reguli proprii. „Va începe să mântuiască” e, după Metzudat David, o laudă cu rezervă: mântuirea lui a rămas un început, neterminat, deși i-a lovit pe filisteni de multe ori."
+     },
+     {
+      "t": " pentru Dumnezeu încă din pântec și va începe să-l mântuiască pe Israel din mâna filistenilor.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי הִנָּךְ הָרָה וְיֹלַדְתְּ...",
+      "translation": "„Căci iată, vei zămisli și vei...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι ἰδοὺ σὺ ἐν γαστρὶ ἔχεις καὶ τέξῃ υἱόν, καὶ σίδηρος ἐπὶ τὴν κεφαλὴν αὐτοῦ οὐκ ἀναβήσεται, ὅτι ναζὶρ Θεοῦ ἔσται τὸ παιδάριον ἀπὸ τῆς κοιλίας, καὶ αὐτὸς ἄρξεται σῶσαι τὸν ᾿Ισραὴλ ἐκ χειρὸς Φυλιστιΐμ.",
+      "greek": true,
+      "translation": "„căci iată, tu ai în pântece și vei naște un fiu, și fierul nu se va sui pe capul lui, căci nazireu al lui Dumnezeu va fi copilul din pântece, și el va începe să mântuiască pe Israel din mâna filistenilor.”",
+      "note": "Septuaginta spune „fierul” (σίδηρος) în loc de „briciul” și transliterează cuvântul nazir (ναζίρ)."
+     }
+    ],
+    "refs": [
+     "Numeri 6:2,3,5",
+     "1 Samuel 1:11",
+     "1 Samuel 7:13",
+     "2 Samuel 8:1",
+     "1 Cronici 18:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Briciul” (mora) — briciul, pentru că aruncă și îndepărtează părul."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Căci vei zămisli” — de aceea să te păzești de aceste lucruri, pentru că vei zămisli și vei naște un fiu, iar briciul nu va trece peste capul lui ca să-i ia părul, căci din clipa ieșirii lui din pântece va fi nazireu pentru DOMNUL; de aceea chiar și în timpul sarcinii să te păzești de lucrurile interzise nazireului. „Și el va începe să mântuiască” — adică mântuirea lui va fi un început fără încheiere, și așa a fost: deși i-a lovit pe filisteni de multe ori, și-a retras îndată mâna și n-a mai luptat până la biruința deplină, spre deosebire de ceilalți judecători, care, odată ce începeau să lovească neamurile, nu-și retrăgeau mâna până nu făceau tot ce le stătea în putere."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Briciul nu va trece peste capul lui” — mora este briciul, iar Targumul lui Ionatan traduce „foarfeca”. „Și el va începe” — căci judecătorii dinaintea lui nu se luptaseră cu filistenii; iar înțelepții noștri au explicat: s-a desfăcut jurământul lui Avimeleh, care spusese „să nu mă înșeli nici pe mine, nici pe fiul meu, nici pe nepotul meu” (Geneza 21:23), pentru că ei au fost cei care au început lupta cu Israel. Sau a spus „va începe să mântuiască” pentru că nu i-a mântuit cu o mântuire deplină."
+     },
+     {
+      "author": "Talmud Bavli, Sota 9b-10a",
+      "text": "„Și el va începe (yahel) să mântuiască pe Israel din mâna filistenilor” (Judecători 13:5) — Rabi Hama, fiul lui Rabi Hanina, a spus: părinților lui Samson li s-a spus că jurământul lui Avimeleh, regele filistenilor, s-a desfăcut (huhal), căci filistenii își încălcaseră ei înșiși jurământul, asuprindu-i pe israeliți."
+     },
+     {
+      "author": "Talmud Bavli, Nazir 4b",
+      "text": "Oare Samson nu a fost nazireu prin jurământ? Nu e scris: „căci tânărul va fi nazireu pentru Dumnezeu încă din pântec” (Judecători 13:5)? Acolo îngerul a fost cel care a vorbit — nazireatul lui Samson nu a venit dintr-un jurământ rostit de un om."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Umora” — este briciul, numit așa pentru că aruncă părul, din „a aruncat în mare” (Exod 15:4); și tot așa s-a spus la Samuel: „briciul nu va trece peste capul lui” (1 Samuel 1:11). „Nezir” — cu sensul de despărțire, ca în „s-au întors înapoi” (Isaia 1:4), pentru că s-a despărțit de plăcerile lumii. „Iahel” — va începe."
+     }
+    ]
+   },
+   {
+    "v": "13:6",
+    "t": "Femeia a venit și i-a spus soțului ei astfel: „Un om al lui Dumnezeu a venit la mine. Iar înfățișarea lui era ca înfățișarea unui înger al lui Dumnezeu, foarte înfricoșătoare. Nici eu nu l-am întrebat de unde era și nici el nu mi-a dezvăluit care era numele lui.",
+    "heb": "וַתָּבֹא הָאִשָּׁה וַתֹּאמֶר לְאִישָׁהּ לֵאמֹר אִישׁ הָאֱלֹהִים בָּא אֵלַי וּמַרְאֵהוּ כְּמַרְאֵה מַלְאַךְ הָאֱלֹהִים נוֹרָא מְאֹד וְלֹא שְׁאִלְתִּיהוּ אֵי־מִזֶּה הוּא וְאֶת־שְׁמוֹ לֹא־הִגִּיד לִי׃",
+    "translit": "Vatavo haișa vatomer leișa lemor iș ha'Elohim ba elai umarehu kemare malah ha'Elohim nora meod velo șeiltihu ei-mize hu veet-șemo lo-highid li.",
+    "tokens": [
+     {
+      "t": "Femeia a venit și i-a spus soțului ei astfel: „Un om al lui Dumnezeu a venit la mine. Iar înfățișarea lui era ca înfățișarea unui înger al lui Dumnezeu, "
+     },
+     {
+      "t": "foarte înfricoșătoare",
+      "w": "foarte înfricoșătoare",
+      "heb": "נוֹרָא מְאֹד",
+      "translit": "nora meod",
+      "strong": "H3372",
+      "pos": "verb, nifal, participiu + adverb",
+      "def_ro": "cumplit de înfricoșător, care inspiră o teamă plină de respect.",
+      "dict_ro": "Nora — participiul lui yare, „a se teme”: nu doar ceva care sperie, ci ceva care inspiră evlavie și uimire; același cuvânt apare în Geneza 28:17, „cât de înfricoșător este locul acesta!”. Femeia îl numește „om al lui Dumnezeu”, titlul obișnuit al profeților (Deuteronom 33:1; 1 Samuel 9:6), dar înfățișarea lui o duce cu gândul la un înger. Radak observă că oamenii își închipuie de obicei îngerul ca pe un trup cu o înfățișare cumplită."
+     },
+     {
+      "t": ". Nici eu nu l-am întrebat de unde era și nici el nu mi-a dezvăluit care era numele lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתָּבֹא הָאִשָּׁה וַתֹּאמֶר לְאִישָׁהּ...",
+      "translation": "„Femeia a venit și i-a spus...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἰσῆλθεν ἡ γυνὴ καὶ εἶπε τῷ ἀνδρὶ αὐτῆς λέγουσα· ἄνθρωπος Θεοῦ ἦλθε πρός με, καὶ εἶδος αὐτοῦ ὡς εἶδος ἀγγέλου Θεοῦ, φοβερὸν σφόδρα· καὶ οὐκ ἠρώτησα αὐτόν, πόθεν ἐστί, καὶ τὸ ὄνομα αὐτοῦ οὐκ ἀπήγγειλέ μοι.",
+      "greek": true,
+      "translation": "„Și a intrat femeia și a zis bărbatului ei, spunând: Un om al lui Dumnezeu a venit la mine, și chipul lui era ca chipul unui înger al lui Dumnezeu, foarte înfricoșător; și nu l-am întrebat de unde este, iar numele lui nu mi l-a spus.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Deuteronom 33:1",
+     "1 Samuel 2:27",
+     "1 Regi 17:18,24",
+     "Matei 28:3",
+     "Faptele Apostolilor 6:15",
+     "Daniel 10:5,11"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Un om al lui Dumnezeu” — ea a crezut că era un profet. „Foarte înfricoșătoare” — înfățișarea feței lui era înfricoșătoare și cumplită, ca înfățișarea unui înger. „De unde era” — din ce loc este; căci numele nu mi l-a spus când l-am întrebat, și de aceea nu l-am mai întrebat de locul lui, de vreme ce nu voia să spună."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ca înfățișarea unui înger al lui Dumnezeu, foarte înfricoșătoare” — adică, precum își închipuie mulțimea oamenilor, că îngerul are trup și că înfățișarea lui este una înfricoșătoare."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Leișa” — soțului ei. „Ei-mize” — unde e locul despre care se spune: de aici este; ca în „de unde vii?” (Geneza 16:8)."
+     }
+    ]
+   },
+   {
+    "v": "13:7",
+    "t": "Și mi-a spus: „Iată, vei zămisli și vei naște un fiu. Și acum, să nu bei nici vin și nici băutură tare, și să nu mănânci nimic necurat, căci tânărul va fi nazireu pentru Dumnezeu, din pântec până în ziua morții lui.”",
+    "heb": "וַיֹּאמֶר לִי הִנָּךְ הָרָה וְיֹלַדְתְּ בֵּן וְעַתָּה אַל־תִּשְׁתִּי יַיִן וְשֵׁכָר וְאַל־תֹּאכְלִי כָּל־טֻמְאָה כִּי־נְזִיר אֱלֹהִים יִהְיֶה הַנַּעַר מִן־הַבֶּטֶן עַד־יוֹם מוֹתוֹ׃",
+    "translit": "Vaiomer li hinah hara veioladet ben veata al-tiști iain veșehar veal-tohli kol-tuma ki-nezir Elohim ihie hanaar min-habeten ad-iom moto.",
+    "tokens": [
+     {
+      "t": "Și mi-a spus: „Iată, vei zămisli și vei naște un fiu. Și acum, să nu bei nici vin și nici băutură tare, și să nu mănânci nimic necurat, căci tânărul va fi nazireu pentru Dumnezeu, "
+     },
+     {
+      "t": "din pântec",
+      "w": "din pântec",
+      "heb": "מִן־הַבֶּטֶן",
+      "translit": "min-habeten",
+      "strong": "H990",
+      "pos": "prepoziție + substantiv, feminin singular, cu articol",
+      "def_ro": "din pântece, de la naștere.",
+      "dict_ro": "Beten — pântecele, sânul matern; „din pântece” exprimă o chemare care precede orice alegere personală, ca la Ieremia („înainte să ieși din pântece, te-am sfințit”, Ieremia 1:5) sau la Ioan Botezătorul („umplut de Duhul Sfânt încă din pântecele mamei lui”, Luca 1:15). Femeia repetă cuvintele îngerului aproape exact, dar adaugă „până în ziua morții lui” — o precizare pe care îngerul nu o spusese, și în care cititorul poate auzi deja sfârșitul lui Samson (Judecători 16:30)."
+     },
+     {
+      "t": " până în ziua morții lui.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר לִי הִנָּךְ הָרָה...",
+      "translation": "„Și mi-a spus: „Iată, vei zămisli...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπέ μοι· ἰδοὺ σὺ ἐν γαστρὶ ἔχεις καὶ τέξῃ υἱόν· καὶ νῦν μὴ πίῃς οἶνον καὶ μέθυσμα καὶ μὴ φάγῃς πᾶν ἀκάθαρτον, ὅτι Θεοῦ ἅγιον ἔσται τὸ παιδάριον ἀπὸ γαστρὸς ἕως ἡμέρας θανάτου αὐτοῦ.",
+      "greek": true,
+      "translation": "„Și mi-a zis: Iată, tu ai în pântece și vei naște un fiu; și acum să nu bei vin și băutură amețitoare și să nu mănânci nimic necurat, căci sfânt al lui Dumnezeu va fi copilul din pântece până în ziua morții lui.”",
+      "note": "Divergență reală: aici Septuaginta (textul B) traduce nazir prin „sfânt al lui Dumnezeu” (Θεοῦ ἅγιον), deși la 13:5 îl transliterase."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Nimic necurat” — orice lucru interzis nazireului (Sota 9b); inclusiv sucul de struguri, pe lângă vin."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hinah” — iată, tu."
+     }
+    ]
+   },
+   {
+    "v": "13:8",
+    "t": "Manoah l-a implorat pe DOMNUL și a spus: „Rogu-Te, stăpâne, se poate ca omul lui Dumnezeu pe care l-ai trimis să revină la noi să ne învețe ce să facem cu tânărul care se va naște?”",
+    "heb": "וַיֶּעְתַּר מָנוֹחַ אֶל־יְהוָה וַיֹּאמַר בִּי אֲדוֹנָי אִישׁ הָאֱלֹהִים אֲשֶׁר שָׁלַחְתָּ יָבוֹא־נָא עוֹד אֵלֵינוּ וְיוֹרֵנוּ מַה־נַּעֲשֶׂה לַנַּעַר הַיּוּלָּד׃",
+    "translit": "Vaietar Manoah el-ADONAI vaiomar bi Adonai iș ha'Elohim așer șalahta iavo-na od eleinu veiorenu ma-naase lanaar haiulad.",
+    "tokens": [
+     {
+      "t": "Manoah "
+     },
+     {
+      "t": "l-a implorat",
+      "w": "l-a implorat",
+      "heb": "וַיֶּעְתַּר",
+      "translit": "vaietar",
+      "strong": "H6279",
+      "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin singular",
+      "def_ro": "s-a rugat stăruitor, a implorat.",
+      "dict_ro": "Atar — a se ruga stăruitor, a înmulți rugăciunea; Metzudat Țion îl leagă de Geneza 25:21, unde Isaac „s-a rugat stăruitor” pentru Rebeca cea stearpă. Manoah nu se îndoiește de vestire, dar vrea instrucțiuni: „să ne învețe (yorenu, înrudit cu tora) ce să facem”. Metzudat David explică faptul că se temea ca un nazireu din pântece să nu aibă nevoie de reguli în plus față de nazireatul obișnuit."
+     },
+     {
+      "t": " pe DOMNUL și a spus: „Rogu-Te, stăpâne, se poate ca omul lui Dumnezeu pe care l-ai trimis să revină la noi să ne învețe ce să facem cu tânărul care se va naște?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֶּעְתַּר מָנוֹחַ אֶל־יְהוָה וַיֹּאמַר...",
+      "translation": "„Manoah l-a implorat pe DOMNUL și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ προσηύξατο Μανωὲ πρὸς Κύριον καὶ εἶπεν· ἐν ἐμοί, Κύριε ᾿Αδωναϊέ, τὸν ἄνθρωπον τοῦ Θεοῦ, ὃν ἀπέστειλας, ἐλθέτω δὴ ἔτι πρὸς ἡμᾶς καὶ συμβιβασάτω ἡμᾶς τί ποιήσωμεν τῷ παιδίῳ τῷ τικτομένῳ.",
+      "greek": true,
+      "translation": "„Și s-a rugat Manoe Domnului și a zis: Îndură-Te de mine, Doamne Adonai; omul lui Dumnezeu pe care l-ai trimis să vină iarăși la noi și să ne învețe ce să facem copilului care se va naște.”",
+      "note": "Septuaginta traduce bi („rogu-Te”) prin „în mine” (ἐν ἐμοί) și transliterează numele divin: „Doamne Adonai” (Κύριε Ἀδωναϊέ)."
+     }
+    ],
+    "refs": [
+     "Iov 34:32",
+     "Proverbe 3:5,6",
+     "Faptele Apostolilor 9:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cu tânărul care se va naște” — care urmează să se nască."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Pe care l-ai trimis” — ca să-i profețească soției mele. „Ce să facem” — căci poate e nevoie să se facă ceva în plus față de nazireatul obișnuit, fiind nazireu din pântece. „Hayulad” — care se va naște."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Hayulad” — când se va naște; este un participiu, ca în „rugul nu se mistuia” (Exod 3:2)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vaietar” — cu sensul de înmulțire a rugăciunii, ca în „Isaac s-a rugat stăruitor” (Geneza 25:21). „Bi” — cu sensul de rugăminte. „Veiorenu” — și să ne învețe, ca în „ne va învăța căile Lui” (Mica 4:2)."
+     }
+    ]
+   },
+   {
+    "v": "13:9",
+    "t": "Dumnezeu a ascultat glasul lui Manoah și îngerul lui Dumnezeu a venit iarăși la femeie când ea stătea pe câmp, dar soțul ei Manoah nu era cu ea.",
+    "heb": "וַיִּשְׁמַע הָאֱלֹהִים בְּקוֹל מָנוֹחַ וַיָּבֹא מַלְאַךְ הָאֱלֹהִים עוֹד אֶל־הָאִשָּׁה וְהִיא יוֹשֶׁבֶת בַּשָּׂדֶה וּמָנוֹחַ אִישָׁהּ אֵין עִמָּהּ׃",
+    "translit": "Vaișma ha'Elohim bekol Manoah vaiavo malah ha'Elohim od el-haișa vehi ioșevet basade u'Manoah ișa ein ima.",
+    "tokens": [
+     {
+      "t": "Dumnezeu a ascultat glasul lui Manoah și îngerul lui Dumnezeu a venit iarăși la femeie când ea stătea "
+     },
+     {
+      "t": "pe câmp",
+      "w": "pe câmp",
+      "heb": "בַּשָּׂדֶה",
+      "translit": "basade",
+      "strong": "H7704",
+      "pos": "prepoziție + substantiv, masculin singular, cu articol",
+      "def_ro": "în câmp, în țarină.",
+      "dict_ro": "Sade — câmpul deschis, ținutul cultivat din afara așezării. Rugăciunea lui Manoah e ascultată, dar îngerul vine din nou la femeie, și iarăși când e singură, pe câmp. Metzudat David subliniază generozitatea răspunsului: Dumnezeu a împlinit cererea lui Manoah deși nu era necesar, căci îngerul nu va adăuga nimic la ce spusese deja."
+     },
+     {
+      "t": ", dar soțul ei Manoah nu era cu ea."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁמַע הָאֱלֹהִים בְּקוֹל מָנוֹחַ...",
+      "translation": "„Dumnezeu a ascultat glasul lui Manoah...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἰσήκουσεν ὁ Θεὸς τῆς φωνῆς Μανωέ, καὶ ἦλθεν ὁ ἄγγελος τοῦ Θεοῦ ἔτι πρὸς τὴν γυναῖκα, καὶ αὕτη ἐκάθητο ἐν ἀγρῷ, καὶ Μανωὲ ὁ ἀνὴρ αὐτῆς οὐκ ἦν μετ᾿ αὐτῆς.",
+      "greek": true,
+      "translation": "„Și a ascultat Dumnezeu glasul lui Manoe, și a venit îngerul lui Dumnezeu iarăși la femeie, iar ea ședea în țarină, și Manoe, bărbatul ei, nu era cu ea.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Matei 7:7-11"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Glasul lui Manoah” — adică pentru a-i împlini cererea, deși nu era nevoie, căci îngerul nu a adăugat nimic."
+     }
+    ]
+   },
+   {
+    "v": "13:10",
+    "t": "Femeia s-a grăbit și a alergat și i-a povestit soțului ei și i-a spus: „Iată, omul care a venit la mine în ziua aceea mi-a apărut.”",
+    "heb": "וַתְּמַהֵר הָאִשָּׁה וַתָּרָץ וַתַּגֵּד לְאִישָׁהּ וַתֹּאמֶר אֵלָיו הִנֵּה נִרְאָה אֵלַי הָאִישׁ אֲשֶׁר־בָּא בַיּוֹם אֵלָי׃",
+    "translit": "Vatemaher haișa vataroț vataghed leișa vatomer elav hine nira elai haiș așer-ba vaiom elai.",
+    "tokens": [
+     {
+      "t": "Femeia "
+     },
+     {
+      "t": "s-a grăbit",
+      "w": "s-a grăbit",
+      "heb": "וַתְּמַהֵר",
+      "translit": "vatemaher",
+      "strong": "H4116",
+      "pos": "verb, piel, imperfect consecutiv, persoana a III-a feminin singular",
+      "def_ro": "s-a grăbit, s-a zorit.",
+      "dict_ro": "Mahar — „a se grăbi”, la forma intensivă; urmat de „a alergat”, cele două verbe arată graba și bucuria cu care femeia îl cheamă pe soțul ei, ca Avraam care „s-a grăbit” și „a alergat” să-și primească oaspeții (Geneza 18:6-7). „În ziua aceea” (bayom) înseamnă, după Radak și Targum, „în ziua de atunci”, ziua primei arătări."
+     },
+     {
+      "t": " și a alergat și i-a povestit soțului ei și i-a spus: „Iată, omul care a venit la mine în ziua aceea mi-a apărut.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתְּמַהֵר הָאִשָּׁה וַתָּרָץ וַתַּגֵּד...",
+      "translation": "„Femeia s-a grăbit și a alergat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐτάχυνεν ἡ γυνὴ καὶ ἔδραμε καὶ ἀνήγγειλε τῷ ἀνδρὶ αὐτῆς καὶ εἶπε πρὸς αὐτόν· ἰδοὺ ὦπται πρός με ὁ ἀνήρ, ὃς ἦλθεν ἐν ἡμέρᾳ πρός με.",
+      "greek": true,
+      "translation": "„Și s-a grăbit femeia și a alergat și a vestit bărbatului ei și i-a zis: Iată, mi s-a arătat bărbatul care a venit la mine în ziua aceea.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ioan 1:41,42",
+     "Ioan 4:28,29"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„În ziua aceea” — în ziua știută, despre care ți-am spus atunci."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Care a venit la mine în ziua aceea” — în ziua aceea anume; așa traduce și Targumul lui Ionatan: „în ziua de atunci”."
+     }
+    ]
+   },
+   {
+    "v": "13:11",
+    "t": "Manoah s-a ridicat și a mers după soția sa; și a ajuns la om și i-a spus: „Tu ești omul care i-a vorbit soției [mele]?” Și el a spus: „Eu sunt.”",
+    "heb": "וַיָּקָם וַיֵּלֶךְ מָנוֹחַ אַחֲרֵי אִשְׁתּוֹ וַיָּבֹא אֶל־הָאִישׁ וַיֹּאמֶר לוֹ הַאַתָּה הָאִישׁ אֲשֶׁר־דִּבַּרְתָּ אֶל־הָאִשָּׁה וַיֹּאמֶר אָנִי׃",
+    "translit": "Vaiakom vaièleh Manoah aharei ișto vaiavo el-haiș vaiomer lo haata haiș așer-dibarta el-haișa vaiomer ani.",
+    "tokens": [
+     {
+      "t": "Manoah",
+      "w": "Manoah",
+      "heb": "מָנוֹחַ",
+      "translit": "Manoah",
+      "strong": "H4495",
+      "pos": "substantiv propriu, masculin",
+      "def_ro": "Manoah („odihnă”), tatăl lui Samson.",
+      "dict_ro": "Manoah — de la nuah, „a se odihni”: „loc de odihnă, liniște”. Expresia „a mers după soția sa” a stârnit o dispută în Talmud (Berahot 61a): Rav Nahman a dedus de aici că Manoah era un om neștiutor de carte, căci un bărbat nu merge în urma unei femei; Rav Nahman bar Ițhak a răspuns că și despre Elcana și despre Elisei se spune „a mers după ea”, și înseamnă „după cuvântul și sfatul ei” — așa explică și Rashi. Metzudat David dă o lectură simplă: doar ea știa locul unde se arătase îngerul."
+     },
+     {
+      "t": " s-a ridicat și a mers după soția sa; și a ajuns la om și i-a spus: „Tu ești omul care i-a vorbit soției [mele]?” Și el a spus: „Eu sunt.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּקָם וַיֵּלֶךְ מָנוֹחַ אַחֲרֵי...",
+      "translation": "„Manoah s-a ridicat și a mers...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνέστη καὶ ἐπορεύθη Μανωὲ ὀπίσω τῆς γυναικὸς αὐτοῦ καὶ ἦλθε πρὸς τὸν ἄνδρα καὶ εἶπεν αὐτῷ· εἰ σὺ εἶ ὁ ἀνὴρ ὁ λαλήσας πρὸς τὴν γυναῖκα; καὶ εἶπεν ὁ ἄγγελος· ἐγώ.",
+      "greek": true,
+      "translation": "„Și s-a sculat și a mers Manoe după femeia lui și a venit la bărbat și i-a zis: Tu ești bărbatul care a grăit cu femeia? Și a zis îngerul: Eu.”",
+      "note": "Septuaginta numește vorbitorul explicit: „a zis îngerul”."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „După soția sa” — după sfatul ei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„După soția sa” — căci numai ea știa locul unde se arătase. „Haata” — cu he-ul întrebării."
+     },
+     {
+      "author": "Talmud Bavli, Berahot 61a",
+      "text": "Rav Nahman a spus: de aici [știm] că Manoah era un om neștiutor, căci e scris: „Manoah... a mers după soția sa”. Rav Nahman bar Ițhak a obiectat: atunci ce vei spune despre Elcana, despre care e scris „Elcana a mers după soția lui”, și despre Elisei, despre care e scris „s-a sculat și a mers după ea” (2 Regi 4:30)? Oare a mers cu adevărat în urma ei? Ci a mers după cuvintele și sfatul ei; tot așa și aici."
+     }
+    ]
+   },
+   {
+    "v": "13:12",
+    "t": "Și Manoah a spus: „Acum, se vor adeveri vorbele tale; cum trebuie să se poarte tânărul și ce trebuie să facă?”",
+    "heb": "וַיֹּאמֶר מָנוֹחַ עַתָּה יָבֹא דְבָרֶיךָ מַה־יִּהְיֶה מִשְׁפַּט־הַנַּעַר וּמַעֲשֵׂהוּ׃",
+    "translit": "Vaiomer Manoah ata iavo devareha ma-ihie mișpat-hanaar umaasehu.",
+    "tokens": [
+     {
+      "t": "Și Manoah a spus: „Acum, se vor adeveri vorbele tale; "
+     },
+     {
+      "t": "cum trebuie să se poarte",
+      "w": "cum trebuie să se poarte",
+      "heb": "מִשְׁפַּט",
+      "translit": "mișpat",
+      "strong": "H4941",
+      "pos": "substantiv, masculin singular, în construcție",
+      "def_ro": "rânduiala, felul de purtare, regula.",
+      "dict_ro": "Mișpat — de obicei „judecată, dreptate”, dar aici, cum explică Metzudat Țion, „rânduială, fel de a se purta”, ca în 1 Samuel 27:11 („așa a fost obiceiul lui”). Manoah întreabă despre „rânduiala tânărului și fapta lui”; Rashi și Targumul lui Ionatan precizează că întrebarea nu era ce trebuie să facă băiatul, ci ce trebuie să facă ei, părinții, cu el — prima întrebare despre educație din cartea Judecătorilor."
+     },
+     {
+      "t": " tânărul și ce trebuie să facă?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מָנוֹחַ עַתָּה יָבֹא...",
+      "translation": "„Și Manoah a spus: „Acum, se...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Μανωέ· νῦν ἐλεύσεται ὁ λόγος σου· τίς ἔσται κρίσις τοῦ παιδίου καὶ τὰ ποιήματα αὐτοῦ;",
+      "greek": true,
+      "translation": "„Și a zis Manoe: Acum să vină cuvântul tău; care va fi judecata copilului și faptele lui?”",
+      "note": "Septuaginta traduce mișpat literal, prin „judecata” (κρίσις)."
+     }
+    ],
+    "refs": [
+     "Geneza 18:19",
+     "Proverbe 4:4",
+     "Proverbe 22:6",
+     "Efeseni 6:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cum trebuie să se poarte tânărul și ce trebuie să facă?” — ce se cuvine să se facă cu tânărul, ce trebuie să facem noi cu el? (după Targumul lui Ionatan) Întrebarea nu era ce trebuie să facă băiatul, ci ce trebuie să facem noi cu el."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Acum, se vor adeveri vorbele tale” — adică până acum am fost ca unul care se îndoiește dacă se vor împlini cuvintele tale; dar acum, fiindcă ai venit a doua oară prin rugăciunea mea, se vede că este cuvântul DOMNULUI, și negreșit se vor împlini cuvintele tale; de aceea te întreb: spune-mi care va fi rânduiala tânărului, cum să ne purtăm cu el și ce să-i facem."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Rânduiala tânărului și fapta lui” — Targumul traduce: „ce se cuvine copilului și ce să-i facem”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mișpat” — purtare, rânduială; și tot așa „și acesta a fost obiceiul lui (mișpato)” (1 Samuel 27:11)."
+     }
+    ]
+   },
+   {
+    "v": "13:13",
+    "t": "Îngerul lui Dumnezeu i-a spus lui Manoah: „De orice i-am spus femeii, să se păzească.",
+    "heb": "וַיֹּאמֶר מַלְאַךְ יְהוָה אֶל־מָנוֹחַ מִכֹּל אֲשֶׁר־אָמַרְתִּי אֶל־הָאִשָּׁה תִּשָּׁמֵר׃",
+    "translit": "Vaiomer malah ADONAI el-Manoah mikol așer-amarti el-haișa tișamer.",
+    "tokens": [
+     {
+      "t": "Îngerul lui Dumnezeu i-a spus lui Manoah: „De orice i-am spus femeii, "
+     },
+     {
+      "t": "să se păzească",
+      "w": "să se păzească",
+      "heb": "תִּשָּׁמֵר",
+      "translit": "tișamer",
+      "strong": "H8104",
+      "pos": "verb, nifal, imperfect, persoana a III-a feminin singular",
+      "def_ro": "să se păzească, să se ferească.",
+      "dict_ro": "Șamar — „a păzi”, verbul central al ascultării de poruncă; la forma nifal, „a se păzi pe sine, a se feri”. Răspunsul îngerului e surprinzător de scurt: nu dă nicio regulă nouă despre copil, ci repetă ce trebuie să păzească mama. Metzudat David explică: nazireatul tânărului nu are nimic în plus față de nazireatul obișnuit; singurul adaos este că și mama trebuie să se păzească încă de acum."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מַלְאַךְ יְהוָה אֶל־מָנוֹחַ...",
+      "translation": "„Îngerul lui Dumnezeu i-a spus lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ὁ ἄγγελος Κυρίου πρὸς Μανωέ· ἀπὸ πάντων, ὧν εἴρηκα πρὸς τὴν γυναῖκα, φυλάξεται·",
+      "greek": true,
+      "translation": "„Și a zis îngerul Domnului către Manoe: De toate câte am spus femeii să se păzească;”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„De orice i-am spus” — adică rânduiala tânărului nu adaugă nimic peste nazireatul obișnuit; adaosul este doar că și femeia, mama lui, trebuie să se păzească de tot ce am spus."
+     }
+    ]
+   },
+   {
+    "v": "13:14",
+    "t": "Orice care iese din vița-de-vie să nu mănânce, vin sau băutură tare să nu bea, și nimic necurat să nu mănânce, tot ce i-am poruncit să păzească.”",
+    "heb": "מִכֹּל אֲשֶׁר־יֵצֵא מִגֶּפֶן הַיַּיִן לֹא תֹאכַל וְיַיִן וְשֵׁכָר אַל־תֵּשְׁתְּ וְכָל־טֻמְאָה אַל־תֹּאכַל כֹּל אֲשֶׁר־צִוִּיתִיהָ תִּשְׁמֹר׃",
+    "translit": "Mikol așer-iețe mighefen haiain lo tohal veiain veșehar al-teșt vehol-tuma al-tohal kol așer-țivitiha tișmor.",
+    "tokens": [
+     {
+      "t": "Orice care iese din "
+     },
+     {
+      "t": "vița-de-vie",
+      "w": "vița-de-vie",
+      "heb": "מִגֶּפֶן הַיַּיִן",
+      "translit": "mighefen haiain",
+      "strong": "H1612",
+      "pos": "prepoziție + substantiv, în construcție + substantiv cu articol",
+      "def_ro": "vița de vin, vița-de-vie.",
+      "dict_ro": "Ghefen haiain — literal „vița vinului”; Metzudat Țion explică de ce e nevoie de precizare: există și o „viță de câmp” sălbatică (2 Regi 4:39), cu roade otrăvitoare, iar interdicția privește doar vița de vin. Formula reia cuvânt cu cuvânt legea din pericopa Naso: „tot ce se face din vița-de-vie, de la sâmburi până la pieliță, să nu mănânce” (Numeri 6:4). Ce „i-am poruncit ei” rămâne regula, fără adaosuri."
+     },
+     {
+      "t": " să nu mănânce, vin sau băutură tare să nu bea, și nimic necurat să nu mănânce, tot ce i-am poruncit să păzească.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִכֹּל אֲשֶׁר־יֵצֵא מִגֶּפֶן הַיַּיִן...",
+      "translation": "„Orice care iese din vița-de-vie să...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀπὸ παντός, ὃ ἐκπορεύεται ἐξ ἀμπέλου τοῦ οἴνου, οὐ φάγεται καὶ οἶνον καὶ μέθυσμα μὴ πιέτω καὶ πᾶν ἀκάθαρτον μὴ φαγέτω· πάντα ὅσα ἐνετειλάμην αὐτῇ, φυλάξεται.",
+      "greek": true,
+      "translation": "„de tot ce iese din vița vinului să nu mănânce, și vin și băutură amețitoare să nu bea, și nimic necurat să nu mănânce; toate câte i-am poruncit ei să le păzească.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Matei 28:20",
+     "Ioan 2:5",
+     "Ioan 15:14",
+     "2 Tesaloniceni 3:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Orice care iese” — adică asta am spus: de tot ce iese... „Tot ce i-am poruncit” — nu mai e nimic de făcut, doar să păzească tot ce i-am poruncit."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mighefen haiain” — pentru că există și viță de câmp, cum e scris: „a găsit o viță de câmp” (2 Regi 4:39), de aceea a spus „din vița vinului”."
+     }
+    ]
+   },
+   {
+    "v": "13:15",
+    "t": "Și Manoah i-a spus îngerului DOMNULUI: „Lasă-ne să te reținem și-ți vom pregăti un ied din turmă.”",
+    "heb": "וַיֹּאמֶר מָנוֹחַ אֶל־מַלְאַךְ יְהוָה נַעְצְרָה־נָּא אוֹתָךְ וְנַעֲשֶׂה לְפָנֶיךָ גְּדִי עִזִּים׃",
+    "translit": "Vaiomer Manoah el-malah ADONAI națra-na otah venaase lefaneha ghedi izim.",
+    "tokens": [
+     {
+      "t": "Și Manoah i-a spus îngerului DOMNULUI: „Lasă-ne să te reținem și-ți vom pregăti "
+     },
+     {
+      "t": "un ied",
+      "w": "un ied",
+      "heb": "גְּדִי עִזִּים",
+      "translit": "ghedi izim",
+      "strong": "H1423",
+      "pos": "substantiv, masculin singular, în construcție + substantiv plural",
+      "def_ro": "un ied (din capre).",
+      "dict_ro": "Ghedi izim — iedul din turma de capre, carnea de cinste pentru un oaspete, ca vițelul pe care Avraam l-a pregătit îngerilor (Geneza 18:7) sau iedul lui Ghedeon (Judecători 6:19). Manoah vrea să-l „rețină” (națra) pe musafir, ca oaspete la masă, cum explică Rashi; ospitalitatea lui e reală, dar arată și că încă nu înțelege cine stă în fața lui."
+     },
+     {
+      "t": " din turmă.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מָנוֹחַ אֶל־מַלְאַךְ יְהוָה...",
+      "translation": "„Și Manoah i-a spus îngerului DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Μανωὲ πρὸς τὸν ἄγγελον Κυρίου· κατάσχωμεν ὧδέ σε καὶ ποιήσωμεν ἐνώπιόν σου ἔριφον αἰγῶν.",
+      "greek": true,
+      "translation": "„Și a zis Manoe către îngerul Domnului: Să te ținem aici și să pregătim înaintea ta un ied de capră.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Judecători 6:18,19",
+     "Geneza 18:3-5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Lasă-ne să te reținem” — ca oaspete în casa noastră."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Națra” — să te oprim, ca în „să nu te oprească ploaia” (1 Regi 18:44)."
+     }
+    ]
+   },
+   {
+    "v": "13:16",
+    "t": "Dar îngerul DOMNULUI i-a spus lui Manoah: „Dacă mă reții, nu voi mânca din mâncarea ta, dar dacă vei face o ardere-de-tot, atunci înalț-o către DOMNUL” – căci Manoah nu știa că era un înger al DOMNULUI.",
+    "heb": "וַיֹּאמֶר מַלְאַךְ יְהוָה אֶל־מָנוֹחַ אִם־תַּעְצְרֵנִי לֹא־אֹכַל בְּלַחְמֶךָ וְאִם־תַּעֲשֶׂה עֹלָה לַיהוָה תַּעֲלֶנָּה כִּי לֹא־יָדַע מָנוֹחַ כִּי־מַלְאַךְ יְהוָה הוּא׃",
+    "translit": "Vaiomer malah ADONAI el-Manoah im-tațreni lo-ohal belahmeha veim-taase ola l'ADONAI taalena ki lo-iada Manoah ki-malah ADONAI hu.",
+    "tokens": [
+     {
+      "t": "Dar îngerul DOMNULUI i-a spus lui Manoah: „Dacă mă reții, nu voi mânca din mâncarea ta, dar dacă vei face "
+     },
+     {
+      "t": "o ardere-de-tot",
+      "w": "o ardere-de-tot",
+      "heb": "עֹלָה",
+      "translit": "ola",
+      "strong": "H5930",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "ardere-de-tot, jertfă arsă în întregime.",
+      "dict_ro": "Ola — „ceea ce se înalță”, jertfa arsă în întregime pe altar, al cărei fum urcă spre cer; nimic din ea nu e mâncat. Îngerul refuză masa („lehem”, explică Radak, înseamnă orice mâncare), dar îndreaptă darul spre singurul lui Destinatar: „înalț-o către DOMNUL”. Radak explică de ce precizarea era necesară: generația aceea făcea rău în ochii DOMNULUI și aducea arderi-de-tot altor dumnezei."
+     },
+     {
+      "t": ", atunci înalț-o către DOMNUL” – căci Manoah nu știa că era un înger al DOMNULUI."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מַלְאַךְ יְהוָה אֶל־מָנוֹחַ...",
+      "translation": "„Dar îngerul DOMNULUI i-a spus lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ὁ ἄγγελος Κυρίου πρὸς Μανωέ· ἐὰν κατάσχῃς με, οὐ φάγομαι ἀπὸ τῶν ἄρτων σου, καὶ ἐὰν ποιήσῃς ὁλοκαύτωμα, τῷ Κυρίῳ ἀνοίσεις αὐτό· ὅτι οὐκ ἔγνω Μανωὲ ὅτι ἄγγελος Κυρίου αὐτός.",
+      "greek": true,
+      "translation": "„Și a zis îngerul Domnului către Manoe: Dacă mă vei ține, nu voi mânca din pâinile tale; și dacă vei face ardere-de-tot, Domnului să o aduci; căci Manoe nu știa că el este îngerul Domnului.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Judecători 13:23",
+     "Judecători 6:26"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dacă mă reții” — chiar dacă mă vei reține, nu voi mânca; adică: dacă vrei să mă reții ca să pregătești iedul pentru mâncarea mea, iată, nu voi mânca; iar dacă vrei să mă reții până vei aduce o ardere-de-tot, iată, „înalț-o către DOMNUL” — de ce să mă mai reții? „Căci Manoah nu știa” — căci dacă ar fi știut, desigur nu s-ar fi gândit să-i dea de mâncare unui înger, și n-ar mai fi fost nevoie să-i spună „nu voi mânca din mâncarea ta”."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Din mâncarea ta” (lahmeha) — căci „pâine” cuprinde orice mâncare. „Și dacă vei face o ardere-de-tot” — adică: iedul acesta, pe care spui că îl vei pregăti înaintea mea, nu voi mânca din el; iar dacă vrei să faci din el o ardere-de-tot, fă-o; și a spus „către DOMNUL” pentru că generația aceea făcea rău în ochii DOMNULUI și aducea arderi-de-tot altor dumnezei."
+     }
+    ]
+   },
+   {
+    "v": "13:17",
+    "t": "Și Manoah i-a spus îngerului DOMNULUI: „Care îți este numele, ca atunci când se vor adeveri vorbele tale să te cinstim?”",
+    "heb": "וַיֹּאמֶר מָנוֹחַ אֶל־מַלְאַךְ יְהוָה מִי שְׁמֶךָ כִּי־יָבֹא דְבָרֶיךָ וְכִבַּדְנוּךָ׃",
+    "translit": "Vaiomer Manoah el-malah ADONAI mi șemeha ki-iavo devarha vehibadnuha.",
+    "tokens": [
+     {
+      "t": "Și Manoah i-a spus îngerului DOMNULUI: „Care îți este numele, ca atunci când se vor adeveri vorbele tale "
+     },
+     {
+      "t": "să te cinstim",
+      "w": "să te cinstim",
+      "heb": "וְכִבַּדְנוּךָ",
+      "translit": "vehibadnuha",
+      "strong": "H3513",
+      "pos": "verb, piel, perfect consecutiv, persoana I plural + sufix persoana a II-a",
+      "def_ro": "te vom cinsti.",
+      "dict_ro": "Kaved — „a fi greu”, iar la forma piel „a da greutate, a cinsti”; de aici și kavod, „slava”. Manoah vrea să-i știe numele ca să-l poată onora când se va împlini vestirea. Radak observă o nuanță gramaticală: Manoah întreabă „cine (mi) îți este numele?” și nu „ce (ma)?”, pentru că îl socotea un profet mare, iar numele unui om mare e cunoscut chiar și celor care nu l-au văzut — numele ține locul persoanei."
+     },
+     {
+      "t": "?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מָנוֹחַ אֶל־מַלְאַךְ יְהוָה...",
+      "translation": "„Și Manoah i-a spus îngerului DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Μανωὲ πρὸς τὸν ἄγγελον Κυρίου· τί τὸ ὄνομά σοι; ὅτι ἔλθοι τὸ ῥῆμά σου, καὶ δοξάσομέν σε.",
+      "greek": true,
+      "translation": "„Și a zis Manoe către îngerul Domnului: Care îți este numele, ca, atunci când va veni cuvântul tău, să te slăvim?”",
+      "note": "Septuaginta traduce „să te cinstim” prin „să te slăvim” (δοξάσομεν)."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Când se vor adeveri vorbele tale” — dacă ni se va cere să împlinim o însărcinare de-a ta și îți vom cunoaște și recunoaște numele, „te vom cinsti” împlinind acea însărcinare."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Când se vor adeveri vorbele tale” — când se vor împlini cuvintele tale, îți vom da cinste; de aceea spune-ne care îți este numele, ca să știm pe cine să cinstim, căci poate atunci nu te vom recunoaște."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Mi șemeha” — și n-a spus „ma”, cum cere limba, căci „mi” nu se spune decât despre o ființă vie, iar numele nu este ființa însăși. Se poate explica așa: în ochii lui Manoah era un profet mare și cinstit, iar omul mare e cunoscut după numele lui celui care nu l-a văzut; iată, numele e ca ființa însăși. „Când se vor adeveri vorbele tale și te vom cinsti” — cum traduce Targumul: „când se vor împlini cuvintele tale, te vom onora”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mi șemeha” — ca „ma șemeha”, „care îți este numele” (Geneza 32:28)."
+     }
+    ]
+   },
+   {
+    "v": "13:18",
+    "t": "Iar îngerul DOMNULUI i-a spus: „De ce îmi ceri numele? Este miraculos.”",
+    "heb": "וַיֹּאמֶר לוֹ מַלְאַךְ יְהוָה לָמָּה זֶּה תִּשְׁאַל לִשְׁמִי וְהוּא־פֶלִאי׃",
+    "translit": "Vaiomer lo malah ADONAI lama ze tișal lișmi vehu-feli.",
+    "tokens": [
+     {
+      "t": "Iar îngerul DOMNULUI i-a spus: „De ce îmi ceri numele? Este "
+     },
+     {
+      "t": "miraculos",
+      "w": "miraculos",
+      "heb": "פֶלִאי",
+      "translit": "feli",
+      "strong": "H6383",
+      "pos": "adjectiv, masculin singular",
+      "def_ro": "minunat, de nepătruns, ascuns.",
+      "dict_ro": "Peli — „minunat, mai presus de înțelegere”, din rădăcina pala, „a fi extraordinar, de nepătruns”; înrudit cu pele („minune”) din Isaia 9:5 („Minunat, Sfetnic...”) și cu verbul „a face o minune” din versetul următor. Metzudat Țion îl explică „acoperit și ascuns”, ca în Deuteronom 17:8 („când un lucru îți va fi prea greu”). Rashi dă o explicație neobișnuită: numele îngerului se schimbă mereu, după misiunea pe care o are în acel moment, încât nu poate fi cunoscut. Întrebarea și refuzul sunt aproape identice cu cele din lupta lui Iacov la Iaboc (Geneza 32:30)."
+     },
+     {
+      "t": ".”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר לוֹ מַלְאַךְ יְהוָה...",
+      "translation": "„Iar îngerul DOMNULUI i-a spus: „De...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν αὐτῷ ὁ ἄγγελος Κυρίου· εἰς τί τοῦτο ἐρωτᾷς τὸ ὄνομά μου; καὶ αὐτό ἐστι θαυμαστόν.",
+      "greek": true,
+      "translation": "„Și i-a zis îngerul Domnului: Pentru ce întrebi de numele meu? Și el este minunat.”",
+      "note": "Corespondență strânsă cu Textul Masoretic; Septuaginta redă peli prin „minunat” (θαυμαστόν)."
+     }
+    ],
+    "refs": [
+     "Judecători 13:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Este miraculos” — este ascuns. Se schimbă mereu, după misiunea îngerului în acel moment, încât nu se știe care îi este numele într-o zi anume."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De ce” — adică nu doresc cinste, și atunci de ce întrebi? „Este miraculos” — și în plus, numele este acoperit și ascuns și nu se cuvine dezvăluit."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Peli” — cu alef-ul ascuns și yod-ul de apartenență; sensul este „acoperit și ascuns”, încât nu-l poți cunoaște. Iar Targumul lui Ionatan traduce „și el este deosebit”, adică despărțit și îndepărtat de cunoașterea ta."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Peli” — acoperit și ascuns, ca în „dacă un lucru îți va fi prea greu (yipale)” (Deuteronom 17:8)."
+     }
+    ]
+   },
+   {
+    "v": "13:19",
+    "t": "Manoah a luat un ied din turmă și prinosul și le-a adus ofrandă DOMNULUI, pe o stâncă. Iar [îngerul] a făcut o minune, în timp ce soția lui Manoah privea.",
+    "heb": "וַיִּקַּח מָנוֹחַ אֶת־גְּדִי הָעִזִּים וְאֶת־הַמִּנְחָה וַיַּעַל עַל־הַצּוּר לַיהוָה וּמַפְלִא לַעֲשׂוֹת וּמָנוֹחַ וְאִשְׁתּוֹ רֹאִים׃",
+    "translit": "Vaikah Manoah et-ghedi haizim veet-haminha vaiaal al-hațur l'ADONAI umafli laasot u'Manoah veișto roim.",
+    "tokens": [
+     {
+      "t": "Manoah a luat un ied din turmă și prinosul și le-a adus ofrandă DOMNULUI, "
+     },
+     {
+      "t": "pe o stâncă",
+      "w": "pe o stâncă",
+      "heb": "עַל־הַצּוּר",
+      "translit": "al-hațur",
+      "strong": "H6697",
+      "pos": "prepoziție + substantiv, masculin singular, cu articol",
+      "def_ro": "pe stâncă.",
+      "dict_ro": "Țur — stânca, blocul de piatră care ține aici loc de altar; tot pe o stâncă a adus jertfa și Ghedeon, când îngerul a scos foc din ea (Judecători 6:20-21). Radak ridică o problemă de lege: cât timp Cortul Întâlnirii era la Șilo, altarele particulare erau interzise; înțelepții au explicat că a fost o „hotărâre pentru acel moment” (horaat șaa), dată chiar de înger. „Minunea” pe care o face îngerul este, după Metzudat David, scoaterea focului din stâncă."
+     },
+     {
+      "t": ". Iar [îngerul] a făcut o minune, în timp ce soția lui Manoah privea."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּקַּח מָנוֹחַ אֶת־גְּדִי הָעִזִּים...",
+      "translation": "„Manoah a luat un ied din...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔλαβε Μανωὲ τὸν ἔριφον τῶν αἰγῶν καὶ τὴν θυσίαν καὶ ἀνήνεγκεν ἐπὶ τήν πέτραν τῷ Κυρίῳ· καὶ διεχώρισε ποιῆσαι, καὶ Μανωὲ καὶ γυνὴ αὐτοῦ βλέποντες.",
+      "greek": true,
+      "translation": "„Și a luat Manoe iedul de capră și jertfa și le-a adus pe piatră Domnului; și a făcut ceva deosebit, iar Manoe și femeia lui priveau.”",
+      "note": "Septuaginta (textul B) redă umafli laasot prin „a făcut ceva deosebit” (διεχώρισε ποιῆσαι), acolo unde Textul Masoretic are „a făcut o minune”."
+     }
+    ],
+    "refs": [
+     "Judecători 6:19,20",
+     "1 Regi 18:30-38",
+     "Judecători 6:21",
+     "1 Regi 18:38"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„DOMNULUI” — ca să fie ardere-de-tot pentru DOMNUL. „A făcut o minune” — îngerul a făcut minuni, scoțând foc din stâncă. „Privea” — se uitau la faptele lui."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: faptul că Manoah a adus o ardere-de-tot pe stâncă pentru DOMNUL, într-o vreme în care altarele de pe înălțimi erau interzise — căci tot timpul cât Cortul Întâlnirii a fost la Șilo, înălțimile au fost oprite — înțelepții noștri au spus că a fost o hotărâre pentru acel moment, căci iată, îngerul îi spusese: „dacă vei face o ardere-de-tot, atunci înalț-o către DOMNUL”. „A făcut o minune” — îngerul a făcut o minune scoțând focul din stâncă și mistuind iedul și prinosul; iar când focul a crescut și flacăra s-a înălțat, îngerul DOMNULUI a urcat, adică s-a îndepărtat de ei în flacără."
+     }
+    ]
+   },
+   {
+    "v": "13:20",
+    "t": "Și a fost că atunci când flacăra s-a ridicat de pe altar către ceruri, îngerul DOMNULUI a urcat și el în flacăra de pe altar. Iar Manoah și soția lui priveau și au căzut cu fața la pământ.",
+    "heb": "וַיְהִי בַעֲלוֹת הַלַּהַב מֵעַל הַמִּזְבֵּחַ הַשָּׁמַיְמָה וַיַּעַל מַלְאַךְ־יְהוָה בְּלַהַב הַמִּזְבֵּחַ וּמָנוֹחַ וְאִשְׁתּוֹ רֹאִים וַיִּפְּלוּ עַל־פְּנֵיהֶם אָרְצָה׃",
+    "translit": "Vaihi vaalot halahav meal hamizbeah hașamaima vaiaal malah-ADONAI belahav hamizbeah u'Manoah veișto roim vaiplu al-peneihem arța.",
+    "tokens": [
+     {
+      "t": "Și a fost că atunci când "
+     },
+     {
+      "t": "flacăra",
+      "w": "flacăra",
+      "heb": "הַלַּהַב",
+      "translit": "halahav",
+      "strong": "H3851",
+      "pos": "substantiv, masculin singular, cu articol",
+      "def_ro": "flacăra, vâlvătaia.",
+      "dict_ro": "Lahav — flacăra, dar și lama strălucitoare a unei arme (Judecători 3:22), căci amândouă strălucesc; Metzudat Țion îl explică prin „șalhevet”, flacără. Îngerul se înalță chiar în flacăra jertfei, ca o arătare că darul a fost primit sus. Căderea „cu fața la pământ” e reacția oamenilor în fața gloriei lui Dumnezeu la inaugurarea altarului din Cortul Întâlnirii (Levitic 9:24) sau pe Carmel (1 Regi 18:39)."
+     },
+     {
+      "t": " s-a ridicat de pe altar către ceruri, îngerul DOMNULUI a urcat și el în flacăra de pe altar. Iar Manoah și soția lui priveau și au căzut cu fața la pământ."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי בַעֲלוֹת הַלַּהַב מֵעַל...",
+      "translation": "„Și a fost că atunci când...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο ἐν τῷ ἀναβῆναι τὴν φλόγα ἐπάνω τοῦ θυσιαστηρίου ἕως τοῦ οὐρανοῦ καὶ ἀνέβη ὁ ἄγγελος Κυρίου ἐν τῇ φλογὶ τοῦ θυσιαστηρίου, καὶ Μανωὲ καὶ ἡ γυνὴ αὐτοῦ βλέποντες καὶ ἔπεσαν ἐπὶ πρόσωπον αὐτῶν ἐπὶ τὴν γῆν.",
+      "greek": true,
+      "translation": "„Și a fost, când s-a suit flacăra deasupra jertfelnicului până la cer, s-a suit și îngerul Domnului în flacăra jertfelnicului; și Manoe și femeia lui priveau și au căzut cu fața lor la pământ.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Regi 2:11",
+     "Levitic 9:24",
+     "1 Cronici 21:16,26",
+     "Ezechiel 1:26,28",
+     "Daniel 10:9",
+     "Matei 17:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Către ceruri” — în sus, spre cer. „Priveau” — când a urcat în flacără."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Când flacăra s-a ridicat de pe altar” — cu bet, adică în clipa înălțării."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Halahav” — flacăra."
+     }
+    ]
+   },
+   {
+    "v": "13:21",
+    "t": "Îngerul DOMNULUI nu le-a mai apărut lui Manoah și soției lui și [așa] Manoah a știut că este un înger al DOMNULUI.",
+    "heb": "וְלֹא־יָסַף עוֹד מַלְאַךְ יְהוָה לְהֵרָאֹה אֶל־מָנוֹחַ וְאֶל־אִשְׁתּוֹ אָז יָדַע מָנוֹחַ כִּי־מַלְאַךְ יְהוָה הוּא׃",
+    "translit": "Velo-iasaf od malah ADONAI leherao el-Manoah veel-ișto az iada Manoah ki-malah ADONAI hu.",
+    "tokens": [
+     {
+      "t": "Îngerul DOMNULUI nu le-a mai apărut lui Manoah și soției lui și [așa] Manoah "
+     },
+     {
+      "t": "a știut",
+      "w": "a știut",
+      "heb": "יָדַע",
+      "translit": "iada",
+      "strong": "H3045",
+      "pos": "verb, qal, perfect, persoana a III-a masculin singular",
+      "def_ro": "a cunoscut, a înțeles.",
+      "dict_ro": "Yada — „a ști, a cunoaște” prin experiență, nu doar prin informație. Abia acum, după ce îngerul s-a înălțat în flacără, Manoah „a știut” ce femeia intuise de la început. Radak discută legătura frazei: Manoah a înțeles fie din urcarea în flacără, fie din faptul că îngerul nu s-a mai arătat deloc de atunci — ambele lecturi sunt posibile."
+     },
+     {
+      "t": " că este un înger al DOMNULUI."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְלֹא־יָסַף עוֹד מַלְאַךְ יְהוָה...",
+      "translation": "„Îngerul DOMNULUI nu le-a mai apărut...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οὐ προσέθηκεν ἔτι ὁ ἄγγελος Κυρίου ὀφθῆναι πρὸς Μανωὲ καὶ πρὸς τὴν γυναῖκα αὐτοῦ· τότε ἔγνω Μανωὲ ὅτι ἄγγελος Κυρίου οὗτος.",
+      "greek": true,
+      "translation": "„Și îngerul Domnului nu s-a mai arătat lui Manoe și femeii lui. Atunci a cunoscut Manoe că acesta era îngerul Domnului.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Judecători 6:22",
+     "Osea 12:4,5"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Nu le-a mai apărut” — din clipa în care a urcat în flacără, nu li s-a mai arătat. „[Așa]” — când a văzut toate acestea, a înțeles Manoah că fusese un înger."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Nu le-a mai apărut” — nu li s-a mai arătat altă dată. Iar „atunci Manoah a știut” se leagă de „îngerul DOMNULUI a urcat în flacăra altarului”, nu de „nu le-a mai apărut”; sau se poate lega de „nu le-a mai apărut”, adică: când a văzut că s-a îndepărtat de ochii lui și nu li s-a mai arătat în acea înfățișare, a știut că fusese un înger al DOMNULUI."
+     }
+    ]
+   },
+   {
+    "v": "13:22",
+    "t": "Și Manoah i-a spus soției lui: „Vom muri negreșit, căci L-am văzut pe Dumnezeu.”",
+    "heb": "וַיֹּאמֶר מָנוֹחַ אֶל־אִשְׁתּוֹ מוֹת נָמוּת כִּי אֱלֹהִים רָאִינוּ׃",
+    "translit": "Vaiomer Manoah el-ișto mot namut ki Elohim rainu.",
+    "tokens": [
+     {
+      "t": "Și Manoah i-a spus soției lui: „Vom muri negreșit, căci "
+     },
+     {
+      "t": "L-am văzut pe Dumnezeu",
+      "w": "L-am văzut pe Dumnezeu",
+      "heb": "אֱלֹהִים רָאִינוּ",
+      "translit": "Elohim rainu",
+      "strong": "H430",
+      "pos": "substantiv, masculin plural + verb, qal, perfect, persoana I plural",
+      "def_ro": "am văzut pe Dumnezeu (aici: un înger al lui Dumnezeu).",
+      "dict_ro": "Elohim — Dumnezeu, dar cuvântul poate desemna și ființe cerești sau judecători; Metzudat David explică pe scurt: „Elohim — un înger al lui Dumnezeu”. Teama lui Manoah pornește de la cuvântul spus lui Moise: „omul nu poate să Mă vadă și să trăiască” (Exod 33:20); aceeași spaimă o are Ghedeon (Judecători 6:22-23) și Isaia („vai de mine, sunt pierdut”, Isaia 6:5)."
+     },
+     {
+      "t": ".”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מָנוֹחַ אֶל־אִשְׁתּוֹ מוֹת...",
+      "translation": "„Și Manoah i-a spus soției lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Μανωὲ πρὸς τὴν γυναῖκα αὐτοῦ· θανάτῳ ἀποθανούμεθα, ὅτι Θεὸν εἴδομεν.",
+      "greek": true,
+      "translation": "„Și a zis Manoe către femeia lui: Negreșit vom muri, căci pe Dumnezeu L-am văzut.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 33:20",
+     "Isaia 6:5",
+     "Ioan 1:18",
+     "Ioan 5:37"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dumnezeu” — un înger al lui Dumnezeu."
+     }
+    ]
+   },
+   {
+    "v": "13:23",
+    "t": "Dar soția lui i-a spus: „Dacă DOMNUL voia să ne omoare, nu ar fi primit din mâna noastră arderea-de-tot și prinosul, și nici nu ne-ar fi arătat toate acestea, și nici nu ne-ar fi făcut să auzim aceste vești la vremea aceasta.”",
+    "heb": "וַתֹּאמֶר לוֹ אִשְׁתּוֹ לוּ חָפֵץ יְהוָה לַהֲמִיתֵנוּ לֹא־לָקַח מִיָּדֵנוּ עֹלָה וּמִנְחָה וְלֹא הֶרְאָנוּ אֶת־כָּל־אֵלֶּה וְכָעֵת לֹא הִשְׁמִיעָנוּ כָּזֹאת׃",
+    "translit": "Vatomer lo ișto lu hafeț ADONAI lahamitenu lo-lakah miiadenu ola uminha velo heranu et-kol-ele vehaet lo hișmianu kazot.",
+    "tokens": [
+     {
+      "t": "Dar soția lui i-a spus: „Dacă DOMNUL voia să ne omoare, nu ar fi primit din mâna noastră arderea-de-tot și "
+     },
+     {
+      "t": "prinosul",
+      "w": "prinosul",
+      "heb": "וּמִנְחָה",
+      "translit": "uminha",
+      "strong": "H4503",
+      "pos": "conjuncție + substantiv, feminin singular",
+      "def_ro": "darul de făină, ofranda de pâine.",
+      "dict_ro": "Minha — la început, orice dar adus unui superior (Geneza 32:14), apoi jertfa de făină care însoțea arderea-de-tot (Levitic 2). Femeia răspunde cu o logică liniștită, în trei trepte: Dumnezeu a primit jertfa, ne-a arătat minunile și ne-a vestit un fiu — n-ar fi făcut toate acestea ca să ne omoare. Rashi explică ultimul argument: nu ne-ar fi vestit nașterea unui fiu dacă am fi meritat să murim. E cea mai înțeleaptă replică din capitol, și o spune femeia fără nume."
+     },
+     {
+      "t": ", și nici nu ne-ar fi arătat toate acestea, și nici nu ne-ar fi făcut să auzim aceste vești la vremea aceasta.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֹּאמֶר לוֹ אִשְׁתּוֹ לוּ...",
+      "translation": "„Dar soția lui i-a spus: „Dacă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν αὐτῷ ἡ γυνὴ αὐτοῦ· εἰ ἤθελεν ὁ Κύριος θανατῶσαι ἡμᾶς, οὐκ ἂν ἔλαβεν ἐκ χειρὸς ἡμῶν ὁλοκαύτωμα καὶ θυσίαν καὶ οὐκ ἂν ἔδειξεν ἡμῖν ταῦτα πάντα καὶ καθὼς καιρὸς οὐκ ἂν ἠκούτισεν ἡμᾶς ταῦτα.",
+      "greek": true,
+      "translation": "„Și i-a zis femeia lui: Dacă ar fi voit Domnul să ne omoare, n-ar fi primit din mâna noastră ardere-de-tot și jertfă și nu ne-ar fi arătat toate acestea, și nu ne-ar fi făcut să auzim acestea, după cum e vremea.”",
+      "note": "Corespondență strânsă; Septuaginta redă veaet („la vremea aceasta”) prin „după cum e vremea” (καθὼς καιρός)."
+     }
+    ],
+    "refs": [
+     "Geneza 4:4,5",
+     "Psalmul 86:17",
+     "Psalmul 25:14",
+     "Psalmul 27:13",
+     "Ioan 15:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „La vremea aceasta” — acum. „Nici nu ne-ar fi făcut să auzim” — nu ne-ar fi vestit aceste vești, despre nașterea unui fiu, dacă am fi meritat să murim."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nu ar fi primit” — nu le-ar fi primit cu bunăvoință, ca focul să le mistuie, și nu ne-ar fi arătat toate aceste minuni pe care le-a făcut îngerul scoțând focul. „La vremea aceasta” — adică: dacă ar fi aceasta vremea despre care spui, vremea morții, nu ne-ar fi făcut să auzim vestea aceea, căci cum s-ar împlini dacă vom muri curând?"
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Lu” — dacă, ca în „dacă i-ați fi lăsat în viață” (Judecători 8:19)."
+     }
+    ]
+   },
+   {
+    "v": "13:24",
+    "t": "Femeia a născut un fiu și i-a pus numele Samson. Și tânărul a crescut și Dumnezeu l-a binecuvântat.",
+    "heb": "וַתֵּלֶד הָאִשָּׁה בֵּן וַתִּקְרָא אֶת־שְׁמוֹ שִׁמְשׁוֹן וַיִּגְדַּל הַנַּעַר וַיְבָרְכֵהוּ יְהוָה׃",
+    "translit": "Vateled haișa ben vatikra et-șemo Șimșon vaigdal hanaar vaievarehehu ADONAI.",
+    "tokens": [
+     {
+      "t": "Femeia a născut un fiu și i-a pus numele "
+     },
+     {
+      "t": "Samson",
+      "w": "Samson",
+      "heb": "שִׁמְשׁוֹן",
+      "translit": "Șimșon",
+      "strong": "H8123",
+      "pos": "substantiv propriu, masculin",
+      "def_ro": "Samson (Șimșon), „cel însorit”.",
+      "dict_ro": "Șimșon — de la șemeș, „soare”, cu sufix diminutival: „micul soare, cel însorit”; Bet-Șemeș, „casa soarelui”, e aproape de Țora. Talmudul (Sota 10a) aduce cuvântul lui Rabi Iohanan: Samson e numit după numele Sfântului, binecuvântat fie El, căci e scris „DOMNUL Dumnezeu este soare și scut” (Psalmul 84:12) — nu că numele lui ar fi sfânt, ci că, precum Dumnezeu ocrotește lumea întreagă, așa Samson a ocrotit Israelul în generația lui. Evrei 11:32 îl numără printre eroii credinței."
+     },
+     {
+      "t": ". Și tânărul a crescut și Dumnezeu l-a binecuvântat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֵּלֶד הָאִשָּׁה בֵּן וַתִּקְרָא...",
+      "translation": "„Femeia a născut un fiu și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔτεκεν ἡ γυνὴ υἱὸν καὶ ἐκάλεσε τὸ ὄνομα αὐτοῦ Σαμψών· καὶ ἡδρύνθη τὸ παιδάριον, καὶ εὐλόγησεν αὐτὸ Κύριος.",
+      "greek": true,
+      "translation": "„Și a născut femeia un fiu și i-a pus numele Samson; și a crescut copilul și l-a binecuvântat Domnul.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Evrei 11:32",
+     "1 Samuel 3:19",
+     "Luca 1:80",
+     "Luca 2:52"
+    ],
+    "commentaries": [
+     {
+      "author": "Talmud Bavli, Sota 10a",
+      "text": "Rabi Iohanan a spus: Samson (Șimșon) e numit după numele Sfântului, binecuvântat fie El, precum s-a spus: „Căci DOMNUL Dumnezeu este soare (șemeș) și scut” (Psalmul 84:12). Dacă e așa, numele lui n-ar trebui șters, ca celelalte nume sfinte! Ci numele lui e asemenea numelui Sfântului, binecuvântat fie El: precum Sfântul, binecuvântat fie El, ocrotește lumea întreagă, așa Samson, în generația lui, a ocrotit tot Israelul."
+     }
+    ]
+   },
+   {
+    "v": "13:25",
+    "t": "Și duhul DOMNULUI a început să-l miște în tabăra lui Dan, între Țora și Eștaol.",
+    "heb": "וַתָּחֶל רוּחַ יְהוָה לְפַעֲמוֹ בְּמַחֲנֵה־דָן בֵּין צָרְעָה וּבֵין אֶשְׁתָּאֹל׃",
+    "translit": "Vatahel ruah ADONAI lefaamo bemahane-Dan bein Țora uvein Eștaol.",
+    "tokens": [
+     {
+      "t": "Și duhul DOMNULUI a început "
+     },
+     {
+      "t": "să-l miște",
+      "w": "să-l miște",
+      "heb": "לְפַעֲמוֹ",
+      "translit": "lefaamo",
+      "strong": "H6470",
+      "pos": "prepoziție + verb, qal, infinitiv + sufix persoana a III-a masculin singular",
+      "def_ro": "să-l pună în mișcare, să-l împingă (din când în când).",
+      "dict_ro": "Paam — „a lovi, a bate ritmic, a pune în mișcare”; de aici paam („pas, dată”) și paamon („clopoțel”). Rashi îl citește „cercetându-l din când în când”: duhul nu stătea pe el tot timpul, ci venea în valuri. Talmudul (Sota 9b) dă două lecturi: prin Samson a început să se împlinească profeția lui Iacov despre Dan („Dan va fi un șarpe pe drum”, Geneza 49:17), iar Șehina suna înaintea lui ca un clopoțel, după clopoțeii de pe haina marelui preot (Exod 39:26). Mahane-Dan, „tabăra lui Dan”, e locul unde a tăbărât tribul la plecarea spre Laiș (Judecători 18:12)."
+     },
+     {
+      "t": " în tabăra lui Dan, între Țora și Eștaol."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתָּחֶל רוּחַ יְהוָה לְפַעֲמוֹ...",
+      "translation": "„Și duhul DOMNULUI a început să-l...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἤρξατο πνεῦμα Κυρίου συνεκπορεύεσθαι αὐτῷ ἐν παρεμβολῇ Δὰν καὶ ἀνὰ μέσον Σαραὰ καὶ ἀνὰ μέσον ᾿Εσθαόλ.",
+      "greek": true,
+      "translation": "„Și a început Duhul Domnului să meargă împreună cu el în tabăra lui Dan, între Saraa și între Estaol.”",
+      "note": "Septuaginta (textul B) redă lefaamo prin „să meargă împreună cu el” (συνεκπορεύεσθαι αὐτῷ), atenuând imaginea impulsului care îl „bate”."
+     }
+    ],
+    "refs": [
+     "Judecători 3:10",
+     "Judecători 6:34",
+     "Judecători 11:29",
+     "1 Samuel 11:6",
+     "Judecători 18:11",
+     "Iosua 15:33"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Să-l miște” — cercetându-l din când în când."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și duhul DOMNULUI a început să-l miște” — un duh de vitejie de la DOMNUL a început să-l poarte prin tabăra lui Dan, ca să arate acolo fapte de putere și minuni. „Între Țora” — tabăra lui Dan se afla între Țora și Eștaol (care erau în moștenirea lui Iuda)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: Targumul lui Ionatan traduce: „și a început un duh de vitejie de dinaintea DOMNULUI să-l întărească”; adică vitejia și puterea pe care le avea au început în tabăra lui Dan, locul unde tăbărâseră fiii lui Dan când au mers să cucerească Laișul, între Țora și Eștaol; poate a avut acolo o întâmplare cu dușmanii și i-a biruit, iar Scriptura n-a povestit-o. În cuvintele înțelepților, „lefaamo” vine de la „clopoțel”, căci duhul profeției suna înaintea lui ca un clopoțel; iar „duhul DOMNULUI” este profeția lui Iacov, tatăl nostru, care a început atunci să se împlinească: „Dan va fi un șarpe pe drum”."
+     },
+     {
+      "author": "Talmud Bavli, Sota 9b",
+      "text": "„Și duhul DOMNULUI a început să-l miște în Mahane-Dan, între Țora și Eștaol” (Judecători 13:25). Rabi Hama, fiul lui Rabi Hanina, a spus: profeția lui Iacov, tatăl nostru, despre Dan s-a împlinit prin Samson: „Dan va fi un șarpe pe drum, o viperă pe cărare” (Geneza 49:17). „Să-l miște” (lefaamo) — Rabi Ițhak din școala lui Rabi Ami a spus: aceasta ne învață că Șehina suna înaintea lui ca un clopoțel; e scris aici „lefaamo”, iar acolo, despre haina marelui preot, „un clopoțel (paamon) și o rodie” (Exod 39:26)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vatahel” — din „început”. „Lefaamo” — cu sensul de pas și mers, ca în „pașii carelor lui” (Judecători 5:28). „Bemahane-Dan” — numele unui loc, numit așa pentru că acolo au tăbărât fiii lui Dan când au mers la luptă împotriva Laișului, cum e scris în această carte."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
