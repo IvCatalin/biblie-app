@@ -72080,6 +72080,1350 @@
     ]
    }
   ]
+ },
+  {
+  "num": 45,
+  "title": "Haftarat Pinhas",
+  "ref": "1 Regi 18:46-19:21",
+  "intro": "Pericopa Pinhas începe cu răsplata lui Pinhas, care „a râvnit cu râvna Mea”. Haftara îl arată pe Eliahu, profetul pe care tradiția îl apropie de Pinhas, spunând de două ori aceleași cuvinte: „Am fost foarte zelos pentru DOMNUL”. După biruința de pe Carmel, Izebel jură să-l omoare, iar Eliahu fuge în pustiul de la Beer-Șeva și cere să moară sub un tufiș de retama. Un înger îl hrănește de două ori, iar cu puterea acelei mâncări merge patruzeci de zile și nopți până la Horeb, muntele lui Moise. Acolo, în peșteră, DOMNUL trece pe dinaintea lui: nu în vânt, nu în cutremur, nu în foc, ci într-un „sunet firav, ușor”. Eliahu primește trei misiuni: să-l ungă pe Hazael rege peste Aram, pe Iehu rege peste Israel și pe Elișa profet în locul său. Află și că în Israel au rămas șapte mii care nu și-au plecat genunchiul înaintea lui Baal. Haftara se încheie cu chemarea lui Elișa de la plug: Eliahu își aruncă mantia peste el, iar Elișa lasă totul și îl urmează.",
+  "verses": [
+   {
+    "v": "18:46",
+    "t": "Și mâna DOMNULUI a fost asupra lui Eliahu și el și-a încins mijlocul și a alergat înaintea lui Ahab până când a venit Izreel.",
+    "heb": "וְיַד־יְהוָה הָיְתָה אֶל־אֵלִיָּהוּ וַיְשַׁנֵּס מָתְנָיו וַיָּרָץ לִפְנֵי אַחְאָב עַד־בֹּאֲכָה יִזְרְעֶאלָה׃",
+    "translit": "Veiad-ADONAI haita el-Eliahu vaișanes motnav vaiaroț lifnei Ahav ad-boaha Izreela.",
+    "tokens": [
+     {
+      "t": "Și mâna DOMNULUI a fost asupra lui Eliahu și el "
+     },
+     {
+      "t": "și-a încins mijlocul",
+      "w": "și-a încins mijlocul",
+      "heb": "וַיְשַׁנֵּס מָתְנָיו",
+      "translit": "vaișanes motnav",
+      "strong": "H8151",
+      "pos": "verb, piel, imperfect consecutiv + substantiv, dual + sufix",
+      "def_ro": "și-a strâns haina la brâu (ca să alerge).",
+      "dict_ro": "Șanas — „a încinge, a strânge”, verb care apare o singură dată în Biblie; Rashi observă că vine să arate graba, ca a unui viteaz. Eliahu, după biruința de pe Carmel și ploaia care a pus capăt secetei, aleargă pe jos înaintea carului lui Ahab până la Izreel, peste douăzeci și cinci de kilometri. Targumul, citat de Rashi și Radak, explică „mâna DOMNULUI” ca „un duh de tărie de la DOMNUL”. Talmudul (Zevahim 102a; Menahot 98a) învață de aici, prin Rabi Iohanan, respectul datorat regalității, chiar și unui rege rău."
+     },
+     {
+      "t": " și a alergat înaintea lui Ahab până când a venit Izreel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְיַד־יְהוָה הָיְתָה אֶל־אֵלִיָּהוּ וַיְשַׁנֵּס...",
+      "translation": "„Și mâna DOMNULUI a fost asupra...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ χεὶρ Κυρίου ἐπὶ τὸν ᾿Ηλιού, καὶ συνέσφιξε τὴν ὀσφὺν αὐτοῦ καὶ ἔτρεχεν ἔμπροσθεν ᾿Αχαὰβ ἕως ᾿Ιεζράελ.",
+      "greek": true,
+      "translation": "„Și mâna Domnului a fost peste Ilie, și și-a strâns mijlocul și alerga înaintea lui Ahab până la Izreel.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Regi 3:15",
+     "Ezechiel 3:14",
+     "2 Regi 4:29",
+     "Iov 38:3",
+     "Ieremia 1:17",
+     "1 Petru 1:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și mâna DOMNULUI” — Targumul lui Ionatan traduce: „un duh de tărie de dinaintea DOMNULUI”, adică a primit putere să alerge pe jos înaintea carului, ca Ahab să nu meargă singur, căci purta cinste regalității. „Și și-a încins mijlocul” — vayșanes e ca „vayezor” (s-a încins), dar nu are asemănare în Scriptură, și a venit doar ca să ne învețe o expresie de grabă: a fost iute ca un viteaz."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Mâna DOMNULUI” — adică un duh de vitejie de la DOMNUL. „Și-a încins mijlocul” — și-a încins coapsele ca să fie cât mai sprinten și a alergat pe jos înaintea carului lui Ahab până la locul unde vor intra în Izreel; și a făcut aceasta ca să dea cinste regalității."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și mâna DOMNULUI a fost asupra lui Eliahu” — cum traduce Targumul: „și un duh de vitejie de dinaintea DOMNULUI era cu Eliahu”; căci i s-a adăugat putere și vitejie: Ahab pornise deja călare, iar el a mers pe jos după el, l-a ajuns și a alergat înaintea lui până la Izreel. „Și-a încins” — iar înțelepții noștri au învățat de aici și au spus: să fie mereu asupra ta frica de regalitate, căci iată, Eliahu și-a încins mijlocul și a alergat înaintea lui Ahab."
+     },
+     {
+      "author": "Talmud Bavli, Zevahim 102a",
+      "text": "Rabi Iohanan a spus: învață principiul de aici: „Și mâna DOMNULUI a fost asupra lui Eliahu și el și-a încins mijlocul și a alergat înaintea lui Ahab până la intrarea în Izreel” (1 Regi 18:46) — profetul Eliahu a alergat înaintea lui Ahab, regele cel rău, din respect [pentru regalitate]."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vayșanes” — cu sensul de încingere, și nu are asemănare. „Ad boaha” — până unde vei ajunge, ca și cum ar vorbi cu cineva care cunoaște locul."
+     }
+    ]
+   },
+   {
+    "v": "19:1",
+    "t": "Și Ahab i-a spus lui Izebel tot ce făcuse Eliahu și tot ce ucisese el cu sabia, toți profeții [falși].",
+    "heb": "וַיַּגֵּד אַחְאָב לְאִיזֶבֶל אֵת כָּל־אֲשֶׁר עָשָׂה אֵלִיָּהוּ וְאֵת כָּל־אֲשֶׁר הָרַג אֶת־כָּל־הַנְּבִיאִים בֶּחָרֶב׃",
+    "translit": "Vaiaghed Ahav le'Izevel et kol-așer asa Eliahu veet kol-așer harag et-kol-haneviim beharev.",
+    "tokens": [
+     {
+      "t": "Și Ahab i-a spus lui "
+     },
+     {
+      "t": "Izebel",
+      "w": "Izebel",
+      "heb": "אִיזָבֶל",
+      "translit": "Izevel",
+      "strong": "H348",
+      "pos": "nume propriu, feminin",
+      "def_ro": "Izabela, soția lui Ahab, fiica regelui Sidonului.",
+      "dict_ro": "Izevel — fiica lui Etbaal, regele sidonienilor (1 Regi 16:31), soția lui Ahab și principala promotoare a cultului lui Baal în Israel; ea îi ucisese pe profeții DOMNULUI (1 Regi 18:4). Numele ei a devenit în tradiție simbolul idolatriei agresive (Apocalipsa 2:20). Ahab îi povestește „tot ce făcuse Eliahu” — Metzudat David: coborârea focului și a ploii —, dar Izebel nu se înfrânge în fața minunii, ci jură răzbunare."
+     },
+     {
+      "t": " tot ce făcuse Eliahu și tot ce ucisese el cu sabia, toți profeții [falși]."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּגֵּד אַחְאָב לְאִיזֶבֶל אֵת...",
+      "translation": "„Și Ahab i-a spus lui Izebel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΚΑΙ ἀνήγγειλεν ᾿Αχαὰβ τῇ ᾿Ιεζάβελ γυναικὶ αὐτοῦ πάντα, ἃ ἐποίησεν ᾿Ηλιού, καὶ ὡς ἀπέκτεινε τοὺς προφήτας ἐν ῥομφαίᾳ.",
+      "greek": true,
+      "translation": "„Și Ahab i-a vestit Izabelei, femeii lui, toate câte făcuse Ilie și cum ucisese pe profeți cu sabia.”",
+      "note": "Septuaginta adaugă „femeii lui”."
+     }
+    ],
+    "refs": [
+     "1 Regi 16:31",
+     "1 Regi 21:5-7,25",
+     "1 Regi 18:40"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Tot ce făcuse” — cu coborârea focului și a ploii."
+     }
+    ]
+   },
+   {
+    "v": "19:2",
+    "t": "Și Izebel a trimis sol la Eliahu, spunând: „Așa să-mi facă zeii și chiar mai mult, dacă la vremea aceasta mâine nu îți voi pune sufletul laolaltă cu sufletul lor.”",
+    "heb": "וַתִּשְׁלַח אִיזֶבֶל מַלְאָךְ אֶל־אֵלִיָּהוּ לֵאמֹר כֹּה־יַעֲשׂוּן אֱלֹהִים וְכֹה יוֹסִפוּן כִּי־כָעֵת מָחָר אָשִׂים אֶת־נַפְשְׁךָ כְּנֶפֶשׁ אַחַד מֵהֶם׃",
+    "translit": "Vatișlah Izevel malah el-Eliahu lemor ko-iaasun Elohim veho iosifun ki-haet mahar asim et-nafșeha kenefeș ahad mehem.",
+    "tokens": [
+     {
+      "t": "Și Izebel a trimis sol la Eliahu, spunând: „Așa să-mi facă "
+     },
+     {
+      "t": "zeii",
+      "w": "zeii",
+      "heb": "אֱלֹהִים",
+      "translit": "elohim",
+      "strong": "H430",
+      "pos": "substantiv, masculin plural (cu verb la plural)",
+      "def_ro": "zeii.",
+      "dict_ro": "Elohim — cu verbul la plural (yaasun), aici înseamnă „zeii”, nu Dumnezeul lui Israel: Radak și Metzudat David explică pluralul prin faptul că Izebel slujea lui Baal și Așerei. Formula „așa să-mi facă zeii și încă mai mult” e un jurământ cu blestem asupra propriei persoane, cunoscut și din gura lui Rut (1:17) și a regilor (2 Regi 6:31). Rashi completează: „așa cum ai făcut tu profeților lui Baal”."
+     },
+     {
+      "t": " și chiar mai mult, dacă la vremea aceasta mâine nu îți voi pune sufletul laolaltă cu sufletul lor.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתִּשְׁלַח אִיזֶבֶל מַלְאָךְ אֶל־אֵלִיָּהוּ...",
+      "translation": "„Și Izebel a trimis sol la...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπέστειλεν ᾿Ιεζάβελ πρὸς ᾿Ηλιοὺ καὶ εἶπεν· εἰ σὺ εἶ ᾿Ηλιοὺ καὶ ἐγὼ ᾿Ιεζάβελ, τάδε ποιήσαι μοι ὁ Θεὸς καὶ τάδε προσθείη, ὅτι ταύτην τὴν ὥραν αὔριον θήσομαι τὴν ψυχήν σου καθὼς ψυχὴν ἑνὸς ἐξ αὐτῶν.",
+      "greek": true,
+      "translation": "„Și a trimis Izabela la Ilie și a zis: Dacă tu ești Ilie și eu Izabela, așa să-mi facă Dumnezeu și așa să adauge, că mâine la ceasul acesta voi face sufletul tău ca sufletul unuia dintre ei.”",
+      "note": "Septuaginta adaugă „dacă tu ești Ilie și eu Izabela” și pune „Dumnezeu” la singular."
+     }
+    ],
+    "refs": [
+     "Rut 1:17",
+     "2 Regi 6:31",
+     "1 Regi 20:10",
+     "Exod 15:9",
+     "Proverbe 27:1",
+     "Iacov 4:13,14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Așa să-mi facă zeii” — așa cum ai făcut tu profeților lui Baal."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Așa să-mi facă” — e un jurământ și o amenințare, dar n-a rostit-o întreagă; ca și cum ar fi spus: un astfel de bine să-mi facă și să mai adauge bine, căci mâine la vremea aceasta...; și a vorbit la plural, pentru că slujea lui Baal și Așerei."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Așa să-mi facă zeii și chiar mai mult” — pe calea jurământului, ca „așa să-mi facă Dumnezeu și încă mai mult”; și a spus la plural, căci se gândea la zeii pe care îi slujea, Baal și Așera. Iar e de mirare că Ionatan ar fi tradus „așa să facă cei de temut ai DOMNULUI”; într-un manuscris bun am găsit „așa să-mi facă zeii mei”, iar acesta e adevărul, iar textul cu „ai DOMNULUI” e o greșeală de copist."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Kaet” — litera kaf vine pentru a arăta exactitatea lucrului."
+     }
+    ]
+   },
+   {
+    "v": "19:3",
+    "t": "Când a văzut, el s-a ridicat și a plecat [să-și scape] viața. Și a ajuns la Beer-Șeva, care aparține lui Iuda, și și-a lăsat slujitorul acolo.",
+    "heb": "וַיַּרְא וַיָּקָם וַיֵּלֶךְ אֶל־נַפְשׁוֹ וַיָּבֹא בְּאֵר שֶׁבַע אֲשֶׁר לִיהוּדָה וַיַּנַּח אֶת־נַעֲרוֹ שָׁם׃",
+    "translit": "Vaiar vaiakom vaièleh el-nafșo vaiavo Beer Șeva așer l'Ihuda vaianah et-naaro șam.",
+    "tokens": [
+     {
+      "t": "Când a văzut, el s-a ridicat și a plecat [să-și scape] viața. Și a ajuns la "
+     },
+     {
+      "t": "Beer-Șeva",
+      "w": "Beer-Șeva",
+      "heb": "בְּאֵר שֶׁבַע",
+      "translit": "Beer Șeva",
+      "strong": "H884",
+      "pos": "nume propriu compus",
+      "def_ro": "Beer-Șeba („fântâna jurământului”), la marginea sudică a țării.",
+      "dict_ro": "Beer-Șeva — „fântâna jurământului” (sau „a celor șapte”), unde Avraam a încheiat legământul cu Abimeleh (Geneza 21:31), la marginea de sud a țării, de unde vine expresia „de la Dan până la Beer-Șeba”. Radak explică de ce se spune „care aparține lui Iuda”: cetatea era în moștenirea lui Simeon, inclusă în cea a lui Iuda, iar precizarea arată că Eliahu ieșise de sub stăpânirea lui Ahab. Tot Radak respinge lectura „s-a temut” (vayira) pentru „a văzut” (vayar): Eliahu a văzut primejdia și a fugit ca să-și scape viața."
+     },
+     {
+      "t": ", care aparține lui Iuda, și și-a lăsat slujitorul acolo."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּרְא וַיָּקָם וַיֵּלֶךְ אֶל־נַפְשׁוֹ...",
+      "translation": "„Când a văzut, el s-a ridicat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐφοβήθη ᾿Ηλιοὺ καὶ ἀνέστη καὶ ἀπῆλθε κατὰ τὴν ψυχὴν αὐτοῦ καὶ ἔρχεται εἰς Βηρσαβεὲ γῆν ᾿Ιούδα καὶ ἀφῆκε τὸ παιδάριον αὐτοῦ ἐκεῖ·",
+      "greek": true,
+      "translation": "„Și s-a temut Ilie și s-a sculat și a plecat pentru sufletul său și a venit la Bersabee, în țara lui Iuda, și și-a lăsat acolo slujitorul;”",
+      "note": "Divergență reală: Septuaginta citește „s-a temut” (ἐφοβήθη, vayira), acolo unde Textul Masoretic are „a văzut” (vayar) — tocmai lectura discutată și respinsă de Radak."
+     }
+    ],
+    "refs": [
+     "Exod 2:15",
+     "1 Samuel 27:1",
+     "Isaia 51:12,13",
+     "Geneza 21:31",
+     "Amos 7:12,13",
+     "Matei 26:56,70-74"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Când a văzut” — s-a văzut în primejdie. „[Să-și scape] viața” — ca să-și scape sufletul. „Care aparține lui Iuda” — și nu e sub stăpânirea lui Ahab."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Când a văzut, el s-a ridicat” — s-a văzut în primejdie și a plecat și a scăpat pentru viața lui; iar comentatorii explică „vayar” ca „vayira” (s-a temut), nu știu de ce, căci nici nu se potrivește cu gramatica, iar Ionatan traduce „și a văzut, s-a ridicat și a plecat ca să-și scape viața”. „Beer-Șeva, care aparține lui Iuda” — s-a spus „care aparține lui Iuda” pentru că Beer-Șeva se află în moștenirea fiilor lui Simeon și e scrisă și în moștenirea fiilor lui Iuda; adică a ieșit de sub stăpânirea lui Ahab și din țara lui și a mers în țara lui Iuda, de frica Izebelei."
+     }
+    ]
+   },
+   {
+    "v": "19:4",
+    "t": "Iar el a mers cale de o zi în deșert, a ajuns [acolo], s-a așezat sub un tufiș de mătură și a cerut ca sufletul să-i moară; și a spus: „Destul! Acum, DOAMNE, ia-mi sufletul, căci nu sunt mai bun decât strămoșii mei.”",
+    "heb": "וְהוּא־הָלַךְ בַּמִּדְבָּר דֶּרֶךְ יוֹם וַיָּבֹא וַיֵּשֶׁב תַּחַת רֹתֶם אֶחָת וַיִּשְׁאַל אֶת־נַפְשׁוֹ לָמוּת וַיֹּאמֶר רַב עַתָּה יְהוָה קַח נַפְשִׁי כִּי־לֹא־טוֹב אָנֹכִי מֵאֲבֹתָי׃",
+    "translit": "Vehu-halah bamidbar dereh iom vaiavo vaièșev tahat rotem ehad vaișal et-nafșo lamut vaiomer rav ata ADONAI kah nafși ki-lo-tov anohi meavotai.",
+    "tokens": [
+     {
+      "t": "Iar el a mers cale de o zi în deșert, a ajuns [acolo], s-a așezat sub un "
+     },
+     {
+      "t": "tufiș de mătură",
+      "w": "tufiș de mătură",
+      "heb": "רֹתֶם",
+      "translit": "rotem",
+      "strong": "H7574",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "tufă de grozamă (retama), arbust al deșertului.",
+      "dict_ro": "Rotem — retama (grozama albă), arbustul cel mai mare din deșertul Negevului, care dă puțină umbră; din rădăcinile lui se face un cărbune care arde foarte fierbinte (Psalmul 120:4, „cărbuni de rotem”, citat de Metzudat Țion). Radak observă că e „un singur tufiș”: singurul adăpost în tot pustiul. Rugăciunea lui Eliahu, „ia-mi sufletul”, seamănă cu cea a lui Moise (Numeri 11:15) și a lui Iona (Iona 4:3). Metzudat David: fiindcă sunt în suferință, zilele mele îmi par multe; nu sunt mai bun decât părinții mei, ca să scap de moarte."
+     },
+     {
+      "t": " și a cerut ca sufletul să-i moară; și a spus: „Destul! Acum, DOAMNE, ia-mi sufletul, căci nu sunt mai bun decât strămoșii mei.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהוּא־הָלַךְ בַּמִּדְבָּר דֶּרֶךְ יוֹם...",
+      "translation": "„Iar el a mers cale de...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ αὐτὸς ἐπορεύθη ἐν τῇ ἐρήμῳ ὁδὸν ἡμέρας καὶ ἦλθε καὶ ἐκάθισεν ὑποκάτω Ῥαθμὲν καὶ ᾐτήσατο τὴν ψυχὴν αὐτοῦ ἀποθανεῖν καὶ εἶπεν· ἱκανούσθω νῦν, λαβὲ δὴ τὴν ψυχή μου ἀπ᾿ ἐμοῦ, Κύριε, ὅτι οὐ κρείσσων ἐγώ εἰμι ὑπὲρ τοὺς πατέρας μου.",
+      "greek": true,
+      "translation": "„Și el a mers în pustie cale de o zi și a venit și a șezut sub un Ratmen și și-a cerut sufletul ca să moară și a zis: Ajunge acum; ia, Doamne, sufletul meu de la mine, căci nu sunt eu mai bun decât părinții mei.”",
+      "note": "Septuaginta transliterează rotem („Ratmen”)."
+     }
+    ],
+    "refs": [
+     "Geneza 21:15,16",
+     "Numeri 11:15",
+     "Iov 3:20-22",
+     "Ieremia 20:14-18",
+     "Iona 4:3,8",
+     "Filipeni 1:21-24"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Tufiș de mătură” — ienupăr (genévrier în franceza veche). „Și a spus: Destul!” — Targumul lui Ionatan traduce: „mi-e de ajuns viața lungă; până când voi fi hăituit așa?”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Sub un tufiș de mătură” — ca să se adăpostească la umbra lui. „Și a cerut” — a cerut de la DOMNUL să-i ia sufletul și să moară din mâna Cerului. „Destul!” — adică, de vreme ce sunt acum în suferință, zilele mele îmi sunt socotite multe și nu mai doresc de ele; de aceea ia-mi sufletul, căci oricum nu voi trăi veșnic, pentru că nu sunt mai bun decât părinții mei, ca să scap de moarte; deci ce-mi pasă acum sau mai târziu?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Iar el a mers în deșert” — nici în țara lui Iuda nu s-a simțit în siguranță, căci se temea ca Izebel să nu trimită să-l omoare și acolo; și a ieșit din ținutul locuit și a mers în pustie, în loc unde nu se găsește hrană, ca să moară, căci și-a ales moartea în locul vieții, sau ca să i se arate cuvântul DOMNULUI, ce să facă. „Tufiș de mătură” — rotem, de la „cărbuni de rotem”; e un copac scund al cărui cărbune e foarte fierbinte. „Destul!” — adică mi-e destul de lumea aceasta, în care sunt în primejdie în fiecare zi."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Rotem” — numele unui copac ai cărui cărbuni sunt mereu foarte fierbinți, și tot așa „cărbuni de rotem” (Psalmul 120:4)."
+     }
+    ]
+   },
+   {
+    "v": "19:5",
+    "t": "Apoi s-a culcat și a dormit sub un tufiș de mătură și, iată aceasta: un înger l-a atins și i-a spus: „Ridică-te! Mănâncă!”",
+    "heb": "וַיִּשְׁכַּב וַיִּישַׁן תַּחַת רֹתֶם אֶחָד וְהִנֵּה־זֶה מַלְאָךְ נֹגֵעַ בּוֹ וַיֹּאמֶר לוֹ קוּם אֱכֹל׃",
+    "translit": "Vaișkav vaișan tahat rotem ehad vehine-ze malah noghea bo vaiomer lo kum ehol.",
+    "tokens": [
+     {
+      "t": "Apoi s-a culcat și a dormit sub un tufiș de mătură și, iată aceasta: "
+     },
+     {
+      "t": "un înger",
+      "w": "un înger",
+      "heb": "מַלְאָךְ",
+      "translit": "malah",
+      "strong": "H4397",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "un înger, un trimis.",
+      "dict_ro": "Malah — trimisul lui Dumnezeu. Îngerul vine în pustiu la profetul care vrea să moară, cum venise la Agar sub tufiș (Geneza 21:17), și nu-i ține o predică, ci îi spune doar: „ridică-te, mănâncă”. Metzudat David și Radak explică expresia „și iată aceasta” (vehine ze): arată iuțeala lucrului — de îndată ce a adormit, a venit îngerul, ca în „glasul iubitului meu, iată-l că vine” (Cântarea Cântărilor 2:8). Radak mai observă că era „un singur” tufiș de retama, abia suficient ca adăpost."
+     },
+     {
+      "t": " l-a atins și i-a spus: „Ridică-te! Mănâncă!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁכַּב וַיִּישַׁן תַּחַת רֹתֶם...",
+      "translation": "„Apoi s-a culcat și a dormit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐκοιμήθη καὶ ὕπνωσεν ἐκεῖ ὑπὸ φυτόν, καὶ ἰδού τις ἥψατο αὐτοῦ καὶ εἶπεν αὐτῷ· ἀνάστηθι καὶ φάγε·",
+      "greek": true,
+      "translation": "„Și s-a culcat și a adormit acolo sub un arbust, și iată, cineva l-a atins și i-a zis: Scoală-te și mănâncă.”",
+      "note": "Septuaginta are „cineva” (τις) în loc de „un înger” la această primă atingere; îngerul e numit abia la 19:7."
+     }
+    ],
+    "refs": [
+     "Geneza 28:11-15",
+     "Daniel 9:21",
+     "Daniel 10:9,10",
+     "Faptele Apostolilor 12:7",
+     "Evrei 1:14",
+     "Evrei 13:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Apoi s-a culcat” — adică și când a vrut să se culce și să doarmă cu picioarele întinse, n-a găsit două tufișuri deodată, ca să se adăpostească la umbra lor pe toată lungimea trupului. „Și iată aceasta” — expresia arată iuțeala lucrului: îndată ce a adormit, a venit la el îngerul; și tot așa „glasul iubitului meu, iată-l că vine” (Cântarea Cântărilor 2:8). „L-a atins” — ca să-l trezească din somn."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Sub un tufiș de mătură” — spunând a doua oară „sub un singur tufiș”, și nu „sub tufiș”, arată că tufișul era singur și n-a găsit în pustiul acela alt adăpost în care să se culce, decât acel tufiș singur, și abia putea să se adăpostească sub el. „Și, iată aceasta: un înger” — nu spune „aceasta” pentru a arăta îngerul, ci pentru a arăta vremea, ca „iată”; adică îndată ce a adormit, a venit la el îngerul, l-a atins, l-a trezit din somn și i-a spus: ridică-te, mănâncă."
+     }
+    ]
+   },
+   {
+    "v": "19:6",
+    "t": "El s-a uitat atent și iată, lângă capul lui era o turtă coaptă pe cărbuni și un ulcior cu apă; el a mâncat și a băut și apoi s-a dus înapoi și s-a culcat.",
+    "heb": "וַיַּבֵּט וְהִנֵּה מְרַאֲשֹׁתָיו עֻגַת רְצָפִים וְצַפַּחַת מָיִם וַיֹּאכַל וַיֵּשְׁתְּ וַיָּשָׁב וַיִּשְׁכָּב׃",
+    "translit": "Vaiabet vehine meraașotav ugat rețafim vețapahat maim vaiohal vaièșt vaiasov vaișkav.",
+    "tokens": [
+     {
+      "t": "El s-a uitat atent și iată, lângă capul lui era "
+     },
+     {
+      "t": "o turtă coaptă pe cărbuni",
+      "w": "o turtă coaptă pe cărbuni",
+      "heb": "עֻגַת רְצָפִים",
+      "translit": "ugat rețafim",
+      "strong": "H5692",
+      "pos": "substantiv, feminin singular, în construcție + substantiv, masculin plural",
+      "def_ro": "turtă coaptă pe pietre înfierbântate sau pe jar.",
+      "dict_ro": "Uga — turta plată, pâinea simplă a drumului, coaptă direct pe jar sau pe pietre fierbinți (rețafim), cum explică Rashi și Metzudat Țion prin Isaia 6:6, „în mâna lui era un cărbune aprins (rițpa)”. E aceeași pâine pe care Sara o pregătește pentru oaspeții lui Avraam (Geneza 18:6). Radak observă un detaliu: Eliahu n-a mâncat toată turta și n-a băut toată apa, căci îngerul i-a spus a doua oară să mănânce, iar Scriptura nu pomenește o a doua turtă."
+     },
+     {
+      "t": " și un ulcior cu apă; el a mâncat și a băut și apoi s-a dus înapoi și s-a culcat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּבֵּט וְהִנֵּה מְרַאֲשֹׁתָיו עֻגַת...",
+      "translation": "„El s-a uitat atent și iată...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπέβλεψεν ᾿Ηλιού, καὶ ἰδοὺ πρὸς κεφαλῆς αὐτοῦ ἐγκρυφίας ὀλυρίτης καὶ καψάκης ὕδατος· καὶ ἀνέστη καὶ ἔφαγε καὶ ἔπιε. καὶ ἐπιστρέψας ἐκοιμήθη.",
+      "greek": true,
+      "translation": "„Și s-a uitat Ilie, și iată, la capul lui o turtă de ovăz coaptă în spuză și un urcior cu apă; și s-a sculat și a mâncat și a băut, și întorcându-se s-a culcat.”",
+      "note": "Septuaginta precizează felul pâinii: „turtă din ovăz/alac, coaptă în spuză” (ἐγκρυφίας ὀλυρίτης)."
+     }
+    ],
+    "refs": [
+     "1 Regi 17:6,9-15",
+     "Psalmul 37:3",
+     "Isaia 33:16",
+     "Matei 4:11",
+     "Marcu 8:2,3",
+     "Ioan 21:5,9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Pe cărbuni” — pe jar, și tot așa „și în mâna lui era un cărbune aprins (rițpa)” (Isaia 6:6)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „O turtă coaptă pe cărbuni” — o turtă coaptă pe jar. „El a mâncat și a băut” — n-a mâncat toată turta și n-a băut toată apa, căci a doua oară îngerul i-a spus să mănânce, și nu vedem să mai fi fost acolo altă turtă sau altă apă."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Merașotav” — lângă capul lui. „Ugat” — o turtă. „Rețafim” — coaptă pe jar, ca în „și în mâna lui era un cărbune aprins” (Isaia 6:6)."
+     }
+    ]
+   },
+   {
+    "v": "19:7",
+    "t": "Îngerul DOMNULUI s-a întors la el a doua oară, l-a atins și a spus: „Ridică-te! Mănâncă, pentru că lung îți va fi drumul!”",
+    "heb": "וַיָּשָׁב מַלְאַךְ יְהוָה שֵׁנִית וַיִּגַּע־בּוֹ וַיֹּאמֶר קוּם אֱכֹל כִּי רַב מִמְּךָ הַדָּרֶךְ׃",
+    "translit": "Vaiasov malah ADONAI șenit vaiga-bo vaiomer kum ehol ki rav mimha hadareh.",
+    "tokens": [
+     {
+      "t": "Îngerul DOMNULUI s-a întors la el a doua oară, l-a atins și a spus: „Ridică-te! Mănâncă, pentru că lung îți va fi "
+     },
+     {
+      "t": "drumul",
+      "w": "drumul",
+      "heb": "הַדָּרֶךְ",
+      "translit": "haderekh",
+      "strong": "H1870",
+      "pos": "substantiv, masculin/feminin singular, cu articol",
+      "def_ro": "drumul, calea.",
+      "dict_ro": "Derekh — drumul, calea, iar la figurat „felul de a trăi”. „Lung îți va fi drumul” — literal „prea mult e drumul pentru tine”. Metzudat David: drumul pe care vrei să mergi e departe de aici și nu vei găsi ce să mănânci; de aceea mănâncă iarăși și te vei sătura pentru multă vreme. Radak observă că Eliahu nici nu știa încotro merge: a pornit la întâmplare și a fost călăuzit, ca vacile care au dus chivotul „drept pe drum” (1 Samuel 6:12), până la muntele unde se descoperise Dumnezeu lui Moise."
+     },
+     {
+      "t": "!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּשָׁב מַלְאַךְ יְהוָה שֵׁנִית...",
+      "translation": "„Îngerul DOMNULUI s-a întors la el...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπέστρεψεν ὁ ἄγγελος Κυρίου ἐκ δευτέρου καὶ ἥψατο αὐτοῦ καὶ εἶπεν αὐτῷ· ἀνάστα φάγε, ὅτι πολλὴ ἀπὸ σοῦ ἡ ὁδός.",
+      "greek": true,
+      "translation": "„Și s-a întors îngerul Domnului a doua oară și l-a atins și i-a zis: Scoală-te, mănâncă, căci lung e drumul pentru tine.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Deuteronom 33:25",
+     "Psalmul 103:13,14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Pentru că lung îți va fi drumul” — adică drumul pe care vrei să mergi e departe de aici și nu vei găsi ce să mănânci; de aceea ridică-te și mănâncă iarăși, și din aceasta te vei sătura pentru multă vreme."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Pentru că lung îți va fi drumul” — iar el nu știa încotro va merge, ci mergea în neștire patruzeci de zile și patruzeci de nopți până la muntele Horeb, iar drumul i s-a îndreptat acolo, ca la chivot, despre care s-a spus: „și vacile au mers drept pe drum”; iar când a ajuns acolo, s-a oprit, căci s-a gândit că acolo i se va arăta cuvântul DOMNULUI, fiindcă pe muntele acela I s-a arătat mai întâi lui Moise, pe el s-a descoperit slava și pe el a dat Tora lui Israel."
+     }
+    ]
+   },
+   {
+    "v": "19:8",
+    "t": "El s-a ridicat, a mâncat și a băut. Apoi a plecat, cu forța dobândită după acea masă, patruzeci de zile și patruzeci de nopți, până la muntele lui Dumnezeu, [la] Horeb.",
+    "heb": "וַיָּקָם וַיֹּאכַל וַיִּשְׁתֶּה וַיֵּלֶךְ בְּכֹחַ הָאֲכִילָה הַהִיא אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה עַד הַר הָאֱלֹהִים חֹרֵב׃",
+    "translit": "Vaiakom vaiohal vaiște vaièleh behoah haahila hahi arbaim iom vearbaim laila ad har ha'Elohim Horev.",
+    "tokens": [
+     {
+      "t": "El s-a ridicat, a mâncat și a băut. Apoi a plecat, cu forța dobândită după acea masă, "
+     },
+     {
+      "t": "patruzeci de zile",
+      "w": "patruzeci de zile",
+      "heb": "אַרְבָּעִים יוֹם",
+      "translit": "arbaim iom",
+      "strong": "H705",
+      "pos": "numeral + substantiv",
+      "def_ro": "patruzeci de zile.",
+      "dict_ro": "Arbaim — patruzeci, numărul încercării și al pregătirii în Scriptură: patruzeci de zile și nopți a stat Moise pe munte (Exod 24:18; 34:28), patruzeci de ani a umblat Israel prin pustiu, patruzeci de zile a postit Iisus (Matei 4:2). Eliahu refac drumul lui Moise spre Horeb, „muntele lui Dumnezeu”. Radak subliniază diferența: Moise n-a mâncat deloc, pe când Eliahu a mers „cu puterea acelei mâncări”, care, spune Metzudat David, printr-o minune nu s-a mistuit în el tot acest timp."
+     },
+     {
+      "t": " și patruzeci de nopți, până la muntele lui Dumnezeu, [la] Horeb."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּקָם וַיֹּאכַל וַיִּשְׁתֶּה וַיֵּלֶךְ...",
+      "translation": "„El s-a ridicat, a mâncat și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνέστη καὶ ἔφαγε καὶ ἔπιε· καὶ ἐπορεύθη ἐν ἰσχύϊ τῆς βρώσεως ἐκείνης τεσσαράκοντα ἡμέρας καὶ τεσσαράκοντα νύκτας ἕως ὄρους Χωρήβ.",
+      "greek": true,
+      "translation": "„Și s-a sculat și a mâncat și a băut, și a mers cu puterea hranei aceleia patruzeci de zile și patruzeci de nopți până la muntele Horeb.”",
+      "note": "Septuaginta nu are „muntele lui Dumnezeu”, ci doar „muntele Horeb”."
+     }
+    ],
+    "refs": [
+     "Exod 24:18",
+     "Exod 34:28",
+     "Deuteronom 9:9,18",
+     "Matei 4:2",
+     "Exod 3:1",
+     "2 Corinteni 12:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Cu forța dobândită după acea masă” — printr-o minune, mâncarea nu s-a mistuit în măruntaiele lui tot acel timp. „Până la muntele” — până a ajuns la muntele lui Dumnezeu, care e muntele Horeb."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cu forța dobândită după acea masă” — nu a fost aceasta ca minunea lui Moise, învățătorul nostru, despre care s-a spus: „patruzeci de zile și patruzeci de nopți n-a mâncat pâine și n-a băut apă”, și nu s-a spus că a stat cu puterea vreunei mâncări; iar despre Eliahu a spus „cu puterea acelei mâncări”, adică mâncarea a zăbovit în stomac, puterea mistuitoare nu a mistuit-o, și trupul s-a hrănit din ea patruzeci de zile și patruzeci de nopți."
+     }
+    ]
+   },
+   {
+    "v": "19:9",
+    "t": "Și a ajuns acolo în peșteră și a înnoptat acolo. Și iată, cuvântul DOMNULUI a venit la el și i-a spus: „De ce ești aici, Eliahu?”",
+    "heb": "וַיָּבֹא־שָׁם אֶל־הַמְּעָרָה וַיָּלֶן שָׁם וְהִנֵּה דְבַר־יְהוָה אֵלָיו וַיֹּאמֶר לוֹ מַה־לְּךָ פֹה אֵלִיָּהוּ׃",
+    "translit": "Vaiavo-șam el-hameara vaialen șam vehine devar-ADONAI elav vaiomer lo ma-leha fo Eliahu.",
+    "tokens": [
+     {
+      "t": "Și a ajuns acolo "
+     },
+     {
+      "t": "în peșteră",
+      "w": "în peșteră",
+      "heb": "אֶל־הַמְּעָרָה",
+      "translit": "el-hamaara",
+      "strong": "H4631",
+      "pos": "prepoziție + substantiv, feminin singular, cu articol",
+      "def_ro": "în peșteră (cea anume).",
+      "dict_ro": "Meara — peștera; articolul („peștera”) arată că e una cunoscută. Rashi, Metzudat David și Radak o identifică cu „scobitura stâncii” în care a stat Moise când a trecut slava lui Dumnezeu (Exod 33:22), pe care Onkelos o traduce „peștera stâncii”. Talmudul (Meghila 19b) le leagă: dacă ar fi rămas în peștera în care au stat Moise și Eliahu o crăpătură cât urechea unui ac, n-ar fi putut îndura lumina. Întrebarea „ce faci aici, Eliahu?” e, după Radak, ca „unde ești?” din Geneza 3:9: o deschidere de dialog, nu o cerere de informație."
+     },
+     {
+      "t": " și a înnoptat acolo. Și iată, cuvântul DOMNULUI a venit la el și i-a spus: „De ce ești aici, Eliahu?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבֹא־שָׁם אֶל־הַמְּעָרָה וַיָּלֶן שָׁם...",
+      "translation": "„Și a ajuns acolo în peșteră...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἰσῆλθεν ἐκεῖ εἰς τὸ σπήλαιον καὶ κατέλυσεν ἐκεῖ· καὶ ἰδοὺ ρῆμα Κυρίου πρὸς αὐτὸν καὶ εἶπε· τί σὺ ἐνταῦθα, ᾿Ηλιού;",
+      "greek": true,
+      "translation": "„Și a intrat acolo în peșteră și a găzduit acolo; și iată, cuvântul Domnului către el, și i-a zis: Ce faci tu aici, Ilie?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 33:21,22",
+     "Evrei 11:38",
+     "Geneza 3:9",
+     "Geneza 16:8",
+     "Iona 1:3,4",
+     "1 Regi 19:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „În peșteră” — aceasta este „scobitura stâncii” în care a stat Moise (Exod 33:22)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„În peșteră” — în care a stat Moise, cum s-a spus: „și te voi pune în scobitura stâncii”, iar Targumul traduce: „în peștera stâncii”. „De ce ești aici” — de ce ai venit aici; iar întrebarea vine în felul de a vorbi al omului, care întreabă ca să intre în vorbă cu celălalt, ca în „unde este Abel, fratele tău?” (Geneza 4:9)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și a ajuns acolo în peșteră” — o peșteră era în muntele Sinai, și despre ea s-a spus „și te voi pune în scobitura stâncii”, cum traduce Onkelos: „în peștera stâncii”. „De ce ești aici, Eliahu?” — sensul întrebării e deschiderea vorbirii, ca să audă răspunsul, în felul de a vorbi al oamenilor, ca „unde este Abel, fratele tău?”, deși El cunoaște inima oamenilor; adică: de ce ai ieșit din locul tău, ce cauți aici?"
+     },
+     {
+      "author": "Talmud Bavli, Meghila 19b",
+      "text": "Rabi Hiia bar Aba a spus în numele lui Rabi Iohanan: dacă ar fi rămas deschisă în peștera în care au stat Moise și Eliahu o crăpătură cât urechea unui ac de cusut, când li s-a descoperit slava lui Dumnezeu, cum e scris: „și te voi pune în scobitura stâncii” (Exod 33:22) și „și a ajuns acolo în peșteră... și iată, DOMNUL trece” (1 Regi 19:9-11), n-ar fi putut îndura din pricina luminii, precum s-a spus: „căci omul nu poate să Mă vadă și să trăiască” (Exod 33:20)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Po” — aici."
+     }
+    ]
+   },
+   {
+    "v": "19:10",
+    "t": "Și el a spus: „Am fost foarte zelos pentru DOMNUL, Dumnezeul Oștirilor, căci copiii lui Israel au părăsit legământul Tău, Ți-au dărâmat altarele, Ți-au ucis profeții cu sabia, astfel că doar eu am rămas, și ei caută să îmi ia viața.”",
+    "heb": "וַיֹּאמֶר קַנֹּא קִנֵּאתִי לַיהוָה אֱלֹהֵי צְבָאוֹת כִּי־עָזְבוּ בְרִיתְךָ בְּנֵי יִשְׂרָאֵל אֶת־מִזְבְּחֹתֶיךָ הָרָסוּ וְאֶת־נְבִיאֶיךָ הָרְגוּ בֶחָרֶב וָאִוָּתֵר אֲנִי לְבַדִּי וַיְבַקְשׁוּ אֶת־נַפְשִׁי לְקַחְתָּהּ׃",
+    "translit": "Vaiomer kano kineți l'ADONAI Elohei Țevaot ki-azvu veritha benei Israel et-mizbehoteha harasu veet-nevieha hargu veharev vaivater ani levadi vaievakșu et-nafși lekahta.",
+    "tokens": [
+     {
+      "t": "Și el a spus: „"
+     },
+     {
+      "t": "Am fost foarte zelos",
+      "w": "Am fost foarte zelos",
+      "heb": "קַנֹּא קִנֵּאתִי",
+      "translit": "kano kineti",
+      "strong": "H7065",
+      "pos": "verb, piel, infinitiv absolut + perfect, persoana I singular",
+      "def_ro": "am râvnit cu râvnă, am fost plin de zel.",
+      "dict_ro": "Kana — „a fi zelos, a arde de râvnă”; aceeași formulă o spune Dumnezeu despre Pinhas: „în râvna lui pentru Mine” (bekano et kinati, Numeri 25:11), la începutul pericopei Pinhas — de aici alegerea haftarei; Metzudat Țion face legătura. O tradiție evreiască veche îi apropie pe cei doi până la a spune că Pinhas este Eliahu. Rashi și Radak arată însă, la 19:16, că Dumnezeu nu primește acest zel acuzator: „nu vreau profeția ta, căci ții acuzația împotriva copiilor Mei”. Pavel citează versetul în Romani 11:2-4."
+     },
+     {
+      "t": " pentru DOMNUL, Dumnezeul Oștirilor, căci copiii lui Israel au părăsit legământul Tău, Ți-au dărâmat altarele, Ți-au ucis profeții cu sabia, astfel că doar eu am rămas, și ei caută să îmi ia viața.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר קַנֹּא קִנֵּאתִי לַיהוָה...",
+      "translation": "„Și el a spus: „Am fost...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ᾿Ηλιού· ζηλῶν ἐζήλωκα τῷ Κυρίῳ παντοκράτορι, ὅτι ἐγκατέλιπόν σε οἱ υἱοὶ ᾿Ισραήλ· τὰ θυσιαστήριά σου κατέσκαψαν καὶ τοὺς προφήτας σου ἀπέκτειναν ἐν ρομφαίᾳ, καὶ ὑπολέλειμμαι ἐγὼ μονώτατος, καὶ ζητοῦσι τὴν ψυχήν μου λαβεῖν αὐτήν.",
+      "greek": true,
+      "translation": "„Și a zis Ilie: Râvnind am râvnit pentru Domnul Atotțiitorul, căci fiii lui Israel Te-au părăsit; jertfelnicele Tale le-au surpat și pe profeții Tăi i-au ucis cu sabia, și am rămas eu singur de tot, și caută sufletul meu ca să-l ia.”",
+      "note": "Septuaginta are „Te-au părăsit” în loc de „au părăsit legământul Tău”."
+     }
+    ],
+    "refs": [
+     "Numeri 25:11,13",
+     "Psalmul 119:139",
+     "Ioan 2:17",
+     "1 Regi 18:4,30",
+     "Ieremia 2:30",
+     "Romani 11:2-4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ți-au dărâmat altarele” — altarele de pe înălțimi care fuseseră zidite în Numele Cerului, căci altarul Templului era la Ierusalim."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Am fost foarte zelos pentru DOMNUL” — am râvnit cu râvna DOMNULUI, ca să-i omor pe profeții lui Baal și să opresc ploaia, pentru că au părăsit legământul Tău... „Au dărâmat” — cum s-a spus mai sus: „și a reparat altarul DOMNULUI care era dărâmat” (1 Regi 18:30). „Doar eu” — căci dintre cei o sută de profeți pe care îi ascunsese Obadia, ei nu știu. „Și ei caută” — ca și cum ar spune: pentru aceasta am venit aici, să mă rog în locul sfințit, ca să iau răzbunare pe ei."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Am fost foarte zelos pentru DOMNUL” — râvna pe care am avut-o pentru Numele DOMNULUI, ucigându-i pe profeții lui Baal care rătăceau Israelul până au părăsit legământul pe care l-ai încheiat cu fiii lui Israel la muntele Sinai; iar în midraș: „legământul Tău” — că au desființat la ei legământul circumciziei; râvna aceea m-a făcut să ies din locul meu, să fug de Izebel și să vin aici. „Doar eu am rămas” — dar n-au rămas cei o sută pe care i-a ascuns Obadia? Ci, pentru că nu erau cunoscuți, era ca și cum n-ar fi fost."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Kano kineti” — m-am răzbunat cu răzbunare, și tot așa „în râvna lui pentru Mine” (Numeri 25:11)."
+     }
+    ]
+   },
+   {
+    "v": "19:11",
+    "t": "[DOMNUL] a spus: „Mergi și stai pe munte înaintea DOMNULUI și iată, DOMNUL trece, și un vânt puternic sfărâmă munții și sparge pietrele înaintea DOMNULUI – dar nu în vânt este DOMNUL; și după vânt, un cutremur – dar nu în cutremur este DOMNUL;",
+    "heb": "וַיֹּאמֶר צֵא וְעָמַדְתָּ בָהָר לִפְנֵי יְהוָה וְהִנֵּה יְהוָה עֹבֵר וְרוּחַ גְּדוֹלָה וְחָזָק מְפָרֵק הָרִים וּמְשַׁבֵּר סְלָעִים לִפְנֵי יְהוָה לֹא בָרוּחַ יְהוָה וְאַחַר הָרוּחַ רַעַשׁ לֹא בָרַעַשׁ יְהוָה׃",
+    "translit": "Vaiomer țe veamadta bahar lifnei ADONAI vehine ADONAI over veruah ghedola vehazak mefarek harim umeșaber selaim lifnei ADONAI lo varuah ADONAI veahar haruah raaș lo varaș ADONAI.",
+    "tokens": [
+     {
+      "t": "[DOMNUL] a spus: „Mergi și stai pe munte înaintea DOMNULUI și iată, DOMNUL trece, și "
+     },
+     {
+      "t": "un vânt puternic",
+      "w": "un vânt puternic",
+      "heb": "וְרוּחַ גְּדוֹלָה וְחָזָק",
+      "translit": "veruah ghedola vehazak",
+      "strong": "H7307",
+      "pos": "conjuncție + substantiv, feminin singular + adjective",
+      "def_ro": "un vânt mare și puternic.",
+      "dict_ro": "Ruah — vânt, suflare, duh; aici vântul năprasnic care „sfărâmă munții”. Scena reia teofania de la Sinai — vânt, cutremur, foc (Exod 19:16-18) —, dar cu o negație repetată: „nu în vânt este DOMNUL”. Targumul, citat de Rashi și Metzudat David, le citește ca „tabere de îngeri”: îngeri ai vântului, ai cutremurului, ai focului, care trec înaintea slavei. Radak: slava însăși trece la urmă, iar „DOMNUL trece” e ca la Moise: „și DOMNUL a trecut pe dinaintea lui” (Exod 34:6)."
+     },
+     {
+      "t": " sfărâmă munții și sparge pietrele înaintea DOMNULUI – dar nu în vânt este DOMNUL; și după vânt, un cutremur – dar nu în cutremur este DOMNUL;"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר צֵא וְעָמַדְתָּ בָהָר...",
+      "translation": "„[DOMNUL] a spus: „Mergi și stai...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν· ἐξελεύσῃ αὔριον καὶ στήσῃ ἐνώπιον Κυρίου ἐν τῷ ὄρει· ἰδοὺ παρελεύσεται Κύριος, καὶ ἰδοὺ πνεῦμα μέγα κραταιὸν διαλῦον ὄρη καὶ συντρίβον πέτρας ἐνώπιον Κυρίου, οὐκ ἐν τῷ πνεύματι Κύριος· καὶ μετὰ τὸ πνεῦμα συσσεισμός, οὐκ ἐν τῷ συσσεισμῷ Κύριος·",
+      "greek": true,
+      "translation": "„Și a zis: Vei ieși mâine și vei sta înaintea Domnului pe munte; iată, Domnul va trece, și iată, un vânt mare, puternic, desfăcând munți și sfărâmând pietre înaintea Domnului — nu în vânt era Domnul; și după vânt, un cutremur — nu în cutremur era Domnul;”",
+      "note": "Septuaginta adaugă „mâine” (αὔριον)."
+     }
+    ],
+    "refs": [
+     "Exod 19:20",
+     "Exod 33:21-23",
+     "Exod 34:6",
+     "Iov 38:1",
+     "Ezechiel 1:4",
+     "Evrei 12:18-21"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și un vânt puternic” — Targumul lui Ionatan: „o tabără de îngeri ai vântului”. „În cutremur” — Targumul: „o tabără de îngeri ai cutremurului”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Mergi” — i-a poruncit să iasă din peșteră și să stea pe munte înaintea DOMNULUI, căci slava Șehinei va trece pe dinaintea lui. „Și iată, DOMNUL trece” — după toate acele tabere. „Un vânt puternic” — Targumul: „o tabără de îngeri ai vântului”, adică o tabără de îngeri ai vântului a trecut înaintea DOMNULUI, înainte să treacă slava Șehinei. „Dar nu în vânt este DOMNUL” — adică a venit la el glasul profeției și a spus că slava Șehinei nu trece în tabăra îngerilor vântului."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Mergi și stai pe munte” — se pare că intrarea peșterii era pe coasta muntelui sau în vârful lui, nu la poalele lui. „Și iată, DOMNUL trece” — adică slava DOMNULUI a trecut pe dinaintea lui, cum s-a spus despre Moise, învățătorul nostru: „și DOMNUL a trecut pe dinaintea lui”; și a trecut mai întâi pe dinaintea lui un vânt mare și puternic, iar glasul îi spunea „nu în vânt este DOMNUL”, adică slava aceea în acel ceas; iar „sfărâmă munții și sparge pietrele” e o exagerare."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mefarek” — sfărâmă, ca în „și le va rupe copitele” (Zaharia 11:16)."
+     }
+    ]
+   },
+   {
+    "v": "19:12",
+    "t": "și după cutremur, un foc – dar nu în foc este DOMNUL; și după foc, un sunet firav, ușor.”",
+    "heb": "וְאַחַר הָרַעַשׁ אֵשׁ לֹא בָאֵשׁ יְהוָה וְאַחַר הָאֵשׁ קוֹל דְּמָמָה דַקָּה׃",
+    "translit": "veahar haraaș eș lo vaeș ADONAI veahar haeș kol demama daka.",
+    "tokens": [
+     {
+      "t": "și după cutremur, un foc – dar nu în foc este DOMNUL; și după foc, "
+     },
+     {
+      "t": "un sunet firav, ușor",
+      "w": "un sunet firav, ușor",
+      "heb": "קוֹל דְּמָמָה דַקָּה",
+      "translit": "kol demama daka",
+      "strong": "H1827",
+      "pos": "substantiv + substantiv, feminin singular + adjectiv",
+      "def_ro": "glasul unei tăceri subțiri; un sunet slab, abia auzit.",
+      "dict_ro": "Kol demama daka — una dintre cele mai celebre expresii ale Bibliei: literal „glasul unei tăceri subțiri”. Demama e tăcerea, liniștirea furtunii (Psalmul 107:29, citat de Metzudat Țion). Metzudat David: un glas șoptit, ca și cum ar fi compus din sunet și tăcere; Targumul: „glasul celor care laudă în șoaptă”. Sensul, după Metzudat David la versetul următor: Dumnezeu „iubește îndurarea” și nu Își aprinde toată mânia în vânt, cutremur și foc — o lecție pentru profetul care cerea răzbunare."
+     },
+     {
+      "t": ".”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאַחַר הָרַעַשׁ אֵשׁ לֹא...",
+      "translation": "„și după cutremur, un foc –...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ μετὰ τὸν συσσειμὸν πῦρ, οὐκ ἐν τῷ πυρὶ Κύριος· καὶ μετὰ τὸ πῦρ φωνὴ αὔρας λεπτῆς, κἀκεῖ Κύριος.",
+      "greek": true,
+      "translation": "„și după cutremur, foc — nu în foc era Domnul; și după foc, glas de adiere subțire, și acolo era Domnul.”",
+      "note": "Divergență reală: Septuaginta redă expresia prin „glas de adiere subțire” (φωνὴ αὔρας λεπτῆς) și adaugă concluzia „și acolo era Domnul” (κἀκεῖ Κύριος), pe care Textul Masoretic o lasă nespusă."
+     }
+    ],
+    "refs": [
+     "Exod 3:2",
+     "Deuteronom 4:11,12,33",
+     "Iov 4:16",
+     "Zaharia 4:6",
+     "Faptele Apostolilor 2:2,36,37",
+     "Evrei 12:29"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Foc” — Targumul: „o tabără de îngeri ai focului”. „Un sunet firav, ușor” — Targumul: „glasul celor care laudă în taină”; iar despre profeții neamurilor spune: „tăcere și un glas am auzit” (Iov 4:16) — era tăcere față de lauda [îngerilor], dar un glas care iese din tăcere, iar glasul însuși nu se aude."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Foc” — Targumul: „o tabără de îngeri ai focului”. „Dar nu în foc este DOMNUL” — așa a spus glasul profeției. „Un sunet firav, ușor” — adică un glas șoptit, ca și cum ar fi compus din sunet și din tăcere; iar ca lămurire în plus a spus că glasul era subțire; iar Targumul: „glasul celor care laudă în taină”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Demama” — cu sensul de tăcere, ca în „a prefăcut furtuna în liniște” (Psalmul 107:29)."
+     }
+    ]
+   },
+   {
+    "v": "19:13",
+    "t": "Și atunci când Eliahu a auzit, și-a înfășurat fața cu mantia, a ieșit și a stat la intrarea peșterii. Și iată, un glas a venit la el și a spus: „De ce ești aici, Eliahu?”",
+    "heb": "וַיְהִי כִּשְׁמֹעַ אֵלִיָּהוּ וַיָּלֶט פָּנָיו בְּאַדַּרְתּוֹ וַיֵּצֵא וַיַּעֲמֹד פֶּתַח הַמְּעָרָה וְהִנֵּה אֵלָיו קוֹל וַיֹּאמֶר מַה־לְּךָ פֹה אֵלִיָּהוּ׃",
+    "translit": "Vaihi kișmoa Eliahu vaialet panav beadarto vaiète vaiamod petah hameara vehine elav kol vaiomer ma-leha fo Eliahu.",
+    "tokens": [
+     {
+      "t": "Și atunci când Eliahu a auzit, și-a înfășurat fața "
+     },
+     {
+      "t": "cu mantia",
+      "w": "cu mantia",
+      "heb": "בְּאַדַּרְתּוֹ",
+      "translit": "beaderto",
+      "strong": "H155",
+      "pos": "prepoziție + substantiv, feminin singular + sufix persoana a III-a masculin singular",
+      "def_ro": "cu mantia lui (de profet).",
+      "dict_ro": "Aderet — mantia, de la adir, „măreț”: haina largă, adesea din păr, a profeților (Zaharia 13:4, citat de Metzudat Țion). Eliahu își acoperă fața cu ea, cum își ascunsese Moise fața la rug (Exod 3:6), ca să nu privească la slavă (Metzudat David). Aceeași mantie o va arunca peste Elișa (19:19) și va despica Iordanul cu ea (2 Regi 2:8, 13-14). Întrebarea „ce faci aici?” se repetă, după Metzudat David, ca un test: după ce i-a arătat că Dumnezeu nu vine în furtună, îl întreabă dacă mai cere răzbunare."
+     },
+     {
+      "t": ", a ieșit și a stat la intrarea peșterii. Și iată, un glas a venit la el și a spus: „De ce ești aici, Eliahu?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי כִּשְׁמֹעַ אֵלִיָּהוּ וַיָּלֶט...",
+      "translation": "„Și atunci când Eliahu a auzit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο ὡς ἤκουσεν ᾿Ηλιού, καὶ ἐπεκάλυψε τὸ πρόσωπον αὐτοῦ ἐν τῇ μηλωτῇ αὐτοῦ καὶ ἐξῆλθε καὶ ἔστη ὑπὸ σπήλαιον· καὶ ἰδοὺ πρὸς αὐτὸν φωνὴ καὶ εἶπε· τί σὺ ἐνταῦθα ᾿Ηλιού;",
+      "greek": true,
+      "translation": "„Și a fost, când a auzit Ilie, și-a acoperit fața cu cojocul său și a ieșit și a stat sub peșteră; și iată, un glas către el și a zis: Ce faci tu aici, Ilie?”",
+      "note": "Septuaginta traduce aderet prin „cojoc de oaie” (μηλωτή), cuvântul reluat de Evrei 11:37."
+     }
+    ],
+    "refs": [
+     "Exod 3:5,6",
+     "Exod 33:23",
+     "Isaia 6:2,5",
+     "1 Regi 18:42",
+     "Geneza 16:8",
+     "Ioan 21:15-17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și-a înfășurat fața” — Targumul: „și și-a acoperit fața”, și tot așa „învelită (luta) într-o haină” (1 Samuel 21:10)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Când Eliahu a auzit” — glasul tăcerii, și a înțeles că slava trece, și și-a înfășurat fața cu mantia ca să nu privească la focul slavei, cum s-a spus despre Moise: „și Moise și-a ascuns fața” (Exod 3:6). „A ieșit și a stat” — a ieșit din peșteră și a stat la intrare. „De ce ești aici” — pentru că i-a arătat slava, care n-a trecut în vânt, în cutremur și în foc, ci într-un glas de tăcere subțire, căci Dumnezeu iubește îndurarea și nu-Și stârnește toată mânia ca să vină în vânt, cutremur și foc; de aceea l-a întrebat din nou: de ce ești aici, adică: mai vii aici ca să ceri răzbunare?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și-a înfășurat fața cu mantia” — cum s-a spus despre Moise, învățătorul nostru: „și Moise și-a ascuns fața”; iar „a ieșit și a stat la intrarea peșterii”: când a auzit glasul tăcerii subțiri, a venit și a stat pe munte la intrarea peșterii și și-a acoperit fața, cum i se spusese: „mergi și stai pe munte înaintea DOMNULUI”, adică slava va trece; iar din glasul acela de tăcere a ieșit spre el un glas de cuvânt care i-a spus: „de ce ești aici, Eliahu?”. „Kol demama daka” — un glas slab."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vayalet” — cu sensul de înfășurare, ca în „învelită într-o haină” (1 Samuel 21:10). „Beaderto” — o haină de preț, anume a profeților, și tot așa „și nu vor mai purta mantie de păr” (Zaharia 13:4)."
+     }
+    ]
+   },
+   {
+    "v": "19:14",
+    "t": "Și el a spus: „Am fost foarte zelos pentru DOMNUL, Dumnezeul Oștirilor, căci copiii lui Israel au părăsit legământul Tău, Ți-au dărâmat altarele, Ți-au ucis profeții cu sabia, astfel că doar eu am mai rămas, și ei caută să îmi ia viața.”",
+    "heb": "וַיֹּאמֶר קַנֹּא קִנֵּאתִי לַיהוָה אֱלֹהֵי צְבָאוֹת כִּי־עָזְבוּ בְרִיתְךָ בְּנֵי יִשְׂרָאֵל אֶת־מִזְבְּחֹתֶיךָ הָרָסוּ וְאֶת־נְבִיאֶיךָ הָרְגוּ בֶחָרֶב וָאִוָּתֵר אֲנִי לְבַדִּי וַיְבַקְשׁוּ אֶת־נַפְשִׁי לְקַחְתָּהּ׃",
+    "translit": "Vaiomer kano kineți l'ADONAI Elohei Țevaot ki-azvu veritha benei Israel et-mizbehoteha harasu veet-nevieha hargu veharev vaivater ani levadi vaievakșu et-nafși lekahta.",
+    "tokens": [
+     {
+      "t": "Și el a spus: „Am fost foarte zelos pentru DOMNUL, Dumnezeul Oștirilor, căci copiii lui Israel au părăsit "
+     },
+     {
+      "t": "legământul Tău",
+      "w": "legământul Tău",
+      "heb": "בְּרִיתְךָ",
+      "translit": "beriteha",
+      "strong": "H1285",
+      "pos": "substantiv, feminin singular + sufix persoana a II-a masculin singular",
+      "def_ro": "legământul Tău.",
+      "dict_ro": "Berit — legământul de la Sinai, pe care Eliahu îl vede părăsit; Radak aduce și midrașul: legământul circumciziei, pe care regatul de nord l-ar fi desființat. Răspunsul lui Eliahu e cuvânt cu cuvânt același ca la 19:10, deși între timp a văzut vântul, cutremurul, focul și glasul tăcerii — Metzudat David explică: „am râvnit de atunci pentru DOMNUL, nu pentru cinstea mea, și de aceea și acum cer răzbunare, pentru cinstea Numelui Său”. Repetiția arată că profetul nu și-a schimbat poziția."
+     },
+     {
+      "t": ", Ți-au dărâmat altarele, Ți-au ucis profeții cu sabia, astfel că doar eu am mai rămas, și ei caută să îmi ia viața.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר קַנֹּא קִנֵּאתִי לַיהוָה...",
+      "translation": "„Și el a spus: „Am fost...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ᾿Ηλιού· ζηλῶν ἐζήλωκα τῷ Κυρίῳ παντοκράτορι, ὅτι ἐγκατέλιπον τὴν διαθήκην σου οἱ υἱοὶ ᾿Ισραήλ· καὶ τὰ θυσιαστήριά σου καθεῖλαν καὶ τοὺς προφήτας σου ἀπέκτειναν ἐν ρομφαίᾳ, καὶ ὑπολέλειμμαι ἐγὼ μονώτατος, καὶ ζητοῦσι τὴν ψυχήν μου λαβεῖν αὐτήν.",
+      "greek": true,
+      "translation": "„Și a zis Ilie: Râvnind am râvnit pentru Domnul Atotțiitorul, căci fiii lui Israel au părăsit legământul Tău; și jertfelnicele Tale le-au dărâmat și pe profeții Tăi i-au ucis cu sabia, și am rămas eu singur de tot, și caută sufletul meu ca să-l ia.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "1 Regi 19:9,10",
+     "Isaia 62:1,6,7",
+     "Deuteronom 31:20",
+     "Psalmul 78:37",
+     "Osea 6:7",
+     "Evrei 8:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și el a spus: Am fost foarte zelos” — adică: oare n-am râvnit de atunci cu râvna DOMNULUI, și nu pentru cinstea mea? De aceea și acum cer răzbunare, pentru cinstea Numelui Său."
+     }
+    ]
+   },
+   {
+    "v": "19:15",
+    "t": "DOMNUL i-a spus: „Mergi, întoarce-te pe drumul tău, către deșertul Damascului, iar când vei ajunge, vei unge pe Hazael rege peste Aram.",
+    "heb": "וַיֹּאמֶר יְהוָה אֵלָיו לֵךְ שׁוּב לְדַרְכְּךָ מִדְבַּרָה דַמָּשֶׂק וּבָאתָ וּמָשַׁחְתָּ אֶת־חֲזָאֵל לְמֶלֶךְ עַל־אֲרָם׃",
+    "translit": "Vaiomer ADONAI elav leh șuv ledarkeha midbara Damasek uvata umașahta et-Hazael lemeleh al-Aram.",
+    "tokens": [
+     {
+      "t": "DOMNUL i-a spus: „Mergi, întoarce-te pe drumul tău, către deșertul Damascului, iar când vei ajunge, vei unge pe "
+     },
+     {
+      "t": "Hazael",
+      "w": "Hazael",
+      "heb": "חֲזָאֵל",
+      "translit": "Hazael",
+      "strong": "H2371",
+      "pos": "nume propriu",
+      "def_ro": "Hazael („Dumnezeu a văzut”), viitor rege al Aramului.",
+      "dict_ro": "Hazael — „Dumnezeu a văzut”, dregător al regelui Ben-Hadad, care îl va ucide și va domni în Damasc (2 Regi 8:7-15), devenind cel mai crud dușman al Israelului (2 Regi 10:32; Amos 1:3-4). Radak observă că, de fapt, Eliahu nu l-a uns nici pe Hazael, nici pe Iehu: îi transmite sarcina lui Elișa, care îl desemnează pe Hazael (2 Regi 8:13) și trimite pe unul dintre ucenicii profeților să-l ungă pe Iehu (2 Regi 9:1-6). Metzudat David: „a unge” înseamnă aici numirea în demnitate."
+     },
+     {
+      "t": " rege peste Aram."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר יְהוָה אֵלָיו לֵךְ...",
+      "translation": "„DOMNUL i-a spus: „Mergi, întoarce-te pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Κύριος πρὸς αὐτόν· πορεύου, ἀνάστρεφε εἰς τὴν ὁδόν σου καὶ ἥξεις εἰς τὴν ὁδὸν ἐρήμου Δαμασκοῦ καὶ ἥξεις καὶ χρίσεις τὸν ᾿Αζαὴλ εἰς βασιλέα τῆς Συρίας·",
+      "greek": true,
+      "translation": "„Și a zis Domnul către el: Du-te, întoarce-te pe drumul tău și vei veni pe drumul pustiei Damascului, și vei veni și îl vei unge pe Azael rege al Siriei;”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Regi 8:7",
+     "2 Regi 8:8-15,28",
+     "Amos 1:4",
+     "Isaia 45:1",
+     "Ieremia 1:10",
+     "Faptele Apostolilor 9:2,3"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Mergi, întoarce-te pe drumul tău” — pe drumul pe care ai venit încoace, adică prin pustiul Damascului. „Și când vei ajunge” — la Damasc. „Vei unge” — expresia aceasta arată numirea în demnitate și e împrumutată de la ungerea regilor lui Israel, care era o ungere propriu-zisă."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Întoarce-te pe drumul tău” — după ce i-a spus „întoarce-te”, i-a făgăduit că nu-l vor omorî. Iar Eliahu nu l-a uns nici pe Hazael, nici pe Iehu; ci Sfântul, binecuvântat fie El, i-a spus: pentru râvna pe care ai avut-o pentru Mine, că fiii lui Israel au părăsit legământul Meu, te fac să știi că prin acești trei îi voi nimici pe toți cei care părăsesc legământul Meu; „și îl vei unge pe Hazael” — adică vei porunci lui Elișa, care va fi profet în locul tău, să-l numească rege; și tot așa „îl vei unge pe Iehu” — vei porunci lui Elișa să-l ungă, și Elișa l-a uns prin unul dintre profeți."
+     }
+    ]
+   },
+   {
+    "v": "19:16",
+    "t": "Iar pe Iehu, fiul lui Nimși, îl vei unge rege peste Israel, și pe Elișa, fiul lui Șafat, din câmpia Mehola, îl vei unge profet în locul tău.",
+    "heb": "וְאֵת יֵהוּא בֶן־נִמְשִׁי תִּמְשַׁח לְמֶלֶךְ עַל־יִשְׂרָאֵל וְאֶת־אֱלִישָׁע בֶּן־שָׁפָט מֵאָבֵל מְחוֹלָה תִּמְשַׁח לְנָבִיא תַּחְתֶּיךָ׃",
+    "translit": "Veet Iehu ben-Nimși timșah lemeleh al-Israel veet-Elișa ben-Șafat me'Avel Mehola timșah lenavi tahteiha.",
+    "tokens": [
+     {
+      "t": "Iar pe Iehu, fiul lui Nimși, îl vei unge rege peste Israel, și pe "
+     },
+     {
+      "t": "Elișa",
+      "w": "Elișa",
+      "heb": "אֱלִישָׁע",
+      "translit": "Elișa",
+      "strong": "H477",
+      "pos": "nume propriu",
+      "def_ro": "Elisei („Dumnezeu mântuiește”), ucenicul și urmașul lui Eliahu.",
+      "dict_ro": "Elișa — „Dumnezeul meu mântuiește”, fiul lui Șafat din Abel-Mehola, în valea Iordanului; urmașul lui Eliahu, care va cere „o îndoită măsură” din duhul lui (2 Regi 2:9). Radak dă două explicații ale lui „în locul tău”: fie pentru că Eliahu ceruse să moară, deci are nevoie de un urmaș; fie, după midraș (citat și de Rashi), ca o mustrare: „nu vreau profeția ta, căci ții acuzația împotriva copiilor Mei”. Iisus îl pomenește pe Elisei și vindecarea lui Naaman în Luca 4:27."
+     },
+     {
+      "t": ", fiul lui Șafat, din câmpia Mehola, îl vei unge profet în locul tău."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֵת יֵהוּא בֶן־נִמְשִׁי תִּמְשַׁח...",
+      "translation": "„Iar pe Iehu, fiul lui Nimși...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τὸν ᾿Ιοὺ υἱὸν Ναμεσσὶ χρίσεις εἰς βασιλέα ἐπὶ ᾿Ισραήλ· καὶ τὸν ῾Ελισαιὲ υἱὸν Σαφὰτ χρίσεις εἰς προφήτην ἀντὶ σοῦ.",
+      "greek": true,
+      "translation": "„și pe Iu, fiul lui Namessi, îl vei unge rege peste Israel; și pe Elisei, fiul lui Safat, îl vei unge profet în locul tău.”",
+      "note": "Septuaginta nu are „din Abel-Mehola”."
+     }
+    ],
+    "refs": [
+     "2 Regi 9:1-3,6-14",
+     "1 Regi 19:19-21",
+     "Luca 4:27",
+     "Judecători 7:22"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Îl vei unge profet în locul tău” — [a spus Dumnezeu:] „Nu vreau profeția ta, căci ții acuzația împotriva copiilor Mei”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Îl vei unge profet” — și aceasta e cu sensul de numire în demnitate. „În locul tău” — după ce te vei urca în vârtej la cer."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Îl vei unge profet în locul tău” — de vreme ce vrei să pleci din lume, căci ai spus „destul, acum, DOAMNE, ia-mi sufletul”, trebuie să lași un profet în locul tău, să-l numești pe Elișa, fiul lui Șafat, și să-l înveți; iar în midraș: nu-Mi este plăcută profeția ta, de vreme ce aduci acuzații împotriva copiilor Mei."
+     }
+    ]
+   },
+   {
+    "v": "19:17",
+    "t": "Și va fi că oricine scapă de sabia lui Hazael, Iehu îl va omorî; și oricine scapă de sabia lui Iehu, Elișa îl va omorî.",
+    "heb": "וְהָיָה הַנִּמְלָט מֵחֶרֶב חֲזָאֵל יָמִית יֵהוּא וְהַנִּמְלָט מֵחֶרֶב יֵהוּא יָמִית אֱלִישָׁע׃",
+    "translit": "Vehaia hanimlat meherev Hazael iamit Iehu vehanimlat meherev Iehu iamit Elișa.",
+    "tokens": [
+     {
+      "t": "Și va fi că oricine scapă de sabia lui Hazael, "
+     },
+     {
+      "t": "Iehu",
+      "w": "Iehu",
+      "heb": "יֵהוּא",
+      "translit": "Iehu",
+      "strong": "H3058",
+      "pos": "nume propriu",
+      "def_ro": "Iehu, căpetenie de oaste, viitor rege al Israelului.",
+      "dict_ro": "Iehu — fiul lui Iehoșafat, nepotul lui Nimși, comandantul care va extermina casa lui Ahab, pe Izebel și pe slujitorii lui Baal (2 Regi 9-10). Versetul descrie trei săbii: Hazael din afară, Iehu dinăuntru, iar Elișa — ale cărui „ucideri” sunt greu de găsit. Rashi: nu găsim că Elișa să fi ucis pe cineva, în afară de cei patruzeci și doi de copii de la Betel (2 Regi 2:24); Radak: Elișa „ucide” prin mustrările lui nebăgate în seamă, sau prin faptul că după moartea lui au năvălit cetele Aramului și ale Moabului."
+     },
+     {
+      "t": " îl va omorî; și oricine scapă de sabia lui Iehu, Elișa îl va omorî."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה הַנִּמְלָט מֵחֶרֶב חֲזָאֵל...",
+      "translation": "„Și va fi că oricine scapă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔσται τὸν σῳζόμενον ἐκ ρομφαίας ᾿Αζαήλ, θανατώσει ᾿Ιού, καὶ τὸν σῳζόμενον ἐκ ρομφαίας ᾿Ιοὺ θανατώσει ῾Ελισαιέ.",
+      "greek": true,
+      "translation": "„Și va fi: pe cel scăpat de sabia lui Azael îl va omorî Iu, și pe cel scăpat de sabia lui Iu îl va omorî Elisei.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Regi 8:12",
+     "2 Regi 10:32",
+     "2 Regi 9:14-26",
+     "2 Regi 2:23,24",
+     "Osea 6:5",
+     "Amos 5:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Elișa îl va omorî” — nu găsim că Elișa să fi omorât pe cineva, decât pe cei patruzeci și doi de copii, prin urși, la Ierihon."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și va fi că oricine scapă” — pentru că a cerut răzbunare de la Israel, Cel Omniprezent i-a poruncit să-i ungă pe aceștia, și ei vor fi trimișii răzbunării: Hazael îi va nimici mult, pe cel scăpat de el îl va omorî Iehu, căci va ucide toată casa lui Ahab și pe toți slujitorii lui Baal. „Elișa îl va omorî” — înțelepții noștri au spus că sunt copiii lipsiți de porunci, pe care i-a omorât prin blestemul lui."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Iehu îl va omorî” — căci i-a ucis pe toți slujitorii lui Baal și toată casa lui Ahab, care erau idolatri. „Elișa îl va omorî” — căci, mustrându-i și ei neascultându-l și neîntorcându-se de la calea lor rea, vor veni asupra lor dușmanii și îi vor ucide, și va fi ca și cum el i-ar fi omorât, căci erau pedepsiți mai greu când îi avertiza și le poruncea decât dacă nu i-ar fi avertizat; sau: „Elișa îl va omorî” prin moartea lui, căci la moartea lui Elișa au venit cetele Aramului și ale Moabului în țară."
+     }
+    ]
+   },
+   {
+    "v": "19:18",
+    "t": "Dar voi face să rămână în Israel șapte mii, orice genunchi care nu a îngenunchiat la idolii lui Baal și orice gură care nu l-a sărutat.”",
+    "heb": "וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים כָּל־הַבִּרְכַּיִם אֲשֶׁר לֹא־כָרְעוּ לַבַּעַל וְכָל־הַפֶּה אֲשֶׁר לֹא־נָשַׁק לוֹ׃",
+    "translit": "Vehișarti ve'Israel șivat alafim kol-habirkaim așer lo-hareu la'Baal vehol-hape așer lo-nașak lo.",
+    "tokens": [
+     {
+      "t": "Dar voi face să rămână în Israel "
+     },
+     {
+      "t": "șapte mii",
+      "w": "șapte mii",
+      "heb": "שִׁבְעַת אֲלָפִים",
+      "translit": "șivat alafim",
+      "strong": "H505",
+      "pos": "numeral, în construcție + numeral, plural",
+      "def_ro": "șapte mii.",
+      "dict_ro": "Șivat alafim — „șapte mii”, răspunsul lui Dumnezeu la plângerea „am rămas doar eu”: Eliahu nu e singur. Metzudat David explică: chiar dacă sabia lui Hazael îi va stăpâni, cei vrednici nu vor pieri; ei sunt șapte mii, tot numărul celor care nu și-au plecat genunchiul. „Gura care nu l-a sărutat” amintește gestul de închinare la idoli (Osea 13:2; Iov 31:27). Pavel pornește de la acest verset în Romani 11:4-5: „tot așa, în vremea de acum, este o rămășiță după alegerea harului”."
+     },
+     {
+      "t": ", orice genunchi care nu a îngenunchiat la idolii lui Baal și orice gură care nu l-a sărutat.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים...",
+      "translation": "„Dar voi face să rămână în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ καταλείψεις ἐν ᾿Ισραὴλ ἑπτὰ χιλιάδας ἀνδρῶν, πάντα γόνατα, ἃ οὐκ ὤκλασαν γόνυ τῷ Βάαλ, καὶ πᾶν στόμα, ὃ οὐ προσεκύνησεν αὐτῷ.",
+      "greek": true,
+      "translation": "„Și vei lăsa în Israel șapte mii de bărbați, toți genunchii care nu s-au plecat lui Baal și toată gura care nu i s-a închinat.”",
+      "note": "Septuaginta are „vei lăsa” (persoana a doua), în loc de „voi lăsa”."
+     }
+    ],
+    "refs": [
+     "Isaia 1:9",
+     "Isaia 10:20-22",
+     "Romani 11:4,5",
+     "Iov 31:27",
+     "Osea 13:2",
+     "Filipeni 2:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dar voi face să rămână” — deși sabia lui Hazael îi va stăpâni, nu-i va nimici pe cei vrednici dintre ei, care vor fi în număr de șapte mii, care sunt socotiți toți genunchii..., căci în afară de aceștia nu se vor mai găsi alții vrednici."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Care nu l-a sărutat” — accentul e pe ultima silabă."
+     }
+    ]
+   },
+   {
+    "v": "19:19",
+    "t": "Apoi a plecat de acolo și l-a găsit pe Elișa, fiul lui Șafat, în timp ce el ara, cu douăsprezece perechi de boi înaintea lui, iar el era lângă a douăsprezecea [pereche]. Și Eliahu a trecut spre el și și-a pus mantia asupra lui.",
+    "heb": "וַיֵּלֶךְ מִשָּׁם וַיִּמְצָא אֶת־אֱלִישָׁע בֶּן־שָׁפָט וְהוּא חֹרֵשׁ שְׁנֵים־עָשָׂר צְמָדִים לְפָנָיו וְהוּא בִּשְׁנֵים הֶעָשָׂר וַיַּעֲבֹר אֵלִיָּהוּ אֵלָיו וַיַּשְׁלֵךְ אַדַּרְתּוֹ אֵלָיו׃",
+    "translit": "Vaièleh mișam vaimța et-Elișa ben-Șafat vehu horeș șeneim-asar țemadim lefanav vehu bișneim heasar vaiaavor Eliahu elav vaiasleh adarto elav.",
+    "tokens": [
+     {
+      "t": "Apoi a plecat de acolo și l-a găsit pe Elișa, fiul lui Șafat, în timp ce el ara, cu "
+     },
+     {
+      "t": "douăsprezece perechi de boi",
+      "w": "douăsprezece perechi de boi",
+      "heb": "שְׁנֵים־עָשָׂר צְמָדִים",
+      "translit": "șneim-asar țemadim",
+      "strong": "H6776",
+      "pos": "numeral + substantiv, masculin plural",
+      "def_ro": "douăsprezece perechi (de boi înjugați).",
+      "dict_ro": "Țemed — „pereche, jug”, de la țamad, „a lega împreună” (Metzudat Țion: ca „capacul legat” din Numeri 19:15). Elișa ara cu douăsprezece perechi de boi, semn al unei gospodării bogate; Radak vede în număr un semn: va fi profet și mustrător pentru cele douăsprezece seminții. Aruncarea mantiei e un gest de chemare: Metzudat David — ca un semn că va fi profet al DOMNULUI și va purta și el mantia profeților. Chemarea din timpul muncii câmpului amintește de Ghedeon (Judecători 6:11) și de ucenicii chemați de la mreje (Matei 4:18-19)."
+     },
+     {
+      "t": " înaintea lui, iar el era lângă a douăsprezecea [pereche]. Și Eliahu a trecut spre el și și-a pus mantia asupra lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּלֶךְ מִשָּׁם וַיִּמְצָא אֶת־אֱלִישָׁע...",
+      "translation": "„Apoi a plecat de acolo și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Καὶ ἀπῆλθεν ἐκεῖθεν καὶ εὑρίσκει τὸν ῾Ελισαιὲ υἱὸν Σαφάτ, καὶ αὐτὸς ἠροτρία ἐν βουσὶ δώδεκα ζεύγη ἐνώπιον αὐτοῦ, καὶ αὐτὸς ἐν τοῖς δώδεκα καὶ ἀπῆλθεν ἐπ᾿ αὐτὸν καὶ ἐπέρριψε τὴν μηλωτὴν αὐτοῦ ἐπ᾿ αὐτόν.",
+      "greek": true,
+      "translation": "„Și a plecat de acolo și l-a găsit pe Elisei, fiul lui Safat, și el ara cu boi, douăsprezece perechi înaintea lui, și el era cu cele douăsprezece; și a trecut la el și a aruncat cojocul său peste el.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 3:1",
+     "Judecători 6:11",
+     "Psalmul 78:70-72",
+     "Amos 7:14",
+     "Matei 4:18,19",
+     "2 Regi 2:8,13,14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„În timp ce el ara” — mergea după boii care arau. „Cu douăsprezece perechi de boi înaintea lui” — căci erau acolo doisprezece plugari, fiecare cu o pereche de boi, iar el era ultimul, al doisprezecelea; deci înaintea lui mergeau douăsprezece, căci și perechea lui mergea înaintea lui, fiindcă plugarul merge după boi. „Mantia” — a aruncat peste el ceva din mantia lui, ca să-i facă semn că va fi profet al DOMNULUI și că va purta și el mantie, după obiceiul profeților, cum s-a spus: „și nu vor mai purta mantie” (Zaharia 13:4)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „În timp ce el ara” — l-a găsit arând el cu slujitorii lui, care arau cu boii, și douăsprezece perechi arau înaintea lui. „Perechi” — adică boi, căci boii sunt legați împreună la arat și se numesc pereche și perechi. „Iar el era lângă a douăsprezecea” — din cele douăsprezece perechi, el ara cu una dintre ele, iar cei unsprezece slujitori ai lui erau fiecare cu perechea lui; iar întâmplarea aceasta arată că l-a găsit cu douăsprezece, și era un semn că va fi rânduit peste cele douăsprezece seminții ale lui Israel ca profet și ca mustrător."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Țemadim” — așa se numește perechea de boi, căci merg legați împreună, și e din „capac legat (țamid)” (Numeri 19:15)."
+     }
+    ]
+   },
+   {
+    "v": "19:20",
+    "t": "El a lăsat vitele și a alergat după Eliahu și a spus: „Lasă-mă, te rog, să-i sărut pe tatăl meu și pe mama mea, și apoi voi merge după tine.” Dar el i-a spus: „Mergi [și] întoarce-te, căci oare ce ți-am făcut?”",
+    "heb": "וַיַּעֲזֹב אֶת־הַבָּקָר וַיָּרָץ אַחֲרֵי אֵלִיָּהוּ וַיֹּאמֶר אֶשְּׁקָה־נָּא לְאָבִי וּלְאִמִּי וְאֵלְכָה אַחֲרֶיךָ וַיֹּאמֶר לוֹ לֵךְ שׁוּב כִּי מֶה־עָשִׂיתִי לָךְ׃",
+    "translit": "Vaiaazov et-habakar vaiaroț aharei Eliahu vaiomer eșka-na leavi uleimi veeleha ahareha vaiomer lo leh șuv ki me-asiti lah.",
+    "tokens": [
+     {
+      "t": "El a lăsat vitele și a alergat după Eliahu și a spus: „Lasă-mă, te rog, "
+     },
+     {
+      "t": "să-i sărut",
+      "w": "să-i sărut",
+      "heb": "אֶשְּׁקָה־נָּא",
+      "translit": "eșka-na",
+      "strong": "H5401",
+      "pos": "verb, qal, imperfect (cohortativ), persoana I singular + particulă",
+      "def_ro": "să sărut (în semn de rămas-bun).",
+      "dict_ro": "Nașak — „a săruta”, aici gestul de rămas-bun de la părinți, ca al lui Laban la despărțirea de nepoții și fiicele lui. Răspunsul lui Eliahu e enigmatic: „mergi, întoarce-te, căci ce ți-am făcut?”. Rashi îl citește: întoarce-te de la a mă urma, căci ce ți-am făcut, ca să vii după mine?; Metzudat David, dimpotrivă: du-te, sărută-i și întoarce-te, căci minunile pe care le-am făcut le vei face și tu, dacă vei merge după mine. Iisus reia scena, mai aspru, în Luca 9:61-62: „nimeni care pune mâna pe plug și se uită înapoi nu este potrivit pentru Împărăția lui Dumnezeu”."
+     },
+     {
+      "t": " pe tatăl meu și pe mama mea, și apoi voi merge după tine.” Dar el i-a spus: „Mergi [și] întoarce-te, căci oare ce ți-am făcut?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעֲזֹב אֶת־הַבָּקָר וַיָּרָץ אַחֲרֵי...",
+      "translation": "„El a lăsat vitele și a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ κατέλιπεν ῾Ελισαιὲ τὰς βόας καὶ κατέδραμεν ὀπίσω ᾿Ηλιοὺ καὶ εἶπε· καταφιλήσω τὸν πατέρα μου καὶ ἀκολουθήσω ὀπίσω σου· καὶ εἶπεν ᾿Ηλιού· ἀνάστρεφε, ὅτι πεποίηκά σοι.",
+      "greek": true,
+      "translation": "„Și a lăsat Elisei boii și a alergat după Ilie și a zis: Îl voi săruta pe tatăl meu și voi merge după tine. Și a zis Ilie: Întoarce-te, căci ți-am făcut [aceasta].”",
+      "note": "Septuaginta nu o pomenește pe mamă și citește finalul ca afirmație: „căci ți-am făcut [aceasta]”."
+     }
+    ],
+    "refs": [
+     "Matei 4:20,22",
+     "Matei 9:9",
+     "Matei 8:21,22",
+     "Luca 9:61,62",
+     "Faptele Apostolilor 20:37"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Mergi [și] întoarce-te” — de la a mă mai urma. „Căci oare ce ți-am făcut?” — ca să vii după mine."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Lasă-mă, te rog, să-i sărut” — după obiceiul celor care cer îngăduință și își iau rămas-bun ca să plece. „Mergi [și] întoarce-te” — du-te și sărută-i pe tatăl și pe mama ta, cum ai spus, și întoarce-te la mine. „Căci oare ce ți-am făcut?” — căci minunile și semnele pe care le-am făcut vor fi și ale tale, adică și tu vei face ca ele, dacă vei merge după mine."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Să-i sărut” — în unele cărți, șin-ul are kameț hataf."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Eșka” — din „sărut”."
+     }
+    ]
+   },
+   {
+    "v": "19:21",
+    "t": "El s-a întors de la a-l mai urma, și a luat perechea de boi și i-a înjunghiat, și cu [focul făcut cu] uneltele de arat a gătit carnea și a dat-o poporului și au mâncat; apoi s-a ridicat și a mers după Eliahu și l-a slujit.",
+    "heb": "וַיָּשָׁב מֵאַחֲרָיו וַיִּקַּח אֶת־צֶמֶד הַבָּקָר וַיִּזְבָּחֵהוּ וּבִכְלִי הַבָּקָר בִּשְּׁלָם הַבָּשָׂר וַיִּתֵּן לָעָם וַיֹּאכֵלוּ וַיָּקָם וַיֵּלֶךְ אַחֲרֵי אֵלִיָּהוּ וַיְשָׁרְתֵהוּ׃",
+    "translit": "Vaiasov meaharav vaikah et-țemed habakar vaizbahehu uvikhli habakar bișelam habasar vaiten laam vaiohelu vaiakom vaièleh aharei Eliahu vaișaretehu.",
+    "tokens": [
+     {
+      "t": "El s-a întors de la a-l mai urma, și a luat perechea de boi și i-a înjunghiat, și cu [focul făcut cu] uneltele de arat a gătit carnea și a dat-o poporului și au mâncat; apoi s-a ridicat și a mers după Eliahu și "
+     },
+     {
+      "t": "l-a slujit",
+      "w": "l-a slujit",
+      "heb": "וַיְשָׁרְתֵהוּ",
+      "translit": "vaișaretehu",
+      "strong": "H8334",
+      "pos": "verb, piel, imperfect consecutiv + sufix persoana a III-a masculin singular",
+      "def_ro": "l-a slujit, i-a fost slujitor.",
+      "dict_ro": "Șeret — „a sluji”, mai ales slujirea personală a unui ucenic față de învățător, ca Iosua față de Moise (Exod 24:13; Numeri 27:18-20). Elișa își arde podurile: taie boii, face foc din lemnul plugului și dă carnea oamenilor, un ospăț de despărțire — Rashi și Metzudat David: „a făcut un ospăț de mare bucurie”. Radak: „din marea lui grabă de a merge după Eliahu, n-a mai așteptat să taie lemne, ci a spart uneltele de arat”. De aici încolo, Scriptura îl numește „Elișa, care turna apă pe mâinile lui Eliahu” (2 Regi 3:11)."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּשָׁב מֵאַחֲרָיו וַיִּקַּח אֶת־צֶמֶד...",
+      "translation": "„El s-a întors de la a-l...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνέστρεψεν ἐξόπισθεν αὐτοῦ καὶ ἔλαβε τὰ ζεύγη τῶν βοῶν καὶ ἔθυσε καὶ ἥψησεν αὐτὰ ἐν τοῖς σκεύεσι τῶν βοῶν καὶ ἔδωκε τῷ λαῷ, καὶ ἔφαγον· καὶ ἀνέστη καὶ ἐπορεύθη ὀπίσω ᾿Ηλιοὺ καὶ ἐλειτούργει αὐτῷ.",
+      "greek": true,
+      "translation": "„Și s-a întors de la el și a luat perechile de boi și le-a jertfit și le-a fiert cu uneltele boilor și le-a dat poporului, și au mâncat; și s-a sculat și a mers după Ilie și îi slujea.”",
+      "note": "Septuaginta are „perechile de boi” (la plural) și „le-a jertfit” (ἔθυσε)."
+     }
+    ],
+    "refs": [
+     "2 Samuel 24:22",
+     "Luca 5:28,29",
+     "Exod 24:13",
+     "Numeri 27:18-20",
+     "2 Regi 3:11",
+     "2 Timotei 4:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „A gătit carnea” — a gătit pentru ei carnea; așa explică Dunaș și Menahem, și așa a tradus Ionatan, ca două cuvinte: „a gătit pentru ei”. Dar eu spun că nu e nevoie să-l împarți în două cuvinte: „bișlam habasar” înseamnă că a gătit cei doi boi, carnea lor, căci o pereche înseamnă cel puțin doi. „Și a dat-o poporului” — a făcut un ospăț de mare bucurie."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cu uneltele de arat” — care sunt de lemn. „Și a dat-o poporului” — care era cu el la arat; și a făcut aceasta din mare bucurie."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „El s-a întors de la a-l mai urma” — ca să-i sărute pe tatăl și pe mama lui, deși Scriptura nu o povestește; apoi a înjunghiat boii și a făcut un ospăț în câmpul acela pentru plugari și pentru poporul care venise după el ca să-l petreacă, căci se despărțea de ei. „Perechea de boi” — una din cele douăsprezece. „A gătit carnea” — a gătit pentru ei carnea, adică pentru poporul care era cu el, cum traduce Ionatan „a gătit pentru ei”; și din marea lui grabă de a merge după Eliahu, n-a așteptat să taie lemne pentru gătit, ci a spart uneltele boilor, adică plugul, și a gătit pentru ei carnea."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Meaharav” — de la a merge după Eliahu. „Bișlam” — a gătit pentru ei, adică pentru popor, și tot așa „mi-ai dat un pământ în sud” (Iosua 15:19)."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
