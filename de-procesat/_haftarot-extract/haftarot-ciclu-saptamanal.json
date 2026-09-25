@@ -67816,6 +67816,1432 @@
     ]
    }
   ]
+ },
+  {
+  "num": 42,
+  "title": "Haftarat Korah",
+  "ref": "1 Samuel 11:14-12:22",
+  "intro": "În pericopa Korah, Moise este acuzat că își asumă stăpânirea peste popor și se apără spunând: „N-am luat de la ei nici măcar un măgar” (Numeri 16:15). În haftara, Samuel, urmașul lui Korah, se apără aproape cu aceleași cuvinte. După biruința lui Șaul asupra amoniților, poporul reînnoiește regalitatea la Ghilgal. Samuel ține atunci cuvântarea de despărțire: le cere să mărturisească dacă a luat vreodată boul sau măgarul cuiva, iar ei mărturisesc că n-au găsit nimic în mâna lui. Apoi le amintește cum Dumnezeu i-a salvat, prin judecători și fără rege, de fiecare dată când au strigat la El. Ca să le arate cât de rău a fost să ceară un rege, cheamă tunete și ploaie în mijlocul secerișului de grâu. Poporul se înspăimântă și îi cere să se roage pentru ei, iar Samuel îi liniștește: „DOMNUL nu Își va părăsi poporul de dragul numelui Său cel mare”.",
+  "verses": [
+   {
+    "v": "11:14",
+    "t": "Și Samuel a spus poporului: „Veniți, să mergem în Ghilgal și să reînnoim regatul acolo.”",
+    "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל־הָעָם לְכוּ וְנֵלְכָה הַגִּלְגָּל וּנְחַדֵּשׁ שָׁם הַמְּלוּכָה׃",
+    "translit": "Vaiomer Șemuel el-haam lehu venelha ha'Ghilgal unehadeș șam hameluha.",
+    "tokens": [
+     {
+      "t": "Și Samuel a spus poporului: „Veniți, să mergem în Ghilgal și "
+     },
+     {
+      "t": "să reînnoim",
+      "w": "să reînnoim",
+      "heb": "וּנְחַדֵּשׁ",
+      "translit": "unehadeș",
+      "strong": "H2318",
+      "pos": "conjuncție + verb, piel, imperfect (cohortativ), persoana I plural",
+      "def_ro": "să înnoim, să reînnoim.",
+      "dict_ro": "Hadaș — „a înnoi”, de unde hadaș, „nou”, și hodeș, „lună nouă”. Regatul lui Șaul nu era nou, dar trebuia „reînnoit”: la prima proclamare, la Mițpa, unii îl disprețuiseră („cum ne va mântui acesta?”, 1 Samuel 10:27), iar acum, după biruința asupra lui Nahaș la Iaveș-Ghilead, toți îl acceptă. Radak explică de ce Ghilgal: acolo stătuseră chivotul și Cortul Întâlnirii la intrarea în Țară, iar locul rămăsese cinstit, deși acum Cortul era la Nov."
+     },
+     {
+      "t": " regatul acolo.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר שְׁמוּאֵל אֶל־הָעָם לְכוּ...",
+      "translation": "„Și Samuel a spus poporului: „Veniți...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Σαμουὴλ πρὸς τὸν λαὸν λέγων· πορευθῶμεν εἰς Γάλγαλα, καὶ ἐγκαινίσωμεν ἐκεῖ τὴν βασιλείαν.",
+      "greek": true,
+      "translation": "„Și a zis Samuel către popor, spunând: Să mergem la Ghilgal și să înnoim acolo regalitatea.”",
+      "note": "Corespondență strânsă; Septuaginta folosește verbul ἐγκαινίζω, „a inaugura, a înnoi”, înrudit cu numele sărbătorii Înnoirii (Hanuca)."
+     }
+    ],
+    "refs": [
+     "1 Samuel 7:16",
+     "1 Samuel 10:8",
+     "1 Samuel 10:24"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și să reînnoim regatul acolo” — pentru că la început fusese împotrivire în privința aceasta, iar acum au fost cu toții de acord."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și să reînnoim acolo regatul” — pentru că la început nu toți îl primiseră de bunăvoie."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și să reînnoim acolo regatul” — pentru că prima dată unii dintre ei îl disprețuiseră și spuseseră: „cum ne va mântui acesta?”, iar acum s-au împăcat cu toții, din pricina mântuirii care venise prin el în războiul cu Nahaș. Iar Samuel a spus să reînnoiască regatul la Ghilgal pentru cinstea chivotului și a Cortului Întâlnirii, care fuseseră acolo la început, când au intrat în Țară; de aceea cinsteau locul acela, deși acum nu mai era acolo, căci era la Nov."
+     }
+    ]
+   },
+   {
+    "v": "11:15",
+    "t": "Și tot poporul a mers în Ghilgal și l-au încoronat acolo pe Șaul ca rege înaintea DOMNULUI, în Ghilgal, și au adus jertfe de pace înaintea DOMNULUI. Și Șaul și toți bărbații din Israel s-au bucurat foarte mult acolo.",
+    "heb": "וַיֵּלְכוּ כָל־הָעָם הַגִּלְגָּל וַיַּמְלִכוּ שָׁם אֶת־שָׁאוּל לִפְנֵי יְהוָה בַּגִּלְגָּל וַיִּזְבְּחוּ־שָׁם זְבָחִים שְׁלָמִים לִפְנֵי יְהוָה וַיִּשְׂמַח שָׁם שָׁאוּל וְכָל־אַנְשֵׁי יִשְׂרָאֵל עַד־מְאֹד׃",
+    "translit": "Vaièlhu hol-haam ha'Ghilgal vaiamlihu șam et-Șaul lifnei ADONAI ba'Ghilgal vaizbehu-șam zevahim șelamim lifnei ADONAI vaișmah șam Șaul vehol-anșei Israel ad-meod.",
+    "tokens": [
+     {
+      "t": "Și tot poporul a mers în Ghilgal și l-au încoronat acolo pe Șaul ca rege înaintea DOMNULUI, în Ghilgal, și au adus "
+     },
+     {
+      "t": "jertfe de pace",
+      "w": "jertfe de pace",
+      "heb": "זְבָחִים שְׁלָמִים",
+      "translit": "zevahim șelamim",
+      "strong": "H8002",
+      "pos": "substantiv, masculin plural + substantiv, masculin plural",
+      "def_ro": "jertfe de pace, jertfe de mulțumire.",
+      "dict_ro": "Șelamim — jertfele de pace (de la șalom, „întregime, pace”), singurele din care mâncau și cei care le aduceau: o parte pe altar, o parte preoților, restul familiei, la o masă de sărbătoare (Levitic 3; 7:11-21). Sunt jertfa potrivită pentru o bucurie comună, ca la încheierea legământului de la Sinai (Exod 24:5). Metzudat David explică de ce „înaintea DOMNULUI”: Șehina se odihnește acolo unde se adună majoritatea obștii."
+     },
+     {
+      "t": " înaintea DOMNULUI. Și Șaul și toți bărbații din Israel s-au bucurat foarte mult acolo."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּלְכוּ כָל־הָעָם הַגִּלְגָּל וַיַּמְלִכוּ...",
+      "translation": "„Și tot poporul a mers în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπορεύθη πᾶς ὁ λαὸς εἰς Γάλγαλα, καὶ ἔχρισε Σαμουὴλ ἐκεῖ τὸν Σαοὺλ εἰς βασιλέα ἐνώπιον Κυρίου ἐν Γαλγάλοις καὶ ἔθυσεν ἐκεῖ θυσίας καὶ εἰρηνικὰς ἐνώπιον Κυρίου· καὶ εὐφράνθη Σαμουὴλ καὶ πᾶς Ἰσραὴλ ὥστε λίαν.",
+      "greek": true,
+      "translation": "„Și a mers tot poporul la Ghilgal, și l-a uns Samuel acolo pe Saul rege înaintea Domnului în Ghilgal, și a jertfit acolo jertfe și jertfe de pace înaintea Domnului; și s-a veselit Samuel și tot Israelul foarte.”",
+      "note": "Divergență reală: în Septuaginta Samuel „l-a uns” pe Saul (nu poporul „l-a încoronat”), iar la sfârșit „s-a veselit Samuel”, nu Saul."
+     }
+    ],
+    "refs": [
+     "1 Samuel 10:17",
+     "Exod 24:5",
+     "1 Cronici 29:21-24",
+     "1 Samuel 12:13-15,17",
+     "Osea 13:10,11"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și l-au încoronat acolo” — l-au încoronat a doua oară, cu acordul tuturor și de bunăvoie. „Înaintea DOMNULUI” — căci Șehina se odihnește în locul unde se adună majoritatea obștii."
+     }
+    ]
+   },
+   {
+    "v": "12:1",
+    "t": "Apoi Samuel a spus întregului Israel: „Iată, am ascultat de glasul vostru, legat de tot ce mi-ați spus, și am încoronat un rege peste voi.",
+    "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל־כָּל־יִשְׂרָאֵל הִנֵּה שָׁמַעְתִּי בְקֹלְכֶם לְכֹל אֲשֶׁר־אֲמַרְתֶּם לִי וָאַמְלִיךְ עֲלֵיכֶם מֶלֶךְ׃",
+    "translit": "Vaiomer Șemuel el-kol-Israel hine șamati vekolhem lehol așer-amartem li vaamlih aleihem meleh.",
+    "tokens": [
+     {
+      "t": "Apoi Samuel a spus întregului Israel: „Iată, am ascultat de glasul vostru, legat de tot ce mi-ați spus, și "
+     },
+     {
+      "t": "am încoronat",
+      "w": "am încoronat",
+      "heb": "וָאַמְלִיךְ",
+      "translit": "vaamlih",
+      "strong": "H4427",
+      "pos": "verb, hifil, imperfect consecutiv, persoana I singular",
+      "def_ro": "am pus rege, am încoronat.",
+      "dict_ro": "Malah — „a domni”; la forma cauzativă (hifil), „a face rege, a încorona”. Samuel își începe cuvântarea de despărțire amintind că a cedat cererii poporului, deși o socotea greșită (1 Samuel 8:6-7). Metzudat David explică de ce abia acum îi mustră: dacă i-ar fi mustrat înainte de a le da un rege, ar fi crezut că vorbele lui voiau doar să împiedice regalitatea; acum, când regele e pus, mustrarea nu mai poate fi bănuită de interes."
+     },
+     {
+      "t": " un rege peste voi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר שְׁמוּאֵל אֶל־כָּל־יִשְׂרָאֵל הִנֵּה...",
+      "translation": "„Apoi Samuel a spus întregului Israel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΚΑΙ εἶπε Σαμουὴλ πρὸς πάντα ᾿Ισραήλ· ἰδοὺ ἤκουσα φωνῆς ὑμῶν εἰς πάντα, ὅσα εἴπατέ μοι, καὶ ἐβασίλευσα ἐφ᾿ ὑμᾶς βασιλέα.",
+      "greek": true,
+      "translation": "„Și a zis Samuel către tot Israelul: Iată, am ascultat glasul vostru în toate câte mi-ați zis și am pus rege peste voi.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "1 Samuel 8:5-8,19-22",
+     "1 Samuel 10:1,24",
+     "1 Samuel 11:14,15"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Iată, am ascultat” — adică înainte de a pune un rege nu puteam să vă mustru, ca nu cumva să credeți că scopul cuvintelor mele e să împiedic punerea unui rege; de aceea am ascultat mai întâi de glasul vostru și am pus un rege."
+     }
+    ]
+   },
+   {
+    "v": "12:2",
+    "t": "Și acum, iată, regele merge înaintea voastră, iar eu am îmbătrânit și am albit; iar fiii mei, iată-i, sunt aici cu voi. Cât despre mine, am mers înaintea voastră din tinerețea mea până în ziua aceasta.",
+    "heb": "וְעַתָּה הִנֵּה הַמֶּלֶךְ מִתְהַלֵּךְ לִפְנֵיכֶם וַאֲנִי זָקַנְתִּי וָשַׂבְתִּי וּבָנַי הִנָּם אִתְּכֶם וַאֲנִי הִתְהַלַּכְתִּי לִפְנֵיכֶם מִנְּעֻרַי עַד־הַיּוֹם הַזֶּה׃",
+    "translit": "Veata hine hameleh mithaleh lifneihem vaani zakanti vasavti uvanai hinam ithem vaani hithalahti lifneihem mineurai ad-haiom haze.",
+    "tokens": [
+     {
+      "t": "Și acum, iată, regele merge înaintea voastră, iar eu am îmbătrânit și "
+     },
+     {
+      "t": "am albit",
+      "w": "am albit",
+      "heb": "וָשַׂבְתִּי",
+      "translit": "vasavti",
+      "strong": "H7867",
+      "pos": "verb, qal, imperfect consecutiv, persoana I singular",
+      "def_ro": "am încărunțit, am albit.",
+      "dict_ro": "Siv — „a încărunți” (de unde seiva, „bătrânețe înaintată, păr cărunt”); Metzudat Țion și Radak observă că „a albi” spune mai mult decât „a îmbătrâni”. Talmudul (Taanit 5b) adaugă o surpriză: Samuel a murit la doar cincizeci și doi de ani; bătrânețea „a sărit asupra lui” înainte de vreme, ca să nu i se vadă moartea prematură. Metzudat David citește în verset argumentul lui Samuel: regele e deja întărit, eu sunt bătrân, iar fiii mei sunt de partea regelui — deci nu am niciun interes când vă vorbesc."
+     },
+     {
+      "t": "; iar fiii mei, iată-i, sunt aici cu voi. Cât despre mine, am mers înaintea voastră din tinerețea mea până în ziua aceasta."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה הִנֵּה הַמֶּלֶךְ מִתְהַלֵּךְ...",
+      "translation": "„Și acum, iată, regele merge înaintea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν ἰδοὺ ὁ βασιλεὺς διαπορεύεται ἐνώπιον ὑμῶν, κἀγὼ γεγήρακα καὶ καθήσομαι, καὶ οἱ υἱοί μου ἰδοὺ ἐν ὑμῖν· κἀγὼ ἰδοὺ διελήλυθα ἐνώπιον ὑμῶν ἐκ νεότητος καὶ ἕως τῆς ἡμέρας ταύτης.",
+      "greek": true,
+      "translation": "„Și acum, iată, regele umblă înaintea voastră, iar eu am îmbătrânit și voi ședea, și fiii mei, iată, sunt între voi; și eu, iată, am umblat înaintea voastră din tinerețe și până în ziua aceasta.”",
+      "note": "Septuaginta are „voi ședea” (καθήσομαι, citind yașavti) în loc de „am albit” (savti)."
+     }
+    ],
+    "refs": [
+     "1 Samuel 8:20",
+     "Numeri 27:17",
+     "1 Samuel 8:1,5",
+     "Psalmul 71:18",
+     "1 Samuel 3:19,20",
+     "2 Timotei 4:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Am îmbătrânit și am albit” — înțelepții noștri au spus că a îmbătrânit înainte de vreme, cum se spune în tratatul Taanit (5b)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și acum” — dar acum, de vreme ce regele umblă înaintea voastră și s-a întărit în domnie, cine ar îndrăzni să-l înlăture? Și iată, și eu am îmbătrânit, și puterea mea a slăbit ca să mai țin stăpânirea, iar fiii mei sunt cu voi, gata să-l slujească pe rege și doritori de el ca și voi; deci nu mai e loc să spuneți că am alt gând, și de aceea vă voi spune acum cuvintele mele. „Am mers înaintea voastră” — și apoi, n-am umblat oare înaintea voastră din cetate în cetate ca să vă judec, nu o zi sau două, ci din tinerețea mea până azi? Deci mă cunoașteți toți și știți că nu umblu cu vicleșuguri și șiretenii."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Am îmbătrânit și am albit” — albirea este mai mult decât bătrânețea. Iar înțelepții noștri au spus că bătrânețea a sărit asupra lui, căci nu avea decât cincizeci și doi de ani când a murit; și pentru ca poporul să nu spună despre el, cârtind, că a murit cu zile puține, bătrânețea a sărit asupra lui ca să arate bătrân, căci nu toți îi știau numărul anilor."
+     },
+     {
+      "author": "Talmud Bavli, Taanit 5b",
+      "text": "Rav Nahman l-a întrebat pe Rabi Ițhak: ce înseamnă „Și când a îmbătrânit Samuel” (1 Samuel 8:1)? Oare a îmbătrânit atât de mult? Nu avea decât cincizeci și doi de ani! Rabi Ițhak i-a răspuns, în numele lui Rabi Iohanan: bătrânețea a sărit asupra lui. Samuel s-a rugat ca lucrarea mâinilor lui — Saul, pe care îl unsese — să nu fie anulată în viața lui; iar Sfântul, binecuvântat fie El, a spus: voi face ca bătrânețea să sară asupra lui, și toți vor crede că e bătrân."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vasavti” — albirea (seiva) este mai mult decât bătrânețea. „Hinam” — iată-i."
+     }
+    ]
+   },
+   {
+    "v": "12:3",
+    "t": "Iată-mă, răspundeți pentru mine înaintea DOMNULUI și înaintea celui pe care l-a învestit El: Al cui bou l-am luat? Al cui măgar l-am luat? Pe cine am jefuit? Sau pe cine am silit? Sau din mâna cui am luat bani de răscumpărare ca să închid ochii față de el? [Spuneți-mi] și vă voi da înapoi.”",
+    "heb": "הִנְנִי עֲנוּ בִי נֶגֶד יְהוָה וְנֶגֶד מְשִׁיחוֹ אֶת־שׁוֹר מִי לָקַחְתִּי וַחֲמוֹר מִי לָקַחְתִּי וְאֶת־מִי עָשַׁקְתִּי אֶת־מִי רַצּוֹתִי וּמִיַּד־מִי לָקַחְתִּי כֹּפֶר וְאַעְלִים עֵינַי בּוֹ וְאָשִׁיב לָכֶם׃",
+    "translit": "Hineni anu vi neghed ADONAI veneghed meșiho et-șor mi lakahti vahamor mi lakahti veet-mi așakti et-mi rațoti umiiad-mi lakahti hofer vealim einai bo veașiv lahem.",
+    "tokens": [
+     {
+      "t": "Iată-mă, răspundeți pentru mine înaintea DOMNULUI și înaintea celui pe care l-a învestit El: Al cui bou l-am luat? Al cui "
+     },
+     {
+      "t": "măgar",
+      "w": "măgar",
+      "heb": "וַחֲמוֹר",
+      "translit": "vahamor",
+      "strong": "H2543",
+      "pos": "conjuncție + substantiv, masculin singular",
+      "def_ro": "măgar.",
+      "dict_ro": "Hamor — măgarul, animalul de călărie și de povară al omului obișnuit. Întrebarea lui Samuel, „al cui măgar l-am luat?”, e aproape cuvânt cu cuvânt apărarea lui Moise în fața lui Korah: „n-am luat de la ei nici măcar un măgar” (Numeri 16:15) — de aici legătura dintre pericopa Korah și această haftară; iar Samuel era el însuși din urmașii lui Korah (1 Cronici 6). Rashi explică: când mergea din cetate în cetate să judece, Samuel călărea pe măgarul lui, deși ar fi avut dreptul să-l ia pe al lor, ca să nu semene nici pe departe cu fiii lui Eli."
+     },
+     {
+      "t": " l-am luat? Pe cine am jefuit? Sau pe cine am silit? Sau din mâna cui am luat bani de răscumpărare ca să închid ochii față de el? [Spuneți-mi] și vă voi da înapoi.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנְנִי עֲנוּ בִי נֶגֶד...",
+      "translation": "„Iată-mă, răspundeți pentru mine înaintea DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἰδοὺ ἐγώ, ἀποκρίθητε κατ᾿ ἐμοῦ ἐνώπιον Κυρίου καὶ ἐνώπιον χριστοῦ αὐτοῦ· μόσχον τίνος εἴληφα ἢ ὄνον τίνος εἴληφα ἢ τίνα κατεδυνάστευσα ὑμῶν ἢ τίνα ἐξεπίεσα ἢ ἐκ χειρὸς τίνος εἴληφα ἐξίλασμα καὶ ὑπόδημα; ἀποκρίθητε κατ᾿ ἐμοῦ, καὶ ἀποδώσω ὑμῖν.",
+      "greek": true,
+      "translation": "„Iată-mă: răspundeți împotriva mea înaintea Domnului și înaintea unsului Său: al cui vițel l-am luat, sau al cui măgar l-am luat, sau pe cine dintre voi l-am asuprit, sau pe cine l-am stors, sau din mâna cui am luat preț de răscumpărare și o sanda? Răspundeți împotriva mea, și vă voi da înapoi.”",
+      "note": "Divergență reală: Septuaginta are „preț de răscumpărare și o sanda” (ἐξίλασμα καὶ ὑπόδημα), citind naalayim („sandale”) în locul lui „ca să-mi închid ochii” (aalim einai); aceeași lectură apare la Ben Sira 46:19."
+     }
+    ],
+    "refs": [
+     "Numeri 16:15",
+     "Faptele Apostolilor 20:33",
+     "1 Tesaloniceni 2:5,10",
+     "Exod 23:8",
+     "Deuteronom 16:19",
+     "Luca 19:8"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Al cui bou l-am luat?” — pentru lucrul meu. „Al cui măgar l-am luat?” — când mergeam din cetate în cetate ca să-i judec în pricinile lor, mergeam pe măgarul meu, deși ar fi trebuit să-l iau pe al lor; și când aduceam o jertfă pentru ei, ar fi trebuit să iau boul lor. Samuel lua această grijă în plus pentru că văzuse cât de aspru fuseseră pedepsiți fiii lui Eli. „Pe cine am silit?” — orice „rițuț” care urmează după „ioșek” e o expresie de jefuire și asuprire, ca în „asuprit și zdrobit” (Deuteronom 28:33). „Ca să închid ochii” — ca să-mi ascund ochii de la judecată din pricina banilor. „Și vă voi da înapoi” — orice veți spune."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iată-mă” — adică, cât sunt încă aici, mărturisiți împotriva mea înaintea DOMNULUI și înaintea regelui uns de DOMNUL. „Am luat bani de răscumpărare” — o răscumpărare pentru fărădelegea lui. „Ca să închid ochii față de el” — și, pentru răscumpărare, mi-am închis ochii ca să nu-l pedepsesc cu pedeapsa cuvenită. „Și vă voi da înapoi” — adică, dacă veți mărturisi ceva împotriva mea cât sunt aici, vă voi răspunde la cuvintele voastre."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Am luat” — adică pentru lucrul meu. „Pe cine am jefuit” — în bani. „Pe cine am silit” — în trupul lui, ca în „asuprit și zdrobit”; iar înțelepții noștri au explicat: „am jefuit” — cu forța; „am silit” (rațoti) — de bunăvoie (rațon), adică nici măcar cu voia lui nu i-a luat banii. „Bani de răscumpărare” — ca să strâmb judecata. „Ca să închid ochii față de el” — dacă i-ar fi rușine să spună în fața mea, îmi voi închide ochii ca să nu mă uit la el, iar el să vă spună, și voi da înapoi; așa a explicat tatăl meu, stăpânul meu, de binecuvântată amintire."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Anu” — mărturisiți, ca în „să nu mărturisești (lo taane)” (Exod 20:13). „Șor mi” — boul cui. „Așakti” — din „asuprire și jaf”. „Rațoti” — cu sensul de zdrobire a trupului, și tot așa „asuprit și zdrobit” (Deuteronom 28:33). „Kofer” — răscumpărare."
+     }
+    ]
+   },
+   {
+    "v": "12:4",
+    "t": "Și ei au spus: „Nu ne-ai jefuit și nu ne-ai silit și nici n-ai luat nimic din mâna nimănui.”",
+    "heb": "וַיֹּאמְרוּ לֹא עֲשַׁקְתָּנוּ וְלֹא רַצּוֹתָנוּ וְלֹא־לָקַחְתָּ מִיַּד־אִישׁ מְאוּמָה׃",
+    "translit": "Vaiomru lo așaktanu velo rațotanu velo-lakahta miiad-iș meuma.",
+    "tokens": [
+     {
+      "t": "Și ei au spus: „Nu ne-ai "
+     },
+     {
+      "t": "jefuit",
+      "w": "jefuit",
+      "heb": "עֲשַׁקְתָּנוּ",
+      "translit": "așaktanu",
+      "strong": "H6231",
+      "pos": "verb, qal, perfect, persoana a II-a masculin singular + sufix persoana I plural",
+      "def_ro": "ne-ai asuprit, ne-ai jefuit.",
+      "dict_ro": "Așak — „a asupri, a stoarce, a lua cu forța sau prin înșelăciune”, mai ales de la cel slab (Levitic 19:13; Deuteronom 24:14). Răspunsul poporului e categoric și acoperă toate cele trei acuzații posibile: jaf, silnicie, mită. E o mărturie publică de integritate, rară în Scriptură, care pregătește contrastul cu regele pe care l-au cerut, despre care Samuel îi avertizase că „va lua” (1 Samuel 8:11-17)."
+     },
+     {
+      "t": " și nu ne-ai silit și nici n-ai luat nimic din mâna nimănui.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמְרוּ לֹא עֲשַׁקְתָּנוּ וְלֹא...",
+      "translation": "„Și ei au spus: „Nu ne-ai...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπαν πρὸς Σαμουήλ· οὐκ ἠδίκησας ἡμᾶς καὶ οὐ κατεδυνάστευσας ἡμᾶς καὶ οὐκ ἔθλασας ἡμᾶς καὶ οὐκ εἴληφας ἐκ χειρὸς οὐδενὸς οὐδέν.",
+      "greek": true,
+      "translation": "„Și au zis către Samuel: Nu ne-ai nedreptățit și nu ne-ai asuprit și nu ne-ai zdrobit și n-ai luat din mâna nimănui nimic.”",
+      "note": "Septuaginta adaugă „nu ne-ai zdrobit”, rezultând trei verbe în loc de două."
+     }
+    ],
+    "refs": [
+     "Psalmul 37:5,6",
+     "3 Ioan 1:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Nimic” — niciun lucru."
+     }
+    ]
+   },
+   {
+    "v": "12:5",
+    "t": "Atunci el le-a spus: „DOMNUL este martor pentru voi și unsul său este martor în această zi, că nu ați găsit nimic în mâna mea...” și [DOMNUL] a spus: „Sunt martor!”",
+    "heb": "וַיֹּאמֶר אֲלֵיהֶם עֵד יְהוָה בָּכֶם וְעֵד מְשִׁיחוֹ הַיּוֹם הַזֶּה כִּי לֹא מְצָאתֶם בְּיָדִי מְאוּמָה וַיֹּאמֶר עֵד׃",
+    "translit": "Vaiomer aleihem ed ADONAI bahem veed meșiho haiom haze ki lo mețatem beiadi meuma vaiomer ed.",
+    "tokens": [
+     {
+      "t": "Atunci el le-a spus: „DOMNUL este "
+     },
+     {
+      "t": "martor",
+      "w": "martor",
+      "heb": "עֵד",
+      "translit": "ed",
+      "strong": "H5707",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "martor.",
+      "dict_ro": "Ed — martorul (de la ud, „a repeta, a atesta”). Versetul se încheie ciudat, cu verbul la singular: „și a spus: Martor!”. Metzudat David și Radak explică: fie tot poporul a răspuns ca un singur om, fie a vorbit doar Saul, unsul. Talmudul (Makot 23b), urmat de Rashi și Radak, citește altfel: a ieșit un glas ceresc și a spus „Eu sunt martor” — unul dintre cele trei locuri unde duhul sfânt s-a arătat într-un tribunal omenesc (celelalte: la judecata lui Iuda cu Tamar și la judecata lui Solomon). Traducerea Rosen urmează această lectură: „și [DOMNUL] a spus: «Sunt martor!»”."
+     },
+     {
+      "t": " pentru voi și unsul său este martor în această zi, că nu ați găsit nimic în mâna mea...” și [DOMNUL] a spus: „Sunt martor!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר אֲלֵיהֶם עֵד יְהוָה...",
+      "translation": "„Atunci el le-a spus: „DOMNUL este...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Σαμουὴλ πρὸς τὸν λαόν· μάρτυς Κύριος ἐν ὑμῖν καὶ μάρτυς χριστὸς αὐτοῦ σήμερον ἐν ταύτῃ τῇ ἡμέρᾳ, ὅτι οὐχ εὑρήκατε ἐν χειρί μου οὐδέν. καὶ εἶπαν· μάρτυς.",
+      "greek": true,
+      "translation": "„Și a zis Samuel către popor: Martor este Domnul între voi și martor unsul Său astăzi, în ziua aceasta, că n-ați găsit nimic în mâna mea. Și au zis: Martor.”",
+      "note": "Septuaginta pune ultimul verb la plural („și au zis”), atribuind răspunsul poporului."
+     }
+    ],
+    "refs": [
+     "Iov 31:35-40",
+     "Faptele Apostolilor 23:9",
+     "Faptele Apostolilor 24:16,20",
+     "2 Corinteni 1:12",
+     "Psalmul 17:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și a spus: «Martor»” — a ieșit un glas ceresc și a spus: „[Sunt] martor”. Acesta este unul dintre cele trei locuri în care duhul sfânt a intrat în tribunalul de jos, cum se spune în tratatul Makot (23b); celelalte două sunt tribunalul lui Sem și tribunalul lui Solomon."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„DOMNUL este martor” — DOMNUL să fie martor, și unsul Lui să fie martor, că nu ați găsit în mâna mea nimic necuvenit. „Și a spus: Martor” — adică fiecare a spus: așa este, DOMNUL să fie martor, și unsul Lui să fie martor; sau doar Saul a spus: eu voi fi martor."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și a spus: Martor” — tot Israelul a spus ca unul singur „martor”, de aceea a spus „a spus” la singular; iar înțelepții noștri au spus că a ieșit un glas ceresc și a spus „martor”. Sfântul, binecuvântat fie El, le-a spus: voi mărturisiți despre el ce e la vedere, iar Eu mărturisesc despre el ce e ascuns; și acesta este unul dintre cele trei locuri în care s-a arătat duhul sfânt în tribunalul de jos."
+     },
+     {
+      "author": "Talmud Bavli, Makot 23b",
+      "text": "Rabi Elazar a spus: în trei locuri s-a arătat duhul sfânt — în tribunalul lui Sem, în tribunalul lui Samuel din Rama și în tribunalul lui Solomon. În tribunalul lui Samuel, cum e scris: „Iată-mă, răspundeți pentru mine înaintea DOMNULUI și înaintea unsului Său... Și a spus: «Martor»” (1 Samuel 12:3-5). Trebuia scris „și au spus”; ci a ieșit un glas ceresc și a spus: Eu sunt martor în această privință."
+     }
+    ]
+   },
+   {
+    "v": "12:6",
+    "t": "Și Samuel a spus poporului: „DOMNUL este Cel care a făcut [lucrarea Sa] prin Moise și Aaron și care i-a ridicat pe strămoșii voștri din țara Egiptului.",
+    "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל־הָעָם יְהוָה אֲשֶׁר עָשָׂה אֶת־מֹשֶׁה וְאֶת־אַהֲרֹן וַאֲשֶׁר הֶעֱלָה אֶת־אֲבֹתֵיכֶם מֵאֶרֶץ מִצְרָיִם׃",
+    "translit": "Vaiomer Șemuel el-haam ADONAI așer asa et-Moșe veet-Aharon vaașer heela et-avoteihem meereț Mițraim.",
+    "tokens": [
+     {
+      "t": "Și Samuel a spus poporului: „DOMNUL este Cel care a făcut [lucrarea Sa] prin Moise și Aaron și care i-"
+     },
+     {
+      "t": "a ridicat",
+      "w": "a ridicat",
+      "heb": "הֶעֱלָה",
+      "translit": "heela",
+      "strong": "H5927",
+      "pos": "verb, hifil, perfect, persoana a III-a masculin singular",
+      "def_ro": "a scos, a urcat (din Egipt).",
+      "dict_ro": "Ala — „a urca”; la forma cauzativă, „a face să urce, a scoate”: ieșirea din Egipt e descrisă mereu ca o „urcare”, spre Țara care e mai sus decât toate. Expresia „DOMNUL, care a făcut pe Moise și Aaron” e neobișnuită; Rashi o explică: care i-a pregătit pentru misiunea Lui, iar Radak — care i-a crescut și i-a învățat, ca în „sufletele pe care le făcuseră în Haran” (Geneza 12:5). Metzudat David: după ce poporul a mărturisit pentru el, Samuel trece de la apărare la mustrare."
+     },
+     {
+      "t": " pe strămoșii voștri din țara Egiptului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר שְׁמוּאֵל אֶל־הָעָם יְהוָה...",
+      "translation": "„Și Samuel a spus poporului: „DOMNUL...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Σαμουὴλ πρὸς τὸν λαὸν λέγων· μάρτυς Κύριος ὁ ποιήσας τὸν Μωυσῆν καὶ τὸν ᾿Ααρών, ὁ ἀναγαγὼν τοὺς πατέρας ἡμῶν ἐξ Αἰγύπτου.",
+      "greek": true,
+      "translation": "„Și a zis Samuel către popor, spunând: Martor este Domnul, Cel ce a făcut pe Moise și pe Aaron, Cel ce a scos pe părinții noștri din Egipt.”",
+      "note": "Septuaginta adaugă „martor” la începutul cuvântării, legând versetul de cel anterior."
+     }
+    ],
+    "refs": [
+     "Exod 6:26",
+     "Neemia 9:9-14",
+     "Psalmul 99:6",
+     "Psalmul 105:26,41",
+     "Mica 6:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Care a făcut pe Moise și Aaron” — ca să fie pregătiți pentru misiunea Lui, de a-i scoate pe părinții voștri din Egipt."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și Samuel a spus” — după ce au spus că n-au găsit nimic în mâna lui, a revenit la cuvintele lui ca să-i mustre. „DOMNUL este Cel care a făcut” — adică voi toți știți lucrarea DOMNULUI, pe care a făcut-o cu Moise și cu Aaron, adică minunile făcute prin ei și cu ei. „Și care i-a ridicat” — prin acele minuni i-a scos din Egipt."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Care a făcut pe Moise și Aaron” — care i-a crescut și i-a învățat, și tot așa „și sufletele pe care le făcuseră în Haran”; iar Targumul lui Ionatan traduce: „care a făcut fapte puternice prin Moise și Aaron”. Iar sensul versetului se leagă de „DOMNUL este martor” de mai înainte: DOMNUL, care i-a făcut pe Moise și Aaron pentru mântuirea voastră și prin ei i-a scos pe părinții voștri din țara Egiptului, El va fi martor între mine și voi."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Et Moșe” — cu Moise, adică prin el."
+     }
+    ]
+   },
+   {
+    "v": "12:7",
+    "t": "Și acum, stați în picioare și eu voi fi judecat împreună cu voi înaintea DOMNULUI, legat de toate faptele drepte pe care DOMNUL le-a înfăptuit cu voi și cu strămoșii voștri.",
+    "heb": "וְעַתָּה הִתְיַצְּבוּ וְאִשָּׁפְטָה אִתְּכֶם לִפְנֵי יְהוָה אֵת כָּל־צִדְקוֹת יְהוָה אֲשֶׁר־עָשָׂה אִתְּכֶם וְאֶת־אֲבוֹתֵיכֶם׃",
+    "translit": "Veata hitiațvu veișafta ithem lifnei ADONAI et kol-țidkot ADONAI așer-asa ithem veet-avoteihem.",
+    "tokens": [
+     {
+      "t": "Și acum, stați în picioare și eu voi fi judecat împreună cu voi înaintea DOMNULUI, legat de toate "
+     },
+     {
+      "t": "faptele drepte",
+      "w": "faptele drepte",
+      "heb": "צִדְקוֹת",
+      "translit": "țidkot",
+      "strong": "H6666",
+      "pos": "substantiv, feminin plural, în construcție",
+      "def_ro": "faptele drepte, binefacerile.",
+      "dict_ro": "Țedaka — dreptatea, dar la plural, țidkot, înseamnă „faptele de dreptate”, adică intervențiile salvatoare ale lui Dumnezeu în istorie; aceeași expresie apare în Cântarea Deborei („acolo se vor istorisi faptele drepte ale DOMNULUI”, Judecători 5:11). Samuel își prezintă cuvântarea ca pe un proces: „voi fi judecat împreună cu voi” (Metzudat Țion: „mă voi certa cu voi”), cu Dumnezeu ca judecător și cu istoria ca dosar. Radak rezumă acuzația: El v-a făcut dreptăți, iar voi ați făcut rele."
+     },
+     {
+      "t": " pe care DOMNUL le-a înfăptuit cu voi și cu strămoșii voștri."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה הִתְיַצְּבוּ וְאִשָּׁפְטָה אִתְּכֶם...",
+      "translation": "„Și acum, stați în picioare și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν κατάστητε, καὶ δικάσω ὑμᾶς ἐνώπιον Κυρίου καὶ ἀπαγγελῶ ὑμῖν τὴν πᾶσαν δικαιοσύνην Κυρίου, ἃ ἐποίησεν ἐν ὑμῖν καὶ ἐν τοῖς πατράσιν ὑμῶν·",
+      "greek": true,
+      "translation": "„Și acum stați, și vă voi judeca înaintea Domnului și vă voi vesti toată dreptatea Domnului, pe care a făcut-o între voi și între părinții voștri:”",
+      "note": "Septuaginta adaugă „vă voi vesti” (ἀπαγγελῶ) și are „vă voi judeca” în loc de „voi fi judecat împreună cu voi”."
+     }
+    ],
+    "refs": [
+     "Isaia 1:18",
+     "Isaia 5:3,4",
+     "Mica 6:2,3",
+     "Judecători 5:11",
+     "Ezechiel 18:25-30"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și eu voi fi judecat” — adică voi dezbate cu voi."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și acum” — adică, de vreme ce știți, stați și voi dezbate cu voi despre toate faptele drepte ale DOMNULUI..., adică biruința în dezbatere va fi de partea faptelor drepte."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Voi fi judecat împreună cu voi” — adică voi fi judecat cu voi înaintea DOMNULUI, între voi și DOMNUL, căci El a făcut dreptăți cu părinții voștri și cu voi, iar voi ați făcut rele."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Veișafeta” — mă voi certa cu voi, ca în „îi vei judeca?” (Ezechiel 20:4)."
+     }
+    ]
+   },
+   {
+    "v": "12:8",
+    "t": "Atunci când Iacov a venit în Egipt și strămoșii voștri au strigat DOMNULUI, DOMNUL i-a trimis pe Moise și Aaron și ei i-au scos pe strămoșii voștri din Egipt și i-au făcut să se așeze în acest loc.",
+    "heb": "כַּאֲשֶׁר־בָּא יַעֲקֹב מִצְרָיִם וַיִּזְעֲקוּ אֲבוֹתֵיכֶם אֶל־יְהוָה וַיִּשְׁלַח יְהוָה אֶת־מֹשֶׁה וְאֶת־אַהֲרֹן וַיּוֹצִיאוּ אֶת־אֲבֹתֵיכֶם מִמִּצְרַיִם וַיֹּשִׁבוּם בַּמָּקוֹם הַזֶּה׃",
+    "translit": "Kaașer-ba Iaakov Mițraim vaizaku avoteihem el-ADONAI vaișlah ADONAI et-Moșe veet-Aharon vaioțiu et-avoteihem mi'Mițraim vaioșivum bamakom haze.",
+    "tokens": [
+     {
+      "t": "Atunci când Iacov a venit în Egipt și strămoșii voștri "
+     },
+     {
+      "t": "au strigat",
+      "w": "au strigat",
+      "heb": "וַיִּזְעֲקוּ",
+      "translit": "vaizaku",
+      "strong": "H2199",
+      "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin plural",
+      "def_ro": "au strigat (după ajutor).",
+      "dict_ro": "Zaak — strigătul celui asuprit, verbul cu care începe mântuirea din Egipt („strigătul lor a urcat la Dumnezeu”, Exod 2:23) și refrenul cărții Judecătorilor. Argumentul lui Samuel e construit pe acest verb: de fiecare dată au strigat, iar Dumnezeu a răspuns — fără rege. Metzudat David: „nu aveau atunci rege care să le poarte războaiele”. Radak observă că versetul e comprimat: nu au strigat când a venit Iacov în Egipt, ci mult mai târziu, când s-a ridicat un rege nou și i-a asuprit."
+     },
+     {
+      "t": " DOMNULUI, DOMNUL i-a trimis pe Moise și Aaron și ei i-au scos pe strămoșii voștri din Egipt și i-au făcut să se așeze în acest loc."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כַּאֲשֶׁר־בָּא יַעֲקֹב מִצְרָיִם וַיִּזְעֲקוּ...",
+      "translation": "„Atunci când Iacov a venit în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὡς εἰσῆλθεν ᾿Ιακὼβ καὶ οἱ υἱοὶ αὐτοῦ εἰς Αἴγυπτον, καὶ ἐταπείνωσεν αὐτοὺς Αἴγυπτος, καὶ ἐβόησαν οἱ πατέρες ἡμῶν πρὸς Κύριον, καὶ ἀπέστειλε Κύριος τὸν Μωυσῆν καὶ τὸν ᾿Ααρὼν καὶ ἐξήγαγον τοὺς πατέρας ἡμῶν ἐξ Αἰγύπτου καὶ κατῴκισεν αὐτοὺς ἐν τῷ τόπῳ τούτῳ.",
+      "greek": true,
+      "translation": "„cum au intrat Iacov și fiii lui în Egipt, și i-a umilit Egiptul, și au strigat părinții noștri către Domnul, și a trimis Domnul pe Moise și pe Aaron, și au scos pe părinții noștri din Egipt, și i-a așezat în locul acesta.”",
+      "note": "Septuaginta completează ce Textul Masoretic doar sugerează: „și fiii lui” și „i-a umilit Egiptul”."
+     }
+    ],
+    "refs": [
+     "Geneza 46:5-7",
+     "Numeri 20:15",
+     "Exod 2:23,24",
+     "Exod 3:9",
+     "Exod 3:10",
+     "Psalmul 105:44"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Atunci când a venit” — adică aceasta e dezbaterea despre faptele drepte: iată, când Iacov a venit în Egipt, până la urmă părinții voștri au strigat către DOMNUL din pricina greutății robiei, iar El l-a trimis pe Moise..., și nu aveau atunci rege care să le poarte războaiele."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Atunci când Iacov a venit în Egipt și strămoșii voștri au strigat” — a vorbit pe scurt, căci când a venit Iacov în Egipt nu au strigat și nu aveau pentru ce să strige; ci după ce Iacov a venit în Egipt și zilele fiilor și nepoților lui s-au lungit acolo, s-a ridicat un rege nou peste Egipt și a dat hotărâri împotriva lui Israel, și au strigat către DOMNUL. „Și i-au făcut să se așeze în acest loc” — iată, Moise și Aaron au murit dincolo de Iordan; cum i-au așezat atunci în locul acesta? Ci ei i-au mustrat și i-au învățat să meargă pe calea DOMNULUI, și de aceea au intrat în Țară; și e ca și cum i-ar fi așezat ei în locul acesta."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vaiosivum” — din „așezare”."
+     }
+    ]
+   },
+   {
+    "v": "12:9",
+    "t": "Dar ei au uitat de DOMNUL, Dumnezeul lor, care i-a dat în mâna lui Sisra, comandantul oștirii lui Hațor, și în mâna filistenilor, și în mâna regelui Moabului, și s-au războit cu ei.",
+    "heb": "וַיִּשְׁכְּחוּ אֶת־יְהוָה אֱלֹהֵיהֶם וַיִּמְכֹּר אֹתָם בְּיַד סִיסְרָא שַׂר־צְבָא חָצוֹר וּבְיַד־פְּלִשְׁתִּים וּבְיַד מֶלֶךְ מוֹאָב וַיִּלָּחֲמוּ בָּם׃",
+    "translit": "Vaișkehu et-ADONAI Eloheihem vaimkor otam beiad Sisra sar-țeva Hațor uviad-peliștim uviad meleh Moav vailahamu bam.",
+    "tokens": [
+     {
+      "t": "Dar ei "
+     },
+     {
+      "t": "au uitat",
+      "w": "au uitat",
+      "heb": "וַיִּשְׁכְּחוּ",
+      "translit": "vaișkehu",
+      "strong": "H7911",
+      "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin plural",
+      "def_ro": "au uitat.",
+      "dict_ro": "Șahah — „a uita”; în Deuteronom e cuvântul care rezumă primejdia vieții în belșug: „păzește-te să nu-L uiți pe DOMNUL” (Deuteronom 8:11-14; 32:18). Samuel parcurge pe scurt cartea Judecătorilor: Sisera, căpetenia lui Iabin din Hațor (Judecători 4), filistenii (Judecători 10; 13) și regele Moabului, Eglon (Judecători 3:12). Verbul „i-a vândut” (vayimkor) e, după Metzudat Țion, o imagine: i-a dat în mâna lor „ca și cum i-ar fi vândut”."
+     },
+     {
+      "t": " de DOMNUL, Dumnezeul lor, care i-a dat în mâna lui Sisra, comandantul oștirii lui Hațor, și în mâna filistenilor, și în mâna regelui Moabului, și s-au războit cu ei."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁכְּחוּ אֶת־יְהוָה אֱלֹהֵיהֶם וַיִּמְכֹּר...",
+      "translation": "„Dar ei au uitat de DOMNUL...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπελάθοντο Κυρίου τοῦ Θεοῦ αὐτῶν, καὶ ἀπέδοτο αὐτοὺς εἰς χεῖρας Σισάρᾳ ἀρχιστρατήγῳ ᾿Ιαβὶν βασιλέως ᾿Ασὼρ καὶ εἰς χεῖρας ἀλλοφύλων καὶ εἰς χεῖρας βασιλέως Μωάβ, καὶ ἐπολέμησαν ἐν αὐτοῖς.",
+      "greek": true,
+      "translation": "„Și au uitat pe Domnul Dumnezeul lor, și i-a dat în mâinile lui Sisara, mai-marele oștirii lui Iabin, regele Asorului, și în mâinile filistenilor, și în mâinile regelui Moabului, și s-au războit cu ei.”",
+      "note": "Septuaginta precizează „mai-marele oștirii lui Iabin, regele Asorului”, după Judecători 4:2."
+     }
+    ],
+    "refs": [
+     "Deuteronom 32:18",
+     "Judecători 3:7",
+     "Judecători 4:2",
+     "Judecători 10:7",
+     "Judecători 13:1",
+     "Judecători 3:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dar ei au uitat” — iar când au intrat în Țară, L-au uitat pe DOMNUL, și El i-a dat în mâna neamurilor. „Și s-au războit cu ei” — adică la început ei s-au războit cu Israel, iar după o vreme DOMNUL i-a dat în mâna lor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vayimkor” — i-a dat, ca și cum i-ar fi vândut."
+     }
+    ]
+   },
+   {
+    "v": "12:10",
+    "t": "Și au strigat DOMNULUI și au spus: «Am păcătuit, căci l-am părăsit pe DOMNUL și am slujit idolilor lui Baal și idolilor lui Astarte. Dar acum, salvează-ne din mâna dușmanilor noștri și Îți vom sluji Ție.»",
+    "heb": "וַיִּזְעֲקוּ אֶל־יְהוָה וַיֹּאמְרוּ חָטָאנוּ כִּי עָזַבְנוּ אֶת־יְהוָה וַנַּעֲבֹד אֶת־הַבְּעָלִים וְאֶת־הָעַשְׁתָּרוֹת וְעַתָּה הַצִּילֵנוּ מִיַּד אֹיְבֵינוּ וְנַעַבְדֶךָּ׃",
+    "translit": "Vaizaku el-ADONAI vaiomru hatanu ki azavnu et-ADONAI vanaavod et-habealim veet-haaștarot veata hațilenu miiad oiveinu venaavdeka.",
+    "tokens": [
+     {
+      "t": "Și au strigat DOMNULUI și au spus: «Am păcătuit, căci l-am părăsit pe DOMNUL și am slujit idolilor lui Baal și "
+     },
+     {
+      "t": "idolilor lui Astarte",
+      "w": "idolilor lui Astarte",
+      "heb": "הָעַשְׁתָּרוֹת",
+      "translit": "haaștarot",
+      "strong": "H6252",
+      "pos": "substantiv propriu, feminin plural, cu articol",
+      "def_ro": "Astartele, chipurile zeiței Astarte.",
+      "dict_ro": "Aștarot — pluralul lui Aștoret, zeița canaanită a fertilității și a războiului (Iștar la babilonieni), pereche feminină a lui Baal; pluralul desemnează multele ei chipuri și sanctuare locale. Mărturisirea „am păcătuit, căci l-am părăsit pe DOMNUL și am slujit baalilor și astartelor” reia aproape exact strigătul din Judecători 10:10. Metzudat David subliniază ce nu au cerut atunci: s-au rugat, dar nu au cerut un rege care să le poarte războaiele. Radak notează o diferență între scriere și citire: textul scrie „a spus”, iar citirea tradițională e „au spus”."
+     },
+     {
+      "t": ". Dar acum, salvează-ne din mâna dușmanilor noștri și Îți vom sluji Ție.»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּזְעֲקוּ אֶל־יְהוָה וַיֹּאמְרוּ חָטָאנוּ...",
+      "translation": "„Și au strigat DOMNULUI și au...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐβόησαν πρὸς Κύριον καὶ ἔλεγον· ἡμάρτομεν, ὅτι ἐγκατελίπομεν τὸν Κύριον καὶ ἐδουλεύσαμεν τοῖς Βααλὶμ καὶ τοῖς ἄλσεσι· καὶ νῦν ἐξελοῦ ἡμᾶς ἐκ χειρὸς ἐχθρῶν ἡμῶν, καὶ δουλεύσομέν σοι.",
+      "greek": true,
+      "translation": "„Și au strigat către Domnul și ziceau: Am păcătuit, căci am părăsit pe Domnul și am slujit baalilor și dumbrăvilor; și acum scapă-ne din mâna vrăjmașilor noștri, și Îți vom sluji.”",
+      "note": "Septuaginta traduce Aștarot prin „dumbrăvi” (τοῖς ἄλσεσι), confundându-le cu așerim, stâlpii sacri."
+     }
+    ],
+    "refs": [
+     "Judecători 10:10,15",
+     "Judecători 3:9,15",
+     "Judecători 2:13",
+     "Psalmul 106:44",
+     "1 Samuel 7:2",
+     "Luca 1:74,75"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și au strigat” — s-au rugat DOMNULUI, dar nu au cerut un rege care să le poarte războaiele."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Am păcătuit” — e scris „a spus”, iar citirea este „au spus”; scrierea e la modul general, iar citirea la modul particular."
+     }
+    ]
+   },
+   {
+    "v": "12:11",
+    "t": "Așa că DOMNUL l-a trimis pe Ierubaal (n.t. Ghideon) și pe Bedan (n.t. Samson) și pe Iefta și pe Samuel și v-a salvat din mâna dușmanilor dimprejurul vostru, și v-a făcut să locuiți în siguranță.",
+    "heb": "וַיִּשְׁלַח יְהוָה אֶת־יְרֻבַּעַל וְאֶת־בְּדָן וְאֶת־יִפְתָּח וְאֶת־שְׁמוּאֵל וַיַּצֵּל אֶתְכֶם מִיַּד אֹיְבֵיכֶם מִסָּבִיב וַתֵּשְׁבוּ בֶּטַח׃",
+    "translit": "Vaișlah ADONAI et-Ierubaal veet-Bedan veet-Iftah veet-Șemuel vaiațel ethem miiad oiveihem misaviv vateșvu betah.",
+    "tokens": [
+     {
+      "t": "Așa că DOMNUL l-a trimis pe Ierubaal (n.t. Ghideon) și pe "
+     },
+     {
+      "t": "Bedan",
+      "w": "Bedan",
+      "heb": "בְּדָן",
+      "translit": "Bedan",
+      "strong": "H917",
+      "pos": "substantiv propriu, masculin",
+      "def_ro": "Bedan, identificat de tradiție cu Samson.",
+      "dict_ro": "Bedan — nume care nu apare în cartea Judecătorilor. Targumul, Rashi, Radak și Talmudul (Roș Hașana 25a) îl identifică cu Samson: „ben Dan”, „fiul lui Dan”, din tribul Dan; Septuaginta citește în schimb „Barac”, iar Evrei 11:32 enumeră „Ghedeon, Barac, Samson, Iefta... Samuel”. Talmudul (Roș Hașana 25b) învață din acest verset că judecătorii mai mărunți — Ierubaal, Bedan, Iefta — sunt puși alături de cei mai mari, Moise, Aaron și Samuel: „Iefta în generația lui e ca Samuel în generația lui”; oricine e numit conducător trebuie ascultat ca cel mai mare dintre cei mari."
+     },
+     {
+      "t": " (n.t. Samson) și pe Iefta și pe Samuel și v-a salvat din mâna dușmanilor dimprejurul vostru, și v-a făcut să locuiți în siguranță."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח יְהוָה אֶת־יְרֻבַּעַל וְאֶת־בְּדָן...",
+      "translation": "„Așa că DOMNUL l-a trimis pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπέστειλε Κύριος τὸν ῾Ιεροβάαλ καὶ τὸν Βαρὰκ καὶ τὸν ᾿Ιεφθάε καὶ τὸν Σαμουὴλ καὶ ἐξείλατο ἡμᾶς ἐκ χειρὸς ἐχθρῶν ἡμῶν τῶν κυκλόθεν, καὶ κατῳκεῖτε πεποιθότες.",
+      "greek": true,
+      "translation": "„Și a trimis Domnul pe Ierobaal și pe Barac și pe Iefta și pe Samuel și ne-a scos din mâna vrăjmașilor noștri de primprejur, și ați locuit fără grijă.”",
+      "note": "Divergență reală: Septuaginta are „Barac” (Βαράκ) în loc de „Bedan”."
+     }
+    ],
+    "refs": [
+     "Judecători 6:14,32",
+     "Judecători 8:29,35",
+     "Judecători 13:1-16",
+     "Judecători 11:1-33",
+     "1 Samuel 7:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ierubaal” — acesta este Ghedeon. „Bedan” — acesta este Samson, care era din tribul Dan. „Și pe Iefta” — iată trei conducători neînsemnați puși alături de trei conducători mari ai lumii — Moise, Aaron și Samuel —, ca să te învețe că cel neînsemnat în generația lui e egal cu cel mare în generația lui; orice tribunal numit peste generație trebuie ascultat ca și cum membrii lui ar fi cei mai mari dintre nobili."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și DOMNUL l-a trimis pe Ierubaal” — deși nu domneau ca regi în Israel, DOMNUL v-a salvat prin ei din mâna dușmanilor care locuiau de jur împrejur."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ierubaal” — acesta este Ghedeon. „Și pe Bedan” — acesta este Samson, și așa a tradus Ionatan; iar Bedan înseamnă „ben Dan”, căci era din familia daniților; și, deși a fost după Iefta, l-a pus înaintea lui Iefta pentru că era mai mare decât el. „Și pe Samuel” — ar fi trebuit să spună „și pe mine”, dar așa e obiceiul limbii în unele locuri, ca „femeile lui Lameh” (Geneza 4:23)."
+     },
+     {
+      "author": "Talmud Bavli, Roș Hașana 25a-b",
+      "text": "„Și DOMNUL l-a trimis pe Ierubaal și pe Bedan și pe Iefta și pe Samuel” (1 Samuel 12:11). Ierubaal — acesta este Ghedeon, numit așa pentru că s-a certat cu Baal; Bedan — acesta este Samson, numit așa pentru că venea din Dan; Iefta — după sensul lui. Scriptura a pus trei dintre cei ușori ai lumii alături de trei dintre cei grei ai lumii, Moise, Aaron și Samuel, ca să te învețe că Ierubaal în generația lui e ca Moise în generația lui, Bedan în generația lui e ca Aaron în generația lui, Iefta în generația lui e ca Samuel în generația lui: chiar cel mai ușor dintre cei ușori, odată numit conducător peste obște, e ca cel mai mare dintre cei mari."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ierubaal” — acesta este Ghedeon. „Bedan” — ben Dan, adică Samson, din fiii lui Dan."
+     }
+    ]
+   },
+   {
+    "v": "12:12",
+    "t": "Și ați văzut că Nahaș, regele copiilor lui Amon, a venit peste voi și Mi-ați spus: «Nu, ci un rege să domnească peste noi!», dar DOMNUL, Dumnezeul vostru, este Regele vostru.",
+    "heb": "וַתִּרְאוּ כִּי־נָחָשׁ מֶלֶךְ בְּנֵי־עַמּוֹן בָּא עֲלֵיכֶם וַתֹּאמְרוּ לִי לֹא כִּי־מֶלֶךְ יִמְלֹךְ עָלֵינוּ וַיהוָה אֱלֹהֵיכֶם מַלְכְּכֶם׃",
+    "translit": "Vatiru ki-Nahaș meleh benei-Amon ba aleihem vatomru li lo ki-meleh imloh aleinu v'ADONAI Eloheihem malkehem.",
+    "tokens": [
+     {
+      "t": "Și ați văzut că "
+     },
+     {
+      "t": "Nahaș",
+      "w": "Nahaș",
+      "heb": "נָחָשׁ",
+      "translit": "Nahaș",
+      "strong": "H5176",
+      "pos": "substantiv propriu, masculin",
+      "def_ro": "Nahaș („șarpe”), regele amoniților.",
+      "dict_ro": "Nahaș — numele înseamnă „șarpe”; regele lui Amon care asediase Iaveș-Ghileadul și ceruse ca locuitorilor să li se scoată ochiul drept (1 Samuel 11:1-2). Samuel dezvăluie aici ce stătea, de fapt, în spatele cererii unui rege: frica de Nahaș. Metzudat David o explică: „ați spus: nu vrem să fim ca părinții noștri, înaintea cărora ieșea judecătorul la luptă, ci un rege să domnească peste noi și să ne poarte războaiele” — deși „DOMNUL, Dumnezeul vostru, este Regele vostru”, ca în Judecători 8:23."
+     },
+     {
+      "t": ", regele copiilor lui Amon, a venit peste voi și Mi-ați spus: «Nu, ci un rege să domnească peste noi!», dar DOMNUL, Dumnezeul vostru, este Regele vostru."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתִּרְאוּ כִּי־נָחָשׁ מֶלֶךְ בְּנֵי־עַמּוֹן...",
+      "translation": "„Și ați văzut că Nahaș, regele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἴδετε ὅτι Νάας βασιλεὺς υἱῶν ᾿Αμμὼν ἦλθεν ἐφ᾿ ὑμᾶς, καὶ εἴπατε· οὐχί, ἀλλ᾿ ἢ ὅτι βασιλεὺς βασιλεύσει ἐφ᾿ ἡμῶν· καὶ Κύριος ὁ Θεὸς ἡμῶν βασιλεὺς ἡμῶν.",
+      "greek": true,
+      "translation": "„Și ați văzut că Naas, regele fiilor lui Amon, a venit asupra voastră, și ați zis: Nu, ci un rege să domnească peste noi; iar Domnul Dumnezeul nostru este regele nostru.”",
+      "note": "Septuaginta are „Domnul Dumnezeul nostru este regele nostru” (persoana I plural)."
+     }
+    ],
+    "refs": [
+     "1 Samuel 11:1,2",
+     "1 Samuel 8:7",
+     "1 Samuel 10:19",
+     "Judecători 8:23",
+     "Numeri 23:21",
+     "Isaia 33:22"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și ați văzut” — adică voi, când ați văzut că a venit asupra voastră război, mi-ați spus: nu vom fi ca părinții noștri, înaintea cărora ieșea judecătorul la război, ci un rege să domnească peste noi și el să ne poarte războaiele. „Dar DOMNUL” — dar DOMNUL este Regele vostru și El vă poartă războaiele împreună cu judecătorul care va fi; deci ați lucrat nechibzuit cerând un rege, căci ați spus că n-ați găsit nimic în mâna mea, și ați văzut că DOMNUL nu e împiedicat să mântuiască prin judecător, fără rege."
+     }
+    ]
+   },
+   {
+    "v": "12:13",
+    "t": "Și acum, iată, regele pe care l-ați ales, pe care l-ați cerut! Și iată, DOMNUL a pus un rege peste voi.",
+    "heb": "וְעַתָּה הִנֵּה הַמֶּלֶךְ אֲשֶׁר בְּחַרְתֶּם אֲשֶׁר שְׁאֶלְתֶּם וְהִנֵּה נָתַן יְהוָה עֲלֵיכֶם מֶלֶךְ׃",
+    "translit": "Veata hine hameleh așer behartem așer șeeltem vehine natan ADONAI aleihem meleh.",
+    "tokens": [
+     {
+      "t": "Și acum, iată, regele pe care l-ați ales, "
+     },
+     {
+      "t": "pe care l-ați cerut",
+      "w": "pe care l-ați cerut",
+      "heb": "אֲשֶׁר שְׁאֶלְתֶּם",
+      "translit": "așer șeeltem",
+      "strong": "H7592",
+      "pos": "pronume relativ + verb, qal, perfect, persoana a II-a masculin plural",
+      "def_ro": "pe care l-ați cerut.",
+      "dict_ro": "Șaal — „a cere”; din același verb vine numele Șaul, „cel cerut”. Jocul de cuvinte străbate tot episodul: „regele pe care l-ați cerut (șeeltem)” sună ca numele lui Șaul, iar mustrarea din 12:17 și 12:19 repetă „cerând (lișol) un rege”. Metzudat David explică perechea „ales” și „cerut”: întâi l-au cerut, iar după biruința de la Iaveș l-au și ales de bunăvoie; deci acum „ce a trecut nu mai este” — regele rămâne."
+     },
+     {
+      "t": "! Și iată, DOMNUL a pus un rege peste voi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה הִנֵּה הַמֶּלֶךְ אֲשֶׁר...",
+      "translation": "„Și acum, iată, regele pe care...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν ἰδοὺ ὁ βασιλεύς, ὃν ἐξελέξασθε, καὶ ἰδοὺ δέδωκε Κύριος ἐφ᾿ ὑμᾶς βασιλέα.",
+      "greek": true,
+      "translation": "„Și acum, iată regele pe care l-ați ales, și iată, Domnul a pus rege peste voi.”",
+      "note": "Septuaginta nu are „pe care l-ați cerut”."
+     }
+    ],
+    "refs": [
+     "1 Samuel 10:24",
+     "1 Samuel 11:15",
+     "1 Samuel 8:5",
+     "Osea 13:11",
+     "Faptele Apostolilor 13:21"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și acum, iată, regele” — dar acum, ce a trecut nu mai este, căci iată, regele domnește și stă. „Pe care l-ați ales” — adică acesta e regele pe care l-ați ales pentru mântuirea pe care a făcut-o; după ce ați cerut un rege și Sfântul, binecuvântat fie El, v-a încuviințat cererea și l-a făcut rege, v-ați întors și l-ați ales de la voi înșivă; deci, după toate acestea, nu mai e cale de întoarcere, și el va domni."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Pe care l-ați ales, pe care l-ați cerut” — alef-ul cu segol, și tot așa „n-ați întrebat (șealtem) pe trecătorii drumului?” (Iov 21:29). „DOMNUL a pus un rege peste voi” — adică ca să vă mântuiască."
+     }
+    ]
+   },
+   {
+    "v": "12:14",
+    "t": "Dacă vă veți teme de DOMNUL și Îi veți sluji și veți asculta de glasul Său și nu vă veți răzvrăti împotriva glasului DOMNULUI, și dacă atât voi, cât și regele care domnește peste voi, veți merge după DOMNUL, Dumnezeul tău, [atunci va fi bine.]",
+    "heb": "אִם־תִּירְאוּ אֶת־יְהוָה וַעֲבַדְתֶּם אֹתוֹ וּשְׁמַעְתֶּם בְּקֹלוֹ וְלֹא תַמְרוּ אֶת־פִּי יְהוָה וִהְיִתֶם גַּם־אַתֶּם וְגַם־הַמֶּלֶךְ אֲשֶׁר מָלַךְ עֲלֵיכֶם אַחַר יְהוָה אֱלֹהֵיכֶם׃",
+    "translit": "Im-tireu et-ADONAI vaavadetem oto ușematem bekolo velo tamru et-pi ADONAI vihitem gam-atem vegam-hameleh așer malah aleihem ahar ADONAI Eloheihem.",
+    "tokens": [
+     {
+      "t": "Dacă vă veți teme de DOMNUL și Îi veți sluji și veți asculta de glasul Său și "
+     },
+     {
+      "t": "nu vă veți răzvrăti",
+      "w": "nu vă veți răzvrăti",
+      "heb": "וְלֹא תַמְרוּ",
+      "translit": "velo tamru",
+      "strong": "H4784",
+      "pos": "conjuncție + negație + verb, hifil, imperfect, persoana a II-a masculin plural",
+      "def_ro": "nu vă veți împotrivi, nu vă veți răscula.",
+      "dict_ro": "Mara — „a fi îndărătnic, a se răzvrăti”, de la aceeași rădăcină cu meri, „răzvrătire” (Metzudat Țion); e verbul cu care Moise descrie poporul din pustie: „ați fost răzvrătiți împotriva DOMNULUI” (Deuteronom 9:7, 24). Versetul e o condiție fără încheiere explicită: traducerea Rosen o completează între paranteze „[atunci va fi bine]”, iar Rashi o citește ca făgăduință: „veți trăi mult, și voi, și regele”. Metzudat David: atunci regele va merge înaintea voastră la luptă, iar voi toți veți fi „după DOMNUL”."
+     },
+     {
+      "t": " împotriva glasului DOMNULUI, și dacă atât voi, cât și regele care domnește peste voi, veți merge după DOMNUL, Dumnezeul tău, [atunci va fi bine.]"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אִם־תִּירְאוּ אֶת־יְהוָה וַעֲבַדְתֶּם אֹתוֹ...",
+      "translation": "„Dacă vă veți teme de DOMNUL...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐὰν φοβηθῆτε τὸν Κύριον καὶ δουλεύσητε αὐτῷ καὶ ἀκούσητε τῆς φωνῆς αὐτοῦ καὶ μὴ ἐρίσητε τῷ στόματι Κυρίου καὶ ἦτε καὶ ὑμεῖς καὶ ὁ βασιλεὺς ὁ βασιλεύων ἐφ᾿ ὑμῶν ὀπίσω Κυρίου πορευόμενοι·",
+      "greek": true,
+      "translation": "„Dacă vă veți teme de Domnul și Îi veți sluji și veți asculta glasul Lui și nu vă veți certa cu gura Domnului, și veți fi și voi și regele care domnește peste voi mergând după Domnul...”",
+      "note": "Corespondență strânsă; ca și Textul Masoretic, Septuaginta lasă condiția fără încheiere."
+     }
+    ],
+    "refs": [
+     "Deuteronom 28:1-14",
+     "Iosua 24:14,20",
+     "Isaia 3:10",
+     "Romani 2:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Atunci și voi” — veți trăi mult, și voi și regele."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Dacă vă veți teme” — adică însă dacă vă veți teme de DOMNUL..., atunci toți veți fi după DOMNUL, căci El va merge înaintea voastră la război, iar voi veți merge după El."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tamru” — din „împotrivire și răscoală”."
+     }
+    ]
+   },
+   {
+    "v": "12:15",
+    "t": "Dar dacă nu veți asculta de glasul DOMNULUI și vă veți răzvrăti împotriva vorbei DOMNULUI, atunci mâna DOMNULUI va fi împotriva voastră și împotriva părinților voștri.",
+    "heb": "וְאִם־לֹא תִשְׁמְעוּ בְּקוֹל יְהוָה וּמְרִיתֶם אֶת־פִּי יְהוָה וְהָיְתָה יַד־יְהוָה בָּכֶם וּבַאֲבֹתֵיכֶם׃",
+    "translit": "Veim-lo tișmeu bekol ADONAI umeritem et-pi ADONAI vehaita iad-ADONAI bahem uvaavoteihem.",
+    "tokens": [
+     {
+      "t": "Dar dacă nu veți asculta de glasul DOMNULUI și vă veți răzvrăti împotriva vorbei DOMNULUI, atunci "
+     },
+     {
+      "t": "mâna DOMNULUI",
+      "w": "mâna DOMNULUI",
+      "heb": "יַד־יְהוָה",
+      "translit": "iad-ADONAI",
+      "strong": "H3027",
+      "pos": "substantiv, feminin singular, în construcție + numele divin",
+      "def_ro": "mâna DOMNULUI (puterea Lui care lovește).",
+      "dict_ro": "Iad — mâna, simbolul puterii; „mâna DOMNULUI” e expresia loviturii divine, ca la plăgile Egiptului (Exod 9:3). Finalul versetului, „împotriva voastră și împotriva părinților voștri”, e greu, fiindcă părinții muriseră; comentatorii dau trei explicații: Rashi — „împotriva voastră, cum a fost împotriva părinților voștri”; Metzudat David și Radak — „părinții” sunt regii, căci conducătorul e numit „tată” (Geneza 45:8); Talmudul (Yevamot 63b) — dezgroparea morților, căci „pentru vina celor vii sunt dezgropați morții”."
+     },
+     {
+      "t": " va fi împotriva voastră și împotriva părinților voștri."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאִם־לֹא תִשְׁמְעוּ בְּקוֹל יְהוָה...",
+      "translation": "„Dar dacă nu veți asculta de...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐὰν δὲ μὴ ἀκούσητε τῆς φωνῆς Κυρίου καὶ ἐρίσητε τῷ στόματι Κυρίου, καὶ ἔσται χεὶρ Κυρίου ἐφ᾿ ὑμᾶς καὶ ἐπὶ τὸν βασιλέα ὑμῶν.",
+      "greek": true,
+      "translation": "„dar dacă nu veți asculta glasul Domnului și vă veți certa cu gura Domnului, mâna Domnului va fi asupra voastră și asupra regelui vostru.”",
+      "note": "Divergență reală: Septuaginta are „asupra regelui vostru” în loc de „asupra părinților voștri” — aceeași înțelegere pe care o dau Metzudat David și Radak textului ebraic."
+     }
+    ],
+    "refs": [
+     "Levitic 26:14-30",
+     "Deuteronom 28:15-68",
+     "Iosua 24:20",
+     "Isaia 1:20",
+     "Romani 2:8,9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Atunci mâna DOMNULUI va fi împotriva voastră și împotriva părinților voștri” — adică va fi împotriva voastră cum a fost împotriva părinților voștri. Înțelepții noștri însă au spus că „împotriva voastră și împotriva părinților voștri” se referă la dezgroparea morților, care e o ocară pentru morți (Yevamot 63b)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Mâna DOMNULUI” — lovitura mâinii DOMNULUI. „Și împotriva părinților voștri” — și împotriva regilor voștri, căci orice căpetenie și conducător e numit „tată”, și tot așa „m-a pus tată pentru Faraon” (Geneza 45:8)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și împotriva părinților voștri” — ca „și împotriva regelui vostru”, căci stăpânul poporului e ca tatăl pentru fiu, și tot așa a spus „m-a pus tată pentru Faraon”; iar Targumul lui Ionatan traduce „cum a fost împotriva părinților voștri”. Înțelepții noștri au explicat: dezgroparea morților, căci s-a spus: pentru vina celor vii sunt dezgropați morții; adică, dacă vă veți împotrivi poruncii DOMNULUI, mâna DOMNULUI va fi împotriva voastră și chiar împotriva părinților voștri care au murit, pe care îi vor scoate din morminte spre batjocură."
+     },
+     {
+      "author": "Talmud Bavli, Yevamot 63b",
+      "text": "Au dezgropat morții din morminte pentru că evreii se bucură la sărbătorile neamurilor, precum s-a spus: „atunci mâna DOMNULUI va fi împotriva voastră și împotriva părinților voștri” (1 Samuel 12:15). Rabba bar Șmuel a spus: e vorba de dezgroparea morților, căci Învățătorul a spus: pentru vina celor vii sunt dezgropați morții."
+     }
+    ]
+   },
+   {
+    "v": "12:16",
+    "t": "Chiar acum, stați în picioare și priviți acest lucru măreț pe care DOMNUL îl face înaintea ochilor voștri.",
+    "heb": "גַּם־עַתָּה הִתְיַצְּבוּ וּרְאוּ אֶת־הַדָּבָר הַגָּדוֹל הַזֶּה אֲשֶׁר יְהוָה עֹשֶׂה לְעֵינֵיכֶם׃",
+    "translit": "Gam-ata hitiațevu ureu et-hadavar hagadol haze așer ADONAI ose leeineihem.",
+    "tokens": [
+     {
+      "t": "Chiar acum, stați în picioare și priviți "
+     },
+     {
+      "t": "acest lucru măreț",
+      "w": "acest lucru măreț",
+      "heb": "הַדָּבָר הַגָּדוֹל הַזֶּה",
+      "translit": "hadavar hagadol haze",
+      "strong": "H1419",
+      "pos": "substantiv cu articol + adjectiv cu articol + demonstrativ",
+      "def_ro": "acest lucru mare.",
+      "dict_ro": "Gadol — „mare”; „lucrul cel mare” anunță un semn vizibil care să confirme cuvântul profetului, ca la Marea Roșie („stați și vedeți mântuirea DOMNULUI”, Exod 14:13 — aceeași poruncă: hityațvu ureu). Rashi explică rostul semnului: precum rugăciunea mea poate schimba anotimpurile, tot așa ar fi putut să vă apere de dușman, și nu era nevoie să cereți un rege cât trăiesc eu. Metzudat David adaugă o lecție despre căile lui Dumnezeu: El împlinește uneori o cerere chiar dacă e rea în ochii Lui."
+     },
+     {
+      "t": " pe care DOMNUL îl face înaintea ochilor voștri."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "גַּם־עַתָּה הִתְיַצְּבוּ וּרְאוּ אֶת־הַדָּבָר...",
+      "translation": "„Chiar acum, stați în picioare și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν κατάστητε καὶ ἴδετε τὸ ῥῆμα τό μέγα τοῦτο, ὃ ὁ Κύριος ποιήσει ἐν ὀφθαλμοῖς ὑμῶν.",
+      "greek": true,
+      "translation": "„Și acum stați și vedeți lucrul acesta mare pe care îl va face Domnul înaintea ochilor voștri.”",
+      "note": "Septuaginta pune verbul la viitor: „îl va face”."
+     }
+    ],
+    "refs": [
+     "1 Samuel 12:7",
+     "Exod 14:13,31"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Stați în picioare și priviți” — precum, prin rugăciunea mea, pot schimba anotimpurile, tot așa, dacă v-ar fi venit un război, rugăciunea mea ar fi avut puterea să vă apere de dușman, și nu aveați nevoie să cereți un rege cât trăiesc eu, chiar dacă sunt bătrân."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Chiar acum” — adică dacă veți răspunde: dacă cererea unui rege era rea în ochii DOMNULUI, de ce ne-a încuviințat-o? La aceasta vă răspund: chiar acum, după ce v-a încuviințat-o, stați și vedeți..., și din aceasta veți pricepe căile DOMNULUI, care împlinește cererea celui care cere chiar dacă e rea în ochii DOMNULUI și chiar dacă nu e spre binele celui care o cere."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Acest lucru măreț” — ce lucru mare era ploaia la vremea secerișului, care vine de multe ori? Tatăl meu, stăpânul meu, de binecuvântată amintire, a explicat că în Țara lui Israel nu cădea deloc ploaie în toate zilele secerișului, cum spune Scriptura: „care dă ploaia timpurie și târzie la vremea ei și ne păstrează săptămânile hotărâte pentru seceriș” (Ieremia 5:24); de aceea ploaia la seceriș era un lucru nemaiauzit pentru ei, și s-au temut foarte tare."
+     }
+    ]
+   },
+   {
+    "v": "12:17",
+    "t": "Nu este oare astăzi vremea culesului grâului? Și totuși, voi striga către DOMNUL și el va trimite tunete și ploaie și veți cunoaște și veți vedea că mare este răul vostru pe care l-ați făcut înaintea ochilor DOMNULUI, cerând un rege pentru voi.”",
+    "heb": "הֲלוֹא קְצִיר־חִטִּים הַיּוֹם אֶקְרָא אֶל־יְהוָה וְיִתֵּן קֹלוֹת וּמָטָר וּדְעוּ וּרְאוּ כִּי־רָעַתְכֶם רַבָּה אֲשֶׁר עֲשִׂיתֶם בְּעֵינֵי יְהוָה לִשְׁאוֹל לָכֶם מֶלֶךְ׃",
+    "translit": "Halo kețir-hitim haiom ekra el-ADONAI veiten kolot umatar udeu ureu ki-raathem raba așer asitem beein ei ADONAI lișol lahem meleh.",
+    "tokens": [
+     {
+      "t": "Nu este oare astăzi vremea "
+     },
+     {
+      "t": "culesului grâului",
+      "w": "culesului grâului",
+      "heb": "קְצִיר־חִטִּים",
+      "translit": "kețir-hitim",
+      "strong": "H7105",
+      "pos": "substantiv, masculin singular, în construcție + substantiv, feminin plural",
+      "def_ro": "secerișul grâului.",
+      "dict_ro": "Kațir hitim — secerișul grâului, la începutul verii, în preajma sărbătorii Șavuot (Exod 34:22), în plin sezon secetos, când ploaia nu cade aproape niciodată în Țara lui Israel. Ploaia în acest anotimp nu era binecuvântare, ci pagubă: grâul copt, ud, putrezește. Talmudul (Taanit 12b) învață de aici că ploaia căzută după ieșirea lunii Nisan e „semn de blestem”. Rashi adaugă: deși Dumnezeu nu aduce bucuros pedeapsa fără rost, puterea rugăciunii profetului e atât de mare încât El va răspunde."
+     },
+     {
+      "t": "? Și totuși, voi striga către DOMNUL și el va trimite tunete și ploaie și veți cunoaște și veți vedea că mare este răul vostru pe care l-ați făcut înaintea ochilor DOMNULUI, cerând un rege pentru voi.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֲלוֹא קְצִיר־חִטִּים הַיּוֹם אֶקְרָא...",
+      "translation": "„Nu este oare astăzi vremea culesului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐχὶ θερισμὸς πυρῶν σήμερον; ἐπικαλέσομαι Κύριον, καὶ δώσει φωνὰς καὶ ὑετόν, καὶ γνῶτε καὶ ἴδετε ὅτι ἡ κακία ὑμῶν μεγάλη, ἣν ἐποιήσατε ἐνώπιον Κυρίου, αἰτήσαντες ἑαυτοῖς βασιλέα.",
+      "greek": true,
+      "translation": "„Oare nu este secerișul grâului astăzi? Voi chema pe Domnul, și va da tunete și ploaie; și cunoașteți și vedeți că mare este răutatea voastră pe care ați făcut-o înaintea Domnului, cerându-vă rege.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Proverbe 26:1",
+     "1 Samuel 7:9,10",
+     "Iosua 10:12",
+     "Psalmul 99:6",
+     "Ieremia 15:1",
+     "Iacov 5:16-18"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Nu este oare astăzi vremea culesului grâului?” — iar ploaia e semn de blestem (Taanit 12b), și Sfântul, binecuvântat fie El, nu vrea să aducă pedeapsa fără nevoie; totuși, am putere, și voi chema pe DOMNUL, și El va da tunete și ploaie. „Și veți cunoaște și veți vedea” — că nu era nevoie să cereți un rege și să mă nesocotiți."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nu este oare astăzi vremea culesului grâului?” — deci acum ploaia va fi socotită blestem și e rea în ochii DOMNULUI, să aducă blestem în lume fără pricină. „Voi striga” — și cu toate acestea, când voi chema pe DOMNUL pentru ploaie, El îmi va asculta glasul și va da tunete și ploaie, căci așa împlinește cererea celui care cere, fie ea bună sau rea. „Și veți cunoaște” — și prin aceasta să știți că mare este răul vostru, cum v-am spus, și, deși Cel Omniprezent v-a încuviințat cererea, căci așa sunt faptele DOMNULUI, adevărul este că v-ați făcut rău vouă înșivă, și e rău și în ochii DOMNULUI."
+     },
+     {
+      "author": "Talmud Bavli, Taanit 12b",
+      "text": "După ce a trecut luna Nisan nu se mai roagă pentru ploaie, căci dacă a ieșit Nisan și cad ploi, ele sunt semn de blestem, precum s-a spus: „Nu este oare astăzi vremea culesului grâului? Voi striga către DOMNUL și El va trimite tunete și ploaie și veți cunoaște și veți vedea că mare este răul vostru” (1 Samuel 12:17)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Raba” — mare."
+     }
+    ]
+   },
+   {
+    "v": "12:18",
+    "t": "Și Samuel a strigat către DOMNUL, iar DOMNUL a trimis tunete și ploaie în ziua aceea; și tot poporul s-a temut mult de DOMNUL și de Samuel.",
+    "heb": "וַיִּקְרָא שְׁמוּאֵל אֶל־יְהוָה וַיִּתֵּן יְהוָה קֹלֹת וּמָטָר בַּיּוֹם הַהוּא וַיִּירָא כָל־הָעָם מְאֹד אֶת־יְהוָה וְאֶת־שְׁמוּאֵל׃",
+    "translit": "Vaikra Șemuel el-ADONAI vaiten ADONAI kolot umatar baiom hahu vaira hol-haam meod et-ADONAI veet-Șemuel.",
+    "tokens": [
+     {
+      "t": "Și Samuel a strigat către DOMNUL, iar DOMNUL a trimis "
+     },
+     {
+      "t": "tunete",
+      "w": "tunete",
+      "heb": "קֹלֹת",
+      "translit": "kolot",
+      "strong": "H6963",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "tunete; literal: glasuri.",
+      "dict_ro": "Kolot — literal „glasuri”; în Biblie, pluralul desemnează adesea tunetele, „glasurile” lui Dumnezeu, ca la plaga grindinei (Exod 9:23-29) și la Sinai (Exod 19:16). Metzudat David explică de ce poporul s-a temut „de DOMNUL și de Samuel”: de DOMNUL, pentru păcatul cererii unui rege; de Samuel, pentru că au pus un rege în timpul vieții lui, ca și cum l-ar fi lepădat. Teama de Dumnezeu și de slujitorul Lui apare împreună și după trecerea Mării (Exod 14:31)."
+     },
+     {
+      "t": " și ploaie în ziua aceea; și tot poporul s-a temut mult de DOMNUL și de Samuel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּקְרָא שְׁמוּאֵל אֶל־יְהוָה וַיִּתֵּן...",
+      "translation": "„Și Samuel a strigat către DOMNUL...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπεκαλέσατο Σαμουὴλ τὸν Κύριον, καὶ ἔδωκε Κύριος φωνὰς καὶ ὑετὸν ἐν τῇ ἡμέρᾳ ἐκείνῃ· καὶ ἐφοβήθησαν πᾶς ὁ λαὸς τὸν Κύριον σφόδρα καὶ τὸν Σαμουήλ.",
+      "greek": true,
+      "translation": "„Și a chemat Samuel pe Domnul, și a dat Domnul tunete și ploaie în ziua aceea; și s-a temut tot poporul foarte de Domnul și de Samuel.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 9:23-25",
+     "Exod 14:31",
+     "Ezra 10:9",
+     "Psalmul 106:12,13",
+     "Apocalipsa 11:5,6"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și Samuel a strigat” — pentru ploaie, cum spusese. „De DOMNUL” — pentru păcatul cererii unui rege. „Și de Samuel” — pentru că au pus un rege în timpul vieții lui, și ca și cum l-ar fi lepădat."
+     }
+    ]
+   },
+   {
+    "v": "12:19",
+    "t": "Și tot poporul i-a spus lui Samuel: „Roagă-te DOMNULUI, Dumnezeului tău, în numele slujitorilor tăi, ca să nu murim; căci am adăugat răutate la toate păcatele noastre, cerând un rege pentru noi.”",
+    "heb": "וַיֹּאמְרוּ כָל־הָעָם אֶל־שְׁמוּאֵל הִתְפַּלֵּל בְּעַד־עֲבָדֶיךָ אֶל־יְהוָה אֱלֹהֶיךָ וְאַל־נָמוּת כִּי־יָסַפְנוּ עַל־כָּל־חַטֹּאתֵינוּ רָעָה לִשְׁאֹל לָנוּ מֶלֶךְ׃",
+    "translit": "Vaiomru hol-haam el-Șemuel hitpalel bead-avadeha el-ADONAI Eloheha veal-namut ki-iasafnu al-kol-hatoteinu raa lișol lanu meleh.",
+    "tokens": [
+     {
+      "t": "Și tot poporul i-a spus lui Samuel: „"
+     },
+     {
+      "t": "Roagă-te",
+      "w": "Roagă-te",
+      "heb": "הִתְפַּלֵּל",
+      "translit": "hitpalel",
+      "strong": "H6419",
+      "pos": "verb, hitpael, imperativ, masculin singular",
+      "def_ro": "roagă-te, mijlocește.",
+      "dict_ro": "Palal (hitpael: hitpalel) — „a se ruga”; rădăcina are sensul de bază „a judeca, a hotărî” (pelilim, „judecători”), astfel încât rugăciunea e, într-un fel, prezentarea propriei pricini înaintea Judecătorului. Samuel e în Scriptură mijlocitorul prin excelență, alături de Moise (Ieremia 15:1; Psalmul 99:6), iar poporul recunoaște acum că are nevoie de rugăciunea lui, nu de un rege. Metzudat David: „la toate păcatele pe care le-am făcut de atunci, am mai adăugat răul cererii unui rege”."
+     },
+     {
+      "t": " DOMNULUI, Dumnezeului tău, în numele slujitorilor tăi, ca să nu murim; căci am adăugat răutate la toate păcatele noastre, cerând un rege pentru noi.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמְרוּ כָל־הָעָם אֶל־שְׁמוּאֵל הִתְפַּלֵּל...",
+      "translation": "„Și tot poporul i-a spus lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπαν πᾶς ὁ λαὸς πρὸς Σαμουήλ· πρόσευξαι ὑπὲρ τῶν δούλων σου πρὸς Κύριον Θεόν σου, καὶ οὐ μὴ ἀποθάνωμεν, ὅτι προστεθείκαμεν πρὸς πάσας τὰς ἁμαρτίας ἡμῶν κακίαν αἰτήσαντες ἑαυτοῖς βασιλέα.",
+      "greek": true,
+      "translation": "„Și a zis tot poporul către Samuel: Roagă-te pentru robii tăi Domnului Dumnezeului tău, ca să nu murim, căci am adăugat la toate păcatele noastre răutate, cerându-ne rege.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "1 Samuel 7:5,8",
+     "Geneza 20:7",
+     "Exod 9:28",
+     "Iov 42:8",
+     "Faptele Apostolilor 8:24",
+     "1 Ioan 5:16"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„La toate păcatele noastre” — la păcatele pe care le-am făcut de atunci, am mai adăugat să facem rău cerând un rege."
+     }
+    ]
+   },
+   {
+    "v": "12:20",
+    "t": "Iar Samuel a spus poporului: „Nu vă temeți! Ați făcut toată această răutate, dar nu vă abateți de la a urma pe DOMNUL, ci slujiți-L pe DOMNUL cu toată inima voastră.",
+    "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל־הָעָם אַל־תִּירָאוּ אַתֶּם עֲשִׂיתֶם אֵת כָּל־הָרָעָה הַזֹּאת אַךְ אַל־תָּסוּרוּ מֵאַחֲרֵי יְהוָה וַעֲבַדְתֶּם אֶת־יְהוָה בְּכָל־לְבַבְכֶם׃",
+    "translit": "Vaiomer Șemuel el-haam al-tirau atem asitem et kol-haraa hazot ah al-tasuru meaharei ADONAI vaavadetem et-ADONAI behol levavhem.",
+    "tokens": [
+     {
+      "t": "Iar Samuel a spus poporului: „"
+     },
+     {
+      "t": "Nu vă temeți",
+      "w": "Nu vă temeți",
+      "heb": "אַל־תִּירָאוּ",
+      "translit": "al-tirau",
+      "strong": "H3372",
+      "pos": "negație + verb, qal, jusiv, persoana a II-a masculin plural",
+      "def_ro": "nu vă temeți.",
+      "dict_ro": "Yare — „a se teme”; „nu vă temeți” e formula biblică a încurajării în fața lui Dumnezeu, ca la Sinai, după darea celor Zece Porunci: „nu vă temeți, căci Dumnezeu a venit să vă pună la încercare”. Samuel nu neagă păcatul — „voi ați făcut tot acest rău” —, dar îl închide în trecut: ce s-a făcut nu mai poate fi întors, însă nu vă abateți de la DOMNUL, și vina va fi ispășită (Metzudat David). Radak aduce și lectura Targumului: „voi ați pricinuit tot acest rău”, adică ploaia."
+     },
+     {
+      "t": "! Ați făcut toată această răutate, dar nu vă abateți de la a urma pe DOMNUL, ci slujiți-L pe DOMNUL cu toată inima voastră."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר שְׁמוּאֵל אֶל־הָעָם אַל־תִּירָאוּ...",
+      "translation": "„Iar Samuel a spus poporului: „Nu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε Σαμουὴλ πρὸς τὸν λαόν· μὴ φοβεῖσθε· ὑμεῖς πεποιήκατε τὴν πᾶσαν κακίαν ταύτην, πλὴν μὴ ἐκκλίνητε ἀπό ὄπισθεν Κυρίου καὶ δουλεύσατε τῷ Κυρίῳ ἐν ὅλῃ καρδίᾳ ὑμῶν",
+      "greek": true,
+      "translation": "„Și a zis Samuel către popor: Nu vă temeți; voi ați făcut toată răutatea aceasta, numai să nu vă abateți de la a merge după Domnul și slujiți Domnului din toată inima voastră.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Deuteronom 11:16",
+     "Iosua 23:6",
+     "Psalmul 125:5",
+     "Ieremia 3:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Ați făcut” — adică voi ați făcut deja, și nu mai e de întors; dar nu vă abateți de la DOMNUL, și vina va fi ispășită."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ați făcut toată această răutate” — cerându-vă un rege; dar nu vă temeți, dacă nu vă veți abate de la a urma pe DOMNUL. Iar Targumul lui Ionatan traduce „tot acest rău” despre ploaie: „voi ați pricinuit tot acest rău”; iar în unele manuscrise: „voi l-ați făcut”."
+     }
+    ]
+   },
+   {
+    "v": "12:21",
+    "t": "Și nu vă abateți să urmați după deșertăciuni care nu pot ajuta și nu pot salva, căci sunt deșertăciuni.",
+    "heb": "וְלֹא תָסוּרוּ כִּי אַחֲרֵי הַתֹּהוּ אֲשֶׁר לֹא־יוֹעִילוּ וְלֹא יַצִּילוּ כִּי־תֹהוּ הֵמָּה׃",
+    "translit": "Velo tasuru ki aharei hatohu așer lo-ioilu velo iațilu ki-tohu hema.",
+    "tokens": [
+     {
+      "t": "Și nu vă abateți să urmați după "
+     },
+     {
+      "t": "deșertăciuni",
+      "w": "deșertăciuni",
+      "heb": "הַתֹּהוּ",
+      "translit": "hatohu",
+      "strong": "H8414",
+      "pos": "substantiv, masculin singular, cu articol",
+      "def_ro": "deșertăciune, nimicul (idolii).",
+      "dict_ro": "Tohu — „gol, pustiu, nimic”, cuvântul din Geneza 1:2 („pământul era tohu vavohu”), pe care Metzudat Țion îl definește: „un lucru fără substanță”. Aplicat idolilor, cuvântul spune că nu sunt doar falși, ci goi: „nu pot ajuta și nu pot salva”. Isaia folosește aceeași imagine pentru cei care fac chipuri cioplite: „toți sunt tohu” (Isaia 44:9). Radak dă două lecturi ale construcției: „nu vă abateți [de la DOMNUL], căci atunci ați merge după deșertăciuni”, sau „nu vă abateți după deșertăciuni, care nu folosesc”."
+     },
+     {
+      "t": " care nu pot ajuta și nu pot salva, căci sunt deșertăciuni."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְלֹא תָסוּרוּ כִּי אַחֲרֵי...",
+      "translation": "„Și nu vă abateți să urmați...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ μὴ παραβῆτε ὀπίσω τῶν μηθὲν ὄντων, οἳ οὐ περανοῦσιν οὐθὲν καὶ οἳ οὐκ ἐξελοῦνται, ὅτι οὐθέν εἰσιν.",
+      "greek": true,
+      "translation": "„și nu vă abateți după cele ce nu sunt nimic, care nu vor izbuti nimic și nu vor scăpa, căci nu sunt nimic.”",
+      "note": "Septuaginta redă tohu prin „cele ce nu sunt nimic” (τῶν μηθὲν ὄντων) și omite particula „căci” de la început."
+     }
+    ],
+    "refs": [
+     "Deuteronom 32:21",
+     "Ieremia 2:5,13",
+     "Ieremia 16:19",
+     "Habacuc 2:18",
+     "1 Corinteni 8:4",
+     "Isaia 44:9,10"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și nu vă abateți” — nu vă abateți de la DOMNUL ca să mergeți după idoli, căci mersul acela este mersul după deșertăciune..., în care nu e nimic real."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și nu vă abateți să urmați după deșertăciuni” — adică nu vă abateți de la a urma pe DOMNUL, căci dacă vă veți abate de la El, vă veți abate după deșertăciune, adică după idolii care nu vă folosesc și nu vă salvează, căci sunt deșertăciune; sau: nu vă abateți după deșertăciune, căci ei sunt cei care nu folosesc și nu salvează."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hatohu” — este un lucru fără substanță, ca în „și pământul era tohu” (Geneza 1:2). „Yoilu” — din „folos”."
+     }
+    ]
+   },
+   {
+    "v": "12:22",
+    "t": "Căci DOMNUL nu Își va părăsi poporul de dragul numelui Său cel mare, căci DOMNUL a promis să vă facă pe voi popor al Său.”",
+    "heb": "כִּי לֹא־יִטֹּשׁ יְהוָה אֶת־עַמּוֹ בַּעֲבוּר שְׁמוֹ הַגָּדוֹל כִּי הוֹאִיל יְהוָה לַעֲשׂוֹת אֶתְכֶם לוֹ לְעָם׃",
+    "translit": "Ki lo-itoș ADONAI et-amo baavur șemo hagadol ki hoil ADONAI laasot ethem lo leam.",
+    "tokens": [
+     {
+      "t": "Căci DOMNUL "
+     },
+     {
+      "t": "nu Își va părăsi",
+      "w": "nu Își va părăsi",
+      "heb": "לֹא־יִטֹּשׁ",
+      "translit": "lo-itoș",
+      "strong": "H5203",
+      "pos": "negație + verb, qal, imperfect, persoana a III-a masculin singular",
+      "def_ro": "nu va lăsa, nu va părăsi.",
+      "dict_ro": "Nataș — „a lăsa, a părăsi, a abandona”. Temelia încrederii nu e meritul poporului, ci numele lui Dumnezeu: Radak explică, după Moise (Numeri 14:15-16) și Ioșua (Iosua 7:9), că dacă Dumnezeu i-ar nimici, neamurile ar spune că n-a putut să-i salveze, și numele Lui ar fi micșorat. „Hoil” — „a binevoit, a voit”, spune Metzudat Țion (ca în Exod 2:21, „Moise a binevoit să rămână”), iar Rashi îl explică „a jurat”. Psalmul 94:14 reia aceeași făgăduință: „DOMNUL nu-Și va lepăda poporul”."
+     },
+     {
+      "t": " poporul de dragul numelui Său cel mare, căci DOMNUL a promis să vă facă pe voi popor al Său.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי לֹא־יִטֹּשׁ יְהוָה אֶת־עַמּוֹ...",
+      "translation": "„Căci DOMNUL nu Își va părăsi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι οὐκ ἀπώσεται Κύριος τὸν λαὸν αὐτοῦ διὰ τὸ ὄνομα αὐτοῦ τὸ μέγα, ὅτι ἐπιεικῶς Κύριος προσελάβετο ὑμᾶς εἰς λαόν.",
+      "greek": true,
+      "translation": "„Căci nu va lepăda Domnul pe poporul Său, pentru numele Său cel mare, căci cu bunăvoință v-a luat Domnul popor al Lui.”",
+      "note": "Corespondență strânsă; Septuaginta redă hoil prin „cu bunăvoință” (ἐπιεικῶς)."
+     }
+    ],
+    "refs": [
+     "Psalmul 94:14",
+     "1 Regi 6:13",
+     "Iosua 7:9",
+     "Numeri 14:13-19",
+     "Deuteronom 7:7,8",
+     "Romani 11:29"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „De dragul numelui Său cel mare” — căci faima Lui s-a răspândit prin voi, că El este Mântuitorul vostru, ca nu cumva să se micșoreze faima măreției Lui. „DOMNUL a promis” — hoil înseamnă „a jurat”, ca în „și Saul a pus poporul să jure (vayoel)” (1 Samuel 14:24)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Căci DOMNUL nu Își va părăsi” — a dat motivul pentru care să nu se teamă de ce au făcut: căci DOMNUL nu-Și va părăsi poporul, de dragul numelui Său cel mare, ca să nu fie pângărit. „Căci a promis” — adică s-a auzit deja că a voit ca voi să-I fiți popor ales, iar dacă v-ar părăsi chiar și când vă veți îndrepta calea de azi înainte, s-ar spune atunci că v-a părăsit din neputință."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Căci nu Își va părăsi” — căci, deși păcătuiți înaintea Lui, nu vă va părăsi, de dragul numelui Său cel mare; adică s-a auzit deja printre neamuri că a voit în voi să-I fiți popor ales, iar dacă nu v-ar suferi și v-ar răsplăti după păcatele voastre și v-ar nimici, ar fi ca și cum numele Lui s-ar fi micșorat printre neamuri, și ar spune că n-a putut să-i salveze; și tot așa a spus Moise: „atunci neamurile care au auzit de faima Ta vor spune: pentru că DOMNUL n-a putut...”, și tot așa a spus Ioșua: „și ce vei face pentru numele Tău cel mare?”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Yitoș” — va părăsi. „Hoil” — a voit, ca în „și Moise a binevoit” (Exod 2:21)."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
