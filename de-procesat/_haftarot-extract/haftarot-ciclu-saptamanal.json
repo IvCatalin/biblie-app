@@ -69242,6 +69242,1778 @@
     ]
    }
   ]
+ },
+  {
+  "num": 43,
+  "title": "Haftarat Hukat",
+  "ref": "Judecători 11:1-33",
+  "intro": "Pericopa Hukat povestește cum Moise a trimis soli la regele Edomului și la Sihon, regele amoriților, cerând trecere în pace. Când i s-a refuzat, Israel a cucerit ținutul dintre Arnon și Iabok. Haftara reia aceeași istorie trei sute de ani mai târziu, prin gura lui Iefta ghiladitul, fiul unei femei desfrânate, alungat de frații lui. Când amoniții atacă Ghiladul, bătrânii care îl alungaseră vin să-l roage să le fie căpetenie. Înainte de luptă, Iefta trimite soli regelui amonit și îi arată pe larg că Israel nu a luat țara nici de la Moab, nici de la Amon, ci de la Sihon, care o cucerise înainte. Adaugă că nimeni nu a pretins-o timp de trei sute de ani și lasă judecata în seama lui Dumnezeu. Regele nu ascultă, duhul DOMNULUI vine asupra lui Iefta, iar el face votul grăbit de a aduce ca ardere-de-tot ce va ieși din casa lui în întâmpinarea lui. Haftara se încheie cu biruința asupra amoniților, înainte de urmarea tragică a votului.",
+  "verses": [
+   {
+    "v": "11:1",
+    "t": "Iefta ghiladitul era un viteaz de valoare și era fiul unei femei prostituate; și lui Ghilad i s-a născut Iefta.",
+    "heb": "וְיִפְתָּח הַגִּלְעָדִי הָיָה גִּבּוֹר חַיִל וְהוּא בֶּן־אִשָּׁה זוֹנָה וַיּוֹלֶד גִּלְעָד אֶת־יִפְתָּח׃",
+    "translit": "Ve'Iftah haghiladi haia ghibor hail vehu ben-ișa zona vaioled Ghilad et-Iftah.",
+    "tokens": [
+     {
+      "t": "Iefta ghiladitul era "
+     },
+     {
+      "t": "un viteaz de valoare",
+      "w": "un viteaz de valoare",
+      "heb": "גִּבּוֹר חַיִל",
+      "translit": "ghibor hail",
+      "strong": "H1368",
+      "pos": "substantiv, masculin singular + substantiv",
+      "def_ro": "războinic viteaz, om de putere.",
+      "dict_ro": "Ghibor hail — „viteaz al puterii”, titlul dat și lui Ghedeon de înger (Judecători 6:12) și lui Naaman (2 Regi 5:1). Versetul pune alături două lucruri care nu se potrivesc: vitejia lui Iefta și originea lui dezonorantă. Radak explică „fiul unei femei desfrânate”: mama lui era concubina lui Ghilad, numită „zona” pentru că nu era soție cu ketuba și logodnă; Targumul o numește „hangiță”, ca pe Rahav. Metzudat David subliniază totuși că era limpede că Ghilad, și nu altul, îl născuse. Evrei 11:32 îl numără pe Iefta printre eroii credinței."
+     },
+     {
+      "t": " și era fiul unei femei prostituate; și lui Ghilad i s-a născut Iefta."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְיִפְתָּח הַגִּלְעָדִי הָיָה גִּבּוֹר...",
+      "translation": "„Iefta ghiladitul era un viteaz de...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΚΑΙ ᾿Ιεφθάε ὁ Γαλααδίτης ἐπῃρμένος δυνάμει· καὶ αὐτὸς υἱὸς γυναικὸς πόρνης, ἣ ἐγέννησε τῷ Γαλαὰδ τὸν ᾿Ιεφθάε.",
+      "greek": true,
+      "translation": "„Și Iefta galaaditul era înălțat în putere; și el era fiul unei femei desfrânate, care i-a născut lui Galaad pe Iefta.”",
+      "note": "Septuaginta redă ghibor hail prin „înălțat în putere” (ἐπῃρμένος δυνάμει)."
+     }
+    ],
+    "refs": [
+     "Evrei 11:32",
+     "Judecători 6:12",
+     "2 Regi 5:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și lui Ghilad i s-a născut” — adică, deși mama lui era desfrânată, totuși era limpede că Ghilad îl născuse pe Iefta, și nu altul."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Fiul unei femei desfrânate” — era fiul concubinei lui Ghilad, și e numită desfrânată pentru că nu era cu bărbatul ei prin ketuba și logodnă, și e ca o desfrânată, deși era numai a lui; iar Ionatan traduce „hangiță”, cum a tradus și la Rahav desfrânata. Iar în Targumul din Tosefta: era o rânduială în Israel ca moștenirea să nu treacă de la un trib la altul, și femeia care iubea un bărbat din alt trib ieșea din casa tatălui ei fără moștenire, iar oamenii o numeau „hangiță”; și așa a fost cu mama lui Iefta."
+     }
+    ]
+   },
+   {
+    "v": "11:2",
+    "t": "Soția lui Iefta îi născuse fii, iar când fiii soției au crescut, l-au alungat pe Iefta și i-au spus: „Tu nu vei avea moștenire în casa tatălui tău, căci ești fiul unei alte femei.”",
+    "heb": "וַתֵּלֶד אֵשֶׁת־גִּלְעָד לוֹ בָּנִים וַיִּגְדְּלוּ בְנֵי־הָאִשָּׁה וַיְגָרְשׁוּ אֶת־יִפְתָּח וַיֹּאמְרוּ לוֹ לֹא־תִנְחַל בְּבֵית־אָבִינוּ כִּי בֶּן־אִשָּׁה אַחֶרֶת אָתָּה׃",
+    "translit": "Vateled eșet-Ghilad lo banim vaigdelu venei-haișa vaigareșu et-Iftah vaiomru lo lo-tinhal beveit-avinu ki ben-ișa aheret ata.",
+    "tokens": [
+     {
+      "t": "Soția lui Iefta îi născuse fii, iar când fiii soției au crescut, l-au alungat pe Iefta și i-au spus: „Tu nu vei avea "
+     },
+     {
+      "t": "moștenire",
+      "w": "moștenire",
+      "heb": "תִנְחַל",
+      "translit": "tinhal",
+      "strong": "H5157",
+      "pos": "verb, qal, imperfect, persoana a II-a masculin singular",
+      "def_ro": "vei moșteni.",
+      "dict_ro": "Nahal — „a primi ca moștenire, a avea parte”, de unde nahala, „lotul, moștenirea”. Frații lui Iefta, fiii soției lui Ghilad (în ebraică eșet-Ghilad), îl alungă ca să nu împartă moștenirea tatălui cu fiul altei femei — o scenă care amintește de Ismael și Isaac (Geneza 21:10), citată și de Pavel (Galateni 4:30). Metzudat David observă o delicatețe: frații spun „fiul altei femei”, nu „fiul unei desfrânate”, din respect pentru onoarea tatălui lor."
+     },
+     {
+      "t": " în casa tatălui tău, căci ești fiul unei alte femei.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֵּלֶד אֵשֶׁת־גִּלְעָד לוֹ בָּנִים...",
+      "translation": "„Soția lui Iefta îi născuse fii...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔτεκεν ἡ γυνὴ Γαλαὰδ αὐτῷ υἱούς· καὶ ἡδρύνθησαν οἱ υἱοὶ τῆς γυναικὸς καὶ ἐξέβαλον τὸν ᾿Ιεφθάε καὶ εἶπαν αὐτῷ· οὐ κληρονομήσεις ἐν τῷ οἴκῳ τοῦ πατρὸς ἡμῶν, ὅτι υἱὸς γυναικὸς ἑταίρας σύ.",
+      "greek": true,
+      "translation": "„Și femeia lui Galaad i-a născut fii; și au crescut fiii femeii și l-au alungat pe Iefta și i-au zis: Nu vei moșteni în casa tatălui nostru, căci ești fiul unei femei străine.”",
+      "note": "Septuaginta redă „altă femeie” prin „femeie străină, curtezană” (ἑταίρα)."
+     }
+    ],
+    "refs": [
+     "Galateni 4:30",
+     "Proverbe 2:16",
+     "Proverbe 5:3,20"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și [soția] îi născuse” — după aceasta, soția lui cu care era căsătorit i-a născut fii. „L-au alungat” — cu forța și cu silnicie. „Fiul unei alte femei” — au cruțat onoarea tatălui lor și n-au pomenit cuvântul „desfrânată”."
+     }
+    ]
+   },
+   {
+    "v": "11:3",
+    "t": "Iefta a plecat din pricina fraților săi și s-a așezat în ținutul Tov, și niște bărbați de nimic s-au adunat pe lângă Iefta și ieșeau cu el.",
+    "heb": "וַיִּבְרַח יִפְתָּח מִפְּנֵי אֶחָיו וַיֵּשֶׁב בְּאֶרֶץ טוֹב וַיִּתְלַקְּטוּ אֶל־יִפְתָּח אֲנָשִׁים רֵיקִים וַיֵּצְאוּ עִמּוֹ׃",
+    "translit": "Vaivrah Iftah mipenei ehav vaièșev beeret Tov vaitlaketu el-Iftah anașim reikim vaièțu imo.",
+    "tokens": [
+     {
+      "t": "Iefta a plecat din pricina fraților săi și s-a așezat în ținutul Tov, și niște "
+     },
+     {
+      "t": "bărbați de nimic",
+      "w": "bărbați de nimic",
+      "heb": "אֲנָשִׁים רֵיקִים",
+      "translit": "anașim reikim",
+      "strong": "H7386",
+      "pos": "substantiv, masculin plural + adjectiv, masculin plural",
+      "def_ro": "oameni goi, fără căpătâi, aventurieri.",
+      "dict_ro": "Reikim — „goi, deșerți”: oameni fără avere și fără loc, care trăiesc din aventură; aceeași expresie descrie ceata lui Abimeleh (Judecători 9:4), iar o ceată asemănătoare se strânge în jurul lui David fugar (1 Samuel 22:2). Țara Tov, unde se refugiază Iefta, e un ținut aramean la nord-est de Ghilad; Metzudat Țion și Radak spun că „Tov” era numele stăpânului acelei țări. Metzudat David: s-au adunat din locuri diferite și ieșeau cu el oriunde mergea."
+     },
+     {
+      "t": " s-au adunat pe lângă Iefta și ieșeau cu el."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּבְרַח יִפְתָּח מִפְּנֵי אֶחָיו...",
+      "translation": "„Iefta a plecat din pricina fraților...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔφυγεν ᾿Ιεφθάε ἀπὸ προσώπου τῶν ἀδελφῶν αὐτοῦ καὶ ᾤκησεν ἐν γῇ Τώβ, καὶ συνεστράφησαν πρὸς ᾿Ιεφθάε ἄνδρες κενοὶ καὶ ἐξῆλθον μετ᾿ αὐτοῦ.",
+      "greek": true,
+      "translation": "„Și a fugit Iefta de fața fraților lui și a locuit în țara Tob, și s-au adunat la Iefta oameni de nimic și ieșeau cu el.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Judecători 9:4",
+     "1 Samuel 22:2",
+     "1 Samuel 27:2",
+     "1 Samuel 30:22-24",
+     "Faptele Apostolilor 17:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„S-au adunat” — din locuri diferite. „Și ieșeau cu el” — oriunde ieșea el."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „În ținutul Tov” — stăpânul țării se numea Tov; iar Ionatan traduce „în țara Tov”, și tot așa „dacă te va răscumpăra Tov” (Rut 3:13)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tov” — numele stăpânului țării, și tot așa găsim: „dacă te va răscumpăra Tov” (Rut 3:13)."
+     }
+    ]
+   },
+   {
+    "v": "11:4",
+    "t": "Iar după un timp, copiii lui Amon au făcut război cu Israel.",
+    "heb": "וַיְהִי מִיָּמִים וַיִּלָּחֲמוּ בְנֵי־עַמּוֹן עִם־יִשְׂרָאֵל׃",
+    "translit": "Vaihi miiamim vailahamu venei-Amon im-Israel.",
+    "tokens": [
+     {
+      "t": "Iar după un timp, "
+     },
+     {
+      "t": "copiii lui Amon",
+      "w": "copiii lui Amon",
+      "heb": "בְנֵי־עַמּוֹן",
+      "translit": "venei-Amon",
+      "strong": "H5983",
+      "pos": "substantiv, masculin plural, în construcție + nume propriu",
+      "def_ro": "amoniții, fiii lui Amon.",
+      "dict_ro": "Benei Amon — popor înrudit cu Israel, urmașii lui Ben-Ami, fiul lui Lot (Geneza 19:38), cu capitala la Rabat-Amon (astăzi Amman). Tora interzisese lui Israel să le ia pământul (Deuteronom 2:19), iar tocmai această lege stă la baza răspunsului lui Iefta: ținutul disputat nu fusese luat de la Amon. Metzudat David explică „după un timp”: războiul a venit la multe zile după alungarea lui Iefta."
+     },
+     {
+      "t": " au făcut război cu Israel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי מִיָּמִים וַיִּלָּחֲמוּ בְנֵי־עַמּוֹן...",
+      "translation": "„Iar după un timp, copiii lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο ἡνίκα παρετάξαντο οἱ υἱοὶ ᾿Αμμὼν μετὰ ᾿Ισραήλ,",
+      "greek": true,
+      "translation": "„Și a fost, când s-au rânduit la luptă fiii lui Amon împotriva lui Israel,”",
+      "note": "Septuaginta nu are „după un timp” și leagă versetul direct de următorul."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Copiii lui Amon au făcut război” — cum s-a spus mai sus."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iar după un timp” — adică războiul copiilor lui Amon cu Israel a fost la sfârșitul multor zile după ce Iefta fusese alungat."
+     }
+    ]
+   },
+   {
+    "v": "11:5",
+    "t": "Și când copiii lui Amon au făcut război cu Israel, bătrânii Ghiladului au mers să îl aducă pe Iefta din ținutul Tov.",
+    "heb": "וַיְהִי כַּאֲשֶׁר־נִלְחֲמוּ בְנֵי־עַמּוֹן עִם־יִשְׂרָאֵל וַיֵּלְכוּ זִקְנֵי גִלְעָד לָקַחַת אֶת־יִפְתָּח מֵאֶרֶץ טוֹב׃",
+    "translit": "Vaihi kaașer-nilhamu venei-Amon im-Israel vaièlhu ziknei Ghilad lakahat et-Iftah meereț Tov.",
+    "tokens": [
+     {
+      "t": "Și când copiii lui Amon au făcut război cu Israel, "
+     },
+     {
+      "t": "bătrânii Ghiladului",
+      "w": "bătrânii Ghiladului",
+      "heb": "זִקְנֵי גִלְעָד",
+      "translit": "ziknei Ghilad",
+      "strong": "H2205",
+      "pos": "adjectiv substantivat, masculin plural, în construcție + nume propriu",
+      "def_ro": "bătrânii (căpeteniile) Ghiladului.",
+      "dict_ro": "Zekenim — „bătrânii”, nu doar oameni în vârstă, ci conducătorii tradiționali ai clanurilor și cetăților. Aceiași bătrâni care, după 11:7, fuseseră de partea fraților la alungarea lui Iefta merg acum ei înșiși să-l aducă înapoi. Metzudat David: „să-l aducă” înseamnă să-l întoarcă în Ghilad. Tiparul celui lepădat care devine salvator (piatra lepădată, Psalmul 118:22; Iosif; Moise în Faptele Apostolilor 7:35) se regăsește și aici."
+     },
+     {
+      "t": " au mers să îl aducă pe Iefta din ținutul Tov."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי כַּאֲשֶׁר־נִלְחֲמוּ בְנֵי־עַמּוֹן עִם־יִשְׂרָאֵל...",
+      "translation": "„Și când copiii lui Amon au...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπορεύθησαν οἱ πρεσβύτεροι Γαλαὰδ λαβεῖν τὸν ᾿Ιεφθάε ἀπὸ τῆς γῆς Τὼβ",
+      "greek": true,
+      "translation": "„s-au dus bătrânii lui Galaad să-l ia pe Iefta din țara Tob”",
+      "note": "Septuaginta nu repetă începutul versetului („și când copiii lui Amon au făcut război cu Israel”)."
+     }
+    ],
+    "refs": [
+     "Judecători 10:9,17,18",
+     "1 Samuel 10:27",
+     "Psalmul 118:22,23",
+     "Faptele Apostolilor 7:35-39",
+     "1 Corinteni 1:27-29"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Să îl aducă” — să-l întoarcă în Ghilad."
+     }
+    ]
+   },
+   {
+    "v": "11:6",
+    "t": "Și i-au spus lui Iefta: „Mergi și fii căpetenia noastră, ca să ne luptăm cu copiii lui Amon.”",
+    "heb": "וַיֹּאמְרוּ לְיִפְתָּח לְכָה וְהָיִיתָה לָּנוּ לְקָצִין וְנִלָּחֲמָה בִּבְנֵי עַמּוֹן׃",
+    "translit": "Vaiomru le'Iftah leha vehaita lanu lekațin venilahama bivnei Amon.",
+    "tokens": [
+     {
+      "t": "Și i-au spus lui Iefta: „Mergi și fii "
+     },
+     {
+      "t": "căpetenia",
+      "w": "căpetenia",
+      "heb": "לְקָצִין",
+      "translit": "lekațin",
+      "strong": "H7101",
+      "pos": "prepoziție + substantiv, masculin singular",
+      "def_ro": "comandant, căpetenie militară.",
+      "dict_ro": "Kațin — căpetenia, de la kaț, „a hotărî, a tăia”: cel care decide, mai ales în război; Metzudat Țion trimite la Isaia 3:6, „fii căpetenia noastră”. Primul lor cuvânt oferă doar o funcție militară, pentru durata războiului; în versetele următoare Iefta va negocia pentru mai mult — să fie „cap” (roș) peste tot Ghiladul, și nu doar după victorie."
+     },
+     {
+      "t": " noastră, ca să ne luptăm cu copiii lui Amon.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמְרוּ לְיִפְתָּח לְכָה וְהָיִיתָה...",
+      "translation": "„Și i-au spus lui Iefta: „Mergi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπαν τῷ ᾿Ιεφθάε· δεῦρο καὶ ἔσῃ ἡμῖν εἰς ἀρχηγόν, καὶ παραταξόμεθα πρὸς υἱοὺς ᾿Αμμών.",
+      "greek": true,
+      "translation": "„și i-au zis lui Iefta: Vino și fii căpetenia noastră, și ne vom rândui la luptă împotriva fiilor lui Amon.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat Țion",
+      "text": "„Lekațin” — cu sensul de stăpânire, și tot așa „fii căpetenia noastră” (Isaia 3:6)."
+     }
+    ]
+   },
+   {
+    "v": "11:7",
+    "t": "Dar Iefta le-a spus bătrânilor Ghiladului: „Oare nu voi sunteți cei care m-ați urât și care m-ați alungat din casa tatălui meu? De ce ați venit la mine acum, când sunteți la ananghie?”",
+    "heb": "וַיֹּאמֶר יִפְתָּח לְזִקְנֵי גִלְעָד הֲלֹא אַתֶּם שְׂנֵאתֶם אוֹתִי וַתְּגָרְשׁוּנִי מִבֵּית אָבִי וּמַדּוּעַ בָּאתֶם אֵלַי עַתָּה כַּאֲשֶׁר צַר לָכֶם׃",
+    "translit": "Vaiomer Iftah leziknei Ghilad halo atem senetem oti vategarșuni mibeit avi umadua batem elai ata kaașer țar lahem.",
+    "tokens": [
+     {
+      "t": "Dar Iefta le-a spus bătrânilor Ghiladului: „Oare nu voi sunteți cei care m-ați urât și care m-ați alungat din casa tatălui meu? De ce ați venit la mine acum, când sunteți "
+     },
+     {
+      "t": "la ananghie",
+      "w": "la ananghie",
+      "heb": "צַר לָכֶם",
+      "translit": "țar lahem",
+      "strong": "H6887",
+      "pos": "verb, qal, perfect (impersonal) + prepoziție cu sufix",
+      "def_ro": "vă e strâmt, sunteți la strâmtoare.",
+      "dict_ro": "Țar — „a fi strâmt, a fi la strâmtoare”, de unde țara, „necaz”. Reproșul lui Iefta amintește de cel al lui Isaac către Abimeleh („de ce ați venit la mine, voi care m-ați urât și m-ați alungat?”, Geneza 26:27) și de întâlnirea lui Iosif cu frații care îl vânduseră. Metzudat David îi citește gândul: dacă v-ați fi căit cu adevărat, de ce ați așteptat până acum? Se vede că dușmănia a rămas, și ați venit doar de nevoie."
+     },
+     {
+      "t": "?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר יִפְתָּח לְזִקְנֵי גִלְעָד...",
+      "translation": "„Dar Iefta le-a spus bătrânilor Ghiladului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ᾿Ιεφθάε τοῖς πρεσβυτέροις Γαλαάδ· οὐχὶ ὑμεῖς ἐμισήσατέ με καὶ ἐξεβάλατέ με ἐκ τοῦ οἴκου τοῦ πατρός μου καὶ ἐξαπεστείλατέ με ἀφ᾿ ὑμῶν; καὶ διατὶ ἤλθατε πρός με νῦν, ἡνίκα χρῄζετε;",
+      "greek": true,
+      "translation": "„Și a zis Iefta bătrânilor lui Galaad: Oare nu voi m-ați urât și m-ați alungat din casa tatălui meu și m-ați trimis de la voi? Și de ce ați venit la mine acum, când aveți nevoie?”",
+      "note": "Septuaginta adaugă „și m-ați trimis de la voi”."
+     }
+    ],
+    "refs": [
+     "Geneza 26:27",
+     "Geneza 37:27",
+     "Geneza 45:4,5",
+     "Proverbe 17:17",
+     "Faptele Apostolilor 7:9-14",
+     "Apocalipsa 3:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și care m-ați alungat” — i-ați ajutat pe frații mei să mă alunge. „De ce” — adică, dacă veți spune că într-adevăr v-ați căit de rău, de ce ați întârziat până acum, și de ce ați venit „acum, când sunteți la ananghie”, și nu mai înainte? Se vede de aici că dușmănia a rămas pe loc și ați venit de nevoie."
+     }
+    ]
+   },
+   {
+    "v": "11:8",
+    "t": "Atunci bătrânii Ghiladului i-au spus lui Iefta: „De aceasta ne-am întors la tine acum, pentru ca să mergi cu noi și să lupți împotriva copiilor lui Amon și să ne fii conducător, peste toți locuitorii Ghiladului.”",
+    "heb": "וַיֹּאמְרוּ זִקְנֵי גִלְעָד אֶל־יִפְתָּח לָכֵן עַתָּה שַׁבְנוּ אֵלֶיךָ וְהָלַכְתָּ עִמָּנוּ וְנִלְחַמְתָּ בִּבְנֵי עַמּוֹן וְהָיִיתָ לָּנוּ לְרֹאשׁ לְכֹל יֹשְׁבֵי גִלְעָד׃",
+    "translit": "Vaiomru ziknei Ghilad el-Iftah lahen ata șavnu eleha vehalahta imanu venilhamta bivnei Amon vehaita lanu leroș lehol ioșvei Ghilad.",
+    "tokens": [
+     {
+      "t": "Atunci bătrânii Ghiladului i-au spus lui Iefta: „De aceasta ne-am întors la tine acum, pentru ca să mergi cu noi și să lupți împotriva copiilor lui Amon și să ne fii "
+     },
+     {
+      "t": "conducător",
+      "w": "conducător",
+      "heb": "לְרֹאשׁ",
+      "translit": "leroș",
+      "strong": "H7218",
+      "pos": "prepoziție + substantiv, masculin singular",
+      "def_ro": "cap, conducător.",
+      "dict_ro": "Roș — „cap”, apoi „căpetenie, conducător”: mai mult decât kațin din 11:6. Bătrânii ridică oferta: nu doar comandant al luptei, ci „cap peste toți locuitorii Ghiladului”. Metzudat David explică și argumentul lor: am venit noi înșine, nu am trimis după tine — semn de supunere și dragoste, căci dacă ar fi fost doar de nevoie, ar fi fost de ajuns să trimitem un sol."
+     },
+     {
+      "t": ", peste toți locuitorii Ghiladului.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמְרוּ זִקְנֵי גִלְעָד אֶל־יִפְתָּח...",
+      "translation": "„Atunci bătrânii Ghiladului i-au spus lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπαν οἱ πρεσβύτεροι Γαλαὰδ πρὸς ᾿Ιεφθάε· διὰ τοῦτο νῦν ἐπεστρέψαμεν πρός σε, καὶ πορεύσῃ μεθ᾿ ἡμῶν καὶ παρατάξῃ πρὸς υἱοὺς ᾿Αμμών· καὶ ἔσῃ ἡμῖν εἰς ἄρχοντα πᾶσι τοῖς κατοικοῦσι Γαλαάδ.",
+      "greek": true,
+      "translation": "„Și au zis bătrânii lui Galaad către Iefta: De aceea acum ne-am întors la tine, și vei merge cu noi și te vei lupta cu fiii lui Amon, și ne vei fi căpetenie tuturor celor ce locuiesc în Galaad.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 9:28",
+     "Exod 10:17",
+     "1 Regi 13:6",
+     "Luca 17:3,4",
+     "Judecători 10:18"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„De aceea” — adică să nu crezi așa ceva, căci am venit acum la tine noi înșine ca să arătăm mare supunere și dragoste deosebită; dacă ar fi fost doar de nevoie, ar fi fost de ajuns să trimitem după tine. „Și să mergi” — și când vei merge cu noi. „Peste toți locuitorii Ghiladului” — adică nu doar peste noi, cei care am venit, ci peste toți."
+     }
+    ]
+   },
+   {
+    "v": "11:9",
+    "t": "Iar Iefta le-a spus bătrânilor Ghiladului: „Dacă mă aduceți înapoi pentru ca să lupt cu copiii lui Amon și îi dă DOMNUL înaintea mea, atunci voi fi căpetenia voastră.”",
+    "heb": "וַיֹּאמֶר יִפְתָּח אֶל־זִקְנֵי גִלְעָד אִם־מְשִׁיבִים אַתֶּם אוֹתִי לְהִלָּחֵם בִּבְנֵי עַמּוֹן וְנָתַן יְהוָה אוֹתָם לְפָנָי אָנֹכִי אֶהְיֶה לָכֶם לְרֹאשׁ׃",
+    "translit": "Vaiomer Iftah el-ziknei Ghilad im-meșivim atem oti lehilahèm bivnei Amon venatan ADONAI otam lefanai anohi ehie lahem leroș.",
+    "tokens": [
+     {
+      "t": "Iar Iefta le-a spus bătrânilor Ghiladului: „Dacă "
+     },
+     {
+      "t": "mă aduceți înapoi",
+      "w": "mă aduceți înapoi",
+      "heb": "מְשִׁיבִים",
+      "translit": "meșivim",
+      "strong": "H7725",
+      "pos": "verb, hifil, participiu, masculin plural",
+      "def_ro": "mă întoarceți, mă aduceți înapoi.",
+      "dict_ro": "Șuv (hifil: heșiv) — „a face să se întoarcă, a aduce înapoi”; bătrânii spuseseră „ne-am întors (șavnu) la tine”, iar Iefta răspunde „dacă mă aduceți înapoi (meșivim)”, un joc pe aceeași rădăcină. Condiția lui e prudentă, iar Metzudat David o descifrează: numirea după victorie nu dovedește nimic, căci dacă pierd nu mă veți mai vrea, iar dacă înving mi se cuvine oricum; vreau să fiu pus conducător încă dinainte de război."
+     },
+     {
+      "t": " pentru ca să lupt cu copiii lui Amon și îi dă DOMNUL înaintea mea, atunci voi fi căpetenia voastră.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר יִפְתָּח אֶל־זִקְנֵי גִלְעָד...",
+      "translation": "„Iar Iefta le-a spus bătrânilor Ghiladului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν ᾿Ιεφθάε πρὸς τοὺς πρεσβυτέρους Γαλαάδ· εἰ ἐπιστρέφετέ με ὑμεῖς παρατάξασθαι ἐν υἱοῖς ᾿Αμμὼν καὶ παραδῷ αὐτοὺς Κύριος ἐνώπιον ἐμοῦ, καὶ ἐγὼ ὑμῖν ἔσομαι εἰς ἄρχοντα.",
+      "greek": true,
+      "translation": "„Și a zis Iefta către bătrânii lui Galaad: Dacă mă întoarceți voi ca să mă lupt cu fiii lui Amon și îi va da Domnul înaintea mea, eu vă voi fi căpetenie.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 32:20-29"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dacă mă aduceți înapoi” — adică, dacă lucrul se va încheia și voi merge la război, „și DOMNUL îi dă”..., atunci eu, de la mine, voi fi căpetenia voastră, după dreptate; adică nu e încă supunere și dragoste că vreți să mă puneți conducător după război, căci negreșit, dacă voi fi învins, nu veți mai vrea să mă puneți, iar dacă voi învinge, mi se cuvine stăpânirea după dreptate; ca și cum ar fi spus: nu așa, ci puneți-mă conducător de îndată, înainte de război."
+     }
+    ]
+   },
+   {
+    "v": "11:10",
+    "t": "Bătrânii Ghiladului i-au spus lui Iefta: „DOMNUL să fie martor între noi dacă nu vom face precum vorba voastră.”",
+    "heb": "וַיֹּאמְרוּ זִקְנֵי־גִלְעָד אֶל־יִפְתָּח יְהוָה יִהְיֶה שֹׁמֵעַ בֵּינוֹתֵינוּ אִם־לֹא כִדְבָרְךָ כֵּן נַעֲשֶׂה׃",
+    "translit": "Vaiomru ziknei-Ghilad el-Iftah ADONAI ihie șomea beinoteinu im-lo hidvarha ken naase.",
+    "tokens": [
+     {
+      "t": "Bătrânii Ghiladului i-au spus lui Iefta: „DOMNUL să fie "
+     },
+     {
+      "t": "martor",
+      "w": "martor",
+      "heb": "שֹׁמֵעַ",
+      "translit": "șomea",
+      "strong": "H8085",
+      "pos": "verb, qal, participiu, masculin singular",
+      "def_ro": "cel care ascultă (martor).",
+      "dict_ro": "Șomea — literal „cel care aude”: bătrânii Îl iau pe DOMNUL ca martor care a auzit înțelegerea, ca Laban în Geneza 31:50 („Dumnezeu este martor între mine și tine”). Metzudat David precizează ce au acceptat: „după cuvântul tău” — să-l pună conducător imediat, nu după victorie. Radak arată, la versetul următor, că Iefta a repetat apoi toate aceste cuvinte „înaintea DOMNULUI”, la Mițpa."
+     },
+     {
+      "t": " între noi dacă nu vom face precum vorba voastră.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמְרוּ זִקְנֵי־גִלְעָד אֶל־יִפְתָּח יְהוָה...",
+      "translation": "„Bătrânii Ghiladului i-au spus lui Iefta...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπαν οἱ πρεσβύτεροι Γαλαὰδ πρὸς ᾿Ιεφθάε· Κύριος ἔστω ἀκούων ἀνὰ μέσον ἡμῶν, εἰ μὴ κατὰ τὸ ῥῆμά σου οὕτω ποιήσομεν.",
+      "greek": true,
+      "translation": "„Și au zis bătrânii lui Galaad către Iefta: Domnul să fie cel ce ascultă între noi, dacă nu vom face așa, după cuvântul tău.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Geneza 31:50",
+     "1 Samuel 12:5",
+     "Ieremia 42:5",
+     "Romani 1:9",
+     "Geneza 31:53",
+     "Maleahi 3:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„DOMNUL să fie martor” — El să fie martor. „Precum vorba voastră” — să te punem conducător de îndată."
+     }
+    ]
+   },
+   {
+    "v": "11:11",
+    "t": "Așa că Iefta a mers cu bătrânii Ghiladului și poporul l-a pus căpetenie și conducător peste ei; apoi Iefta a vorbit toate aceste vorbe înaintea DOMNULUI, în Mițpa.",
+    "heb": "וַיֵּלֶךְ יִפְתָּח עִם־זִקְנֵי גִלְעָד וַיָּשִׂימוּ הָעָם אוֹתוֹ עֲלֵיהֶם לְרֹאשׁ וּלְקָצִין וַיְדַבֵּר יִפְתָּח אֶת־כָּל־דְּבָרָיו לִפְנֵי יְהוָה בַּמִּצְפָּה׃",
+    "translit": "Vaièleh Iftah im-ziknei Ghilad vaiasimu haam oto aleihem leroș ulekațin vaidaber Iftah et-kol-devarav lifnei ADONAI ba'Mițpa.",
+    "tokens": [
+     {
+      "t": "Așa că Iefta a mers cu bătrânii Ghiladului și poporul l-a pus căpetenie și conducător peste ei; apoi Iefta a vorbit toate aceste vorbe înaintea DOMNULUI, "
+     },
+     {
+      "t": "în Mițpa",
+      "w": "în Mițpa",
+      "heb": "בַּמִּצְפָּה",
+      "translit": "bamițpa",
+      "strong": "H4709",
+      "pos": "prepoziție + nume propriu cu articol",
+      "def_ro": "la Mițpa („locul de pândă”).",
+      "dict_ro": "Mițpa — „punct de observație, turn de pază” (de la țafa, „a privi de sus”); mai multe localități purtau acest nume, iar aceasta e Mițpa Ghiladului, unde Laban și Iacov încheiaseră legământul (Geneza 31:49). Rashi explică de ce „înaintea DOMNULUI”: acolo se adunase tot poporul, iar Șehina se odihnește peste mulțime; Metzudat David citează Sanhedrin 39a. Radak adaugă că acolo era casa lui Iefta (11:34) și că locul devenise, după o mare izbândă, un loc de adunare și de rugăciune."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּלֶךְ יִפְתָּח עִם־זִקְנֵי גִלְעָד...",
+      "translation": "„Așa că Iefta a mers cu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπορεύθη ᾿Ιεφθάε μετὰ τῶν πρεσβυτέρων Γαλαάδ, καὶ ἔθηκαν αὐτὸν ὁ λαὸς ἐπ᾿ αὐτοὺς εἰς κεφαλὴν καὶ εἰς ἀρχηγόν. καὶ ἐλάλησεν ᾿Ιεφθάε πάντας τοὺς λόγους αὐτοῦ ἐνώπιον Κυρίου ἐν Μασσηφά.",
+      "greek": true,
+      "translation": "„Și a mers Iefta cu bătrânii lui Galaad, și poporul l-a pus peste ei cap și căpetenie; și a grăit Iefta toate cuvintele lui înaintea Domnului în Masifa.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "1 Regi 3:7-9",
+     "Iacov 1:5,17",
+     "Judecători 10:17",
+     "Judecători 20:1",
+     "1 Samuel 10:17",
+     "1 Samuel 11:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Toate aceste vorbe” — condițiile dintre ei. „Înaintea DOMNULUI, în Mițpa” — unde se adunaseră toți, căci Șehina se odihnește peste mulțime."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Poporul l-a pus” — l-au făcut cap de îndată, înainte de a ieși la război. „Toate aceste vorbe” — cuvintele rugăciunii și ale cererilor lui. „Înaintea DOMNULUI” — căci acolo se adunaseră mulți din Israel, iar Șehina se odihnește peste majoritatea obștii (Sanhedrin 39a)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Înaintea DOMNULUI, în Mițpa” — în locul unde era casa lui, cum spune: „Iefta a venit la Mițpa, la casa lui”; iar „înaintea DOMNULUI” e ca ce spuseseră: „DOMNUL să fie martor între noi”; sau pentru că Șehina se odihnește în Israel în locul unde se adună; sau, cum am explicat în cartea lui Iosua, pentru că după marea mântuire de acolo obiceiul lui Israel era să se adune acolo, și era acolo un altar și o casă de rugăciune."
+     }
+    ]
+   },
+   {
+    "v": "11:12",
+    "t": "Iefta a trimis soli la regele copiilor lui Amon, spunând: „Ce este între mine și tine, de ai venit să lupți împotriva țării mele?”",
+    "heb": "וַיִּשְׁלַח יִפְתָּח מַלְאָכִים אֶל־מֶלֶךְ בְּנֵי־עַמּוֹן לֵאמֹר מַה־לִּי וָלָךְ כִּי־בָאתָ אֵלַי לְהִלָּחֵם בְּאַרְצִי׃",
+    "translit": "Vaișlah Iftah malahim el-meleh benei-Amon lemor ma-li valah ki-vata elai lehilahèm beartzi.",
+    "tokens": [
+     {
+      "t": "Iefta a trimis "
+     },
+     {
+      "t": "soli",
+      "w": "soli",
+      "heb": "מַלְאָכִים",
+      "translit": "malahim",
+      "strong": "H4397",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "soli, trimiși.",
+      "dict_ro": "Malahim — „soli, trimiși” (același cuvânt desemnează și îngerii). Înainte de a lupta, Iefta trimite soli, cum trimisese Moise la Edom și la Sihon (Numeri 20:14; 21:21) și cum cere Tora: „când te vei apropia de o cetate ca să lupți, să-i oferi pace” (Deuteronom 20:10) — legătura directă cu pericopa Hukat. Metzudat David: „Ce este între mine și tine?” înseamnă „ce dușmănie e între noi?”; și pentru că fusese numit căpetenie, Iefta vorbește în numele său."
+     },
+     {
+      "t": " la regele copiilor lui Amon, spunând: „Ce este între mine și tine, de ai venit să lupți împotriva țării mele?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח יִפְתָּח מַלְאָכִים אֶל־מֶלֶךְ...",
+      "translation": "„Iefta a trimis soli la regele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Καὶ ἀπέστειλεν ᾿Ιεφθάε ἀγγέλους πρὸς βασιλέα υἱῶν ᾿Αμμὼν λέγων· τί ἐμοὶ καὶ σοί, ὅτι ἦλθες πρός με τοῦ παρατάξασθαι ἐν τῇ γῇ μου;",
+      "greek": true,
+      "translation": "„Și a trimis Iefta soli la regele fiilor lui Amon, zicând: Ce este între mine și tine, că ai venit la mine să te rânduiești la luptă în țara mea?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 20:14",
+     "Numeri 21:21",
+     "Deuteronom 2:26",
+     "Deuteronom 20:10,11",
+     "Proverbe 25:8,9",
+     "Matei 18:15,16"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Ce este între mine și tine” — adică ce dușmănie și ură este între noi, ce am eu împotriva ta și ce ai tu împotriva mea? Și pentru că îl numiseră cap, a pus lucrul pe seama lui însuși."
+     }
+    ]
+   },
+   {
+    "v": "11:13",
+    "t": "Regele copiilor lui Amon i-a spus solilor lui Iefta: „Pentru că Israel mi-a luat pământul când a urcat din Egipt, de la Arnon până la Iabok, până la Iordan, așa că acum dă-l înapoi pașnic.”",
+    "heb": "וַיֹּאמֶר מֶלֶךְ בְּנֵי־עַמּוֹן אֶל־מַלְאֲכֵי יִפְתָּח כִּי־לָקַח יִשְׂרָאֵל אֶת־אַרְצִי בַּעֲלוֹתוֹ מִמִּצְרַיִם מֵאַרְנוֹן וְעַד־הַיַּבֹּק וְעַד־הַיַּרְדֵּן וְעַתָּה הָשִׁיבָה אֶתְהֶן בְּשָׁלוֹם׃",
+    "translit": "Vaiomer meleh benei-Amon el-malahei Iftah ki-lakah Israel et-artzi baaloto mi'Mițraim me'Arnon vead-ha'Iabok vead-ha'Iarden veata hașiva ethen beșalom.",
+    "tokens": [
+     {
+      "t": "Regele copiilor lui Amon i-a spus solilor lui Iefta: „Pentru că Israel mi-a luat pământul când a urcat din Egipt, de la Arnon până la "
+     },
+     {
+      "t": "Iabok",
+      "w": "Iabok",
+      "heb": "הַיַּבֹּק",
+      "translit": "haiabok",
+      "strong": "H2999",
+      "pos": "nume propriu cu articol",
+      "def_ro": "Iabok, râu în Galaad (azi Zarqa).",
+      "dict_ro": "Iabok — afluent de est al Iordanului, unde Iacov s-a luptat cu îngerul (Geneza 32). Pretenția regelui amonit cuprinde tot ținutul dintre Arnon, la sud, și Iabok, la nord — exact regatul lui Sihon, cucerit de Israel în pericopa Hukat (Numeri 21:24). Tora spune însă limpede că Israel s-a oprit „la Iabok, căci hotarul fiilor lui Amon era întărit” (Numeri 21:24; Deuteronom 2:37), deci nu intrase în țara lui Amon."
+     },
+     {
+      "t": ", până la Iordan, așa că acum dă-l înapoi pașnic.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר מֶלֶךְ בְּנֵי־עַמּוֹן אֶל־מַלְאֲכֵי...",
+      "translation": "„Regele copiilor lui Amon i-a spus...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε βασιλεὺς υἱῶν ᾿Αμμὼν πρὸς τοὺς ἀγγέλους ᾿Ιεφθάε· ὅτι ἔλαβεν ᾿Ισραὴλ τὴν γῆν μου ἐν τῷ ἀναβαίνειν αὐτὸν ἐξ Αἰγύπτου ἀπὸ ᾿Αρνὼν ἕως ᾿Ιαβὸκ καὶ ἕως τοῦ ᾿Ιορδάνου· καὶ νῦν ἐπίστρεψον αὐτὰς ἐν εἰρήνῃ, καὶ πορεύσομαι.",
+      "greek": true,
+      "translation": "„Și a zis regele fiilor lui Amon către solii lui Iefta: Pentru că Israel a luat țara mea când a urcat din Egipt, de la Arnon până la Iabok și până la Iordan; și acum întoarce-le în pace, și voi pleca.”",
+      "note": "Septuaginta adaugă la sfârșit „și voi pleca”."
+     }
+    ],
+    "refs": [
+     "Numeri 21:24-26",
+     "Deuteronom 2:37",
+     "Deuteronom 3:16",
+     "Proverbe 19:5,9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Pașnic” — fără ceartă și război."
+     }
+    ]
+   },
+   {
+    "v": "11:14",
+    "t": "Apoi Iefta a trimis din nou soli la regele copiilor lui Amon.",
+    "heb": "וַיּוֹסֶף עוֹד יִפְתָּח וַיִּשְׁלַח מַלְאָכִים אֶל־מֶלֶךְ בְּנֵי עַמּוֹן׃",
+    "translit": "Vaiosef od Iftah vaișlah malahim el-meleh benei Amon.",
+    "tokens": [
+     {
+      "t": "Apoi Iefta a trimis "
+     },
+     {
+      "t": "din nou",
+      "w": "din nou",
+      "heb": "וַיּוֹסֶף עוֹד",
+      "translit": "vaiosef od",
+      "strong": "H3254",
+      "pos": "verb, hifil, imperfect consecutiv + adverb",
+      "def_ro": "a trimis iarăși, a adăugat.",
+      "dict_ro": "Yasaf — „a adăuga, a continua”; aici, „a trimis din nou”. Iefta nu renunță la negocieri după primul refuz: trimite o a doua solie, care va cuprinde cea mai lungă pledoarie istorică din cartea Judecătorilor (11:15-27). Stăruința în căutarea păcii e ecoul poruncii „caută pacea și urmărește-o” (Psalmul 34)."
+     },
+     {
+      "t": " soli la regele copiilor lui Amon."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיּוֹסֶף עוֹד יִפְתָּח וַיִּשְׁלַח...",
+      "translation": "„Apoi Iefta a trimis din nou...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ προσέθηκεν ἔτι ᾿Ιεφθάε καὶ ἀπέστειλεν ἀγγέλους πρὸς βασιλέα υἱῶν ᾿Αμμών.",
+      "greek": true,
+      "translation": "„Și a mai trimis Iefta soli la regele fiilor lui Amon”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmul 120:7",
+     "Romani 12:18",
+     "Evrei 12:14",
+     "1 Petru 3:11"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "11:15",
+    "t": "Și i-a spus: „Așa a spus Iefta: «Israel nu a luat țara Moabului și nici țara copiilor lui Amon.",
+    "heb": "וַיֹּאמֶר לוֹ כֹּה אָמַר יִפְתָּח לֹא־לָקַח יִשְׂרָאֵל אֶת־אֶרֶץ מוֹאָב וְאֶת־אֶרֶץ בְּנֵי עַמּוֹן׃",
+    "translit": "Vaiomer lo ko amar Iftah lo-lakah Israel et-ereț Moav veet-ereț benei Amon.",
+    "tokens": [
+     {
+      "t": "Și i-a spus: „Așa a spus Iefta: «Israel nu a luat "
+     },
+     {
+      "t": "țara Moabului",
+      "w": "țara Moabului",
+      "heb": "אֶת־אֶרֶץ מוֹאָב",
+      "translit": "et-ereț Moav",
+      "strong": "H4124",
+      "pos": "particulă + substantiv, în construcție + nume propriu",
+      "def_ro": "țara Moabului.",
+      "dict_ro": "Moav — poporul frate cu Amon, urmașii celuilalt fiu al lui Lot (Geneza 19:37). Radak observă că regele amonit ceruse doar țara lui, dar Iefta răspunde despre Moab: ținutul dintre Arnon și Iabok se numea țara Moabului, fusese cucerit de regele amoriților de la Moab, iar Israel l-a luat de la amoriți — deci n-a luat nimic nici de la Moab, nici de la Amon. Metzudat David rezumă: chiar dacă ținutul fusese odinioară al lor, când l-a luat Israel nu mai era."
+     },
+     {
+      "t": " și nici țara copiilor lui Amon."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר לוֹ כֹּה אָמַר...",
+      "translation": "„Și i-a spus: „Așa a spus...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν αὐτῷ· οὕτω λέγει ᾿Ιεφθάε· οὐκ ἔλαβεν ᾿Ισραὴλ τὴν γῆν Μωὰβ καὶ τὴν γῆν υἱῶν ᾿Αμμών·",
+      "greek": true,
+      "translation": "„și i-a zis: Așa zice Iefta: N-a luat Israel țara Moabului și țara fiilor lui Amon;”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 21:13-15,27-30",
+     "Deuteronom 2:9,19",
+     "2 Cronici 20:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Țara Moabului” — adică, dacă ținutul acela fusese odinioară al Moabului și al lui Amon, iată, când l-a luat Israel nu mai era țara lor, cum va explica în versetele următoare."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Țara Moabului și țara copiilor lui Amon” — ce avea să-i răspundă despre țara Moabului, când el nu-i cerea decât țara copiilor lui Amon? Pentru că îi cerea de la Arnon până la Iabok, i-a răspuns că țara pe care o ceri se numea după Moab, iar regele amoriților a luat-o de la Moab, iar Israel a luat-o de la regele amoriților; deci Israel n-a luat nici de la Moab, nici de la copiii lui Amon."
+     }
+    ]
+   },
+   {
+    "v": "11:16",
+    "t": "Căci atunci când Israel a urcat din Egipt, Israel a mers în deșert până la Marea Trestiilor și au ajuns la Kadeș.",
+    "heb": "כִּי בַּעֲלוֹתָם מִמִּצְרַיִם וַיֵּלֶךְ יִשְׂרָאֵל בַּמִּדְבָּר עַד־יַם־סוּף וַיָּבֹא קָדֵשָׁה׃",
+    "translit": "Ki baalotam mi'Mițraim vaièleh Israel bamidbar ad-Iam-Suf vaiavo Kadeșa.",
+    "tokens": [
+     {
+      "t": "Căci atunci când Israel a urcat din Egipt, Israel a mers în deșert până la Marea Trestiilor și au ajuns la "
+     },
+     {
+      "t": "Kadeș",
+      "w": "Kadeș",
+      "heb": "קָדֵשָׁה",
+      "translit": "Kadeșa",
+      "strong": "H6946",
+      "pos": "nume propriu + he direcțional",
+      "def_ro": "spre Kadeș.",
+      "dict_ro": "Kadeș (Kadeș-Barnea) — oaza din pustiul Țin unde Israel a stat cea mai mare parte a celor patruzeci de ani, unde au plecat iscoadele (Numeri 13:26) și unde a murit Miriam (Numeri 20:1), la începutul pericopei Hukat. Iefta rezumă cu precizie cronologia din Numeri 20-21: ieșirea din Egipt, drumul prin pustiu spre Marea Trestiilor, oprirea la Kadeș. Radak discută de ce se spune „până la Marea Trestiilor” după ce o trecuseră deja: Israel nu a traversat marea de-a latul, ci a ieșit pe același mal."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי בַּעֲלוֹתָם מִמִּצְרַיִם וַיֵּלֶךְ...",
+      "translation": "„Căci atunci când Israel a urcat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι ἐν τῷ ἀναβαίνειν αὐτοὺς ἐξ Αἰγύπτου ἐπορεύθη ᾿Ισραὴλ ἐν τῇ ἐρήμῳ ἕως θαλάσσης Σὶφ καὶ ἦλθεν εἰς Κάδης.",
+      "greek": true,
+      "translation": "„căci, când au urcat din Egipt, Israel a mers prin pustie până la Marea Sif și a venit la Cades.”",
+      "note": "Septuaginta transliterează „Suf” prin „Sif” (θάλασσα Σίφ), în loc să traducă „Marea Roșie” ca în alte locuri."
+     }
+    ],
+    "refs": [
+     "Numeri 14:25",
+     "Deuteronom 1:40",
+     "Numeri 13:26",
+     "Numeri 20:1",
+     "Deuteronom 1:46",
+     "Iosua 5:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Până la Marea Trestiilor” — la sud de țara Edomului, iar țara Edomului este la sud de țara Canaanului."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „În deșert până la Marea Trestiilor” — în pustiul cunoscut, pustiul Șur, numit și pustiul Etam. Iar faptul că spune „până la Marea Trestiilor” deși o trecuseră deja: să știi că Israel nu a trecut marea de-a latul, ci a ieșit pe aceeași latură pe care intrase, căci a intrat în mare din pustiul Etam și a ieșit tot în pustiul Etam."
+     }
+    ]
+   },
+   {
+    "v": "11:17",
+    "t": "Israel a trimis soli la regele Edomului, spunând: ‘Lasă-mă, te rog, să trec prin țara ta’, însă regele Edomului nu a ascultat. Și regelui Moabului i-a trimis soli, dar nici el nu i-a îngăduit, așa că Israel a pribegit în Kadeș.",
+    "heb": "וַיִּשְׁלַח יִשְׂרָאֵל מַלְאָכִים אֶל־מֶלֶךְ אֱדוֹם לֵאמֹר אֶעְבְּרָה־נָּא בְאַרְצֶךָ וְלֹא שָׁמַע מֶלֶךְ אֱדוֹם וְגַם אֶל־מֶלֶךְ מוֹאָב שָׁלַח וְלֹא אָבָה וַיֵּשֶׁב יִשְׂרָאֵל בְּקָדֵשׁ׃",
+    "translit": "Vaișlah Israel malahim el-meleh Edom lemor ebra-na vearțeha velo șama meleh Edom vegam el-meleh Moav șalah velo ava vaièșev Israel be'Kadeș.",
+    "tokens": [
+     {
+      "t": "Israel a trimis soli la regele "
+     },
+     {
+      "t": "Edomului",
+      "w": "Edomului",
+      "heb": "אֱדוֹם",
+      "translit": "Edom",
+      "strong": "H123",
+      "pos": "nume propriu",
+      "def_ro": "Edom, țara urmașilor lui Esau.",
+      "dict_ro": "Edom — „roșu”, numele lui Esau și al țării lui, la sud-est de Marea Moartă. Episodul cererii de trecere și al refuzului se află chiar în pericopa Hukat (Numeri 20:14-21). Rashi completează un detaliu pe care Numeri nu-l spune: și regele Moabului a refuzat, iar Moise face aluzie la aceasta în Deuteronom 2:29 („cum mi-au făcut fiii lui Esau din Seir și moabiții din Ar”). Israel a respectat refuzul și a ocolit, fără să lupte."
+     },
+     {
+      "t": ", spunând: ‘Lasă-mă, te rog, să trec prin țara ta’, însă regele Edomului nu a ascultat. Și regelui Moabului i-a trimis soli, dar nici el nu i-a îngăduit, așa că Israel a pribegit în Kadeș."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח יִשְׂרָאֵל מַלְאָכִים אֶל־מֶלֶךְ...",
+      "translation": "„Israel a trimis soli la regele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπέστειλεν ᾿Ισραὴλ ἀγγέλους πρὸς βασιλέα ᾿Εδὼμ λέγων· παρελεύσομαι δὴ ἐν τῇ γῇ σου· καὶ οὐκ ἤκουσε βασιλεὺς ᾿Εδώμ. καί γε πρὸς βασιλέα Μωὰβ ἀπέστειλε, καὶ οὐκ εὐδόκησε. καὶ ἐκάθισεν ᾿Ισραὴλ ἐν Κάδης.",
+      "greek": true,
+      "translation": "„Și a trimis Israel soli la regele Edomului, zicând: Voi trece prin țara ta; și n-a ascultat regele Edomului. Și a trimis și la regele Moabului, și n-a binevoit. Și a stat Israel în Cades.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 20:14-21",
+     "Deuteronom 2:4-8,29",
+     "Deuteronom 2:9",
+     "Numeri 20:1,16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Lasă-mă, te rog, să trec prin țara ta” — de la sud la nord, ca să intru în țara Canaanului. „Și regelui Moabului” — a cărui țară se învecina cu capătul țării Edomului, la răsărit de Edom și la sud de Țara lui Israel. „Nu i-a îngăduit” — Moise face aluzie la aceasta în Tora: „cum mi-au făcut fiii lui Esau care locuiesc în Seir și moabiții care locuiesc în Ar” (Deuteronom 2:29); precum Edomul nu i-a lăsat să treacă, așa nici Moabul nu i-a lăsat."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Să trec” — ca să intru în țara Canaanului."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ava” — a voit, ca în „nu vrea (lo ava) cumnatul meu” (Deuteronom 25:7)."
+     }
+    ]
+   },
+   {
+    "v": "11:18",
+    "t": "A mers prin deșert și a mers în jurul țării Edomului și țării Moabului, și a ajuns la latura de răsărit a țării Moabului, unde și-a așezat tabăra dincolo de Arnon; dar nu au intrat în hotarul Moabului, căci Arnon este hotarul Moabului.",
+    "heb": "וַיֵּלֶךְ בַּמִּדְבָּר וַיָּסָב אֶת־אֶרֶץ אֱדוֹם וְאֶת־אֶרֶץ מוֹאָב וַיָּבֹא מִמִּזְרַח־שֶׁמֶשׁ לְאֶרֶץ מוֹאָב וַיַּחֲנוּן בְּעֵבֶר אַרְנוֹן וְלֹא־בָאוּ בִּגְבוּל מוֹאָב כִּי אַרְנוֹן גְּבוּל מוֹאָב׃",
+    "translit": "Vaièleh bamidbar vaiasov et-ereț Edom veet-ereț Moav vaiavo mimizrah-șemeș leereț Moav vaiahanun beever Arnon velo-vau bigvul Moav ki Arnon ghevul Moav.",
+    "tokens": [
+     {
+      "t": "A mers prin deșert și a mers în jurul țării Edomului și țării Moabului, și a ajuns la latura de răsărit a țării Moabului, unde și-a așezat tabăra dincolo de "
+     },
+     {
+      "t": "Arnon",
+      "w": "Arnon",
+      "heb": "אַרְנוֹן",
+      "translit": "Arnon",
+      "strong": "H769",
+      "pos": "nume propriu",
+      "def_ro": "Arnon, râu la est de Marea Moartă (azi Wadi Mujib).",
+      "dict_ro": "Arnon — râul adânc care se varsă în Marea Moartă din răsărit, granița naturală dintre Moab și regatul amorit al lui Sihon (Numeri 21:13, în pericopa Hukat). Rashi descrie tot traseul: spre răsărit, de-a lungul hotarelor de sud ale Edomului și Moabului, apoi spre nord, pe marginea hotarului de răsărit, până dincolo de Arnon — de unde începeau țările lui Sihon și Og. Argumentul lui Iefta e geografic și juridic: Israel n-a intrat în hotarul Moabului."
+     },
+     {
+      "t": "; dar nu au intrat în hotarul Moabului, căci Arnon este hotarul Moabului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּלֶךְ בַּמִּדְבָּר וַיָּסָב אֶת־אֶרֶץ...",
+      "translation": "„A mers prin deșert și a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπορεύθη ἐν τῇ ἐρήμῳ καὶ ἐκύκλωσε τὴν γῆν ᾿Εδὼμ καὶ τὴν γῆν Μωὰβ καὶ ἦλθεν ἀπὸ ἀνατολῶν ἡλίου τῇ γῇ Μωὰβ καὶ παρενέβαλεν ἐν πέραν ᾿Αρνὼν καὶ οὐκ εἰσῆλθεν ἐν ὁρίοις Μωάβ, ὅτι ᾿Αρνὼν ὅριον Μωάβ.",
+      "greek": true,
+      "translation": "„Și a mers prin pustie și a înconjurat țara Edomului și țara Moabului, și a venit de la răsăritul soarelui la țara Moabului, și și-a așezat tabăra dincolo de Arnon, și n-a intrat în hotarele Moabului, căci Arnonul este hotarul Moabului.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 20:22",
+     "Numeri 21:10-13",
+     "Numeri 33:37-44",
+     "Deuteronom 2:1-8",
+     "Numeri 21:13",
+     "Numeri 22:36"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: au mers apoi prin pustiu de la apus la răsărit, de-a lungul hotarelor de sud ale Edomului și Moabului. „A mers în jurul țării Edomului” — tot hotarul ei de sud. „Și țării Moabului” — tot hotarul ei de sud; iar când au ajuns în colțul de sud-est, au cotit spre nord pe marginea hotarului de răsărit. „Și a ajuns la latura de răsărit a țării Moabului, și și-a așezat tabăra dincolo de Arnon” — la capătul hotarului de răsărit al țării Moabului; acolo începeau țările lui Sihon și Og."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„La latura de răsărit” — la răsăritul Moabului. „Căci Arnon” — Arnonul este începutul hotarului Moabului, iar ei au tăbărât de cealaltă parte."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „A mers prin deșert” — prin pustiul Mării Trestiilor, cum e scris: „au plecat de la muntele Hor pe drumul Mării Trestiilor, ca să ocolească țara Edomului” (Numeri 21:4). „Vayahanun” — nun-ul e adăugat, ca în „tișmerun”, „tizkerun”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vayahanun” — ca „vayahanu”, iar nun-ul e adăugat, ca în „tișmerun” (Deuteronom 6:17)."
+     }
+    ]
+   },
+   {
+    "v": "11:19",
+    "t": "Și Israel a trimis soli la Sihon, regele amoriților, regele Heșbonului, și Israel i-a spus: ‘Dă-mi voie, te rog, să trec prin țara ta, până [voi ajunge] la locul meu’.",
+    "heb": "וַיִּשְׁלַח יִשְׂרָאֵל מַלְאָכִים אֶל־סִיחוֹן מֶלֶךְ־הָאֱמֹרִי מֶלֶךְ חֶשְׁבּוֹן וַיֹּאמֶר לוֹ יִשְׂרָאֵל נַעְבְּרָה־נָּא בְאַרְצְךָ עַד־מְקוֹמִי׃",
+    "translit": "Vaișlah Israel malahim el-Sihon meleh-haemori meleh Heșbon vaiomer lo Israel nabra-na vearțeha ad-mekomi.",
+    "tokens": [
+     {
+      "t": "Și Israel a trimis soli la "
+     },
+     {
+      "t": "Sihon",
+      "w": "Sihon",
+      "heb": "סִיחוֹן",
+      "translit": "Sihon",
+      "strong": "H5511",
+      "pos": "nume propriu",
+      "def_ro": "Sihon, regele amoriților din Heșbon.",
+      "dict_ro": "Sihon — regele amorit din Heșbon, care cucerise de la Moab ținutul dintre Arnon și Iabok (Numeri 21:26). Cererea de trecere și războiul cu el sunt povestite în pericopa Hukat (Numeri 21:21-32), iar psalmii îl pomenesc alături de Og ca pe o mare biruință a lui Dumnezeu (Psalmul 136:19-20). „Până la locul meu”, explică Metzudat David, înseamnă țara Canaanului, pe care i-o dăduse DOMNUL."
+     },
+     {
+      "t": ", regele amoriților, regele Heșbonului, și Israel i-a spus: ‘Dă-mi voie, te rog, să trec prin țara ta, până [voi ajunge] la locul meu’."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח יִשְׂרָאֵל מַלְאָכִים אֶל־סִיחוֹן...",
+      "translation": "„Și Israel a trimis soli la...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπέστειλεν ᾿Ισραὴλ ἀγγέλους πρὸς Σηὼν βασιλέα τοῦ ᾿Αμορραίου βασιλέα ᾿Εσεβών, καὶ εἶπεν αὐτῷ ᾿Ισραήλ· παρέλθωμεν δὴ ἐν τῇ γῇ σου ἕως τοῦ τόπου ἡμῶν.",
+      "greek": true,
+      "translation": "„Și a trimis Israel soli la Seon, regele amoreului, regele Esebonului, și i-a zis Israel: Să trecem prin țara ta până la locul nostru.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 21:21-35",
+     "Deuteronom 2:26-34",
+     "Deuteronom 3:1-17",
+     "Iosua 13:8-12"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Până la locul meu” — țara Canaanului, locul pe care mi l-a dat DOMNUL."
+     }
+    ]
+   },
+   {
+    "v": "11:20",
+    "t": "Dar Sihon nu l-a crezut pe Israel că [doar] va trece prin hotarul său, ci Sihon și-a adunat poporul și și-au așezat tabăra la Iahaț și s-a luptat cu Israel.",
+    "heb": "וְלֹא־הֶאֱמִין סִיחוֹן אֶת־יִשְׂרָאֵל עֲבֹר בִּגְבֻלוֹ וַיֶּאֱסֹף סִיחוֹן אֶת־כָּל־עַמּוֹ וַיַּחֲנוּ בְּיָהְצָה וַיִּלָּחֶם עִם־יִשְׂרָאֵל׃",
+    "translit": "Velo-heemin Sihon et-Israel avor bigvulo vaieesof Sihon et-kol-amo vaiahanu be'Iahța vailahem im-Israel.",
+    "tokens": [
+     {
+      "t": "Dar Sihon nu l-a crezut pe Israel că [doar] va trece prin hotarul său, ci Sihon și-a adunat poporul și și-au așezat tabăra la "
+     },
+     {
+      "t": "Iahaț",
+      "w": "Iahaț",
+      "heb": "בְּיָהְצָה",
+      "translit": "beiahța",
+      "strong": "H3096",
+      "pos": "prepoziție + nume propriu",
+      "def_ro": "la Iahaț, cetate în Moab.",
+      "dict_ro": "Iahaț — cetate la nord de Arnon, unde Sihon și-a strâns oastea și a fost înfrânt (Numeri 21:23; Deuteronom 2:32); mai târziu apare pe inscripția regelui moabit Meșa, care se laudă că a recucerit-o. Metzudat David explică de ce Sihon n-a crezut: a crezut că Israel venise să-l înșele, ca să-i cucerească țara. Astfel Iefta arată că războiul l-a început Sihon, nu Israel."
+     },
+     {
+      "t": " și s-a luptat cu Israel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְלֹא־הֶאֱמִין סִיחוֹן אֶת־יִשְׂרָאֵל עֲבֹר...",
+      "translation": "„Dar Sihon nu l-a crezut pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οὐκ ἐνεπίστευσε Σηὼν τῷ ᾿Ισραὴλ παρελθεῖν ἐν τῷ ὁρίῳ αὐτοῦ· καὶ συνῆξε Σηὼν πάντα τὸν λαὸν αὐτοῦ, καὶ παρενέβαλον εἰς ᾿Ιασά, καὶ παρετάξατο πρὸς ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Și n-a crezut Seon că Israel va trece prin hotarul lui; și și-a adunat Seon tot poporul, și și-au așezat tabăra la Iasa, și s-a rânduit la luptă împotriva lui Israel.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 21:23",
+     "Deuteronom 2:32",
+     "Neemia 9:22",
+     "Psalmul 135:10-12",
+     "Psalmul 136:17-21"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dar Sihon nu l-a crezut” — căci a socotit că au venit să-l înșele și să-i cucerească țara."
+     }
+    ]
+   },
+   {
+    "v": "11:21",
+    "t": "Atunci DOMNUL, Dumnezeul lui Israel, l-a dat pe Sihon și tot poporul său în mâna lui Israel și ei i-au lovit, și Israel a luat în stăpânire toată țara amoriților, [țara] locuitorilor acelei țări.",
+    "heb": "וַיִּתֵּן יְהוָה אֱלֹהֵי־יִשְׂרָאֵל אֶת־סִיחוֹן וְאֶת־כָּל־עַמּוֹ בְּיַד יִשְׂרָאֵל וַיַּכּוּם וַיִּירַשׁ יִשְׂרָאֵל אֵת כָּל־אֶרֶץ הָאֱמֹרִי יוֹשֵׁב הָאָרֶץ הַהִיא׃",
+    "translit": "Vaiten ADONAI Elohei-Israel et-Sihon veet-kol-amo beiad Israel vaikuum vairas Israel et kol-ereț haemori ioșev haareț hahi.",
+    "tokens": [
+     {
+      "t": "Atunci DOMNUL, Dumnezeul lui Israel, l-a dat pe Sihon și tot poporul său în mâna lui Israel și ei i-au lovit, și Israel a luat în stăpânire toată țara "
+     },
+     {
+      "t": "amoriților",
+      "w": "amoriților",
+      "heb": "הָאֱמֹרִי",
+      "translit": "haemori",
+      "strong": "H567",
+      "pos": "nume propriu, colectiv, cu articol",
+      "def_ro": "amoriții.",
+      "dict_ro": "Emori — amoriții, unul dintre popoarele Canaanului (Geneza 15:21), cu un regat puternic la răsărit de Iordan în vremea lui Moise. Cuvintele „țara amoriților, [țara] locuitorilor acelei țări” insistă asupra faptului că, la cucerire, ținutul era al amoriților, nu al Moabului sau al lui Amon — piesa centrală a argumentului lui Iefta. Metzudat Țion: vayireș, „a luat în stăpânire”, e din rădăcina moștenirii."
+     },
+     {
+      "t": ", [țara] locuitorilor acelei țări."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּתֵּן יְהוָה אֱלֹהֵי־יִשְׂרָאֵל אֶת־סִיחוֹן...",
+      "translation": "„Atunci DOMNUL, Dumnezeul lui Israel, l-a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ παρέδωκε Κύριος ὁ Θεὸς ᾿Ισραὴλ τὸν Σηὼν καὶ πάντα τὸν λαὸν αὐτοῦ ἐν χειρὶ ᾿Ισραήλ, καὶ ἐπάταξεν αὐτόν· καὶ ἐκληρονόμησεν ᾿Ισραὴλ πᾶσαν τὴν γῆν τοῦ ᾿Αμμοραίου τοῦ κατοικοῦντος τὴν γῆν ἐκείνην.",
+      "greek": true,
+      "translation": "„Și a dat Domnul Dumnezeul lui Israel pe Seon și tot poporul lui în mâna lui Israel, și l-a bătut; și a moștenit Israel toată țara amoreului care locuia în țara aceea,”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vayireș” — din „moștenire”."
+     }
+    ]
+   },
+   {
+    "v": "11:22",
+    "t": "Și au luat în stăpânire tot hotarul amoriților, de la Arnon până la Iabok, și de la deșert până la Iordan.",
+    "heb": "וַיִּירְשׁוּ אֵת כָּל־גְּבוּל הָאֱמֹרִי מֵאַרְנוֹן וְעַד־הַיַּבֹּק וּמִן־הַמִּדְבָּר וְעַד־הַיַּרְדֵּן׃",
+    "translit": "Vairșu et kol-ghevul haemori me'Arnon vead-ha'Iabok umin-hamidbar vead-ha'Iarden.",
+    "tokens": [
+     {
+      "t": "Și au luat în stăpânire tot hotarul amoriților, de la Arnon până la Iabok, și de la "
+     },
+     {
+      "t": "deșert",
+      "w": "deșert",
+      "heb": "הַמִּדְבָּר",
+      "translit": "hamidbar",
+      "strong": "H4057",
+      "pos": "substantiv, masculin singular, cu articol",
+      "def_ro": "pustiul.",
+      "dict_ro": "Midbar — pustiul, ținutul de pășune neirigat; aici, marginea deșertului arab la răsărit. Versetul fixează cele patru hotare ale teritoriului disputat: Arnon la sud, Iabok la nord, pustiul la răsărit, Iordanul la apus — cuvânt cu cuvânt ca în Numeri 21:24 și Deuteronom 2:36-37. Rashi: tocmai ținutul pe care îl pretinzi ca al tău l-au luat de la Sihon; iar Metzudat David adaugă că Sihon îl cucerise odinioară de la Moab și Amon."
+     },
+     {
+      "t": " până la Iordan."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּירְשׁוּ אֵת כָּל־גְּבוּל הָאֱמֹרִי...",
+      "translation": "„Și au luat în stăpânire tot...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀπὸ ᾿Αρνὼν καὶ ἕως τοῦ ᾿Ιαβὸκ καὶ ἀπὸ τοῦ ἐρήμου ἕως τοῦ ᾿Ιορδάνου.",
+      "greek": true,
+      "translation": "„de la Arnon până la Iabok și de la pustie până la Iordan.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Deuteronom 2:36"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și au luat în stăpânire..., de la Arnon până la Iabok” — ceea ce pretinzi tu că e al tău, ei l-au luat de la Sihon. „De la deșert până la Iordan” — era un ținut pustiu lângă Iordan."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De la Arnon” — deci ținutul acela l-au luat de la Sihon, care îl cucerise odinioară de la Moab și de la Amon."
+     }
+    ]
+   },
+   {
+    "v": "11:23",
+    "t": "Și acum, când DOMNUL, Dumnezeul lui Israel, i-a alungat pe amoriți dinaintea poporului Său Israel, să-i stăpânești tu [pământul]?",
+    "heb": "וְעַתָּה יְהוָה אֱלֹהֵי יִשְׂרָאֵל הוֹרִישׁ אֶת־הָאֱמֹרִי מִפְּנֵי עַמּוֹ יִשְׂרָאֵל וְאַתָּה תִּירָשֶׁנּוּ׃",
+    "translit": "Veata ADONAI Elohei Israel horiș et-haemori mipenei amo Israel veata tirașenu.",
+    "tokens": [
+     {
+      "t": "Și acum, când DOMNUL, Dumnezeul lui Israel, "
+     },
+     {
+      "t": "i-a alungat",
+      "w": "i-a alungat",
+      "heb": "הוֹרִישׁ",
+      "translit": "horiș",
+      "strong": "H3423",
+      "pos": "verb, hifil, perfect, persoana a III-a masculin singular",
+      "def_ro": "a alungat, a deposedat.",
+      "dict_ro": "Yaraș — „a moșteni, a lua în stăpânire”; la hifil, fie „a da în stăpânire”, fie „a alunga, a deposeda”. Radak dă regula: când verbul e urmat de „dinaintea” (mipnei), înseamnă „a alunga”; altfel, „a moșteni”. Iefta folosește jocul în întreaga pledoarie: Dumnezeu i-a alungat pe amoriți ca să moștenească Israel, nu ca să moștenească Amon. Metzudat David: „și tu să-i stăpânești?” e o întrebare de uimire."
+     },
+     {
+      "t": " pe amoriți dinaintea poporului Său Israel, să-i stăpânești tu [pământul]?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה יְהוָה אֱלֹהֵי יִשְׂרָאֵל...",
+      "translation": "„Și acum, când DOMNUL, Dumnezeul lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν Κύριος ὁ Θεὸς ᾿Ισραὴλ ἐξῇρε τὸν ᾿Αμορραῖον ἀπὸ προσώπου λαοῦ αὐτοῦ ᾿Ισραήλ, καὶ σὺ κληρονομήσεις αὐτόν;",
+      "greek": true,
+      "translation": "„Și acum, Domnul Dumnezeul lui Israel l-a scos pe amoreu dinaintea poporului Său Israel, și tu îl vei moșteni?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dinaintea poporului Său Israel” — ca să moștenească ei, nu ca să-ți fie înapoiat ție; și aceasta spune „și tu să-l stăpânești?”, ca întrebare de uimire."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Horiș” — cu sensul de alungare. „Tirașenu” — din „moștenire”."
+     }
+    ]
+   },
+   {
+    "v": "11:24",
+    "t": "Oare nu trebuie să iei în stăpânire ceea ce dumnezeul tău Kemoș îți dă moștenire? Aceea vei lua în stăpânire! Dar [țara] tuturor celor pe care DOMNUL, Dumnezeul nostru, îi alungă dinaintea noastră, noi o vom lua în stăpânire.",
+    "heb": "הֲלֹא אֵת אֲשֶׁר יוֹרִישְׁךָ כְּמוֹשׁ אֱלֹהֶיךָ אוֹתוֹ תִירָשׁ וְאֵת כָּל־אֲשֶׁר הוֹרִישׁ יְהוָה אֱלֹהֵינוּ מִפָּנֵינוּ אוֹתוֹ נִירָשׁ׃",
+    "translit": "Halo et așer iorișha Kemoș eloheha oto tiraș veet kol-așer horiș ADONAI Eloheinu mipanenu oto niraș.",
+    "tokens": [
+     {
+      "t": "Oare nu trebuie să iei în stăpânire ceea ce dumnezeul tău "
+     },
+     {
+      "t": "Kemoș",
+      "w": "Kemoș",
+      "heb": "כְּמוֹשׁ",
+      "translit": "Kemoș",
+      "strong": "H3645",
+      "pos": "nume propriu",
+      "def_ro": "Kemoș, zeul național al Moabului.",
+      "dict_ro": "Kemoș — zeul Moabului (Numeri 21:29, „vai de tine, Moabe, ai pierit, popor al lui Kemoș!”, în pericopa Hukat), pentru care Solomon a zidit mai târziu o înălțime (1 Regi 11:7); inscripția lui Meșa îl invocă de multe ori. Iefta îl numește „dumnezeul tău” vorbind regelui amonit, pentru că acesta pretindea țara Moabului. Radak explică ironia: Kemoș n-a putut să salveze țara de regele amoriților, deci „ia ce-ți dă Kemoș”; Metzudat David: „a spus-o în batjocură”."
+     },
+     {
+      "t": " îți dă moștenire? Aceea vei lua în stăpânire! Dar [țara] tuturor celor pe care DOMNUL, Dumnezeul nostru, îi alungă dinaintea noastră, noi o vom lua în stăpânire."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֲלֹא אֵת אֲשֶׁר יוֹרִישְׁךָ...",
+      "translation": "„Oare nu trebuie să iei în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐχὶ ἃ ἐὰν κληρονομήσει σε Χαμὼς ὁ θεός σου, αὐτὰ κληρονομήσεις, καὶ τοὺς πάντας, οὓς ἐξῇρε Κύριος ὁ Θεὸς ἡμῶν ἀπὸ προσώπου ὑμῶν, αὐτοὺς κληρονομήσομεν;",
+      "greek": true,
+      "translation": "„Oare nu pe cele pe care ți le va da de moștenire Hamos, dumnezeul tău, pe acelea le vei moșteni? Și pe toți cei pe care i-a scos Domnul Dumnezeul nostru dinaintea voastră, pe aceia îi vom moșteni.”",
+      "note": "Septuaginta are „dinaintea voastră” (ὑμῶν) în loc de „dinaintea noastră”."
+     }
+    ],
+    "refs": [
+     "Numeri 21:29",
+     "1 Regi 11:7",
+     "Ieremia 48:7,46",
+     "Deuteronom 9:4,5",
+     "Iosua 3:10",
+     "Mica 4:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Ceea ce dumnezeul tău Kemoș îți dă moștenire” — a spus-o în batjocură."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Kemoș, dumnezeul tău” — iată, el era dumnezeul Moabului; dar i-a spus aceasta: tu ceri țara, care era a Moabului, iar regele amoriților a luat-o de la Moab, și Kemoș, dumnezeul lui, nu a salvat-o; și așa era în gura poeților: „vai de tine, Moabe, ai pierit, popor al lui Kemoș!”. Deci, dacă țara era a ta și Kemoș era dumnezeul tău, ia în stăpânire ce îți dă Kemoș, căci el n-a putut să salveze țara din mâna regelui amoriților, iar DOMNUL, Dumnezeul nostru, l-a alungat pe regele amoriților dinaintea noastră și am moștenit țara aceea. „Horiș” — cu sensul de alungare, cum traduce Targumul; și tot ce e legat de „mipnei” e cu sensul de alungare, iar în rest cu sensul de moștenire."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Kemoș” — numele unui idol. „Horiș” — a alungat. „Nireș” — din „moștenire”."
+     }
+    ]
+   },
+   {
+    "v": "11:25",
+    "t": "Și acum, oare ești tu mai vrednic decât Balak, fiul lui Țipor, regele Moabului? Oare a avut el izbândă împotriva lui Israel? S-a luptat el oare cu ei?",
+    "heb": "וְעַתָּה הֲטוֹב טוֹב אַתָּה מִבָּלָק בֶּן־צִפּוֹר מֶלֶךְ מוֹאָב הֲרוֹב רָב עִם־יִשְׂרָאֵל אִם־נִלְחֹם נִלְחַם בָּם׃",
+    "translit": "Veata hatov tov ata mi'Balak ben-Țipor meleh Moav harov rav im-Israel im-nilhom nilham bam.",
+    "tokens": [
+     {
+      "t": "Și acum, oare ești tu mai vrednic decât "
+     },
+     {
+      "t": "Balak",
+      "w": "Balak",
+      "heb": "מִבָּלָק",
+      "translit": "mibalak",
+      "strong": "H1111",
+      "pos": "prepoziție + nume propriu",
+      "def_ro": "decât Balak.",
+      "dict_ro": "Balak — regele Moabului din vremea lui Moise, care, temându-se de Israel, l-a chemat pe Bilaam să-l blesteme (Numeri 22-24, pericopa următoare, Balak). Argumentul lui Iefta: dacă nici Balak, adevăratul stăpân al Moabului, n-a pretins ținutul și n-a luptat pentru el, cu ce drept îl cere Amonul? Radak explică de ce se spune că Balak „nu s-a luptat”, deși Iosua 24:9 zice că „s-a ridicat și a luptat”: lupta lui a fost doar prin blestemele lui Bilaam, nu pentru țară."
+     },
+     {
+      "t": ", fiul lui Țipor, regele Moabului? Oare a avut el izbândă împotriva lui Israel? S-a luptat el oare cu ei?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה הֲטוֹב טוֹב אַתָּה...",
+      "translation": "„Și acum, oare ești tu mai...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν μὴ ἐν ἀγαθῷ ἀγαθώτερος σὺ ὑπὲρ Βαλὰκ υἱὸν Σεπφὼρ βασιλέως Μωάβ; μὴ μαχόμενος ἐμαχέσατο μετὰ ᾿Ισραὴλ ἢ πολεμῶν ἐπολέμησεν αὐτόν;",
+      "greek": true,
+      "translation": "„Și acum, oare ești tu cu mult mai bun decât Balac, fiul lui Sepfor, regele Moabului? Oare s-a certat el cu Israel, sau s-a războit cu el?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 22:2-21",
+     "Iosua 24:9,10",
+     "Mica 6:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„S-a luptat el oare” — oare a făcut el ceartă cu Israel pentru ținutul acela, deși în el era și ceva ce fusese al Moabului?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „S-a luptat el oare cu ei?” — iată, în cartea lui Iosua se spune: „Balak s-a ridicat și a luptat împotriva lui Israel”; dar, cum am explicat acolo, lupta a fost că l-a trimis pe Bilaam să-i blesteme; iată, n-a luptat cu Israel pentru țara lui, și nici regii Moabului de după el n-au luptat cu Israel cu această pretenție, iată, sunt trei sute de ani de când țara e în mâna lui Israel."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Harov rav” — din „ceartă”."
+     }
+    ]
+   },
+   {
+    "v": "11:26",
+    "t": "Când Israel a locuit în Heșbon și toate suburbiile sale și în Aroer și toate suburbiile sale și în toate orașele care au fost de-a lungul Arnonului, timp de trei sute de ani – de ce nu le-ai recuperat în acest timp?",
+    "heb": "בְּשֶׁבֶת יִשְׂרָאֵל בְּחֶשְׁבּוֹן וּבִבְנוֹתֶיהָ וּבְעַרְעוֹר וּבִבְנוֹתֶיהָ וּבְכָל־הֶעָרִים אֲשֶׁר עַל־יְדֵי אַרְנוֹן שְׁלֹשׁ מֵאוֹת שָׁנָה וּמַדּוּעַ לֹא־הִצַּלְתֶּם בָּעֵת הַהִיא׃",
+    "translit": "Beșevet Israel be'Heșbon uvivnoteha uve'Aroer uvivnoteha uvehol-hearim așer al-iedei Arnon șeloș meot șana umadua lo-hițaltem baet hahi.",
+    "tokens": [
+     {
+      "t": "Când Israel a locuit în Heșbon și toate suburbiile sale și în Aroer și toate suburbiile sale și în toate orașele care au fost de-a lungul Arnonului, timp de "
+     },
+     {
+      "t": "trei sute de ani",
+      "w": "trei sute de ani",
+      "heb": "שְׁלֹשׁ מֵאוֹת שָׁנָה",
+      "translit": "șeloș meot șana",
+      "strong": "H7969",
+      "pos": "numeral + numeral + substantiv",
+      "def_ro": "trei sute de ani.",
+      "dict_ro": "Șeloș meot șana — cifra lui Iefta e unul dintre puținele repere cronologice ale perioadei judecătorilor. Rashi și Radak o reconstituie după Seder Olam: Ioșua 28 de ani, Otniel 40, Ehud 80, Debora 40, Ghedeon 40, Abimeleh 3, Tola 23, Iair 22, plus cei 18 ani de asuprire amonită — aproape trei sute. Metzudat David precizează că e o cifră rotunjită („aproape trei sute”). Argumentul e o formă de prescripție: o pretenție care n-a fost ridicată timp de trei secole nu mai poate fi ridicată acum."
+     },
+     {
+      "t": " – de ce nu le-ai recuperat în acest timp?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּשֶׁבֶת יִשְׂרָאֵל בְּחֶשְׁבּוֹן וּבִבְנוֹתֶיהָ...",
+      "translation": "„Când Israel a locuit în Heșbon...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐν τῷ οἰκῆσαι ἐν ᾿Εσεβὼν καὶ ἐν τοῖς ὁρίοις αὐτῆς καὶ ἐν γῇ ᾿Αροὴρ καὶ ἐν τοῖς ὁρίοις αὐτῆς καὶ ἐν πάσαις ταῖς πόλεσι ταῖς παρὰ τὸν ᾿Ιορδάνην τριακόσια ἔτη, καὶ διατί οὐκ ἐρρύσω αὐτοὺς ἐν τῷ καιρῷ ἐκείνῳ;",
+      "greek": true,
+      "translation": "„pe când locuia [Israel] în Esebon și în hotarele lui și în țara Aroer și în hotarele ei și în toate cetățile de lângă Iordan, trei sute de ani — și de ce nu le-ai smuls în vremea aceea?”",
+      "note": "Septuaginta are „cetățile de lângă Iordan” în loc de „de-a lungul Arnonului”."
+     }
+    ],
+    "refs": [
+     "Numeri 21:25-30",
+     "Deuteronom 2:24",
+     "Iosua 12:2,5",
+     "Iosua 13:10",
+     "Judecători 3:11,30",
+     "Judecători 5:31"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „De-a lungul Arnonului” — lângă Arnon. Aceste cetăți fuseseră ale Moabului, dar ei au recunoscut că nu le pot pretinde, căci fuseseră luate de la Sihon, care le cucerise de la regele Moabului. „Trei sute de ani” — de la cucerirea țării în zilele lui Iosua până la Iefta; de aici învățăm despre anii judecătorilor pomeniți până acum, dacă anii de asuprire sub neamuri sunt socotiți în zilele judecătorului sau nu. Învățăm în Seder Olam: Iosua a condus Israelul douăzeci și opt de ani; Otniel patruzeci de ani, cu anii de asuprire sub Cușan-Rișeataim incluși; apoi Ehud optzeci de ani..."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Când Israel a locuit” — adică atunci când Israel locuia în Heșbon..., trei sute de ani (adică aproape trei sute de ani; vezi socoteala anilor generațiilor în Seder Olam, capitolul 12). „De ce nu le-ai recuperat” — din mâna lui Israel. „În acest timp” — în tot acest răstimp."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Trei sute de ani” — trei sute de ani au locuit în țara aceasta până azi, din ziua când a fost cucerită; de ce nu v-ați luptat pentru ea până azi? Și trei sute de ani după această socoteală, cum e explicat în Seder Olam: Iosua a condus Israelul douăzeci și opt de ani, Otniel, fiul lui Kenaz, patruzeci de ani, Ehud optzeci de ani, Debora și Barac patruzeci de ani, Ghedeon patruzeci de ani, Abimeleh trei ani, Tola, fiul lui Pua, douăzeci și trei de ani, Iair douăzeci și doi de ani — iată 276 de ani, cu anii de asuprire incluși; și cei optsprezece ani în care copiii lui Amon au asuprit Israelul până să se ridice Iefta — iată trei sute de ani, cu cei șase ani ai lui Iefta."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Uvivnoteha” — satele din apropierea ei. „Al iedei” — lângă locurile acelea."
+     }
+    ]
+   },
+   {
+    "v": "11:27",
+    "t": "Eu nu am păcătuit față de tine, dar tu greșești față de mine, făcând război cu mine. Fie ca DOMNUL, Judecătorul, să judece astăzi între copiii lui Israel și copiii lui Amon.»”",
+    "heb": "וְאָנֹכִי לֹא־חָטָאתִי לָךְ וְאַתָּה עֹשֶׂה אִתִּי רָעָה לְהִלָּחֶם בִּי יִשְׁפֹּט יְהוָה הַשֹּׁפֵט הַיּוֹם בֵּין בְּנֵי יִשְׂרָאֵל וּבֵין בְּנֵי עַמּוֹן׃",
+    "translit": "Veanohi lo-hatati lah veata ose iti raa lehilahem bi ișpot ADONAI hașofet haiom bein benei Israel uvein benei Amon.",
+    "tokens": [
+     {
+      "t": "Eu nu am păcătuit față de tine, dar tu greșești față de mine, făcând război cu mine. Fie ca DOMNUL, "
+     },
+     {
+      "t": "Judecătorul",
+      "w": "Judecătorul",
+      "heb": "הַשֹּׁפֵט",
+      "translit": "hașofet",
+      "strong": "H8199",
+      "pos": "verb, qal, participiu, masculin singular, cu articol",
+      "def_ro": "Judecătorul, Cel ce judecă.",
+      "dict_ro": "Șofet — „judecător”; cartea Judecătorilor (Șoftim) își ia numele de la conducătorii numiți astfel, dar aici, singura dată în carte, titlul Îi e dat lui Dumnezeu: „DOMNUL, Judecătorul”. Iefta își încheie pledoaria predând cazul instanței supreme, ca Avraam („Judecătorul întregului pământ nu va face oare dreptate?”, Geneza 18:25). Metzudat David: „DOMNUL, care e Judecătorul întregului pământ, să judece astăzi între...”; versetul e construit cu o inversiune."
+     },
+     {
+      "t": ", să judece astăzi între copiii lui Israel și copiii lui Amon.»”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאָנֹכִי לֹא־חָטָאתִי לָךְ וְאַתָּה...",
+      "translation": "„Eu nu am păcătuit față de...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν ἐγώ εἰμι οὐχ ἥμαρτόν σοι, καὶ σὺ ποιεῖς μετ᾿ ἐμοῦ πονηρίαν τοῦ παρατάξασθαι ἐν ἐμοί· κρίναι Κύριος ὁ κρίνων σήμερον ἀνὰ μέσον υἱῶν ᾿Ισραὴλ καὶ ἀνὰ μέσον υἱῶν ᾿Αμμών.",
+      "greek": true,
+      "translation": "„Și acum, eu n-am păcătuit împotriva ta, iar tu faci rău cu mine, rânduindu-te la luptă împotriva mea; să judece Domnul, Cel ce judecă, astăzi între fiii lui Israel și între fiii lui Amon.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Geneza 18:25",
+     "1 Samuel 2:10",
+     "Psalmul 82:8",
+     "Psalmul 94:2",
+     "Iov 23:7",
+     "Geneza 16:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Eu nu am păcătuit față de tine” — ca să stârnești ceartă cu mine și să te răzbuni pe mine, căci nu ți-am făcut niciun rău. „Fie ca DOMNUL, Judecătorul, să judece” — adică DOMNUL, care este Judecătorul întregului pământ, să judece astăzi între..., iar versetul e inversat."
+     }
+    ]
+   },
+   {
+    "v": "11:28",
+    "t": "Dar regele copiilor lui Amon nu a ascultat vorbele lui Iefta, pe care i le trimisese.",
+    "heb": "וְלֹא שָׁמַע מֶלֶךְ בְּנֵי עַמּוֹן אֶל־דִּבְרֵי יִפְתָּח אֲשֶׁר שָׁלַח אֵלָיו׃",
+    "translit": "Velo șama meleh benei Amon el-divrei Iftah așer șalah elav.",
+    "tokens": [
+     {
+      "t": "Dar regele copiilor lui Amon "
+     },
+     {
+      "t": "nu a ascultat",
+      "w": "nu a ascultat",
+      "heb": "וְלֹא שָׁמַע",
+      "translit": "velo șama",
+      "strong": "H8085",
+      "pos": "conjuncție + negație + verb, qal, perfect",
+      "def_ro": "nu a ascultat, n-a luat seama.",
+      "dict_ro": "Șama — „a auzi, a asculta, a da ascultare”. Refuzul regelui amonit închide negocierile, exact cum refuzul lui Sihon (Numeri 21:23) a închis-o pe cea a lui Moise. Pledoaria lui Iefta nu era menită doar să convingă dușmanul, ci să arate că Israel a căutat pacea până la capăt și că răspunderea războiului cade pe cel care a refuzat-o."
+     },
+     {
+      "t": " vorbele lui Iefta, pe care i le trimisese."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְלֹא שָׁמַע מֶלֶךְ בְּנֵי...",
+      "translation": "„Dar regele copiilor lui Amon nu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οὐκ ἤκουσε βασιλεὺς ᾿Αμμὼν τῶν λόγων ᾿Ιεφθάε, ὧν ἀπέστειλε πρὸς αὐτόν.",
+      "greek": true,
+      "translation": "„Și n-a ascultat regele lui Amon cuvintele lui Iefta, pe care i le trimisese.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Regi 14:11",
+     "Proverbe 16:18"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "11:29",
+    "t": "Și un duh al DOMNULUI a fost asupra lui Iefta. El a trecut prin Ghilad și prin Menașe, și a trecut prin Mițpe din Ghilad, și de la Mițpe din Ghilad a trecut la copiii lui Amon.",
+    "heb": "וַתְּהִי עַל־יִפְתָּח רוּחַ יְהוָה וַיַּעֲבֹר אֶת־הַגִּלְעָד וְאֶת־מְנַשֶּׁה וַיַּעֲבֹר אֶת־מִצְפֵּה גִלְעָד וּמִמִּצְפֵּה גִלְעָד עָבַר בְּנֵי עַמּוֹן׃",
+    "translit": "Vatehi al-Iftah ruah ADONAI vaiaavor et-ha'Ghilad veet-Menașe vaiaavor et-Mițpe Ghilad umi'Mițpe Ghilad avar benei Amon.",
+    "tokens": [
+     {
+      "t": "Și "
+     },
+     {
+      "t": "un duh al DOMNULUI",
+      "w": "un duh al DOMNULUI",
+      "heb": "רוּחַ יְהוָה",
+      "translit": "ruah ADONAI",
+      "strong": "H7307",
+      "pos": "substantiv, feminin singular, în construcție + numele divin",
+      "def_ro": "duhul DOMNULUI.",
+      "dict_ro": "Ruah ADONAI — duhul DOMNULUI, care în cartea Judecătorilor „vine asupra” unor oameni pentru o faptă anume: Otniel (3:10), Ghedeon (6:34), Samson (13:25; 14:6). Targumul lui Ionatan, citat de Radak, îl traduce „un duh de vitejie de dinaintea DOMNULUI”, iar Metzudat David: „duh de vitejie și curaj al inimii”. Iefta își strânge oastea trecând prin Ghilad și Manase, apoi de la Mițpa trece spre amoniți — „ca să lupte cu ei în țara lor”."
+     },
+     {
+      "t": " a fost asupra lui Iefta. El a trecut prin Ghilad și prin Menașe, și a trecut prin Mițpe din Ghilad, și de la Mițpe din Ghilad a trecut la copiii lui Amon."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתְּהִי עַל־יִפְתָּח רוּחַ יְהוָה...",
+      "translation": "„Și un duh al DOMNULUI a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Καὶ ἐγένετο ἐπὶ ᾿Ιεφθάε πνεῦμα Κυρίου, καὶ παρῆλθε τὸν Γαλαὰδ καὶ τὸν Μανασσῆ καὶ παρῆλθε τὴν σκοπιὰν Γαλαὰδ εἰς τὸ πέραν υἱῶν ᾿Αμμών.",
+      "greek": true,
+      "translation": "„Și a venit asupra lui Iefta Duhul Domnului, și a trecut prin Galaad și prin Manase și a trecut prin străjile Galaadului în partea de dincolo a fiilor lui Amon.”",
+      "note": "Septuaginta traduce numele Mițpa prin „strajă, loc de pândă” (σκοπιά)."
+     }
+    ],
+    "refs": [
+     "Judecători 3:10",
+     "Judecători 6:34",
+     "Judecători 13:25",
+     "Numeri 11:25",
+     "1 Samuel 10:10",
+     "Judecători 10:17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „A trecut la copiii lui Amon” — adică spre copiii lui Amon."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Duh al DOMNULUI” — un duh de vitejie de la DOMNUL și curaj al inimii. „A trecut la copiii lui Amon” — ca să lupte cu ei în țara lor."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și un duh al DOMNULUI a fost asupra lui Iefta” — [Targumul:] „și s-a odihnit asupra lui Iefta un duh de vitejie de dinaintea DOMNULUI”. „A trecut la copiii lui Amon” — adică în țara copiilor lui Amon."
+     }
+    ]
+   },
+   {
+    "v": "11:30",
+    "t": "Apoi Iefta a făcut un jurământ DOMNULUI și a spus: „Dacă într-adevăr vei da pe copiii lui Amon în mâna mea,",
+    "heb": "וַיִּדַּר יִפְתָּח נֶדֶר לַיהוָה וַיֹּאמַר אִם־נָתוֹן תִּתֵּן אֶת־בְּנֵי עַמּוֹן בְּיָדִי׃",
+    "translit": "Vaidar Iftah neder l'ADONAI vaiomar im-naton titen et-benei Amon beiadi.",
+    "tokens": [
+     {
+      "t": "Apoi Iefta a făcut "
+     },
+     {
+      "t": "un jurământ",
+      "w": "un jurământ",
+      "heb": "נֶדֶר",
+      "translit": "neder",
+      "strong": "H5088",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "o făgăduință (vot) făcută lui Dumnezeu.",
+      "dict_ro": "Neder — votul, făgăduința prin care cineva se leagă să dea sau să facă ceva pentru Dumnezeu, adesea condiționat: „dacă... atunci...”, ca votul lui Iacov la Betel (Geneza 28:20) sau al Anei pentru Samuel (1 Samuel 1:11). Tora cere împlinirea lui cu strictețe (Numeri 30; Deuteronom 23). Votul lui Iefta, făcut în grabă, înainte de luptă, va deveni cel mai tragic din Scriptură; haftara se oprește însă înainte de deznodământul lui (11:34-40)."
+     },
+     {
+      "t": " DOMNULUI și a spus: „Dacă într-adevăr vei da pe copiii lui Amon în mâna mea,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּדַּר יִפְתָּח נֶדֶר לַיהוָה...",
+      "translation": "„Apoi Iefta a făcut un jurământ...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ηὔξατο ᾿Ιεφθάε εὐχὴν τῷ Κυρίῳ καὶ εἶπεν· ἐὰν διδοὺς δῷς μοι τοὺς υἱοὺς ᾿Αμμὼν ἐν τῇ χειρί μου,",
+      "greek": true,
+      "translation": "„Și a făgăduit Iefta o făgăduință Domnului și a zis: Dacă dând mi-i vei da pe fiii lui Amon în mâna mea,”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Geneza 28:20",
+     "1 Samuel 1:11"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "11:31",
+    "t": "atunci orice va ieși, ceea ce va ieși pe ușile casei mele ca să mă întâmpine când mă voi întoarce în pace de la copiii lui Amon, va fi al DOMNULUI și îl voi aduce ca ardere-de-tot.”",
+    "heb": "וְהָיָה הַיּוֹצֵא אֲשֶׁר יֵצֵא מִדַּלְתֵי בֵיתִי לִקְרָאתִי בְּשׁוּבִי בְשָׁלוֹם מִבְּנֵי עַמּוֹן וְהָיָה לַיהוָה וְהַעֲלִיתִהוּ עוֹלָה׃",
+    "translit": "vehaia haiote așer iețe midaltei veiti likrati beșuvi veșalom mibenei Amon vehaia l'ADONAI vehaalitiha ola.",
+    "tokens": [
+     {
+      "t": "atunci orice va ieși, ceea ce va ieși pe ușile casei mele ca să mă întâmpine când mă voi întoarce în pace de la copiii lui Amon, va fi al DOMNULUI și îl voi aduce ca "
+     },
+     {
+      "t": "ardere-de-tot",
+      "w": "ardere-de-tot",
+      "heb": "עוֹלָה",
+      "translit": "ola",
+      "strong": "H5930",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "ardere-de-tot, jertfă arsă în întregime.",
+      "dict_ro": "Ola — jertfa arsă în întregime. Votul lui Iefta e formulat fără grijă: „ceea ce va ieși pe ușile casei mele”. Talmudul (Taanit 4a) îl numără printre cei trei care „au cerut nepotrivit”, căci ar fi putut ieși și un animal necurat, și spune că Dumnezeu i-a răspuns nepotrivit: i-a ieșit în cale fiica lui; tot acolo se spune că jurământul ar fi putut fi dezlegat — „nu este oare balsam în Ghilad?” (Ieremia 8:22). Metzudat David și Radak (după tatăl său) citesc vav-ul din „și îl voi aduce” ca „sau”: dacă e ceva ce nu se poate jertfi, „va fi al DOMNULUI”, adică consacrat; iar Radak susține că fiica n-a fost omorâtă, ci a rămas neprihănită, despărțită de lume."
+     },
+     {
+      "t": ".”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה הַיּוֹצֵא אֲשֶׁר יֵצֵא...",
+      "translation": "„atunci orice va ieși, ceea ce...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔσται ὁ ἐκπορευόμενος, ὃς ἂν ἐξέλθῃ ἀπὸ τῆς θύρας τοῦ οἴκου μου εἰς συνάντησίν μου ἐν τῷ ἐπιστρέφειν με ἐν εἰρήνῃ ἀπὸ υἱῶν ᾿Αμμών, καὶ ἔσται τῷ Κυρίῳ ἀνοίσω αὐτὸν ὁλοκαύτωμα.",
+      "greek": true,
+      "translation": "„atunci cel ce va ieși, care va ieși din ușa casei mele în întâmpinarea mea când mă voi întoarce în pace de la fiii lui Amon, va fi al Domnului; îl voi aduce ardere-de-tot.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Levitic 27:2,3,28,29",
+     "1 Samuel 1:11,28",
+     "1 Samuel 14:24,44",
+     "Psalmul 66:13,14",
+     "Levitic 27:11,12",
+     "Isaia 66:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Va fi al DOMNULUI” — adică, dacă va fi un lucru care nu se cuvine adus ca ardere-de-tot, va fi sfânt DOMNULUI, ca să rămână mereu în sfințenie și să nu fie folosit pentru cele obișnuite. „Și îl voi aduce” — atunci îl voi aduce ardere-de-tot, dacă va fi un lucru potrivit pentru ardere-de-tot."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și îl voi aduce ca ardere-de-tot” — părerea înțelepților noștri despre aceasta e cunoscută; iar tatăl meu, stăpânul meu, de binecuvântată amintire, a explicat că vav-ul din „și îl voi aduce” e în locul lui „sau”: „va fi al DOMNULUI” — consacrat, dacă nu e potrivit pentru ardere-de-tot — sau „îl voi aduce ardere-de-tot”, dacă e potrivit; ca vav-ul din „cel ce lovește pe tatăl său și pe mama sa”, adică „sau pe mama sa”. Și bine a explicat; și așa reiese din verset că nu a omorât-o, căci a spus „voi plânge fecioria mea”, semn că n-a omorât-o, ci doar nu a cunoscut bărbat, cum spune: „și ea nu a cunoscut bărbat”; și a spus „și el a făcut cu ea după votul lui”, și nu a spus „a adus-o ardere-de-tot”, semn că a fost despărțită de lume. Așa se vede după sensul simplu al versetelor; iar dacă cuvintele înțelepților sunt o tradiție primită, suntem datori să o primim."
+     },
+     {
+      "author": "Talmud Bavli, Taanit 4a",
+      "text": "Rabi Șmuel bar Nahmani a spus în numele lui Rabi Ionatan: trei au cerut nepotrivit; la doi li s-a răspuns potrivit, iar unuia i s-a răspuns nepotrivit: Eliezer, robul lui Avraam, Saul, fiul lui Chiș, și Iefta din Ghilad. Iefta a spus: „ceea ce va ieși pe ușile casei mele... îl voi aduce ca ardere-de-tot” (Judecători 11:31) — ar fi putut fi chiar un lucru necurat; iar i s-a răspuns nepotrivit: i-a ieșit în cale fiica lui. Și aceasta a spus profetul: „Nu este oare balsam în Ghilad? Nu este oare acolo niciun doctor?” (Ieremia 8:22) — adică jurământul lui ar fi putut fi dezlegat."
+     }
+    ]
+   },
+   {
+    "v": "11:32",
+    "t": "Apoi Iefta a trecut prin copiii lui Amon, purtând război împotriva lor, și DOMNUL i-a dat în mâna lui.",
+    "heb": "וַיַּעֲבֹר יִפְתָּח אֶל־בְּנֵי עַמּוֹן לְהִלָּחֶם בָּם וַיִּתְּנֵם יְהוָה בְּיָדוֹ׃",
+    "translit": "Vaiaavor Iftah el-benei Amon lehilahem bam vaitenem ADONAI beiado.",
+    "tokens": [
+     {
+      "t": "Apoi Iefta a trecut prin copiii lui Amon, purtând război împotriva lor, și DOMNUL "
+     },
+     {
+      "t": "i-a dat în mâna lui",
+      "w": "i-a dat în mâna lui",
+      "heb": "וַיִּתְּנֵם יְהוָה בְּיָדוֹ",
+      "translit": "vaitenem ADONAI beiado",
+      "strong": "H5414",
+      "pos": "verb, qal, imperfect consecutiv + sufix + numele divin + prepoziție cu sufix",
+      "def_ro": "i-a dat în mâna lui.",
+      "dict_ro": "Natan — „a da”; formula „DOMNUL i-a dat în mâna lui” e refrenul biruințelor din Judecători (3:10; 4:14; 7:15) și reia întocmai condiția votului („dacă îi vei da în mâna mea”, 11:30). Scriptura atribuie victoria lui Dumnezeu, nu vitejiei lui Iefta, deși el e „viteaz de valoare” — iar Talmudul (Roș Hașana 25b) îl pune pe Iefta în generația lui alături de Samuel în generația lui."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּעֲבֹר יִפְתָּח אֶל־בְּנֵי עַמּוֹן...",
+      "translation": "„Apoi Iefta a trecut prin copiii...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ παρῆλθεν ᾿Ιεφθάε πρὸς υἱοὺς ᾿Αμμὼν παρατάξασθαι πρὸς αὐτούς, καὶ παρέδωκεν αὐτοὺς Κύριος ἐν χειρὶ αὐτοῦ.",
+      "greek": true,
+      "translation": "„Și a trecut Iefta la fiii lui Amon ca să se rânduiască la luptă împotriva lor, și i-a dat Domnul în mâna lui.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Judecători 1:4",
+     "Judecători 2:18",
+     "Judecători 3:10"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "11:33",
+    "t": "El i-a lovit de la Aroer până când vii către Minit, douăzeci de orașe, până în Avel-Keramim, o lovitură foarte mare; și copiii lui Amon au fost înfrânți în fața copiilor lui Israel.",
+    "heb": "וַיַּכֵּם מֵעֲרוֹעֵר וְעַד־בּוֹאֲךָ מִנִּית עֶשְׂרִים עִיר וְעַד אָבֵל כְּרָמִים מַכָּה גְדוֹלָה מְאֹד וַיִּכָּנְעוּ בְּנֵי עַמּוֹן מִפְּנֵי בְּנֵי יִשְׂרָאֵל׃",
+    "translit": "Vaikem me'Aroer vead-boaha Minit esrim ir vead Avel Keramim maka ghedola meod vaikaneu benei Amon mipenei benei Israel.",
+    "tokens": [
+     {
+      "t": "El i-a lovit de la Aroer până când vii către Minit, douăzeci de orașe, până în "
+     },
+     {
+      "t": "Avel-Keramim",
+      "w": "Avel-Keramim",
+      "heb": "אָבֵל כְּרָמִים",
+      "translit": "Avel-Keramim",
+      "strong": "H64",
+      "pos": "nume propriu compus",
+      "def_ro": "Avel-Keramim („pajiștea viilor”).",
+      "dict_ro": "Avel-Keramim — „pajiștea viilor”; Rashi, după Targum, îl traduce „câmpia viilor”. Aroer e cetatea de pe malul Arnonului (Deuteronom 2:36), Minit e un ținut cunoscut pentru grâul lui (Ezechiel 27:17), iar Metzudat David explică „până la Minit” ca „până la locul unde vii spre Minit”. Biruința cuprinde douăzeci de cetăți, iar încheierea, „au fost înfrânți”, e formula prin care cartea Judecătorilor încheie fiecare eliberare."
+     },
+     {
+      "t": ", o lovitură foarte mare; și copiii lui Amon au fost înfrânți în fața copiilor lui Israel."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיַּכֵּם מֵעֲרוֹעֵר וְעַד־בּוֹאֲךָ מִנִּית...",
+      "translation": "„El i-a lovit de la Aroer...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπάταξεν αὐτοὺς ἀπὸ ᾿Αροὴρ ἕως ἐλθεῖν ἄχρις ᾿Αρνὼν ἐν ἀριθμῷ εἴκοσι πόλεις καὶ ἕως ᾿Εβελχαρμὶμ πληγὴν μεγάλην σφόδρα, καὶ συνεστάλησαν οἱ υἱοὶ ᾿Αμμὼν ἀπὸ προσώπου υἱῶν ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Și i-a bătut de la Aroer până la intrarea spre Arnon, douăzeci de cetăți la număr, și până la Ebelharmim, lovitură foarte mare; și s-au umilit fiii lui Amon dinaintea fiilor lui Israel.”",
+      "note": "Septuaginta are „până la Arnon” în loc de „până la Minit” și transliterează Avel-Keramim („Ebelharmim”)."
+     }
+    ],
+    "refs": [
+     "Deuteronom 2:36",
+     "Ezechiel 27:17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Avel-Keramim” — câmpia viilor (așa traduce Targumul lui Ionatan)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Până când vii către Minit” — până la locul unde vei veni spre Minit, ca și cum ar vorbi cuiva care cunoaște locul. „Douăzeci de orașe” — pe distanța aceea erau douăzeci de cetăți, și le-a lovit pe toate."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vayikaneu” — din „supunere, umilire”."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
