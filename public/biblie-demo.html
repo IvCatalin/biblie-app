@@ -2320,9 +2320,10 @@
     border-top:1px solid var(--line);
   }
   .pericope-title-meaning{
-    text-transform:none;
-    letter-spacing:0.01em;
-    font-weight:600;
+    font:inherit;
+    letter-spacing:inherit;
+    text-transform:inherit;
+    vertical-align:baseline;
     color:var(--gold);
   }
   .pericope-essays-integrated{
@@ -2765,7 +2766,7 @@
 
       <section class="home-card" style="margin-top:16px;">
         <div class="home-card-label" id="pericope-date-label">Pericopa săptămânii</div>
-        <div class="pericope-section-label" id="pericope-name">Se încarcă din calendarul evreiesc live…</div>
+        <div class="pericope-section-label" id="pericope-name"></div>
         <div id="pericope-refs-list"></div>
         <div id="essays-body" class="pericope-essays-integrated">
           <div id="essays-links-container"></div>
@@ -3328,7 +3329,7 @@ function renderVerseSheetTabs(verse){
       if(realComments.length){
         realComments.forEach(c => appendCommentRow(contentEl, c.author, c.text));
       } else {
-        contentEl.innerHTML = '<div class="home-placeholder-note">Nu există comentarii pentru acest verset.</div>';
+        contentEl.innerHTML = "";
       }
     } else {
       let hasAny = false;
@@ -3372,7 +3373,7 @@ function renderVerseSheetTabs(verse){
         aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text));
       }
       if(!hasAny){
-        contentEl.innerHTML = '<div class="home-placeholder-note">Nu există texte suplimentare pentru acest verset.</div>';
+        contentEl.innerHTML = "";
       }
     }
   }
@@ -5853,14 +5854,13 @@ function renderEssaysForParasha(nameSlug){
   if(!parashotEssaysData){ if(cardLabel) cardLabel.textContent = "Meditații cerești"; return; }
   const targetName = slugToEssayName(nameSlug);
   const entry = parashotEssaysData.find(p => p.name.toLowerCase() === targetName.toLowerCase());
-  if(!entry){ if(cardLabel) cardLabel.textContent = "Meditații cerești"; container.innerHTML = '<div class="home-placeholder-note">Nu am eseuri mapate pentru această porție.</div>'; return; }
+  if(!entry){ if(cardLabel) cardLabel.textContent = "Meditații cerești"; return; }
   if(cardLabel) cardLabel.textContent = "Meditații cerești · " + entry.name;
   if(!entry.verified){
     // Nu afișăm link-uri nesigure ca și cum ar fi corecte — pentru multe
     // porții din baza de date, link-urile inițiale s-au dovedit generice
     // sau irelevante la verificare (ex. Ki Teitzei). Până nu verificăm
     // manual fiecare din cele 54, arătăm asta deschis, nu ascundem problema.
-    container.innerHTML = '<div class="home-placeholder-note">Eseurile pentru această porție sunt în curs de verificare (link-urile inițiale s-au dovedit adesea generice sau greșite la o verificare atentă). Vor fi adăugate pe măsură ce sunt confirmate una câte una.</div>';
     return;
   }
   let lastTradition = null;
@@ -5906,7 +5906,7 @@ function buildPericopeRefRow(refText){
   row.appendChild(span);
   const book = findBookBySlugName(refText);
   const cv = refText.match(/(\d+):(\d+)/);
-  if(book && cv){
+  if(book && cv && chapterIsAvailable(book.slug, parseInt(cv[1], 10))){
     const chapterNum = parseInt(cv[1], 10);
     const verseNum = parseInt(cv[2], 10);
     const btn = document.createElement("button");
@@ -5916,18 +5916,6 @@ function buildPericopeRefRow(refText){
     btn.addEventListener("click", (e) => {
       e.stopPropagation();
       // Panoul arată doar primele 2 versete ale pasajului; „citește capitolul” duce la tot capitolul.
-      const goBtn = document.getElementById("ref-preview-go");
-      const popover = document.getElementById("ref-preview-popover");
-      if(!chapterIsAvailable(book.slug, chapterNum)){
-        document.getElementById("ref-preview-title").textContent = refText;
-        document.getElementById("ref-preview-text").textContent = "Textul acestui pasaj nu este încă disponibil în aplicație.";
-        goBtn.style.display = "none";
-        pendingRefNav = null;
-        hideWordPopover();
-        popover.classList.add("show");
-        return;
-      }
-      goBtn.style.display = "";
       showRefPreview(book.name + " " + chapterNum + ":" + verseNum + "-" + (verseNum + 1), btn);
       document.getElementById("ref-preview-title").textContent = refText;
     });
@@ -5946,16 +5934,10 @@ function setHebrewTitleWithMeaning(el, name, meaning){
     el.appendChild(m);
   }
 }
-function renderPericopeRefs(torahRo, haftarahRo, note){
+function renderPericopeRefs(torahRo, haftarahRo){
   const list = document.getElementById("pericope-refs-list");
   if(!list) return;
   list.innerHTML = "";
-  if(note){
-    const n = document.createElement("div");
-    n.className = "home-placeholder-note";
-    n.textContent = note;
-    list.appendChild(n);
-  }
   if(torahRo){
     torahRo.split(";").map(s => s.trim()).filter(Boolean).forEach(part => {
       list.appendChild(buildPericopeRefRow(part));
@@ -6341,12 +6323,11 @@ async function initHebrewCalendar(){
     const fri = new Date(shabbat); fri.setDate(fri.getDate() - 1);
     return "Pericopa săptămânii · " + window.formatDateRo(localIso(fri));
   }
-  const HOLIDAY_NOTE = "În acest Șabat nu se citește o pericopă obișnuită, ci citirea specială a sărbătorii.";
   function renderReading(shabbat, parshaEn, holidayEn, torahRo, haftarahRo){
     if(dateLabel) dateLabel.textContent = erevShabbatLabel(shabbat);
     const t = parshaEn ? window.translateParasha(parshaEn) : window.translateLeyningHoliday(holidayEn || "");
     window.setHebrewTitleWithMeaning(nameEl, t.name, t.meaning);
-    renderPericopeRefs(torahRo, haftarahRo, parshaEn ? "" : HOLIDAY_NOTE);
+    renderPericopeRefs(torahRo, haftarahRo);
     if(!parshaEn){ if(typeof window.renderEssaysForParasha === "function") window.renderEssaysForParasha("-"); return; }
     const nameSlug = parshaEn.join("-").toLowerCase().replace(/'/g, "").replace(/\s+/g, "-");
     const tryRenderEssays = () => {
@@ -6363,7 +6344,7 @@ async function initHebrewCalendar(){
     const shabbat = upcomingShabbat();
     const p = FALLBACK_PARASHOT.find(x => x.date === localIso(shabbat));
     if(!p){
-      nameEl.textContent = "Verificați hebcal.com/sedrot pentru pericopa curentă.";
+      nameEl.textContent = "";
       renderPericopeRefs("", "");
       return;
     }
