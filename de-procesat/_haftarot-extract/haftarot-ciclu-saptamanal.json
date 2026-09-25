@@ -59965,6 +59965,1278 @@
     ]
    }
   ]
+ },
+  {
+  "num": 36,
+  "title": "Haftarat Behar",
+  "ref": "Ieremia 32:6-27",
+  "intro": "Pericopa Behar rânduiește anul sabatic, jubileul și dreptul rudei de a răscumpăra pământul vândut de fratele sărăcit, pentru ca moștenirea familiei să nu fie pierdută pentru totdeauna. Haftara arată această lege pusă în practică în cel mai neașteptat moment: Ierusalimul e asediat de babilonieni, iar Ieremia e închis în curtea temniței pentru profețiile lui de pedeapsă. Tocmai atunci, vărul lui, Hanamel, vine să-i ceară să-și exercite dreptul de răscumpărare și să cumpere ogorul familiei din Anatot, un pământ deja aflat sub ocupație. Profetul cumpără, semnează, cheamă martori și pune actele într-un vas de lut, „ca să se păstreze vreme lungă”, pentru că DOMNUL a spus: „Se vor mai cumpăra case, ogoare și vii pe pământul acesta.” Rugăciunea nedumerită a lui Ieremia primește un răspuns simplu: nimic nu e ascuns și nimic nu e prea greu pentru Dumnezeul tuturor făpturilor. Exilul care începe nu va fi veșnic.",
+  "verses": [
+   {
+    "v": "32:6",
+    "t": "Ieremia a spus: „Cuvântul DOMNULUI a venit la mine, spunând:",
+    "heb": "וַיֹּאמֶר יִרְמְיָהוּ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
+    "translit": "Vaiomer Irmeiahu haia devar-ADONAI elai lemor.",
+    "tokens": [
+     {
+      "t": "Ieremia a spus: „"
+     },
+     {
+      "t": "Cuvântul DOMNULUI",
+      "w": "Cuvântul DOMNULUI",
+      "heb": "דְבַר־יְהוָה",
+      "translit": "devar-ADONAI",
+      "strong": "H1697",
+      "pos": "substantiv, masculin singular, în construcție + nume divin",
+      "def_ro": "cuvântul DOMNULUI.",
+      "dict_ro": "Devar ADONAI — profeția vine în al zecelea an al lui Țedekia, când Ieremia era închis în curtea temniței pentru că prevestise căderea Ierusalimului (32:1-5). Rashi observă că versetul reia firul întrerupt: Scriptura a explicat mai întâi de ce fusese închis profetul, apoi revine să spună care a fost cuvântul primit; Metzudat David precizează la fel că, după lunga descriere a asediului, textul se întoarce la cuvântul DOMNULUI."
+     },
+     {
+      "t": " a venit la mine, spunând:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמֶר יִרְמְיָהוּ הָיָה דְבַר־יְהוָה...",
+      "translation": "„Ieremia a spus: „Cuvântul DOMNULUI a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ λόγος Κυρίου ἐγενήθη πρὸς ῾Ιερεμίαν λέγων·",
+      "greek": true,
+      "translation": "„Și cuvântul Domnului a fost către Ieremia, zicând:”",
+      "note": "Septuaginta formulează la persoana a treia („către Ieremia”), fără introducerea „Ieremia a spus” și fără „la mine” din Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ieremia a spus” — nu i-a spus aceasta lui Țedekia, ci Scriptura a explicat de ce l-a închis, apoi s-a întors la cuvintele de la început, ca să explice care a fost cuvântul ce a venit la Ieremia."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cuvântul DOMNULUI a venit” — se întoarce la cele de mai sus, ca să spună că acesta este cuvântul care a venit la Ieremia în anul al zecelea; și pentru că s-au lungit cuvintele despre asediu și despre pricina închiderii lui Ieremia, a revenit să spună din nou: cuvântul DOMNULUI a venit la mine."
+     }
+    ]
+   },
+   {
+    "v": "32:7",
+    "t": "«Iată, Hanamel, fiul unchiului tău Șalum, vine la tine să spună: ‘Cumpără pentru tine ogorul meu din Anatot, căci al tău este dreptul de răscumpărare ca să cumperi.’»",
+    "heb": "הִנֵּה חֲנַמְאֵל בֶּן־שַׁלֻּם דֹּדְךָ בָּא אֵלֶיךָ לֵאמֹר קְנֵה לְךָ אֶת־שָׂדִי אֲשֶׁר בַּעֲנָתוֹת כִּי לְךָ מִשְׁפַּט הַגְּאֻלָּה לִקְנוֹת׃",
+    "translit": "Hine Hanamel ben-Șalum dodha ba eleha lemor kene leha et-sadi așer ba'Anatot ki leha mișpat hagheula liknot.",
+    "tokens": [
+     {
+      "t": "«Iată, Hanamel, fiul unchiului tău Șalum, vine la tine să spună: ‘Cumpără pentru tine ogorul meu din Anatot, căci al tău este "
+     },
+     {
+      "t": "dreptul de răscumpărare",
+      "w": "dreptul de răscumpărare",
+      "heb": "מִשְׁפַּט הַגְּאֻלָּה",
+      "translit": "mișpat hagheula",
+      "strong": "H1353",
+      "pos": "substantiv, masculin singular, în construcție + substantiv, feminin singular, cu articol",
+      "def_ro": "dreptul (datoria) rudei de a răscumpăra.",
+      "dict_ro": "Gheula — răscumpărarea pământului de către ruda cea mai apropiată, ca proprietatea familiei să nu treacă la străini: „dacă fratele tău sărăcește și vinde din moșia lui, ruda lui cea mai apropiată să vină și să răscumpere ce a vândut fratele său” (Levitic 25:25). Este chiar legea din pericopa Behar, de aici legătura haftarei cu pericopa; Metzudat David trimite și la Rut 4:3-4, unde Boaz îi propune răscumpărătorului „ogorul lui Elimelec”."
+     },
+     {
+      "t": " ca să cumperi.’»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנֵּה חֲנַמְאֵל בֶּן־שַׁלֻּם דֹּדְךָ...",
+      "translation": "„«Iată, Hanamel, fiul unchiului tău Șalum...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἰδοὺ ᾿Αναμεὴλ υἱὸς Σαλὼμ ἀδελφοῦ πατρός σου ἔρχεται πρὸς σὲ λέγων· κτῆσαι σεαυτῷ τὸν ἀγρόν μου τὸν ἐν ᾿Αναθώθ, ὅτι σοὶ κρίσις παραλαβεῖν εἰς κτῆσιν.",
+      "greek": true,
+      "translation": "„Iată, Anameel, fiul lui Salom, fratele tatălui tău, vine la tine zicând: Cumpără-ți ogorul meu cel din Anatot, căci ție îți aparține dreptul de a-l lua în stăpânire.”",
+      "note": "Corespondență strânsă; Septuaginta îl numește pe Salom „fratele tatălui tău” și redă „dreptul de răscumpărare” prin „dreptul de a-l lua în stăpânire”."
+     }
+    ],
+    "refs": [
+     "1 Regi 14:5",
+     "Marcu 14:13-16",
+     "Ieremia 1:1",
+     "Levitic 25:23,34,49",
+     "Numeri 35:2",
+     "Rut 4:4-9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Vine la tine” — din porunca lui Dumnezeu."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Unchiului tău” — se referă la Șalum. „Vine la tine” — e pe cale să vină la tine. „Căci al tău este dreptul de răscumpărare” — pentru că ești ruda mea apropiată, e dreptul tău să răscumperi ogorul meu, ca să nu ajungă în mâinile altora, și să-l cumperi tu; căci așa era rânduiala lor, cum s-a spus despre Boaz: „i-a spus răscumpărătorului: partea de ogor... dacă vrei să răscumperi, răscumpără” (Rut 4:3-4)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Dreptul de răscumpărare” — dacă aș fi vândut ogorul altcuiva, tu ai avea dreptul să-l răscumperi din mâna lui; cu atât mai mult ești vrednic să-l cumperi tu direct de la mine."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mișpat” — cu sensul de obicei și rânduială, ca în „rânduiala preoților” (Samuel I 2:13)."
+     }
+    ]
+   },
+   {
+    "v": "32:8",
+    "t": "Hanamel, vărul meu, a venit la mine, după rostirea DOMNULUI, în curtea temniței, și mi-a spus: «Te rog, cumpără-ți ogorul meu din Anatot, care este în ținutul lui Beniamin, căci al tău este dreptul de moștenire și al tău este [dreptul de] răscumpărare. Cumpără-l pentru tine!» Și am cunoscut că fusese cuvântul DOMNULUI.",
+    "heb": "וַיָּבֹא אֵלַי חֲנַמְאֵל בֶּן־דֹּדִי כִּדְבַר יְהוָה אֶל־חֲצַר הַמַּטָּרָה וַיֹּאמֶר אֵלַי קְנֵה נָא אֶת־שָׂדִי אֲשֶׁר־בַּעֲנָתוֹת אֲשֶׁר בְּאֶרֶץ בִּנְיָמִין כִּי־לְךָ מִשְׁפַּט הַיְרֻשָּׁה וּלְךָ הַגְּאֻלָּה קְנֵה־לָךְ וָאֵדַע כִּי דְבַר־יְהוָה הוּא׃",
+    "translit": "Vaiavo elai Hanamel ben-dodi kidvar ADONAI el-hațar hamatara vaiomer elai kene na et-sadi așer ba'Anatot așer beereț Biniamin ki-leha mișpat haierușa uleha hagheula kene-lah vaeda ki devar-ADONAI hu.",
+    "tokens": [
+     {
+      "t": "Hanamel, vărul meu, a venit la mine, după rostirea DOMNULUI, în curtea temniței, și mi-a spus: «Te rog, cumpără-ți ogorul meu din Anatot, care este în ținutul lui Beniamin, căci al tău este "
+     },
+     {
+      "t": "dreptul de moștenire",
+      "w": "dreptul de moștenire",
+      "heb": "מִשְׁפַּט הַיְרֻשָּׁה",
+      "translit": "mișpat haierușa",
+      "strong": "H3425",
+      "pos": "substantiv, masculin singular, în construcție + substantiv, feminin singular, cu articol",
+      "def_ro": "dreptul de a moșteni.",
+      "dict_ro": "Ieruța — moștenirea; Hanamel invocă două drepturi deodată: Ieremia e moștenitorul firesc al ogorului și, tot ca rudă, cel care îl poate răscumpăra. Radak și Metzudat David explică încheierea „și am cunoscut că fusese cuvântul DOMNULUI”: abia când vărul a venit întocmai cum i se spusese, profetul a înțeles că cumpărarea, oricât de absurdă ar părea în mijlocul asediului, este o poruncă divină."
+     },
+     {
+      "t": " și al tău este [dreptul de] răscumpărare. Cumpără-l pentru tine!» Și am cunoscut că fusese cuvântul DOMNULUI."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבֹא אֵלַי חֲנַמְאֵל בֶּן־דֹּדִי...",
+      "translation": "„Hanamel, vărul meu, a venit la...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἦλθε πρός με ᾿Αναμεὴλ υἱὸς Σαλώμ, ἀδελφοῦ πατρός μου, εἰς τὴν αὐλὴν τῆς φυλακῆς καὶ εἶπε· κτῆσαι σεαυτῷ τὸν ἀγρόν μου τὸν ἐν γῇ Βενιαμὶν τὸν ἐν ᾿Αναθώθ, ὅτι σοὶ κρίμα κτήσασθαι αὐτόν, καὶ σὺ πρεσβύτερος. καὶ ἔγνων ὅτι λόγος Κυρίου ἐστί,",
+      "greek": true,
+      "translation": "„Și a venit la mine Anameel, fiul lui Salom, fratele tatălui meu, în curtea temniței și a zis: Cumpără-ți ogorul meu cel din pământul lui Beniamin, cel din Anatot, căci ție îți aparține dreptul să-l cumperi, și tu ești cel mai în vârstă. Și am cunoscut că este cuvântul Domnului.”",
+      "note": "Divergență reală: Septuaginta omite „după rostirea DOMNULUI” și dublul drept (moștenire și răscumpărare), adăugând în schimb „și tu ești cel mai în vârstă” (πρεσβύτερος)."
+     }
+    ],
+    "refs": [
+     "Ieremia 32:2",
+     "Ieremia 33:1",
+     "1 Regi 2:26",
+     "1 Samuel 10:3-7",
+     "Zaharia 11:11",
+     "Faptele Apostolilor 10:17-28"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dreptul de moștenire” — adică, de vreme ce n-am rudă mai apropiată decât tine și tu ești vrednic să-l moștenești, răscumpără-l ca să nu ajungă în mâna altora și cumpără-l. „Și am cunoscut” — am înțeles în mintea mea că este cuvântul DOMNULUI să-l cumpăr cu adevărat, și de aceea mi-a făcut cunoscut lucrul acesta."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „După rostirea DOMNULUI” — așa cum spusese DOMNUL că va veni la mine, așa a făcut. „Că fusese cuvântul DOMNULUI” — am știut că de la Dumnezeu este să-l cumpăr; căci dacă nu era de la El, de ce mi-ar fi spus că va veni Hanamel la mine să-și vândă ogorul?"
+     }
+    ]
+   },
+   {
+    "v": "32:9",
+    "t": "Așa că am cumpărat ogorul care era în Anatot, de la Hanamel, vărul meu, și am cântărit pentru el argintul, șapte sicli și zece selaim de argint.",
+    "heb": "וָאֶקְנֶה אֶת־הַשָּׂדֶה מֵאֵת חֲנַמְאֵל בֶּן־דֹּדִי אֲשֶׁר בַּעֲנָתוֹת וָאֶשְׁקֲלָה־לּוֹ אֶת־הַכֶּסֶף שִׁבְעָה שְׁקָלִים וַעֲשָׂרָה הַכָּסֶף׃",
+    "translit": "Vaekne et-hasade meet Hanamel ben-dodi așer ba'Anatot vaeșkala-lo et-hakesef șiva șekalim vaasara hakasef.",
+    "tokens": [
+     {
+      "t": "Așa că am cumpărat ogorul care era în Anatot, de la Hanamel, vărul meu, și am cântărit pentru el argintul, "
+     },
+     {
+      "t": "șapte sicli",
+      "w": "șapte sicli",
+      "heb": "שִׁבְעָה שְׁקָלִים",
+      "translit": "șiva șekalim",
+      "strong": "H8255",
+      "pos": "numeral + substantiv, masculin plural",
+      "def_ro": "șapte sicli (unitate de greutate pentru argint).",
+      "dict_ro": "Șekel — unitatea de bază a greutății pentru metale prețioase, de la șakal, „a cântări”: prețul nu se număra în monede, ci se cântărea. Metzudat David și Radak, după Targum Ionatan, citesc „șapte” ca șapte mine și „zece” ca zece sela de argint — o sumă mult mai mare decât sugerează traducerea literală, potrivită pentru un ogor întreg. Selaim din traducerea Rosen reflectă tocmai această tradiție de interpretare."
+     },
+     {
+      "t": " și zece selaim de argint."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֶקְנֶה אֶת־הַשָּׂדֶה מֵאֵת חֲנַמְאֵל...",
+      "translation": "„Așa că am cumpărat ogorul care...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐκτησάμην τὸν ἀγρὸν ᾿Αναμεὴλ υἱοῦ ἀδελφοῦ πατρός μου καὶ ἔστησα αὐτῷ ἑπτὰ σίκλους καὶ δέκα ἀργυρίου·",
+      "greek": true,
+      "translation": "„Și am cumpărat ogorul lui Anameel, fiul fratelui tatălui meu, și i-am cântărit șapte sicli și zece de argint.”",
+      "note": "Corespondență strânsă; Septuaginta omite repetarea „care era în Anatot”."
+     }
+    ],
+    "refs": [
+     "Geneza 23:15,16",
+     "1 Regi 20:39",
+     "Isaia 55:2",
+     "Geneza 37:28",
+     "Osea 3:2",
+     "Zaharia 11:12,13"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Am cântărit” — i-am dat cu greutate argintul, prețul ogorului; și erau la număr șapte sicli, adică șapte mine, așa au spus înțelepții noștri. „Și zece de argint” — zece sela, așa traduce Ionatan."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: argintul pe care l-am tocmit cu el: șapte sicli și zece de argint — siclii sunt mine, iar „argintul” sunt sela, și așa a tradus Ionatan: „șapte mine și zece sela de argint”."
+     }
+    ]
+   },
+   {
+    "v": "32:10",
+    "t": "Am scris actul și l-am pecetluit, și am numit martori și am cântărit argintul în balanță.",
+    "heb": "וָאֶכְתֹּב בַּסֵּפֶר וָאֶחְתֹּם וָאָעֵד עֵדִים וָאֶשְׁקֹל הַכֶּסֶף בְּמֹאזְנָיִם׃",
+    "translit": "Vaehtov basefer vaehtom vaaed edim vaeșkol hakesef bemoznaim.",
+    "tokens": [
+     {
+      "t": "Am scris actul și "
+     },
+     {
+      "t": "l-am pecetluit",
+      "w": "l-am pecetluit",
+      "heb": "וָאֶחְתֹּם",
+      "translit": "vaehtom",
+      "strong": "H2856",
+      "pos": "verb, qal, imperfect consecutiv, persoana I singular",
+      "def_ro": "am pecetluit, am sigilat.",
+      "dict_ro": "Hatam — „a pecetlui”, a închide un document cu sigiliul, ca să nu poată fi modificat. Descrierea e cea a unei vânzări juridice complete din Antichitatea iudaică: act scris, pecetluire, martori, argint cântărit pe balanță. Radak explică repetarea cântăririi (deja pomenită în v. 9): de data aceasta s-a făcut înaintea martorilor, cu greutate exactă, ca să nu poată apărea mai târziu vreo ceartă asupra plății."
+     },
+     {
+      "t": ", și am numit martori și am cântărit argintul în balanță."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֶכְתֹּב בַּסֵּפֶר וָאֶחְתֹּם וָאָעֵד...",
+      "translation": "„Am scris actul și l-am pecetluit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔγραψα εἰς βιβλίον καὶ ἐσφραγισάμην καὶ διεμαρτυράμην μάρτυρας καὶ ἔστησα τὸ ἀργύριον ἐν ζυγῷ.",
+      "greek": true,
+      "translation": "„Și am scris într-o carte și am pecetluit și am chemat martori și am cântărit argintul în cântar.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ieremia 32:12,44",
+     "Isaia 44:5",
+     "Iosua 18:9",
+     "Isaia 30:8",
+     "Rut 4:9-11",
+     "Isaia 8:1,2"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Am scris actul” — am poruncit să se scrie în act cele despre cumpărarea ogorului. „Și l-am pecetluit” — i-am poruncit stăpânului ogorului să-și semneze numele pe actul de cumpărare. „Am numit martori” — am chemat martori să vadă lucrul, și înaintea lor am cântărit argintul pe balanță."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: am scris cuvintele cumpărării în act și apoi am pecetluit actul cu sigiliul. „Am numit martori” — am cumpărat ogorul înaintea martorilor chemați pentru aceasta, iar ei au semnat actul de cumpărare. „Am cântărit argintul în balanță” — deși a spus mai sus „i-am cântărit”, vrea să spună că înaintea martorilor i-a cântărit argintul cu greutate dreaptă, ca să nu poată fi între ei vorbe despre greutatea lui."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Basefer” — așa se numește un sul scris."
+     }
+    ]
+   },
+   {
+    "v": "32:11",
+    "t": "Și am luat actul de vânzare, cel pecetluit, [scris] conform poruncii și decretelor, și cel nepecetluit.",
+    "heb": "וָאֶקַּח אֶת־סֵפֶר הַמִּקְנָה אֶת־הֶחָתוּם הַמִּצְוָה וְהַחֻקִּים וְאֶת־הַגָּלוּי׃",
+    "translit": "Vaekah et-sefer hamikna et-hehatum hamitva vehahukim veet-hagalui.",
+    "tokens": [
+     {
+      "t": "Și am luat actul de vânzare, cel pecetluit, [scris] conform poruncii și decretelor, și "
+     },
+     {
+      "t": "cel nepecetluit",
+      "w": "cel nepecetluit",
+      "heb": "הַגָּלוּי",
+      "translit": "hagaluy",
+      "strong": "H1540",
+      "pos": "verb, qal, participiu pasiv, masculin singular, cu articol",
+      "def_ro": "cel deschis, nesigilat.",
+      "dict_ro": "Galuy — „descoperit, deschis”, de la gala, „a dezveli”. Talmudul (Bava Batra 160b) vede în acest verset temeiul biblic al celor două feluri de acte: cel obișnuit („actul de vânzare”) și cel legat sau pliat („cel pecetluit”), iar „cel deschis” e partea desfăcută a actului pliat; „porunca și decretele” sunt tocmai regulile care le deosebesc (numărul martorilor, locul semnăturilor). Rashi adaugă că actul deschis era confirmat de judecători, ca vânzarea să rămână publică și după moartea martorilor."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֶקַּח אֶת־סֵפֶר הַמִּקְנָה אֶת־הֶחָתוּם...",
+      "translation": "„Și am luat actul de vânzare...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔλαβον τὸ βιβλίον τῆς κτήσεως τὸ ἐσφραγισμένον καὶ τὸ ἀνεγνωσμένον",
+      "greek": true,
+      "translation": "„Și am luat cartea cumpărării, cea pecetluită, și cea citită”",
+      "note": "Septuaginta omite „[scris] conform poruncii și decretelor” și redă „cel nepecetluit” prin „cea citită” (ἀνεγνωσμένον)."
+     }
+    ],
+    "refs": [
+     "Luca 2:27",
+     "Faptele Apostolilor 26:3",
+     "1 Corinteni 11:16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Actul de vânzare” — actul vânzării. „Cel pecetluit” — cu semnăturile lui, cum a fost semnat după poruncă și decret. „Și cel deschis” — care a fost confirmat în judecată prin cuvântul martorilor, iar judecătorii au scris și au semnat o întărire; aceasta e întărirea actelor, ca lucrul să fie deschis și făcut public, ca nu cumva să moară martorii. Iar înțelepții noștri au explicat aceasta despre actul simplu și cel pliat, în Bava Batra (160b)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Actul de vânzare” — actul cumpărării. „Cel pecetluit” — când e pecetluit de mâna stăpânului ogorului. „Porunca și decretele” — adică făcut după porunca și decretele obișnuite în zilele acelea. „Și cel deschis” — este un act în care se scrie că vânzarea s-a făcut pe față și public, și n-a fost nimeni care să conteste vânzarea."
+     },
+     {
+      "author": "Talmud Bavli, Bava Batra 160b",
+      "text": "Rafram a spus: [temeiul celor două feluri de acte vine] de aici: „Am luat actul de vânzare, cel pecetluit, porunca și decretele, și cel deschis” (Ieremia 32:11). „Actul de vânzare” — acesta este actul obișnuit; „cel pecetluit” — acesta este actul legat; „și cel deschis” — este partea deschisă a actului legat. „Porunca și decretele” — acestea sunt lucrurile care deosebesc actul obișnuit de cel legat: unul are doi martori, iar celălalt trei martori."
+     }
+    ]
+   },
+   {
+    "v": "32:12",
+    "t": "Și am dat actul de vânzare lui Baruh, fiul lui Neria, fiul lui Mahseia, sub ochii lui Hanamel, [fiul] unchiului meu, și sub ochii martorilor care semnaseră actul de vânzare, sub ochii tuturor iudeilor care stăteau în curtea temniței.",
+    "heb": "וָאֶתֵּן אֶת־הַסֵּפֶר הַמִּקְנָה אֶל־בָּרוּךְ בֶּן־נֵרִיָּה בֶן־מַחְסֵיָה לְעֵינֵי חֲנַמְאֵל דֹּדִי וּלְעֵינֵי הָעֵדִים הַכֹּתְבִים בְּסֵפֶר הַמִּקְנָה לְעֵינֵי כָּל־הַיְּהוּדִים הַיֹּשְׁבִים בַּחֲצַר הַמַּטָּרָה׃",
+    "translit": "Vaeten et-hasefer hamikna el-Baruh ben-Neria ben-Mahseia leeinei Hanamel dodi uleeinei haedim hakotvim besefer hamikna leeinei kol-haihudim haiosvim bahațar hamatara.",
+    "tokens": [
+     {
+      "t": "Și am dat actul de vânzare lui "
+     },
+     {
+      "t": "Baruh",
+      "w": "Baruh",
+      "heb": "בָּרוּךְ",
+      "translit": "Baruh",
+      "strong": "H1263",
+      "pos": "substantiv propriu, masculin",
+      "def_ro": "Baruh („binecuvântat”), scribul lui Ieremia.",
+      "dict_ro": "Baruh, fiul lui Neria — scribul și ucenicul credincios al lui Ieremia, cel care îi va scrie profețiile pe sul (Ieremia 36:4) și care îl va însoți în exilul din Egipt (Ieremia 43:6); fratele lui, Seraia, era slujbaș la curtea regelui (Ieremia 51:59). Rashi se oprește asupra unei dificultăți: Hanamel e numit aici „unchiul meu”, deși mai sus era „fiul unchiului” — poate erau doi, sau poate a fost deodată și unchi și văr, deși un asemenea mod de exprimare nu apare nicăieri în Scriptură."
+     },
+     {
+      "t": ", fiul lui Neria, fiul lui Mahseia, sub ochii lui Hanamel, [fiul] unchiului meu, și sub ochii martorilor care semnaseră actul de vânzare, sub ochii tuturor iudeilor care stăteau în curtea temniței."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֶתֵּן אֶת־הַסֵּפֶר הַמִּקְנָה אֶל־בָּרוּךְ...",
+      "translation": "„Și am dat actul de vânzare...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔδωκα αὐτὸ τῷ Βαροὺχ υἱῷ Νηρίου υἱῷ Μαασαίου κατ’ ὀφθαλμοὺς ᾿Αναμεὴλ υἱοῦ ἀδελφοῦ πατρός μου καὶ κατ’ ὀφθαλμοὺς τῶν ἀνδρῶν τῶν παρεστηκότων καὶ γραφόντων ἐν τῷ βιβλίῳ τῆς κτήσεως καὶ κατ’ ὀφθαλμοὺς τῶν ᾿Ιουδαίων τῶν ἐν τῇ αὐλῇ τῆς φυλακῆς.",
+      "greek": true,
+      "translation": "„și am dat-o lui Baruh, fiul lui Nerie, fiul lui Maasaias, înaintea ochilor lui Anameel, fiul fratelui tatălui meu, și înaintea ochilor oamenilor care stăteau și scriau în cartea cumpărării, și înaintea ochilor iudeilor din curtea temniței.”",
+      "note": "Septuaginta are „fiul fratelui tatălui meu” (văr), acolo unde Textul Masoretic are „Hanamel, unchiul meu” — dificultate discutată și de Rashi."
+     }
+    ],
+    "refs": [
+     "Ieremia 36:4,5,16-19,26",
+     "Ieremia 43:3-6",
+     "Ieremia 45:1-5",
+     "Ieremia 51:59",
+     "2 Corinteni 8:21"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Sub ochii lui Hanamel, unchiul meu” — și până acum îl numea „fiul unchiului meu”. Poate că erau doi; altfel nu știu ce înseamnă. Unii înclină să spună că Hanamel era deopotrivă unchiul și vărul lui Ieremia; dar acesta nu e felul de a vorbi, căci nu găsim nicăieri în Biblie ca fratele mamei să fie numit „unchi”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Hanamel, unchiul meu” — se poate ca acesta să nu fie stăpânul ogorului, căci acela era fiul unchiului său. „Cei care semnaseră” — cei care scriseseră în act cele despre vânzare. „Sub ochii tuturor iudeilor” — ca și cum ar fi „și sub ochii”, lipsind vav-ul."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Hanamel, unchiul meu” — vrea să spună fiul unchiului meu, căci era fiul unchiului său, cum a spus mai sus; tot așa „și pe Lot, fratele lui” înseamnă fiul fratelui său. Sau acest Hanamel era altul, unchiul lui, fratele tatălui său, iar vânzătorul era vărul lui; iar acest Hanamel, unchiul, era de față la cumpărare."
+     }
+    ]
+   },
+   {
+    "v": "32:13",
+    "t": "Și l-am instruit pe Baruh sub ochii lor, spunând:",
+    "heb": "וָאֲצַוֶּה אֶת־בָּרוּךְ לְעֵינֵיהֶם לֵאמֹר׃",
+    "translit": "Vaatzave et Baruh leeineihem lemor.",
+    "tokens": [
+     {
+      "t": "Și "
+     },
+     {
+      "t": "l-am instruit",
+      "w": "l-am instruit",
+      "heb": "וָאֲצַוֶּה",
+      "translit": "vaațave",
+      "strong": "H6680",
+      "pos": "verb, piel, imperfect consecutiv, persoana I singular",
+      "def_ro": "am poruncit, am dat instrucțiuni.",
+      "dict_ro": "Țiva — „a porunci, a rândui”, aceeași rădăcină ca mițva, poruncă. Instrucțiunea e dată „sub ochii lor” — ai martorilor și ai iudeilor din curtea temniței —, pentru că gestul profetic trebuia să fie public: toți cei care îl vedeau pe Ieremia păstrând actul pentru „vreme lungă” primeau astfel, fără cuvinte, mesajul că exilul va avea un sfârșit."
+     },
+     {
+      "t": " pe Baruh sub ochii lor, spunând:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֲצַוֶּה אֶת־בָּרוּךְ לְעֵינֵיהֶם לֵאמֹר׃...",
+      "translation": "„Și l-am instruit pe Baruh sub...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ συνέταξα τῷ Βαροὺχ κατ’ ὀφθαλμοὺς αὐτῶν λέγων·",
+      "greek": true,
+      "translation": "„Și i-am poruncit lui Baruh înaintea ochilor lor, zicând:”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "32:14",
+    "t": "«Așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘Ia aceste acte, actul acesta de vânzare și pe cel pecetluit și actul acesta nepecetluit, și pune-le într-un vas de lut ca să se păstreze vreme lungă.’",
+    "heb": "כֹּה־אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל לָקוֹחַ אֶת־הַסְּפָרִים הָאֵלֶּה אֵת סֵפֶר הַמִּקְנָה הַזֶּה וְאֵת הֶחָתוּם וְאֵת סֵפֶר הַגָּלוּי הַזֶּה וּנְתַתָּם בִּכְלִי־חָרֶשׂ לְמַעַן יַעַמְדוּ יָמִים רַבִּים׃",
+    "translit": "Ko-amar ADONAI Țevaot Elohei Israel lakoah et-hasefarim haele et sefer hamikna haze veet hehatum veet sefer hagalui haze unetatam bihli-hares lemaan iaamdu iamim rabim.",
+    "tokens": [
+     {
+      "t": "«Așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘Ia aceste acte, actul acesta de vânzare și pe cel pecetluit și actul acesta nepecetluit, și pune-le într-un "
+     },
+     {
+      "t": "vas de lut",
+      "w": "vas de lut",
+      "heb": "כְלִי־חָרֶשׂ",
+      "translit": "hli-hares",
+      "strong": "H2789",
+      "pos": "substantiv, masculin singular, în construcție + substantiv",
+      "def_ro": "vas de pământ ars, de lut.",
+      "dict_ro": "Heres — lutul ars, ceramica; Metzudat David explică de ce actele se pun într-un vas de lut: acesta păstrează ce e pus înăuntru ferit de putrezire. Descoperirile de la Qumran, unde sulurile au supraviețuit aproape două milenii tocmai în vase de lut, confirmă practica. Rashi citește în porunca aceasta mesajul: să nu crezi că le ascund degeaba, fiindcă toți merg în exil — Radak adaugă că actele trebuie să dăinuie „până la întoarcerea exilaților”."
+     },
+     {
+      "t": " ca să se păstreze vreme lungă.’"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כֹּה־אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי...",
+      "translation": "„«Așa a spus DOMNUL Oștirilor, Dumnezeul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὕτως εἶπε Κύριος παντοκράτωρ· λάβε τὸ βιβλίον τῆς κτήσεως τοῦτο καὶ τὸ βιβλίον τὸ ἀνεγνωσμένον καὶ θήσεις αὐτὸ εἰς ἀγγεῖον ὀστράκινον, ἵνα διαμείνῃ ἡμέρας πλείους.",
+      "greek": true,
+      "translation": "„Așa zice Domnul Atotțiitorul: Ia cartea aceasta a cumpărării și cartea cea citită și o vei pune într-un vas de lut, ca să rămână multe zile.”",
+      "note": "Septuaginta scurtează titulatura („Domnul Atotțiitorul” în loc de „DOMNUL Oștirilor, Dumnezeul lui Israel”) și omite mențiunea actului „pecetluit”."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Așa a spus...” — să nu spui că le ascund degeaba, de vreme ce toți merg în exil."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și pe cel pecetluit” — cu pecetea lui. „Și pune-le” — actele acestea. „Ca să se păstreze vreme lungă” — căci vasul de lut păstrează lucrul pus în el de putrezire."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ca să se păstreze vreme lungă” — până la întoarcerea exilului, când se va împlini profeția „se vor mai cumpăra case”; iar ca semn al întoarcerii din exil a poruncit Dumnezeu să se cumpere ogorul, ca să-i mângâie pe cei din Israel, să nu creadă că le-a pierit nădejdea dacă vor fi exilați."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Yaamdu” — se vor păstra."
+     }
+    ]
+   },
+   {
+    "v": "32:15",
+    "t": "Căci așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘Se vor mai cumpăra case, ogoare și vii pe pământul acesta.’»",
+    "heb": "כִּי כֹה אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל עוֹד יִקָּנוּ בָתִּים וְשָׂדוֹת וּכְרָמִים בָּאָרֶץ הַזֹּאת׃",
+    "translit": "Ki ho amar ADONAI Țevaot Elohei Israel od ikanu vatim vesadot uheramim baareț hazot.",
+    "tokens": [
+     {
+      "t": "Căci așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘"
+     },
+     {
+      "t": "Se vor mai cumpăra",
+      "w": "Se vor mai cumpăra",
+      "heb": "עוֹד יִקָּנוּ",
+      "translit": "od yikanu",
+      "strong": "H7069",
+      "pos": "adverb + verb, nifal, imperfect, persoana a III-a plural",
+      "def_ro": "iarăși vor fi cumpărate.",
+      "dict_ro": "Kana — „a cumpăra, a dobândi”; la forma pasivă, „vor fi cumpărate”. Acesta e miezul haftarei: în ajunul distrugerii, când ogoarele din jurul Ierusalimului erau deja în mâinile babilonienilor, DOMNUL poruncește o cumpărare ca semn că viața economică obișnuită va reveni. Metzudat David explică: să nu crezi că actul și vasul de lut sunt deșertăciune pentru că pământul va fi al caldeenilor — el e semn că Israel se va întoarce."
+     },
+     {
+      "t": " case, ogoare și vii pe pământul acesta.’»"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי כֹה אָמַר יְהוָה...",
+      "translation": "„Căci așa a spus DOMNUL Oștirilor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι οὕτως εἶπε Κύριος· ἔτι κτηθήσονται ἀγροὶ καὶ οἰκίαι καὶ ἀμπελῶνες ἐν τῇ γῇ ταύτῃ.",
+      "greek": true,
+      "translation": "„Căci așa zice Domnul: Încă vor fi cumpărate ogoare și case și vii în țara aceasta.”",
+      "note": "Septuaginta omite „Oștirilor, Dumnezeul lui Israel” și schimbă ordinea („ogoare și case”)."
+     }
+    ],
+    "refs": [
+     "Ieremia 32:37,43,44",
+     "Ieremia 30:18",
+     "Ieremia 31:5,12,24",
+     "Ieremia 33:12,13",
+     "Amos 9:14,15",
+     "Zaharia 3:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Căci așa a spus DOMNUL” — în cele din urmă se vor cumpăra case."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Căci așa” — ca și cum ar spune: să nu crezi că cumpărarea ogorului și punerea actelor în vasul de lut sunt deșertăciune, de vreme ce caldeenii vor moșteni țara; căci intenția este să fie un semn și o aluzie că va mai veni o vreme când fiii lui Israel vor cumpăra case, iar țara nu va rămâne definitiv în mâna caldeenilor, căci se vor întoarce aici."
+     }
+    ]
+   },
+   {
+    "v": "32:16",
+    "t": "M-am rugat DOMNULUI după ce i-am dat actul de vânzare lui Baruh, fiul lui Neria, spunând:",
+    "heb": "וָאֶתְפַּלֵּל אֶל־יְהוָה אַחֲרֵי תִתִּי אֶת־סֵפֶר הַמִּקְנָה אֶל־בָּרוּךְ בֶּן־נֵרִיָּה לֵאמֹר׃",
+    "translit": "Vaetpalel el-ADONAI aharei titi et-sefer hamikna el-Baruh ben-Neria lemor.",
+    "tokens": [
+     {
+      "t": "M-am rugat",
+      "w": "M-am rugat",
+      "heb": "וָאֶתְפַּלֵּל",
+      "translit": "vaetpalel",
+      "strong": "H6419",
+      "pos": "verb, hitpael, imperfect consecutiv, persoana I singular",
+      "def_ro": "m-am rugat.",
+      "dict_ro": "Hitpalel — „a se ruga”, forma reflexivă a rădăcinii palal, „a judeca, a hotărî”: rugăciunea ebraică e, etimologic, o „judecare de sine” înaintea lui Dumnezeu. Rugăciunea care urmează (32:17-25) e una dintre cele mai lungi din Ieremia: profetul ascultă porunca, dar își pune înaintea lui Dumnezeu nedumerirea — cum să cumpere un ogor într-o cetate care e pe cale să cadă?"
+     },
+     {
+      "t": " DOMNULUI după ce i-am dat actul de vânzare lui Baruh, fiul lui Neria, spunând:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֶתְפַּלֵּל אֶל־יְהוָה אַחֲרֵי תִתִּי...",
+      "translation": "„M-am rugat DOMNULUI după ce i-am...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Καὶ προσευξάμην πρὸς Κύριον μετὰ τὸ δοῦναί με τὸ βιβλίον τῆς κτήσεως πρὸς Βαροὺχ υἱὸν Νηρίου λέγων·",
+      "greek": true,
+      "translation": "„Și m-am rugat Domnului după ce am dat cartea cumpărării lui Baruh, fiul lui Nerie, zicând:”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ieremia 12:1",
+     "Geneza 32:9-12",
+     "2 Samuel 7:18-25",
+     "Ezechiel 36:35-37",
+     "Filipeni 4:6,7"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Actul de vânzare” — și tot așa actul deschis; pentru scurtare a pomenit doar ce e de căpetenie."
+     }
+    ]
+   },
+   {
+    "v": "32:17",
+    "t": "«Vai, Stăpâne, Doamne DUMNEZEULE, iată – Tu ai făcut cerurile și pământul cu puterea Ta cea mare și cu brațul Tău cel întins, niciun lucru nu este ascuns de Tine,",
+    "heb": "אֲהָהּ אֲדֹנָי יְהוִה הִנֵּה אַתָּה עָשִׂיתָ אֶת־הַשָּׁמַיִם וְאֶת־הָאָרֶץ בְּכֹחֲךָ הַגָּדוֹל וּבִזְרֹעֲךָ הַנְּטוּיָה לֹא־יִפָּלֵא מִמְּךָ כָּל־דָּבָר׃",
+    "translit": "Aha Adonai ELOHIM hine ata asita et-hașamaim veet-haareț behohaha haghadol uvizroaha hanetuia lo-ipale mimha kol-davar.",
+    "tokens": [
+     {
+      "t": "«Vai, Stăpâne, Doamne DUMNEZEULE, iată – Tu ai făcut cerurile și pământul cu puterea Ta cea mare și cu brațul Tău cel întins, "
+     },
+     {
+      "t": "niciun lucru nu este ascuns",
+      "w": "niciun lucru nu este ascuns",
+      "heb": "לֹא־יִפָּלֵא ... כָּל־דָּבָר",
+      "translit": "lo-yipale ... kol-davar",
+      "strong": "H6381",
+      "pos": "negație + verb, nifal, imperfect",
+      "def_ro": "nimic nu e prea greu, nimic nu e ascuns.",
+      "dict_ro": "Pala — „a fi minunat, a fi prea greu, a fi ascuns”; aceeași expresie o spune îngerul Sarei: „este oare ceva prea greu pentru DOMNUL?” (Geneza 18:14). Rashi o citește ca nedumerire: nimic nu-Ți e ascuns, deci știi că suntem sortiți exilului — de ce mi-ai spus să cumpăr un ogor? Iar DOMNUL îi va răspunde cu propriile lui cuvinte în 32:27: „există oare vreun lucru ascuns de Mine?”."
+     },
+     {
+      "t": " de Tine,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אֲהָהּ אֲדֹנָי יְהוִה הִנֵּה...",
+      "translation": "„«Vai, Stăpâne, Doamne DUMNEZEULE, iată –...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ᾦ Κύριε, σὺ ἐποίησας τὸν οὐρανὸν καὶ τὴν γῆν τῇ ἰσχύϊ σου τῇ μεγάλῃ καὶ τῷ βραχίονί σου τῷ ὑψηλῷ καὶ τῷ μετεώρῳ, οὐ μὴ ἀποκρυβῇ ἀπὸ σοῦ οὐθέν,",
+      "greek": true,
+      "translation": "„O, Doamne, Tu ai făcut cerul și pământul cu tăria Ta cea mare și cu brațul Tău cel înalt și ridicat; nimic nu-Ți va fi ascuns,”",
+      "note": "Septuaginta omite interjecția „Vai” și titulatura „Stăpâne, Doamne DUMNEZEULE” (doar „Doamne”), iar „brațul întins” devine „brațul înalt și ridicat”."
+     }
+    ],
+    "refs": [
+     "Ieremia 1:6",
+     "Ieremia 10:11,12",
+     "Neemia 9:6",
+     "Ieremia 32:27",
+     "Geneza 18:14",
+     "Luca 1:37"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Niciun lucru nu este ascuns de Tine” — nimic nu e ascuns; deci știi că suntem sortiți exilului — de ce mi-ai spus atunci să cumpăr un ogor?"
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Vai” — este un strigăt de tânguire, căci era întristat și îngrijorat, fiind nedumerit să cunoască adevărata tâlcuire a cumpărării ogorului. „Nu este ascuns” — adică, de vreme ce toate sunt lucrarea mâinilor Tale, desigur nimic nu-Ți este ascuns."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: de vreme ce Tu ai făcut cerurile și pământul, nu se poate să-Ți fie ascuns ceva din ce se face în ele; și dacă cetatea va fi dată în mâna caldeenilor, Tu știi. Ieremia se gândea că poate s-a întors mânia Ta de la ei, din pricina marii Tale bunătăți, pentru că ai pomenit milostivirile părinților — căci altfel de ce ar fi spus să cumpere ogorul, când cetatea e aproape să fie cucerită? Și aceasta este rugăciunea lui."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Aha” — este un strigăt de tânguire. „Yipale” — cu sensul de acoperit și ascuns, ca în „dacă ți se va părea prea greu un lucru la judecată” (Deuteronom 17:8)."
+     }
+    ]
+   },
+   {
+    "v": "32:18",
+    "t": "Cel care arăți milă la mii [de generații] și răsplătești păcatul părinților în sânul copiilor lor, după ei, Dumnezeul cel mare și puternic, numele Său este DOMNUL Oștirilor,",
+    "heb": "עֹשֶׂה חֶסֶד לַאֲלָפִים וּמְשַׁלֵּם עֲוֺן אָבוֹת אֶל־חֵיק בְּנֵיהֶם אַחֲרֵיהֶם הָאֵל הַגָּדוֹל הַגִּבּוֹר יְהוָה צְבָאוֹת שְׁמוֹ׃",
+    "translit": "ose hesed laalafim umeșalem avon avot el-heik beneihem ahareihem ha'El hagadol haghibor ADONAI Țevaot șemo.",
+    "tokens": [
+     {
+      "t": "Cel care arăți milă la mii [de generații] și răsplătești păcatul părinților în sânul copiilor lor, după ei, "
+     },
+     {
+      "t": "Dumnezeul cel mare și puternic",
+      "w": "Dumnezeul cel mare și puternic",
+      "heb": "הָאֵל הַגָּדוֹל הַגִּבּוֹר",
+      "translit": "haEl hagadol hagibor",
+      "strong": "H410",
+      "pos": "substantiv cu articol + adjective",
+      "def_ro": "Dumnezeul cel mare, cel puternic.",
+      "dict_ro": "HaEl hagadol hagibor — Moise spusese „Dumnezeul cel mare, puternic și înfricoșător” (Deuteronom 10:17). Talmudul (Yoma 69b) observă că Ieremia a omis „înfricoșător”: a spus „neamurile petrec în Sanctuarul Lui — unde îi sunt lucrările înfricoșătoare?”, iar Daniel a omis „puternic”, văzând copiii lui Dumnezeu în robie; bărbații Marii Adunări au readus toate cele trei atribute, spunând că tocmai răbdarea față de cei răi este tăria Lui. De aici formula din rugăciunea zilnică Amida."
+     },
+     {
+      "t": ", numele Său este DOMNUL Oștirilor,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עֹשֶׂה חֶסֶד לַאֲלָפִים וּמְשַׁלֵּם...",
+      "translation": "„Cel care arăți milă la mii...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ποιῶν ἔλεος εἰς χιλιάδας καὶ ἀποδιδοὺς ἁμαρτίας πατέρων εἰς κόλπους τέκνων αὐτῶν μετ’ αὐτούς, ὁ Θεὸς ὁ μέγας καὶ ἰσχυρός,",
+      "greek": true,
+      "translation": "„Cel ce faci milă cu mii și răsplătești păcatele părinților în sânul copiilor lor după ei, Dumnezeul cel mare și tare,”",
+      "note": "Septuaginta omite încheierea „DOMNUL Oștirilor este numele Său” (în versiunea greacă, titulatura e mutată și dezvoltată în versetul următor)."
+     }
+    ],
+    "refs": [
+     "Exod 20:5,6",
+     "Exod 34:7",
+     "Deuteronom 7:9,10",
+     "Deuteronom 10:17",
+     "Neemia 1:5",
+     "Ieremia 10:16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și răsplătești păcatul părinților în sânul” — al acestei generații, care îi urmează pe părinții ei pe calea lor rea. „Cel mare și puternic” — dar n-a spus „și înfricoșător”. El a spus: neamurile dansează în Templul Lui — unde sunt atunci lucrările Lui înfricoșătoare? În tratatul Yoma (69b)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Arăți milă la mii” — pentru dreptatea celui drept faci milă urmașilor lui până la mii de generații. „În sânul copiilor lor” — plătești răsplata păcatului în mijlocul copiilor lor. „După ei” — adică atunci când merg după ei, ținându-se de faptele lor."
+     },
+     {
+      "author": "Talmud Bavli, Yoma 69b",
+      "text": "Moise a venit și a spus: „Dumnezeul cel mare, puternic și înfricoșător” (Deuteronom 10:17). A venit Ieremia și a spus: neamurile petrec în Sanctuarul Lui — unde este caracterul Lui înfricoșător? De aceea n-a spus „înfricoșător”: „Dumnezeul cel mare, cel puternic, DOMNUL Oștirilor este numele Său” (Ieremia 32:18). A venit Daniel și a spus: neamurile îi înrobesc copiii — unde este puterea Lui? De aceea n-a spus „puternic”. Au venit bărbații Marii Adunări și au spus: dimpotrivă, aceasta este puterea puterii Lui, că Își stăpânește pornirea și are răbdare cu cei răi."
+     }
+    ]
+   },
+   {
+    "v": "32:19",
+    "t": "mare în sfat și măreț în întreprindere, ai cărui ochi sunt deschiși față de toate căile oamenilor, pentru a da oricărui om după calea sa și după rodul întreprinderilor sale,",
+    "heb": "גְּדֹל הָעֵצָה וְרַב הָעֲלִילִיָּה אֲשֶׁר־עֵינֶיךָ פְקֻחוֹת עַל־כָּל־דַּרְכֵי בְּנֵי אָדָם לָתֵת לְאִישׁ כִּדְרָכָיו וְכִפְרִי מַעֲלָלָיו׃",
+    "translit": "ghedol haeța verav haalilia așer-eineha fekuhot al-kol-darhei benei adam latet leiș kidrahav vehifri maalalav.",
+    "tokens": [
+     {
+      "t": "mare în sfat",
+      "w": "mare în sfat",
+      "heb": "גְּדֹל הָעֵצָה",
+      "translit": "ghedol haeța",
+      "strong": "H6098",
+      "pos": "adjectiv, în construcție + substantiv, feminin singular, cu articol",
+      "def_ro": "mare în planuri, mare în înțelepciune.",
+      "dict_ro": "Eța — sfatul, planul; „mare în sfat și măreț în întreprindere” pune alături planul divin și împlinirea lui. Metzudat David explică încheierea: Dumnezeu judecă omul nu doar după faptele lui, ci și după „rodul” lor — urmările pe care omul nu le-a urmărit, dar pentru care răspunde totuși. Radak adaugă că „ochii deschiși spre căile oamenilor” răspund celor care spuneau „DOMNUL nu ne vede” (Ezechiel 8:12)."
+     },
+     {
+      "t": " și măreț în întreprindere, ai cărui ochi sunt deschiși față de toate căile oamenilor, pentru a da oricărui om după calea sa și după rodul întreprinderilor sale,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "גְּדֹל הָעֵצָה וְרַב הָעֲלִילִיָּה...",
+      "translation": "„mare în sfat și măreț în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Κύριος μεγάλης βουλῆς καὶ δυνατὸς τοῖς ἔργοις, ὁ Θεὸς ὁ μέγας, ὁ παντοκράτωρ καὶ μεγαλώνυμος Κύριος· οἱ ὀφθαλμοί σου εἰς τὰς ὁδοὺς τῶν υἱῶν τῶν ἀνθρώπων δοῦναι ἑκάστῳ κατὰ τὴν ὁδὸν αὐτοῦ·",
+      "greek": true,
+      "translation": "„Domn mare în sfat și puternic în lucrări, Dumnezeul cel mare, Atotțiitorul și mult-numitul Domn; ochii Tăi sunt spre căile fiilor oamenilor, ca să dai fiecăruia după calea lui.”",
+      "note": "Septuaginta adaugă aici titulatura („Dumnezeul cel mare, Atotțiitorul și mult-numitul Domn”) și omite „după rodul faptelor lui”."
+     }
+    ],
+    "refs": [
+     "Isaia 9:6",
+     "Isaia 28:29",
+     "Romani 11:33,34",
+     "2 Cronici 16:9",
+     "Proverbe 5:21",
+     "Ieremia 17:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Mare în sfat” — sfatul Lui e mare și însemnat. „Măreț în întreprindere” — faptele Lui sunt multe, căci tot ce voiește face. „Asupra tuturor căilor” — ca să vegheze asupra tuturor căilor oamenilor, ca să dea fiecăruia după căile lui. „Și după rodul faptelor lui” — adică lucrul care urmează din faptele lui, fără să fi fost intenția lui, căci și pentru aceasta va fi adus la judecată."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Mare în sfat” — sfaturile Lui sunt mari și faptele Lui prea multe ca să fie cuprinse. „Asupra tuturor căilor oamenilor” — nu cum spuneau ei: „DOMNUL nu ne vede”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Haalilia” — cu sensul de faptă, ca în „și prin faptele lui” (Proverbe 20:11). „Pekuhot” — deschise, ca în „deschide, DOAMNE, ochii Tăi” (Isaia 37:17)."
+     }
+    ]
+   },
+   {
+    "v": "32:20",
+    "t": "cel care ai pus semne și minuni în țara Egiptului, [care sunt cunoscute] până în ziua de astăzi, și în Israel și în [ochii] omului, și care Ți-ai făcut un renume până în ziua aceasta",
+    "heb": "אֲשֶׁר־שַׂמְתָּ אוֹתוֹת וּמֹפְתִים בְּאֶרֶץ מִצְרַיִם עַד־הַיּוֹם הַזֶּה וּבְיִשְׂרָאֵל וּבָאָדָם וַתַּעֲשֶׂה־לְּךָ שֵׁם כַּיּוֹם הַזֶּה׃",
+    "translit": "așer-samta otot umoftim beereț Mițraim ad-haiom haze uve'Israel uvaadam vataase-leha șem kaiom haze.",
+    "tokens": [
+     {
+      "t": "cel care ai pus "
+     },
+     {
+      "t": "semne și minuni",
+      "w": "semne și minuni",
+      "heb": "אוֹתוֹת וּמֹפְתִים",
+      "translit": "otot umoftim",
+      "strong": "H4159",
+      "pos": "substantiv, masculin plural + conjuncție + substantiv, masculin plural",
+      "def_ro": "semne și minuni.",
+      "dict_ro": "Otot umoftim — perechea clasică pentru minunile din Egipt (Deuteronom 6:22). Rashi și Radak aduc un midraș despre „în Israel și printre oameni”: aceeași minune a lucrat deodată spre bine pentru Israel și spre rău pentru egipteni — „norul era întuneric [pentru unii] și lumina noaptea [pentru ceilalți]” (Exod 14:20). Metzudat David citește la fel: într-o singură lucrare, lumină pentru unii și întuneric pentru alții."
+     },
+     {
+      "t": " în țara Egiptului, [care sunt cunoscute] până în ziua de astăzi, și în Israel și în [ochii] omului, și care Ți-ai făcut un renume până în ziua aceasta"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אֲשֶׁר־שַׂמְתָּ אוֹתוֹת וּמֹפְתִים בְּאֶרֶץ...",
+      "translation": "„cel care ai pus semne și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὃς ἐποίησας σημεῖα καὶ τέρατα ἐν γῇ Αἰγύπτῳ ἕως τῆς ἡμέρας ταύτης καὶ ἐν ᾿Ισραὴλ καὶ ἐν τοῖς γηγενέσι· καὶ ἐποίησας σεαυτῷ ὄνομα, ὡς ἡμέρα αὕτη",
+      "greek": true,
+      "translation": "„care ai făcut semne și minuni în țara Egiptului până în ziua aceasta, și în Israel și între cei născuți din pământ, și Ți-ai făcut nume ca ziua aceasta,”",
+      "note": "Corespondență strânsă; „oameni” (adam) e redat prin „cei născuți din pământ” (γηγενέσι)."
+     }
+    ],
+    "refs": [
+     "Exod 7:3",
+     "Deuteronom 4:34",
+     "Neemia 9:10",
+     "Psalmul 78:43-51",
+     "Faptele Apostolilor 7:36",
+     "Isaia 63:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și printre oameni” — și printre ceilalți oameni. O altă explicație: semne care au fost deodată pentru Israel și pentru egipteni. Cum așa? „Și era norul și întunericul, și lumina noaptea” (Exod 14:20): același înger care a slujit ca întuneric pentru egipteni a slujit ca lumină pentru israeliți. Iar Ionatan traduce: „și pentru Israel ai făcut minuni între oameni”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Până în ziua de astăzi” — adică pomenite până în ziua de astăzi. „În Israel și printre oameni” — ai pus semne în Israel și în ceilalți oameni, egiptenii, adică într-o singură dată ai făcut o minune bună pentru unii și rea pentru alții, cum s-a spus: „și era norul și întunericul, și lumina noaptea”, întuneric pentru egipteni și lumină pentru Israel. „Și Ți-ai făcut un renume” — faimă de laudă."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Până în ziua de astăzi” — până în ziua aceasta sunt cunoscute între oameni. „Și Ți-ai făcut un renume” — ești cunoscut prin semne și minuni, și prin ele Te-au cunoscut oamenii, chiar fără voia lor."
+     }
+    ]
+   },
+   {
+    "v": "32:21",
+    "t": "și ai scos pe poporul Tău, pe Israel, din țara Egiptului, cu semne și cu minuni, și cu mână puternică, și cu braț întins, și cu mare înfricoșare,",
+    "heb": "וַתֹּצֵא אֶת־עַמְּךָ אֶת־יִשְׂרָאֵל מֵאֶרֶץ מִצְרַיִם בְּאֹתוֹת וּבְמוֹפְתִים וּבְיָד חֲזָקָה וּבִזְרוֹעַ נְטוּיָה וּבְמוֹרָא גָּדוֹל׃",
+    "translit": "vatoțe et-amha et-Israel meereț Mițraim beotot uvemoftim uveiad hazaka uveezroa netuia uvemora gadol.",
+    "tokens": [
+     {
+      "t": "și ai scos pe poporul Tău, pe Israel, din țara Egiptului, cu semne și cu minuni, și cu mână puternică, și cu braț întins, și "
+     },
+     {
+      "t": "cu mare înfricoșare",
+      "w": "cu mare înfricoșare",
+      "heb": "וּבְמוֹרָא גָּדוֹל",
+      "translit": "uvmora gadol",
+      "strong": "H4172",
+      "pos": "conjuncție + prepoziție + substantiv + adjectiv",
+      "def_ro": "cu mare groază, cu fapte înfricoșătoare.",
+      "dict_ro": "Mora — frica, groaza, dar și faptele care o stârnesc. Versetul reproduce aproape cuvânt cu cuvânt formula din Deuteronom 26:8, recitată de cel ce aducea pârga la Templu și păstrată în Hagada de Pesah („cu mână tare, cu braț întins, cu mare înfricoșare, cu semne și minuni”); Hagada o interpretează drept „descoperirea Prezenței divine”. Metzudat David explică „înfricoșarea” ca spaima pe care Dumnezeu a pus-o asupra Egiptului."
+     },
+     {
+      "t": ","
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֹּצֵא אֶת־עַמְּךָ אֶת־יִשְׂרָאֵל מֵאֶרֶץ...",
+      "translation": "„și ai scos pe poporul Tău...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐξήγαγες τὸν λαόν σου ᾿Ισραὴλ ἐκ γῆς Αἰγύπτου ἐν σημείοις καὶ ἐν τέρασιν, ἐν χειρὶ κραταιᾷ καὶ ἐν βραχίονι ὑψηλῷ",
+      "greek": true,
+      "translation": "„și ai scos pe poporul Tău Israel din țara Egiptului cu semne și minuni, cu mână tare și cu braț înalt”",
+      "note": "Septuaginta citește ultimul cuvânt ca mar'eh („vedenie”), nu mora („înfricoșare”), și îl mută la începutul versetului următor: „și cu vedenii mari”."
+     }
+    ],
+    "refs": [
+     "Exod 6:6",
+     "Exod 13:14",
+     "Psalmul 105:37,43",
+     "Exod 6:1",
+     "Deuteronom 26:8",
+     "Psalmul 136:11,12"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și cu brațul întins” — a luat pilda unui viteaz care își întinde mâna asupra celui care se luptă cu el. „Cu mare înfricoșare” — pentru că îi înspăimântai pe egipteni."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Uvezroa” — cu alef adăugat, din literele de prefix."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Uvezroa” — alef-ul este adăugat."
+     }
+    ]
+   },
+   {
+    "v": "32:22",
+    "t": "și le-ai dat această țară pe care ai jurat-o strămoșilor lor să le-o dai, o țară în care curge lapte și miere.",
+    "heb": "וַתִּתֵּן לָהֶם אֶת־הָאָרֶץ הַזֹּאת אֲשֶׁר־נִשְׁבַּעְתָּ לַאֲבוֹתָם לָתֵת לָהֶם אֶרֶץ זָבַת חָלָב וּדְבָשׁ׃",
+    "translit": "vatiten lahem et-haareț hazot așer-nișbata laavotam latet lahem ereț zavat halav udevaș.",
+    "tokens": [
+     {
+      "t": "și le-ai dat această țară pe care ai jurat-o strămoșilor lor să le-o dai, o țară "
+     },
+     {
+      "t": "în care curge lapte și miere",
+      "w": "în care curge lapte și miere",
+      "heb": "זָבַת חָלָב וּדְבָשׁ",
+      "translit": "zavat halav udvaș",
+      "strong": "H2100",
+      "pos": "verb, qal, participiu, feminin singular, în construcție + substantive",
+      "def_ro": "din care curge lapte și miere.",
+      "dict_ro": "Zava — „a curge, a picura”; „țara în care curge lapte și miere” e formula făgăduinței din Exod 3:8. Metzudat David o explică la propriu: laptele picură din ugerele vitelor, care pasc pășune grasă, iar din curmali picură „mierea”, adică siropul de curmale. Aici, la mijlocul rugăciunii, formula are o amărăciune aparte: țara făgăduinței e tocmai cea pe care cetatea asediată e pe cale s-o piardă."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתִּתֵּן לָהֶם אֶת־הָאָרֶץ הַזֹּאת...",
+      "translation": "„și le-ai dat această țară pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐν ὁράμασι μεγάλοις· καὶ ἔδωκας αὐτοῖς τὴν γῆν ταύτην, ἣν ὤμοσας τοῖς πατράσιν αὐτῶν, γῆν ῥέουσαν γάλα καὶ μέλι.",
+      "greek": true,
+      "translation": "„și cu vedenii mari; și le-ai dat țara aceasta, pe care ai jurat-o părinților lor, țară în care curge lapte și miere.”",
+      "note": "Septuaginta începe versetul cu „și cu vedenii mari” (vezi nota de la 32:21); în rest, corespondență strânsă."
+     }
+    ],
+    "refs": [
+     "Geneza 15:18-21",
+     "Deuteronom 6:10,18,23",
+     "Iosua 21:43",
+     "Ieremia 11:5",
+     "Exod 3:8,17",
+     "Ezechiel 20:6,15"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Țară în care curge” — este țara în care laptele picură din ugerele vitelor, căci pasc pășune grasă și au lapte mult, iar curmalele picură mierea."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Zavat” — din curgere și picurare."
+     }
+    ]
+   },
+   {
+    "v": "32:23",
+    "t": "Ei au venit și au luat în stăpânire [țara Canaanului], dar nu au ascultat de glasul Tău, după învățătura Ta nu au mers, tot ce le-ai poruncit să facă nu au făcut și [de aceea] Tu ai făcut să li se întâmple tot acest rău.",
+    "heb": "וַיָּבֹאוּ וַיִּירְשׁוּ אֹתָהּ וְלֹא־שָׁמְעוּ בְקוֹלֶךָ וּבְתוֹרָתְךָ לֹא־הָלָכוּ אֵת כָּל־אֲשֶׁר צִוִּיתָה לָהֶם לַעֲשׂוֹת לֹא עָשׂוּ וַתַּקְרֵא אֹתָם אֵת כָּל־הָרָעָה הַזֹּאת׃",
+    "translit": "Vaiavou vairșu ota velo-șameu vekoleha uvetoratha lo-halahu et kol-așer țivita lahem laasot lo asu vatakre otam et kol-haraa hazot.",
+    "tokens": [
+     {
+      "t": "Ei au venit și au luat în stăpânire [țara Canaanului], dar nu au ascultat de glasul Tău, după învățătura Ta nu au mers, tot ce le-ai poruncit să facă nu au făcut și [de aceea] "
+     },
+     {
+      "t": "Tu ai făcut să li se întâmple",
+      "w": "Tu ai făcut să li se întâmple",
+      "heb": "וַתַּקְרֵא",
+      "translit": "vatakre",
+      "strong": "H7122",
+      "pos": "verb, hifil, imperfect consecutiv, persoana a II-a masculin singular",
+      "def_ro": "ai făcut să vină asupra lor.",
+      "dict_ro": "Kara (cu alef în loc de he) — „a întâmpina, a se întâmpla”, de unde mikre, „întâmplare”. Radak observă că forma e scrisă cu alef și vede aici o intenție: răul venit asupra lor nu e o întâmplare oarbă, venită de la sine, ci Dumnezeu Însuși l-a făcut să vină. Metzudat David leagă cauza de efect: pentru că n-au ascultat, le-ai adus nenorocirea descrisă în versetul următor."
+     },
+     {
+      "t": " tot acest rău."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּבֹאוּ וַיִּירְשׁוּ אֹתָהּ וְלֹא־שָׁמְעוּ...",
+      "translation": "„Ei au venit și au luat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἰσήλθοσαν καὶ ἐλάβοσαν αὐτὴν καὶ οὐκ ἤκουσαν τῆς φωνῆς σου καὶ ἐν τοῖς προστάγμασί σου οὐκ ἐπορεύθησαν· ἅπαντα, ἃ ἐνετείλω αὐτοῖς οὐκ ἐποίησαν· καὶ ἐποίησας συμβῆναι αὐτοῖς πάντα τὰ κακὰ ταῦτα.",
+      "greek": true,
+      "translation": "„Și au intrat și au luat-o și n-au ascultat de glasul Tău și în poruncile Tale n-au umblat; toate câte le-ai poruncit n-au făcut; și ai făcut să se întâmple asupra lor toate relele acestea.”",
+      "note": "Corespondență strânsă; „învățătura Ta” (torah) e redată prin „poruncile Tale” (προστάγμασι)."
+     }
+    ],
+    "refs": [
+     "Neemia 9:15,22-25",
+     "Psalmul 44:2,3",
+     "Ieremia 7:23,24",
+     "Judecători 2:11-13",
+     "Daniel 9:11,12",
+     "Levitic 26:14-46"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ai făcut să vină asupra lor” — ai făcut să li se întâmple; este o expresie a „întâmplării” (mikre)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și după învățătura Ta” — după cuvintele învățăturii Tale n-au umblat. „Ai făcut să li se întâmple” — și de aceea ai adus asupra lor întâmplarea acestui rău, explicată în versetul următor."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Vatakre” — de la „căci DOMNUL, Dumnezeul tău, a făcut să mi se întâmple”; e scris cu alef în loc de he, ca să arate că întâmplarea rea venită asupra lor nu este o întâmplare deplină, venită de la sine, ci El, binecuvântat fie, a făcut-o să vină."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vatakre” — din „întâmplare”, iar alef-ul vine în locul lui he."
+     }
+    ]
+   },
+   {
+    "v": "32:24",
+    "t": "Iată, pe rampe înălțate de pământ au venit la oraș să-l cucerească și orașul a fost predat în mâna caldeenilor care îl atacau, din pricina sabiei, a foametei și a molimei, iar ceea ce ai spus Tu [așa] a fost și Tu vezi asta!",
+    "heb": "הִנֵּה הַסֹּלְלוֹת בָּאוּ הָעִיר לְלָכְדָהּ וְהָעִיר נִתְּנָה בְּיַד הַכַּשְׂדִּים הַנִּלְחָמִים עָלֶיהָ מִפְּנֵי הַחֶרֶב וְהָרָעָב וְהַדָּבֶר וַאֲשֶׁר דִּבַּרְתָּ הָיָה וְהִנְּךָ רֹאֶה׃",
+    "translit": "Hine hasolelot bau hair lelohdha vehair nitna beiad hakasdim hanilhamim aleha mipenei haherev veharaav vehadaver vaașer dibarta haia vehinha roe.",
+    "tokens": [
+     {
+      "t": "Iată, "
+     },
+     {
+      "t": "pe rampe înălțate de pământ",
+      "w": "pe rampe înălțate de pământ",
+      "heb": "הַסֹּלְלוֹת",
+      "translit": "hasolelot",
+      "strong": "H5550",
+      "pos": "substantiv, feminin plural, cu articol",
+      "def_ro": "valurile de pământ ale asediului, rampele.",
+      "dict_ro": "Solela — movila sau rampa de pământ înălțată lângă zidul unei cetăți asediate, ca atacatorii să poată urca pe ea; Metzudat Țion o descrie ca „tell de țărână vărsat în fața cetății, ca să se urce pe ea”. Radak aduce și o altă lectură: mașinile care aruncau pietre în ziduri. Prin „și Tu vezi asta!”, profetul Îl ia pe Dumnezeu martor: cuvântul de pedeapsă s-a împlinit sub ochii tuturor."
+     },
+     {
+      "t": " au venit la oraș să-l cucerească și orașul a fost predat în mâna caldeenilor care îl atacau, din pricina sabiei, a foametei și a molimei, iar ceea ce ai spus Tu [așa] a fost și Tu vezi asta!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנֵּה הַסֹּלְלוֹת בָּאוּ הָעִיר...",
+      "translation": "„Iată, pe rampe înălțate de pământ...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἰδοὺ ὄχλος ἥκει εἰς τὴν πόλιν ταύτην συλλαβεῖν αὐτήν, καὶ ἡ πόλις ἐδόθη εἰς χεῖρας Χαλδαίων τῶν πολεμούντων αὐτὴν ἀπὸ προσώπου μαχαίρας καὶ τοῦ λιμοῦ· ὡς ἐλάλησας, οὕτως ἐγένετο.",
+      "greek": true,
+      "translation": "„Iată, mulțime a venit în cetatea aceasta ca s-o cucerească, și cetatea a fost dată în mâinile caldeenilor care se luptă împotriva ei, din pricina sabiei și a foametei; cum ai grăit, așa s-a întâmplat.”",
+      "note": "Septuaginta redă „rampele” prin „mulțime” (ὄχλος), omite „molima” și încheierea „și Tu vezi asta”."
+     }
+    ],
+    "refs": [
+     "Ieremia 33:4",
+     "Ezechiel 21:22",
+     "Ieremia 21:4-7",
+     "Ieremia 37:6-10",
+     "Plângerile lui Ieremia 4:3-10",
+     "Iosua 23:15,16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și ceea ce ai spus” — răul [rostit] asupra ei s-a împlinit."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iată, rampele” — căci iată, oamenii de război care stau pe rampe ca să lupte de pe ele au venit deja asupra cetății s-o cucerească, și este ca și cum ar fi fost deja dată în mâna lor, căci locuitorii cetății n-au putere să-i împiedice, fiind sfârșiți de sabie, de foamete și de molimă. „Și ceea ce ai spus” — de mult, că cetatea va fi cucerită, iată, așa a fost, și Tu vezi că așa este."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Iată, rampele” — sunt lemnele [mașinile] cu care aruncă pietre în zidurile cetății ca să le lovească; iar Ionatan traduce „iată, valurile au urcat asupra cetății ca s-o cucerească” — un tell de țărână care se strânge în jurul zidului ca să se urce de acolo pe zid."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hasolelot” — tellul de țărână care se varsă în fața cetății ca să se urce pe el și să se lupte cu cetatea se numește solela, ca în „și va ridica val” (Daniel 11:15). „Vehineha” — iată-te."
+     }
+    ]
+   },
+   {
+    "v": "32:25",
+    "t": "Și totuși, Tu mi-ai spus, Stăpâne, Doamne DUMNEZEULE: «Cumpără pentru tine cu argint un ogor și numește martori – dar orașul a fost predat caldeenilor!»”",
+    "heb": "וְאַתָּה אָמַרְתָּ אֵלַי אֲדֹנָי יְהוִה קְנֵה־לְךָ הַשָּׂדֶה בַּכֶּסֶף וְהָעֵד עֵדִים וְהָעִיר נִתְּנָה בְּיַד הַכַּשְׂדִּים׃",
+    "translit": "Veata amarta elai Adonai ELOHIM kene-leha hasade bakesef vehaed edim vehair nitna beiad hakasdim.",
+    "tokens": [
+     {
+      "t": "Și totuși, Tu mi-ai spus, Stăpâne, Doamne DUMNEZEULE: «Cumpără pentru tine cu argint un ogor și "
+     },
+     {
+      "t": "numește martori",
+      "w": "numește martori",
+      "heb": "וְהָעֵד עֵדִים",
+      "translit": "vehaed edim",
+      "strong": "H5707",
+      "pos": "verb, hifil, imperativ + substantiv, masculin plural",
+      "def_ro": "cheamă martori.",
+      "dict_ro": "Ed — martorul; profetul își încheie rugăciunea punând alături porunca și realitatea: „cumpără și cheamă martori — dar cetatea a fost dată caldeenilor!”. Rashi o rezumă: ce folos îmi mai e ogorul? Metzudat David precizează o nuanță importantă: deși Ieremia însuși îi spusese lui Baruh că e un semn al întoarcerii (32:15), acum vorbește din gândurile inimii lui, căci profeția încă nu-i fusese descoperită pe deplin — răspunsul vine în versetele următoare."
+     },
+     {
+      "t": " – dar orașul a fost predat caldeenilor!»”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאַתָּה אָמַרְתָּ אֵלַי אֲדֹנָי...",
+      "translation": "„Și totuși, Tu mi-ai spus, Stăpâne...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ σὺ λέγεις πρός με· κτῆσαι σεαυτῷ τὸν ἀγρὸν ἀργυρίου· καὶ ἔγραψα βιβλίον καὶ ἐσφραγισάμην καὶ ἐπεμαρτυράμην μάρτυρας· καὶ ἡ πόλις ἐδόθη εἰς χεῖρας Χαλδαίων.",
+      "greek": true,
+      "translation": "„Și Tu îmi zici: Cumpără-ți ogorul cu argint; și am scris o carte și am pecetluit și am chemat martori; și cetatea a fost dată în mâinile caldeenilor.”",
+      "note": "Septuaginta omite adresarea „Stăpâne, Doamne DUMNEZEULE” și adaugă „și am scris o carte și am pecetluit” — relatarea îndeplinirii poruncii, nu doar porunca."
+     }
+    ],
+    "refs": [
+     "Ieremia 32:24",
+     "Psalmul 77:19",
+     "Psalmul 97:2",
+     "Ioan 13:7",
+     "Romani 11:33,34"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și totuși orașul a fost predat” — ce folos îmi mai este ogorul?"
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și totuși, Tu mi-ai spus” — adică ce este aceasta, că mi-ai făcut cunoscută venirea lui Hanamel, ca și cum mi-ai fi spus prin aceasta să cumpăr ogorul de la el și să chem martori, după obiceiul cumpărătorilor? „Și orașul” — oare nu a fost dat orașul în mâna caldeenilor? Ce folos este atunci cumpărarea ogorului, de vreme ce caldeenii îl vor lua? Și deși el însuși îi spusese lui Baruh, fiul lui Neria, că lucrul vine ca aluzie și semn, aceasta a spus-o din gândurile inimii lui, și nu-i venise încă profeția despre aceasta."
+     }
+    ]
+   },
+   {
+    "v": "32:26",
+    "t": "Și apoi a venit cuvântul DOMNULUI la Ieremia, spunând:",
+    "heb": "וַיְהִי דְבַר־יְהוָה אֶל־יִרְמְיָהוּ לֵאמֹר׃",
+    "translit": "Vaihi devar-ADONAI el-Irmeiahu lemor.",
+    "tokens": [
+     {
+      "t": "Și apoi a venit "
+     },
+     {
+      "t": "cuvântul DOMNULUI",
+      "w": "cuvântul DOMNULUI",
+      "heb": "דְבַר־יְהוָה",
+      "translit": "devar-ADONAI",
+      "strong": "H1697",
+      "pos": "substantiv, masculin singular, în construcție + nume divin",
+      "def_ro": "cuvântul DOMNULUI.",
+      "dict_ro": "Devar ADONAI — răspunsul divin vine imediat după rugăciune. Din punct de vedere liturgic, haftara se oprește aici, cu primul verset al răspunsului (32:27), iar comunitățile Chabad se opresc chiar mai devreme, după 32:22; continuarea capitolului (32:28-44) dezvoltă promisiunea: pedeapsa va veni, dar DOMNUL îi va aduna din nou și se vor cumpăra ogoare „în ținutul lui Beniamin și în împrejurimile Ierusalimului” (32:44)."
+     },
+     {
+      "t": " la Ieremia, spunând:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי דְבַר־יְהוָה אֶל־יִרְמְיָהוּ לֵאמֹר׃...",
+      "translation": "„Și apoi a venit cuvântul DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Καὶ ἐγένετο λόγος Κυρίου πρός με λέγων·",
+      "greek": true,
+      "translation": "„Și a fost cuvântul Domnului către mine, zicând:”",
+      "note": "Septuaginta are „către mine” (persoana întâi), acolo unde Textul Masoretic are „către Ieremia”."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "32:27",
+    "t": "„Iată, Eu sunt DOMNUL, Dumnezeul tuturor făpturilor. Există oare vreun lucru ascuns de Mine?”",
+    "heb": "הִנֵּה אֲנִי יְהוָה אֱלֹהֵי כָּל־בָּשָׂר הֲמִמֶּנִּי יִפָּלֵא כָּל־דָּבָר׃",
+    "translit": "Hine ani ADONAI Elohei kol-basar hamimeni ipale kol-davar.",
+    "tokens": [
+     {
+      "t": "„Iată, Eu sunt DOMNUL, "
+     },
+     {
+      "t": "Dumnezeul tuturor făpturilor",
+      "w": "Dumnezeul tuturor făpturilor",
+      "heb": "אֱלֹהֵי כָּל־בָּשָׂר",
+      "translit": "Elohei kol-basar",
+      "strong": "H1320",
+      "pos": "substantiv, în construcție + substantiv",
+      "def_ro": "Dumnezeul oricărei făpturi (a oricărei cărni).",
+      "dict_ro": "Kol basar — „toată carnea”, adică orice făptură vie; titlul apare în Tora în rugăciunea lui Moise, „Dumnezeul duhurilor oricărei făpturi” (Numeri 16:22; 27:16). Răspunsul lui Dumnezeu reia chiar cuvintele profetului din 32:17 („niciun lucru nu este ascuns de Tine”): da, știu că cetatea va cădea, spune Radak, și totuși ți-am poruncit să cumperi ogorul, ca să le fie mângâiere că se vor întoarce din exil și vor cumpăra iarăși ogoare și case."
+     },
+     {
+      "t": ". Există oare vreun lucru ascuns de Mine?”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנֵּה אֲנִי יְהוָה אֱלֹהֵי...",
+      "translation": "„„Iată, Eu sunt DOMNUL, Dumnezeul tuturor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐγὼ Κύριος ὁ Θεὸς πάσης σαρκός, μὴ ἀπ’ ἐμοῦ κρυβήσεταί τι;",
+      "greek": true,
+      "translation": "„Eu sunt Domnul, Dumnezeul a toată carnea; oare se va ascunde ceva de Mine?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Numeri 16:22",
+     "Numeri 27:16",
+     "Psalmul 65:2",
+     "Luca 3:6",
+     "Ieremia 32:17",
+     "Matei 19:26"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Există oare vreun lucru ascuns de Mine?” — sunt ascunse de Mine cele ce vor fi?"
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Tuturor făpturilor” — tuturor creaturilor. „De Mine” — adică, dacă Eu sunt Dumnezeul lumii, oare poate exista vreun lucru care să-Mi fie acoperit, ca să nu-l pot face? Ca și cum ar spune: chiar dacă țara a fost dată în mâna caldeenilor, totuși e în mâna Mea s-o întorc lui Israel; și de aceea ți-am poruncit să cumperi ogorul, să fie semn și aluzie că așa voi face."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Există oare vreun lucru ascuns de Mine?” — cu adevărat nu Mi-e ascuns; știam că cetatea va fi dată în mâna caldeenilor, căci nu s-a întors mânia Mea de la ei, fiindcă păcatele lor s-au înmulțit ca să Mă mânie; și totuși ți-am spus să cumperi ogorul, ca să le fie mângâiere că se vor întoarce din exil și vor cumpăra ogoare și case în țara aceasta."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
