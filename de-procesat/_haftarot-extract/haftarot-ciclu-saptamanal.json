@@ -62314,6 +62314,1423 @@
     ]
    }
   ]
+ },
+  {
+  "num": 38,
+  "title": "Haftarat Bamidbar",
+  "ref": "Osea 2:1-22",
+  "intro": "Pericopa Bamidbar deschide cartea Numerilor cu recensământul fiilor lui Israel în pustie. Haftara începe exact de aici: „numărul copiilor lui Israel va fi precum nisipul mării, care nu poate fi nici măsurat, nici numărat”. Osea descrie apoi relația dintre Dumnezeu și poporul Său ca pe o căsătorie trădată. Israel, soția necredincioasă, a alergat după „amanți”, atribuindu-le lui Baal și aliaților străini grâul, vinul și untdelemnul pe care i le dăduse DOMNUL, iar pedeapsa este pierderea tuturor acestor daruri. Punctul de cotitură vine tot în pustie: Dumnezeu o „ademenește”, o duce acolo și vorbește inimii ei, iar valea tulburării devine „poartă a speranței”. Haftara se încheie cu versetele pe care bărbații evrei le recită în fiecare dimineață la punerea tefilinului: „Te voi mărita cu Mine veșnic, te voi mărita cu mine în dreptate și judecată, și cu bunătate și cu milă. Te voi mărita cu Mine în credință și Îl vei cunoaște pe DOMNUL.”",
+  "verses": [
+   {
+    "v": "2:1",
+    "t": "Și numărul copiilor lui Israel va fi precum nisipul mării, care nu poate fi nici măsurat, nici numărat. Și va fi, că în loc să se spună despre ei: „Voi nu sunteți poporul Meu”, se va spune: „copiii Dumnezeului Celui Viu”.",
+    "heb": "וְהָיָה מִסְפַּר בְּנֵי־יִשְׂרָאֵל כְּחוֹל הַיָּם אֲשֶׁר לֹא־יִמַּד וְלֹא יִסָּפֵר וְהָיָה בִּמְקוֹם אֲשֶׁר־יֵאָמֵר לָהֶם לֹא־עַמִּי אַתֶּם יֵאָמֵר לָהֶם בְּנֵי אֵל־חָי׃",
+    "translit": "Vehaia mispar benei-Israel kehol haiam așer lo-imad velo isafer vehaia bimkom așer-ieamer lahem lo-ami atem ieamer lahem benei El-hai.",
+    "tokens": [
+     {
+      "t": "Și numărul copiilor lui Israel va fi precum nisipul mării, care nu poate fi nici măsurat, nici numărat. Și va fi, că în loc să se spună despre ei: „Voi nu sunteți poporul Meu”, se va spune: „copiii "
+     },
+     {
+      "t": "Dumnezeului Celui Viu",
+      "w": "Dumnezeului Celui Viu",
+      "heb": "אֵל־חָי",
+      "translit": "El-hai",
+      "strong": "H410",
+      "pos": "substantiv + adjectiv",
+      "def_ro": "Dumnezeul cel viu.",
+      "dict_ro": "El hai — „Dumnezeul cel viu”, în opoziție cu idolii fără viață. Versetul răstoarnă numele simbolic al fiului lui Osea, Lo-Ami („nu poporul Meu”, 1:9): în același loc unde li s-a spus „nu sunteți poporul Meu”, se va spune „copiii Dumnezeului Celui Viu”. Talmudul (Pesahim 87a-b) explică trecerea bruscă de la pedeapsă la mângâiere: Osea spusese „schimbă-i cu alt neam”, Dumnezeu i-a poruncit să ia o femeie desfrânată și apoi să o alunge; profetul n-a putut, a înțeles lecția și a cerut milă pentru Israel. Pavel citează versetul în Romani 9:26."
+     },
+     {
+      "t": "”."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה מִסְפַּר בְּנֵי־יִשְׂרָאֵל כְּחוֹל...",
+      "translation": "„Și numărul copiilor lui Israel va...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΚΑΙ ἦν ὁ ἀριθμὸς τῶν υἱῶν ᾿Ισραὴλ ὡς ἡ ἄμμος τῆς θαλάσσης, ἣ οὐκ ἐκμετρηθήσεται οὐδὲ ἐξαριθμηθήσεται. καὶ ἔσται ἐν τῷ τόπῳ, οὗ ἐρρέθη αὐτοῖς· οὐ λαός μου ὑμεῖς, κληθήσονται καὶ αὐτοὶ υἱοὶ Θεοῦ ζῶντος.",
+      "greek": true,
+      "translation": "„Și era numărul fiilor lui Israel ca nisipul mării, care nu se va măsura, nici nu se va număra. Și va fi, în locul unde li s-a zis: «Nu sunteți poporul Meu», se vor numi și ei fii ai Dumnezeului celui viu.”",
+      "note": "Corespondență strânsă; în Septuaginta (ca și în unele traduceri creștine) versetul acesta e numerotat 1:10."
+     }
+    ],
+    "refs": [
+     "Geneza 32:12",
+     "Isaia 48:19",
+     "Romani 9:27,28",
+     "Romani 9:25,26",
+     "1 Petru 2:9,10",
+     "Ioan 1:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și numărul... va fi” — ce legătură au pedeapsa și mângâierea puse una lângă alta în aceeași cuvântare? Înțelepții noștri au explicat în Pesahim (87b): Osea a simțit că a păcătuit spunând „schimbă-i cu alt neam”; s-a ridicat și a cerut milă pentru ei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și numărul va fi” — în vremea mântuirii, numărul fiilor lui Israel va fi ca nisipul mării, pe care nu-l poți măsura nici număra; iar înțelepții noștri au spus că, după ce Osea i-a născut pe aceștia, Cel Omniprezent i-a spus: „trimite-ți femeia...”, și el a înțeles aluzia, că nu era bine în ochii DOMNULUI ce spusese despre Israel, să-i schimbe cu alt neam, și de aceea s-a întors și a cerut milă pentru ei. „Se va spune despre ei” — se va spune încă despre ei: fiii Dumnezeului Celui Viu, mai iubiți decât „popor”."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: deși acum sunt numiți „nu poporul Meu”, va mai veni o vreme când numărul fiilor lui Israel va fi ca nisipul, care nu se măsoară — cu atât mai puțin se numără; iar măsurarea se spune despre nisip, pe când despre stele se spune doar „număr”. Este un fel de exagerare, iar intenția e doar mulțimea."
+     },
+     {
+      "author": "Talmud Bavli, Pesahim 87a-b",
+      "text": "Sfântul, binecuvântat fie El, i-a spus lui Osea: fiii tăi au păcătuit. El ar fi trebuit să spună: sunt fiii Tăi, fiii iubiților Tăi, Avraham, Isaac și Iacov — revarsă-Ți mila asupra lor. Dar el a spus: Stăpâne al lumii, toată lumea e a Ta; schimbă-i cu alt neam. [...] Osea s-a ridicat, a cerut milă pentru Israel și a anulat hotărârea; iar Dumnezeu a început să-i binecuvânteze, precum s-a spus: „Și numărul fiilor lui Israel va fi ca nisipul mării...” (Osea 2:1)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Yimad” — din măsurare. „Lahem” — despre ei."
+     }
+    ]
+   },
+   {
+    "v": "2:2",
+    "t": "Iar copiii lui Iuda vor fi strânși laolaltă și își vor alege un singur conducător și se vor ridica din țară – căci mare este ziua lui Izreel.",
+    "heb": "וְנִקְבְּצוּ בְנֵי־יְהוּדָה וּבְנֵי־יִשְׂרָאֵל יַחְדָּו וְשָׂמוּ לָהֶם רֹאשׁ אֶחָד וְעָלוּ מִן־הָאָרֶץ כִּי גָדוֹל יוֹם יִזְרְעֶאל׃",
+    "translit": "Venikbețu benei-Iehuda uvenei-Israel iahdav vesamu lahem roș ehad vealu min-haareț ki gadol iom Izreel.",
+    "tokens": [
+     {
+      "t": "Iar copiii lui Iuda vor fi strânși laolaltă și își vor alege un singur conducător și se vor ridica din țară – căci mare este "
+     },
+     {
+      "t": "ziua lui Izreel",
+      "w": "ziua lui Izreel",
+      "heb": "יוֹם יִזְרְעֶאל",
+      "translit": "iom Izreel",
+      "strong": "H3157",
+      "pos": "substantiv + nume propriu",
+      "def_ro": "ziua lui Izreel („Dumnezeu seamănă”).",
+      "dict_ro": "Izreel — numele primului fiu al lui Osea (1:4) și al văii unde Iehu vărsase sânge, deci la început un nume de judecată; Metzudat Țion îl explică drept cuvânt compus din „a semăna” și „Dumnezeu”. Aici sensul se întoarce spre bine: Rashi îl citește ca „ziua adunării semănăturii lor”, iar Metzudat David: mare va fi ziua în care Dumnezeu îi va aduna pe cei pe care i-a risipit, cum risipește semănătorul semințele pe ogor. „Un singur conducător” este, după Rashi „David, regele lor”, după Radak și Metzudat David regele Mesia."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְנִקְבְּצוּ בְנֵי־יְהוּדָה וּבְנֵי־יִשְׂרָאֵל יַחְדָּו...",
+      "translation": "„Iar copiii lui Iuda vor fi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ συναχθήσονται υἱοὶ ᾿Ιούδα καὶ οἱ υἱοὶ ᾿Ισραὴλ ἐπὶ τὸ αὐτὸ καὶ θήσονται ἑαυτοῖς ἀρχὴν μίαν καὶ ἀναβήσονται ἐκ τῆς γῆς, ὅτι μεγάλη ἡ ἡμέρα τοῦ ᾿Ιεζραέλ.",
+      "greek": true,
+      "translation": "„Și se vor aduna fiii lui Iuda și fiii lui Israel laolaltă și își vor pune o singură căpetenie și se vor sui din țară, căci mare este ziua lui Izreel.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Osea 3:5",
+     "Isaia 11:12,13",
+     "Ieremia 3:18,19",
+     "Ezechiel 34:23,24",
+     "Psalmul 22:27-30",
+     "Romani 11:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Un singur conducător” — David, regele lor. „Căci mare este ziua lui Izreel” — adunarea semănăturii lor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Vor fi strânși” — aceasta va fi în zilele lui Mesia. „Un singur conducător” — acesta este regele Mesia. „Se vor ridica” — din țările exilului se vor sui în țara lor. „Căci mare este ziua lui Izreel” — căci mare și cinstită va fi ziua adunării lui Israel, pe care Dumnezeu i-a risipit ca pe cel ce împrăștie semințe pe fața câmpului."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: aceasta va fi la adunarea exilaților în zilele lui Mesia, căci în vremea celui de-al Doilea Templu s-au întors doar Iuda și Beniamin, care fuseseră exilați în Babilon, și nu au fost fiii lui Iuda și fiii lui Israel laolaltă. „Un singur conducător” — acesta este regele Mesia, și așa traduce Ionatan: „și își vor numi o singură căpetenie din casa lui David”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Izreel” — este un cuvânt compus din „semănare” și „Dumnezeu”."
+     }
+    ]
+   },
+   {
+    "v": "2:3",
+    "t": "Spuneți-le fraților voștri: Ami (n.t. „poporul meu”) și surorilor voastre Ruhama (n.t. „milostivita”).",
+    "heb": "אִמְרוּ לְאֲחֵיכֶם עַמִּי וְלַאֲחוֹתֵיכֶם רֻחָמָה׃",
+    "translit": "Imru laaheihem Ami velaahoteihem Ruhama.",
+    "tokens": [
+     {
+      "t": "Spuneți-le fraților voștri: Ami (n.t. „poporul meu”) și surorilor voastre "
+     },
+     {
+      "t": "Ruhama",
+      "w": "Ruhama",
+      "heb": "רֻחָמָה",
+      "translit": "Ruhama",
+      "strong": "H7355",
+      "pos": "verb, pual, perfect, persoana a III-a feminin singular (folosit ca nume)",
+      "def_ro": "„cea miluită”.",
+      "dict_ro": "Ruhama — „cea care a primit milă”, de la raham, „a iubi cu îndurare” (înrudit cu rehem, „pântece”: mila maternă). E răsturnarea numelui fiicei lui Osea, Lo-Ruhama, „cea nemiluită” (1:6), la fel cum Ami răstoarnă Lo-Ami. Metzudat David explică adresarea: voi, fiii lui Iuda, spuneți-le fraților voștri din cele zece triburi că sunt poporul Meu ca și voi, deși i-am exilat mai devreme; Petru reia perechea de nume în 1 Petru 2:10."
+     },
+     {
+      "t": " (n.t. „milostivita”)."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אִמְרוּ לְאֲחֵיכֶם עַמִּי וְלַאֲחוֹתֵיכֶם...",
+      "translation": "„Spuneți-le fraților voștri: Ami (n.t. „poporul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "εἴπατε τῷ ἀδελφῷ ὑμῶν· λαός μου καὶ τῇ ἀδελφῇ ὑμῶν· ἠλεημένη.",
+      "greek": true,
+      "translation": "„Ziceți fratelui vostru: «Poporul Meu», și sorei voastre: «Cea miluită».”",
+      "note": "Septuaginta traduce numele (ca substantive comune) și trece adresarea la singular: „fratelui vostru”, „sorei voastre”."
+     }
+    ],
+    "refs": [
+     "Exod 19:5,6",
+     "Ieremia 31:33",
+     "Ezechiel 36:28",
+     "Zaharia 13:9",
+     "Romani 11:30,31",
+     "1 Petru 2:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Spuneți-le fraților voștri: Ami” — de explicat după Targum: întoarceți-vă la Tora Mea, și voi arăta îndurare neamului vostru."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Spuneți” — voi, fiii lui Iuda și Beniamin, spuneți despre frații voștri, fiii celor zece triburi, că sunt poporul Meu ca și voi, deși M-am grăbit să-i exilez înaintea voastră și i-am numit atunci „nu poporul Meu”; și tot așa spuneți „Ruhama” surorilor voastre — ele sunt femeile celor zece triburi."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: Rav Saadia Gaon a explicat: [profetul] le spune celor din Iuda și Beniamin: frații voștri, cele zece triburi, care erau numiți „nu poporul Meu” când făceau rău în ochii DOMNULUI, în vremea întoarcerii exilului spuneți-le „poporul Meu”; și pentru că pilda era cu un fiu și o fiică, a spus „fraților” și „surorilor”."
+     }
+    ]
+   },
+   {
+    "v": "2:4",
+    "t": "Mustrați-vă mama, mustrați-o, căci ea nu este soția mea și eu nu sunt soțul ei. Să-și îndepărteze desfrânarea dinaintea ei și adulterurile dintre sânii ei.",
+    "heb": "רִיבוּ בְאִמְּכֶם רִיבוּ כִּי־הִיא לֹא אִשְׁתִּי וְאָנֹכִי לֹא אִישָׁהּ וְתָסֵר זְנוּנֶיהָ מִפָּנֶיהָ וְנַאֲפוּפֶיהָ מִבֵּין שָׁדֶיהָ׃",
+    "translit": "Rivu veimhem rivu ki-hi lo iști veanohi lo ișa vetaser zenuneha mipaneha venaafufeha mibein șadeha.",
+    "tokens": [
+     {
+      "t": "Mustrați-vă mama, mustrați-o, căci ea nu este soția mea și eu nu sunt soțul ei. Să-și îndepărteze "
+     },
+     {
+      "t": "desfrânarea",
+      "w": "desfrânarea",
+      "heb": "זְנוּנֶיהָ",
+      "translit": "zenuneha",
+      "strong": "H2183",
+      "pos": "substantiv, masculin plural + sufix persoana a III-a feminin",
+      "def_ro": "desfrânările ei.",
+      "dict_ro": "Zenunim — desfrânarea, imaginea centrală a cărții lui Osea pentru idolatrie: legământul dintre Dumnezeu și Israel e o căsătorie, iar închinarea la alți dumnezei, adulter. Radak explică de ce „mama” e chemată la judecată de proprii „copii”: întreaga comunitate e mama, iar indivizii, copiii — cei drepți din fiecare generație trebuie să se certe cu poporul pentru calea lui rea. Ionatan, citat de Rashi, traduce fără metaforă: „și slujirea idolilor din mijlocul cetăților ei”."
+     },
+     {
+      "t": " dinaintea ei și adulterurile dintre sânii ei."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "רִיבוּ בְאִמְּכֶם רִיבוּ כִּי־הִיא...",
+      "translation": "„Mustrați-vă mama, mustrați-o, căci ea nu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Κρίθητε πρὸς τὴν μητέρα ὑμῶν, κρίθητε, ὅτι αὕτη οὐ γυνή μου, καὶ ἐγὼ οὐκ ἀνὴρ αὐτῆς. καὶ ἐξαρῶ τὴν πορνείαν αὐτῆς ἐκ προσώπου μου καὶ τὴν μοιχείαν αὐτῆς ἐκ μέσου μαστῶν αὐτῆς,",
+      "greek": true,
+      "translation": "„Judecați-vă cu mama voastră, judecați-vă, căci ea nu este femeia Mea, și Eu nu sunt bărbatul ei; și voi stârpi desfrânarea ei dinaintea feței Mele și adulterul ei dintre sânii ei,”",
+      "note": "Divergență reală: în Septuaginta Dumnezeu Însuși înlătură desfrânarea („voi stârpi”), pe când în Textul Masoretic se cere ca ea să și-o îndepărteze („să-și îndepărteze”)."
+     }
+    ],
+    "refs": [
+     "Isaia 50:1",
+     "Ieremia 2:2",
+     "Ieremia 3:6-8",
+     "Ezechiel 23:45",
+     "Matei 23:37-39",
+     "Faptele Apostolilor 7:51-53"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Mustrați-vă mama, mustrați-o” — neamul vostru de astăzi, care este mama generațiilor viitoare. „Și adulterurile dintre sânii ei” — Ionatan traduce: „și slujirea idolilor din mijlocul cetăților ei”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Mustrați-vă mama, mustrați-o” — întreaga comunitate laolaltă e numită „mamă”, ca și cum le-ar spune celor drepți din generație: faceți ceartă cu întreaga comunitate pentru răutatea căii ei, căci de acum ea nu mai este soția Mea, pentru că s-a abătut de la Mine, iar Eu nu mai sunt bărbatul ei, ca s-o întrețin."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: acum revine la cuvintele mustrării de la început; pentru că a asemănat adunarea lui Israel cu o femeie desfrânată, iar pe cei născuți din generație în generație cu copii ai desfrânării, spune către copii: „mustrați-vă mama” — comunitatea în ansamblu e asemănată cu mama, iar indivizii cu copiii; și sensul e ca fiecare să se certe cu semenul lui, ca să-i întoarcă pe calea cea bună."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ișah” — soțul ei. „Venaafufeha” — din „adulter”."
+     }
+    ]
+   },
+   {
+    "v": "2:5",
+    "t": "Ca nu cumva să o dezbrac goală și să o pun să stea ca în ziua în care s-a născut. O voi face ca un deșert și o voi așeza ca un ținut arid și o voi ucide cu sete.",
+    "heb": "פֶּן־אַפְשִׁיטֶנָּה עֲרֻמָּה וְהִצַּגְתִּיהָ כְּיוֹם הִוָּלְדָהּ וְשַׂמְתִּיהָ כַמִּדְבָּר וְשַׁתִּהָ כְּאֶרֶץ צִיָּה וַהֲמִתִּיהָ בַּצָּמָא׃",
+    "translit": "Pen-afșitena aruma vehițagtia keiom hivaleda vesamtia hamidbar veșatiha keerețția vahamitia bațama.",
+    "tokens": [
+     {
+      "t": "Ca nu cumva să o dezbrac goală și să o pun să stea ca în ziua în care s-a născut. O voi face ca un deșert și o voi așeza ca un "
+     },
+     {
+      "t": "ținut arid",
+      "w": "ținut arid",
+      "heb": "כְּאֶרֶץ צִיָּה",
+      "translit": "keereț țiia",
+      "strong": "H6723",
+      "pos": "prepoziție + substantiv + substantiv",
+      "def_ro": "ca un pământ uscat, secetos.",
+      "dict_ro": "Țiia — pământul uscat, fără apă. Rashi leagă imaginile de istoria poporului: „ca în ziua în care s-a născut” e starea din Egipt, descrisă în Ezechiel 16:4-5 ca a unui prunc părăsit, iar „ca un deșert” amintește hotărârea din pustie, că generația aceea va muri acolo (Numeri 14:35). De aici una dintre legăturile haftarei cu pericopa Bamidbar, „în pustie”: pustia poate fi loc de pedeapsă, dar și, cum va arăta 2:16, loc al unei noi logodne."
+     },
+     {
+      "t": " și o voi ucide cu sete."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "פֶּן־אַפְשִׁיטֶנָּה עֲרֻמָּה וְהִצַּגְתִּיהָ כְּיוֹם...",
+      "translation": "„Ca nu cumva să o dezbrac...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅπως ἂν ἐκδύσω αὐτὴν γυμνὴν καὶ ἀποκαταστήσω αὐτὴν καθὼς ἡμέρα γενέσεως αὐτῆς. καὶ θήσω αὐτὴν ἔρημον καὶ τάξω αὐτὴν ὡς γῆν ἄνυδρον καὶ ἀποκτενῶ αὐτὴν ἐν δίψει·",
+      "greek": true,
+      "translation": "„ca s-o dezbrac goală și s-o așez cum era în ziua nașterii ei; și o voi face pustie și o voi rândui ca pe un pământ fără apă și o voi omorî de sete.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ezechiel 16:37-39",
+     "Isaia 47:3",
+     "Ezechiel 16:4-8,22",
+     "Ieremia 2:6",
+     "Ieremia 2:31",
+     "Amos 8:11-13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ca în ziua în care s-a născut” — ca în ziua în care am găsit-o în Egipt, cum e descris în Ezechiel (16:4-5): „la nașterea ta, în ziua în care te-ai născut, nu ți s-a tăiat buricul... niciun ochi nu s-a îndurat de tine”. „Ca un deșert” — face aluzie la hotărârile pe care le-am rostit asupra lor în pustie, că acolo vor pieri și acolo vor muri (Numeri 14:35)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ca nu cumva să o dezbrac goală” — căci dacă nu-și va părăsi calea, ca nu cumva să-i scot hainele și să rămână goală; și a spus lucrul rușinos care se face unei desfrânate, pentru că a asemănat-o cu o desfrânată. „Și să o pun să stea” — o voi așeza fără îmbrăcăminte și acoperământ, cum era în ziua în care s-a născut. „Ca un deșert” — fără stăpân, al tuturor, ca pustia."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și o voi face ca un deșert” — care e fără stăpân și în care nu se găsește nicio hrană și nimic din cele de trebuință omului; așa voi îndepărta de la ei tot binele Meu și vor fi lăsați la voia tuturor. Iar pilda nașterii este vremea când erau robi în Egipt."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Afșitena” — cu sensul de scoatere a hainei, ca în „își va dezbrăca hainele” (Levitic 6:4). „Vehițagtiha” — cu sensul de așezare. „Țiia” — pustiire."
+     }
+    ]
+   },
+   {
+    "v": "2:6",
+    "t": "Nu voi avea milă de copiii ei, căci sunt copii ai desfrânării.",
+    "heb": "וְאֶת־בָּנֶיהָ לֹא אֲרַחֵם כִּי־בְנֵי זְנוּנִים הֵמָּה׃",
+    "translit": "Veet-baneha lo arahem ki-venei zenunim hema.",
+    "tokens": [
+     {
+      "t": "Nu voi avea milă de copiii ei, căci sunt "
+     },
+     {
+      "t": "copii ai desfrânării",
+      "w": "copii ai desfrânării",
+      "heb": "בְנֵי זְנוּנִים",
+      "translit": "venei zenunim",
+      "strong": "H1121",
+      "pos": "substantiv, masculin plural, în construcție + substantiv plural",
+      "def_ro": "copii născuți din desfrânare.",
+      "dict_ro": "Benei zenunim — expresia reia porunca din 1:2 („ia-ți o femeie a desfrânării și copii ai desfrânării”). Metzudat David citește aici o idee grea: chiar și cei drepți vor fi loviți odată cu vina întregii națiuni, ca urmașii care poartă rușinea mamei. Radak lărgește sensul: „copiii” sunt generațiile care au păstrat obiceiul primei generații idolatre — pedeapsa îi atinge pentru că au continuat aceeași cale."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־בָּנֶיהָ לֹא אֲרַחֵם כִּי־בְנֵי...",
+      "translation": "„Nu voi avea milă de copiii...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τὰ τέκνα αὐτῆς οὐ μὴ ἐλεήσω, ὅτι τέκνα πορνείας ἐστίν.",
+      "greek": true,
+      "translation": "„Și de copiii ei nicidecum nu Mă voi milostivi, căci sunt copii ai desfrânării.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Osea 1:6",
+     "Isaia 27:11",
+     "Ieremia 13:14",
+     "Ezechiel 8:18",
+     "Osea 1:2",
+     "Ioan 8:41"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și de copiii ei” — adică nici de cei drepți dintre ei nu voi avea milă. „Căci sunt copii ai desfrânării” — pentru că a asemănat-o cu o desfrânată, a spus ce se potrivește unei desfrânate: nimeni nu are milă de copiii ei, deși ei n-au păcătuit, și totuși poartă vina mamei lor; adică și cei drepți vor fi loviți pentru vina întregului neam."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: cum am explicat, comunitatea în ansamblu se numește mamă, iar indivizii — copii; sau [copiii sunt] cei născuți în fiecare generație, care au urmat obiceiul primei generații, care slujea idolilor."
+     }
+    ]
+   },
+   {
+    "v": "2:7",
+    "t": "Căci mama lor s-a prostitut, cea care i-a zămislit s-a făcut de rușine, căci a spus: „Voi merge după amanții mei, cei care îmi dau pâinea și apa, lâna și inul, untdelemnul și băutura.”",
+    "heb": "כִּי זָנְתָה אִמָּם הֹבִישָׁה הוֹרָתָם כִּי אָמְרָה אֵלְכָה אַחֲרֵי מְאַהֲבַי נֹתְנֵי לַחְמִי וּמֵימַי צַמְרִי וּפִשְׁתִּי שַׁמְנִי וְשִׁקּוּיָי׃",
+    "translit": "Ki zanta imam hovișa horatam ki amra elha aharei meahavai notnei lahmi umeimai țamri ufiști șamni veșikuiai.",
+    "tokens": [
+     {
+      "t": "Căci mama lor s-a prostitut, cea care i-a zămislit s-a făcut de rușine, căci a spus: „Voi merge după "
+     },
+     {
+      "t": "amanții mei",
+      "w": "amanții mei",
+      "heb": "מְאַהֲבַי",
+      "translit": "meahavai",
+      "strong": "H157",
+      "pos": "verb, piel, participiu, masculin plural + sufix persoana I",
+      "def_ro": "iubiții mei, amanții mei.",
+      "dict_ro": "Meahavim — „cei care iubesc” la forma intensivă: amanții. Comentatorii dau două lecturi: pentru Radak, amanții sunt alianțele politice cu Asiria și Egiptul, pe care Israel se sprijinea ca să-și lucreze pământul în pace; pentru tatăl lui Radak (citat de el) și pentru Metzudat David, sunt astrele cerului, cărora le atribuiau pâinea, apa, lâna și inul. Rashi, după Ionatan, vede în „cea care i-a zămislit s-a făcut de rușine” pe învățătorii care îi învață pe alții „să nu furi”, dar ei înșiși fură."
+     },
+     {
+      "t": ", cei care îmi dau pâinea și apa, lâna și inul, untdelemnul și băutura.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי זָנְתָה אִמָּם הֹבִישָׁה...",
+      "translation": "„Căci mama lor s-a prostitut, cea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι ἐξεπόρνευσεν ἡ μήτηρ αὐτῶν, κατῄσχυνεν ἡ τεκοῦσα αὐτά, ὅτι εἶπε· πορεύσομαι ὀπίσω τῶν ἐραστῶν μου τῶν διδόντων μοι τοὺς ἄρτους μου καὶ τὸ ὕδωρ μου καὶ τὰ ἱμάτιά μου καὶ τὰ ὀθόνιά μου, τὸ ἔλαιόν μου καὶ πάντα ὅσα μοι καθήκει.",
+      "greek": true,
+      "translation": "„căci mama lor s-a prostituat, cea care i-a născut i-a făcut de rușine, căci a zis: Voi merge după iubiții mei, care îmi dau pâinea mea și apa mea și hainele mele și pânzeturile mele, untdelemnul meu și toate câte îmi trebuie.”",
+      "note": "Septuaginta redă „lâna și inul” prin „hainele și pânzeturile” și încheie cu „toate câte îmi trebuie” în loc de „băutura”."
+     }
+    ],
+    "refs": [
+     "Osea 3:1",
+     "Isaia 1:21",
+     "Ieremia 2:20,25",
+     "Ezechiel 16:15,16",
+     "Ieremia 11:13",
+     "Ieremia 44:17,18"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Mama lor” — neamul lor. „Cea care i-a zămislit s-a făcut de rușine” — după Ionatan, care traduce: „învățătorii lor sunt rușinați”; înțelepții care îi învață cu îndrumări sunt rușinați înaintea poporului neștiutor: le spun „să nu furi”, dar ei fură; „să nu împrumuți cu dobândă”, dar ei împrumută. „După amanții mei” — pe căile neamurilor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Căci mama lor s-a prostituat” — întregul neam s-a abătut de la Mine. „Cea care i-a zămislit s-a făcut de rușine” — mama care i-a purtat în pântece a făcut fapte de rușine și ocară; e o dublare a sensului. „După amanții mei” — după iubiții care îmi dau pâinea..., adică s-a încrezut în rânduiala cerurilor, crezând că tot belșugul ei vine de la ele."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „După amanții mei” — Asiria și Egiptul, cu care Israel avea legământ și care îi scăpau de dușmani; ei mergeau în siguranță datorită darurilor pe care le dădeau, și fiind în pace prin legământul cu ei, era ca și cum aceia le-ar fi dat cele de trebuință — pâinea, apa, lâna, inul, untdelemnul și băutura. Iar tatăl meu, de binecuvântată amintire, a explicat „amanții mei” ca soarele, luna și stelele, cărora le slujeau, crezând că de la ele le vine hrana."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hovișa” — din „rușine”. „Horatam” — din „zămislire”. „Veșikuiai” — din „băutură”."
+     }
+    ]
+   },
+   {
+    "v": "2:8",
+    "t": "De aceea, iată, voi mărgini calea ta cu spini și-i voi ridica îngrădirea, pentru ca să nu-și mai găsească drumurile.",
+    "heb": "לָכֵן הִנְנִי־שָׂךְ אֶת־דַּרְכֵּךְ בַּסִּירִים וְגָדַרְתִּי אֶת־גְּדֵרָהּ וּנְתִיבוֹתֶיהָ לֹא תִמְצָא׃",
+    "translit": "Lachen hineni-sah et-darkeh basirim vegadarti et-ghedera unetivoteha lo timța.",
+    "tokens": [
+     {
+      "t": "De aceea, iată, voi mărgini calea ta "
+     },
+     {
+      "t": "cu spini",
+      "w": "cu spini",
+      "heb": "בַּסִּירִים",
+      "translit": "basirim",
+      "strong": "H5518",
+      "pos": "prepoziție + substantiv, masculin plural, cu articol",
+      "def_ro": "cu spini, cu mărăcini.",
+      "dict_ro": "Sirim — spinii (Metzudat Țion îi compară cu „trosnetul spinilor sub oală”, Eclesiastul 7:6). Imaginea e a unui drum îngrădit cu gard de spini și zid, pe care cineva nu-l mai poate străbate; Radak o compară cu plângerea lui Iov: „mi-a îngrădit drumul cu pietre cioplite” (Plângerile 3:9). Metzudat David o citește spiritual: Israel nu va mai reuși să coboare asupra sa belșugul pe care îl aștepta de la astre — ca și cum drumul ar fi fost astupat."
+     },
+     {
+      "t": " și-i voi ridica îngrădirea, pentru ca să nu-și mai găsească drumurile."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן הִנְנִי־שָׂךְ אֶת־דַּרְכֵּךְ בַּסִּירִים...",
+      "translation": "„De aceea, iată, voi mărgini calea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "διὰ τοῦτο ἰδοὺ ἐγὼ φράσσω τὴν ὁδὸν αὐτῆς ἐν σκόλοψι καὶ ἀνοικοδομήσω τὰς ὁδούς, καὶ τὴν τρίβον αὐτῆς οὐ μὴ εὕρῃ·",
+      "greek": true,
+      "translation": "„De aceea, iată, Eu îngrădesc calea ei cu țepi și voi zidi drumurile, și cărarea ei nicidecum nu o va găsi.”",
+      "note": "Septuaginta trece de la persoana a doua („calea ta”) la a treia („calea ei”), păstrând aceeași persoană pe tot versetul."
+     }
+    ],
+    "refs": [
+     "Iov 3:23",
+     "Iov 19:8",
+     "Plângerile lui Ieremia 3:7-9",
+     "Luca 15:14-16",
+     "Luca 19:43"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Iată, voi mărgini” — „sah” e o expresie de îngrădire, ca în „îndepărtați-i gardul” (Isaia 5:5) și „ca un gard de spini” (Proverbe 15:19). „Calea ta” — căile și cărările pe care mergi."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De aceea” — de vreme ce așa a gândit, îți voi îngrădi calea umblării tale cu spini, ca să nu poți merge pe ea; adică nu vei ști să cobori asupra ta belșug din rânduiala cerurilor, ca și cum drumul ar fi fost astupat. „Nu-și va mai găsi drumurile” — nu va găsi cărare și mijloc de a coborî asupra ei belșugul."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Voi mărgini calea ta cu spini” — ca să nu poată ieși din cetate de frica sabiei, iar amanții ei, Asiria și Egiptul, nu-i vor folosi; calea ei e ca și cum ar avea în ea un gard de spini și mărăcini, prin care nu poate trece, și ca și cum ar fi îngrădită cu piatră cioplită; și pe această cale s-a spus: „mi-a îngrădit drumurile cu pietre cioplite, mi-a strâmbat cărările”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Sah” — cu sensul de gard, ca în „îndepărtați-i gardul” (Isaia 5:5). „Basirim” — spini, ca în „trosnetul spinilor” (Eclesiastul 7:6). „Unetivoteiha” — din „cărare, potecă”."
+     }
+    ]
+   },
+   {
+    "v": "2:9",
+    "t": "Va alerga după amanții ei, dar nu-i va ajunge din urmă, îi va căuta, dar nu-i va găsi; și va spune: „Voi merge și mă voi întoarce la soțul meu dintâi, căci îmi era mai bine atunci decât acum.”",
+    "heb": "וְרִדְּפָה אֶת־מְאַהֲבֶיהָ וְלֹא־תַשִּׂיג אֹתָם וּבִקְשָׁתַם וְלֹא תִמְצָא וְאָמְרָה אֵלְכָה וְאָשׁוּבָה אֶל־אִישִׁי הָרִאשׁוֹן כִּי טוֹב לִי אָז מֵעָתָּה׃",
+    "translit": "Veridefa et-meahaveha velo-tasig otam uvikșatam velo timța veamra elha veașuva el-iși harișon ki tov li az meata.",
+    "tokens": [
+     {
+      "t": "Va alerga după amanții ei, dar nu-i va ajunge din urmă, îi va căuta, dar nu-i va găsi; și va spune: „Voi merge și mă voi întoarce la "
+     },
+     {
+      "t": "soțul meu dintâi",
+      "w": "soțul meu dintâi",
+      "heb": "אִישִׁי הָרִאשׁוֹן",
+      "translit": "iși harișon",
+      "strong": "H376",
+      "pos": "substantiv + sufix persoana I + adjectiv cu articol",
+      "def_ro": "primul meu bărbat.",
+      "dict_ro": "Iș — bărbatul, soțul; „primul meu soț” e Dumnezeu, legământul de la Sinai. Metzudat David explică întoarcerea: abia după ce va urmări fără folos puterile cerești, Israel va spune „mă voi încrede în Sfântul, binecuvântat fie El, căci de când îmi era încrederea în El îmi era mai bine decât acum”. Radak precizează că acest cuvânt nu va fi spus decât după o lungă suferință în exil, cum spune Tora: „în strâmtorarea ta... te vei întoarce la DOMNUL” (Deuteronom 4:30)."
+     },
+     {
+      "t": ", căci îmi era mai bine atunci decât acum.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְרִדְּפָה אֶת־מְאַהֲבֶיהָ וְלֹא־תַשִּׂיג אֹתָם...",
+      "translation": "„Va alerga după amanții ei, dar...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ καταδιώξεται τοὺς ἐραστὰς αὐτῆς καὶ οὐ μὴ καταλάβῃ αὐτοὺς καὶ ζητήσει αὐτοὺς καὶ οὐ μὴ εὕρῃ αὐτούς· καὶ ἐρεῖ· πορεύσομαι καὶ ἐπιστρέψω πρὸς τὸν ἄνδρα μου τὸν πρότερον, ὅτι καλῶς μοι ἦν τότε ἢ νῦν.",
+      "greek": true,
+      "translation": "„Și va alerga după iubiții ei și nicidecum nu-i va ajunge și îi va căuta și nicidecum nu-i va găsi; și va zice: Voi merge și mă voi întoarce la bărbatul meu cel dintâi, căci îmi era mai bine atunci decât acum.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Osea 5:13",
+     "Isaia 30:2,3,16",
+     "Ieremia 50:4,5",
+     "Ieremia 3:22-25",
+     "Luca 15:17-20",
+     "Ieremia 2:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Va alerga după” — „veriddefa” e una din formele intensive: îi va urmări și nu-i va ajunge. „Amanții ei” — Egiptul și Asiria, și nu vei putea cere ajutor de la ei. „Îi va căuta” — „uvikșatam” e o contopire a lui „uvikșa otam”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Va alerga” — deși va alerga după rânduielile cerurilor ca să le aducă tămâie, totuși nu le va ajunge ca să-i reverse bine. „Și va spune” — atunci va spune: mă voi încrede în Sfântul, binecuvântat fie El, căci de când îmi era încrederea în El îmi era mai bine decât acum."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Voi merge și mă voi întoarce la soțul meu dintâi” — aceasta nu o va spune până nu va suferi exilul vreme îndelungată, cum scrie în Tora: „în strâmtorarea ta, când te vor ajunge toate aceste lucruri, în zilele de pe urmă, te vei întoarce la DOMNUL, Dumnezeul tău”; căci dacă ar fi spus-o pe când era încă în țară, n-ar fi fost exilată."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Taśig” — cu sensul de apropiere [a ajunge]. „Iși” — soțul meu."
+     }
+    ]
+   },
+   {
+    "v": "2:10",
+    "t": "Dar ea nu știe că Eu sunt Cel care i-am dat grânele și vinul și untdelemnul, că am înmulțit pentru ea argintul și aurul, dar ei le-au folosit apoi pentru Baal.",
+    "heb": "וְהִיא לֹא יָדְעָה כִּי אָנֹכִי נָתַתִּי לָהּ הַדָּגָן וְהַתִּירוֹשׁ וְהַיִּצְהָר וְכֶסֶף הִרְבֵּיתִי לָהּ וְזָהָב עָשׂוּ לַבָּעַל׃",
+    "translit": "Vehi lo iada ki anohi natati la hadagan vehatiroș vehaițhar vehesef hirbeiti la vezahav asu la'Baal.",
+    "tokens": [
+     {
+      "t": "Dar ea nu știe că Eu sunt Cel care i-am dat grânele și vinul și untdelemnul, că am înmulțit pentru ea argintul și aurul, dar ei le-au folosit apoi pentru "
+     },
+     {
+      "t": "Baal",
+      "w": "Baal",
+      "heb": "לַבָּעַל",
+      "translit": "labaal",
+      "strong": "H1168",
+      "pos": "prepoziție + substantiv propriu cu articol",
+      "def_ro": "Baal, zeul canaanit al furtunii și al fertilității.",
+      "dict_ro": "Baal — „stăpân”, numele zeului canaanit al furtunii și ploii, deci al recoltei; ironia versetului e totală: Israel atribuia lui Baal grâul, mustul și untdelemnul pe care i le dăduse DOMNUL, apoi folosea chiar aurul primit de la El ca să-i facă idoli. Metzudat David trimite la Ieremia 10:4: „îl împodobesc cu argint și cu aur”. Cele trei produse — dagan, tiroș, ițhar — sunt triada binecuvântării agricole din Deuteronom (7:13; 11:14)."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהִיא לֹא יָדְעָה כִּי...",
+      "translation": "„Dar ea nu știe că Eu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ αὐτὴ οὐκ ἔγων ὅτι ἐγὼ ἔδωκα αὐτῇ τὸν σῖτον καὶ τὸν οἶνον καὶ τὸ ἔλαιον, καὶ ἀργύριον ἐπλήθυνα αὐτῇ· αὐτὴ δὲ ἀργυρᾶ καὶ χρυσᾶ ἐποίησε τῇ Βάαλ.",
+      "greek": true,
+      "translation": "„Și ea n-a cunoscut că Eu i-am dat grâul și vinul și untdelemnul și i-am înmulțit argintul; iar ea a făcut [chipuri] de argint și de aur pentru Baal.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 1:3",
+     "Faptele Apostolilor 17:23-25",
+     "Ieremia 7:18",
+     "Ezechiel 16:16-19",
+     "Daniel 5:3,4,23",
+     "Osea 8:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Dar ea nu știe” — nu și-a pus la inimă, ci s-a arătat ca neștiind. „I-am înmulțit argintul și aurul” — dar ei l-au făcut pentru Baal."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Dar ea nu știe” — de la început nu și-a pus la inimă să știe că Eu sunt Cel care îi dă grânele..., și totul este de la Mine, căci nimic nu stă în mâna rânduielii cerurilor. „Și argintul” — iată, argintul și aurul pe care i le-am înmulțit le-au folosit pentru Baal, care e un chip făcut pentru oștirea cerurilor, și îl împodobeau cu argint și aur, cum s-a spus: „îl împodobesc cu argint și cu aur” (Ieremia 10:4)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Dar ea nu știe” — căci căpeteniile și profeții mincinoși o rătăceau, iar tot binele pe care îl avea nu-l avea decât de la Mine, care trimiteam binecuvântarea Mea în grâne, must și untdelemn și în lucrul mâinilor lor, până au avut mult argint și aur; și s-a îngrășat Ieșurun și a zvârlit din picior, și au făcut argintul și aurul pentru baali."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vehatiroș” — așa se numesc strugurii de vin. „Vehaițhar” — este untdelemnul, ca în „mustul tău și untdelemnul tău” (Deuteronom 11:14)."
+     }
+    ]
+   },
+   {
+    "v": "2:11",
+    "t": "De aceea, Mă voi întoarce și voi lua înapoi grânele Mele la vremea lor și vinul Meu la sorocul lui, și Îmi voi recupera lâna și inul care îi acopereau goliciunea.",
+    "heb": "לָכֵן אָשׁוּב וְלָקַחְתִּי דְגָנִי בְּעִתּוֹ וְתִירוֹשִׁי בְּמוֹעֲדוֹ וְהִצַּלְתִּי צַמְרִי וּפִשְׁתִּי לְכַסּוֹת אֶת־עֶרְוָתָהּ׃",
+    "translit": "Lachen așuv velakahti degani beito vetiroși bemoado vehițalti țamri ufiști lehasot et-ervata.",
+    "tokens": [
+     {
+      "t": "De aceea, Mă voi întoarce și voi lua înapoi grânele Mele la vremea lor și vinul Meu la sorocul lui, și Îmi voi recupera "
+     },
+     {
+      "t": "lâna și inul",
+      "w": "lâna și inul",
+      "heb": "צַמְרִי וּפִשְׁתִּי",
+      "translit": "țamri ufiști",
+      "strong": "H6785",
+      "pos": "substantiv + sufix persoana I + conjuncție + substantiv + sufix",
+      "def_ro": "lâna Mea și inul Meu.",
+      "dict_ro": "Țemer ufișteh — lâna și inul, materialele de bază ale îmbrăcămintei; sufixul „Mea” e decisiv: ceea ce femeia numea „lâna mea și inul meu” (2:7), Dumnezeu le revendică drept ale Lui. Rashi explică verbul „voi recupera” (hițalti): în Scriptură, rădăcina hițil înseamnă despărțire și luare deoparte, ca în „Dumnezeu a luat (vayațel) turmele tatălui vostru” (Geneza 31:9). Radak descrie concret: blestemul va lovi recolta la vremea secerișului și a culesului, încât nu vor avea pâine de mâncat, nici haine de îmbrăcat."
+     },
+     {
+      "t": " care îi acopereau goliciunea."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן אָשׁוּב וְלָקַחְתִּי דְגָנִי...",
+      "translation": "„De aceea, Mă voi întoarce și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "διὰ τοῦτο ἐπιστρέψω καὶ κομιοῦμαι τὸν σῖτόν μου καθ᾿ ὥραν αὐτοῦ καὶ τὸν οἶνόν μου ἐν καιρῷ αὐτοῦ καὶ ἀφελοῦμαι τὰ ἱμάτιά μου καὶ τὰ ὀθόνιά μου τοῦ μὴ καλύπτειν τὴν ἀσχημοσύνην αὐτῆς.",
+      "greek": true,
+      "translation": "„De aceea Mă voi întoarce și voi lua grâul Meu la vremea lui și vinul Meu la sorocul lui și voi lua hainele Mele și pânzeturile Mele, ca să nu-i acopere goliciunea.”",
+      "note": "Septuaginta redă din nou „lâna și inul” prin „hainele și pânzeturile”."
+     }
+    ],
+    "refs": [
+     "Isaia 17:10,11",
+     "Isaia 3:18-26",
+     "Ezechiel 16:27,39",
+     "Țefania 1:13",
+     "Hagai 1:6-11",
+     "Hagai 2:16,17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „La vremea lor” — la vremea când recolta își încheie coacerea. „Și voi recupera” — de la ea. „Lâna Mea și inul Meu” — care trebuiau să-i acopere goliciunea. Orice expresie „hațala” din Scriptură e o expresie de despărțire și de punere deoparte, ca în „Dumnezeu a luat turmele tatălui vostru” (Geneza 31:9)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De aceea” — de vreme ce așa a făcut, Mă voi întoarce să iau grâul pe care i l-am dat. „La vremea lor” — la vremea încheierii coacerii le voi lua prin grindină, lăcuste și altele asemenea. „Voi recupera” — voi îndepărta de la ea lâna și inul pe care i le-am dat ca să-și acopere goliciunea, căci oile vor muri și nu va avea lână, iar inul va fi lovit, și nu va avea haină de îmbrăcat."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „De aceea Mă voi întoarce” — ca să știe că de la Mine îi venea binele: voi trimite blestem în recoltă și în cules, opusul binecuvântării pe care o trimiteam, și tot așa în tot lucrul mâinilor lor; cel ce câștigă va câștiga într-o pungă spartă, și nu vor avea pâine de mâncat, nici haine de îmbrăcat."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Bemoado” — la vremea lui. „Vehițalti” — cu sensul de despărțire, ca în „n-ai păstrat (ațalta) pentru mine o binecuvântare?” (Geneza 27:36). „Ervata” — dezvelirea trupului."
+     }
+    ]
+   },
+   {
+    "v": "2:12",
+    "t": "Și apoi, îi voi dezvălui decăderea în ochii amanților ei și niciun om n-o va salva din mâna Mea.",
+    "heb": "וְעַתָּה אֲגַלֶּה אֶת־נַבְלֻתָהּ לְעֵינֵי מְאַהֲבֶיהָ וְאִישׁ לֹא־יַצִּילֶנָּה מִיָּדִי׃",
+    "translit": "Veata agale et-navluta leeinei meahaveha veiș lo-iațilena miiadi.",
+    "tokens": [
+     {
+      "t": "Și apoi, îi voi dezvălui "
+     },
+     {
+      "t": "decăderea",
+      "w": "decăderea",
+      "heb": "נַבְלֻתָהּ",
+      "translit": "navluta",
+      "strong": "H5040",
+      "pos": "substantiv, feminin singular + sufix persoana a III-a feminin",
+      "def_ro": "rușinea, nemernicia ei.",
+      "dict_ro": "Navlut — cuvânt unic în Biblie, de la naval, „nebun, nemernic, de nimic”: goliciunea rușinoasă, decăderea expusă. Metzudat Țion îl explică „un lucru urât și rușinos”, ca în Naum 3:6. Rashi citește încheierea „niciun om n-o va salva din mâna Mea” ca pe o afirmație teologică gravă: chiar și meritul patriarhilor s-a epuizat — în Talmud (Șabat 55a), Rav fixează chiar la acest verset momentul în care meritul patriarhilor a încetat."
+     },
+     {
+      "t": " în ochii amanților ei și niciun om n-o va salva din mâna Mea."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה אֲגַלֶּה אֶת־נַבְלֻתָהּ לְעֵינֵי...",
+      "translation": "„Și apoi, îi voi dezvălui decăderea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν ἀποκαλύψω τὴν ἀκαθαρσίαν αὐτῆς ἐνώπιον τῶν ἐραστῶν αὐτῆς, καὶ οὐδεὶς οὐ μὴ ἐξέληται αὐτὴν ἐκ χειρός μου.",
+      "greek": true,
+      "translation": "„Și acum voi descoperi necurăția ei înaintea iubiților ei, și nimeni nicidecum n-o va scoate din mâna Mea.”",
+      "note": "Septuaginta redă „decăderea” (navlut) prin „necurăția” (ἀκαθαρσίαν)."
+     }
+    ],
+    "refs": [
+     "Isaia 3:17",
+     "Ieremia 13:22,26",
+     "Ezechiel 16:36",
+     "Luca 12:2,3",
+     "Psalmul 50:22",
+     "Mica 5:8"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și niciun om n-o va salva din mâna Mea” — chiar și meritul patriarhilor s-a epuizat."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și apoi” — când îi voi lua lâna și inul, îi voi dezveli urâțenia goliciunii în ochii rânduielii cerurilor, și nimeni n-o va salva din mâna Mea; adică nimeni nu-i va putea revărsa vreun bine fără voia Mea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Voi dezvălui decăderea” — urâțenia și faptele ei rele vor fi descoperite când Îmi voi ascunde fața de ea. „În ochii amanților ei” — ca să n-o salveze. „Și niciun om n-o va salva din mâna Mea” — niciun om dintre toți amanții ei; iar în midraș: s-a epuizat chiar meritul patriarhilor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Navluta” — sensul lui e un lucru urât și rușinos, ca în „voi arunca asupra ta urâciuni și te voi face de rușine (nibaltih)” (Naum 3:6)."
+     },
+     {
+      "author": "Talmud Bavli, Șabat 55a",
+      "text": "De când a încetat meritul patriarhilor? Rav a spus: din zilele profetului Osea, fiul lui Beeri, precum s-a spus: „Și acum voi dezvălui decăderea ei în ochii amanților ei, și niciun om n-o va salva din mâna Mea” (Osea 2:12). Șmuel a spus: din zilele lui Hazael, regele Aramului (2 Regi 13:22-23)."
+     }
+    ]
+   },
+   {
+    "v": "2:13",
+    "t": "Voi pune capăt tuturor prilejurilor ei de veselie, sărbătorilor ei, [Lunilor] ei Noi și Șabaturilor ei, și tuturor soroacelor ei.",
+    "heb": "וְהִשְׁבַּתִּי כָּל־מְשׂוֹשָׂהּ חַגָּהּ חָדְשָׁהּ וְשַׁבַּתָּהּ וְכֹל מוֹעֲדָהּ׃",
+    "translit": "Vehișbati kol-mesosa haga hodșa veșabata vehol moada.",
+    "tokens": [
+     {
+      "t": "Voi pune capăt tuturor prilejurilor ei de veselie, sărbătorilor ei, [Lunilor] ei Noi și "
+     },
+     {
+      "t": "Șabaturilor ei",
+      "w": "Șabaturilor ei",
+      "heb": "שַׁבַּתָּהּ",
+      "translit": "șabata",
+      "strong": "H7676",
+      "pos": "substantiv, feminin singular + sufix persoana a III-a feminin",
+      "def_ro": "Sabatul ei.",
+      "dict_ro": "Șabat — ziua de odihnă. Versetul enumeră tot calendarul de bucurie al Israelului: sărbătorile de pelerinaj, lunile noi, Sabatele și soroacele (Metzudat David: Roș Hașana, Yom Kipur și Șemini Ațeret). Radak explică de ce vor înceta: în mijlocul necazului nu mai e nici lună nouă, nici Sabat — zilele care aveau jertfe suplimentare erau zile de bucurie, iar acum nu vor mai avea bucurie în ele. Sufixul „ale ei”, nu „ale Mele”, spune că sărbătorile deveniseră ale poporului, golite de Dumnezeu (compară Isaia 1:14)."
+     },
+     {
+      "t": ", și tuturor soroacelor ei."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהִשְׁבַּתִּי כָּל־מְשׂוֹשָׂהּ חַגָּהּ חָדְשָׁהּ...",
+      "translation": "„Voi pune capăt tuturor prilejurilor ei...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀποστρέψω πάσας τὰς εὐφροσύνας αὐτῆς, ἑορτὰς αὐτῆς καὶ τὰς νουμηνίας αὐτῆς καὶ τὰ σάββατα αὐτῆς καὶ πάσας τὰς πανηγύρεις αὐτῆς.",
+      "greek": true,
+      "translation": "„Și voi face să înceteze toate veseliile ei, sărbătorile ei și lunile ei noi și Sabatele ei și toate adunările ei de praznic.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Osea 9:1-5",
+     "Isaia 24:7-11",
+     "Ieremia 7:34",
+     "Ieremia 16:9",
+     "Isaia 1:13,14",
+     "Amos 8:3,5,9,10"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Voi pune capăt” — voi desființa toată bucuria ei: bucuria sărbătorii, a lunii noi și a Sabatului ei. „Și tuturor soroacelor ei” — acestea sunt Roș Hașana, Yom Kipur și Șemini Ațeret."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Voi pune capăt” — căci în necaz nu e nici lună nouă, nici Sabat; lunile noi și Sabatele, în care era jertfa suplimentară, erau zile de bucurie, și tot așa sărbătorile și soroacele, care erau zile de odihnă și bucurie — nu vor mai avea bucurie în ele din pricina mulțimii necazurilor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vehișbati” — cu sensul de desființare. „Mesosa” — bucuria ei."
+     }
+    ]
+   },
+   {
+    "v": "2:14",
+    "t": "Îi voi pustii via și smochinul despre care spunea: „Ele sunt plata pe care amanții mei mi-au dat-o”. Voi face din ei un hățiș și fiarele câmpului le vor devora.",
+    "heb": "וַהֲשִׁמֹּתִי גַּפְנָהּ וּתְאֵנָתָהּ אֲשֶׁר אָמְרָה אֶתְנָה הֵמָּה לִי אֲשֶׁר נָתְנוּ־לִי מְאַהֲבָי וְשַׂמְתִּים לְיַעַר וַאֲכָלָתַם חַיַּת הַשָּׂדֶה׃",
+    "translit": "Vahașimoti gafna uteenata așer amra etna hema li așer natnu-li meahavai vesamtim leiaar vaahalatam haiat hasade.",
+    "tokens": [
+     {
+      "t": "Îi voi pustii via și smochinul despre care spunea: „Ele sunt "
+     },
+     {
+      "t": "plata",
+      "w": "plata",
+      "heb": "אֶתְנָה",
+      "translit": "etna",
+      "strong": "H866",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "plata (unei desfrânate).",
+      "dict_ro": "Etna — formă rară pentru etnan, „plata desfrânatei” (Deuteronom 23:19); Metzudat Țion face legătura. Femeia numește via și smochinul „plata” primită de la amanți, adică roadele pe care Israel le atribuia idolilor sau alianțelor. Radak explică de ce sunt pomenite tocmai via și smochinul: strugurii și smochinele sunt cele mai alese mâncări ale omului după grâne, iar pustiirea lor va arăta de la cine venea, de fapt, belșugul."
+     },
+     {
+      "t": " pe care amanții mei mi-au dat-o”. Voi face din ei un hățiș și fiarele câmpului le vor devora."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַהֲשִׁמֹּתִי גַּפְנָהּ וּתְאֵנָתָהּ אֲשֶׁר...",
+      "translation": "„Îi voi pustii via și smochinul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀφανιῶ ἄμπελον αὐτῆς καὶ τάς συκᾶς αὐτῆς, ὅσα εἶπε· μισθώματά μου ταῦτά ἐστιν ἃ ἔδωκάν μοι οἱ ἐρασταί μου, καὶ θήσομαι αὐτὰ εἰς μαρτύριον, καὶ καταφάγεται αὐτὰ τὰ θηρία τοῦ ἀγροῦ, καὶ τὰ πετεινὰ τοῦ οὐρανοῦ καὶ τὰ ἑρπετὰ τῆς γῆς.",
+      "greek": true,
+      "translation": "„Și voi pustii via ei și smochinii ei, despre care a zis: «Acestea sunt plățile mele pe care mi le-au dat iubiții mei»; și le voi face spre mărturie, și le vor mânca fiarele câmpului și păsările cerului și târâtoarele pământului.”",
+      "note": "Divergență reală: Septuaginta are „le voi face spre mărturie” (εἰς μαρτύριον — citind ed în loc de yaar, „pădure”) și adaugă „păsările cerului și târâtoarele pământului”."
+     }
+    ],
+    "refs": [
+     "Osea 9:1",
+     "Psalmul 80:12",
+     "Isaia 5:5",
+     "Isaia 7:23",
+     "Isaia 32:13-15",
+     "Mica 3:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Voi pustii” — o expresie de pustiire. „Plata” — ca „etnan”. „Și voi face din ele un hățiș” — unde umblă fiarele și mănâncă rodul."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Îi voi pustii” — voi face pustiu locul viilor și al smochinilor. „Plata” — pentru că a asemănat-o cu o desfrânată, a spus „plată”, adică ea spunea că i-au venit din revărsarea rânduielii cerurilor. „Voi face din ei un hățiș” — voi face livezile loc fără stăpân, ca pădurea, iar fiarele câmpului vor mânca roadele; adică dușmanul va lua totul."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: pentru că spunea că grâul, mustul, untdelemnul și tot binele erau din mâna amanților ei, îi voi pustii via și smochinul, și va ști dacă binele acela îi venea de la Mine sau de la ei. Iar a pomenit via și smochinul pentru că strugurii și smochinele sunt cea mai bună mâncare a omului după grâne, iar grâul îl pomenise deja."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vahașimoti” — din „pustiire”. „Etna” — din „etnan”; așa se numește darul dat desfrânatei, ca în „plata unei desfrânate” (Deuteronom 23:19)."
+     }
+    ]
+   },
+   {
+    "v": "2:15",
+    "t": "Voi reaminti asupra ei ziua idolilor lui Baal, când le ardea ofrandă de mirodenii și când se gătea cu cerceii ei și bijuteriile ei și se ducea după amanții ei, iar pe Mine mă uita – rostirea DOMNULUI.",
+    "heb": "וּפָקַדְתִּי עָלֶיהָ אֶת־יְמֵי הַבְּעָלִים אֲשֶׁר תַּקְטִיר לָהֶם וַתַּעַד נִזְמָהּ וְחֶלְיָתָהּ וַתֵּלֶךְ אַחֲרֵי מְאַהֲבֶיהָ וְאֹתִי שָׁכְחָה נְאֻם־יְהוָה׃",
+    "translit": "Ufakađeti aleha et-iemei habealim așer taktir lahem vataad nizma veheliata vateleh aharei meahaveha veoti șaheha neum-ADONAI.",
+    "tokens": [
+     {
+      "t": "Voi reaminti asupra ei ziua idolilor lui Baal, când le ardea ofrandă de mirodenii și când se gătea cu "
+     },
+     {
+      "t": "cerceii ei",
+      "w": "cerceii ei",
+      "heb": "נִזְמָהּ",
+      "translit": "nizma",
+      "strong": "H5141",
+      "pos": "substantiv, masculin singular + sufix persoana a III-a feminin",
+      "def_ro": "cercelul ei (inel de nas sau de ureche).",
+      "dict_ro": "Nezem — inelul de nas sau cercelul, podoaba femeiască pe care Eliezer i-o dă Rebecăi (Geneza 24:47) și din care Israel făcuse vițelul de aur (Exod 32:2). Imaginea femeii care se gătește ca să iasă în întâmpinarea amanților descrie, după Rashi și Metzudat David, gătirea desfrânatei; „iar pe Mine Mă uita” e cea mai grea acuzație a versetului, încheiată solemn cu „rostirea DOMNULUI”."
+     },
+     {
+      "t": " și bijuteriile ei și se ducea după amanții ei, iar pe Mine mă uita – rostirea DOMNULUI."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּפָקַדְתִּי עָלֶיהָ אֶת־יְמֵי הַבְּעָלִים...",
+      "translation": "„Voi reaminti asupra ei ziua idolilor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐκδικήσω ἐπ᾿ αὐτὴν τὰς ἡμέρας τῶν Βααλείμ, ἐν αἷς ἐπέθυεν αὐτοῖς καὶ περιετίθετο τὰ ἐνώτια αὐτῆς καὶ τὰ καθόρμια αὐτῆς καὶ ἐπορεύετο ὀπίσω τῶν ἐραστῶν αὐτῆς, ἐμοῦ δὲ ἐπελάθετο, λέγει Κύριος.",
+      "greek": true,
+      "translation": "„Și voi pedepsi asupra ei zilele Baalilor, în care le jertfea și își punea cerceii ei și salbele ei și mergea după iubiții ei, iar pe Mine M-a uitat, zice Domnul.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Osea 9:7,9",
+     "Exod 32:34",
+     "Judecători 2:11-13",
+     "1 Regi 18:18-40",
+     "Ezechiel 23:40-42",
+     "Ieremia 2:32"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și voi reaminti asupra ei” — pedeapsa pentru... „zilele baalilor” — cărora le ardea tămâie necontenit; este un prezent. „Și se gătea cu cerceii ei și bijuteriile ei” — „vataad” e o expresie de podoabă, ca o desfrânată care se împodobește ca să-și întâmpine iubiții."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Voi reaminti asupra ei” — voi pomeni asupra ei zilele în care a ars tămâie baalilor, ca să plătesc răsplata după mulțimea zilelor. „Și se gătea” — și faptul că s-a împodobit cu podoabele ei și a mers după iubiții ei, adică faptul că a slujit și a ars tămâie rânduielilor cerești; și pentru că a asemănat-o cu o desfrânată, a spus ce se potrivește unei desfrânate. „Iar pe Mine Mă uita” — nu și-a pus la inimă să Mă slujească."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Voi reaminti asupra ei” — pentru păcatele nelegiuirii lor în exil, voi pomeni vremea când a slujit baalilor și voi lungi exilul, ca pedeapsă pentru că au părăsit slujirea Mea și au slujit altor dumnezei; și aceasta chiar asupra urmașilor lor, deși ei nu vor sluji idolilor în exil, pentru că nu vor fi desăvârșiți în slujirea lui Dumnezeu, și de aceea li se adaugă vina părinților, cum s-a spus: „își vor mărturisi nelegiuirea lor și nelegiuirea părinților lor” (Levitic 26:40)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ufakadti” — din „amintire”. „Vataad” — din „podoabă”, ca în „te-ai împodobit cu podoabe” (Ezechiel 23:40). „Nizma” — numele unei podoabe, ca în „cercel de aur” (Proverbe 25:12)."
+     }
+    ]
+   },
+   {
+    "v": "2:16",
+    "t": "De aceea, iată, o voi ademeni și o voi conduce în deșert și voi vorbi inimii ei.",
+    "heb": "לָכֵן הִנֵּה אָנֹכִי מְפַתֶּיהָ וְהֹלַכְתִּיהָ הַמִּדְבָּר וְדִבַּרְתִּי עַל־לִבָּהּ׃",
+    "translit": "Lachen hine anohi mefateha veholahtiha hamidbar vedibarti al liba.",
+    "tokens": [
+     {
+      "t": "De aceea, iată, "
+     },
+     {
+      "t": "o voi ademeni",
+      "w": "o voi ademeni",
+      "heb": "מְפַתֶּיהָ",
+      "translit": "mefateha",
+      "strong": "H6601",
+      "pos": "verb, piel, participiu, masculin singular + sufix persoana a III-a feminin",
+      "def_ro": "o voi convinge, o voi atrage cu vorbe bune.",
+      "dict_ro": "Pita — „a ademeni, a convinge”; e verbul curtării. Punctul de cotitură al haftarei: după pedepse, Dumnezeu nu mai amenință, ci o „ademenește” pe soția necredincioasă și o duce în pustie ca să „vorbească inimii ei” — expresia folosită pentru Sihem față de Dina (Geneza 34:3) și pentru levitul din Judecători 19:3. Rashi interpretează pustia ca exilul, unde Israel își va pune la inimă că îi era mai bine când făcea voia lui Dumnezeu; Metzudat David: bărbatul își duce soția în pustie, unde nu aude nimeni, și o împacă acolo cu vorbe bune — legătura directă cu pericopa Bamidbar, „în pustie”."
+     },
+     {
+      "t": " și o voi conduce în deșert și voi vorbi inimii ei."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן הִנֵּה אָנֹכִי מְפַתֶּיהָ...",
+      "translation": "„De aceea, iată, o voi ademeni...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Διὰ τοῦτο ἰδοὺ ἐγὼ πλανῶ αὐτὴν καὶ τάξω αὐτὴν ὡς ἔρημον καὶ λαλήσω ἐπὶ τὴν καρδίαν αὐτῆς",
+      "greek": true,
+      "translation": "„De aceea, iată, Eu o voi amăgi și o voi rândui ca pe o pustie și voi vorbi inimii ei.”",
+      "note": "Divergență reală: Septuaginta are „o voi rândui ca pe o pustie” (τάξω αὐτὴν ὡς ἔρημον), acolo unde Textul Masoretic are „o voi conduce în pustie”."
+     }
+    ],
+    "refs": [
+     "Isaia 30:18",
+     "Cântarea Cântărilor 1:4",
+     "Ioan 6:44",
+     "Ezechiel 20:10,35,36",
+     "Apocalipsa 12:6,14",
+     "Isaia 40:1,2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „De aceea, iată, o voi ademeni” — o voi convinge să fie atrasă după Mine. Și care e ademenirea? „O voi conduce în deșert” — în exil, care îi este ca un deșert și o pustietate; și acolo își va pune la inimă că îi era mai bine când făcea voia Mea decât când s-a răzvrătit împotriva Mea."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De aceea” — pentru că M-a uitat, o voi ademeni și o voi duce în pustie, în locul unde nu sunt oameni, și acolo voi vorbi inimii ei cuvinte de împăcare; și pentru că a asemănat-o cu o femeie care a fost necredincioasă soțului ei, a spus ce se potrivește unei asemenea femei: soțul o ademenește să meargă după el în pustie, unde nu sunt oameni, ca să nu audă nimeni ce vorbesc, și acolo o împacă cu vorbe bune, ca să-și părăsească calea; adică Cel Omniprezent le va trezi inima să se întoarcă la slujirea Lui."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „O voi ademeni” — voi pune în inima ei să se întoarcă prin pocăință cât este încă în exil; și aceasta seamănă cu ademenirea, căci cel ce își ademenește semenul îl mută de la o părere la alta; tot așa Sfântul, binecuvântat fie El, îl mută pe Israel de la părerea în care era în exil, de a alerga după poftă, și îi pune în inimă să părăsească răul și să ia binele. „O voi conduce în deșert” — este ce a spus Ezechiel: „vă voi duce în pustia popoarelor și Mă voi judeca acolo cu voi față în față” (Ezechiel 20:35)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mefateha” — din „ademenire și convingere”."
+     }
+    ]
+   },
+   {
+    "v": "2:17",
+    "t": "Îi voi da viile de acolo, iar valea pustie va fi o poartă a speranței. Și ea va striga acolo ca în zilele tinereții ei și ca în ziua când a urcat din țara Egiptului.",
+    "heb": "וְנָתַתִּי לָהּ אֶת־כְּרָמֶיהָ מִשָּׁם וְאֶת־עֵמֶק עָכוֹר לְפֶתַח תִּקְוָה וְעָנְתָה שָּׁמָּה כִּימֵי נְעוּרֶיהָ וּכְיוֹם עֲלֹתָהּ מֵאֶרֶץ־מִצְרָיִם׃",
+    "translit": "Venatati la et-kerameha mișam veet-emek ahor lefetah tikva veanta șama kimei neureha vihiom alota meereț-Mițraim.",
+    "tokens": [
+     {
+      "t": "Îi voi da viile de acolo, iar valea pustie va fi "
+     },
+     {
+      "t": "o poartă a speranței",
+      "w": "o poartă a speranței",
+      "heb": "פֶתַח תִּקְוָה",
+      "translit": "petah tikva",
+      "strong": "H8615",
+      "pos": "substantiv, în construcție + substantiv, feminin singular",
+      "def_ro": "ușă a nădejdii.",
+      "dict_ro": "Petah tikva — „poarta nădejdii”, numele pe care l-a primit în 1878 orașul fondat de coloniștii evrei lângă Iaffa. Emek Ahor, „Valea Tulburării”, e locul unde Acan a fost pedepsit pentru că luase din prada de la Ierihon, la prima intrare în Țară (Iosua 7:24-26); Radak explică: la noua intrare, locul primului eșec va deveni început de nădejde. Metzudat Țion leagă „va răspunde” (anta) de cântarea Miriamei (Exod 15:21), de unde traducerea „va striga [în cântare]” și comparația cu ziua ieșirii din Egipt."
+     },
+     {
+      "t": ". Și ea va striga acolo ca în zilele tinereții ei și ca în ziua când a urcat din țara Egiptului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְנָתַתִּי לָהּ אֶת־כְּרָמֶיהָ מִשָּׁם...",
+      "translation": "„Îi voi da viile de acolo...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ δώσω αὐτῇ τὰ κτήματα αὐτῆς ἐκεῖθεν καὶ τὴν κοιλάδα ᾿Αχὼρ διανοῖξαι σύνεσιν αὐτῆς, καὶ ταπεινωθήσεται ἐκεῖ κατὰ τὰς ἡμέρας νηπιότητος αὐτῆς καὶ κατὰ τὰς ἡμέρας ἀναβάσεως αὐτῆς ἐκ γῆς Αἰγύπτου.",
+      "greek": true,
+      "translation": "„Și îi voi da stăpânirile ei de acolo, și valea lui Ahor, ca să-i deschidă priceperea; și va fi smerită acolo ca în zilele tinereții ei și ca în zilele suirii ei din țara Egiptului.”",
+      "note": "Divergență reală: Septuaginta are „ca să-i deschidă priceperea” (διανοῖξαι σύνεσιν) în loc de „poartă a speranței” și „va fi smerită” (ταπεινωθήσεται — citind ana ca „a umili”) în loc de „va striga/va cânta”."
+     }
+    ],
+    "refs": [
+     "Levitic 26:40-45",
+     "Ieremia 32:15",
+     "Iosua 7:26",
+     "Isaia 65:10",
+     "Zaharia 9:12",
+     "Exod 15:1-21"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Viile ei” — Ionatan a tradus aceasta ca o expresie de căpetenii și conducători... O altă explicație: „o voi conduce în deșert” — în pustia lui Sihon și Og."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De acolo” — din mersul acesta în pustie, din iubirea care vine acolo, adică din trezirea inimii, se va întoarce la Mine, și îi voi da înapoi viile ei. „Și valea pustie” — văile care fuseseră tulburate și distruse în vremea exilului vor deveni o poartă a speranței, adică vor fi dorite ca o poartă plăcută prin care oamenii nădăjduiesc să intre. „Și ea va striga acolo” — va înălța în vii glas de cântare, cum a cântat în zilele tinereții ei, adică înainte de a fi exilată. „Și ca în ziua când a urcat” — și cum a cântat în ziua în care a ieșit din țara Egiptului, când au cântat cu bucuria inimii cântarea de la mare."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și valea Ahor, poartă a speranței” — pentru că la începutul intrării lor în Țară, în zilele lui Iosua, i s-a întâmplat nelegiuirea aceasta, adică fapta lui Acan, le-a făgăduit să nu se teamă când vor intra în Țară și să nu li se întâmple [iarăși una ca aceea]."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ahor” — cu sensul de distrugere, ca în „valea Ahor” (Isaia 65:10). „Veanta” — sensul lui e înălțarea glasului de cântare, ca în „și Miriam le răspundea [cântând]” (Exod 15:21)."
+     }
+    ]
+   },
+   {
+    "v": "2:18",
+    "t": "Și va fi în ziua aceea – rostirea DOMNULUI – că [Mă] vei chema „Soțul meu” și nu Mă vei mai chema „Stăpânul meu”.",
+    "heb": "וְהָיָה בַיּוֹם־הַהוּא נְאֻם־יְהוָה תִּקְרְאִי אִישִׁי וְלֹא־תִקְרְאִי־לִי עוֹד בַּעְלִי׃",
+    "translit": "Vehaia vaiom-hahu neum-ADONAI tikrei iși velo-tikrei-li od bali.",
+    "tokens": [
+     {
+      "t": "Și va fi în ziua aceea – rostirea DOMNULUI – că [Mă] vei chema „"
+     },
+     {
+      "t": "Soțul meu",
+      "w": "Soțul meu",
+      "heb": "אִישִׁי",
+      "translit": "Iși",
+      "strong": "H376",
+      "pos": "substantiv + sufix persoana I",
+      "def_ro": "bărbatul meu (termen de iubire).",
+      "dict_ro": "Iși și Baali — ambele înseamnă „soțul meu”, dar cu tonuri diferite: iș e bărbatul, partenerul, iar baal e stăpânul, proprietarul — și, totodată, numele idolului. Rashi explică: „Iși” e expresia căsătoriei și a iubirii din tinerețe, „Baali” e expresia stăpânirii și a fricii; Israel Îl va sluji din iubire, nu din teamă. Talmudul (Pesahim 87a), citat de Rashi și Radak: „ca o mireasă în casa socrului, nu ca o mireasă [logodită] încă în casa tatălui ei”."
+     },
+     {
+      "t": "” și nu Mă vei mai chema „Stăpânul meu”."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה בַיּוֹם־הַהוּא נְאֻם־יְהוָה תִּקְרְאִי...",
+      "translation": "„Și va fi în ziua aceea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγει Κύριος, καλέσει με· ὁ ἀνήρ μου, καὶ οὐ καλέσει με ἔτι Βααλείμ·",
+      "greek": true,
+      "translation": "„Și va fi în ziua aceea, zice Domnul, Mă va numi «Bărbatul meu» și nu Mă va mai numi «Baalim».”",
+      "note": "Septuaginta transliterează „Baali” ca plural „Baalim”, pierzând jocul de cuvinte „stăpânul meu” / numele idolului."
+     }
+    ],
+    "refs": [
+     "Isaia 54:5",
+     "Ieremia 3:14",
+     "Ioan 3:29",
+     "2 Corinteni 11:2",
+     "Efeseni 5:25-27",
+     "Apocalipsa 19:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Mă vei chema Iși” — Mă vei sluji din iubire, nu din frică; Iși e o expresie a căsătoriei și a iubirii tinereții. „Baali” — o expresie de stăpânire și de frică. Iar înțelepții noștri (Pesahim 87a; Ketubot 71b) au explicat: ca o mireasă în casa socrului ei, și nu ca o mireasă în casa tatălui ei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Mă vei chema «Soțul meu»” — Mă vei chema cu numele de „iș”, nu cu numele de „baal”; și aceasta pentru că numele „baal” e comun cu numele idolatriei (un chip făcut pentru oștirea cerurilor), de aceea numele acesta nu se va mai auzi din gura ei."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Mă vei chema Iși” — adică Mă vei numi „iș”, căci soțul femeii se numește „iș”, ca în „Elcana, soțul ei”; iar adunarea lui Israel e asemănată cu o femeie măritată. „Baal” e un nume comun, căci numeau idolii „baal”; de aceea a spus „nu Mă vei mai chema Baali”, ca să îndepărteze numele baalilor din gura ei. Iar înțelepții noștri au explicat: ca o mireasă în casa socrului, nu ca o mireasă în casa tatălui."
+     },
+     {
+      "author": "Talmud Bavli, Pesahim 87a",
+      "text": "„Și va fi în ziua aceea, zice DOMNUL, că Mă vei chema «Soțul meu» și nu Mă vei mai chema «Stăpânul meu»” (Osea 2:18) — Rabi Iohanan a spus: va fi ca o mireasă în casa socrului ei, unde trăiește în apropiere deplină de soțul ei, și nu ca o mireasă aflată încă în perioada logodnei, în casa tatălui ei, când legătura cu soțul ei nu s-a împlinit."
+     }
+    ]
+   },
+   {
+    "v": "2:19",
+    "t": "Voi îndepărta numele idolilor lui Baal din gura ei și ei nu vor mai fi amintiți pe nume.",
+    "heb": "וַהֲסִרֹתִי אֶת־שְׁמוֹת הַבְּעָלִים מִפִּיהָ וְלֹא־יִזָּכְרוּ עוֹד בִּשְׁמָם׃",
+    "translit": "Vahasiroti et-șemot habealim mipiha velo-izaheru od bișmam.",
+    "tokens": [
+     {
+      "t": "Voi îndepărta numele "
+     },
+     {
+      "t": "idolilor lui Baal",
+      "w": "idolilor lui Baal",
+      "heb": "הַבְּעָלִים",
+      "translit": "habealim",
+      "strong": "H1168",
+      "pos": "substantiv, masculin plural, cu articol",
+      "def_ro": "baalii, idolii numiți Baal.",
+      "dict_ro": "Bealim — pluralul lui Baal, desemnând multele chipuri și forme locale ale acestui zeu. Rashi dă trei lecturi ale încheierii „nu vor mai fi amintiți pe nume”: Israel nu va mai fi numit după baali; sau baalii nu vor mai fi pomeniți ca dumnezei ai lui Israel; sau numele lor nu va mai fi pomenit deloc, cum spune Isaia 2:18: „idolii vor pieri cu totul”. Radak, după Rav Saadia, extinde făgăduința la toate neamurile, ca în Țefania 3:9."
+     },
+     {
+      "t": " din gura ei și ei nu vor mai fi amintiți pe nume."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַהֲסִרֹתִי אֶת־שְׁמוֹת הַבְּעָלִים מִפִּיהָ...",
+      "translation": "„Voi îndepărta numele idolilor lui Baal...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐξαρῶ τὰ ὀνόματα τῶν Βααλεὶμ ἐκ στόματος αὐτῆς καὶ οὐ μὴ μνησθῶσιν οὐκ ἔτι τὰ ὀνόματα αὐτῶν.",
+      "greek": true,
+      "translation": "„Și voi stârpi numele Baalilor din gura ei și nicidecum nu se vor mai pomeni numele lor.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 23:13",
+     "Iosua 23:7",
+     "Psalmul 16:4",
+     "Zaharia 13:2",
+     "Ieremia 10:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și nu vor mai fi amintiți” — adică Israel nu va mai fi pomenit cu numele baalilor; sau: baalii nu vor mai fi pomeniți cu numele lui Israel, spunându-se că sunt dumnezeii lor; sau: numele baalilor nu va mai fi pomenit, precum s-a spus: „și idolii vor pieri cu totul” (Isaia 2:18)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Voi îndepărta” — adică voi pune în inima lor să îndepărteze din gura ei numele baalilor, chiar fără intenția de a se referi la chipul idolatru. „Și nu vor mai fi amintiți” — baalii nu vor mai fi pomeniți cu numele cu care îi numeau, ci doar cu nume de ocară."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: sensul lui „voi îndepărta” este că Dumnezeu, binecuvântat fie, va uni inima lui Israel să se teamă doar de numele Lui și îi va ajuta în aceasta, pe calea celor spuse de înțelepți: „cine vine să se curățească este ajutat”. Iar Rav Saadia a explicat: „din gura ei” — din gura lui Israel; „și nu vor mai fi amintiți pe nume” — în gura neamurilor lumii, căci și neamurile nu vor mai sluji idolilor în vremea aceea, cum s-a spus: „atunci voi da popoarelor buze curate, ca toți să cheme numele DOMNULUI” (Țefania 3:9)."
+     }
+    ]
+   },
+   {
+    "v": "2:20",
+    "t": "Și le voi pecetlui un legământ în ziua aceea, cu fiara câmpului și cu pasărea cerului și cu târâtoarea pământului: arcul, și sabia, și războiul le voi nimici din țară, și le voi da voie să doarmă în ea în siguranță.",
+    "heb": "וְכָרַתִּי לָהֶם בְּרִית בַּיּוֹם הַהוּא עִם־חַיַּת הַשָּׂדֶה וְעִם־עוֹף הַשָּׁמַיִם וְרֶמֶשׂ הָאֲדָמָה וְקֶשֶׁת וְחֶרֶב וּמִלְחָמָה אֶשְׁבּוֹר מִן־הָאָרֶץ וְהִשְׁכַּבְתִּים לָבֶטַח׃",
+    "translit": "Veharati lahem berit baiom hahu im-haiat hasade veim-of hașamaim veremes haadama vekeșet veherev umilhama eșbor min-haareț vehișkavtim lavetah.",
+    "tokens": [
+     {
+      "t": "Și le voi pecetlui "
+     },
+     {
+      "t": "un legământ",
+      "w": "un legământ",
+      "heb": "בְּרִית",
+      "translit": "berit",
+      "strong": "H1285",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "legământ.",
+      "dict_ro": "Berit — legământul, aici un legământ neobișnuit: Dumnezeu leagă pacea între om și fiarele câmpului, păsările cerului și târâtoare, adică o restaurare a armoniei de la creație (aceleași trei categorii ca în Geneza 1:30). Rashi trimite la Isaia 11:9 („nu vor face rău și nu vor nimici”), iar Radak la Iov 5:23 și Isaia 11:6 („lupul va locui cu mielul”). Nimicirea armelor — „arcul, sabia și războiul” — și somnul „în siguranță” împlinesc făgăduința din Levitic 26:6, din pericopa Behukotai."
+     },
+     {
+      "t": " în ziua aceea, cu fiara câmpului și cu pasărea cerului și cu târâtoarea pământului: arcul, și sabia, și războiul le voi nimici din țară, și le voi da voie să doarmă în ea în siguranță."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְכָרַתִּי לָהֶם בְּרִית בַּיּוֹם...",
+      "translation": "„Și le voi pecetlui un legământ...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ διαθήσομαι αὐτοῖς διαθήκην ἐν τῇ ἡμέρᾳ ἐκείνῃ μετὰ τῶν θηρίων τοῦ ἀγροῦ καὶ μετὰ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ τῶν ἑρπετῶν τῆς γῆς· καὶ τόξον καὶ ῥομφαίαν καὶ πόλεμον συντρίψω ἀπὸ τῆς γῆς καὶ κατοικιῶ σε ἐπ᾿ ἐλπίδι.",
+      "greek": true,
+      "translation": "„Și voi încheia cu ei legământ în ziua aceea cu fiarele câmpului și cu păsările cerului și cu târâtoarele pământului; și arcul și sabia și războiul le voi zdrobi din țară și te voi face să locuiești în nădejde.”",
+      "note": "Septuaginta încheie cu „te voi face să locuiești în nădejde” (ἐπ᾿ ἐλπίδι), la singular, acolo unde Textul Masoretic are „le voi da voie să doarmă în siguranță”."
+     }
+    ],
+    "refs": [
+     "Iov 5:23",
+     "Isaia 11:6-9",
+     "Ezechiel 34:25",
+     "Psalmul 46:9",
+     "Isaia 2:4",
+     "Levitic 26:5,6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cu fiarele câmpului” — căci voi nimici făpturile vătămătoare din lume; și așa spune Scriptura (Isaia 11:9): „nu vor face rău și nu vor nimici...”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și le voi pecetlui” — adică fiarele câmpului... nu-i vor vătăma, ca și cum ar fi încheiat cu ele legământ de pace. „Le voi nimici” — adică voi desființa armele de război și războiul însuși."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și le voi pecetlui” — pe calea lui „căci vei fi în legământ cu pietrele câmpului, și fiarele câmpului vor fi în pace cu tine” (Iov 5:23); și s-a spus în profeția lui Isaia: „lupul va locui cu mielul”. „Și cu pasărea cerului” — ca lăcusta și altele, care nu le vor mânca roadele și recolta. „Și cu târâtoarea pământului” — ca șerpii și scorpionii. „Arcul și sabia” — cum s-a spus: „își vor preface săbiile în fiare de plug”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Veremes” — sunt făpturi mici, cu picioare scurte, ca în „târâtoare și păsări înaripate” (Psalmul 148:10)."
+     }
+    ]
+   },
+   {
+    "v": "2:21",
+    "t": "Te voi mărita cu Mine veșnic, te voi mărita cu mine în dreptate și judecată, și cu bunătate și cu milă.",
+    "heb": "וְאֵרַשְׂתִּיךְ לִי לְעוֹלָם וְאֵרַשְׂתִּיךְ לִי בְּצֶדֶק וּבְמִשְׁפָּט וּבְחֶסֶד וּבְרַחֲמִים׃",
+    "translit": "Veerastih li leolam veerastih li bețedek uvemișpat uvehesed uverahamim.",
+    "tokens": [
+     {
+      "t": "Te voi mărita cu Mine",
+      "w": "Te voi mărita cu Mine",
+      "heb": "וְאֵרַשְׂתִּיךְ",
+      "translit": "veerastih",
+      "strong": "H781",
+      "pos": "verb, piel, perfect consecutiv, persoana I singular + sufix persoana a II-a feminin",
+      "def_ro": "te voi logodi cu Mine.",
+      "dict_ro": "Araś — „a logodi”, primul pas al căsătoriei în dreptul biblic, prin care femeia devine soția bărbatului. Versetele 21-22 sunt recitate de bărbații evrei în fiecare dimineață, la înfășurarea curelei tefilinului pe deget, ca un inel. Radak vede în cele trei „te voi logodi” cele trei ieșiri din exil: din Egipt, din Babilon și din exilul de acum — iar numai ultima va fi „pe veci”. Rashi explică împărțirea: dreptatea și judecata le va face Israel, iar bunătatea și mila vor veni de la Dumnezeu, ca răsplată."
+     },
+     {
+      "t": " veșnic, te voi mărita cu mine în dreptate și judecată, și cu bunătate și cu milă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֵרַשְׂתִּיךְ לִי לְעוֹלָם וְאֵרַשְׂתִּיךְ...",
+      "translation": "„Te voi mărita cu Mine veșnic...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ μνηστεύσομαί σε ἐμαυτῷ εἰς τὸν αἰῶνα καὶ μνηστεύσομαί σε ἐν δικαιοσύνῃ καὶ ἐν κρίματι καὶ ἐν ἐλέει καὶ ἐν οἰκτιρμοῖς",
+      "greek": true,
+      "translation": "„Și te voi logodi cu Mine pe veci și te voi logodi în dreptate și în judecată și în milă și în îndurări,”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 54:5",
+     "Isaia 62:3-5",
+     "Ieremia 3:14,15",
+     "Isaia 54:8-10",
+     "Ieremia 31:31-36",
+     "Psalmul 85:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „În dreptate și judecată” — pe care le veți face voi. „Și cu bunătate și cu milă” — care vă vor veni de la Mine din pricina lor. Despre Avraham, tatăl nostru, e scris: „căci l-am cunoscut ca să poruncească... să facă dreptate și judecată” (Geneza 18:19), iar, pe măsura lor, El a revărsat asupra copiilor lui bunătate și milă, cum s-a spus: „și îți va da milă” (Deuteronom 13:18)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Te voi mărita cu Mine” — te voi lua să fii logodnica Mea pe veci și nu te voi mai lepăda. „În dreptate și judecată” — pentru dreptatea și judecata pe care le veți face atunci, și pentru bunătatea și mila pe care le voi face Eu cu tine; căci dreptatea și judecata pe care le vei face nu vor fi vrednice să-ți reverse un bine atât de mare, dar voi adăuga din bunătate și milă."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Te voi mărita” — față de ce a spus „femeie a desfrânării”; și a pomenit de trei ori „te voi mărita”, față de cele trei exiluri ale lui Israel: exilul Egiptului, exilul Babilonului și exilul în care suntem astăzi; și de fiecare dată când au ieșit din exil, era ca și cum Dumnezeu i-ar fi logodit. Logodna dintâi, când i-a scos din Egipt, n-a fost pe veci, căci au fost exilați; de aceea a spus față de ea: „te voi mărita cu Mine veșnic”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Veerastih” — din „logodnă”."
+     }
+    ]
+   },
+   {
+    "v": "2:22",
+    "t": "Te voi mărita cu Mine în credință și Îl vei cunoaște pe DOMNUL.",
+    "heb": "וְאֵרַשְׂתִּיךְ לִי בֶּאֱמוּנָה וְיָדַעַתְּ אֶת־יְהוָה׃",
+    "translit": "Veerastih li beemuna veiadaat et-ADONAI.",
+    "tokens": [
+     {
+      "t": "Te voi mărita cu Mine "
+     },
+     {
+      "t": "în credință",
+      "w": "în credință",
+      "heb": "בֶּאֱמוּנָה",
+      "translit": "beemuna",
+      "strong": "H530",
+      "pos": "prepoziție + substantiv, feminin singular",
+      "def_ro": "în credincioșie, în statornicie.",
+      "dict_ro": "Emuna — statornicia, credincioșia (de la aman, „a fi stabil, sigur”, de unde și „amin”). Rashi o citește ca răsplată: „pentru credința” pe care Israel a păstrat-o în exil, crezând în făgăduințele profeților; Radak o citește ca trăsătură a legământului: o logodnă statornică, ce nu se va mai clătina. Încheierea „și Îl vei cunoaște pe DOMNUL” folosește verbul yada, al intimității conjugale (Geneza 4:1) — cunoașterea lui Dumnezeu e împlinirea căsătoriei."
+     },
+     {
+      "t": " și Îl vei cunoaște pe DOMNUL."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֵרַשְׂתִּיךְ לִי בֶּאֱמוּנָה וְיָדַעַתְּ...",
+      "translation": "„Te voi mărita cu Mine în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ μνηστεύσομαί σε ἐμαυτῷ ἐν πίστει, καὶ ἐπιγνώσῃ τὸν Κύριον.",
+      "greek": true,
+      "translation": "„și te voi logodi cu Mine în credincioșie, și vei cunoaște pe Domnul.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ieremia 9:24",
+     "Ieremia 31:33,34",
+     "Ioan 17:3",
+     "2 Corinteni 4:6",
+     "Filipeni 3:8",
+     "Evrei 8:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Te voi mărita cu Mine în credință” — ca răsplată pentru credință, pentru că, în exil, ai crezut în făgăduințele [Mele] prin profeții Mei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„În credință” — ca răsplată pentru credința cu care ai crezut în Mine. „Și Îl vei cunoaște” — adică atunci vei ajunge la o mare înțelegere, ca să-L cunoști pe DOMNUL."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Te voi mărita cu Mine în credință” — al cărei sens este statornicia, care nu se va clătina niciodată, ca în „emuna omen”, în sensul de „credincios, statornic”. „Și Îl vei cunoaște pe DOMNUL” — cum s-a spus: „căci toți Mă vor cunoaște, de la cel mai mic până la cel mai mare” (Ieremia 31:34)."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
