@@ -66435,6 +66435,1387 @@
     ]
    }
   ]
+ },
+  {
+  "num": 41,
+  "title": "Haftarat Șelah",
+  "ref": "Iosua 2:1-24",
+  "intro": "Pericopa Șelah povestește misiunea celor douăsprezece iscoade trimise de Moise: zece dintre ele s-au întors cu un raport înfricoșat, poporul a plâns, iar generația aceea a fost osândită să moară în pustie. Haftara spune povestea celor două iscoade trimise de Ioșua, patruzeci de ani mai târziu, din Șitim spre Ierihon. Rahav, o hangiță care locuia în zidul cetății, le ascunde în tulpinile de in de pe acoperiș și îi trimite pe urmăritorii regelui pe o pistă falsă. Apoi mărturisește ce nu știuse generația pustiei: „DOMNUL, Dumnezeul vostru, El e Dumnezeu, în ceruri, sus, și jos pe pământ.” Ea cere un jurământ pentru familia ei și îi coboară cu o frânghie pe fereastră, iar frânghia cărămizie legată la fereastră va fi semnul salvării ei. Iscoadele se întorc la Ioșua cu un raport opus celui din vremea lui Moise: „DOMNUL a dat toată țara în mâinile noastre”.",
+  "verses": [
+   {
+    "v": "2:1",
+    "t": "Ioșua, fiul lui Nun, a trimis din Șitim doi bărbați, iscoade, pe ascuns, spunând: „Mergeți și cercetați țara și Ierihonul.” Ei au mers și au ajuns la casa unei femei hangițe al cărei nume era Rahav și s-au culcat acolo.",
+    "heb": "וַיִּשְׁלַח יְהוֹשֻׁעַ־בִּן־נוּן מִן־הַשִּׁטִּים שְׁנַיִם־אֲנָשִׁים מְרַגְּלִים חֶרֶשׁ לֵאמֹר לְכוּ רְאוּ אֶת־הָאָרֶץ וְאֶת־יְרִיחוֹ וַיֵּלְכוּ וַיָּבֹאוּ בֵּית־אִשָּׁה זוֹנָה וּשְׁמָהּ רָחָב וַיִּשְׁכְּבוּ־שָׁמָּה׃",
+    "translit": "Vaișlah Iehoșua-bin-Nun min-ha'Șitim șenaim-anașim meraghelim hereș lemor lehu reu et-haareț veet-Ieriho vaièlhu vaiavou beit-ișa zona ușema Rahav vaișkevu-șama.",
+    "tokens": [
+     {
+      "t": "Ioșua, fiul lui Nun, a trimis din Șitim doi bărbați, iscoade, pe ascuns, spunând: „Mergeți și cercetați țara și Ierihonul.” Ei au mers și au ajuns la casa unei femei "
+     },
+     {
+      "t": "hangițe",
+      "w": "hangițe",
+      "heb": "זוֹנָה",
+      "translit": "zona",
+      "strong": "H2181",
+      "pos": "verb, qal, participiu, feminin singular",
+      "def_ro": "hangiță; literal: desfrânată.",
+      "dict_ro": "Zona — sensul literal este „desfrânată”, dar Targumul lui Ionatan traduce „pundekita”, „hangiță, cea care vinde mâncare”, iar Metzudat Țion explică la fel, legând cuvântul de mazon, „hrană”; traducerea rabinului Rosen urmează această lectură. Radak discută ambele sensuri și observă că Targumul folosește „hangiță” și acolo unde e vorba limpede de desfrânate, pentru că hanul era deschis tuturor. Noul Testament o numește pe Rahav pentru credința ei (Evrei 11:31) și pentru faptele ei (Iacov 2:25), iar Matei 1:5 o pune în genealogia lui Iisus."
+     },
+     {
+      "t": " al cărei nume era Rahav și s-au culcat acolo."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח יְהוֹשֻׁעַ־בִּן־נוּן מִן־הַשִּׁטִּים שְׁנַיִם־אֲנָשִׁים...",
+      "translation": "„Ioșua, fiul lui Nun, a trimis...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΚΑΙ ἀπέστειλεν ᾿Ιησοῦς υἱὸς Ναυὴ ἐκ Σαττὶν δύο νεανίσκους κατασκοπεῦσαι λέγων· ἀνάβητε καὶ ἴδετε τὴν γῆν καὶ τὴν ῾Ιεριχώ. καὶ πορευθέντες οἱ δύο νεανίσκοι εἰσήλθοσαν εἰς ῾Ιεριχὼ καὶ εἰσήλθοσαν εἰς οἰκίαν γυναικὸς πόρνης, ᾗ ὄνομα Ῥαάβ, καὶ κατέλυσαν ἐκεῖ.",
+      "greek": true,
+      "translation": "„Și a trimis Iisus, fiul lui Navi, din Satin doi tineri ca să iscodească, zicând: Suiți-vă și vedeți țara și Ierihonul. Și, mergând cei doi tineri, au intrat în Ierihon și au intrat în casa unei femei desfrânate, al cărei nume era Raav, și au găzduit acolo.”",
+      "note": "Septuaginta spune „doi tineri” în loc de „doi bărbați, iscoade”, adaugă „au intrat în Ierihon” și redă zona prin „desfrânată” (πόρνη); cuvântul „pe ascuns” (heres) lipsește."
+     }
+    ],
+    "refs": [
+     "Numeri 25:1",
+     "Numeri 13:2,17-21",
+     "Iosua 6:17,25",
+     "Matei 1:5",
+     "Evrei 11:31",
+     "Iacov 2:25"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ioșua a trimis” — trebuie să spun că i-a trimis în timpul doliului după Moise, căci la trei zile după încheierea doliului au trecut Iordanul. „Pe ascuns” (heres) — în taină, așa traduce Targumul lui Ionatan; le-a spus: prefaceți-vă surdo-muți (herșim), ca să nu-și ascundă treburile de voi. O altă explicație: citește heres ca heres, „lut” — încărcați-vă cu oale, ca să arătați ca niște negustori de vase. „Țara și Ierihonul” — oare Ierihonul nu făcea parte din țară? De ce e pomenit anume? Ca să arate că era tot atât de întărit cât toată țara la un loc, fiind așezat la graniță. „Hangiță” — după Targumul lui Ionatan, o hangiță care vindea tot felul de mâncăruri."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iscoade, pe ascuns” — care cercetează gândurile oamenilor, dacă li s-a topit inima."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Doi bărbați” — adică bărbați de bine, nu ca aceia care au mers în misiunea lui Moise. „Pe ascuns” — le-a poruncit să meargă în tăcere, ca niște surzi, ca să nu fie observați; iar Targumul traduce „în taină”, adică i-a trimis în ascuns, căci nu voia să afle tot Israelul, ca să nu se teamă de faptul că trimite iscoade; și nu i-a trimis decât pentru că știa că vor izbuti în misiunea lor și vor lărgi inima lui Israel cu vești bune. „Hangiță” — după sensul literal, sau vânzătoare de hrană, cum a tradus Ionatan „pundekita”; dar adevărul este că Ionatan a înțeles o desfrânată propriu-zisă, căci așa obișnuiește să traducă în mai multe locuri, pentru că desfrânata e ca hangița, care se lasă la îndemâna tuturor. „Și s-au culcat acolo” — ca să arate că n-au stat acolo decât o singură noapte."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Meraglim” — cu sensul de cercetare, ca în „ca să cerceteze, să răstoarne și să iscodească” (1 Cronici 19:3). „Hereș” — sensul lui e de gând, plan ascuns, ca în „nu plănui (taharoș) rău împotriva aproapelui tău” (Proverbe 3:29). „Zona” — vânzătoare de hrană (mazon)."
+     }
+    ]
+   },
+   {
+    "v": "2:2",
+    "t": "Regelui Ierihonului i s-a spus astfel: „Iată, niște bărbați au venit aici seara, dintre copiii lui Israel, ca să iscodească țara.”",
+    "heb": "וַיֵּאָמַר לְמֶלֶךְ יְרִיחוֹ לֵאמֹר הִנֵּה אֲנָשִׁים בָּאוּ הֵנָּה הַלַּיְלָה מִבְּנֵי יִשְׂרָאֵל לַחְפֹּר אֶת־הָאָרֶץ׃",
+    "translit": "Vaieamar lemeleh Ieriho lemor hine anașim bau hena halaila mibenei Israel lahpor et-haareț.",
+    "tokens": [
+     {
+      "t": "Regelui Ierihonului i s-a spus astfel: „Iată, niște bărbați au venit aici seara, dintre copiii lui Israel, ca "
+     },
+     {
+      "t": "să iscodească",
+      "w": "să iscodească",
+      "heb": "לַחְפֹּר",
+      "translit": "lahpor",
+      "strong": "H2658",
+      "pos": "prepoziție + verb, qal, infinitiv",
+      "def_ro": "a cerceta, a iscodi; literal: a săpa.",
+      "dict_ro": "Hafar — sensul de bază e „a săpa”, iar de aici „a cerceta, a scormoni”; Metzudat Țion explică: cel care caută ceva în pământ sapă în el. Rashi trimite la Iov 39:29, despre vulturul care „de acolo își iscodește prada”. Regele Ierihonului află chiar în aceeași seară de sosirea iscoadelor — semn, după comentatori, cât de încordată era cetatea, aflată la hotar, în fața taberei lui Israel."
+     },
+     {
+      "t": " țara.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּאָמַר לְמֶלֶךְ יְרִיחוֹ לֵאמֹר...",
+      "translation": "„Regelui Ierihonului i s-a spus astfel...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπηγγέλη τῷ βασιλεῖ ῾Ιεριχὼ λέγοντες· εἰσπεπόρευνται ὧδε ἄνδρες τῶν υἱῶν ᾿Ισραὴλ κατασκοπεῦσαι τὴν γῆν.",
+      "greek": true,
+      "translation": "„Și s-a vestit regelui Ierihonului, zicându-se: Au intrat aici bărbați dintre fiii lui Israel să iscodească țara.”",
+      "note": "Septuaginta nu are „în noaptea aceasta”."
+     }
+    ],
+    "refs": [
+     "Psalmul 127:1",
+     "Proverbe 21:30",
+     "Isaia 43:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Să iscodească” — să cerceteze, și tot așa se spune: „de acolo își iscodește hrana” (Iov 39:29)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hena” — în cetatea aceasta. „Lahpor” — a iscodi și a cerceta, ca în „scormonesc în vale” (Iov 39:21), pentru că cel care caută ceva în pământ sapă în el."
+     }
+    ]
+   },
+   {
+    "v": "2:3",
+    "t": "Și regele Ierihonului a trimis [poruncă] la Rahav, spunând: „Scoate-i afară pe bărbații care au venit la tine, care au intrat în casa ta, căci au venit să iscodească toată țara.”",
+    "heb": "וַיִּשְׁלַח מֶלֶךְ יְרִיחוֹ אֶל־רָחָב לֵאמֹר הוֹצִיאִי הָאֲנָשִׁים הַבָּאִים אֵלַיִךְ אֲשֶׁר־בָּאוּ לְבֵיתֵךְ כִּי לַחְפֹּר אֶת־כָּל־הָאָרֶץ בָּאוּ׃",
+    "translit": "Vaișlah meleh Ieriho el-Rahav lemor hoții haanașim habaim elaih așer-bau leveiteh ki lahpor et-kol-haareț bau.",
+    "tokens": [
+     {
+      "t": "Și regele Ierihonului a trimis [poruncă] la Rahav, spunând: „"
+     },
+     {
+      "t": "Scoate-i afară",
+      "w": "Scoate-i afară",
+      "heb": "הוֹצִיאִי",
+      "translit": "hoții",
+      "strong": "H3318",
+      "pos": "verb, hifil, imperativ, feminin singular",
+      "def_ro": "scoate afară, predă.",
+      "dict_ro": "Yața — „a ieși”; la forma cauzativă (hifil), „a scoate afară, a da afară”. Porunca regelui e scurtă și amenințătoare: nu întreabă dacă au venit, știe deja. Tensiunea stă în contrastul dintre porunca regelui și ceea ce femeia făcuse deja, cum arată versetul următor."
+     },
+     {
+      "t": " pe bărbații care au venit la tine, care au intrat în casa ta, căci au venit să iscodească toată țara.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח מֶלֶךְ יְרִיחוֹ אֶל־רָחָב...",
+      "translation": "„Și regele Ierihonului a trimis [poruncă]...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπέστειλεν ὁ βασιλεὺς ῾Ιεριχὼ καὶ εἶπε πρὸς Ῥαὰβ λέγων· ἐξάγαγε τοὺς ἄνδρας τοὺς εἰσπεπορευμένους εἰς τὴν οἰκίαν σου τὴν νύκτα, κατασκοπεῦσαι γὰρ τὴν γῆν ἥκασι.",
+      "greek": true,
+      "translation": "„Și a trimis regele Ierihonului și a zis către Raav, spunând: Scoate pe bărbații care au intrat în casa ta la noapte, căci au venit să iscodească țara.”",
+      "note": "Septuaginta scurtează: nu repetă „care au venit la tine” și are „țara” în loc de „toată țara”."
+     }
+    ],
+    "refs": [
+     "Iosua 10:23",
+     "Geneza 42:9-12,31",
+     "2 Samuel 10:3",
+     "Iov 21:30"
+    ],
+    "commentaries": [
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Să iscodească” (lahpor) — ca „a cerceta”, căci cel care cercetează caută un lucru."
+     }
+    ]
+   },
+   {
+    "v": "2:4",
+    "t": "Dar femeia luase pe cei doi bărbați și-i ascunsese, așa că a spus: „Într-adevăr, bărbații au venit la mine, dar eu nu știam de unde erau.",
+    "heb": "וַתִּקַּח הָאִשָּׁה אֶת־שְׁנֵי הָאֲנָשִׁים וַתִּצְפְּנוֹ וַתֹּאמֶר כֵּן בָּאוּ אֵלַי הָאֲנָשִׁים וְלֹא יָדַעְתִּי מֵאַיִן הֵמָּה׃",
+    "translit": "Vatikah haișa et-șenei haanașim vatițpeno vatomer ken bau elai haanașim velo iadati meain hema.",
+    "tokens": [
+     {
+      "t": "Dar femeia luase pe cei doi bărbați "
+     },
+     {
+      "t": "și-i ascunsese",
+      "w": "și-i ascunsese",
+      "heb": "וַתִּצְפְּנוֹ",
+      "translit": "vatițpeno",
+      "strong": "H6845",
+      "pos": "verb, qal, imperfect consecutiv, persoana a III-a feminin singular + sufix persoana a III-a masculin singular",
+      "def_ro": "l-a ascuns, i-a tăinuit.",
+      "dict_ro": "Țafan — „a ascunde, a păstra ca pe o comoară” (de aici țafun, „ascuns”, și nordul, țafon, „partea ascunsă”). Verbul e la singular, „l-a ascuns”, deși erau doi. Rashi și Radak dau trei explicații: i-a ascuns în grabă într-un loc strâmt, ca pe unul singur; i-a ascuns pe fiecare separat; sau — după Midrașul Tanhuma — cei doi erau Pinhas și Caleb, iar Pinhas nu avea nevoie să fie ascuns, pentru că era ca un înger și nu putea fi văzut."
+     },
+     {
+      "t": ", așa că a spus: „Într-adevăr, bărbații au venit la mine, dar eu nu știam de unde erau."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתִּקַּח הָאִשָּׁה אֶת־שְׁנֵי הָאֲנָשִׁים...",
+      "translation": "„Dar femeia luase pe cei doi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ λαβοῦσα ἡ γυνὴ τοὺς δύο ἄνδρας ἔκρυψεν αὐτοὺς καὶ εἶπεν αὐτοῖς λέγουσα· εἰσεληλύθασι πρός με οἱ ἄνδρες·",
+      "greek": true,
+      "translation": "„Și, luând femeia pe cei doi bărbați, i-a ascuns și le-a zis, spunând: Au intrat la mine bărbații;”",
+      "note": "Septuaginta nu are „dar eu nu știam de unde erau”."
+     }
+    ],
+    "refs": [
+     "Exod 1:19",
+     "2 Samuel 17:19,20",
+     "2 Regi 6:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și-i ascunsese” — cuvântul e la singular, deși se referă la doi bărbați; pentru că se grăbea să-i ascundă și i-a ascuns într-un loc strâmt, a fost ca și cum ar fi fost unul singur. Midrașul lui Rabi Tanhuma spune că cei doi bărbați erau Pinhas și Caleb; Pinhas stătea înaintea lor, dar ei nu-l vedeau, pentru că era ca un înger. O altă explicație: i-a ascuns pe fiecare separat."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și-i ascunsese” — pe fiecare într-un loc anume, căci e mai ușor să-i ascunzi unul câte unul. „Bărbații” — despre care întrebați. „Dar eu nu știam” — când au venit."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Dar femeia luase” — îi luase deja și îi ascunsese înainte să intre trimișii regelui în casa ei, când a simțit că lucrul ajunsese la urechea regelui. „Și-i ascunsese” — pe fiecare singur, ca să nu le recunoască locul dacă vor urca pe acoperiș; iar în midraș: cei doi iscoade erau Caleb și Pinhas, iar Pinhas a stat înaintea lor și nu l-au recunoscut și nu l-au văzut, pentru că era un înger, și „l-a ascuns” se spune doar despre Caleb."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vatițpeno” — l-a ascuns, ca în „păstrează pentru cei drepți” (Proverbe 2:7). „Ken” — sensul lui e „adevărat”, ca în „bine ai spus” (Exod 10:29). „Meain” — din ce loc."
+     }
+    ]
+   },
+   {
+    "v": "2:5",
+    "t": "Iar când poarta [cetății] era pe cale să se închidă, la [căderea] întunericului, bărbații au plecat. Nu știu încotro au plecat bărbații; urmăriți-i degrabă și-i veți ajunge din urmă.”",
+    "heb": "וַיְהִי הַשַּׁעַר לִסְגּוֹר בַּחֹשֶׁךְ וְהָאֲנָשִׁים יָצָאוּ לֹא יָדַעְתִּי אָנָה הָלְכוּ הָאֲנָשִׁים רִדְפוּ מַהֵר אַחֲרֵיהֶם כִּי תַשִּׂיגוּם׃",
+    "translit": "Vaihi hașaar lisgor bahoșeh vehaanașim iațau lo iadati ana halhu haanașim ridfu maher ahareihem ki tasigum.",
+    "tokens": [
+     {
+      "t": "Iar când poarta [cetății] era pe cale să se închidă, la [căderea] întunericului, bărbații au plecat. Nu știu încotro au plecat bărbații; "
+     },
+     {
+      "t": "urmăriți-i",
+      "w": "urmăriți-i",
+      "heb": "רִדְפוּ",
+      "translit": "ridfu",
+      "strong": "H7291",
+      "pos": "verb, qal, imperativ, masculin plural",
+      "def_ro": "urmăriți, alergați după.",
+      "dict_ro": "Radaf — „a urmări, a goni”, verbul cheie al capitolului: „urmăritorii” (harodfim) apar de șase ori. Rahav nu doar ascunde iscoadele, ci îi trimite pe oamenii regelui pe o pistă falsă, cu un argument plauzibil: au plecat de curând, la închiderea porții, deci îi veți ajunge. Metzudat David: „căci au ieșit de curând”."
+     },
+     {
+      "t": " degrabă și-i veți ajunge din urmă.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְהִי הַשַּׁעַר לִסְגּוֹר בַּחֹשֶׁךְ...",
+      "translation": "„Iar când poarta [cetății] era pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὡς δὲ ἡ πύλη ἐκλείετο ἐν τῷ σκότει, καὶ οἱ ἄνδρες ἐξῆλθον, οὐκ ἐπίσταμαι ποῦ πεπόρευνται· καταδιώξατε ὀπίσω αὐτῶν, εἰ καταλήψεσθε αὐτούς.",
+      "greek": true,
+      "translation": "„iar când poarta se închidea, în întuneric, bărbații au ieșit; nu știu unde s-au dus; alergați după ei, dacă îi veți ajunge.”",
+      "note": "Septuaginta are „dacă îi veți ajunge” în loc de „căci îi veți ajunge” și nu are „degrabă”."
+     }
+    ],
+    "refs": [
+     "Iosua 2:7",
+     "Neemia 13:19",
+     "Romani 3:7,8"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Iar când poarta” — adică la vremea închiderii porții cetății, când s-a întunecat ziua. „Și-i veți ajunge din urmă” — fiindcă au ieșit de curând."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Iar când poarta era pe cale să se închidă” — era gata să fie închisă, căci se întunecase ziua."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ana” — spre ce loc."
+     }
+    ]
+   },
+   {
+    "v": "2:6",
+    "t": "Dar ea îi urcase pe acoperiș și-i ascunsese în mănunchiurile de in pe care le întinsese pe acoperiș.",
+    "heb": "וְהִיא הֶעֱלָתַם הַגָּגָה וַתִּטְמְנֵם בְּפִשְׁתֵּי הָעֵץ הָעֲרֻכוֹת לָהּ עַל־הַגָּג׃",
+    "translit": "Vehi heelatam hagaga vatitmenem befiștei haeț haaruhot la al-hagag.",
+    "tokens": [
+     {
+      "t": "Dar ea îi urcase pe acoperiș și-i ascunsese în "
+     },
+     {
+      "t": "mănunchiurile de in",
+      "w": "mănunchiurile de in",
+      "heb": "בְּפִשְׁתֵּי הָעֵץ",
+      "translit": "befiștei haeț",
+      "strong": "H6593",
+      "pos": "prepoziție + substantiv, masculin plural, în construcție + substantiv cu articol",
+      "def_ro": "tulpinile de in, inul încă pe tulpină.",
+      "dict_ro": "Pișteh haeț — literal „inul lemnului”: tulpinile de in încă nedecorticate, puse la uscat pe acoperișul plat. Radak și Metzudat David explică: inul era încă pe tulpinile lui, și femeia le întinsese pe acoperiș ca să se usuce; aranjate astfel, nu trezeau bănuieli. Inul crește în valea Ierihonului, unde recolta se strânge primăvara, adică exact în luna Nisan, când Israel stătea să treacă Iordanul (Iosua 3-4). Talmudul (Zevahim 116b) pomenește inul printre cele trei lucruri prin care Rahav a salvat iscoadele."
+     },
+     {
+      "t": " pe care le întinsese pe acoperiș."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהִיא הֶעֱלָתַם הַגָּגָה וַתִּטְמְנֵם...",
+      "translation": "„Dar ea îi urcase pe acoperiș...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "αὕτη δὲ ἀνεβίβασεν αὐτοὺς ἐπὶ τὸ δῶμα καὶ ἔκρυψεν αὐτοὺς ἐν τῇ λινοκαλάμῃ τῇ ἐστοιβασμένῃ αὐτῇ ἐπὶ τοῦ δώματος.",
+      "greek": true,
+      "translation": "„Ea însă îi suise pe acoperiș și îi ascunsese în snopii de in, stivuiți de ea pe acoperiș.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 1:15-21",
+     "Deuteronom 22:8",
+     "2 Samuel 17:19",
+     "1 Regi 18:4,13",
+     "Evrei 11:23"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Mănunchiurile de in” — cu păstăile lor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și-i ascunsese” — a adăugat să-i ascundă într-un loc și mai tăinuit. „Mănunchiurile de in” — în inul care era încă în lemnul lui, adică tulpinile de in. „Pe care le întinsese” — ca să nu se observe că e cineva ascuns acolo."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ea îi urcase pe acoperiș și-i ascunsese” — spusese mai sus „și-i ascunsese” (vatițpeno), iar acum spune „și-i ascunsese” (vatitmenem) ca să arate cum anume i-a ascuns. „Mănunchiurile de in” — adică inul era încă în tulpinile lui, iar ea îl urcase pe acoperiș ca să-l usuce și i-a ascuns înăuntru. „Pe care le întinsese” — inul, pe care îl avea așezat pe acoperiș ca să-l usuce."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Haarukhot” — din „așezare și rânduire”."
+     }
+    ]
+   },
+   {
+    "v": "2:7",
+    "t": "Așa că oamenii [regelui] i-au urmărit pe drumul către Iordan, până la vaduri, și au închis poarta de îndată ce urmăritorii au ieșit după ei.",
+    "heb": "וְהָאֲנָשִׁים רָדְפוּ אַחֲרֵיהֶם דֶּרֶךְ הַיַּרְדֵּן עַל הַמַּעְבְּרוֹת וְהַשַּׁעַר סָגָרוּ אַחֲרֵי כַּאֲשֶׁר יָצְאוּ הָרֹדְפִים אַחֲרֵיהֶם׃",
+    "translit": "Vehaanașim radfu ahareihem dereh ha'Iarden al hamabrot vehașaar sagaru aharei kaașer iațu harodfim ahareihem.",
+    "tokens": [
+     {
+      "t": "Așa că oamenii [regelui] i-au urmărit pe drumul către Iordan, până la "
+     },
+     {
+      "t": "vaduri",
+      "w": "vaduri",
+      "heb": "הַמַּעְבְּרוֹת",
+      "translit": "hamaberot",
+      "strong": "H4569",
+      "pos": "substantiv, feminin plural, cu articol",
+      "def_ro": "vadurile, locurile de trecere ale Iordanului.",
+      "dict_ro": "Maabarot — de la avar, „a trece”: locurile unde Iordanul poate fi trecut prin apă mică. Rashi explică raționamentul urmăritorilor: credeau că iscoadele se întorc în câmpiile Moabului, iar Iordanul era între ei. Vadurile Iordanului apar și în Judecători 3:28 și 12:5-6, unde cine le controla hotăra cine trece. Poarta închisă imediat după ieșirea urmăritorilor îi prinde pe iscoade în cetate, dar îi și apără de o nouă căutare."
+     },
+     {
+      "t": ", și au închis poarta de îndată ce urmăritorii au ieșit după ei."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָאֲנָשִׁים רָדְפוּ אַחֲרֵיהֶם דֶּרֶךְ...",
+      "translation": "„Așa că oamenii [regelui] i-au urmărit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οἱ ἄνδρες κατεδίωξαν ὀπίσω αὐτῶν ὁδὸν τὴν ἐπὶ τοῦ ᾿Ιορδάνου ἐπὶ τὰς διαβάσεις, καὶ ἡ πύλη ἐκλείσθη.",
+      "greek": true,
+      "translation": "„Și bărbații au alergat după ei pe drumul Iordanului, spre vaduri, și poarta s-a închis.”",
+      "note": "Septuaginta scurtează sfârșitul („și poarta s-a închis”) și mută „când au ieșit urmăritorii după ei” la începutul versetului următor."
+     }
+    ],
+    "refs": [
+     "Judecători 3:28",
+     "Judecători 12:5",
+     "Iosua 2:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Până la vaduri” — erau locuri de trecere a apei, căci urmăritorii credeau că iscoadele se întorseseră ca să meargă înapoi în câmpiile Moabului, iar Iordanul era între ei. „Și au închis poarta” — paznicii au închis poarta."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„După ei” — așa credeau urmăritorii, după părerea lor. „Au închis” — pentru că voiau să-i mai caute în cetate, de aceea paznicii porții au închis poarta, ca să nu mai iasă de acum încolo."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Oamenii [regelui] i-au urmărit” — după gândul lor. „Până la” (al) — ca „ad”, și tot așa „hotarul lui va fi până la Sidon” (Geneza 49:13). „Au închis poarta” — iscoadele sau oamenii casei, iar a doua explicație este cea corectă, căci iscoadele n-au coborât de pe acoperiș de frica lor. „Îndată ce” — dacă ar fi zis „după ce au ieșit”, ar fi părut că a trecut ceva vreme, și ei nu au întârziat să închidă poarta; iar dacă ar fi zis „când au ieșit”, ar fi părut că au închis-o imediat, și atunci urmăritorii ar fi bănuit că iscoadele sunt ascunse acolo; ci au închis-o după ce oamenii s-au depărtat de poartă atât cât să nu simtă închiderea."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Al” — sensul e ca „ad” (până la), și tot așa „și hotarul lui va fi până la Sidon” (Geneza 49:13). „Hamaberot” — locurile de trecere a Iordanului."
+     }
+    ]
+   },
+   {
+    "v": "2:8",
+    "t": "[Iscoadele] nu se culcaseră încă, când ea s-a urcat la ei pe acoperiș.",
+    "heb": "וְהֵמָּה טֶרֶם יִשְׁכָּבוּן וְהִיא עָלְתָה עֲלֵיהֶם עַל־הַגָּג׃",
+    "translit": "Vehema terem ișkavun vehi alta aleihem al-hagag.",
+    "tokens": [
+     {
+      "t": "[Iscoadele] nu se culcaseră încă, când ea s-a urcat la ei "
+     },
+     {
+      "t": "pe acoperiș",
+      "w": "pe acoperiș",
+      "heb": "עַל־הַגָּג",
+      "translit": "al-hagag",
+      "strong": "H1406",
+      "pos": "prepoziție + substantiv, masculin singular, cu articol",
+      "def_ro": "pe acoperiș (acoperișul plat al casei).",
+      "dict_ro": "Gag — acoperișul plat al casei orientale, loc de lucru, de uscat roadele, de dormit în nopțile calde și de rugăciune (Faptele Apostolilor 10:9); de aceea Tora cere un parapet (Deuteronom 22:8). Scena se petrece noaptea, înainte ca iscoadele să adoarmă: pe acoperiș, departe de urechile cetății, Rahav rostește mărturisirea din versetele următoare. Radak observă că „asupra lor” (aleihem) are aici sensul de „la ei”."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהֵמָּה טֶרֶם יִשְׁכָּבוּן וְהִיא...",
+      "translation": "„[Iscoadele] nu se culcaseră încă, când...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐγένετο ὡς ἐξήλθοσαν οἱ διώκοντες ὀπίσω αὐτῶν καὶ αὐτοὶ δὲ πρὶν ἢ κοιμηθῆναι αὐτούς, αὕτη δὲ ἀνέβη πρὸς αὐτοὺς ἐπὶ τὸ δῶμα",
+      "greek": true,
+      "translation": "„Și a fost, după ce au ieșit urmăritorii după ei — ei încă nu se culcaseră — ea s-a suit la ei pe acoperiș”",
+      "note": "Septuaginta începe versetul cu „după ce au ieșit urmăritorii după ei”, sfârșitul versetului anterior din Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„[Iscoadele]” — adică iscoadele nu se culcaseră încă."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Nu se culcaseră încă” — înainte să adoarmă. „S-a urcat la ei” (aleihem) — ca „eleihem”, „la ei”, cum e în „și Elcana s-a dus la Rama, la (al) casa lui” și „am vorbit către (al) profeți”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Aleihem” — sensul e ca „eleihem” (la ei), cu alef."
+     }
+    ]
+   },
+   {
+    "v": "2:9",
+    "t": "Și le-a spus bărbaților: „Știu că DOMNUL v-a dat țara și că groaza de voi a căzut asupra noastră, și că toți locuitorii țării au pălit din pricina voastră,",
+    "heb": "וַתֹּאמֶר אֶל־הָאֲנָשִׁים יָדַעְתִּי כִּי־נָתַן יְהוָה לָכֶם אֶת־הָאָרֶץ וְכִי־נָפְלָה אֵימַתְכֶם עָלֵינוּ וְכִי נָמֹגוּ כָּל־יֹשְׁבֵי הָאָרֶץ מִפְּנֵיכֶם׃",
+    "translit": "Vatomer el-haanașim iadati ki-natan ADONAI lahem et-haareț vehi-nafla eimathem aleinu vehi namogu kol-ioșvei haareț mipeneichem.",
+    "tokens": [
+     {
+      "t": "Și le-a spus bărbaților: „Știu că DOMNUL v-a dat țara și că "
+     },
+     {
+      "t": "groaza de voi",
+      "w": "groaza de voi",
+      "heb": "אֵימַתְכֶם",
+      "translit": "eimathem",
+      "strong": "H367",
+      "pos": "substantiv, feminin singular + sufix persoana a II-a masculin plural",
+      "def_ro": "groaza, spaima inspirată de voi.",
+      "dict_ro": "Eima — groaza, spaima care paralizează. Rahav citează, fără să știe, chiar cuvintele Cântării de la Mare: „groaza (eima) și spaima vor cădea peste ei... s-au topit (namogu) toți locuitorii Canaanului” (Exod 15:15-16). Ce era profeție pentru Moise devine, în gura ei, constatare. Ironia e evidentă în contextul pericopei Șelah: iscoadele lui Moise se temuseră de locuitorii țării, iar acum aflăm că locuitorii țării se temeau de Israel."
+     },
+     {
+      "t": " a căzut asupra noastră, și că toți locuitorii țării au pălit din pricina voastră,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֹּאמֶר אֶל־הָאֲנָשִׁים יָדַעְתִּי כִּי־נָתַן...",
+      "translation": "„Și le-a spus bărbaților: „Știu că...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπε πρὸς αὐτούς· ἐπίσταμαι ὅτι ἔδωκεν ὑμῖν Κύριος τὴν γῆν, ἐπιπέπτωκε γὰρ ὁ φόβος ὑμῶν ἐφ’ ἡμᾶς·",
+      "greek": true,
+      "translation": "„și le-a zis: Știu că Domnul v-a dat țara, căci a căzut frica de voi asupra noastră;”",
+      "note": "Septuaginta nu are ultima propoziție, „și că toți locuitorii țării au pălit din pricina voastră”."
+     }
+    ],
+    "refs": [
+     "Exod 18:11",
+     "Geneza 15:18-21",
+     "Exod 15:15,16",
+     "Exod 23:27",
+     "Deuteronom 2:25",
+     "Deuteronom 11:25"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și că groaza de voi a căzut” — și nu mai rămăsese putere de a lupta cu voi."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Eimathem” — din „groază și frică”. „Namogu” — s-au topit."
+     }
+    ]
+   },
+   {
+    "v": "2:10",
+    "t": "fiindcă am auzit cum a secat DOMNUL apele Mării Trestiilor înaintea voastră, când ați ieșit din Egipt, și ce le-ați făcut celor doi regi ai amoriților care erau de cealaltă parte a Iordanului – lui Sihon și lui Og – pe care i-ați nimicit cu desăvârșire.",
+    "heb": "כִּי שָׁמַעְנוּ אֵת אֲשֶׁר־הוֹבִישׁ יְהוָה אֶת־מֵי יַם־סוּף מִפְּנֵיכֶם בְּצֵאתְכֶם מִמִּצְרָיִם וַאֲשֶׁר עֲשִׂיתֶם לִשְׁנֵי מַלְכֵי הָאֱמֹרִי אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן לְסִיחוֹן וּלְעוֹג אֲשֶׁר הֶחֱרַמְתֶּם אוֹתָם׃",
+    "translit": "ki șamanu et așer-hoviș ADONAI et-mei Iam-Suf mipeneichem bețethem mi'Mițraim vaașer asitem lișnei malhei haemori așer beever ha'Iarden le'Sihon ule'Og așer heheramtem otam.",
+    "tokens": [
+     {
+      "t": "fiindcă am auzit cum a secat DOMNUL apele "
+     },
+     {
+      "t": "Mării Trestiilor",
+      "w": "Mării Trestiilor",
+      "heb": "יַם־סוּף",
+      "translit": "iam-suf",
+      "strong": "H5488",
+      "pos": "substantiv + substantiv, masculin singular",
+      "def_ro": "Marea Trestiilor (Marea Roșie).",
+      "dict_ro": "Iam suf — literal „marea trestiilor” (suf e trestia de pe malul Nilului în care a fost ascuns Moise, Exod 2:3); Septuaginta a numit-o „Marea Roșie”, de unde tradiția creștină. Rahav pomenește două evenimente: trecerea mării de acum patruzeci de ani și victoriile recente asupra lui Sihon și Og (Numeri 21). Știrea trecuse în patruzeci de ani toate hotarele — exact cum se temuse Moise că vor auzi popoarele (Exod 15:14; Numeri 14:13-14)."
+     },
+     {
+      "t": " înaintea voastră, când ați ieșit din Egipt, și ce le-ați făcut celor doi regi ai amoriților care erau de cealaltă parte a Iordanului – lui Sihon și lui Og – pe care i-ați nimicit cu desăvârșire."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי שָׁמַעְנוּ אֵת אֲשֶׁר־הוֹבִישׁ...",
+      "translation": "„fiindcă am auzit cum a secat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀκηκόαμεν γὰρ ὅτι κατεξήρανε Κύριος ὁ Θεὸς τὴν ἐρυθρὰν θάλασσαν ἀπὸ προσώπου ὑμῶν, ὅτε ἐξεπορεύεσθε ἐκ γῆς Αἰγύπτου, καὶ ὅσα ἐποίησε τοῖς δυσὶ βασιλεῦσι τῶν ᾿Αμορραίων, οἳ ἦσαν πέραν τοῦ ᾿Ιορδάνου, τῷ Σηὼν καὶ ῎Ωγ, οὓς ἐξωλοθρεύσατε αὐτούς.",
+      "greek": true,
+      "translation": "„căci am auzit că Domnul Dumnezeu a uscat Marea Roșie dinaintea voastră, când ieșeați din țara Egiptului, și câte a făcut celor doi regi ai amoreilor care erau dincolo de Iordan, lui Seon și lui Og, pe care i-ați nimicit.”",
+      "note": "Septuaginta spune „Marea Roșie” (τὴν ἐρυθρὰν θάλασσαν) și atribuie lui Dumnezeu victoria asupra celor doi regi („câte a făcut”, nu „câte ați făcut”)."
+     }
+    ],
+    "refs": [
+     "Iosua 4:24",
+     "Exod 14:21-31",
+     "Exod 15:14-16",
+     "Numeri 21:21-35",
+     "Deuteronom 2:30-37",
+     "Deuteronom 3:1-8"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hovis” — din „uscare”. „Heheramtem” — cu sensul de moarte și nimicire."
+     }
+    ]
+   },
+   {
+    "v": "2:11",
+    "t": "Am auzit și inimile noastre s-au topit, și n-a mai rămas duh în nimeni de [frica] voastră, căci DOMNUL, Dumnezeul vostru, El e Dumnezeu, în ceruri, sus, și jos pe pământ.",
+    "heb": "וַנִּשְׁמַע וַיִּמַּס לְבָבֵנוּ וְלֹא־קָמָה עוֹד רוּחַ בְּאִישׁ מִפְּנֵיכֶם כִּי יְהוָה אֱלֹהֵיכֶם הוּא אֱלֹהִים בַּשָּׁמַיִם מִמַּעַל וְעַל־הָאָרֶץ מִתָּחַת׃",
+    "translit": "Vanișma vaimas levavenu velo-kama od ruah beiș mipeneichem ki ADONAI Eloheihem hu Elohim bașamaim mimaal veal-haareț mitahat.",
+    "tokens": [
+     {
+      "t": "Am auzit și inimile noastre "
+     },
+     {
+      "t": "s-au topit",
+      "w": "s-au topit",
+      "heb": "וַיִּמַּס",
+      "translit": "vaimas",
+      "strong": "H4549",
+      "pos": "verb, nifal, imperfect consecutiv, persoana a III-a masculin singular",
+      "def_ro": "s-a topit, s-a pierdut (de frică).",
+      "dict_ro": "Masas — „a se topi, a se dizolva”, ca ceara la foc: imaginea biblică a curajului care se prăbușește (Deuteronom 20:8; Iosua 5:1). Rahav ajunge de la frică la o mărturisire de credință care reia aproape cuvânt cu cuvânt Deuteronom 4:39: „DOMNUL este Dumnezeu sus în ceruri și jos pe pământ”. Rashi redă o tradiție a înțelepților (Zevahim 116b) despre viața ei de dinainte și despre cât de bine cunoștea starea de spirit a căpeteniilor cetății."
+     },
+     {
+      "t": ", și n-a mai rămas duh în nimeni de [frica] voastră, căci DOMNUL, Dumnezeul vostru, El e Dumnezeu, în ceruri, sus, și jos pe pământ."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַנִּשְׁמַע וַיִּמַּס לְבָבֵנוּ וְלֹא־קָמָה...",
+      "translation": "„Am auzit și inimile noastre s-au...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀκούσαντες ἡμεῖς ἐξέστημεν τῇ καρδίᾳ ἡμῶν, καὶ οὐκ ἔστη ἔτι πνεῦμα ἐν οὐδενὶ ἡμῶν ἀπὸ προσώπου ὑμῶν, ὅτι Κύριος ὁ Θεὸς ὑμῶν Θεὸς ἐν οὐρανῷ ἄνω καὶ ἐπὶ τῆς γῆς κάτω.",
+      "greek": true,
+      "translation": "„Și auzind noi, ne-am pierdut cu inima, și nu mai stătea duh în nimeni dintre noi de fața voastră, căci Domnul Dumnezeul vostru este Dumnezeu în cer sus și pe pământ jos.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Iosua 5:1",
+     "Iosua 7:5",
+     "Deuteronom 20:8",
+     "Deuteronom 4:39",
+     "1 Regi 8:60",
+     "Ieremia 16:19-21"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și n-a mai rămas duh” — nici măcar dorința de a se apropia de o femeie. Înțelepții au spus: nu era prinț sau conducător care să nu fi venit la Rahav. Avea zece ani când au ieșit copiii lui Israel din Egipt și a trăit în desfrânare patruzeci de ani."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și n-a mai rămas” — adică fiecare om avea duhul scăzut și smerit. „El e Dumnezeu” — deci are putere asupra tuturor."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și n-a mai rămas duh” — căci omul care se teme e ca și cum i-ar fi căzut duhul, în felul lui „să nu cadă inima nimănui” (1 Samuel 17:32); iar Ionatan a tradus: „și n-a mai rămas”."
+     }
+    ]
+   },
+   {
+    "v": "2:12",
+    "t": "Și acum, jurați-mi, vă rog, pe DOMNUL – că, deoarece m-am purtat cu bunăvoință față de voi, și voi vă veți purta cu bunăvoință față de casa tatălui meu și îmi veți da un semn de încredere",
+    "heb": "וְעַתָּה הִשָּׁבְעוּ־נָא לִי בַּיהוָה כִּי־עָשִׂיתִי עִמָּכֶם חֶסֶד וַעֲשִׂיתֶם גַּם־אַתֶּם עִם־בֵּית אָבִי חֶסֶד וּנְתַתֶּם לִי אוֹת אֱמֶת׃",
+    "translit": "Veata hișaveu-na li b'ADONAI ki-asiti imahem hesed vaasitem gam-atem im-beit avi hesed unetatem li ot emet.",
+    "tokens": [
+     {
+      "t": "Și acum, jurați-mi, vă rog, pe DOMNUL – că, deoarece m-am purtat cu bunăvoință față de voi, și voi vă veți purta cu bunăvoință față de casa tatălui meu și îmi veți da "
+     },
+     {
+      "t": "un semn de încredere",
+      "w": "un semn de încredere",
+      "heb": "אוֹת אֱמֶת",
+      "translit": "ot emet",
+      "strong": "H226",
+      "pos": "substantiv, în construcție + substantiv, feminin singular",
+      "def_ro": "un semn adevărat, o garanție sigură.",
+      "dict_ro": "Ot emet — „un semn al adevărului”: o garanție pe care să se poată bizui. Rashi îl înțelege ca semn de recunoaștere, după care Israel o va cruța la cucerirea cetății; Metzudat David: un semn adevărat, ca să știe tot Israelul să nu pună mâna pe ei. Radak explică perechea din cererea ei: ceea ce face ea este „hesed”, bunătate fără datorie, căci iscoadele nu-i făcuseră niciun bine; de aceea cere pentru familia ei tot „hesed”, iar pentru ea însăși „adevăr”, adică plata cuvenită."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַתָּה הִשָּׁבְעוּ־נָא לִי בַּיהוָה...",
+      "translation": "„Și acum, jurați-mi, vă rog, pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ νῦν ὀμόσατέ μοι Κύριον τὸν Θεόν, ὅτι ποιῶ ὑμῖν ἔλεος καὶ ποιήσατε καὶ ὑμεῖς ἔλεος ἐν τῷ οἴκῳ τοῦ πατρός μου",
+      "greek": true,
+      "translation": "„Și acum jurați-mi pe Domnul Dumnezeu, că eu fac milă cu voi, și faceți și voi milă cu casa tatălui meu”",
+      "note": "Septuaginta nu are „și îmi veți da un semn de încredere”."
+     }
+    ],
+    "refs": [
+     "1 Samuel 20:14,15,17",
+     "1 Samuel 24:21,22",
+     "Geneza 24:3,9",
+     "Exod 12:13",
+     "Ezechiel 9:4-6",
+     "Iacov 2:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Un semn de încredere” — voi să-mi dați semnul, ca atunci când veți veni și veți cuceri cetatea să recunoașteți semnul și să mă lăsați în viață."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și acum” — de vreme ce lucrul e limpede. „Bunăvoință” — pentru că încă nu mi-ați făcut niciun bine. „Și voi vă veți purta” — de aceea și voi faceți bine casei tatălui meu, fără să fi primit de la ei vreun bine înainte. „Un semn de încredere” — un semn adevărat, ca să știe tot Israelul să nu pună mâna pe noi."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Deoarece m-am purtat cu bunăvoință față de voi” — hesed este binele pe care omul îl face altuia fără să i se datoreze nimic, iar ea le-a făcut bine ascunzându-i, căci ei nu-i făcuseră niciun bine până atunci; de aceea le-a spus: faceți și voi bine casei tatălui meu; și n-a spus „mie”, căci a o cruța pe ea este adevăr și datorie, fiindcă ea i-a cruțat pe ei, pe când a cruța casa tatălui ei este hesed. De aceea i-au spus și ei: „ne vom purta cu tine cu bunăvoință și adevăr”. „Un semn de încredere” — semnul pe care mi-l veți da să-l împliniți și să nu mă înșelați."
+     }
+    ]
+   },
+   {
+    "v": "2:13",
+    "t": "și îi veți păstra în viață pe tatăl meu, pe mama mea, pe frații mei și pe surorile mele și tot ceea ce este al lor și le veți scăpa sufletele de la moarte.”",
+    "heb": "וְהַחֲיִתֶם אֶת־אָבִי וְאֶת־אִמִּי וְאֶת־אַחַי וְאֶת־אַחְיוֹתַי וְאֵת כָּל־אֲשֶׁר לָהֶם וְהִצַּלְתֶּם אֶת־נַפְשֹׁתֵינוּ מִמָּוֶת׃",
+    "translit": "vehahaitem et-avi veet-imi veet-ahai veet-ahiotai veet kol-așer lahem vehițaltem et-nafșoteinu mimavet.",
+    "tokens": [
+     {
+      "t": "și îi veți păstra în viață pe tatăl meu, pe mama mea, pe frații mei și pe surorile mele și tot ceea ce este al lor și "
+     },
+     {
+      "t": "le veți scăpa",
+      "w": "le veți scăpa",
+      "heb": "וְהִצַּלְתֶּם",
+      "translit": "vehițaltem",
+      "strong": "H5337",
+      "pos": "verb, hifil, perfect consecutiv, persoana a II-a masculin plural",
+      "def_ro": "veți salva, veți scăpa.",
+      "dict_ro": "Națal (hifil: hițil) — „a smulge din primejdie, a salva”, același verb folosit pentru izbăvirea din Egipt (Exod 3:8). Rahav enumeră pe rând tatăl, mama, frații, surorile „și tot ce este al lor”: nu cere doar pentru ea, ci pentru toată casa. Cererea va fi împlinită întocmai la căderea Ierihonului (Iosua 6:23, 25), când iscoadele îi scot pe toți ai ei din cetate."
+     },
+     {
+      "t": " sufletele de la moarte.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהַחֲיִתֶם אֶת־אָבִי וְאֶת־אִמִּי וְאֶת־אַחַי...",
+      "translation": "„și îi veți păstra în viață...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ζωγρήσατε τὸν οἶκον τοῦ πατρός μου, τὴν μητέρα μου καὶ τοὺς ἀδελφούς μου καὶ πάντα τὸν οἶκόν μου καὶ πάντα, ὅσα ἐστὶν αὐτοῖς, καὶ ἐξελεῖσθε τὴν ψυχήν μου ἐκ θανάτου.",
+      "greek": true,
+      "translation": "„și cruțați casa tatălui meu, pe mama mea și pe frații mei și toată casa mea și tot ce este al lor, și veți scoate sufletul meu din moarte.”",
+      "note": "Septuaginta are „sufletul meu” în loc de „sufletele noastre” și adaugă „toată casa mea”."
+     }
+    ],
+    "refs": [],
+    "commentaries": []
+   },
+   {
+    "v": "2:14",
+    "t": "Bărbații i-au spus: „Sufletele noastre să moară în locul vostru, [dar doar] dacă nu vei dezvălui această discuție a noastră. Și va fi, atunci când DOMNUL ne va da țara, ne vom purta cu tine cu bunăvoință și adevăr.”",
+    "heb": "וַיֹּאמְרוּ לָהּ הָאֲנָשִׁים נַפְשֵׁנוּ תַחְתֵּיכֶם לָמוּת אִם לֹא תַגִּידוּ אֶת־דְּבָרֵנוּ זֶה וְהָיָה בְּתֵת־יְהוָה לָנוּ אֶת־הָאָרֶץ וְעָשִׂינוּ עִמָּךְ חֶסֶד וֶאֱמֶת׃",
+    "translit": "Vaiomru la haanașim nafșenu tahteihem lamut im lo taghidu et-devarenu ze vehaia betet-ADONAI lanu et-haareț veasinu imah hesed veemet.",
+    "tokens": [
+     {
+      "t": "Bărbații i-au spus: „Sufletele noastre să moară în locul vostru, [dar doar] dacă nu vei dezvălui această discuție a noastră. Și va fi, atunci când DOMNUL ne va da țara, ne vom purta cu tine cu "
+     },
+     {
+      "t": "bunăvoință și adevăr",
+      "w": "bunăvoință și adevăr",
+      "heb": "חֶסֶד וֶאֱמֶת",
+      "translit": "hesed veemet",
+      "strong": "H2617",
+      "pos": "substantiv + conjuncție + substantiv",
+      "def_ro": "bunătate statornică și credincioșie.",
+      "dict_ro": "Hesed veemet — perechea clasică a credincioșiei biblice: hesed e bunătatea care depășește datoria, emet — statornicia, fidelitatea față de cuvânt; împreună descriu purtarea lui Dumnezeu (Exod 34:6) și loialitatea dintre oameni (Geneza 24:49; 47:29). Metzudat David citește aici o nuanță fină: ea le-a făcut bine sperând la răsplată, dar ei îi vor face un „hesed al adevărului”, fără așteptarea vreunei răsplăți. „Dacă nu vei dezvălui” se referă, după Radak și Metzudat David, la semnul convenit — altfel și alții cu case pe zid l-ar fi folosit ca să scape."
+     },
+     {
+      "t": ".”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמְרוּ לָהּ הָאֲנָשִׁים נַפְשֵׁנוּ...",
+      "translation": "„Bărbații i-au spus: „Sufletele noastre să...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπαν αὐτῇ οἱ ἄνδρες· ἡ ψυχὴ ἡμῶν ἀνθ’ ὑμῶν εἰς θάνατον. καὶ αὐτὴ εἶπεν· ὡς ἂν παραδῷ Κύριος ὑμῖν τὴν πόλιν, ποιήσετε εἰς ἐμὲ ἔλεος καὶ ἀλήθειαν.",
+      "greek": true,
+      "translation": "„Și i-au zis bărbații: Sufletul nostru pentru voi la moarte! Iar ea a zis: Când vă va da Domnul cetatea, să faceți cu mine milă și adevăr.”",
+      "note": "Divergență reală: în Septuaginta a doua parte a versetului e rostită de Rahav („când vă va da Domnul cetatea, să faceți...”), iar condiția „dacă nu vei dezvălui această discuție” lipsește."
+     }
+    ],
+    "refs": [
+     "Iosua 6:17,25",
+     "Geneza 24:49",
+     "Judecători 1:24,25",
+     "1 Samuel 20:8",
+     "2 Samuel 9:1",
+     "Matei 5:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Sufletele noastre” — dacă cineva va vrea să pună mâna pe voi, ne vom da viața ca să vă salvăm. „Această discuție a noastră” — semnul pe care îl ceri și care ți se va da; căci dacă îl vei spune altora, mulți îl vor face ca să se salveze. „Bunăvoință și adevăr” — tu ne-ai făcut bine, dar ai așteptat răsplată; noi însă îți vom face un bine al adevărului, fără speranță de răsplată."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Sufletele noastre să moară în locul vostru” — ne vom da viața în locul vostru celui care va vrea să vă omoare. „Dacă nu vei dezvălui această discuție a noastră” — nu vorbeau despre faptul că fuseseră în casa ei, căci nu o bănuiau că îi va trăda după plecare, de vreme ce îi acoperise față de trimișii regelui; ci ce i-au spus să nu dezvăluie era semnul pe care îl aveau cu ea, căci dacă l-ar fi spus, l-ar fi făcut și alții care aveau case pe zid, ca să se salveze, iar ei s-ar fi înșelat."
+     }
+    ]
+   },
+   {
+    "v": "2:15",
+    "t": "Și ea i-a coborât cu o frânghie printr-o fereastră, căci casa ei se afla în zidul fortăreței și în fortăreață locuia.",
+    "heb": "וַתּוֹרִדֵם בַּחֶבֶל בְּעַד הַחַלּוֹן כִּי בֵיתָהּ בְּקִיר הַחוֹמָה וּבַחוֹמָה הִיא יוֹשָׁבֶת׃",
+    "translit": "Vatoridem bahevel bead hahalon ki veita bekir hahoma uvahoma hi ioșavet.",
+    "tokens": [
+     {
+      "t": "Și ea i-a coborât "
+     },
+     {
+      "t": "cu o frânghie",
+      "w": "cu o frânghie",
+      "heb": "בַּחֶבֶל",
+      "translit": "bahevel",
+      "strong": "H2256",
+      "pos": "prepoziție + substantiv, masculin singular, cu articol",
+      "def_ro": "cu frânghia.",
+      "dict_ro": "Hevel — frânghia, funia (și, prin extensie, „partea măsurată cu funia”, lotul de moștenire). Casa lui Rahav era construită în grosimea zidului, cu fereastra spre exterior — de aceea putea să-i coboare afară, chiar cu porțile închise. Scena are paralele: Mical îl coboară pe David pe fereastră (1 Samuel 19:12), iar ucenicii îl coboară pe Pavel peste zidul Damascului într-un coș (Faptele Apostolilor 9:25). Rashi redă rugăciunea ei, după tradiția înțelepților: „cu acestea am păcătuit, cu acestea iartă-mă”."
+     },
+     {
+      "t": " printr-o fereastră, căci casa ei se afla în zidul fortăreței și în fortăreață locuia."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתּוֹרִדֵם בַּחֶבֶל בְּעַד הַחַלּוֹן...",
+      "translation": "„Și ea i-a coborât cu o...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ κατεχάλασεν αὐτοὺς διὰ τῆς θυρίδος",
+      "greek": true,
+      "translation": "„Și i-a coborât pe fereastră.”",
+      "note": "Divergență reală: Septuaginta are doar „și i-a coborât pe fereastră”, fără frânghie și fără explicația despre casa din zid."
+     }
+    ],
+    "refs": [
+     "1 Samuel 19:12-17",
+     "Faptele Apostolilor 9:25",
+     "2 Corinteni 11:33",
+     "Iosua 6:20"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și ea i-a coborât cu o frânghie” — cu aceeași frânghie și prin aceeași fereastră pe care urcau la ea admiratorii ei. Ea a spus: „Stăpâne al lumii, cu acestea am păcătuit, cu acestea iartă-mă”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Printr-o fereastră” — căci porțile cetății erau închise. „Se afla în zidul fortăreței” — fața ferestrei dădea în afara zidului."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și ea i-a coborât cu o frânghie” — ca să nu simtă vecinii, dacă ar fi ieșit pe ușa casei ei, deschizând-o încă noaptea, după ce o închiseseră; de aceea i-a coborât cu frânghia pe fereastră; iar aceasta a fost când a terminat de vorbit cu ei sau după ce au dormit puțin. „Și în fortăreață locuia” — deși avea o casă în zid, s-ar fi putut ca locuința ei principală să fie în cetate; de aceea a spus „și în fortăreață locuia”."
+     },
+     {
+      "author": "Talmud Bavli, Zevahim 116b",
+      "text": "Înțelepții au spus despre Rahav: avea zece ani când au ieșit copiii lui Israel din Egipt și a trăit în desfrânare toți cei patruzeci de ani cât a fost Israelul în pustie; după aceea, la cincizeci de ani, s-a convertit, când au venit la ea cele două iscoade. Ea a spus: să-mi fie iertate toate păcatele, ca răsplată pentru că m-am pus în primejdie cu frânghia, fereastra și inul, prin care am salvat cele două iscoade ale lui Ioșua."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Bekir” — în perete."
+     }
+    ]
+   },
+   {
+    "v": "2:16",
+    "t": "Și le-a spus: „Mergeți la munte, ca nu cumva urmăritorii voștri să vă găsească. Ascundeți-vă acolo vreme de trei zile, până când se vor întoarce urmăritorii voștri, și apoi puteți merge pe drumul vostru.”",
+    "heb": "וַתֹּאמֶר לָהֶם הָהָרָה לֵּכוּ פֶּן־יִפְגְּעוּ בָכֶם הָרֹדְפִים וְנַחְבֵּתֶם שָׁמָּה שְׁלֹשֶׁת יָמִים עַד שׁוֹב הָרֹדְפִים וְאַחַר תֵּלְכוּ לְדַרְכְּכֶם׃",
+    "translit": "Vatomer lahem hahara lehu pen-ifgheu vahem harodfim venahbetem șama șeloșet iamim ad șov harodfim veahar telhu ledarkehem.",
+    "tokens": [
+     {
+      "t": "Și le-a spus: „Mergeți la munte, ca nu cumva urmăritorii voștri să vă găsească. "
+     },
+     {
+      "t": "Ascundeți-vă",
+      "w": "Ascundeți-vă",
+      "heb": "וְנַחְבֵּתֶם",
+      "translit": "venahbetem",
+      "strong": "H2244",
+      "pos": "verb, nifal, perfect consecutiv, persoana a II-a masculin plural",
+      "def_ro": "vă veți ascunde, ascundeți-vă.",
+      "dict_ro": "Hava — „a se ascunde”; forma de aici e neobișnuită, fără alef, cum observă Radak. Sfatul lui Rahav e contrar instinctului: nu spre Iordan, unde îi caută urmăritorii, ci spre munții de la apus de Ierihon, pentru trei zile. De unde știa că se vor întoarce după trei zile? Rashi răspunde, după înțelepți: a avut duh sfânt. Radak aduce și o explicație după sensul simplu: a socotit o zi până la Iordan, căutarea pe drum și întoarcerea — cam trei zile."
+     },
+     {
+      "t": " acolo vreme de trei zile, până când se vor întoarce urmăritorii voștri, și apoi puteți merge pe drumul vostru.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֹּאמֶר לָהֶם הָהָרָה לֵּכוּ...",
+      "translation": "„Și le-a spus: „Mergeți la munte...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν αὐτοῖς· εἰς τὴν ὀρεινὴν ἀπέλθετε, μὴ συναντήσωσιν ὑμῖν οἱ καταδιώκοντες, καὶ κρυβήσεσθε ἐκεῖ τρεῖς ἡμέρας, ἕως ἂν ἀποστρέψωσιν οἱ καταδιώκοντες ὀπίσω ὑμῶν, καὶ μετὰ ταῦτα ἀπελεύσεσθε εἰς τὴν ὁδὸν ὑμῶν.",
+      "greek": true,
+      "translation": "„Și le-a zis: Mergeți în ținutul muntos, ca să nu vă întâlnească urmăritorii, și vă veți ascunde acolo trei zile, până se vor întoarce urmăritorii de după voi, și după aceea vă veți duce în drumul vostru.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Iosua 2:22",
+     "Psalmul 11:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Până când se vor întoarce urmăritorii voștri” — de unde putea ea să știe că urmăritorii se vor întoarce după trei zile? Trebuie să fi avut duh sfânt ca să știe aceasta."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ca nu cumva... să vă găsească” — când veți merge acum pe drumul vostru, ca nu cumva să vă întâlnească urmăritorii la întoarcere. „Acolo” — în munte."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ascundeți-vă acolo” — fără alef, sau rădăcina e cu he. „Trei zile” — înțelepții noștri au spus: aceasta arată că duhul sfânt s-a odihnit asupra lui Rahav, că se vor întoarce după trei zile, căci de unde ar fi știut altfel? Dar după sensul simplu, a spus-o din judecată: de la Ierihon până la Iordan e o zi sau ceva mai mult, și a socotit că, între mers, întoarcere și cercetarea întregului drum, vor fi trei zile."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Yifghe'u” — cu sensul de întâlnire. „Venahbetem” — din „ascunzătoare”, adică să vă ascundeți într-un loc tainic."
+     }
+    ]
+   },
+   {
+    "v": "2:17",
+    "t": "Bărbații i-au spus: „Vom fi dezlegați de jurământul acesta al tău pe care ne-ai pus să-l jurăm, [afară de cazul când]",
+    "heb": "וַיֹּאמְרוּ אֵלֶיהָ הָאֲנָשִׁים נְקִיִּם אֲנַחְנוּ מִשְּׁבֻעָתֵךְ הַזֶּה אֲשֶׁר הִשְׁבַּעְתָּנוּ׃",
+    "translit": "Vaiomru eleha haanașim nekiim anahnu mișvuateh haze așer hișbatanu.",
+    "tokens": [
+     {
+      "t": "Bărbații i-au spus: „Vom fi "
+     },
+     {
+      "t": "dezlegați",
+      "w": "dezlegați",
+      "heb": "נְקִיִּם",
+      "translit": "nekiim",
+      "strong": "H5355",
+      "pos": "adjectiv, masculin plural",
+      "def_ro": "nevinovați, liberi de obligație.",
+      "dict_ro": "Naki — „curat, nevinovat”, apoi „scutit de o obligație” (Geneza 24:8, 41, unde slujitorul lui Avraam e „dezlegat” de jurământ dacă femeia nu vrea să vină). Iscoadele, care jurăseră deja, precizează acum condițiile ca să nu calce jurământul fără voie — Metzudat David: „vrem să fim curați de vina călcării jurământului, de aceea explicăm bine lucrul”. Rashi: „ne bizuim pe tine să faci semnul acesta”."
+     },
+     {
+      "t": " de jurământul acesta al tău pe care ne-ai pus să-l jurăm, [afară de cazul când]"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמְרוּ אֵלֶיהָ הָאֲנָשִׁים נְקִיִּם...",
+      "translation": "„Bărbații i-au spus: „Vom fi dezlegați...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπαν πρὸς αὐτὴν οἱ ἄνδρες· ἀθῷοί ἐσμεν τῷ ὅρκῳ σου τούτῳ·",
+      "greek": true,
+      "translation": "„Și i-au zis bărbații: Nevinovați suntem față de jurământul tău acesta;”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Iosua 2:20",
+     "Geneza 24:3-8",
+     "Exod 20:7",
+     "Levitic 19:11,12",
+     "2 Samuel 21:1,2,7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Vom fi dezlegați” — punem lucrul acesta pe seama ta, ne bizuim pe tine să faci semnul acesta."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Dezlegați” — adică vrem să fim curați de vina anulării jurământului, și de aceea vom explica bine lucrul."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Vom fi dezlegați” — adică cu această condiție. „De jurământul acesta al tău” — și, deși Scriptura nu povestește că i-au jurat, de vreme ce ea le-a spus „jurați-mi”, se vede că i-au jurat când i-au spus „sufletele noastre să moară în locul vostru”; iar după ce au coborât i-au spus aceasta, au repetat condiția și i-au dat semnul."
+     }
+    ]
+   },
+   {
+    "v": "2:18",
+    "t": "iată, atunci când venim în țară, tu vei lega această frânghie cărămizie la fereastra prin care ne-ai coborât, iar pe tatăl tău, pe mama ta, pe frații tăi și toată familia tatălui tău îi vei aduna la tine în casă.",
+    "heb": "הִנֵּה אֲנַחְנוּ בָאִים בָּאָרֶץ אֶת־תִּקְוַת חוּט הַשָּׁנִי הַזֶּה תִּקְשְׁרִי בַּחַלּוֹן אֲשֶׁר הוֹרַדְתֵּנוּ בוֹ וְאֶת־אָבִיךְ וְאֶת־אִמֵּךְ וְאֶת־אַחַיִךְ וְאֵת כָּל־בֵּית אָבִיךְ תַּאַסְפִי אֵלַיִךְ הַבָּיְתָה׃",
+    "translit": "hine anahnu vaim baareț et-tikvat huț hașani haze tikșeri bahalon așer horadetenu vo veet-avih veet-imeh veet-ahaih veet kol-beit avih taasfi elaih habaita.",
+    "tokens": [
+     {
+      "t": "iată, atunci când venim în țară, tu vei lega această "
+     },
+     {
+      "t": "frânghie cărămizie",
+      "w": "frânghie cărămizie",
+      "heb": "תִּקְוַת חוּט הַשָּׁנִי",
+      "translit": "tikvat hut hașani",
+      "strong": "H8615",
+      "pos": "substantiv, în construcție + substantiv + substantiv cu articol",
+      "def_ro": "funie de fir stacojiu.",
+      "dict_ro": "Tikva — aici „funie, sfoară” (de la kav, „fir, sfoară de măsurat”), dar același cuvânt înseamnă și „speranță”: frânghia lui Rahav e, literal, o „speranță” legată la fereastră. Șani e culoarea stacojie obținută din coșenilă (tola'at șani), folosită la Cort (Exod 25:4), la curățirea leprosului (Levitic 14:4) și la vaca roșie (Numeri 19:6). Talmudul (Meghila 14b) leagă cuvântul tikvat de „Hulda, fiica lui Tikva” (2 Regi 22:14) și spune că din Rahav s-au născut opt profeți și preoți, printre ei Ieremia, iar ea însăși s-a convertit și s-a căsătorit cu Ioșua. Mulți Părinți ai Bisericii au văzut în firul roșu o prefigurare a sângelui lui Hristos."
+     },
+     {
+      "t": " la fereastra prin care ne-ai coborât, iar pe tatăl tău, pe mama ta, pe frații tăi și toată familia tatălui tău îi vei aduna la tine în casă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנֵּה אֲנַחְנוּ בָאִים בָּאָרֶץ...",
+      "translation": "„iată, atunci când venim în țară...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἰδοὺ ἡμεῖς εἰσπορευόμεθα εἰς μέρος τῆς πόλεως, καὶ θήσεις τὸ σημεῖον, τὸ σπαρτίον τὸ κόκκινον τοῦτο ἐκδήσεις εἰς τὴν θυρίδα, δι’ ἧς κατεβίβασας ἡμᾶς δι’ αὐτῆς, τὸν δὲ πατέρα σου καὶ τὴν μητέρα σου καὶ τοὺς ἀδελφούς σου καὶ πάντα τὸν οἶκον τοῦ πατρός σου συνάξεις πρὸς σεαυτὴν εἰς τὴν οἰκίαν σου.",
+      "greek": true,
+      "translation": "„iată, noi intrăm într-o parte a cetății, iar tu vei pune semnul: această sfoară roșie o vei lega la fereastra prin care ne-ai coborât; iar pe tatăl tău și pe mama ta și pe frații tăi și toată casa tatălui tău îi vei aduna la tine în casa ta.”",
+      "note": "Septuaginta are „intrăm într-o parte a cetății” și adaugă explicit „vei pune semnul”."
+     }
+    ],
+    "refs": [
+     "Iosua 2:21",
+     "Levitic 14:4",
+     "Evrei 9:19",
+     "Iosua 6:23",
+     "Geneza 19:12-17",
+     "Faptele Apostolilor 11:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Frânghie cărămizie” — tikvat înseamnă sfoară sau funie."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Atunci când venim” — adică atunci când vom intra în țară. „Această” — prin care ne-ai coborât. „Vei lega” — ca să fie un semn și un însemn. „Prin care” — se leagă de fereastră, adică: prin ea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Frânghie cărămizie” — adică o sfoară răsucită și făcută din fire stacojii; iar Targumul lui Ionatan traduce „tivul firului stacojiu”, deci după el ar fi marginea unei haine roșii; iar „aceasta” au spus-o pentru că o văzuseră în casă înainte să coboare; și unii explică tikvat ca în „s-au sfârșit fără nădejde (tikva)” — cu sensul de fir și funie."
+     },
+     {
+      "author": "Talmud Bavli, Meghila 14b",
+      "text": "Opt profeți, care erau și preoți, s-au născut din Rahav desfrânata: Neria, Baruh, Seraia, Mahseia, Ieremia, Hilchia, Hanameel și Șalum. Rabi Iehuda a spus: și Hulda profetesa era din urmașii lui Rahav, căci e scris aici „fiul lui Tikva” (2 Regi 22:14), iar acolo „această frânghie (tikvat) cărămizie” (Iosua 2:18). Rav Nahman a spus: Rahav s-a convertit și s-a căsătorit cu Ioșua."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tikvat” — din „sfoară și funie”, și tot așa „întinde sfoara” (Isaia 44:13). „Hașani” — adică vopsit în roșu, ca în „stacojiu” (Exod 25:4). „Taasfi” — cu sensul de adunare înăuntru, ca în „nimeni nu i-a primit în casă” (Judecători 19:15)."
+     }
+    ]
+   },
+   {
+    "v": "2:19",
+    "t": "Și va fi că dacă oricine va ieși pe ușile casei tale, afară, sângele lui va fi asupra capului lui, iar noi vom fi nevinovați. Dar oricine este cu tine în casă, sângele lui să fie asupra capului nostru, dacă se va ridica vreo mână asupra lui.",
+    "heb": "וְהָיָה כֹּל אֲשֶׁר־יֵצֵא מִדַּלְתֵי בֵיתֵךְ הַחוּצָה דָּמוֹ בְרֹאשׁוֹ וַאֲנַחְנוּ נְקִיִּם וְכֹל אֲשֶׁר יִהְיֶה אִתָּךְ בַּבַּיִת דָּמוֹ בְרֹאשֵׁנוּ אִם־יָד תִּהְיֶה־בּוֹ׃",
+    "translit": "Vehaia kol așer-iețe midaltei veiteh hahuța damo veroșo vaanahnu nekiim vehol așer ihie itah babait damo veroșenu im-iad tihie-bo.",
+    "tokens": [
+     {
+      "t": "Și va fi că dacă oricine va ieși pe ușile casei tale, afară, "
+     },
+     {
+      "t": "sângele lui",
+      "w": "sângele lui",
+      "heb": "דָּמוֹ",
+      "translit": "damo",
+      "strong": "H1818",
+      "pos": "substantiv, masculin singular + sufix persoana a III-a masculin singular",
+      "def_ro": "sângele lui (vina morții lui).",
+      "dict_ro": "Dam — sângele, iar în expresia „sângele lui asupra capului lui” — vina morții: cine iese din casă își poartă singur răspunderea. Rashi explică: „vina uciderii lui e asupra lui, căci el și-a pricinuit moartea”; iar pentru cei rămași înăuntru, iscoadele își asumă răspunderea: „sângele lui asupra capului nostru”. Casa lui Rahav devine, ca în noaptea Paștelui (Exod 12:22-23), un loc al ocrotirii: în ea ești apărat, în afara ei nu."
+     },
+     {
+      "t": " va fi asupra capului lui, iar noi vom fi nevinovați. Dar oricine este cu tine în casă, sângele lui să fie asupra capului nostru, dacă se va ridica vreo mână asupra lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָיָה כֹּל אֲשֶׁר־יֵצֵא מִדַּלְתֵי...",
+      "translation": "„Și va fi că dacă oricine...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔσται πᾶς, ὃς ἂν ἐξέλθῃ τὴν θύραν τῆς οἰκίας σου ἔξω, ἔνοχος ἑαυτῷ ἔσται, ἡμεῖς δὲ ἀθῷοι τῷ ὅρκῳ σου τούτῳ. καὶ ὅσοι ἐὰν γένωνται μετὰ σοῦ ἐν τῇ οἰκίᾳ σου, ἡμεῖς ἔνοχοι ἐσόμεθα.",
+      "greek": true,
+      "translation": "„Și va fi: oricine va ieși pe ușa casei tale afară, vinovat își va fi sieși, iar noi vom fi nevinovați de jurământul tău acesta; și câți vor fi cu tine în casa ta, noi vom fi vinovați.”",
+      "note": "Septuaginta traduce idiomul „sângele lui asupra capului lui” prin „vinovat își va fi sieși” (ἔνοχος ἑαυτῷ)."
+     }
+    ],
+    "refs": [
+     "Exod 12:13,23",
+     "Numeri 35:26-28",
+     "1 Regi 2:36-42",
+     "2 Samuel 1:16",
+     "Ezechiel 33:4,5",
+     "Faptele Apostolilor 18:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Sângele lui va fi asupra capului lui” — vina uciderii lui e asupra lui însuși, căci el și-a pricinuit moartea. „Sângele lui să fie asupra capului nostru” — vina uciderii lui va fi asupra noastră."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Sângele lui va fi asupra capului lui” — adică vina morții lui e asupra lui, căci a păcătuit față de propria viață. „Iar noi vom fi nevinovați” — căci nu ar fi fost cu putință să-l păzim de moarte."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Sângele lui va fi asupra capului lui” — el s-a făcut vinovat de propriul sânge, pentru că nu s-a păzit."
+     }
+    ]
+   },
+   {
+    "v": "2:20",
+    "t": "Dar dacă vei vorbi de discuția aceasta a noastră, suntem dezlegați de jurământul tău pe care ne-ai pus să-l jurăm.”",
+    "heb": "וְאִם־תַּגִּידִי אֶת־דְּבָרֵנוּ זֶה וְהָיִינוּ נְקִיִּם מִשְּׁבֻעָתֵךְ אֲשֶׁר הִשְׁבַּעְתָּנוּ׃",
+    "translit": "Veim-taghidi et-devarenu ze vehainu nekiim mișvuateh așer hișbatanu.",
+    "tokens": [
+     {
+      "t": "Dar dacă vei vorbi de discuția aceasta a noastră, suntem dezlegați de "
+     },
+     {
+      "t": "jurământul tău",
+      "w": "jurământul tău",
+      "heb": "מִשְּׁבֻעָתֵךְ",
+      "translit": "mișevuateh",
+      "strong": "H7621",
+      "pos": "prepoziție + substantiv, feminin singular + sufix persoana a II-a feminin",
+      "def_ro": "jurământul tău (cel cerut de tine).",
+      "dict_ro": "Șevua — jurământul, înrudit cu șeva, „șapte”, legătură pe care o ilustrează jurământul de la Beer-Șeba, pecetluit cu șapte mielușele (Geneza 21:28-31). Iscoadele îl numesc „jurământul tău”, pentru că ea l-a cerut și ea le-a dictat termenii. A treia condiție încheie lista: frânghia la fereastră, familia înăuntru, iar semnul să rămână secret. Metzudat David precizează că „discuția noastră” este tocmai semnul și însemnul convenit."
+     },
+     {
+      "t": " pe care ne-ai pus să-l jurăm.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאִם־תַּגִּידִי אֶת־דְּבָרֵנוּ זֶה וְהָיִינוּ...",
+      "translation": "„Dar dacă vei vorbi de discuția...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐὰν δέ τις ἡμᾶς ἀδικήσῃ ἢ καὶ ἀποκαλύψῃ τοὺς λόγους ἡμῶν τούτους, ἐσόμεθα ἀθῷοι τῷ ὅρκῳ σου τούτῳ.",
+      "greek": true,
+      "translation": "„Iar dacă cineva ne va face nedreptate, sau dacă vei dezvălui cuvintele noastre acestea, vom fi nevinovați de jurământul tău acesta.”",
+      "note": "Septuaginta adaugă o condiție: „dacă cineva ne va face nedreptate”."
+     }
+    ],
+    "refs": [
+     "Proverbe 11:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Aceasta” — semnul și însemnul acesta."
+     }
+    ]
+   },
+   {
+    "v": "2:21",
+    "t": "Ea le-a spus: „Precum vorbele voastre, așa să fie!” și i-a lăsat să plece și ei au plecat; și ea a legat frânghia cărămizie la fereastră.",
+    "heb": "וַתֹּאמֶר כְּדִבְרֵיכֶם כֵּן־הוּא וַתְּשַׁלְּחֵם וַיֵּלֵכוּ וַתִּקְשֹׁר אֶת־תִּקְוַת הַשָּׁנִי בַּחַלּוֹן׃",
+    "translit": "Vatomer kedivreichem ken-hu vateșalehem vaièlehu vatikșor et-tikvat hașani bahalon.",
+    "tokens": [
+     {
+      "t": "Ea le-a spus: „Precum vorbele voastre, așa să fie!” și i-a lăsat să plece și ei au plecat; și ea a legat frânghia cărămizie la "
+     },
+     {
+      "t": "fereastră",
+      "w": "fereastră",
+      "heb": "בַּחַלּוֹן",
+      "translit": "bahalon",
+      "strong": "H2474",
+      "pos": "prepoziție + substantiv, masculin singular, cu articol",
+      "def_ro": "la fereastră.",
+      "dict_ro": "Halon — fereastra, de la halal, „a găuri, a străpunge”: o deschizătură în zid. Fereastra prin care Rahav a salvat iscoadele devine locul semnului care o va salva pe ea. Radak și Metzudat David explică timpul verbului: nu a legat frânghia în clipa aceea, ci Scriptura povestește dinainte că așa a făcut, la vremea cuceririi cetății; Metzudat David observă și că „i-a lăsat să plece” se spune pentru că au mers la munte după sfatul ei."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתֹּאמֶר כְּדִבְרֵיכֶם כֵּן־הוּא וַתְּשַׁלְּחֵם...",
+      "translation": "„Ea le-a spus: „Precum vorbele voastre...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν αὐτοῖς· κατὰ τὸ ῥῆμα ὑμῶν ἔστω· καὶ ἐξαπέστειλεν αὐτούς.",
+      "greek": true,
+      "translation": "„Și le-a zis: Să fie după cuvântul vostru. Și i-a trimis.”",
+      "note": "Septuaginta nu are „și ei au plecat; și ea a legat frânghia cărămizie la fereastră”."
+     }
+    ],
+    "refs": [
+     "Iosua 2:18",
+     "Matei 7:24",
+     "Ioan 2:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Așa să fie” — adică aceasta e calea cea dreaptă. „Și i-a lăsat să plece” — pentru că au mers la munte după sfatul ei, a spus „i-a lăsat să plece”. „Și ea a legat” — atunci când a venit Israel în țară."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și i-a lăsat să plece” — cu vorba, adică le-a spus: mergeți în pace. „Și ea a legat” — nu a legat-o acum, după ce au ieșit, ci Scriptura povestește că așa a făcut, cum i-au poruncit, adică a legat frânghia la fereastră la vremea cuceririi cetății."
+     }
+    ]
+   },
+   {
+    "v": "2:22",
+    "t": "Ei au plecat și au ajuns la munte și au stat acolo trei zile, până s-au întors urmăritorii. Urmăritorii au căutat de-a lungul drumului, dar nu i-au găsit.",
+    "heb": "וַיֵּלְכוּ וַיָּבֹאוּ הָהָרָה וַיֵּשְׁבוּ שָׁם שְׁלֹשֶׁת יָמִים עַד־שָׁבוּ הָרֹדְפִים וַיְבַקְשׁוּ הָרֹדְפִים בְּכָל־הַדֶּרֶךְ וְלֹא מָצָאוּ׃",
+    "translit": "Vaièlhu vaiavou hahara vaièșvu șam șeloșet iamim ad-șavu harodfim vaievakșu harodfim behol-hadereh velo mațau.",
+    "tokens": [
+     {
+      "t": "Ei au plecat și au ajuns "
+     },
+     {
+      "t": "la munte",
+      "w": "la munte",
+      "heb": "הָהָרָה",
+      "translit": "hahara",
+      "strong": "H2022",
+      "pos": "substantiv, masculin singular, cu articol + he direcțional",
+      "def_ro": "spre munte, în munte.",
+      "dict_ro": "Har — muntele; forma hahara are sufixul care arată direcția: „spre munte”. Probabil e vorba de dealurile de calcar de la apus de Ierihon, pline de peșteri, unde era ușor să te ascunzi. Iscoadele urmează întocmai sfatul lui Rahav, iar urmăritorii caută „de-a lungul drumului” spre Iordan — sfatul ei se dovedește exact."
+     },
+     {
+      "t": " și au stat acolo trei zile, până s-au întors urmăritorii. Urmăritorii au căutat de-a lungul drumului, dar nu i-au găsit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּלְכוּ וַיָּבֹאוּ הָהָרָה וַיֵּשְׁבוּ...",
+      "translation": "„Ei au plecat și au ajuns...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπορεύθησαν καὶ ἤλθοσαν εἰς τὴν ὀρεινὴν καὶ κατέμειναν ἐκεῖ τρεῖς ἡμέρας· καὶ ἐξεζήτησαν οἱ καταδιώκοντες πάσας τὰς ὁδοὺς καὶ οὐχ εὕροσαν.",
+      "greek": true,
+      "translation": "„Și s-au dus și au venit în ținutul muntos și au rămas acolo trei zile; și urmăritorii au căutat pe toate drumurile și nu i-au găsit.”",
+      "note": "Septuaginta nu are „până s-au întors urmăritorii”."
+     }
+    ],
+    "refs": [
+     "1 Samuel 19:10-12",
+     "2 Samuel 17:20",
+     "Psalmul 32:6,7"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "2:23",
+    "t": "Cei doi bărbați s-au întors și au coborât de pe munte, au trecut dincolo [de Iordan] și au venit la Ioșua, fiul lui Nun, și i-au spus tot ce li se întâmplase.",
+    "heb": "וַיָּשֻׁבוּ שְׁנֵי הָאֲנָשִׁים וַיֵּרְדוּ מֵהָהָר וַיַּעַבְרוּ וַיָּבֹאוּ אֶל־יְהוֹשֻׁעַ בִּן־נוּן וַיְסַפְּרוּ־לוֹ אֵת כָּל־הַמֹּצְאוֹת אוֹתָם׃",
+    "translit": "Vaiasuvu șenei haanașim vaièrdu mehahar vaiaavru vaiavou el-Iehoșua bin-Nun vaiesapru-lo et kol-hamoțot otam.",
+    "tokens": [
+     {
+      "t": "Cei doi bărbați s-au întors și au coborât de pe munte, "
+     },
+     {
+      "t": "au trecut dincolo",
+      "w": "au trecut dincolo",
+      "heb": "וַיַּעַבְרוּ",
+      "translit": "vaiavru",
+      "strong": "H5674",
+      "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin plural",
+      "def_ro": "au trecut (râul).",
+      "dict_ro": "Avar — „a trece”, verbul din care vine și ivri, „evreu” (Avraam, cel „de dincolo” de râu, Iosua 24:2-3). Rashi precizează că au trecut Iordanul. Întoarcerea iscoadelor lui Ioșua contrastează cu a celor douăsprezece iscoade ale lui Moise din pericopa Șelah: acelea s-au întors după patruzeci de zile cu un raport care a speriat poporul; acestea, după trei zile, cu un raport scurt și plin de încredere. Radak explică: s-au întors pe drum, după ce stătuseră ascunși în munte."
+     },
+     {
+      "t": " [de Iordan] și au venit la Ioșua, fiul lui Nun, și i-au spus tot ce li se întâmplase."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּשֻׁבוּ שְׁנֵי הָאֲנָשִׁים וַיֵּרְדוּ...",
+      "translation": "„Cei doi bărbați s-au întors și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ὑπέστρεψαν οἱ δύο νεανίσκοι καὶ κατέβησαν ἐκ τοῦ ὄρους καὶ διέβησαν πρὸς ᾿Ιησοῦν υἱὸν Ναυὴ καὶ διηγήσαντο αὐτῷ πάντα τὰ συμβεβηκότα αὐτοῖς.",
+      "greek": true,
+      "translation": "„Și s-au întors cei doi tineri și au coborât din munte și au trecut la Iisus, fiul lui Navi, și i-au povestit toate cele întâmplate lor.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Au trecut dincolo” — de râul Iordan."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „S-au întors” — s-au întors la drum, căci fuseseră ascunși în munte de frica urmăritorilor, iar la capătul celor trei zile au ieșit din ascunzătoare și s-au întors la drum ca să meargă în calea lor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hamoțeot” — ceea ce li se întâmplase."
+     }
+    ]
+   },
+   {
+    "v": "2:24",
+    "t": "Și i-au spus lui Ioșua: „Căci DOMNUL a dat toată țara în mâinile noastre, iar locuitorii țării au pălit înaintea noastră.",
+    "heb": "וַיֹּאמְרוּ אֶל־יְהוֹשֻׁעַ כִּי־נָתַן יְהוָה בְּיָדֵנוּ אֶת־כָּל־הָאָרֶץ וְגַם־נָמֹגוּ כָּל־יֹשְׁבֵי הָאָרֶץ מִפָּנֵינוּ׃",
+    "translit": "Vaiomru el-Iehoșua ki-natan ADONAI beiadenu et-kol-haareț vegam-namogu kol-ioșvei haareț mipanenu.",
+    "tokens": [
+     {
+      "t": "Și i-au spus lui Ioșua: „Căci DOMNUL a dat toată țara în mâinile noastre, iar locuitorii țării "
+     },
+     {
+      "t": "au pălit",
+      "w": "au pălit",
+      "heb": "נָמֹגוּ",
+      "translit": "namogu",
+      "strong": "H4127",
+      "pos": "verb, nifal, perfect, persoana a III-a plural",
+      "def_ro": "s-au topit, și-au pierdut curajul.",
+      "dict_ro": "Mug — „a se topi, a se înmuia” (despre pământ sub ploaie, Psalmul 65:11, sau despre inimi de frică). Raportul iscoadelor reia exact cuvintele lui Rahav (2:9) — „au pălit toți locuitorii țării” — și, prin ea, cuvintele Cântării de la Mare (Exod 15:15). Cu acest verset, care e răspunsul la raportul descurajator al iscoadelor din pericopa Șelah (Numeri 13:31-33), se încheie și haftara. Metzudat David: după ce au povestit toate întâmplările, au spus concluzia: „DOMNUL a dat toată țara în mâinile noastre”."
+     },
+     {
+      "t": " înaintea noastră."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמְרוּ אֶל־יְהוֹשֻׁעַ כִּי־נָתַן יְהוָה...",
+      "translation": "„Și i-au spus lui Ioșua: „Căci...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπαν πρὸς ᾿Ιησοῦν ὅτι παραδέδωκε Κύριος πᾶσαν τὴν γῆν ἐν χειρὶ ἡμῶν, καὶ κατέπτηχε πᾶς ὁ κατοικῶν τὴν γῆν ἐκείνην ἀφ’ ἡμῶν.",
+      "greek": true,
+      "translation": "„Și au zis către Iisus: Domnul a dat toată țara în mâna noastră, și s-a ghemuit de frică tot cel ce locuiește țara aceea dinaintea noastră.”",
+      "note": "Corespondență strânsă; Septuaginta redă „au pălit” prin „s-a ghemuit de frică” (κατέπτηχε)."
+     }
+    ],
+    "refs": [
+     "Iosua 21:44,45",
+     "Exod 23:31",
+     "Numeri 13:32,33",
+     "Proverbe 25:13",
+     "Iosua 5:1",
+     "Exod 15:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Căci DOMNUL a dat” — în versetul dinainte s-a spus că i-au povestit întâmplările lor, iar când au terminat de povestit, au spus: iată, sfârșitul lucrului este că DOMNUL a dat..."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și i-au spus lui Ioșua: căci DOMNUL a dat” — acesta este sfârșitul cuvintelor lor, din ceea ce i-au povestit; căci cuvântul „căci” (ki) este explicația celor dinainte."
+     }
+    ]
+   }
+  ]
  }
  ]
 }
