@@ -2319,6 +2319,12 @@
     padding-top:10px;
     border-top:1px solid var(--line);
   }
+  .pericope-title-meaning{
+    text-transform:none;
+    letter-spacing:0.01em;
+    font-weight:600;
+    color:var(--gold);
+  }
   .pericope-essays-integrated{
     margin-top:16px;
     padding-top:12px;
@@ -4100,6 +4106,7 @@ function showRefPreview(refText, anchorEl){
   textEl.style.fontSize = Math.min(14, refPrefs.size) + "px";
 
   titleEl.textContent = refText;
+  document.getElementById("ref-preview-go").style.display = "";
   textEl.textContent = "Se \u00eencarc\u0103\u2026";
   pendingRefNav = parsed;
   popover.classList.add("show");
@@ -5707,8 +5714,63 @@ const BOOK_NAME_RO = {
   "I Kings":"1 Împărați", "II Kings":"2 Împărați", "Isaiah":"Isaia", "Jeremiah":"Ieremia", "Ezekiel":"Ezechiel",
   "Hosea":"Osea", "Joel":"Ioel", "Amos":"Amos", "Obadiah":"Obadia", "Jonah":"Iona", "Micah":"Mica",
   "Nahum":"Naum", "Habakkuk":"Habacuc", "Zephaniah":"Țefania", "Haggai":"Hagai", "Zechariah":"Zaharia", "Malachi":"Maleahi",
-  "I Samuel 20":"1 Samuel"
+  "Ecclesiastes":"Eclesiastul", "Song of Songs":"Cântarea Cântărilor", "Ruth":"Rut", "Lamentations":"Plângerile",
+  "Esther":"Estera", "Psalms":"Psalmii"
 };
+
+// Numele pericopelor (cum le dă @hebcal) → [transliterare românească, traducerea titlului]
+const PARASHA_RO = {
+  "Bereshit":["Bereșit","La început"], "Noach":["Noah","Noe"], "Lech-Lecha":["Leh Leha","Du-te"],
+  "Vayera":["Vaiera","Și S-a arătat"], "Chayei Sara":["Haiei Sara","Viața Sarei"], "Toldot":["Toldot","Urmașii"],
+  "Vayetzei":["Vaiețe","Și a ieșit"], "Vayishlach":["Vaișlah","Și a trimis"], "Vayeshev":["Vaieșev","Și a locuit"],
+  "Miketz":["Mikeț","La sfârșitul"], "Vayigash":["Vaigaș","Și s-a apropiat"], "Vayechi":["Vaiehi","Și a trăit"],
+  "Shemot":["Șemot","Numele"], "Vaera":["Vaera","Și M-am arătat"], "Bo":["Bo","Vino"],
+  "Beshalach":["Beșalah","Când a lăsat să plece"], "Yitro":["Itro","Ietro"], "Mishpatim":["Mișpatim","Legile"],
+  "Terumah":["Teruma","Darul"], "Tetzaveh":["Tețave","Să poruncești"], "Ki Tisa":["Ki Tisa","Când vei număra"],
+  "Vayakhel":["Vaiakhel","Și a adunat"], "Pekudei":["Pekudei","Socotelile"],
+  "Vayikra":["Vaikra","Și a chemat"], "Tzav":["Țav","Poruncește"], "Shmini":["Șemini","A opta"],
+  "Tazria":["Tazria","Va zămisli"], "Metzora":["Mețora","Leprosul"], "Achrei Mot":["Aharei Mot","După moartea"],
+  "Kedoshim":["Kedoșim","Sfinți"], "Emor":["Emor","Spune"], "Behar":["Behar","Pe munte"],
+  "Bechukotai":["Behukotai","În legile Mele"],
+  "Bamidbar":["Bamidbar","În pustie"], "Nasso":["Naso","Ridică"], "Beha'alotcha":["Behaalotha","Când vei aprinde"],
+  "Sh'lach":["Șelah","Trimite"], "Korach":["Korah","Core"], "Chukat":["Hukat","Legea"], "Balak":["Balak","Balac"],
+  "Pinchas":["Pinhas","Fineas"], "Matot":["Matot","Semințiile"], "Masei":["Masei","Călătoriile"],
+  "Devarim":["Devarim","Cuvintele"], "Vaetchanan":["Vaethanan","Și m-am rugat"], "Eikev":["Ekev","Ca urmare"],
+  "Re'eh":["Ree","Privește"], "Shoftim":["Șoftim","Judecătorii"], "Ki Teitzei":["Ki Tețe","Când vei ieși"],
+  "Ki Tavo":["Ki Tavo","Când vei intra"], "Nitzavim":["Nițavim","Stați"], "Vayeilech":["Vaieleh","Și a mers"],
+  "Ha'azinu":["Haazinu","Ascultați"], "Vezot Haberakhah":["Vezot Haberaha","Și aceasta este binecuvântarea"]
+};
+// parshaList = lista de nume englezești (una sau două, la pericopele unite)
+function translateParasha(parshaList){
+  const parts = parshaList.map(n => PARASHA_RO[n] || [n, ""]);
+  return {
+    name: "Parașat " + parts.map(p => p[0]).join("-"),
+    meaning: parts.map(p => p[1]).filter(Boolean).join(" / ")
+  };
+}
+// Citirile de Șabat care cad de sărbătoare (ex. „Sukkot I (on Shabbat)”)
+const LEYNING_HOLIDAY_RO = [
+  ["Simchat Torah", "Simhat Tora", "Bucuria Torei"],
+  ["Shmini Atzeret", "Șemini Ațeret", "A opta zi de adunare"],
+  ["Rosh Hashana", "Roș Hașana", "Capul anului"],
+  ["Yom Kippur", "Yom Kipur", "Ziua Ispășirii"],
+  ["Sukkot", "Sucot", "Corturile"],
+  ["Pesach", "Pesah", "Trecerea"],
+  ["Shavuot", "Șavuot", "Săptămânile"],
+];
+const ROMAN_NUM = { "I":1, "II":2, "III":3, "IV":4, "V":5, "VI":6, "VII":7, "VIII":8 };
+function translateLeyningHoliday(en){
+  const clean = en.replace(/\s*\(on Shabbat\)/, "").trim();
+  for(const [key, ro, meaning] of LEYNING_HOLIDAY_RO){
+    if(clean.indexOf(key) < 0) continue;
+    if(/Shabbat Chol ha-Moed/.test(clean)){
+      return { name: "Șabat Hol Hamoed " + ro, meaning: "Șabatul din zilele de mijloc ale sărbătorii · " + meaning };
+    }
+    const m = clean.match(/\b(I{1,3}|IV|V|VI{0,3})$/);
+    return { name: ro + (m ? ", ziua " + ROMAN_NUM[m[1]] : ""), meaning: meaning };
+  }
+  return { name: clean, meaning: "" };
+}
 function translateRef(ref){
   if(!ref) return ref;
   let out = ref;
@@ -5843,31 +5905,66 @@ function buildPericopeRefRow(refText){
   span.textContent = refText;
   row.appendChild(span);
   const book = findBookBySlugName(refText);
-  const numMatch = refText.match(/(\d+)/);
-  if(book && numMatch){
-    const chapterNum = parseInt(numMatch[1], 10);
+  const cv = refText.match(/(\d+):(\d+)/);
+  if(book && cv){
+    const chapterNum = parseInt(cv[1], 10);
+    const verseNum = parseInt(cv[2], 10);
     const btn = document.createElement("button");
-    btn.className = "pericope-ref-go";
-    btn.title = "Citește capitolul";
+    btn.className = "pericope-ref-go ref-pill-clickable";
+    btn.title = "Vezi pasajul";
     btn.textContent = "→";
-    btn.addEventListener("click", () => {
-      switchTab("biblia");
-      currentBookSlug = book.slug;
-      loadChapter(chapterNum);
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      // Panoul arată doar primele 2 versete ale pasajului; „citește capitolul” duce la tot capitolul.
+      const goBtn = document.getElementById("ref-preview-go");
+      const popover = document.getElementById("ref-preview-popover");
+      if(!chapterIsAvailable(book.slug, chapterNum)){
+        document.getElementById("ref-preview-title").textContent = refText;
+        document.getElementById("ref-preview-text").textContent = "Textul acestui pasaj nu este încă disponibil în aplicație.";
+        goBtn.style.display = "none";
+        pendingRefNav = null;
+        hideWordPopover();
+        popover.classList.add("show");
+        return;
+      }
+      goBtn.style.display = "";
+      showRefPreview(book.name + " " + chapterNum + ":" + verseNum + "-" + (verseNum + 1), btn);
+      document.getElementById("ref-preview-title").textContent = refText;
     });
     row.appendChild(btn);
   }
   return row;
 }
-function renderPericopeRefs(torahRo, haftarahRo){
+// Titlu ebraic + traducerea lui în română, pe același rând: „Parașat Bereșit – „La început””
+function setHebrewTitleWithMeaning(el, name, meaning){
+  el.textContent = "";
+  el.appendChild(document.createTextNode(name));
+  if(meaning){
+    const m = document.createElement("span");
+    m.className = "pericope-title-meaning";
+    m.textContent = " – „" + meaning + "”";
+    el.appendChild(m);
+  }
+}
+function renderPericopeRefs(torahRo, haftarahRo, note){
   const list = document.getElementById("pericope-refs-list");
   if(!list) return;
   list.innerHTML = "";
-  if(torahRo) list.appendChild(buildPericopeRefRow(torahRo));
+  if(note){
+    const n = document.createElement("div");
+    n.className = "home-placeholder-note";
+    n.textContent = note;
+    list.appendChild(n);
+  }
+  if(torahRo){
+    torahRo.split(";").map(s => s.trim()).filter(Boolean).forEach(part => {
+      list.appendChild(buildPericopeRefRow(part));
+    });
+  }
   if(haftarahRo){
     const label = document.createElement("div");
     label.className = "pericope-haftarah-label";
-    label.textContent = "Haftarah";
+    setHebrewTitleWithMeaning(label, "Haftarah", "Încheierea");
     list.appendChild(label);
     haftarahRo.split(";").map(s => s.trim()).filter(Boolean).forEach(part => {
       list.appendChild(buildPericopeRefRow(part));
@@ -6211,42 +6308,47 @@ async function initHebrewCalendar(){
   // fără nicio dependență de rețea — dacă biblioteca @hebcal/core (CDN) nu
   // se încarcă în 3.5s (offline, fișier local fără internet etc.), folosim
   // acest tabel, ca pericopa să nu rămână blocată pe "Se încarcă...".
+  // date = sâmbăta (Șabatul); en = numele @hebcal (pentru traducere și eseuri)
   const FALLBACK_PARASHOT = [
-    { date: "2026-08-29", name: "Ki Tavo", ref: "Deuteronom 26:1–29:8" },
-    { date: "2026-09-05", name: "Nitzavim-Vayelech", ref: "Deuteronom 29:9–31:30" },
-    { date: "2026-09-19", name: "Ha'azinu", ref: "Deuteronom 32:1–52" },
-    { date: "2026-10-03", name: "Vezot HaBerachah", ref: "Deuteronom 33:1–34:12" },
-    { date: "2026-10-10", name: "Bereșit", ref: "Geneza 1:1–6:8" },
-    { date: "2026-10-17", name: "Noah", ref: "Geneza 6:9–11:32" },
-    { date: "2026-10-24", name: "Lech Lecha", ref: "Geneza 12:1–17:27" },
-    { date: "2026-10-31", name: "Vaiera", ref: "Geneza 18:1–22:24" },
-    { date: "2026-11-07", name: "Haiei Sara", ref: "Geneza 23:1–25:18" },
-    { date: "2026-11-14", name: "Toldot", ref: "Geneza 25:19–28:9" },
-    { date: "2026-11-21", name: "Vaietze", ref: "Geneza 28:10–32:3" },
-    { date: "2026-11-28", name: "Vaișlah", ref: "Geneza 32:4–36:43" },
-    { date: "2026-12-05", name: "Vaieșev", ref: "Geneza 37:1–40:23" },
-    { date: "2026-12-12", name: "Miketz", ref: "Geneza 41:1–44:17" },
-    { date: "2026-12-19", name: "Vaigaș", ref: "Geneza 44:18–47:27" },
-    { date: "2026-12-26", name: "Vaiehi", ref: "Geneza 47:28–50:26" },
+    { date: "2026-09-26", holiday: "Sukkot I (on Shabbat)", ref: "Leviticul 22:26-23:44; Numeri 29:12-16", haftara: "Zaharia 14:1-21" },
+    { date: "2026-10-03", holiday: "Simchat Torah (on Shabbat)", ref: "Deuteronom 33:1-34:12; Geneza 1:1-2:3; Numeri 29:35-30:1; Eclesiastul 1:1-12:14", haftara: "Iosua 1:1-18" },
+    { date: "2026-10-10", en: ["Bereshit"], ref: "Geneza 1:1-6:8", haftara: "1 Samuel 20:18-42" },
+    { date: "2026-10-17", en: ["Noach"], ref: "Geneza 6:9-11:32", haftara: "Isaia 54:1-55:5" },
+    { date: "2026-10-24", en: ["Lech-Lecha"], ref: "Geneza 12:1-17:27", haftara: "Isaia 40:27-41:16" },
+    { date: "2026-10-31", en: ["Vayera"], ref: "Geneza 18:1-22:24", haftara: "2 Împărați 4:1-37" },
+    { date: "2026-11-07", en: ["Chayei Sara"], ref: "Geneza 23:1-25:18", haftara: "1 Împărați 1:1-31" },
+    { date: "2026-11-14", en: ["Toldot"], ref: "Geneza 25:19-28:9", haftara: "Maleahi 1:1-2:7" },
+    { date: "2026-11-21", en: ["Vayetzei"], ref: "Geneza 28:10-32:3", haftara: "Osea 12:13-14:10" },
+    { date: "2026-11-28", en: ["Vayishlach"], ref: "Geneza 32:4-36:43", haftara: "Obadia 1:1-21" },
+    { date: "2026-12-05", en: ["Vayeshev"], ref: "Geneza 37:1-40:23; Numeri 7:1-17", haftara: "Zaharia 2:14-4:7" },
+    { date: "2026-12-12", en: ["Miketz"], ref: "Geneza 41:1-44:17; Numeri 7:54-8:4", haftara: "1 Împărați 7:40-50" },
+    { date: "2026-12-19", en: ["Vayigash"], ref: "Geneza 44:18-47:27", haftara: "Ezechiel 37:15-28" },
+    { date: "2026-12-26", en: ["Vayechi"], ref: "Geneza 47:28-50:26", haftara: "1 Împărați 2:1-12" },
   ];
-  function getFallbackParasha(today){
-    const todayStr = today.toISOString().slice(0,10);
-    const upcoming = FALLBACK_PARASHOT.filter(p => p.date >= todayStr).sort((a,b) => a.date.localeCompare(b.date));
-    return upcoming[0] || null;
+  // Șabatul săptămânii curente: sâmbăta care vine (sau azi, dacă e sâmbătă).
+  // Calculat pe data locală — fără toISOString(), care muta ziua cu una înapoi
+  // în fusul orar al României (de aici apărea „vineri, 9 octombrie” în loc de sâmbătă 10).
+  function upcomingShabbat(){
+    const d = new Date(); d.setHours(0,0,0,0);
+    d.setDate(d.getDate() + ((6 - d.getDay() + 7) % 7));
+    return d;
   }
-  function renderFallbackPericope(){
-    const today = new Date(); today.setHours(0,0,0,0);
-    const p = getFallbackParasha(today);
-    if(!nameEl) return;
-    if(!p){
-      nameEl.textContent = "Verificați hebcal.com/sedrot pentru pericopa curentă.";
-      renderPericopeRefs("", "");
-      return;
-    }
-    if(dateLabel) dateLabel.textContent = "Pericopa săptămânii · " + window.formatDateRo(p.date);
-    nameEl.textContent = "Parașat " + p.name;
-    renderPericopeRefs(p.ref, "");
-    const nameSlug = p.name.toLowerCase().replace(/'/g, "").replace(/\s+/g, "-");
+  function localIso(d){
+    return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+  }
+  // Eticheta afișează vinerea (ajunul Șabatului, când începe citirea săptămânii)
+  function erevShabbatLabel(shabbat){
+    const fri = new Date(shabbat); fri.setDate(fri.getDate() - 1);
+    return "Pericopa săptămânii · " + window.formatDateRo(localIso(fri));
+  }
+  const HOLIDAY_NOTE = "În acest Șabat nu se citește o pericopă obișnuită, ci citirea specială a sărbătorii.";
+  function renderReading(shabbat, parshaEn, holidayEn, torahRo, haftarahRo){
+    if(dateLabel) dateLabel.textContent = erevShabbatLabel(shabbat);
+    const t = parshaEn ? window.translateParasha(parshaEn) : window.translateLeyningHoliday(holidayEn || "");
+    window.setHebrewTitleWithMeaning(nameEl, t.name, t.meaning);
+    renderPericopeRefs(torahRo, haftarahRo, parshaEn ? "" : HOLIDAY_NOTE);
+    if(!parshaEn){ if(typeof window.renderEssaysForParasha === "function") window.renderEssaysForParasha("-"); return; }
+    const nameSlug = parshaEn.join("-").toLowerCase().replace(/'/g, "").replace(/\s+/g, "-");
     const tryRenderEssays = () => {
       if(typeof window.renderEssaysForParasha === "function" && window.parashotEssaysLoaded){
         window.renderEssaysForParasha(nameSlug);
@@ -6256,7 +6358,17 @@ async function initHebrewCalendar(){
     };
     tryRenderEssays();
   }
-
+  function renderFallbackPericope(){
+    if(!nameEl) return;
+    const shabbat = upcomingShabbat();
+    const p = FALLBACK_PARASHOT.find(x => x.date === localIso(shabbat));
+    if(!p){
+      nameEl.textContent = "Verificați hebcal.com/sedrot pentru pericopa curentă.";
+      renderPericopeRefs("", "");
+      return;
+    }
+    renderReading(shabbat, p.en || null, p.holiday || null, p.ref, p.haftara);
+  }
   window.fetchParashotEssays().then(() => { window.parashotEssaysLoaded = true; });
 
   function withTimeout(promise, ms){
@@ -6266,72 +6378,37 @@ async function initHebrewCalendar(){
     ]);
   }
 
-  let HebrewCalendar, Location, getLeyningForParshaHaShavua;
+  let HebrewCalendar, Location, HDate, getLeyningOnDate;
   try{
     const core = await withTimeout(import("https://cdn.jsdelivr.net/npm/@hebcal/core/+esm"), 3500);
     const leyning = await withTimeout(import("https://cdn.jsdelivr.net/npm/@hebcal/leyning/+esm"), 3500);
     HebrewCalendar = core.HebrewCalendar;
     Location = core.Location;
-    getLeyningForParshaHaShavua = leyning.getLeyningForParshaHaShavua;
+    HDate = core.HDate;
+    getLeyningOnDate = leyning.getLeyningOnDate;
   } catch(err){
     console.error("DAVAR: @hebcal/core indisponibil (offline sau CDN blocat) — folosesc tabelul local:", err);
     renderFallbackPericope();
     return;
   }
 
-  const location = Location.lookup("Jerusalem");
-  const today = new Date();
-  today.setHours(0,0,0,0);
-
-  // --- Pericopa săptămânii (parașa curentă/imediat următoare) ---
+  // --- Citirea Șabatului din această săptămână ---
+  // Se ia citirea reală a sâmbetei care vine (calendar Israel): fie pericopa
+  // săptămânii, fie — când Șabatul cade de sărbătoare (Sucot, Pesah, Simhat
+  // Tora etc.) — citirea specială a sărbătorii. Înainte, sărbătorile erau
+  // excluse și aplicația sărea direct la următoarea pericopă obișnuită.
   function loadPericopeReal(){
     if(!nameEl) return;
     try{
-      const events = HebrewCalendar.calendar({
-        year: today.getFullYear(), isHebrewYear: false,
-        sedrot: true, noHolidays: true, candlelighting: true, location,
-      });
-      const eventsNext = HebrewCalendar.calendar({
-        year: today.getFullYear() + 1, isHebrewYear: false,
-        sedrot: true, noHolidays: true, location,
-      });
-      const all = events.concat(eventsNext);
-      const parashaEvents = all
-        .filter(ev => ev.getDesc().startsWith("Parashat "))
-        .map(ev => ({ ev, date: ev.getDate().greg() }))
-        .filter(x => x.date >= today)
-        .sort((a,b) => a.date - b.date);
-
-      if(!parashaEvents.length){
-        renderFallbackPericope();
-        return;
-      }
-      const { ev, date } = parashaEvents[0];
-      const isoDate = date.toISOString().slice(0,10);
-      dateLabel.textContent = "Pericopa săptămânii · " + window.formatDateRo(isoDate);
-      const shortName = ev.getDesc().replace(/^Parashat\s+/, "");
-      nameEl.textContent = "Parașat " + shortName;
-
-      let torahRo = "—", haftarahRo = "";
-      try{
-        const reading = getLeyningForParshaHaShavua(ev, false);
-        torahRo = window.translateRef(reading.summary || (reading.fullkriyah && reading.fullkriyah.torah) || "");
-        haftarahRo = window.translateRef(reading.haftara || "");
-      } catch(e){ console.error("DAVAR: eroare la calculul citirii (leyning):", e); }
-
-      renderPericopeRefs(torahRo, haftarahRo);
-
-      const nameSlug = shortName.toLowerCase().replace(/'/g, "").replace(/\s+/g, "-");
-      const tryRenderEssays = () => {
-        if(typeof window.renderEssaysForParasha === "function" && window.parashotEssaysLoaded){
-          window.renderEssaysForParasha(nameSlug);
-        } else {
-          setTimeout(tryRenderEssays, 150);
-        }
-      };
-      tryRenderEssays();
+      const shabbat = upcomingShabbat();
+      const reading = getLeyningOnDate(new HDate(shabbat), true);
+      if(!reading){ renderFallbackPericope(); return; }
+      const torahRo = window.translateRef(reading.summary || (reading.fullkriyah && reading.fullkriyah.torah) || "");
+      const haftarahRo = window.translateRef(reading.haftara || "");
+      const parshaEn = (reading.parsha && reading.parsha.length) ? reading.parsha : null;
+      renderReading(shabbat, parshaEn, parshaEn ? null : (reading.name && reading.name.en), torahRo, haftarahRo);
     } catch(err){
-      console.error("DAVAR: eroare la calculul pericopei (@hebcal/core) — folosesc tabelul local:", err);
+      console.error("DAVAR: eroare la calculul citirii (@hebcal/leyning) — folosesc tabelul local:", err);
       renderFallbackPericope();
     }
   }
