@@ -170,7 +170,7 @@
        "translit": "veruah",
        "strong": "H7307",
        "pos": "substantiv, feminin",
-       "def_ro": "duh, suflare, vânt — tradus aici „viață” de Rosen.",
+       "def_ro": "duh, suflare, vânt.",
        "greek": "πνεῦμα (pneuma)",
        "greek_def_ro": "duh, suflare.",
        "dict_ro": "Ruah, distinct de neșama de mai sus, are un spectru mai larg (vânt, duh, spirit). Irineu de Lyon dezvoltă exact distincția dintre neșama („suflare”, dată tuturor oamenilor) și ruah („Duh”, dat doar celor ce „calcă în picioare poftele pământești”) — o observație patristică ce ia foarte în serios diferența dintre cei doi termeni ebraici din același verset."
@@ -804,7 +804,7 @@
        "strong": "H5046",
        "pos": "pronume + verb, hifil participiu",
        "def_ro": "eu vestesc, eu fac cunoscut.",
-       "dict_ro": "Rădăcina nagad, „a vesti”, dă și numele haggadei — actul de a povesti/vesti ceva important. Aici, Dumnezeu Se prezintă ca singurul care poate anunța viitorul înainte să se întâmple, spre deosebire de idolii muți din v. 8. Pronumele „ani” (eu), deși nu apare separat în traducerea românească, e prezent explicit în ebraică, întărind contrastul cu vocea divină unică ce vestește."
+       "dict_ro": "Rădăcina nagad, „a vesti”, dă și numele haggadei — actul de a povesti/vesti ceva important. Aici, Dumnezeu Se prezintă ca singurul care poate anunța viitorul înainte să se întâmple, spre deosebire de idolii muți din v. 8. Pronumele „ani” (eu) întărește contrastul cu vocea divină unică ce vestește."
       },
       {
        "t": " [lucruri] "
@@ -983,7 +983,7 @@
        "translit": "umeloo",
        "strong": "H4393",
        "pos": "substantiv + sufix",
-       "def_ro": "și plinătatea ei (a mării) — tradus liber „și voi” de Rosen, referindu-se la viețuitoarele mării.",
+       "def_ro": "și plinătatea ei (a mării), adică viețuitoarele mării.",
        "dict_ro": "Meloo („plinătatea ei”) e o expresie standard pentru totalitatea viețuitoarelor unui spațiu (cf. Psalmii 24:1, „al DOMNULUI e pământul și plinătatea lui”) — aici aplicată mării, incluzând tot ce trăiește în adâncuri."
       },
       {
@@ -4297,7 +4297,7 @@
       {
        "source": "Textul Masoretic (ebraică)",
        "original": "הוֹצִיא עַם־עִוֵּר וְעֵינַיִם יֵשׁ וְחֵרְשִׁים וְאָזְנַיִם לָמוֹ",
-       "translation": "Traducerea de mai sus, a rabinului Rosen (v.7-8 unite în traducere românească).",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
        "note": "Fără variante semnificative."
       },
       {
@@ -5731,7 +5731,7 @@
        "translit": "fanai rega",
        "strong": "H6440",
        "pos": "substantiv + sufix + substantiv",
-       "def_ro": "fața Mea, [pentru] o clipă — Rosen contopește „rega” (clipă) în traducerea „trecătoare” de mai sus, deci în ebraică apare separat, deși în românește e absorbit stilistic."
+       "def_ro": "fața Mea, [pentru] o clipă."
       },
       {
        "t": " de tine, dar cu "
@@ -6719,7 +6719,7 @@
        "strong": "H1481",
        "pos": "pronume + verb",
        "def_ro": "cel ce se ceartă/atacă împreună cu tine.",
-       "dict_ro": "Rădăcina גור are aici o dublă tradiție de citire: „a se teme” (după prima explicație a lui Rashi) și „a se aduna cu gând de atac” (a doua explicație, urmată de Rosen). Talmudul Babilonian (Yevamot 24b) citește aceleași consoane גָר ca „prozelit/convertit”, folosind exact acest verset pentru a demonstra halakha că prozeliții nu sunt primiți în vremea lui Mesia: „Rabbi Eliezer a spus: care e versetul care aluzează la această halakha? «Iată, gor iagur, fără Mine; oricine gar cu tine, asupra ta va cădea» (Isaia 54:15)” — aceeași rădăcină consonantică servind unei concluzii legale complet diferite de cea urmată aici de traducerea românească."
+       "dict_ro": "Rădăcina גור are aici o dublă tradiție de citire: „a se teme” (după prima explicație a lui Rashi) și „a se aduna cu gând de atac” (a doua explicație). Talmudul Babilonian (Yevamot 24b) citește aceleași consoane גָר ca „prozelit/convertit”, folosind exact acest verset pentru a demonstra halakha că prozeliții nu sunt primiți în vremea lui Mesia: „Rabbi Eliezer a spus: care e versetul care aluzează la această halakha? «Iată, gor iagur, fără Mine; oricine gar cu tine, asupra ta va cădea» (Isaia 54:15)” — aceeași rădăcină consonantică servind unei concluzii legale complet diferite."
       },
       {
        "t": ", îți va cădea înainte",
@@ -6738,7 +6738,7 @@
       {
        "source": "Textul Masoretic (ebraică)",
        "original": "הֵן גּוֹר יָגוּר אֶפֶס מֵאוֹתִי מִי־גָר אִתָּךְ עָלַיִךְ יִפּוֹל",
-       "translation": "Traducerea de mai sus, a rabinului Rosen — urmează citirea „a se teme”, ca Rashi.",
+       "translation": "Traducerea de mai sus, a rabinului Rosen.",
        "note": "Vezi comparația cu Septuaginta de mai jos pentru divergența reală de citire dintre tradiția ebraică folosită aici și cea a Septuagintei."
       },
       {
@@ -6746,7 +6746,7 @@
        "original": "ἰδοὺ προσήλυτοι προσελεύσονταί σοι δι᾽ ἐμοῦ, καὶ παροικήσουσίν σοι καὶ ἐπὶ σὲ καταφεύξονται.",
        "greek": true,
        "translation": "„Iată, prozeliți vor veni la tine prin Mine, și vor locui împreună cu tine, și la tine își vor căuta scăpare.”",
-       "note": "Divergență majoră reală de traducere: LXX citește consoanele גור/גר drept „prozelit, convertit” (προσήλυτος) — aceeași citire pe care Talmudul Babilonian (Yevamot 24b) o folosește, deși ajungând la o concluzie halahică opusă (că prozeliții NU sunt primiți în vremea lui Mesia). Rashi (prima explicație) și traducerea românească de mai sus urmează în schimb citirea „va tremura de frică” (rădăcina יגר/גור, „a se teme”). Ambele tradiții — greacă și talmudică — recunosc acelea și consoane ebraice ca purtând sensul de „convertit”, chiar dacă interpretările lor asupra sorții acestuia diferă radical."
+       "note": "Divergență majoră reală de traducere: LXX citește consoanele גור/גר drept „prozelit, convertit” (προσήλυτος) — aceeași citire pe care Talmudul Babilonian (Yevamot 24b) o folosește, deși ajungând la o concluzie halahică opusă (că prozeliții NU sunt primiți în vremea lui Mesia). Rashi (prima explicație) urmează în schimb citirea „va tremura de frică” (rădăcina יגר/גור, „a se teme”). Ambele tradiții — greacă și talmudică — recunosc aceleași consoane ebraice ca purtând sensul de „convertit”, chiar dacă interpretările lor asupra sorții acestuia diferă radical."
       }
      ],
      "refs": [
@@ -7086,7 +7086,7 @@
        "strong": "H7561",
        "pos": "verb, hifil imperfect",
        "def_ro": "o vei condamna.",
-       "dict_ro": "Forma ebraică e la persoana a doua feminin singular („TU vei condamna” — adresată direct Ierusalimului/Sionului), citită astfel de Metzudat David: cetatea însăși va respinge și va condamna orice acuzație, ieșind nevinovată din judecată. Aceeași citire la persoana a doua o confirmă și Septuaginta (ἡττήσεις, „tu îi vei învinge”) și comentatorii creștini clasici (Gill, Calvin, Jamieson-Fausset-Brown: „thou shalt condemn”). Traducerea românească a lui Rosen alege aici persoana întâi („voi condamna”), atribuind direct lui Dumnezeu actul de condamnare a acuzatorului — o interpretare teologic valabilă, dar care se îndepărtează de subiectul gramatical explicit din ebraică, susținut de aproape toată tradiția de traducere, veche și modernă."
+       "dict_ro": "Rașa — „a fi vinovat”; la forma hifil, „a declara vinovat, a condamna” la judecată (Metzudat Țion: din rădăcina „rasha”, vinovat, condamnat). Imaginea e luată dintr-o curte de judecată, cum observă Jamieson, Fausset și Brown: cel ce se ridică la proces împotriva Sionului iese el însuși vinovat. Metzudat David: orice om al limbii, care vorbește lucruri mari și se ridică la judecată ca să se certe, va ieși vinovat."
       },
       {
        "t": "; "
@@ -7164,7 +7164,7 @@
        "original": "πᾶν σκεῦος σκευαστὸν ἐπὶ σὲ οὐκ εὐοδώσω· καὶ πᾶσα φωνὴ ἀναστήσεται ἐπὶ σὲ εἰς κρίσιν, πάντας αὐτοὺς ἡττήσεις, οἱ δὲ ἔνοχοί σου ἔσονται ἐν αὐτῇ. ἔστιν κληρονομία τοῖς θεραπεύουσιν Κύριον, καὶ ὑμεῖς ἔσεσθέ μοι δίκαιοι, λέγει Κύριος.",
        "greek": true,
        "translation": "„Nicio armă făurită împotriva ta nu o voi lăsa să izbândească; și orice glas se va ridica împotriva ta la judecată, pe toți îi vei învinge, iar cei vinovați față de tine vor fi în ea. Este o moștenire pentru cei ce slujesc Domnului, și voi Îmi veți fi Mie drepți, zice Domnul.”",
-       "note": "LXX confirmă citirea la persoana a doua („tu îi vei învinge pe toți”) pentru תַּרְשִׁיעִי — susținând citirea lui Metzudat David împotriva alegerii de persoana întâi a lui Rosen. De asemenea, LXX înlocuiește „slujitorii DOMNULUI” (עַבְדֵי יְהוָה) cu o construcție participială mai generală, „cei ce slujesc Domnului”, iar finalul devine o adresare directă, „voi Îmi veți fi Mie drepți”, absentă din TM."
+       "note": "LXX are „tu îi vei învinge pe toți” (ἡττήσεις) pentru תַּרְשִׁיעִי. De asemenea, LXX înlocuiește „slujitorii DOMNULUI” (עַבְדֵי יְהוָה) cu o construcție participială mai generală, „cei ce slujesc Domnului”, iar finalul devine o adresare directă, „voi Îmi veți fi Mie drepți”, absentă din TM."
       }
      ],
      "refs": [
@@ -7216,7 +7216,7 @@
        "strong": "H6771",
        "pos": "interjecție + adjectiv",
        "def_ro": "Ho! Oricine e însetat.",
-       "dict_ro": "„Hoi” e o interjecție profetică puternică de chemare, aceeași cu care încep vaietele din Isaia 5:8-23 sau chemarea din Zaharia 2:6 („Ho, ho, fugiți din țara de la miazănoapte”); aici, în gura lui Dumnezeu, nu e o amenințare, ci o strigare de invitație publică. Traducerea românească a lui Rosen omite exclamația inițială ca element separat, redând doar sensul de adresare directă „Toți cei...”."
+       "dict_ro": "„Hoi” e o interjecție profetică puternică de chemare, aceeași cu care încep vaietele din Isaia 5:8-23 sau chemarea din Zaharia 2:6 („Ho, ho, fugiți din țara de la miazănoapte”); aici, în gura lui Dumnezeu, nu e o amenințare, ci o strigare de invitație publică."
       },
       {
        "t": ", mergeți la "
@@ -7327,7 +7327,7 @@
        "original": "Οἱ διψῶντες, πορεύεσθε ἐφ᾽ ὕδωρ, καὶ ὅσοι μὴ ἔχετε ἀργύριον, βαδίσαντες ἀγοράσατε, καὶ φάγετε ἄνευ ἀργυρίου καὶ τιμῆς οἴνου καὶ στέαρ.",
        "greek": true,
        "translation": "„Cei ce sunteți însetați, mergeți la apă, și câți nu aveți argint, mergând, cumpărați, și mâncați fără argint și fără preț vin și grăsime.”",
-       "note": "LXX omite complet interjecția „הוֹי” (ca și traducerea românească); mai izbitor, LXX traduce ultimul cuvânt ebraic „וְחָלָב” (lapte) prin στέαρ (grăsime), nu prin lapte — o divergență reală de traducere între cele două tradiții textuale antice."
+       "note": "LXX omite complet interjecția „הוֹי”; mai izbitor, LXX traduce ultimul cuvânt ebraic „וְחָלָב” (lapte) prin στέαρ (grăsime), nu prin lapte — o divergență reală de traducere între cele două tradiții textuale antice."
       }
      ],
      "refs": [
@@ -9392,7 +9392,7 @@
        "strong": "H1986",
        "pos": "verb, qal participiu + substantiv",
        "def_ro": "cel ce bate nicovala — cel ce începe lucrarea, bătând din toate puterile.",
-       "dict_ro": "Rashi explică: „holem paam” e cel ce începe lucrarea cât timp metalul e încă bară brută, bătând din toate puterile — spre deosebire de „mahalik patiș”, care vine la sfârșit, bătând ușor ca să netezească suprafața. Traducerea românească „arhitect” e o alegere interpretativă liberă pentru acest al doilea meșteșugar, mai degrabă decât o redare literală a „celui ce bate nicovala”."
+       "dict_ro": "Rashi explică: „holem paam” e cel ce începe lucrarea cât timp metalul e încă bară brută, bătând din toate puterile — spre deosebire de „mahalik patiș”, care vine la sfârșit, bătând ușor ca să netezească suprafața."
       },
       {
        "t": "; "
@@ -9479,7 +9479,7 @@
        "text": "Acest verset e explicat în felurite chipuri, și e într-adevăr întrucâtva obscur; nici chiar scriitorii evrei nu sunt de acord asupra înțelesului cuvintelor. Nu văd niciun motiv pentru care „haraș” să însemne aici doar tâmplar, căci înseamnă orice fel de meșteșugar. [Isaia] descrie, pe scurt, răzvrătirea și nebunia idolatrilor, prin care se ațâță unii pe alții să I se împotrivească lui Dumnezeu."
       },
       {
-       "author": "Iamieson, Fausset & Brown, Comentariu la Biblie",
+       "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
        "text": "Un meșteșugar îl grăbește pe celălalt să termine repede idolul, ca să abată primejdia ce se apropie. „Cuie” — ca să-l țină neclintit la locul lui. Cartea Înțelepciunii 13:15-16 dă o imagine asemănătoare despre nebunia idolatriei."
       }
      ]
@@ -12709,7 +12709,7 @@
        "strong": "H7114",
        "pos": "verb + substantiv + substantiv",
        "def_ro": "a ieșit la tatăl lui, la secerători.",
-       "dict_ro": "Textul ebraic spune literal că BĂIATUL a ieșit la tatăl lui, la secerători — nu că tatăl s-ar fi dus el însuși; traducerea românească reformulează perspectiva, punând tatăl ca subiect al deplasării spre câmp, deși în ebraică subiectul deplasării e copilul care vine la tatăl său, aflat deja printre lucrătorii de la seceriș."
+       "dict_ro": "Kațar — „a secera”, de unde koțrim, „secerătorii”. Metzudat David descrie scena: a venit ziua în care copilul a ieșit la tatăl lui, aflat printre secerători. Era vremea secerișului, iar tatăl, deși om cu stare, era alături de lucrători ca să-i îndrume, ca odinioară Boaz, cum observă John Gill."
       },
       {
        "t": ","
@@ -12720,7 +12720,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיִּגְדַּל הַיָּלֶד וַיְהִי הַיּוֹם וַיֵּצֵא אֶל־אָבִיו אֶל־הַקֹּצְרִים",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": "Traducerea românească inversează subiectul acțiunii de deplasare față de original — vezi explicația din dicționar de mai sus."
+       "note": ""
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -13389,7 +13389,7 @@
        "strong": "H1980",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "a mers.",
-       "dict_ro": "Deși subiectul gramatical al verbelor „vatēleh” și „vatavo” e feminin (referindu-se, aparent, tot la femeia șunamită, nu la slujitor), traducerea românească urmează aici interpretarea că slujitorul e cel ce conduce și ajunge la Carmel — o alegere de traducere care clarifică cine efectiv ajunge la Elisei, deși ebraica păstrează formele verbale feminine, posibil ca ecou al subiectului precedent."
+       "dict_ro": "Halah — „a merge”, verbul cel mai obișnuit pentru deplasare, urmat aici de vatavo, „și a ajuns”. Drumul de la Șunem la Muntele Carmel era lung — după Bunting, citat de John Gill, cam șaisprezece mile —, iar Carmelul era locul unde obișnuia să stea Ilie și, poate, o școală a profeților."
       },
       {
        "t": " și a "
@@ -13448,7 +13448,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַתֵּלֶךְ וַתָּבוֹא אֶל־אִישׁ הָאֱלֹהִים אֶל־הַר הַכַּרְמֶל וַיְהִי כִּרְאוֹת אִישׁ־הָאֱלֹהִים אֹתָהּ מִנֶּגֶד וַיֹּאמֶר אֶל־גֵּיחֲזִי נַעֲרוֹ הִנֵּה הַשּׁוּנַמִּית הַלָּז",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": "Vezi explicația din dicționar de mai sus: verbele „a mers”/„a ajuns” sunt, gramatical, la forma feminină (subiect: femeia, nu slujitorul), deși traducerea românească atribuie deplasarea slujitorului."
+       "note": ""
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -19295,7 +19295,7 @@
        "strong": "H779",
        "pos": "adjectiv + substantiv, qal participiu",
        "def_ro": "blestemat e cel viclean/înșelătorul.",
-       "dict_ro": "John Gill notează o divergență veche de traducere: unii derivă „nohel” din rădăcina „a putea” (יכל), sens urmat chiar de Septuaginta și de versiunea arabă („cel puternic/în stare”), în loc de „cel viclean”, urmat de traducerea românească și de majoritatea comentatorilor rabinici."
+       "dict_ro": "Nohel — „cel viclean, înșelătorul”. Rashi: cel ce uneltește cu viclenie, cu vorbe mincinoase, zicând că n-are nimic mai bun de adus. John Gill notează o derivare veche diferită, din rădăcina „a putea” (יכל), urmată de Septuaginta și de versiunea arabă: „cel ce e în stare” să aducă o jertfă potrivită."
       },
       {
        "t": " care are "
@@ -19385,7 +19385,7 @@
        "original": "καὶ ἐπικατάρατος ὃς ἦν δυνατός, καὶ ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν, καὶ εὐχὴ αὐτοῦ ἐπ᾽ αὐτῷ, καὶ θύει διεφθαρμένον τῷ κυρίῳ...",
        "greek": true,
        "translation": "„Și blestemat cel ce era în stare, și era în turma lui parte bărbătească, și făgăduința lui era pentru el, și jertfește stricat Domnului...”",
-       "note": "LXX confirmă citirea „cel ce era în stare/puternic” (δυνατός) pentru „nohel”, susținând observația lui Gill despre o rădăcină alternativă de traducere, „a putea”, diferită de „a înșela” urmată de traducerea românească."
+       "note": "LXX confirmă citirea „cel ce era în stare/puternic” (δυνατός) pentru „nohel”, susținând observația lui Gill despre o derivare din rădăcina „a putea”, diferită de „a înșela”."
       }
      ],
      "refs": [
@@ -20571,7 +20571,7 @@
        "original": "ὀπίσω Κυρίου πορεύσομαι· ὡς λέων ἐρεύξεται, ὅτι αὐτὸς ὠρύσεται, καὶ ἐκστήσονται τέκνα ὑδάτων.",
        "greek": true,
        "translation": "„După Domnul voi merge; ca un leu va răcni, căci el va urla, și se vor uimi copiii apelor.”",
-       "note": "LXX pune verbul la persoana întâi singular („voi merge”), nu la plural („vor merge”) ca TM; de asemenea traduce „miiam” (de la mare/apus) prin „ale apelor” — o citire literală a cuvântului „iam” (mare), diferită de sensul geografic „apus” urmat de traducerea românească."
+       "note": "LXX pune verbul la persoana întâi singular („voi merge”), nu la plural („vor merge”) ca TM; de asemenea traduce „miiam” (de la mare/apus) prin „ale apelor” — o citire literală a cuvântului „iam” (mare), diferită de sensul geografic „apus”."
       }
      ],
      "refs": [
@@ -23940,7 +23940,7 @@
        "strong": "H6524",
        "pos": "verb + substantiv",
        "def_ro": "va înflori ca crinul.",
-       "dict_ro": "Metzudat Țion identifică „șoșana” cu trandafirul (וֶרֶד), nu cu crinul propriu-zis, deși traducerile occidentale moderne redau frecvent cuvântul prin „crin” (lily); traducerea de față urmează această identificare, cu „trandafir”."
+       "dict_ro": "Metzudat Țion identifică „șoșana” cu trandafirul (וֶרֶד), nu cu crinul propriu-zis, deși traducerile occidentale moderne redau frecvent cuvântul prin „crin” (lily)."
       },
       {
        "t": " și îi voi "
@@ -24411,7 +24411,7 @@
        "strong": "H398",
        "pos": "verb + infinitiv absolut + verb",
        "def_ro": "și veți mânca, mâncând, și vă veți sătura.",
-       "dict_ro": "Nota tipărită din ediția Rosen precizează explicit: „Unele comunități adaugă versetele următoare din Ioel 2:26-27” — un adaos liturgic opțional, nu parte obligatorie a Haftaratei Vaiețe, motiv pentru care aceste două versete sunt marcate distinct în structura capitolului, ca addendum, nu ca parte integrantă a textului din Osea."
+       "dict_ro": "Unele comunități adaugă la finalul haftarei versetele din Ioel 2:26-27 — un adaos liturgic opțional, nu parte obligatorie a Haftaratei Vaiețe."
       },
       {
        "t": ", și veți "
@@ -25638,7 +25638,7 @@
        "original": "καὶ μὴ ἐπίδῃς ἡμέραν ἀδελφοῦ σου ἐν ἡμέρᾳ ἀλλοτρίων, καὶ μὴ ἐπιχαρῇς ἐπὶ τοὺς υἱοὺς Ἰούδα ἐν ἡμέρᾳ ἀπωλίας αὐτῶν, καὶ μὴ μεγαλορημονῇς ἐν ἡμέρᾳ θλίψεως·",
        "greek": true,
        "translation": "„Și nu privi ziua fratelui tău, în ziua celor străini, și nu te bucura de fiii lui Iuda în ziua pieirii lor, și nu vorbi cu îngâmfare în ziua necazului.”",
-       "note": "LXX păstrează aceeași structură de imperative negative ca TM, confirmând citirea directă folosită și de Rosen."
+       "note": "LXX păstrează aceeași structură de imperative negative ca TM."
       }
      ],
      "refs": [
@@ -26368,7 +26368,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְגָלֻת הַחֵל־הַזֶּה לִבְנֵי יִשְׂרָאֵל אֲשֶׁר־כְּנַעֲנִים עַד־צָרְפַת וְגָלֻת יְרוּשָׁלִַם אֲשֶׁר בִּסְפָרַד יִירְשׁוּ אֵת עָרֵי הַנֶּגֶב",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": "Identificarea geografică a „Sefarad” cu Spania (urmată de Rosen, Rashi și Targum) e o tradiție exegetică ulterioară, larg acceptată — savanții moderni discută alte posibilități (Sardis în Asia Mică)."
+       "note": "Identificarea geografică a „Sefarad” cu Spania (urmată de Rashi și Targum) e o tradiție exegetică ulterioară, larg acceptată — savanții moderni discută alte posibilități (Sardis în Asia Mică)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -48397,7 +48397,7 @@
       "strong": "H7799",
       "pos": "substantiv, masculin",
       "def_ro": "crin, trandafir.",
-      "dict_ro": "Șușan — de fapt „crin” (lilium), nu trandafir propriu-zis, deși traducerea românească tradițională păstrează „trandafir”; e rădăcina numelui orașului Susa (Șușan ha-bira, „Susa, capitala”, cf. Estera 1:2), numit probabil după abundența acestei flori în regiune."
+      "dict_ro": "Șușan — floarea identificată de obicei cu crinul (lilium); e rădăcina numelui orașului Susa (Șușan ha-bira, „Susa, capitala”, cf. Estera 1:2), numit probabil după abundența acestei flori în regiune."
      },
      {
       "t": " ca și în Sală, având patru coți."
@@ -48727,7 +48727,7 @@
       "source": "Textul Masoretic (ebraică)",
       "original": "וַיַּעַשׂ חִירוֹם אֶת־הַכִּיֹּרוֹת וְאֶת־הַיָּעִים...",
       "translation": "„Și Hiram a făcut ligheanele, lopețile și vasele...” — traducerea rabinului Rosen.",
-      "note": "Ca și la pasajul precedent (7:13-26), Septuaginta (III Regate) reordonează substanțial inventarul vaselor Templului față de succesiunea versetelor din textul masoretic, iar unele versete masoretice sunt împărțite diferit față de edițiile ebraice moderne de referință (de exemplu, Miqra standard desparte v.41 în două versete acolo unde ediția Rosen le păstrează unite) — o chestiune de versificare, nu de conținut real diferit. Din acest motiv, comparația verset-cu-verset cu Septuaginta nu se face mecanic la acest pasaj tehnic; unde textul grecesc oferă o formulare clar identificabilă, ea e citată punctual mai jos."
+      "note": "Ca și la pasajul precedent (7:13-26), Septuaginta (III Regate) reordonează substanțial inventarul vaselor Templului față de succesiunea versetelor din textul masoretic. Din acest motiv, comparația verset-cu-verset cu Septuaginta nu se face mecanic la acest pasaj tehnic; unde textul grecesc oferă o formulare clar identificabilă, ea e citată punctual mai jos."
      }
     ],
     "refs": ["1 Împărați 7:28", "Exod 24:6", "Exod 39:32-43", "2 Împărați 25:14,15", "2 Cronici 4:8,11-16", "Ieremia 52:18,19"],
@@ -61625,7 +61625,7 @@
       "strong": "H8255",
       "pos": "numeral + substantiv, masculin plural",
       "def_ro": "șapte sicli (unitate de greutate pentru argint).",
-      "dict_ro": "Șekel — unitatea de bază a greutății pentru metale prețioase, de la șakal, „a cântări”: prețul nu se număra în monede, ci se cântărea. Metzudat David și Radak, după Targum Ionatan, citesc „șapte” ca șapte mine și „zece” ca zece sela de argint — o sumă mult mai mare decât sugerează traducerea literală, potrivită pentru un ogor întreg. Selaim din traducerea Rosen reflectă tocmai această tradiție de interpretare."
+      "dict_ro": "Șekel — unitatea de bază a greutății pentru metale prețioase, de la șakal, „a cântări”: prețul nu se număra în monede, ci se cântărea. Metzudat David și Radak, după Targum Ionatan, citesc „șapte” ca șapte mine și „zece” ca zece sela de argint — o sumă mult mai mare decât sugerează traducerea literală, potrivită pentru un ogor întreg."
      },
      {
       "t": " și zece selaim de argint."
@@ -63479,7 +63479,7 @@
       "strong": "H3629",
       "pos": "verb, qal, participiu + substantiv, feminin plural",
       "def_ro": "încerc rărunchii (lăuntrul, gândurile ascunse).",
-      "dict_ro": "Kelayot — literal „rărunchii”, considerați în gândirea biblică sediul gândurilor și al emoțiilor celor mai ascunse; Radak explică perechea „inima și rărunchii”: rărunchii sfătuiesc, iar inima hotărăște. Traducerea Rosen redă sensul („mintea”), nu imaginea anatomică. Formula revine la Ieremia (11:20; 20:12) și e preluată în Apocalipsa 2:23: „Eu sunt Cel ce cercetez rărunchii și inimile”."
+      "dict_ro": "Kelayot — literal „rărunchii”, considerați în gândirea biblică sediul gândurilor și al emoțiilor celor mai ascunse; Radak explică perechea „inima și rărunchii”: rărunchii sfătuiesc, iar inima hotărăște. Formula revine la Ieremia (11:20; 20:12) și e preluată în Apocalipsa 2:23: „Eu sunt Cel ce cercetez rărunchii și inimile”."
      },
      {
       "t": ", ca să îi dau omului după căile lui, după roadele faptelor lui."
@@ -63537,7 +63537,7 @@
       "strong": "H7124",
       "pos": "substantiv, masculin singular",
       "def_ro": "o pasăre (potârniche/cuc) care clocește ouă străine.",
-      "dict_ro": "Kore — o pasăre, identificată de obicei cu potârnichea (literal „cea care strigă”), numită și în 1 Samuel 26:20; Rashi o traduce în franceza veche prin „cuc”, de unde și redarea Rosen. Pilda, explicată de Rashi, Radak și Metzudat David: pasărea atrage cu glasul ei puii din ouă pe care nu le-a ouat, dar când cresc aceștia o părăsesc, pentru că nu sunt de felul ei; tot așa averea strânsă pe nedrept îl părăsește pe cel ce a strâns-o, la jumătatea zilelor lui."
+      "dict_ro": "Kore — o pasăre, identificată de obicei cu potârnichea (literal „cea care strigă”), numită și în 1 Samuel 26:20; Rashi o traduce în franceza veche prin „cuc”. Pilda, explicată de Rashi, Radak și Metzudat David: pasărea atrage cu glasul ei puii din ouă pe care nu le-a ouat, dar când cresc aceștia o părăsesc, pentru că nu sunt de felul ei; tot așa averea strânsă pe nedrept îl părăsește pe cel ce a strâns-o, la jumătatea zilelor lui."
      },
      {
       "t": ", clocind ouă pe care nu le-a ouat, este cel ce strânge bogăție pe nedrept; la jumătatea zilelor lui, [bogăția] îl va părăsi, și când îi va veni sfârșitul va fi un biet nebun."
@@ -67923,7 +67923,7 @@
       "strong": "H2181",
       "pos": "verb, qal, participiu, feminin singular",
       "def_ro": "hangiță; literal: desfrânată.",
-      "dict_ro": "Zona — sensul literal este „desfrânată”, dar Targumul lui Ionatan traduce „pundekita”, „hangiță, cea care vinde mâncare”, iar Metzudat Țion explică la fel, legând cuvântul de mazon, „hrană”; traducerea rabinului Rosen urmează această lectură. Radak discută ambele sensuri și observă că Targumul folosește „hangiță” și acolo unde e vorba limpede de desfrânate, pentru că hanul era deschis tuturor. Noul Testament o numește pe Rahav pentru credința ei (Evrei 11:31) și pentru faptele ei (Iacov 2:25), iar Matei 1:5 o pune în genealogia lui Iisus."
+      "dict_ro": "Zona — sensul literal este „desfrânată”, dar Targumul lui Ionatan traduce „pundekita”, „hangiță, cea care vinde mâncare”, iar Metzudat Țion explică la fel, legând cuvântul de mazon, „hrană”. Radak discută ambele sensuri și observă că Targumul folosește „hangiță” și acolo unde e vorba limpede de desfrânate, pentru că hanul era deschis tuturor. Noul Testament o numește pe Rahav pentru credința ei (Evrei 11:31) și pentru faptele ei (Iacov 2:25), iar Matei 1:5 o pune în genealogia lui Iisus."
      },
      {
       "t": " al cărei nume era Rahav și s-au culcat acolo."
@@ -69647,7 +69647,7 @@
       "strong": "H5707",
       "pos": "substantiv, masculin singular",
       "def_ro": "martor.",
-      "dict_ro": "Ed — martorul (de la ud, „a repeta, a atesta”). Versetul se încheie ciudat, cu verbul la singular: „și a spus: Martor!”. Metzudat David și Radak explică: fie tot poporul a răspuns ca un singur om, fie a vorbit doar Saul, unsul. Talmudul (Makot 23b), urmat de Rashi și Radak, citește altfel: a ieșit un glas ceresc și a spus „Eu sunt martor” — unul dintre cele trei locuri unde duhul sfânt s-a arătat într-un tribunal omenesc (celelalte: la judecata lui Iuda cu Tamar și la judecata lui Solomon). Traducerea Rosen urmează această lectură: „și [DOMNUL] a spus: «Sunt martor!»”."
+      "dict_ro": "Ed — martorul (de la ud, „a repeta, a atesta”). Versetul se încheie ciudat, cu verbul la singular: „și a spus: Martor!”. Metzudat David și Radak explică: fie tot poporul a răspuns ca un singur om, fie a vorbit doar Saul, unsul. Talmudul (Makot 23b), urmat de Rashi și Radak, citește altfel: a ieșit un glas ceresc și a spus „Eu sunt martor” — unul dintre cele trei locuri unde duhul sfânt s-a arătat într-un tribunal omenesc (celelalte: la judecata lui Iuda cu Tamar și la judecata lui Solomon)."
      },
      {
       "t": " pentru voi și unsul său este martor în această zi, că nu ați găsit nimic în mâna mea...” și [DOMNUL] a spus: „Sunt martor!”"
@@ -70191,7 +70191,7 @@
       "strong": "H4784",
       "pos": "conjuncție + negație + verb, hifil, imperfect, persoana a II-a masculin plural",
       "def_ro": "nu vă veți împotrivi, nu vă veți răscula.",
-      "dict_ro": "Mara — „a fi îndărătnic, a se răzvrăti”, de la aceeași rădăcină cu meri, „răzvrătire” (Metzudat Țion); e verbul cu care Moise descrie poporul din pustie: „ați fost răzvrătiți împotriva DOMNULUI” (Deuteronom 9:7, 24). Versetul e o condiție fără încheiere explicită: traducerea Rosen o completează între paranteze „[atunci va fi bine]”, iar Rashi o citește ca făgăduință: „veți trăi mult, și voi, și regele”. Metzudat David: atunci regele va merge înaintea voastră la luptă, iar voi toți veți fi „după DOMNUL”."
+      "dict_ro": "Mara — „a fi îndărătnic, a se răzvrăti”, de la aceeași rădăcină cu meri, „răzvrătire” (Metzudat Țion); e verbul cu care Moise descrie poporul din pustie: „ați fost răzvrătiți împotriva DOMNULUI” (Deuteronom 9:7, 24). Versetul e o condiție fără încheiere explicită; Rashi o citește ca făgăduință: „veți trăi mult, și voi, și regele”. Metzudat David: atunci regele va merge înaintea voastră la luptă, iar voi toți veți fi „după DOMNUL”."
      },
      {
       "t": " împotriva glasului DOMNULUI, și dacă atât voi, cât și regele care domnește peste voi, veți merge după DOMNUL, Dumnezeul tău, [atunci va fi bine.]"
@@ -75581,7 +75581,7 @@
       "strong": "H8245",
       "pos": "verb, qal, participiu, masculin singular",
       "def_ro": "veghez, sunt treaz, mă grăbesc.",
-      "dict_ro": "Șakad — „a veghea, a sta treaz, a se grăbi”; jocul de cuvinte cu șaked, „migdal”, e explicit în traducerea Rosen, care adaugă o notă: aceeași rădăcină. Rashi: precum migdalul se grăbește să înflorească înaintea tuturor pomilor, așa Mă grăbesc și Eu să-Mi împlinesc cuvântul. Midrașul adus de Rashi calculează: de la înflorirea migdalului până la coacere sunt douăzeci și una de zile — câte sunt între 17 Tamuz, când a fost spart zidul Ierusalimului, și 9 Av, când a ars Templul. Tocmai în aceste zile se citește haftara."
+      "dict_ro": "Șakad — „a veghea, a sta treaz, a se grăbi”; jocul de cuvinte cu șaked, „migdal”, vine din aceeași rădăcină. Rashi: precum migdalul se grăbește să înflorească înaintea tuturor pomilor, așa Mă grăbesc și Eu să-Mi împlinesc cuvântul. Midrașul adus de Rashi calculează: de la înflorirea migdalului până la coacere sunt douăzeci și una de zile — câte sunt între 17 Tamuz, când a fost spart zidul Ierusalimului, și 9 Av, când a ars Templul. Tocmai în aceste zile se citește haftara."
      },
      {
       "t": " (n.t. aceeași rădăcină cu substantivul „migdal” din versetul anterior) să-Mi împlinesc cuvântul.”"
@@ -75826,7 +75826,7 @@
       "strong": "H312",
       "pos": "prepoziție + substantiv, masculin plural + adjectiv, masculin plural",
       "def_ro": "alți dumnezei, zei străini.",
-      "dict_ro": "Elohim aherim — literal „alți dumnezei”, expresia din prima poruncă (Exod 20:3); traducerea Rosen o redă „dumnezei falși”. Acuzația are trei trepte: M-au părăsit, au ars tămâie altor dumnezei, s-au închinat „lucrării mâinilor lor” — imaginea absurdă a omului care se închină la ce a făcut el însuși (Isaia 2:8). Rashi: „voi vorbi judecata Mea cu ei” — Mă voi certa cu ei, cu Iuda și Ierusalimul; Radak: vorbirea lui Dumnezeu cu ei este aducerea regilor asupra lor, pedeapsa ca mustrare."
+      "dict_ro": "Elohim aherim — literal „alți dumnezei”, expresia din prima poruncă (Exod 20:3). Acuzația are trei trepte: M-au părăsit, au ars tămâie altor dumnezei, s-au închinat „lucrării mâinilor lor” — imaginea absurdă a omului care se închină la ce a făcut el însuși (Isaia 2:8). Rashi: „voi vorbi judecata Mea cu ei” — Mă voi certa cu ei, cu Iuda și Ierusalimul; Radak: vorbirea lui Dumnezeu cu ei este aducerea regilor asupra lor, pedeapsa ca mustrare."
      },
      {
       "t": " și s-au prosternat la lucrarea mâinilor lor."
@@ -77269,7 +77269,7 @@
       "strong": "H5923",
       "pos": "substantiv, masculin singular + sufix persoana a II-a feminin",
       "def_ro": "jugul tău.",
-      "dict_ro": "Ol — jugul, imaginea robiei: „am sfărâmat jugul vostru” e limbajul ieșirii din Egipt (Levitic 26:13). Versetul are o problemă celebră de text: se scrie e'evod („nu voi sluji [idolilor]”) și se citește e'evor („nu voi călca [porunca]”), cum explică Radak; traducerea Rosen urmează citirea: „nu voi păcătui”. Dar promisiunea n-a fost ținută: „pe orice colină înaltă și sub orice copac înfrunzit” — locurile cultului canaanit (Deuteronom 12:2). Metzudat David: ca desfrânata, care nu stă într-un loc, ci umblă din loc în loc (Proverbe 7:11)."
+      "dict_ro": "Ol — jugul, imaginea robiei: „am sfărâmat jugul vostru” e limbajul ieșirii din Egipt (Levitic 26:13). Versetul are o problemă celebră de text: se scrie e'evod („nu voi sluji [idolilor]”) și se citește e'evor („nu voi călca [porunca]”), cum explică Radak. Dar promisiunea n-a fost ținută: „pe orice colină înaltă și sub orice copac înfrunzit” — locurile cultului canaanit (Deuteronom 12:2). Metzudat David: ca desfrânata, care nu stă într-un loc, ci umblă din loc în loc (Proverbe 7:11)."
      },
      {
       "t": ", ți-am scos frâiele și ai spus: ‘Nu voi păcătui’. Și totuși, pe orice colină înaltă și sub orice copac înfrunzit rătăcești ca o prostituată."
@@ -77464,7 +77464,7 @@
       "strong": "H1516",
       "pos": "prepoziție + substantiv, masculin singular, cu articol",
       "def_ro": "în vale.",
-      "dict_ro": "Gai — valea; Rashi, Metzudat David și Metzudat Țion o identifică cu „valea din fața Bet-Peorului” (Deuteronom 3:29), unde Israel s-a alipit de Baal-Peor (Numeri 25) — de unde completarea Rosen, „Valea [Peor]”; alții o înțeleg ca Valea fiilor lui Hinom, unde se ardeau copii (Ieremia 7:31). Imaginea „dromaderei iuți” (bihra kala) e a unei cămile tinere, care aleargă încoace și încolo; Metzudat Țion leagă „întortocheate” (mesarehet) de sroh, „șiretul sandalei”: drumuri împletite, încâlcite."
+      "dict_ro": "Gai — valea; Rashi, Metzudat David și Metzudat Țion o identifică cu „valea din fața Bet-Peorului” (Deuteronom 3:29), unde Israel s-a alipit de Baal-Peor (Numeri 25); alții o înțeleg ca Valea fiilor lui Hinom, unde se ardeau copii (Ieremia 7:31). Imaginea „dromaderei iuți” (bihra kala) e a unei cămile tinere, care aleargă încoace și încolo; Metzudat Țion leagă „întortocheate” (mesarehet) de sroh, „șiretul sandalei”: drumuri împletite, încâlcite."
      },
      {
       "t": " [Peor], ia aminte la ce ai făcut, ca o dromaderă iute, ale cărei drumuri sunt întortocheate."
