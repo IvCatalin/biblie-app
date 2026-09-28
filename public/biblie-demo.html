@@ -4064,7 +4064,10 @@ function renderVerses(){
 function parseRefBookChapterVerse(refText){
   const book = findBookBySlugName(refText);
   if(!book) return null;
-  const m = refText.match(/(\d+)\D+(\d+)(?:-(\d+))?/);
+  // Capitolul și versetul se iau din forma „cap:vers”, ca să nu fie confundată
+  // cifra din numele cărților numerotate („1 Samuel 24:4”) cu numărul capitolului.
+  const m = refText.match(/(\d+)\s*:\s*(\d+)(?:\s*[-–]\s*(\d+))?/)
+    || refText.replace(/^\s*[1-3]\s+/, "").match(/(\d+)\D+(\d+)(?:-(\d+))?/);
   if(!m) return null;
   const chapter = parseInt(m[1], 10);
   const verse = parseInt(m[2], 10);
@@ -5924,6 +5927,13 @@ function findBookBySlugName(refText){
   // forma la singular "Psalmul N" (nu numele cărții "Psalmii"), care nu
   // se potrivește cu regula generică de mai jos (nu se termină în "ul").
   if(lower.startsWith("psalmul")) return BOOKS.find(b => b.slug === "psalms") || null;
+  // Întâi cartea cu care începe trimiterea, cea cu numele cel mai lung
+  // („1 Ioan 4:10” e 1 Ioan, nu Evanghelia după Ioan).
+  const starts = BOOKS.filter(b => {
+    const full = b.name.toLowerCase();
+    return lower.startsWith(full) || lower.startsWith(full.replace(/ul$/, ""));
+  });
+  if(starts.length) return starts.reduce((a, b) => b.name.length > a.name.length ? b : a);
   return BOOKS.find(b => {
     const full = b.name.toLowerCase();
     const core = full.replace(/ul$/, ""); // "Deuteronomul" -> "deuteronom", ca sa prinda si "Deuteronom"
