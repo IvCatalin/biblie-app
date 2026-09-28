@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "52 capitole · 1197 versete",
+ "meta": "53 capitole · 1207 versete",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -86476,6 +86476,1435 @@
      {
       "author": "Metzudat Țion",
       "text": "„Behipazon” — cu sensul de grabă și spaimă. „Uvimnusa” — de la „fugă și urmărire”. „Umeasifhem” — cel care merge în urma taberei se numește measef, ca în „ariergarda tuturor taberelor” (Numeri 10:25), pentru că strânge pe toți cei care se poticnesc și rămân la urmă."
+     }
+    ]
+   }
+  ]
+ },
+  {
+  "num": 53,
+  "title": "Haftarat Ki Tețe",
+  "ref": "Isaia 54:1-10",
+  "intro": "Haftarat Ki Tețe este a cincea dintre cele șapte haftarot „ale mângâierii”. Același fragment din profetul Isaia se citește și ca Haftarat Noah, iar partea a doua a capitolului 54 se citește la Reeh. Ierusalimul e asemănat cu o femeie stearpă și părăsită, căreia i se spune: „Bucură-te, stearpo care n-ai născut”, căci copiii cetății părăsite vor fi mai mulți decât ai celei locuite. Dumnezeu Se numește soțul și Răscumpărătorul ei și făgăduiește: „Căci doar o clipă te-am părăsit, dar cu milă eternă te voi reîntoarce”. Juruința e pusă alături de cea de după potop: cum a jurat că apele lui Noe nu vor mai acoperi pământul, așa jură că nu Se va mai mânia; „munții pot fi mutați..., dar bunătatea Mea nu se va îndepărta de tine”. Pericopa Ki Tețe cuprinde legi despre căsătorie și despărțire, iar haftara vorbește despre soția părăsită pe care soțul o cheamă înapoi. Comunitățile care au citit haftara pentru Șabat Roș Hodeș când Sabatul pericopei Reeh a coincis cu Roș Hodeș Elul încheie Haftarat Ki Tețe cu prima parte a Haftaratei Reeh.",
+  "verses": [
+   {
+    "v": "54:1",
+    "t": "Bucură-te, stearpo care n-ai născut, izbucnește în strigăt de bucurie și fii veselă, tu cea care n-ai avut durerile facerii, căci copiii [cetății] părăsite sunt mai mulți decât copiii celei locuite – a spus DOMNUL.",
+    "heb": "רָנִּי עֲקָרָה לֹא יָלָדָה פִּצְחִי רִנָּה וְצַהֲלִי לֹא־חָלָה כִּי־רַבִּים בְּנֵי־שׁוֹמֵמָה מִבְּנֵי בְעוּלָה אָמַר יְהוָה׃",
+    "translit": "Roni akara lo ialada pițhi rina vețahali lo-hala ki-rabim benei-șomema mibenei veula amar ADONAI.",
+    "tokens": [
+     {
+      "t": "Bucură-te",
+      "w": "Bucură-te",
+      "heb": "רָנִּי",
+      "translit": "roni",
+      "strong": "H7442",
+      "pos": "verb, qal imperativ",
+      "def_ro": "a striga de bucurie, a cânta cu veselie.",
+      "dict_ro": "Aceeași rădăcină ranan apare des în Psalmi pentru cântarea de laudă comunitară — un imperativ paradoxal aici, adresat unei femei „stearpe”, căreia i se cere să cânte înainte ca binecuvântarea să se arate."
+     },
+     {
+      "t": ", "
+     },
+     {
+      "t": "stearpo",
+      "w": "stearpo",
+      "heb": "עֲקָרָה",
+      "translit": "akara",
+      "strong": "H6135",
+      "pos": "adjectiv, feminin",
+      "def_ro": "stearpă, care nu poate naște.",
+      "dict_ro": "Rashi identifică „stearpa” cu Ierusalimul, „ca și cum n-ar fi născut” — imaginea revine la Sara, Rebeca, Rahela, Ana, femei sterpe cărora Dumnezeu le-a dat totuși urmași, model profetic pentru restaurarea poporului."
+     },
+     {
+      "t": " care n-ai "
+     },
+     {
+      "t": "născut",
+      "w": "născut",
+      "heb": "יָלָדָה",
+      "translit": "ialada",
+      "strong": "H3205",
+      "pos": "verb, qal perfect",
+      "def_ro": "a naște."
+     },
+     {
+      "t": ", izbucnește în "
+     },
+     {
+      "t": "strigăt de bucurie",
+      "w": "strigăt de bucurie",
+      "heb": "פִּצְחִי רִנָּה",
+      "translit": "pițhi rina",
+      "strong": "H6476",
+      "pos": "verb+substantiv",
+      "def_ro": "izbucnește în cântec/strigăt de bucurie."
+     },
+     {
+      "t": " și fii "
+     },
+     {
+      "t": "veselă",
+      "w": "veselă",
+      "heb": "וְצַהֲלִי",
+      "translit": "vetzahali",
+      "strong": "H6670",
+      "pos": "verb, qal imperativ",
+      "def_ro": "a striga de veselie, a necheza (de bucurie)."
+     },
+     {
+      "t": ", tu cea care n-ai avut "
+     },
+     {
+      "t": "durerile facerii",
+      "w": "durerile facerii",
+      "heb": "לֹא־חָלָה",
+      "translit": "lo-hala",
+      "strong": "H2342",
+      "pos": "verb, qal perfect negat",
+      "def_ro": "n-ai avut durerile nașterii — verbul hhil, folosit pentru travaliu."
+     },
+     {
+      "t": ", căci copiii [cetății] "
+     },
+     {
+      "t": "părăsite",
+      "w": "părăsite",
+      "heb": "שׁוֹמֵמָה",
+      "translit": "șomēma",
+      "strong": "H8074",
+      "pos": "verb, qal participiu, feminin",
+      "def_ro": "pustiită, părăsită, dezolată."
+     },
+     {
+      "t": " sunt "
+     },
+     {
+      "t": "mai mulți",
+      "w": "mai mulți",
+      "heb": "רַבִּים",
+      "translit": "rabim",
+      "strong": "H7227",
+      "pos": "adjectiv, masculin plural",
+      "def_ro": "mulți, numeroși."
+     },
+     {
+      "t": " decât copiii celei "
+     },
+     {
+      "t": "locuite",
+      "w": "locuite",
+      "heb": "בְעוּלָה",
+      "translit": "veula",
+      "strong": "H1166",
+      "pos": "verb, qal participiu pasiv, feminin",
+      "def_ro": "stăpânită, măritată (literal, „având bărbat”).",
+      "dict_ro": "Ba'al înseamnă și „a stăpâni” și „a fi soț” — femeia „be'ula” e cea căsătorită, cu bărbat prezent, spre deosebire de cea „pustiită/singură”. Paradoxul versetului: femeia părăsită va avea mai mulți copii decât cea cu soț — imagine a restaurării miraculoase a Ierusalimului exilat."
+     },
+     {
+      "t": " – a spus "
+     },
+     {
+      "t": "DOMNUL",
+      "w": "DOMNUL",
+      "heb": "יְהוָה",
+      "translit": "ADONAI",
+      "strong": "H3068",
+      "pos": "substantiv propriu",
+      "def_ro": "Tetragrama."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "רָנִּי עֲקָרָה לֹא יָלָדָה פִּצְחִי רִנָּה וְצַהֲלִי לֹא־חָלָה כִּי־רַבִּים בְּנֵי־שׁוֹמֵמָה מִבְּנֵי בְעוּלָה אָמַר יְהוָה",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Fără variante semnificative."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Εὐφράνθητι, στεῖρα ἡ οὐ τίκτουσα· ῥῆξον καὶ βόησον, ἡ οὐκ ὠδίνουσα· ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα.",
+      "greek": true,
+      "translation": "„Veselește-te, stearpo, cea care nu naști; izbucnește și strigă, cea care n-ai durerile nașterii; căci mulți sunt copiii celei pustii, mai mulți decât ai celei ce are bărbat.”",
+      "note": "Traducere apropiată de original; LXX pune „a striga” (βόησον) la imperativ activ simplu, ușor mai direct decât nuanța ebraică de „a izbucni” (patzach)."
+     }
+    ],
+    "refs": [
+     "Galateni 4:27",
+     "1 Samuel 2:5",
+     "Isaia 62:4",
+     "Isaia 42:10,11",
+     "Isaia 44:23"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Cântă, stearpo” — Ierusalimul, care era ca și cum n-ar fi născut. „Tu cea care n-ai avut durerile facerii” — verbul „hala” e o expresie a nașterii, căci femeia care naște o face cu dureri și zvârcolire. „Căci copiii celei pustii” — fiica Edomului [va avea mai puțini]."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "[Text absent pentru acest verset în arhiva locală — vezi Metzudat Țion și celelalte surse de mai jos pentru acoperirea lexicală și interpretativă a versetului.]"
+     },
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "Vorbește despre Ierusalim, asemănându-l cu o femeie, iar Dumnezeu e soțul ei, și Israel sunt copiii ei, și vorbește despre izbăvirea viitoare. „Stearpă, care n-a născut” — nu stearpă cu adevărat, căci a mai născut copii înainte, dar în zilele exilului e ca și cum ar fi stearpă și n-ar fi născut niciodată, căci e pustiită și fără copii. „Decât copiii celei locuite” — decât copiii celorlalte cetăți populate, asemănate unei femei care trăiește în pace cu soțul și copiii ei."
+     },
+     {
+      "author": "John Gill, Expoziție la Vechiul Testament",
+      "text": "„Cântă, stearpo, care n-ai născut” — Targumul interpretează aceasta despre Ierusalim; iar apostolul aplică textul Ierusalimului de sus, mama tuturor, Biserica de atunci a Evangheliei (Galateni 4:26), care, la începutul ei, pe vremea lui Hristos, era ca o femeie stearpă — numărul convertiților era foarte mic."
+     },
+     {
+      "author": "Jean Calvin, Comentariu la Isaia",
+      "text": "„Strigă” — după ce a vorbit despre moartea lui Hristos, [profetul] trece, pe bună dreptate, la Biserică, ca să simțim mai adânc în noi înșine valoarea și eficacitatea morții Sale. Nu-L putem privi pe Hristos izolat; trebuie să venim la trupul Său, care este Biserica, fiindcă Hristos a suferit pentru Biserică, nu pentru Sine."
+     },
+     {
+      "author": "Iustin Martirul, Dialog cu Trifon",
+      "text": "Căci toate neamurile erau „pustiite” de adevăratul Dumnezeu, slujind lucrărilor mâinilor lor; dar iudeii și samaritenii, având cuvântul lui Dumnezeu dat lor prin profeți, și așteptând mereu pe Hristos, nu L-au recunoscut când a venit, în afară de puțini, despre care Duhul profeției, prin Isaia, prezisese că vor fi mântuiți."
+     },
+     {
+      "author": "Origen, Omilii",
+      "text": "Așa că atunci când [poporul] nu era pustiu sau pământ uscat pentru Israel, era, cu privire la ceea ce-i era propriu, pustiu și pământ uscat pentru neamurile păgâne. Dar când s-a întors de la Israel și a devenit pentru acel Israel ca un pustiu și pământ uscat, atunci harul s-a revărsat peste neamurile păgâne, și Iisus Hristos a devenit pentru noi acum nu pustiu, ci belșug, și nu pământ uscat, ci unul roditor."
+     },
+     {
+      "author": "Teodoret al Cirului, Comentariu la Isaia",
+      "text": "Prin aceste profeții, Dumnezeul universului declară că, în iubirea Lui covârșitoare pentru oameni, nu Se numește doar „Domn” și „Tată”, ci Se numește și „soț” și „mire”. Această profeție învață că femeia părăsită a născut mai mulți copii decât cea care avea soț."
+     }
+    ]
+   },
+   {
+    "v": "54:2",
+    "t": "Lărgește locul cortului tău și întinde perdelele locuințelor tale, nu pregeta; lungește-ți corzile și întărește-ți țărușii.",
+    "heb": "הַרְחִיבִי מְקוֹם אָהֳלֵךְ וִירִיעוֹת מִשְׁכְּנוֹתַיִךְ יַטּוּ אַל־תַּחְשֹׂכִי הַאֲרִיכִי מֵיתָרַיִךְ וִיתֵדֹתַיִךְ חַזֵּקִי׃",
+    "translit": "Harhivi mekom aholeh viriot mișkenotaih iatu al-tahsohi haarihi meitaraih vitedotaih hazeiki.",
+    "tokens": [
+     {
+      "t": "Lărgește",
+      "w": "Lărgește",
+      "heb": "הַרְחִיבִי",
+      "translit": "harhivi",
+      "strong": "H7337",
+      "pos": "verb, hifil imperativ",
+      "def_ro": "a lărgi, a face loc."
+     },
+     {
+      "t": " locul "
+     },
+     {
+      "t": "cortului tău",
+      "w": "cortului tău",
+      "heb": "אָהֳלֵךְ",
+      "translit": "aholēh",
+      "strong": "H168",
+      "pos": "substantiv + sufix",
+      "def_ro": "cortul tău.",
+      "dict_ro": "Imaginea cortului lărgit reia tema nomadă a patriarhilor — Israel, ca un trib de păstori care trebuie să-și extindă locuința pentru o familie tot mai numeroasă, un ecou direct al promisiunii făcute lui Avraam."
+     },
+     {
+      "t": " și "
+     },
+     {
+      "t": "întinde",
+      "w": "întinde",
+      "heb": "יַטּוּ",
+      "translit": "iatu",
+      "strong": "H5186",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a întinde, a înclina."
+     },
+     {
+      "t": " "
+     },
+     {
+      "t": "perdelele locuințelor tale",
+      "w": "perdelele locuințelor tale",
+      "heb": "וִירִיעוֹת מִשְׁכְּנוֹתַיִךְ",
+      "translit": "viriot mișkenotaih",
+      "strong": "H3407",
+      "pos": "substantiv + sufix",
+      "def_ro": "pânzele/covoarele cortului tău."
+     },
+     {
+      "t": ", nu "
+     },
+     {
+      "t": "pregeta",
+      "w": "pregeta",
+      "heb": "תַּחְשֹׂכִי",
+      "translit": "tahsohi",
+      "strong": "H2820",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a se reține, a economisi, a se opri."
+     },
+     {
+      "t": "; "
+     },
+     {
+      "t": "lungește-ți",
+      "w": "lungește-ți",
+      "heb": "הַאֲרִיכִי",
+      "translit": "haarihi",
+      "strong": "H748",
+      "pos": "verb, hifil imperativ",
+      "def_ro": "a lungi, a prelungi."
+     },
+     {
+      "t": " "
+     },
+     {
+      "t": "corzile",
+      "w": "corzile",
+      "heb": "מֵיתָרַיִךְ",
+      "translit": "mēitaraih",
+      "strong": "H4340",
+      "pos": "substantiv + sufix",
+      "def_ro": "funiile/corzile tale — cele care fixează cortul.",
+      "dict_ro": "Rashi le descrie ca „funii subțiri care atârnă la baza corturilor și sunt legate de țăruși” — detaliu tehnic autentic al vieții nomade antice, cunoscut din practica reală de instalare a corturilor."
+     },
+     {
+      "t": " și "
+     },
+     {
+      "t": "întărește-ți",
+      "w": "întărește-ți",
+      "heb": "חַזֵּקִי",
+      "translit": "hazēki",
+      "strong": "H2388",
+      "pos": "verb, piel imperativ",
+      "def_ro": "a întări, a fixa bine."
+     },
+     {
+      "t": " "
+     },
+     {
+      "t": "țărușii",
+      "w": "țărușii",
+      "heb": "וִיתֵדֹתַיִךְ",
+      "translit": "vitedotaih",
+      "strong": "H3489",
+      "pos": "substantiv + sufix",
+      "def_ro": "țărușii tăi."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַרְחִיבִי מְקוֹם אָהֳלֵךְ וִירִיעוֹת מִשְׁכְּנוֹתַיִךְ יַטּוּ אַל־תַּחְשֹׂכִי הַאֲרִיכִי מֵיתָרַיִךְ וִיתֵדֹתַיִךְ חַזֵּקִי",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Fără variante semnificative."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "πλάτυνον τὸν τόπον τῆς σκηνῆς σου καὶ τῶν αὐλαιῶν σου, πῆξον, μὴ φείσῃ· μάκρυνον τὰ σχοινίσματά σου καὶ τοὺς πασσάλους σου κατίσχυσον.",
+      "greek": true,
+      "translation": "„Lărgește locul cortului tău și al draperiilor tale, întinde-le, nu cruța; lungește frânghiile tale și țărușii tăi întărește-i.”",
+      "note": "Traducere apropiată de original."
+     }
+    ],
+    "refs": [
+     "Isaia 33:20",
+     "Isaia 49:19,20",
+     "Ieremia 10:20"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Și să întindă” — departe. „Lungește-ți corzile” — acestea sunt funiile subțiri care atârnă la baza corturilor, legate de țăruși, numiți „cheville” în franceză, care se înfig în pământ."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "[Absent din arhiva locală pentru acest verset — a se vedea Metzudat Țion, Șadal, Gill și Calvin mai jos.]"
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tahsohi” (pregeta) — termen de reținere/economisire."
+     },
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "„Lărgește locul cortului tău” — asemuiește Ierusalimul unei femei care locuiește într-un cort, și-i spune că trebuie să-și lărgească cortul pentru mulțimea copiilor ei care vor veni la ea. „Locuințele tale” — [forma de plural pentru o singură locuință], la plural pentru frumusețea exprimării poetice, ca în alte locuri asemănătoare."
+     },
+     {
+      "author": "John Gill, Expoziție la Vechiul Testament",
+      "text": "„Lărgește locul cortului tău” — la care Biserica e asemănată, din pricina condiției ei nesigure și mobile, fiind uneori într-un loc, alteori în altul; dar acum se arată că va fi lărgită, și se va face loc pentru o mulțime de locuitori noi — starea Bisericii Evangheliei nu va fi limitată la Ierusalim, ci se va extinde și în alte părți ale Iudeii, Galileii și Samariei."
+     },
+     {
+      "author": "Jean Calvin, Comentariu la Isaia",
+      "text": "„Lărgește locul corturilor tale” — [profetul] continuă argumentul prin alte metafore, și promite că Domnul nu doar va restaura Biserica Sa, ci îi va dărui o condiție mult mai excelentă. Cei ce cred că Biserica e comparată aici cu o sinagogă greșesc, după părerea mea."
+     }
+    ]
+   },
+   {
+    "v": "54:3",
+    "t": "Căci la dreapta și la stânga te vei întinde, urmașii tăi vor moșteni neamuri și vor locui în cetățile pustiite.",
+    "heb": "כִּי־יָמִין וּשְׂמֹאול תִּפְרֹצִי וְזַרְעֵךְ גּוֹיִם יִירָשׁ וְעָרִים נְשַׁמּוֹת יוֹשִׁיבוּ׃",
+    "translit": "Ki-iamin usemol tifroți vezareh goim iiraș vearim neșamot ioșivu.",
+    "tokens": [
+     {
+      "t": "Căci la "
+     },
+     {
+      "t": "dreapta și la stânga",
+      "w": "dreapta și la stânga",
+      "heb": "יָמִין וּשְׂמֹאול",
+      "translit": "iamin usmol",
+      "strong": "H3225",
+      "pos": "substantiv compus",
+      "def_ro": "dreapta și stânga."
+     },
+     {
+      "t": " te vei "
+     },
+     {
+      "t": "întinde",
+      "w": "întinde",
+      "heb": "תִּפְרֹצִי",
+      "translit": "tifroți",
+      "strong": "H6555",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a izbucni, a se răspândi, a sparge granițele.",
+      "dict_ro": "Paratz e verbul folosit despre Pereț, fiul lui Iuda, care „a izbucnit” din pântecele mamei (Geneza 38:29) — aceeași rădăcină leagă imaginea nașterii bruște de expansiunea teritorială bruscă a poporului."
+     },
+     {
+      "t": ", "
+     },
+     {
+      "t": "urmașii tăi",
+      "w": "urmașii tăi",
+      "heb": "וְזַרְעֵךְ",
+      "translit": "vezareh",
+      "strong": "H2233",
+      "pos": "substantiv + sufix",
+      "def_ro": "sămânța ta, urmașii tăi."
+     },
+     {
+      "t": " vor "
+     },
+     {
+      "t": "moșteni",
+      "w": "moșteni",
+      "heb": "יִירָשׁ",
+      "translit": "iiraș",
+      "strong": "H3423",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a moșteni, a lua în stăpânire."
+     },
+     {
+      "t": " "
+     },
+     {
+      "t": "neamuri",
+      "w": "neamuri",
+      "heb": "גּוֹיִם",
+      "translit": "goim",
+      "strong": "H1471",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "neamuri, națiuni."
+     },
+     {
+      "t": " și vor "
+     },
+     {
+      "t": "locui",
+      "w": "locui",
+      "heb": "יוֹשִׁיבוּ",
+      "translit": "ioșivu",
+      "strong": "H3427",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "a face să locuiască, a repopula."
+     },
+     {
+      "t": " în "
+     },
+     {
+      "t": "cetățile pustiite",
+      "w": "cetățile pustiite",
+      "heb": "נְשַׁמּוֹת",
+      "translit": "neșamot",
+      "strong": "H8074",
+      "pos": "verb, nifal participiu, feminin plural",
+      "def_ro": "[cetăți] pustiite — aceeași rădăcină ca „șomēma” din v.1."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי־יָמִין וּשְׂמֹאול תִּפְרֹצִי וְזַרְעֵךְ גּוֹיִם יִירָשׁ וְעָרִים נְשַׁמּוֹת יוֹשִׁיבוּ",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Fără variante semnificative."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "εἰς τὰ δεξιὰ καὶ εἰς τὰ ἀριστερὰ ἐκπέτασον, καὶ τὸ σπέρμα σου ἔθνη κληρονομήσει, καὶ πόλεις ἠρημωμένας κατοικιεῖς.",
+      "greek": true,
+      "translation": "„Întinde-te la dreapta și la stânga, și sămânța ta va moșteni neamuri, și vei repopula cetăți pustiite.”",
+      "note": "Traducere apropiată de original."
+     }
+    ],
+    "refs": [
+     "Isaia 2:2-4",
+     "Isaia 49:18",
+     "Isaia 49:8,19",
+     "Isaia 11:9-12",
+     "Isaia 55:5",
+     "Isaia 52:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Vei prevala” — vei izbândi, vei izbucni [tifroți]."
+     },
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "„Căci” — explică pilda de dinainte, cu sensul că țara lui Israel nu va fi de ajuns pentru mulțimea celor ce se întorc din exil. „Va moșteni neamuri” — va moșteni ținuturile în care locuiau odinioară neamuri deosebite, ținuturile din jurul Țării lui Israel unde erau Edom, Amon, Moab, Aram și alte neamuri."
+     },
+     {
+      "author": "John Gill, Expoziție la Vechiul Testament",
+      "text": "„Vei izbucni la dreapta și la stânga” — spre sud și spre nord, ca Targumul, asemenea unei revărsări de apă ce sparge malurile râului și se întinde în ținuturile din jur; sau ca pruncii care izbucnesc din pântece la naștere, precum Pereț, de la care și-a primit numele (Geneza 38:29)."
+     },
+     {
+      "author": "Jean Calvin, Comentariu la Isaia",
+      "text": "„Fiindcă vei fi înmulțit” — urmează acum motivul pentru care a poruncit ca funiile să fie lungite pentru lărgirea corturilor: un spațiu modest n-ar cuprinde poporul numeros pe care Domnul îl va aduna laolaltă din toate colțurile. Iar fiindcă Iudeea era hidoasă din pricina ruinelor și pustiirii, el spune că cetățile părăsite vor fi locuite din nou."
+     }
+    ]
+   },
+   {
+    "v": "54:4",
+    "t": "Nu te teme, căci nu vei fi rușinat, nu te simți umilit căci nu vei fi înjosit; ci rușinea tinereții tale o vei uita și înjosirea văduviei tale nu ți-o vei mai aminti.",
+    "heb": "אַל־תִּירְאִי כִּי־לֹא תֵבוֹשִׁי וְאַל־תִּכָּלְמִי כִּי לֹא תַחְפִּירִי כִּי בֹשֶׁת עֲלוּמַיִךְ תִּשְׁכָּחִי וְחֶרְפַּת אַלְמְנוּתַיִךְ לֹא תִזְכְּרִי־עוֹד׃",
+    "translit": "Al-tirei ki-lo tevoși veal-tikalmi ki lo tahpiri ki voșet alumaih tișkahi veherpat almenutaih lo tizkeri-od.",
+    "tokens": [
+     {
+      "t": "Nu te teme, căci nu vei fi "
+     },
+     {
+      "t": "rușinat",
+      "w": "rușinat",
+      "heb": "תֵבוֹשִׁי",
+      "translit": "tēvoși",
+      "strong": "H954",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a fi rușinat."
+     },
+     {
+      "t": ", nu te simți "
+     },
+     {
+      "t": "umilit",
+      "w": "umilit",
+      "heb": "תִּכָּלְמִי",
+      "translit": "tikalmi",
+      "strong": "H3637",
+      "pos": "verb, nifal imperfect",
+      "def_ro": "a fi umilit, făcut de rușine."
+     },
+     {
+      "t": " căci nu vei fi "
+     },
+     {
+      "t": "înjosit",
+      "w": "înjosit",
+      "heb": "תַחְפִּירִי",
+      "translit": "tahpiri",
+      "strong": "H2659",
+      "pos": "verb, hifil imperfect",
+      "def_ro": "a fi făcut de rușine, înjosit."
+     },
+     {
+      "t": "; ci "
+     },
+     {
+      "t": "rușinea tinereții tale",
+      "w": "rușinea tinereții tale",
+      "heb": "בֹשֶׁת עֲלוּמַיִךְ",
+      "translit": "voșet aluமaih",
+      "strong": "H5934",
+      "pos": "substantiv + sufix",
+      "def_ro": "rușinea tinereții tale.",
+      "dict_ro": "Rashi identifică „alumaih” cu „tinerețea ta” — probabil o aluzie la robia din Egipt, prima „rușine” istorică a poporului, urmată de „văduvia” exilului babilonian, a doua rușine — un paralelism istoric dublu."
+     },
+     {
+      "t": " o vei "
+     },
+     {
+      "t": "uita",
+      "w": "uita",
+      "heb": "תִּשְׁכָּחִי",
+      "translit": "tișkahi",
+      "strong": "H7911",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a uita."
+     },
+     {
+      "t": " și "
+     },
+     {
+      "t": "înjosirea văduviei tale",
+      "w": "înjosirea văduviei tale",
+      "heb": "וְחֶרְפַּת אַלְמְנוּתַיִךְ",
+      "translit": "veherpat almenutaih",
+      "strong": "H2781",
+      "pos": "substantiv + sufix",
+      "def_ro": "ocara/înjosirea văduviei tale."
+     },
+     {
+      "t": " nu ți-o vei mai "
+     },
+     {
+      "t": "aminti",
+      "w": "aminti",
+      "heb": "תִזְכְּרִי",
+      "translit": "tizkeri",
+      "strong": "H2142",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a-și aminti."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אַל־תִּירְאִי כִּי־לֹא תֵבוֹשִׁי וְאַל־תִּכָּלְמִי כִּי לֹא תַחְפִּירִי כִּי בֹשֶׁת עֲלוּמַיִךְ תִּשְׁכָּחִי וְחֶרְפַּת אַלְמְנוּתַיִךְ לֹא תִזְכְּרִי־עוֹד",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Fără variante semnificative."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "μὴ φοβοῦ, ὅτι κατῃσχύνθης, μηδὲ ἐντραπῇς, ὅτι ὠνειδίσθης· ὅτι αἰσχύνην αἰώνιον ἐπιλήσῃ καὶ ὄνειδος τῆς χηρείας σου οὐ μὴ μνησθήσῃ.",
+      "greek": true,
+      "translation": "„Nu te teme, căci ai fost rușinată, nici nu te tulbura, căci ai fost batjocorită; căci vei uita rușinea veșnică și de ocara văduviei tale nu-ți vei mai aminti.”",
+      "note": "LXX pune verbele la trecut („ai fost rușinată”) unde ebraica are viitor negat („nu vei fi rușinată”) — o diferență notabilă de timp verbal, posibil reflectând o tradiție textuală ușor diferită sau o interpretare liberă a traducătorilor greci."
+     }
+    ],
+    "refs": [
+     "Isaia 61:7",
+     "Isaia 41:10,14",
+     "Ieremia 31:19",
+     "Isaia 45:16,17",
+     "Ezechiel 16:22,43,60-63",
+     "Osea 3:1-5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Tinerețea ta” — [ebr. alumaih] tinerețea ta."
+     },
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "„Rușinea tinereții tale” — necazurile care au trecut peste tine în vremurile de demult, dinainte de exil. „Înjosirea văduviei tale” — în exil."
+     },
+     {
+      "author": "John Gill, Expoziție la Vechiul Testament",
+      "text": "„Nu te teme” — de împlinirea acestor lucruri; oricât de improbabile și nepromițătoare ar părea, Dumnezeu era în stare să le împlinească; și de aceea nu trebuia dată frâu liber unei inimi temătoare, neîncrezătoare și necredincioase."
+     },
+     {
+      "author": "Jean Calvin, Comentariu la Isaia",
+      "text": "„Nu te teme, căci nu vei fi rușinată” — aici, ca și mai înainte, [profetul] întărește inimile credincioșilor și se adresează întregii Biserici; căci nenorocirea era universală, și Biserica părea cu totul ruinată. El îi poruncește să prindă curaj, și apoi arată motivul: că sfârșitul necazurilor ei va fi de așa fel încât „nu va fi rușinată”."
+     }
+    ]
+   },
+   {
+    "v": "54:5",
+    "t": "Căci stăpânul tău este Creatorul tău – DOMNUL Oștirilor este numele Său; mântuitorul tău este Sfântul lui Israel, Dumnezeu al întregii lumi va fi numit.",
+    "heb": "כִּי בֹעֲלַיִךְ עֹשַׂיִךְ יְהוָה צְבָאוֹת שְׁמוֹ וְגֹאֲלֵךְ קְדוֹשׁ יִשְׂרָאֵל אֱלֹהֵי כָל־הָאָרֶץ יִקָּרֵא׃",
+    "translit": "Ki voalaih osaih ADONAI Țevaot șemo vegoaleh kedoș Israel Elohei hol-haareț ikare.",
+    "tokens": [
+     {
+      "t": "Căci "
+     },
+     {
+      "t": "stăpânul tău",
+      "w": "stăpânul tău",
+      "heb": "בֹעֲלַיִךְ",
+      "translit": "voalaih",
+      "strong": "H1166",
+      "pos": "substantiv plural + sufix",
+      "def_ro": "soțul/stăpânul tău — plural de măreție, aceeași rădăcină ba'al ca „veula” din v.1.",
+      "dict_ro": "Keil-Delitzsch observă că formele de plural „voalaih” și „osaih” (Creatorul tău) se explică prin pluralul „Elohim”, unit cu atribute și predicate la plural în alte locuri biblice (Iosua 24:19, Psalmii 58:11) — o construcție care exprimă întreaga plinătate a naturii divine ca inerentă Unului."
+     },
+     {
+      "t": " este "
+     },
+     {
+      "t": "Creatorul tău",
+      "w": "Creatorul tău",
+      "heb": "עֹשַׂיִךְ",
+      "translit": "osaih",
+      "strong": "H6213",
+      "pos": "verb participiu plural + sufix",
+      "def_ro": "cel ce te-a făcut."
+     },
+     {
+      "t": " – "
+     },
+     {
+      "t": "DOMNUL Oștirilor",
+      "w": "DOMNUL Oștirilor",
+      "heb": "יְהוָה צְבָאוֹת",
+      "translit": "ADONAI Țevaot",
+      "strong": "H6635",
+      "pos": "substantiv compus",
+      "def_ro": "DOMNUL Oștirilor [cerești] — titlu divin de comandă și putere universală."
+     },
+     {
+      "t": " este numele Său; "
+     },
+     {
+      "t": "mântuitorul tău",
+      "w": "mântuitorul tău",
+      "heb": "וְגֹאֲלֵךְ",
+      "translit": "vegoalēh",
+      "strong": "H1350",
+      "pos": "substantiv + sufix",
+      "def_ro": "răscumpărătorul tău — rădăcina ga'al, ca la 43:1."
+     },
+     {
+      "t": " este "
+     },
+     {
+      "t": "Sfântul lui Israel",
+      "w": "Sfântul lui Israel",
+      "heb": "קְדוֹשׁ יִשְׂרָאֵל",
+      "translit": "kedoș Israēl",
+      "strong": "H6918",
+      "pos": "substantiv compus",
+      "def_ro": "Sfântul lui Israel — titlu stilistic caracteristic al lui Isaia."
+     },
+     {
+      "t": ", "
+     },
+     {
+      "t": "Dumnezeu al întregii lumi",
+      "w": "Dumnezeu al întregii lumi",
+      "heb": "אֱלֹהֵי כָל־הָאָרֶץ",
+      "translit": "Elohēi hol-haareț",
+      "strong": "H430",
+      "pos": "substantiv compus",
+      "def_ro": "Dumnezeul întregului pământ.",
+      "dict_ro": "Titlul universalist „Dumnezeu al întregului pământ” marchează o extindere teologică majoră: Cel ce fusese „Dumnezeul lui Israel” în legământul mozaic e recunoscut aici, explicit, drept Dumnezeu al tuturor neamurilor — temă centrală a întregii secțiuni Isaia 40-55."
+     },
+     {
+      "t": " va fi "
+     },
+     {
+      "t": "numit",
+      "w": "numit",
+      "heb": "יִקָּרֵא",
+      "translit": "ikarē",
+      "strong": "H7121",
+      "pos": "verb, nifal imperfect",
+      "def_ro": "a fi numit, a fi chemat."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי בֹעֲלַיִךְ עֹשַׂיִךְ יְהוָה צְבָאוֹת שְׁמוֹ וְגֹאֲלֵךְ קְדוֹשׁ יִשְׂרָאֵל אֱלֹהֵי כָל־הָאָרֶץ יִקָּרֵא",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Fără variante semnificative."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι Κύριος ὁ ποιῶν σε, Κύριος σαβαὼθ ὄνομα αὐτῷ· καὶ ὁ ῥυσάμενός σε αὐτὸς Θεὸς Ἰσραήλ, πάσῃ τῇ γῇ κληθήσεται.",
+      "greek": true,
+      "translation": "„Căci Domnul, Cel ce te face, Domnul Savaot [este] numele Lui; și Cel ce te izbăvește, El, Dumnezeul lui Israel, va fi chemat [Dumnezeul] a tot pământul.”",
+      "note": "LXX omite imaginea explicită de „soț” (ba'al), traducând direct prin „Domnul, Cel ce te face” — pierzând nuanța conjugală prezentă în textul ebraic."
+     }
+    ],
+    "refs": [
+     "Osea 2:19,20",
+     "Isaia 48:2",
+     "Zaharia 14:9",
+     "Ieremia 3:14",
+     "Isaia 51:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "„Căci stăpânul tău este Creatorul tău” — nu vei mai fi ca o văduvă, ci Dumnezeul care te-a făcut, al cărui nume e DOMNUL Oștirilor, El se va întoarce să te ia din nou de soție, iar Răscumpărătorul tău e Sfântul lui Israel, care de acum înainte va fi numit Dumnezeul întregului pământ."
+     },
+     {
+      "author": "Keil-Delitzsch, Comentariu la Isaia",
+      "text": "Nu era o văduvie reală, ci doar una aparentă (Ieremia 51:5), căci soțul Ierusalimului trăia încă: „Căci soțul tău este Creatorul tău; DOMNUL Oștirilor e numele Său; și Răscumpărătorul tău, Sfântul lui Israel.” Formele de plural „boalaih” și „osaih” se explică prin pluralul „Elohim”, legat de atribute și predicate la plural în alte locuri (Iosua 24:19, 1 Samuel 17:26, Psalmii 58:11)."
+     },
+     {
+      "author": "John Gill, Expoziție la Vechiul Testament",
+      "text": "„Căci stăpânul tău este Creatorul tău” — adică Hristos, Soțul Bisericii și al fiecărui credincios adevărat, care i-a logodit în taină cu Sine din veșnicie, cerându-i de la Tatăl Său; și, fiindu-i dăruiți, îi ia de soție pe față, la convertire, unul câte unul, ca pe o fecioară curată."
+     },
+     {
+      "author": "Jean Calvin, Comentariu la Isaia",
+      "text": "„Căci stăpânul tău este Creatorul tău” — [profetul] arată motivul pentru care [Biserica] va uita toate necazurile și nenorocirile pe care le-a îndurat mai înainte: fiindcă Dumnezeu o va primi din nou în har; căci robia ar putea fi numită un fel de divorț. El Se numește pe Sine „Creatorul” Bisericii Sale, nu doar pentru că a creat-o așa cum a creat pe ceilalți oameni, ci pentru că a binevoit s-o adopte drept moștenire a Sa."
+     }
+    ]
+   },
+   {
+    "v": "54:6",
+    "t": "Căci la fel ca pe o soție părăsită și cu duh întristat, DOMNUL te va chema, ca pe soția tinereții care a fost izgonită – a spus Dumnezeul tău.",
+    "heb": "כִּי־כְאִשָּׁה עֲזוּבָה וַעֲצוּבַת רוּחַ קְרָאֲךְ יְהוָה וְאֵשֶׁת נְעוּרִים כִּי תִמָּאֵס אָמַר אֱלֹהָיִךְ׃",
+    "translit": "Ki-heișa azuva vaatzuvat ruah keraah ADONAI veeșet neurim ki timaes amar Elohaih.",
+    "tokens": [
+     {
+      "t": "Căci la fel ca pe o "
+     },
+     {
+      "t": "soție părăsită",
+      "w": "soție părăsită",
+      "heb": "כְאִשָּׁה עֲזוּבָה",
+      "translit": "heișa azuva",
+      "strong": "H5800",
+      "pos": "substantiv + adjectiv",
+      "def_ro": "ca o femeie părăsită."
+     },
+     {
+      "t": " și cu "
+     },
+     {
+      "t": "duh întristat",
+      "w": "duh întristat",
+      "heb": "וַעֲצוּבַת רוּחַ",
+      "translit": "vaațuvat ruah",
+      "strong": "H6088",
+      "pos": "substantiv compus",
+      "def_ro": "și cu duhul mâhnit/întristat."
+     },
+     {
+      "t": ", DOMNUL te va "
+     },
+     {
+      "t": "chema",
+      "w": "chema",
+      "heb": "קְרָאָךְ",
+      "translit": "keraah",
+      "strong": "H7121",
+      "pos": "verb, qal perfect + sufix",
+      "def_ro": "a chema — verbul folosit constant pentru chemarea de har.",
+      "dict_ro": "Keil-Delitzsch notează că verbul „kara” (a chema), folosit de obicei pentru chemarea harului pe temeiul alegerii, e folosit aici pentru a semnifica chemarea înapoi într-o relație care, deși exista înainte, părea desființată — o reluare, nu o relație nouă."
+     },
+     {
+      "t": ", ca pe "
+     },
+     {
+      "t": "soția tinereții",
+      "w": "soția tinereții",
+      "heb": "וְאֵשֶׁת נְעוּרִים",
+      "translit": "veēșet neurim",
+      "strong": "H802",
+      "pos": "substantiv compus",
+      "def_ro": "și [ca o] soție a tinereții."
+     },
+     {
+      "t": " care a fost "
+     },
+     {
+      "t": "izgonită",
+      "w": "izgonită",
+      "heb": "תִמָּאֵס",
+      "translit": "timaēs",
+      "strong": "H3988",
+      "pos": "verb, nifal imperfect",
+      "def_ro": "a fi respinsă, disprețuită, izgonită."
+     },
+     {
+      "t": " – a spus "
+     },
+     {
+      "t": "Dumnezeul tău",
+      "w": "Dumnezeul tău",
+      "heb": "אֱלֹהָיִךְ",
+      "translit": "Elohaih",
+      "strong": "H430",
+      "pos": "substantiv + sufix",
+      "def_ro": "Dumnezeul tău."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי־כְאִשָּׁה עֲזוּבָה וַעֲצוּבַת רוּחַ קְרָאָךְ יְהוָה וְאֵשֶׁת נְעוּרִים כִּי תִמָּאֵס אָמַר אֱלֹהָיִךְ",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Fără variante semnificative."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐχ ὡς γυναῖκα καταλελειμμένην καὶ ὀλιγόψυχον κέκληκέ σε Κύριος οὐδ᾽ ὡς γυναῖκα ἐκ νεότητος μεμισημένην, εἶπεν ὁ Θεός σου.",
+      "greek": true,
+      "translation": "„Nu ca pe o femeie părăsită și mică la suflet te-a chemat Domnul, nici ca pe o femeie urâtă din tinerețe, a spus Dumnezeul tău.”",
+      "note": "LXX inversează sensul printr-o negație explicită („nu ca pe o femeie...”), diferit de ebraică, unde comparația e afirmativă (DOMNUL te cheamă tocmai ca pe o astfel de femeie) — o divergență teologică notabilă între cele două tradiții textuale."
+     }
+    ],
+    "refs": [
+     "Osea 2:1,2,14,15",
+     "Isaia 49:14",
+     "Proverbe 5:18",
+     "Isaia 62:4",
+     "Eclesiastul 9:9",
+     "Maleahi 2:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "„DOMNUL te cheamă” și Se întoarce să te apropie de El, așa cum face un om cu soția lui, după ce a părăsit-o, iar el vede că ea e întristată de aceasta — nu ca pe una alipită de alt bărbat te-a chemat, ci ca pe „unica” pe care a chemat-o (mai sus, 51:2)."
+     },
+     {
+      "author": "Keil-Delitzsch, Comentariu la Isaia",
+      "text": "Verbul „kara” (a chema), folosit de obicei în aceste profeții pentru chemarea de har pe temeiul alegerii, e folosit aici pentru a semnifica chemarea la o relație care, deși exista înainte, părea desființată."
+     },
+     {
+      "author": "John Gill, Expoziție la Vechiul Testament",
+      "text": "„Căci DOMNUL te-a chemat ca pe o femeie părăsită și mâhnită cu duhul” — care și-a pierdut soțul prin moarte, e singură din cauza aceasta, e ca una părăsită, și-l plânge; sau e părăsită de un soț viu, respinsă de el, având carte de despărțire de la el, și de aceea se mâhnește de asprimea lui și de ocara ce cade asupra ei."
+     },
+     {
+      "author": "Jean Calvin, Comentariu la Isaia",
+      "text": "„Ca pe o femeie părăsită” — [profetul] întâmpină o îndoială care ar putea apărea în mințile credincioșilor în mijlocul unei nenorociri atât de apăsătoare. Părea că Domnul îi respinsese, încât nu mai aveau nimic de așteptat decât nimicirea. Profetul le amintește deci că nu trebuie să deznădăjduiască fiindcă au fost astfel părăsiți, căci Dumnezeu, după mila Sa, e gata să Se împace [cu ei]."
+     }
+    ]
+   },
+   {
+    "v": "54:7",
+    "t": "Căci doar o clipă te-am părăsit, dar cu milă eternă te voi reîntoarce.",
+    "heb": "בְּרֶגַע קָטֹן עֲזַבְתִּיךְ וּבְרַחֲמִים גְּדֹלִים אֲקַבְּצֵךְ׃",
+    "translit": "Berega katon azavtih uverahamim ghedolim akabțeh.",
+    "tokens": [
+     {
+      "t": "Căci doar "
+     },
+     {
+      "t": "o clipă",
+      "w": "o clipă",
+      "heb": "בְּרֶגַע קָטֹן",
+      "translit": "berega katon",
+      "strong": "H7281",
+      "pos": "substantiv + adjectiv",
+      "def_ro": "o clipă mică, o clipă scurtă."
+     },
+     {
+      "t": " te-am "
+     },
+     {
+      "t": "părăsit",
+      "w": "părăsit",
+      "heb": "עֲזַבְתִּיךְ",
+      "translit": "azavtih",
+      "strong": "H5800",
+      "pos": "verb, qal perfect + sufix",
+      "def_ro": "a părăsi — aceeași rădăcină ca „azuva” din v.6."
+     },
+     {
+      "t": ", dar cu "
+     },
+     {
+      "t": "milă eternă",
+      "w": "milă eternă",
+      "heb": "וּבְרַחֲמִים גְּדֹלִים",
+      "translit": "uverahamim ghedolim",
+      "strong": "H7356",
+      "pos": "substantiv + adjectiv",
+      "def_ro": "cu milă mare/îndurări mari.",
+      "dict_ro": "Rahamim vine din rechem, „pântece” — mila divină e conceput ca o iubire aproape maternă, viscerală, nu doar o clemență judiciară. Contrastul „o clipă mică” vs. „îndurări mari” structurează întreg versetul, ecou al aceleiași disproporții din v.8."
+     },
+     {
+      "t": " te voi "
+     },
+     {
+      "t": "reîntoarce",
+      "w": "reîntoarce",
+      "heb": "אֲקַבְּצֵךְ",
+      "translit": "akabețēh",
+      "strong": "H6908",
+      "pos": "verb, piel imperfect + sufix",
+      "def_ro": "a aduna, a strânge la loc — aceeași rădăcină ca la 43:5."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּרֶגַע קָטֹן עֲזַבְתִּיךְ וּבְרַחֲמִים גְּדֹלִים אֲקַבְּצֵךְ",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Fără variante semnificative."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "χρόνον μικρὸν κατέλιπόν σε καὶ μετὰ ἐλέους μεγάλου ἐλεήσω σε.",
+      "greek": true,
+      "translation": "„Pentru puțină vreme te-am părăsit, și cu milă mare te voi milui.”",
+      "note": "LXX traduce „a aduna” (akabetzeh) prin „a milui” (ἐλεήσω) — o schimbare de accent de la imaginea concretă a adunării exilaților la ideea generală de milostivire."
+     }
+    ],
+    "refs": [
+     "Psalmii 30:5",
+     "2 Corinteni 4:17",
+     "Isaia 26:20",
+     "Isaia 11:11",
+     "Isaia 60:10",
+     "Isaia 27:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "„Pentru o clipă mică te-am părăsit” — nu se referă la durata exilului, care să fi fost scurtă, căci atunci ar fi trebuit să spună doar „o clipă”, nu „pentru o clipă”; ci sensul e ca al unui om care se căiește de mânia și furia lui care l-au dus să facă un lucru nepotrivit, și el spune: «pentru o clipă mică de mânie am făcut aceasta», și așa continuă explicând «cu urgie puțină»."
+     },
+     {
+      "author": "Keil-Delitzsch, Comentariu la Isaia",
+      "text": "Astfel trece repede nemulțumirea DOMNULUI față de Ierusalim; și cu atât mai intensă e manifestarea iubirii care urmează după mânia Sa doar-o-clipă. „Pentru o clipă mică te-am părăsit, și cu îndurare mare te voi aduna.” „Pentru o clipă mică” ne duce cu gândul la vremea captivității, care a fost o clipă mică în comparație cu durata iubirii pline de îndurare cu care DOMNUL a primit din nou Biserica în părtășia Sa."
+     },
+     {
+      "author": "Jean Calvin, Comentariu la Isaia",
+      "text": "„Pentru o clipă mică te-am părăsit” — [profetul] explică mai pe larg afirmația de dinainte, și arată care va fi natura acestui divorț: anume, că [Biserica] va fi repede restaurată la starea ei dintâi. El preamărește mila lui Dumnezeu și micșorează durerea de care ar putea fi apăsate inimile credincioșilor."
+     },
+     {
+      "author": "Grigorie de Nazianz, despre Isaia 54:7-8",
+      "text": "Mi se pare, într-adevăr, că aud acel glas al Celui ce adună laolaltă pe cei zdrobiți și primește pe cei asupriți... Măsura bunătății Lui întrece măsura disciplinei Lui. Cele dintâi s-au datorat răutății noastre, cele de acum, preaslăvitei Treimi; cele dintâi pentru curățirea noastră, cele de acum pentru slava mea."
+     }
+    ]
+   },
+   {
+    "v": "54:8",
+    "t": "Cu furie trecătoare Mi-am ascuns fața de tine, dar cu bunătate veșnică îți voi arăta milă, a spus Izbăvitorul tău, DOMNUL.",
+    "heb": "בְּשֶׁצֶף קֶצֶף הִסְתַּרְתִּי פָנַי רֶגַע מִמֵּךְ וּבְחֶסֶד עוֹלָם רִחַמְתִּיךְ אָמַר גֹּאֲלֵךְ יְהוָה׃",
+    "translit": "Beșețef kețef histarti fanai rega mimeh uvehesed olam rihamtih amar goaleh ADONAI.",
+    "tokens": [
+     {
+      "t": "Cu "
+     },
+     {
+      "t": "furie trecătoare",
+      "w": "furie trecătoare",
+      "heb": "בְּשֶׁצֶף קֶצֶף",
+      "translit": "beșețef kețef",
+      "strong": "H8241",
+      "pos": "substantiv compus",
+      "def_ro": "cu izbucnire de mânie — expresie rară, dublată.",
+      "dict_ro": "Rashi citește „șețef” drept „puțină mânie” (după Dunash), aliniat cu „o clipă mică” din v.7 — o expresie unică în toată Biblia ebraică, dovadă a bogăției vocabularului poetic al lui Isaia."
+     },
+     {
+      "t": " Mi-am ascuns "
+     },
+     {
+      "t": "fața",
+      "w": "fața",
+      "heb": "פָנַי רֶגַע",
+      "translit": "fanai rega",
+      "strong": "H6440",
+      "pos": "substantiv + sufix + substantiv",
+      "def_ro": "fața Mea, [pentru] o clipă."
+     },
+     {
+      "t": " de tine, dar cu "
+     },
+     {
+      "t": "bunătate veșnică",
+      "w": "bunătate veșnică",
+      "heb": "וּבְחֶסֶד עוֹלָם",
+      "translit": "uvehesed olam",
+      "strong": "H2617",
+      "pos": "substantiv compus",
+      "def_ro": "cu bunătate/îndurare veșnică — hesed, termenul central al legământului."
+     },
+     {
+      "t": " îți voi arăta "
+     },
+     {
+      "t": "milă",
+      "w": "milă",
+      "heb": "רִחַמְתִּיךְ",
+      "translit": "rihamtih",
+      "strong": "H7355",
+      "pos": "verb, piel perfect + sufix",
+      "def_ro": "a avea milă, a îndura."
+     },
+     {
+      "t": ", a spus "
+     },
+     {
+      "t": "Izbăvitorul tău",
+      "w": "Izbăvitorul tău",
+      "heb": "גֹּאֲלֵךְ",
+      "translit": "goalēh",
+      "strong": "H1350",
+      "pos": "substantiv + sufix",
+      "def_ro": "răscumpărătorul tău — reluat din v.5."
+     },
+     {
+      "t": ", "
+     },
+     {
+      "t": "DOMNUL",
+      "w": "DOMNUL",
+      "heb": "יְהוָה",
+      "translit": "ADONAI",
+      "strong": "H3068",
+      "pos": "substantiv propriu",
+      "def_ro": "Tetragrama."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּשֶׁצֶף קֶצֶף הִסְתַּרְתִּי פָנַי רֶגַע מִמֵּךְ וּבְחֶסֶד עוֹלָם רִחַמְתִּיךְ אָמַר גֹּאֲלֵךְ יְהוָה",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Cuvântul „șețef” apare o singură dată în toată Biblia ebraică (hapax legomenon) — sensul lui exact era deja disputat între gramaticienii medievali (Menahem vs. Dunash), cum arată Rashi mai jos."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐν θυμῷ μικρῷ ἀπέστρεψα τὸ πρόσωπόν μου ἀπὸ σοῦ καὶ ἐν ἐλέει αἰωνίῳ ἐλεήσω σε, εἶπεν ὁ ῥυσάμενός σε Κύριος.",
+      "greek": true,
+      "translation": "„Cu mânie mică Mi-am întors fața de la tine, și cu milă veșnică te voi milui, a spus Cel ce te izbăvește, Domnul.”",
+      "note": "LXX traduce hapax-ul „șețef” pur și simplu prin „mic” (μικρῷ), o soluție prudentă care nu se pronunță asupra sensului tehnic exact al termenului ebraic rar."
+     }
+    ],
+    "refs": [
+     "Isaia 47:6",
+     "Isaia 8:17",
+     "Isaia 55:3",
+     "Isaia 54:5",
+     "Isaia 57:16,17",
+     "Isaia 45:15"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Cu puțină mânie” — [ebr. șețef]. Menahem interpretează aceasta drept „aprindere de mânie”, iar Dunash spune „cu puțină mânie”, paralel cu «pentru o clipă mică te-am părăsit»; și așa a tradus și Ionatan. „Și cu bunătate veșnică” — care va dăinui pe vecie."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Beșețef” — la fel [ca „bimeat”, „cu puțin”], și n-are asemănător [în alte locuri din Scriptură]."
+     },
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "„Beșețef” — ca „beșețef” [scurgere bruscă], ca în „cruzime aprigă și scurgere de mânie” (Proverbe 27:4); și e scris astfel ca să rimeze cu „kețef” care urmează după el."
+     },
+     {
+      "author": "John Gill, Expoziție la Vechiul Testament",
+      "text": "„Cu puțină mânie Mi-am ascuns fața de tine pentru o clipă” — aceasta înseamnă cam același lucru ca mai înainte, când Dumnezeu Își ascunde fața de poporul Său, Își retrage prezența Sa plină de har; totul e doar pentru o clipă, o mică perioadă de timp; și, deși pare a fi „mânie”, e doar „puțină mânie” — și această mânie nu e altceva decât nemulțumirea unui tată iubitor și cu inima blândă."
+     },
+     {
+      "author": "Chiril al Alexandriei, Comentariu la Isaia",
+      "text": "„Și cu mila Mea veșnică voi avea milă de tine.” Căci vremea mâniei e scurtă și trecătoare în comparație cu măsura bunătății fără margini date nouă de la Dumnezeu. El ne-a scos din puterea întunericului și ne-a mutat în împărăția Fiului iubirii Sale, în lumină."
+     }
+    ]
+   },
+   {
+    "v": "54:9",
+    "t": "Căci asemenea apelor lui Noe va fi aceasta pentru Mine: precum am jurat să nu mai trec vreodată apele lui Noe peste pământ, așa am jurat să nu mai fiu mânios și să nu te mai cert.",
+    "heb": "כִּי־מֵי נֹחַ זֹאת לִי אֲשֶׁר נִשְׁבַּעְתִּי מֵעֲבֹר מֵי־נֹחַ עוֹד עַל־הָאָרֶץ כֵּן נִשְׁבַּעְתִּי מִקְּצֹף עָלַיִךְ וּמִגְּעָר־בָּךְ׃",
+    "translit": "Ki-mei Noah zot li așer nișbati meavor mei-Noah od al-haareț ken nișbati mikțof alaih umigor-bah.",
+    "tokens": [
+     {
+      "t": "Căci asemenea "
+     },
+     {
+      "t": "apelor lui Noe",
+      "w": "apelor lui Noe",
+      "heb": "מֵי נֹחַ",
+      "translit": "mēi Noah",
+      "strong": "H4325",
+      "pos": "substantiv compus",
+      "def_ro": "apele lui Noe — aluzie directă la Potop.",
+      "dict_ro": "Aceasta e singura mențiune explicită a lui Noe în toată cartea lui Isaia — un fir tematic direct între pericopa Noah (Geneza 6-9) și promisiunea de nezdruncinat a lui Dumnezeu, motiv pentru care tradiția rabinică a ales exact acest pasaj ca Haftarah pentru parașa Noah."
+     },
+     {
+      "t": " va fi aceasta pentru Mine: precum am "
+     },
+     {
+      "t": "jurat",
+      "w": "jurat",
+      "heb": "נִשְׁבַּעְתִּי",
+      "translit": "nișbaati",
+      "strong": "H7650",
+      "pos": "verb, nifal perfect",
+      "def_ro": "a jura — verbul folosit pentru legământul cu Noe (Geneza 9:11)."
+     },
+     {
+      "t": " să nu mai "
+     },
+     {
+      "t": "trec",
+      "w": "trec",
+      "heb": "מֵעֲבֹר",
+      "translit": "mēavor",
+      "strong": "H5674",
+      "pos": "verb, qal infinitiv",
+      "def_ro": "a trece."
+     },
+     {
+      "t": " vreodată apele lui Noe peste pământ, așa am jurat să nu mai fiu "
+     },
+     {
+      "t": "mânios",
+      "w": "mânios",
+      "heb": "מִקְּצֹף",
+      "translit": "mikețof",
+      "strong": "H7107",
+      "pos": "verb, qal infinitiv",
+      "def_ro": "a fi mânios — rădăcina kețef din v.8."
+     },
+     {
+      "t": " și să nu te mai "
+     },
+     {
+      "t": "cert",
+      "w": "cert",
+      "heb": "וּמִגְּעָר־בָּךְ",
+      "translit": "umigear-bah",
+      "strong": "H1605",
+      "pos": "verb, qal infinitiv + prep.",
+      "def_ro": "a mustra, a certa."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי־מֵי נֹחַ זֹאת לִי אֲשֶׁר נִשְׁבַּעְתִּי מֵעֲבֹר מֵי־נֹחַ עוֹד עַל־הָאָרֶץ כֵּן נִשְׁבַּעְתִּי מִקְּצֹף עָלַיִךְ וּמִגְּעָר־בָּךְ",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Textul masoretic are aici o variantă textuală veche recunoscută: unele tradiții (Targum, Vulgata, siriaca) citesc „ca zilele lui Noe” (kimei Noah) în loc de „apele lui Noe” (mei Noah) — vezi nota Septuagintei mai jos."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀπὸ τοῦ ὕδατος τοῦ ἐπὶ Νῶε τοῦτό μοί ἐστιν· καθότι ὤμοσα αὐτῷ ἐν τῷ χρόνῳ ἐκείνῳ τῇ γῇ μὴ θυμωθήσεσθαι ἐπὶ σοὶ ἔτι μηδὲ ἐν ἀπειλῇ σου.",
+      "greek": true,
+      "translation": "„De la apa care a fost pe vremea lui Noe, aceasta îmi este [ca un jurământ]; precum i-am jurat lui în vremea aceea, [jur] pământului să nu Mă mai mânii asupra ta și nici să nu te mai amenințe.”",
+      "note": "LXX urmează lectura „apele lui Noe” (nu „zilele”), confirmând textul masoretic actual ca fiind cel mai vechi atestat; Matei 24:37 („ca zilele lui Noe”) reflectă însă cealaltă tradiție textuală (kimei), semn că ambele variante circulau încă din antichitate."
+     }
+    ],
+    "refs": [
+     "Isaia 12:1",
+     "Geneza 8:21",
+     "Geneza 9:11-16",
+     "Psalmii 104:9",
+     "Ieremia 31:35,36"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Căci apele lui Noe [sunt] aceasta pentru Mine” — [adică] e un jurământ în mâna Mea, și continuă să explice vorba Sa: «precum am jurat că apele lui Noe nu vor mai trece peste pământ etc.»"
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Căci apele lui Noe etc.” — mânia e la fel pentru Mine ca apele Potopului care au fost pe vremea lui Noe, despre care am jurat că nu va mai fi din nou potop de ape, tot așa am jurat etc."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mēavor” (să nu treacă) — ca să nu mai treacă. „Umigear” — și de la mustrare, termen de strigăt de dojană."
+     },
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "Lucrul acesta e pentru Mine ca și potopul, despre care am jurat că nu va mai trece peste pământ; și Ionatan, Symmachus, Teodoțion, traducătorul siriac, Ieronim și rabi Saadia Gaon au tradus toți „ca zilele” ca un singur cuvânt, iar Radak a spus că manuscrisele diferă în privința aceasta, dar totuși varianta noastră e cea principală, căci apoi [textul] explică ce a lăsat neclar la început, spunând «să nu mai treacă apele lui Noe» — și așa e tradus și în [versiunea] celor șaptezeci de bătrâni [Septuaginta]."
+     },
+     {
+      "author": "Keil-Delitzsch, Comentariu la Isaia",
+      "text": "Temeiul acestei „îndurări veșnice” e dat în v.9: „Căci aceasta e pentru Mine ca la apele lui Noe, când am jurat că apele lui Noe nu vor mai inunda pământul; așa am jurat să nu mă mai mânii pe tine și să nu te mai amenințe.” Începutul acestui verset a fost fluctuant încă din cele mai vechi timpuri [în tradiția textuală]."
+     },
+     {
+      "author": "Jean Calvin, Comentariu la Isaia",
+      "text": "„Ca apele lui Noe” sau „ca zilele lui Noe” — există două lecturi ale acestui pasaj. Cât privește sensul general, contează puțin; și de aceea trebuie mai ales să luăm în seamă ce a vrut să spună profetul, căci comentatorii nu par să-i fi surprins sensul cu adevărat."
+     },
+     {
+      "author": "Teodoret al Cirului, Comentariu la Isaia",
+      "text": "El zice: «Amintește-ți legămintele făcute cu Noe și recunoaște-le adevărul. Am promis că nu voi mai nimici niciodată pământul în felul acela. Având cel dintâi legământ drept garanție, crede că te vei bucura mereu de iubirea Mea, și voi păzi cu strictețe pacea ta, și nu voi desface niciodată această căsătorie.»"
+     }
+    ]
+   },
+   {
+    "v": "54:10",
+    "t": "Căci munții pot fi mutați și dealurile pot să se clatine, dar bunătatea Mea nu se va îndepărta de tine și legământul păcii Mele nu se va clătina, a spus Cel ce îți arată milă, DOMNUL.",
+    "heb": "כִּי הֶהָרִים יָמוּשׁוּ וְהַגְּבָעוֹת תְּמוּטֶנָה וְחַסְדִּי מֵאִתֵּךְ לֹא־יָמוּשׁ וּבְרִית שְׁלוֹמִי לֹא תָמוּט אָמַר מְרַחֲמֵךְ יְהוָה׃",
+    "translit": "Ki heharim iamușu vehaghevaot temutena vehasdi meiteh lo-iamuș uverit șelomi lo tamut amar merahameh ADONAI.",
+    "tokens": [
+     {
+      "t": "Căci "
+     },
+     {
+      "t": "munții",
+      "w": "munții",
+      "heb": "הֶהָרִים",
+      "translit": "heharim",
+      "strong": "H2022",
+      "pos": "substantiv, masculin plural",
+      "def_ro": "munții."
+     },
+     {
+      "t": " pot fi "
+     },
+     {
+      "t": "mutați",
+      "w": "mutați",
+      "heb": "יָמוּשׁוּ",
+      "translit": "iamușu",
+      "strong": "H4185",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a se muta, a se îndepărta."
+     },
+     {
+      "t": " și "
+     },
+     {
+      "t": "dealurile",
+      "w": "dealurile",
+      "heb": "וְהַגְּבָעוֹת",
+      "translit": "vehaghevaot",
+      "strong": "H1389",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "dealurile."
+     },
+     {
+      "t": " pot să se "
+     },
+     {
+      "t": "clatine",
+      "w": "clatine",
+      "heb": "תְּמוּטֶנָה",
+      "translit": "temutēna",
+      "strong": "H4131",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a se clătina, a se prăbuși."
+     },
+     {
+      "t": ", dar "
+     },
+     {
+      "t": "bunătatea Mea",
+      "w": "bunătatea Mea",
+      "heb": "וְחַסְדִּי",
+      "translit": "vehasdi",
+      "strong": "H2617",
+      "pos": "substantiv + sufix",
+      "def_ro": "îndurarea/bunătatea Mea — hesed, reluat din v.8."
+     },
+     {
+      "t": " nu se va "
+     },
+     {
+      "t": "îndepărta",
+      "w": "îndepărta",
+      "heb": "יָמוּשׁ",
+      "translit": "iamuș",
+      "strong": "H4185",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a se îndepărta — aceeași rădăcină ca „iamușu” de mai sus."
+     },
+     {
+      "t": " de tine și "
+     },
+     {
+      "t": "legământul păcii Mele",
+      "w": "legământul păcii Mele",
+      "heb": "וּבְרִית שְׁלוֹמִי",
+      "translit": "uverit șelomi",
+      "strong": "H1285",
+      "pos": "substantiv compus",
+      "def_ro": "legământul păcii Mele."
+     },
+     {
+      "t": " nu se va "
+     },
+     {
+      "t": "clătina",
+      "w": "clătina",
+      "heb": "תָמוּט",
+      "translit": "tamut",
+      "strong": "H4131",
+      "pos": "verb, qal imperfect",
+      "def_ro": "a se clătina — aceeași rădăcină ca „temutēna”."
+     },
+     {
+      "t": ", a spus "
+     },
+     {
+      "t": "Cel ce îți arată milă",
+      "w": "Cel ce îți arată milă",
+      "heb": "מְרַחֲמֵךְ",
+      "translit": "merahamēh",
+      "strong": "H7355",
+      "pos": "verb participiu + sufix",
+      "def_ro": "Cel ce te miluiește — aceeași rădăcină ca „rihamtih” din v.8."
+     },
+     {
+      "t": ", "
+     },
+     {
+      "t": "DOMNUL",
+      "w": "DOMNUL",
+      "heb": "יְהוָה",
+      "translit": "ADONAI",
+      "strong": "H3068",
+      "pos": "substantiv propriu",
+      "def_ro": "Tetragrama."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי הֶהָרִים יָמוּשׁוּ וְהַגְּבָעוֹת תְּמוּטֶנָה וְחַסְדִּי מֵאִתֵּךְ לֹא־יָמוּשׁ וּבְרִית שְׁלוֹמִי לֹא תָמוּט אָמַר מְרַחֲמֵךְ יְהוָה",
+      "translation": "Traducerea de mai sus, a rabinului Rosen.",
+      "note": "Fără variante semnificative."
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τὰ ὄρη μεταστήσεται οὐδὲ οἱ βουνοί σου μετακινηθήσονται, οὕτως οὐδὲ τὸ παρ᾽ ἐμοῦ σοι ἔλεος ἐκλείψει οὐδὲ ἡ διαθήκη τῆς εἰρήνης σου οὐ μὴ μεταστῇ· εἶπεν γὰρ Κύριος Ἵλεώς σοι.",
+      "greek": true,
+      "translation": "„Munții se vor muta, dealurile tale nu se vor clinti; tot așa nici mila Mea față de tine nu va lipsi, nici legământul păcii tale nu se va muta; căci a spus Domnul: Milostiv îți sunt.”",
+      "note": "Traducere apropiată de original, cu o mică adăugire finală explicativă."
+     }
+    ],
+    "refs": [
+     "Romani 11:29",
+     "Isaia 51:6,7",
+     "Isaia 55:3",
+     "Isaia 49:10",
+     "Psalmii 46:2",
+     "2 Samuel 23:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Căci munții se vor îndepărta” — chiar dacă meritul patriarhilor și al patriarhelor s-ar epuiza, bunătatea Mea nu se va îndepărta de tine."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Căci munții se vor îndepărta” — uneori se întâmplă ca munții, cu toată tăria lor, să se abată și să se mute din locul lor printr-un cutremur, și la fel dealurile se vor clătina să cadă la pământ. „Și bunătatea Mea” — dar bunătatea Mea e un lucru statornic și nu se va îndepărta de la tine, și promisiunea legământului Meu de pace [va dăinui], și repetă lucrul cu alte cuvinte."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Iamușu” — termen de îndepărtare, ca „nu s-a îndepărtat stâlpul de nor” (Exod 13:22). „Temutēna” — termen de clătinare/înclinare."
+     },
+     {
+      "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
+      "text": "„Căci munții se vor îndepărta” — pe cale de exprimare retorică, adică e mai probabil să se întâmple aceasta decât cealaltă. „Merahamēh” — la fel ca „rihamtih” de mai sus [aceeași rădăcină], în sensul de „iubire”, ca în aramaică, și ca „Te voi iubi, DOMNUL, tăria mea” (Psalmii 18:1)."
+     },
+     {
+      "author": "John Gill, Expoziție la Vechiul Testament",
+      "text": "„Căci munții se vor îndepărta și dealurile se vor clătina” — cum se întâmplă uneori prin cutremure, și cum se va întâmpla în ziua de pe urmă, când pământul se va dizolva, și tot ce e în el, lucrurile cele mai solide, ferme și trainice: se poate înțelege comparativ — mai degrabă acestea se vor îndepărta și se vor muta decât bunătatea și legământul lui Dumnezeu."
+     },
+     {
+      "author": "Jean Calvin, Comentariu la Isaia",
+      "text": "„Căci munții se vor clătina cu adevărat” — [profetul] confirmă afirmația de dinainte și declară că mai degrabă întreaga lume se va răsturna decât să eșueze mila Sa. Ar fi zadarnic să întrebăm aici cum «munții se vor clătina sau dealurile se vor cutremura»; căci comparația e luată din lucrurile care par a fi cele mai puternice și mai adânc înrădăcinate, pentru a arăta că temelia Bisericii e mult mai durabilă."
      }
     ]
    }
