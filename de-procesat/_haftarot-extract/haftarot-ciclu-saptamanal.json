@@ -5041,7 +5041,7 @@
     },
     {
      "v": "54:3",
-     "t": "Căci la dreapta și la stânga te vei întinde, urmașii tăi vor moșteni neamuri, muri și vor locui în cetățile pustiite.",
+     "t": "Căci la dreapta și la stânga te vei întinde, urmașii tăi vor moșteni neamuri și vor locui în cetățile pustiite.",
      "heb": "כִּי־יָמִין וּשְׂמֹאול תִּפְרֹצִי וְזַרְעֵךְ גּוֹיִם יִירָשׁ וְעָרִים נְשַׁמּוֹת יוֹשִׁיבוּ",
      "translit": "Ki-iamin usmol tifroți vezareh goim iiraș vearim neșamot ioșivu.",
      "tokens": [
@@ -5107,18 +5107,6 @@
        "def_ro": "neamuri, națiuni."
       },
       {
-       "t": ", "
-      },
-      {
-       "t": "muri",
-       "w": "muri",
-       "heb": "נְשַׁמּוֹת",
-       "translit": "neșamot",
-       "strong": "H8074",
-       "pos": "verb, nifal participiu, feminin plural",
-       "def_ro": "[cetăți] pustiite — aceeași rădăcină ca „șomēma” din v.1."
-      },
-      {
        "t": " și vor "
       },
       {
@@ -5131,7 +5119,19 @@
        "def_ro": "a face să locuiască, a repopula."
       },
       {
-       "t": " în cetățile pustiite."
+       "t": " în "
+      },
+      {
+       "t": "cetățile pustiite",
+       "w": "cetățile pustiite",
+       "heb": "נְשַׁמּוֹת",
+       "translit": "neșamot",
+       "strong": "H8074",
+       "pos": "verb, nifal participiu, feminin plural",
+       "def_ro": "[cetăți] pustiite — aceeași rădăcină ca „șomēma” din v.1."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
