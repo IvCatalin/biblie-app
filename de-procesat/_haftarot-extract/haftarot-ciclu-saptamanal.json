@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "47 capitole · 1077 versete",
+ "meta": "48 capitole · 1104 versete",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -77732,6 +77732,1754 @@
      {
       "author": "Metzudat Țion",
       "text": "„Midei” — sensul lui e ca „de câte ori”, și tot așa „ori de câte ori va trece” (Isaia 28:19). „Hodeș” — așa se numește începutul lunii, și tot așa „mâine e lună nouă” (1 Samuel 20:5)."
+     }
+    ]
+   }
+  ]
+ },
+  {
+  "num": 48,
+  "title": "Haftarat Devarim",
+  "ref": "Isaia 1:1-27",
+  "intro": "Haftarat Devarim este a treia și ultima dintre haftarot „ale pedepsei”, citită în Sabatul dinaintea zilei de 9 Av, numit după primul ei cuvânt Șabat Hazon, „Sabatul Viziunii”. Pericopa Devarim deschide cartea în care Moise își mustră poporul înainte de intrarea în țară; haftara e mustrarea lui Isaia, care cheamă, ca Moise, cerul și pământul ca martori. Boul își cunoaște stăpânul și măgarul ieslea, dar Israel nu-L cunoaște pe Dumnezeu; țara e pustiită, iar Ierusalimul a rămas singur „ca o colibă într-o vie”. Jertfele, lunile noi și sărbătorile nu folosesc la nimic când mâinile care se ridică în rugăciune „sunt pline de sânge”. Chemarea e totuși deschisă: „Spălați-vă, curățați-vă... dacă păcatele voastre vor fi ca [pânza] cărămizie, ele se vor face albe ca zăpada”. Versetul 21 începe cu eiha, „cum”, cuvântul cu care se deschide cartea Plângerilor, și de aceea haftara se cântă pe melodia Plângerilor. Ea se încheie cu făgăduința: „Ționul va fi răscumpărat prin judecată și captivii săi prin dreptate”.",
+  "verses": [
+   {
+    "v": "1:1",
+    "t": "Viziunea lui Isaia, fiul lui Amoț, pe care a văzut-o cu privire la Iuda și Ierusalim, în zilele lui Uziahu, Iotam, Ahaz și Hezekia, regii din Iuda:",
+    "heb": "חֲזוֹן יְשַׁעְיָהוּ בֶן־אָמוֹץ אֲשֶׁר חָזָה עַל־יְהוּדָה וִירוּשָׁלָ͏ִם בִּימֵי עֻזִּיָּהוּ יוֹתָם אָחָז יְחִזְקִיָּהוּ מַלְכֵי יְהוּדָה׃",
+    "translit": "Hazon Ieșaiahu ven-Amoț așer haza al-Iehuda v'Irușalaim bimei Uziahu Iotam Ahaz Iehizkiahu malhei Iehuda.",
+    "tokens": [
+     {
+      "t": "Viziunea",
+      "w": "Viziunea",
+      "heb": "חֲזוֹן",
+      "translit": "hazon",
+      "strong": "H2377",
+      "pos": "substantiv, masculin singular, în construcție",
+      "def_ro": "viziune, vedenie profetică.",
+      "dict_ro": "Hazon — „viziune”, de la haza, „a vedea”; de aici și numele de hoze, „văzător”, dat profetului (Metzudat Țion). Rashi observă că dintre cele zece cuvinte prin care Scriptura numește profeția, hazon e cel mai aspru, potrivit pentru mustrările care urmează. De la acest prim cuvânt, Sabatul în care se citește haftara, ultimul dinaintea zilei de 9 Av, se numește Șabat Hazon."
+     },
+     {
+      "t": " lui Isaia, fiul lui Amoț, pe care a văzut-o cu privire la Iuda și Ierusalim, în zilele lui Uziahu, Iotam, Ahaz și Hezekia, regii din Iuda:"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חֲזוֹן יְשַׁעְיָהוּ בֶן־אָמוֹץ אֲשֶׁר...",
+      "translation": "„Viziunea lui Isaia, fiul lui Amoț...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΟΡΑΣΙΣ, ἣν εἶδεν ῾Ησαΐας υἱὸς ᾿Αμώς, ἣν εἶδε κατὰ τῆς ᾿Ιουδαίας καὶ κατὰ ῾Ιερουσαλὴμ ἐν βασιλεία ᾿Οζίου καὶ ᾿Ιωάθαμ καὶ ῎Αχαζ καὶ ᾿Εζεκίου, οἵ ἐβασίλευσαν τῆς ᾿Ιουδαίας.",
+      "greek": true,
+      "translation": "„Viziunea pe care a văzut-o Isaia, fiul lui Amoț, pe care a văzut-o împotriva Iudeii și împotriva Ierusalimului, în domnia lui Ozia, a lui Ioatam, a lui Ahaz și a lui Ezechia, care au domnit peste Iudeea.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 2:1",
+     "Isaia 6:1",
+     "Isaia 21:2",
+     "Osea 1:1",
+     "Amos 1:1",
+     "Mica 1:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Viziunea lui Isaia, fiul lui Amoț” — a spus rabi Levi: avem tradiție de la părinții noștri că Amoț și Amația, regele lui Iuda, erau frați. „Pe care a văzut-o cu privire la Iuda și Ierusalim” — oare n-a profețit și despre multe neamuri, despre Babilon și despre Moab? De aici înveți că acesta nu e începutul cărții: începutul ei e „în anul morții regelui Ozia” (6:1), iar în Scriptură nu există ordine cronologică. Și pentru că sunt mustrări aspre, le numește hazon, cel mai aspru dintre cele zece nume ale profeției, cum se spune: „o viziune aspră mi-a fost vestită” (21:2). „În zilele lui Uziahu, Iotam, Ahaz și Hezekia” — pe acești patru regi i-a îngropat în viața lui; a profețit în zilele lor, până când s-a ridicat Manase și l-a ucis."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Viziunea” — aceasta e vedenia profetică a lui Isaia, pe care a văzut-o în vedenia profeției despre Iuda și Ierusalim; nu e începutul cărții, ca și cum toată profeția lui ar fi fost doar despre Iuda și Ierusalim, căci a profețit și despre Babilon. „În zilele lui Uziahu” — în zilele acestor patru regi a profețit, până când s-a ridicat Manase și l-a ucis."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Viziunea lui Isaia, fiul lui Amoț” — nu cunoaștem din ce seminție se trăgea, dar Înțelepții noștri au primit prin tradiție că Amoț și Amația erau frați."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hazon” — cu sensul de privire și vedere, ca în „și ochii noștri să privească la Sion” (Mica 4:11); de aceea profetul e numit hoze, „văzător”, pentru că vede în vedenia profeției."
+     }
+    ]
+   },
+   {
+    "v": "1:2",
+    "t": "Ascultați, ceruri, și pleacă-ți urechea, pământule, căci DOMNUL a vorbit: „Copii am crescut și am înălțat, dar ei s-au răzvrătit împotriva Mea.",
+    "heb": "שִׁמְעוּ שָׁמַיִם וְהַאֲזִינִי אֶרֶץ כִּי יְהוָה דִּבֵּר בָּנִים גִּדַּלְתִּי וְרוֹמַמְתִּי וְהֵם פָּשְׁעוּ בִי׃",
+    "translit": "Șimu șamaim vehaazini ereț ki ADONAI diber banim ghidalti veromamti vehem pașu vi.",
+    "tokens": [
+     {
+      "t": "Ascultați, ceruri, și "
+     },
+     {
+      "t": "pleacă-ți urechea",
+      "w": "pleacă-ți urechea",
+      "heb": "וְהַאֲזִינִי",
+      "translit": "vehaazini",
+      "strong": "H238",
+      "pos": "conjuncție + verb, imperativ, feminin singular",
+      "def_ro": "ascultă, pleacă-ți urechea.",
+      "dict_ro": "Haazin — „a pleca urechea, a asculta cu atenție”, de la ozen, „ureche”. Isaia deschide cu cerul și pământul ca martori, ca Moise în cântarea Haazinu: „Pleacă-ți urechea, cerule, și ascultă, pământule” (Deuteronom 32:1). Rashi arată că Isaia inversează verbele lui Moise, ca mărturia celor doi martori să fie întreagă; Radak: cerul și pământul sunt martori pentru că rămân în veci, în timp ce generațiile trec. Legătura cu pericopa Devarim e firească: cartea Deuteronomului e mustrarea lui Moise, iar haftara e mustrarea lui Isaia."
+     },
+     {
+      "t": ", pământule, căci DOMNUL a vorbit: „Copii am crescut și am înălțat, dar ei s-au răzvrătit împotriva Mea."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שִׁמְעוּ שָׁמַיִם וְהַאֲזִינִי אֶרֶץ...",
+      "translation": "„Ascultați, ceruri, și pleacă-ți urechea, pământule...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "῎Ακουε οὐρανὲ καὶ ἐνωτίζου γῆ, ὅτι Κύριος ἐλάλησεν· υἱοὺς ἐγέννησα καὶ ὕψωσα, αὐτοὶ δέ με ἠθέτησαν.",
+      "greek": true,
+      "translation": "„Ascultă, cerule, și ia aminte, pământule, căci Domnul a grăit: Fii am născut și am înălțat, dar ei M-au lepădat.”",
+      "note": "Septuaginta are „fii am născut” (ἐγέννησα) în loc de „fii am crescut”."
+     }
+    ],
+    "refs": [
+     "Deuteronom 32:1",
+     "Deuteronom 30:19",
+     "Deuteronom 4:26",
+     "Mica 6:1,2",
+     "Ieremia 2:12",
+     "Isaia 63:9,10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ascultați, ceruri, și pleacă-ți urechea, pământule” — Moise a spus: „Pleacă-ți urechea, cerule... și să audă pământul”. De ce a schimbat Isaia cuvintele? Un lucru nu e stabilit decât dacă vin martori și mărturisesc la fel. Dacă Isaia n-ar fi chemat cerul cu „ascultați” și pământul cu „pleacă-ți urechea”, cerul ar fi mărturisit: „am fost chemat cu «pleacă-ți urechea»”, iar pământul: „am fost chemat cu «ascultă»”, și mărturia lor nu s-ar fi potrivit. De aceea a venit Isaia și a inversat, ca amândoi să mărturisească și cu una, și cu alta. „Căci DOMNUL a vorbit” — ca să fiți martori la aceasta, când i-am avertizat în zilele lui Moise; veniți și auziți cum Mă judec cu ei, căci au călcat avertismentul: Eu nu am păcătuit față de ei, ci i-am crescut și i-am înălțat, iar ei s-au răzvrătit împotriva Mea."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ascultați, ceruri” — ce anume mă plâng și mă tânguiesc despre Israel. „Și pleacă-ți urechea, pământule” — a spus la singular, căci pământul e unul singur, nu ca cerurile. „Căci DOMNUL a vorbit” — nu de la mine spun, căci cuvântul DOMNULUI e în gura mea. „Copii am crescut” — iată binele pe care l-am făcut fiilor Mei, întâiului Meu născut Israel, pe care i-am crescut și i-am înălțat peste toate neamurile, iar ei nu Mi-au răsplătit după binefacerea Mea, ci s-au răzvrătit împotriva Mea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ascultați, ceruri” — și-a început cartea cu cuvinte de mustrare, căci oamenii din generația lui erau răi: deși despre Uziahu e scris că a făcut ce este drept, e scris și că „după ce a ajuns puternic, inima i s-a îngâmfat”, iar în zilele lor poporul jertfea și ardea tămâie pe înălțimi. Și tot așa a spus Moise când a venit să-l mustre pe Israel: „Pleacă-ți urechea, cerule”, căci cerul și pământul sunt martori între DOMNUL și Israel, pentru că rămân în veci, în timp ce generațiile trec. „Copii am crescut și am înălțat” — dublarea întărește lucrul; tatăl meu, stăpânul meu, a explicat: i-am crescut prin Tora Mea și i-am înălțat prin Șehina Mea."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vehaazini” — pleacă urechea ca să auzi, ca în „am plecat urechea la judecățile voastre” (Iov 32:11). „Pașu” — s-au răzvrătit, ca în „regele Moabului s-a răzvrătit împotriva mea” (2 Împărați 3:7)."
+     }
+    ]
+   },
+   {
+    "v": "1:3",
+    "t": "Un bou își cunoaște stăpânul și un măgar [cunoaște] ieslea stăpânului său; Israel nu cunoaște, poporul Meu nu înțelege.",
+    "heb": "יָדַע שׁוֹר קֹנֵהוּ וַחֲמוֹר אֵבוּס בְּעָלָיו יִשְׂרָאֵל לֹא יָדַע עַמִּי לֹא הִתְבּוֹנָן׃",
+    "translit": "Iada șor konehu vahamor evus bealav Israel lo iada ami lo hitbonan.",
+    "tokens": [
+     {
+      "t": "Un bou își cunoaște stăpânul și un măgar [cunoaște] "
+     },
+     {
+      "t": "ieslea",
+      "w": "ieslea",
+      "heb": "אֵבוּס",
+      "translit": "evus",
+      "strong": "H18",
+      "pos": "substantiv, masculin singular, în construcție",
+      "def_ro": "iesle, locul unde mănâncă vitele.",
+      "dict_ro": "Evus — „ieslea”, locul anume unde se pune hrana animalelor (Metzudat Țion, ca în Iov 39:9). Pilda pune față în față două animale de povară cu poporul: boul își recunoaște stăpânul, iar măgarul, deși cel mai prost dintre animale, știe măcar unde e ieslea din care mănâncă. Radak: animalele recunosc pe cel care le face bine, dar Israel n-a recunoscut că de la Dumnezeu îi vine tot binele. Ieremia folosește aceeași comparație cu păsările care își cunosc vremea (Ieremia 8:7)."
+     },
+     {
+      "t": " stăpânului său; Israel nu cunoaște, poporul Meu nu înțelege."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יָדַע שׁוֹר קֹנֵהוּ וַחֲמוֹר...",
+      "translation": "„Un bou își cunoaște stăpânul și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἔγνω βοῦς τὸν κτησάμενον καὶ ὄνος τὴν φάτνην τοῦ κυρίου αὐτοῦ· ᾿Ισραὴλ δέ με οὐκ ἔγνω καὶ ὁ λαός με οὐ συνῆκεν.",
+      "greek": true,
+      "translation": "„Boul își cunoaște stăpânul și măgarul ieslea domnului său, dar Israel nu M-a cunoscut și poporul nu M-a înțeles.”",
+      "note": "Septuaginta adaugă complementul „pe Mine” la ambele verbe: „nu M-a cunoscut”, „nu M-a înțeles”."
+     }
+    ],
+    "refs": [
+     "Ieremia 8:7",
+     "Deuteronom 32:28,29",
+     "Ieremia 4:22",
+     "Isaia 44:18",
+     "Isaia 5:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Stăpânul” — cel care îl înjugă la plug ca să are ziua; și pentru că l-a obișnuit cu aceasta, boul îl cunoaște. Măgarul, mai greu la minte, nu-și recunoaște stăpânul până nu-l hrănește. Israel n-a fost priceput nici ca boul, să știe cine l-a chemat și i-a spus: „Israel va fi numele tău” (Geneza 35:10); iar după ce i-am scos din Egipt și i-am hrănit cu mană, n-au luat aminte nici cât măgarul. O altă explicație: boul și măgarul, care au fost creați să-ți slujească și nu primesc răsplată dacă sunt vrednici, nici pedeapsă dacă greșesc, nu și-au schimbat felul rânduit lor; dar Israel, care primește răsplată și pedeapsă, și-a schimbat calea. „Nu cunoaște” — adică n-a vrut să cunoască: au știut, dar au călcat în picioare."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Un bou își cunoaște” — oare nu și boul își cunoaște și își recunoaște stăpânul care l-a dobândit și îl ascultă? Iar măgarul, deși e cel mai prost, știe totuși locul ieslei stăpânului său și merge acolo spre folosul lui. „Nu cunoaște” — n-au vrut să Mă cunoască și să Mă asculte. „Poporul Meu” — deși sunt poporul Meu și Eu sunt ajutorul lor, tot nu iau aminte să știe ce le e bine, căci dacă ar asculta, ar mânca bunătatea țării; nu sunt nici măcar ca măgarul, care recunoaște binele."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Un bou își cunoaște stăpânul” — a pomenit animalele care cresc lângă om pentru munca lui: deși n-au rațiune, prin puterea de a deosebi ce le face rău de ce le e de folos îl recunosc pe cel ce le face bine și se întorc la casa lui și la locul hranei lor. „Stăpânul” nu înseamnă doar cel care l-a cumpărat, ci cel care îl crește și îi poartă de grijă, ca în „oare nu El e Tatăl tău, care te-a dobândit?” (Deuteronom 32:6). Dar Israel, pe care l-am răscumpărat din casa robiei, n-a cunoscut că Eu sunt Cel ce îi face bine; dacă ar fi cunoscut, nu M-ar fi părăsit."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Evus” — locul anume pentru hrana animalelor, ca în „va înnopta el la ieslea ta?” (Iov 39:9)."
+     }
+    ]
+   },
+   {
+    "v": "1:4",
+    "t": "Ah, neam păcătos, popor îngreunat de fărădelege, sămânță de nelegiuiți, copii stricați! L-au părăsit pe DOMNUL, L-au mâniat pe Sfântul lui Israel, s-au întors îndărăt.",
+    "heb": "הוֹי גּוֹי חֹטֵא עַם כֶּבֶד עָוֺן זֶרַע מְרֵעִים בָּנִים מַשְׁחִיתִים עָזְבוּ אֶת־יְהוָה נִאֲצוּ אֶת־קְדוֹשׁ יִשְׂרָאֵל נָזֹרוּ אָחוֹר׃",
+    "translit": "Hoi goi hote am keved avon zera mereim banim mașhitim azvu et-ADONAI niațu et-kedoș Israel nazoru ahor.",
+    "tokens": [
+     {
+      "t": "Ah, neam păcătos, popor îngreunat de fărădelege, sămânță de nelegiuiți, copii stricați! L-au părăsit pe DOMNUL, L-au mâniat pe "
+     },
+     {
+      "t": "Sfântul lui Israel",
+      "w": "Sfântul lui Israel",
+      "heb": "קְדוֹשׁ יִשְׂרָאֵל",
+      "translit": "kedoș Israel",
+      "strong": "H6918",
+      "pos": "adjectiv substantivat, în construcție + nume propriu",
+      "def_ro": "Sfântul lui Israel (nume divin).",
+      "dict_ro": "Kedoș Israel — „Sfântul lui Israel”, numele lui Dumnezeu caracteristic cărții lui Isaia, care îl folosește de peste douăzeci de ori, de la acest verset până în ultimele capitole (5:19; 12:6; 41:14; 60:14). El vine din vedenia chemării, în care serafimii strigă „Sfânt, sfânt, sfânt” (6:3). Radak: e numit astfel pentru că S-a sfințit în mijlocul lor prin minunile și judecățile făcute vrăjmașilor lor, iar ei L-au părăsit. Rashi citește tot versetul ca un contrast: un neam sfânt a devenit neam păcătos, sămânța binecuvântată a devenit sămânță de nelegiuiți."
+     },
+     {
+      "t": ", s-au întors îndărăt."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הוֹי גּוֹי חֹטֵא עַם...",
+      "translation": "„Ah, neam păcătos, popor îngreunat de...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐαὶ ἔθνος ἁμαρτωλόν, λαὸς πλήρης ἁμαρτιῶν, σπέρμα πονηρόν, υἱοὶ ἄνομοι· ἐγκατελίπατε τὸν Κύριον καὶ παρωργίσατε τὸν ἅγιον τοῦ ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Vai, neam păcătos, popor plin de păcate, sămânță rea, fii nelegiuiți! Ați părăsit pe Domnul și L-ați mâniat pe Sfântul lui Israel.”",
+      "note": "Septuaginta trece verbele la persoana a doua („ați părăsit”, „ați mâniat”) și nu redă ultima propoziție, „s-au întors îndărăt”."
+     }
+    ],
+    "refs": [
+     "Isaia 30:9",
+     "Isaia 57:3,4",
+     "Ieremia 2:13,17,19",
+     "Deuteronom 32:19",
+     "Isaia 5:19,24"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ah” — orice hoi din Scriptură e expresie de tânguire, ca omul care suspină din inimă. E un motiv de strigăt: un neam sfânt a devenit neam păcătos, iar un popor numit „căci tu ești un popor sfânt” (Deuteronom 7:6) a devenit popor îngreunat de fărădelege. „Sămânță de nelegiuiți” — ei fuseseră „sămânța pe care a binecuvântat-o DOMNUL” (Isaia 61:9); tot așa fuseseră copiii Celui Sfânt, binecuvântat fie El, și s-au stricat. „Au mâniat” (niațu) — au provocat. „S-au întors îndărăt” — rădăcina nazar înseamnă peste tot despărțire, ca în „să se despartă de lucrurile sfinte” (Levitic 22:2); și aici, s-au despărțit de apropierea de Cel Atotprezent."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ah” — profetul suspină și se tânguiește pentru Israel, care fusese odinioară neam sfânt și s-a prefăcut în neam păcătos. „Popor îngreunat de fărădelege” — fusese popor sfânt și a devenit popor împovărat de păcat. „Sămânță de nelegiuiți” — fusese sămânța binecuvântată de DOMNUL și a devenit sămânță de răufăcători. „Copii stricați” — fuseseră fiii Dumnezeului celui viu și au devenit copii care își strică purtările. „S-au întors îndărăt” — s-au despărțit, mergând înapoi, ca omul care refuză să asculte cuvintele celui ce îi vorbește."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Sfântul lui Israel” — Cel ce S-a sfințit în mijlocul lor prin minunile Lui și prin răzbunările Lui asupra dușmanilor lor, iar ei L-au părăsit. „S-au întors îndărăt” — s-au despărțit de Dumnezeu și au mers înapoi, departe de slujirea Lui; sau, cu alte cuvinte, I-au întors spatele, nu fața, cum spune Ieremia: „au mers înapoi, nu înainte” (Ieremia 7:24)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hoi” — cuvânt de chemare, fie în durere, fie în bucurie. „Keved” — cu sensul de mulțime, ca în „acest popor mare al Tău” (1 Împărați 3:9). „Niațu” — folosit pentru dispreț, ca în „oamenii disprețuiau darul DOMNULUI” (1 Samuel 2:17). „Nazoru” — cu sensul de despărțire."
+     }
+    ]
+   },
+   {
+    "v": "1:5",
+    "t": "Pentru ce să mai fiți loviți, de vreme ce stăruiți în răzvrătire, fiecare cap cu boală, fiecare inimă cu durere?",
+    "heb": "עַל מֶה תֻכּוּ עוֹד תּוֹסִיפוּ סָרָה כָּל־רֹאשׁ לָחֳלִי וְכָל־לֵבָב דַּוָּי׃",
+    "translit": "Al me tuku od tosifu sara kol-roș laholi vehol-levav davai.",
+    "tokens": [
+     {
+      "t": "Pentru ce să mai fiți loviți, de vreme ce stăruiți în "
+     },
+     {
+      "t": "răzvrătire",
+      "w": "răzvrătire",
+      "heb": "סָרָה",
+      "translit": "sara",
+      "strong": "H5627",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "abatere, răzvrătire, apostazie.",
+      "dict_ro": "Sara — „abatere” de la calea dreaptă, din rădăcina sur, „a se abate” (Metzudat Țion, ca în „fiul îndărătnic și răzvrătit”, Deuteronom 21:18). Întrebarea „pentru ce să mai fiți loviți?” e a unui om care își vede prietenul pedepsit și totuși repetând aceeași greșeală (Rashi). Radak explică: poporul nu voia să vadă în nenorociri o pedeapsă, ci o întâmplare, după cum amenințase Tora că va umbla „împotriva” lui Dumnezeu (Levitic 26:21)."
+     },
+     {
+      "t": ", fiecare cap cu boală, fiecare inimă cu durere?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עַל מֶה תֻכּוּ עוֹד...",
+      "translation": "„Pentru ce să mai fiți loviți...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τί ἔτι πληγῆτε προστιθέντες ἀνομίαν; πᾶσα κεφαλὴ εἰς πόνον καὶ πᾶσα καρδία εἰς λύπην.",
+      "greek": true,
+      "translation": "„De ce să mai fiți loviți, adăugând fărădelege? Tot capul e în durere și toată inima în mâhnire.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ieremia 5:3",
+     "Isaia 9:13,21",
+     "Ieremia 2:30",
+     "2 Cronici 28:22"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Pentru ce să mai fiți loviți” — un om care a fost pedepsit și își repetă păcatul, prietenul lui îl mustră și îi spune: pentru aceasta ai fost lovit, și nu-ți pui la inimă să spui: pentru aceasta am fost pedepsit, nu voi mai face. Tot așa aici: de ce mai sunteți loviți, de vreme ce stăruiți în răzvrătire, abătându-vă de la Cel Atotprezent? Oare nu e fiecare cap bolnav și fiecare inimă îndurerată? De ce nu înțelegeți?"
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Pentru ce să mai fiți loviți” — pentru păcatul însuși pentru care ați fost loviți, pentru același păcat stăruiți să vă răzvrătiți; adică ați repetat păcatul acela cu și mai multă încălcare, și nu vă puneți la inimă să vă gândiți: oare nu pentru el am fost loviți? „Fiecare cap cu boală” — oare nu din pricina loviturii s-a îmbolnăvit tot capul și toată inima? De ce nu primiți învățătură?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Pentru ce să mai fiți loviți” — nu vă puneți la inimă pentru ce sunteți loviți. „De vreme ce stăruiți în răzvrătire” — nu vă gândiți că Dumnezeu vă lovește pentru fărădelegile voastre, ci umblați cu nepăsare și spuneți că răul a venit asupra voastră din întâmplare, nu ca pedeapsă. „Fiecare cap cu boală” — capul e pregătit pentru boală și inima pentru durere, cum spune mustrarea lui Moise: „DOMNUL te va lovi cu nebunie, cu orbire și cu rătăcire a minții” (Deuteronom 28:28)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Sara” — cu sensul de abatere de la calea dreaptă, ca în „fiu îndărătnic și răzvrătit” (Deuteronom 21:18). „Davai” — cu sensul de durere, ca în „pe patul durerii” (Psalmii 41:3)."
+     }
+    ]
+   },
+   {
+    "v": "1:6",
+    "t": "De la talpa piciorului și până în creștet, nimic în [popor] nu este sănătos: tăietură de sabie, vânătaie și rană sângerândă. Nici nu le-au tratat, nici nu le-au bandajat și nici nu le-au înmuiat cu untdelemn.",
+    "heb": "מִכַּף־רֶגֶל וְעַד־רֹאשׁ אֵין־בּוֹ מְתֹם פֶּצַע וְחַבּוּרָה וּמַכָּה טְרִיָּה לֹא־זֹרוּ וְלֹא חֻבָּשׁוּ וְלֹא רֻכְּכָה בַּשָּׁמֶן׃",
+    "translit": "Mikaf-reghel vead-roș ein-bo metom peța vehabura umaka teria lo-zoru velo hubașu velo rukha bașamen.",
+    "tokens": [
+     {
+      "t": "De la talpa piciorului și până în creștet, nimic în [popor] nu este sănătos: tăietură de sabie, "
+     },
+     {
+      "t": "vânătaie",
+      "w": "vânătaie",
+      "heb": "וְחַבּוּרָה",
+      "translit": "vehabura",
+      "strong": "H2250",
+      "pos": "conjuncție + substantiv, feminin singular",
+      "def_ro": "vânătaie, lovitură sub piele.",
+      "dict_ro": "Habura — lovitura sub care se strânge sângele, fără ca pielea să se deschidă: deasupra se vede o pată roșie (Metzudat Țion). Versetul numește trei feluri de răni: peța, „tăietura” din care curge sânge, habura, „vânătaia”, și maka teria, „rana proaspătă”, care nu se usucă niciodată. Radak vede aici împlinirea mustrării din Deuteronom 28:35, o lovire „de la talpa piciorului până în creștetul capului” pe care nimeni n-o poate vindeca. Targumul lui Ionatan citește totul ca pildă: de la cel mai mic la cel mai mare, nimeni în popor nu e întreg."
+     },
+     {
+      "t": " și rană sângerândă. Nici nu le-au tratat, nici nu le-au bandajat și nici nu le-au înmuiat cu untdelemn."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִכַּף־רֶגֶל וְעַד־רֹאשׁ אֵין־בּוֹ מְתֹם...",
+      "translation": "„De la talpa piciorului și până...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀπὸ ποδῶν ἕως κεφαλῆς οὐκ ἔστιν ἐν αὐτῷ ὁλοκληρία, οὔτε τραῦμα οὔτε μώλωψ οὔτε πληγὴ φλεγμαίνουσα· οὐκ ἔστιν μάλαγμα ἐπιθῆναι οὔτε ἔλαιον οὔτε καταδέσμους.",
+      "greek": true,
+      "translation": "„De la picioare până la cap nu e în el nimic întreg, nici rană, nici vânătaie, nici lovitură aprinsă; nu e alifie de pus, nici untdelemn, nici legături.”",
+      "note": "Septuaginta spune că nu există leac de aplicat, acolo unde Textul Masoretic spune că rănile n-au fost îngrijite."
+     }
+    ],
+    "refs": [
+     "Iov 2:7,8",
+     "Ieremia 30:12",
+     "Ieremia 8:21,22",
+     "Osea 5:12,13",
+     "Psalmii 38:3-5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Nimic sănătos” — expresie de întregime: sănătos, fără durere. „Tăietură” — rană de sabie. „Vânătaie” — lovitură învinețită. „Rană sângerândă” — Ionatan traduce: rană zdrobită și sfâșiată; Menahem o explică drept rană umedă, din care curge mereu. „Nu le-au tratat” — rănile n-au fost presărate cu praf de leacuri de către doctori. „Nici nu le-au înmuiat cu untdelemn” — cum se face cu alte răni. Ionatan explică tot versetul ca pildă: de la cel mai mic la cel mai mare nu e nimeni desăvârșit; iar „nu le-au tratat” înseamnă că nu s-au vindecat prin pocăință din toată inima și nici măcar un gând de pocăință nu le-a intrat în inimă."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nimic în [popor] nu este sănătos” — nu e la nimeni un loc întreg, fără lovitură: într-un loc e tăietură, în altul vânătaie. „Nici nu le-au tratat” — nu s-a presărat pe ele praf de leacuri. „Nici nu le-au bandajat” — nu s-a legat peste ele o pânză, cum se leagă loviturile. „Nici nu le-au înmuiat” — adică: oare nu v-ați vindecat încă de loviturile care au venit asupra voastră pentru păcatele de odinioară, și de ce ați păcătuit iar? E o pildă: pedeapsa a venit asupra căpeteniilor și asupra restului poporului, și încă apasă asupra voastră."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „De la talpa piciorului” — cum e scris în mustrare: „DOMNUL te va lovi cu o bubă rea la genunchi și la coapse, de care nu te vei putea vindeca, de la talpa piciorului până în creștetul capului” (Deuteronom 28:35). „Nici nu le-au tratat” — pentru că nu folosește niciun leac, cum a spus: „de care nu te vei putea vindeca”; și de vreme ce vedeți că leacul nu folosește, trebuia să înțelegeți că lovitura e de la DOMNUL, cum v-a vestit în mustrare. Rana „sângerândă” e rana umedă, care nu se usucă niciodată, semnul unei lovituri fără vindecare."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Petza” — lovitură care s-a deschis și scoate sânge. „Habura” — lovitură sub care s-a strâns sângele și deasupra se vede o pată roșie, ca în „vânătaie pentru vânătaie” (Exod 21:25). „Teria” — umedă, ca în „o falcă proaspătă de măgar” (Judecători 15:15). „Hubașu” — legarea pânzei peste rană, ca în „pe cea ruptă n-ați legat-o” (Ezechiel 34:4)."
+     }
+    ]
+   },
+   {
+    "v": "1:7",
+    "t": "Țara vă este pustie, orașele vă sunt arse în foc, pământul vă este devorat de străini, este pustiu ca răscolit de străini.",
+    "heb": "אַרְצְכֶם שְׁמָמָה עָרֵיכֶם שְׂרֻפוֹת אֵשׁ אַדְמַתְכֶם לְנֶגְדְּכֶם זָרִים אֹכְלִים אֹתָהּ וּשְׁמָמָה כְּמַהְפֵּכַת זָרִים׃",
+    "translit": "Arțehem șemama areihem serufot eș admathem lenegdehem zarim ohlim ota ușemama kemahpehat zarim.",
+    "tokens": [
+     {
+      "t": "Țara vă este pustie, orașele vă sunt arse în foc, pământul vă este devorat de "
+     },
+     {
+      "t": "străini",
+      "w": "străini",
+      "heb": "זָרִים",
+      "translit": "zarim",
+      "strong": "H2114",
+      "pos": "verb, participiu, masculin plural (folosit ca substantiv)",
+      "def_ro": "străini, oameni din alt neam.",
+      "dict_ro": "Zar — „străin”, participiul verbului zur, „a se abate, a fi din afară”; același cuvânt desemnează și „focul străin” adus de fiii lui Aaron (Levitic 10:1). Versetul descrie urmările invaziei asiriene din vremea lui Ahaz și Ezechia: orașele arse, iar recolta mâncată de dușmani sub ochii stăpânilor. Radak arată că e împlinirea mustrării din Tora: „un neam pe care nu-l cunoști va mânca rodul pământului tău” (Deuteronom 28:33). Rashi citește sfârșitul versetului ca pe o moștenire trecută la străini, rămasă pustie de stăpânii ei."
+     },
+     {
+      "t": ", este pustiu ca răscolit de străini."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אַרְצְכֶם שְׁמָמָה עָרֵיכֶם שְׂרֻפוֹת...",
+      "translation": "„Țara vă este pustie, orașele vă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἡ γῆ ὑμῶν ἔρημος, αἱ πόλεις ὑμῶν πυρίκαυστοι· τὴν χώραν ὑμῶν ἐνώπιον ὑμῶν ἀλλότριοι κατεσθίουσι αὐτήν, καὶ ἠρήμωται κατεστραμμένη ὑπὸ λαῶν ἀλλοτρίων.",
+      "greek": true,
+      "translation": "„Țara voastră e pustie, cetățile voastre arse de foc; ținutul vostru îl mănâncă străinii înaintea voastră și e pustiit, răsturnat de popoare străine.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 6:11",
+     "Levitic 26:34",
+     "Deuteronom 28:33,43,48-52",
+     "2 Cronici 28:5,16-21",
+     "Plângerile 5:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Pământul vă este devorat de străini” — înaintea ochilor voștri îl vor mânca dușmanii voștri. „Pustiu ca răscolit de străini” — ca o moștenire răsturnată la străini, care e pustie de stăpânii ei; așa traduce Ionatan."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Țara” — de aceea țara voastră va fi pustie. „Pământul” — rodul pământului vostru. „Înaintea voastră” — cu ochii voștri veți vedea și nu veți avea putere să stați împotrivă. „Ca răscolit de străini” — va fi pustie ca țara peste care vin dușmani străini și depărtați, care răstoarnă și distrug totul, pentru că nu vor rămâne în ea; nu cum face dușmanul care e din țara aceea și aproape de ea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Țara vă este pustie” — cum e scris în mustrare: „țara voastră va fi pustie și cetățile voastre vor fi dărâmate” (Levitic 26:33). „Străinii o mănâncă” — sub ochii voștri, și nu aveți putere să-i opriți, cum e scris: „DOMNUL va ridica împotriva ta un neam de departe... și va mânca rodul vitelor tale și rodul pământului tău”. „Ca răscolit de străini” — pământul rămâne pustiu, căci neamurile străine vin și mănâncă tot ce găsesc, iar voi nu mai puteți lucra pământul, pentru că dușmanii vin asupra voastră zi de zi."
+     }
+    ]
+   },
+   {
+    "v": "1:8",
+    "t": "Fiica Ționului va fi părăsită ca o colibă într-o vie, ca un adăpost în răsad, ca un oraș asediat.",
+    "heb": "וְנוֹתְרָה בַת־צִיּוֹן כְּסֻכָּה בְכָרֶם כִּמְלוּנָה בְמִקְשָׁה כְּעִיר נְצוּרָה׃",
+    "translit": "Venotra vat-Țion kesuka veharem kimluna vemikșa keir nețura.",
+    "tokens": [
+     {
+      "t": "Fiica Ționului va fi părăsită ca o "
+     },
+     {
+      "t": "colibă",
+      "w": "colibă",
+      "heb": "כְּסֻכָּה",
+      "translit": "kesuka",
+      "strong": "H5521",
+      "pos": "prepoziție + substantiv, feminin singular",
+      "def_ro": "colibă, adăpost din ramuri.",
+      "dict_ro": "Suka — „colibă” din ramuri, același cuvânt ca sărbătoarea Sucot. Rashi explică imaginea: paznicul viei își face o colibă ca s-o păzească zi și noapte, iar după cules o lasă goală și pleacă; tot așa „coliba” din grădina de castraveți rămâne părăsită după ce roadele au fost culese. Radak leagă versetul de istoria vremii: în zilele lui Ezechia, regele Asiriei cucerise toate cetățile întărite ale lui Iuda, iar Ierusalimul rămăsese singur, ca o colibă în mijlocul câmpului (2 Împărați 18:13)."
+     },
+     {
+      "t": " într-o vie, ca un adăpost în răsad, ca un oraș asediat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְנוֹתְרָה בַת־צִיּוֹן כְּסֻכָּה בְכָרֶם...",
+      "translation": "„Fiica Ționului va fi părăsită ca...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐγκαταλειφθήσεται ἡ θυγάτηρ Σιὼν ὡς σκηνὴ ἐν ἀμπελῶνι καὶ ὡς ὀπωροφυλάκιον ἐν σικυηράτῳ, ὡς πόλις πολιορκουμένη·",
+      "greek": true,
+      "translation": "„Fiica Sionului va fi părăsită ca un cort în vie și ca o colibă de pază în grădina de castraveți, ca o cetate asediată.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Iov 27:18",
+     "Plângerile 2:6",
+     "Ieremia 4:17",
+     "Isaia 10:32",
+     "Luca 19:43,44"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Fiica Ționului va fi părăsită” — goală de locuitorii ei, căci vor fi exilați din mijlocul ei, ca o colibă într-o vie, pe care o face paznicul; iar după ce se strâng roadele viei, își lasă coliba și pleacă. „Ca un adăpost în răsad” — adăpostul pe care îl face paznicul la capătul grădinii de castraveți; coliba din vie se numește suka pentru că paznicul stă în ea zi și noapte, ziua păzind-o de păsări și noaptea de hoți, dar castraveții sunt tari și nu e teamă de păsări, de aceea se numește meluna, „loc de înnoptat”. „Ca un oraș asediat” — ca o cetate asediată, în jurul căreia se fac colibe pentru oștiri, iar când se ridică asediul, le lasă și pleacă."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Va fi părăsită” — va rămâne goală de locuitorii ei, ca o colibă în vie în care stă paznicul, căci la vremea culesului viei își lasă coliba goală și pleacă. „Ca un adăpost în răsad” — ca adăpostul făcut în câmpul de castraveți, căci după cules îl lasă gol și pleacă. „Ca un oraș asediat” — ca cetatea asediată de dușmani, care își fac colibe ca să se ascundă în ele, iar când se retrag, colibele rămân goale."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Fiica Ționului va fi părăsită” — căci cele mai multe cetăți ale lui Iuda erau pustiite, iar în zilele lui Ezechia regele Asiriei a cucerit toate cetățile întărite, și iată, Ierusalimul a rămas singur, ca o colibă în vie sau ca un adăpost în grădina de castraveți, fără nicio altă casă în jur. Și n-a spus „ca o colibă în grădină”, căci în grădină paznicul stă tot anul, pe când în vie și în grădina de castraveți, după cules, nu mai rămâne nimic de păzit și paznicul pleacă: tot așa a rămas Sionul fără paznic, căci Cel Sfânt, binecuvântat fie El, care păzește pe Israel, Și-a îndepărtat Șehina de la ei."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Bat Țion” — cetatea Sionului. „Kimluna” — de la „lina”, a înnopta. „Bemikșa” — de la „kișuim”, castraveți. „Nețura” — de la „mațor”, asediu."
+     }
+    ]
+   },
+   {
+    "v": "1:9",
+    "t": "Dacă DOMNUL Oștirilor n-ar fi lăsat dintre noi o rămășiță, am fi fost precum Sodoma, ne-am fi asemănat cu Gomora.",
+    "heb": "לוּלֵי יְהוָה צְבָאוֹת הוֹתִיר לָנוּ שָׂרִיד כִּמְעָט כִּסְדֹם הָיִינוּ לַעֲמֹרָה דָּמִינוּ׃",
+    "translit": "Lulei ADONAI Țevaot hotir lanu sarid kimat ki'Sdom hainu la'Amora daminu.",
+    "tokens": [
+     {
+      "t": "Dacă DOMNUL Oștirilor n-ar fi lăsat dintre noi "
+     },
+     {
+      "t": "o rămășiță",
+      "w": "o rămășiță",
+      "heb": "שָׂרִיד",
+      "translit": "sarid",
+      "strong": "H8300",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "supraviețuitor, rămășiță scăpată.",
+      "dict_ro": "Sarid — „cel scăpat, supraviețuitorul”, ca în „scăpat și supraviețuitor” (Plângerile 2:22). Tema „rămășiței” trece prin toată cartea lui Isaia: fiul profetului se numește Șear-Iașuv, „o rămășiță se va întoarce” (7:3; 10:21). Rashi: rămășița a fost lăsată din bunăvoința și mila lui Dumnezeu, nu pentru vrednicia poporului. Pavel citează versetul după Septuaginta, care are „sămânță” în loc de „rămășiță” (Romani 9:29)."
+     },
+     {
+      "t": ", am fi fost precum Sodoma, ne-am fi asemănat cu Gomora."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לוּלֵי יְהוָה צְבָאוֹת הוֹתִיר...",
+      "translation": "„Dacă DOMNUL Oștirilor n-ar fi lăsat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἰ μὴ Κύριος σαβαὼθ ἐγκατέλιπεν ἡμῖν σπέρμα, ὡς Σόδομα ἂν ἐγενήθημεν καὶ ὡς Γόμορρα ἂν ὡμοιώθημεν.",
+      "greek": true,
+      "translation": "„Și dacă Domnul Savaot nu ne-ar fi lăsat o sămânță, am fi ajuns ca Sodoma și ne-am fi asemănat cu Gomora.”",
+      "note": "Septuaginta are „sămânță” (σπέρμα) în loc de „rămășiță”; forma aceasta e citată în Romani 9:29."
+     }
+    ],
+    "refs": [
+     "Romani 9:29",
+     "Plângerile 3:22",
+     "Isaia 10:22",
+     "Geneza 19:24",
+     "Plângerile 4:6",
+     "Amos 4:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Dacă DOMNUL Oștirilor n-ar fi lăsat dintre noi o rămășiță” — din voia Lui și prin mila Lui, nu pentru vredniciile noastre. „Am fi fost precum Sodoma” — am fi pierit cu toții."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Dacă DOMNUL” — dacă Cel Atotprezent nu ne-ar fi lăsat, în bunătatea Lui, o rămășiță cât de mică, am fi meritat să pierim ca Sodoma și Gomora, fără nicio rămășiță."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „DOMNUL Oștirilor” — e numit așa după oștirile de sus și oștirile de jos, care sunt Israel; de aceea n-a vrut să ne nimicească pe toți, cum meritam, și ne-a lăsat o rămășiță pentru Numele Său, care e chemat peste noi. Sodoma și Gomora n-au avut nici supraviețuitor, nici scăpat, iar noi am făcut faptele lor și meritam nimicirea ca ele. Versetul e vorbirea profetului, care se socotește pe sine împreună cu cei vinovați, pentru cinstea lui Israel, cum a spus și Ieremia: „noi am păcătuit și ne-am răzvrătit”."
+     },
+     {
+      "author": "Talmud Bavli, Berahot 19a",
+      "text": "Rabi Șimon ben Lakiș a spus, și tot așa s-a învățat în numele lui rabi Iose: niciodată să nu-și deschidă omul gura în fața Satanei. Rav Iosef a spus: care e versetul? „Am fi fost aproape ca Sodoma” — și ce le-a răspuns profetul? „Ascultați cuvântul DOMNULUI, conducători ai Sodomei” (Isaia 1:10)."
+     }
+    ]
+   },
+   {
+    "v": "1:10",
+    "t": "Ascultați cuvântul DOMNULUI, conducători ai Sodomei! Plecați urechea la Învățătura Dumnezeului vostru, popor al Gomorei!",
+    "heb": "שִׁמְעוּ דְבַר־יְהוָה קְצִינֵי סְדֹם הַאֲזִינוּ תּוֹרַת אֱלֹהֵינוּ עַם עֲמֹרָה׃",
+    "translit": "Șimu devar-ADONAI keținei Sedom haazinu torat Eloheinu am Amora.",
+    "tokens": [
+     {
+      "t": "Ascultați cuvântul DOMNULUI, conducători ai Sodomei! Plecați urechea la "
+     },
+     {
+      "t": "Învățătura",
+      "w": "Învățătura",
+      "heb": "תּוֹרַת",
+      "translit": "torat",
+      "strong": "H8451",
+      "pos": "substantiv, feminin singular, în construcție",
+      "def_ro": "învățătura, legea, Tora.",
+      "dict_ro": "Tora — de la iara, „a arăta, a îndruma”: nu doar „lege”, ci învățătura prin care Dumnezeu își arată calea. Aici „învățătura Dumnezeului nostru” e chiar mustrarea care urmează, despre jertfele fără ascultare (Radak). Profetul le spune căpeteniilor „conducători ai Sodomei” pentru că faptele lor seamănă cu ale Sodomei, iar Talmudul leagă numele de versetul precedent: poporul spusese că „aproape ca Sodoma am fi fost”, iar profetul le-a răspuns cu același nume (Berahot 19a)."
+     },
+     {
+      "t": " Dumnezeului vostru, popor al Gomorei!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שִׁמְעוּ דְבַר־יְהוָה קְצִינֵי סְדֹם...",
+      "translation": "„Ascultați cuvântul DOMNULUI, conducători ai Sodomei!...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "᾿Ακούσατε λόγον Κυρίου, ἄρχοντες Σοδόμων· προσέχετε νόμον Θεοῦ λαὸς Γομόρρας.",
+      "greek": true,
+      "translation": "„Ascultați cuvântul Domnului, căpetenii ale Sodomei; luați aminte la legea Dumnezeului nostru, popor al Gomorei!”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ezechiel 16:46",
+     "Ieremia 23:14",
+     "Deuteronom 32:32",
+     "Apocalipsa 11:8",
+     "Geneza 13:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Conducători ai Sodomei” — căpetenii ale căror fapte sunt ca ale celor din Sodoma. De aici au învățat Înțelepții că omul nu trebuie să-și deschidă gura în fața Satanei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Conducători ai Sodomei” — căpetenii asemenea căpeteniilor Sodomei."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ascultați” — a vorbit căpeteniilor și poporului, căci căpeteniile sunt asemenea căpeteniilor Sodomei și Gomorei, asuprindu-i pe săraci și strâmbând judecata, iar poporul seamănă cu poporul Sodomei în faptele lui rele. „Cuvântul DOMNULUI” și „învățătura Dumnezeului nostru” sunt tocmai mustrarea pe care le-o spune: „ce-Mi trebuie mulțimea jertfelor voastre?” și toată pericopa."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Keținei” — cu sensul de stăpânire, ca în „toate căpeteniile tale au fugit” (Isaia 22:3)."
+     }
+    ]
+   },
+   {
+    "v": "1:11",
+    "t": "Ce-Mi trebuie mulțimea ofrandelor voastre? – spune DOMNUL. Sunt sătul de arderile-de-tot de berbeci și de grăsimea dobitoacelor îngrășate, iar sângele taurilor, oilor și țapilor nu-l doresc.",
+    "heb": "לָמָּה־לִּי רֹב־זִבְחֵיכֶם יֹאמַר יְהוָה שָׂבַעְתִּי עֹלוֹת אֵילִים וְחֵלֶב מְרִיאִים וְדַם פָּרִים וּכְבָשִׂים וְעַתּוּדִים לֹא חָפָצְתִּי׃",
+    "translit": "Lama-li rov-zivheihem iomar ADONAI savati olot eilim vehelev meriim vedam parim uhevasim veatudim lo hafatzti.",
+    "tokens": [
+     {
+      "t": "Ce-Mi trebuie mulțimea "
+     },
+     {
+      "t": "ofrandelor",
+      "w": "ofrandelor",
+      "heb": "זִבְחֵיכֶם",
+      "translit": "zivheihem",
+      "strong": "H2077",
+      "pos": "substantiv, masculin plural, cu sufix persoana a II-a plural",
+      "def_ro": "jertfele voastre (de animale).",
+      "dict_ro": "Zevah — jertfa înjunghiată, din care o parte se arde pe altar și o parte se mănâncă. Profetul nu desființează jertfele, ci respinge jertfa adusă fără pocăință: Radak explică faptul că ele au fost poruncite ca omul să-și aducă aminte de Dumnezeu și să-și mărturisească păcatul, iar fără aceasta Dumnezeu e „sătul” de ele ca un om sătul de o mâncare. Aceeași învățătură o spune Samuel lui Saul: „ascultarea face mai mult decât jertfele” (1 Samuel 15:22). Talmudul deduce din versetele 11 și 15 că rugăciunea e mai mare decât jertfele (Berahot 32b)."
+     },
+     {
+      "t": " voastre? – spune DOMNUL. Sunt sătul de arderile-de-tot de berbeci și de grăsimea dobitoacelor îngrășate, iar sângele taurilor, oilor și țapilor nu-l doresc."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָמָּה־לִּי רֹב־זִבְחֵיכֶם יֹאמַר יְהוָה...",
+      "translation": "„Ce-Mi trebuie mulțimea ofrandelor voastre? –...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τί μοι πλῆθος τῶν θυσιῶν ὑμῶν; λέγει Κύριος· πλήρης εἰμὶ ὁλοκαυτωμάτων κριῶν, καὶ στέαρ ἀρνῶν καὶ αἷμα ταύρων καὶ τράγων οὐ βούλομαι,",
+      "greek": true,
+      "translation": "„Ce-Mi este Mie mulțimea jertfelor voastre? zice Domnul. M-am săturat de arderi-de-tot de berbeci, iar grăsimea mieilor și sângele taurilor și al țapilor nu le voiesc.”",
+      "note": "Septuaginta are „grăsimea mieilor” în loc de „grăsimea vitelor îngrășate” și numește doar tauri și țapi."
+     }
+    ],
+    "refs": [
+     "1 Samuel 15:22",
+     "Psalmii 50:8",
+     "Proverbe 21:27",
+     "Ieremia 6:20",
+     "Amos 5:21",
+     "Mica 6:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Sunt sătul de arderile-de-tot de berbeci” — asemenea cu „ca nu cumva, sătul de tine, să ajungă să te urască” (Proverbe 25:17). „Dobitoacelor îngrășate” — vite și oi îngrășate. „Nu-l doresc” — pentru că încălcați Tora Mea, iar „jertfa celor răi e o urâciune” (Proverbe 21:27)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ce-Mi trebuie” — oare nu esența jertfei e ca omul să se mărturisească atunci când o aduce? Iar voi, de vreme ce nu vă întoarceți, de ce Îmi trebuie jertfa? „Sunt sătul” — adică Mi-e scârbă de ele ca omului sătul, căruia îi e scârbă de lucrul de care s-a săturat. „Nu-l doresc” — de vreme ce nu vă întoarceți."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ce-Mi trebuie mulțimea ofrandelor voastre?” — deși jertfeau și ardeau tămâie pe înălțimi, aduceau și jertfe la Templu la lunile noi și la sărbători. De vreme ce părăsiți Tora Mea, ce-Mi trebuie mulțimea jertfelor voastre? Nu v-am poruncit să le aduceți decât ca să vă amintiți de Mine și să nu păcătuiți, iar dacă ați păcătuit, să vă mărturisiți odată cu jertfa și să vă întoarceți de la căile voastre rele; dacă ați fi făcut așa, Mi-ar fi fost „mireasmă plăcută”, cum spune Tora."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Meriim” — vite îngrășate și grase, ca în „jertfele de mulțumire din vitele voastre grase” (Amos 5:22). „Atudim” — țapii."
+     },
+     {
+      "author": "Talmud Bavli, Berahot 32b",
+      "text": "Rabi Elazar a spus: rugăciunea e mai mare decât jertfele, căci s-a spus: „Ce-Mi trebuie mulțimea ofrandelor voastre?”, iar după aceea e scris: „Iar când vă ridicați palmele, Îmi voi ascunde ochii de voi” (Isaia 1:15)."
+     }
+    ]
+   },
+   {
+    "v": "1:12",
+    "t": "Când veniți să vă înfățișați înaintea Mea – cine a cerut asta din mâna voastră, să-Mi pângăriți curțile?",
+    "heb": "כִּי תָבֹאוּ לֵרָאוֹת פָּנָי מִי־בִקֵּשׁ זֹאת מִיֶּדְכֶם רְמֹס חֲצֵרָי׃",
+    "translit": "Ki tavou leraot panai mi-vikeș zot miiedhem remos hațerai.",
+    "tokens": [
+     {
+      "t": "Când veniți să vă înfățișați înaintea Mea – cine a cerut asta din mâna voastră, să-Mi pângăriți "
+     },
+     {
+      "t": "curțile",
+      "w": "curțile",
+      "heb": "חֲצֵרָי",
+      "translit": "hațerai",
+      "strong": "H2691",
+      "pos": "substantiv, masculin plural, cu sufix persoana I singular",
+      "def_ro": "curțile Mele (ale Templului).",
+      "dict_ro": "Hațer — „curte, loc îngrădit”; aici curțile Templului, unde stătea poporul, căci în sanctuar intrau doar preoții (Radak). Expresia „să vă înfățișați înaintea Mea” e porunca pelerinajului de trei ori pe an: „de trei ori pe an toată partea bărbătească să se înfățișeze înaintea DOMNULUI” (Exod 23:17; Deuteronom 16:16). Metzudat David: venirea la sărbători, fără inimă întreagă, nu e cinste, ci doar „călcare în picioare” a curților."
+     },
+     {
+      "t": "?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי תָבֹאוּ לֵרָאוֹת פָּנָי...",
+      "translation": "„Când veniți să vă înfățișați înaintea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐδὲ ἂν ἔρχησθε ὀφθῆναι μοι. τίς γὰρ ἐξεζήτησε ταῦτα ἐκ τῶν χειρῶν ὑμῶν; πατεῖν τὴν αὐλήν μου",
+      "greek": true,
+      "translation": "„...nici dacă veniți să vă arătați înaintea Mea. Căci cine a cerut aceasta din mâinile voastre? Să călcați curtea Mea...”",
+      "note": "Septuaginta împarte altfel versetele 12-13: „să călcați curtea Mea” continuă cu „nu veți mai adăuga” din versetul următor."
+     }
+    ],
+    "refs": [
+     "Exod 23:17",
+     "Exod 34:23",
+     "Deuteronom 16:16",
+     "Eclesiastul 5:1",
+     "Mica 6:8"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cine a cerut asta din mâna voastră, să-Mi pângăriți curțile?” — să călcați curțile Mele, pentru că inima voastră nu e întreagă cu Mine."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Când veniți” — când veniți să vă înfățișați înaintea Mea la sărbătoare, atunci vă voi spune: cine a cerut aceasta din mâna voastră, să călcați și să tropăiți prin curțile Mele?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Când veniți” — la cele trei sărbători de pelerinaj: aceasta e înfățișarea. Cine a cerut-o din mâna voastră, să veniți înaintea Mea și să călcați cuvintele Mele? Nu vă socotesc aceasta ca cinste, ci ca batjocură, că îmi călcați curțile. Și a spus „curțile Mele”, pentru că în curțile Casei DOMNULUI stăteau israeliții, iar în sanctuar nu intrau decât preoții."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Panai” — ca „lefanai”, înaintea Mea. „Remos” — cu sensul de călcare cu piciorul, ca în „calcă lutul” (Naum 3:14)."
+     }
+    ]
+   },
+   {
+    "v": "1:13",
+    "t": "Nu mai aduceți prinos degeaba, ofranda de mirodenii este o oroare pentru Mine. Lună [Nouă] și Șabat, adunare de convocare, nu pot tolera nedreptate cu adunare.",
+    "heb": "לֹא תוֹסִיפוּ הָבִיא מִנְחַת־שָׁוְא קְטֹרֶת תּוֹעֵבָה הִיא לִי חֹדֶשׁ וְשַׁבָּת קְרֹא מִקְרָא לֹא־אוּכַל אָוֶן וַעֲצָרָה׃",
+    "translit": "Lo tosifu havi minhat-șav ketoret toeva hi li hodeș veșabat kero mikra lo-uhal aven vaatzara.",
+    "tokens": [
+     {
+      "t": "Nu mai aduceți prinos degeaba, ofranda de mirodenii este "
+     },
+     {
+      "t": "o oroare",
+      "w": "o oroare",
+      "heb": "תּוֹעֵבָה",
+      "translit": "toeva",
+      "strong": "H8441",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "urâciune, lucru detestabil.",
+      "dict_ro": "Toeva — „urâciune, lucru respingător”, cuvântul cu care Tora numește idolatria și faptele pe care Dumnezeu le urăște (Deuteronom 7:25-26). E un paradox voit: tămâia, simbolul rugăciunii care se înalță (Psalmii 141:2), devine „urâciune” când o aduce o inimă care se gândește la idoli (Rashi). Metzudat David: ofranda care nu e primită e „ofrandă deșartă”, iar nedreptatea din inimă nu poate sta laolaltă cu adunarea sfântă."
+     },
+     {
+      "t": " pentru Mine. Lună [Nouă] și Șabat, adunare de convocare, nu pot tolera nedreptate cu adunare."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לֹא תוֹסִיפוּ הָבִיא מִנְחַת־שָׁוְא...",
+      "translation": "„Nu mai aduceți prinos degeaba, ofranda...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐ προσθήσεσθαι· ἐὰν φέρητε σεμίδαλιν, μάταιον· θυμίαμα, βδέλυγμά μοί ἐστι· τὰς νουμηνίας ὑμῶν καὶ τὰ σάββατα καὶ ἡμέραν μεγάλην οὐκ ἀνέχομαι· νηστείαν καὶ ἀργίαν",
+      "greek": true,
+      "translation": "„...nu veți mai adăuga. Dacă aduceți floarea făinii, e zadarnic; tămâia Îmi este urâciune. Lunile voastre noi și sabatele și ziua cea mare nu le mai suport; postul și odihna...”",
+      "note": "Divergență reală: în locul expresiei ebraice „nedreptate și adunare” (aven vaațara), Septuaginta are „post și odihnă” (νηστείαν καὶ ἀργίαν)."
+     }
+    ],
+    "refs": [
+     "Maleahi 1:10",
+     "Proverbe 21:27",
+     "Isaia 66:3",
+     "Ezechiel 20:39",
+     "Ioel 1:14",
+     "Matei 15:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Nu mai aduceți prinos degeaba” — vă avertizez: nu-Mi mai aduceți darul vostru deșert, căci fumul care se ridică din el e fum de urâciune înaintea Mea, nu spre plăcerea Mea. „Lună Nouă și Șabat” — la lunile noi și la sabate, când vă adunați ca să chemați adunare sfântă, nu pot suporta nedreptatea din inimile voastre, aplecată spre idolatrie, împreună cu adunarea; aceste două lucruri nu se potrivesc: să chemați adunare înaintea Mea și să păstrați în inimă idolatria."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Prinos degeaba” — de vreme ce nu Mi-e plăcut, e o ofrandă deșartă, fără niciun folos, iar arderea ei e urâciune înaintea Mea. „Lună Nouă și Șabat” — fie la lună nouă, fie la Șabat, fie la sărbătorile în care chemați adunare sfântă și stați adunați înaintea Mea aducând jertfe, nu pot suporta nedreptatea din inimile voastre împreună cu adunarea, căci aceste două nu se pot uni."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Nu mai aduceți” — dacă ați făcut așa până acum, de acum încolo să nu mai aduceți, căci dacă aduceți un dar înaintea Mea fără ca inima voastră să fie la Mine, e un dar deșert și o urâciune. Iar când chemați adunare sfântă și vă strângeți în Casa Mea ca să sfințiți luna nouă sau sărbătoarea, iar în inimă aveți nedreptate și minciună, nu pot privi aceasta: nedreptate și adunare."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ketoret” — cu sensul de ridicare a fumului. „Aven” — gând mincinos, ca în „iată, zămislește nelegiuire” (Psalmii 7:14). „Vaațara” — adunare de oameni, numită așa pentru că stau strânși și opriți într-un singur loc."
+     }
+    ]
+   },
+   {
+    "v": "1:14",
+    "t": "Lunile voastre [noi] și soroacele voastre, sufletul Meu le urăște; Mi-au devenit povară, am obosit să o mai port.",
+    "heb": "חָדְשֵׁיכֶם וּמוֹעֲדֵיכֶם שָׂנְאָה נַפְשִׁי הָיוּ עָלַי לָטֹרַח נִלְאֵיתִי נְשֹׂא׃",
+    "translit": "Hodșeihem umoadeihem sanea nafși haiu alai latorah nileiti neso.",
+    "tokens": [
+     {
+      "t": "Lunile voastre [noi] și "
+     },
+     {
+      "t": "soroacele voastre",
+      "w": "soroacele voastre",
+      "heb": "וּמוֹעֲדֵיכֶם",
+      "translit": "umoadeihem",
+      "strong": "H4150",
+      "pos": "conjuncție + substantiv, masculin plural, cu sufix persoana a II-a plural",
+      "def_ro": "sărbătorile voastre, vremile hotărâte.",
+      "dict_ro": "Moed — „vreme hotărâtă, întâlnire”, de la iaad, „a hotărî o întâlnire”; din aceeași rădăcină vine Ohel Moed, „Cortul Întâlnirii”. Sărbătorile sunt întâlnirile rânduite de Dumnezeu cu poporul Său (Levitic 23:2), de aceea e cu atât mai aspru când El spune: „sărbătorile voastre”, nu „ale Mele”, iar sufletul Său „le urăște”. Radak: au devenit o povară atât de grea, încât nu le mai poate purta; Targumul înțelege: am iertat de multe ori și nu mai pot ierta."
+     },
+     {
+      "t": ", sufletul Meu le urăște; Mi-au devenit povară, am obosit să o mai port."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חָדְשֵׁיכֶם וּמוֹעֲדֵיכֶם שָׂנְאָה נַפְשִׁי...",
+      "translation": "„Lunile voastre [noi] și soroacele voastre...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τὰς νουμηνίας ὑμῶν καὶ τὰς ἑορτὰς ὑμῶν μισεῖ ἡ ψυχή μου· ἐγενήθητέ μοι εἰς πλησμονήν, οὐκέτι ἀνήσω τὰς ἁμαρτίας ὑμῶν.",
+      "greek": true,
+      "translation": "„...și lunile voastre noi și sărbătorile voastre le urăște sufletul Meu; Mi-ați ajuns spre sațiu, nu vă voi mai ierta păcatele.”",
+      "note": "Divergență reală: în locul imaginii poverii („Mi-au devenit povară, am obosit să o mai port”), Septuaginta are „nu vă voi mai ierta păcatele”, apropiată de citirea Targumului."
+     }
+    ],
+    "refs": [
+     "Amos 5:21",
+     "Isaia 43:24",
+     "Maleahi 2:17",
+     "Isaia 61:8"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Lunile voastre” — jertfele lunilor voastre noi. „Povară” — o sarcină grea, care Mă obosește până la istovire; a vorbit în limbajul omenesc, ca urechea să înțeleagă după cum e obișnuită."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Lunile voastre [noi]” — Mi-au devenit o povară grea, încât am obosit să le mai port. Ionatan traduce: „am înmulțit iertarea”, adică: de multe ori am purtat și v-am iertat fărădelegile, și nu mai pot ierta."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Nileiti” — cu sensul de oboseală, ca în „cu ce te-am obosit?” (Mica 6:3). „Neso” — de la „masa”, povară."
+     }
+    ]
+   },
+   {
+    "v": "1:15",
+    "t": "Iar când vă ridicați palmele, Îmi voi ascunde ochii de voi; chiar de veți spori ruga, nu ascult; mâinile vă sunt pline de sânge.",
+    "heb": "וּבְפָרִשְׂכֶם כַּפֵּיכֶם אַעְלִים עֵינַי מִכֶּם גַּם כִּי־תַרְבּוּ תְפִלָּה אֵינֶנִּי שֹׁמֵעַ יְדֵיכֶם דָּמִים מָלֵאוּ׃",
+    "translit": "Uvefarishhem kapeihem alim einai mikem gam ki-tarbu tefila eineni șomea iedeihem damim maleu.",
+    "tokens": [
+     {
+      "t": "Iar când vă ridicați "
+     },
+     {
+      "t": "palmele",
+      "w": "palmele",
+      "heb": "כַּפֵּיכֶם",
+      "translit": "kapeihem",
+      "strong": "H3709",
+      "pos": "substantiv, feminin dual, cu sufix persoana a II-a plural",
+      "def_ro": "palmele voastre.",
+      "dict_ro": "Kaf — „palma”, partea scobită a mâinii. A „întinde palmele” e gestul rugăciunii, ca la Solomon în ziua sfințirii Templului (1 Împărați 8:22) și la Ezra (Ezra 9:5). Profetul întoarce gestul împotriva lor: aceleași palme ridicate spre cer „sunt pline de sânge”. Talmudul trage de aici o lege: un preot care a ucis un om nu mai rostește binecuvântarea preoțească, făcută cu mâinile întinse (Berahot 32b)."
+     },
+     {
+      "t": ", Îmi voi ascunde ochii de voi; chiar de veți spori ruga, nu ascult; mâinile vă sunt pline de sânge."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּבְפָרִשְׂכֶם כַּפֵּיכֶם אַעְלִים עֵינַי...",
+      "translation": "„Iar când vă ridicați palmele, Îmi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅταν ἐκτείνητε τὰς χεῖρας ὑμῶν πρός με, ἀποστρέψω τοὺς ὀφθαλμούς μου ἀφ᾿ ὑμῶν, καὶ ἐὰν πληθύνητε τὴν δέησιν, οὐκ εἰσακούσομαι ὑμῶν· αἱ γὰρ χεῖρες ὑμῶν αἵματος πλήρεις.",
+      "greek": true,
+      "translation": "„Când vă întindeți mâinile spre Mine, Îmi voi întoarce ochii de la voi; și chiar dacă veți înmulți rugăciunea, nu vă voi asculta, căci mâinile voastre sunt pline de sânge.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 59:2",
+     "Proverbe 1:28",
+     "Ieremia 14:12",
+     "Mica 3:4",
+     "Psalmii 66:18",
+     "Ieremia 7:8-10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Iar când vă ridicați palmele, Îmi voi ascunde ochii de voi” — pentru că mâinile voastre sunt pline de sânge. „Sânge” — omor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iar când vă ridicați palmele” — în vremea rugăciunii. „Mâinile vă sunt” — pentru că mâinile voastre sunt pline de vărsare de sânge."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Iar când vă ridicați palmele” — întinderea palmelor e pentru rugăciune, ca în „îmi voi întinde palmele spre DOMNUL” (Exod 9:29); cum de nu vă e rușine să întindeți spre Mine palmele care au vărsat sânge? De aceea Îmi voi ascunde ochii și nu vă voi primi rugăciunea, chiar de v-ați ruga și ați striga toată ziua. Înțelepții noștri au tâlcuit versetul despre ridicarea mâinilor preoților și au spus: orice preot care a ucis un om să nu-și mai ridice mâinile."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Aalim” — de la „a ascunde, a acoperi”."
+     },
+     {
+      "author": "Talmud Bavli, Berahot 32b",
+      "text": "Rabi Iohanan a spus: orice preot care a ucis un om să nu mai ridice mâinile pentru binecuvântarea preoțească, căci s-a spus: „mâinile vă sunt pline de sânge”."
+     }
+    ]
+   },
+   {
+    "v": "1:16",
+    "t": "Spălați-vă, curățați-vă, îndepărtați răutatea faptelor voastre din fața ochilor Mei, opriți-vă din a mai face rău!",
+    "heb": "רַחֲצוּ הִזַּכּוּ הָסִירוּ רֹעַ מַעַלְלֵיכֶם מִנֶּגֶד עֵינָי חִדְלוּ הָרֵעַ׃",
+    "translit": "Rahațu hizaku hasiru roa maaleleihem mineghed einai hidlu harea.",
+    "tokens": [
+     {
+      "t": "Spălați-vă",
+      "w": "Spălați-vă",
+      "heb": "רַחֲצוּ",
+      "translit": "rahațu",
+      "strong": "H7364",
+      "pos": "verb, imperativ, masculin plural",
+      "def_ro": "spălați-vă, scăldați-vă.",
+      "dict_ro": "Rahaț — „a spăla, a scălda”, verbul spălărilor rituale ale preoților (Exod 30:19-21). Aici spălarea e a inimii: Metzudat David o explică drept îndepărtarea petelor păcatului prin pocăință. Rashi numără în versetele 16-17 zece îndemnuri la pocăință — spălați-vă, curățați-vă, îndepărtați, opriți-vă, învățați, căutați, ajutați, faceți dreptate, susțineți — corespunzând celor zece zile de pocăință dintre Roș Hașana și Iom Kipur."
+     },
+     {
+      "t": ", curățați-vă, îndepărtați răutatea faptelor voastre din fața ochilor Mei, opriți-vă din a mai face rău!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "רַחֲצוּ הִזַּכּוּ הָסִירוּ רֹעַ...",
+      "translation": "„Spălați-vă, curățați-vă, îndepărtați răutatea faptelor voastre...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "λούσασθε καὶ καθαροὶ γίνεσθε, ἀφέλετε τὰς πονηρίας ἀπὸ τῶν ψυχῶν ὑμῶν ἀπέναντι τῶν ὀφθαλμῶν μου, παύσασθε ἀπὸ τῶν πονηριῶν ὑμῶν,",
+      "greek": true,
+      "translation": "„Spălați-vă și fiți curați, îndepărtați răutățile din sufletele voastre dinaintea ochilor Mei, încetați de la răutățile voastre.”",
+      "note": "Septuaginta adaugă „din sufletele voastre”."
+     }
+    ],
+    "refs": [
+     "Ieremia 4:14",
+     "Iacov 4:8",
+     "Psalmii 26:6",
+     "Isaia 55:6,7",
+     "Ezechiel 18:30,31",
+     "Psalmii 34:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Spălați-vă, curățați-vă” — aici sunt zece îndemnuri de pocăință: spălați-vă, curățați-vă, îndepărtați, opriți-vă, învățați, căutați, ajutați, faceți dreptate, susțineți și „haideți”, corespunzând celor zece zile de pocăință și celor zece versete ale Regalității, Aducerilor-aminte și Șofarelor. „Opriți-vă din a mai face rău” — încetați de la faptele voastre rele."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Spălați-vă, curățați-vă” — îndepărtați petele fărădelegii prin pocăință. „Îndepărtați” — pentru că răutatea faptelor omului stă înaintea DOMNULUI ca să-l acuze, de aceea a spus: faceți pocăință și astfel le veți îndepărta dinaintea ochilor Mei. „Rău” — adică de la a face rău."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Spălați-vă, curățați-vă” — spălarea și curățarea inimii. „Îndepărtați răutatea faptelor voastre” și „opriți-vă din a mai face rău” — încetați să vă faceți rău unul altuia; iar rabinul Șlomo (Rashi) a explicat „a face rău” ca „de la a face rău”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hizaku” — de la „zakut”, curăție și limpezime. „Hidlu” — opriți-vă."
+     }
+    ]
+   },
+   {
+    "v": "1:17",
+    "t": "Învățați să faceți bine, căutați justiția, ajutați-l pe cel sărman, faceți dreptate orfanului și susțineți pricina văduvei!",
+    "heb": "לִמְדוּ הֵיטֵב דִּרְשׁוּ מִשְׁפָּט אַשְּׁרוּ חָמוֹץ שִׁפְטוּ יָתוֹם רִיבוּ אַלְמָנָה׃",
+    "translit": "Limdu heitev dirșu mișpat așru hamoț șiftu iatom rivu almana.",
+    "tokens": [
+     {
+      "t": "Învățați să faceți bine, căutați justiția, "
+     },
+     {
+      "t": "ajutați-l pe cel sărman",
+      "w": "ajutați-l pe cel sărman",
+      "heb": "אַשְּׁרוּ חָמוֹץ",
+      "translit": "așru hamoț",
+      "strong": "H2541",
+      "pos": "verb, imperativ + substantiv, masculin singular",
+      "def_ro": "îndreptați-l pe cel asuprit, sprijiniți-l pe cel jefuit.",
+      "dict_ro": "Hamoț — „cel jefuit, cel asuprit”, ca în „din mâna celui nelegiuit și asupritor (homeț)” (Psalmii 71:4); așru vine din iașar, „a îndrepta” (Metzudat Țion): îndreptați-i pricina celui nedreptățit. Talmudul face un joc de cuvinte cu hameț, „dospit”: „fericit judecătorul care își lasă judecata să dospească”, care nu se grăbește cu sentința (Sanhedrin 35a). Orfanul și văduva sunt numiți anume pentru că ei sunt cei mai des asupriți și nu au cine să le apere pricina (Radak)."
+     },
+     {
+      "t": ", faceți dreptate orfanului și susțineți pricina văduvei!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לִמְדוּ הֵיטֵב דִּרְשׁוּ מִשְׁפָּט...",
+      "translation": "„Învățați să faceți bine, căutați justiția...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "μάθετε καλὸν ποιεῖν, ἐκζητήσατε κρίσιν, ῥύσασθε ἀδικούμενον, κρίνατε ὀρφανῷ καὶ δικαιώσατε χήραν·",
+      "greek": true,
+      "translation": "„Învățați să faceți binele, căutați judecata, izbăviți pe cel nedreptățit, faceți dreptate orfanului și îndreptățiți-o pe văduvă.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ieremia 22:3,15,16",
+     "Psalmii 82:3,4",
+     "Zaharia 7:9,10",
+     "Mica 6:8",
+     "Proverbe 31:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ajutați-l pe cel sărman” (așru hamoț) — o expresie cunoscută și din limba Mișnei, de întărire și îndreptare; o altă explicație: călăuziți-l pe calea adevărului, ca să dobândească ce i se cuvine. „Hamoț” — cel jefuit, ca în „din mâna celui nelegiuit și asupritor” (Psalmii 71:4). „Faceți dreptate” — cutare e nevinovat și cutare e vinovat. „Susțineți pricina văduvei” — străduiți-vă în cearta ei să pledați pentru ea, căci ea nu poate ieși să-și urmărească potrivnicii."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Să faceți bine” — să vă îndreptați faptele. „Căutați justiția” — cercetați judecata ca să știți cu cine e dreptatea, îndreptați-l pe cel asuprit, faceți dreptate orfanului și susțineți pricina văduvei, căci ei sunt cei asupriți cel mai des."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Învățați” — de la rău opriți-vă și învățați să faceți bine unul altuia. „Căutați justiția” — între asupritor și asuprit. „Așru” — ca „iașru”, îndreptați; „hamoț” e cel jefuit: îndreptați-l pe cel jefuit și nedreptățit la judecată. Înțelepții noștri l-au explicat de la „hameț” și au spus: fericit judecătorul care își lasă judecata să dospească. „Orfanului... văduvei” — ei sunt asupriți cel mai des, iar voi nu vă plecați urechea la strigătul lor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Așru” — de la „iașar”, drept; alef-ul vine în locul lui iod. „Hamoț” — cel asuprit, ca în „din mâna celui nelegiuit și asupritor” (Psalmii 71:4)."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 35a",
+      "text": "Rava a spus: de aici se învață că judecățile în care e vorba de viața unui om nu se încheie în aceeași zi cu osânda: „ajutați-l pe cel sărman” (așru hamoț) — fericit (așrei) judecătorul care își lasă judecata să dospească (meḥameț)."
+     }
+    ]
+   },
+   {
+    "v": "1:18",
+    "t": "Haideți așadar să ne gândim – spune DOMNUL – dacă păcatele voastre vor fi ca [pânza] cărămizie, ele se vor face albe ca zăpada; dacă s-au înroșit ca purpura, ele se vor face precum lâna.",
+    "heb": "לְכוּ־נָא וְנִוָּכְחָה יֹאמַר יְהוָה אִם־יִהְיוּ חֲטָאֵיכֶם כַּשָּׁנִים כַּשֶּׁלֶג יַלְבִּינוּ אִם־יַאְדִּימוּ כַתּוֹלָע כַּצֶּמֶר יִהְיוּ׃",
+    "translit": "Lehu-na venivaheha iomar ADONAI im-ihiu hataeihem kașanim kașeleg ialbinu im-iadimu hatola kațemer ihiu.",
+    "tokens": [
+     {
+      "t": "Haideți așadar să ne gândim – spune DOMNUL – dacă păcatele voastre vor fi ca [pânza] "
+     },
+     {
+      "t": "cărămizie",
+      "w": "cărămizie",
+      "heb": "כַּשָּׁנִים",
+      "translit": "kașanim",
+      "strong": "H8144",
+      "pos": "prepoziție + substantiv, masculin plural",
+      "def_ro": "ca stofa roșie-aprinsă, ca purpuriul.",
+      "dict_ro": "Șani — „roșu aprins”, colorantul scos dintr-o insectă, cu care se vopseau firele de lână pentru Cortul Întâlnirii (Exod 25:4). Radak explică de ce păcatul e asemănat cu roșul: e o culoare puternică, se vede de departe, iar pata ei nu iese la spălat; pocăința e cea care albește pata. Imaginea pânzei albite amintește de rugăciunea lui David: „spală-mă și voi fi mai alb decât zăpada” (Psalmii 51:7). Talmudul pune versetul în gura lui Dumnezeu, ca răspuns celor care nu mai au la cine să ceară milă decât la El (Șabat 89b)."
+     },
+     {
+      "t": ", ele se vor face albe ca zăpada; dacă s-au înroșit ca purpura, ele se vor face precum lâna."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לְכוּ־נָא וְנִוָּכְחָה יֹאמַר יְהוָה...",
+      "translation": "„Haideți așadar să ne gândim –...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ δεῦτε διαλεχθῶμεν, λέγει Κύριος· καὶ ἐὰν ὦσιν αἱ ἁμαρτίαι ὑμῶν ὡς φοινικοῦν, ὡς χιόνα λευκανῶ, ἐὰν δὲ ὦσιν ὡς κόκκινον, ὡς ἔριον λευκανῶ.",
+      "greek": true,
+      "translation": "„Și veniți să stăm de vorbă, zice Domnul: și dacă păcatele voastre vor fi ca purpura, ca zăpada le voi albi, iar dacă vor fi ca stacojiul, ca lâna le voi albi.”",
+      "note": "În Septuaginta Dumnezeu e subiectul: „le voi albi”, acolo unde Textul Masoretic spune că păcatele însele „se vor face albe”."
+     }
+    ],
+    "refs": [
+     "Psalmii 51:7",
+     "Isaia 44:22",
+     "Mica 7:18,19",
+     "Isaia 43:24-26",
+     "Mica 6:2",
+     "Apocalipsa 7:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Haideți așadar să ne gândim” — Eu și voi, să știm cine a greșit față de cine; și dacă voi ați greșit față de Mine, tot vă dau nădejde de pocăință. „Dacă păcatele voastre vor fi ca [pânza] cărămizie” — pătate înaintea Mea ca roșul aprins, le voi face albe ca zăpada. O altă explicație: ce e scris mai sus? „Opriți-vă din a mai face rău, învățați să faceți bine”; iar după ce vă veți întoarce la Mine, „haideți să ne judecăm”, ca să-Mi spuneți: „noi am făcut ce ne revenea, fă și Tu ce-Ți revine”, iar Eu vă spun: „dacă păcatele voastre vor fi ca roșul aprins, se vor face albe ca zăpada”. „Ca purpura” (tola) — vopseaua cu care se vopsesc stofele în roșu; sunt boabe, fiecare cu un vierme înăuntru, de unde numele de tola."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Să ne gândim” — să lămurim lucrurile, ca să știm cine a greșit față de cine. „Dacă păcatele voastre” — și când veți recunoaște că dreptatea e de partea Mea și vă veți întoarce la Mine, atunci, chiar de vor fi păcatele voastre roșii ca stofa vopsită, vor fi albite ca zăpada, adică voi ierta păcatele voastre; a asemănat fărădelegea cu o pată roșie, o culoare puternică, ce se vede de departe și nu iese repede la spălat."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Haideți” — nu e o chemare la mers, ci un îndemn. „Să ne gândim” — cu sensul de înșirare a argumentelor între două părți la judecată: Dumnezeu va înșira binefacerile Lui și relele pe care le-ați făcut voi; iar voi, neputând să răspundeți nimic, veți regreta faptele rele, și dacă veți face așa, chiar de vor fi păcatele voastre ca roșul, se vor albi ca zăpada. Tatăl meu, stăpânul meu, a explicat: dacă păcatele vor fi ca roșul care nu e foarte aprins, se vor face albe ca zăpada; iar dacă vor fi foarte roșii, ca purpura, vor ajunge ca lâna, care nu e atât de albă ca zăpada."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Lehu” — expresie de îndemn, ca în „acum veniți să-l omorâm” (Geneza 37:20). „Venivahha” — cu sensul de lămurire a unui lucru. „Kașanim” — fire vopsite în roșu, ca în „stacojiu” (Exod 25:4). „Katola” — numele colorantului cu care se vopsește în roșu."
+     },
+     {
+      "author": "Talmud Bavli, Șabat 89b",
+      "text": "Israel va spune înaintea Celui Sfânt, binecuvântat fie El: Stăpâne al lumii, la cine să mergem? La Avraam, căruia i-ai spus că urmașii lui vor fi robi într-o țară străină, și n-a cerut milă pentru noi? La Isaac, care l-a binecuvântat pe Esau, și n-a cerut milă pentru noi? La Iacov, căruia i-ai spus „Eu Mă voi coborî cu tine în Egipt”, și n-a cerut milă pentru noi? La cine să mergem? Acum, „spune DOMNUL”. Le va spune Cel Sfânt, binecuvântat fie El: de vreme ce v-ați lăsat în seama Mea, „dacă păcatele voastre vor fi ca [pânza] cărămizie, ele se vor face albe ca zăpada”."
+     }
+    ]
+   },
+   {
+    "v": "1:19",
+    "t": "Dacă veți vrea și veți asculta, bunătatea țării o veți mânca.",
+    "heb": "אִם־תֹּאבוּ וּשְׁמַעְתֶּם טוּב הָאָרֶץ תֹּאכֵלוּ׃",
+    "translit": "Im-tovu ușmatem tuv haareț tohelu.",
+    "tokens": [
+     {
+      "t": "Dacă veți vrea și veți asculta, "
+     },
+     {
+      "t": "bunătatea țării",
+      "w": "bunătatea țării",
+      "heb": "טוּב הָאָרֶץ",
+      "translit": "tuv haareț",
+      "strong": "H2898",
+      "pos": "substantiv, masculin singular, în construcție + substantiv cu articol",
+      "def_ro": "binele țării, roadele cele mai bune ale pământului.",
+      "dict_ro": "Tuv — „bunătate, belșug, ce e mai bun”. Versetul și cel următor pun alegerea în termenii Deuteronomului: ascultarea aduce rodul țării, neascultarea aduce sabia (Deuteronom 30:15-18). Radak face legătura cu versetul 7: ce mănâncă acum străinii sub ochii voștri, veți mânca voi. Metzudat David: „dacă veți vrea” înseamnă a se supune de bunăvoie, iar „veți asculta” — a asculta de glasul Lui."
+     },
+     {
+      "t": " o veți mânca."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אִם־תֹּאבוּ וּשְׁמַעְתֶּם טוּב הָאָרֶץ...",
+      "translation": "„Dacă veți vrea și veți asculta...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐὰν θέλητε καὶ εἰσακούσητέ μου, τὰ ἀγαθὰ τῆς γῆς φάγεσθε·",
+      "greek": true,
+      "translation": "„Și dacă veți voi și Mă veți asculta, bunătățile pământului veți mânca.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 3:10",
+     "Isaia 55:1-3,6,7",
+     "Ieremia 3:12-14",
+     "Osea 14:1-4"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dacă veți vrea” — să vă supuneți Mie și veți asculta de glasul Meu, atunci veți mânca ce e mai bun din țară."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Dacă veți vrea” — „bunătatea țării”, pe care acum o mănâncă străinii sub ochii voștri, o veți mânca voi."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tovu” — veți vrea, ca în „cumnatul meu n-a vrut” (Deuteronom 25:7)."
+     }
+    ]
+   },
+   {
+    "v": "1:20",
+    "t": "Dar dacă refuzați și vă răzvrătiți, veți fi devorați de sabie, căci gura DOMNULUI a vorbit.”",
+    "heb": "וְאִם־תְּמָאֲנוּ וּמְרִיתֶם חֶרֶב תְּאֻכְּלוּ כִּי פִּי יְהוָה דִּבֵּר׃",
+    "translit": "Veim-temaanu umeritem herev teuklu ki pi ADONAI diber.",
+    "tokens": [
+     {
+      "t": "Dar dacă refuzați și vă răzvrătiți, veți fi devorați de "
+     },
+     {
+      "t": "sabie",
+      "w": "sabie",
+      "heb": "חֶרֶב",
+      "translit": "herev",
+      "strong": "H2719",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "sabie.",
+      "dict_ro": "Herev — „sabia”. Versetul face un joc de cuvinte cu cel precedent: „veți mânca” bunătatea țării (tohelu) sau „veți fi mâncați” de sabie (teuklu); Metzudat David rezumă: nu veți fi cei ce mănâncă, ci cei mâncați. Rashi arată unde „a vorbit gura DOMNULUI”: „voi aduce asupra voastră sabia” (Levitic 26:25). Formula de încheiere, „căci gura DOMNULUI a vorbit”, pecetluiește cuvântul ca sigur, cum spune Radak: El își va împlini cuvântul."
+     },
+     {
+      "t": ", căci gura DOMNULUI a vorbit.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאִם־תְּמָאֲנוּ וּמְרִיתֶם חֶרֶב תְּאֻכְּלוּ...",
+      "translation": "„Dar dacă refuzați și vă răzvrătiți...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐὰν δὲ μὴ θέλητε, μηδὲ εἰσακούσητέ μου, μάχαιρα ὑμᾶς κατέδεται· τὸ γὰρ στόμα Κυρίου ἐλάλησε ταῦτα.",
+      "greek": true,
+      "translation": "„Dar dacă nu veți voi și nu Mă veți asculta, sabia vă va mânca; căci gura Domnului a grăit acestea.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Levitic 26:33",
+     "Isaia 3:11",
+     "1 Samuel 12:25",
+     "Isaia 40:5",
+     "Isaia 58:14",
+     "Numeri 23:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Căci gura DOMNULUI a vorbit” — unde a vorbit? „Voi aduce asupra voastră sabia” (Levitic 26:25)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Dar dacă refuzați” — dacă veți refuza să ascultați cuvintele Mele și vă veți răzvrăti împotriva poruncii Mele. „Veți fi devorați de sabie” — nu veți fi cei ce mănâncă, ci veți fi mâncați de sabie. „Căci gura DOMNULUI a vorbit” — și în puterea Lui e să-Și împlinească cuvântul."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Dar dacă refuzați și vă răzvrătiți” — nu veți mânca, ci veți fi mâncați de sabie; „sabie” e ca „de sabie”, lipsind prepoziția, cum se întâmplă des în Scriptură. „Căci gura DOMNULUI a vorbit” — și de vreme ce a vorbit, Își va împlini cuvântul."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Temaanu” — de la „refuz și împotrivire”. „Umeritem” — de la „răzvrătire și nesupunere”."
+     }
+    ]
+   },
+   {
+    "v": "1:21",
+    "t": "Cum a devenit ca o prostituată, oraș credincios care era plin de justiție, în care sălășluia dreptatea, dar acum [locuiesc] ucigași!",
+    "heb": "אֵיכָה הָיְתָה לְזוֹנָה קִרְיָה נֶאֱמָנָה מְלֵאֲתִי מִשְׁפָּט צֶדֶק יָלִין בָּהּ וְעַתָּה מְרַצְּחִים׃",
+    "translit": "Eiha haita lezona kiria neemana meleati mișpat țedek ialin ba veata merațeḥim.",
+    "tokens": [
+     {
+      "t": "Cum a devenit ca "
+     },
+     {
+      "t": "o prostituată",
+      "w": "o prostituată",
+      "heb": "לְזוֹנָה",
+      "translit": "lezona",
+      "strong": "H2181",
+      "pos": "prepoziție + verb, participiu, feminin singular",
+      "def_ro": "desfrânată, femeie necredincioasă.",
+      "dict_ro": "Zona — „desfrânata”, participiul verbului zana. Profeții numesc astfel necredința lui Israel față de Dumnezeu, înfățișat ca soț (Ieremia 3:1; Osea 2:5). Versetul începe cu eiha, „cum?”, cuvântul de bocet cu care se deschide cartea Plângerilor: de aceea haftara se cântă la sinagogă pe melodia Plângerilor, în Sabatul dinaintea zilei de 9 Av. Radak: Ierusalimul fusese credincios în zilele lui David, Solomon și Iosafat, iar acum își părăsise Templul pentru înălțimi. Talmudul citește „dreptatea înnopta în ea” despre judecătorii care amânau până a doua zi sentința de moarte, ca să caute un motiv de achitare (Sanhedrin 35a)."
+     },
+     {
+      "t": ", oraș credincios care era plin de justiție, în care sălășluia dreptatea, dar acum [locuiesc] ucigași!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אֵיכָה הָיְתָה לְזוֹנָה קִרְיָה...",
+      "translation": "„Cum a devenit ca o prostituată...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Πῶς ἐγένετο πόρνη πόλις πιστὴ Σιών, πλήρης κρίσεως, ἐν ᾗ δικαιοσύνη ἐκοιμήθη ἐν αὐτῇ, νῦν δὲ φονευταί.",
+      "greek": true,
+      "translation": "„Cum a ajuns desfrânată cetatea credincioasă, Sionul, plină de judecată, în care dreptatea dormea, iar acum ucigași!”",
+      "note": "Septuaginta adaugă numele „Sion” și redă „înnopta” (ialin) prin „dormea” (ἐκοιμήθη)."
+     }
+    ],
+    "refs": [
+     "Ieremia 2:20,21",
+     "Ieremia 3:1",
+     "Isaia 5:7",
+     "Ezechiel 22:3-7",
+     "Zaharia 8:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „O prostituată” — rătăcită de la Dumnezeul ei. „În care sălășluia dreptatea” — jertfa zilnică de dimineață ispășea păcatele nopții, iar cea de după-amiază pe ale zilei; o altă explicație: lăsau să înnopteze judecățile în care era vorba de viața unui om, când nu-i găseau un temei de achitare, și nu le încheiau până a doua zi, poate îi vor găsi vreo îndreptățire; iar acum au devenit ucigași. În Pesikta se spune: erau în Ierusalim patru sute optzeci și una de sinagogi, după valoarea numerică a cuvântului meleati. „Dar acum ucigași” — l-au ucis pe Urie, l-au ucis pe Zaharia."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cum” — se tânguiește spunând: cum de Ierusalimul, cetatea credincioșiei, s-a prefăcut necredincios DOMNULUI, ca o desfrânată care își înșală bărbatul? „Plin de justiție” — din vechime era plin de judecată și dreptatea stătea mereu în el, iar acum oamenii s-au prefăcut în ucigași."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cum” — desfrânata nu e credincioasă bărbatului ei, ci îl înșală; tot așa Ierusalimul, care fusese credincios lui Dumnezeu în zilele lui David, Solomon, Asa și Iosafat, când nu se jertfea pe înălțimi, ci doar la Templu, a ajuns apoi desfrânată, a părăsit Casa DOMNULUI și jertfește pe înălțimi. „Plin de justiție” — căci Iosafat a pus judecători în toate cetățile lui Iuda și le-a spus: „vedeți ce faceți, căci nu pentru oameni judecați, ci pentru DOMNUL” (2 Cronici 19:6). „Dreptatea sălășluia” — „a înnopta” înseamnă aici stăruință și statornicie: dreptatea stătea mereu în el, iar acum sunt ucigași."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Kiria” — cetate. „Meleati” — iod-ul e adăugat. „Ialin” — cu sensul de statornicie, ca în „și va înnopta în casa lui” (Zaharia 5:4)."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 35a",
+      "text": "Rabi Hanina a spus: de unde știm că o judecată în care e vorba de viața unui om nu se încheie cu osânda în aceeași zi? Căci spune versetul: „plin de justiție, în care sălășluia dreptatea, dar acum ucigași”."
+     }
+    ]
+   },
+   {
+    "v": "1:22",
+    "t": "Argintul tău s-a prefăcut în zgură, vinul vostru îmbătător s-a amestecat cu apă.",
+    "heb": "כַּסְפֵּךְ הָיָה לְסִיגִים סָבְאֵךְ מָהוּל בַּמָּיִם׃",
+    "translit": "Kaspeh haia lesighim soveh mahul bamaim.",
+    "tokens": [
+     {
+      "t": "Argintul tău s-a prefăcut în "
+     },
+     {
+      "t": "zgură",
+      "w": "zgură",
+      "heb": "לְסִיגִים",
+      "translit": "lesighim",
+      "strong": "H5509",
+      "pos": "prepoziție + substantiv, masculin plural",
+      "def_ro": "zgură, rămășițele fără valoare de la topirea metalului.",
+      "dict_ro": "Sig — „zgura” care se desparte din argint la topire (Metzudat Țion, ca în Ezechiel 22:18). Rashi și Radak citesc versetul la propriu: se băteau monede de aramă poleite cu argint, ca să-i înșele pe oameni, iar negustorii de vin îl amestecau cu apă. Imaginea pregătește versetul 25, în care Dumnezeu însuși va topi zgura. Septuaginta îi numește pe cei care amestecă vinul kapeloi, „cârciumari”, cuvânt din care Pavel face verbul „a negustori cuvântul lui Dumnezeu” (2 Corinteni 2:17)."
+     },
+     {
+      "t": ", vinul vostru îmbătător s-a amestecat cu apă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כַּסְפֵּךְ הָיָה לְסִיגִים סָבְאֵךְ...",
+      "translation": "„Argintul tău s-a prefăcut în zgură...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τὸ ἀργύριον ὑμῶν ἀδόκιμον· οἱ κάπηλοί σου μίσγουσι τὸν οἶνον ὕδατι·",
+      "greek": true,
+      "translation": "„Argintul vostru e fără valoare; cârciumarii tăi amestecă vinul cu apă.”",
+      "note": "Septuaginta are „cârciumarii tăi amestecă vinul cu apă”, acolo unde Textul Masoretic spune că vinul însuși „s-a amestecat cu apă”."
+     }
+    ],
+    "refs": [
+     "Ezechiel 22:18-22",
+     "Ieremia 6:28-30",
+     "Plângerile 4:1,2",
+     "2 Corinteni 2:17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Argintul tău s-a prefăcut în zgură” — făceau monede de aramă și le poleiau cu argint, ca să înșele cu ele. „Vinul vostru îmbătător s-a amestecat cu apă” — băuturile voastre sunt amestecate cu apă, cum se spune în Pesikta; cuvântul (mahul) înseamnă „amestecat”, deși nu are pereche în Scriptură."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Argintul tău” — argintul pe care îl dai altuia e zgură, iar tu îl înșeli și îl păcălești."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Argintul tău” — bat în el monedă falsă, iar oamenii cred că e tot argint, dar are în el zgură de aramă și cositor, poleită cu argint, și îi înșală pe oameni cu ea; tot așa vânzătorii de vin: cumpărătorii cred că iau vin curat, dar e amestecat cu apă. Sove e vinul vândut la cârciumă, unde vin cei ușuratici și se îmbată. „Mahul” — amestecat; n-are pereche în Scriptură, dar tatăl meu i-a adus un corespondent din arabă."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Lesighim” — zgura argintului, ca în „au ajuns zgură de argint” (Ezechiel 22:18). „Savieh” — așa se numesc băuturile îmbătătoare. „Mahul” — amestecat."
+     }
+    ]
+   },
+   {
+    "v": "1:23",
+    "t": "Prinții voștri sunt răzvrătiți, tovarăși cu tâlharii, cu toții iubesc mita și aleargă după foloase [necuvenite]. Orfanului nu-i fac dreptate și pricina văduvei nu ajunge înaintea lor.",
+    "heb": "שָׂרַיִךְ סוֹרְרִים וְחַבְרֵי גַּנָּבִים כֻּלּוֹ אֹהֵב שֹׁחַד וְרֹדֵף שַׁלְמֹנִים יָתוֹם לֹא יִשְׁפֹּטוּ וְרִיב אַלְמָנָה לֹא־יָבוֹא אֲלֵיהֶם׃",
+    "translit": "Saraih sorerim vehavrei ganavim kulo ohev șohad verodef șalmonim iatom lo ișpotu veriv almana lo-iavo aleihem.",
+    "tokens": [
+     {
+      "t": "Prinții voștri sunt răzvrătiți, tovarăși cu tâlharii, cu toții iubesc "
+     },
+     {
+      "t": "mita",
+      "w": "mita",
+      "heb": "שֹׁחַד",
+      "translit": "șohad",
+      "strong": "H7810",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "mită, dar dat ca să strâmbe judecata.",
+      "dict_ro": "Șohad — „mita”, darul care strâmbă judecata. Tora o interzice cu o motivare aspră: „mita orbește ochii înțelepților și sucește cuvintele celor drepți” (Deuteronom 16:19; Exod 23:8), versete din pericopele citite în aceeași perioadă. Șalmonim, „foloasele”, e explicat de Targum și de Rashi ca înțelegere între judecători: „achită-mă azi în pricina mea și te voi achita mâine în a ta”. Rezultatul e cel descris la sfârșit: orfanul nu primește dreptate, iar văduva nici nu mai vine la ei."
+     },
+     {
+      "t": " și aleargă după foloase [necuvenite]. Orfanului nu-i fac dreptate și pricina văduvei nu ajunge înaintea lor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שָׂרַיִךְ סוֹרְרִים וְחַבְרֵי גַּנָּבִים...",
+      "translation": "„Prinții voștri sunt răzvrătiți, tovarăși cu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οἱ ἄρχοντές σου ἀπειθοῦσι, κοινωνοὶ κλεπτῶν ἀγαπῶντες δῶρα, διώκοντες ἀνταπόδομα, ὀρφανοῖς οὐ κρίνοντες καὶ κρίσιν χηρῶν οὐ προσέχοντες.",
+      "greek": true,
+      "translation": "„Căpeteniile tale sunt neascultătoare, părtașe cu hoții, iubind darurile, alergând după răsplată; orfanilor nu le fac dreptate și de judecata văduvelor nu iau aminte.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Exod 23:8",
+     "Deuteronom 16:19",
+     "Mica 3:1-3,11",
+     "Ieremia 5:28,29",
+     "Ezechiel 22:6-12",
+     "Proverbe 29:24"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Răzvrătiți” — abătuți de la calea cea dreaptă. „Aleargă după foloase” (șalmonim) — asemenea cuvântului talmudic „tașlumin”, plăți; Ionatan explică: un om îi spune altuia: fă-mi un bine în pricina mea și îți voi răsplăti în pricina ta; e vorba de un judecător care e el însuși hoț, iar păgubitul se plânge de el înaintea altui judecător. „Pricina văduvei nu ajunge înaintea lor” — văduva vine să se plângă și îl întâlnește pe orfan ieșind; îl întreabă: ce ai dobândit la judecată? Iar el răspunde: toată ziua m-am ostenit și n-am dobândit nimic. Atunci ea se întoarce și spune: dacă el, care e bărbat, n-a dobândit nimic, cu atât mai puțin eu."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Răzvrătiți” — abătuți de la calea binelui și însoțiți cu hoții. „Cu toții” — tot poporul. „Foloase” — unul îi spune celuilalt: achită-mă azi în pricina mea, și mâine te voi achita în a ta. „Nu ajunge” — văzând că nici orfanul, deși e bărbat, n-a folosit nimic, cu atât mai mult ea, și încetează să mai vină."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Prinții voștri” — căpeteniile, care trebuiau să îndrepte ce e strâmb, sunt răzvrătite și strâmbă ce e drept, și sunt tovarăși cu hoții, căci hoții împart cu ele, de aceea nu-i pedepsesc și nu-i opresc de la furt. „Cu toții” — la singular, pentru că toți umblă pe aceeași cale: iubesc să primească mită și strâmbă judecata. „Orfanului nu-i fac dreptate” — împotriva celor care îl asupresc."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Șalmonim” — de la „tașlumin”, plăți."
+     }
+    ]
+   },
+   {
+    "v": "1:24",
+    "t": "De aceea – rostirea Stăpânului, DOMNULUI Oștirilor, Puternicului lui Israel – oh, cum Mă voi ușura de inamici și cum Mă voi răzbuna pe dușmanii Mei!",
+    "heb": "לָכֵן נְאֻם הָאָדוֹן יְהוָה צְבָאוֹת אֲבִיר יִשְׂרָאֵל הוֹי אֶנָּחֵם מִצָּרַי וְאִנָּקְמָה מֵאוֹיְבָי׃",
+    "translit": "Lachen neum haadon ADONAI Țevaot avir Israel hoi enahem mițarai veinakma meoivai.",
+    "tokens": [
+     {
+      "t": "De aceea – rostirea Stăpânului, DOMNULUI Oștirilor, "
+     },
+     {
+      "t": "Puternicului lui Israel",
+      "w": "Puternicului lui Israel",
+      "heb": "אֲבִיר יִשְׂרָאֵל",
+      "translit": "avir Israel",
+      "strong": "H46",
+      "pos": "adjectiv substantivat, în construcție + nume propriu",
+      "def_ro": "Cel Puternic al lui Israel (nume divin).",
+      "dict_ro": "Avir — „cel puternic”, folosit doar pentru Dumnezeu, în forma „Puternicul lui Iacov” din binecuvântarea lui Iacov (Geneza 49:24) și în Psalmii 132:2; forma „Puternicul lui Israel” apare numai aici. Versetul adună trei nume divine — Stăpânul, DOMNUL Oștirilor, Puternicul lui Israel — înaintea unei hotărâri grele. Verbul enahem, tradus „Mă voi ușura”, înseamnă și „a se mângâia”: Radak explică faptul că mânia lui Dumnezeu se va potoli după ce va face dreptate celor asupriți."
+     },
+     {
+      "t": " – oh, cum Mă voi ușura de inamici și cum Mă voi răzbuna pe dușmanii Mei!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לָכֵן נְאֻם הָאָדוֹן יְהוָה...",
+      "translation": "„De aceea – rostirea Stăpânului, DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "διὰ τοῦτο τάδε λέγει Κύριος ὁ δεσπότης σαβαώθ, ὁ δυνάστης τοῦ ᾿Ισραήλ· οὐαὶ τοῖς ἰσχύουσιν ἐν ῾Ιερουσαλήμ· οὐ παύσεται γάρ μου ὁ θυμὸς ἐν τοῖς ὑπεναντίοις, καὶ κρίσιν ἐκ τῶν ἐχθρῶν μου ποιήσω.",
+      "greek": true,
+      "translation": "„De aceea așa zice Stăpânul, Domnul Savaot, Cel Puternic al lui Israel: Vai celor puternici din Ierusalim! Căci mânia Mea nu va înceta asupra potrivnicilor și voi face judecată vrăjmașilor Mei.”",
+      "note": "Divergență reală: Septuaginta adaugă „vai celor puternici din Ierusalim” și are „mânia Mea nu va înceta” în loc de „Mă voi ușura de inamici”."
+     }
+    ],
+    "refs": [
+     "Isaia 49:26",
+     "Isaia 60:16",
+     "Deuteronom 32:43",
+     "Ezechiel 5:13",
+     "Deuteronom 28:63"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Rostirea Stăpânului” — a Celui căruia totul Îi aparține și în puterea Căruia e să vă smulgă din țara voastră și să-i așeze pe alții în ea. „Puternicului lui Israel” — tăria lui Israel. „Oh” (hoi) — expresie de pregătire și de vestire, ca în „Ho, ho, fugiți din țara de la miazănoapte” (Zaharia 2:6); să știe toți că Mă voi mângâia față de potrivnicii Mei, care M-au mâniat cu faptele lor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Stăpânului” — Căruia totul Îi aparține, și nimeni nu-L poate opri. „Mă voi ușura” — prin aceea că le voi răsplăti după faptele lor, Mă voi mângâia de mânia cu care M-au mâniat."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „De aceea, Stăpânul” — căci în vremea aceea toți vor recunoaște că El e Stăpânul tuturor, Stăpânul oștirilor de sus și de jos. „Puternicului lui Israel” — care va fi din nou tăria celor asupriți din Israel și Se va răzbuna pe asupritorii lor, care sunt potrivnicii și dușmanii Lui; răzbunare deplină va lua asupra lor, până ce Își va potoli mânia și Se va mângâia."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Avir” — cu sensul de tărie, ca în „prin mâinile Puternicului lui Iacov” (Geneza 49:24)."
+     }
+    ]
+   },
+   {
+    "v": "1:25",
+    "t": "Îmi voi întoarce mâna împotriva ta și îți voi curăța zgura așa cum o curăță leșia, și îți voi îndepărta toate necurățeniile.",
+    "heb": "וְאָשִׁיבָה יָדִי עָלַיִךְ וְאֶצְרֹף כַּבֹּר סִיגָיִךְ וְאָסִירָה כָּל־בְּדִילָיִךְ׃",
+    "translit": "Veașiva iadi alaih veețrof kabor sigaih veasira kol-bedilaih.",
+    "tokens": [
+     {
+      "t": "Îmi voi întoarce mâna împotriva ta și îți voi curăța zgura așa cum o curăță "
+     },
+     {
+      "t": "leșia",
+      "w": "leșia",
+      "heb": "כַּבֹּר",
+      "translit": "kabor",
+      "strong": "H1253",
+      "pos": "prepoziție + substantiv, masculin singular",
+      "def_ro": "ca leșia, ca săpunul din cenușă vegetală.",
+      "dict_ro": "Bor — „leșia”, săpunul făcut din cenușa unor plante, cu care se curățau hainele; din aceeași rădăcină vine bar, „curat” (Rashi, ca în „cel cu inima curată”, Psalmii 24:4). Imaginea e a topitorului care curăță argintul de zgură și de cositorul amestecat în el, reluând „argintul tău s-a prefăcut în zgură” din versetul 22. Rashi și Radak: zgura și cositorul sunt cei răi amestecați printre cei drepți, pe care Dumnezeu îi va îndepărta lovitură după lovitură. Maleahi reia imaginea despre fiii lui Levi (Maleahi 3:3)."
+     },
+     {
+      "t": ", și îți voi îndepărta toate necurățeniile."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאָשִׁיבָה יָדִי עָלַיִךְ וְאֶצְרֹף...",
+      "translation": "„Îmi voi întoarce mâna împotriva ta...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπάξω τὴν χεῖρά μου ἐπὶ σὲ καὶ πυρώσω σε εἰς καθαρόν, τοὺς δὲ ἀπειθοῦντας ἀπολέσω καὶ ἀφελῶ πάντας ἀνόμους ἀπὸ σοῦ καὶ πάντας ὑπηφάνους ταπεινώσω.",
+      "greek": true,
+      "translation": "„Și Îmi voi aduce mâna asupra ta și te voi arde până la curăție; pe cei neascultători îi voi nimici și voi îndepărta de la tine pe toți nelegiuiții și pe toți trufașii îi voi smeri.”",
+      "note": "Divergență reală: Septuaginta explică imaginea topirii, vorbind direct despre nimicirea celor neascultători și smerirea celor trufași."
+     }
+    ],
+    "refs": [
+     "Maleahi 3:3",
+     "Zaharia 13:7-9",
+     "Isaia 4:4",
+     "Ieremia 6:29",
+     "Ieremia 9:7",
+     "Ezechiel 20:38"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Îmi voi întoarce mâna împotriva ta” — lovitură după lovitură, până ce vor fi nimiciți cu totul cei vinovați. „Ca leșia” — expresie pentru săpun; e un cuvânt de curăție, ca „cel curat (bar) cu inima” (Psalmii 24:4), căci curăță haina de pete. „Zgura” — cea pomenită mai sus: „argintul tău s-a prefăcut în zgură”; amestecul de argint cu aramă se numește zgură, iar aici e amestecul celor răi cu cei drepți: îi voi nimici pe cei vinovați, care sunt toți zgură. „Toate necurățeniile” — cositorul amestecat cu argintul, adică cei răi dintre voi."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Îmi voi întoarce” — ca să te lovesc cu lovitură după lovitură. „Îți voi curăța” — voi îndepărta de la tine zgura, cum se scot petele hainei cu leșie; adică voi nimici din mijlocul tău pe cei vinovați și pe cei răzvrătiți."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Îmi voi întoarce mâna” — iar și iar, până te voi curăța și vei rămâne curat, iar zgura și cositorul sunt cei răi. „Ca leșia” — ca lucrul care desparte argintul de zgură, ca să rămână curat; iar eu am auzit că bor e săpunul: cum scoate săpunul orice pată, așa voi scoate zgura și cositorul tău. Cositorul e amestecat în argint până îl curăță de el, iar pluralul cuprinde tot amestecul."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Veețrof” — cu sensul de curățire și rafinare. „Kabor” — ca borit, săpunul cu care se curăță hainele de pete. „Bedilaih” — un fel de metal, cositorul, ca în „și cositorul” (Numeri 31:22)."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 98a",
+      "text": "Rav Papa a spus: dacă vor înceta cei trufași, vor înceta și vrăjitorii perși, căci e scris: „îți voi curăța zgura așa cum o curăță leșia și îți voi îndepărta toate necurățeniile”; iar dacă vor înceta judecătorii nedrepți, vor înceta și dregătorii asupritori, căci e scris: „DOMNUL a îndepărtat judecățile tale, a alungat pe vrăjmașul tău” (Țefania 3:15)."
+     }
+    ]
+   },
+   {
+    "v": "1:26",
+    "t": "Apoi îi voi aduce înapoi pe judecătorii tăi cum erau odinioară, și pe sfetnicii tăi ca la început, și atunci te vei numi Orașul Dreptății, Cetate Credincioasă.",
+    "heb": "וְאָשִׁיבָה שֹׁפְטַיִךְ כְּבָרִאשֹׁנָה וְיֹעֲצַיִךְ כְּבַתְּחִלָּה אַחֲרֵי־כֵן יִקָּרֵא לָךְ עִיר הַצֶּדֶק קִרְיָה נֶאֱמָנָה׃",
+    "translit": "Veașiva șoftaih kevarișona veioațaih kevatehila aharei-hen ikare lah ir hațedek kiria neemana.",
+    "tokens": [
+     {
+      "t": "Apoi îi voi aduce înapoi pe judecătorii tăi cum erau odinioară, și pe sfetnicii tăi ca la început, și atunci te vei numi Orașul Dreptății, "
+     },
+     {
+      "t": "Cetate Credincioasă",
+      "w": "Cetate Credincioasă",
+      "heb": "קִרְיָה נֶאֱמָנָה",
+      "translit": "kiria neemana",
+      "strong": "H539",
+      "pos": "substantiv, feminin singular + verb, participiu nifal, feminin singular",
+      "def_ro": "cetate credincioasă, cetate statornică.",
+      "dict_ro": "Neemana — „credincioasă, statornică”, participiul verbului aman, din aceeași rădăcină cu emuna, „credință”, și amen. Haftara se închide în cerc: cetatea care „a devenit ca o prostituată” (1:21) va fi numită din nou „Cetate Credincioasă” și „Orașul Dreptății”. Radak: aceasta va fi în zilele lui Mesia, când cei răi vor pieri, iar rămășița lui Israel „nu va mai face nedreptate” (Țefania 3:13). Versetul intră și în rugăciunea zilnică Amida: „adu înapoi judecătorii noștri ca odinioară și sfetnicii noștri ca la început”."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאָשִׁיבָה שֹׁפְטַיִךְ כְּבָרִאשֹׁנָה וְיֹעֲצַיִךְ...",
+      "translation": "„Apoi îi voi aduce înapoi pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπιστήσω τοὺς κριτάς σου ὡς τὸ πρότερον καὶ τοὺς συμβούλους σου ὡς τὸ ἀπ᾿ ἀρχῆς· καὶ μετὰ ταῦτα κληθήσῃ πόλις δικαιοσύνης, μητρόπολις πιστὴ Σιών.",
+      "greek": true,
+      "translation": "„Și voi pune pe judecătorii tăi ca mai înainte și pe sfetnicii tăi ca de la început; și după aceasta te vei numi cetatea dreptății, metropolă credincioasă, Sionul.”",
+      "note": "Septuaginta adaugă numele „Sion” și numește cetatea „metropolă” (μητρόπολις)."
+     }
+    ],
+    "refs": [
+     "Isaia 32:1,2",
+     "Isaia 60:17,18",
+     "Ieremia 33:7,15-17",
+     "Ieremia 31:23",
+     "Zaharia 8:8"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cum erau odinioară” — voi pune peste tine judecători evlavioși. „Orașul Dreptății” — ca la început, dreptatea va locui în el."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Îi voi aduce înapoi” — voi pune peste tine judecători vrednici și drepți, cum a fost odinioară."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Îi voi aduce înapoi pe judecătorii tăi cum erau odinioară” — cum a spus „plin de justiție”; aceasta va fi în zilele lui Mesia, când vor pieri toți cei răi, iar rămășița lui Israel nu va mai face nedreptate și nu va mai spune minciuni."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 98a",
+      "text": "Rabi Simlai a spus în numele lui rabi Elazar, fiul lui rabi Șimon: Fiul lui David nu va veni până nu vor înceta din Israel toți judecătorii și dregătorii, căci s-a spus: „Îmi voi întoarce mâna împotriva ta și îți voi curăța zgura așa cum o curăță leșia... și îi voi aduce înapoi pe judecătorii tăi cum erau odinioară” (Isaia 1:25-26)."
+     }
+    ]
+   },
+   {
+    "v": "1:27",
+    "t": "Ționul va fi răscumpărat prin judecată și captivii săi prin dreptate.",
+    "heb": "צִיּוֹן בְּמִשְׁפָּט תִּפָּדֶה וְשָׁבֶיהָ בִּצְדָקָה׃",
+    "translit": "Țion bemișpat tipade veșaveha bițdaka.",
+    "tokens": [
+     {
+      "t": "Ționul va fi "
+     },
+     {
+      "t": "răscumpărat",
+      "w": "răscumpărat",
+      "heb": "תִּפָּדֶה",
+      "translit": "tipade",
+      "strong": "H6299",
+      "pos": "verb, imperfect nifal, persoana a III-a feminin singular",
+      "def_ro": "va fi răscumpărat(ă), va fi izbăvit(ă).",
+      "dict_ro": "Pada — „a răscumpăra”, de la plata prin care se elibera un rob sau un întâi-născut (Exod 13:13); același verb descrie izbăvirea din Egipt (Deuteronom 7:8). Haftara se încheie cu nădejde: Sionul va fi răscumpărat „prin judecată”, iar cei care se întorc la el „prin dreptate” (bițdaka). Metzudat David și Radak citesc „șaveha” atât ca „captivii ei”, cât și ca „cei ce se întorc”: întoarcerea din exil va fi prin dreptatea pe care o vor face. Talmudul învață de aici: „Ierusalimul nu va fi răscumpărat decât prin țedaka”, adică prin milostenie și dreptate (Șabat 139a; Sanhedrin 98a)."
+     },
+     {
+      "t": " prin judecată și captivii săi prin dreptate."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "צִיּוֹן בְּמִשְׁפָּט תִּפָּדֶה וְשָׁבֶיהָ...",
+      "translation": "„Ționul va fi răscumpărat prin judecată...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "μετὰ γὰρ κρίματος σωθήσεται ἡ αἰχμαλωσία αὐτῆς καὶ μετὰ ἐλεημοσύνης.",
+      "greek": true,
+      "translation": "„Căci cu judecată va fi mântuită robia ei și cu milostenie.”",
+      "note": "Septuaginta redă țedaka prin „milostenie” (ἐλεημοσύνη), sens pe care îl are cuvântul și în ebraica rabinică."
+     }
+    ],
+    "refs": [
+     "Isaia 5:16",
+     "Isaia 45:21-25",
+     "Romani 11:26,27",
+     "1 Petru 1:18,19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Va fi răscumpărat prin judecată” — pentru că vor fi în el oameni care fac judecată; va fi răscumpărat din fărădelegile lui. „Și captivii săi” — cei care se pocăiesc dintre ei, prin dreptate: prin cei care fac dreptate în mijlocul lui."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Prin judecată” — prin judecata care se va face în el va fi răscumpărat. „Și captivii săi” — întoarcerea din exil va fi prin dreptatea pe care o vor face."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ționul” — prin judecata pe care o va face Israel va fi răscumpărat, adică vor fi răscumpărați și se vor întoarce la el; iar prin dreptatea pe care o vor face se vor întoarce la el cei exilați: acesta e sensul lui „și captivii săi prin dreptate”."
+     },
+     {
+      "author": "Talmud Bavli, Șabat 139a",
+      "text": "Ulla a spus: Ierusalimul nu va fi răscumpărat decât prin țedaka, căci s-a spus: „Ționul va fi răscumpărat prin judecată și captivii săi prin dreptate”."
      }
     ]
    }
