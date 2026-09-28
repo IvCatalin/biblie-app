@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "56 capitole · 1281 versete",
+ "meta": "57 capitole · 1332 versete",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -92640,6 +92640,3085 @@
      {
       "author": "Radak (1160–1235)",
       "text": "Radak: „Dă-i adevăr lui Iacov” — bunătatea e a lui Avraam, căruia i-a dat în bunătatea Lui țara, lui și fiilor lui după el, iar fiii lui sunt fiii lui Iacov; iar adevărul e al lui Iacov, căci, după ce a dat-o lui Avraam și fiilor lui, adevărul e să împlinească darul pentru fiii lui, căci El e Dumnezeul adevărului și nu-Și întoarce înapoi cuvântul cel bun. „Precum ai jurat strămoșilor noștri” — i-a cuprins pe cei trei patriarhi, Avraam, Isaac și Iacov, căci tuturor celor trei le-a jurat."
+     }
+    ]
+   }
+  ]
+ },
+  {
+  "num": 57,
+  "title": "Haftarat Haazinu",
+  "ref": "2 Samuel 22:1-51",
+  "intro": "Haftarat Haazinu este cântarea lui David, rostită „în ziua în care DOMNUL l-a scăpat din mâna tuturor dușmanilor săi și din mâna lui Șaul”. Se citește în Sabatul de după Iom Kipur; când pericopa Haazinu cade în Sabatul Șuva, dintre Roș Hașana și Iom Kipur, se citește în locul ei Haftarat Vaieleh. Legătura cu pericopa e evidentă: amândouă sunt cântări mari, rostite spre sfârșitul vieții, de Moise și de David, iar amândouă Îl numesc pe Dumnezeu „Stânca”. Cântarea începe cu o înșiruire de nume ale lui Dumnezeu – Stânca, Fortăreața, Pavăza, Cornul salvării –, descrie apoi salvarea din „durerile morții” printr-o arătare a lui Dumnezeu în cutremur, foc, nori și fulgere, și continuă cu mărturisirea nevinovăției lui David și cu principiul „cu cel pios Te porți cu pioșenie, iar cu cel strâmb Te porți potrivnic”. Se încheie cu biruința asupra dușmanilor și cu mulțumirea adusă „între neamuri” Celui care face bine „unsului Său, lui David și seminției lui, în veci”. Aceeași cântare apare, cu mici diferențe, ca Psalmul 18, iar Talmudul rânduiește să fie citită și ca haftara în ultima zi de Pesah.",
+  "verses": [
+   {
+    "v": "22:1",
+    "t": "David I-a vorbit DOMNULUI cuvintele acestei cântări în ziua în care DOMNUL l-a scăpat din mâna tuturor dușmanilor săi și din mâna lui Șaul.",
+    "heb": "וַיְדַבֵּר דָּוִד לַיהוָה אֶת־דִּבְרֵי הַשִּׁירָה הַזֹּאת בְּיוֹם הִצִּיל יְהוָה אֹתוֹ מִכַּף כָּל־אֹיְבָיו וּמִכַּף שָׁאוּל׃",
+    "translit": "Vaidaber David l'ADONAI et-divrei hașira hazot beiom hițil ADONAI oto mikaf kol-oivav umikaf Șaul.",
+    "tokens": [
+     {
+      "t": "David I-a vorbit DOMNULUI cuvintele acestei "
+     },
+     {
+      "t": "cântări",
+      "w": "cântări",
+      "heb": "הַשִּׁירָה",
+      "translit": "hașira",
+      "strong": "H7892",
+      "pos": "articol + substantiv, feminin singular",
+      "def_ro": "cântare, cântec.",
+      "dict_ro": "Șira — „cântarea”, cuvântul folosit pentru marile cântări de mulțumire ale Scripturii: cântarea de la Marea Roșie (Exod 15:1), cântarea lui Moise din pericopa Haazinu (Deuteronom 31:30) și cântarea Deborei (Judecători 5:1). De aici legătura cu pericopa Haazinu: amândouă sunt cântări rostite la sfârșitul vieții, de Moise și de David. Cântarea apare a doua oară, cu mici diferențe de cuvinte, ca Psalmul 18 (Radak). Talmudul o numește „primele cuvinte” ale lui David, față de „ultimele cuvinte” din capitolul următor (Moed Katan 16b), și rânduiește ca ea să fie citită ca haftara în ultima zi de Pesah, după cântarea de la Mare (Meghila 31a)."
+     },
+     {
+      "t": " în ziua în care DOMNUL l-a scăpat din mâna tuturor dușmanilor săi și din mâna lui Șaul."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיְדַבֵּר דָּוִד לַיהוָה אֶת־דִּבְרֵי...",
+      "translation": "„David I-a vorbit DOMNULUI cuvintele acestei...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΚΑΙ ἐλάλησε Δαυὶδ τῷ Κυρίῳ τοὺς λόγους τῆς ᾠδῆς ταύτης ἐν ᾗ ἡμέρᾳ ἐξείλετο αὐτὸν Κύριος ἐκ χειρὸς πάντων τῶν ἐχθρῶν αὐτοῦ καὶ ἐκ χειρὸς Σαούλ",
+      "greek": true,
+      "translation": "„Și a grăit David Domnului cuvintele cântării acesteia în ziua în care l-a scos Domnul din mâna tuturor vrăjmașilor lui și din mâna lui Saul.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:1",
+     "Exod 15:1",
+     "Judecători 5:1",
+     "Psalmii 116:1-19",
+     "1 Samuel 23:14",
+     "1 Samuel 26:24"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „În ziua în care DOMNUL l-a scăpat” — la bătrânețea lui, după ce trecuseră toate necazurile lui și scăpase din toate. „Și din mâna lui Șaul” — oare nu era Șaul cuprins între toți dușmanii? Dar el era cel mai mare dușman și urmăritor al lui; tot așa: „nouăsprezece oameni și Asael” (2 Samuel 2:30) și „iscodiți țara și Ierihonul” (Iosua 2:1)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„În ziua în care [DOMNUL] l-a scăpat” — adică la bătrânețea lui, când scăpase din toate necazurile, iar slujitorii lui l-au oprit să mai coboare la război, cum e scris mai sus; atunci a rostit cântarea aceasta. Sau: în orice vreme când îi venea un necaz și scăpa din el, atunci cânta cântarea aceasta."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „David I-a vorbit DOMNULUI” — cântarea aceasta a alcătuit-o David la sfârșitul zilelor lui, când DOMNUL i-a dat odihnă de toți dușmanii lui; și a spus „și din mâna lui Șaul”, pentru că el cântărea cât toți dușmanii lui. Cântarea aceasta e scrisă și în cartea Psalmilor, cu cuvinte schimbate în unele locuri, dar înțelesul e același; iar Ionatan traduce cântarea despre salvarea lui Israel de dușmanii lor, și pomenește și de Faraon la versetul „fum s-a ridicat din nările Sale”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mikaf” — din mâna."
+     },
+     {
+      "author": "Talmud Bavli, Meghila 31a",
+      "text": "În ultima zi de sărbătoare a Paștelui se citește [pericopa] „Și când Faraon a lăsat” și se citește ca haftara „David I-a vorbit”."
+     },
+     {
+      "author": "Talmud Bavli, Moed Katan 16b",
+      "text": "[Versetul spune] „ultimele [cuvinte ale lui David]” — de aici reiese că există și primele; care sunt cele dintâi? „David I-a vorbit DOMNULUI cuvintele acestei cântări în ziua în care DOMNUL l-a scăpat din mâna tuturor dușmanilor săi și din mâna lui Șaul”."
+     }
+    ]
+   },
+   {
+    "v": "22:2",
+    "t": "Și a spus: „DOMNUL este Stânca mea, Fortăreața mea și Salvatorul meu.",
+    "heb": "וַיֹּאמַר יְהוָה סַלְעִי וּמְצֻדָתִי וּמְפַלְּטִי־לִי׃",
+    "translit": "Vaiomar ADONAI sali umețudati umefalti-li.",
+    "tokens": [
+     {
+      "t": "Și a spus: „DOMNUL este "
+     },
+     {
+      "t": "Stânca mea",
+      "w": "Stânca mea",
+      "heb": "סַלְעִי",
+      "translit": "salii",
+      "strong": "H5553",
+      "pos": "substantiv, masculin singular, cu sufix persoana I singular",
+      "def_ro": "stânca mea, cetatea mea de stâncă.",
+      "dict_ro": "Sela — „stânca”, piatra înaltă și crăpată a munților, loc natural de refugiu. Rashi leagă cuvintele de două întâmplări din viața lui David: „stânca despărțirii” (Sela Hamahlekot), unde Șaul, aproape să-l prindă, a fost chemat înapoi de vestea că filistenii au năvălit (1 Samuel 23:28), și fortărețele din pădure unde se ascundea (1 Samuel 23:19). Cântarea deschide o înșiruire de nume ale lui Dumnezeu luate din lumea refugiului și a războiului: stâncă, fortăreață, pavăză, corn, turn înalt."
+     },
+     {
+      "t": ", Fortăreața mea și Salvatorul meu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּאמַר יְהוָה סַלְעִי וּמְצֻדָתִי...",
+      "translation": "„Și a spus: „DOMNUL este Stânca...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ εἶπεν· Κύριε, πέτρα μου καὶ ὀχύρωμά μου καὶ ἐξαιρούμενός με ἐμοί",
+      "greek": true,
+      "translation": "„Și a zis: Doamne, piatra mea și întăritura mea și Cel ce mă scoate pe mine.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:2-50",
+     "Deuteronom 32:4",
+     "1 Samuel 2:2",
+     "Psalmii 31:3",
+     "Psalmii 91:2",
+     "Psalmii 144:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Stânca mea, Fortăreața mea” — sunt cuvinte de tărie; „stâncă” e limpede, iar „fortăreață” e fortăreața din păduri. E și o aluzie la minunea care s-a făcut la stânca despărțirii (1 Samuel 23:28) și în fortărețele pădurii (1 Samuel 23:19). „Salvatorul meu” — m-a salvat când eram cu oștirea lui Israel la război, iar alte dăți m-a salvat când eram singur, de pildă de Ișbi-Benov."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„DOMNUL este Stânca mea” — DOMNUL e adăpostul meu, ca o zidire de stâncă și ca o fortăreață."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Stânca mea, Fortăreața mea” — în care eram ocrotit, înălțat deasupra dușmanilor mei. „Salvatorul meu” (mefalti li) — „mie” adăugat după sufixul „meu” e o lămurire suplimentară, căci ar fi ajuns unul dintre ele."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Umețudati” — fortăreață tare. „Umefalti” — salvatorul meu; iar „mie” e spus ca lămurire în plus."
+     }
+    ]
+   },
+   {
+    "v": "22:3",
+    "t": "Dumnezeu, Stânca mea, în El îmi găsesc refugiul, Pavăza mea și Cornul Salvării mele, Fortăreața mea și Refugiul meu, Salvatorul meu, care mă salvează de violență.",
+    "heb": "אֱלֹהֵי צוּרִי אֶחֱסֶה־בּוֹ מָגִנִּי וְקֶרֶן יִשְׁעִי מִשְׂגַּבִּי וּמְנוּסִי מֹשִׁעִי מֵחָמָס תֹּשִׁעֵנִי׃",
+    "translit": "Elohei țuri ehese-bo magni vekerén iși misgabi umenusi moșii mehamas toșieni.",
+    "tokens": [
+     {
+      "t": "Dumnezeu, Stânca mea, în El îmi găsesc refugiul, Pavăza mea și "
+     },
+     {
+      "t": "Cornul Salvării mele",
+      "w": "Cornul Salvării mele",
+      "heb": "וְקֶרֶן יִשְׁעִי",
+      "translit": "vekeren ișii",
+      "strong": "H7161",
+      "pos": "conjuncție + substantiv, în construcție + substantiv cu sufix",
+      "def_ro": "cornul mântuirii mele, puterea care mă salvează.",
+      "dict_ro": "Keren — „cornul”; pentru că taurul, berbecul și bivolul își au puterea în coarne, Scriptura numește puterea „corn” (Radak; Metzudat David: El îmi e spre mântuire și ajutor, cum e cornul pentru cel care are coarne). Ana spusese în cântarea ei: „cornul meu s-a înălțat prin DOMNUL” (1 Samuel 2:1), iar la sfârșitul ei: „va înălța cornul unsului Său” (1 Samuel 2:10). Expresia „cornul mântuirii” e reluată în cântarea lui Zaharia din Luca 1:69."
+     },
+     {
+      "t": ", Fortăreața mea și Refugiul meu, Salvatorul meu, care mă salvează de violență."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אֱלֹהֵי צוּרִי אֶחֱסֶה־בּוֹ מָגִנִּי...",
+      "translation": "„Dumnezeu, Stânca mea, în El îmi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὁ Θεός μου φύλαξ μου ἔσται μοι, πεποιθὼς ἔσομαι ἐπ’ αὐτῷ, ὑπερασπιστής μου καὶ κέρας σωτηρίας μου, ἀντιλήπτωρ μου καὶ καταφυγή μου σωτηρίας μου, ἐξ ἀδίκου σώσεις με.",
+      "greek": true,
+      "translation": "„Dumnezeul meu va fi păzitorul meu, în El voi nădăjdui; apărătorul meu și cornul mântuirii mele, sprijinul meu și scăparea mea, mântuirea mea; de cel nedrept mă vei mântui.”",
+      "note": "Septuaginta are „păzitorul meu” (φύλαξ) în loc de „Stânca mea”."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:2",
+     "Geneza 15:1",
+     "Psalmii 3:3",
+     "1 Samuel 2:1",
+     "Luca 1:69",
+     "Proverbe 18:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Stânca mea” — expresie de stâncă, căci stânca îi apără pe trecători de ploaie și de vânturi. „Îmi găsesc refugiul” — expresie de acoperire, adică am putut fi acoperit și ocrotit. „Fortăreața mea” — m-a sprijinit. „Refugiul meu” — alergam la El ca să fiu ocrotit."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Stânca mea” — DOMNUL e tăria mea, în care îmi găsesc refugiul. „Și Cornul Salvării mele” — El îmi e spre mântuire și ajutor, ca și cornul pentru cel ce are coarne. „Și Refugiul meu” — la El fug de frica dușmanului. „De violență” — de oamenii violenței."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și Cornul Salvării mele” — felul Scripturii e să numească tăria „corn”, ca în „coarnele lui sunt coarne de bivol”, pentru că berbecul, taurul și bivolul își au tăria și puterea în coarne, cu care împung. „De violență” — de oamenii violenței, cum traduce Ionatan: „și din mâna tuturor răpitorilor și asupritorilor m-a scăpat”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Țuri” — de la „stâncă și piatră”; și și-a repetat cuvintele în alți termeni, după felul cântării. „Umenusi” — de la „fugă și scăpare”. „Mehamas” — cu sensul de jaf."
+     }
+    ]
+   },
+   {
+    "v": "22:4",
+    "t": "Cu laude strig către DOMNUL și sunt salvat de dușmanii mei.",
+    "heb": "מְהֻלָּל אֶקְרָא יְהוָה וּמֵאֹיְבַי אִוָּשֵׁעַ׃",
+    "translit": "Mehulal ekra ADONAI umeoivai ivașea.",
+    "tokens": [
+     {
+      "t": "Cu laude",
+      "w": "Cu laude",
+      "heb": "מְהֻלָּל",
+      "translit": "mehulal",
+      "strong": "H1984",
+      "pos": "verb, participiu pual, masculin singular",
+      "def_ro": "cel lăudat, vrednic de laudă.",
+      "dict_ro": "Halal — „a lăuda”, verbul din care vin haleluia („lăudați-L pe DOMNUL”) și Halel, psalmii de laudă rostiți la sărbători. Mehulal înseamnă „cel lăudat, vrednic de laudă”; Rashi, după Targum: când Îl chemam, Îl lăudam, pentru că eram încrezător că voi fi salvat. Metzudat David și Radak: încă de când strig la DOMNUL cu laudă, sunt salvat. Ideea că lauda vine înaintea salvării e un tipar al Psalmilor: „L-am chemat pe DOMNUL în strâmtoarea mea și El m-a ascultat”."
+     },
+     {
+      "t": " strig către DOMNUL și sunt salvat de dușmanii mei."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מְהֻלָּל אֶקְרָא יְהוָה וּמֵאֹיְבַי...",
+      "translation": "„Cu laude strig către DOMNUL și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "αἰνετὸν ἐπικαλέσομαι Κύριον καὶ ἐκ τῶν ἐχθρῶν μου σωθήσομαι.",
+      "greek": true,
+      "translation": "„Pe Cel vrednic de laudă Îl voi chema, pe Domnul, și de vrăjmașii mei voi fi mântuit.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:3",
+     "Psalmii 116:2,4,13,17",
+     "Psalmii 106:2",
+     "Psalmii 34:6",
+     "Psalmii 50:15",
+     "Romani 10:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cu laude strig către DOMNUL” — cum traduce [Ionatan]: când L-am chemat, L-am lăudat, căci eram încrezător că voi fi salvat de dușmanii mei. Și se poate explica „strig” și „sunt salvat” ca timp prezent."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cu laude” — când strig către DOMNUL cu laudă, atunci sunt salvat."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cu laude strig către DOMNUL” — când mă rog și Îl chem pe DOMNUL, Cel lăudat, lăudându-L în laudele mele, atunci sunt salvat de dușmanii mei."
+     }
+    ]
+   },
+   {
+    "v": "22:5",
+    "t": "Căci durerile morții m-au împresurat și șuvoaiele nelegiuirii m-au îngrozit.",
+    "heb": "כִּי אֲפָפֻנִי מִשְׁבְּרֵי־מָוֶת נַחֲלֵי בְלִיַּעַל יְבַעֲתֻנִי׃",
+    "translit": "Ki afafuni mișberei-mavet nahalei veliaal ievaatuni.",
+    "tokens": [
+     {
+      "t": "Căci durerile morții m-au împresurat și "
+     },
+     {
+      "t": "șuvoaiele nelegiuirii",
+      "w": "șuvoaiele nelegiuirii",
+      "heb": "נַחֲלֵי בְלִיַּעַל",
+      "translit": "nahalei veliaal",
+      "strong": "H1100",
+      "pos": "substantiv, în construcție + substantiv, masculin singular",
+      "def_ro": "șuvoaiele nimicniciei, ale celor fără de lege.",
+      "dict_ro": "Beliaal — „fără folos, nimicnicie, răutate”, un cuvânt compus probabil din beli, „fără”, și iaal, „folos”; „fiii lui Beliaal” sunt oamenii fără lege (1 Samuel 2:12). Radak explică imaginea: necazul mare e ca un pârâu care vine năvalnic, iar Beliaal îi desemnează pe dușmanii răi; se poate citi și nahalei de la „boală”. Mai târziu, Beliaal a devenit nume pentru cel rău, ca în 2 Corinteni 6:15."
+     },
+     {
+      "t": " m-au îngrozit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי אֲפָפֻנִי מִשְׁבְּרֵי־מָוֶת נַחֲלֵי...",
+      "translation": "„Căci durerile morții m-au împresurat și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι περιέσχον με συντριμμοὶ θανάτου, χείμαρροι ἀνομίας ἐθάμβησάν με·",
+      "greek": true,
+      "translation": "„Căci m-au cuprins sfărâmările morții, șuvoaiele fărădelegii m-au spăimântat.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:4",
+     "Psalmii 69:14,15",
+     "Psalmii 93:3,4",
+     "Isaia 59:19",
+     "Apocalipsa 12:15,16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „M-au împresurat” — m-au înconjurat. „Durerile morții” — cum traduce [Ionatan]: „ca o femeie care șade pe scaunul nașterii”, acesta e numele scaunului de piatră pe care nasc femeile (mașber). „Șuvoaiele” — ostași care se revarsă ca un pârâu."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Căci [durerile morții] m-au împresurat” — când m-au înconjurat valurile morții, adică durerile morții, și când bolile venite de la oamenii nelegiuiți m-au îngrozit și m-au înspăimântat."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Durerile morții” (mișberei mavet) — sunt necazurile tari, în care era aproape de moarte, ca la stânca despărțirii; necazurile frâng inima omului prin suspinele și grijile lui; sau e o pildă, ca și cum ar spune „valurile morții”, căci valurile tari se numesc mișbarim, pentru că se sparg în mișcarea lor puternică. Ionatan a explicat că era în necaz ca o femeie care șade pe scaunul nașterii și e în primejdie de moarte. „Șuvoaiele nelegiuirii m-au îngrozit” — o pildă: ca pârâul care curge năvalnic, așa e necazul cel mare; iar nelegiuirea (beliaal) o spune despre fiecare dintre dușmanii lui cei răi."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Afafuni” — m-au înconjurat, ca în „căci m-au împresurat [rele]” (Psalmii 40:12). „Mișberei” — de la „frângere”. „Nahalei” — de la „boală”, ca în „rana ta e fără leac” (Naum 3:19). „Ievatuni” — de la „groază și spaimă”."
+     }
+    ]
+   },
+   {
+    "v": "22:6",
+    "t": "Durerile sălașului morților m-au împresurat, m-au prins lațurile morții.",
+    "heb": "חֶבְלֵי שְׁאוֹל סַבֻּנִי קִדְּמֻנִי מֹקְשֵׁי־מָוֶת׃",
+    "translit": "Hevlei Șeol sabuni kidemuni mokșei-mavet.",
+    "tokens": [
+     {
+      "t": "Durerile "
+     },
+     {
+      "t": "sălașului morților",
+      "w": "sălașului morților",
+      "heb": "שְׁאוֹל",
+      "translit": "Șeol",
+      "strong": "H7585",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "Șeol, locuința morților.",
+      "dict_ro": "Șeol — locuința morților, adâncul în care coboară toți, cum spune Iacov: „cu durere mă voi coborî la fiul meu în Șeol” (Geneza 37:35). „Durerile Șeolului” (hevlei Șeol) sunt, după Metzudat Țion și Radak, dureri ca ale nașterii (Osea 13:13), iar Targumul citește hevel ca „ceată” de răi, ca în „o ceată de profeți” (1 Samuel 10:5; Rashi). Cuvântul hevel înseamnă și „frânghie”, de unde paralela cu „lațurile morții”; Petru citează imaginea despre învierea lui Iisus: „Dumnezeu L-a înviat, dezlegându-L din durerile morții” (Faptele apostolilor 2:24)."
+     },
+     {
+      "t": " m-au împresurat, m-au prins lațurile morții."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חֶבְלֵי שְׁאוֹל סַבֻּנִי קִדְּמֻנִי...",
+      "translation": "„Durerile sălașului morților m-au împresurat, m-au...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὠδῖνες θανάτου ἐκύκλωσάν με, προέφθασάν με σκληρότητες θανάτου.",
+      "greek": true,
+      "translation": "„Durerile morții m-au înconjurat, m-au întâmpinat asprimile morții.”",
+      "note": "Septuaginta are „durerile morții” în loc de „durerile Șeolului”."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:5",
+     "Psalmii 116:3",
+     "Iona 2:2",
+     "Faptele apostolilor 2:24",
+     "Proverbe 13:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Durerile” (hevlei) — cum traduce [Ionatan]: „cete”, ca în „o ceată (hevel) de profeți” (1 Samuel 10:5). „M-au prins” — au venit înaintea mea."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Durerile” — și când m-au înconjurat durerile Șeolului, și au venit înaintea mea capcanele care aduc moartea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Durerile sălașului morților” — cu sensul de durere, de la „durerile celei care naște”; iar Ionatan a tradus „ceata celor răi”, ca în „o ceată de profeți”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hevlei” — durerile mele, ca în „durerile celei ce naște” (Osea 13:13). „Kidemuni” — au venit înaintea mea, ca în „cu ce mă voi înfățișa înaintea DOMNULUI?” (Mica 6:6)."
+     }
+    ]
+   },
+   {
+    "v": "22:7",
+    "t": "În necazul meu voi striga către DOMNUL, și către Dumnezeul meu voi striga. Din sălașul Său îmi va auzi glasul, strigătul meu în urechile Lui.",
+    "heb": "בַּצַּר־לִי אֶקְרָא יְהוָה וְאֶל־אֱלֹהַי אֶקְרָא וַיִּשְׁמַע מֵהֵיכָלוֹ קוֹלִי וְשַׁוְעָתִי בְּאָזְנָיו׃",
+    "translit": "Bațar-li ekra ADONAI veel-Elohai ekra vaișma meheikhalo koli veșavati beoznav.",
+    "tokens": [
+     {
+      "t": "În necazul meu voi striga către DOMNUL, și către Dumnezeul meu voi striga. Din sălașul Său îmi va auzi glasul, "
+     },
+     {
+      "t": "strigătul meu",
+      "w": "strigătul meu",
+      "heb": "וְשַׁוְעָתִי",
+      "translit": "veșavati",
+      "strong": "H7775",
+      "pos": "conjuncție + substantiv, feminin singular, cu sufix persoana I singular",
+      "def_ro": "strigătul meu după ajutor.",
+      "dict_ro": "Șava — „strigătul după ajutor”, ca strigătul fiilor lui Israel robiți în Egipt, care „s-a suit până la Dumnezeu” (Exod 2:23). „Sălașul Său” (heihalo) e aici palatul ceresc al lui Dumnezeu (Radak: „din ceruri”), pentru că Templul nu era încă zidit. Rashi observă amestecul timpurilor („voi striga... va auzi”), obișnuit în poezia ebraică pentru ceva care se repetă mereu. Metzudat David: când îmi era strâmt, am strigat, El mi-a auzit glasul, iar strigătul meu a ajuns la urechile Lui; e același lucru spus în alte cuvinte, după felul cântării."
+     },
+     {
+      "t": " în urechile Lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בַּצַּר־לִי אֶקְרָא יְהוָה וְאֶל־אֱלֹהַי...",
+      "translation": "„În necazul meu voi striga către...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐν τῷ θλίβεσθαί με ἐπικαλέσομαι τὸν Κύριον καὶ πρὸς τὸν Θεόν μου βοήσομαι· καὶ ἐπακούσεται ἐκ ναοῦ αὐτοῦ φωνῆς μου, καὶ ἡ κραυγή μου ἐν τοῖς ὠσὶν αὐτοῦ.",
+      "greek": true,
+      "translation": "„Când am fost strâmtorat, L-am chemat pe Domnul și către Dumnezeul meu am strigat; și a auzit din templul Lui glasul meu, și strigarea mea [a ajuns] la urechile Lui.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:6",
+     "Psalmii 120:1",
+     "Iona 2:4,7",
+     "Exod 3:7",
+     "Psalmii 34:6,15-17",
+     "Evrei 5:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „În necazul meu voi striga... îmi va auzi” — acesta e felul timpului prezent: folosește și trecutul, și viitorul deodată."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„În necazul meu” — când îmi era strâmt din pricina lucrurilor acestora, atunci am strigat către DOMNUL, iar El mi-a auzit glasul și strigătul meu I-a ajuns la urechi; lucrul e spus de două ori în cuvinte diferite, după felul cântării."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Din sălașul Său” — din ceruri. „Strigătul meu în urechile Lui” — a ajuns la urechile Lui; și tot așa e scris în Psalmi: „a ajuns la urechile Lui”."
+     }
+    ]
+   },
+   {
+    "v": "22:8",
+    "t": "Pământul s-a cutremurat și s-a zgâlțâit, temeliile cerurilor s-au zguduit, au tremurat când s-a aprins mânia Sa.",
+    "heb": "וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ מוֹסְדוֹת הַשָּׁמַיִם יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי־חָרָה לוֹ׃",
+    "translit": "Vaitgaaș vatiraș haareț mosdot hașamaim irgazu vaitgaașu ki-hara lo.",
+    "tokens": [
+     {
+      "t": "Pământul s-a cutremurat și s-a zgâlțâit, "
+     },
+     {
+      "t": "temeliile cerurilor",
+      "w": "temeliile cerurilor",
+      "heb": "מוֹסְדוֹת הַשָּׁמַיִם",
+      "translit": "mosdot hașamaim",
+      "strong": "H4146",
+      "pos": "substantiv, feminin plural, în construcție + articol + substantiv",
+      "def_ro": "temeliile cerurilor.",
+      "dict_ro": "Mosada — „temelia”, de la iasad, „a întemeia”. În Psalmul 18 paralel stă „temeliile munților”, iar aici „temeliile cerurilor”, ca și cum cerul ar sta pe stâlpi (Iov 26:11). Radak explică: tot tabloul, de la cutremur până la „El a trimis din înălțimi”, e o pildă pentru nimicirea dușmanilor lui Israel, pentru care se cutremură pământul și cerul. Metzudat David citește „temeliile cerurilor” ca pildă pentru căpeteniile Canaanului. Rashi: nu sunt minunile făcute lui David, ci cele făcute lui Israel, adică la ieșirea din Egipt și la Sinai (Exod 19:18)."
+     },
+     {
+      "t": " s-au zguduit, au tremurat când s-a aprins mânia Sa."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתִּגְעַשׁ וַתִּרְעַשׁ הָאָרֶץ מוֹסְדוֹת...",
+      "translation": "„Pământul s-a cutremurat și s-a zgâlțâit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐταράχθη καὶ ἐσείσθη ἡ γῆ, καὶ τὰ θεμέλια τοῦ οὐρανοῦ συνεταράχθησαν καὶ ἐσπαράχθησαν, ὅτι ἐθυμώθη Κύριος αὐτοῖς.",
+      "greek": true,
+      "translation": "„Și s-a tulburat și s-a cutremurat pământul, și temeliile cerului s-au tulburat și s-au zguduit, căci S-a mâniat Domnul pe ei.”",
+      "note": "Septuaginta are „căci S-a mâniat Domnul pe ei” în loc de „când s-a aprins mânia Sa”."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:7",
+     "Judecători 5:4",
+     "Psalmii 77:18",
+     "Habacuc 3:6-11",
+     "Iov 26:11",
+     "Naum 1:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Pământul s-a cutremurat și s-a zgâlțâit” — nu e vorba de minunile care i s-au făcut lui, ci de minunile făcute lui Israel, iar începutul versetului e legat de sfârșitul lui. „Când s-a aprins mânia Sa” — „când” e aici înțelesul lui ki: când S-a mâniat Dumnezeu pe potrivnicii lui, lumea s-a cutremurat și s-a zgâlțâit, iar stâlpii cerurilor au tremurat."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Pământul s-a cutremurat” — s-au clătinat și s-au mișcat dușmanii mei, locuitorii țării, de mulțimea fricii. „Temeliile cerurilor” — e o pildă pentru căpeteniile Canaanului. „Când s-a aprins mânia Sa” — când S-a mâniat ca să-Și ia răzbunarea de la ei."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „S-a cutremurat” — e scris ca în Psalmi și citit „s-a cutremurat”, iar înțelesul e același; și tot acest pasaj, până la „El a trimis din înălțimi”, e o aluzie la nimicirea și sfârșirea dușmanilor lui Israel, căci pentru ei e cutremurul pământului și al cerurilor, întunericul, negura, cărbunii, focul, săgețile și fulgerul, totul în chip de pildă; tot așa „El a aplecat cerurile și a coborât”, ca și cum ar fi coborât să-i nimicească în grabă; și „a încălecat pe un heruvim și a zburat” e o aluzie la iuțeala nimicirii dușmanilor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vaitgaaș” — cu sensul de clătinare și mișcare puternică, ca în „ca râurile ale căror ape se învolburează” (Ieremia 46:7). „Irgazu” — vor tremura."
+     }
+    ]
+   },
+   {
+    "v": "22:9",
+    "t": "Fum s-a ridicat din nările Sale și un foc mistuitor din gura Sa, cărbuni încinși ieșind de la El.",
+    "heb": "עָלָה עָשָׁן בְּאַפּוֹ וְאֵשׁ מִפִּיו תֹּאכֵל גֶּחָלִים בָּעֲרוּ מִמֶּנּוּ׃",
+    "translit": "Ala așan beapo veeș mipiv tohel ghehalim baaru mimenu.",
+    "tokens": [
+     {
+      "t": "Fum",
+      "w": "Fum",
+      "heb": "עָשָׁן",
+      "translit": "așan",
+      "strong": "H6227",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "fum.",
+      "dict_ro": "Așan — „fumul”, semnul prezenței lui Dumnezeu la Sinai, când „muntele Sinai era tot numai fum” (Exod 19:18). „Fum din nările Sale” e un antropomorfism: Rashi și Metzudat David explică faptul că la omul mânios pare că iese fum din nări, iar expresia ebraică pentru mânie, haron af, înseamnă literal „aprinderea nasului”. Radak: e o pildă pentru aprinderea mâniei Lui asupra dușmanilor, ca în „atunci se va aprinde mânia DOMNULUI” (Deuteronom 29:20)."
+     },
+     {
+      "t": " s-a ridicat din nările Sale și un foc mistuitor din gura Sa, cărbuni încinși ieșind de la El."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עָלָה עָשָׁן בְּאַפּוֹ וְאֵשׁ...",
+      "translation": "„Fum s-a ridicat din nările Sale...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀνέβη καπνὸς ἐν τῇ ὀργῇ αὐτοῦ, καὶ πῦρ ἐκ στόματος αὐτοῦ κατέδεται, ἄνθρακες ἐξεκαύθησαν ἀπ’ αὐτοῦ.",
+      "greek": true,
+      "translation": "„S-a suit fum în mânia Lui și foc din gura Lui va mistui; cărbuni s-au aprins de la El.”",
+      "note": "Septuaginta are „în mânia Lui” în loc de „din nările Sale”, cuvântul af însemnând și „nas”, și „mânie”."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:8,15",
+     "Exod 19:18",
+     "Exod 15:7,8",
+     "Deuteronom 32:22",
+     "Isaia 30:27,33",
+     "Evrei 12:29"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Fum s-a ridicat din nările Sale” — așa e felul omului mânios: fumul iese din nările lui, ca în „fum s-a ridicat din nările Mele” (Isaia 65:5). „Un foc mistuitor din gura Sa” — prin hotărârea rostită din gura Lui a ieșit foc și i-a mistuit pe cei răi."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Fum s-a ridicat din nările Sale” — e o expresie a mâniei; a spus-o în limbajul potrivit omului, căci prin aprinderea mâniei se vede ca un fum ieșind din nări, ca în „de ce fumegă mânia Ta?” (Psalmii 74:1). „Mistuitor” — pe cei care s-au ridicat împotriva mea. „De la El” — adică de la El au venit cărbunii și au ars ca să-i mistuie pe cei care mă urau."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Fum s-a ridicat” — pildă pentru aprinderea mâniei Lui asupra dușmanilor, ca în „atunci se va aprinde mânia DOMNULUI și gelozia Lui”. „Și un foc mistuitor din gura Sa” — un foc care a ieșit din gura Lui îi va mistui."
+     }
+    ]
+   },
+   {
+    "v": "22:10",
+    "t": "El a aplecat cerurile și a coborât, și negură deasă era sub picioarele Sale.",
+    "heb": "וַיֵּט שָׁמַיִם וַיֵּרַד וַעֲרָפֶל תַּחַת רַגְלָיו׃",
+    "translit": "Vaiet șamaim vaierad vaarafel tahat raglav.",
+    "tokens": [
+     {
+      "t": "El a aplecat cerurile și a coborât, și "
+     },
+     {
+      "t": "negură deasă",
+      "w": "negură deasă",
+      "heb": "וַעֲרָפֶל",
+      "translit": "vaarafel",
+      "strong": "H6205",
+      "pos": "conjuncție + substantiv, masculin singular",
+      "def_ro": "negură deasă, nor întunecos.",
+      "dict_ro": "Arafel — „negura groasă”, norul întunecos în care Se ascunde Dumnezeu, ca la Sinai, unde „Moise s-a apropiat de negura în care era Dumnezeu” (Exod 20:21), și ca la sfințirea Templului: „DOMNUL a spus că va locui în negură” (1 Împărați 8:12). Metzudat David: „a aplecat cerurile” e o pildă pentru grabă, ca și cum ar fi coborât cerurile spre pământ ca să ajungă mai repede la dușmani, iar negura de sub picioare arată că e gata să-i lovească în întuneric. Rashi o leagă de răzbunarea asupra Egiptului și a lui Faraon."
+     },
+     {
+      "t": " era sub picioarele Sale."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּט שָׁמַיִם וַיֵּרַד וַעֲרָפֶל...",
+      "translation": "„El a aplecat cerurile și a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔκλινεν οὐρανοὺς καὶ κατέβη, καὶ γνόφος ὑποκάτω τῶν ποδῶν αὐτοῦ.",
+      "greek": true,
+      "translation": "„Și a plecat cerurile și S-a coborât, și negură era sub picioarele Lui.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 144:5",
+     "Isaia 64:1-3",
+     "Exod 20:21",
+     "Deuteronom 4:11",
+     "1 Împărați 8:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „El a aplecat cerurile” — ca să Se răzbune pe dușmanii Lui, pe Egipt și pe Faraon."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„El a aplecat” — a aplecat cerurile în jos spre pământ și a coborât asupra lor, ca să Se apropie de dușmanii mei și să-i lovească; e o pildă, ca să spună că Se grăbea să le plătească. „Sub picioarele Sale” — ca să fie gata să le plătească, în întunericul negurii."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vaarafel” — ca un nor gros."
+     }
+    ]
+   },
+   {
+    "v": "22:11",
+    "t": "A încălecat pe un heruvim și a zburat, a plutit pe aripile vântului.",
+    "heb": "וַיִּרְכַּב עַל־כְּרוּב וַיָּעֹף וַיֵּרָא עַל־כַּנְפֵי־רוּחַ׃",
+    "translit": "Vairkav al-keruv vaiaof vaiera al-kanfei-ruah.",
+    "tokens": [
+     {
+      "t": "A încălecat pe "
+     },
+     {
+      "t": "un heruvim",
+      "w": "un heruvim",
+      "heb": "כְּרוּב",
+      "translit": "keruv",
+      "strong": "H3742",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "heruvim, ființă cerească înaripată.",
+      "dict_ro": "Keruv — „heruvimul”, ființa cerească înaripată care păzea drumul spre pomul vieții (Geneza 3:24) și ale cărei două chipuri de aur stăteau pe capacul chivotului (Exod 25:19), de unde titlul „DOMNUL care șade pe heruvimi” (1 Samuel 4:4). Talmudul explică numele, în numele lui rabi Abahu, prin aramaicul ke-ravia, „ca un copil”, căci în Babilon copilul se numea ravia (Hagiga 13b). În Psalmul 18 paralel e scris „a zburat iute” (vaiede, cu dalet), aici „S-a arătat” (vaiera, cu reș), iar Radak spune că înțelesul e apropiat. Imaginea exprimă iuțeala cu care vine ajutorul."
+     },
+     {
+      "t": " și a zburat, a plutit pe aripile vântului."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּרְכַּב עַל־כְּרוּב וַיָּעֹף וַיֵּרָא...",
+      "translation": "„A încălecat pe un heruvim și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐπεκάθισεν ἐπὶ Χερουβὶμ καὶ ἐπετάσθη καὶ ὤφθη ἐπὶ πτερύγων ἀνέμου.",
+      "greek": true,
+      "translation": "„Și S-a suit pe heruvimi și a zburat și S-a arătat pe aripile vântului.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:10",
+     "Geneza 3:24",
+     "Exod 25:19",
+     "1 Samuel 4:4",
+     "Ezechiel 10:2-14",
+     "Psalmii 104:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„A încălecat” — ca să vină. „A plutit” — S-a văzut venind pe aripile vântului; a asemănat suflarea vântului cu zborul păsării."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „A plutit” (vaiera) — iar în Psalmi e scris vaiede, cu dalet, ca în „cum zboară vulturul”, iar înțelesul e apropiat."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Keruv” — un înger; iar Înțelepții noștri au spus (Hagiga 13b) „ca un copil” (ke-ravia), care e traducerea [aramaică] a lui „tânăr”, căci au chip de om. „Vaiaof” — cu sensul de zbor."
+     }
+    ]
+   },
+   {
+    "v": "22:12",
+    "t": "Și-a făcut întunericul adăpost de jur împrejurul Său, grămezi de apă norii cerurilor.",
+    "heb": "וַיָּשֶׁת חֹשֶׁךְ סְבִיבֹתָיו סֻכּוֹת חַשְׁרַת־מַיִם עָבֵי שְׁחָקִים׃",
+    "translit": "Vaiashet hoșeh sevivotav sukot hașrat-maim avei șehakim.",
+    "tokens": [
+     {
+      "t": "Și-a făcut întunericul adăpost de jur împrejurul Său, "
+     },
+     {
+      "t": "grămezi de apă",
+      "w": "grămezi de apă",
+      "heb": "חַשְׁרַת־מַיִם",
+      "translit": "hașrat-maim",
+      "strong": "H2841",
+      "pos": "substantiv, în construcție + substantiv",
+      "def_ro": "strânsură de ape, nori grei de apă.",
+      "dict_ro": "Hașra — „strânsura, adunătura” de ape din nori; cuvântul apare doar aici. În Psalmul 18:11 paralel stă heșhat maim, „întunecimea apelor”. Rashi și Talmudul îl citesc de la cuvântul pentru „sită”: norii sunt găuriți ca o sită și stropesc apa pe pământ picătură cu picătură, fiecare picătură separată, încât „ziua ploii e mare cât ziua în care au fost create cerul și pământul” (Taanit 9b). Metzudat Țion și Radak îl leagă de hișurim, „spițele” care leagă roata (1 Împărați 7:33): norii legați strâns unul de altul."
+     },
+     {
+      "t": " norii cerurilor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּשֶׁת חֹשֶׁךְ סְבִיבֹתָיו סֻכּוֹת...",
+      "translation": "„Și-a făcut întunericul adăpost de jur...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔθετο σκότος ἀποκρυφὴν αὐτοῦ κύκλῳ αὐτοῦ, ἡ σκηνὴ αὐτοῦ σκότος ὑδάτων· ἐπάχυνεν ἐν νεφέλαις ἀέρος.",
+      "greek": true,
+      "translation": "„Și a pus întunericul ascunzătoarea Lui împrejurul Lui; cortul Lui, întunecimea apelor; S-a îngroșat în norii văzduhului.”",
+      "note": "Septuaginta are „întunecimea apelor”, ca Psalmul 18:11, în loc de „grămezi de apă”."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:11,12",
+     "Psalmii 27:5",
+     "Psalmii 97:2",
+     "2 Samuel 22:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și-a făcut întunericul adăpost” — spre acoperire, cum s-a spus: „stâlpul de nor și întunericul despărțeau Egiptul de Israel” (Exod 14:20). „Grămezi de apă, norii cerurilor” — de unde a venit întunericul? Din norii groși, care stropesc apă pe pământ. „Grămezi” (hașrat) — o expresie de sită: [apa] cade pe pământ în picături mici; așa se folosește în multe locuri în Agada. Alții explică hașrat ca expresie de legare: cerurile s-au legat de nori din pricina apei, ca spițele (hișurim) roților carului (1 Împărați 7:33)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și-a făcut întunericul” — a pus întunericul în jurul cortului Său, ca să fie gata să-l întunece pe dușman. „Grămezi” — întunericul acela venea din strânsura mulțimii apelor legate în norii întinși sub ceruri."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Grămezi de apă” — iar în Psalmi „întunecimea apelor”, și înțelesul e același, căci hașrat maim e legarea norilor unul de altul, ca în „spițele și obezile lor, toate turnate”; iar când norii sunt legați unul de altul, e întuneric."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vaiașet” — cu sensul de punere, ca în „își pun gura în ceruri” (Psalmii 73:9). „Hașrat” — cu sensul de legătură, ca în „spițele și obezile lor” (1 Împărați 7:33)."
+     },
+     {
+      "author": "Talmud Bavli, Taanit 9b",
+      "text": "Și [norii] sunt găuriți ca o sită și vin și stropesc (mehașrot) apă pe pământ, căci s-a spus: „grămezi (hașrat) de apă, norii cerurilor”. Și între o picătură și alta nu e decât cât un fir de păr, ca să te învețe că ziua ploii e mare ca ziua în care au fost create cerul și pământul."
+     }
+    ]
+   },
+   {
+    "v": "22:13",
+    "t": "Din strălucirea care este dinaintea Lui ardeau cărbuni încinși.",
+    "heb": "מִנֹּגַהּ נֶגְדּוֹ בָּעֲרוּ גַּחֲלֵי־אֵשׁ׃",
+    "translit": "Minoga negdo baaru gahalei-eș.",
+    "tokens": [
+     {
+      "t": "Din strălucirea care este dinaintea Lui ardeau "
+     },
+     {
+      "t": "cărbuni încinși",
+      "w": "cărbuni încinși",
+      "heb": "גַּחֲלֵי־אֵשׁ",
+      "translit": "gahalei-eș",
+      "strong": "H1513",
+      "pos": "substantiv, în construcție + substantiv",
+      "def_ro": "cărbuni aprinși, jăratic.",
+      "dict_ro": "Gahelet — „cărbunele aprins, jăraticul”. Rashi explică legătura cu versetul dinainte: să nu crezi că Dumnezeu locuiește în întuneric; întunericul e doar în jurul Lui, iar dinaintea Lui e lumină, din care au ieșit cărbunii aprinși și săgețile asupra Egiptului. Radak: din strălucirea care e îndreptată spre cei care Îl iubesc au ars cărbuni asupra dușmanilor Lui; focul Lui luminează pentru cei care Îl iubesc și arde pe cei care Îl urăsc."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִנֹּגַהּ נֶגְדּוֹ בָּעֲרוּ גַּחֲלֵי־אֵשׁ׃...",
+      "translation": "„Din strălucirea care este dinaintea Lui...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀπὸ τοῦ φέγγους ἐναντίον αὐτοῦ ἐξεκαύθησαν ἄνθρακες πυρός.",
+      "greek": true,
+      "translation": "„De la strălucirea dinaintea Lui s-au aprins cărbuni de foc.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Din strălucirea care este dinaintea Lui” — să nu spui că El locuiește în întuneric, ci lumina e înăuntru, și din lumina aceea care e dinaintea Lui au ieșit cărbunii aprinși; de acolo au fost trase săgețile asupra Egiptului."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Din strălucirea care este dinaintea Lui” — din pricina luminii dinaintea Lui, cu care voia să lumineze ca să mă salveze, de aceea ardeau cărbuni de foc în cei care se ridicau împotriva mea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Din strălucirea care este dinaintea Lui” — din strălucirea îndreptată spre cei care Îl iubesc ardeau cărbuni de foc pentru dușmanii Lui; adică focul Lui luminează pentru cei care Îl iubesc și arde în cei care Îl urăsc."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Minoga” — cu sensul de lumină și strălucire."
+     }
+    ]
+   },
+   {
+    "v": "22:14",
+    "t": "Și DOMNUL a tunat în ceruri, Preaînaltul a strigat.",
+    "heb": "יַרְעֵם מִן־שָׁמַיִם יְהוָה וְעֶלְיוֹן יִתֵּן קוֹלוֹ׃",
+    "translit": "Iarem min-șamaim ADONAI veelion iten kolo.",
+    "tokens": [
+     {
+      "t": "Și DOMNUL a tunat în ceruri, "
+     },
+     {
+      "t": "Preaînaltul",
+      "w": "Preaînaltul",
+      "heb": "וְעֶלְיוֹן",
+      "translit": "veelion",
+      "strong": "H5945",
+      "pos": "conjuncție + adjectiv folosit ca nume",
+      "def_ro": "Cel Preaînalt.",
+      "dict_ro": "Elion — „Cel Preaînalt”, unul dintre cele mai vechi nume ale lui Dumnezeu, rostit de Malhițedec, „preot al Dumnezeului Celui Preaînalt” (Geneza 14:18). Tunetul e „glasul” lui Dumnezeu, ca în Psalmul 29, unde „glasul DOMNULUI” răsună de șapte ori. În cântarea Anei se spunea: „Din ceruri tună asupra lor” (1 Samuel 2:10), iar în vremea lui Samuel, DOMNUL „a tunat cu tunet puternic” asupra filistenilor (1 Samuel 7:10). Radak observă doar că ierem vine de la raam, „tunet”."
+     },
+     {
+      "t": " a strigat."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יַרְעֵם מִן־שָׁמַיִם יְהוָה וְעֶלְיוֹן...",
+      "translation": "„Și DOMNUL a tunat în ceruri...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐβρόντησεν ἐξ οὐρανοῦ Κύριος, καὶ ὁ ὕψιστος ἔδωκε φωνὴν αὐτοῦ",
+      "greek": true,
+      "translation": "„A tunat din cer Domnul, și Cel Preaînalt Și-a dat glasul.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 29:3-9",
+     "1 Samuel 2:10",
+     "1 Samuel 7:10",
+     "Iov 37:2-5",
+     "Isaia 30:30",
+     "Apocalipsa 11:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „A tunat” (ierem) — de la „tunet” (raam)."
+     }
+    ]
+   },
+   {
+    "v": "22:15",
+    "t": "Și-a trimis săgețile și i-a împrăștiat, fulgerele și i-a înnebunit.",
+    "heb": "וַיִּשְׁלַח חִצִּים וַיְפִיצֵם בָּרָק וַיָּהֹם׃",
+    "translit": "Vaișlah hițim vaifițem barak vaiahom.",
+    "tokens": [
+     {
+      "t": "Și-a trimis săgețile și i-a împrăștiat, "
+     },
+     {
+      "t": "fulgerele",
+      "w": "fulgerele",
+      "heb": "בָּרָק",
+      "translit": "barak",
+      "strong": "H1300",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "fulger; strălucire.",
+      "dict_ro": "Barak — „fulgerul”, și prin asemănare luciul sabiei (Deuteronom 32:41, „când voi ascuți fulgerul sabiei Mele”); același cuvânt e numele lui Barac, căpetenia din vremea Deborei. Săgețile și fulgerul sunt armele lui Dumnezeu împotriva dușmanilor, ca în „voi arunca asupra lor săgețile Mele” (Deuteronom 32:23, din pericopa Haazinu). Verbul vaiahom înseamnă „a-i arunca în derută” (Metzudat Țion: de la mehuma, „tulburare”), ca la Marea Roșie, unde DOMNUL „a pus în derută tabăra egiptenilor” (Exod 14:24)."
+     },
+     {
+      "t": " și i-a înnebunit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיִּשְׁלַח חִצִּים וַיְפִיצֵם בָּרָק...",
+      "translation": "„Și-a trimis săgețile și i-a împrăștiat...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀπέστειλε βέλη καὶ ἐσκόρπισεν αὐτούς, καὶ ἤστραψεν ἀστραπὴν καὶ ἐξέστησεν αὐτούς.",
+      "greek": true,
+      "translation": "„Și a trimis săgeți și i-a risipit, și a fulgerat fulger și i-a înspăimântat.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:14",
+     "Deuteronom 32:23",
+     "Iosua 10:10",
+     "Psalmii 144:6,7",
+     "Habacuc 3:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „I-a înnebunit” (vaiahom) — cum e scris în Psalmi, e scris [cu o literă] și citit vaiahom, și nu e între ele decât sufixul."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vaiahom” — de la „tulburare”."
+     }
+    ]
+   },
+   {
+    "v": "22:16",
+    "t": "Albiile apelor s-au arătat, temeliile pământului s-au dezgolit la mustrarea DOMNULUI, la suflul nărilor Sale.",
+    "heb": "וַיֵּרָאוּ אֲפִקֵי יָם יִגָּלוּ מֹסְדוֹת תֵּבֵל בְּגַעֲרַת יְהוָה מִנִּשְׁמַת רוּחַ אַפּוֹ׃",
+    "translit": "Vaierau afikei iam igalu mosdot tevel begaarat ADONAI minișmat ruah apo.",
+    "tokens": [
+     {
+      "t": "Albiile apelor",
+      "w": "Albiile apelor",
+      "heb": "אֲפִקֵי יָם",
+      "translit": "afikei iam",
+      "strong": "H650",
+      "pos": "substantiv, masculin plural, în construcție + substantiv",
+      "def_ro": "albiile mării, canalele adâncului.",
+      "dict_ro": "Afik — „albia, canalul” prin care apa curge cu putere (Radak, Metzudat Țion, ca în Iov 6:15). Rashi citește versetul ca amintire a despicării Mării Roșii: când s-a despicat marea, s-au despicat toate apele lumii, iar „suflul nărilor Sale” e vântul de răsărit care a despicat apele (Exod 15:8). Talmudul învață din acest verset că afikim înseamnă ploaie, și că „ziua ploii e mare ca ziua adunării exilaților”, căci s-a spus: „Adu înapoi, DOAMNE, pe prinșii noștri de război, ca pe niște pâraie (afikim) în partea de miazăzi” (Psalmii 126:4; Taanit 8b)."
+     },
+     {
+      "t": " s-au arătat, temeliile pământului s-au dezgolit la mustrarea DOMNULUI, la suflul nărilor Sale."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֵּרָאוּ אֲפִקֵי יָם יִגָּלוּ...",
+      "translation": "„Albiile apelor s-au arătat, temeliile pământului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ὤφθησαν ἀφέσεις θαλάσσης, καὶ ἀπεκαλύφθη θεμέλια τῆς οἰκουμένης ἐν τῇ ἐπιτιμήσει Κυρίου, ἀπὸ πνοῆς πνεύματος θυμοῦ αὐτοῦ.",
+      "greek": true,
+      "translation": "„Și s-au arătat izvoarele mării și s-au descoperit temeliile lumii la certarea Domnului, de suflarea duhului mâniei Lui.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:15-17",
+     "Exod 14:21-27",
+     "Exod 15:8",
+     "Psalmii 106:9",
+     "Naum 1:4",
+     "Psalmii 114:3-7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Temeliile pământului s-au dezgolit” — adâncurile mărilor s-au despicat: când s-a despicat Marea Roșie, s-au despicat toate apele lumii. „La suflul” — din puterea vântului care sufla din nările Lui."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Albiile apelor s-au arătat” — se vedeau fundurile apelor mării, căci apele s-au despicat. „S-au dezgolit” — căci s-a despicat pământul. „La mustrarea” — din pricina mustrării DOMNULUI asupra celor care se ridicau împotriva mea. „La suflul” — de la suflarea vântului nărilor Lui; totul e în chip de pildă."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Albiile apelor” — apele care curg cu putere se numesc afikim, iar toate locurile prin care curg apele se numesc afikim, după ele."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Afikei” — așa se numesc apele care curg cu tărie și goană, ca în „ca albia pâraielor” (Iov 6:15). „Minișmat” — de la „suflare și răsuflarea gurii”."
+     },
+     {
+      "author": "Talmud Bavli, Taanit 8b",
+      "text": "Rabi Iohanan a spus: mare e ziua ploii ca ziua adunării exilaților, căci s-a spus: „Adu înapoi, DOAMNE, pe prinșii noștri de război, ca pe niște pâraie (afikim) în partea de miazăzi”; iar afikim nu înseamnă altceva decât ploaie, căci s-a spus: „Albiile (afikei) apelor s-au arătat”."
+     }
+    ]
+   },
+   {
+    "v": "22:17",
+    "t": "El a trimis din înălțimi și m-a luat, m-a scos din ape adânci.",
+    "heb": "יִשְׁלַח מִמָּרוֹם יִקָּחֵנִי יַמְשֵׁנִי מִמַּיִם רַבִּים׃",
+    "translit": "Ișlah mimarom ikaheni iamșeni mimaim rabim.",
+    "tokens": [
+     {
+      "t": "El a trimis din înălțimi și m-a luat, "
+     },
+     {
+      "t": "m-a scos",
+      "w": "m-a scos",
+      "heb": "יַמְשֵׁנִי",
+      "translit": "iamșeni",
+      "strong": "H4871",
+      "pos": "verb, imperfect hifil, persoana a III-a masculin singular, cu sufix",
+      "def_ro": "m-a tras afară, m-a scos.",
+      "dict_ro": "Mașa — „a trage afară din apă”, verbul din care vine numele lui Moise: „L-a numit Moșe, căci, a zis ea, l-am scos (mașitihu) din apă” (Exod 2:10; Metzudat Țion, Radak). Verbul mai apare în Scriptură doar în Exod 2:10 și în Psalmul 18:16 paralel. „Apele adânci” sunt, după Radak și Metzudat David, o pildă pentru necazurile multe și pentru mulțimea dușmanilor, care năvăleau ca apele. Aici David vorbește despre sine ca despre un nou Moise, scos din ape de mâna lui Dumnezeu."
+     },
+     {
+      "t": " din ape adânci."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יִשְׁלַח מִמָּרוֹם יִקָּחֵנִי יַמְשֵׁנִי...",
+      "translation": "„El a trimis din înălțimi și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀπέστειλεν ἐξ ὕψους καὶ ἔλαβέ με, εἵλκυσέ με ἐξ ὑδάτων πολλῶν·",
+      "greek": true,
+      "translation": "„A trimis de sus și m-a luat, m-a tras din ape multe.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:16",
+     "Psalmii 144:7",
+     "Psalmii 32:6",
+     "Psalmii 124:4,5",
+     "Isaia 43:2",
+     "Plângerile 3:54"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„El a trimis din înălțimi” — Își va trimite ajutorul din înălțime, mă va lua din mâna dușmanului și mă va scoate din mâna celor mulți care se ridică împotriva mea, care năvălesc ca ape multe."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „M-a scos din ape adânci” — o pildă: m-a salvat din necazuri multe; e din aceeași rădăcină ca „căci l-am scos din apă”, iar înțelesul e tragere afară și scoatere."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Iamșeni” — cu sensul de scoatere, ca în „l-am scos din apă” (Exod 2:10)."
+     }
+    ]
+   },
+   {
+    "v": "22:18",
+    "t": "El m-a salvat de vrăjmașul meu puternic și de dușmanii mei, căci erau mai tari ca mine.",
+    "heb": "יַצִּילֵנִי מֵאֹיְבִי עָז מִשֹּׂנְאַי כִּי אָמְצוּ מִמֶּנִּי׃",
+    "translit": "Iațileni meoivi az misonai ki amțu mimeni.",
+    "tokens": [
+     {
+      "t": "El m-a salvat de vrăjmașul meu puternic și de dușmanii mei, căci "
+     },
+     {
+      "t": "erau mai tari",
+      "w": "erau mai tari",
+      "heb": "אָמְצוּ",
+      "translit": "amțu",
+      "strong": "H553",
+      "pos": "verb, perfect qal, persoana a III-a plural",
+      "def_ro": "erau mai puternici, mai tari.",
+      "dict_ro": "Amaț — „a fi tare, curajos”, verbul din îndemnul dat lui Iosua: „Întărește-te și îmbărbătează-te” (hazak veemaț; Iosua 1:6). Mărturisirea „erau mai tari decât mine” arată că salvarea nu a venit din puterea lui David. Radak: „vrăjmașul puternic”, la singular, poate fi Goliat, Ișbi-Benov sau chiar Șaul; Rashi: El m-a scăpat tocmai când ei erau mai tari. Metzudat David: când s-au întărit mai mult decât mine, atunci m-a salvat din mâna lor."
+     },
+     {
+      "t": " ca mine."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יַצִּילֵנִי מֵאֹיְבִי עָז מִשֹּׂנְאַי...",
+      "translation": "„El m-a salvat de vrăjmașul meu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐρρύσατό με ἐξ ἐχθρῶν μου ἰσχύος, ἐκ τῶν μισούντων με, ὅτι ἐκραταιώθησαν ὑπὲρ ἐμέ.",
+      "greek": true,
+      "translation": "„M-a izbăvit de vrăjmașii mei cei tari, de cei ce mă urăsc, căci s-au întărit mai mult decât mine.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Samuel 22:1",
+     "Psalmii 3:7",
+     "Psalmii 56:9",
+     "2 Timotei 4:17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Căci erau mai tari ca mine” — când erau ei mai puternici."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Căci erau mai tari” — când s-au întărit mai mult decât mine, atunci m-a salvat din mâna lor."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „De vrăjmașul meu puternic” — la singular, despre Goliat sau despre Ișbi-Benov, și se poate și despre Șaul."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Amțu” — cu sensul de tărie."
+     }
+    ]
+   },
+   {
+    "v": "22:19",
+    "t": "Ei m-au înfruntat în ziua necazului meu, dar DOMNUL a fost sprijinul meu.",
+    "heb": "יְקַדְּמֻנִי בְּיוֹם אֵידִי וַיְהִי יְהוָה מִשְׁעָן לִי׃",
+    "translit": "Ikadmúni beiom eidi vaihi ADONAI mișan li.",
+    "tokens": [
+     {
+      "t": "Ei m-au înfruntat în ziua necazului meu, dar DOMNUL a fost "
+     },
+     {
+      "t": "sprijinul meu",
+      "w": "sprijinul meu",
+      "heb": "מִשְׁעָן",
+      "translit": "mișan",
+      "strong": "H4937",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "sprijin, reazem.",
+      "dict_ro": "Mișan — „sprijinul, reazemul”, de la șaan, „a se rezema”, ca toiagul pe care se sprijină cel slab. „Ziua necazului” (iom eid) e ziua nenorocirii, cum spune Iov: „nu este nenorocire pentru cel nelegiuit?” (Iov 31:3; Metzudat Țion). Radak, după Targum: în zilele când umblam pribeag, dușmanii mei se grăbeau să-mi facă rău, cum au făcut locuitorii din Zif, care l-au trădat pe David înaintea lui Șaul (1 Samuel 23:19). Metzudat David: chiar dacă am căzut, DOMNUL a fost reazemul meu, și iată, m-am ridicat."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יְקַדְּמֻנִי בְּיוֹם אֵידִי וַיְהִי...",
+      "translation": "„Ei m-au înfruntat în ziua necazului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "προέφθασάν με ἡμέραι θλίψεώς μου καὶ ἐγένετο Κύριος ἐπιστήριγμά μου",
+      "greek": true,
+      "translation": "„M-au întâmpinat zilele necazului meu, și Domnul a fost sprijinul meu.”",
+      "note": "Septuaginta are „zilele necazului meu” ca subiect, în loc de „ei [dușmanii] m-au înfruntat”."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:18,19",
+     "1 Samuel 23:26,27",
+     "1 Samuel 19:11-17",
+     "Psalmii 118:10-13",
+     "Psalmii 71:20,21"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„M-au înfruntat” — dușmanul se grăbea să vină asupra mea când mă lovea o întâmplare rea, gândind că, după ce am început să cad, nu mă voi mai ridica; dar DOMNUL mi-a fost reazem, și chiar dacă am căzut, iată, m-am ridicat."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „M-au înfruntat în ziua necazului meu” — Ionatan traduce „în ziua pribegiei mele”, adică în ziua în care eram rătăcitor și pribeag, dușmanii mei se grăbeau cu relele lor asupra mea, cum au făcut locuitorii din Zif."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Eidi” — cu sensul de întâmplare rea, ca în „oare nu este nenorocire pentru cel nelegiuit?” (Iov 31:3). „Mișan” — cu sensul de sprijin."
+     }
+    ]
+   },
+   {
+    "v": "22:20",
+    "t": "El m-a scos la loc larg, m-a eliberat, căci m-a îndrăgit.",
+    "heb": "וַיֹּצֵא לַמֶּרְחָב אֹתִי יְחַלְּצֵנִי כִּי־חָפֵץ בִּי׃",
+    "translit": "Vaioțe lamerhav oti iehalțeni ki-hafeț bi.",
+    "tokens": [
+     {
+      "t": "El m-a scos la "
+     },
+     {
+      "t": "loc larg",
+      "w": "loc larg",
+      "heb": "לַמֶּרְחָב",
+      "translit": "lamerhav",
+      "strong": "H4800",
+      "pos": "prepoziție cu articol + substantiv, masculin singular",
+      "def_ro": "loc larg, spațiu deschis.",
+      "dict_ro": "Merhav — „locul larg”, de la rahav, „a fi larg”. În limba Scripturii, necazul e „strâmtoare” (țar, de unde bațar li, „în necazul meu”, versetul 7), iar salvarea e „loc larg”: „Din strâmtoare am chemat pe DOMNUL, și DOMNUL m-a ascultat și m-a scos la loc larg” (Psalmii 118:5). Isaac a numit o fântână Rehovot, „căci acum DOMNUL ne-a pus la larg” (Geneza 26:22). Metzudat David: m-a scos din strâmtoare la loc larg, „căci m-a îndrăgit” (hafeț bi), adică nu pentru meritul meu."
+     },
+     {
+      "t": ", m-a eliberat, căci m-a îndrăgit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיֹּצֵא לַמֶּרְחָב אֹתִי יְחַלְּצֵנִי...",
+      "translation": "„El m-a scos la loc larg...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐξήγαγέ με εἰς πλατυσμὸν καὶ ἐξείλετό με, ὅτι ηὐδόκησεν ἐν ἐμοί.",
+      "greek": true,
+      "translation": "„Și m-a scos la loc larg și m-a izbăvit, căci a binevoit întru mine.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 118:5",
+     "Geneza 26:22",
+     "Psalmii 31:8",
+     "Psalmii 147:11",
+     "Isaia 42:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„La loc larg” — la un loc larg, ca să scap îndată. „M-a eliberat” — m-a scos din strâmtoare, căci m-a îndrăgit."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Iehalțeni” — cu sensul de scoatere și tragere afară, ca în „în necaz M-ai chemat și te-am scăpat” (Psalmii 81:7)."
+     }
+    ]
+   },
+   {
+    "v": "22:21",
+    "t": "DOMNUL m-a răsplătit după dreptatea mea, mi-a plătit după curețenia mâinilor mele.",
+    "heb": "יִגְמְלֵנִי יְהוָה כְּצִדְקָתִי כְּבֹר יָדַי יָשִׁיב לִי׃",
+    "translit": "Igmeleni ADONAI kețidkati kevor iadai iașiv li.",
+    "tokens": [
+     {
+      "t": "DOMNUL m-a răsplătit după dreptatea mea, mi-a plătit după "
+     },
+     {
+      "t": "curețenia mâinilor mele",
+      "w": "curețenia mâinilor mele",
+      "heb": "כְּבֹר יָדַי",
+      "translit": "kevor iadai",
+      "strong": "H1252",
+      "pos": "prepoziție + substantiv, în construcție + substantiv cu sufix",
+      "def_ro": "după curăția mâinilor mele.",
+      "dict_ro": "Bor — „curăția, puritatea”, de la barar, „a curăța, a alege”; bor era și numele leșiei cu care se spălau mâinile (Iov 9:30). „Curăția mâinilor” înseamnă nevinovăția faptelor: Metzudat David, „pentru că n-am făcut rău niciunuia dintre ei”, iar Rashi, în altă explicație, amintește că David nu l-a ucis pe Șaul în peșteră, ci i-a tăiat doar poala hainei (1 Samuel 24:4). Psalmul 24:4 cere același lucru celui care se suie la muntele DOMNULUI: „cel cu mâinile nevinovate și cu inima curată”."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יִגְמְלֵנִי יְהוָה כְּצִדְקָתִי כְּבֹר...",
+      "translation": "„DOMNUL m-a răsplătit după dreptatea mea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνταπέδωκέ μοι Κύριος κατὰ τὴν δικαιοσύνην μου, καὶ κατὰ τὴν καθαριότητα τῶν χειρῶν μου ἀνταπέδωκέ μοι.",
+      "greek": true,
+      "translation": "„Și m-a răsplătit Domnul după dreptatea mea și după curăția mâinilor mele mi-a răsplătit.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:20-25",
+     "1 Samuel 26:23",
+     "1 Împărați 8:32",
+     "Psalmii 7:3,4,8",
+     "Psalmii 24:4",
+     "Iov 17:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „După dreptatea mea” — când [poporul lui Israel] L-a urmat pe Dumnezeu în pustie și a crezut în făgăduința Lui."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„După dreptatea mea” — după dreptatea mea, căci n-am făcut rău niciunuia dintre ei. „După curețenia mâinilor mele” — același lucru în cuvinte diferite."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Igmeleni” — de la „răsplată și plata simbriei”. „Kevor” — de la „curat și limpede”."
+     }
+    ]
+   },
+   {
+    "v": "22:22",
+    "t": "Căci am păzit căile DOMNULUI și nu am făcut rău față de Dumnezeul meu.",
+    "heb": "כִּי שָׁמַרְתִּי דַּרְכֵי יְהוָה וְלֹא רָשַׁעְתִּי מֵאֱלֹהָי׃",
+    "translit": "Ki șamarti darhei ADONAI velo rașati me'Elohai.",
+    "tokens": [
+     {
+      "t": "Căci am păzit căile DOMNULUI și "
+     },
+     {
+      "t": "nu am făcut rău",
+      "w": "nu am făcut rău",
+      "heb": "וְלֹא רָשַׁעְתִּי",
+      "translit": "velo rașati",
+      "strong": "H7561",
+      "pos": "conjuncție + negație + verb, perfect qal, persoana I singular",
+      "def_ro": "nu m-am abătut cu răutate.",
+      "dict_ro": "Rașa — „a face rău, a fi vinovat”, de unde rașa, „cel rău”. Expresia „n-am făcut rău, [depărtându-mă] de Dumnezeul meu” e explicată de Radak: n-am ieșit de pe căile Dumnezeului meu; Metzudat David: n-am păcătuit față de poruncile Dumnezeului meu. Mărturisirea nevinovăției din versetele 21-25 pare greu de împăcat cu păcatul lui David cu Bat-Șeba; Rashi o citește de aceea, în prima lui explicație, ca vorbind despre Israel în pustie, iar în a doua despre vremea când David a fugit de Șaul și nu i-a făcut rău."
+     },
+     {
+      "t": " față de Dumnezeul meu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי שָׁמַרְתִּי דַּרְכֵי יְהוָה...",
+      "translation": "„Căci am păzit căile DOMNULUI și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι ἐφύλαξα ὁδοὺς Κυρίου καὶ οὐκ ἠσέβησα ἀπὸ τοῦ Θεοῦ μου",
+      "greek": true,
+      "translation": "„Căci am păzit căile Domnului și n-am fost necredincios față de Dumnezeul meu.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Geneza 18:19",
+     "Psalmii 119:1",
+     "Iov 23:10-12",
+     "1 Samuel 12:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Față de Dumnezeul meu” — față de poruncile Dumnezeului meu."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și nu am făcut rău față de Dumnezeul meu” — n-am făcut rău, ieșind de pe căile Dumnezeului meu; „căile” pomenite [înainte] stă în locul a două; iar Ionatan traduce: „și n-am umblat cu răutate înaintea Dumnezeului meu”."
+     }
+    ]
+   },
+   {
+    "v": "22:23",
+    "t": "Căci toate judecățile Lui sunt înaintea mea și nu mă voi îndepărta de decretele Lui.",
+    "heb": "כִּי כָל־מִשְׁפָּטָיו לְנֶגְדִּי וְחֻקֹּתָיו לֹא־אָסוּר מִמֶּנָּה׃",
+    "translit": "Ki hol-mișpatav lenegdi vehukotav lo-asur mimena.",
+    "tokens": [
+     {
+      "t": "Căci toate judecățile Lui sunt înaintea mea și nu mă voi îndepărta de "
+     },
+     {
+      "t": "decretele Lui",
+      "w": "decretele Lui",
+      "heb": "וְחֻקֹּתָיו",
+      "translit": "vehukotav",
+      "strong": "H2708",
+      "pos": "conjuncție + substantiv, feminin plural, cu sufix",
+      "def_ro": "hotărârile, legile Lui.",
+      "dict_ro": "Hukka — „hotărârea, statutul”, de la hakak, „a grava”: legea „săpată”, dată fără ca motivul ei să fie spus. Metzudat David explică tocmai așa: hukim sunt poruncile ale căror motive sunt ascunse, spre deosebire de mișpatim, „judecățile”, al căror rost se înțelege. „Toate judecățile Lui sunt înaintea mea” înseamnă că le ține înaintea ochilor ca să le cerceteze. Tora cere păzirea amândurora: „Să păziți legile (hukotai) și poruncile (mișpatai) Mele” (Levitic 18:5)."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי כָל־מִשְׁפָּטָיו לְנֶגְדִּי וְחֻקֹּתָיו...",
+      "translation": "„Căci toate judecățile Lui sunt înaintea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι πάντα τὰ κρίματα αὐτοῦ κατεναντίον μου, καὶ τὰ δικαιώματα αὐτοῦ, οὐκ ἀπέστην ἀπ’ αὐτῶν.",
+      "greek": true,
+      "translation": "„Căci toate judecățile Lui [sunt] înaintea mea, și de rânduielile Lui nu m-am depărtat.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 119:6,86,128",
+     "Luca 1:6",
+     "Deuteronom 6:1,2",
+     "Psalmii 19:8,9",
+     "Deuteronom 8:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Înaintea mea” — ca să le cercetez. „Și decretele Lui” — chiar și decretele, adică lucrurile ale căror motive sunt ascunse. „Nu mă voi îndepărta” — nici măcar de una dintre ele nu mă voi îndepărta."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Nu mă voi îndepărta de decretele Lui” — de nicio poruncă și de niciun decret; iar în Psalmi „nu le-am îndepărtat de la mine”, și înțelesul e același."
+     }
+    ]
+   },
+   {
+    "v": "22:24",
+    "t": "Am fost integru cu El și m-am păzit în fața păcatului meu.",
+    "heb": "וָאֶהְיֶה תָמִים לוֹ וָאֶשְׁתַּמְּרָה מֵעֲוֺנִי׃",
+    "translit": "Vaehie tamim lo vaeștamera meavoni.",
+    "tokens": [
+     {
+      "t": "Am fost "
+     },
+     {
+      "t": "integru",
+      "w": "integru",
+      "heb": "תָמִים",
+      "translit": "tamim",
+      "strong": "H8549",
+      "pos": "adjectiv, masculin singular",
+      "def_ro": "desăvârșit, fără pată, integru.",
+      "dict_ro": "Tamim — „întreg, desăvârșit, fără cusur”; e cuvântul folosit pentru animalele de jertfă fără meteahnă (Levitic 1:3) și pentru Noe, „om neprihănit și integru” (Geneza 6:9). Lui Avraam i s-a spus: „Umblă înaintea Mea și fii integru” (Geneza 17:1). Versetul se regăsește cu aceleași cuvinte în Psalmul 18:23."
+     },
+     {
+      "t": " cu El și m-am păzit în fața păcatului meu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֶהְיֶה תָמִים לוֹ וָאֶשְׁתַּמְּרָה...",
+      "translation": "„Am fost integru cu El și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔσομαι ἄμωμος αὐτῷ καὶ προφυλάξομαι ἀπὸ τῆς ἀνομίας μου.",
+      "greek": true,
+      "translation": "„Și voi fi fără prihană înaintea Lui și mă voi păzi de fărădelegea mea.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Geneza 6:9",
+     "Geneza 17:1",
+     "Iov 1:1",
+     "Proverbe 4:23"
+    ],
+    "commentaries": []
+   },
+   {
+    "v": "22:25",
+    "t": "DOMNUL mi-a plătit după dreptatea mea, după curățenia mea înaintea ochilor Lui.",
+    "heb": "וַיָּשֶׁב יְהוָה לִי כְּצִדְקָתִי כְּבֹרִי לְנֶגֶד עֵינָיו׃",
+    "translit": "Vaiashev ADONAI li kețidkati kevori leneghed einav.",
+    "tokens": [
+     {
+      "t": "DOMNUL mi-a plătit după "
+     },
+     {
+      "t": "dreptatea mea",
+      "w": "dreptatea mea",
+      "heb": "כְּצִדְקָתִי",
+      "translit": "kețidkati",
+      "strong": "H6666",
+      "pos": "prepoziție + substantiv, feminin singular, cu sufix persoana I singular",
+      "def_ro": "după dreptatea mea.",
+      "dict_ro": "Țedaka — „dreptatea”, purtarea dreaptă față de Dumnezeu și de oameni; mai târziu, în ebraica rabinică, a ajuns să însemne și „milostenia”. Versetul reia versetul 21 ca un refren, încheind partea despre nevinovăția lui David. Metzudat David: „înaintea ochilor Lui” înseamnă că dreptatea lui a fost făcută înaintea lui Dumnezeu, nu înaintea oamenilor, ca să se mândrească. Aceeași încredere că Dumnezeu judecă după fapte se află în rugăciunea lui Solomon: „dând celui drept după dreptatea lui” (1 Împărați 8:32)."
+     },
+     {
+      "t": ", după curățenia mea înaintea ochilor Lui."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַיָּשֶׁב יְהוָה לִי כְּצִדְקָתִי...",
+      "translation": "„DOMNUL mi-a plătit după dreptatea mea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀποδώσει μοι Κύριος κατὰ τὴν δικαιοσύνην μου καὶ κατὰ τὴν καθαριότητα τῶν χειρῶν μου ἐνώπιον τῶν ὀφθαλμῶν αὐτοῦ.",
+      "greek": true,
+      "translation": "„Și îmi va răsplăti Domnul după dreptatea mea și după curăția mâinilor mele înaintea ochilor Lui.”",
+      "note": "Septuaginta are „după curăția mâinilor mele”, ca în versetul 21, în loc de „după curățenia mea”."
+     }
+    ],
+    "refs": [
+     "2 Samuel 22:21",
+     "Isaia 3:10",
+     "Proverbe 5:21",
+     "2 Corinteni 5:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„DOMNUL mi-a plătit” — de aceea DOMNUL mi-a plătit. „Înaintea ochilor Lui” — care e înaintea ochilor Lui, și nu înaintea oamenilor, ca să mă mândresc."
+     }
+    ]
+   },
+   {
+    "v": "22:26",
+    "t": "Cu cel pios Te porți cu pioșenie, cu cel măreț în integritate Te porți integru.",
+    "heb": "עִם־חָסִיד תִּתְחַסָּד עִם־גִּבּוֹר תָּמִים תִּתַּמָּם׃",
+    "translit": "Im-hasid tithasad im-ghibor tamim titamam.",
+    "tokens": [
+     {
+      "t": "Cu "
+     },
+     {
+      "t": "cel pios",
+      "w": "cel pios",
+      "heb": "חָסִיד",
+      "translit": "hasid",
+      "strong": "H2623",
+      "pos": "adjectiv folosit ca substantiv, masculin singular",
+      "def_ro": "pios, credincios, plin de bunătate.",
+      "dict_ro": "Hasid — „cel pios, cel plin de hesed”, adică de bunătate și credincioșie; de aici numele mișcării hasidice. Versetele 26-27 formulează un principiu: Dumnezeu Se poartă cu omul după cum se poartă omul. Rashi, după Targum, vede în cele trei însușiri pe cei trei patriarhi: „pios” e Avraam, „integru” e Isaac, iar „curat” e Iacov, iar Dumnezeu le-a răsplătit dreptatea în urmașii lor. Metzudat Țion: ghibor, „cel măreț”, înseamnă aici „bărbat”, cum stă în Psalmul 18:25 paralel, ghever."
+     },
+     {
+      "t": " Te porți cu pioșenie, cu cel măreț în integritate Te porți integru."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עִם־חָסִיד תִּתְחַסָּד עִם־גִּבּוֹר תָּמִים...",
+      "translation": "„Cu cel pios Te porți cu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "μετὰ ὁσίου ὁσιωθήσῃ καὶ μετὰ ἀνδρὸς τελείου τελειωθήσῃ",
+      "greek": true,
+      "translation": "„Cu cel cuvios Te vei purta cu cuvioșie, și cu bărbatul desăvârșit Te vei purta desăvârșit.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Matei 5:7",
+     "Iacov 2:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cu cel pios..., integru, [curat]” — [aceste trei] îi reprezintă pe cei trei patriarhi: Dumnezeu le-a plătit fiilor lor răsplata dreptății lor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cu cel pios” — adică așa e calea Ta: să Te porți cu bunătate cu cel pios."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Te porți cu pioșenie” — celui care e pios în căile lui îi arăți și Tu că ești pios, făcându-i bine. „Cu cel măreț” (ghibor) — ca „bărbat”, căci traducerea [aramaică] a lui „bărbat” e ghevar, și așa e în Psalmi, ghever; iar Ionatan a tradus versetul despre patriarhi: pios, integru și curat, iar „cel strâmb” despre Faraon."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ghibor” — înțelesul e ca ghever, și așa se spune în Psalmi (18:25); e traducerea [aramaică] a lui „bărbat”."
+     }
+    ]
+   },
+   {
+    "v": "22:27",
+    "t": "Cu cel devotat ești devotat, iar cu cel strâmb Te porți potrivnic.",
+    "heb": "עִם־נָבָר תִּתָּבָר וְעִם־עִקֵּשׁ תִּתַּפָּל׃",
+    "translit": "Im-navar titavar veim-ikeș titapal.",
+    "tokens": [
+     {
+      "t": "Cu cel devotat ești devotat, iar cu "
+     },
+     {
+      "t": "cel strâmb",
+      "w": "cel strâmb",
+      "heb": "עִקֵּשׁ",
+      "translit": "ikeș",
+      "strong": "H6141",
+      "pos": "adjectiv, masculin singular",
+      "def_ro": "strâmb, sucit, perfid.",
+      "dict_ro": "Ikeș — „strâmb, sucit”, ca în „neam sucit și stricat” (Deuteronom 32:5, din cântarea Haazinu; Metzudat Țion). Verbul titapal („Te porți potrivnic”) vine de la patal, „a răsuci”: cu cel viclean, Dumnezeu Se poartă după propria lui cale sucită, ca să-l facă să se împiedice în ea (Radak). Rashi vede în „cel strâmb” pe Faraon. Talmudul povestește că Iacov i-a spus Rahelei că e „fratele” lui Laban în viclenie, iar când ea a întrebat dacă e îngăduit celor drepți să umble cu viclenie, el a răspuns cu acest verset (Meghila 13b; Bava Batra 123a)."
+     },
+     {
+      "t": " Te porți potrivnic."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עִם־נָבָר תִּתָּבָר וְעִם־עִקֵּשׁ תִּתַּפָּל׃...",
+      "translation": "„Cu cel devotat ești devotat, iar...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ μετὰ ἐκλεκτοῦ ἐκλεκτὸς ἔσῃ καὶ μετὰ στρεβλοῦ στρεβλωθήσῃ.",
+      "greek": true,
+      "translation": "„Și cu cel ales vei fi ales, și cu cel îndărătnic Te vei purta îndărătnic.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:26",
+     "Matei 5:8",
+     "Levitic 26:23-28",
+     "Psalmii 125:5",
+     "Exod 18:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Iar cu cel strâmb” — [aceasta e] Faraon. „Te porți potrivnic” — expresie de strâmb și sucit; în cartea Psalmilor (18:26) e scris titpatal. O altă explicație: de la „El a trimis din înălțimi” [David] vorbea despre sine: când se grăbea să scape de Șaul și ajunsese la stânca despărțirii și era aproape să fie prins, un înger a venit la Șaul și i-a spus: „Grăbește-te, căci filistenii au năvălit” (1 Samuel 23:27); iar „DOMNUL m-a răsplătit după dreptatea mea” — pentru că nu l-am ucis, ci i-am tăiat doar poala hainei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cu cel devotat” — cu omul curat și nevinovat Te porți cu curăție; adică îi plătești omului după fapta lui."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Te porți potrivnic” (titapal) — a venit așa ca să se potrivească cuvintele cu „Te porți devotat” și „Te porți integru”; rădăcina e patal, iar înțelesul lui titapal e: Tu aduci asupra lui calea lui cea sucită; tot așa: „cu batjocoritorii El Își bate joc”, adică aduce asupra lor ca să se poticnească în batjocura lor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Navar titavar” — de la „curat și limpede”. „Ikeș titapal” — înțelesul amândurora e strâmbătate, ca în „neam sucit și stricat” (Deuteronom 32:5), și e în chip de răsturnare."
+     },
+     {
+      "author": "Talmud Bavli, Meghila 13b",
+      "text": "I-a spus: te vei mărita cu mine? Ea i-a spus: da, dar tatăl meu e un înșelător și nu vei putea să-l birui. El i-a spus: sunt fratele lui în înșelăciune. Ea i-a spus: oare le e îngăduit celor drepți să umble cu înșelăciune? El i-a spus: da, „cu cel devotat ești devotat, iar cu cel strâmb Te porți potrivnic”."
+     }
+    ]
+   },
+   {
+    "v": "22:28",
+    "t": "Tu mântuiești poporul cel umil și ochii Tăi sunt asupra celor trufași pentru a-i smeri.",
+    "heb": "וְאֶת־עַם עָנִי תּוֹשִׁיעַ וְעֵינֶיךָ עַל־רָמִים תַּשְׁפִּיל׃",
+    "translit": "Veet-am ani toșia veeineha al-ramim tașpil.",
+    "tokens": [
+     {
+      "t": "Tu mântuiești "
+     },
+     {
+      "t": "poporul cel umil",
+      "w": "poporul cel umil",
+      "heb": "עַם עָנִי",
+      "translit": "am ani",
+      "strong": "H6041",
+      "pos": "substantiv + adjectiv, masculin singular",
+      "def_ro": "poporul sărac, smerit, apăsat.",
+      "dict_ro": "Ani — „sărmanul, cel apăsat”, și prin extensie „cel smerit”, înrudit cu anav, „umil” (Numeri 12:3, despre Moise). Principiul că Dumnezeu îi ridică pe cei smeriți și îi coboară pe cei trufași străbate Scriptura, de la cântarea Anei („El smerește și înalță”, 1 Samuel 2:7) până la cântarea Mariei (Luca 1:52). Metzudat David: pe cel smerit ca un sărman îl salvezi, iar ochii Tăi îi urmăresc pe cei trufași ca să-i smerească. În Psalmul 18:27 stă „ochii trufași îi smerești”, iar Radak spune că înțelesul e același."
+     },
+     {
+      "t": " și ochii Tăi sunt asupra celor trufași pentru a-i smeri."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶת־עַם עָנִי תּוֹשִׁיעַ וְעֵינֶיךָ...",
+      "translation": "„Tu mântuiești poporul cel umil și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τὸν λαὸν τὸν πτωχὸν σώσεις καὶ ὀφθαλμοὺς ἐπὶ μετεώρων ταπεινώσεις.",
+      "greek": true,
+      "translation": "„Și poporul cel sărac îl vei mântui și ochii [îi vei pune] asupra celor semeți [ca să-i] smerești.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 72:12,13",
+     "Isaia 61:1-3",
+     "Psalmii 138:6",
+     "Isaia 2:11",
+     "Iacov 4:6,7",
+     "1 Petru 5:5,6"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Poporul cel umil” — cel smerit ca un sărman. „Și ochii Tăi” — Îți pui ochii asupra celor trufași și îi smerești."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și ochii Tăi sunt asupra celor trufași pentru a-i smeri” — Îți pui ochii asupra celor trufași până îi smerești; tot așa e în Psalmi cu același înțeles, chiar dacă cuvintele nu sunt aceleași: „ochii trufași îi smerești”."
+     }
+    ]
+   },
+   {
+    "v": "22:29",
+    "t": "Căci Tu ești candela mea, DOAMNE, și DOMNUL va lumina întunericul meu.",
+    "heb": "כִּי־אַתָּה נֵירִי יְהוָה וַיהוָה יַגִּיהַּ חָשְׁכִּי׃",
+    "translit": "Ki-ata neiri ADONAI v'ADONAI iaghia hoșki.",
+    "tokens": [
+     {
+      "t": "Căci Tu ești "
+     },
+     {
+      "t": "candela mea",
+      "w": "candela mea",
+      "heb": "נֵירִי",
+      "translit": "neiri",
+      "strong": "H5216",
+      "pos": "substantiv, masculin singular, cu sufix persoana I singular",
+      "def_ro": "candela, lampa mea.",
+      "dict_ro": "Ner — „candela, lampa”, flacăra mică de ulei din casele antice, al cărei stins însemna pustiire, iar a cărei ardere însemna viață. De aceea casa lui David e numită „candela” lui Israel: „ca să nu stingi candela lui Israel” (2 Samuel 21:17), iar lui Solomon i se făgăduiește „o candelă înaintea Mea în Ierusalim” (1 Împărați 11:36). Radak: necazul e întunericul, iar salvarea din el e lumina și strălucirea. Psalmul 18:28 are „Tu îmi aprinzi candela”, iar Proverbele spun: „Candela DOMNULUI este sufletul omului” (Proverbe 20:27)."
+     },
+     {
+      "t": ", DOAMNE, și DOMNUL va lumina întunericul meu."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי־אַתָּה נֵירִי יְהוָה וַיהוָה...",
+      "translation": "„Căci Tu ești candela mea, DOAMNE...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι σὺ ὁ λύχνος μου, Κύριε, καὶ Κύριος ἐκλάμψει μοι τὸ σκότος μου.",
+      "greek": true,
+      "translation": "„Căci Tu [ești] făclia mea, Doamne, și Domnul îmi va lumina întunericul meu.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:28",
+     "Iov 29:3",
+     "Psalmii 27:1",
+     "Psalmii 112:4",
+     "Mica 7:9",
+     "Ioan 8:12"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Căci Tu ești candela mea” — Tu îmi luminezi ca o candelă. „Va lumina întunericul meu” — adică mă va scoate din necaz."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Căci Tu ești candela mea, DOAMNE” — [cuvântul] e scris cu litera fără sunet, iod; necazul e întunericul, iar mântuirea din el e lumina și strălucirea; și aceasta a spus: „va lumina întunericul meu”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Iaghia” — de la „strălucire și lumină”. „Hoșki” — de la „întuneric”."
+     }
+    ]
+   },
+   {
+    "v": "22:30",
+    "t": "Căci cu Tine pot sfărâma o ceată, cu Dumnezeul meu pot sări peste întăritură.",
+    "heb": "כִּי בְכָה אָרוּץ גְּדוּד בֵּאלֹהַי אֲדַלֶּג־שׁוּר׃",
+    "translit": "Ki veha aruț ghedud b'Elohai adaleg-șur.",
+    "tokens": [
+     {
+      "t": "Căci cu Tine pot sfărâma "
+     },
+     {
+      "t": "o ceată",
+      "w": "o ceată",
+      "heb": "גְּדוּד",
+      "translit": "ghedud",
+      "strong": "H1416",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "ceată de războinici, trupă.",
+      "dict_ro": "Ghedud — „ceata” de ostași, banda care făcea incursiuni, ca amalecitii care au prădat Țiclagul, pe care David i-a urmărit și i-a învins (1 Samuel 30:8). Verbul arutz e explicat de Radak în două feluri: de la rațaț, „a sfărâma”, sau de la ruț, „a alerga” împotriva cetei fără teamă. „Voi sări peste zid” (adaleg șur) vorbește despre cucerirea cetăților, atât de ușor încât pare un salt. Metzudat Țion: șur înseamnă „zid”, ca în „ramurile se întind peste zid” (Geneza 49:22)."
+     },
+     {
+      "t": ", cu Dumnezeul meu pot sări peste întăritură."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי בְכָה אָרוּץ גְּדוּד...",
+      "translation": "„Căci cu Tine pot sfărâma o...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὅτι ἐν σοὶ δραμοῦμαι μονόζωνος καὶ ἐν τῷ Θεῷ μου ὑπερβήσομαι τεῖχος.",
+      "greek": true,
+      "translation": "„Căci cu Tine voi alerga încins [ușor], și cu Dumnezeul meu voi trece peste zid.”",
+      "note": "Septuaginta are „încins [ușor]” (μονόζωνος, „cu o singură centură”, adică soldat cu echipament ușor) în loc de „o ceată”."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:29",
+     "Psalmii 118:10-12",
+     "Romani 8:37",
+     "Filipeni 4:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Căci cu Tine” — cu ajutorul Tău voi alerga împotriva cetelor neamurilor. „Pot sări peste întăritură” — voi sări peste zid, ca să cuceresc cetăți."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Căci cu Tine” — e scris cu he fără sunet după caf, iar înțelesul e: cu ajutorul Tău voi sfărâma ceata dușmanilor mei; arutz e de la rădăcina rațaț [„a sfărâma”]; sau înțelesul e: voi alerga în întâmpinarea cetei dușmanilor mei și nu mă voi teme de ei. Tot așa, „pot sări peste întăritură” — voi sări peste zidul cetăților dușmanilor mei ca să le cuceresc; și spune „voi sări” pentru iuțeala cuceririi, ca și cum ar intra în ele dintr-un salt."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ghedud” — cete de oameni. „Adaleg” — cu sensul de săritură. „Șur” — cu sensul de zid, ca în „ramurile ei se întind peste zid” (Geneza 49:22)."
+     }
+    ]
+   },
+   {
+    "v": "22:31",
+    "t": "Dumnezeul a cărui cale este perfectă – spusa DOMNULUI este pură, El este pavăză pentru toți cei care își caută refugiul la El.",
+    "heb": "הָאֵל תָּמִים דַּרְכּוֹ אִמְרַת יְהוָה צְרוּפָה מָגֵן הוּא לְכֹל הַחֹסִים בּוֹ׃",
+    "translit": "Ha'El tamim darko imrat ADONAI țerufa maghen hu lehol hahosim bo.",
+    "tokens": [
+     {
+      "t": "Dumnezeul a cărui cale este perfectă – spusa DOMNULUI este "
+     },
+     {
+      "t": "pură",
+      "w": "pură",
+      "heb": "צְרוּפָה",
+      "translit": "țerufa",
+      "strong": "H6884",
+      "pos": "verb, participiu pasiv qal, feminin singular",
+      "def_ro": "curățită în foc, încercată, pură.",
+      "dict_ro": "Țaraf — „a topi metalul în cuptor, a-l curăța de zgură”. „Cuvântul DOMNULUI e curățit” (imrat Adonai țerufa) înseamnă, după Metzudat David, că, precum argintul curățit nu are zgură, așa în făgăduințele Lui nu e niciun cuvânt deșert. Imaginea apare și în Psalmii 12:6: „Cuvintele DOMNULUI sunt cuvinte curate, ca argintul lămurit în cuptor”, și în Proverbe 30:5, aproape cuvânt cu cuvânt. Radak: toate judecățile Lui sunt făcute cu dreptate și credincioșie, curățite de orice zgură."
+     },
+     {
+      "t": ", El este pavăză pentru toți cei care își caută refugiul la El."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הָאֵל תָּמִים דַּרְכּוֹ אִמְרַת...",
+      "translation": "„Dumnezeul a cărui cale este perfectă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὁ ἰσχυρός, ἄμωμος ἡ ὁδὸς αὐτοῦ, τὸ ῥῆμα Κυρίου κραταιόν, πεπυρωμένον, ὑπερασπιστής ἐστι πᾶσι τοῖς πεποιθόσιν ἐπ’ αὐτόν.",
+      "greek": true,
+      "translation": "„Dumnezeu cel tare, fără prihană [este] calea Lui, cuvântul Domnului [este] tare, lămurit în foc; apărător este tuturor celor ce nădăjduiesc în El.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:30",
+     "Deuteronom 32:4",
+     "Psalmii 12:6",
+     "Psalmii 119:140",
+     "Proverbe 30:5",
+     "Psalmii 91:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Spusa DOMNULUI este pură” — e curată: El făgăduiește și împlinește."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„A cărui cale este perfectă” — să-i răsplătească omului după fapta lui. „Pură” — ca argintul curățit fără zgură, așa nu e în cuvintele făgăduinței Mele niciun cuvânt deșert. „Pavăză” — adăpost ca un scut."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Dumnezeul a cărui cale este perfectă” — care îi plătește fiecăruia după fapta lui; mi-a plătit după dreptatea mea, iar dușmanilor mei după răutatea lor; iar cuvântul Lui e curat, căci în toate judecățile Lui nu e zgură, ci totul e limpede și curat, făcut cu dreptate și credincioșie, curățit și lămurit de orice zgură."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Țerufa” — de la „curățire și lămurire”."
+     }
+    ]
+   },
+   {
+    "v": "22:32",
+    "t": "Căci cine oare este Dumnezeu în afară de DOMNUL, și cine este Stâncă în afară de Dumnezeul nostru?",
+    "heb": "כִּי מִי־אֵל מִבַּלְעֲדֵי יְהוָה וּמִי צוּר מִבַּלְעֲדֵי אֱלֹהֵינוּ׃",
+    "translit": "Ki mi-El mibaladei ADONAI umi țur mibaladei Eloheinu.",
+    "tokens": [
+     {
+      "t": "Căci cine oare este Dumnezeu în afară de DOMNUL, și cine este "
+     },
+     {
+      "t": "Stâncă",
+      "w": "Stâncă",
+      "heb": "צוּר",
+      "translit": "țur",
+      "strong": "H6697",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "stâncă; tărie, ocrotitor.",
+      "dict_ro": "Țur — „stânca”, piatra tare și ascuțită; ca nume al lui Dumnezeu, „Stânca” exprimă statornicia și ocrotirea, și e cuvântul-cheie al cântării Haazinu: „El este Stânca; lucrările Lui sunt desăvârșite” (Deuteronom 32:4). Întrebarea „cine este Stâncă în afară de Dumnezeul nostru?” reia cântarea Anei: „Nu este stâncă ca Dumnezeul nostru” (1 Samuel 2:2). Radak: nu ca aceia care se încredeau în idolii lor; de fiecare dată când am biruit, ei trebuiau să știe că nu este tărie decât în Dumnezeul nostru."
+     },
+     {
+      "t": " în afară de Dumnezeul nostru?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי מִי־אֵל מִבַּלְעֲדֵי יְהוָה...",
+      "translation": "„Căci cine oare este Dumnezeu în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τίς ἰσχυρὸς πλὴν Κυρίου; καὶ τίς κτίστης ἔσται πλὴν τοῦ Θεοῦ ἡμῶν;",
+      "greek": true,
+      "translation": "„Cine [este] tare afară de Domnul? Și cine va fi ziditor afară de Dumnezeul nostru?”",
+      "note": "Septuaginta are „ziditor” (κτίστης) în loc de „Stâncă”, citind țur ca „a forma”."
+     }
+    ],
+    "refs": [
+     "Deuteronom 32:31,39",
+     "1 Samuel 2:2",
+     "Isaia 44:6,8",
+     "Isaia 45:5,6,21",
+     "2 Samuel 22:2,3"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Căci cine oare este Dumnezeu” — care să poată sta împotriva Lui și să-L împiedice să-Și împlinească făgăduința?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Căci cine oare este Dumnezeu” — nu ca aceia care se încredeau în idolii lor; iar când i-am biruit pe dușmanii mei, de fiecare dată, trebuiau să știe că idolii lor sunt minciună și că nu este stâncă decât Dumnezeul nostru; iar după traducerea lui Ionatan: atunci vor mulțumi toate popoarele și vor spune: cine este Dumnezeu în afară de El?"
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mibaladei” — înțelesul e „în afară de”. „Țur” — cu sensul de tărie."
+     }
+    ]
+   },
+   {
+    "v": "22:33",
+    "t": "Dumnezeul care îmi este Fortăreață, și care mi-a dat făcut desăvârșită calea.",
+    "heb": "הָאֵל מָעוּזִּי חָיִל וַיַּתֵּר תָּמִים דַּרְכִּי׃",
+    "translit": "Ha'El mauzi hail vaiater tamim darki.",
+    "tokens": [
+     {
+      "t": "Dumnezeul care îmi este "
+     },
+     {
+      "t": "Fortăreață",
+      "w": "Fortăreață",
+      "heb": "מָעוּזִּי",
+      "translit": "mauzi",
+      "strong": "H4581",
+      "pos": "substantiv, masculin singular, cu sufix persoana I singular",
+      "def_ro": "fortăreața, tăria mea.",
+      "dict_ro": "Maoz — „fortăreața, locul întărit”, de la az, „tare”; imnul de Hanuka Maoz țur („Stâncă, fortăreață a mântuirii mele”) începe cu aceste cuvinte. Metzudat Țion: maoz înseamnă „cel care mă întărește”, iar hail, „putere”. Radak explică a doua parte a versetului („mi-a făcut desăvârșită calea”): mi-a deschis drumul în război și l-a făcut întreg, încât niciunul dintre oamenii mei n-a lipsit în luptă. În Psalmul 18:32 paralel stă „care mă încinge cu putere”."
+     },
+     {
+      "t": ", și care mi-a dat făcut desăvârșită calea."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הָאֵל מָעוּזִּי חָיִל וַיַּתֵּר...",
+      "translation": "„Dumnezeul care îmi este Fortăreață, și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὁ ἰσχυρὸς ὁ κραταιῶν με δυνάμει, καὶ ἐξετίναξεν ἄμωμον τὴν ὁδόν μου·",
+      "greek": true,
+      "translation": "„Dumnezeu cel tare, care mă întărește cu putere și mi-a netezit fără prihană calea.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:32",
+     "Exod 15:2",
+     "Psalmii 27:1",
+     "Isaia 41:10",
+     "Deuteronom 18:13",
+     "2 Corinteni 12:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Mi-a făcut desăvârșită calea” — de orice piedică, de orice păcat și de orice primejdie, până a fost pace și țara a fost cucerită."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Fortăreață” — care mă întărește cu putere. „Mi-a făcut desăvârșită calea” — mă face să sar pe drumul meu, ca să fie desăvârșit, fără poticnire."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Dumnezeul care îmi este Fortăreață” — hail înseamnă „cu putere”, sau: când eram cu oștirea, El era fortăreața mea. „Mi-a făcut desăvârșită calea” — mi-a deschis drumul în război și l-a făcut desăvârșit și întreg, încât niciunul dintre oamenii mei n-a lipsit în luptă; și e scris „calea Lui”, căci calea mea era calea Lui, fiindcă în Numele Lui veneam să lupt."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Mauzi” — cel care mă întărește. „Hail” — putere. „Vaiater” — cu sensul de săritură, ca în „a privit și a făcut să tresară neamurile” (Habacuc 3:6)."
+     }
+    ]
+   },
+   {
+    "v": "22:34",
+    "t": "El mi-a îndreptat picioarele ca pe ale căprioarelor și m-a așezat pe înălțimile mele.",
+    "heb": "מְשַׁוֶּה רַגְלַי כָּאַיָּלוֹת וְעַל בָּמוֹתַי יַעֲמִדֵנִי׃",
+    "translit": "Meșave raglai kaaialot veal bamotai iaamideni.",
+    "tokens": [
+     {
+      "t": "El mi-a îndreptat picioarele ca pe ale "
+     },
+     {
+      "t": "căprioarelor",
+      "w": "căprioarelor",
+      "heb": "כָּאַיָּלוֹת",
+      "translit": "kaaialot",
+      "strong": "H355",
+      "pos": "prepoziție + substantiv, feminin plural",
+      "def_ro": "ca ale căprioarelor.",
+      "dict_ro": "Aiala — „căprioara”, animalul iute și sigur pe picioare pe stânci; Neftali e numit „o căprioară slobodă” (Geneza 49:21). Metzudat David: El îmi face picioarele ușoare, ca să alerg repede după dușman, ca o căprioară. Radak: iar când trebuia să fug, picioarele mele erau ca ale căprioarelor și dușmanii nu mă ajungeau; apoi m-a așezat în siguranță pe înălțimi. Habacuc încheie profeția cu aceleași cuvinte: „El îmi face picioarele ca ale cerbilor și mă face să merg pe înălțimile mele” (Habacuc 3:19)."
+     },
+     {
+      "t": " și m-a așezat pe înălțimile mele."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מְשַׁוֶּה רַגְלַי כָּאַיָּלוֹת וְעַל...",
+      "translation": "„El mi-a îndreptat picioarele ca pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τιθεὶς τοὺς πόδας μου ὡς ἐλάφων καὶ ἐπὶ τὰ ὕψη ἱστῶν με·",
+      "greek": true,
+      "translation": "„Punând picioarele mele ca ale cerbilor și pe cele înalte așezându-mă.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Habacuc 3:19",
+     "2 Samuel 2:18",
+     "Deuteronom 32:13",
+     "Isaia 58:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„El mi-a îndreptat” — îmi face picioarele ușoare, ca să alerg repede după dușman, ca o căprioară care aleargă iute. „Și pe înălțimile mele” — m-a așezat în înălțimea și măreția mea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „El mi-a îndreptat picioarele” — [meșave] ca „pune”, ca în „am pus pe DOMNUL mereu înaintea mea”; a spus: dacă aveam nevoie să fug ca să scap, îmi punea picioarele ca ale căprioarelor și dușmanii nu mă ajungeau. „Și m-a așezat pe înălțimile mele” — iar după aceea, în locul unde scăpasem, pe înălțimile mele, mă așeza acolo în siguranță."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Meșave” — pune; căci „a pus” (Geneza 4:15) Onkelos îl traduce veșavi. „Bamotai” — cu sensul de înălțime."
+     }
+    ]
+   },
+   {
+    "v": "22:35",
+    "t": "El mi-a deprins mâinile pentru luptă, ca arcul de aramă să nu-mi îndoaie brațele.",
+    "heb": "מְלַמֵּד יָדַי לַמִּלְחָמָה וְנִחַת קֶשֶׁת־נְחוּשָׁה זְרֹעֹתָי׃",
+    "translit": "Melamed iadai lamilhama venihat keșet-nehușa zerootai.",
+    "tokens": [
+     {
+      "t": "El mi-a deprins mâinile pentru luptă, ca "
+     },
+     {
+      "t": "arcul de aramă",
+      "w": "arcul de aramă",
+      "heb": "קֶשֶׁת־נְחוּשָׁה",
+      "translit": "keșet-nehușa",
+      "strong": "H7198",
+      "pos": "substantiv, în construcție + substantiv",
+      "def_ro": "arc de aramă.",
+      "dict_ro": "Keșet — „arcul”, arma principală de luptă la distanță; același cuvânt înseamnă și „curcubeul”, „arcul” pus în nori după potop (Geneza 9:13). Un „arc de aramă” era greu de încordat, semn al unei puteri deosebite. Rashi povestește că David avea în palat arcuri atârnate, iar regii străini se întrebau dacă le poate încorda; David le lua și le încorda înaintea lor. Radak explică verbul nihat de la hatat, „a frânge”: mâinile mele au fost atât de deprinse la război, încât nici arcul de aramă nu rezista înaintea mea, ci se rupea în brațele mele."
+     },
+     {
+      "t": " să nu-mi îndoaie brațele."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מְלַמֵּד יָדַי לַמִּלְחָמָה וְנִחַת...",
+      "translation": "„El mi-a deprins mâinile pentru luptă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "διδάσκων χεῖράς μου εἰς πόλεμον καὶ κατάξας τόξον χαλκοῦν ἐν βραχίονί μου.",
+      "greek": true,
+      "translation": "„Învățând mâinile mele la război și sfărâmând arc de aramă cu brațul meu.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:33,34",
+     "Psalmii 144:1",
+     "Psalmii 46:9",
+     "Ezechiel 39:3,9,10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ca arcul de aramă să nu-mi îndoaie brațele” — ca un arc de aramă să poată fi încordat de brațele mele, căci am puterea să-l încordez. David avea arcuri atârnate în palatul lui, iar regii neamurilor veneau să le vadă și se întrebau unul pe altul: crezi că le poate încorda? Aceasta e doar ca să ne sperie. David îi auzea, le lua și le încorda înaintea lor. Încordarea arcului se spune prin cuvântul hatat, ca în „săgețile Tale s-au înfipt în mine” (Psalmii 38:2)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Pentru luptă” — ca să lupt bine, după meșteșugurile războiului. „Ca arcul” — mi-ai dat putere să frâng un arc de aramă când îl încordez ca să trag."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ca arcul de aramă” — în cartea Psalmilor e nihata, căci „arc” se folosește și la masculin, și la feminin; și vrea să spună: atât mi-a deprins mâna la război, încât nici arcul de aramă nu rezista înaintea mea, ci se frângea în brațele mele; „de aramă” înseamnă tare ca arama; rădăcina lui nihat e hatat."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Venihat” — de la „frângere și sfărâmare”."
+     }
+    ]
+   },
+   {
+    "v": "22:36",
+    "t": "Mi-ai dat scutul mântuirii Tale și modestia Ta m-a făcut mare.",
+    "heb": "וַתִּתֶּן־לִי מָגֵן יִשְׁעֶךָ וַעֲנֹתְךָ תַּרְבֵּנִי׃",
+    "translit": "Vatiten-li maghen ișeha vaanotha tarbeni.",
+    "tokens": [
+     {
+      "t": "Mi-ai dat scutul mântuirii Tale și "
+     },
+     {
+      "t": "modestia Ta",
+      "w": "modestia Ta",
+      "heb": "וַעֲנֹתְךָ",
+      "translit": "vaanotha",
+      "strong": "H6038",
+      "pos": "conjuncție + substantiv, feminin singular, cu sufix persoana a II-a masculin singular",
+      "def_ro": "smerenia, bunăvoința Ta.",
+      "dict_ro": "Anava — „smerenia, blândețea”; spus despre Dumnezeu, e coborârea Lui spre om, bunăvoința prin care Cel mare Se apleacă spre cel mic. Rabi Iohanan învață: „oriunde găsești puterea Celui Sfânt, binecuvântat fie El, acolo găsești și smerenia Lui” (Meghila 31a). Metzudat David: smerenia Ta, care Te face să veghezi asupra mea, m-a făcut ca pe un popor mare; deși oamenii mei erau puțini, am biruit ca și cum ar fi fost mulți. Radak aduce și explicația după Targum: „prin Cuvântul Tău m-ai înmulțit”."
+     },
+     {
+      "t": " m-a făcut mare."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתִּתֶּן־לִי מָגֵן יִשְׁעֶךָ וַעֲנֹתְךָ...",
+      "translation": "„Mi-ai dat scutul mântuirii Tale și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἔδωκάς μοι ὑπερασπισμὸν σωτηρίας μου, καὶ ἡ ὑπακοή σου ἐπλήθυνέ με",
+      "greek": true,
+      "translation": "„Și mi-ai dat scutul mântuirii mele, și ascultarea Ta m-a înmulțit.”",
+      "note": "Septuaginta are „ascultarea Ta” (ὑπακοή), citind cuvântul de la ana, „a răspunde”."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:35",
+     "Geneza 15:1",
+     "Psalmii 84:11",
+     "Efeseni 6:16",
+     "Geneza 12:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Modestia Ta m-a făcut mare” — m-ai făcut mare de dragul meu, prin smerenia Ta."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Scutul mântuirii Tale” — mântuirea Ta mi-a fost scut. „Și modestia Ta m-a făcut mare” — smerenia care e în Tine, ca să veghezi asupra mea, m-a făcut ca și cum aș fi fost un popor mare; chiar dacă erau oameni puțini, am biruit dușmanul ca și cum ar fi fost mulți cu mine."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și modestia Ta m-a făcut mare” — după Targum: „prin Cuvântul Tău m-ai înmulțit”; după mine, vaanotha e de la „a răspunde”; iar în cartea Psalmilor e citit veanvateha, de la „răsplata smereniei e frica DOMNULUI”, care înseamnă evlavie și duh smerit; și înțelesul e: smerenia Ta m-a făcut ca un popor mult, căci, deși eram cu un popor puțin și dușmanii mei cu un popor mult, eu biruiam, căci smerenia Ta era cu mine."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vaanotha” — de la „smerenie”. „Tarbeni” — de la „înmulțire”."
+     }
+    ]
+   },
+   {
+    "v": "22:37",
+    "t": "Mi-ai lărgit pasul sub mine și gleznele nu mi s-au poticnit.",
+    "heb": "תַּרְחִיב צַעֲדִי תַּחְתֵּנִי וְלֹא מָעֲדוּ קַרְסֻלָּי׃",
+    "translit": "Tarhiv țaadi tahteni velo maadu karsulai.",
+    "tokens": [
+     {
+      "t": "Mi-ai lărgit pasul sub mine și "
+     },
+     {
+      "t": "gleznele",
+      "w": "gleznele",
+      "heb": "קַרְסֻלָּי",
+      "translit": "karsulai",
+      "strong": "H7166",
+      "pos": "substantiv, dual, cu sufix persoana I singular",
+      "def_ro": "gleznele mele.",
+      "dict_ro": "Karsol — „glezna”, încheietura piciorului; cuvântul apare doar aici și în Psalmul 18:36 paralel. Metzudat Țion: e traducerea aramaică a cuvântului kraaim, „picioarele” de sărit ale lăcustelor curate (Levitic 11:21). Rashi explică imaginea: când omul își ține picioarele strânse, cade mai ușor; de aceea pasul larg dă stabilitate, cum spune Solomon: „Când vei merge, pașii tăi nu vor fi stânjeniți” (Proverbe 4:12)."
+     },
+     {
+      "t": " nu mi s-au poticnit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "תַּרְחִיב צַעֲדִי תַּחְתֵּנִי וְלֹא...",
+      "translation": "„Mi-ai lărgit pasul sub mine și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "εἰς πλατυσμὸν εἰς τὰ διαβήματά μου ὑποκάτω μου, καὶ οὐκ ἐσαλεύθησαν τὰ σκέλη μου.",
+      "greek": true,
+      "translation": "„[M-ai pus] la loc larg pentru pașii mei sub mine, și nu s-au clătinat picioarele mele.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:36",
+     "Proverbe 4:12",
+     "Psalmii 4:1",
+     "1 Samuel 2:9",
+     "Psalmii 17:5",
+     "Psalmii 121:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Mi-ai lărgit pasul” — când omul își ține picioarele strânse, îi e mai ușor să cadă; și așa se spune: „când vei merge, pașii tăi nu vor fi stânjeniți” (Proverbe 4:12). „Gleznele” — gleznele mele."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Mi-ai lărgit pasul” — mi-ai lărgit pașii, ca să nu-mi alunece picioarele și să cad la pământ."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Sub mine” (tahteni) — ca „sub mine”, cu nun și iod, nu după obicei; „gleznele” — picioarele; Ionatan traduce „genunchii mei”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Țaadi” — pașii mei, ca în „când au făcut [cei ce purtau chivotul] șase pași” (2 Samuel 6:13). „Maadu” — cu sensul de alunecare și cădere din loc, ca în „pașii lui nu se clatină” (Psalmii 37:31). „Karsulai” — e traducerea [aramaică] a lui „picioare” (Levitic 11:21)."
+     }
+    ]
+   },
+   {
+    "v": "22:38",
+    "t": "Mi-am urmărit vrăjmașii și i-am ajuns, și nu m-am întors până nu au fost nimiciți.",
+    "heb": "אֶרְדְּפָה אֹיְבַי וָאַשְׁמִידֵם וְלֹא אָשׁוּב עַד־כַּלּוֹתָם׃",
+    "translit": "Erdefa oivai vaașmidem velo așuv ad-kalotam.",
+    "tokens": [
+     {
+      "t": "Mi-am urmărit vrăjmașii și i-am ajuns, și nu m-am întors până nu au fost "
+     },
+     {
+      "t": "nimiciți",
+      "w": "nimiciți",
+      "heb": "כַּלּוֹתָם",
+      "translit": "kalotam",
+      "strong": "H3615",
+      "pos": "verb, infinitiv piel, cu sufix persoana a III-a masculin plural",
+      "def_ro": "până la nimicirea lor.",
+      "dict_ro": "Kala — „a sfârși, a termina, a nimici”; același verb descrie încheierea creației: „Dumnezeu a isprăvit (vaiehal) lucrarea Sa” (Geneza 2:2). Versetul rezumă războaiele lui David cu filistenii, moabiții, arameii și edomiții (2 Samuel 8:1-14), duse până la capăt, fără întoarcere la jumătate. Metzudat Țion îl explică prin kilaion, „nimicire”. Versetele 38-43 descriu biruința în termenii războiului antic, ca împlinire a făgăduinței că DOMNUL îi va da odihnă de toți dușmanii (2 Samuel 7:1)."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אֶרְדְּפָה אֹיְבַי וָאַשְׁמִידֵם וְלֹא...",
+      "translation": "„Mi-am urmărit vrăjmașii și i-am ajuns...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "διώξω ἐχθρούς μου καὶ ἀφανιῶ αὐτοὺς καὶ οὐκ ἀναστρέψω ἕως ἂν συντελέσω αὐτούς·",
+      "greek": true,
+      "translation": "„Voi urmări pe vrăjmașii mei și îi voi nimici, și nu mă voi întoarce până nu-i voi sfârși.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "2 Samuel 8:1,2,13,14",
+     "2 Samuel 5:18-25",
+     "Psalmii 21:8,9",
+     "Romani 8:37"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat Țion",
+      "text": "„Kalotam” — de la „nimicire”."
+     }
+    ]
+   },
+   {
+    "v": "22:39",
+    "t": "I-am distrus, i-am pus la pământ și nu s-au mai ridicat și au căzut sub picioarele mele.",
+    "heb": "וָאֲכַלֵּם וָאֶמְחָצֵם וְלֹא יְקוּמוּן וַיִּפְּלוּ תַּחַת רַגְלָי׃",
+    "translit": "Vaahallem vaemhațem velo iekumun vaipelu tahat raglai.",
+    "tokens": [
+     {
+      "t": "I-am distrus, "
+     },
+     {
+      "t": "i-am pus la pământ",
+      "w": "i-am pus la pământ",
+      "heb": "וָאֶמְחָצֵם",
+      "translit": "vaemhațem",
+      "strong": "H4272",
+      "pos": "conjuncție + verb, imperfect qal consecutiv, persoana I singular, cu sufix",
+      "def_ro": "i-am zdrobit, i-am lovit de moarte.",
+      "dict_ro": "Mahaț — „a zdrobi, a lovi de moarte”, verbul din cântarea Haazinu: „Eu rănesc (mahațti) și Eu vindec” (Deuteronom 32:39) și din binecuvântarea lui Moise: „zdrobește (mehaț) coapsele celor ce se ridică împotriva lui” (Deuteronom 33:11). Metzudat Țion: cu sensul de lovire și rănire, ca în „zdrobește capul” (Psalmii 110:6). Imaginea dușmanilor „sub picioare” e reluată în Psalmul 110:1: „până voi pune pe vrăjmașii Tăi sub picioarele Tale”."
+     },
+     {
+      "t": " și nu s-au mai ridicat și au căzut sub picioarele mele."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וָאֲכַלֵּם וָאֶמְחָצֵם וְלֹא יְקוּמוּן...",
+      "translation": "„I-am distrus, i-am pus la pământ...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ θλάσω αὐτοὺς καὶ οὐκ ἀναστήσονται καὶ πεσοῦνται ὑπὸ τοὺς πόδας μου.",
+      "greek": true,
+      "translation": "„Și îi voi zdrobi, și nu se vor ridica, și vor cădea sub picioarele mele.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:37",
+     "Psalmii 110:1,5,6",
+     "Psalmii 118:10-12",
+     "Maleahi 4:1,3"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vaemhațem” — cu sensul de lovire și rănire, ca în „zdrobește capul” (Psalmii 110:6)."
+     }
+    ]
+   },
+   {
+    "v": "22:40",
+    "t": "M-ai încins cu tărie pentru luptă, mi-ai făcut vrăjmașii să îngenunchieze sub mine.",
+    "heb": "וַתַּזְרֵנִי חַיִל לַמִּלְחָמָה תַּכְרִיעַ קָמַי תַּחְתֵּנִי׃",
+    "translit": "Vatazreni hail lamilhama tahria kamai tahteni.",
+    "tokens": [
+     {
+      "t": "M-ai încins",
+      "w": "M-ai încins",
+      "heb": "וַתַּזְרֵנִי",
+      "translit": "vatazreni",
+      "strong": "H247",
+      "pos": "conjuncție + verb, imperfect piel consecutiv, persoana a II-a masculin singular, cu sufix",
+      "def_ro": "m-ai încins.",
+      "dict_ro": "Azar — „a încinge”; a-ți strânge brâul peste haine era pregătirea pentru muncă sau luptă, ca în „încinge-ți coapsele ca un bărbat” (Iov 38:3). Aici e scris vatazreni, fără alef, pe când în Psalmul 18:32 stă hameazreni; Radak explică dispariția alefului pentru ușurarea pronunției, iar tatăl său citea cuvântul de la zara, „a presăra”: ai răspândit putere în toate mădularele mele. Metzudat David: m-ai încins cu putere de luptă și i-ai făcut pe cei care mă urau să cadă îngenuncheați sub mine."
+     },
+     {
+      "t": " cu tărie pentru luptă, mi-ai făcut vrăjmașii să îngenunchieze sub mine."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתַּזְרֵנִי חַיִל לַמִּלְחָמָה תַּכְרִיעַ...",
+      "translation": "„M-ai încins cu tărie pentru luptă...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐνισχύσεις με δυνάμει εἰς πόλεμον, κάμψεις τοὺς ἐπιστανομένους μοι ὑποκάτω μου·",
+      "greek": true,
+      "translation": "„Și mă vei întări cu putere pentru război, vei îndoi sub mine pe cei ce se ridică asupra mea.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:32,39",
+     "1 Samuel 17:49-51",
+     "Psalmii 44:5",
+     "Isaia 60:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„M-ai încins” — m-ai încins cu putere ca să lupt și pe cei care mă urăsc îi faci să cadă îngenuncheați sub mine."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „M-ai încins” (vatazreni) — ar trebui să fie vateazreni, ca în „m-ai încins cu bucurie”, din forma intensivă; pentru ușurare s-a ascuns alef-ul, iar sunetul lui a trecut pe tav. „Tărie” (hail) — putere, cum traduce [Ionatan], haila. Tatăl meu, de binecuvântată amintire, l-a scris ca formă cauzativă de la zara, „a presăra”: ai presărat în mine tărie și putere în toate mădularele, ca să fac război."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vatazreni” — de la „brâu și încingere”. „Tahria” — cu sensul de cădere pe genunchi. „Kamai” — dușmanii care se ridică împotriva mea."
+     }
+    ]
+   },
+   {
+    "v": "22:41",
+    "t": "Iar dușmanii mei – i-ai făcut să-mi arate ceafa, pe cei ce mă urăsc i-am zdrobit.",
+    "heb": "וְאֹיְבַי תַּתָּה לִּי עֹרֶף מְשַׂנְאַי וָאַצְמִיתֵם׃",
+    "translit": "Veoivai tata li oref mesanai vaațmitem.",
+    "tokens": [
+     {
+      "t": "Iar dușmanii mei – i-ai făcut să-mi arate "
+     },
+     {
+      "t": "ceafa",
+      "w": "ceafa",
+      "heb": "עֹרֶף",
+      "translit": "oref",
+      "strong": "H6203",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "ceafa, spatele gâtului.",
+      "dict_ro": "Oref — „ceafa”, spatele gâtului; „a arăta ceafa” înseamnă a fugi, a întoarce spatele dușmanului. Iacov îi binecuvântase pe Iuda, strămoșul lui David: „mâna ta va fi pe ceafa vrăjmașilor tăi” (Geneza 49:8), iar Dumnezeu făgăduise la Sinai: „voi face ca toți vrăjmașii tăi să-ți întoarcă spatele (oref)” (Exod 23:27). Același cuvânt dă expresia „cu ceafa tare” (keșe oref), pentru un popor încăpățânat (Exod 32:9). Metzudat David: ei fug și îmi întorc ceafa, iar eu, deși fug, îi ajung și îi nimicesc."
+     },
+     {
+      "t": ", pe cei ce mă urăsc i-am zdrobit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֹיְבַי תַּתָּה לִּי עֹרֶף...",
+      "translation": "„Iar dușmanii mei – i-ai făcut...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ τοὺς ἐχθρούς μου ἔδωκάς μοι νῶτον, τοὺς μισοῦντάς με, καὶ ἐθανάτωσας αὐτούς.",
+      "greek": true,
+      "translation": "„Și pe vrăjmașii mei mi i-ai dat cu spatele, pe cei ce mă urăsc, și i-ai omorât.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:40,41",
+     "Geneza 49:8",
+     "Exod 23:27",
+     "Iosua 10:24",
+     "Psalmii 21:8,9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„I-ai făcut să-mi arate ceafa” — căci vor fugi și îmi vor întoarce ceafa. „Pe cei ce mă urăsc” — adică tot așa pe cei care mă urăsc i-ai făcut să-mi arate ceafa; e același lucru spus în cuvinte diferite, după felul cântării. „I-am zdrobit” — adică, deși fug, îi ajung și îi nimicesc."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „I-ai făcut” (tata) — ca „ai dat” (natata), fără prima literă a rădăcinii, nu după obicei."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tata” — ai dat. „Oref” — e partea de dinapoi a feței. „Vaațmitem” — cu sensul de nimicire, ca în „pe acela îl voi nimici” (Psalmii 101:5)."
+     }
+    ]
+   },
+   {
+    "v": "22:42",
+    "t": "S-au uitat în jur, dar nu este salvator; spre DOMNUL, dar nu le-a răspuns.",
+    "heb": "יִשְׁעוּ וְאֵין מֹשִׁיעַ אֶל־יְהוָה וְלֹא עָנָם׃",
+    "translit": "Ișu veein moșia el-ADONAI velo anam.",
+    "tokens": [
+     {
+      "t": "S-au uitat",
+      "w": "S-au uitat",
+      "heb": "יִשְׁעוּ",
+      "translit": "ișu",
+      "strong": "H8159",
+      "pos": "verb, imperfect qal, persoana a III-a masculin plural",
+      "def_ro": "au privit (după ajutor).",
+      "dict_ro": "Șaa — „a privi cu nădejde, a se uita după ajutor”, ca în „DOMNUL a privit (vaișa) spre Abel și spre jertfa lui” (Geneza 4:4). Rashi arată că verbul poate fi spus și despre cel care se roagă, și despre Cel care ascultă, și rearanjează versetul: „vor striga către DOMNUL, dar El nu le va răspunde, și nu va fi cine să-i scape”. Radak: DOMNUL nu le răspunde pentru că sunt răi și strigă la El fără ca inima lor să fie îndreptată spre El. Psalmul 18:41 are „strigă” (ieșavu) în loc de „s-au uitat”."
+     },
+     {
+      "t": " în jur, dar nu este salvator; spre DOMNUL, dar nu le-a răspuns."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יִשְׁעוּ וְאֵין מֹשִׁיעַ אֶל־יְהוָה...",
+      "translation": "„S-au uitat în jur, dar nu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "βοήσονται, καὶ οὐκ ἔστι βοηθός, πρὸς Κύριον, καὶ οὐκ ἐπήκουσεν αὐτῶν.",
+      "greek": true,
+      "translation": "„Vor striga, și nu va fi ajutor; către Domnul, și nu i-a ascultat.”",
+      "note": "Septuaginta are „vor striga” (βοήσονται), ca Psalmul 18:41."
+     }
+    ],
+    "refs": [
+     "1 Samuel 28:6",
+     "Iov 27:9",
+     "Proverbe 1:28",
+     "Isaia 1:15",
+     "Mica 3:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „S-au uitat în jur, dar nu este salvator” — cuvintele versetului nu sunt scrise în ordine: [ordinea ar fi] „vor striga către DOMNUL, dar El nu le va răspunde, și nu va fi cine să-i salveze”, ca în „omul își va întoarce privirea spre Făcătorul său” (Isaia 17:7), adică „se va întoarce”. Menahem l-a legat de „DOMNUL a privit spre Abel” (Geneza 4:4) și l-a explicat ca „ascultare”; cuvântul se poate spune și despre cel care ascultă, și despre cel ascultat, ca în „Isaac s-a rugat DOMNULUI... și DOMNUL l-a ascultat” (Geneza 25:21)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„S-au uitat în jur” — se vor întoarce spre regii pământului. „Spre DOMNUL” — adică după o vreme se vor întoarce spre DOMNUL ca să se roage Lui, dar El nu le va răspunde."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „S-au uitat în jur” — adică vor privi, ca în „nu privesc spre Sfântul lui Israel” și „nu se va uita spre altare”; înțelesul e: vor privi spre DOMNUL, dar El nu-i va salva. „Spre DOMNUL, dar nu le-a răspuns” — pentru că sunt răi și strigă către DOMNUL, dar inima lor nu e îndreptată spre El."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ișu” — cu sensul de întoarcere, ca în „nu se va uita spre altare” (Isaia 17:8). „Anam” — de la „răspuns”."
+     }
+    ]
+   },
+   {
+    "v": "22:43",
+    "t": "I-am pisat ca pe pulberea pământului, ca pe noroiul străzilor i-am subțiat și i-am strivit.",
+    "heb": "וְאֶשְׁחָקֵם כַּעֲפַר־אָרֶץ כְּטִיט־חוּצוֹת אֲדִקֵּם אֶרְקָעֵם׃",
+    "translit": "Veeșhakem kaafar-areț ketit-huțot adikem erkaem.",
+    "tokens": [
+     {
+      "t": "I-am pisat ca pe pulberea pământului, ca pe "
+     },
+     {
+      "t": "noroiul străzilor",
+      "w": "noroiul străzilor",
+      "heb": "כְּטִיט־חוּצוֹת",
+      "translit": "ketit-huțot",
+      "strong": "H2916",
+      "pos": "prepoziție + substantiv, în construcție + substantiv",
+      "def_ro": "ca noroiul străzilor.",
+      "dict_ro": "Tit — „noroiul, lutul”, materialul olarului și murdăria ulițelor; imaginea celor călcați „ca noroiul de pe ulițe” apare și în Mica 7:10 și Zaharia 10:5. Verbul arkaem („i-am strivit”) înseamnă „a bate subțire, a întinde prin ciocănire”, ca foile de aur bătute pentru efod (Exod 39:3; Metzudat Țion, Radak), iar de aceeași rădăcină este rakia, „bolta cerului”, cerul întins ca o foaie (Geneza 1:6). Metzudat David: îi voi face mărunți ca pulberea și îi voi întinde pe fața pământului."
+     },
+     {
+      "t": " i-am subțiat și i-am strivit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶשְׁחָקֵם כַּעֲפַר־אָרֶץ כְּטִיט־חוּצוֹת אֲדִקֵּם...",
+      "translation": "„I-am pisat ca pe pulberea pământului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐλέανα αὐτοὺς ὡς χοῦν γῆς, ὡς πηλὸν ἐξόδων ἐλέπτυνα αὐτούς.",
+      "greek": true,
+      "translation": "„Și i-am tocat ca țărâna pământului, ca noroiul ulițelor i-am subțiat.”",
+      "note": "Septuaginta nu are „i-am strivit” (arkaem) de la sfârșitul versetului."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:42",
+     "Mica 7:10",
+     "Zaharia 10:5",
+     "Daniel 2:35",
+     "Isaia 10:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „I-am strivit” — i-am călcat în picioare; sunt multe asemenea [expresii] în cartea lui Ezechiel: „bate din picior” (Ezechiel 6:11) și „ai bătut cu piciorul” (Ezechiel 25:6)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ca pe pulberea pământului” — să fie mărunți ca pulberea. „Ca pe noroiul străzilor” — ca noroiul aruncat pe ulițe, îi voi face mărunți și îi voi întinde pe fața pământului."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „I-am subțiat” (adikem) — ca în „l-a sfărâmat în pulbere”. „I-am strivit” (arkaem) — din aceeași rădăcină ca „au bătut foile de aur”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Veeșhakem” — cu sensul de pisare, ca în „să pisezi o parte din el foarte mărunt” (Exod 30:36). „Adikem” — de la „mărunt”. „Arkaem” — cu sensul de întindere și lățire, ca în „au bătut foile de aur” (Exod 39:3)."
+     }
+    ]
+   },
+   {
+    "v": "22:44",
+    "t": "Tu m-ai salvat de certurile poporului meu, m-ai ținut să fiu căpetenie neamurilor, un popor pe care nu-l cunoșteam mă slujește.",
+    "heb": "וַתְּפַלְּטֵנִי מֵרִיבֵי עַמִּי תִּשְׁמְרֵנִי לְרֹאשׁ גּוֹיִם עַם לֹא־יָדַעְתִּי יַעַבְדֻנִי׃",
+    "translit": "Vatefaleteni merivei ami tișmereni leroș goim am lo-iadati iaavduni.",
+    "tokens": [
+     {
+      "t": "Tu m-ai salvat de certurile poporului meu, m-ai ținut să fiu "
+     },
+     {
+      "t": "căpetenie neamurilor",
+      "w": "căpetenie neamurilor",
+      "heb": "לְרֹאשׁ גּוֹיִם",
+      "translit": "leroș goim",
+      "strong": "H7218",
+      "pos": "prepoziție + substantiv, în construcție + substantiv",
+      "def_ro": "cap, căpetenie peste neamuri.",
+      "dict_ro": "Roș — „capul”, și de aici „căpetenia”, cel care stă în frunte; făgăduința din Deuteronom era: „DOMNUL te va face să fii cap, nu coadă” (Deuteronom 28:13). David a stăpânit peste filisteni, moabiți, arameii din Țoba și Damasc și peste edomiți (2 Samuel 8:1-14). Rashi aduce un midraș: David s-a rugat să fie căpetenie mai degrabă peste neamuri decât peste Israel, căci pentru o domnie aspră peste Israel ar fi fost pedepsit. „Certurile poporului meu” sunt, după Rashi, Doeg, Ahitofel, Șaul și locuitorii din Zif; în Psalmul 18:43 stă „m-ai pus” (tesimeni) în loc de „m-ai ținut” (tișmereni)."
+     },
+     {
+      "t": ", un popor pe care nu-l cunoșteam mă slujește."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וַתְּפַלְּטֵנִי מֵרִיבֵי עַמִּי תִּשְׁמְרֵנִי...",
+      "translation": "„Tu m-ai salvat de certurile poporului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ρύσῃ με ἐκ μάχης λαῶν, φυλάξεις με εἰς κεφαλὴν ἐθνῶν. λαός, ὃν οὐκ ἔγνω, ἐδούλευσάν μοι",
+      "greek": true,
+      "translation": "„Și mă vei izbăvi de lupta popoarelor, mă vei păzi [să fiu] cap al neamurilor; un popor pe care nu l-am cunoscut mi-a slujit.”",
+      "note": "Septuaginta are „lupta popoarelor” (λαῶν) în loc de „certurile poporului meu”."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:43",
+     "Psalmii 2:8",
+     "Deuteronom 28:13",
+     "Isaia 55:5",
+     "2 Samuel 8:1-14",
+     "Psalmii 72:8,9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „De certurile [poporului meu]” — de Doeg, Ahitofel, Șaul și locuitorii din Zif. „M-ai ținut să fiu căpetenie neamurilor” — m-a păstrat ascuns pentru aceasta. Midrașul Agada [explică]: David a spus: Stăpân al lumii, cruță-mă de judecata pentru Israel, căci dacă îi voi face să se abată sau îi voi stăpâni aspru în slujba mea, voi fi pedepsit; ci fă-mă căpetenie peste filisteni și să-mi slujească ei, căci pentru ei nu voi fi pedepsit."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De certurile poporului meu” — de oamenii de război dintre fiii poporului meu, care luptau cu mine. „M-ai ținut” — m-ai păzit din mâna tuturor, până m-ai adus să fiu căpetenie. „Un popor pe care nu-l cunoșteam” — adică poporul care e dintr-o țară îndepărtată."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „De certurile poporului meu” — ca „popoarelor”, și tot așa „cel ce-mi supune popoarele”; se poate explica și după înțelesul simplu: Șaul și cei care îl sprijineau. „M-ai ținut să fiu căpetenie neamurilor” — iar în cartea Psalmilor „m-ai pus”; înțelesul lui „m-ai ținut” e: m-ai păzit și Ți-ai pus ochii asupra mea spre bine, până am ajuns căpetenie a neamurilor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vatefalteni” — cu sensul de salvare."
+     }
+    ]
+   },
+   {
+    "v": "22:45",
+    "t": "Copiii străinului mă lingușesc, atunci când urechile lor aud de mine, mă ascultă.",
+    "heb": "בְּנֵי נֵכָר יִתְכַּחֲשׁוּ־לִי לִשְׁמוֹעַ אֹזֶן יִשָּׁמְעוּ לִי׃",
+    "translit": "Benei nehar itkahasu-li lișmoa ozen ișameu li.",
+    "tokens": [
+     {
+      "t": "Copiii străinului "
+     },
+     {
+      "t": "mă lingușesc",
+      "w": "mă lingușesc",
+      "heb": "יִתְכַּחֲשׁוּ־לִי",
+      "translit": "itkahașu-li",
+      "strong": "H3584",
+      "pos": "verb, imperfect hitpael, persoana a III-a masculin plural + prepoziție cu sufix",
+      "def_ro": "se prefac supuși, mă mint de frică.",
+      "dict_ro": "Kahaș — „a minți, a nega, a se preface”; la forma reflexivă, supunerea prefăcută a celui învins, care spune ce vrea să audă stăpânul. Rashi și Metzudat David: de frică îmi spun minciuni, ca omul temător care se dezvinovățește înaintea celui de care se teme chiar cu vorbe mincinoase; Radak: vor spune „n-am păcătuit împotriva ta”. Aceeași expresie apare în Deuteronom 33:29, la sfârșitul binecuvântării lui Moise: „vrăjmașii tăi se vor preface supuși ție (ikahașu)”."
+     },
+     {
+      "t": ", atunci când urechile lor aud de mine, mă ascultă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּנֵי נֵכָר יִתְכַּחֲשׁוּ־לִי לִשְׁמוֹעַ...",
+      "translation": "„Copiii străinului mă lingușesc, atunci când...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "υἱοὶ ἀλλότριοι ἐψεύσαντό μοι, εἰς ἀκοὴν ὠτίου ἤκουσάν μου·",
+      "greek": true,
+      "translation": "„Fiii străini m-au mințit, la auzul urechii m-au ascultat.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:44,45",
+     "Deuteronom 33:29",
+     "Psalmii 66:3",
+     "Psalmii 81:15",
+     "Isaia 56:3,6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Mă lingușesc” — de frică îmi spun minciuni. „Atunci când urechile lor aud de mine, mă ascultă” — chiar când nu sunt înaintea mea, se tem de mine, încât, de îndată ce urechile lor aud [voia mea], se mișcă [să împlinească] porunca mea."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Mă lingușesc” — ca omul temător, care se dezvinovățește înaintea celui de care se teme, chiar cu vorbe mincinoase, din pricina fricii. „Atunci când urechile lor aud” — pentru că aud de puterea mea mare și de tăria mâinii mele, de aceea mă vor asculta în tot ce le voi porunci."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Mă lingușesc” — de frica mea mă vor minți și vor spune: n-am păcătuit împotriva ta. „Atunci când urechile lor aud” — iar în cartea Psalmilor „la auzul urechii”, și e un substantiv."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Itkahașu” — de la „minciună și prefăcătorie”."
+     }
+    ]
+   },
+   {
+    "v": "22:46",
+    "t": "Copiii străinului se usucă și sunt îngroziți chiar și în fortărețele lor.",
+    "heb": "בְּנֵי נֵכָר יִבֹּלוּ וְיַחְגְּרוּ מִמִּסְגְּרוֹתָם׃",
+    "translit": "Benei nehar ibolu veiahgheru mimisgherotam.",
+    "tokens": [
+     {
+      "t": "Copiii străinului "
+     },
+     {
+      "t": "se usucă",
+      "w": "se usucă",
+      "heb": "יִבֹּלוּ",
+      "translit": "ibolu",
+      "strong": "H5034",
+      "pos": "verb, imperfect qal, persoana a III-a masculin plural",
+      "def_ro": "se veștejesc, se ofilesc.",
+      "dict_ro": "Navel — „a se veșteji, a se ofili”, ca frunza sau floarea care se usucă: „iarba se usucă, floarea se veștejește (navel), dar cuvântul Dumnezeului nostru rămâne în veac” (Isaia 40:8, din Haftarat Vaethanan). Rashi citează Ieremia 8:13 („frunza se va veșteji”). Verbul iahgheru e citit de Rashi ca „vor șchiopăta”, de la ighem, „șchiop”, iar de Radak, cu literele inversate, ca „vor tremura”, ca în Psalmul 18:45 paralel (iahreghu). Metzudat David: vor fi chinuiți și pierduți, ca cei închiși în lanțuri de fier."
+     },
+     {
+      "t": " și sunt îngroziți chiar și în fortărețele lor."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "בְּנֵי נֵכָר יִבֹּלוּ וְיַחְגְּרוּ...",
+      "translation": "„Copiii străinului se usucă și sunt...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "υἱοὶ ἀλλότριοι ἀπορριφήσονται καὶ σφαλοῦσιν ἐκ τῶν συγκλεισμῶν αὐτῶν.",
+      "greek": true,
+      "translation": "„Fiii străini vor fi lepădați și se vor poticni din ascunzișurile lor.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 64:6",
+     "Iacov 1:11",
+     "Mica 7:17",
+     "Isaia 2:19,21"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Se usucă” — se vor veșteji, ca în „voi fi veștejit” (Ieremia 8:13). „Și sunt îngroziți” — [vor fi] șchiopi. „Chiar și în fortărețele lor” — din chinurile închisorii pe care le voi aduce asupra lor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Se usucă” — adică vor fi chinuiți și pierduți. „Și sunt îngroziți” — vor fi șchiopi pentru că vor fi închiși în mâinile mele în lanțuri de fier."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Copiii străinului se usucă” — iar acei fii ai străinilor care nu mă ascultă se vor veșteji, ca frunza care se veștejește; „și sunt îngroziți chiar și în fortărețele lor” — adică sunt închiși de frică; „vor fi îngroziți” (iahgheru) e ca iahreghu, cu literele răsturnate, cum e scris în cartea Psalmilor, și e expresia mișcării fricii, după traducerea [aramaică]: „vor tremura în fortărețele lor”, cum traduce Ionatan."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ibolu” — cu sensul de veștejire, ca în „și frunza se va veșteji” (Ieremia 8:13). „Veiahgheru” — de la „șchiop și olog”."
+     }
+    ]
+   },
+   {
+    "v": "22:47",
+    "t": "DOMNUL este viu! Binecuvântată este Stânca mea și înălțat este Dumnezeul meu, Stânca salvării mele.",
+    "heb": "חַי־יְהוָה וּבָרוּךְ צוּרִי וְיָרֻם אֱלֹהֵי צוּר יִשְׁעִי׃",
+    "translit": "Hai-ADONAI uvaruh țuri veiarum Elohei țur iși.",
+    "tokens": [
+     {
+      "t": "DOMNUL este viu",
+      "w": "DOMNUL este viu",
+      "heb": "חַי־יְהוָה",
+      "translit": "hai-ADONAI",
+      "strong": "H2416",
+      "pos": "adjectiv + nume divin",
+      "def_ro": "Viu este DOMNUL.",
+      "dict_ro": "Hai — „viu”; „Viu este DOMNUL” (hai Adonai) era de obicei formula de jurământ („viu este DOMNUL, că...”, 1 Samuel 14:39), dar aici e o exclamație de laudă (Radak: „versetul acesta e un cuvânt de recunoștință și laudă”). Viul Dumnezeu e pus în contrast cu idolii fără viață; în cântarea Haazinu, Dumnezeu spune: „Cu adevărat, Eu trăiesc în veac” (Deuteronom 32:40). Iov a mărturisit același lucru: „Știu că Răscumpărătorul meu este viu” (Iov 19:25)."
+     },
+     {
+      "t": "! Binecuvântată este Stânca mea și înălțat este Dumnezeul meu, Stânca salvării mele."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "חַי־יְהוָה וּבָרוּךְ צוּרִי וְיָרֻם...",
+      "translation": "„DOMNUL este viu! Binecuvântată este Stânca...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ζῇ Κύριος, καὶ εὐλογητὸς ὁ φύλαξ μου, καὶ ὑψωθήσεται ὁ Θεός μου, ὁ φύλαξ τῆς σωτηρίας μου.",
+      "greek": true,
+      "translation": "„Viu [este] Domnul și binecuvântat [este] păzitorul meu, și înălțat va fi Dumnezeul meu, păzitorul mântuirii mele.”",
+      "note": "Septuaginta are „păzitorul meu” (φύλαξ) în loc de „Stânca mea”."
+     }
+    ],
+    "refs": [
+     "Deuteronom 32:39,40",
+     "Iov 19:25",
+     "Psalmii 89:26",
+     "Luca 1:47"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „DOMNUL este viu” — care face toate acestea pentru mine."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„DOMNUL este viu” — adică oare nu e DOMNUL viu în veac? Și așa va face în toate zilele. „Binecuvântată este Stânca mea” — și tot așa DOMNUL va fi Stânca mea, binecuvântat în veac. „Și înălțat” — căci atunci când face răzbunare asupra neamurilor, e înălțat și ridicat."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „DOMNUL este viu” — versetul acesta e un cuvânt de mulțumire și laudă, adică: DOMNUL, Stânca mea și Dumnezeul salvării mele, El e viu, binecuvântat și înălțat."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Țuri” — tăria mea."
+     }
+    ]
+   },
+   {
+    "v": "22:48",
+    "t": "Dumnezeule care mă răzbuni și îmi supui popoare,",
+    "heb": "הָאֵל הַנֹּתֵן נְקָמֹת לִי וּמוֹרִיד עַמִּים תַּחְתֵּנִי׃",
+    "translit": "Ha'El hanoten nekamot li umorid amim tahteni.",
+    "tokens": [
+     {
+      "t": "Dumnezeule care "
+     },
+     {
+      "t": "mă răzbuni",
+      "w": "mă răzbuni",
+      "heb": "נְקָמֹת",
+      "translit": "nekamot",
+      "strong": "H5360",
+      "pos": "substantiv, feminin plural",
+      "def_ro": "răzbunări, pedepse drepte.",
+      "dict_ro": "Nekama — „răzbunarea”, dar în Scriptură răzbunarea e a lui Dumnezeu, nu a omului: „A Mea este răzbunarea și răsplătirea” (Deuteronom 32:35, din cântarea Haazinu). David însuși refuzase de două ori să-și facă singur dreptate asupra lui Șaul, iar Abigail îi mulțumise că a fost oprit „să verse sânge și să se răzbune cu mâna lui” (1 Samuel 25:26,30-33). Metzudat David: „Cel care îmi dă răzbunări” înseamnă „Cel care Își face răzbunarea pentru mine”; iar Psalmul 94:1 Îl numește „Dumnezeul răzbunărilor”."
+     },
+     {
+      "t": " și îmi supui popoare,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הָאֵל הַנֹּתֵן נְקָמֹת לִי...",
+      "translation": "„Dumnezeule care mă răzbuni și îmi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἰσχυρὸς Κύριος ὁ διδοὺς ἐκδικήσεις ἐμοί, παιδεύων λαοὺς ὑποκάτω μου",
+      "greek": true,
+      "translation": "„Tare [este] Domnul, Cel ce îmi dă răzbunări, Cel ce ceartă popoarele sub mine.”",
+      "note": "Septuaginta are „Cel ce ceartă popoarele” (παιδεύων) în loc de „Cel ce îmi supune popoarele”."
+     }
+    ],
+    "refs": [
+     "1 Samuel 25:30",
+     "Psalmii 94:1",
+     "Psalmii 144:2",
+     "Psalmii 110:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Dumnezeule care mă răzbuni” — adică Cel care Își face răzbunarea pentru mine."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Umorid” — de la „coborâre”."
+     }
+    ]
+   },
+   {
+    "v": "22:49",
+    "t": "și mă scoți de sub dușmanii mei, și mă ridici peste vrăjmașii mei, de omul plin de violență mă scapi.",
+    "heb": "וּמוֹצִיאִי מֵאֹיְבַי וּמִקָּמַי תְּרוֹמְמֵנִי מֵאִישׁ חֲמָסִים תַּצִּילֵנִי׃",
+    "translit": "Umoții meoivai umikamai teromemeni meiș hamasim tațileni.",
+    "tokens": [
+     {
+      "t": "și mă scoți de sub dușmanii mei, și mă ridici peste vrăjmașii mei, de "
+     },
+     {
+      "t": "omul plin de violență",
+      "w": "omul plin de violență",
+      "heb": "מֵאִישׁ חֲמָסִים",
+      "translit": "meiș hamasim",
+      "strong": "H2555",
+      "pos": "prepoziție + substantiv, în construcție + substantiv, masculin plural",
+      "def_ro": "omul silniciilor.",
+      "dict_ro": "Hamas — „silnicia, nedreptatea făcută cu forța”; „omul silniciilor”, la plural, e cel care face nedreptate după nedreptate. Radak explică versetul 50 ca mulțumire pentru că Dumnezeu l-a salvat de oamenii silniciei. Versetul reia cuvântul din versetul 3, „Salvatorul meu, care mă salvează de violență”, închizând cântarea în cerc. Psalmul 140:1 cere: „Scapă-mă, DOAMNE, de omul rău, păzește-mă de omul silniciilor”."
+     },
+     {
+      "t": " mă scapi."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּמוֹצִיאִי מֵאֹיְבַי וּמִקָּמַי תְּרוֹמְמֵנִי...",
+      "translation": "„și mă scoți de sub dușmanii...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἐξάγων με ἐξ ἐχθρῶν μου, καὶ ἐκ τῶν ἐπεγειρομένων μοι ὑψώσεις με, ἐξ ἀνδρὸς ἀδικημάτων ρύσῃ με.",
+      "greek": true,
+      "translation": "„Și Cel ce mă scoate de la vrăjmașii mei, și de cei ce se ridică asupra mea mă vei înălța; de bărbatul nedreptăților mă vei izbăvi.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:48",
+     "2 Samuel 7:8,9",
+     "1 Samuel 2:8",
+     "Psalmii 140:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și mă ridici peste vrăjmașii mei” — mă înalți mai sus decât cei care se ridică împotriva mea."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Umikamai” — dușmanii care se ridică împotriva mea."
+     }
+    ]
+   },
+   {
+    "v": "22:50",
+    "t": "De aceea, Îți voi mulțumi, DOAMNE, între neamuri, și numelui Tău voi cânta.",
+    "heb": "עַל־כֵּן אוֹדְךָ יְהוָה בַּגּוֹיִם וּלְשִׁמְךָ אֲזַמֵּר׃",
+    "translit": "Al-ken odha ADONAI bagoim uleșimha azamer.",
+    "tokens": [
+     {
+      "t": "De aceea, "
+     },
+     {
+      "t": "Îți voi mulțumi",
+      "w": "Îți voi mulțumi",
+      "heb": "אוֹדְךָ",
+      "translit": "odeha",
+      "strong": "H3034",
+      "pos": "verb, imperfect hifil, persoana I singular, cu sufix",
+      "def_ro": "Te voi lăuda, Îți voi mulțumi.",
+      "dict_ro": "Iada — „a mulțumi, a mărturisi”; de aici vine toda, „mulțumirea” (și jertfa de mulțumire), și numele Iehuda: „de data aceasta Îl voi lăuda (odeh) pe DOMNUL” (Geneza 29:35). Același verb înseamnă și „a mărturisi păcatul” (vidui), căci amândouă recunosc adevărul înaintea lui Dumnezeu. David Îi mulțumește „între neamuri”, adică înaintea tuturor popoarelor (Radak; Metzudat David: ca să fie cunoscută bunătatea Ta). Pavel citează acest verset despre neamurile care Îl slăvesc pe Dumnezeu (Romani 15:9)."
+     },
+     {
+      "t": ", DOAMNE, între neamuri, și numelui Tău voi cânta."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עַל־כֵּן אוֹדְךָ יְהוָה בַּגּוֹיִם...",
+      "translation": "„De aceea, Îți voi mulțumi, DOAMNE...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "διὰ τοῦτο ἐξομολογήσομαί σοι, Κύριε, ἐν τοῖς ἔθνεσι καὶ ἐν τῷ ὀνόματί σου ψαλῶ",
+      "greek": true,
+      "translation": "„De aceea Te voi lăuda, Doamne, între neamuri, și numelui Tău voi cânta.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:49",
+     "Romani 15:9",
+     "Psalmii 145:1,2",
+     "Isaia 12:1-6"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„De aceea” — pentru aceste bunătăți. „Între neamuri” — ca să fie cunoscută bunătatea Ta."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „De aceea, Îți voi mulțumi, DOAMNE, între neamuri” — pentru că m-ai salvat de oamenii silniciei, m-ai înălțat mai presus de dușmanii mei și mi-ai dat răzbunări asupra lor, Îți voi mulțumi între neamuri, înaintea fiecărui popor."
+     }
+    ]
+   },
+   {
+    "v": "22:51",
+    "t": "Turnul salvărilor pentru regele Său, care face bine unsului Său, lui David și seminției lui, în veci.",
+    "heb": "מִגְדּוֹל יְשׁוּעוֹת מַלְכּוֹ וְעֹשֶׂה־חֶסֶד לִמְשִׁיחוֹ לְדָוִד וּלְזַרְעוֹ עַד־עוֹלָם׃",
+    "translit": "Migdol ieșuot malko veose-hesed limșiho le'David ulezaro ad-olam.",
+    "tokens": [
+     {
+      "t": "Turnul salvărilor pentru regele Său, care face bine "
+     },
+     {
+      "t": "unsului Său",
+      "w": "unsului Său",
+      "heb": "לִמְשִׁיחוֹ",
+      "translit": "limșiho",
+      "strong": "H4899",
+      "pos": "prepoziție + substantiv, masculin singular, cu sufix",
+      "def_ro": "unsului Său, regelui ales.",
+      "dict_ro": "Mașiah — „unsul”, regele consacrat prin ungere cu untdelemn, cum a fost David uns de Samuel (1 Samuel 16:13); de aici vine cuvântul „Mesia”. Făgăduința făcută „lui David și seminției lui în veci” trimite la legământul lui Natan: „Casa ta și împărăția ta vor dăinui în veci” (2 Samuel 7:16). Primul cuvânt e scris cu iod (maghdil, „care face mari”), dar se citește cu vav (migdol, „turn”); în Psalmul 18:50 stă „maghdil”, iar Radak spune că înțelesul e același. Metzudat David: David vorbește despre sine la persoana a treia, după felul Scripturii, și se roagă ca binele făcut lui să fie făcut și seminției lui."
+     },
+     {
+      "t": ", lui David și seminției lui, în veci."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִגְדּוֹל יְשׁוּעוֹת מַלְכּוֹ וְעֹשֶׂה־חֶסֶד...",
+      "translation": "„Turnul salvărilor pentru regele Său, care...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "μεγαλύνων τὰς σωτηρίας βασιλέως αὐτοῦ καὶ ποιῶν ἔλεος τῷ χριστῷ αὐτοῦ, τῷ Δαυὶδ καὶ τῷ σπέρματι αὐτοῦ ἕως αἰῶνος.",
+      "greek": true,
+      "translation": "„Cel ce mărește mântuirile regelui Său și face milă unsului Său, lui David și seminței lui până în veac.”",
+      "note": "Septuaginta citește „Cel ce mărește” (μεγαλύνων), ca forma scrisă, în loc de „turnul”, forma citită."
+     }
+    ],
+    "refs": [
+     "Psalmii 18:50",
+     "Psalmii 144:10",
+     "Psalmii 89:20",
+     "2 Samuel 7:12,13",
+     "Psalmii 89:29,36",
+     "Luca 1:31-33"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Turnul salvărilor” — adică și așa Te voi lăuda, căci voi povesti și voi spune: să știți că DOMNUL face mântuiri mari pentru regele Său, și nu ca plată a unei răsplăți, ci din bunătate. „Și seminției lui” — cum a făcut lui David, așa va face și seminției lui în veac; și deși David însuși a spus-o, a spus „lui David și seminției lui”, și nu „mie și seminției mele”, căci așa e felul Scripturii, ca în „DOMNUL a trimis... și pe Samuel” (1 Samuel 12:11), chiar dacă Samuel însuși a spus-o și n-a spus „pe mine”."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Turnul” (migdol) — e scris maghdil, cu iod, și citit cu vav, cum e citit și în cartea Psalmilor; iar forma citită, migdol, e un nume, iar înțelesul e același. „Regele Său și unsului Său” — o spune despre sine: cum a mărit mântuirea mea și mi-a făcut bunătăți, așa va face mie și seminției mele în veac."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Migdol” — de la „mare”."
      }
     ]
    }
