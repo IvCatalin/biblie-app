@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "48 capitole · 1104 versete",
+ "meta": "49 capitole · 1130 versete",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -79480,6 +79480,1627 @@
      {
       "author": "Talmud Bavli, Șabat 139a",
       "text": "Ulla a spus: Ierusalimul nu va fi răscumpărat decât prin țedaka, căci s-a spus: „Ționul va fi răscumpărat prin judecată și captivii săi prin dreptate”."
+     }
+    ]
+   }
+  ]
+ },
+  {
+  "num": 49,
+  "title": "Haftarat Vaethanan",
+  "ref": "Isaia 40:1-26",
+  "intro": "Haftarat Vaethanan este prima dintre cele șapte haftarot „ale mângâierii”, citite în Sabatele de după 9 Av, iar Sabatul în care se citește se numește după primul ei cuvânt, Șabat Nahamu. După cele trei haftarot ale pedepsei, profetul primește o poruncă nouă: „Consolați, consolați [pe] poporul Meu”, căci vremea exilului s-a împlinit. Un glas strigă să se pregătească în pustiu drumul DOMNULUI, pe care se vor întoarce cei exilați; omul e trecător ca iarba, „dar cuvântul DOMNULUI va rămâne veșnic”. Dumnezeu vine ca un păstor care își poartă mieii la piept. Partea a doua arată măreția Creatorului, care a măsurat apele cu pumnul și cerurile cu palma, înaintea Căruia neamurile sunt ca un strop dintr-o găleată. Legătura cu pericopa Vaethanan, în care Moise amintește că la Horeb poporul „n-a văzut niciun chip”, este întrebarea profetului: „Cu cine L-ați putea asemui pe Dumnezeu?”.",
+  "verses": [
+   {
+    "v": "40:1",
+    "t": "Consolați, consolați [pe] poporul Meu – spune Dumnezeul vostru.",
+    "heb": "נַחֲמוּ נַחֲמוּ עַמִּי יֹאמַר אֱלֹהֵיכֶם׃",
+    "translit": "Nahamu nahamu ami iomar Eloheihem.",
+    "tokens": [
+     {
+      "t": "Consolați",
+      "w": "Consolați",
+      "heb": "נַחֲמוּ",
+      "translit": "nahamu",
+      "strong": "H5162",
+      "pos": "verb, imperativ pi'el, masculin plural",
+      "def_ro": "mângâiați, consolați.",
+      "dict_ro": "Niham — „a mângâia, a consola”, la forma pi'el; la forma nifal același verb înseamnă „a-i părea rău, a se răzgândi”. Cu acest verset începe a doua mare parte a cărții lui Isaia, cea a mângâierilor, pe care Rashi o desparte de profețiile de pedeapsă de dinainte. Haftara deschide cele șapte haftarot ale mângâierii, citite după 9 Av, iar Sabatul în care se citește se numește după primul ei cuvânt, Șabat Nahamu. Metzudat David: repetarea cuvântului arată tărie, iar porunca e adresată profeților."
+     },
+     {
+      "t": ", consolați [pe] poporul Meu – spune Dumnezeul vostru."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "נַחֲמוּ נַחֲמוּ עַמִּי יֹאמַר...",
+      "translation": "„Consolați, consolați [pe] poporul Meu –...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΠΑΡΑΚΑΛΕΙΤΕ παρακαλεῖτε τὸν λαόν μου, λέγει ὁ Θεός.",
+      "greek": true,
+      "translation": "„Mângâiați, mângâiați pe poporul Meu, zice Dumnezeu.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 51:3,12",
+     "Isaia 49:13-16",
+     "Isaia 61:1-3",
+     "Isaia 66:10-14",
+     "Zaharia 1:13",
+     "Ieremia 31:10-14"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Consolați, consolați [pe] poporul Meu” — profetul se întoarce la profețiile despre viitor; și pentru că de aici până la sfârșitul cărții sunt cuvinte de mângâiere, această secțiune le desparte de profețiile de pedeapsă. Mângâiați, voi, profeții Mei, mângâiați pe poporul Meu."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Consolați, consolați” — Dumnezeul vostru va spune profeților: mângâiați pe poporul Meu; iar repetarea cuvântului arată întărirea."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Consolați, consolați” — toate aceste mângâieri sunt pentru zilele lui Mesia, iar repetarea întărește lucrul. Ionatan traduce: „Profeților, profețiți mângâieri asupra poporului Meu, spune Dumnezeul vostru”."
+     }
+    ]
+   },
+   {
+    "v": "40:2",
+    "t": "Vorbiți inimii Ierusalimului și strigați-i că timpul ei [de exil] s-a împlinit, căci s-a ispășit fărădelegea ei, căci a primit din mâna DOMNULUI îndoit pentru toate păcatele sale.",
+    "heb": "דַּבְּרוּ עַל־לֵב יְרוּשָׁלַ͏ִם וְקִרְאוּ אֵלֶיהָ כִּי מָלְאָה צְבָאָהּ כִּי נִרְצָה עֲוֺנָהּ כִּי לָקְחָה מִיַּד יְהוָה כִּפְלַיִם בְּכָל־חַטֹּאתֶיהָ׃",
+    "translit": "Dabru al-lev Ierușalaim vekiru eleha ki malea țevaa ki nirța avona ki lakha miiad ADONAI kiflaim behol-hatoteha.",
+    "tokens": [
+     {
+      "t": "Vorbiți inimii Ierusalimului și strigați-i că timpul ei [de exil] s-a împlinit, căci s-a ispășit fărădelegea ei, căci a primit din mâna DOMNULUI "
+     },
+     {
+      "t": "îndoit",
+      "w": "îndoit",
+      "heb": "כִּפְלַיִם",
+      "translit": "kiflaim",
+      "strong": "H3718",
+      "pos": "substantiv, dual",
+      "def_ro": "îndoit, de două ori cât.",
+      "dict_ro": "Kefel — „dublură”, iar forma duală kiflaim înseamnă „îndoit, de două ori”. Comentatorii se întreabă cum poate Dumnezeu să pedepsească „îndoit”, și răspunsurile lor diferă: Rashi citează Ieremia 16:18 („le voi plăti îndoit fărădelegea”); Metzudat David și Radak văd aici cele două exiluri, cel babilonian și cel roman; tatăl lui Radak înțelege păcatele lor și ale părinților lor (Plângerile 5:7), iar Targumul îl citește ca pe o mângâiere: a primit „paharul mângâierii” ca și cum ar fi fost pedepsită de două ori. Expresia „vorbiți inimii” e limbajul iubirii și al împăcării (Geneza 34:3; Osea 2:14)."
+     },
+     {
+      "t": " pentru toate păcatele sale."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "דַּבְּרוּ עַל־לֵב יְרוּשָׁלַ͏ִם וְקִרְאוּ...",
+      "translation": "„Vorbiți inimii Ierusalimului și strigați-i că...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἱερεῖς, λαλήσατε εἰς τὴν καρδίαν ῾Ιερουσαλήμ, παρακαλέσατε αὐτήν· ὅτι ἐπλήσθη ἡ ταπείνωσις αὐτῆς, λέλυται αὐτῆς ἡ ἁμαρτία· ὅτι ἐδέξατο ἐκ χειρὸς Κυρίου διπλᾶ τὰ ἁμαρτήματα αὐτῆς.",
+      "greek": true,
+      "translation": "„Preoților, vorbiți inimii Ierusalimului, mângâiați-l, căci s-a împlinit umilirea lui, s-a dezlegat păcatul lui; căci a primit din mâna Domnului îndoit pentru păcatele sale.”",
+      "note": "Septuaginta adaugă chemarea „Preoților” la început și are „umilirea lui” în loc de „timpul lui”."
+     }
+    ],
+    "refs": [
+     "Osea 2:14",
+     "Geneza 34:3",
+     "Ieremia 16:18",
+     "Isaia 61:7",
+     "Isaia 43:25",
+     "Isaia 33:24"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Că timpul ei s-a împlinit” — Ionatan traduce: e sortită să se umple de oamenii din exil, ca și cum ar spune „s-a umplut de oștirea ei”. Alții explică țeva ca în „oare nu are omul un timp de slujbă pe pământ?” (Iov 7:1). „S-a ispășit” — a fost împăcată. „Căci a primit” — Ionatan explică: a primit paharul mângâierii dinaintea DOMNULUI, ca și cum ar fi fost pedepsită îndoit pentru toate păcatele ei. După sensul simplu, a primit pedeapsă îndoită; iar dacă vei întreba cum de e felul Celui Sfânt, binecuvântat fie El, să plătească omului îndoit, îți voi spune că avem un verset limpede: „le voi plăti mai întâi îndoit fărădelegea și păcatul lor” (Ieremia 16:18)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Vorbiți inimii” — cuvinte primite de inimă. „Și strigați-i” — spuneți-i că s-a umplut și s-a încheiat vremea exilului ei. „Căci s-a ispășit” — i s-a iertat fărădelegea. „Căci a primit” — a primit deja plata din mâna DOMNULUI. „Îndoit” — adică două exiluri: exilul Babilonului și exilul Romei. „Pentru toate păcatele sale” — din pricina tuturor păcatelor ei."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Căci s-a ispășit fărădelegea ei” — pedeapsa ei s-a încheiat, ca în „atunci țara își va plăti sabatele” (Levitic 26:34); iar „fărădelegea” înseamnă pedeapsa, ca în „fărădelegea amoriților nu și-a atins încă plinătatea” (Geneza 15:16). „Îndoit” — poate fi de două sau mai multe ori, ca în „sabia se va îndoi a treia oară” (Ezechiel 21:14); aici se referă la cele două exiluri ale lui Israel, cel babilonian și cel de acum. Ibn Ezra explică: îndoit față de necazurile primite de celelalte neamuri; iar tatăl meu, stăpânul meu, a explicat: fărădelegile lor și ale părinților lor, cum a spus Ieremia: „părinții noștri au păcătuit și nu mai sunt, iar noi le purtăm fărădelegile” (Plângerile 5:7)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Țevaa” — sensul lui e un timp hotărât, ca în „oare nu are omul un timp de slujbă pe pământ?” (Iov 7:1). „Nirța” — de la „împăcare și îmbunare”."
+     }
+    ]
+   },
+   {
+    "v": "40:3",
+    "t": "Un glas strigă: „În deșert, eliberați calea DOMNULUI, faceți un drum drept în câmpie, o cale pentru Dumnezeul nostru!",
+    "heb": "קוֹל קוֹרֵא בַּמִּדְבָּר פַּנּוּ דֶּרֶךְ יְהוָה יַשְּׁרוּ בָּעֲרָבָה מְסִלָּה לֵאלֹהֵינוּ׃",
+    "translit": "Kol kore bamidbar panu dereh ADONAI iașeru baarava mesila l'Eloheinu.",
+    "tokens": [
+     {
+      "t": "Un glas strigă",
+      "w": "Un glas strigă",
+      "heb": "קוֹל קוֹרֵא",
+      "translit": "kol kore",
+      "strong": "H6963",
+      "pos": "substantiv, masculin singular + verb, participiu",
+      "def_ro": "un glas strigă, un glas care cheamă.",
+      "dict_ro": "Kol — „glas, sunet”. Rashi: e Duhul sfânt cel care strigă să se deschidă prin pustiu drumul spre Ierusalim, pe care se vor întoarce exilații. Radak: e ca și cum oamenii ar fi netezit dinainte drumul, pentru că cei care ies din exil îl vor găsi deschis, iar Dumnezeu merge în fruntea lor. Accentele ebraice leagă „în deșert” de „eliberați calea”; Septuaginta îl leagă de „glas” („glasul celui ce strigă în pustie”), iar sub această formă Evangheliile îl aplică lui Ioan Botezătorul (Matei 3:3; Ioan 1:23)."
+     },
+     {
+      "t": ": „În deșert, eliberați calea DOMNULUI, faceți un drum drept în câmpie, o cale pentru Dumnezeul nostru!"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "קוֹל קוֹרֵא בַּמִּדְבָּר פַּנּוּ...",
+      "translation": "„Un glas strigă: „În deșert, eliberați...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· ἑτοιμάσατε τὴν ὁδὸν Κυρίου. εὐθείας ποιεῖτε τὰς τρίβους τοῦ Θεοῦ ἡμῶν.",
+      "greek": true,
+      "translation": "„Glasul celui ce strigă în pustie: Gătiți calea Domnului, drepte faceți cărările Dumnezeului nostru.”",
+      "note": "Septuaginta leagă „în pustie” de „glasul celui ce strigă”, iar a doua jumătate e mai scurtă („drepte faceți cărările”, fără „în câmpie”); sub această formă e citat în Matei 3:3."
+     }
+    ],
+    "refs": [
+     "Matei 3:1-3",
+     "Ioan 1:23",
+     "Maleahi 3:1",
+     "Isaia 57:14",
+     "Isaia 62:10,11",
+     "Isaia 11:15,16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Un glas strigă” — Duhul sfânt strigă: „În deșert, drumul spre Ierusalim”. „Eliberați calea DOMNULUI” — calea Ierusalimului, pentru ca exilații ei să se întoarcă în mijlocul ei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Un glas strigă” — ca și cum un glas ar vesti și ar spune: eliberați în pustiu calea DOMNULUI, ca să-i aducă pe ea înapoi pe fiii exilului. „Faceți un drum drept în câmpie” — faceți în câmpie un drum drept pentru Dumnezeul nostru, căci El va merge înaintea lor."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Un glas strigă” — ca și cum un glas ar striga; iar înțelesul lui „eliberați” și „faceți drept” e că vor găsi în pustiu și în câmpie un drum netezit, ca și cum oamenii l-ar fi curățat și îndreptat pentru ei. „Pentru Dumnezeul nostru” — căci El conduce acest popor care iese din exil."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Panu” — cu sensul de înlăturare a piedicii, ca în „eu am pregătit casa” (Geneza 24:31). „Iașeru” — de la „drept și neted”. „Baarava” — ca „în pustiu”. „Mesila” — drum bătătorit."
+     }
+    ]
+   },
+   {
+    "v": "40:4",
+    "t": "Orice vale va fi înălțată și orice munte și deal va fi netezit, ceea ce este strâmb va fi îndreptat și povârnișul va deveni șes.",
+    "heb": "כָּל־גֶּיא יִנָּשֵׂא וְכָל־הַר וְגִבְעָה יִשְׁפָּלוּ וְהָיָה הֶעָקֹב לְמִישׁוֹר וְהָרְכָסִים לְבִקְעָה׃",
+    "translit": "Kol-ghei inase vehol-har veghiva ișpalu vehaia heakov lemișor veharehasim levika.",
+    "tokens": [
+     {
+      "t": "Orice "
+     },
+     {
+      "t": "vale",
+      "w": "vale",
+      "heb": "גֶּיא",
+      "translit": "ghei",
+      "strong": "H1516",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "vale, râpă adâncă.",
+      "dict_ro": "Ghei — „vale adâncă, râpă”, ca Valea lui Hinom (Ghei Hinom). Imaginea e a unui drum împărătesc: văile se umplu, munții se coboară, ce e strâmb se îndreaptă, pentru ca întoarcerea din exil să nu obosească pe nimeni (Radak). Talmudul citește versetul și moral: celui care se trufește, Dumnezeu îl coboară, iar dacă se întoarce și se smerește, Dumnezeu îl înalță, căci „orice vale va fi înălțată” (Eruvin 54a). Evanghelia după Luca citează versetul la apariția lui Ioan Botezătorul (Luca 3:5)."
+     },
+     {
+      "t": " va fi înălțată și orice munte și deal va fi netezit, ceea ce este strâmb va fi îndreptat și povârnișul va deveni șes."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כָּל־גֶּיא יִנָּשֵׂא וְכָל־הַר וְגִבְעָה...",
+      "translation": "„Orice vale va fi înălțată și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "πᾶσα φάραγξ πληρωθήσεται καὶ πᾶν ὄρος καὶ βουνὸς ταπεινωθήσεται, καὶ ἔσται πάντα τὰ σκολιὰ εἰς εὐθεῖαν καὶ ἡ τραχεῖα εἰς ὁδοὺς λείας·",
+      "greek": true,
+      "translation": "„Toată valea se va umple și tot muntele și dealul se va pleca; și toate cele strâmbe vor fi drepte, iar cele colțuroase, drumuri netede.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Luca 3:5",
+     "Isaia 45:2",
+     "Isaia 42:16",
+     "Isaia 2:12-15",
+     "Ezechiel 21:26",
+     "Luca 1:52,53"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Orice vale va fi înălțată” — iar muntele va fi coborât, și astfel va ieși un drum neted, șes și ușor de umblat. „Povârnișul” (harehasim) — munți apropiați unul de altul, între care, din pricina apropierii, coborâșul e abrupt, nu în pantă lină, ca să fie ușor de coborât și de urcat; Ionatan traduce „maluri”, cu sensul de înălțime, ca malurile unui râu. Cuvântul e ca în „să lege pieptarul” (Exod 28:28). „Șes” — un teren neted și plan."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Orice vale” — orice vale va fi înălțată și toți munții vor fi coborâți, ca drumul să fie drept și neted. „Ceea ce este strâmb” — drumul strâmb va deveni șes. „Povârnișul” — locurile înalte vor deveni vale."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Orice vale” — toate acestea sunt o pildă: urcușul munților și coborâșul obosesc pe călători, dar ei nu vor osteni și nu vor obosi; „ceea ce este strâmb” e drumul strâmb. „Povârnișul” — denivelările drumurilor, căci cuvântul are sensul de înălțime, ca în „de mândria omului” (Psalmii 31:20)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ghei” — vale. „Heakov” — cu sensul de strâmbătate, ca în „inima e nespus de înșelătoare” (Ieremia 17:9). „Lemișor” — de la „drept și neted”. „Veharehasim” — cu sensul de înălțime."
+     },
+     {
+      "author": "Talmud Bavli, Eruvin 54a",
+      "text": "Dacă omul își face inima trufașă, Cel Sfânt, binecuvântat fie El, îl coboară, căci s-a spus: „și din Bamot în vale”; iar dacă se întoarce, Cel Sfânt, binecuvântat fie El, îl ridică iarăși, căci s-a spus: „orice vale va fi înălțată”."
+     }
+    ]
+   },
+   {
+    "v": "40:5",
+    "t": "Slava DOMNULUI se va arăta și toate făpturile vor vedea că gura DOMNULUI a vorbit.”",
+    "heb": "וְנִגְלָה כְּבוֹד יְהוָה וְרָאוּ כָל־בָּשָׂר יַחְדָּו כִּי פִּי יְהוָה דִּבֵּר׃",
+    "translit": "Venigla kevod ADONAI verau hol-basar iahdav ki pi ADONAI diber.",
+    "tokens": [
+     {
+      "t": "Slava DOMNULUI",
+      "w": "Slava DOMNULUI",
+      "heb": "כְּבוֹד יְהוָה",
+      "translit": "kevod ADONAI",
+      "strong": "H3519",
+      "pos": "substantiv, masculin singular, în construcție + numele divin",
+      "def_ro": "slava DOMNULUI, prezența Lui vădită.",
+      "dict_ro": "Kavod — literal „greutate”, de unde „cinste, slavă”; kevod ADONAI e prezența lui Dumnezeu care se face văzută, ca norul care a umplut Cortul Întâlnirii (Exod 40:34) și Templul lui Solomon (1 Împărați 8:11). Radak: când cei exilați vor ieși „cu mână tare” și vor găsi apă și tot ce le trebuie chiar și în pustiu, atunci slava DOMNULUI se va descoperi înaintea tuturor popoarelor. „A vedea” are aici și sensul de a înțelege: toți vor recunoaște că mângâierile vestite de profeți au venit din gura DOMNULUI, când le vor vedea împlinite."
+     },
+     {
+      "t": " se va arăta și toate făpturile vor vedea că gura DOMNULUI a vorbit.”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְנִגְלָה כְּבוֹד יְהוָה וְרָאוּ...",
+      "translation": "„Slava DOMNULUI se va arăta și...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ὀφθήσεται ἡ δόξα Κυρίου, καὶ ὄψεται πᾶσα σάρξ τὸ σωτήριον τοῦ Θεοῦ, ὅτι Κύριος ἐλάλησε.",
+      "greek": true,
+      "translation": "„Și se va arăta slava Domnului și orice făptură va vedea mântuirea lui Dumnezeu, căci Domnul a grăit.”",
+      "note": "Septuaginta adaugă „mântuirea lui Dumnezeu” (τὸ σωτήριον τοῦ Θεοῦ), formă citată în Luca 3:6."
+     }
+    ],
+    "refs": [
+     "Isaia 60:1",
+     "Isaia 35:2",
+     "Isaia 52:10",
+     "Luca 3:6",
+     "Habacuc 2:14",
+     "Isaia 58:14"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Se va arăta” — atunci se va descoperi slava DOMNULUI și toți vor vedea că gura DOMNULUI a rostit aceste mângâieri, de vreme ce s-au împlinit."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Se va arăta” — atunci, când vor ieși din exil cu mână tare și vor găsi chiar și în pustiu apă și tot ce le trebuie, cum a spus: „nu vor flămânzi și nu vor înseta” (Isaia 49:10), se va descoperi slava DOMNULUI înaintea tuturor popoarelor. „Toate făpturile vor vedea” — toți oamenii vor ști că gura DOMNULUI a vorbit, adică vor ști atunci că mângâierile spuse de profeți le-au spus din gura DOMNULUI, când vor vedea că profețiile se împlinesc; „a vedea” e aici vederea inimii, ca în „inima mea a văzut multă” înțelepciune (Eclesiastul 1:16)."
+     }
+    ]
+   },
+   {
+    "v": "40:6",
+    "t": "Un glas spune: „Proclamă!”, iar el spune: „Ce să proclam?” – „Orice făptură este iarbă și toată bunătatea ei este ca floarea de pe câmp.",
+    "heb": "קוֹל אֹמֵר קְרָא וְאָמַר מָה אֶקְרָא כָּל־הַבָּשָׂר חָצִיר וְכָל־חַסְדּוֹ כְּצִיץ הַשָּׂדֶה׃",
+    "translit": "Kol omer kera veamar ma ekra kol-habasar hațir vehol-hasdo kețiț hasade.",
+    "tokens": [
+     {
+      "t": "Un glas spune: „Proclamă!”, iar el spune: „Ce să proclam?” – „Orice făptură este "
+     },
+     {
+      "t": "iarbă",
+      "w": "iarbă",
+      "heb": "חָצִיר",
+      "translit": "hațir",
+      "strong": "H2682",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "iarbă verde, fân.",
+      "dict_ro": "Hațir — „iarba verde”, care crește repede și se usucă tot atât de repede sub vântul arzător de răsărit; e imaginea obișnuită a vieții trecătoare a omului (Psalmii 103:15-16; 90:5-6). Rashi dă două explicații: fie măreția celor trufași se va ofili ca iarba, fie făgăduința unui om muritor nu e de nădejde, căci el poate muri înainte s-o împlinească, spre deosebire de cuvântul Dumnezeului celui veșnic. Metzudat David și Radak aplică versetul neamurilor care vor veni cu Gog asupra Ierusalimului. Septuaginta are „toată slava omului” în loc de „toată bunătatea ei”, iar sub această formă e citat în 1 Petru 1:24."
+     },
+     {
+      "t": " și toată bunătatea ei este ca floarea de pe câmp."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "קוֹל אֹמֵר קְרָא וְאָמַר...",
+      "translation": "„Un glas spune: „Proclamă!”, iar el...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "φωνὴ λέγοντος· βόησον· καὶ εἶπα· τί βοήσω; πᾶσα σάρξ χόρτος, καὶ πᾶσα δόξα ἀνθρώπου ὡς ἄνθος χόρτου·",
+      "greek": true,
+      "translation": "„Glasul unuia care zice: Strigă! Și am zis: Ce să strig? Orice făptură e iarbă și toată slava omului ca floarea ierbii.”",
+      "note": "Septuaginta are „toată slava omului” (δόξα) în loc de „toată bunătatea ei” (hasdo); forma aceasta e citată în 1 Petru 1:24."
+     }
+    ],
+    "refs": [
+     "Psalmii 103:15,16",
+     "Iacov 1:10,11",
+     "1 Petru 1:24",
+     "Iov 14:2",
+     "Psalmii 90:5,6",
+     "Isaia 37:27"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Un glas spune” — un glas de la Cel Sfânt, binecuvântat fie El, îmi spune: „Proclamă!”. „Iar el spune” — duhul meu Îi spune: „Ce să proclam?”; iar glasul îi răspunde: „Proclamă aceasta: orice făptură este iarbă”; toți cei trufași, măreția lor se va răsturna și se va ofili ca iarba. „Toată bunătatea ei este ca floarea de pe câmp” — căci „bunătatea neamurilor este păcat” (Proverbe 14:34). O altă explicație: sfârșitul omului e să moară; de aceea, dacă promite să facă bine, e ca floarea câmpului, care se taie și se usucă, și nu te poți bizui pe el, căci poate va muri și nu-și va putea împlini promisiunea; dar cuvântul Dumnezeului nostru va rămâne, căci El e viu și veșnic și are puterea să împlinească."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Un glas spune: «Proclamă!»” — glasul profeției îi spune profetului: proclamă și vestește în mulțime. „Iar el spune” — ca și cum profetul ar întreba „ce să proclam?”, iar glasul profeției îi răspunde: proclamă și spune că orice făptură e iarbă, adică toate popoarele care vor veni cu Gog asupra Ierusalimului la război se vor veșteji și se vor ofili ca iarba. „Și toată bunătatea ei” — chiar dacă vreunul dintre ei a făcut vreun bine, nu i se va socoti deloc și va fi ca floarea câmpului, care se ofilește repede, căci mult rău i-au făcut lui Israel și aceasta a înclinat balanța."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Un glas spune: «Proclamă!»” — un glas al profeției îl cheamă pe profet: „Proclamă!”, iar profetul spune: „Ce să proclam?”; iar glasul îi spune: proclamă că orice făptură e iarbă, adică despre neamurile care vor veni cu Gog și Magog, dintre care cei mai mulți vor muri; iar „orice făptură” e o exagerare, ca în „și tot pământul a venit în Egipt”. „Toată bunătatea ei” — chiar dacă au făcut multe binefaceri, nu li se vor aminti, căci fărădelegile lor sunt multe și i-au făcut rău lui Israel; i-a asemănat cu iarba și cu floarea câmpului, care se usucă repede și cad în vântul care bate."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hațir” — ca iarba. „Kețiț” — ca floarea."
+     }
+    ]
+   },
+   {
+    "v": "40:7",
+    "t": "Iarba se va usca, floarea va păli, căci suflarea DOMNULUI vine asupra ei. Într-adevăr, poporul este iarbă.",
+    "heb": "יָבֵשׁ חָצִיר נָבֵל צִיץ כִּי רוּחַ יְהוָה נָשְׁבָה בּוֹ אָכֵן חָצִיר הָעָם׃",
+    "translit": "Iaveș hațir navel țiț ki ruah ADONAI nașva bo ahen hațir haam.",
+    "tokens": [
+     {
+      "t": "Iarba se va usca, floarea va păli, căci "
+     },
+     {
+      "t": "suflarea DOMNULUI",
+      "w": "suflarea DOMNULUI",
+      "heb": "רוּחַ יְהוָה",
+      "translit": "ruah ADONAI",
+      "strong": "H7307",
+      "pos": "substantiv, feminin singular, în construcție + numele divin",
+      "def_ro": "suflarea, vântul DOMNULUI.",
+      "dict_ro": "Ruah — „vânt, suflare, duh”; aici vântul fierbinte de răsărit, care usucă într-o singură zi iarba și floarea câmpului (Metzudat Țion: „a suflat”, ca în „El Își face să sufle vântul”, Psalmii 147:18). Același cuvânt descrie în Geneza 1:2 „Duhul lui Dumnezeu” care plutea peste ape: suflarea care dă viață e și cea care o poate lua. Metzudat David: la o singură suflare, cei trufași vor pieri, iar încheierea „într-adevăr, poporul este iarbă” întărește lucrul."
+     },
+     {
+      "t": " vine asupra ei. Într-adevăr, poporul este iarbă."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יָבֵשׁ חָצִיר נָבֵל צִיץ...",
+      "translation": "„Iarba se va usca, floarea va...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐξηράνθη ὁ χόρτος, καὶ τὸ ἄνθος ἐξέπεσε,",
+      "greek": true,
+      "translation": "„Iarba s-a uscat și floarea a căzut.”",
+      "note": "Septuaginta are doar prima jumătate a versetului; nu are „căci suflarea Domnului vine asupra ei” și „într-adevăr, poporul este iarbă”."
+     }
+    ],
+    "refs": [],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Iarba se va usca” — de aceea se vor usca precum iarba și se vor ofili ca floarea. „Căci suflarea” — adică la o simplă suflare de vânt vor pieri. „Într-adevăr” — cu adevărat, poporul care va fi cu Gog va fi ca iarba; iar repetarea întărește lucrul."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Se va usca” — trecutul e folosit în locul viitorului, cum se obișnuiește mai ales în cuvintele profeției."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Navel” — cu sensul de ofilire, ca în „și frunza lui nu se veștejește” (Psalmii 1:3). „Nașva” — cu sensul de suflare, ca în „El Își face să sufle vântul” (Psalmii 147:18)."
+     }
+    ]
+   },
+   {
+    "v": "40:8",
+    "t": "Iarba se va usca, floarea va păli, dar cuvântul DOMNULUI va rămâne veșnic.”",
+    "heb": "יָבֵשׁ חָצִיר נָבֵל צִיץ וּדְבַר־אֱלֹהֵינוּ יָקוּם לְעוֹלָם׃",
+    "translit": "Iaveș hațir navel țiț udevar-Eloheinu iakum leolam.",
+    "tokens": [
+     {
+      "t": "Iarba se va usca, floarea va păli, dar cuvântul DOMNULUI "
+     },
+     {
+      "t": "va rămâne veșnic",
+      "w": "va rămâne veșnic",
+      "heb": "יָקוּם לְעוֹלָם",
+      "translit": "iakum leolam",
+      "strong": "H6965",
+      "pos": "verb, imperfect qal, persoana a III-a masculin singular + prepoziție și substantiv",
+      "def_ro": "va dăinui, va rămâne în picioare pentru totdeauna.",
+      "dict_ro": "Kum — „a se ridica, a sta în picioare”, de unde „a dăinui, a se împlini”: cuvântul lui Dumnezeu „se ridică” și rămâne în picioare, pe când iarba cade. Radak: e cuvântul pe care Dumnezeu l-a rostit prin profeții Lui, iar Metzudat David adaugă că nimeni nu-l va putea anula. Petru citează versetul despre Evanghelie (1 Petru 1:25), iar Iisus spune la fel despre cuvintele Lui: „cerul și pământul vor trece, dar cuvintele Mele nu vor trece” (Matei 24:35)."
+     },
+     {
+      "t": ".”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "יָבֵשׁ חָצִיר נָבֵל צִיץ...",
+      "translation": "„Iarba se va usca, floarea va...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τὸ δὲ ῥῆμα τοῦ Θεοῦ ἡμῶν μένει εἰς τὸν αἰῶνα.",
+      "greek": true,
+      "translation": "„Dar cuvântul Dumnezeului nostru rămâne în veac.”",
+      "note": "Septuaginta nu repetă prima jumătate a versetului, „iarba se va usca, floarea va păli”."
+     }
+    ],
+    "refs": [
+     "1 Petru 1:25",
+     "Isaia 55:10,11",
+     "Psalmii 119:89-91",
+     "Matei 24:35",
+     "Isaia 46:10,11",
+     "Zaharia 1:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Iarba se va usca” — acest popor se va usca precum iarba și se va ofili ca floarea, și toți vor pieri, iar cuvântul DOMNULUI, pe care l-a făgăduit prin profeți, va dăinui în veci și nu-l vor putea anula."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Se va usca” — a repetat lucrul ca să-l întărească. „Și cuvântul Dumnezeului nostru” — pe care l-a rostit prin profeții Săi."
+     }
+    ]
+   },
+   {
+    "v": "40:9",
+    "t": "Urcă-te pe un munte înalt, vestitor al Ționului, înalță-ți glasul cu putere, vestitor al Ierusalimului, înalță-l, nu te teme, spune orașelor din Iuda: „Iată Dumnezeul vostru!”",
+    "heb": "עַל הַר־גָּבֹהַ עֲלִי־לָךְ מְבַשֶּׂרֶת צִיּוֹן הָרִימִי בַכֹּחַ קוֹלֵךְ מְבַשֶּׂרֶת יְרוּשָׁלָ͏ִם הָרִימִי אַל־תִּירָאִי אִמְרִי לְעָרֵי יְהוּדָה הִנֵּה אֱלֹהֵיכֶם׃",
+    "translit": "Al har-gavoa ali-lah mevaseret Țion harimi vakoah koleh mevaseret Ierușalaim harimi al-tirai imri learei Iehuda hine Eloheihem.",
+    "tokens": [
+     {
+      "t": "Urcă-te pe un munte înalt, "
+     },
+     {
+      "t": "vestitor al Ționului",
+      "w": "vestitor al Ționului",
+      "heb": "מְבַשֶּׂרֶת צִיּוֹן",
+      "translit": "mevaseret Țion",
+      "strong": "H1319",
+      "pos": "verb, participiu pi'el, feminin singular + nume propriu",
+      "def_ro": "vestitoare a Sionului, cea care aduce vestea bună.",
+      "dict_ro": "Basar — „a vesti o veste bună”; de la el vine besora, „vestea bună”, iar Septuaginta îl traduce prin euangelizomai, verbul din care vine „Evanghelie”. Participiul e la feminin: Rashi spune că e vorba de profeții care vestesc Sionul, iar forma feminină arată că, dacă poporul nu va fi vrednic, vestitorul va fi „slab ca o femeie” și își va întârzia pașii până la sfârșit (spre deosebire de masculinul din 52:7). Radak înțelege că Sionul și Ierusalimul însele sunt vestitoarele, care duc vestea celorlalte cetăți ale lui Iuda."
+     },
+     {
+      "t": ", înalță-ți glasul cu putere, vestitor al Ierusalimului, înalță-l, nu te teme, spune orașelor din Iuda: „Iată Dumnezeul vostru!”"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "עַל הַר־גָּבֹהַ עֲלִי־לָךְ מְבַשֶּׂרֶת...",
+      "translation": "„Urcă-te pe un munte înalt, vestitor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐπ᾿ ὄρος ὑψηλὸν ἀνάβηθι, ὁ εὐαγγελιζόμενος Σιών· ὕψωσον ἐν ἰσχύϊ τὴν φωνή σου, ὁ εὐαγγελιζόμενος ῾Ιερουσαλήμ· ὑψώσατε, μὴ φοβεῖσθε· εἰπὸν ταῖς πόλεσιν ᾿Ιούδα· ἰδοὺ ὁ Θεὸς ὑμῶν.",
+      "greek": true,
+      "translation": "„Suie-te pe munte înalt, tu, cel ce binevestești Sionului; înalță-ți cu putere glasul, tu, cel ce binevestești Ierusalimului; înălțați-l, nu vă temeți; spune cetăților lui Iuda: Iată Dumnezeul vostru!”",
+      "note": "În Septuaginta vestitorul e trimis către Sion (ὁ εὐαγγελιζόμενος Σιών), nu Sionul e cel care vestește."
+     }
+    ],
+    "refs": [
+     "Isaia 52:7",
+     "Isaia 41:27",
+     "Isaia 52:8",
+     "Isaia 25:9",
+     "Isaia 12:2",
+     "Isaia 35:3,4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Vestitor al Ționului” — profeții care vestesc Sionul. În alt loc spune: „picioarele celui ce aduce vești bune (mevaser)” (Isaia 52:7), la masculin; aceasta arată că, dacă vor fi vrednici, vestitorul va fi iute ca un bărbat, iar dacă nu vor fi vrednici, va fi slab ca o femeie și își va întârzia pașii până la sfârșit."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Pe un munte înalt” — ca să se audă glasul departe. „Vestitor al Ționului” — adunarea profeților care vestesc răscumpărarea Sionului. „Nu te teme” — să ridici glasul, gândindu-te că ai putea fi găsit mincinos. „Iată Dumnezeul vostru” — a venit Cel Atotprezent să vă răscumpere."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Pe un munte înalt” — o pildă, căci cine vrea să-și facă auzit glasul urcă într-un loc înalt; și pentru că Ierusalimul e partea de căpetenie a țării lui Israel, și la fel Sionul, căci amândouă sunt o singură cetate, profeția le înfățișează ca pe niște vestitoare pentru celelalte cetăți. „Nu te teme” — nu te teme să vestești și să spui cetăților lui Iuda: „Iată Dumnezeul vostru”, căci în orice caz va veni, adică slava Lui se va întoarce la Ierusalim."
+     }
+    ]
+   },
+   {
+    "v": "40:10",
+    "t": "Iată, Stăpânul meu, Domnul DUMNEZEU, va veni cu putere, și mâna Sa va domni pentru El. Iată, răsplata este cu El și plata este înaintea Sa,",
+    "heb": "הִנֵּה אֲדֹנָי יְהוִה בְּחָזָק יָבוֹא וּזְרֹעוֹ מֹשְׁלָה לוֹ הִנֵּה שְׂכָרוֹ אִתּוֹ וּפְעֻלָּתוֹ לְפָנָיו׃",
+    "translit": "Hine Adonai ELOHIM behazak iavo uzeroo moșla lo hine seharo ito ufeulato lefanav.",
+    "tokens": [
+     {
+      "t": "Iată, Stăpânul meu, Domnul DUMNEZEU, va veni cu putere, și mâna Sa va domni pentru El. Iată, "
+     },
+     {
+      "t": "răsplata",
+      "w": "răsplata",
+      "heb": "שְׂכָרוֹ",
+      "translit": "seharo",
+      "strong": "H7939",
+      "pos": "substantiv, masculin singular, cu sufix persoana a III-a masculin singular",
+      "def_ro": "răsplata Lui, plata.",
+      "dict_ro": "Sahar — „plată, simbrie”, ce i se cuvine lucrătorului pentru munca lui. Rashi: răsplata e pregătită la El pentru cei drepți, iar pe neamuri va veni „cu tărie” ca să le pedepsească; Radak: e răsplata celor care s-au încrezut în El în exil. Imaginea „răsplata e cu El” e reluată aproape cuvânt cu cuvânt în Isaia 62:11 și în încheierea Bibliei creștine: „Iată, Eu vin curând și răsplata Mea este cu Mine” (Apocalipsa 22:12)."
+     },
+     {
+      "t": " este cu El și plata este înaintea Sa,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הִנֵּה אֲדֹנָי יְהוִה בְּחָזָק...",
+      "translation": "„Iată, Stăpânul meu, Domnul DUMNEZEU, va...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἰδοὺ Κύριος Κύριος μετὰ ἰσχύος ἔρχεται καὶ ὁ βραχίων μετὰ κυρίας· ἰδοὺ ὁ μισθὸς αὐτοῦ μετ᾿ αὐτοῦ καὶ τὸ ἔργον ἐναντίον αὐτοῦ.",
+      "greek": true,
+      "translation": "„Iată, Domnul Domnul vine cu tărie, și brațul Său cu stăpânire; iată, plata Lui e cu El și lucrarea Lui înaintea Lui.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 62:11",
+     "Apocalipsa 22:12",
+     "Isaia 59:16",
+     "Isaia 49:24,25",
+     "Isaia 49:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Va veni cu putere” — ca să aducă pedeapsa asupra neamurilor. „Iată, răsplata este cu El” — e pregătită la El pentru cei drepți. „Și plata” — răsplata pentru faptă, pe care e dator să le-o dea."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cu putere” — cu tărie și cu vitejie. „Și mâna Sa va domni pentru El” — adică nu va avea nevoie de ajutorul altcuiva. „Răsplata este cu El” — plata faptei e pregătită la El, ca să răsplătească fiecăruia după fapta lui. „Și plata” — plata lucrării e pregătită înaintea Lui; e aceeași idee în alte cuvinte."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Va veni cu putere” — cu mână tare, căci nu va avea nevoie de altă mână decât de mâna Lui cea tare. „Și mâna Sa va domni pentru El” — adică pentru Sine însuși: ea Îi va sta alături ca să stăpânească peste popoare. „Răsplata” — pe care o va da celor ce se încred în El în exil. „Și plata” — plata lucrării pentru cei ce lucrează cu adevăr."
+     }
+    ]
+   },
+   {
+    "v": "40:11",
+    "t": "ca un păstor care își paște turma, adunând miei în brațele lui, purtându-i la pieptul lui și mânând oile care alăptează.",
+    "heb": "כְּרֹעֶה עֶדְרוֹ יִרְעֶה בִּזְרֹעוֹ יְקַבֵּץ טְלָאִים וּבְחֵיקוֹ יִשָּׂא עָלוֹת יְנַהֵל׃",
+    "translit": "Keroe edro ire bizroo iekabeț telaim uveheiko iisa alot ienahel.",
+    "tokens": [
+     {
+      "t": "ca un "
+     },
+     {
+      "t": "păstor",
+      "w": "păstor",
+      "heb": "כְּרֹעֶה",
+      "translit": "keroe",
+      "strong": "H7462",
+      "pos": "prepoziție + verb, participiu qal, masculin singular",
+      "def_ro": "ca un păstor, ca cel care paște turma.",
+      "dict_ro": "Roe — „păstor”, participiul verbului raa, „a paște”; imaginea lui Dumnezeu ca păstor al lui Israel străbate Scriptura, de la binecuvântarea lui Iacov (Geneza 49:24) la Psalmul 23. Radak arată grija din fiecare gest: păstorul strânge mieii care nu pot încă ține pasul cu turma și îi poartă la piept, iar pe oile care alăptează le mână încet, fără să le grăbească; tot așa va conduce Dumnezeu pe Israel din exil, sprijinind pe cel bolnav și pe cel frânt. Iacov spusese același lucru despre turmele lui: „dacă le vor mâna tare o singură zi, vor muri toate oile” (Geneza 33:13)."
+     },
+     {
+      "t": " care își paște turma, adunând miei în brațele lui, purtându-i la pieptul lui și mânând oile care alăptează."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כְּרֹעֶה עֶדְרוֹ יִרְעֶה בִּזְרֹעוֹ...",
+      "translation": "„ca un păstor care își paște...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὡς ποιμὴν ποιμανεῖ τὸ ποίμνιον αὐτοῦ καὶ τῷ βραχίονι αὐτοῦ συνάξει ἄρνας καὶ ἐν γαστρὶ ἐχούσας παρακαλέσει.",
+      "greek": true,
+      "translation": "„Ca un păstor Își va paște turma și cu brațul Său va aduna mieii, iar pe cele ce alăptează le va mângâia.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Ezechiel 34:12-14",
+     "Psalmii 23:1-6",
+     "Ioan 10:11-16",
+     "Isaia 49:9,10",
+     "Geneza 33:13",
+     "Mica 5:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ca un păstor care își paște turma” — cu brațul lui adună mieii și îi poartă la sân. „Mânând oile care alăptează” — Ionatan traduce: pe cele care alăptează le conduce cu blândețe."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ca un păstor” — ca păstorul care își paște turma cu liniște, strânge mieii cu brațul, nu cu toiagul, și îi poartă la sân, iar pe cele mici le mână cu blândețe; așa îi va conduce Cel Atotprezent cu blândețe, la întoarcerea lor din exil."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ca un păstor care își paște turma” — ca un păstor bun, care își paște turma, strânge mieii mici, care încă nu pot merge ca celelalte vite, adunându-i de ici unul și de colo unul, îi poartă la sân, iar pe mamele lor le mână încet și nu le zorește; așa îl va conduce Cel Sfânt, binecuvântat fie El, pe Israel din exil încet și va sprijini pe tot cel bolnav și frânt. Mamele sunt numite „cele care alăptează” după puii lor, care se sprijină de ele ca să sugă; iar tatăl meu a subliniat cuvântul „turma lui”: turma care e a lui îi e mai dragă decât cea pe care o păzește pentru plată."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Iekabeț” — va strânge. „Alot” — cele mici, de la „prunc și sugaci”. „Ienahel” — cu sensul de conducere blândă, ca în „voi merge încet” (Geneza 33:14)."
+     }
+    ]
+   },
+   {
+    "v": "40:12",
+    "t": "Cine a măsurat cu pumnul Său apele și cerurile cu lățimea palmei Sale, cu măsura pulberea pământului, și a cântărit munții cu cântarul și dealurile cu balanța?",
+    "heb": "מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם בַּזֶּרֶת תִּכֵּן וְכָל בַּשָּׁלִשׁ עֲפַר הָאָרֶץ וְשָׁקַל בַּפֶּלֶס הָרִים וּגְבָעוֹת בְּמֹאזְנָיִם׃",
+    "translit": "Mi-madad beșaolo maim veșamaim bazeret tiken vehol bașaliș afar haareț veșakal bapeles harim ughevaot bemoznaim.",
+    "tokens": [
+     {
+      "t": "Cine a măsurat "
+     },
+     {
+      "t": "cu pumnul Său",
+      "w": "cu pumnul Său",
+      "heb": "בְּשָׁעֳלוֹ",
+      "translit": "beșaolo",
+      "strong": "H8168",
+      "pos": "prepoziție + substantiv, masculin singular, cu sufix persoana a III-a masculin singular",
+      "def_ro": "cu pumnul Său, cu căușul palmei Sale.",
+      "dict_ro": "Șoal — „căușul palmei”, cât încape într-un pumn (Metzudat Țion, ca în „pumni de orz”, Ezechiel 13:19); versetul adună mai multe unități de măsură — palma, lățimea palmei (zeret), cântarul și balanța. Radak: toate sunt pilde, căci Dumnezeu nu are mână, dar arată că Cel care a măsurat și a rânduit toată creația fără ajutor poate scoate pe Israel din mâna unor neamuri mai tari. Talmudul se folosește de verset pentru a vorbi despre măreția lui Dumnezeu: toate apele lumii încap în pumnul Lui (Sanhedrin 39a), iar cerurile se măsoară cu palma Lui (Eruvin 21a)."
+     },
+     {
+      "t": " apele și cerurile cu lățimea palmei Sale, cu măsura pulberea pământului, și a cântărit munții cu cântarul și dealurile cu balanța?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם...",
+      "translation": "„Cine a măsurat cu pumnul Său...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "Τί ἐμέτρησε τῇ χειρὶ τὸ ὕδωρ καὶ τὸν οὐρανὸν σπιθαμῇ καὶ πᾶσαν τὴν γῆν δρακί; τίς ἔστησε τὰ ὄρη σταθμῷ καὶ τὰς νάπας ζυγῷ;",
+      "greek": true,
+      "translation": "„Cine a măsurat cu mâna apa, și cerul cu palma, și tot pământul cu pumnul? Cine a pus munții în cântar și văile în cumpănă?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Proverbe 30:4",
+     "Iov 38:4-11",
+     "Iov 28:25",
+     "Isaia 48:13",
+     "Proverbe 8:26-28",
+     "Iov 11:7-9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cine a măsurat” — El a avut puterea să facă toate acestea; cu atât mai mult are puterea să-Și împlinească aceste făgăduințe. „Cu pumnul Său” (beșaolo) — cu mersul Lui, cum s-a spus: „Tu ai călcat marea cu caii Tăi” (Habacuc 3:15), ca în „pe cărarea viilor” (Numeri 22:24); o altă explicație: șoal e numele unui vas de măsură, ca în „pentru pumni de orz” (Ezechiel 13:19). „A măsurat” — cu sensul de măsură și socoteală, ca în „și numărul de cărămizi îl veți da” (Exod 5:18). „Cu măsura” (bașaliș) — a măsurat în treimi: o treime pustiu, o treime loc locuit și o treime mări și râuri; o altă explicație: de la degetul mare la cel mijlociu, al treilea deget; iar Menahem îl explică drept numele unui vas, ca în „și-i adăpi cu lacrimi din plin” (Psalmii 80:5). „Și a cântărit munții cu cântarul” — toate după pământ: muntele greu l-a pus în pământ tare, iar pe cei ușori în pământ moale."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cine a măsurat” — adică: cine e ca El, care cunoaște adâncimea apelor ca și cum le-ar fi măsurat cu pumnul, cunoaște lărgimea cerurilor ca și cum le-ar fi măsurat cu palma, cunoaște măsura țărânii pământului ca și cum ar fi măsurat-o cu măsura și greutatea munților ca și cum i-ar fi cântărit cu cântarul și cu balanța? Ca și cum ar spune: Cel care știe toate acestea poate face și lucrul acesta."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cine a măsurat” — să nu se mire neamurile dacă voi scoate pe Israel din robia lor, în care au stat atâția ani, căci Cel care a creat lumea din nimic poate face aceasta; de aceea a spus „cine a măsurat cu pumnul Său apele”. E o pildă, căci El, binecuvântat fie, nu are mână și pumn. A spus „a măsurat” apele pentru că stau într-un loc strâns, ca omul care măsoară apa turnând-o într-un vas; iar cerurile, pentru că sunt întinse, le măsoară cu palma, cum se măsoară un lucru întins. Toate sunt ca și cum ar fi măsurate și cântărite la El, și le-a creat pe toate cu o măsură bună și dreaptă, cum s-a spus: „Dumnezeu S-a uitat la tot ce făcuse și iată că erau foarte bune”; iar Cel care a făcut toate acestea fără ajutor poate scoate pe Israel din mâna celor mai tari decât el."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Beșaolo” — cu pumnul Lui, ca în „pentru pumni de orz” (Ezechiel 13:19). „Bazeret” — numele unei măsuri, o jumătate de cot. „Tiken” — de la „pregătire”. „Bașaliș” — numele unei măsuri mari, ca în „și-i adăpi cu lacrimi din plin” (Psalmii 80:5). „Bapeles” — așa se numește bara cântarului, însemnată ca să se cunoască greutatea. „Bemoznaim” — talerele cântarului."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 39a",
+      "text": "Un eretic i-a spus lui rabi Abahu: Dumnezeul vostru e preot; când l-a îngropat pe Moise, în ce S-a scufundat ca să se curățe? Iar dacă vei spune că în apă, oare nu e scris: „Cine a măsurat cu pumnul Său apele?” — toate apele lumii încap în pumnul Lui."
+     },
+     {
+      "author": "Talmud Bavli, Eruvin 21a",
+      "text": "E scris: „Cine a măsurat cu pumnul Său apele și cerurile cu lățimea palmei Sale” — de aici se află că toată lumea întreagă e una din trei mii două sute de părți ale Torei."
+     }
+    ]
+   },
+   {
+    "v": "40:13",
+    "t": "Cine a măsurat oare duhul DOMNULUI și cine Îi poate dezvălui planul?",
+    "heb": "מִי־תִכֵּן אֶת־רוּחַ יְהוָה וְאִישׁ עֲצָתוֹ יוֹדִיעֶנּוּ׃",
+    "translit": "Mi-tiken et-ruah ADONAI veiș ațato iodienu.",
+    "tokens": [
+     {
+      "t": "Cine a măsurat oare duhul DOMNULUI și cine Îi poate dezvălui "
+     },
+     {
+      "t": "planul",
+      "w": "planul",
+      "heb": "עֲצָתוֹ",
+      "translit": "ațato",
+      "strong": "H6098",
+      "pos": "substantiv, feminin singular, cu sufix persoana a III-a masculin singular",
+      "def_ro": "sfatul Său, planul Său.",
+      "dict_ro": "Ețah — „sfat, plan”, de la iaaț, „a sfătui”. Întrebările retorice din versetele 13-14 arată că Dumnezeu nu are sfetnic: Radak explică faptul că la creare nu a fost nici înger, nici om care să-I îndrepte duhul ori să-I spună „așa să faci”, cum spune și Iov: „El singur întinde cerurile” (Iov 9:8). Pavel citează versetul după Septuaginta, cu „mintea Domnului” în loc de „duhul DOMNULUI”, la sfârșitul imnului despre înțelepciunea lui Dumnezeu (Romani 11:34; 1 Corinteni 2:16)."
+     },
+     {
+      "t": "?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִי־תִכֵּן אֶת־רוּחַ יְהוָה וְאִישׁ...",
+      "translation": "„Cine a măsurat oare duhul DOMNULUI...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τίς ἔγνω νοῦν Κυρίου, καὶ τίς αὐτοῦ σύμβουλος ἐγένετο, ὃς συμβιβᾷ αὐτόν;",
+      "greek": true,
+      "translation": "„Cine a cunoscut mintea Domnului și cine I-a fost sfetnic, ca să-L învețe?”",
+      "note": "Septuaginta are „mintea Domnului” (νοῦν Κυρίου) în loc de „duhul DOMNULUI”; sub această formă e citat în Romani 11:34 și 1 Corinteni 2:16."
+     }
+    ],
+    "refs": [
+     "Romani 11:34",
+     "1 Corinteni 2:16",
+     "Iov 21:22",
+     "Iov 36:22,23"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cine a măsurat oare duhul DOMNULUI?” — cine a rânduit Duhul sfânt în gura profeților? DOMNUL l-a pregătit, și El e vrednic de crezare. „Și cine Îi poate dezvălui planul” — celui cu care Se sfătuiește îi face cunoscut duhul Lui; așa a tradus Ionatan. Dar după context, „omul sfatului Său” se leagă de începutul versetului: cine I-a rânduit duhul și cine e sfetnicul Lui, care să-I facă cunoscut Celui Sfânt, binecuvântat fie El, un sfat?"
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cine a măsurat” — cine a pregătit voia Celui Atotprezent, adică cine I-a aplecat voia după mintea lui? „Și cine” — se leagă de cuvântul „cine”: cine e omul căruia Cel Atotprezent să-i facă cunoscut sfatul Lui?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cine a măsurat oare duhul DOMNULUI?” — când a făcut toate acestea, cine I-a rânduit duhul? Nu e înger, și cu atât mai puțin om, care să-I fi îndreptat duhul și să-I fi făcut cunoscut sfatul când a făcut lumea, spunându-I „așa să faci”; și tot așa a spus: „El singur întinde cerurile”."
+     }
+    ]
+   },
+   {
+    "v": "40:14",
+    "t": "Cu cine S-a sfătuit și i-a dat cunoaștere și i-a arătat calea înțelegerii?",
+    "heb": "אֶת־מִי נוֹעָץ וַיְבִינֵהוּ וַיְלַמְּדֵהוּ בְּאֹרַח מִשְׁפָּט וַיְלַמְּדֵהוּ דַעַת וְדֶרֶךְ תְּבוּנוֹת יוֹדִיעֶנּוּ׃",
+    "translit": "Et-mi noaț vaivinehu vailamedehu beorah mișpat vailamedehu daat vedereh tevunot iodienu.",
+    "tokens": [
+     {
+      "t": "Cu cine S-a sfătuit și i-a dat cunoaștere și i-a arătat "
+     },
+     {
+      "t": "calea înțelegerii",
+      "w": "calea înțelegerii",
+      "heb": "וְדֶרֶךְ תְּבוּנוֹת",
+      "translit": "vedereh tevunot",
+      "strong": "H8394",
+      "pos": "conjuncție + substantiv, în construcție + substantiv, feminin plural",
+      "def_ro": "calea priceperii, drumul înțelegerii.",
+      "dict_ro": "Tevuna — „pricepere, înțelegere”, de la bin, „a deosebi, a înțelege”; pluralul tevunot arată plinătatea priceperii. Versetul adună cinci verbe ale învățării — a se sfătui, a face să înțeleagă, a învăța, a da cunoaștere, a arăta calea — pentru a spune că nimeni nu L-a învățat pe Dumnezeu nimic (Metzudat David: repetarea e pentru frumusețea vorbirii). Radak explică „cărarea judecății” ca rânduiala după care e alcătuită lumea. Rashi citește versetul și despre profeți: cu care dintre neamuri S-a sfătuit Dumnezeu cum S-a sfătuit cu Avraam (Geneza 18:17)?"
+     },
+     {
+      "t": "?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אֶת־מִי נוֹעָץ וַיְבִינֵהוּ וַיְלַמְּדֵהוּ...",
+      "translation": "„Cu cine S-a sfătuit și i-a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἢ πρὸς τίνα συνεβουλεύσατο καὶ συνεβίβασεν αὐτόν; ἢ τίς ἔδειξεν αὐτῷ κρίσιν; ἢ ὁδὸν συνέσεως τίς ἔδειξεν αὐτῷ;",
+      "greek": true,
+      "translation": "„Sau cu cine S-a sfătuit și cine L-a învățat? Sau cine I-a arătat judecata? Sau cine I-a arătat calea priceperii?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Coloseni 2:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cu cine S-a sfătuit și i-a dat cunoaștere” — cu care dintre neamuri S-a sfătuit, cum S-a sfătuit cu profeții, cum s-a spus despre Avraam: „Să ascund Eu de Avraam ce voi face?” (Geneza 18:17). „Și l-a învățat calea judecății” — cu care dintre neamuri a făcut așa, să-l învețe înțelepciune, cum a făcut cu Avraam, căruia i-a dat o inimă care să-L cunoască singură și să înțeleagă Tora, cum s-a spus: „și a păzit ce i-am poruncit” (Geneza 26:5) și „căci l-am ales ca să poruncească fiilor lui” (Geneza 18:19); iar rinichii lui îi izvorau înțelepciune, cum s-a spus: „chiar și noaptea mă învață rinichii mei” (Psalmii 16:7)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cu cine” — cu cine S-a sfătuit, cine L-a făcut să înțeleagă, cine L-a învățat să umble pe calea judecății, cine L-a învățat cunoașterea și cine I-a arătat calea priceperii? Lucrul e repetat de multe ori pentru frumusețea vorbirii."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cu cine S-a sfătuit și i-a dat cunoaștere” — „în cărarea judecății” înseamnă pe calea rânduielii lumii: cine L-a învățat aceasta? Căci „judecată” are uneori sensul de rânduială și măsură, ca în „și palatul va sta pe locul lui (mișpato)”."
+     }
+    ]
+   },
+   {
+    "v": "40:15",
+    "t": "Iată, neamurile sunt ca un strop amar dintr-o găleată și sunt socotite ca pulberea pe balanță. Iată, insulele sunt precum un fir de praf.",
+    "heb": "הֵן גּוֹיִם כְּמַר מִדְּלִי וּכְשַׁחַק מֹאזְנַיִם נֶחְשָׁבוּ הֵן אִיִּים כַּדַּק יִטּוֹל׃",
+    "translit": "Hen goim kemar midli uheșahak moznaim nehșavu hen iim kadak ițol.",
+    "tokens": [
+     {
+      "t": "Iată, neamurile sunt ca un strop amar dintr-o "
+     },
+     {
+      "t": "găleată",
+      "w": "găleată",
+      "heb": "מִדְּלִי",
+      "translit": "midli",
+      "strong": "H1805",
+      "pos": "prepoziție + substantiv, masculin singular",
+      "def_ro": "din găleată, din ciutura de scos apă.",
+      "dict_ro": "Deli — „găleata” cu care se scoate apa din fântână (de unde numele zodiei Vărsătorului în ebraică). Rashi explică „stropul amar”: picătura care se scurge de pe fundul găleții e amară de la apa stătută și de lemnul putred al vasului; Metzudat David: e un lucru neînsemnat față de toată apa din găleată. Tot așa „pulberea de pe balanță” e praful care se ridică de pe talerele de aramă la cea mai mică suflare, fără să schimbe greutatea. Radak trage concluzia: dacă neamurile sunt atât de mici înaintea Lui, cum L-ar putea opri să-Și scoată poporul din mijlocul lor?"
+     },
+     {
+      "t": " și sunt socotite ca pulberea pe balanță. Iată, insulele sunt precum un fir de praf."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֵן גּוֹיִם כְּמַר מִדְּלִי...",
+      "translation": "„Iată, neamurile sunt ca un strop...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "εἰ πάντα τὰ ἔθνη ὡς σταγὼν ἀπὸ κάδου καὶ ὡς ροπὴ ζυγοῦ ἐλογίσθησαν καὶ ὡς σίελος λογισθήσονται·",
+      "greek": true,
+      "translation": "„Dacă toate neamurile sunt socotite ca o picătură din ciutură și ca greutatea unui fir pe cântar, ca scuipatul vor fi socotite.”",
+      "note": "Septuaginta are „ca scuipatul” (ὡς σίελος) în locul imaginii insulelor ridicate ca praful."
+     }
+    ],
+    "refs": [
+     "Ieremia 10:10",
+     "Iov 34:14,15",
+     "Isaia 41:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Iată, neamurile sunt ca un strop dintr-o găleată” — și nu sunt vrednice înaintea Lui să pună dintre ele profeți care să-I descopere taina. „Un strop amar” — ca o picătură amară care picură de pe fundul găleții, amară de la apa stătută care a intrat în găleată și de la putreziciunea lemnului. „Ca pulberea pe balanță” — căci arama se roade și se tocește. „Un fir de praf” — praf mărunt, pe care vântul îl ridică și îl duce."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iată, neamurile” — puterea neamurilor e socotită înaintea Lui ca picătura amară care picură de pe fundul găleții, un lucru neînsemnat față de apa din găleată. „Ca pulberea pe balanță” — în ochii Celui Atotprezent sunt ca praful măcinat din rugina unui cântar de aramă, care iese la o suflare ușoară. „Iată, insulele” — insulele mării le va arunca precum praful mărunt; ca și cum ar spune: dacă e așa, cum ar putea sta împotriva Lui, ca să-L oprească să-l scoată pe Israel din mijlocul lor?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Iată, neamurile” — după ce a făcut toate acestea fără ajutor și fără învățător, cum Îl vor putea opri neamurile să-l scoată pe Israel din mijlocul lor? Căci toate sunt înaintea Lui ca picătura din găleată, un lucru mic față de apa din găleată; a pomenit găleata pentru că picătura cade din ea când se scoate apa. „Ca pulberea pe balanță” — un lucru mai mic decât mic, căci la cea mai mică suflare iese praful acela mărunt din talere."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Kemar midli” — vasul cu care se scoate apa se numește deli, ca în „au venit și au scos apă” (Exod 2:16); picătura care cade de pe spatele găleții e amară din pricina mucegaiului. „Uheșahak” — de la „a pisa, a măcina”, ca în „să pisezi din ea mărunt” (Exod 30:36). „Kadak” — ca praful mărunt. „Ițol” — va arunca, ca în „au aruncat uneltele” (Iona 1:5)."
+     }
+    ]
+   },
+   {
+    "v": "40:16",
+    "t": "Iar Libanul nu ajunge pentru foc și nici vietățile sale nu-s destule pentru arderi-de-tot.",
+    "heb": "וּלְבָנוֹן אֵין דֵּי בָּעֵר וְחַיָּתוֹ אֵין דֵּי עוֹלָה׃",
+    "translit": "U'Levanon ein dei baer vehaiato ein dei ola.",
+    "tokens": [
+     {
+      "t": "Iar "
+     },
+     {
+      "t": "Libanul",
+      "w": "Libanul",
+      "heb": "וּלְבָנוֹן",
+      "translit": "uLevanon",
+      "strong": "H3844",
+      "pos": "conjuncție + nume propriu",
+      "def_ro": "Libanul, lanțul muntos din nordul țării.",
+      "dict_ro": "Levanon — „Libanul”, munții împăduriți de la nord, al căror nume vine de la lavan, „alb”, după zăpada de pe culmi; de acolo s-au adus cedrii pentru Templul lui Solomon (1 Împărați 5:6). Versetul spune că toate pădurile Libanului n-ar ajunge ca lemne pentru altar, iar toate animalele lui n-ar ajunge pentru arderi-de-tot pe măsura Lui (Metzudat David). Rashi adaugă o a doua explicație: nici toate acestea n-ar putea ispăși fărădelegea neamurilor. Ideea e cea din Psalmii 50:10-12: „ale Mele sunt toate dobitoacele pădurilor”."
+     },
+     {
+      "t": " nu ajunge pentru foc și nici vietățile sale nu-s destule pentru arderi-de-tot."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּלְבָנוֹן אֵין דֵּי בָּעֵר...",
+      "translation": "„Iar Libanul nu ajunge pentru foc...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὁ δὲ Λίβανος οὐχ ἱκανὸς εἰς καῦσιν, καὶ πάντα τὰ τετράποδα οὐχ ἱκανὰ εἰς ὁλοκάρπωσιν,",
+      "greek": true,
+      "translation": "„Iar Libanul nu e de ajuns pentru ardere, nici toate patrupedele nu sunt de ajuns pentru ardere-de-tot.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 50:10-12",
+     "Mica 6:6,7",
+     "Psalmii 40:6",
+     "Evrei 10:5-10"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Iar Libanul nu ajunge pentru foc” — ca să ardă pe altarul Lui. „Și nici vietățile sale” — vietățile Libanului nu ajung pentru arderi-de-tot. O altă explicație: Libanul și celelalte nu ajung ca să ispășească fărădelegea neamurilor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iar Libanul” — după măreția Lui, nu ajung lemnele pădurii Libanului ca să aprindă cu ele focul pe altarul Lui, și nu ajung fiarele Libanului ca să fie aduse înaintea Lui ca arderi-de-tot."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Iar Libanul” — neamurile care gândesc despre Mine și spun că nu am putere să-l scot pe Israel din mâna lor nu vor fi iertate prin nicio ardere-de-tot pe care Mi-o vor aduce după ce vor vedea că îl scot și le va părea rău de ce au spus: toți copacii Libanului pentru foc și toate fiarele Libanului pentru arderi-de-tot înaintea Mea nu le vor ajunge. A pomenit Libanul pentru că e o pădure din țara lui Israel."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Levanon” — numele unei păduri din țara lui Israel. „Baer” — de la „aprindere și vatră”."
+     }
+    ]
+   },
+   {
+    "v": "40:17",
+    "t": "Toate neamurile sunt un nimic înaintea Lui, prețuiesc pentru El cât nimicul și deșertăciunea.",
+    "heb": "כָּל־הַגּוֹיִם כְּאַיִן נֶגְדּוֹ מֵאֶפֶס וָתֹהוּ נֶחְשְׁבוּ־לוֹ׃",
+    "translit": "Kol-hagoim keain negdo meefes vatohu nehșevu-lo.",
+    "tokens": [
+     {
+      "t": "Toate neamurile sunt un nimic înaintea Lui, prețuiesc pentru El cât nimicul și "
+     },
+     {
+      "t": "deșertăciunea",
+      "w": "deșertăciunea",
+      "heb": "וָתֹהוּ",
+      "translit": "vatohu",
+      "strong": "H8414",
+      "pos": "conjuncție + substantiv, masculin singular",
+      "def_ro": "gol, pustiu, lucru fără substanță.",
+      "dict_ro": "Tohu — „golul, pustiul fără formă”, cuvântul din Geneza 1:2 („pământul era tohu vavohu”); Metzudat Țion îl explică prin „goliciune”. Profetul spune că neamurile sunt pentru Dumnezeu „mai puțin decât nimic”, adică ca golul de dinainte de creație. Talmudul povestește că un eretic i-a obiectat lui rabi Avina că, după acest verset, și Israel e amestecat printre neamurile socotite nimic; rabi Avina i-a răspuns cu cuvintele lui Balaam: „nu se socotește printre neamuri” (Sanhedrin 39a; Numeri 23:9)."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כָּל־הַגּוֹיִם כְּאַיִן נֶגְדּוֹ מֵאֶפֶס...",
+      "translation": "„Toate neamurile sunt un nimic înaintea...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ πάντα τὰ ἔθνη ὡς οὐδέν εἰσι καὶ εἰς οὐθὲν ἐλογίσθησαν.",
+      "greek": true,
+      "translation": "„Și toate neamurile sunt ca nimic și drept nimic au fost socotite.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Daniel 4:34,35",
+     "Psalmii 62:9",
+     "Iov 25:6"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Toate neamurile sunt un nimic înaintea Lui” — în ochii Lui sunt ca nimic și nu sunt luate în seamă de El."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Un nimic” — ca un lucru care nu e. „Prețuiesc pentru El” — înaintea Lui sunt socotite ca și cum ar fi din nimic și din gol."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Toate neamurile” — mai puțin decât nimic, cum s-a spus: „toți laolaltă sunt mai ușori decât o suflare” (Psalmii 62:9)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Meefes” — un lucru în care nu e nimic. „Vatohu” — cu sensul de goliciune."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 39a",
+      "text": "Un eretic i-a spus lui rabi Avina: e scris: „Și cine e ca poporul Tău, ca Israel, un neam unic pe pământ?” — care e măreția voastră? Și voi sunteți amestecați cu noi, căci e scris: „Toate neamurile sunt un nimic înaintea Lui”. Rabi Avina i-a spus: unul de-al vostru a mărturisit pentru noi, căci e scris: „și nu se socotește printre neamuri” (Numeri 23:9)."
+     }
+    ]
+   },
+   {
+    "v": "40:18",
+    "t": "Cu cine L-ați putea asemui pe Dumnezeu? Ce imagine ați putea găsi pentru El?",
+    "heb": "וְאֶל־מִי תְּדַמְּיוּן אֵל וּמַה־דְּמוּת תַּעַרְכוּ לוֹ׃",
+    "translit": "Veel-mi tedameyun El uma-demut taarhu lo.",
+    "tokens": [
+     {
+      "t": "Cu cine L-ați putea asemui pe Dumnezeu? Ce "
+     },
+     {
+      "t": "imagine",
+      "w": "imagine",
+      "heb": "דְּמוּת",
+      "translit": "demut",
+      "strong": "H1823",
+      "pos": "substantiv, feminin singular",
+      "def_ro": "asemănare, chip, înfățișare.",
+      "dict_ro": "Demut — „asemănare, chip”, de la dama, „a semăna”; e cuvântul din Geneza 1:26 („după chipul și asemănarea Noastră”). Aici el deschide polemica împotriva idolilor: cu ce asemănare L-ați putea înfățișa pe Dumnezeu? Tora dă motivul interdicției chipurilor cioplite: „n-ați văzut niciun chip în ziua în care v-a vorbit DOMNUL la Horeb” (Deuteronom 4:15), pasaj din pericopa Vaethanan citită în același Sabat. Întrebarea revine în versetul 25 și în Isaia 46:5, iar Radak o leagă de cei care cred că Dumnezeu e neputincios ca idolii lor."
+     },
+     {
+      "t": " ați putea găsi pentru El?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶל־מִי תְּדַמְּיוּן אֵל וּמַה־דְּמוּת...",
+      "translation": "„Cu cine L-ați putea asemui pe...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τίνι ὡμοιώσατε Κύριον καὶ τίνι ὁμοιώματι ὡμοιώσατε αὐτόν;",
+      "greek": true,
+      "translation": "„Cu cine L-ați asemănat pe Domnul și cu ce asemănare L-ați asemănat?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 46:5,9",
+     "Exod 15:11",
+     "Psalmii 89:6,8",
+     "Faptele apostolilor 17:29",
+     "Isaia 40:25"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Cu cine” — cu care dintre lucruri Îl veți asemăna pe Cel Atotprezent și care e asemănarea pe care I-o veți pune alături? Lucrul e repetat în alte cuvinte."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cu cine” — voi credeți că, precum dumnezeii voștri nu au putere să salveze, așa ar fi și Dumnezeu, ferească! — încât să-i asemănați sau să-i comparați cu El; dar chipul cioplit pe care îl faceți dumnezeu e lucrarea mâinilor omului."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Demut” — de la „asemănare”. „Taarhu” — de la „comparare și egalitate”."
+     }
+    ]
+   },
+   {
+    "v": "40:19",
+    "t": "Cu un chip cioplit, turnat de meșter, pe care aurarul l-a poleit cu aur și argintarul cu lanțuri de argint?",
+    "heb": "הַפֶּסֶל נָסַךְ חָרָשׁ וְצֹרֵף בַּזָּהָב יְרַקְּעֶנּוּ וּרְתֻקוֹת כֶּסֶף צוֹרֵף׃",
+    "translit": "Hapesel nasah haraș vețoref bazahav ierakeenu uretukot kesef țoref.",
+    "tokens": [
+     {
+      "t": "Cu un "
+     },
+     {
+      "t": "chip cioplit",
+      "w": "chip cioplit",
+      "heb": "הַפֶּסֶל",
+      "translit": "hapesel",
+      "strong": "H6459",
+      "pos": "substantiv, masculin singular, cu articol",
+      "def_ro": "idol, chip cioplit.",
+      "dict_ro": "Pesel — „chipul cioplit”, de la pasal, „a ciopli”; e cuvântul poruncii a doua: „să nu-ți faci chip cioplit” (Exod 20:4; Deuteronom 5:8, citit în pericopa Vaethanan). Versetul descrie ironic munca a trei meșteri: turnătorul toarnă chipul din metal, aurarul îl îmbracă în foițe de aur, iar argintarul îi face lanțuri de argint. Metzudat David: lanțurile sunt ca să-l tragă cu ele, căci singur nu se mișcă din locul lui — un dumnezeu care trebuie legat și dus."
+     },
+     {
+      "t": ", turnat de meșter, pe care aurarul l-a poleit cu aur și argintarul cu lanțuri de argint?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַפֶּסֶל נָסַךְ חָרָשׁ וְצֹרֵף...",
+      "translation": "„Cu un chip cioplit, turnat de...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "μὴ εἰκόνα ἐποίησε τέκτων, ἢ χρυσοχόος χωνεύσας χρυσίον περιεχρύσωσεν αὐτόν, ὁμοίωμα κατεσκεύασεν αὐτόν;",
+      "greek": true,
+      "translation": "„Oare chip a făcut meșterul, sau argintarul, topind aur, l-a poleit cu aur, a făcut din el o asemănare?”",
+      "note": "Septuaginta nu pomenește lanțurile de argint."
+     }
+    ],
+    "refs": [
+     "Isaia 44:10-12",
+     "Ieremia 10:3-5,9",
+     "Isaia 46:6,7",
+     "Psalmii 115:4-8",
+     "Habacuc 2:18,19",
+     "Isaia 41:6,7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Turnat” (nasah) — expresie de topire, ca masecha, „chip turnat”. „Turnat de meșter” — fierarul l-a turnat din fier sau din aramă, iar apoi aurarul îl poleiește cu foițe de aur și îl acoperă pe deasupra. „Lanțuri” — lanțuri."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cu un chip cioplit” — oare Îi veți asemăna chipul cioplit pe care meșterul l-a topit din metal, iar aurarul a întins aur pe deasupra lui, iar argintarul i-a făcut lanțuri de argint ca să-l tragă cu ele, căci din locul lui nu se va mișca?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Chip cioplit, turnat” — cu sensul de acoperire, adică face chipul din piatră sau din lemn și apoi îl acoperă cu aur sau cu argint; sau „turnat” are sensul de topire și se referă la argint și la aur. „L-a poleit” — ca în „au bătut foițele de aur”. „Lanțuri de argint” — argintarul îi pune lanțuri de argint; Ionatan traduce: lanțuri de argint cu care e ținut."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hapesel” — așa se numește chipul căruia i se slujește. „Nasah” — cu sensul de topire, ca în „dumnezei turnați” (Exod 34:17). „Haraș” — meșter. „Ierakeenu” — cu sensul de întindere și batere în foi, ca în „argint bătut în foi” (Ieremia 10:9). „Uretukot” — lanțuri, ca în „fă lanțul” (Ezechiel 7:23)."
+     }
+    ]
+   },
+   {
+    "v": "40:20",
+    "t": "Săracul pune deoparte, alege lemn care nu putrezește, își caută un meșter iscusit ca să-i făurească un idol care nu se poate mișca.",
+    "heb": "הַמְסֻכָּן תְּרוּמָה עֵץ לֹא־יִרְקַב יִבְחָר חָרָשׁ חָכָם יְבַקֶּשׁ־לוֹ לְהָכִין פֶּסֶל לֹא יִמּוֹט׃",
+    "translit": "Hamesukan teruma eț lo-irkav ivhar haraș haham ievakeș-lo lehakin pesel lo imot.",
+    "tokens": [
+     {
+      "t": "Săracul",
+      "w": "Săracul",
+      "heb": "הַמְסֻכָּן",
+      "translit": "hamesukan",
+      "strong": "H5533",
+      "pos": "verb, participiu pu'al, masculin singular, cu articol",
+      "def_ro": "cel sărac, cel lipsit.",
+      "dict_ro": "Mesukan — „cel sărac”, ca în „mai bine un tânăr sărac (misken) și înțelept” (Eclesiastul 4:13; Metzudat Țion); Rashi îl explică altfel, de la sakan, „a fi obișnuit”: meșterul priceput, deprins să aleagă lemnul care nu putrezește. Metzudat David și Radak urmează sensul de „sărac”: cel care nu-și poate face idol de aur și de argint, ca bogații, își alege un lemn tare și caută un meșter iscusit să-i facă un idol care să nu se clatine. Ironia e vădită: un dumnezeu care are nevoie să fie întărit ca să nu se dărâme, cum a căzut Dagon înaintea chivotului (1 Samuel 5:3-4)."
+     },
+     {
+      "t": " pune deoparte, alege lemn care nu putrezește, își caută un meșter iscusit ca să-i făurească un idol care nu se poate mișca."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַמְסֻכָּן תְּרוּמָה עֵץ לֹא־יִרְקַב...",
+      "translation": "„Săracul pune deoparte, alege lemn care...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ξύλον γὰρ ἄσηπτον ἐκλέγεται τέκτων καὶ σοφῶς ζητεῖ πῶς στήσει εἰκόνα αὐτοῦ καὶ ἵνα μὴ σαλεύητε.",
+      "greek": true,
+      "translation": "„Căci lemn neputrezicios alege meșterul și cu iscusință caută cum să-și așeze chipul, ca să nu se clatine.”",
+      "note": "Septuaginta nu are cuvântul „săracul” (hamesukan) și îl face pe meșter subiect al alegerii lemnului."
+     }
+    ],
+    "refs": [
+     "Isaia 44:13-19",
+     "Ieremia 10:3,4",
+     "Isaia 46:7",
+     "1 Samuel 5:3,4",
+     "Isaia 41:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Săracul pune deoparte” (hamesukan teruma) — dacă vine să-l facă din lemn, cel deprins să deosebească un copac trainic de ceilalți alege un copac care nu putrezește repede. „Hamesukan” — deprins, ca în „am avut eu obiceiul (hahasken hiskanti)?” (Numeri 22:30). „Teruma” — alegere, alegerea copacilor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Săracul” — cel care e prea sărac ca să pună deoparte din argintul lui pentru chipul cioplit, ca bogații, alege dintre copaci un lemn tare care să nu putrezească și își caută un meșter iscusit ca să-i facă din el un chip tare, care să nu se clatine, adică să nu i se desfacă părțile una de alta; ca și cum ar spune: dacă e nevoie să-l întărească, ca să nu i se desfacă părțile, cum poate fi asemănat cu Cel Preaînalt?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Săracul pune deoparte” — misken, ca în „un tânăr sărac”; căci mai sus a pomenit aurul și argintul, pentru bogații care își fac idolii din aur și argint; dar cel care nu-și poate face idolul din aur și argint își alege un lemn bun, care să nu putrezească, și din el își face chipul — atât de mare e încrederea lor în chipul cioplit."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hamesukan” — săracul și lipsitul, ca în „mai bine un tânăr sărac și înțelept” (Eclesiastul 4:13). „Teruma” — punere deoparte. „Imot” — de la „clătinare și stricare”."
+     }
+    ]
+   },
+   {
+    "v": "40:21",
+    "t": "Nu știți? N-ați auzit? Nu vi s-a spus de la început? Nu ați înțeles [Cine a făcut] temeliile pământului?",
+    "heb": "הֲלוֹא תֵדְעוּ הֲלוֹא תִשְׁמָעוּ הֲלוֹא הֻגַּד מֵרֹאשׁ לָכֶם הֲלוֹא הֲבִינֹתֶם מוֹסְדוֹת הָאָרֶץ׃",
+    "translit": "Halo tedu halo tișmau halo hugad meroș lahem halo havinotem mosdot haareț.",
+    "tokens": [
+     {
+      "t": "Nu știți? N-ați auzit? Nu vi s-a spus de la început? Nu ați înțeles [Cine a făcut] "
+     },
+     {
+      "t": "temeliile pământului",
+      "w": "temeliile pământului",
+      "heb": "מוֹסְדוֹת הָאָרֶץ",
+      "translit": "mosdot haareț",
+      "strong": "H4146",
+      "pos": "substantiv, feminin plural, în construcție + substantiv cu articol",
+      "def_ro": "temeliile pământului.",
+      "dict_ro": "Mosada — „temelie”, de la iasad, „a întemeia”. Metzudat David vede în cele patru întrebări patru căi de cunoaștere: „nu știți?” — din propria judecată; „n-ați auzit?” — de la învățător; „nu vi s-a spus de la început?” — din tradiția primită din generație în generație; „nu ați înțeles temeliile pământului?” — din privirea creației. Radak dezvoltă lung ideea: rânduiala elementelor lumii, care stau fiecare la locul lui, arată că nu s-a făcut la întâmplare, ci are un Ziditor și un Cârmuitor. E aceeași învățătură din Psalmii 19:1 și din Romani 1:20."
+     },
+     {
+      "t": "?"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הֲלוֹא תֵדְעוּ הֲלוֹא תִשְׁמָעוּ...",
+      "translation": "„Nu știți? N-ați auzit? Nu vi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐ γνώσεσθε; οὐκ ἀκούσεσθε; οὐκ ἀνηγγέλη ἐξ ἀρχῆς ὑμῖν; οὐκ ἔγνωτε τὰ θεμέλια τῆς γῆς;",
+      "greek": true,
+      "translation": "„Nu veți cunoaște? Nu veți auzi? Nu vi s-a vestit de la început? N-ați cunoscut temeliile pământului?”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Psalmii 19:1-5",
+     "Romani 1:19-21,28",
+     "Faptele apostolilor 14:17",
+     "Ieremia 10:8-12"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Nu știți?... temeliile pământului” — Cine le-a întemeiat; și ar fi trebuit să-I slujiți Lui."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nu știți?” — din cântărirea minții puteți ști cine e Stăpânul lumii. „N-ați auzit?” — de la învățătorul și dascălul care a cercetat cu mintea lui. „Nu vi s-a spus” — din tradiția primită om din om, de la început, adică din zilele de demult. „Nu ați înțeles” — oare nu puteți înțelege ce sunt temeliile pământului? Ca și cum ar spune: oare nu are temelie, căci cerurile o înconjoară de jur împrejur, și pe ce stă, dacă nu pe porunca Celui Atotprezent?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Nu știți?” — le-a spus celor ce slujesc chipului cioplit: cum puteți greși în aceasta și să slujiți chipului, ca și cum el ar fi stăpânul lumii? Oare nu știți din mintea voastră cine e Stăpânul lumii? Iar dacă nu știți din mintea voastră, oare n-ați auzit din ce se citește în cărți? Iar dacă nici una, nici alta, oare nu vi s-a spus de la început, prin tradiție? Căci prin acestea trei cunoaște omul: sau înțelege singur, sau învață de la cel ce-l învață, sau aude de la cei ce vestesc prin tradiție. Și a adăugat: „nu ați înțeles temeliile pământului?” — adică, dacă aveți minte să înțelegeți, puteți înțelege din temeliile pământului că lumea are un Ziditor care o cârmuiește și a creat-o cu rânduială, nu a căzut așa, la întâmplare."
+     }
+    ]
+   },
+   {
+    "v": "40:22",
+    "t": "Cel care stă pe cercul pământului și locuitorii pământului par ca lăcustele; El, care desfășoară cerurile ca o draperie subțire și le întinde ca un cort de locuit.",
+    "heb": "הַיֹּשֵׁב עַל־חוּג הָאָרֶץ וְיֹשְׁבֶיהָ כַּחֲגָבִים הַנּוֹטֶה כַדֹּק שָׁמַיִם וַיִּמְתָּחֵם כָּאֹהֶל לָשָׁבֶת׃",
+    "translit": "Haioshev al-hug haareț veioșveha kahagavim hanote hadok șamaim vaimtahem kaohel lașavet.",
+    "tokens": [
+     {
+      "t": "Cel care stă pe "
+     },
+     {
+      "t": "cercul pământului",
+      "w": "cercul pământului",
+      "heb": "חוּג הָאָרֶץ",
+      "translit": "hug haareț",
+      "strong": "H2329",
+      "pos": "substantiv, masculin singular, în construcție + substantiv cu articol",
+      "def_ro": "cercul, bolta pământului.",
+      "dict_ro": "Hug — „cerc”, de la același radical cu mehuga, „compasul” (Isaia 44:13). Metzudat Țion și Radak explică: cerurile se numesc „cercul pământului”, pentru că îl înconjoară ca cercul trasat cu compasul în jurul punctului din mijloc, iar pământul e ca punctul. De sus, locuitorii pământului par mici „ca lăcustele”, cum spuneau iscoadele: „eram în ochii noștri ca niște lăcuste” (Numeri 13:33). Talmudul explică „cortina” (dok) din a doua jumătate a versetului ca fiind primul dintre cele șapte ceruri, Vilon, care se înnoiește în fiecare zi (Hagiga 12b)."
+     },
+     {
+      "t": " și locuitorii pământului par ca lăcustele; El, care desfășoară cerurile ca o draperie subțire și le întinde ca un cort de locuit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַיֹּשֵׁב עַל־חוּג הָאָרֶץ וְיֹשְׁבֶיהָ...",
+      "translation": "„Cel care stă pe cercul pământului...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὁ κατέχων τὸν γῦρον τῆς γῆς, καὶ οἱ ἐνοικοῦντες ἐν αὐτῇ ὡς ἀκρίδες, ὁ στήσας ὡς καμάραν τὸν οὐρανὸν καὶ διατείνας ὡς σκηνὴν κατοικεῖν,",
+      "greek": true,
+      "translation": "„El, Cel ce ține ocolul pământului, iar locuitorii lui sunt ca lăcustele; Cel ce a așezat cerul ca o boltă și l-a întins ca un cort de locuit.”",
+      "note": "Septuaginta are „ca o boltă” (καμάραν) în loc de „ca o draperie subțire”."
+     }
+    ],
+    "refs": [
+     "Psalmii 104:2",
+     "Iov 9:8",
+     "Isaia 42:5",
+     "Isaia 44:24",
+     "Numeri 13:33",
+     "Psalmii 2:4"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cercul” (hug) — o expresie asemănătoare cu „și cu compasul (mehuga)” (Isaia 44:13), un cerc. „Și locuitorii pământului par ca lăcustele” — înaintea Lui. „Ca o draperie subțire” (kadok) — o pânză."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cel care stă” — oare nu El șade pe cerurile care înconjoară pământul, iar locuitorii pământului sunt în ochii Lui ca lăcustele? A luat pilda de la omul care șade sus, căruia tot ce e sub el i se pare mic. „El, care desfășoară” — oare nu El întinde cerurile ca omul care întinde o pânză oarecare? „Și le întinde” — le-a întins ca pe un cort, ca să fie gata de stat sub el."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cel care stă” — ca și cum ar fi spus: pe ceruri, căci ele sunt cercul pământului, ca cercul pe care îl face omul cu compasul: compasul are două picioare, pe unul îl ține pe loc și cu celălalt trasează cercul; punctul e în mijlocul cercului, iar pământul e ca punctul, iar cerurile în jurul pământului ca cercul. A spus „stă” ca pildă, căci El nu are loc, înălțat fie peste orice asemănare; ci ca omul care șade într-un loc foarte înalt și privește la locul de jos, căruia lucrul mare i se pare mic; de aceea a spus „și locuitorii pământului par ca lăcustele”, cum s-a spus: „eram în ochii noștri ca niște lăcuste” (Numeri 13:33)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hug haareț” — așa se numesc cerurile, cuvânt luat de la cercul făcut cu compasul, căci cerurile înconjoară pământul și îi sunt ca un cerc. „Kadok” — cu sensul de pieliță subțire, ca în „sau cocoșat, sau pipernicit” (Levitic 21:20). „Vaimtahem” — cu sensul de întindere și desfacere; de aici și „sacul” lui Beniamin (Geneza 44:12), pentru că se întinde când se umple."
+     },
+     {
+      "author": "Talmud Bavli, Hagiga 12b",
+      "text": "Reș Lakiș a spus: sunt șapte ceruri: Vilon, Rakia, Șehakim, Zevul, Maon, Mahon și Aravot. Vilon nu slujește la nimic, ci intră dimineața și iese seara și înnoiește în fiecare zi lucrarea creației, căci s-a spus: „El, care desfășoară cerurile ca o draperie subțire și le întinde ca un cort de locuit”."
+     }
+    ]
+   },
+   {
+    "v": "40:23",
+    "t": "El, care preface pe prinți în nimic și pe judecătorii pământului ca și cum n-ar exista,",
+    "heb": "הַנּוֹתֵן רוֹזְנִים לְאָיִן שֹׁפְטֵי אֶרֶץ כַּתֹּהוּ עָשָׂה׃",
+    "translit": "Hanoten roznim leain șoftei ereț katohu asa.",
+    "tokens": [
+     {
+      "t": "El, care preface pe "
+     },
+     {
+      "t": "prinți",
+      "w": "prinți",
+      "heb": "רוֹזְנִים",
+      "translit": "roznim",
+      "strong": "H7336",
+      "pos": "verb, participiu qal, masculin plural (folosit ca substantiv)",
+      "def_ro": "dregători, prinți, cei cu vază.",
+      "dict_ro": "Rozen — „dregător, om de vază”, un cuvânt poetic, ca în „dregătorii se sfătuiesc împreună” (Psalmii 2:2; Metzudat Țion). Radak: e vorba de cei care se mândresc cu măreția lor și se încred în puterea și oștile lor; Dumnezeu îi face „ca și cum n-ar fi”, ca tohu, golul de la începutul creației. Aceeași idee o cântă Ana și Maria: „a coborât pe cei puternici de pe scaunele lor și a înălțat pe cei smeriți” (1 Samuel 2:7-8; Luca 1:52)."
+     },
+     {
+      "t": " în nimic și pe judecătorii pământului ca și cum n-ar exista,"
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַנּוֹתֵן רוֹזְנִים לְאָיִן שֹׁפְטֵי...",
+      "translation": "„El, care preface pe prinți în...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὁ διδοὺς ἄρχοντας ὡς οὐδὲν ἄρχειν, τὴν δὲ γῆν ὡς οὐδὲν ἐποίησεν.",
+      "greek": true,
+      "translation": "„Cel ce dă dregătorilor să stăpânească de parcă n-ar fi nimic, iar pământul l-a făcut ca nimic.”",
+      "note": "Septuaginta are „pământul” în loc de „judecătorii pământului”."
+     }
+    ],
+    "refs": [
+     "Iov 12:21",
+     "Psalmii 107:40",
+     "Luca 1:51,52",
+     "Psalmii 76:12",
+     "Iov 34:19,20"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„El, care preface” — El e cel care îi face pe dregători ca și cum n-ar fi. „Ca și cum n-ar exista” — îi face să fie ca un lucru gol."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „El, care preface pe prinți... și pe judecătorii pământului” — pe cei care se mândresc cu măreția lor și se încred în puterea și în oastea lor; iar „a făcut” e ca în „va întinde peste el funia pustiirii”, căci dărâmarea nu e o facere în sensul adevărat. „Roznim” — cunoscut, ca în „și dregătorii se sfătuiesc împreună”, adică prinți și mai-mari."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Roznim” — prinți, ca în „și dregătorii se sfătuiesc împreună” (Psalmii 2:2)."
+     }
+    ]
+   },
+   {
+    "v": "40:24",
+    "t": "ca și cum n-ar fi fost plantați, ca și cum n-ar fi fost sădiți, ca și cum n-ar fi fost înrădăcinați în pământ. Iar dacă ar sufla peste ei, s-ar usca și o vijelie i-ar purta departe ca paiele.",
+    "heb": "אַף בַּל־נִטָּעוּ אַף בַּל־זֹרָעוּ אַף בַּל־שֹׁרֵשׁ בָּאָרֶץ גִּזְעָם וְגַם־נָשַׁף בָּהֶם וַיִּבָשׁוּ וּסְעָרָה כַּקַּשׁ תִּשָּׂאֵם׃",
+    "translit": "Af bal-nitau af bal-zorau af bal-șoreș baareț ghizam vegam-nașaf bahem vaivașu useara kakaș tisaem.",
+    "tokens": [
+     {
+      "t": "ca și cum n-ar fi fost plantați, ca și cum n-ar fi fost sădiți, ca și cum n-ar fi fost înrădăcinați în pământ. Iar dacă ar sufla peste ei, s-ar usca și "
+     },
+     {
+      "t": "o vijelie",
+      "w": "o vijelie",
+      "heb": "וּסְעָרָה",
+      "translit": "useara",
+      "strong": "H5591",
+      "pos": "conjuncție + substantiv, feminin singular",
+      "def_ro": "furtună, vijelie.",
+      "dict_ro": "Seara — „furtuna, vârtejul de vânt”, cuvântul cu care Ilie e luat la cer „într-un vârtej” (2 Împărați 2:11). Versetul coboară treptat: prinții sunt ca niște plante care nici n-ar fi fost plantate, nici semănate, nici înrădăcinate; o singură suflare îi usucă, iar furtuna îi duce ca paiele. Rashi explică gradația: semănatul e mai puțin decât plantatul, iar trunchiul lor smuls nu va mai prinde rădăcină. Talmudul vede împlinirea în oastea lui Sanherib din vremea lui Ezechia: după una dintre păreri, îngerul a suflat asupra lor și au murit (Sanhedrin 95b; Isaia 37:36)."
+     },
+     {
+      "t": " i-ar purta departe ca paiele."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אַף בַּל־נִטָּעוּ אַף בַּל־זֹרָעוּ...",
+      "translation": "„ca și cum n-ar fi fost...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐ γὰρ μὴ φυτεύσωσιν, οὐδὲ μὴ σπείρωσιν, οὐδὲ μὴ ριζωθῇ εἰς τὴν γῆν ἡ ρίζα αὐτῶν· ἔπνευσεν ἐπ᾿ αὐτοὺς καὶ ἐξηράνθησαν, καὶ καταιγὶς ὡς φρύγανα λήψεται αὐτούς.",
+      "greek": true,
+      "translation": "„Căci nu vor planta, nici nu vor semăna, nici nu va prinde rădăcină în pământ rădăcina lor; a suflat asupra lor și s-au uscat, și vijelia îi va lua ca pe niște vreascuri.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 37:7",
+     "Iov 4:9",
+     "Isaia 17:13",
+     "Isaia 41:16",
+     "Iov 18:16-19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Ca și cum n-ar fi fost plantați” — sunt ca și cum n-ar fi fost plantați. „Ca și cum n-ar fi fost sădiți” — și mai mult de atât: vor fi dezrădăcinați și smulși ca și cum n-ar fi fost semănați, iar semănatul e mai puțin decât plantatul. „Ca și cum n-ar fi fost înrădăcinați în pământ” — când vor fi smulși, trunchiul lor nu va mai prinde rădăcină în pământ ca să crească din nou; cuvântul șoreș e aici verb, „a prinde rădăcină”, nu substantiv."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ca și cum n-ar fi fost plantați” — iată, sunt chiar ca și cum n-ar fi fost plantați niciodată, și chiar ca și cum n-ar fi fost semănați niciodată, ceea ce e mai puțin decât plantarea. „Ca și cum n-ar fi fost înrădăcinați” — când vor fi smulși, nici măcar trunchiul nu va prinde rădăcină în pământ ca să dea lăstari, adică nu se vor mai întoarce la starea de dinainte. „Iar dacă ar sufla” — chiar la o simplă suflare se vor usca și vor pieri, iar vârtejul îi va lua din locul lor ca pe paiele duse de vânt."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ca și cum n-ar fi fost plantați” — îi va face atât de nimic, încât se va spune despre ei că n-au fost plantați, nici semănați, nici nu și-a prins rădăcină în pământ trunchiul lor; iar „nici” e spus de trei ori, fiecare adăugând la cel dinainte. „Trunchiul” — din rădăcina copacului, ce se vede deasupra pământului se numește trunchi, iar ce e ascuns sub pământ se numește rădăcină. „Iar dacă ar sufla” — și smulgerea lor e iute ca suflarea vântului, ca în „ai suflat cu vântul Tău” (Exod 15:10)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ghizam” — rădăcina lor, ca în „din trunchiul lui Isai” (Isaia 11:1). „Nașaf” — cu sensul de suflare, ca în „ai suflat cu vântul Tău” (Exod 15:10). „Kakaș” — paie."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 95b",
+      "text": "Cum i-a lovit îngerul pe ostașii lui Sanherib? Unii spun: a suflat asupra lor pe nări și au murit, căci s-a spus: „Iar dacă ar sufla peste ei, s-ar usca”."
+     }
+    ]
+   },
+   {
+    "v": "40:25",
+    "t": "„Deci, cu cine Mă puteți asemui? Și cui i-aș putea fi egal?” – spune Cel Sfânt.",
+    "heb": "וְאֶל־מִי תְדַמְּיוּנִי וְאֶשְׁוֶה יֹאמַר קָדוֹשׁ׃",
+    "translit": "Veel-mi tedameyuni veeșve iomar kadoș.",
+    "tokens": [
+     {
+      "t": "„Deci, cu cine Mă puteți asemui? Și cui i-aș putea fi egal?” – spune "
+     },
+     {
+      "t": "Cel Sfânt",
+      "w": "Cel Sfânt",
+      "heb": "קָדוֹשׁ",
+      "translit": "kadoș",
+      "strong": "H6918",
+      "pos": "adjectiv substantivat, masculin singular",
+      "def_ro": "Cel Sfânt (nume divin).",
+      "dict_ro": "Kadoș — „sfânt”, aici folosit singur, fără articol, ca nume propriu al lui Dumnezeu: „Cel Sfânt”. Sfințenia înseamnă în primul rând despărțire, a fi altfel decât orice lucru creat, de aceea întrebarea „cu cine Mă puteți asemui?” se încheie tocmai cu acest nume. Radak: nu-L puteți asemăna cu nimic, căci El e unul și Ziditorul lumii întregi. Întrebarea reia versetul 18 și pregătește privirea spre stele din versetul următor."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְאֶל־מִי תְדַמְּיוּנִי וְאֶשְׁוֶה יֹאמַר...",
+      "translation": "„„Deci, cu cine Mă puteți asemui?...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "νῦν οὖν τίνι με ὡμοιώσατε καὶ ὑψωθήσομαι; εἶπεν ὁ ἅγιος.",
+      "greek": true,
+      "translation": "„Acum, dar, cu cine M-ați asemănat și voi fi înălțat? a zis Cel Sfânt.”",
+      "note": "Septuaginta are „și voi fi înălțat” în loc de „și cui i-aș putea fi egal”."
+     }
+    ],
+    "refs": [
+     "Isaia 40:18",
+     "Deuteronom 4:15-18,33",
+     "Deuteronom 5:8"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Deci, cu cine Mă puteți asemui?” — adică, de vreme ce toate acestea sunt de la Mine, cu cine M-ați asemăna, ca să-Mi fie cu adevărat egal? „Spune Cel Sfânt” — adică Dumnezeul cel sfânt spune: cu cine... ."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Deci, cu cine Mă puteți asemui și cui i-aș putea fi egal?” — cu cine M-ați putea asemăna, ca să fiu asemenea lucrului aceluia și egal cu el? Nu Mă puteți asemăna cu vorbele voastre decât cu mintea, iar prin asemănarea voastră nu voi deveni egal; așadar, Eu sunt unul și Ziditorul lumii întregi. A spus „Cel Sfânt”, căci El e sfânt și stăpân al gândurilor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tedameiuni” — de la „asemănare”."
+     }
+    ]
+   },
+   {
+    "v": "40:26",
+    "t": "Ridicați-vă ochii spre înălțimi și vedeți cine a creat acestea. El face să apară oștirile una câte una, El le cheamă pe toate pe nume [și] din pricina marii Sale bunătăți și a puterii Sale mărețe, nici una nu lipsește.",
+    "heb": "שְׂאוּ־מָרוֹם עֵינֵיכֶם וּרְאוּ מִי־בָרָא אֵלֶּה הַמּוֹצִיא בְמִסְפָּר צְבָאָם לְכֻלָּם בְּשֵׁם יִקְרָא מֵרֹב אוֹנִים וְאַמִּיץ כֹּחַ אִישׁ לֹא נֶעְדָּר׃",
+    "translit": "Seu-marom eineihem ureu mi-vara ele hamoți vemispar țevaam lehulam beșem ikra merov onim veamiț koah iș lo nedar.",
+    "tokens": [
+     {
+      "t": "Ridicați-vă ochii spre înălțimi și vedeți cine a creat acestea. El face să apară "
+     },
+     {
+      "t": "oștirile",
+      "w": "oștirile",
+      "heb": "צְבָאָם",
+      "translit": "țevaam",
+      "strong": "H6635",
+      "pos": "substantiv, masculin singular, cu sufix persoana a III-a masculin plural",
+      "def_ro": "oștirea lor, mulțimea lor rânduită.",
+      "dict_ro": "Țava — „oaste, mulțime rânduită”; „oștirea cerurilor” sunt stelele, pe care Dumnezeu le scoate „după număr”, ca un comandant care își cheamă soldații pe nume. Radak: privirea spre stele, trupuri uriașe care nu se schimbă, arată că au fost create și au un Creator; iar numele fiecăreia arată puterea pe care i-a dat-o. Psalmistul spune același lucru: „El numără stelele și le dă nume la toate” (Psalmii 147:4). Tora avertizează ca omul, privind spre cer, să nu se închine oștirii cerurilor (Deuteronom 4:19), pasaj din aceeași pericopă Vaethanan."
+     },
+     {
+      "t": " una câte una, El le cheamă pe toate pe nume [și] din pricina marii Sale bunătăți și a puterii Sale mărețe, nici una nu lipsește."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שְׂאוּ־מָרוֹם עֵינֵיכֶם וּרְאוּ מִי־בָרָא...",
+      "translation": "„Ridicați-vă ochii spre înălțimi și vedeți...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀναβλέψατε εἰς ὕψος τοὺς ὀφθαλμοὺς ὑμῶν καὶ ἴδετε, τίς κατέδειξε ταῦτα πάντα; ὁ ἐκφέρων κατ᾿ ἀριθμὸν τὸν κόσμον αὐτοῦ πάντας ἐπ᾿ ὀνόματι καλέσει· ἀπὸ πολλῆς δόξης καὶ ἐν κράτει ἰσχύος αὐτοῦ οὐδέν σε ἔλαθε.",
+      "greek": true,
+      "translation": "„Ridicați-vă ochii în sus și vedeți: cine a arătat toate acestea? Cel ce scoate după număr podoaba Sa, pe toate le va chema pe nume; din mulțimea slavei și în tăria puterii Sale nimic nu Ți s-a ascuns.”",
+      "note": "Septuaginta are „podoaba Sa” (τὸν κόσμον) în loc de „oștirile lor”, iar încheierea diferă: „nimic nu Ți s-a ascuns”, în loc de „nici una nu lipsește”."
+     }
+    ],
+    "refs": [
+     "Psalmii 147:4,5",
+     "Psalmii 8:3,4",
+     "Psalmii 19:1",
+     "Psalmii 148:3-6",
+     "Deuteronom 4:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Cine a creat acestea” — toată oștirea pe care o vedeți în înălțimi. „Din pricina marii Sale bunătăți” — din pricina marii puteri pe care o are, și pentru că e tare în putere, nici una din oștirea Lui nu lipsește, pe care să n-o cheme pe nume."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cine a creat acestea” — stelele și constelațiile văzute în înălțimi; și cine e cel care scoate în fiecare zi oștirea înălțimilor în număr neschimbat? „Pe toate” — fiecărei stele îi cheamă numele potrivit și cuvenit pentru ea; ca și cum ar spune: oare nu DOMNUL face toate acestea? „Din pricina marii Sale bunătăți” — din pricina mulțimii puterii și a tăriei pe care le are, de aceea nici una dintre ele nu lipsește în toate zilele lumii, căci de la început le-a făcut să dăinuiască în veci."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ridicați-vă ochii spre înălțimi” — priviți la stele, căci sunt trupuri uriașe, mai mari la trup și la înfățișare decât făpturile de jos; le spusese să înțeleagă din temeliile pământului și din cerurile întinse ca un cort, iar acum le spune să privească stelele, făpturi uriașe, și să vadă cu mintea cine le-a creat, căci ele sunt create, nu creatoare. „Pe toate le cheamă pe nume” — cum a spus David: „El numără stelele și le dă nume la toate” (Psalmii 147:4), adică fiecăreia îi dă numele potrivit ei. „Nici una nu lipsește” — făpturile de sus nu pier, nici în întregime, nici în parte, ci cum au fost în ziua creării lor, așa vor fi în toate zilele lumii."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Onim” — cu sensul de putere, ca în „și tăria lui e în mușchii pântecelui” (Iov 40:16). „Veamiț” — cu sensul de tărie. „Iș” — adică una dintre ele. „Nedar” — cu sensul de lipsă, ca în „nici una dintre ele nu lipsește” (Isaia 34:16)."
      }
     ]
    }
