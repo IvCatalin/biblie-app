@@ -2,7 +2,7 @@
  "slug": "haftarot-ciclu-saptamanal",
  "name": "Haftarot — ciclul săptămânal",
  "name_ro": "Haftarot — ciclul săptămânal",
- "meta": "53 capitole · 1207 versete",
+ "meta": "54 capitole · 1229 versete",
  "author": "trad. rabin Șlomo Sorin Rosen",
  "summary": "Cele 54 de Haftarot (selecții din Profeți) citite după fiecare parașă săptămânală a Torei, din Humașul „Tora și Haftarot” (trad. rabin Șlomo Sorin Rosen). Fiecare verset cu traducere română, text ebraic original și transliterare.",
  "available": true,
@@ -87905,6 +87905,1412 @@
      {
       "author": "Jean Calvin, Comentariu la Isaia",
       "text": "„Căci munții se vor clătina cu adevărat” — [profetul] confirmă afirmația de dinainte și declară că mai degrabă întreaga lume se va răsturna decât să eșueze mila Sa. Ar fi zadarnic să întrebăm aici cum «munții se vor clătina sau dealurile se vor cutremura»; căci comparația e luată din lucrurile care par a fi cele mai puternice și mai adânc înrădăcinate, pentru a arăta că temelia Bisericii e mult mai durabilă."
+     }
+    ]
+   }
+  ]
+ },
+  {
+  "num": 54,
+  "title": "Haftarat Ki Tavo",
+  "ref": "Isaia 60:1-22",
+  "intro": "Haftarat Ki Tavo este a șasea dintre cele șapte haftarot „ale mângâierii”. Ea începe cu chemarea „Ridică-te! Luminează! Căci lumina ta a venit”: în timp ce întunericul acoperă pământul, slava DOMNULUI strălucește asupra Ierusalimului, iar neamurile vin spre lumina lui. Fiii exilați se întorc din toate părțile, „ca porumbei către porumbarele lor”, corăbiile din Tarșiș aduc aur și argint, iar turmele Kedarului sunt aduse ca jertfe primite pe altar. Cetatea „părăsită și urâtă” devine „o mândrie veșnică”, porțile ei stau deschise zi și noapte, iar zidurile ei se numesc „Salvare” și porțile „Laudă”. Nu va mai fi nevoie de soare și de lună, căci DOMNUL va fi „o lumină veșnică” și „zilele jalei tale se vor sfârși”. Pericopa Ki Tavo începe cu intrarea în țară și cu aducerea primelor roade, iar haftara descrie întoarcerea definitivă în țară și belșugul care vine spre Ierusalim.",
+  "verses": [
+   {
+    "v": "60:1",
+    "t": "Ridică-te! Luminează! Căci lumina ta a venit și slava DOMNULUI asupra ta a strălucit.",
+    "heb": "קוּמִי אוֹרִי כִּי בָא אוֹרֵךְ וּכְבוֹד יְהוָה עָלַיִךְ זָרָח׃",
+    "translit": "Kumi ori ki va oreh uhevod ADONAI alaih zarah.",
+    "tokens": [
+     {
+      "t": "Ridică-te! "
+     },
+     {
+      "t": "Luminează",
+      "w": "Luminează",
+      "heb": "אוֹרִי",
+      "translit": "ori",
+      "strong": "H215",
+      "pos": "verb, imperativ qal, feminin singular",
+      "def_ro": "luminează, strălucește.",
+      "dict_ro": "Or — „a lumina, a străluci”, verbul din care vine or, „lumină” (Geneza 1:3). Radak arată că lumina e în toată această profeție o pildă pentru bucurie și bine, iar întunericul pentru necaz; chemarea „Ridică-te! Luminează!” e adresată Ierusalimului, care stătuse în țărână (Isaia 52:2). Metzudat David: „slava DOMNULUI” înseamnă că Șehina se va descoperi și va sălășlui în el. Cuvintele „kumi ori” au intrat în imnul de Sabat Leha Dodi."
+     },
+     {
+      "t": "! Căci lumina ta a venit și slava DOMNULUI asupra ta a strălucit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "קוּמִי אוֹרִי כִּי בָא...",
+      "translation": "„Ridică-te! Luminează! Căci lumina ta a...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ΦΩΤΙΖΟΥ φωτίζου ῾Ιερουσαλήμ, ἥκει γάρ σου τὸ φῶς, καὶ ἡ δόξα Κυρίου ἐπὶ σὲ ἀνατέταλκεν.",
+      "greek": true,
+      "translation": "„Luminează-te, luminează-te, Ierusalime, căci vine lumina ta, și slava Domnului a răsărit peste tine.”",
+      "note": "Septuaginta repetă „luminează-te” și adaugă „Ierusalime”, fără „ridică-te”."
+     }
+    ],
+    "refs": [
+     "Isaia 52:1,2",
+     "Efeseni 5:8,14",
+     "Isaia 9:2",
+     "Maleahi 4:2",
+     "Ioan 8:12",
+     "Apocalipsa 21:23"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Ridică-te! Luminează!” — tu, Ierusalime, ridică-te și strălucește, căci ți-a venit lumina cuvenită; e o pildă pentru bucurie și bine. „Și slava DOMNULUI” — adică Șehina se va descoperi asupra ta și va sălășlui în tine."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ridică-te! Luminează!” — a spus-o către Ierusalim; am explicat deja că lumina e o pildă pentru bucurie și bine, iar întunericul, dimpotrivă, pentru necaz și rău. „Căci lumina ta a venit” — a sosit vremea mântuirii tale, care îți e o lumină mare; și a repetat lucrul spunând „și slava DOMNULUI asupra ta a strălucit”; așa traduce și Ionatan: „căci a sosit vremea răscumpărării tale”."
+     }
+    ]
+   },
+   {
+    "v": "60:2",
+    "t": "Căci iată, întunericul va acoperi pământul și negura popoarele, dar asupra ta va străluci DOMNUL și slava Sa va fi văzută asupra ta.",
+    "heb": "כִּי־הִנֵּה הַחֹשֶׁךְ יְכַסֶּה־אֶרֶץ וַעֲרָפֶל לְאֻמִּים וְעָלַיִךְ יִזְרַח יְהוָה וּכְבוֹדוֹ עָלַיִךְ יֵרָאֶה׃",
+    "translit": "Ki-hine hahoșeh iehase-ereț vaarafel leumim vealaih izrah ADONAI uhevodo alaih ierae.",
+    "tokens": [
+     {
+      "t": "Căci iată, întunericul va acoperi pământul și "
+     },
+     {
+      "t": "negura",
+      "w": "negura",
+      "heb": "וַעֲרָפֶל",
+      "translit": "vaarafel",
+      "strong": "H6205",
+      "pos": "conjuncție + substantiv, masculin singular",
+      "def_ro": "negură, nor gros și întunecat.",
+      "dict_ro": "Arafel — „negura, norul gros”, cuvântul din care Dumnezeu i-a vorbit lui Moise la Sinai: „Moise s-a apropiat de negura în care era Dumnezeu” (Exod 20:21). Aici negura acoperă popoarele, iar lumina strălucește doar asupra Sionului, ca în Egipt, unde era lumină în locuințele fiilor lui Israel (Exod 10:23). Metzudat David și Radak: întunericul și negura sunt o pildă pentru necazurile care se vor înmulți în lume. Talmudul redă un dialog în care rabi Abahu, întrebat când va veni Mesia, răspunde cu acest verset (Sanhedrin 99a)."
+     },
+     {
+      "t": " popoarele, dar asupra ta va străluci DOMNUL și slava Sa va fi văzută asupra ta."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי־הִנֵּה הַחֹשֶׁךְ יְכַסֶּה־אֶרֶץ וַעֲרָפֶל...",
+      "translation": "„Căci iată, întunericul va acoperi pământul...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἰδοὺ σκότος καλύψει γῆν ὡς γνόφος ἐπ᾿ ἔθνη· ἐπὶ δὲ σὲ φανήσεται Κύριος, καὶ ἡ δόξα αὐτοῦ ἐπὶ σὲ ὀφθήσεται.",
+      "greek": true,
+      "translation": "„Iată, întunericul va acoperi pământul, ca o negură peste neamuri; iar peste tine Se va arăta Domnul și slava Lui se va vedea peste tine.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Faptele apostolilor 26:18",
+     "Efeseni 4:17-20",
+     "1 Împărați 8:11",
+     "Ezechiel 10:4",
+     "Hagai 2:7-9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Va acoperi pământul” — adică necazurile se vor înmulți în lume. „Și negura popoarele” — același lucru în alte cuvinte. „Va străluci DOMNUL” — îți va lumina lumina mântuirii. „Și slava Sa” — adică Șehina va sălășlui asupra ta."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Căci iată, întunericul” — întunericul și negura sunt o pildă pentru necazuri. „Va străluci DOMNUL și slava Sa va fi văzută asupra ta” — același lucru în alte cuvinte, căci DOMNUL e slava DOMNULUI; alții explică: „cu slava Lui”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vaarafel” — norul gros."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 99a",
+      "text": "Un eretic l-a întrebat pe rabi Abahu: când vine Mesia? I-a spus: când întunericul îi va acoperi pe oamenii aceia. I-a spus: mă blestemi? I-a răspuns: e un verset scris: „Căci iată, întunericul va acoperi pământul și negura popoarele, dar asupra ta va străluci DOMNUL și slava Sa va fi văzută asupra ta”."
+     }
+    ]
+   },
+   {
+    "v": "60:3",
+    "t": "Neamuri vor merge după lumina ta și regi după intensitatea lucirii tale.",
+    "heb": "וְהָלְכוּ גוֹיִם לְאוֹרֵךְ וּמְלָכִים לְנֹגַהּ זַרְחֵךְ׃",
+    "translit": "Vehalhu goim leoreh umelahim lenoga zarheh.",
+    "tokens": [
+     {
+      "t": "Neamuri vor merge după lumina ta și regi după intensitatea "
+     },
+     {
+      "t": "lucirii tale",
+      "w": "lucirii tale",
+      "heb": "זַרְחֵךְ",
+      "translit": "zarheh",
+      "strong": "H2225",
+      "pos": "substantiv, masculin singular, cu sufix persoana a II-a feminin singular",
+      "def_ro": "răsăritul tău, strălucirea ta.",
+      "dict_ro": "Zerah — „răsărit, strălucirea luminii care răsare”, de la zarah, „a răsări”, verbul din versetul 1 („slava DOMNULUI a strălucit”). Neamurile nu vin să cucerească, ci să învețe: Radak leagă versetul de Isaia 2:3, „veniți să ne suim la muntele DOMNULUI... ca să ne învețe căile Lui”; Metzudat David: de la tine vor învăța căile DOMNULUI, iar tu le vei lumina ochii. Talmudul descrie într-o agadă cum lumina Ierusalimului viitor va străluci de la un capăt la altul al lumii (Bava Batra 75a)."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָלְכוּ גוֹיִם לְאוֹרֵךְ וּמְלָכִים...",
+      "translation": "„Neamuri vor merge după lumina ta...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ πορεύσονται βασιλεῖς τῷ φωτί σου καὶ ἔθνη τῇ λαμπρότητί σου.",
+      "greek": true,
+      "translation": "„Și vor umbla regii în lumina ta și neamurile în strălucirea ta.”",
+      "note": "Septuaginta inversează subiectele: „regii” umblă în lumina ta, iar „neamurile” în strălucirea ta."
+     }
+    ],
+    "refs": [
+     "Isaia 2:2-5",
+     "Isaia 49:6,12,23",
+     "Psalmii 72:17-19",
+     "Mica 4:1,2",
+     "Matei 2:1-11",
+     "Apocalipsa 21:24"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„După lumina ta” — adică de la tine vor învăța căile DOMNULUI, iar tu le vei lumina ochii. „Și regi” — același lucru în alte cuvinte."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Neamuri vor merge” — cum a spus: „și vor merge popoare multe și vor spune: veniți să ne suim la muntele DOMNULUI, la Casa Dumnezeului lui Iacov, ca să ne învețe căile Lui și să umblăm pe cărările Lui”; aceasta înseamnă că neamurile vor merge după lumina lui Israel, ele, regii și căpeteniile lor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Lenoga” — cu sensul de strălucire, ca în „din strălucirea dinaintea Lui” (Psalmii 18:12). „Zarheh” — de la „răsărire”."
+     },
+     {
+      "author": "Talmud Bavli, Bava Batra 75a",
+      "text": "Restul pielii leviatanului, Cel Sfânt, binecuvântat fie El, îl va întinde pe zidurile Ierusalimului, iar strălucirea lui va lumina de la un capăt al lumii la celălalt, căci s-a spus: „Neamuri vor merge după lumina ta și regi după intensitatea lucirii tale”."
+     }
+    ]
+   },
+   {
+    "v": "60:4",
+    "t": "Ridică-ți ochii împrejur și privește, toți se adună, vin la tine; fiii tăi vor veni de departe și fiicele tale vor fi îngrijite alături [de regi].",
+    "heb": "שְׂאִי־סָבִיב עֵינַיִךְ וּרְאִי כֻּלָּם נִקְבְּצוּ בָאוּ־לָךְ בָּנַיִךְ מֵרָחוֹק יָבֹאוּ וּבְנֹתַיִךְ עַל־צַד תֵּאָמַנָה׃",
+    "translit": "Sei-saviv einaih urei kulam nikbețu vau-lah banaih merahok iavou uvenotaih al-țad teamana.",
+    "tokens": [
+     {
+      "t": "Ridică-ți ochii împrejur și privește, toți se adună, vin la tine; fiii tăi vor veni de departe și fiicele tale "
+     },
+     {
+      "t": "vor fi îngrijite",
+      "w": "vor fi îngrijite",
+      "heb": "תֵּאָמַנָה",
+      "translit": "teamana",
+      "strong": "H539",
+      "pos": "verb, imperfect nifal, persoana a III-a feminin plural",
+      "def_ro": "vor fi purtate, vor fi crescute ca de o doică.",
+      "dict_ro": "Aman — „a purta, a crește un copil”, de unde omen, „doică” (Metzudat Țion: ca în „el era doica Hadasei”, Estera 2:7). Metzudat Țion: e obiceiul să porți copilul mic pe o parte, pe șold. Imaginea se leagă de Isaia 49:22-23, din Haftarat Ekev, unde fiicele sunt purtate pe umeri, iar regii devin îngrijitorii lor. Versetul reia aproape cuvânt cu cuvânt „ridică-ți ochii împrejur și privește, toți se adună, vin la tine” (Isaia 49:18)."
+     },
+     {
+      "t": " alături [de regi]."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שְׂאִי־סָבִיב עֵינַיִךְ וּרְאִי כֻּלָּם...",
+      "translation": "„Ridică-ți ochii împrejur și privește, toți...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἆρον κύκλῳ τοὺς ὀφθαλμούς σου καὶ ἰδὲ συνηγμένα τὰ τέκνα σου· ἰδοὺ ἥκασι πάντες οἱ υἱοί σου μακρόθεν, καὶ αἱ θυγατέρες σου ἐπ᾿ ὤμων ἀρθήσονται.",
+      "greek": true,
+      "translation": "„Ridică-ți ochii împrejur și vezi adunați pe copiii tăi: iată, au venit toți fiii tăi de departe, iar fiicele tale vor fi purtate pe umeri.”",
+      "note": "Septuaginta are „vor fi purtate pe umeri” în loc de „vor fi îngrijite alături [de regi]”."
+     }
+    ],
+    "refs": [
+     "Isaia 49:18",
+     "Isaia 49:20-22",
+     "Isaia 66:11,12",
+     "Matei 8:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Vor fi îngrijite alături [de regi]” — Ionatan traduce: pe coapse, pe coapsele regilor vor fi crescute."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ridică-ți ochii împrejur” — tu, Ierusalime, ridică-ți ochii împrejur și vezi cum toți oamenii tăi s-au adunat și au venit la tine. „Vor fi îngrijite alături” — fiecare dintre ele va fi crescută alături de regi și în sânul lor, cum e scris: „regii vor fi îngrijitorii tăi” (Isaia 49:23)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Ridică-ți ochii împrejur” — „toți” înseamnă fiii și fiicele tale; Ionatan traduce: „tot poporul exilului”. „Vor fi îngrijite” — ca în „cum poartă doica pruncul”; „alături” înseamnă alături de regine și de prințese, cum e scris: „și prințesele lor, doicile tale”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Al țad” — e obiceiul să porți copilul mic pe o parte. „Teamana” — cu sensul de creștere a copiilor mici, ca în „el era doica Hadasei” (Estera 2:7)."
+     }
+    ]
+   },
+   {
+    "v": "60:5",
+    "t": "Atunci vei vedea și vei radia, inima ta va tresări și va crește [de bucurie], căci belșugul apusului se va revărsa asupra ta și bogăția neamurilor va veni la tine.",
+    "heb": "אָז תִּרְאִי וְנָהַרְתְּ וּפָחַד וְרָחַב לְבָבֵךְ כִּי־יֵהָפֵךְ עָלַיִךְ הֲמוֹן יָם חֵיל גּוֹיִם יָבֹאוּ לָךְ׃",
+    "translit": "Az tiri venahart ufahad verahav levaveh ki-iehafek alaih hamon iam heil goim iavou lah.",
+    "tokens": [
+     {
+      "t": "Atunci vei vedea și "
+     },
+     {
+      "t": "vei radia",
+      "w": "vei radia",
+      "heb": "וְנָהַרְתְּ",
+      "translit": "venahart",
+      "strong": "H5102",
+      "pos": "conjuncție + verb, perfect qal consecutiv, persoana a II-a feminin singular",
+      "def_ro": "vei străluci de bucurie.",
+      "dict_ro": "Nahar — „a străluci”, de la aramaicul nehora, „lumină” (Rashi), cum e scris: „priviți spre El și veți străluci” (Psalmii 34:5). Același radical înseamnă și „a curge” (de la nahar, „râu”), iar unele traduceri îl redau aici „vei curge împreună”, ca un râu de oameni. Radak descrie reacția: omul care primește dintr-odată un bine mare întâi se sperie, apoi i se lărgește inima de bucurie. „Belșugul mării” e bogăția popoarelor de la apus, care va veni spre Ierusalim (Metzudat David)."
+     },
+     {
+      "t": ", inima ta va tresări și va crește [de bucurie], căci belșugul apusului se va revărsa asupra ta și bogăția neamurilor va veni la tine."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "אָז תִּרְאִי וְנָהַרְתְּ וּפָחַד...",
+      "translation": "„Atunci vei vedea și vei radia...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τότε ὄψῃ καὶ φοβηθήσῃ καὶ ἐκστήσῃ τῇ καρδίᾳ, ὅτι μεταβαλεῖ εἰς σὲ πλοῦτος θαλάσσης καὶ ἐθνῶν καὶ λαῶν. καὶ ἥξουσί σοι",
+      "greek": true,
+      "translation": "„Atunci vei vedea și te vei teme și te vei minuna cu inima, căci se va întoarce spre tine bogăția mării și a neamurilor și a popoarelor. Și îți vor veni”",
+      "note": "Septuaginta are „te vei teme” (φοβηθήσῃ) în loc de „vei radia”."
+     }
+    ],
+    "refs": [
+     "Ieremia 33:9",
+     "Isaia 54:2",
+     "Isaia 61:6",
+     "1 Samuel 2:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Atunci vei vedea și vei radia” — venahart, de la nehora, lumină: atunci vei vedea și vei străluci (după Ionatan). „Inima ta va tresări și va crește” — inima ta se va minuna și se va lărgi. „Căci belșugul apusului se va revărsa asupra ta” — bogăția apusului se va întoarce spre tine. „Bogăția neamurilor” — averile neamurilor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Atunci vei vedea” — pe fiii tăi venind din toate părțile, iar fața ta va străluci de mulțimea bucuriei. „Va tresări” — e felul omului să se sperie, ca și cum s-ar teme, când îi vine dintr-odată un bine. „Și va crește” — ți se va lărgi inima de mulțimea binelui și a bucuriei. „Căci belșugul” — mulțimea bogăției neamurilor care locuiesc la apus se va întoarce ca să vină la tine."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Atunci vei vedea” — pe fiii tăi venind din toate părțile, și fața ta se va lumina; aceasta e „vei radia”, cu sensul de lumină, ca în „priviți spre El și veți străluci”. „Inima ta va tresări și va crește” — ca omul care se sperie când îi vine dintr-odată un bine mare, iar apoi i se lărgește inima de mulțimea binelui; căci cum se strâmtorează inima de rău, de necaz și de doliu, așa se lărgește de bine și de bucurie."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Venahart” — cu sensul de lumină, ca în „și să nu strălucească lumina peste ea” (Iov 3:4). „Hamon” — cu sensul de mulțime, ca în „cine iubește mulțimea” (Eclesiastul 5:10). „Iam” — partea de apus. „Heil” — cu sensul de bogăție, ca în „a înghițit bogății” (Iov 20:15)."
+     }
+    ]
+   },
+   {
+    "v": "60:6",
+    "t": "Cămile din belșug te vor înconjura, dromaderi din Midian și Efa, toți cei din Șeba vor veni, aur și tămâie vor purta, și laudele DOMNULUI le vor proclama.",
+    "heb": "שִׁפְעַת גְּמַלִּים תְּכַסֵּךְ בִּכְרֵי מִדְיָן וְעֵיפָה כֻּלָּם מִשְּׁבָא יָבֹאוּ זָהָב וּלְבוֹנָה יִשָּׂאוּ וּתְהִלֹּת יְהוָה יְבַשֵּׂרוּ׃",
+    "translit": "Șifat ghemalim tehaséh bihrei Midian ve'Eifa kulam mi'Șeva iavou zahav ulevona isau utehilot ADONAI ievaseru.",
+    "tokens": [
+     {
+      "t": "Cămile din belșug te vor înconjura, "
+     },
+     {
+      "t": "dromaderi",
+      "w": "dromaderi",
+      "heb": "בִּכְרֵי",
+      "translit": "bihrei",
+      "strong": "H1070",
+      "pos": "substantiv, masculin plural, în construcție",
+      "def_ro": "cămile tinere, dromaderi.",
+      "dict_ro": "Beher — „cămila tânără”, iute la alergat, ca în „dromaderă iute” (Ieremia 2:23; Rashi, Metzudat Țion). Midian și Efa sunt urmași ai lui Avraam prin Chetura (Geneza 25:4), iar Șeba e țara reginei care a venit la Solomon cu aur, mirodenii și pietre prețioase (1 Împărați 10:2). Aurul și tămâia sunt darurile pe care le aduc; Radak explică de ce se spune că „vor vesti laudele DOMNULUI”: până atunci doar Israel le vestise, iar pentru neamuri va fi o veste nouă. Evanghelia după Matei vorbește despre magii care aduc lui Iisus aur, tămâie și smirnă (Matei 2:11)."
+     },
+     {
+      "t": " din Midian și Efa, toți cei din Șeba vor veni, aur și tămâie vor purta, și laudele DOMNULUI le vor proclama."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "שִׁפְעַת גְּמַלִּים תְּכַסֵּךְ בִּכְרֵי...",
+      "translation": "„Cămile din belșug te vor înconjura...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἀγέλαι καμήλων, καὶ καλύψουσί σε κάμηλοι Μαδιὰμ καὶ Γαιφά· πάντες ἐκ Σαβὰ ἥξουσι φέροντες χρυσίον καὶ λίβανον οἴσουσι καὶ λίθον τίμιον καὶ τὸ σωτήριον Κυρίου εὐαγγελιοῦνται.",
+      "greek": true,
+      "translation": "„…turme de cămile, și te vor acoperi cămilele din Madiam și Gaifa; toți vor veni din Saba aducând aur, și tămâie vor aduce, și piatră de preț, și mântuirea Domnului o vor binevesti.”",
+      "note": "Septuaginta adaugă „piatră de preț” și are „mântuirea Domnului o vor binevesti” în loc de „laudele DOMNULUI le vor proclama”."
+     }
+    ],
+    "refs": [
+     "Geneza 25:4,13",
+     "Psalmii 72:10,15",
+     "Matei 2:11",
+     "1 Împărați 10:2",
+     "Geneza 25:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Din belșug” (șifat) — mulțime. „Dromaderi din Midian” — Ionatan traduce: cămile tinere, ca în „dromaderă iute” (Ieremia 2:23). „Și Efa” — și ei sunt din fiii lui Midian, ca în „Efa și Efer” (Geneza 25:4)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cămile din belșug” — mulțime de cămile îți vor aduce daruri și vor acoperi pământul. „Dromaderi din Midian” — cămile tinere care vin din Midian și Efa. „Toți cei din Șeba vor veni” — toți fiii Șebei vor veni la tine și vor aduce aur și tămâie ca dar pentru DOMNUL, iar când se vor întoarce în țara lor vor vesti și vor povesti laudele DOMNULUI."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Din belșug” — cu sensul de mulțime. „Dromaderi” — cămile tinere, ca în „dromaderă iute”. „Și laudele DOMNULUI le vor proclama” — cămilele și negustorii vor aduce aurul și tămâia ca marfă și ca dar pentru regele Mesia și pentru Casa DOMNULUI; iar „vor vesti” pentru că neamurile vor fi noi în povestirea laudelor DOMNULUI, căci până atunci doar Israel le povestea, iar cine povestește lucruri noi se numește vestitor."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Șifat” — cu sensul de mulțime, ca în „din mulțimea cailor lui” (Ezechiel 26:10). „Bihrei” — cămile tinere, ca în „dromaderă iute” (Ieremia 2:23). „Ulevona” — numele unui fel de mireasmă, una dintre mirodeniile tămâiei. „Ievaseru” — cu sensul de a povesti vești noi."
+     }
+    ]
+   },
+   {
+    "v": "60:7",
+    "t": "Toate turmele Kedarului se vor aduna la tine, berbecii din Nebaiot îți vor sluji; vor fi aduși ca [jertfe] primite pe altarul Meu și Îmi voi înălța Casa slavei Mele.",
+    "heb": "כָּל־צֹאן קֵדָר יִקָּבְצוּ לָךְ אֵילֵי נְבָיוֹת יְשָׁרְתוּנֵךְ יַעֲלוּ עַל־רָצוֹן מִזְבְּחִי וּבֵית תִּפְאַרְתִּי אֲפָאֵר׃",
+    "translit": "Kol-țon Kedar ikavețu lah eilei Nevaiot ieșartuneh iaalu al-rațon mizbehi uveit tifarti afaer.",
+    "tokens": [
+     {
+      "t": "Toate "
+     },
+     {
+      "t": "turmele Kedarului",
+      "w": "turmele Kedarului",
+      "heb": "צֹאן קֵדָר",
+      "translit": "țon Kedar",
+      "strong": "H6938",
+      "pos": "substantiv + nume propriu",
+      "def_ro": "turmele Kedarului.",
+      "dict_ro": "Kedar și Nebaiot sunt primii doi fii ai lui Ismael (Geneza 25:13; Metzudat Țion), triburi de păstori din pustiul arab, locuind în corturi și mutându-se din loc în loc după pășune (Radak). Turmele lor, cele mai alese, vor fi aduse ca jertfe primite pe altarul lui Dumnezeu. Talmudul păstrează o dispută pe acest verset: rabi Eliezer credea că nu se primesc jertfe de la neamuri, iar colegii lui i-au obiectat cu acest verset; el le-a răspuns că în vremea aceea toți vor fi convertiți (Avoda Zara 24a)."
+     },
+     {
+      "t": " se vor aduna la tine, berbecii din Nebaiot îți vor sluji; vor fi aduși ca [jertfe] primite pe altarul Meu și Îmi voi înălța Casa slavei Mele."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כָּל־צֹאן קֵדָר יִקָּבְצוּ לָךְ...",
+      "translation": "„Toate turmele Kedarului se vor aduna...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ πάντα τὰ πρόβατα Κηδὰρ συναχθήσονταί σοι καὶ κριοὶ Ναβαιὼθ ἥξουσί σοι, καὶ ἀνενεχθήσεται δεκτὰ ἐπὶ τὸ θυσιαστήριόν μου, καὶ ὁ οἶκος τῆς προσευχῆς μου δοξασθήσεται.",
+      "greek": true,
+      "translation": "„Și toate oile din Chedar se vor aduna la tine și berbecii din Nabaiot vor veni la tine, și se vor aduce, bine primite, pe altarul Meu, și casa rugăciunii Mele va fi slăvită.”",
+      "note": "Septuaginta are „casa rugăciunii Mele” în loc de „Casa slavei Mele”."
+     }
+    ],
+    "refs": [
+     "Geneza 25:13",
+     "Isaia 56:7",
+     "Hagai 2:7-9",
+     "Isaia 42:11",
+     "Romani 15:16"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Berbecii din Nebaiot” — berbeci din Nebaiot (după Ionatan)."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Toate turmele Kedarului” — oile din țara Kedarului sunt cele mai alese. „Se vor aduna la tine” — vor fi strânse ca să ți le aducă. „Berbecii din Nebaiot” — berbecii din Nebaiot sunt cei mai aleși. „Îți vor sluji” — îți vor fi pentru trebuințele tale. „Vor fi aduși” — e ca și cum ar fi răsturnat: vor fi urcați pe altarul Meu spre bunăvoință. „Și Casa slavei Mele” — acesta e Templul. „O voi înălța” — căci neamurile vor aduce acolo daruri de argint și de aur."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Toate turmele Kedarului” — adică cele mai multe; Kedar și Nebaiot cresc oi multe, căci locuiesc în corturi, se mută dintr-un loc în altul și caută pășunea. „Vor fi aduși ca [jertfe] primite pe altarul Meu” — sau neamurile vor aduce din ele jertfe DOMNULUI, sau Israel le va aduce; e o dispută între Înțelepți: rabi Eliezer spunea că nu se aduc jertfe din vitele neamurilor, iar i s-a obiectat din acest verset, și a răspuns că în viitor toți vor fi convertiți, cum e scris: „atunci voi da popoarelor buze curate, ca să cheme toți Numele DOMNULUI”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Nevaiot” — numele unui loc unde au locuit fiii lui Ismael, cum e scris: „întâiul născut al lui Ismael, Nebaiot” (Geneza 25:13). „Ieșaretuneh” — îți vor fi pentru trebuința ta, ca în „hainele de slujbă pentru slujba în Locul Sfânt” (Exod 35:19)."
+     },
+     {
+      "author": "Talmud Bavli, Avoda Zara 24a",
+      "text": "Ce i-au obiectat colegii lui rabi Eliezer? „Toate turmele Kedarului se vor aduna la tine... vor fi aduși ca [jertfe] primite pe altarul Meu”. Rabi Eliezer le-a spus: în viitor toți vor fi convertiți."
+     }
+    ]
+   },
+   {
+    "v": "60:8",
+    "t": "Cine sunt aceștia? Precum zboară un nor, ca porumbei către porumbarele lor.",
+    "heb": "מִי־אֵלֶּה כָּעָב תְּעוּפֶינָה וְכַיּוֹנִים אֶל־אֲרֻבֹּתֵיהֶם׃",
+    "translit": "Mi-ele kaav teufena vehayonim el-aruboteihem.",
+    "tokens": [
+     {
+      "t": "Cine sunt aceștia? Precum zboară un nor, ca porumbei către "
+     },
+     {
+      "t": "porumbarele lor",
+      "w": "porumbarele lor",
+      "heb": "אֲרֻבֹּתֵיהֶם",
+      "translit": "arubboteihem",
+      "strong": "H699",
+      "pos": "substantiv, feminin plural, cu sufix persoana a III-a masculin plural",
+      "def_ro": "ferestrele porumbarului, cuiburile lor.",
+      "dict_ro": "Arubba — „fereastră, deschizătură”, cuvântul folosit pentru „ferestrele cerului” deschise la potop (Geneza 7:11); aici, ferestrele porumbarului prin care intră porumbeii (Metzudat Țion). Radak explică imaginea: porumbeii zboară mai repede când se întorc spre cuib decât când pleacă, pentru că se grăbesc la puii lor; tot așa se vor grăbi exilații spre Sion. Talmudul spune că întoarcerea la Ierusalim nu va fi o osteneală, căci vor zbura „ca un nor” (Bava Batra 75b)."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "מִי־אֵלֶּה כָּעָב תְּעוּפֶינָה וְכַיּוֹנִים...",
+      "translation": "„Cine sunt aceștia? Precum zboară un...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τίνες οἵδε ὡς νεφέλαι πέτανται καὶ ὡσεὶ περιστεραὶ σὺν νεοσσοῖς;",
+      "greek": true,
+      "translation": "„Cine sunt aceștia care zboară ca norii și ca porumbeii cu puii lor?”",
+      "note": "Septuaginta are „cu puii lor” în loc de „către porumbarele lor”."
+     }
+    ],
+    "refs": [
+     "Geneza 8:8-11",
+     "Isaia 60:4",
+     "Luca 13:29"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Cine sunt aceștia?” — ca și cum oamenii ar întreba despre fiii exilului: cine sunt aceștia care se grăbesc să se întoarcă, ca zborul norului și ca porumbeii care se grăbesc să zboare spre ferestrele porumbarului?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cine sunt aceștia?” — a spus la feminin, despre adunările lui Israel care urcă din exil de ici și de colo și vin ușor și repede ca norul; a asemănat iuțeala celor ușori cu zburătoarele, căci zborul e mișcarea cea mai ușoară. „Ca porumbei către porumbarele lor” — căci zboară mai repede când se întorc spre cuiburi decât când pleacă, pentru că se grăbesc să se întoarcă la puii pe care i-au lăsat, ca să-i hrănească."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Kaav” — ca norul. „Teufena” — de la „zbor și plutire”. „Arubboteihem” — de la „fereastră”, ca în „ferestrele cerului” (Geneza 7:11), adică ferestrele porumbarului, locul unde stau."
+     },
+     {
+      "author": "Talmud Bavli, Bava Batra 75b",
+      "text": "Și ca să nu spui că e o osteneală să urci, versetul spune: „Cine sunt aceștia? Precum zboară un nor, ca porumbei către porumbarele lor”."
+     }
+    ]
+   },
+   {
+    "v": "60:9",
+    "t": "Căci la Mine se vor aduna locuitorii insulelor și corăbiile din Tarșiș [precum] în vremurile de odinioară, ca să-i aducă pe copiii tăi de departe, aur și argint însoțindu-i, de dragul DOMNULUI, Dumnezeului tău, și pentru Sfântul lui Israel, căci El te-a slăvit.",
+    "heb": "כִּי־לִי אִיִּים יְקַוּוּ וָאֳנִיּוֹת תַּרְשִׁישׁ בָּרִאשֹׁנָה לְהָבִיא בָנַיִךְ מֵרָחוֹק כַּסְפָּם וּזְהָבָם אִתָּם לְשֵׁם יְהוָה אֱלֹהַיִךְ וְלִקְדוֹשׁ יִשְׂרָאֵל כִּי פֵאֲרָךְ׃",
+    "translit": "Ki-li iim iekavu vaoniot Tarșiș barișona lehavi vanaih merahok kaspam uzehavam itam leșem ADONAI Elohaih velikdoș Israel ki fearah.",
+    "tokens": [
+     {
+      "t": "Căci la Mine se vor aduna locuitorii insulelor și corăbiile din "
+     },
+     {
+      "t": "Tarșiș",
+      "w": "Tarșiș",
+      "heb": "תַרְשִׁישׁ",
+      "translit": "Tarșiș",
+      "strong": "H8659",
+      "pos": "nume propriu",
+      "def_ro": "Tarșiș, port îndepărtat al Mediteranei.",
+      "dict_ro": "Tarșiș — un port îndepărtat din vestul Mediteranei (probabil Tartessos, în Spania), spre care a vrut să fugă Iona (Iona 1:3); „corăbiile din Tarșiș” erau vasele mari de negoț pe distanțe lungi. Rashi citește „ca la început” ca amintire a vremii lui Solomon, când „corăbiile din Tarșiș veneau o dată la trei ani, aducând aur și argint” (1 Împărați 10:22). Acum aceleași corăbii îi vor aduce pe fiii Sionului de departe, cu argintul și aurul lor."
+     },
+     {
+      "t": " [precum] în vremurile de odinioară, ca să-i aducă pe copiii tăi de departe, aur și argint însoțindu-i, de dragul DOMNULUI, Dumnezeului tău, și pentru Sfântul lui Israel, căci El te-a slăvit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי־לִי אִיִּים יְקַוּוּ וָאֳנִיּוֹת...",
+      "translation": "„Căci la Mine se vor aduna...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ἐμὲ αἱ νῆσοι ὑπέμειναν καὶ πλοῖα Θαρσὶς ἐν πρώτοις, ἀγαγεῖν τὰ τέκνα σου μακρόθεν καὶ τὸν ἄργυρον καὶ τὸ χρυσὸν αὐτῶν μετ᾿ αὐτῶν διὰ τὸ ὄνομα Κυρίου τὸ ἅγιον καὶ διὰ τὸ τὸν ἅγιον τοῦ ᾿Ισραὴλ ἔνδοξον εἶναι.",
+      "greek": true,
+      "translation": "„Ostroavele M-au așteptat și corăbiile din Tarsis printre cele dintâi, ca să aducă pe copiii tăi de departe, și argintul și aurul lor cu ei, pentru Numele cel sfânt al Domnului și pentru că Sfântul lui Israel este slăvit.”",
+      "note": "Septuaginta are „ostroavele M-au așteptat” și „Numele cel sfânt al Domnului”."
+     }
+    ],
+    "refs": [
+     "1 Împărați 10:22",
+     "Isaia 2:16",
+     "Isaia 66:19,20",
+     "Isaia 51:5",
+     "Isaia 55:5",
+     "Ieremia 3:17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „[Precum] în vremurile de odinioară” — ca la început, adică în zilele lui Solomon, cum s-a spus: „regele avea pe mare corăbii din Tarșiș...; o dată la trei ani veneau corăbiile din Tarșiș” (1 Împărați 10:22); Tarșiș e numele mării. „De dragul DOMNULUI, Dumnezeului tău” — care e chemat peste tine, căci vor auzi de El și de Numele puterii Lui și vor veni. „Căci El te-a slăvit” — ți-a dat slavă."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Căci la Mine se vor aduna locuitorii insulelor” — locuitorii insulelor mării se vor strânge ca să vină la Mine, iar corăbiile de pe marea Tarșiș se vor trezi cele dintâi ca să se adune și să-i aducă pe fiii tăi. „Aur și argint” — ca să aducă dar DOMNULUI. „De dragul DOMNULUI” — toate acestea vor fi din pricina vestirii Numelui DOMNULUI. „Căci El te-a slăvit” — care ți-a dat slavă, strălucire și însemnătate."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Căci la Mine se vor aduna locuitorii insulelor” — căci Eu fac bine și rău; de aceea îi vor aduce pe fiii tăi din locul lor, chiar dacă vor fi departe, în țara lui Israel. „Și corăbiile din Tarșiș [precum] în vremurile de odinioară” — cum veneau corăbiile din Tarșiș la început, în zilele lui Solomon. „Aur și argint însoțindu-i” — poate aurul și argintul lui Israel, adică vor veni cu toată averea lor și nu vor lăsa nimic în țările exilului; sau aurul și argintul neamurilor, cum s-a spus despre cei care au urcat din Babilon: „oamenii locului lor să-i ajute cu argint, cu aur, cu averi și cu vite” (Ezra 1:4)."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Iekavu” — cu sensul de adunare, ca în „să se adune apele” (Geneza 1:9). „Vaoniot” — corăbii."
+     }
+    ]
+   },
+   {
+    "v": "60:10",
+    "t": "Apoi copiii străinilor îți vor construi ziduri și regii lor îți vor sluji. Chiar dacă te-am lovit în supărarea Mea, în mila Mea am fost binevoitor cu tine.",
+    "heb": "וּבָנוּ בְנֵי־נֵכָר חֹמֹתַיִךְ וּמַלְכֵיהֶם יְשָׁרְתוּנֵךְ כִּי בְקִצְפִּי הִכִּיתִיךְ וּבִרְצוֹנִי רִחַמְתִּיךְ׃",
+    "translit": "Uvanu venei-nehar homotaih umalheihem ieșartuneh ki vekitpi hikitiha uvirtzoni rihamtih.",
+    "tokens": [
+     {
+      "t": "Apoi "
+     },
+     {
+      "t": "copiii străinilor",
+      "w": "copiii străinilor",
+      "heb": "בְנֵי־נֵכָר",
+      "translit": "venei-nehar",
+      "strong": "H5236",
+      "pos": "substantiv, în construcție + substantiv, masculin singular",
+      "def_ro": "fiii străinilor, oameni din alte neamuri.",
+      "dict_ro": "Nehar — „străinătate, străin”, cel din afara poporului; bnei-nehar, „fiii străinătății”, sunt oamenii altor neamuri. Aceiași străini care au dărâmat zidurile Ierusalimului le vor zidi, iar regii lor vor sluji. Aceeași răsturnare apare în Isaia 54:7-8, din Haftarat Ki Tețe: „doar o clipă te-am părăsit, dar cu milă eternă te voi reîntoarce”. Metzudat David și Radak: vei recunoaște atunci că nimic din ce ți s-a întâmplat, bun sau rău, n-a fost întâmplare, ci de la Mine. Zidirea zidurilor cu ajutorul regilor persani s-a văzut în parte în vremea lui Ezra și Neemia (Neemia 2:7-9)."
+     },
+     {
+      "t": " îți vor construi ziduri și regii lor îți vor sluji. Chiar dacă te-am lovit în supărarea Mea, în mila Mea am fost binevoitor cu tine."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּבָנוּ בְנֵי־נֵכָר חֹמֹתַיִךְ וּמַלְכֵיהֶם...",
+      "translation": "„Apoi copiii străinilor îți vor construi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οἰκοδομήσουσιν ἀλλογενεῖς τὰ τείχη σου, καὶ οἱ βασιλεῖς αὐτῶν παραστήσονταί σοι· διὰ γὰρ ὀργήν μου ἐπάταξά σε καὶ διὰ ἔλεον ἠγάπησά σε.",
+      "greek": true,
+      "translation": "„Și străinii îți vor zidi zidurile și regii lor vor sta înaintea ta; căci în mânia Mea te-am lovit și în milă te-am iubit.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 61:5",
+     "Zaharia 6:15",
+     "Ezra 6:3-12",
+     "Neemia 2:7-9",
+     "Isaia 54:7,8",
+     "Psalmii 30:5"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „În mila Mea” — pentru că am avut bunăvoință față de tine."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ziduri” — zidurile cetăților. „Îți vor sluji” — îți vor face slujbă. „Chiar dacă te-am lovit în supărarea Mea” — adică tot ce a venit asupra ta nu a fost în chip firesc, căci odinioară te-am lovit în mânia Mea, și de aceea ai fost în cea mai mare umilință; iar acum am avut milă de tine în bunăvoința Mea, și de aceea vei stăpâni cu stăpânire mare."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Apoi copiii străinilor îți vor construi ziduri” — pe lângă faptul că îți vor sluji cu darurile pe care ți le vor aduce, îți vor sluji în țara ta, zidindu-ți zidurile și făcându-ți lucrul. „Chiar dacă te-am lovit în supărarea Mea” — atunci vei recunoaște că toate lucrurile tale, fie bune, fie rele, sunt de la Mine, și nimic nu e întâmplare: când mânia Mea era asupra ta, erai roabă a robilor în exil, iar când bunăvoința Mea va fi asupra ta, îți vor sluji chiar și regii neamurilor, cu atât mai mult poporul."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Bekițpi” — de la „supărare și mânie”."
+     }
+    ]
+   },
+   {
+    "v": "60:11",
+    "t": "Și porțile tale vor fi deschise necontentit, zi și noapte, nu se vor închide, ca să-ți aducă bogăția neamurilor și pe regii lor însoțiți.",
+    "heb": "וּפִתְּחוּ שְׁעָרַיִךְ תָּמִיד יוֹמָם וָלַיְלָה לֹא יִסָּגֵרוּ לְהָבִיא אֵלַיִךְ חֵיל גּוֹיִם וּמַלְכֵיהֶם נְהוּגִים׃",
+    "translit": "Ufitehu șearaih tamid iomam valaila lo isageru lehavi elaih heil goim umalheihem nehugim.",
+    "tokens": [
+     {
+      "t": "Și "
+     },
+     {
+      "t": "porțile tale",
+      "w": "porțile tale",
+      "heb": "שְׁעָרַיִךְ",
+      "translit": "șearaih",
+      "strong": "H8179",
+      "pos": "substantiv, masculin plural, cu sufix persoana a II-a feminin singular",
+      "def_ro": "porțile tale.",
+      "dict_ro": "Șaar — „poartă”, locul unde, în cetățile antice, se țineau judecata și negoțul, și care se închidea noaptea de frica dușmanului (Neemia 13:19). Porțile deschise zi și noapte sunt semnul unei păci desăvârșite: Radak — pentru că va fi pace în lume, iar caravanele cu daruri vor putea veni și noaptea, pe răcoare. Rashi observă forma verbului (pittehu, la intensiv): o deschidere statornică, neîntreruptă. Apocalipsa descrie la fel Ierusalimul ceresc: „porțile lui nu se vor închide ziua, căci acolo nu va fi noapte” (Apocalipsa 21:25)."
+     },
+     {
+      "t": " vor fi deschise necontentit, zi și noapte, nu se vor închide, ca să-ți aducă bogăția neamurilor și pe regii lor însoțiți."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וּפִתְּחוּ שְׁעָרַיִךְ תָּמִיד יוֹמָם...",
+      "translation": "„Și porțile tale vor fi deschise...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀνοιχθήσονται αἱ πύλαι σου διαπαντός, ἡμέρας καὶ νυκτὸς οὐ κλεισθήσονται, εἰσαγαγεῖν πρὸς σὲ δύναμιν ἐθνῶν καὶ βασιλεῖς αὐτῶν ἀγομένους.",
+      "greek": true,
+      "translation": "„Și porțile tale se vor deschide pururea, ziua și noaptea nu se vor închide, ca să aducă la tine puterea neamurilor și pe regii lor, duși.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Apocalipsa 21:25",
+     "Neemia 13:19"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și porțile tale vor fi deschise necontenit” (ufiteh) — e o expresie de deschidere la forma intensivă, pentru că deschiderea lor e o deschidere statornică, neîntreruptă."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și porțile tale vor fi deschise” — vor sta deschise. „Zi și noapte” — același lucru în alte cuvinte. „Bogăția neamurilor” — averea neamurilor."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și porțile tale vor fi deschise” — le-a spus către cetatea Ierusalimului, ca în toată pericopa: porțile tale vor fi deschise mereu, noaptea ca și ziua, ca să intre cei care aduc averea neamurilor ca dar, căci va fi pace în lume și vor merge noaptea, pe vremea arșiței. „Și pe regii lor însoțiți” — vor fi aduși la tine ca să vină înaintea regelui Mesia ca robii înaintea stăpânilor lor; iar „însoțiți”, pentru că obiceiul regilor, când merg pe drum, e să fie însoțiți de căpetenii, spre cinste."
+     }
+    ]
+   },
+   {
+    "v": "60:12",
+    "t": "Căci neamul și regatul care nu te va sluji va fi pierdut și neamurile vor fi complet nimicite.",
+    "heb": "כִּי־הַגּוֹי וְהַמַּמְלָכָה אֲשֶׁר לֹא־יַעַבְדוּךְ יֹאבֵדוּ וְהַגּוֹיִם חָרֹב יֶחֱרָבוּ׃",
+    "translit": "Ki-hagoi vehamamlaha așer lo-iaavduh iovedu vehagoim harov ieheravu.",
+    "tokens": [
+     {
+      "t": "Căci neamul și regatul care nu te va sluji va fi pierdut și neamurile vor fi "
+     },
+     {
+      "t": "complet nimicite",
+      "w": "complet nimicite",
+      "heb": "חָרֹב יֶחֱרָבוּ",
+      "translit": "harov iehervu",
+      "strong": "H2717",
+      "pos": "infinitiv absolut + verb, imperfect qal, persoana a III-a masculin plural",
+      "def_ro": "vor fi cu totul pustiite.",
+      "dict_ro": "Harav — „a se usca, a fi pustiit”, de unde horba, „ruină”; construcția ebraică (infinitivul urmat de verb) întărește sensul: „pustiite cu totul”. Radak aduce și o altă citire, de la herev, „sabie”: vor fi ucise. Versetul e o întrerupere aspră în mijlocul imaginilor luminoase și amintește făgăduința dată lui Avraam: „voi blestema pe cei ce te vor blestema” (Geneza 12:3); Psalmul 2:12 pune aceeași alegere înaintea regilor pământului."
+     },
+     {
+      "t": "."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כִּי־הַגּוֹי וְהַמַּמְלָכָה אֲשֶׁר לֹא־יַעַבְדוּךְ...",
+      "translation": "„Căci neamul și regatul care nu...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "τὰ γὰρ ἔθνη καὶ οἱ βασιλεῖς, οἵτινες οὐ δουλεύσουσί σοι, ἀπολοῦνται καὶ τὰ ἔθνη ἐρημίᾳ ἐρημωθήσεται.",
+      "greek": true,
+      "translation": "„Căci neamurile și regii care nu-ți vor sluji vor pieri, și neamurile vor fi pustiite cu totul.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Zaharia 14:12-19",
+     "Psalmii 2:12",
+     "Daniel 2:35,44,45",
+     "Isaia 41:11"
+    ],
+    "commentaries": [
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și neamurile vor fi complet nimicite” — cu sensul de pustiire; alții explică de la „sabie”, adică vor fi uciși."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Harov iehervu” — de la „pustiire”."
+     }
+    ]
+   },
+   {
+    "v": "60:13",
+    "t": "Slava Libanului la tine va veni, chiparosul, ulmul și pinul împreună, ca să împodobească locul Sanctuarului Meu; și locul unde Mi se odihnesc picioarele îl voi cinsti.",
+    "heb": "כְּבוֹד הַלְּבָנוֹן אֵלַיִךְ יָבוֹא בְּרוֹשׁ תִּדְהָר וּתְאַשּׁוּר יַחְדָּו לְפָאֵר מְקוֹם מִקְדָּשִׁי וּמְקוֹם רַגְלַי אֲכַבֵּד׃",
+    "translit": "Kevod ha'Levanon elaih iavo beroș tidhar uteașur iahdav lefaer mekom mikdași umekom raglai ahabed.",
+    "tokens": [
+     {
+      "t": "Slava Libanului la tine va veni, "
+     },
+     {
+      "t": "chiparosul",
+      "w": "chiparosul",
+      "heb": "בְּרוֹשׁ",
+      "translit": "beroș",
+      "strong": "H1265",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "chiparos (sau un fel de brad).",
+      "dict_ro": "Beroș — un copac de munte înalt și drept, identificat cu chiparosul sau cu bradul, din lemnul căruia Hiram i-a trimis lui Solomon pentru Templu (1 Împărați 5:10; Radak). „Slava Libanului” sunt copacii lui cei mai de preț, care vor veni să împodobească din nou Templul. Metzudat David explică „locul unde Mi se odihnesc picioarele” printr-o pildă: Dumnezeu șade pe tron în ceruri, iar picioarele Lui se odihnesc pe Templu, ca pe un scăunel, cum spune psalmistul: „închinați-vă la scăunelul picioarelor Lui” (Psalmii 99:5; 132:7)."
+     },
+     {
+      "t": ", ulmul și pinul împreună, ca să împodobească locul Sanctuarului Meu; și locul unde Mi se odihnesc picioarele îl voi cinsti."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "כְּבוֹד הַלְּבָנוֹן אֵלַיִךְ יָבוֹא...",
+      "translation": "„Slava Libanului la tine va veni...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἡ δόξα τοῦ Λιβάνου πρὸς σὲ ἥξει ἐν κυπαρίσσῳ καὶ πεύκῃ καὶ κέδρῳ ἅμα, δοξάσαι τὸν τόπον τὸν ἅγιόν μου καὶ τὸν τόπον τῶν ποδῶν μου δοξάσω.",
+      "greek": true,
+      "translation": "„Și slava Libanului va veni la tine, cu chiparos, pin și cedru deodată, ca să slăvească locul Meu cel sfânt, și locul picioarelor Mele îl voi slăvi.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 41:19,20",
+     "Isaia 35:2",
+     "1 Cronici 28:2",
+     "Psalmii 132:7",
+     "Isaia 66:1",
+     "Ezra 7:27"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Chiparosul, ulmul și pinul” — feluri de copaci din pădurea Libanului."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Slava Libanului” — copacii de cinste din pădurea Libanului îți vor fi aduși: chiparosul, ulmul și pinul, toți împreună. „Ca să împodobească” — ca să zidească cu ei locul Templului Meu, o zidire strălucită. „Și locul unde Mi se odihnesc picioarele îl voi cinsti” — Templul va fi zidit cu cinste; a luat pilda ca și cum Cel Atotprezent ar ședea pe tronul din ceruri, iar picioarele Lui ar coborî să se odihnească pe Templu, ca în „și închinați-vă la scăunelul picioarelor Lui” (Psalmii 99:5)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Slava Libanului” — copacii buni de acolo, iar apoi explică care sunt, cum trimitea regele Tirului regelui Solomon. „Ca să împodobească locul Sanctuarului Meu” — ca să zidească cu ei Templul. „Și locul unde Mi se odihnesc picioarele îl voi cinsti” — căci Templul e îndreptat spre tronul slavei; și dacă tronul slavei e locul șederii, Templul e scăunelul picioarelor Lui, pe care îl voi cinsti, căci El le va pune în inimă să aducă."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Halevanon” — numele unei păduri din țara lui Israel. „Beroș” și celelalte — numele unor feluri de copaci de preț."
+     }
+    ]
+   },
+   {
+    "v": "60:14",
+    "t": "Acei copii ai celor care te-au asuprit vor veni la tine în plecăciune și se vor prosterna la tălpile picioarelor tale, toți cei care te-au defăimat; și te vor numi: „Orașul DOMNULUI, Țion, [Orașul] Sfântului lui Israel”.",
+    "heb": "וְהָלְכוּ אֵלַיִךְ שְׁחוֹחַ בְּנֵי מְעַנַּיִךְ וְהִשְׁתַּחֲווּ עַל־כַּפּוֹת רַגְלַיִךְ כָּל־מְנַאֲצַיִךְ וְקָרְאוּ לָךְ עִיר יְהוָה צִיּוֹן קְדוֹשׁ יִשְׂרָאֵל׃",
+    "translit": "Vehalhu elaih șehoah benei meanaih vehiștahavu al-kapot raglaih kol-menaatzaih vekareu lah ir ADONAI Țion kedoș Israel.",
+    "tokens": [
+     {
+      "t": "Acei copii ai celor care te-au asuprit vor veni la tine "
+     },
+     {
+      "t": "în plecăciune",
+      "w": "în plecăciune",
+      "heb": "שְׁחוֹחַ",
+      "translit": "șehoah",
+      "strong": "H7817",
+      "pos": "infinitiv, folosit adverbial",
+      "def_ro": "aplecați, încovoiați.",
+      "dict_ro": "Șahah — „a se apleca, a se încovoia”, gestul celui care se smerește (Metzudat Țion, ca în Iov 9:13). Fiii celor care au asuprit Ierusalimul vor veni aplecați și se vor închina la tălpile lui, iar cetatea va primi un nume nou: „Orașul DOMNULUI, Sionul Sfântului lui Israel”. Radak: nu asupritorii înșiși, care vor fi murit până atunci, ci fiii lor. Isaia 49:23, din Haftarat Ekev, are aceeași imagine: „vor linge pulberea picioarelor tale”."
+     },
+     {
+      "t": " și se vor prosterna la tălpile picioarelor tale, toți cei care te-au defăimat; și te vor numi: „Orașul DOMNULUI, Țion, [Orașul] Sfântului lui Israel”."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְהָלְכוּ אֵלַיִךְ שְׁחוֹחַ בְּנֵי...",
+      "translation": "„Acei copii ai celor care te-au...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ πορεύσονται πρός σε δεδοικότες υἱοὶ τῶν ταπεινωσάντων σε καὶ παροξυνάντων σε, καὶ κληθήσῃ Πόλις Κυρίου Σιὼν ἁγίου ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Și vor merge la tine cu frică fiii celor ce te-au umilit și te-au întărâtat, și vei fi numită Cetatea Domnului, Sionul Sfântului lui Israel.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 49:23",
+     "Isaia 45:14",
+     "Apocalipsa 3:9",
+     "Evrei 12:22",
+     "Isaia 62:12",
+     "Psalmii 87:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Țion, [Orașul] Sfântului lui Israel” — Ionatan traduce: Sionul dorit de Sfântul lui Israel, Sionul Sfântului lui Israel."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„În plecăciune” — încovoiați și plecați. „La tălpile picioarelor tale” — adică până aproape de pământ. „Orașul DOMNULUI” — cetatea DOMNULUI, Sionul Sfântului lui Israel; același lucru în alte cuvinte."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „În plecăciune” — ca în „sub El s-au plecat”. „Acei copii ai celor care te-au asuprit” — cei care te-au asuprit în exil vor fi murit deja în vremea mântuirii, iar fiii lor vor merge la tine plecați și prosternați înaintea ta. „Orașul DOMNULUI” — căci slava Lui se va vedea în el."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Șehoah” — cu sensul de încovoiere și coborâre, ca în „sub El s-au plecat ajutoarele lui Rahab” (Iov 9:13). „Meanaih” — de la „asuprire”. „Kapot ragleih” — cum se numește fața mâinii palmă, așa se numește fața piciorului talpă. „Menaațaih” — cu sensul de dispreț, ca în „oamenii disprețuiau darul DOMNULUI” (1 Samuel 2:17)."
+     }
+    ]
+   },
+   {
+    "v": "60:15",
+    "t": "În loc să fii părăsit, urât și ocolit de toți, te vor statornici ca o mândrie veșnică, o bucurie pentru fiecare generație în parte.",
+    "heb": "תַּחַת הֱיוֹתֵךְ עֲזוּבָה וּשְׂנוּאָה וְאֵין עוֹבֵר וְשַׂמְתִּיךְ לִגְאוֹן עוֹלָם מְשׂוֹשׂ דּוֹר וָדוֹר׃",
+    "translit": "Tahat heioteh azuva usenua veein over vesamtih ligon olam mesos dor vador.",
+    "tokens": [
+     {
+      "t": "În loc să fii părăsit, urât și ocolit de toți, te vor statornici ca "
+     },
+     {
+      "t": "o mândrie veșnică",
+      "w": "o mândrie veșnică",
+      "heb": "לִגְאוֹן עוֹלָם",
+      "translit": "lighon olam",
+      "strong": "H1347",
+      "pos": "prepoziție + substantiv, în construcție + substantiv",
+      "def_ro": "o măreție veșnică.",
+      "dict_ro": "Gaon — „înălțime, măreție”; când e spus despre om, are adesea sensul de trufie (Proverbe 16:18), dar când e dat de Dumnezeu înseamnă cinste și strălucire (Metzudat Țion: stăpânire mare). Cetatea „părăsită, urâtă și ocolită de toți” (Plângerile 1:1-2) devine „o bucurie pentru fiecare generație”; Radak o leagă de numele dat Ierusalimului în Psalmii 48:2, „frumoasă înălțime, bucuria întregului pământ”. Titlul de Gaon, dat mai târziu marilor învățați din Babilon, vine din același cuvânt."
+     },
+     {
+      "t": ", o bucurie pentru fiecare generație în parte."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "תַּחַת הֱיוֹתֵךְ עֲזוּבָה וּשְׂנוּאָה...",
+      "translation": "„În loc să fii părăsit, urât...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "διὰ τὸ γεγενῆσθαί σε ἐγκαταλελειμμένην καὶ μεμισημένην, καὶ οὐκ ἦν ὁ βοηθῶν, καὶ θήσω σε ἀγαλλίαμα αἰώνιον, εὐφροσύνην γενεῶν γενεαῖς.",
+      "greek": true,
+      "translation": "„Pentru că ai fost părăsită și urâtă și nu era cine să te ajute, te voi face o veselie veșnică, bucurie din neam în neam.”",
+      "note": "Septuaginta are „nu era cine să te ajute” în loc de „ocolit de toți”."
+     }
+    ],
+    "refs": [
+     "Isaia 54:6-14",
+     "Plângerile 1:1,2",
+     "Ieremia 30:17",
+     "Isaia 61:7",
+     "Isaia 35:10"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„În loc” — în locul faptului că ai fost părăsită, și nimeni nu se însoțea cu tine, și erai urâtă de toți, și nimeni nu trecea prin țara ta ca să-ți ceară pacea. „Te vor statornici” — în locul acesta te voi pune să stăpânești în veci și să fii plină de bucurie în toate zilele generațiilor."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „În loc să fii părăsit” — căci slava DOMNULUI se descoperise de la tine. „Și ocolit de toți” — în vremea pustiirii ei. „O bucurie pentru fiecare generație” — pentru toate generațiile lumii va fi bucurie, cum e numită „frumoasă înălțime, bucuria întregului pământ”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Tahat” — în locul. „Lighon” — cu sensul de stăpânire mare. „Mesos” — cu sensul de bucurie."
+     }
+    ]
+   },
+   {
+    "v": "60:16",
+    "t": "Te vei hrăni cu laptele neamurilor, de la sânul regilor te vei hrăni, și vei ști că Eu, DOMNUL, sunt Salvatorul tău și Mântuitorul tău, Puternicul lui Iacov.",
+    "heb": "וְיָנַקְתְּ חֲלֵב גּוֹיִם וְשֹׁד מְלָכִים תִּינָקִי וְיָדַעַתְּ כִּי אֲנִי יְהוָה מוֹשִׁיעֵךְ וְגֹאֲלֵךְ אֲבִיר יַעֲקֹב׃",
+    "translit": "Veianakt halév goim veșod melahim tinaki veiadaat ki ani ADONAI moșieh vegoaleh avir Iaakov.",
+    "tokens": [
+     {
+      "t": "Te vei hrăni cu "
+     },
+     {
+      "t": "laptele neamurilor",
+      "w": "laptele neamurilor",
+      "heb": "חֲלֵב גּוֹיִם",
+      "translit": "halev goim",
+      "strong": "H2461",
+      "pos": "substantiv, în construcție + substantiv, masculin plural",
+      "def_ro": "laptele neamurilor, bogăția lor.",
+      "dict_ro": "Halav — „laptele”, simbolul belșugului în „țara unde curge lapte și miere” (Exod 3:8). A suge laptele neamurilor și sânul regilor e o pildă: Radak și Metzudat David explică faptul că Ierusalimul se va bucura de binele și de bogăția popoarelor; Targumul: „vă veți sătura de averile popoarelor”. Imaginea continuă cea a regilor și prințeselor ca doici (Isaia 49:23), iar încheierea, „vei ști că Eu, DOMNUL, sunt Salvatorul tău”, repetă aproape cuvânt cu cuvânt Isaia 49:26, din Haftarat Ekev."
+     },
+     {
+      "t": ", de la sânul regilor te vei hrăni, și vei ști că Eu, DOMNUL, sunt Salvatorul tău și Mântuitorul tău, Puternicul lui Iacov."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְיָנַקְתְּ חֲלֵב גּוֹיִם וְשֹׁד...",
+      "translation": "„Te vei hrăni cu laptele neamurilor...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ θηλάσεις γάλα ἐθνῶν καὶ πλοῦτον βασιλέων φάγεσαι· καὶ γνώσῃ, ὅτι ἐγὼ Κύριος ὁ σῴζων σε καὶ ἐξαιρούμενός σε ὁ Θεὸς ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Și vei suge laptele neamurilor și bogăția regilor vei mânca; și vei cunoaște că Eu sunt Domnul, Cel ce te mântuiește și te scoate, Dumnezeul lui Israel.”",
+      "note": "Septuaginta are „bogăția regilor vei mânca” în loc de „de la sânul regilor te vei hrăni” și „Dumnezeul lui Israel” în loc de „Puternicul lui Iacov”."
+     }
+    ],
+    "refs": [
+     "Isaia 49:23",
+     "Isaia 61:6",
+     "Isaia 66:11,12",
+     "Isaia 43:3,4",
+     "Ezechiel 34:30"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „De la sânul regilor” (veșod) — o expresie de la „sâni”, iar „vei suge” o dovedește."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Te vei hrăni” — e o pildă: vei mânca binele neamurilor. „De la sânul regilor” — același lucru în alte cuvinte. „Și vei ști” — atunci vei recunoaște că lucrul n-a venit întâmplător, ci pentru că Eu, DOMNUL, sunt Mântuitorul tău, iar Puternicul lui Iacov e Răscumpărătorul tău."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Te vei hrăni cu laptele neamurilor” — o pildă: vei mânca binele țării neamurilor. „De la sânul regilor” — tot o pildă, adică binele lor; și așa traduce Ionatan: „vă veți sătura de averile popoarelor și vă veți desfăta cu prada regilor”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Veinakt” — de la „a suge”. „Veșod” — de la „sâni”. „Avir” — cu sensul de tărie."
+     }
+    ]
+   },
+   {
+    "v": "60:17",
+    "t": "În loc de aramă voi aduce aur; și în loc de fier voi aduce argint; și în loc de lemn voi aduce aramă; și în loc de pietre, fier. Îi voi pune pe aleșii tăi întru pace și pe conducătorii tăi întru dreptate.",
+    "heb": "תַּחַת הַנְּחֹשֶׁת אָבִיא זָהָב וְתַחַת הַבַּרְזֶל אָבִיא כֶסֶף וְתַחַת הָעֵצִים נְחֹשֶׁת וְתַחַת הָאֲבָנִים בַּרְזֶל וְשַׂמְתִּי פְקֻדָּתֵךְ שָׁלוֹם וְנֹגְשַׂיִךְ צְדָקָה׃",
+    "translit": "Tahat hanehoșet avi zahav vetahat habarzel avi kesef vetahat haețim nehoșet vetahat haavanim barzel vesamti fekudateh șalom venogsaih țedaka.",
+    "tokens": [
+     {
+      "t": "În loc de "
+     },
+     {
+      "t": "aramă",
+      "w": "aramă",
+      "heb": "הַנְּחֹשֶׁת",
+      "translit": "hanehoșet",
+      "strong": "H5178",
+      "pos": "substantiv, feminin singular, cu articol",
+      "def_ro": "aramă, bronz.",
+      "dict_ro": "Nehoșet — „arama, bronzul”, metalul uneltelor și al vaselor Cortului (Exod 27:2). Versetul urcă treptat: în locul aramei — aur, al fierului — argint, al lemnului — aramă, al pietrelor — fier; Radak: le voi pune în inimă să-ți dea înapoi îndoit și de mai multe ori cât au luat de la tine ei și părinții lor. Talmudul citește a doua parte („dregătorii tăi — pace, asupritorii tăi — dreptate”) ca învățătură: banii luați cu sila de stăpânirile străine sunt socotiți lui Israel ca milostenie (Bava Batra 9a), iar rabi Iohanan adaugă cu durere că pentru rabi Akiva și tovarășii lui uciși nu se poate aduce nimic în schimb (Roș Hașana 23a)."
+     },
+     {
+      "t": " voi aduce aur; și în loc de fier voi aduce argint; și în loc de lemn voi aduce aramă; și în loc de pietre, fier. Îi voi pune pe aleșii tăi întru pace și pe conducătorii tăi întru dreptate."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "תַּחַת הַנְּחֹשֶׁת אָבִיא זָהָב...",
+      "translation": "„În loc de aramă voi aduce...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ἀντὶ χαλκοῦ οἴσω σοι χρυσίον, ἀντὶ δὲ σιδήρου οἴσω σοι ἀργύριον, ἀντὶ δὲ ξύλων οἴσω σοι χαλκόν, ἀντὶ δὲ λίθων σίδηρον. καὶ δώσω τοὺς ἄρχοντάς σου ἐν εἰρήνῃ καὶ τοὺς ἐπισκόπους σου ἐν δικαιοσύνῃ.",
+      "greek": true,
+      "translation": "„Și în loc de aramă îți voi aduce aur, în loc de fier îți voi aduce argint, în loc de lemne îți voi aduce aramă și în loc de pietre fier; și voi pune pe căpeteniile tale în pace și pe supraveghetorii tăi în dreptate.”",
+      "note": "Septuaginta are „supraveghetorii tăi” (ἐπισκόπους), cuvântul din care vine „episcop”."
+     }
+    ],
+    "refs": [
+     "1 Împărați 10:21-27",
+     "Isaia 1:26",
+     "Isaia 32:1,2",
+     "Zaharia 12:8"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „În loc de aramă” — în locul aramei pe care au luat-o de la tine. „Îi voi pune pe aleșii tăi întru pace” — Ionatan traduce: îi voi face pe dregătorii tăi pace și pe stăpânitorii tăi dreptate. Înțelepții noștri au spus: dregătorii care au venit asupra ta în exil și stăpânitorii care te-au apăsat îți vor fi socotiți ca pace și milostenie (Bava Batra 9a), adică banii pe care i-au luat de la tine vor fi socotiți milostenie."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„În loc de aramă” — în locul aramei pe care neamurile au luat-o de la tine voi aduce aur. „Îi voi pune pe aleșii tăi întru pace” — în locul dregătorilor care erau puși peste voi ca să strângă dările, voi pune peste tine pace, căci nu vor mai veni cu ceartă să strângă dările, ci vor veni să te întrebe de pace. „Și pe conducătorii tăi” — în locul celor care storceau argintul vor veni să-ți facă binele."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „În loc de aramă” — în locul aramei pe care au luat-o neamurile de la tine voi aduce aur, adică le voi pune în inimă să-ți plătească îndoit și de mai multe ori îndoit cât au luat de la tine ei și părinții lor. „Îi voi pune pe aleșii tăi întru pace” — în locul dregătorilor pe care neamurile îi puneau peste Israel ca să strângă dările, voi pune peste tine pace și dreptate, și nu vor mai fi peste tine dregători și asupritori."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Pekudateh” — de la „dregător și însărcinat”. „Venogseih” — cu sensul de apăsare pentru a lua argintul, ca în „a storcit argintul” (2 Împărați 23:35)."
+     },
+     {
+      "author": "Talmud Bavli, Bava Batra 9a",
+      "text": "Rabi Elazar a spus: când Templul era în picioare, omul își dădea șekelul și i se făcea ispășire; acum, când Templul nu mai este, dacă fac milostenie, bine; iar dacă nu, vin neamurile lumii și iau cu sila; și totuși li se socotește ca milostenie, căci s-a spus: „și pe conducătorii tăi întru dreptate (țedaka)”."
+     },
+     {
+      "author": "Talmud Bavli, Roș Hașana 23a",
+      "text": "Rabi Iohanan a spus: vai de neamuri, căci nu au leac, căci s-a spus: „În loc de aramă voi aduce aur; și în loc de fier voi aduce argint; și în loc de lemn voi aduce aramă; și în loc de pietre, fier” — dar în locul lui rabi Akiva și al tovarășilor lui, ce vor aduce?"
+     }
+    ]
+   },
+   {
+    "v": "60:18",
+    "t": "Nicicând nu se va mai auzi violență în țara ta, nici prădare sau stricăciune în hotarele tale, ci vei numi salvarea [DOMNULUI] ca ziduri ale tale și lauda [Lui] ca porți ale tale.",
+    "heb": "לֹא־יִשָּׁמַע עוֹד חָמָס בְּאַרְצֵךְ שֹׁד וָשֶׁבֶר בִּגְבוּלָיִךְ וְקָרָאת יְשׁוּעָה חוֹמֹתַיִךְ וּשְׁעָרַיִךְ תְּהִלָּה׃",
+    "translit": "Lo-ișama od hamas beartzeh șod vașever bigvulaih vekarat ieșua homotaih ușearaih tehila.",
+    "tokens": [
+     {
+      "t": "Nicicând nu se va mai auzi "
+     },
+     {
+      "t": "violență",
+      "w": "violență",
+      "heb": "חָמָס",
+      "translit": "hamas",
+      "strong": "H2555",
+      "pos": "substantiv, masculin singular",
+      "def_ro": "silnicie, nedreptate, violență.",
+      "dict_ro": "Hamas — „silnicie, nedreptate făcută cu forța”, păcatul pentru care a venit potopul: „pământul era plin de silnicie” (Geneza 6:11). Făgăduința e o lume în care acest cuvânt nu se mai aude, iar zidurile și porțile nu mai sunt apărare de război, ci poartă nume noi: „Mântuire” și „Laudă”. Radak: nu va mai fi nevoie să urci pe ziduri și să închizi porțile de frica dușmanului, de aceea le vei numi mântuire; iar la porți nu se va mai povesti decât lauda DOMNULUI."
+     },
+     {
+      "t": " în țara ta, nici prădare sau stricăciune în hotarele tale, ci vei numi salvarea [DOMNULUI] ca ziduri ale tale și lauda [Lui] ca porți ale tale."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לֹא־יִשָּׁמַע עוֹד חָמָס בְּאַרְצֵךְ...",
+      "translation": "„Nicicând nu se va mai auzi...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οὐκ ἀκουσθήσεται ἔτι ἀδικία ἐν τῇ γῇ σου, οὐδὲ σύντριμμα οὐδὲ ταλαιπωρία ἐν τοῖς ὁρίοις σου, ἀλλὰ κληθήσεται Σωτήριον τὰ τείχη σου, καὶ αἱ πύλαι σου Γλύμμα.",
+      "greek": true,
+      "translation": "„Și nu se va mai auzi nedreptate în țara ta, nici zdrobire, nici strâmtorare în hotarele tale, ci zidurile tale se vor numi Mântuire și porțile tale Sculptură.”",
+      "note": "Septuaginta numește porțile „Sculptură” (Γλύμμα) în loc de „Laudă”."
+     }
+    ],
+    "refs": [
+     "Isaia 2:4",
+     "Isaia 11:9",
+     "Mica 4:3",
+     "Zaharia 9:8",
+     "Isaia 26:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Nicicând nu se va mai auzi violență” — de la dușmanul care asuprește, căci nu va mai fi. „Nici prădare” — același lucru în alte cuvinte. „Ci vei numi” — nu vei mai striga pe zidurile tale și la porțile tale glas de război, ci vei striga glasul mântuirii DOMNULUI și al laudei Lui."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Nicicând nu se va mai auzi violență” — pe care ți-o fac neamurile. „Ci vei numi” — atunci vei numi zidurile tale mântuire, căci nu vei mai avea nevoie să urci pe ziduri și să închizi porțile de frica dușmanului; de aceea le vei numi mântuire, opusul războiului care era odinioară la porți; și la porți nu se va povesti decât lauda DOMNULUI."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Hamas” — asuprire și jaf. „Șod” — de la „prădare și jaf”. „Tehila” — cu sensul de laudă."
+     }
+    ]
+   },
+   {
+    "v": "60:19",
+    "t": "Nu vei mai avea nevoie de soare să lumineze ziua, și nici de strălucirea lunii să-ți lumineze [noaptea], ci DOMNUL va fi pentru tine o lumină veșnică și Dumnezeul tău va fi spre slava ta.",
+    "heb": "לֹא־יִהְיֶה־לָּךְ עוֹד הַשֶּׁמֶשׁ לְאוֹר יוֹמָם וּלְנֹגַהּ הַיָּרֵחַ לֹא־יָאִיר לָךְ וְהָיָה־לָּךְ יְהוָה לְאוֹר עוֹלָם וֵאלֹהַיִךְ לְתִפְאַרְתֵּךְ׃",
+    "translit": "Lo-ihie-lah od hașemeș leor iomam ulenoga haiaréah lo-iair lah vehaia-lah ADONAI leor olam v'Elohaih letifarteh.",
+    "tokens": [
+     {
+      "t": "Nu vei mai avea nevoie de soare să lumineze ziua, și nici de strălucirea lunii să-ți lumineze [noaptea], ci DOMNUL va fi pentru tine "
+     },
+     {
+      "t": "o lumină veșnică",
+      "w": "o lumină veșnică",
+      "heb": "לְאוֹר עוֹלָם",
+      "translit": "leor olam",
+      "strong": "H216",
+      "pos": "prepoziție + substantiv, în construcție + substantiv",
+      "def_ro": "lumină veșnică.",
+      "dict_ro": "Or — „lumină”, primul lucru creat (Geneza 1:3). Radak explică faptul că toată imaginea e o pildă: lumina lui Dumnezeu, adică binele și mântuirea Lui, va fi atât de mare, încât lumina soarelui și a lunii nu va mai fi socotită; Metzudat David: lumina Șehinei te va lumina zi și noapte. Versetul e reluat în descrierea Ierusalimului ceresc: „cetatea n-are trebuință nici de soare, nici de lună, ca s-o lumineze, căci o luminează slava lui Dumnezeu” (Apocalipsa 21:23; 22:5)."
+     },
+     {
+      "t": " și Dumnezeul tău va fi spre slava ta."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לֹא־יִהְיֶה־לָּךְ עוֹד הַשֶּׁמֶשׁ לְאוֹר...",
+      "translation": "„Nu vei mai avea nevoie de...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ οὐκ ἔσται σοι ἔτι ὁ ἥλιος εἰς φῶς ἡμέρας, οὐδὲ ἀνατολὴ σελήνης φωτιεῖ σου τὴν νύκτα, ἀλλ᾿ ἔσται σοι Κύριος φῶς αἰώνιον καὶ ὁ Θεὸς δόξα σου.",
+      "greek": true,
+      "translation": "„Și nu-ți va mai fi soarele lumină a zilei, nici răsăritul lunii nu-ți va lumina noaptea, ci Domnul îți va fi lumină veșnică și Dumnezeu slava ta.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Apocalipsa 21:23",
+     "Apocalipsa 22:5",
+     "Psalmii 36:9",
+     "Zaharia 2:5",
+     "Psalmii 3:3"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Nu vei mai avea nevoie de soare” — nu vei mai avea nevoie de lumina soarelui."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nu vei mai avea nevoie” — adică nu vei mai avea nevoie de lumina soarelui ca să te lumineze ziua. „Și nici de strălucirea lunii” — de strălucirea lunii nu vei avea nevoie ca să te lumineze noaptea. „Ci DOMNUL va fi pentru tine” — lumina Șehinei îți va fi lumină veșnică, ziua și noaptea. „Spre slava ta” — te vei mândri cu slava DOMNULUI."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Nu vei mai avea nevoie” — am explicat deja că profetul asemănă mântuirea și binele cu lumina; a spus: atât de mare va fi lumina ta, care e lumina DOMNULUI, adică binele cel mare, încât lumina soarelui și lumina lunii nu vor mai fi socotite nimic; totul e o pildă, cum a spus: „și lumina soarelui va fi de șapte ori mai mare”. „Spre slava ta” — ca să te mândrești cu slava Lui și cu binele pe care îl va face poporului Său."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Ulenoga” — cu sensul de strălucire și răsărire."
+     }
+    ]
+   },
+   {
+    "v": "60:20",
+    "t": "Nicicând nu va mai apune soarele tău, și nici luna ta nu se va mai stinge, căci DOMNUL va fi pentru tine o lumină veșnică și zilele jalei tale se vor sfârși.",
+    "heb": "לֹא־יָבוֹא עוֹד שִׁמְשֵׁךְ וִירֵחֵךְ לֹא יֵאָסֵף כִּי יְהוָה יִהְיֶה־לָּךְ לְאוֹר עוֹלָם וְשָׁלְמוּ יְמֵי אֶבְלֵךְ׃",
+    "translit": "Lo-iavo od șimșeh vireheh lo ieasef ki ADONAI ihie-lah leor olam veșalmu iemei evleh.",
+    "tokens": [
+     {
+      "t": "Nicicând nu va mai apune soarele tău, și nici luna ta nu se va mai stinge, căci DOMNUL va fi pentru tine o lumină veșnică și "
+     },
+     {
+      "t": "zilele jalei tale",
+      "w": "zilele jalei tale",
+      "heb": "יְמֵי אֶבְלֵךְ",
+      "translit": "iemei evleh",
+      "strong": "H60",
+      "pos": "substantiv, în construcție + substantiv, masculin singular, cu sufix",
+      "def_ro": "zilele doliului tău.",
+      "dict_ro": "Evel — „doliu, jale”, perioada de plângere după un mort (Geneza 50:10). „Zilele jalei tale se vor sfârși” (veșalmu, de la șalem, „a fi complet”) înseamnă că doliul și-a atins sfârșitul hotărât. În tradiția evreiască, versetul e legat de doliul pentru Ierusalim, care se ține în zilele dinaintea lui 9 Av; haftarotele mângâierii anunță sfârșitul lui. Targumul și Radak: soarele care nu apune e o pildă pentru împărăția care nu va mai fi desființată. Cuvintele sunt reluate în Apocalipsa 21:4: „nu va mai fi nici tânguire, nici țipăt, nici durere”."
+     },
+     {
+      "t": " se vor sfârși."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "לֹא־יָבוֹא עוֹד שִׁמְשֵׁךְ וִירֵחֵךְ...",
+      "translation": "„Nicicând nu va mai apune soarele...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "οὐ γὰρ δύσεται ὁ ἥλιός σοι, καὶ ἡ σελήνη σοι οὐκ ἐκλείψει· ἔσται γάρ σοι Κύριος φῶς αἰώνιον, καὶ ἀναπληρωθήσονται αἱ ἡμέραι τοῦ πένθους σου.",
+      "greek": true,
+      "translation": "„Căci nu va apune soarele tău și luna ta nu va scădea, căci Domnul îți va fi lumină veșnică, și se vor împlini zilele jalei tale.”",
+      "note": "Corespondență strânsă cu Textul Masoretic."
+     }
+    ],
+    "refs": [
+     "Isaia 25:8",
+     "Isaia 35:10",
+     "Apocalipsa 21:4",
+     "Psalmii 84:11",
+     "Maleahi 4:2",
+     "Apocalipsa 7:15-17"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Și nici luna ta nu se va mai stinge” (lo ieasef) — o expresie ca în „și-au strâns (asfu) strălucirea” (Ioel 2:10): și-au strâns lumina."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Nicicând nu va mai apune” — soarele tău nu va mai apune, iar luna ta nu-și va mai strânge lumina, ca să nu te mai lumineze; adică stăpânirea și domnia ta nu vor mai fi desființate. „Căci DOMNUL” — adică, de vreme ce stăpânirea vine de la DOMNUL, va fi o lumină veșnică și nu va mai fi desființată. „Se vor sfârși” — se vor termina și se vor încheia zilele doliului tău, căci nu vei mai jeli."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Nicicând nu va mai apune” — și aceasta e o pildă, după Targum: împărăția ta nu va mai fi desființată, iar slava ta nu se va mai depărta."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Lo iavo” — nu va apune, ca în „căci soarele apusese” (Geneza 28:11). „Ieasef” — cu sensul de adunare înăuntru, ca în „și nimeni nu-i primea în casă” (Judecători 19:15). „Veșalmu” — cu sensul de sfârșit."
+     }
+    ]
+   },
+   {
+    "v": "60:21",
+    "t": "Iar poporul tău, toți drepți, veșnic vor moșteni țara; o ramură a plantării Mele, lucrul mâinilor Mele, pentru a fi slăvit.",
+    "heb": "וְעַמֵּךְ כֻּלָּם צַדִּיקִים לְעוֹלָם יִירְשׁוּ אָרֶץ נֵצֶר מַטָּעַי מַעֲשֵׂה יָדַי לְהִתְפָּאֵר׃",
+    "translit": "Veameh kulam țadikim leolam ireșu areț nețer mataai maase iadai lehitpaer.",
+    "tokens": [
+     {
+      "t": "Iar poporul tău, toți drepți, veșnic vor moșteni țara; "
+     },
+     {
+      "t": "o ramură",
+      "w": "o ramură",
+      "heb": "נֵצֶר",
+      "translit": "nețer",
+      "strong": "H5342",
+      "pos": "substantiv, masculin singular, în construcție",
+      "def_ro": "mlădiță, lăstar.",
+      "dict_ro": "Nețer — „mlădiță, lăstar”, cuvântul din profeția despre Mesia: „o mlădiță (nețer) din rădăcinile lui va da rod” (Isaia 11:1; Metzudat Țion). Poporul întreg va fi „mlădița plantată” de Dumnezeu, spre deosebire de via din Isaia 5, care a făcut struguri sălbatici (Radak). Mișna folosește începutul versetului ca temei pentru una dintre cele mai cunoscute învățături: „tot Israelul are parte de lumea ce va să vină”, citită și la începutul fiecărui capitol din Pirkei Avot (Sanhedrin 90a)."
+     },
+     {
+      "t": " a plantării Mele, lucrul mâinilor Mele, pentru a fi slăvit."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "וְעַמֵּךְ כֻּלָּם צַדִּיקִים לְעוֹלָם...",
+      "translation": "„Iar poporul tău, toți drepți, veșnic...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "καὶ ὁ λαός σου πᾶς δίκαιος, δι᾿ αἰῶνος κληρονομήσουσι τὴν γῆν, φυλάσσων τὸ φύτευμα, ἔργα χειρῶν αὐτοῦ εἰς δόξαν.",
+      "greek": true,
+      "translation": "„Și poporul tău, tot drept, vor moșteni pământul în veac, păzind răsadul, lucrările mâinilor Lui, spre slavă.”",
+      "note": "Septuaginta are „păzind răsadul, lucrările mâinilor Lui”."
+     }
+    ],
+    "refs": [
+     "Psalmii 37:11,22",
+     "Matei 5:5",
+     "Isaia 61:3",
+     "Isaia 4:3,4",
+     "Isaia 29:23",
+     "Matei 15:13"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „Pentru a fi slăvit” — prin care Mă voi slăvi cu ei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Iar poporul tău” — poporul care va rămâne în tine vor fi toți drepți, căci cei răi vor pieri în durerile nașterii lui Mesia. „Veșnic vor moșteni țara” — vor moșteni țara în veci și nu vor mai fi exilați din ea. „O ramură a plantării Mele” — ramura pe care am sădit-o e lucrarea mâinilor Mele și are cu ce să se mândrească, adică poporul pe care l-am ales, cu care Mă voi mândri, căci vor fi drepți și desăvârșiți."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Iar poporul tău, toți drepți” — pentru că Dumnezeu îi va curăța, cum e scris: „îi voi curăța cum se curăță argintul”, iar cei rămași vor fi toți drepți și sfinți. „Veșnic vor moșteni țara” — nu vor mai fi exilați din ea niciodată, căci vor fi „o ramură a plantării Mele”, care se va vedea prin faptele lor că Eu i-am sădit, nu ca la început, când s-a spus despre ei: „de ce am așteptat să facă struguri, iar ea a făcut struguri sălbatici?”."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Nețer” — ramură, ca în „și o mlădiță din rădăcinile lui va da rod” (Isaia 11:1). „Matai” — de la „sădire”."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 90a",
+      "text": "Mișna: Tot Israelul are parte de lumea ce va să vină, căci s-a spus: „Iar poporul tău, toți drepți, veșnic vor moșteni țara; o ramură a plantării Mele, lucrul mâinilor Mele, pentru a fi slăvit”."
+     }
+    ]
+   },
+   {
+    "v": "60:22",
+    "t": "Cel mai mic va crește înmiit și cel mai tânăr [va ajunge] un neam puternic. Eu sunt DOMNUL, la vremea ei, Eu voi grăbi [aceasta].",
+    "heb": "הַקָּטֹן יִהְיֶה לָאֶלֶף וְהַצָּעִיר לְגוֹי עָצוּם אֲנִי יְהוָה בְּעִתָּהּ אֲחִישֶׁנָּה׃",
+    "translit": "Hakaton ihie laelef vehațair legoi ațum ani ADONAI beita ahișena.",
+    "tokens": [
+     {
+      "t": "Cel mai mic va crește înmiit și cel mai tânăr [va ajunge] un neam puternic. Eu sunt DOMNUL, la vremea ei, "
+     },
+     {
+      "t": "Eu voi grăbi",
+      "w": "Eu voi grăbi",
+      "heb": "אֲחִישֶׁנָּה",
+      "translit": "ahișena",
+      "strong": "H2363",
+      "pos": "verb, imperfect hifil, persoana I singular, cu sufix",
+      "def_ro": "o voi grăbi.",
+      "dict_ro": "Huș — „a se grăbi”, la forma cauzativă: „o voi grăbi” (Metzudat Țion, ca în „aș grăbi să-mi găsesc adăpost”, Psalmii 55:8). Versetul pare să se contrazică: „la vremea ei” și totuși „o voi grăbi”. Talmudul rezolvă contradicția în numele lui rabi Iehoșua ben Levi: dacă vor fi vrednici, „o voi grăbi”; dacă nu, va veni „la vremea ei” (Sanhedrin 98a; Rashi). Radak aduce și o altă explicație: când va sosi vremea, o voi împlini repede. Cel mai mic va deveni o mie, iar cel mai tânăr un neam puternic; Radak: nu e vorba de un singur om, ci de seminții și familii."
+     },
+     {
+      "t": " [aceasta]."
+     }
+    ],
+    "textCompare": [
+     {
+      "source": "Textul Masoretic (ebraică)",
+      "original": "הַקָּטֹן יִהְיֶה לָאֶלֶף וְהַצָּעִיר...",
+      "translation": "„Cel mai mic va crește înmiit...” — traducerea rabinului Rosen.",
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+      "original": "ὁ ὀλιγοστὸς ἔσται εἰς χιλιάδας καὶ ὁ ἐλάχιστος εἰς ἔθνος μέγα· ἐγὼ Κύριος κατὰ καιρὸν συνάξω αὐτούς.",
+      "greek": true,
+      "translation": "„Cel mai mic va ajunge mii și cel mai neînsemnat un neam mare; Eu, Domnul, la vreme îi voi aduna.”",
+      "note": "Septuaginta are „la vreme îi voi aduna” în loc de „la vremea ei, Eu voi grăbi [aceasta]”."
+     }
+    ],
+    "refs": [
+     "Isaia 66:8",
+     "Habacuc 2:3",
+     "Matei 13:31,32",
+     "Luca 18:7"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "Rashi: „La vremea ei, Eu voi grăbi [aceasta]” — dacă vor fi vrednici, o voi grăbi; dacă nu vor fi vrednici, va fi la vremea ei."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Cel mai mic” — seminția cea mică se va înmulți de o mie de ori pe atât. „Și cel mai tânăr” — același lucru în alte cuvinte. „Eu sunt DOMNUL” — care am puterea în mână; de aceea, când va veni vremea răscumpărării, Mă voi grăbi să-l înmulțesc pe cel mic până la o mie, iar pe cel tânăr până la un neam puternic."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Cel mai mic” — nu vorbește despre un singur om, căci ce ar însemna „mic” și „tânăr”, ci despre seminție și familie: cea mai mică dintre ele va fi de o mie de ori cât e acum. „Eu sunt DOMNUL, la vremea ei, Eu voi grăbi [aceasta]” — binele pe care li-l făgăduiesc, Eu, DOMNUL, îl voi face, căci puterea e în mâna Mea; iar despre „la vremea ei” și „o voi grăbi”, Înțelepții noștri au spus: dacă vor fi vrednici, o voi grăbi; dacă nu, la vremea ei. Se poate explica și astfel: când va sosi vremea ei, o voi grăbi, ca să o duc repede la capăt, căci nu va fi lungă vremea de la începutul mântuirii până la sfârșitul ei."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Vehațair” — cel mic, ca în „și cel mai mare va sluji celui mai mic” (Geneza 25:23). „Ațum” — cu sensul de mulțime, ca în „văduvele lor s-au înmulțit” (Ieremia 15:8). „Beita” — de la „vreme”. „Ahișena” — cu sensul de grabă, ca în „aș grăbi să-mi găsesc adăpost” (Psalmii 55:8)."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 98a",
+      "text": "Rabi Alexandri a spus: rabi Iehoșua ben Levi a pus două lucruri față în față: e scris „la vremea ei” și e scris „Eu voi grăbi”. Dacă vor fi vrednici — „Eu voi grăbi”; dacă nu vor fi vrednici — „la vremea ei”."
      }
     ]
    }
