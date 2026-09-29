@@ -54,7 +54,7 @@ Fundal albastru deschis, DAVAR auriu, flacără completă, aplicată la toate 4 
 ### Diverse
 - Protecție copiere/click-dreapta activă (CSS + JS)
 - Meta-text redundant șters din 94 de titluri; notele oneste de lacune păstrate intenționat
-- Samaritean Levitic/Numeri/Deuteronom marcate „(în lucru)" — 74-90% engleză amestecată, NU se folosesc încă
+- Pentateuhul Samaritean (sp-geneza … sp-deuteronom): versiunea v2 de la Grok integrată pe 29 sept. 2026 — Levitic/Numeri/Deuteronom retraduse integral (fără engleză), Geneza 50 și Exod 40 de versete corectate după ebraica samariteană; marcajul „(în lucru)” scos
 - Iconițele „▶" brute înlocuite peste tot cu săgeți aurii rotunde consecvente
 
 ### Biblia (tab principal)
