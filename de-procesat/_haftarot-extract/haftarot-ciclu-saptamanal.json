@@ -51821,7 +51821,14 @@
       "source": "Textul Masoretic (ebraică)",
       "original": "וַיִּשְׁלַח הַמֶּלֶךְ שְׁלֹמֹה וַיִּקַּח אֶת־חִירָם מִצֹּֽר׃",
       "translation": "„Regele Solomon a trimis și l-a adus pe Hiram din Tir.” — traducerea rabinului Rosen.",
-      "note": "Septuaginta (III Regate) reordonează substanțial capitolul 7 față de textul masoretic — secțiunea despre stâlpi și „Marea” apare într-o altă succesiune de versete în textul grecesc, iar numele meșterului și ale stâlpilor sunt redate diferit (vezi nota la v.21). Din acest motiv, comparația verset-cu-verset cu Septuaginta nu se poate face cu precizie mecanică la acest pasaj; divergențele reale sunt semnalate punctual mai jos."
+      "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:1)",
+      "original": "ΚΑΙ ἀπέστειλεν ὁ βασιλεὺς Σαλωμὼν καὶ ἔλαβε τὸν Χιρὰμ ἐκ Τύρου,",
+      "greek": true,
+      "translation": "„Și a trimis regele Solomon și l-a luat pe Hiram din Tir,”",
+      "note": "Același înțeles. În Septuaginta, pasajul despre lucrările lui Hiram (1 Împărați 7:13-51) stă înaintea celui despre palatul lui Solomon (1 Împărați 7:1-12), de aceea aici are numerotarea III Regate 7:1-37."
      }
     ],
     "refs": [
@@ -51865,6 +51872,13 @@
       "original": "בֶּן־אִשָּׁה אַלְמָנָה הוּא מִמַּטֵּה נַפְתָּלִי...",
       "translation": "„El era fiul unei femei văduve din tribul Naftali...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:2)",
+      "original": "υἱὸν γυναικὸς χήρας, καὶ οὗτος ἀπὸ τῆς φυλῆς τῆς Νεφθαλίμ, καὶ ὁ πατὴρ αὐτοῦ ἀνὴρ Τύριος, τέκτων χαλκοῦ καὶ πεπληρωμένος τῆς τέχνης καὶ συνέσεως καὶ ἐπιγνώσεως τοῦ ποιεῖν πᾶν ἔργον ἐν χαλκῷ· καὶ εἰσηνέχθη πρὸς τὸν βασιλέα Σαλωμὼν καὶ ἐποίησε πάντα τὰ ἔργα.",
+      "greek": true,
+      "translation": "„fiul unei femei văduve, și acesta din seminția lui Neftali, iar tatăl lui era un bărbat din Tir, lucrător în aramă, plin de meșteșug, de pricepere și de cunoștință ca să facă orice lucrare în aramă; și a fost adus la regele Solomon și a făcut toate lucrările.”",
+      "note": "Același înțeles; unde ebraica spune că Hiram „a venit” la regele Solomon, Septuaginta spune că „a fost adus”."
      }
     ],
     "refs": [
@@ -51923,6 +51937,13 @@
       "original": "וַיָּצַר אֶת־שְׁנֵי הָעַמּוּדִים נְחֹשֶׁת...",
       "translation": "„Și [Hiram] a făurit cei doi stâlpi de aramă...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:3)",
+      "original": "καὶ ἐχώνευσε τοὺς δύο στήλους τῷ αἰλὰμ τοῦ οἴκου, ὀκτωκαίδεκα πήχεις ὕψος τοῦ στύλου, καὶ περίμετρον τεσσαρεσκαίδεκα πήχεις ἐκύκλου αὐτόν, καὶ τὸ πάχος τοῦ στύλου τεσσάρων δακτύλων τὰ κοιλώματα, καὶ οὕτως ὁ στῦλος ὁ δεύτερος.",
+      "greek": true,
+      "translation": "„Și a turnat cei doi stâlpi pentru pridvorul casei: optsprezece coți înălțimea stâlpului, și o circumferință de paisprezece coți îl înconjura, iar grosimea stâlpului, de patru degete, [cu] scobitura; și la fel al doilea stâlp.”",
+      "note": "Ebraica dă stâlpului o circumferință de doisprezece coți, iar Septuaginta, de paisprezece; Septuaginta adaugă grosimea de patru degete a stâlpului gol, amănunt pe care ebraica îl are în Ieremia 52:21."
      }
     ],
     "refs": [
@@ -51967,6 +51988,13 @@
       "original": "וּשְׁתֵּי כֹתָרֹת עָשָׂה לָתֵת עַל־רָאשֵׁי הָעַמּוּדִים...",
       "translation": "„A făcut două capiteluri...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:4)",
+      "original": "καὶ δύο ἐπιθέματα ἐποίησε δοῦναι ἐπὶ τὰς κεφαλὰς τῶν στύλων, χωνευτὰ χαλκᾶ· πέντε πήχεις τὸ ὕψος τοῦ ἐπιθέματος τοῦ ἑνός, καὶ πέντε πήχεις τὸ ὕψος τοῦ ἐπιθέματος τοῦ δευτέρου.",
+      "greek": true,
+      "translation": "„Și a făcut două capiteluri ca să le pună pe capetele stâlpilor, turnate din aramă: cinci coți înălțimea unui capitel și cinci coți înălțimea capitelului al doilea.”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [
@@ -52018,6 +52046,13 @@
       "original": "שְׂבָכִים מַעֲשֵׂה שְׂבָכָה גְּדִלִים...",
       "translation": "„A făcut niște rețele de plasă împletită...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:5)",
+      "original": "καὶ ἐποίησε δύο δίκτυα περικαλύψαι τὸ ἐπίθεμα τῶν στύλων, καὶ δίκτυον τῷ ἐπιθέματι τῷ ἑνί, καὶ δίκτυον τῷ ἐπιθέματι τῷ δευτέρῳ.",
+      "greek": true,
+      "translation": "„Și a făcut două rețele ca să acopere capitelul stâlpilor: o rețea pentru un capitel și o rețea pentru capitelul al doilea.”",
+      "note": "Septuaginta e mai scurtă: pomenește doar cele două rețele, fără „lucrarea de lanțuri” și fără cele „șapte” pentru fiecare capitel."
      }
     ],
     "refs": [
@@ -52069,6 +52104,13 @@
       "original": "וַיַּעַשׂ אֶת־הָעַמּוּדִים וּשְׁנֵי טוּרִים סָבִיב...",
       "translation": "„A făcut stâlpii și două rânduri [de rodii]...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:6)",
+      "original": "καὶ ἔργον κρεμαστόν, δύο στίχοι ῥοῶν χαλκῶν δεδικτυωμένοι, ἔργον κρεμαστόν, στίχος ἐπὶ στίχον· καὶ οὕτως ἐποίησε τῷ ἐπιθέματι τῷ δευτέρῳ.",
+      "greek": true,
+      "translation": "„și o lucrare atârnată: două rânduri de rodii de aramă, lucrate în rețea, lucrare atârnată, rând peste rând; și la fel a făcut pentru capitelul al doilea.”",
+      "note": "Septuaginta descrie rodiile ca „lucrare atârnată”, rând peste rând, și nu pomenește stâlpii la începutul versetului, cum face ebraica."
      }
     ],
     "refs": [
@@ -52124,6 +52166,13 @@
       "original": "וְכֹתָרֹת אֲשֶׁר עַל־רֹאשׁ הָעַמּוּדִים מַעֲשֵׂה שׁוּשַׁן...",
       "translation": "„Iar capitelurile care se aflau în vârful stâlpilor...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:8)",
+      "original": "καὶ ἐπὶ τῶν κεφαλῶν τῶν στύλων ἔργον κρίνου κατὰ τὸ αἰλὰμ τεσσάρων πηχῶν.",
+      "greek": true,
+      "translation": "„Și pe capetele stâlpilor, lucrare de crin, după [chipul] pridvorului, de patru coți.”",
+      "note": "În Septuaginta, un singur verset (III Regate 7:8) corespunde versetelor 19 și 22 din ebraică."
      }
     ],
     "refs": [
@@ -52174,6 +52223,13 @@
       "original": "וְכֹתָרֹת עַל־שְׁנֵי הָעַמּוּדִים גַּם־מִמַּעַל...",
       "translation": "„Și capitelurile care se aflau pe cei doi stâlpi continuau și deasupra...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:9)",
+      "original": "καὶ μέλαθρον ἐπ᾿ ἀμφοτέρων τῶν στύλων, καὶ ἐπάνωθεν τῶν πλευρῶν ἐπίθεμα τὸ μέλαθρον τῷ πάχει.",
+      "greek": true,
+      "translation": "„și o grindă peste amândoi stâlpii, iar deasupra laturilor, un capitel, grinda [potrivită] în grosime.”",
+      "note": "Textul grecesc nu corespunde întocmai ebraicii: vorbește de o grindă (melathron) peste amândoi stâlpii și nu pomenește cele două sute de rodii."
      }
     ],
     "refs": [
@@ -52279,6 +52335,13 @@
       "original": "וְעַל רֹאשׁ הָעַמּוּדִים מַעֲשֵׂה שׁוֹשָׁן...",
       "translation": "„Iar peste vârful stâlpilor se afla [un ornament] în formă de trandafir...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:8)",
+      "original": "καὶ ἐπὶ τῶν κεφαλῶν τῶν στύλων ἔργον κρίνου κατὰ τὸ αἰλὰμ τεσσάρων πηχῶν.",
+      "greek": true,
+      "translation": "„Și pe capetele stâlpilor, lucrare de crin, după [chipul] pridvorului, de patru coți.”",
+      "note": "Același verset grecesc (III Regate 7:8) corespunde și versetului 19; Septuaginta nu are încheierea „și astfel s-a încheiat lucrarea stâlpilor”."
      }
     ],
     "refs": [],
@@ -52336,7 +52399,7 @@
       "original": "καὶ ἐποίησε τὴν θάλασσαν δέκα ἐν πήχει ἀπὸ τοῦ χείλους αὐτῆς ἕως τοῦ χείλους αὐτῆς...",
       "greek": true,
       "translation": "„și a făcut marea de zece coți de la buza ei până la buza ei...”",
-      "note": "Traducere fidelă (θάλασσα = „mare”, calc direct al ebraicului yam); numerotarea versetelor din LXX diferă însă de cea masoretică în acest capitol, conform notei de la v.13."
+      "note": "Traducere fidelă (θάλασσα = „mare”, calc direct al ebraicului yam); în Septuaginta, versetul e III Regate 7:10."
      }
     ],
     "refs": [
@@ -52365,6 +52428,13 @@
       "original": "וּפְקָעִים מִתַּחַת לִשְׂפָתוֹ סָבִיב...",
       "translation": "„Sub marginea ei, de jur împrejur, erau ornamente în formă de ou...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:11)",
+      "original": "καὶ ὑποστηρίγματα ὑποκάτωθεν τοῦ χείλους αὐτῆς κυκλόθεν ἐκύκλουν αὐτήν, δέκα ἐν πήχει κυκλόθεν",
+      "greek": true,
+      "translation": "„și sprijinitoare dedesubtul buzei ei, de jur împrejur, o înconjurau, zece pe cot, de jur împrejur.”",
+      "note": "Unde ebraica are „ornamente în formă de ou” (pekaim), Septuaginta are „sprijinitoare” (hypostērigmata) și nu pomenește cele două rânduri turnate odată cu „Marea”."
      }
     ],
     "refs": [
@@ -52421,6 +52491,13 @@
       "original": "עֹמֵד עַל־שְׁנֵי עָשָׂר בָּקָר...",
       "translation": "„Ea era pusă pe doisprezece boi...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:13)",
+      "original": "καὶ δώδεκα βόες ὑποκάτω τῆς θαλάσσης, οἱ τρεῖς ἐπιβλέποντες βορρᾶν καὶ οἱ τρεῖς ἐπιβλέποντες θάλασσαν καὶ οἱ τρεῖς ἐπιβλέποντες νότον καὶ οἱ τρεῖς ἐπιβλέποντες ἀνατολήν, καὶ πάντα τὰ ὀπίσθια εἰς τὸν οἶκον, καὶ ἡ θάλασσα ἐπ᾿ αὐτῶν ἐπάνωθεν.",
+      "greek": true,
+      "translation": "„Și doisprezece boi sub mare: trei privind spre miazănoapte, trei privind spre apus, trei privind spre miazăzi și trei privind spre răsărit; și toate părțile dinapoi [erau] spre casă, iar marea deasupra lor.”",
+      "note": "Același înțeles; „spre apus” e în greacă „spre mare” (thalassan), după ebraicul iam, care înseamnă și „mare”, și „apus”."
      }
     ],
     "refs": [
@@ -52471,6 +52548,13 @@
       "original": "וְעָבְיוֹ טֶפַח וּשְׂפָתוֹ כְּמַעֲשֵׂה שְׂפַת־כּוֹס...",
       "translation": "„Grosimea ei era de o palmă...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:12)",
+      "original": "καὶ τὸ χεῖλος αὐτῆς ὡς ἔργον χείλους ποτηρίου, βλαστὸς κρίνου, καὶ τὸ πάχος αὐτοῦ παλαιστής.",
+      "greek": true,
+      "translation": "„Și buza ei era ca lucrarea buzei unui pahar, floare de crin; și grosimea ei, de o palmă.”",
+      "note": "Septuaginta nu are încheierea versetului, „conținea două mii de bați”."
      }
     ],
     "refs": [
@@ -52542,6 +52626,13 @@
       "original": "וַיַּעַשׂ חִירוֹם אֶת־הַכִּיֹּרוֹת וְאֶת־הַיָּעִים...",
       "translation": "„Și Hiram a făcut ligheanele, lopețile și vasele...” — traducerea rabinului Rosen.",
       "note": "Ca și la pasajul precedent (7:13-26), Septuaginta (III Regate) reordonează substanțial inventarul vaselor Templului față de succesiunea versetelor din textul masoretic. Din acest motiv, comparația verset-cu-verset cu Septuaginta nu se face mecanic la acest pasaj tehnic; unde textul grecesc oferă o formulare clar identificabilă, ea e citată punctual mai jos."
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:26)",
+      "original": "καὶ ἐποίησε Χιρὰμ τοὺς λέβητας καὶ τὰς θερμάστρεις καὶ τὰς φιάλας, καὶ συνετέλεσε Χιρὰμ ποιῶν πάντα τὰ ἔργα, ἃ ἐποίησε τῷ βασιλεῖ Σαλωμὼν ἐν οἴκῳ Κυρίου,",
+      "greek": true,
+      "translation": "„Și a făcut Hiram cazanele, lopețile și cupele; și a isprăvit Hiram de făcut toate lucrările pe care le-a făcut pentru regele Solomon în casa Domnului:”",
+      "note": "Unde ebraica are „ligheanele” (kiorot), Septuaginta are „cazanele” (lebētas); în rest, același înțeles."
      }
     ],
     "refs": [
@@ -52571,6 +52662,13 @@
       "original": "עַמֻּדִים שְׁנַיִם וְגֻלֹּת הַכֹּתָרֹת...",
       "translation": "„cei doi stâlpi și cele două globuri ale capitelurilor...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:27)",
+      "original": "στύλους δύο καὶ τὰ στρεπτὰ τῶν στύλων ἐπὶ τῶν κεφαλῶν τῶν στύλων δύο καὶ τὰ δίκτυα δύο τοῦ καλύπτειν ἀμφότερα τὰ στρεπτὰ τῶν γλυφῶν τὰ ὄντα ἐπὶ τῶν στύλων,",
+      "greek": true,
+      "translation": "„doi stâlpi și împletiturile stâlpilor de pe capetele stâlpilor, două; și cele două rețele care acopereau amândouă împletiturile sculptate de pe stâlpi;”",
+      "note": "Unde ebraica are „globurile capitelurilor” (gulot hakoterot), Septuaginta are „împletiturile” (strepta)."
      }
     ],
     "refs": [
@@ -52614,6 +52712,13 @@
       "original": "וְאֶת־הָרִמֹּנִים אַרְבַּע מֵאוֹת...",
       "translation": "„și cele patru sute de rodii...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:28)",
+      "original": "τὰς ροὰς τετρακοσίας ἀμφοτέροις τοῖς δικτύοις, δύο στίχοι ροῶν τῷ δικτύῳ τῷ ἑνὶ περικαλύπτειν ἀμφότερα τὰ ὄντα τὰ στρεπτὰ τῆς μεχωνὼθ ἐπ᾿ ἀμφοτέροις τοῖς στύλοις,",
+      "greek": true,
+      "translation": "„rodiile, patru sute, pentru amândouă rețelele: două rânduri de rodii pentru o rețea, ca să acopere amândouă împletiturile mehonotului de pe amândoi stâlpii;”",
+      "note": "Același înțeles; Septuaginta are aici cuvântul ebraic mehonot („socluri”), transcris, unde ebraica are „capitelurile”."
      }
     ],
     "refs": [],
@@ -52644,6 +52749,13 @@
       "original": "וְאֶת־הַמְּכֹנוֹת עֶשֶׂר וְאֶת־הַכִּיֹּרֹת עֲשָׂרָה...",
       "translation": "„și cele zece socluri și cele zece ligheane...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:29)",
+      "original": "καὶ τὰ μεχωνὼθ δέκα καὶ τοὺς χυτροκαύλους δέκα ἐπὶ τῶν μεχωνὼθ",
+      "greek": true,
+      "translation": "„și mehonotul [soclurile], zece, și căldările, zece, pe mehonot;”",
+      "note": "Septuaginta transcrie cuvântul ebraic mehonot („socluri”) în loc să-l traducă; în rest, același înțeles."
      }
     ],
     "refs": [],
@@ -52661,6 +52773,13 @@
       "original": "וְאֶת־הַיָּם הָאֶחָד וְאֶת־הַבָּקָר שְׁנֵים־עָשָׂר...",
       "translation": "„și «Marea» cea unică și cei doisprezece boi...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:30)",
+      "original": "καὶ τὴν θάλασσαν μίαν καὶ τοὺς βόας δώδεκα ὑποκάτω τῆς θαλάσσης",
+      "greek": true,
+      "translation": "„și marea, una, și boii, doisprezece, sub mare;”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [],
@@ -52695,6 +52814,13 @@
       "original": "וְאֶת־הַסִּירוֹת וְאֶת־הַיָּעִים...",
       "translation": "„și oalele, și lopețile...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:31)",
+      "original": "καὶ τοὺς λέβητας καὶ τὰς θερμάστρεις καὶ τὰς φιάλας καὶ πάντα τὰ σκεύη, ἃ ἐποίησε Χιρὰμ τῷ βασιλεῖ Σαλωμὼν τῷ οἴκῳ Κυρίου· καὶ οἱ στῦλοι τεσσαράκοντα καὶ ὀκτὼ τοῦ οἴκου τοῦ βασιλέως καὶ τοῦ οἴκου Κυρίου. πάντα τὰ ἔργα τοῦ βασιλέως, ἃ ἐποίησε Χιράμ, χαλκᾶ ἄρδην·",
+      "greek": true,
+      "translation": "„și cazanele, lopețile și cupele și toate vasele pe care le-a făcut Hiram pentru regele Solomon, pentru casa Domnului; și stâlpii, patruzeci și opt, ai casei regelui și ai casei Domnului; toate lucrările regelui pe care le-a făcut Hiram, de aramă cu totul.”",
+      "note": "Septuaginta adaugă „și stâlpii, patruzeci și opt, ai casei regelui și ai casei Domnului”, cuvinte care nu sunt în ebraică; „aramă lustruită” devine „de aramă cu totul”."
      }
     ],
     "refs": [
@@ -52751,6 +52877,13 @@
       "original": "בְּכִכַּר הַיַּרְדֵּן יְצָקָם הַמֶּלֶךְ...",
       "translation": "„Regele le-a turnat în câmpia Iordanului...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:33)",
+      "original": "ἐν τῷ περιοίκῳ τοῦ ᾿Ιορδάνου ἐχώνευσεν αὐτὰ ἐν τῷ πάχει τῆς γῆς ἀνὰ μέσον Σοκχὼθ καὶ ἀνὰ μέσον Σειρά.",
+      "greek": true,
+      "translation": "„În ținutul dimprejurul Iordanului le-a turnat, în grosimea pământului, între Socot și Sira.”",
+      "note": "Septuaginta are „Sira” în loc de „Țartan”; în greacă, versetele 46 și 47 sunt în ordine inversă (III Regate 7:32-33)."
      }
     ],
     "refs": [
@@ -52778,6 +52911,13 @@
       "original": "וַיַּנַּח שְׁלֹמֹה אֶת־כָּל־הַכֵּלִים מֵרֹב מְאֹד מְאֹד...",
       "translation": "„Solomon a lăsat toate vasele [necântărite]...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:32)",
+      "original": "οὐκ ἦν σταθμὸς τοῦ χαλκοῦ, οὗ ἐποίησε πάντα τὰ ἔργα ταῦτα, ἐκ πλήθους σφόδρα· οὐκ ἦν τέρμα τῶν σταθμῶν τοῦ χαλκοῦ.",
+      "greek": true,
+      "translation": "„Nu era cântar pentru arama din care a făcut toate lucrările acestea, din pricina mulțimii foarte mari; nu era capăt al cântăririi aramei.”",
+      "note": "Septuaginta nu spune că Solomon a lăsat vasele necântărite, ci doar că arama nu se putea cântări, din pricina mulțimii ei."
      }
     ],
     "refs": [
@@ -52820,6 +52960,13 @@
       "original": "וַיַּעַשׂ שְׁלֹמֹה אֵת כָּל־הַכֵּלִים אֲשֶׁר בֵּית יְהוָה...",
       "translation": "„Solomon a făcut toate vasele care erau în Casa DOMNULUI...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:34)",
+      "original": "καὶ ἔδωκεν ὁ βασιλεὺς Σαλωμὼν τὰ σκεύη, ἃ ἐποίησεν, ἐν οἴκῳ Κυρίου, τὸ θυσιαστήριον τὸ χρυσοῦν καὶ τὴν τράπεζαν, ἐφ᾿ ἧς οἱ ἄρτοι τῆς προσφορᾶς, χρυσῆν,",
+      "greek": true,
+      "translation": "„Și regele Solomon a pus vasele pe care le-a făcut în casa Domnului: altarul de aur și masa pe care [erau] pâinile punerii înainte, de aur;”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [
@@ -52874,6 +53021,13 @@
       "original": "וְאֶת־הַמְּנֹרוֹת חָמֵשׁ מִיָּמִין וְחָמֵשׁ מִשְּׂמֹאול...",
       "translation": "„și sfeșnicele, cinci în dreapta și cinci în stânga...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:35)",
+      "original": "καὶ τὰς λυχνίας πέντε ἐξ ἀριστερῶν καὶ πέντε ἐκ δεξιῶν κατὰ πρόσωπον τοῦ δαβίρ, χρυσᾶς συγκλειομένας, καὶ τὰ λαμπάδια καὶ τοὺς λύχνους καὶ τὰς ἐπαρυστρίδας χρυσᾶς",
+      "greek": true,
+      "translation": "„și sfeșnicele, cinci la stânga și cinci la dreapta, înaintea dabirului, de aur curat; și lămpile, candelele și mucările, de aur;”",
+      "note": "Septuaginta pune întâi „cinci la stânga”, iar ebraica „cinci la dreapta și cinci la stânga”; cuvântul ebraic devir (Locul Preasfânt) e doar transcris („dabir”), iar unde ebraica are „florile”, Septuaginta are „lămpile”."
      }
     ],
     "refs": [
@@ -52920,6 +53074,13 @@
       "original": "וְהַסִּפּוֹת וְהַמְזַמְּרוֹת וְהַמִּזְרָקוֹת...",
       "translation": "„și bolurile, instrumentele muzicale, vasele pentru sânge...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:36)",
+      "original": "καὶ τὰ πρόθυρα καὶ οἱ ἧλοι καὶ αἱ φιάλαι καὶ τὰ τρυβλία καὶ αἱ θυΐσκαι χρυσαῖ, σύγκλειστα, καὶ τὰ θυρώματα τῶν θυρῶν τοῦ οἴκου τοῦ ἐσωτάτου, ἁγίου τῶν ἁγίων, καὶ τὰς θύρας τοῦ ναοῦ χρυσᾶς.",
+      "greek": true,
+      "translation": "„și ușorii, cuiele, cupele, farfuriile și cădelnițele, de aur curat; și tocurile ușilor casei celei mai dinăuntru, a Sfintei Sfintelor, și ușile templului, de aur.”",
+      "note": "Același înțeles, cu unele deosebiri în numele vaselor; ebraica spune că țâțânile ușilor erau de aur, iar Septuaginta, tocurile ușilor și ușile templului."
      }
     ],
     "refs": [
@@ -52973,6 +53134,13 @@
       "original": "וַתִּשְׁלַם כָּל־הַמְּלָאכָה אֲשֶׁר עָשָׂה הַמֶּלֶךְ שְׁלֹמֹה...",
       "translation": "„Când s-a isprăvit toată lucrarea...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 7:37)",
+      "original": "καὶ ἀνεπληρώθη πᾶν τὸ ἔργον, ὃ ἐποίησε Σαλωμὼν οἴκου Κυρίου, καὶ εἰσήνεγκε Σαλωμὼν τὰ ἅγια Δαυὶδ τοῦ πατρὸς αὐτοῦ καὶ πάντα τὰ ἅγια Σαλωμών, τὸ ἀργύριον καὶ τὸ χρυσίον καὶ τὰ σκεύη, ἔδωκεν εἰς τοὺς θησαυροὺς οἴκου Κυρίου.",
+      "greek": true,
+      "translation": "„Și s-a isprăvit toată lucrarea pe care a făcut-o Solomon pentru casa Domnului; și a adus Solomon cele sfinte ale lui David, tatăl său, și toate cele sfinte ale lui Solomon: argintul, aurul și vasele le-a pus în vistieriile casei Domnului.”",
+      "note": "Septuaginta adaugă „și toate cele sfinte ale lui Solomon”, cuvinte care nu sunt în ebraică."
      }
     ],
     "refs": [
@@ -53010,6 +53178,13 @@
       "original": "אָז יַקְהֵל שְׁלֹמֹה אֶת־זִקְנֵי יִשְׂרָאֵל...",
       "translation": "„Atunci, Solomon i-a adunat laolaltă pe bătrânii lui Israel...” — traducerea rabinului Rosen.",
       "note": "Ca la pasajele tehnice precedente din 1 Împărați 7, Septuaginta (III Regate) reordonează unele secțiuni din capitolul 8 față de succesiunea masoretică, iar la finalul capitolului (corespondent v.53) include un fragment poetic absent complet din textul ebraic (vezi nota la v.12-13, mai jos) — divergențe reale, documentate, semnalate punctual."
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:1)",
+      "original": "ΚΑΙ ἐγένετο ὡς συνετέλεσε Σαλωμὼν τοῦ οἰκοδομῆσαι τὸν οἶκον Κυρίου καὶ τὸν οἶκον αὐτοῦ μετὰ εἴκοσιν ἔτη, τότε ἐξεκκλησίασεν ὁ βασιλεὺς Σαλωμὼν πάντας τοὺς πρεσβυτέρους ᾿Ισραὴλ ἐν Σιὼν τοῦ ἀνενεγκεῖν τὴν κιβωτὸν διαθήκης Κυρίου ἐκ πόλεως Δαυὶδ (αὕτη ἐστὶ Σιὼν)",
+      "greek": true,
+      "translation": "„Și a fost, când a isprăvit Solomon de zidit casa Domnului și casa lui, după douăzeci de ani, atunci regele Solomon i-a adunat pe toți bătrânii lui Israel în Sion, ca să urce chivotul legământului Domnului din cetatea lui David (aceasta este Sionul),”",
+      "note": "Septuaginta începe cu o legătură care nu e aici în ebraică („când a isprăvit Solomon de zidit... după douăzeci de ani”, cf. 1 Împărați 9:10) și e mai scurtă: nu pomenește căpeteniile semințiilor și capii familiilor."
      }
     ],
     "refs": [
@@ -53056,6 +53231,13 @@
       "original": "וַיִּקָּהֲלוּ אֶל־הַמֶּלֶךְ שְׁלֹמֹה כָּל־אִישׁ יִשְׂרָאֵל...",
       "translation": "„Și toți bărbații lui Israel s-au adunat...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:2)",
+      "original": "ἐν μηνὶ ᾿Αθανίν.",
+      "greek": true,
+      "translation": "„în luna Atanin.”",
+      "note": "Septuaginta păstrează doar numele lunii (Etanim, grecește Atanin); nu are „toți bărbații lui Israel s-au adunat la rege la sărbătoare”, nici „aceasta este luna a șaptea”."
      }
     ],
     "refs": [
@@ -53085,6 +53267,13 @@
       "original": "וַיָּבֹאוּ כֹּל זִקְנֵי יִשְׂרָאֵל...",
       "translation": "„Toți bătrânii lui Israel au venit...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:3)",
+      "original": "καὶ ᾖραν οἱ ἱερεῖς τὴν κιβωτὸν",
+      "greek": true,
+      "translation": "„Și preoții au ridicat chivotul”",
+      "note": "Septuaginta nu are „toți bătrânii lui Israel au venit”."
      }
     ],
     "refs": [
@@ -53131,6 +53320,13 @@
       "original": "וַיַּעֲלוּ אֶת־אֲרוֹן יְהוָה וְאֶת־אֹהֶל מוֹעֵד...",
       "translation": "„Și au ridicat Chivotul DOMNULUI și Cortul Întâlnirii...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:4)",
+      "original": "καὶ τὸ σκήνωμα τοῦ μαρτυρίου καὶ τὰ σκεύη τὰ ἅγια τὰ ἐν τῷ σκηνώματι τοῦ μαρτυρίου,",
+      "greek": true,
+      "translation": "„și cortul mărturiei și vasele sfinte care [erau] în cortul mărturiei;”",
+      "note": "Septuaginta nu spune că preoții și leviții le-au urcat."
      }
     ],
     "refs": [
@@ -53157,6 +53353,13 @@
       "original": "וְהַמֶּלֶךְ שְׁלֹמֹה וְכָל־עֲדַת יִשְׂרָאֵל...",
       "translation": "„Iar regele Solomon și toată obștea lui Israel...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:5)",
+      "original": "καὶ ὁ βασιλεὺς καὶ πᾶς ᾿Ισραὴλ ἔμπροσθεν τῆς κιβωτοῦ θύοντες πρόβατα καὶ βόας ἀναρίθμητα.",
+      "greek": true,
+      "translation": "„iar regele și tot Israelul [erau] înaintea chivotului, jertfind oi și boi fără număr.”",
+      "note": "Septuaginta e mai scurtă; în rest, același înțeles."
      }
     ],
     "refs": [
@@ -53204,6 +53407,13 @@
       "original": "וַיָּבִאוּ הַכֹּהֲנִים אֶת־אֲרוֹן בְּרִית־יְהוָה...",
       "translation": "„Preoții au adus Chivotul Legământului DOMNULUI...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:6)",
+      "original": "καὶ εἰσφέρουσιν οἱ ἱερεῖς τὴν κιβωτὸν εἰς τὸν τόπον αὐτῆς εἰς τὸ δαβὶρ τοῦ οἴκου, εἰς τὰ ἅγια τῶν ἁγίων ὑπὸ τὰς πτέρυγας τῶν Χερουβίμ·",
+      "greek": true,
+      "translation": "„Și preoții aduc chivotul la locul lui, în dabirul casei, în Sfânta Sfintelor, sub aripile heruvimilor;”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [
@@ -53233,6 +53443,13 @@
       "original": "כִּי הַכְּרוּבִים פֹּרְשִׂים כְּנָפַיִם...",
       "translation": "„Căci heruvimii și-au întins aripile...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:7)",
+      "original": "ὅτι τὰ Χερουβὶμ διαπεπετασμένα ταῖς πτέρυξιν ἐπὶ τὸν τόπον τῆς κιβωτοῦ, καὶ περιεκάλυπτον τὰ Χερουβὶμ ἐπὶ τὴν κιβωτὸν καὶ ἐπὶ τὰ ἅγια αὐτῆς ἐπάνωθεν,",
+      "greek": true,
+      "translation": "„căci heruvimii [erau] cu aripile întinse deasupra locului chivotului, iar heruvimii acopereau chivotul și cele sfinte ale lui, deasupra;”",
+      "note": "Unde ebraica are „drugii lui”, Septuaginta are „cele sfinte ale lui”."
      }
     ],
     "refs": [],
@@ -53280,6 +53497,13 @@
       "original": "וַיַּאֲרִכוּ הַבַּדִּים וַיֵּרָאוּ רָאשֵׁי הַבַּדִּים...",
       "translation": "„Iar drugii se extindeau...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:8)",
+      "original": "καὶ ὑπερεῖχον τὰ ἡγιασμένα, καὶ ἐνεβλέποντο αἱ κεφαλαὶ τῶν ἡγιασμένων ἐκ τῶν ἁγίων εἰς πρόσωπον τοῦ δαβὶρ καὶ οὐκ ὠπτάνοντο ἔξω.",
+      "greek": true,
+      "translation": "„și cele sfințite ieșeau în afară, iar capetele celor sfințite se vedeau din Locul Sfânt, înaintea dabirului, dar nu se vedeau afară.”",
+      "note": "Unde ebraica are „drugii”, Septuaginta are „cele sfințite”; Septuaginta nu are încheierea „și sunt acolo până în ziua de azi”."
      }
     ],
     "refs": [
@@ -53325,6 +53549,13 @@
       "original": "אֵין בָּאָרוֹן רַק שְׁנֵי לֻחוֹת הָאֲבָנִים...",
       "translation": "„Nu exista nimic în Chivot, în afară de cele două table de piatră...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:9)",
+      "original": "οὐκ ἦν ἐν τῇ κιβωτῷ πλὴν δύο πλάκες λίθιναι, πλάκες τῆς διαθήκης, ἃς ἔθηκεν ἐκεῖ Μωυσῆς ἐν Χωρήβ, ἃς διέθετο Κύριος μετὰ τῶν υἱῶν ᾿Ισραὴλ ἐν τῷ ἐκπορεύεσθαι αὐτοὺς ἐκ γῆς Αἰγύπτου.",
+      "greek": true,
+      "translation": "„Nu era în chivot decât două table de piatră, tablele legământului, pe care le-a pus acolo Moise la Horeb, pe care le-a legat Domnul cu fiii lui Israel când ieșeau ei din țara Egiptului.”",
+      "note": "Septuaginta adaugă „tablele legământului”; în rest, același înțeles."
      }
     ],
     "refs": [
@@ -53361,6 +53592,13 @@
       "original": "וַיְהִי בְּצֵאת הַכֹּהֲנִים מִן־הַקֹּדֶשׁ...",
       "translation": "„Când preoții au plecat din Sfânta, norul a umplut Casa DOMNULUI.” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:10)",
+      "original": "καὶ ἐγένετο ὡς ἐξῆλθον οἱ ἱερεῖς ἐκ τοῦ ἁγίου, καὶ ἡ νεφέλη ἔπλησε τὸν οἶκον·",
+      "greek": true,
+      "translation": "„Și a fost, când au ieșit preoții din Locul Sfânt, norul a umplut casa;”",
+      "note": "Unde ebraica are „casa DOMNULUI”, Septuaginta are doar „casa”."
      }
     ],
     "refs": [],
@@ -53391,6 +53629,13 @@
       "original": "וְלֹא־יָכְלוּ הַכֹּהֲנִים לַעֲמֹד לְשָׁרֵת...",
       "translation": "„Și preoții nu au putut sta să slujească...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:11)",
+      "original": "καὶ οὐκ ἠδύναντο οἱ ἱερεῖς στήκειν λειτουργεῖν ἀπὸ προσώπου τῆς νεφέλης, ὅτι ἔπλησε δόξα Κυρίου τὸν οἶκον.",
+      "greek": true,
+      "translation": "„și preoții nu puteau sta să slujească din pricina norului, căci slava Domnului a umplut casa.”",
+      "note": "Același înțeles; la sfârșit, ebraica are „casa DOMNULUI”, iar Septuaginta „casa”."
      }
     ],
     "refs": [
@@ -53473,6 +53718,13 @@
       "original": "בָּנֹה בָנִיתִי בֵית זְבֻל לָךְ...",
       "translation": "„Și am construit într-adevăr un adăpost pentru Tine...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:53a)",
+      "original": "οἰκοδόμησον οἶκόν μου, οἶκον εὐπρεπῆ σεαυτῷ, τοῦ κατοικεῖν ἐπὶ καινότητος.",
+      "greek": true,
+      "translation": "„zidește-Mi casă, casă frumoasă Ție Însuți, ca să locuiești în ea din nou.”",
+      "note": "În Septuaginta, cuvintele acestea nu stau aici, ci după rugăciunea lui Solomon (III Regate 8:53a), într-o cântare pe care textul grecesc o pune pe seama „cărții Cântării”."
      }
     ],
     "refs": [
@@ -53502,6 +53754,13 @@
       "original": "וַיַּסֵּב הַמֶּלֶךְ אֶת־פָּנָיו וַיְבָרֶךְ...",
       "translation": "„Regele și-a întors fața și a binecuvântat...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:14)",
+      "original": "Καὶ ἀπέστρεψεν ὁ βασιλεὺς τὸ πρόσωπον αὐτοῦ, καὶ εὐλόγησεν ὁ βασιλεὺς πάντα ᾿Ισραήλ, καὶ πᾶσα ἐκκλησία ᾿Ισραὴλ εἱστήκει·",
+      "greek": true,
+      "translation": "„Și regele și-a întors fața și a binecuvântat regele tot Israelul, iar toată adunarea lui Israel stătea în picioare.”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [
@@ -53552,6 +53811,13 @@
       "original": "וַיֹּאמֶר בָּרוּךְ יְהוָה אֱלֹהֵי יִשְׂרָאֵל...",
       "translation": "„Și [Solomon] a spus: «Binecuvântat ești Tu, DOAMNE...»” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:15)",
+      "original": "καὶ εἶπεν· εὐλογητὸς Κύριος ὁ Θεὸς ᾿Ισραὴλ σήμερον, ὃς ἐλάλησεν ἐν τῷ στόματι αὐτοῦ περὶ Δαυὶδ τοῦ πατρός μου καὶ ἐν ταῖς χερσὶν αὐτοῦ ἐπλήρωσε λέγων·",
+      "greek": true,
+      "translation": "„și a zis: Binecuvântat [fie] Domnul Dumnezeul lui Israel astăzi, care a vorbit cu gura Lui despre David, tatăl meu, și cu mâinile Lui a împlinit, zicând:”",
+      "note": "Septuaginta adaugă „astăzi”; în rest, același înțeles."
      }
     ],
     "refs": [
@@ -53580,6 +53846,13 @@
       "original": "מִן־הַיּוֹם אֲשֶׁר הוֹצֵאתִי אֶת־עַמִּי...",
       "translation": "„«Din ziua în care l-am scos pe poporul Meu Israel din Egipt...»” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:16)",
+      "original": "ἀφ᾿ ἧς ἡμέρας ἐξήγαγον τὸν λαόν μου τὸν ᾿Ισραὴλ ἐξ Αἰγύπτου, οὐκ ἐξελεξάμην ἐν πόλει ἐν ἑνὶ σκήπτρῳ ᾿Ισραὴλ τοῦ οἰκοδομῆσαι οἶκον τοῦ εἶναι τὸ ὄνομά μου ἐκεῖ. καὶ ἐξελεξάμην ἐν ῾Ιερουσαλὴμ εἶναι τὸ ὄνομά μου ἐκεῖ· καὶ ἐξελεξάμην τὸν Δαυὶδ τοῦ εἶναι ἐπὶ τὸν λαόν μου τὸν ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Din ziua în care am scos pe poporul Meu, pe Israel, din Egipt, n-am ales o cetate în vreuna din semințiile lui Israel ca să se zidească o casă, ca să fie Numele Meu acolo; și am ales Ierusalimul ca să fie Numele Meu acolo; și l-am ales pe David ca să fie peste poporul Meu, Israel.”",
+      "note": "Septuaginta are în plus „și am ales Ierusalimul ca să fie Numele Meu acolo”, cuvinte care lipsesc aici din textul masoretic, dar se află în 2 Cronici 6:6."
      }
     ],
     "refs": [
@@ -53617,6 +53890,13 @@
       "original": "וַיְהִי עִם־לְבַב דָּוִד אָבִי...",
       "translation": "„Și a fost dorința inimii tatălui meu David...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:17)",
+      "original": "καὶ ἐγένετο ἐπὶ τῆς καρδίας τοῦ πατρός μου οἰκοδομῆσαι οἶκον τῷ ὀνόματι Κυρίου Θεοῦ ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Și a fost în inima tatălui meu să zidească o casă Numelui Domnului Dumnezeului lui Israel.”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [
@@ -53639,6 +53919,13 @@
       "original": "וַיֹּאמֶר יְהוָה אֶל־דָּוִד אָבִי...",
       "translation": "„DOMNUL i-a spus tatălui meu, David...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:18)",
+      "original": "καὶ εἶπε Κύριος πρὸς Δαυὶδ τὸν πατέρα μου· ἀνθ᾿ ὧν ἦλθεν ἐπὶ τὴν καρδίαν σου τοῦ οἰκοδομῆσαι οἶκον τῷ ὀνόματί μου, καλῶς ἐποίησας ὅτι ἐγενήθη ἐπὶ τὴν καρδίαν σου·",
+      "greek": true,
+      "translation": "„Și Domnul i-a zis lui David, tatăl meu: Pentru că ți-a venit în inimă să zidești o casă Numelui Meu, bine ai făcut că ți-a venit în inimă;”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [
@@ -53659,6 +53946,13 @@
       "original": "רַק אַתָּה לֹא תִבְנֶה הַבָּיִת...",
       "translation": "„Însă nu tu vei construi Casa...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:19)",
+      "original": "πλὴν σὺ οὐκ οἰκοδομήσεις τὸν οἶκον, ἀλλ᾿ ἢ ὁ υἱός σου ὁ ἐξελθὼν ἐκ τῶν πλευρῶν σου, οὗτος οἰκοδομήσει τὸν οἶκον τῷ ὀνόματί μου.",
+      "greek": true,
+      "translation": "„numai că tu nu vei zidi casa, ci fiul tău, care va ieși din coapsele tale, acesta va zidi casa Numelui Meu.”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [
@@ -53691,6 +53985,13 @@
       "original": "וַיָּקֶם יְהוָה אֶת־דְּבָרוֹ אֲשֶׁר דִּבֵּר...",
       "translation": "„DOMNUL Și-a împlinit cuvântul pe care l-a rostit...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:20)",
+      "original": "καὶ ἀνέστησε Κύριος τὸ ῥῆμα αὐτοῦ, ὃ ἐλάλησε, καὶ ἀνέστην ἀντὶ Δαυὶδ τοῦ πατρός μου καὶ ἐκάθισα ἐπὶ τοῦ θρόνου ᾿Ισραήλ, καθὼς ἐλάλησε Κύριος, καὶ ᾠκοδόμησα τὸν οἶκον τῷ ὀνόματι Κυρίου Θεοῦ ᾿Ισραήλ.",
+      "greek": true,
+      "translation": "„Și Domnul Și-a împlinit cuvântul pe care l-a spus, și m-am ridicat în locul lui David, tatăl meu, și am șezut pe tronul lui Israel, cum a spus Domnul, și am zidit casa Numelui Domnului Dumnezeului lui Israel.”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [
@@ -53732,6 +54033,13 @@
       "original": "וָאָשִׂם שָׁם מָקוֹם לָאָרוֹן...",
       "translation": "„Și acolo am făcut un loc pentru Chivot...” — traducerea rabinului Rosen.",
       "note": ""
+     },
+     {
+      "source": "Septuaginta (greacă, III Regate 8:21)",
+      "original": "καὶ ἐθέμην ἐκεῖ τόπον τῇ κιβωτῷ, ἐν ᾗ ἐστιν ἐκεῖ διαθήκη Κυρίου, ἣν διέθετο Κύριος μετὰ τῶν πατέρων ἡμῶν ἐν τῷ ἐξαγαγεῖν αὐτὸν αὐτοὺς ἐκ γῆς Αἰγύπτου.",
+      "greek": true,
+      "translation": "„Și am pus acolo un loc pentru chivot, în care este legământul Domnului, pe care l-a încheiat Domnul cu părinții noștri când i-a scos din țara Egiptului.”",
+      "note": "Același înțeles."
      }
     ],
     "refs": [
