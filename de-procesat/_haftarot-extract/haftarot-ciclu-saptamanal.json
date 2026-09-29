@@ -49680,7 +49680,20 @@
      "Iacov 5:17",
      "Deuteronom 28:12"
     ],
-    "commentaries": []
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Du-te și înfățișează-te lui Ahab” — fă în așa fel încât el să te roage pentru ploaie, iar Eu o voi da prin tine; și pentru că Ilie jurase că ploaia nu va veni decât după cuvântul lui, de aceea i-a poruncit aceasta."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „În al treilea an” — al opririi ploilor. „Și Eu voi trimite ploaie” — căci din pricina foametei mulți s-au întors prin pocăință și și-au îndreptat căile; și, pe deasupra, erau în Israel șapte mii care nu-și plecaseră genunchiul înaintea lui Baal."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 113a",
+      "text": "[Ilie] a cerut îndurare să i se dea cheia învierii morților. I s-a spus: trei chei n-au fost date unui trimis: a nașterii, a ploilor și a învierii morților; să se spună: două în mâna ucenicului și una în mâna Învățătorului? Adu-o pe aceasta și ia-o pe aceea; căci e scris: „Du-te și înfățișează-te lui Ahab, și Eu voi trimite ploaie”."
+     }
+    ]
    },
    {
     "v": "18:2",
@@ -49720,8 +49733,18 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["Levitic 26:26", "Deuteronom 28:23,24", "Proverbe 28:1", "2 Împărați 6:25"],
-    "commentaries": []
+    "refs": [
+     "Levitic 26:26",
+     "Deuteronom 28:23,24",
+     "Proverbe 28:1",
+     "2 Împărați 6:25"
+    ],
+    "commentaries": [
+     {
+      "author": "Talmud Bavli, Berahot 10a",
+      "text": "Ezechia a spus: să vină Isaia la mine, căci așa găsim la Ilie, care s-a dus la Ahab, cum s-a spus: „Ilie s-a dus să se înfățișeze lui Ahab”. Isaia a spus: să vină Ezechia la mine, căci așa găsim la Ioram, fiul lui Ahab, care s-a dus la Elisei."
+     }
+    ]
    },
    {
     "v": "18:3",
@@ -49774,8 +49797,27 @@
       "note": "LXX transliterează numele ca „Ἀβδιοὺ” (Abdiu) și traduce „asher al ha-bayit” prin „τὸν οἰκονόμον” („administratorul, intendentul”), o redare tehnică precisă a funcției."
      }
     ],
-    "refs": ["Geneza 24:2,10", "1 Împărați 18:12", "Geneza 39:4,5,9", "Geneza 22:12", "Geneza 42:18"],
-    "commentaries": []
+    "refs": [
+     "Geneza 24:2,10",
+     "1 Împărați 18:12",
+     "Geneza 39:4,5,9",
+     "Geneza 22:12",
+     "Geneza 42:18"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Pe Obadia” — ca să meargă cu el, cum se spune mai jos în pericopă. „Mai-mare peste casa lui” — era pus peste casa regelui."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Se temea mult de Dumnezeu” — acum spune cum se temea mult de DOMNUL, căci și-a pus viața în primejdie ca să-i scape pe profeții DOMNULUI și să-i țină în viață; iar Înțelepții noștri au spus că acest Obadia a ascuns cincizeci de oameni într-o peșteră și cincizeci în altă peșteră, cum spune mai jos: „câte cincizeci într-o peșteră”."
+     },
+     {
+      "author": "Talmud Bavli, Sanhedrin 39b",
+      "text": "Rabi Aba a spus: mai mare e ce s-a spus despre Obadia decât ce s-a spus despre Avraam: despre Avraam nu e scris „mult”, iar despre Obadia e scris „se temea mult de DOMNUL”."
+     }
+    ]
    },
    {
     "v": "18:4",
@@ -49828,11 +49870,17 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["Neemia 9:26", "Evrei 11:38", "1 Împărați 18:13", "1 Împărați 13:8,9,16", "2 Împărați 6:22,23"],
+    "refs": [
+     "Neemia 9:26",
+     "Evrei 11:38",
+     "1 Împărați 18:13",
+     "1 Împărați 13:8,9,16",
+     "2 Împărați 6:22,23"
+    ],
     "commentaries": [
      {
       "author": "Rashi (1040–1105)",
-      "text": "Rashi precizează structura menționării repetate a acestui episod (aici și la v.13, în relatarea proprie a lui Ovadia): scopul versetului e să arate concret, prin faptă, cum anume „Ovadia se temea mult de DOMNUL” — nu doar o afirmație abstractă despre caracterul lui, ci o dovadă istorică precisă a riscului personal asumat."
+      "text": "„Și când Izabela a stârpit” — [Scriptura] vine să spună cum se temea Obadia de DOMNUL. „Cincizeci de oameni într-o peșteră” — și cincizeci de oameni în altă peșteră."
      }
     ]
    },
@@ -49874,8 +49922,30 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["Psalmii 104:14", "Ieremia 14:5,6", "Ioel 1:18", "Ioel 2:22"],
-    "commentaries": []
+    "refs": [
+     "Psalmii 104:14",
+     "Ieremia 14:5,6",
+     "Ioel 1:18",
+     "Ioel 2:22"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Și să nu rămânem fără dobitoace” — să nu ni se stârpească toate dobitoacele."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Să nu rămânem fără” — și să nu fim lipsiți de dobitoace."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Iarbă” (hațir) — iarbă verde. „Ca să ținem în viață” — ca să hrănim, ca în „ca să vă păstrez viața (lemihia) m-a trimis” (Geneza 45:5)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și să nu rămânem fără dobitoace” — e scris min behema și se citește mehabehema, și e același lucru; înseamnă: să nu rămână cetatea noastră fără dobitoace."
+     }
+    ]
    },
    {
     "v": "18:6",
@@ -49915,7 +49985,9 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["Ieremia 14:3"],
+    "refs": [
+     "Ieremia 14:3"
+    ],
     "commentaries": []
    },
    {
@@ -49956,8 +50028,17 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["2 Împărați 1:6-8", "Matei 3:4", "Geneza 50:18"],
-    "commentaries": []
+    "refs": [
+     "2 Împărați 1:6-8",
+     "Matei 3:4",
+     "Geneza 50:18"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și a căzut cu fața la pământ” — ca să i se închine lui Ilie."
+     }
+    ]
    },
    {
     "v": "18:8",
@@ -49997,7 +50078,11 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["1 Împărați 18:3", "Romani 13:7", "1 Petru 2:17,18"],
+    "refs": [
+     "1 Împărați 18:3",
+     "Romani 13:7",
+     "1 Petru 2:17,18"
+    ],
     "commentaries": []
    },
    {
@@ -50038,8 +50123,21 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["1 Împărați 18:12", "1 Împărați 17:18", "Exod 5:21"],
-    "commentaries": []
+    "refs": [
+     "1 Împărați 18:12",
+     "1 Împărați 17:18",
+     "Exod 5:21"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Ca să mă omoare” — cum lămurește mai departe, spunând: „un suflu al DOMNULUI te va purta undeva unde eu nu voi ști”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„De îl predai” — adică tu vei fi pricina ca eu să mor de mâna lui Ahab."
+     }
+    ]
    },
    {
     "v": "18:10",
@@ -50092,11 +50190,16 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["1 Împărați 18:15", "1 Împărați 17:5,9", "1 Împărați 1:29", "Ieremia 26:20-23"],
+    "refs": [
+     "1 Împărați 18:15",
+     "1 Împărați 17:5,9",
+     "1 Împărați 1:29",
+     "Ieremia 26:20-23"
+    ],
     "commentaries": [
      {
       "author": "Rashi (1040–1105)",
-      "text": "Rashi explică temerea lui Ovadia direct în legătură cu versetul 12: se teme că, în intervalul dintre a-l anunța pe Ahab și a se întoarce cu el la locul întâlnirii, „duhul DOMNULUI” l-ar putea purta pe Ilie într-un loc necunoscut — exact mecanismul care avea să-l coste viața."
+      "text": "„Că nu te găsesc” — căci poporul nu putea să te găsească."
      }
     ]
    },
@@ -50125,7 +50228,9 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["1 Împărați 18:8,14"],
+    "refs": [
+     "1 Împărați 18:8,14"
+    ],
     "commentaries": []
    },
    {
@@ -50187,7 +50292,16 @@
      "Ezechiel 3:12-14",
      "Daniel 2:5-13"
     ],
-    "commentaries": []
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Un suflu al DOMNULUI te va purta” — cum se obișnuise să fie, din când în când. „Undeva” — într-un loc pe care nu-l voi ști, ca să te caut acolo. „Și el nu te va găsi” — în locul acesta. „Și atunci mă va omorî” — crezând că mi-am bătut joc de el, ca și cum aș fi zis, în batjocură: iată, am trimis să-l caut și nu l-am găsit, și iată-l stând aici. „Dar slujitorul tău s-a temut” — și atunci de ce să fii tu pricina morții mele?"
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Un suflu al DOMNULUI te va purta” — credeau, când nu-l găseau, că un suflu al DOMNULUI îl dusese pe unul din munți, cum au spus fiii profeților lui Elisei: „poate că l-a luat Duhul DOMNULUI și l-a aruncat pe vreun munte” (2 Împărați 2:16). „Dar slujitorul tău s-a temut de DOMNUL” — de aceea se cuvine să ai milă de mine și să nu mă aduci la moarte."
+     }
+    ]
    },
    {
     "v": "18:13",
@@ -50227,7 +50341,11 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["1 Împărați 18:4", "Matei 10:41,42", "Matei 25:35"],
+    "refs": [
+     "1 Împărați 18:4",
+     "Matei 10:41,42",
+     "Matei 25:35"
+    ],
     "commentaries": []
    },
    {
@@ -50268,8 +50386,15 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["Matei 10:28"],
-    "commentaries": []
+    "refs": [
+     "Matei 10:28"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Iar acum” — el mă va omorî; și atunci cine îi va mai hrăni pe profeți de acum înainte? Îndură-te de ei."
+     }
+    ]
    },
    {
     "v": "18:15",
@@ -50393,7 +50518,16 @@
      "Amos 7:10",
      "Faptele apostolilor 16:20"
     ],
-    "commentaries": []
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Care chinuie pe Israel” — căci i-ai adus în necaz, jurând că vei opri ploaia."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Care chinuie” (oher) — care strică și vatămă, ca în „voi m-ați nenorocit (acartem)” (Geneza 34:30)."
+     }
+    ]
    },
    {
     "v": "18:18",
@@ -50446,8 +50580,17 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["1 Împărați 9:9", "Matei 14:4", "2 Cronici 15:2"],
-    "commentaries": []
+    "refs": [
+     "1 Împărați 9:9",
+     "Matei 14:4",
+     "2 Cronici 15:2"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Nu eu l-am chinuit” — adică nu eu sunt pricina cea dintâi, ci tu, pentru că L-ai părăsit pe DOMNUL."
+     }
+    ]
    },
    {
     "v": "18:19",
@@ -50500,8 +50643,24 @@
       "note": "Divergență interesantă: LXX traduce „Baal” prin „τῆς αἰσχύνης” („al rușinii”) — o substituție eufemistică deliberată, evitând să pronunțe/transliterareze numele zeului păgân, tehnică folosită și în alte locuri biblice pentru a evita glorificarea implicită a unei zeități false."
      }
     ],
-    "refs": ["1 Împărați 18:42,43", "1 Împărați 22:6", "1 Împărați 15:13", "1 Împărați 19:1,2", "Iosua 19:26", "2 Petru 2:1"],
-    "commentaries": []
+    "refs": [
+     "1 Împărați 18:42,43",
+     "1 Împărați 22:6",
+     "1 Împărați 15:13",
+     "1 Împărați 19:1,2",
+     "Iosua 19:26",
+     "2 Petru 2:1"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și acum” — adică, dacă ceri ploaie, trimite de adună la mine..., și aceasta va fi pricina să vină ploaia. „Care mănâncă” — se spune despre profeții Așerei."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Care mănâncă la masa Izabelei” — se spune despre profeții lui Baal și ai Așerei, sau numai despre profeții Așerei, și aceasta e mai potrivit; de aceea Izabela nu i-a lăsat să meargă să fie încercați cu Ilie; și dovada e că Ilie a spus: „eu singur am rămas profet al DOMNULUI, iar profeții lui Baal sunt patru sute cincizeci”, și n-a pomenit pe profeții Așerei; se vede că nu erau acolo."
+     }
+    ]
    },
    {
     "v": "18:20",
@@ -50541,8 +50700,19 @@
       "note": "Traducere fidelă structurii ebraice."
      }
     ],
-    "refs": ["1 Împărați 22:9"],
-    "commentaries": []
+    "refs": [
+     "1 Împărați 22:9"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Și i-a adunat” — căci tot Israelul a venit de la sine, când a trimis după ei, dar profeții n-au venit până nu i-a adunat regele fără voia lor; și de aceea n-a adunat decât pe profeții lui Baal, nu și pe ai Așerei, căci Izabela nu i-a lăsat să meargă acolo, pentru că mâncau la masa ei."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și i-a adunat pe profeți” — și n-a spus „pe tot Israelul”, căci Israel s-a adunat de la sine, cu voie, când au auzit că Ilie vrea să facă încercarea; dar profeții nu s-au adunat decât prin silirea lui Ahab, căci știau că idolul lor e minciună; iar pe profeții Așerei Ahab n-a putut să-i silească să meargă acolo din pricina Izabelei, căci, fiindcă mâncau la masa ei, ea n-a vrut să meargă acolo."
+     }
+    ]
    },
    {
     "v": "18:21",
@@ -50595,11 +50765,16 @@
       "note": "LXX omite complet finalul versetului („mergeți după El... mergeți după el... poporul n-a răspuns nimic”), oprindu-se doar la întrebarea retorică — o scurtare notabilă a textului grecesc."
      }
     ],
-    "refs": ["Deuteronom 4:35", "1 Împărați 18:39", "Geneza 24:50", "2 Împărați 17:41"],
+    "refs": [
+     "Deuteronom 4:35",
+     "1 Împărați 18:39",
+     "Geneza 24:50",
+     "2 Împărați 17:41"
+    ],
     "commentaries": [
      {
       "author": "Rashi (1040–1105)",
-      "text": "Rashi explică „shtei ha-se'ippim” drept „cele două gânduri/păreri” — imaginea unui om care șchiopătează, incapabil să discearnă cu claritate cine e adevăratul Dumnezeu, tocmai pentru că nu are curajul de a se angaja ferm; tăcerea poporului confirmă exact această paralizie interioară descrisă de metaforă."
+      "text": "„Între două păreri” — două gânduri, căci nu știți să hotărâți cine e Dumnezeu. „Iar dacă Baal” — e Dumnezeu, mergeți după el. „Și poporul nu i-a răspuns nimic” — căci nu știau să deosebească."
      }
     ]
    },
@@ -50648,7 +50823,12 @@
      "Matei 7:13-15",
      "1 Împărați 22:6-8"
     ],
-    "commentaries": []
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Eu singur am rămas” — căci cei o sută de profeți pe care i-a ascuns Obadia nu le erau cunoscuți. „Dar profeții” — adică, deși eu sunt singur și ei sunt mulți, cu toate acestea să vedem acum a cui rugăciune va fi primită."
+     }
+    ]
    },
    {
     "v": "18:23",
@@ -50689,7 +50869,12 @@
      }
     ],
     "refs": [],
-    "commentaries": []
+    "commentaries": [
+     {
+      "author": "Metzudat Țion",
+      "text": "„Să îl taie” — să-l taie în bucăți, ca în „și să-l taie în bucăți” (Levitic 1:6)."
+     }
+    ]
    },
    {
     "v": "18:24",
@@ -50729,8 +50914,20 @@
       "note": "LXX omite finalul versetului (condiția focului și confirmarea poporului), oprindu-se doar la propunerea inițială — o scurtare consecventă cu tiparul deja observat la v.21."
      }
     ],
-    "refs": ["1 Împărați 18:38", "2 Samuel 14:19", "Isaia 39:8", "Levitic 9:24", "Judecători 6:21", "1 Cronici 21:26"],
-    "commentaries": []
+    "refs": [
+     "1 Împărați 18:38",
+     "2 Samuel 14:19",
+     "Isaia 39:8",
+     "Levitic 9:24",
+     "Judecători 6:21",
+     "1 Cronici 21:26"
+    ],
+    "commentaries": [
+     {
+      "author": "Metzudat David",
+      "text": "„Care va răspunde cu foc” — adică răspunsul va fi prin coborârea focului."
+     }
+    ]
    },
    {
     "v": "18:25",
@@ -50771,12 +50968,7 @@
      }
     ],
     "refs": [],
-    "commentaries": [
-     {
-      "author": "Rashi (1040–1105)",
-      "text": "Rashi observă că unul dintre cei doi tauri desemnați pentru profeții lui Baal s-a smucit și a fugit spre Ilie, refuzând să fie jertfit unei divinități false; Ilie i-a spus taurului: „du-te, prin voi amândoi [prin tine și prin taurul rămas cu profeții] se va sfinți Numele” — o tradiție care atribuie chiar animalului o formă de recunoaștere instinctivă a sfințeniei adevărate."
-     }
-    ]
+    "commentaries": []
    },
    {
     "v": "18:26",
@@ -50816,7 +51008,13 @@
       "note": "LXX omite finalul versetului (tăcerea totală și dansul ritual lângă altar), oprindu-se la simpla chemare a numelui."
      }
     ],
-    "refs": ["Matei 6:7", "1 Împărați 18:24", "Țefania 1:9", "Psalmii 115:4-8", "Psalmii 135:15-20"],
+    "refs": [
+     "Matei 6:7",
+     "1 Împărați 18:24",
+     "Țefania 1:9",
+     "Psalmii 115:4-8",
+     "Psalmii 135:15-20"
+    ],
     "commentaries": [
      {
       "author": "Rashi (1040–1105)",
@@ -50898,7 +51096,7 @@
     "commentaries": [
      {
       "author": "Rashi (1040–1105)",
-      "text": "Rashi explică fiecare din opțiunile batjocoritoare ale lui Ilie: „siach” — poate are treabă cu sfetnicii lui acum; „sig” — poate urmărește pe cineva la război; „derekh” — literal, „la budă” [eufemism pentru nevoia fiziologică] — o interpretare crudă, deliberat degradantă, care reduce statuia unui zeu la limitele cele mai umilitoare ale corporalității omenești."
+      "text": "„Căci e dumnezeu” — [Targumul:] „căci voi spuneți că e un dumnezeu de temut”. „Poate că vorbește sau urmărește” — poate are o treabă cu sfetnicii lui acum, sau ajunge și urmărește acum [pe vrăjmași] în război. „Sau e pe drum” — la locul de ușurare."
      }
     ]
    },
@@ -50959,7 +51157,24 @@
      "Mica 6:7",
      "Marcu 5:5"
     ],
-    "commentaries": []
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Și s-au tăiat” — cuvânt de crestare a cărnii cu o unealtă, căci așa era obiceiul lor."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Ei au strigat cu voce tare” — au ascultat de cuvintele lui Ilie, deși le spusese în glumă și batjocură. „Și s-au tăiat” — și-au crestat carnea cu săbiile până li s-a vărsat sângele, cum era obiceiul lor să-l slujească în felul acesta."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Și s-au tăiat” — cu sensul de crestare a cărnii, ca în „să nu vă faceți crestături” (Deuteronom 14:1). „După obiceiul lor” — după datina lor. „Cu săbiile” — de la herev, „sabia”."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Și s-au tăiat” — ca în „să nu vă faceți crestături”, cu sensul de crestare a cărnii. „După obiceiul lor” — așa era obiceiul lor uneori, ca să arate poporului că atunci le va răspunde și le va primi rugăciunea; sau crestarea făcea parte din rânduiala slujirii."
+     }
+    ]
    },
    {
     "v": "18:29",
@@ -51012,8 +51227,30 @@
       "note": "Traducere apropiată, cu o singură negație finală (nu era glas), spre deosebire de tripla negație a textului masoretic."
      }
     ],
-    "refs": ["1 Împărați 22:10,12", "1 Împărați 18:26", "1 Samuel 18:10", "Ieremia 28:6-9"],
-    "commentaries": []
+    "refs": [
+     "1 Împărați 22:10,12",
+     "1 Împărați 18:26",
+     "1 Samuel 18:10",
+     "Ieremia 28:6-9"
+    ],
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Au profețit” — [Targumul lui Ionatan:] „și au bolborosit ca nebunii”."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Au profețit” — se prefăceau că vorbesc prin profeție că va coborî focul, și n-au încetat să profețească până la vremea aducerii darului de seară, jertfa necurmată de după-amiază, căci atunci au obosit și n-au mai profețit. „Dar nu a fost nici sunet” — dar nu era nici glas... „Nici cine să asculte” — adică aceasta pentru că nu e cine să-i asculte, căci nu e dumnezeu."
+     },
+     {
+      "author": "Metzudat Țion",
+      "text": "„Au profețit” — se prefăceau că profețesc. „Să asculte” (keșev) — luare-aminte, ca în „să asculte cu mare luare-aminte” (Isaia 21:7)."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Au profețit” — au rostit cuvinte de nebunie, pe care obișnuiau să le spună înaintea lui Baal; iar Targumul traduce „și au înnebunit”. „Până la vremea jertfei de după-amiază” — până la ceasul darului de seară. „Nici cine să asculte” — căci, dacă ar fi avut cine să-i asculte, i-ar fi răspuns."
+     }
+    ]
    },
    {
     "v": "18:30",
@@ -51126,7 +51363,7 @@
     "commentaries": [
      {
       "author": "Rashi (1040–1105)",
-      "text": "Rashi leagă explicit numele „Israel” de episodul de la Betel (Geneza 35:10), unde DOMNUL i-a reafirmat lui Iacov acest nume după întoarcerea din Padan-Aram — Bereishit Rabbah citează acest verset ca dovadă a continuității numelui între patriarh și poporul întreg, chiar și în vremea diviziunii politice dintre cele două regate."
+      "text": "„Către care venise cuvântul DOMNULUI, spunând: Israel îți va fi numele” — de ce se spune aici? Pentru că în ziua în care Prezența lui Dumnezeu i S-a descoperit lui Iacov la Betel și l-a numit Israel, în ziua aceea i-a spus: „un neam și o ceată de neamuri se vor naște din tine” (Geneza 35:11): fiii tăi se vor aduna în viitor ca celelalte popoare și vor zidi un altar ca să aducă jertfe pe el în vremea când înălțimile sunt oprite, iar Eu voi primi lucrul acesta cu bunăvoință; [așa se spune] în Bereșit Raba."
      }
     ]
    },
@@ -51168,11 +51405,16 @@
       "note": "LXX repetă aici, ca și la v.30, verbul „a vindeca” (ἰάσατο) pentru altarul dărâmat, și traduce te'alah prin θάλασσαν („bazin”, lit. „mare”) — termenul folosit și pentru bazinul mare de bronz din curtea Templului lui Solomon (1 Împărați 7:23)."
      }
     ],
-    "refs": ["Exod 20:24,25", "Judecători 6:26", "Judecători 21:4", "1 Samuel 7:9,17"],
+    "refs": [
+     "Exod 20:24,25",
+     "Judecători 6:26",
+     "Judecători 21:4",
+     "1 Samuel 7:9,17"
+    ],
     "commentaries": [
      {
       "author": "Rashi (1040–1105)",
-      "text": "Rashi explică măsura „ke-veit sa'tayim” (cât încape doi sa'im de sămânță) ca fiind aceeași suprafață — o sută pe cincizeci de coți — cu cea a curții Cortului Întâlnirii din pustiu, o comparație pe care o deduce din calculul rabinic tradițional al ariei curții Tabernacolului."
+      "text": "„Un șanț” — o groapă. „Cât două măsuri” — lățimea lui era cât locul pentru două sea de sămânță, o sută pe cincizeci [de coți], ca curtea cortului întâlnirii."
      }
     ]
    },
@@ -51222,7 +51464,12 @@
      "Ioan 11:39,40",
      "Ioan 19:33,34"
     ],
-    "commentaries": []
+    "commentaries": [
+     {
+      "author": "Metzudat Țion",
+      "text": "„A aranjat” — cu sensul de rânduire."
+     }
+    ]
    },
    {
     "v": "18:34",
@@ -51266,7 +51513,20 @@
      "2 Corinteni 4:2",
      "2 Corinteni 8:21"
     ],
-    "commentaries": []
+    "commentaries": [
+     {
+      "author": "Rashi (1040–1105)",
+      "text": "„Ulcioare cu apă” — ca să mărească minunea. „Și turnați-le” — Elisei turna pe mâinile lui, iar degetele lui s-au făcut ca niște izvoare și șanțul s-a umplut; aceasta e ce s-a spus: „Elisei, fiul lui Șafat, care turna apă pe mâinile lui Ilie” (2 Împărați 3:11); iar minunea cu apa s-a făcut prin el, adică e vrednic să se facă prin el o minune cu apa."
+     },
+     {
+      "author": "Metzudat David",
+      "text": "„Și turnați” — vărsați; și așa au făcut și au vărsat, deși nu se pomenește, căci se înțelege de la sine. „Faceți a doua oară” — vărsați a doua oară; și au vărsat a doua oară. „Faceți a treia oară” — vărsați a treia oară, și celelalte."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „Umpleți patru ulcioare cu apă” — a spus aceasta ca să mărească minunea, ca focul să mănânce în locul apei și să nu se stingă, ba chiar să lingă apa; și a poruncit să se pună douăsprezece ulcioare de apă, căci le-a zis „faceți a doua oară” și „a treia oară”, iar de trei ori patru fac douăsprezece ulcioare, ca cele douăsprezece pietre după numărul semințiilor fiilor lui Israel; iar că n-a poruncit să le pună deodată, douăsprezece ulcioare, ci de trei ori, e după cei trei părinți, căci s-a rugat lui Dumnezeu zicând: „Dumnezeul lui Avraam, al lui Isaac și al lui Israel”."
+     }
+    ]
    },
    {
     "v": "18:35",
@@ -51309,12 +51569,7 @@
     "refs": [
      "1 Împărați 18:32,38"
     ],
-    "commentaries": [
-     {
-      "author": "Rashi (1040–1105)",
-      "text": "Rashi identifică, pe baza unei tradiții rabinice, slujitorul care a adus apa din mare cu tânărul Elișa — degetele lui, spune tradiția, au devenit ca niște izvoare, capabile să poarte cantitatea uriașă de apă necesară pentru a umple de trei ori vasele și șanțul întreg, într-o vreme de secetă totală; meritul acestui gest e legat explicit de chemarea sa profetică ulterioară."
-     }
-    ]
+    "commentaries": []
    },
    {
     "v": "18:36",
@@ -51463,7 +51718,20 @@
      "Judecători 6:21",
      "2 Împărați 1:12"
     ],
-    "commentaries": []
+    "commentaries": [
+     {
+      "author": "Metzudat Țion",
+      "text": "„A lins” — cu sensul de lingere, ca în „vor linge praful picioarelor tale” (Isaia 49:23); adică a ars totul, ca cel care linge cu limba."
+     },
+     {
+      "author": "Radak (1160–1235)",
+      "text": "Radak: „A lins” — le-a uscat, până n-a mai rămas în șanț nicio umezeală."
+     },
+     {
+      "author": "Talmud Bavli, Ioma 21b",
+      "text": "Este foc care mănâncă și nu bea — acesta e al nostru; care bea și nu mănâncă — al celor bolnavi; care mănâncă și bea — al lui Ilie, căci e scris: „și a lins și apa care era în șanț”."
+     }
+    ]
    },
    {
     "v": "18:39",
@@ -51512,7 +51780,7 @@
     "commentaries": [
      {
       "author": "Rashi (1040–1105)",
-      "text": "Rashi precizează sensul exact al aclamației: poporul nu spune doar „DOMNUL este Dumnezeu” în general, ci, în contextul disputei directe cu Baal, afirmă explicit că DOMNUL — și nu Baal — este singurul Dumnezeu adevărat; repetarea dublă a formulei încheie simetric întrebarea retorică pusă de Ilie la v.21, transformând nehotărârea poporului în mărturisire unanimă."
+      "text": "„DOMNUL este Dumnezeu” — și nu Baal e Dumnezeu."
      }
     ]
    }
