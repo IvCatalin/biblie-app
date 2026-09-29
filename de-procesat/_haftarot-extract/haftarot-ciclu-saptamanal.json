@@ -30350,7 +30350,8 @@
        "translit": "vaiavo Ierușalaim vaiaamod lifnēi aron berit-Adonai",
        "strong": "H727",
        "pos": "verb + substantiv propriu + verb + substantiv compus",
-       "def_ro": "și a venit la Ierusalim și a stat înaintea chivotului legământului Stăpânului."
+       "def_ro": "și a venit la Ierusalim și a stat înaintea chivotului legământului Stăpânului.",
+       "dict_ro": "Aron — „chivotul, lada”, iar aron berit, „chivotul legământului”, lada de lemn de salcâm în care stăteau tablele Legii (Exod 25:10-22; Deuteronom 10:5). Visul lui Solomon avusese loc la Gabaon, unde era cortul întâlnirii și altarul de aramă (1 Împărați 3:4-5; 2 Cronici 1:3-6), dar chivotul fusese adus de David la Ierusalim, într-un cort (2 Samuel 6:17). Radak: s-a bucurat de darul cel bun pe care i-l dăduse Dumnezeu și a venit la Ierusalim să aducă jertfe înaintea chivotului."
       },
       {
        "t": " și a adus "
@@ -30362,7 +30363,8 @@
        "translit": "vaiaal olot vaiaas șelamim",
        "strong": "H5930",
        "pos": "verb + substantiv + verb + substantiv",
-       "def_ro": "și a suit arderi de tot și a făcut jertfe de pace."
+       "def_ro": "și a suit arderi de tot și a făcut jertfe de pace.",
+       "dict_ro": "Ola — „arderea de tot”, de la ala, „a urca”, jertfa arsă întreagă pe altar (Levitic 1), și șelamim, „jertfele de pace”, din care mâncau și cei care le aduceau (Levitic 3; 7:15). Ospățul pentru toți slujitorii vine din carnea jertfelor de pace. Rashi: a făcut ospăț din bucuria inimii, pentru că a înțeles că visul lui era adevărat; auzea o pasăre ciripind și îi înțelegea graiul."
       },
       {
        "t": " și a făcut "
@@ -30414,6 +30416,14 @@
        "text": "„Și s-a trezit etc.” — când s-a trezit, a știut că era vis, dar în vis i s-a părut că lucrurile se petreceau în stare de veghe."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și iată, fusese un vis” — când s-a trezit, a știut că fusese vis și s-a bucurat de darul cel bun pe care i-l dăduse Dumnezeu, și a venit la Ierusalim și a adus arderi de tot și jertfe de pace înaintea chivotului legământului DOMNULUI și a făcut ospăț pentru toți slujitorii lui. Iar după midraș, „și iată, [fusese] vis”: când s-a trezit, a văzut că visul se împlinise, că Dumnezeu îi dăduse o înțelepciune deosebită, căci auzea o pasăre ciripind și îi înțelegea graiul."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„S-a trezit” (vaiikaț) — cu sensul de trezire din somn."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și Solomon s-a trezit, și iată, era un vis — nu că n-ar fi fost decât un vis, unul natural, deșert și gol, ci unul divin și supranatural, un vis de profeție, cum îl numesc evreii, sau un vis profetic; unul adevărat, care și-a avut împlinirea deplină în el, al cărui adevăr l-a priceput imediat ce s-a trezit; căci s-a găsit pe sine stăpânind o măsură de înțelepciune și cunoștință pe care n-o avusese niciodată înainte, ceea ce a prilejuit mulțumirea și bucuria ce urmează."
       },
@@ -30449,7 +30459,8 @@
        "translit": "vataamodna lefanav",
        "strong": "H5975",
        "pos": "verb + substantiv",
-       "def_ro": "și au stat înaintea lui."
+       "def_ro": "și au stat înaintea lui.",
+       "dict_ro": "Amad — „a sta în picioare”; amad lifnei, „a sta înaintea”, e expresia înfățișării la judecată: „cei doi oameni care au neînțelegerea să se înfățișeze înaintea DOMNULUI, înaintea preoților și judecătorilor” (Deuteronom 19:17). Radak: îndată ce s-a întors de la Gabaon la Ierusalim, i-a venit în mână această judecată, și s-a văzut în ea darul înțelepciunii. Tot el observă că după „atunci” (az) Scriptura pune adesea viitorul în locul trecutului, ca în „atunci a cântat Moise” (Exod 15:1)."
       },
       {
        "t": "."
@@ -30478,6 +30489,10 @@
      ],
      "commentaries": [
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Apoi, două femei... au venit” — „au venit” e un viitor în locul trecutului, căci după „atunci” (az) vine de cele mai multe ori viitorul în locul trecutului, ca în „atunci a cântat Moise”, „atunci a cântat Israel”, „atunci a despărțit Moise”, „atunci a vorbit Iosua”, „atunci a zidit Solomon”. Și „atunci” înseamnă: când s-a întors de la Gabaon și a venit la Ierusalim, i-a venit în mână această judecată și s-a văzut în ea darul cel bun pe care i-l dăduse Sfântul, binecuvântat fie, înțelepciune și pricepere."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Atunci au venit la rege două femei care erau curve — în aceeași zi, crede Abarbanel, în noaptea dinaintea căreia DOMNUL i Se arătase lui Solomon; aceasta s-a întâmplat prin purtarea de grijă a lui Dumnezeu, ca să fie de îndată o pildă și o dovadă a înțelepciunii și priceperii pe care DOMNUL i-o dăduse lui Solomon; aceste femei, potrivit Targumului, erau hangițe sau proprietare de han; și tot așa crede Ben Gersom, că erau vânzătoare de mâncare, ca Rahab, deși observă că e posibil să se fi și prostituat."
       },
@@ -30500,7 +30515,8 @@
        "translit": "vatomer haișa haahat bi adoni",
        "strong": "H802",
        "pos": "verb + substantiv + adjectiv + interjecție + substantiv",
-       "def_ro": "și a spus femeia cea una: te rog, stăpânul meu."
+       "def_ro": "și a spus femeia cea una: te rog, stăpânul meu.",
+       "dict_ro": "Bi adoni — „te rog, stăpânul meu”, formula respectuoasă cu care cineva începe o rugăminte înaintea unui mai mare; Metzudat Țion: cu sensul de rugăminte. Aceeași formulă o folosesc frații lui Iosif în fața administratorului (Geneza 43:20) și Iuda în fața lui Iosif (Geneza 44:18). Metzudat David: ascultă-mi cuvintele."
       },
       {
        "t": ", "
@@ -30512,7 +30528,8 @@
        "translit": "ani vehaișa hazot ioșvot bevait ehad",
        "strong": "H3427",
        "pos": "pronume + substantiv + verb + substantiv + numeral",
-       "def_ro": "eu și femeia aceasta locuim într-o casă."
+       "def_ro": "eu și femeia aceasta locuim într-o casă.",
+       "dict_ro": "Iașav — „a ședea, a locui”; ioșvot bevait ehad, „locuim într-o singură casă”. Amănuntul e hotărâtor pentru judecată: în aceeași casă, fără alți oameni, nimeni nu putea mărturisi care copil a murit. Targumul lui Ionatan le numește pe cele două femei „hangițe” (pundekan), cum o numește și pe Rahav (Iosua 2:1)."
       },
       {
        "t": " și eu "
@@ -30524,7 +30541,8 @@
        "translit": "vaēlēd ima babait",
        "strong": "H3205",
        "pos": "verb + prepoziție + substantiv",
-       "def_ro": "și am născut cu ea în casă."
+       "def_ro": "și am născut cu ea în casă.",
+       "dict_ro": "Ialad — „a naște”, verbul care revine de mai multe ori în povestire (3:17, 3:18, 3:21, 3:26), ca să arate că întrebarea e una singură: cine l-a născut?"
       },
       {
        "t": "."
@@ -30551,6 +30569,14 @@
      ],
      "commentaries": [
       {
+       "author": "Metzudat David",
+       "text": "„Te rog, stăpâne” — ascultă-mi cuvintele."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Bi” — are sensul de rugăminte."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și una dintre femei a spus — cea care era reclamanta: «te rog, stăpâne, eu și femeia aceasta locuim în aceeași casă», arătând spre pârâtă, care stătea alături de ea: «și eu am născut un copil cu ea în casă» — fiind ea de față la naștere, și numai ea, pe cât se pare."
       },
@@ -30573,7 +30599,8 @@
        "translit": "vaiehi baiom hașeliiși lelidti",
        "strong": "H7992",
        "pos": "verb + substantiv + numeral + verb",
-       "def_ro": "și a fost în ziua a treia de la nașterea mea."
+       "def_ro": "și a fost în ziua a treia de la nașterea mea.",
+       "dict_ro": "Șeliși — „al treilea”, de la șaloș, „trei”. Cele trei zile dintre nașteri explică de ce copiii erau atât de asemănători încât se puteau schimba: amândoi erau nou-născuți de câteva zile."
       },
       {
        "t": ", că "
@@ -30585,7 +30612,8 @@
        "translit": "vatēled gam-haișa hazot",
        "strong": "H3205",
        "pos": "verb + adverb + substantiv",
-       "def_ro": "și a născut și femeia aceasta."
+       "def_ro": "și a născut și femeia aceasta.",
+       "dict_ro": "Ialad — „a naște”; vatteled gam haișa hazot, „a născut și femeia aceasta”. Povestea e spusă de o singură parte: cealaltă femeie nu contrazice nimic din faptele acestea, ci doar cine e mama copilului viu."
       },
       {
        "t": ". "
@@ -30597,7 +30625,8 @@
        "translit": "vaanahnu iahdav ēin-zar itanu babait",
        "strong": "H2114",
        "pos": "pronume + adverb + adverb de negație + substantiv",
-       "def_ro": "și noi împreună, nu era străin cu noi în casă."
+       "def_ro": "și noi împreună, nu era străin cu noi în casă.",
+       "dict_ro": "Zar — „străinul”, cel din afară, de la zur, „a se abate”. Metzudat David: ca să fie martor la lucrul acesta. Fără martori, judecata nu se putea face după Tora, care cere „doi sau trei martori” (Deuteronom 19:15); de aceea regele a trebuit să afle adevărul pe altă cale."
       },
       {
        "t": ", numai "
@@ -30609,7 +30638,8 @@
        "translit": "zulati șetaim-anahnu babait",
        "strong": "H2108",
        "pos": "prepoziție + numeral + pronume + substantiv",
-       "def_ro": "în afară [de noi], noi două eram în casă."
+       "def_ro": "în afară [de noi], noi două eram în casă.",
+       "dict_ro": "Zulati — „în afară de”, de la zulat; șetaim anahnu, „noi două”. Repetarea „noi două eram în casă” subliniază lipsa oricărui martor, cum explică și Metzudat David la începutul versetului."
       },
       {
        "t": "."
@@ -30633,6 +30663,10 @@
      "refs": [],
      "commentaries": [
       {
+       "author": "Metzudat David",
+       "text": "„Nu era niciun străin cu noi” — ca să fie martor la lucrul acesta."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și a fost, în a treia zi după ce am născut — un copil, cum s-a spus mai înainte: «că femeia aceasta a născut și ea» — un alt copil; și fiind amândoi de același sex, amândoi fii, cum reiese mai departe, și fiind atât de apropiați ca vârstă, era greu să fie deosebiți; «și eram împreună; nu era niciun străin cu noi în casă, afară de noi două» — așa încât, în această judecată, nu se puteau produce mărturii de nicio parte."
       }
@@ -30654,7 +30688,8 @@
        "translit": "vaiamot ben-haișa hazot laila",
        "strong": "H4191",
        "pos": "verb + substantiv + substantiv + substantiv",
-       "def_ro": "și a murit copilul femeii acesteia, noaptea."
+       "def_ro": "și a murit copilul femeii acesteia, noaptea.",
+       "dict_ro": "Mut — „a muri”; laila, „noaptea”. Radak și Metzudat David: pare că a murit pentru că mama s-a culcat peste el, căci dacă ar fi murit de boală, n-ar fi fost îndoială, fiindcă celelalte femei care îl vizitau în boală ar fi știut al cui era."
       },
       {
        "t": ", pentru că "
@@ -30695,6 +30730,10 @@
        "text": "„Pentru că s-a culcat peste el” — moartea lui s-a datorat faptului că s-a culcat peste el și l-a apăsat, și a murit; căci dacă ar fi fost din pricina unei boli, femeile care veneau în vizită ar fi știut al cui fiu era."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Pentru că s-a culcat peste el” — se pare că a murit pentru că ea s-a culcat peste el; căci dacă n-ar fi murit așa, ci l-ar fi răpus mai întâi o boală, n-ar fi apărut îndoiala aceasta, fiindcă alte femei l-ar fi vizitat în boala lui și s-ar fi știut al cui era; de aceea a spus „pentru că s-a culcat peste el”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și copilul acestei femei a murit noaptea — dacă chiar în noaptea următoare zilei în care s-a născut, nu e sigur — «pentru că s-a culcat peste el»; sau s-a întins peste el, fiind îngreunată de somn, și, neștiind ce face, s-a întors peste el și l-a sufocat; pentru că n-a avut nicio boală anterioară, nici vreun semn al unei boli de care s-ar fi putut crede că a murit, și poate erau unele semne că fusese sufocat."
       }
@@ -30713,7 +30752,8 @@
        "translit": "vatakom betoh halaila",
        "strong": "H6965",
        "pos": "verb + substantiv + substantiv",
-       "def_ro": "și s-a sculat în mijlocul nopții."
+       "def_ro": "și s-a sculat în mijlocul nopții.",
+       "dict_ro": "Kum — „a se scula”; betoh halaila, „în miezul nopții”, ora în care nimeni nu vede. Femeia povestește ceea ce n-a văzut, dar a dedus; de aceea judecătorul nu se putea bizui pe cuvintele ei."
       },
       {
        "t": " și l-a luat pe copilul meu de lângă mine",
@@ -30722,7 +30762,8 @@
        "translit": "vatikah et-beni mēetzli",
        "strong": "H3947",
        "pos": "verb + substantiv + substantiv",
-       "def_ro": "și a luat pe fiul meu de lângă mine."
+       "def_ro": "și a luat pe fiul meu de lângă mine.",
+       "dict_ro": "Lakah — „a lua”; meețli, „de lângă mine”, de la ețel, „alături”. Metzudat David (la „slujitoarea ta dormea”): și n-am simțit lucrul."
       },
       {
        "t": ", în timp ce "
@@ -30734,7 +30775,8 @@
        "translit": "vaamatha ieșēna",
        "strong": "H519",
        "pos": "substantiv + adjectiv",
-       "def_ro": "și slujitoarea ta dormea."
+       "def_ro": "și slujitoarea ta dormea.",
+       "dict_ro": "Ama — „slujitoarea, roaba”; femeia se numește pe sine „slujitoarea ta”, formula de smerenie în fața regelui, ca Abigail în fața lui David (1 Samuel 25:24). Iașen, „a dormi”. Metzudat David: n-am simțit nimic din ce s-a făcut."
       },
       {
        "t": ", și l-a culcat la sânul ei",
@@ -30743,7 +30785,8 @@
        "translit": "vatașkivēhu behēika",
        "strong": "H2436",
        "pos": "verb + substantiv",
-       "def_ro": "și l-a culcat la sânul ei."
+       "def_ro": "și l-a culcat la sânul ei.",
+       "dict_ro": "Heik — „sânul”, locul unde se ține copilul lângă inimă; Naomi a luat copilul Rutei „și l-a pus la sânul ei” (Rut 4:16), iar mielul săracului din pilda lui Natan „dormea la sânul lui” (2 Samuel 12:3). Hișkiv, „a culca”."
       },
       {
        "t": "; iar "
@@ -30755,7 +30798,8 @@
        "translit": "veet-bena hamēt hișkiva vehēiki",
        "strong": "H4191",
        "pos": "substantiv + adjectiv + verb + substantiv",
-       "def_ro": "și pe fiul ei cel mort l-a culcat la sânul meu."
+       "def_ro": "și pe fiul ei cel mort l-a culcat la sânul meu.",
+       "dict_ro": "Met — „mortul”, de la mut, „a muri”. Schimbul e simetric: copilul viu la sânul ei, cel mort la sânul celeilalte, și aceeași simetrie se va vedea în cuvintele regelui (3:23)."
       },
       {
        "t": "."
@@ -30806,7 +30850,8 @@
        "translit": "vaakum baboker lehēinik et-beni",
        "strong": "H3243",
        "pos": "verb + substantiv + verb + substantiv",
-       "def_ro": "și m-am sculat dimineața să alăptez pe fiul meu."
+       "def_ro": "și m-am sculat dimineața să alăptez pe fiul meu.",
+       "dict_ro": "Ianak — „a suge”, la forma cauzativă heinik, „a alăpta”; cuvântul din întrebarea Sarei: „cine i-ar fi spus lui Avraam că Sara va alăpta copii?” (Geneza 21:7). Alăptarea de dimineață e prilejul descoperirii: mama își cunoaște copilul când îl ia la sân."
       },
       {
        "t": ", iată, era mort",
@@ -30815,7 +30860,8 @@
        "translit": "vehinē-mēt",
        "strong": "H4191",
        "pos": "interjecție + verb",
-       "def_ro": "și iată, [era] mort."
+       "def_ro": "și iată, [era] mort.",
+       "dict_ro": "Mut — „a muri”; vehinne met, „și iată, mort”. Hinne, „iată”, arată surpriza celui care vede ceva neașteptat. Metzudat Țion la versetul acesta: hitbonen înseamnă a privi cu mare atenție."
       },
       {
        "t": ". Și când "
@@ -30840,7 +30886,8 @@
        "translit": "vehinē lo-haia veni așer ialadti",
        "strong": "H1121",
        "pos": "interjecție + adverb de negație + substantiv + pronume relativ + verb",
-       "def_ro": "și iată, nu era fiul meu pe care-l născusem."
+       "def_ro": "și iată, nu era fiul meu pe care-l născusem.",
+       "dict_ro": "Ben — „fiul”; lo haia veni, „nu era fiul meu”. Hitbonen, „a se uita cu luare-aminte”; Metzudat Țion: a privi cu mare atenție, ca în „se vor uita cu luare-aminte la tine” (Isaia 14:16). Rashi: mi-am pus inima să-l privesc cu atenție. Radak: m-am uitat dimineața la chipul lui."
       },
       {
        "t": ".”"
@@ -30872,6 +30919,14 @@
        "text": "„M-am uitat bine la el” — mi-am pus inima să-l privesc cu atenție."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și când m-am uitat bine la el” — m-am uitat dimineața la chipul lui."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„M-am uitat bine” — cu sensul de a privi cu mare luare-aminte, ca în „se vor uita cu luare-aminte la tine” (Isaia 14:16)."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și când m-am sculat dimineața să-mi alăptez copilul — cum obișnuia să facă: «iată, era mort» — copilul ei, așa cum a crezut la început; «dar când m-am uitat bine la el dimineața» — era spre dimineață, sau chiar în zorii zilei, când s-a sculat să-l alăpteze și l-a găsit mort: dar când s-a făcut ziuă deplină, iar lumina dimineții a sporit, l-a privit mai atent, și, după trăsăturile lui, sau după unele semne pe care le observase: «iată, nu era fiul meu, pe care-l născusem» — era pe deplin încredințată că nu era copilul ei, ci al celeilalte."
       }
@@ -30890,7 +30945,8 @@
        "translit": "vatomer haișa haaheret lo hi",
        "strong": "H312",
        "pos": "verb + substantiv + adjectiv + negație",
-       "def_ro": "și a spus cealaltă femeie: nu, ci."
+       "def_ro": "și a spus cealaltă femeie: nu, ci.",
+       "dict_ro": "Aher — „celălalt, alt”; haișa haaheret, „cealaltă femeie”. Lo chi, „nu, ci”, formula tăgăduirii hotărâte. Radak: aceste pricini le-au spus de două și de trei ori înaintea regelui, cum fac împricinații, care își repetă pricina ca s-o întărească și s-o facă înțeleasă judecătorului."
       },
       {
        "t": " "
@@ -30902,7 +30958,8 @@
        "translit": "beni hahai uvenēh hamēt",
        "strong": "H2416",
        "pos": "substantiv + adjectiv + substantiv + adjectiv",
-       "def_ro": "fiul meu e cel viu, și fiul tău e cel mort."
+       "def_ro": "fiul meu e cel viu, și fiul tău e cel mort.",
+       "dict_ro": "Hai — „viu”, de la haia, „a trăi”; met, „mort”. Cele două cuvinte se repetă în povestire ca un refren: „cel viu” și „cel mort” apar de mai multe ori în versetele 22-23, căci aceasta e toată pricina. Metzudat David: se certau asupra lucrului."
       },
       {
        "t": "” Dar prima a spus: „Nu-i așa!",
@@ -30911,7 +30968,8 @@
        "translit": "vezot omeret lo hi",
        "strong": "H2063",
        "pos": "pronume + verb + negație",
-       "def_ro": "și aceasta spune: nu, ci."
+       "def_ro": "și aceasta spune: nu, ci.",
+       "dict_ro": "Zot — „aceasta”, pronumele feminin de apropiere; vezot omeret, „iar aceasta spune”. Scriptura nu dă numele femeilor, ci le numește doar „aceasta” și „cealaltă”, căci judecata nu ține de cine sunt, ci de adevărul faptei."
       },
       {
        "t": " "
@@ -30923,7 +30981,8 @@
        "translit": "benēh hamēt uveni hehai",
        "strong": "H4191",
        "pos": "substantiv + adjectiv + substantiv + adjectiv",
-       "def_ro": "fiul tău e cel mort, și fiul meu e cel viu."
+       "def_ro": "fiul tău e cel mort, și fiul meu e cel viu.",
+       "dict_ro": "Met — „mortul”, și hai, „viul”, cu ordinea întoarsă față de cuvintele celeilalte femei. Radak: așa fac împricinații, fiecare își repetă pricina ca s-o întărească; iar regele, în versetul următor, le repetă pe amândouă."
       },
       {
        "t": "” Și au continuat să vorbească în fața regelui",
@@ -30963,6 +31022,10 @@
        "text": "„Și au continuat să vorbească” — se certau asupra lucrului."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și au continuat să vorbească în fața regelui” — aceste pricini le-au spus de două și de trei ori înaintea regelui, după obiceiul împricinaților, care își repetă fiecare pricina ca s-o întărească, s-o îmbunătățească și s-o facă înțeleasă judecătorului."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Dar cealaltă femeie a spus — pârâta: «nu, ci fiul meu e cel viu, și fiul tău e cel mort»; a tăgăduit ce spusese cealaltă, dar n-a adus nimic ca dovadă: «și aceasta a spus» — cea care era reclamanta a răspuns în aceleași cuvinte: «nu, ci fiul tău e cel mort, și fiul meu e cel viu» — fără să poată adăuga nimic care să întărească ceea ce depusese; «astfel au vorbit înaintea regelui» — de mai multe ori, spunând iar și iar ceea ce s-a spus mai sus, neavând nimic de adus de o parte sau de alta ca dovadă."
       }
@@ -30981,7 +31044,8 @@
        "translit": "vaiomer hameleh zot omeret ze-beni hahai uvenēh hamēt",
        "strong": "H4428",
        "pos": "verb + substantiv + pronume + verb + pronume + substantiv + adjectiv + substantiv + adjectiv",
-       "def_ro": "și a spus regele: aceasta spune: acesta e fiul meu cel viu, și fiul tău e cel mort."
+       "def_ro": "și a spus regele: aceasta spune: acesta e fiul meu cel viu, și fiul tău e cel mort.",
+       "dict_ro": "Meleh — „regele”. Regele repetă cuvânt cu cuvânt spusele celor două femei. Radak: învățătorii noștri au spus că de aici se învață că judecătorul trebuie să repete pricinile împricinaților, ca să audă ei că le-a înțeles pricinile și după ele îi judecă. Metzudat David: ce folos e în ceartă? Miezul judecății e tăgăduirea: al cui e copilul viu?"
       },
       {
        "t": ", iar cealaltă spune: «Nu-i așa! Copilul tău este cel mort, și copilul meu este cel viu.»”",
@@ -30990,7 +31054,8 @@
        "translit": "vezot omeret lo hi benēh hamēt uveni hehai",
        "strong": "H2063",
        "pos": "pronume + verb + negație + substantiv + adjectiv + substantiv + adjectiv",
-       "def_ro": "și cealaltă spune: nu, ci fiul tău e cel mort și fiul meu e cel viu."
+       "def_ro": "și cealaltă spune: nu, ci fiul tău e cel mort și fiul meu e cel viu.",
+       "dict_ro": "Zot — „aceasta”; vezot omeret, „iar aceasta spune”. Prin repetare, regele arată că pricinile sunt perfect egale și că judecata nu se poate face din cuvinte, ci trebuie o încercare, pe care o dă în versetul următor."
       }
      ],
      "textCompare": [
@@ -31010,6 +31075,14 @@
      ],
      "refs": [],
      "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Aceasta spune” — ca și cum ar zice: ce folos îmi e cearta? Miezul judecății stă în tăgăduire: al cui e copilul viu."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și regele a spus: Aceasta spune” — învățătorii noștri au spus: de aici se învață că judecătorul trebuie să repete pricinile împricinaților, ca să audă ei că le-a înțeles pricinile și că după ele îi judecă."
+      },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Atunci a spus regele — ca judecător, rezumând ce se spusese de ambele părți, care nu erau decât simple afirmații fără dovadă: una susținea ce cealaltă tăgăduia, și cealaltă tăgăduia ce prima susținea: «aceasta zice: fiul meu este cel viu, iar fiul tău e cel mort; și cealaltă zice: nu; ci fiul tău e cel mort, și fiul meu e cel viu» — a repetat aceasta ca să arate tuturor celor de față că nu se poate ajunge la nicio hotărâre din ce fusese spus de fiecare parte, și că trebuia luată o altă cale."
@@ -31049,7 +31122,8 @@
        "translit": "vaiaviu haherev lifnēi hameleh",
        "strong": "H935",
        "pos": "verb + substantiv + substantiv",
-       "def_ro": "și au adus sabia înaintea regelui."
+       "def_ro": "și au adus sabia înaintea regelui.",
+       "dict_ro": "Herev — „sabia”, de la harav, „a pustii”. Solomon ceruse în vis „o inimă pricepută ca să judece pe poporul Tău, să deosebească binele de rău” (1 Împărați 3:9); sabia adusă înaintea lui e prima încercare a acestei înțelepciuni. Porunca nu era pentru a fi împlinită, ci ca să descopere inima mamei."
       },
       {
        "t": "."
@@ -31108,7 +31182,8 @@
        "translit": "utenu et-hahatzi leahat veet-hahatzi leahat",
        "strong": "H2677",
        "pos": "verb + substantiv + numeral + substantiv + numeral",
-       "def_ro": "și dați jumătatea uneia, și jumătatea celeilalte."
+       "def_ro": "și dați jumătatea uneia, și jumătatea celeilalte.",
+       "dict_ro": "Hați — „jumătatea”, de la hațah, „a împărți în două”. Gazar, „a tăia”; Metzudat Țion: a tăia în două, ca în „Cel ce a despărțit (gozer) Marea Roșie în două” (Psalmi 136:13). Metzudat David: din cuvintele lor, regele a priceput cu înțelepciunea lui de partea cui e dreptatea și le-a spus celor de față adevărul, iar ca să-l dovedească a făcut încercarea."
       }
      ],
      "textCompare": [
@@ -31133,6 +31208,10 @@
       {
        "author": "Metzudat David",
        "text": "„Tăiați” — din cuvintele lor a priceput regele, cu înțelepciunea lui, de partea cui era dreptatea, și a spus celor de față că adevărul era acesta, că una a furat copilul viu, iar ca să întărească spusele lui a făcut această cercetare."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Tăiați” — cu sensul de a tăia în bucăți."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -31160,7 +31239,8 @@
        "translit": "vatomer haișa așer-bena hahai el-hameleh",
        "strong": "H802",
        "pos": "verb + substantiv + pronume relativ + substantiv + adjectiv + substantiv",
-       "def_ro": "și a spus femeia al cărei fiu era cel viu, către rege."
+       "def_ro": "și a spus femeia al cărei fiu era cel viu, către rege.",
+       "dict_ro": "Ișa — „femeia”; așer bena hahai, „al cărei fiu era cel viu”: Scriptura îi spune cititorului adevărul înainte ca regele să-l rostească. Metzudat Țion: nihmeru rahameha, „i s-au încălzit îndurările”, ca în Geneza 43:30, unde „i s-au aprins îndurările” lui Iosif față de fratele lui; rahamim, „îndurările”, e de la rehem, „pântecele”, iubirea care vine din pântece."
       },
       {
        "t": " – căci "
@@ -31182,7 +31262,8 @@
        "translit": "vatomer bi adoni tenu-lah et-haialud hahai vehamēt al-temituhu",
        "strong": "H3205",
        "pos": "verb + interjecție + substantiv + verb + substantiv + adjectiv + negație + verb",
-       "def_ro": "și a spus: te rog, stăpânul meu, dați-i ei pe cel născut viu, și a-l ucide, să nu-l ucideți."
+       "def_ro": "și a spus: te rog, stăpânul meu, dați-i ei pe cel născut viu, și a-l ucide, să nu-l ucideți.",
+       "dict_ro": "Ialud — „cel născut, nou-născutul”, de la ialad; hamet al temituhu, „a-l ucide, să nu-l ucideți”, dublarea ebraică a verbului pentru întărire. Mama adevărată preferă să-și piardă copilul decât să-l vadă mort. Radak: cealaltă n-a luat copilul după ce aceasta a zis „dați-i-l ei”, căci a știut că a zis-o din milă și a gândit că regele nu i-l va da."
       },
       {
        "t": " Dar cealaltă a spus: „Nici al meu, nici al tău să nu fie, tăiați-l!”",
@@ -31191,7 +31272,8 @@
        "translit": "vezot omeret gam-li gam-lah lo ihiē gezoru",
        "strong": "H1504",
        "pos": "pronume + verb + adverb + pronume + adverb + pronume + negație + verb + verb",
-       "def_ro": "și aceasta spune: nici mie, nici ție să nu fie, tăiați-l."
+       "def_ro": "și aceasta spune: nici mie, nici ție să nu fie, tăiați-l.",
+       "dict_ro": "Gazar — „a tăia”; gezoru, „tăiați-l!”. Metzudat David: gândul ei adevărat era ca tovarășa ei să nu se bucure de moartea fiului ei, căci ce-i păsa ei să alăpteze fiul altei femei; iar când a auzit că regele a poruncit să fie ucis, a vrut mai mult aceasta; și regele a priceput de la început că asta va vrea. Radak: a spus-o către cei care țineau sabia."
       }
      ],
      "textCompare": [
@@ -31224,6 +31306,10 @@
        "text": "„Chiar mie și chiar ție” — de vreme ce intenția ei adevărată era ca cealaltă să nu se bucure de moartea fiului ei, căci ce-i păsa ei să alăpteze fiul altei femei; iar când a auzit că regele poruncise să fie ucis, a dorit mai mult aceasta, căci atunci cealaltă nu se va mai bucura, iar ea nu va mai alăpta fiul altei femei; iar regele a priceput dinainte, cu înțelepciunea lui, că ea va dori mai degrabă aceasta."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Nici al meu, nici al tău să nu fie” — a spus-o către cei care țineau sabia: tăiați-l. Iar faptul că n-a luat copilul după ce cealaltă a zis „dați-i-l ei” se explică așa: a știut că a spus-o din milă față de el și a gândit că regele nu i-l va da."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Atunci a vorbit către rege femeia al cărei era copilul cel viu — în grabă, și cu mare înflăcărare, ca nu cumva călăul să-l ucidă pe loc: «căci i se topeau măruntaiele pentru fiul ei» — necăpătând inima să vadă cum i se ia viața: «și a spus: o, stăpânul meu» — sau «asupra mea, stăpânul meu»; să fie asupra mea păcatul, minciuna pe care am spus-o, și pedeapsa ei; a preferat mai degrabă să fie socotită mincinoasă, și să sufere orice pedeapsă cuvenită unei asemenea greșeli, decât să-i fie tăiat copilul."
       },
@@ -31249,7 +31335,8 @@
        "translit": "tenu-lah et-haialud hahai vehamēt lo temituhu",
        "strong": "H3205",
        "pos": "verb + substantiv + adjectiv + negație + verb",
-       "def_ro": "dați-i ei pe cel născut viu, și a-l ucide, nu-l ucideți."
+       "def_ro": "dați-i ei pe cel născut viu, și a-l ucide, nu-l ucideți.",
+       "dict_ro": "Natan — „a da”; tenu la, „dați-i ei”. Regele folosește chiar cuvintele mamei adevărate, „dați-i nou-născutul viu și nu-l ucideți”, ca să arate că ea e cea îndreptățită. Talmudul (Makot 23b): de unde a știut Solomon? Poate că ea a fost vicleană! Ci a ieșit un glas ceresc și a zis: „ea este mama lui”. Metzudat David și Radak: ea e mama lui, de vreme ce are milă de el."
       },
       {
        "t": ", "
@@ -31291,6 +31378,14 @@
        "text": "„Dați-i ei” — femeii care spusese: dați-i copilul născut etc. „Ea este mama lui” — de vreme ce are milă de el."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Nu-l ucideți” — primei [femei]. „Ea este mama lui” — de vreme ce are milă de el; iar după cuvintele învățătorilor noștri, a ieșit un glas ceresc și a zis: ea este mama lui."
+      },
+      {
+       "author": "Talmud Bavli, Makot 23b",
+       "text": "În casa de judecată a lui Solomon, căci e scris: „Și regele a răspuns și a spus: Dați-i nou-născutul viu și nu-l ucideți, ea este mama lui”. De unde a știut? Poate că ea a fost vicleană! Ci a ieșit un glas ceresc și a zis: „ea este mama lui”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Atunci regele a răspuns și a spus: dați-i copilul viu — adică ei care dorise ca el să nu fie ucis, ci mai degrabă să fie dat celei ce n-avea dreptul asupra lui: «ea este mama lui» — ceea ce se putea deduce cu putere din mila ei față de el, din înflăcărarea și stăruința ei de a-i cruța viața, și din nepăsarea celeilalte, ba chiar din cruzimea și barbaria ei de a cere să fie tăiat."
       },
@@ -31313,7 +31408,8 @@
        "translit": "vaișmeu hol-Israēl et-hamișpat așer șafat hameleh",
        "strong": "H4941",
        "pos": "verb + substantiv propriu + substantiv + pronume relativ + verb + substantiv",
-       "def_ro": "și a auzit tot Israelul judecata pe care o judecase regele."
+       "def_ro": "și a auzit tot Israelul judecata pe care o judecase regele.",
+       "dict_ro": "Mișpat — „judecata”, de la șafat, „a judeca”; e același cuvânt pe care Solomon îl ceruse în vis: „ca să înțeleg să judec (lișmoa mișpat)” (1 Împărați 3:11). Metzudat David: „ca să facă dreptate” înseamnă să priceapă de partea cui e adevărul și să-l lămurească printr-o încercare. Deuteronom 1:17: „judecata este a lui Dumnezeu”."
       },
       {
        "t": " și "
@@ -31325,7 +31421,8 @@
        "translit": "vaireu mipenēi hameleh",
        "strong": "H3372",
        "pos": "verb + substantiv",
-       "def_ro": "și s-au temut de fața regelui."
+       "def_ro": "și s-au temut de fața regelui.",
+       "dict_ro": "Iare — „a se teme”, dar și „a cinsti cu evlavie”; vaireu mipnei hameleh, „s-au temut de fața regelui”. Radak: de aceea se temeau de el să facă vreun rău, chiar și în ascuns, căci au văzut că prin înțelepciunea lui cea multă scoate la lumină judecata. Aceeași frică plină de cinste o avusese poporul față de Iosua, „cum se temuseră de Moise” (Iosua 4:14)."
       },
       {
        "t": ", căci au văzut că "
@@ -31371,6 +31468,10 @@
       {
        "author": "Metzudat David",
        "text": "„Au văzut” — văzând că prin înțelepciunea lui înțelege tainele inimii. „Ca să facă dreptate” — ca să priceapă adevărul de partea cui e, și să-l lămurească prin cercetare."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Ca să facă dreptate” — de aceea se temeau de el să facă vreun lucru rău, chiar și în ascuns, căci au văzut că prin înțelepciunea lui cea multă scoate la lumină judecata, cum s-a făcut în această judecată."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -31436,6 +31537,10 @@
       {
        "author": "Metzudat David",
        "text": "„Peste tot Israelul” — vrea să spună: de acum toți l-au primit cu iubire, văzând înțelepciunea lui."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Peste tot Israelul” — fiindcă David, tatăl lui, n-a domnit la începutul domniei lui peste tot Israelul, spune că Solomon a domnit peste tot Israelul; nimeni nu se îndoia de domnia lui, căci au văzut în el înțelepciunea lui Dumnezeu, ca să facă dreptate."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
