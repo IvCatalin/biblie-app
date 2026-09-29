@@ -15908,7 +15908,8 @@
        "translit": "zakēn ba baiamim",
        "strong": "H2205",
        "pos": "adjectiv + verb + substantiv",
-       "def_ro": "bătrân, ajuns [înaintat] în zile — David avea circa 70 de ani, vârsta rânduită omului (Psalmii 90:10)."
+       "def_ro": "bătrân, ajuns [înaintat] în zile — David avea circa 70 de ani, vârsta rânduită omului (Psalmii 90:10).",
+       "dict_ro": "Zaken ba baiamim — „bătrân, venit în zile”, aceeași expresie folosită pentru Avraam: „Avraam era bătrân, înaintat în zile” (Geneza 24:1), de unde și legătura cu pericopa Haiei Sara. Metzudat David: „bătrân” se spune despre ce se vede (părul alb, zbârciturile), iar „venit în zile” adaugă că bătrânețea i-a venit la vremea ei. Radak: avea doar șaptezeci de ani, dar războaiele îi slăbiseră puterea și bătrânețea l-a ajuns înainte de vreme."
       },
       {
        "t": "; și [slujitorii] "
@@ -15920,7 +15921,8 @@
        "translit": "vaiehasuhu babeghadim",
        "strong": "H3680",
        "pos": "verb, piel imperfect consecutiv + substantiv",
-       "def_ro": "îl acopereau cu haine."
+       "def_ro": "îl acopereau cu haine.",
+       "dict_ro": "Kasa — la forma intensivă, „a acoperi”. Talmudul și Rashi aduc învățătura lui rabi Iosi fiul lui rabi Hanina: cine disprețuiește hainele nu va mai avea folos de ele, căci David tăiase poala hainei lui Saul (1 Samuel 24:4), iar la bătrânețe hainele nu-l mai încălzeau (Berahot 62b). Radak aduce și un midraș mai apropiat: văzând îngerul cu sabia scoasă, David s-a înspăimântat și sângele i s-a răcit (1 Cronici 21:30)."
       },
       {
        "t": ", dar nu "
@@ -15976,6 +15978,14 @@
        "text": "„Iham” — din rădăcina căldurii."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și regele David era bătrân” — avea șaptezeci de ani, căci avea treizeci când a început să domnească și a domnit patruzeci de ani. „Înaintat în zile” — slăbit și căzut la pat în zilele bătrâneții; și deși nu avea decât șaptezeci de ani, din pricina războaielor pe care le-a purtat i s-a slăbit puterea și l-a ajuns bătrânețea; iar bătrânului, cu cât îmbătrânește, cu atât îi scade căldura firească. Există și un midraș: cine disprețuiește hainele nu mai are folos de ele, și pentru că David a tăiat poala hainei lui Saul, n-a avut folos de haine la bătrânețe; midrașul acesta e departe; și e un alt midraș mai apropiat: când David a văzut îngerul cu sabia scoasă, s-a înspăimântat și s-a răcit."
+      },
+      {
+       "author": "Talmud Bavli, Berahot 62b",
+       "text": "„Și David s-a sculat și a tăiat pe ascuns poala hainei lui Saul” — a spus rabi Iosi fiul lui rabi Hanina: oricine disprețuiește hainele nu va avea, în cele din urmă, folos de ele, căci s-a spus: „Și regele David era bătrân, înaintat în zile; și îl acopereau cu haine, dar nu se încălzea”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Avea șaptezeci de ani; căci avea treizeci de ani când a început să domnească, și a domnit patruzeci de ani (2 Samuel 5:4) — exact vârsta rânduită omului (Psalmii 90:10). „Și-l acopereau cu haine” — nu îmbrăcăminte de purtat, ci așternuturi de pat; se pare că era țintuit la pat, paralizat."
       },
@@ -16005,7 +16015,8 @@
        "translit": "ievakșu ladoni hameleh",
        "strong": "H1245",
        "pos": "verb, piel imperfect + substantiv compus",
-       "def_ro": "să caute pentru domnul meu, regele."
+       "def_ro": "să caute pentru domnul meu, regele.",
+       "dict_ro": "Bakaș — la forma intensivă, „a căuta”. Talmudul pune față în față căutarea făcută de slujitorii lui David și cea a lui Ahașveroș: David a căutat o singură fată, și oricine avea o fiică o aducea; Ahașveroș a cerut multe, și toți își ascundeau fiicele (Meghila 12b). Metzudat David: o fată care să-i fie pregătită."
       },
       {
        "t": ", "
@@ -16030,7 +16041,8 @@
        "translit": "veamda lifnēi hameleh",
        "strong": "H5975",
        "pos": "verb, qal perfect consecutiv + substantiv compus",
-       "def_ro": "și să stea înaintea regelui."
+       "def_ro": "și să stea înaintea regelui.",
+       "dict_ro": "Amad lifnei — „a sta înaintea cuiva”, adică a-l sluji; Metzudat David: să fie pregătită pentru el. Expresia descrie slujirea înaintea regelui (Geneza 41:46) și înaintea lui Dumnezeu (Deuteronom 10:8)."
       },
       {
        "t": " și să-i fie "
@@ -16055,7 +16067,8 @@
        "translit": "veșahva vehēikeha",
        "strong": "H7901",
        "pos": "verb, qal perfect consecutiv + substantiv",
-       "def_ro": "și să se culce la sânul tău."
+       "def_ro": "și să se culce la sânul tău.",
+       "dict_ro": "Heik — „sânul”, locul apropierii și al ocrotirii, ca mielul sărmanului din pilda lui Natan, care „dormea la sânul lui” (2 Samuel 12:3). Radak: fecioara încălzește mai mult; iar scopul e lămurit: „și regele se va încălzi”."
       },
       {
        "t": " și stăpânul meu, regele, se va "
@@ -16067,7 +16080,8 @@
        "translit": "vehm ladoni hameleh",
        "strong": "H2552",
        "pos": "verb + substantiv compus",
-       "def_ro": "și se va încălzi domnul meu, regele."
+       "def_ro": "și se va încălzi domnul meu, regele.",
+       "dict_ro": "Ham — „a se încălzi”; veham, „și se va încălzi”; Metzudat Țion: de la „căldură”. Radak: ca în „s-a încălzit carnea copilului” (2 Împărați 4:34). Căldura firească scade odată cu bătrânețea, explică Radak (la 1:1)."
       },
       {
        "t": ".”"
@@ -16106,6 +16120,14 @@
        "text": "„Tânără fecioară, și să stea înaintea regelui” — să fie pregătită pentru el."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „O tânără fecioară” — căci ea încălzește mai mult decât cea care a fost măritată. „Îngrijitoare” — Ionatan traduce „apropiată”; unii explică „care încălzește”, ca în „cel ce taie lemne se încălzește cu ele”; alții explică „vistiernică”, dar explicația aceasta n-are rost, căci ce nevoie ar avea regele de o vistiernică? Iar corect în ochii mei e „de folos”, adică regele să aibă folos de ea împotriva frigului care l-a cuprins, și aceasta a lămurit îndată: „să se culce la sânul tău și stăpânul meu, regele, se va încălzi”."
+      },
+      {
+       "author": "Talmud Bavli, Meghila 12b",
+       "text": "„Omul chibzuit lucrează cu pricepere” — acesta e David, căci e scris: „Slujitorii săi i-au spus: să se caute pentru stăpânul meu, regele, o tânără fecioară”; oricine avea o fiică o aducea la el. „Iar nebunul își întinde nebunia” — acesta e Ahașveroș, căci e scris: „să numească regele dregători”; oricine avea o fiică o ascundea de el."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Doctorii lui; așa sunt numiți și doctorii lui Iosif „slujitorii lui” (Geneza 50:2). „Să se caute pentru domnul meu, regele, o fecioară tânără” — nu doar o femeie tânără, ci fecioară, care are mai multă căldură naturală decât femeile ce au născut, căldură scăzută de naștere. „Și să stea înaintea regelui” — să-i slujească, aducându-i orice ar dori să mănânce sau să bea; și astfel, fiind în preajma lui și primind lucruri din mâna ei, să-i câștige mai mult afecțiunea."
       },
@@ -16135,7 +16157,8 @@
        "translit": "vaievakșu",
        "strong": "H1245",
        "pos": "verb, piel imperfect consecutiv",
-       "def_ro": "au căutat."
+       "def_ro": "au căutat.",
+       "dict_ro": "Bakaș — „a căuta”; vaievakșu, „au căutat”. Căutarea se face „în tot hotarul lui Israel”, ca o căutare regească, aleasă din toată țara."
       },
       {
        "t": " "
@@ -16160,7 +16183,8 @@
        "translit": "behol ghevul Israēl",
        "strong": "H1366",
        "pos": "substantiv compus",
-       "def_ro": "în tot hotarul lui Israel."
+       "def_ro": "în tot hotarul lui Israel.",
+       "dict_ro": "Ghevul — „hotarul, teritoriul”. „Tot hotarul lui Israel” înseamnă țara de la Dan până la Beer-Șeba. Metzudat David: [au căutat o fată] frumoasă, căci frumusețea arată sângele mult, care naște multă căldură."
       },
       {
        "t": " și au "
@@ -16172,7 +16196,8 @@
        "translit": "vaimțeu et-Avișag hașunamit",
        "strong": "H49",
        "pos": "verb + substantiv propriu + gentilic",
-       "def_ro": "au găsit-o pe Abișag șunamita — din Șunem, cetatea din Isahar unde locuia și femeia din 2 Împărați 4."
+       "def_ro": "au găsit-o pe Abișag șunamita — din Șunem, cetatea din Isahar unde locuia și femeia din 2 Împărați 4.",
+       "dict_ro": "Abișag — „tatăl meu e rătăcitor” sau „tatăl meu s-a înmulțit”; șunamita, din Șunem, în valea Izreel, unde locuia și femeia care l-a găzduit pe Elisei (2 Împărați 4:8); Rashi (acolo) aduce tradiția că erau surori. Talmudul povestește că Abișag i-a cerut lui David s-o ia de soție, iar el i-a răspuns: „îmi ești oprită”, căci avea deja optsprezece soții (Sanhedrin 22a)."
       },
       {
        "t": " și au "
@@ -16184,7 +16209,8 @@
        "translit": "vaiaviu ota lameleh",
        "strong": "H935",
        "pos": "verb, hifil imperfect consecutiv + substantiv",
-       "def_ro": "au adus-o la rege."
+       "def_ro": "au adus-o la rege.",
+       "dict_ro": "Bo — la forma cauzativă, „a aduce”; vaiaviu ota lameleh, „au adus-o la rege”. Mai târziu, Adonia va cere să i-o dea de soție, iar cererea îl va costa viața (1 Împărați 2:17-25)."
       },
       {
        "t": "."
@@ -16247,7 +16273,8 @@
        "translit": "vehanaara iafa ad-meod",
        "strong": "H3303",
        "pos": "substantiv + adjectiv + adverb",
-       "def_ro": "și tânăra era frumoasă peste măsură."
+       "def_ro": "și tânăra era frumoasă peste măsură.",
+       "dict_ro": "Iafe — „frumos”; iafa ad meod, „frumoasă foarte”. Metzudat David (la 1:3): frumusețea arată sângele mult, care naște multă căldură. Aceeași expresie o descrie pe Rebeca: „fata era foarte frumoasă la vedere” (Geneza 24:16), în pericopa Haiei Sara."
       },
       {
        "t": " și ea i-a devenit "
@@ -16259,7 +16286,8 @@
        "translit": "vatehi lameleh sohenet",
        "strong": "H5532",
        "pos": "verb + substantiv compus + substantiv",
-       "def_ro": "și a fost regelui îngrijitoare."
+       "def_ro": "și a fost regelui îngrijitoare.",
+       "dict_ro": "Sahan — „a fi folositor, a îngriji”; sohenet, „îngrijitoare”. Metzudat Țion: „care încălzește”, ca în „cel ce taie lemne se încălzește (iisahen) cu ele” (Eclesiastul 10:9); Radak respinge explicația „vistiernică” și propune „de folos”, ca în „ce folos (iiskan) îi aduce omul lui Dumnezeu?” (Iov 22:2)."
       },
       {
        "t": " și l-a "
@@ -16271,7 +16299,8 @@
        "translit": "vateșaretēhu",
        "strong": "H8334",
        "pos": "verb, piel imperfect consecutiv + sufix",
-       "def_ro": "și l-a slujit."
+       "def_ro": "și l-a slujit.",
+       "dict_ro": "Șarat — la forma intensivă, „a sluji”, verbul slujirii preoțești și regale. Metzudat David: l-a slujit în privința încălzirii. Rashi (și Radak): regele nu s-a culcat cu ea, căci fecioara încălzește mai bine; iar Înțelepții spun că îi era oprită, pentru că avea deja optsprezece soții, iar Tora spune „să nu-și înmulțească femeile” (Deuteronom 17:17)."
       },
       {
        "t": ", dar regele nu "
@@ -16318,6 +16347,14 @@
        "text": "„Îl slujea” — în privința încălzirii."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Dar regele nu s-a culcat cu ea” — cum am explicat, fecioara e mai bună de încălzit decât cea care a fost măritată; și s-a scris aceasta ca să se știe că îi era îngăduită lui Solomon, căci tatăl lui nu s-a culcat cu ea, deși dormea la sânul lui. Înțelepții noștri au explicat că îi era oprită să-i fie soție, din pricina „să nu-și înmulțească femeile”, și au spus prin tradiție: să nu-și înmulțească mai mult de optsprezece, iar el avea deja optsprezece."
+      },
+      {
+       "author": "Talmud Bavli, Sanhedrin 22a",
+       "text": "Ce e cu Abișag? Căci e scris: „Și regele David era bătrân... slujitorii săi i-au spus: să se caute”, și e scris: „au căutat o tânără frumoasă”, și e scris: „tânăra era foarte frumoasă și ea i-a devenit îngrijitoare regelui și l-a slujit”. Ea i-a spus: „ia-mă de soție!”. El i-a spus: „îmi ești oprită”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "„Dar regele n-a cunoscut-o” — cum bărbatul își cunoaște soția, ceea ce arată că era soția lui, și că n-ar fi fost o vină din partea lui dacă ar fi cunoscut-o; dar aceasta se notează nu spre a sublinia castitatea lui David, ci slăbiciunea lui și pierderea dorinței față de femei — și că fecioara a rămas fecioară, ceea ce a stat la temelia cererii lui Adonia și a nădejdii lui de a-i urma la tron."
       },
@@ -16347,7 +16384,8 @@
        "translit": "vaAdonia ven-Haghit",
        "strong": "H138",
        "pos": "substantiv propriu compus",
-       "def_ro": "Adonia, fiul lui Haghit — al patrulea fiu al lui David (2 Samuel 3:4), acum cel mai mare în viață."
+       "def_ro": "Adonia, fiul lui Haghit — al patrulea fiu al lui David (2 Samuel 3:4), acum cel mai mare în viață.",
+       "dict_ro": "Adonia — „Domnul meu este DOMNUL”, al patrulea fiu al lui David, născut la Hebron din Haghit (2 Samuel 3:4). Metzudat David (la 1:6): era acum cel mai mare dintre frați, căci Amnon, Daniel și Absalom muriseră, și de aceea credea că domnia i se cuvine lui."
       },
       {
        "t": ", se "
@@ -16372,7 +16410,8 @@
        "translit": "ani emloh",
        "strong": "H4427",
        "pos": "pronume + verb, qal imperfect",
-       "def_ro": "eu voi domni."
+       "def_ro": "eu voi domni.",
+       "dict_ro": "Malah — „a domni”; ani emloh, „eu voi domni”. Radak: se lăuda și se mândrea, pentru că era mai frumos decât frații lui și credea că tatăl îl iubește mai mult, căci nu-l certase niciodată. Metzudat David: arăta mărire, ca unul hotărât să domnească."
       },
       {
        "t": "!” Și își "
@@ -16384,7 +16423,8 @@
        "translit": "vaiaas lo",
        "strong": "H6213",
        "pos": "verb, qal imperfect consecutiv + prepoziție",
-       "def_ro": "și-a făcut pentru sine."
+       "def_ro": "și-a făcut pentru sine.",
+       "dict_ro": "Asa — „a face”; vaiaas lo, „și-a făcut”. Expresia „și-a făcut car și călăreți” e aceeași cu cea despre Absalom în 2 Samuel 15:1: Adonia repetă pașii fratelui răsculat."
       },
       {
        "t": " "
@@ -16396,7 +16436,8 @@
        "translit": "rehev ufarașim",
        "strong": "H7393",
        "pos": "substantiv + substantiv",
-       "def_ro": "un car și călăreți."
+       "def_ro": "un car și călăreți.",
+       "dict_ro": "Rehev — „carul” de luptă, simbolul puterii regale; parașim, „călăreții”. Samuel avertizase că regele va lua fiii poporului „pentru carele lui și pentru călăreții lui” (1 Samuel 8:11). Metzudat David: un car ca să călărească în el."
       },
       {
        "t": " și "
@@ -16408,7 +16449,8 @@
        "translit": "vahamișim iș rațim lefanav",
        "strong": "H2572",
        "pos": "numeral + substantiv + verb + prepoziție",
-       "def_ro": "și cincizeci de oameni alergând înaintea lui — exact alaiul pe care fratele lui Absalom îl folosise mai înainte (2 Samuel 15:1)."
+       "def_ro": "și cincizeci de oameni alergând înaintea lui — exact alaiul pe care fratele lui Absalom îl folosise mai înainte (2 Samuel 15:1).",
+       "dict_ro": "Hamișim — „cincizeci”; rațim lefanav, „alergători înaintea lui”, garda de onoare a regelui. Radak: mergeau înaintea lui înarmați, după obiceiul regilor. Talmudul, în numele lui Rav: ce era deosebit? Că toți aveau splina scoasă și tălpile scobite, ca să alerge mai iute (Sanhedrin 21b)."
       },
       {
        "t": "."
@@ -16445,6 +16487,14 @@
       {
        "author": "Metzudat David",
        "text": "„Se sumețea, spunând” ș.a.m.d. — arăta el însuși mărire și înălțare, ca și cum ar fi spus «eu voi domni», căci mărirea pe care o arăta nu se potrivea decât cuiva pregătit să domnească. „Rehev” — ca să călărească pe el."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Se sumețise” — se lăuda și se mândrea: „eu voi fi rege”, căci credea, pentru că era mai frumos decât frații lui, cum a spus „și el era foarte chipeș”, și își spunea în inimă că tatăl îl iubește mai mult decât pe frații lui, pentru că nu-l certase niciodată. „Și cincizeci de oameni care alergau înaintea lui” — care mergeau înaintea lui înarmați, după obiceiul regilor; și tot așa s-a spus despre Absalom."
+      },
+      {
+       "author": "Talmud Bavli, Sanhedrin 21b",
+       "text": "„Și își luase pentru sine un car și călăreți și cincizeci de oameni care alergau înaintea lui” — ce e deosebit? A spus Rav Iehuda în numele lui Rav: toți aveau splina scoasă și tălpile picioarelor scobite."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -16489,7 +16539,8 @@
        "translit": "madua kaha asita",
        "strong": "H4069",
        "pos": "adverb interogativ + verb",
-       "def_ro": "de ce ai făcut astfel?"
+       "def_ro": "de ce ai făcut astfel?",
+       "dict_ro": "Madua — „de ce?”; madua kaha asita, „de ce ai făcut așa?”. Rashi: tatăl lui nu l-a mâniat niciodată; de aici înveți că cine își oprește mustrarea față de fiul lui îl duce la moarte. Radak: când făcea ceva rău, nu-l rușina și nu-l certa, de aceea a ieșit pe calea cea rea."
       },
       {
        "t": "?” În plus, el era "
@@ -16501,7 +16552,8 @@
        "translit": "vegam-hu tov-toar meod",
        "strong": "H8389",
        "pos": "substantiv + adjectiv",
-       "def_ro": "și el era foarte frumos la chip — la fel ca Absalom (2 Samuel 14:25)."
+       "def_ro": "și el era foarte frumos la chip — la fel ca Absalom (2 Samuel 14:25).",
+       "dict_ro": "Toar — „înfățișarea, chipul”; tov toar, „frumos la chip”. Rashi: frumos ca Absalom, despre care s-a spus „nu era om atât de frumos ca Absalom” (2 Samuel 14:25); aceasta i-a făcut mândri. Radak: frumusețea i-a făcut pe amândoi să se mândrească și să se răscoale."
       },
       {
        "t": " și se "
@@ -16513,7 +16565,8 @@
        "translit": "veoto ialeda",
        "strong": "H3205",
        "pos": "pronume + verb, qal perfect",
-       "def_ro": "și pe el l-a născut [mama lui]."
+       "def_ro": "și pe el l-a născut [mama lui].",
+       "dict_ro": "Ialad — „a naște”; veoto ialeda, „și pe el l-a născut”. Talmudul întreabă: oare nu era Adonia fiul Haghitei, iar Absalom fiul Maahei? Ci pentru că a făcut ca Absalom, răzvrătindu-se împotriva domniei, Scriptura l-a legat de Absalom (Bava Batra 109b). Radak: Haghit l-a născut după ce Maaha îl născuse pe Absalom."
       },
       {
        "t": " după "
@@ -16564,6 +16617,14 @@
        "text": "„Nu l-a întristat” ș.a.m.d. — vrea să spună: niciodată, chiar dacă făcea ceva necuvenit, tatăl lui nu-l întrista întrebându-l de ce a făcut așa, și din pricina aceasta el credea că toate faptele lui sunt cuviincioase și că e vrednic de domnie. „Și el era și el chipeș” — vrea să spună: și din pricina frumuseții credea că e vrednic de domnie."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Nu l-a întristat” — nu l-a mâniat; când făcea ceva rău, nu-l rușina și nu-l certa, spunând „de ce ai făcut așa?”; de aceea a ieșit pe calea cea rea și s-a răzvrătit împotriva tatălui său, căci Adonia știa că David spusese că-l va face rege pe Solomon, deși nu vestise încă domnia, dar gândea în inima lui: tatăl meu mă iubește și nu m-a certat niciodată; voi intra în domnie în zilele lui. „Și el era foarte chipeș” — „și” adaugă pe Absalom; frumusețea i-a făcut pe amândoi să se mândrească și să se răscoale. „Se născuse după Absalom” — Haghit, mama lui Adonia, l-a născut după ce Maaha îl născuse pe Absalom, iar Amnon, întâiul născut, murise deja."
+      },
+      {
+       "author": "Talmud Bavli, Bava Batra 109b",
+       "text": "Rabi Iosi bar Hanina a spus: de aici [se învață că stricăciunea se leagă de cel stricat]: „și el era foarte chipeș și se născuse după Absalom” — oare nu era Adonia fiul Haghitei, iar Absalom fiul Maahei? Ci, pentru că a făcut fapta lui Absalom, răzvrătindu-se împotriva domniei, Scriptura l-a legat de Absalom."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "I-a făcut întotdeauna pe plac în toate, l-a lăsat să facă după voia lui, i-a dat tot ce a dorit, și nu l-a mustrat niciodată pentru greșelile lui, nici nu l-a făcut de rușine, cum spune Targumul, spunându-i-le sau pedepsindu-l pentru ele; aceasta nu era spre cinstea lui David, fiind vinovat de același păcat ca Eli."
       },
@@ -16593,7 +16654,8 @@
        "translit": "vaihiu devarav",
        "strong": "H1697",
        "pos": "verb + substantiv + sufix",
-       "def_ro": "au fost cuvintele lui — s-a sfătuit."
+       "def_ro": "au fost cuvintele lui — s-a sfătuit.",
+       "dict_ro": "Davar — „cuvântul, lucrul”; vaihiu devarav, „și au fost cuvintele lui [cu...]”, adică s-a sfătuit. Radak: sfatul și vorbele lui în această privință erau cu Ioab și cu Abiatar. Metzudat David: sfatul lui era cu Ioab."
       },
       {
        "t": " cu "
@@ -16618,7 +16680,8 @@
        "translit": "Eviatar hakohēn",
        "strong": "H54",
        "pos": "substantiv propriu + substantiv",
-       "def_ro": "preotul Eviatar — descendent al lui Eli, îndepărtat parțial din slujire după ce Urimul și Tumimul nu i-au răspuns în timpul fugii lui David de Absalom."
+       "def_ro": "preotul Eviatar — descendent al lui Eli, îndepărtat parțial din slujire după ce Urimul și Tumimul nu i-au răspuns în timpul fugii lui David de Absalom.",
+       "dict_ro": "Eviatar — „tatăl belșugului”, preotul din casa lui Eli, singurul care scăpase din măcelul de la Nob (1 Samuel 22:20). Rashi: fusese îndepărtat de la marea preoție când a întrebat prin Urim și Tumim și nu i s-a răspuns, la fuga lui David de Absalom; știa că în zilele lui Solomon nu va mai sluji, după cuvântul spus lui Eli (1 Samuel 2:35)."
       },
       {
        "t": ", și ei "
@@ -16630,7 +16693,8 @@
        "translit": "vaiaazru aharēi Adonia",
        "strong": "H5826",
        "pos": "verb, qal imperfect consecutiv + prepoziție",
-       "def_ro": "l-au ajutat, mergând după Adonia."
+       "def_ro": "l-au ajutat, mergând după Adonia.",
+       "dict_ro": "Azar — „a ajuta”; vaiaazru aharei Adonia, „au ajutat, urmându-l pe Adonia”. Radak: Ioab știa că David îl ura pentru uciderea lui Abner, a lui Absalom și a lui Amasa, și voia să rămână căpetenia oștirii sub Adonia; iar Abiatar, pentru că David îl înlocuise cu Țadok."
       },
       {
        "t": "."
@@ -16668,6 +16732,10 @@
        "text": "„Sfatul lui era cu Ioav” — fiindcă știa el însuși că era urât în ochii lui David din pricina lui Abner și a lui Amasa, și era destul de înțelept să priceapă ce-i va porunci lui Solomon cu privire la el, ca să nu-l cruțe — și, într-adevăr, așa i-a poruncit, cum s-a scris mai jos (2:6); de aceea se apleca spre Adonia, socotind că acesta îl va îndrăgi pentru asta; iar Eviatar fusese și el îndepărtat de David de la slujba de mare preot pe vremea lui Solomon, și credea că Adonia îl va readuce."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „El a purtat discuții” — cuvintele și sfatul lui în această privință erau cu Ioab și cu Abiatar; căci Ioab știa că David îl ura, pentru că îl blestemase când l-a ucis pe Abner, și l-a ucis și pe Absalom, deși i se poruncise să-l cruțe, și l-a ucis și pe Amasa; dar David se temea de el toate zilele vieții lui, pentru că îi purta războaiele; de aceea [Ioab] era după Adonia, ca să-l lase căpetenie a oștirii dacă va domni. Și preotul Abiatar, de asemenea, pentru că David îl îndepărtase de la marea preoție și pusese în locul lui pe Țadok."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Erau persoane foarte potrivite pentru sfat, care, dacă erau câștigate de partea lui, puteau fi de mare folos: unul fiind generalul armatei, cu mare influență asupra soldaților, prin care i-ar fi putut deschide calea și l-ar fi apărat; celălalt era marele preot, despre care se putea crede că are mare influență asupra afecțiunilor poporului, și a cărui slujbă era să ungă regele."
       },
@@ -16693,7 +16761,8 @@
        "translit": "veȚadok hakohēn",
        "strong": "H6659",
        "pos": "substantiv propriu + substantiv",
-       "def_ro": "preotul Țadok."
+       "def_ro": "preotul Țadok.",
+       "dict_ro": "Țadok — „cel drept”, preotul din neamul lui Elazar, care va unge pe Solomon (1 Împărați 1:39); urmașii lui vor sluji în Templu până la exil (Ezechiel 44:15). Numele lui e rădăcina denumirii „saducheii”."
       },
       {
        "t": ", "
@@ -16705,7 +16774,8 @@
        "translit": "u'Venaiahu ven-Iehoiada",
        "strong": "H1141",
        "pos": "substantiv propriu compus",
-       "def_ro": "Benaia, fiul lui Iehoiada — căpetenia gărzii personale a lui David."
+       "def_ro": "Benaia, fiul lui Iehoiada — căpetenia gărzii personale a lui David.",
+       "dict_ro": "Benaia — „DOMNUL a zidit”, unul dintre vitejii lui David, căpetenia cheretiților și peletiților, garda regală (2 Samuel 8:18; 23:20-23). Va deveni căpetenia oștirii sub Solomon, în locul lui Ioab (1 Împărați 2:35)."
       },
       {
        "t": ", "
@@ -16717,7 +16787,8 @@
        "translit": "ve'Natan hanavi",
        "strong": "H5416",
        "pos": "substantiv propriu + substantiv",
-       "def_ro": "profetul Natan — cel ce-i vestise lui David că Solomon va domni (1 Cronici 22:9)."
+       "def_ro": "profetul Natan — cel ce-i vestise lui David că Solomon va domni (1 Cronici 22:9).",
+       "dict_ro": "Natan — „[Dumnezeu] a dat”, profetul curții lui David, care i-a vestit legământul casei lui (2 Samuel 7) și l-a mustrat pentru Bat-Șeba (2 Samuel 12). Rashi: el prorocise că Solomon va domni, cum e scris: „numele lui va fi Solomon” (1 Cronici 22:9)."
       },
       {
        "t": ", "
@@ -16729,7 +16800,8 @@
        "translit": "ve'Șimi ve'Rēi",
        "strong": "H8096",
        "pos": "substantive proprii",
-       "def_ro": "Șimi și Rei."
+       "def_ro": "Șimi și Rei.",
+       "dict_ro": "Șimi — nume purtat de mai mulți în Scriptură. Metzudat David: poate că e Șimi fiul lui Ghera; iar Rei poate fi Hușai arhitul, numit „prietenul regelui” (rea hameleh; 2 Samuel 15:37). Cei doi nu apar în alt loc cu aceste nume alăturate."
       },
       {
        "t": " și "
@@ -16741,7 +16813,8 @@
        "translit": "vehaghiborim așer le'David",
        "strong": "H1368",
        "pos": "substantiv compus",
-       "def_ro": "vitejii care erau ai lui David — garda personală."
+       "def_ro": "vitejii care erau ai lui David — garda personală.",
+       "dict_ro": "Ghibor — „viteazul”; haghiborim așer leDavid, „vitejii lui David”, cei treizeci și șapte de războinici enumerați în 2 Samuel 23:8-39. Metzudat David: Adino, Elazar și Șama, care erau mereu cu David."
       },
       {
        "t": " nu erau cu "
@@ -16753,7 +16826,8 @@
        "translit": "im-Adoniahu",
        "strong": "H138",
        "pos": "prepoziție + substantiv propriu",
-       "def_ro": "cu Adonia."
+       "def_ro": "cu Adonia.",
+       "dict_ro": "Adonia — numele e scris aici în forma lungă, Adoniahu. Enumerarea celor care „nu erau cu Adonia” arată că profetul, preotul Țadok și garda regală rămăseseră de partea lui David și a lui Solomon."
       },
       {
        "t": "."
@@ -16817,7 +16891,8 @@
        "translit": "vaizbah",
        "strong": "H2076",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a jertfit."
+       "def_ro": "a jertfit.",
+       "dict_ro": "Zavah — „a jertfi, a înjunghia”, de unde mizbeah, „altarul”. Ospățul cu jertfe era felul în care se proclama un rege, ca la Saul (1 Samuel 11:15). Metzudat David (la 1:25): ospățul era pentru bucuria domniei."
       },
       {
        "t": " "
@@ -16829,7 +16904,8 @@
        "translit": "țon uvakar umeri",
        "strong": "H4806",
        "pos": "substantiv compus",
-       "def_ro": "oi, boi și viței îngrășați."
+       "def_ro": "oi, boi și viței îngrășați.",
+       "dict_ro": "Meri — „vițelul îngrășat”; Metzudat Țion: bou îngrășat. Rashi: boi hrăniți cu de-a sila; Radak: vitele îngrășate în grajd, la iesle, nu pe pășune, ca în Mișna, care interzice îngrășarea vițeilor în Sabat."
       },
       {
        "t": ", la "
@@ -16867,7 +16943,8 @@
        "translit": "vaikra",
        "strong": "H7121",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a chemat."
+       "def_ro": "a chemat.",
+       "dict_ro": "Kara — „a chema”; vaikra, „a chemat [la ospăț]”. Lista celor chemați și a celor nechemați arată taberele: fiii regelui și oamenii lui Iuda de o parte, profetul, preotul Țadok, Benaia, vitejii și Solomon de cealaltă."
       },
       {
        "t": " pe toți "
@@ -16879,7 +16956,8 @@
        "translit": "kol-ehav benēi hameleh",
        "strong": "H251",
        "pos": "substantiv compus",
-       "def_ro": "toți frații lui, fiii regelui."
+       "def_ro": "toți frații lui, fiii regelui.",
+       "dict_ro": "Ah — „fratele”; kol ehav benei hameleh, „toți frații lui, fiii regelui”. Rashi (la 1:10): pe Solomon nu l-a chemat, căci știa că profetul prorocise că el va domni."
       },
       {
        "t": ", și pe toți "
@@ -16891,7 +16969,8 @@
        "translit": "anșēi Iehuda avdēi hameleh",
        "strong": "H3063",
        "pos": "substantiv compus",
-       "def_ro": "oamenii lui Iuda, slujitorii regelui."
+       "def_ro": "oamenii lui Iuda, slujitorii regelui.",
+       "dict_ro": "Iehuda — seminția regală, a lui David; aici, dregătorii din Iuda aflați în slujba regelui. Metzudat David: cei care îl urmau pe Adonia. Radak explică locul: piatra Zohelet, „[piatra] lângă care curg apele”, lângă Ein-Roghel, izvorul spălătorilor."
       },
       {
        "t": "."
@@ -16932,6 +17011,10 @@
        "text": "„Umeri” — bou îngrășat. „Piatra Zohelet” — numită astfel fiindcă apele curgeau și se scurgeau aproape de ea."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Tauri îngrășați” — după Targum; oile și boii erau de la pășune, iar cei îngrășați erau oi și boi îngrășați în casă, la iesle. „La piatra Zohelet” — lângă piatra Zohelet au înjunghiat oile și boii; se numește Zohelet pentru că apele curgeau (zohalim) lângă piatră, cum a spus „lângă Ein-Roghel”. „Ein-Roghel” — după Targum, „izvorul spălătorului”; în izvorul acesta se spălau hainele, iar spălătorul se numește roghel pentru că freacă hainele cu picioarele (ragleiv)."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Ca să facă un ospăț pentru cei din partida lui, care era numeroasă, unii dintre ei persoane de rangul întâi, și de aceea le-a fost pregătit un ospăț mare și ales. „Lângă piatra Zohelet, care e aproape de Ein-Roghel” — sau izvorul spălătorilor, cum spune Targumul, unde spălătorii își spălau hainele, folosindu-și picioarele în lucrul acesta, de unde și numele."
       },
@@ -16961,7 +17044,8 @@
        "translit": "Natan hanavi u'Venaiahu veet-haghiborim",
        "strong": "H5030",
        "pos": "substantiv compus",
-       "def_ro": "profetul Natan, și Benaia, și vitejii."
+       "def_ro": "profetul Natan, și Benaia, și vitejii.",
+       "dict_ro": "Navi — „profetul”; hanavi, titlul lui Natan. Radak: nu i-a chemat pe aceștia, căci știa că mâna lor era cu Solomon. Nechemarea lor e însăși dovada, pentru Bat-Șeba și Natan, că ospățul era o încoronare (1:19, 1:26)."
       },
       {
        "t": " și pe "
@@ -16973,7 +17057,8 @@
        "translit": "Șelomo ahiv",
        "strong": "H8010",
        "pos": "substantiv propriu + substantiv",
-       "def_ro": "Solomon, fratele lui."
+       "def_ro": "Solomon, fratele lui.",
+       "dict_ro": "Șelomo — „cel al păcii”, de la șalom, numele dat înainte de naștere: „numele lui va fi Solomon, căci în zilele lui voi da pace (șalom)” (1 Cronici 22:9); Natan îl numise și Iedidia, „iubitul Domnului” (2 Samuel 12:25). Rashi: Adonia nu l-a chemat, căci știa că profetul prorocise că el va domni."
       },
       {
        "t": " nu i-a "
@@ -16985,7 +17070,8 @@
        "translit": "lo kara",
        "strong": "H7121",
        "pos": "verb, qal perfect negat",
-       "def_ro": "nu a chemat."
+       "def_ro": "nu a chemat.",
+       "dict_ro": "Kara — „a chema”; lo kara, „n-a chemat”. Verbul revine în 1:19, 1:25 și 1:26, când Bat-Șeba și Natan îi arată regelui, fiecare în felul lui, pe cine n-a chemat Adonia."
       },
       {
        "t": "."
@@ -17014,6 +17100,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Și pe fratele său Solomon nu l-a chemat” — căci știa că profetul prorocise despre el că va domni."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Nu i-a chemat” — nu i-a chemat pe aceștia, căci știa că mâna lor era cu Solomon."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -17045,7 +17135,8 @@
        "translit": "Bat-Șeva ēm-Șelomo",
        "strong": "H1339",
        "pos": "substantiv propriu compus",
-       "def_ro": "Batșeba, mama lui Solomon."
+       "def_ro": "Batșeba, mama lui Solomon.",
+       "dict_ro": "Bat-Șeva — „fiica jurământului” sau „fiica celor șapte”, soția lui Urie, apoi a lui David (2 Samuel 11-12). Radak (la 1:13) aduce tradiția că, după moartea primului copil, ea nu s-a mai apropiat de David până nu i-a jurat că fiul ei va domni după el."
       },
       {
        "t": ", spunând: „"
@@ -17057,7 +17148,8 @@
        "translit": "halo șamaat",
        "strong": "H8085",
        "pos": "particulă interogativă + verb, qal perfect",
-       "def_ro": "oare n-ai auzit?"
+       "def_ro": "oare n-ai auzit?",
+       "dict_ro": "Șama — „a auzi”; halo șamaat, „oare n-ai auzit?”. Metzudat David: cu siguranță ai auzit că Adonia vrea să domnească, iar lucrul e aproape. Radak: Natan se îngrijora mai mult, pentru că el însuși prorocise că Solomon va domni."
       },
       {
        "t": " că "
@@ -17069,7 +17161,8 @@
        "translit": "malah Adoniahu ven-Haghit",
        "strong": "H4427",
        "pos": "verb, qal perfect + substantiv compus",
-       "def_ro": "a domnit Adonia, fiul lui Haghit."
+       "def_ro": "a domnit Adonia, fiul lui Haghit.",
+       "dict_ro": "Malah — „a domni”; malah Adoniahu, „Adonia a domnit”, la perfect: lucrul e considerat deja făcut. Numele mamei, Haghit, e pus lângă cel al lui Adonia în contrast cu „Bat-Șeba, mama lui Solomon”."
       },
       {
        "t": "? Iar "
@@ -17081,7 +17174,8 @@
        "translit": "vaadonēnu David lo iada",
        "strong": "H113",
        "pos": "substantiv compus + verb negat",
-       "def_ro": "și domnul nostru, David, nu știe."
+       "def_ro": "și domnul nostru, David, nu știe.",
+       "dict_ro": "Adon — „stăpânul”; vaadoneinu David lo iada, „iar stăpânul nostru David nu știe”. Metzudat David: să nu crezi că s-a făcut din porunca regelui și nu mai e nimic de făcut, căci regele nu știe. Radak: dacă ar ști, s-ar împotrivi, căci i s-a spus prin profeție că Solomon va domni."
       },
       {
        "t": "."
@@ -17102,11 +17196,22 @@
        "note": "Apropiere strânsă între TM și LXX la acest verset."
       }
      ],
-     "refs": ["2 Samuel 7:12-17", "2 Samuel 3:4", "2 Samuel 12:24,25", "1 Cronici 22:9,10", "1 Cronici 28:4,5", "1 Cronici 29:1"],
+     "refs": [
+      "2 Samuel 7:12-17",
+      "2 Samuel 3:4",
+      "2 Samuel 12:24,25",
+      "1 Cronici 22:9,10",
+      "1 Cronici 28:4,5",
+      "1 Cronici 29:1"
+     ],
      "commentaries": [
       {
        "author": "Metzudat David",
        "text": "„N-ai auzit” — cu adevărat, cu siguranță ai auzit că Adonia vrea să domnească, și lucrul e aproape [de împlinire]. „Nu știe” — ca și cum ar spune: să nu crezi că lucrul se face cu voia regelui și nu se poate răspunde împotrivă, căci regele nu știe despre asta."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și Natan i-a vorbit” — se îngrijora mai mult de lucru, pentru că el spusese prin profeție lui David că Solomon va domni, cum am explicat în cartea lui Samuel, și e scris și în Cronici. „Nu știe” — căci dacă ar fi știut, s-ar fi împotrivit, căci i se spusese prin profeție că Solomon va domni."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -17138,7 +17243,8 @@
        "translit": "lehi ieațēh na eța",
        "strong": "H3289",
        "pos": "verb + verb + substantiv",
-       "def_ro": "vino să-ți dau sfat."
+       "def_ro": "vino să-ți dau sfat.",
+       "dict_ro": "Iaaț — „a sfătui”; ieațeh na eța, „îți voi da, te rog, un sfat”. Sfatul lui Natan e o strategie în doi pași: Bat-Șeba vorbește întâi, iar el vine apoi să-i „întregească cuvintele” (1:14)."
       },
       {
        "t": " și astfel să-ți "
@@ -17163,7 +17269,8 @@
        "translit": "nefeș benēh Șelomo",
        "strong": "H1121",
        "pos": "substantiv compus",
-       "def_ro": "sufletul fiului tău Solomon."
+       "def_ro": "sufletul fiului tău Solomon.",
+       "dict_ro": "Ben — „fiul”; nefeș benekh Șelomo, „viața fiului tău Solomon”. Rashi: salvează-ți viața din cearta care va urma după moartea regelui. Metzudat David: dacă va domni Adonia, vă va ucide, ca să nu-i fiți potrivnici pentru domnie; Radak aduce și explicația: ca să nu fiți robi ai lui Adonia."
       },
       {
        "t": "."
@@ -17202,6 +17309,10 @@
        "text": "„Și scapă-ți sufletul” ș.a.m.d. — căci dacă va domni Adonia, cu siguranță vă va ucide, ca să nu-i fiți piedică în chestiunea domniei."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și astfel să-ți salvezi viața” — căci se temea că, dacă va domni Adonia, după moartea lui David o va ucide pe Bat-Șeba și pe Solomon, ca să nu aibă nicio împotrivire în domnie; sau înțelesul e: scapă-ți sufletul tău și al fiului tău de rușine, ca să nu fiți robi ai lui Adonia."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Cum să te porți în această chestiune, în care ea, fiind femeie, și fără îndoială surprinsă și zăpăcită de această veste, ar fi putut fi în încurcătură ce să facă; de aceea Natan, fiind om înțelept și prieten credincios, se oferă să-i dea cel mai bun sfat pe care-l putea da."
       },
@@ -17227,7 +17338,8 @@
        "translit": "uvoi el-hameleh David",
        "strong": "H935",
        "pos": "verb, qal imperativ + substantiv compus",
-       "def_ro": "și vino la regele David."
+       "def_ro": "și vino la regele David.",
+       "dict_ro": "Bo — „a veni”; uvoi el hameleh David, „și intră la regele David”. Metzudat David (la 1:16): ea nu obișnuia să vină la el, iar Radak: intrarea în odaie fără voie arăta un lucru grabnic."
       },
       {
        "t": " și spune-i astfel: «"
@@ -17239,7 +17351,8 @@
        "translit": "halo-ata adoni hameleh nișbata laamatha",
        "strong": "H7650",
        "pos": "particulă interogativă + verb, nifal perfect",
-       "def_ro": "oare nu tu, domnul meu regele, ai jurat slujitoarei tale?"
+       "def_ro": "oare nu tu, domnul meu regele, ai jurat slujitoarei tale?",
+       "dict_ro": "Șava — la forma pasivă, „a jura”; halo ata nișbata, „oare n-ai jurat tu?”. Amateha, „slujitoarei tale”, e formula smereniei. Radak aduce tradiția: Bat-Șeba i-a spus lui David că, dacă va avea de la el un fiu, frații lui îl vor disprețui din pricina păcatului de la început, și n-a vrut să se apropie de el până nu i-a jurat că fiul ei va domni."
       },
       {
        "t": ", spunând: 'fiul tău Solomon "
@@ -17251,7 +17364,8 @@
        "translit": "imloh aharai",
        "strong": "H4427",
        "pos": "verb, qal imperfect + prepoziție",
-       "def_ro": "va domni după mine."
+       "def_ro": "va domni după mine.",
+       "dict_ro": "Malah — „a domni”; imloh aharai, „va domni după mine”, formula succesiunii, repetată de cinci ori în capitol (1:13, 1:17, 1:24, 1:30). Radak: Natan știa de jurământ, căci îl auzise de la ea."
       },
       {
        "t": " și el "
@@ -17263,7 +17377,8 @@
        "translit": "iēșēv al-kisi",
        "strong": "H3678",
        "pos": "verb, qal imperfect + substantiv",
-       "def_ro": "va ședea pe tronul meu."
+       "def_ro": "va ședea pe tronul meu.",
+       "dict_ro": "Kise — „tronul, scaunul”; ieșev al kisi, „va ședea pe tronul meu”. Tronul lui David e centrul făgăduinței lui Natan: „tronul tău va fi întărit pe vecie” (2 Samuel 7:16)."
       },
       {
        "t": "?' "
@@ -17275,7 +17390,8 @@
        "translit": "umadua malah Adoniahu",
        "strong": "H4069",
        "pos": "adverb interogativ + verb + substantiv propriu",
-       "def_ro": "și de ce a domnit Adonia?"
+       "def_ro": "și de ce a domnit Adonia?",
+       "dict_ro": "Madua — „de ce?”; umadua malah Adoniahu, „și de ce a domnit Adonia?”. Întrebarea, pusă în gura Bat-Șebei de Natan, îl obligă pe rege să aleagă între jurământul lui și faptul împlinit."
       },
       {
        "t": "?»"
@@ -17306,6 +17422,10 @@
      ],
      "commentaries": [
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „N-ai jurat tu oare slujitoarei tale” — Natan știa că regele îi jurase, căci auzise aceasta de la ea. Și de ce i-a jurat? Au spus că, după ce a murit copilul, Bat-Șeba a spus: copilul a murit din pricina păcatului; chiar dacă voi avea de la tine un fiu care să trăiască, frații lui îl vor disprețui, pentru că am venit la tine prin păcat la început; și n-a vrut să se apropie de el până nu i-a jurat că fiul pe care îl va avea întâi de la ea va domni după el; iar el i-a spus că aceasta i se spusese prin profeție."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Adică, intră îndată în odaia unde zăcea regele, fără nicio ceremonie: „și spune-i: n-ai jurat tu, domnul meu, regele, slujitoarei tale, spunând: cu siguranță Solomon, fiul tău, va domni după mine, și el va sta pe tronul meu?” Deși nu se pomenește în altă parte un asemenea jurământ, fără îndoială a existat unul, despre care Natan avea cunoștință, fie de la David, fie de la Batșeba, fie de la amândoi, sau poate a fost el însuși de față când s-a făcut."
       },
@@ -17335,7 +17455,8 @@
        "translit": "odah medaberet șam im-hameleh",
        "strong": "H1696",
        "pos": "adverb + verb, piel participiu + substantiv",
-       "def_ro": "încă vei vorbi acolo cu regele."
+       "def_ro": "încă vei vorbi acolo cu regele.",
+       "dict_ro": "Dabar — la forma intensivă, „a vorbi”; odah medaberet, „cât încă vorbești”. Metzudat David: cât încă vei vorbi cu regele, voi veni și eu să-ți întregesc cuvintele."
       },
       {
        "t": ", eu voi "
@@ -17347,7 +17468,8 @@
        "translit": "vaani avo aharaih",
        "strong": "H935",
        "pos": "pronume + verb, qal imperfect + prepoziție",
-       "def_ro": "și eu voi veni după tine."
+       "def_ro": "și eu voi veni după tine.",
+       "dict_ro": "Bo — „a veni”; vaani avo aharaih, „și eu voi veni după tine”. Metzudat David (la 1:28): Bat-Șeba s-a îndepărtat când a venit Natan, ca regele să nu simtă că venise la sfatul lui."
       },
       {
        "t": " și îți voi "
@@ -17359,7 +17481,8 @@
        "translit": "umileti et-devaraih",
        "strong": "H4390",
        "pos": "verb, piel perfect consecutiv + substantiv",
-       "def_ro": "și voi împlini/întregi cuvintele tale."
+       "def_ro": "și voi împlini/întregi cuvintele tale.",
+       "dict_ro": "Mala — la forma intensivă, „a umple, a întregi”; Metzudat Țion: cu sensul de completare. Natan nu repetă cuvintele Bat-Șebei, ci aduce o altă dovadă (1:26): ce spune ea despre Solomon, el spune despre sine."
       },
       {
        "t": ".”"
@@ -17380,7 +17503,10 @@
        "note": "Apropiere strânsă între TM și LXX la acest verset."
       }
      ],
-     "refs": ["1 Împărați 1:17-27", "2 Corinteni 13:1"],
+     "refs": [
+      "1 Împărați 1:17-27",
+      "2 Corinteni 13:1"
+     ],
      "commentaries": [
       {
        "author": "Metzudat David",
@@ -17416,7 +17542,8 @@
        "translit": "vatavo Bat-Șeva el-hameleh hahadra",
        "strong": "H2315",
        "pos": "verb + substantiv propriu + substantiv compus",
-       "def_ro": "a venit Batșeba la rege, în cameră."
+       "def_ro": "a venit Batșeba la rege, în cameră.",
+       "dict_ro": "Heder — „odaia dinăuntru”; hahadra, „în odaie”, adică în odaia de culcare. Metzudat David: ca să nu crezi că a venit să se culce cu el, spune: „regele era foarte bătrân” și Abișag îl slujea. Radak: ca soție, a intrat fără voie în odaie, unde nimeni nu intra fără voie."
       },
       {
        "t": ". Iar "
@@ -17428,7 +17555,8 @@
        "translit": "vehameleh zakēn meod",
        "strong": "H2205",
        "pos": "substantiv + adjectiv + adverb",
-       "def_ro": "și regele era foarte bătrân."
+       "def_ro": "și regele era foarte bătrân.",
+       "dict_ro": "Zaken meod — „foarte bătrân”. Radak: foarte slăbit, căci bătrânețea îl ajunsese înainte de vreme. Repetarea bătrâneții (1:1, 1:15) pregătește urgența: succesiunea trebuie hotărâtă acum."
       },
       {
        "t": " și "
@@ -17440,7 +17568,8 @@
        "translit": "va'Avișag hașunamit meșarat et-hameleh",
        "strong": "H8334",
        "pos": "substantiv propriu + gentilic + verb",
-       "def_ro": "și Abișag șunamita slujea regelui."
+       "def_ro": "și Abișag șunamita slujea regelui.",
+       "dict_ro": "Șarat — „a sluji”; meșarat et hameleh, „slujea regele”. Radak: culcându-se la sânul lui și încălzindu-l; și observă că forma meșarat e scurtată din meșaretet, pentru greutatea a doi tav la rând."
       },
       {
        "t": "."
@@ -17466,6 +17595,10 @@
       {
        "author": "Metzudat David",
        "text": "„În cameră” — în odaia lui de culcare; și ca să nu credem că a venit ca să se culce lângă el, [textul] spune: „iar regele era foarte bătrân”, și căldura firească îl părăsise, până acolo încât Abișag îl slujea în privința încălzirii."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Regele era foarte bătrân” — foarte slăbit, căci bătrânețea îl ajunsese înainte de vreme, cum am explicat. „Îi slujea regelui” — culcându-se la sânul lui și încălzindu-l, și în orice altă slujbă de care avea nevoie; și s-a spus aceasta pentru că Bat-Șeba a intrat în odaie, și deși regele era în taină în patul lui cu Abișag și nimeni altul n-avea voie să intre acolo fără voie, ea, fiind soția lui, a intrat în odaie fără voie."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -17506,7 +17639,8 @@
        "translit": "vatiștahu lameleh",
        "strong": "H7812",
        "pos": "verb, hishtafel imperfect consecutiv + substantiv",
-       "def_ro": "și s-a închinat regelui."
+       "def_ro": "și s-a închinat regelui.",
+       "dict_ro": "Hișthava — „a se prosterna”; vatiștahu lameleh, „s-a închinat regelui”. Metzudat Țion explică vatikod, „s-a plecat”: și-a plecat creștetul capului (kodkod). Talmudul deosebește felurile închinării: kida e plecarea feței la pământ, ca Bat-Șeba (Berahot 34b)."
       },
       {
        "t": " și regele a spus: „"
@@ -17518,7 +17652,8 @@
        "translit": "ma-lah",
        "strong": "H4100",
        "pos": "pronume interogativ + prepoziție",
-       "def_ro": "ce ai [ce dorești]?"
+       "def_ro": "ce ai [ce dorești]?",
+       "dict_ro": "Ma lah — „ce ai?”, întrebarea regelui. Metzudat David: pentru că nu obișnuia să vină la el, a înțeles că are ceva de spus; Radak: sau pentru că a intrat în odaie fără voie, a știut că e un lucru grabnic."
       },
       {
        "t": "?”"
@@ -17539,11 +17674,22 @@
        "note": "Apropiere strânsă între TM și LXX la acest verset."
       }
      ],
-     "refs": ["1 Împărați 1:23", "1 Împărați 2:20", "1 Samuel 20:41", "Estera 7:2", "1 Samuel 24:8", "Matei 20:21,32"],
+     "refs": [
+      "1 Împărați 1:23",
+      "1 Împărați 2:20",
+      "1 Samuel 20:41",
+      "Estera 7:2",
+      "1 Samuel 24:8",
+      "Matei 20:21,32"
+     ],
      "commentaries": [
       {
        "author": "Metzudat Țion",
        "text": "„Vatikod” — și-a plecat creștetul."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Ce ai?” — pentru că nu obișnuia să vină la el, a știut că a venit pentru un lucru, de aceea i-a spus „ce ai?”; sau pentru că a intrat în odaie fără voie, a știut că are un lucru grabnic."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -17571,7 +17717,8 @@
        "translit": "ata nișbata b'ADONAI Eloheha laamateha",
        "strong": "H7650",
        "pos": "pronume + verb, nifal perfect + substantiv propriu + substantiv",
-       "def_ro": "tu ai jurat pe DOMNUL, Dumnezeul tău, slujitoarei tale."
+       "def_ro": "tu ai jurat pe DOMNUL, Dumnezeul tău, slujitoarei tale.",
+       "dict_ro": "Șava — „a jura”; ata nișbata bAdonai Eloheha, „tu ai jurat pe DOMNUL, Dumnezeul tău”. Bat-Șeba adaugă numele lui Dumnezeu, pe care Natan nu-l pusese în gura ei (1:13): jurământul pe Numele Domnului nu poate fi călcat (Numeri 30:2)."
       },
       {
        "t": ", că «"
@@ -17583,7 +17730,8 @@
        "translit": "Șelomo venēh imloh aharai",
        "strong": "H4427",
        "pos": "substantiv propriu + substantiv + verb",
-       "def_ro": "Solomon, fiul tău, va domni după mine."
+       "def_ro": "Solomon, fiul tău, va domni după mine.",
+       "dict_ro": "Malah — „a domni”. Bat-Șeba citează jurământul regelui la persoana întâi („după mine”), cu vorbele lui însuși. Făgăduința se potrivește cu profeția despre Solomon ca om al păcii (1 Cronici 22:9-10)."
       },
       {
        "t": " și el "
@@ -17595,7 +17743,8 @@
        "translit": "vehu iēșēv al-kisi",
        "strong": "H3678",
        "pos": "pronume + verb + substantiv",
-       "def_ro": "și el va ședea pe tronul meu."
+       "def_ro": "și el va ședea pe tronul meu.",
+       "dict_ro": "Kise — „tronul”; vehu ieșev al kisi, „și el va ședea pe tronul meu”. Pronumele „el” (hu) e pus înainte pentru accent: el, și nu altul."
       },
       {
        "t": ".»"
@@ -17648,7 +17797,8 @@
        "translit": "Adoniahu maläh",
        "strong": "H4427",
        "pos": "substantiv propriu + verb, qal perfect",
-       "def_ro": "Adonia a domnit."
+       "def_ro": "Adonia a domnit.",
+       "dict_ro": "Malah — „a domni”; Adoniahu malah, „Adonia a domnit”. Metzudat David: lucrul se face acum, și tu nu știi de el; adică nu te bănuiesc că ai călcat jurământul cu știrea ta. Radak observă că în manuscrisele exacte e scris veata, „și acum”, cu ain, nu cu alef."
       },
       {
        "t": ", "
@@ -17682,11 +17832,20 @@
        "note": "LXX pune fraza finală sub formă de întrebare retorică, spre deosebire de afirmația simplă din TM — o nuanță retorică ușor diferită, fără schimbare de sens general."
       }
      ],
-     "refs": ["1 Împărați 1:5,24", "1 Împărați 1:11,24,27", "2 Samuel 15:10", "Faptele apostolilor 3:17"],
+     "refs": [
+      "1 Împărați 1:5,24",
+      "1 Împărați 1:11,24,27",
+      "2 Samuel 15:10",
+      "Faptele apostolilor 3:17"
+     ],
      "commentaries": [
       {
        "author": "Metzudat David",
        "text": "„Și acum” — lucrul care se petrece acum, iată, tu nu știi despre el; vrea să spună: nu te voi bănui că ai încălcat jurământul, ci lucrul se face cu știrea ta [subînțeles: fără]."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Dar acum, stăpânul meu, regele, nu știe” — mulți copiști au greșit în acest cuvânt și l-au scris cu alef, pentru că e apropiat de înțeles, dar e limpede la noi că e „și acum” (veata), cu ain, după cărțile exacte și după Masora."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -17714,7 +17873,8 @@
        "translit": "vaizbah șor umeri-vețon larov",
        "strong": "H2076",
        "pos": "verb + substantive compuse + adverb",
-       "def_ro": "a jertfit boi și viței îngrășați și oi din belșug."
+       "def_ro": "a jertfit boi și viței îngrășați și oi din belșug.",
+       "dict_ro": "Zavah — „a jertfi”; lerov, „din belșug”. Metzudat David: ea a adus o dovadă, spunând că a făcut ospăț și i-a chemat pe toți fiii regelui, dar pe Solomon nu; dacă ospățul n-ar fi fost pentru domnie, l-ar fi chemat și pe Solomon."
       },
       {
        "t": ", și i-a "
@@ -17726,7 +17886,8 @@
        "translit": "vaikra lehol-benēi hameleh",
        "strong": "H7121",
        "pos": "verb + substantiv compus",
-       "def_ro": "a chemat pe toți fiii regelui."
+       "def_ro": "a chemat pe toți fiii regelui.",
+       "dict_ro": "Kara — „a chema”. Radak: de vreme ce nu l-a chemat pe Solomon la acest ospăț, iar pe ceilalți fii ai regelui i-a chemat, se vede că a făcut jertfa pentru domnie și i-a chemat pe toți cei care îl sprijineau."
       },
       {
        "t": ", și pe "
@@ -17738,7 +17899,8 @@
        "translit": "Eviatar hakohēn uleIoav sar hațava",
        "strong": "H6635",
        "pos": "substantiv compus",
-       "def_ro": "preotul Eviatar și pe Ioav, căpetenia oștirii."
+       "def_ro": "preotul Eviatar și pe Ioav, căpetenia oștirii.",
+       "dict_ro": "Țava — „oștirea”; sar hațava, „căpetenia oștirii”, titlul lui Ioab (2 Samuel 8:16). Prezența preotului și a comandantului la ospăț arată că Adonia avea de partea lui templul și armata."
       },
       {
        "t": "; dar pe "
@@ -17750,7 +17912,8 @@
        "translit": "velișelomo avdeha lo kara",
        "strong": "H5650",
        "pos": "substantiv propriu + substantiv + verb negat",
-       "def_ro": "pe Solomon, slujitorul tău, nu l-a chemat."
+       "def_ro": "pe Solomon, slujitorul tău, nu l-a chemat.",
+       "dict_ro": "Eved — „slujitorul”; avdeha, „slujitorul tău”. Bat-Șeba îl numește pe fiul ei „slujitorul tău”, subliniind că Solomon nu-și ia singur domnia, spre deosebire de Adonia."
       },
       {
        "t": "."
@@ -17771,11 +17934,17 @@
        "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
       }
      ],
-     "refs": ["1 Împărați 1:7-10,25"],
+     "refs": [
+      "1 Împărați 1:7-10,25"
+     ],
      "commentaries": [
       {
        "author": "Metzudat David",
        "text": "A adus dovadă pentru cuvintele ei, spunând că a făcut ospăț și i-a chemat pe toți fiii regelui, iar pe Solomon nu l-a chemat; și dacă ospățul n-ar fi fost pentru chestiunea domniei, l-ar fi chemat și pe Solomon."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Dar pe slujitorul tău Solomon nu l-a chemat” — de vreme ce nu l-a chemat pe Solomon la acest ospăț și i-a chemat pe ceilalți fii ai regelui, se vede că pentru domnie a făcut jertfa aceasta și i-a chemat pe toți cei care îl sprijineau, ca să mănânce cu el."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -17803,7 +17972,8 @@
        "translit": "ēinēi hol-Israēl aleha",
        "strong": "H5869",
        "pos": "substantiv compus + prepoziție",
-       "def_ro": "ochii întregului Israel [sunt] asupra ta."
+       "def_ro": "ochii întregului Israel [sunt] asupra ta.",
+       "dict_ro": "Ain — „ochiul”; einei kol Israel aleha, „ochii întregului Israel [sunt] asupra ta”. Metzudat David: să nu crezi că toți l-au ales pe el și nu le poți face nimic; toți își îndreaptă ochii spre tine, să le spui, și îți vor primi cuvântul. Radak observă că veata e scris aici cu alef, „și tu”."
       },
       {
        "t": ", să le "
@@ -17815,7 +17985,8 @@
        "translit": "lehaghid lahem",
        "strong": "H5046",
        "pos": "verb, hifil infinitiv + prepoziție",
-       "def_ro": "să le vestești."
+       "def_ro": "să le vestești.",
+       "dict_ro": "Nagad — la forma cauzativă, „a vesti”; lehaghid lahem, „să le vestești”. Radak: dacă nu le vei spune înainte să te culci cu părinții tăi, eu și fiul meu Solomon vom fi lipsiți de domnie."
       },
       {
        "t": " "
@@ -17827,7 +17998,8 @@
        "translit": "mi iēșēv al-kisē adoni-hameleh aharav",
        "strong": "H3678",
        "pos": "pronume + verb + substantiv compus",
-       "def_ro": "cine va ședea pe tronul domnului meu, regele, după el."
+       "def_ro": "cine va ședea pe tronul domnului meu, regele, după el.",
+       "dict_ro": "Kise — „tronul”. Întrebarea „cine va ședea pe tron” e întrebarea centrală a capitolului și a cărților Samuel-Împărați; Natan o repetă cu aceleași cuvinte în 1:27."
       },
       {
        "t": "."
@@ -17848,11 +18020,21 @@
        "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
       }
      ],
-     "refs": ["2 Cronici 20:12", "Psalmii 25:15", "1 Cronici 22:8-10", "Psalmii 123:2", "1 Cronici 28:5,6,10"],
+     "refs": [
+      "2 Cronici 20:12",
+      "Psalmii 25:15",
+      "1 Cronici 22:8-10",
+      "Psalmii 123:2",
+      "1 Cronici 28:5,6,10"
+     ],
      "commentaries": [
       {
        "author": "Metzudat David",
        "text": "„Ochii întregului Israel sunt asupra ta” — vrea să spună: și să nu crezi că toți l-au ales pe el și nu-i poți birui; nu-i așa, căci toți își ațintesc ochii spre tine, ca să le spui [cine va domni], și vor primi cuvintele tale."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Iar tu, stăpâne, rege” — acesta e „și tu” scris cu alef, iar cei care îl scriu cu ain greșesc, pentru că înțelesul e mai apropiat. „Să le spui” — căci dacă nu le vei spune înainte să te culci cu părinții tăi, eu și fiul meu Solomon vom fi lipsiți de domnie."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -17880,7 +18062,8 @@
        "translit": "kișhav adoni-hameleh im-avotav",
        "strong": "H7901",
        "pos": "verb, infinitiv + substantiv compus + substantiv",
-       "def_ro": "la culcarea domnului meu, regele, cu părinții lui — eufemism biblic pentru moarte."
+       "def_ro": "la culcarea domnului meu, regele, cu părinții lui — eufemism biblic pentru moarte.",
+       "dict_ro": "Șahav — „a se culca”; kișkav... im avotav, „când se va culca cu părinții lui”, eufemismul biblic pentru moarte, spus despre Iacov (Geneza 47:30) și despre regi. Metzudat David: când se va întâmpla așa, fără să spui cine va domni, vom fi lipsiți din lume."
       },
       {
        "t": ", eu și "
@@ -17892,7 +18075,8 @@
        "translit": "veni Șelomo",
        "strong": "H1121",
        "pos": "substantiv + sufix + substantiv propriu",
-       "def_ro": "fiul meu Solomon."
+       "def_ro": "fiul meu Solomon.",
+       "dict_ro": "Ben — „fiul”; beni Șelomo, „fiul meu Solomon”. Rashi explică „păcătoși” (hataim): lipsiți și opriți de la orice mărire, ca în „[aruncau cu praștia] în fir de păr și nu greșeau (lo iahti)” (Judecători 20:16); Radak, după Targum: „izgoniți” de la domnie."
       },
       {
        "t": " vom fi [priviți] ca "
@@ -17946,6 +18130,10 @@
        "text": "„Și va fi” — vrea să spună: dar de va fi așa, fără să se vestească cine va domni, atunci, la culcarea regelui [cu părinții lui] ș.a.m.d., eu și fiul meu vom fi lipsiți din lume, căci va domni Adonia și va pune mâna pe fiul meu."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Ca păcătoși” — Ionatan traduce „izgoniți”, adică alungați de la domnie; unii explică: dacă fiul meu nu va fi rege, se va vădi asupra noastră un păcat și se va spune că din pricina unui păcat găsit în mine fiul născut din mine n-a avut domnia; iar alții explică că a spus-o către David, dar a vorbit ocolit din cinste pentru el: tu vei fi vinovat în aceasta, dacă nu-l vei face rege pe Solomon, fiul meu, căci mi-ai jurat pe Domnul."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Nu ca și cum ea ar fi socotită adulteră, iar fiul ei nelegitim, cum cred unii, și astfel înfierați și tratați ca atare; ci ca trădători, ridicând pretenții la tron, ea de partea fiului ei, iar el pentru sine, neavând niciun drept la el, fiind fiul mai mic și nedeclarat urmaș de tatăl lui."
       },
@@ -17971,7 +18159,8 @@
        "translit": "odena medaberet im-hameleh",
        "strong": "H1696",
        "pos": "adverb + verb, piel participiu + substantiv",
-       "def_ro": "încă vorbea cu regele."
+       "def_ro": "încă vorbea cu regele.",
+       "dict_ro": "Dabar — „a vorbi”; odena medaberet, „încă vorbea”; Metzudat Țion: odena, de la „încă”. Planul lui Natan (1:14) se împlinește cuvânt cu cuvânt."
       },
       {
        "t": " când "
@@ -17983,7 +18172,8 @@
        "translit": "veNatan hanavi ba",
        "strong": "H5030",
        "pos": "substantiv compus + verb",
-       "def_ro": "și profetul Natan a venit."
+       "def_ro": "și profetul Natan a venit.",
+       "dict_ro": "Navi — „profetul”. Radak: a venit în curte sau în casele din afară, până i-au spus regelui, ca să intre cu voie; iar regele a spus să intre, și așa a făcut."
       },
       {
        "t": "."
@@ -18015,6 +18205,10 @@
        "text": "„Odena” — din rădăcina „încă”."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Când profetul Natan a venit” — în curte sau în casele din afară, până i-au spus regelui, ca să intre cu voie; i-au spus regelui, regele a spus să intre, și așa a făcut, și a intrat înaintea regelui."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Exact pe când își încheia cuvântarea către el, a intrat și profetul Natan, cum promisese că va face; poate stătuse la ușa camerei tot timpul cât vorbea Batșeba, și, văzând că ajunge la sfârșit, a intrat fără nicio ceremonie, cum obișnuia să facă, fiind văzătorul și sfetnicul regelui, un profet care avea acces la rege oricând."
       },
@@ -18040,7 +18234,8 @@
        "translit": "vaiaghidu lameleh",
        "strong": "H5046",
        "pos": "verb, hifil imperfect consecutiv + substantiv",
-       "def_ro": "i-au vestit regelui."
+       "def_ro": "i-au vestit regelui.",
+       "dict_ro": "Nagad — la forma cauzativă, „a vesti”; vaiaghidu lameleh, „i-au vestit regelui”. Protocolul curții: profetul nu intră până nu e anunțat, spre deosebire de Bat-Șeba, soția."
       },
       {
        "t": ", spunând: „Iată, "
@@ -18052,7 +18247,8 @@
        "translit": "Natan hanavi",
        "strong": "H5030",
        "pos": "substantiv propriu + substantiv",
-       "def_ro": "profetul Natan."
+       "def_ro": "profetul Natan.",
+       "dict_ro": "Natan hanavi — „profetul Natan”, anunțat cu titlul lui. Metzudat David: din curte a intrat înaintea lui în casă, după ce regele a poruncit să intre, iar Scriptura a scurtat lucrul de la sine înțeles."
       },
       {
        "t": "!” Și el a "
@@ -18064,7 +18260,8 @@
        "translit": "vaiavo lifnēi hameleh",
        "strong": "H935",
        "pos": "verb + substantiv compus",
-       "def_ro": "a venit înaintea regelui."
+       "def_ro": "a venit înaintea regelui.",
+       "dict_ro": "Bo lifnei — „a veni înaintea cuiva”, a se înfățișa. Aceeași formulă descrie venirea Bat-Șebei (1:28): cei doi apar pe rând înaintea regelui."
       },
       {
        "t": " și s-a "
@@ -18076,7 +18273,8 @@
        "translit": "vaiiștahu lameleh al-apav arța",
        "strong": "H7812",
        "pos": "verb, hishtafel imperfect consecutiv + substantiv + substantiv",
-       "def_ro": "s-a închinat regelui, cu fața [la pământ]."
+       "def_ro": "s-a închinat regelui, cu fața [la pământ].",
+       "dict_ro": "Hișthava — „a se prosterna”; al apav arța, „cu fața la pământ”. Chiar și profetul, care îl mustrase odinioară pe rege (2 Samuel 12:7), îl cinstește acum ca pe unsul Domnului."
       },
       {
        "t": "."
@@ -18097,8 +18295,16 @@
        "note": "Apropiere strânsă între TM și LXX la acest verset."
       }
      ],
-     "refs": ["1 Împărați 1:16", "Romani 13:7", "1 Petru 2:17"],
+     "refs": [
+      "1 Împărați 1:16",
+      "Romani 13:7",
+      "1 Petru 2:17"
+     ],
      "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și el a venit” — din curte a intrat înaintea lui în casă, după ce regele a poruncit să intre înaintea lui, iar Scriptura a scurtat ce se înțelege de la sine."
+      },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Unii dintre cei ce așteptau la ușă, sau erau în cameră: „Iată, profetul Natan” — sau: e în odaie, lucru pe care regele, din pricina neputințelor lui, poate nu-l sesizase. „S-a închinat înaintea regelui cu fața la pământ” — arătându-i același respect, deși zăcea la pat, ca și cum ar fi fost pe tronul lui."
@@ -18138,7 +18344,8 @@
        "translit": "Adoniahu imloh aharai",
        "strong": "H4427",
        "pos": "substantiv propriu + verb + prepoziție",
-       "def_ro": "Adonia va domni după mine."
+       "def_ro": "Adonia va domni după mine.",
+       "dict_ro": "Malah — „a domni”. Rashi și Metzudat David: e o întrebare, cu he-ul întrebării lipsă: „oare tu ai spus...?”. Radak: întrebare de mirare, ca și cum ar spune: se pare că tu i-ai spus să domnească, de vreme ce a jertfit jertfe și a chemat pe cine a vrut."
       },
       {
        "t": " și el "
@@ -18150,7 +18357,8 @@
        "translit": "iēșēv al-kisi",
        "strong": "H3678",
        "pos": "verb + substantiv",
-       "def_ro": "va ședea pe tronul meu."
+       "def_ro": "va ședea pe tronul meu.",
+       "dict_ro": "Kise — „tronul”. Natan folosește exact formula jurământului (1:13), dar cu numele lui Adonia: regele e pus să-și audă propriile cuvinte întoarse."
       },
       {
        "t": "»?"
@@ -18171,7 +18379,10 @@
        "note": "Apropiere strânsă între TM și LXX la acest verset."
       }
      ],
-     "refs": ["1 Împărați 1:14,18", "1 Împărați 1:5,13,17"],
+     "refs": [
+      "1 Împărați 1:14,18",
+      "1 Împărați 1:5,13,17"
+     ],
      "commentaries": [
       {
        "author": "Rashi (1040–1105)",
@@ -18180,6 +18391,10 @@
       {
        "author": "Metzudat David",
        "text": "„Tu” — lipsește litera „he” a întrebării, și e ca și cum ar spune: «oare tu ai spus...?»"
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Ai spus tu oare” — în chip de mirare, adică: se pare că tu i-ai spus să domnească, căci a jertfit jertfe și a chemat pe cine a vrut."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -18220,7 +18435,8 @@
        "translit": "vaizbah șor umeri-vețon larov",
        "strong": "H2076",
        "pos": "verb + substantive compuse",
-       "def_ro": "a jertfit boi și viței îngrășați și oi din belșug."
+       "def_ro": "a jertfit boi și viței îngrășați și oi din belșug.",
+       "dict_ro": "Zavah — „a jertfi”. Rashi: „a coborât azi”, căci cetatea era sus, iar piatra Zohelet jos, în vale. Metzudat David: ospățul acela s-a făcut, desigur, pentru bucuria domniei."
       },
       {
        "t": ", și i-a "
@@ -18232,7 +18448,8 @@
        "translit": "vaikra lehol-benēi hameleh uleșarēi hațava uleEviatar hakohēn",
        "strong": "H7121",
        "pos": "verb + substantive compuse",
-       "def_ro": "a chemat pe toți fiii regelui, și pe căpeteniile oștirii, și pe preotul Eviatar."
+       "def_ro": "a chemat pe toți fiii regelui, și pe căpeteniile oștirii, și pe preotul Eviatar.",
+       "dict_ro": "Kara — „a chema”. Natan adaugă „căpeteniile oștirii” la lista Bat-Șebei, arătând că armata întreagă era pe cale să treacă de partea lui Adonia."
       },
       {
        "t": " și iată, ei "
@@ -18244,7 +18461,8 @@
        "translit": "vehinam ohlim veșotim lefanav",
        "strong": "H398",
        "pos": "verb + verb + prepoziție",
-       "def_ro": "și iată-i mâncând și bând înaintea lui."
+       "def_ro": "și iată-i mâncând și bând înaintea lui.",
+       "dict_ro": "Ahal — „a mânca”; ohlim veșotim, „mâncând și bând”, ospățul încoronării, ca în 1 Cronici 29:22, la încoronarea lui Solomon: „au mâncat și au băut înaintea DOMNULUI”."
       },
       {
        "t": " și spun: «"
@@ -18256,7 +18474,8 @@
        "translit": "iehi hameleh Adoniahu",
        "strong": "H2421",
        "pos": "verb + substantiv compus",
-       "def_ro": "să trăiască regele Adonia."
+       "def_ro": "să trăiască regele Adonia.",
+       "dict_ro": "Haia — „a trăi”; iehi hameleh, „să trăiască regele!”, strigătul încoronării (1 Samuel 10:24). Metzudat David: desigur că au spus „trăiască regele Adonia”."
       },
       {
        "t": "!»"
@@ -18295,6 +18514,10 @@
        "text": "„Căci a coborât azi” ș.a.m.d. — și cu siguranță acel ospăț s-a făcut pentru bucuria domniei. „Și au zis” ș.a.m.d. — vrea să spună: cu siguranță au zis «trăiască regele Adonia»."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Căci a coborât azi” — a coborât azi la Ein-Roghel ca să jertfească."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Din Ierusalim, care era așezat sus, la piatra Zohelet, în Ein-Roghel, care se afla jos, în vale (1 Împărați 1:9). „Și a jertfit boi și viței îngrășați și oi din belșug” — nu ca sacrificiu, ci pentru un ospăț, cu prilejul urcării lui la domnie. „Și a chemat pe toți fiii regelui” — i-a invitat la ospăț."
       }
@@ -18316,7 +18539,8 @@
        "translit": "li ani-avdeha",
        "strong": "H5650",
        "pos": "prepoziție + pronume + substantiv",
-       "def_ro": "pe mine, slujitorul tău."
+       "def_ro": "pe mine, slujitorul tău.",
+       "dict_ro": "Eved — „slujitorul”; li ani avdeha, „pe mine, slujitorul tău”. Metzudat David: a adus dovada că ospățul era pentru domnie, căci i-a chemat pe toți fiii regelui, dar pe noi nu; dacă n-ar fi fost pentru domnie, ne-ar fi chemat și pe noi."
       },
       {
        "t": ", pe "
@@ -18328,7 +18552,8 @@
        "translit": "Țadok hakohēn ule'Venaiahu ven-Iehoiada",
        "strong": "H6659",
        "pos": "substantive compuse",
-       "def_ro": "preotul Țadok și pe Benaia, fiul lui Iehoiada."
+       "def_ro": "preotul Țadok și pe Benaia, fiul lui Iehoiada.",
+       "dict_ro": "Țadok — „cel drept”, preotul fidel lui David; Benaia, căpetenia gărzii. Natan îi numește pe cei care, împreună cu el, n-au fost chemați: profetul, preotul și garda, cei trei stâlpi ai domniei legitime."
       },
       {
        "t": ", și pe "
@@ -18340,7 +18565,8 @@
        "translit": "Șelomo avdeha",
        "strong": "H5650",
        "pos": "substantiv propriu + substantiv",
-       "def_ro": "Solomon, slujitorul tău."
+       "def_ro": "Solomon, slujitorul tău.",
+       "dict_ro": "Eved — „slujitorul”; Șelomo avdeha, „Solomon, slujitorul tău”, aceeași formulă ca a Bat-Șebei (1:19): cele două mărturii se potrivesc."
       },
       {
        "t": " nu [ne-]a "
@@ -18381,6 +18607,14 @@
      ],
      "commentaries": [
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Dar pe mine, care sunt slujitorul tău” — faptul că nu ne-a chemat arată că pentru domnie a făcut jertfa."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Dar pe mine” — a adus dovada că ospățul era pentru bucuria domniei, căci i-a chemat pe toți fiii regelui, dar pe mine nu m-a chemat; iar dacă n-ar fi fost pentru domnie, ne-ar fi chemat și pe noi."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Adică pe el însuși, profetul Natan, care era slujitorul lui David, văzătorul și sfetnicul lui. „Și pe preotul Țadok” — pentru care David avea mare respect. „Și pe Benaia, fiul lui Iehoiada” — care era căpetenia gărzii lui personale; aici Natan observă mai mult decât spusese Batșeba, și întregește ce ea omisese, așa cum promisese (1 Împărați 1:14). „Și pe slujitorul tău Solomon nu l-a chemat” — ceea ce arăta limpede intenția lui rea."
       },
@@ -18410,7 +18644,8 @@
        "translit": "mēēt adoni hameleh nihia hadavar haze",
        "strong": "H1697",
        "pos": "prepoziție + substantiv compus + verb + substantiv",
-       "def_ro": "dacă de la domnul meu, regele, s-a întâmplat lucrul acesta."
+       "def_ro": "dacă de la domnul meu, regele, s-a întâmplat lucrul acesta.",
+       "dict_ro": "Davar — „lucrul”; nihia hadavar haze, „s-a făcut lucrul acesta”. Metzudat David: dacă domnia lui Adonia e din porunca ta, mă mir de ce nu mi-ai făcut cunoscut. Radak: avdeha e scris cu iod, adică „slujitorilor tăi”: mie și celorlalți slujitori credincioși ai tăi."
       },
       {
        "t": ", nu i-ai fi "
@@ -18435,7 +18670,8 @@
        "translit": "mi iēșēv al-kisē adoni-hameleh aharav",
        "strong": "H3678",
        "pos": "pronume + verb + substantiv compus",
-       "def_ro": "cine va ședea pe tronul domnului meu, regele, după el?"
+       "def_ro": "cine va ședea pe tronul domnului meu, regele, după el?",
+       "dict_ro": "Kise — „tronul”. Natan încheie cu aceeași întrebare ca Bat-Șeba (1:20): cele două discursuri se sprijină și se întregesc, cum plănuise el (1:14)."
       },
       {
        "t": "?”"
@@ -18456,11 +18692,19 @@
        "note": "LXX urmează forma singulară „slujitorului tău” — consecventă cu forma scrisă (ktiv) din TM, nu cu forma citită (kri)."
       }
      ],
-     "refs": ["1 Împărați 1:24", "2 Împărați 4:27", "Ioan 15:15"],
+     "refs": [
+      "1 Împărați 1:24",
+      "2 Împărați 4:27",
+      "Ioan 15:15"
+     ],
      "commentaries": [
       {
        "author": "Metzudat David",
        "text": "„Dacă de la domnul meu” ș.a.m.d. — dacă încoronarea lui Adonia se face din porunca ta, mă mir de ce nu m-ai înștiințat cine va sta [pe tron] ș.a.m.d."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și nu i-ai vestit slujitorului tău” — mă mir: dacă lucrul acesta s-a făcut de la tine, cum de nu mi-ai făcut cunoscut înainte să-l faci rege? E scris „slujitorilor tăi” cu iod, adică mie și celorlalți slujitori credincioși ai tăi."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -18488,7 +18732,8 @@
        "translit": "vaiaan hameleh David",
        "strong": "H6030",
        "pos": "verb, qal imperfect consecutiv + substantiv compus",
-       "def_ro": "a răspuns regele David."
+       "def_ro": "a răspuns regele David.",
+       "dict_ro": "Ana — „a răspunde”; vaiaan hameleh David, „a răspuns regele David”. Regele, care până acum fusese tăcut și slăbit, răspunde hotărât."
       },
       {
        "t": " și a spus: „"
@@ -18500,7 +18745,8 @@
        "translit": "kiru-li leVat-Șeva",
        "strong": "H7121",
        "pos": "verb, qal imperativ + substantiv propriu",
-       "def_ro": "chemați-mi-o pe Batșeba."
+       "def_ro": "chemați-mi-o pe Batșeba.",
+       "dict_ro": "Kara — „a chema”; kiru li leVat-Șeva, „chemați-mi-o pe Bat-Șeba”. Radak: nu ieșise din odaie, ci se îndepărtase puțin cât vorbea Natan; Metzudat David: voia să-i dea ei răspunsul, căci lucrul o privea, iar ea se îndepărtase ca regele să nu simtă că venise la sfatul lui Natan."
       },
       {
        "t": ".” Ea a "
@@ -18512,7 +18758,8 @@
        "translit": "vatavo lifnēi hameleh",
        "strong": "H935",
        "pos": "verb + substantiv compus",
-       "def_ro": "a venit înaintea regelui."
+       "def_ro": "a venit înaintea regelui.",
+       "dict_ro": "Bo lifnei — „a veni înaintea”. Bat-Șeba se întoarce înaintea regelui ca să primească jurământul reînnoit."
       },
       {
        "t": " și a "
@@ -18524,7 +18771,8 @@
        "translit": "vataamod lifnēi hameleh",
        "strong": "H5975",
        "pos": "verb + substantiv compus",
-       "def_ro": "a stat înaintea regelui."
+       "def_ro": "a stat înaintea regelui.",
+       "dict_ro": "Amad lifnei — „a sta înaintea”. Metzudat Țion explică tahtai din 1:30: „în locul meu”."
       },
       {
        "t": "."
@@ -18552,6 +18800,10 @@
        "text": "„Chemați-mi-o pe Batșeba” — căci voia să-i dea răspunsul, de vreme ce lucrul o privea direct pe ea; și fiindcă ea se depărtase din preajma lui la venirea lui Natan, ca nu cumva regele să simtă că venise [Natan] la sfatul ei, de aceea a poruncit s-o cheme înapoi la el."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Aduceți-o pe Batșeba la mine” — nu ieșise din odaie, ci se îndepărtase puțin de el cât vorbea Natan cu el; de aceea a spus „chemați-mi-o”. Iar midrașul care spune că a chemat-o ca să arate lui Abișag că, dacă nu s-a culcat cu ea, era pentru că îi era oprită, nu pentru că n-ar fi putut, e foarte departe."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Băgând de seamă că Natan confirma cele istorisite de Batșeba, și că trebuia să fie un fapt real că Adonia uzurpase tronul, a dat porunci celor din preajma lui, spunând: „Chemați-mi-o pe Batșeba” — care fie ieșise din odaie când intrase Natan, fie se retrăsese într-o parte îndepărtată a ei, departe de privirea lui David."
       },
@@ -18577,7 +18829,8 @@
        "translit": "vaișava",
        "strong": "H7650",
        "pos": "verb, nifal imperfect consecutiv",
-       "def_ro": "a jurat."
+       "def_ro": "a jurat.",
+       "dict_ro": "Șava — la forma pasivă, „a jura”; vaișava, „a jurat”. Regele reînnoiește jurământul vechi cu un jurământ nou, rostit acum, în fața martorilor."
       },
       {
        "t": " și a spus: „"
@@ -18589,7 +18842,8 @@
        "translit": "hai-ADONAI",
        "strong": "H2416",
        "pos": "adjectiv + substantiv propriu",
-       "def_ro": "viu este DOMNUL — formulă solemnă de jurământ."
+       "def_ro": "viu este DOMNUL — formulă solemnă de jurământ.",
+       "dict_ro": "Hai Adonai — „viu e DOMNUL”, formula jurământului. David o rostise și altă dată în momente hotărâtoare (1 Samuel 26:10; 2 Samuel 4:9)."
       },
       {
        "t": ", "
@@ -18601,7 +18855,8 @@
        "translit": "așer-pada et-nafși",
        "strong": "H6299",
        "pos": "pronume relativ + verb, qal perfect + substantiv",
-       "def_ro": "Care mi-a răscumpărat sufletul."
+       "def_ro": "Care mi-a răscumpărat sufletul.",
+       "dict_ro": "Pada — „a răscumpăra”; așer pada et nafși, „care mi-a răscumpărat sufletul din orice necaz”, aceleași cuvinte pe care David le spusese la moartea lui Iș-Boșet (2 Samuel 4:9). Mărturisirea vieții sale întregi devine temeiul jurământului."
       },
       {
        "t": " din "
@@ -18674,7 +18929,8 @@
        "translit": "nișbati lah b'ADONAI Elohēi Israēl",
        "strong": "H7650",
        "pos": "verb, nifal perfect + substantiv propriu compus",
-       "def_ro": "ți-am jurat pe DOMNUL, Dumnezeul lui Israel."
+       "def_ro": "ți-am jurat pe DOMNUL, Dumnezeul lui Israel.",
+       "dict_ro": "Șava — „a jura”; Elohei Israel, „Dumnezeul lui Israel”. Metzudat David: cum ți-am jurat odinioară să-l fac rege după moartea mea, așa voi face astăzi, să-l fac rege îndată, în viața mea."
       },
       {
        "t": ", spunând: «"
@@ -18686,7 +18942,8 @@
        "translit": "Șelomo venēh imloh aharai",
        "strong": "H4427",
        "pos": "substantiv propriu + substantiv + verb",
-       "def_ro": "Solomon, fiul tău, va domni după mine."
+       "def_ro": "Solomon, fiul tău, va domni după mine.",
+       "dict_ro": "Malah — „a domni”. Jurământul e repetat pentru a patra oară în capitol, acum de rege însuși, cu toate cuvintele lui."
       },
       {
        "t": " și va sta pe "
@@ -18698,7 +18955,8 @@
        "translit": "kisi tahtai",
        "strong": "H3678",
        "pos": "substantiv + prepoziție",
-       "def_ro": "tronul meu, în locul meu."
+       "def_ro": "tronul meu, în locul meu.",
+       "dict_ro": "Tahat — „sub, în locul”; tahtai, „în locul meu”; Metzudat Țion: în locul meu. Adaosul „în locul meu” arată că Solomon va fi rege încă din viața lui David, nu doar după moartea lui."
       },
       {
        "t": "», așa voi "
@@ -18766,7 +19024,8 @@
        "translit": "vatikod Bat-Șeva apaim ereț",
        "strong": "H6915",
        "pos": "verb + substantiv propriu + substantiv + substantiv",
-       "def_ro": "și-a plecat Batșeba fața la pământ."
+       "def_ro": "și-a plecat Batșeba fața la pământ.",
+       "dict_ro": "Kadad — „a se pleca”; vatikod, „s-a plecat”. Talmudul definește: kida e plecarea cu fața la pământ, cum s-a spus „și Bat-Șeba s-a plecat cu fața la pământ”; keria e îngenuncherea, iar hișthavaia, întinderea mâinilor și picioarelor (Berahot 34b)."
       },
       {
        "t": " și s-a "
@@ -18778,7 +19037,8 @@
        "translit": "vatiștahu lameleh",
        "strong": "H7812",
        "pos": "verb, hishtafel imperfect consecutiv + substantiv",
-       "def_ro": "și s-a închinat regelui."
+       "def_ro": "și s-a închinat regelui.",
+       "dict_ro": "Hișthava — „a se prosterna”; vatiștahu lameleh. Radak explică „să trăiască pe vecie”: viața sufletului în lumea ce va să vină, căci în lumea aceasta regele era aproape de moarte; Metzudat David, la fel: viața sufletelor."
       },
       {
        "t": " și a spus: „Fie ca "
@@ -18824,6 +19084,14 @@
       {
        "author": "Metzudat David",
        "text": "„Trăiască domnul meu” — vrea să spună: prin viața sufletelor, și aceasta e ce vrea să spună [prin] „în veac”."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Să trăiască veșnic” — explicația: viața sufletului în lumea ce va să vină, căci în lumea aceasta era aproape de moarte; și așa traduce Ionatan „să dăinuiască”, pe când toate celelalte „să trăiască regele” le traduce „să propășească”."
+      },
+      {
+       "author": "Talmud Bavli, Berahot 34b",
+       "text": "Au învățat Înțelepții: kida — pe față, căci s-a spus: „Și Batșeba s-a înclinat (vatikod) cu fața la pământ”; keria — pe genunchi, căci s-a spus „din îngenunchere pe genunchii lui”; hișthavaia — întinderea mâinilor și a picioarelor, căci s-a spus „vom veni eu și mama ta și frații tăi să ne închinăm până la pământ înaintea ta”."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
