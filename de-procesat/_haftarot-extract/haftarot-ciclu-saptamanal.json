@@ -31636,7 +31636,8 @@
        "translit": "uhetov alav l'Ihuda velivnēi Israēl havērav",
        "strong": "H3063",
        "pos": "verb + substantiv propriu + substantiv + substantiv",
-       "def_ro": "și scrie pe el: pentru Iuda și fiii lui Israel, tovarășii lui."
+       "def_ro": "și scrie pe el: pentru Iuda și fiii lui Israel, tovarășii lui.",
+       "dict_ro": "Iehuda — Iuda, seminția regală a lui David, care a dat numele regatului de sud după împărțirea din 1 Împărați 12; haver, „tovarășul”, de la havar, „a se uni”. Radak și Metzudat David: „tovarășii lui” sunt seminția lui Beniamin, care a rămas mereu cu Iuda, chiar după împărțirea regatului (1 Împărați 12:21). Haftara se citește la pericopa Vaigaș, unde Iuda se apropie de Iosif (Geneza 44:18), iar aici bețele lui Iuda și ale lui Iosif se fac unul."
       },
       {
        "t": ". Și ia apoi [încă] "
@@ -31648,7 +31649,8 @@
        "translit": "velakah ētz ehad uhetov alav",
        "strong": "H3947",
        "pos": "verb + substantiv + numeral + verb",
-       "def_ro": "și ia un lemn și scrie pe el."
+       "def_ro": "și ia un lemn și scrie pe el.",
+       "dict_ro": "Eț — „lemnul, bățul”, iar Targumul îl traduce „tăbliță” (luha); Metzudat Țion la 37:19: e un toiag de domnie, iar pentru că a făcut pilda cu lemn, a folosit cuvântul „lemn”. Rashi: acesta e pentru Iosif, lemnul lui Efraim și al celorlalte nouă seminții care l-au urmat pe Ieroboam, care era din seminția lui Efraim. Semnul profetic prin care profetul face cu mâinile ceea ce vestește e obișnuit la Ezechiel (Ezechiel 4-5; 12)."
       },
       {
        "t": ": «Pentru Iosef, lemnul lui Efraim, și toată casa lui Israel, tovarășii săi»",
@@ -31696,6 +31698,10 @@
        "text": "„Un lemn” — o bucată de lemn. „Pentru Iuda și pentru copiii lui Israel, tovarășii săi” — cuvintele acestea scrie pe el, ca și cum ar spune: lemnul acela închipuie pe Iuda și pe fiii lui Israel, tovarășii lui, care sunt fiii lui Beniamin, ce s-au alipit la el ca să fie o singură împărăție. „Și ia un lemn” — și mai ia încă un lemn și scrie pe el: pentru Iosef, adică Efraim etc., ca și cum ar spune: pe Iosef îl închipuie lemnul acela, iar el e Efraim, venit din Iosef, căci împărăția lui Israel se numește după numele lui, pentru că primul rege peste ei a fost Ieroboam, venit din Efraim, și lemnul acela îl închipuie pe el și pe celelalte triburi care s-au alipit cu el, ca să fie sub stăpânirea lui."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Pentru Iuda și pentru copiii lui Israel, tovarășii săi” — seminția lui Beniamin, care a fost mereu cu seminția lui Iuda, chiar după ce s-a împărțit regatul; „tovarășul lui” e scris [la singular], căci era o singură seminție. „Pentru Iosef, lemnul lui Efraim” — pentru că, în vremea când s-a împărțit regatul, a domnit Ieroboam, care era din seminția lui Efraim, cele zece seminții s-au numit după Efraim. „Și toată casa lui Israel, tovarășii săi” — e scris „tovarășul lui” la singular, ca un întreg, cum spune „casa lui Iacov”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Mai mult, tu, fiul omului, ia-ți un lemn — sau «un băț»; un băț de lemn; sau o tăbliță, cum spune Targumul; o scândură sau o placă. Versiunea Septuagintei îl redă «un toiag»; și tot așa versiunea arabă; o închipuire a unei împărății sau stăpâniri, cum era aceasta: și scrie pe el — cuvintele ce urmează: pentru Iuda și pentru copiii lui Israel, tovarășii lui — pentru tribul lui Iuda și tribul lui Beniamin, care s-au ținut împreună, și pentru toți câți dintre celelalte triburi li s-au alăturat lor."
       },
@@ -31721,7 +31727,8 @@
        "translit": "vekarav otam ehad el-ehad leha leētz ehad",
        "strong": "H7126",
        "pos": "verb + pronume + numeral + numeral + substantiv + numeral",
-       "def_ro": "și apropie-le, unul lângă altul, pentru tine, spre un singur lemn."
+       "def_ro": "și apropie-le, unul lângă altul, pentru tine, spre un singur lemn.",
+       "dict_ro": "Karav — „a se apropia”, la forma intensivă kerav, „a apropia”; Radak observă forma de poruncă. Metzudat David: când vor fi încă în mâna ta, se vor uni printr-o minune și se vor face cu adevărat o singură bucată; Radak: le vei ține împreună ca și cum ar fi un singur lemn, semn că regatul lui Israel va fi unul, iar tatăl lui tâlcuia că s-au lipit printr-o minune. Rashi: le voi uni, ca să fie un singur lemn în mâna ta."
       },
       {
        "t": ", și "
@@ -31755,7 +31762,13 @@
        "note": "LXX adaugă explicit „ca să le legi” (τοῦ δῆσαι), o precizare a gestului fizic concret absentă din TM."
       }
      ],
-     "refs": ["Ezechiel 37:22-24", "Isaia 11:13", "Ieremia 50:4", "Osea 1:11", "Țefania 3:9"],
+     "refs": [
+      "Ezechiel 37:22-24",
+      "Isaia 11:13",
+      "Ieremia 50:4",
+      "Osea 1:11",
+      "Țefania 3:9"
+     ],
      "commentaries": [
       {
        "author": "Rashi (1040–1105)",
@@ -31764,6 +31777,10 @@
       {
        "author": "Metzudat David",
        "text": "„Și apropie-le” — apropie lemnele unul de altul, ca să-ți pară ca și cum ar fi o bucată de lemn. „Și vor fi unite în mâna ta” — când vor fi încă în mâna ta, se vor uni printr-o minune și vor deveni cu adevărat o singură bucată."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Apropie-le” — e o poruncă. „Precum un singur lemn” — după ce vei lua două lemne și vei scrie pe fiecare un nume deosebit, semn al regatului lui Israel care s-a împărțit, apoi le vei apropia unul de altul și amândouă vor fi în mâna ta împreună, ca și cum ar fi un singur lemn. „Și ele vor fi unite în mâna ta” — cele două vor fi în mâna ta ca una, semn că regatul lui Israel va fi unul. Tatăl meu, de binecuvântată amintire, a tâlcuit că i-a spus să apropie cele două lemne, iar ele s-au unit și s-au făcut un singur lemn printr-o minune; iar Ionatan traduce „lemn” în toată pericopa aceasta prin „tăbliță”, iar „lemnul lui Iosif” prin „seminția lui Iosif”."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -31801,7 +31818,8 @@
        "translit": "halo-taghid lanu ma-ēle lah",
        "strong": "H5046",
        "pos": "particulă interogativă + verb + pronume + pronume + pronume",
-       "def_ro": "oare nu ne vei spune ce sunt acestea pentru tine?"
+       "def_ro": "oare nu ne vei spune ce sunt acestea pentru tine?",
+       "dict_ro": "Naghad — „a arăta, a vesti”, la forma cauzativă higid, „a spune, a lămuri”. Aceeași întrebare o pun oamenii și la alt semn al lui Ezechiel: „Nu ne vei spune ce înseamnă pentru noi ce faci?” (Ezechiel 24:19); semnul e făcut tocmai ca să stârnească întrebarea. Metzudat David: se cuvine să ne spui la ce faci aluzie prin aceasta."
       }
      ],
      "textCompare": [
@@ -31819,8 +31837,21 @@
        "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
       }
      ],
-     "refs": ["Ezechiel 12:9", "Ezechiel 17:12", "Ezechiel 20:49", "Ezechiel 24:19"],
+     "refs": [
+      "Ezechiel 12:9",
+      "Ezechiel 17:12",
+      "Ezechiel 20:49",
+      "Ezechiel 24:19"
+     ],
      "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Oare nu ne vei deslusi” — adică se cuvine să ne spui de ce ai aceste [lemne] și la ce faci aluzie prin ele."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și atunci când copiii poporului tău îți vor spune” — cum i-a spus să scrie înaintea ochilor lor, iar ei îl vor întreba ce e pilda."
+      },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și când copiii poporului tău îți vor vorbi, zicând — copiii lui Israel și Iuda din captivitate, poporul din care făcea parte Ezechiel și la care fusese trimis ca profet; care, văzându-l luând două bețe, scriind pe ele, și apoi unindu-le, ar fi pus firesc o asemenea întrebare: «nu ne vei arăta ce înțelegi prin acestea?» — căci ar fi tras concluzia că avea vreun înțeles în aceasta, și că nu era o simplă joacă și distracție copilărească."
@@ -31844,7 +31875,8 @@
        "translit": "dabēr alēhem ko-amar Adonai ELOHIM",
        "strong": "H1696",
        "pos": "verb + pronume + verb + substantiv + substantiv propriu",
-       "def_ro": "vorbește-le: așa a spus Stăpânul DOMN."
+       "def_ro": "vorbește-le: așa a spus Stăpânul DOMN.",
+       "dict_ro": "Adonai — „Stăpânul”, urmat de Numele de patru litere, citit Elohim; e titlul cel mai des folosit de Ezechiel în formula „așa vorbește Stăpânul DOMN”. Diber, „a vorbi”, la porunca daber, „vorbește”. Profetul nu explică semnul de la el, ci dă cuvântul lui Dumnezeu."
       },
       {
        "t": ": „Iată, Eu iau "
@@ -31866,7 +31898,8 @@
        "translit": "venatati otam alav et-ētz Iehuda",
        "strong": "H5414",
        "pos": "verb + pronume + prepoziție + substantiv propriu",
-       "def_ro": "și le voi da pe ele peste el, lemnul lui Iuda."
+       "def_ro": "și le voi da pe ele peste el, lemnul lui Iuda.",
+       "dict_ro": "Natan — „a da, a pune”; venatati otam alav, „le voi pune lângă el”. Metzudat Țion și Radak: alav înseamnă „împreună cu el”, iar et, „cu”. Metzudat David: voi lua și semințiile lui Israel care s-au unit cu Efraim și le voi pune împreună cu Iuda, și le voi face o singură seminție de domnie. Isaia a vestit aceeași unire: „Efraim nu va mai pizmui pe Iuda, și Iuda nu va mai asupri pe Efraim” (Isaia 11:13)."
       },
       {
        "t": ", și le voi face să fie un singur lemn și ele vor fi una în mâna Mea.”»",
@@ -31875,7 +31908,8 @@
        "translit": "vaasitim leētz ehad vehaiu ehad beiadi",
        "strong": "H6213",
        "pos": "verb + substantiv + numeral + verb + numeral + substantiv",
-       "def_ro": "și le voi face un singur lemn, și vor fi una în mâna Mea."
+       "def_ro": "și le voi face un singur lemn, și vor fi una în mâna Mea.",
+       "dict_ro": "Ehad — „unul”, cuvântul-cheie al pasajului, repetat de unsprezece ori în versetele 16-24: un lemn, un neam, un rege, un păstor. „În mâna Mea” răspunde lui „în mâna ta” din 37:17: ce face profetul cu mâinile e semnul a ce va face Dumnezeu. Radak: Targumul traduce „voi face din ei un singur popor”."
       }
      ],
      "textCompare": [
@@ -31909,6 +31943,14 @@
        "text": "„Lemnul lui Iosef” — adică tribul împărăției lui Iosef, care e în mâna lui Efraim. „Și triburile lui Israel, tovarășii săi” — adică voi lua și triburile lui Israel care s-au alipit cu el, și-i voi da peste el — adică peste Efraim îi voi da, să fie un trib al împărăției lui Iuda, și-i voi face un singur trib al unei singure împărății, și așa se va împlini lucrul prin mâna Mea cea tare."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și le voi așeza împreună, peste lemnul lui Iuda” — voi pune semințiile lui Israel împreună cu seminția lui Efraim cu lemnul lui Iuda; „peste el” înseamnă „împreună cu el”, iar „lemnul” înseamnă „cu lemnul”."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Lemnul” — adică toiagul domniei; și pentru că a făcut pilda cu lemn, a folosit cuvântul „lemn”. „Peste el” — adică împreună cu el, lângă el. „Et” — [înseamnă] „cu”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Spune-le, așa zice Domnul DUMNEZEU — aici urmează lămurirea semnului sau a închipuirii: iată, voi lua lemnul lui Iosef, care e în mâna lui Efraim, și triburile lui Israel, tovarășii lui — adică regatul lui Israel, alcătuit din cele zece triburi, dintre care Efraim era cel dintâi: și-i voi așeza cu el, chiar cu lemnul lui Iuda — cu regatul lui Iuda: și-i voi face un singur lemn — cele două regate, un singur regat: și vor fi una în mâna Mea — în Hristos, mâna și brațul DOMNULUI; una sub grija, cârmuirea și ocrotirea Lui, cum se lămurește mai departe."
       },
@@ -31934,7 +31976,8 @@
        "translit": "vehaiu haētzim așer-tihtov alēhem beiadha",
        "strong": "H6086",
        "pos": "verb + substantiv + pronume relativ + verb + substantiv",
-       "def_ro": "și lemnele pe care vei scrie pe ele vor fi în mâna ta."
+       "def_ro": "și lemnele pe care vei scrie pe ele vor fi în mâna ta.",
+       "dict_ro": "Eț — „lemnul”, la plural ețim, „lemnele”. Metzudat David: lemnele pe care vei scrie aceste cuvinte le vei ține în mână înaintea lor. Semnul trebuie văzut „sub ochii lor”, căci profeția lui Ezechiel e adesea făcută pentru ochi, nu doar pentru urechi."
       },
       {
        "t": ", sub ochii lor",
@@ -31965,7 +32008,11 @@
        "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
       }
      ],
-     "refs": ["Ezechiel 12:3", "Numeri 17:6-9", "Osea 12:10"],
+     "refs": [
+      "Ezechiel 12:3",
+      "Numeri 17:6-9",
+      "Osea 12:10"
+     ],
      "commentaries": [
       {
        "author": "Metzudat David",
@@ -31990,7 +32037,8 @@
        "translit": "vedabēr alēhem ko-amar Adonai ELOHIM",
        "strong": "H1696",
        "pos": "verb + pronume + verb + substantiv + substantiv propriu",
-       "def_ro": "și vorbește-le: așa a spus Stăpânul DOMN."
+       "def_ro": "și vorbește-le: așa a spus Stăpânul DOMN.",
+       "dict_ro": "Diber — „a vorbi”; vedaber aleihem, „și vorbește-le”. Metzudat David: în vreme ce ții lemnele în mână, să le vorbești: așa vorbește DOMNUL. A doua parte a profeției trece de la semn la tâlcuirea lui: adunarea din exil, unirea și întoarcerea în țară."
       },
       {
        "t": ": „Iată, Eu îi iau "
@@ -32015,7 +32063,8 @@
        "translit": "vekibatzti otam misaviv",
        "strong": "H6908",
        "pos": "verb + pronume + adverb",
-       "def_ro": "și-i voi aduna de jur împrejur."
+       "def_ro": "și-i voi aduna de jur împrejur.",
+       "dict_ro": "Kibbeț — „a aduna”, verbul strângerii exilaților, ca în făgăduința lui Moise: „te va strânge iarăși din mijlocul tuturor popoarelor” (Deuteronom 30:3), și în Isaia 11:12: „va strânge pe cei risipiți ai lui Iuda din cele patru colțuri ale pământului”. De la acest verb vine numele rugăciunii pentru „adunarea exilaților” (kibbuț galuiot)."
       },
       {
        "t": ", și "
@@ -32027,7 +32076,8 @@
        "translit": "veheveti otam el-admatam",
        "strong": "H127",
        "pos": "verb + pronume + substantiv",
-       "def_ro": "și-i voi aduce pe pământul lor."
+       "def_ro": "și-i voi aduce pe pământul lor.",
+       "dict_ro": "Adama — „pământul, țărâna”; admatam, „pământul lor”. Ezechiel spusese la fel în capitolul precedent: „vă voi aduna din toate țările și vă voi aduce în țara voastră” (Ezechiel 36:24). Pământul e numit „al lor”, căci le-a fost dat ca moștenire părinților."
       },
       {
        "t": "."
@@ -32057,6 +32107,10 @@
       "Isaia 27:12,13"
      ],
      "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și apoi vorbește-le” — în vreme ce ții lemnele acelea în mână, să le spui: așa vorbește DOMNUL."
+      },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și spune-le, așa zice Domnul DUMNEZEU — sau, cum spune Targumul, «vei profeți către ei»; căci ceea ce urmează e o profeție despre ce se va întâmpla în zilele din urmă: iată, voi lua pe copiii lui Israel din mijlocul neamurilor, unde s-au dus — nu doar caldeenii, unde au fost duși captivi; ci din mijlocul neamurilor unde sunt acum împrăștiați, și printre care umblă liber, din propria lor voință, din loc în loc, de dragul negoțului."
@@ -32096,7 +32150,8 @@
        "translit": "umeleh ehad ihiē lehulam lemeleh",
        "strong": "H4428",
        "pos": "substantiv + numeral + verb + pronume + substantiv",
-       "def_ro": "și un rege va fi pentru toți ca rege."
+       "def_ro": "și un rege va fi pentru toți ca rege.",
+       "dict_ro": "Meleh — „regele”. De la împărțirea regatului după moartea lui Solomon (1 Împărați 12), Israel și Iuda au avut regi deosebiți, adesea în război unul cu altul. Metzudat David (la 37:24): cele zece seminții nu-și vor mai pune rege deosebit. Osea vestise la fel: „copiii lui Iuda și copiii lui Israel se vor strânge împreună și își vor pune o singură căpetenie” (Osea 1:11)."
       },
       {
        "t": ", și "
@@ -32108,7 +32163,8 @@
        "translit": "velo ihiu-od lișnēi goim velo iehatzu od liștēi mamlahot od",
        "strong": "H2673",
        "pos": "negație + verb + substantiv + negație + verb + substantiv",
-       "def_ro": "și nu vor mai fi în două neamuri, și nu vor mai fi despărțiți în două regate."
+       "def_ro": "și nu vor mai fi în două neamuri, și nu vor mai fi despărțiți în două regate.",
+       "dict_ro": "Hațah — „a împărți în două”, de la hați, „jumătatea”; Metzudat Țion: ca în „va fi împărțit în cele patru vânturi ale cerului” (Daniel 11:4). Mamlaha, „regatul”. Metzudat David: când vor fi în țară, pe munții lui Israel, îi voi face un singur neam, și nu vor mai fi împărțiți, Iuda un popor deosebit și cele zece seminții alt popor; și „nu vor mai” înseamnă niciodată."
       },
       {
        "t": "."
@@ -32143,6 +32199,10 @@
        "text": "„Într-un singur neam pe pământ” — când vor fi în țară, și se întoarce să lămurească: în munții Israelului, acolo îi voi face un singur neam, și nu vor mai fi împărțiți în două, ca Iuda să fie popor aparte și cele zece triburi popor aparte. „Și nu vor mai fi despărțiți etc.” — repetiție de idee cu ceea ce s-a spus. „Iarăși” — adică pe veci."
       },
       {
+       "author": "Metzudat Țion",
+       "text": "„Vor fi împărțiți” (iehațu) — cu sensul de împărțire, ca în „va fi împărțit în cele patru vânturi” (Daniel 11:4)."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și-i voi face un singur neam pe pământ, pe munții lui Israel — cum au fost în vremea lui David și a lui Solomon, care amândoi au fost tipuri ale lui Mesia; și la vremea lor se raportează această profeție, potrivit vechilor evrei, ca urmând să-și aibă atunci împlinirea: și un singur rege va fi rege pentru toți — nu Zorobabel, nici Neemia, nici Iuda Macabeul; căci niciunul dintre aceștia n-a fost rege; cu atât mai puțin unul care să domnească pe veci, cum se spune că va domni acest rege (Ezechiel 37:25); mai mult, se spune limpede că el este David, adică Mesia, fiul lui David."
       },
@@ -32165,7 +32225,8 @@
        "translit": "velo itameu od begiulēhem uveșikutzēhem uvehol piș'ēhem",
        "strong": "H1544",
        "pos": "negație + verb + substantiv + substantiv + substantiv",
-       "def_ro": "și nu se vor mai pângări cu idolii lor și cu scârboșeniile lor și cu toate fărădelegile lor."
+       "def_ro": "și nu se vor mai pângări cu idolii lor și cu scârboșeniile lor și cu toate fărădelegile lor.",
+       "dict_ro": "Ghilulim — „idolii”, cuvânt disprețuitor folosit de Ezechiel mai des decât de orice altă carte; șikuț, „scârboșenia”, de la șakaț, „a urî”; Metzudat Țion: de la șekeț, „scârbă”. Radak: itameu, „se vor pângări”, e o formă reflexivă, în loc de itaameu. Metzudat David: nu se vor mai pângări cu idolii și cu celelalte păcate cu care s-au pângărit în Babilon."
       },
       {
        "t": ". Și "
@@ -32190,7 +32251,8 @@
        "translit": "vetihareti otam vehaiu-li leam vaani ehiē lahem lēlohim",
        "strong": "H2891",
        "pos": "verb + pronume + verb + substantiv + pronume + verb + substantiv",
-       "def_ro": "și-i voi curăți, și-Mi vor fi popor, iar Eu le voi fi Dumnezeu."
+       "def_ro": "și-i voi curăți, și-Mi vor fi popor, iar Eu le voi fi Dumnezeu.",
+       "dict_ro": "Tihar — „a curăți”, la forma intensivă, verbul curățirii rituale și morale; Ezechiel 36:25: „vă voi curăți de toate necurățiile voastre și de toți idolii voștri”. Formula „vor fi poporul Meu și Eu voi fi Dumnezeul lor” e formula legământului (Levitic 26:12; Ieremia 31:33). Metzudat David: îi voi scoate de acolo, îi voi întoarce la credința lui Israel și îi voi curăți de necurăția nelegiuirii lor, căci le voi ierta."
       },
       {
        "t": "."
@@ -32223,6 +32285,14 @@
       {
        "author": "Metzudat David",
        "text": "„Nu se vor mai pângări” — nu vor mai fi pângăriți cu idolatria și cu celelalte fărădelegi cu care s-au pângărit fiind în Babilon. „Și-i voi mântui” — căci mulți dintre ei s-au pângărit printre babilonieni, în locul locuinței lor din vremea exilului, și au făcut rău ca ei; și de aceea spune: îi voi mântui, ca să-i scot de acolo, să se întoarcă la legea lui Israel; și-i voi curăți de necurăția păcatului lor, căci le voi ierta; și de atunci Îmi vor fi popor, ca să creadă în Mine și să păzească poruncile Mele, iar Eu le voi fi Dumnezeu, ca să-i mântui și să-i ajut."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și nu vor mai fi pângăriți” — e o formă reflexivă, iar forma deplină ar fi itaameu."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Și cu scârboșeniile lor” — de la șekeț, scârbă și urâciune."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -32259,7 +32329,8 @@
        "translit": "verōē ehad ihiē lehulam",
        "strong": "H7462",
        "pos": "substantiv + numeral + verb + pronume",
-       "def_ro": "și un păstor va fi pentru toți."
+       "def_ro": "și un păstor va fi pentru toți.",
+       "dict_ro": "Roe — „păstorul”, de la raa, „a paște”; Metzudat Țion: conducătorul. David fusese luat „de la staulele oilor” ca să pască pe Iacov, poporul lui Dumnezeu (Psalmi 78:70-71), iar Ezechiel vestise deja: „voi pune peste ele un singur păstor, pe robul Meu David” (Ezechiel 34:23). Radak: Regele Mesia se va numi David pentru că va fi din sămânța lui David, sau e o aluzie la învierea morților."
       },
       {
        "t": ". Și "
@@ -32271,7 +32342,8 @@
        "translit": "uvemișpatai iēlēhu vehukotai ișmeru veasu otam",
        "strong": "H4941",
        "pos": "substantiv + verb + substantiv + verb + verb + pronume",
-       "def_ro": "și în judecățile Mele vor merge, și rânduielile Mele le vor păzi și le vor face."
+       "def_ro": "și în judecățile Mele vor merge, și rânduielile Mele le vor păzi și le vor face.",
+       "dict_ro": "Mișpat — „judecata, rânduiala dreaptă”, și hok, „hotărârea, legea statornicită”, perechea obișnuită pentru poruncile Torei (Levitic 18:4-5). Metzudat David: le vor păzi în inimă și le vor face cu fapta. Ezechiel 36:27: „voi pune Duhul Meu în voi și vă voi face să urmați poruncile Mele”."
       },
       {
        "t": "."
@@ -32306,6 +32378,14 @@
        "text": "„Și slujitorul Meu David” — regele Mesia, care vine din sămânța lui David, va fi rege peste ei. „Și un singur păstor” — căci cele zece triburi nu vor mai pune rege pentru ele fără el. „Și rânduielile Mele le vor păzi” — le vor păzi în inimă și le vor înfăptui cu fapta."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și [atunci] slujitorul Meu David [va fi] rege peste ei” — Regele Mesia se va numi David; l-a numit David pentru că va fi din sămânța lui David, sau e o aluzie la învierea morților."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Păstor” — adică conducător."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și David, slujitorul Meu, va fi rege peste ei — Regele Mesia, cum tâlcuiește Kimchi; și tot așa Abarbanel și alții; fiind din sămânța lui David, și David fiind un tip vestit al lui; și Care, ca Mijlocitor, e slujitorul DOMNULUI, și ca om S-a arătat sub chipul unuia: aceasta arată că profeția aceasta privește mai departe decât vremurile izbăvirii din robia babiloniană: și toți vor avea un singur păstor — sau rege, același ca mai înainte; regii sunt numiți păstori; vezi Ezechiel 34:23."
       }
@@ -32337,7 +32417,8 @@
        "translit": "așer iașvu-va avotēhem",
        "strong": "H1",
        "pos": "pronume relativ + verb + substantiv",
-       "def_ro": "pe care au locuit pe el părinții voștri."
+       "def_ro": "pe care au locuit pe el părinții voștri.",
+       "dict_ro": "Av — „tatăl”, la plural avot, „părinții, strămoșii”. Radak: a pomenit pe Iacov, căci Avraam și Isaac au avut și alți fii, care n-au moștenit țara, dar lui Iacov i-a fost dată țara, lui și seminței lui după el. Rashi: cum i-am dat-o lui Iacov, fără hotare, după făgăduința „te vei întinde la apus și la răsărit, la miazănoapte și la miazăzi” (Geneza 28:14)."
       },
       {
        "t": ", și vor locui pe el – "
@@ -32349,7 +32430,8 @@
        "translit": "veiașvu alēha hēma uvenēhem uvenēi venēhem ad-olam",
        "strong": "H5769",
        "pos": "verb + pronume + substantiv + substantiv + substantiv",
-       "def_ro": "și vor locui pe el ei, și fiii lor, și fiii fiilor lor, până în veac."
+       "def_ro": "și vor locui pe el ei, și fiii lor, și fiii fiilor lor, până în veac.",
+       "dict_ro": "Olam — „veacul, vremea fără sfârșit”; ad olam, „până în veac”. Trei generații, „ei, fiii lor și fiii fiilor lor”, arată o locuire care nu mai e întreruptă de exil. Metzudat David: domnia nu se va mai întrerupe niciodată din sămânța lui David."
       },
       {
        "t": ". Și "
@@ -32361,7 +32443,8 @@
        "translit": "veDavid avdi nasi lahem le'olam",
        "strong": "H5387",
        "pos": "substantiv propriu + substantiv + substantiv + pronume + adverb",
-       "def_ro": "și David, slujitorul Meu, [va fi] prinț pentru ei, pe veci."
+       "def_ro": "și David, slujitorul Meu, [va fi] prinț pentru ei, pe veci.",
+       "dict_ro": "Nasi — „căpetenia, prințul”, de la nasa, „a ridica”; titlul pe care Ezechiel îl dă conducătorului viitor (Ezechiel 34:24; 44-46). Talmudul (Sanhedrin 98b): Rav a spus că Dumnezeu le va ridica un alt David; iar la întrebarea „nu e scris: «David, robul Meu, va fi căpetenia lor în veac»?”, Abaie a răspuns: ca un împărat și un al doilea după împărat."
       },
       {
        "t": "."
@@ -32400,6 +32483,14 @@
        "text": "„Pe veci” — adică până în veac nu va înceta domnia din sămânța lui David."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Slujitorului Meu Iacov” — pentru că Avraam și Isaac au avut și alți fii, care n-au moștenit țara, a pomenit pe Iacov, căci lui i-a fost dată țara, și seminței lui după el."
+      },
+      {
+       "author": "Talmud Bavli, Sanhedrin 98b",
+       "text": "Rav Iehuda a spus în numele lui Rav: Sfântul, binecuvântat fie, le va ridica în viitor un alt David, căci s-a spus: „vor sluji DOMNULUI, Dumnezeului lor, și lui David, regele lor, pe care li-l voi ridica” — nu s-a spus „am ridicat”, ci „voi ridica”. Rav Papa i-a zis lui Abaie: dar nu e scris: „și David, slujitorul Meu, va fi prinț peste ei, veșnic”? [Abaie a răspuns:] ca un împărat și un al doilea după împărat."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și vor locui în țara pe care am dat-o slujitorului Meu Iacov — Avraam și Isaac nu sunt amintiți, cum observă Kimchi, pentru că ei au avut și alți copii, care n-au moștenit țara; doar Iacov, pentru că lui i-a fost dată țara, și seminției lui după el: în care au locuit părinții voștri — și cu atât mai de dorit pentru ei; a căror locuire și stăpânire asupra ei era o chezășie a lor: și vor locui în ea, chiar ei, și copiii lor, și copiii copiilor lor, pe veci — până la sfârșitul lumii, sau venirea personală a lui Hristos."
       }
@@ -32434,7 +32525,8 @@
        "translit": "unetatim vehirbēiti otam",
        "strong": "H7235",
        "pos": "verb + pronume + verb + pronume",
-       "def_ro": "și-i voi așeza, și-i voi înmulți."
+       "def_ro": "și-i voi așeza, și-i voi înmulți.",
+       "dict_ro": "Rava — „a fi mult”, la forma cauzativă hirba, „a înmulți”, verbul binecuvântării din Geneza 1:28 și al legământului: „vă voi face să creșteți, vă voi înmulți și voi întări legământul Meu cu voi” (Levitic 26:9). Radak: „îi voi așeza” înseamnă în țara Mea sau în binecuvântarea Mea, iar Targumul traduce „îi voi binecuvânta”. Metzudat David: îi voi pune în locul lor și nu se vor mai clinti de acolo."
       },
       {
        "t": " și "
@@ -32446,7 +32538,8 @@
        "translit": "venatati et-mikdași betoham le'olam",
        "strong": "H4720",
        "pos": "verb + substantiv + substantiv + adverb",
-       "def_ro": "și voi da Sanctuarul Meu în mijlocul lor, pe veci."
+       "def_ro": "și voi da Sanctuarul Meu în mijlocul lor, pe veci.",
+       "dict_ro": "Mikdaș — „sanctuarul”, de la kadaș, „a fi sfânt”, locul sfințit pentru prezența lui Dumnezeu: „să-Mi facă un sanctuar și voi locui în mijlocul lor” (Exod 25:8). Legământul păcii (berit șalom) din același verset e cel făgăduit și în Ezechiel 34:25 și Isaia 54:10. Metzudat David: legământul acesta va fi cu ei în veac, iar Templul nu va mai fi dărâmat."
       },
       {
        "t": "."
@@ -32479,6 +32572,10 @@
       {
        "author": "Metzudat David",
        "text": "„Legământ de pace” — ca să locuiască în țara lor în pace, și legământul acesta va fi cu ei pe veci. „Și-i voi așeza” — adică îi voi așeza în locul lor și nu se vor mai clinti de acolo. „Pe veci” — și nu va mai fi pustiit."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Un legământ veșnic va fi cu ei” — otam înseamnă „cu ei”, căci unele cuvinte se folosesc cu sensul de „cu”. „Și îi voi așeza” — adică îi voi așeza în țara Mea sau în binecuvântarea Mea; iar Ionatan traduce: „și îi voi binecuvânta”."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -32516,7 +32613,8 @@
        "translit": "vehaiti lahem lēlohim vehēma ihiu-li leam",
        "strong": "H430",
        "pos": "verb + pronume + substantiv + pronume + verb + pronume + substantiv",
-       "def_ro": "și le voi fi Dumnezeu, iar ei Îmi vor fi popor."
+       "def_ro": "și le voi fi Dumnezeu, iar ei Îmi vor fi popor.",
+       "dict_ro": "Elohim — „Dumnezeu”; formula legământului e luată din Levitic 26:11-12: „Îmi voi așeza locașul (mișkani) în mijlocul vostru... Eu voi fi Dumnezeul vostru, și voi veți fi poporul Meu”; Pavel o citează în 2 Corinteni 6:16, iar Apocalipsa 21:3 o pune la sfârșitul istoriei. Radak: Targumul traduce „sălașul Meu va fi între ei”, căci în alte locuri Prezența lui Dumnezeu e legată de „în mijlocul”; aici spune „asupra lor”, adică frica de El va fi mereu asupra lor. Metzudat Țion: mișkan e odihnirea Prezenței Lui."
       },
       {
        "t": "."
@@ -32550,6 +32648,14 @@
        "text": "„Va fi sălașul Meu asupra lor” — sălașul Șehinei Mele va fi asupra lor, și le voi fi Dumnezeu ca să-i ajut și să-i mântui, iar ei Îmi vor fi popor, ca să creadă în Mine și să păzească poruncile Mele."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Sălașul Meu va fi asupra lor” — Ionatan traduce „între ei”, căci în alte locuri Prezența lui Dumnezeu, binecuvântat fie, e legată de „în mijlocul”; iar ce spune aici, „asupra lor”, înseamnă că frica de El va fi asupra lor pentru totdeauna, căci slava Lui va locui în mijlocul lor pentru totdeauna."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Sălașul Meu” — adică odihnirea Prezenței Mele; e de la mișkan, locuință și tabără."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Sălașul Meu de asemenea va fi cu ei — simbolul prezenței Lui: înțelesul e că va locui în ei prin Duhul și harul Lui; și fiecare dintre ei va fi templul Dumnezeului celui viu, în care El va umbla și va locui: da, le voi fi Dumnezeu, și ei Îmi vor fi popor — ceea ce e repetat spre întărire; vezi Ezechiel 37:23."
       },
@@ -32575,7 +32681,8 @@
        "translit": "veiadeu hagoim ki ani ADONAI mekadēș et-Israēl",
        "strong": "H6942",
        "pos": "verb + substantiv + conjuncție + pronume + substantiv propriu + verb + substantiv propriu",
-       "def_ro": "și vor cunoaște neamurile că Eu sunt DOMNUL, Cel ce sfințește pe Israel."
+       "def_ro": "și vor cunoaște neamurile că Eu sunt DOMNUL, Cel ce sfințește pe Israel.",
+       "dict_ro": "Kadaș — „a fi sfânt”, la forma intensivă mekadeș, „Cel ce sfințește”; formula „Eu sunt DOMNUL care vă sfințesc” e cea a Sabatului (Exod 31:13) și a Legii sfințeniei (Levitic 20:8), iar Ezechiel 20:12 o leagă tot de Sabat. „Vor cunoaște că Eu sunt DOMNUL” e refrenul cărții lui Ezechiel. Metzudat David: când Sanctuarul Meu va rămâne în mijlocul lor în veac, atunci vor ști neamurile că Eu, DOMNUL, am sfințit pe Israel ca să fie poporul Meu."
       },
       {
        "t": ", atunci când "
