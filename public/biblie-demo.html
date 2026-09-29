@@ -842,6 +842,9 @@
   .lib-verse-rich + .inline-refs{margin:-8px 0 12px 0;}
   .lib-haft-head{margin:4px 0 16px;}
   .lib-haft-ref{font-size:0.85em; opacity:0.75; margin-top:2px;}
+  .lib-mode-row{display:flex; justify-content:flex-end; margin:0 0 12px;}
+  .lib-verse-rich .lib-verse-num{vertical-align:baseline; font-size:12px; margin-right:6px;}
+  .lib-reader-body.lib-aprofundare .lib-verse-rich{line-height:1.9;}
   body .word-popover, body .ref-preview-popover{z-index:92;}
   .lib-verse-num{
     font-family:'Inter', sans-serif;
@@ -5491,8 +5494,9 @@ const SUBFOLDER_CARD_IMAGES = {
     num.className = "lib-verse-num";
     num.textContent = v.v;
     p.appendChild(num);
+    const aprofundare = (typeof appMode !== "undefined" && appMode === "aprofundare");
     (v.tokens || [{ t: v.t }]).forEach(tok => {
-      if(tok.w && tok.strong){
+      if(tok.w && tok.strong && aprofundare){
         tok.t.split(/(\s+)/).filter(s => s.length > 0).forEach(part => {
           if(/^\s+$/.test(part)){ p.appendChild(document.createTextNode(part)); return; }
           const span = document.createElement("span");
@@ -5512,11 +5516,17 @@ const SUBFOLDER_CARD_IMAGES = {
     });
     const bookName = /[A-Za-zĂÂÎȘȚăâîșț]/.test(String(v.v)) ? "" : libBookOfRef(ch.ref);
     const ctx = { ref: (ch.title ? ch.title + " — " : "") + (bookName ? bookName + " " : "") + v.v, key: "lib_" + book.slug + "_" + ch.num + "_" + v.v };
+    if(aprofundare){
+      const hint = document.createElement("span");
+      hint.className = "comment-hint";
+      hint.textContent = "💬 Comentarii";
+      p.appendChild(hint);
+    }
     const sheetVerse = Object.assign({}, v, { num: v.v });
     p.addEventListener("click", () => { if(typeof openVerseSheet === "function") openVerseSheet(sheetVerse, p, ctx); });
     if(typeof applyMarkByKey === "function") applyMarkByKey(p, "mark_" + ctx.key);
     readerBody.appendChild(p);
-    if(Array.isArray(v.refs) && v.refs.length){
+    if(aprofundare && Array.isArray(v.refs) && v.refs.length){
       const refsRow = document.createElement("div");
       refsRow.className = "inline-refs";
       v.refs.forEach((refText, idx) => {
@@ -5558,8 +5568,31 @@ const SUBFOLDER_CARD_IMAGES = {
       }
     }
 
+    readerBody.classList.remove("lib-aprofundare");
     if(book.available && book.chapters[currentChapterIdx]){
       const ch = book.chapters[currentChapterIdx];
+      if(ch.verses.some(v => Array.isArray(v.tokens))){
+        const aprof = (typeof appMode !== "undefined" && appMode === "aprofundare");
+        readerBody.classList.toggle("lib-aprofundare", aprof);
+        const row = document.createElement("div");
+        row.className = "lib-mode-row";
+        const tg = document.createElement("div");
+        tg.className = "mode-toggle";
+        [["citire", "Citire"], ["aprofundare", "Aprofundare"]].forEach(([m, label]) => {
+          const b = document.createElement("button");
+          b.className = "mode-btn" + (((m === "aprofundare") === aprof) ? " active" : "");
+          b.textContent = label;
+          b.addEventListener("click", () => {
+            if(typeof setMode === "function") setMode(m);
+            const y = readerBody.scrollTop;
+            renderChapter();
+            readerBody.scrollTop = y;
+          });
+          tg.appendChild(b);
+        });
+        row.appendChild(tg);
+        readerBody.insertBefore(row, readerBody.firstChild);
+      }
       if(ch.title){
         const head = document.createElement("div");
         head.className = "lib-haft-head";
