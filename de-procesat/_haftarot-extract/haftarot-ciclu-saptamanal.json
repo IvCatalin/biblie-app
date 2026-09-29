@@ -26538,7 +26538,8 @@
        "translit": "ko-amar Adonai ELOHIM le'Edom",
        "strong": "H113",
        "pos": "verb + substantiv + substantiv propriu + substantiv propriu",
-       "def_ro": "așa a zis Stăpânul DOMN despre Edom."
+       "def_ro": "așa a zis Stăpânul DOMN despre Edom.",
+       "dict_ro": "Edom — „roșu”, numele lui Esau, primit după fiertura roșie pentru care și-a vândut dreptul de întâi născut (Geneza 25:30), și al poporului din muntele Seir. Cartea lui Obadia, cea mai scurtă din Vechiul Testament, e în întregime despre Edom; se citește la pericopa Vaișlah, care povestește întâlnirea lui Iacov cu Esau (Geneza 32-33). Talmudul (Sanhedrin 39b): Obadia, care a trăit între doi răi, Ahab și Izabela, fără să învețe din faptele lor, profețește despre Esau, care a trăit între doi drepți, Isaac și Rebeca, fără să învețe din faptele lor."
       },
       {
        "t": ": Am primit "
@@ -26550,7 +26551,8 @@
        "translit": "șemua șamanu mēēt ADONAI",
        "strong": "H8052",
        "pos": "substantiv + verb + substantiv propriu",
-       "def_ro": "o veste am auzit de la DOMNUL."
+       "def_ro": "o veste am auzit de la DOMNUL.",
+       "dict_ro": "Șemua — „vestea, zvonul”, de la șama, „a auzi”. Aceleași cuvinte le are Ieremia în profeția lui despre Edom: „Am auzit o veste de la DOMNUL” (Ieremia 49:14), iar cele două profeții au multe versete comune (Ieremia 49:7-22). Metzudat David: eu și ceilalți profeți am auzit vestea, căci mulți profeți au profețit despre nimicirea Edomului."
       },
       {
        "t": " și între popoare "
@@ -26562,7 +26564,8 @@
        "translit": "vetzir bagoim șulah",
        "strong": "H6735",
        "pos": "substantiv + substantiv + verb",
-       "def_ro": "și un sol printre neamuri a fost trimis."
+       "def_ro": "și un sol printre neamuri a fost trimis.",
+       "dict_ro": "Țir — „solul, trimisul”; Metzudat Țion îl explică prin „solul credincios (țir emunim)” din Proverbe 13:17. Radak: neamurile vor zice despre Edom, ca și cum un sol ar fi fost trimis printre ele: ridicați-vă să mergem împotriva ei la război."
       },
       {
        "t": ": „"
@@ -26574,7 +26577,8 @@
        "translit": "kumu venakuma aleha lamilhama",
        "strong": "H4421",
        "pos": "verb + verb + substantiv",
-       "def_ro": "ridicați-vă și să ne ridicăm împotriva ei la război."
+       "def_ro": "ridicați-vă și să ne ridicăm împotriva ei la război.",
+       "dict_ro": "Milhama — „războiul”, de la laham, „a lupta”; kum, „a se ridica”. Chemarea la război vine chiar dintre neamuri: Metzudat David spune că toate neamurile se vor trezi să vină împotriva lui și își vor trimite soli unul altuia. Pronumele e la feminin, „împotriva ei”, căci se referă la țara Edomului (Radak)."
       },
       {
        "t": "”"
@@ -26611,6 +26615,14 @@
       {
        "author": "Metzudat David",
        "text": "„Viziunea lui Ovadia” — aceasta e vedenia profeției lui Ovadia. „Despre Edom” — vrea să spună: eu și ceilalți profeți am auzit o veste de la DOMNUL, căci mulți profeți au profețit despre nimicirea Edomului. „Și un sol” — vrea să spună: așa cum am auzit, așa este, căci toate neamurile s-au ridicat să vină împotriva lui la război, și și-au trimis solii unii altora, zicând: ridicați-vă și voi, să mergem și noi împreună la război împotriva lui."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Viziunea lui Ovadia” — nu știm în ce generație a profețit acest profet; părerea învățătorilor noștri e că e Obadia care a fost cu Ahab, și au mai spus că Obadia era un prozelit edomit și a profețit rău despre Edom: a zis Sfântul, binecuvântat fie: să vină Obadia, care a locuit între doi răi, Ahab și Izabela, și n-a învățat din faptele lor, și să-l pedepsească pe Esau cel rău, care a locuit între doi drepți, Isaac și Rebeca, și n-a învățat din faptele lor. Toată profeția lui e despre Edom, și spune că odată cu nimicirea Edomului va fi mântuirea lui Israel; profeția privește Templul al doilea, căci edomiții au făcut rău lui Israel la dărâmarea lui, iar Dumnezeu îi va pedepsi la sfârșitul zilelor, la urcarea lui Israel din exil. „Am primit vești de la DOMNUL” — neamurile vor zice despre Edom: am auzit o veste de la DOMNUL, ca și cum un sol ar fi fost trimis printre ele; sau Obadia spune: am auzit eu și ceilalți profeți, cum a spus și Ieremia: „am auzit o veste de la DOMNUL”."
+      },
+      {
+       "author": "Talmud Bavli, Sanhedrin 39b",
+       "text": "Ce are Obadia, de a profețit despre Edom? Rabi Ițhak a spus: a zis Sfântul, binecuvântat fie: să vină Obadia, care a locuit între doi răi, și n-a învățat din faptele lor, și să profețească despre Esau cel rău, care a locuit între doi drepți, și n-a învățat din faptele lor. Efraim Mikșaa, ucenicul lui Rabi Meir, a spus în numele lui Rabi Meir: Obadia era un prozelit edomit; și așa zic oamenii: din pădure însăși vine coada securii care o taie."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -26655,7 +26667,8 @@
        "translit": "bazui ata meod",
        "strong": "H959",
        "pos": "adjectiv + pronume + adverb",
-       "def_ro": "disprețuit ești tu foarte."
+       "def_ro": "disprețuit ești tu foarte.",
+       "dict_ro": "Bazui — „disprețuit”, de la baza, „a disprețui”, același verb ca în Geneza 25:34: „Esau a disprețuit dreptul de întâi născut”. Cel care a disprețuit e acum el însuși disprețuit. Talmudul (Avoda Zara 10a), în numele lui Rav Iosef: „te-am făcut mic” — pentru că nu pun rege pe fiul regelui; „ești foarte disprețuit” — pentru că n-au nici scriere, nici limbă proprie. Rashi: tatăl și mama lui l-au numit „fiul cel mare” (Geneza 27:1, 15), dar în ochii lui Dumnezeu e mic."
       },
       {
        "t": "."
@@ -26693,6 +26706,14 @@
        "text": "„Iată, te-am făcut mic” — la începutul stăpânirii tale în țara Seir, iată, atunci ai fost mic printre neamuri și foarte disprețuit printre ele, căci era o împărăție de rând."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Iată, te-am făcut mic” — disprețuit și umilit, ca în „sunt prea mic pentru toate îndurările” (Geneza 32:10); așa traduce și Ionatan: „iată, te-am făcut slab între neamuri, Esau cel rău”; și tot așa: „ești foarte disprețuit”, adică celelalte neamuri nu se vor sinchisi de tine dacă vei pieri. „Te-am făcut” stă în locul viitorului „te voi face”, căci în profeții trecutul stă adesea în locul viitorului."
+      },
+      {
+       "author": "Talmud Bavli, Avoda Zara 10a",
+       "text": "Rav Iosef a învățat: „Iată, te-am făcut mic printre neamuri” — pentru că nu pun rege pe fiul regelui; „ești foarte disprețuit” — pentru că n-au nici scriere, nici limbă [proprie]."
+      },
+      {
        "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
        "text": "„Te-am făcut mic” — reducerea ta la neînsemnătate e la fel de sigură ca și cum ar fi deja împlinită; de aceea se folosește timpul trecut [Maurer]. Edomul se întindea atunci de la Dedan al Arabiei până la Bozra, la nord."
       },
@@ -26715,7 +26736,8 @@
        "translit": "zedon libeha hișieha",
        "strong": "H2087",
        "pos": "substantiv + substantiv + verb",
-       "def_ro": "trufia inimii tale te-a amăgit."
+       "def_ro": "trufia inimii tale te-a amăgit.",
+       "dict_ro": "Zadon — „trufia, îngâmfarea”, de la zid, „a fierbe, a se umfla”; hiși, „a amăgi”, e verbul șarpelui din Eden: „șarpele m-a amăgit” (Geneza 3:13, după Metzudat Țion). Radak: trufia te-a împins să-ți mărești gura și mânia împotriva fratelui tău Iacov. Talmudul (Sanhedrin 89a) pune alături cuvintele lui Obadia și ale lui Ieremia (49:16), ca exemplu de aceeași profeție spusă de doi profeți în stiluri diferite."
       },
       {
        "t": ", tu, cel care "
@@ -26740,7 +26762,8 @@
        "translit": "merom șivto",
        "strong": "H4791",
        "pos": "substantiv + substantiv",
-       "def_ro": "înălțimea [este] locuința lui."
+       "def_ro": "înălțimea [este] locuința lui.",
+       "dict_ro": "Marom — „înălțimea”, și șevet, „locuința”. Edomul locuia în munții stâncoși de la sud-est de Marea Moartă, cu cetăți săpate în piatră; „stânca”, sela, e și numele unei cetăți a lor, cucerită de Amația (2 Împărați 14:7). Radak: când locuiai în muntele Seir, credeai că ești înălțat în el și nu e cine să te coboare. Cuvântul „crăpăturile stâncii” (hagvei hasela) apare și în Cântarea Cântărilor 2:14."
       },
       {
        "t": ", care spune în sinea sa: „"
@@ -26752,7 +26775,8 @@
        "translit": "omēr belibo mi ioridēni aretz",
        "strong": "H3381",
        "pos": "verb + substantiv + pronume interogativ + verb + substantiv",
-       "def_ro": "zicând în inima lui: cine mă va coborî la pământ?"
+       "def_ro": "zicând în inima lui: cine mă va coborî la pământ?",
+       "dict_ro": "Iarad — „a coborî”, la forma cauzativă horid, „a doborî”. Întrebarea trufașă primește răspunsul în versetul următor, cu același verb: „de acolo te voi coborî (oridha)”. E tiparul lui Isaia 14:13-15: „Mă voi sui mai presus de stelele lui Dumnezeu... Dar ai fost aruncat în Locuința Morților”."
       },
       {
        "t": "”"
@@ -26791,6 +26815,14 @@
        "text": "„Trufia inimii tale te-a amăgit” — ca și cum ar spune: iată, acum, când te-ai mărit ca să stăpânești o stăpânire mare, de când ai venit la muntele Seir etc., de aceea trufia inimii tale te-a amăgit să te mândrești peste măsură. „Cel ce sălășluiești” — ca și cum ai locui în crăpăturile stâncii, unde nimeni nu se poate apropia de tine, și ca și cum locuința ta ar fi într-un loc înalt și trufaș, iar de aceea gândești în inima ta: cine mă va putea coborî în josul pământului?"
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Inima ta arogantă te-a amăgit” — să-ți mărești gura și să-ți lărgești mânia împotriva fratelui tău Iacov. „Tu, cel care sălășluiești în crăpătura stâncii” — când locuiai în muntele Seir, credeai că ești înălțat în el și nu e cine să te coboare de acolo; înălțimea locuinței lui era în crăpăturile stâncii, adică muntele Seir, iar la Ieremia: „care ocupi înălțimea dealului”. „Crăpătura” (hagvei) e de la hug, „cercul”, ca în „cercul pământului”: împrejurul stâncii, adică vârful stâncii, turnul zidit pe ea."
+      },
+      {
+       "author": "Talmud Bavli, Sanhedrin 89a",
+       "text": "Obadia a spus: „Trufia inimii tale te-a amăgit”; Ieremia a spus: „Groaza pe care o inspirai, trufia inimii tale te-a amăgit” (Ieremia 49:16). [Profeți adevărați spun aceeași profeție, dar fiecare în felul lui;] iar despre acei [profeți mincinoși], din faptul că toți spun cuvânt cu cuvânt la fel, reiese că nu spun nimic."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Trufia inimii tale te-a amăgit — Edomiții erau trufași din pricina bogăției și avuției lor, pe care le strânseseră prin jafuri; și din pricina iscusinței și curajului lor militar, și a prietenilor și aliaților lor; și mai ales din pricina cetăților și fortărețelor lor, atât naturale, cât și artificiale; și de aceea se socoteau siguri, și că niciun vrăjmaș nu-i putea ajunge ca să le facă rău, iar aceasta i-a amăgit. Tu, cel ce locuiești în crăpăturile stâncii — țara lor era numită Arabia Petraea, cea stâncoasă, iar mitropola lor Petra, stânca."
       },
@@ -26816,7 +26848,8 @@
        "translit": "im-tagbiha kaneșer",
        "strong": "H5404",
        "pos": "conjuncție + verb + substantiv",
-       "def_ro": "de te vei înălța ca vulturul."
+       "def_ro": "de te vei înălța ca vulturul.",
+       "dict_ro": "Neșer — „vulturul” (sau acvila), pasărea care zboară cel mai sus și își face cuibul pe înălțimi (Iov 39:27). Radak: dacă îți vei înălța locuința ca vulturul, care zboară mai sus decât toate păsările. Metzudat David: chiar dacă ai locui ca vulturul, care își face locuința în loc înalt, și de acolo te voi coborî."
       },
       {
        "t": " și îți "
@@ -26828,7 +26861,8 @@
        "translit": "veim-bēin kohavim sim kineha",
        "strong": "H3556",
        "pos": "conjuncție + substantiv + verb + substantiv",
-       "def_ro": "și de-ți vei pune cuibul între stele."
+       "def_ro": "și de-ți vei pune cuibul între stele.",
+       "dict_ro": "Kohav — „steaua”, și ken, „cuibul”; Metzudat Țion: ken e locuința păsărilor. Imaginea trece peste orice înălțime omenească: nici cerul nu e un adăpost împotriva judecății lui Dumnezeu. Radak observă forma gramaticală: sim, „pune”, stă în locul viitorului „vei pune”."
       },
       {
        "t": ", de acolo "
@@ -26840,7 +26874,8 @@
        "translit": "mișam oridha",
        "strong": "H3381",
        "pos": "adverb + verb",
-       "def_ro": "de acolo te voi coborî."
+       "def_ro": "de acolo te voi coborî.",
+       "dict_ro": "Horid — „a coborî, a doborî”, același verb ca în întrebarea din 1:3, „cine mă va coborî?”. Ieremia 49:16 repetă amenințarea: „chiar dacă ți-ai face cuibul tot atât de sus ca vulturul, și de acolo te voi prăvăli”. Metzudat David: te voi coborî la pământ și vei fi dat în mâna neamurilor."
       },
       {
        "t": " – "
@@ -26852,7 +26887,8 @@
        "translit": "neum-ADONAI",
        "strong": "H5002",
        "pos": "substantiv + substantiv propriu",
-       "def_ro": "rostirea DOMNULUI."
+       "def_ro": "rostirea DOMNULUI.",
+       "dict_ro": "Neum Adonai — „rostirea DOMNULUI”, formula care pecetluiește o profeție ca venind de la Dumnezeu, nu de la profet. În Obadia apare de două ori, aici și în versetul 8, la cele două amenințări împotriva înălțimii și împotriva înțelepciunii Edomului."
       },
       {
        "t": "."
@@ -26883,6 +26919,10 @@
      ],
      "commentaries": [
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Chiar de te-nalți ca un vultur” — dacă îți vei înălța locuința ca vulturul, care zboară mai sus decât toate păsările. „Îți așezi” (sim) — stă în locul lui „vei pune”, cum „urcă-te și mori pe munte” stă în locul lui „vei muri”."
+      },
+      {
        "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
        "text": "„Te înalți” — sau se subînțelege din a doua parte „cuibul tău” [Maurer] (compară Iov 39:27; Ieremia 49:16). „Îți așezi cuibul printre stele” — adică pe cele mai înalte dealuri, care par să ajungă până la stele. Edom e un tip al lui Antihrist (Isaia 14:13-15; Ieremia 49:16)."
       },
@@ -26909,7 +26949,8 @@
        "translit": "im-ganavim bau-leha",
        "strong": "H1590",
        "pos": "conjuncție + substantiv + verb",
-       "def_ro": "de ar veni la tine hoți."
+       "def_ro": "de ar veni la tine hoți.",
+       "dict_ro": "Ganav — „hoțul”, de la ganav, „a fura pe ascuns”. Radak: e o întrebare de mirare a celor care vor vedea nimicirea Edomului: ce ți s-a întâmplat? De-ar fi venit hoți la tine noaptea, ai fi fost oare atât de adormit încât să nu-i simți? Rashi: de ce ai dormit liniștit până au furat tot ce au vrut?"
       },
       {
        "t": ", sau "
@@ -26921,7 +26962,8 @@
        "translit": "im-șodedēi laila",
        "strong": "H7703",
        "pos": "conjuncție + substantiv + substantiv",
-       "def_ro": "de ar veni prădători de noapte."
+       "def_ro": "de ar veni prădători de noapte.",
+       "dict_ro": "Șoded — „prădătorul, jefuitorul”, de la șadad, „a pustii, a jefui”; Metzudat Țion: cu sensul de jaf și asuprire. Metzudat David: prădătorii de noapte sunt cei care se tem să jefuiască ziua. Radak: hoții și prădătorii de noapte sunt aceeași idee, spusă de două ori cu alte cuvinte, căci cei mai mulți hoți fură noaptea."
       },
       {
        "t": " – o, "
@@ -26943,7 +26985,8 @@
        "translit": "halo ignevu daiam",
        "strong": "H1767",
        "pos": "particulă interogativă + verb + substantiv",
-       "def_ro": "oare n-ar fura destulul lor?"
+       "def_ro": "oare n-ar fura destulul lor?",
+       "dict_ro": "Dai — „destulul, cât ajunge”; daiam, „cât le ajunge lor”. Metzudat Țion îl explică prin Exod 36:7: „materialele erau de ajuns (daiam) pentru toată lucrarea”. Radak: felul hoților e să fure cât pot duce și să lase restul; dar tu ai fost scotocit până la capăt."
       },
       {
        "t": " Dacă tăietorii de struguri ar veni peste tine",
@@ -26952,7 +26995,8 @@
        "translit": "im-botzrim bau lah",
        "strong": "H1219",
        "pos": "conjuncție + substantiv + verb",
-       "def_ro": "de ar veni la tine culegători de vie."
+       "def_ro": "de ar veni la tine culegători de vie.",
+       "dict_ro": "Boțer — „culegătorul de struguri”, de la bațar, „a culege via”; Metzudat Țion: „cei care taie strugurii viei”, ca în „când îți vei culege via” (Deuteronom 24:21). Radak: chiar dacă ar veni prădători ziua, ca niște culegători care se întorc iar și iar să culeagă via, cum a spus Ieremia: „întoarce-ți mâna ca un culegător peste coșuri” (Ieremia 6:9)."
       },
       {
        "t": ", n-ar lăsa ei ciorchinii necopți?",
@@ -26961,7 +27005,8 @@
        "translit": "halo iașiru olēlot",
        "strong": "H5955",
        "pos": "particulă interogativă + verb + substantiv",
-       "def_ro": "oare n-ar lăsa ciorchinii rămași?"
+       "def_ro": "oare n-ar lăsa ciorchinii rămași?",
+       "dict_ro": "Olelot — „ciorchinii rămași”, boabele mici care rămân pe vie după cules; Metzudat Țion: strugurii mici și slabi. Tora poruncește să fie lăsați săracului: „să nu culegi ce rămâne (teolel) după tine; să fie pentru străin, pentru orfan și pentru văduvă” (Deuteronom 24:21). Radak: nu se poate să nu lase ciorchini ascunși sub frunze, dar pe tine nu te-au lăsat cu nimic. Ieremia 49:9 repetă comparația."
       }
      ],
      "textCompare": [
@@ -26996,6 +27041,10 @@
        "text": "„Au venit la tine” — au venit asupra ta. „Prădători de noapte” — cei ce se tem să jefuiască ziua și jefuiesc noaptea. „Cât de nimicit ești” — cum ai fost stârpit cu totul (vorbește la timpul trecut, după obiceiul multor profeții, căci profetul vede ca și cum s-ar fi întâmplat deja). „Oare n-ar fura destulul lor?” — vrea să spună: oare obiceiul lor nu e să fure doar cât le ajunge, lăsând restul — și de ce atunci ai fost stârpit cu totul, fără rămășiță?"
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Dacă niște hoți ar intra la tine” — e spus ca mirare, căci cei ce vor vedea nimicirea Edomului se vor mira și vor zice: ce ți s-a întâmplat? De-ar fi venit hoți la tine, prădători noaptea, ai fi dormit oare fără să-i simți, ca să-i oprești și să te ridici împotriva lor? „N-ar fura oare cât pot?” — căci felul hoților e să fure cât pot duce și să lase restul. „Dacă tăietorii de struguri ar veni peste tine” — adică de-ar veni prădători ziua, ca niște culegători care culeg via și se întorc iar și iar să culeagă, cum a spus: „întoarce-ți mâna ca un culegător peste coșuri”, tot nu se poate să nu lase ciorchini care nu se văd pentru că sunt mici și ascunși sub frunzele viței; dar tu cum ai fost scotocit, de nu ți-au lăsat prădătorii nimic, nici măcar comorile ascunse! Hoții și prădătorii de noapte sunt aceeași idee, spusă de două ori cu alte cuvinte, căci cei mai mulți hoți fură noaptea. „O, cât de nimicit ești!” — ai fost stârpit, ca în „poporul Meu piere din lipsă de cunoștință”; iar Ionatan a tradus: „cum ai fost adormit”, adică cum ai putut dormi."
+      },
+      {
        "author": "Jean Calvin, Comentariu la Ovadia",
        "text": "Profetul arată în acest verset că năpasta cu care Dumnezeu hotărâse să lovească pe idumeni nu va fi ușoară, căci nimic nu le va rămâne; și amplifică ce spune printr-o comparație. Când cineva e jefuit de avutul lui de hoți, se întristează, dar măcar rămâne ceva."
       },
@@ -27021,7 +27070,8 @@
        "translit": "ēih nehpesu Ēsav",
        "strong": "H2664",
        "pos": "adverb + verb + substantiv propriu",
-       "def_ro": "cum au fost cercetați/scotociți [cei ai lui] Esau!"
+       "def_ro": "cum au fost cercetați/scotociți [cei ai lui] Esau!",
+       "dict_ro": "Hafas — „a căuta, a scotoci”; Metzudat Țion: ca în „de acolo îi voi căuta (ahapes)” (Amos 9:3). Nivu, „au fost descoperite”, e explicat de Rashi prin aramaicul bea, „a căuta”. Talmudul (Bava Kama 3b): Șmuel învață din acest verset că maveh din Mișna înseamnă dintele animalului, căci nivu înseamnă „descoperit”, ca dinții, care se ascund când gura e închisă și se descoperă când mănâncă."
       },
       {
        "t": ", cât de "
@@ -27068,6 +27118,14 @@
        "text": "„Cum au fost cercetate [casele] lui Esau” — cum au fost scotocite casele lui Esau ca să li se ia totul, și cum au fost căutate și cercetate locurile lui ascunse, ca să li se ia tot ce se găsea în ele — și acesta e un repetiție de idee cu ceea ce s-a spus."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Cât de răvășit va fi Esau” — înseamnă comorile lui Esau, cum spune „au fost scotocite ascunzișurile lui”, iar ideea e spusă de două ori cu alte cuvinte; nivu vine din aramaica Targumului, unde „a căuta” e bea, ca în „dacă vreți să întrebați, întrebați (tivaiun beiu)”."
+      },
+      {
+       "author": "Talmud Bavli, Bava Kama 3b",
+       "text": "Șmuel a spus: maveh [din Mișna] este dintele, căci e scris: „Cum au fost scotociți cei ai lui Esau, descoperite (nivu) comorile lui ascunse!”. De unde se vede? Cum traduce Rav Iosef: „cum a fost cercetat Esau, s-au dezvăluit ascunzișurile lui”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Cum au fost cercetate lucrurile lui Esau! — sau cum au fost căutați urmașii lui Esau! Chiar dacă locuiau în crăpăturile stâncilor și se ascundeau în peșteri și bârloguri, totuși vrăjmașii lor i-au cercetat, i-au găsit acolo și i-au scos de acolo, așa încât niciunul n-a scăpat: cum au fost căutate lucrurile lui ascunse! — bogățiile, avuția și comorile lui, ascunse în fortărețe, în stânci și peșteri, unde se credeau în siguranță și socotite inaccesibile."
       },
@@ -27100,7 +27158,8 @@
        "translit": "hișiuha ihelu leha anșēi șelomeha",
        "strong": "H7965",
        "pos": "verb + verb + substantiv + substantiv",
-       "def_ro": "te-au amăgit, te-au biruit oamenii păcii tale."
+       "def_ro": "te-au amăgit, te-au biruit oamenii păcii tale.",
+       "dict_ro": "Șalom — „pacea”; anșei șelomeha, „oamenii păcii tale”, adică aliații. Aceeași expresie o folosește Ieremia despre sfetnicii lui Zedechia: „te-au amăgit și te-au biruit prietenii tăi (anșei șelomeha)” (Ieremia 38:22). Metzudat David: aliații l-au însoțit până la hotarul țării lui și de acolo s-au întors, fără să meargă la război să-l ajute, deși îi făgăduiseră."
       },
       {
        "t": ", cei care mănâncă din pâinea ta vor pune dedesubtul tău boală",
@@ -27109,7 +27168,8 @@
        "translit": "lahmeha iasimu mazor tahteha",
        "strong": "H4204",
        "pos": "substantiv + verb + substantiv + substantiv",
-       "def_ro": "pâinea ta o vor face rană sub tine."
+       "def_ro": "pâinea ta o vor face rană sub tine.",
+       "dict_ro": "Mazor — „rana, boala”; Metzudat Țion: se numește așa pentru că se presară (zara) pe ea praf de leacuri; Radak îl leagă de Osea 5:13: „Efraim și-a văzut boala și Iuda rana (mezoro)”. Talmudul (Sanhedrin 92a), în numele lui Rabi Elazar: cine își dă pâinea unui om fără pricepere aduce suferințe asupra lui. Trădarea celui care îți mănâncă pâinea e plânsă și în Psalmi 41:9: „prietenul care mânca din pâinea mea a ridicat călcâiul împotriva mea”."
       },
       {
        "t": ", cei care nu reușesc să înțeleagă",
@@ -27118,7 +27178,8 @@
        "translit": "ēin tevuna bo",
        "strong": "H8394",
        "pos": "adverb de negație + substantiv + prepoziție",
-       "def_ro": "nu e pricepere în el."
+       "def_ro": "nu e pricepere în el.",
+       "dict_ro": "Tevuna — „priceperea”, de la bin, „a deosebi, a pricepe”. Radak: în Esau nu e pricepere, căci n-a înțeles ce-i fac aliații lui; iar Scriptura trece într-un singur verset de la „tu” la „el”, cum îi e felul. Versetul următor spune că priceperea va pieri din muntele lui Esau."
       },
       {
        "t": "."
@@ -27157,6 +27218,14 @@
        "text": "„Până la hotar etc.” — când a ieșit la luptă împotriva neamurilor, l-au însoțit toți oamenii legământului pe care-l avea cu ei, până la marginea hotarului țării lui, și de acolo s-au întors și n-au mers la luptă ca să-i fie de ajutor, și l-au amăgit, căci îi promiseseră să meargă cu el. „Te-au biruit” — oamenii cu care erai în pace te-au ațâțat să mergi la luptă și au izbutit împotriva ta, căci i-ai ascultat și ai mers. „Pâinea ta” — cei ce mănâncă pâinea ta, care iau răsplată de la tine, ei îți vor pune rană sub tine, adică în locul tău au pregătit pentru tine pieire și nimicire, căci au uneltit rău împotriva ta, și nu e în el pricepere să simtă lucrul, ca să se păzească de ei."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Până la hotar te-au gonit tovarășii tăi” — oamenii legământului tău și cei care îți mâncau pâinea, în care te încredeai, ei te-au dus în exil și te-au trimis până la hotarul vrăjmașilor care te prădau, ca și cum s-ar fi jelit și ar fi plâns pentru exilul tău, dar tocmai ei i-au ajutat pe vrăjmașii tăi în ascuns, iar tu n-ai simțit și n-ai înțeles, căci în ziua aceea îți vor pieri înțelepciunea și vitejia. „Cei care mănâncă din pâinea ta” — adică cei care îți mănâncă pâinea. „Boală” (mazor) — boală și rană, ca în „Efraim și-a văzut boala și Iuda rana”. „Dedesubtul tău” — în ascuns, căci și-au ascuns sfatul de tine și ți se arătau ca prieteni. „Cei care nu reușesc să înțeleagă” — în Esau nu e pricepere, căci n-a înțeles ce-i fac aliații lui; și așa e felul Scripturii, să vorbească într-un verset și către cineva, și despre el."
+      },
+      {
+       "author": "Talmud Bavli, Sanhedrin 92a",
+       "text": "Rabi Elazar a spus: oricine își dă pâinea unui om fără cunoștință, vin asupra lui suferințe, căci s-a spus: „Cei ce mănâncă din pâinea ta vor pune dedesubtul tău boală (mazor), nu e pricepere în el”; iar mazor nu înseamnă altceva decât suferințe, căci s-a spus: „Efraim și-a văzut boala și Iuda rana (mezoro)”."
+      },
+      {
        "author": "Jean Calvin, Comentariu la Ovadia",
        "text": "Toți oamenii legământului tău te-au gonit până la hotar; te-au amăgit și te-au biruit oamenii păcii tale; oamenii pâinii tale au pus rană sub tine; nu e pricepere în el. Profetul arată aici pricina pentru care Dumnezeu se va purta atât de aspru și de groaznic [cu Edom]."
       },
@@ -27186,7 +27255,8 @@
        "translit": "baiom hahu neum-ADONAI",
        "strong": "H3117",
        "pos": "substantiv + pronume + substantiv + substantiv propriu",
-       "def_ro": "în ziua aceea, rostirea DOMNULUI."
+       "def_ro": "în ziua aceea, rostirea DOMNULUI.",
+       "dict_ro": "Iom — „ziua”; baiom hahu, „în ziua aceea”, expresia profeților pentru ziua judecății. Metzudat David: ziua în care va veni pedeapsa. Formula „rostirea DOMNULUI” e a doua din carte, după 1:4."
       },
       {
        "t": " – nu voi face "
@@ -27198,7 +27268,8 @@
        "translit": "vehaavadtī hahamim mē'Edom",
        "strong": "H2450",
        "pos": "verb + substantiv + substantiv propriu",
-       "def_ro": "și voi pierde pe înțelepți din Edom."
+       "def_ro": "și voi pierde pe înțelepți din Edom.",
+       "dict_ro": "Hahamim — „înțelepții”, de la hahma, „înțelepciunea”. Edomul era vestit pentru înțelepți: Ieremia întreabă „Nu mai este înțelepciune în Teman?” (Ieremia 49:7), iar Elifaz, prietenul lui Iov, era temanit (Iov 2:11). Radak: în Edom erau înțelepți, iar în ziua zdrobirii lor, înțelepciunea lor s-a pierdut. Metzudat David: nu vor mai ști meșteșugurile războiului ca să-și scape viața."
       },
       {
        "t": " și "
@@ -27210,7 +27281,8 @@
        "translit": "utevuna mēhar Ēsav",
        "strong": "H8394",
        "pos": "substantiv + substantiv + substantiv propriu",
-       "def_ro": "și priceperea din muntele lui Esau?"
+       "def_ro": "și priceperea din muntele lui Esau?",
+       "dict_ro": "Tevuna — „priceperea”, perechea poetică a „înțelepciunii” din prima jumătate a versetului; Metzudat David: aceeași idee spusă de două ori cu alte cuvinte. Har Esav, „muntele lui Esau”, e muntele Seir, unde Esau s-a așezat după despărțirea de Iacov (Geneza 36:8)."
       }
      ],
      "textCompare": [
@@ -27239,6 +27311,10 @@
       {
        "author": "Metzudat David",
        "text": "„În ziua aceea” — în ziua venirii pedepsei. „Și voi pierde pe înțelepți” — nu se vor mai pricepe la vicleșugurile războiului ca să-și scape viața. „Și priceperea etc.” — repetiție de idee cu ceea ce s-a spus."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Oare în ziua aceea... nu voi face să se piardă înțelepții Edomului?” — în Edom erau înțelepți, iar când a venit zdrobirea lor, înțelepciunea lor s-a pierdut, cum spune la Ieremia: „s-a stricat înțelepciunea lor”; și tot așa erau între ei viteji, din binecuvântarea lui Isaac: „vei trăi din sabia ta”, iar în ziua zdrobirii lor „vor fi descurajați vitejii tăi, Teman”."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -27277,7 +27353,8 @@
        "translit": "lemaan ikaret-iș mēhar Ēsav mikatel",
        "strong": "H3772",
        "pos": "conjuncție + verb + substantiv + substantiv propriu + substantiv",
-       "def_ro": "ca să fie stârpit tot omul din muntele lui Esau, prin măcel."
+       "def_ro": "ca să fie stârpit tot omul din muntele lui Esau, prin măcel.",
+       "dict_ro": "Karat — „a tăia, a stârpi”; ikaret iș, „să fie stârpit orice om”; ketel, „uciderea”, cuvânt rar, înrudit cu aramaicul ketal, „a ucide”, ca în Iov 13:15: „iată, mă va ucide (ikteleni)”. Radak: Dumnezeu va pune spaimă în ei, ca să fie stârpit fiecare om din muntele lui Esau, prin mulțimea uciderii. Metzudat David: nu vor muri în patul lor, ci uciși."
       },
       {
        "t": "."
@@ -27315,6 +27392,10 @@
        "text": "„Se vor înspăimânta vitejii tăi, Teman” — tu, al cărui izvor de obârșie e din Edom, care șade la miazăzi de Țara lui Israel, iată, vor fi zdrobiți în luptă. „Ca să fie stârpit” — în așa fel încât să fie stârpit tot omul din locurile unde locuiesc pe muntele Seir, adică nu va rămâne niciunul dintre ei. „Prin măcel” — adică stârpirea va veni din uciderea pe care le-o vor face, nu din faptul că vor muri în paturile lor."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Puternicii tăi de la miazăzi” — Teman e din fiii lui Elifaz, fiul lui Esau; iar Ionatan traduce: „locuitorii miazăzii”. „Ca nimeni din muntele lui Esau să nu scape neucis în măcel” — Dumnezeu va pune spaimă în ei, ca să fie stârpit fiecare om din muntele lui Esau prin mulțimea uciderii care se va face între ei; ketel e „uciderea” în aramaica Targumului, ca în „iată, mă va ucide (ikteleni)”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și vitejii tăi, o, Teman, vor fi înspăimântați — Teman era o parte a țării Edomului, numită astfel după Teman, fiul lui Elifaz și nepotul lui Esau (Geneza 36:11); și care se pare că fusese vestită pentru oameni de vitejie și curaj; era plină de ofițeri viteji și soldați curajoși, care acum vor fi cu totul descurajați, și n-vor avea inimă să iasă împotriva vrăjmașului."
       }
@@ -27336,7 +27417,8 @@
        "translit": "mēhamas ahiha Iaakov",
        "strong": "H2555",
        "pos": "substantiv + substantiv + substantiv propriu",
-       "def_ro": "din pricina violenței [față de] fratele tău Iacov."
+       "def_ro": "din pricina violenței [față de] fratele tău Iacov.",
+       "dict_ro": "Hamas — „violența, silnicia”, păcatul pentru care a venit Potopul (Geneza 6:11). Vina Edomului e mai grea pentru că e împotriva unui frate: Tora poruncise „să nu urăști pe edomit, căci e fratele tău” (Deuteronom 23:7), iar Amos îl acuză că „l-a urmărit pe fratele său cu sabia” (Amos 1:11). Rashi: din pricina violenței pe care i-ai făcut-o lui Iacov."
       },
       {
        "t": ", vei fi "
@@ -27348,7 +27430,8 @@
        "translit": "tehaseha bușa",
        "strong": "H954",
        "pos": "verb + substantiv",
-       "def_ro": "te va acoperi rușinea."
+       "def_ro": "te va acoperi rușinea.",
+       "dict_ro": "Bușa — „rușinea”, de la boș, „a fi rușinat”. „Te va acoperi rușinea” e imaginea unei haine care acoperă tot trupul. Metzudat David: din pricina violenței față de fratele tău te va acoperi rușinea și vei fi stârpit pe veci, fără să te mai ridici."
       },
       {
        "t": " și vei fi "
@@ -27360,7 +27443,8 @@
        "translit": "venihrata le'olam",
        "strong": "H3772",
        "pos": "verb + adverb",
-       "def_ro": "și vei fi stârpit pe veci."
+       "def_ro": "și vei fi stârpit pe veci.",
+       "dict_ro": "Karat — „a tăia, a stârpi”; venihrata leolam, „vei fi stârpit pe veci”. Radak: Dumnezeu îi va pedepsi la sfârșitul zilelor și-i va face să piară din lume; și observă că neamurile s-au amestecat atât de mult încât nu se mai știe cine e din Edom."
       },
       {
        "t": "."
@@ -27399,6 +27483,10 @@
        "text": "„Din pricina violenței față de fratele tău Iacov” — din pricina violenței pe care ai făcut-o fratelui tău Iacov, te va acoperi rușinea și vei fi stârpit pe veci și nu vei mai putea să te ridici."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Pentru violența față de fratele tău Iacov” — am explicat deja că la dărâmarea Templului al doilea edomiții au făcut rău lui Israel, iar profetul a profețit că ei îi vor face rău în vremea Templului al doilea, iar Sfântul, binecuvântat fie, îi va pedepsi la sfârșitul zilelor, stârpindu-i din lume. Înțeleptul Rabi Avraham ibn Ezra a tâlcuit însă versetul despre dărâmarea Templului întâi, când edomiții au făcut rău lui Israel în exil, prin Nabucodonosor."
+      },
+      {
        "author": "Jamieson, Fausset & Brown, Comentariu la Biblie",
        "text": "„Împotriva fratelui tău” — aceasta agravează păcatul lui Esau, că a fost împotriva celui care-i era frate prin naștere și prin circumcizie. Urmașii lui Esau au urmat pe urma urii tatălui lor față de Iacov, prin violență împotriva seminției lui Iacov. „Iacov” — nu doar fratele lui, ci fratele lui geamăn; de aceea numele „Iacov”, nu „Israel”, e pus aici cu subliniere."
       },
@@ -27434,7 +27522,8 @@
        "translit": "beiom șevot zarim hēilo",
        "strong": "H2428",
        "pos": "substantiv + verb + substantiv + substantiv",
-       "def_ro": "în ziua luării în captivitate de către străini a bogăției lui."
+       "def_ro": "în ziua luării în captivitate de către străini a bogăției lui.",
+       "dict_ro": "Hail — „tăria, oastea”, și de aici „avuția”; Metzudat Țion: cu sensul de bogăție, ca în „își lasă altora avuția (heilam)” (Psalmi 49:10). Șevot, „a lua în robie”, de la șava. Radak: în ziua în care străinii i-au luat în robie avuția și averea."
       },
       {
        "t": ", când "
@@ -27446,7 +27535,8 @@
        "translit": "venohrim bau șearav",
        "strong": "H5237",
        "pos": "substantiv + verb + substantiv",
-       "def_ro": "și cei străini au intrat pe porțile lui."
+       "def_ro": "și cei străini au intrat pe porțile lui.",
+       "dict_ro": "Nohri — „străinul”, cel dintr-alt neam, de la neher, „străinătatea”. Metzudat David: e vorba de Nabucodonosor, care a dărâmat Templul întâi, iar Edom a văzut și a stat deoparte, fără să-l ajute pe fratele său Iacov. Radak aplică versetul la dărâmarea Templului al doilea de către Titus."
       },
       {
        "t": " și "
@@ -27458,7 +27548,8 @@
        "translit": "veal-Ierușalaim iadu goral",
        "strong": "H1486",
        "pos": "substantiv propriu + verb + substantiv",
-       "def_ro": "și asupra Ierusalimului au aruncat sorți."
+       "def_ro": "și asupra Ierusalimului au aruncat sorți.",
+       "dict_ro": "Goral — „sorțul”, pietricica aruncată ca să se hotărască împărțirea; iadu goral, „au aruncat sorți”. Radak: căpeteniile oștilor vrăjmașe au aruncat sorți pe robii Ierusalimului, ca să-i împartă. Ioel 3:3 (EDC) spune la fel despre neamuri: „au aruncat sorți asupra poporului Meu”."
       },
       {
        "t": " – "
@@ -27470,7 +27561,8 @@
        "translit": "gam-ata keahad mēhem",
        "strong": "H259",
        "pos": "adverb + pronume + adjectiv + substantiv",
-       "def_ro": "chiar tu [ai fost] ca unul dintre ei."
+       "def_ro": "chiar tu [ai fost] ca unul dintre ei.",
+       "dict_ro": "Ehad — „unul”; keahad mehem, „ca unul dintre ei”. Rashi: îți socotesc ca și cum ai fi fost unul dintre cei care l-au atacat. Metzudat David: fiindcă ai stat deoparte și n-ai ajutat pe Israel, îți socotesc ca și cum ai fi fost și tu unul dintre luptători și prădători, și aceasta e violența."
       },
       {
        "t": "."
@@ -27507,6 +27599,10 @@
       {
        "author": "Metzudat David",
        "text": "„În ziua stării tale deoparte” — acum tălmăcește ce anume a fost violența făcută, și spune: iată, în ziua când ai stat deoparte, în vremea când străinii au dus în captivitate bogăția lui Iacov — și despre Nebucadnețar, cel ce a distrus Primul Templu, se vorbește — el a văzut aceasta și a stat deoparte și n-a ajutat pe Iacov, fratele lui. „Tu ai fost asemenea lor” — vrea să spună: de vreme ce ai stat deoparte și n-ai ajutat pe Israel, te socotesc ca și cum ai fi fost și tu unul dintre cei ce s-au luptat și au prădat, și aceasta e violența."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „În ziua când ai stat deoparte” — după tâlcuirea noastră, deși Titus și oastea lui, care au dărâmat Templul, erau în mare parte edomiți, iar edomiții încă locuiau în țara Edomului, împărăția nu era a lor, ci a Romei; și când Titus a asediat Ierusalimul, edomiții se bucurau de nenorocirea lor și le făceau rău în țara lor cât puteau, dând pe fugari în mâna romanilor, și stăteau deoparte bucurându-se de dărâmarea lor, deși trebuiau să-i ajute, căci le erau frați; iar Dumnezeu îi oprise pe Israel, când treceau prin pustie, să le facă rău, din pricina frăției. „În ziua când străinii i-au prădat bogăția” — în ziua în care străinii i-au luat în robie avuția și averea. „Au tras la sorți pentru Ierusalim” — căpeteniile oștilor vrăjmașe au aruncat sorți pe robii Ierusalimului, ca să și-i împartă. „Tu ai fost asemenea lor” — edomiții care au venit cu romanii."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -27547,7 +27643,8 @@
        "translit": "veal-tișmah livnēi-Iehuda beiom avdam",
        "strong": "H8055",
        "pos": "negație + verb + substantiv + substantiv",
-       "def_ro": "și nu te bucura de fiii lui Iuda în ziua pieirii lor."
+       "def_ro": "și nu te bucura de fiii lui Iuda în ziua pieirii lor.",
+       "dict_ro": "Samah — „a se bucura”; bucuria de nenorocirea altuia e osândită și în Proverbe 24:17: „Nu te bucura de căderea vrăjmașului tău”, și în Proverbe 17:5: „cine se bucură de nenorocire nu va rămâne nepedepsit”. Psalmi 137:7 păstrează amintirea bucuriei Edomului: „Adu-Ți aminte, DOAMNE, de fiii lui Edom, care în ziua Ierusalimului ziceau: Radeți-o, radeți-o până la temelii!”."
       },
       {
        "t": ". "
@@ -27559,7 +27656,8 @@
        "translit": "veal-tagdēl piha beiom tzara",
        "strong": "H1431",
        "pos": "negație + verb + substantiv + substantiv",
-       "def_ro": "și nu-ți mări gura în ziua necazului."
+       "def_ro": "și nu-ți mări gura în ziua necazului.",
+       "dict_ro": "Gadal — „a fi mare”, la forma cauzativă higdil, „a mări”; tagdel pisha, „să-ți mărești gura”, adică să vorbești cu trufie și batjocură. Radak: prin râs sau alte cuvinte; Targumul: „să vorbești lucruri mari”. Metzudat David: cu atât mai mult nu trebuia să-ți mărești gura și să arunci cuvinte de batjocură în ziua necazului lor."
       },
       {
        "t": "."
@@ -27597,6 +27695,10 @@
        "text": "„Și nu privi” — nu se cuvenea să privești la ziua necazului fratelui tău, în vremea când a fost înstrăinat din țara lui și izgonit din ea — și ca și cum ar spune: chiar dacă mâna ta n-a putut să-l ajute, măcar ți s-ar fi cuvenit să stai acasă și să nu privești la rușinea lui ca să-l faci de ocară. „Și nu te bucura” — cu atât mai mult nu se cuvenea să te bucuri de fiii lui Iuda în vremea pieirii și nimicirii lor. „Și nu-ți mări gura” — cu atât mai puțin se cuvenea să-ți lărgești gura și să rostești vorbe de batjocură în ziua necazului lor veniți peste ei."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „N-ar fi trebuit să privești la ziua fratelui tău” — nu trebuia să privești la ziua necazului fratelui tău; apoi explică „ziua fratelui tău”: e „ziua când a fost exilat” (nochro), adică s-a înstrăinat de țara lui și a ajuns ca un străin scos din ea; iar unii tâlcuiesc: ziua în care a fost dat în mâna vrăjmașilor, ca în „Dumnezeu l-a dat (nichar) în mâna mea”. „N-ar fi trebuit să vorbești cu aroganță” — prin râs sau prin alte cuvinte; și așa a tradus Ionatan: „ai mărit vorbele cu trufie”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "N-ar fi trebuit să privești la ziua fratelui tău — ziua necazului, suferinței și pieirii lui, cum se lămurește mai departe; adică cu plăcere și mulțumire, ca și cum te-ar bucura și te-ai desfăta de ea; ci mai degrabă s-ar fi cuvenit să te întristezi și să jelești, temându-ți-se că-ți va veni și ție rândul."
       },
@@ -27622,7 +27724,8 @@
        "translit": "al-tavo veșaar-ami beiom ēidam",
        "strong": "H8179",
        "pos": "negație + verb + substantiv + substantiv + substantiv",
-       "def_ro": "nu intra pe poarta poporului Meu în ziua nenorocirii lor."
+       "def_ro": "nu intra pe poarta poporului Meu în ziua nenorocirii lor.",
+       "dict_ro": "Șaar — „poarta” cetății, locul judecății și al puterii. Eid, „nenorocirea, dezastrul”, e repetat de trei ori în acest verset, ca un refren al judecății; Metzudat Țion îl explică prin Iov 31:3: „oare nu e nenorocirea (eid) pentru cel nelegiuit?”. Metzudat David: nu trebuia să intri pe porțile cetăților ca să le cucerești."
       },
       {
        "t": ". Și n-ar fi trebuit să "
@@ -27634,7 +27737,8 @@
        "translit": "al-tērē gam-ata beraato beiom ēido",
        "strong": "H7451",
        "pos": "negație + verb + adverb + substantiv + substantiv",
-       "def_ro": "nu privi, chiar tu, la răul lui, în ziua nenorocirii lui."
+       "def_ro": "nu privi, chiar tu, la răul lui, în ziua nenorocirii lui.",
+       "dict_ro": "Raa — „răul, nenorocirea”; al tere, „să nu privești”, adică să nu privești cu plăcere. Radak: „și tu” — ca ceilalți, care erau străini, deși tu ești frate. Metzudat David: nu se cuvine să privești la rușinea lui ca să-l faci de ocară."
       },
       {
        "t": ". N-ar fi trebuit să-ți "
@@ -27646,7 +27750,8 @@
        "translit": "veal-tișlahna vehēilo beiom ēido",
        "strong": "H7971",
        "pos": "negație + verb + substantiv + substantiv",
-       "def_ro": "și nu-ți întinde [mâinile] spre bogăția lui în ziua nenorocirii lui."
+       "def_ro": "și nu-ți întinde [mâinile] spre bogăția lui în ziua nenorocirii lui.",
+       "dict_ro": "Șalah — „a trimite, a întinde”; al tișlahna, „să nu întinzi”, iar complementul „mâinile tale” lipsește din ebraică. Rashi: e o eliptică, la care trebuie adăugat „mâinile tale”, și așa a tradus Ionatan. Hail, „avuția”, e același cuvânt ca în 1:11."
       },
       {
        "t": "."
@@ -27674,8 +27779,16 @@
      ],
      "commentaries": [
       {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și n-ar fi trebuit să-ți întinzi [mâna] către prada lui” — nu trebuia să-ți întinzi mâna spre avuția lor; așa a tradus Ionatan; e o eliptică, la care trebuie adăugat „mâinile tale”."
+      },
+      {
        "author": "Metzudat David",
        "text": "„Nu intra” — cu atât mai mult nu se cuvenea să intri pe porțile cetăților poporului Meu în ziua venirii asupra lor a năpastei, adică nu se cuvenea să intri pe porțile cetăților ca să le cucerești, cum ai făcut la distrugerea celui de-al Doilea Templu. „Nu privi, chiar tu” — aceasta se spune despre neamurile care locuiau pe muntele Seir, vecinii lui Israel, căci în ziua când [dușmanul] a cucerit Ierusalimul, au venit și ei și au întins mâna să ia pradă și să jefuiască, cum e amintit la Iosefus."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și n-ar fi trebuit să privești la nenorocirea lui” — „și tu”, ca ceilalți, care erau străini, pe când tu ești frate. „N-ar fi trebuit să-ți întinzi mâna” — adică să nu-ți întinzi mâinile spre averea lui; și așa a tradus Ionatan: „ți-ai întins mâna spre averea lui în ziua zdrobirii lui”."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -27716,7 +27829,8 @@
        "translit": "veal-tasgēr seridav beiom tzara",
        "strong": "H5462",
        "pos": "negație + verb + substantiv + substantiv + substantiv",
-       "def_ro": "și nu-i închide pe cei rămași ai lui în ziua necazului."
+       "def_ro": "și nu-i închide pe cei rămași ai lui în ziua necazului.",
+       "dict_ro": "Sagar — „a închide”, la forma cauzativă hisgir, „a preda, a da în mâna cuiva”, ca în Deuteronom 23:15 (EDC): „să nu predai stăpânului său pe robul care a fugit la tine”. Sarid, „cel scăpat, supraviețuitorul”. Radak: edomiții stăteau la răscruci, unde se despart drumurile, ca să nu scape niciun israelit fără să fie prins; Metzudat David: nu trebuia să-i arunci în închisoare, cum ai făcut în fiecare generație."
       },
       {
        "t": "."
@@ -27753,6 +27867,10 @@
        "text": "„Nu sta la răscruce” — aceasta se spune despre oamenii lui Titus care i-au exilat pe israeliți, și spune: măcar nu se cuvenea să stai și să te întărești asupra prăpădului, ca să-i stârpești pe supraviețuitorii lui, adică măcar, pe când era el în exil, nu se cuvenea să-i pierzi și să-i stârpești pe cei rămași din rămășiță, cum ai pierdut și stârpit în fiece generație. „Și nu-i închide” — nu se cuvenea să-i închizi în temniță, cum ai făcut în fiece generație."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „N-ar fi trebuit să stai la răscruci” — e capul drumului, locul unde drumurile se despart, unul încoace și altul încolo; edomiții stăteau la răscruce, ca să nu poată fugi niciun israelit fără să-l prindă, și păzeau drumurile împotriva lor. „Fugarii lui” — cu hiric, ca „supraviețuitorii lui”."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Nici n-ar fi trebuit să stai la răscruce — într-un loc unde se întâlneau două sau mai multe drumuri, ca să oprești pe iudeii ce fugeau, orice drum ar fi ales să apuce: sau, „la spărtură”, adică a zidurilor cetății; ca să-i taie pe cei ai lui care scăpau; pe aceia dintre iudei care scăpaseră de sabia caldeenilor în cetate, și încercau să fugă prin spărturile zidurilor ei, sau apucau diferite drumuri ca să scape; aceștia erau prinși și opriți de edomiți, care se așezau la aceste spărturi, sau la locurile unde se întâlneau două sau mai multe drumuri, și-i tăiau."
       }
@@ -27774,7 +27892,8 @@
        "translit": "karov iom-ADONAI al-kol-hagoim",
        "strong": "H7138",
        "pos": "adjectiv + substantiv + substantiv propriu + substantiv",
-       "def_ro": "aproape [este] ziua DOMNULUI peste toate neamurile!"
+       "def_ro": "aproape [este] ziua DOMNULUI peste toate neamurile!",
+       "dict_ro": "Iom Adonai — „ziua DOMNULUI”, ziua judecății lui Dumnezeu asupra celor răi, temă comună a profeților (Ioel 1:15; Amos 5:18; Isaia 13:6). Karov, „aproape”; Metzudat Țion: pregătită înaintea Lui, ca în „ziua nenorocirii lor este aproape” (Deuteronom 32:35). Radak: deși era departe de ziua profeției, de vreme ce Dumnezeu a spus că va fi, e ca și cum ar fi aproape."
       },
       {
        "t": " "
@@ -27786,7 +27905,8 @@
        "translit": "kaașer asita ieasē lah",
        "strong": "H6213",
        "pos": "pronume relativ + verb + verb + prepoziție",
-       "def_ro": "după cum ai făcut, ți se va face."
+       "def_ro": "după cum ai făcut, ți se va face.",
+       "dict_ro": "Asa — „a face”; kaașer asita ieasē lah, „cum ai făcut, ți se va face”, principiul „măsură pentru măsură” al dreptății biblice (Levitic 24:19: „cum a făcut, așa să i se facă”). Ieremia spune la fel despre Babilon: „faceți-i cum a făcut ea” (Ieremia 50:15). Metzudat David: cum ai făcut tu lui Israel, așa ți se va face."
       },
       {
        "t": "; "
@@ -27798,7 +27918,8 @@
        "translit": "gemulha iașuv beroșeha",
        "strong": "H1576",
        "pos": "substantiv + verb + substantiv",
-       "def_ro": "răsplata ta se va întoarce pe capul tău."
+       "def_ro": "răsplata ta se va întoarce pe capul tău.",
+       "dict_ro": "Ghemul — „răsplata, fapta răsplătită”, de la gamal, „a face, a răsplăti”. Imaginea faptei care se întoarce pe capul făptuitorului apare și în Psalmi 7:16: „răutatea lui se întoarce asupra capului său”. Metzudat David: răsplata cuvenită ție se va întoarce pe capul tău."
       },
       {
        "t": "."
@@ -27830,6 +27951,10 @@
       {
        "author": "Metzudat David",
        "text": "„Căci aproape este ziua DOMNULUI” — vrea să spună: s-ar fi cuvenit să gândești că ziua răsplătirii de la DOMNUL, rânduită să vină asupra tuturor neamurilor care au făcut rău lui Israel, este aproape și gata pregătită înaintea Lui să vină, și după cum ai făcut tu lui Israel, așa ți se va face și ție. „Răsplata ta” — răsplata cuvenită ție se va întoarce pe capul tău."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Căci aproape este ziua DOMNULUI” — deși era departe de ziua profeției. „Peste toate neamurile” — căci va fi în ziua mântuirii lui Israel; și e ca și cum ar fi aproape, căci, de vreme ce Dumnezeu a spus că va fi, se cuvine să fie socotită aproape."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -27874,7 +27999,8 @@
        "translit": "ishtu hol-hagoim tamid",
        "strong": "H8548",
        "pos": "verb + substantiv + adverb",
-       "def_ro": "vor bea toate neamurile necontenit."
+       "def_ro": "vor bea toate neamurile necontenit.",
+       "dict_ro": "Tamid — „necontenit, mereu”. Paharul mâniei lui Dumnezeu e o imagine a profeților (Ieremia 25:15; Isaia 51:17), iar Plângerile i-o spun chiar Edomului: „și la tine va trece paharul, fiica Edomului” (Plângeri 4:21). Radak: cum ați făcut ospăț și bucurie la dărâmarea muntelui Meu cel sfânt, așa veți bea paharul amețelii, tu și toate neamurile, fără oprire, până se vor sfârși cei răi dintre ele."
       },
       {
        "t": ": "
@@ -27886,7 +28012,8 @@
        "translit": "veșatu velau",
        "strong": "H3886",
        "pos": "verb + verb",
-       "def_ro": "și vor bea și vor sorbi/înghiți."
+       "def_ro": "și vor bea și vor sorbi/înghiți.",
+       "dict_ro": "Laa — „a sorbi, a înghiți”, verb rar; Radak îl explică prin „a înghiți”, ca în Proverbe 20:25; Metzudat Țion: stricăciune și tulburare, ca în Iov 6:3: „de aceea cuvintele mele sunt nesăbuite (lau)”. Rashi, după Targum: e o expresie de amețeală și amorțire a minții. Metzudat David: vor fi tulburați de pedepse, ca și cum ar fi băut o băutură care amețește."
       },
       {
        "t": ", și "
@@ -27898,7 +28025,8 @@
        "translit": "vehaiu kelo haiu",
        "strong": "H3808",
        "pos": "verb + adverb de negație + verb",
-       "def_ro": "și vor fi ca și cum n-ar fi fost."
+       "def_ro": "și vor fi ca și cum n-ar fi fost.",
+       "dict_ro": "Lo — „nu”; kelo haiu, „ca și cum n-ar fi fost”, expresia nimicirii desăvârșite, încât nici urma nu rămâne. Iov spune la fel: „aș fi fost ca și cum n-aș fi fost” (Iov 10:19). Radak: vor fi nimiciți încât nu li se va mai cunoaște locul, ca și cum n-ar fi fost."
       },
       {
        "t": "."
@@ -27935,6 +28063,10 @@
        "text": "„Căci așa cum ați băut” — cu privire la Iuda se spune: așa cum voi ați băut pe muntele Meu cel sfânt din cupa amețelii, așa vor bea și babilonienii care v-au făcut rău mereu cupa amețelii, până când vor pieri. „Și vor bea și vor înghiți” — și cum vor bea cupa, vor fi stricați și tulburați, o expresie figurată, adică vor fi tulburați de pedeapsă ca și cum ar fi băut o băutură care ametește și tulbură. „Și vor fi ca și cum n-ar fi fost” — vor pieri ca și cum n-ar fi existat niciodată."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Căci așa cum ați băut pe muntele Meu cel sfânt” — cum ați făcut ospăț și bucurie la dărâmarea muntelui Meu cel sfânt, așa veți bea paharul amețelii, tu și toate neamurile. „Așa vor bea necontenit și neamurile” — „necontenit” înseamnă fără oprire, până se vor sfârși cei răi dintre ei, care au făcut rău lui Israel; și așa traduce Ionatan: „cum v-ați bucurat de lovitura muntelui Meu cel sfânt, așa vor bea toate neamurile paharul pedepsei lor, necontenit”. „Vor bea și vor înghiți” — velau, ca în „să înghită (iala) lucrurile sfinte”. „Și vor fi ca și cum n-ar fi fost” — vor fi nimiciți, încât nu li se va mai cunoaște locul, ca și cum n-ar fi fost."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Căci așa cum ați băut pe muntele Meu cel sfânt, așa vor bea toate neamurile necontenit — fie că e vorba spuse edomiților, și sensul e, potrivit Targumului: „așa cum v-ați bucurat de lovitura [dată sau la surparea și distrugerea] muntelui sfințeniei Mele, toate popoarele vor bea cupa răzbunării lor”, sau a pedepsei; și în același sens tâlcuiesc Jarchi și Japhet; și tot așa Kimchi: „așa cum ați făcut un ospăț, bucurându-vă de distrugerea muntelui Meu sfânt, așa tu și toate neamurile veți bea din cupa cutremurului”; dar Aben Ezra crede că vorbele sunt spuse israeliților: „așa cum ați băut voi cupa, așa vor bea toate neamurile.”"
       }
@@ -27956,7 +28088,8 @@
        "translit": "uvehar Tzion tihiē pelēita",
        "strong": "H6413",
        "pos": "substantiv propriu + verb + substantiv",
-       "def_ro": "și pe muntele Țion va fi o scăpare/rămășiță."
+       "def_ro": "și pe muntele Țion va fi o scăpare/rămășiță.",
+       "dict_ro": "Peleita — „scăparea, rămășița”, de la palat, „a scăpa”. Ioel spune la fel: „pe muntele Sionului și la Ierusalim va fi scăpare” (Ioel 2:32). Radak: deși mulți din Israel au pierit în exil, va fi pentru ei o mare scăpare pe muntele Sionului, din care au fost exilați. Opoziția e deliberată: pentru Esau nu va fi „supraviețuitor” (sarid, 1:18), pentru Sion va fi „scăpare”."
       },
       {
        "t": " și "
@@ -27968,7 +28101,8 @@
        "translit": "vehaia kodeș",
        "strong": "H6944",
        "pos": "verb + substantiv",
-       "def_ro": "și va fi [loc] sfânt."
+       "def_ro": "și va fi [loc] sfânt.",
+       "dict_ro": "Kodeș — „sfințenia, lucrul sfânt”, de la kadaș, „a fi pus deoparte”. Metzudat David: căci nu va mai intra în el cel netăiat împrejur și cel necurat, cum spune Isaia 52:1. Ioel 3:17 (EDC): „Ierusalimul va fi sfânt, și străinii nu vor mai trece prin el”."
       },
       {
        "t": ", și "
@@ -28019,6 +28153,10 @@
        "text": "„Dar pe muntele Țion” — dar pe muntele Țion va fi scăpare și rămășiță, adică oamenii lui vor rămâne. „Și va fi sfânt” — căci nu va mai veni în el necircumcis și necurat. „Pe cei ce i-au moștenit” — pe neamurile care i-au moștenit pe ei de atunci."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Iar pe muntele Țion va fi o rămășiță” — deși mulți din Israel au pierit în exil, va fi pentru ei încă o mare scăpare pe muntele Sionului, din care au fost exilați. „Și va fi sfântă” — Israel va fi sfânt DOMNULUI, căci vor fi sfinți și nu va mai fi între ei cel netăiat împrejur și cel necurat. „Și casa lui Iacov vor deposeda pe cei ce i-au deposedat” — ce au moștenit la început vor moșteni iar, și vor moșteni pe deasupra și țara vecinilor lor: țara Edomului, a lui Moab și a filistenilor."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Dar pe muntele Țion va fi izbăvire — nu doar prin Cirus, la sfârșitul celor șaptezeci de ani de robie; și prin macabei, de la idumeni și alți vrăjmași; ci prin Mesia; căci nu doar izbăvirea vremelnică e vizată aici, decât ca o umbră, un tip și o închipuire; ci izbăvirea duhovnicească de sub lege, păcat, satana, lume, moarte, iad și mânia viitoare, prin Hristos."
       },
@@ -28041,7 +28179,8 @@
        "translit": "vehaia vēit-Iaakov ēș",
        "strong": "H784",
        "pos": "verb + substantiv propriu compus + substantiv",
-       "def_ro": "și va fi casa lui Iacov foc."
+       "def_ro": "și va fi casa lui Iacov foc.",
+       "dict_ro": "Eș — „focul”. Imaginea focului care mistuie miriștea e cea din cântarea mării: „Tu Îți trimiți mânia și ea îi mistuie ca pe o miriște” (Exod 15:7). Radak: cum focul mănâncă paiele, așa îi vor mânca și îi vor nimici; „casa lui Iacov” și „casa lui Iosif” sunt aceeași idee spusă de două ori, căci de la împărțirea regatului casa lui Iacov s-a numit și casa lui Iosif, dar în viitor vor fi iar una."
       },
       {
        "t": ", și "
@@ -28053,7 +28192,8 @@
        "translit": "uvēit Iosēf lehava",
        "strong": "H3852",
        "pos": "substantiv propriu compus + substantiv",
-       "def_ro": "și casa lui Iosef, flacără."
+       "def_ro": "și casa lui Iosef, flacără.",
+       "dict_ro": "Lehava — „flacăra”; Metzudat Țion: văpaia. Talmudul (Bava Batra 123b): Iacov a hotărât să se întoarcă acasă abia după nașterea lui Iosif (Geneza 30:25), căci a văzut că sămânța lui Esau nu va fi dată decât în mâna seminției lui Iosif, după cum s-a spus: „casa lui Iosif, flacără, și casa lui Esau, paie”. Radak aduce aceeași învățătură a Înțelepților."
       },
       {
        "t": ", și "
@@ -28065,7 +28205,8 @@
        "translit": "uvēit Ēsav lekaș",
        "strong": "H7179",
        "pos": "substantiv propriu compus + substantiv",
-       "def_ro": "și casa lui Esau, paie."
+       "def_ro": "și casa lui Esau, paie.",
+       "dict_ro": "Kaș — „paiele, miriștea”, ce rămâne pe câmp după seceriș; Metzudat Țion: paiul mărunt. E imaginea celor răi în fața judecății, ca în Maleahi 4:1 (EDC): „toți cei trufași vor fi ca miriștea”. Metzudat David: caldeenii vor fi ca paiele care ard repede."
       },
       {
        "t": ": "
@@ -28077,7 +28218,8 @@
        "translit": "vedalku vahem vaahalum",
        "strong": "H1814",
        "pos": "verb + substantiv + verb",
-       "def_ro": "și se vor aprinde asupra lor și-i vor mânca."
+       "def_ro": "și se vor aprinde asupra lor și-i vor mânca.",
+       "dict_ro": "Dalak — „a aprinde, a arde”; Metzudat Țion: ardere și aprindere. Ahal, „a mânca”, e verbul obișnuit pentru focul care „mănâncă” ce arde. Metzudat David: Israel va aprinde casa lor și o va arde, adică vor pune capăt nimicirii lor."
       },
       {
        "t": " și "
@@ -28089,7 +28231,8 @@
        "translit": "velo-ihiē sarid levēit Ēsav",
        "strong": "H8300",
        "pos": "negație + verb + substantiv + substantiv propriu compus",
-       "def_ro": "și nu va fi rămășiță pentru casa lui Esau."
+       "def_ro": "și nu va fi rămășiță pentru casa lui Esau.",
+       "dict_ro": "Sarid — „supraviețuitorul, cel rămas”, de la sarad, „a scăpa”. Rashi: „căci DOMNUL a vorbit” — unde a vorbit? „Din Iacov va ieși un stăpânitor și va nimici rămășița din cetate” (Numeri 24:19), profeția lui Balaam, care vorbește chiar despre Edom și Seir (Numeri 24:18)."
       },
       {
        "t": ", căci "
@@ -28101,7 +28244,8 @@
        "translit": "ki ADONAI dibēr",
        "strong": "H1696",
        "pos": "conjuncție + substantiv propriu + verb",
-       "def_ro": "căci DOMNUL a vorbit!"
+       "def_ro": "căci DOMNUL a vorbit!",
+       "dict_ro": "Diber — „a vorbi”; ki Adonai diber, „căci DOMNUL a vorbit”, formula cu care profeții închid o hotărâre de neschimbat; aceleași cuvinte încheie și Ioel 3:8, iar Isaia spune „căci gura DOMNULUI a vorbit” (Isaia 1:20; 40:5). Metzudat David: și cu siguranță așa va fi."
       }
      ],
      "textCompare": [
@@ -28129,8 +28273,20 @@
      ],
      "commentaries": [
       {
+       "author": "Rashi (1040–1105)",
+       "text": "„Căci DOMNUL a vorbit” — și unde a vorbit? „Din Iacov va ieși un stăpânitor și va nimici rămășița din cetate” (Numeri 24:19)."
+      },
+      {
        "author": "Metzudat David",
        "text": "„Foc” — vor arde ca focul. „Și casa lui Iosif, flacără” — repetiție de idee cu ceea ce s-a spus. „Paie” — caldeenii vor fi asemenea paielor arse repede. „Și se vor aprinde asupra lor” — Israel va aprinde casa caldeenilor și-i va arde, adică ei vor duce la capăt nimicirea lor și nu va rămâne nimic din ei. „Căci DOMNUL a vorbit” — și cu siguranță așa va fi."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Casa lui Iacov va fi foc” — cum focul mănâncă paiele, așa îi vor mânca și îi vor nimici; „casa lui Iacov” și „casa lui Iosif” sunt aceeași idee spusă de două ori cu alte cuvinte, căci casa lui Iacov s-a numit casa lui Iosif din ziua în care s-a împărțit regatul, dar în viitor va fi iar una; iar învățătorii noștri au tâlcuit că l-a pomenit pe Iosif pentru că sămânța lui Esau nu cade decât în mâna lui Iosif sau în mâna seminției lui Iosif."
+      },
+      {
+       "author": "Talmud Bavli, Bava Batra 123b",
+       "text": "Rabi Helbo l-a întrebat pe Rabi Șmuel bar Nahmani: e scris: „Și când Rahela l-a născut pe Iosif, Iacov a zis lui Laban: Lasă-mă să plec” — ce are nașterea lui Iosif? I-a răspuns: Iacov, tatăl nostru, a văzut că sămânța lui Esau nu va fi dată decât în mâna seminției lui Iosif, căci s-a spus: „Casa lui Iacov va fi foc, și casa lui Iosif flacără, și casa lui Esau paie”."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
@@ -28159,7 +28315,8 @@
        "translit": "veiarșu ha'Neghev et-har Ēsav",
        "strong": "H5045",
        "pos": "verb + substantiv propriu + substantiv propriu compus",
-       "def_ro": "și vor moșteni [cei din] miazăzi muntele lui Esau."
+       "def_ro": "și vor moșteni [cei din] miazăzi muntele lui Esau.",
+       "dict_ro": "Neghev — „miazăzi”, ținutul uscat din sudul țării lui Israel, vecin cu muntele lui Esau. Iaraș, „a moșteni, a lua în stăpânire”. Rashi: Israel, care locuia în sudul țării, va moșteni muntele lui Esau, aflat la hotarul de sud. Radak: vor moșteni din muntele lui Esau doar câmpia, căci muntele va rămâne pustiu pe veci."
       },
       {
        "t": "; și "
@@ -28171,7 +28328,8 @@
        "translit": "vehașefēla et-pelishtim",
        "strong": "H8219",
        "pos": "substantiv propriu + substantiv propriu",
-       "def_ro": "și [cei din] podiș, [pe] filisteni."
+       "def_ro": "și [cei din] podiș, [pe] filisteni.",
+       "dict_ro": "Șefela — „câmpia joasă”, dealurile line dintre munții lui Iuda și câmpia de pe țărmul mării, unde locuiau filistenii; Metzudat Țion: valea. Metzudat David: vor moșteni și șefela, care e țara filistenilor, căci țara filistenilor era în câmpie."
       },
       {
        "t": "; și vor moșteni "
@@ -28183,7 +28341,8 @@
        "translit": "et-sedē Efraim veēt sedē Șomron",
        "strong": "H7704",
        "pos": "substantiv + substantiv propriu + substantiv + substantiv propriu",
-       "def_ro": "câmpul lui Efraim și câmpul Samariei."
+       "def_ro": "câmpul lui Efraim și câmpul Samariei.",
+       "dict_ro": "Sade — „câmpul”, ogorul deschis. Metzudat David: în zilele lui Iosua n-au moștenit decât muntele lui Efraim, căci n-au putut izgoni pe locuitorii văii, care aveau care de fier (Iosua 17:16); iar muntele Samariei l-a cumpărat Omri (1 Împărați 16:24); în viitor vor moșteni și câmpurile. Radak: atunci nu vor mai avea nevoie de munți pentru adăpost, ci de câmpie."
       },
       {
        "t": "; și "
@@ -28195,7 +28354,8 @@
        "translit": "u'Viniamin et-ha'Ghilad",
        "strong": "H1121",
        "pos": "substantiv propriu + substantiv propriu",
-       "def_ro": "și Beniamin, Ghiladul."
+       "def_ro": "și Beniamin, Ghiladul.",
+       "dict_ro": "Binyamin — „fiul dreptei”, fiul cel mic al lui Iacov și al Rahelei (Geneza 35:18), al cărui hotar ajungea la Iordan. Ghiladul e ținutul de peste Iordan, la răsărit. Radak: Beniamin își va lărgi hotarul peste Iordan, în câmpia Ghiladului, iar Manase, care avea Ghiladul, se va întinde mai departe, în țara lui Moab și a lui Amon."
       },
       {
        "t": "."
@@ -28234,6 +28394,10 @@
        "text": "„Și vor moșteni [cei din] miazăzi” — casa lui Iacov, amintită în versetul dinainte, ei vor moșteni miazăzi, și se întoarce să tălmăcească: muntele lui Esau, care e la miazăzi Țării lui Israel. „Și podișul” — vor moșteni și podișul, și se întoarce să tălmăcească: filistenii, căci țara filistenilor era la podiș."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Vor moșteni la miazăzi, muntele lui Esau” — din muntele lui Esau vor moșteni miazăzi, adică ținutul câmpiei, căci muntele lui Esau va fi pustiu pe veci. „Și podișul, Filistia” — vor moșteni câmpia din țara filistenilor, căci nu vor mai avea nevoie de munți ca să se adăpostească în ei, nici ca să semene în ei, dacă nu vor voi, căci câmpia și miazăzi le vor ajunge. „Și vor moșteni câmpul lui Efraim și câmpul Samariei” — căci la început locuiau în muntele lui Efraim și în muntele Samariei, iar atunci nu vor mai avea nevoie de munți, nici ca să locuiască, nici ca să semene, ci de câmpii. „Și Beniamin [va moșteni] Ghiladul” — și Beniamin, al cărui hotar era la Iordan, va moșteni de acolo mai departe câmpia din țara Ghiladului, de peste Iordan, iar Manase, care avea țara Ghiladului, își va întinde hotarul mai departe, în țara lui Moab și a fiilor lui Amon. Ionatan traduce: „locuitorii miazăzii vor moșteni muntele lui Esau”, adică cei care locuiesc în sudul țării lui Israel vor moșteni muntele lui Esau, care le e vecin."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Și cei de la miazăzi vor moșteni țara lui Esau — adică acei iudei care vor locui în partea de miazăzi a Iudeii vor pune stăpânire pe țara Idumeii, aflată alături de ei; își vor lărgi hotarul, luând-o în stăpânire. Și cei din podiș, pe filisteni — sau din Șefela, cei ce vor locui în podișul, sau ținutul câmpiei Iudeii, precum părțile Lidei, Emausului și Șaronului."
       }
@@ -28268,7 +28432,8 @@
        "translit": "așer-kenaanim ad-Tzarefat",
        "strong": "H3667",
        "pos": "pronume relativ + substantiv propriu + substantiv propriu",
-       "def_ro": "care [sunt] canaaniți, până la Țarfat."
+       "def_ro": "care [sunt] canaaniți, până la Țarfat.",
+       "dict_ro": "Țarfat — cetate feniciană între Tir și Sidon, unde a locuit Ilie la văduvă (1 Împărați 17:9-10). În tradiția evreiască medievală, Țarfat a devenit numele Franței, iar Rashi notează: „tâlcuitorii spun că Țarfat e regatul numit în franceză France”. Radak: e exilul lui Titus, împrăștiat prin țări, și spune după o tradiție că unii canaaniți fugiți de Iosua s-au așezat în acele țări."
       },
       {
        "t": ", iar "
@@ -28280,7 +28445,8 @@
        "translit": "vegalut Ierușalaim așer bi'Sefarad",
        "strong": "H3389",
        "pos": "substantiv + substantiv propriu + pronume relativ + substantiv propriu",
-       "def_ro": "și exilul Ierusalimului, care e în Sefarad."
+       "def_ro": "și exilul Ierusalimului, care e în Sefarad.",
+       "dict_ro": "Sefarad — un loc de exil al celor din Ierusalim, necunoscut cu siguranță; Targumul lui Ionatan îl traduce „Aspamia”, adică Spania, și de aici evreii din Peninsula Iberică și urmașii lor se numesc „sefarzi”. Rashi: „Sefarad — Ionatan traduce: Spania”. Metzudat David: exilații Ierusalimului care locuiesc în Sefarad vor moșteni cetățile din miazăzi."
       },
       {
        "t": ", vor moșteni "
@@ -28292,7 +28458,8 @@
        "translit": "irșu ēt arēi ha'Neghev",
        "strong": "H5892",
        "pos": "verb + substantiv + substantiv propriu",
-       "def_ro": "vor moșteni cetățile de la miazăzi!"
+       "def_ro": "vor moșteni cetățile de la miazăzi!",
+       "dict_ro": "Ir — „cetatea”; arei hanneghev, „cetățile din miazăzi”, adică cetățile lui Iuda (Iosua 15:21), căci partea lui Iuda era în sudul țării. Radak: cum spune Ieremia 13:19: „cetățile de la miazăzi sunt închise și nu e cine să le deschidă”; exilații se vor întoarce în țara și în cetățile lor."
       }
      ],
      "textCompare": [
@@ -28328,6 +28495,10 @@
        "text": "„Și exilul acestei oști etc.” — în versetul dinainte s-a spus că oamenii casei lui Iacov vor moșteni miazăzi etc., și acum tălmăcește cine anume dintre ei vor fi moștenitorii, și spune: fiii exilului acestei oști a fiilor lui Israel, care au locuit împreună cu canaaniții ce fugiseră din țara lor în zilele lui Iosua, al căror loc de locuire e până la Țarfat, și de asemenea fiii exilului Ierusalimului care au locuit în Sefarad, ei vor moșteni cetățile de la miazăzi, adică muntele lui Esau, țara Edomului."
       },
       {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Și această oaste exilată a copiilor lui Israel” — hahel e ca haiil, „oastea”, lipsind iodul; adică fiii lui Israel care sunt împrăștiați în exil. „Care au fost cu canaaniții până în Țarfat” — care au fost exilați și sunt printre canaaniți, până la Țarfat. „Iar exilații din Ierusalim, care sunt în Sefarad, vor moșteni orașele de la miazăzi” — acestea sunt cetățile lui Iuda, căci partea lui Iuda era în sudul țării lui Israel, cum a spus Ieremia: „cetățile de la miazăzi sunt închise și nu e cine să le deschidă”; spune „vor moșteni” despre exilații Ierusalimului, care erau din fiii lui Iuda, adică se vor întoarce în țara și în cetățile lor. Exilul acesta e exilul lui Titus, care i-a împrăștiat prin țări: Țarfat e cea numită France, iar Sefarad e Spania; cei din Ierusalim au fost exilați în Spania."
+      },
+      {
        "author": "John Gill, Expoziție la Vechiul Testament",
        "text": "Iar exilul acestei oștiri a fiilor lui Israel va moșteni pe cel al canaaniților, chiar până la Țarfat — adică oastea, marele număr al fiilor lui Israel, care au fost duși captivi, la întoarcerea lor va lua în stăpânire acea parte a țării lui Israel care fusese locuită mai înainte de canaaniți, chiar până la Țarfat, despre care se spune că aparține Sidonului (1 Împărați 17:10), numit Sarepta Sidonului."
       }
@@ -28359,7 +28530,8 @@
        "translit": "lishpot et-har Ēsav",
        "strong": "H8199",
        "pos": "verb + substantiv propriu compus",
-       "def_ro": "ca să judece muntele lui Esau."
+       "def_ro": "ca să judece muntele lui Esau.",
+       "dict_ro": "Șafat — „a judeca”, dar și „a face dreptate, a pedepsi”; Rashi: să-l pedepsească pe muntele lui Esau pentru ce au făcut lui Israel. Moșiim, „izbăvitorii”, e titlul judecătorilor din vechime (Judecători 3:9; Neemia 9:27). Radak: izbăvitorii sunt Regele Mesia și tovarășii lui, „șapte păstori și opt căpetenii” (Mica 5:5)."
       },
       {
        "t": ", și "
@@ -28371,7 +28543,8 @@
        "translit": "vehaita l'ADONAI hameluha",
        "strong": "H4410",
        "pos": "verb + substantiv propriu + substantiv",
-       "def_ro": "și va fi a DOMNULUI împărăția!"
+       "def_ro": "și va fi a DOMNULUI împărăția!",
+       "dict_ro": "Melucha — „împărăția, domnia”, de la malah, „a domni”. Cartea se încheie cu aceleași cuvinte ca Psalmi 22:28: „căci a DOMNULUI este împărăția”. Rashi: aceasta te învață că împărăția Lui nu e deplină până nu Se răzbună pe Amalec. Radak: atunci toate neamurile vor recunoaște domnia Lui, cum a spus Zaharia 14:9: „DOMNUL va fi Împărat peste tot pământul; în ziua aceea, DOMNUL va fi singurul DOMN și Numele Lui va fi singurul Nume”."
       }
      ],
      "textCompare": [
@@ -28404,6 +28577,10 @@
       {
        "author": "Metzudat David",
        "text": "„Și se vor sui izbăvitori” — izbăvitorii care vor fi pe muntele Țion sunt regele Mesia și căpeteniile lui, când se vor sui pe muntele Seir ca să facă în ei judecată pentru răul ce l-au făcut lui Israel; atunci va fi a DOMNULUI împărăția, adică atunci toți vor mărturisi împărăția Lui și-L vor primi ca Dumnezeu."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Radak: „Izbăvitorii se vor urca pe muntele Țion” — Regele Mesia și tovarășii lui, „șapte păstori și opt căpetenii dintre oameni”. „Ca să judece muntele lui Esau” — să ia de la ei dreptatea lui Israel pentru tot răul pe care li l-au făcut; Ionatan traduce: „și se vor urca izbăvitori pe muntele Sionului ca să judece cetatea cea mare a lui Esau”. „Și a DOMNULUI va fi împărăția” — atunci împărăția va fi numai a DOMNULUI, căci toate neamurile vor recunoaște domnia Lui, cum a spus Zaharia: „DOMNUL va fi Împărat peste tot pământul; în ziua aceea, DOMNUL va fi unul și Numele Lui unul”; iar Ionatan traduce: „și se va descoperi împărăția DOMNULUI peste toți locuitorii pământului, și împărăția DOMNULUI va fi în veci”."
       },
       {
        "author": "John Gill, Expoziție la Vechiul Testament",
