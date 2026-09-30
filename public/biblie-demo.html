@@ -477,7 +477,8 @@
     color:var(--ink);
     cursor:pointer;
   }
-  .picker-book-name.current{color:var(--gold); font-weight:600;}
+  /* Eliminat explicit: nicio culoare diferită pentru "cartea citită acum" —
+     toate intrările din lista "Cărți" rămân identice, albe, fără excepție. */
   .picker-book-name.unavailable{opacity:0.4;}
   .picker-book-name .chev{
     color:var(--ink-soft);
@@ -515,11 +516,14 @@
      5 cărți în interior (fiecare, la rândul ei, expandabilă spre lista de nume). */
   .picker-chapter-grid.picker-haftarah-books{display:none; grid-template-columns:none;}
   .picker-book-item.open .picker-chapter-grid.picker-haftarah-books{display:block;}
-  /* Corectare: nu culori diferite ÎN interiorul aceleiași liste — toate
-     intrările dintr-o listă (Geneza, Exodul... Haftarot; sau cele 5 cărți
-     din Haftarot; sau Haftarot individuale) au aceeași culoare de text,
-     .lib-book-name implicit (var(--ink)), fără excepție. */
+  /* Regulă exactă, pe 3 niveluri de navigare (nu pe intrări individuale din
+     aceeași listă — toate intrările dintr-un nivel au aceeași culoare):
+     nivel 1 ("Cărți") — alb (implicit, var(--ink), fără excepție);
+     nivel 2 (cărțile din interiorul Haftarot) — albastru închis (var(--gold));
+     nivel 3 (Haftarot individuale) — albastru deschis (var(--gold-bright)). */
+  .picker-haftarah-books > .lib-book-item > div > .lib-book-name{color:var(--gold);}
   .lib-haftarah-name-row{padding-left:16px;}
+  .lib-haftarah-name-row .lib-book-name{color:var(--gold-bright);}
   .chapter-num-btn{
     font-family:'Inter', sans-serif;
     font-size:12px;
@@ -797,9 +801,11 @@
   }
   .lib-reader-chapter-dropdown{
     display:none;
-    position:absolute;
-    top:calc(100% + 6px);
-    left:0; right:0;
+    /* poziționat prin JS (position:fixed + left/width calculate din antet),
+       nu absolute relativ la pilă — pila e mai îngustă decât antetul (are
+       săgeata "←" la stânga și Aa/ⓘ/✕ la dreapta), așa că "left:0;right:0"
+       relativ la ea lăsa o fâșie liberă, prin care se vedea pagina din spate. */
+    position:fixed;
     max-height:260px;
     overflow-y:auto;
     /* Fundal identic cu modelul de referință deja corect din aplicație —
@@ -6005,6 +6011,18 @@ const SUBFOLDER_CARD_IMAGES = {
     });
   }
 
+  // Poziționează dropdown-ul (position:fixed) ca să acopere toată lățimea
+  // antetului (.lib-reader-header), nu doar lățimea îngustă a pilei — pila
+  // are alte butoane în stânga/dreapta (←, Aa, ⓘ, ✕), iar dropdown-ul ancorat
+  // doar la pilă lăsa o fâșie liberă prin care se vedea pagina din spate.
+  function positionReaderChapterDropdown(){
+    const header = readerChapterPill.closest(".lib-reader-header") || readerChapterPill.parentElement;
+    const headerRect = header.getBoundingClientRect();
+    const pillRect = readerChapterPill.getBoundingClientRect();
+    readerChapterDropdown.style.left = (headerRect.left + 12) + "px";
+    readerChapterDropdown.style.width = (headerRect.width - 24) + "px";
+    readerChapterDropdown.style.top = (pillRect.bottom + 6) + "px";
+  }
   readerChapterPill.addEventListener("click", (e) => {
     e.stopPropagation();
     const clickedBookLabel = e.target.closest && e.target.closest("#lib-reader-book-label");
@@ -6015,6 +6033,7 @@ const SUBFOLDER_CARD_IMAGES = {
       readerChapterDropdown.classList.remove("lib-reader-book-list");
       buildChapterDropdown(totalChapters(currentBook));
     }
+    positionReaderChapterDropdown();
     readerChapterDropdown.classList.toggle("show");
   });
   document.addEventListener("click", (e) => {
