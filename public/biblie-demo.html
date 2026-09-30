@@ -798,15 +798,19 @@
     left:0; right:0;
     max-height:260px;
     overflow-y:auto;
-    background:var(--parchment);
-    background-color:var(--parchment); /* fundal opac, întărit — nu se vede prin el */
+    /* Era tehnic opac (var(--parchment), #182b4d), dar aproape identic cu
+       gradientul fundalului cititorului (#0f1e38…#16294a) — se confunda cu
+       ce era în spate, "părea" transparent. Fundal mult mai închis, ca să
+       se vadă clar o cutie separată, plus contur luminos, nu discret. */
+    background:#05101f;
+    background-color:#05101f;
     opacity:1;
     isolation:isolate;
     -webkit-backdrop-filter:none;
     backdrop-filter:none;
-    border:1px solid var(--line);
+    border:1px solid rgba(255,255,255,0.35);
     border-radius:10px;
-    box-shadow:0 6px 18px rgba(0,0,0,0.35);
+    box-shadow:0 8px 24px rgba(0,0,0,0.6);
     padding:8px;
     z-index:90;
     grid-template-columns:repeat(6, 1fr);
