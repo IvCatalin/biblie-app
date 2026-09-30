@@ -515,12 +515,11 @@
      5 cărți în interior (fiecare, la rândul ei, expandabilă spre lista de nume). */
   .picker-chapter-grid.picker-haftarah-books{display:none; grid-template-columns:none;}
   .picker-book-item.open .picker-chapter-grid.picker-haftarah-books{display:block;}
-  /* Culori distincte pe niveluri de navigare — nivelul 1 (Cărți, Haftarot ca
-     folder) rămâne alb; nivelul 2 (cărțile din interiorul Haftarot) albastru;
-     nivelul 3 (Haftarot individuale) auriu — ca să se știe pe ce nivel ești. */
-  .picker-haftarah-books > .lib-book-item > div > .lib-book-name{color:var(--gold);}
+  /* Corectare: nu culori diferite ÎN interiorul aceleiași liste — toate
+     intrările dintr-o listă (Geneza, Exodul... Haftarot; sau cele 5 cărți
+     din Haftarot; sau Haftarot individuale) au aceeași culoare de text,
+     .lib-book-name implicit (var(--ink)), fără excepție. */
   .lib-haftarah-name-row{padding-left:16px;}
-  .lib-haftarah-name-row .lib-book-name{color:#FFD700;}
   .chapter-num-btn{
     font-family:'Inter', sans-serif;
     font-size:12px;
@@ -803,19 +802,17 @@
     left:0; right:0;
     max-height:260px;
     overflow-y:auto;
-    /* Era tehnic opac (var(--parchment), #182b4d), dar aproape identic cu
-       gradientul fundalului cititorului (#0f1e38…#16294a) — se confunda cu
-       ce era în spate, "părea" transparent. Fundal mult mai închis, ca să
-       se vadă clar o cutie separată, plus contur luminos, nu discret. */
-    background:#05101f;
-    background-color:#05101f;
+    /* Fundal identic cu modelul de referință deja corect din aplicație —
+       dropdown-ul selectorului de traducere Tora/Fidela (.translation-dropdown):
+       aceeași variabilă, var(--parchment-dark), nu o culoare inventată separat. */
+    background:var(--parchment-dark);
     opacity:1;
     isolation:isolate;
     -webkit-backdrop-filter:none;
     backdrop-filter:none;
-    border:1px solid rgba(255,255,255,0.35);
+    border:1px solid var(--glass-border);
     border-radius:10px;
-    box-shadow:0 8px 24px rgba(0,0,0,0.6);
+    box-shadow:0 8px 24px rgba(0,0,0,0.35);
     padding:8px;
     z-index:90;
     grid-template-columns:repeat(6, 1fr);
@@ -834,12 +831,12 @@
     line-height:1.4;
     white-space:normal;
     background:transparent;
-    border-color:rgba(255,255,255,0.2);
-    color:#fff8e8;
+    border-color:var(--line);
+    color:var(--ink); /* aceeași culoare pentru toate intrările, ca la .version-full — fără excepție */
   }
   .lib-reader-book-btn.active{
-    background:rgba(255,255,255,0.22);
-    color:#fff8e8;
+    background:rgba(111,151,207,0.15); /* exact .version-chip.active — doar fundal, nu culoare de text diferită */
+    color:var(--ink);
   }
   .lib-reader-body{
     flex:1;
