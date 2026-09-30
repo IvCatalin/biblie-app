@@ -6012,16 +6012,32 @@ const SUBFOLDER_CARD_IMAGES = {
   }
 
   // Poziționează dropdown-ul (position:fixed) ca să acopere toată lățimea
-  // antetului (.lib-reader-header), nu doar lățimea îngustă a pilei — pila
-  // are alte butoane în stânga/dreapta (←, Aa, ⓘ, ✕), iar dropdown-ul ancorat
-  // doar la pilă lăsa o fâșie liberă prin care se vedea pagina din spate.
+  // antetului (.lib-reader-header), nu doar lățimea îngustă a pilei.
+  //
+  // Cauza reală a defectului rămas (confirmată live, cu Playwright, pe ecran
+  // lat 1280px, nu presupusă): .lib-reader-modal are `transform` (chiar și
+  // translateY(0), fără efect vizual, e tot "transform", nu "none") — iar
+  // conform specificației CSS, un element position:fixed dintr-un ancestor
+  // cu transform NU se mai poziționează față de ecran, ci față de ACEL
+  // ancestor. Calculam left/top ca și cum ar fi absolute față de ecran
+  // (headerRect, din getBoundingClientRect — mereu relativ la ecran) — pe
+  // ecran lat, unde modalul (480px) e centrat, nu începe la x=0, valoarea
+  // ajungea interpretată greșit, iar panoul se randa mult în dreapta
+  // modalului, tăiat/în afara lui. Pe telefon (unde modalul începe aproape
+  // de x=0) diferența era nesemnificativă — de-asta testele anterioare pe
+  // telefon nu au prins bug-ul, dar pe ecran lat era vizibil.
+  // Corectare: calculăm poziția RELATIV LA MODAL (nu la ecran), scăzând
+  // colțul modalului din coordonatele absolute — exact containerul față de
+  // care browserul va interpreta de fapt left/top.
   function positionReaderChapterDropdown(){
     const header = readerChapterPill.closest(".lib-reader-header") || readerChapterPill.parentElement;
+    const modal = readerChapterPill.closest(".lib-reader-modal") || header;
+    const modalRect = modal.getBoundingClientRect();
     const headerRect = header.getBoundingClientRect();
     const pillRect = readerChapterPill.getBoundingClientRect();
-    readerChapterDropdown.style.left = (headerRect.left + 12) + "px";
+    readerChapterDropdown.style.left = (headerRect.left - modalRect.left + 12) + "px";
     readerChapterDropdown.style.width = (headerRect.width - 24) + "px";
-    readerChapterDropdown.style.top = (pillRect.bottom + 6) + "px";
+    readerChapterDropdown.style.top = (pillRect.bottom - modalRect.top + 6) + "px";
   }
   readerChapterPill.addEventListener("click", (e) => {
     e.stopPropagation();
