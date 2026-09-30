@@ -515,7 +515,12 @@
      5 cărți în interior (fiecare, la rândul ei, expandabilă spre lista de nume). */
   .picker-chapter-grid.picker-haftarah-books{display:none; grid-template-columns:none;}
   .picker-book-item.open .picker-chapter-grid.picker-haftarah-books{display:block;}
+  /* Culori distincte pe niveluri de navigare — nivelul 1 (Cărți, Haftarot ca
+     folder) rămâne alb; nivelul 2 (cărțile din interiorul Haftarot) albastru;
+     nivelul 3 (Haftarot individuale) auriu — ca să se știe pe ce nivel ești. */
+  .picker-haftarah-books > .lib-book-item > div > .lib-book-name{color:var(--gold);}
   .lib-haftarah-name-row{padding-left:16px;}
+  .lib-haftarah-name-row .lib-book-name{color:#FFD700;}
   .chapter-num-btn{
     font-family:'Inter', sans-serif;
     font-size:12px;
@@ -820,12 +825,6 @@
   .lib-reader-chapter-dropdown.lib-reader-book-list.show{
     display:flex;
     flex-direction:column;
-  }
-  /* Lista cu nume (Haftarot — cărți sau Haftarot individuale): fundal ALBASTRU
-     opac, plin, cu scrisul alb — nu fundal negru cu scris colorat. */
-  .lib-reader-chapter-dropdown.lib-reader-book-list{
-    background:var(--gold);
-    background-color:var(--gold);
   }
   .lib-reader-book-btn{
     width:100%;
@@ -1383,6 +1382,7 @@
     text-transform:uppercase;
     color:var(--gold);
     margin-bottom:12px;
+    padding-right:36px; /* loc pentru butonul "✕" (32px + 12px right) — titlurile lungi (Haftarah) altfel se suprapun cu el */
   }
   .ref-preview-text{
     font-family:'Fraunces', serif;
@@ -4308,7 +4308,7 @@ document.getElementById("ref-preview-close").addEventListener("click", hideRefPr
 function refPreviewShareText(){
   const title = document.getElementById("ref-preview-title").textContent;
   const text = document.getElementById("ref-preview-text").textContent.trim();
-  return "„" + text + "” — " + title;
+  return text ? ("„" + text + "” — " + title) : title;
 }
 document.getElementById("ref-preview-copy").addEventListener("click", (e) => {
   e.stopPropagation();
@@ -4361,16 +4361,22 @@ function loadChapterThenOpenVerse(chapterNum, verseNum){
   document.body.appendChild(script);
 }
 
+// Un pasaj fără capitol digitizat încă — același panou standard
+// (#ref-preview-popover) ca orice altă referință, nu o componentă separată
+// (folosea înainte panoul de lexicon, #word-popover) — doar fără buton
+// "→ citește capitolul", că nu există încă acea destinație.
 function showRefUnavailable(anchorEl, refText){
+  const titleEl = document.getElementById("ref-preview-title");
+  const textEl = document.getElementById("ref-preview-text");
+  const popover = document.getElementById("ref-preview-popover");
+  if(!titleEl || !textEl || !popover) return;
   hideWordPopover();
-  document.getElementById("wp-word").textContent = "";
-  document.getElementById("wp-heb").textContent = "";
-  document.getElementById("wp-translit").textContent = "";
-  document.getElementById("wp-strong").textContent = "";
-  document.getElementById("wp-extra").innerHTML = "";
-  document.getElementById("wp-def").textContent =
-    "„" + refText + "”";
-  wordPopover.classList.add("show");
+  titleEl.textContent = refText;
+  textEl.textContent = "";
+  document.getElementById("ref-preview-go").style.display = "none";
+  pendingRefNav = null;
+  pendingHaftarahNav = null;
+  popover.classList.add("show");
 }
 
 
@@ -6365,21 +6371,27 @@ function buildPericopeRefRow(refText){
   row.appendChild(span);
   const book = findBookBySlugName(refText);
   const cv = refText.match(/(\d+):(\d+)/);
-  if(book && cv && chapterIsAvailable(book.slug, parseInt(cv[1], 10))){
-    const chapterNum = parseInt(cv[1], 10);
-    const verseNum = parseInt(cv[2], 10);
-    const btn = document.createElement("button");
-    btn.className = "pericope-ref-go ref-pill-clickable";
-    btn.title = "Vezi pasajul";
-    btn.textContent = "→";
-    btn.addEventListener("click", (e) => {
-      e.stopPropagation();
+  const available = !!(book && cv && chapterIsAvailable(book.slug, parseInt(cv[1], 10)));
+  // Săgeata apare mereu, la fel ca la Haftarah — dacă pasajul nu-i încă
+  // digitizat, panoul standard se arată oricum, onest, gol, fără buton
+  // "→ citește capitolul" (nu există încă acea destinație).
+  const btn = document.createElement("button");
+  btn.className = "pericope-ref-go ref-pill-clickable";
+  btn.title = available ? "Vezi pasajul" : "Vezi referința";
+  btn.textContent = "→";
+  btn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    if(available){
+      const chapterNum = parseInt(cv[1], 10);
+      const verseNum = parseInt(cv[2], 10);
       // Panoul arată doar primele 2 versete ale pasajului; „citește capitolul” duce la tot capitolul.
       showRefPreview(book.name + " " + chapterNum + ":" + verseNum + "-" + (verseNum + 1), btn);
       document.getElementById("ref-preview-title").textContent = refText;
-    });
-    row.appendChild(btn);
-  }
+    } else {
+      showRefUnavailable(btn, refText);
+    }
+  });
+  row.appendChild(btn);
   return row;
 }
 // Titlu ebraic + traducerea lui în română, pe același rând: „Parașat Bereșit – „La început””
@@ -6400,7 +6412,7 @@ function buildHaftarahRefRow(refText, nameLabel){
   const row = document.createElement("div");
   row.className = "pericope-ref-row";
   const span = document.createElement("span");
-  span.textContent = nameLabel ? (nameLabel + " - " + refText) : refText;
+  span.textContent = refText;
   row.appendChild(span);
   const match = (typeof findHaftarahByRef === "function") ? findHaftarahByRef(refText) : null;
   // Săgeata apare mereu, ca la orice altă referință — dacă Haftara nu-i încă
@@ -6431,13 +6443,16 @@ function renderPericopeRefs(torahRo, haftarahRo, titleInfo){
     introLabel.className = "home-card-label pericope-haftarah-intro-label";
     introLabel.textContent = "Pasaj din Profeți (haftara)";
     list.appendChild(introLabel);
-    // Numele Haftarei urmează numele pericopei (Haftarat Bereșit = "Haftara lui
-    // Bereșit") — calculat dinamic din titlul/semnificația deja calculate pentru
-    // Tora săptămânii curente, nu un text fix, scris o singură dată pentru totdeauna.
+    // Numele Haftarei urmează numele pericopei — EXACT același stil (și, când
+    // e aceeași săptămână, exact același text) ca titlul principal de mai sus
+    // ("Simhat Tora – „Bucuria Torei”"), nu un format inventat separat.
     const haftarahName = (titleInfo && titleInfo.name) ? titleInfo.name.replace(/^Parașat\s+/, "") : "";
-    const nameLabel = haftarahName ? (haftarahName + (titleInfo && titleInfo.meaning ? " (" + titleInfo.meaning + ")" : "")) : "";
+    const nameEl = document.createElement("div");
+    nameEl.className = "pericope-section-label";
+    setHebrewTitleWithMeaning(nameEl, haftarahName, titleInfo ? titleInfo.meaning : "");
+    list.appendChild(nameEl);
     haftarahRo.split(";").map(s => s.trim()).filter(Boolean).forEach(part => {
-      list.appendChild(buildHaftarahRefRow(part, nameLabel));
+      list.appendChild(buildHaftarahRefRow(part, haftarahName));
     });
   }
 }
