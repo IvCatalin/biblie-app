@@ -511,6 +511,11 @@
   .picker-chapter-grid.picker-haftarah-list{display:none; grid-template-columns:none;}
   .picker-book-item.open .picker-chapter-grid.picker-haftarah-list{display:block;}
   .picker-haftarah-list .lib-book-item:active{background:rgba(255,255,255,0.06);}
+  /* Haftarot — un singur folder-carte ("Haftarot - Pasaje din Profeți"), cu cele
+     5 cărți în interior (fiecare, la rândul ei, expandabilă spre lista de nume). */
+  .picker-chapter-grid.picker-haftarah-books{display:none; grid-template-columns:none;}
+  .picker-book-item.open .picker-chapter-grid.picker-haftarah-books{display:block;}
+  .lib-haftarah-name-row{padding-left:16px;}
   .chapter-num-btn{
     font-family:'Inter', sans-serif;
     font-size:12px;
@@ -794,9 +799,14 @@
     max-height:260px;
     overflow-y:auto;
     background:var(--parchment);
+    background-color:var(--parchment); /* fundal opac, întărit — nu se vede prin el */
+    opacity:1;
+    isolation:isolate;
+    -webkit-backdrop-filter:none;
+    backdrop-filter:none;
     border:1px solid var(--line);
     border-radius:10px;
-    box-shadow:0 6px 18px rgba(0,0,0,0.18);
+    box-shadow:0 6px 18px rgba(0,0,0,0.35);
     padding:8px;
     z-index:90;
     grid-template-columns:repeat(6, 1fr);
@@ -815,6 +825,11 @@
     line-height:1.4;
     white-space:normal;
   }
+  /* Numele Haftarei (ex. "Bereșit - La început") într-o culoare distinctă de
+     numele cărții-carte ("Haftarot — Geneza", alb) — aceeași culoare ca
+     semnificația de la Pericopa săptămânii ("Bucuria Torei"). */
+  .lib-reader-chapter-title-btn{ color:var(--gold); }
+  .lib-reader-chapter-title-btn.active{ color:#fff8e8; }
   .lib-reader-body{
     flex:1;
     overflow-y:auto;
@@ -2331,12 +2346,15 @@
   .pericope-section-label:first-of-type{ margin-top:6px; }
   .pericope-haftarah-intro-label{
     font-family:'Fraunces', serif;
-    font-size:13px;
-    font-weight:600;
+    font-size:18px;
+    font-weight:700;
     color:#FFD700; /* auriu real — var(--gold) e de fapt albastru, în ciuda numelui */
-    margin:16px 0 2px;
+    margin:16px 0 4px;
     padding-top:10px;
     border-top:1px solid var(--line);
+  }
+  .pericope-haftarah-row{
+    font-size:13px !important;
   }
   .pericope-haftarah-label{
     font-family:'Inter', sans-serif;
@@ -4219,17 +4237,25 @@ function showHaftarahPreview(match, anchorEl){
   textEl.style.fontSize = Math.min(14, refPrefs.size) + "px";
 
   titleEl.textContent = match.title + " — " + match.ref;
-  document.getElementById("ref-preview-go").style.display = "";
-  textEl.textContent = "Se încarcă…";
+  // Sărbătorile/ocaziile speciale (Simhat Tora, Roș Hașana etc.) nu sunt încă
+  // în lista de 57 de Haftarot obișnuite — panoul se arată onest, fără
+  // rezumat inventat și fără buton spre un capitol care nu există încă,
+  // dar apare la fel ca la orice altă referință, nu ascuns.
+  const hasTarget = match.book && typeof match.idx === "number";
+  const goBtn = document.getElementById("ref-preview-go");
+  goBtn.style.display = hasTarget ? "" : "none";
+  textEl.textContent = hasTarget ? "Se încarcă…" : "";
   pendingRefNav = null;
-  pendingHaftarahNav = match;
+  pendingHaftarahNav = hasTarget ? match : null;
   popover.classList.add("show");
   hideWordPopover();
 
-  loadHaftarahIntro(match.book, match.idx, (intro) => {
-    if(pendingHaftarahNav !== match) return; // utilizatorul a deschis între timp alt pasaj
-    textEl.textContent = intro ? firstSentences(intro, 3) : "Introducerea acestei Haftara nu e încă scrisă.";
-  });
+  if(hasTarget){
+    loadHaftarahIntro(match.book, match.idx, (intro) => {
+      if(pendingHaftarahNav !== match) return; // utilizatorul a deschis între timp alt pasaj
+      textEl.textContent = intro ? firstSentences(intro, 3) : "Introducerea acestei Haftara nu e încă scrisă.";
+    });
+  }
 }
 
 // Închidere la click în afara panoului (la fel ca la panoul de cuvinte/lexicon),
@@ -4661,36 +4687,40 @@ function populatePickerBookList(){
   });
 
   // Haftarot — trăiește doar aici, lângă Tora (nu mai are intrare separată în
-  // Bibliotecă). Fiecare "carte" corespunde unui volum al Torei (Geneza, Exod...),
-  // iar "capitolele" ei sunt Haftarot individuale, cu nume — nu se sare direct la
-  // prima Haftarah: se arată întâi o listă cu toate, ca la lucrările mari din
-  // Bibliotecă (Zohar Chadash etc.).
+  // Bibliotecă). Un singur folder "Haftarot", ca orice altă carte din listă;
+  // în interiorul lui, cele 5 cărți (Geneza/Exod/Levitic/Numeri/Deuteronom);
+  // în interiorul fiecăreia, lista cu numele Haftarot — nu se sare direct la
+  // prima Haftarah.
   if(currentVersion === "rosen" && typeof HAFTAROT_BOOKS !== "undefined"){
-    const label = document.createElement("div");
-    label.className = "settings-footnote";
-    label.style.margin = "14px 2px 4px";
-    label.textContent = "Haftarot — lecturile din Profeți citite după pericopa săptămânii";
-    pickerBookList.appendChild(label);
+    const folderItem = document.createElement("div");
+    folderItem.className = "picker-book-item";
 
+    const folderNameRow = document.createElement("div");
+    folderNameRow.className = "picker-book-name";
+    folderNameRow.innerHTML = "<span>Haftarot - Pasaje din Profeți</span><span class=\"picker-book-go\">→</span>";
+    folderNameRow.addEventListener("click", () => {
+      const wasOpen = folderItem.classList.contains("open");
+      pickerBookList.querySelectorAll(".picker-book-item").forEach(el => el.classList.remove("open"));
+      if(!wasOpen) folderItem.classList.add("open");
+    });
+    folderItem.appendChild(folderNameRow);
+
+    const folderGrid = document.createElement("div");
+    folderGrid.className = "picker-chapter-grid picker-haftarah-books";
     HAFTAROT_BOOKS.forEach(book => {
-      const item = document.createElement("div");
-      item.className = "picker-book-item";
+      const bookRow = document.createElement("div");
+      bookRow.className = "lib-book-item";
+      bookRow.innerHTML =
+        '<div><div class="lib-book-name">' + book.name + '</div>' +
+        '<div class="lib-book-meta">' + book.meta + '</div></div>' +
+        '<span class="lib-book-chev">▾</span>';
 
-      const nameRow = document.createElement("div");
-      nameRow.className = "picker-book-name";
-      nameRow.innerHTML = "<span>" + book.name + "</span><span class=\"picker-book-go\">→</span>";
-      nameRow.addEventListener("click", () => {
-        const wasOpen = item.classList.contains("open");
-        pickerBookList.querySelectorAll(".picker-book-item").forEach(el => el.classList.remove("open"));
-        if(!wasOpen) item.classList.add("open");
-      });
-      item.appendChild(nameRow);
-
-      const grid = document.createElement("div");
-      grid.className = "picker-chapter-grid picker-haftarah-list";
+      const bookGrid = document.createElement("div");
+      bookGrid.className = "picker-haftarah-list";
+      bookGrid.style.display = "none";
       book.chapters.forEach((ch, idx) => {
         const row = document.createElement("div");
-        row.className = "lib-book-item";
+        row.className = "lib-book-item lib-haftarah-name-row";
         row.innerHTML =
           '<div><div class="lib-book-name">' + ch.title + '</div>' +
           '<div class="lib-book-meta">' + ch.ref + '</div></div>' +
@@ -4700,12 +4730,26 @@ function populatePickerBookList(){
           closePicker();
           if(typeof window.openHaftarahAt === "function") window.openHaftarahAt(book, idx);
         });
-        grid.appendChild(row);
+        bookGrid.appendChild(row);
       });
-      item.appendChild(grid);
 
-      pickerBookList.appendChild(item);
+      bookRow.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const wasOpen = bookRow.classList.contains("open");
+        folderGrid.querySelectorAll(".lib-book-item.open").forEach(el => el.classList.remove("open"));
+        folderGrid.querySelectorAll(".picker-haftarah-list").forEach(el => { el.style.display = "none"; });
+        if(!wasOpen){
+          bookRow.classList.add("open");
+          bookGrid.style.display = "block";
+        }
+      });
+
+      folderGrid.appendChild(bookRow);
+      folderGrid.appendChild(bookGrid);
     });
+    folderItem.appendChild(folderGrid);
+
+    pickerBookList.appendChild(folderItem);
   }
 }
 
@@ -5893,7 +5937,7 @@ const SUBFOLDER_CARD_IMAGES = {
     for(let i = 0; i < total; i++){
       const btn = document.createElement("button");
       const chTitle = chapters && chapters[i] && chapters[i].title;
-      btn.className = "chapter-num-btn" + (i === currentChapterIdx ? " active" : "") + (chTitle ? " lib-reader-book-btn" : "");
+      btn.className = "chapter-num-btn" + (i === currentChapterIdx ? " active" : "") + (chTitle ? " lib-reader-book-btn lib-reader-chapter-title-btn" : "");
       btn.textContent = chTitle || (i + 1);
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
@@ -6342,22 +6386,23 @@ function setHebrewTitleWithMeaning(el, name, meaning){
 // Haftarot din tab-ul Biblia (nu în Bibliotecă).
 function buildHaftarahRefRow(refText, nameLabel){
   const row = document.createElement("div");
-  row.className = "pericope-ref-row";
+  row.className = "pericope-ref-row pericope-haftarah-row";
   const span = document.createElement("span");
   span.textContent = nameLabel ? (nameLabel + " - " + refText) : refText;
   row.appendChild(span);
   const match = (typeof findHaftarahByRef === "function") ? findHaftarahByRef(refText) : null;
-  if(match){
-    const btn = document.createElement("button");
-    btn.className = "pericope-ref-go ref-pill-clickable";
-    btn.title = "Vezi Haftara";
-    btn.textContent = "→";
-    btn.addEventListener("click", (e) => {
-      e.stopPropagation();
-      showHaftarahPreview(match, btn);
-    });
-    row.appendChild(btn);
-  }
+  // Săgeata apare mereu, ca la orice altă referință — dacă Haftara nu-i încă
+  // în cele 57 obișnuite (sărbători/ocazii speciale), panoul se arată oricum,
+  // onest, doar fără buton de navigare spre un capitol care nu există.
+  const btn = document.createElement("button");
+  btn.className = "pericope-ref-go ref-pill-clickable";
+  btn.title = "Vezi Haftara";
+  btn.textContent = "→";
+  btn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    showHaftarahPreview(match || { title: nameLabel || "Haftarah", ref: refText }, btn);
+  });
+  row.appendChild(btn);
   return row;
 }
 function renderPericopeRefs(torahRo, haftarahRo, titleInfo){
