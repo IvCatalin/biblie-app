@@ -821,6 +821,12 @@
     display:flex;
     flex-direction:column;
   }
+  /* Lista cu nume (Haftarot — cărți sau Haftarot individuale): fundal ALBASTRU
+     opac, plin, cu scrisul alb — nu fundal negru cu scris colorat. */
+  .lib-reader-chapter-dropdown.lib-reader-book-list{
+    background:var(--gold);
+    background-color:var(--gold);
+  }
   .lib-reader-book-btn{
     width:100%;
     aspect-ratio:auto; /* .chapter-num-btn e pătrat, gândit pentru o cifră — aici e text, nu o cifră */
@@ -828,12 +834,14 @@
     padding:10px 12px;
     line-height:1.4;
     white-space:normal;
+    background:transparent;
+    border-color:rgba(255,255,255,0.2);
+    color:#fff8e8;
   }
-  /* Numele Haftarei (ex. "Bereșit - La început") într-o culoare distinctă de
-     numele cărții-carte ("Haftarot — Geneza", alb) — aceeași culoare ca
-     semnificația de la Pericopa săptămânii ("Bucuria Torei"). */
-  .lib-reader-chapter-title-btn{ color:var(--gold); }
-  .lib-reader-chapter-title-btn.active{ color:#fff8e8; }
+  .lib-reader-book-btn.active{
+    background:rgba(255,255,255,0.22);
+    color:#fff8e8;
+  }
   .lib-reader-body{
     flex:1;
     overflow-y:auto;
@@ -5941,7 +5949,7 @@ const SUBFOLDER_CARD_IMAGES = {
     for(let i = 0; i < total; i++){
       const btn = document.createElement("button");
       const chTitle = chapters && chapters[i] && chapters[i].title;
-      btn.className = "chapter-num-btn" + (i === currentChapterIdx ? " active" : "") + (chTitle ? " lib-reader-book-btn lib-reader-chapter-title-btn" : "");
+      btn.className = "chapter-num-btn" + (i === currentChapterIdx ? " active" : "") + (chTitle ? " lib-reader-book-btn" : "");
       btn.textContent = chTitle || (i + 1);
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
