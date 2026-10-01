@@ -806,14 +806,15 @@
   }
   .lib-reader-chapter-dropdown{
     display:none;
-    /* Poziționare CSS simplă, fixată față de .lib-reader-chapter-pill-wrap
-       (position:relative mai sus) — nicio matematică de pixeli în JS, nicio
-       presupunere despre transform pe strămoși. Panoul se întinde exact pe
-       lățimea wrapper-ului, fără fâșii libere, fără text din spate vizibil. */
+    /* position:absolute relativ la .lib-reader-chapter-pill-wrap (nu fixed —
+       evită regula CSS prin care un ancestor cu transform mută containerul de
+       referință). left/width reale calculate prin JS (positionReaderChapterDropdown,
+       mai jos) ca să acopere tot antetul, nu doar pila îngustă — confirmat cu
+       capturi reale, de pe telefon, că fără asta textul corpului e vizibil lateral. */
     position:absolute;
     top:calc(100% + 6px);
     left:0;
-    right:0;
+    width:100%;
     max-height:260px;
     overflow-y:auto;
     /* Fundal identic cu modelul de referință deja corect din aplicație —
@@ -824,6 +825,13 @@
     isolation:isolate;
     -webkit-backdrop-filter:none;
     backdrop-filter:none;
+    /* Bug cunoscut de Safari/iOS: o cutie opacă, position:absolute, cu
+       overflow:auto poate reda translucid (textul din spate se vede prin ea),
+       mai ales la scroll — confirmat cu captură reală de pe telefon. Fix
+       standard: forțează un strat de compoziție GPU separat. */
+    -webkit-transform:translateZ(0);
+    transform:translateZ(0);
+    will-change:transform;
     border:1px solid var(--glass-border);
     border-radius:10px;
     box-shadow:0 8px 24px rgba(0,0,0,0.35);
@@ -6021,28 +6029,26 @@ const SUBFOLDER_CARD_IMAGES = {
     });
   }
 
-  // Poziționează dropdown-ul (position:fixed) ca să acopere toată lățimea
-  // antetului (.lib-reader-header), nu doar lățimea îngustă a pilei.
+  // Poziționează dropdown-ul ca să acopere toată lățimea antetului
+  // (.lib-reader-header), nu doar lățimea îngustă a pilei (.lib-reader-chapter-
+  // pill-wrap, care e doar atât cât e nevoie pentru textul pilei, de obicei
+  // ~214px) — confirmat cu capturi reale, de pe telefon ȘI de pe web (site-ul
+  // live), că fără asta textul corpului versetului rămâne vizibil în lateral,
+  // lângă dropdown, nu doar sub el.
   //
-  // Cauza reală a defectului rămas (confirmată live, cu Playwright, pe ecran
-  // lat 1280px, nu presupusă): .lib-reader-modal are `transform` (chiar și
-  // translateY(0), fără efect vizual, e tot "transform", nu "none") — iar
-  // conform specificației CSS, un element position:fixed dintr-un ancestor
-  // cu transform NU se mai poziționează față de ecran, ci față de ACEL
-  // ancestor. Calculam left/top ca și cum ar fi absolute față de ecran
-  // (headerRect, din getBoundingClientRect — mereu relativ la ecran) — pe
-  // ecran lat, unde modalul (480px) e centrat, nu începe la x=0, valoarea
-  // ajungea interpretată greșit, iar panoul se randa mult în dreapta
-  // modalului, tăiat/în afara lui. Pe telefon (unde modalul începe aproape
-  // de x=0) diferența era nesemnificativă — de-asta testele anterioare pe
-  // telefon nu au prins bug-ul, dar pe ecran lat era vizibil.
-  // Corectare: calculăm poziția RELATIV LA MODAL (nu la ecran), scăzând
-  // colțul modalului din coordonatele absolute — exact containerul față de
-  // care browserul va interpreta de fapt left/top.
+  // Folosim position:absolute (nu fixed — asta a cauzat alt bug, cu un
+  // ancestor cu transform care muta containerul de referință, reparat în
+  // runda trecută), cu left/width calculate prin JS relativ la wrap (unde e
+  // ancorat elementul, din cauza position:relative de pe el), ca să "ajungă"
+  // până la marginile antetului, nu doar ale pilei.
   function positionReaderChapterDropdown(){
-    /* Nu mai e nevoie de niciun calcul — poziționarea e pur CSS acum
-       (position:absolute relativ la .lib-reader-chapter-pill-wrap). Funcția
-       rămâne goală intenționat, ca să nu trebuiască rescris apelul de mai jos. */
+    const wrap = readerChapterPill.closest(".lib-reader-chapter-pill-wrap");
+    const header = readerChapterPill.closest(".lib-reader-header");
+    if(!wrap || !header) return;
+    const wrapRect = wrap.getBoundingClientRect();
+    const headerRect = header.getBoundingClientRect();
+    readerChapterDropdown.style.left = (headerRect.left - wrapRect.left + 12) + "px";
+    readerChapterDropdown.style.width = (headerRect.width - 24) + "px";
   }
   readerChapterPill.addEventListener("click", (e) => {
     e.stopPropagation();
@@ -6054,6 +6060,7 @@ const SUBFOLDER_CARD_IMAGES = {
       readerChapterDropdown.classList.remove("lib-reader-book-list");
       buildChapterDropdown(totalChapters(currentBook));
     }
+    positionReaderChapterDropdown();
     readerChapterDropdown.classList.toggle("show");
   });
   document.addEventListener("click", (e) => {
