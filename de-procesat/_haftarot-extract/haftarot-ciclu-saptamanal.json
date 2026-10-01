@@ -34979,11 +34979,13 @@
       {
        "t": "cuvântul DOMNULUI a venit la mine",
        "w": "cuvântul DOMNULUI a venit la mine",
-       "heb": "וַיְהִי דְבַר־יְהוָה אֵלַי",
-       "translit": "vaiehi devar-ADONAI ēlai",
+       "heb": "דְבַר יְהוָה אֵלַי",
+       "translit": "devar Adonai ēlai",
        "strong": "H1697",
-       "pos": "verb + substantiv + substantiv propriu + prepoziție",
+       "pos": "substantiv, masculin singular construct + nume propriu + prepoziție + sufix",
        "def_ro": "și a fost cuvântul DOMNULUI către mine.",
+       "greek": "ἐγένετο λόγος Κυρίου πρὸς μὲ (egeneto logos Kyriou pros me)",
+       "greek_def_ro": "ἐγένετο λόγος Κυρίου πρὸς μὲ (egeneto logos Kyriou pros me) — a fost cuvântul Domnului către mine.",
        "dict_ro": "Rashi observă implicit legătura strânsă cu profeția precedentă: acest verset introduce un al doilea act simbolic (unirea celor două lemne), care vine imediat după vedenia oaselor uscate din prima parte a capitolului 37 — cele două profeții, deși distincte ca imagine, aparțin aceleiași unități tematice: restaurarea și reunificarea lui Israel."
       },
       {
@@ -35029,21 +35031,28 @@
       {
        "t": "ia pentru tine un lemn",
        "w": "ia pentru tine un lemn",
-       "heb": "קַח־לְךָ עֵץ אֶחָד",
-       "translit": "kah-leha ētz ehad",
+       "heb": "קַח עֵץ אֶחָד",
+       "translit": "kah ēț ehad",
        "strong": "H6086",
-       "pos": "verb + substantiv + numeral",
+       "pos": "verb, qal imperativ + substantiv, masculin singular + numeral",
        "def_ro": "ia-ți un lemn.",
+       "greek": "λάβε σεαυτῷ ῥάβδον (labe seauto rhabdon)",
+       "greek_def_ro": "λάβε σεαυτῷ ῥάβδον (labe seauto rhabdon) — ia pentru tine un toiag.",
        "dict_ro": "Rashi identifică precis conținutul literal al inscripției: „aceste patru cuvinte scrie pe el, ca să spună: acest lemn e al lui Iuda și al tribului lui Beniamin, care s-a alipit la el” — o precizare filologică exactă, nu doar tematică, a formulării inscripției de pe primul lemn."
       },
       {
-       "t": " și scrie pe el: «Pentru Iuda și pentru copiii lui Israel, tovarășii săi»",
+       "t": " "
+      },
+      {
+       "t": "și scrie pe el: «Pentru Iuda și pentru copiii lui Israel, tovarășii săi»",
        "w": "și scrie pe el: «Pentru Iuda și pentru copiii lui Israel, tovarășii săi»",
-       "heb": "וּכְתֹב עָלָיו לִיהוּדָה וְלִבְנֵי יִשְׂרָאֵל חֲבֵרָו",
-       "translit": "uhetov alav l'Ihuda velivnēi Israēl havērav",
+       "heb": "וּכְתֹב עָלָיו לִיהוּדָה וְלִבְנֵי יִשְׂרָאֵל חֲבֵרָיו",
+       "translit": "uhtov alaiv lihuda velivnē israēl havēraiv",
        "strong": "H3063",
-       "pos": "verb + substantiv propriu + substantiv + substantiv",
+       "pos": "verb, qal imperativ + prepoziție + sufix + nume propriu + substantiv, masculin plural construct + nume propriu + substantiv, masculin plural construct + sufix",
        "def_ro": "și scrie pe el: pentru Iuda și fiii lui Israel, tovarășii lui.",
+       "greek": "γράψον ἐπ᾽ αὐτήν τὸν Ἰούδαν καὶ τούς υἱοὺς Ἰσραὴλ τοὺς προσκειμένους ἐπ᾽ αὐτόν (grapson ep auten ton Ioudan kai tous hyious Israel tous proskeimenous ep auton)",
+       "greek_def_ro": "γράψον ἐπ᾽ αὐτήν τὸν Ἰούδαν καὶ τούς υἱοὺς Ἰσραὴλ τοὺς προσκειμένους ἐπ᾽ αὐτόν (grapson ep auten ton Ioudan kai tous hyious Israel tous proskeimenous ep auton) — scrie pe el pe Iuda și pe fiii lui Israel, cei alipiți lui.",
        "dict_ro": "Iehuda — Iuda, seminția regală a lui David, care a dat numele regatului de sud după împărțirea din 1 Împărați 12; haver, „tovarășul”, de la havar, „a se uni”. Radak și Metzudat David: „tovarășii lui” sunt seminția lui Beniamin, care a rămas mereu cu Iuda, chiar după împărțirea regatului (1 Împărați 12:21). Haftara se citește la pericopa Vaigaș, unde Iuda se apropie de Iosif (Geneza 44:18), iar aici bețele lui Iuda și ale lui Iosif se fac unul."
       },
       {
@@ -35053,24 +35062,31 @@
        "t": "un lemn și scrie pe el",
        "w": "un lemn și scrie pe el",
        "heb": "וּלְקַח עֵץ אֶחָד וּכְתוֹב עָלָיו",
-       "translit": "velakah ētz ehad uhetov alav",
+       "translit": "ulkah ēț ehad uhtov alaiv",
        "strong": "H3947",
-       "pos": "verb + substantiv + numeral + verb",
+       "pos": "verb, qal imperativ + substantiv, masculin singular + numeral + verb, qal imperativ + prepoziție + sufix",
        "def_ro": "și ia un lemn și scrie pe el.",
+       "greek": "ῥάβδον δευτέραν λήμψῃ σεαυτῷ καὶ γράψεις αὐτήν (rhabdon deuteran lempse seauto kai grapseis auten)",
+       "greek_def_ro": "ῥάβδον δευτέραν λήμψῃ σεαυτῷ καὶ γράψεις αὐτήν (rhabdon deuteran lempse seauto kai grapseis auten) — un al doilea toiag vei lua și vei scrie pe el.",
        "dict_ro": "Eț — „lemnul, bățul”, iar Targumul îl traduce „tăbliță” (luha); Metzudat Țion la 37:19: e un toiag de domnie, iar pentru că a făcut pilda cu lemn, a folosit cuvântul „lemn”. Rashi: acesta e pentru Iosif, lemnul lui Efraim și al celorlalte nouă seminții care l-au urmat pe Ieroboam, care era din seminția lui Efraim. Semnul profetic prin care profetul face cu mâinile ceea ce vestește e obișnuit la Ezechiel (Ezechiel 4-5; 12)."
       },
       {
-       "t": ": «Pentru Iosef, lemnul lui Efraim, și toată casa lui Israel, tovarășii săi»",
+       "t": ": «"
+      },
+      {
+       "t": "Pentru Iosef, lemnul lui Efraim, și toată casa lui Israel, tovarășii săi",
        "w": "Pentru Iosef, lemnul lui Efraim, și toată casa lui Israel, tovarășii săi",
-       "heb": "לְיוֹסֵף עֵץ אֶפְרַיִם וְכָל־בֵּית יִשְׂרָאֵל חֲבֵרָו",
-       "translit": "l'Iosēf ētz Efraim vehol-bēit Israēl havērav",
+       "heb": "לְיוֹסֵף עֵץ אֶפְרַיִם וְכָל בֵּית יִשְׂרָאֵל חֲבֵרָיו",
+       "translit": "leosēf ēț efraim vehal bēt israēl havēraiv",
        "strong": "H3130",
-       "pos": "substantiv propriu + substantiv + substantiv propriu + substantiv + substantiv",
+       "pos": "nume propriu + substantiv, masculin singular construct + nume propriu + substantiv, masculin singular construct + substantiv, masculin singular construct + nume propriu + substantiv, masculin plural construct + sufix",
        "def_ro": "pentru Iosef, lemnul lui Efraim, și toată casa lui Israel, tovarășii lui.",
+       "greek": "Τῷ Ἰωσήφ, ῥάβδον Ἐφράιμ καὶ πάντας τοὺς υἱοὺς Ἰσραὴλ τοὺς προστεθέντας πρὸς αὐτόν (To Ioseph, rhabdon Ephraim kai pantas tous hyious Israel tous prostethentas pros auton)",
+       "greek_def_ro": "Τῷ Ἰωσήφ, ῥάβδον Ἐφράιμ καὶ πάντας τοὺς υἱοὺς Ἰσραὴλ τοὺς προστεθέντας πρὸς αὐτόν (To Ioseph, rhabdon Ephraim kai pantas tous hyious Israel tous prostethentas pros auton) — pentru Iosif, toiagul lui Efraim, și toți fiii lui Israel cei alipiți lui.",
        "dict_ro": "Rashi identifică precis conținutul celui de-al doilea lemn: „acesta e pentru Iosef: lemnul lui Efraim și celelalte nouă triburi, care erau după Ieroboam, care era din tribul lui Efraim” (1 Împărați 11:26) — cele două lemne reprezintă exact linia de despărțire istorică a regatului la moartea lui Solomon."
       },
       {
-       "t": "."
+       "t": "»."
       }
      ],
      "textCompare": [
@@ -35130,11 +35146,13 @@
       {
        "t": "apropie-le de tine, unul lângă altul, precum un singur lemn",
        "w": "apropie-le de tine, unul lângă altul, precum un singur lemn",
-       "heb": "וְקָרַב אֹתָם אֶחָד אֶל־אֶחָד לְךָ לְעֵץ אֶחָד",
-       "translit": "vekarav otam ehad el-ehad leha leētz ehad",
+       "heb": "וְקָרַב אֹתָם אֶחָד אֶל אֶחָד לְךָ לְעֵץ אֶחָד",
+       "translit": "vekarav otam ehad el ehad leha leēț ehad",
        "strong": "H7126",
-       "pos": "verb + pronume + numeral + numeral + substantiv + numeral",
+       "pos": "verb, piel imperativ + marcă a complementului direct + sufix + numeral + prepoziție + numeral + prepoziție + sufix + substantiv, masculin singular + numeral",
        "def_ro": "și apropie-le, unul lângă altul, pentru tine, spre un singur lemn.",
+       "greek": "συνάψεις αὐτὰς πρὸς ἀλλήλας σαυτῷ εἰς ῥάβδον μίαν τοῦ δῆσαι αὐτάς (synapseis autas pros allelas sauto eis rhabdon mian tou desai autas)",
+       "greek_def_ro": "συνάψεις αὐτὰς πρὸς ἀλλήλας σαυτῷ εἰς ῥάβδον μίαν τοῦ δῆσαι αὐτάς (synapseis autas pros allelas sauto eis rhabdon mian tou desai autas) — le vei uni una cu alta, pentru tine, într-un singur toiag, ca să le legi.",
        "dict_ro": "Karav — „a se apropia”, la forma intensivă kerav, „a apropia”; Radak observă forma de poruncă. Metzudat David: când vor fi încă în mâna ta, se vor uni printr-o minune și se vor face cu adevărat o singură bucată; Radak: le vei ține împreună ca și cum ar fi un singur lemn, semn că regatul lui Israel va fi unul, iar tatăl lui tâlcuia că s-au lipit printr-o minune. Rashi: le voi uni, ca să fie un singur lemn în mâna ta."
       },
       {
@@ -35143,11 +35161,13 @@
       {
        "t": "ele vor fi unite în mâna ta",
        "w": "ele vor fi unite în mâna ta",
-       "heb": "וְהָיוּ לַאֲחָדִים בְּיָדֶךָ",
+       "heb": "וְהָיוּ לַאֲחָדִים בְּיָדֶךָ",
        "translit": "vehaiu laahadim beiadeha",
        "strong": "H259",
-       "pos": "verb + substantiv + substantiv",
+       "pos": "verb, qal perfect consecutiv + numeral + substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "și vor fi unite în mâna ta.",
+       "greek": "ἔσονται ἐν τῇ χειρί σου (esontai en te cheiri sou)",
+       "greek_def_ro": "ἔσονται ἐν τῇ χειρί σου (esontai en te cheiri sou) — vor fi în mâna ta.",
        "dict_ro": "Rashi lămurește explicit natura acestei uniri: „eu le voi uni, cele două lemne, ca să fie un singur lemn în mâna ta” — subiectul acțiunii de unire nu e profetul, ci Dumnezeu Însuși, acționând prin gestul simbolic al lui Ezechiel; Metzudat David ridică, la rândul lui, o posibilitate alternativă: unii înțeleg unirea ca pe o minune reală, nu doar aparentă — „când vor fi încă în mâna ta, se vor uni printr-o minune și vor deveni cu adevărat o singură bucată”."
       },
       {
@@ -35211,22 +35231,32 @@
       {
        "t": "copiii poporului tău îți vor spune astfel",
        "w": "copiii poporului tău îți vor spune astfel",
-       "heb": "וְכַאֲשֶׁר יֹאמְרוּ אֵלֶיךָ בְּנֵי עַמְּךָ לֵאמֹר",
-       "translit": "vehaașer iomru ēleha benēi ameha lēmor",
+       "heb": "וְכַאֲשֶׁר יֹאמְרוּ אֵלֶיךָ בְּנֵי עַמְּךָ לֵאמֹר",
+       "translit": "vehaașer iomru ēleha benē amha lēmor",
        "strong": "H5971",
-       "pos": "conjuncție + verb + substantiv + substantiv + verb",
+       "pos": "particulă relativă + verb, qal imperfect + prepoziție + sufix + substantiv, masculin plural construct + substantiv, masculin singular construct + sufix + verb, qal infinitiv",
        "def_ro": "și când îți vor spune fiii poporului tău, zicând.",
+       "greek": "λέγωσιν πρὸς σὲ οἱ υἱοὶ τοῦ λαοῦ σου (legosin pros se hoi hyioi tou laou sou)",
+       "greek_def_ro": "λέγωσιν πρὸς σὲ οἱ υἱοὶ τοῦ λαοῦ σου (legosin pros se hoi hyioi tou laou sou) — vor spune către tine fiii poporului tău.",
        "dict_ro": "Jamieson-Fausset-Brown observă structura pedagogică deliberată a acestui act simbolic: „Dumnezeu nu lămurește profeția simbolică până când iudeii n-au fost stârniți de acest semn să-l întrebe pe profet” — întrebarea poporului nu e un accident narativ, ci parte intenționată a metodei revelației: semnul vizual precede și provoacă cererea de explicație, nu invers."
       },
       {
-       "t": ": «Oare nu ne vei deslusi ce înseamnă pentru tine aceste [lemne]?»,",
+       "t": ": «"
+      },
+      {
+       "t": "Oare nu ne vei deslusi ce înseamnă pentru tine aceste [lemne]?",
        "w": "Oare nu ne vei deslusi ce înseamnă pentru tine aceste [lemne]?",
-       "heb": "הֲלוֹא־תַגִּיד לָנוּ מָה־אֵלֶּה לָּךְ",
-       "translit": "halo-taghid lanu ma-ēle lah",
+       "heb": "הֲלוֹא תַגִּיד לָנוּ מָה אֵלֶּה לָּךְ",
+       "translit": "halo tagid lanu ma ēle lah",
        "strong": "H5046",
-       "pos": "particulă interogativă + verb + pronume + pronume + pronume",
+       "pos": "particulă negativă + verb, hifil imperfect + prepoziție + sufix + particulă interogativă + pronume demonstrativ + prepoziție + sufix",
        "def_ro": "oare nu ne vei spune ce sunt acestea pentru tine?",
+       "greek": "Οὐκ ἀναγγέλλεις ἡμῖν τί ἐστιν ταῦτά σοι (Ouk anangelleis hemin ti estin tauta soi)",
+       "greek_def_ro": "Οὐκ ἀναγγέλλεις ἡμῖν τί ἐστιν ταῦτά σοι (Ouk anangelleis hemin ti estin tauta soi) — nu ne vei vesti ce sunt acestea pentru tine?",
        "dict_ro": "Naghad — „a arăta, a vesti”, la forma cauzativă higid, „a spune, a lămuri”. Aceeași întrebare o pun oamenii și la alt semn al lui Ezechiel: „Nu ne vei spune ce înseamnă pentru noi ce faci?” (Ezechiel 24:19); semnul e făcut tocmai ca să stârnească întrebarea. Metzudat David: se cuvine să ne spui la ce faci aluzie prin aceasta."
+      },
+      {
+       "t": "»,"
       }
      ],
      "textCompare": [
@@ -35278,11 +35308,13 @@
       {
        "t": "tu vorbește-le: «Așa a spus Stăpânul, Domnul DUMNEZEU",
        "w": "tu vorbește-le: «Așa a spus Stăpânul, Domnul DUMNEZEU",
-       "heb": "דַּבֵּר אֲלֵהֶם כֹּה־אָמַר אֲדֹנָי יְהוִה",
-       "translit": "dabēr alēhem ko-amar Adonai ELOHIM",
+       "heb": "דַּבֵּר אֲלֵהֶם כֹּה אָמַר אֲדֹנָי יְהוִה",
+       "translit": "dabēr alēhem ko amar adonai Adonai",
        "strong": "H1696",
-       "pos": "verb + pronume + verb + substantiv + substantiv propriu",
+       "pos": "verb, piel imperativ + prepoziție + sufix + adverb + verb, qal perfect + substantiv, masculin plural construct + sufix + nume propriu",
        "def_ro": "vorbește-le: așa a spus Stăpânul DOMN.",
+       "greek": "ἐρεῖς πρὸς αὐτούς Τάδε λέγει Κύριος (ereis pros autous Tade legei Kyrios)",
+       "greek_def_ro": "ἐρεῖς πρὸς αὐτούς Τάδε λέγει Κύριος (ereis pros autous Tade legei Kyrios) — le vei spune: așa spune Domnul.",
        "dict_ro": "Adonai — „Stăpânul”, urmat de Numele de patru litere, citit Elohim; e titlul cel mai des folosit de Ezechiel în formula „așa vorbește Stăpânul DOMN”. Diber, „a vorbi”, la porunca daber, „vorbește”. Profetul nu explică semnul de la el, ci dă cuvântul lui Dumnezeu."
       },
       {
@@ -35291,32 +35323,47 @@
       {
        "t": "lemnul lui Iosef [și pe cel] care este în mâna lui Efraim și a triburilor lui Israel, tovarășii săi",
        "w": "lemnul lui Iosef [și pe cel] care este în mâna lui Efraim și a triburilor lui Israel, tovarășii săi",
-       "heb": "הִנֵּה אֲנִי לֹקֵחַ אֶת־עֵץ יוֹסֵף אֲשֶׁר בְּיַד־אֶפְרַיִם וְשִׁבְטֵי יִשְׂרָאֵל חֶבְרָו",
-       "translit": "hinē ani lokēah et-ētz Iosēf așer beiad-Efraim veșivtēi Israēl hevrav",
+       "heb": "עֵץ יוֹסֵף אֲשֶׁר בְּיַד אֶפְרַיִם וְשִׁבְטֵי יִשְׂרָאֵל חֲבֵרָיו",
+       "translit": "ēț iosēf așer beiad efraim veșivtē israēl havēraiv",
        "strong": "H7626",
-       "pos": "interjecție + pronume + verb + substantiv propriu + substantiv + substantiv propriu + substantiv + substantiv",
+       "pos": "substantiv, masculin singular construct + nume propriu + particulă relativă + substantiv, masculin și feminin singular construct + nume propriu + substantiv, masculin plural construct + nume propriu + substantiv, masculin plural construct + sufix",
        "def_ro": "iată, eu iau lemnul lui Iosef, care e în mâna lui Efraim, și triburile lui Israel, tovarășii lui.",
+       "greek": "τὴν φυλήν Ἰωσὴφ τὴν διὰ χειρὸς Ἐφράιμ καὶ τὰς φυλὰς Ἰσραὴγ τὰς προσκειμένας πρὸς αὐτόν (ten phylen Ioseph ten dia cheiros Ephraim kai tas phylas Israeg tas proskeimenas pros auton)",
+       "greek_def_ro": "τὴν φυλήν Ἰωσὴφ τὴν διὰ χειρὸς Ἐφράιμ καὶ τὰς φυλὰς Ἰσραὴγ τὰς προσκειμένας πρὸς αὐτόν (ten phylen Ioseph ten dia cheiros Ephraim kai tas phylas Israeg tas proskeimenas pros auton) — seminția lui Iosif, prin mâna lui Efraim, și semințiile lui Israel cele alipite lui.",
        "dict_ro": "Metzudat David explică precis cine e adăugat cui în acest gest: „adică voi lua și triburile lui Israel care s-au alipit cu el, și-i voi da peste el — adică peste Efraim îi voi da, să fie un trib al împărăției lui Iuda” — direcția mișcării simbolice contează: triburile lui Efraim/Iosef sunt cele adăugate la Iuda, nu invers, semn al restaurării dinastiei davidice ca centru unificator."
       },
       {
-       "t": ", și le voi așeza împreună, peste lemnul lui Iuda",
+       "t": ", "
+      },
+      {
+       "t": "și le voi așeza împreună, peste lemnul lui Iuda",
        "w": "și le voi așeza împreună, peste lemnul lui Iuda",
-       "heb": "וְנָתַתִּי אוֹתָם עָלָיו אֶת־עֵץ יְהוּדָה",
-       "translit": "venatati otam alav et-ētz Iehuda",
+       "heb": "וְנָתַתִּי אוֹתָם עָלָיו עֵץ יְהוּדָה",
+       "translit": "venatati otam alaiv ēț iehuda",
        "strong": "H5414",
-       "pos": "verb + pronume + prepoziție + substantiv propriu",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + sufix + prepoziție + sufix + substantiv, masculin singular construct + nume propriu",
        "def_ro": "și le voi da pe ele peste el, lemnul lui Iuda.",
+       "greek": "δώσω αὐτοὺς ἐπὶ τὴν φυλὴν Ἰούδα (doso autous epi ten phylen Iouda)",
+       "greek_def_ro": "δώσω αὐτοὺς ἐπὶ τὴν φυλὴν Ἰούδα (doso autous epi ten phylen Iouda) — le voi da peste seminția lui Iuda.",
        "dict_ro": "Natan — „a da, a pune”; venatati otam alav, „le voi pune lângă el”. Metzudat Țion și Radak: alav înseamnă „împreună cu el”, iar et, „cu”. Metzudat David: voi lua și semințiile lui Israel care s-au unit cu Efraim și le voi pune împreună cu Iuda, și le voi face o singură seminție de domnie. Isaia a vestit aceeași unire: „Efraim nu va mai pizmui pe Iuda, și Iuda nu va mai asupri pe Efraim” (Isaia 11:13)."
       },
       {
-       "t": ", și le voi face să fie un singur lemn și ele vor fi una în mâna Mea.”»",
+       "t": ", "
+      },
+      {
+       "t": "și le voi face să fie un singur lemn și ele vor fi una în mâna Mea.",
        "w": "și le voi face să fie un singur lemn și ele vor fi una în mâna Mea.",
-       "heb": "וַעֲשִׂיתִם לְעֵץ אֶחָד וְהָיוּ אֶחָד בְּיָדִי",
-       "translit": "vaasitim leētz ehad vehaiu ehad beiadi",
+       "heb": "וַעֲשִׂיתִם לְעֵץ אֶחָד וְהָיוּ אֶחָד בְּיָדִי",
+       "translit": "vaasitim leēț ehad vehaiu ehad beiadi",
        "strong": "H6213",
-       "pos": "verb + substantiv + numeral + verb + numeral + substantiv",
+       "pos": "verb, qal perfect consecutiv + sufix + substantiv, masculin singular + numeral + verb, qal perfect consecutiv + numeral + substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "și le voi face un singur lemn, și vor fi una în mâna Mea.",
+       "greek": "ἔσονται εἰς ῥάβδον μίαν τῇ χειρὶ Ἰούδα (esontai eis rhabdon mian te cheiri Iouda)",
+       "greek_def_ro": "ἔσονται εἰς ῥάβδον μίαν τῇ χειρὶ Ἰούδα (esontai eis rhabdon mian te cheiri Iouda) — vor fi un singur toiag în mâna lui Iuda.",
        "dict_ro": "Ehad — „unul”, cuvântul-cheie al pasajului, repetat de unsprezece ori în versetele 16-24: un lemn, un neam, un rege, un păstor. „În mâna Mea” răspunde lui „în mâna ta” din 37:17: ce face profetul cu mâinile e semnul a ce va face Dumnezeu. Radak: Targumul traduce „voi face din ei un singur popor”."
+      },
+      {
+       "t": "”»"
       }
      ],
      "textCompare": [
@@ -35379,21 +35426,28 @@
       {
        "t": "lemnele pe care vei scrie să fie în mâna ta",
        "w": "lemnele pe care vei scrie să fie în mâna ta",
-       "heb": "וְהָיוּ הָעֵצִים אֲשֶׁר־תִּכְתֹּב עֲלֵיהֶם בְּיָדְךָ",
-       "translit": "vehaiu haētzim așer-tihtov alēhem beiadha",
+       "heb": "הָעֵצִים תִּכְתֹּב בְּיָדְךָ",
+       "translit": "haēțim tihtov beiadha",
        "strong": "H6086",
-       "pos": "verb + substantiv + pronume relativ + verb + substantiv",
+       "pos": "substantiv, masculin plural + verb, qal imperfect + substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "și lemnele pe care vei scrie pe ele vor fi în mâna ta.",
+       "greek": "αἱ ῥάβδοι ἐφ᾽ ἃς σὺ ἔγραψας... ἐν τῇ χειρί σου (hai rhabdoi eph has sy egrapsas... en te cheiri sou)",
+       "greek_def_ro": "αἱ ῥάβδοι ἐφ᾽ ἃς σὺ ἔγραψας... ἐν τῇ χειρί σου (hai rhabdoi eph has sy egrapsas... en te cheiri sou) — toiegele pe care tu le-ai scris... în mâna ta.",
        "dict_ro": "Eț — „lemnul”, la plural ețim, „lemnele”. Metzudat David: lemnele pe care vei scrie aceste cuvinte le vei ține în mână înaintea lor. Semnul trebuie văzut „sub ochii lor”, căci profeția lui Ezechiel e adesea făcută pentru ochi, nu doar pentru urechi."
       },
       {
-       "t": ", sub ochii lor",
+       "t": ", "
+      },
+      {
+       "t": "sub ochii lor",
        "w": "sub ochii lor",
        "heb": "לְעֵינֵיהֶם",
-       "translit": "leēinēhem",
+       "translit": "leēnēhem",
        "strong": "H5869",
-       "pos": "substantiv",
+       "pos": "substantiv, masculin și feminin dual construct + sufix",
        "def_ro": "înaintea ochilor lor.",
+       "greek": "ἐνώπιον αὐτῶν (enopion auton)",
+       "greek_def_ro": "ἐνώπιον αὐτῶν (enopion auton) — înaintea lor.",
        "dict_ro": "Metzudat David subliniază funcția pedagogică a gestului: „lemnele acelea pe care vei scrie aceste cuvinte, ține-le în mâna ta, înaintea lor” — expunerea vizuală prelungită a lemnelor unite are rolul de a întipări în mintea poporului aflat în exil imaginea concretă a unirii, înainte chiar de a primi cuvântul de lămurire care urmează."
       },
       {
@@ -35440,11 +35494,13 @@
       {
        "t": "Și apoi vorbește-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU",
        "w": "Și apoi vorbește-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU",
-       "heb": "וְדַבֵּר אֲלֵיהֶם כֹּה־אָמַר אֲדֹנָי יְהוִה",
-       "translit": "vedabēr alēhem ko-amar Adonai ELOHIM",
+       "heb": "וְדַבֵּר אֲלֵיהֶם כֹּה אָמַר אֲדֹנָי יְהוִה",
+       "translit": "vedabēr alēhem ko amar adonai Adonai",
        "strong": "H1696",
-       "pos": "verb + pronume + verb + substantiv + substantiv propriu",
+       "pos": "verb, piel imperativ + prepoziție + sufix + adverb + verb, qal perfect + substantiv, masculin plural construct + sufix + nume propriu",
        "def_ro": "și vorbește-le: așa a spus Stăpânul DOMN.",
+       "greek": "ἐρεῖς αὐτοῖς Τάδε λέγει κύριος Κύριος (ereis autois Tade legei kyrios Kyrios)",
+       "greek_def_ro": "ἐρεῖς αὐτοῖς Τάδε λέγει κύριος Κύριος (ereis autois Tade legei kyrios Kyrios) — le vei spune: așa spune Domnul, Domnul.",
        "dict_ro": "Diber — „a vorbi”; vedaber aleihem, „și vorbește-le”. Metzudat David: în vreme ce ții lemnele în mână, să le vorbești: așa vorbește DOMNUL. A doua parte a profeției trece de la semn la tâlcuirea lui: adunarea din exil, unirea și întoarcerea în țară."
       },
       {
@@ -35453,11 +35509,13 @@
       {
        "t": "pe copiii lui Israel dintre neamurile la care au mers",
        "w": "pe copiii lui Israel dintre neamurile la care au mers",
-       "heb": "הִנֵּה אֲנִי לֹקֵחַ אֶת־בְּנֵי יִשְׂרָאֵל מִבֵּין הַגּוֹיִם אֲשֶׁר הָלְכוּ־שָׁם",
-       "translit": "hinē ani lokēah et-benēi Israēl mibēin hagoim așer halhu-șam",
+       "heb": "בְּנֵי יִשְׂרָאֵל מִבֵּין הַגּוֹיִם אֲשֶׁר הָלְכוּ שָׁם",
+       "translit": "benē israēl mibēn hagoim așer halhu șam",
        "strong": "H1471",
-       "pos": "interjecție + pronume + verb + substantiv + substantiv + substantiv + pronume relativ + verb",
+       "pos": "substantiv, masculin plural construct + nume propriu + prepoziție + substantiv, masculin plural + particulă relativă + verb, qal perfect + adverb",
        "def_ro": "iată, eu iau pe fiii lui Israel din mijlocul neamurilor unde s-au dus.",
+       "greek": "πάντα οἶκον Ἰσραὴλ ἐκ μέσου τῶν ἐθνῶν οὗ εἰσήλθοσαν ἐκεῖ (panta oikon Israel ek mesou ton ethnon hou eiselthosan ekei)",
+       "greek_def_ro": "πάντα οἶκον Ἰσραὴλ ἐκ μέσου τῶν ἐθνῶν οὗ εἰσήλθοσαν ἐκεῖ (panta oikon Israel ek mesou ton ethnon hou eiselthosan ekei) — toată casa lui Israel din mijlocul neamurilor unde au intrat.",
        "dict_ro": "Keil-Delitzsch observă că, spre deosebire de unirea simbolică a celor două lemne (v. 15-19), acest verset trece la un al doilea moment distinct al profeției — strângerea propriu-zisă din diaspora: „unirea înfăptuită la întoarcerea din Babilon a cuprins doar comparativ puțini dintre Israel; o împlinire viitoare deplină trebuie deci căutată” (JFB), interpretare susținută de comentatorii creștini clasici ca aplicându-se la o restaurare finală, nu doar la întoarcerea istorică din exilul babilonian."
       },
       {
@@ -35466,12 +35524,14 @@
       {
        "t": "îi voi aduna dimprejur",
        "w": "îi voi aduna dimprejur",
-       "heb": "וְקִבַּצְתִּי אֹתָם מִסָּבִיב",
-       "translit": "vekibatzti otam misaviv",
+       "heb": "וְקִבַּצְתִּי מִסָּבִיב",
+       "translit": "vekibațti misaviv",
        "strong": "H6908",
-       "pos": "verb + pronume + adverb",
+       "pos": "verb, piel perfect consecutiv + substantiv, masculin și feminin singular",
        "def_ro": "și-i voi aduna de jur împrejur.",
-       "dict_ro": "Kibbeț — „a aduna”, verbul strângerii exilaților, ca în făgăduința lui Moise: „te va strânge iarăși din mijlocul tuturor popoarelor” (Deuteronom 30:3), și în Isaia 11:12: „va strânge pe cei risipiți ai lui Iuda din cele patru colțuri ale pământului”. De la acest verb vine numele rugăciunii pentru „adunarea exilaților” (kibbuț galuiot)."
+       "greek": "συνάξω αὐτοὺς ἀπὸ πάντων τῶν περικύκλῳ αὐτῶν (synaxo autous apo panton ton perikyklo auton)",
+       "greek_def_ro": "συνάξω αὐτοὺς ἀπὸ πάντων τῶν περικύκλῳ αὐτῶν (synaxo autous apo panton ton perikyklo auton) — îi voi aduna de la toți cei din jurul lor.",
+       "dict_ro": "Kibbeț — „a aduna”, verbul strângerii exilaților, ca în făgăduința lui Moise: „te va strânge iarăși din mijlocul tuturor popoarelor” (Deuteronomul 30:3), și în Isaia 11:12: „va strânge pe cei risipiți ai lui Iuda din cele patru colțuri ale pământului”. De la acest verb vine numele rugăciunii pentru „adunarea exilaților” (kibbuț galuiot)."
       },
       {
        "t": ", și "
@@ -35479,11 +35539,13 @@
       {
        "t": "îi voi aduce pe pământul lor",
        "w": "îi voi aduce pe pământul lor",
-       "heb": "וְהֵבֵאתִי אוֹתָם אֶל־אַדְמָתָם",
-       "translit": "veheveti otam el-admatam",
+       "heb": "וְהֵבֵאתִי אוֹתָם אַדְמָתָם",
+       "translit": "vehēvēti otam admatam",
        "strong": "H127",
-       "pos": "verb + pronume + substantiv",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + sufix + substantiv, feminin singular construct + sufix",
        "def_ro": "și-i voi aduce pe pământul lor.",
+       "greek": "εἰσάξω αὐτοὺς εἰς τὴν γῆν τοῦ Ἰσραήλ (eisaxo autous eis ten gen tou Israel)",
+       "greek_def_ro": "εἰσάξω αὐτοὺς εἰς τὴν γῆν τοῦ Ἰσραήλ (eisaxo autous eis ten gen tou Israel) — îi voi aduce în țara lui Israel.",
        "dict_ro": "Adama — „pământul, țărâna”; admatam, „pământul lor”. Ezechiel spusese la fel în capitolul precedent: „vă voi aduna din toate țările și vă voi aduce în țara voastră” (Ezechiel 36:24). Pământul e numit „al lor”, căci le-a fost dat ca moștenire părinților."
       },
       {
@@ -35540,11 +35602,13 @@
       {
        "t": "îi voi face într-un singur neam pe pământ, în munții Israelului",
        "w": "îi voi face într-un singur neam pe pământ, în munții Israelului",
-       "heb": "וְעָשִׂיתִי אֹתָם לְגוֹי אֶחָד בָּאָרֶץ בְּהָרֵי יִשְׂרָאֵל",
-       "translit": "veasiti otam legoi ehad baaretz beharēi Israēl",
+       "heb": "וְעָשִׂיתִי לְגוֹי אֶחָד בָּאָרֶץ בְּהָרֵי יִשְׂרָאֵל",
+       "translit": "veasiti legoi ehad baareț beharē israēl",
        "strong": "H1471",
-       "pos": "verb + pronume + substantiv + numeral + substantiv + substantiv propriu",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular + numeral + substantiv, masculin și feminin singular + substantiv, masculin plural construct + nume propriu",
        "def_ro": "și-i voi face un singur neam în țară, în munții lui Israel.",
+       "greek": "δώσω αὐτοὺς εἰς ἔθνος ἐν τῇ γῇ μου καὶ ἐν τοῖς ὄρεσιν Ἰσραήλ (doso autous eis ethnos en te ge mou kai en tois oresin Israel)",
+       "greek_def_ro": "δώσω αὐτοὺς εἰς ἔθνος ἐν τῇ γῇ μου καὶ ἐν τοῖς ὄρεσιν Ἰσραήλ (doso autous eis ethnos en te ge mou kai en tois oresin Israel) — îi voi da [să fie] un neam în țara mea, în munții lui Israel.",
        "dict_ro": "John Gill leagă direct acest verset de precedent istoric al împărăției unite sub David și Solomon — „cum au fost în vremea lui David și a lui Solomon, care amândoi au fost tipuri ale lui Mesia” — dar Jamieson-Fausset-Brown resping explicit orice identificare cu Zorobabel sau alt conducător post-exilic: „nu Zorobabel, care n-a fost rege nici de fapt, nici cu numele... aici e vizat MESIA” (Ezechiel 34:23-24)."
       },
       {
@@ -35553,11 +35617,13 @@
       {
        "t": "un singur rege va fi pentru toți ca rege",
        "w": "un singur rege va fi pentru toți ca rege",
-       "heb": "וּמֶלֶךְ אֶחָד יִהְיֶה לְכֻלָּם לְמֶלֶךְ",
-       "translit": "umeleh ehad ihiē lehulam lemeleh",
+       "heb": "וּמֶלֶךְ אֶחָד יִהְיֶה לְכֻלָּם לְמֶלֶךְ",
+       "translit": "umeleh ehad ihie lehulam lemeleh",
        "strong": "H4428",
-       "pos": "substantiv + numeral + verb + pronume + substantiv",
+       "pos": "substantiv, masculin singular + numeral + verb, qal imperfect + substantiv, masculin singular construct + sufix + substantiv, masculin singular",
        "def_ro": "și un rege va fi pentru toți ca rege.",
+       "greek": "ἄρχων εἷς ἔσται αὐτῶν (archon heis estai auton)",
+       "greek_def_ro": "ἄρχων εἷς ἔσται αὐτῶν (archon heis estai auton) — o singură căpetenie va fi [peste] ei.",
        "dict_ro": "Meleh — „regele”. De la împărțirea regatului după moartea lui Solomon (1 Împărați 12), Israel și Iuda au avut regi deosebiți, adesea în război unul cu altul. Metzudat David (la 37:24): cele zece seminții nu-și vor mai pune rege deosebit. Osea vestise la fel: „copiii lui Iuda și copiii lui Israel se vor strânge împreună și își vor pune o singură căpetenie” (Osea 1:11)."
       },
       {
@@ -35566,11 +35632,13 @@
       {
        "t": "nu vor mai fi împărțiți în două neamuri, nu vor mai fi iarăși două regate separate",
        "w": "nu vor mai fi împărțiți în două neamuri, nu vor mai fi iarăși două regate separate",
-       "heb": "וְלֹא יִהְיוּ־עוֹד לִשְׁנֵי גוֹיִם וְלֹא יֵחָצוּ עוֹד לִשְׁתֵּי מַמְלָכוֹת עוֹד",
-       "translit": "velo ihiu-od lișnēi goim velo iehatzu od liștēi mamlahot od",
+       "heb": "וְלֹא יִהְיוּ עוֹד לִשְׁנֵי גוֹיִם וְלֹא יֵחָצוּ עוֹד לִשְׁתֵּי מַמְלָכוֹת עוֹד",
+       "translit": "velo ihiu od lișnē goim velo iēhațu od liștē mamlahot od",
        "strong": "H2673",
-       "pos": "negație + verb + substantiv + negație + verb + substantiv",
+       "pos": "particulă negativă + verb, qal imperfect + adverb + numeral + substantiv, masculin plural + particulă negativă + verb, nifal imperfect + adverb + numeral + substantiv, feminin plural + adverb",
        "def_ro": "și nu vor mai fi în două neamuri, și nu vor mai fi despărțiți în două regate.",
+       "greek": "οὐκ ἔσονται ἔτι εἰς δύο ἔθνη, οὐδὲ μὴ διαιρεθῶσιν οὐκέτι εἰς δύο βασιλείας (ouk esontai eti eis dyo ethne, oude me diairethosin ouketi eis dyo basileias)",
+       "greek_def_ro": "οὐκ ἔσονται ἔτι εἰς δύο ἔθνη, οὐδὲ μὴ διαιρεθῶσιν οὐκέτι εἰς δύο βασιλείας (ouk esontai eti eis dyo ethne, oude me diairethosin ouketi eis dyo basileias) — nu vor mai fi două neamuri, nici nu se vor mai despărți în două regate.",
        "dict_ro": "Hațah — „a împărți în două”, de la hați, „jumătatea”; Metzudat Țion: ca în „va fi împărțit în cele patru vânturi ale cerului” (Daniel 11:4). Mamlaha, „regatul”. Metzudat David: când vor fi în țară, pe munții lui Israel, îi voi face un singur neam, și nu vor mai fi împărțiți, Iuda un popor deosebit și cele zece seminții alt popor; și „nu vor mai” înseamnă niciodată."
       },
       {
@@ -35628,11 +35696,13 @@
       {
        "t": "Și nu vor mai fi pângăriți cu idolii lor și cu scârboșeniile lor și cu toate fărădelegile lor",
        "w": "Și nu vor mai fi pângăriți cu idolii lor și cu scârboșeniile lor și cu toate fărădelegile lor",
-       "heb": "וְלֹא יִטַמְּאוּ עוֹד בְּגִלּוּלֵיהֶם וּבְשִׁקּוּצֵיהֶם וּבְכֹל פִּשְׁעֵיהֶם",
-       "translit": "velo itameu od begiulēhem uveșikutzēhem uvehol piș'ēhem",
+       "heb": "וְלֹא יִטַמְּאוּ עוֹד בְּגִלּוּלֵיהֶם וּבְשִׁקּוּצֵיהֶם פִּשְׁעֵיהֶם",
+       "translit": "velo itamu od begilulēhem uvșikuțēhem pișēhem",
        "strong": "H1544",
-       "pos": "negație + verb + substantiv + substantiv + substantiv",
+       "pos": "particulă negativă + verb, hitpael imperfect + adverb + substantiv, masculin plural construct + sufix + substantiv, masculin plural construct + sufix + substantiv, masculin plural construct + sufix",
        "def_ro": "și nu se vor mai pângări cu idolii lor și cu scârboșeniile lor și cu toate fărădelegile lor.",
+       "greek": "μὴ μιαίνωνται ἔτι ἐν τοῖς εἰδώλοις αὐτῶν (me miainontai eti en tois eidolois auton)",
+       "greek_def_ro": "μὴ μιαίνωνται ἔτι ἐν τοῖς εἰδώλοις αὐτῶν (me miainontai eti en tois eidolois auton) — să nu se mai pângărească cu idolii lor.",
        "dict_ro": "Ghilulim — „idolii”, cuvânt disprețuitor folosit de Ezechiel mai des decât de orice altă carte; șikuț, „scârboșenia”, de la șakaț, „a urî”; Metzudat Țion: de la șekeț, „scârbă”. Radak: itameu, „se vor pângări”, e o formă reflexivă, în loc de itaameu. Metzudat David: nu se vor mai pângări cu idolii și cu celelalte păcate cu care s-au pângărit în Babilon."
       },
       {
@@ -35641,11 +35711,13 @@
       {
        "t": "îi voi izbăvi din toate sălașurile lor în care au păcătuit",
        "w": "îi voi izbăvi din toate sălașurile lor în care au păcătuit",
-       "heb": "וְהוֹשַׁעְתִּי אֹתָם מִכֹּל מוֹשְׁבֹתֵיהֶם אֲשֶׁר חָטְאוּ בָהֶם",
-       "translit": "vehoșati otam mikol moșevotēhem așer hatu vahem",
+       "heb": "וְהוֹשַׁעְתִּי מִכֹּל מוֹשְׁבֹתֵיהֶם חָטְאוּ",
+       "translit": "vehoșati mikol moșvotēhem hatu",
        "strong": "H3467",
-       "pos": "verb + pronume + substantiv + pronume relativ + verb",
+       "pos": "verb, hifil perfect consecutiv + substantiv, masculin singular construct + substantiv, masculin plural construct + sufix + verb, qal perfect",
        "def_ro": "și-i voi mântui din toate locuințele lor unde au păcătuit.",
+       "greek": "ῥύσομαι αὐτοὺς ἀπὸ πασῶν τῶν ἀνομιῶν αὐτῶν ὧν ἡμάρτοσαν ἐν αὐταῖς (rhysomai autous apo pason ton anomion auton hon hemartosan en autais)",
+       "greek_def_ro": "ῥύσομαι αὐτοὺς ἀπὸ πασῶν τῶν ἀνομιῶν αὐτῶν ὧν ἡμάρτοσαν ἐν αὐταῖς (rhysomai autous apo pason ton anomion auton hon hemartosan en autais) — îi voi izbăvi de toate nelegiuirile lor cu care au păcătuit.",
        "dict_ro": "Metzudat David observă coerența istorică a acestei promisiuni: „mulți dintre ei s-au pângărit printre babilonieni, în locul locuinței lor din vremea exilului, și au făcut rău ca ei” — de aceea izbăvirea nu e doar politică (scoaterea din exil), ci morală: scoaterea din chiar mediul care i-a corupt spiritual."
       },
       {
@@ -35654,12 +35726,14 @@
       {
        "t": "îi voi curăța [de păcate] și vor fi poporul Meu, iar Eu voi fi pentru ei Dumnezeu",
        "w": "îi voi curăța [de păcate] și vor fi poporul Meu, iar Eu voi fi pentru ei Dumnezeu",
-       "heb": "וְטִהַרְתִּי אוֹתָם וְהָיוּ־לִי לְעָם וַאֲנִי אֶהְיֶה לָהֶם לֵאלֹהִים",
-       "translit": "vetihareti otam vehaiu-li leam vaani ehiē lahem lēlohim",
+       "heb": "וְטִהַרְתִּי וְהָיוּ לְעָם וַאֲנִי אֶהְיֶה לֵאלֹהִים",
+       "translit": "vetiharti vehaiu leam vaani ehie lēlohim",
        "strong": "H2891",
-       "pos": "verb + pronume + verb + substantiv + pronume + verb + substantiv",
+       "pos": "verb, piel perfect consecutiv + verb, qal perfect consecutiv + substantiv, masculin singular + pronume personal + verb, qal imperfect + substantiv, masculin plural",
        "def_ro": "și-i voi curăți, și-Mi vor fi popor, iar Eu le voi fi Dumnezeu.",
-       "dict_ro": "Tihar — „a curăți”, la forma intensivă, verbul curățirii rituale și morale; Ezechiel 36:25: „vă voi curăți de toate necurățiile voastre și de toți idolii voștri”. Formula „vor fi poporul Meu și Eu voi fi Dumnezeul lor” e formula legământului (Levitic 26:12; Ieremia 31:33). Metzudat David: îi voi scoate de acolo, îi voi întoarce la credința lui Israel și îi voi curăți de necurăția nelegiuirii lor, căci le voi ierta."
+       "greek": "καθαριῶ αὐτούς, καὶ ἔσονταί μοι εἰς λαόν, καὶ ἐγὼ Κύριος ἔσομαι αὐτοῖς εἰς θεόν (kathario autous, kai esontai moi eis laon, kai ego Kyrios esomai autois eis theon)",
+       "greek_def_ro": "καθαριῶ αὐτούς, καὶ ἔσονταί μοι εἰς λαόν, καὶ ἐγὼ Κύριος ἔσομαι αὐτοῖς εἰς θεόν (kathario autous, kai esontai moi eis laon, kai ego Kyrios esomai autois eis theon) — îi voi curăța, și-Mi vor fi popor, iar Eu, Domnul, le voi fi Dumnezeu.",
+       "dict_ro": "Tihar — „a curăți”, la forma intensivă, verbul curățirii rituale și morale; Ezechiel 36:25: „vă voi curăți de toate necurățiile voastre și de toți idolii voștri”. Formula „vor fi poporul Meu și Eu voi fi Dumnezeul lor” e formula legământului (Leviticul 26:12; Ieremia 31:33). Metzudat David: îi voi scoate de acolo, îi voi întoarce la credința lui Israel și îi voi curăți de necurăția nelegiuirii lor, căci le voi ierta."
       },
       {
        "t": "."
@@ -35719,11 +35793,13 @@
       {
        "t": "slujitorul Meu David [va fi] rege peste ei",
        "w": "slujitorul Meu David [va fi] rege peste ei",
-       "heb": "וְעַבְדִּי דָוִד מֶלֶךְ עֲלֵיהֶם",
-       "translit": "veavdi David meleh alēhem",
+       "heb": "וְעַבְדִּי דָוִד מֶלֶךְ עֲלֵיהֶם",
+       "translit": "veavdi david meleh alēhem",
        "strong": "H5650",
-       "pos": "substantiv + substantiv propriu + substantiv + pronume",
+       "pos": "substantiv, masculin singular construct + sufix + nume propriu + substantiv, masculin singular + prepoziție + sufix",
        "def_ro": "și slujitorul Meu David [va fi] rege peste ei.",
+       "greek": "ὁ δοῦλός μου Δαυεὶδ ἄρχων ἐν μέσῳ αὐτῶν (ho doulos mou Daueid archon en meso auton)",
+       "greek_def_ro": "ὁ δοῦλός μου Δαυεὶδ ἄρχων ἐν μέσῳ αὐτῶν (ho doulos mou Daueid archon en meso auton) — slujitorul meu David [va fi] căpetenie în mijlocul lor.",
        "dict_ro": "Metzudat David identifică fără echivoc identitatea acestui „David”: „regele Mesia, care vine din sămânța lui David, va fi rege peste ei” — nu David istoric înviat, ci un urmaș al lui, numit prin numele strămoșului, potrivit convenției biblice de a numi un descendent regal prin numele întemeietorului dinastiei; John Gill confirmă aceeași identificare, citând și pe Kimchi și Abarbanel drept surse ale acestei lecturi în tradiția rabinică medievală."
       },
       {
@@ -35732,12 +35808,14 @@
       {
        "t": "un singur păstor va fi pentru toți",
        "w": "un singur păstor va fi pentru toți",
-       "heb": "וְרוֹעֶה אֶחָד יִהְיֶה לְכֻלָּם",
-       "translit": "verōē ehad ihiē lehulam",
+       "heb": "וְרוֹעֶה אֶחָד יִהְיֶה לְכֻלָּם",
+       "translit": "veroe ehad ihie lehulam",
        "strong": "H7462",
-       "pos": "substantiv + numeral + verb + pronume",
+       "pos": "verb, qal participiu + numeral + verb, qal imperfect + substantiv, masculin singular construct + sufix",
        "def_ro": "și un păstor va fi pentru toți.",
-       "dict_ro": "Roe — „păstorul”, de la raa, „a paște”; Metzudat Țion: conducătorul. David fusese luat „de la staulele oilor” ca să pască pe Iacov, poporul lui Dumnezeu (Psalmi 78:70-71), iar Ezechiel vestise deja: „voi pune peste ele un singur păstor, pe robul Meu David” (Ezechiel 34:23). Radak: Regele Mesia se va numi David pentru că va fi din sămânța lui David, sau e o aluzie la învierea morților."
+       "greek": "ἔσται ποιμὴν εἷς πάντων (estai poimen heis panton)",
+       "greek_def_ro": "ἔσται ποιμὴν εἷς πάντων (estai poimen heis panton) — va fi un singur păstor pentru toți.",
+       "dict_ro": "Roe — „păstorul”, de la raa, „a paște”; Metzudat Țion: conducătorul. David fusese luat „de la staulele oilor” ca să pască pe Iacov, poporul lui Dumnezeu (Psalmul 78:70-71), iar Ezechiel vestise deja: „voi pune peste ele un singur păstor, pe robul Meu David” (Ezechiel 34:23). Radak: Regele Mesia se va numi David pentru că va fi din sămânța lui David, sau e o aluzie la învierea morților."
       },
       {
        "t": ". Și "
@@ -35745,12 +35823,14 @@
       {
        "t": "în judecățile Mele vor merge și decretele Mele le vor păzi și le vor înfăptui",
        "w": "în judecățile Mele vor merge și decretele Mele le vor păzi și le vor înfăptui",
-       "heb": "וּבְמִשְׁפָּטַי יֵלֵכוּ וְחֻקֹּתַי יִשְׁמְרוּ וְעָשׂוּ אוֹתָם",
-       "translit": "uvemișpatai iēlēhu vehukotai ișmeru veasu otam",
+       "heb": "וּבְמִשְׁפָּטַי יֵלֵכוּ וְחֻקֹּתַי יִשְׁמְרוּ וְעָשׂוּ אוֹתָם",
+       "translit": "uvmișpatai iēlēhu vehukotai ișmeru veasu otam",
        "strong": "H4941",
-       "pos": "substantiv + verb + substantiv + verb + verb + pronume",
+       "pos": "substantiv, masculin plural construct + sufix + verb, qal imperfect + substantiv, masculin și feminin plural construct + sufix + verb, qal imperfect + verb, qal perfect consecutiv + marcă a complementului direct + sufix",
        "def_ro": "și în judecățile Mele vor merge, și rânduielile Mele le vor păzi și le vor face.",
-       "dict_ro": "Mișpat — „judecata, rânduiala dreaptă”, și hok, „hotărârea, legea statornicită”, perechea obișnuită pentru poruncile Torei (Levitic 18:4-5). Metzudat David: le vor păzi în inimă și le vor face cu fapta. Ezechiel 36:27: „voi pune Duhul Meu în voi și vă voi face să urmați poruncile Mele”."
+       "greek": "ἐν τοῖς προστάγμασίν μου πορεύσονται, καὶ τὰ κρίματά μου φυλάξουσιν αὐτά (en tois prostagmasin mou poreusontai, kai ta krimata mou phylaxousin auta)",
+       "greek_def_ro": "ἐν τοῖς προστάγμασίν μου πορεύσονται, καὶ τὰ κρίματά μου φυλάξουσιν αὐτά (en tois prostagmasin mou poreusontai, kai ta krimata mou phylaxousin auta) — în poruncile mele vor merge și judecățile mele le vor păzi.",
+       "dict_ro": "Mișpat — „judecata, rânduiala dreaptă”, și hok, „hotărârea, legea statornicită”, perechea obișnuită pentru poruncile Torei (Leviticul 18:4-5). Metzudat David: le vor păzi în inimă și le vor face cu fapta. Ezechiel 36:27: „voi pune Duhul Meu în voi și vă voi face să urmați poruncile Mele”."
       },
       {
        "t": "."
@@ -35810,21 +35890,28 @@
       {
        "t": "vor sălășlui pe pământul pe care li l-am dat slujitorului Meu Iacov",
        "w": "vor sălășlui pe pământul pe care li l-am dat slujitorului Meu Iacov",
-       "heb": "וְיָשְׁבוּ עַל־הָאָרֶץ אֲשֶׁר נָתַתִּי לְעַבְדִּי לְיַעֲקֹב",
-       "translit": "veiașvu al-haaretz așer natati leavdi l'Iaakov",
+       "heb": "וְיָשְׁבוּ עַל הָאָרֶץ אֲשֶׁר נָתַתִּי לְעַבְדִּי לְיַעֲקֹב",
+       "translit": "veiașvu al haareț așer natati leavdi leiaakov",
        "strong": "H3427",
-       "pos": "verb + substantiv + pronume relativ + verb + substantiv + substantiv propriu",
+       "pos": "verb, qal perfect consecutiv + prepoziție + substantiv, masculin și feminin singular + particulă relativă + verb, qal perfect + substantiv, masculin singular construct + sufix + nume propriu",
        "def_ro": "și vor locui pe pământul pe care l-am dat slujitorului Meu, lui Iacov.",
+       "greek": "κατοικήσουσιν ἐπὶ τῆς γῆς αὐτῶν ἣν ἐγὼ δέδωκα τῷ δούλῳ μου Ἰακώβ (katoikesousin epi tes ges auton hen ego dedoka to doulo mou Iakob)",
+       "greek_def_ro": "κατοικήσουσιν ἐπὶ τῆς γῆς αὐτῶν ἣν ἐγὼ δέδωκα τῷ δούλῳ μου Ἰακώβ (katoikesousin epi tes ges auton hen ego dedoka to doulo mou Iakob) — vor locui pe țara lor pe care am dat-o robului meu Iacov.",
        "dict_ro": "Rashi observă de ce anume e numit „Iacov”, nu „Avraam” ori „Isaac”: „[pământul l-am dat] ca și cum l-aș fi dat lui Iacov, fără hotare” — Metzudat David adaugă explicația rațiunii alegerii: Avraam și Isaac au avut și alți fii care n-au moștenit țara (Ismael, Esau), pe când Iacov e singurul patriarh ai cărui toți urmași au primit moștenirea, motiv pentru care legământul funciar se leagă explicit de numele lui."
       },
       {
-       "t": ", pe care au locuit strămoșii tăi",
+       "t": ", "
+      },
+      {
+       "t": "pe care au locuit strămoșii tăi",
        "w": "pe care au locuit strămoșii tăi",
-       "heb": "אֲשֶׁר יָשְׁבוּ־בָה אֲבוֹתֵיכֶם",
-       "translit": "așer iașvu-va avotēhem",
+       "heb": "אֲשֶׁר יָשְׁבוּ בָהּ אֲבוֹתֵיכֶם",
+       "translit": "așer iașvu vah avotēhem",
        "strong": "H1",
-       "pos": "pronume relativ + verb + substantiv",
+       "pos": "particulă relativă + verb, qal perfect + prepoziție + sufix + substantiv, masculin plural construct + sufix",
        "def_ro": "pe care au locuit pe el părinții voștri.",
+       "greek": "οὗ κατῴκησαν ἐκεῖ οἱ πατέρες αὐτῶν (hou katokesan ekei hoi pateres auton)",
+       "greek_def_ro": "οὗ κατῴκησαν ἐκεῖ οἱ πατέρες αὐτῶν (hou katokesan ekei hoi pateres auton) — unde au locuit părinții lor.",
        "dict_ro": "Av — „tatăl”, la plural avot, „părinții, strămoșii”. Radak: a pomenit pe Iacov, căci Avraam și Isaac au avut și alți fii, care n-au moștenit țara, dar lui Iacov i-a fost dată țara, lui și seminței lui după el. Rashi: cum i-am dat-o lui Iacov, fără hotare, după făgăduința „te vei întinde la apus și la răsărit, la miazănoapte și la miazăzi” (Geneza 28:14)."
       },
       {
@@ -35833,11 +35920,12 @@
       {
        "t": "ei, copiii lor și copiii copiilor lor – veșnic",
        "w": "ei, copiii lor și copiii copiilor lor – veșnic",
-       "heb": "וְיָשְׁבוּ עָלֶיהָ הֵמָּה וּבְנֵיהֶם וּבְנֵי בְנֵיהֶם עַד־עוֹלָם",
-       "translit": "veiașvu alēha hēma uvenēhem uvenēi venēhem ad-olam",
+       "heb": "הֵמָּה וּבְנֵיהֶם וּבְנֵי בְנֵיהֶם עַד עוֹלָם",
+       "translit": "hēma uvnēhem uvnē venēhem ad olam",
        "strong": "H5769",
-       "pos": "verb + pronume + substantiv + substantiv + substantiv",
+       "pos": "pronume personal + substantiv, masculin plural construct + sufix + substantiv, masculin plural construct + substantiv, masculin plural construct + sufix + prepoziție + substantiv, masculin singular",
        "def_ro": "și vor locui pe el ei, și fiii lor, și fiii fiilor lor, până în veac.",
+       "diff_ro": "Textul LXX disponibil aici se încheie înainte de partea despre copii și copiii copiilor.",
        "dict_ro": "Olam — „veacul, vremea fără sfârșit”; ad olam, „până în veac”. Trei generații, „ei, fiii lor și fiii fiilor lor”, arată o locuire care nu mai e întreruptă de exil. Metzudat David: domnia nu se va mai întrerupe niciodată din sămânța lui David."
       },
       {
@@ -35846,11 +35934,13 @@
       {
        "t": "slujitorul Meu, David, va fi print peste ei, veșnic",
        "w": "slujitorul Meu, David, va fi print peste ei, veșnic",
-       "heb": "וְדָוִד עַבְדִּי נָשִׂיא לָהֶם לְעוֹלָם",
-       "translit": "veDavid avdi nasi lahem le'olam",
+       "heb": "וְדָוִד עַבְדִּי נָשִׂיא לָהֶם לְעוֹלָם",
+       "translit": "vedavid avdi nasi lahem leolam",
        "strong": "H5387",
-       "pos": "substantiv propriu + substantiv + substantiv + pronume + adverb",
+       "pos": "nume propriu + substantiv, masculin singular construct + sufix + substantiv, masculin singular + prepoziție + sufix + substantiv, masculin singular",
        "def_ro": "și David, slujitorul Meu, [va fi] prinț pentru ei, pe veci.",
+       "greek": "Δαυεὶδ ὁ δοῦλός μου ἄρχων εἰς τὸν αἰῶνα (Daueid ho doulos mou archon eis ton aiona)",
+       "greek_def_ro": "Δαυεὶδ ὁ δοῦλός μου ἄρχων εἰς τὸν αἰῶνα (Daueid ho doulos mou archon eis ton aiona) — David, slujitorul meu, [va fi] căpetenie în veac.",
        "dict_ro": "Nasi — „căpetenia, prințul”, de la nasa, „a ridica”; titlul pe care Ezechiel îl dă conducătorului viitor (Ezechiel 34:24; 44-46). Talmudul (Sanhedrin 98b): Rav a spus că Dumnezeu le va ridica un alt David; iar la întrebarea „nu e scris: «David, robul Meu, va fi căpetenia lor în veac»?”, Abaie a răspuns: ca un împărat și un al doilea după împărat."
       },
       {
@@ -35915,11 +36005,13 @@
       {
        "t": "pecetlui cu ei un legământ al păcii, un legământ veșnic va fi cu ei",
        "w": "pecetlui cu ei un legământ al păcii, un legământ veșnic va fi cu ei",
-       "heb": "וְכָרַתִּי לָהֶם בְּרִית שָׁלוֹם בְּרִית עוֹלָם יִהְיֶה אוֹתָם",
-       "translit": "vehariti lahem berit șalom berit olam ihiē otam",
+       "heb": "וְכָרַתִּי לָהֶם בְּרִית שָׁלוֹם בְּרִית עוֹלָם יִהְיֶה",
+       "translit": "veharati lahem berit șalom berit olam ihie",
        "strong": "H1285",
-       "pos": "verb + pronume + substantiv + substantiv + substantiv + substantiv + verb",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + substantiv, feminin singular construct + substantiv, masculin singular + substantiv, feminin singular construct + substantiv, masculin singular + verb, qal imperfect",
        "def_ro": "și voi tăia cu ei un legământ de pace, legământ veșnic va fi cu ei.",
+       "greek": "διαθήσομαι αὐτοῖς διαθήκην εἰρήνης, διαθήκη αἰωνία ἔσται μετ᾽ αὐτῶν (diathesomai autois diatheken eirenes, diatheke aionia estai met auton)",
+       "greek_def_ro": "διαθήσομαι αὐτοῖς διαθήκην εἰρήνης, διαθήκη αἰωνία ἔσται μετ᾽ αὐτῶν (diathesomai autois diatheken eirenes, diatheke aionia estai met auton) — voi încheia cu ei un legământ de pace, legământ veșnic va fi cu ei.",
        "dict_ro": "Metzudat David identifică explicit conținutul acestui legământ al păcii: „ca să locuiască în țara lor în pace, și legământul acesta va fi cu ei pe veci” — pacea aici nu e doar absența războiului, ci starea stabilă, garantată de legământ, a locuirii definitive în pământul făgăduit."
       },
       {
@@ -35928,12 +36020,13 @@
       {
        "t": "îi voi așeza iarăși, îi voi înmulți",
        "w": "îi voi așeza iarăși, îi voi înmulți",
-       "heb": "וּנְתַתִּים וְהִרְבֵּיתִי אוֹתָם",
-       "translit": "unetatim vehirbēiti otam",
+       "heb": "וּנְתַתִּים וְהִרְבֵּיתִי אוֹתָם",
+       "translit": "untatim vehirbēti otam",
        "strong": "H7235",
-       "pos": "verb + pronume + verb + pronume",
+       "pos": "verb, qal perfect consecutiv + sufix + verb, hifil perfect consecutiv + marcă a complementului direct + sufix",
        "def_ro": "și-i voi așeza, și-i voi înmulți.",
-       "dict_ro": "Rava — „a fi mult”, la forma cauzativă hirba, „a înmulți”, verbul binecuvântării din Geneza 1:28 și al legământului: „vă voi face să creșteți, vă voi înmulți și voi întări legământul Meu cu voi” (Levitic 26:9). Radak: „îi voi așeza” înseamnă în țara Mea sau în binecuvântarea Mea, iar Targumul traduce „îi voi binecuvânta”. Metzudat David: îi voi pune în locul lor și nu se vor mai clinti de acolo."
+       "diff_ro": "Textul LXX disponibil aici se încheie înainte de restul versetului.",
+       "dict_ro": "Rava — „a fi mult”, la forma cauzativă hirba, „a înmulți”, verbul binecuvântării din Geneza 1:28 și al legământului: „vă voi face să creșteți, vă voi înmulți și voi întări legământul Meu cu voi” (Leviticul 26:9). Radak: „îi voi așeza” înseamnă în țara Mea sau în binecuvântarea Mea, iar Targumul traduce „îi voi binecuvânta”. Metzudat David: îi voi pune în locul lor și nu se vor mai clinti de acolo."
       },
       {
        "t": " și "
@@ -35941,12 +36034,14 @@
       {
        "t": "voi pune Sanctuarul Meu în mijlocul lor, veșnic",
        "w": "voi pune Sanctuarul Meu în mijlocul lor, veșnic",
-       "heb": "וְנָתַתִּי אֶת־מִקְדָּשִׁי בְּתוֹכָם לְעוֹלָם",
-       "translit": "venatati et-mikdași betoham le'olam",
+       "heb": "וְנָתַתִּי מִקְדָּשִׁי בְּתוֹכָם לְעוֹלָם",
+       "translit": "venatati mikdași betoham leolam",
        "strong": "H4720",
-       "pos": "verb + substantiv + substantiv + adverb",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular construct + sufix + substantiv, masculin singular construct + sufix + substantiv, masculin singular",
        "def_ro": "și voi da Sanctuarul Meu în mijlocul lor, pe veci.",
-       "dict_ro": "Mikdaș — „sanctuarul”, de la kadaș, „a fi sfânt”, locul sfințit pentru prezența lui Dumnezeu: „să-Mi facă un sanctuar și voi locui în mijlocul lor” (Exod 25:8). Legământul păcii (berit șalom) din același verset e cel făgăduit și în Ezechiel 34:25 și Isaia 54:10. Metzudat David: legământul acesta va fi cu ei în veac, iar Templul nu va mai fi dărâmat."
+       "greek": "θήσω τὰ ἅγιά μου ἐν μέσῳ αὐτῶν εἰς τὸν αἰῶνα (theso ta hagia mou en meso auton eis ton aiona)",
+       "greek_def_ro": "θήσω τὰ ἅγιά μου ἐν μέσῳ αὐτῶν εἰς τὸν αἰῶνα (theso ta hagia mou en meso auton eis ton aiona) — voi pune sfântul Meu locaș în mijlocul lor, în veac.",
+       "dict_ro": "Mikdaș — „sanctuarul”, de la kadaș, „a fi sfânt”, locul sfințit pentru prezența lui Dumnezeu: „să-Mi facă un sanctuar și voi locui în mijlocul lor” (Exodul 25:8). Legământul păcii (berit șalom) din același verset e cel făgăduit și în Ezechiel 34:25 și Isaia 54:10. Metzudat David: legământul acesta va fi cu ei în veac, iar Templul nu va mai fi dărâmat."
       },
       {
        "t": "."
@@ -36003,11 +36098,13 @@
       {
        "t": "Sălașul Meu va fi asupra lor",
        "w": "Sălașul Meu va fi asupra lor",
-       "heb": "וְהָיָה מִשְׁכָּנִי עֲלֵיהֶם",
-       "translit": "vehaia mișkani alēhem",
+       "heb": "מִשְׁכָּנִי עֲלֵיהֶם",
+       "translit": "mișkani alēhem",
        "strong": "H4908",
-       "pos": "verb + substantiv + pronume",
+       "pos": "substantiv, masculin singular construct + sufix + prepoziție + sufix",
        "def_ro": "și va fi sălașul Meu asupra lor.",
+       "greek": "ἔσται ἡ κατασκήνωσίς μου ἐν αὐτοῖς (estai he kataskenosis mou en autois)",
+       "greek_def_ro": "ἔσται ἡ κατασκήνωσίς μου ἐν αὐτοῖς (estai he kataskenosis mou en autois) — va fi locuința Mea printre ei.",
        "dict_ro": "Metzudat Țion glosează מִשְׁכָּנִי ca „locuirea sălășluirii Mele” (הַשְׁרָאַת שְׁכִינָתִי), din aceeași rădăcină cu „mișcan” (Cortul întâlnirii) și „hanaia” (a poposi/a tăbărî) — termenul denotă prezența divină reală și locuitoare, nu doar o metaforă a bunăvoinței, reluând limbajul Cortului din pustie aplicat acum Templului restaurat."
       },
       {
@@ -36016,12 +36113,14 @@
       {
        "t": "Eu le voi fi Dumnezeu, iar ei vor fi poporul Meu",
        "w": "Eu le voi fi Dumnezeu, iar ei vor fi poporul Meu",
-       "heb": "וְהָיִיתִי לָהֶם לֵאלֹהִים וְהֵמָּה יִהְיוּ־לִי לְעָם",
-       "translit": "vehaiti lahem lēlohim vehēma ihiu-li leam",
+       "heb": "וְהָיִיתִי לָהֶם לֵאלֹהִים וְהֵמָּה יִהְיוּ לְעָם",
+       "translit": "vehaiti lahem lēlohim vehēma ihiu leam",
        "strong": "H430",
-       "pos": "verb + pronume + substantiv + pronume + verb + pronume + substantiv",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + substantiv, masculin plural + pronume personal + verb, qal imperfect + substantiv, masculin singular",
        "def_ro": "și le voi fi Dumnezeu, iar ei Îmi vor fi popor.",
-       "dict_ro": "Elohim — „Dumnezeu”; formula legământului e luată din Levitic 26:11-12: „Îmi voi așeza locașul (mișkani) în mijlocul vostru... Eu voi fi Dumnezeul vostru, și voi veți fi poporul Meu”; Pavel o citează în 2 Corinteni 6:16, iar Apocalipsa 21:3 o pune la sfârșitul istoriei. Radak: Targumul traduce „sălașul Meu va fi între ei”, căci în alte locuri Prezența lui Dumnezeu e legată de „în mijlocul”; aici spune „asupra lor”, adică frica de El va fi mereu asupra lor. Metzudat Țion: mișkan e odihnirea Prezenței Lui."
+       "greek": "ἔσομαι αὐτοῖς θεός, καὶ αὐτοὶ μου ἔσονται λαός (esomai autois theos, kai autoi mou esontai laos)",
+       "greek_def_ro": "ἔσομαι αὐτοῖς θεός, καὶ αὐτοὶ μου ἔσονται λαός (esomai autois theos, kai autoi mou esontai laos) — le voi fi Dumnezeu, și ei Îmi vor fi popor.",
+       "dict_ro": "Elohim — „Dumnezeu”; formula legământului e luată din Leviticul 26:11-12: „Îmi voi așeza locașul (mișkani) în mijlocul vostru... Eu voi fi Dumnezeul vostru, și voi veți fi poporul Meu”; Pavel o citează în 2 Corinteni 6:16, iar Apocalipsa 21:3 o pune la sfârșitul istoriei. Radak: Targumul traduce „sălașul Meu va fi între ei”, căci în alte locuri Prezența lui Dumnezeu e legată de „în mijlocul”; aici spune „asupra lor”, adică frica de El va fi mereu asupra lor. Metzudat Țion: mișkan e odihnirea Prezenței Lui."
       },
       {
        "t": "."
@@ -36084,25 +36183,32 @@
       {
        "t": "neamurile vor cunoaște că Eu sunt DOMNUL, care îl sfințește pe Israel",
        "w": "neamurile vor cunoaște că Eu sunt DOMNUL, care îl sfințește pe Israel",
-       "heb": "וְיָדְעוּ הַגּוֹיִם כִּי אֲנִי יְהוָה מְקַדֵּשׁ אֶת־יִשְׂרָאֵל",
-       "translit": "veiadeu hagoim ki ani ADONAI mekadēș et-Israēl",
+       "heb": "וְיָדְעוּ הַגּוֹיִם כִּי אֲנִי יְהוָה מְקַדֵּשׁ יִשְׂרָאֵל",
+       "translit": "veiadu hagoim ki ani Adonai mekadēș israēl",
        "strong": "H6942",
-       "pos": "verb + substantiv + conjuncție + pronume + substantiv propriu + verb + substantiv propriu",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin plural + conjuncție + pronume personal + nume propriu + verb, piel participiu + nume propriu",
        "def_ro": "și vor cunoaște neamurile că Eu sunt DOMNUL, Cel ce sfințește pe Israel.",
-       "dict_ro": "Kadaș — „a fi sfânt”, la forma intensivă mekadeș, „Cel ce sfințește”; formula „Eu sunt DOMNUL care vă sfințesc” e cea a Sabatului (Exod 31:13) și a Legii sfințeniei (Levitic 20:8), iar Ezechiel 20:12 o leagă tot de Sabat. „Vor cunoaște că Eu sunt DOMNUL” e refrenul cărții lui Ezechiel. Metzudat David: când Sanctuarul Meu va rămâne în mijlocul lor în veac, atunci vor ști neamurile că Eu, DOMNUL, am sfințit pe Israel ca să fie poporul Meu."
+       "greek": "γνώσονται τὰ ἔθνη ὅτι ἐγὼ εἰμι Κύριος ὁ ἁγιάζων αὐτούς (gnosontai ta ethne hoti ego eimi Kyrios ho hagiazon autous)",
+       "greek_def_ro": "γνώσονται τὰ ἔθνη ὅτι ἐγὼ εἰμι Κύριος ὁ ἁγιάζων αὐτούς (gnosontai ta ethne hoti ego eimi Kyrios ho hagiazon autous) — vor cunoaște neamurile că Eu sunt Domnul care îi sfințește.",
+       "dict_ro": "Kadaș — „a fi sfânt”, la forma intensivă mekadeș, „Cel ce sfințește”; formula „Eu sunt DOMNUL care vă sfințesc” e cea a Sabatului (Exodul 31:13) și a Legii sfințeniei (Leviticul 20:8), iar Ezechiel 20:12 o leagă tot de Sabat. „Vor cunoaște că Eu sunt DOMNUL” e refrenul cărții lui Ezechiel. Metzudat David: când Sanctuarul Meu va rămâne în mijlocul lor în veac, atunci vor ști neamurile că Eu, DOMNUL, am sfințit pe Israel ca să fie poporul Meu."
       },
       {
        "t": ", atunci când "
       },
       {
-       "t": "Sanctuarul Meu va fi printre ei, veșnic.»”",
+       "t": "Sanctuarul Meu va fi printre ei, veșnic.",
        "w": "Sanctuarul Meu va fi printre ei, veșnic.",
-       "heb": "בִּהְיוֹת מִקְדָּשִׁי בְּתוֹכָם לְעוֹלָם",
-       "translit": "bihiot mikdași betoham le'olam",
+       "heb": "מִקְדָּשִׁי בְּתוֹכָם לְעוֹלָם",
+       "translit": "mikdași betoham leolam",
        "strong": "H4720",
-       "pos": "prepoziție + verb + substantiv + substantiv + adverb",
+       "pos": "substantiv, masculin singular construct + sufix + substantiv, masculin singular construct + sufix + substantiv, masculin singular",
        "def_ro": "în a fi Sanctuarul Meu în mijlocul lor, pe veci.",
+       "greek": "τὰ ἅγιά μου ἐν μέσῳ αὐτῶν εἰς τὸν αἰῶνα (ta hagia mou en meso auton eis ton aiona)",
+       "greek_def_ro": "τὰ ἅγιά μου ἐν μέσῳ αὐτῶν εἰς τὸν αἰῶνα (ta hagia mou en meso auton eis ton aiona) — sfântul Meu locaș în mijlocul lor, în veac.",
        "dict_ro": "Metzudat David leagă acest verset de încheiere direct de cel precedent, ca o concluzie logică: „când vei ține pururea Sanctuarul Meu în mijlocul lor pe veci, atunci vor cunoaște neamurile că Eu, DOMNUL, am sfințit pe Israel, ca să fie poporul Meu” — prezența stabilă și veșnică a Sanctuarului nu e doar o binecuvântare pentru Israel, ci un semn public, vizibil neamurilor, al alegerii divine."
+      },
+      {
+       "t": "»”"
       }
      ],
      "textCompare": [
