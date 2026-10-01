@@ -806,15 +806,12 @@
   }
   .lib-reader-chapter-dropdown{
     display:none;
-    /* position:absolute relativ la .lib-reader-chapter-pill-wrap (nu fixed —
-       evită regula CSS prin care un ancestor cu transform mută containerul de
-       referință). left/width reale calculate prin JS (positionReaderChapterDropdown,
-       mai jos) ca să acopere tot antetul, nu doar pila îngustă — confirmat cu
-       capturi reale, de pe telefon, că fără asta textul corpului e vizibil lateral. */
+    /* Revenit la lățimea naturală (cât pila/wrap-ul, ca la Heracleon) — lățirea
+       pe tot antetul a fost o presupunere greșită, nu ce s-a cerut. */
     position:absolute;
     top:calc(100% + 6px);
     left:0;
-    width:100%;
+    right:0;
     max-height:260px;
     overflow-y:auto;
     /* Fundal identic cu modelul de referință deja corect din aplicație —
@@ -822,16 +819,8 @@
        aceeași variabilă, var(--parchment-dark), nu o culoare inventată separat. */
     background:var(--parchment-dark);
     opacity:1;
-    isolation:isolate;
     -webkit-backdrop-filter:none;
     backdrop-filter:none;
-    /* Bug cunoscut de Safari/iOS: o cutie opacă, position:absolute, cu
-       overflow:auto poate reda translucid (textul din spate se vede prin ea),
-       mai ales la scroll — confirmat cu captură reală de pe telefon. Fix
-       standard: forțează un strat de compoziție GPU separat. */
-    -webkit-transform:translateZ(0);
-    transform:translateZ(0);
-    will-change:transform;
     border:1px solid var(--glass-border);
     border-radius:10px;
     box-shadow:0 8px 24px rgba(0,0,0,0.35);
@@ -5240,6 +5229,9 @@ function wireToggle(btnId, bodyId, openLabel, closeLabel){
   const readerBookLabel = document.getElementById("lib-reader-book-label");
   const readerChapterLabel = document.getElementById("lib-reader-chapter-label");
   const readerChapterDropdown = document.getElementById("lib-reader-chapter-dropdown");
+  // Locul de origine în DOM al dropdown-ului (în interiorul pilei), ca să-l
+  // putem muta înapoi când se închide — vezi closeReaderChapterDropdown.
+  const readerChapterDropdownHome = readerChapterDropdown.parentElement;
   const readerBody = document.getElementById("lib-reader-body");
   const readerPrev = document.getElementById("lib-reader-prev");
   const readerNext = document.getElementById("lib-reader-next");
@@ -5549,7 +5541,7 @@ const SUBFOLDER_CARD_IMAGES = {
   function closeReader(){
     readerBackdrop.classList.remove("show");
     readerModal.classList.remove("show");
-    readerChapterDropdown.classList.remove("show");
+    closeReaderChapterDropdown();
   }
   readerClose.addEventListener("click", closeReader);
   window.closeLibReaderForNav = function(){ closeReader(); if(typeof closeFolderPanel === "function") closeFolderPanel(); };
@@ -5981,7 +5973,7 @@ const SUBFOLDER_CARD_IMAGES = {
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
         currentChapterIdx = i;
-        readerChapterDropdown.classList.remove("show");
+        closeReaderChapterDropdown();
         renderChapter();
       });
       readerChapterDropdown.appendChild(btn);
@@ -6020,7 +6012,7 @@ const SUBFOLDER_CARD_IMAGES = {
       btn.textContent = (sib.name || "").replace(/\s*\([^)]*\)\s*$/g, "").trim();
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
-        readerChapterDropdown.classList.remove("show");
+        closeReaderChapterDropdown();
         readerChapterDropdown.classList.remove("lib-reader-book-list");
         if(isHaftarot && typeof window.openHaftarahAt === "function") window.openHaftarahAt(sib, 0);
         else openReader(sib);
@@ -6029,29 +6021,47 @@ const SUBFOLDER_CARD_IMAGES = {
     });
   }
 
-  // Poziționează dropdown-ul ca să acopere toată lățimea antetului
-  // (.lib-reader-header), nu doar lățimea îngustă a pilei (.lib-reader-chapter-
-  // pill-wrap, care e doar atât cât e nevoie pentru textul pilei, de obicei
-  // ~214px) — confirmat cu capturi reale, de pe telefon ȘI de pe web (site-ul
-  // live), că fără asta textul corpului versetului rămâne vizibil în lateral,
-  // lângă dropdown, nu doar sub el.
+  // Bug real, reprodus live (nu presupus): dacă corpul textului fusese
+  // derulat chiar înainte de deschidere, dropdown-ul (position:absolute,
+  // ancorat în interiorul antetului cu scroll/randare proprie) reda greșit —
+  // rândurile de la fund "ieșeau" peste margine, peste textul din spate,
+  // vizibil mai ales în modul Aprofundare (text mai dens). Nici forțarea unui
+  // reflow, nici eliminarea isolation:isolate, nici un z-index explicit pe
+  // corp n-au rezolvat — semn că nu-i o problemă de o singură proprietate
+  // CSS, ci de interacțiune cu ancestori (scroll, randare proprie a antetului).
   //
-  // Folosim position:absolute (nu fixed — asta a cauzat alt bug, cu un
-  // ancestor cu transform care muta containerul de referință, reparat în
-  // runda trecută), cu left/width calculate prin JS relativ la wrap (unde e
-  // ancorat elementul, din cauza position:relative de pe el), ca să "ajungă"
-  // până la marginile antetului, nu doar ale pilei.
-  function positionReaderChapterDropdown(){
-    const wrap = readerChapterPill.closest(".lib-reader-chapter-pill-wrap");
-    const header = readerChapterPill.closest(".lib-reader-header");
-    if(!wrap || !header) return;
-    const wrapRect = wrap.getBoundingClientRect();
-    const headerRect = header.getBoundingClientRect();
-    readerChapterDropdown.style.left = (headerRect.left - wrapRect.left + 12) + "px";
-    readerChapterDropdown.style.width = (headerRect.width - 24) + "px";
+  // Reparare robustă: cât e deschis, dropdown-ul e mutat direct în <body>
+  // ("portal"), în afara oricărui ancestor cu scroll/randare proprie —
+  // position:fixed calculat din poziția reală a pilei pe ecran (getBoundingClientRect,
+  // mereu relativ la ecran, fără ambiguitate de container). La închidere, e
+  // mutat înapoi la locul lui original (readerChapterDropdownHome), ca
+  // structura paginii să rămână neschimbată.
+  function openReaderChapterDropdown(){
+    const pillRect = readerChapterPill.getBoundingClientRect();
+    document.body.appendChild(readerChapterDropdown);
+    readerChapterDropdown.style.position = "fixed";
+    readerChapterDropdown.style.left = pillRect.left + "px";
+    readerChapterDropdown.style.width = pillRect.width + "px";
+    readerChapterDropdown.style.top = (pillRect.bottom + 6) + "px";
+    readerChapterDropdown.style.right = "auto";
+    readerChapterDropdown.classList.add("show");
+    readerChapterDropdown.scrollTop = 0;
+  }
+  function closeReaderChapterDropdown(){
+    readerChapterDropdown.classList.remove("show");
+    if(readerChapterDropdown.parentElement === document.body){
+      readerChapterDropdownHome.appendChild(readerChapterDropdown);
+    }
+    readerChapterDropdown.style.position = "";
+    readerChapterDropdown.style.left = "";
+    readerChapterDropdown.style.width = "";
+    readerChapterDropdown.style.top = "";
+    readerChapterDropdown.style.right = "";
   }
   readerChapterPill.addEventListener("click", (e) => {
     e.stopPropagation();
+    const alreadyShown = readerChapterDropdown.classList.contains("show");
+    if(alreadyShown){ closeReaderChapterDropdown(); return; }
     const clickedBookLabel = e.target.closest && e.target.closest("#lib-reader-book-label");
     const siblings = clickedBookLabel ? findSiblingBooks(currentBook.slug) : null;
     if(clickedBookLabel && siblings && siblings.length > 1){
@@ -6060,11 +6070,12 @@ const SUBFOLDER_CARD_IMAGES = {
       readerChapterDropdown.classList.remove("lib-reader-book-list");
       buildChapterDropdown(totalChapters(currentBook));
     }
-    positionReaderChapterDropdown();
-    readerChapterDropdown.classList.toggle("show");
+    openReaderChapterDropdown();
   });
   document.addEventListener("click", (e) => {
-    if(!readerChapterPill.contains(e.target)) readerChapterDropdown.classList.remove("show");
+    if(!readerChapterPill.contains(e.target) && !readerChapterDropdown.contains(e.target)){
+      closeReaderChapterDropdown();
+    }
   });
 
   function goChapter(delta){
