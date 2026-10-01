@@ -799,13 +799,21 @@
   .book-pill-divider, #lib-reader-chapter-label, .book-pill-arrow{
     flex-shrink:0;
   }
+  .lib-reader-chapter-pill-wrap{
+    position:relative;
+    flex:1;
+    min-width:0;
+  }
   .lib-reader-chapter-dropdown{
     display:none;
-    /* poziționat prin JS (position:fixed + left/width calculate din antet),
-       nu absolute relativ la pilă — pila e mai îngustă decât antetul (are
-       săgeata "←" la stânga și Aa/ⓘ/✕ la dreapta), așa că "left:0;right:0"
-       relativ la ea lăsa o fâșie liberă, prin care se vedea pagina din spate. */
-    position:fixed;
+    /* Poziționare CSS simplă, fixată față de .lib-reader-chapter-pill-wrap
+       (position:relative mai sus) — nicio matematică de pixeli în JS, nicio
+       presupunere despre transform pe strămoși. Panoul se întinde exact pe
+       lățimea wrapper-ului, fără fâșii libere, fără text din spate vizibil. */
+    position:absolute;
+    top:calc(100% + 6px);
+    left:0;
+    right:0;
     max-height:260px;
     overflow-y:auto;
     /* Fundal identic cu modelul de referință deja corect din aplicație —
@@ -2924,13 +2932,15 @@
   <div class="lib-reader-modal" id="lib-reader-modal">
     <div class="lib-reader-header">
       <button class="lib-reader-back" id="lib-reader-back" title="Înapoi la listă">←</button>
-      <button class="lib-reader-chapter-pill" id="lib-reader-chapter-pill">
-        <span id="lib-reader-book-label"></span>
-        <span class="book-pill-divider">|</span>
-        <span id="lib-reader-chapter-label">—</span>
-        <span class="book-pill-arrow">▾</span>
+      <div class="lib-reader-chapter-pill-wrap">
+        <button class="lib-reader-chapter-pill" id="lib-reader-chapter-pill">
+          <span id="lib-reader-book-label"></span>
+          <span class="book-pill-divider">|</span>
+          <span id="lib-reader-chapter-label">—</span>
+          <span class="book-pill-arrow">▾</span>
+        </button>
         <div class="lib-reader-chapter-dropdown" id="lib-reader-chapter-dropdown"></div>
-      </button>
+      </div>
       <button class="lib-reader-info" id="lib-reader-aa" title="Setări de citire" style="font-size:14px; font-weight:700;">Aa</button>
       <button class="lib-reader-info" id="lib-reader-info" title="Detalii ediție">ⓘ</button>
       <button class="lib-reader-x" id="lib-reader-close" title="Închide">✕</button>
@@ -6030,14 +6040,9 @@ const SUBFOLDER_CARD_IMAGES = {
   // colțul modalului din coordonatele absolute — exact containerul față de
   // care browserul va interpreta de fapt left/top.
   function positionReaderChapterDropdown(){
-    const header = readerChapterPill.closest(".lib-reader-header") || readerChapterPill.parentElement;
-    const modal = readerChapterPill.closest(".lib-reader-modal") || header;
-    const modalRect = modal.getBoundingClientRect();
-    const headerRect = header.getBoundingClientRect();
-    const pillRect = readerChapterPill.getBoundingClientRect();
-    readerChapterDropdown.style.left = (headerRect.left - modalRect.left + 12) + "px";
-    readerChapterDropdown.style.width = (headerRect.width - 24) + "px";
-    readerChapterDropdown.style.top = (pillRect.bottom - modalRect.top + 6) + "px";
+    /* Nu mai e nevoie de niciun calcul — poziționarea e pur CSS acum
+       (position:absolute relativ la .lib-reader-chapter-pill-wrap). Funcția
+       rămâne goală intenționat, ca să nu trebuiască rescris apelul de mai jos. */
   }
   readerChapterPill.addEventListener("click", (e) => {
     e.stopPropagation();
@@ -6049,7 +6054,6 @@ const SUBFOLDER_CARD_IMAGES = {
       readerChapterDropdown.classList.remove("lib-reader-book-list");
       buildChapterDropdown(totalChapters(currentBook));
     }
-    positionReaderChapterDropdown();
     readerChapterDropdown.classList.toggle("show");
   });
   document.addEventListener("click", (e) => {
