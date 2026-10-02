@@ -1317,8 +1317,22 @@
     position:relative;
     cursor:pointer;
     padding-bottom:2px;
-    white-space:normal;
-    border-bottom:2px dotted #d4a017;
+    white-space:nowrap;
+  }
+  .word::after{
+    content:"•••";
+    position:absolute;
+    left:50%;
+    bottom:-0.6em;
+    transform:translateX(-50%);
+    font-size:0.75em;
+    letter-spacing:1.5px;
+    color:#d4a017;
+    white-space:nowrap;
+    pointer-events:none;
+  }
+  .word-phrase::after{
+    content:"••••••";
   }
   .word:active, .word.active-word{
     background:rgba(59,130,246,0.25);
@@ -2762,7 +2776,7 @@
   <div id="chapter-player-mount" class="chapter-player-dropdown"></div>
 
   <div class="aprofundare-hint" id="aprofundare-hint" style="display:none;">
-    <span>Cuvintele cu <b style="border-bottom:2px dotted #d4a017;">linie punctată</b> dedesubt au sens lexical — atinge-le pentru ebraică, transliterare și traducere.</span>
+    <span>Cuvintele cu <b style="color:#d4a017;">•••</b> dedesubt au sens lexical — atinge-le pentru ebraică, transliterare și traducere.</span>
     <button id="aprofundare-hint-close" aria-label="Închide">✕</button>
   </div>
 
@@ -4066,11 +4080,10 @@ function renderVerses(){
     verse.tokens.forEach(tok => {
       if(tok.w && aprofundare){
         // token-urile pot fi fraze întregi ("a fost", "DOMNUL Dumnezeu") -- un singur
-        // span pentru toată fraza, cu un singur panou lexical; linia punctată e
-        // border-bottom, care se întinde pe toată lățimea reală și se rupe corect
-        // pe mai multe linii la ecrane mici, fără puncte "plutitoare".
+        // span pentru toată fraza, cu un singur panou lexical; 3 puncte sub un cuvânt
+        // simplu, 6 puncte sub o frază de mai multe cuvinte (fără să umple lățimea).
         const span = document.createElement("span");
-        span.className = "word";
+        span.className = "word" + (tok.t.trim().includes(" ") ? " word-phrase" : "");
         span.textContent = tok.t;
         span.addEventListener("click", (e) => {
           e.stopPropagation();
@@ -4926,7 +4939,7 @@ function applyModeButtons(){
   const footerHint = document.getElementById("verses-footer-hint");
   if(footerHint){
     footerHint.innerHTML = (appMode === "aprofundare")
-      ? 'Atinge un verset pentru comentarii · cuvintele cu <b style="border-bottom:2px dotted #d4a017;">linie punctată</b> dedesubt au sens lexical — atinge-le pentru ebraică și traducere'
+      ? 'Atinge un verset pentru comentarii · cuvintele cu <b style="color:#d4a017;">•••</b> dedesubt au sens lexical — atinge-le pentru ebraică și traducere'
       : 'Atinge un verset pentru comentarii.';
   }
 }
@@ -5774,7 +5787,7 @@ const SUBFOLDER_CARD_IMAGES = {
     (v.tokens || [{ t: v.t }]).forEach(tok => {
       if(tok.w && tok.strong && aprofundare){
         const span = document.createElement("span");
-        span.className = "word";
+        span.className = "word" + (tok.t.trim().includes(" ") ? " word-phrase" : "");
         span.textContent = tok.t;
         span.addEventListener("click", (e) => { e.stopPropagation(); if(typeof showWordPopover === "function") showWordPopover(tok, span); });
         p.appendChild(span);
