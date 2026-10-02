@@ -1317,19 +1317,8 @@
     position:relative;
     cursor:pointer;
     padding-bottom:2px;
-    white-space:nowrap;
-  }
-  .word::after{
-    content:"•••";
-    position:absolute;
-    left:50%;
-    bottom:-0.6em;
-    transform:translateX(-50%);
-    font-size:0.75em;
-    letter-spacing:1.5px;
-    color:#d4a017;
-    white-space:nowrap;
-    pointer-events:none;
+    white-space:normal;
+    border-bottom:2px dotted #d4a017;
   }
   .word:active, .word.active-word{
     background:rgba(59,130,246,0.25);
@@ -2773,7 +2762,7 @@
   <div id="chapter-player-mount" class="chapter-player-dropdown"></div>
 
   <div class="aprofundare-hint" id="aprofundare-hint" style="display:none;">
-    <span>Cuvintele cu <b style="color:#d4a017;">•••</b> dedesubt au sens lexical — atinge-le pentru ebraică, transliterare și traducere.</span>
+    <span>Cuvintele cu <b style="border-bottom:2px dotted #d4a017;">linie punctată</b> dedesubt au sens lexical — atinge-le pentru ebraică, transliterare și traducere.</span>
     <button id="aprofundare-hint-close" aria-label="Închide">✕</button>
   </div>
 
@@ -4076,25 +4065,18 @@ function renderVerses(){
     } else {
     verse.tokens.forEach(tok => {
       if(tok.w && aprofundare){
-        // token-urile pot fi fraze întregi ("a fost", "DOMNUL Dumnezeu") -- fiecare
-        // cuvânt din frază primește span-ul lui propriu (cu punctele lui proprii),
-        // ca nu cumva un singur span cu spațiu în interior să se rupă pe două linii
-        // la lățimi mici, lăsând punctele "plutind" lângă doar o bucată a frazei.
-        const parts = tok.t.split(/(\s+)/).filter(s => s.length > 0);
-        parts.forEach(part => {
-          if(/^\s+$/.test(part)){
-            p.appendChild(document.createTextNode(part));
-            return;
-          }
-          const span = document.createElement("span");
-          span.className = "word";
-          span.textContent = part;
-          span.addEventListener("click", (e) => {
-            e.stopPropagation();
-            showWordPopover(tok, span);
-          });
-          p.appendChild(span);
+        // token-urile pot fi fraze întregi ("a fost", "DOMNUL Dumnezeu") -- un singur
+        // span pentru toată fraza, cu un singur panou lexical; linia punctată e
+        // border-bottom, care se întinde pe toată lățimea reală și se rupe corect
+        // pe mai multe linii la ecrane mici, fără puncte "plutitoare".
+        const span = document.createElement("span");
+        span.className = "word";
+        span.textContent = tok.t;
+        span.addEventListener("click", (e) => {
+          e.stopPropagation();
+          showWordPopover(tok, span);
         });
+        p.appendChild(span);
       } else if(tok.editorial){
         const span = document.createElement("span");
         span.className = "editorial";
@@ -4944,7 +4926,7 @@ function applyModeButtons(){
   const footerHint = document.getElementById("verses-footer-hint");
   if(footerHint){
     footerHint.innerHTML = (appMode === "aprofundare")
-      ? 'Atinge un verset pentru comentarii · cuvintele cu <b style="color:#d4a017;">•••</b> dedesubt au sens lexical — atinge-le pentru ebraică și traducere'
+      ? 'Atinge un verset pentru comentarii · cuvintele cu <b style="border-bottom:2px dotted #d4a017;">linie punctată</b> dedesubt au sens lexical — atinge-le pentru ebraică și traducere'
       : 'Atinge un verset pentru comentarii.';
   }
 }
@@ -5791,14 +5773,11 @@ const SUBFOLDER_CARD_IMAGES = {
     const aprofundare = (typeof appMode !== "undefined" && appMode === "aprofundare");
     (v.tokens || [{ t: v.t }]).forEach(tok => {
       if(tok.w && tok.strong && aprofundare){
-        tok.t.split(/(\s+)/).filter(s => s.length > 0).forEach(part => {
-          if(/^\s+$/.test(part)){ p.appendChild(document.createTextNode(part)); return; }
-          const span = document.createElement("span");
-          span.className = "word";
-          span.textContent = part;
-          span.addEventListener("click", (e) => { e.stopPropagation(); if(typeof showWordPopover === "function") showWordPopover(tok, span); });
-          p.appendChild(span);
-        });
+        const span = document.createElement("span");
+        span.className = "word";
+        span.textContent = tok.t;
+        span.addEventListener("click", (e) => { e.stopPropagation(); if(typeof showWordPopover === "function") showWordPopover(tok, span); });
+        p.appendChild(span);
       } else if(tok.editorial){
         const span = document.createElement("span");
         span.className = "editorial";
