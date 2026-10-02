@@ -755,6 +755,30 @@
     overflow:hidden;
   }
   .lib-reader-modal.show{transform:translateY(0);}
+  /* Mod "inline": Haftarot citite direct în tab-ul Biblia, ca orice alt capitol
+     (Geneza etc.), nu ca un panou/modal separat din Bibliotecă. Capitolul își
+     păstrează motorul de randare (renderChapter/renderRichLibVerse), dar vizual
+     se comportă ca #verses: fără ecran-plin, fără fundal propriu, fără antet
+     propriu (se folosește pila "Cărți" din tab-ul Biblia), cu bara de jos
+     (Acasă/Biblia/Diverse...) vizibilă, la fel ca la orice capitol din Tora. */
+  .lib-reader-modal.lib-reader-inline{
+    position:static;
+    max-width:none;
+    margin:0;
+    transform:none;
+    transition:none;
+    background:none;
+    z-index:auto;
+    overflow:visible;
+  }
+  .lib-reader-modal.lib-reader-inline .lib-reader-header{ display:none; }
+  .lib-reader-modal.lib-reader-inline .lib-reader-body{
+    padding:4px 20px 90px;
+    overflow-y:visible;
+  }
+  .lib-reader-modal.lib-reader-inline .chapter-nav-btn-inline{
+    bottom:calc(96px + env(safe-area-inset-bottom, 0px));
+  }
   .lib-reader-header{
     display:flex;
     align-items:center;
@@ -4798,6 +4822,7 @@ function loadChapter(n){
   const book = getBook(currentBookSlug);
   if(n < 1 || n > book.chapters) return;
   if(typeof stopTts === "function") stopTts(); // schimbarea capitolului oprește orice sesiune audio
+  if(typeof window.exitHaftarahInline === "function") window.exitHaftarahInline(); // la alegerea unei cărți canonice, ieșim din Haftara citită inline
   currentChapter = n;
   bookPillLabel.textContent = book.name + " " + n;
 
@@ -4949,7 +4974,9 @@ function setMode(mode){
   appMode = mode;
   try { localStorage.setItem("bibleAppMode", mode); } catch(e){}
   applyModeButtons();
-  if(Array.isArray(VERSES) && VERSES.length){
+  if(typeof window.isHaftarahInline === "function" && window.isHaftarahInline()){
+    window.reRenderInlineHaftarah();
+  } else if(Array.isArray(VERSES) && VERSES.length){
     versesEl.innerHTML = "";
     renderVerses();
   }
@@ -5524,7 +5551,39 @@ const SUBFOLDER_CARD_IMAGES = {
   folderBackdrop.addEventListener("click", closeFolderPanel);
 
   // ---- reader ----
+  // Haftarot — varianta completă (lexicon + Citire/Aprofundare) se citește direct
+  // în tab-ul Biblia, în același loc/format ca Geneza (nu într-un panou separat
+  // ca restul Bibliotecii): mutăm temporar #lib-reader-modal în #tab-biblia, în
+  // locul lui #verses, fără fundal/antet/ecran-plin propriu — pila "Cărți" și
+  // bara de jos rămân cele din tab-ul Biblia, nemodificate.
+  let haftarahInlineMode = false;
+  function enterHaftarahInline(){
+    if(haftarahInlineMode) return;
+    haftarahInlineMode = true;
+    readerModal.classList.add("lib-reader-inline");
+    const mainVerses = document.getElementById("verses");
+    mainVerses.style.display = "none";
+    mainVerses.insertAdjacentElement("afterend", readerModal);
+    const navFloat = document.getElementById("chapter-nav-float");
+    if(navFloat) navFloat.classList.remove("show");
+  }
+  function exitHaftarahInline(){
+    if(!haftarahInlineMode) return;
+    haftarahInlineMode = false;
+    readerModal.classList.remove("lib-reader-inline");
+    document.querySelector(".app").appendChild(readerModal);
+    const mainVerses = document.getElementById("verses");
+    mainVerses.style.display = "";
+    if(typeof updateChapterNavFloat === "function") updateChapterNavFloat();
+  }
+  window.exitHaftarahInline = exitHaftarahInline;
+  window.isHaftarahInline = function(){ return haftarahInlineMode; };
+  // Apelată de setMode() (comutatorul Citire/Aprofundare din antetul tab-ului
+  // Biblia, folosit de ambele moduri — canonic și Haftarot) ca să rerandeze
+  // Haftara curentă, nu VERSES (care rămâne ascuns cât timp citim o Haftarah).
+  window.reRenderInlineHaftarah = function(){ if(haftarahInlineMode) renderChapter(); };
   function openReader(book){
+    exitHaftarahInline();
     haftarahBackTarget = null;
     currentBook = book;
     currentChapterIdx = 0;
@@ -5540,18 +5599,13 @@ const SUBFOLDER_CARD_IMAGES = {
   }
   readerClose.addEventListener("click", closeReader);
   window.closeLibReaderForNav = function(){ closeReader(); if(typeof closeFolderPanel === "function") closeFolderPanel(); };
-  // Haftarot — varianta completă (lexicon + Citire/Aprofundare) se citește din
-  // tab-ul Biblia (selectorul "Cărți", lângă Tora), nu din Bibliotecă. Reutilizează
-  // același motor de citire ca restul Bibliotecii. Săgeata "înapoi" duce la lista
-  // de Haftarot a cărții respective (ex. Geneza), nu la Acasă — vezi readerBack mai jos.
   window.openHaftarahAt = function(book, idx){
     currentFolderKey = null;
     lastBookListState = null;
     haftarahBackTarget = book;
     currentBook = book;
     currentChapterIdx = idx;
-    readerBackdrop.classList.add("show");
-    readerModal.classList.add("show");
+    enterHaftarahInline();
     libApplyTextPrefs();
     renderChapter();
   };
@@ -5603,6 +5657,7 @@ const SUBFOLDER_CARD_IMAGES = {
     return null;
   }
   function openReaderAtChapter(book, chapterIdx){
+    exitHaftarahInline();
     currentBook = book;
     currentChapterIdx = chapterIdx;
     readerBackdrop.classList.add("show");
@@ -5836,6 +5891,12 @@ const SUBFOLDER_CARD_IMAGES = {
     // e de fapt o Haftarah separată, cu titlul ei), pila mică de sus arată acel
     // titlu, nu un simplu număr de capitol generic.
     readerChapterLabel.textContent = (ch0 && ch0.title) ? ch0.title : "Cap. " + (currentChapterIdx + 1);
+    // În mod inline (Haftarot citite direct în tab-ul Biblia), pila proprie e
+    // ascunsă — se actualizează în loc pila "Cărți" principală (#book-pill-label),
+    // exact ca la schimbarea unui capitol din Geneza.
+    if(haftarahInlineMode && typeof bookPillLabel !== "undefined" && bookPillLabel){
+      bookPillLabel.textContent = (ch0 && ch0.title) ? ch0.title : (book.name || "");
+    }
     readerBody.innerHTML = "";
     if(book.lazySrc && !book._lazyLoaded){ loadLazyBook(book); return; }
 
@@ -5867,24 +5928,28 @@ const SUBFOLDER_CARD_IMAGES = {
       if(ch.verses.some(v => Array.isArray(v.tokens))){
         const aprof = (typeof appMode !== "undefined" && appMode === "aprofundare");
         readerBody.classList.toggle("lib-aprofundare", aprof);
-        const row = document.createElement("div");
-        row.className = "lib-mode-row";
-        const tg = document.createElement("div");
-        tg.className = "mode-toggle";
-        [["citire", "Citire"], ["aprofundare", "Aprofundare"]].forEach(([m, label]) => {
-          const b = document.createElement("button");
-          b.className = "mode-btn" + (((m === "aprofundare") === aprof) ? " active" : "");
-          b.textContent = label;
-          b.addEventListener("click", () => {
-            if(typeof setMode === "function") setMode(m);
-            const y = readerBody.scrollTop;
-            renderChapter();
-            readerBody.scrollTop = y;
+        // În mod inline, comutatorul Citire/Aprofundare din antetul tab-ului
+        // Biblia e deja vizibil — nu se mai dublează unul propriu aici.
+        if(!haftarahInlineMode){
+          const row = document.createElement("div");
+          row.className = "lib-mode-row";
+          const tg = document.createElement("div");
+          tg.className = "mode-toggle";
+          [["citire", "Citire"], ["aprofundare", "Aprofundare"]].forEach(([m, label]) => {
+            const b = document.createElement("button");
+            b.className = "mode-btn" + (((m === "aprofundare") === aprof) ? " active" : "");
+            b.textContent = label;
+            b.addEventListener("click", () => {
+              if(typeof setMode === "function") setMode(m);
+              const y = readerBody.scrollTop;
+              renderChapter();
+              readerBody.scrollTop = y;
+            });
+            tg.appendChild(b);
           });
-          tg.appendChild(b);
-        });
-        row.appendChild(tg);
-        readerBody.insertBefore(row, readerBody.firstChild);
+          row.appendChild(tg);
+          readerBody.insertBefore(row, readerBody.firstChild);
+        }
       }
       if(ch.title){
         const head = document.createElement("div");
