@@ -69,7 +69,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -377,7 +377,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -508,7 +508,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -702,7 +702,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -793,7 +793,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -1159,7 +1159,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -1416,7 +1416,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -1674,7 +1674,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -1909,7 +1909,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -2174,7 +2174,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -2317,7 +2317,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -2811,7 +2811,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -3059,7 +3059,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -3562,7 +3562,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -3884,7 +3884,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -4144,7 +4144,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -4376,7 +4376,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -4647,7 +4647,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -4864,7 +4864,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -5010,7 +5010,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -5381,7 +5381,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -5681,7 +5681,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -5874,7 +5874,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -5981,7 +5981,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -6349,7 +6349,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -6581,7 +6581,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -6616,7 +6616,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -6927,7 +6927,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {
@@ -7475,7 +7475,7 @@ window.CHAPTER_DATA = [
     "bdb": "אֱלֹהִים 2570 n.m.pl. (1) pl. in number. (a) rulers, judges, either as divine representatives at sacred places or as reflecting divine majesty and power (b) divine ones, superhuman beings including God and angels (c) angels (d) gods (2) pl. intensive (a) god or goddess (b) godlike one (c) works of God, or things belongng to him (d) God (3) הָאֱלֹהִים the (true) God (4) אֱלֹהִים = God",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "În ebraică există două nume principale pentru Dumnezeu: Elohim (folosit aici) și Iahve. Elohim e pluralul lui Eloah și se leagă de El, „cel tare” — arătând, în primul rând, puterea lui Dumnezeu ca Ziditor, Susținător și Stăpân peste lume. Forma de plural a stârnit multă discuție; ideea că ar arăta direct Treimea nu mai găsește azi sprijin printre cercetători — explicația mai probabilă ține de gramatica ebraică a „pluralului de maiestate”."
    },
    {

@@ -239,7 +239,7 @@ window.CHAPTER_DATA = [
     "def": "Dumnezeu.",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "Elohim, „Dumnezeu”, formă gramaticală de plural (de la eloah), dar folosită cu verb la singular pentru Dumnezeul unic al lui Israel. La Geneza 2 apare unit cu Numele propriu YHVH, în combinația „YHVH Elohim” — trecere de la limbajul cosmic al capitolului 1 la relatarea mai personală a creării omului."
    },
    {
@@ -477,7 +477,7 @@ window.CHAPTER_DATA = [
     "def": "Dumnezeu.",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "Elohim, „Dumnezeu”, formă gramaticală de plural (de la eloah), dar folosită cu verb la singular pentru Dumnezeul unic al lui Israel. La Geneza 2 apare unit cu Numele propriu YHVH, în combinația „YHVH Elohim” — trecere de la limbajul cosmic al capitolului 1 la relatarea mai personală a creării omului."
    },
    {
@@ -615,7 +615,7 @@ window.CHAPTER_DATA = [
     "def": "Dumnezeu.",
     "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală ([]im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
     "dict_ro": "Elohim, „Dumnezeu”, formă gramaticală de plural (de la eloah), dar folosită cu verb la singular pentru Dumnezeul unic al lui Israel. La Geneza 2 apare unit cu Numele propriu YHVH, în combinația „YHVH Elohim” — trecere de la limbajul cosmic al capitolului 1 la relatarea mai personală a creării omului."
    },
    {
