@@ -1382,7 +1382,7 @@
     color:#3A2614;
     border:none;
     border-radius:26px;
-    padding:30px 20px 26px;
+    padding:0;
     font-family:'EB Garamond', 'Fraunces', serif;
     font-size:14px;
     line-height:1.5;
@@ -1391,24 +1391,27 @@
     display:none;
   }
   .word-popover.show{display:block;}
-  .word-popover .wp-inner-frame{
-    position:absolute;
-    top:11px; right:11px; bottom:11px; left:11px;
-    border:1.5px solid #3A2614;
+  /* Chenarul e o bordură reală pe un bloc care crește cu conținutul — nu un
+     decor absolut cu înălțime fixă, ca să nu taie textul la capitole lungi
+     (Dicționarul biblic) când panoul se scrolează. */
+  .word-popover .wp-frame{
+    position:relative;
+    margin:12px;
+    border:1.5px solid #16294a;
     border-radius:18px;
-    pointer-events:none;
+    padding:24px 18px 24px;
   }
   .word-popover .wp-corner{
     position:absolute;
-    width:19%;
-    max-width:58px;
+    width:14%;
+    max-width:38px;
     pointer-events:none;
   }
   .word-popover .wp-corner svg{ width:100%; display:block; }
-  .word-popover .wp-corner-tl{ top:7px; left:7px; }
-  .word-popover .wp-corner-tr{ top:7px; right:7px; transform:scaleX(-1); }
-  .word-popover .wp-corner-bl{ bottom:7px; left:7px; transform:scaleY(-1); }
-  .word-popover .wp-corner-br{ bottom:7px; right:7px; transform:scale(-1,-1); }
+  .word-popover .wp-corner-tl{ top:2px; left:2px; }
+  .word-popover .wp-corner-tr{ top:2px; right:2px; transform:scaleX(-1); }
+  .word-popover .wp-corner-bl{ bottom:2px; left:2px; transform:scaleY(-1); }
+  .word-popover .wp-corner-br{ bottom:2px; right:2px; transform:scale(-1,-1); }
   .word-popover .wp-content{
     position:relative;
     text-align:center;
@@ -1417,7 +1420,7 @@
     position:relative;
     width:72%;
     max-width:210px;
-    margin:2px auto 10px;
+    margin:4px auto 10px;
   }
   .word-popover .wp-medallion-bg{ display:block; width:100%; }
   .word-popover .wp-medallion-content{
@@ -1517,7 +1520,7 @@
     font-size:26px;
     letter-spacing:0.015em;
     text-transform:none;
-    color:#3A2614;
+    color:#16294a;
     text-align:center;
     margin-bottom:6px;
   }
@@ -1535,7 +1538,7 @@
     font-family:'EB Garamond', serif;
     font-style:italic;
     color:#3A2614;
-    font-size:16px;
+    font-size:21px;
     text-align:center;
     margin:0;
   }
@@ -1575,7 +1578,7 @@
     font-weight:700;
     letter-spacing:0.12em;
     text-transform:uppercase;
-    color:#3A2614;
+    color:#16294a;
     margin-bottom:4px;
   }
   .wp-extra .wp-greek{
@@ -1599,9 +1602,11 @@
     z-index:1;
   }
   .word-popover .wp-close{
-    top:16px; right:16px;
-    background:rgba(58,38,20,0.1);
-    color:#3A2614;
+    top:8px; right:8px;
+    width:27px; height:27px;
+    font-size:13px;
+    background:rgba(22,41,74,0.1);
+    color:#16294a;
     z-index:2;
   }
 
@@ -3260,60 +3265,61 @@
 
 <svg style="position:absolute; width:0; height:0; overflow:hidden;" aria-hidden="true">
   <symbol id="wp-corner-ornament" viewBox="0 0 60 60">
-    <path d="M4 42 C4 30, 4 18, 16 10 C22 6, 30 6, 34 10" fill="none" stroke="#3A2614" stroke-width="1.3"/>
-    <path d="M4 42 C10 40, 14 34, 14 26" fill="none" stroke="#3A2614" stroke-width="1.1"/>
-    <circle cx="4" cy="46" r="1.6" fill="#3A2614"/>
-    <circle cx="30" cy="8" r="1.6" fill="#3A2614"/>
-    <path d="M20 20 l2.2 5 l5 2.2 l-5 2.2 l-2.2 5 l-2.2-5 l-5-2.2 l5-2.2 z" fill="#3A2614"/>
+    <path d="M4 42 C4 30, 4 18, 16 10 C22 6, 30 6, 34 10" fill="none" stroke="#16294a" stroke-width="1.3"/>
+    <path d="M4 42 C10 40, 14 34, 14 26" fill="none" stroke="#16294a" stroke-width="1.1"/>
+    <circle cx="4" cy="46" r="1.6" fill="#16294a"/>
+    <circle cx="30" cy="8" r="1.6" fill="#16294a"/>
+    <path d="M20 20 l2.2 5 l5 2.2 l-5 2.2 l-2.2 5 l-2.2-5 l-5-2.2 l5-2.2 z" fill="#16294a"/>
   </symbol>
 </svg>
 <div class="word-popover" id="word-popover">
-  <button class="wp-close" id="wp-close">✕</button>
-  <div class="wp-corner wp-corner-tl"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
-  <div class="wp-corner wp-corner-tr"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
-  <div class="wp-corner wp-corner-bl"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
-  <div class="wp-corner wp-corner-br"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
-  <div class="wp-inner-frame"></div>
-  <div class="wp-content">
-    <div class="wp-word" id="wp-word"></div>
-    <div class="wp-medallion">
-      <svg class="wp-medallion-bg" viewBox="0 0 200 200" aria-hidden="true">
-        <g class="wp-rays" stroke="#3A2614" stroke-width="0.75" opacity="0.32">
-          <line x1="122" y1="100" x2="180" y2="100"/>
-          <line x1="120.3" y1="108.4" x2="173.9" y2="130.6"/>
-          <line x1="115.6" y1="115.6" x2="156.6" y2="156.6"/>
-          <line x1="108.4" y1="120.3" x2="130.6" y2="173.9"/>
-          <line x1="100" y1="122" x2="100" y2="180"/>
-          <line x1="91.6" y1="120.3" x2="69.4" y2="173.9"/>
-          <line x1="84.4" y1="115.6" x2="43.4" y2="156.6"/>
-          <line x1="79.7" y1="108.4" x2="26.1" y2="130.6"/>
-          <line x1="78" y1="100" x2="20" y2="100"/>
-          <line x1="79.7" y1="91.6" x2="26.1" y2="69.4"/>
-          <line x1="84.4" y1="84.4" x2="43.4" y2="43.4"/>
-          <line x1="91.6" y1="79.7" x2="69.4" y2="26.1"/>
-          <line x1="100" y1="78" x2="100" y2="20"/>
-          <line x1="108.4" y1="79.7" x2="130.6" y2="26.1"/>
-          <line x1="115.6" y1="84.4" x2="156.6" y2="43.4"/>
-          <line x1="120.3" y1="91.6" x2="173.9" y2="69.4"/>
-        </g>
-        <circle class="wp-ring" cx="100" cy="100" r="94" fill="none" stroke="#3A2614" stroke-width="1.5"/>
-        <circle class="wp-ring" cx="100" cy="100" r="84" fill="none" stroke="#3A2614" stroke-width="1"/>
-        <g class="wp-medallion-stars" fill="#3A2614">
-          <path d="M100 4 l2.6 6.4 l6.4 2.6 l-6.4 2.6 l-2.6 6.4 l-2.6-6.4 l-6.4-2.6 l6.4-2.6 z"/>
-          <path d="M196 100 l-6.4 2.6 l-2.6 6.4 l-2.6-6.4 l-6.4-2.6 l6.4-2.6 l2.6-6.4 z"/>
-          <path d="M100 196 l-2.6-6.4 l-6.4-2.6 l6.4-2.6 l2.6-6.4 l2.6 6.4 l6.4 2.6 l-6.4 2.6 z"/>
-          <path d="M4 100 l6.4-2.6 l2.6-6.4 l2.6 6.4 l6.4 2.6 l-6.4 2.6 l-2.6 6.4 z"/>
-        </g>
-      </svg>
-      <div class="wp-medallion-content">
-        <div class="wp-heb" id="wp-heb"></div>
-        <div class="wp-translit" id="wp-translit"></div>
+  <div class="wp-frame">
+    <button class="wp-close" id="wp-close">✕</button>
+    <div class="wp-corner wp-corner-tl"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
+    <div class="wp-corner wp-corner-tr"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
+    <div class="wp-corner wp-corner-bl"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
+    <div class="wp-corner wp-corner-br"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
+    <div class="wp-content">
+      <div class="wp-word" id="wp-word"></div>
+      <div class="wp-medallion">
+        <svg class="wp-medallion-bg" viewBox="0 0 200 200" aria-hidden="true">
+          <g class="wp-rays" stroke="#16294a" stroke-width="0.75" opacity="0.38">
+            <line x1="122" y1="100" x2="180" y2="100"/>
+            <line x1="120.3" y1="108.4" x2="173.9" y2="130.6"/>
+            <line x1="115.6" y1="115.6" x2="156.6" y2="156.6"/>
+            <line x1="108.4" y1="120.3" x2="130.6" y2="173.9"/>
+            <line x1="100" y1="122" x2="100" y2="180"/>
+            <line x1="91.6" y1="120.3" x2="69.4" y2="173.9"/>
+            <line x1="84.4" y1="115.6" x2="43.4" y2="156.6"/>
+            <line x1="79.7" y1="108.4" x2="26.1" y2="130.6"/>
+            <line x1="78" y1="100" x2="20" y2="100"/>
+            <line x1="79.7" y1="91.6" x2="26.1" y2="69.4"/>
+            <line x1="84.4" y1="84.4" x2="43.4" y2="43.4"/>
+            <line x1="91.6" y1="79.7" x2="69.4" y2="26.1"/>
+            <line x1="100" y1="78" x2="100" y2="20"/>
+            <line x1="108.4" y1="79.7" x2="130.6" y2="26.1"/>
+            <line x1="115.6" y1="84.4" x2="156.6" y2="43.4"/>
+            <line x1="120.3" y1="91.6" x2="173.9" y2="69.4"/>
+          </g>
+          <circle class="wp-ring" cx="100" cy="100" r="94" fill="none" stroke="#16294a" stroke-width="1.5"/>
+          <circle class="wp-ring" cx="100" cy="100" r="84" fill="none" stroke="#16294a" stroke-width="1"/>
+          <g class="wp-medallion-stars" fill="#16294a">
+            <path d="M100 4 l2.6 6.4 l6.4 2.6 l-6.4 2.6 l-2.6 6.4 l-2.6-6.4 l-6.4-2.6 l6.4-2.6 z"/>
+            <path d="M196 100 l-6.4 2.6 l-2.6 6.4 l-2.6-6.4 l-6.4-2.6 l6.4-2.6 l2.6-6.4 z"/>
+            <path d="M100 196 l-2.6-6.4 l-6.4-2.6 l6.4-2.6 l2.6-6.4 l2.6 6.4 l6.4 2.6 l-6.4 2.6 z"/>
+            <path d="M4 100 l6.4-2.6 l2.6-6.4 l2.6 6.4 l6.4 2.6 l-6.4 2.6 l-2.6 6.4 z"/>
+          </g>
+        </svg>
+        <div class="wp-medallion-content">
+          <div class="wp-heb" id="wp-heb"></div>
+          <div class="wp-translit" id="wp-translit"></div>
+        </div>
       </div>
+      <div class="wp-strong" id="wp-strong"></div>
+      <div class="wp-def" id="wp-def"></div>
+      <div class="wp-divider"></div>
+      <div class="wp-extra" id="wp-extra"></div>
     </div>
-    <div class="wp-strong" id="wp-strong"></div>
-    <div class="wp-def" id="wp-def"></div>
-    <div class="wp-divider"></div>
-    <div class="wp-extra" id="wp-extra"></div>
   </div>
 </div>
 
@@ -4584,7 +4590,9 @@ function showWordPopover(tok, anchorEl){
   document.querySelectorAll(".word").forEach(w => w.classList.remove("active-word"));
   anchorEl.classList.add("active-word");
 
-  document.getElementById("wp-word").textContent = tok.t || "";
+  // Titlul cardului arată cuvântul/fraza curată, fără ghilimelele de citare
+  // rămase din textul Rosen (ex. „Să fie", „Dumnezeu) la marginile frazei-token.
+  document.getElementById("wp-word").textContent = (tok.t || "").replace(/^[„"“”‘’«»'"]+|[„"“”‘’«»'"]+$/g, "").trim();
   document.getElementById("wp-heb").textContent = tok.heb;
   document.getElementById("wp-translit").textContent = tok.translit;
   document.getElementById("wp-strong").textContent = tok.pos || "";
