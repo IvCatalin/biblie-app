@@ -19,6 +19,8 @@
 <noscript><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&family=Noto+Sans+Hebrew:wght@400;600&display=swap" rel="stylesheet"></noscript>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Literata:opsz,wght@7..72,400;7..72,600&family=Poppins:wght@400;500;600&family=Arimo:wght@400;500;600&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Literata:opsz,wght@7..72,400;7..72,600&family=Poppins:wght@400;500;600&family=Arimo:wght@400;500;600&display=swap" rel="stylesheet"></noscript>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,500&family=Noto+Serif+Hebrew:wght@400;600;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,500&family=Noto+Serif+Hebrew:wght@400;600;700&display=swap" rel="stylesheet"></noscript>
 <style>
   :root{
     --parchment: #182b4d;
@@ -1363,28 +1365,75 @@
     border-radius:2px;
   }
 
+  /* ===== Panoul lexical — card tip pergament/kraft, cu medalion ebraic și
+     ornamente de colț (model propriu, vezi de-procesat/panou lexical hael idee) ===== */
   .word-popover{
     position:fixed;
     top:50%;
     left:50%;
     transform:translate(-50%, -50%);
-    width:86vw;
-    max-width:340px;
-    max-height:70vh;
+    width:88vw;
+    max-width:360px;
+    max-height:82vh;
     overflow-y:auto;
-    background:#101f3c;
-    color:var(--ink);
-    border:1px solid rgba(255,255,255,0.12);
-    border-radius:16px;
-    padding:34px 22px 22px;
-    font-family:'Fraunces', serif;
+    background:
+      radial-gradient(ellipse at 50% 38%, #D4B483 0%, #C9A36A 55%, #B8925A 100%),
+      url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix type='matrix' values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.09 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+    color:#3A2614;
+    border:none;
+    border-radius:26px;
+    padding:30px 20px 26px;
+    font-family:'EB Garamond', 'Fraunces', serif;
     font-size:14px;
     line-height:1.5;
-    box-shadow:0 20px 50px rgba(0,0,0,0.5);
+    box-shadow:0 20px 50px rgba(0,0,0,0.45);
     z-index:70;
     display:none;
   }
   .word-popover.show{display:block;}
+  .word-popover .wp-inner-frame{
+    position:absolute;
+    top:11px; right:11px; bottom:11px; left:11px;
+    border:1.5px solid #3A2614;
+    border-radius:18px;
+    pointer-events:none;
+  }
+  .word-popover .wp-corner{
+    position:absolute;
+    width:19%;
+    max-width:58px;
+    pointer-events:none;
+  }
+  .word-popover .wp-corner svg{ width:100%; display:block; }
+  .word-popover .wp-corner-tl{ top:7px; left:7px; }
+  .word-popover .wp-corner-tr{ top:7px; right:7px; transform:scaleX(-1); }
+  .word-popover .wp-corner-bl{ bottom:7px; left:7px; transform:scaleY(-1); }
+  .word-popover .wp-corner-br{ bottom:7px; right:7px; transform:scale(-1,-1); }
+  .word-popover .wp-content{
+    position:relative;
+    text-align:center;
+  }
+  .word-popover .wp-medallion{
+    position:relative;
+    width:72%;
+    max-width:210px;
+    margin:2px auto 10px;
+  }
+  .word-popover .wp-medallion-bg{ display:block; width:100%; }
+  .word-popover .wp-medallion-content{
+    position:absolute;
+    top:50%; left:50%;
+    transform:translate(-50%, -50%);
+    width:68%;
+    text-align:center;
+  }
+  .word-popover .wp-divider{
+    width:78%;
+    height:1.5px;
+    background:#3A2614;
+    opacity:0.6;
+    margin:4px auto 16px;
+  }
 
   .ref-preview-popover{
     position:fixed;
@@ -1463,67 +1512,65 @@
   .ref-preview-icon-btn:active{color:var(--gold); border-color:var(--gold);}
 
   .wp-word{
-    font-family:'Fraunces', serif;
+    font-family:'EB Garamond', 'Fraunces', serif;
     font-weight:700;
-    font-size:28px;
-    letter-spacing:0.01em;
+    font-size:26px;
+    letter-spacing:0.015em;
     text-transform:none;
-    color:#f0c419;
-    text-align:left;
-    margin-bottom:14px;
+    color:#3A2614;
+    text-align:center;
+    margin-bottom:6px;
   }
   .wp-heb{
-    font-family:'Noto Sans Hebrew', serif;
-    font-size:34px;
-    color:#fff;
+    font-family:'Noto Serif Hebrew', 'Noto Sans Hebrew', serif;
+    font-weight:700;
+    font-size:30px;
+    color:#3A2614;
     direction:rtl;
     text-align:center;
     overflow-wrap:break-word;
-    margin-bottom:8px;
+    margin-bottom:2px;
   }
   .wp-translit{
+    font-family:'EB Garamond', serif;
     font-style:italic;
-    color:#cabb8d;
+    color:#3A2614;
     font-size:16px;
     text-align:center;
-    margin:2px 0 12px;
+    margin:0;
   }
-  .wp-strong{
-    display:block;
-    width:fit-content;
-    margin:0 auto 14px;
-    font-family:'Inter', sans-serif;
-    font-size:11px;
-    letter-spacing:0.08em;
-    background:rgba(255,255,255,0.12);
-    border-radius:20px;
-    padding:4px 12px;
-  }
-  .wp-def{color:var(--ink); text-align:center;}
-  .wp-extra{
-    margin-top:16px;
-    padding-top:14px;
-    border-top:1px solid rgba(255,255,255,0.15);
-    font-size:14px;
-    color:var(--ink);
-    line-height:1.6;
+  /* Strong's + parte de vorbire — păstrate în date, dar ascunse vizual pe
+     noul card (modelul de referință nu le arată, doar ebraica/transliterarea
+     din medalion și definiția scurtă ca subtitlu). */
+  .wp-strong{ display:none; }
+  .wp-def{
+    color:#3A2614;
     text-align:center;
+    font-family:'EB Garamond', serif;
+    font-size:16px;
   }
-  .wp-extra .wp-extra-block + .wp-extra-block{margin-top:14px;}
+  .wp-extra{
+    font-size:14px;
+    color:#3A2614;
+    line-height:1.5;
+    text-align:center;
+    font-family:'EB Garamond', serif;
+  }
+  .wp-extra .wp-extra-block + .wp-extra-block{margin-top:16px;}
   .wp-extra .wp-extra-label{
     display:block;
-    font-family:'Inter', sans-serif;
-    font-size:11px;
+    font-family:'EB Garamond', serif;
+    font-size:12px;
     font-weight:700;
-    letter-spacing:0.1em;
+    letter-spacing:0.12em;
     text-transform:uppercase;
-    color:#f0c419;
+    color:#3A2614;
     margin-bottom:4px;
   }
   .wp-extra .wp-greek{
-    font-family:'Fraunces', serif;
+    font-family:'EB Garamond', serif;
     font-style:italic;
-    font-size:18px;
+    font-size:19px;
   }
   .wp-close{
     position:absolute;
@@ -1539,6 +1586,12 @@
     font-size:16px;
     cursor:pointer;
     z-index:1;
+  }
+  .word-popover .wp-close{
+    top:16px; right:16px;
+    background:rgba(58,38,20,0.1);
+    color:#3A2614;
+    z-index:2;
   }
 
   .backdrop{
@@ -3194,14 +3247,63 @@
   </div>
 </div>
 
+<svg style="position:absolute; width:0; height:0; overflow:hidden;" aria-hidden="true">
+  <symbol id="wp-corner-ornament" viewBox="0 0 60 60">
+    <path d="M4 42 C4 30, 4 18, 16 10 C22 6, 30 6, 34 10" fill="none" stroke="#3A2614" stroke-width="1.3"/>
+    <path d="M4 42 C10 40, 14 34, 14 26" fill="none" stroke="#3A2614" stroke-width="1.1"/>
+    <circle cx="4" cy="46" r="1.6" fill="#3A2614"/>
+    <circle cx="30" cy="8" r="1.6" fill="#3A2614"/>
+    <path d="M20 20 l2.2 5 l5 2.2 l-5 2.2 l-2.2 5 l-2.2-5 l-5-2.2 l5-2.2 z" fill="#3A2614"/>
+  </symbol>
+</svg>
 <div class="word-popover" id="word-popover">
   <button class="wp-close" id="wp-close">✕</button>
-  <div class="wp-word" id="wp-word"></div>
-  <div class="wp-heb" id="wp-heb"></div>
-  <div class="wp-translit" id="wp-translit"></div>
-  <div class="wp-strong" id="wp-strong"></div>
-  <div class="wp-def" id="wp-def"></div>
-  <div class="wp-extra" id="wp-extra"></div>
+  <div class="wp-corner wp-corner-tl"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
+  <div class="wp-corner wp-corner-tr"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
+  <div class="wp-corner wp-corner-bl"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
+  <div class="wp-corner wp-corner-br"><svg viewBox="0 0 60 60"><use href="#wp-corner-ornament"></use></svg></div>
+  <div class="wp-inner-frame"></div>
+  <div class="wp-content">
+    <div class="wp-word" id="wp-word"></div>
+    <div class="wp-medallion">
+      <svg class="wp-medallion-bg" viewBox="0 0 200 200" aria-hidden="true">
+        <g class="wp-rays" stroke="#3A2614" stroke-width="0.75" opacity="0.32">
+          <line x1="122" y1="100" x2="180" y2="100"/>
+          <line x1="120.3" y1="108.4" x2="173.9" y2="130.6"/>
+          <line x1="115.6" y1="115.6" x2="156.6" y2="156.6"/>
+          <line x1="108.4" y1="120.3" x2="130.6" y2="173.9"/>
+          <line x1="100" y1="122" x2="100" y2="180"/>
+          <line x1="91.6" y1="120.3" x2="69.4" y2="173.9"/>
+          <line x1="84.4" y1="115.6" x2="43.4" y2="156.6"/>
+          <line x1="79.7" y1="108.4" x2="26.1" y2="130.6"/>
+          <line x1="78" y1="100" x2="20" y2="100"/>
+          <line x1="79.7" y1="91.6" x2="26.1" y2="69.4"/>
+          <line x1="84.4" y1="84.4" x2="43.4" y2="43.4"/>
+          <line x1="91.6" y1="79.7" x2="69.4" y2="26.1"/>
+          <line x1="100" y1="78" x2="100" y2="20"/>
+          <line x1="108.4" y1="79.7" x2="130.6" y2="26.1"/>
+          <line x1="115.6" y1="84.4" x2="156.6" y2="43.4"/>
+          <line x1="120.3" y1="91.6" x2="173.9" y2="69.4"/>
+        </g>
+        <circle class="wp-ring" cx="100" cy="100" r="94" fill="none" stroke="#3A2614" stroke-width="1.5"/>
+        <circle class="wp-ring" cx="100" cy="100" r="84" fill="none" stroke="#3A2614" stroke-width="1"/>
+        <g class="wp-medallion-stars" fill="#3A2614">
+          <path d="M100 4 l2.6 6.4 l6.4 2.6 l-6.4 2.6 l-2.6 6.4 l-2.6-6.4 l-6.4-2.6 l6.4-2.6 z"/>
+          <path d="M196 100 l-6.4 2.6 l-2.6 6.4 l-2.6-6.4 l-6.4-2.6 l6.4-2.6 l2.6-6.4 z"/>
+          <path d="M100 196 l-2.6-6.4 l-6.4-2.6 l6.4-2.6 l2.6-6.4 l2.6 6.4 l6.4 2.6 l-6.4 2.6 z"/>
+          <path d="M4 100 l6.4-2.6 l2.6-6.4 l2.6 6.4 l6.4 2.6 l-6.4 2.6 l-2.6 6.4 z"/>
+        </g>
+      </svg>
+      <div class="wp-medallion-content">
+        <div class="wp-heb" id="wp-heb"></div>
+        <div class="wp-translit" id="wp-translit"></div>
+      </div>
+    </div>
+    <div class="wp-strong" id="wp-strong"></div>
+    <div class="wp-def" id="wp-def"></div>
+    <div class="wp-divider"></div>
+    <div class="wp-extra" id="wp-extra"></div>
+  </div>
 </div>
 
 <div class="ref-preview-popover" id="ref-preview-popover">
@@ -4494,6 +4596,7 @@ function showWordPopover(tok, anchorEl){
   extraEl.innerHTML = extraHtml;
 
   wordPopover.classList.add("show");
+  wordPopover.scrollTop = 0;
 }
 
 function hideWordPopover(){
