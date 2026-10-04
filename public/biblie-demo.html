@@ -1542,7 +1542,18 @@
   /* Strong's + parte de vorbire — păstrate în date, dar ascunse vizual pe
      noul card (modelul de referință nu le arată, doar ebraica/transliterarea
      din medalion și definiția scurtă ca subtitlu). */
-  .wp-strong{ display:none; }
+  .wp-strong{
+    display:block;
+    width:fit-content;
+    margin:0 auto 10px;
+    font-family:'EB Garamond', serif;
+    font-style:italic;
+    font-size:12.5px;
+    letter-spacing:0.04em;
+    color:#3A2614;
+    opacity:0.75;
+    text-align:center;
+  }
   .wp-def{
     color:#3A2614;
     text-align:center;
@@ -4576,7 +4587,7 @@ function showWordPopover(tok, anchorEl){
   document.getElementById("wp-word").textContent = tok.t || "";
   document.getElementById("wp-heb").textContent = tok.heb;
   document.getElementById("wp-translit").textContent = tok.translit;
-  document.getElementById("wp-strong").textContent = tok.strong + (tok.pos ? " · " + tok.pos : "");
+  document.getElementById("wp-strong").textContent = tok.pos || "";
   document.getElementById("wp-def").textContent = tok.def_ro || "";
 
   const extraEl = document.getElementById("wp-extra");
