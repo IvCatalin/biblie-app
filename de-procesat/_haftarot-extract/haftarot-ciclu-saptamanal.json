@@ -61999,11 +61999,14 @@
       {
        "t": "din nou",
        "w": "din nou",
-       "heb": "וַיֹּסֶף עוֹד",
-       "translit": "vayosef od",
+       "heb": "וַיֹּסֶף",
+       "translit": "vaiosef",
        "strong": "H3254",
-       "pos": "verb, hifil imperfect consecutiv + adverb",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a adăugat din nou, a continuat să adune.",
+       "greek": "ἔτι (eti)",
+       "greek_def_ro": "ἔτι (eti) — din nou, încă.",
+       "diff_ro": "Septuaginta are aici o cifră diferită de cea ebraică pentru numărul bărbaților aleși: „ἑβδομήκοντα χιλιάδας\" („șaptezeci de mii\"), nu „treizeci de mii\" — o divergență numerică reală.",
        "dict_ro": "Iasaf od — Rashi explică precis „din nou”: poporul se strânsese deja o dată în jurul lui David când l-au uns rege la Hebron; aceasta este a doua adunare, distinctă de cea dintâi, de aceea textul marchează explicit repetiția cu „din nou”, nu doar „a adunat”."
       },
       {
@@ -62054,11 +62057,12 @@
       {
        "t": "Baalei-Iuda",
        "w": "Baalei-Iuda",
-       "heb": "בַּעֲלֵי יְהוּדָה",
-       "translit": "Baalei Yehuda",
+       "heb": "מִבַּעֲלֵי יְהוּדָה",
+       "translit": "mibaalē iehuda",
        "strong": "H1184",
-       "pos": "substantiv propriu, nume de loc",
+       "pos": "nume propriu + nume propriu",
        "def_ro": "Baale-Iuda, alt nume pentru Chiriat-Iearim.",
+       "diff_ro": "Septuaginta nu tratează acest nume ca toponim, ci îl traduce „ἀπὸ τῶν ἀρχόντων Ἰούδα\" („de la conducătorii lui Iuda\") — citind „Baalei\" ca termen generic („stăpâni/conducători\"), nu ca parte dintr-un nume de loc.",
        "dict_ro": "Baale Yehuda — Rashi identifică locul, citând Iosua 15:9 și 1 Cronici 13:6, drept un alt nume pentru Chiriat-Iearim, unde Chivotul fusese adus și păstrat de la înfrângerea filistenilor (1 Samuel 7:1); cuvântul „baal” aici are, după Rashi, sensul de „câmpie/loc neted”, nu de zeitate."
       },
       {
@@ -62107,11 +62111,13 @@
       {
        "t": "car nou",
        "w": "car nou",
-       "heb": "עֲגָלָה חֲדָשָׁה",
-       "translit": "agala hadașa",
+       "heb": "עֲגָלָה",
+       "translit": "agala",
        "strong": "H5699",
-       "pos": "substantiv + adjectiv, feminin singular",
+       "pos": "substantiv, feminin singular",
        "def_ro": "car nou, căruță nouă.",
+       "greek": "ἅμαξα καινή (hamaxa kaine)",
+       "greek_def_ro": "ἅμαξα καινή (hamaxa kaine) — car nou.",
        "dict_ro": "Agala — greșeala fatală a lui David, spune Rashi, e una pe care „chiar copiii de școală o cunosc”: legea spune explicit că lucrurile sfinte trebuie purtate pe umeri (Numeri 7:9), nu transportate cu carul, oricât de nou. Metoda carului fusese folosită anterior doar de filisteni (1 Samuel 6:7), care nu erau ținuți de Lege — copierea metodei lor păgâne, nu a poruncii mozaice, e sursa reală a tragediei care urmează."
       },
       {
@@ -62158,10 +62164,12 @@
        "t": "înaintea",
        "w": "înaintea",
        "heb": "לִפְנֵי",
-       "translit": "lifnei",
+       "translit": "lifnē",
        "strong": "H6440",
-       "pos": "prepoziție compusă",
+       "pos": "substantiv, masculin și feminin plural construct",
        "def_ro": "înaintea, în fața.",
+       "greek": "ἔμπροσθεν (emprosthen)",
+       "greek_def_ro": "ἔμπροσθεν (emprosthen) — înainte, în fața.",
        "dict_ro": "Lifnei — Metzudat David explică de ce Ahio, nu Uza, e menționat mergând „înaintea Chivotului”: Ahio conducea boii din față, în timp ce Uza mergea alături de Chivot, pe lateral — poziție care explică de ce doar Uza a simțit boii clătinând Chivotul și a întins mâna, în timp ce Ahio, aflat înainte, nu a observat nimic."
       },
       {
@@ -62210,11 +62218,12 @@
       {
        "t": "lemn de chiparos",
        "w": "lemn de chiparos",
-       "heb": "עֲצֵי בְרוֹשִׁים",
-       "translit": "atzei veroșim",
+       "heb": "בְרוֹשִׁים",
+       "translit": "veroșim",
        "strong": "H1265",
-       "pos": "substantiv construct + substantiv, masculin plural",
+       "pos": "substantiv, masculin plural",
        "def_ro": "lemne de chiparos/brad.",
+       "diff_ro": "Septuaginta are aici „ἐν ὀργάνοις ἡρμοσμένοις ἐν ἰσχύϊ\" („cu instrumente bine acordate, cu putere\"), fără mențiunea specifică a lemnului de chiparos — o descriere generică a instrumentelor, nu un detaliu despre materialul lor.",
        "dict_ro": "Beroș — Rashi precizează că expresia nu descrie pădurea prin care treceau, ci materialul din care erau confecționate instrumentele muzicale înșirate imediat după — harpe, lire, tobe, tamburine, talgere — toate lucrate din lemn de chiparos, cunoscut pentru rezonanța lui bună."
       },
       {
@@ -62263,11 +62272,13 @@
       {
        "t": "apucat",
        "w": "apucat",
-       "heb": "וַיֹּאחֶז",
-       "translit": "vayohez",
+       "heb": "וַיֹּאחֶז",
+       "translit": "vaiohez",
        "strong": "H270",
-       "pos": "verb, qal imperfect consecutiv, persoana a III-a",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și l-a prins, l-a apucat.",
+       "greek": "κρατέω (krateo)",
+       "greek_def_ro": "κρατέω (krateo) — a apuca, a ține strâns.",
        "dict_ro": "Ahaz — Metzudat David explică motivul gestului: Uza a crezut că Chivotul e pe cale să cadă din car, din pricina zdruncinării provocate de boi, și a întins mâna instinctiv ca să-l țină — un gest omenește explicabil, dar care presupunea o neîncredere implicită în capacitatea Chivotului de a se apăra singur, sfințenia lui fiind mai presus de nevoia de sprijin fizic omenesc."
       },
       {
@@ -62316,11 +62327,12 @@
       {
        "t": "greșeală",
        "w": "greșeală",
-       "heb": "הַשַּׁל",
+       "heb": "הַשַּׁל",
        "translit": "hașal",
        "strong": "H7944",
-       "pos": "substantiv, masculin singular, cu articol, hapax legomenon",
+       "pos": "substantiv, masculin singular",
        "def_ro": "greșeala, eroarea neintenționată.",
+       "diff_ro": "Septuaginta nu menționează motivul exact („greșeala\") — spune simplu „Dumnezeu l-a lovit acolo\", fără termenul specific pentru vina/greșeala lui Uza.",
        "dict_ro": "Șal — cuvânt extrem de rar (hapax legomenon în această formă), pe care Rashi îl citește ca „șgaga” (greșeală neintenționată, din neștiință) — Uza n-a acționat din răutate, ci dintr-o judecată greșită pe care ar fi trebuit s-o evite printr-un raționament simplu, a fortiori (kal vahomer): dacă cei ce purtau Chivotul pe umeri l-au trecut cu bine prin Iordan fără să-l atingă, cu atât mai puțin era nevoie ca el să-l atingă acum, pe uscat."
       },
       {
@@ -62371,11 +62383,13 @@
       {
        "t": "răbufnirea",
        "w": "răbufnirea",
-       "heb": "פֶּרֶץ",
-       "translit": "peretz",
+       "heb": "פֶּרֶץ",
+       "translit": "pereț",
        "strong": "H6556",
        "pos": "substantiv, masculin singular",
        "def_ro": "spărtura, izbucnirea bruscă.",
+       "greek": "διακοπή (diakope)",
+       "greek_def_ro": "διακοπή (diakope) — spărtură, izbucnire.",
        "dict_ro": "Peretz — literal „spărtură”, imaginea unei bariere care cedează brusc sub presiune; Metzudat David citește „vayihar leDavid” nu ca mânie a lui David împotriva lui Dumnezeu, ci ca o tulburare interioară îndreptată spre sine însuși, în felul în care „vayihar leȘmuel” (1 Samuel 15:11) descrie neliniștea lui Samuel, nu furia lui — David e zguduit și îngrozit, nu supărat pe DOMNUL."
       },
       {
@@ -62421,10 +62435,12 @@
        "t": "vină",
        "w": "vină",
        "heb": "יָבוֹא",
-       "translit": "yavo",
+       "translit": "iavo",
        "strong": "H935",
-       "pos": "verb, qal imperfect, persoana a III-a",
+       "pos": "verb, qal imperfect",
        "def_ro": "să vină, să intre.",
+       "greek": "εἰσέρχομαι (eiserchomai)",
+       "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a veni, a intra.",
        "dict_ro": "Bo — Metzudat David explică teama lui David nu ca o îndoială privind valoarea Chivotului, ci ca o conștientizare bruscă a riscului practic al sfințeniei sale: dacă un act aparent minor precum atingerea Chivotului a adus moarte instantanee, David se întreabă legitim cum ar putea asigura o găzduire corespunzătoare, fără riscul unei noi greșeli fatale — aceeași teamă structurală ce apare la filisteni în 1 Samuel 6:20."
       },
       {
@@ -62470,11 +62486,12 @@
       {
        "t": "Oved-Edom, ghititul",
        "w": "Oved-Edom, ghititul",
-       "heb": "עֹבֵד־אֱדוֹם הַגִּתִּי",
-       "translit": "Oved-Edom hagiti",
+       "heb": "עֹבֵד אֱדוֹם",
+       "translit": "ovēd edom",
        "strong": "H5654",
-       "pos": "substantiv propriu + adjectiv gentilic, cu articol",
+       "pos": "nume propriu + nume propriu",
        "def_ro": "Oved-Edom din Gat.",
+       "diff_ro": "Septuaginta transliterează acest nume „Ἀβεδδαρά\" („Abeddara\"), o formă destul de diferită de „Oved-Edom\" din ebraică — posibil o variantă textuală veche a numelui.",
        "dict_ro": "Ha-Ghiti — epitetul „ghititul” (din Gat) ar sugera o origine filisteană, dar Rashi, citând 1 Cronici 15:18, îl identifică drept levit, unul dintre portarii sanctuarului — probabil numit „ghitit” după un oraș levitic cu acest nume sau după o perioadă petrecută acolo, nu după etnie. Alegerea unei case levite, nu oricare, pentru a găzdui Chivotul, sugerează că David, chiar înspăimântat, a rămas atent la rânduiala corectă."
       },
       {
@@ -62528,10 +62545,12 @@
        "t": "binecuvântat",
        "w": "binecuvântat",
        "heb": "וַיְבָרֶךְ",
-       "translit": "vayvarech",
+       "translit": "vaivareh",
        "strong": "H1288",
-       "pos": "verb, piel imperfect consecutiv, persoana a III-a",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "și a binecuvântat.",
+       "greek": "εὐλογέω (eulogeo)",
+       "greek_def_ro": "εὐλογέω (eulogeo) — a binecuvânta.",
        "dict_ro": "Barach — Rashi citează o tradiție (bazată pe 1 Cronici 26:5, unde Oved-Edom e numit „al optulea” între cei binecuvântați cu mulți fii) potrivit căreia soția lui Oved-Edom și cele opt nurori ale sale au născut fiecare câte șase fii dintr-o singură sarcină, în cele trei luni — o binecuvântare literalizată, fizică, ca răspuns direct la primirea cu credință a aceluiași Chivot care adusese moarte în casa lui Uza."
       },
       {
@@ -62578,11 +62597,13 @@
       {
        "t": "bucurie",
        "w": "bucurie",
-       "heb": "בְּשִׂמְחָה",
+       "heb": "בְּשִׂמְחָה",
        "translit": "besimha",
        "strong": "H8057",
        "pos": "substantiv, feminin singular",
        "def_ro": "cu bucurie, cu veselie.",
+       "greek": "εὐφροσύνη (euphrosyne)",
+       "greek_def_ro": "εὐφροσύνη (euphrosyne) — bucurie, veselie.",
        "dict_ro": "Simha — Metzudat David identifică sursa concretă a bucuriei lui David: vestea binecuvântării revărsate asupra casei lui Oved-Edom l-a asigurat pe David că, de această dată, Chivotul poate fi mutat fără primejdie — bucuria nu e doar emoție religioasă generică, ci ușurarea practică a unui om care abia acum se simte liber să corecteze greșeala din urmă cu trei luni."
       },
       {
@@ -62629,12 +62650,12 @@
       {
        "t": "șase pași",
        "w": "șase pași",
-       "heb": "שִׁשָּׁה צְעָדִים",
-       "translit": "șișa tzeadim",
+       "heb": "שִׁשָּׁה צְעָדִים",
+       "translit": "șișa țeadim",
        "strong": "H6806",
        "pos": "numeral + substantiv, masculin plural",
        "def_ro": "șase pași.",
-       "dict_ro": "Tzaad — Metzudat David precizează că jertfele erau aduse după fiecare grup de șase pași, adică repetat, de-a lungul întregii procesiuni, nu o singură dată — subliniind atât proporția impresionantă a jertfelor aduse la această a doua, reușită, încercare de urcare a Chivotului, cât și grija scrupuloasă de a marca fiecare etapă a drumului cu recunoștință."
+       "dict_ro": "Una dintre cele mai mari divergențe din acest capitol: Septuaginta nu are deloc imaginea „la fiecare șase pași\" — în loc de asta, spune că „erau cu el, ducând Chivotul, șapte cete/coruri\" (ἑπτὰ χοροὶ), o imagine complet diferită, legată probabil de o lectură alternativă a termenului ebraic pentru „pași\". Și jertfele diferă: „un vițel și miei\" (plural), nu „un taur și un taur îngrășat\" ca în ebraică."
       },
       {
        "t": " pe care îi făceau purtătorii Chivotului DOMNULUI, el jertfea un taur și un taur îngrășat."
@@ -62682,11 +62703,12 @@
       {
        "t": "tunică de in",
        "w": "tunică de in",
-       "heb": "אֵפוֹד בָּד",
-       "translit": "efod bad",
+       "heb": "אֵפוֹד",
+       "translit": "ēfod",
        "strong": "H646",
-       "pos": "substantiv construct + substantiv",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "efod de in, veșmânt simplu de in.",
+       "diff_ro": "Septuaginta are aici „στολὴν ἔξαλλον\" („o robă neobișnuită/stranie\"), nu termenul tehnic „efod de in\" ca în ebraică — o descriere vagă, fără detaliul despre material sau despre tipul specific de veșmânt preoțesc.",
        "dict_ro": "Efod bad — nu efodul bogat, împodobit cu pietre prețioase, al marelui preot, ci un veșmânt simplu de in, purtat de cei consacrați slujirii DOMNULUI într-un mod smerit — aceeași expresie exactă descrie veșmântul tânărului Samuel (1 Samuel 2:18). Metzudat David notează că David, deși rege, s-a îmbrăcat pentru acest moment nu în straie regale, ci în haina simplă a unui slujitor devotat."
       },
       {
@@ -62737,11 +62759,13 @@
       {
        "t": "glas vesel și puternic",
        "w": "glas vesel și puternic",
-       "heb": "בִּתְרוּעָה",
+       "heb": "בִּתְרוּעָה",
        "translit": "bitrua",
        "strong": "H8643",
-       "pos": "substantiv, feminin singular, cu prefix",
+       "pos": "substantiv, feminin singular",
        "def_ro": "cu strigăt, cu sunet de veselie.",
+       "greek": "κραυγή (krauge)",
+       "greek_def_ro": "κραυγή (krauge) — strigăt, chemare puternică.",
        "dict_ro": "Terua — termen tehnic care desemnează atât strigătul uman de bucurie/luptă, cât și sunetul specific al trâmbiței (aceeași rădăcină din „Yom Terua”, numele biblic al Roș Hașana); asocierea directă cu „kol șofar” (sunetul cornului) în același verset arată o procesiune completă senzorial — voci umane și instrumente muzicale unite într-un singur act public de bucurie."
       },
       {
@@ -62789,11 +62813,13 @@
       {
        "t": "disprețuit",
        "w": "disprețuit",
-       "heb": "וַתִּבֶז",
+       "heb": "וַתִּבֶז",
        "translit": "vativez",
        "strong": "H959",
-       "pos": "verb, qal imperfect consecutiv, persoana a III-a feminin",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și l-a disprețuit.",
+       "greek": "ἐξουδενόω (exoudenoo)",
+       "greek_def_ro": "ἐξουδενόω (exoudenoo) — a disprețui, a nesocoti.",
        "dict_ro": "Baza — Metzudat David citește disprețul Mihalei nu ca o reacție morală, ci ca o judecată de etichetă regală: ea a considerat dansul public al lui David nepotrivit pentru un rege, mai ales „chiar înaintea Chivotului”, adică într-un context solemn unde s-ar fi așteptat o demnitate rezervată, nu o exprimare corporală atât de dezinhibată — o neînțelegere fundamentală a naturii adevăratei smerenii regale."
       },
       {
@@ -62841,11 +62867,13 @@
       {
        "t": "locul lui",
        "w": "locul lui",
-       "heb": "בִּמְקוֹמוֹ",
+       "heb": "בִּמְקוֹמוֹ",
        "translit": "bimkomo",
        "strong": "H4725",
-       "pos": "substantiv, masculin singular + sufix",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "la locul lui.",
+       "greek": "τόπος αὐτῆς (topos autes)",
+       "greek_def_ro": "τόπος αὐτῆς (topos autes) — locul lui/ei.",
        "dict_ro": "Makom — Metzudat David precizează că „locul lui” desemnează poziția special pregătită dinainte de David, în interiorul cortului pe care el însuși îl ridicase în acest scop — nu un cort improvizat pe loc, ci o structură pregătită anticipat, semn al planificării serioase din partea lui David pentru primirea permanentă a Chivotului la Ierusalim."
       },
       {
@@ -62895,11 +62923,13 @@
        "t": "binecuvântat",
        "w": "binecuvântat",
        "heb": "וַיְבָרֶךְ",
-       "translit": "vayvarech",
+       "translit": "vaivareh",
        "strong": "H1288",
-       "pos": "verb, piel imperfect consecutiv, persoana a III-a",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "și a binecuvântat.",
-       "dict_ro": "Barach — deși binecuvântarea poporului era în mod tradițional prerogativa preoților (Levitic 9:22-23) sau, ocazional, a figurilor regal-preoțești precum Melhisedec (Geneza 14:19), David, ca rege, binecuvântează poporul „în Numele DOMNULUI Oștirilor” — o formulă care subliniază că binecuvântarea nu vine din autoritatea lui personală, ci e rostită explicit ca reprezentant al lui Dumnezeu, într-un moment de bucurie liturgică excepțională."
+       "greek": "εὐλογέω (eulogeo)",
+       "greek_def_ro": "εὐλογέω (eulogeo) — a binecuvânta.",
+       "dict_ro": "Barach — deși binecuvântarea poporului era în mod tradițional prerogativa preoților (Leviticul 9:22-23) sau, ocazional, a figurilor regal-preoțești precum Melhisedec (Geneza 14:19), David, ca rege, binecuvântează poporul „în Numele DOMNULUI Oștirilor” — o formulă care subliniază că binecuvântarea nu vine din autoritatea lui personală, ci e rostită explicit ca reprezentant al lui Dumnezeu, într-un moment de bucurie liturgică excepțională."
       },
       {
        "t": " poporul cu numele DOMNULUI Oștirilor."
@@ -62947,11 +62977,14 @@
       {
        "t": "așișa",
        "w": "așișa",
-       "heb": "אֲשִׁישָׁה",
-       "translit": "așișa",
+       "heb": "וַאֲשִׁישָׁה",
+       "translit": "vaașișa",
        "strong": "H809",
        "pos": "substantiv, feminin singular",
        "def_ro": "turtă cu stafide sau ulcior de vin.",
+       "greek": "λάγανον (laganon)",
+       "greek_def_ro": "λάγανον (laganon) — turtă, clătită (coaptă în tigaie).",
+       "diff_ro": "Septuaginta descrie acest aliment ca „turtă coaptă în tigaie\" (λάγανον ἀπὸ τηγάνου), o imagine culinară diferită de „turta cu stafide\" tradițională din ebraică.",
        "dict_ro": "Așișa — cuvânt cu sens disputat; Rashi, urmând Talmudul (Pesahim 36b), identifică „eșpar” drept a șasea parte dintr-un taur (o porție de carne standardizată), iar „așișa” drept un urcior/butoiaș de vin — interpretare tradițională păstrată în paralel cu varianta „turtă cu stafide”, mai des întâlnită în traducerile moderne bazate pe context (cf. Osea 3:1, unde termenul apare în context clar culinar)."
       },
       {
