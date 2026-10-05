@@ -59175,11 +59175,14 @@
       {
        "t": "făurit",
        "w": "făurit",
-       "heb": "יָצַרְתִּי",
-       "translit": "iatzarti",
+       "heb": "יָצַרְתִּי",
+       "translit": "iațarti",
        "strong": "H3335",
-       "pos": "verb, qal perfect, persoana I singular",
+       "pos": "verb, qal perfect",
        "def_ro": "am format, am modelat.",
+       "greek": "περιποιέω (peripoieo)",
+       "greek_def_ro": "περιποιέω (peripoieo) — a dobândi, a-și însuși (pentru sine).",
+       "diff_ro": "Septuaginta are nuanța de „a-mi însuși/dobândi\", nu strict „a făuri/modela\" (iatsar) ca în ebraică.",
        "dict_ro": "Iatzar — același verb folosit la Geneza 2:7 pentru formarea omului din țărână, ca un olar care modelează lutul. Folosindu-l aici pentru poporul Israel, Isaia leagă alegerea lui Israel de actul Creației înseși — Israel nu e doar ales, ci „modelat” cu aceeași grijă intenționată cu care a fost modelat Adam."
       },
       {
@@ -59232,11 +59235,13 @@
       {
        "t": "obosit",
        "w": "obosit",
-       "heb": "יָגַעְתָּ",
+       "heb": "יָגַעְתָּ",
        "translit": "iagata",
        "strong": "H3021",
-       "pos": "verb, qal perfect, persoana a II-a singular",
+       "pos": "verb, qal perfect",
        "def_ro": "te-ai ostenit, te-ai plictisit.",
+       "greek": "κοπιάω (kopiao)",
+       "greek_def_ro": "κοπιάω (kopiao) — a se obosi, a trudi.",
        "dict_ro": "Iaga — verbul denotă oboseală fizică din muncă istovitoare, aplicat aici metaforic la relația cu DOMNUL: nu e vorba de o povară obiectivă (v.23 arată că cerințele rituale erau minime), ci de o oboseală subiectivă, o lehamite spirituală a poporului față de închinare."
       },
       {
@@ -59294,6 +59299,8 @@
        "strong": "H5930",
        "pos": "substantiv, feminin plural construct + sufix",
        "def_ro": "arderile tale de tot.",
+       "greek": "ὁλοκάρπωσις (holokarposis)",
+       "greek_def_ro": "ὁλοκάρπωσις (holokarposis) — ardere-de-tot.",
        "dict_ro": "Ola — jertfa mistuită integral pe altar, fără nicio parte lăsată închinătorului, simbol al dăruirii totale. Faptul că DOMNUL notează absența ei nu ca acuzație de neglijență rituală, ci ca argument („nu te-am împovărat”), inversează logica obișnuită a rechizitoriilor profetice: aici lipsa jertfei arată tocmai cât de puțin a cerut DOMNUL, nu cât de mult a lipsit poporul."
       },
       {
@@ -59345,11 +59352,12 @@
       {
        "t": "împovărat",
        "w": "împovărat",
-       "heb": "הֶעֱבַדְתַּנִי",
+       "heb": "הֶעֱבַדְתַּנִי",
        "translit": "heevadtani",
        "strong": "H5647",
-       "pos": "verb, hifil perfect, persoana a II-a + sufix",
+       "pos": "verb, hifil perfect + sufix",
        "def_ro": "m-ai pus să slujesc, m-ai făcut rob.",
+       "diff_ro": "Septuaginta are aici „προέστην σου\" („am stat în fața ta, te-am condus\"), nu „M-ai împovărat/M-ai făcut să slujesc\" (heevadtani) ca în ebraică — o imagine destul de diferită, mai degrabă de autoritate decât de servitute impusă.",
        "dict_ro": "Avad la forma hifil — „m-ai făcut să slujesc/muncesc”, aceeași rădăcină din care vine „eved” (rob) și „avoda” (slujire, inclusiv slujirea rituală din Templu). Ironia versetului stă în inversarea rolurilor: poporul n-a fost pus să „slujească” prin jertfe grele, dar L-a pus pe DOMNUL Însuși să „slujească”, purtând povara păcatelor lor — o imagine șocantă, pe care Rashi o leagă explicit de exil."
       },
       {
@@ -59400,8 +59408,10 @@
        "heb": "מֹחֶה",
        "translit": "mohe",
        "strong": "H4229",
-       "pos": "verb, qal participiu, masculin singular",
+       "pos": "verb, qal participiu",
        "def_ro": "cel care șterge, cel care curăță.",
+       "greek": "ἐξαλείφω (exaleipho)",
+       "greek_def_ro": "ἐξαλείφω (exaleipho) — a șterge, a nimici cu totul.",
        "dict_ro": "Mahah — imaginea e a ștergerii unui text scris (aceeași rădăcină e folosită pentru ștergerea numelui divin în ritualul soției bănuite de infidelitate, Numeri 5:23) — păcatul e conceput ca o înscriere care poate fi complet îndepărtată, nu doar acoperită. Dubla repetiție „Anochi anochi” (Eu, Eu) subliniază că numai DOMNUL, nimeni altcineva, are autoritatea de a ierta astfel."
       },
       {
@@ -59454,11 +59464,13 @@
       {
        "t": "judecăm",
        "w": "judecăm",
-       "heb": "נִשָּׁפְטָה",
+       "heb": "נִשָּׁפְטָה",
        "translit": "nișafta",
        "strong": "H8199",
-       "pos": "verb, nifal cohortativ, persoana I plural",
+       "pos": "verb, nifal cohortativ",
        "def_ro": "să ne judecăm, să intrăm la judecată.",
+       "greek": "κρίνομαι (krinomai)",
+       "greek_def_ro": "κρίνομαι (krinomai) — a ne judeca.",
        "dict_ro": "Șafat la forma nifal cohortativă evocă limbajul juridic al unui proces (rîv) — DOMNUL invită poporul la o dezbatere de tribunal, în care fiecare parte își prezintă argumentele. E o formulă retorică frecventă la profeți (cf. Isaia 1:18, Mica 6:1-2), care nu presupune o judecată reală egală, ci ironizează pretenția omului de a avea vreo apărare valabilă în fața lui Dumnezeu."
       },
       {
@@ -59510,11 +59522,12 @@
       {
        "t": "avocații",
        "w": "avocații",
-       "heb": "מְלִיצֶיךָ",
-       "translit": "melitzeha",
+       "heb": "וּמְלִיצֶיךָ",
+       "translit": "umlițeha",
        "strong": "H3887",
-       "pos": "substantiv, masculin plural construct + sufix",
+       "pos": "verb, hifil participiu + sufix",
        "def_ro": "interpreții tăi, mijlocitorii tăi.",
+       "diff_ro": "Septuaginta are „οἱ ἄρχοντες ὑμῶν\" („conducătorii voștri\"), nu „avocații/mijlocitorii tăi\" (melitzeha) ca în ebraică — un termen diferit pentru acest grup acuzat de trădare.",
        "dict_ro": "Melitz — de la rădăcina „lutz”, cel care mijlocește sau interpretează, aici cu sensul de purtător de cuvânt sau apărător — un termen aplicat de tradiție preoților și profeților care ar fi trebuit să pledeze cauza poporului, dar care, în schimb, s-au făcut ei înșiși vinovați de răzvrătire."
       },
       {
@@ -59566,11 +59579,13 @@
       {
        "t": "pângărit",
        "w": "pângărit",
-       "heb": "וַאֲחַלֵּל",
-       "translit": "vaahalel",
+       "heb": "וַאֲחַלֵּל",
+       "translit": "vaahalēl",
        "strong": "H2490",
-       "pos": "verb, piel imperfect consecutiv, persoana I singular",
+       "pos": "verb, piel imperfect",
        "def_ro": "și am profanat, am spurcat.",
+       "greek": "μιαίνω (miaino)",
+       "greek_def_ro": "μιαίνω (miaino) — a pângări, a spurca.",
        "dict_ro": "Halal la forma piel — „a profana”, opusul lui „kadeș” (a sfinți); folosit aici pentru „sarei kodeș” (conducătorii sfințeniei/Sanctuarului), sugerează degradarea publică a rangului preoțesc/conducător ca pedeapsă directă pentru păcatele descrise anterior — cei puși să păzească sfințenia devin ei înșiși dezonorați."
       },
       {
@@ -59622,12 +59637,14 @@
       {
        "t": "slujitorul",
        "w": "slujitorul",
-       "heb": "עַבְדִּי",
+       "heb": "עַבְדִּי",
        "translit": "avdi",
        "strong": "H5650",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "slujitorul Meu, robul Meu.",
-       "dict_ro": "Eved — titlul „robul/slujitorul DOMNULUI” aplicat lui Israel revine ca un laitmotiv structural în Isaia 40-53 (cf. 41:8, 44:21, 49:3), desemnând nu înjosire, ci o relație de apartenență privilegiată și de misiune — la fel cum Moise e numit „robul DOMNULUI” (Deuteronom 34:5) ca titlu de onoare, nu de subordonare degradantă."
+       "greek": "παῖς (pais)",
+       "greek_def_ro": "παῖς (pais) — slujitor, servitor.",
+       "dict_ro": "Eved — titlul „robul/slujitorul DOMNULUI” aplicat lui Israel revine ca un laitmotiv structural în Isaia 40-53 (cf. 41:8, 44:21, 49:3), desemnând nu înjosire, ci o relație de apartenență privilegiată și de misiune — la fel cum Moise e numit „robul DOMNULUI” (Deuteronomul 34:5) ca titlu de onoare, nu de subordonare degradantă."
       },
       {
        "t": " Meu, și Israele, pe care l-am ales!"
@@ -59674,12 +59691,13 @@
       {
        "t": "Ieșurun",
        "w": "Ieșurun",
-       "heb": "יְשֻׁרוּן",
-       "translit": "Ieșurun",
+       "heb": "וִישֻׁרוּן",
+       "translit": "vișurun",
        "strong": "H3484",
-       "pos": "substantiv propriu, nume simbolic",
+       "pos": "nume propriu",
        "def_ro": "cel drept, poreclă poetică pentru Israel.",
-       "dict_ro": "Ieșurun — de la rădăcina „iașar” (drept), un nume de alint/idealizat pentru Israel, folosit doar de patru ori în toată Scriptura (aici, Deuteronom 32:15, 33:5, 33:26) — desemnând poporul nu așa cum e de fapt, mereu răzvrătit, ci așa cum ar trebui să fie sau va ajunge să fie, drept și integru, într-un contrast voit cu numele „Iacov”, care evocă înșelăciunea de la naștere (Geneza 25:26)."
+       "diff_ro": "Septuaginta nu transliterează acest nume simbolic, ci îl redă „ἠγαπημένος Ἰσραήλ\" („Israel cel iubit\") — o traducere interpretativă a sensului numelui „Ieșurun\" (legat de rădăcina „drept/cinstit\"), nu o transliterare.",
+       "dict_ro": "Ieșurun — de la rădăcina „iașar” (drept), un nume de alint/idealizat pentru Israel, folosit doar de patru ori în toată Scriptura (aici, Deuteronomul 32:15, 33:5, 33:26) — desemnând poporul nu așa cum e de fapt, mereu răzvrătit, ci așa cum ar trebui să fie sau va ajunge să fie, drept și integru, într-un contrast voit cu numele „Iacov”, care evocă înșelăciunea de la naștere (Geneza 25:26)."
       },
       {
        "t": " pe care l-am ales."
@@ -59730,8 +59748,10 @@
        "heb": "רוּחִי",
        "translit": "ruhi",
        "strong": "H7307",
-       "pos": "substantiv, feminin singular + sufix",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "duhul Meu, suflarea Mea.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh, suflare.",
        "dict_ro": "Ruah — același cuvânt pentru „duh/suflare/vânt”, folosit aici într-o revărsare care depășește darul obișnuit al profeției individuale, promițând o efuziune generalizată peste toată „sămânța” poporului — tradiția rabinică (și, separat, cea creștină prin Faptele apostolilor 2, care citează exact acest tip de pasaj din Ioel 3:1) citește acest verset ca profeție a unei transformări spirituale colective, nu doar a câtorva aleși."
       },
       {
@@ -59780,11 +59800,13 @@
       {
        "t": "sălciile",
        "w": "sălciile",
-       "heb": "כַּעֲרָבִים",
+       "heb": "כַּעֲרָבִים",
        "translit": "kaaravim",
        "strong": "H6155",
-       "pos": "substantiv, masculin plural, cu prefix comparativ",
+       "pos": "substantiv, feminin plural",
        "def_ro": "ca sălciile, ca plopii de baltă.",
+       "greek": "ἰτέα (itea)",
+       "greek_def_ro": "ἰτέα (itea) — salcie.",
        "dict_ro": "Aravim — sălciile de apă, aceeași plantă din care se face una dintre cele patru specii ale Sucotului (lulav). Metzudat David citește „iarba” (hatzir) din prima parte a versetului ca aluzie la Amalec, cel mai slab și disprețuit dușman al lui Israel (cf. Isaia 34:13, unde „hatzir” denotă pustiirea locurilor lui Amalec), sugerând că mulțimea urmașilor lui Israel va crește chiar din mijlocul celor mai neașteptate origini — prin convertiți."
       },
       {
@@ -59836,11 +59858,13 @@
       {
        "t": "iscăli",
        "w": "iscăli",
-       "heb": "יִכְתֹּב יָדוֹ",
-       "translit": "yichtov yado",
+       "heb": "יִכְתֹּב",
+       "translit": "ihtov",
        "strong": "H3789",
-       "pos": "verb + substantiv, „va scrie mâna lui”",
+       "pos": "verb, qal imperfect",
        "def_ro": "va scrie cu mâna lui, își va semna angajamentul.",
+       "greek": "ἐπιγράφω (epigrapho)",
+       "greek_def_ro": "ἐπιγράφω (epigrapho) — a scrie, a semna.",
        "dict_ro": "Katav yado — literal „își va scrie mâna”, o expresie idiomatică pentru un angajament formal, în scris, asumat personal — imaginea unui legământ pus pe hârtie și semnat, precum legământul scris și pecetluit al lui Neemia (Neemia 9:38, 10:1). Midrașul citat de Rashi (Avot deRabi Natan 36) identifică patru categorii de oameni în acest verset: drepți desăvârșiți, copii ai celor răi care se îndreaptă, penitenți și prozeliți."
       },
       {
@@ -59887,11 +59911,13 @@
       {
        "t": "Mântuitorul",
        "w": "Mântuitorul",
-       "heb": "גֹאֲלוֹ",
-       "translit": "goalo",
+       "heb": "וְגֹאֲלוֹ",
+       "translit": "vegoalo",
        "strong": "H1350",
-       "pos": "substantiv, masculin singular participiu + sufix",
+       "pos": "verb, qal participiu + sufix",
        "def_ro": "răscumpărătorul lui, cel care îl eliberează.",
+       "greek": "ῥύομαι (rhyomai)",
+       "greek_def_ro": "ῥύομαι (rhyomai) — a elibera, a izbăvi.",
        "dict_ro": "Goel — termen din dreptul familial israelit, desemnând ruda cea mai apropiată cu obligația de a răscumpăra o proprietate pierdută, a elibera o rudă din robie sau a răzbuna sângele vărsat (cf. cartea lui Rut). Aplicat lui Dumnezeu, titlul „Goel” transformă relația legământului într-una de rudenie apropiată și obligație personală, nu doar de suveranitate distantă."
       },
       {
@@ -59945,11 +59971,13 @@
        "t": "ce miracole",
        "w": "ce miracole",
        "heb": "וְאֹתִיּוֹת",
-       "translit": "veotiyot",
+       "translit": "veotiot",
        "strong": "H226",
-       "pos": "substantiv, feminin plural",
+       "pos": "verb, qal participiu",
        "def_ro": "și semnele, și minunile.",
-       "dict_ro": "Ot (plural otiyot) — „semn”, cuvântul folosit și pentru minunile din Egipt (Exod 4:8-9) sau pentru semnele cerești (Geneza 1:14); Rashi îl citește aici ca „cuvinte de minune”, adică profeții care se vor confirma prin împlinire — capacitatea unică a lui Dumnezeu de a vesti dinainte evenimente ca eliberarea prin Cirus, la o vreme când nici Templul nu era distrus, nici exilul nu începuse, nici Cirus nu se născuse."
+       "greek": "τὰ ἐπερχόμενα (ta eperchomena)",
+       "greek_def_ro": "τὰ ἐπερχόμενα (ta eperchomena) — cele ce vor veni, semnele viitoare.",
+       "dict_ro": "Ot (plural otiyot) — „semn”, cuvântul folosit și pentru minunile din Egipt (Exodul 4:8-9) sau pentru semnele cerești (Geneza 1:14); Rashi îl citește aici ca „cuvinte de minune”, adică profeții care se vor confirma prin împlinire — capacitatea unică a lui Dumnezeu de a vesti dinainte evenimente ca eliberarea prin Cirus, la o vreme când nici Templul nu era distrus, nici exilul nu începuse, nici Cirus nu se născuse."
       },
       {
        "t": " se vor mai întâmpla!"
@@ -59998,10 +60026,12 @@
        "t": "martori",
        "w": "martori",
        "heb": "עֵדָי",
-       "translit": "edai",
+       "translit": "ēdai",
        "strong": "H5707",
-       "pos": "substantiv, masculin plural + sufix",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "martorii Mei.",
+       "greek": "μάρτυς (martys)",
+       "greek_def_ro": "μάρτυς (martys) — martor.",
        "dict_ro": "Ed (plural edim/edai) — termen juridic pentru martorul dintr-un proces; Israel e chemat aici, la fel ca la Isaia 43:10,12, să depună mărturie despre unicitatea lui Dumnezeu, nu pe baza unei speculații filosofice, ci a experienței istorice directe — Rashi leagă acest rol de revelația de la Sinai, unde șapte ceruri s-au deschis ca dovadă vizibilă."
       },
       {
@@ -60058,7 +60088,8 @@
        "strong": "H6459",
        "pos": "substantiv, masculin singular",
        "def_ro": "chip cioplit, idol.",
-       "dict_ro": "Pesel — de la rădăcina „pasal” (a ciopli), desemnând orice imagine sculptată folosită ca obiect de cult, interzisă explicit în a doua poruncă (Exod 20:4). Faptul că „mărturisesc despre ei înșiși” (edeihem hema) joacă ironic pe tema martorului din v.8 — idolii, martori muți și orbi ai propriei lor neputințe, contrastează direct cu Israel, martor viu al unui Dumnezeu care vede și cunoaște."
+       "diff_ro": "Septuaginta descrie aici făuritorii generic („cei care modelează și sculptează\"), fără un substantiv separat corespunzător exact lui „idoli\" (pesel) — accentul cade pe acțiune, nu pe obiect.",
+       "dict_ro": "Pesel — de la rădăcina „pasal” (a ciopli), desemnând orice imagine sculptată folosită ca obiect de cult, interzisă explicit în a doua poruncă (Exodul 20:4). Faptul că „mărturisesc despre ei înșiși” (edeihem hema) joacă ironic pe tema martorului din v.8 — idolii, martori muți și orbi ai propriei lor neputințe, contrastează direct cu Israel, martor viu al unui Dumnezeu care vede și cunoaște."
       },
       {
        "t": " sunt cu toții pustii, iar lucrurile dragi lor nu sunt de niciun folos; ei mărturisesc despre ei înșiși, nu văd și nu cunosc, iar cei care îi venerează vor fi rușinați."
@@ -60106,10 +60137,13 @@
        "t": "turnat",
        "w": "turnat",
        "heb": "נָסָךְ",
-       "translit": "nasach",
+       "translit": "nasah",
        "strong": "H5257",
-       "pos": "verb, qal participiu pasiv, masculin singular",
+       "pos": "verb, qal perfect",
        "def_ro": "turnat, vărsat în tipar.",
+       "greek": "γλύφω (glypho)",
+       "greek_def_ro": "γλύφω (glypho) — a sculpta, a ciopli.",
+       "diff_ro": "Septuaginta folosește aici verbul general „a sculpta\" (γλύφοντες), nu un termen specific pentru „a turna\" (nasah) ca în ebraică.",
        "dict_ro": "Nasach — de la rădăcina care înseamnă și „a turna” (metal topit) și „a vărsa” (o libație de vin), cu litera nun a rădăcinii care de fapt dispare la anumite forme flexionare (aceeași categorie ca „nașach” — a mușca sau „nagaf” — a lovi), o observație gramaticală pe care Rashi o notează explicit — idolul turnat era realizat prin vărsarea metalului topit într-un tipar."
       },
       {
@@ -60162,11 +60196,12 @@
       {
        "t": "făuritorii",
        "w": "făuritorii",
-       "heb": "וְחָרָשִׁים",
+       "heb": "וְחָרָשִׁים",
        "translit": "veharașim",
        "strong": "H2796",
        "pos": "substantiv, masculin plural",
        "def_ro": "meșterii, artizanii.",
+       "diff_ro": "Septuaginta are aici „κωφοὶ\" („surzi/muți\"), nu „făuritorii\" (harașim, meșteșugari) ca în ebraică — probabil o confuzie veche între rădăcinile omografe „harash\" (meșteșugar) și „cheresh\" (surd), identice fără vocalizare în ebraica scrisă.",
        "dict_ro": "Harash — termen general pentru orice meșteșugar (fierar, tâmplar, sculptor), aici cu accent polemic: cei care fac idolii „sunt doar oameni” (meadam), muritori limitați, deci incapabili prin definiție să confere putere divină obiectului pe care îl modelează — argumentul central al întregii polemici din capitol."
       },
       {
@@ -60213,11 +60248,14 @@
       {
        "t": "fierar",
        "w": "fierar",
-       "heb": "חָרַשׁ בַּרְזֶל",
-       "translit": "haraș barzel",
+       "heb": "חָרַשׁ",
+       "translit": "haraș",
        "strong": "H2796",
-       "pos": "substantiv construct + substantiv",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "meșter în fier, fierar.",
+       "greek": "τέκτων (tekton)",
+       "greek_def_ro": "τέκτων (tekton) — meșteșugar, lucrător (în general).",
+       "diff_ro": "Septuaginta folosește un termen general pentru „meșteșugar\" (τέκτων), nu unul specific pentru lucrătorul în fier ca în ebraică.",
        "dict_ro": "Harash barzel — „meșterul fierului”, literalmente. Metzudat David subliniază ironia detaliului final: meșterul care modelează „dumnezeul” devine el însuși, în timpul lucrului, slab, înfometat și vlăguit — cel care are nevoie de hrană și apă ca să supraviețuiască pretinde să dea naștere unei ființe pretins atotputernice."
       },
       {
@@ -60269,11 +60307,13 @@
       {
        "t": "splendoarea",
        "w": "splendoarea",
-       "heb": "תִפְאֶרֶת",
-       "translit": "tiferet",
+       "heb": "כְּתִפְאֶרֶת",
+       "translit": "ketiferet",
        "strong": "H8597",
        "pos": "substantiv, feminin singular construct",
        "def_ro": "podoaba, frumusețea, splendoarea.",
+       "greek": "ὡραιότης (horaiotes)",
+       "greek_def_ro": "ὡραιότης (horaiotes) — frumusețe, splendoare.",
        "dict_ro": "Tiferet — Metzudat David citește aici „tiferet adam” (splendoarea omului) ca referire la femeie — „ea este podoaba bărbatului ei” — meșterul dând idolului forma cea mai frumoasă cunoscută lui, aceea a chipului omenesc idealizat, ca să fie potrivit de stat în casă."
       },
       {
@@ -60329,8 +60369,9 @@
        "heb": "נָטַע",
        "translit": "nata",
        "strong": "H5193",
-       "pos": "verb, qal perfect, persoana a III-a singular",
+       "pos": "verb, qal perfect",
        "def_ro": "a sădit, a plantat.",
+       "diff_ro": "Septuaginta comprimă mult acest verset și, surprinzător, atribuie plantarea Domnului („ὃ ἐφύτευσε Κύριος\"), nu idolatrului care își taie lemnul, ca în ebraică — probabil o lectură diferită a subiectului gramatical.",
        "dict_ro": "Nata — Metzudat David observă aici o ironie suplimentară, dincolo de tăierea copacilor deja crescuți: unii meșteri merg mai departe și plantează chiar ei un pui de pin anume pentru acest scop, așteptând ani de zile să crească — o investiție de efort și timp cu atât mai absurdă, dată fiind ținta finală."
       },
       {
@@ -60382,10 +60423,12 @@
        "t": "dumnezeu",
        "w": "dumnezeu",
        "heb": "אֵל",
-       "translit": "el",
+       "translit": "ēl",
        "strong": "H410",
        "pos": "substantiv, masculin singular",
        "def_ro": "dumnezeu, ființă divină.",
+       "greek": "θεός (theos)",
+       "greek_def_ro": "θεός (theos) — dumnezeu (zeu).",
        "dict_ro": "El — cel mai general termen semitic pentru „dumnezeu/zeitate”, aici folosit ironic pentru un obiect din același lemn cu care omul tocmai și-a copt pâinea — Isaia insistă asupra identității materiale totale între combustibilul banal și obiectul de cult, distrugând orice pretenție de sacralitate intrinsecă a materiei."
       },
       {
@@ -60439,8 +60482,10 @@
        "heb": "חַמּוֹתִי",
        "translit": "hamoti",
        "strong": "H2552",
-       "pos": "verb, qal perfect, persoana I singular",
+       "pos": "verb, qal perfect",
        "def_ro": "m-am încălzit.",
+       "greek": "θερμαίνομαι (thermainomai)",
+       "greek_def_ro": "θερμαίνομαι (thermainomai) — a se încălzi.",
        "dict_ro": "Ham — verb comun, banal, descriind pur și simplu senzația fizică de căldură lângă foc; forța retorică a versetului stă tocmai în banalitatea absolută a exclamației — omul rostește aceleași cuvinte simple, satisfăcute, indiferent dacă lemnul care arde e destinat gătitului sau, în versetul următor, dacă restul aceluiași lemn devine „dumnezeul” lui."
       },
       {
@@ -60482,11 +60527,13 @@
       {
        "t": "restul",
        "w": "restul",
-       "heb": "וּשְׁאֵרִיתוֹ",
-       "translit": "ușeerito",
+       "heb": "וּשְׁאֵרִיתוֹ",
+       "translit": "ușērito",
        "strong": "H7611",
-       "pos": "substantiv, feminin singular + sufix",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "rămășița lui, ce a mai rămas din el.",
+       "greek": "λοιπός (loipos)",
+       "greek_def_ro": "λοιπός (loipos) — rest, rămășiță.",
        "dict_ro": "Șeerit — „rămășița”, un cuvânt care în alte contexte profetice (Isaia 10:20-22) desemnează cu speranță „rămășița lui Israel” care va supraviețui judecății; aici, folosit despre bucata de lemn rămasă neconsumată de foc, cuvântul devine o ironie amară — „rămășița” care ar trebui să poarte speranța de mântuire devine, în chip absurd, obiectul din care e sculptat „mântuitorul” fals, căruia i se cere „salvează-mă”."
       },
       {
@@ -60536,8 +60583,11 @@
        "heb": "טַח",
        "translit": "tah",
        "strong": "H2902",
-       "pos": "verb, qal perfect, persoana a III-a singular",
+       "pos": "verb, qal perfect",
        "def_ro": "e tencuit, e lipit, e astupat.",
+       "greek": "ἀπαμαυρόομαι (apamauroomai)",
+       "greek_def_ro": "ἀπαμαυρόομαι (apamauroomai) — a fi întunecat, a fi făcut să nu vadă.",
+       "diff_ro": "Septuaginta are un verb („au fost întunecați/orbiți\"), nu imaginea nominală a unui „văl/tencuială\" (tach) peste ochi, ca în ebraică — aceeași idee de orbire, exprimată diferit gramatical.",
        "dict_ro": "Tah — de la rădăcina „a tencui/a lipi” (aceeași folosită pentru tencuirea unui zid), o imagine puternică: nu e vorba de o simplă lipsă de vedere, ci de o acoperire activă, ca un strat de tencuială lipit peste ochi, care blochează complet percepția. Metzudat David atribuie această orbire înclinației spre rău (yetzer hara) din inima omului, care „tencuiește” singură ochii de la a vedea adevărul."
       },
       {
@@ -60587,11 +60637,13 @@
        "t": "oroare",
        "w": "oroare",
        "heb": "לְתוֹעֵבָה",
-       "translit": "letoeva",
+       "translit": "letoēva",
        "strong": "H8441",
        "pos": "substantiv, feminin singular",
        "def_ro": "urâciune, lucru dezgustător ritual.",
-       "dict_ro": "Toeva — termenul tehnic pentru „urâciune” folosit constant în Tora pentru practicile idolatre și ritualurile interzise (cf. Deuteronom 7:25-26). Ironia versetului e maximă aici: bucata de lemn deja identificată, fără ambiguitate, ca fiind aceeași cu cea folosită pentru gătit — recunoscută de omul însuși ca material banal — devine totuși, prin propria lui alegere absurdă, obiectul unei „urâciuni” pe care el singur o creează și i se închină."
+       "greek": "βδέλυγμα (bdelygma)",
+       "greek_def_ro": "βδέλυγμα (bdelygma) — urâciune, lucru detestabil.",
+       "dict_ro": "Toeva — termenul tehnic pentru „urâciune” folosit constant în Tora pentru practicile idolatre și ritualurile interzise (cf. Deuteronomul 7:25-26). Ironia versetului e maximă aici: bucata de lemn deja identificată, fără ambiguitate, ca fiind aceeași cu cea folosită pentru gătit — recunoscută de omul însuși ca material banal — devine totuși, prin propria lui alegere absurdă, obiectul unei „urâciuni” pe care el singur o creează și i se închină."
       },
       {
        "t": " din restul [lemnului], pot oare să mă prosternez la ramura unui copac?”"
@@ -60640,10 +60692,12 @@
        "t": "cenușă",
        "w": "cenușă",
        "heb": "אֵפֶר",
-       "translit": "efer",
+       "translit": "ēfer",
        "strong": "H665",
        "pos": "substantiv, masculin singular",
        "def_ro": "cenușă.",
+       "greek": "σποδός (spodos)",
+       "greek_def_ro": "σποδός (spodos) — cenușă.",
        "dict_ro": "Efer — cenușa, ceea ce rămâne după arderea completă a jumătății de lemn (v.16,19). Rashi oferă o a doua lectură pentru „roe efer” („păstor de cenușă”): nu doar „păstorul lui e cenușă”, ci o joacă de cuvinte pe rădăcina „reut” (tovărășie/asociere) — omul „se asociază cu” lucrarea altora, adunând la sine o slujire care nu e decât cenușă."
       },
       {
@@ -60696,11 +60750,13 @@
       {
        "t": "uita",
        "w": "uita",
-       "heb": "תִנָּשֵׁנִי",
-       "translit": "tinașeni",
+       "heb": "תִנָּשֵׁנִי",
+       "translit": "tinașēni",
        "strong": "H5382",
-       "pos": "verb, nifal imperfect, persoana a II-a + sufix",
+       "pos": "verb, nifal imperfect + sufix",
        "def_ro": "nu Mă vei uita, nu vei fi uitat de Mine.",
+       "greek": "ἐπιλανθάνομαι (epilanthanomai)",
+       "greek_def_ro": "ἐπιλανθάνομαι (epilanthanomai) — a uita.",
        "dict_ro": "Nașa — verbul „a uita”, aici la o formă nifal ambiguă gramatical, pe care Rashi o citește ca „nu vei fi uitat de frica Mea” — nu doar un îndemn pasiv de a nu uita, ci o asigurare că legătura poporului cu DOMNUL nu se va stinge din memorie, oricât ar fi ea amenințată de idolatria descrisă anterior."
       },
       {
@@ -60750,8 +60806,10 @@
        "heb": "שׁוּבָה",
        "translit": "șuva",
        "strong": "H7725",
-       "pos": "verb, qal imperativ, persoana a II-a singular",
+       "pos": "verb, qal imperativ + sufix",
        "def_ro": "întoarce-te, revino.",
+       "greek": "ἐπιστρέφομαι (epistrephomai)",
+       "greek_def_ro": "ἐπιστρέφομαι (epistrephomai) — a se întoarce.",
        "dict_ro": "Șuv — rădăcina din care vine și „teșuva” (pocăința/întoarcerea), termenul central al teologiei biblice a pocăinței. Ordinea logică a versetului e semnificativă: iertarea („am șters”) precede chemarea la întoarcere, nu invers — DOMNUL nu așteaptă pocăința ca precondiție a iertării, ci anunță întâi iertarea deja înfăptuită, ca temei și motivație pentru întoarcere."
       },
       {
@@ -60804,11 +60862,13 @@
       {
        "t": "Izbucniți",
        "w": "Izbucniți",
-       "heb": "פִּצְחוּ",
-       "translit": "pitzhu",
+       "heb": "פִּצְחוּ",
+       "translit": "pițhu",
        "strong": "H6476",
-       "pos": "verb, qal imperativ, persoana a II-a plural",
+       "pos": "verb, qal imperativ",
        "def_ro": "izbucniți, spargeți tăcerea.",
+       "greek": "βοάω (boao)",
+       "greek_def_ro": "βοάω (boao) — a striga, a izbucni în strigăt.",
        "dict_ro": "Patzah — verbul descrie o izbucnire bruscă, ca o deschidere forțată (aceeași rădăcină apare pentru „a deschide gura larg” la Judecători 11:35-36) — nu o simplă bucurie liniștită, ci o erupție copleșitoare, care implică deopotrivă cerurile, adâncurile pământului, munții și pădurea într-un cor cosmic al răscumpărării — natura însăși devine martoră și participantă la eliberarea lui Iacov."
       },
       {
