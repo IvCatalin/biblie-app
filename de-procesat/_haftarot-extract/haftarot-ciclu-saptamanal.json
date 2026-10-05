@@ -69002,11 +69002,13 @@
       {
        "t": "cuvântul DOMNULUI",
        "w": "cuvântul DOMNULUI",
-       "heb": "דְבַר־יְהוָה",
-       "translit": "devar-ADONAI",
+       "heb": "דְבַר",
+       "translit": "devar",
        "strong": "H1697",
-       "pos": "substantiv, masculin singular, în construcție + nume divin",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "cuvântul DOMNULUI.",
+       "greek": "λόγος Κυρίου (logos Kyriou)",
+       "greek_def_ro": "λόγος Κυρίου (logos Kyriou) — cuvântul DOMNULUI.",
        "dict_ro": "Devar ADONAI — formula care deschide oracolul; capitolul 20 e datat precis (20:1), în al șaptelea an al exilului lui Iehoiahin, când bătrânii lui Israel vin să-l întrebe pe profet. Răspunsul pe care îl primesc nu e cel așteptat: în loc de o profeție despre viitor, Ezechiel face istoria răzvrătirilor lui Israel, de la Egipt până la pustie."
       },
       {
@@ -69043,11 +69045,13 @@
       {
        "t": "bătrânilor lui Israel",
        "w": "bătrânilor lui Israel",
-       "heb": "זִקְנֵי יִשְׂרָאֵל",
-       "translit": "ziknei Israël",
+       "heb": "זִקְנֵי",
+       "translit": "ziknē",
        "strong": "H2205",
-       "pos": "adjectiv substantivat, masculin plural, în construcție + nume propriu",
+       "pos": "adjectiv, masculin plural",
        "def_ro": "bătrânii, conducătorii lui Israel.",
+       "greek": "πρεσβύτεροι (presbyteroi)",
+       "greek_def_ro": "πρεσβύτεροι (presbyteroi) — bătrâni.",
        "dict_ro": "Zekenim — bătrânii, conducătorii comunității exilate, care vin „să-L caute” pe DOMNUL prin profet; Metzudat David explică „a căuta” ca rugăciune: de aceea jurământul „nu Mă voi lăsa căutat” înseamnă „nu vă voi primi rugăciunea”. Rashi observă însă că la sfârșitul cărții (Ezechiel 36:37) Dumnezeu spune „Mă voi lăsa căutat de casa lui Israel” — unul dintre locurile care arată că Sfântul, binecuvântat fie El, Se întoarce de la rău."
       },
       {
@@ -69106,8 +69110,9 @@
        "heb": "תּוֹעֲבֹת",
        "translit": "toavot",
        "strong": "H8441",
-       "pos": "substantiv, feminin plural, în construcție",
+       "pos": "substantiv, feminin plural construct",
        "def_ro": "urâciunile, lucrurile abominabile.",
+       "diff_ro": "Septuaginta are „τὰς ἀνομίας\" („fărădelegile\"), nu „ororile\" (toavot) ca în ebraică — un termen diferit, mai general, pentru păcatele strămoșilor.",
        "dict_ro": "Toeva — urâciunea, ceea ce e respingător înaintea lui Dumnezeu, termen folosit mai ales pentru idolatrie și relațiile oprite. Radak explică sensul dojanei: profetul trebuie să le arate nu doar faptele lor, ci și „ororile părinților”, căci încă de la început aceștia Îl mâniaseră prin lucrarea mâinilor lor; Metzudat David adaugă că astfel se arată că judecata e dreaptă, păcatele lor venind peste cele moștenite."
       },
       {
@@ -69163,12 +69168,13 @@
       {
        "t": "Mi-am ridicat mâna",
        "w": "Mi-am ridicat mâna",
-       "heb": "וָאֶשָּׂא יָדִי",
-       "translit": "vaesa iadi",
+       "heb": "וָאֶשָּׂא",
+       "translit": "vaesa",
        "strong": "H5375",
-       "pos": "verb, qal, imperfect consecutiv, persoana I singular + substantiv cu sufix",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "Mi-am ridicat mâna (gest de jurământ).",
-       "dict_ro": "Nasa iad — „a ridica mâna”, gestul jurământului solemn (compară Geneza 14:22; Deuteronom 32:40); Radak explică jurământul prin formula „Eu sunt DOMNUL”, ca promisiunea de a da Țara „pe care Mi-am ridicat mâna s-o dau lui Avraham, Isaac și Iacov” (Exod 6:8). Rashi aduce aici o tradiție surprinzătoare: această ură a stat ascunsă înaintea lui Dumnezeu aproape nouă sute de ani, din Egipt până la Ezechiel, acoperită de iubire, și s-a trezit acum, când păcatele s-au înmulțit — „ura stârnește certuri, dar iubirea acoperă toate greșelile” (Proverbe 10:12)."
+       "diff_ro": "Septuaginta are „ἀντελαβόμην τῇ χειρί μου αὐτῶν\" („i-am prins/sprijinit cu mâna mea\"), nu idiomul ebraic pentru jurământ, „Mi-am ridicat mâna\" (nasa yad) — gestul de jurare nu e redat ca atare în greacă.",
+       "dict_ro": "Nasa iad — „a ridica mâna”, gestul jurământului solemn (compară Geneza 14:22; Deuteronomul 32:40); Radak explică jurământul prin formula „Eu sunt DOMNUL”, ca promisiunea de a da Țara „pe care Mi-am ridicat mâna s-o dau lui Avraham, Isaac și Iacov” (Exodul 6:8). Rashi aduce aici o tradiție surprinzătoare: această ură a stat ascunsă înaintea lui Dumnezeu aproape nouă sute de ani, din Egipt până la Ezechiel, acoperită de iubire, și s-a trezit acum, când păcatele s-au înmulțit — „ura stârnește certuri, dar iubirea acoperă toate greșelile” (Proverbe 10:12)."
       },
       {
        "t": " [în jurământ] către seminția casei lui Iacov și M-am făcut cunoscut lor în Egipt și le-am jurat, spunând: ‘Eu sunt DOMNUL, Dumnezeul vostru’,"
@@ -69229,7 +69235,8 @@
        "strong": "H6643",
        "pos": "substantiv, masculin singular",
        "def_ro": "podoabă, splendoare, frumusețe.",
-       "dict_ro": "Țevi — podoaba, strălucirea; de aici denumirea Țării „eretz hațevi”, „țara cea frumoasă” (Daniel 8:9; 11:16). Radak explică de ce: e ținutul din mijloc, lăudat mai presus de celelalte, cu aerul cel mai bine temperat dintre toate țările, precum s-a spus „frumoasă pe înălțime, bucuria întregului pământ” (Psalmii 48:2). Metzudat Țion explică „am căutat-o” (tarti) ca „cercetare”, ca în Eclesiastul 2:3 — o țară aleasă după cercetare, anume pentru ei."
+       "diff_ro": "Septuaginta are „κηρίον\" („fagure de miere\"), nu „o splendoare\" (tsevi) ca în ebraică — o imagine complet diferită, probabil legată tematic de mențiunea anterioară a mierii, nu o traducere literală a cuvântului ebraic.",
+       "dict_ro": "Țevi — podoaba, strălucirea; de aici denumirea Țării „eretz hațevi”, „țara cea frumoasă” (Daniel 8:9; 11:16). Radak explică de ce: e ținutul din mijloc, lăudat mai presus de celelalte, cu aerul cel mai bine temperat dintre toate țările, precum s-a spus „frumoasă pe înălțime, bucuria întregului pământ” (Psalmul 48:2). Metzudat Țion explică „am căutat-o” (tarti) ca „cercetare”, ca în Eclesiastul 2:3 — o țară aleasă după cercetare, anume pentru ei."
       },
       {
        "t": " pentru toate țările."
@@ -69285,12 +69292,14 @@
       {
        "t": "scârboșeniile ochilor săi",
        "w": "scârboșeniile ochilor săi",
-       "heb": "שִׁקּוּצֵי עֵינָיו",
-       "translit": "șikuței einav",
+       "heb": "שִׁקּוּצֵי",
+       "translit": "șikuțē",
        "strong": "H8251",
-       "pos": "substantiv, masculin plural, în construcție + substantiv cu sufix",
+       "pos": "substantiv, masculin plural construct",
        "def_ro": "urâciunile pe care le privesc ochii lui (idolii).",
-       "dict_ro": "Șikuț — lucrul scârbos, termen disprețuitor pentru idoli; „scârboșeniile ochilor” sunt idolii la care ochii se uită cu poftă. Radak explică expresia prin rolul ochilor în păcat — „să nu vă luați după inima voastră și după ochii voștri” (Numeri 15:39) — și citează vorba înțelepților: „ochiul și inima sunt cei doi agenți ai păcatului” (Talmud Ierușalmi, Berahot 1:5). Rashi și Metzudat David adaugă că porunca le-a fost dată în Egipt prin Aaron, înainte ca Dumnezeu să i se descopere lui Moise în rug."
+       "greek": "βδελύγματα τῶν ὀφθαλμῶν αὐτοῦ (bdelygmata ton ophthalmon autou)",
+       "greek_def_ro": "βδελύγματα τῶν ὀφθαλμῶν αὐτοῦ (bdelygmata ton ophthalmon autou) — scârboșeniile ochilor lui.",
+       "dict_ro": "Șikuț — lucrul scârbos, termen disprețuitor pentru idoli; „scârboșeniile ochilor” sunt idolii la care ochii se uită cu poftă. Radak explică expresia prin rolul ochilor în păcat — „să nu vă luați după inima voastră și după ochii voștri” (Numeri 15:39) — și citează vorba înțelepților: „ochiul și inima sunt cei doi agenți ai păcatului” (Talmud Ierușalmi, Berahot, cap. 1, mișna 5). Rashi și Metzudat David adaugă că porunca le-a fost dată în Egipt prin Aaron, înainte ca Dumnezeu să i se descopere lui Moise în rug."
       },
       {
        "t": " și să nu se [mai] pângărească cu idolii Egiptului – Eu sunt DOMNUL, Dumnezeul vostru.’"
@@ -69333,7 +69342,7 @@
        "text": "Radak: „Fiecare să-și arunce scârboșeniile ochilor săi” — căci ochii îl aduc pe om la păcat, cum s-a spus: „să nu vă luați după inima voastră și după ochii voștri” (Numeri 15:39); și au spus înțelepții noștri: ochiul și inima sunt cei doi agenți ai păcatului."
       },
       {
-       "author": "Talmud Ierușalmi, Berahot 1:5",
+       "author": "Talmud Ierușalmi, Berahot, cap. 1, mișna 5",
        "text": "Rabi Levi a spus: inima și ochiul sunt cei doi agenți ai păcatului, căci scrie: „Fiul meu, dă-Mi inima ta și ochii tăi să păzească drumurile Mele” (Proverbe 23:26) — Sfântul, binecuvântat fie El, spune: dacă Îmi dai inima și ochii tăi, știu că ești al Meu."
       }
      ]
@@ -69350,12 +69359,14 @@
       {
        "t": "s-au răzvrătit",
        "w": "s-au răzvrătit",
-       "heb": "וַיַּמְרוּ",
-       "translit": "vayamru",
+       "heb": "וַיַּמְרוּ",
+       "translit": "vaiamru",
        "strong": "H4784",
-       "pos": "verb, hifil, imperfect consecutiv, persoana a III-a masculin plural",
+       "pos": "verb, hifil imperfect consecutiv",
        "def_ro": "s-au răzvrătit, s-au împotrivit.",
-       "dict_ro": "Mara — „a fi răzvrătit, încăpățânat”, verbul care descrie în Tora generația pustiei („ați fost răzvrătiți împotriva DOMNULUI”, Deuteronom 9:7). Rashi aduce tradiția că răzvrătiții, majoritatea poporului, au murit în cele trei zile de întuneric din Egipt, iar din Egipt n-a ieșit decât unul din cincizeci (după alții, unul din cinci sute). Radak explică dublarea „să-Mi revărs furia... să-Mi sfârșesc mânia” prin imaginea vasului golit: cine varsă ce e în vas îl sfârșește."
+       "greek": "ἀφίστημι (aphistemi)",
+       "greek_def_ro": "ἀφίστημι (aphistemi) — a se răzvrăti, a se abate.",
+       "dict_ro": "Mara — „a fi răzvrătit, încăpățânat”, verbul care descrie în Tora generația pustiei („ați fost răzvrătiți împotriva DOMNULUI”, Deuteronomul 9:7). Rashi aduce tradiția că răzvrătiții, majoritatea poporului, au murit în cele trei zile de întuneric din Egipt, iar din Egipt n-a ieșit decât unul din cincizeci (după alții, unul din cinci sute). Radak explică dublarea „să-Mi revărs furia... să-Mi sfârșesc mânia” prin imaginea vasului golit: cine varsă ce e în vas îl sfârșește."
       },
       {
        "t": " împotriva Mea și n-au vrut să asculte de Mine. Niciunul nu a aruncat scârboșeniile ochilor lor și nu au abandonat idolii Egiptului și Mi-am spus că Îmi voi revărsa furia asupra lor, ca să Îmi sfârșesc mânia asupra lor în mijlocul țării Egiptului."
@@ -69415,11 +69426,13 @@
       {
        "t": "de dragul numelui Meu",
        "w": "de dragul numelui Meu",
-       "heb": "לְמַעַן שְׁמִי",
-       "translit": "lemaan șemi",
+       "heb": "שְׁמִי",
+       "translit": "șemi",
        "strong": "H8034",
-       "pos": "prepoziție + substantiv, masculin singular + sufix persoana I",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "pentru Numele Meu, de dragul reputației Mele.",
+       "greek": "ὄνομά μου (onoma mou)",
+       "greek_def_ro": "ὄνομά μου (onoma mou) — numele meu.",
        "dict_ro": "Lemaan șemi — motivul central al capitolului, repetat ca un refren (20:9, 14, 22): Dumnezeu nu i-a nimicit, nu pentru că ar fi meritat, ci ca Numele Lui să nu fie pângărit înaintea neamurilor. Rashi explică: de vreme ce M-am făcut cunoscut lor și am făgăduit să-i scot, iar egiptenii știau că sunt poporul Meu, dacă i-aș fi nimicit, dușmanii ar fi zis: „pentru că n-a fost în stare să-i scoată” — același argument pe care îl folosise Moise în rugăciunea lui (Numeri 14:13-16)."
       },
       {
@@ -69475,11 +69488,13 @@
       {
        "t": "în deșert",
        "w": "în deșert",
-       "heb": "הַמִּדְבָּר",
+       "heb": "הַמִּדְבָּר",
        "translit": "hamidbar",
        "strong": "H4057",
-       "pos": "substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "pustiul, deșertul.",
+       "greek": "ἔρημος (eremos)",
+       "greek_def_ro": "ἔρημος (eremos) — deșert, pustiu.",
        "dict_ro": "Midbar — pustiul, locul fără așezări, dar în tradiția biblică și locul întâlnirii cu Dumnezeu: acolo au primit Tora, Sabatul și mana. Versetul e scurt, o simplă tranziție, dar Ezechiel construiește pe el întreaga a doua etapă a istoriei: pustiul devine scena a două răzvrătiri — generația care a ieșit din Egipt (20:13-17) și copiii ei (20:18 și urm.)."
       },
       {
@@ -69526,12 +69541,14 @@
       {
        "t": "să trăiască prin ele",
        "w": "să trăiască prin ele",
-       "heb": "וָחַי בָּהֶם",
-       "translit": "vahai bahem",
+       "heb": "וָחַי",
+       "translit": "vahai",
        "strong": "H2425",
-       "pos": "verb, qal, perfect consecutiv, persoana a III-a masculin singular + prepoziție cu sufix",
+       "pos": "verb, qal perfect consecutiv",
        "def_ro": "și va trăi prin ele.",
-       "dict_ro": "Vahai bahem — citat direct din Levitic 18:5, „pe care omul le va face și va trăi prin ele”. Radak și Metzudat David, urmând Targumul, citesc „va trăi” ca viață deplină: viața din lumea aceasta și viața lumii ce va veni. Pavel folosește același verset (Romani 10:5; Galateni 3:12) ca definiție a dreptății prin Lege."
+       "greek": "ζήσεται ἐν αὐτοῖς (zesetai en autois)",
+       "greek_def_ro": "ζήσεται ἐν αὐτοῖς (zesetai en autois) — va trăi prin ele.",
+       "dict_ro": "Vahai bahem — citat direct din Leviticul 18:5, „pe care omul le va face și va trăi prin ele”. Radak și Metzudat David, urmând Targumul, citesc „va trăi” ca viață deplină: viața din lumea aceasta și viața lumii ce va veni. Pavel folosește același verset (Romani 10:5; Galateni 3:12) ca definiție a dreptății prin Lege."
       },
       {
        "t": "."
@@ -69586,9 +69603,11 @@
        "heb": "לְאוֹת",
        "translit": "leot",
        "strong": "H226",
-       "pos": "prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "semn, însemn, dovadă.",
-       "dict_ro": "Ot — semnul, marca vizibilă a unei realități nevăzute; Sabatul e numit „semn între Mine și voi” încă din Exod 31:13, de unde e preluată formularea. Rashi îl numește „un semn mare” — Dumnezeu le-a dat ziua odihnei Lui ca zi de odihnă, dovadă că i-a sfințit pentru Sine. Radak adaugă că pluralul „Sabatele Mele” cuprinde și sărbătorile și că, fiind Sabatul echivalent cu toate poruncile — învățătura lui Rebbi din Talmudul Ierușalmi, Berahot 1:5 —, profetul revine de atâtea ori la pângărirea lui."
+       "greek": "σημεῖον (semeion)",
+       "greek_def_ro": "σημεῖον (semeion) — semn.",
+       "dict_ro": "Ot — semnul, marca vizibilă a unei realități nevăzute; Sabatul e numit „semn între Mine și voi” încă din Exodul 31:13, de unde e preluată formularea. Rashi îl numește „un semn mare” — Dumnezeu le-a dat ziua odihnei Lui ca zi de odihnă, dovadă că i-a sfințit pentru Sine. Radak adaugă că pluralul „Sabatele Mele” cuprinde și sărbătorile și că, fiind Sabatul echivalent cu toate poruncile — învățătura lui Rebbi din Talmudul Ierușalmi, Berahot, cap. 1, mișna 5 —, profetul revine de atâtea ori la pângărirea lui."
       },
       {
        "t": " între Mine și ei, să știe că Eu sunt DOMNUL care îi sfințește."
@@ -69627,7 +69646,7 @@
        "text": "Radak: „Și Sabatele Mele” — a spus „și”, căci este un dar bun pe care Dumnezeu l-a dat poporului Său Israel, ca să le amintească ziua odihnei pe care le-a dat-o și că i-a scos din robie la libertate; și acesta e semnul dintre Dumnezeu și Israel, că i-a sfințit și i-a despărțit de neamuri. A spus „Sabatele” la plural, cuprinzând și odihna sărbătorilor, căci și ele sunt amintire a ieșirii din Egipt; și pentru că porunca Sabatului e mare și cântărește cât toate poruncile, a pomenit de atâtea ori în această mustrare pângărirea Sabatului."
       },
       {
-       "author": "Talmud Ierușalmi, Berahot 1:5",
+       "author": "Talmud Ierușalmi, Berahot, cap. 1, mișna 5",
        "text": "Rebbi a spus: aceasta este porunca Sabatului, care cântărește cât toate celelalte porunci ale Torei laolaltă, căci scrie: „Le-ai făcut cunoscut Sabatul Tău cel sfânt și le-ai poruncit porunci, legi și învățătură” (Neemia 9:14)."
       }
      ]
@@ -69647,9 +69666,11 @@
        "heb": "מָאָסוּ",
        "translit": "maasu",
        "strong": "H3988",
-       "pos": "verb, qal, perfect, persoana a III-a plural",
+       "pos": "verb, qal perfect",
        "def_ro": "au lepădat, au disprețuit.",
-       "dict_ro": "Maas — „a respinge, a lepăda cu dispreț”, verbul folosit în blestemele din Levitic 26:15, 43 („dacă veți disprețui legile Mele”). Rashi enumeră răzvrătirile concrete din pustie: L-au ispitit cu vițelul, la Refidim au șovăit să primească Tora și au lăsat mană peste noapte; iar „Sabatele le-au pângărit” — unii din popor au ieșit să strângă mană în Sabat (Exod 16:27). Metzudat David explică „foarte”: în primul Sabat au ieșit după mană, iar în al doilea omul care strângea lemne l-a pângărit cu totul (Numeri 15:32)."
+       "greek": "ἀπωθέω (apotheo)",
+       "greek_def_ro": "ἀπωθέω (apotheo) — a respinge, a îndepărta.",
+       "dict_ro": "Maas — „a respinge, a lepăda cu dispreț”, verbul folosit în blestemele din Leviticul 26:15, 43 („dacă veți disprețui legile Mele”). Rashi enumeră răzvrătirile concrete din pustie: L-au ispitit cu vițelul, la Refidim au șovăit să primească Tora și au lăsat mană peste noapte; iar „Sabatele le-au pângărit” — unii din popor au ieșit să strângă mană în Sabat (Exodul 16:27). Metzudat David explică „foarte”: în primul Sabat au ieșit după mană, iar în al doilea omul care strângea lemne l-a pângărit cu totul (Numeri 15:32)."
       },
       {
        "t": " judecățile Mele pe care să le înfăptuiască omul și să trăiască prin ele, și Șabaturile Mele le-au pângărit mult. Și Mi-am spus că Îmi voi revărsa furia asupra lor în deșert, ca să îi nimicesc."
@@ -69705,11 +69726,13 @@
       {
        "t": "să nu fie pângărit",
        "w": "să nu fie pângărit",
-       "heb": "לְבִלְתִּי הֵחֵל",
-       "translit": "levilti hehel",
+       "heb": "הֵחֵל",
+       "translit": "hēhēl",
        "strong": "H2490",
-       "pos": "prepoziție negativă + verb, nifal, infinitiv construct",
+       "pos": "verb, nifal infinitiv",
        "def_ro": "ca să nu fie profanat.",
+       "greek": "βεβηλόομαι (bebeloomai)",
+       "greek_def_ro": "βεβηλόομαι (bebeloomai) — a fi pângărit.",
        "dict_ro": "Halal, la nifal — „a fi profanat, pângărit”; pângărirea Numelui (hilul Hașem) e opusul sfințirii lui, ideea centrală a acestui capitol. Metzudat David precizează cine ar fi vorbit: egiptenii, sub ochii cărora ieșiseră, ar fi spus că DOMNUL n-a fost în stare să-i aducă în Canaan și de aceea i-a nimicit în pustie — de aceea Dumnezeu i-a cruțat și a doua oară."
       },
       {
@@ -69759,11 +69782,13 @@
       {
        "t": "le-am jurat",
        "w": "le-am jurat",
-       "heb": "נָשָׂאתִי יָדִי",
-       "translit": "nasati iadi",
+       "heb": "נָשָׂאתִי",
+       "translit": "nasati",
        "strong": "H5375",
-       "pos": "verb, qal, perfect, persoana I singular + substantiv cu sufix",
+       "pos": "verb, qal perfect",
        "def_ro": "Mi-am ridicat mâna [în jurământ], am jurat.",
+       "greek": "ἐξαίρω τὴν χεῖρα (exairo ten cheira)",
+       "greek_def_ro": "ἐξαίρω τὴν χεῖρα (exairo ten cheira) — am ridicat mâna (idiom pentru jurământ).",
        "dict_ro": "Nasa iad — aceeași expresie a jurământului ca în 20:5, dar acum întoarsă împotriva lor: Dumnezeu, care jurase să-i aducă în Țară, jură acum că nu-i va aduce. Metzudat David și Radak identifică momentul: păcatul iscoadelor, când s-a hotărât ca generația pustiei să nu intre în Țară — „dar viu sunt Eu... niciunul dintre oamenii aceștia nu va vedea țara” (Numeri 14:21-23)."
       },
       {
@@ -69815,11 +69840,12 @@
       {
        "t": "idolii lor",
        "w": "idolii lor",
-       "heb": "גִּלּוּלֵיהֶם",
-       "translit": "ghiluleihem",
+       "heb": "גִלּוּלֵיהֶם",
+       "translit": "gilulēhem",
        "strong": "H1544",
-       "pos": "substantiv, masculin plural + sufix persoana a III-a plural",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "idolii lor.",
+       "diff_ro": "Septuaginta are „τῶν ἐνθυμημάτων καρδίας αὐτῶν\" („uneltirile inimii lor\"), nu „idolii lor\" (gilulehem) ca în ebraică — consecvent cu alte versete din acest capitol, termenul concret pentru idoli e înlocuit cu un sens abstract.",
        "dict_ro": "Ghilulim — idolii (cuvântul disprețuitor preferat de Ezechiel); Metzudat David precizează că e vorba de idolii pe care îi slujiseră în Egipt. Expresia „inima lor merge după idolii lor” completează imaginea din 20:7, unde păcatul pornea de la ochi: acum inima însăși a luat-o pe urma lor — cei doi „agenți ai păcatului” despre care vorbea Rabi Levi."
       },
       {
@@ -69868,12 +69894,14 @@
       {
        "t": "i s-a făcut milă",
        "w": "i s-a făcut milă",
-       "heb": "וַתָּחָס",
-       "translit": "vatahos",
+       "heb": "וַתָּחָס",
+       "translit": "vatahas",
        "strong": "H2347",
-       "pos": "verb, qal, imperfect consecutiv, persoana a III-a feminin singular",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "a cruțat, i s-a făcut milă.",
-       "dict_ro": "Hus — „a cruța, a avea milă”, spus de obicei despre ochi („să nu-ți cruțe ochiul”, Deuteronom 7:16), de unde și formularea neobișnuită „ochiului Meu i s-a făcut milă”. Metzudat David explică: meritaseră nimicirea totală, dar ochiul Meu i-a cruțat; iar Radak arată în ce a constat mila — i-a lăsat pe copiii lor după ei, ca să-i aducă pe aceștia în Țară."
+       "greek": "φείδομαι (pheidomai)",
+       "greek_def_ro": "φείδομαι (pheidomai) — a avea milă, a cruța.",
+       "dict_ro": "Hus — „a cruța, a avea milă”, spus de obicei despre ochi („să nu-ți cruțe ochiul”, Deuteronomul 7:16), de unde și formularea neobișnuită „ochiului Meu i s-a făcut milă”. Metzudat David explică: meritaseră nimicirea totală, dar ochiul Meu i-a cruțat; iar Radak arată în ce a constat mila — i-a lăsat pe copiii lor după ei, ca să-i aducă pe aceștia în Țară."
       },
       {
        "t": " de ei, nedistrugându-i, și nu i-am făcut să se sfârșească în deșert."
@@ -69927,11 +69955,13 @@
       {
        "t": "copiilor lor",
        "w": "copiilor lor",
-       "heb": "בְּנֵיהֶם",
-       "translit": "beneihem",
+       "heb": "בְּנֵיהֶם",
+       "translit": "benēhem",
        "strong": "H1121",
-       "pos": "substantiv, masculin plural + sufix persoana a III-a plural",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "fiii, copiii lor.",
+       "greek": "τέκνα αὐτῶν (tekna auton)",
+       "greek_def_ro": "τέκνα αὐτῶν (tekna auton) — copiii lor.",
        "dict_ro": "Banim — fiii, a doua generație a pustiei, cea care urma să intre în Țară (Metzudat David). Îndemnul „nu urmați judecățile părinților voștri” răstoarnă respectul obișnuit față de tradiția părinților: când aceasta e idolatrie, fidelitatea față de părinți devine păcat — Metzudat David precizează că e vorba de „decretele pe care le-au născocit din inima lor, pe care DOMNUL nu le-a poruncit”."
       },
       {
@@ -69979,12 +70009,14 @@
       {
        "t": "decretele Mele",
        "w": "decretele Mele",
-       "heb": "בְּחֻקּוֹתַי",
+       "heb": "בְּחֻקּוֹתַי",
        "translit": "behukotai",
        "strong": "H2708",
-       "pos": "prepoziție + substantiv, feminin plural + sufix persoana I",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
        "def_ro": "rânduielile, decretele Mele.",
-       "dict_ro": "Hukot — rânduielile, decretele (de la hakak, „a grava, a sculpta”), opuse în versetul precedent „decretelor părinților”; e același cuvânt care deschide pericopa Behukotai („dacă veți umbla în decretele Mele”, Levitic 26:3). Metzudat David leagă îndemnul de afirmația de început: „Eu sunt DOMNUL, Dumnezeul vostru” — de aceea să asculte de Mine, să umble în decretele Mele și să le păzească în inima lor."
+       "greek": "προστάγματά μου (prostagmata mou)",
+       "greek_def_ro": "προστάγματά μου (prostagmata mou) — poruncile mele.",
+       "dict_ro": "Hukot — rânduielile, decretele (de la hakak, „a grava, a sculpta”), opuse în versetul precedent „decretelor părinților”; e același cuvânt care deschide pericopa Behukotai („dacă veți umbla în decretele Mele”, Leviticul 26:3). Metzudat David leagă îndemnul de afirmația de început: „Eu sunt DOMNUL, Dumnezeul vostru” — de aceea să asculte de Mine, să umble în decretele Mele și să le păzească în inima lor."
       },
       {
        "t": ", păziți judecățile Mele și înfăptuiți-le."
@@ -70027,11 +70059,13 @@
       {
        "t": "Sfințiți",
        "w": "Sfințiți",
-       "heb": "קַדֵּשׁוּ",
-       "translit": "kadeșu",
+       "heb": "קַדֵּשׁוּ",
+       "translit": "kadēșu",
        "strong": "H6942",
-       "pos": "verb, piel, imperativ, masculin plural",
+       "pos": "verb, piel imperativ",
        "def_ro": "sfințiți, țineți sfânt.",
+       "greek": "ἁγιάζω (hagiazo)",
+       "greek_def_ro": "ἁγιάζω (hagiazo) — a sfinți.",
        "dict_ro": "Kadeș, la forma piel — „a sfinți, a trata ca sfânt”; aceeași rădăcină ca Kedoșim („sfinți”), numele pericopei, ceea ce face din acest verset încheierea firească a haftarei sefarde. Haftara se încheie cu porunca Sabatului ca „semn”, reluând 20:12 — dar acum ca îndemn adresat noii generații, care are încă posibilitatea să aleagă altfel decât părinții ei."
       },
       {
