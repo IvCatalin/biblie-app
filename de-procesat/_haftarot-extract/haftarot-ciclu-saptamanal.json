@@ -54510,11 +54510,13 @@
       {
        "t": "Eliahu",
        "w": "Eliahu",
-       "heb": "אֵלִיָּהוּ",
-       "translit": "Eliyahu",
+       "heb": "אֵלִיָּהוּ",
+       "translit": "ēliahu",
        "strong": "H452",
        "pos": "nume propriu",
        "def_ro": "Ilie — „Dumnezeul meu e DOMNUL”.",
+       "greek": "Ἠλιού (Eliou)",
+       "greek_def_ro": "Ἠλιού (Eliou) — Elijah.",
        "dict_ro": "Eliyahu — numele însuși e o mărturisire de credință, program al întregii misiuni a profetului: confruntarea de pe Carmel nu face decât să demonstreze, cu foc din cer, exact ceea ce numele lui deja proclamă."
       },
       {
@@ -54526,8 +54528,10 @@
        "heb": "מָטָר",
        "translit": "matar",
        "strong": "H4306",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "ploaie.",
+       "greek": "ὑετός (hyetos)",
+       "greek_def_ro": "ὑετός (hyetos) — ploaie.",
        "dict_ro": "Matar, „ploaie” — încheie cei trei ani de secetă anunțați anterior de Ilie însuși (17:1); promisiunea ploii, deja hotărâtă, va veni totuși abia după confruntarea publică de pe Carmel — foametea continuă servește ca teren de pregătire pentru marea demonstrație a puterii DOMNULUI."
       },
       {
@@ -54584,11 +54588,13 @@
       {
        "t": "foametea",
        "w": "foametea",
-       "heb": "הָרָעָב",
-       "translit": "ha-ra'av",
+       "heb": "וְהָרָעָב",
+       "translit": "veharaav",
        "strong": "H7458",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "foametea.",
+       "greek": "λιμός (limos)",
+       "greek_def_ro": "λιμός (limos) — foamete.",
        "dict_ro": "Ra'av, „foamete” — consecință directă a secetei anunțate de Ilie; severitatea ei explică pe deplin disperarea lui Ahab din versetele următoare, dispus să caute personal iarbă pentru animale în tot regatul."
       },
       {
@@ -54636,10 +54642,12 @@
        "t": "Ovadia",
        "w": "Ovadia",
        "heb": "עֹבַדְיָהוּ",
-       "translit": "Ovadyahu",
+       "translit": "ovadiahu",
        "strong": "H5662",
        "pos": "nume propriu",
        "def_ro": "Ovadia — „slujitorul DOMNULUI”.",
+       "greek": "Ἀβδιού (Abdiou)",
+       "greek_def_ro": "Ἀβδιού (Abdiou) — Obadia.",
        "dict_ro": "Ovadyahu — numele lui contrastează direct cu poziția lui socială: „slujitorul DOMNULUI” slujește totuși, funcțional, ca „mai-mare peste casa” unui rege idolatru — o tensiune biografică rezolvată prin fidelitatea lui secretă, dovedită imediat la versetul următor."
       },
       {
@@ -54648,11 +54656,13 @@
       {
        "t": "mai-mare peste casa lui",
        "w": "mai-mare peste casa lui",
-       "heb": "אֲשֶׁר עַל־הַבָּיִת",
-       "translit": "asher al-ha-bayit",
+       "heb": "עַל הַבָּיִת",
+       "translit": "al habait",
        "strong": "H1004",
-       "pos": "substantiv, masculin",
+       "pos": "prepoziție + substantiv, masculin singular",
        "def_ro": "cel peste casă, majordom.",
+       "greek": "οἰκονόμος (oikonomos)",
+       "greek_def_ro": "οἰκονόμος (oikonomos) — administrator al casei, intendent.",
        "dict_ro": "Al ha-bayit — titlu tehnic pentru cel mai înalt funcționar de curte, administratorul general al palatului regal — poziție de mare încredere și influență, ocupată aici, remarcabil, de un om temător de Dumnezeu în mijlocul unei curți profund idolatre."
       },
       {
@@ -54709,10 +54719,12 @@
        "t": "Izebel",
        "w": "Izebel",
        "heb": "אִיזֶבֶל",
-       "translit": "Izevel",
+       "translit": "izevel",
        "strong": "H348",
        "pos": "nume propriu",
        "def_ro": "Izebel.",
+       "greek": "Ἰεζάβελ (Iezabel)",
+       "greek_def_ro": "Ἰεζάβελ (Iezabel) — Izebel.",
        "dict_ro": "Izevel — soția feniciană a lui Ahab, promotoare activă a cultului lui Baal și Așera, responsabilă pentru persecuția sistematică a profeților DOMNULUI narată aici — antagonista principală a lui Ilie de-a lungul întregului ciclu narativ."
       },
       {
@@ -54721,11 +54733,13 @@
       {
        "t": "ascuns",
        "w": "ascuns",
-       "heb": "וַיַּחְבִּיאֵם",
-       "translit": "va-yachbi'em",
+       "heb": "וַיַּחְבִּיאֵם",
+       "translit": "vaiahbiēm",
        "strong": "H2244",
-       "pos": "verb, hifil imperfect",
+       "pos": "verb, hifil imperfect consecutiv + sufix",
        "def_ro": "i-a ascuns.",
+       "greek": "κατακρύπτω (katakrypto)",
+       "greek_def_ro": "κατακρύπτω (katakrypto) — a ascunde cu grijă.",
        "dict_ro": "Rashi precizează structura ascunzătorii: cincizeci de bărbați într-o peșteră, alți cincizeci într-o a doua peșteră — precauție dublă, probabil pentru a limita riscul descoperirii întregului grup deodată."
       },
       {
@@ -54774,10 +54788,11 @@
        "t": "iarbă",
        "w": "iarbă",
        "heb": "חָצִיר",
-       "translit": "chatsir",
+       "translit": "hațir",
        "strong": "H2682",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "iarbă, verdeață.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu (iarba pentru caii și măgarii regelui) — nu există corespondent verificabil.",
        "dict_ro": "Chatsir — priorități revelatoare ale regelui: preocupat personal de soarta cailor și catârilor regali, dispus să străbată el însuși țara pentru animale, în timp ce sistematic ignoră soarta profeților DOMNULUI persecutați de propria lui soție — un contrast tăcut, dar puternic, al textului."
       },
       {
@@ -54836,11 +54851,13 @@
       {
        "t": "împărțit",
        "w": "împărțit",
-       "heb": "וַיְחַלְּקוּ",
-       "translit": "va-yechalleku",
+       "heb": "וַיְחַלְּקוּ",
+       "translit": "vaihalku",
        "strong": "H2505",
-       "pos": "verb, piel imperfect",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "au împărțit.",
+       "greek": "μερίζω (merizo)",
+       "greek_def_ro": "μερίζω (merizo) — a împărți.",
        "dict_ro": "Rădăcina chalak, „a împărți” — decizie practică de eficiență: acoperirea unui teritoriu mai mare, mai repede, separându-se pe drumuri diferite — detaliu care pregătește logic întâlnirea „întâmplătoare” dintre Ovadia și Ilie, imposibilă dacă ar fi călătorit împreună."
       },
       {
@@ -54879,11 +54896,12 @@
       {
        "t": "recunoscut",
        "w": "recunoscut",
-       "heb": "וַיַּכִּרֵהוּ",
-       "translit": "va-yakkirehu",
+       "heb": "וַיַּכִּרֵהוּ",
+       "translit": "vaiakirēhu",
        "strong": "H5234",
-       "pos": "verb, hifil imperfect",
+       "pos": "verb, hifil imperfect consecutiv + sufix",
        "def_ro": "l-a recunoscut.",
+       "diff_ro": "Septuaginta nu are un verb separat pentru „l-a recunoscut\" — trece direct de la întâlnirea celor doi la gestul lui Ovadia de a se arunca la pământ, fără pasul explicit al recunoașterii.",
        "dict_ro": "Rădăcina nakar, „a recunoaște” — recunoașterea imediată sugerează faima deja stabilită a lui Ilie, chiar în mijlocul secetei pe care el însuși o provocase, dincolo de orice contact direct anterior menționat între cei doi."
       },
       {
@@ -54929,11 +54947,13 @@
       {
        "t": "Eliahu este aici",
        "w": "Eliahu este aici",
-       "heb": "הִנֵּה אֵלִיָּהוּ",
-       "translit": "hinneh Eliyahu",
+       "heb": "הִנֵּה",
+       "translit": "hinē",
        "strong": "H2009",
-       "pos": "particulă",
+       "pos": "particulă demonstrativă",
        "def_ro": "iată, Ilie [e aici].",
+       "greek": "ἰδοὺ Ἠλιού (idou Eliou)",
+       "greek_def_ro": "ἰδοὺ Ἠλιού (idou Eliou) — iată, Elijah.",
        "dict_ro": "Formulă simplă, repetată identic de patru ori în tot pasajul (v.8, 11, 14) — mesajul lui Ilie e reducția la esențial: propria lui prezență vizibilă e suficientă anunț, fără nicio explicație suplimentară necesară."
       },
       {
@@ -54975,10 +54995,12 @@
        "t": "păcatul",
        "w": "păcatul",
        "heb": "חָטָאתִי",
-       "translit": "chatati",
+       "translit": "hatati",
        "strong": "H2398",
        "pos": "verb, qal perfect",
        "def_ro": "păcatul meu, am greșit.",
+       "greek": "ἁμαρτάνω (hamartano)",
+       "greek_def_ro": "ἁμαρτάνω (hamartano) — a păcătui.",
        "dict_ro": "Rădăcina chata — Ovadia interpretează cererea lui Ilie ca pe o pedeapsă nemeritată, o reacție de panică imediată care deschide un lung discurs de auto-apărare, dovedind teama lui reală de furia imprevizibilă a lui Ahab."
       },
       {
@@ -55029,10 +55051,12 @@
        "t": "neam sau regat",
        "w": "neam sau regat",
        "heb": "גּוֹי וּמַמְלָכָה",
-       "translit": "goy u-mamlakhah",
+       "translit": "goi umamlaha",
        "strong": "H1471",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular + substantiv, feminin singular",
        "def_ro": "neam sau regat.",
+       "greek": "ἔθνος ἢ βασιλεία (ethnos e basileia)",
+       "greek_def_ro": "ἔθνος ἢ βασιλεία (ethnos e basileia) — neam sau regat.",
        "dict_ro": "Goy u-mamlakhah — hiperbolă care măsoară amploarea căutării lui Ahab: nu doar în regatul lui Israel, ci în TOATE regatele cunoscute din regiune, extinzând reputația și temerea inspirată de Ilie dincolo de granițele naționale."
       },
       {
@@ -55041,11 +55065,12 @@
       {
        "t": "jure",
        "w": "jure",
-       "heb": "וְהִשְׁבִּיעַ",
-       "translit": "ve-hishbia",
+       "heb": "וְהִשְׁבִּיעַ",
+       "translit": "vehișbia",
        "strong": "H7650",
-       "pos": "verb, hifil imperfect",
+       "pos": "verb, hifil perfect consecutiv",
        "def_ro": "a pus să jure.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu (jurământul cerut regatelor și neamurilor) — nu există corespondent verificabil.",
        "dict_ro": "Rădăcina shava, „a jura” — Ahab a cerut jurământ formal de la fiecare regat interogat, dovadă a disperării lui de a-l localiza pe Ilie — detaliu care sporește gravitatea riscului pe care Ovadia crede că i-l cere Ilie acum."
       },
       {
@@ -55122,11 +55147,13 @@
       {
        "t": "suflu al DOMNULUI",
        "w": "suflu al DOMNULUI",
-       "heb": "רוּחַ יְהוָה",
-       "translit": "ruach Adonai",
+       "heb": "וְרוּחַ",
+       "translit": "veruah",
        "strong": "H7307",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "duhul DOMNULUI.",
+       "greek": "πνεῦμα Κυρίου (pneuma Kyriou)",
+       "greek_def_ro": "πνεῦμα Κυρίου (pneuma Kyriou) — suflul/duhul DOMNULUI.",
        "dict_ro": "Ruach Adonai — temerea concretă a lui Ovadia: capacitatea supranaturală a lui Ilie de a fi „purtat” instantaneu, deja demonstrată în alte tradiții profetice (cf. Ezechiel 3:12, 8:3), face situația imprevizibilă și periculoasă pentru mesagerul care garantează prezența lui fixă."
       },
       {
@@ -55135,11 +55162,12 @@
       {
        "t": "tânăr",
        "w": "tânăr",
-       "heb": "מִנְּעֻרָי",
-       "translit": "mi-neurai",
+       "heb": "מִנְּעֻרָי",
+       "translit": "minurai",
        "strong": "H5271",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
        "def_ro": "din tinerețea mea.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu (teama de DOMNUL încă din tinerețe) — nu există corespondent verificabil.",
        "dict_ro": "Ne'urim, „tinerețe” — apel emoțional final la un istoric lung și constant de credincioșie, nu doar o virtute recentă sau oportunistă — Ovadia își pledează cauza invocând o viață întreagă de fidelitate, nu un moment izolat."
       },
       {
@@ -55192,11 +55220,13 @@
       {
        "t": "vestit",
        "w": "vestit",
-       "heb": "הֻגַּד",
-       "translit": "huggad",
+       "heb": "הֻגַּד",
+       "translit": "hugad",
        "strong": "H5046",
        "pos": "verb, hofal perfect",
        "def_ro": "i s-a vestit.",
+       "greek": "ἀπαγγέλλω (apangello)",
+       "greek_def_ro": "ἀπαγγέλλω (apangello) — a vesti, a da de știre.",
        "dict_ro": "Rădăcina nagad, la forma pasivă — Ovadia repetă, cu detalii identice deja narate direct de text la v.4, fapta lui riscantă, sperând ca reamintirea concretă a acestui act de curaj să-l convingă pe Ilie de sinceritatea temerii sale actuale."
       },
       {
@@ -55238,10 +55268,12 @@
        "t": "omorî",
        "w": "omorî",
        "heb": "וַהֲרָגָנִי",
-       "translit": "va-haragani",
+       "translit": "vaharagani",
        "strong": "H2026",
-       "pos": "verb, qal perfect",
+       "pos": "verb, qal perfect consecutiv + sufix",
        "def_ro": "și mă va ucide.",
+       "greek": "ἀποκτείνω (apokteino)",
+       "greek_def_ro": "ἀποκτείνω (apokteino) — a ucide.",
        "dict_ro": "Rădăcina harag — încheie discursul lui Ovadia exact cum îl deschisese (v.9), cu aceeași teamă concretă a morții, formând o structură circulară de argumentare, tipică unui om aflat sub presiune emoțională reală."
       },
       {
@@ -55285,11 +55317,13 @@
       {
        "t": "am stat",
        "w": "am stat",
-       "heb": "עָמַדְתִּי",
+       "heb": "עָמַדְתִּי",
        "translit": "amadti",
        "strong": "H5975",
        "pos": "verb, qal perfect",
        "def_ro": "am stat, slujesc.",
+       "greek": "παρίστημι (paristemi)",
+       "greek_def_ro": "παρίστημι (paristemi) — a sta înaintea, a sluji.",
        "dict_ro": "Rădăcina amad, „a sta” — formulă de autodescriere profetică standard (aceeași expresie revine la 2 Împărați 3:14, 5:16), desemnând poziția de slujitor permanent, activ, în prezența divină — garanția lui Ilie e proprie credibilitate profetică, nu doar o promisiune verbală obișnuită."
       },
       {
@@ -55362,10 +55396,13 @@
        "t": "chinuie",
        "w": "chinuie",
        "heb": "עֹכֵר",
-       "translit": "okher",
+       "translit": "ohēr",
        "strong": "H5916",
        "pos": "verb, qal participiu",
        "def_ro": "cel ce tulbură, nenorocește.",
+       "greek": "διαστρέφω (diastrepho)",
+       "greek_def_ro": "διαστρέφω (diastrepho) — a perverti, a corupe, a răstălmăci.",
+       "diff_ro": "Septuaginta are nuanța de „a perverti/a corupe\" (διαστρέφων), nu strict „a tulbura/chinui\" (ohēr) ca în ebraică — accentul grecesc cade pe deformarea morală, nu pe tulburarea generală.",
        "dict_ro": "Rădăcina akhar, „a tulbura, a aduce nenorocire” — aceeași rădăcină ca la Achan, „tulburătorul lui Israel” (Iosua 7:25); Ahab răstoarnă vina asupra lui Ilie, tratându-l ca pe un nou Achan, responsabil de dezastrul secetei, deși cauza reală e propria lui idolatrie."
       },
       {
@@ -55418,11 +55455,12 @@
       {
        "t": "părăsit",
        "w": "părăsit",
-       "heb": "בַּעֲזָבְכֶם",
-       "translit": "ba-azavkhem",
+       "heb": "בַּעֲזָבְכֶם",
+       "translit": "baazavhem",
        "strong": "H5800",
-       "pos": "verb, qal infinitiv construct",
+       "pos": "verb, qal infinitiv + sufix",
        "def_ro": "când ați părăsit.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu (părăsirea poruncilor DOMNULUI) — nu există corespondent verificabil.",
        "dict_ro": "Rădăcina azav — Ilie inversează direct acuzația lui Ahab, identificând sursa reală a nenorocirii naționale: nu profetul care anunță judecata, ci regele care a provocat-o prin idolatrie sistematică, moștenită de la „casa tatălui tău” (Omri, dinastie cunoscută pentru politica religioasă sincretistă)."
       },
       {
@@ -55431,11 +55469,12 @@
       {
        "t": "idolii lui Baal",
        "w": "idolii lui Baal",
-       "heb": "הַבְּעָלִים",
-       "translit": "ha-be'alim",
+       "heb": "הַבְּעָלִים",
+       "translit": "habalim",
        "strong": "H1168",
-       "pos": "substantiv, masculin plural",
+       "pos": "nume propriu",
        "def_ro": "idolii Baal, zeii-Baal locali.",
+       "diff_ro": "Ca și „părăsit\", acest fragment cade după punctul unde textul grecesc disponibil se întrerupe.",
        "dict_ro": "Ba'alim — plural, referindu-se la multiplele manifestări locale ale cultului lui Baal, zeul canaanit al furtunii și fertilității — exact zeitatea a cărei putere de a aduce ploaie va fi contestată direct în confruntarea de pe Carmel."
       },
       {
@@ -55481,11 +55520,13 @@
       {
        "t": "Muntele Carmel",
        "w": "Muntele Carmel",
-       "heb": "הַר הַכַּרְמֶל",
-       "translit": "har ha-Karmel",
+       "heb": "הַר הַכַּרְמֶל",
+       "translit": "har hakarmel",
        "strong": "H3760",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular construct + nume propriu",
        "def_ro": "muntele Carmel.",
+       "greek": "ὄρος Καρμήλιον (oros Karmelion)",
+       "greek_def_ro": "ὄρος Καρμήλιον (oros Karmelion) — Muntele Carmel.",
        "dict_ro": "Har ha-Karmel — lanț muntos de coastă, la granița dintre teritoriul israelit și cel fenician, loc simbolic ideal pentru o confruntare religioasă: vizibil de departe, sacru probabil deja pentru ambele culturi, punct neutru de demonstrație publică maximă."
       },
       {
@@ -55494,11 +55535,12 @@
       {
        "t": "Așerei",
        "w": "Așerei",
-       "heb": "הָאֲשֵׁרָה",
-       "translit": "ha-Asherah",
+       "heb": "הָאֲשֵׁרָה",
+       "translit": "haașēra",
        "strong": "H842",
        "pos": "nume propriu",
        "def_ro": "Așera — zeița canaanită a fertilității.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de mențiunea profeților Așerei — nu există corespondent verificabil. De notat și substituția eufemistică „τοὺς προφήτας τῆς αἰσχύνης\" („profeții rușinii\") pentru „profeții lui Baal\", evitând numele zeului.",
        "dict_ro": "Asherah — divinitate feminină canaanită, adesea asociată cult ca pereche a lui Baal; remarcabil, profeții Așerei nu sunt menționați deloc mai departe în narațiune (doar cei ai lui Baal participă efectiv la confruntare) — o inconsecvență observată de comentatori, posibil explicată prin protecția specială oferită lor de Izebel însăși."
       },
       {
@@ -55551,11 +55593,13 @@
       {
        "t": "adunat",
        "w": "adunat",
-       "heb": "וַיִּקְבֹּץ",
-       "translit": "va-yikbots",
+       "heb": "וַיִּקְבֹּץ",
+       "translit": "vaikboț",
        "strong": "H6908",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "a adunat.",
+       "greek": "ἐπισυνάγω (episynago)",
+       "greek_def_ro": "ἐπισυνάγω (episynago) — a adună, a strânge laolaltă.",
        "dict_ro": "Rădăcina kavats — Ahab se supune fără ezitare cererii lui Ilie, semn poate al propriei lui nesiguranțe religioase reale, dispus să vadă o demonstrație publică decisivă mai degrabă decât să refuze provocarea profetului."
       },
       {
@@ -55603,11 +55647,13 @@
       {
        "t": "țopăi",
        "w": "țopăi",
-       "heb": "פֹּסְחִים",
-       "translit": "posechim",
+       "heb": "פֹּסְחִים",
+       "translit": "poshim",
        "strong": "H6452",
        "pos": "verb, qal participiu",
        "def_ro": "șchiopătați, săltați între.",
+       "greek": "χωλαίνω (cholaino)",
+       "greek_def_ro": "χωλαίνω (cholaino) — a șchiopăta, a șovăi.",
        "dict_ro": "Rashi explică „shtei ha-se'ippim” drept „cele două gânduri/opinii” — imaginea unui om care șchiopătează, incapabil să meargă drept, nedecis între două alegeri, incapabil să discearnă care e adevăratul Dumnezeu."
       },
       {
@@ -55616,11 +55662,12 @@
       {
        "t": "două convingeri",
        "w": "două convingeri",
-       "heb": "שְׁתֵּי הַסְּעִפִּים",
-       "translit": "shtei ha-se'ippim",
+       "heb": "הַסְּעִפִּים",
+       "translit": "hasipim",
        "strong": "H5587",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin plural",
        "def_ro": "cele două gânduri/ramuri.",
+       "diff_ro": "Septuaginta are aici o imagine fizică literală, „ἀμφοτέραις ταῖς ἰγνύαις\" („pe ambii genunchi/încheieturi\"), nu „două convingeri/opinii\" (seippim) ca în ebraică, unde imaginea e una mentală, de nehotărâre — traducătorul grec a înțeles diferit expresia idiomatică.",
        "dict_ro": "Se'ippim, literal „ramuri, crengi” — metaforă vie: poporul e ca un om călărind pe două crengi diferite deodată, incapabil de a se decide ferm, o sincretism religios practicat inconștient, fără angajament clar de o parte sau alta."
       },
       {
@@ -55667,11 +55714,13 @@
       {
        "t": "rămas",
        "w": "rămas",
-       "heb": "נוֹתַרְתִּי",
+       "heb": "נוֹתַרְתִּי",
        "translit": "notarti",
        "strong": "H3498",
        "pos": "verb, nifal perfect",
        "def_ro": "am rămas.",
+       "greek": "ὑπολείπομαι (hypoleipomai)",
+       "greek_def_ro": "ὑπολείπομαι (hypoleipomai) — a rămâne singur, a fi lăsat.",
        "dict_ro": "Rădăcina yatar, „a rămâne, a fi de prisos” — Ilie descrie disproporția copleșitoare a confruntării: unul singur împotriva a patru sute cincizeci; alți profeți ai DOMNULUI existau, dar ascunși de Ovadia (v.4), astfel „singur” se referă la vizibilitatea publică, nu la existența absolută."
       },
       {
@@ -55719,11 +55768,13 @@
       {
        "t": "taie",
        "w": "taie",
-       "heb": "וִינַתְּחֻהוּ",
-       "translit": "vi-natechuhu",
+       "heb": "וִינַתְּחֻהוּ",
+       "translit": "vinathuhu",
        "strong": "H5408",
-       "pos": "verb, piel imperfect",
+       "pos": "verb, piel jusiv + sufix",
        "def_ro": "și să-l taie în bucăți.",
+       "greek": "μελίζω (melizo)",
+       "greek_def_ro": "μελίζω (melizo) — a tăia în bucăți, a dezmembra.",
        "dict_ro": "Rădăcina natach, „a tăia [animal de jertfă] în bucăți” — termen tehnic ritual pentru pregătirea standard a unei jertfe de ardere-de-tot; condiția experimentului e rigidă și corectă — identică pentru ambele tabere, fără avantaj procedural pentru niciuna."
       },
       {
@@ -55766,10 +55817,11 @@
        "t": "răspunde",
        "w": "răspunde",
        "heb": "יַעֲנֶה",
-       "translit": "ya'aneh",
+       "translit": "iaane",
        "strong": "H6030",
        "pos": "verb, qal imperfect",
        "def_ro": "va răspunde.",
+       "diff_ro": "Textul grecesc disponibil pentru acest verset se întrerupe înainte de clauza centrală (dumnezeul care răspunde cu foc) — nu există corespondent verificabil.",
        "dict_ro": "Rădăcina anah — condiția stabilită de Ilie e strict verificabilă empiric: nu o dispută teologică abstractă, ci un test public, obiectiv, cu un rezultat vizibil și indiscutabil pentru toți cei prezenți."
       },
       {
@@ -55818,11 +55870,12 @@
       {
        "t": "cei mulți",
        "w": "cei mulți",
-       "heb": "הָרַבִּים",
-       "translit": "ha-rabbim",
+       "heb": "הָרַבִּים",
+       "translit": "harabim",
        "strong": "H7227",
-       "pos": "adjectiv, masculin",
+       "pos": "adjectiv, masculin plural",
        "def_ro": "cei mulți, majoritari.",
+       "diff_ro": "Textul grecesc disponibil pentru acest verset se întrerupe înainte de acest detaliu (motivul pentru care profeții lui Baal pregătesc primii, fiind mai mulți) — nu există corespondent verificabil.",
        "dict_ro": "Rashi observă un gest de curtoazie/strategie a lui Ilie: îi lasă pe profeții lui Baal să înceapă primii, tocmai pentru a le oferi toată vremea și avantajul numeric posibil, subliniind astfel, prin contrast maxim, eșecul lor total — condițiile testului nu puteau fi acuzate ulterior de vreo nedreptate procedurală."
       },
       {
@@ -55859,11 +55912,12 @@
       {
        "t": "dansat",
        "w": "dansat",
-       "heb": "וַיְפַסְּחוּ",
-       "translit": "va-yefassechu",
+       "heb": "וַיְפַסְּחוּ",
+       "translit": "vaifashu",
        "strong": "H6452",
-       "pos": "verb, piel imperfect",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "au sărit/dansat ritual.",
+       "diff_ro": "Textul grecesc disponibil pentru acest verset se întrerupe înainte de acest detaliu final (dansul profeților lui Baal lângă altar) — nu există corespondent verificabil.",
        "dict_ro": "Rashi citește Targumul lui Ionatan: „se învârteau/dansau după obiceiul lor” în jurul altarului — aceeași rădăcină ca „posechim” din v.21 („șchiopătând”), sugerând acum o coregrafie rituală extatică, disperată, în jurul altarului mut al lui Baal."
       },
       {
@@ -55911,11 +55965,13 @@
       {
        "t": "batjocorit",
        "w": "batjocorit",
-       "heb": "וַיְהַתֵּל",
-       "translit": "va-yehattel",
+       "heb": "וַיְהַתֵּל",
+       "translit": "vaihatēl",
        "strong": "H2048",
-       "pos": "verb, piel imperfect",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "și-a bătut joc.",
+       "greek": "μυκτηρίζω (mykterizo)",
+       "greek_def_ro": "μυκτηρίζω (mykterizo) — a lua în derâdere, a sfida cu disprețuire (literal: a-și încreți nasul).",
        "dict_ro": "Rădăcina hatal, „a batjocori, a-și bate joc” — unicul moment de ironie deschisă, satirică, a lui Ilie în toată narațiunea, folosind aceleași categorii omenești (ocupație, călătorie, somn) pentru a dezvălui absurditatea închinării la o statuie neputincioasă."
       },
       {
@@ -55924,11 +55980,12 @@
       {
        "t": "ocupat",
        "w": "ocupat",
-       "heb": "שִׂיג",
+       "heb": "שִׂיג",
        "translit": "sig",
        "strong": "H7873",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "urmărire, treabă.",
+       "diff_ro": "Septuaginta are aici doar o propoziție scurtă („și a fost amiază, și Eliahu Tesviteanul i-a batjocorit\"), fără cele patru posibile explicații detaliate (vorbește, e ocupat, e pe drum, doarme) din ebraică — nu există corespondent verificabil pentru acest detaliu.",
        "dict_ro": "Sig — cuvânt rar; Rashi îl explică prin „poate are treabă cu sfetnicii lui acum” sau „poate e ocupat urmărind pe cineva la război acum” — o glosă concretă, aproape comică, a inactivității zeului tăcut."
       },
       {
@@ -55937,11 +55994,12 @@
       {
        "t": "doarme",
        "w": "doarme",
-       "heb": "יָשֵׁן",
-       "translit": "yashen",
+       "heb": "יָשֵׁן",
+       "translit": "iașēn",
        "strong": "H3463",
-       "pos": "adjectiv, masculin",
+       "pos": "adjectiv, masculin singular",
        "def_ro": "adormit.",
+       "diff_ro": "Vezi nota de la „ocupat\" — același fragment, absent din textul grecesc disponibil aici.",
        "dict_ro": "Yashen, „adormit” — ultima și cea mai directă ironie: chiar dacă zeul ar exista, condiția lui de „somn” confirmă neputința totală, incapabil să reacționeze la propriii lui adoratori disperați."
       },
       {
@@ -55989,12 +56047,14 @@
       {
        "t": "tăiat",
        "w": "tăiat",
-       "heb": "וַיִּתְגֹּדְדוּ",
-       "translit": "va-yitgodedu",
+       "heb": "וַיִּתְגֹּדְדוּ",
+       "translit": "vaitgoddu",
        "strong": "H1413",
-       "pos": "verb, hitpael imperfect",
+       "pos": "verb, hitpolel imperfect consecutiv",
        "def_ro": "s-au tăiat, s-au brăzdat.",
-       "dict_ro": "Rădăcina gadad, „a se tăia, a face incizii” — practică rituală păgână interzisă explicit poporului Israel (Deuteronom 14:1, „nu vă veți face incizii... pentru un mort”); contrastul cu autocontrolul disciplinat al lui Ilie e maxim, subliniind natura autodistructivă a cultului lui Baal."
+       "greek": "κατατέμνομαι (katatemnomai)",
+       "greek_def_ro": "κατατέμνομαι (katatemnomai) — a se tăia, a se brăzda.",
+       "dict_ro": "Rădăcina gadad, „a se tăia, a face incizii” — practică rituală păgână interzisă explicit poporului Israel (Deuteronomul 14:1, „nu vă veți face incizii... pentru un mort”); contrastul cu autocontrolul disciplinat al lui Ilie e maxim, subliniind natura autodistructivă a cultului lui Baal."
       },
       {
        "t": " cu săbiile și cuțitele, după obiceiul lor, până le-a "
@@ -56002,11 +56062,12 @@
       {
        "t": "țâșnit sângele",
        "w": "țâșnit sângele",
-       "heb": "עַד־שְׁפָךְ־דָּם",
-       "translit": "ad-shefokh-dam",
+       "heb": "שְׁפָךְ דָּם",
+       "translit": "șefah dam",
        "strong": "H8210",
-       "pos": "verb, qal infinitiv construct",
+       "pos": "verb, qal infinitiv + substantiv, masculin singular",
        "def_ro": "până a curs sângele.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu final (sângele care țâșnea din tăieturile lor) — nu există corespondent verificabil.",
        "dict_ro": "Shafakh dam, „a vărsa sânge” — culminarea disperării rituale: profeții lui Baal se rănesc singuri, sperând ca oferirea propriului sânge să provoace o reacție divină — gest care nu face decât să adâncească tăcerea totală care urmează la v.29."
       },
       {
@@ -56065,11 +56126,13 @@
       {
        "t": "profețit",
        "w": "profețit",
-       "heb": "וַיִּתְנַבְּאוּ",
-       "translit": "va-yitnabbe'u",
+       "heb": "וַיִּתְנַבְּאוּ",
+       "translit": "vaitnabu",
        "strong": "H5012",
-       "pos": "verb, hitpael imperfect",
+       "pos": "verb, hitpael imperfect consecutiv",
        "def_ro": "au profețit, au intrat în extaz profetic.",
+       "greek": "προφητεύω (propheteuo)",
+       "greek_def_ro": "προφητεύω (propheteuo) — a profetiza.",
        "dict_ro": "Rădăcina naba, la forma reflexivă — nu profeție veritabilă, ci o formă de extaz ritual auto-indus, o stare delirantă de comportament frenetic; textul folosește termenul tehnic al profeției autentice ironic, pentru a descrie o contrafacere goală, fără conținut real."
       },
       {
@@ -56078,11 +56141,12 @@
       {
        "t": "asculte",
        "w": "asculte",
-       "heb": "קָשֶׁב",
-       "translit": "kashev",
+       "heb": "קָשֶׁב",
+       "translit": "kașev",
        "strong": "H7182",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "atenție, ascultare.",
+       "diff_ro": "Finalul versetului grecesc e mai scurt, „καὶ οὐκ ἦν φωνή\" („și nu era glas\"), fără tripla formulare ebraică „nici sunet, nici cine să răspundă sau să asculte\" — nu există corespondent separat verificabil pentru „asculte\".",
        "dict_ro": "Kashev — triplă negație finală (nici sunet, nici răspuns, nici atenție) desăvârșește imaginea tăcerii absolute, totale, a lui Baal — verdictul empiric al testului propus la v.24 e deja, la acest punct, complet dovedit."
       },
       {
@@ -56141,11 +56205,12 @@
       {
        "t": "refăcut",
        "w": "refăcut",
-       "heb": "וַיְרַפֵּא",
-       "translit": "va-yerappe",
+       "heb": "וַיְרַפֵּא",
+       "translit": "vairapē",
        "strong": "H7495",
-       "pos": "verb, piel imperfect",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "a vindecat, a refăcut.",
+       "diff_ro": "Textul grecesc disponibil pentru acest verset se termină înainte de acest detaliu (refacerea altarului distrus al DOMNULUI) — nu există corespondent verificabil.",
        "dict_ro": "Rădăcina rafa, „a vindeca” — alegere verbală remarcabilă: nu simpla „reconstruire” a unui zid, ci „vindecarea” altarului, ca și cum piatra însăși ar fi o rană a memoriei colective; Rashi identifică acest altar dărâmat cu cel construit odinioară de regele Saul pe Carmel (1 Samuel 15:12), distrus ulterior de regii idolatri ai lui Israel."
       },
       {
@@ -56196,7 +56261,9 @@
        "strong": "H68",
        "pos": "substantiv, feminin plural",
        "def_ro": "pietre.",
-       "dict_ro": "Even, „piatră” — alegerea numărului doisprezece, câte una pentru fiecare trib, are un precedent direct: Moise ridică doisprezece stâlpi la poalele Sinaiului (Exod 24:4), iar Iosua așază douăsprezece pietre din Iordan la Ghilgal (Iosua 4:20). Gestul lui Ilie afirmă simbolic unitatea celor douăsprezece triburi — deși zece dintre ele trăiau la acea vreme separat, în regatul de nord — printr-un act de cult centrat pe Muntele Carmel."
+       "greek": "λίθος (lithos)",
+       "greek_def_ro": "λίθος (lithos) — piatră.",
+       "dict_ro": "Even, „piatră” — alegerea numărului doisprezece, câte una pentru fiecare trib, are un precedent direct: Moise ridică doisprezece stâlpi la poalele Sinaiului (Exodul 24:4), iar Iosua așază douăsprezece pietre din Iordan la Ghilgal (Iosua 4:20). Gestul lui Ilie afirmă simbolic unitatea celor douăsprezece triburi — deși zece dintre ele trăiau la acea vreme separat, în regatul de nord — printr-un act de cult centrat pe Muntele Carmel."
       },
       {
        "t": ", după numărul triburilor copiilor lui Iacov, la care venise cuvântul DOMNULUI, spunând: „Numele tău va fi "
@@ -56204,11 +56271,13 @@
       {
        "t": "Israel",
        "w": "Israel",
-       "heb": "יִשְׂרָאֵל",
-       "translit": "Israël",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv propriu",
+       "pos": "nume propriu",
        "def_ro": "Israel — numele dat lui Iacov.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel.",
        "dict_ro": "Numele Israel, „cel ce a luptat cu Dumnezeu”, i-a fost dat lui Iacov mai întâi la Peniel, după lupta cu îngerul (Geneza 32:29), și reafirmat apoi la Betel (Geneza 35:10). Rashi observă că menționarea explicită a acestui episod în gura lui Ilie, la Carmel, amintește poporului divizat de rădăcina lui comună, unică — un contrast direct cu ruptura religioasă provocată de cultul lui Baal."
       },
       {
@@ -56256,11 +56325,12 @@
       {
        "t": "șanț",
        "w": "șanț",
-       "heb": "תְּעָלָה",
+       "heb": "תְּעָלָה",
        "translit": "teala",
        "strong": "H8585",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "șanț, canal.",
+       "diff_ro": "Septuaginta are aici „θάλασσαν\" („o mare\" — un bazin de apă), nu „șanț\" (teala) ca în ebraică — o imagine mult mai grandioasă pentru acest bazin ritual, repetată consecvent în versetele grecești următoare (18:33, 18:35, 18:38).",
        "dict_ro": "Te'alah — termen tehnic pentru un canal săpat în jurul altarului; Rashi îl traduce, folosind terminologia franceză medievală a vremii lui, prin „fossade” (șanț de apărare). Rolul lui aici e dublu: separă vizual altarul de teren, dar mai ales elimină orice suspiciune de truc — apa turnată nu se poate scurge neobservată, orice foc care ar apărea ulterior nu poate fi atribuit unei scântei ascunse."
       },
       {
@@ -56307,12 +56377,15 @@
       {
        "t": "tăiat",
        "w": "tăiat",
-       "heb": "וַיְנַתַּח",
-       "translit": "vayenatah",
+       "heb": "וַיְנַתַּח",
+       "translit": "vainatah",
        "strong": "H5408",
-       "pos": "verb, piel imperfect",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "a tăiat în bucăți.",
-       "dict_ro": "Natah, „a tăia în bucăți” — același verb tehnic folosit pentru tranșarea jertfelor de ardere-de-tot în Levitic 1:6,12; Ilie urmează întocmai procedura rituală mozaică a jertfei, spre deosebire de profeții lui Baal, ale căror gesturi (v.28) sunt haotice și automutilante — contrastul dintre ordine sacră și frenezie păgână e deliberat construit de narator."
+       "greek": "μελίζω (melizo)",
+       "greek_def_ro": "μελίζω (melizo) — a tăia în bucăți, a dezmembra.",
+       "diff_ro": "Septuaginta include aici deja, în structura acestui verset, și porunca despre cele patru ulcioare cu apă (care în ebraică vine abia la versetul următor) — o compresie/reordonare a materialului.",
+       "dict_ro": "Natah, „a tăia în bucăți” — același verb tehnic folosit pentru tranșarea jertfelor de ardere-de-tot în Leviticul 1:6,12; Ilie urmează întocmai procedura rituală mozaică a jertfei, spre deosebire de profeții lui Baal, ale căror gesturi (v.28) sunt haotice și automutilante — contrastul dintre ordine sacră și frenezie păgână e deliberat construit de narator."
       },
       {
        "t": " taurul și l-a pus peste lemne."
@@ -56360,11 +56433,12 @@
       {
        "t": "ulcioare",
        "w": "ulcioare",
-       "heb": "כַדִּים",
-       "translit": "kadim",
+       "heb": "כַדִּים",
+       "translit": "hadim",
        "strong": "H3537",
-       "pos": "substantiv, masculin plural",
+       "pos": "substantiv, feminin plural",
        "def_ro": "ulcioare, vase de lut.",
+       "diff_ro": "Septuaginta a inclus deja mențiunea celor patru ulcioare de apă („τέσσαρας ὑδρίας ὕδατος\") în structura versetului anterior (18:33) — nu are corespondent separat aici, din cauza reordonării/compresiei materialului în traducerea greacă.",
        "dict_ro": "Kad — vasul obișnuit pentru purtat apă (cf. Rebeca la fântână, Geneza 24:14); repetarea de trei ori a turnării apei, într-o perioadă de secetă severă (1 Împărați 18:5, unde apa era atât de rară încât Ahab și Ovadia cutreierau țara căutând izvoare) transformă gestul într-o dovadă publică maximă: apa, resursa cea mai prețioasă a momentului, e irosită deliberat, tocmai pentru a elimina orice bănuială de truc."
       },
       {
@@ -56417,11 +56491,13 @@
       {
        "t": "apa",
        "w": "apa",
-       "heb": "הַמַּיִם",
-       "translit": "hamayim",
+       "heb": "הַמַּיִם",
+       "translit": "hamaim",
        "strong": "H4325",
        "pos": "substantiv, masculin plural",
        "def_ro": "apa.",
+       "greek": "ὕδωρ (hydor)",
+       "greek_def_ro": "ὕδωρ (hydor) — apă.",
        "dict_ro": "Mayim — Rashi păstrează aici o tradiție remarcabilă: cel care a purtat efectiv apa din mare (probabil de pe coasta Carmelului, cea mai apropiată sursă suficient de mare pentru un asemenea volum) a fost tânărul discipol Elișa, al cărui merit — udarea mâinilor lui Ilie (o expresie folosită mai târziu literal, în 2 Împărați 3:11, „Elișa... care turna apă pe mâinile lui Ilie”) — i-a adus mai apoi darul profetic dublu."
       },
       {
@@ -56461,10 +56537,11 @@
        "t": "cuvântul Tău",
        "w": "cuvântul Tău",
        "heb": "וּבִדְבָרְךָ",
-       "translit": "uvidvar'cha",
+       "translit": "uvidvarha",
        "strong": "H1697",
-       "pos": "substantiv, masculin, cu sufix pronominal",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "prin cuvântul Tău, la porunca Ta.",
+       "diff_ro": "Septuaginta are aici „διὰ σὲ\" („din pricina Ta\"), nu „după cuvântul Tău\" (uvidvarha) ca în ebraică — iar întreaga rugăciune a lui Eliahu e reorganizată și extinsă în greacă, incluzând deja elemente din versetul următor („ἐπάκουσόν μου\" repetat, plus mențiunea focului, absentă aici în ebraică).",
        "dict_ro": "Davar, „cuvânt, poruncă” — textul masoretic are aici o formă scrisă neobișnuită (ketiv „ובדבריך”, plural, „prin cuvintele Tale”) citită diferit (qere „וּבִדְבָרְךָ”, singular). Rashi explică miza teologică a expresiei: Ilie subliniază că a construit un altar și a adus jertfă pe un munte (o bamah), lucru interzis în afara Templului după centralizarea cultului — dar a făcut-o EXPLICIT „după cuvântul Tău”, adică printr-o îngăduință profetică excepțională, nu din proprie inițiativă."
       },
       {
@@ -56510,11 +56587,14 @@
       {
        "t": "Răspunde-mi",
        "w": "Răspunde-mi",
-       "heb": "עֲנֵנִי",
-       "translit": "aneni",
+       "heb": "עֲנֵנִי עֲנֵנִי",
+       "translit": "anēni anēni",
        "strong": "H6030",
-       "pos": "verb, qal imperativ, cu sufix pronominal",
+       "pos": "verb, qal imperativ + sufix + verb, qal imperativ + sufix",
        "def_ro": "răspunde-mi.",
+       "greek": "ἐπακούω (epakouo)",
+       "greek_def_ro": "ἐπακούω (epakouo) — a asculta, a răspunde ascultând.",
+       "diff_ro": "Această rugăminte repetată apare deja, întreagă, inclusă în versetul grecesc anterior (18:36) — Septuaginta tratează cele două versete ca un continuum, nu ca unități separate.",
        "dict_ro": "Anah, „a răspunde” — repetat de două ori, apel dublu intens. Targum Yonatan parafrazează teologic dubla cerere ca „răspunde-mi cu foc, răspunde-mi cu ploaie” — anticipând ploaia promisă la v.1 și adusă efectiv la finalul capitolului (v.41-45). Rashi notează grija reală a lui Ilie, exprimată în surse rabinice: dacă focul ar cădea fără explicație clară dinaintea poporului, riscul era ca minunea să fie atribuită vrăjitoriei, nu DOMNULUI — de aceea rugăciunea insistă explicit asupra scopului „ca să știe poporul acesta”, exact ca Moise înaintea răscoalei lui Korah (Numeri 16:28-30), care își leagă public autoritatea profetică de rezultatul vizibil al unui semn."
       },
       {
@@ -56562,10 +56642,12 @@
        "t": "foc",
        "w": "foc",
        "heb": "אֵשׁ",
-       "translit": "eș",
+       "translit": "ēș",
        "strong": "H784",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "foc.",
+       "greek": "πῦρ (pyr)",
+       "greek_def_ro": "πῦρ (pyr) — foc.",
        "dict_ro": "Esh — focul DOMNULUI aici nu doar consumă jertfa (funcție normală a focului de altar), ci mistuie totul: lemnele, pietrele altarului însuși, țărâna de dedesubt și chiar apa din șanț, „a lins-o” (lichah, verb folosit altfel pentru limbile animalelor, cf. Judecători 7:5) — o intensitate care depășește complet natura fizică a focului obișnuit, semn al unei intervenții supranaturale totale, fără ambiguitate posibilă."
       },
       {
@@ -56623,10 +56705,11 @@
        "t": "Dumnezeul",
        "w": "Dumnezeul",
        "heb": "הָאֱלֹהִים",
-       "translit": "haElohim",
+       "translit": "haelohim",
        "strong": "H430",
-       "pos": "substantiv, masculin plural (formă de măreție), cu articol",
+       "pos": "substantiv, masculin plural",
        "def_ro": "Dumnezeul, El [este] Dumnezeu.",
+       "diff_ro": "Septuaginta condensează dubla repetare ebraică („DOMNUL El este Dumnezeul! DOMNUL El este Dumnezeul!\") într-o singură propoziție, cu adaosul „ἀληθῶς\" („cu adevărat\") — accentul retoric e păstrat, dar structura repetitivă exactă nu.",
        "dict_ro": "Ha-Elohim, cu articolul hotărât — Rashi subliniază precis ce anume recunoaște poporul: nu doar că DOMNUL e „un” dumnezeu printre alții, ci că El, și NU Baal, este singurul Dumnezeu adevărat. Repetarea de două ori a formulei (o dată pentru fiecare din cele două minuni cerute la v.37 — focul, deja căzut, și ploaia care va urma) încheie public, definitiv, disputa deschisă de Ilie la v.21: „Până când veți mai țopăi între două convingeri?”"
       },
       {
