@@ -83592,11 +83592,13 @@
       {
        "t": "și-a încins mijlocul",
        "w": "și-a încins mijlocul",
-       "heb": "וַיְשַׁנֵּס מָתְנָיו",
-       "translit": "vaișanes motnav",
+       "heb": "וַיְשַׁנֵּס",
+       "translit": "vaișanēs",
        "strong": "H8151",
-       "pos": "verb, piel, imperfect consecutiv + substantiv, dual + sufix",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "și-a strâns haina la brâu (ca să alerge).",
+       "greek": "συσφίγγω (sysphingo)",
+       "greek_def_ro": "συσφίγγω (sysphingo) — a-și încinge, a-și strânge mijlocul.",
        "dict_ro": "Șanas — „a încinge, a strânge”, verb care apare o singură dată în Biblie; Rashi observă că vine să arate graba, ca a unui viteaz. Eliahu, după biruința de pe Carmel și ploaia care a pus capăt secetei, aleargă pe jos înaintea carului lui Ahab până la Izreel, peste douăzeci și cinci de kilometri. Targumul, citat de Rashi și Radak, explică „mâna DOMNULUI” ca „un duh de tărie de la DOMNUL”. Talmudul (Zevahim 102a; Menahot 98a) învață de aici, prin Rabi Iohanan, respectul datorat regalității, chiar și unui rege rău."
       },
       {
@@ -83661,11 +83663,13 @@
       {
        "t": "Izebel",
        "w": "Izebel",
-       "heb": "אִיזָבֶל",
-       "translit": "Izevel",
+       "heb": "לְאִיזֶבֶל",
+       "translit": "leizevel",
        "strong": "H348",
-       "pos": "nume propriu, feminin",
+       "pos": "nume propriu",
        "def_ro": "Izabela, soția lui Ahab, fiica regelui Sidonului.",
+       "greek": "Ἰεζάβελ (Iezabel)",
+       "greek_def_ro": "Ἰεζάβελ (Iezabel) — Izebel.",
        "dict_ro": "Izevel — fiica lui Etbaal, regele sidonienilor (1 Împărați 16:31), soția lui Ahab și principala promotoare a cultului lui Baal în Israel; ea îi ucisese pe profeții DOMNULUI (1 Împărați 18:4). Numele ei a devenit în tradiție simbolul idolatriei agresive (Apocalipsa 2:20). Ahab îi povestește „tot ce făcuse Eliahu” — Metzudat David: coborârea focului și a ploii —, dar Izebel nu se înfrânge în fața minunii, ci jură răzbunare."
       },
       {
@@ -83714,8 +83718,10 @@
        "heb": "אֱלֹהִים",
        "translit": "elohim",
        "strong": "H430",
-       "pos": "substantiv, masculin plural (cu verb la plural)",
+       "pos": "substantiv, masculin plural",
        "def_ro": "zeii.",
+       "greek": "θεός (theos)",
+       "greek_def_ro": "θεός (theos) — dumnezeu, zeu.",
        "dict_ro": "Elohim — cu verbul la plural (yaasun), aici înseamnă „zeii”, nu Dumnezeul lui Israel: Radak și Metzudat David explică pluralul prin faptul că Izebel slujea lui Baal și Așerei. Formula „așa să-mi facă zeii și încă mai mult” e un jurământ cu blestem asupra propriei persoane, cunoscut și din gura lui Rut (1:17) și a regilor (2 Împărați 6:31). Rashi completează: „așa cum ai făcut tu profeților lui Baal”."
       },
       {
@@ -83775,11 +83781,13 @@
       {
        "t": "Beer-Șeva",
        "w": "Beer-Șeva",
-       "heb": "בְּאֵר שֶׁבַע",
-       "translit": "Beer Șeva",
+       "heb": "בְּאֵר",
+       "translit": "beēr",
        "strong": "H884",
-       "pos": "nume propriu compus",
+       "pos": "nume propriu",
        "def_ro": "Beer-Șeba („fântâna jurământului”), la marginea sudică a țării.",
+       "greek": "Βηρσαβεέ (Bersabee)",
+       "greek_def_ro": "Βηρσαβεέ (Bersabee) — Beer-Șeva (un singur cuvânt în greacă).",
        "dict_ro": "Beer-Șeva — „fântâna jurământului” (sau „a celor șapte”), unde Avraam a încheiat legământul cu Abimeleh (Geneza 21:31), la marginea de sud a țării, de unde vine expresia „de la Dan până la Beer-Șeba”. Radak explică de ce se spune „care aparține lui Iuda”: cetatea era în moștenirea lui Simeon, inclusă în cea a lui Iuda, iar precizarea arată că Eliahu ieșise de sub stăpânirea lui Ahab. Tot Radak respinge lectura „s-a temut” (vayira) pentru „a văzut” (vayar): Eliahu a văzut primejdia și a fugit ca să-și scape viața."
       },
       {
@@ -83836,7 +83844,8 @@
        "strong": "H7574",
        "pos": "substantiv, masculin singular",
        "def_ro": "tufă de grozamă (retama), arbust al deșertului.",
-       "dict_ro": "Rotem — retama (grozama albă), arbustul cel mai mare din deșertul Negevului, care dă puțină umbră; din rădăcinile lui se face un cărbune care arde foarte fierbinte (Psalmii 120:4, „cărbuni de rotem”, citat de Metzudat Țion). Radak observă că e „un singur tufiș”: singurul adăpost în tot pustiul. Rugăciunea lui Eliahu, „ia-mi sufletul”, seamănă cu cea a lui Moise (Numeri 11:15) și a lui Iona (Iona 4:3). Metzudat David: fiindcă sunt în suferință, zilele mele îmi par multe; nu sunt mai bun decât părinții mei, ca să scap de moarte."
+       "diff_ro": "Septuaginta transliterează aici „Ῥαθμέν\" ca pe un nume de loc, nu traduce planta „rotem\" (un arbust de mătură/grozamă, singurul tufiș care dă umbră în pustiul Negev) ca în ebraică.",
+       "dict_ro": "Rotem — retama (grozama albă), arbustul cel mai mare din deșertul Negevului, care dă puțină umbră; din rădăcinile lui se face un cărbune care arde foarte fierbinte (Psalmul 120:4, „cărbuni de rotem”, citat de Metzudat Țion). Radak observă că e „un singur tufiș”: singurul adăpost în tot pustiul. Rugăciunea lui Eliahu, „ia-mi sufletul”, seamănă cu cea a lui Moise (Numeri 11:15) și a lui Iona (Iona 4:3). Metzudat David: fiindcă sunt în suferință, zilele mele îmi par multe; nu sunt mai bun decât părinții mei, ca să scap de moarte."
       },
       {
        "t": " și a cerut ca sufletul să-i moară; și a spus: „Destul! Acum, DOAMNE, ia-mi sufletul, căci nu sunt mai bun decât strămoșii mei.”"
@@ -83901,6 +83910,7 @@
        "strong": "H4397",
        "pos": "substantiv, masculin singular",
        "def_ro": "un înger, un trimis.",
+       "diff_ro": "Septuaginta are aici doar „τις\" („cineva\"), nu „un înger\" (malah) ca în ebraică — abia la a doua atingere (19:7) Septuaginta spune explicit „ἄγγελος Κυρίου\" („îngerul DOMNULUI\").",
        "dict_ro": "Malah — trimisul lui Dumnezeu. Îngerul vine în pustiu la profetul care vrea să moară, cum venise la Agar sub tufiș (Geneza 21:17), și nu-i ține o predică, ci îi spune doar: „ridică-te, mănâncă”. Metzudat David și Radak explică expresia „și iată aceasta” (vehine ze): arată iuțeala lucrului — de îndată ce a adormit, a venit îngerul, ca în „glasul iubitului meu, iată-l că vine” (Cântarea cântărilor 2:8). Radak mai observă că era „un singur” tufiș de retama, abia suficient ca adăpost."
       },
       {
@@ -83952,11 +83962,13 @@
       {
        "t": "o turtă coaptă pe cărbuni",
        "w": "o turtă coaptă pe cărbuni",
-       "heb": "עֻגַת רְצָפִים",
-       "translit": "ugat rețafim",
+       "heb": "עֻגַת",
+       "translit": "ugat",
        "strong": "H5692",
-       "pos": "substantiv, feminin singular, în construcție + substantiv, masculin plural",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "turtă coaptă pe pietre înfierbântate sau pe jar.",
+       "greek": "ἐγκρυφίας (enkryphias)",
+       "greek_def_ro": "ἐγκρυφίας (enkryphias) — turtă coaptă în cenușă/pe cărbuni.",
        "dict_ro": "Uga — turta plată, pâinea simplă a drumului, coaptă direct pe jar sau pe pietre fierbinți (rețafim), cum explică Rashi și Metzudat Țion prin Isaia 6:6, „în mâna lui era un cărbune aprins (rițpa)”. E aceeași pâine pe care Sara o pregătește pentru oaspeții lui Avraam (Geneza 18:6). Radak observă un detaliu: Eliahu n-a mâncat toată turta și n-a băut toată apa, căci îngerul i-a spus a doua oară să mănânce, iar Scriptura nu pomenește o a doua turtă."
       },
       {
@@ -84012,11 +84024,13 @@
       {
        "t": "drumul",
        "w": "drumul",
-       "heb": "הַדָּרֶךְ",
-       "translit": "haderekh",
+       "heb": "הַדָּרֶךְ",
+       "translit": "hadareh",
        "strong": "H1870",
-       "pos": "substantiv, masculin/feminin singular, cu articol",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "drumul, calea.",
+       "greek": "ὁδός (hodos)",
+       "greek_def_ro": "ὁδός (hodos) — drum, cale.",
        "dict_ro": "Derekh — drumul, calea, iar la figurat „felul de a trăi”. „Lung îți va fi drumul” — literal „prea mult e drumul pentru tine”. Metzudat David: drumul pe care vrei să mergi e departe de aici și nu vei găsi ce să mănânci; de aceea mănâncă iarăși și te vei sătura pentru multă vreme. Radak observă că Eliahu nici nu știa încotro merge: a pornit la întâmplare și a fost călăuzit, ca vacile care au dus chivotul „drept pe drum” (1 Samuel 6:12), până la muntele unde se descoperise Dumnezeu lui Moise."
       },
       {
@@ -84065,12 +84079,14 @@
       {
        "t": "patruzeci de zile",
        "w": "patruzeci de zile",
-       "heb": "אַרְבָּעִים יוֹם",
-       "translit": "arbaim iom",
+       "heb": "אַרְבָּעִים",
+       "translit": "arbaim",
        "strong": "H705",
-       "pos": "numeral + substantiv",
+       "pos": "numeral",
        "def_ro": "patruzeci de zile.",
-       "dict_ro": "Arbaim — patruzeci, numărul încercării și al pregătirii în Scriptură: patruzeci de zile și nopți a stat Moise pe munte (Exod 24:18; 34:28), patruzeci de ani a umblat Israel prin pustiu, patruzeci de zile a postit Iisus (Matei 4:2). Eliahu refac drumul lui Moise spre Horeb, „muntele lui Dumnezeu”. Radak subliniază diferența: Moise n-a mâncat deloc, pe când Eliahu a mers „cu puterea acelei mâncări”, care, spune Metzudat David, printr-o minune nu s-a mistuit în el tot acest timp."
+       "greek": "τεσσαράκοντα (tessarakonta)",
+       "greek_def_ro": "τεσσαράκοντα (tessarakonta) — patruzeci.",
+       "dict_ro": "Arbaim — patruzeci, numărul încercării și al pregătirii în Scriptură: patruzeci de zile și nopți a stat Moise pe munte (Exodul 24:18; 34:28), patruzeci de ani a umblat Israel prin pustiu, patruzeci de zile a postit Iisus (Matei 4:2). Eliahu refac drumul lui Moise spre Horeb, „muntele lui Dumnezeu”. Radak subliniază diferența: Moise n-a mâncat deloc, pe când Eliahu a mers „cu puterea acelei mâncări”, care, spune Metzudat David, printr-o minune nu s-a mistuit în el tot acest timp."
       },
       {
        "t": " și patruzeci de nopți, până la muntele lui Dumnezeu, [la] Horeb."
@@ -84122,12 +84138,14 @@
       {
        "t": "în peșteră",
        "w": "în peșteră",
-       "heb": "אֶל־הַמְּעָרָה",
-       "translit": "el-hamaara",
+       "heb": "הַמְּעָרָה",
+       "translit": "hamara",
        "strong": "H4631",
-       "pos": "prepoziție + substantiv, feminin singular, cu articol",
+       "pos": "substantiv, feminin singular",
        "def_ro": "în peșteră (cea anume).",
-       "dict_ro": "Meara — peștera; articolul („peștera”) arată că e una cunoscută. Rashi, Metzudat David și Radak o identifică cu „scobitura stâncii” în care a stat Moise când a trecut slava lui Dumnezeu (Exod 33:22), pe care Onkelos o traduce „peștera stâncii”. Talmudul (Meghila 19b) le leagă: dacă ar fi rămas în peștera în care au stat Moise și Eliahu o crăpătură cât urechea unui ac, n-ar fi putut îndura lumina. Întrebarea „ce faci aici, Eliahu?” e, după Radak, ca „unde ești?” din Geneza 3:9: o deschidere de dialog, nu o cerere de informație."
+       "greek": "σπήλαιον (spelaion)",
+       "greek_def_ro": "σπήλαιον (spelaion) — peșteră.",
+       "dict_ro": "Meara — peștera; articolul („peștera”) arată că e una cunoscută. Rashi, Metzudat David și Radak o identifică cu „scobitura stâncii” în care a stat Moise când a trecut slava lui Dumnezeu (Exodul 33:22), pe care Onkelos o traduce „peștera stâncii”. Talmudul (Meghila 19b) le leagă: dacă ar fi rămas în peștera în care au stat Moise și Eliahu o crăpătură cât urechea unui ac, n-ar fi putut îndura lumina. Întrebarea „ce faci aici, Eliahu?” e, după Radak, ca „unde ești?” din Geneza 3:9: o deschidere de dialog, nu o cerere de informație."
       },
       {
        "t": " și a înnoptat acolo. Și iată, cuvântul DOMNULUI a venit la el și i-a spus: „De ce ești aici, Eliahu?”"
@@ -84190,11 +84208,13 @@
       {
        "t": "Am fost foarte zelos",
        "w": "Am fost foarte zelos",
-       "heb": "קַנֹּא קִנֵּאתִי",
-       "translit": "kano kineti",
+       "heb": "קַנֹּא קִנֵּאתִי",
+       "translit": "kano kinēti",
        "strong": "H7065",
-       "pos": "verb, piel, infinitiv absolut + perfect, persoana I singular",
+       "pos": "verb, piel infinitiv absolut + verb, piel perfect",
        "def_ro": "am râvnit cu râvnă, am fost plin de zel.",
+       "greek": "ζηλόω (zeloo)",
+       "greek_def_ro": "ζηλόω (zeloo) — a fi plin de zel, a arde de gelozie sfântă.",
        "dict_ro": "Kana — „a fi zelos, a arde de râvnă”; aceeași formulă o spune Dumnezeu despre Pinhas: „în râvna lui pentru Mine” (bekano et kinati, Numeri 25:11), la începutul pericopei Pinhas — de aici alegerea haftarei; Metzudat Țion face legătura. O tradiție evreiască veche îi apropie pe cei doi până la a spune că Pinhas este Eliahu. Rashi și Radak arată însă, la 19:16, că Dumnezeu nu primește acest zel acuzator: „nu vreau profeția ta, căci ții acuzația împotriva copiilor Mei”. Pavel citează versetul în Romani 11:2-4."
       },
       {
@@ -84255,12 +84275,14 @@
       {
        "t": "un vânt puternic",
        "w": "un vânt puternic",
-       "heb": "וְרוּחַ גְּדוֹלָה וְחָזָק",
-       "translit": "veruah ghedola vehazak",
+       "heb": "וְרוּחַ גְּדוֹלָה",
+       "translit": "veruah gedola",
        "strong": "H7307",
-       "pos": "conjuncție + substantiv, feminin singular + adjective",
+       "pos": "substantiv, masculin și feminin singular + adjectiv, feminin singular",
        "def_ro": "un vânt mare și puternic.",
-       "dict_ro": "Ruah — vânt, suflare, duh; aici vântul năprasnic care „sfărâmă munții”. Scena reia teofania de la Sinai — vânt, cutremur, foc (Exod 19:16-18) —, dar cu o negație repetată: „nu în vânt este DOMNUL”. Targumul, citat de Rashi și Metzudat David, le citește ca „tabere de îngeri”: îngeri ai vântului, ai cutremurului, ai focului, care trec înaintea slavei. Radak: slava însăși trece la urmă, iar „DOMNUL trece” e ca la Moise: „și DOMNUL a trecut pe dinaintea lui” (Exod 34:6)."
+       "greek": "πνεῦμα μέγα (pneuma mega)",
+       "greek_def_ro": "πνεῦμα μέγα (pneuma mega) — vânt mare, suflare puternică.",
+       "dict_ro": "Ruah — vânt, suflare, duh; aici vântul năprasnic care „sfărâmă munții”. Scena reia teofania de la Sinai — vânt, cutremur, foc (Exodul 19:16-18) —, dar cu o negație repetată: „nu în vânt este DOMNUL”. Targumul, citat de Rashi și Metzudat David, le citește ca „tabere de îngeri”: îngeri ai vântului, ai cutremurului, ai focului, care trec înaintea slavei. Radak: slava însăși trece la urmă, iar „DOMNUL trece” e ca la Moise: „și DOMNUL a trecut pe dinaintea lui” (Exodul 34:6)."
       },
       {
        "t": " sfărâmă munții și sparge pietrele înaintea DOMNULUI – dar nu în vânt este DOMNUL; și după vânt, un cutremur – dar nu în cutremur este DOMNUL;"
@@ -84320,12 +84342,14 @@
       {
        "t": "un sunet firav, ușor",
        "w": "un sunet firav, ușor",
-       "heb": "קוֹל דְּמָמָה דַקָּה",
-       "translit": "kol demama daka",
+       "heb": "דְּמָמָה דַקָּה",
+       "translit": "demama daka",
        "strong": "H1827",
-       "pos": "substantiv + substantiv, feminin singular + adjectiv",
+       "pos": "substantiv, feminin singular + adjectiv, feminin singular",
        "def_ro": "glasul unei tăceri subțiri; un sunet slab, abia auzit.",
-       "dict_ro": "Kol demama daka — una dintre cele mai celebre expresii ale Bibliei: literal „glasul unei tăceri subțiri”. Demama e tăcerea, liniștirea furtunii (Psalmii 107:29, citat de Metzudat Țion). Metzudat David: un glas șoptit, ca și cum ar fi compus din sunet și tăcere; Targumul: „glasul celor care laudă în șoaptă”. Sensul, după Metzudat David la versetul următor: Dumnezeu „iubește îndurarea” și nu Își aprinde toată mânia în vânt, cutremur și foc — o lecție pentru profetul care cerea răzbunare."
+       "greek": "αὔρα λεπτή (aura lepte)",
+       "greek_def_ro": "αὔρα λεπτή (aura lepte) — briză lină, adiere ușoară.",
+       "dict_ro": "Kol demama daka — una dintre cele mai celebre expresii ale Bibliei: literal „glasul unei tăceri subțiri”. Demama e tăcerea, liniștirea furtunii (Psalmul 107:29, citat de Metzudat Țion). Metzudat David: un glas șoptit, ca și cum ar fi compus din sunet și tăcere; Targumul: „glasul celor care laudă în șoaptă”. Sensul, după Metzudat David la versetul următor: Dumnezeu „iubește îndurarea” și nu Își aprinde toată mânia în vânt, cutremur și foc — o lecție pentru profetul care cerea răzbunare."
       },
       {
        "t": ".”"
@@ -84380,12 +84404,14 @@
       {
        "t": "cu mantia",
        "w": "cu mantia",
-       "heb": "בְּאַדַּרְתּוֹ",
-       "translit": "beaderto",
+       "heb": "בְּאַדַּרְתּוֹ",
+       "translit": "beadarto",
        "strong": "H155",
-       "pos": "prepoziție + substantiv, feminin singular + sufix persoana a III-a masculin singular",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "cu mantia lui (de profet).",
-       "dict_ro": "Aderet — mantia, de la adir, „măreț”: haina largă, adesea din păr, a profeților (Zaharia 13:4, citat de Metzudat Țion). Eliahu își acoperă fața cu ea, cum își ascunsese Moise fața la rug (Exod 3:6), ca să nu privească la slavă (Metzudat David). Aceeași mantie o va arunca peste Elișa (19:19) și va despica Iordanul cu ea (2 Împărați 2:8, 13-14). Întrebarea „ce faci aici?” se repetă, după Metzudat David, ca un test: după ce i-a arătat că Dumnezeu nu vine în furtună, îl întreabă dacă mai cere răzbunare."
+       "greek": "μηλωτή (melote)",
+       "greek_def_ro": "μηλωτή (melote) — mantie (de piele de oaie).",
+       "dict_ro": "Aderet — mantia, de la adir, „măreț”: haina largă, adesea din păr, a profeților (Zaharia 13:4, citat de Metzudat Țion). Eliahu își acoperă fața cu ea, cum își ascunsese Moise fața la rug (Exodul 3:6), ca să nu privească la slavă (Metzudat David). Aceeași mantie o va arunca peste Elișa (19:19) și va despica Iordanul cu ea (2 Împărați 2:8, 13-14). Întrebarea „ce faci aici?” se repetă, după Metzudat David, ca un test: după ce i-a arătat că Dumnezeu nu vine în furtună, îl întreabă dacă mai cere răzbunare."
       },
       {
        "t": ", a ieșit și a stat la intrarea peșterii. Și iată, un glas a venit la el și a spus: „De ce ești aici, Eliahu?”"
@@ -84444,11 +84470,13 @@
       {
        "t": "legământul Tău",
        "w": "legământul Tău",
-       "heb": "בְּרִיתְךָ",
-       "translit": "beriteha",
+       "heb": "בְרִיתְךָ",
+       "translit": "veritha",
        "strong": "H1285",
-       "pos": "substantiv, feminin singular + sufix persoana a II-a masculin singular",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "legământul Tău.",
+       "greek": "διαθήκη (diatheke)",
+       "greek_def_ro": "διαθήκη (diatheke) — legământ.",
        "dict_ro": "Berit — legământul de la Sinai, pe care Eliahu îl vede părăsit; Radak aduce și midrașul: legământul circumciziei, pe care regatul de nord l-ar fi desființat. Răspunsul lui Eliahu e cuvânt cu cuvânt același ca la 19:10, deși între timp a văzut vântul, cutremurul, focul și glasul tăcerii — Metzudat David explică: „am râvnit de atunci pentru DOMNUL, nu pentru cinstea mea, și de aceea și acum cer răzbunare, pentru cinstea Numelui Său”. Repetiția arată că profetul nu și-a schimbat poziția."
       },
       {
@@ -84497,10 +84525,12 @@
        "t": "Hazael",
        "w": "Hazael",
        "heb": "חֲזָאֵל",
-       "translit": "Hazael",
+       "translit": "hazaēl",
        "strong": "H2371",
        "pos": "nume propriu",
        "def_ro": "Hazael („Dumnezeu a văzut”), viitor rege al Aramului.",
+       "greek": "Ἀζαήλ (Azael)",
+       "greek_def_ro": "Ἀζαήλ (Azael) — Hazael (transliterarea grecească, fără „h\" inițial).",
        "dict_ro": "Hazael — „Dumnezeu a văzut”, dregător al regelui Ben-Hadad, care îl va ucide și va domni în Damasc (2 Împărați 8:7-15), devenind cel mai crud dușman al Israelului (2 Împărați 10:32; Amos 1:3-4). Radak observă că, de fapt, Eliahu nu l-a uns nici pe Hazael, nici pe Iehu: îi transmite sarcina lui Elișa, care îl desemnează pe Hazael (2 Împărați 8:13) și trimite pe unul dintre ucenicii profeților să-l ungă pe Iehu (2 Împărați 9:1-6). Metzudat David: „a unge” înseamnă aici numirea în demnitate."
       },
       {
@@ -84553,11 +84583,13 @@
       {
        "t": "Elișa",
        "w": "Elișa",
-       "heb": "אֱלִישָׁע",
-       "translit": "Elișa",
+       "heb": "אֱלִישָׁע",
+       "translit": "elișa",
        "strong": "H477",
        "pos": "nume propriu",
        "def_ro": "Elisei („Dumnezeu mântuiește”), ucenicul și urmașul lui Eliahu.",
+       "greek": "Ἑλισαιέ (Helisaie)",
+       "greek_def_ro": "Ἑλισαιέ (Helisaie) — Elișa.",
        "dict_ro": "Elișa — „Dumnezeul meu mântuiește”, fiul lui Șafat din Abel-Mehola, în valea Iordanului; urmașul lui Eliahu, care va cere „o îndoită măsură” din duhul lui (2 Împărați 2:9). Radak dă două explicații ale lui „în locul tău”: fie pentru că Eliahu ceruse să moară, deci are nevoie de un urmaș; fie, după midraș (citat și de Rashi), ca o mustrare: „nu vreau profeția ta, căci ții acuzația împotriva copiilor Mei”. Iisus îl pomenește pe Elisei și vindecarea lui Naaman în Luca 4:27."
       },
       {
@@ -84613,10 +84645,12 @@
        "t": "Iehu",
        "w": "Iehu",
        "heb": "יֵהוּא",
-       "translit": "Iehu",
+       "translit": "iēhu",
        "strong": "H3058",
        "pos": "nume propriu",
        "def_ro": "Iehu, căpetenie de oaste, viitor rege al Israelului.",
+       "greek": "Ἰού (Iou)",
+       "greek_def_ro": "Ἰού (Iou) — Iehu.",
        "dict_ro": "Iehu — fiul lui Iehoșafat, nepotul lui Nimși, comandantul care va extermina casa lui Ahab, pe Izebel și pe slujitorii lui Baal (2 Împărați 9-10). Versetul descrie trei săbii: Hazael din afară, Iehu dinăuntru, iar Elișa — ale cărui „ucideri” sunt greu de găsit. Rashi: nu găsim că Elișa să fi ucis pe cineva, în afară de cei patruzeci și doi de copii de la Betel (2 Împărați 2:24); Radak: Elișa „ucide” prin mustrările lui nebăgate în seamă, sau prin faptul că după moartea lui au năvălit cetele Aramului și ale Moabului."
       },
       {
@@ -84673,11 +84707,13 @@
       {
        "t": "șapte mii",
        "w": "șapte mii",
-       "heb": "שִׁבְעַת אֲלָפִים",
-       "translit": "șivat alafim",
+       "heb": "אֲלָפִים",
+       "translit": "alafim",
        "strong": "H505",
-       "pos": "numeral, în construcție + numeral, plural",
+       "pos": "numeral",
        "def_ro": "șapte mii.",
+       "greek": "χιλιάς (chilias)",
+       "greek_def_ro": "χιλιάς (chilias) — mii.",
        "dict_ro": "Șivat alafim — „șapte mii”, răspunsul lui Dumnezeu la plângerea „am rămas doar eu”: Eliahu nu e singur. Metzudat David explică: chiar dacă sabia lui Hazael îi va stăpâni, cei vrednici nu vor pieri; ei sunt șapte mii, tot numărul celor care nu și-au plecat genunchiul. „Gura care nu l-a sărutat” amintește gestul de închinare la idoli (Osea 13:2; Iov 31:27). Pavel pornește de la acest verset în Romani 11:4-5: „tot așa, în vremea de acum, este o rămășiță după alegerea harului”."
       },
       {
@@ -84730,11 +84766,13 @@
       {
        "t": "douăsprezece perechi de boi",
        "w": "douăsprezece perechi de boi",
-       "heb": "שְׁנֵים־עָשָׂר צְמָדִים",
-       "translit": "șneim-asar țemadim",
+       "heb": "צְמָדִים",
+       "translit": "țemadim",
        "strong": "H6776",
-       "pos": "numeral + substantiv, masculin plural",
+       "pos": "substantiv, masculin plural",
        "def_ro": "douăsprezece perechi (de boi înjugați).",
+       "greek": "ζεῦγος (zeugos)",
+       "greek_def_ro": "ζεῦγος (zeugos) — pereche (de boi la jug).",
        "dict_ro": "Țemed — „pereche, jug”, de la țamad, „a lega împreună” (Metzudat Țion: ca „capacul legat” din Numeri 19:15). Elișa ara cu douăsprezece perechi de boi, semn al unei gospodării bogate; Radak vede în număr un semn: va fi profet și mustrător pentru cele douăsprezece seminții. Aruncarea mantiei e un gest de chemare: Metzudat David — ca un semn că va fi profet al DOMNULUI și va purta și el mantia profeților. Chemarea din timpul muncii câmpului amintește de Ghedeon (Judecători 6:11) și de ucenicii chemați de la mreje (Matei 4:18-19)."
       },
       {
@@ -84791,11 +84829,12 @@
       {
        "t": "să-i sărut",
        "w": "să-i sărut",
-       "heb": "אֶשְּׁקָה־נָּא",
-       "translit": "eșka-na",
+       "heb": "אֶשְּׁקָה",
+       "translit": "eșka",
        "strong": "H5401",
-       "pos": "verb, qal, imperfect (cohortativ), persoana I singular + particulă",
+       "pos": "verb, qal cohortativ",
        "def_ro": "să sărut (în semn de rămas-bun).",
+       "diff_ro": "Septuaginta omite aici „pe mama mea\" — are doar „καταφιλήσω τὸν πατέρα μου\" („să-l sărut pe tatăl meu\"), nu perechea completă „pe tatăl meu și pe mama mea\" ca în ebraică.",
        "dict_ro": "Nașak — „a săruta”, aici gestul de rămas-bun de la părinți, ca al lui Laban la despărțirea de nepoții și fiicele lui. Răspunsul lui Eliahu e enigmatic: „mergi, întoarce-te, căci ce ți-am făcut?”. Rashi îl citește: întoarce-te de la a mă urma, căci ce ți-am făcut, ca să vii după mine?; Metzudat David, dimpotrivă: du-te, sărută-i și întoarce-te, căci minunile pe care le-am făcut le vei face și tu, dacă vei merge după mine. Iisus reia scena, mai aspru, în Luca 9:61-62: „nimeni care pune mâna pe plug și se uită înapoi nu este potrivit pentru Împărăția lui Dumnezeu”."
       },
       {
@@ -84855,12 +84894,14 @@
       {
        "t": "l-a slujit",
        "w": "l-a slujit",
-       "heb": "וַיְשָׁרְתֵהוּ",
-       "translit": "vaișaretehu",
+       "heb": "וַיְשָׁרְתֵהוּ",
+       "translit": "vaișartēhu",
        "strong": "H8334",
-       "pos": "verb, piel, imperfect consecutiv + sufix persoana a III-a masculin singular",
+       "pos": "verb, piel imperfect consecutiv + sufix",
        "def_ro": "l-a slujit, i-a fost slujitor.",
-       "dict_ro": "Șeret — „a sluji”, mai ales slujirea personală a unui ucenic față de învățător, ca Iosua față de Moise (Exod 24:13; Numeri 27:18-20). Elișa își arde podurile: taie boii, face foc din lemnul plugului și dă carnea oamenilor, un ospăț de despărțire — Rashi și Metzudat David: „a făcut un ospăț de mare bucurie”. Radak: „din marea lui grabă de a merge după Eliahu, n-a mai așteptat să taie lemne, ci a spart uneltele de arat”. De aici încolo, Scriptura îl numește „Elișa, care turna apă pe mâinile lui Eliahu” (2 Împărați 3:11)."
+       "greek": "λειτουργέω (leitourgeo)",
+       "greek_def_ro": "λειτουργέω (leitourgeo) — a sluji, a servi (termen folosit și pentru slujirea la altar).",
+       "dict_ro": "Șeret — „a sluji”, mai ales slujirea personală a unui ucenic față de învățător, ca Iosua față de Moise (Exodul 24:13; Numeri 27:18-20). Elișa își arde podurile: taie boii, face foc din lemnul plugului și dă carnea oamenilor, un ospăț de despărțire — Rashi și Metzudat David: „a făcut un ospăț de mare bucurie”. Radak: „din marea lui grabă de a merge după Eliahu, n-a mai așteptat să taie lemne, ci a spart uneltele de arat”. De aici încolo, Scriptura îl numește „Elișa, care turna apă pe mâinile lui Eliahu” (2 Împărați 3:11)."
       },
       {
        "t": "."
