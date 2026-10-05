@@ -73570,11 +73570,13 @@
       {
        "t": "Dumnezeului Celui Viu",
        "w": "Dumnezeului Celui Viu",
-       "heb": "אֵל־חָי",
-       "translit": "El-hai",
+       "heb": "אֵל",
+       "translit": "ēl",
        "strong": "H410",
-       "pos": "substantiv + adjectiv",
+       "pos": "substantiv, masculin singular",
        "def_ro": "Dumnezeul cel viu.",
+       "greek": "Θεός (Theos)",
+       "greek_def_ro": "Θεός (Theos) — Dumnezeu.",
        "dict_ro": "El hai — „Dumnezeul cel viu”, în opoziție cu idolii fără viață. Versetul răstoarnă numele simbolic al fiului lui Osea, Lo-Ami („nu poporul Meu”, 1:9): în același loc unde li s-a spus „nu sunteți poporul Meu”, se va spune „copiii Dumnezeului Celui Viu”. Talmudul (Pesahim 87a-b) explică trecerea bruscă de la pedeapsă la mângâiere: Osea spusese „schimbă-i cu alt neam”, Dumnezeu i-a poruncit să ia o femeie desfrânată și apoi să o alunge; profetul n-a putut, a înțeles lecția și a cerut milă pentru Israel. Pavel citează versetul în Romani 9:26."
       },
       {
@@ -73639,10 +73641,12 @@
        "t": "ziua lui Izreel",
        "w": "ziua lui Izreel",
        "heb": "יוֹם יִזְרְעֶאל",
-       "translit": "iom Izreel",
+       "translit": "iom izreel",
        "strong": "H3157",
-       "pos": "substantiv + nume propriu",
+       "pos": "substantiv, masculin singular construct + nume propriu",
        "def_ro": "ziua lui Izreel („Dumnezeu seamănă”).",
+       "greek": "ἡμέρα τοῦ Ιεζραέλ (hemera tou Iezrael)",
+       "greek_def_ro": "ἡμέρα τοῦ Ιεζραέλ (hemera tou Iezrael) — ziua lui Izreel.",
        "dict_ro": "Izreel — numele primului fiu al lui Osea (1:4) și al văii unde Iehu vărsase sânge, deci la început un nume de judecată; Metzudat Țion îl explică drept cuvânt compus din „a semăna” și „Dumnezeu”. Aici sensul se întoarce spre bine: Rashi îl citește ca „ziua adunării semănăturii lor”, iar Metzudat David: mare va fi ziua în care Dumnezeu îi va aduna pe cei pe care i-a risipit, cum risipește semănătorul semințele pe ogor. „Un singur conducător” este, după Rashi „David, regele lor”, după Radak și Metzudat David regele Mesia."
       },
       {
@@ -73702,10 +73706,12 @@
        "t": "Ruhama",
        "w": "Ruhama",
        "heb": "רֻחָמָה",
-       "translit": "Ruhama",
+       "translit": "ruhama",
        "strong": "H7355",
-       "pos": "verb, pual, perfect, persoana a III-a feminin singular (folosit ca nume)",
+       "pos": "verb, pual perfect",
        "def_ro": "„cea miluită”.",
+       "greek": "ἠλεημένη (eleemene)",
+       "greek_def_ro": "ἠλεημένη (eleemene) — cea miluită (traducerea numelui, nu transliterare).",
        "dict_ro": "Ruhama — „cea care a primit milă”, de la raham, „a iubi cu îndurare” (înrudit cu rehem, „pântece”: mila maternă). E răsturnarea numelui fiicei lui Osea, Lo-Ruhama, „cea nemiluită” (1:6), la fel cum Ami răstoarnă Lo-Ami. Metzudat David explică adresarea: voi, fiii lui Iuda, spuneți-le fraților voștri din cele zece triburi că sunt poporul Meu ca și voi, deși i-am exilat mai devreme; Petru reia perechea de nume în 1 Petru 2:10."
       },
       {
@@ -73764,8 +73770,10 @@
        "heb": "זְנוּנֶיהָ",
        "translit": "zenuneha",
        "strong": "H2183",
-       "pos": "substantiv, masculin plural + sufix persoana a III-a feminin",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "desfrânările ei.",
+       "greek": "πορνεία (porneia)",
+       "greek_def_ro": "πορνεία (porneia) — desfrânare.",
        "dict_ro": "Zenunim — desfrânarea, imaginea centrală a cărții lui Osea pentru idolatrie: legământul dintre Dumnezeu și Israel e o căsătorie, iar închinarea la alți dumnezei, adulter. Radak explică de ce „mama” e chemată la judecată de proprii „copii”: întreaga comunitate e mama, iar indivizii, copiii — cei drepți din fiecare generație trebuie să se certe cu poporul pentru calea lui rea. Ionatan, citat de Rashi, traduce fără metaforă: „și slujirea idolilor din mijlocul cetăților ei”."
       },
       {
@@ -73823,11 +73831,13 @@
       {
        "t": "ținut arid",
        "w": "ținut arid",
-       "heb": "כְּאֶרֶץ צִיָּה",
-       "translit": "keereț țiia",
+       "heb": "צִיָּה",
+       "translit": "ția",
        "strong": "H6723",
-       "pos": "prepoziție + substantiv + substantiv",
+       "pos": "substantiv, feminin singular",
        "def_ro": "ca un pământ uscat, secetos.",
+       "greek": "γῆ ἄνυδρος (ge anydros)",
+       "greek_def_ro": "γῆ ἄνυδρος (ge anydros) — ținut fără apă.",
        "dict_ro": "Țiia — pământul uscat, fără apă. Rashi leagă imaginile de istoria poporului: „ca în ziua în care s-a născut” e starea din Egipt, descrisă în Ezechiel 16:4-5 ca a unui prunc părăsit, iar „ca un deșert” amintește hotărârea din pustie, că generația aceea va muri acolo (Numeri 14:35). De aici una dintre legăturile haftarei cu pericopa Bamidbar, „în pustie”: pustia poate fi loc de pedeapsă, dar și, cum va arăta 2:14, loc al unei noi logodne."
       },
       {
@@ -73889,10 +73899,12 @@
        "t": "copii ai desfrânării",
        "w": "copii ai desfrânării",
        "heb": "בְנֵי זְנוּנִים",
-       "translit": "venei zenunim",
+       "translit": "venē zenunim",
        "strong": "H1121",
-       "pos": "substantiv, masculin plural, în construcție + substantiv plural",
+       "pos": "substantiv, masculin plural construct + substantiv, masculin plural",
        "def_ro": "copii născuți din desfrânare.",
+       "greek": "τέκνα πορνείας (tekna porneias)",
+       "greek_def_ro": "τέκνα πορνείας (tekna porneias) — copii ai desfrânării.",
        "dict_ro": "Benei zenunim — expresia reia porunca din 1:2 („ia-ți o femeie a desfrânării și copii ai desfrânării”). Metzudat David citește aici o idee grea: chiar și cei drepți vor fi loviți odată cu vina întregii națiuni, ca urmașii care poartă rușinea mamei. Radak lărgește sensul: „copiii” sunt generațiile care au păstrat obiceiul primei generații idolatre — pedeapsa îi atinge pentru că au continuat aceeași cale."
       },
       {
@@ -73948,8 +73960,10 @@
        "heb": "מְאַהֲבַי",
        "translit": "meahavai",
        "strong": "H157",
-       "pos": "verb, piel, participiu, masculin plural + sufix persoana I",
+       "pos": "verb, piel participiu + sufix",
        "def_ro": "iubiții mei, amanții mei.",
+       "greek": "ἐρασταί μου (erastai mou)",
+       "greek_def_ro": "ἐρασταί μου (erastai mou) — amanții mei.",
        "dict_ro": "Meahavim — „cei care iubesc” la forma intensivă: amanții. Comentatorii dau două lecturi: pentru Radak, amanții sunt alianțele politice cu Asiria și Egiptul, pe care Israel se sprijinea ca să-și lucreze pământul în pace; pentru tatăl lui Radak (citat de el) și pentru Metzudat David, sunt astrele cerului, cărora le atribuiau pâinea, apa, lâna și inul. Rashi, după Ionatan, vede în „cea care i-a zămislit s-a făcut de rușine” pe învățătorii care îi învață pe alții „să nu furi”, dar ei înșiși fură."
       },
       {
@@ -74009,11 +74023,13 @@
       {
        "t": "cu spini",
        "w": "cu spini",
-       "heb": "בַּסִּירִים",
+       "heb": "בַּסִּירִים",
        "translit": "basirim",
        "strong": "H5518",
-       "pos": "prepoziție + substantiv, masculin plural, cu articol",
+       "pos": "substantiv, feminin singular",
        "def_ro": "cu spini, cu mărăcini.",
+       "greek": "σκόλοψ (skolops)",
+       "greek_def_ro": "σκόλοψ (skolops) — spin, țăruș ascuțit.",
        "dict_ro": "Sirim — spinii (Metzudat Țion îi compară cu „trosnetul spinilor sub oală”, Eclesiastul 7:6). Imaginea e a unui drum îngrădit cu gard de spini și zid, pe care cineva nu-l mai poate străbate; Radak o compară cu plângerea lui Iov: „mi-a îngrădit drumul cu pietre cioplite” (Plângerile lui Ieremia 3:9). Metzudat David o citește spiritual: Israel nu va mai reuși să coboare asupra sa belșugul pe care îl aștepta de la astre — ca și cum drumul ar fi fost astupat."
       },
       {
@@ -74072,12 +74088,14 @@
       {
        "t": "soțul meu dintâi",
        "w": "soțul meu dintâi",
-       "heb": "אִישִׁי הָרִאשׁוֹן",
-       "translit": "iși harișon",
+       "heb": "אִישִׁי",
+       "translit": "iși",
        "strong": "H376",
-       "pos": "substantiv + sufix persoana I + adjectiv cu articol",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "primul meu bărbat.",
-       "dict_ro": "Iș — bărbatul, soțul; „primul meu soț” e Dumnezeu, legământul de la Sinai. Metzudat David explică întoarcerea: abia după ce va urmări fără folos puterile cerești, Israel va spune „mă voi încrede în Sfântul, binecuvântat fie El, căci de când îmi era încrederea în El îmi era mai bine decât acum”. Radak precizează că acest cuvânt nu va fi spus decât după o lungă suferință în exil, cum spune Tora: „în strâmtorarea ta... te vei întoarce la DOMNUL” (Deuteronom 4:30)."
+       "greek": "ἀνήρ μου ὁ πρότερος (aner mou ho proteros)",
+       "greek_def_ro": "ἀνήρ μου ὁ πρότερος (aner mou ho proteros) — soțul meu cel de mai înainte.",
+       "dict_ro": "Iș — bărbatul, soțul; „primul meu soț” e Dumnezeu, legământul de la Sinai. Metzudat David explică întoarcerea: abia după ce va urmări fără folos puterile cerești, Israel va spune „mă voi încrede în Sfântul, binecuvântat fie El, căci de când îmi era încrederea în El îmi era mai bine decât acum”. Radak precizează că acest cuvânt nu va fi spus decât după o lungă suferință în exil, cum spune Tora: „în strâmtorarea ta... te vei întoarce la DOMNUL” (Deuteronomul 4:30)."
       },
       {
        "t": ", căci îmi era mai bine atunci decât acum.”"
@@ -74137,11 +74155,13 @@
       {
        "t": "Baal",
        "w": "Baal",
-       "heb": "לַבָּעַל",
+       "heb": "לַבָּעַל",
        "translit": "labaal",
        "strong": "H1168",
-       "pos": "prepoziție + substantiv propriu cu articol",
+       "pos": "nume propriu",
        "def_ro": "Baal, zeul canaanit al furtunii și al fertilității.",
+       "greek": "Βάαλ (Baal)",
+       "greek_def_ro": "Βάαλ (Baal) — Baal.",
        "dict_ro": "Baal — „stăpân”, numele zeului canaanit al furtunii și ploii, deci al recoltei; ironia versetului e totală: Israel atribuia lui Baal grâul, mustul și untdelemnul pe care i le dăduse DOMNUL, apoi folosea chiar aurul primit de la El ca să-i facă idoli. Metzudat David trimite la Ieremia 10:4: „îl împodobesc cu argint și cu aur”. Cele trei produse — dagan, tiroș, ițhar — sunt triada binecuvântării agricole din Deuteronom (7:13; 11:14)."
       },
       {
@@ -74201,11 +74221,13 @@
       {
        "t": "lâna și inul",
        "w": "lâna și inul",
-       "heb": "צַמְרִי וּפִשְׁתִּי",
-       "translit": "țamri ufiști",
+       "heb": "צַמְרִי",
+       "translit": "țamri",
        "strong": "H6785",
-       "pos": "substantiv + sufix persoana I + conjuncție + substantiv + sufix",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "lâna Mea și inul Meu.",
+       "greek": "ἱμάτια καὶ ὀθόνια (himatia kai othonia)",
+       "greek_def_ro": "ἱμάτια καὶ ὀθόνια (himatia kai othonia) — veșminte și pânzeturi de in.",
        "dict_ro": "Țemer ufișteh — lâna și inul, materialele de bază ale îmbrăcămintei; sufixul „Mea” e decisiv: ceea ce femeia numea „lâna mea și inul meu” (2:5), Dumnezeu le revendică drept ale Lui. Rashi explică verbul „voi recupera” (hițalti): în Scriptură, rădăcina hițil înseamnă despărțire și luare deoparte, ca în „Dumnezeu a luat (vayațel) turmele tatălui vostru” (Geneza 31:9). Radak descrie concret: blestemul va lovi recolta la vremea secerișului și a culesului, încât nu vor avea pâine de mâncat, nici haine de îmbrăcat."
       },
       {
@@ -74267,10 +74289,12 @@
        "t": "decăderea",
        "w": "decăderea",
        "heb": "נַבְלֻתָהּ",
-       "translit": "navluta",
+       "translit": "navlutah",
        "strong": "H5040",
-       "pos": "substantiv, feminin singular + sufix persoana a III-a feminin",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "rușinea, nemernicia ei.",
+       "greek": "ἀκαθαρσία (akatharsia)",
+       "greek_def_ro": "ἀκαθαρσία (akatharsia) — necurăție, murdărie.",
        "dict_ro": "Navlut — cuvânt unic în Biblie, de la naval, „nebun, nemernic, de nimic”: goliciunea rușinoasă, decăderea expusă. Metzudat Țion îl explică „un lucru urât și rușinos”, ca în Naum 3:6. Rashi citește încheierea „niciun om n-o va salva din mâna Mea” ca pe o afirmație teologică gravă: chiar și meritul patriarhilor s-a epuizat — în Talmud (Șabat 55a), Rav fixează chiar la acest verset momentul în care meritul patriarhilor a încetat."
       },
       {
@@ -74334,11 +74358,13 @@
       {
        "t": "Șabaturilor ei",
        "w": "Șabaturilor ei",
-       "heb": "שַׁבַּתָּהּ",
-       "translit": "șabata",
+       "heb": "וְשַׁבַּתָּהּ",
+       "translit": "veșabatah",
        "strong": "H7676",
-       "pos": "substantiv, feminin singular + sufix persoana a III-a feminin",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "Sabatul ei.",
+       "greek": "σάββατα αὐτῆς (sabbata autes)",
+       "greek_def_ro": "σάββατα αὐτῆς (sabbata autes) — Șabatele ei.",
        "dict_ro": "Șabat — ziua de odihnă. Versetul enumeră tot calendarul de bucurie al Israelului: sărbătorile de pelerinaj, lunile noi, Sabatele și soroacele (Metzudat David: Roș Hașana, Yom Kipur și Șemini Ațeret). Radak explică de ce vor înceta: în mijlocul necazului nu mai e nici lună nouă, nici Sabat — zilele care aveau jertfe suplimentare erau zile de bucurie, iar acum nu vor mai avea bucurie în ele. Sufixul „ale ei”, nu „ale Mele”, spune că sărbătorile deveniseră ale poporului, golite de Dumnezeu (compară Isaia 1:14)."
       },
       {
@@ -74400,7 +74426,9 @@
        "strong": "H866",
        "pos": "substantiv, feminin singular",
        "def_ro": "plata (unei desfrânate).",
-       "dict_ro": "Etna — formă rară pentru etnan, „plata desfrânatei” (Deuteronom 23:18); Metzudat Țion face legătura. Femeia numește via și smochinul „plata” primită de la amanți, adică roadele pe care Israel le atribuia idolilor sau alianțelor. Radak explică de ce sunt pomenite tocmai via și smochinul: strugurii și smochinele sunt cele mai alese mâncări ale omului după grâne, iar pustiirea lor va arăta de la cine venea, de fapt, belșugul."
+       "greek": "μίσθωμα (misthoma)",
+       "greek_def_ro": "μίσθωμα (misthoma) — plată, răsplată.",
+       "dict_ro": "Etna — formă rară pentru etnan, „plata desfrânatei” (Deuteronomul 23:18); Metzudat Țion face legătura. Femeia numește via și smochinul „plata” primită de la amanți, adică roadele pe care Israel le atribuia idolilor sau alianțelor. Radak explică de ce sunt pomenite tocmai via și smochinul: strugurii și smochinele sunt cele mai alese mâncări ale omului după grâne, iar pustiirea lor va arăta de la cine venea, de fapt, belșugul."
       },
       {
        "t": " pe care amanții mei mi-au dat-o”. Voi face din ei un hățiș și fiarele câmpului le vor devora."
@@ -74461,11 +74489,13 @@
        "t": "cerceii ei",
        "w": "cerceii ei",
        "heb": "נִזְמָהּ",
-       "translit": "nizma",
+       "translit": "nizmah",
        "strong": "H5141",
-       "pos": "substantiv, masculin singular + sufix persoana a III-a feminin",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "cercelul ei (inel de nas sau de ureche).",
-       "dict_ro": "Nezem — inelul de nas sau cercelul, podoaba femeiască pe care Eliezer i-o dă Rebecăi (Geneza 24:47) și din care Israel făcuse vițelul de aur (Exod 32:2). Imaginea femeii care se gătește ca să iasă în întâmpinarea amanților descrie, după Rashi și Metzudat David, gătirea desfrânatei; „iar pe Mine Mă uita” e cea mai grea acuzație a versetului, încheiată solemn cu „rostirea DOMNULUI”."
+       "greek": "ἐνώτια αὐτῆς (enotia autes)",
+       "greek_def_ro": "ἐνώτια αὐτῆς (enotia autes) — cerceii ei.",
+       "dict_ro": "Nezem — inelul de nas sau cercelul, podoaba femeiască pe care Eliezer i-o dă Rebecăi (Geneza 24:47) și din care Israel făcuse vițelul de aur (Exodul 32:2). Imaginea femeii care se gătește ca să iasă în întâmpinarea amanților descrie, după Rashi și Metzudat David, gătirea desfrânatei; „iar pe Mine Mă uita” e cea mai grea acuzație a versetului, încheiată solemn cu „rostirea DOMNULUI”."
       },
       {
        "t": " și bijuteriile ei și se ducea după amanții ei, iar pe Mine mă uita – rostirea DOMNULUI."
@@ -74525,11 +74555,13 @@
       {
        "t": "o voi ademeni",
        "w": "o voi ademeni",
-       "heb": "מְפַתֶּיהָ",
+       "heb": "מְפַתֶּיהָ",
        "translit": "mefateha",
        "strong": "H6601",
-       "pos": "verb, piel, participiu, masculin singular + sufix persoana a III-a feminin",
+       "pos": "verb, piel participiu + sufix",
        "def_ro": "o voi convinge, o voi atrage cu vorbe bune.",
+       "greek": "πλανάω (planao)",
+       "greek_def_ro": "πλανάω (planao) — a amăgi, a duce în rătăcire.",
        "dict_ro": "Pita — „a ademeni, a convinge”; e verbul curtării. Punctul de cotitură al haftarei: după pedepse, Dumnezeu nu mai amenință, ci o „ademenește” pe soția necredincioasă și o duce în pustie ca să „vorbească inimii ei” — expresia folosită pentru Sihem față de Dina (Geneza 34:3) și pentru levitul din Judecători 19:3. Rashi interpretează pustia ca exilul, unde Israel își va pune la inimă că îi era mai bine când făcea voia lui Dumnezeu; Metzudat David: bărbatul își duce soția în pustie, unde nu aude nimeni, și o împacă acolo cu vorbe bune — legătura directă cu pericopa Bamidbar, „în pustie”."
       },
       {
@@ -74589,12 +74621,12 @@
       {
        "t": "o poartă a speranței",
        "w": "o poartă a speranței",
-       "heb": "פֶתַח תִּקְוָה",
-       "translit": "petah tikva",
+       "heb": "לְפֶתַח תִּקְוָה",
+       "translit": "lefetah tikva",
        "strong": "H8615",
-       "pos": "substantiv, în construcție + substantiv, feminin singular",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular",
        "def_ro": "ușă a nădejdii.",
-       "dict_ro": "Petah tikva — „poarta nădejdii”, numele pe care l-a primit în 1878 orașul fondat de coloniștii evrei lângă Iaffa. Emek Ahor, „Valea Tulburării”, e locul unde Acan a fost pedepsit pentru că luase din prada de la Ierihon, la prima intrare în Țară (Iosua 7:24-26); Radak explică: la noua intrare, locul primului eșec va deveni început de nădejde. Metzudat Țion leagă „va răspunde” (anta) de cântarea Miriamei (Exod 15:21), de unde traducerea „va striga [în cântare]” și comparația cu ziua ieșirii din Egipt."
+       "dict_ro": "Septuaginta are aici „διανοῖξαι σύνεσιν αὐτῆς\" („să-i deschidă priceperea/înțelegerea\"), nu „o poartă a speranței\" (petach tikvah) ca în ebraică — o imagine complet diferită, legată probabil de o citire alternativă a cuvântului „tikvah\" (speranță), posibil confundat cu o rădăcină pentru înțelegere."
       },
       {
        "t": ". Și ea va striga acolo ca în zilele tinereții ei și ca în ziua când a urcat din țara Egiptului."
@@ -74653,11 +74685,13 @@
       {
        "t": "Soțul meu",
        "w": "Soțul meu",
-       "heb": "אִישִׁי",
-       "translit": "Iși",
+       "heb": "אִישִׁי",
+       "translit": "iși",
        "strong": "H376",
-       "pos": "substantiv + sufix persoana I",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "bărbatul meu (termen de iubire).",
+       "greek": "ἀνήρ μου (aner mou)",
+       "greek_def_ro": "ἀνήρ μου (aner mou) — soțul meu.",
        "dict_ro": "Iși și Baali — ambele înseamnă „soțul meu”, dar cu tonuri diferite: iș e bărbatul, partenerul, iar baal e stăpânul, proprietarul — și, totodată, numele idolului. Rashi explică: „Iși” e expresia căsătoriei și a iubirii din tinerețe, „Baali” e expresia stăpânirii și a fricii; Israel Îl va sluji din iubire, nu din teamă. Talmudul (Pesahim 87a), citat de Rashi și Radak: „ca o mireasă în casa socrului, nu ca o mireasă [logodită] încă în casa tatălui ei”."
       },
       {
@@ -74716,11 +74750,13 @@
       {
        "t": "idolilor lui Baal",
        "w": "idolilor lui Baal",
-       "heb": "הַבְּעָלִים",
-       "translit": "habealim",
+       "heb": "הַבְּעָלִים",
+       "translit": "habalim",
        "strong": "H1168",
-       "pos": "substantiv, masculin plural, cu articol",
+       "pos": "nume propriu",
        "def_ro": "baalii, idolii numiți Baal.",
+       "greek": "Βααλείμ (Baaleim)",
+       "greek_def_ro": "Βααλείμ (Baaleim) — idolii lui Baal.",
        "dict_ro": "Bealim — pluralul lui Baal, desemnând multele chipuri și forme locale ale acestui zeu. Rashi dă trei lecturi ale încheierii „nu vor mai fi amintiți pe nume”: Israel nu va mai fi numit după baali; sau baalii nu vor mai fi pomeniți ca dumnezei ai lui Israel; sau numele lor nu va mai fi pomenit deloc, cum spune Isaia 2:18: „idolii vor pieri cu totul”. Radak, după Rav Saadia, extinde făgăduința la toate neamurile, ca în Țefania 3:9."
       },
       {
@@ -74776,12 +74812,14 @@
       {
        "t": "un legământ",
        "w": "un legământ",
-       "heb": "בְּרִית",
+       "heb": "בְּרִית",
        "translit": "berit",
        "strong": "H1285",
        "pos": "substantiv, feminin singular",
        "def_ro": "legământ.",
-       "dict_ro": "Berit — legământul, aici un legământ neobișnuit: Dumnezeu leagă pacea între om și fiarele câmpului, păsările cerului și târâtoare, adică o restaurare a armoniei de la creație (aceleași trei categorii ca în Geneza 1:30). Rashi trimite la Isaia 11:9 („nu vor face rău și nu vor nimici”), iar Radak la Iov 5:23 și Isaia 11:6 („lupul va locui cu mielul”). Nimicirea armelor — „arcul, sabia și războiul” — și somnul „în siguranță” împlinesc făgăduința din Levitic 26:6, din pericopa Behukotai."
+       "greek": "διαθήκη (diatheke)",
+       "greek_def_ro": "διαθήκη (diatheke) — legământ.",
+       "dict_ro": "Berit — legământul, aici un legământ neobișnuit: Dumnezeu leagă pacea între om și fiarele câmpului, păsările cerului și târâtoare, adică o restaurare a armoniei de la creație (aceleași trei categorii ca în Geneza 1:30). Rashi trimite la Isaia 11:9 („nu vor face rău și nu vor nimici”), iar Radak la Iov 5:23 și Isaia 11:6 („lupul va locui cu mielul”). Nimicirea armelor — „arcul, sabia și războiul” — și somnul „în siguranță” împlinesc făgăduința din Leviticul 26:6, din pericopa Behukotai."
       },
       {
        "t": " în ziua aceea, cu fiara câmpului și cu pasărea cerului și cu târâtoarea pământului: arcul, și sabia, și războiul le voi nimici din țară, și le voi da voie să doarmă în ea în siguranță."
@@ -74838,11 +74876,13 @@
       {
        "t": "Te voi mărita cu Mine",
        "w": "Te voi mărita cu Mine",
-       "heb": "וְאֵרַשְׂתִּיךְ",
-       "translit": "veerastih",
+       "heb": "וְאֵרַשְׂתִּיךְ",
+       "translit": "veērastih",
        "strong": "H781",
-       "pos": "verb, piel, perfect consecutiv, persoana I singular + sufix persoana a II-a feminin",
+       "pos": "verb, piel perfect consecutiv + sufix",
        "def_ro": "te voi logodi cu Mine.",
+       "greek": "μνηστεύομαι ἐμαυτῷ (mnesteuomai emauto)",
+       "greek_def_ro": "μνηστεύομαι ἐμαυτῷ (mnesteuomai emauto) — te voi logodi cu mine.",
        "dict_ro": "Araś — „a logodi”, primul pas al căsătoriei în dreptul biblic, prin care femeia devine soția bărbatului. Versetele 21-22 sunt recitate de bărbații evrei în fiecare dimineață, la înfășurarea curelei tefilinului pe deget, ca un inel. Radak vede în cele trei „te voi logodi” cele trei ieșiri din exil: din Egipt, din Babilon și din exilul de acum — iar numai ultima va fi „pe veci”. Rashi explică împărțirea: dreptatea și judecata le va face Israel, iar bunătatea și mila vor veni de la Dumnezeu, ca răsplată."
       },
       {
@@ -74902,11 +74942,13 @@
       {
        "t": "în credință",
        "w": "în credință",
-       "heb": "בֶּאֱמוּנָה",
+       "heb": "בֶּאֱמוּנָה",
        "translit": "beemuna",
        "strong": "H530",
-       "pos": "prepoziție + substantiv, feminin singular",
+       "pos": "substantiv, feminin singular",
        "def_ro": "în credincioșie, în statornicie.",
+       "greek": "ἐν πίστει (en pistei)",
+       "greek_def_ro": "ἐν πίστει (en pistei) — în credință.",
        "dict_ro": "Emuna — statornicia, credincioșia (de la aman, „a fi stabil, sigur”, de unde și „amin”). Rashi o citește ca răsplată: „pentru credința” pe care Israel a păstrat-o în exil, crezând în făgăduințele profeților; Radak o citește ca trăsătură a legământului: o logodnă statornică, ce nu se va mai clătina. Încheierea „și Îl vei cunoaște pe DOMNUL” folosește verbul yada, al intimității conjugale (Geneza 4:1) — cunoașterea lui Dumnezeu e împlinirea căsătoriei."
       },
       {
