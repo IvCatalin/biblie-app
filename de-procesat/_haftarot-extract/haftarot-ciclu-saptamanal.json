@@ -79208,11 +79208,13 @@
       {
        "t": "să reînnoim",
        "w": "să reînnoim",
-       "heb": "וּנְחַדֵּשׁ",
-       "translit": "unehadeș",
+       "heb": "וּנְחַדֵּשׁ",
+       "translit": "unhadēș",
        "strong": "H2318",
-       "pos": "conjuncție + verb, piel, imperfect (cohortativ), persoana I plural",
+       "pos": "verb, piel cohortativ",
        "def_ro": "să înnoim, să reînnoim.",
+       "greek": "ἐγκαινίζω (enkainizo)",
+       "greek_def_ro": "ἐγκαινίζω (enkainizo) — a reînnoi, a sfinți din nou.",
        "dict_ro": "Hadaș — „a înnoi”, de unde hadaș, „nou”, și hodeș, „lună nouă”. Regatul lui Șaul nu era nou, dar trebuia „reînnoit”: la prima proclamare, la Mițpa, unii îl disprețuiseră („cum ne va mântui acesta?”, 1 Samuel 10:27), iar acum, după biruința asupra lui Nahaș la Iaveș-Ghilead, toți îl acceptă. Radak explică de ce Ghilgal: acolo stătuseră chivotul și Cortul Întâlnirii la intrarea în Țară, iar locul rămăsese cinstit, deși acum Cortul era la Nov."
       },
       {
@@ -79266,12 +79268,14 @@
       {
        "t": "jertfe de pace",
        "w": "jertfe de pace",
-       "heb": "זְבָחִים שְׁלָמִים",
-       "translit": "zevahim șelamim",
+       "heb": "שְׁלָמִים",
+       "translit": "șelamim",
        "strong": "H8002",
-       "pos": "substantiv, masculin plural + substantiv, masculin plural",
+       "pos": "substantiv, masculin plural",
        "def_ro": "jertfe de pace, jertfe de mulțumire.",
-       "dict_ro": "Șelamim — jertfele de pace (de la șalom, „întregime, pace”), singurele din care mâncau și cei care le aduceau: o parte pe altar, o parte preoților, restul familiei, la o masă de sărbătoare (Levitic 3; 7:11-21). Sunt jertfa potrivită pentru o bucurie comună, ca la încheierea legământului de la Sinai (Exod 24:5). Metzudat David explică de ce „înaintea DOMNULUI”: Șehina se odihnește acolo unde se adună majoritatea obștii."
+       "greek": "εἰρηνικός (eirenikos)",
+       "greek_def_ro": "εἰρηνικός (eirenikos) — jertfe de pace.",
+       "dict_ro": "Șelamim — jertfele de pace (de la șalom, „întregime, pace”), singurele din care mâncau și cei care le aduceau: o parte pe altar, o parte preoților, restul familiei, la o masă de sărbătoare (Levitic 3; 7:11-21). Sunt jertfa potrivită pentru o bucurie comună, ca la încheierea legământului de la Sinai (Exodul 24:5). Metzudat David explică de ce „înaintea DOMNULUI”: Șehina se odihnește acolo unde se adună majoritatea obștii."
       },
       {
        "t": " înaintea DOMNULUI. Și Șaul și toți bărbații din Israel s-au bucurat foarte mult acolo."
@@ -79321,8 +79325,10 @@
        "heb": "וָאַמְלִיךְ",
        "translit": "vaamlih",
        "strong": "H4427",
-       "pos": "verb, hifil, imperfect consecutiv, persoana I singular",
+       "pos": "verb, hifil imperfect consecutiv",
        "def_ro": "am pus rege, am încoronat.",
+       "greek": "βασιλεύω (basileuo)",
+       "greek_def_ro": "βασιλεύω (basileuo) — a face rege, a încorona.",
        "dict_ro": "Malah — „a domni”; la forma cauzativă (hifil), „a face rege, a încorona”. Samuel își începe cuvântarea de despărțire amintind că a cedat cererii poporului, deși o socotea greșită (1 Samuel 8:6-7). Metzudat David explică de ce abia acum îi mustră: dacă i-ar fi mustrat înainte de a le da un rege, ar fi crezut că vorbele lui voiau doar să împiedice regalitatea; acum, când regele e pus, mustrarea nu mai poate fi bănuită de interes."
       },
       {
@@ -79368,11 +79374,12 @@
       {
        "t": "am albit",
        "w": "am albit",
-       "heb": "וָשַׂבְתִּי",
+       "heb": "וָשַׂבְתִּי",
        "translit": "vasavti",
        "strong": "H7867",
-       "pos": "verb, qal, imperfect consecutiv, persoana I singular",
+       "pos": "verb, qal perfect",
        "def_ro": "am încărunțit, am albit.",
+       "diff_ro": "Septuaginta are aici „καθήσομαι\" („voi ședea, mă voi retrage\"), nu „am albit\" (vasavti, de la șiv, „păr alb/cărunt\") ca în ebraică — posibil o confuzie, în transmiterea textului, între rădăcina ebraică pentru „a încărunți\" și cea pentru „a ședea\".",
        "dict_ro": "Siv — „a încărunți” (de unde seiva, „bătrânețe înaintată, păr cărunt”); Metzudat Țion și Radak observă că „a albi” spune mai mult decât „a îmbătrâni”. Talmudul (Taanit 5b) adaugă o surpriză: Samuel a murit la doar cincizeci și doi de ani; bătrânețea „a sărit asupra lui” înainte de vreme, ca să nu i se vadă moartea prematură. Metzudat David citește în verset argumentul lui Samuel: regele e deja întărit, eu sunt bătrân, iar fiii mei sunt de partea regelui — deci nu am niciun interes când vă vorbesc."
       },
       {
@@ -79439,8 +79446,10 @@
        "heb": "וַחֲמוֹר",
        "translit": "vahamor",
        "strong": "H2543",
-       "pos": "conjuncție + substantiv, masculin singular",
+       "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "măgar.",
+       "greek": "ὄνος (onos)",
+       "greek_def_ro": "ὄνος (onos) — măgar.",
        "dict_ro": "Hamor — măgarul, animalul de călărie și de povară al omului obișnuit. Întrebarea lui Samuel, „al cui măgar l-am luat?”, e aproape cuvânt cu cuvânt apărarea lui Moise în fața lui Korah: „n-am luat de la ei nici măcar un măgar” (Numeri 16:15) — de aici legătura dintre pericopa Korah și această haftară; iar Samuel era el însuși din urmașii lui Korah (1 Cronici 6). Rashi explică: când mergea din cetate în cetate să judece, Samuel călărea pe măgarul lui, deși ar fi avut dreptul să-l ia pe al lor, ca să nu semene nici pe departe cu fiii lui Eli."
       },
       {
@@ -79501,12 +79510,14 @@
       {
        "t": "jefuit",
        "w": "jefuit",
-       "heb": "עֲשַׁקְתָּנוּ",
+       "heb": "עֲשַׁקְתָּנוּ",
        "translit": "așaktanu",
        "strong": "H6231",
-       "pos": "verb, qal, perfect, persoana a II-a masculin singular + sufix persoana I plural",
+       "pos": "verb, qal perfect + sufix",
        "def_ro": "ne-ai asuprit, ne-ai jefuit.",
-       "dict_ro": "Așak — „a asupri, a stoarce, a lua cu forța sau prin înșelăciune”, mai ales de la cel slab (Levitic 19:13; Deuteronom 24:14). Răspunsul poporului e categoric și acoperă toate cele trei acuzații posibile: jaf, silnicie, mită. E o mărturie publică de integritate, rară în Scriptură, care pregătește contrastul cu regele pe care l-au cerut, despre care Samuel îi avertizase că „va lua” (1 Samuel 8:11-17)."
+       "greek": "καταδυναστεύω (katadynasteuo)",
+       "greek_def_ro": "καταδυναστεύω (katadynasteuo) — a asupri, a oprima.",
+       "dict_ro": "Așak — „a asupri, a stoarce, a lua cu forța sau prin înșelăciune”, mai ales de la cel slab (Leviticul 19:13; Deuteronomul 24:14). Răspunsul poporului e categoric și acoperă toate cele trei acuzații posibile: jaf, silnicie, mită. E o mărturie publică de integritate, rară în Scriptură, care pregătește contrastul cu regele pe care l-au cerut, despre care Samuel îi avertizase că „va lua” (1 Samuel 8:11-17)."
       },
       {
        "t": " și nu ne-ai silit și nici n-ai luat nimic din mâna nimănui.”"
@@ -79551,10 +79562,12 @@
        "t": "martor",
        "w": "martor",
        "heb": "עֵד",
-       "translit": "ed",
+       "translit": "ēd",
        "strong": "H5707",
        "pos": "substantiv, masculin singular",
        "def_ro": "martor.",
+       "greek": "μάρτυς (martys)",
+       "greek_def_ro": "μάρτυς (martys) — martor.",
        "dict_ro": "Ed — martorul (de la ud, „a repeta, a atesta”). Versetul se încheie ciudat, cu verbul la singular: „și a spus: Martor!”. Metzudat David și Radak explică: fie tot poporul a răspuns ca un singur om, fie a vorbit doar Saul, unsul. Talmudul (Makot 23b), urmat de Rashi și Radak, citește altfel: a ieșit un glas ceresc și a spus „Eu sunt martor” — unul dintre cele trei locuri unde duhul sfânt s-a arătat într-un tribunal omenesc (celelalte: la judecata lui Iuda cu Tamar și la judecata lui Solomon)."
       },
       {
@@ -79616,8 +79629,10 @@
        "heb": "הֶעֱלָה",
        "translit": "heela",
        "strong": "H5927",
-       "pos": "verb, hifil, perfect, persoana a III-a masculin singular",
+       "pos": "verb, hifil perfect",
        "def_ro": "a scos, a urcat (din Egipt).",
+       "greek": "ἀνάγω (anago)",
+       "greek_def_ro": "ἀνάγω (anago) — a ridica, a scoate, a aduce afară/sus.",
        "dict_ro": "Ala — „a urca”; la forma cauzativă, „a face să urce, a scoate”: ieșirea din Egipt e descrisă mereu ca o „urcare”, spre Țara care e mai sus decât toate. Expresia „DOMNUL, care a făcut pe Moise și Aaron” e neobișnuită; Rashi o explică: care i-a pregătit pentru misiunea Lui, iar Radak — care i-a crescut și i-a învățat, ca în „sufletele pe care le făcuseră în Haran” (Geneza 12:5). Metzudat David: după ce poporul a mărturisit pentru el, Samuel trece de la apărare la mustrare."
       },
       {
@@ -79680,8 +79695,10 @@
        "heb": "צִדְקוֹת",
        "translit": "țidkot",
        "strong": "H6666",
-       "pos": "substantiv, feminin plural, în construcție",
+       "pos": "substantiv, feminin plural construct",
        "def_ro": "faptele drepte, binefacerile.",
+       "greek": "δικαιοσύνη (dikaiosyne)",
+       "greek_def_ro": "δικαιοσύνη (dikaiosyne) — dreptate, faptele drepte.",
        "dict_ro": "Țedaka — dreptatea, dar la plural, țidkot, înseamnă „faptele de dreptate”, adică intervențiile salvatoare ale lui Dumnezeu în istorie; aceeași expresie apare în Cântarea Deborei („acolo se vor istorisi faptele drepte ale DOMNULUI”, Judecători 5:11). Samuel își prezintă cuvântarea ca pe un proces: „voi fi judecat împreună cu voi” (Metzudat Țion: „mă voi certa cu voi”), cu Dumnezeu ca judecător și cu istoria ca dosar. Radak rezumă acuzația: El v-a făcut dreptăți, iar voi ați făcut rele."
       },
       {
@@ -79741,12 +79758,14 @@
       {
        "t": "au strigat",
        "w": "au strigat",
-       "heb": "וַיִּזְעֲקוּ",
+       "heb": "וַיִּזְעֲקוּ",
        "translit": "vaizaku",
        "strong": "H2199",
-       "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin plural",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "au strigat (după ajutor).",
-       "dict_ro": "Zaak — strigătul celui asuprit, verbul cu care începe mântuirea din Egipt („strigătul lor a urcat la Dumnezeu”, Exod 2:23) și refrenul cărții Judecătorilor. Argumentul lui Samuel e construit pe acest verb: de fiecare dată au strigat, iar Dumnezeu a răspuns — fără rege. Metzudat David: „nu aveau atunci rege care să le poarte războaiele”. Radak observă că versetul e comprimat: nu au strigat când a venit Iacov în Egipt, ci mult mai târziu, când s-a ridicat un rege nou și i-a asuprit."
+       "greek": "βοάω (boao)",
+       "greek_def_ro": "βοάω (boao) — a striga.",
+       "dict_ro": "Zaak — strigătul celui asuprit, verbul cu care începe mântuirea din Egipt („strigătul lor a urcat la Dumnezeu”, Exodul 2:23) și refrenul cărții Judecătorilor. Argumentul lui Samuel e construit pe acest verb: de fiecare dată au strigat, iar Dumnezeu a răspuns — fără rege. Metzudat David: „nu aveau atunci rege care să le poarte războaiele”. Radak observă că versetul e comprimat: nu au strigat când a venit Iacov în Egipt, ci mult mai târziu, când s-a ridicat un rege nou și i-a asuprit."
       },
       {
        "t": " DOMNULUI, DOMNUL i-a trimis pe Moise și Aaron și ei i-au scos pe strămoșii voștri din Egipt și i-au făcut să se așeze în acest loc."
@@ -79802,12 +79821,14 @@
       {
        "t": "au uitat",
        "w": "au uitat",
-       "heb": "וַיִּשְׁכְּחוּ",
+       "heb": "וַיִּשְׁכְּחוּ",
        "translit": "vaișkehu",
        "strong": "H7911",
-       "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin plural",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "au uitat.",
-       "dict_ro": "Șahah — „a uita”; în Deuteronom e cuvântul care rezumă primejdia vieții în belșug: „păzește-te să nu-L uiți pe DOMNUL” (Deuteronom 8:11-14; 32:18). Samuel parcurge pe scurt cartea Judecătorilor: Sisera, căpetenia lui Iabin din Hațor (Judecători 4), filistenii (Judecători 10; 13) și regele Moabului, Eglon (Judecători 3:12). Verbul „i-a vândut” (vayimkor) e, după Metzudat Țion, o imagine: i-a dat în mâna lor „ca și cum i-ar fi vândut”."
+       "greek": "ἐπιλανθάνομαι (epilanthanomai)",
+       "greek_def_ro": "ἐπιλανθάνομαι (epilanthanomai) — a uita.",
+       "dict_ro": "Șahah — „a uita”; în Deuteronom e cuvântul care rezumă primejdia vieții în belșug: „păzește-te să nu-L uiți pe DOMNUL” (Deuteronomul 8:11-14; 32:18). Samuel parcurge pe scurt cartea Judecătorilor: Sisera, căpetenia lui Iabin din Hațor (Judecători 4), filistenii (Judecători 10; 13) și regele Moabului, Eglon (Judecători 3:12). Verbul „i-a vândut” (vayimkor) e, după Metzudat Țion, o imagine: i-a dat în mâna lor „ca și cum i-ar fi vândut”."
       },
       {
        "t": " de DOMNUL, Dumnezeul lor, care i-a dat în mâna lui Sisra, comandantul oștirii lui Hațor, și în mâna filistenilor, și în mâna regelui Moabului, și s-au războit cu ei."
@@ -79859,11 +79880,12 @@
       {
        "t": "idolilor lui Astarte",
        "w": "idolilor lui Astarte",
-       "heb": "הָעַשְׁתָּרוֹת",
+       "heb": "הָעַשְׁתָּרוֹת",
        "translit": "haaștarot",
        "strong": "H6252",
-       "pos": "substantiv propriu, feminin plural, cu articol",
+       "pos": "nume propriu",
        "def_ro": "Astartele, chipurile zeiței Astarte.",
+       "diff_ro": "Septuaginta are aici „τοῖς ἄλσεσι\" („crângurile/dumbrăvile sacre\"), nu transliterarea numelui „Aștarot\" ca în ebraică — o redare generică a cultului idolatru canaanit, nu numele propriu al zeiței.",
        "dict_ro": "Aștarot — pluralul lui Aștoret, zeița canaanită a fertilității și a războiului (Iștar la babilonieni), pereche feminină a lui Baal; pluralul desemnează multele ei chipuri și sanctuare locale. Mărturisirea „am păcătuit, căci l-am părăsit pe DOMNUL și am slujit baalilor și astartelor” reia aproape exact strigătul din Judecători 10:10. Metzudat David subliniază ce nu au cerut atunci: s-au rugat, dar nu au cerut un rege care să le poarte războaiele. Radak notează o diferență între scriere și citire: textul scrie „a spus”, iar citirea tradițională e „au spus”."
       },
       {
@@ -79916,12 +79938,12 @@
       {
        "t": "Bedan",
        "w": "Bedan",
-       "heb": "בְּדָן",
-       "translit": "Bedan",
+       "heb": "בְּדָן",
+       "translit": "bedan",
        "strong": "H917",
-       "pos": "substantiv propriu, masculin",
+       "pos": "nume propriu",
        "def_ro": "Bedan, identificat de tradiție cu Samson.",
-       "dict_ro": "Bedan — nume care nu apare în cartea Judecătorilor. Targumul, Rashi, Radak și Talmudul (Roș Hașana 25a) îl identifică cu Samson: „ben Dan”, „fiul lui Dan”, din tribul Dan; Septuaginta citește în schimb „Barac”, iar Evrei 11:32 enumeră „Ghedeon, Barac, Samson, Iefta... Samuel”. Talmudul (Roș Hașana 25b) învață din acest verset că judecătorii mai mărunți — Ierubaal, Bedan, Iefta — sunt puși alături de cei mai mari, Moise, Aaron și Samuel: „Iefta în generația lui e ca Samuel în generația lui”; oricine e numit conducător trebuie ascultat ca cel mai mare dintre cei mari."
+       "dict_ro": "O variantă textuală celebră: Septuaginta are aici „Βαράκ\" („Barac\", judecătorul cunoscut din Judecători 4-5), nu „Bedan\" ca în textul ebraic masoretic — mulți cercetători consideră că „Barak\" e lectura originală, iar „Bedan\" un nume corupt în transmiterea textului ebraic."
       },
       {
        "t": " (n.t. Samson) și pe Iefta și pe Samuel și v-a salvat din mâna dușmanilor dimprejurul vostru, și v-a făcut să locuiți în siguranță."
@@ -79985,10 +80007,12 @@
        "t": "Nahaș",
        "w": "Nahaș",
        "heb": "נָחָשׁ",
-       "translit": "Nahaș",
+       "translit": "nahaș",
        "strong": "H5176",
-       "pos": "substantiv propriu, masculin",
+       "pos": "nume propriu",
        "def_ro": "Nahaș („șarpe”), regele amoniților.",
+       "greek": "Νάας (Naas)",
+       "greek_def_ro": "Νάας (Naas) — Naas (transliterarea grecească a numelui Nahaș).",
        "dict_ro": "Nahaș — numele înseamnă „șarpe”; regele lui Amon care asediase Iaveș-Ghileadul și ceruse ca locuitorilor să li se scoată ochiul drept (1 Samuel 11:1-2). Samuel dezvăluie aici ce stătea, de fapt, în spatele cererii unui rege: frica de Nahaș. Metzudat David o explică: „ați spus: nu vrem să fim ca părinții noștri, înaintea cărora ieșea judecătorul la luptă, ci un rege să domnească peste noi și să ne poarte războaiele” — deși „DOMNUL, Dumnezeul vostru, este Regele vostru”, ca în Judecători 8:23."
       },
       {
@@ -80037,11 +80061,12 @@
       {
        "t": "pe care l-ați cerut",
        "w": "pe care l-ați cerut",
-       "heb": "אֲשֶׁר שְׁאֶלְתֶּם",
-       "translit": "așer șeeltem",
+       "heb": "שְׁאֶלְתֶּם",
+       "translit": "șeeltem",
        "strong": "H7592",
-       "pos": "pronume relativ + verb, qal, perfect, persoana a II-a masculin plural",
+       "pos": "verb, qal perfect",
        "def_ro": "pe care l-ați cerut.",
+       "diff_ro": "Septuaginta redă doar prima parte a frazei ebraice („pe care l-ați ales\" — ὃν ἐξελέξασθε), fără să repete separat „pe care l-ați cerut\" (sheeltem) — cele două verbe paralele din ebraică sunt condensate într-unul singur în greacă.",
        "dict_ro": "Șaal — „a cere”; din același verb vine numele Șaul, „cel cerut”. Jocul de cuvinte străbate tot episodul: „regele pe care l-ați cerut (șeeltem)” sună ca numele lui Șaul, iar mustrarea din 12:17 și 12:19 repetă „cerând (lișol) un rege”. Metzudat David explică perechea „ales” și „cerut”: întâi l-au cerut, iar după biruința de la Iaveș l-au și ales de bunăvoie; deci acum „ce a trecut nu mai este” — regele rămâne."
       },
       {
@@ -80093,12 +80118,14 @@
       {
        "t": "nu vă veți răzvrăti",
        "w": "nu vă veți răzvrăti",
-       "heb": "וְלֹא תַמְרוּ",
-       "translit": "velo tamru",
+       "heb": "תַמְרוּ",
+       "translit": "tamru",
        "strong": "H4784",
-       "pos": "conjuncție + negație + verb, hifil, imperfect, persoana a II-a masculin plural",
+       "pos": "verb, hifil imperfect",
        "def_ro": "nu vă veți împotrivi, nu vă veți răscula.",
-       "dict_ro": "Mara — „a fi îndărătnic, a se răzvrăti”, de la aceeași rădăcină cu meri, „răzvrătire” (Metzudat Țion); e verbul cu care Moise descrie poporul din pustie: „ați fost răzvrătiți împotriva DOMNULUI” (Deuteronom 9:7, 24). Versetul e o condiție fără încheiere explicită; Rashi o citește ca făgăduință: „veți trăi mult, și voi, și regele”. Metzudat David: atunci regele va merge înaintea voastră la luptă, iar voi toți veți fi „după DOMNUL”."
+       "greek": "ἐρίζω (erizo)",
+       "greek_def_ro": "ἐρίζω (erizo) — a se împotrivi, a se răzvrăti.",
+       "dict_ro": "Mara — „a fi îndărătnic, a se răzvrăti”, de la aceeași rădăcină cu meri, „răzvrătire” (Metzudat Țion); e verbul cu care Moise descrie poporul din pustie: „ați fost răzvrătiți împotriva DOMNULUI” (Deuteronomul 9:7, 24). Versetul e o condiție fără încheiere explicită; Rashi o citește ca făgăduință: „veți trăi mult, și voi, și regele”. Metzudat David: atunci regele va merge înaintea voastră la luptă, iar voi toți veți fi „după DOMNUL”."
       },
       {
        "t": " împotriva glasului DOMNULUI, și dacă atât voi, cât și regele care domnește peste voi, veți merge după DOMNUL, Dumnezeul tău, [atunci va fi bine.]"
@@ -80152,12 +80179,14 @@
       {
        "t": "mâna DOMNULUI",
        "w": "mâna DOMNULUI",
-       "heb": "יַד־יְהוָה",
-       "translit": "iad-ADONAI",
+       "heb": "יַד",
+       "translit": "iad",
        "strong": "H3027",
-       "pos": "substantiv, feminin singular, în construcție + numele divin",
+       "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "mâna DOMNULUI (puterea Lui care lovește).",
-       "dict_ro": "Iad — mâna, simbolul puterii; „mâna DOMNULUI” e expresia loviturii divine, ca la plăgile Egiptului (Exod 9:3). Finalul versetului, „împotriva voastră și împotriva părinților voștri”, e greu, fiindcă părinții muriseră; comentatorii dau trei explicații: Rashi — „împotriva voastră, cum a fost împotriva părinților voștri”; Metzudat David și Radak — „părinții” sunt regii, căci conducătorul e numit „tată” (Geneza 45:8); Talmudul (Yevamot 63b) — dezgroparea morților, căci „pentru vina celor vii sunt dezgropați morții”."
+       "greek": "χείρ (cheir)",
+       "greek_def_ro": "χείρ (cheir) — mâna (puterea) DOMNULUI.",
+       "dict_ro": "Iad — mâna, simbolul puterii; „mâna DOMNULUI” e expresia loviturii divine, ca la plăgile Egiptului (Exodul 9:3). Finalul versetului, „împotriva voastră și împotriva părinților voștri”, e greu, fiindcă părinții muriseră; comentatorii dau trei explicații: Rashi — „împotriva voastră, cum a fost împotriva părinților voștri”; Metzudat David și Radak — „părinții” sunt regii, căci conducătorul e numit „tată” (Geneza 45:8); Talmudul (Yevamot 63b) — dezgroparea morților, căci „pentru vina celor vii sunt dezgropați morții”."
       },
       {
        "t": " va fi împotriva voastră și împotriva părinților voștri."
@@ -80216,12 +80245,14 @@
       {
        "t": "acest lucru măreț",
        "w": "acest lucru măreț",
-       "heb": "הַדָּבָר הַגָּדוֹל הַזֶּה",
-       "translit": "hadavar hagadol haze",
+       "heb": "הַגָּדוֹל",
+       "translit": "hagadol",
        "strong": "H1419",
-       "pos": "substantiv cu articol + adjectiv cu articol + demonstrativ",
+       "pos": "adjectiv, masculin singular",
        "def_ro": "acest lucru mare.",
-       "dict_ro": "Gadol — „mare”; „lucrul cel mare” anunță un semn vizibil care să confirme cuvântul profetului, ca la Marea Roșie („stați și vedeți mântuirea DOMNULUI”, Exod 14:13 — aceeași poruncă: hityațvu ureu). Rashi explică rostul semnului: precum rugăciunea mea poate schimba anotimpurile, tot așa ar fi putut să vă apere de dușman, și nu era nevoie să cereți un rege cât trăiesc eu. Metzudat David adaugă o lecție despre căile lui Dumnezeu: El împlinește uneori o cerere chiar dacă e rea în ochii Lui."
+       "greek": "μέγας (megas)",
+       "greek_def_ro": "μέγας (megas) — mare, măreț.",
+       "dict_ro": "Gadol — „mare”; „lucrul cel mare” anunță un semn vizibil care să confirme cuvântul profetului, ca la Marea Roșie („stați și vedeți mântuirea DOMNULUI”, Exodul 14:13 — aceeași poruncă: hityațvu ureu). Rashi explică rostul semnului: precum rugăciunea mea poate schimba anotimpurile, tot așa ar fi putut să vă apere de dușman, și nu era nevoie să cereți un rege cât trăiesc eu. Metzudat David adaugă o lecție despre căile lui Dumnezeu: El împlinește uneori o cerere chiar dacă e rea în ochii Lui."
       },
       {
        "t": " pe care DOMNUL îl face înaintea ochilor voștri."
@@ -80273,12 +80304,14 @@
       {
        "t": "culesului grâului",
        "w": "culesului grâului",
-       "heb": "קְצִיר־חִטִּים",
-       "translit": "kețir-hitim",
+       "heb": "קְצִיר",
+       "translit": "kețir",
        "strong": "H7105",
-       "pos": "substantiv, masculin singular, în construcție + substantiv, feminin plural",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "secerișul grâului.",
-       "dict_ro": "Kațir hitim — secerișul grâului, la începutul verii, în preajma sărbătorii Șavuot (Exod 34:22), în plin sezon secetos, când ploaia nu cade aproape niciodată în Țara lui Israel. Ploaia în acest anotimp nu era binecuvântare, ci pagubă: grâul copt, ud, putrezește. Talmudul (Taanit 12b) învață de aici că ploaia căzută după ieșirea lunii Nisan e „semn de blestem”. Rashi adaugă: deși Dumnezeu nu aduce bucuros pedeapsa fără rost, puterea rugăciunii profetului e atât de mare încât El va răspunde."
+       "greek": "θερισμὸς πυρῶν (therismos pyron)",
+       "greek_def_ro": "θερισμὸς πυρῶν (therismos pyron) — seceriș de grâu.",
+       "dict_ro": "Kațir hitim — secerișul grâului, la începutul verii, în preajma sărbătorii Șavuot (Exodul 34:22), în plin sezon secetos, când ploaia nu cade aproape niciodată în Țara lui Israel. Ploaia în acest anotimp nu era binecuvântare, ci pagubă: grâul copt, ud, putrezește. Talmudul (Taanit 12b) învață de aici că ploaia căzută după ieșirea lunii Nisan e „semn de blestem”. Rashi adaugă: deși Dumnezeu nu aduce bucuros pedeapsa fără rost, puterea rugăciunii profetului e atât de mare încât El va răspunde."
       },
       {
        "t": "? Și totuși, voi striga către DOMNUL și el va trimite tunete și ploaie și veți cunoaște și veți vedea că mare este răul vostru pe care l-ați făcut înaintea ochilor DOMNULUI, cerând un rege pentru voi.”"
@@ -80343,7 +80376,9 @@
        "strong": "H6963",
        "pos": "substantiv, masculin plural",
        "def_ro": "tunete; literal: glasuri.",
-       "dict_ro": "Kolot — literal „glasuri”; în Biblie, pluralul desemnează adesea tunetele, „glasurile” lui Dumnezeu, ca la plaga grindinei (Exod 9:23-29) și la Sinai (Exod 19:16). Metzudat David explică de ce poporul s-a temut „de DOMNUL și de Samuel”: de DOMNUL, pentru păcatul cererii unui rege; de Samuel, pentru că au pus un rege în timpul vieții lui, ca și cum l-ar fi lepădat. Teama de Dumnezeu și de slujitorul Lui apare împreună și după trecerea Mării (Exod 14:31)."
+       "greek": "φωνή (phone)",
+       "greek_def_ro": "φωνή (phone) — tunete (literal: glasuri, voci — ale cerului).",
+       "dict_ro": "Kolot — literal „glasuri”; în Biblie, pluralul desemnează adesea tunetele, „glasurile” lui Dumnezeu, ca la plaga grindinei (Exodul 9:23-29) și la Sinai (Exodul 19:16). Metzudat David explică de ce poporul s-a temut „de DOMNUL și de Samuel”: de DOMNUL, pentru păcatul cererii unui rege; de Samuel, pentru că au pus un rege în timpul vieții lui, ca și cum l-ar fi lepădat. Teama de Dumnezeu și de slujitorul Lui apare împreună și după trecerea Mării (Exodul 14:31)."
       },
       {
        "t": " și ploaie în ziua aceea; și tot poporul s-a temut mult de DOMNUL și de Samuel."
@@ -80389,12 +80424,14 @@
       {
        "t": "Roagă-te",
        "w": "Roagă-te",
-       "heb": "הִתְפַּלֵּל",
-       "translit": "hitpalel",
+       "heb": "הִתְפַּלֵּל",
+       "translit": "hitpalēl",
        "strong": "H6419",
-       "pos": "verb, hitpael, imperativ, masculin singular",
+       "pos": "verb, hitpael imperativ",
        "def_ro": "roagă-te, mijlocește.",
-       "dict_ro": "Palal (hitpael: hitpalel) — „a se ruga”; rădăcina are sensul de bază „a judeca, a hotărî” (pelilim, „judecători”), astfel încât rugăciunea e, într-un fel, prezentarea propriei pricini înaintea Judecătorului. Samuel e în Scriptură mijlocitorul prin excelență, alături de Moise (Ieremia 15:1; Psalmii 99:6), iar poporul recunoaște acum că are nevoie de rugăciunea lui, nu de un rege. Metzudat David: „la toate păcatele pe care le-am făcut de atunci, am mai adăugat răul cererii unui rege”."
+       "greek": "προσεύχομαι (proseuchomai)",
+       "greek_def_ro": "προσεύχομαι (proseuchomai) — a se ruga.",
+       "dict_ro": "Palal (hitpael: hitpalel) — „a se ruga”; rădăcina are sensul de bază „a judeca, a hotărî” (pelilim, „judecători”), astfel încât rugăciunea e, într-un fel, prezentarea propriei pricini înaintea Judecătorului. Samuel e în Scriptură mijlocitorul prin excelență, alături de Moise (Ieremia 15:1; Psalmul 99:6), iar poporul recunoaște acum că are nevoie de rugăciunea lui, nu de un rege. Metzudat David: „la toate păcatele pe care le-am făcut de atunci, am mai adăugat răul cererii unui rege”."
       },
       {
        "t": " DOMNULUI, Dumnezeului tău, în numele slujitorilor tăi, ca să nu murim; căci am adăugat răutate la toate păcatele noastre, cerând un rege pentru noi.”"
@@ -80442,11 +80479,13 @@
       {
        "t": "Nu vă temeți",
        "w": "Nu vă temeți",
-       "heb": "אַל־תִּירָאוּ",
-       "translit": "al-tirau",
+       "heb": "תִּירָאוּ",
+       "translit": "tirau",
        "strong": "H3372",
-       "pos": "negație + verb, qal, jusiv, persoana a II-a masculin plural",
+       "pos": "verb, qal jusiv",
        "def_ro": "nu vă temeți.",
+       "greek": "φοβέομαι (phobeomai)",
+       "greek_def_ro": "φοβέομαι (phobeomai) — a se teme.",
        "dict_ro": "Yare — „a se teme”; „nu vă temeți” e formula biblică a încurajării în fața lui Dumnezeu, ca la Sinai, după darea celor Zece Porunci: „nu vă temeți, căci Dumnezeu a venit să vă pună la încercare”. Samuel nu neagă păcatul — „voi ați făcut tot acest rău” —, dar îl închide în trecut: ce s-a făcut nu mai poate fi întors, însă nu vă abateți de la DOMNUL, și vina va fi ispășită (Metzudat David). Radak aduce și lectura Targumului: „voi ați pricinuit tot acest rău”, adică ploaia."
       },
       {
@@ -80497,12 +80536,12 @@
       {
        "t": "deșertăciuni",
        "w": "deșertăciuni",
-       "heb": "הַתֹּהוּ",
+       "heb": "הַתֹּהוּ",
        "translit": "hatohu",
        "strong": "H8414",
-       "pos": "substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "deșertăciune, nimicul (idolii).",
-       "dict_ro": "Tohu — „gol, pustiu, nimic”, cuvântul din Geneza 1:2 („pământul era tohu vavohu”), pe care Metzudat Țion îl definește: „un lucru fără substanță”. Aplicat idolilor, cuvântul spune că nu sunt doar falși, ci goi: „nu pot ajuta și nu pot salva”. Isaia folosește aceeași imagine pentru cei care fac chipuri cioplite: „toți sunt tohu” (Isaia 44:9). Radak dă două lecturi ale construcției: „nu vă abateți [de la DOMNUL], căci atunci ați merge după deșertăciuni”, sau „nu vă abateți după deșertăciuni, care nu folosesc”."
+       "dict_ro": "Tohu e același cuvânt din Geneza 1:2 („pământul era tohu va-vohu\", „pustiu și gol\") — aici, aplicat idolilor, înseamnă „lucruri fără ființă, fără substanță\". Septuaginta redă ideea descriptiv, „τῶν μηθὲν ὄντων\" („cele ce nu sunt nimic\"), nu printr-un singur cuvânt echivalent."
       },
       {
        "t": " care nu pot ajuta și nu pot salva, căci sunt deșertăciuni."
@@ -80558,12 +80597,14 @@
       {
        "t": "nu Își va părăsi",
        "w": "nu Își va părăsi",
-       "heb": "לֹא־יִטֹּשׁ",
-       "translit": "lo-itoș",
+       "heb": "יִטֹּשׁ",
+       "translit": "itoș",
        "strong": "H5203",
-       "pos": "negație + verb, qal, imperfect, persoana a III-a masculin singular",
+       "pos": "verb, qal imperfect",
        "def_ro": "nu va lăsa, nu va părăsi.",
-       "dict_ro": "Nataș — „a lăsa, a părăsi, a abandona”. Temelia încrederii nu e meritul poporului, ci numele lui Dumnezeu: Radak explică, după Moise (Numeri 14:15-16) și Ioșua (Iosua 7:9), că dacă Dumnezeu i-ar nimici, neamurile ar spune că n-a putut să-i salveze, și numele Lui ar fi micșorat. „Hoil” — „a binevoit, a voit”, spune Metzudat Țion (ca în Exod 2:21, „Moise a binevoit să rămână”), iar Rashi îl explică „a jurat”. Psalmii 94:14 reia aceeași făgăduință: „DOMNUL nu-Și va lepăda poporul”."
+       "greek": "ἀπωθέω (apotheo)",
+       "greek_def_ro": "ἀπωθέω (apotheo) — a respinge, a lepăda.",
+       "dict_ro": "Nataș — „a lăsa, a părăsi, a abandona”. Temelia încrederii nu e meritul poporului, ci numele lui Dumnezeu: Radak explică, după Moise (Numeri 14:15-16) și Ioșua (Iosua 7:9), că dacă Dumnezeu i-ar nimici, neamurile ar spune că n-a putut să-i salveze, și numele Lui ar fi micșorat. „Hoil” — „a binevoit, a voit”, spune Metzudat Țion (ca în Exodul 2:21, „Moise a binevoit să rămână”), iar Rashi îl explică „a jurat”. Psalmul 94:14 reia aceeași făgăduință: „DOMNUL nu-Și va lepăda poporul”."
       },
       {
        "t": " poporul de dragul numelui Său cel mare, căci DOMNUL a promis să vă facă pe voi popor al Său.”"
