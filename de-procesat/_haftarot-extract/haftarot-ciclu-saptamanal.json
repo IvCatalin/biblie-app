@@ -70121,11 +70121,13 @@
       {
        "t": "fiii lui Țadok",
        "w": "fiii lui Țadok",
-       "heb": "בְּנֵי צָדוֹק",
-       "translit": "benei Țadok",
+       "heb": "צָדוֹק",
+       "translit": "țadok",
        "strong": "H6659",
-       "pos": "substantiv, masculin plural, în construcție + nume propriu",
+       "pos": "nume propriu",
        "def_ro": "urmașii lui Țadok, familia marilor preoți.",
+       "greek": "υἱοὶ τοῦ Σαδδούκ (hyioi tou Saddouk)",
+       "greek_def_ro": "υἱοὶ τοῦ Σαδδούκ (hyioi tou Saddouk) — fiii lui Țadok.",
        "dict_ro": "Țadok — marele preot din vremea lui David și Solomon (1 Împărați 2:35), numit, după Rashi, pentru că a fost primul care a slujit ca mare preot în Templul lui Solomon; numele lui înseamnă „drept”. Ezechiel le rezervă urmașilor lui slujirea din viitorul Templu, pentru că ei „au păzit sarcina Sanctuarului” atunci când restul poporului s-a abătut; Radak explică contrastul: preoții care s-au rătăcit nu se vor mai întoarce la slujire, pe când cei care n-au rătăcit o vor primi înapoi."
       },
       {
@@ -70182,11 +70184,13 @@
       {
        "t": "masa Mea",
        "w": "masa Mea",
-       "heb": "שֻׁלְחָנִי",
+       "heb": "שֻׁלְחָנִי",
        "translit": "șulhani",
        "strong": "H7979",
-       "pos": "substantiv, masculin singular + sufix persoana I",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "masa Mea.",
+       "greek": "τράπεζά μου (trapeza mou)",
+       "greek_def_ro": "τράπεζά μου (trapeza mou) — masa mea.",
        "dict_ro": "Șulhan — masa; „masa Mea” e aici altarul sau masa pâinilor punerii înainte. Metzudat David și Radak (după Targum Ionatan, „la masa pâinilor feței”) o identifică cu rânduirea pâinilor punerii înainte pe masa din Sanctuar. Maleahi folosește aceeași expresie, „masa DOMNULUI”, pentru altar (Maleahi 1:7), iar ideea unei „mese” a lui Dumnezeu la care slujesc preoții a trecut și în limbajul creștin despre altar."
       },
       {
@@ -70237,12 +70241,14 @@
       {
        "t": "veșminte de in",
        "w": "veșminte de in",
-       "heb": "בִּגְדֵי פִשְׁתִּים",
-       "translit": "bigdei fiștim",
+       "heb": "בִּגְדֵי פִשְׁתִּים",
+       "translit": "bigdē fiștim",
        "strong": "H6593",
-       "pos": "substantiv, masculin plural, în construcție + substantiv plural",
+       "pos": "substantiv, masculin plural construct + substantiv, masculin plural",
        "def_ro": "haine de in.",
-       "dict_ro": "Pișteh — inul, fibra vegetală din care erau făcute veșmintele preoțești, în contrast cu lâna (țemer). Rashi și Metzudat David leagă versetul de slujirea marelui preot în Sfânta Sfintelor, în ziua de Iom Kipur, când purta doar „veșmintele albe” de in (Levitic 16:4), fără albastrul de lână din mantie și brâu. Radak observă însă că formularea la plural nu se potrivește cu slujba unică a marelui preot și propune că e o rânduială nouă pentru Templul viitor."
+       "greek": "στολαὶ λιναῖ (stolai linai)",
+       "greek_def_ro": "στολαὶ λιναῖ (stolai linai) — veșminte de in.",
+       "dict_ro": "Pișteh — inul, fibra vegetală din care erau făcute veșmintele preoțești, în contrast cu lâna (țemer). Rashi și Metzudat David leagă versetul de slujirea marelui preot în Sfânta Sfintelor, în ziua de Iom Kipur, când purta doar „veșmintele albe” de in (Leviticul 16:4), fără albastrul de lână din mantie și brâu. Radak observă însă că formularea la plural nu se potrivește cu slujba unică a marelui preot și propune că e o rânduială nouă pentru Templul viitor."
       },
       {
        "t": "; niciun veșmânt de lână să nu se afle asupra lor când slujesc [dincolo de] porțile curții interioare sau înăuntrul ei."
@@ -70296,11 +70302,12 @@
       {
        "t": "în locul unde transpiră",
        "w": "în locul unde transpiră",
-       "heb": "בַּיָּזַע",
-       "translit": "bayaza",
+       "heb": "בַּיָּזַע",
+       "translit": "baiaza",
        "strong": "H3154",
-       "pos": "prepoziție + substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "în [locul de] sudoare.",
+       "diff_ro": "Septuaginta are „βίᾳ\" („cu forță/violent\"), nu „în locul unde transpiră\" (bayaza, un termen rar pentru transpirație) ca în ebraică — o citire diferită a acestui cuvânt ebraic neobișnuit.",
        "dict_ro": "Yeza — sudoarea, cuvânt care apare doar aici în Biblie. Talmudul (Zevahim 18b) îl explică: „să nu se încingă în locul unde oamenii transpiră” — brâul nu se leagă nici sub șolduri, nici deasupra coatelor, ci la înălțimea coatelor; Abaye adaugă că Ezechiel doar a dat sprijin scris unei tradiții care exista de dinainte. Rashi mai aduce o explicație: Tora a interzis preoților lâna tocmai pentru că încălzește trupul și îl face să transpire."
       },
       {
@@ -70359,12 +70366,14 @@
       {
        "t": "odăile sfinte",
        "w": "odăile sfinte",
-       "heb": "לִשְׁכֹת הַקֹּדֶשׁ",
-       "translit": "lișhot hakodeș",
+       "heb": "בְּלִשְׁכֹת",
+       "translit": "belișhot",
        "strong": "H3957",
-       "pos": "substantiv, feminin plural, în construcție + substantiv cu articol",
+       "pos": "substantiv, feminin plural construct",
        "def_ro": "camerele Sanctuarului.",
-       "dict_ro": "Lișka — o încăpere laterală a Templului, folosită pentru păstrarea veșmintelor și a obiectelor sfinte (Ezechiel 42:13-14). Rashi vede aici porunca dată marelui preot în Levitic 16:23: „își va scoate veșmintele de in... și le va lăsa acolo”. Motivul — „să nu sfințească poporul cu hainele lor” — e explicat de Metzudat David și Radak: ca nu cumva, atingându-se de veșmintele sfinte, poporul să pară sfânt ca preoții."
+       "greek": "ἐξέδραι τῶν ἁγίων (exedrai ton hagion)",
+       "greek_def_ro": "ἐξέδραι τῶν ἁγίων (exedrai ton hagion) — odăile sfinte.",
+       "dict_ro": "Lișka — o încăpere laterală a Templului, folosită pentru păstrarea veșmintelor și a obiectelor sfinte (Ezechiel 42:13-14). Rashi vede aici porunca dată marelui preot în Leviticul 16:23: „își va scoate veșmintele de in... și le va lăsa acolo”. Motivul — „să nu sfințească poporul cu hainele lor” — e explicat de Metzudat David și Radak: ca nu cumva, atingându-se de veșmintele sfinte, poporul să pară sfânt ca preoții."
       },
       {
        "t": " și să îmbrace alte haine și să nu sfințească poporul cu hainele lor."
@@ -70420,11 +70429,12 @@
       {
        "t": "capetele tunse",
        "w": "capetele tunse",
-       "heb": "כָּסוֹם יִכְסְמוּ",
-       "translit": "kasom yihsemu",
+       "heb": "כָּסוֹם יִכְסְמוּ",
+       "translit": "kasom ihsemu",
        "strong": "H3697",
-       "pos": "verb, qal, infinitiv absolut + imperfect, persoana a III-a plural",
+       "pos": "verb, qal infinitiv absolut + verb, qal imperfect",
        "def_ro": "să-și tundă [părul] cu măsură.",
+       "diff_ro": "Septuaginta are „καλύπτοντες καλύψουσι τὰς κεφαλὰς αὐτῶν\" („acoperindu-și, își vor acoperi capetele\"), nu „să aibă capetele tunse\" (kasom yiksemu) ca în ebraică — probabil o confuzie veche între rădăcinile ebraice înrudite „kasam\" (a tunde) și „kasah\" (a acoperi).",
        "dict_ro": "Kasam — „a tunde, a scurta”, înrudit cu kusemet, grâul spelta (Metzudat Țion). Talmudul (Sanhedrin 22b) deduce de aici că preotul obișnuit trebuie să se tundă o dată la treizeci de zile, prin analogie cu nazireul, la care „pletele” (pera) cresc cel puțin treizeci de zile. Rashi descrie tunsoarea marelui preot „ca spicele de spelta”, cu vârful unui fir lângă rădăcina celuilalt, sau, într-o altă explicație, o măsură de mijloc: nici ras cu totul, nici lăsat să crească."
       },
       {
@@ -70486,9 +70496,11 @@
        "heb": "וְיַיִן",
        "translit": "veiain",
        "strong": "H3196",
-       "pos": "conjuncție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "vin.",
-       "dict_ro": "Iain — vinul; interdicția vine din Tora, după moartea lui Nadav și Avihu: „vin și băutură tare să nu bei, tu și fiii tăi, când intrați în Cortul Întâlnirii, ca să nu muriți” (Levitic 10:9), motivul fiind — după versetul următor de acolo — ca preotul să poată deosebi între sfânt și profan. Radak observă că Ezechiel repetă aici și reguli deja scrise în Tora, alături de rânduieli noi pentru viitor."
+       "greek": "οἶνος (oinos)",
+       "greek_def_ro": "οἶνος (oinos) — vin.",
+       "dict_ro": "Iain — vinul; interdicția vine din Tora, după moartea lui Nadav și Avihu: „vin și băutură tare să nu bei, tu și fiii tăi, când intrați în Cortul Întâlnirii, ca să nu muriți” (Leviticul 10:9), motivul fiind — după versetul următor de acolo — ca preotul să poată deosebi între sfânt și profan. Radak observă că Ezechiel repetă aici și reguli deja scrise în Tora, alături de rânduieli noi pentru viitor."
       },
       {
        "t": " când intră în curtea interioară."
@@ -70542,12 +70554,14 @@
       {
        "t": "fecioare",
        "w": "fecioare",
-       "heb": "בְּתוּלֹת",
+       "heb": "בְּתוּלֹת",
        "translit": "betulot",
        "strong": "H1330",
        "pos": "substantiv, feminin plural",
        "def_ro": "fecioare.",
-       "dict_ro": "Betula — fecioara. Tora interzice doar marelui preot căsătoria cu o văduvă (Levitic 21:14), iar versetul lui Ezechiel pare să extindă interdicția la toți preoții. Talmudul (Kidușin 78b) rezolvă contradicția: prima parte a versetului se referă la marele preot, iar a doua („o văduvă care a fost soție de preot, să ia”) la preotul obișnuit; Rava arată că un verset poate trata astfel două subiecte fără delimitare. Rashi și Metzudat David urmează această lectură."
+       "greek": "παρθένος (parthenos)",
+       "greek_def_ro": "παρθένος (parthenos) — fecioară.",
+       "dict_ro": "Betula — fecioara. Tora interzice doar marelui preot căsătoria cu o văduvă (Leviticul 21:14), iar versetul lui Ezechiel pare să extindă interdicția la toți preoții. Talmudul (Kidușin 78b) rezolvă contradicția: prima parte a versetului se referă la marele preot, iar a doua („o văduvă care a fost soție de preot, să ia”) la preotul obișnuit; Rava arată că un verset poate trata astfel două subiecte fără delimitare. Rashi și Metzudat David urmează această lectură."
       },
       {
        "t": " din seminția casei lui Israel, sau o văduvă care a fost soție de preot, să ia [de soție]."
@@ -70601,12 +70615,14 @@
       {
        "t": "între sacru și profan",
        "w": "între sacru și profan",
-       "heb": "בֵּין קֹדֶשׁ לְחֹל",
-       "translit": "bein kodeș lehol",
+       "heb": "קֹדֶשׁ לְחֹל",
+       "translit": "kodeș lehol",
        "strong": "H2455",
-       "pos": "prepoziție + substantiv + prepoziție + substantiv",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular",
        "def_ro": "deosebirea dintre ce e sfânt și ce e obișnuit.",
-       "dict_ro": "Hol — ceea ce e obișnuit, profan, neconsacrat, opusul lui kodeș. Rolul preoților ca învățători ai poporului e formulat încă în Levitic 10:10-11 („ca să deosebiți între sfânt și profan... și să-i învățați pe fiii lui Israel”) și în binecuvântarea lui Moise pentru Levi (Deuteronom 33:10). Ezechiel acuzase exact încălcarea acestei datorii în capitolul 22: „preoții ei... n-au făcut deosebire între sfânt și profan” (Ezechiel 22:26)."
+       "greek": "ἀνὰ μέσον ἁγίου καὶ βεβήλου (ana meson hagiou kai bebelou)",
+       "greek_def_ro": "ἀνὰ μέσον ἁγίου καὶ βεβήλου (ana meson hagiou kai bebelou) — între sacru și profan.",
+       "dict_ro": "Hol — ceea ce e obișnuit, profan, neconsacrat, opusul lui kodeș. Rolul preoților ca învățători ai poporului e formulat încă în Leviticul 10:10-11 („ca să deosebiți între sfânt și profan... și să-i învățați pe fiii lui Israel”) și în binecuvântarea lui Moise pentru Levi (Deuteronomul 33:10). Ezechiel acuzase exact încălcarea acestei datorii în capitolul 22: „preoții ei... n-au făcut deosebire între sfânt și profan” (Ezechiel 22:26)."
       },
       {
        "t": ", și să îi facă să cunoască diferența dintre necurat și curat."
@@ -70661,8 +70677,10 @@
        "heb": "מוֹעֲדַי",
        "translit": "moadai",
        "strong": "H4150",
-       "pos": "substantiv, masculin plural + sufix persoana I",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "sărbătorile, timpurile rânduite ale Mele.",
+       "greek": "ἑορταί μου (heortai mou)",
+       "greek_def_ro": "ἑορταί μου (heortai mou) — sărbătorile mele.",
        "dict_ro": "Moed — timpul fixat, întâlnirea rânduită; „soroacele Mele” sunt sărbătorile descrise pe larg în pericopa Emor (Levitic 23) — legătura cea mai directă dintre pericopă și această haftara. Metzudat David explică că preoții trebuie să păzească legile jertfelor pentru fiecare sărbătoare și să sfințească Sabatele prin jertfele datorate în ziua aceea; iar în pricinile de judecată să judece „după judecățile Torei, nu după părerea lor”."
       },
       {
@@ -70714,12 +70732,15 @@
       {
        "t": "un trup mort",
        "w": "un trup mort",
-       "heb": "מֵת אָדָם",
-       "translit": "met adam",
+       "heb": "מֵת",
+       "translit": "mēt",
        "strong": "H4191",
-       "pos": "verb, qal, participiu (substantivat) + substantiv",
+       "pos": "verb, qal participiu",
        "def_ro": "un mort, un cadavru de om.",
-       "dict_ro": "Met — mortul; contactul cu un cadavru e sursa cea mai gravă de necurăție rituală (tumat met), de care preotul trebuie să se ferească, cu excepția rudelor apropiate enumerate aici și în Levitic 21:1-3 — legea care deschide chiar pericopa Emor. Radak precizează că e vorba de preotul obișnuit, marele preot neavând voie să se facă necurat nici pentru părinții lui (Levitic 21:11); Metzudat David explică „sora care n-a fost cu un bărbat”: care n-a fost căsătorită."
+       "greek": "ψυχὴ ἀνθρώπου (psyche anthropou)",
+       "greek_def_ro": "ψυχὴ ἀνθρώπου (psyche anthropou) — sufletul/persoana unui om (idiom pentru trup mort).",
+       "diff_ro": "Septuaginta are „ψυχὴν ἀνθρώπου\" („sufletul/persoana unui om\"), o formulare diferită de „un trup mort\" (met adam) din ebraică, dar cu același sens practic — contactul cu un cadavru.",
+       "dict_ro": "Met — mortul; contactul cu un cadavru e sursa cea mai gravă de necurăție rituală (tumat met), de care preotul trebuie să se ferească, cu excepția rudelor apropiate enumerate aici și în Leviticul 21:1-3 — legea care deschide chiar pericopa Emor. Radak precizează că e vorba de preotul obișnuit, marele preot neavând voie să se facă necurat nici pentru părinții lui (Leviticul 21:11); Metzudat David explică „sora care n-a fost cu un bărbat”: care n-a fost căsătorită."
       },
       {
        "t": " ca să devină necurați, ci numai pentru tată și pentru mamă, pentru fiu și pentru fiică, pentru frate și pentru soră care nu a fost niciodată cu un bărbat să devină necurați."
@@ -70769,11 +70790,13 @@
       {
        "t": "șapte zile",
        "w": "șapte zile",
-       "heb": "שִׁבְעַת יָמִים",
-       "translit": "șivat iamim",
+       "heb": "שִׁבְעַת",
+       "translit": "șivat",
        "strong": "H7651",
-       "pos": "numeral + substantiv plural",
+       "pos": "numeral",
        "def_ro": "șapte zile.",
+       "greek": "ἑπτὰ ἡμέρας (hepta hemeras)",
+       "greek_def_ro": "ἑπτὰ ἡμέρας (hepta hemeras) — șapte zile.",
        "dict_ro": "Șivat iamim — perioada de purificare după contactul cu un mort (Numeri 19:11-12). Versetul ridică o întrebare: purificarea obișnuită durează deja șapte zile, atunci ce sunt aceste „șapte zile” numărate „după curățire”? Rashi și Metzudat David, după înțelepți (Moed Katan 15b), explică „după curățire” ca „după despărțirea de mort”; Radak propune și posibilitatea unei rânduieli noi pentru viitor, o sporire a sfințeniei, cu încă șapte zile după purificare. Metzudat David adaugă că frații preoți numără pentru el, ca să nu intre din greșeală."
       },
       {
@@ -70827,12 +70850,15 @@
       {
        "t": "jertfa sa de păcat",
        "w": "jertfa sa de păcat",
-       "heb": "חַטָּאתוֹ",
+       "heb": "חַטָּאתוֹ",
        "translit": "hatato",
        "strong": "H2403",
-       "pos": "substantiv, feminin singular + sufix persoana a III-a masculin",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "jertfa lui de ispășire pentru păcat.",
-       "dict_ro": "Hatat — jertfa pentru păcat, de la hata, „a greși ținta”. Rashi și Metzudat David o identifică, după înțelepți (Moed Katan 16a; Menahot 51b), cu „a zecea parte de efă” de făină pe care preotul obișnuit o aduce în ziua în care începe să slujească (Levitic 6:20). Radak nu e convins: el observă că versetul vorbește despre preotul obișnuit care s-a făcut necurat pentru o rudă și vede aici fie o jertfă nouă pentru viitor, fie regula că preotul nu-și poate aduce jertfele în zilele necurăției."
+       "greek": "ἱλασμός (hilasmos)",
+       "greek_def_ro": "ἱλασμός (hilasmos) — jertfă de ispășire.",
+       "diff_ro": "Septuaginta are termenul general „ἱλασμόν\" („jertfă de ispășire\"), nu specific „jertfă de păcat\" (chatat) ca în ebraică.",
+       "dict_ro": "Hatat — jertfa pentru păcat, de la hata, „a greși ținta”. Rashi și Metzudat David o identifică, după înțelepți (Moed Katan 16a; Menahot 51b), cu „a zecea parte de efă” de făină pe care preotul obișnuit o aduce în ziua în care începe să slujească (Leviticul 6:20). Radak nu e convins: el observă că versetul vorbește despre preotul obișnuit care s-a făcut necurat pentru o rudă și vede aici fie o jertfă nouă pentru viitor, fie regula că preotul nu-și poate aduce jertfele în zilele necurăției."
       },
       {
        "t": " – rostirea Stăpânului meu, Domnul DUMNEZEU."
@@ -70886,12 +70912,14 @@
       {
        "t": "moștenirea lor",
        "w": "moștenirea lor",
-       "heb": "נַחֲלָתָם",
-       "translit": "nahalatam",
+       "heb": "לְנַחֲלָה",
+       "translit": "lenahala",
        "strong": "H5159",
-       "pos": "substantiv, feminin singular + sufix persoana a III-a plural",
+       "pos": "substantiv, feminin singular",
        "def_ro": "moștenirea, partea lor de moștenire.",
-       "dict_ro": "Nahala — moștenirea, lotul de pământ primit în Țară; preoții și leviții nu primesc teritoriu, pentru că „Eu sunt moștenirea lor” (Numeri 18:20; Deuteronom 18:1-2). Rashi și Radak înțeleg „aceasta” din începutul versetului ca preoția însăși, care le ține loc de pământ, iar Metzudat David explică scopul practic: să fie liberi pentru slujirea în Templu, trăind din ce rămâne din jertfe."
+       "greek": "κληρονομία (kleronomia)",
+       "greek_def_ro": "κληρονομία (kleronomia) — moștenire.",
+       "dict_ro": "Nahala — moștenirea, lotul de pământ primit în Țară; preoții și leviții nu primesc teritoriu, pentru că „Eu sunt moștenirea lor” (Numeri 18:20; Deuteronomul 18:1-2). Rashi și Radak înțeleg „aceasta” din începutul versetului ca preoția însăși, care le ține loc de pământ, iar Metzudat David explică scopul practic: să fie liberi pentru slujirea în Templu, trăind din ce rămâne din jertfe."
       },
       {
        "t": ", să nu le dai nicio posesiune în Israel, Eu sunt posesiunea lor."
@@ -70946,12 +70974,15 @@
       {
        "t": "prinosul",
        "w": "prinosul",
-       "heb": "הַמִּנְחָה",
+       "heb": "הַמִּנְחָה",
        "translit": "haminha",
        "strong": "H4503",
-       "pos": "substantiv, feminin singular, cu articol",
+       "pos": "substantiv, feminin singular",
        "def_ro": "darul de făină (jertfa nesângeroasă).",
-       "dict_ro": "Minha — darul, jertfa de făină; Metzudat David precizează că preoții mănâncă „ce rămâne din prinos”, după arderea părții de pe altar (Levitic 2:3). „Toate cele consacrate” (herem) desemnează, după Rashi și Metzudat Țion, bunurile închinate Sanctuarului, care revin preoților (Numeri 18:14) — un sens al cuvântului herem diferit de cel de „nimicire totală” din relatările cuceririi."
+       "greek": "θυσία (thysia)",
+       "greek_def_ro": "θυσία (thysia) — jertfă (termen general).",
+       "diff_ro": "Septuaginta are termenul general „θυσίας\" („jertfele\"), nu specific „prinosul\" (minha, darul de grâu) ca în ebraică.",
+       "dict_ro": "Minha — darul, jertfa de făină; Metzudat David precizează că preoții mănâncă „ce rămâne din prinos”, după arderea părții de pe altar (Leviticul 2:3). „Toate cele consacrate” (herem) desemnează, după Rashi și Metzudat Țion, bunurile închinate Sanctuarului, care revin preoților (Numeri 18:14) — un sens al cuvântului herem diferit de cel de „nimicire totală” din relatările cuceririi."
       },
       {
        "t": ", jertfa de păcat și jertfa de vină, și toate cele consacrate prin jurământ să fie pentru ei."
@@ -71007,11 +71038,12 @@
       {
        "t": "prima parte din coca voastră",
        "w": "prima parte din coca voastră",
-       "heb": "רֵאשִׁית עֲרִסוֹתֵיכֶם",
-       "translit": "reșit arisoteihem",
+       "heb": "עֲרִסוֹתֵיכֶם",
+       "translit": "arisotēhem",
        "strong": "H6182",
-       "pos": "substantiv, feminin singular, în construcție + substantiv plural cu sufix",
+       "pos": "substantiv, feminin plural construct + sufix",
        "def_ro": "pârga aluatului, hala.",
+       "diff_ro": "Septuaginta are „τὰ πρωτογεννήματα ὑμῶν\" („primele voastre roade\"), un termen general, nu specific „coca voastră\" (arisoteihem, aluatul de pâine) ca în ebraică.",
        "dict_ro": "Arisa — aluatul, coca; „pârga cocii” e porunca halei, partea de aluat dată preotului (Numeri 15:20-21), păstrată în practica evreiască până azi prin separarea și arderea unei bucăți din aluatul frământat. Metzudat David explică promisiunea „ca să păstrați binecuvântarea asupra casei tale”: să nu vă pară rău că dați toate acestea preoților, căci darul va aduce binecuvântare și bogăția nu va scădea, ci va crește — idee reluată de Maleahi 3:10."
       },
       {
@@ -71069,11 +71101,13 @@
        "t": "hoit",
        "w": "hoit",
        "heb": "נְבֵלָה",
-       "translit": "nevela",
+       "translit": "nevēla",
        "strong": "H5038",
        "pos": "substantiv, feminin singular",
        "def_ro": "animal mort de la sine, hoit.",
-       "dict_ro": "Nevela — animalul mort fără sacrificare rituală, oprit oricărui israelit (Deuteronom 14:21), la fel ca terefa, animalul sfâșiat. De aceea Talmudul (Menahot 45a) se întreabă: doar preoților le e oprit? Rabi Iohanan răspunde: „acest pasaj e greu, iar în viitor Eliahu îl va explica”; Ravina propune că, fiindcă preoților le era îngăduită jertfa de păcat din păsări ucisă prin ciupire (care e tehnic nevela), ar fi putut crede că li se îngăduie și alte hoituri. Rashi, Metzudat David și Radak aduc aceeași explicație."
+       "greek": "θνησιμαῖον (thnesimaion)",
+       "greek_def_ro": "θνησιμαῖον (thnesimaion) — hoit, leș.",
+       "dict_ro": "Nevela — animalul mort fără sacrificare rituală, oprit oricărui israelit (Deuteronomul 14:21), la fel ca terefa, animalul sfâșiat. De aceea Talmudul (Menahot 45a) se întreabă: doar preoților le e oprit? Rabi Iohanan răspunde: „acest pasaj e greu, iar în viitor Eliahu îl va explica”; Ravina propune că, fiindcă preoților le era îngăduită jertfa de păcat din păsări ucisă prin ciupire (care e tehnic nevela), ar fi putut crede că li se îngăduie și alte hoituri. Rashi, Metzudat David și Radak aduc aceeași explicație."
       },
       {
        "t": " sau animal sfâșiat dintre păsări și dintre dobitoace, preoții să nu le mănânce."
