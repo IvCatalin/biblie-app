@@ -49196,11 +49196,13 @@
       {
        "t": "anul morții",
        "w": "anul morții",
-       "heb": "בִּשְׁנַת־מוֹת",
-       "translit": "bi-shnat-mot",
+       "heb": "בִּשְׁנַת מוֹת",
+       "translit": "bișnat mot",
        "strong": "H4194",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular construct",
        "def_ro": "în anul morții.",
+       "greek": "ἐνιαυτοῦ, οὗ ἀπέθανεν (eniautou, hou apethanen)",
+       "greek_def_ro": "ἐνιαυτοῦ, οὗ ἀπέθανεν (eniautou, hou apethanen) — anul în care a murit.",
        "dict_ro": "Rashi citește surprinzător „moartea” lui Uzia nu ca deces fizic (regele a mai trăit ani buni, izolat, după ce a fost lovit de lepră pentru că a îndrăznit să tămâieze în Templu, 2 Cronici 26:16-21), ci ca „moartea” lui regală — anul în care a fost lovit de lepră și înlăturat de la domnie, echivalent unei morți politice."
       },
       {
@@ -49209,11 +49211,13 @@
       {
        "t": "tron înalt",
        "w": "tron înalt",
-       "heb": "כִּסֵּא רָם וְנִשָּׂא",
-       "translit": "kisse ram ve-nissa",
+       "heb": "כִּסֵּא",
+       "translit": "kisē",
        "strong": "H3678",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "tron înalt și măreț.",
+       "greek": "θρόνος ὑψηλός (thronos hypselos)",
+       "greek_def_ro": "θρόνος ὑψηλός (thronos hypselos) — tron înalt.",
        "dict_ro": "Kisse, „tron” — Rashi vede tronul ceresc coborând simbolic până la nivelul Templului pământesc: „picioarele Lui erau la Templu, scăunelul picioarelor la Casa Sfântă” — viziunea are loc exact în momentul judecății divine asupra lui Uzia, pentru îndrăzneala lui de a uzurpa rolul preoției."
       },
       {
@@ -49222,12 +49226,13 @@
       {
        "t": "soclu",
        "w": "soclu",
-       "heb": "שׁוּלָיו",
-       "translit": "shulav",
+       "heb": "וְשׁוּלָיו",
+       "translit": "veșulaiv",
        "strong": "H7757",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "poalele, marginea de jos.",
-       "dict_ro": "Shulayim — același cuvânt ca „poalele mantiei” preoțești (Exod 28:34); Rashi observă ironia: chiar poalele veșmântului divin umplu Templul, exact locul unde Uzia încercase ilegitim să ofere tămâie, uzurpând rolul preoției."
+       "diff_ro": "Divergență notabilă: ebraica are „șulav\" (poala/trena veșmântului Său) umplând Templul — o imagine vizuală a mantiei divine; Septuaginta are în schimb „πλήρης ὁ οἶκος τῆς δόξης αὐτοῦ\" („casa era plină de slava Lui\"), abstractizând imaginea veșmântului într-o afirmație despre slavă.",
+       "dict_ro": "Shulayim — același cuvânt ca „poalele mantiei” preoțești (Exodul 28:34); Rashi observă ironia: chiar poalele veșmântului divin umplu Templul, exact locul unde Uzia încercase ilegitim să ofere tămâie, uzurpând rolul preoției."
       },
       {
        "t": " umplea Templul."
@@ -49271,11 +49276,14 @@
       {
        "t": "Serafimi",
        "w": "Serafimi",
-       "heb": "שְׂרָפִים",
-       "translit": "Serafim",
+       "heb": "שְׂרָפִים",
+       "translit": "serafim",
        "strong": "H8314",
        "pos": "substantiv, masculin plural",
        "def_ro": "serafimi — „cei arzători”.",
+       "greek": "Σεραφίμ (Seraphim)",
+       "greek_def_ro": "Σεραφίμ (Seraphim) — serafimi.",
+       "diff_ro": "Septuaginta are „εἱστήκεισαν κύκλῳ αὐτοῦ\" („stăteau ÎN JURUL Lui\"), nu „deasupra Lui\" (mimaal lo) ca în ebraică — o imagine spațială diferită.",
        "dict_ro": "Saraf, de la rădăcina saraf, „a arde” — unică apariție a acestui termen ca desemnare angelică în tot Tanahul (în afară de sensul de „șarpe veninos”, Numeri 21:6-8); Rashi îi leagă etimologic de misiunea lor aici — „veniți să-l ardă” pe Uzia — numele fiind determinat direct de contextul judecății."
       },
       {
@@ -49284,11 +49292,13 @@
       {
        "t": "șase aripi",
        "w": "șase aripi",
-       "heb": "שֵׁשׁ כְּנָפַיִם",
-       "translit": "shesh kenafayim",
+       "heb": "כְּנָפַיִם",
+       "translit": "kenafaim",
        "strong": "H3671",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin dual",
        "def_ro": "șase aripi.",
+       "greek": "ἓξ πτέρυγες (hex pteryges)",
+       "greek_def_ro": "ἓξ πτέρυγες (hex pteryges) — șase aripi.",
        "dict_ro": "Kanaf, „aripă” — structura simetrică triplă (față/picioare/zbor) organizează întreaga ființă angelică în jurul unui singur act: reverența absolută dinaintea prezenței divine, fiecare pereche de aripi servind o formă distinctă de smerenie sau slujire."
       },
       {
@@ -49297,11 +49307,12 @@
       {
        "t": "acoperea fața",
        "w": "acoperea fața",
-       "heb": "יְכַסֶּה פָנָיו",
-       "translit": "yekhasseh fanav",
+       "heb": "יְכַסֶּה",
+       "translit": "iehase",
        "strong": "H3680",
        "pos": "verb, piel imperfect",
        "def_ro": "își acoperea fața.",
+       "diff_ro": "Textul grecesc disponibil pentru acest verset se întrerupe după „șase aripi, șase aripi\" — nu există corespondent verificabil pentru restul versetului.",
        "dict_ro": "Rashi explică: pentru a nu privi „spre partea Șechinei” — chiar și ființele angelice cele mai apropiate de tron nu îndrăznesc să privească direct spre gloria divină, un gest de smerenie radicală."
       },
       {
@@ -49310,11 +49321,12 @@
       {
        "t": "acoperea picioarele",
        "w": "acoperea picioarele",
-       "heb": "יְכַסֶּה רַגְלָיו",
-       "translit": "yekhasseh raglav",
+       "heb": "רַגְלָיו",
+       "translit": "raglaiv",
        "strong": "H7272",
-       "pos": "verb, piel imperfect",
+       "pos": "substantiv, feminin dual construct + sufix",
        "def_ro": "își acoperea picioarele.",
+       "diff_ro": "Ca și „acoperea fața\", acest fragment cade după punctul unde textul grecesc disponibil se întrerupe.",
        "dict_ro": "Rashi citește acest gest ca modestie generală, dar citează și un midraș din Tanchuma: picioarele Serafimilor sunt „ca laba piciorului de vițel” (Ezechiel 1:7) — acoperite deliberat pentru a nu aminti lui Israel de păcatul vițelului de aur, o legătură simbolică subtilă între angelologie și istoria păcatului poporului."
       },
       {
@@ -49324,10 +49336,11 @@
        "t": "zbura",
        "w": "zbura",
        "heb": "יְעוֹפֵף",
-       "translit": "ye'ofef",
+       "translit": "ieofēf",
        "strong": "H5774",
        "pos": "verb, polel imperfect",
        "def_ro": "zbura.",
+       "diff_ro": "Ca și „acoperea fața\", acest fragment cade după punctul unde textul grecesc disponibil se întrerupe.",
        "dict_ro": "Rădăcina uf, „a zbura” — singura pereche de aripi rezervată efectiv mișcării/slujirii active, spre deosebire de celelalte patru, consacrate exclusiv smereniei — proporția simbolică (patru din șase aripi pentru reverență) accentuează centralitatea cinstirii dinaintea acțiunii."
       },
       {
@@ -49376,10 +49389,12 @@
        "t": "striga",
        "w": "striga",
        "heb": "וְקָרָא",
-       "translit": "ve-kara",
+       "translit": "vekara",
        "strong": "H7121",
-       "pos": "verb, qal perfect",
+       "pos": "verb, qal perfect consecutiv",
        "def_ro": "striga, chema.",
+       "greek": "κράζω (krazo)",
+       "greek_def_ro": "κράζω (krazo) — a striga.",
        "dict_ro": "Rashi explică „unul către celălalt” drept un ritual de cerere reciprocă a permisiunii: niciun serafim nu îndrăznește să înceapă singur rostirea sfințeniei, riscând arderea, ci toți trebuie să pornească simultan — origine directă a formulei liturgice „Kedușa”, rostită în comun de întreaga adunare, niciodată individual."
       },
       {
@@ -49389,10 +49404,12 @@
        "t": "Sfânt, sfânt, sfânt",
        "w": "Sfânt, sfânt, sfânt",
        "heb": "קָדוֹשׁ קָדוֹשׁ קָדוֹשׁ",
-       "translit": "kadosh kadosh kadosh",
+       "translit": "kadoș kadoș kadoș",
        "strong": "H6918",
-       "pos": "adjectiv, masculin",
+       "pos": "adjectiv, masculin singular + adjectiv, masculin singular + adjectiv, masculin singular",
        "def_ro": "sfânt, sfânt, sfânt.",
+       "greek": "ἅγιος, ἅγιος, ἅγιος (hagios, hagios, hagios)",
+       "greek_def_ro": "ἅγιος, ἅγιος, ἅγιος (hagios, hagios, hagios) — sfânt, sfânt, sfânt.",
        "dict_ro": "Kadosh, repetat de trei ori — cel mai cunoscut verset liturgic al întregii cărți Isaia, temelia rugăciunii Kedușa în liturghia sinagogii și a imnului „Sanctus” în liturghia creștină deopotrivă, unul dintre puținele texte biblice ajunse direct, aproape neschimbat, în cultul ambelor tradiții."
       },
       {
@@ -49401,11 +49418,13 @@
       {
        "t": "slava Sa",
        "w": "slava Sa",
-       "heb": "כְּבוֹדוֹ",
+       "heb": "כְּבוֹדוֹ",
        "translit": "kevodo",
        "strong": "H3519",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "slava Lui.",
+       "greek": "δόξα αὐτοῦ (doxa autou)",
+       "greek_def_ro": "δόξα αὐτοῦ (doxa autou) — slava lui.",
        "dict_ro": "Kavod, „slavă, greutate, prezență manifestă” — proclamația finală extinde sfințenia transcendentă a lui Dumnezeu (spațiul ceresc al tronului) la imanența Lui în întreaga creație pământească — cele două dimensiuni ale prezenței divine unite într-un singur strigăt."
       },
       {
@@ -49454,11 +49473,12 @@
       {
        "t": "mișcau",
        "w": "mișcau",
-       "heb": "וַיָּנֻעוּ",
-       "translit": "va-yanu'u",
+       "heb": "וַיָּנֻעוּ",
+       "translit": "vaianuu",
        "strong": "H5128",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "s-au clătinat, s-au mișcat.",
+       "diff_ro": "Septuaginta are „ἐπήρθη τὸ ὑπέρθυρον\" („pragul de sus/lintelul s-a RIDICAT\"), nu „s-au mișcat/clătinat\" ușorii, ca în ebraică — un verb diferit pentru efectul vizibil al vocii lui Dumnezeu.",
        "dict_ro": "Rădăcina nua, „a se clătina” — Rashi leagă acest cutremur al pragurilor Templului direct de ziua istorică a cutremurului menționat la Amos 1:1 și Zaharia 14:5, „în zilele lui Uzia” — corelând viziunea profetică precisă cu un eveniment seismic real, cunoscut din tradiție."
       },
       {
@@ -49467,11 +49487,13 @@
       {
        "t": "umplea de fum",
        "w": "umplea de fum",
-       "heb": "יִמָּלֵא עָשָׁן",
-       "translit": "yimmale ashan",
+       "heb": "עָשָׁן",
+       "translit": "așan",
        "strong": "H6227",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "se umplea de fum.",
+       "greek": "πίμπλημι καπνοῦ (pimplemi kapnou)",
+       "greek_def_ro": "πίμπλημι καπνοῦ (pimplemi kapnou) — s-a umplut de fum.",
        "dict_ro": "Ashan, „fum” — Rashi citește acest fum ca semn direct al judecății asupra lui Uzia: în aceeași zi în care regele s-a ridicat să tămâieze ilegal în Templu, cerurile s-au cutremurat gata să-l ardă, pământul gata să-l înghită ca pe Core — până când un glas ceresc a decis: doar lepră, nu nimicire."
       },
       {
@@ -49521,10 +49543,13 @@
        "t": "pierdut",
        "w": "pierdut",
        "heb": "נִדְמֵיתִי",
-       "translit": "nidmeiti",
+       "translit": "nidmēti",
        "strong": "H1820",
        "pos": "verb, nifal perfect",
        "def_ro": "sunt nimicit, sunt ca și mort.",
+       "greek": "κατανύσσομαι (katanyssomai)",
+       "greek_def_ro": "κατανύσσομαι (katanyssomai) — a fi lovit/mustrat adânc.",
+       "diff_ro": "Septuaginta are „ὦ τάλας ἐγώ, ὅτι κατανένυγμαι\" („o, ticălos sunt, căci sunt lovit adânc\"), o nuanță diferită de „sunt pierdut/nimicit\" (nidmēti) din ebraică — accentul grecesc cade pe mustrarea de conștiință, nu pe anihilare.",
        "dict_ro": "Rashi glosează: „iată, sunt mort, căci n-am fost vrednic să văd fața Șechinei” — citând paralelă directă cu Manoah, tatăl lui Samson, care spune „vom muri negreșit, căci am văzut pe Dumnezeu” (Judecători 13:22) — spaima ancestrală a oricărei întâlniri directe cu sfințenia divină."
       },
       {
@@ -49533,11 +49558,13 @@
       {
        "t": "buze necurate",
        "w": "buze necurate",
-       "heb": "טְמֵא־שְׂפָתַיִם",
-       "translit": "teme-sefatayim",
+       "heb": "טְמֵא",
+       "translit": "temē",
        "strong": "H2931",
-       "pos": "adjectiv, masculin construct",
+       "pos": "adjectiv, masculin singular",
        "def_ro": "necurat de buze.",
+       "greek": "ἀκάθαρτα χείλη (akatharta cheile)",
+       "greek_def_ro": "ἀκάθαρτα χείλη (akatharta cheile) — buze necurate.",
        "dict_ro": "Tame sefatayim — Targumul lui Ionatan citat de Rashi îl explică prin „murdărit de păcate”, nu neapărat impuritate rituală literală — mărturisirea lui Isaia recunoaște o vină morală colectivă, a sa și a întregului popor deopotrivă, în chiar clipa chemării profetice."
       },
       {
@@ -49546,11 +49573,12 @@
       {
        "t": "Rege",
        "w": "Rege",
-       "heb": "הַמֶּלֶךְ",
-       "translit": "ha-melekh",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
        "strong": "H4428",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "Regele.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest titlu („pe Regele, pe DOMNUL Oștirilor\") — nu există corespondent verificabil.",
        "dict_ro": "Ha-melekh, „Regele” — titlu care revine tematic în tot pasajul: nu doar Uzia, regele pământesc judecat pentru trufie, ci adevăratul Rege ceresc, singurul demn de proclamația de sfințenie tocmai rostită de Serafimi."
       },
       {
@@ -49599,11 +49627,12 @@
       {
        "t": "zburat",
        "w": "zburat",
-       "heb": "וַיָּעָף",
-       "translit": "va-ya'of",
+       "heb": "וַיָּעָף",
+       "translit": "vaiaaf",
        "strong": "H5774",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "a zburat.",
+       "diff_ro": "Septuaginta are „ἀπεστάλη\" („a fost trimis\"), nu „a zburat\" (vaiaaf) ca în ebraică — un verb diferit pentru apropierea serafimului.",
        "dict_ro": "Rădăcina uf, aceeași ca la v.2 — de data aceasta unul din cele două aripi „de zbor” e activat efectiv pentru slujire directă, mișcarea trecând de la reverența statică la acțiunea concretă de curățire."
       },
       {
@@ -49612,11 +49641,13 @@
       {
        "t": "cărbune",
        "w": "cărbune",
-       "heb": "רִצְפָּה",
-       "translit": "ritspah",
+       "heb": "רִצְפָּה",
+       "translit": "rițpa",
        "strong": "H7529",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "jar, cărbune aprins.",
+       "greek": "ἄνθραξ (anthrax)",
+       "greek_def_ro": "ἄνθραξ (anthrax) — cărbune aprins.",
        "dict_ro": "Ritspah, „jar” — Rashi observă ortografia specială cu tsadi (ritspah), aceeași folosită la 1 Împărați 19:6 pentru „turta coaptă pe cărbuni” adusă lui Ilie de înger — o legătură verbală între cele două mari teofanii profetice, Isaia și Ilie, ambii mustrând pe Israel pentru păcat, ambii primind hrană/purificare angelică."
       },
       {
@@ -49625,11 +49656,13 @@
       {
        "t": "clești",
        "w": "clești",
-       "heb": "מֶלְקַחַיִם",
-       "translit": "melqachayim",
+       "heb": "בְּמֶלְקַחַיִם",
+       "translit": "bemelkahaim",
        "strong": "H4457",
        "pos": "substantiv, masculin dual",
        "def_ro": "clești.",
+       "greek": "λαβίς (labis)",
+       "greek_def_ro": "λαβίς (labis) — clește.",
        "dict_ro": "Melqachayim — chiar și un serafim, ființă de foc prin însăși numele lui, nu atinge cărbunele direct cu mâna, ci cu clești, semn al respectului extrem față de puritatea absolută a jarului de pe altarul ceresc."
       },
       {
@@ -49677,11 +49710,13 @@
       {
        "t": "atins",
        "w": "atins",
-       "heb": "וַיַּגַּע",
-       "translit": "va-yagga",
+       "heb": "וַיַּגַּע",
+       "translit": "vaiaga",
        "strong": "H5060",
-       "pos": "verb, hifil imperfect",
+       "pos": "verb, hifil imperfect consecutiv",
        "def_ro": "a atins.",
+       "greek": "ἅπτομαι (haptomai)",
+       "greek_def_ro": "ἅπτομαι (haptomai) — a atinge.",
        "dict_ro": "Rădăcina naga, „a atinge” — Rashi observă puterea extraordinară a acestui contact: cărbunele aprins de pe altarul ceresc atinge buzele profetului fără să-l rănească, un semn al purificării, nu al pedepsei, exact contrariul a ceea ce ar fi meritat, poate, Uzia."
       },
       {
@@ -49690,11 +49725,13 @@
       {
        "t": "greșeala ta",
        "w": "greșeala ta",
-       "heb": "עֲוֹנֶךָ",
-       "translit": "avonekha",
+       "heb": "עֲוֺנֶךָ",
+       "translit": "avoneha",
        "strong": "H5771",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "vina ta.",
+       "greek": "ἀνομία σου (anomia sou)",
+       "greek_def_ro": "ἀνομία σου (anomia sou) — nelegiuirea ta.",
        "dict_ro": "Avon, „vină” — Rashi leagă purificarea explicit de un act concret al lui Isaia: „aceasta e ca să te disciplineze, ca ispășire a vinii tale, pentru că ai vorbit de rău despre Israel” [numindu-l «popor cu buze necurate»] — purificarea nu-i doar rituală, ci corectivă, pentru propria mustrare aspră a versetului 5."
       },
       {
@@ -49703,11 +49740,13 @@
       {
        "t": "păcatul tău va fi ispășit",
        "w": "păcatul tău va fi ispășit",
-       "heb": "וְחַטָּאתְךָ תְּכֻפָּר",
-       "translit": "ve-chatatkha tekhuppar",
+       "heb": "וְחַטָּאתְךָ תְּכֻפָּר",
+       "translit": "vehatatha tehupar",
        "strong": "H3722",
-       "pos": "verb, pual imperfect",
+       "pos": "substantiv, feminin singular construct + sufix + verb, pual imperfect",
        "def_ro": "și păcatul tău va fi ispășit.",
+       "greek": "ἁμαρτία σου περικαθαρίζω (hamartia sou perikatharizo)",
+       "greek_def_ro": "ἁμαρτία σου περικαθαρίζω (hamartia sou perikatharizo) — păcatul tău va fi curățit de tot.",
        "dict_ro": "Rădăcina kafar, „a ispăși” — aceeași rădăcină ca Yom Kippur; purificarea profetului, necesară înainte de misiunea lui, devine un tipar recurent al chemărilor profetice biblice — nimeni nu poate rosti cuvântul divin fără o curățire prealabilă reală."
       },
       {
@@ -49755,11 +49794,13 @@
       {
        "t": "trimit",
        "w": "trimit",
-       "heb": "אֶשְׁלַח",
-       "translit": "eshlach",
+       "heb": "אֶשְׁלַח",
+       "translit": "eșlah",
        "strong": "H7971",
        "pos": "verb, qal imperfect",
        "def_ro": "voi trimite.",
+       "greek": "ἀποστέλλω (apostello)",
+       "greek_def_ro": "ἀποστέλλω (apostello) — a trimite.",
        "dict_ro": "Rashi leagă întrebarea divină de o istorie ulterioară concretă: profetul Amos fusese deja trimis, dar respins batjocoritor de popor pentru vorbirea lui greoaie — întrebarea retorică „pe cine să trimit” reflectă, după Rashi, dificultatea reală de a găsi un mesager potrivit, nu o simplă formulă introductivă."
       },
       {
@@ -49769,11 +49810,13 @@
        "t": "Iată-mă",
        "w": "Iată-mă",
        "heb": "הִנְנִי",
-       "translit": "hineni",
+       "translit": "hinni",
        "strong": "H2005",
-       "pos": "particulă",
+       "pos": "particulă demonstrativă + sufix",
        "def_ro": "iată-mă.",
-       "dict_ro": "Hineni — răspunsul clasic al disponibilității depline în fața chemării divine (Avraam, Geneza 22:1; Moise, Exod 3:4; Samuel, 1 Samuel 3:4); spre deosebire de ezitarea lui Moise sau a lui Ieremia, Isaia răspunde imediat, fără nicio obiecție prealabilă — poate tocmai pentru că tocmai a fost purificat direct de foc ceresc."
+       "greek": "ἰδοὺ ἐγώ εἰμι (idou ego eimi)",
+       "greek_def_ro": "ἰδοὺ ἐγώ εἰμι (idou ego eimi) — iată, eu sunt.",
+       "dict_ro": "Hineni — răspunsul clasic al disponibilității depline în fața chemării divine (Avraam, Geneza 22:1; Moise, Exodul 3:4; Samuel, 1 Samuel 3:4); spre deosebire de ezitarea lui Moise sau a lui Ieremia, Isaia răspunde imediat, fără nicio obiecție prealabilă — poate tocmai pentru că tocmai a fost purificat direct de foc ceresc."
       },
       {
        "t": ", trimite-mă pe mine!”"
@@ -49819,11 +49862,13 @@
       {
        "t": "auziți",
        "w": "auziți",
-       "heb": "שִׁמְעוּ שָׁמוֹעַ",
-       "translit": "shim'u shamoa",
+       "heb": "שִׁמְעוּ",
+       "translit": "șimu",
        "strong": "H8085",
-       "pos": "verb, qal infinitiv absolut",
+       "pos": "verb, qal imperativ",
        "def_ro": "auzind, veți auzi.",
+       "greek": "ἀκοή ἀκούω (akoe akouo)",
+       "greek_def_ro": "ἀκοή ἀκούω (akoe akouo) — cu auzul veți auzi.",
        "dict_ro": "Rashi citește acest verset ca reproș, nu ca fatalism: „Eu vă spun: ascultați cu adevărat! Dar voi nu vă puneți la inimă să înțelegeți” — versetul e o mustrare vie, nu o profeție a orbirii impuse din exterior, ci o descriere a refuzului voit al poporului de a asculta."
       },
       {
@@ -49832,11 +49877,13 @@
       {
        "t": "înțelegeți",
        "w": "înțelegeți",
-       "heb": "תָּבִינוּ",
+       "heb": "תָּבִינוּ",
        "translit": "tavinu",
        "strong": "H995",
-       "pos": "verb, hifil imperfect",
+       "pos": "verb, qal jusiv",
        "def_ro": "veți înțelege.",
+       "greek": "συνίημι (syniemi)",
+       "greek_def_ro": "συνίημι (syniemi) — a înțelege, a pricepe.",
        "dict_ro": "Rădăcina bin, „a înțelege” — verset de o intensitate teologică extraordinară, citat de patru evangheliști în Noul Testament (Matei 13:14-15, Marcu 4:12, Luca 8:10, Ioan 12:40) și de Faptele apostolilor 28:26-27 pentru a explica refuzul unei părți a poporului evreu de a accepta mesajul lui Isus — unul din cele mai influente versete biblice pentru teologia creștină ulterioară."
       },
       {
@@ -49884,12 +49931,14 @@
       {
        "t": "îngrășat",
        "w": "îngrășat",
-       "heb": "הַשְׁמֵן",
-       "translit": "hashmen",
+       "heb": "הַשְׁמֵן",
+       "translit": "hașmēn",
        "strong": "H8080",
        "pos": "verb, hifil imperativ",
        "def_ro": "îngrașă, face insensibilă.",
-       "dict_ro": "Rashi leagă acest verb de expresia identică folosită pentru inima lui Faraon la Exod 8:15 („a-și îngreuia/împietri inima”) — aceeași dinamică morală: nu Dumnezeu împietrește inima din exterior, ci descrie procesul continuu al unei inimi care se îngroașă treptat prin refuzuri repetate."
+       "greek": "παχύνομαι (pachynomai)",
+       "greek_def_ro": "παχύνομαι (pachynomai) — a se îngrășa, a se îngroșa.",
+       "dict_ro": "Rashi leagă acest verb de expresia identică folosită pentru inima lui Faraon la Exodul 8:15 („a-și îngreuia/împietri inima”) — aceeași dinamică morală: nu Dumnezeu împietrește inima din exterior, ci descrie procesul continuu al unei inimi care se îngroașă treptat prin refuzuri repetate."
       },
       {
        "t": ", urechile lui sunt grele și "
@@ -49897,11 +49946,13 @@
       {
        "t": "ochii lui sunt închiși",
        "w": "ochii lui sunt închiși",
-       "heb": "וְעֵינָיו הָשַׁע",
-       "translit": "ve-einav hasha",
+       "heb": "הָשַׁע",
+       "translit": "hașa",
        "strong": "H8173",
        "pos": "verb, hifil imperativ",
        "def_ro": "și ochii lui sunt lipiți/astupați.",
+       "greek": "καμμύω (kammyo)",
+       "greek_def_ro": "καμμύω (kammyo) — a-și închide ochii.",
        "dict_ro": "Rashi explică „hasha” prin paralela cu Isaia 44:18 („căci le sunt tencuiți ochii de a vedea”), verb tehnic pentru „a tencui, a astupa” — o incapacitate autoprovocată de percepție, nu impusă din exterior."
       },
       {
@@ -49911,10 +49962,11 @@
        "t": "înțeleagă",
        "w": "înțeleagă",
        "heb": "יָבִין",
-       "translit": "yavin",
+       "translit": "iavin",
        "strong": "H995",
        "pos": "verb, qal imperfect",
        "def_ro": "va înțelege.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest cuvânt (reluat celebru în Noul Testament, Matei 13:15 și Fapte 28:27, ca „νοήσωσι\") — nu există corespondent verificabil în fragmentul disponibil aici.",
        "dict_ro": "Rashi citește această ultimă clauză nu ca dorința lui Dumnezeu de a orbi poporul, ci ca descriere a propriei lor temeri: ei înșiși „își pun la inimă” să nu asculte cuvintele profeților, temându-se că, dacă ar înțelege și s-ar întoarce, ar fi obligați să se schimbe."
       },
       {
@@ -49963,11 +50015,13 @@
       {
        "t": "pustiite",
        "w": "pustiite",
-       "heb": "שָׁאוּ",
-       "translit": "sha'u",
+       "heb": "שָׁאוּ",
+       "translit": "șau",
        "strong": "H7582",
        "pos": "verb, qal perfect",
        "def_ro": "vor fi pustiite.",
+       "greek": "ἐρημόομαι (eremoomai)",
+       "greek_def_ro": "ἐρημόομαι (eremoomai) — a fi pustiit, lăsat în ruină.",
        "dict_ro": "Rashi explică simplu: „am știut că nu se vor întoarce până nu va veni pedeapsa asupra lor și vor merge în exil” — întrebarea lui Isaia „până când?” nu cere un termen scurt de consolare, ci recunoaște tragic inevitabilitatea judecății depline, mergând până la exil complet."
       },
       {
@@ -49976,11 +50030,12 @@
       {
        "t": "țara va fi pustiită",
        "w": "țara va fi pustiită",
-       "heb": "וְהָאֲדָמָה תִּשָּׁאֶה שְׁמָמָה",
-       "translit": "ve-ha-adamah tishsha'eh shemamah",
+       "heb": "וְהָאֲדָמָה תִּשָּׁאֶה שְׁמָמָה",
+       "translit": "vehaadama tișae șemama",
        "strong": "H8074",
-       "pos": "verb, nifal imperfect",
+       "pos": "substantiv, feminin singular + verb, nifal imperfect + substantiv, feminin singular",
        "def_ro": "și pământul va fi pustiit, singuratic.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe după „cetăți pustiite, fără locuitor\" — nu există corespondent verificabil pentru restul versetului (casele fără nimeni, țara pustiită și părăsită).",
        "dict_ro": "Rădăcina sha'ah, „a fi pustiit, singuratic” — dublarea verbului cu substantivul înrudit (tishsha'eh shemamah) intensifică imaginea unei pustiiri complete, fără nicio urmă de viață rămasă — răspunsul cel mai dur posibil la întrebarea „până când”."
       },
       {
@@ -50030,10 +50085,12 @@
        "t": "îndepărta",
        "w": "îndepărta",
        "heb": "וְרִחַק",
-       "translit": "ve-richak",
+       "translit": "verihak",
        "strong": "H7368",
-       "pos": "verb, piel perfect",
+       "pos": "verb, piel perfect consecutiv",
        "def_ro": "va îndepărta.",
+       "greek": "μακρύνω (makryno)",
+       "greek_def_ro": "μακρύνω (makryno) — a îndepărta, a înlătura.",
        "dict_ro": "Rădăcina rachak, „a îndepărta” — descrie exilul ca act divin activ, nu doar consecință istorică pasivă; poporul nu doar pleacă, ci e literal „îndepărtat” de DOMNUL de pe pământul lui."
       },
       {
@@ -50043,11 +50100,12 @@
        "t": "deznădejde",
        "w": "deznădejde",
        "heb": "הָעֲזוּבָה",
-       "translit": "ha-azuvah",
+       "translit": "haazuva",
        "strong": "H5805",
-       "pos": "substantiv, feminin",
+       "pos": "verb, qal participiu pasiv",
        "def_ro": "pustiirea, abandonarea.",
-       "dict_ro": "Rashi glosează prin trimitere la Levitic 26:43 („pământul va fi părăsit de ei”) — leagă acest verset direct de blestemele Torei, confirmând continuitatea teologică dintre avertismentele mozaice și împlinirea lor profetică ulterioară."
+       "diff_ro": "Divergență remarcabilă: Septuaginta are „πληθυνθήσονται οἱ ἐγκαταλειφθέντες\" („cei rămași se vor ÎNMULȚI\"), sens aproape opus lui „deznădejde/pustiire crescândă\" (haazuva) din ebraică — o citire mult discutată, legată de felul în care tradiția greacă a înțeles soarta rămășiței după exil.",
+       "dict_ro": "Rashi glosează prin trimitere la Leviticul 26:43 („pământul va fi părăsit de ei”) — leagă acest verset direct de blestemele Torei, confirmând continuitatea teologică dintre avertismentele mozaice și împlinirea lor profetică ulterioară."
       },
       {
        "t": " în mijlocul țării."
@@ -50095,11 +50153,14 @@
       {
        "t": "zece [regi]",
        "w": "zece [regi]",
-       "heb": "עֲשִׂרִיָּה",
-       "translit": "asiriyah",
+       "heb": "עֲשִׂרִיָּה",
+       "translit": "asiria",
        "strong": "H6224",
-       "pos": "substantiv, feminin",
+       "pos": "numeral ordinal",
        "def_ro": "a zecea parte, rămășiță de-a zecea.",
+       "greek": "ἐπιδέκατον (epidekaton)",
+       "greek_def_ro": "ἐπιδέκατον (epidekaton) — a zecea parte.",
+       "diff_ro": "Septuaginta confirmă sensul de „a zecea parte\" (nu „zece regi\") — paranteza lui Rosen e o interpretare, nu sensul literal, atât în ebraică cât și în greacă.",
        "dict_ro": "Asiriyah — cuvânt rar și disputat; interpretat aici ca „încă un zecime [din popor rămas]”, promisiunea unei rămășițe reziduale, care va suferi însă și ea o nouă rundă de judecată înainte de restaurarea finală."
       },
       {
@@ -50108,11 +50169,13 @@
       {
        "t": "terebint sau un stejar",
        "w": "terebint sau un stejar",
-       "heb": "כָּאֵלָה וְכָאַלּוֹן",
-       "translit": "ka-elah ve-kha-allon",
+       "heb": "כָּאֵלָה וְכָאַלּוֹן",
+       "translit": "kaēla vehaalon",
        "strong": "H424",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular + substantiv, masculin singular",
        "def_ro": "ca un terebint și ca un stejar.",
+       "greek": "τερέβινθος καὶ βάλανος (terebinthos kai balanos)",
+       "greek_def_ro": "τερέβινθος καὶ βάλανος (terebinthos kai balanos) — terebint și stejar (ghindă).",
        "dict_ro": "Elah/allon — arbori robuști cunoscuți pentru longevitate; imaginea unui trunchi tăiat care păstrează totuși o buturugă vie, capabilă de regenerare, devine metaforă clasică a rămășiței (she'erit) — o temă centrală a teologiei lui Isaia, reluată constant în toată cartea."
       },
       {
@@ -50122,10 +50185,11 @@
        "t": "sămânță sfântă",
        "w": "sămânță sfântă",
        "heb": "זֶרַע קֹדֶשׁ",
-       "translit": "zera kodesh",
+       "translit": "zera kodeș",
        "strong": "H2233",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
        "def_ro": "sămânță sfântă.",
+       "diff_ro": "Una dintre cele mai discutate divergențe teologice din Isaia grecesc: finalul versetului, despre „sămânța sfântă\" ca buturugă rămasă, nu are corespondent în Septuaginta disponibilă aici, care se termină altfel — „când va cădea din teaca ei\" (ὅταν ἐκπέσῃ ἐκ τῆς θήκης αὐτῆς) — o imagine complet diferită, fără ideea de „rămășiță sfântă\" prezentă explicit în ebraică.",
        "dict_ro": "Zera kodesh — imagine de speranță finală care încheie capitolul: din distrugerea totală anunțată, rămâne totuși o „sămânță sfântă”, garanție a continuității poporului, chiar dacă redus radical ca număr — versetul-cheie care justifică prezența acestei viziuni întunecate în ciclul liturgic al Haftarot, o carte a judecății care se încheie totuși cu speranță."
       },
       {
@@ -50175,10 +50239,12 @@
        "t": "Ahaz",
        "w": "Ahaz",
        "heb": "אָחָז",
-       "translit": "Achaz",
+       "translit": "ahaz",
        "strong": "H271",
        "pos": "nume propriu",
        "def_ro": "Ahaz.",
+       "greek": "Ἄχαζ (Achaz)",
+       "greek_def_ro": "Ἄχαζ (Achaz) — Ahaz.",
        "dict_ro": "Achaz — rege idolatru al lui Iuda (2 Împărați 16), fiul lui Iotam și nepotul lui Uzia; Rashi observă că textul îl legitimează genealogic ca „fiul lui Iotam, fiul lui Uzia” tocmai pentru a explica de ce, în ciuda propriei lui răutăți, dușmanii n-au reușit să-l învingă — meritul strămoșilor lui drepți."
       },
       {
@@ -50187,11 +50253,14 @@
       {
        "t": "n-a putut să-l biruiască",
        "w": "n-a putut să-l biruiască",
-       "heb": "וְלֹא יָכֹל לְהִלָּחֵם עָלֶיהָ",
-       "translit": "ve-lo yakhol le-hillachem aleha",
+       "heb": "יָכֹל",
+       "translit": "iahol",
        "strong": "H3201",
        "pos": "verb, qal perfect",
        "def_ro": "și n-a putut să lupte împotriva ei.",
+       "greek": "δύναμαι (dynamai)",
+       "greek_def_ro": "δύναμαι (dynamai) — a putea, a fi în stare.",
+       "diff_ro": "Septuaginta precizează verbul: „οὐκ ἠδυνήθησαν πολιορκῆσαι αὐτήν\" („n-au putut s-o ÎMPRESOARE\"), mai specific decât generalul „n-a putut să-l biruiască\" din ebraică.",
        "dict_ro": "Rashi citește o tradiție agadică: îngerii slujitori întreabă de ce Dumnezeu nu-l pedepsește pe acest rege răufăcător, iar răspunsul e explicit: „e fiul lui Iotam, e fiul lui Uzia; strămoșii lui au fost drepți, de aceea nu vreau să-Mi întind mâna asupra lui” — meritul strămoșilor protejează chiar și pe un urmaș nevrednic."
       },
       {
@@ -50240,11 +50309,13 @@
       {
        "t": "casei lui David",
        "w": "casei lui David",
-       "heb": "לְבֵית דָּוִד",
-       "translit": "le-veit David",
+       "heb": "לְבֵית דָּוִד",
+       "translit": "levēt david",
        "strong": "H1732",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + nume propriu",
        "def_ro": "casei lui David.",
+       "greek": "οἶκος Δαυίδ (oikos Dauid)",
+       "greek_def_ro": "οἶκος Δαυίδ (oikos Dauid) — casa lui David.",
        "dict_ro": "Rashi observă că textul evită deliberat numele „Ahaz”, folosind în schimb „casa lui David” — pentru că, fiind un rege rău, numele lui nu e demn de a fi menționat direct în acest context de veste alarmantă."
       },
       {
@@ -50254,10 +50325,11 @@
        "t": "așezat tabăra",
        "w": "așezat tabăra",
        "heb": "נָחָה",
-       "translit": "nachah",
+       "translit": "naha",
        "strong": "H5117",
        "pos": "verb, qal perfect",
        "def_ro": "s-a așezat, și-a găsit odihnă [de aliniere].",
+       "diff_ro": "Septuaginta are „συνεφώνησεν Ἀρὰμ πρὸς τὸν Ἐφραίμ\" („Aram s-a ÎNȚELES/a făcut alianță cu Efraim\"), nu „și-a așezat tabăra\" (naha) ca în ebraică — o imagine diferită, de pact politic, nu de poziționare militară.",
        "dict_ro": "Rashi explică forma gramaticală feminină a verbului (nachah) prin faptul că „regatul s-a alăturat/aliniat” — Aram (Siria) și Efraim (regatul nordic al lui Israel) s-au unit temporar într-o coaliție militară împotriva lui Iuda."
       },
       {
@@ -50266,11 +50338,14 @@
       {
        "t": "cutremurat",
        "w": "cutremurat",
-       "heb": "וַיָּנַע",
-       "translit": "va-yana",
+       "heb": "וַיָּנַע",
+       "translit": "vaiana",
        "strong": "H5128",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "s-a clătinat, s-a cutremurat.",
+       "greek": "ἐξίστημι (existemi)",
+       "greek_def_ro": "ἐξίστημι (existemi) — a se tulbura adânc, a fi uluit.",
+       "diff_ro": "Septuaginta are „sufletul lui a fost uluit\" (ἐξέστη ἡ ψυχὴ αὐτοῦ), o imagine a uimirii/tulburării, nu propriu-zis de cutremurare ca în ebraică.",
        "dict_ro": "Rashi observă că această reacție vine deja după ce fiecare dintre cei doi regi luptase separat cu Ahaz și reușise (2 Împărați 16:5) — vestea unirii lor forțelor, nu a unei prime confruntări, e cea care provoacă panica totală."
       },
       {
@@ -50279,11 +50354,12 @@
       {
        "t": "copacii din pădure",
        "w": "copacii din pădure",
-       "heb": "עֲצֵי־יַעַר",
-       "translit": "atsei-ya'ar",
+       "heb": "עֲצֵי יַעַר",
+       "translit": "ațē iaar",
        "strong": "H6086",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
        "def_ro": "copacii pădurii.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe după „sufletul lui a fost uluit\" — nu există corespondent verificabil pentru comparația cu copacii pădurii mișcați de vânt.",
        "dict_ro": "Rashi adaugă o observație vie: glasul copacilor sterpi de pădure (nu al pomilor roditori) se aude mai tare la vânt — o comparație aptă pentru panica zgomotoasă și dezordonată a poporului lui Ahaz."
       },
       {
@@ -50331,11 +50407,14 @@
       {
        "t": "Șear-Iașuv",
        "w": "Șear-Iașuv",
-       "heb": "שְׁאָר יָשׁוּב",
-       "translit": "She'ar Yashuv",
+       "heb": "וּשְׁאָר יָשׁוּב",
+       "translit": "ușar iașuv",
        "strong": "H7610",
-       "pos": "nume propriu",
+       "pos": "nume propriu + nume propriu",
        "def_ro": "Șear-Iașuv — „o rămășiță se va întoarce”.",
+       "greek": "ὁ καταλειφθεὶς Ἰασοὺβ (ho kataleiphtheis Iasoub)",
+       "greek_def_ro": "ὁ καταλειφθεὶς Ἰασοὺβ (ho kataleiphtheis Iasoub) — cel rămas, Iasub.",
+       "diff_ro": "Septuaginta nu tratează „Șear-Iașuv\" ca un singur nume simbolic („o rămășiță se va întoarce\"), ci îl despică într-o descriere, „cel rămas\" (ὁ καταλειφθεὶς), plus numele transliterat „Ἰασοὺβ\".",
        "dict_ro": "She'ar Yashuv — nume-program purtat de fiul lui Isaia, exact tema centrală deja anunțată la 6:13 (sămânța sfântă rămasă): prezența fizică a copilului, alături de tatăl său, în această întâlnire cu Ahaz, e ea însăși un mesaj profetic mut — chiar în mijlocul crizei, promisiunea unei rămășițe care se va întoarce rămâne vie."
       },
       {
@@ -50344,11 +50423,13 @@
       {
        "t": "iazului de sus",
        "w": "iazului de sus",
-       "heb": "הַבְּרֵכָה הָעֶלְיוֹנָה",
-       "translit": "ha-berekhah ha-elyonah",
+       "heb": "הַבְּרֵכָה",
+       "translit": "habrēha",
        "strong": "H1295",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "iazul de sus.",
+       "greek": "κολυμβήθρα (kolymbethra)",
+       "greek_def_ro": "κολυμβήθρα (kolymbethra) — iaz, bazin de apă.",
        "dict_ro": "Rashi identifică locul cu precizie topografică: un rezervor de apă asemenea unui heleșteu, situat pe versantul muntelui, cu un al doilea iaz, mai jos, la baza lui — detaliu geografic real al Ierusalimului antic, confirmând acuratețea istorică a narațiunii."
       },
       {
@@ -50357,11 +50438,13 @@
       {
        "t": "Ogorului Spălătorului",
        "w": "Ogorului Spălătorului",
-       "heb": "שְׂדֵה כוֹבֵס",
-       "translit": "sedeh khovess",
+       "heb": "שְׂדֵה כוֹבֵס",
+       "translit": "sedē hovēs",
        "strong": "H3526",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + verb, qal participiu",
        "def_ro": "ogorul spălătorului/nălbitorului.",
+       "greek": "ἀγρὸς τοῦ κναφέως (agros tou knapheos)",
+       "greek_def_ro": "ἀγρὸς τοῦ κναφέως (agros tou knapheos) — ogorul spălătorului (de stofe).",
        "dict_ro": "Rashi explică: „câmpul unde spălătorii [de rufe] își întind hainele pentru uscare” — un loc public, obișnuit, al Ierusalimului cotidian, ales pentru o întâlnire de mare importanță teologică — profeția intervine direct în viața practică a regelui, nu doar în vise sau viziuni."
       },
       {
@@ -50410,11 +50493,13 @@
       {
        "t": "Păzește-te [și] stai liniștit",
        "w": "Păzește-te [și] stai liniștit",
-       "heb": "הִשָּׁמֵר וְהַשְׁקֵט",
-       "translit": "hishshamer ve-hashket",
+       "heb": "הִשָּׁמֵר וְהַשְׁקֵט",
+       "translit": "hișamēr vehașkēt",
        "strong": "H8104",
-       "pos": "verb, nifal imperativ",
+       "pos": "verb, nifal imperativ + verb, hifil imperativ",
        "def_ro": "păzește-te și liniștește-te.",
+       "greek": "φυλάσσομαι καὶ ἡσυχάζω (phylassomai kai hesychazo)",
+       "greek_def_ro": "φυλάσσομαι καὶ ἡσυχάζω (phylassomai kai hesychazo) — păzește-te și stai liniștit.",
        "dict_ro": "Rashi glosează „hishshamer” cu o imagine memorabilă: „șezi liniștit, ca vinul pe drojdiile lui” — o stare de calm stabil, nesguduit, exact contrariul agitației panicate descrise la versetul anterior."
       },
       {
@@ -50423,11 +50508,13 @@
       {
        "t": "tăciuni fumegânzi",
        "w": "tăciuni fumegânzi",
-       "heb": "זַנְבוֹת הָאוּדִים הָעֲשֵׁנִים",
-       "translit": "zanvot ha-udim ha-ashenim",
+       "heb": "הָאוּדִים הָעֲשֵׁנִים",
+       "translit": "haudim haașēnim",
        "strong": "H181",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin plural + adjectiv, masculin plural",
        "def_ro": "cozi de tăciuni fumegânde.",
+       "greek": "δαλοὶ καπνιζόμενοι (daloi kapnizomenoi)",
+       "greek_def_ro": "δαλοὶ καπνιζόμενοι (daloi kapnizomenoi) — tăciuni/firebrand-uri fumegânde.",
        "dict_ro": "Rashi explică metafora: cei doi regi vor părea în ochii lui Ahaz „ca niște cozi de tăciuni a căror flacără s-a stins” — puterea lor militară, deși temută, e deja pe cale de epuizare, aproape consumată complet, o amenințare mult mai mică decât pare."
       },
       {
@@ -50477,10 +50564,12 @@
        "t": "uneltit",
        "w": "uneltit",
        "heb": "יָעַץ",
-       "translit": "ya'ats",
+       "translit": "iaaț",
        "strong": "H3289",
        "pos": "verb, qal perfect",
        "def_ro": "a sfătuit, a plănuit.",
+       "greek": "βουλεύομαι βουλὴν πονηράν (bouleuomai boulen poneran)",
+       "greek_def_ro": "βουλεύομαι βουλὴν πονηράν (bouleuomai boulen poneran) — a plănui un sfat rău.",
        "dict_ro": "Rădăcina ya'ats, „a sfătui” — folosit aici cu sens negativ, „a unelti”; textul motivează explicit avertismentul liniștitor din versetul anterior detaliind complotul concret pus la cale de coaliția Aram-Efraim."
       },
       {
@@ -50531,11 +50620,12 @@
       {
        "t": "necăjim",
        "w": "necăjim",
-       "heb": "וּנְקִיצֶנָּה",
-       "translit": "u-nekitsennah",
+       "heb": "וּנְקִיצֶנָּה",
+       "translit": "unkițena",
        "strong": "H6973",
-       "pos": "verb, hifil imperfect",
+       "pos": "verb, hifil imperfect + sufix",
        "def_ro": "să-l trezim [prin luptă], să-l tulburăm.",
+       "diff_ro": "Septuaginta are „συλλαλήσαντες αὐτοῖς\" („vorbind/înțelegându-ne cu ei\"), o imagine diplomatică, nu „să-i necăjim\" ca în ebraică.",
        "dict_ro": "Rashi explică: „îl vom trezi cu război” — un verb rar, sugerând stârnirea violentă a unei stări de pace anterioară."
       },
       {
@@ -50544,11 +50634,12 @@
       {
        "t": "prădăm",
        "w": "prădăm",
-       "heb": "וְנַבְקִעֶנָּה",
-       "translit": "ve-navki'ennah",
+       "heb": "וְנַבְקִעֶנָּה",
+       "translit": "venavkiena",
        "strong": "H1234",
-       "pos": "verb, hifil imperfect",
+       "pos": "verb, hifil imperfect + sufix",
        "def_ro": "să-l despicăm, să-l supunem.",
+       "diff_ro": "La fel ca „necăjim\", Septuaginta are aici „ἀποστρέψομεν αὐτοὺς πρὸς ἡμᾶς\" („îi vom întoarce/atrage de partea noastră\"), nicidecum „să-i prădăm\" — întregul verset grecesc descrie un complot diplomatic, nu una militar-distructiv.",
        "dict_ro": "Rashi glosează: „îl vom face egal cu noi, ca o vale netedă” — imagine de nivelare completă a distincției politice, reducerea regatului lui Iuda la statutul unei provincii supuse."
       },
       {
@@ -50558,10 +50649,12 @@
        "t": "Tabeel",
        "w": "Tabeel",
        "heb": "טָבְאַל",
-       "translit": "Tav'al",
+       "translit": "taval",
        "strong": "H2870",
        "pos": "nume propriu",
        "def_ro": "Tabeel — „bun pentru Dumnezeu/pentru noi”.",
+       "greek": "Ταβεήλ (Tabeel)",
+       "greek_def_ro": "Ταβεήλ (Tabeel) — Tabeel.",
        "dict_ro": "Rashi explică semnificația numelui: „fiul celui bun pentru noi” — coaliția Aram-Efraim voia să instaleze pe tronul lui Iuda un pretendent favorabil intereselor lor, în locul dinastiei legitime a lui David, o amenințare directă la adresa liniei mesianice promise."
       },
       {
@@ -50603,11 +50696,13 @@
       {
        "t": "copil ni s-a născut",
        "w": "copil ni s-a născut",
-       "heb": "יֶלֶד יֻלַּד־לָנוּ",
-       "translit": "yeled yullad-lanu",
+       "heb": "יֶלֶד יֻלַּד",
+       "translit": "ieled iulad",
        "strong": "H3206",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular + verb, pual perfect",
        "def_ro": "un copil ni s-a născut.",
+       "greek": "παιδίον ἐγενήθη ἡμῖν (paidion egenethe hemin)",
+       "greek_def_ro": "παιδίον ἐγενήθη ἡμῖν (paidion egenethe hemin) — un copil ni s-a născut.",
        "dict_ro": "Rashi identifică explicit acest copil cu regele Hezechia, fiul lui Ahaz, deja născut la data rostirii acestei profeții — spre deosebire de citirea mesianică ulterioară a tradiției creștine, care aplică versetul unei nașteri viitoare, mult mai îndepărtate."
       },
       {
@@ -50616,11 +50711,13 @@
       {
        "t": "autoritatea",
        "w": "autoritatea",
-       "heb": "הַמִּשְׂרָה",
-       "translit": "ha-misrah",
+       "heb": "הַמִּשְׂרָה",
+       "translit": "hamisra",
        "strong": "H4951",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "stăpânirea, autoritatea.",
+       "greek": "ἀρχή (arche)",
+       "greek_def_ro": "ἀρχή (arche) — stăpânire, conducere.",
        "dict_ro": "Misrah, „stăpânire, autoritate” — cuvânt rar, aceeași rădăcină ca sar, „conducător”; desemnează povara/misiunea regală așezată pe umerii viitorului rege, o imagine de responsabilitate, nu doar de privilegiu."
       },
       {
@@ -50629,12 +50726,13 @@
       {
        "t": "Mărețul Sfătuitor, Dumnezeul cel Puternic, Tatăl Veșnic",
        "w": "Mărețul Sfătuitor, Dumnezeul cel Puternic, Tatăl Veșnic",
-       "heb": "פֶּלֶא יוֹעֵץ אֵל גִּבּוֹר אֲבִיעַד",
-       "translit": "pele yo'ets El gibbor avi'ad",
+       "heb": "פֶּלֶא יוֹעֵץ אֵל גִּבּוֹר אֲבִי עַד",
+       "translit": "pele ioēț ēl gibor avi ad",
        "strong": "H6382",
-       "pos": "substantiv, masculin",
-       "def_ro": "Sfetnic minunat, Dumnezeu puternic, Părinte veșnic.",
-       "dict_ro": "Rashi citește acest șir de titluri nu ca nume ale copilului, ci ca nume ale lui Dumnezeu Însuși, subiectul gramatical al verbului următor: „Cel Sfânt, care este Sfătuitor minunat, Dumnezeu puternic și Tată veșnic, a chemat numele lui Hezechia «Prinț al păcii»”. Tradiția creștină ulterioară, urmând o punctuație diferită a frazei ebraice și traducerea Septuagintei/Vulgatei, citește aceleași cuvinte ca titluri aplicate direct copilului însuși — una din cele mai cunoscute divergențe interpretative dintre cele două tradiții asupra unui singur verset biblic."
+       "pos": "substantiv, masculin singular construct + verb, qal participiu + substantiv, masculin singular + adjectiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "numele patruplu al copilului promis.",
+       "diff_ro": "Textul grecesc disponibil pentru acest titlu se întrerupe chiar la „Μεγάλης βουλῆς ἄγγελος\" — nu se poate verifica dacă fragmentul grecesc continuă să acopere și „Prinț al păcii\".",
+       "dict_ro": "Una dintre cele mai cunoscute și mai discutate divergențe din toată Septuaginta: titlul patruplu ebraic („Sfătuitor minunat, Dumnezeu puternic, Tată veșnic, Prinț al păcii\") e redat în greacă printr-o singură expresie, „Μεγάλης βουλῆς ἄγγελος\" („Mesagerul/Îngerul marelui sfat\") — o construcție complet diferită, intens citată în polemica iudeo-creștină despre traducerea profețiilor mesianice ale lui Isaia."
       },
       {
        "t": ", i-a dat numele de „"
@@ -50642,11 +50740,12 @@
       {
        "t": "Prinț al păcii",
        "w": "Prinț al păcii",
-       "heb": "שַׂר־שָׁלוֹם",
-       "translit": "sar-shalom",
+       "heb": "שַׂר שָׁלוֹם",
+       "translit": "sar șalom",
        "strong": "H8269",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
        "def_ro": "prinț/conducător al păcii.",
+       "diff_ro": "Ca și restul titlului patruplu, acest fragment cade după punctul unde textul grecesc disponibil se întrerupe.",
        "dict_ro": "Sar-shalom — Rashi observă că numele nu e „literal”, ci desemnează caracterul domniei promise: pace și adevăr vor domni în zilele lui Hezechia, exact contrastul necesar cu domnia tulbure, idolatră, a tatălui său Ahaz descrisă în capitolul anterior."
       },
       {
@@ -50693,11 +50792,13 @@
       {
        "t": "pace fără sfârșit",
        "w": "pace fără sfârșit",
-       "heb": "וּלְשָׁלוֹם אֵין־קֵץ",
-       "translit": "u-le-shalom ein-kets",
+       "heb": "וּלְשָׁלוֹם אֵין קֵץ",
+       "translit": "ulșalom ēn kēț",
        "strong": "H7965",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular + particulă negativă + substantiv, masculin singular",
        "def_ro": "și pace fără sfârșit.",
+       "greek": "εἰρήνη αὐτοῦ οὐκ ἔστιν ὅριον (eirene autou ouk estin horion)",
+       "greek_def_ro": "εἰρήνη αὐτοῦ οὐκ ἔστιν ὅριον (eirene autou ouk estin horion) — pacea lui nu are hotar.",
        "dict_ro": "Rashi precizează sensul lui „fără sfârșit”: nu pacea însăși va dura literalmente veșnic în istorie, ci nu va exista hotar/limită pentru extinderea ei — o precizare care menține promisiunea în cadrul unei domnii istorice reale (a lui Hezechia), nu al unei eternități absolute."
       },
       {
@@ -50706,11 +50807,13 @@
       {
        "t": "justiție și dreptate",
        "w": "justiție și dreptate",
-       "heb": "בְּמִשְׁפָּט וּבִצְדָקָה",
-       "translit": "be-mishpat u-vi-tsdakah",
+       "heb": "בְּמִשְׁפָּט וּבִצְדָקָה",
+       "translit": "bemișpat uvițdaka",
        "strong": "H4941",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular + substantiv, feminin singular",
        "def_ro": "prin judecată și dreptate.",
+       "greek": "κρίμα καὶ δικαιοσύνη (krima kai dikaiosyne)",
+       "greek_def_ro": "κρίμα καὶ δικαιοσύνη (krima kai dikaiosyne) — judecată și dreptate.",
        "dict_ro": "Mishpat u-tsedakah — pereche standard de virtuți regale în toată literatura profetică, atribuită explicit de Rashi domniei istorice a lui Hezechia, cunoscut pentru reformele lui religioase și morale (2 Împărați 18:1-8)."
       },
       {
@@ -50720,10 +50823,11 @@
        "t": "zelul",
        "w": "zelul",
        "heb": "קִנְאַת",
-       "translit": "kin'at",
+       "translit": "kinat",
        "strong": "H7068",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "zelul, râvna.",
+       "diff_ro": "Textul grecesc disponibil pentru acest verset se termină la „de acum și pe veci\" (ἀπὸ τοῦ νῦν καὶ εἰς τὸν αἰῶνα) — clauza finală despre „zelul DOMNULUI Oștirilor\" nu are corespondent verificabil în fragmentul disponibil.",
        "dict_ro": "Rashi glosează „kin'at Adonai” ca „gelozia [Lui] pentru Sion”, provocată de uneltirea răuvoitoare a lui Aram și Pekah descrisă în capitolul 7 — încheind astfel firul narativ al Haftarei printr-o legătură directă între amenințarea inițială și împlinirea finală a promisiunii de restaurare."
       },
       {
