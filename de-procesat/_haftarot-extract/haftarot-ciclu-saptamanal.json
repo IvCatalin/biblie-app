@@ -39847,29 +39847,60 @@
      "translit": "Divrei Yirmeyahu ben-Chilkiyahu min-hakohanim asher ba-Anatot be-erets Binyamin.",
      "tokens": [
       {
-       "t": "Cuvintele lui "
+       "t": "Cuvintele",
+       "w": "Cuvintele",
+       "heb": "דִּבְרֵי",
+       "translit": "divrē",
+       "strong": "H1697",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "cuvintele, vorbele [lui Ieremia].",
+       "greek": "ῥῆμα (rhema)",
+       "greek_def_ro": "ῥῆμα (rhema) — cuvânt, lucru spus.",
+       "diff_ro": "Septuaginta traduce direct „ῥῆμα τοῦ Θεοῦ” („cuvântul lui Dumnezeu”, singular), impunând din prima frază o lectură strict divină a cărții, acolo unde ebraica are „cuvintele [omenești ale] lui Ieremia”, la plural.",
+       "dict_ro": "Termenul „divrei” (plural, „cuvintele”) deschide cartea cu o formulă neobișnuită: marea majoritate a profeților folosesc „devar YHWH” („cuvântul DOMNULUI”, singular, formulă strict divină — vezi chiar versetul următor, 1:2), dar Ieremia își intitulează cartea cu propriile sale cuvinte, la plural, ca o colecție. Acest tip de titlu, la plural, apare altfel doar la cărți de înțelepciune omenească precum Proverbele sau Eclesiastul, nu la alți profeți scriitori."
+      },
+      {
+       "t": " lui "
       },
       {
        "t": "Ieremia",
        "w": "Ieremia",
        "heb": "יִרְמְיָהוּ",
-       "translit": "Yirmeyahu",
+       "translit": "irmeiahu",
        "strong": "H3414",
        "pos": "nume propriu",
        "def_ro": "Ieremia.",
+       "greek": "Ἱερεμίας (Hieremias)",
+       "greek_def_ro": "Ἱερεμίας (Hieremias) — Ieremia.",
        "dict_ro": "Yirmeyahu — etimologie disputată, posibil „DOMNUL înalță/întemeiază” sau „DOMNUL aruncă [dușmanii]”. Rashi citează o tradiție midrashică (Pesikta Rabbati) care leagă originea lui Ieremia, prin descendență preoțească, de Rahav curva convertită (Iosua 2) — cel ce mustră un popor decăzut moral coboară, ironic, dintr-o strămoașă cu un trecut dubios, la fel cum poporul decăzut moral coboară dintr-o „sămânță curată”."
       },
       {
-       "t": ", fiul lui "
+       "t": ", "
+      },
+      {
+       "t": "fiul",
+       "w": "fiul",
+       "heb": "בֶּן",
+       "translit": "ben",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "fiu; prin extensie, urmaș, membru al unui grup („fiii lui Israel”).",
+       "diff_ro": "Septuaginta elidează „fiul”, redând „τὸν τοῦ Χελκίου” („[cel] al lui Helchia”) printr-o simplă construcție genitivală, fără cuvântul explicit pentru „fiu”.",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei."
+      },
+      {
+       "t": " lui "
       },
       {
        "t": "Hilkiahu",
        "w": "Hilkiahu",
-       "heb": "חִלְקִיָּהוּ",
-       "translit": "Chilkiyahu",
+       "heb": "חִלְקִיָּהוּ",
+       "translit": "hilkiahu",
        "strong": "H2518",
        "pos": "nume propriu",
        "def_ro": "Hilkia.",
+       "greek": "Χελκίας (Chelkias)",
+       "greek_def_ro": "Χελκίας (Chelkias) — Hilkia.",
        "dict_ro": "Chilkiyahu, „porția/partea DOMNULUI” — unii comentatori identifică acest Hilkia cu marele preot care a descoperit Cartea Legii în Templu pe vremea regelui Ioșia (2 Împărați 22:8), deși identificarea nu e certă."
       },
       {
@@ -39878,11 +39909,13 @@
       {
        "t": "preoții",
        "w": "preoții",
-       "heb": "הַכֹּהֲנִים",
-       "translit": "ha-kohanim",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
        "strong": "H3548",
        "pos": "substantiv, masculin plural",
        "def_ro": "preoții.",
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preoți.",
        "dict_ro": "Kohanim, „preoți” — Ieremia are origine preoțească, dar Dumnezeu îl cheamă ca profet, nu ca preot: cele două oficii, deși adesea înrudite în familiile levitice, rămân distincte în misiunea lui."
       },
       {
@@ -39891,24 +39924,43 @@
       {
        "t": "Anatot",
        "w": "Anatot",
-       "heb": "עֲנָתוֹת",
-       "translit": "Anatot",
+       "heb": "בַּעֲנָתוֹת",
+       "translit": "baanatot",
        "strong": "H6068",
        "pos": "nume propriu",
        "def_ro": "Anatot.",
+       "greek": "Ἀναθώθ (Anathoth)",
+       "greek_def_ro": "Ἀναθώθ (Anathoth) — Anatot.",
        "dict_ro": "Anatot, orășel levitic la aproximativ 5 km nord-est de Ierusalim (Iosua 21:18), alocat preoților din familia lui Abiatar (1 Împărați 2:26) — locul de baștină al lui Ieremia, aproape de capitală, dar în afara ei, marcând deja o anume distanță simbolică față de centrul puterii."
       },
       {
-       "t": ", în ținutul lui "
+       "t": ", în "
+      },
+      {
+       "t": "ținutul",
+       "w": "ținutul",
+       "heb": "בְּאֶרֶץ",
+       "translit": "beereț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "pământ — lumea întreagă, uscatul sau o țară anume.",
+       "greek": "γῆ (ge)",
+       "greek_def_ro": "γῆ (ge) — țara, ținutul.",
+       "dict_ro": "Erets poate însemna pământul întreg, în opoziție cu cerul (Geneza 1:1), uscatul sau o țară anume — mai ales Țara lui Israel (erets Israel). În Isaia, expresia „marginea pământului” (ketse haarets) desemnează popoarele cele mai îndepărtate, chemate și ele să-L cunoască pe DOMNUL."
+      },
+      {
+       "t": " lui "
       },
       {
        "t": "Beniamin",
        "w": "Beniamin",
-       "heb": "בִּנְיָמִן",
-       "translit": "Binyamin",
+       "heb": "בִּנְיָמִן",
+       "translit": "biniamin",
        "strong": "H1144",
        "pos": "nume propriu",
        "def_ro": "Beniamin.",
+       "greek": "Βενιαμίν (Beniamin)",
+       "greek_def_ro": "Βενιαμίν (Beniamin) — Beniamin.",
        "dict_ro": "Binyamin — triburile Iuda și Beniamin formau împreună regatul de sud după despărțirea regatului (1 Împărați 12); localizarea geografică precisă din primul verset ancorează profeția lui Ieremia ferm în istoria politică reală a lui Iuda, nu într-un cadru vag, atemporal."
       },
       {
@@ -39956,11 +40008,14 @@
       {
        "t": "cuvântul DOMNULUI",
        "w": "cuvântul DOMNULUI",
-       "heb": "דְבַר־יְהוָה",
-       "translit": "devar-Adonai",
+       "heb": "דְבַר יְהוָה",
+       "translit": "devar Adonai",
        "strong": "H1697",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + nume propriu",
        "def_ro": "cuvântul DOMNULUI.",
+       "greek": "λόγος (logos)",
+       "greek_def_ro": "λόγος (logos) — cuvânt.",
+       "diff_ro": "Ca și la 1:1, Septuaginta are aici „τοῦ Θεοῦ” („al lui Dumnezeu”), nu numele DOMNULUI (YHWH) din ebraică.",
        "dict_ro": "Devar-Adonai, formula clasică de deschidere a chemării profetice — Rashi o leagă direct de momentul exact în care „Șechina a început să Se odihnească asupra lui”, marcând nașterea sa ca profet, distinctă de nașterea sa biologică descrisă implicit la v.1."
       },
       {
@@ -39969,24 +40024,44 @@
       {
        "t": "Ioșiahu",
        "w": "Ioșiahu",
-       "heb": "יֹאשִׁיָּהוּ",
-       "translit": "Yoshiyahu",
+       "heb": "יֹאשִׁיָּהוּ",
+       "translit": "ioșiahu",
        "strong": "H2977",
        "pos": "nume propriu",
        "def_ro": "Ioșia.",
+       "greek": "Ἰωσίας (Iosias)",
+       "greek_def_ro": "Ἰωσίας (Iosias) — Ioșiahu.",
        "dict_ro": "Yoshiyahu, „DOMNUL sprijină/vindecă” — regele reformator care a curățat cultul idolatru din Iuda (2 Împărați 22-23); chemarea lui Ieremia are loc în timpul acestei reforme, sub un rege drept, deși prăbușirea națională avea să vină curând după moartea lui."
       },
       {
-       "t": ", fiul lui Amon, regele lui Iuda, în cel de-al "
+       "t": ", fiul lui "
+      },
+      {
+       "t": "Amon",
+       "w": "Amon",
+       "heb": "אָמוֹן",
+       "translit": "amon",
+       "strong": "H526",
+       "pos": "nume propriu",
+       "def_ro": "Amon, regele Iudei, tatăl lui Ioșiahu.",
+       "greek": "Ἀμώς (Amos)",
+       "greek_def_ro": "Ἀμώς (Amos) — transliterare greacă a numelui regelui (posibil confundată grafic cu numele profetului Amos).",
+       "diff_ro": "Septuaginta scrie aici „Ἀμὼς” (Amos), nu transliterarea așteptată a lui „Amon” — o variantă textuală greacă reală, posibil o confuzie grafică cu numele profetului Amos, nu o diferență de sens teologic.",
+       "dict_ro": "Amon a fost regele Iudei, tatăl lui Ioșiahu (2 Împărați 21:18-26) — un domnitor idolatru, ucis după doi ani de domnie de proprii săi slujitori, într-un contrast puternic cu reforma religioasă radicală a fiului său Ioșiahu, sub care Ieremia își începe aici misiunea profetică."
+      },
+      {
+       "t": ", regele lui Iuda, în cel de-al "
       },
       {
        "t": "treisprezecelea an",
        "w": "treisprezecelea an",
-       "heb": "בִּשְׁלֹשׁ־עֶשְׂרֵה שָׁנָה",
-       "translit": "bi-shlosh-esreh shanah",
+       "heb": "בִּשְׁלֹשׁ עֶשְׂרֵה שָׁנָה",
+       "translit": "bișloș esrē șana",
        "strong": "H7969",
-       "pos": "numeral",
+       "pos": "numeral + numeral + substantiv, feminin singular",
        "def_ro": "în anul al treisprezecelea.",
+       "greek": "τρισκαιδέκατος (triskaidekatos)",
+       "greek_def_ro": "τρισκαιδέκατος (triskaidekatos) — al treisprezecelea.",
        "dict_ro": "Anul al treisprezecelea al lui Ioșia (aprox. 627 î.Hr.) — datare istorică precisă, plasând începutul misiunii lui Ieremia cu aproximativ cinci ani înainte de descoperirea Cărții Legii în Templu (2 Împărați 22:8, anul al optsprezecelea)."
       },
       {
@@ -40034,10 +40109,12 @@
        "t": "Iehoiakim",
        "w": "Iehoiakim",
        "heb": "יְהוֹיָקִים",
-       "translit": "Yehoyakim",
+       "translit": "iehoiakim",
        "strong": "H3079",
        "pos": "nume propriu",
        "def_ro": "Iehoiachim.",
+       "greek": "Ἰωακείμ (Ioakeim)",
+       "greek_def_ro": "Ἰωακείμ (Ioakeim) — Iehoiakim.",
        "dict_ro": "Yehoyakim, „DOMNUL ridică/stabilește” — fiul lui Ioșia, instalat rege de Faraonul Neco (2 Împărați 23:34), cunoscut pentru ostilitatea lui față de Ieremia, ajungând să ardă sulul profetic al lui Ieremia (Ieremia 36:23)."
       },
       {
@@ -40046,11 +40123,13 @@
       {
        "t": "Țedekia",
        "w": "Țedekia",
-       "heb": "צִדְקִיָּהוּ",
-       "translit": "Tsidkiyahu",
+       "heb": "לְצִדְקִיָּהוּ",
+       "translit": "lețidkiahu",
        "strong": "H6667",
        "pos": "nume propriu",
        "def_ro": "Țedechia.",
+       "greek": "Σεδεκίας (Sedekias)",
+       "greek_def_ro": "Σεδεκίας (Sedekias) — Țedekia.",
        "dict_ro": "Tsidkiyahu, „DOMNUL e dreptatea mea” — ultimul rege al lui Iuda dinaintea distrugerii Templului; anul al unsprezecelea al domniei lui marchează sfârșitul cronologic al activității profetice principale a lui Ieremia, în anul căderii Ierusalimului."
       },
       {
@@ -40059,11 +40138,13 @@
       {
        "t": "Ierusalimul",
        "w": "Ierusalimul",
-       "heb": "יְרוּשָׁלַ͏ִם",
-       "translit": "Yerushalayim",
+       "heb": "יְרוּשָׁלִַם",
+       "translit": "ierușalam",
        "strong": "H3389",
        "pos": "nume propriu",
        "def_ro": "Ierusalim.",
+       "greek": "Ἱερουσαλήμ (Hierousalem)",
+       "greek_def_ro": "Ἱερουσαλήμ (Hierousalem) — Ierusalim.",
        "dict_ro": "Ierusalimul cade și e exilat — sfârșitul tragic spre care întreaga carte a lui Ieremia se îndreaptă, anunțat aici, în chiar primele versete, înainte ca vreo profeție propriu-zisă să fie rostită."
       },
       {
@@ -40072,11 +40153,13 @@
       {
        "t": "exilat",
        "w": "exilat",
-       "heb": "גְּלוֹת",
+       "heb": "גְּלוֹת",
        "translit": "gelot",
        "strong": "H1540",
-       "pos": "substantiv, feminin construct",
+       "pos": "verb, qal infinitiv",
        "def_ro": "exilarea, robia.",
+       "greek": "αἰχμαλωσία (aichmalosia)",
+       "greek_def_ro": "αἰχμαλωσία (aichmalosia) — captivitate, exil.",
        "dict_ro": "Rădăcina galah, „a exila, a descoperi” — dublu sens revelator: „a exila” înseamnă literal „a descoperi/dezveli” [un teritoriu de locuitorii lui], aceeași rădăcină ca „a descoperi” un adevăr ascuns."
       },
       {
@@ -40126,10 +40209,11 @@
        "t": "spunând",
        "w": "spunând",
        "heb": "לֵאמֹר",
-       "translit": "lemor",
+       "translit": "lēmor",
        "strong": "H559",
        "pos": "verb, qal infinitiv",
        "def_ro": "zicând, spunând.",
+       "diff_ro": "Spre diferență de formula paralelă de la 1:11 și 1:13 („λέγων”, „spunând”), Septuaginta omite aici complet acest cuvânt, încheind versetul direct cu „πρός με·” („către mine”).",
        "dict_ro": "Lemor, formula standard de introducere a vorbirii directe divine — de aici, textul trece de la introducerea biografică/istorică (v.1-3) la relatarea propriu-zisă, la persoana întâi, a chemării profetice."
       },
       {
@@ -40175,11 +40259,13 @@
       {
        "t": "plăsmuit",
        "w": "plăsmuit",
-       "heb": "אֶצָּרְךָ",
-       "translit": "etsorkha",
+       "heb": "אֶצָּרְךָ",
+       "translit": "ețarha",
        "strong": "H3335",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect + sufix",
        "def_ro": "te voi plăsmui, te voi forma.",
+       "greek": "πλάσσω (plasso)",
+       "greek_def_ro": "πλάσσω (plasso) — a plăsmui, a modela.",
        "dict_ro": "Rădăcina yatsar, „a plămădi, a forma” — Rashi notează sensul de „formă, chip”, aceeași rădăcină ca la formarea lui Adam din țărână (Geneza 2:7). Cunoașterea divină a lui Ieremia precedă nu doar nașterea, ci chiar conceperea/formarea lui fizică."
       },
       {
@@ -40188,12 +40274,14 @@
       {
        "t": "cunoscut",
        "w": "cunoscut",
-       "heb": "יְדַעְתִּיךָ",
-       "translit": "yeda'tikha",
+       "heb": "יְדַעְתִּיךָ",
+       "translit": "iedatiha",
        "strong": "H3045",
-       "pos": "verb, qal perfect",
+       "pos": "verb, qal perfect + sufix",
        "def_ro": "te-am cunoscut.",
-       "dict_ro": "Rădăcina yada, „a cunoaște” — Rashi îl leagă de forma folosită la Exod 6:3 („nu M-am făcut cunoscut lor” — sub Numele YHVH), sugerând o cunoaștere de alegere/relație specială, nu doar informație abstractă: Dumnezeu îl „alege” pe Ieremia dinainte de naștere."
+       "greek": "ἐπίσταμαι (epistamai)",
+       "greek_def_ro": "ἐπίσταμαι (epistamai) — a cunoaște, a înțelege.",
+       "dict_ro": "Rădăcina yada, „a cunoaște” — Rashi îl leagă de forma folosită la Exodul 6:3 („nu M-am făcut cunoscut lor” — sub Numele YHVH), sugerând o cunoaștere de alegere/relație specială, nu doar informație abstractă: Dumnezeu îl „alege” pe Ieremia dinainte de naștere."
       },
       {
        "t": ", și înainte ca tu să fi ieșit din "
@@ -40201,11 +40289,13 @@
       {
        "t": "pântec",
        "w": "pântec",
-       "heb": "רֶחֶם",
-       "translit": "rechem",
+       "heb": "מֵרֶחֶם",
+       "translit": "mērehem",
        "strong": "H7358",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "pântece.",
+       "greek": "μήτρα (metra)",
+       "greek_def_ro": "μήτρα (metra) — pântece, uter.",
        "dict_ro": "Rechem, „pântece” — completează imaginea de la începutul versetului (formarea în „burtă”), subliniind prin repetiție ideea centrală: alegerea divină a lui Ieremia precedă complet orice merit sau faptă personală."
       },
       {
@@ -40214,11 +40304,13 @@
       {
        "t": "sfințit",
        "w": "sfințit",
-       "heb": "הִקְדַּשְׁתִּיךָ",
-       "translit": "hikdashtikha",
+       "heb": "הִקְדַּשְׁתִּיךָ",
+       "translit": "hikdaștiha",
        "strong": "H6942",
-       "pos": "verb, hifil perfect",
+       "pos": "verb, hifil perfect + sufix",
        "def_ro": "te-am sfințit, te-am pus deoparte.",
+       "greek": "ἁγιάζω (hagiazo)",
+       "greek_def_ro": "ἁγιάζω (hagiazo) — a sfinți.",
        "dict_ro": "Rădăcina kadash, „a sfinți, a pune deoparte” — Rashi glosează simplu: „te-am rânduit/programat pentru aceasta” — sfințirea aici înseamnă separarea pentru o misiune specifică, nu puritate morală abstractă."
       },
       {
@@ -40230,9 +40322,11 @@
        "heb": "נָבִיא",
        "translit": "navi",
        "strong": "H5030",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "profet.",
-       "dict_ro": "Navi, „profet, purtător de cuvânt” — Rashi discută pe larg expresia „profet pentru neamuri”, oferind trei interpretări: (1) profet pentru Israel, care se purta „ca neamurile” (idolatru); (2) profet care va rosti judecăți asupra neamurilor păgâne (Ieremia 25:15); (3) paralelă directă cu Moise, „profet ca tine” (Deuteronom 18:18) — ambii au mustrat poporul și au profețit patruzeci de ani."
+       "greek": "προφήτης (prophetes)",
+       "greek_def_ro": "προφήτης (prophetes) — profet.",
+       "dict_ro": "Navi, „profet, purtător de cuvânt” — Rashi discută pe larg expresia „profet pentru neamuri”, oferind trei interpretări: (1) profet pentru Israel, care se purta „ca neamurile” (idolatru); (2) profet care va rosti judecăți asupra neamurilor păgâne (Ieremia 25:15); (3) paralelă directă cu Moise, „profet ca tine” (Deuteronomul 18:18) — ambii au mustrat poporul și au profețit patruzeci de ani."
       },
       {
        "t": " te-am făcut pentru "
@@ -40240,11 +40334,13 @@
       {
        "t": "neamuri",
        "w": "neamuri",
-       "heb": "גּוֹיִם",
-       "translit": "goyim",
+       "heb": "לַגּוֹיִם",
+       "translit": "lagoim",
        "strong": "H1471",
        "pos": "substantiv, masculin plural",
        "def_ro": "neamuri, popoare.",
+       "greek": "ἔθνος (ethnos)",
+       "greek_def_ro": "ἔθνος (ethnos) — neamuri, națiuni.",
        "dict_ro": "Goyim, „neamuri, națiuni” — termen ambiguu, discutat de Rashi (vezi nota anterioară): poate desemna fie națiunile păgâne propriu-zise, fie, ironic, pe Israel însuși, atunci când se poartă „ca neamurile”."
       },
       {
@@ -40297,20 +40393,39 @@
        "strong": "H162",
        "pos": "interjecție",
        "def_ro": "ah! vai!",
+       "greek": "ὦ (o)",
+       "greek_def_ro": "ὦ (o) — o! (interjecție).",
        "dict_ro": "Ahah, interjecție de tânguire — Rashi o traduce literal ca „vaiet, plângere” (complainte, în glosa lui franceză veche), exprimând reticența sinceră, aproape disperată, a lui Ieremia în fața chemării."
       },
       {
-       "t": ", Stăpâne, Doamne DUMNEZEULE, iată, eu nu "
+       "t": ", "
+      },
+      {
+       "t": "Stăpâne, Doamne DUMNEZEULE",
+       "w": "Stăpâne, Doamne DUMNEZEULE",
+       "heb": "אֲדֹנָי יְהֹוִה",
+       "translit": "adonai Adonai",
+       "strong": "H3069",
+       "pos": "substantiv, masculin plural construct + sufix + nume propriu",
+       "def_ro": "titlu dublu solemn: „Stăpânul meu, DOMNUL [Dumnezeu]”.",
+       "greek": "δεσπότης Κύριος (despotes Kyrios)",
+       "greek_def_ro": "δεσπότης Κύριος (despotes Kyrios) — Stăpâne, Doamne.",
+       "dict_ro": "Combinația „Adonai YHWH” („Stăpâne, DOMNUL”) e o formulă solemnă rară, folosită în momente de mare smerenie sau protest înaintea lui Dumnezeu — Moise o folosește la rugul aprins (Exodul 4:10, chiar versetul la care aluzia lui Ieremia e directă: „nu sunt om al cuvintelor” / „nu știu să vorbesc”), și tot așa Ghedeon (Judecători 6:22) și Iosua (Iosua 7:7), toți protestând că nu sunt potriviți pentru misiunea primită."
+      },
+      {
+       "t": ", iată, eu nu "
       },
       {
        "t": "știu să vorbesc",
        "w": "știu să vorbesc",
-       "heb": "לֹא־יָדַעְתִּי דַּבֵּר",
-       "translit": "lo-yada'ti dabber",
+       "heb": "יָדַעְתִּי דַּבֵּר",
+       "translit": "iadati dabēr",
        "strong": "H1696",
-       "pos": "verb, piel infinitiv",
+       "pos": "verb, qal perfect + verb, piel infinitiv",
        "def_ro": "nu știu să vorbesc.",
-       "dict_ro": "Ecou direct al refuzului lui Moise la rugul aprins: „eu nu sunt om al cuvintelor... sunt greu la gură și greu la limbă” (Exod 4:10) — paralela dintre cei doi mari lideri/profeți e explicită și intenționată, ambii pretinzând incapacitate verbală în fața chemării divine."
+       "greek": "ἐπίσταμαι λαλεῖν (epistamai lalein)",
+       "greek_def_ro": "ἐπίσταμαι λαλεῖν (epistamai lalein) — a (ști să) vorbească.",
+       "dict_ro": "Ecou direct al refuzului lui Moise la rugul aprins: „eu nu sunt om al cuvintelor... sunt greu la gură și greu la limbă” (Exodul 4:10) — paralela dintre cei doi mari lideri/profeți e explicită și intenționată, ambii pretinzând incapacitate verbală în fața chemării divine."
       },
       {
        "t": ", căci sunt [încă] "
@@ -40319,10 +40434,12 @@
        "t": "tânăr",
        "w": "tânăr",
        "heb": "נַעַר",
-       "translit": "na'ar",
+       "translit": "naar",
        "strong": "H5288",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "tânăr, băiat.",
+       "greek": "νεώτερος (neoteros)",
+       "greek_def_ro": "νεώτερος (neoteros) — mai tânăr, tânăr.",
        "dict_ro": "Na'ar, „tânăr” — Rashi explică obiecția lui Ieremia nu ca pe o chestiune de vârstă cronologică strictă, ci de autoritate morală: „nu sunt vrednic să-i mustru” — spre deosebire de Moise, ale cărui minuni (Ieșirea din Egipt, despărțirea mării, mana) îi câștigaseră deja autoritatea în ochii poporului."
       },
       {
@@ -40369,11 +40486,13 @@
       {
        "t": "trimite",
        "w": "trimite",
-       "heb": "אֶשְׁלָחֲךָ",
-       "translit": "eshlachakha",
+       "heb": "אֶשְׁלָחֲךָ",
+       "translit": "eșlahaha",
        "strong": "H7971",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect + sufix",
        "def_ro": "te voi trimite.",
+       "greek": "ἐξαποστέλλω (exapostello)",
+       "greek_def_ro": "ἐξαποστέλλω (exapostello) — a trimite.",
        "dict_ro": "Rădăcina shalach, „a trimite” — Rashi precizează ținta: „la cei ce se închină stelelor și zodiilor”, adică la neamurile păgâne, în măsura în care Israel însuși se comportă ca ele — o continuare a ambiguității discutate la v.5."
       },
       {
@@ -40382,11 +40501,13 @@
       {
        "t": "porunci",
        "w": "porunci",
-       "heb": "אֲצַוְּךָ",
-       "translit": "atsavvekha",
+       "heb": "אֲצַוְּךָ",
+       "translit": "ațauha",
        "strong": "H6680",
-       "pos": "verb, piel imperfect",
+       "pos": "verb, piel imperfect + sufix",
        "def_ro": "îți voi porunci.",
+       "greek": "ἐντέλλομαι (entellomai)",
+       "greek_def_ro": "ἐντέλλομαι (entellomai) — a porunci.",
        "dict_ro": "Rădăcina tsavah, „a porunci” — Rashi precizează ținta acestei a doua clauze: „lui Israel vei vorbi” — distincția dintre cele două clauze ale versetului (a merge vs. a vorbi) corespunde, la Rashi, unei distincții între destinatarii misiunii: neamurile și Israel."
       },
       {
@@ -40434,11 +40555,13 @@
       {
        "t": "teme",
        "w": "teme",
-       "heb": "תִּירָא",
+       "heb": "תִּירָא",
        "translit": "tira",
        "strong": "H3372",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal jusiv",
        "def_ro": "te vei teme.",
+       "greek": "φοβέομαι (phobeomai)",
+       "greek_def_ro": "φοβέομαι (phobeomai) — a se teme.",
        "dict_ro": "Rădăcina yare, „a se teme” — formula clasică de încurajare divină în chemările profetice biblice (cf. Iosua 1:9, Isaia 41:10), aici aplicată direct temerilor concrete ale lui Ieremia față de ostilitatea pe care avea s-o întâmpine din partea propriului popor."
       },
       {
@@ -40447,12 +40570,14 @@
       {
        "t": "salvez",
        "w": "salvez",
-       "heb": "לְהַצִּלֶךָ",
-       "translit": "le-hatsilekha",
+       "heb": "לְהַצִּלֶךָ",
+       "translit": "lehațileha",
        "strong": "H5337",
-       "pos": "verb, hifil infinitiv",
+       "pos": "verb, hifil infinitiv + sufix",
        "def_ro": "să te scap, să te izbăvesc.",
-       "dict_ro": "Rădăcina natsal, „a scăpa, a izbăvi” — aceeași rădăcină ca la promisiunea făcută lui Moise la Exod 3:8 („M-am coborât să-i izbăvesc”); promisiunea nu e de a-l feri pe Ieremia de orice ostilitate, ci de a-l scăpa din ea — profeția lui va aduce, într-adevăr, persecuție reală."
+       "greek": "ἐξαιρέω (exaireo)",
+       "greek_def_ro": "ἐξαιρέω (exaireo) — a scoate, a scăpa, a salva.",
+       "dict_ro": "Rădăcina natsal, „a scăpa, a izbăvi” — aceeași rădăcină ca la promisiunea făcută lui Moise la Exodul 3:8 („M-am coborât să-i izbăvesc”); promisiunea nu e de a-l feri pe Ieremia de orice ostilitate, ci de a-l scăpa din ea — profeția lui va aduce, într-adevăr, persecuție reală."
       },
       {
        "t": " – "
@@ -40460,11 +40585,14 @@
       {
        "t": "rostirea DOMNULUI",
        "w": "rostirea DOMNULUI",
-       "heb": "נְאֻם־יְהוָה",
-       "translit": "ne'um-Adonai",
+       "heb": "נְאֻם יְהוָה",
+       "translit": "neum Adonai",
        "strong": "H5002",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + nume propriu",
        "def_ro": "rostirea/spusa DOMNULUI.",
+       "greek": "λέγει Κύριος (legei Kyrios)",
+       "greek_def_ro": "λέγει Κύριος (legei Kyrios) — zice Domnul.",
+       "diff_ro": "Ebraica are aici o formulă nominală fixă, „neum YHWH” („oracolul/rostirea DOMNULUI”); Septuaginta o redă printr-un verb la timpul prezent, „λέγει Κύριος” („zice Domnul”), schimbând substantivul într-o afirmație verbală directă.",
        "dict_ro": "Ne'um, „rostire, oracol” — formulă de sigilare a unei declarații divine solemne, folosită de peste 175 de ori în Ieremia (mai des decât în orice altă carte biblică) — o marcă stilistică a acestui profet."
       },
       {
@@ -40513,11 +40641,13 @@
       {
        "t": "întins mâna",
        "w": "întins mâna",
-       "heb": "וַיִּשְׁלַח יְהוָה אֶת־יָדוֹ",
-       "translit": "va-yishlach Adonai et-yado",
+       "heb": "וַיִּשְׁלַח יָדוֹ",
+       "translit": "vaișlah iado",
        "strong": "H7971",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "a întins mâna.",
+       "greek": "ἐκτείνω χεῖρα (ekteino cheira)",
+       "greek_def_ro": "ἐκτείνω χεῖρα (ekteino cheira) — a întinde mâna.",
        "dict_ro": "Rădăcina shalach, „a trimite, a întinde” — Rashi observă că orice „trimitere” asociată cu mâna în Scriptură are sensul de „a întinde”, un gest fizic concret al atingerii divine, spre deosebire de simpla vorbire — actul de „a pune cuvintele” în gura profetului e mediat printr-un contact fizic real."
       },
       {
@@ -40526,11 +40656,13 @@
       {
        "t": "atins",
        "w": "atins",
-       "heb": "וַיַּגַּע",
-       "translit": "va-yagga",
+       "heb": "וַיַּגַּע",
+       "translit": "vaiaga",
        "strong": "H5060",
-       "pos": "verb, hifil imperfect",
+       "pos": "verb, hifil imperfect consecutiv",
        "def_ro": "a atins.",
+       "greek": "ἅπτομαι (haptomai)",
+       "greek_def_ro": "ἅπτομαι (haptomai) — a atinge.",
        "dict_ro": "Rădăcina naga, „a atinge” — un ecou direct al chemării lui Isaia, unde un serafim îi atinge buzele cu un cărbune aprins (Isaia 6:6-7); atingerea divină a gurii marchează, în ambele chemări profetice, momentul precis al învestirii cu autoritate de a vorbi cuvântul lui Dumnezeu."
       },
       {
@@ -40539,15 +40671,32 @@
       {
        "t": "pus",
        "w": "pus",
-       "heb": "נָתַתִּי",
-       "translit": "natatti",
+       "heb": "נָתַתִּי",
+       "translit": "natati",
        "strong": "H5414",
        "pos": "verb, qal perfect",
        "def_ro": "am pus, am dat.",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da, a pune.",
        "dict_ro": "Rădăcina natan, „a da, a pune” — cuvintele lui Ieremia nu vor fi, de acum, invenția lui proprie, ci vor fi „puse” direct de Dumnezeu în gura lui — garanția autorității divine a mesajului rostit."
       },
       {
-       "t": " cuvintele Mele în gura ta."
+       "t": " "
+      },
+      {
+       "t": "cuvintele Mele în gura ta",
+       "w": "cuvintele Mele în gura ta",
+       "heb": "דְבָרַי בְּפִיךָ",
+       "translit": "devarai befiha",
+       "strong": "H6310",
+       "pos": "substantiv, masculin plural construct + sufix + substantiv, masculin singular construct + sufix",
+       "def_ro": "formulă de investire profetică: cuvintele divine puse direct în gura trimisului.",
+       "greek": "λόγους...στόμα (logous...stoma)",
+       "greek_def_ro": "λόγους...στόμα (logous...stoma) — cuvintele mele în gura ta.",
+       "dict_ro": "Formula „am pus cuvintele Mele în gura ta” reproduce aproape cuvânt cu cuvânt promisiunea din Deuteronomul 18:18, despre profetul ca Moise pe care Dumnezeu îl va ridica și „va pune cuvintele Sale în gura lui” — Ieremia e astfel confirmat explicit, prin limbaj, ca împlinire a acelei promisiuni. Gestul simbolic al atingerii gurii (v. 9a) e literal, nu doar metaforic, așa cum la Isaia buzele sunt curățite cu cărbune aprins (Isaia 6:7)."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -40592,11 +40741,13 @@
       {
        "t": "numit",
        "w": "numit",
-       "heb": "הִפְקַדְתִּיךָ",
-       "translit": "hifkadtikha",
+       "heb": "הִפְקַדְתִּיךָ",
+       "translit": "hifkadtiha",
        "strong": "H6485",
-       "pos": "verb, hifil perfect",
+       "pos": "verb, hifil perfect + sufix",
        "def_ro": "te-am rânduit, te-am numit.",
+       "greek": "καθίστημι (kathistemi)",
+       "greek_def_ro": "καθίστημι (kathistemi) — a numi, a pune peste.",
        "dict_ro": "Rădăcina pakad, „a rândui, a inspecta, a numi” — Rashi glosează simplu „te-am numit”, dar rădăcina poartă și nuanța de supraveghere activă: Ieremia nu primește doar un titlu, ci o funcție de autoritate reală asupra destinelor națiunilor menționate."
       },
       {
@@ -40605,11 +40756,13 @@
       {
        "t": "regate",
        "w": "regate",
-       "heb": "מַּמְלָכוֹת",
-       "translit": "mamlakhot",
+       "heb": "הַמַּמְלָכוֹת",
+       "translit": "hamamlahot",
        "strong": "H4467",
        "pos": "substantiv, feminin plural",
        "def_ro": "regate.",
+       "greek": "βασιλεία (basileia)",
+       "greek_def_ro": "βασιλεία (basileia) — regate.",
        "dict_ro": "Mamlakhot, „regate” — domeniul autorității profetice a lui Ieremia se extinde dincolo de Iuda, la întregul orizont politic al vremii (cf. capitolele 46-51, oracolele împotriva neamurilor)."
       },
       {
@@ -40619,10 +40772,12 @@
        "t": "smulgi",
        "w": "smulgi",
        "heb": "לִנְתוֹשׁ",
-       "translit": "lintosh",
+       "translit": "lintoș",
        "strong": "H5428",
        "pos": "verb, qal infinitiv",
        "def_ro": "să smulgi.",
+       "greek": "ἐκριζόω (ekrizoo)",
+       "greek_def_ro": "ἐκριζόω (ekrizoo) — a smulge din rădăcini.",
        "dict_ro": "Rădăcina natash, „a smulge [din rădăcină]” — primul din șase verbe infinitive care rezumă întreaga misiune a lui Ieremia: patru de distrugere (smulgere, dărâmare, nimicire, prăbușire) urmate de doar două de construcție (zidire, plantare) — proporția reflectă natura predominant judecătoare a cărții."
       },
       {
@@ -40631,12 +40786,14 @@
       {
        "t": "dărâmi",
        "w": "dărâmi",
-       "heb": "לִנְתוֹץ",
-       "translit": "lintots",
+       "heb": "וְלִנְתוֹץ",
+       "translit": "velintoț",
        "strong": "H5422",
        "pos": "verb, qal infinitiv",
        "def_ro": "să dărâmi.",
-       "dict_ro": "Rădăcina natats, „a dărâma, a sfărâma” — folosit adesea pentru distrugerea altarelor idolatre (Deuteronom 12:3), aici extins metaforic la distrugerea structurilor politice și morale ale națiunilor."
+       "greek": "κατασκάπτω (kataskapto)",
+       "greek_def_ro": "κατασκάπτω (kataskapto) — a dărâma, a surpa.",
+       "dict_ro": "Rădăcina natats, „a dărâma, a sfărâma” — folosit adesea pentru distrugerea altarelor idolatre (Deuteronomul 12:3), aici extins metaforic la distrugerea structurilor politice și morale ale națiunilor."
       },
       {
        "t": ", să "
@@ -40644,11 +40801,13 @@
       {
        "t": "distrugi",
        "w": "distrugi",
-       "heb": "לְהַאֲבִיד",
-       "translit": "le-ha'avid",
+       "heb": "וּלְהַאֲבִיד",
+       "translit": "ulhaavid",
        "strong": "H6",
        "pos": "verb, hifil infinitiv",
        "def_ro": "să nimicești.",
+       "greek": "ἀπόλλυμι (apollymi)",
+       "greek_def_ro": "ἀπόλλυμι (apollymi) — a nimici, a distruge.",
        "dict_ro": "Rădăcina avad, „a pieri” — la forma cauzativă, „a face să piară”, al treilea verb din șirul distructiv."
       },
       {
@@ -40658,10 +40817,11 @@
        "t": "nimicești",
        "w": "nimicești",
        "heb": "וְלַהֲרוֹס",
-       "translit": "ve-laharos",
+       "translit": "velaharos",
        "strong": "H2040",
        "pos": "verb, qal infinitiv",
        "def_ro": "să dărâmi, să prăbușești.",
+       "diff_ro": "Ebraica are aici două verbe aproape sinonime, „distrugi” (l’haavid) și „nimicești” (laharos); Septuaginta le redă printr-un singur verb, „ἀπολλύειν” („a nimici”), folosit deja pentru „distrugi”.",
        "dict_ro": "Rădăcina haras, „a dărâma, a prăbuși” — încheie șirul de patru verbe negative, pregătind contrastul deliberat cu perechea finală, pozitivă."
       },
       {
@@ -40675,6 +40835,8 @@
        "strong": "H1129",
        "pos": "verb, qal infinitiv",
        "def_ro": "să construiești.",
+       "greek": "ἀνοικοδομέω (anoikodomeo)",
+       "greek_def_ro": "ἀνοικοδομέω (anoikodomeo) — a (re)construi.",
        "dict_ro": "Rădăcina banah, „a construi” — primul din cei doi termeni pozitivi finali, promisiunea că misiunea lui Ieremia nu se va încheia doar în judecată, ci va include și restaurare — tema care domină finalul cărții (Ieremia 30-33, „cartea consolării”)."
       },
       {
@@ -40684,10 +40846,12 @@
        "t": "plantezi",
        "w": "plantezi",
        "heb": "וְלִנְטוֹעַ",
-       "translit": "ve-lintoa",
+       "translit": "velintoa",
        "strong": "H5193",
        "pos": "verb, qal infinitiv",
        "def_ro": "să plantezi.",
+       "greek": "καταφυτεύω (kataphyteuo)",
+       "greek_def_ro": "καταφυτεύω (kataphyteuo) — a planta.",
        "dict_ro": "Rădăcina nata, „a planta” — încheie versetul-program al întregii cărți cu o notă de speranță, imaginea plantării fiind centrală și în promisiunea Noului Legământ de mai târziu (Ieremia 31:28, unde aceleași șase verbe revin aproape identic)."
       },
       {
@@ -40736,11 +40900,13 @@
       {
        "t": "nuia",
        "w": "nuia",
-       "heb": "מַקֵּל",
-       "translit": "makkel",
+       "heb": "מַקֵּל",
+       "translit": "makēl",
        "strong": "H4731",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "toiag, nuia.",
+       "greek": "βακτηρία (bakteria)",
+       "greek_def_ro": "βακτηρία (bakteria) — nuia, toiag.",
        "dict_ro": "Makkel, „toiag, nuia” — prima dintr-o pereche de viziuni simbolice (v.11-14) care deschid seria de „viziuni de acțiune” caracteristice profeților scriitori, unde un obiect obișnuit devine purtătorul unui mesaj divin jucat pe cuvinte."
       },
       {
@@ -40749,11 +40915,14 @@
       {
        "t": "migdal",
        "w": "migdal",
-       "heb": "שָׁקֵד",
-       "translit": "shaked",
+       "heb": "שָׁקֵד",
+       "translit": "șakēd",
        "strong": "H8247",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "migdal.",
+       "greek": "κάρυϊνος (karyinos)",
+       "greek_def_ro": "κάρυϊνος (karyinos) — de nuc (literal, „din lemn de nuc”).",
+       "diff_ro": "Jocul de cuvinte ebraic dintre „șaked” (migdal, aici) și „șoked” (zoresc/veghează, v. 12) — aceleași consoane ale rădăcinii — se pierde complet în greacă: Septuaginta are generic „καρυΐνην” („de nuc”), nu termenul specific pentru migdal, așa că nu există nicio legătură sonoră cu „ἐγρήγορα” din versetul următor.",
        "dict_ro": "Shaked, „migdal” — pomul de migdal e primul care înflorește primăvara în Israel, adesea în ianuarie-februarie, înaintea tuturor celorlalți pomi. Numele lui derivă din aceeași rădăcină ca verbul din versetul următor, shoked, „a fi treaz, vigilent, grăbit” — jocul de cuvinte e intenționat și explicat direct de Dumnezeu la v.12."
       },
       {
@@ -40802,11 +40971,13 @@
       {
        "t": "zoresc",
        "w": "zoresc",
-       "heb": "שֹׁקֵד",
-       "translit": "shoked",
+       "heb": "שֹׁקֵד",
+       "translit": "șokēd",
        "strong": "H8245",
        "pos": "verb, qal participiu",
        "def_ro": "veghez, grăbesc, sunt vigilent.",
+       "greek": "ἐγρήγορα (egregora)",
+       "greek_def_ro": "ἐγρήγορα (egregora) — a veghea, a fi atent.",
        "dict_ro": "Rădăcina shakad, „a fi treaz, a veghea, a se grăbi” — jocul de cuvinte cu shaked (migdal) de la v.11 e explicat aici direct: la fel cum migdalul se grăbește să înflorească înaintea tuturor pomilor, tot așa Dumnezeu „veghează, se grăbește” să-Și împlinească fără întârziere cuvântul rostit."
       },
       {
@@ -40815,11 +40986,13 @@
       {
        "t": "cuvântul",
        "w": "cuvântul",
-       "heb": "דְּבָרִי",
+       "heb": "דְּבָרִי",
        "translit": "devari",
        "strong": "H1697",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "cuvântul Meu.",
+       "greek": "λόγος (logos)",
+       "greek_def_ro": "λόγος (logos) — cuvinte.",
        "dict_ro": "Davar, „cuvânt” — revine ca temă centrală: cuvântul divin, odată rostit, nu rămâne inert, ci e activ, „vegheat” personal de Dumnezeu până la împlinirea lui completă, garanție solemnă a certitudinii profeției care urmează."
       },
       {
@@ -40868,10 +41041,12 @@
        "t": "cazan clocotind",
        "w": "cazan clocotind",
        "heb": "סִיר נָפוּחַ",
-       "translit": "sir nafuach",
+       "translit": "sir nafuah",
        "strong": "H5518",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin și feminin singular + verb, qal participiu pasiv",
        "def_ro": "oală/cazan care fierbe.",
+       "greek": "λέβης ὑποκαιόμενος (lebes hypokaiomenos)",
+       "greek_def_ro": "λέβης ὑποκαιόμενος (lebes hypokaiomenos) — cazan pus pe foc.",
        "dict_ro": "Sir, „oală, cazan” — al doilea din cele două viziuni simbolice ale capitolului; Rashi traduce nafuach (rădăcina nafach, „a sufla”) prin „fierbând”, imaginea unui foc suflat cu putere dedesubt, gata să reverse conținutul clocotitor."
       },
       {
@@ -40881,10 +41056,12 @@
        "t": "miazănoapte",
        "w": "miazănoapte",
        "heb": "צָפוֹנָה",
-       "translit": "tsafonah",
+       "translit": "țafona",
        "strong": "H6828",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "spre nord.",
+       "greek": "βορρᾶς (borras)",
+       "greek_def_ro": "βορρᾶς (borras) — nord.",
        "dict_ro": "Tsafon, „nord” — direcția din care venea, geografic, invazia babiloniană; Rashi identifică explicit „nordul” cu Babilonul, situat la nord de Israel pe rutele comerciale/militare obișnuite (deși geografic e mai degrabă la est) — o observație confirmată în Talmud (Ghitin 6a)."
       },
       {
@@ -40931,11 +41108,14 @@
       {
        "t": "slobozit",
        "w": "slobozit",
-       "heb": "תִּפָּתַח",
-       "translit": "tippatach",
+       "heb": "תִּפָּתַח",
+       "translit": "tipatah",
        "strong": "H6605",
        "pos": "verb, nifal imperfect",
        "def_ro": "va fi deschis, slobozit.",
+       "greek": "ἐκκαίω (ekkaio)",
+       "greek_def_ro": "ἐκκαίω (ekkaio) — a aprinde, a arde.",
+       "diff_ro": "Ebraica are imaginea unei porți care „se va deschide” (tipatah), eliberând răul; Septuaginta are în loc imaginea focului care „se va aprinde” (ἐκκαυθήσεται) — metafore diferite pentru același dezastru anunțat.",
        "dict_ro": "Rădăcina patach, „a deschide” — imaginea capacului cazanului clocotind (v.13) care se „deschide”, revărsând conținutul dezastruos peste țară; verbul leagă strâns cele două viziuni simbolice consecutive într-un singur mesaj coerent de judecată iminentă."
       },
       {
@@ -40944,11 +41124,13 @@
       {
        "t": "locuitorii țării",
        "w": "locuitorii țării",
-       "heb": "יֹשְׁבֵי הָאָרֶץ",
-       "translit": "yoshvei ha-arets",
+       "heb": "יֹשְׁבֵי הָאָרֶץ",
+       "translit": "ioșvē haareț",
        "strong": "H3427",
-       "pos": "substantiv, masculin plural construct",
+       "pos": "verb, qal participiu + substantiv, masculin și feminin singular",
        "def_ro": "locuitorii țării.",
+       "greek": "κατοικέω (katoikeo)",
+       "greek_def_ro": "κατοικέω (katoikeo) — cei ce locuiesc.",
        "dict_ro": "Yoshvei ha-arets, „locuitorii țării” — desemnează întreaga populație a lui Iuda, fără excepție, subliniind amploarea universală a judecății anunțate, nu doar pedeapsa unei clase conducătoare izolate."
       },
       {
@@ -40998,23 +41180,41 @@
        "t": "chem",
        "w": "chem",
        "heb": "קֹרֵא",
-       "translit": "kore",
+       "translit": "korē",
        "strong": "H7121",
        "pos": "verb, qal participiu",
        "def_ro": "chem, strig.",
+       "greek": "συγκαλέω (synkaleo)",
+       "greek_def_ro": "συγκαλέω (synkaleo) — a chema laolaltă.",
        "dict_ro": "Rădăcina kara, „a chema, a striga” — Dumnezeu Însuși „cheamă” armatele babiloniene, deși ele nu-L cunosc; conceptul teologic al suveranității divine asupra națiunilor păgâne, folosite ca unelte ale judecății, fără știrea lor (cf. Isaia 10:5-7, despre Asiria ca „toiag al mâniei Mele”)."
       },
       {
-       "t": " toate familiile tuturor regatelor de la miazănoapte – rostirea DOMNULUI – și fiecare va veni și își va pune "
+       "t": " "
+      },
+      {
+       "t": "toate familiile",
+       "w": "toate familiile",
+       "heb": "לְכָל מִשְׁפְּחוֹת",
+       "translit": "lehal mișpehot",
+       "strong": "H4940",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin plural construct",
+       "def_ro": "toate clanurile/casele [regatelor].",
+       "diff_ro": "Septuaginta omite complet „familiile” (mișpehot), traducând doar „toate regatele” (πάσας τὰς βασιλείας) — o simplificare reală a imaginii sociale din textul ebraic.",
+       "dict_ro": "„Mișpehot” („familiile”) adaugă o nuanță socială precisă: nu doar regate abstracte, ci clanuri și case concrete, fiecare cu propriul tron așezat la porțile Ierusalimului — o imagine de judecată colectivă, instituțională, nu doar o invazie militară anonimă."
+      },
+      {
+       "t": " tuturor regatelor de la miazănoapte – rostirea DOMNULUI – și fiecare va veni și își va pune "
       },
       {
        "t": "tronul",
        "w": "tronul",
-       "heb": "כִּסְאוֹ",
-       "translit": "kis'o",
+       "heb": "כִּסְאוֹ",
+       "translit": "kiso",
        "strong": "H3678",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "tronul lui.",
+       "greek": "θρόνος (thronos)",
+       "greek_def_ro": "θρόνος (thronos) — tron.",
        "dict_ro": "Kisse, „tron, scaun” — imagine vie a asediului: fiecare conducător invadator își instalează propriul scaun de judecată/comandă direct la porțile cetății, marcând public ocuparea și umilirea completă a Ierusalimului."
       },
       {
@@ -41024,10 +41224,12 @@
        "t": "zidurilor sale",
        "w": "zidurilor sale",
        "heb": "חוֹמֹתֶיהָ",
-       "translit": "chomoteha",
+       "translit": "homoteha",
        "strong": "H2346",
-       "pos": "substantiv, feminin plural construct",
+       "pos": "substantiv, feminin plural construct + sufix",
        "def_ro": "zidurile ei.",
+       "greek": "τεῖχος (teichos)",
+       "greek_def_ro": "τεῖχος (teichos) — ziduri.",
        "dict_ro": "Chomah, „zid [de apărare]” — încercuirea completă a zidurilor cetății descrie asediul total, fără nicio ieșire posibilă, imagine reluată dramatic în cartea Plângerilor, scrisă tot de Ieremia, ca martor direct al împlinirii acestei profeții."
       },
       {
@@ -41080,11 +41282,13 @@
       {
        "t": "judecata Mea",
        "w": "judecata Mea",
-       "heb": "מִשְׁפָּטַי",
-       "translit": "mishpatai",
+       "heb": "מִשְׁפָּטַי",
+       "translit": "mișpatai",
        "strong": "H4941",
-       "pos": "substantiv, masculin plural construct",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "judecățile Mele.",
+       "greek": "κρίσις (krisis)",
+       "greek_def_ro": "κρίσις (krisis) — judecată.",
        "dict_ro": "Mishpat, „judecată” — Rashi glosează simplu „Mă voi certa/judeca împreună cu ei” — un vocabular aproape juridic, ca într-un proces formal, unde Dumnezeu prezintă acuzațiile direct celor vinovați, Iuda și Ierusalim."
       },
       {
@@ -41096,8 +41300,10 @@
        "heb": "עֲזָבוּנִי",
        "translit": "azavuni",
        "strong": "H5800",
-       "pos": "verb, qal perfect",
+       "pos": "verb, qal perfect + sufix",
        "def_ro": "M-au părăsit.",
+       "greek": "ἐγκαταλείπω (enkataleipo)",
+       "greek_def_ro": "ἐγκαταλείπω (enkataleipo) — a abandona, a părăsi.",
        "dict_ro": "Rădăcina azav, „a părăsi” — acuzația centrală a întregii cărți a lui Ieremia, reluată constant (cf. Ieremia 2:13, „M-au părăsit pe Mine, izvorul apelor vii”): păcatul fundamental nu e un act izolat, ci o relație abandonată."
       },
       {
@@ -41106,11 +41312,14 @@
       {
        "t": "fumegânde",
        "w": "fumegânde",
-       "heb": "וַיְקַטְּרוּ",
-       "translit": "va-yekattru",
+       "heb": "וַיְקַטְּרוּ",
+       "translit": "vaikatru",
        "strong": "H6999",
-       "pos": "verb, piel imperfect",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "au ars tămâie, au adus [jertfe] fumegânde.",
+       "greek": "θύω (thyo)",
+       "greek_def_ro": "θύω (thyo) — a jertfi, a sacrifica.",
+       "diff_ro": "Ebraica precizează ritualul exact — „au ars tămâie” (va-ikatru, din rădăcina specifică pentru fumul de tămâie); Septuaginta generalizează la „au jertfit” (ἔθυσαν), un verb larg pentru orice tip de sacrificiu.",
        "dict_ro": "Rădăcina katar, „a arde [tămâie/jertfă]” — verb tehnic pentru cultul idolatru cu ardere de tămâie, distinct de jertfele legitime aduse la Templu."
       },
       {
@@ -41119,11 +41328,13 @@
       {
        "t": "dumnezei falși",
        "w": "dumnezei falși",
-       "heb": "אֱלֹהִים אֲחֵרִים",
-       "translit": "elohim acherim",
+       "heb": "לֵאלֹהִים אֲחֵרִים",
+       "translit": "lēlohim ahērim",
        "strong": "H312",
-       "pos": "substantiv, masculin plural",
+       "pos": "substantiv, masculin plural + adjectiv, masculin plural",
        "def_ro": "alți dumnezei.",
+       "greek": "θεοὶ ἀλλότριοι (theoi allotrioi)",
+       "greek_def_ro": "θεοὶ ἀλλότριοι (theoi allotrioi) — dumnezei străini.",
        "dict_ro": "Elohim acherim, „alți/străini dumnezei” — expresia idiomatică standard pentru idolatrie în toată Tora și literatura profetică, prima și cea mai gravă dintre poruncile Decalogului fiind tocmai interzicerea ei."
       },
       {
@@ -41172,28 +41383,48 @@
       {
        "t": "încinge-ți mijlocul",
        "w": "încinge-ți mijlocul",
-       "heb": "תֶּאְזֹר מָתְנֶיךָ",
-       "translit": "te'ezor motneikha",
+       "heb": "תֶּאְזֹר מָתְנֶיךָ",
+       "translit": "tezor matneha",
        "strong": "H247",
-       "pos": "verb, qal imperfect",
-       "def_ro": "încinge-ți coapsele/mijlocul.",
-       "dict_ro": "Rădăcina azar, „a încinge” — Rashi îl glosează cu sensul de „zor, grabă, curaj”, „ca un bărbat viteaz”: gestul practic de a-și strânge haina lungă cu un brâu, pentru a putea acționa rapid și eficient, ca soldat pregătit de luptă (cf. expresia „încinge coapsele” în alte contexte de mobilizare, Exod 12:11)."
+       "pos": "verb, qal imperfect + substantiv, masculin dual construct + sufix",
+       "def_ro": "încinge-ți mijlocul [cu brâul, pregătire pentru acțiune/luptă].",
+       "greek": "περιζώννυμι ὀσφύν (perizonnymi osphyn)",
+       "greek_def_ro": "περιζώννυμι ὀσφύν (perizonnymi osphyn) — a-ți încinge mijlocul.",
+       "dict_ro": "Încingerea mijlocului e gestul premergător oricărei acțiuni ferme în lumea antică — luptă, călătorie sau slujire (vezi Exodul 12:11, mâncarea Paștelui „cu mijlocul încins”) — hainele lungi trebuiau strânse pentru a nu împiedica mișcarea. Comanda e simbolică: Ieremia trebuie să se pregătească pentru o misiune solicitantă, nu pentru o rugăciune liniștită."
       },
       {
-       "t": " și scoală-te, și vorbește cu ei tot ceea ce îți voi porunci Eu. Nu te "
+       "t": " și scoală-te, și vorbește cu ei tot ceea ce îți voi porunci Eu. Nu "
       },
       {
-       "t": "înspăimânta",
-       "w": "înspăimânta",
-       "heb": "תֵּחַת",
-       "translit": "techat",
+       "t": "te înspăimânta",
+       "w": "te înspăimânta",
+       "heb": "תֵּחַת",
+       "translit": "tēhat",
        "strong": "H2865",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, nifal jusiv",
        "def_ro": "te vei înspăimânta, te vei descuraja.",
+       "greek": "φοβέομαι (phobeomai)",
+       "greek_def_ro": "φοβέομαι (phobeomai) — a se teme.",
        "dict_ro": "Rădăcina chatat, „a se înspăimânta, a se zdrobi [de teamă]” — distinct de rădăcina obișnuită yare („a se teme”, folosită la v.8); avertismentul se repetă de două ori în același verset (techat / achittekha), o intensitate stilistică ce arată gravitatea reală a fricii pe care avea s-o înfrunte profetul."
       },
       {
-       "t": " înaintea lor, ca nu cumva să te fac Eu să te înspăimânți înaintea lor."
+       "t": " înaintea lor, ca nu cumva să te fac Eu să "
+      },
+      {
+       "t": "te înspăimânți",
+       "w": "te înspăimânți",
+       "heb": "אֲחִתְּךָ",
+       "translit": "ahitha",
+       "strong": "H2865",
+       "pos": "verb, hifil imperfect + sufix",
+       "def_ro": "să te înspăimânți, să te clatini.",
+       "greek": "πτοέομαι (ptoeomai)",
+       "greek_def_ro": "πτοέομαι (ptoeomai) — a se înspăimânta, a se clătina.",
+       "diff_ro": "Ebraica repetă aceeași rădăcină (htt) de două ori în acest verset; Septuaginta variază vocabularul, folosind întâi „φοβηθῇς” („să te temi”) și apoi un verb diferit, „πτοηθῇς” („să te clatini/înspăimânți”).",
+       "dict_ro": "Ebraica repetă aici aceeași rădăcină (htt, „a se prăbuși/înspăimânta”) de două ori în același verset, ca accent retoric: „nu te înspăimânta... ca nu cumva să te fac Eu să te înspăimânți”. Repetiția arată că singura teamă îngăduită profetului e cea de Dumnezeu Însuși, nu de ascultătorii săi ostili."
+      },
+      {
+       "t": " înaintea lor."
       }
      ],
      "textCompare": [
@@ -41238,11 +41469,13 @@
       {
        "t": "cetate fortificată",
        "w": "cetate fortificată",
-       "heb": "עִיר מִבְצָר",
-       "translit": "ir mivtsar",
+       "heb": "לְעִיר מִבְצָר",
+       "translit": "leir mivțar",
        "strong": "H4013",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
        "def_ro": "cetate întărită.",
+       "greek": "πόλις ὀχυρά (polis ochyra)",
+       "greek_def_ro": "πόλις ὀχυρά (polis ochyra) — cetate întărită.",
        "dict_ro": "Mivtsar, „fortăreață, întăritură” — prima din trei imagini de rezistență fizică (cetate, stâlp, ziduri), toate desemnând nu vulnerabilitate, ci o capacitate de a sta neclintit sub asalt — promisiunea nu e de a-l feri pe Ieremia de atac, ci de a-l face capabil să reziste."
       },
       {
@@ -41251,11 +41484,12 @@
       {
        "t": "stâlp de fier",
        "w": "stâlp de fier",
-       "heb": "עַמּוּד בַּרְזֶל",
-       "translit": "ammud barzel",
+       "heb": "וּלְעַמּוּד בַּרְזֶל",
+       "translit": "ulamud barzel",
        "strong": "H1270",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
        "def_ro": "stâlp de fier.",
+       "diff_ro": "Ebraica are trei imagini succesive pentru rezistența lui Ieremia — cetate fortificată, stâlp de fier și ziduri de aramă; Septuaginta le reduce la două, omițând complet „stâlpul de fier”.",
        "dict_ro": "Barzel, „fier” — cel mai dur metal cunoscut în antichitate; imaginea unui stâlp de fier, spre deosebire de piatră sau lemn, sugerează o rezistență absolută, incapabilă de a fi frântă sau clintită de presiunea opoziției."
       },
       {
@@ -41264,11 +41498,13 @@
       {
        "t": "ziduri de aramă",
        "w": "ziduri de aramă",
-       "heb": "חֹמוֹת נְחֹשֶׁת",
-       "translit": "chomot nechoshet",
+       "heb": "וּלְחֹמוֹת נְחֹשֶׁת",
+       "translit": "ulhomot nehoșet",
        "strong": "H5178",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin plural construct + substantiv, feminin singular",
        "def_ro": "ziduri de aramă/bronz.",
+       "greek": "τεῖχος χαλκοῦν (teichos chalkoun)",
+       "greek_def_ro": "τεῖχος χαλκοῦν (teichos chalkoun) — zid de bronz.",
        "dict_ro": "Nechoshet, „aramă, bronz” — completează tripticul de imagini defensive: cetate (întregul), stâlp (verticalitate, forță centrală), ziduri (protecție perimetrală) — o descriere completă a invulnerabilității pe care Dumnezeu i-o promite lui Ieremia."
       },
       {
@@ -41277,15 +41513,31 @@
       {
        "t": "regilor",
        "w": "regilor",
-       "heb": "מַלְכֵי",
-       "translit": "malkhei",
+       "heb": "לְמַלְכֵי",
+       "translit": "lemalhē",
        "strong": "H4428",
        "pos": "substantiv, masculin plural construct",
        "def_ro": "regii.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — regi.",
        "dict_ro": "Melekh, „rege” — primul din patru grupuri sociale enumerate explicit ca potențiali opozanți ai lui Ieremia: regi, conducători, preoți, popor — practic întreaga structură socială și politică a lui Iuda, fără nicio categorie exceptată."
       },
       {
-       "t": " din Iuda, împotriva conducătorilor săi, împotriva preoților săi și împotriva poporului țării."
+       "t": " din Iuda, împotriva conducătorilor săi, împotriva "
+      },
+      {
+       "t": "preoților",
+       "w": "preoților",
+       "heb": "לְכֹהֲנֶיהָ",
+       "translit": "lehohaneha",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "preoții [ei, ai Iudei].",
+       "diff_ro": "Septuaginta omite complet „preoților” din listă, păstrând doar regii, conducătorii și poporul țării — o reducere reală de la patru la trei grupuri.",
+       "dict_ro": "Lista celor patru grupuri împotriva cărora Ieremia va sta ca „cetate fortificată” — regi, conducători, preoți și poporul țării — acoperă toate pătrimile puterii din Iuda: politică, religioasă și populară; niciuna nu va fi scutită de mustrarea profetică, inclusiv clasa preoțească din care Ieremia însuși se trage (1:1)."
+      },
+      {
+       "t": " săi și împotriva poporului țării."
       }
      ],
      "textCompare": [
@@ -41330,10 +41582,12 @@
        "t": "lupta",
        "w": "lupta",
        "heb": "וְנִלְחֲמוּ",
-       "translit": "ve-nilchamu",
+       "translit": "venilhamu",
        "strong": "H3898",
-       "pos": "verb, nifal perfect",
+       "pos": "verb, nifal perfect consecutiv",
        "def_ro": "se vor lupta.",
+       "greek": "πολεμέω (polemeo)",
+       "greek_def_ro": "πολεμέω (polemeo) — a lupta, a face război.",
        "dict_ro": "Rădăcina lacham, „a lupta” — confirmă explicit, fără eufemisme, că opoziția anunțată la v.18 va fi reală și activă, nu doar teoretică: Ieremia va înfrunta ostilitate concretă din partea propriului popor de-a lungul întregii sale misiuni."
       },
       {
@@ -41343,10 +41597,12 @@
        "t": "învinge",
        "w": "învinge",
        "heb": "יוּכְלוּ",
-       "translit": "yukhlu",
+       "translit": "iuhlu",
        "strong": "H3201",
        "pos": "verb, qal imperfect",
        "def_ro": "vor putea, vor izbuti.",
+       "greek": "δύναμαι (dynamai)",
+       "greek_def_ro": "δύναμαι (dynamai) — a putea, a fi în stare.",
        "dict_ro": "Rădăcina yakhol, „a putea, a fi în stare” — garanția finală a chemării: opoziția va fi reală, dar nu va reuși niciodată să-l distrugă complet pe profet — o promisiune confirmată narativ de-a lungul întregii cărți, unde Ieremia suferă mult, dar supraviețuiește până la sfârșit."
       },
       {
@@ -41421,20 +41677,52 @@
      "translit": "Halokh ve-karata be-oznei Yerushalayim lemor koh amar Adonai zakharti lakh chesed ne'urayikh ahavat keluloayikh lekhtekh acharai ba-midbar be-erets lo zeru'ah.",
      "tokens": [
       {
-       "t": "„Du-te și vestește în auzul Ierusalimului, spunând: «Îmi amintesc de "
+       "t": "„Du-te și vestește în auzul Ierusalimului, spunând: «"
+      },
+      {
+       "t": "Îmi amintesc",
+       "w": "Îmi amintesc",
+       "heb": "זָכַרְתִּי",
+       "translit": "zaharti",
+       "strong": "H2142",
+       "pos": "verb, qal perfect",
+       "def_ro": "îmi amintesc, Îmi aduc aminte.",
+       "greek": "μιμνήσκομαι (mimneskomai)",
+       "greek_def_ro": "μιμνήσκομαι (mimneskomai) — a-și aminti.",
+       "dict_ro": "„Zahar” („a-și aminti”) la Dumnezeu nu e niciodată un simplu act mental, ci declanșează acțiune concretă — la fel ca la Noe (Geneza 8:1, „Dumnezeu Și-a amintit de Noe”) sau la robii din Egipt (Exodul 2:24): aici, amintirea „bunătății tinereții” lui Israel pregătește promisiunea de restaurare care urmează imediat în carte."
+      },
+      {
+       "t": " de "
       },
       {
        "t": "bunătatea",
        "w": "bunătatea",
        "heb": "חֶסֶד",
-       "translit": "chesed",
+       "translit": "hesed",
        "strong": "H2617",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "bunătate, loialitate, iubire statornică.",
+       "greek": "ἔλεος (eleos)",
+       "greek_def_ro": "ἔλεος (eleos) — milă, bunătate.",
        "dict_ro": "Chesed, unul dintre cele mai bogate cuvinte teologice ale ebraicii — „bunătate/loialitate legământală”, adesea aplicată lui Dumnezeu față de Israel; aici, remarcabil, e aplicat invers, lui Israel față de Dumnezeu — fidelitatea tinerească a poporului la începuturile relației lor."
       },
       {
-       "t": " tinereții tale, de "
+       "t": " "
+      },
+      {
+       "t": "tinereții tale",
+       "w": "tinereții tale",
+       "heb": "נְעוּרַיִךְ",
+       "translit": "neuraih",
+       "strong": "H5271",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "tinereții tale.",
+       "greek": "νεότης (neotes)",
+       "greek_def_ro": "νεότης (neotes) — tinerețe.",
+       "dict_ro": "„Neurayikh” („tinerețea ta”) evocă perioada Exodului, înțeleasă ca „luna de miere” dintre DOMNUL și Israel — o imagine centrală reluată direct în introducerea acestei Haftarot și dezvoltată intens la Osea 2:17 și Ezechiel 16:8, unde relația e descrisă explicit ca logodnă/căsătorie."
+      },
+      {
+       "t": ", de "
       },
       {
        "t": "dragostea",
@@ -41442,8 +41730,10 @@
        "heb": "אַהֲבַת",
        "translit": "ahavat",
        "strong": "H160",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "dragostea.",
+       "greek": "ἀγάπη (agape)",
+       "greek_def_ro": "ἀγάπη (agape) — dragoste.",
        "dict_ro": "Ahavah, „dragoste” — Rashi explică „dragostea ritualurilor tale nupțiale” (kelulotayikh) prin imaginea concretă a „includerii” miresei sub baldachinul nupțial (chupah) — o metaforă a legământului de la Sinai ca logodnă/căsătorie între Dumnezeu și Israel."
       },
       {
@@ -41452,11 +41742,12 @@
       {
        "t": "deșert",
        "w": "deșert",
-       "heb": "מִּדְבָּר",
-       "translit": "midbar",
+       "heb": "בַּמִּדְבָּר",
+       "translit": "bamidbar",
        "strong": "H4057",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "pustiu, deșert.",
+       "diff_ro": "Textul grecesc disponibil pentru acest verset e sensibil mai scurt decât ebraica: omite clauza „că m-ai urmat în pustiu, într-un pământ nesemănat”, trecând direct la o formulă despre „Sfântul lui Israel”.",
        "dict_ro": "Midbar, „pustiu” — anii rătăcirii prin pustiu, în general priviți negativ (răzvrătiri, plângeri), sunt aici reinterpretați pozitiv, ca dovadă a unei încrederi tinerești și necondiționate — Israel a urmat pe Dumnezeu într-un loc unde supraviețuirea nu era garantată de resurse naturale."
       },
       {
@@ -41465,11 +41756,12 @@
       {
        "t": "nesemănat",
        "w": "nesemănat",
-       "heb": "לֹא זְרוּעָה",
-       "translit": "lo zeru'ah",
+       "heb": "זְרוּעָה",
+       "translit": "zerua",
        "strong": "H2232",
-       "pos": "verb, qal pasiv participiu",
+       "pos": "verb, qal participiu pasiv",
        "def_ro": "neînsămânțat.",
+       "diff_ro": "Ca și „deșert” mai sus, acest cuvânt nu are corespondent în textul grecesc disponibil pentru acest verset, care omite întreaga clauză a pustiului.",
        "dict_ro": "Rădăcina zara, „a semăna” — la negativ, „neînsămânțat”, accentuând imposibilitatea materială a supraviețuirii prin mijloace obișnuite; încrederea lui Israel de a urma pe Dumnezeu într-un asemenea loc devine dovada supremă a iubirii lui timpurii."
       },
       {
@@ -41511,16 +41803,30 @@
      "translit": "Kodesh Yisra'el l-Adonai reshit tevu'atoh kol-okhlav ye'shamu ra'ah tavo aleihem ne'um-Adonai.",
      "tokens": [
       {
-       "t": "Israel este "
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel.",
+       "dict_ro": "Titlul „Israel [este] sfânt pentru DOMNUL, primul rod al recoltei Sale” folosește imaginea legală a bikkurim (primele roade, Leviticul 23:10, Numeri 18:12) — partea consacrată exclusiv preoților, intangibilă pentru uz comun: la fel, Israel e declarat „primul rod”, aparținând exclusiv lui Dumnezeu, iar „oricine îl devorează” (adică oricine atacă Israel) va fi tratat ca unul care a profanat o ofrandă sfântă."
+      },
+      {
+       "t": " este "
       },
       {
        "t": "sfânt",
        "w": "sfânt",
        "heb": "קֹדֶשׁ",
-       "translit": "kodesh",
+       "translit": "kodeș",
        "strong": "H6944",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "sfințenie, [lucru] sfânt.",
+       "greek": "ἅγιος (hagios)",
+       "greek_def_ro": "ἅγιος (hagios) — sfânt.",
        "dict_ro": "Kodesh, „sfânt, consacrat” — Rashi explică prin analogie cu teruma, ofranda sacră ridicată din recoltă, interzisă consumului obișnuit; statutul lui Israel ca „sfânt” înseamnă că e pus deoparte, protejat de o interdicție divină similară."
       },
       {
@@ -41529,11 +41835,13 @@
       {
        "t": "primul rod",
        "w": "primul rod",
-       "heb": "רֵאשִׁית תְּבוּאָתֹה",
-       "translit": "reshit tevu'atoh",
+       "heb": "רֵאשִׁית",
+       "translit": "rēșit",
        "strong": "H7225",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "cele dintâi roade ale venitului Său.",
+       "greek": "ἀρχὴ γεννημάτων (arche gennematon)",
+       "greek_def_ro": "ἀρχὴ γεννημάτων (arche gennematon) — începutul roadelor.",
        "dict_ro": "Reshit, „primele roade” — Rashi face o comparație precisă: la fel ca primul snop de grâu secerat înaintea aducerii omerului (ofranda de legănare), interzis consumului sub pedeapsă, tot așa Israel e „primul rod” consacrat al lui Dumnezeu — oricine îl „mănâncă” [asuprește, exploatează] se face vinovat de o încălcare gravă."
       },
       {
@@ -41543,10 +41851,12 @@
        "t": "devorează",
        "w": "devorează",
        "heb": "אֹכְלָיו",
-       "translit": "okhlav",
+       "translit": "ohlaiv",
        "strong": "H398",
-       "pos": "verb, qal participiu",
+       "pos": "verb, qal participiu + sufix",
        "def_ro": "cei ce-l mănâncă.",
+       "greek": "ἔσθω (estho)",
+       "greek_def_ro": "ἔσθω (estho) — a mânca, a devora.",
        "dict_ro": "Rădăcina akhal, „a mânca” — metaforă pentru exploatare/asuprire, aplicată popoarelor care avea să asuprească pe Israel de-a lungul istoriei; imaginea „mâncării” unui lucru sacru, interzis, garantează consecințe grave pentru agresori."
       },
       {
@@ -41555,11 +41865,13 @@
       {
        "t": "vinovat",
        "w": "vinovat",
-       "heb": "יֶאְשָׁמוּ",
-       "translit": "ye'shamu",
+       "heb": "יֶאְשָׁמוּ",
+       "translit": "ieșamu",
        "strong": "H816",
        "pos": "verb, qal imperfect",
        "def_ro": "vor fi vinovați, vor purta vina.",
+       "greek": "πλημμελέω (plemmeleo)",
+       "greek_def_ro": "πλημμελέω (plemmeleo) — a greși, a se face vinovat.",
        "dict_ro": "Rădăcina asham, „a fi vinovat” — aceeași rădăcină ca korban asham, „jertfa pentru vină”, în Levitic; termen tehnic care confirmă gravitatea încălcării — atingerea a ceva sfânt, consacrat, aduce automat vinovăție rituală și morală asupra celui care o comite."
       },
       {

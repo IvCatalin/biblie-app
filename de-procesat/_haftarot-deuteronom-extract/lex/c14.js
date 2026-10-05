@@ -15,7 +15,7 @@ module.exports = {
     ['Beniamin', 9, { g: 'Βενιαμίν', gf: 'Βενιαμείν', gd: 'Beniamin.' }]
   ],
   '1:2': [
-    ['cuvântul DOMNULUI', [2, 3], { g: 'λόγος', gf: 'λόγος', gd: 'cuvânt.',
+    ['cuvântul DOMNULUI', [2, 3], { s: 'H1697', g: 'λόγος', gf: 'λόγος', gd: 'cuvânt.',
       df: 'Ca și la 1:1, Septuaginta are aici „τοῦ Θεοῦ” („al lui Dumnezeu”), nu numele DOMNULUI (YHWH) din ebraică.' }],
     ['Ioșiahu', 6, { g: 'Ἰωσίας', gf: 'Ἰωσία', gd: 'Ioșiahu.' }],
     ['Amon', 8, { g: 'Ἀμώς', gf: 'Ἀμὼς', gd: 'transliterare greacă a numelui regelui (posibil confundată grafic cu numele profetului Amos).',
@@ -56,11 +56,11 @@ module.exports = {
   '1:8': [
     ['teme', 1, { g: 'φοβέομαι', gf: 'φοβηθῇς', gd: 'a se teme.' }],
     ['salvez', 6, { g: 'ἐξαιρέω', gf: 'ἐξαιρεῖσθαί', gd: 'a scoate, a scăpa, a salva.' }],
-    ['rostirea DOMNULUI', [7, 8], { g: 'λέγει Κύριος', gf: 'λέγει Κύριος', gd: 'zice Domnul.',
+    ['rostirea DOMNULUI', [7, 8], { s: 'H5002', g: 'λέγει Κύριος', gf: 'λέγει Κύριος', gd: 'zice Domnul.',
       df: 'Ebraica are aici o formulă nominală fixă, „neum YHWH” („oracolul/rostirea DOMNULUI”); Septuaginta o redă printr-un verb la timpul prezent, „λέγει Κύριος” („zice Domnul”), schimbând substantivul într-o afirmație verbală directă.' }]
   ],
   '1:9': [
-    ['întins mâna', [0, 3], { g: 'ἐκτείνω χεῖρα', gf: 'ἐξέτεινε...χεῖρα', gd: 'a întinde mâna.' }],
+    ['întins mâna', [0, 3], { s: 'H7971', g: 'ἐκτείνω χεῖρα', gf: 'ἐξέτεινε...χεῖρα', gd: 'a întinde mâna.' }],
     ['atins', 4, { g: 'ἅπτομαι', gf: 'ἥψατο', gd: 'a atinge.' }],
     ['pus', 11, { g: 'δίδωμι', gf: 'δέδωκα', gd: 'a da, a pune.' }],
     ['cuvintele Mele în gura ta', [12, 13], { g: 'λόγους...στόμα', gf: ['λόγους', 'στόμα'], gd: 'cuvintele mele în gura ta.',
@@ -93,7 +93,7 @@ module.exports = {
   '1:14': [
     ['slobozit', 4, { g: 'ἐκκαίω', gf: 'ἐκκαυθήσεται', gd: 'a aprinde, a arde.',
       df: 'Ebraica are imaginea unei porți care „se va deschide” (tipatah), eliberând răul; Septuaginta are în loc imaginea focului care „se va aprinde” (ἐκκαυθήσεται) — metafore diferite pentru același dezastru anunțat.' }],
-    ['locuitorii țării', [8, 9], { g: 'κατοικέω', gf: 'κατοικοῦντας', gd: 'cei ce locuiesc.' }]
+    ['locuitorii țării', [8, 9], { s: 'H3427', g: 'κατοικέω', gf: 'κατοικοῦντας', gd: 'cei ce locuiesc.' }]
   ],
   '1:15': [
     ['chem', 2, { g: 'συγκαλέω', gf: 'συγκαλῶ', gd: 'a chema laolaltă.' }],
@@ -112,9 +112,13 @@ module.exports = {
     ['dumnezei falși', [9, 10], { g: 'θεοὶ ἀλλότριοι', gf: 'θεοῖς ἀλλοτρίοις', gd: 'dumnezei străini.' }]
   ],
   '1:17': [
-    ['încinge-ți mijlocul', [1, 2], { g: 'περιζώννυμι ὀσφύν', gf: 'περίζωσαι...ὀσφύν', gd: 'a-ți încinge mijlocul.' }],
+    ['încinge-ți mijlocul', [1, 2], { s: 'H247', g: 'περιζώννυμι ὀσφύν', gf: ['περίζωσαι', 'ὀσφύν'], gd: 'a-ți încinge mijlocul.',
+      d: 'încinge-ți mijlocul [cu brâul, pregătire pentru acțiune/luptă].',
+      x: 'Încingerea mijlocului e gestul premergător oricărei acțiuni ferme în lumea antică — luptă, călătorie sau slujire (vezi Exod 12:11, mâncarea Paștelui „cu mijlocul încins”) — hainele lungi trebuiau strânse pentru a nu împiedica mișcarea. Comanda e simbolică: Ieremia trebuie să se pregătească pentru o misiune solicitantă, nu pentru o rugăciune liniștită.' }],
     ['te înspăimânta', 12, { g: 'φοβέομαι', gf: 'φοβηθῇς', gd: 'a se teme.' }],
     ['te înspăimânți', 15, { g: 'πτοέομαι', gf: 'πτοηθῇς', gd: 'a se înspăimânta, a se clătina.',
+      d: 'să te înspăimânți, să te clatini.',
+      x: 'Ebraica repetă aici aceeași rădăcină (htt, „a se prăbuși/înspăimânta”) de două ori în același verset, ca accent retoric: „nu te înspăimânta... ca nu cumva să te fac Eu să te înspăimânți”. Repetiția arată că singura teamă îngăduită profetului e cea de Dumnezeu Însuși, nu de ascultătorii săi ostili.',
       df: 'Ebraica repetă aceeași rădăcină (htt) de două ori în acest verset; Septuaginta variază vocabularul, folosind întâi „φοβηθῇς” („să te temi”) și apoi un verb diferit, „πτοηθῇς” („să te clatini/înspăimânți”).' }]
   ],
   '1:18': [
@@ -131,6 +135,7 @@ module.exports = {
     ['lupta', 0, { g: 'πολεμέω', gf: 'πολεμήσουσί', gd: 'a lupta, a face război.' }],
     ['învinge', 3, { g: 'δύναμαι', gf: 'δύνωνται', gd: 'a putea, a fi în stare.' }]
   ],
+  '2:1': [],
   '2:2': [
     ['bunătatea', 10, { g: 'ἔλεος', gf: 'ἐλέους', gd: 'milă, bunătate.' }],
     ['tinereții tale', 11, { g: 'νεότης', gf: 'νεότητός', gd: 'tinerețe.',
@@ -148,7 +153,7 @@ module.exports = {
     ['Israel', 1, { g: 'Ἰσραήλ', gf: 'Ἰσραήλ', gd: 'Israel.',
       d: 'Israel.',
       x: 'Titlul „Israel [este] sfânt pentru DOMNUL, primul rod al recoltei Sale” folosește imaginea legală a bikkurim (primele roade, Leviticul 23:10, Numeri 18:12) — partea consacrată exclusiv preoților, intangibilă pentru uz comun: la fel, Israel e declarat „primul rod”, aparținând exclusiv lui Dumnezeu, iar „oricine îl devorează” (adică oricine atacă Israel) va fi tratat ca unul care a profanat o ofrandă sfântă.' }],
-    ['primul rod', 3, { g: 'ἀρχὴ γεννημάτων', gf: 'ἀρχὴ γεννημάτων', gd: 'începutul roadelor.' }],
+    ['primul rod', 3, { g: 'ἀρχὴ γεννημάτων', gf: ['ἀρχὴ', 'γεννημάτων'], gd: 'începutul roadelor.' }],
     ['devorează', 6, { g: 'ἔσθω', gf: 'ἔσθοντες', gd: 'a mânca, a devora.' }],
     ['vinovat', 7, { g: 'πλημμελέω', gf: 'πλημμελήσουσι', gd: 'a greși, a se face vinovat.' }]
   ]
