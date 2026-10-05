@@ -60926,10 +60926,12 @@
        "t": "arderile-de-tot",
        "w": "arderile-de-tot",
        "heb": "עֹלוֹתֵיכֶם",
-       "translit": "oloteichem",
+       "translit": "olotēhem",
        "strong": "H5930",
-       "pos": "substantiv, feminin plural + sufix",
+       "pos": "substantiv, feminin plural construct + sufix",
        "def_ro": "arderile voastre de tot.",
+       "greek": "ὁλοκαύτωμα (holokautoma)",
+       "greek_def_ro": "ὁλοκαύτωμα (holokautoma) — ardere-de-tot.",
        "dict_ro": "Ola — jertfa mistuită integral pe altar, singura din care închinătorul nu mânca nimic (spre deosebire de zevah/jertfa de pace, din care o parte revenea celui ce o aducea). Ironia amară a versetului stă tocmai aici: DOMNUL spune „adăugați arderile de tot la jertfele de pace și mâncați carnea” — un îndemn absurd, pentru că arderea de tot, prin definiție, nu poate fi mâncată de nimeni; e felul lui Dumnezeu de a spune că ritualul lor, oricât de corect executat tehnic, nu mai are nicio valoare reală în ochii Lui."
       },
       {
@@ -60980,12 +60982,14 @@
       {
        "t": "poruncit",
        "w": "poruncit",
-       "heb": "צִוִּיתִים",
-       "translit": "tzivitim",
+       "heb": "צִוִּיתִים",
+       "translit": "țivitim",
        "strong": "H6680",
-       "pos": "verb, piel perfect, persoana I + sufix",
+       "pos": "verb, piel perfect + sufix",
        "def_ro": "le-am poruncit.",
-       "dict_ro": "Tzava — Rashi precizează limita exactă a afirmației: nu că porunca despre jertfe n-ar exista deloc (ea vine în Levitic), ci că nu aceasta a fost condiția inițială pusă la Sinai — condiția dintâi, dinaintea oricărei legi rituale, a fost simplu „ascultați de glasul Meu” (v.23), citând explicit Exod 19:5. Jertfele sunt parte din Lege, dar nu temelia legământului."
+       "greek": "ἐντέλλομαι (entellomai)",
+       "greek_def_ro": "ἐντέλλομαι (entellomai) — a porunci.",
+       "dict_ro": "Tzava — Rashi precizează limita exactă a afirmației: nu că porunca despre jertfe n-ar exista deloc (ea vine în Levitic), ci că nu aceasta a fost condiția inițială pusă la Sinai — condiția dintâi, dinaintea oricărei legi rituale, a fost simplu „ascultați de glasul Meu” (v.23), citând explicit Exodul 19:5. Jertfele sunt parte din Lege, dar nu temelia legământului."
       },
       {
        "t": ", în ziua când i-am scos din țara Egiptului, despre arderi-de-tot sau jertfe de pace,"
@@ -61037,11 +61041,13 @@
       {
        "t": "Ascultați",
        "w": "Ascultați",
-       "heb": "שִׁמְעוּ",
+       "heb": "שִׁמְעוּ",
        "translit": "șimu",
        "strong": "H8085",
-       "pos": "verb, qal imperativ, persoana a II-a plural",
+       "pos": "verb, qal imperativ",
        "def_ro": "ascultați.",
+       "greek": "ἀκούω (akouo)",
+       "greek_def_ro": "ἀκούω (akouo) — a asculta.",
        "dict_ro": "Șama — verbul „a asculta” în ebraică poartă implicit și sensul de „a se supune”, nu doar „a auzi” (aceeași rădăcină din Șema Israel). Metzudat David subliniază structura logică a versetului: ascultarea de glasul DOMNULUI e „lucrul acesta” (hadavar haze) — condiția unică și centrală a legământului, iar toate poruncile particulare, inclusiv cele despre jertfe, decurg din ea ca ramuri, nu ca temelie."
       },
       {
@@ -61090,11 +61096,13 @@
       {
        "t": "pornirile inimii lor rele",
        "w": "pornirile inimii lor rele",
-       "heb": "בִּשְׁרִרוּת לִבָּם הָרָע",
-       "translit": "bișrirut libam hara",
+       "heb": "בְּמֹעֵצוֹת בִּשְׁרִרוּת",
+       "translit": "bemoēțot bișrirut",
        "strong": "H8307",
-       "pos": "substantiv construct + substantiv + adjectiv",
+       "pos": "substantiv, feminin plural + substantiv, feminin singular construct",
        "def_ro": "în încăpățânarea inimii lor rele.",
+       "greek": "ἐνθύμημα τῆς καρδίας κακῆς (enthymema tes kardias kakes)",
+       "greek_def_ro": "ἐνθύμημα τῆς καρδίας κακῆς (enthymema tes kardias kakes) — pornirile inimii rele.",
        "dict_ro": "Șerirut — „încăpățânare/îndărătnicie”, un termen aproape exclusiv ieremian (apare de 8 ori numai în această carte), desemnând nu o singură alunecare, ci un tipar de comportament statornic: fiecare generație urmează propriile porniri, în locul poruncii primite, într-un cerc care se repetă de la Exod până în prezentul lui Ieremia."
       },
       {
@@ -61142,11 +61150,13 @@
       {
        "t": "slujitorii Mei, profeții",
        "w": "slujitorii Mei, profeții",
-       "heb": "עֲבָדַי הַנְּבִיאִים",
-       "translit": "avadai haneviím",
+       "heb": "עֲבָדַי הַנְּבִיאִים",
+       "translit": "avadai hanvim",
        "strong": "H5030",
-       "pos": "substantiv construct + substantiv, cu articol",
+       "pos": "substantiv, masculin plural construct + sufix + substantiv, masculin plural",
        "def_ro": "robii Mei, profeții.",
+       "greek": "δοῦλοι προφῆται (douloi prophetai)",
+       "greek_def_ro": "δοῦλοι προφῆται (douloi prophetai) — slujitorii, profeții.",
        "dict_ro": "Navi (plural neviim) — titlul „robii Mei, profeții” revine ca formulă fixă la Ieremia (cf. 7:25, 25:4, 26:5, 29:19, 35:15, 44:4) pentru a descrie întregul șir neîntrerupt de trimiși divini de-a lungul istoriei lui Israel — imaginea „dimineața devreme” (yom hașkem) sugerează, după Rashi, o grabă și o stăruință părintească, nu o formalitate birocratică."
       },
       {
@@ -61199,12 +61209,14 @@
       {
        "t": "învârtoșat grumazul",
        "w": "învârtoșat grumazul",
-       "heb": "וַיַּקְשׁוּ אֶת־עָרְפָּם",
-       "translit": "vayakșu et-orpam",
+       "heb": "וַיַּקְשׁוּ",
+       "translit": "vaiakșu",
        "strong": "H7185",
-       "pos": "verb + substantiv",
+       "pos": "verb, hifil imperfect consecutiv",
        "def_ro": "și-au înțepenit ceafa.",
-       "dict_ro": "Kașa oref — expresia idiomatică „a-și înțepeni ceafa” descrie imaginea unui animal de tracțiune care se opune încordat hățurilor, refuzând să fie condus; e aceeași expresie folosită pentru păcatul vițelului de aur (Exod 32:9) — folosind-o aici, Ieremia leagă în mod explicit generația lui de generația fondatoare a idolatriei din pustie, agravând acuzația prin comparație directă: „mai răi decât strămoșii lor”."
+       "greek": "σκληρύνω τὸν τράχηλον (skleryno ton trachelon)",
+       "greek_def_ro": "σκληρύνω τὸν τράχηλον (skleryno ton trachelon) — și-au înțepenit grumazul.",
+       "dict_ro": "Kașa oref — expresia idiomatică „a-și înțepeni ceafa” descrie imaginea unui animal de tracțiune care se opune încordat hățurilor, refuzând să fie condus; e aceeași expresie folosită pentru păcatul vițelului de aur (Exodul 32:9) — folosind-o aici, Ieremia leagă în mod explicit generația lui de generația fondatoare a idolatriei din pustie, agravând acuzația prin comparație directă: „mai răi decât strămoșii lor”."
       },
       {
        "t": " și au devenit mai răi decât strămoșii lor."
@@ -61255,8 +61267,9 @@
        "heb": "וְקָרָאתָ",
        "translit": "vekarata",
        "strong": "H7121",
-       "pos": "verb, qal perfect consecutiv, persoana a II-a",
+       "pos": "verb, qal perfect consecutiv",
        "def_ro": "și vei striga, vei chema.",
+       "diff_ro": "Întregul verset nu are corespondent în Septuaginta disponibilă — nu există traducere grecească pentru acest verset.",
        "dict_ro": "Kara — versetul marchează o schimbare de destinatar în text: DOMNUL nu mai vorbește direct poporului (ca la v.21-26), ci i se adresează lui Ieremia însuși, avertizându-l dinainte că misiunea lui va eșua din perspectiva rezultatului imediat — profetul trebuie să vestească oricum, chiar știind că nu va fi ascultat, într-un paralelism structural cu comisionul similar dat lui Isaia (Isaia 6:9-10) și lui Ezechiel (Ezechiel 3:4-11)."
       },
       {
@@ -61308,6 +61321,8 @@
        "strong": "H4148",
        "pos": "substantiv, masculin singular",
        "def_ro": "disciplina, mustrarea, învățătura corectivă.",
+       "greek": "παιδεία (paideia)",
+       "greek_def_ro": "παιδεία (paideia) — disciplinare, mustrare, educare.",
        "dict_ro": "Musar — termen central în literatura de înțelepciune (cf. Proverbe 1:7, „nebunii disprețuiesc înțelepciunea și musar-ul”), desemnând nu o simplă critică, ci disciplina formativă primită cu smerenie. Refuzul ei aici nu e doar un defect moral izolat, ci simptomul unei pierderi mai adânci: „credința/statornicia” (emuna) însăși a dispărut, până și din vorbire — poporul nu mai poate nici măcar rosti adevărul despre sine."
       },
       {
@@ -61356,10 +61371,13 @@
        "t": "părul",
        "w": "părul",
        "heb": "נִזְרֵךְ",
-       "translit": "nizrech",
+       "translit": "nizrēh",
        "strong": "H5145",
-       "pos": "substantiv, masculin singular + sufix",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "coama ta de păr, cununa ta.",
+       "greek": "κεφαλή (kephale)",
+       "greek_def_ro": "κεφαλή (kephale) — cap.",
+       "diff_ro": "Ebraica „nizrēkh\" se referă specific la pletele consacrate (ca ale unui nazireu), nu generic la „cap\" — Septuaginta simplifică la „κεφαλήν\" („capul tău\").",
        "dict_ro": "Nezer — cuvântul poartă și sensul de „cunună/consacrare” (aceeași rădăcină din care vine „nazireu”), o dublă lectură reală pe care Rashi o notează explicit: fie „tunde-ți părul” ca gest ritual de jale (cf. Iov 1:20), fie, printr-o citire alternativă atribuită lui Menahem, „coroana ta de măreție” — Ierusalimul chemat să-și arunce departe însăși gloria pe care o avea."
       },
       {
@@ -61408,11 +61426,13 @@
       {
        "t": "scârboșeniile",
        "w": "scârboșeniile",
-       "heb": "שִׁקּוּצֵיהֶם",
-       "translit": "șikutzeihem",
+       "heb": "שִׁקּוּצֵיהֶם",
+       "translit": "șikuțēhem",
        "strong": "H8251",
-       "pos": "substantiv, masculin plural + sufix",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "urâciunile/idolii lor scârbavnici.",
+       "greek": "βδέλυγμα (bdelygma)",
+       "greek_def_ro": "βδέλυγμα (bdelygma) — urâciune, lucru detestabil.",
        "dict_ro": "Șikutz — termen tehnic pentru obiecte de cult idolatru, folosit mai ales despre idolii din popoarele vecine (cf. „șikutz Moav” pentru Chemoș, 1 Împărați 11:7); punerea lor chiar în Casa „asupra căreia e proclamat Numele DOMNULUI” (formulă care revine constant în Ieremia pentru Templu) e cea mai gravă formă de profanare posibilă — nu idolatrie undeva departe, ci în chiar centrul autorității legitime a cultului."
       },
       {
@@ -61461,11 +61481,13 @@
       {
        "t": "Tofet",
        "w": "Tofet",
-       "heb": "הַתֹּפֶת",
-       "translit": "haTofet",
+       "heb": "הַתֹּפֶת",
+       "translit": "hatofet",
        "strong": "H8612",
-       "pos": "substantiv propriu, cu articol",
+       "pos": "nume propriu",
        "def_ro": "Tofet, locul de jertfă a copiilor.",
+       "greek": "Ταφέθ (Tapheth)",
+       "greek_def_ro": "Ταφέθ (Tapheth) — Tofet.",
        "dict_ro": "Tofet — Rashi identifică locul cu cultul lui Moloh: un idol de aramă încins pe dinăuntru, cu brațele întinse, pe care era pus copilul, în timp ce preoții băteau tobe (tupim, de unde ar veni și numele „Tofet”) ca tatăl să nu audă țipătul fiului și să nu i se înmoaie inima — iar „Hinom” ar veni de la gemetele (nehama) copilului. Etimologiile sunt tradiționale, nu documentate arheologic, dar exprimă limpede oroarea morală atribuită locului."
       },
       {
@@ -61518,11 +61540,13 @@
       {
        "t": "Valea Măcelului",
        "w": "Valea Măcelului",
-       "heb": "גֵּיא הַהֲרֵגָה",
-       "translit": "gei haharega",
+       "heb": "גֵּיא הַהֲרֵגָה",
+       "translit": "gē haharēga",
        "strong": "H2028",
-       "pos": "substantiv construct + substantiv, cu articol",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin singular",
        "def_ro": "valea uciderii, valea măcelului.",
+       "greek": "φάραγξ τῶν ἀνῃρημένων (pharanx ton aneremenon)",
+       "greek_def_ro": "φάραγξ τῶν ἀνῃρημένων (pharanx ton aneremenon) — valea celor uciși.",
        "dict_ro": "Harega — schimbarea de nume e o formă de judecată poetică: locul unde copiii erau arși ca „jertfă” devine locul unde adulții vor cădea uciși — pedeapsa reflectă exact natura păcatului, în locul exact unde a fost comis. Aceeași vale (Ghe-Hinom) va deveni, în tradiția ulterioară, sursa numelui „Ghehena” pentru locul pedepsei de dincolo de moarte."
       },
       {
@@ -61573,8 +61597,10 @@
        "heb": "מַחֲרִיד",
        "translit": "maharid",
        "strong": "H2729",
-       "pos": "verb, hifil participiu, masculin singular",
+       "pos": "verb, hifil participiu",
        "def_ro": "cel care sperie, cel care alungă.",
+       "greek": "ἀποσοβέω (aposobeo)",
+       "greek_def_ro": "ἀποσοβέω (aposobeo) — a speria, a îndepărta prin frică.",
        "dict_ro": "Harad — de obicei, prezența unui om viu ar alunga păsările de pe un hoit; absența oricui care să le sperie („ein maharid”) e un mod indirect, dar exact, de a spune că nu va mai rămâne niciun locuitor viu în oraș — o pustiire completă, exprimată prin ceea ce LIPSEȘTE, nu prin ceea ce se întâmplă."
       },
       {
@@ -61623,11 +61649,13 @@
       {
        "t": "glasul mirelui și glasul miresei",
        "w": "glasul mirelui și glasul miresei",
-       "heb": "קוֹל חָתָן וְקוֹל כַּלָּה",
-       "translit": "kol hatan vekol kala",
+       "heb": "חָתָן",
+       "translit": "hatan",
        "strong": "H2860",
-       "pos": "substantiv construct + substantiv",
+       "pos": "substantiv, masculin singular",
        "def_ro": "glasul mirelui și glasul miresei.",
+       "greek": "φωνή νυμφίου (phone nymphiou)",
+       "greek_def_ro": "φωνή νυμφίου (phone nymphiou) — glasul mirelui.",
        "dict_ro": "Hatan/kala — formula pereche „glasul mirelui și glasul miresei” revine ca refren la Ieremia (16:9, 25:10, 33:11) pentru a desemna bucuria socială cea mai firească și mai de neșters dintr-o comunitate — o nuntă. Tocmai de aceea, tăcerea ei devine imaginea supremă a pustiirii complete: nu doar absența bucuriei religioase, ci stingerea vieții obișnuite, de zi cu zi, a orașului."
       },
       {
@@ -61677,10 +61705,12 @@
        "t": "oasele",
        "w": "oasele",
        "heb": "עַצְמוֹת",
-       "translit": "atzmot",
+       "translit": "ațmot",
        "strong": "H6106",
        "pos": "substantiv, feminin plural construct",
        "def_ro": "oasele.",
+       "greek": "ὀστέον (osteon)",
+       "greek_def_ro": "ὀστέον (osteon) — os.",
        "dict_ro": "Etzem — scoaterea și expunerea oaselor din morminte era considerată printre cele mai grave forme de dezonorare postumă posibile, o negare totală a odihnei cuvenite morților; faptul că lista începe cu „regii”, cei mai onorați în viață, și include chiar preoți și profeți arată că nicio poziție de autoritate religioasă sau politică nu va oferi protecție împotriva acestei rușini colective."
       },
       {
@@ -61729,12 +61759,15 @@
       {
        "t": "oștiri a cerurilor",
        "w": "oștiri a cerurilor",
-       "heb": "צְבָא הַשָּׁמַיִם",
-       "translit": "tzeva hașamayim",
+       "heb": "צְבָא",
+       "translit": "țeva",
        "strong": "H6635",
-       "pos": "substantiv construct + substantiv, cu articol",
+       "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "oștirea cerurilor.",
-       "dict_ro": "Tzeva hașamayim — expresie tehnică pentru cultul astral (închinarea la stele/corpuri cerești), interzis explicit în Tora (Deuteronom 4:19, 17:3) și asociat mai ales cu regele Manase (2 Împărați 21:3-5); ironia versetului stă în faptul că oasele închinătorilor sunt acum expuse tocmai sub lumina acelorași aștri pe care i-au venerat în viață — obiectul cultului lor devine martorul rușinii lor postume."
+       "greek": "στρατιά τοῦ οὐρανοῦ (stratia tou ouranou)",
+       "greek_def_ro": "στρατιά τοῦ οὐρανοῦ (stratia tou ouranou) — oștirea cerului.",
+       "diff_ro": "Septuaginta adaugă „καὶ πρὸς πάντας τοὺς ἀστέρας\" („și la toate stelele\"), o mențiune absentă din ebraică, alături de soare, lună și oastea cerului.",
+       "dict_ro": "Tzeva hașamayim — expresie tehnică pentru cultul astral (închinarea la stele/corpuri cerești), interzis explicit în Tora (Deuteronomul 4:19, 17:3) și asociat mai ales cu regele Manase (2 Împărați 21:3-5); ironia versetului stă în faptul că oasele închinătorilor sunt acum expuse tocmai sub lumina acelorași aștri pe care i-au venerat în viață — obiectul cultului lor devine martorul rușinii lor postume."
       },
       {
        "t": ", pe care le-au iubit și pe care le-au venerat și pe care le-au urmat, pe care le-au căutat și înaintea cărora s-au prosternat. Nu vor mai fi adunate laolaltă și nici îngropate, ci vor fi ca gunoiul peste fața pământului."
@@ -61789,9 +61822,11 @@
        "heb": "וְנִבְחַר מָוֶת",
        "translit": "venivhar mavet",
        "strong": "H4194",
-       "pos": "verb + substantiv",
+       "pos": "verb, nifal perfect consecutiv + substantiv, masculin singular",
        "def_ro": "și va fi aleasă moartea.",
-       "dict_ro": "Mavet — versetul culminează seria de pedepse cu o inversare deznădăjduită a instinctului elementar de supraviețuire: în mod normal, viața e aleasă întotdeauna în locul morții (cf. Deuteronom 30:19, „alege viața”); aici, gradul suferinței celor rămași va fi atât de mare, încât moartea celor deja uciși va părea de invidiat față de soarta celor care trebuie să continue să trăiască, exilați, printre popoarele străine."
+       "greek": "αἱρέομαι τὸν θάνατον (haireomai ton thanaton)",
+       "greek_def_ro": "αἱρέομαι τὸν θάνατον (haireomai ton thanaton) — au ales moartea.",
+       "dict_ro": "Mavet — versetul culminează seria de pedepse cu o inversare deznădăjduită a instinctului elementar de supraviețuire: în mod normal, viața e aleasă întotdeauna în locul morții (cf. Deuteronomul 30:19, „alege viața”); aici, gradul suferinței celor rămași va fi atât de mare, încât moartea celor deja uciși va părea de invidiat față de soarta celor care trebuie să continue să trăiască, exilați, printre popoarele străine."
       },
       {
        "t": " vieții pentru toți cei rămași din rămășița acestei familii rele, pentru cei rămași prin toate locurile în care i-am izgonit – rostirea DOMNULUI Oștirilor."
@@ -61843,11 +61878,13 @@
       {
        "t": "laude",
        "w": "laude",
-       "heb": "יִתְהַלֵּל",
-       "translit": "yithalel",
+       "heb": "יִתְהַלֵּל",
+       "translit": "ithalēl",
        "strong": "H1984",
-       "pos": "verb, hitpael imperfect jusiv, persoana a III-a",
+       "pos": "verb, hitpael jusiv",
        "def_ro": "să se laude, să se fălească.",
+       "greek": "καυχάομαι (kauchaomai)",
+       "greek_def_ro": "καυχάομαι (kauchaomai) — a se lăuda, a se mândri.",
        "dict_ro": "Halal la forma hitpael reflexivă — „a se lăuda pe sine”, o formă gramaticală care implică autoreferință și mândrie construită asupra propriei persoane; rădăcina e aceeași din care vine „Aleluia” (Halelu-Ya, „lăudați pe DOMNUL”) — contrastul e voit: lauda îndreptată corect e cea adusă lui Dumnezeu, nu cea adusă sieși pentru înțelepciune, putere sau bogăție."
       },
       {
@@ -61895,12 +61932,14 @@
       {
        "t": "bunăvoință, justiție și dreptate",
        "w": "bunăvoință, justiție și dreptate",
-       "heb": "חֶסֶד מִשְׁפָּט וּצְדָקָה",
-       "translit": "hesed mișpat utzdaka",
+       "heb": "חֶסֶד",
+       "translit": "hesed",
        "strong": "H2617",
-       "pos": "substantiv + substantiv + substantiv",
+       "pos": "substantiv, masculin singular",
        "def_ro": "îndurare, judecată și dreptate.",
-       "dict_ro": "Hesed/mișpat/tzedaka — triada de atribute divine care încheie haftara nu e întâmplătoare, ci ecoul direct al formulei de autodescriere a lui Dumnezeu de la Sinai, după păcatul vițelului de aur (Exod 34:6-7) — DOMNUL cel plin de îndurare, dar și de dreptate. Prin această triadă, cartea Ieremia, plină de acuzații și judecată, se încheie (în cadrul haftarei) pe o notă care redefinește adevărata „cunoaștere a lui Dumnezeu”: nu speculație abstractă, ci recunoașterea Lui prin exact aceste calități active în lume."
+       "greek": "ἔλεος καὶ κρίμα καὶ δικαιοσύνη (eleos kai krima kai dikaiosyne)",
+       "greek_def_ro": "ἔλεος καὶ κρίμα καὶ δικαιοσύνη (eleos kai krima kai dikaiosyne) — bunăvoință, judecată și dreptate.",
+       "dict_ro": "Hesed/mișpat/tzedaka — triada de atribute divine care încheie haftara nu e întâmplătoare, ci ecoul direct al formulei de autodescriere a lui Dumnezeu de la Sinai, după păcatul vițelului de aur (Exodul 34:6-7) — DOMNUL cel plin de îndurare, dar și de dreptate. Prin această triadă, cartea Ieremia, plină de acuzații și judecată, se încheie (în cadrul haftarei) pe o notă care redefinește adevărata „cunoaștere a lui Dumnezeu”: nu speculație abstractă, ci recunoașterea Lui prin exact aceste calități active în lume."
       },
       {
        "t": " pe pământ; căci acestea sunt cele pe care le doresc – rostirea DOMNULUI!"
