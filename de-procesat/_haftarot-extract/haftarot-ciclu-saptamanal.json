@@ -65231,12 +65231,14 @@
       {
        "t": "primele roade",
        "w": "primele roade",
-       "heb": "בִּכּוּרִים",
+       "heb": "בִּכּוּרִים",
        "translit": "bikurim",
        "strong": "H1061",
-       "pos": "substantiv, masculin plural",
+       "pos": "substantiv, masculin și feminin plural",
        "def_ro": "primele roade, pârga recoltei.",
-       "dict_ro": "Bikurim — „cele dintâi coapte”, rădăcina bakhar („a se coace devreme, a fi întâi-născut”); de obicei termenul desemnează ofranda pârgii adusă la Templu (Exod 23:16), dar aici e vorba de pâine din prima recoltă — Rashi notează că era în timpul lui Pesah, când se coace orzul. Talmudul (Sanhedrin 12a) deduce din acest verset că, deși Baal-Șalișa era locul unde roadele se coceau cel mai repede în toată Țara, doar orzul ajunsese la maturitate — deci anul ar fi trebuit prelungit cu o lună, iar Elișa nu l-a prelungit numai din cauza foametei."
+       "greek": "πρωτογέννημα (protogennema)",
+       "greek_def_ro": "πρωτογέννημα (protogennema) — primele roade.",
+       "dict_ro": "Bikurim — „cele dintâi coapte”, rădăcina bakhar („a se coace devreme, a fi întâi-născut”); de obicei termenul desemnează ofranda pârgii adusă la Templu (Exodul 23:16), dar aici e vorba de pâine din prima recoltă — Rashi notează că era în timpul lui Pesah, când se coace orzul. Talmudul (Sanhedrin 12a) deduce din acest verset că, deși Baal-Șalișa era locul unde roadele se coceau cel mai repede în toată Țara, doar orzul ajunsese la maturitate — deci anul ar fi trebuit prelungit cu o lună, iar Elișa nu l-a prelungit numai din cauza foametei."
       },
       {
        "t": ": douăzeci de franzele de pâine de orz și spice proaspete de grâu cu pleava lor. [Elișa] i-a spus: „Dă-le poporului să le mănânce.”"
@@ -65293,10 +65295,12 @@
        "t": "va mai rămâne",
        "w": "va mai rămâne",
        "heb": "וְהוֹתֵר",
-       "translit": "vehoter",
+       "translit": "vehotēr",
        "strong": "H3498",
-       "pos": "verb, hifil, infinitiv absolut",
+       "pos": "verb, hifil infinitiv absolut",
        "def_ro": "a lăsa să rămână, a prisosi.",
+       "greek": "καταλείπω (kataleipo)",
+       "greek_def_ro": "καταλείπω (kataleipo) — va rămâne, va mai fi.",
        "dict_ro": "Iatar — „a rămâne, a prisosi”; infinitivul absolut dublat („achol vehoter”, „a mânca și a lăsa rest”) are forța unei promisiuni categorice: nu doar că va ajunge, ci va și prisosi. Metzudat David subliniază contrastul: slujitorul vede „foarte puțin”, dar cuvântul DOMNULUI garantează îndestulare pentru toți, cu rest — tiparul pe care tradiția creștină îl recunoaște în înmulțirea pâinilor din Evanghelii (Matei 14:20)."
       },
       {
@@ -65348,11 +65352,13 @@
       {
        "t": "precum spusese DOMNUL",
        "w": "precum spusese DOMNUL",
-       "heb": "כִּדְבַר יְהוָה",
-       "translit": "kidvar ADONAI",
+       "heb": "כִּדְבַר",
+       "translit": "kidvar",
        "strong": "H1697",
-       "pos": "prepoziție + substantiv, masculin singular, în construcție",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "după cuvântul DOMNULUI.",
+       "greek": "ῥῆμα Κυρίου (rhema Kyriou)",
+       "greek_def_ro": "ῥῆμα Κυρίου (rhema Kyriou) — cuvântul DOMNULUI.",
        "dict_ro": "Kidvar ADONAI — formula de împlinire care încheie episodul: nu puterea lui Elișa e în centru, ci cuvântul DOMNULUI rostit dinainte (v. 43) și împlinit întocmai. Aceeași construcție încheie și vindecarea lui Naaman, care urmează imediat în haftara („după cuvântul omului lui Dumnezeu”, 5:14), legând cele două minuni printr-un singur principiu: ascultarea de cuvânt aduce împlinirea."
       },
       {
@@ -65390,10 +65396,12 @@
        "t": "lepros",
        "w": "lepros",
        "heb": "מְצֹרָע",
-       "translit": "metzora",
+       "translit": "mețora",
        "strong": "H6879",
-       "pos": "verb, pual, participiu, masculin singular",
+       "pos": "verb, pual participiu pasiv",
        "def_ro": "lovit de țaraat, lepros.",
+       "greek": "λεπρόομαι (leproomai)",
+       "greek_def_ro": "λεπρόομαι (leproomai) — lepros.",
        "dict_ro": "Metzora — cel lovit de țaraat, boala de piele descrisă pe larg în pericopa Tazria (Levitic 13), de unde și alegerea acestei haftare. Versetul adună toate titlurile de glorie ale lui Naaman — general, om mare, onorat, erou — și le răstoarnă cu un singur cuvânt final: „lepros”. Metzudat David explică durerea din spatele cuvântului: fiind un mare luptător, Naaman dorea să iasă mereu la război, dar boala îl împiedica, și suferea din această pricină."
       },
       {
@@ -65445,11 +65453,13 @@
       {
        "t": "o tânără fată",
        "w": "o tânără fată",
-       "heb": "נַעֲרָה קְטַנָּה",
-       "translit": "naara ketana",
+       "heb": "נַעֲרָה",
+       "translit": "naara",
        "strong": "H5291",
-       "pos": "substantiv + adjectiv, feminin singular",
+       "pos": "substantiv, feminin singular",
        "def_ro": "o fată tânără, o fetiță.",
+       "greek": "νεανίς μικρά (neanis mikra)",
+       "greek_def_ro": "νεανίς μικρά (neanis mikra) — o tânără fetiță.",
        "dict_ro": "Naara ketana — expresia pare redundantă (naara desemnează deja o fată tânără), de aceea Rashi propune că naara indică proveniența ei din orașul Naaran (1 Cronici 7:28), iar Metzudat David răspunde că și o copilă mică poate fi numită naara (ca în Isaia 11:6, „un copil mic îi va mâna”). Contrastul e intenționat: cea mai mică și mai lipsită de putere persoană din poveste, o sclavă captivă, devine veriga prin care generalul atotputernic ajunge la vindecare."
       },
       {
@@ -65502,10 +65512,12 @@
        "t": "îl va vindeca",
        "w": "îl va vindeca",
        "heb": "יֶאֱסֹף",
-       "translit": "yeesof",
+       "translit": "ieesof",
        "strong": "H622",
-       "pos": "verb, qal, imperfect, persoana a III-a masculin singular",
+       "pos": "verb, qal imperfect",
        "def_ro": "îl va aduna, adică îl va vindeca de lepră.",
+       "greek": "ἀποσυνάγω (aposynago)",
+       "greek_def_ro": "ἀποσυνάγω (aposynago) — a-l elibera, a-l curăți (idiom: a-l aduna de la boala lui).",
        "dict_ro": "Asaf — literal „a aduna, a strânge înăuntru”; aplicat leprosului, înseamnă vindecarea, pentru că, explică Rashi, în timpul bolii toți se țin departe de el, iar când se vindecă e din nou „adunat” printre oameni. Metzudat David adaugă temeiul biblic: leprosul locuia în afara taberei și, vindecat, era primit înapoi — ca Miriam, la care scrie „până ce a fost adunată [primită înapoi] Miriam” (Numeri 12:15)."
       },
       {
@@ -65557,11 +65569,13 @@
       {
        "t": "Precum aceste",
        "w": "Precum aceste",
-       "heb": "כָּזֹאת וְכָזֹאת",
-       "translit": "kazot vechazot",
+       "heb": "כָּזֹאת וְכָזֹאת",
+       "translit": "kazot vehazot",
        "strong": "H2063",
-       "pos": "prepoziție + pronume demonstrativ, feminin, repetat",
+       "pos": "pronume demonstrativ + pronume demonstrativ",
        "def_ro": "așa și așa, în cutare fel.",
+       "greek": "οὕτως καὶ οὕτως (houtos kai houtos)",
+       "greek_def_ro": "οὕτως καὶ οὕτως (houtos kai houtos) — așa și așa.",
        "dict_ro": "Kazot vechazot — „așa și așa”, formulă de rezumare prin care naratorul evită să repete cuvintele fetei deja citate. Rashi și Metzudat David precizează cine vorbește cu cine: Naaman însuși a venit și i-a povestit stăpânului său, regele Aramului. Faptul că un general de rang înalt ia în serios cuvântul unei sclave captive și îl duce până la rege arată cât de disperată era situația lui."
       },
       {
@@ -65610,11 +65624,13 @@
       {
        "t": "zece schimburi de haine",
        "w": "zece schimburi de haine",
-       "heb": "עֶשֶׂר חֲלִיפוֹת בְּגָדִים",
-       "translit": "eser halifot begadim",
+       "heb": "חֲלִיפוֹת",
+       "translit": "halifot",
        "strong": "H2487",
-       "pos": "numeral + substantiv, feminin plural, în construcție + substantiv",
+       "pos": "substantiv, feminin plural construct",
        "def_ro": "zece rânduri de haine de schimb.",
+       "greek": "ἀλλασσόμεναι στολαί (allassomenai stolai)",
+       "greek_def_ro": "ἀλλασσόμεναι στολαί (allassomenai stolai) — veșminte de schimb.",
        "dict_ro": "Halifot begadim — „schimburi de haine”, veșminte de sărbătoare, un dar prețios în lumea antică (vezi Geneza 45:22, darurile lui Iosif pentru frații săi). Împreună cu cei zece talanți de argint și cele șase mii [de sicli] de aur, darul arată cum își imagina Naaman vindecarea: ca pe un serviciu cumpărat de la un vraci de curte. Rashi și Metzudat David precizează că darul era destinat profetului, nu regelui — iar refuzul lui Elișa (v. 16) va răsturna tocmai această logică."
       },
       {
@@ -65667,11 +65683,13 @@
       {
        "t": "scrisoare",
        "w": "scrisoare",
-       "heb": "הַסֵּפֶר",
-       "translit": "hasefer",
+       "heb": "הַסֵּפֶר",
+       "translit": "hasēfer",
        "strong": "H5612",
-       "pos": "substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "scrisoarea, înscrisul.",
+       "greek": "βιβλίον (biblion)",
+       "greek_def_ro": "βιβλίον (biblion) — scrisoare, carte.",
        "dict_ro": "Sefer — orice document scris: carte, sul, scrisoare oficială. Metzudat David observă că Scriptura redă doar finalul scrisorii („și acum...”), pentru că începutul cuprindea salutările obișnuite; iar regele Aramului nu se aștepta ca regele Israelului să-l vindece el însuși, ci ca acesta să-i poruncească profetului. Formularea ambiguă — „ca să-l vindeci” — e tocmai ceea ce va provoca panica regelui din versetul următor."
       },
       {
@@ -65717,12 +65735,14 @@
       {
        "t": "caută pricină",
        "w": "caută pricină",
-       "heb": "מִתְאַנֶּה",
+       "heb": "מִתְאַנֶּה",
        "translit": "mitane",
        "strong": "H579",
-       "pos": "verb, hitpael, participiu, masculin singular",
+       "pos": "verb, hitpael participiu",
        "def_ro": "caută prilej, caută pretext de ceartă.",
-       "dict_ro": "Ana, la forma hitpael — „a căuta prilej, a pândi o ocazie” împotriva cuiva; Rashi îl leagă de „alilot devarim” (învinuiri mincinoase, Deuteronom 22:14): regele crede că Aramul caută un pretext de război. Metzudat David vede aici și un diagnostic spiritual: din pricina răutății lui, regele Israelului nici nu s-a gândit la profetul din țara lui, ci a crezut că i se cere lui însuși o minune pe care numai Cel ce „omoară și dă viață” o poate face."
+       "greek": "προφασίζομαι (prophasizomai)",
+       "greek_def_ro": "προφασίζομαι (prophasizomai) — a căuta pricină, a invoca un pretext.",
+       "dict_ro": "Ana, la forma hitpael — „a căuta prilej, a pândi o ocazie” împotriva cuiva; Rashi îl leagă de „alilot devarim” (învinuiri mincinoase, Deuteronomul 22:14): regele crede că Aramul caută un pretext de război. Metzudat David vede aici și un diagnostic spiritual: din pricina răutății lui, regele Israelului nici nu s-a gândit la profetul din țara lui, ci a crezut că i se cere lui însuși o minune pe care numai Cel ce „omoară și dă viață” o poate face."
       },
       {
        "t": " împotriva mea!”"
@@ -65779,6 +65799,8 @@
        "strong": "H5030",
        "pos": "substantiv, masculin singular",
        "def_ro": "profet, purtător al cuvântului divin.",
+       "greek": "προφήτης (prophetes)",
+       "greek_def_ro": "προφήτης (prophetes) — profet.",
        "dict_ro": "Navi — cel chemat să vestească cuvântul lui Dumnezeu. Răspunsul lui Elișa corectează ironic panica regelui: nu regele trebuie să facă minunea, ci Naaman trebuie să afle că „există un profet în Israel”. Metzudat David precizează motivul: nu pentru gloria regelui îl va vindeca, ci „pentru sfințirea Numelui” — ca un străin să cunoască puterea Dumnezeului lui Israel, ceea ce se și împlinește în mărturisirea lui Naaman din v. 15."
       },
       {
@@ -65827,11 +65849,13 @@
       {
        "t": "la ușa casei",
        "w": "la ușa casei",
-       "heb": "פֶּתַח־הַבַּיִת",
-       "translit": "petah-habait",
+       "heb": "פֶּתַח",
+       "translit": "petah",
        "strong": "H6607",
-       "pos": "substantiv, masculin singular, în construcție + substantiv cu articol",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "la intrarea casei.",
+       "greek": "θύρα οἴκου (thyra oikou)",
+       "greek_def_ro": "θύρα οἴκου (thyra oikou) — ușa casei.",
        "dict_ro": "Petah — deschizătura, intrarea. Imaginea e voit teatrală: generalul străin vine cu toată pompa — cai și car de luptă — și se oprește la ușa unei case modeste de profet, așteptând să fie întâmpinat cu onoruri. Versetul pregătește astfel contrastul din versetul următor, în care Elișa nici nu iese la el, ci îi trimite doar un sol."
       },
       {
@@ -65878,12 +65902,14 @@
       {
        "t": "de șapte ori",
        "w": "de șapte ori",
-       "heb": "שֶׁבַע־פְּעָמִים",
-       "translit": "șeva-peamim",
+       "heb": "שֶׁבַע",
+       "translit": "șeva",
        "strong": "H7651",
-       "pos": "numeral + substantiv, feminin plural",
+       "pos": "numeral",
        "def_ro": "de șapte ori.",
-       "dict_ro": "Șeva peamim — numărul șapte străbate ritualul de curățire a leprosului din Tora: stropirea de șapte ori cu sângele păsării (Levitic 14:7) și cu untdelemn (Levitic 14:16), la fel ca stropirea cu apa de curățire (Numeri 19:4). Metzudat David explică și făgăduința „carnea ta își va reveni”: prin lepră carnea slăbise și se topise, iar acum nu doar că va fi curățit, ci îi va reveni și carnea sănătoasă."
+       "greek": "ἑπτάκις (heptakis)",
+       "greek_def_ro": "ἑπτάκις (heptakis) — de șapte ori.",
+       "dict_ro": "Șeva peamim — numărul șapte străbate ritualul de curățire a leprosului din Tora: stropirea de șapte ori cu sângele păsării (Leviticul 14:7) și cu untdelemn (Leviticul 14:16), la fel ca stropirea cu apa de curățire (Numeri 19:4). Metzudat David explică și făgăduința „carnea ta își va reveni”: prin lepră carnea slăbise și se topise, iar acum nu doar că va fi curățit, ci îi va reveni și carnea sănătoasă."
       },
       {
        "t": " în Iordan și carnea ta își va reveni și vei fi curățit.”"
@@ -65931,11 +65957,12 @@
       {
        "t": "[Cel] Omniprezent",
        "w": "[Cel] Omniprezent",
-       "heb": "הַמָּקוֹם",
+       "heb": "הַמָּקוֹם",
        "translit": "hamakom",
        "strong": "H4725",
-       "pos": "substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "locul; în tradiția rabinică, și nume al lui Dumnezeu („Cel Omniprezent”).",
+       "diff_ro": "Septuaginta are aici sensul literal, „ἐπὶ τὸν τόπον\" („asupra locului\"), nu ca epitet divin („Cel Omniprezent\", traducerea tradițională a eufemismului ebraic „HaMakom\" pentru Dumnezeu) — o diferență de interpretare teologică, nu doar lingvistică.",
        "dict_ro": "Makom — literal „loc”; în literatura rabinică „HaMakom” devine un nume al lui Dumnezeu (Cel Omniprezent, „locul lumii”), sens pe care îl reflectă traducerea de aici. Rashi însă citește simplu: Naaman se aștepta ca profetul să-și fluture mâna „spre locul” bolii, iar Metzudat David completează — ca să reverse vindecarea acolo prin minune. Versetul dezvăluie așteptarea lui Naaman: un ritual spectaculos, cu onoruri și gesturi, nu o simplă poruncă."
       },
       {
@@ -65988,10 +66015,12 @@
        "t": "Amana",
        "w": "Amana",
        "heb": "אֲמָנָה",
-       "translit": "Amana",
+       "translit": "amana",
        "strong": "H71",
-       "pos": "substantiv propriu, nume de râu",
+       "pos": "nume propriu",
        "def_ro": "Amana (citit Avana), râu al Damascului.",
+       "greek": "Ἀβανά (Abana)",
+       "greek_def_ro": "Ἀβανά (Abana) — Amana (râu/munte lângă Damasc).",
        "dict_ro": "Amana / Avana — textul scris (ketiv) are Amana, iar citirea tradițională (keri) e Avana; e râul identificat de obicei cu Barada de azi, care traversează Damascul, iar Farpar cu un râu vecin din aceeași regiune, ambele cu ape limpezi, spre deosebire de Iordanul tulbure. Metzudat David redă logica lui Naaman: dacă spălarea ar fi un leac natural, râurile Damascului, în care se spăla mereu, l-ar fi vindecat deja — de ce ar ajuta Iordanul?"
       },
       {
@@ -66041,8 +66070,9 @@
        "heb": "אָבִי",
        "translit": "avi",
        "strong": "H1",
-       "pos": "substantiv, masculin singular + sufix persoana I",
+       "pos": "interjecție",
        "def_ro": "tatăl meu; aici, formulă de respect: „stăpâne”.",
+       "diff_ro": "Septuaginta nu redă acest vocativ respectuos („Părinte\"), adresat lui Naaman de slujitorii săi — trece direct la conținutul mustrării lor.",
        "dict_ro": "Avi — „tatăl meu”; Rashi explică că aici e echivalentul lui „adoni” (stăpâne), titlu de respect pentru un om de rang înalt — la fel cum Iosif spune că Dumnezeu l-a pus „tată pentru Faraon” (Geneza 45:8). Argumentul slujitorilor e un „kal vahomer” (de la mai greu la mai ușor) clasic: dacă profetul ți-ar fi cerut ceva greu, l-ai fi făcut — cu atât mai mult un lucru atât de ușor."
       },
       {
@@ -66094,11 +66124,13 @@
       {
        "t": "s-a cufundat",
        "w": "s-a cufundat",
-       "heb": "וַיִּטְבֹּל",
-       "translit": "vayitbol",
+       "heb": "וַיִּטְבֹּל",
+       "translit": "vaitbol",
        "strong": "H2881",
-       "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin singular",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "s-a cufundat, s-a scufundat în apă.",
+       "greek": "βαπτίζομαι (baptizomai)",
+       "greek_def_ro": "βαπτίζομαι (baptizomai) — a se cufunda, a se scălda.",
        "dict_ro": "Taval — „a (se) cufunda”, rădăcina din care vine în limbajul rabinic „tevila”, cufundarea rituală în mikve. E semnificativ că Elișa spusese „rahatz” (spală-te, v. 10), iar Naaman face mai mult — „taval”, cufundare completă, de șapte ori. Metzudat David explică „ca trupul unui copil mic”: carnea i-a devenit curată și strălucitoare, deci nu doar vindecată, ci înnoită."
       },
       {
@@ -66148,10 +66180,12 @@
        "t": "prinosul",
        "w": "prinosul",
        "heb": "בְרָכָה",
-       "translit": "veracha",
+       "translit": "veraha",
        "strong": "H1293",
        "pos": "substantiv, feminin singular",
        "def_ro": "binecuvântare; aici, dar oferit în semn de recunoștință.",
+       "greek": "εὐλογία (eulogia)",
+       "greek_def_ro": "εὐλογία (eulogia) — dar, prinos (literal: binecuvântare).",
        "dict_ro": "Beraha — literal „binecuvântare”; Rashi explică că e un dar de pace oferit la salut, cum dă ucenicul sau slujitorul stăpânului său; același cuvânt desemnează darul lui Iacov pentru Esau (Geneza 33:11). Mărturisirea care o precede — „nu este Dumnezeu în toată lumea, în afară de în Israel” — e punctul culminant al haftarei; Talmudul (Ghitin 57b) precizează totuși că Naaman nu s-a convertit, ci a rămas „ger toșav”, un neevreu care păzește cele șapte porunci ale urmașilor lui Noe."
       },
       {
@@ -66208,11 +66242,13 @@
       {
        "t": "a stăruit",
        "w": "a stăruit",
-       "heb": "וַיִּפְצַר",
-       "translit": "vayiftzar",
+       "heb": "וַיִּפְצַר",
+       "translit": "vaifțar",
        "strong": "H6484",
-       "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin singular",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "a stăruit, a insistat, l-a presat.",
+       "greek": "παραβιάζομαι (parabiazomai)",
+       "greek_def_ro": "παραβιάζομαι (parabiazomai) — a stărui, a insista cu forță.",
        "dict_ro": "Pațar — „a stărui, a presa pe cineva” (aceeași rădăcină ca la Lot, care „a stăruit mult” pe lângă îngeri, Geneza 19:3). Insistența lui Naaman se lovește de jurământul lui Elișa: „Pe viața DOMNULUI înaintea Căruia am stat”. Metzudat David explică expresia ca „înaintea Căruia obișnuiesc să stau în rugăciune” și că formula e un jurământ propriu-zis: pedeapsa jurământului să fie asupra mea dacă voi lua. Rashi adaugă motivul refuzului: printre banii aceia se aflau bani legați de idolatrie."
       },
       {
@@ -66270,6 +66306,7 @@
        "strong": "H127",
        "pos": "substantiv, feminin singular",
        "def_ro": "pământ, țărână, sol.",
+       "diff_ro": "Septuaginta nu menționează conținutul încărcăturii („pământ\"), ci spune doar „o încărcătură, o pereche de catâri\" — omite detaliul despre pământul sfânt pe care Naaman voia să-l ia cu el.",
        "dict_ro": "Adama — pământul, solul roditor. Cererea lui Naaman pornește din credința antică potrivit căreia fiecare zeitate e legată de pământul ei: ca să se închine DOMNULUI în Aram, vrea să ia cu el țărână din Țara Israelului. Rashi explică: din pământul acesta al Țării, care e sfânt, va face un altar în orașul lui; iar Metzudat David subliniază delicatețea lui — n-a vrut să ia nici măcar pământ fără permisiunea profetului."
       },
       {
@@ -66324,11 +66361,13 @@
       {
        "t": "templul de la Rimon",
        "w": "templul de la Rimon",
-       "heb": "בֵית־רִמּוֹן",
-       "translit": "beit-Rimon",
+       "heb": "רִמּוֹן",
+       "translit": "rimon",
        "strong": "H7417",
-       "pos": "substantiv, masculin singular, în construcție + nume propriu",
+       "pos": "nume propriu",
        "def_ro": "templul lui Rimon, zeitatea Damascului.",
+       "greek": "οἶκος Ῥεμμάν (oikos Rhemman)",
+       "greek_def_ro": "οἶκος Ῥεμμάν (oikos Rhemman) — templul lui Rimon.",
        "dict_ro": "Rimon — zeul principal al Damascului, identificat de obicei cu zeul furtunii Hadad (Rammanu în textele asiro-babiloniene); numele sună în ebraică la fel ca „rodie”. Rashi explică situația lui Naaman: e o închinare silită — când regele intră în templu, se sprijină de mâna generalului, iar acesta trebuie să se aplece odată cu el. Cererea lui nu e o permisiune de idolatrie, ci o rugăciune de iertare pentru un gest exterior pe care nu-l poate evita."
       },
       {
@@ -66381,12 +66420,12 @@
       {
        "t": "o distanță oarecare",
        "w": "o distanță oarecare",
-       "heb": "כִּבְרַת־אָרֶץ",
-       "translit": "kivrat-aretz",
+       "heb": "כִּבְרַת",
+       "translit": "kivrat",
        "strong": "H3530",
-       "pos": "substantiv, feminin singular, în construcție + substantiv",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "o întindere de pământ, o distanță (ca măsură de drum).",
-       "dict_ro": "Kivrat eretz — o unitate de distanță a cărei lungime exactă nu e sigură; Rashi o explică drept numele unei măsuri de teren (comparând-o cu măsurile de vie din Isaia 5:10), iar expresia apare și la moartea Rahelei, la o asemenea distanță de Efrata (Geneza 35:16). „Mergi în pace” nu e o aprobare explicită a cererii din versetul precedent, ci o despărțire binevoitoare, care lasă deschisă întrebarea — iar versetele imediat următoare, cu lăcomia lui Ghehazi, nu mai fac parte din haftară."
+       "dict_ro": "Una dintre cele mai cunoscute divergențe din această poveste: expresia ebraică obscură „kivrat ha'areț\" (o anumită distanță/întindere de pământ, de sens incert) este citită de Septuaginta ca un TOPONIM, „εἰς δεβραθὰ\" („spre Debratha\") — tratând o expresie de măsură ca pe numele unui loc, din cauza rarității și ambiguității termenului ebraic."
       },
       {
        "t": "."
