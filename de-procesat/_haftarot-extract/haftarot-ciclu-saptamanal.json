@@ -58142,11 +58142,13 @@
       {
        "t": "sfințise",
        "w": "sfințise",
-       "heb": "קָדְשֵׁי",
-       "translit": "kodșei",
+       "heb": "קָדְשֵׁי",
+       "translit": "kadșē",
        "strong": "H6944",
        "pos": "substantiv, masculin plural construct",
        "def_ro": "lucrurile sfințite.",
+       "greek": "ἅγιος (hagios)",
+       "greek_def_ro": "ἅγιος (hagios) — sfânt, lucru sfințit.",
        "dict_ro": "Kodeș, la forma construct plural — „lucrurile sfinte” pe care David le pusese deoparte de-a lungul domniei sale, majoritatea pradă de război dedicată DOMNULUI (cf. 2 Samuel 8:11, unde David sfințește argintul și aurul luat de la neamurile învinse) — Solomon nu doar termină construcția fizică, ci integrează în ea moștenirea spirituală a tatălui său, încheind astfel simbolic proiectul pe care David îl începuse doar în inimă (v.17-18, mai jos)."
       },
       {
@@ -58196,7 +58198,11 @@
      "t": "Atunci, Solomon i-a adunat laolaltă pe bătrânii lui Israel și pe toți conducătorii triburilor, pe conducătorii familiilor patriarhale ale copiilor lui Israel, la regele Solomon, în Ierusalim, pentru ca să ridice Chivotul Legământului DOMNULUI din Orașul lui David, care este Țion.",
      "heb": "אָז יַקְהֵל שְׁלֹמֹה אֶת־זִקְנֵי יִשְׂרָאֵל אֶת־כָּל־רָאשֵׁי הַמַּטּוֹת נְשִׂיאֵי הָאָבוֹת לִבְנֵי יִשְׂרָאֵל אֶל־הַמֶּלֶךְ שְׁלֹמֹה יְרוּשָׁלָ͏ִם לְהַעֲלוֹת אֶת־אֲרוֹן בְּרִית־יְהוָה מֵעִיר דָּוִד הִיא צִיּוֹן׃",
      "translit": "Az yakhel Șlomo et-ziknei Israël et-kol-rașei hamatot nesiéi haavot livnei Israël el-hameleh Șlomo Yerușalaim lehaalot et-aron berit-ADONAI meir David hi Țion.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Atunci, Solomon i-a adunat laolaltă pe bătrânii lui Israel și pe toți conducătorii triburilor, pe conducătorii familiilor patriarhale ale copiilor lui Israel, la regele Solomon, în Ierusalim, pentru ca să ridice Chivotul Legământului DOMNULUI din Orașul lui David, care este Țion."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58239,11 +58245,14 @@
       {
        "t": "Luna Celor Puternici",
        "w": "Luna Celor Puternici",
-       "heb": "יֶרַח הָאֵתָנִים",
-       "translit": "yerah ha-etanim",
+       "heb": "הָאֵתָנִים",
+       "translit": "haētanim",
        "strong": "H388",
-       "pos": "substantiv, masculin plural, cu articol",
+       "pos": "adjectiv, masculin plural",
        "def_ro": "luna celor puternici, a curgerilor statornice.",
+       "greek": "μήν Ἀθανίν (men Athanin)",
+       "greek_def_ro": "μήν Ἀθανίν (men Athanin) — luna Etanim (transliterare).",
+       "diff_ro": "Septuaginta redă acest verset extrem de concis, doar „în luna Athanin\" — omițând mențiunea sărbătorii și a lunii a șaptea.",
        "dict_ro": "Etanim — numele vechi, pre-exilic, al lunii astăzi cunoscute drept Tișrei; Rashi citează explicația Targumului lui Yonatan ben Uziel: numele se leagă de patriarhii „puternici” (etanim) în credință, sau de faptul că râurile curg statornic (eitan, „statornic, puternic”) în această lună de toamnă. Torah numără lunile începând cu Nisan (luna ieșirii din Egipt), motiv pentru care Tișrei, deși prima lună a anului civil, apare aici ca „luna a șaptea”."
       },
       {
@@ -58285,7 +58294,11 @@
      "t": "Toți bătrânii lui Israel au venit, iar preoții purtau Chivotul.",
      "heb": "וַיָּבֹאוּ כֹּל זִקְנֵי יִשְׂרָאֵל וַיִּשְׂאוּ הַכֹּהֲנִים אֶת־הָאָרוֹן׃",
      "translit": "Vayavou kol ziknei Israël vayisu hakohanim et-haaron.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Toți bătrânii lui Israel au venit, iar preoții purtau Chivotul."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58328,11 +58341,13 @@
       {
        "t": "Cortul Întâlnirii",
        "w": "Cortul Întâlnirii",
-       "heb": "אֹהֶל מוֹעֵד",
-       "translit": "ohel moed",
+       "heb": "אֹהֶל",
+       "translit": "ohel",
        "strong": "H168",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "Cortul Întâlnirii.",
+       "greek": "σκήνωμα τοῦ μαρτυρίου (skenoma tou martyriou)",
+       "greek_def_ro": "σκήνωμα τοῦ μαρτυρίου (skenoma tou martyriou) — cortul mărturiei.",
        "dict_ro": "Ohel moed — Cortul construit de Moise în pustiu, păstrat de-a lungul secolelor la Ghilgal, apoi Șilo, apoi Nov și Ghivon; conform unei tradiții citate de Rashi (Tosefta), odată ce Templul lui Solomon a fost consacrat, Cortul original a fost depozitat definitiv, „ascuns”, iar locul lui de cult a fost înlocuit pentru totdeauna — momentul de față marchează astfel și încheierea erei Cortului mobil, nu doar mutarea Chivotului."
       },
       {
@@ -58371,7 +58386,11 @@
      "t": "Iar regele Solomon și toată obștea lui Israel care se adunase cu el înaintea Chivotului, jertfeau [atâtea] turme și cirezi, încât nu puteau fi socotite și nici numărate, de multe ce erau.",
      "heb": "וְהַמֶּלֶךְ שְׁלֹמֹה וְכָל־עֲדַת יִשְׂרָאֵל הַנּוֹעָדִים עָלָיו אִתּוֹ לִפְנֵי הָאָרוֹן מְזַבְּחִים צֹאן וּבָקָר אֲשֶׁר לֹא־יִסָּפְרוּ וְלֹא יִמָּנוּ מֵרֹב׃",
      "translit": "Vehameleh Șlomo vechol-adat Israël hanoadim alav ito lifnei haaron mezabhim tzon uvakar așer lo-yisaferu velo yimanu merov.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Iar regele Solomon și toată obștea lui Israel care se adunase cu el înaintea Chivotului, jertfeau [atâtea] turme și cirezi, încât nu puteau fi socotite și nici numărate, de multe ce erau."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58415,12 +58434,14 @@
       {
        "t": "heruvimilor",
        "w": "heruvimilor",
-       "heb": "הַכְּרוּבִים",
-       "translit": "ha-keruvim",
+       "heb": "הַכְּרוּבִים",
+       "translit": "hakruvim",
        "strong": "H3742",
-       "pos": "substantiv, masculin plural, cu articol",
+       "pos": "substantiv, masculin plural",
        "def_ro": "heruvimii.",
-       "dict_ro": "Keruvim — Rashi precizează că aceștia sunt heruvimii mari, noi, făcuți de Solomon din lemn de măslin placat cu aur (cf. 6:23-28), care stăteau pe podeaua Sfintei Sfintelor, cu aripile întinse dintr-un perete în celălalt — distincți de perechea mică, originală, de heruvimi turnați dintr-o singură bucată cu capacul Chivotului (Exod 25:18-20), care rămâne acolo, sub aripile celor mari, într-o dublă acoperire simbolică."
+       "greek": "Χερουβίμ (Cheroubim)",
+       "greek_def_ro": "Χερουβίμ (Cheroubim) — heruvimi.",
+       "dict_ro": "Keruvim — Rashi precizează că aceștia sunt heruvimii mari, noi, făcuți de Solomon din lemn de măslin placat cu aur (cf. 6:23-28), care stăteau pe podeaua Sfintei Sfintelor, cu aripile întinse dintr-un perete în celălalt — distincți de perechea mică, originală, de heruvimi turnați dintr-o singură bucată cu capacul Chivotului (Exodul 25:18-20), care rămâne acolo, sub aripile celor mari, într-o dublă acoperire simbolică."
       },
       {
        "t": "."
@@ -58461,7 +58482,11 @@
      "t": "Căci heruvimii și-au întins aripile deasupra locului Chivotului și heruvimii au acoperit Chivotul și drugii săi, de deasupra.",
      "heb": "כִּי הַכְּרוּבִים פֹּרְשִׂים כְּנָפַיִם אֶל־מְקוֹם הָאָרוֹן וַיָּסֹכּוּ הַכְּרֻבִים עַל־הָאָרוֹן וְעַל־בַּדָּיו מִלְמָעְלָה׃",
      "translit": "Ki hakeruvim porsim kenafaim el-mekom haaron vayasoku hakeruvim al-haaron veal-badav milmala.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Căci heruvimii și-au întins aripile deasupra locului Chivotului și heruvimii au acoperit Chivotul și drugii săi, de deasupra."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58505,12 +58530,13 @@
       {
        "t": "drugii",
        "w": "drugii",
-       "heb": "הַבַּדִּים",
-       "translit": "ha-badim",
+       "heb": "הַבַּדִּים",
+       "translit": "habadim",
        "strong": "H905",
-       "pos": "substantiv, masculin plural, cu articol",
+       "pos": "substantiv, masculin plural",
        "def_ro": "drugii, prăjinile de purtat.",
-       "dict_ro": "Bad — drugii lungi cu care Chivotul era purtat, care nu se scoteau niciodată (Exod 25:15); Rashi rezolvă contradicția aparentă a versetului — „se vedeau” dar „nu se vedeau din afară” — explicând că vârfurile drugilor împingeau înainte perdeaua (parohet) care despărțea Sfânta Sfintelor de Sfânta, ca două umflături vizibile prin material, „ca doi sâni”, o imagine prin care tradiția rabinică exprimă apropierea intimă, aproape maternă, a prezenței divine față de popor — vizibile astfel doar dinăuntrul Sfintei, niciodată din curtea exterioară."
+       "diff_ro": "Septuaginta are aici „τὰ ἡγιασμένα\" („lucrurile sfințite\"), nu „drugii\" (habadim) ca în ebraică — un substantiv complet diferit pentru acest detaliu arhitectural.",
+       "dict_ro": "Bad — drugii lungi cu care Chivotul era purtat, care nu se scoteau niciodată (Exodul 25:15); Rashi rezolvă contradicția aparentă a versetului — „se vedeau” dar „nu se vedeau din afară” — explicând că vârfurile drugilor împingeau înainte perdeaua (parohet) care despărțea Sfânta Sfintelor de Sfânta, ca două umflături vizibile prin material, „ca doi sâni”, o imagine prin care tradiția rabinică exprimă apropierea intimă, aproape maternă, a prezenței divine față de popor — vizibile astfel doar dinăuntrul Sfintei, niciodată din curtea exterioară."
       },
       {
        "t": " se extindeau într-atât încât vârfurile lor puteau fi văzute din Sfânta, în fața Sanctuarului, dar nu puteau fi văzute din afară; și așa au rămas până în ziua de astăzi."
@@ -58557,12 +58583,14 @@
       {
        "t": "table de piatră",
        "w": "table de piatră",
-       "heb": "לֻחוֹת הָאֲבָנִים",
-       "translit": "luhot ha-avanim",
+       "heb": "לֻחוֹת",
+       "translit": "luhot",
        "strong": "H3871",
        "pos": "substantiv, masculin plural construct",
        "def_ro": "tablele de piatră.",
-       "dict_ro": "Luhot — precizarea „nu exista nimic în Chivot, în afară de...” a fost citită de comentatorii clasici ca eliminând explicit alte obiecte pe care tradiția le asocia cu Chivotul la origine — vasul cu mana (Exod 16:33-34) și toiagul înflorit al lui Aaron (Numeri 17:10) fuseseră puse, potrivit textului Torei, „înaintea Mărturiei” (Chivotului), nu neapărat în interiorul lui; comentatorii discută dacă acestea s-au pierdut deja în perioada Cortului mobil sau dacă „înaintea Mărturiei” înseamnă tot alături, în interior — versetul de aici confirmă cel puțin că, la momentul instalării în Templu, doar tablele Legii mai rămăseseră."
+       "greek": "πλάκες λίθιναι (plakes lithinai)",
+       "greek_def_ro": "πλάκες λίθιναι (plakes lithinai) — table de piatră.",
+       "dict_ro": "Luhot — precizarea „nu exista nimic în Chivot, în afară de...” a fost citită de comentatorii clasici ca eliminând explicit alte obiecte pe care tradiția le asocia cu Chivotul la origine — vasul cu mana (Exodul 16:33-34) și toiagul înflorit al lui Aaron (Numeri 17:10) fuseseră puse, potrivit textului Torei, „înaintea Mărturiei” (Chivotului), nu neapărat în interiorul lui; comentatorii discută dacă acestea s-au pierdut deja în perioada Cortului mobil sau dacă „înaintea Mărturiei” înseamnă tot alături, în interior — versetul de aici confirmă cel puțin că, la momentul instalării în Templu, doar tablele Legii mai rămăseseră."
       },
       {
        "t": " pe care Moise le pusese acolo la Horeb, acolo unde DOMNUL pecetluise [legământ] cu copiii lui Israel când ieșiseră din țara Egiptului."
@@ -58610,7 +58638,11 @@
      "t": "Când preoții au plecat din Sfânta, norul a umplut Casa DOMNULUI.",
      "heb": "וַיְהִי בְּצֵאת הַכֹּהֲנִים מִן־הַקֹּדֶשׁ וְהֶעָנָן מָלֵא אֶת־בֵּית יְהוָה׃",
      "translit": "Vayehi betzet hakohanim min-hakodeș veheanan male et-beit ADONAI.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Când preoții au plecat din Sfânta, norul a umplut Casa DOMNULUI."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58647,7 +58679,11 @@
      "t": "Și preoții nu au putut sta să slujească din pricina norului, căci slava DOMNULUI umplea Casa DOMNULUI.",
      "heb": "וְלֹא־יָכְלוּ הַכֹּהֲנִים לַעֲמֹד לְשָׁרֵת מִפְּנֵי הֶעָנָן כִּי־מָלֵא כְבוֹד־יְהוָה אֶת־בֵּית יְהוָה׃",
      "translit": "Velo-yachlu hakohanim laamod leșaret mipnei heanan ki-male kevod-ADONAI et-beit ADONAI.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Și preoții nu au putut sta să slujească din pricina norului, căci slava DOMNULUI umplea Casa DOMNULUI."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58690,12 +58726,14 @@
       {
        "t": "negură",
        "w": "negură",
-       "heb": "בָּעֲרָפֶל",
-       "translit": "ba-arafel",
+       "heb": "בָּעֲרָפֶל",
+       "translit": "baarafel",
        "strong": "H6205",
-       "pos": "substantiv, masculin, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "în negură, în întuneric des.",
-       "dict_ro": "Arafel — Rashi leagă cuvintele lui Solomon de promisiunea explicită dată în Levitic 16:2, unde DOMNUL spune despre marele preot: „nu va intra oricând în Sfânta, ca să nu moară, căci Eu Mă arăt în nor deasupra capacului [Chivotului]” — norul care tocmai a umplut Templul (v.10-11) e citit de Solomon nu ca semn de mânie sau distanță, ci ca împlinirea exactă a acelei promisiuni vechi: prezența divină alege în mod deliberat forma norului dens, nu a luminii vizibile, tocmai pentru a rămâne accesibilă, fără a copleși."
+       "greek": "γνόφος (gnophos)",
+       "greek_def_ro": "γνόφος (gnophos) — negură, întuneric dens.",
+       "dict_ro": "Unul dintre cele mai cunoscute și discutate pasaje din toată Septuaginta a Cărților Împărați: textul grecesc are aici o propoziție întreagă absentă din ebraică, „Ἥλιον ἐγνώρισεν ἐν οὐρανῷ Κύριος\" („DOMNUL a făcut cunoscut soarele pe cer\"), și se încheie cu o trimitere explicită la o sursă externă, „nu este scris aceasta în cartea cântării?\" — o aluzie la „Cartea lui Iașar\" (Sefer haYașar), menționată și în Iosua 10:13 și 2 Samuel 1:18, o colecție de poeme antice astăzi pierdută, din care Septuaginta pare să fi păstrat un fragment absent din textul masoretic."
       },
       {
        "t": "."
@@ -58736,7 +58774,11 @@
      "t": "Și am construit într-adevăr un adăpost pentru Tine, o temelie veșnică a sălașului Tău.”",
      "heb": "בָּנֹה בָנִיתִי בֵית זְבֻל לָךְ מָכוֹן לְשִׁבְתְּךָ עוֹלָמִים׃",
      "translit": "Bano vaniti beit zevul lach machon leșivtecha olamim.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Și am construit într-adevăr un adăpost pentru Tine, o temelie veșnică a sălașului Tău.”"
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58772,7 +58814,11 @@
      "t": "Regele și-a întors fața și a binecuvântat întreaga obște a lui Israel și toată obștea lui Israel stătea în picioare.",
      "heb": "וַיַּסֵּב הַמֶּלֶךְ אֶת־פָּנָיו וַיְבָרֶךְ אֵת כָּל־קְהַל יִשְׂרָאֵל וְכָל־קְהַל יִשְׂרָאֵל עֹמֵד׃",
      "translit": "Vayasev hameleh et-panav vayvarech et kol-kehal Israël vechol-kehal Israël omed.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Regele și-a întors fața și a binecuvântat întreaga obște a lui Israel și toată obștea lui Israel stătea în picioare."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58819,11 +58865,13 @@
       {
        "t": "gura Lui",
        "w": "gura Lui",
-       "heb": "בְּפִיו",
-       "translit": "be-fiv",
+       "heb": "בְּפִיו",
+       "translit": "befiv",
        "strong": "H6310",
-       "pos": "substantiv, masculin, cu sufix pronominal",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "prin gura Lui.",
+       "greek": "στόμα αὐτοῦ (stoma autou)",
+       "greek_def_ro": "στόμα αὐτοῦ (stoma autou) — gura lui.",
        "dict_ro": "Pe, „gură” — Rashi distinge cele două verbe folosite aici: „a vorbit cu gura Lui” se referă la promisiunea rostită prin gura profetului Natan (2 Samuel 7:12-13), iar „a împlinit cu mâna Lui” se referă la puterea divină efectivă care a adus împlinirea, ani mai târziu, prin Solomon însuși — cuvântul profetic și fapta istorică, distincte, dar amândouă atribuite direct DOMNULUI."
       },
       {
@@ -58864,7 +58912,11 @@
      "t": "«Din ziua în care l-am scos pe poporul Meu Israel din Egipt, nu am ales niciun oraș dintre triburile lui Israel să-Mi construiască o Casă unde să fie numele Meu, și l-am ales pe David să fie peste poporul Meu Israel.»",
      "heb": "מִן־הַיּוֹם אֲשֶׁר הוֹצֵאתִי אֶת־עַמִּי אֶת־יִשְׂרָאֵל מִמִּצְרַיִם לֹא־בָחַרְתִּי בְעִיר מִכֹּל שִׁבְטֵי יִשְׂרָאֵל לִבְנוֹת בַּיִת לִהְיוֹת שְׁמִי שָׁם וָאֶבְחַר בְּדָוִד לִהְיוֹת עַל־עַמִּי יִשְׂרָאֵל׃",
      "translit": "Min-hayom așer hotzeti et-ami et-Israël miMițraim lo-baharti beir mikol șivtei Israël livnot bayit lihyot șemi șam vaevhar beDavid lihyot al-ami Israël.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "«Din ziua în care l-am scos pe poporul Meu Israel din Egipt, nu am ales niciun oraș dintre triburile lui Israel să-Mi construiască o Casă unde să fie numele Meu, și l-am ales pe David să fie peste poporul Meu Israel.»"
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58908,7 +58960,11 @@
      "t": "Și a fost dorința inimii tatălui meu David să construiască o Casă pentru numele DOMNULUI, Dumnezeul lui Israel.",
      "heb": "וַיְהִי עִם־לְבַב דָּוִד אָבִי לִבְנוֹת בַּיִת לְשֵׁם יְהוָה אֱלֹהֵי יִשְׂרָאֵל׃",
      "translit": "Vayehi im-levav David avi livnot bayit leșem ADONAI Elohei Israël.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Și a fost dorința inimii tatălui meu David să construiască o Casă pentru numele DOMNULUI, Dumnezeul lui Israel."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58937,7 +58993,11 @@
      "t": "DOMNUL i-a spus tatălui meu, David: «Dorința pe care ai avut-o în inima ta să construiești o Casă pentru numele Meu – ai făcut bine să o ai în inima ta.",
      "heb": "וַיֹּאמֶר יְהוָה אֶל־דָּוִד אָבִי יַעַן אֲשֶׁר הָיָה עִם־לְבָבְךָ לִבְנוֹת בַּיִת לִשְׁמִי הֱטִיבֹתָ כִּי הָיָה עִם־לְבָבֶךָ׃",
      "translit": "Vayomer ADONAI el-David avi yaan așer haya im-levavcha livnot bayit lișmi hetivota ki haya im-levavecha.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "DOMNUL i-a spus tatălui meu, David: «Dorința pe care ai avut-o în inima ta să construiești o Casă pentru numele Meu – ai făcut bine să o ai în inima ta."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -58964,7 +59024,11 @@
      "t": "Însă nu tu vei construi Casa, ci fiul tău care va ieși dintre coapsele tale, el va construi Casa pentru numele Meu.»",
      "heb": "רַק אַתָּה לֹא תִבְנֶה הַבָּיִת כִּי אִם־בִּנְךָ הַיֹּצֵא מֵחֲלָצֶיךָ הוּא־יִבְנֶה הַבַּיִת לִשְׁמִי׃",
      "translit": "Rak ata lo tivne habayit ki im-bincha hayotze mehalatzecha hu-yivne habayit lișmi.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Însă nu tu vei construi Casa, ci fiul tău care va ieși dintre coapsele tale, el va construi Casa pentru numele Meu.»"
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -59003,7 +59067,11 @@
      "t": "DOMNUL Și-a împlinit cuvântul pe care l-a rostit și eu m-am ridicat în locul tatălui meu David și am stat pe tronul lui Israel, precum a vorbit DOMNUL, și am construit [azi] Casa pentru numele DOMNULUI, Dumnezeul lui Israel.",
      "heb": "וַיָּקֶם יְהוָה אֶת־דְּבָרוֹ אֲשֶׁר דִּבֵּר וָאָקֻם תַּחַת דָּוִד אָבִי וָאֵשֵׁב עַל־כִּסֵּא יִשְׂרָאֵל כַּאֲשֶׁר דִּבֶּר יְהוָה וָאֶבְנֶה הַבַּיִת לְשֵׁם יְהוָה אֱלֹהֵי יִשְׂרָאֵל׃",
      "translit": "Vayakem ADONAI et-devaro așer diber vaakum tahat David avi vaeșev al-kise Israël kaașer diber ADONAI vaevne habayit leșem ADONAI Elohei Israël.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "DOMNUL Și-a împlinit cuvântul pe care l-a rostit și eu m-am ridicat în locul tatălui meu David și am stat pe tronul lui Israel, precum a vorbit DOMNUL, și am construit [azi] Casa pentru numele DOMNULUI, Dumnezeul lui Israel."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -59041,11 +59109,13 @@
       {
        "t": "legământul",
        "w": "legământul",
-       "heb": "בְּרִית",
+       "heb": "בְּרִית",
        "translit": "berit",
        "strong": "H1285",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "legământul.",
+       "greek": "διαθήκη (diatheke)",
+       "greek_def_ro": "διαθήκη (diatheke) — legământ.",
        "dict_ro": "Berit — discursul lui Solomon se încheie exact unde a început, la Sinai/Horeb (v.9), închizând un cerc retoric: Templul nu e un monument nou, autonom, ci vasul construit ca să adăpostească un legământ vechi, deja existent, încheiat cu generația Exodului — Solomon își încadrează astfel întreaga domnie, și Templul însuși, ca o continuare fidelă, nu o inovație, a legământului sinaitic."
       },
       {
