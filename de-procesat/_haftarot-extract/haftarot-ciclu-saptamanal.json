@@ -71171,11 +71171,13 @@
       {
        "t": "Cuvântul DOMNULUI",
        "w": "Cuvântul DOMNULUI",
-       "heb": "דְבַר־יְהוָה",
-       "translit": "devar-ADONAI",
+       "heb": "דְּבַר",
+       "translit": "devar",
        "strong": "H1697",
-       "pos": "substantiv, masculin singular, în construcție + nume divin",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "cuvântul DOMNULUI.",
+       "greek": "λόγος Κυρίου (logos Kyriou)",
+       "greek_def_ro": "λόγος Κυρίου (logos Kyriou) — cuvântul DOMNULUI.",
        "dict_ro": "Devar ADONAI — profeția vine în al zecelea an al lui Țedekia, când Ieremia era închis în curtea temniței pentru că prevestise căderea Ierusalimului (32:1-5). Rashi observă că versetul reia firul întrerupt: Scriptura a explicat mai întâi de ce fusese închis profetul, apoi revine să spună care a fost cuvântul primit; Metzudat David precizează la fel că, după lunga descriere a asediului, textul se întoarce la cuvântul DOMNULUI."
       },
       {
@@ -71221,12 +71223,14 @@
       {
        "t": "dreptul de răscumpărare",
        "w": "dreptul de răscumpărare",
-       "heb": "מִשְׁפַּט הַגְּאֻלָּה",
-       "translit": "mișpat hagheula",
+       "heb": "הַגְּאֻלָּה",
+       "translit": "hagula",
        "strong": "H1353",
-       "pos": "substantiv, masculin singular, în construcție + substantiv, feminin singular, cu articol",
+       "pos": "substantiv, feminin singular",
        "def_ro": "dreptul (datoria) rudei de a răscumpăra.",
-       "dict_ro": "Gheula — răscumpărarea pământului de către ruda cea mai apropiată, ca proprietatea familiei să nu treacă la străini: „dacă fratele tău sărăcește și vinde din moșia lui, ruda lui cea mai apropiată să vină și să răscumpere ce a vândut fratele său” (Levitic 25:25). Este chiar legea din pericopa Behar, de aici legătura haftarei cu pericopa; Metzudat David trimite și la Rut 4:3-4, unde Boaz îi propune răscumpărătorului „ogorul lui Elimelec”."
+       "greek": "κρίσις παραλαβεῖν εἰς κτῆσιν (krisis paralabein eis ktesin)",
+       "greek_def_ro": "κρίσις παραλαβεῖν εἰς κτῆσιν (krisis paralabein eis ktesin) — dreptul de a dobândi în posesie.",
+       "dict_ro": "Gheula — răscumpărarea pământului de către ruda cea mai apropiată, ca proprietatea familiei să nu treacă la străini: „dacă fratele tău sărăcește și vinde din moșia lui, ruda lui cea mai apropiată să vină și să răscumpere ce a vândut fratele său” (Leviticul 25:25). Este chiar legea din pericopa Behar, de aici legătura haftarei cu pericopa; Metzudat David trimite și la Rut 4:3-4, unde Boaz îi propune răscumpărătorului „ogorul lui Elimelec”."
       },
       {
        "t": " ca să cumperi.’»"
@@ -71285,11 +71289,12 @@
       {
        "t": "dreptul de moștenire",
        "w": "dreptul de moștenire",
-       "heb": "מִשְׁפַּט הַיְרֻשָּׁה",
-       "translit": "mișpat haierușa",
+       "heb": "הַיְרֻשָּׁה",
+       "translit": "hairușa",
        "strong": "H3425",
-       "pos": "substantiv, masculin singular, în construcție + substantiv, feminin singular, cu articol",
+       "pos": "substantiv, feminin singular",
        "def_ro": "dreptul de a moșteni.",
+       "diff_ro": "Septuaginta nu redă separat „dreptul de moștenire\" — grecescul are doar „κρίμα κτήσασθαι αὐτόν, καὶ σὺ πρεσβύτερος\" („dreptul să-l dobândești, și tu ești cel mai vârstnic\"), înlocuind distincția ebraică dintre dreptul de moștenire și cel de răscumpărare cu mențiunea statutului de frate mai mare.",
        "dict_ro": "Ieruța — moștenirea; Hanamel invocă două drepturi deodată: Ieremia e moștenitorul firesc al ogorului și, tot ca rudă, cel care îl poate răscumpăra. Radak și Metzudat David explică încheierea „și am cunoscut că fusese cuvântul DOMNULUI”: abia când vărul a venit întocmai cum i se spusese, profetul a înțeles că cumpărarea, oricât de absurdă ar părea în mijlocul asediului, este o poruncă divină."
       },
       {
@@ -71341,11 +71346,13 @@
       {
        "t": "șapte sicli",
        "w": "șapte sicli",
-       "heb": "שִׁבְעָה שְׁקָלִים",
+       "heb": "שִׁבְעָה שְׁקָלִים",
        "translit": "șiva șekalim",
        "strong": "H8255",
        "pos": "numeral + substantiv, masculin plural",
        "def_ro": "șapte sicli (unitate de greutate pentru argint).",
+       "greek": "ἑπτὰ σίκλοι (hepta sikloi)",
+       "greek_def_ro": "ἑπτὰ σίκλοι (hepta sikloi) — șapte sicli.",
        "dict_ro": "Șekel — unitatea de bază a greutății pentru metale prețioase, de la șakal, „a cântări”: prețul nu se număra în monede, ci se cântărea. Metzudat David și Radak, după Targum Ionatan, citesc „șapte” ca șapte mine și „zece” ca zece sela de argint — o sumă mult mai mare decât sugerează traducerea literală, potrivită pentru un ogor întreg."
       },
       {
@@ -71398,11 +71405,13 @@
       {
        "t": "l-am pecetluit",
        "w": "l-am pecetluit",
-       "heb": "וָאֶחְתֹּם",
+       "heb": "וָאֶחְתֹּם",
        "translit": "vaehtom",
        "strong": "H2856",
-       "pos": "verb, qal, imperfect consecutiv, persoana I singular",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "am pecetluit, am sigilat.",
+       "greek": "σφραγίζομαι (sphragizomai)",
+       "greek_def_ro": "σφραγίζομαι (sphragizomai) — a pecetlui.",
        "dict_ro": "Hatam — „a pecetlui”, a închide un document cu sigiliul, ca să nu poată fi modificat. Descrierea e cea a unei vânzări juridice complete din Antichitatea iudaică: act scris, pecetluire, martori, argint cântărit pe balanță. Radak explică repetarea cântăririi (deja pomenită în v. 9): de data aceasta s-a făcut înaintea martorilor, cu greutate exactă, ca să nu poată apărea mai târziu vreo ceartă asupra plății."
       },
       {
@@ -71457,11 +71466,12 @@
       {
        "t": "cel nepecetluit",
        "w": "cel nepecetluit",
-       "heb": "הַגָּלוּי",
-       "translit": "hagaluy",
+       "heb": "הַגָּלוּי",
+       "translit": "hagalui",
        "strong": "H1540",
-       "pos": "verb, qal, participiu pasiv, masculin singular, cu articol",
+       "pos": "verb, qal participiu pasiv",
        "def_ro": "cel deschis, nesigilat.",
+       "diff_ro": "Septuaginta are „τὸ ἀνεγνωσμένον\" („cel citit\"), nu „cel nepecetluit/descoperit\" (hagalui) ca în ebraică — o nuanță diferită, poate legată de ideea că actul deschis putea fi citit public.",
        "dict_ro": "Galuy — „descoperit, deschis”, de la gala, „a dezveli”. Talmudul (Bava Batra 160b) vede în acest verset temeiul biblic al celor două feluri de acte: cel obișnuit („actul de vânzare”) și cel legat sau pliat („cel pecetluit”), iar „cel deschis” e partea desfăcută a actului pliat; „porunca și decretele” sunt tocmai regulile care le deosebesc (numărul martorilor, locul semnăturilor). Rashi adaugă că actul deschis era confirmat de judecători, ca vânzarea să rămână publică și după moartea martorilor."
       },
       {
@@ -71515,11 +71525,13 @@
       {
        "t": "Baruh",
        "w": "Baruh",
-       "heb": "בָּרוּךְ",
-       "translit": "Baruh",
+       "heb": "בָּרוּךְ",
+       "translit": "baruh",
        "strong": "H1263",
-       "pos": "substantiv propriu, masculin",
+       "pos": "nume propriu",
        "def_ro": "Baruh („binecuvântat”), scribul lui Ieremia.",
+       "greek": "Βαρούχ (Barouch)",
+       "greek_def_ro": "Βαρούχ (Barouch) — Baruh.",
        "dict_ro": "Baruh, fiul lui Neria — scribul și ucenicul credincios al lui Ieremia, cel care îi va scrie profețiile pe sul (Ieremia 36:4) și care îl va însoți în exilul din Egipt (Ieremia 43:6); fratele lui, Seraia, era slujbaș la curtea regelui (Ieremia 51:59). Rashi se oprește asupra unei dificultăți: Hanamel e numit aici „unchiul meu”, deși mai sus era „fiul unchiului” — poate erau doi, sau poate a fost deodată și unchi și văr, deși un asemenea mod de exprimare nu apare nicăieri în Scriptură."
       },
       {
@@ -71575,11 +71587,13 @@
       {
        "t": "l-am instruit",
        "w": "l-am instruit",
-       "heb": "וָאֲצַוֶּה",
+       "heb": "וָאֲצַוֶּה",
        "translit": "vaațave",
        "strong": "H6680",
-       "pos": "verb, piel, imperfect consecutiv, persoana I singular",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "am poruncit, am dat instrucțiuni.",
+       "greek": "συντάσσω (syntasso)",
+       "greek_def_ro": "συντάσσω (syntasso) — a instrui, a porunci.",
        "dict_ro": "Țiva — „a porunci, a rândui”, aceeași rădăcină ca mițva, poruncă. Instrucțiunea e dată „sub ochii lor” — ai martorilor și ai iudeilor din curtea temniței —, pentru că gestul profetic trebuia să fie public: toți cei care îl vedeau pe Ieremia păstrând actul pentru „vreme lungă” primeau astfel, fără cuvinte, mesajul că exilul va avea un sfârșit."
       },
       {
@@ -71616,11 +71630,13 @@
       {
        "t": "vas de lut",
        "w": "vas de lut",
-       "heb": "כְלִי־חָרֶשׂ",
-       "translit": "hli-hares",
+       "heb": "בִּכְלִי חָרֶשׂ",
+       "translit": "bihli hares",
        "strong": "H2789",
-       "pos": "substantiv, masculin singular, în construcție + substantiv",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
        "def_ro": "vas de pământ ars, de lut.",
+       "greek": "ἀγγεῖον ὀστράκινον (angeion ostrakinon)",
+       "greek_def_ro": "ἀγγεῖον ὀστράκινον (angeion ostrakinon) — vas de lut.",
        "dict_ro": "Heres — lutul ars, ceramica; Metzudat David explică de ce actele se pun într-un vas de lut: acesta păstrează ce e pus înăuntru ferit de putrezire. Descoperirile de la Qumran, unde sulurile au supraviețuit aproape două milenii tocmai în vase de lut, confirmă practica. Rashi citește în porunca aceasta mesajul: să nu crezi că le ascund degeaba, fiindcă toți merg în exil — Radak adaugă că actele trebuie să dăinuie „până la întoarcerea exilaților”."
       },
       {
@@ -71674,11 +71690,13 @@
       {
        "t": "Se vor mai cumpăra",
        "w": "Se vor mai cumpăra",
-       "heb": "עוֹד יִקָּנוּ",
-       "translit": "od yikanu",
+       "heb": "יִקָּנוּ",
+       "translit": "ikanu",
        "strong": "H7069",
-       "pos": "adverb + verb, nifal, imperfect, persoana a III-a plural",
+       "pos": "verb, nifal imperfect",
        "def_ro": "iarăși vor fi cumpărate.",
+       "greek": "κτάομαι (ktaomai)",
+       "greek_def_ro": "κτάομαι (ktaomai) — a se dobândi, a se cumpăra.",
        "dict_ro": "Kana — „a cumpăra, a dobândi”; la forma pasivă, „vor fi cumpărate”. Acesta e miezul haftarei: în ajunul distrugerii, când ogoarele din jurul Ierusalimului erau deja în mâinile babilonienilor, DOMNUL poruncește o cumpărare ca semn că viața economică obișnuită va reveni. Metzudat David explică: să nu crezi că actul și vasul de lut sunt deșertăciune pentru că pământul va fi al caldeenilor — el e semn că Israel se va întoarce."
       },
       {
@@ -71728,11 +71746,13 @@
       {
        "t": "M-am rugat",
        "w": "M-am rugat",
-       "heb": "וָאֶתְפַּלֵּל",
-       "translit": "vaetpalel",
+       "heb": "וָאֶתְפַּלֵּל",
+       "translit": "vaetpalēl",
        "strong": "H6419",
-       "pos": "verb, hitpael, imperfect consecutiv, persoana I singular",
+       "pos": "verb, hitpael imperfect consecutiv",
        "def_ro": "m-am rugat.",
+       "greek": "προσεύχομαι (proseuchomai)",
+       "greek_def_ro": "προσεύχομαι (proseuchomai) — a se ruga.",
        "dict_ro": "Hitpalel — „a se ruga”, forma reflexivă a rădăcinii palal, „a judeca, a hotărî”: rugăciunea ebraică e, etimologic, o „judecare de sine” înaintea lui Dumnezeu. Rugăciunea care urmează (32:17-25) e una dintre cele mai lungi din Ieremia: profetul ascultă porunca, dar își pune înaintea lui Dumnezeu nedumerirea — cum să cumpere un ogor într-o cetate care e pe cale să cadă?"
       },
       {
@@ -71778,11 +71798,13 @@
       {
        "t": "niciun lucru nu este ascuns",
        "w": "niciun lucru nu este ascuns",
-       "heb": "לֹא־יִפָּלֵא ... כָּל־דָּבָר",
-       "translit": "lo-yipale ... kol-davar",
+       "heb": "יִפָּלֵא",
+       "translit": "ipalē",
        "strong": "H6381",
-       "pos": "negație + verb, nifal, imperfect",
+       "pos": "verb, nifal imperfect",
        "def_ro": "nimic nu e prea greu, nimic nu e ascuns.",
+       "greek": "ἀποκρύπτομαι (apokryptomai)",
+       "greek_def_ro": "ἀποκρύπτομαι (apokryptomai) — a fi ascuns.",
        "dict_ro": "Pala — „a fi minunat, a fi prea greu, a fi ascuns”; aceeași expresie o spune îngerul Sarei: „este oare ceva prea greu pentru DOMNUL?” (Geneza 18:14). Rashi o citește ca nedumerire: nimic nu-Ți e ascuns, deci știi că suntem sortiți exilului — de ce mi-ai spus să cumpăr un ogor? Iar DOMNUL îi va răspunde cu propriile lui cuvinte în 32:27: „există oare vreun lucru ascuns de Mine?”."
       },
       {
@@ -71842,12 +71864,14 @@
       {
        "t": "Dumnezeul cel mare și puternic",
        "w": "Dumnezeul cel mare și puternic",
-       "heb": "הָאֵל הַגָּדוֹל הַגִּבּוֹר",
-       "translit": "haEl hagadol hagibor",
+       "heb": "הָאֵל",
+       "translit": "haēl",
        "strong": "H410",
-       "pos": "substantiv cu articol + adjective",
+       "pos": "substantiv, masculin singular",
        "def_ro": "Dumnezeul cel mare, cel puternic.",
-       "dict_ro": "HaEl hagadol hagibor — Moise spusese „Dumnezeul cel mare, puternic și înfricoșător” (Deuteronom 10:17). Talmudul (Yoma 69b) observă că Ieremia a omis „înfricoșător”: a spus „neamurile petrec în Sanctuarul Lui — unde îi sunt lucrările înfricoșătoare?”, iar Daniel a omis „puternic”, văzând copiii lui Dumnezeu în robie; bărbații Marii Adunări au readus toate cele trei atribute, spunând că tocmai răbdarea față de cei răi este tăria Lui. De aici formula din rugăciunea zilnică Amida."
+       "greek": "Θεὸς μέγας καὶ ἰσχυρός (Theos megas kai ischyros)",
+       "greek_def_ro": "Θεὸς μέγας καὶ ἰσχυρός (Theos megas kai ischyros) — Dumnezeul cel mare și puternic.",
+       "dict_ro": "HaEl hagadol hagibor — Moise spusese „Dumnezeul cel mare, puternic și înfricoșător” (Deuteronomul 10:17). Talmudul (Yoma 69b) observă că Ieremia a omis „înfricoșător”: a spus „neamurile petrec în Sanctuarul Lui — unde îi sunt lucrările înfricoșătoare?”, iar Daniel a omis „puternic”, văzând copiii lui Dumnezeu în robie; bărbații Marii Adunări au readus toate cele trei atribute, spunând că tocmai răbdarea față de cei răi este tăria Lui. De aici formula din rugăciunea zilnică Amida."
       },
       {
        "t": ", numele Său este DOMNUL Oștirilor,"
@@ -71900,11 +71924,13 @@
       {
        "t": "mare în sfat",
        "w": "mare în sfat",
-       "heb": "גְּדֹל הָעֵצָה",
-       "translit": "ghedol haeța",
+       "heb": "גְּדֹל הָעֵצָה",
+       "translit": "gedol haēța",
        "strong": "H6098",
-       "pos": "adjectiv, în construcție + substantiv, feminin singular, cu articol",
+       "pos": "adjectiv, masculin singular + substantiv, feminin singular",
        "def_ro": "mare în planuri, mare în înțelepciune.",
+       "greek": "μεγάλη βουλή (megale boule)",
+       "greek_def_ro": "μεγάλη βουλή (megale boule) — mare sfat.",
        "dict_ro": "Eța — sfatul, planul; „mare în sfat și măreț în întreprindere” pune alături planul divin și împlinirea lui. Metzudat David explică încheierea: Dumnezeu judecă omul nu doar după faptele lui, ci și după „rodul” lor — urmările pe care omul nu le-a urmărit, dar pentru care răspunde totuși. Radak adaugă că „ochii deschiși spre căile oamenilor” răspund celor care spuneau „DOMNUL nu ne vede” (Ezechiel 8:12)."
       },
       {
@@ -71961,12 +71987,14 @@
       {
        "t": "semne și minuni",
        "w": "semne și minuni",
-       "heb": "אוֹתוֹת וּמֹפְתִים",
+       "heb": "אֹתוֹת וּמֹפְתִים",
        "translit": "otot umoftim",
        "strong": "H4159",
-       "pos": "substantiv, masculin plural + conjuncție + substantiv, masculin plural",
+       "pos": "substantiv, masculin și feminin plural + substantiv, masculin plural",
        "def_ro": "semne și minuni.",
-       "dict_ro": "Otot umoftim — perechea clasică pentru minunile din Egipt (Deuteronom 6:22). Rashi și Radak aduc un midraș despre „în Israel și printre oameni”: aceeași minune a lucrat deodată spre bine pentru Israel și spre rău pentru egipteni — „norul era întuneric [pentru unii] și lumina noaptea [pentru ceilalți]” (Exod 14:20). Metzudat David citește la fel: într-o singură lucrare, lumină pentru unii și întuneric pentru alții."
+       "greek": "σημεῖα καὶ τέρατα (semeia kai terata)",
+       "greek_def_ro": "σημεῖα καὶ τέρατα (semeia kai terata) — semne și minuni.",
+       "dict_ro": "Otot umoftim — perechea clasică pentru minunile din Egipt (Deuteronomul 6:22). Rashi și Radak aduc un midraș despre „în Israel și printre oameni”: aceeași minune a lucrat deodată spre bine pentru Israel și spre rău pentru egipteni — „norul era întuneric [pentru unii] și lumina noaptea [pentru ceilalți]” (Exodul 14:20). Metzudat David citește la fel: într-o singură lucrare, lumină pentru unii și întuneric pentru alții."
       },
       {
        "t": " în țara Egiptului, [care sunt cunoscute] până în ziua de astăzi, și în Israel și în [ochii] omului, și care Ți-ai făcut un renume până în ziua aceasta"
@@ -72022,12 +72050,13 @@
       {
        "t": "cu mare înfricoșare",
        "w": "cu mare înfricoșare",
-       "heb": "וּבְמוֹרָא גָּדוֹל",
-       "translit": "uvmora gadol",
+       "heb": "וּבְמוֹרָא",
+       "translit": "uvmora",
        "strong": "H4172",
-       "pos": "conjuncție + prepoziție + substantiv + adjectiv",
+       "pos": "substantiv, masculin singular",
        "def_ro": "cu mare groază, cu fapte înfricoșătoare.",
-       "dict_ro": "Mora — frica, groaza, dar și faptele care o stârnesc. Versetul reproduce aproape cuvânt cu cuvânt formula din Deuteronom 26:8, recitată de cel ce aducea pârga la Templu și păstrată în Hagada de Pesah („cu mână tare, cu braț întins, cu mare înfricoșare, cu semne și minuni”); Hagada o interpretează drept „descoperirea Prezenței divine”. Metzudat David explică „înfricoșarea” ca spaima pe care Dumnezeu a pus-o asupra Egiptului."
+       "diff_ro": "Textul grecesc disponibil pentru acest verset se termină la „braț înălțat\", fără corespondent pentru „cu mare înfricoșare\" (u-vemora gadol) — nu există traducere verificabilă pentru acest ultim detaliu.",
+       "dict_ro": "Mora — frica, groaza, dar și faptele care o stârnesc. Versetul reproduce aproape cuvânt cu cuvânt formula din Deuteronomul 26:8, recitată de cel ce aducea pârga la Templu și păstrată în Hagada de Pesah („cu mână tare, cu braț întins, cu mare înfricoșare, cu semne și minuni”); Hagada o interpretează drept „descoperirea Prezenței divine”. Metzudat David explică „înfricoșarea” ca spaima pe care Dumnezeu a pus-o asupra Egiptului."
       },
       {
        "t": ","
@@ -72083,12 +72112,14 @@
       {
        "t": "în care curge lapte și miere",
        "w": "în care curge lapte și miere",
-       "heb": "זָבַת חָלָב וּדְבָשׁ",
-       "translit": "zavat halav udvaș",
+       "heb": "זָבַת",
+       "translit": "zavat",
        "strong": "H2100",
-       "pos": "verb, qal, participiu, feminin singular, în construcție + substantive",
+       "pos": "verb, qal participiu",
        "def_ro": "din care curge lapte și miere.",
-       "dict_ro": "Zava — „a curge, a picura”; „țara în care curge lapte și miere” e formula făgăduinței din Exod 3:8. Metzudat David o explică la propriu: laptele picură din ugerele vitelor, care pasc pășune grasă, iar din curmali picură „mierea”, adică siropul de curmale. Aici, la mijlocul rugăciunii, formula are o amărăciune aparte: țara făgăduinței e tocmai cea pe care cetatea asediată e pe cale s-o piardă."
+       "greek": "ῥέω γάλα καὶ μέλι (rheo gala kai meli)",
+       "greek_def_ro": "ῥέω γάλα καὶ μέλι (rheo gala kai meli) — care curge lapte și miere.",
+       "dict_ro": "Zava — „a curge, a picura”; „țara în care curge lapte și miere” e formula făgăduinței din Exodul 3:8. Metzudat David o explică la propriu: laptele picură din ugerele vitelor, care pasc pășune grasă, iar din curmali picură „mierea”, adică siropul de curmale. Aici, la mijlocul rugăciunii, formula are o amărăciune aparte: țara făgăduinței e tocmai cea pe care cetatea asediată e pe cale s-o piardă."
       },
       {
        "t": "."
@@ -72140,11 +72171,13 @@
       {
        "t": "Tu ai făcut să li se întâmple",
        "w": "Tu ai făcut să li se întâmple",
-       "heb": "וַתַּקְרֵא",
-       "translit": "vatakre",
+       "heb": "וַתַּקְרֵא",
+       "translit": "vatakrē",
        "strong": "H7122",
-       "pos": "verb, hifil, imperfect consecutiv, persoana a II-a masculin singular",
+       "pos": "verb, hifil imperfect consecutiv",
        "def_ro": "ai făcut să vină asupra lor.",
+       "greek": "ποιέω συμβῆναι (poieo symbenai)",
+       "greek_def_ro": "ποιέω συμβῆναι (poieo symbenai) — ai făcut să li se întâmple.",
        "dict_ro": "Kara (cu alef în loc de he) — „a întâmpina, a se întâmpla”, de unde mikre, „întâmplare”. Radak observă că forma e scrisă cu alef și vede aici o intenție: răul venit asupra lor nu e o întâmplare oarbă, venită de la sine, ci Dumnezeu Însuși l-a făcut să vină. Metzudat David leagă cauza de efect: pentru că n-au ascultat, le-ai adus nenorocirea descrisă în versetul următor."
       },
       {
@@ -72205,11 +72238,12 @@
       {
        "t": "pe rampe înălțate de pământ",
        "w": "pe rampe înălțate de pământ",
-       "heb": "הַסֹּלְלוֹת",
-       "translit": "hasolelot",
+       "heb": "הַסֹּלְלוֹת",
+       "translit": "hasollot",
        "strong": "H5550",
-       "pos": "substantiv, feminin plural, cu articol",
+       "pos": "substantiv, feminin plural",
        "def_ro": "valurile de pământ ale asediului, rampele.",
+       "diff_ro": "Septuaginta are „ὄχλος\" („o mulțime/gloată\"), nu „rampele de asediu\" (sollot) ca în ebraică — un termen complet diferit pentru acest detaliu militar tehnic.",
        "dict_ro": "Solela — movila sau rampa de pământ înălțată lângă zidul unei cetăți asediate, ca atacatorii să poată urca pe ea; Metzudat Țion o descrie ca „tell de țărână vărsat în fața cetății, ca să se urce pe ea”. Radak aduce și o altă lectură: mașinile care aruncau pietre în ziduri. Prin „și Tu vezi asta!”, profetul Îl ia pe Dumnezeu martor: cuvântul de pedeapsă s-a împlinit sub ochii tuturor."
       },
       {
@@ -72271,10 +72305,12 @@
        "t": "numește martori",
        "w": "numește martori",
        "heb": "וְהָעֵד עֵדִים",
-       "translit": "vehaed edim",
+       "translit": "vehaēd ēdim",
        "strong": "H5707",
-       "pos": "verb, hifil, imperativ + substantiv, masculin plural",
+       "pos": "verb, hifil imperativ + substantiv, masculin plural",
        "def_ro": "cheamă martori.",
+       "greek": "ἐπιμαρτύρομαι μάρτυρας (epimartyromai martyras)",
+       "greek_def_ro": "ἐπιμαρτύρομαι μάρτυρας (epimartyromai martyras) — numește martori.",
        "dict_ro": "Ed — martorul; profetul își încheie rugăciunea punând alături porunca și realitatea: „cumpără și cheamă martori — dar cetatea a fost dată caldeenilor!”. Rashi o rezumă: ce folos îmi mai e ogorul? Metzudat David precizează o nuanță importantă: deși Ieremia însuși îi spusese lui Baruh că e un semn al întoarcerii (32:15), acum vorbește din gândurile inimii lui, căci profeția încă nu-i fusese descoperită pe deplin — răspunsul vine în versetele următoare."
       },
       {
@@ -72322,11 +72358,13 @@
       {
        "t": "cuvântul DOMNULUI",
        "w": "cuvântul DOMNULUI",
-       "heb": "דְבַר־יְהוָה",
-       "translit": "devar-ADONAI",
+       "heb": "דְּבַר",
+       "translit": "devar",
        "strong": "H1697",
-       "pos": "substantiv, masculin singular, în construcție + nume divin",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "cuvântul DOMNULUI.",
+       "greek": "λόγος Κυρίου (logos Kyriou)",
+       "greek_def_ro": "λόγος Κυρίου (logos Kyriou) — cuvântul DOMNULUI.",
        "dict_ro": "Devar ADONAI — răspunsul divin vine imediat după rugăciune. Din punct de vedere liturgic, haftara se oprește aici, cu primul verset al răspunsului (32:27), iar comunitățile Chabad se opresc chiar mai devreme, după 32:22; continuarea capitolului (32:28-44) dezvoltă promisiunea: pedeapsa va veni, dar DOMNUL îi va aduna din nou și se vor cumpăra ogoare „în ținutul lui Beniamin și în împrejurimile Ierusalimului” (32:44)."
       },
       {
@@ -72363,11 +72401,13 @@
       {
        "t": "Dumnezeul tuturor făpturilor",
        "w": "Dumnezeul tuturor făpturilor",
-       "heb": "אֱלֹהֵי כָּל־בָּשָׂר",
-       "translit": "Elohei kol-basar",
+       "heb": "כָּל בָּשָׂר",
+       "translit": "kal basar",
        "strong": "H1320",
-       "pos": "substantiv, în construcție + substantiv",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
        "def_ro": "Dumnezeul oricărei făpturi (a oricărei cărni).",
+       "greek": "Θεὸς πάσης σαρκός (Theos pases sarkos)",
+       "greek_def_ro": "Θεὸς πάσης σαρκός (Theos pases sarkos) — Dumnezeul a tot trupul.",
        "dict_ro": "Kol basar — „toată carnea”, adică orice făptură vie; titlul apare în Tora în rugăciunea lui Moise, „Dumnezeul duhurilor oricărei făpturi” (Numeri 16:22; 27:16). Răspunsul lui Dumnezeu reia chiar cuvintele profetului din 32:17 („niciun lucru nu este ascuns de Tine”): da, știu că cetatea va cădea, spune Radak, și totuși ți-am poruncit să cumperi ogorul, ca să le fie mângâiere că se vor întoarce din exil și vor cumpăra iarăși ogoare și case."
       },
       {
