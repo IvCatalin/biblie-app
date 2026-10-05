@@ -93,10 +93,22 @@ Geneza 1 este capitolul-model. Fiecare capitol viitor trebuie să ajungă la ace
 - Fidela adăugată doar dacă există sursă confirmată — nu se inventează
 - Dacă un verset n-are sursă confirmată pentru Fidela, rămâne fără ea
 
-### 2. Panou lexical per cuvânt (dropdown) — câmpuri exacte din `tokens[]`
+### 2. Panou lexical per cuvânt (cardul `#word-popover`) — câmpuri exacte din `tokens[]`
 Țintă: ~9,9 cuvinte tagate per verset, în medie.
 
-Câmpurile exacte citite de `showWordPopover()` în `biblie-demo.html`, în ordinea reală de afișare: `heb`, `translit`, `strong`, `pos` → **`def_ro`** (definiția principală afișată — NU câmpul `def`, care e nefolosit/legacy) → apoi, în panoul extins (fiecare doar dacă are conținut): `greek` (etichetă „LXX (Septuaginta)"), `greek_def_ro` (etichetă „Definiție greacă"), `diff_ro` (etichetă „Diferență ebraică / greacă"), `dict_ro` (etichetă „Dicționar biblic").
+**Aspect vizual — obligatoriu, identic în tot `biblie-demo.html`** (același `#word-popover`/`showWordPopover()` e folosit și de tab-ul Biblia, și de Bibliotecă/Haftarot — un singur loc de cod, nu se duplică niciodată):
+- Card tip pergament/kraft (`#C9A36A`, textură granulată SVG, colțuri rotunjite 26px), nu panou simplu albastru-întunecat
+- Chenar interior (`.wp-frame`) — **bordură reală pe un bloc care crește cu conținutul** (nu decor `position:absolute` cu înălțime fixă — asta a tăiat literal textul la capitole lungi, bug real întâlnit și reparat)
+- Ornament de colț: „Corner Flourish 3" de Arvin61r58 (CC0 1.0, Openclipart.org, via Wikimedia Commons), recolorat bleumarin — **niciodată desenat manual** (patru tentative de desen manual au fost toate respinse; vezi memoria `replica-exacta-referinta-vizuala`)
+- Medalion circular (inele + raze + steluțe, bleumarin `#16294a`) cu ebraica (`heb`) **aurie** (`#f0c419`, bold) și transliterarea (`translit`) **bleumarin, bold, italic**, ambele centrate în medalion
+- Titlul cardului = `tok.t`, curățat de ghilimele și punctuație rămase la marginea frazei-token (ex. „început," → „început") — bleumarin, bold
+- `strong` (numărul Strong's) NU se arată vizual pe card (ascuns, `display:none` — ușor reversibil); `pos` (partea de vorbire) se arată, sub medalion, maro, italic
+- Tot „textul propriu-zis" — `def_ro`, `dict_ro`, `diff_ro`+`greek_def_ro`, termenul grecesc — e **maro** (`#3A2614`), aceeași mărime (15.5px) și greutate (600/bold) pentru toate, ca să se citească la fel de clar
+- Etichetele de secțiune (LXX, Diferență ebraică/greacă, Dicționar biblic) — bleumarin, uppercase, bold
+- Fonturi: EB Garamond (latină), Noto Serif Hebrew (ebraică)
+- La fiecare deschidere, scrollul panoului se resetează la 0 (nu rămâne de la cuvântul anterior)
+
+Câmpurile exacte citite de `showWordPopover()`, în ordinea reală de afișare: `heb`, `translit`, `strong` (nefolosit vizual), `pos` → **`def_ro`** (definiția principală afișată — NU câmpul `def`, care e nefolosit/legacy) → apoi, în panoul extins (fiecare doar dacă are conținut): `greek` (etichetă „LXX (Septuaginta)" — pe același rând cu traducerea românească scurtă, extrasă automat din `greek_def_ro` prin regex, ex. „ὁ Θεός (ho Theos) — Dumnezeu"), `diff_ro` **împreună cu** `greek_def_ro` complet, sub o singură etichetă „Diferență ebraică / greacă" (apare dacă există oricare din cele două câmpuri — **nu mai există o secțiune separată „Definiție greacă"**), `dict_ro` (etichetă „Dicționar biblic").
 
 `dict_ro` e acum **obligatoriu** la fiecare cuvânt tagat din fiecare capitol viitor, la nivelul Genezei 1:
 - NU e traducere literală BDB cu sensuri numerotate (1)(2)(3)
