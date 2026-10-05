@@ -56765,10 +56765,12 @@
        "t": "Hiram",
        "w": "Hiram",
        "heb": "חִירָם",
-       "translit": "Hiram",
+       "translit": "hiram",
        "strong": "H2438",
        "pos": "nume propriu",
        "def_ro": "Hiram — numele meșterului din Tir.",
+       "greek": "Χιράμ (Chiram)",
+       "greek_def_ro": "Χιράμ (Chiram) — Hiram.",
        "dict_ro": "Hiram (aici, meșterul artizan, de distins de Hiram regele Tirului din 5:1) — omonimie remarcată de comentatori: doi bărbați cu același nume, ambii esențiali pentru construcția Templului, unul furnizând materialele și priceperea politică, celălalt priceperea tehnică efectivă. Numele are probabil sensul „fratele meu e înălțat”, potrivit statutului lui privilegiat la curtea lui Solomon."
       },
       {
@@ -56815,11 +56817,13 @@
        "t": "înțelepciune",
        "w": "înțelepciune",
        "heb": "הַחָכְמָה",
-       "translit": "ha-hochma",
+       "translit": "hahahma",
        "strong": "H2451",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "înțelepciune.",
-       "dict_ro": "Hochma — același termen folosit pentru darul special dat lui Bețalel la construcția Cortului (Exod 31:3, „l-am umplut cu duhul lui Dumnezeu, în înțelepciune, în pricepere și în cunoștință”); tripleta hochma-tevuna-daat e identică aici, textual, cu cea din Exod — paralelă deliberată, care așază munca lui Hiram la Templu în continuitate directă cu darul divin acordat lui Bețalel."
+       "greek": "τέχνη (techne)",
+       "greek_def_ro": "τέχνη (techne) — meșteșug, iscusință.",
+       "dict_ro": "Hochma — același termen folosit pentru darul special dat lui Bețalel la construcția Cortului (Exodul 31:3, „l-am umplut cu duhul lui Dumnezeu, în înțelepciune, în pricepere și în cunoștință”); tripleta hochma-tevuna-daat e identică aici, textual, cu cea din Exod — paralelă deliberată, care așază munca lui Hiram la Templu în continuitate directă cu darul divin acordat lui Bețalel."
       },
       {
        "t": ", talent și cunoaștere în întocmirea oricărei lucrări din aramă, și a venit la regele Solomon și a făcut toată lucrarea lui."
@@ -56880,10 +56884,13 @@
        "t": "stâlpi",
        "w": "stâlpi",
        "heb": "הָעַמּוּדִים",
-       "translit": "ha-amudim",
+       "translit": "haamudim",
        "strong": "H5982",
        "pos": "substantiv, masculin plural",
        "def_ro": "stâlpii.",
+       "greek": "στῦλος (stylos)",
+       "greek_def_ro": "στῦλος (stylos) — stâlp, coloană.",
+       "diff_ro": "Septuaginta are aici „περίμετρον τεσσαρεσκαίδεκα πήχεις\" („circumferința: PATRUSPREZECE coți\"), nu „doisprezece coți\" ca în ebraică — o divergență numerică reală; grecescul adaugă și un detaliu tehnic absent din acest verset ebraic, despre grosimea de patru degete și cavitatea stâlpului.",
        "dict_ro": "Amud — Rashi observă o discrepanță reală între înălțimea dată aici (optsprezece coți) și cea din relatarea paralelă din 2 Cronici 3:15 (treizeci și cinci de coți), pe care o explică prin faptul că cei treizeci și cinci de coți din Cronici reprezintă lungimea totală a metalului lucrat pentru amândoi stâlpii împreună (aproximativ dublul celor optsprezece, plus rotunjiri), nu înălțimea unui singur stâlp ridicat."
       },
       {
@@ -56935,6 +56942,8 @@
        "strong": "H3805",
        "pos": "substantiv, feminin plural",
        "def_ro": "capiteluri, coroane.",
+       "greek": "κεφαλή (ἐπίθεμα) (kephale (epithema))",
+       "greek_def_ro": "κεφαλή (ἐπίθεμα) (kephale (epithema)) — capitel, acoperitoare de vârf.",
        "dict_ro": "Hoteret — de la aceeași rădăcină ca hoter, „coroană”; ornamentul de la vârful stâlpilor, distinct de trupul lor drept, subliniind funcția pur decorativă (nu structurală) a acestor coloane — Iachin și Boaz nu susțineau nimic, stăteau libere, în fața Sălii Templului, ca simbol, nu ca element de arhitectură portantă."
       },
       {
@@ -56988,11 +56997,14 @@
       {
        "t": "rețele",
        "w": "rețele",
-       "heb": "שְׂבָכִים",
-       "translit": "sevachim",
+       "heb": "שְׂבָכָה",
+       "translit": "sevaha",
        "strong": "H7639",
-       "pos": "substantiv, masculin plural",
+       "pos": "substantiv, feminin singular",
        "def_ro": "rețele, plase.",
+       "greek": "δίκτυον (diktyon)",
+       "greek_def_ro": "δίκτυον (diktyon) — rețea, plasă.",
+       "diff_ro": "Septuaginta descrie mult mai simplu, doar „două plase\", omițând detaliile despre lănțișoarele împletite (gedilim, șarșerot) și numărul exact de șapte pentru fiecare capitel.",
        "dict_ro": "Sevacha — plasă decorativă de metal; Rashi o compară, ca formă, cu un tip de acoperitoare de cap folosită de femei în epoca lui, o imagine vizuală menită să ajute cititorul medieval să-și închipuie ornamentul, mai degrabă decât un termen tehnic biblic propriu-zis."
       },
       {
@@ -57046,12 +57058,14 @@
       {
        "t": "rodii",
        "w": "rodii",
-       "heb": "הָרִמֹּנִים",
-       "translit": "ha-rimonim",
+       "heb": "הָרִמֹּנִים",
+       "translit": "harimonim",
        "strong": "H7416",
        "pos": "substantiv, masculin plural",
        "def_ro": "rodiile.",
-       "dict_ro": "Rimon, „rodie” — motiv ornamental recurent la Templu, identic cu cel de pe poalele veșmântului marelui preot (Exod 28:33-34); rodia, fruct cu multe semințe, e asociată în tradiția evreiască ulterioară cu belșugul poruncilor (613, cifră tradițională legată popular de numărul semințelor unei rodii) — deși legătura aceasta numerică apare abia în surse rabinice mult mai târzii."
+       "greek": "ῥοά (rhoa)",
+       "greek_def_ro": "ῥοά (rhoa) — rodie.",
+       "dict_ro": "Rimon, „rodie” — motiv ornamental recurent la Templu, identic cu cel de pe poalele veșmântului marelui preot (Exodul 28:33-34); rodia, fruct cu multe semințe, e asociată în tradiția evreiască ulterioară cu belșugul poruncilor (613, cifră tradițională legată popular de numărul semințelor unei rodii) — deși legătura aceasta numerică apare abia în surse rabinice mult mai târzii."
       },
       {
        "t": "], de jur împrejurul fiecărei rețele, ca să acopere capitelurile din vârf cu rodii; și a făcut la fel pentru al doilea capitel."
@@ -57108,11 +57122,14 @@
       {
        "t": "trandafir",
        "w": "trandafir",
-       "heb": "שׁוּשַׁן",
+       "heb": "שׁוּשַׁן",
        "translit": "șușan",
        "strong": "H7799",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "crin, trandafir.",
+       "greek": "κρίνον (krinon)",
+       "greek_def_ro": "κρίνον (krinon) — crin.",
+       "diff_ro": "Termenul ebraic „șușan\" înseamnă literal „crin\", nu „trandafir\" — traducerea Rosen („trandafir\") e o alegere stilistică; Septuaginta („κρίνου\", crin) confirmă sensul literal original.",
        "dict_ro": "Șușan — floarea identificată de obicei cu crinul (lilium); e rădăcina numelui orașului Susa (Șușan ha-bira, „Susa, capitala”, cf. Estera 1:2), numit probabil după abundența acestei flori în regiune."
       },
       {
@@ -57166,10 +57183,11 @@
        "t": "două sute",
        "w": "două sute",
        "heb": "מָאתַיִם",
-       "translit": "matayim",
+       "translit": "mataim",
        "strong": "H3967",
-       "pos": "numeral, dual",
+       "pos": "numeral",
        "def_ro": "două sute.",
+       "diff_ro": "Septuaginta are aici un verset structurat complet diferit, despre o cornișă/grindă (μέλαθρον) peste stâlpi, fără mențiunea celor două sute de rodii din ebraică — una dintre cele mai mari divergențe de conținut din acest pasaj arhitectural.",
        "dict_ro": "Matayim — două sute de rodii pe fiecare capitel (deci patru sute în total, cf. 2 Cronici 4:13, unde suma apare explicit), dintre care doar o parte, aranjate pe rândul exterior vizibil, erau numărate separat ca „nouă sute șase” la 7:42 — detaliu tehnic al construcției pe care Rashi îl explică prin distincția dintre rodiile pe rândul vizibil dinspre exterior și cele ascunse dinspre stâlp."
       },
       {
@@ -57229,10 +57247,13 @@
        "t": "Iahin",
        "w": "Iahin",
        "heb": "יָכִין",
-       "translit": "Yachin",
+       "translit": "iahin",
        "strong": "H3199",
        "pos": "nume propriu",
        "def_ro": "Iachin — „El va întemeia”.",
+       "greek": "Ἰαχούμ (Iachoum)",
+       "greek_def_ro": "Ἰαχούμ (Iachoum) — Iahin (transliterare grecească variantă a numelui).",
+       "diff_ro": "Septuaginta are „Ἰαχούμ\", o formă de transliterare diferită de numele ebraic „Iachin\".",
        "dict_ro": "Yakhin, de la rădăcina kun, „a întemeia, a stabili” — Talmudul (Yoma 21b) și tradiția rabinică ulterioară citesc numele celor doi stâlpi împreună, ca o singură propoziție-program: Yakhin uvoaz, „El [DOMNUL] va întemeia [tronul lui David/Templul] cu tărie” — nu simple nume decorative, ci o promisiune dinastică turnată în aramă, la intrarea Sanctuarului."
       },
       {
@@ -57241,11 +57262,14 @@
       {
        "t": "Boaz",
        "w": "Boaz",
-       "heb": "בֹּעַז",
-       "translit": "Boaz",
+       "heb": "בֹּעַז",
+       "translit": "boaz",
        "strong": "H1162",
        "pos": "nume propriu",
        "def_ro": "Boaz — „în El e tărie”.",
+       "greek": "Βαάς (Baas)",
+       "greek_def_ro": "Βαάς (Baas) — Boaz (transliterare grecească variantă a numelui).",
+       "diff_ro": "Septuaginta are „Βαάς\", nu o transliterare mai apropiată de „Boaz\" ca în ebraică.",
        "dict_ro": "Bo-az, „în El [este] tărie” — completează propoziția-program începută de Iachin; numele coincide, notabil, cu cel al strămoșului lui David, Boaz din cartea Rut — coincidență pe care unii comentatori o leagă simbolic de promisiunea dinastică davidică aflată chiar la intrarea Templului construit de urmașul lui David, Solomon."
       },
       {
@@ -57287,7 +57311,11 @@
      "t": "Iar peste vârful stâlpilor se afla [un ornament] în formă de trandafir; și astfel s-a încheiat lucrarea stâlpilor.",
      "heb": "וְעַל רֹאשׁ הָעַמּוּדִים מַעֲשֵׂה שׁוֹשָׁן וַתִּתֹּם מְלֶאכֶת הָעַמּוּדִים׃",
      "translit": "Veal roș haamudim maase șoșan vatitom melechet haamudim.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Iar peste vârful stâlpilor se afla [un ornament] în formă de trandafir; și astfel s-a încheiat lucrarea stâlpilor."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -57335,12 +57363,14 @@
       {
        "t": "Marea",
        "w": "Marea",
-       "heb": "הַיָּם",
-       "translit": "ha-yam",
+       "heb": "הַיָּם",
+       "translit": "haiam",
        "strong": "H3220",
-       "pos": "substantiv, masculin, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "Marea — numele dat bazinului mare de aramă.",
-       "dict_ro": "Ha-yam, „Marea” — numele dat marelui bazin ritual, folosit de preoți pentru spălarea mâinilor și picioarelor (parale funcțional cu ligheanul din bronz al Cortului, Exod 30:18), numit metaforic „mare” datorită capacității uriașe. Faimosul pasaj talmudic din Eruvin 76b discută exact aceste măsurători — zece coți diametru, treizeci de coți circumferință — ca sursă a aproximării rabinice tradiționale a raportului dintre circumferință și diametru la exact 3:1."
+       "greek": "θάλασσα (thalassa)",
+       "greek_def_ro": "θάλασσα (thalassa) — mare (bazinul ritual turnat din aramă).",
+       "dict_ro": "Ha-yam, „Marea” — numele dat marelui bazin ritual, folosit de preoți pentru spălarea mâinilor și picioarelor (parale funcțional cu ligheanul din bronz al Cortului, Exodul 30:18), numit metaforic „mare” datorită capacității uriașe. Faimosul pasaj talmudic din Eruvin 76b discută exact aceste măsurători — zece coți diametru, treizeci de coți circumferință — ca sursă a aproximării rabinice tradiționale a raportului dintre circumferință și diametru la exact 3:1."
       },
       {
        "t": "” turnată, de zece coți de la o margine la cealaltă margine, rotundă de jur împrejur și având înălțimea de cinci coți, iar o sfoară cu lungimea de treizeci de coți o putea înconjura de jur împrejur."
@@ -57380,7 +57410,11 @@
      "t": "Sub marginea ei, de jur împrejur, erau ornamente în formă de ou, câte zece la fiecare cot, împodobind „Marea” de jur împrejur; ouăle erau pe două rânduri, turnate odată [cu „Marea”].",
      "heb": "וּפְקָעִים מִתַּחַת לִשְׂפָתוֹ סָבִיב סֹבְבִים אֹתוֹ עֶשֶׂר בָּאַמָּה מַקִּפִים אֶת־הַיָּם סָבִיב שְׁנֵי טוּרִים הַפְּקָעִים יְצֻקִים בִּיצֻקָתוֹ׃",
      "translit": "Ufkaim mitahat lisfato saviv sovevim oto eser baama makifim et-hayam saviv șenei turim hapekaim yetzukim bitzukato.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Sub marginea ei, de jur împrejur, erau ornamente în formă de ou, câte zece la fiecare cot, împodobind „Marea” de jur împrejur; ouăle erau pe două rânduri, turnate odată [cu „Marea”]."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -57433,11 +57467,13 @@
       {
        "t": "doisprezece boi",
        "w": "doisprezece boi",
-       "heb": "שְׁנֵי עָשָׂר בָּקָר",
-       "translit": "șenei asar bakar",
+       "heb": "שְׁנֵי בָּקָר",
+       "translit": "șenē bakar",
        "strong": "H1241",
-       "pos": "substantiv, masculin plural",
+       "pos": "numeral + substantiv, masculin și feminin singular",
        "def_ro": "doisprezece boi.",
+       "greek": "δώδεκα βόες (dodeka boes)",
+       "greek_def_ro": "δώδεκα βόες (dodeka boes) — doisprezece boi.",
        "dict_ro": "Bakar — cei doisprezece boi, câte trei spre fiecare punct cardinal, reprezintă simbolic cele douăsprezece triburi ale lui Israel susținând „Marea” purificării; regele Ahaz, generații mai târziu, a îndepărtat acest suport, punând „Marea” direct pe o bază de piatră, ca tribut plătit regelui Asiriei (2 Împărați 16:17) — un gest citit tradițional ca simbol al degradării spirituale a monarhiei, distrugând tocmai imaginea unității celor douăsprezece triburi."
       },
       {
@@ -57490,11 +57526,12 @@
       {
        "t": "două mii de bați",
        "w": "două mii de bați",
-       "heb": "אַלְפַּיִם בַּת",
+       "heb": "אַלְפַּיִם בַּת",
        "translit": "alpaim bat",
        "strong": "H1324",
-       "pos": "substantiv, feminin, cu numeral",
+       "pos": "numeral + substantiv, masculin și feminin singular",
        "def_ro": "două mii de bați [unitate de măsură pentru lichide].",
+       "diff_ro": "Textul grecesc disponibil pentru acest verset nu menționează capacitatea de „două mii de bați\" — se termină cu detalii despre buza vasului și grosimea ei, fără cifra de capacitate din ebraică.",
        "dict_ro": "Bat — unitate standard de capacitate în perioada regatelor israelite, echivalentă aproximativ cu 22 de litri, ceea ce dă „Mării” un volum de circa 44.000 de litri; relatarea paralelă din 2 Cronici 4:5 dă cifra „trei mii de bați” pentru capacitate maximă, discrepanță pe care comentatorii tradiționali o explică prin distincția dintre volumul folosit efectiv pentru apă (2.000 bați, cifra din Regi) și capacitatea totală teoretică a formei rotunde a vasului (3.000 bați, cifra din Cronici)."
       },
       {
