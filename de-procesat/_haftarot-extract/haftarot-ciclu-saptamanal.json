@@ -88307,8 +88307,10 @@
        "heb": "חֲזוֹן",
        "translit": "hazon",
        "strong": "H2377",
-       "pos": "substantiv, masculin singular, în construcție",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "viziune, vedenie profetică.",
+       "greek": "ὅρασις (horasis)",
+       "greek_def_ro": "ὅρασις (horasis) — viziune, vedenie.",
        "dict_ro": "Hazon — „viziune”, de la haza, „a vedea”; de aici și numele de hoze, „văzător”, dat profetului (Metzudat Țion). Rashi observă că dintre cele zece cuvinte prin care Scriptura numește profeția, hazon e cel mai aspru, potrivit pentru mustrările care urmează. De la acest prim cuvânt, Sabatul în care se citește haftara, ultimul dinaintea zilei de 9 Av, se numește Șabat Hazon."
       },
       {
@@ -88372,9 +88374,11 @@
        "heb": "וְהַאֲזִינִי",
        "translit": "vehaazini",
        "strong": "H238",
-       "pos": "conjuncție + verb, imperativ, feminin singular",
+       "pos": "verb, hifil imperativ",
        "def_ro": "ascultă, pleacă-ți urechea.",
-       "dict_ro": "Haazin — „a pleca urechea, a asculta cu atenție”, de la ozen, „ureche”. Isaia deschide cu cerul și pământul ca martori, ca Moise în cântarea Haazinu: „Pleacă-ți urechea, cerule, și ascultă, pământule” (Deuteronom 32:1). Rashi arată că Isaia inversează verbele lui Moise, ca mărturia celor doi martori să fie întreagă; Radak: cerul și pământul sunt martori pentru că rămân în veci, în timp ce generațiile trec. Legătura cu pericopa Devarim e firească: cartea Deuteronomului e mustrarea lui Moise, iar haftara e mustrarea lui Isaia."
+       "greek": "ἐνωτίζομαι (enotizomai)",
+       "greek_def_ro": "ἐνωτίζομαι (enotizomai) — a pleca urechea, a asculta atent.",
+       "dict_ro": "Haazin — „a pleca urechea, a asculta cu atenție”, de la ozen, „ureche”. Isaia deschide cu cerul și pământul ca martori, ca Moise în cântarea Haazinu: „Pleacă-ți urechea, cerule, și ascultă, pământule” (Deuteronomul 32:1). Rashi arată că Isaia inversează verbele lui Moise, ca mărturia celor doi martori să fie întreagă; Radak: cerul și pământul sunt martori pentru că rămân în veci, în timp ce generațiile trec. Legătura cu pericopa Devarim e firească: cartea Deuteronomului e mustrarea lui Moise, iar haftara e mustrarea lui Isaia."
       },
       {
        "t": ", pământule, căci DOMNUL a vorbit: „Copii am crescut și am înălțat, dar ei s-au răzvrătit împotriva Mea."
@@ -88435,10 +88439,12 @@
        "t": "ieslea",
        "w": "ieslea",
        "heb": "אֵבוּס",
-       "translit": "evus",
+       "translit": "ēvus",
        "strong": "H18",
-       "pos": "substantiv, masculin singular, în construcție",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "iesle, locul unde mănâncă vitele.",
+       "greek": "φάτνη (phatne)",
+       "greek_def_ro": "φάτνη (phatne) — iesle.",
        "dict_ro": "Evus — „ieslea”, locul anume unde se pune hrana animalelor (Metzudat Țion, ca în Iov 39:9). Pilda pune față în față două animale de povară cu poporul: boul își recunoaște stăpânul, iar măgarul, deși cel mai prost dintre animale, știe măcar unde e ieslea din care mănâncă. Radak: animalele recunosc pe cel care le face bine, dar Israel n-a recunoscut că de la Dumnezeu îi vine tot binele. Ieremia folosește aceeași comparație cu păsările care își cunosc vremea (Ieremia 8:7)."
       },
       {
@@ -88498,11 +88504,13 @@
       {
        "t": "Sfântul lui Israel",
        "w": "Sfântul lui Israel",
-       "heb": "קְדוֹשׁ יִשְׂרָאֵל",
-       "translit": "kedoș Israel",
+       "heb": "קְדוֹשׁ",
+       "translit": "kedoș",
        "strong": "H6918",
-       "pos": "adjectiv substantivat, în construcție + nume propriu",
+       "pos": "adjectiv, masculin singular",
        "def_ro": "Sfântul lui Israel (nume divin).",
+       "greek": "ἅγιος (hagios)",
+       "greek_def_ro": "ἅγιος (hagios) — Sfânt.",
        "dict_ro": "Kedoș Israel — „Sfântul lui Israel”, numele lui Dumnezeu caracteristic cărții lui Isaia, care îl folosește de peste douăzeci de ori, de la acest verset până în ultimele capitole (5:19; 12:6; 41:14; 60:14). El vine din vedenia chemării, în care serafimii strigă „Sfânt, sfânt, sfânt” (6:3). Radak: e numit astfel pentru că S-a sfințit în mijlocul lor prin minunile și judecățile făcute vrăjmașilor lor, iar ei L-au părăsit. Rashi citește tot versetul ca un contrast: un neam sfânt a devenit neam păcătos, sămânța binecuvântată a devenit sămânță de nelegiuiți."
       },
       {
@@ -88567,7 +88575,9 @@
        "strong": "H5627",
        "pos": "substantiv, feminin singular",
        "def_ro": "abatere, răzvrătire, apostazie.",
-       "dict_ro": "Sara — „abatere” de la calea dreaptă, din rădăcina sur, „a se abate” (Metzudat Țion, ca în „fiul îndărătnic și răzvrătit”, Deuteronom 21:18). Întrebarea „pentru ce să mai fiți loviți?” e a unui om care își vede prietenul pedepsit și totuși repetând aceeași greșeală (Rashi). Radak explică: poporul nu voia să vadă în nenorociri o pedeapsă, ci o întâmplare, după cum amenințase Tora că va umbla „împotriva” lui Dumnezeu (Levitic 26:21)."
+       "greek": "ἀνομία (anomia)",
+       "greek_def_ro": "ἀνομία (anomia) — fărădelege, răzvrătire.",
+       "dict_ro": "Sara — „abatere” de la calea dreaptă, din rădăcina sur, „a se abate” (Metzudat Țion, ca în „fiul îndărătnic și răzvrătit”, Deuteronomul 21:18). Întrebarea „pentru ce să mai fiți loviți?” e a unui om care își vede prietenul pedepsit și totuși repetând aceeași greșeală (Rashi). Radak explică: poporul nu voia să vadă în nenorociri o pedeapsă, ci o întâmplare, după cum amenințase Tora că va umbla „împotriva” lui Dumnezeu (Leviticul 26:21)."
       },
       {
        "t": ", fiecare cap cu boală, fiecare inimă cu durere?"
@@ -88628,9 +88638,11 @@
        "heb": "וְחַבּוּרָה",
        "translit": "vehabura",
        "strong": "H2250",
-       "pos": "conjuncție + substantiv, feminin singular",
+       "pos": "substantiv, feminin singular",
        "def_ro": "vânătaie, lovitură sub piele.",
-       "dict_ro": "Habura — lovitura sub care se strânge sângele, fără ca pielea să se deschidă: deasupra se vede o pată roșie (Metzudat Țion). Versetul numește trei feluri de răni: peța, „tăietura” din care curge sânge, habura, „vânătaia”, și maka teria, „rana proaspătă”, care nu se usucă niciodată. Radak vede aici împlinirea mustrării din Deuteronom 28:35, o lovire „de la talpa piciorului până în creștetul capului” pe care nimeni n-o poate vindeca. Targumul lui Ionatan citește totul ca pildă: de la cel mai mic la cel mai mare, nimeni în popor nu e întreg."
+       "greek": "μώλωψ (molops)",
+       "greek_def_ro": "μώλωψ (molops) — vânătaie, rană de lovitură.",
+       "dict_ro": "Habura — lovitura sub care se strânge sângele, fără ca pielea să se deschidă: deasupra se vede o pată roșie (Metzudat Țion). Versetul numește trei feluri de răni: peța, „tăietura” din care curge sânge, habura, „vânătaia”, și maka teria, „rana proaspătă”, care nu se usucă niciodată. Radak vede aici împlinirea mustrării din Deuteronomul 28:35, o lovire „de la talpa piciorului până în creștetul capului” pe care nimeni n-o poate vindeca. Targumul lui Ionatan citește totul ca pildă: de la cel mai mic la cel mai mare, nimeni în popor nu e întreg."
       },
       {
        "t": " și rană sângerândă. Nici nu le-au tratat, nici nu le-au bandajat și nici nu le-au înmuiat cu untdelemn."
@@ -88692,9 +88704,11 @@
        "heb": "זָרִים",
        "translit": "zarim",
        "strong": "H2114",
-       "pos": "verb, participiu, masculin plural (folosit ca substantiv)",
+       "pos": "adjectiv, masculin plural",
        "def_ro": "străini, oameni din alt neam.",
-       "dict_ro": "Zar — „străin”, participiul verbului zur, „a se abate, a fi din afară”; același cuvânt desemnează și „focul străin” adus de fiii lui Aaron (Levitic 10:1). Versetul descrie urmările invaziei asiriene din vremea lui Ahaz și Ezechia: orașele arse, iar recolta mâncată de dușmani sub ochii stăpânilor. Radak arată că e împlinirea mustrării din Tora: „un neam pe care nu-l cunoști va mânca rodul pământului tău” (Deuteronom 28:33). Rashi citește sfârșitul versetului ca pe o moștenire trecută la străini, rămasă pustie de stăpânii ei."
+       "greek": "ἀλλότριος (allotrios)",
+       "greek_def_ro": "ἀλλότριος (allotrios) — străin.",
+       "dict_ro": "Zar — „străin”, participiul verbului zur, „a se abate, a fi din afară”; același cuvânt desemnează și „focul străin” adus de fiii lui Aaron (Leviticul 10:1). Versetul descrie urmările invaziei asiriene din vremea lui Ahaz și Ezechia: orașele arse, iar recolta mâncată de dușmani sub ochii stăpânilor. Radak arată că e împlinirea mustrării din Tora: „un neam pe care nu-l cunoști va mânca rodul pământului tău” (Deuteronomul 28:33). Rashi citește sfârșitul versetului ca pe o moștenire trecută la străini, rămasă pustie de stăpânii ei."
       },
       {
        "t": ", este pustiu ca răscolit de străini."
@@ -88749,11 +88763,13 @@
       {
        "t": "colibă",
        "w": "colibă",
-       "heb": "כְּסֻכָּה",
+       "heb": "כְּסֻכָּה",
        "translit": "kesuka",
        "strong": "H5521",
-       "pos": "prepoziție + substantiv, feminin singular",
+       "pos": "substantiv, feminin singular",
        "def_ro": "colibă, adăpost din ramuri.",
+       "greek": "σκηνή (skene)",
+       "greek_def_ro": "σκηνή (skene) — colibă, cort.",
        "dict_ro": "Suka — „colibă” din ramuri, același cuvânt ca sărbătoarea Sucot. Rashi explică imaginea: paznicul viei își face o colibă ca s-o păzească zi și noapte, iar după cules o lasă goală și pleacă; tot așa „coliba” din grădina de castraveți rămâne părăsită după ce roadele au fost culese. Radak leagă versetul de istoria vremii: în zilele lui Ezechia, regele Asiriei cucerise toate cetățile întărite ale lui Iuda, iar Ierusalimul rămăsese singur, ca o colibă în mijlocul câmpului (2 Împărați 18:13)."
       },
       {
@@ -88813,11 +88829,12 @@
       {
        "t": "o rămășiță",
        "w": "o rămășiță",
-       "heb": "שָׂרִיד",
+       "heb": "שָׂרִיד",
        "translit": "sarid",
        "strong": "H8300",
        "pos": "substantiv, masculin singular",
        "def_ro": "supraviețuitor, rămășiță scăpată.",
+       "diff_ro": "Septuaginta are aici „σπέρμα\" („sămânță, urmași\"), nu „o rămășiță\" (sarid, un supraviețuitor) ca în ebraică — o imagine diferită, de continuitate prin urmași, nu de supraviețuire a unui grup redus.",
        "dict_ro": "Sarid — „cel scăpat, supraviețuitorul”, ca în „scăpat și supraviețuitor” (Plângerile lui Ieremia 2:22). Tema „rămășiței” trece prin toată cartea lui Isaia: fiul profetului se numește Șear-Iașuv, „o rămășiță se va întoarce” (7:3; 10:21). Rashi: rămășița a fost lăsată din bunăvoința și mila lui Dumnezeu, nu pentru vrednicia poporului. Pavel citează versetul după Septuaginta, care are „sămânță” în loc de „rămășiță” (Romani 9:29)."
       },
       {
@@ -88881,8 +88898,10 @@
        "heb": "תּוֹרַת",
        "translit": "torat",
        "strong": "H8451",
-       "pos": "substantiv, feminin singular, în construcție",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "învățătura, legea, Tora.",
+       "greek": "νόμος (nomos)",
+       "greek_def_ro": "νόμος (nomos) — legea, Învățătura.",
        "dict_ro": "Tora — de la iara, „a arăta, a îndruma”: nu doar „lege”, ci învățătura prin care Dumnezeu își arată calea. Aici „învățătura Dumnezeului nostru” e chiar mustrarea care urmează, despre jertfele fără ascultare (Radak). Profetul le spune căpeteniilor „conducători ai Sodomei” pentru că faptele lor seamănă cu ale Sodomei, iar Talmudul leagă numele de versetul precedent: poporul spusese că „aproape ca Sodoma am fi fost”, iar profetul le-a răspuns cu același nume (Berahot 19a)."
       },
       {
@@ -88943,10 +88962,12 @@
        "t": "ofrandelor",
        "w": "ofrandelor",
        "heb": "זִבְחֵיכֶם",
-       "translit": "zivheihem",
+       "translit": "zivhēhem",
        "strong": "H2077",
-       "pos": "substantiv, masculin plural, cu sufix persoana a II-a plural",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "jertfele voastre (de animale).",
+       "greek": "θυσία (thysia)",
+       "greek_def_ro": "θυσία (thysia) — jertfe, ofrande.",
        "dict_ro": "Zevah — jertfa înjunghiată, din care o parte se arde pe altar și o parte se mănâncă. Profetul nu desființează jertfele, ci respinge jertfa adusă fără pocăință: Radak explică faptul că ele au fost poruncite ca omul să-și aducă aminte de Dumnezeu și să-și mărturisească păcatul, iar fără aceasta Dumnezeu e „sătul” de ele ca un om sătul de o mâncare. Aceeași învățătură o spune Samuel lui Saul: „ascultarea face mai mult decât jertfele” (1 Samuel 15:22). Talmudul deduce din versetele 11 și 15 că rugăciunea e mai mare decât jertfele (Berahot 32b)."
       },
       {
@@ -89012,11 +89033,13 @@
        "t": "curțile",
        "w": "curțile",
        "heb": "חֲצֵרָי",
-       "translit": "hațerai",
+       "translit": "hațērai",
        "strong": "H2691",
-       "pos": "substantiv, masculin plural, cu sufix persoana I singular",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
        "def_ro": "curțile Mele (ale Templului).",
-       "dict_ro": "Hațer — „curte, loc îngrădit”; aici curțile Templului, unde stătea poporul, căci în sanctuar intrau doar preoții (Radak). Expresia „să vă înfățișați înaintea Mea” e porunca pelerinajului de trei ori pe an: „de trei ori pe an toată partea bărbătească să se înfățișeze înaintea DOMNULUI” (Exod 23:17; Deuteronom 16:16). Metzudat David: venirea la sărbători, fără inimă întreagă, nu e cinste, ci doar „călcare în picioare” a curților."
+       "greek": "αὐλή (aule)",
+       "greek_def_ro": "αὐλή (aule) — curte (a Templului).",
+       "dict_ro": "Hațer — „curte, loc îngrădit”; aici curțile Templului, unde stătea poporul, căci în sanctuar intrau doar preoții (Radak). Expresia „să vă înfățișați înaintea Mea” e porunca pelerinajului de trei ori pe an: „de trei ori pe an toată partea bărbătească să se înfățișeze înaintea DOMNULUI” (Exodul 23:17; Deuteronomul 16:16). Metzudat David: venirea la sărbători, fără inimă întreagă, nu e cinste, ci doar „călcare în picioare” a curților."
       },
       {
        "t": "?"
@@ -89076,11 +89099,13 @@
        "t": "o oroare",
        "w": "o oroare",
        "heb": "תּוֹעֵבָה",
-       "translit": "toeva",
+       "translit": "toēva",
        "strong": "H8441",
        "pos": "substantiv, feminin singular",
        "def_ro": "urâciune, lucru detestabil.",
-       "dict_ro": "Toeva — „urâciune, lucru respingător”, cuvântul cu care Tora numește idolatria și faptele pe care Dumnezeu le urăște (Deuteronom 7:25-26). E un paradox voit: tămâia, simbolul rugăciunii care se înalță (Psalmii 141:2), devine „urâciune” când o aduce o inimă care se gândește la idoli (Rashi). Metzudat David: ofranda care nu e primită e „ofrandă deșartă”, iar nedreptatea din inimă nu poate sta laolaltă cu adunarea sfântă."
+       "greek": "βδέλυγμα (bdelygma)",
+       "greek_def_ro": "βδέλυγμα (bdelygma) — urâciune, lucru dezgustător.",
+       "dict_ro": "Toeva — „urâciune, lucru respingător”, cuvântul cu care Tora numește idolatria și faptele pe care Dumnezeu le urăște (Deuteronomul 7:25-26). E un paradox voit: tămâia, simbolul rugăciunii care se înalță (Psalmul 141:2), devine „urâciune” când o aduce o inimă care se gândește la idoli (Rashi). Metzudat David: ofranda care nu e primită e „ofrandă deșartă”, iar nedreptatea din inimă nu poate sta laolaltă cu adunarea sfântă."
       },
       {
        "t": " pentru Mine. Lună [Nouă] și Șabat, adunare de convocare, nu pot tolera nedreptate cu adunare."
@@ -89141,11 +89166,13 @@
        "t": "soroacele voastre",
        "w": "soroacele voastre",
        "heb": "וּמוֹעֲדֵיכֶם",
-       "translit": "umoadeihem",
+       "translit": "umoadēhem",
        "strong": "H4150",
-       "pos": "conjuncție + substantiv, masculin plural, cu sufix persoana a II-a plural",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "sărbătorile voastre, vremile hotărâte.",
-       "dict_ro": "Moed — „vreme hotărâtă, întâlnire”, de la iaad, „a hotărî o întâlnire”; din aceeași rădăcină vine Ohel Moed, „Cortul Întâlnirii”. Sărbătorile sunt întâlnirile rânduite de Dumnezeu cu poporul Său (Levitic 23:2), de aceea e cu atât mai aspru când El spune: „sărbătorile voastre”, nu „ale Mele”, iar sufletul Său „le urăște”. Radak: au devenit o povară atât de grea, încât nu le mai poate purta; Targumul înțelege: am iertat de multe ori și nu mai pot ierta."
+       "greek": "ἑορτή (heorte)",
+       "greek_def_ro": "ἑορτή (heorte) — sărbători, soroace (zile hotărâte).",
+       "dict_ro": "Moed — „vreme hotărâtă, întâlnire”, de la iaad, „a hotărî o întâlnire”; din aceeași rădăcină vine Ohel Moed, „Cortul Întâlnirii”. Sărbătorile sunt întâlnirile rânduite de Dumnezeu cu poporul Său (Leviticul 23:2), de aceea e cu atât mai aspru când El spune: „sărbătorile voastre”, nu „ale Mele”, iar sufletul Său „le urăște”. Radak: au devenit o povară atât de grea, încât nu le mai poate purta; Targumul înțelege: am iertat de multe ori și nu mai pot ierta."
       },
       {
        "t": ", sufletul Meu le urăște; Mi-au devenit povară, am obosit să o mai port."
@@ -89199,11 +89226,13 @@
       {
        "t": "palmele",
        "w": "palmele",
-       "heb": "כַּפֵּיכֶם",
-       "translit": "kapeihem",
+       "heb": "כַּפֵּיכֶם",
+       "translit": "kapēhem",
        "strong": "H3709",
-       "pos": "substantiv, feminin dual, cu sufix persoana a II-a plural",
+       "pos": "substantiv, feminin dual construct + sufix",
        "def_ro": "palmele voastre.",
+       "greek": "χείρ (cheir)",
+       "greek_def_ro": "χείρ (cheir) — mâini, palme.",
        "dict_ro": "Kaf — „palma”, partea scobită a mâinii. A „întinde palmele” e gestul rugăciunii, ca la Solomon în ziua sfințirii Templului (1 Împărați 8:22) și la Ezra (Ezra 9:5). Profetul întoarce gestul împotriva lor: aceleași palme ridicate spre cer „sunt pline de sânge”. Talmudul trage de aici o lege: un preot care a ucis un om nu mai rostește binecuvântarea preoțească, făcută cu mâinile întinse (Berahot 32b)."
       },
       {
@@ -89268,9 +89297,11 @@
        "heb": "רַחֲצוּ",
        "translit": "rahațu",
        "strong": "H7364",
-       "pos": "verb, imperativ, masculin plural",
+       "pos": "verb, qal imperativ",
        "def_ro": "spălați-vă, scăldați-vă.",
-       "dict_ro": "Rahaț — „a spăla, a scălda”, verbul spălărilor rituale ale preoților (Exod 30:19-21). Aici spălarea e a inimii: Metzudat David o explică drept îndepărtarea petelor păcatului prin pocăință. Rashi numără în versetele 16-17 zece îndemnuri la pocăință — spălați-vă, curățați-vă, îndepărtați, opriți-vă, învățați, căutați, ajutați, faceți dreptate, susțineți — corespunzând celor zece zile de pocăință dintre Roș Hașana și Iom Kipur."
+       "greek": "λούω (louo)",
+       "greek_def_ro": "λούω (louo) — a se spăla, a se scălda.",
+       "dict_ro": "Rahaț — „a spăla, a scălda”, verbul spălărilor rituale ale preoților (Exodul 30:19-21). Aici spălarea e a inimii: Metzudat David o explică drept îndepărtarea petelor păcatului prin pocăință. Rashi numără în versetele 16-17 zece îndemnuri la pocăință — spălați-vă, curățați-vă, îndepărtați, opriți-vă, învățați, căutați, ajutați, faceți dreptate, susțineți — corespunzând celor zece zile de pocăință dintre Roș Hașana și Iom Kipur."
       },
       {
        "t": ", curățați-vă, îndepărtați răutatea faptelor voastre din fața ochilor Mei, opriți-vă din a mai face rău!"
@@ -89330,12 +89361,14 @@
       {
        "t": "ajutați-l pe cel sărman",
        "w": "ajutați-l pe cel sărman",
-       "heb": "אַשְּׁרוּ חָמוֹץ",
-       "translit": "așru hamoț",
+       "heb": "חָמוֹץ",
+       "translit": "hamoț",
        "strong": "H2541",
-       "pos": "verb, imperativ + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "îndreptați-l pe cel asuprit, sprijiniți-l pe cel jefuit.",
-       "dict_ro": "Hamoț — „cel jefuit, cel asuprit”, ca în „din mâna celui nelegiuit și asupritor (homeț)” (Psalmii 71:4); așru vine din iașar, „a îndrepta” (Metzudat Țion): îndreptați-i pricina celui nedreptățit. Talmudul face un joc de cuvinte cu hameț, „dospit”: „fericit judecătorul care își lasă judecata să dospească”, care nu se grăbește cu sentința (Sanhedrin 35a). Orfanul și văduva sunt numiți anume pentru că ei sunt cei mai des asupriți și nu au cine să le apere pricina (Radak)."
+       "greek": "ἀδικούμενος (adikoumenos)",
+       "greek_def_ro": "ἀδικούμενος (adikoumenos) — cel nedreptățit, cel asuprit.",
+       "dict_ro": "Hamoț — „cel jefuit, cel asuprit”, ca în „din mâna celui nelegiuit și asupritor (homeț)” (Psalmul 71:4); așru vine din iașar, „a îndrepta” (Metzudat Țion): îndreptați-i pricina celui nedreptățit. Talmudul face un joc de cuvinte cu hameț, „dospit”: „fericit judecătorul care își lasă judecata să dospească”, care nu se grăbește cu sentința (Sanhedrin 35a). Orfanul și văduva sunt numiți anume pentru că ei sunt cei mai des asupriți și nu au cine să le apere pricina (Radak)."
       },
       {
        "t": ", faceți dreptate orfanului și susțineți pricina văduvei!"
@@ -89398,12 +89431,14 @@
       {
        "t": "cărămizie",
        "w": "cărămizie",
-       "heb": "כַּשָּׁנִים",
+       "heb": "כַּשָּׁנִים",
        "translit": "kașanim",
        "strong": "H8144",
-       "pos": "prepoziție + substantiv, masculin plural",
+       "pos": "substantiv, masculin plural",
        "def_ro": "ca stofa roșie-aprinsă, ca purpuriul.",
-       "dict_ro": "Șani — „roșu aprins”, colorantul scos dintr-o insectă, cu care se vopseau firele de lână pentru Cortul Întâlnirii (Exod 25:4). Radak explică de ce păcatul e asemănat cu roșul: e o culoare puternică, se vede de departe, iar pata ei nu iese la spălat; pocăința e cea care albește pata. Imaginea pânzei albite amintește de rugăciunea lui David: „spală-mă și voi fi mai alb decât zăpada” (Psalmii 51:7). Talmudul pune versetul în gura lui Dumnezeu, ca răspuns celor care nu mai au la cine să ceară milă decât la El (Șabat 89b)."
+       "greek": "φοινικοῦς (phoinikous)",
+       "greek_def_ro": "φοινικοῦς (phoinikous) — purpuriu, roșu-cărămiziu.",
+       "dict_ro": "Șani — „roșu aprins”, colorantul scos dintr-o insectă, cu care se vopseau firele de lână pentru Cortul Întâlnirii (Exodul 25:4). Radak explică de ce păcatul e asemănat cu roșul: e o culoare puternică, se vede de departe, iar pata ei nu iese la spălat; pocăința e cea care albește pata. Imaginea pânzei albite amintește de rugăciunea lui David: „spală-mă și voi fi mai alb decât zăpada” (Psalmul 51:7). Talmudul pune versetul în gura lui Dumnezeu, ca răspuns celor care nu mai au la cine să ceară milă decât la El (Șabat 89b)."
       },
       {
        "t": ", ele se vor face albe ca zăpada; dacă s-au înroșit ca purpura, ele se vor face precum lâna."
@@ -89467,12 +89502,14 @@
       {
        "t": "bunătatea țării",
        "w": "bunătatea țării",
-       "heb": "טוּב הָאָרֶץ",
-       "translit": "tuv haareț",
+       "heb": "טוּב",
+       "translit": "tuv",
        "strong": "H2898",
-       "pos": "substantiv, masculin singular, în construcție + substantiv cu articol",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "binele țării, roadele cele mai bune ale pământului.",
-       "dict_ro": "Tuv — „bunătate, belșug, ce e mai bun”. Versetul și cel următor pun alegerea în termenii Deuteronomului: ascultarea aduce rodul țării, neascultarea aduce sabia (Deuteronom 30:15-18). Radak face legătura cu versetul 7: ce mănâncă acum străinii sub ochii voștri, veți mânca voi. Metzudat David: „dacă veți vrea” înseamnă a se supune de bunăvoie, iar „veți asculta” — a asculta de glasul Lui."
+       "greek": "ἀγαθός (agathos)",
+       "greek_def_ro": "ἀγαθός (agathos) — bunătăți, bunuri bune.",
+       "dict_ro": "Tuv — „bunătate, belșug, ce e mai bun”. Versetul și cel următor pun alegerea în termenii Deuteronomului: ascultarea aduce rodul țării, neascultarea aduce sabia (Deuteronomul 30:15-18). Radak face legătura cu versetul 7: ce mănâncă acum străinii sub ochii voștri, veți mânca voi. Metzudat David: „dacă veți vrea” înseamnă a se supune de bunăvoie, iar „veți asculta” — a asculta de glasul Lui."
       },
       {
        "t": " o veți mânca."
@@ -89531,7 +89568,9 @@
        "strong": "H2719",
        "pos": "substantiv, feminin singular",
        "def_ro": "sabie.",
-       "dict_ro": "Herev — „sabia”. Versetul face un joc de cuvinte cu cel precedent: „veți mânca” bunătatea țării (tohelu) sau „veți fi mâncați” de sabie (teuklu); Metzudat David rezumă: nu veți fi cei ce mănâncă, ci cei mâncați. Rashi arată unde „a vorbit gura DOMNULUI”: „voi aduce asupra voastră sabia” (Levitic 26:25). Formula de încheiere, „căci gura DOMNULUI a vorbit”, pecetluiește cuvântul ca sigur, cum spune Radak: El își va împlini cuvântul."
+       "greek": "μάχαιρα (machaira)",
+       "greek_def_ro": "μάχαιρα (machaira) — sabie.",
+       "dict_ro": "Herev — „sabia”. Versetul face un joc de cuvinte cu cel precedent: „veți mânca” bunătatea țării (tohelu) sau „veți fi mâncați” de sabie (teuklu); Metzudat David rezumă: nu veți fi cei ce mănâncă, ci cei mâncați. Rashi arată unde „a vorbit gura DOMNULUI”: „voi aduce asupra voastră sabia” (Leviticul 26:25). Formula de încheiere, „căci gura DOMNULUI a vorbit”, pecetluiește cuvântul ca sigur, cum spune Radak: El își va împlini cuvântul."
       },
       {
        "t": ", căci gura DOMNULUI a vorbit.”"
@@ -89594,8 +89633,10 @@
        "heb": "לְזוֹנָה",
        "translit": "lezona",
        "strong": "H2181",
-       "pos": "prepoziție + verb, participiu, feminin singular",
+       "pos": "verb, qal participiu",
        "def_ro": "desfrânată, femeie necredincioasă.",
+       "greek": "πόρνη (porne)",
+       "greek_def_ro": "πόρνη (porne) — prostituată, curtezană.",
        "dict_ro": "Zona — „desfrânata”, participiul verbului zana. Profeții numesc astfel necredința lui Israel față de Dumnezeu, înfățișat ca soț (Ieremia 3:1; Osea 2:5). Versetul începe cu eiha, „cum?”, cuvântul de bocet cu care se deschide cartea Plângerilor: de aceea haftara se cântă la sinagogă pe melodia Plângerilor, în Sabatul dinaintea zilei de 9 Av. Radak: Ierusalimul fusese credincios în zilele lui David, Solomon și Iosafat, iar acum își părăsise Templul pentru înălțimi. Talmudul citește „dreptatea înnopta în ea” despre judecătorii care amânau până a doua zi sentința de moarte, ca să caute un motiv de achitare (Sanhedrin 35a)."
       },
       {
@@ -89660,10 +89701,12 @@
        "t": "zgură",
        "w": "zgură",
        "heb": "לְסִיגִים",
-       "translit": "lesighim",
+       "translit": "lesigim",
        "strong": "H5509",
-       "pos": "prepoziție + substantiv, masculin plural",
+       "pos": "substantiv, masculin plural",
        "def_ro": "zgură, rămășițele fără valoare de la topirea metalului.",
+       "greek": "ἀδόκιμος (adokimos)",
+       "greek_def_ro": "ἀδόκιμος (adokimos) — fără valoare, lepădat (ca argintul impur).",
        "dict_ro": "Sig — „zgura” care se desparte din argint la topire (Metzudat Țion, ca în Ezechiel 22:18). Rashi și Radak citesc versetul la propriu: se băteau monede de aramă poleite cu argint, ca să-i înșele pe oameni, iar negustorii de vin îl amestecau cu apă. Imaginea pregătește versetul 25, în care Dumnezeu însuși va topi zgura. Septuaginta îi numește pe cei care amestecă vinul kapeloi, „cârciumari”, cuvânt din care Pavel face verbul „a negustori cuvântul lui Dumnezeu” (2 Corinteni 2:17)."
       },
       {
@@ -89722,12 +89765,14 @@
       {
        "t": "mita",
        "w": "mita",
-       "heb": "שֹׁחַד",
+       "heb": "שֹׁחַד",
        "translit": "șohad",
        "strong": "H7810",
        "pos": "substantiv, masculin singular",
        "def_ro": "mită, dar dat ca să strâmbe judecata.",
-       "dict_ro": "Șohad — „mita”, darul care strâmbă judecata. Tora o interzice cu o motivare aspră: „mita orbește ochii înțelepților și sucește cuvintele celor drepți” (Deuteronom 16:19; Exod 23:8), versete din pericopele citite în aceeași perioadă. Șalmonim, „foloasele”, e explicat de Targum și de Rashi ca înțelegere între judecători: „achită-mă azi în pricina mea și te voi achita mâine în a ta”. Rezultatul e cel descris la sfârșit: orfanul nu primește dreptate, iar văduva nici nu mai vine la ei."
+       "greek": "δῶρον (doron)",
+       "greek_def_ro": "δῶρον (doron) — mită, dar (necuvenit).",
+       "dict_ro": "Șohad — „mita”, darul care strâmbă judecata. Tora o interzice cu o motivare aspră: „mita orbește ochii înțelepților și sucește cuvintele celor drepți” (Deuteronomul 16:19; Exodul 23:8), versete din pericopele citite în aceeași perioadă. Șalmonim, „foloasele”, e explicat de Targum și de Rashi ca înțelegere între judecători: „achită-mă azi în pricina mea și te voi achita mâine în a ta”. Rezultatul e cel descris la sfârșit: orfanul nu primește dreptate, iar văduva nici nu mai vine la ei."
       },
       {
        "t": " și aleargă după foloase [necuvenite]. Orfanului nu-i fac dreptate și pricina văduvei nu ajunge înaintea lor."
@@ -89787,12 +89832,14 @@
       {
        "t": "Puternicului lui Israel",
        "w": "Puternicului lui Israel",
-       "heb": "אֲבִיר יִשְׂרָאֵל",
-       "translit": "avir Israel",
+       "heb": "אֲבִיר",
+       "translit": "avir",
        "strong": "H46",
-       "pos": "adjectiv substantivat, în construcție + nume propriu",
+       "pos": "adjectiv, masculin singular",
        "def_ro": "Cel Puternic al lui Israel (nume divin).",
-       "dict_ro": "Avir — „cel puternic”, folosit doar pentru Dumnezeu, în forma „Puternicul lui Iacov” din binecuvântarea lui Iacov (Geneza 49:24) și în Psalmii 132:2; forma „Puternicul lui Israel” apare numai aici. Versetul adună trei nume divine — Stăpânul, DOMNUL Oștirilor, Puternicul lui Israel — înaintea unei hotărâri grele. Verbul enahem, tradus „Mă voi ușura”, înseamnă și „a se mângâia”: Radak explică faptul că mânia lui Dumnezeu se va potoli după ce va face dreptate celor asupriți."
+       "greek": "δυνάστης (dynastes)",
+       "greek_def_ro": "δυνάστης (dynastes) — puternic, biruitor.",
+       "dict_ro": "Avir — „cel puternic”, folosit doar pentru Dumnezeu, în forma „Puternicul lui Iacov” din binecuvântarea lui Iacov (Geneza 49:24) și în Psalmul 132:2; forma „Puternicul lui Israel” apare numai aici. Versetul adună trei nume divine — Stăpânul, DOMNUL Oștirilor, Puternicul lui Israel — înaintea unei hotărâri grele. Verbul enahem, tradus „Mă voi ușura”, înseamnă și „a se mângâia”: Radak explică faptul că mânia lui Dumnezeu se va potoli după ce va face dreptate celor asupriți."
       },
       {
        "t": " – oh, cum Mă voi ușura de inamici și cum Mă voi răzbuna pe dușmanii Mei!"
@@ -89851,12 +89898,13 @@
       {
        "t": "leșia",
        "w": "leșia",
-       "heb": "כַּבֹּר",
+       "heb": "כַּבֹּר",
        "translit": "kabor",
        "strong": "H1253",
-       "pos": "prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "ca leșia, ca săpunul din cenușă vegetală.",
-       "dict_ro": "Bor — „leșia”, săpunul făcut din cenușa unor plante, cu care se curățau hainele; din aceeași rădăcină vine bar, „curat” (Rashi, ca în „cel cu inima curată”, Psalmii 24:4). Imaginea e a topitorului care curăță argintul de zgură și de cositorul amestecat în el, reluând „argintul tău s-a prefăcut în zgură” din versetul 22. Rashi și Radak: zgura și cositorul sunt cei răi amestecați printre cei drepți, pe care Dumnezeu îi va îndepărta lovitură după lovitură. Maleahi reia imaginea despre fiii lui Levi (Maleahi 3:3)."
+       "diff_ro": "Septuaginta are aici „πυρώσω σε εἰς καθαρόν\" („te voi arde/curăța prin foc\"), nu imaginea leșiei (bor, un agent de curățare alcalin) ca în ebraică — accentul cade pe purificarea prin foc, nu prin spălare.",
+       "dict_ro": "Bor — „leșia”, săpunul făcut din cenușa unor plante, cu care se curățau hainele; din aceeași rădăcină vine bar, „curat” (Rashi, ca în „cel cu inima curată”, Psalmul 24:4). Imaginea e a topitorului care curăță argintul de zgură și de cositorul amestecat în el, reluând „argintul tău s-a prefăcut în zgură” din versetul 22. Rashi și Radak: zgura și cositorul sunt cei răi amestecați printre cei drepți, pe care Dumnezeu îi va îndepărta lovitură după lovitură. Maleahi reia imaginea despre fiii lui Levi (Maleahi 3:3)."
       },
       {
        "t": ", și îți voi îndepărta toate necurățeniile."
@@ -89920,11 +89968,13 @@
       {
        "t": "Cetate Credincioasă",
        "w": "Cetate Credincioasă",
-       "heb": "קִרְיָה נֶאֱמָנָה",
-       "translit": "kiria neemana",
+       "heb": "נֶאֱמָנָה",
+       "translit": "neemana",
        "strong": "H539",
-       "pos": "substantiv, feminin singular + verb, participiu nifal, feminin singular",
+       "pos": "verb, nifal participiu",
        "def_ro": "cetate credincioasă, cetate statornică.",
+       "greek": "πιστός (pistos)",
+       "greek_def_ro": "πιστός (pistos) — credincios, de încredere.",
        "dict_ro": "Neemana — „credincioasă, statornică”, participiul verbului aman, din aceeași rădăcină cu emuna, „credință”, și amen. Haftara se închide în cerc: cetatea care „a devenit ca o prostituată” (1:21) va fi numită din nou „Cetate Credincioasă” și „Orașul Dreptății”. Radak: aceasta va fi în zilele lui Mesia, când cei răi vor pieri, iar rămășița lui Israel „nu va mai face nedreptate” (Țefania 3:13). Versetul intră și în rugăciunea zilnică Amida: „adu înapoi judecătorii noștri ca odinioară și sfetnicii noștri ca la început”."
       },
       {
@@ -89984,12 +90034,14 @@
       {
        "t": "răscumpărat",
        "w": "răscumpărat",
-       "heb": "תִּפָּדֶה",
+       "heb": "תִּפָּדֶה",
        "translit": "tipade",
        "strong": "H6299",
-       "pos": "verb, imperfect nifal, persoana a III-a feminin singular",
+       "pos": "verb, nifal imperfect",
        "def_ro": "va fi răscumpărat(ă), va fi izbăvit(ă).",
-       "dict_ro": "Pada — „a răscumpăra”, de la plata prin care se elibera un rob sau un întâi-născut (Exod 13:13); același verb descrie izbăvirea din Egipt (Deuteronom 7:8). Haftara se încheie cu nădejde: Sionul va fi răscumpărat „prin judecată”, iar cei care se întorc la el „prin dreptate” (bițdaka). Metzudat David și Radak citesc „șaveha” atât ca „captivii ei”, cât și ca „cei ce se întorc”: întoarcerea din exil va fi prin dreptatea pe care o vor face. Talmudul învață de aici: „Ierusalimul nu va fi răscumpărat decât prin țedaka”, adică prin milostenie și dreptate (Șabat 139a; Sanhedrin 98a)."
+       "greek": "σώζω (sozo)",
+       "greek_def_ro": "σώζω (sozo) — a fi mântuit, a fi izbăvit.",
+       "dict_ro": "Pada — „a răscumpăra”, de la plata prin care se elibera un rob sau un întâi-născut (Exodul 13:13); același verb descrie izbăvirea din Egipt (Deuteronomul 7:8). Haftara se încheie cu nădejde: Sionul va fi răscumpărat „prin judecată”, iar cei care se întorc la el „prin dreptate” (bițdaka). Metzudat David și Radak citesc „șaveha” atât ca „captivii ei”, cât și ca „cei ce se întorc”: întoarcerea din exil va fi prin dreptatea pe care o vor face. Talmudul învață de aici: „Ierusalimul nu va fi răscumpărat decât prin țedaka”, adică prin milostenie și dreptate (Șabat 139a; Sanhedrin 98a)."
       },
       {
        "t": " prin judecată și captivii săi prin dreptate."
