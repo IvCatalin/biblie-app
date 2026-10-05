@@ -77794,8 +77794,10 @@
        "heb": "זוֹנָה",
        "translit": "zona",
        "strong": "H2181",
-       "pos": "verb, qal, participiu, feminin singular",
+       "pos": "verb, qal participiu",
        "def_ro": "hangiță; literal: desfrânată.",
+       "greek": "πόρνη (porne)",
+       "greek_def_ro": "πόρνη (porne) — curtezană, femeie care se prostituează.",
        "dict_ro": "Zona — sensul literal este „desfrânată”, dar Targumul lui Ionatan traduce „pundekita”, „hangiță, cea care vinde mâncare”, iar Metzudat Țion explică la fel, legând cuvântul de mazon, „hrană”. Radak discută ambele sensuri și observă că Targumul folosește „hangiță” și acolo unde e vorba limpede de desfrânate, pentru că hanul era deschis tuturor. Noul Testament o numește pe Rahav pentru credința ei (Evrei 11:31) și pentru faptele ei (Iacov 2:25), iar Matei 1:5 o pune în genealogia lui Iisus."
       },
       {
@@ -77856,11 +77858,13 @@
       {
        "t": "să iscodească",
        "w": "să iscodească",
-       "heb": "לַחְפֹּר",
+       "heb": "לַחְפֹּר",
        "translit": "lahpor",
        "strong": "H2658",
-       "pos": "prepoziție + verb, qal, infinitiv",
+       "pos": "verb, qal infinitiv",
        "def_ro": "a cerceta, a iscodi; literal: a săpa.",
+       "greek": "κατασκοπεύω (kataskopeuo)",
+       "greek_def_ro": "κατασκοπεύω (kataskopeuo) — a iscodi, a cerceta ca spion.",
        "dict_ro": "Hafar — sensul de bază e „a săpa”, iar de aici „a cerceta, a scormoni”; Metzudat Țion explică: cel care caută ceva în pământ sapă în el. Rashi trimite la Iov 39:29, despre vulturul care „de acolo își iscodește prada”. Regele Ierihonului află chiar în aceeași seară de sosirea iscoadelor — semn, după comentatori, cât de încordată era cetatea, aflată la hotar, în fața taberei lui Israel."
       },
       {
@@ -77911,10 +77915,12 @@
        "t": "Scoate-i afară",
        "w": "Scoate-i afară",
        "heb": "הוֹצִיאִי",
-       "translit": "hoții",
+       "translit": "hoți",
        "strong": "H3318",
-       "pos": "verb, hifil, imperativ, feminin singular",
+       "pos": "verb, hifil imperativ",
        "def_ro": "scoate afară, predă.",
+       "greek": "ἐξάγω (exago)",
+       "greek_def_ro": "ἐξάγω (exago) — a scoate afară, a duce afară.",
        "dict_ro": "Yața — „a ieși”; la forma cauzativă (hifil), „a scoate afară, a da afară”. Porunca regelui e scurtă și amenințătoare: nu întreabă dacă au venit, știe deja. Tensiunea stă în contrastul dintre porunca regelui și ceea ce femeia făcuse deja, cum arată versetul următor."
       },
       {
@@ -77961,11 +77967,13 @@
       {
        "t": "și-i ascunsese",
        "w": "și-i ascunsese",
-       "heb": "וַתִּצְפְּנוֹ",
+       "heb": "וַתִּצְפְּנוֹ",
        "translit": "vatițpeno",
        "strong": "H6845",
-       "pos": "verb, qal, imperfect consecutiv, persoana a III-a feminin singular + sufix persoana a III-a masculin singular",
+       "pos": "verb, qal imperfect consecutiv + sufix",
        "def_ro": "l-a ascuns, i-a tăinuit.",
+       "greek": "κρύπτω (krypto)",
+       "greek_def_ro": "κρύπτω (krypto) — a ascunde.",
        "dict_ro": "Țafan — „a ascunde, a păstra ca pe o comoară” (de aici țafun, „ascuns”, și nordul, țafon, „partea ascunsă”). Verbul e la singular, „l-a ascuns”, deși erau doi. Rashi și Radak dau trei explicații: i-a ascuns în grabă într-un loc strâmt, ca pe unul singur; i-a ascuns pe fiecare separat; sau — după Midrașul Tanhuma — cei doi erau Pinhas și Caleb, iar Pinhas nu avea nevoie să fie ascuns, pentru că era ca un înger și nu putea fi văzut."
       },
       {
@@ -78026,8 +78034,10 @@
        "heb": "רִדְפוּ",
        "translit": "ridfu",
        "strong": "H7291",
-       "pos": "verb, qal, imperativ, masculin plural",
+       "pos": "verb, qal imperativ",
        "def_ro": "urmăriți, alergați după.",
+       "greek": "καταδιώκω (katadioko)",
+       "greek_def_ro": "καταδιώκω (katadioko) — a urmări, a prinde din urmă.",
        "dict_ro": "Radaf — „a urmări, a goni”, verbul cheie al capitolului: „urmăritorii” (harodfim) apar de șase ori. Rahav nu doar ascunde iscoadele, ci îi trimite pe oamenii regelui pe o pistă falsă, cu un argument plauzibil: au plecat de curând, la închiderea porții, deci îi veți ajunge. Metzudat David: „căci au ieșit de curând”."
       },
       {
@@ -78081,11 +78091,13 @@
       {
        "t": "mănunchiurile de in",
        "w": "mănunchiurile de in",
-       "heb": "בְּפִשְׁתֵּי הָעֵץ",
-       "translit": "befiștei haeț",
+       "heb": "בְּפִשְׁתֵּי",
+       "translit": "befiștē",
        "strong": "H6593",
-       "pos": "prepoziție + substantiv, masculin plural, în construcție + substantiv cu articol",
+       "pos": "substantiv, masculin plural construct",
        "def_ro": "tulpinile de in, inul încă pe tulpină.",
+       "greek": "λινοκαλάμη (linokalame)",
+       "greek_def_ro": "λινοκαλάμη (linokalame) — tulpini de in (mănunchi de in nedărăcit).",
        "dict_ro": "Pișteh haeț — literal „inul lemnului”: tulpinile de in încă nedecorticate, puse la uscat pe acoperișul plat. Radak și Metzudat David explică: inul era încă pe tulpinile lui, și femeia le întinsese pe acoperiș ca să se usuce; aranjate astfel, nu trezeau bănuieli. Inul crește în valea Ierihonului, unde recolta se strânge primăvara, adică exact în luna Nisan, când Israel stătea să treacă Iordanul (Iosua 3-4). Talmudul (Zevahim 116b) pomenește inul printre cele trei lucruri prin care Rahav a salvat iscoadele."
       },
       {
@@ -78145,11 +78157,13 @@
       {
        "t": "vaduri",
        "w": "vaduri",
-       "heb": "הַמַּעְבְּרוֹת",
+       "heb": "הַמַּעְבְּרוֹת",
        "translit": "hamaberot",
        "strong": "H4569",
-       "pos": "substantiv, feminin plural, cu articol",
+       "pos": "substantiv, feminin plural",
        "def_ro": "vadurile, locurile de trecere ale Iordanului.",
+       "greek": "διάβασις (diabasis)",
+       "greek_def_ro": "διάβασις (diabasis) — vad, loc de trecere.",
        "dict_ro": "Maabarot — de la avar, „a trece”: locurile unde Iordanul poate fi trecut prin apă mică. Rashi explică raționamentul urmăritorilor: credeau că iscoadele se întorc în câmpiile Moabului, iar Iordanul era între ei. Vadurile Iordanului apar și în Judecători 3:28 și 12:5-6, unde cine le controla hotăra cine trece. Poarta închisă imediat după ieșirea urmăritorilor îi prinde pe iscoade în cetate, dar îi și apără de o nouă căutare."
       },
       {
@@ -78207,12 +78221,14 @@
       {
        "t": "pe acoperiș",
        "w": "pe acoperiș",
-       "heb": "עַל־הַגָּג",
-       "translit": "al-hagag",
+       "heb": "הַגָּג",
+       "translit": "hagag",
        "strong": "H1406",
-       "pos": "prepoziție + substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "pe acoperiș (acoperișul plat al casei).",
-       "dict_ro": "Gag — acoperișul plat al casei orientale, loc de lucru, de uscat roadele, de dormit în nopțile calde și de rugăciune (Faptele apostolilor 10:9); de aceea Tora cere un parapet (Deuteronom 22:8). Scena se petrece noaptea, înainte ca iscoadele să adoarmă: pe acoperiș, departe de urechile cetății, Rahav rostește mărturisirea din versetele următoare. Radak observă că „asupra lor” (aleihem) are aici sensul de „la ei”."
+       "greek": "δῶμα (doma)",
+       "greek_def_ro": "δῶμα (doma) — acoperiș plat (terasă).",
+       "dict_ro": "Gag — acoperișul plat al casei orientale, loc de lucru, de uscat roadele, de dormit în nopțile calde și de rugăciune (Faptele apostolilor 10:9); de aceea Tora cere un parapet (Deuteronomul 22:8). Scena se petrece noaptea, înainte ca iscoadele să adoarmă: pe acoperiș, departe de urechile cetății, Rahav rostește mărturisirea din versetele următoare. Radak observă că „asupra lor” (aleihem) are aici sensul de „la ei”."
       },
       {
        "t": "."
@@ -78262,11 +78278,13 @@
        "t": "groaza de voi",
        "w": "groaza de voi",
        "heb": "אֵימַתְכֶם",
-       "translit": "eimathem",
+       "translit": "ēmathem",
        "strong": "H367",
-       "pos": "substantiv, feminin singular + sufix persoana a II-a masculin plural",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "groaza, spaima inspirată de voi.",
-       "dict_ro": "Eima — groaza, spaima care paralizează. Rahav citează, fără să știe, chiar cuvintele Cântării de la Mare: „groaza (eima) și spaima vor cădea peste ei... s-au topit (namogu) toți locuitorii Canaanului” (Exod 15:15-16). Ce era profeție pentru Moise devine, în gura ei, constatare. Ironia e evidentă în contextul pericopei Șelah: iscoadele lui Moise se temuseră de locuitorii țării, iar acum aflăm că locuitorii țării se temeau de Israel."
+       "greek": "φόβος (phobos)",
+       "greek_def_ro": "φόβος (phobos) — frica/groaza de voi.",
+       "dict_ro": "Eima — groaza, spaima care paralizează. Rahav citează, fără să știe, chiar cuvintele Cântării de la Mare: „groaza (eima) și spaima vor cădea peste ei... s-au topit (namogu) toți locuitorii Canaanului” (Exodul 15:15-16). Ce era profeție pentru Moise devine, în gura ei, constatare. Ironia e evidentă în contextul pericopei Șelah: iscoadele lui Moise se temuseră de locuitorii țării, iar acum aflăm că locuitorii țării se temeau de Israel."
       },
       {
        "t": " a căzut asupra noastră, și că toți locuitorii țării au pălit din pricina voastră,"
@@ -78317,12 +78335,12 @@
       {
        "t": "Mării Trestiilor",
        "w": "Mării Trestiilor",
-       "heb": "יַם־סוּף",
-       "translit": "iam-suf",
+       "heb": "סוּף",
+       "translit": "suf",
        "strong": "H5488",
-       "pos": "substantiv + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "Marea Trestiilor (Marea Roșie).",
-       "dict_ro": "Iam suf — literal „marea trestiilor” (suf e trestia de pe malul Nilului în care a fost ascuns Moise, Exod 2:3); Septuaginta a numit-o „Marea Roșie”, de unde tradiția creștină. Rahav pomenește două evenimente: trecerea mării de acum patruzeci de ani și victoriile recente asupra lui Sihon și Og (Numeri 21). Știrea trecuse în patruzeci de ani toate hotarele — exact cum se temuse Moise că vor auzi popoarele (Exod 15:14; Numeri 14:13-14)."
+       "dict_ro": "O divergență binecunoscută: Septuaginta are „τὴν ἐρυθρὰν θάλασσαν\" („Marea Roșie\"), nu traducerea literală a numelui ebraic „Yam Suf\" („Marea Trestiilor/Marea Stufului\") — aceeași divergență de traducere apare la toate locurile din Exod unde se menționează trecerea prin Marea Roșie."
       },
       {
        "t": " înaintea voastră, când ați ieșit din Egipt, și ce le-ați făcut celor doi regi ai amoriților care erau de cealaltă parte a Iordanului – lui Sihon și lui Og – pe care i-ați nimicit cu desăvârșire."
@@ -78370,12 +78388,13 @@
       {
        "t": "s-au topit",
        "w": "s-au topit",
-       "heb": "וַיִּמַּס",
+       "heb": "וַיִּמַּס",
        "translit": "vaimas",
        "strong": "H4549",
-       "pos": "verb, nifal, imperfect consecutiv, persoana a III-a masculin singular",
+       "pos": "verb, nifal imperfect consecutiv",
        "def_ro": "s-a topit, s-a pierdut (de frică).",
-       "dict_ro": "Masas — „a se topi, a se dizolva”, ca ceara la foc: imaginea biblică a curajului care se prăbușește (Deuteronom 20:8; Iosua 5:1). Rahav ajunge de la frică la o mărturisire de credință care reia aproape cuvânt cu cuvânt Deuteronom 4:39: „DOMNUL este Dumnezeu sus în ceruri și jos pe pământ”. Rashi redă o tradiție a înțelepților (Zevahim 116b) despre viața ei de dinainte și despre cât de bine cunoștea starea de spirit a căpeteniilor cetății."
+       "diff_ro": "Septuaginta are „ἐξέστημεν\" („am rămas uluiți/înmărmuriți\"), nu „s-au topit\" (vaimas, a se topi/lichefia) ca în ebraică — o imagine diferită, de stupoare, nu de topire a curajului.",
+       "dict_ro": "Masas — „a se topi, a se dizolva”, ca ceara la foc: imaginea biblică a curajului care se prăbușește (Deuteronomul 20:8; Iosua 5:1). Rahav ajunge de la frică la o mărturisire de credință care reia aproape cuvânt cu cuvânt Deuteronomul 4:39: „DOMNUL este Dumnezeu sus în ceruri și jos pe pământ”. Rashi redă o tradiție a înțelepților (Zevahim 116b) despre viața ei de dinainte și despre cât de bine cunoștea starea de spirit a căpeteniilor cetății."
       },
       {
        "t": ", și n-a mai rămas duh în nimeni de [frica] voastră, căci DOMNUL, Dumnezeul vostru, El e Dumnezeu, în ceruri, sus, și jos pe pământ."
@@ -78433,8 +78452,9 @@
        "heb": "אוֹת אֱמֶת",
        "translit": "ot emet",
        "strong": "H226",
-       "pos": "substantiv, în construcție + substantiv, feminin singular",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin singular",
        "def_ro": "un semn adevărat, o garanție sigură.",
+       "diff_ro": "În textul Septuagintei disponibil pentru acest verset nu apare un corespondent pentru „un semn de încredere\" (ot emet, literal „un semn adevărat\") — fraza grecească trece direct la jurământ și la promisiunea de bunăvoință, fără a menționa cererea unui semn distinct.",
        "dict_ro": "Ot emet — „un semn al adevărului”: o garanție pe care să se poată bizui. Rashi îl înțelege ca semn de recunoaștere, după care Israel o va cruța la cucerirea cetății; Metzudat David: un semn adevărat, ca să știe tot Israelul să nu pună mâna pe ei. Radak explică perechea din cererea ei: ceea ce face ea este „hesed”, bunătate fără datorie, căci iscoadele nu-i făcuseră niciun bine; de aceea cere pentru familia ei tot „hesed”, iar pentru ea însăși „adevăr”, adică plata cuvenită."
       }
      ],
@@ -78488,12 +78508,14 @@
       {
        "t": "le veți scăpa",
        "w": "le veți scăpa",
-       "heb": "וְהִצַּלְתֶּם",
+       "heb": "וְהִצַּלְתֶּם",
        "translit": "vehițaltem",
        "strong": "H5337",
-       "pos": "verb, hifil, perfect consecutiv, persoana a II-a masculin plural",
+       "pos": "verb, hifil perfect consecutiv",
        "def_ro": "veți salva, veți scăpa.",
-       "dict_ro": "Națal (hifil: hițil) — „a smulge din primejdie, a salva”, același verb folosit pentru izbăvirea din Egipt (Exod 3:8). Rahav enumeră pe rând tatăl, mama, frații, surorile „și tot ce este al lor”: nu cere doar pentru ea, ci pentru toată casa. Cererea va fi împlinită întocmai la căderea Ierihonului (Iosua 6:23, 25), când iscoadele îi scot pe toți ai ei din cetate."
+       "greek": "ἐξαιρέω (exaireo)",
+       "greek_def_ro": "ἐξαιρέω (exaireo) — a scăpa, a scoate din primejdie.",
+       "dict_ro": "Națal (hifil: hițil) — „a smulge din primejdie, a salva”, același verb folosit pentru izbăvirea din Egipt (Exodul 3:8). Rahav enumeră pe rând tatăl, mama, frații, surorile „și tot ce este al lor”: nu cere doar pentru ea, ci pentru toată casa. Cererea va fi împlinită întocmai la căderea Ierihonului (Iosua 6:23, 25), când iscoadele îi scot pe toți ai ei din cetate."
       },
       {
        "t": " sufletele de la moarte.”"
@@ -78532,9 +78554,11 @@
        "heb": "חֶסֶד וֶאֱמֶת",
        "translit": "hesed veemet",
        "strong": "H2617",
-       "pos": "substantiv + conjuncție + substantiv",
+       "pos": "substantiv, masculin singular + substantiv, feminin singular",
        "def_ro": "bunătate statornică și credincioșie.",
-       "dict_ro": "Hesed veemet — perechea clasică a credincioșiei biblice: hesed e bunătatea care depășește datoria, emet — statornicia, fidelitatea față de cuvânt; împreună descriu purtarea lui Dumnezeu (Exod 34:6) și loialitatea dintre oameni (Geneza 24:49; 47:29). Metzudat David citește aici o nuanță fină: ea le-a făcut bine sperând la răsplată, dar ei îi vor face un „hesed al adevărului”, fără așteptarea vreunei răsplăți. „Dacă nu vei dezvălui” se referă, după Radak și Metzudat David, la semnul convenit — altfel și alții cu case pe zid l-ar fi folosit ca să scape."
+       "greek": "ἔλεος καὶ ἀλήθεια (eleos kai aletheia)",
+       "greek_def_ro": "ἔλεος καὶ ἀλήθεια (eleos kai aletheia) — milă și adevăr.",
+       "dict_ro": "Hesed veemet — perechea clasică a credincioșiei biblice: hesed e bunătatea care depășește datoria, emet — statornicia, fidelitatea față de cuvânt; împreună descriu purtarea lui Dumnezeu (Exodul 34:6) și loialitatea dintre oameni (Geneza 24:49; 47:29). Metzudat David citește aici o nuanță fină: ea le-a făcut bine sperând la răsplată, dar ei îi vor face un „hesed al adevărului”, fără așteptarea vreunei răsplăți. „Dacă nu vei dezvălui” se referă, după Radak și Metzudat David, la semnul convenit — altfel și alții cu case pe zid l-ar fi folosit ca să scape."
       },
       {
        "t": ".”"
@@ -78584,11 +78608,12 @@
       {
        "t": "cu o frânghie",
        "w": "cu o frânghie",
-       "heb": "בַּחֶבֶל",
+       "heb": "בַּחֶבֶל",
        "translit": "bahevel",
        "strong": "H2256",
-       "pos": "prepoziție + substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "cu frânghia.",
+       "diff_ro": "Septuaginta nu menționează frânghia aici — are doar „καὶ κατεχάλασεν αὐτοὺς διὰ τῆς θυρίδος\" („i-a coborât prin fereastră\"), fără a specifica mijlocul (frânghia, hevel) prin care au fost coborâți, ca în ebraică.",
        "dict_ro": "Hevel — frânghia, funia (și, prin extensie, „partea măsurată cu funia”, lotul de moștenire). Casa lui Rahav era construită în grosimea zidului, cu fereastra spre exterior — de aceea putea să-i coboare afară, chiar cu porțile închise. Scena are paralele: Mical îl coboară pe David pe fereastră (1 Samuel 19:12), iar ucenicii îl coboară pe Pavel peste zidul Damascului într-un coș (Faptele apostolilor 9:25). Rashi redă rugăciunea ei, după tradiția înțelepților: „cu acestea am păcătuit, cu acestea iartă-mă”."
       },
       {
@@ -78651,11 +78676,13 @@
       {
        "t": "Ascundeți-vă",
        "w": "Ascundeți-vă",
-       "heb": "וְנַחְבֵּתֶם",
-       "translit": "venahbetem",
+       "heb": "וְנַחְבֵּתֶם",
+       "translit": "venahbētem",
        "strong": "H2244",
-       "pos": "verb, nifal, perfect consecutiv, persoana a II-a masculin plural",
+       "pos": "verb, nifal perfect consecutiv",
        "def_ro": "vă veți ascunde, ascundeți-vă.",
+       "greek": "κρύπτω (krypto)",
+       "greek_def_ro": "κρύπτω (krypto) — a se ascunde.",
        "dict_ro": "Hava — „a se ascunde”; forma de aici e neobișnuită, fără alef, cum observă Radak. Sfatul lui Rahav e contrar instinctului: nu spre Iordan, unde îi caută urmăritorii, ci spre munții de la apus de Ierihon, pentru trei zile. De unde știa că se vor întoarce după trei zile? Rashi răspunde, după înțelepți: a avut duh sfânt. Radak aduce și o explicație după sensul simplu: a socotit o zi până la Iordan, căutarea pe drum și întoarcerea — cam trei zile."
       },
       {
@@ -78712,11 +78739,13 @@
       {
        "t": "dezlegați",
        "w": "dezlegați",
-       "heb": "נְקִיִּם",
-       "translit": "nekiim",
+       "heb": "נְקִיִּם",
+       "translit": "nekim",
        "strong": "H5355",
        "pos": "adjectiv, masculin plural",
        "def_ro": "nevinovați, liberi de obligație.",
+       "greek": "ἀθῷος (athoos)",
+       "greek_def_ro": "ἀθῷος (athoos) — nevinovat, fără vină (dezlegat de jurământ).",
        "dict_ro": "Naki — „curat, nevinovat”, apoi „scutit de o obligație” (Geneza 24:8, 41, unde slujitorul lui Avraam e „dezlegat” de jurământ dacă femeia nu vrea să vină). Iscoadele, care jurăseră deja, precizează acum condițiile ca să nu calce jurământul fără voie — Metzudat David: „vrem să fim curați de vina călcării jurământului, de aceea explicăm bine lucrul”. Rashi: „ne bizuim pe tine să faci semnul acesta”."
       },
       {
@@ -78771,12 +78800,14 @@
       {
        "t": "frânghie cărămizie",
        "w": "frânghie cărămizie",
-       "heb": "תִּקְוַת חוּט הַשָּׁנִי",
-       "translit": "tikvat hut hașani",
+       "heb": "תִּקְוַת",
+       "translit": "tikvat",
        "strong": "H8615",
-       "pos": "substantiv, în construcție + substantiv + substantiv cu articol",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "funie de fir stacojiu.",
-       "dict_ro": "Tikva — aici „funie, sfoară” (de la kav, „fir, sfoară de măsurat”), dar același cuvânt înseamnă și „speranță”: frânghia lui Rahav e, literal, o „speranță” legată la fereastră. Șani e culoarea stacojie obținută din coșenilă (tola'at șani), folosită la Cort (Exod 25:4), la curățirea leprosului (Levitic 14:4) și la vaca roșie (Numeri 19:6). Talmudul (Meghila 14b) leagă cuvântul tikvat de „Hulda, fiica lui Tikva” (2 Împărați 22:14) și spune că din Rahav s-au născut opt profeți și preoți, printre ei Ieremia, iar ea însăși s-a convertit și s-a căsătorit cu Ioșua. Mulți Părinți ai Bisericii au văzut în firul roșu o prefigurare a sângelui lui Hristos."
+       "greek": "σπαρτίον κόκκινον (spartion kokkinon)",
+       "greek_def_ro": "σπαρτίον κόκκινον (spartion kokkinon) — sfoara/cordonul stacojiu.",
+       "dict_ro": "Tikva — aici „funie, sfoară” (de la kav, „fir, sfoară de măsurat”), dar același cuvânt înseamnă și „speranță”: frânghia lui Rahav e, literal, o „speranță” legată la fereastră. Șani e culoarea stacojie obținută din coșenilă (tola'at șani), folosită la Cort (Exodul 25:4), la curățirea leprosului (Leviticul 14:4) și la vaca roșie (Numeri 19:6). Talmudul (Meghila 14b) leagă cuvântul tikvat de „Hulda, fiica lui Tikva” (2 Împărați 22:14) și spune că din Rahav s-au născut opt profeți și preoți, printre ei Ieremia, iar ea însăși s-a convertit și s-a căsătorit cu Ioșua. Mulți Părinți ai Bisericii au văzut în firul roșu o prefigurare a sângelui lui Hristos."
       },
       {
        "t": " la fereastra prin care ne-ai coborât, iar pe tatăl tău, pe mama ta, pe frații tăi și toată familia tatălui tău îi vei aduna la tine în casă."
@@ -78840,12 +78871,13 @@
       {
        "t": "sângele lui",
        "w": "sângele lui",
-       "heb": "דָּמוֹ",
+       "heb": "דָּמוֹ",
        "translit": "damo",
        "strong": "H1818",
-       "pos": "substantiv, masculin singular + sufix persoana a III-a masculin singular",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "sângele lui (vina morții lui).",
-       "dict_ro": "Dam — sângele, iar în expresia „sângele lui asupra capului lui” — vina morții: cine iese din casă își poartă singur răspunderea. Rashi explică: „vina uciderii lui e asupra lui, căci el și-a pricinuit moartea”; iar pentru cei rămași înăuntru, iscoadele își asumă răspunderea: „sângele lui asupra capului nostru”. Casa lui Rahav devine, ca în noaptea Paștelui (Exod 12:22-23), un loc al ocrotirii: în ea ești apărat, în afara ei nu."
+       "diff_ro": "Septuaginta nu redă aici imaginea literală a sângelui asupra capului (damo berosho) — are „ἔνοχος ἑαυτῷ ἔσται\" („va fi vinovat față de sine însuși\"), o formulare juridică abstractă, nu imaginea ebraică a sângelui care cade asupra capului celui vinovat.",
+       "dict_ro": "Dam — sângele, iar în expresia „sângele lui asupra capului lui” — vina morții: cine iese din casă își poartă singur răspunderea. Rashi explică: „vina uciderii lui e asupra lui, căci el și-a pricinuit moartea”; iar pentru cei rămași înăuntru, iscoadele își asumă răspunderea: „sângele lui asupra capului nostru”. Casa lui Rahav devine, ca în noaptea Paștelui (Exodul 12:22-23), un loc al ocrotirii: în ea ești apărat, în afara ei nu."
       },
       {
        "t": " va fi asupra capului lui, iar noi vom fi nevinovați. Dar oricine este cu tine în casă, sângele lui să fie asupra capului nostru, dacă se va ridica vreo mână asupra lui."
@@ -78901,11 +78933,13 @@
       {
        "t": "jurământul tău",
        "w": "jurământul tău",
-       "heb": "מִשְּׁבֻעָתֵךְ",
-       "translit": "mișevuateh",
+       "heb": "מִשְּׁבֻעָתֵךְ",
+       "translit": "mișvuatēh",
        "strong": "H7621",
-       "pos": "prepoziție + substantiv, feminin singular + sufix persoana a II-a feminin",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "jurământul tău (cel cerut de tine).",
+       "greek": "ὅρκος (horkos)",
+       "greek_def_ro": "ὅρκος (horkos) — jurământ.",
        "dict_ro": "Șevua — jurământul, înrudit cu șeva, „șapte”, legătură pe care o ilustrează jurământul de la Beer-Șeba, pecetluit cu șapte mielușele (Geneza 21:28-31). Iscoadele îl numesc „jurământul tău”, pentru că ea l-a cerut și ea le-a dictat termenii. A treia condiție încheie lista: frânghia la fereastră, familia înăuntru, iar semnul să rămână secret. Metzudat David precizează că „discuția noastră” este tocmai semnul și însemnul convenit."
       },
       {
@@ -78949,11 +78983,12 @@
       {
        "t": "fereastră",
        "w": "fereastră",
-       "heb": "בַּחַלּוֹן",
+       "heb": "בַּחַלּוֹן",
        "translit": "bahalon",
        "strong": "H2474",
-       "pos": "prepoziție + substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "la fereastră.",
+       "diff_ro": "Textul grecesc disponibil pentru acest verset se termină după trimiterea bărbaților — nu include partea finală a versetului ebraic, despre legarea cordonului stacojiu la fereastră.",
        "dict_ro": "Halon — fereastra, de la halal, „a găuri, a străpunge”: o deschizătură în zid. Fereastra prin care Rahav a salvat iscoadele devine locul semnului care o va salva pe ea. Radak și Metzudat David explică timpul verbului: nu a legat frânghia în clipa aceea, ci Scriptura povestește dinainte că așa a făcut, la vremea cuceririi cetății; Metzudat David observă și că „i-a lăsat să plece” se spune pentru că au mers la munte după sfatul ei."
       },
       {
@@ -79006,8 +79041,10 @@
        "heb": "הָהָרָה",
        "translit": "hahara",
        "strong": "H2022",
-       "pos": "substantiv, masculin singular, cu articol + he direcțional",
+       "pos": "substantiv, masculin singular",
        "def_ro": "spre munte, în munte.",
+       "greek": "ὀρεινή (oreine)",
+       "greek_def_ro": "ὀρεινή (oreine) — regiune muntoasă, zona de deal.",
        "dict_ro": "Har — muntele; forma hahara are sufixul care arată direcția: „spre munte”. Probabil e vorba de dealurile de calcar de la apus de Ierihon, pline de peșteri, unde era ușor să te ascunzi. Iscoadele urmează întocmai sfatul lui Rahav, iar urmăritorii caută „de-a lungul drumului” spre Iordan — sfatul ei se dovedește exact."
       },
       {
@@ -79048,11 +79085,13 @@
       {
        "t": "au trecut dincolo",
        "w": "au trecut dincolo",
-       "heb": "וַיַּעַבְרוּ",
-       "translit": "vaiavru",
+       "heb": "וַיַּעַבְרוּ",
+       "translit": "vaiaavru",
        "strong": "H5674",
-       "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin plural",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "au trecut (râul).",
+       "greek": "διαβαίνω (diabaino)",
+       "greek_def_ro": "διαβαίνω (diabaino) — a trece dincolo, a traversa.",
        "dict_ro": "Avar — „a trece”, verbul din care vine și ivri, „evreu” (Avraam, cel „de dincolo” de râu, Iosua 24:2-3). Rashi precizează că au trecut Iordanul. Întoarcerea iscoadelor lui Ioșua contrastează cu a celor douăsprezece iscoade ale lui Moise din pericopa Șelah: acelea s-au întors după patruzeci de zile cu un raport care a speriat poporul; acestea, după trei zile, cu un raport scurt și plin de încredere. Radak explică: s-au întors pe drum, după ce stătuseră ascunși în munte."
       },
       {
@@ -79105,9 +79144,12 @@
        "heb": "נָמֹגוּ",
        "translit": "namogu",
        "strong": "H4127",
-       "pos": "verb, nifal, perfect, persoana a III-a plural",
+       "pos": "verb, nifal perfect",
        "def_ro": "s-au topit, și-au pierdut curajul.",
-       "dict_ro": "Mug — „a se topi, a se înmuia” (despre pământ sub ploaie, Psalmii 65:10, sau despre inimi de frică). Raportul iscoadelor reia exact cuvintele lui Rahav (2:9) — „au pălit toți locuitorii țării” — și, prin ea, cuvintele Cântării de la Mare (Exod 15:15). Cu acest verset, care e răspunsul la raportul descurajator al iscoadelor din pericopa Șelah (Numeri 13:31-33), se încheie și haftara. Metzudat David: după ce au povestit toate întâmplările, au spus concluzia: „DOMNUL a dat toată țara în mâinile noastre”."
+       "greek": "καταπτήσσω (kataptesso)",
+       "greek_def_ro": "καταπτήσσω (kataptesso) — a se ghemui înfricoșat de teroare.",
+       "diff_ro": "Septuaginta are „κατέπτηχε\" („s-a ghemuit, s-a încovoiat de frică\"), nu „au pălit\" (namogu, a se topi/dizolva) ca în ebraică — aceeași temă a terorii locuitorilor Canaanului, redată printr-o imagine diferită.",
+       "dict_ro": "Mug — „a se topi, a se înmuia” (despre pământ sub ploaie, Psalmul 65:10, sau despre inimi de frică). Raportul iscoadelor reia exact cuvintele lui Rahav (2:9) — „au pălit toți locuitorii țării” — și, prin ea, cuvintele Cântării de la Mare (Exodul 15:15). Cu acest verset, care e răspunsul la raportul descurajator al iscoadelor din pericopa Șelah (Numeri 13:31-33), se încheie și haftara. Metzudat David: după ce au povestit toate întâmplările, au spus concluzia: „DOMNUL a dat toată țara în mâinile noastre”."
       },
       {
        "t": " înaintea noastră."
