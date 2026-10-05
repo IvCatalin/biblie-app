@@ -1399,7 +1399,7 @@
     margin:12px;
     border:1.5px solid #16294a;
     border-radius:18px;
-    padding:24px 16px 22px;
+    padding:18px 16px 16px;
   }
   .word-popover .wp-corner{
     position:absolute;
@@ -1420,7 +1420,7 @@
     position:relative;
     width:60%;
     max-width:172px;
-    margin:4px auto 10px;
+    margin:2px auto 6px;
   }
   .word-popover .wp-medallion-bg{ display:block; width:100%; }
   .word-popover .wp-medallion-content{
@@ -1435,7 +1435,7 @@
     height:1.5px;
     background:#16294a;
     opacity:0.5;
-    margin:4px auto 16px;
+    margin:3px auto 10px;
   }
 
   .ref-preview-popover{
@@ -1549,7 +1549,7 @@
   .wp-strong{
     display:block;
     width:fit-content;
-    margin:0 auto 10px;
+    margin:0 auto 7px;
     font-family:'EB Garamond', serif;
     font-style:italic;
     font-weight:600;
@@ -1573,7 +1573,7 @@
     text-align:center;
     font-family:'EB Garamond', serif;
   }
-  .wp-extra .wp-extra-block + .wp-extra-block{margin-top:16px;}
+  .wp-extra .wp-extra-block + .wp-extra-block{margin-top:12px;}
   .wp-extra .wp-extra-label{
     display:block;
     font-family:'EB Garamond', serif;
@@ -4871,7 +4871,7 @@ function showWordPopover(tok, anchorEl){
 
   // Titlul cardului arată cuvântul/fraza curată, fără ghilimelele de citare
   // rămase din textul Rosen (ex. „Să fie", „Dumnezeu) la marginile frazei-token.
-  document.getElementById("wp-word").textContent = (tok.t || "").replace(/^[„"“”‘’«»'"]+|[„"“”‘’«»'"]+$/g, "").trim();
+  document.getElementById("wp-word").textContent = (tok.t || "").replace(/^[„"“”‘’«»'"]+|[„"“”‘’«»'",.;:!?]+$/g, "").trim();
   document.getElementById("wp-heb").textContent = tok.heb;
   document.getElementById("wp-translit").textContent = tok.translit;
   document.getElementById("wp-strong").textContent = tok.pos || "";
