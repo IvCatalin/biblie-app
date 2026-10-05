@@ -57604,11 +57604,13 @@
       {
        "t": "ligheanele",
        "w": "ligheanele",
-       "heb": "הַכִּיֹּרוֹת",
-       "translit": "ha-kiyorot",
+       "heb": "הַכִּיֹּרוֹת",
+       "translit": "hakiorot",
        "strong": "H3595",
        "pos": "substantiv, masculin plural",
        "def_ro": "ligheanele, bazinele.",
+       "greek": "λέβης (lebes)",
+       "greek_def_ro": "λέβης (lebes) — cazan, lighean.",
        "dict_ro": "Kiyor — Rashi identifică termenul kiyorot aici cu sirot de la v.45 (traduse „oale”), explicând că sunt vase folosite pentru scoaterea cenușii de pe altar; alături de lopeți (pentru strânsul cenușii) și vasele pentru stropirea sângelui jertfelor, formează trusa completă a slujirii zilnice de la altarul de aramă din curte."
       },
       {
@@ -57650,7 +57652,11 @@
      "t": "cei doi stâlpi și cele două globuri ale capitelurilor care se aflau în vârful stâlpilor; și cele două seturi ornamentale de rețele care acopereau cele două globuri ale capitelurilor care se aflau în vârful stâlpilor;",
      "heb": "עַמֻּדִים שְׁנַיִם וְגֻלֹּת הַכֹּתָרֹת אֲשֶׁר־עַל־רֹאשׁ הָעַמֻּדִים שְׁתָּיִם וְהַשְּׂבָכוֹת שְׁתַּיִם לְכַסּוֹת אֶת־שְׁתֵּי גֻּלֹּת הַכֹּתָרֹת אֲשֶׁר עַל־רֹאשׁ הָעַמּוּדִים׃",
      "translit": "Amudim șnayim vegulot hakotarot așer-al-roș haamudim ștayim vehasvachot ștayim lechasot et-ștei gulot hakotarot așer al-roș haamudim.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "cei doi stâlpi și cele două globuri ale capitelurilor care se aflau în vârful stâlpilor; și cele două seturi ornamentale de rețele care acopereau cele două globuri ale capitelurilor care se aflau în vârful stâlpilor;"
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -57690,11 +57696,13 @@
       {
        "t": "rodii",
        "w": "rodii",
-       "heb": "הָרִמֹּנִים",
-       "translit": "ha-rimonim",
+       "heb": "הָרִמֹּנִים",
+       "translit": "harimonim",
        "strong": "H7416",
        "pos": "substantiv, masculin plural",
        "def_ro": "rodiile.",
+       "greek": "ῥοά (rhoa)",
+       "greek_def_ro": "ῥοά (rhoa) — rodie.",
        "dict_ro": "Rimon — Rashi observă că suta de rodii pe fiecare rând, înmulțită cu cele două rânduri și cele două rețele, dă exact patru sute, cifra citată aici — o verificare aritmetică internă a textului, obișnuită la comentatorii medievali pentru pasajele cu inventare numerice detaliate."
       },
       {
@@ -57737,7 +57745,11 @@
      "t": "și cele zece socluri și cele zece ligheane care se aflau pe socluri;",
      "heb": "וְאֶת־הַמְּכֹנוֹת עֶשֶׂר וְאֶת־הַכִּיֹּרֹת עֲשָׂרָה עַל־הַמְּכֹנוֹת׃",
      "translit": "Veet-hamechonot eser veet-hakiyorot asara al-hamechonot.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "și cele zece socluri și cele zece ligheane care se aflau pe socluri;"
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -57761,7 +57773,11 @@
      "t": "și „Marea” cea unică și cei doisprezece boi care se aflau sub „Mare”;",
      "heb": "וְאֶת־הַיָּם הָאֶחָד וְאֶת־הַבָּקָר שְׁנֵים־עָשָׂר תַּחַת הַיָּם׃",
      "translit": "Veet-hayam haehad veet-habakar șneim-asar tahat hayam.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "și „Marea” cea unică și cei doisprezece boi care se aflau sub „Mare”;"
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -57792,11 +57808,12 @@
       {
        "t": "aramă lustruită",
        "w": "aramă lustruită",
-       "heb": "נְחֹשֶׁת מְמֹרָט",
-       "translit": "nehoșet memorat",
+       "heb": "מְמֹרָט",
+       "translit": "memorat",
        "strong": "H4838",
-       "pos": "verb, pual participiu",
+       "pos": "verb, pual participiu pasiv",
        "def_ro": "aramă lustruită, șlefuită.",
+       "diff_ro": "Septuaginta are aici „χαλκᾶ ἄρδην\" („de aramă, cu desăvârșire\"), nu specific „lustruită\" (memorat) ca în ebraică — și adaugă o mențiune complet absentă din ebraică, despre „patruzeci și opt de stâlpi\" ai casei regelui și ai Casei DOMNULUI.",
        "dict_ro": "Marat, la forma pasivă pual — arama era șlefuită până la o strălucire aproape aurie, tehnică menționată și de Josephus Flavius (Antichitățile Iudaice, Cartea VIII, cap. 3), care descrie vasele de aramă ale Templului ca având o strălucire ce imita aurul, la o fracțiune din cost — detaliu tehnologic real al metalurgiei fenicio-israelite din secolul al X-lea î.e.n."
       },
       {
@@ -57855,11 +57872,14 @@
       {
        "t": "clei tare",
        "w": "clei tare",
-       "heb": "בְּמַעֲבֵה הָאֲדָמָה",
-       "translit": "be-maave ha-adama",
+       "heb": "בְּמַעֲבֵה",
+       "translit": "bemaavē",
        "strong": "H4568",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "în grosimea/densitatea pământului [forme de lut].",
+       "greek": "πάχος τῆς γῆς (pachos tes ges)",
+       "greek_def_ro": "πάχος τῆς γῆς (pachos tes ges) — grosimea pământului, sol compact.",
+       "diff_ro": "Septuaginta are al doilea toponim „Σειρά\", nu o transliterare a lui „Țartan\" ca în ebraică — un nume complet diferit pentru acest al doilea loc.",
        "dict_ro": "Maave — Rashi explică procedeul: vasele de aramă erau turnate direct în tipare de lut compact, săpate în pământul dens al câmpiei Iordanului, aproape de Sucot, zonă cunoscută pentru calitatea specială a lutului ei, potrivit pentru turnătorie la scară mare — motivul practic pentru care Solomon a ales acest loc, departe de Ierusalim, pentru turnarea vaselor uriașe ca «Marea»."
       },
       {
@@ -57899,7 +57919,11 @@
      "t": "Solomon a lăsat toate vasele [necântărite], pentru că erau foarte multe; greutatea aramei nu a fost calculată.",
      "heb": "וַיַּנַּח שְׁלֹמֹה אֶת־כָּל־הַכֵּלִים מֵרֹב מְאֹד מְאֹד לֹא נֶחְקַר מִשְׁקַל הַנְּחֹשֶׁת׃",
      "translit": "Vayanah Șlomo et-kol-hakelim merov meod meod lo nehkar mișkal hanehoșet.",
-     "tokens": [],
+     "tokens": [
+      {
+       "t": "Solomon a lăsat toate vasele [necântărite], pentru că erau foarte multe; greutatea aramei nu a fost calculată."
+      }
+     ],
      "textCompare": [
       {
        "source": "Textul Masoretic (ebraică)",
@@ -57938,12 +57962,14 @@
       {
        "t": "pâinea",
        "w": "pâinea",
-       "heb": "לֶחֶם הַפָּנִים",
-       "translit": "lehem ha-panim",
+       "heb": "לֶחֶם",
+       "translit": "lehem",
        "strong": "H3899",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "pâinea prezenței [pâinile de pe masa sfântă].",
-       "dict_ro": "Lehem ha-panim, literal „pâinea feței” — cele douăsprezece pâini așezate săptămânal pe masa de aur din Sanctuar (cf. Levitic 24:5-9), câte una pentru fiecare trib; masa de aur din Templul lui Solomon reproduce, la o scară mai măreață, masa acoperită cu aur a Cortului Întâlnirii din pustiu (Exod 25:23-30), continuitate directă de rit între cele două sanctuare."
+       "greek": "ἄρτος (artos)",
+       "greek_def_ro": "ἄρτος (artos) — pâine.",
+       "dict_ro": "Lehem ha-panim, literal „pâinea feței” — cele douăsprezece pâini așezate săptămânal pe masa de aur din Sanctuar (cf. Leviticul 24:5-9), câte una pentru fiecare trib; masa de aur din Templul lui Solomon reproduce, la o scară mai măreață, masa acoperită cu aur a Cortului Întâlnirii din pustiu (Exodul 25:23-30), continuitate directă de rit între cele două sanctuare."
       },
       {
        "t": " – din aur;"
@@ -57999,12 +58025,14 @@
       {
        "t": "sfeșnicele",
        "w": "sfeșnicele",
-       "heb": "הַמְּנֹרוֹת",
-       "translit": "ha-menorot",
+       "heb": "הַמְּנֹרוֹת",
+       "translit": "hamnorot",
        "strong": "H4501",
        "pos": "substantiv, feminin plural",
        "def_ro": "sfeșnicele.",
-       "dict_ro": "Menora, aici la plural — spre deosebire de Cortul Întâlnirii, care avea o singură menora (Exod 25:31), Templul lui Solomon are zece, câte cinci pe fiecare parte. Rashi păstrează o tradiție remarcabilă despre plasare: menora originală a lui Moise stătea în centru, iar cele zece noi erau așezate simetric, cinci în dreapta și cinci în stânga ei — nu ca înlocuitor, ci ca adaos de cinste în jurul celei vechi, sfinte prin însăși vechimea ei."
+       "greek": "λυχνία (lychnia)",
+       "greek_def_ro": "λυχνία (lychnia) — sfeșnic.",
+       "dict_ro": "Menora, aici la plural — spre deosebire de Cortul Întâlnirii, care avea o singură menora (Exodul 25:31), Templul lui Solomon are zece, câte cinci pe fiecare parte. Rashi păstrează o tradiție remarcabilă despre plasare: menora originală a lui Moise stătea în centru, iar cele zece noi erau așezate simetric, cinci în dreapta și cinci în stânga ei — nu ca înlocuitor, ci ca adaos de cinste în jurul celei vechi, sfinte prin însăși vechimea ei."
       },
       {
        "t": ", cinci în dreapta și cinci în stânga, înaintea Sfintei Sfintelor – din aur curat; și mugurii, candelele și cleștii – din aur;"
@@ -58052,11 +58080,14 @@
       {
        "t": "balamalele",
        "w": "balamalele",
-       "heb": "הַפֹּתוֹת",
-       "translit": "ha-potot",
+       "heb": "וְהַפֹּתוֹת",
+       "translit": "vehapotot",
        "strong": "H6596",
        "pos": "substantiv, feminin plural",
        "def_ro": "balamalele, țâțânile.",
+       "greek": "θύρωμα (thyroma)",
+       "greek_def_ro": "θύρωμα (thyroma) — balamale, ferecături de uși.",
+       "diff_ro": "Lista grecească de obiecte diferă substanțial la începutul versetului („πρόθυρα\", vestibule, și „ἧλοι\", cuie, în loc de boluri, instrumente muzicale și cădelnițe), dar corespondentul pentru balamale/ferecăturile ușilor se păstrează spre final.",
        "dict_ro": "Pot — Rashi identifică aceste balamale de aur drept țâțânile ușilor Sfintei Sfintelor și ale Sălii Templului; chiar și un element structural, funcțional, ascuns vederii curente (balamaua ușii), e făcut din aur curat — detaliu care subliniază caracterul integral, fără compromisuri, al lucrării Templului, nu doar la elementele vizibile ale ritului."
       },
       {
