@@ -72475,9 +72475,11 @@
        "heb": "וּמְנוּסִי",
        "translit": "umnusi",
        "strong": "H4498",
-       "pos": "conjuncție + substantiv, masculin singular + sufix persoana I",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "locul meu de scăpare, refugiul meu.",
-       "dict_ro": "Manos — locul în care fugi ca să scapi, de la nus, „a fugi”; Metzudat Țion îl explică „din fugă și scăpare”. Triada „Tăria mea, Cetățuia mea și Refugiul meu” e o mărturisire personală a profetului persecutat, iar Metzudat David explică: când vine necazul, fug la Tine ca să scap. Rashi aduce și lectura lui Menahem, care leagă cuvântul de nes, „steag, minune”, ca în „ai dat celor ce se tem de Tine un steag” (Psalmii 60:4)."
+       "greek": "καταφυγή μου (kataphyge mou)",
+       "greek_def_ro": "καταφυγή μου (kataphyge mou) — refugiul meu.",
+       "dict_ro": "Manos — locul în care fugi ca să scapi, de la nus, „a fugi”; Metzudat Țion îl explică „din fugă și scăpare”. Triada „Tăria mea, Cetățuia mea și Refugiul meu” e o mărturisire personală a profetului persecutat, iar Metzudat David explică: când vine necazul, fug la Tine ca să scap. Rashi aduce și lectura lui Menahem, care leagă cuvântul de nes, „steag, minune”, ca în „ai dat celor ce se tem de Tine un steag” (Psalmul 60:4)."
       },
       {
        "t": " în ziua nenorocirii – la Tine vor veni neamuri de la marginile pământului și vor spune: „Strămoșii noștri au moștenit doar minciună, deșertăciune care nu are niciun rost."
@@ -72542,6 +72544,8 @@
        "strong": "H430",
        "pos": "substantiv, masculin plural",
        "def_ro": "dumnezei (aici: idoli făcuți de om).",
+       "greek": "θεός (theos)",
+       "greek_def_ro": "θεός (theos) — dumnezeu (zeu).",
        "dict_ro": "Elohim — același cuvânt desemnează pe Dumnezeu și pe „dumnezeii” neamurilor; versetul se joacă tocmai cu această dublă folosire: „să-și facă omul elohim — și ei nu sunt elohim!”. Metzudat David dezvoltă logica: dacă oamenii înșiși nu sunt dumnezei, cum ar putea lucrarea mâinilor lor să fie mai presus decât ei? Radak pune întrebarea în gura neamurilor care se vor întoarce, uimite cum a putut exista vreodată o asemenea credință."
       },
       {
@@ -72593,11 +72597,13 @@
       {
        "t": "numele meu este DOMNUL",
        "w": "numele meu este DOMNUL",
-       "heb": "שְׁמִי יְהוָה",
-       "translit": "șemi ADONAI",
+       "heb": "שְׁמִי",
+       "translit": "șemi",
        "strong": "H8034",
-       "pos": "substantiv + sufix persoana I + nume divin",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "numele Meu este DOMNUL.",
+       "greek": "ὄνομά μοι Κύριος (onoma moi Kyrios)",
+       "greek_def_ro": "ὄνομά μοι Κύριος (onoma moi Kyrios) — numele meu este DOMNUL.",
        "dict_ro": "Șem — numele, în gândirea biblică expresia însăși a ființei și a puterii celui ce îl poartă. Rashi citește „vor cunoaște că numele Meu este DOMNUL” la propriu: stăpânitor și suveran, care Își împlinește hotărârea. Metzudat David precizează că Numele indică puterea absolută, iar oamenii nu vor mai fi nedumeriți ca în trecut; Radak pune versetul în legătură cu cei care refuză să se întoarcă: de data aceasta le va face cunoscută mâna Sa prin pedeapsă."
       },
       {
@@ -72654,12 +72660,12 @@
       {
        "t": "o daltă de fier",
        "w": "o daltă de fier",
-       "heb": "בְּעֵט בַּרְזֶל",
-       "translit": "beet barzel",
+       "heb": "בְּעֵט",
+       "translit": "beēt",
        "strong": "H5842",
-       "pos": "prepoziție + substantiv, masculin singular, în construcție + substantiv",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "o daltă (condei) de fier.",
-       "dict_ro": "Et — condeiul, dalta de scris; imaginea e a unei inscripții săpate în piatră, care nu mai poate fi ștearsă (compară Iov 19:24). Rashi o numește o pildă: păcatul e gravat adânc, de neșters; Metzudat David adaugă că e scris atât pe „tăblița inimii” — în gând —, cât și pe coarnele altarelor — în faptă. Rashi aduce și un midraș: „dalta de fier” e Ieremia, numit „zid de fier” (1:18), iar „vârful de diamant” e Ezechiel, căruia i s-a spus „ți-am făcut fruntea ca diamantul” (Ezechiel 3:9)."
+       "dict_ro": "Acest verset și cele trei care îl urmează sunt complet absente din Septuaginta disponibilă — un pasaj întreg, de patru versete, lipsește din tradiția textuală greacă a acestei cărți, consecvent cu caracterul ei în general mai scurt decât textul masoretic (vezi și absența similară de la capitolul 33)."
       },
       {
        "t": ", cu o unghie [ca] de diamant, gravat pe tăblița inimii lor și pe coarnele altarelor lor."
@@ -72719,12 +72725,13 @@
       {
        "t": "copacii lor sacri",
        "w": "copacii lor sacri",
-       "heb": "וַאֲשֵׁרֵיהֶם",
-       "translit": "vaașereihem",
+       "heb": "וַאֲשֵׁרֵיהֶם",
+       "translit": "vaașērēhem",
        "strong": "H842",
-       "pos": "conjuncție + substantiv, masculin plural + sufix",
+       "pos": "nume propriu + sufix",
        "def_ro": "așerele lor, stâlpii/pomii închinați zeiței Așera.",
-       "dict_ro": "Așera — zeița canaanită a fertilității și, prin extensie, stâlpul de lemn sau pomul sacru închinat ei, pus lângă altar; Metzudat Țion îl definește simplu: „un copac căruia i se slujește”. Tora poruncise: „să nu-ți sădești așeră de niciun fel de copac lângă altarul DOMNULUI” (Deuteronom 16:21). Rashi explică comparația: își aminteau de altare cum își amintește omul de fiul pe care îl dorește — o legătură afectivă, nu doar un obicei."
+       "diff_ro": "Vezi nota de la versetul precedent — acest verset face parte din pasajul de patru versete absent din Septuaginta disponibilă.",
+       "dict_ro": "Așera — zeița canaanită a fertilității și, prin extensie, stâlpul de lemn sau pomul sacru închinat ei, pus lângă altar; Metzudat Țion îl definește simplu: „un copac căruia i se slujește”. Tora poruncise: „să nu-ți sădești așeră de niciun fel de copac lângă altarul DOMNULUI” (Deuteronomul 16:21). Rashi explică comparația: își aminteau de altare cum își amintește omul de fiul pe care îl dorește — o legătură afectivă, nu doar un obicei."
       },
       {
        "t": " de lângă pomii înfrunziți de pe dealurile înalte."
@@ -72787,8 +72794,9 @@
        "heb": "לָבַז",
        "translit": "lavaz",
        "strong": "H957",
-       "pos": "prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "spre jaf, ca pradă.",
+       "diff_ro": "Vezi nota de la primul verset al acestui pasaj — face parte din grupul de patru versete absente din Septuaginta disponibilă.",
        "dict_ro": "Baz — prada, jaful de război. Rashi citește „cei de pe munte, în câmpie” ca pe Ierusalimul așezat pe munte, înconjurat de câmpie; Radak îi vede pe cei ce slujeau idolilor pe munți. Metzudat David explică scena: jefuitorii vor scoate averea în câmpul unde vor fi tăbărât împotriva cetății și o vor împărți acolo. Profeția s-a împlinit la litera ei: 2 Împărați 25:13-17 enumeră comorile Templului duse la Babilon."
       },
       {
@@ -72846,12 +72854,13 @@
       {
        "t": "Vei fi deposedat",
        "w": "Vei fi deposedat",
-       "heb": "וְשָׁמַטְתָּה",
+       "heb": "וְשָׁמַטְתָּה",
        "translit": "veșamatta",
        "strong": "H8058",
-       "pos": "verb, qal, perfect consecutiv, persoana a II-a masculin singular",
+       "pos": "verb, qal perfect consecutiv",
        "def_ro": "vei lăsa (pământul) nelucrat, vei renunța la el.",
-       "dict_ro": "Șamat — „a lăsa, a elibera”, rădăcina lui șemita, anul sabatic în care pământul rămâne nelucrat (Exod 23:11; Deuteronom 15:2). Aici se află legătura directă cu pericopa Behukotai: Tora avertiza că, dacă poporul nu va ține anii sabatici, „țara își va plăti Sabatele ei” în vremea exilului (Levitic 26:34-35). Rashi explică exact așa: vei elibera țara fără voia ta, pentru vremea în care nu s-a odihnit în Sabatele voastre; Metzudat David: fiindcă n-ați lăsat-o în al șaptelea an, veți fi lăsați voi înșivă departe de moștenirea voastră."
+       "diff_ro": "Vezi nota de la primul verset al acestui pasaj — face parte din grupul de patru versete absente din Septuaginta disponibilă.",
+       "dict_ro": "Șamat — „a lăsa, a elibera”, rădăcina lui șemita, anul sabatic în care pământul rămâne nelucrat (Exodul 23:11; Deuteronomul 15:2). Aici se află legătura directă cu pericopa Behukotai: Tora avertiza că, dacă poporul nu va ține anii sabatici, „țara își va plăti Sabatele ei” în vremea exilului (Leviticul 26:34-35). Rashi explică exact așa: vei elibera țara fără voia ta, pentru vremea în care nu s-a odihnit în Sabatele voastre; Metzudat David: fiindcă n-ați lăsat-o în al șaptelea an, veți fi lăsați voi înșivă departe de moștenirea voastră."
       },
       {
        "t": " de moștenirea pe care ți-am dat-o și te voi pune să muncești pentru dușmanii tăi într-o țară pe care nu o cunoști, căci ai aprins foc în nările Mele, care va arde veșnic.”"
@@ -72914,9 +72923,11 @@
        "heb": "אָרוּר",
        "translit": "arur",
        "strong": "H779",
-       "pos": "verb, qal, participiu pasiv, masculin singular",
+       "pos": "verb, qal participiu pasiv",
        "def_ro": "blestemat.",
-       "dict_ro": "Arur — „blestemat”, forma formulelor solemne de blestem din Deuteronom 27. Rashi leagă din nou versetul de pericopă: blestemat este cel care se încrede în omul care ară și seceră, zicând „voi semăna și în al șaptelea an și voi mânca”, și a cărui inimă se abate de la DOMNUL, care promisese „voi porunci binecuvântarea Mea” asupra anului al șaselea (Levitic 25:21). Radak dă sensul istoric: Israel se încredea în Egipt și în Asiria."
+       "greek": "ἐπικατάρατος (epikataratos)",
+       "greek_def_ro": "ἐπικατάρατος (epikataratos) — blestemat.",
+       "dict_ro": "Arur — „blestemat”, forma formulelor solemne de blestem din Deuteronom 27. Rashi leagă din nou versetul de pericopă: blestemat este cel care se încrede în omul care ară și seceră, zicând „voi semăna și în al șaptelea an și voi mânca”, și a cărui inimă se abate de la DOMNUL, care promisese „voi porunci binecuvântarea Mea” asupra anului al șaselea (Leviticul 25:21). Radak dă sensul istoric: Israel se încredea în Egipt și în Asiria."
       },
       {
        "t": " este bărbatul care se încrede în om și care face din muritor tăria sa și care își abate inima de la DOMNUL."
@@ -72976,11 +72987,13 @@
       {
        "t": "copac singuratic",
        "w": "copac singuratic",
-       "heb": "כְּעַרְעָר",
-       "translit": "keararar",
+       "heb": "כְּעַרְעָר",
+       "translit": "kearar",
        "strong": "H6199",
-       "pos": "prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "ca un arbust de pustiu, ca un copac părăsit.",
+       "greek": "ἀγριομυρίκη (agriomyrike)",
+       "greek_def_ro": "ἀγριομυρίκη (agriomyrike) — tamarisc sălbatic.",
        "dict_ro": "Arar — un arbust din deșert (Metzudat Țion îl numește „un copac al pustiei”), înrudit cu ariri, „fără copii, singur” (Geneza 15:2); Rashi aduce ambele lecturi, iar Radak, după Rav Hai Gaon, îl identifică cu un arbust spinos pe dinafară, cu fruct comestibil înăuntru. Imaginea e contrapunctul exact al versetului 17:8: acolo, copacul sădit lângă ape; aici, arbustul care „nu vede când vine binele” — ploaia — și trăiește într-un pământ sărat, nelocuit."
       },
       {
@@ -73036,12 +73049,14 @@
       {
        "t": "Binecuvântat",
        "w": "Binecuvântat",
-       "heb": "בָּרוּךְ",
+       "heb": "בָּרוּךְ",
        "translit": "baruh",
        "strong": "H1288",
-       "pos": "verb, qal, participiu pasiv, masculin singular",
+       "pos": "verb, qal participiu pasiv",
        "def_ro": "binecuvântat.",
-       "dict_ro": "Baruh — „binecuvântat”, perechea directă a lui arur din 17:5: cele două versete formează un diptic, iar imaginea pomului sădit lângă ape reia aproape cuvânt cu cuvânt Psalmii 1:3. Metzudat David explică încheierea „atunci DOMNUL îi va fi încrederea”: în măsura în care se încrede în El, în aceeași măsură Dumnezeu îi va fi sprijin și ajutor; Radak adaugă: dacă se încrede în El, nu se va teme de niciun rău."
+       "greek": "εὐλογημένος (eulogemenos)",
+       "greek_def_ro": "εὐλογημένος (eulogemenos) — binecuvântat.",
+       "dict_ro": "Baruh — „binecuvântat”, perechea directă a lui arur din 17:5: cele două versete formează un diptic, iar imaginea pomului sădit lângă ape reia aproape cuvânt cu cuvânt Psalmul 1:3. Metzudat David explică încheierea „atunci DOMNUL îi va fi încrederea”: în măsura în care se încrede în El, în aceeași măsură Dumnezeu îi va fi sprijin și ajutor; Radak adaugă: dacă se încrede în El, nu se va teme de niciun rău."
       },
       {
        "t": " este bărbatul care se încrede în DOMNUL – atunci DOMNUL îi va fi încrederea."
@@ -73093,12 +73108,13 @@
       {
        "t": "un copac plantat",
        "w": "un copac plantat",
-       "heb": "כְּעֵץ שָׁתוּל",
-       "translit": "keeț șatul",
+       "heb": "שָׁתוּל",
+       "translit": "șatul",
        "strong": "H8362",
-       "pos": "prepoziție + substantiv + verb, qal, participiu pasiv",
+       "pos": "verb, qal participiu pasiv",
        "def_ro": "un pom sădit (răsădit).",
-       "dict_ro": "Șatal — „a sădi, a răsădi”, spus mai ales despre pomii mutați intenționat lângă apă; aceeași imagine deschide Psalmii: „este ca un pom sădit lângă pâraie de apă, care își dă rodul la vremea lui” (Psalmii 1:3). Metzudat David și Radak dezvoltă pilda: chiar în anul de secetă, când ceilalți copaci se usucă, acesta rămâne verde și rodește — așa omul care se încrede în DOMNUL nu duce lipsă, chiar când lumea e în necaz."
+       "diff_ro": "Septuaginta are „ξύλον εὐθηνοῦν\" („un copac înfloritor/prosper\"), nu specific „plantat\" (shatul) ca în ebraică — accentul cade pe starea de prosperitate, nu pe actul plantării.",
+       "dict_ro": "Șatal — „a sădi, a răsădi”, spus mai ales despre pomii mutați intenționat lângă apă; aceeași imagine deschide Psalmii: „este ca un pom sădit lângă pâraie de apă, care își dă rodul la vremea lui” (Psalmul 1:3). Metzudat David și Radak dezvoltă pilda: chiar în anul de secetă, când ceilalți copaci se usucă, acesta rămâne verde și rodește — așa omul care se încrede în DOMNUL nu duce lipsă, chiar când lumea e în necaz."
       },
       {
        "t": " lângă apă, care își întinde rădăcinile lângă pâraie și nu va vedea când vine arșița, al cărui frunziș este de-a pururea verde și nu se teme în ani de secetă și nu va înceta niciodată să aibă rod."
@@ -73163,7 +73179,7 @@
        "strong": "H6121",
        "pos": "adjectiv, masculin singular",
        "def_ro": "înșelător, strâmb, viclean.",
-       "dict_ro": "Akov — „strâmb, înșelător”, din aceeași rădăcină ca Iaakov (Iacov), „cel ce ține călcâiul, cel ce înșală” (Geneza 27:36). Radak explică legătura cu versetele precedente: încrederea — în om sau în Dumnezeu — ține de intenția inimii, iar omul poate arăta bine în cuvinte și fapte, cu inima rea înăuntru; de aceea „cine o cunoaște?” își primește răspunsul imediat: „Eu, DOMNUL, cercetez inima”."
+       "dict_ro": "O divergență semnificativă și des discutată: Septuaginta are „βαθεῖα\" („adâncă, nepătrunsă\"), nu „cea mai înșelătoare/strâmbă\" (akov) ca în ebraică — o imagine complet diferită a inimii omenești: nu neapărat vicleană, ci pur și simplu insondabilă, dincolo de puterea de înțelegere."
       },
       {
        "t": " din toate și perversă, cine o cunoaște?"
@@ -73221,11 +73237,13 @@
       {
        "t": "încerc mintea",
        "w": "încerc mintea",
-       "heb": "בֹּחֵן כְּלָיוֹת",
-       "translit": "bohen kelaiot",
+       "heb": "בֹּחֵן כְּלָיוֹת",
+       "translit": "bohēn kelaiot",
        "strong": "H3629",
-       "pos": "verb, qal, participiu + substantiv, feminin plural",
+       "pos": "verb, qal participiu + substantiv, feminin plural",
        "def_ro": "încerc rărunchii (lăuntrul, gândurile ascunse).",
+       "greek": "δοκιμάζω νεφρούς (dokimazo nephrous)",
+       "greek_def_ro": "δοκιμάζω νεφρούς (dokimazo nephrous) — cercetez rărunchii (mintea, în sens figurat).",
        "dict_ro": "Kelayot — literal „rărunchii”, considerați în gândirea biblică sediul gândurilor și al emoțiilor celor mai ascunse; Radak explică perechea „inima și rărunchii”: rărunchii sfătuiesc, iar inima hotărăște. Formula revine la Ieremia (11:20; 20:12) și e preluată în Apocalipsa 2:23: „Eu sunt Cel ce cercetez rărunchii și inimile”."
       },
       {
@@ -73280,10 +73298,12 @@
        "t": "Ca un cuc",
        "w": "Ca un cuc",
        "heb": "קֹרֵא",
-       "translit": "kore",
+       "translit": "korē",
        "strong": "H7124",
        "pos": "substantiv, masculin singular",
        "def_ro": "o pasăre (potârniche/cuc) care clocește ouă străine.",
+       "greek": "πέρδιξ (perdix)",
+       "greek_def_ro": "πέρδιξ (perdix) — potârniche.",
        "dict_ro": "Kore — o pasăre, identificată de obicei cu potârnichea (literal „cea care strigă”), numită și în 1 Samuel 26:20; Rashi o traduce în franceza veche prin „cuc”. Pilda, explicată de Rashi, Radak și Metzudat David: pasărea atrage cu glasul ei puii din ouă pe care nu le-a ouat, dar când cresc aceștia o părăsesc, pentru că nu sunt de felul ei; tot așa averea strânsă pe nedrept îl părăsește pe cel ce a strâns-o, la jumătatea zilelor lui."
       },
       {
@@ -73344,11 +73364,13 @@
       {
        "t": "Tronul Gloriei",
        "w": "Tronul Gloriei",
-       "heb": "כִּסֵּא כָבוֹד",
-       "translit": "kise havod",
+       "heb": "כִּסֵּא",
+       "translit": "kisē",
        "strong": "H3678",
-       "pos": "substantiv, masculin singular, în construcție + substantiv",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "tronul slavei.",
+       "greek": "θρόνος δόξης (thronos doxes)",
+       "greek_def_ro": "θρόνος δόξης (thronos doxes) — tronul gloriei.",
        "dict_ro": "Kise havod — „Tronul slavei”, locul de unde domnește Dumnezeu. Talmudul (Pesahim 54a) învață din acest verset că Tronul slavei și Templul se numără printre cele șapte lucruri create înainte de facerea lumii, iar Radak adaugă tradiția că Templul de jos e așezat exact în dreptul Tronului de sus. Metzudat David explică: precum Prezența divină e în ceruri, așa e și în Templu — de aceea, cum spune Rashi, versetul începe cu lauda Celui Omniprezent înainte de a vorbi despre cei ce Îl părăsesc."
       },
       {
@@ -73409,12 +73431,14 @@
       {
        "t": "Izvorul apelor vii",
        "w": "Izvorul apelor vii",
-       "heb": "מְקוֹר מַיִם־חַיִּים",
-       "translit": "mekor maim-haim",
+       "heb": "מְקוֹר",
+       "translit": "mekor",
        "strong": "H4726",
-       "pos": "substantiv, masculin singular, în construcție + substantiv + adjectiv",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "izvorul de ape vii (curgătoare).",
-       "dict_ro": "Mekor maim haim — „izvorul apelor vii”, imaginea pe care Ieremia o folosise deja: „M-au părăsit pe Mine, izvorul apelor vii, ca să-și sape puțuri crăpate” (Ieremia 2:13). „Mikve Israel” de la începutul versetului înseamnă „nădejdea lui Israel”, dar mikve înseamnă și „bazin de apă”; Radak menționează lectura care vede aici „mikve-ul de purificare” al lui Israel — interpretare pe care Rabi Akiva o face celebră în Mișna (Yoma 8:9): „precum mikve-ul îi curăță pe cei necurați, așa Sfântul, binecuvântat fie El, îl curăță pe Israel”."
+       "greek": "πηγή ζωῆς (pege zoes)",
+       "greek_def_ro": "πηγή ζωῆς (pege zoes) — izvorul vieții.",
+       "dict_ro": "Mekor maim haim — „izvorul apelor vii”, imaginea pe care Ieremia o folosise deja: „M-au părăsit pe Mine, izvorul apelor vii, ca să-și sape puțuri crăpate” (Ieremia 2:13). „Mikve Israel” de la începutul versetului înseamnă „nădejdea lui Israel”, dar mikve înseamnă și „bazin de apă”; Radak menționează lectura care vede aici „mikve-ul de purificare” al lui Israel — interpretare pe care Rabi Akiva o face celebră în Mișna (Yoma, cap. 8, mișna 9): „precum mikve-ul îi curăță pe cei necurați, așa Sfântul, binecuvântat fie El, îl curăță pe Israel”."
       },
       {
        "t": "."
@@ -73457,7 +73481,7 @@
        "text": "Radak: „Mikve Israel” — sensul e de chemare: Tu, care ești nădejdea lui Israel și încrederea tuturor celor ce se încred în Tine; toți cei ce Te părăsesc și nu se încred în Tine vor fi rușinați de încrederea lor în carne și sânge. „Căci au părăsit izvorul apelor vii” — măsură pentru măsură: ei Te-au părăsit pe Tine, izvorul apelor vii care nu încetează; iar unii explică mikve ca „bazin de apă”, adică Tu ești mikve-ul de curățire al lui Israel — dar prima explicație e cea bună."
       },
       {
-       "author": "Mișna, Yoma 8:9",
+       "author": "Mișna, Yoma, cap. 8, mișna 9",
        "text": "Rabi Akiva a spus: ferice de voi, Israel! Înaintea cui vă curățiți și cine vă curăță? Tatăl vostru din ceruri, precum s-a spus: „vă voi stropi cu apă curată și veți fi curățiți” (Ezechiel 36:25); și s-a spus: „mikve-ul lui Israel este DOMNUL” (Ieremia 17:13) — precum mikve-ul îi curăță pe cei necurați, așa Sfântul, binecuvântat fie El, îl curăță pe Israel."
       },
       {
@@ -73476,10 +73500,12 @@
        "t": "Vindecă-mă",
        "w": "Vindecă-mă",
        "heb": "רְפָאֵנִי",
-       "translit": "refaeni",
+       "translit": "refaēni",
        "strong": "H7495",
-       "pos": "verb, qal, imperativ, masculin singular + sufix persoana I",
+       "pos": "verb, qal imperativ + sufix",
        "def_ro": "vindecă-mă.",
+       "greek": "ἰάομαι (iaomai)",
+       "greek_def_ro": "ἰάομαι (iaomai) — a vindeca.",
        "dict_ro": "Rafa — „a vindeca”; versetul a intrat, la plural, în rugăciunea zilnică Amida, ca binecuvântarea pentru vindecare: „Vindecă-ne, DOAMNE, și vom fi vindecați; mântuiește-ne și vom fi mântuiți, căci Tu ești lauda noastră”. Metzudat David explică dublarea: nimeni altcineva nu mă poate mântui decât Tu; Radak precizează că „boala” de care cere vindecare profetul sunt disprețul și blestemul îndurate din partea poporului pe care îl mustra."
       },
       {
