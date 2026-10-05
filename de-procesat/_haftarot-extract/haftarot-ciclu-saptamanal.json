@@ -67469,11 +67469,13 @@
       {
        "t": "etiopienilor",
        "w": "etiopienilor",
-       "heb": "כֻשִׁיִּים",
-       "translit": "hușiim",
+       "heb": "כֻשִׁיִּים",
+       "translit": "hușim",
        "strong": "H3569",
-       "pos": "substantiv propriu (gentilic), masculin plural",
+       "pos": "nume de neam",
        "def_ro": "cușiți, etiopieni — locuitorii țării Cuș.",
+       "greek": "Αἰθίοψ (Aithiops)",
+       "greek_def_ro": "Αἰθίοψ (Aithiops) — etiopian.",
        "dict_ro": "Cușiim — urmașii lui Cuș, fiul lui Ham (Geneza 10:6), locuitorii ținutului de la sud de Egipt; Metzudat Țion îi descrie simplu: „oamenii negri, din fiii lui Cuș”. Comparația a primit interpretări foarte diferite: Rashi o leagă de Ieremia 13:23 („poate un cușit să-și schimbe pielea?”) — sunteți la fel de neschimbați în răutatea voastră; Metzudat David și Radak văd în cușiți imaginea robilor pe viață: cum ei aparțin stăpânilor, așa Israel, răscumpărat din casa robiei, Îi aparține lui Dumnezeu pentru totdeauna."
       },
       {
@@ -67530,11 +67532,13 @@
       {
        "t": "monarhiei păcătoase",
        "w": "monarhiei păcătoase",
-       "heb": "בַּמַּמְלָכָה הַחַטָּאָה",
-       "translit": "bamamlaha hahataa",
+       "heb": "בַּמַּמְלָכָה",
+       "translit": "bamamlaha",
        "strong": "H4467",
-       "pos": "prepoziție + substantiv, feminin singular, cu articol + adjectiv",
+       "pos": "substantiv, feminin singular",
        "def_ro": "regatul păcătos, domnia vinovată.",
+       "greek": "βασιλεία τῶν ἁμαρτωλῶν (basileia ton hamartolon)",
+       "greek_def_ro": "βασιλεία τῶν ἁμαρτωλῶν (basileia ton hamartolon) — monarhia păcătoșilor.",
        "dict_ro": "Mamlaha — regatul, domnia; Radak și Metzudat David o identifică cu regatul lui Efraim (Israelul de nord), în care toți regii, de la Ieroboam fiul lui Nebat până la Hoșea fiul lui Ela, au fost răi. Distincția versetului e esențială: e nimicită instituția regală vinovată, nu poporul — „dar nu voi nimici cu totul casa lui Iacov”; Rashi precizează că regatul este casa lui Iehu. Introducerea ediției Rosen rezumă chiar această idee: pedeapsa îi lovește pe regi și conducători, legământul cu poporul rămâne veșnic."
       },
       {
@@ -67595,12 +67599,13 @@
       {
        "t": "într-o sită",
        "w": "într-o sită",
-       "heb": "בַּכְּבָרָה",
-       "translit": "bakevara",
+       "heb": "בַּכְּבָרָה",
+       "translit": "bakvara",
        "strong": "H3531",
-       "pos": "prepoziție + substantiv, feminin singular, cu articol",
+       "pos": "substantiv, feminin singular",
        "def_ro": "în sită, în ciur.",
-       "dict_ro": "Kevara — sita sau ciurul în care se cerne grâul; Metzudat Țion o compară cu sita de făină și cu „grătarul” (mikhbar) al altarului (Exod 27:4). Imaginea e dublă: exilul îl va scutura pe Israel printre toate neamurile, dar sita păstrează ce e prețios. Radak și Metzudat David explică: praful și pleava cad prin găuri, dar boabele bune și pietricelele mari rămân sus — tot așa vor pieri în exil păcătoșii, dar cei drepți nu se vor pierde, ci vor vedea mântuirea."
+       "diff_ro": "Septuaginta are „ἐν τῷ λικμῷ\" („în lopata de vânturat\"), nu „într-o sită\" (kevara) ca în ebraică — un alt instrument agricol pentru aceeași imagine a cernerii.",
+       "dict_ro": "Kevara — sita sau ciurul în care se cerne grâul; Metzudat Țion o compară cu sita de făină și cu „grătarul” (mikhbar) al altarului (Exodul 27:4). Imaginea e dublă: exilul îl va scutura pe Israel printre toate neamurile, dar sita păstrează ce e prețios. Radak și Metzudat David explică: praful și pleava cad prin găuri, dar boabele bune și pietricelele mari rămân sus — tot așa vor pieri în exil păcătoșii, dar cei drepți nu se vor pierde, ci vor vedea mântuirea."
       },
       {
        "t": " și nicio piatră nu va cădea la pământ."
@@ -67656,12 +67661,14 @@
       {
        "t": "păcătoșii",
        "w": "păcătoșii",
-       "heb": "חַטָּאֵי",
-       "translit": "hataei",
+       "heb": "חַטָּאֵי",
+       "translit": "hataē",
        "strong": "H2400",
-       "pos": "substantiv, masculin plural, în construcție",
+       "pos": "adjectiv, masculin plural",
        "def_ro": "păcătoșii, cei vinovați.",
-       "dict_ro": "Hataim — păcătoșii statornici, cei al căror caracter e definit de păcat. Radak precizează că profetul nu vorbește despre toți păcătoșii, ci despre cei care spuneau „răul nu se va apropia de noi” — care negau legătura dintre faptă și urmare și socoteau orice nenorocire o simplă întâmplare, cum avertizează Tora: „dacă veți umbla cu Mine la întâmplare” (Levitic 26:21). Metzudat David rezumă: ei spuneau că nu există răsplată și pedeapsă."
+       "greek": "ἁμαρτωλός (hamartolos)",
+       "greek_def_ro": "ἁμαρτωλός (hamartolos) — păcătos.",
+       "dict_ro": "Hataim — păcătoșii statornici, cei al căror caracter e definit de păcat. Radak precizează că profetul nu vorbește despre toți păcătoșii, ci despre cei care spuneau „răul nu se va apropia de noi” — care negau legătura dintre faptă și urmare și socoteau orice nenorocire o simplă întâmplare, cum avertizează Tora: „dacă veți umbla cu Mine la întâmplare” (Leviticul 26:21). Metzudat David rezumă: ei spuneau că nu există răsplată și pedeapsă."
       },
       {
        "t": " din poporul Meu, aceia care spun: „Răul nu se va apropia de noi și nu ne va ajunge!”"
@@ -67719,11 +67726,13 @@
       {
        "t": "coliba prăbușită a lui David",
        "w": "coliba prăbușită a lui David",
-       "heb": "סֻכַּת דָּוִיד הַנֹּפֶלֶת",
-       "translit": "sukat David hanofelet",
+       "heb": "סֻכַּת",
+       "translit": "sukat",
        "strong": "H5521",
-       "pos": "substantiv, feminin singular, în construcție + nume propriu + participiu",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "coliba căzută, cortul prăbușit.",
+       "greek": "σκηνὴ Δαυίδ ἡ πεπτωκυῖα (skene Dauid he peptokyia)",
+       "greek_def_ro": "σκηνὴ Δαυίδ ἡ πεπτωκυῖα (skene Dauid he peptokyia) — coliba lui David, cea prăbușită.",
        "dict_ro": "Suka — coliba de ramuri, adăpostul fragil (același cuvânt ca la sărbătoarea Sucot); Radak explică imaginea: domnia lui David e numită „colibă” pentru că îl acoperă și îl adăpostește pe popor, iar Targum Ionatan, citat de Rashi, traduce direct „regatul casei lui David”. Talmudul (Sanhedrin 96b-97a) numește de aici pe Mesia „bar nifli” — „fiul celei căzute”. Iacov, fratele Domnului, citează versetul la Sinodul din Ierusalim (Faptele apostolilor 15:16-17), după forma lui din Septuaginta."
       },
       {
@@ -67784,12 +67793,12 @@
       {
        "t": "rămășița Edomului",
        "w": "rămășița Edomului",
-       "heb": "שְׁאֵרִית אֱדוֹם",
-       "translit": "șeerit Edom",
+       "heb": "שְׁאֵרִית",
+       "translit": "șeērit",
        "strong": "H7611",
-       "pos": "substantiv, feminin singular, în construcție + nume propriu",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "rămășița lui Edom, ce a rămas din Edom.",
-       "dict_ro": "Șeerit — rămășița, restul supraviețuitor; Radak explică că Israel va stăpâni ce va rămâne din țara Edomului, ca în zilele lui David, care pusese garnizoane în Edom (2 Samuel 8:14). Versetul are o istorie de lectură remarcabilă: Septuaginta a citit „Adam” (oameni) în loc de „Edom” și „vor căuta” (idreșu) în loc de „vor moșteni” (yirșu), obținând „ca să caute [pe Domnul] rămășița oamenilor și toate neamurile” — formă pe care Iacov o citează în Faptele apostolilor 15:17 ca temei pentru primirea neamurilor."
+       "dict_ro": "Una dintre cele mai cunoscute și influente divergențe din toată Septuaginta: textul grecesc are aici „οἱ κατάλοιποι τῶν ἀνθρώπων\" („rămășița OAMENILOR/omenirii\"), nu „rămășița Edomului\" ca în ebraică — o confuzie veche între consoanele ebraice pentru „Edom\" (אדום) și „adam\" (אדם, „om\"). Această variantă e citată explicit de apostolul Iacov la Sinodul de la Ierusalim, în cartea Faptele Apostolilor, ca argument biblic pentru primirea neamurilor (non-iudeilor) în Biserică — un exemplu rar în care o diferență textuală minoră a avut consecințe teologice și istorice majore."
       },
       {
        "t": " și toate neamurile, căci numele Meu este asupra lor – rostirea DOMNULUI care înfăptuiește aceasta."
@@ -67846,11 +67855,12 @@
        "t": "cel care ară",
        "w": "cel care ară",
        "heb": "חוֹרֵשׁ",
-       "translit": "horeș",
+       "translit": "horēș",
        "strong": "H2790",
-       "pos": "verb, qal, participiu, masculin singular",
+       "pos": "verb, qal participiu",
        "def_ro": "plugarul, cel ce ară.",
-       "dict_ro": "Hareș — „a ara, a brăzda”; imaginea plugarului care îl ajunge pe secerător reia binecuvântarea din Levitic 26:5 („treieratul vă va ține până la culesul viei”), dar o întrece: recolta va fi atât de mare încât seceratul nu se va termina până nu vine vremea aratului următor. Radak și Metzudat David citesc și „munții vor picura must” și „dealurile se vor topi” ca pilde ale belșugului — dealurile par să se topească din pricina laptelui care curge din turme (compară Ioel 3:18)."
+       "diff_ro": "Septuaginta are „ὁ ἀμητὸς\" („secerișul\"), nu „cel care ară\" (choresh, plugarul) ca în ebraică — imaginea devine „secerișul va întâlni culesul viei\", nu „plugarul îl va întâlni pe secerător\".",
+       "dict_ro": "Hareș — „a ara, a brăzda”; imaginea plugarului care îl ajunge pe secerător reia binecuvântarea din Leviticul 26:5 („treieratul vă va ține până la culesul viei”), dar o întrece: recolta va fi atât de mare încât seceratul nu se va termina până nu vine vremea aratului următor. Radak și Metzudat David citesc și „munții vor picura must” și „dealurile se vor topi” ca pilde ale belșugului — dealurile par să se topească din pricina laptelui care curge din turme (compară Ioel 3:18)."
       },
       {
        "t": " va întâlni pe cel care culege și cel care stoarce strugurii va întâlni pe cel care aduce semințele. Din munți va picura vin și dealurile se vor topi."
@@ -67905,12 +67915,14 @@
       {
        "t": "prizonierii",
        "w": "prizonierii",
-       "heb": "שְׁבוּת",
+       "heb": "שְׁבוּת",
        "translit": "șevut",
        "strong": "H7622",
-       "pos": "substantiv, feminin singular",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "captivitatea, cei robiți; „a întoarce șevut” — a restatornici.",
-       "dict_ro": "Șevut — de la șava, „a lua captiv”; expresia șav șevut („a întoarce captivitatea”) ajunge să însemne restatornicirea deplină a unui popor. Metzudat Țion leagă verbul „veșavti” și de „șuva”, liniște și odihnă (Isaia 30:15), iar Metzudat David explică: voi așeza în liniște și odihnă pe fiii robiei poporului Meu. Radak subliniază inversarea blestemului: altădată dușmanii mâncau roadele muncii lor (Deuteronom 28:30), acum ei înșiși vor bea vinul viilor pe care le-au sădit."
+       "greek": "αἰχμαλωσία (aichmalosia)",
+       "greek_def_ro": "αἰχμαλωσία (aichmalosia) — captivitate, prizonierat.",
+       "dict_ro": "Șevut — de la șava, „a lua captiv”; expresia șav șevut („a întoarce captivitatea”) ajunge să însemne restatornicirea deplină a unui popor. Metzudat Țion leagă verbul „veșavti” și de „șuva”, liniște și odihnă (Isaia 30:15), iar Metzudat David explică: voi așeza în liniște și odihnă pe fiii robiei poporului Meu. Radak subliniază inversarea blestemului: altădată dușmanii mâncau roadele muncii lor (Deuteronomul 28:30), acum ei înșiși vor bea vinul viilor pe care le-au sădit."
       },
       {
        "t": " poporului Meu Israel și ei vor reconstrui orașele pustiite și ei se vor întoarce și vor planta vii și le vor bea vinul, vor face grădini și le vor mânca rodul."
@@ -67963,11 +67975,13 @@
       {
        "t": "Îi voi planta",
        "w": "Îi voi planta",
-       "heb": "וּנְטַעְתִּים",
-       "translit": "unetatim",
+       "heb": "וּנְטַעְתִּים",
+       "translit": "untatim",
        "strong": "H5193",
-       "pos": "verb, qal, perfect consecutiv, persoana I singular + sufix persoana a III-a plural",
+       "pos": "verb, qal perfect consecutiv + sufix",
        "def_ro": "îi voi sădi, îi voi înrădăcina.",
+       "greek": "καταφυτεύω (kataphyteuo)",
+       "greek_def_ro": "καταφυτεύω (kataphyteuo) — a sădi, a planta temeinic.",
        "dict_ro": "Nata — „a sădi, a planta”; după versetul precedent, în care oamenii plantează vii și grădini, acum Dumnezeu Însuși îl plantează pe Israel în pământul lui. Contrapunctul e verbul nataș — „a smulge din rădăcină” —, pe care Metzudat Țion îl leagă de misiunea lui Ieremia, „să smulgi și să dărâmi” (Ieremia 1:10). Radak explică: ca pomul sădit, care nu se mișcă din locul lui, nu vor mai fi exilați — și aceasta pentru că vor sluji mereu lui Dumnezeu și vor face voia Lui."
       },
       {
