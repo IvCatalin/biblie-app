@@ -95969,8 +95969,10 @@
        "heb": "מְנַחֶמְכֶם",
        "translit": "menahemhem",
        "strong": "H5162",
-       "pos": "verb, participiu pi'el, masculin singular, cu sufix persoana a II-a plural",
+       "pos": "verb, piel participiu + sufix",
        "def_ro": "Cel ce vă mângâie.",
+       "greek": "παρακαλέω (parakaleo)",
+       "greek_def_ro": "παρακαλέω (parakaleo) — cel care mângâie.",
        "dict_ro": "Menahem — „mângâietorul”, participiul verbului niham, cuvântul-cheie al haftarotelor mângâierii („Consolați, consolați”, 40:1). Repetarea „Eu, Eu sunt” răspunde plângerii Sionului din haftara precedentă: nu un înger, nu un profet, ci Dumnezeu Însuși mângâie (Metzudat David: o mângâiere „care are substanță”). Radak observă că versetul trece de la plural („vă mângâie”) la feminin singular („cine ești tu, ca să te temi”): pluralul se adresează fiecăruia în parte, femininul — adunării lui Israel. Omul de care se tem e trecător ca iarba, cum spusese profetul în 40:6-8."
       },
       {
@@ -96031,11 +96033,13 @@
       {
        "t": "asupritorului",
        "w": "asupritorului",
-       "heb": "הַמֵּצִיק",
-       "translit": "hamețik",
+       "heb": "הַמֵּצִיק",
+       "translit": "hamēțik",
        "strong": "H6693",
-       "pos": "verb, participiu hifil, masculin singular, cu articol",
+       "pos": "verb, hifil participiu",
        "def_ro": "asupritorul, cel care strâmtorează.",
+       "greek": "θλίβω (thlibo)",
+       "greek_def_ro": "θλίβω (thlibo) — a asupri, a strâmtora.",
        "dict_ro": "Mețik — „asupritorul, cel care strâmtorează”, de la țuk, „a apăsa, a strâmtora”, din care vine și țara, „necaz”. Profetul întoarce întrebarea: poporul se teme „toată ziua” de mânia asupritorului, dar a uitat de Creatorul care a întins cerurile. Rashi: „mâine vine, și el nu mai este”. Radak aduce exemplul lui Sanherib, a cărui mânie „s-a dus ca un nor” când a pierit oastea lui înaintea Ierusalimului (Isaia 37:36-38)."
       },
       {
@@ -96096,8 +96100,9 @@
        "heb": "צֹעֶה",
        "translit": "țoe",
        "strong": "H6808",
-       "pos": "verb, participiu qal, masculin singular",
+       "pos": "verb, qal participiu",
        "def_ro": "cel legat și clătinat, pribeagul, captivul.",
+       "diff_ro": "Septuaginta redă tot versetul diferit — are „ἐν γὰρ τῷ σῴζεσθαί σε\" („căci în mântuirea ta\"), nu imaginea pribeagului încovoiat (țoe) care va fi dezlegat, ca în ebraică.",
        "dict_ro": "Țoe — de la țaa, „a înclina, a răsturna” (un vas ca să-l golești), de unde sensul de „a fi purtat încoace și încolo” (Metzudat Țion, ca în Ieremia 48:12). Comentatorii citesc versetul diferit: Metzudat David și Radak — cel exilat, clătinat din loc în loc, va fi eliberat curând din închisoarea exilului; Rashi aduce și o explicație din midraș, despre slăbiciunea trupului omenesc, pentru a arăta că nu trebuie să te temi de un om. Făgăduința „nu-i va lipsi pâinea” amintește de mana din pustiu."
       },
       {
@@ -96157,11 +96162,13 @@
       {
        "t": "stârnește marea",
        "w": "stârnește marea",
-       "heb": "רֹגַע הַיָּם",
-       "translit": "roga haiam",
+       "heb": "רֹגַע",
+       "translit": "roga",
        "strong": "H7280",
-       "pos": "verb, participiu qal + substantiv cu articol",
+       "pos": "verb, qal participiu",
        "def_ro": "Cel ce tulbură, frământă marea.",
+       "greek": "ταράσσω (tarasso)",
+       "greek_def_ro": "ταράσσω (tarasso) — a stârni, a tulbura.",
        "dict_ro": "Raga — „a agita dintr-odată”, cum se răscolește marea de vânt sau cum se încrețește pielea (Rashi, ca în Iov 7:5). Radak și Metzudat Țion îl leagă de despicarea mării: „prin puterea Lui El a despicat marea” (Iov 26:12), ca la Marea Roșie, ale cărei valuri au urlat, dar n-au putut trece până n-a trecut Israel. Versetul e reluat aproape cuvânt cu cuvânt în Ieremia 31:35, după făgăduința noului legământ: Cel ce stăpânește marea e garantul că poporul Lui nu va înceta să fie."
       },
       {
@@ -96222,12 +96229,14 @@
       {
        "t": "cu umbra mâinii Mele",
        "w": "cu umbra mâinii Mele",
-       "heb": "וּבְצֵל יָדִי",
-       "translit": "uvețel iadi",
+       "heb": "וּבְצֵל",
+       "translit": "uvțēl",
        "strong": "H6738",
-       "pos": "conjuncție + prepoziție + substantiv, în construcție + substantiv cu sufix",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "sub umbra mâinii Mele, sub ocrotirea Mea.",
-       "dict_ro": "Țel — „umbră”, și de aici „ocrotire”, căci în țara arzătoare umbra înseamnă viață (Psalmii 121:5: „DOMNUL e umbra ta”). Versetul leagă trei lucruri: cuvintele lui Dumnezeu puse în gura poporului, ocrotirea Lui și „sădirea cerurilor”. Talmudul le citește despre studiul Torei: cine învață Tora e ca și cum ar fi zidit cerul și pământul, ocrotește lumea întreagă și grăbește răscumpărarea (Sanhedrin 99b); Rav Iosef adaugă că mâna lui Dumnezeu e întinsă peste Israel chiar când El Își ascunde fața (Hagiga 5b)."
+       "greek": "σκιά (skia)",
+       "greek_def_ro": "σκιά (skia) — umbră.",
+       "dict_ro": "Țel — „umbră”, și de aici „ocrotire”, căci în țara arzătoare umbra înseamnă viață (Psalmul 121:5: „DOMNUL e umbra ta”). Versetul leagă trei lucruri: cuvintele lui Dumnezeu puse în gura poporului, ocrotirea Lui și „sădirea cerurilor”. Talmudul le citește despre studiul Torei: cine învață Tora e ca și cum ar fi zidit cerul și pământul, ocrotește lumea întreagă și grăbește răscumpărarea (Sanhedrin 99b); Rav Iosef adaugă că mâna lui Dumnezeu e întinsă peste Israel chiar când El Își ascunde fața (Hagiga 5b)."
       },
       {
        "t": " te-am acoperit, ca să plantez cerurile și să pun temeliile pământului și să spun Ționului: „Tu ești poporul Meu.”"
@@ -96289,10 +96298,12 @@
        "t": "Trezește-te",
        "w": "Trezește-te",
        "heb": "הִתְעוֹרְרִי",
-       "translit": "hitoreri",
+       "translit": "hitorri",
        "strong": "H5782",
-       "pos": "verb, imperativ hitpolel, feminin singular",
+       "pos": "verb, hitpolel imperativ",
        "def_ro": "trezește-te, deșteaptă-te.",
+       "greek": "ἐξεγείρω (exegeiro)",
+       "greek_def_ro": "ἐξεγείρω (exegeiro) — a se trezi, a se deștepta.",
        "dict_ro": "Ur — „a se trezi, a se deștepta”; forma reflexivă hitoreri înseamnă „trezește-te singur, scoală-te”. Chemarea dublă „Trezește-te! Trezește-te!” revine de trei ori în această parte a cărții (51:9; 51:17; 52:1): întâi către brațul DOMNULUI, apoi către Ierusalim. Metzudat David: profetul o cheamă să se trezească din somnul durerii, căci a băut deja până la drojdie „paharul mâniei”; Radak: toate relele scrise asupra ei au venit, iar vremea pedepsei s-a încheiat. Cuvintele au intrat în imnul de Sabat Leha Dodi („Hitoreri, hitoreri”)."
       },
       {
@@ -96353,12 +96364,13 @@
       {
        "t": "nicio călăuză",
        "w": "nicio călăuză",
-       "heb": "אֵין־מְנַהֵל",
-       "translit": "ein-menahel",
+       "heb": "מְנַהֵל",
+       "translit": "menahēl",
        "strong": "H5095",
-       "pos": "particulă de negație + verb, participiu pi'el, masculin singular",
+       "pos": "verb, piel participiu",
        "def_ro": "nu este cine să o conducă.",
-       "dict_ro": "Nahal — „a conduce cu blândețe, a călăuzi”, verbul păstorului care își duce turma la apă (Isaia 40:11) și al lui Dumnezeu care Își conduce poporul „cu puterea Ta” (Exod 15:13). Imaginea e a unei mame bete de paharul mâniei, căzută pe drum, pe care niciunul dintre fiii ei nu o poate ține de mână. Metzudat David și Radak: cât a fost în exil, niciunul dintre ai ei nu a avut putere să conducă sau să sprijine pe altul, căci toți erau loviți la fel."
+       "diff_ro": "Septuaginta are aici „ὁ παρακαλῶν\" („cel care mângâie\"), nu „călăuza\" (menahel, cel care conduce/poartă de grijă) ca în ebraică — o nuanță diferită, de mângâiere, nu de călăuzire.",
+       "dict_ro": "Nahal — „a conduce cu blândețe, a călăuzi”, verbul păstorului care își duce turma la apă (Isaia 40:11) și al lui Dumnezeu care Își conduce poporul „cu puterea Ta” (Exodul 15:13). Imaginea e a unei mame bete de paharul mâniei, căzută pe drum, pe care niciunul dintre fiii ei nu o poate ține de mână. Metzudat David și Radak: cât a fost în exil, niciunul dintre ai ei nu a avut putere să conducă sau să sprijine pe altul, căci toți erau loviți la fel."
       },
       {
        "t": " pentru [Ierusalim] printre toți copiii pe care i-a născut, nu este nimeni care să îl țină de mână printre toți copiii pe care i-a crescut."
@@ -96412,12 +96424,14 @@
       {
        "t": "cine te va plânge",
        "w": "cine te va plânge",
-       "heb": "מִי יָנוּד לָךְ",
-       "translit": "mi ianud lah",
+       "heb": "יָנוּד",
+       "translit": "ianud",
        "strong": "H5110",
-       "pos": "pronume interogativ + verb, imperfect qal + prepoziție cu sufix",
+       "pos": "verb, qal imperfect",
        "def_ro": "cine va da din cap spre tine, cine te va compătimi.",
-       "dict_ro": "Nud — „a da din cap, a se clătina”, de unde gestul celui care compătimește pe altul (Iov 2:11: prietenii lui Iov au venit „să-l plângă”). Cele „două” nenorociri sunt înșirate în perechi: jaful și prăbușirea, foametea și sabia; Metzudat David: prăbușirea e foametea, ca în „când vă voi frânge toiagul pâinii” (Levitic 26:26), iar jaful e sabia oștilor. Rashi explică întrebarea „cu cine să te mângâi?”: pe cine să-ți aduc ca pildă, ca să spun că și alt neam a pătimit la fel? — adică nimeni n-a pătimit ca tine."
+       "greek": "συλλυπέομαι (syllypeomai)",
+       "greek_def_ro": "συλλυπέομαι (syllypeomai) — a se întrista împreună, a plânge laolaltă.",
+       "dict_ro": "Nud — „a da din cap, a se clătina”, de unde gestul celui care compătimește pe altul (Iov 2:11: prietenii lui Iov au venit „să-l plângă”). Cele „două” nenorociri sunt înșirate în perechi: jaful și prăbușirea, foametea și sabia; Metzudat David: prăbușirea e foametea, ca în „când vă voi frânge toiagul pâinii” (Leviticul 26:26), iar jaful e sabia oștilor. Rashi explică întrebarea „cu cine să te mângâi?”: pe cine să-ți aduc ca pildă, ca să spun că și alt neam a pătimit la fel? — adică nimeni n-a pătimit ca tine."
       },
       {
        "t": "? Jaful și stricăciunea, foametea și sabia – cu cine să te mângâi?"
@@ -96477,12 +96491,12 @@
       {
        "t": "ca un bizon sălbatic",
        "w": "ca un bizon sălbatic",
-       "heb": "כְּתוֹא",
+       "heb": "כְּתוֹא",
        "translit": "keto",
        "strong": "H8377",
-       "pos": "prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "ca o antilopă, ca un bou sălbatic.",
-       "dict_ro": "Te'o — un animal sălbatic curat, pomenit printre cele permise la mâncare (Deuteronom 14:5); Radak și Metzudat Țion îl identifică cu „boul sălbatic”, iar traducătorii moderni cu o antilopă. Imaginea e a animalului prins în plasă (mihmar), care zace fără să se mai poată mișca: așa zac fiii Ierusalimului în colțurile străzilor, istoviți de foame (Metzudat David; Plângerile lui Ieremia 2:11-12). Talmudul folosește versetul pentru a spune că, odată căzut în mâinile celor ce jefuiesc, bunul omului nu mai are milă de la ei (Bava Kama 117a)."
+       "dict_ro": "O divergență celebră: Septuaginta are aici „ὡς σευτλίον ἡμίεφθον\" („ca o sfeclă pe jumătate fiartă\"), nu „ca un bizon/antilopă sălbatică\" (keto) prinsă în laț, cum e în ebraică — una dintre cele mai stranii redări ale Septuagintei la Isaia, posibil dintr-o confuzie de citire a cuvântului ebraic rar."
       },
       {
        "t": " prins în laț; sunt plini de mânia DOMNULUI, de mustrarea Dumnezeului tău."
@@ -96545,11 +96559,13 @@
       {
        "t": "îmbătată",
        "w": "îmbătată",
-       "heb": "וּשְׁכֻרַת",
-       "translit": "ușehurat",
+       "heb": "וּשְׁכֻרַת",
+       "translit": "ușhurat",
        "strong": "H7937",
-       "pos": "conjuncție + verb, participiu pasiv qal, feminin singular",
+       "pos": "adjectiv, feminin singular",
        "def_ro": "îmbătată, amețită.",
+       "greek": "μεθύω (methyo)",
+       "greek_def_ro": "μεθύω (methyo) — a fi beat, îmbătat.",
        "dict_ro": "Șahar — „a se îmbăta”, de unde șehar, „băutură tare”. Ierusalimul e „îmbătat, dar nu de vin”, ci de paharul mâniei din versetul 17 (Rashi: beat de altceva decât de vin; Metzudat David: tulburat ca un om beat, din pricina necazului și a durerii). Talmudul trage de aici o concluzie îndrăzneață: Rav Șeșet a spus în numele lui rabi Elazar ben Azaria că, de la distrugerea Templului, întreaga lume poate fi scutită de judecată, căci toți sunt ca „îmbătați, dar nu de vin” (Eruvin 64b-65a)."
       },
       {
@@ -96603,11 +96619,13 @@
       {
        "t": "cupa confuziei",
        "w": "cupa confuziei",
-       "heb": "כּוֹס הַתַּרְעֵלָה",
-       "translit": "kos hatarela",
+       "heb": "הַתַּרְעֵלָה",
+       "translit": "hatarēla",
        "strong": "H8653",
-       "pos": "substantiv, în construcție + substantiv, feminin singular, cu articol",
+       "pos": "substantiv, feminin singular",
        "def_ro": "paharul amețelii, al clătinării.",
+       "greek": "πτῶσις (ptosis)",
+       "greek_def_ro": "πτῶσις (ptosis) — cădere, poticnire.",
        "dict_ro": "Tarela — „amețeală, clătinare”, băutura care îl face pe om să se clatine (Rashi: o băutură care leagă și slăbește puterea omului). Paharul mâniei e o imagine frecventă la profeți: Dumnezeu le dă popoarelor să bea din el, iar ele se clatină și cad (Ieremia 25:15-17). Acum paharul e luat din mâna Ierusalimului, iar Dumnezeu Se prezintă ca Cel care „apără cauza poporului Său” (Radak: El va fi stăpânul tău, nu neamurile, și va lua judecata ta de la ele), cum spune și Mica: „până când Își va apăra pricina mea” (Mica 7:9)."
       },
       {
@@ -96667,8 +96685,10 @@
        "heb": "מוֹגַיִךְ",
        "translit": "mogaih",
        "strong": "H3013",
-       "pos": "verb, participiu hifil, masculin plural, cu sufix persoana a II-a feminin singular",
+       "pos": "verb, hifil participiu + sufix",
        "def_ro": "cei care te întristează, asupritorii tăi.",
+       "greek": "ἀδικέω (adikeo)",
+       "greek_def_ro": "ἀδικέω (adikeo) — a nedreptăți, a chinui.",
        "dict_ro": "Moga — de la iaga, „a întrista, a face să sufere”, ca în „DOMNUL a întristat-o” (Plângerile lui Ieremia 1:5; Radak). Paharul amețelii trece din mâna Ierusalimului în mâna asupritorilor, cei care i-au spus „apleacă-te, ca să trecem peste tine”. Imaginea vine din obiceiul biruitorilor de a călca pe grumazul celor învinși, ca Iosua peste regii canaaniți (Iosua 10:24). Radak observă că profetul spune „sufletului tău”, pentru că sufletul e chinuit prin chinul trupului, și încheie: toate acestea le-ai răbdat din dragoste pentru Mine."
       },
       {
@@ -96729,10 +96749,12 @@
        "t": "necircumcis",
        "w": "necircumcis",
        "heb": "עָרֵל",
-       "translit": "arel",
+       "translit": "arēl",
        "strong": "H6189",
        "pos": "adjectiv, masculin singular",
        "def_ro": "netăiat împrejur, necircumcis.",
+       "greek": "ἀπερίτμητος (aperitmetos)",
+       "greek_def_ro": "ἀπερίτμητος (aperitmetos) — necircumcis.",
        "dict_ro": "Arel — „netăiat împrejur”, cel din afara legământului lui Avraam (Geneza 17:14), și de aici, în limbajul profeților, cel străin de Dumnezeu. Chemarea „Trezește-te!” se adresează acum Sionului, care își îmbracă puterea și hainele de sărbătoare, iar făgăduința e că nu va mai intra în el cel necurat, ca stăpân (Metzudat David). Radak, scriind în vremea cruciadelor, vede aici Ierusalimul luat pe rând de popoarele care s-au luptat pentru el. Aceeași făgăduință: „străinii nu vor mai trece prin el” (Ioel 3:17)."
       },
       {
@@ -96789,8 +96811,10 @@
        "heb": "הִתְנַעֲרִי",
        "translit": "hitnaari",
        "strong": "H5287",
-       "pos": "verb, imperativ hitpael, feminin singular",
+       "pos": "verb, hitpael imperativ",
        "def_ro": "scutură-te.",
+       "greek": "ἐκτινάσσω (ektinasso)",
+       "greek_def_ro": "ἐκτινάσσω (ektinasso) — a se scutura.",
        "dict_ro": "Naar — „a scutura cu putere”, cum scuturi o haină ca să cadă praful (Rashi; Metzudat Țion, ca în „mi-am scuturat și poala”, Neemia 5:13). Ierusalimul, care stătuse în țărână în doliu (Isaia 3:26), e chemat să se ridice, să se așeze pe tron și să-și dezlege legăturile de la gât. Talmudul spune că, după coborârea Șehinei prin cele zece exiluri, din cel mai de jos loc, din țărână, va veni răscumpărarea, căci s-a spus: „Scutură-te de praf, ridică-te, așează-te” (Roș Hașana 31b). Cuvintele au intrat în imnul de Sabat Leha Dodi („Hitnaari meafar kumi”)."
       },
       {
@@ -96853,11 +96877,13 @@
       {
        "t": "Gratis",
        "w": "Gratis",
-       "heb": "חִנָּם",
+       "heb": "חִנָּם",
        "translit": "hinam",
        "strong": "H2600",
        "pos": "adverb",
        "def_ro": "degeaba, fără plată.",
+       "greek": "δωρεάν (dorean)",
+       "greek_def_ro": "δωρεάν (dorean) — gratis, în dar.",
        "dict_ro": "Hinam — „fără plată, degeaba”, de la hen, „har, favoare”: ce se dă „în dar”. Versetul face un joc: ați fost vânduți fără să se primească bani, deci veți fi răscumpărați fără bani. Rashi: ați fost vânduți pentru lucruri de nimic, pentru pofta rea, care nu vă aduce nicio răsplată, și veți fi răscumpărați nu cu bani, ci prin pocăință. Talmudul păstrează o dispută celebră pe acest verset: rabi Eliezer spunea că Israel va fi răscumpărat doar dacă se pocăiește, iar rabi Iehoșua i-a răspuns cu acest verset: veți fi răscumpărați „nu cu bani”, adică nu prin pocăință și fapte bune (Sanhedrin 97b)."
       },
       {
@@ -96917,11 +96943,13 @@
       {
        "t": "Asiria",
        "w": "Asiria",
-       "heb": "וְאַשּׁוּר",
-       "translit": "veAșur",
+       "heb": "וְאַשּׁוּר",
+       "translit": "veașur",
        "strong": "H804",
-       "pos": "conjuncție + nume propriu",
+       "pos": "nume propriu",
        "def_ro": "și Asiria.",
+       "greek": "Ἀσσύριος (Assyrios)",
+       "greek_def_ro": "Ἀσσύριος (Assyrios) — asirian, Asiria.",
        "dict_ro": "Așur — Asiria, marea putere din nordul Mesopotamiei, care a exilat cele zece seminții ale regatului de nord în 722 î.Hr. (2 Împărați 17:6). Versetul pune în paralel două robii: în Egipt, poporul coborâse de bunăvoie „să locuiască acolo”, primit la vreme de foamete, pe când Asiria l-a asuprit „fără motiv” (beefes). Rashi: egiptenii aveau oarecum o datorie asupra lor, căci îi găzduiseră și îi hrăniseră, dar Asiria i-a asuprit degeaba, fără pricină. Radak adaugă că și Babilonul e cuprins aici, căci regele Asiriei a ajuns rege al Babilonului."
       },
       {
@@ -96980,11 +97008,13 @@
       {
        "t": "blasfemiat",
        "w": "blasfemiat",
-       "heb": "מִנֹּאָץ",
+       "heb": "מִנֹּאָץ",
        "translit": "minoaț",
        "strong": "H5006",
-       "pos": "verb, participiu hitpoel, masculin singular",
+       "pos": "verb, hitpolel participiu pasiv",
        "def_ro": "disprețuit, hulit.",
+       "greek": "βλασφημέω (blasphemeo)",
+       "greek_def_ro": "βλασφημέω (blasphemeo) — a blasfemia, a huli.",
        "dict_ro": "Naaț — „a disprețui, a huli”, ca în „oamenii disprețuiau darul DOMNULUI” (1 Samuel 2:17; Metzudat Țion). Exilul nu e doar suferința poporului, ci și o pângărire a Numelui lui Dumnezeu: stăpânitorii se laudă că mâna lor a biruit (Rashi), iar Numele e hulit „toată ziua”. Ezechiel dezvoltă aceeași idee (Ezechiel 36:20-23), iar Pavel citează versetul după Septuaginta („din pricina voastră Numele lui Dumnezeu e hulit între neamuri”, Romani 2:24). Talmudul numără exilul printre cele patru lucruri pe care Dumnezeu, ca să spunem așa, regretă că le-a creat, căci El întreabă: „ce am Eu aici?” (Sukka 52b)."
       },
       {
@@ -97049,12 +97079,14 @@
       {
        "t": "iată-Mă",
        "w": "iată-Mă",
-       "heb": "הִנֵּנִי",
-       "translit": "hineni",
+       "heb": "הִנֵּנִי",
+       "translit": "hinēni",
        "strong": "H2009",
-       "pos": "interjecție, cu sufix persoana I singular",
+       "pos": "particulă demonstrativă + sufix",
        "def_ro": "iată-Mă, sunt aici.",
-       "dict_ro": "Hineni — „iată-mă”, răspunsul celui gata să asculte și să slujească: Avraam (Geneza 22:1), Moise la rug (Exod 3:4), Isaia la chemare (Isaia 6:8). Aici, surprinzător, Dumnezeu e Cel care spune „iată-Mă”: El, care a vorbit prin profeți, e prezent și Își împlinește cuvântul. Rashi: în ziua răscumpărării vor înțelege că Eu sunt Cel care a vorbit, și iată, am împlinit profeția. Radak: atunci vor ști că profeții n-au vorbit de la ei înșiși, ci în Numele Meu."
+       "greek": "πάρειμι (pareimi)",
+       "greek_def_ro": "πάρειμι (pareimi) — a fi de față, a fi prezent.",
+       "dict_ro": "Hineni — „iată-mă”, răspunsul celui gata să asculte și să slujească: Avraam (Geneza 22:1), Moise la rug (Exodul 3:4), Isaia la chemare (Isaia 6:8). Aici, surprinzător, Dumnezeu e Cel care spune „iată-Mă”: El, care a vorbit prin profeți, e prezent și Își împlinește cuvântul. Rashi: în ziua răscumpărării vor înțelege că Eu sunt Cel care a vorbit, și iată, am împlinit profeția. Radak: atunci vor ști că profeții n-au vorbit de la ei înșiși, ci în Numele Meu."
       },
       {
        "t": "!"
@@ -97106,11 +97138,13 @@
       {
        "t": "Ce frumoși",
        "w": "Ce frumoși",
-       "heb": "מַה־נָּאווּ",
-       "translit": "ma-navu",
+       "heb": "נָּאווּ",
+       "translit": "navu",
        "strong": "H4998",
-       "pos": "pronume interogativ + verb, perfect nifal, persoana a III-a plural",
+       "pos": "verb, qal perfect",
        "def_ro": "cât de frumoși sunt!",
+       "greek": "ὥρα (hora)",
+       "greek_def_ro": "ὥρα (hora) — frumusețe, vreme potrivită.",
        "dict_ro": "Naa — „a fi frumos, potrivit”; Radak explică faptul că frumusețea e atribuită picioarelor ca pildă: e bucuria cu care se primește alergătorul care urcă pe munți ca să-și facă auzit glasul. Vestea are trei cuvinte: pace (șalom), bine (tov), mântuire (ieșua), iar încheierea „Dumnezeul tău împărățește” arată că atunci toți vor recunoaște domnia Lui (Radak). Talmudul sfătuiește ca cel care visează un munte să spună dimineața acest verset (Berahot 56b); Pavel îl citează despre vestitorii Evangheliei (Romani 10:15), iar Naum îl aplică vestii căderii Ninivei (Naum 1:15)."
       },
       {
@@ -97174,8 +97208,10 @@
        "heb": "צֹפַיִךְ",
        "translit": "țofaih",
        "strong": "H6822",
-       "pos": "verb, participiu qal, masculin plural, cu sufix persoana a II-a feminin singular",
+       "pos": "verb, qal participiu + sufix",
        "def_ro": "străjerii tăi, cei care stau de pază.",
+       "greek": "φυλάσσω (phylasso)",
+       "greek_def_ro": "φυλάσσω (phylasso) — a păzi, a străjui.",
        "dict_ro": "Țofe — „străjerul” care stă pe zid și privește în depărtare (țafa, „a privi încordat”); Rashi: străjerii puși pe ziduri și turnuri ca să vadă și să vestească pe cine vine în cetate. Radak înțelege că străjerii sunt profeții, numiți țofe în Ezechiel 3:17, iar „ochi în ochi” înseamnă o vedere limpede, ca la Sinai (Numeri 14:14). Talmudul citește din verbul la viitor („vor cânta”, ieranenu) o aluzie la învierea morților și spune că toți profeții vor cânta într-un singur glas (Sanhedrin 91b)."
       },
       {
@@ -97236,11 +97272,13 @@
       {
        "t": "Izbucniți de bucurie",
        "w": "Izbucniți de bucurie",
-       "heb": "פִּצְחוּ",
+       "heb": "פִּצְחוּ",
        "translit": "pițhu",
        "strong": "H6476",
-       "pos": "verb, imperativ qal, masculin plural",
+       "pos": "verb, qal imperativ",
        "def_ro": "izbucniți în strigăte de bucurie.",
+       "greek": "ῥήγνυμι (rhegnymi)",
+       "greek_def_ro": "ῥήγνυμι (rhegnymi) — a izbucni, a sparge (în strigăt de bucurie).",
        "dict_ro": "Pațah — „a izbucni, a deschide gura” într-un strigăt de bucurie, ca în „izbucnește în cântare și strigă de bucurie” (Isaia 54:1; Metzudat Țion). Ruinele înseși sunt chemate să cânte, o personificare (Metzudat David: casele dărâmate ale Ierusalimului deschid gura în glas de bucurie). Motivul e dublu: DOMNUL „Și-a mângâiat poporul” — verbul niham al întregului ciclu — și „a răscumpărat Ierusalimul”. Aceleași cuvinte se repetă în Isaia 44:23 și 49:13, unde cerul și pământul sunt chemate la cântare."
       },
       {
@@ -97297,12 +97335,14 @@
       {
        "t": "Și-a dezvelit",
        "w": "Și-a dezvelit",
-       "heb": "חָשַׂף",
+       "heb": "חָשַׂף",
        "translit": "hasaf",
        "strong": "H2834",
-       "pos": "verb, perfect qal, persoana a III-a masculin singular",
+       "pos": "verb, qal perfect",
        "def_ro": "Și-a dezgolit, a descoperit.",
-       "dict_ro": "Hasaf — „a dezveli, a dezgoli”, ca în „dezgolește-ți piciorul” (Isaia 47:2; Metzudat Țion). Imaginea e a unui războinic care își suflecă mâneca și își dezvelește brațul ca să lupte (Metzudat David); „brațul DOMNULUI” e puterea Lui arătată în istorie, ca la ieșirea din Egipt („cu mână tare și cu braț întins”). Radak: mântuirea lui Israel va fi pe față, înaintea tuturor neamurilor. Ultima parte a versetului e reluată în Psalmii 98:3: „toate marginile pământului au văzut mântuirea Dumnezeului nostru”."
+       "greek": "ἀποκαλύπτω (apokalypto)",
+       "greek_def_ro": "ἀποκαλύπτω (apokalypto) — a dezveli, a descoperi.",
+       "dict_ro": "Hasaf — „a dezveli, a dezgoli”, ca în „dezgolește-ți piciorul” (Isaia 47:2; Metzudat Țion). Imaginea e a unui războinic care își suflecă mâneca și își dezvelește brațul ca să lupte (Metzudat David); „brațul DOMNULUI” e puterea Lui arătată în istorie, ca la ieșirea din Egipt („cu mână tare și cu braț întins”). Radak: mântuirea lui Israel va fi pe față, înaintea tuturor neamurilor. Ultima parte a versetului e reluată în Psalmul 98:3: „toate marginile pământului au văzut mântuirea Dumnezeului nostru”."
       },
       {
        "t": " brațul Său cel sfânt în ochii tuturor neamurilor și toate marginile pământului vor vedea salvarea Dumnezeului nostru."
@@ -97362,11 +97402,12 @@
       {
        "t": "curățiți-vă",
        "w": "curățiți-vă",
-       "heb": "הִבָּרוּ",
+       "heb": "הִבָּרוּ",
        "translit": "hibaru",
        "strong": "H1305",
-       "pos": "verb, imperativ nifal, masculin plural",
+       "pos": "verb, nifal imperativ",
        "def_ro": "curățiți-vă, fiți curați.",
+       "diff_ro": "Septuaginta are aici „ἀφορίσθητε\" („fiți puși deoparte, separați\"), nu „curățiți-vă\" (hibaru, de la bar, „curat\") ca în ebraică — accentul cade pe separare, nu pe curăție rituală.",
        "dict_ro": "Barar — „a curăța, a alege, a limpezi”, de unde bar, „curat”. Chemarea de a ieși din exil e însoțită de o cerință de curăție: „nu vă atingeți de cel necurat”. Rashi citește „purtători ai obiectelor DOMNULUI” despre preoții și leviții care au purtat vasele Cortului în pustiu; Metzudat David și Radak, despre armele celor care ies din exil: armele lor nu vor fi sabia și sulița, ci Tora, poruncile și îndurarea lui Dumnezeu. Pavel citează versetul îndemnând la despărțirea de idolatrie (2 Corinteni 6:17)."
       },
       {
@@ -97427,12 +97468,14 @@
       {
        "t": "ariergardă",
        "w": "ariergardă",
-       "heb": "וּמְאַסִּפְכֶם",
-       "translit": "umeasifhem",
+       "heb": "וּמְאַסִּפְכֶם",
+       "translit": "umasifhem",
        "strong": "H622",
-       "pos": "conjuncție + verb, participiu pi'el, masculin singular, cu sufix persoana a II-a plural",
+       "pos": "verb, piel participiu + sufix",
        "def_ro": "cel care vă strânge din urmă, ariergarda voastră.",
-       "dict_ro": "Measef — „cel care strânge”, ariergarda care merge în urma taberei și adună pe cei rămași în urmă și pe cei care se poticnesc, ca seminția lui Dan în pustiu, „ariergarda tuturor taberelor” (Numeri 10:25; Rashi). Versetul se opune ieșirii din Egipt, care s-a făcut „în grabă” (Exod 12:11; Deuteronom 16:3): de data aceasta nu vor pleca în grabă și nici fugind, căci Dumnezeu merge și înaintea lor, și în urma lor. Radak: din Egipt au ieșit în grabă, pentru că egiptenii îi zoreau, dar acum vor ieși „cu mână tare”, fără să se teamă de nimeni."
+       "greek": "ἐπισυνάγω (episynago)",
+       "greek_def_ro": "ἐπισυνάγω (episynago) — a strânge, a aduna (din urmă).",
+       "dict_ro": "Measef — „cel care strânge”, ariergarda care merge în urma taberei și adună pe cei rămași în urmă și pe cei care se poticnesc, ca seminția lui Dan în pustiu, „ariergarda tuturor taberelor” (Numeri 10:25; Rashi). Versetul se opune ieșirii din Egipt, care s-a făcut „în grabă” (Exodul 12:11; Deuteronomul 16:3): de data aceasta nu vor pleca în grabă și nici fugind, căci Dumnezeu merge și înaintea lor, și în urma lor. Radak: din Egipt au ieșit în grabă, pentru că egiptenii îi zoreau, dar acum vor ieși „cu mână tare”, fără să se teamă de nimeni."
       },
       {
        "t": " va fi Dumnezeul lui Israel."
