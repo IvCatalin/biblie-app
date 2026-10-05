@@ -75016,6 +75016,8 @@
        "strong": "H6135",
        "pos": "adjectiv, feminin singular",
        "def_ro": "stearpă, fără copii.",
+       "greek": "στεῖρα (steira)",
+       "greek_def_ro": "στεῖρα (steira) — stearpă.",
        "dict_ro": "Akara — de la rădăcina akar, „a smulge din rădăcină”: femeia fără urmași e ca un copac dezrădăcinat. Scriptura repetă tiparul maicilor sterpe prin care Dumnezeu își începe lucrarea — Sara, Rebeca, Rahela, Ana, iar în Noul Testament Elisabeta (Luca 1:7). Talmudul (Bava Batra 91a) păstrează o tradiție despre numele ei, pe care Scriptura nu-l dă: Țelelponit. Tot acolo se spune că Ivțan (Boaz, după tradiție) nu l-a invitat pe Manoah la nicio nuntă a copiilor lui, socotind că un om fără copii nu-l va putea chema niciodată înapoi."
       },
       {
@@ -75072,11 +75074,13 @@
       {
        "t": "un înger al lui Dumnezeu",
        "w": "un înger al lui Dumnezeu",
-       "heb": "מַלְאַךְ־יְהוָה",
-       "translit": "malah-ADONAI",
+       "heb": "מַלְאַךְ",
+       "translit": "malah",
        "strong": "H4397",
-       "pos": "substantiv, masculin singular, în construcție + numele divin",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "trimisul, îngerul DOMNULUI.",
+       "greek": "ἄγγελος Κυρίου (angelos Kyriou)",
+       "greek_def_ro": "ἄγγελος Κυρίου (angelos Kyriou) — înger al DOMNULUI.",
        "dict_ro": "Malah — „trimis, sol”, de la o rădăcină care înseamnă „a trimite cu o însărcinare”; același cuvânt desemnează un mesager omenesc sau unul ceresc. Îngerul i se arată femeii, nu lui Manoah — și de fiecare dată în capitol ea înțelege mai repede decât soțul ei. Vestirea urmează tiparul biblic al vestirii nașterii: arătarea, constatarea sterpiciunii, făgăduința („vei zămisli și vei naște un fiu”), cu ecouri în Geneza 18:10 și în vestirea lui Ioan Botezătorul (Luca 1:13)."
       },
       {
@@ -75125,12 +75129,14 @@
       {
        "t": "băutură tare",
        "w": "băutură tare",
-       "heb": "וְשֵׁכָר",
-       "translit": "veșehar",
+       "heb": "וְשֵׁכָר",
+       "translit": "veșēhar",
        "strong": "H7941",
-       "pos": "conjuncție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "băutură amețitoare, băutură tare.",
-       "dict_ro": "Șehar — orice băutură care îmbată (de la șahar, „a se îmbăta”), alături de vin în legea nazireului (Numeri 6:3) și în interdicția pentru preoții care intră în Cortul Întâlnirii (Levitic 10:9). Rashi, după Targumul lui Ionatan, explică perechea „vin și băutură tare” ca „vin proaspăt și vin vechi”. Legătura cu pericopa Naso e directă: acolo Tora dă legile nazireului, aici mama lui Samson trebuie să le păzească de pe acum, pentru copilul pe care îl va purta."
+       "greek": "μέθυσμα (methysma)",
+       "greek_def_ro": "μέθυσμα (methysma) — băutură tare, aducătoare de beție.",
+       "dict_ro": "Șehar — orice băutură care îmbată (de la șahar, „a se îmbăta”), alături de vin în legea nazireului (Numeri 6:3) și în interdicția pentru preoții care intră în Cortul Întâlnirii (Leviticul 10:9). Rashi, după Targumul lui Ionatan, explică perechea „vin și băutură tare” ca „vin proaspăt și vin vechi”. Legătura cu pericopa Naso e directă: acolo Tora dă legile nazireului, aici mama lui Samson trebuie să le păzească de pe acum, pentru copilul pe care îl va purta."
       },
       {
        "t": ", și să nu mănânci nimic necurat."
@@ -75196,8 +75202,10 @@
        "heb": "נְזִיר",
        "translit": "nezir",
        "strong": "H5139",
-       "pos": "substantiv, masculin singular, în construcție",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "nazireu, cel pus deoparte pentru Dumnezeu.",
+       "greek": "ναζίρ (nazir)",
+       "greek_def_ro": "ναζίρ (nazir) — nazireu (termen transliterat din ebraică).",
        "dict_ro": "Nazir — de la nazar, „a se separa, a se consacra”; Metzudat Țion îl explică: „pentru că s-a despărțit de plăcerile lumii”. Legea nazireului (Numeri 6, în pericopa Naso) e un jurământ luat de bunăvoie, pe o perioadă; Samson este însă nazireu „din pântece”, fără jurământul lui, prin cuvântul îngerului — de aceea Talmudul (Nazir 4b) vorbește de un „nazireu ca Samson”, cu reguli proprii. „Va începe să mântuiască” e, după Metzudat David, o laudă cu rezervă: mântuirea lui a rămas un început, neterminat, deși i-a lovit pe filisteni de multe ori."
       },
       {
@@ -75265,12 +75273,14 @@
       {
        "t": "foarte înfricoșătoare",
        "w": "foarte înfricoșătoare",
-       "heb": "נוֹרָא מְאֹד",
-       "translit": "nora meod",
+       "heb": "נוֹרָא",
+       "translit": "nora",
        "strong": "H3372",
-       "pos": "verb, nifal, participiu + adverb",
+       "pos": "verb, nifal participiu",
        "def_ro": "cumplit de înfricoșător, care inspiră o teamă plină de respect.",
-       "dict_ro": "Nora — participiul lui yare, „a se teme”: nu doar ceva care sperie, ci ceva care inspiră evlavie și uimire; același cuvânt apare în Geneza 28:17, „cât de înfricoșător este locul acesta!”. Femeia îl numește „om al lui Dumnezeu”, titlul obișnuit al profeților (Deuteronom 33:1; 1 Samuel 9:6), dar înfățișarea lui o duce cu gândul la un înger. Radak observă că oamenii își închipuie de obicei îngerul ca pe un trup cu o înfățișare cumplită."
+       "greek": "φοβερός σφόδρα (phoberos sphodra)",
+       "greek_def_ro": "φοβερός σφόδρα (phoberos sphodra) — foarte înfricoșător.",
+       "dict_ro": "Nora — participiul lui yare, „a se teme”: nu doar ceva care sperie, ci ceva care inspiră evlavie și uimire; același cuvânt apare în Geneza 28:17, „cât de înfricoșător este locul acesta!”. Femeia îl numește „om al lui Dumnezeu”, titlul obișnuit al profeților (Deuteronomul 33:1; 1 Samuel 9:6), dar înfățișarea lui o duce cu gândul la un înger. Radak observă că oamenii își închipuie de obicei îngerul ca pe un trup cu o înfățișare cumplită."
       },
       {
        "t": ". Nici eu nu l-am întrebat de unde era și nici el nu mi-a dezvăluit care era numele lui."
@@ -75326,11 +75336,13 @@
       {
        "t": "din pântec",
        "w": "din pântec",
-       "heb": "מִן־הַבֶּטֶן",
-       "translit": "min-habeten",
+       "heb": "הַבֶּטֶן",
+       "translit": "habeten",
        "strong": "H990",
-       "pos": "prepoziție + substantiv, feminin singular, cu articol",
+       "pos": "substantiv, feminin singular",
        "def_ro": "din pântece, de la naștere.",
+       "greek": "ἀπὸ γαστρός (apo gastros)",
+       "greek_def_ro": "ἀπὸ γαστρός (apo gastros) — din pântec.",
        "dict_ro": "Beten — pântecele, sânul matern; „din pântece” exprimă o chemare care precede orice alegere personală, ca la Ieremia („înainte să ieși din pântece, te-am sfințit”, Ieremia 1:5) sau la Ioan Botezătorul („umplut de Duhul Sfânt încă din pântecele mamei lui”, Luca 1:15). Femeia repetă cuvintele îngerului aproape exact, dar adaugă „până în ziua morții lui” — o precizare pe care îngerul nu o spusese, și în care cititorul poate auzi deja sfârșitul lui Samson (Judecători 16:30)."
       },
       {
@@ -75376,11 +75388,13 @@
       {
        "t": "l-a implorat",
        "w": "l-a implorat",
-       "heb": "וַיֶּעְתַּר",
+       "heb": "וַיֶּעְתַּר",
        "translit": "vaietar",
        "strong": "H6279",
-       "pos": "verb, qal, imperfect consecutiv, persoana a III-a masculin singular",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "s-a rugat stăruitor, a implorat.",
+       "greek": "προσεύχομαι (proseuchomai)",
+       "greek_def_ro": "προσεύχομαι (proseuchomai) — a se ruga.",
        "dict_ro": "Atar — a se ruga stăruitor, a înmulți rugăciunea; Metzudat Țion îl leagă de Geneza 25:21, unde Isaac „s-a rugat stăruitor” pentru Rebeca cea stearpă. Manoah nu se îndoiește de vestire, dar vrea instrucțiuni: „să ne învețe (yorenu, înrudit cu tora) ce să facem”. Metzudat David explică faptul că se temea ca un nazireu din pântece să nu aibă nevoie de reguli în plus față de nazireatul obișnuit."
       },
       {
@@ -75438,11 +75452,13 @@
       {
        "t": "pe câmp",
        "w": "pe câmp",
-       "heb": "בַּשָּׂדֶה",
+       "heb": "בַּשָּׂדֶה",
        "translit": "basade",
        "strong": "H7704",
-       "pos": "prepoziție + substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "în câmp, în țarină.",
+       "greek": "ἐν ἀγρῷ (en agro)",
+       "greek_def_ro": "ἐν ἀγρῷ (en agro) — pe câmp.",
        "dict_ro": "Sade — câmpul deschis, ținutul cultivat din afara așezării. Rugăciunea lui Manoah e ascultată, dar îngerul vine din nou la femeie, și iarăși când e singură, pe câmp. Metzudat David subliniază generozitatea răspunsului: Dumnezeu a împlinit cererea lui Manoah deși nu era necesar, căci îngerul nu va adăuga nimic la ce spusese deja."
       },
       {
@@ -75486,11 +75502,13 @@
       {
        "t": "s-a grăbit",
        "w": "s-a grăbit",
-       "heb": "וַתְּמַהֵר",
-       "translit": "vatemaher",
+       "heb": "וַתְּמַהֵר",
+       "translit": "vatmahēr",
        "strong": "H4116",
-       "pos": "verb, piel, imperfect consecutiv, persoana a III-a feminin singular",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "s-a grăbit, s-a zorit.",
+       "greek": "ταχύνω (tachyno)",
+       "greek_def_ro": "ταχύνω (tachyno) — a se grăbi.",
        "dict_ro": "Mahar — „a se grăbi”, la forma intensivă; urmat de „a alergat”, cele două verbe arată graba și bucuria cu care femeia îl cheamă pe soțul ei, ca Avraam care „s-a grăbit” și „a alergat” să-și primească oaspeții (Geneza 18:6-7). „În ziua aceea” (bayom) înseamnă, după Radak și Targum, „în ziua de atunci”, ziua primei arătări."
       },
       {
@@ -75537,10 +75555,12 @@
        "t": "Manoah",
        "w": "Manoah",
        "heb": "מָנוֹחַ",
-       "translit": "Manoah",
+       "translit": "manoah",
        "strong": "H4495",
-       "pos": "substantiv propriu, masculin",
+       "pos": "nume propriu",
        "def_ro": "Manoah („odihnă”), tatăl lui Samson.",
+       "greek": "Μανωέ (Manoe)",
+       "greek_def_ro": "Μανωέ (Manoe) — Manoah.",
        "dict_ro": "Manoah — de la nuah, „a se odihni”: „loc de odihnă, liniște”. Expresia „a mers după soția sa” a stârnit o dispută în Talmud (Berahot 61a): Rav Nahman a dedus de aici că Manoah era un om neștiutor de carte, căci un bărbat nu merge în urma unei femei; Rav Nahman bar Ițhak a răspuns că și despre Elcana și despre Elisei se spune „a mers după ea”, și înseamnă „după cuvântul și sfatul ei” — așa explică și Rashi. Metzudat David dă o lectură simplă: doar ea știa locul unde se arătase îngerul."
       },
       {
@@ -75590,11 +75610,13 @@
       {
        "t": "cum trebuie să se poarte",
        "w": "cum trebuie să se poarte",
-       "heb": "מִשְׁפַּט",
+       "heb": "מִשְׁפַּט",
        "translit": "mișpat",
        "strong": "H4941",
-       "pos": "substantiv, masculin singular, în construcție",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "rânduiala, felul de purtare, regula.",
+       "greek": "κρίσις (krisis)",
+       "greek_def_ro": "κρίσις (krisis) — judecată, rânduială.",
        "dict_ro": "Mișpat — de obicei „judecată, dreptate”, dar aici, cum explică Metzudat Țion, „rânduială, fel de a se purta”, ca în 1 Samuel 27:11 („așa a fost obiceiul lui”). Manoah întreabă despre „rânduiala tânărului și fapta lui”; Rashi și Targumul lui Ionatan precizează că întrebarea nu era ce trebuie să facă băiatul, ci ce trebuie să facă ei, părinții, cu el — prima întrebare despre educație din cartea Judecătorilor."
       },
       {
@@ -75653,11 +75675,13 @@
       {
        "t": "să se păzească",
        "w": "să se păzească",
-       "heb": "תִּשָּׁמֵר",
-       "translit": "tișamer",
+       "heb": "תִּשָּׁמֵר",
+       "translit": "tișamēr",
        "strong": "H8104",
-       "pos": "verb, nifal, imperfect, persoana a III-a feminin singular",
+       "pos": "verb, nifal imperfect",
        "def_ro": "să se păzească, să se ferească.",
+       "greek": "φυλάσσομαι (phylassomai)",
+       "greek_def_ro": "φυλάσσομαι (phylassomai) — a se păzi.",
        "dict_ro": "Șamar — „a păzi”, verbul central al ascultării de poruncă; la forma nifal, „a se păzi pe sine, a se feri”. Răspunsul îngerului e surprinzător de scurt: nu dă nicio regulă nouă despre copil, ci repetă ce trebuie să păzească mama. Metzudat David explică: nazireatul tânărului nu are nimic în plus față de nazireatul obișnuit; singurul adaos este că și mama trebuie să se păzească încă de acum."
       },
       {
@@ -75699,11 +75723,13 @@
       {
        "t": "vița-de-vie",
        "w": "vița-de-vie",
-       "heb": "מִגֶּפֶן הַיַּיִן",
-       "translit": "mighefen haiain",
+       "heb": "מִגֶּפֶן",
+       "translit": "migefen",
        "strong": "H1612",
-       "pos": "prepoziție + substantiv, în construcție + substantiv cu articol",
+       "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "vița de vin, vița-de-vie.",
+       "greek": "ἄμπελος (ampelos)",
+       "greek_def_ro": "ἄμπελος (ampelos) — viță-de-vie.",
        "dict_ro": "Ghefen haiain — literal „vița vinului”; Metzudat Țion explică de ce e nevoie de precizare: există și o „viță de câmp” sălbatică (2 Împărați 4:39), cu roade otrăvitoare, iar interdicția privește doar vița de vin. Formula reia cuvânt cu cuvânt legea din pericopa Naso: „tot ce se face din vița-de-vie, de la sâmburi până la pieliță, să nu mănânce” (Numeri 6:4). Ce „i-am poruncit ei” rămâne regula, fără adaosuri."
       },
       {
@@ -75754,11 +75780,13 @@
       {
        "t": "un ied",
        "w": "un ied",
-       "heb": "גְּדִי עִזִּים",
-       "translit": "ghedi izim",
+       "heb": "גְּדִי",
+       "translit": "gedi",
        "strong": "H1423",
-       "pos": "substantiv, masculin singular, în construcție + substantiv plural",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "un ied (din capre).",
+       "greek": "ἔριφος (eriphos)",
+       "greek_def_ro": "ἔριφος (eriphos) — ied.",
        "dict_ro": "Ghedi izim — iedul din turma de capre, carnea de cinste pentru un oaspete, ca vițelul pe care Avraam l-a pregătit îngerilor (Geneza 18:7) sau iedul lui Ghedeon (Judecători 6:19). Manoah vrea să-l „rețină” (națra) pe musafir, ca oaspete la masă, cum explică Rashi; ospitalitatea lui e reală, dar arată și că încă nu înțelege cine stă în fața lui."
       },
       {
@@ -75812,6 +75840,8 @@
        "strong": "H5930",
        "pos": "substantiv, feminin singular",
        "def_ro": "ardere-de-tot, jertfă arsă în întregime.",
+       "greek": "ὁλοκαύτωμα (holokautoma)",
+       "greek_def_ro": "ὁλοκαύτωμα (holokautoma) — ardere-de-tot.",
        "dict_ro": "Ola — „ceea ce se înalță”, jertfa arsă în întregime pe altar, al cărei fum urcă spre cer; nimic din ea nu e mâncat. Îngerul refuză masa („lehem”, explică Radak, înseamnă orice mâncare), dar îndreaptă darul spre singurul lui Destinatar: „înalț-o către DOMNUL”. Radak explică de ce precizarea era necesară: generația aceea făcea rău în ochii DOMNULUI și aducea arderi-de-tot altor dumnezei."
       },
       {
@@ -75860,11 +75890,13 @@
       {
        "t": "să te cinstim",
        "w": "să te cinstim",
-       "heb": "וְכִבַּדְנוּךָ",
+       "heb": "וְכִבַּדְנוּךָ",
        "translit": "vehibadnuha",
        "strong": "H3513",
-       "pos": "verb, piel, perfect consecutiv, persoana I plural + sufix persoana a II-a",
+       "pos": "verb, piel perfect + sufix",
        "def_ro": "te vom cinsti.",
+       "greek": "δοξάζω (doxazo)",
+       "greek_def_ro": "δοξάζω (doxazo) — a slăvi, a cinsti.",
        "dict_ro": "Kaved — „a fi greu”, iar la forma piel „a da greutate, a cinsti”; de aici și kavod, „slava”. Manoah vrea să-i știe numele ca să-l poată onora când se va împlini vestirea. Radak observă o nuanță gramaticală: Manoah întreabă „cine (mi) îți este numele?” și nu „ce (ma)?”, pentru că îl socotea un profet mare, iar numele unui om mare e cunoscut chiar și celor care nu l-au văzut — numele ține locul persoanei."
       },
       {
@@ -75923,7 +75955,9 @@
        "strong": "H6383",
        "pos": "adjectiv, masculin singular",
        "def_ro": "minunat, de nepătruns, ascuns.",
-       "dict_ro": "Peli — „minunat, mai presus de înțelegere”, din rădăcina pala, „a fi extraordinar, de nepătruns”; înrudit cu pele („minune”) din Isaia 9:6 („Minunat, Sfetnic...”) și cu verbul „a face o minune” din versetul următor. Metzudat Țion îl explică „acoperit și ascuns”, ca în Deuteronom 17:8 („când un lucru îți va fi prea greu”). Rashi dă o explicație neobișnuită: numele îngerului se schimbă mereu, după misiunea pe care o are în acel moment, încât nu poate fi cunoscut. Întrebarea și refuzul sunt aproape identice cu cele din lupta lui Iacov la Iaboc (Geneza 32:29)."
+       "greek": "θαυμαστός (thaumastos)",
+       "greek_def_ro": "θαυμαστός (thaumastos) — minunat, miraculos.",
+       "dict_ro": "Peli — „minunat, mai presus de înțelegere”, din rădăcina pala, „a fi extraordinar, de nepătruns”; înrudit cu pele („minune”) din Isaia 9:6 („Minunat, Sfetnic...”) și cu verbul „a face o minune” din versetul următor. Metzudat Țion îl explică „acoperit și ascuns”, ca în Deuteronomul 17:8 („când un lucru îți va fi prea greu”). Rashi dă o explicație neobișnuită: numele îngerului se schimbă mereu, după misiunea pe care o are în acel moment, încât nu poate fi cunoscut. Întrebarea și refuzul sunt aproape identice cu cele din lupta lui Iacov la Iaboc (Geneza 32:29)."
       },
       {
        "t": ".”"
@@ -75978,11 +76012,13 @@
       {
        "t": "pe o stâncă",
        "w": "pe o stâncă",
-       "heb": "עַל־הַצּוּר",
-       "translit": "al-hațur",
+       "heb": "הַצּוּר",
+       "translit": "hațur",
        "strong": "H6697",
-       "pos": "prepoziție + substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "pe stâncă.",
+       "greek": "ἐπὶ τὴν πέτραν (epi ten petran)",
+       "greek_def_ro": "ἐπὶ τὴν πέτραν (epi ten petran) — pe stâncă.",
        "dict_ro": "Țur — stânca, blocul de piatră care ține aici loc de altar; tot pe o stâncă a adus jertfa și Ghedeon, când îngerul a scos foc din ea (Judecători 6:20-21). Radak ridică o problemă de lege: cât timp Cortul Întâlnirii era la Șilo, altarele particulare erau interzise; înțelepții au explicat că a fost o „hotărâre pentru acel moment” (horaat șaa), dată chiar de înger. „Minunea” pe care o face îngerul este, după Metzudat David, scoaterea focului din stâncă."
       },
       {
@@ -76033,12 +76069,14 @@
       {
        "t": "flacăra",
        "w": "flacăra",
-       "heb": "הַלַּהַב",
+       "heb": "הַלַּהַב",
        "translit": "halahav",
        "strong": "H3851",
-       "pos": "substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "flacăra, vâlvătaia.",
-       "dict_ro": "Lahav — flacăra, dar și lama strălucitoare a unei arme (Judecători 3:22), căci amândouă strălucesc; Metzudat Țion îl explică prin „șalhevet”, flacără. Îngerul se înalță chiar în flacăra jertfei, ca o arătare că darul a fost primit sus. Căderea „cu fața la pământ” e reacția oamenilor în fața gloriei lui Dumnezeu la inaugurarea altarului din Cortul Întâlnirii (Levitic 9:24) sau pe Carmel (1 Împărați 18:39)."
+       "greek": "φλόξ (phlox)",
+       "greek_def_ro": "φλόξ (phlox) — flacără.",
+       "dict_ro": "Lahav — flacăra, dar și lama strălucitoare a unei arme (Judecători 3:22), căci amândouă strălucesc; Metzudat Țion îl explică prin „șalhevet”, flacără. Îngerul se înalță chiar în flacăra jertfei, ca o arătare că darul a fost primit sus. Căderea „cu fața la pământ” e reacția oamenilor în fața gloriei lui Dumnezeu la inaugurarea altarului din Cortul Întâlnirii (Leviticul 9:24) sau pe Carmel (1 Împărați 18:39)."
       },
       {
        "t": " s-a ridicat de pe altar către ceruri, îngerul DOMNULUI a urcat și el în flacăra de pe altar. Iar Manoah și soția lui priveau și au căzut cu fața la pământ."
@@ -76097,8 +76135,10 @@
        "heb": "יָדַע",
        "translit": "iada",
        "strong": "H3045",
-       "pos": "verb, qal, perfect, persoana a III-a masculin singular",
+       "pos": "verb, qal perfect",
        "def_ro": "a cunoscut, a înțeles.",
+       "greek": "γινώσκω (ginosko)",
+       "greek_def_ro": "γινώσκω (ginosko) — a ști, a cunoaște.",
        "dict_ro": "Yada — „a ști, a cunoaște” prin experiență, nu doar prin informație. Abia acum, după ce îngerul s-a înălțat în flacără, Manoah „a știut” ce femeia intuise de la început. Radak discută legătura frazei: Manoah a înțeles fie din urcarea în flacără, fie din faptul că îngerul nu s-a mai arătat deloc de atunci — ambele lecturi sunt posibile."
       },
       {
@@ -76147,12 +76187,14 @@
       {
        "t": "L-am văzut pe Dumnezeu",
        "w": "L-am văzut pe Dumnezeu",
-       "heb": "אֱלֹהִים רָאִינוּ",
-       "translit": "Elohim rainu",
+       "heb": "אֱלֹהִים",
+       "translit": "elohim",
        "strong": "H430",
-       "pos": "substantiv, masculin plural + verb, qal, perfect, persoana I plural",
+       "pos": "substantiv, masculin plural",
        "def_ro": "am văzut pe Dumnezeu (aici: un înger al lui Dumnezeu).",
-       "dict_ro": "Elohim — Dumnezeu, dar cuvântul poate desemna și ființe cerești sau judecători; Metzudat David explică pe scurt: „Elohim — un înger al lui Dumnezeu”. Teama lui Manoah pornește de la cuvântul spus lui Moise: „omul nu poate să Mă vadă și să trăiască” (Exod 33:20); aceeași spaimă o are Ghedeon (Judecători 6:22-23) și Isaia („vai de mine, sunt pierdut”, Isaia 6:5)."
+       "greek": "Θεός (Theos)",
+       "greek_def_ro": "Θεός (Theos) — Dumnezeu.",
+       "dict_ro": "Elohim — Dumnezeu, dar cuvântul poate desemna și ființe cerești sau judecători; Metzudat David explică pe scurt: „Elohim — un înger al lui Dumnezeu”. Teama lui Manoah pornește de la cuvântul spus lui Moise: „omul nu poate să Mă vadă și să trăiască” (Exodul 33:20); aceeași spaimă o are Ghedeon (Judecători 6:22-23) și Isaia („vai de mine, sunt pierdut”, Isaia 6:5)."
       },
       {
        "t": ".”"
@@ -76201,8 +76243,10 @@
        "heb": "וּמִנְחָה",
        "translit": "uminha",
        "strong": "H4503",
-       "pos": "conjuncție + substantiv, feminin singular",
+       "pos": "substantiv, feminin singular",
        "def_ro": "darul de făină, ofranda de pâine.",
+       "greek": "θυσία (thysia)",
+       "greek_def_ro": "θυσία (thysia) — jertfă.",
        "dict_ro": "Minha — la început, orice dar adus unui superior (Geneza 32:13), apoi jertfa de făină care însoțea arderea-de-tot (Levitic 2). Femeia răspunde cu o logică liniștită, în trei trepte: Dumnezeu a primit jertfa, ne-a arătat minunile și ne-a vestit un fiu — n-ar fi făcut toate acestea ca să ne omoare. Rashi explică ultimul argument: nu ne-ar fi vestit nașterea unui fiu dacă am fi meritat să murim. E cea mai înțeleaptă replică din capitol, și o spune femeia fără nume."
       },
       {
@@ -76256,12 +76300,14 @@
       {
        "t": "Samson",
        "w": "Samson",
-       "heb": "שִׁמְשׁוֹן",
-       "translit": "Șimșon",
+       "heb": "שִׁמְשׁוֹן",
+       "translit": "șimșon",
        "strong": "H8123",
-       "pos": "substantiv propriu, masculin",
+       "pos": "nume propriu",
        "def_ro": "Samson (Șimșon), „cel însorit”.",
-       "dict_ro": "Șimșon — de la șemeș, „soare”, cu sufix diminutival: „micul soare, cel însorit”; Bet-Șemeș, „casa soarelui”, e aproape de Țora. Talmudul (Sota 10a) aduce cuvântul lui Rabi Iohanan: Samson e numit după numele Sfântului, binecuvântat fie El, căci e scris „DOMNUL Dumnezeu este soare și scut” (Psalmii 84:11) — nu că numele lui ar fi sfânt, ci că, precum Dumnezeu ocrotește lumea întreagă, așa Samson a ocrotit Israelul în generația lui. Evrei 11:32 îl numără printre eroii credinței."
+       "greek": "Σαμψών (Sampson)",
+       "greek_def_ro": "Σαμψών (Sampson) — Samson.",
+       "dict_ro": "Șimșon — de la șemeș, „soare”, cu sufix diminutival: „micul soare, cel însorit”; Bet-Șemeș, „casa soarelui”, e aproape de Țora. Talmudul (Sota 10a) aduce cuvântul lui Rabi Iohanan: Samson e numit după numele Sfântului, binecuvântat fie El, căci e scris „DOMNUL Dumnezeu este soare și scut” (Psalmul 84:11) — nu că numele lui ar fi sfânt, ci că, precum Dumnezeu ocrotește lumea întreagă, așa Samson a ocrotit Israelul în generația lui. Evrei 11:32 îl numără printre eroii credinței."
       },
       {
        "t": ". Și tânărul a crescut și Dumnezeu l-a binecuvântat."
@@ -76310,9 +76356,10 @@
        "heb": "לְפַעֲמוֹ",
        "translit": "lefaamo",
        "strong": "H6470",
-       "pos": "prepoziție + verb, qal, infinitiv + sufix persoana a III-a masculin singular",
+       "pos": "verb, qal infinitiv + sufix",
        "def_ro": "să-l pună în mișcare, să-l împingă (din când în când).",
-       "dict_ro": "Paam — „a lovi, a bate ritmic, a pune în mișcare”; de aici paam („pas, dată”) și paamon („clopoțel”). Rashi îl citește „cercetându-l din când în când”: duhul nu stătea pe el tot timpul, ci venea în valuri. Talmudul (Sota 9b) dă două lecturi: prin Samson a început să se împlinească profeția lui Iacov despre Dan („Dan va fi un șarpe pe drum”, Geneza 49:17), iar Șehina suna înaintea lui ca un clopoțel, după clopoțeii de pe haina marelui preot (Exod 39:26). Mahane-Dan, „tabăra lui Dan”, e locul unde a tăbărât tribul la plecarea spre Laiș (Judecători 18:12)."
+       "diff_ro": "Septuaginta are „συνεκπορεύεσθαι αὐτῷ\" („să meargă împreună cu el\"), nu „să-l miște/impulsioneze\" (lefa'amo) ca în ebraică — o imagine de prezență/acompaniere, nu de impuls interior.",
+       "dict_ro": "Paam — „a lovi, a bate ritmic, a pune în mișcare”; de aici paam („pas, dată”) și paamon („clopoțel”). Rashi îl citește „cercetându-l din când în când”: duhul nu stătea pe el tot timpul, ci venea în valuri. Talmudul (Sota 9b) dă două lecturi: prin Samson a început să se împlinească profeția lui Iacov despre Dan („Dan va fi un șarpe pe drum”, Geneza 49:17), iar Șehina suna înaintea lui ca un clopoțel, după clopoțeii de pe haina marelui preot (Exodul 39:26). Mahane-Dan, „tabăra lui Dan”, e locul unde a tăbărât tribul la plecarea spre Laiș (Judecători 18:12)."
       },
       {
        "t": " în tabăra lui Dan, între Țora și Eștaol."
