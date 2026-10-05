@@ -102172,8 +102172,10 @@
        "heb": "שׁוּבָה",
        "translit": "șuva",
        "strong": "H7725",
-       "pos": "verb, imperativ qal, masculin singular (formă lungă)",
+       "pos": "verb, qal imperativ + sufix",
        "def_ro": "întoarce-te.",
+       "greek": "ἐπιστρέφω (epistrepho)",
+       "greek_def_ro": "ἐπιστρέφω (epistrepho) — a se întoarce.",
        "dict_ro": "Șuv — „a se întoarce”, verbul din care vine teșuva, „pocăința”, adică întoarcerea la Dumnezeu. Cuvântul de început al haftarei a dat numele Sabatului dintre Roș Hașana și Iom Kipur: Șabat Șuva. Radak observă prepoziția „până la” (ad): nu doar spre DOMNUL, ci până la El; Talmudul învață de aici, în numele lui rabi Levi, că pocăința e atât de mare încât ajunge până la Tronul Slavei (Ioma 86a). Rashi aduce un midraș: întoarce-te cât timp El e încă „DOMNUL”, cu însușirea milei, înainte să fie „Dumnezeul tău”, cu însușirea judecății."
       },
       {
@@ -102239,7 +102241,8 @@
        "strong": "H6499",
        "pos": "substantiv, masculin plural",
        "def_ro": "tauri, viței (de jertfă).",
-       "dict_ro": "Par — „taurul tânăr”, cea mai mare jertfă obișnuită, adusă pentru păcatul întregii obști sau al marelui preot (Levitic 4:3,14). Expresia „buzele noastre să se substituie taurilor” (unșalema farim sefateinu) a devenit temelia rugăciunii evreiești după dărâmarea Templului: cuvintele mărturisirii țin locul jertfelor (Rashi, Radak, Metzudat David). Radak adaugă că nici jertfele nu foloseau fără mărturisirea păcatului, iar țapul trimis în pustie la Iom Kipur nu aducea nimic pe altar, ci doar mărturisirea rostită asupra lui (Levitic 16:21). Talmudul spune că Dumnezeu socotește mărturisirea ca și cum omul ar fi adus tauri (Ioma 86b)."
+       "diff_ro": "Septuaginta are aici „καρπὸν χειλέων ἡμῶν\" („rodul buzelor noastre\"), nu „tauri\" (parim) ca în ebraică — probabil o citire alternativă a cuvântului ebraic ca „peri\" (rod), nu „parim\" (tauri); citată după Septuaginta în Evrei 13:15.",
+       "dict_ro": "Par — „taurul tânăr”, cea mai mare jertfă obișnuită, adusă pentru păcatul întregii obști sau al marelui preot (Leviticul 4:3,14). Expresia „buzele noastre să se substituie taurilor” (unșalema farim sefateinu) a devenit temelia rugăciunii evreiești după dărâmarea Templului: cuvintele mărturisirii țin locul jertfelor (Rashi, Radak, Metzudat David). Radak adaugă că nici jertfele nu foloseau fără mărturisirea păcatului, iar țapul trimis în pustie la Iom Kipur nu aducea nimic pe altar, ci doar mărturisirea rostită asupra lui (Leviticul 16:21). Talmudul spune că Dumnezeu socotește mărturisirea ca și cum omul ar fi adus tauri (Ioma 86b)."
       },
       {
        "t": "."
@@ -102304,7 +102307,9 @@
        "strong": "H3490",
        "pos": "substantiv, masculin singular",
        "def_ro": "orfan, cel lipsit de tată.",
-       "dict_ro": "Iatom — „orfanul”, cel fără tată și deci fără ocrotitor, pe care Tora îl pune sub paza lui Dumnezeu: „Să nu asupriți pe văduvă și pe orfan” (Exod 22:22; Psalmii 68:5). Mărturisirea din acest verset renunță la trei sprijinuri false: Asiria (alianța politică), calul (puterea militară, adusă din Egipt, după Rashi) și idolii; poporul se recunoaște orfan, fără alt ocrotitor decât Dumnezeu. Metzudat David: doar prin ajutorul Tău orfanul găsește milă, chiar dacă nu are putere să se întărească singur."
+       "greek": "ὀρφανός (orphanos)",
+       "greek_def_ro": "ὀρφανός (orphanos) — orfan.",
+       "dict_ro": "Iatom — „orfanul”, cel fără tată și deci fără ocrotitor, pe care Tora îl pune sub paza lui Dumnezeu: „Să nu asupriți pe văduvă și pe orfan” (Exodul 22:22; Psalmul 68:5). Mărturisirea din acest verset renunță la trei sprijinuri false: Asiria (alianța politică), calul (puterea militară, adusă din Egipt, după Rashi) și idolii; poporul se recunoaște orfan, fără alt ocrotitor decât Dumnezeu. Metzudat David: doar prin ajutorul Tău orfanul găsește milă, chiar dacă nu are putere să se întărească singur."
       },
       {
        "t": " va găsi milă.”"
@@ -102363,8 +102368,9 @@
        "heb": "מְשׁוּבָתָם",
        "translit": "meșuvatam",
        "strong": "H4878",
-       "pos": "substantiv, feminin singular, cu sufix persoana a III-a masculin plural",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "abaterea, răzvrătirea lor.",
+       "diff_ro": "Septuaginta are aici „τὰς κατοικίας αὐτῶν\" („locuințele lor\"), nu „răzvrătirea lor\" (mesuvatam, de la șuv, „a se abate\") ca în ebraică — o redare diferită, posibil dintr-o confuzie cu rădăcina „a locui\".",
        "dict_ro": "Meșuva — „abaterea, apostazia”, din aceeași rădăcină ca șuv, „a se întoarce”: cine s-a întors de la Dumnezeu e meșuva, iar cine se întoarce la El face teșuva. Ieremia folosește același joc de cuvinte: „Întoarceți-vă, copii răzvrătiți, și vă voi vindeca răzvrătirile” (Ieremia 3:22; Metzudat Țion). Metzudat David: mărturisirea ajunge să înlăture dușmănia, dar dragostea vine „de bunăvoie” (nedava), ca un dar nemeritat. Talmudul învață de aici, în numele lui rabi Hama bar Hanina, că pocăința aduce vindecare lumii (Ioma 86a)."
       },
       {
@@ -102429,11 +102435,13 @@
       {
        "t": "roua",
        "w": "roua",
-       "heb": "כַטַּל",
+       "heb": "כַטַּל",
        "translit": "hatal",
        "strong": "H2919",
-       "pos": "prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "rouă.",
+       "greek": "δρόσος (drosos)",
+       "greek_def_ro": "δρόσος (drosos) — rouă.",
        "dict_ro": "Tal — „roua”, singura umezeală din lunile de vară fără ploaie din țara lui Israel, de care depinde creșterea; de aceea în rugăciunea zilnică se cere roua vara și ploaia iarna. Radak și Metzudat David: roua nu se oprește niciodată, și tot așa dragostea lui Dumnezeu nu se va opri. Talmudul pune în contrast cererea poporului, „să vină la noi ca ploaia” (Osea 6:3), cu răspunsul lui Dumnezeu: „ai cerut un lucru care uneori e dorit și alteori nu, dar Eu voi fi pentru tine un lucru dorit mereu” — roua (Taanit 4a). Versetul face contrast cu Osea 13:15, unde izvorul lui Efraim se usucă."
       },
       {
@@ -102498,12 +102506,14 @@
       {
        "t": "măslin",
        "w": "măslin",
-       "heb": "כַזַּיִת",
+       "heb": "כַזַּיִת",
        "translit": "hazait",
        "strong": "H2132",
-       "pos": "prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "măslin; măslină.",
-       "dict_ro": "Zait — „măslinul”, pomul veșnic verde care dă untdelemnul pentru candelabrul Templului și pentru ungere (Exod 27:20). Rashi citește imaginile în legătură cu Templul: splendoarea ca a candelabrului, mireasma ca a tămâiei, iar „Libanul” e un nume al Templului. Metzudat David: frunzele măslinului sunt verzi tot anul, deci binele lui nu va înceta. Talmudul învață din acest verset că tinerii lui Israel vor răspândi în viitor o mireasmă bună ca a Libanului (Berahot 43b)."
+       "greek": "ἐλαία (elaia)",
+       "greek_def_ro": "ἐλαία (elaia) — măslin.",
+       "dict_ro": "Zait — „măslinul”, pomul veșnic verde care dă untdelemnul pentru candelabrul Templului și pentru ungere (Exodul 27:20). Rashi citește imaginile în legătură cu Templul: splendoarea ca a candelabrului, mireasma ca a tămâiei, iar „Libanul” e un nume al Templului. Metzudat David: frunzele măslinului sunt verzi tot anul, deci binele lui nu va înceta. Talmudul învață din acest verset că tinerii lui Israel vor răspândi în viitor o mireasmă bună ca a Libanului (Berahot 43b)."
       },
       {
        "t": ", mireasma sa precum Libanul."
@@ -102572,7 +102582,9 @@
        "strong": "H1715",
        "pos": "substantiv, masculin singular",
        "def_ro": "grâne, cereale.",
-       "dict_ro": "Dagan — „grânele”, prima dintre cele trei roade ale țării, alături de must și untdelemn (Deuteronom 7:13). Radak explică de ce versetul adaugă îndată „vor înflori ca via”: grânele se usucă după seceriș și trebuie semănate din nou, dar via înflorește din nou în fiecare an; așa binele lui Israel nu se va mai întrerupe. El aduce și o altă explicație, că în viitor grâul va crește ca via, fără să mai fie semănat în fiecare an. Rashi, după Targum, leagă „renumele” lor de vinul de libație adus în Templu, peste care se sunau trâmbițele."
+       "greek": "σῖτος (sitos)",
+       "greek_def_ro": "σῖτος (sitos) — grâu.",
+       "dict_ro": "Dagan — „grânele”, prima dintre cele trei roade ale țării, alături de must și untdelemn (Deuteronomul 7:13). Radak explică de ce versetul adaugă îndată „vor înflori ca via”: grânele se usucă după seceriș și trebuie semănate din nou, dar via înflorește din nou în fiecare an; așa binele lui Israel nu se va mai întrerupe. El aduce și o altă explicație, că în viitor grâul va crește ca via, fără să mai fie semănat în fiecare an. Rashi, după Targum, leagă „renumele” lor de vinul de libație adus în Templu, peste care se sunau trâmbițele."
       },
       {
        "t": " și vor înflori ca via, iar renumele lor va fi ca al vinului din Liban."
@@ -102632,11 +102644,13 @@
       {
        "t": "idoli",
        "w": "idoli",
-       "heb": "לָעֲצַבִּים",
+       "heb": "לָעֲצַבִּים",
        "translit": "laațabim",
        "strong": "H6091",
-       "pos": "prepoziție cu articol + substantiv, masculin plural",
+       "pos": "substantiv, masculin plural",
        "def_ro": "idoli, chipuri cioplite.",
+       "greek": "εἴδωλον (eidolon)",
+       "greek_def_ro": "εἴδωλον (eidolon) — idol.",
        "dict_ro": "Ațav — „idolul, chipul cioplit”, dintr-o rădăcină care înseamnă și „durere, trudă” (ețev, Geneza 3:16): idolul e lucrul muncit de om, care îi aduce durere. Efraim, care fusese „lipit de idoli” (Osea 4:17), spune acum: „Ce nevoie mai am de idoli?”, iar Dumnezeu îi răspunde. Rashi și Radak explică imaginea chiparosului verde (beroș), al cărui vârf se apleacă până la rădăcini: așa Se apleacă Cel Preaînalt spre cel smerit, ca să-l poată prinde, „căci așa vorbește Cel Preaînalt... locuiesc în locuri înalte, dar sunt cu omul zdrobit” (Isaia 57:15)."
       },
       {
@@ -102702,6 +102716,8 @@
        "strong": "H2450",
        "pos": "adjectiv, masculin singular",
        "def_ro": "înțelept.",
+       "greek": "σοφός (sophos)",
+       "greek_def_ro": "σοφός (sophos) — înțelept.",
        "dict_ro": "Haham — „înțeleptul”, cel care are hohma, înțelepciunea practică de a trăi după voia lui Dumnezeu (Proverbe 1:5). Versetul încheie cartea lui Osea ca un epilog, în stilul cărții Proverbelor: aceleași căi ale DOMNULUI sunt drepte, dar drepții merg pe ele, iar păcătoșii se poticnesc. Talmudul explică printr-o pildă: doi oameni și-au fript mielul de Paște; unul l-a mâncat pentru porunca, altul doar ca să se sature; fapta e aceeași, dar despre primul se spune „drepții vor merge pe ele”, iar despre al doilea „păcătoșii se vor poticni” (Nazir 23a; Horaiot 10b)."
       },
       {
@@ -102765,8 +102781,9 @@
        "heb": "וְנוֹרָא",
        "translit": "venora",
        "strong": "H3372",
-       "pos": "conjuncție + verb, participiu nifal, masculin singular",
+       "pos": "verb, nifal participiu",
        "def_ro": "înfricoșător, de temut.",
+       "diff_ro": "Septuaginta are aici „ἐπιφανὴς\" („vestită, strălucită\"), nu „înfricoșătoare\" (venora, de la iare, „a se teme\") ca în ebraică — un sens diferit, de măreție vizibilă, nu de teamă.",
        "dict_ro": "Iare — „a se teme”; participiul nora înseamnă „ce trezește teamă și cutremur sfânt”, ca în „Cât de înfricoșător este locul acesta!” (Geneza 28:17). „Ziua DOMNULUI” e la Ioel ziua judecății, aici arătată printr-o invazie de lăcuste pe care Dumnezeu o numește „oștirea Mea cea mare” (Ioel 2:25). Rashi și Radak: DOMNUL „Își face auzit glasul” prin profeți înainte să trimită oștirea, ca poporul să se întoarcă; Metzudat Țion explică „cine o poate îndura” (iehilenu) prin „a suporta, a cuprinde”."
       },
       {
@@ -102828,10 +102845,12 @@
        "t": "cu post",
        "w": "cu post",
        "heb": "וּבְצוֹם",
-       "translit": "uvețom",
+       "translit": "uvțom",
        "strong": "H6685",
-       "pos": "conjuncție + prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "post, zi de post.",
+       "greek": "νηστεία (nesteia)",
+       "greek_def_ro": "νηστεία (nesteia) — post.",
        "dict_ro": "Țom — „postul”, abținerea de la mâncare și băutură, semn exterior de smerenie și pocăință, ca postul lui Ninive (Iona 3:5). Radak arată de ce profetul le cere pe amândouă: pocăința e în primul rând în ascuns, „cu toată inima voastră”, dar postul, plânsul și jelirea se văd, ca să-și smerească inimile unii altora; cine vede pe altul postind și plângând își frânge și el inima. Pentru că e citit între Roș Hașana și Iom Kipur, versetul se potrivește cu zilele de post și de pocăință din această perioadă."
       },
       {
@@ -102885,11 +102904,13 @@
       {
        "t": "Sfâșiați-vă inimile",
        "w": "Sfâșiați-vă inimile",
-       "heb": "וְקִרְעוּ לְבַבְכֶם",
-       "translit": "vekiru levavhem",
+       "heb": "וְקִרְעוּ",
+       "translit": "vekiru",
        "strong": "H7167",
-       "pos": "conjuncție + verb, imperativ qal, masculin plural + substantiv cu sufix",
+       "pos": "verb, qal imperativ",
        "def_ro": "sfâșiați-vă inimile.",
+       "greek": "διαρρήγνυμι (diarregnymi)",
+       "greek_def_ro": "διαρρήγνυμι (diarregnymi) — a sfâșia, a rupe.",
        "dict_ro": "Kara — „a rupe, a sfâșia”; ruperea hainelor (keria) e semnul doliului și al durerii, ca la Iacov când a crezut că Iosif a murit (Geneza 37:34). Profetul cere o rupere lăuntrică: Metzudat David — smerenie în inimă, nu doar fapta ruperii hainelor. Radak: dacă vă rupeți inima și scoateți din ea orice gând rău, nu va trebui să vă mai rupeți hainele de durere. Mișna spune că în zilele de post pentru ploaie bătrânul comunității citează acest verset și pe cel despre Ninive: „Dumnezeu a văzut faptele lor”, nu sacul și postul lor (Taanit 15a); iar o baraita învață de aici că ruperea hainei la doliu ajunge până în dreptul inimii (Moed Katan 26b)."
       },
       {
@@ -102958,11 +102979,13 @@
       {
        "t": "o binecuvântare",
        "w": "o binecuvântare",
-       "heb": "בְּרָכָה",
+       "heb": "בְּרָכָה",
        "translit": "beraha",
        "strong": "H1293",
        "pos": "substantiv, feminin singular",
        "def_ro": "binecuvântare; belșug.",
+       "greek": "εὐλογία (eulogia)",
+       "greek_def_ro": "εὐλογία (eulogia) — binecuvântare.",
        "dict_ro": "Beraha — „binecuvântarea”, și în sens concret „belșugul”, rodul pe care îl dă Dumnezeu. Lăcustele mâncaseră tot, încât încetaseră la Templu prinosul și libația (Ioel 1:9,13); acum, dacă poporul se întoarce, ele vor lăsa în urmă o binecuvântare, adică destule roade ca să se poată aduce din nou prinos și libație (Radak, Metzudat David). Cuvintele „Cine știe?” (mi iodea) sunt citite în două feluri: Rashi și Targumul — „cel care știe că a greșit se va întoarce”; alții — „cine știe dacă Dumnezeu nu Se va întoarce”, ca în Iona 3:9."
       },
       {
@@ -103024,6 +103047,8 @@
        "strong": "H7782",
        "pos": "substantiv, masculin singular",
        "def_ro": "corn de berbec, șofar.",
+       "greek": "σάλπιγξ (salpinx)",
+       "greek_def_ro": "σάλπιγξ (salpinx) — trâmbiță, corn.",
        "dict_ro": "Șofar — cornul de berbec în care se suna ca semnal de adunare, de război sau de sărbătoare; porunca de a suna din șofar e legată de Roș Hașana, „ziua sunetului de trâmbiță” (Numeri 29:1). Aici șofarul adună poporul pentru un post public. Metzudat David: suflați din corn ca să-i îndemnați la pocăință; „hotărâți un post” (kadeșu țom, literal „sfințiți un post”) înseamnă „pregătiți o zi de post”, iar „proclamați o adunare” înseamnă chemarea la Casa DOMNULUI. Citit în Sabatul dintre Roș Hașana și Iom Kipur, versetul amintește sunetul șofarului din aceste zile."
       },
       {
@@ -103074,12 +103099,14 @@
       {
        "t": "baldachinul",
        "w": "baldachinul",
-       "heb": "מֵחֻפָּתָהּ",
-       "translit": "mehupata",
+       "heb": "מֵחֻפָּתָהּ",
+       "translit": "mēhupatah",
        "strong": "H2646",
-       "pos": "prepoziție + substantiv, feminin singular, cu sufix persoana a III-a feminin singular",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "baldachin, chupa, camera de nuntă.",
-       "dict_ro": "Hupa — „baldachinul” de nuntă, sub care stă perechea la cununie în tradiția evreiască; în Scriptură, și camera mirilor (Psalmii 19:5; Metzudat Țion: de la „acoperit”). Chemarea e atât de urgentă încât nu scutește pe nimeni: nici pruncii de la sân, nici mirele din camera lui, nici mireasa de sub baldachin, deși mirii erau scutiți de alte îndatoriri (Deuteronom 24:5). Radak: pruncii flămânzi vor plânge, cei mari se vor smeri văzând plânsul lor, iar Dumnezeu Se va îndura de strigătul celor mici."
+       "greek": "παστός (pastos)",
+       "greek_def_ro": "παστός (pastos) — baldachin, cămară nupțială.",
+       "dict_ro": "Hupa — „baldachinul” de nuntă, sub care stă perechea la cununie în tradiția evreiască; în Scriptură, și camera mirilor (Psalmul 19:5; Metzudat Țion: de la „acoperit”). Chemarea e atât de urgentă încât nu scutește pe nimeni: nici pruncii de la sân, nici mirele din camera lui, nici mireasa de sub baldachin, deși mirii erau scutiți de alte îndatoriri (Deuteronomul 24:5). Radak: pruncii flămânzi vor plânge, cei mari se vor smeri văzând plânsul lor, iar Dumnezeu Se va îndura de strigătul celor mici."
       },
       {
        "t": " ei."
@@ -103142,9 +103169,10 @@
        "heb": "הָאוּלָם",
        "translit": "haulam",
        "strong": "H197",
-       "pos": "articol + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "vestibulul, pridvorul Templului.",
-       "dict_ro": "Ulam — „vestibulul” Templului, sala de la intrarea în Sfânta (1 Împărați 6:3). Între vestibul și altarul de ardere de tot era locul unde stăteau preoții la slujbă (Radak); de aceea tot acolo trebuiau să plângă când slujba încetase din lipsa prinosului și a libației. Rugăciunea „Ai milă, DOAMNE, de poporul Tău” se sprijină pe cinstea Numelui lui Dumnezeu: „de ce să se spună printre popoare: «Unde e Dumnezeul lor?»”, ca rugăciunea lui Moise după vițelul de aur (Exod 32:12). Radak: foametea îi silea pe mulți să plece în Egipt și în țara filistenilor, unde erau stăpâniți de străini."
+       "diff_ro": "Septuaginta are aici „τῆς κρηπῖδος τοῦ θυσιαστηρίου\" („temelia altarului\"), nu „sala/pridvorul Templului\" (ulam) ca în ebraică — un loc diferit, baza altarului, nu pridvorul dintre pridvor și altar.",
+       "dict_ro": "Ulam — „vestibulul” Templului, sala de la intrarea în Sfânta (1 Împărați 6:3). Între vestibul și altarul de ardere de tot era locul unde stăteau preoții la slujbă (Radak); de aceea tot acolo trebuiau să plângă când slujba încetase din lipsa prinosului și a libației. Rugăciunea „Ai milă, DOAMNE, de poporul Tău” se sprijină pe cinstea Numelui lui Dumnezeu: „de ce să se spună printre popoare: «Unde e Dumnezeul lor?»”, ca rugăciunea lui Moise după vițelul de aur (Exodul 32:12). Radak: foametea îi silea pe mulți să plece în Egipt și în țara filistenilor, unde erau stăpâniți de străini."
       },
       {
        "t": " și altar să plângă preoții, slujitorii DOMNULUI, și să spună: „Ai milă, DOAMNE, de poporul Tău, și nu face de rușine moștenirea Ta, ca neamurile să ne folosească drept pildă. De ce să se spună printre popoare: «Unde e Dumnezeul lor?»”"
@@ -103204,12 +103232,14 @@
       {
        "t": "va fi zelos",
        "w": "va fi zelos",
-       "heb": "וַיְקַנֵּא",
-       "translit": "vaikane",
+       "heb": "וַיְקַנֵּא",
+       "translit": "vaikanē",
        "strong": "H7065",
-       "pos": "verb, imperfect piel consecutiv, persoana a III-a masculin singular",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "a fost zelos, S-a aprins de râvnă.",
-       "dict_ro": "Kana — „a fi zelos, a râvni”, iubirea care nu suferă să vadă pe cel iubit batjocorit, ca în „DOMNUL Se numește Gelos” (Exod 34:14). Aici e punctul de întoarcere al cărții: după chemarea la pocăință, Dumnezeu „a fost zelos pentru țara Sa” (Radak: din pricina batjocurii neamurilor). Rashi: necazul lor I-a intrat în inimă și a purtat războiul lor. Talmudul citește verbul și ca „avertizare”: Dumnezeu a avertizat lăcustele să nu mai atingă țara Lui; de aici se explică termenul kinui din legea femeii bănuite de adulter (Sota 3a)."
+       "greek": "ζηλόω (zeloo)",
+       "greek_def_ro": "ζηλόω (zeloo) — a fi zelos, a-și apăra cu gelozie.",
+       "dict_ro": "Kana — „a fi zelos, a râvni”, iubirea care nu suferă să vadă pe cel iubit batjocorit, ca în „DOMNUL Se numește Gelos” (Exodul 34:14). Aici e punctul de întoarcere al cărții: după chemarea la pocăință, Dumnezeu „a fost zelos pentru țara Sa” (Radak: din pricina batjocurii neamurilor). Rashi: necazul lor I-a intrat în inimă și a purtat războiul lor. Talmudul citește verbul și ca „avertizare”: Dumnezeu a avertizat lăcustele să nu mai atingă țara Lui; de aici se explică termenul kinui din legea femeii bănuite de adulter (Sota 3a)."
       },
       {
        "t": " pentru țara Sa și va avea milă de poporul Său."
@@ -103273,12 +103303,14 @@
       {
        "t": "untdelemnul",
        "w": "untdelemnul",
-       "heb": "וְהַיִּצְהָר",
+       "heb": "וְהַיִּצְהָר",
        "translit": "vehaițhar",
        "strong": "H3323",
-       "pos": "conjuncție + articol + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "untdelemn proaspăt.",
-       "dict_ro": "Ițhar — „untdelemnul proaspăt”, de la țohar, „strălucire”, pentru lumina pe care o dă. Grânele, mustul și untdelemnul (dagan, tiroș, ițhar) sunt cele trei roade ale binecuvântării făgăduite în Tora: „ca să-ți strângi grâul, mustul și untdelemnul” (Deuteronom 11:14). Făgăduința răspunde punct cu punct pustiirii din Ioel 1:10, unde „grânele sunt nimicite, mustul a secat, untdelemnul s-a uscat”. Metzudat David: de acum binecuvântarea va fi în roadele câmpului și nu vor mai trebui să plece la neamuri din pricina foamei."
+       "greek": "ἔλαιον (elaion)",
+       "greek_def_ro": "ἔλαιον (elaion) — untdelemn.",
+       "dict_ro": "Ițhar — „untdelemnul proaspăt”, de la țohar, „strălucire”, pentru lumina pe care o dă. Grânele, mustul și untdelemnul (dagan, tiroș, ițhar) sunt cele trei roade ale binecuvântării făgăduite în Tora: „ca să-ți strângi grâul, mustul și untdelemnul” (Deuteronomul 11:14). Făgăduința răspunde punct cu punct pustiirii din Ioel 1:10, unde „grânele sunt nimicite, mustul a secat, untdelemnul s-a uscat”. Metzudat David: de acum binecuvântarea va fi în roadele câmpului și nu vor mai trebui să plece la neamuri din pricina foamei."
       },
       {
        "t": ", și vă veți sătura cu ele; nu vă voi mai face de rușine printre neamuri."
@@ -103334,11 +103366,13 @@
       {
        "t": "de la miazănoapte",
        "w": "de la miazănoapte",
-       "heb": "הַצְּפוֹנִי",
-       "translit": "hațefoni",
+       "heb": "הַצְּפוֹנִי",
+       "translit": "hațfoni",
        "strong": "H6830",
-       "pos": "articol + adjectiv, masculin singular",
+       "pos": "adjectiv, masculin singular",
        "def_ro": "cel de la miazănoapte, nordicul.",
+       "greek": "βορρᾶς (borras)",
+       "greek_def_ro": "βορρᾶς (borras) — de la miazănoapte.",
        "dict_ro": "Țefoni — „cel de la miazănoapte”, de la țafon, „nord”. Radak și Metzudat David: roiul de lăcuste venit dinspre nord, atât de mare încât se întindea de la Marea de Răsărit (Marea Moartă) până la Marea de Apus (Mediterana), va fi alungat în pustiu și va pieri acolo, iar duhoarea lui se va ridica. Talmudul citește țefoni și de la țafun, „ascuns”: e înclinația rea, ascunsă în inima omului, pe care Dumnezeu o va îndepărta în viitor (Sukka 52a); Rashi aduce explicația că cele două mări sunt cele două Temple, pe care înclinația rea le-a dărâmat."
       },
       {
@@ -103407,6 +103441,8 @@
        "strong": "H127",
        "pos": "substantiv, feminin singular",
        "def_ro": "pământ, țarină, sol.",
+       "greek": "γῆ (ge)",
+       "greek_def_ro": "γῆ (ge) — pământ, țărână.",
        "dict_ro": "Adama — „pământul, țarina”, solul lucrat, din care a fost luat omul (adam; Geneza 2:7). Profetul se adresează pământului ca unei ființe care suferise: „câmpul e pustiit, pământul jelește” (Ioel 1:10). Acum îi spune „Nu te teme!”, iar expresia „căci DOMNUL a făcut mare [bine]” răspunde exact versetului de dinainte, despre lăcuste: „căci a făcut mare [rău]” (Radak). Metzudat David: lăcustele nu se vor mai întoarce, iar de acum DOMNUL a început să facă bine mult."
       },
       {
@@ -103463,11 +103499,13 @@
       {
        "t": "smochin",
        "w": "smochin",
-       "heb": "תְּאֵנָה",
-       "translit": "teena",
+       "heb": "תְּאֵנָה",
+       "translit": "teēna",
        "strong": "H8384",
        "pos": "substantiv, feminin singular",
        "def_ro": "smochin; smochină.",
+       "greek": "συκῆ (syke)",
+       "greek_def_ro": "συκῆ (syke) — smochin.",
        "dict_ro": "Teena — „smochinul”, pomul care, împreună cu via, simbolizează pacea și belșugul: „fiecare sub via lui și sub smochinul lui” (1 Împărați 4:25; Mica 4:4). Ioel 1:7 descrisese via pustiită și smochinul jupuit de lăcuste; acum amândoi „și-au dat rodul”. Metzudat David: dacă și pomul face rod, care are nevoie de mai multă ploaie, cu atât mai mult va crește iarba. Talmudul învață din „orice copac își poartă fructul” că în viitor toți pomii neroditori din țara lui Israel vor face rod (Ketubot 112b)."
       },
       {
@@ -103531,9 +103569,11 @@
        "heb": "הַמּוֹרֶה",
        "translit": "hamore",
        "strong": "H4175",
-       "pos": "articol + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "ploaia timpurie; învățătorul.",
-       "dict_ro": "More — „ploaia timpurie”, care cade după semănat, în luna Marheșvan (Rashi, Metzudat Țion: „căci udă și satură pământul”), înrudit cu iore din Deuteronom 11:14; malkoș e „ploaia târzie” de primăvară, care umple spicele. Același cuvânt more înseamnă și „învățător” (de la iara, „a învăța”), de unde Targumul și Rashi citesc „v-a dat învățătorul spre dreptate”, adică pe profeți. Mișna învață de aici că se cere ploaie până la sfârșitul lui Nisan, „luna întâi” (Taanit 5a); Radak redă tradiția despre anul acela, în care prima ploaie a căzut abia la 1 Nisan, iar grâul semănat atunci a crescut miraculos în unsprezece zile, ca să se poată aduce omerul."
+       "greek": "ὑετός πρώϊμος (hyetos proimos)",
+       "greek_def_ro": "ὑετός πρώϊμος (hyetos proimos) — ploaie timpurie, de toamnă.",
+       "dict_ro": "More — „ploaia timpurie”, care cade după semănat, în luna Marheșvan (Rashi, Metzudat Țion: „căci udă și satură pământul”), înrudit cu iore din Deuteronomul 11:14; malkoș e „ploaia târzie” de primăvară, care umple spicele. Același cuvânt more înseamnă și „învățător” (de la iara, „a învăța”), de unde Targumul și Rashi citesc „v-a dat învățătorul spre dreptate”, adică pe profeți. Mișna învață de aici că se cere ploaie până la sfârșitul lui Nisan, „luna întâi” (Taanit 5a); Radak redă tradiția despre anul acela, în care prima ploaie a căzut abia la 1 Nisan, iar grâul semănat atunci a crescut miraculos în unsprezece zile, ca să se poată aduce omerul."
       },
       {
        "t": " cu dreptate, și face să cadă pentru voi ploaie timpurie și târzie, ca odinioară. Și El a făcut ca ploile timpurii și ploile târzii să coboare peste voi în prima [lună]."
@@ -103600,9 +103640,11 @@
        "heb": "הַיְקָבִים",
        "translit": "haikavim",
        "strong": "H3342",
-       "pos": "articol + substantiv, masculin plural",
+       "pos": "substantiv, masculin plural",
        "def_ro": "cuvele teascurilor.",
-       "dict_ro": "Iekev — „cuva teascului”, groapa săpată sub teasc în care curge mustul sau untdelemnul stors (Metzudat Țion). Verbul heșiku („se vor revărsa”) e explicat de Rashi ca zgomotul mustului care curge din teasc în cuvă, iar de Radak ca umplerea până la revărsare. Imaginea răspunde celei din Ioel 1:17, unde grânarele erau pustii, iar hambarele dărâmate; belșugul acesta e cel făgăduit în Tora celor care ascultă (Levitic 26:10; Proverbe 3:10)."
+       "greek": "ληνός (lenos)",
+       "greek_def_ro": "ληνός (lenos) — teasc, lin de vin.",
+       "dict_ro": "Iekev — „cuva teascului”, groapa săpată sub teasc în care curge mustul sau untdelemnul stors (Metzudat Țion). Verbul heșiku („se vor revărsa”) e explicat de Rashi ca zgomotul mustului care curge din teasc în cuvă, iar de Radak ca umplerea până la revărsare. Imaginea răspunde celei din Ioel 1:17, unde grânarele erau pustii, iar hambarele dărâmate; belșugul acesta e cel făgăduit în Tora celor care ascultă (Leviticul 26:10; Proverbe 3:10)."
       },
       {
        "t": " se vor revărsa de vin și untdelemn."
@@ -103661,12 +103703,14 @@
       {
        "t": "arbe",
        "w": "arbe",
-       "heb": "הָאַרְבֶּה",
+       "heb": "הָאַרְבֶּה",
        "translit": "haarbe",
        "strong": "H697",
-       "pos": "articol + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "lăcustă, roi de lăcuste.",
-       "dict_ro": "Arbe — numele obișnuit al lăcustei migratoare, de la rava, „a se înmulți”, pentru mulțimea roiurilor; e lăcusta celei de-a opta plăgi din Egipt (Exod 10:4). Ioel numește patru feluri sau faze ale lăcustei: gazam, arbe, ielek și hasil (Ioel 1:4). Radak observă că făgăduința vorbește de „anii” mâncați, la plural, pentru că lăcustele nu veniseră într-un singur an; minunea a fost că Dumnezeu a dat într-un singur an recolta a patru ani. Dumnezeu numește lăcustele „oștirea Mea cea mare”, arătând că și pedeapsa venise de la El."
+       "greek": "ἀκρίς (akris)",
+       "greek_def_ro": "ἀκρίς (akris) — lăcustă.",
+       "dict_ro": "Arbe — numele obișnuit al lăcustei migratoare, de la rava, „a se înmulți”, pentru mulțimea roiurilor; e lăcusta celei de-a opta plăgi din Egipt (Exodul 10:4). Ioel numește patru feluri sau faze ale lăcustei: gazam, arbe, ielek și hasil (Ioel 1:4). Radak observă că făgăduința vorbește de „anii” mâncați, la plural, pentru că lăcustele nu veniseră într-un singur an; minunea a fost că Dumnezeu a dat într-un singur an recolta a patru ani. Dumnezeu numește lăcustele „oștirea Mea cea mare”, arătând că și pedeapsa venise de la El."
       },
       {
        "t": ", ielek, hasil și gazam au mâncat, [când] am trimis oștirea Mea cea mare împotriva voastră."
@@ -103718,8 +103762,10 @@
        "heb": "לְהַפְלִיא",
        "translit": "lehafli",
        "strong": "H6381",
-       "pos": "prepoziție + verb, infinitiv hifil",
+       "pos": "verb, hifil infinitiv",
        "def_ro": "a face minunat, a face lucruri minunate.",
+       "greek": "θαυμάσιος (thaumasios)",
+       "greek_def_ro": "θαυμάσιος (thaumasios) — minuni, lucruri de mirare.",
        "dict_ro": "Pala — „a fi minunat, deosebit, peste puterea omului”, de unde pele, „minune”, ca în „Oare este ceva prea greu (ipale) pentru DOMNUL?” (Geneza 18:14). Radak explică minunea: într-un singur an le-a dat roadele a patru ani, iar după tradiția Înțelepților despre grâul crescut în unsprezece zile, minunea a fost și mai mare. Metzudat David: vor mânca până la săturare, nu ca în zilele de foamete, când mâncau doar cât să trăiască. Făgăduința „poporul Meu nu va mai fi niciodată făcut de rușine” e repetată în versetul următor; Radak: pentru că în anii foametei fuseseră batjocoriți printre neamuri."
       },
       {
@@ -103776,12 +103822,14 @@
       {
        "t": "în mijlocul lui Israel",
        "w": "în mijlocul lui Israel",
-       "heb": "בְקֶרֶב יִשְׂרָאֵל",
-       "translit": "vekerev Israel",
+       "heb": "בְקֶרֶב",
+       "translit": "vekerev",
        "strong": "H7130",
-       "pos": "prepoziție + substantiv, în construcție + nume propriu",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "în mijlocul lui Israel.",
-       "dict_ro": "Kerev — „mijlocul, lăuntrul”, locul cel mai apropiat; prezența lui Dumnezeu „în mijlocul” poporului e făgăduința Cortului: „Voi locui în mijlocul fiilor lui Israel” (Exod 29:45). Formula „Eu sunt DOMNUL, Dumnezeul vostru, și nu este altul” amintește de Isaia 45:5-6. Radak: veți recunoaște că Eu sunt în mijlocul vostru și vă aud strigătul, nu ca dumnezeii popoarelor pe care i-ați slujit, care nu folosesc la nimic. Metzudat David: nu este alt dumnezeu care să Mă poată opri să vă dau o binecuvântare atât de mare."
+       "greek": "μέσος (mesos)",
+       "greek_def_ro": "μέσος (mesos) — în mijlocul.",
+       "dict_ro": "Kerev — „mijlocul, lăuntrul”, locul cel mai apropiat; prezența lui Dumnezeu „în mijlocul” poporului e făgăduința Cortului: „Voi locui în mijlocul fiilor lui Israel” (Exodul 29:45). Formula „Eu sunt DOMNUL, Dumnezeul vostru, și nu este altul” amintește de Isaia 45:5-6. Radak: veți recunoaște că Eu sunt în mijlocul vostru și vă aud strigătul, nu ca dumnezeii popoarelor pe care i-ați slujit, care nu folosesc la nimic. Metzudat David: nu este alt dumnezeu care să Mă poată opri să vă dau o binecuvântare atât de mare."
       },
       {
        "t": " și că Eu sunt DOMNUL, Dumnezeul vostru, și că nu este niciun altul; și poporul Meu nu va mai fi niciodată făcut de rușine."
@@ -103833,12 +103881,14 @@
       {
        "t": "care ierți greșeala",
        "w": "care ierți greșeala",
-       "heb": "נֹשֵׂא עָוֺן",
-       "translit": "nose avon",
+       "heb": "נֹשֵׂא",
+       "translit": "nosē",
        "strong": "H5375",
-       "pos": "verb, participiu qal, masculin singular + substantiv",
+       "pos": "verb, qal participiu",
        "def_ro": "care ridici (porți, ierți) nelegiuirea.",
-       "dict_ro": "Nasa — „a ridica, a purta”; nasa avon, „a ridica păcatul”, înseamnă a-l lua de pe om, a-l ierta, ca în cele treisprezece însușiri ale milei: „care iartă (nose) fărădelegea, răzvrătirea și păcatul” (Exod 34:7). „Cine-i ca Tine?” (Mi El kamoha) face un joc de cuvinte cu numele profetului, Miha, „cine e ca Dumnezeu?”. Talmudul redă disputa dintre Beit Șamai și Beit Hillel despre oamenii de mijloc la judecată: Beit Hillel spun că Cel „bogat în îndurare” înclină balanța spre îndurare, iar rabi Iosi bar Hanina explică: El „ridică” talerul păcatelor (Roș Hașana 16b-17a). Rava învață: cine trece peste greșelile făcute împotriva lui, aceluia i se trec cu vederea toate greșelile (Meghila 28a)."
+       "greek": "ἐξαίρω (exairo)",
+       "greek_def_ro": "ἐξαίρω (exairo) — a ridica, a îndepărta (vina).",
+       "dict_ro": "Nasa — „a ridica, a purta”; nasa avon, „a ridica păcatul”, înseamnă a-l lua de pe om, a-l ierta, ca în cele treisprezece însușiri ale milei: „care iartă (nose) fărădelegea, răzvrătirea și păcatul” (Exodul 34:7). „Cine-i ca Tine?” (Mi El kamoha) face un joc de cuvinte cu numele profetului, Miha, „cine e ca Dumnezeu?”. Talmudul redă disputa dintre Beit Șamai și Beit Hillel despre oamenii de mijloc la judecată: Beit Hillel spun că Cel „bogat în îndurare” înclină balanța spre îndurare, iar rabi Iosi bar Hanina explică: El „ridică” talerul păcatelor (Roș Hașana 16b-17a). Rava învață: cine trece peste greșelile făcute împotriva lui, aceluia i se trec cu vederea toate greșelile (Meghila 28a)."
       },
       {
        "t": " și treci peste fărădelege pentru rămășița moștenirii Sale? El nu Și-a păstrat furia veșnic, căci dorește bunăvoință."
@@ -103902,12 +103952,14 @@
       {
        "t": "adâncurile mării",
        "w": "adâncurile mării",
-       "heb": "בִּמְצֻלוֹת יָם",
-       "translit": "bimțulot iam",
+       "heb": "בִּמְצֻלוֹת",
+       "translit": "bimțulot",
        "strong": "H4688",
-       "pos": "prepoziție + substantiv, feminin plural, în construcție + substantiv",
+       "pos": "substantiv, feminin plural construct",
        "def_ro": "adâncurile mării.",
-       "dict_ro": "Mețula — „adâncul” apelor, cuvântul din Cântarea Mării: „Pe urmăritorii lor i-ai aruncat în adâncuri” (Neemia 9:11; Exod 15:5). Cum egiptenii s-au scufundat și n-au mai ieșit, așa păcatele aruncate în adânc nu se mai văd (Metzudat David). Din acest verset vine obiceiul Tașlih: în prima zi de Roș Hașana, evreii merg la o apă curgătoare și rostesc versetele Mica 7:18-20, simbolic „aruncând” păcatele. Verbul ihboș („va șterge”, literal „va călca în picioare, va supune”) e citat în Talmud: Dumnezeu „apasă” talerul meritelor ca să încline balanța spre îndurare (Roș Hașana 17a)."
+       "greek": "βάθος θαλάσσης (bathos thalasses)",
+       "greek_def_ro": "βάθος θαλάσσης (bathos thalasses) — adâncurile mării.",
+       "dict_ro": "Mețula — „adâncul” apelor, cuvântul din Cântarea Mării: „Pe urmăritorii lor i-ai aruncat în adâncuri” (Neemia 9:11; Exodul 15:5). Cum egiptenii s-au scufundat și n-au mai ieșit, așa păcatele aruncate în adânc nu se mai văd (Metzudat David). Din acest verset vine obiceiul Tașlih: în prima zi de Roș Hașana, evreii merg la o apă curgătoare și rostesc versetele Mica 7:18-20, simbolic „aruncând” păcatele. Verbul ihboș („va șterge”, literal „va călca în picioare, va supune”) e citat în Talmud: Dumnezeu „apasă” talerul meritelor ca să încline balanța spre îndurare (Roș Hașana 17a)."
       },
       {
        "t": " toate păcatele lor."
@@ -103972,6 +104024,8 @@
        "strong": "H571",
        "pos": "substantiv, feminin singular",
        "def_ro": "adevăr, credincioșie, statornicie.",
+       "greek": "ἀλήθεια (aletheia)",
+       "greek_def_ro": "ἀλήθεια (aletheia) — adevăr.",
        "dict_ro": "Emet — „adevărul, credincioșia”, de la aman, „a fi statornic” (de unde și „amin”). Versetul pune fiecărui patriarh câte o însușire: adevăr lui Iacov, bunătate (hesed) lui Avraam, iar „precum ai jurat” trimite, după Rashi și Metzudat David, la jurământul de la legarea lui Isaac: „Pe Mine Însumi jur...” (Geneza 22:16). Radak: bunătatea a fost darul țării făcut lui Avraam, iar adevărul e împlinirea darului pentru fiii lui Iacov. Cu acest verset se încheie cartea lui Mica și haftara, iar el e rostit și în rugăciunea Tașlih."
       },
       {
