@@ -82500,12 +82500,14 @@
       {
        "t": "precum roua",
        "w": "precum roua",
-       "heb": "כְּטַל",
+       "heb": "כְּטַל",
        "translit": "ketal",
        "strong": "H2919",
-       "pos": "prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "ca roua.",
-       "dict_ro": "Tal — roua, esențială în Țara lui Israel în lunile fără ploaie; imagine a binecuvântării care vine direct de la Dumnezeu (Deuteronom 32:2; Osea 14). Rashi explică comparația: roua nu vine prin om și oamenii nu o cer — tot așa Israel nu își va pune nădejdea în ajutorul omului, ci în DOMNUL. Radak: rămășița e puțină, popoarele strânse împotriva ei multe, și nimeni nu o poate salva în afară de Dumnezeu, a cărui mântuire coboară asupra ei ca roua pe pământ. Legătura cu pericopa Balak: Bilaam privea Israelul „ca un popor care locuiește singur” (Numeri 23:9)."
+       "greek": "δρόσος (drosos)",
+       "greek_def_ro": "δρόσος (drosos) — rouă.",
+       "dict_ro": "Tal — roua, esențială în Țara lui Israel în lunile fără ploaie; imagine a binecuvântării care vine direct de la Dumnezeu (Deuteronomul 32:2; Osea 14). Rashi explică comparația: roua nu vine prin om și oamenii nu o cer — tot așa Israel nu își va pune nădejdea în ajutorul omului, ci în DOMNUL. Radak: rămășița e puțină, popoarele strânse împotriva ei multe, și nimeni nu o poate salva în afară de Dumnezeu, a cărui mântuire coboară asupra ei ca roua pe pământ. Legătura cu pericopa Balak: Bilaam privea Israelul „ca un popor care locuiește singur” (Numeri 23:9)."
       },
       {
        "t": " de la DOMNUL, precum picăturile de ploaie peste iarbă, care nu așteaptă pe nimeni și nu zăbovesc după fiii omului."
@@ -82565,11 +82567,13 @@
       {
        "t": "precum un leu",
        "w": "precum un leu",
-       "heb": "כְּאַרְיֵה",
-       "translit": "kearie",
+       "heb": "כְּאַרְיֵה",
+       "translit": "keariē",
        "strong": "H738",
-       "pos": "prepoziție + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular",
        "def_ro": "ca un leu.",
+       "greek": "λέων (leon)",
+       "greek_def_ro": "λέων (leon) — leu.",
        "dict_ro": "Arie — leul; aceeași rămășiță care în versetul anterior era blândă ca roua e acum puternică precum leul. Imaginea leului e chiar a lui Bilaam în pericopa Balak: „iată un popor care se ridică ca o leoaică și se înalță ca un leu” (Numeri 23:24; 24:9). Radak deosebește: leul (arie) stăpânește peste fiarele pădurii, iar leul tânăr (kefir) peste turmele de oi. Rashi explică verbele: „calcă” (ramas) e când leul flămând mănâncă prada pe loc, „sfâșie” (taraf) e când o duce în vizuină puilor."
       },
       {
@@ -82629,11 +82633,13 @@
       {
        "t": "va fi ridicată",
        "w": "va fi ridicată",
-       "heb": "תָּרֹם",
+       "heb": "תָּרֹם",
        "translit": "tarom",
        "strong": "H7311",
-       "pos": "verb, qal, imperfect (jusiv), persoana a III-a feminin singular",
+       "pos": "verb, qal imperfect",
        "def_ro": "să se înalțe, va fi ridicată.",
+       "greek": "ὑψόω (hypsoo)",
+       "greek_def_ro": "ὑψόω (hypsoo) — a fi înălțat, a fi ridicat.",
        "dict_ro": "Rum — „a fi înalt, a se înălța”; mâna ridicată e gestul biruinței, opusul mâinii care slăbește. Versetul sună ca o urare adresată lui Israel: „să se înalțe mâna ta peste vrăjmașii tăi”. Metzudat Țion îl leagă de romemut, „înălțare”, iar Radak spune scurt: „e limpede”. După această biruință, versetele următoare fac o întorsătură surprinzătoare: Dumnezeu nu va înmulți armele lui Israel, ci le va înlătura."
       },
       {
@@ -82689,9 +82695,11 @@
        "heb": "סוּסֶיךָ",
        "translit": "suseha",
        "strong": "H5483",
-       "pos": "substantiv, masculin plural + sufix persoana a II-a masculin singular",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "caii tăi.",
-       "dict_ro": "Sus — calul, în Biblie aproape mereu animal de război, nu de muncă; regele lui Israel nu avea voie „să-și înmulțească caii” (Deuteronom 17:16), iar psalmistul spune: „unii se laudă cu carele, alții cu caii, dar noi ne lăudăm cu numele DOMNULUI”. Rashi citește concret: e vorba de ajutorul Egiptului, pe care Israel se bizuia pentru cai. Radak: nu vei mai avea nevoie de cai și de care, căci după războiul lui Gog și Magog va fi pace pe veci; Zaharia 9:10 descrie aceeași dezarmare mesianică."
+       "greek": "ἵππος (hippos)",
+       "greek_def_ro": "ἵππος (hippos) — cai.",
+       "dict_ro": "Sus — calul, în Biblie aproape mereu animal de război, nu de muncă; regele lui Israel nu avea voie „să-și înmulțească caii” (Deuteronomul 17:16), iar psalmistul spune: „unii se laudă cu carele, alții cu caii, dar noi ne lăudăm cu numele DOMNULUI”. Rashi citește concret: e vorba de ajutorul Egiptului, pe care Israel se bizuia pentru cai. Radak: nu vei mai avea nevoie de cai și de care, căci după războiul lui Gog și Magog va fi pace pe veci; Zaharia 9:10 descrie aceeași dezarmare mesianică."
       },
       {
        "t": " din mijlocul tău și voi face să ți se piardă carele,"
@@ -82748,8 +82756,10 @@
        "heb": "מִבְצָרֶיךָ",
        "translit": "mivțareha",
        "strong": "H4013",
-       "pos": "substantiv, masculin plural + sufix persoana a II-a masculin singular",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "cetățile tale întărite.",
+       "greek": "ὀχύρωμα (ochyroma)",
+       "greek_def_ro": "ὀχύρωμα (ochyroma) — fortăreață, cetățuie.",
        "dict_ro": "Mivțar — cetatea întărită, de la bațar, „a fi inaccesibil”. Metzudat David explică diferența: o cetate cu ziduri se numește „ir”, iar una fără ziduri — „ir perazi”, sat deschis; în viitor nu vor mai fi nevoie de ziduri, căci războiul nu va mai veni. Radak leagă imaginea de Zaharia 2:4 („Ierusalimul va fi locuit ca un oraș fără ziduri”) și adaugă o observație a înțelepților: traiul în așezările deschise e mai sănătos decât în marile cetăți înghesuite, pentru că aerul e mai larg."
       },
       {
@@ -82807,12 +82817,14 @@
       {
        "t": "vrăjitoria",
        "w": "vrăjitoria",
-       "heb": "כְשָׁפִים",
-       "translit": "hesafim",
+       "heb": "כְשָׁפִים",
+       "translit": "heșafim",
        "strong": "H3785",
        "pos": "substantiv, masculin plural",
        "def_ro": "vrăjitorii, farmece.",
-       "dict_ro": "Keșafim — vrăjitoriile, iar meonenim — „ghicitorii”, două practici interzise de Tora (Deuteronom 18:10-11). Radak aduce definițiile înțelepților: me'onen este cel care „ia ochii” (iluzionistul), sau, după Rabi Akiva, cel care calculează zile și ceasuri norocoase: „azi e bine de plecat, mâine e bine de cumpărat”. Metzudat David: când vei vedea grija Mea față de tine, nu te vei mai ocupa cu vrăjitorii ca să afli viitorul. Legătura cu pericopa: Bilaam însuși căuta „descântece” (Numeri 24:1), dar a trebuit să recunoască: „nu este descântec în Iacov” (Numeri 23:23)."
+       "greek": "φάρμακον (pharmakon)",
+       "greek_def_ro": "φάρμακον (pharmakon) — vrăji, descântece (literal: licori, poțiuni).",
+       "dict_ro": "Keșafim — vrăjitoriile, iar meonenim — „ghicitorii”, două practici interzise de Tora (Deuteronomul 18:10-11). Radak aduce definițiile înțelepților: me'onen este cel care „ia ochii” (iluzionistul), sau, după Rabi Akiva, cel care calculează zile și ceasuri norocoase: „azi e bine de plecat, mâine e bine de cumpărat”. Metzudat David: când vei vedea grija Mea față de tine, nu te vei mai ocupa cu vrăjitorii ca să afli viitorul. Legătura cu pericopa: Bilaam însuși căuta „descântece” (Numeri 24:1), dar a trebuit să recunoască: „nu este descântec în Iacov” (Numeri 23:23)."
       },
       {
        "t": " din mâna ta și nu vei mai avea ghicitori;"
@@ -82865,12 +82877,14 @@
       {
        "t": "stâlpii tăi sacri",
        "w": "stâlpii tăi sacri",
-       "heb": "מַצֵּבוֹתֶיךָ",
-       "translit": "mațevoteha",
+       "heb": "וּמַצֵּבוֹתֶיךָ",
+       "translit": "umațēvoteha",
        "strong": "H4676",
-       "pos": "substantiv, feminin plural + sufix persoana a II-a masculin singular",
+       "pos": "substantiv, feminin plural construct + sufix",
        "def_ro": "stâlpii de piatră ridicați pentru cult.",
-       "dict_ro": "Mațeva — stâlpul de piatră ridicat în picioare, de la națav, „a sta drept”. La început, un monument legitim (piatra lui Iacov la Betel, Geneza 28:18), a devenit un simbol al cultului canaanit și a fost interzis (Deuteronom 16:22). „Lucrarea mâinilor tale” rezumă critica profetică a idolilor: omul se închină la ce a făcut el însuși (Isaia 2:8). Metzudat David: atunci vei recunoaște că nu există dumnezeu afară de Mine."
+       "greek": "στήλη (stele)",
+       "greek_def_ro": "στήλη (stele) — stâlp, stelă memorială (de cult idolatru).",
+       "dict_ro": "Mațeva — stâlpul de piatră ridicat în picioare, de la națav, „a sta drept”. La început, un monument legitim (piatra lui Iacov la Betel, Geneza 28:18), a devenit un simbol al cultului canaanit și a fost interzis (Deuteronomul 16:22). „Lucrarea mâinilor tale” rezumă critica profetică a idolilor: omul se închină la ce a făcut el însuși (Isaia 2:8). Metzudat David: atunci vei recunoaște că nu există dumnezeu afară de Mine."
       },
       {
        "t": " din mijlocul tău și nu te vei mai prosterna la lucrarea mâinilor tale;"
@@ -82920,11 +82934,12 @@
       {
        "t": "copacii sacri",
        "w": "copacii sacri",
-       "heb": "אֲשֵׁירֶיךָ",
-       "translit": "așereha",
+       "heb": "אֲשֵׁירֶיךָ",
+       "translit": "așēreha",
        "strong": "H842",
-       "pos": "substantiv, masculin plural + sufix persoana a II-a masculin singular",
+       "pos": "nume propriu + sufix",
        "def_ro": "așerele, stâlpii sau copacii sacri ai zeiței Așera.",
+       "diff_ro": "Septuaginta are aici „τὰ ἄλση\" („crângurile/dumbrăvile sacre\"), nu stâlpii Așerei (așēreha) ca în ebraică — aceeași redare generică a cultului idolatru feminin canaanit, întâlnită și la 1 Samuel 12:10.",
        "dict_ro": "Așera — stâlpul de lemn sau copacul sacru asociat zeiței canaanite cu același nume; Metzudat Țion îl definește „un copac căruia i se aduce închinare”. Verbul „a dezrădăcina” (nataș) se potrivește tocmai pentru că e vorba de copaci, ca în chemarea lui Ieremia: „să smulgi și să dărâmi” (Ieremia 1:10). Rashi și Radak, după Targumul lui Ionatan, citesc „ireha” nu ca „cetățile tale”, ci ca „vrăjmașii tăi” (ca în 1 Samuel 28:16)."
       },
       {
@@ -82983,7 +82998,9 @@
        "strong": "H5359",
        "pos": "substantiv, masculin singular",
        "def_ro": "răzbunare, pedeapsă dreaptă.",
-       "dict_ro": "Nakam — răzbunarea, în Biblie mai ales pedeapsa dreaptă pe care o dă Dumnezeu, Cel care își rezervă acest drept („a Mea este răzbunarea”, Deuteronom 32:35). Ținta sunt „neamurile care nu ascultă”; Targumul, citat de Radak, precizează: „care n-au primit învățătura Torei”. Metzudat David: o răzbunare cum neamurile n-au auzit niciodată. Apocalipsa (19:15) și 2 Tesaloniceni 1:8 reiau imaginea judecății asupra celor care nu ascultă de Dumnezeu."
+       "greek": "ἐκδίκησις (ekdikesis)",
+       "greek_def_ro": "ἐκδίκησις (ekdikesis) — răzbunare.",
+       "dict_ro": "Nakam — răzbunarea, în Biblie mai ales pedeapsa dreaptă pe care o dă Dumnezeu, Cel care își rezervă acest drept („a Mea este răzbunarea”, Deuteronomul 32:35). Ținta sunt „neamurile care nu ascultă”; Targumul, citat de Radak, precizează: „care n-au primit învățătura Torei”. Metzudat David: o răzbunare cum neamurile n-au auzit niciodată. Apocalipsa (19:15) și 2 Tesaloniceni 1:8 reiau imaginea judecății asupra celor care nu ascultă de Dumnezeu."
       },
       {
        "t": " pe neamurile care nu ascultă."
@@ -83034,9 +83051,11 @@
        "heb": "רִיב",
        "translit": "riv",
        "strong": "H7378",
-       "pos": "verb, qal, imperativ, masculin singular",
+       "pos": "verb, qal imperativ",
        "def_ro": "adu judecata, susține procesul.",
-       "dict_ro": "Riv — „proces, pricină juridică”; capitolul 6 al lui Mica e modelul clasic al „procesului legământului”: Dumnezeu își cheamă poporul la judecată, iar munții și temeliile pământului sunt martorii, ca în Deuteronom 32:1 și Isaia 1:2. Rashi, după Targum, citește munții și dealurile ca pe patriarhi și matriarhe, care ascultă ce au făcut urmașii lor; Radak păstrează și sensul literal: munții sunt martori pentru că au fost acolo de la început. Metzudat David: ridică-ți glasul ca să dezbați în mare publicitate."
+       "greek": "κρίνομαι (krinomai)",
+       "greek_def_ro": "κρίνομαι (krinomai) — a se judeca, a-ți apăra pricina.",
+       "dict_ro": "Riv — „proces, pricină juridică”; capitolul 6 al lui Mica e modelul clasic al „procesului legământului”: Dumnezeu își cheamă poporul la judecată, iar munții și temeliile pământului sunt martorii, ca în Deuteronomul 32:1 și Isaia 1:2. Rashi, după Targum, citește munții și dealurile ca pe patriarhi și matriarhe, care ascultă ce au făcut urmașii lor; Radak păstrează și sensul literal: munții sunt martori pentru că au fost acolo de la început. Metzudat David: ridică-ți glasul ca să dezbați în mare publicitate."
       },
       {
        "t": " înaintea munților și fie ca dealurile să-ți asculte glasul!"
@@ -83096,11 +83115,13 @@
       {
        "t": "temelii ale pământului",
        "w": "temelii ale pământului",
-       "heb": "מֹסְדֵי אָרֶץ",
-       "translit": "mosdei areț",
+       "heb": "מֹסְדֵי",
+       "translit": "mosdē",
        "strong": "H4146",
-       "pos": "substantiv, masculin plural, în construcție + substantiv",
+       "pos": "substantiv, masculin și feminin plural construct",
        "def_ro": "temeliile pământului.",
+       "greek": "θεμέλιον (themelion)",
+       "greek_def_ro": "θεμέλιον (themelion) — temelii.",
        "dict_ro": "Mosedot areț — „temeliile pământului”, iar etanim — „cei tari, statornici” (Metzudat Țion: ca în „statornică (etan) e locuința ta”, Numeri 24:21, din profeția lui Bilaam). Martorii chemați sunt cele mai vechi și mai stabile părți ale creației, care au văzut toată istoria lui Israel. Procesul e unul între Dumnezeu și poporul Lui: nu o condamnare, ci o dezbatere (yitvakah, „se va lămuri”), în care Dumnezeu Își apără cauza."
       },
       {
@@ -83158,10 +83179,12 @@
        "t": "te-am împovărat",
        "w": "te-am împovărat",
        "heb": "הֶלְאֵתִיךָ",
-       "translit": "heletiha",
+       "translit": "helētiha",
        "strong": "H3811",
-       "pos": "verb, hifil, perfect, persoana I singular + sufix persoana a II-a masculin singular",
+       "pos": "verb, hifil perfect + sufix",
        "def_ro": "te-am obosit, te-am împovărat.",
+       "greek": "παρενοχλέω (parenochleo)",
+       "greek_def_ro": "παρενοχλέω (parenochleo) — a sâcâi, a împovăra, a necăji.",
        "dict_ro": "Laa — „a se obosi”; la forma cauzativă, „a obosi pe cineva, a împovăra”. Întrebarea „popor al Meu, ce ți-am făcut? Cu ce te-am împovărat?” e una dintre cele mai tulburătoare din profeți: acuzatul devine, retoric, Dumnezeu Însuși, care cere să I se aducă mărturie contra Lui („răspunde-Mi”, ane vi — Metzudat Țion: „mărturisește împotriva Mea”). Rashi: nu te-am împovărat cu multă slujire și cu jertfe mari. Liturghia creștină a Vinerii Mari a preluat versetul în „Improperii”: „Popor al Meu, ce ți-am făcut?”."
       },
       {
@@ -83220,11 +83243,13 @@
        "t": "Miriam",
        "w": "Miriam",
        "heb": "וּמִרְיָם",
-       "translit": "uMiriam",
+       "translit": "umiriam",
        "strong": "H4813",
-       "pos": "conjuncție + nume propriu",
+       "pos": "nume propriu",
        "def_ro": "Miriam, sora lui Moise și a lui Aaron.",
-       "dict_ro": "Miriam — sora lui Moise și a lui Aaron, profetesă (Exod 15:20), care a condus cântarea femeilor după trecerea Mării. Mica e singurul profet care o pune alături de frații ei ca trimisă a lui Dumnezeu. Targumul lui Ionatan, citat de Rashi, precizează rolul fiecăruia: Moise ca să învețe tradiția legilor, Aaron ca să facă ispășire pentru popor, Miriam ca să le învețe pe femei. Radak: cei trei au fost „vestitorii” care au adus vestea răscumpărării încă dinainte de ieșire."
+       "greek": "Μαριάμ (Mariam)",
+       "greek_def_ro": "Μαριάμ (Mariam) — Miriam.",
+       "dict_ro": "Miriam — sora lui Moise și a lui Aaron, profetesă (Exodul 15:20), care a condus cântarea femeilor după trecerea Mării. Mica e singurul profet care o pune alături de frații ei ca trimisă a lui Dumnezeu. Targumul lui Ionatan, citat de Rashi, precizează rolul fiecăruia: Moise ca să învețe tradiția legilor, Aaron ca să facă ispășire pentru popor, Miriam ca să le învețe pe femei. Radak: cei trei au fost „vestitorii” care au adus vestea răscumpărării încă dinainte de ieșire."
       },
       {
        "t": "."
@@ -83280,11 +83305,13 @@
       {
        "t": "Bilam",
        "w": "Bilam",
-       "heb": "בִּלְעָם",
-       "translit": "Bilam",
+       "heb": "בִּלְעָם",
+       "translit": "bilam",
        "strong": "H1109",
        "pos": "nume propriu",
        "def_ro": "Bilaam, fiul lui Beor, prorocul chemat să blesteme Israelul.",
+       "greek": "Βαλαάμ (Balaam)",
+       "greek_def_ro": "Βαλαάμ (Balaam) — Balaam (transliterarea grecească).",
        "dict_ro": "Bilam — prorocul din Petor, chemat de Balak să blesteme Israelul și silit să-l binecuvânteze: pericopa Balak (Numeri 22-24), de unde legătura cu haftara. Răspunsul lui Bilaam, după Metzudat David și Rashi, e „cum să blestem, dacă Dumnezeu nu blestemă?” (Numeri 23:8). Talmudul (Berahot 7a) explică „faptele drepte ale DOMNULUI”: Bilaam știa clipa în care Dumnezeu se mânie, iar Dumnezeu nu S-a mâniat deloc în toate acele zile. „De la Șitim până la Ghilgal” — de la păcatul cu Baal-Peor (Numeri 25:1) până la trecerea Iordanului (Iosua 4:19): Dumnezeu nu Și-a retras bunătatea."
       },
       {
@@ -83354,7 +83381,9 @@
        "strong": "H4791",
        "pos": "substantiv, masculin singular",
        "def_ro": "înălțime; Cel din înălțime, Preaînaltul.",
-       "dict_ro": "Marom — „înălțimea, locul înalt”; „Dumnezeul înălțimii” subliniază distanța dintre Dumnezeu și omul care vrea să se apropie de El. Metzudat David citește versetele 6-7 ca răspunsul poporului, rostit de profet: „într-adevăr, ne-ai făcut mult bine; cu ce să venim înaintea Ta?”. Vițeii „de un an” sunt jertfa cea mai aleasă (Levitic 9:3). Întrebarea e retorică: cum explică Metzudat David, oare are Dumnezeu nevoie de daruri, sau ce folos are din ele?"
+       "greek": "ὕψιστος (hypsistos)",
+       "greek_def_ro": "ὕψιστος (hypsistos) — Cel Preaînalt.",
+       "dict_ro": "Marom — „înălțimea, locul înalt”; „Dumnezeul înălțimii” subliniază distanța dintre Dumnezeu și omul care vrea să se apropie de El. Metzudat David citește versetele 6-7 ca răspunsul poporului, rostit de profet: „într-adevăr, ne-ai făcut mult bine; cu ce să venim înaintea Ta?”. Vițeii „de un an” sunt jertfa cea mai aleasă (Leviticul 9:3). Întrebarea e retorică: cum explică Metzudat David, oare are Dumnezeu nevoie de daruri, sau ce folos are din ele?"
       },
       {
        "t": "? Să-L întâmpin oare cu arderi-de-tot, cu viței în primul an de viață?"
@@ -83414,12 +83443,14 @@
       {
        "t": "întâiul meu născut",
        "w": "întâiul meu născut",
-       "heb": "בְּכוֹרִי",
+       "heb": "בְּכוֹרִי",
        "translit": "behori",
        "strong": "H1060",
-       "pos": "substantiv, masculin singular + sufix persoana I",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "întâiul meu născut.",
-       "dict_ro": "Behor — întâiul născut, care îi aparține lui Dumnezeu și trebuie răscumpărat (Exod 13:2, 13). Oferta „să-mi dau întâiul născut” urcă întrebările până la absurd și la oroare: de la viței la mii de berbeci și râuri de untdelemn, apoi la jertfa unui copil, practicată de regele Moabului (2 Împărați 3:27) și condamnată de profeți (Ieremia 7:31). Radak: mai întâi animalele alese, apoi mulțimea de daruri, apoi „cel mai iubit dintre fiii mei” — iar răspunsul e în versetul următor: Dumnezeu nu vrea nimic din toate acestea."
+       "greek": "πρωτότοκος (prototokos)",
+       "greek_def_ro": "πρωτότοκος (prototokos) — întâiul născut.",
+       "dict_ro": "Behor — întâiul născut, care îi aparține lui Dumnezeu și trebuie răscumpărat (Exodul 13:2, 13). Oferta „să-mi dau întâiul născut” urcă întrebările până la absurd și la oroare: de la viței la mii de berbeci și râuri de untdelemn, apoi la jertfa unui copil, practicată de regele Moabului (2 Împărați 3:27) și condamnată de profeți (Ieremia 7:31). Radak: mai întâi animalele alese, apoi mulțimea de daruri, apoi „cel mai iubit dintre fiii mei” — iar răspunsul e în versetul următor: Dumnezeu nu vrea nimic din toate acestea."
       },
       {
        "t": " pentru greșeala mea, rodul pântecului meu pentru păcatului sufletului meu?"
@@ -83479,11 +83510,12 @@
       {
        "t": "să umbli smerit",
        "w": "să umbli smerit",
-       "heb": "וְהַצְנֵעַ לֶכֶת",
-       "translit": "vehațnea lehet",
+       "heb": "וְהַצְנֵעַ",
+       "translit": "vehațnēa",
        "strong": "H6800",
-       "pos": "conjuncție + verb, hifil, infinitiv + verb, qal, infinitiv",
+       "pos": "verb, hifil infinitiv absolut",
        "def_ro": "a umbla cu smerenie, în ascuns, cu discreție.",
+       "diff_ro": "Septuaginta are aici „ἕτοιμον εἶναι\" („a fi pregătit/dispus\"), nu „a umbla smerit\" (hatsnea, de la țanua, „modest, discret\") ca în ebraică — o nuanță diferită, de disponibilitate, nu de smerenie discretă.",
        "dict_ro": "Țana — „a fi smerit, modest, discret”; cuvânt rar, înrudit cu țniut, modestia. Talmudul (Makot 24a) spune că Mica a adunat cele 613 porunci în trei: să faci dreptate, să iubești bunătatea, să umbli smerit cu Dumnezeul tău. În Suka 49b, Rabi Elazar explică: dreptatea e judecata, bunătatea — faptele de binefacere, iar „a umbla smerit” — a duce morții săraci la îngropare și a însoți mireasa săracă la nuntă, fără fast; cu atât mai mult trebuie făcute în ascuns milostenia și studiul. Rashi adaugă: Dumnezeu nu cere ca întoarcerea omului să fie în public, ci între el și El."
       },
       {
