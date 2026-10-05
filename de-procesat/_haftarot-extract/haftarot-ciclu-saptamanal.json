@@ -50884,11 +50884,13 @@
       {
        "t": "pecetluit un legământ",
        "w": "pecetluit un legământ",
-       "heb": "כְּרֹת... בְּרִית",
-       "translit": "kerot... berit",
+       "heb": "כְּרֹת בְּרִית",
+       "translit": "kerot berit",
        "strong": "H1285",
-       "pos": "substantiv, feminin",
+       "pos": "verb, qal infinitiv + substantiv, feminin singular",
        "def_ro": "a încheiat un legământ.",
+       "greek": "συντελέω διαθήκην (synteleo diatheken)",
+       "greek_def_ro": "συντελέω διαθήκην (synteleo diatheken) — a încheia/pecetlui un legământ.",
        "dict_ro": "Berit, „legământ” — verbul asociat, karat („a tăia”), amintește de ritualul antic al tăierii unui animal în două, prin ale cărui jumătăți treceau părțile legământului (v.18) — un legământ care avea să fie, literal, rupt de participanți la fel cum fusese „tăiat” animalul jertfit."
       },
       {
@@ -50897,12 +50899,14 @@
       {
        "t": "libertate",
        "w": "libertate",
-       "heb": "דְּרוֹר",
+       "heb": "דְּרוֹר",
        "translit": "deror",
        "strong": "H1865",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "libertate, eliberare.",
-       "dict_ro": "Deror — același cuvânt din Levitic 25:10 pentru anul jubiliar („veți vesti libertatea în toată țara”), evocând direct legea eliberării sclavilor evrei; Rashi datează acest legământ în anul al șaptelea al domniei lui Țedechia, legându-l de o întrebare pusă lui Ezechiel (Ezechiel 20:1) despre statutul ritual al sclavilor eliberați."
+       "greek": "ἄφεσις (aphesis)",
+       "greek_def_ro": "ἄφεσις (aphesis) — eliberare, libertate.",
+       "dict_ro": "Deror — același cuvânt din Leviticul 25:10 pentru anul jubiliar („veți vesti libertatea în toată țara”), evocând direct legea eliberării sclavilor evrei; Rashi datează acest legământ în anul al șaptelea al domniei lui Țedechia, legându-l de o întrebare pusă lui Ezechiel (Ezechiel 20:1) despre statutul ritual al sclavilor eliberați."
       },
       {
        "t": " pentru ei:"
@@ -50949,11 +50953,13 @@
       {
        "t": "elibereze",
        "w": "elibereze",
-       "heb": "לְשַׁלַּח",
-       "translit": "le-shallach",
+       "heb": "לְשַׁלַּח",
+       "translit": "leșalah",
        "strong": "H7971",
        "pos": "verb, piel infinitiv",
        "def_ro": "să trimită liber, să elibereze.",
+       "greek": "ἐξαποστέλλω (exapostello)",
+       "greek_def_ro": "ἐξαποστέλλω (exapostello) — a elibera, a trimite afară liber.",
        "dict_ro": "Rădăcina shalach, „a trimite” — la forma intensivă, „a elibera”, aceeași rădăcină ca „Șalah et-ami”, cererea repetată către Faraon la Exod 5-11 — ecoul verbal leagă eliberarea sclavilor evrei de propria istorie a lui Israel ca sclavi eliberați din Egipt."
       },
       {
@@ -50962,12 +50968,14 @@
       {
        "t": "înrobească",
        "w": "înrobească",
-       "heb": "עֲבָד־בָּם",
-       "translit": "avod-bam",
+       "heb": "עֲבָד",
+       "translit": "avad",
        "strong": "H5647",
-       "pos": "verb, qal infinitiv construct",
+       "pos": "verb, qal infinitiv",
        "def_ro": "să-l facă să muncească [ca sclav].",
-       "dict_ro": "Rădăcina avad, „a lucra, a sluji” — aceeași rădăcină ca „avadim”, sclavi, folosită constant pentru robia din Egipt; porunca vizează explicit fratele „evreu”, nu sclavii străini, aplicând legea specifică a Torei (Exod 21:2) pentru compatrioți."
+       "greek": "δουλεύω (douleuo)",
+       "greek_def_ro": "δουλεύω (douleuo) — a sluji ca sclav, a robi.",
+       "dict_ro": "Rădăcina avad, „a lucra, a sluji” — aceeași rădăcină ca „avadim”, sclavi, folosită constant pentru robia din Egipt; porunca vizează explicit fratele „evreu”, nu sclavii străini, aplicând legea specifică a Torei (Exodul 21:2) pentru compatrioți."
       },
       {
        "t": " pe fratele său evreu."
@@ -51019,11 +51027,14 @@
       {
        "t": "conducătorii",
        "w": "conducătorii",
-       "heb": "הַשָּׂרִים",
-       "translit": "ha-sarim",
+       "heb": "הַשָּׂרִים",
+       "translit": "hasarim",
        "strong": "H8269",
        "pos": "substantiv, masculin plural",
        "def_ro": "conducătorii, dregătorii.",
+       "greek": "μεγιστάν (megistan)",
+       "greek_def_ro": "μεγιστάν (megistan) — cei mari, magnați, conducători.",
+       "diff_ro": "Finalul versetului grecesc are o divergență izbitoare: „καὶ ἐῶσαν αὐτοὺς εἰς παῖδας καὶ παιδίσκας\" („și i-au lăsat SĂ FIE sclavi și slujnice\") — sensul opus celui din ebraică, unde conducătorii îi lasă LIBERI; probabil o eroare veche de transmitere în textul grecesc.",
        "dict_ro": "Sar, „conducător” — accentuează caracterul public, oficial al legământului: nu doar oamenii de rând, ci întreaga clasă conducătoare a Ierusalimului s-a angajat solemn în acest act de eliberare, ceea ce face încălcarea ulterioară (v.11) cu atât mai gravă."
       },
       {
@@ -51076,11 +51087,12 @@
       {
        "t": "răzgândit",
        "w": "răzgândit",
-       "heb": "וַיָּשׁוּבוּ",
-       "translit": "va-yashuvu",
+       "heb": "וַיָּשׁוּבוּ",
+       "translit": "vaiașuvu",
        "strong": "H7725",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "s-au întors, s-au răzgândit.",
+       "diff_ro": "Conținutul grecesc al acestui verset e inclus, comprimat, în structura versetului 34:10 grecesc (vezi nota de acolo) — nu are un corespondent separat, de sine stătător, în Septuaginta disponibilă.",
        "dict_ro": "Rădăcina shuv, „a se întoarce” — verb central al cărții lui Ieremia, folosit de obicei pentru „întoarcerea” pozitivă la pocăință; aici, tragic răsturnat, desemnează întoarcerea de la o faptă bună înapoi la păcat — o „pocăință” inversă."
       },
       {
@@ -51089,11 +51101,12 @@
       {
        "t": "asuprit iarăși",
        "w": "asuprit iarăși",
-       "heb": "וַיִּכְבְּשׁוּם",
-       "translit": "va-yikhbeshum",
+       "heb": "וַיִּכְבְּשׁוּם",
+       "translit": "vaihbeșum",
        "strong": "H3533",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect consecutiv + sufix",
        "def_ro": "i-au subjugat.",
+       "diff_ro": "Ca și „răzgândit\", acest fragment nu are corespondent separat — e inclus în structura comprimată a versetului 34:10 grecesc.",
        "dict_ro": "Rădăcina kavash, „a subjuga, a forța” — verb dur, care descrie un act de forță explicită, nu doar o simplă revenire administrativă la o stare anterioară — sclavii eliberați au fost activ recapturați și constrânși din nou."
       },
       {
@@ -51151,10 +51164,12 @@
        "t": "spunând",
        "w": "spunând",
        "heb": "לֵאמֹר",
-       "translit": "lemor",
+       "translit": "lēmor",
        "strong": "H559",
        "pos": "verb, qal infinitiv",
        "def_ro": "zicând.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice.",
        "dict_ro": "Formula standard care marchează începutul unui nou oracol — repetiția „de la DOMNUL... de la DOMNUL” în același verset accentuează solemnitatea și autoritatea absolută a mesajului care urmează, o dublare stilistică neobișnuită chiar și pentru Ieremia."
       },
       {
@@ -51197,10 +51212,12 @@
        "t": "scos",
        "w": "scos",
        "heb": "הוֹצִאִי",
-       "translit": "hotsi'i",
+       "translit": "hoți",
        "strong": "H3318",
-       "pos": "verb, hifil infinitiv construct",
+       "pos": "verb, hifil infinitiv + sufix",
        "def_ro": "i-am scos.",
+       "greek": "ἐξαιρέω (exaireo)",
+       "greek_def_ro": "ἐξαιρέω (exaireo) — a scoate, a elibera.",
        "dict_ro": "Rădăcina yatsa, „a ieși”, la forma cauzativă „a scoate” — verbul-cheie al Exodului, folosit constant în formulele legământului mozaic; leagă direct porunca eliberării sclavilor de propria experiență fondatoare a lui Israel ca sclavi eliberați."
       },
       {
@@ -51209,12 +51226,14 @@
       {
        "t": "casa robiei",
        "w": "casa robiei",
-       "heb": "מִבֵּית עֲבָדִים",
-       "translit": "mi-beit avadim",
+       "heb": "מִבֵּית",
+       "translit": "mibēt",
        "strong": "H1004",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "din casa sclavilor.",
-       "dict_ro": "Beit avadim, „casa robilor” — formulă standard a Decalogului (Exod 20:2) pentru Egipt; repetarea ei aici transformă porunca despre eliberarea sclavilor evrei într-un act de memorie activă, nu doar o lege abstractă."
+       "greek": "οἶκος δουλείας (oikos douleias)",
+       "greek_def_ro": "οἶκος δουλείας (oikos douleias) — casa robiei.",
+       "dict_ro": "Beit avadim, „casa robilor” — formulă standard a Decalogului (Exodul 20:2) pentru Egipt; repetarea ei aici transformă porunca despre eliberarea sclavilor evrei într-un act de memorie activă, nu doar o lege abstractă."
       },
       {
        "t": ", spunând:"
@@ -51262,12 +51281,13 @@
       {
        "t": "șapte ani",
        "w": "șapte ani",
-       "heb": "שֶׁבַע שָׁנִים",
-       "translit": "sheva shanim",
+       "heb": "שֶׁבַע שָׁנִים",
+       "translit": "șeva șanim",
        "strong": "H7651",
-       "pos": "numeral",
+       "pos": "numeral + substantiv, feminin plural",
        "def_ro": "șapte ani.",
-       "dict_ro": "Notă textuală remarcată de comentatori: legea citată aici de Ieremia vorbește de „șapte ani” la începutul versetului, dar apoi precizează „să te slujească șase ani” — o aparentă tensiune numerică rezolvată prin observarea că anul al șaptelea e chiar anul eliberării, nu un an suplimentar de muncă, coerent cu Exod 21:2."
+       "diff_ro": "Divergență numerică reală: Septuaginta are „ὅταν πληρωθῇ ἓξ ἔτη\" („când se vor împlini ȘASE ani\"), nu „la capătul a șapte ani\" ca în ebraică — o variantă textuală veche, discutată de cercetători.",
+       "dict_ro": "Notă textuală remarcată de comentatori: legea citată aici de Ieremia vorbește de „șapte ani” la începutul versetului, dar apoi precizează „să te slujească șase ani” — o aparentă tensiune numerică rezolvată prin observarea că anul al șaptelea e chiar anul eliberării, nu un an suplimentar de muncă, coerent cu Exodul 21:2."
       },
       {
        "t": ", fiecare dintre voi să își elibereze fratele evreu care vă va fi fost vândut. Să îți slujească șase ani și apoi să îi dai drumul liber de la tine.» Dar părinții tăi n-au ascultat de Mine și nu și-au "
@@ -51275,11 +51295,12 @@
       {
        "t": "plecat urechea",
        "w": "plecat urechea",
-       "heb": "הִטּוּ אֶת־אָזְנָם",
-       "translit": "hittu et-oznam",
+       "heb": "הִטּוּ",
+       "translit": "hitu",
        "strong": "H5186",
        "pos": "verb, hifil perfect",
        "def_ro": "și-au plecat urechea.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu final (părinții care nu și-au plecat urechea) — nu există corespondent verificabil.",
        "dict_ro": "Rădăcina nata, „a înclina, a apleca” — expresie idiomatică standard pentru ascultare atentă; negația ei confirmă un tipar istoric îndelungat de nesupunere, nu doar un eșec izolat al generației prezente a lui Țedechia."
       },
       {
@@ -51331,11 +51352,13 @@
       {
        "t": "căit",
        "w": "căit",
-       "heb": "וַתָּשֻׁבוּ",
-       "translit": "va-tashuvu",
+       "heb": "וַתָּשֻׁבוּ",
+       "translit": "vatașuvu",
        "strong": "H7725",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, qal imperfect consecutiv",
        "def_ro": "v-ați întors [la bine].",
+       "greek": "ἐπιστρέφω (epistrepho)",
+       "greek_def_ro": "ἐπιστρέφω (epistrepho) — a se întoarce, a se căi.",
        "dict_ro": "Aceeași rădăcină shuv de la v.11, dar aici folosită pozitiv — recunoașterea explicită de către Dumnezeu Însuși a faptului că actul inițial de eliberare a fost, cu adevărat, o formă reală de pocăință, „ceea ce este drept” — ceea ce face trădarea ulterioară cu atât mai gravă."
       },
       {
@@ -51344,11 +51367,13 @@
       {
        "t": "Templul",
        "w": "Templul",
-       "heb": "בַּבַּיִת",
-       "translit": "ba-bayit",
+       "heb": "בַּבַּיִת",
+       "translit": "babait",
        "strong": "H1004",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "în Casă [Templu].",
+       "greek": "οἶκος (oikos)",
+       "greek_def_ro": "οἶκος (oikos) — casă, templu.",
        "dict_ro": "Bayit, „casă” — desemnare standard a Templului; legământul n-a fost doar civil, ci religios, pecetluit chiar în locul sfânt purtător al Numelui divin, ceea ce face profanarea lui ulterioară (v.16) o încălcare sacrilegă, nu doar contractuală."
       },
       {
@@ -51397,11 +51422,13 @@
       {
        "t": "profanat",
        "w": "profanat",
-       "heb": "וַתְּחַלְּלוּ",
-       "translit": "va-techallelu",
+       "heb": "וַתְּחַלְּלוּ",
+       "translit": "vathallu",
        "strong": "H2490",
-       "pos": "verb, piel imperfect",
+       "pos": "verb, piel imperfect consecutiv",
        "def_ro": "ați profanat, ați pângărit.",
+       "greek": "βεβηλόω (bebeloo)",
+       "greek_def_ro": "βεβηλόω (bebeloo) — a profana, a pângări.",
        "dict_ro": "Rădăcina chalal, „a profana” — verb tehnic-ritual, folosit pentru pângărirea unui lucru sfânt (Sabatul, Numele divin, altarul); încălcarea legământului nu e doar o promisiune ruptă între oameni, ci un act direct de sacrilegiu, „numele Meu” fiind invocat solemn în chiar actul legământului (v.15)."
       },
       {
@@ -51410,11 +51437,13 @@
       {
        "t": "unde vor ei",
        "w": "unde vor ei",
-       "heb": "לְנַפְשָׁם",
-       "translit": "le-nafsham",
+       "heb": "לְנַפְשָׁם",
+       "translit": "lenafșam",
        "strong": "H5315",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "după sufletul/voința lor.",
+       "greek": "ψυχή αὐτῶν (psyche auton)",
+       "greek_def_ro": "ψυχή αὐτῶν (psyche auton) — după voia/sufletul lor.",
        "dict_ro": "Nefesh, „suflet, dorință” — formulă care accentuează libertatea deplină acordată inițial: nu doar eliberare tehnică, ci deplină autonomie a voinței lor, cu atât mai cruntă fiind revocarea ei ulterioară."
       },
       {
@@ -51467,11 +51496,13 @@
       {
        "t": "proclam libertate",
        "w": "proclam libertate",
-       "heb": "קֹרֵא לָכֶם דְּרוֹר",
-       "translit": "kore lakhem deror",
+       "heb": "קֹרֵא דְּרוֹר",
+       "translit": "korē deror",
        "strong": "H7121",
-       "pos": "verb, qal participiu",
+       "pos": "verb, qal participiu + substantiv, masculin singular",
        "def_ro": "vă proclam libertate.",
+       "greek": "καλέω ἄφεσιν (kaleo aphesin)",
+       "greek_def_ro": "καλέω ἄφεσιν (kaleo aphesin) — proclam libertate.",
        "dict_ro": "Joc de cuvinte amar și ironic: DOMNUL „proclamă libertate” asupra lor — dar nu eliberarea din robie, ci „libertatea” de a cădea pradă sabiei, molimei și foametei — cuvântul lor refuzat li se întoarce, transformat în judecată."
       },
       {
@@ -51481,10 +51512,11 @@
        "t": "pricină de groază",
        "w": "pricină de groază",
        "heb": "לְזַעֲוָה",
-       "translit": "le-za'avah",
+       "translit": "lezaava",
        "strong": "H2189",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "spre groază, spre oroare.",
+       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest cuvânt final (voi face din voi o pricină de groază pentru toate regatele pământului) — nu există corespondent verificabil.",
        "dict_ro": "Za'avah — cuvânt rar pentru groaza/oroarea provocată altora prin exemplul propriei nenorociri; Israel, menit să fie „lumină pentru neamuri”, devine în schimb un exemplu negativ, o poveste de avertisment pentru toate regatele din jur."
       },
       {
@@ -51532,11 +51564,13 @@
       {
        "t": "încălcat legământul",
        "w": "încălcat legământul",
-       "heb": "הָעֹבְרִים אֶת־בְּרִתִי",
-       "translit": "ha-overim et-beriti",
+       "heb": "הָעֹבְרִים",
+       "translit": "haovrim",
        "strong": "H5674",
        "pos": "verb, qal participiu",
        "def_ro": "cei ce încalcă legământul Meu.",
+       "greek": "παρέρχομαι διαθήκην (parerchomai diatheken)",
+       "greek_def_ro": "παρέρχομαι διαθήκην (parerchomai diatheken) — cei ce au trecut peste legământ.",
        "dict_ro": "Rădăcina avar, „a trece” — joc de cuvinte dublu: „cei ce trec peste legământul Meu” [îl încalcă] sunt exact aceiași care „au trecut” fizic printre bucățile vițelului tăiat (v.18b), aceeași rădăcină verbală legând vina de ritualul jurământului."
       },
       {
@@ -51546,10 +51580,13 @@
        "t": "vițelului",
        "w": "vițelului",
        "heb": "הָעֵגֶל",
-       "translit": "ha-egel",
+       "translit": "haēgel",
        "strong": "H5695",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "vițelul.",
+       "greek": "μόσχος (moschos)",
+       "greek_def_ro": "μόσχος (moschos) — vițel.",
+       "diff_ro": "Finalul versetului grecesc diferă: „ὃν ἐποίησαν ἐργάζεσθαι αὐτῷ\" („pe care l-au făcut să lucreze pentru el\"), nu detaliul despre tăierea vițelului în două și trecerea printre jumătățile lui, ca în ebraică.",
        "dict_ro": "Egel — ritual antic al legământului (cf. Geneza 15:9-17), în care animalul tăiat în două simboliza soarta celui ce ar încălca jurământul: să fie „tăiat” la fel. Rashi citește surprinzător acest ritual ca aparținând nu legământului inițial de eliberare (v.8-10), ci unui al doilea legământ, de răzvrătire, încheiat de popor DUPĂ ce și-au recapturat sclavii."
       },
       {
@@ -51597,11 +51634,14 @@
       {
        "t": "dregătorii",
        "w": "dregătorii",
-       "heb": "הַסָּרִסִים",
-       "translit": "ha-sarisim",
+       "heb": "הַסָּרִסִים",
+       "translit": "hasarisim",
        "strong": "H5631",
        "pos": "substantiv, masculin plural",
        "def_ro": "eunucii, dregătorii de curte.",
+       "greek": "δυνάστης (dynastes)",
+       "greek_def_ro": "δυνάστης (dynastes) — dregător, persoană cu putere.",
+       "diff_ro": "Septuaginta are o listă mai scurtă și reordonată („conducătorii, dregătorii, preoții, poporul\" — patru termeni, nu cinci), omițând complet finalul versetului despre trecerea printre jumătățile vițelului.",
        "dict_ro": "Saris — termen tehnic pentru înalți funcționari de curte (nu neapărat literal eunuci); lista completă a participanților la legământul rupt — conducători politici, funcționari, preoți și „tot poporul țării” — subliniază responsabilitatea colectivă, la toate nivelurile societății, pentru încălcarea comisă."
       },
       {
@@ -51661,8 +51701,10 @@
        "heb": "נִבְלָתָם",
        "translit": "nivlatam",
        "strong": "H5038",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "cadavrele/hoiturile lor.",
+       "greek": "θνησιμαῖα αὐτῶν (thnesimaia auton)",
+       "greek_def_ro": "θνησιμαῖα αὐτῶν (thnesimaia auton) — hoiturile/leșurile lor.",
        "dict_ro": "Nevelah, „hoit, cadavru [neîngropat]” — formula standard a pedepsei celei mai de rușine în literatura profetică: nu doar moarte, ci lipsa oricărei înmormântări demne, trupul lăsat pradă deschisă animalelor — soarta exact inversă onoarei presupuse de statutul social al conducătorilor enumerați la v.19."
       },
       {
@@ -51711,11 +51753,13 @@
       {
        "t": "retras",
        "w": "retras",
-       "heb": "הָעֹלִים מֵעֲלֵיכֶם",
-       "translit": "ha-olim me-aleikhem",
+       "heb": "הָעֹלִים",
+       "translit": "haolim",
        "strong": "H5927",
        "pos": "verb, qal participiu",
        "def_ro": "cei ce se ridică/se retrag de la voi.",
+       "greek": "ἀποτρέχω (apotrecho)",
+       "greek_def_ro": "ἀποτρέχω (apotrecho) — a se retrage, a fugi înapoi.",
        "dict_ro": "Rashi leagă această retragere temporară a asediului babilonian de venirea armatei lui Faraon dinspre Egipt (Ieremia 37:5-11), care a forțat o pauză scurtă a asediului Ierusalimului — un răgaz fals de speranță, urmat însă de revenirea inevitabilă a caldeenilor (v.22)."
       },
       {
@@ -51764,11 +51808,13 @@
       {
        "t": "poruncit",
        "w": "poruncit",
-       "heb": "מְצַוֶּה",
-       "translit": "metsavveh",
+       "heb": "מְצַוֶּה",
+       "translit": "mețave",
        "strong": "H6680",
        "pos": "verb, piel participiu",
        "def_ro": "poruncesc.",
+       "greek": "συντάσσω (syntasso)",
+       "greek_def_ro": "συντάσσω (syntasso) — a porunci, a rândui.",
        "dict_ro": "Rashi explică laconic acest verset: „armata lui Faraon se va întoarce în țara ei, iar caldeenii se vor întoarce asupra voastră” — porunca divină pune în mișcare exact revenirea anunțată la versetul anterior, închizând cercul judecății."
       },
       {
@@ -51778,10 +51824,12 @@
        "t": "cuceri",
        "w": "cuceri",
        "heb": "וּלְכָדוּהָ",
-       "translit": "u-lekhaduha",
+       "translit": "ulhaduha",
        "strong": "H3920",
-       "pos": "verb, qal perfect",
+       "pos": "verb, qal perfect consecutiv + sufix",
        "def_ro": "și-l vor cuceri.",
+       "greek": "λαμβάνω (lambano)",
+       "greek_def_ro": "λαμβάνω (lambano) — a prinde, a cuceri.",
        "dict_ro": "Rădăcina lakhad, „a captura, a cuceri” — verb tehnic militar, folosit constant pentru căderea Ierusalimului în tot restul cărții lui Ieremia, aici anunțând explicit distrugerea finală, deja apropiată la momentul rostirii acestui oracol."
       },
       {
@@ -51830,11 +51878,11 @@
        "t": "zi și noapte",
        "w": "zi și noapte",
        "heb": "יוֹמָם וָלָיְלָה",
-       "translit": "yomam va-laylah",
+       "translit": "iomam valaila",
        "strong": "H3119",
-       "pos": "substantiv, masculin",
-       "def_ro": "ziua și noaptea.",
-       "dict_ro": "Rashi explică: „e cu neputință ca legământul pe care l-am încheiat pentru ziua și noaptea [să fie] la vremea lor să nu se împlinească” — ciclul zi-noapte devine garanția vizibilă, verificabilă zilnic, a fidelității absolute a lui Dumnezeu față de orice legământ pe care-l face."
+       "pos": "adverb + substantiv, masculin singular",
+       "def_ro": "zi și noapte.",
+       "dict_ro": "Acest verset și cel următor fac parte dintr-una dintre cele mai cunoscute și mai ample divergențe dintre textul masoretic și Septuaginta: capitolul al lui Ieremia în ebraică are aici un pasaj întreg, substanțial, despre legământul neschimbător cu ziua, noaptea și rânduielile cerului și pământului, care e complet ABSENT din Septuaginta — tradiția textuală greacă a cărții lui Ieremia, în general mult mai scurtă decât cea ebraică, nu conține deloc aceste două versete."
       },
       {
        "t": ", dacă n-aș fi "
@@ -51842,11 +51890,12 @@
       {
        "t": "rânduit",
        "w": "rânduit",
-       "heb": "שָׂמְתִּי",
+       "heb": "שָׂמְתִּי",
        "translit": "samti",
        "strong": "H7760",
        "pos": "verb, qal perfect",
        "def_ro": "am pus, am rânduit.",
+       "diff_ro": "Întregul verset 33:25 e absent din Septuaginta — vezi nota de la „zi și noapte\".",
        "dict_ro": "Rădăcina sim, „a pune, a rândui” — legile fizice ale universului (ceruri și pământ) devin, în acest verset, metafora cea mai puternică posibilă pentru certitudinea legământului: la fel de imposibil ca soarele să nu răsară, la fel de imposibil ar fi ca promisiunea făcută urmașilor lui Iacov să nu se împlinească."
       },
       {
@@ -51895,11 +51944,12 @@
       {
        "t": "urmașii lui Iacov",
        "w": "urmașii lui Iacov",
-       "heb": "זֶרַע יַעֲקֹב",
-       "translit": "zera Ya'akov",
+       "heb": "זֶרַע",
+       "translit": "zera",
        "strong": "H2233",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "sămânța lui Iacov.",
+       "diff_ro": "Ca și versetul precedent, 33:26 e absent din Septuaginta — nu există corespondent grecesc verificabil pentru niciun cuvânt din acest verset.",
        "dict_ro": "Zera, „sămânță, urmași” — promisiunea finală a Haftarei leagă direct soarta poporului („sămânța lui Iacov”) de dinastia davidică („David, slujitorul Meu”), cele două legăminte — cel național și cel regal-mesianic — garantate împreună prin aceeași certitudine cosmică descrisă la v.25."
       },
       {
@@ -51909,10 +51959,11 @@
        "t": "respins",
        "w": "respins",
        "heb": "אֶמְאַס",
-       "translit": "em'as",
+       "translit": "emas",
        "strong": "H3988",
        "pos": "verb, qal imperfect",
        "def_ro": "aș respinge, aș lepăda.",
+       "diff_ro": "Vezi nota de la „urmașii lui Iacov\" — întregul verset e absent din Septuaginta.",
        "dict_ro": "Rădăcina ma'as, „a respinge, a lepăda” — negat implicit prin structura condițională a întregului pasaj: la fel de imposibil cum e ca legile cosmice să cadă, la fel de imposibil e ca Dumnezeu să respingă definitiv linia davidică, oricât de sumbre ar părea circumstanțele istorice prezente (căderea iminentă a lui Țedechia, ultimul rege davidic domnitor)."
       },
       {
@@ -51921,11 +51972,12 @@
       {
        "t": "aduce înapoi captivii",
        "w": "aduce înapoi captivii",
-       "heb": "אָשִׁיב אֶת־שְׁבוּתָם",
-       "translit": "ashiv et-shevutam",
+       "heb": "אָשִׁיב שְׁבוּתָם",
+       "translit": "așiv șevutam",
        "strong": "H7725",
-       "pos": "verb, hifil imperfect",
+       "pos": "verb, hifil imperfect + substantiv, feminin singular construct + sufix",
        "def_ro": "le voi întoarce captivitatea.",
+       "diff_ro": "Vezi nota de la „urmașii lui Iacov\" — întregul verset e absent din Septuaginta.",
        "dict_ro": "Aceeași formulă idiomatică shuv shevut întâlnită și la Ezechiel 29:14 pentru restaurarea Egiptului — aici aplicată promisiunii finale, celei mai sigure posibile, pentru poporul lui Dumnezeu Însuși, încheind Haftara pe nota de speranță necesară după capitolul întunecat al legământului rupt."
       },
       {
