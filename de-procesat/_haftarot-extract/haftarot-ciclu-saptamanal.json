@@ -41927,24 +41927,44 @@
       {
        "t": "strânge laolaltă",
        "w": "strânge laolaltă",
-       "heb": "בְּקַבְּצִי",
-       "translit": "be-kabbetsi",
+       "heb": "בְּקַבְּצִי",
+       "translit": "bekabți",
        "strong": "H6908",
-       "pos": "verb, piel infinitiv construct",
+       "pos": "verb, piel infinitiv + sufix",
        "def_ro": "la adunarea Mea, când voi aduna.",
+       "greek": "συνάγω (synago)",
+       "greek_def_ro": "συνάγω (synago) — a aduna, a strânge.",
        "dict_ro": "Rădăcina kavats, „a aduna, a strânge” — verb central în profeția de restaurare, folosit constant pentru reîntoarcerea din exil (cf. Isaia 11:12, Ieremia 29:14); deschide capitolul cu promisiunea pozitivă a adunării lui Israel, contrastând deliberat cu judecata aspră asupra Egiptului care urmează imediat."
       },
       {
-       "t": " casa lui Israel, dintre popoarele printre care sunt "
+       "t": " "
+      },
+      {
+       "t": "casa lui Israel",
+       "w": "casa lui Israel",
+       "heb": "בֵּית יִשְׂרָאֵל",
+       "translit": "bēt israēl",
+       "strong": "H3478",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "casa lui Israel, poporul Israel.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel.",
+       "diff_ro": "Septuaginta redă doar „τὸν Ἰσραὴλ” („Israel”), fără cuvântul pentru „casă” — o simplificare, nu o pierdere de sens major.",
+       "dict_ro": "„Bet Israel” („casa lui Israel”) desemnează poporul ca unitate familială/națională, nu doar teritorială — tema centrală a acestei Haftarot (strângerea risipiților) leagă direct pericopa Vaera, unde Dumnezeu Își reafirmă legământul cu poporul Său din robie."
+      },
+      {
+       "t": ", dintre popoarele printre care sunt "
       },
       {
        "t": "împrăștiați",
        "w": "împrăștiați",
        "heb": "נָפֹצוּ",
-       "translit": "nafotsu",
+       "translit": "nafoțu",
        "strong": "H6327",
-       "pos": "verb, qal perfect",
+       "pos": "verb, nifal perfect",
        "def_ro": "au fost împrăștiați.",
+       "greek": "διασκορπίζω (diaskorpizo)",
+       "greek_def_ro": "διασκορπίζω (diaskorpizo) — a împrăștia.",
        "dict_ro": "Rădăcina puts, „a împrăștia, a risipi” — condiția prezentă a exilului, descrisă ca fapt împlinit, premisă necesară pentru promisiunea de adunare care urmează."
       },
       {
@@ -41953,11 +41973,13 @@
       {
        "t": "sfințit",
        "w": "sfințit",
-       "heb": "וְנִקְדַּשְׁתִּי",
-       "translit": "ve-nikdashti",
+       "heb": "וְנִקְדַּשְׁתִּי",
+       "translit": "venikdaști",
        "strong": "H6942",
-       "pos": "verb, nifal perfect",
+       "pos": "verb, nifal perfect consecutiv",
        "def_ro": "voi fi sfințit, Mi se va recunoaște sfințenia.",
+       "greek": "ἁγιάζω (hagiazo)",
+       "greek_def_ro": "ἁγιάζω (hagiazo) — a sfinți.",
        "dict_ro": "Rădăcina kadash, „a sfinți” — la forma pasivă/reflexivă, „Mă voi sfinți/Mi se va recunoaște sfințenia” — conceptul de Kiddush Hashem (sfințirea Numelui) aplicat aici la restaurarea lui Israel însăși, vizibilă „în ochii neamurilor” ca dovadă publică a puterii și fidelității divine."
       },
       {
@@ -41966,15 +41988,30 @@
       {
        "t": "slujitorului Meu",
        "w": "slujitorului Meu",
-       "heb": "לְעַבְדִּי",
-       "translit": "le-avdi",
+       "heb": "לְעַבְדִּי",
+       "translit": "leavdi",
        "strong": "H5650",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "slujitorului Meu.",
+       "diff_ro": "Fraza „slujitorului Meu, lui Iacov” aparține, în Septuaginta, versetului următor (28:26), nu acestuia — o diferență reală de împărțire a versetelor între cele două tradiții textuale, nu o omisiune.",
        "dict_ro": "Eved, „slujitor” — titlu de mare cinste în vocabularul biblic (folosit și pentru Moise, David), aplicat aici lui Iacov ca reprezentant al întregului popor: darul pământului nu e un act arbitrar, ci recompensa/moștenirea unei relații de slujire loială."
       },
       {
-       "t": ", lui Iacov,"
+       "t": ", lui "
+      },
+      {
+       "t": "Iacov",
+       "w": "Iacov",
+       "heb": "לְיַעֲקֹב",
+       "translit": "leiaakov",
+       "strong": "H3290",
+       "pos": "nume propriu",
+       "def_ro": "Iacov.",
+       "diff_ro": "La fel ca la „slujitorului Meu”, Septuaginta plasează „Ἰακώβ” în versetul următor (28:26: „τῷ δούλῳ μου Ἰακώβ”), nu aici — diferență de împărțire a versetelor, nu de conținut.",
+       "dict_ro": "Numele „Iacov” pentru întregul popor (nu doar patriarhul) accentuează continuitatea: cei întorși din exil sunt urmașii direcți ai celui cu care Dumnezeu a încheiat legământul la Betel și Peniel."
+      },
+      {
+       "t": ","
       }
      ],
      "textCompare": [
@@ -42020,10 +42057,13 @@
        "t": "siguranță",
        "w": "siguranță",
        "heb": "לָבֶטַח",
-       "translit": "la-vetach",
+       "translit": "lavetah",
        "strong": "H983",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "în siguranță, fără teamă.",
+       "greek": "ἐλπίς (elpis)",
+       "greek_def_ro": "ἐλπίς (elpis) — speranță, nădejde.",
+       "diff_ro": "Septuaginta are „ἐν ἐλπίδι” („în speranță/nădejde”), o nuanță diferită de „în siguranță” (lavetah) din ebraică — accentul se mută de la starea obiectivă de siguranță la atitudinea subiectivă de încredere.",
        "dict_ro": "Betach, „siguranță, încredere” — repetat de două ori în acest verset, accentuând stabilitatea completă a restaurării promise: nu doar întoarcerea pe pământ, ci o locuire liniștită, fără amenințarea constantă a exilului sau invaziei."
       },
       {
@@ -42033,10 +42073,12 @@
        "t": "vii",
        "w": "vii",
        "heb": "כְרָמִים",
-       "translit": "keramim",
+       "translit": "heramim",
        "strong": "H3754",
-       "pos": "substantiv, masculin plural",
+       "pos": "substantiv, masculin și feminin plural",
        "def_ro": "vii, podgorii.",
+       "greek": "ἀμπελών (ampelon)",
+       "greek_def_ro": "ἀμπελών (ampelon) — vii, podgorii.",
        "dict_ro": "Kerem, „vie” — imagine standard a stabilității agricole și a prosperității pe termen lung (o vie cere ani de îngrijire înainte de rod), simbol al unei păci nu doar temporare, ci durabile."
       },
       {
@@ -42045,11 +42087,12 @@
       {
        "t": "judecăți",
        "w": "judecăți",
-       "heb": "שְׁפָטִים",
-       "translit": "shefatim",
+       "heb": "שְׁפָטִים",
+       "translit": "șefatim",
        "strong": "H8201",
        "pos": "substantiv, masculin plural",
        "def_ro": "judecăți, pedepse.",
+       "diff_ro": "Textul grecesc disponibil pentru această parte a versetului e trunchiat în sursă — nu există corespondent verificabil pentru „judecăți” (șefatim).",
        "dict_ro": "Shefatim, plural de la mishpat/shofet — termen tehnic pentru actele de judecată/pedeapsă divină, aici aplicate popoarelor vecine ostile lui Israel, prima dintre acestea, dezvoltată pe larg în restul capitolului, fiind chiar Egiptul."
       },
       {
@@ -42058,11 +42101,12 @@
       {
        "t": "disprețuiesc",
        "w": "disprețuiesc",
-       "heb": "הַשָּׁאטִים",
-       "translit": "ha-sha'tim",
+       "heb": "הַשָּׁאטִים",
+       "translit": "hașatim",
        "strong": "H7590",
        "pos": "verb, qal participiu",
        "def_ro": "cei ce-i disprețuiesc.",
+       "diff_ro": "Ca și la „judecăți”, textul grecesc disponibil aici e trunchiat — nu există corespondent verificabil.",
        "dict_ro": "Rădăcina sha'at, „a disprețui” — cuvânt rar, desemnând vecinii ostili care au tratat cu dispreț poporul exilat și slăbit; judecata divină asupra lor devine condiția necesară pentru siguranța promisă lui Israel."
       },
       {
@@ -42111,15 +42155,32 @@
       {
        "t": "anul al zecelea",
        "w": "anul al zecelea",
-       "heb": "הָעֲשִׂירִית",
-       "translit": "ha-asirit",
+       "heb": "בַּשָּׁנָה הָעֲשִׂירִית",
+       "translit": "bașana haasirit",
        "strong": "H6224",
-       "pos": "numeral ordinal",
+       "pos": "substantiv, feminin singular + numeral ordinal",
        "def_ro": "al zecelea.",
+       "greek": "δωδέκατος (dodekatos)",
+       "greek_def_ro": "δωδέκατος (dodekatos) — al doisprezecelea.",
+       "diff_ro": "Una dintre cele mai cunoscute divergențe textuale din Ezechiel: ebraica are „anul al zecelea”, Septuaginta „τῷ ἔτει τῷ δωδεκάτῳ” („anul al doisprezecelea”) — probabil o confuzie grafică veche între numeralele ebraice „zece” (עֶשֶׂר) și „doisprezece” (שְׁנֵים עָשָׂר); comentatorii moderni discută pe larg care datare se potrivește cronologiei exilului babilonian.",
        "dict_ro": "Anul al zecelea al exilului regelui Iehoiachin (aprox. 588/587 î.Hr.) — datare precisă, plasând acest oracol chiar în perioada asediului final al Ierusalimului de către Babilon, context istoric direct pentru mesajul împotriva Egiptului, aliatul politic nesigur pe care Iuda sperase să-l găsească."
       },
       {
-       "t": ", în [luna] a zecea, în a douăsprezecea [zi] a lunii, cuvântul DOMNULUI a venit la mine, spunând:"
+       "t": ", în [luna] a zecea, "
+      },
+      {
+       "t": "în a douăsprezecea",
+       "w": "în a douăsprezecea",
+       "heb": "בִּשְׁנֵים עָשָׂר",
+       "translit": "bișnēm asar",
+       "strong": "H6240",
+       "pos": "numeral + numeral",
+       "def_ro": "în a douăsprezecea [zi a lunii].",
+       "diff_ro": "Septuaginta are aici „μιᾷ” („întâia [zi]”), nu „a douăsprezecea” — a treia divergență numerică din acest verset (alături de an și, posibil, lună), parte din același șir de variante textuale bine documentate la Ezechiel 29:1.",
+       "dict_ro": "Datarea precisă (an, lună, zi) e caracteristică stilului lui Ezechiel — fiecare oracol major e ancorat exact în timp, ca o cronică de exil, nu doar o profeție atemporală."
+      },
+      {
+       "t": " [zi] a lunii, cuvântul DOMNULUI a venit la mine, spunând:"
       }
      ],
      "textCompare": [
@@ -42168,11 +42229,13 @@
       {
        "t": "Fiul omului",
        "w": "Fiul omului",
-       "heb": "בֶּן־אָדָם",
-       "translit": "ben-adam",
+       "heb": "בֶּן אָדָם",
+       "translit": "ben adam",
        "strong": "H1121",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
        "def_ro": "fiul omului.",
+       "greek": "υἱὸς ἀνθρώπου (hyios anthropou)",
+       "greek_def_ro": "υἱὸς ἀνθρώπου (hyios anthropou) — fiul omului.",
        "dict_ro": "Ben-adam, „fiu al omului” — formula de adresare divină constantă către Ezechiel în toată cartea (peste 90 de ori), accentuând contrastul dintre fragilitatea/muritudinea umană a profetului și maiestatea copleșitoare a viziunilor pe care le primește."
       },
       {
@@ -42181,11 +42244,13 @@
       {
        "t": "îndreaptă-ți fața",
        "w": "îndreaptă-ți fața",
-       "heb": "שִׂים פָּנֶיךָ",
-       "translit": "sim paneikha",
+       "heb": "שִׂים פָּנֶיךָ",
+       "translit": "sim paneha",
        "strong": "H7760",
-       "pos": "verb, qal imperativ",
+       "pos": "verb, qal imperativ + substantiv, masculin și feminin plural construct + sufix",
        "def_ro": "pune-ți fața, îndreaptă-ți privirea.",
+       "greek": "στηρίζω πρόσωπον (sterizo prosopon)",
+       "greek_def_ro": "στηρίζω πρόσωπον (sterizo prosopon) — îndreaptă-ți fața.",
        "dict_ro": "Expresia „a-și pune fața spre” cineva/ceva e o formulă recurentă la Ezechiel (folosită și pentru Ierusalim, muntele Seir, Gog) pentru introducerea unui oracol de judecată direcționat precis, aproape ca o țintire fizică a mesajului."
       },
       {
@@ -42194,11 +42259,13 @@
       {
        "t": "Faraon",
        "w": "Faraon",
-       "heb": "פַּרְעֹה",
-       "translit": "Par'oh",
+       "heb": "פַּרְעֹה",
+       "translit": "paro",
        "strong": "H6547",
-       "pos": "nume propriu/titlu",
+       "pos": "nume propriu",
        "def_ro": "Faraon.",
+       "greek": "Φαραώ (Pharao)",
+       "greek_def_ro": "Φαραώ (Pharao) — Faraon.",
        "dict_ro": "Par'oh — titlu regal egiptean, nu nume propriu; identificarea istorică cea mai probabilă a acestui Faraon e Hofra (Apries, cca. 589-570 î.Hr.), contemporan cu Țedechia și cu asediul final al Ierusalimului, cunoscut pentru promisiunile de ajutor militar neonorate față de Iuda (cf. Ieremia 37:5-7)."
       },
       {
@@ -42207,11 +42274,13 @@
       {
        "t": "profețește",
        "w": "profețește",
-       "heb": "וְהִנָּבֵא",
-       "translit": "ve-hinnave",
+       "heb": "וְהִנָּבֵא",
+       "translit": "vehinavē",
        "strong": "H5012",
        "pos": "verb, nifal imperativ",
        "def_ro": "profețește.",
+       "greek": "προφητεύω (propheteuo)",
+       "greek_def_ro": "προφητεύω (propheteuo) — a profetiza.",
        "dict_ro": "Rădăcina naba, „a profeți” — deschide formal seria de oracole împotriva națiunilor din Ezechiel (cap. 25-32), un gen literar profetic distinct, cu propriile convenții stilistice, aici aplicat pe larg Egiptului, cel mai extins dintre toate aceste oracole."
       },
       {
@@ -42259,11 +42328,13 @@
       {
        "t": "monstru marin",
        "w": "monstru marin",
-       "heb": "הַתַּנִּים הַגָּדוֹל",
-       "translit": "ha-tannim ha-gadol",
+       "heb": "הַתַּנִּים",
+       "translit": "hatanim",
        "strong": "H8577",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "marele monstru/crocodil.",
+       "greek": "δράκων (drakon)",
+       "greek_def_ro": "δράκων (drakon) — dragon, monstru marin.",
        "dict_ro": "Tannim, „monstru marin, crocodil” — Rashi explică imaginea: întreaga măreție și bogăție a Egiptului vine prin apele Nilului, de aceea profetul îl compară pe regele Egiptului cu un crocodil (animalul dominant al Nilului) și poporul lui cu peștii din același fluviu — o metaforă precisă, construită pe realitatea economică egipteană."
       },
       {
@@ -42273,10 +42344,12 @@
        "t": "cuibărește",
        "w": "cuibărește",
        "heb": "הָרֹבֵץ",
-       "translit": "ha-rovets",
+       "translit": "harovēț",
        "strong": "H7257",
        "pos": "verb, qal participiu",
        "def_ro": "care se culcă, se odihnește.",
+       "greek": "ἐγκάθημαι (enkathemai)",
+       "greek_def_ro": "ἐγκάθημαι (enkathemai) — a se cuibări, a sta culcat.",
        "dict_ro": "Rădăcina ravats, „a se culca, a se odihni [ca o fiară]” — aceeași imagine folosită la Geneza 4:7 pentru păcatul „culcat” la ușa lui Cain: o poziție de falsă siguranță, de stăpânire liniștită a teritoriului, pe care oracolul o va răsturna violent."
       },
       {
@@ -42286,10 +42359,12 @@
        "t": "râurile sale",
        "w": "râurile sale",
        "heb": "יְאֹרָיו",
-       "translit": "ye'orav",
+       "translit": "ieoraiv",
        "strong": "H2975",
-       "pos": "substantiv, masculin plural construct",
+       "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "canalele/brațele Nilului său.",
+       "greek": "ποταμός (potamos)",
+       "greek_def_ro": "ποταμός (potamos) — râuri.",
        "dict_ro": "Ye'or, termen tehnic egiptean împrumutat în ebraică pentru Nilul și canalele lui de irigație — cuvântul revine constant în tot oracolul (v.3-10), centrul simbolic al întregii economii și identități egiptene, pe care Faraon o revendică arogant ca proprie creație."
       },
       {
@@ -42299,10 +42374,12 @@
        "t": "râul",
        "w": "râul",
        "heb": "יְאֹרִי",
-       "translit": "ye'ori",
+       "translit": "ieori",
        "strong": "H2975",
-       "pos": "substantiv, masculin construct",
+       "pos": "nume propriu + sufix",
        "def_ro": "râul meu.",
+       "greek": "ποταμός (potamos)",
+       "greek_def_ro": "ποταμός (potamos) — râu, râuri.",
        "dict_ro": "Aceeași rădăcină ye'or, acum cu sufix posesiv — culmea aroganței faraonice: nu doar stăpânirea, ci pretenția de proprietate absolută asupra sursei de viață a întregii națiuni."
       },
       {
@@ -42311,12 +42388,14 @@
       {
        "t": "m-am creat",
        "w": "m-am creat",
-       "heb": "עֲשִׂיתִנִי",
+       "heb": "עֲשִׂיתִנִי",
        "translit": "asitini",
        "strong": "H6213",
-       "pos": "verb, qal perfect",
+       "pos": "verb, qal perfect + sufix",
        "def_ro": "m-am făcut [pe mine însumi].",
-       "dict_ro": "Rădăcina asah, „a face” — declarația supremă de auto-suficiență și auto-divinizare: Faraon nu doar respinge autoritatea lui Dumnezeu, ci pretinde literal că e propriul său creator, ecou direct al refuzului lui Faraon din Exod de a-L recunoaște pe DOMNUL (Exod 5:2)."
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face, a crea.",
+       "dict_ro": "Rădăcina asah, „a face” — declarația supremă de auto-suficiență și auto-divinizare: Faraon nu doar respinge autoritatea lui Dumnezeu, ci pretinde literal că e propriul său creator, ecou direct al refuzului lui Faraon din Exod de a-L recunoaște pe DOMNUL (Exodul 5:2)."
       },
       {
        "t": ".’"
@@ -42365,10 +42444,11 @@
        "t": "cârlige",
        "w": "cârlige",
        "heb": "חַחִים",
-       "translit": "chachim",
+       "translit": "hahim",
        "strong": "H2397",
        "pos": "substantiv, masculin plural",
        "def_ro": "cârlige, inele.",
+       "diff_ro": "Septuaginta are „παγίδας” („capcane”), o imagine mai generală decât cârligele specifice înfipte în fălci din ebraică.",
        "dict_ro": "Chachim, „cârlige, inele [de metal]” — Rashi le descrie ca „un fel de inele de fier”, imaginea concretă a vânării unui crocodil uriaș (identificat cu Faraon la v.3) prin metoda antică de pescuit cu cârlige în fălci — o umilire fizică directă a imaginii regale de putere netulburată."
       },
       {
@@ -42377,11 +42457,13 @@
       {
        "t": "fălci",
        "w": "fălci",
-       "heb": "לְחָיֶיךָ",
-       "translit": "lechayeikha",
+       "heb": "בִּלְחָיֶיךָ",
+       "translit": "bilhaieha",
        "strong": "H3895",
-       "pos": "substantiv, feminin plural construct",
+       "pos": "substantiv, masculin și feminin dual construct + sufix",
        "def_ro": "fălcile tale.",
+       "greek": "σιαγών (siagon)",
+       "greek_def_ro": "σιαγών (siagon) — fălci, obraji.",
        "dict_ro": "Lechi, „falcă, obraz” — continuă imaginea vânătorii/capturării unei fiare de pradă, gura mare și fălcile puternice ale crocodilului („monstrul marin” de la v.3) devenind acum punctul exact al vulnerabilității lui."
       },
       {
@@ -42393,8 +42475,10 @@
        "heb": "דְגַת",
        "translit": "degat",
        "strong": "H1710",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "peștii.",
+       "greek": "ἰχθύς (ichthys)",
+       "greek_def_ro": "ἰχθύς (ichthys) — pești.",
        "dict_ro": "Dagah, „pește” — Rashi extinde metafora: poporul Egiptului, ca „peștii Nilului lui”, va fi antrenat prin voia lui Dumnezeu să lupte alături de Faraon, dar toți vor cădea împreună cu el, prinși în aceeași capcană a solzilor lipiți de cârlig."
       },
       {
@@ -42403,11 +42487,12 @@
       {
        "t": "solzi",
        "w": "solzi",
-       "heb": "קַשְׂקְשֹׂתֶיךָ",
-       "translit": "kaskesoteikha",
+       "heb": "בְּקַשְׂקְשֹׂתֶיךָ",
+       "translit": "bekaskesoteha",
        "strong": "H7193",
-       "pos": "substantiv, feminin plural construct",
+       "pos": "substantiv, feminin plural construct + sufix",
        "def_ro": "solzii tăi.",
+       "diff_ro": "Septuaginta are „πτέρυγάς” („aripioare”), nu solzii propriu-ziși — peștii se lipesc de aripioare, nu de solzi, în varianta greacă.",
        "dict_ro": "Kaskeset, „solz” — imagine tehnică precisă din anatomia peștelui/crocodilului, întărind coerența metaforei acvatice a întregului oracol: capturarea nu e doar prin gură, ci prin întreaga suprafață a corpului, o prindere totală, fără scăpare."
       },
       {
@@ -42417,10 +42502,12 @@
        "t": "scoate afară",
        "w": "scoate afară",
        "heb": "וְהַעֲלִיתִיךָ",
-       "translit": "ve-ha'alitikha",
+       "translit": "vehaalitiha",
        "strong": "H5927",
-       "pos": "verb, hifil perfect",
+       "pos": "verb, hifil perfect consecutiv + sufix",
        "def_ro": "te voi scoate afară, te voi ridica.",
+       "greek": "ἀνάγω (anago)",
+       "greek_def_ro": "ἀνάγω (anago) — a scoate, a ridica.",
        "dict_ro": "Rădăcina alah, „a se urca, a scoate [din apă]” — verbul final al imaginii de pescuit: crocodilul, simbol al stăpânirii netulburate a apelor natale, e smuls cu forța din propriul lui element, complet expus și neputincios."
       },
       {
@@ -42469,11 +42556,13 @@
       {
        "t": "arunca",
        "w": "arunca",
-       "heb": "וּנְטַשְׁתִּיךָ",
-       "translit": "u-netashtikha",
+       "heb": "וּנְטַשְׁתִּיךָ",
+       "translit": "untaștiha",
        "strong": "H5203",
-       "pos": "verb, qal perfect",
+       "pos": "verb, qal perfect consecutiv + sufix",
        "def_ro": "te voi arunca, te voi părăsi.",
+       "greek": "καταβάλλω (kataballo)",
+       "greek_def_ro": "καταβάλλω (kataballo) — a doborî, a arunca jos.",
        "dict_ro": "Rădăcina natash, „a arunca, a abandona” — soarta crocodilului scos din apă (v.4): nu doar capturat, ci aruncat departe de mediul lui vital, în deșert, unde nu poate supraviețui, o imagine a umilirii complete și ireversibile."
       },
       {
@@ -42482,11 +42571,13 @@
       {
        "t": "luat sau adunat",
        "w": "luat sau adunat",
-       "heb": "לֹא תֵאָסֵף וְלֹא תִקָּבֵץ",
-       "translit": "lo te'asef ve-lo tikkavets",
+       "heb": "תֵאָסֵף תִקָּבֵץ",
+       "translit": "tēasēf tikavēț",
        "strong": "H622",
-       "pos": "verb, nifal imperfect",
+       "pos": "verb, nifal imperfect + verb, nifal imperfect",
        "def_ro": "nu vei fi strâns, nu vei fi adunat.",
+       "greek": "συνάγω (synago)",
+       "greek_def_ro": "συνάγω (synago) — a fi adunat.",
        "dict_ro": "Rădăcina asaf/kavats, „a strânge, a aduna” — dublarea negativă intensifică ideea unei morți fără nicio demnitate funerară, trupul lăsat pradă deschisă, fără nici măcar actul minim de respect al înmormântării."
       },
       {
@@ -42495,11 +42586,13 @@
       {
        "t": "păsărilor cerurilor",
        "w": "păsărilor cerurilor",
-       "heb": "וּלְעוֹף הַשָּׁמַיִם",
-       "translit": "u-le-of ha-shamayim",
+       "heb": "וּלְעוֹף הַשָּׁמַיִם",
+       "translit": "ulof hașamaim",
        "strong": "H5775",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
        "def_ro": "păsările cerului.",
+       "greek": "πετεινόν οὐρανοῦ (peteinon ouranou)",
+       "greek_def_ro": "πετεινόν οὐρανοῦ (peteinon ouranou) — păsările cerului.",
        "dict_ro": "Of ha-shamayim, „păsările cerului” — formulă frecventă pentru soarta trupurilor neîngropate lăsate expuse; aceeași imagine revine în oracolele împotriva multor alte popoare mândre din literatura profetică, semn standard al unei înfrângeri complete și ignominioase."
       },
       {
@@ -42509,10 +42602,12 @@
        "t": "hrană",
        "w": "hrană",
        "heb": "לְאָכְלָה",
-       "translit": "le-okhlah",
+       "translit": "leahla",
        "strong": "H402",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "ca hrană, ca mâncare.",
+       "greek": "κατάβρωμα (katabroma)",
+       "greek_def_ro": "κατάβρωμα (katabroma) — hrană, mâncare.",
        "dict_ro": "Okhlah, „hrană, mâncare” — sentința finală a imaginii: cel ce se pretindea propriul creator (v.3) ajunge, ironic, simplă hrană pentru fiare și păsări, cea mai joasă poziție posibilă în lanțul existenței."
       },
       {
@@ -42561,11 +42656,13 @@
       {
        "t": "sprijin de trestie",
        "w": "sprijin de trestie",
-       "heb": "מִשְׁעֶנֶת קָנֶה",
-       "translit": "mish'enet kaneh",
+       "heb": "מִשְׁעֶנֶת קָנֶה",
+       "translit": "mișenet kane",
        "strong": "H4938",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
        "def_ro": "toiag de trestie.",
+       "greek": "ῥάβδος καλαμίνη (rhabdos kalamine)",
+       "greek_def_ro": "ῥάβδος καλαμίνη (rhabdos kalamine) — toiag de trestie.",
        "dict_ro": "Mish'enet kaneh, „toiag de trestie” — imagine a unui sprijin fals, gata să se frângă sub greutate reală; același „toiag de trestie frântă” apare aproape identic la Isaia 36:6, în discursul lui Rabșache către Ezechia, avertizându-l explicit împotriva încrederii în alianța egipteană."
       },
       {
@@ -42614,11 +42711,13 @@
       {
        "t": "mână",
        "w": "mână",
-       "heb": "בַכַּף",
-       "translit": "va-khaf",
+       "heb": "בַכַּף",
+       "translit": "vakaf",
        "strong": "H3709",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "în palmă.",
+       "greek": "χείρ (cheir)",
+       "greek_def_ro": "χείρ (cheir) — mână.",
        "dict_ro": "Kaf, „palmă, mână” — imaginea trestiei fragile care se sfărâmă exact în momentul în care e apucată pentru sprijin, rănind mâna care căuta ajutor — o metaforă precisă a alianței egiptene: dăunătoare tocmai celor care se bazează pe ea."
       },
       {
@@ -42627,11 +42726,13 @@
       {
        "t": "sfărâma",
        "w": "sfărâma",
-       "heb": "תֵּרוֹץ",
-       "translit": "teruts",
+       "heb": "תֵּרוֹץ",
+       "translit": "tēroț",
        "strong": "H7533",
-       "pos": "verb, qal imperfect",
+       "pos": "verb, nifal imperfect",
        "def_ro": "te vei sfărâma.",
+       "greek": "θλάω (thlao)",
+       "greek_def_ro": "θλάω (thlao) — a se sfărâma, a se sparge.",
        "dict_ro": "Rădăcina ratsats, „a sfărâma, a zdrobi” — verb ce descrie fragilitatea absolută a trestiei egiptene sub greutatea încrederii puse în ea, ilustrare directă a experienței istorice reale a lui Iuda cu promisiunile militare egiptene neonorate."
       },
       {
@@ -42640,11 +42741,13 @@
       {
        "t": "reazemă",
        "w": "reazemă",
-       "heb": "וּבְהִשָּׁעֲנָם",
-       "translit": "u-ve-hishsha'anam",
+       "heb": "וּבְהִשָּׁעֲנָם",
+       "translit": "uvhișaanam",
        "strong": "H8172",
-       "pos": "verb, nifal infinitiv",
+       "pos": "verb, nifal infinitiv + sufix",
        "def_ro": "se sprijină, se reazemă.",
+       "greek": "ἐπαναπαύομαι (epanapauomai)",
+       "greek_def_ro": "ἐπαναπαύομαι (epanapauomai) — a se odihni pe, a se rezema.",
        "dict_ro": "Rădăcina sha'an, „a se sprijini, a se rezema” — actul de încredere pusă în alianța egipteană, care se dovedește nu doar inutilă, ci activ dăunătoare: cel ce se sprijină pe trestia frântă se rănește el însuși, dublu eșec al oricărei speranțe puse acolo."
       },
       {
@@ -42692,11 +42795,13 @@
       {
        "t": "sabie",
        "w": "sabie",
-       "heb": "חֶרֶב",
-       "translit": "cherev",
+       "heb": "חָרֶב",
+       "translit": "harev",
        "strong": "H2719",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular",
        "def_ro": "sabie.",
+       "greek": "ῥομφαία (rhomphaia)",
+       "greek_def_ro": "ῥομφαία (rhomphaia) — sabie.",
        "dict_ro": "Cherev, „sabie” — simbol standard al invaziei militare la profeți; oracolul trece aici de la imaginea simbolică (crocodil, trestie) la anunțul direct și literal al distrugerii prin cucerire militară, treaptă de intensificare tipică structurii oracolelor profetice."
       },
       {
@@ -42706,10 +42811,12 @@
        "t": "om și dobitoc",
        "w": "om și dobitoc",
        "heb": "אָדָם וּבְהֵמָה",
-       "translit": "adam u-vehemah",
+       "translit": "adam uvhēma",
        "strong": "H120",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular + substantiv, feminin singular",
        "def_ro": "om și animal.",
+       "greek": "ἄνθρωπος καὶ κτῆνος (anthropos kai ktenos)",
+       "greek_def_ro": "ἄνθρωπος καὶ κτῆνος (anthropos kai ktenos) — oameni și dobitoace.",
        "dict_ro": "Adam u-vehemah, „om și animal” — formulă standard care desemnează distrugerea totală, fără excepție, a întregii vieți dintr-un teritoriu, folosită constant în oracolele de judecată (cf. Ieremia 7:20, 21:6)."
       },
       {
@@ -42753,11 +42860,13 @@
       {
        "t": "pustietate și ruină",
        "w": "pustietate și ruină",
-       "heb": "לִשְׁמָמָה וְחָרְבָּה",
-       "translit": "li-shmamah ve-chorbah",
+       "heb": "לִשְׁמָמָה וְחָרְבָּה",
+       "translit": "lișmama veharba",
        "strong": "H8077",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, feminin singular + substantiv, feminin singular",
        "def_ro": "pustiire și ruină.",
+       "greek": "ἀπώλεια καὶ ἔρημος (apoleia kai eremos)",
+       "greek_def_ro": "ἀπώλεια καὶ ἔρημος (apoleia kai eremos) — pieire și pustiire.",
        "dict_ro": "Shemamah, „pustiire” — cuvânt pereche cu chorbah, „ruină, dărâmătură”, formulă dublă de intensificare folosită constant pentru descrierea judecăților divine devastatoare, aici anticipând deja tema centrală a restului capitolului: cei patruzeci de ani de pustiire totală (v.11-12)."
       },
       {
@@ -42805,12 +42914,14 @@
       {
        "t": "Migdol",
        "w": "Migdol",
-       "heb": "מִגְדֹּל",
-       "translit": "Migdol",
+       "heb": "מִמִּגְדֹּל",
+       "translit": "mimigdol",
        "strong": "H4024",
        "pos": "nume propriu",
        "def_ro": "Migdol.",
-       "dict_ro": "Migdol, „turn” — localitate la extremitatea nord-estică a Egiptului, pe ruta spre Canaan (menționată și la Exod 14:2, ca reper geografic al traversării Mării Roșii); marchează aici hotarul nordic al pustiirii anunțate."
+       "greek": "Μάγδωλος (Magdolos)",
+       "greek_def_ro": "Μάγδωλος (Magdolos) — Migdol.",
+       "dict_ro": "Migdol, „turn” — localitate la extremitatea nord-estică a Egiptului, pe ruta spre Canaan (menționată și la Exodul 14:2, ca reper geografic al traversării Mării Roșii); marchează aici hotarul nordic al pustiirii anunțate."
       },
       {
        "t": "-"
@@ -42819,10 +42930,12 @@
        "t": "Sevene",
        "w": "Sevene",
        "heb": "סְוֵנֵה",
-       "translit": "Seveneh",
+       "translit": "sevēnē",
        "strong": "H5482",
        "pos": "nume propriu",
        "def_ro": "Sevene [Aswan].",
+       "greek": "Συήνη (Syene)",
+       "greek_def_ro": "Συήνη (Syene) — Sevene (Siene, azi Aswan).",
        "dict_ro": "Seveneh, orașul modern Aswan, la extremitatea sudică a Egiptului, aproape de granița cu Nubia — împreună cu Migdol la nord, formează perechea de hotare care încadrează întregul teritoriu egiptean, „de la un capăt la altul”."
       },
       {
@@ -42832,10 +42945,12 @@
        "t": "Cușului",
        "w": "Cușului",
        "heb": "כּוּשׁ",
-       "translit": "Kush",
+       "translit": "kuș",
        "strong": "H3568",
        "pos": "nume propriu",
        "def_ro": "Cuș [Nubia/Etiopia].",
+       "greek": "Αἰθίοψ (Aithiops)",
+       "greek_def_ro": "Αἰθίοψ (Aithiops) — Cuș, Etiopia.",
        "dict_ro": "Kush, regiunea de la sud de Egipt (aproximativ Nubia/Sudanul de astăzi) — hotarul sudic extrem, confirmând amploarea totală, de la un capăt geografic la celălalt, a pustiirii anunțate asupra întregului teritoriu egiptean."
       },
       {
@@ -42884,10 +42999,12 @@
        "t": "trece",
        "w": "trece",
        "heb": "תַעֲבָר",
-       "translit": "ta'avor",
+       "translit": "taavar",
        "strong": "H5674",
        "pos": "verb, qal imperfect",
        "def_ro": "va trece.",
+       "greek": "διέρχομαι (dierchomai)",
+       "greek_def_ro": "διέρχομαι (dierchomai) — a trece prin.",
        "dict_ro": "Rădăcina avar, „a trece” — repetat de două ori (pentru om și pentru animal), accentuând golirea completă a țării de orice prezență vie, nu doar distrugerea structurilor, ci absența oricărei mișcări sau activități."
       },
       {
@@ -42896,11 +43013,13 @@
       {
        "t": "locuită",
        "w": "locuită",
-       "heb": "תֵשֵׁב",
-       "translit": "teshev",
+       "heb": "תֵשֵׁב",
+       "translit": "tēșēv",
        "strong": "H3427",
        "pos": "verb, qal imperfect",
        "def_ro": "va fi locuită.",
+       "greek": "κατοικέω (katoikeo)",
+       "greek_def_ro": "κατοικέω (katoikeo) — a fi locuit.",
        "dict_ro": "Rădăcina yashav, „a locui, a se așeza” — la negativ, confirmă golirea completă și îndelungată a țării; perioada exactă de patruzeci de ani (numărul simbolic al unei generații întregi, cf. rătăcirea prin pustiu) marchează o pedeapsă severă, dar nu una veșnică — restaurarea promisă la v.13-14 pune un termen clar acestei pustiiri."
       },
       {
@@ -42909,12 +43028,14 @@
       {
        "t": "patruzeci de ani",
        "w": "patruzeci de ani",
-       "heb": "אַרְבָּעִים שָׁנָה",
-       "translit": "arba'im shanah",
+       "heb": "אַרְבָּעִים שָׁנָה",
+       "translit": "arbaim șana",
        "strong": "H705",
-       "pos": "numeral",
+       "pos": "numeral + substantiv, feminin singular",
        "def_ro": "patruzeci de ani.",
-       "dict_ro": "Arba'im shanah, „patruzeci de ani” — numărul simbolic clasic al unei generații complete în Biblie (rătăcirea prin pustiu, Exod 16:35; domnia lui David și Solomon), aici aplicat perioadei de pustiire a Egiptului, sugerând o pedeapsă temporară, deși severă, urmată sigur de restaurare."
+       "greek": "τεσσαράκοντα ἔτη (tessarakonta ete)",
+       "greek_def_ro": "τεσσαράκοντα ἔτη (tessarakonta ete) — patruzeci de ani.",
+       "dict_ro": "Arba'im shanah, „patruzeci de ani” — numărul simbolic clasic al unei generații complete în Biblie (rătăcirea prin pustiu, Exodul 16:35; domnia lui David și Solomon), aici aplicat perioadei de pustiire a Egiptului, sugerând o pedeapsă temporară, deși severă, urmată sigur de restaurare."
       },
       {
        "t": "."
@@ -42963,10 +43084,12 @@
        "t": "orașele ei",
        "w": "orașele ei",
        "heb": "וְעָרֶיהָ",
-       "translit": "ve-areha",
+       "translit": "veareha",
        "strong": "H5892",
-       "pos": "substantiv, feminin plural construct",
+       "pos": "substantiv, feminin plural construct + sufix",
        "def_ro": "cetățile ei.",
+       "greek": "πόλις (polis)",
+       "greek_def_ro": "πόλις (polis) — cetăți, orașe.",
        "dict_ro": "Ir, „cetate, oraș” — extinde pustiirea de la nivelul întregii țări la nivelul concret al fiecărui centru urban, o distrugere sistematică, nu doar o desemnare generală abstractă."
       },
       {
@@ -42976,10 +43099,12 @@
        "t": "împrăștia",
        "w": "împrăștia",
        "heb": "וַהֲפִצֹתִי",
-       "translit": "va-hafitsoti",
+       "translit": "vahafițoti",
        "strong": "H6327",
-       "pos": "verb, hifil perfect",
+       "pos": "verb, hifil perfect consecutiv",
        "def_ro": "îi voi împrăștia.",
+       "greek": "διασπείρω (diaspeiro)",
+       "greek_def_ro": "διασπείρω (diaspeiro) — a împrăștia.",
        "dict_ro": "Rădăcina puts, „a împrăștia” — aceeași rădăcină folosită la 28:25 pentru împrăștierea/exilul lui Israel — paralela structurală e deliberată: la fel cum Israel fusese împrăștiat printre neamuri, tot așa va fi acum Egiptul, dar cu o diferență esențială — Israel va fi adunat înapoi (28:25), pe când restaurarea Egiptului (v.13-14) îl va readuce doar la statutul de „regat neînsemnat”."
       },
       {
@@ -42989,10 +43114,12 @@
        "t": "risipi",
        "w": "risipi",
        "heb": "וְזֵרִיתִים",
-       "translit": "ve-zeritim",
+       "translit": "vezēritim",
        "strong": "H2219",
-       "pos": "verb, piel perfect",
+       "pos": "verb, piel perfect consecutiv + sufix",
        "def_ro": "îi voi risipi.",
+       "greek": "λικμάω (likmao)",
+       "greek_def_ro": "λικμάω (likmao) — a vântura, a risipi.",
        "dict_ro": "Rădăcina zarah, „a risipi, a vântura” — imagine agricolă, ca vânturarea grâului pentru separarea pleavei, aplicată aici la dispersarea forțată a populației egiptene printre alte țări."
       },
       {
@@ -43040,11 +43167,13 @@
       {
        "t": "aduna",
        "w": "aduna",
-       "heb": "אֲקַבֵּץ",
-       "translit": "akabbets",
+       "heb": "אֲקַבֵּץ",
+       "translit": "akabēț",
        "strong": "H6908",
        "pos": "verb, piel imperfect",
        "def_ro": "voi aduna.",
+       "greek": "συνάγω (synago)",
+       "greek_def_ro": "συνάγω (synago) — a aduna, a strânge.",
        "dict_ro": "Aceeași rădăcină kavats folosită la 28:25 pentru adunarea lui Israel — remarcabil, Dumnezeu promite un act de restaurare similar chiar și Egiptului, dușmanul judecat, confirmând un tipar teologic mai larg: judecata divină asupra națiunilor păgâne nu e niciodată ultimul cuvânt absolut, ci lasă loc unei restaurări limitate."
       },
       {
@@ -43089,11 +43218,13 @@
       {
        "t": "captivii Egiptului",
        "w": "captivii Egiptului",
-       "heb": "שְׁבוּת מִצְרַיִם",
-       "translit": "shevut Mitsrayim",
+       "heb": "שְׁבוּת",
+       "translit": "șevut",
        "strong": "H7622",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "captivitatea/robimea Egiptului.",
+       "greek": "αἰχμαλωσία (aichmalosia)",
+       "greek_def_ro": "αἰχμαλωσία (aichmalosia) — captivitate, robie.",
        "dict_ro": "Shevut, „captivitate, robie [întoarsă]” — formula „a întoarce captivitatea cuiva” (shuv shevut) e o expresie idiomatică standard pentru restaurarea din exil, folosită frecvent și pentru Israel însuși (cf. Ieremia 30:3) — dovadă a aceluiași tipar de restaurare aplicat, limitat, chiar și Egiptului."
       },
       {
@@ -43102,11 +43233,13 @@
       {
        "t": "Patrosului",
        "w": "Patrosului",
-       "heb": "פַּתְרוֹס",
-       "translit": "Patros",
+       "heb": "פַּתְרוֹס",
+       "translit": "patros",
        "strong": "H6624",
        "pos": "nume propriu",
        "def_ro": "Patros [Egiptul de Sus].",
+       "greek": "Φαθωρῆς (Phathores)",
+       "greek_def_ro": "Φαθωρῆς (Phathores) — Patros (Egiptul de Sus).",
        "dict_ro": "Patros — regiunea Egiptului de Sus (valea superioară a Nilului), aparent locul de origine ancestrală a poporului egiptean; restaurarea îi readuce nu la putere, ci la teritoriul lor originar, mai restrâns decât imperiul de odinioară."
       },
       {
@@ -43116,10 +43249,11 @@
        "t": "sălașluirilor lor",
        "w": "sălașluirilor lor",
        "heb": "מְכוּרָתָם",
-       "translit": "mekhuratam",
+       "translit": "mehuratam",
        "strong": "H4351",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "originea lor, locul nașterii lor.",
+       "diff_ro": "Septuaginta reformulează: „ὅθεν ἐλήφθησαν” („de unde au fost luați”), nu un substantiv pentru „locul de obârșie/sălaș” — aceeași idee, exprimată altfel, nu o traducere literală.",
        "dict_ro": "Mekhorah, „origine, loc de naștere” — cuvânt rar, subliniind o revenire la rădăcinile geografice originare, nu o restaurare a măreției imperiale trecute."
       },
       {
@@ -43128,11 +43262,13 @@
       {
        "t": "regat neînsemnat",
        "w": "regat neînsemnat",
-       "heb": "מַמְלָכָה שְׁפָלָה",
-       "translit": "mamlakhah shefalah",
+       "heb": "שְׁפָלָה",
+       "translit": "șefala",
        "strong": "H8217",
-       "pos": "adjectiv, feminin",
+       "pos": "adjectiv, feminin singular",
        "def_ro": "regat smerit, umil.",
+       "greek": "ταπεινός (tapeinos)",
+       "greek_def_ro": "ταπεινός (tapeinos) — smerit, umil.",
        "dict_ro": "Shafal, „jos, smerit, neînsemnat” — contrastul final și definitiv cu aroganța de la v.3 („eu m-am creat”): Egiptul va exista în continuare, dar niciodată nu va mai recăpăta statutul de mare putere dominantă — o umilire permanentă, nu doar o pedeapsă trecătoare."
       },
       {
@@ -43179,11 +43315,13 @@
       {
        "t": "înălța",
        "w": "înălța",
-       "heb": "תִתְנַשֵּׂא",
-       "translit": "titnase",
+       "heb": "תִתְנַשֵּׂא",
+       "translit": "titnasē",
        "strong": "H5375",
        "pos": "verb, hitpael imperfect",
        "def_ro": "se va înălța pe sine.",
+       "greek": "ὑψόω (hypsoo)",
+       "greek_def_ro": "ὑψόω (hypsoo) — a se înălța.",
        "dict_ro": "Rădăcina nasa, „a ridica”, la forma reflexivă hitpael, „a se înălța pe sine” — verb care descrie exact atitudinea aroganței auto-suficiente respinsă la v.3, acum interzisă definitiv Egiptului ca posibilitate viitoare."
       },
       {
@@ -43192,11 +43330,13 @@
       {
        "t": "impuțina",
        "w": "impuțina",
-       "heb": "וְהִמְעַטְתִּים",
-       "translit": "ve-him'attitim",
+       "heb": "וְהִמְעַטְתִּים",
+       "translit": "vehimattim",
        "strong": "H4591",
-       "pos": "verb, hifil perfect",
+       "pos": "verb, hifil perfect consecutiv + sufix",
        "def_ro": "îi voi micșora, îi voi împuțina.",
+       "greek": "ὀλιγοστός (oligostos)",
+       "greek_def_ro": "ὀλιγοστός (oligostos) — puțin la număr.",
        "dict_ro": "Rădăcina ma'at, „a fi puțin, a micșora” — reducerea deliberată a populației și puterii egiptene, garanție suplimentară că restaurarea promisă nu va permite niciodată revenirea la statutul anterior de mare putere."
       },
       {
@@ -43210,6 +43350,7 @@
        "strong": "H7287",
        "pos": "verb, qal infinitiv",
        "def_ro": "să stăpânească, să domine.",
+       "diff_ro": "Septuaginta are generic „πλείονας” („mai mulți/numeroși”), nu imaginea specifică de dominare/călcare în picioare (redot) din ebraică.",
        "dict_ro": "Rădăcina radah, „a stăpâni, a domina” — aceeași rădăcină ca la porunca dată omului la Geneza 1:28 („stăpâniți peste pământ”); aici, interzisă explicit Egiptului față de alte neamuri, o limitare permanentă a ambiției lui imperiale."
       },
       {
@@ -43269,11 +43410,13 @@
       {
        "t": "sprijin",
        "w": "sprijin",
-       "heb": "מִבְטָח",
-       "translit": "mivtach",
+       "heb": "לְמִבְטָח",
+       "translit": "lemivtah",
        "strong": "H4009",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "încredere, sprijin.",
+       "greek": "ἐλπίς (elpis)",
+       "greek_def_ro": "ἐλπίς (elpis) — speranță, nădejde.",
        "dict_ro": "Mivtach, „încredere, sprijin” — aceeași rădăcină ca betach folosit la 28:26 pentru siguranța promisă lui Israel; contrastul e deliberat: siguranța adevărată a lui Israel nu va mai veni niciodată dintr-o alianță politică falsă cu Egiptul, ci direct de la Dumnezeu."
       },
       {
@@ -43282,11 +43425,13 @@
       {
        "t": "aducere-aminte",
        "w": "aducere-aminte",
-       "heb": "מַזְכִּיר",
+       "heb": "מַזְכִּיר",
        "translit": "mazkir",
        "strong": "H2142",
        "pos": "verb, hifil participiu",
        "def_ro": "aducător-aminte, amintind.",
+       "greek": "ἀναμιμνήσκω (anamimnesko)",
+       "greek_def_ro": "ἀναμιμνήσκω (anamimnesko) — a aduce aminte.",
        "dict_ro": "Rădăcina zakhar, „a-și aduce aminte” — la forma cauzativă, „cel ce amintește/face să se rememoreze”; orice alianță viitoare cu Egiptul ar rămâne, permanent, un memento dureros al greșelii repetate de a căuta sprijin politic în afara încrederii exclusive în Dumnezeu."
       },
       {
@@ -43295,11 +43440,13 @@
       {
        "t": "păcatului",
        "w": "păcatului",
-       "heb": "עָוֹן",
+       "heb": "עָוֺן",
        "translit": "avon",
        "strong": "H5771",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "vina, păcatul.",
+       "greek": "ἀνομία (anomia)",
+       "greek_def_ro": "ἀνομία (anomia) — fărădelege.",
        "dict_ro": "Avon, „vină, păcat” — desemnează aici concret alianța politică cu Egiptul ca pe un act de necredință față de Dumnezeu, nu o simplă greșeală strategică militară, ci o încălcare morală/religioasă a încrederii exclusive datorate DOMNULUI."
       },
       {
@@ -43348,11 +43495,13 @@
       {
        "t": "anul al douăzeci și șaptelea",
        "w": "anul al douăzeci și șaptelea",
-       "heb": "עֶשְׂרִים וָשֶׁבַע שָׁנָה",
-       "translit": "esrim va-sheva shanah",
+       "heb": "בְּעֶשְׂרִים וָשֶׁבַע שָׁנָה",
+       "translit": "beesrim vașeva șana",
        "strong": "H6242",
-       "pos": "numeral",
+       "pos": "numeral + numeral + substantiv, feminin singular",
        "def_ro": "anul al douăzeci și șaptelea.",
+       "greek": "ἕβδομος καὶ εἰκοστός (hebdomos kai eikostos)",
+       "greek_def_ro": "ἕβδομος καὶ εἰκοστός (hebdomos kai eikostos) — al douăzeci și șaptelea.",
        "dict_ro": "Anul al douăzeci și șaptelea al exilului lui Iehoiachin (aprox. 571 î.Hr.) — cea mai târzie dată exactă din toată cartea lui Ezechiel, plasând acest oracol final la aproximativ șaisprezece ani după cel din v.1-16, după ce profeția inițială a asediului Tirului (13 ani, neamintit direct aici, dar presupus împlinit fără prada promisă) nu s-a materializat cum se aștepta."
       },
       {
@@ -43397,11 +43546,13 @@
       {
        "t": "Nabucodonosor",
        "w": "Nabucodonosor",
-       "heb": "נְבוּכַדְרֶאצַּר",
-       "translit": "Nevukhadretsar",
+       "heb": "נְבוּכַדְרֶאצַּר",
+       "translit": "nevuhadrețar",
        "strong": "H5019",
        "pos": "nume propriu",
        "def_ro": "Nabucodonosor.",
+       "greek": "Ναβουχοδονόσορ (Nabouchodonosor)",
+       "greek_def_ro": "Ναβουχοδονόσορ (Nabouchodonosor) — Nabucodonosor.",
        "dict_ro": "Nevukhadretsar — regele Babilonului (605-562 î.Hr.), unealta principală a judecății divine în toată cartea lui Ezechiel, atât asupra lui Iuda, cât și, aici, asupra Tirului și Egiptului — un instrument istoric real folosit teologic pentru împlinirea planurilor divine, fără ca el însuși să fie conștient de acest rol."
       },
       {
@@ -43411,10 +43562,12 @@
        "t": "Tirului",
        "w": "Tirului",
        "heb": "צֹר",
-       "translit": "Tsor",
+       "translit": "țor",
        "strong": "H6865",
        "pos": "nume propriu",
        "def_ro": "Tir.",
+       "greek": "Τύρος (Tyros)",
+       "greek_def_ro": "Τύρος (Tyros) — Tir.",
        "dict_ro": "Tsor, Tirul — marele port fenician, asediat îndelung (13 ani, conform tradiției istorice) de Nabucodonosor; asediul prelungit, dus mai ales pe uscat împotriva unei cetăți-insulă greu accesibile, a epuizat armata babiloniană fără câștigul de pradă obișnuit al unei cuceriri."
       },
       {
@@ -43423,11 +43576,13 @@
       {
        "t": "cap este chel",
        "w": "cap este chel",
-       "heb": "כָּל־רֹאשׁ מֻקְרָח",
-       "translit": "kol-rosh mukrach",
+       "heb": "רֹאשׁ מֻקְרָח",
+       "translit": "roș mukrah",
        "strong": "H7139",
-       "pos": "verb, hofal participiu",
+       "pos": "substantiv, masculin singular + verb, hofal participiu pasiv",
        "def_ro": "orice cap e pleșuv.",
+       "greek": "κεφαλὴ φαλακρά (kephale phalakra)",
+       "greek_def_ro": "κεφαλὴ φαλακρά (kephale phalakra) — cap chel.",
        "dict_ro": "Rădăcina karach, „a fi chel, pleșuv” — imagine fizică a epuizării extreme a soldaților: pierderea părului de pe cap, cauzată probabil de purtarea îndelungată a coifurilor de asediu sau de efortul fizic constant al transportului materialelor de construcție a rampelor de asalt."
       },
       {
@@ -43436,11 +43591,13 @@
       {
        "t": "umăr zdrelit",
        "w": "umăr zdrelit",
-       "heb": "כָתֵף מְרוּטָה",
-       "translit": "katef merutah",
+       "heb": "כָּתֵף מְרוּטָה",
+       "translit": "katēf meruta",
        "strong": "H4803",
-       "pos": "verb, qal pasiv participiu",
+       "pos": "substantiv, feminin singular + verb, qal participiu pasiv",
        "def_ro": "umăr jupuit, zdrelit.",
+       "greek": "ὦμος μαδῶν (omos madon)",
+       "greek_def_ro": "ὦμος μαδῶν (omos madon) — umăr jupuit.",
        "dict_ro": "Rădăcina marat, „a smulge, a jupui” — completează imaginea suferinței fizice reale a soldaturilor, umerii răniți de cărarea constantă a materialelor grele pentru construcția lucrărilor de asediu, un detaliu concret, aproape documentar, al costului militar uman al campaniei."
       },
       {
@@ -43449,11 +43606,13 @@
       {
        "t": "răsplată",
        "w": "răsplată",
-       "heb": "שָׂכָר",
-       "translit": "sakhar",
+       "heb": "וְשָׂכָר",
+       "translit": "vesahar",
        "strong": "H7939",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular",
        "def_ro": "plată, răsplată.",
+       "greek": "μισθός (misthos)",
+       "greek_def_ro": "μισθός (misthos) — plată, răsplată.",
        "dict_ro": "Sakhar, „plată, răsplată” — termenul-cheie al întregului pasaj: efortul militar imens (v.18) rămâne fără compensația așteptată din partea Tirului, ceea ce motivează direct promisiunea următoare (v.19-20) a Egiptului ca „plată” alternativă oferită de Dumnezeu Însuși."
       },
       {
@@ -43502,8 +43661,9 @@
        "heb": "הֲמֹנָהּ",
        "translit": "hamonah",
        "strong": "H1995",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "mulțimea ei, belșugul ei.",
+       "diff_ro": "Septuaginta are „τὴν προνομὴν” („prada de război”), nu „mulțimea/populația” — o imagine diferită, de pradă materială, nu de populație capturată.",
        "dict_ro": "Hamon, „mulțime, belșug, tumult” — cuvânt cu dublu sens, desemnând atât populația numeroasă a Egiptului, cât și bogăția/abundența lui materială — Nabucodonosor va lua ambele, oameni și avere deopotrivă."
       },
       {
@@ -43512,11 +43672,13 @@
       {
        "t": "pradă",
        "w": "pradă",
-       "heb": "שְׁלָלָהּ",
-       "translit": "shelalah",
+       "heb": "שְׁלָלָהּ",
+       "translit": "șelalah",
        "strong": "H7998",
-       "pos": "substantiv, masculin construct",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "prada ei.",
+       "greek": "σκῦλα (skyla)",
+       "greek_def_ro": "σκῦλα (skyla) — prăzi de război.",
        "dict_ro": "Shalal, „pradă de război” — recompensa materială promisă direct de Dumnezeu armatei babiloniene, compensând explicit lipsa de câștig menționată la v.18 în urma asediului Tirului."
       },
       {
@@ -43525,11 +43687,12 @@
       {
        "t": "bogăția",
        "w": "bogăția",
-       "heb": "בִּזָּהּ",
-       "translit": "bizzah",
+       "heb": "בִּזָּהּ",
+       "translit": "bizah",
        "strong": "H957",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "jaful ei, bogăția ei jefuită.",
+       "diff_ro": "Septuaginta redă printr-un singur termen (σκῦλα, „prăzi”) ambele cuvinte ebraice pentru pradă și bogăție, fără să le distingă.",
        "dict_ro": "Bizzah, „jaf, pradă” — sinonim aproape complet cu shalal din aceeași frază, o dublare stilistică tipică poeziei profetice pentru accentuare, confirmând amploarea totală a jafului promis ca „plată” armatei babiloniene."
       },
       {
@@ -43579,11 +43742,13 @@
       {
        "t": "lucrarea sa",
        "w": "lucrarea sa",
-       "heb": "פְּעֻלָּתוֹ",
-       "translit": "pe'ullato",
+       "heb": "פְּעֻלָּתוֹ",
+       "translit": "peulato",
        "strong": "H6468",
-       "pos": "substantiv, feminin construct",
+       "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "lucrarea/truda lui.",
+       "greek": "λειτουργία (leitourgia)",
+       "greek_def_ro": "λειτουργία (leitourgia) — slujire, lucrare.",
        "dict_ro": "Pe'ullah, „lucrare, faptă, plată pentru muncă” — cuvânt care poate însemna atât „efortul depus”, cât și „răsplata cuvenită pentru el”, dublu sens care rezumă exact tranzacția descrisă în acest verset final al secțiunii: munca depusă la Tir e răscumpărată prin darul Egiptului."
       },
       {
@@ -43594,8 +43759,8 @@
        "w": "pentru Mine",
        "heb": "לִי",
        "translit": "li",
-       "strong": "H0",
-       "pos": "prepoziție cu sufix",
+       "strong": "",
+       "pos": "prepoziție + sufix",
        "def_ro": "pentru Mine.",
        "dict_ro": "Remarcabilă declarația finală: efortul militar al lui Nabucodonosor împotriva Tirului, deși motivat politic și economic din perspectiva babiloniană, e reinterpretat teologic de Dumnezeu ca fiind făcut, în ultimă instanță, „pentru Mine” — confirmarea explicită a suveranității divine asupra istoriei, chiar și asupra acțiunilor unor conducători păgâni care nu-L cunosc și nu-L slujesc conștient."
       },
@@ -43644,10 +43809,12 @@
        "t": "înflorească",
        "w": "înflorească",
        "heb": "אַצְמִיחַ",
-       "translit": "atsmiach",
+       "translit": "ațmiah",
        "strong": "H6779",
        "pos": "verb, hifil imperfect",
        "def_ro": "voi face să răsară, să crească.",
+       "greek": "ἀνατέλλω (anatello)",
+       "greek_def_ro": "ἀνατέλλω (anatello) — a răsări, a înflori.",
        "dict_ro": "Rădăcina tsamach, „a răsări, a crește” — folosită adesea pentru vegetație, dar și metaforic pentru ridicarea puterii (cf. „odrasla” mesianică, Ieremia 23:5, folosind aceeași rădăcină) — un final de secțiune neașteptat de pozitiv, promițând restaurarea puterii lui Israel exact în contextul umilirii Egiptului."
       },
       {
@@ -43659,9 +43826,11 @@
        "heb": "קֶרֶן",
        "translit": "keren",
        "strong": "H7161",
-       "pos": "substantiv, feminin",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "cornul, puterea.",
-       "dict_ro": "Keren, „corn” — simbol biblic standard al puterii și demnității (cf. „va înălța cornul poporului Său”, Psalmii 148:14), imagine luată din cornul animalului ca armă și semn de forță; „înălțarea cornului” înseamnă restaurarea onoarei și autorității naționale."
+       "greek": "κέρας (keras)",
+       "greek_def_ro": "κέρας (keras) — corn (simbol al puterii).",
+       "dict_ro": "Keren, „corn” — simbol biblic standard al puterii și demnității (cf. „va înălța cornul poporului Său”, Psalmul 148:14), imagine luată din cornul animalului ca armă și semn de forță; „înălțarea cornului” înseamnă restaurarea onoarei și autorității naționale."
       },
       {
        "t": " casei lui Israel și te voi "
@@ -43669,11 +43838,12 @@
       {
        "t": "răzbuna",
        "w": "răzbuna",
-       "heb": "פִּתְחוֹן־פֶּה",
-       "translit": "pitchon-peh",
+       "heb": "פִּתְחוֹן",
+       "translit": "pithon",
        "strong": "H6610",
-       "pos": "substantiv, masculin",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "deschiderea gurii, îndreptățire de a vorbi.",
+       "diff_ro": "Septuaginta are „στόμα ἀνεῳγμένον” („gură deschisă”, libertatea de a vorbi), nu imaginea răzbunării din ebraică — o divergență semantică reală, nu doar stilistică.",
        "dict_ro": "Pitchon peh, literal „deschiderea gurii” — expresie idiomatică rară, însemnând recunoașterea publică a autorității/dreptății cuiva de a vorbi, aici aplicată direct lui Ezechiel: adeverirea împlinită a profețiilor sale (Tir, Egipt) îi va da, în sfârșit, credibilitate deplină înaintea poporului exilat, care se îndoise adesea de cuvântul lui."
       },
       {
