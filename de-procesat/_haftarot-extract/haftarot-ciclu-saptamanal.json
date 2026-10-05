@@ -84968,11 +84968,13 @@
       {
        "t": "Anatot",
        "w": "Anatot",
-       "heb": "בַּעֲנָתוֹת",
-       "translit": "baAnatot",
+       "heb": "בַּעֲנָתוֹת",
+       "translit": "baanatot",
        "strong": "H6068",
-       "pos": "prepoziție + nume propriu",
+       "pos": "nume propriu",
        "def_ro": "Anatot, cetate preoțească în Beniamin.",
+       "greek": "Ἀναθώθ (Anathoth)",
+       "greek_def_ro": "Ἀναθώθ (Anathoth) — Anatot.",
        "dict_ro": "Anatot — cetate a preoților în ținutul lui Beniamin, la câțiva kilometri nord-est de Ierusalim (Iosua 21:18), unde fusese trimis în exil preotul Abiatar (1 Împărați 2:26). Ieremia e deci preot din Anatot, iar oamenii cetății lui vor fi primii care vor încerca să-l ucidă (Ieremia 11:21). Radak aduce părerea tatălui său că Hilkiahu, tatăl lui Ieremia, e marele preot care a găsit cartea Torei în Templu (2 Împărați 22:8). Rashi citează o tradiție potrivit căreia Ieremia se trăgea din Rahav, iar Talmudul (Meghila 14b) îl numără printre cei opt profeți și preoți născuți din ea."
       },
       {
@@ -85033,11 +85035,13 @@
       {
        "t": "Ioșiahu",
        "w": "Ioșiahu",
-       "heb": "יֹאשִׁיָּהוּ",
-       "translit": "Ioșiiahu",
+       "heb": "יֹאשִׁיָּהוּ",
+       "translit": "ioșiahu",
        "strong": "H2977",
        "pos": "nume propriu",
        "def_ro": "Iosia, regele lui Iuda (640-609 î.Hr.).",
+       "greek": "Ἰωσίας (Iosias)",
+       "greek_def_ro": "Ἰωσίας (Iosias) — Iosia (transliterarea grecească).",
        "dict_ro": "Ioșiahu — regele reformator al lui Iuda, care a curățat Templul și țara de idoli după găsirea cărții Torei (2 Împărați 22-23). „Anul al treisprezecelea al domniei” corespunde anului 627 î.Hr. Radak observă că în acel an reforma nu începuse încă: ea a venit abia în anul al optsprezecelea, deci Ieremia a început să profețească într-un Iuda încă nepocăit. Rashi: „la care a venit cuvântul DOMNULUI” — atunci a început Șehina să se odihnească asupra lui."
       },
       {
@@ -85088,11 +85092,13 @@
       {
        "t": "a fost exilat",
        "w": "a fost exilat",
-       "heb": "גְּלוֹת",
-       "translit": "ghelot",
+       "heb": "גְּלוֹת",
+       "translit": "gelot",
        "strong": "H1540",
-       "pos": "verb, qal, infinitiv construit",
+       "pos": "verb, qal infinitiv",
        "def_ro": "exilarea, ducerea în robie.",
+       "greek": "αἰχμαλωσία (aichmalosia)",
+       "greek_def_ro": "αἰχμαλωσία (aichmalosia) — captivitate, exil.",
        "dict_ro": "Gala — „a descoperi, a dezveli”, apoi „a pleca în exil” (a lăsa țara „descoperită”); de aici gola, galut — exilul. Profeția lui Ieremia cuprinde patruzeci de ani, până la dărâmarea Ierusalimului „în luna a cincea” — luna Av, cum precizează Metzudat David, când a fost ars Templul (2 Împărați 25:8). De aici legătura haftarei cu perioada în care e citită: e prima dintre cele trei haftarot „ale pedepsei”, citite între 17 Tamuz și 9 Av."
       },
       {
@@ -85150,11 +85156,13 @@
       {
        "t": "Cuvântul DOMNULUI",
        "w": "Cuvântul DOMNULUI",
-       "heb": "דְבַר־יְהוָה",
-       "translit": "devar-ADONAI",
+       "heb": "דְבַר",
+       "translit": "devar",
        "strong": "H1697",
-       "pos": "substantiv, masculin singular, în construcție + numele divin",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "cuvântul DOMNULUI.",
+       "greek": "λόγος (logos)",
+       "greek_def_ro": "λόγος (logos) — cuvânt.",
        "dict_ro": "Davar — „cuvânt”, dar și „lucru, faptă”: în ebraică, cuvântul lui Dumnezeu nu e doar vorbire, ci realitate care se împlinește. Formula „cuvântul DOMNULUI a venit la mine” e semnătura profetului: el nu vorbește de la sine, ci transmite ce i s-a spus. Metzudat David: „și acestea sunt cuvintele lui Ieremia pe care le-a spus lui Israel”. Aici începe relatarea chemării, la persoana întâi."
       },
       {
@@ -85200,12 +85208,14 @@
       {
        "t": "te-am sfințit",
        "w": "te-am sfințit",
-       "heb": "הִקְדַּשְׁתִּיךָ",
+       "heb": "הִקְדַּשְׁתִּיךָ",
        "translit": "hikdaștiha",
        "strong": "H6942",
-       "pos": "verb, hifil, perfect, persoana I singular + sufix persoana a II-a masculin singular",
+       "pos": "verb, hifil perfect + sufix",
        "def_ro": "te-am pus deoparte, te-am consacrat.",
-       "dict_ro": "Kadaș (hifil) — „a pune deoparte pentru Dumnezeu, a consacra”. Chemarea lui Ieremia precede nașterea lui: „te-am cunoscut” (yedaatiha) înseamnă, după Metzudat Țion, „te-am ales, am luat seama la tine”, ca în Exod 33:12. Rashi aduce tradiția că Dumnezeu i-a arătat lui Adam fiecare generație și profeții ei. „Profet pentru neamuri” — Rashi, după Sifre, citește „pentru Israel, care se poartă ca neamurile”, iar Metzudat David: pentru profețiile despre toate neamurile. Pavel reia limbajul în Galateni 1:15."
+       "greek": "ἁγιάζω (hagiazo)",
+       "greek_def_ro": "ἁγιάζω (hagiazo) — a sfinți, a consacra.",
+       "dict_ro": "Kadaș (hifil) — „a pune deoparte pentru Dumnezeu, a consacra”. Chemarea lui Ieremia precede nașterea lui: „te-am cunoscut” (yedaatiha) înseamnă, după Metzudat Țion, „te-am ales, am luat seama la tine”, ca în Exodul 33:12. Rashi aduce tradiția că Dumnezeu i-a arătat lui Adam fiecare generație și profeții ei. „Profet pentru neamuri” — Rashi, după Sifre, citește „pentru Israel, care se poartă ca neamurile”, iar Metzudat David: pentru profețiile despre toate neamurile. Pavel reia limbajul în Galateni 1:15."
       },
       {
        "t": ", profet te-am făcut pentru neamuri.”"
@@ -85265,7 +85275,9 @@
        "strong": "H5288",
        "pos": "substantiv, masculin singular",
        "def_ro": "tânăr, băiat.",
-       "dict_ro": "Naar — tânăr, băiat, dar și slujitor (ca Iosua, „tânărul” slujitor al lui Moise, Exod 33:11 — o posibilitate pe care Radak o ia în calcul). Refuzul lui Ieremia amintește de al lui Moise („nu sunt om al cuvântului”, Exod 4:10). Rashi explică: nu sunt vrednic să-i mustru; Moise i-a mustrat abia la sfârșitul vieții, după ce îl prețuiau pentru minunile făcute, iar eu vin să-i mustru chiar la începutul misiunii mele. Radak observă că și Samuel era tânăr la începutul profeției lui."
+       "greek": "νεώτερος (neoteros)",
+       "greek_def_ro": "νεώτερος (neoteros) — tânăr, mai tânăr.",
+       "dict_ro": "Naar — tânăr, băiat, dar și slujitor (ca Iosua, „tânărul” slujitor al lui Moise, Exodul 33:11 — o posibilitate pe care Radak o ia în calcul). Refuzul lui Ieremia amintește de al lui Moise („nu sunt om al cuvântului”, Exodul 4:10). Rashi explică: nu sunt vrednic să-i mustru; Moise i-a mustrat abia la sfârșitul vieții, după ce îl prețuiau pentru minunile făcute, iar eu vin să-i mustru chiar la începutul misiunii mele. Radak observă că și Samuel era tânăr la începutul profeției lui."
       },
       {
        "t": ".”"
@@ -85323,11 +85335,13 @@
       {
        "t": "te voi trimite",
        "w": "te voi trimite",
-       "heb": "אֶשְׁלָחֲךָ",
+       "heb": "אֶשְׁלָחֲךָ",
        "translit": "eșlahaha",
        "strong": "H7971",
-       "pos": "verb, qal, imperfect, persoana I singular + sufix persoana a II-a masculin singular",
+       "pos": "verb, qal imperfect + sufix",
        "def_ro": "te voi trimite.",
+       "greek": "ἐξαποστέλλω (exapostello)",
+       "greek_def_ro": "ἐξαποστέλλω (exapostello) — a trimite.",
        "dict_ro": "Șalah — „a trimite”; profetul e un trimis, iar autoritatea lui vine de la cel care îl trimite, nu din vârstă sau elocvență. Rashi împarte versetul: „oriunde te voi trimite” — la neamuri; „orice îți voi porunci” — lui Israel. Radak explică concret: chemarea i-a venit la Anatot, dar Dumnezeu voia să-l trimită la Ierusalim, la curtea regelui, unde nu era obișnuit, și îi făgăduiește să-i întărească inima."
       },
       {
@@ -85381,12 +85395,14 @@
       {
        "t": "Nu te teme",
        "w": "Nu te teme",
-       "heb": "אַל־תִּירָא",
-       "translit": "al-tira",
+       "heb": "תִּירָא",
+       "translit": "tira",
        "strong": "H3372",
-       "pos": "negație + verb, qal, jusiv, persoana a II-a masculin singular",
+       "pos": "verb, qal jusiv",
        "def_ro": "nu te teme.",
-       "dict_ro": "Yare — „a se teme”. „Nu te teme... căci Eu sunt cu tine” e formula prin care Dumnezeu îi încurajează pe Isaac, pe Iacov, pe Moise (Exod 3:12) și pe Iosua (Iosua 1:9). Radak precizează cu realism ce e făgăduit: nu că nu-l vor atinge, ci că nu-l vor ucide — și într-adevăr, Ieremia va fi bătut, închis și aruncat într-o groapă cu noroi (Ieremia 20; 38), dar va fi salvat de fiecare dată."
+       "greek": "φοβέομαι (phobeomai)",
+       "greek_def_ro": "φοβέομαι (phobeomai) — a se teme.",
+       "dict_ro": "Yare — „a se teme”. „Nu te teme... căci Eu sunt cu tine” e formula prin care Dumnezeu îi încurajează pe Isaac, pe Iacov, pe Moise (Exodul 3:12) și pe Iosua (Iosua 1:9). Radak precizează cu realism ce e făgăduit: nu că nu-l vor atinge, ci că nu-l vor ucide — și într-adevăr, Ieremia va fi bătut, închis și aruncat într-o groapă cu noroi (Ieremia 20; 38), dar va fi salvat de fiecare dată."
       },
       {
        "t": " înaintea lor, căci Eu sunt cu tine ca să te salvez – rostirea DOMNULUI.”"
@@ -85438,12 +85454,14 @@
       {
        "t": "mi-a atins",
        "w": "mi-a atins",
-       "heb": "וַיַּגַּע",
+       "heb": "וַיַּגַּע",
        "translit": "vaiaga",
        "strong": "H5060",
-       "pos": "verb, hifil, imperfect consecutiv, persoana a III-a masculin singular",
+       "pos": "verb, hifil imperfect consecutiv",
        "def_ro": "a atins.",
-       "dict_ro": "Naga (hifil) — „a atinge, a face să ajungă”. Gestul amintește de chemarea lui Isaia, căruia serafimul i-a atins buzele cu un cărbune aprins (Isaia 6:7); Radak observă că în ambele locuri verbul e același. „Am pus cuvintele Mele în gura ta” reia făgăduința despre profetul ca Moise: „voi pune cuvintele Mele în gura lui” (Deuteronom 18:18). Metzudat David: în vedenie i s-a părut că DOMNUL și-a întins mâna și i-a atins gura, ca și cum i-ar pune profeția în gură."
+       "greek": "ἅπτομαι (haptomai)",
+       "greek_def_ro": "ἅπτομαι (haptomai) — a atinge.",
+       "dict_ro": "Naga (hifil) — „a atinge, a face să ajungă”. Gestul amintește de chemarea lui Isaia, căruia serafimul i-a atins buzele cu un cărbune aprins (Isaia 6:7); Radak observă că în ambele locuri verbul e același. „Am pus cuvintele Mele în gura ta” reia făgăduința despre profetul ca Moise: „voi pune cuvintele Mele în gura lui” (Deuteronomul 18:18). Metzudat David: în vedenie i s-a părut că DOMNUL și-a întins mâna și i-a atins gura, ca și cum i-ar pune profeția în gură."
       },
       {
        "t": " gura; și DOMNUL mi-a spus: „Iată, am pus cuvintele Mele în gura ta."
@@ -85506,8 +85524,10 @@
        "heb": "לִנְתוֹשׁ",
        "translit": "lintoș",
        "strong": "H5428",
-       "pos": "prepoziție + verb, qal, infinitiv",
+       "pos": "verb, qal infinitiv",
        "def_ro": "a smulge din rădăcină.",
+       "greek": "ἐκριζόω (ekrizoo)",
+       "greek_def_ro": "ἐκριζόω (ekrizoo) — a dezrădăcina, a smulge din rădăcină.",
        "dict_ro": "Nataș — „a dezrădăcina”. Misiunea lui Ieremia are șase verbe: patru de distrugere (a smulge, a dărâma, a nimici, a surpa) și două de construire (a zidi, a sădi); perechea „a zidi și a sădi” revine ca un refren al speranței în toată cartea (Ieremia 24:6; 31:28). Radak explică dezechilibrul: au fost mai multe profeții de rău decât de bine; iar cuvântul profetului are putere, căci „cum vei profeți asupra lor, așa va veni asupra lor”. Rashi, după Targum: smulgerea privește neamurile, zidirea — Israelul, dacă va asculta."
       },
       {
@@ -85568,11 +85588,12 @@
       {
        "t": "migdal",
        "w": "migdal",
-       "heb": "שָׁקֵד",
-       "translit": "șaked",
+       "heb": "שָׁקֵד",
+       "translit": "șakēd",
        "strong": "H8247",
        "pos": "substantiv, masculin singular",
        "def_ro": "migdal (arborele și fructul).",
+       "diff_ro": "Septuaginta are aici „καρυΐνην\" („de nuc\"), nu „de migdal\" (șaked) ca în ebraică — o traducere diferită a lemnului, care pierde jocul de cuvinte cu „șoked\" („veghez, grăbesc\") din versetul următor.",
        "dict_ro": "Șaked — migdalul, primul pom care înflorește în Țara lui Israel, spre sfârșitul iernii; numele lui vine de la șakad, „a veghea, a fi treaz”: pomul „care se trezește” primul. Toiagul de migdal amintește de toiagul lui Aaron, care a înmugurit și a făcut migdale (Numeri 17, în pericopa Korah). Radak observă că Ieremia a recunoscut lemnul chiar fără frunze și flori — de aceea i se spune „ai văzut bine”. Targumul, citat de Rashi, citește altfel: „un rege grăbit să facă rău”."
       },
       {
@@ -85632,11 +85653,13 @@
       {
        "t": "zoresc",
        "w": "zoresc",
-       "heb": "שֹׁקֵד",
-       "translit": "șoked",
+       "heb": "שֹׁקֵד",
+       "translit": "șokēd",
        "strong": "H8245",
-       "pos": "verb, qal, participiu, masculin singular",
+       "pos": "verb, qal participiu",
        "def_ro": "veghez, sunt treaz, mă grăbesc.",
+       "greek": "γρηγορέω (gregoreo)",
+       "greek_def_ro": "γρηγορέω (gregoreo) — a vegea, a fi atent, a grăbi.",
        "dict_ro": "Șakad — „a veghea, a sta treaz, a se grăbi”; jocul de cuvinte cu șaked, „migdal”, vine din aceeași rădăcină. Rashi: precum migdalul se grăbește să înflorească înaintea tuturor pomilor, așa Mă grăbesc și Eu să-Mi împlinesc cuvântul. Midrașul adus de Rashi calculează: de la înflorirea migdalului până la coacere sunt douăzeci și una de zile — câte sunt între 17 Tamuz, când a fost spart zidul Ierusalimului, și 9 Av, când a ars Templul. Tocmai în aceste zile se citește haftara."
       },
       {
@@ -85692,11 +85715,13 @@
       {
        "t": "un cazan clocotind",
        "w": "un cazan clocotind",
-       "heb": "סִיר נָפוּחַ",
-       "translit": "sir nafuah",
+       "heb": "סִיר",
+       "translit": "sir",
        "strong": "H5518",
-       "pos": "substantiv + verb, qal, participiu pasiv",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "un cazan care fierbe, suflat (de foc).",
+       "greek": "λέβης (lebes)",
+       "greek_def_ro": "λέβης (lebes) — cazan, oală.",
        "dict_ro": "Sir nafuah — literal „un cazan suflat”, adică încins de focul ațâțat prin suflare, care clocotește și dă în spumă (Metzudat Țion: ca „cazanul care fierbe” din Iov 41). Metzudat David explică imaginea: ca într-un cazan în care se adună bucățile de carne și apoi sunt fierte, așa toți vor fi închiși în cetatea asediată, iar dușmanul va lupta împotriva ei; Ezechiel folosește aceeași pildă a cazanului (Ezechiel 24:3-14). Gura cazanului e spre nord, de unde va veni Babilonul."
       },
       {
@@ -85755,11 +85780,13 @@
       {
        "t": "miazănoapte",
        "w": "miazănoapte",
-       "heb": "מִצָּפוֹן",
-       "translit": "miȚafon",
+       "heb": "מִצָּפוֹן",
+       "translit": "mițafon",
        "strong": "H6828",
-       "pos": "prepoziție + substantiv",
+       "pos": "substantiv, feminin singular",
        "def_ro": "de la nord.",
+       "greek": "βορρᾶς (borras)",
+       "greek_def_ro": "βορρᾶς (borras) — nord, miazănoapte.",
        "dict_ro": "Țafon — nordul, literal „partea ascunsă, întunecată” (de la țafan, „a ascunde”). Babilonul se află la răsărit de Țara lui Israel, dar armatele lui veneau pe drumul Semilunei Fertile, intrând prin nord; de aceea „dușmanul de la miazănoapte” e un leitmotiv al lui Ieremia (4:6; 6:1, 22). Rashi: Babilonul e la nord de Țara lui Israel. Metzudat David și Radak explică verbul „va fi slobozit” (tipatah): până acum răul era ca legat, iar acum legătura se desface."
       },
       {
@@ -85820,11 +85847,13 @@
       {
        "t": "tronul",
        "w": "tronul",
-       "heb": "כִּסְאוֹ",
+       "heb": "כִּסְאוֹ",
        "translit": "kiso",
        "strong": "H3678",
-       "pos": "substantiv, masculin singular + sufix persoana a III-a masculin singular",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "tronul lui, scaunul lui (de judecată).",
+       "greek": "θρόνος (thronos)",
+       "greek_def_ro": "θρόνος (thronos) — tron.",
        "dict_ro": "Kise — tronul, scaunul de domnie și de judecată. Imaginea regilor care își pun tronurile la porțile Ierusalimului se împlinește literal la căderea cetății: „au intrat toate căpeteniile regelui Babilonului și au șezut la Poarta de Mijloc” (Ieremia 39:3). Radak îi numește: Nergal-Sarețer, Rab-Mag și ceilalți mai-mari ai regelui Babilonului. Metzudat David: fiecare își va pune tronul în fața porților și pe ziduri, ca s-o asedieze de jur împrejur."
       },
       {
@@ -85877,12 +85906,14 @@
       {
        "t": "dumnezei falși",
        "w": "dumnezei falși",
-       "heb": "לֵאלֹהִים אֲחֵרִים",
-       "translit": "lelohim aherim",
+       "heb": "אֲחֵרִים",
+       "translit": "ahērim",
        "strong": "H312",
-       "pos": "prepoziție + substantiv, masculin plural + adjectiv, masculin plural",
+       "pos": "adjectiv, masculin plural",
        "def_ro": "alți dumnezei, zei străini.",
-       "dict_ro": "Elohim aherim — literal „alți dumnezei”, expresia din prima poruncă (Exod 20:3). Acuzația are trei trepte: M-au părăsit, au ars tămâie altor dumnezei, s-au închinat „lucrării mâinilor lor” — imaginea absurdă a omului care se închină la ce a făcut el însuși (Isaia 2:8). Rashi: „voi vorbi judecata Mea cu ei” — Mă voi certa cu ei, cu Iuda și Ierusalimul; Radak: vorbirea lui Dumnezeu cu ei este aducerea regilor asupra lor, pedeapsa ca mustrare."
+       "greek": "ἀλλότριος (allotrios)",
+       "greek_def_ro": "ἀλλότριος (allotrios) — străin, de alt neam (dumnezei străini).",
+       "dict_ro": "Elohim aherim — literal „alți dumnezei”, expresia din prima poruncă (Exodul 20:3). Acuzația are trei trepte: M-au părăsit, au ars tămâie altor dumnezei, s-au închinat „lucrării mâinilor lor” — imaginea absurdă a omului care se închină la ce a făcut el însuși (Isaia 2:8). Rashi: „voi vorbi judecata Mea cu ei” — Mă voi certa cu ei, cu Iuda și Ierusalimul; Radak: vorbirea lui Dumnezeu cu ei este aducerea regilor asupra lor, pedeapsa ca mustrare."
       },
       {
        "t": " și s-au prosternat la lucrarea mâinilor lor."
@@ -85938,11 +85969,13 @@
       {
        "t": "Nu te înspăimânta",
        "w": "Nu te înspăimânta",
-       "heb": "אַל־תֵּחַת",
-       "translit": "al-tehat",
+       "heb": "תֵּחַת",
+       "translit": "tēhat",
        "strong": "H2865",
-       "pos": "negație + verb, qal, jusiv, persoana a II-a masculin singular",
+       "pos": "verb, nifal jusiv",
        "def_ro": "nu te îngrozi, nu te frânge de frică.",
+       "greek": "πτοέω (ptoeo)",
+       "greek_def_ro": "πτοέω (ptoeo) — a se înspăimânta, a se îngrozi.",
        "dict_ro": "Hatat — „a fi zdrobit, a se îngrozi”; Metzudat Țion îl leagă de Iosua 1:9, „nu te înspăimânta și nu te îngrozi”. Versetul conține un joc dur: „nu te înspăimânta (al tehat) înaintea lor, ca nu cumva să te fac Eu să te înspăimânți (ahitha)” — frica de oameni i-ar aduce profetului chiar ceea ce se teme. Metzudat David: dacă te vei teme, te voi frânge înaintea lor și vor putea să-ți facă rău; dacă te încrezi în Mine, nu vor putea. „Încinge-ți mijlocul” e, după Radak, expresia sprintenelii, ca la Eliahu (1 Împărați 18:46)."
       },
       {
@@ -86002,11 +86035,13 @@
       {
        "t": "cetate fortificată",
        "w": "cetate fortificată",
-       "heb": "לְעִיר מִבְצָר",
-       "translit": "leir mivțar",
+       "heb": "מִבְצָר",
+       "translit": "mivțar",
        "strong": "H4013",
-       "pos": "prepoziție + substantiv, feminin singular + substantiv",
+       "pos": "substantiv, masculin singular",
        "def_ro": "cetate întărită.",
+       "greek": "ὀχυρά (ochyra)",
+       "greek_def_ro": "ὀχυρά (ochyra) — fortificată, întărită.",
        "dict_ro": "Mivțar — întăritura, cetatea inaccesibilă. Dumnezeu îl face pe profetul care se credea „prea tânăr” o cetate întărită, un stâlp de fier și un zid de aramă — trei imagini ale rezistenței. Radak le explică pe rând: cetatea întărită nu poate fi cucerită, cu atât mai puțin cea cu ziduri de aramă, iar stâlpul de fier nu poate fi nici îndoit, nici rupt. Lista adversarilor — regii, căpeteniile, preoții și poporul țării — e exact lista celor care se vor ridica împotriva lui în cartea sa (Ieremia 26)."
       },
       {
@@ -86063,11 +86098,13 @@
       {
        "t": "nu te vor putea învinge",
        "w": "nu te vor putea învinge",
-       "heb": "וְלֹא־יוּכְלוּ לָךְ",
-       "translit": "velo-iuhlu lah",
+       "heb": "יוּכְלוּ",
+       "translit": "iuhlu",
        "strong": "H3201",
-       "pos": "conjuncție + negație + verb, qal, imperfect, persoana a III-a plural + prepoziție cu sufix",
+       "pos": "verb, qal imperfect",
        "def_ro": "nu te vor birui.",
+       "greek": "δύναμαι (dynamai)",
+       "greek_def_ro": "δύναμαι (dynamai) — a putea, a fi în stare.",
        "dict_ro": "Yahol — „a putea, a birui”. Făgăduința nu scutește de luptă: „ei vor lupta cu tine”, iar Rashi precizează forma luptei — se vor certa cu tine ca să respingă cuvintele profeției tale; Targumul, citat de Radak: „vor fi potrivnici și se vor împotrivi, ca să surpe cuvintele profeției tale”. Radak: „ca să te salvez” — ca să nu te omoare. Capitolul se încheie cum a început (1:8): „Eu sunt cu tine ca să te salvez”."
       },
       {
@@ -86128,10 +86165,11 @@
        "t": "spunând",
        "w": "spunând",
        "heb": "לֵאמֹר",
-       "translit": "lemor",
+       "translit": "lēmor",
        "strong": "H559",
-       "pos": "prepoziție + verb, qal, infinitiv construit",
+       "pos": "verb, qal infinitiv",
        "def_ro": "zicând, spunând.",
+       "diff_ro": "Septuaginta redă tot versetul doar prin „καὶ εἶπε\" („și a spus\"), fără formula completă „cuvântul DOMNULUI a venit la mine\" din ebraică — o comprimare neobișnuită, posibil o variantă textuală mai scurtă.",
        "dict_ro": "Lemor — „spunând”, literal „a zice”: formula care introduce vorbirea directă și, la profeți, semnalează că urmează un mesaj ce trebuie transmis mai departe. Capitolul 2 începe prima mare cuvântare a lui Ieremia către Ierusalim, după relatarea chemării; haftara Matot citește din ea doar primele trei versete, o amintire a iubirii dintâi."
       },
       {
@@ -86171,11 +86209,13 @@
       {
        "t": "bunătatea tinereții tale",
        "w": "bunătatea tinereții tale",
-       "heb": "חֶסֶד נְעוּרַיִךְ",
-       "translit": "hesed neurayih",
+       "heb": "חֶסֶד",
+       "translit": "hesed",
        "strong": "H2617",
-       "pos": "substantiv, în construcție + substantiv, plural + sufix persoana a II-a feminin",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "credincioșia, dragostea din tinerețea ta.",
+       "greek": "ἔλεος (eleos)",
+       "greek_def_ro": "ἔλεος (eleos) — bunătate, îndurare.",
        "dict_ro": "Hesed neurim — „bunătatea (credincioșia) tinereții”: legământul e privit ca o logodnă, iar anii pustiului ca luna de miere. „Dragostea ritualurilor tale nupțiale” (kelulotayih), de la kala, „mireasă”; Metzudat Țion: mireasa în zilele nunții e „desăvârșită” în frumusețe (Plângerile lui Ieremia 2:15). Rashi: credincioșia ta a fost că ai mers după trimișii Mei, Moise și Aaron, dintr-o țară locuită în pustiu, fără merinde, pentru că ai crezut în Mine; Metzudat David: mireasa sub baldachin — la muntele Sinai. Versetul e unul dintre cele recitate la Roș Hașana, în rugăciunea „Zihronot” (Amintirile)."
       },
       {
@@ -86236,11 +86276,13 @@
       {
        "t": "primul rod",
        "w": "primul rod",
-       "heb": "רֵאשִׁית",
-       "translit": "reșit",
+       "heb": "רֵאשִׁית",
+       "translit": "rēșit",
        "strong": "H7225",
-       "pos": "substantiv, feminin singular, în construcție",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "cel dintâi, pârga, partea aleasă.",
+       "greek": "ἀρχή (arche)",
+       "greek_def_ro": "ἀρχή (arche) — începutul, primul rod.",
        "dict_ro": "Reșit — începutul, pârga: primele roade, care aparțin lui Dumnezeu și sunt date preotului (Numeri 18:12). Israel e numit „sfânt pentru DOMNUL, pârga recoltei Lui”: Rashi, după Targum, îl compară cu teruma, darul sfânt pe care un străin nu-l poate mânca, și cu grâul nou dinaintea omerului, interzis la mâncare; oricine îl „mănâncă” — îl devorează pe Israel — se face vinovat. Metzudat David: deși Israel e dat în mâna neamurilor pentru păcatul lui, în cele din urmă Dumnezeu va cere socoteală neamurilor pentru răul făcut. Pavel folosește imaginea pârgii sfinte în Romani 11:16."
       },
       {
