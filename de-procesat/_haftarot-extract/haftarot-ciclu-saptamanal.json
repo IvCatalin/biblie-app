@@ -76428,11 +76428,13 @@
       {
        "t": "Cântă",
        "w": "Cântă",
-       "heb": "רָנִּי",
-       "translit": "roni",
+       "heb": "רָנִּי",
+       "translit": "rani",
        "strong": "H7442",
-       "pos": "verb, qal, imperativ, feminin singular",
+       "pos": "verb, qal imperativ",
        "def_ro": "cântă de bucurie, strigă de veselie.",
+       "greek": "τέρπομαι (terpomai)",
+       "greek_def_ro": "τέρπομαι (terpomai) — a se desfăta, a se bucura.",
        "dict_ro": "Ranan — „a striga de bucurie, a cânta cu glas tare”; e verbul jubilației, nu al cântecului liniștit. Chemarea „cântă și bucură-te, fiică a Ționului” deschide haftara cu un ecou al pericopei Behaalotecha, unde Dumnezeu își face sălaș în mijlocul taberei, în norul de deasupra Cortului. „Voi sălășlui” (veșahanti) vine din aceeași rădăcină ca Mișkan, „Cortul”, și Șehina, prezența divină. Metzudat David: „voi veni la Ierusalim și voi locui în mijlocul tău”."
       },
       {
@@ -76488,8 +76490,9 @@
        "heb": "וְנִלְווּ",
        "translit": "venilvu",
        "strong": "H3867",
-       "pos": "verb, nifal, perfect consecutiv, persoana a III-a plural",
+       "pos": "verb, nifal perfect consecutiv",
        "def_ro": "se vor alătura, se vor uni.",
+       "diff_ro": "Septuaginta are „καταφεύξονται\" („vor fugi să se refugieze\"), nu „se vor alipi\" (nilvu, a se uni) ca în ebraică — o nuanță diferită, de căutare a unui refugiu, nu de alipire/unire.",
        "dict_ro": "Lava — „a se alipi, a se însoți”; din aceeași rădăcină vine numele lui Levi („de data aceasta bărbatul meu se va alipi de mine”, Geneza 29:34). Metzudat Țion îl leagă de Isaia 14:1, „străinul se va alipi de ei”, un verset folosit pentru convertiți. Metzudat David subliniază tensiunea din verset: neamurile vor crede în DOMNUL, dar Șehina va locui „în mijlocul tău”, nu în mijlocul lor; făgăduința principală rămâne pentru Israel."
       },
       {
@@ -76550,12 +76553,14 @@
       {
        "t": "Țara Sfântă",
        "w": "Țara Sfântă",
-       "heb": "אַדְמַת הַקֹּדֶשׁ",
-       "translit": "admat hakodeș",
+       "heb": "אַדְמַת",
+       "translit": "admat",
        "strong": "H127",
-       "pos": "substantiv, feminin singular, în construcție + substantiv cu articol",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "pământul sfințeniei, Țara Sfântă.",
-       "dict_ro": "Admat hakodeș — „pământul sfințeniei”; este singurul loc din Biblia ebraică unde Țara lui Israel e numită astfel, de aici numele de „Țara Sfântă”; în afară de el, expresia apare doar la rugul aprins, despre locul pe care stătea Moise: „pământ sfânt este” (Exod 3:5). Adama e pământul concret, solul (de aici și Adam, făcut din el), iar sfințenia nu e a pământului în sine, ci a Celui care îl alege. Radak leagă versetul de Deuteronom 32:9: „partea DOMNULUI este poporul Său, Iacov este partea moștenirii Lui”; Iuda e pomenit anume pentru că, la întoarcerea din Babilon, Iuda a fost cel care s-a întors."
+       "greek": "ἁγία (hagia)",
+       "greek_def_ro": "ἁγία (hagia) — cea sfântă (pământul sfânt).",
+       "dict_ro": "Admat hakodeș — „pământul sfințeniei”; este singurul loc din Biblia ebraică unde Țara lui Israel e numită astfel, de aici numele de „Țara Sfântă”; în afară de el, expresia apare doar la rugul aprins, despre locul pe care stătea Moise: „pământ sfânt este” (Exodul 3:5). Adama e pământul concret, solul (de aici și Adam, făcut din el), iar sfințenia nu e a pământului în sine, ci a Celui care îl alege. Radak leagă versetul de Deuteronomul 32:9: „partea DOMNULUI este poporul Său, Iacov este partea moștenirii Lui”; Iuda e pomenit anume pentru că, la întoarcerea din Babilon, Iuda a fost cel care s-a întors."
       },
       {
        "t": ", și va alege din nou Ierusalimul."
@@ -76611,6 +76616,7 @@
        "strong": "H2013",
        "pos": "interjecție",
        "def_ro": "Tăcere! Liniște!",
+       "diff_ro": "Septuaginta are „εὐλαβείσθω\" („să se cutremure de evlavie\"), nu „să tacă\" (has) ca în ebraică — accentul cade pe cucernicie, nu pe tăcere.",
        "dict_ro": "Has — o interjecție care imită sunetul „sst!”, poruncă de tăcere; Metzudat Țion trimite la Caleb, care „a liniștit (vayahas) poporul” (Numeri 13:30). Tăcerea este reacția potrivită în fața lui Dumnezeu care se ridică să lucreze, ca în Habacuc 2:20 („DOMNUL este în Templul Său cel sfânt: tot pământul să tacă înaintea Lui!”) și Țefania 1:7. Radak și Metzudat Țion explică „S-a ridicat” (neor) ca „S-a trezit”, o imagine luată din somnul omului: până acum Dumnezeu a tăcut față de neamuri, ca și cum ar fi dormit."
       },
       {
@@ -76670,11 +76676,13 @@
       {
        "t": "Satan",
        "w": "Satan",
-       "heb": "הַשָּׂטָן",
-       "translit": "hasatan",
+       "heb": "וְהַשָּׂטָן",
+       "translit": "vehasatan",
        "strong": "H7854",
-       "pos": "substantiv, masculin singular, cu articol",
+       "pos": "substantiv, masculin singular",
        "def_ro": "acuzatorul, potrivnicul.",
+       "greek": "διάβολος (diabolos)",
+       "greek_def_ro": "διάβολος (diabolos) — acuzatorul, diavolul (traducerea numelui, nu transliterare).",
        "dict_ro": "Satan — „potrivnicul, acuzatorul”, de la satan, „a se împotrivi, a acuza”; cu articol (hasatan), e un titlu, nu un nume propriu: „Acuzatorul” din curtea cerească, ca în Iov 1-2. Versetul face un joc de cuvinte: Satan stă „ca să-l acuze” (lesitno), din aceeași rădăcină. Metzudat Țion îl definește „un înger acuzator”, iar Radak vede în el o imagine a lui Sanbalat și a tovarășilor lui, care se împotriveau zidirii Templului (Neemia 4). Acuzația, după Rashi și Metzudat David, e că fiii marelui preot Ioșua se căsătoriseră cu femei străine (Ezra 10:18)."
       },
       {
@@ -76740,6 +76748,8 @@
        "strong": "H181",
        "pos": "substantiv, masculin singular",
        "def_ro": "tăciune, lemn aprins scos din foc.",
+       "greek": "δαλός (dalos)",
+       "greek_def_ro": "δαλός (dalos) — tăciune, firebrand.",
        "dict_ro": "Ud — tăciunele, bucata de lemn cu care se scormonește focul (Metzudat Țion), ca în Amos 4:11: „ați fost ca un tăciune scos din foc”. Pentru Radak, imaginea e exilul: Ioșua a fost smuls din focul Babilonului ca să se întoarcă și să slujească la Ierusalim. Talmudul (Sanhedrin 93a) o citește literal: Ioșua a fost aruncat în cuptor împreună cu profeții mincinoși Ahab și Țedechia, care au ars, iar el a scăpat doar cu hainele pârlite. Epistola lui Iuda (1:9, 1:23) reia atât „Domnul să te mustre”, cât și imaginea celor „smulși din foc”."
       },
       {
@@ -76804,12 +76814,14 @@
       {
        "t": "haine murdare",
        "w": "haine murdare",
-       "heb": "בְּגָדִים צוֹאִים",
+       "heb": "בְּגָדִים צוֹאִים",
        "translit": "begadim țoim",
        "strong": "H6674",
        "pos": "substantiv, masculin plural + adjectiv, masculin plural",
        "def_ro": "haine murdare, mânjite.",
-       "dict_ro": "Țoim — „murdare, mânjite”, de la țoa, „excrement”: cuvântul e intenționat dur, cum explică Metzudat Țion. Marele preot, care trebuia să poarte veșminte „spre slavă și podoabă” (Exod 28:2), stă în fața îngerului în haine murdare — imagine a vinei, ca în Isaia 64:6 („toată dreptatea noastră este ca o haină mânjită”). Targumul lui Ionatan, Talmudul (Sanhedrin 93a) și Rashi dau aceeași explicație: fiii lui luaseră femei nepotrivite pentru preoție, iar el nu i-a oprit."
+       "greek": "ἱμάτια ῥυπαρά (himatia rhypara)",
+       "greek_def_ro": "ἱμάτια ῥυπαρά (himatia rhypara) — veșminte murdare.",
+       "dict_ro": "Țoim — „murdare, mânjite”, de la țoa, „excrement”: cuvântul e intenționat dur, cum explică Metzudat Țion. Marele preot, care trebuia să poarte veșminte „spre slavă și podoabă” (Exodul 28:2), stă în fața îngerului în haine murdare — imagine a vinei, ca în Isaia 64:6 („toată dreptatea noastră este ca o haină mânjită”). Targumul lui Ionatan, Talmudul (Sanhedrin 93a) și Rashi dau aceeași explicație: fiii lui luaseră femei nepotrivite pentru preoție, iar el nu i-a oprit."
       },
       {
        "t": " și stătea înaintea îngerului."
@@ -76877,6 +76889,7 @@
        "strong": "H4254",
        "pos": "substantiv, feminin plural",
        "def_ro": "haine de sărbătoare, veșminte alese.",
+       "diff_ro": "Septuaginta are „ποδήρη\" („veșmânt lung, până la picioare\"), nu „haine curate\" (machalatsot) ca în ebraică — un termen diferit, care descrie forma veșmântului, nu starea lui de curăție.",
        "dict_ro": "Mahalațot — hainele de schimb, veșmintele de sărbătoare pe care le îmbraci după ce le-ai scos pe cele vechi (de la halaț, „a scoate, a dezbrăca”); Metzudat Țion trimite la Isaia 3:22. Gestul e unul de investire: haina murdară e vina, haina curată e meritul, spune Rashi — „întrucât a asemănat păcatul cu hainele murdare, asemănă meritul cu haine curate”. Metzudat David explică sensul concret: fiii lui Ioșua să se despartă de soțiile străine, iar vina lui va fi îndepărtată; când vina e înlăturată, meritul se descoperă."
       },
       {
@@ -76937,12 +76950,14 @@
       {
        "t": "un turban curat",
        "w": "un turban curat",
-       "heb": "צָנִיף טָהוֹר",
-       "translit": "țanif tahor",
+       "heb": "צָנִיף",
+       "translit": "țanif",
        "strong": "H6797",
-       "pos": "substantiv, masculin singular + adjectiv",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "un turban curat, o mitră curată.",
-       "dict_ro": "Țanif — turbanul, de la țanaf, „a înfășura”; Metzudat Țion îl leagă de mițnefet, mitra marelui preot din Exod 28:4, 39. E singurul moment din vedenie în care profetul intervine el însuși: „Atunci am spus”. Rashi: Zaharia a cerut milă pentru Ioșua. Metzudat David vede în turban coroana marii preoții, dată ca moștenire urmașilor lui, de vreme ce s-au despărțit de păgâni. Radak: turbanul îl inaugurează ca mare preot."
+       "greek": "κίδαρις καθαρά (kidaris kathara)",
+       "greek_def_ro": "κίδαρις καθαρά (kidaris kathara) — turban curat.",
+       "dict_ro": "Țanif — turbanul, de la țanaf, „a înfășura”; Metzudat Țion îl leagă de mițnefet, mitra marelui preot din Exodul 28:4, 39. E singurul moment din vedenie în care profetul intervine el însuși: „Atunci am spus”. Rashi: Zaharia a cerut milă pentru Ioșua. Metzudat David vede în turban coroana marii preoții, dată ca moștenire urmașilor lui, de vreme ce s-au despărțit de păgâni. Radak: turbanul îl inaugurează ca mare preot."
       },
       {
        "t": " pe cap” și ei i-au pus un turban curat pe cap și l-au îmbrăcat cu [alte] haine; iar îngerul DOMNULUI stătea [acolo]."
@@ -77001,12 +77016,14 @@
       {
        "t": "l-a avertizat",
        "w": "l-a avertizat",
-       "heb": "וַיָּעַד",
+       "heb": "וַיָּעַד",
        "translit": "vaiaad",
        "strong": "H5749",
-       "pos": "verb, hifil, imperfect consecutiv, persoana a III-a masculin singular",
+       "pos": "verb, hifil imperfect consecutiv",
        "def_ro": "a mărturisit, a avertizat solemn.",
-       "dict_ro": "Ud (hifil: heid) — „a lua martori, a avertiza solemn”, de la ed, „martor”. Metzudat Țion explică legătura: cel care avertizează o face de obicei în fața martorilor, ca să nu se poată nega mai târziu — de aceea și Moise ia „cerul și pământul” ca martori (Deuteronom 31:28, citat de Rashi). După haine și turban, investitura primește acum condițiile ei: un legământ cu clauze."
+       "greek": "διαμαρτύρομαι (diamartyromai)",
+       "greek_def_ro": "διαμαρτύρομαι (diamartyromai) — a avertiza solemn.",
+       "dict_ro": "Ud (hifil: heid) — „a lua martori, a avertiza solemn”, de la ed, „martor”. Metzudat Țion explică legătura: cel care avertizează o face de obicei în fața martorilor, ca să nu se poată nega mai târziu — de aceea și Moise ia „cerul și pământul” ca martori (Deuteronomul 31:28, citat de Rashi). După haine și turban, investitura primește acum condițiile ei: un legământ cu clauze."
       },
       {
        "t": " pe Ioșua, spunând:"
@@ -77069,6 +77086,8 @@
        "strong": "H4108",
        "pos": "substantiv, masculin plural",
        "def_ro": "căi, drumuri de umblat; libertatea de a merge.",
+       "greek": "ἀναστρέφομαι (anastrephomai)",
+       "greek_def_ro": "ἀναστρέφομαι (anastrephomai) — a se mișca, a vieți printre.",
        "dict_ro": "Mahlehim — „umblări, drumuri”, de la halah, „a merge”; cuvânt rar, care descrie privilegiul de a te mișca liber printre „cei ce stau” — îngerii, care, după Rashi, „nu stau niciodată jos”. Metzudat Țion îl explică „umblare și plimbare”. Cele două condiții („dacă vei merge pe căile Mele... dacă sarcina Mea o vei păzi”) aduc trei făgăduințe: să judece Templul, să păzească curțile și accesul printre îngeri, pe care Targumul și Radak îl leagă de viața sufletului după moarte."
       },
       {
@@ -77134,7 +77153,7 @@
        "strong": "H6780",
        "pos": "substantiv, masculin singular",
        "def_ro": "vlăstar, mlădiță, odraslă.",
-       "dict_ro": "Țemah — „ceea ce răsare, vlăstarul”; Ieremia folosește același cuvânt pentru regele din casa lui David: „voi ridica lui David un vlăstar drept” (Ieremia 23:5; 33:15). Comentatorii dau două lecturi: Rashi și Radak văd în el pe Zerubavel, a cărui mărire „va răsări” ca o plantă (Zaharia 6:12); Metzudat David, Targumul („robul Meu, Mesia”) și o altă explicație adusă de Radak îl citesc ca pe regele Mesia. Radak adaugă o observație din tradiție: Menahem, numele dat lui Mesia, are aceeași valoare numerică (138) ca Țemah."
+       "dict_ro": "O divergență mesianică celebră: Septuaginta are „Ἀνατολήν\" („Răsăritul/Zorii\"), nu „vlăstarul\" (tsemach, un titlu mesianic standard, „Mlădița\") ca în ebraică — această redare grecească e citată direct în Evanghelia după Luca (capitolul 1, „Răsăritul de sus\"), una dintre puținele profeții mesianice unde traducerea Septuagintei, nu termenul ebraic original, a influențat direct limbajul Noului Testament."
       },
       {
        "t": "."
@@ -77198,11 +77217,13 @@
       {
        "t": "șapte ochi",
        "w": "șapte ochi",
-       "heb": "שִׁבְעָה עֵינָיִם",
-       "translit": "șiva einaim",
+       "heb": "שִׁבְעָה עֵינָיִם",
+       "translit": "șiva ēnaim",
        "strong": "H5869",
-       "pos": "numeral + substantiv, dual",
+       "pos": "numeral + substantiv, masculin și feminin dual",
        "def_ro": "șapte ochi.",
+       "greek": "ἑπτὰ ὀφθαλμοί (hepta ophthalmoi)",
+       "greek_def_ro": "ἑπτὰ ὀφθαλμοί (hepta ophthalmoi) — șapte ochi.",
        "dict_ro": "Șiva einaim — „șapte ochi” pe o singură piatră: Metzudat Țion explică șapte ca „mulți”, ca în „de șapte ori cade cel drept” (Proverbe 24:16), iar Metzudat David și Radak văd în ei o pază multiplă a lui Dumnezeu asupra zidirii, „ochii DOMNULUI care cutreieră tot pământul” din 4:10. Tatăl lui Radak, citat de fiul său, numără șapte oameni: Ioșua, Ezra, Zerubavel, Neemia și profeții Hagai, Zaharia și Maleahi. Piatra însăși e, după Rashi, temelia Templului pusă sub Cirus, care părea neînsemnată (Ezra 3:12; Hagai 2:3)."
       },
       {
@@ -77263,11 +77284,13 @@
       {
        "t": "smochin",
        "w": "smochin",
-       "heb": "תְּאֵנָה",
-       "translit": "teena",
+       "heb": "תְּאֵנָה",
+       "translit": "teēna",
        "strong": "H8384",
        "pos": "substantiv, feminin singular",
        "def_ro": "smochin.",
+       "greek": "συκῆ (syke)",
+       "greek_def_ro": "συκῆ (syke) — smochin.",
        "dict_ro": "Teena — smochinul, alături de viță imaginea clasică a păcii și a belșugului: „fiecare sub vița lui și sub smochinul lui” descrie domnia lui Solomon (1 Împărați 4:25) și pacea mesianică din Mica 4:4. Noutatea din Zaharia e verbul „va chema”: nu doar stă fiecare sub pomul lui, ci își invită aproapele — pacea devine ospitalitate. Metzudat David o citește ca pe o lene binecuvântată: atâta belșug, încât oamenii vor sta la umbră și vor mânca din roade."
       },
       {
@@ -77318,10 +77341,12 @@
        "t": "m-a deșteptat",
        "w": "m-a deșteptat",
        "heb": "וַיְעִירֵנִי",
-       "translit": "vaieireni",
+       "translit": "vairēni",
        "strong": "H5782",
-       "pos": "verb, hifil, imperfect consecutiv, persoana a III-a masculin singular + sufix persoana I",
+       "pos": "verb, hifil imperfect consecutiv + sufix",
        "def_ro": "m-a trezit, m-a deșteptat.",
+       "greek": "ἐξεγείρω (exegeiro)",
+       "greek_def_ro": "ἐξεγείρω (exegeiro) — a trezi, a deștepta.",
        "dict_ro": "Ur — „a se trezi”; la forma hifil, „a trezi pe cineva”. Radak observă o deosebire față de celelalte vedenii ale lui Zaharia: acolo profetul spune „mi-am ridicat ochii”, căci vedea singur; aici îngerul este cel care îl trezește ca să vadă. Nu e un somn fizic, ci starea de toropeală de după o vedenie copleșitoare, asemănătoare cu cea a lui Daniel (Daniel 8:18; 10:9) sau a lui Ieremia, care „s-a trezit” după vis (Ieremia 31:26)."
       },
       {
@@ -77380,9 +77405,11 @@
        "heb": "מְנוֹרַת",
        "translit": "menorat",
        "strong": "H4501",
-       "pos": "substantiv, feminin singular, în construcție",
+       "pos": "substantiv, feminin singular construct",
        "def_ro": "sfeșnic, candelabru (menora).",
-       "dict_ro": "Menora — sfeșnicul, de la ner, „lumină, candelă”; menora cu șapte brațe din Cort (Exod 25:31-40) e subiectul primelor versete ale pericopei Behaalotecha („când vei aprinde candelele”, Numeri 8:1-4) — de aici alegerea acestei haftare. Sfeșnicul din vedenie are ceva în plus: un rezervor (gula) deasupra, din care uleiul curge singur prin țevi spre candele. Radak explică sensul luminii: Dumnezeu va lumina Israelul, pe care îl ținuse întunericul exilului. Această haftară se citește și în Sabatul de Hanuca."
+       "greek": "λυχνία (lychnia)",
+       "greek_def_ro": "λυχνία (lychnia) — sfeșnic.",
+       "dict_ro": "Menora — sfeșnicul, de la ner, „lumină, candelă”; menora cu șapte brațe din Cort (Exodul 25:31-40) e subiectul primelor versete ale pericopei Behaalotecha („când vei aprinde candelele”, Numeri 8:1-4) — de aici alegerea acestei haftare. Sfeșnicul din vedenie are ceva în plus: un rezervor (gula) deasupra, din care uleiul curge singur prin țevi spre candele. Radak explică sensul luminii: Dumnezeu va lumina Israelul, pe care îl ținuse întunericul exilului. Această haftară se citește și în Sabatul de Hanuca."
       },
       {
        "t": " în întregime din aur, având bolul lui [cu untdelemn] în vârful lui și șapte candele deasupra lui; și șapte tuburi la candelele care erau la vârful lui."
@@ -77442,12 +77469,14 @@
       {
        "t": "doi măslini",
        "w": "doi măslini",
-       "heb": "וּשְׁנַיִם זֵיתִים",
-       "translit": "ușenaim zeitim",
+       "heb": "וּשְׁנַיִם זֵיתִים",
+       "translit": "ușnaim zētim",
        "strong": "H2132",
-       "pos": "conjuncție + numeral + substantiv, masculin plural",
+       "pos": "numeral + substantiv, masculin plural",
        "def_ro": "doi măslini.",
-       "dict_ro": "Zait — măslinul, pomul care dă untdelemnul pentru candelele Cortului (Exod 27:20). În vedenie, cei doi măslini hrănesc sfeșnicul direct, fără om care să culeagă, să stoarcă și să toarne; Rashi descrie tot drumul: măslinele cad singure în teascuri, uleiul curge în bol, din bol în țevi, din țevi în candele. Mai departe, în 4:14, ei sunt numiți „cei doi fii ai untdelemnului” — după tradiție, marele preot Ioșua și Zerubavel, cele două căpetenii unse. Apocalipsa 11:4 reia imaginea celor doi martori."
+       "greek": "δύο ἐλαῖαι (dyo elaiai)",
+       "greek_def_ro": "δύο ἐλαῖαι (dyo elaiai) — doi măslini.",
+       "dict_ro": "Zait — măslinul, pomul care dă untdelemnul pentru candelele Cortului (Exodul 27:20). În vedenie, cei doi măslini hrănesc sfeșnicul direct, fără om care să culeagă, să stoarcă și să toarne; Rashi descrie tot drumul: măslinele cad singure în teascuri, uleiul curge în bol, din bol în țevi, din țevi în candele. Mai departe, în 4:14, ei sunt numiți „cei doi fii ai untdelemnului” — după tradiție, marele preot Ioșua și Zerubavel, cele două căpetenii unse. Apocalipsa 11:4 reia imaginea celor doi martori."
       },
       {
        "t": " erau lângă el, unul în dreapta bolului și unul în stânga lui.”"
@@ -77504,8 +77533,10 @@
        "heb": "אֲדֹנִי",
        "translit": "adoni",
        "strong": "H113",
-       "pos": "substantiv + sufix persoana I",
+       "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "stăpâne, domnul meu (formulă de politețe).",
+       "greek": "κύριε (kyrie)",
+       "greek_def_ro": "κύριε (kyrie) — stăpâne, doamne.",
        "dict_ro": "Adoni — „domnul meu”, adresare respectuoasă față de un superior, omenesc sau ceresc; vocalizarea o deosebește de Adonai, numele rostit în locul Tetragramei. Profetul nu înțelege vedenia și întreabă: întrebarea „ce sunt acestea?” revine de mai multe ori în Zaharia (1:9; 4:4; 4:11-12). Rashi precizează ce anume îl mira: că măslinele se culeg singure și untdelemnul ajunge singur în candele."
       },
       {
@@ -77560,11 +77591,13 @@
       {
        "t": "Nu știi",
        "w": "Nu știi",
-       "heb": "הֲלוֹא יָדַעְתָּ",
-       "translit": "halo iadata",
+       "heb": "יָדַעְתָּ",
+       "translit": "iadata",
        "strong": "H3045",
-       "pos": "particulă interogativă + verb, qal, perfect, persoana a II-a masculin singular",
+       "pos": "verb, qal perfect",
        "def_ro": "oare nu știi?",
+       "greek": "γινώσκω (ginosko)",
+       "greek_def_ro": "γινώσκω (ginosko) — a cunoaște, a ști.",
        "dict_ro": "Yada — „a ști, a cunoaște”; întrebarea îngerului („oare nu știi?”) îl invită pe profet să înțeleagă singur, cum explică Metzudat David: „oare nu vei pricepe de la tine la ce face aluzie?”. Răspunsul smerit „nu, stăpâne” deschide calea pentru explicația din versetul următor. Același dialog, întrebare contra întrebare, apare între bătrân și Ioan în Apocalipsa 7:13-14."
       },
       {
@@ -77612,11 +77645,13 @@
       {
        "t": "prin duhul Meu",
        "w": "prin duhul Meu",
-       "heb": "בְּרוּחִי",
+       "heb": "בְּרוּחִי",
        "translit": "beruhi",
        "strong": "H7307",
-       "pos": "prepoziție + substantiv, feminin singular + sufix persoana I",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "prin Duhul Meu, prin voia Mea.",
+       "greek": "ἐν πνεύματί μου (en pneumati mou)",
+       "greek_def_ro": "ἐν πνεύματί μου (en pneumati mou) — prin duhul meu.",
        "dict_ro": "Ruah — „vânt, suflare, duh”; Metzudat Țion îl explică aici ca „voință”. „Nu prin oștire și nu prin putere, ci numai prin duhul Meu” e cheia întregii vedenii: cum sfeșnicul arde fără om care să toarne untdelemnul, așa se va zidi Templul fără puterea omului (Radak). Rashi dă sensul istoric: Dumnezeu va pune duhul Său asupra regelui Darius, care va porunci zidirea și o va plăti din vistieria lui (Ezra 6:7-8). Este și versetul central al haftarei citite în Sabatul de Hanuca."
       },
       {
@@ -77681,11 +77716,13 @@
       {
        "t": "munte măreț",
        "w": "munte măreț",
-       "heb": "הַר־הַגָּדוֹל",
-       "translit": "har-hagadol",
+       "heb": "הַר",
+       "translit": "har",
        "strong": "H2022",
-       "pos": "substantiv, masculin singular + adjectiv cu articol",
+       "pos": "substantiv, masculin singular construct",
        "def_ro": "muntele cel mare.",
+       "greek": "ὄρος (oros)",
+       "greek_def_ro": "ὄρος (oros) — munte.",
        "dict_ro": "Har — muntele, aici o imagine a piedicii care pare de neînvins. Comentatorii îl identifică diferit: Rashi, cu guvernatorii de dincolo de Râu, Tatenai și Șetar-Boznai, care opriseră lucrarea (Ezra 6:6); Radak, cu Sanbalat și tovarășii lui; Metzudat David, cu regele Gog din vremea lui Mesia. Toți spun același lucru: înaintea lui Zerubavel muntele devine „loc neted”. Strigătele „Har, har pentru ea!” (hen hen, „har, frumusețe”) sunt, după Radak, aclamațiile mulțimii la punerea pietrei de temelie."
       },
       {
