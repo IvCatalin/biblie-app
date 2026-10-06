@@ -1,0 +1,46 @@
+// Date capitol 8 (Parasat Hahodes, Ezechiel 45:16-46:18) - Standard Davar
+module.exports = [
+{v:"45:16", refs:["Exodul 30:14,15"], tok:[]},
+{v:"45:17", refs:["Ezechiel 46:4-12","Leviticul 23:1-44"],
+ tok:[
+  ["prințului", 1, {d:"conducătorul, cel înălțat (nasi).", x:"Nasi — „cel înălțat, conducătorul” — e un termen deliberat ambiguu, folosit de Ezechiel pentru figura centrală a Templului viitor, evitând titlurile „rege” (melek) sau „mare preot” direct. Rashi notează explicit incertitudinea: el însuși crede că „nasi” aici desemnează Marele Preot, dar a auzit de la Rabi Menahem o altă tradiție, care-l identifică cu regele — ambiguitatea pare intenționată, lăsând loc unei figuri viitoare ce ar putea uni cele două demnități.", g:"ἀφηγουμένου", gd:"cel care conduce, căpetenia — Septuaginta traduce consecvent nasi prin acest termen neutru de conducere, evitând la fel „βασιλεύς” (rege) sau titluri sacerdotale explicite."}],
+ ]},
+{v:"45:18", refs:["Exodul 12:2","Numeri 28:11-15"], tok:[]},
+{v:"45:19", refs:["Ezechiel 43:14,20"], tok:[]},
+{v:"45:20", refs:["Leviticul 4:27-35"], tok:[]},
+{v:"45:21", refs:["Exodul 12:1-51","Numeri 28:16-25"],
+ tok:[
+  ["o sărbătoare de o săptămână de zile", 9, {d:"o săptămână de zile (sărbătoare de șapte zile) — literal „sevuot [de] zile”.", x:"Rashi explică formula neobișnuită „șevuot iamim” (literal „săptămâni de zile”, nu simplu „șapte zile”) ca o aluzie etimologică la numărarea celor șapte săptămâni de la Pesah la Șavuot — chiar cuvântul folosit aici pentru durata sărbătorii Paștelui conține rădăcina care va da numele sărbătorii Șavuot."}],
+ ]},
+{v:"45:22", refs:["Leviticul 4:14"], tok:[]},
+{v:"45:23", refs:["Numeri 28:15-31"], tok:[]},
+{v:"45:24", refs:["Ezechiel 46:5-7"], tok:[]},
+{v:"45:25", refs:["Leviticul 23:33-43","Zaharia 14:16-19"], tok:[]},
+{v:"46:1", refs:["Ezechiel 44:1,2","Isaia 66:23"],
+ tok:[
+  ["Poarta curții interioare", [4,5,6], {d:"poarta curții interioare (șaar hehațēr hapnimit).", x:"Rashi citează Tratatul Midot al Mișnei: existau două uși mici (pișpeșin) la poarta Templului, una la sud și una la nord; despre cea de sud e explicit spus în tradiție (Ezechiel 44:2) „niciun om nu va intra prin ea, și va fi închisă” — poarta de răsărit descrisă aici, deschisă doar de Șabat și Lună Nouă, are deci un statut simbolic special, diferit de restul porților."}],
+ ]},
+{v:"46:2", refs:["Ezechiel 44:3","2 Cronici 23:13"], tok:[]},
+{v:"46:3", refs:[], tok:[]},
+{v:"46:4", refs:["Ezechiel 45:17","Numeri 28:9,10"], tok:[]},
+{v:"46:5", refs:["Leviticul 14:21","Deuteronomul 16:17"], tok:[]},
+{v:"46:6", refs:[], tok:[]},
+{v:"46:7", refs:[], tok:[]},
+{v:"46:8", refs:["Ezechiel 46:2","Ezechiel 44:1-3"], tok:[]},
+{v:"46:9", refs:["Exodul 23:14-17","Deuteronomul 16:16"],
+ tok:[
+  ["se retragă", 24, {d:"să se întoarcă [pe același drum] (iașuv).", x:"Rashi explică regula porților opuse ca o poruncă menită să asigure ca întreg poporul să se vadă bine unul pe altul, trecând prin toată curtea Templului — o lecție de ordine civică și vizibilitate comunitară, nu doar o regulă tehnică de trafic."}],
+ ]},
+{v:"46:10", refs:["2 Cronici 29:28,29"], tok:[]},
+{v:"46:11", refs:["Ezechiel 46:5","Ezechiel 46:7"], tok:[]},
+{v:"46:12", refs:["Leviticul 1:3","Ezechiel 46:1,2"], tok:[]},
+{v:"46:13", refs:["Exodul 29:38-42","Numeri 28:3-8"], tok:[]},
+{v:"46:14", refs:["Numeri 28:5"], tok:[]},
+{v:"46:15", refs:[], tok:[]},
+{v:"46:16", refs:["2 Cronici 21:3"], tok:[]},
+{v:"46:17", refs:["Leviticul 25:10"],
+ tok:[
+  ["anul de eliberare", 10, {d:"anul libertății, al eliberării (șenat hador).", x:"Rashi identifică explicit acest „an al eliberării” cu anul jubiliar (iovel) din Leviticul 25:10, când toate proprietățile și sclavii se eliberau — același principiu aplicat aici darurilor pe care prințul le face slujitorilor săi: ele revin automat la domeniul princiar la fiecare jubileu, spre diferență de darurile către proprii fii, care rămân moștenire permanentă."}],
+ ]},
+{v:"46:18", refs:["Ezechiel 45:8","Ieremia 23:5,6"], tok:[]},
+];

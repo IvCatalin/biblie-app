@@ -6737,169 +6737,939 @@
      "v": "45:16",
      "t": "Tot poporul țării să se alăture în [a da] această contribuție împreună cu prințul lui Israel.",
      "heb": "כֹּל הָעָם הָאָרֶץ יִהְיוּ אֶל־הַתְּרוּמָה הַזֹּאת לַנָּשִׂיא בְּיִשְׂרָאֵל׃",
-     "translit": "Kol haam haareț ihiu el-hateruma hazot lanasi be'Israel."
+     "translit": "Kol haam haareț ihiu el-hateruma hazot lanasi be'Israel.",
+     "tokens": [
+      {
+       "t": "Tot poporul țării să se alăture în [a da] această contribuție împreună cu prințul lui Israel."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּל הָעָם הָאָרֶץ יִהְיוּ אֶל־הַתְּרוּמָה הַזֹּאת לַנָּשִׂיא בְּיִשְׂרָאֵל׃",
+       "translation": "Tot poporul țării să se alăture în [a da] această contribuție împreună cu prințul lui Israel. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ πᾶς ὁ λαὸς δώσει τὴν ἀπαρχὴν ταύτην τῷ ἀφηγουμένῳ τοῦ ᾿Ισραήλ.",
+       "greek": true,
+       "translation": "Și tot poporul va da acest prinos conducătorului lui Israel.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 30:14,15"
+     ],
+     "commentaries": []
     },
     {
      "v": "45:17",
      "t": "Datoria prințului va fi: arderile-de-tot, prinosurile și libațiile de sărbători, [jertfele] Lunilor Noi și Șabaturilor – toate soroacele – pentru toată casa lui Israel. El va face jertfa de păcat, prinosul, arderea-de-tot și jertfa de pace pentru a face ispășire pentru casa lui Israel.",
      "heb": "וְעַל־הַנָּשִׂיא יִהְיֶה הָעוֹלוֹת וְהַמִּנְחָה וְהַנֵּסֶךְ בַּחַגִּים וּבֶחֳדָשִׁים וּבַשַּׁבָּתוֹת בְּכָל־מוֹעֲדֵי בֵּית יִשְׂרָאֵל הוּא־יַעֲשֶׂה אֶת־הַחַטָּאת וְאֶת־הַמִּנְחָה וְאֶת־הָעוֹלָה וְאֶת־הַשְּׁלָמִים לְכַפֵּר בְּעַד בֵּית־יִשְׂרָאֵל׃",
-     "translit": "Veal-hanasi ihie haolot vehaminha vehaneseh bahagim uvehodașim uvașabatot behol-moadei beit Israel hu-iaase et-hahatat veet-haminha veet-haola veet-hașelamim lehapér bead beit-Israel."
+     "translit": "Veal-hanasi ihie haolot vehaminha vehaneseh bahagim uvehodașim uvașabatot behol-moadei beit Israel hu-iaase et-hahatat veet-haminha veet-haola veet-hașelamim lehapér bead beit-Israel.",
+     "tokens": [
+      {
+       "t": "Datoria "
+      },
+      {
+       "t": "prințului",
+       "w": "prințului",
+       "heb": "הַנָּשִׂיא",
+       "translit": "hanasi",
+       "strong": "H5387",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "conducătorul, cel înălțat (nasi).",
+       "dict_ro": "Nasi — „cel înălțat, conducătorul” — e un termen deliberat ambiguu, folosit de Ezechiel pentru figura centrală a Templului viitor, evitând titlurile „rege” (melek) sau „mare preot” direct. Rashi notează explicit incertitudinea: el însuși crede că „nasi” aici desemnează Marele Preot, dar a auzit de la Rabi Menahem o altă tradiție, care-l identifică cu regele — ambiguitatea pare intenționată, lăsând loc unei figuri viitoare ce ar putea uni cele două demnități.",
+       "greek": "ἀφηγουμένου (aphegoumenou)",
+       "greek_def_ro": "ἀφηγουμένου (aphegoumenou) — cel care conduce, căpetenia — Septuaginta traduce consecvent nasi prin acest termen neutru de conducere, evitând la fel „βασιλεύς” (rege) sau titluri sacerdotale explicite."
+      },
+      {
+       "t": " va fi: arderile-de-tot, prinosurile și libațiile de sărbători, [jertfele] Lunilor Noi și Șabaturilor – toate soroacele – pentru toată casa lui Israel. El va face jertfa de păcat, prinosul, arderea-de-tot și jertfa de pace pentru a face ispășire pentru casa lui Israel."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַל־הַנָּשִׂיא יִהְיֶה הָעוֹלוֹת וְהַמִּנְחָה וְהַנֵּסֶךְ בַּחַגִּים וּבֶחֳדָשִׁים וּבַשַּׁבָּתוֹת בְּכָל־מוֹעֲדֵי בֵּית יִשְׂרָאֵל הוּא־יַעֲשֶׂה אֶת־הַחַטָּאת וְאֶת־הַמִּנְחָה וְאֶת־הָעוֹלָה וְאֶת־הַשְּׁלָמִים לְכַפֵּר בְּעַד בֵּית־יִשְׂרָאֵל׃",
+       "translation": "Datoria prințului va fi: arderile-de-tot, prinosurile și libațiile de sărbători, [jertfele] Lunilor Noi și Șabaturilor – toate soroacele – pentru toată casa lui Israel. El va face jertfa de păcat, prinosul, arderea-de-tot și jertfa de pace pentru a face ispășire pentru casa lui Israel. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ διὰ τοῦ ἀφηγουμένου ἔσται τὰ ὁλοκαυτώματα καὶ αἱ θυσίαι καὶ αἱ σπονδαὶ ἔσονται ἐν ταῖς ἑορταῖς καὶ ἐν ταῖς νουμηνίαις καὶ ἐν τοῖς σαββάτοις καὶ ἐν πάσαις ταῖς ἑορταῖς οἴκου ᾿Ισραήλ· αὐτὸς ποιήσει τὰ ὑπὲρ ἁμαρτίας καὶ τὴν θυσίαν καὶ τὰ ὁλοκαυτώματα καὶ τὰ τοῦ σωτηρίου τοῦ ἐξιλάσκεσθαι ὑπὲρ τοῦ οἴκου ᾿Ισραήλ.",
+       "greek": true,
+       "translation": "Și prin conducător vor fi arderile-de-tot și jertfele și libațiile, la sărbători și la lunile noi și la sâmbete și la toate sărbătorile Casei lui Israel; el va face cele pentru păcat și jertfa și arderile-de-tot și cele de mântuire, ca să ispășească pentru Casa lui Israel.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 46:4-12",
+      "Leviticul 23:1-44"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și datoria prințului” — eu zic că acest „nasi” despre care se vorbește [peste tot] se referă la Marele Preot; dar am auzit în numele lui Rabi Menahem că se referă la rege."
+      }
+     ]
     },
     {
      "v": "45:18",
      "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „În prima lună, în prima [zi] a lunii, să iei un tăuraș fără meteahnă și să faci ispășire pentru Sanctuar.",
      "heb": "כֹּה־אָמַר אֲדֹנָי יְהוִה בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ תִּקַּח פַּר־בֶּן־בָּקָר תָּמִים וְחִטֵּאתָ אֶת־הַמִּקְדָּשׁ׃",
-     "translit": "Ko-amar Adonai ELOHIM barișon beehád lahodeș tikah par-ben-bakar tamim vehiteta et-hamikdaș."
+     "translit": "Ko-amar Adonai ELOHIM barișon beehád lahodeș tikah par-ben-bakar tamim vehiteta et-hamikdaș.",
+     "tokens": [
+      {
+       "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „În prima lună, în prima [zi] a lunii, să iei un tăuraș fără meteahnă și să faci ispășire pentru Sanctuar."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה־אָמַר אֲדֹנָי יְהוִה בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ תִּקַּח פַּר־בֶּן־בָּקָר תָּמִים וְחִטֵּאתָ אֶת־הַמִּקְדָּשׁ׃",
+       "translation": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „În prima lună, în prima [zi] a lunii, să iei un tăuraș fără meteahnă și să faci ispășire pentru Sanctuar. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Τάδε λέγει Κύριος Θεός· ἐν τῷ πρώτῳ μηνὶ μιᾷ τοῦ μηνὸς λήψεσθε μόσχον ἐκ βοῶν ἄμωμον τοῦ ἐξιλάσασθαι τὸ ἅγιον.",
+       "greek": true,
+       "translation": "Așa spune Domnul Dumnezeu: «În luna întâi, întâi a lunii, veți lua un vițel din vite, fără meteahnă, ca să ispășiți sfântul [locaș].»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 12:2",
+      "Numeri 28:11-15"
+     ],
+     "commentaries": []
     },
     {
      "v": "45:19",
      "t": "Și preotul să ia din sângele jertfei de păcat și să îl pună pe ușorul Casei și pe cele patru colțuri ale curții, la altar, și pe ușorii porții curții interioare.",
      "heb": "וְלָקַח הַכֹּהֵן מִדַּם הַחַטָּאת וְנָתַן אֶל־מְזוּזַת הַבַּיִת וְאֶל־אַרְבַּע פִּנּוֹת הָעֲזָרָה לַמִּזְבֵּחַ וְעַל־מְזוּזַת שַׁעַר הֶחָצֵר הַפְּנִימִית׃",
-     "translit": "Velakah hakohen midam hahatat venatan el-mezuzat habait veel-arba pinot haazara lamizbeah veal-mezuzat șaar hehatzer hapenimit."
+     "translit": "Velakah hakohen midam hahatat venatan el-mezuzat habait veel-arba pinot haazara lamizbeah veal-mezuzat șaar hehatzer hapenimit.",
+     "tokens": [
+      {
+       "t": "Și preotul să ia din sângele jertfei de păcat și să îl pună pe ușorul Casei și pe cele patru colțuri ale curții, la altar, și pe ușorii porții curții interioare."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְלָקַח הַכֹּהֵן מִדַּם הַחַטָּאת וְנָתַן אֶל־מְזוּזַת הַבַּיִת וְאֶל־אַרְבַּע פִּנּוֹת הָעֲזָרָה לַמִּזְבֵּחַ וְעַל־מְזוּזַת שַׁעַר הֶחָצֵר הַפְּנִימִית׃",
+       "translation": "Și preotul să ia din sângele jertfei de păcat și să îl pună pe ușorul Casei și pe cele patru colțuri ale curții, la altar, și pe ușorii porții curții interioare. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ λήψεται ὁ ἱερεὺς ἀπὸ τοῦ αἵματος τοῦ ἐξιλασμοῦ καὶ δώσει ἐπὶ τὰς φλιὰς τοῦ οἴκου καὶ ἐπὶ τὰς τέσσαρας γωνίας τοῦ ἱεροῦ καὶ ἐπὶ τὸ θυσιαστήριον καὶ ἐπὶ τὰς φλιὰς τῆς πύλης τῆς αὐλῆς τῆς ἐσωτέρας.",
+       "greek": true,
+       "translation": "Și va lua preotul din sângele ispășirii și va da pe ușorii casei și pe cele patru colțuri ale sanctuarului și pe altar și pe ușorii porții curții celei interioare.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 43:14,20"
+     ],
+     "commentaries": []
     },
     {
      "v": "45:20",
      "t": "Și tot așa să faci timp o săptămână în cursul [acestei] luni – [de necurățenia adusă în Sanctuar] de către cineva, din neatenție sau din neștiință, să faceți ispășire pentru Casă.",
      "heb": "וְכֵן תַּעֲשֶׂה בְּשִׁבְעָה בַחֹדֶשׁ מֵאִישׁ שֹׁגֶה וּמִפֶּתִי וְכִפַּרְתֶּם אֶת־הַבָּיִת׃",
-     "translit": "Vehen taase beșiva vahodeș meiș șoghe umipeti vehipartem et-habait."
+     "translit": "Vehen taase beșiva vahodeș meiș șoghe umipeti vehipartem et-habait.",
+     "tokens": [
+      {
+       "t": "Și tot așa să faci timp o săptămână în cursul [acestei] luni – [de necurățenia adusă în Sanctuar] de către cineva, din neatenție sau din neștiință, să faceți ispășire pentru Casă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְכֵן תַּעֲשֶׂה בְּשִׁבְעָה בַחֹדֶשׁ מֵאִישׁ שֹׁגֶה וּמִפֶּתִי וְכִפַּרְתֶּם אֶת־הַבָּיִת׃",
+       "translation": "Și tot așa să faci timp o săptămână în cursul [acestei] luni – [de necurățenia adusă în Sanctuar] de către cineva, din neatenție sau din neștiință, să faceți ispășire pentru Casă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ οὕτως ποιήσεις ἐν τῷ μηνὶ τῷ ἑβδόμῳ, μιᾷ τοῦ μηνός, λήψῃ παρ’ ἑκάστου ἀπόμοιραν καὶ ἐξιλάσεσθε τὸν οἶκον.",
+       "greek": true,
+       "translation": "Și tot așa vei face și în luna a șaptea, întâi a lunii, vei lua de la fiecare partea lui și veți ispăși Casa.",
+       "note": "Diferență reală: Septuaginta are „întâi a lunii a șaptea” (nu „șapte zile în prima lună”, ca în Textul Masoretic la acest verset)."
+      }
+     ],
+     "refs": [
+      "Leviticul 4:27-35"
+     ],
+     "commentaries": []
     },
     {
      "v": "45:21",
      "t": "În prima lună, în a paisprezecea [zi] a lunii, să aveți Paștele, o sărbătoare de o săptămână de zile; să se mănânce azime.",
      "heb": "בָּרִאשׁוֹן בְּאַרְבָּעָה עָשָׂר יוֹם לַחֹדֶשׁ יִהְיֶה לָכֶם הַפָּסַח חָג שְׁבֻעוֹת יָמִים מַצּוֹת יֵאָכֵל׃",
-     "translit": "Barișon bearbaa asar iom lahodeș ihie lahem hapasah hag șevuot iamim matzot ieahel."
+     "translit": "Barișon bearbaa asar iom lahodeș ihie lahem hapasah hag șevuot iamim matzot ieahel.",
+     "tokens": [
+      {
+       "t": "În prima lună, în a paisprezecea [zi] a lunii, să aveți Paștele, "
+      },
+      {
+       "t": "o sărbătoare de o săptămână de zile",
+       "w": "o sărbătoare de o săptămână de zile",
+       "heb": "שְׁבֻעוֹת",
+       "translit": "șevuot",
+       "strong": "H7620",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "o săptămână de zile (sărbătoare de șapte zile) — literal „sevuot [de] zile”.",
+       "dict_ro": "Rashi explică formula neobișnuită „șevuot iamim” (literal „săptămâni de zile”, nu simplu „șapte zile”) ca o aluzie etimologică la numărarea celor șapte săptămâni de la Pesah la Șavuot — chiar cuvântul folosit aici pentru durata sărbătorii Paștelui conține rădăcina care va da numele sărbătorii Șavuot."
+      },
+      {
+       "t": "; să se mănânce azime."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בָּרִאשׁוֹן בְּאַרְבָּעָה עָשָׂר יוֹם לַחֹדֶשׁ יִהְיֶה לָכֶם הַפָּסַח חָג שְׁבֻעוֹת יָמִים מַצּוֹת יֵאָכֵל׃",
+       "translation": "În prima lună, în a paisprezecea [zi] a lunii, să aveți Paștele, o sărbătoare de o săptămână de zile; să se mănânce azime. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν τῷ πρώτῳ μηνί, τεσσαρεσκαιδεκάτῃ τοῦ μηνός, ἔσται ὑμῖν τὸ πάσχα ἑορτή· ἑπτὰ ἡμέρας ἄζυμα ἔδεσθε.",
+       "greek": true,
+       "translation": "Și în luna întâi, a paisprezecea a lunii, vă va fi Paștele, sărbătoare; șapte zile azime veți mânca.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 12:1-51",
+      "Numeri 28:16-25"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Șevuot [de] zile” — numit astfel pentru că de la ea se începe numărarea celor șapte săptămâni [până la Șavuot] — așa am găsit."
+      }
+     ]
     },
     {
      "v": "45:22",
      "t": "Prințul să facă în acea zi, pentru sine și tot poporul, un taur ca jertfă de păcat.",
      "heb": "וְעָשָׂה הַנָּשִׂיא בַּיּוֹם הַהוּא בַּעֲדוֹ וּבְעַד כָּל־עַם הָאָרֶץ פַּר חַטָּאת׃",
-     "translit": "Veasa hanasi baiom hahu baado uvead kol-am haareț par hatat."
+     "translit": "Veasa hanasi baiom hahu baado uvead kol-am haareț par hatat.",
+     "tokens": [
+      {
+       "t": "Prințul să facă în acea zi, pentru sine și tot poporul, un taur ca jertfă de păcat."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעָשָׂה הַנָּשִׂיא בַּיּוֹם הַהוּא בַּעֲדוֹ וּבְעַד כָּל־עַם הָאָרֶץ פַּר חַטָּאת׃",
+       "translation": "Prințul să facă în acea zi, pentru sine și tot poporul, un taur ca jertfă de păcat. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ποιήσει ὁ ἀφηγούμενος ἐν ἐκείνῃ τῇ ἡμέρᾳ ὑπὲρ αὐτοῦ καὶ τοῦ οἴκου καὶ ὑπὲρ παντὸς τοῦ λαοῦ τῆς γῆς μόσχον ὑπὲρ ἁμαρτίας.",
+       "greek": true,
+       "translation": "Și va face conducătorul în ziua aceea pentru el și pentru Casă și pentru tot poporul țării un vițel pentru păcat.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Leviticul 4:14"
+     ],
+     "commentaries": []
     },
     {
      "v": "45:23",
      "t": "În primele șapte zile ale sărbătorii să aducă o ardere-de-tot DOMNULUI: șapte tauri și șapte berbeci fără meteahnă, zilnic, timp de șapte zile și, ca jertfă de păcat, un țap zilnic.",
      "heb": "וְשִׁבְעַת יְמֵי־הֶחָג יַעֲשֶׂה עוֹלָה לַיהוָה שִׁבְעַת פָּרִים וְשִׁבְעַת אֵילִים תְּמִימִם לַיּוֹם שִׁבְעַת הַיָּמִים וְחַטָּאת שְׂעִיר עִזִּים לַיּוֹם׃",
-     "translit": "Veșivat iemei-hehag iaase ola l'ADONAI șivat parim veșivat eilim temimim laiom șivat haiamim vehatat seir izim laiom."
+     "translit": "Veșivat iemei-hehag iaase ola l'ADONAI șivat parim veșivat eilim temimim laiom șivat haiamim vehatat seir izim laiom.",
+     "tokens": [
+      {
+       "t": "În primele șapte zile ale sărbătorii să aducă o ardere-de-tot DOMNULUI: șapte tauri și șapte berbeci fără meteahnă, zilnic, timp de șapte zile și, ca jertfă de păcat, un țap zilnic."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְשִׁבְעַת יְמֵי־הֶחָג יַעֲשֶׂה עוֹלָה לַיהוָה שִׁבְעַת פָּרִים וְשִׁבְעַת אֵילִים תְּמִימִם לַיּוֹם שִׁבְעַת הַיָּמִים וְחַטָּאת שְׂעִיר עִזִּים לַיּוֹם׃",
+       "translation": "În primele șapte zile ale sărbătorii să aducă o ardere-de-tot DOMNULUI: șapte tauri și șapte berbeci fără meteahnă, zilnic, timp de șapte zile și, ca jertfă de păcat, un țap zilnic. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τὰς ἑπτὰ ἡμέρας τῆς ἑορτῆς ποιήσει ὁλοκαυτώματα τῷ Κυρίῳ, ἑπτὰ μόσχους καὶ ἑπτὰ κριοὺς ἀμώμους καθ’ ἡμέραν, τὰς ἑπτὰ ἡμέρας καὶ ὑπὲρ ἁμαρτίας ἔριφον αἰγῶν καθ’ ἡμέραν.",
+       "greek": true,
+       "translation": "Și cele șapte zile ale sărbătorii va face arderi-de-tot Domnului, șapte viței și șapte berbeci fără meteahnă, în fiecare zi, cele șapte zile, și pentru păcat un ied de capre în fiecare zi.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 28:15-31"
+     ],
+     "commentaries": []
     },
     {
      "v": "45:24",
      "t": "Iar ca prinos: o efa pentru un taur și o efa pentru un berbec să aducă, și un hin de untdelemn pentru fiecare efa.",
      "heb": "וּמִנְחָה אֵיפָה לַפָּר וְאֵיפָה לָאַיִל יַעֲשֶׂה וְשֶׁמֶן הִין לָאֵיפָה׃",
-     "translit": "Uminha eifa lapar veeifa laail iaase veșemen hin laeifa."
+     "translit": "Uminha eifa lapar veeifa laail iaase veșemen hin laeifa.",
+     "tokens": [
+      {
+       "t": "Iar ca prinos: o efa pentru un taur și o efa pentru un berbec să aducă, și un hin de untdelemn pentru fiecare efa."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּמִנְחָה אֵיפָה לַפָּר וְאֵיפָה לָאַיִל יַעֲשֶׂה וְשֶׁמֶן הִין לָאֵיפָה׃",
+       "translation": "Iar ca prinos: o efa pentru un taur și o efa pentru un berbec să aducă, și un hin de untdelemn pentru fiecare efa. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ θυσίαν πέμμα τῷ μόσχῳ καὶ πέμμα τῷ κριῷ ποιήσεις καὶ ἐλαίου τὸ εἲν τῷ πέμματι.",
+       "greek": true,
+       "translation": "Și jertfă, o turtă pentru vițel și o turtă pentru berbec vei face, și de untdelemn un hin pentru turtă.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 46:5-7"
+     ],
+     "commentaries": []
     },
     {
      "v": "45:25",
      "t": "În luna a șaptea, în a cincisprezecea zi a lunii, la sărbătoare, să aducă la fel pentru cele șapte zile: precum jertfa de păcat, precum arderea-de-tot, precum prinosul și precum untdelemnul.",
      "heb": "בַּשְּׁבִיעִי בַּחֲמִשָּׁה עָשָׂר יוֹם לַחֹדֶשׁ בֶּחָג יַעֲשֶׂה כָּאֵלֶּה שִׁבְעַת הַיָּמִים כַּחַטָּאת כָּעֹלָה וְכַמִּנְחָה וְכַשָּׁמֶן׃",
-     "translit": "Bașevii bahamișa asar iom lahodeș behag iaase kaele șivat haiamim kahatat kaola vehaminha vehașamen."
+     "translit": "Bașevii bahamișa asar iom lahodeș behag iaase kaele șivat haiamim kahatat kaola vehaminha vehașamen.",
+     "tokens": [
+      {
+       "t": "În luna a șaptea, în a cincisprezecea zi a lunii, la sărbătoare, să aducă la fel pentru cele șapte zile: precum jertfa de păcat, precum arderea-de-tot, precum prinosul și precum untdelemnul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בַּשְּׁבִיעִי בַּחֲמִשָּׁה עָשָׂר יוֹם לַחֹדֶשׁ בֶּחָג יַעֲשֶׂה כָּאֵלֶּה שִׁבְעַת הַיָּמִים כַּחַטָּאת כָּעֹלָה וְכַמִּנְחָה וְכַשָּׁמֶן׃",
+       "translation": "În luna a șaptea, în a cincisprezecea zi a lunii, la sărbătoare, să aducă la fel pentru cele șapte zile: precum jertfa de păcat, precum arderea-de-tot, precum prinosul și precum untdelemnul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν τῷ ἑβδόμῳ μηνί, πεντεκαιδεκάτῃ τοῦ μηνός, ἐν τῇ ἑορτῇ, ποιήσεις κατὰ τὰ αὐτὰ ἑπτὰ ἡμέρας καθὼς τὰ ὑπὲρ τῆς ἁμαρτίας καὶ καθὼς τὰ ὁλοκαυτώματα καὶ καθὼς τὸ μαναὰ καὶ καθὼς τὸ ἔλαιον.",
+       "greek": true,
+       "translation": "Și în luna a șaptea, a cincisprezecea a lunii, la sărbătoare, vei face la fel șapte zile, ca cele pentru păcat și ca arderile-de-tot și ca prinosul și ca untdelemnul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Leviticul 23:33-43",
+      "Zaharia 14:16-19"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:1",
      "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „Poarta curții interioare care este îndreptată către răsărit să fie închisă în cele șase zile de lucru, dar în ziua de Șabat să se deschidă și în ziua de Lună Nouă să se deschidă.",
      "heb": "כֹּה־אָמַר אֲדֹנָי יְהוִה שַׁעַר הֶחָצֵר הַפְּנִימִית הַפֹּנֶה קָדִים יִהְיֶה סָגוּר שֵׁשֶׁת יְמֵי הַמַּעֲשֶׂה וּבְיוֹם הַשַּׁבָּת יִפָּתֵחַ וּבְיוֹם הַחֹדֶשׁ יִפָּתֵחַ׃",
-     "translit": "Ko-amar Adonai ELOHIM șaar hehatzer hapenimit hapone kadim ihie sagur șeșet iemei hamaase uveiom hașabat ipateah uveiom hahodeș ipateah."
+     "translit": "Ko-amar Adonai ELOHIM șaar hehatzer hapenimit hapone kadim ihie sagur șeșet iemei hamaase uveiom hașabat ipateah uveiom hahodeș ipateah.",
+     "tokens": [
+      {
+       "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „"
+      },
+      {
+       "t": "Poarta curții interioare",
+       "w": "Poarta curții interioare",
+       "heb": "שַׁעַר הֶחָצֵר הַפְּנִימִית",
+       "translit": "șaar hehațēr hapnimit",
+       "strong": "H6442",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular + adjectiv, feminin singular",
+       "def_ro": "poarta curții interioare (șaar hehațēr hapnimit).",
+       "dict_ro": "Rashi citează Tratatul Midot al Mișnei: existau două uși mici (pișpeșin) la poarta Templului, una la sud și una la nord; despre cea de sud e explicit spus în tradiție (Ezechiel 44:2) „niciun om nu va intra prin ea, și va fi închisă” — poarta de răsărit descrisă aici, deschisă doar de Șabat și Lună Nouă, are deci un statut simbolic special, diferit de restul porților."
+      },
+      {
+       "t": " care este îndreptată către răsărit să fie închisă în cele șase zile de lucru, dar în ziua de Șabat să se deschidă și în ziua de Lună Nouă să se deschidă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה־אָמַר אֲדֹנָי יְהוִה שַׁעַר הֶחָצֵר הַפְּנִימִית הַפֹּנֶה קָדִים יִהְיֶה סָגוּר שֵׁשֶׁת יְמֵי הַמַּעֲשֶׂה וּבְיוֹם הַשַּׁבָּת יִפָּתֵחַ וּבְיוֹם הַחֹדֶשׁ יִפָּתֵחַ׃",
+       "translation": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „Poarta curții interioare care este îndreptată către răsărit să fie închisă în cele șase zile de lucru, dar în ziua de Șabat să se deschidă și în ziua de Lună Nouă să se deschidă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΤΑΔΕ λέγει Κύριος Θεός· ἡ πύλη ἡ ἐν τῇ αὐλῇ τῇ ἐσωτέρᾳ ἡ βλέπουσα πρὸς ἀνατολὰς ἔσται κεκλεισμένη ἓξ ἡμέρας τὰς ἐνεργούς, ἐν δὲ τῇ ἡμέρᾳ τῶν σαββάτων ἀνοιχθήσεται καὶ ἐν τῇ ἡμέρᾳ τῆς νουμηνίας ἀνοιχθήσεται.",
+       "greek": true,
+       "translation": "Așa spune Domnul Dumnezeu: «Poarta care [e] în curtea cea interioară, care se uită spre răsărit, va fi închisă în cele șase zile de lucru, iar în ziua sâmbetelor se va deschide, și în ziua lunii noi se va deschide.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 44:1,2",
+      "Isaia 66:23"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Poarta curții interioare, care e îndreptată spre răsărit” — au învățat înțelepții noștri, în Tratatul Midot: existau două porți mici la poarta Templului, una spre sud și una spre nord; despre cea de sud e lămurit în tradiție (Ezechiel 44:2): «niciun om nu va intra prin ea, și va fi închisă»."
+      }
+     ]
     },
     {
      "v": "46:2",
      "t": "Și prințul să intre prin sala porții, dinspre exterior, și să stea lângă ușorul porții prin care preoții îi aduc arderile-de-tot și jertfele sale de pace. Și să se prosterneze în pragul porții și să plece, iar poarta să nu fie închisă până seara.",
      "heb": "וּבָא הַנָּשִׂיא דֶּרֶךְ אוּלָם הַשַּׁעַר מִחוּץ וְעָמַד עַל־מְזוּזַת הַשַּׁעַר וְעָשׂוּ הַכֹּהֲנִים אֶת־עוֹלָתוֹ וְאֶת־שְׁלָמָיו וְהִשְׁתַּחֲוָה עַל־מִפְתַּן הַשַּׁעַר וְיָצָא וְהַשַּׁעַר לֹא־יִסָּגֵר עַד־הָעָרֶב׃",
-     "translit": "Uva hanasi dereh ulam hașaar mihuț veamad al-mezuzat hașaar veasu hakohanim et-olato veet-șelamav vehiștahava al-miftan hașaar veiața vehașaar lo-isager ad-haarev."
+     "translit": "Uva hanasi dereh ulam hașaar mihuț veamad al-mezuzat hașaar veasu hakohanim et-olato veet-șelamav vehiștahava al-miftan hașaar veiața vehașaar lo-isager ad-haarev.",
+     "tokens": [
+      {
+       "t": "Și prințul să intre prin sala porții, dinspre exterior, și să stea lângă ușorul porții prin care preoții îi aduc arderile-de-tot și jertfele sale de pace. Și să se prosterneze în pragul porții și să plece, iar poarta să nu fie închisă până seara."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּבָא הַנָּשִׂיא דֶּרֶךְ אוּלָם הַשַּׁעַר מִחוּץ וְעָמַד עַל־מְזוּזַת הַשַּׁעַר וְעָשׂוּ הַכֹּהֲנִים אֶת־עוֹלָתוֹ וְאֶת־שְׁלָמָיו וְהִשְׁתַּחֲוָה עַל־מִפְתַּן הַשַּׁעַר וְיָצָא וְהַשַּׁעַר לֹא־יִסָּגֵר עַד־הָעָרֶב׃",
+       "translation": "Și prințul să intre prin sala porții, dinspre exterior, și să stea lângă ușorul porții prin care preoții îi aduc arderile-de-tot și jertfele sale de pace. Și să se prosterneze în pragul porții și să plece, iar poarta să nu fie închisă până seara. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἰσελεύσεται ὁ ἀφηγούμενος κατὰ τὴν ὁδὸν τοῦ αἰλὰμ τῆς πύλης τῆς ἔσωθεν καὶ στήσεται ἐπὶ τὰ πρόθυρα τῆς πύλης, καὶ ποιήσουσιν οἱ ἱερεῖς τὰ ὁλοκαυτώματα αὐτοῦ καὶ τὰ τοῦ σωτηρίου αὐτοῦ·",
+       "greek": true,
+       "translation": "Și va intra conducătorul pe calea pridvorului porții celei dinăuntru și va sta la ușorii porții, și preoții vor face arderile-de-tot ale lui și cele de mântuire ale lui;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 44:3",
+      "2 Cronici 23:13"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:3",
      "t": "Și poporul țării să se prosterneze la intrarea acelei porți, de Șabat și de Lunile Noi, înaintea DOMNULUI.",
      "heb": "וְהִשְׁתַּחֲווּ עַם־הָאָרֶץ פֶּתַח הַשַּׁעַר הַהוּא בַּשַּׁבָּתוֹת וּבֶחֳדָשִׁים לִפְנֵי יְהוָה׃",
-     "translit": "Vehiștahavu am-haareț petah hașaar hahu bașabatot uvehodașim lifnei ADONAI."
+     "translit": "Vehiștahavu am-haareț petah hașaar hahu bașabatot uvehodașim lifnei ADONAI.",
+     "tokens": [
+      {
+       "t": "Și poporul țării să se prosterneze la intrarea acelei porți, de Șabat și de Lunile Noi, înaintea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהִשְׁתַּחֲווּ עַם־הָאָרֶץ פֶּתַח הַשַּׁעַר הַהוּא בַּשַּׁבָּתוֹת וּבֶחֳדָשִׁים לִפְנֵי יְהוָה׃",
+       "translation": "Și poporul țării să se prosterneze la intrarea acelei porți, de Șabat și de Lunile Noi, înaintea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ προσκυνήσει ἐπὶ τοῦ προθύρου τῆς πύλης καὶ ἐξελεύσεται καὶ ἡ πύλη οὐ μὴ κλεισθῇ ἕως ἑσπέρας. καὶ προσκυνήσει ὁ λαὸς τῆς γῆς κατὰ τὰ πρόθυρα τῆς πύλης ἐκείνης ἐν τοῖς σαββάτοις καὶ ἐν ταῖς νουμηνίαις ἐναντίον Κυρίου.",
+       "greek": true,
+       "translation": "și se va prosterna la pridvorul porții și va ieși, și poarta nu se va închide până seara. Și se va prosterna poporul țării la pridvorul porții aceleia, în sâmbete și în lunile noi, înaintea Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "46:4",
      "t": "[Iată] arderea-de-tot pe care prințul să o aducă DOMNULUI: în ziua de Șabat: șase oi fără meteahnă și un berbec fără meteahnă,",
      "heb": "וְהָעֹלָה אֲשֶׁר־יַקְרִב הַנָּשִׂיא לַיהוָה בְּיוֹם הַשַּׁבָּת שִׁשָּׁה כְבָשִׂים תְּמִימִם וְאַיִל תָּמִים׃",
-     "translit": "Vehaola așer-iakriv hanasi l'ADONAI beiom hașabat șișa kevasim temimim veail tamim."
+     "translit": "Vehaola așer-iakriv hanasi l'ADONAI beiom hașabat șișa kevasim temimim veail tamim.",
+     "tokens": [
+      {
+       "t": "[Iată] arderea-de-tot pe care prințul să o aducă DOMNULUI: în ziua de Șabat: șase oi fără meteahnă și un berbec fără meteahnă,"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָעֹלָה אֲשֶׁר־יַקְרִב הַנָּשִׂיא לַיהוָה בְּיוֹם הַשַּׁבָּת שִׁשָּׁה כְבָשִׂים תְּמִימִם וְאַיִל תָּמִים׃",
+       "translation": "[Iată] arderea-de-tot pe care prințul să o aducă DOMNULUI: în ziua de Șabat: șase oi fără meteahnă și un berbec fără meteahnă, — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τὰ ὁλοκαυτώματα προσοίσει ὁ ἀφηγούμενος τῷ Κυρίῳ· ἐν τῇ ἡμέρᾳ τῶν σαββάτων ἓξ ἀμνοὺς ἀμώμους καὶ κριὸν ἄμωμον",
+       "greek": true,
+       "translation": "Și arderile-de-tot le va aduce conducătorul Domnului: în ziua sâmbetelor, șase miei fără meteahnă și un berbec fără meteahnă,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 45:17",
+      "Numeri 28:9,10"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:5",
      "t": "și un prinos de o efa pentru berbec; iar pentru oi, un prinos după cât îi dă mâna fiecăruia și un hin de untdelemn pentru fiecare efa.",
      "heb": "וּמִנְחָה אֵיפָה לָאַיִל וְלַכְּבָשִׂים מִנְחָה מַתַּת יָדוֹ וְשֶׁמֶן הִין לָאֵיפָה׃",
-     "translit": "Uminha eifa laail velakevasim minha matat iado veșemen hin laeifa."
+     "translit": "Uminha eifa laail velakevasim minha matat iado veșemen hin laeifa.",
+     "tokens": [
+      {
+       "t": "și un prinos de o efa pentru berbec; iar pentru oi, un prinos după cât îi dă mâna fiecăruia și un hin de untdelemn pentru fiecare efa."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּמִנְחָה אֵיפָה לָאַיִל וְלַכְּבָשִׂים מִנְחָה מַתַּת יָדוֹ וְשֶׁמֶן הִין לָאֵיפָה׃",
+       "translation": "și un prinos de o efa pentru berbec; iar pentru oi, un prinos după cât îi dă mâna fiecăruia și un hin de untdelemn pentru fiecare efa. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ μαναὰ πέμμα τῷ κριῷ καὶ τοῖς ἀμνοῖς θυσίαν δόμα χειρὸς αὐτοῦ, καὶ ἐλαίου τὸ εἲν τῷ πέμματι.",
+       "greek": true,
+       "translation": "și turtă pentru berbec, iar pentru miei, jertfă, darul mâinii lui, și de untdelemn un hin pentru turtă.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Leviticul 14:21",
+      "Deuteronomul 16:17"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:6",
      "t": "Iar în ziua Lunii [Noi], un tăuraș fără meteahnă și șase oi și un berbec – fără meteahnă să fie.",
      "heb": "וּבְיוֹם הַחֹדֶשׁ פַּר בֶּן־בָּקָר תְּמִימִם וְשֵׁשֶׁת כְּבָשִׂים וָאַיִל תְּמִימִם יִהְיוּ׃",
-     "translit": "Uveiom hahodeș par ben-bakar temimim veșeșet kevasim vaail temimim ihiu."
+     "translit": "Uveiom hahodeș par ben-bakar temimim veșeșet kevasim vaail temimim ihiu.",
+     "tokens": [
+      {
+       "t": "Iar în ziua Lunii [Noi], un tăuraș fără meteahnă și șase oi și un berbec – fără meteahnă să fie."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּבְיוֹם הַחֹדֶשׁ פַּר בֶּן־בָּקָר תְּמִימִם וְשֵׁשֶׁת כְּבָשִׂים וָאַיִל תְּמִימִם יִהְיוּ׃",
+       "translation": "Iar în ziua Lunii [Noi], un tăuraș fără meteahnă și șase oi și un berbec – fără meteahnă să fie. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν τῇ ἡμέρᾳ τῆς νουμηνίας μόσχον ἄμωμον καὶ ἓξ ἀμνούς, καὶ κριὸς ἄμωμος ἔσται,",
+       "greek": true,
+       "translation": "Și în ziua lunii noi, un vițel fără meteahnă și șase miei, și un berbec va fi fără meteahnă,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "46:7",
      "t": "O efa pentru taur și o efa pentru berbec să facă drept prinos; iar pentru oi, după cât îi va da mâna. Și un hin de untdelemn pentru fiecare efa.",
      "heb": "וְאֵיפָה לַפָּר וְאֵיפָה לָאַיִל יַעֲשֶׂה מִנְחָה וְלַכְּבָשִׂים כַּאֲשֶׁר תַּשִּׂיג יָדוֹ וְשֶׁמֶן הִין לָאֵיפָה׃",
-     "translit": "Veeifa lapar veeifa laail iaase minha velakevasim kaașer tașig iado veșemen hin laeifa."
+     "translit": "Veeifa lapar veeifa laail iaase minha velakevasim kaașer tașig iado veșemen hin laeifa.",
+     "tokens": [
+      {
+       "t": "O efa pentru taur și o efa pentru berbec să facă drept prinos; iar pentru oi, după cât îi va da mâna. Și un hin de untdelemn pentru fiecare efa."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאֵיפָה לַפָּר וְאֵיפָה לָאַיִל יַעֲשֶׂה מִנְחָה וְלַכְּבָשִׂים כַּאֲשֶׁר תַּשִּׂיג יָדוֹ וְשֶׁמֶן הִין לָאֵיפָה׃",
+       "translation": "O efa pentru taur și o efa pentru berbec să facă drept prinos; iar pentru oi, după cât îi va da mâna. Și un hin de untdelemn pentru fiecare efa. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ πέμμα τῷ κριῷ καὶ πέμμα τῷ μόσχῳ ἔσται μαναά, καὶ τοῖς ἀμνοῖς καθὼς ἂν ἐκποιῇ ἡ χεὶρ αὐτοῦ, καὶ ἐλαίου τὸ εἲν τῷ πέμματι.",
+       "greek": true,
+       "translation": "și turtă pentru berbec și turtă pentru vițel vor fi jertfă, iar pentru miei, cum va putea mâna lui, și de untdelemn un hin pentru turtă.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "46:8",
      "t": "Iar când intră prințul, prin sala porții să intre, și tot pe acolo să iasă.",
      "heb": "וּבְבוֹא הַנָּשִׂיא דֶּרֶךְ אוּלָם הַשַּׁעַר יָבוֹא וּבְדַרְכּוֹ יֵצֵא׃",
-     "translit": "Uvevo hanasi dereh ulam hașaar iavo uvedarko iețe."
+     "translit": "Uvevo hanasi dereh ulam hașaar iavo uvedarko iețe.",
+     "tokens": [
+      {
+       "t": "Iar când intră prințul, prin sala porții să intre, și tot pe acolo să iasă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּבְבוֹא הַנָּשִׂיא דֶּרֶךְ אוּלָם הַשַּׁעַר יָבוֹא וּבְדַרְכּוֹ יֵצֵא׃",
+       "translation": "Iar când intră prințul, prin sala porții să intre, și tot pe acolo să iasă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν τῷ εἰσπορεύεσθαι τὸν ἀφηγούμενον κατὰ τὴν ὁδὸν τοῦ αἰλὰμ τῆς πύλης εἰσελεύσεται καὶ κατὰ τὴν ὁδὸν τῆς πύλης ἐξελεύσεται.",
+       "greek": true,
+       "translation": "Și când intră conducătorul, pe calea pridvorului porții va intra, și pe calea porții va ieși.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 46:2",
+      "Ezechiel 44:1-3"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:9",
      "t": "Dar când poporul țării va veni înaintea DOMNULUI, la soroace, oricine intră prin poarta de miazănoapte să se prosterneze să iasă prin poarta de miazăzi, și oricine intră prin poarta de miazăzi să iasă prin poarta de miazănoapte. Să nu se retragă prin poarta pe care a intrat, ci să iasă pe partea opusă.",
      "heb": "וּבְבוֹא עַם־הָאָרֶץ לִפְנֵי יְהוָה בַּמּוֹעֲדִים הַבָּא דֶּרֶךְ־שַׁעַר צָפוֹן לְהִשְׁתַּחֲוֺת יֵצֵא דֶּרֶךְ־שַׁעַר נֶגֶב וְהַבָּא דֶּרֶךְ־שַׁעַר נֶגֶב יֵצֵא דֶּרֶךְ־שַׁעַר צָפוֹנָה לֹא יָשׁוּב דֶּרֶךְ הַשַּׁעַר אֲשֶׁר־בָּא בוֹ כִּי נִכְחוֹ יֵצֵא׃",
-     "translit": "Uvevo am-haareț lifnei ADONAI bamoadim haba dereh-șaar țafon lehiștahavot iețe dereh-șaar negev vehaba dereh-șaar negev iețe dereh-șaar țafona lo iașuv dereh hașaar așer-ba vo ki niheho iețe."
+     "translit": "Uvevo am-haareț lifnei ADONAI bamoadim haba dereh-șaar țafon lehiștahavot iețe dereh-șaar negev vehaba dereh-șaar negev iețe dereh-șaar țafona lo iașuv dereh hașaar așer-ba vo ki niheho iețe.",
+     "tokens": [
+      {
+       "t": "Dar când poporul țării va veni înaintea DOMNULUI, la soroace, oricine intră prin poarta de miazănoapte să se prosterneze să iasă prin poarta de miazăzi, și oricine intră prin poarta de miazăzi să iasă prin poarta de miazănoapte. Să nu "
+      },
+      {
+       "t": "se retragă",
+       "w": "se retragă",
+       "heb": "יָשׁוּב",
+       "translit": "iașuv",
+       "strong": "H7725",
+       "pos": "verb, qal imperfect",
+       "def_ro": "să se întoarcă [pe același drum] (iașuv).",
+       "dict_ro": "Rashi explică regula porților opuse ca o poruncă menită să asigure ca întreg poporul să se vadă bine unul pe altul, trecând prin toată curtea Templului — o lecție de ordine civică și vizibilitate comunitară, nu doar o regulă tehnică de trafic."
+      },
+      {
+       "t": " prin poarta pe care a intrat, ci să iasă pe partea opusă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּבְבוֹא עַם־הָאָרֶץ לִפְנֵי יְהוָה בַּמּוֹעֲדִים הַבָּא דֶּרֶךְ־שַׁעַר צָפוֹן לְהִשְׁתַּחֲוֺת יֵצֵא דֶּרֶךְ־שַׁעַר נֶגֶב וְהַבָּא דֶּרֶךְ־שַׁעַר נֶגֶב יֵצֵא דֶּרֶךְ־שַׁעַר צָפוֹנָה לֹא יָשׁוּב דֶּרֶךְ הַשַּׁעַר אֲשֶׁר־בָּא בוֹ כִּי נִכְחוֹ יֵצֵא׃",
+       "translation": "Dar când poporul țării va veni înaintea DOMNULUI, la soroace, oricine intră prin poarta de miazănoapte să se prosterneze să iasă prin poarta de miazăzi, și oricine intră prin poarta de miazăzi să iasă prin poarta de miazănoapte. Să nu se retragă prin poarta pe care a intrat, ci să iasă pe partea opusă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὅταν εἰσπορεύηται ὁ λαὸς τῆς γῆς ἐναντίον Κυρίου ἐν ταῖς ἑορταῖς, ὁ εἰσπορευόμενος κατὰ τὴν ὁδὸν τῆς πύλης τῆς βλεπούσης πρὸς βορρᾶν προσκυνεῖν ἐξελεύσεται κατὰ τὴν ὁδὸν τῆς πύλης τῆς πρὸς νότον, καὶ ὁ εἰσπορευόμενος κατὰ τὴν ὁδὸν τῆς πύλης τῆς πρὸς νότον ἐξελεύσεται κατὰ τὴν ὁδὸν τῆς πύλης τῆς πρὸς βορρᾶν· οὐκ ἀναστρέψει κατὰ τὴν πύλην, εἰς ἣν εἰσελήλυθεν, ἀλλ’ ἢ κατ’ εὐθὺ αὐτῆς ἐξελεύσεται.",
+       "greek": true,
+       "translation": "Și când intră poporul țării înaintea Domnului, la sărbători, cel care intră pe calea porții celei care se uită spre nord, ca să se prosterneze, va ieși pe calea porții celei spre sud, și cel care intră pe calea porții celei spre sud va ieși pe calea porții celei spre nord; nu se va întoarce pe poarta pe care a intrat, ci drept înainte va ieși.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 23:14-17",
+      "Deuteronomul 16:16"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și cine intră pe poarta de miazănoapte... căci ieșind drept înainte va ieși” — e poruncă asupra lor să se vadă bine unii pe alții în curte."
+      }
+     ]
     },
     {
      "v": "46:10",
      "t": "Dar prințul din mijlocul lor, așa cum intră, să intre cum intră ei și să iasă cum ies ei.",
      "heb": "וְהַנָּשִׂיא בְּתוֹכָם בְּבוֹאָם יָבוֹא וּבְצֵאתָם יֵצֵאוּ׃",
-     "translit": "Vehanasi betoham bevoam iavo uvețetam iețeu."
+     "translit": "Vehanasi betoham bevoam iavo uvețetam iețeu.",
+     "tokens": [
+      {
+       "t": "Dar prințul din mijlocul lor, așa cum intră, să intre cum intră ei și să iasă cum ies ei."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהַנָּשִׂיא בְּתוֹכָם בְּבוֹאָם יָבוֹא וּבְצֵאתָם יֵצֵאוּ׃",
+       "translation": "Dar prințul din mijlocul lor, așa cum intră, să intre cum intră ei și să iasă cum ies ei. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὁ ἀφηγούμενος ἐν μέσῳ αὐτῶν ἐν τῷ εἰσπορεύεσθαι αὐτοὺς εἰσελεύσεται μετ’ αὐτῶν καὶ ἐν τῷ ἐκπορεύεσθαι αὐτοὺς ἐξελεύσεται.",
+       "greek": true,
+       "translation": "Și conducătorul [va fi] în mijlocul lor, când intră ei va intra cu ei, și când ies ei va ieși.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 29:28,29"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:11",
      "t": "Iar la sărbători și la soroace, prinosul să fie o efa pentru taur și o efa pentru berbec. Iar pentru oi, fiecare după cât îi dă mâna, și un hin de untdelemn pentru fiecare efa.",
      "heb": "וּבַחַגִּים וּבַמּוֹעֲדִים תִּהְיֶה הַמִּנְחָה אֵיפָה לַפָּר וְאֵיפָה לָאַיִל וְלַכְּבָשִׂים מַתַּת יָדוֹ וְשֶׁמֶן הִין לָאֵיפָה׃",
-     "translit": "Uvahagim uvamoadim tihie haminha eifa lapar veeifa laail velakevasim matat iado veșemen hin laeifa."
+     "translit": "Uvahagim uvamoadim tihie haminha eifa lapar veeifa laail velakevasim matat iado veșemen hin laeifa.",
+     "tokens": [
+      {
+       "t": "Iar la sărbători și la soroace, prinosul să fie o efa pentru taur și o efa pentru berbec. Iar pentru oi, fiecare după cât îi dă mâna, și un hin de untdelemn pentru fiecare efa."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּבַחַגִּים וּבַמּוֹעֲדִים תִּהְיֶה הַמִּנְחָה אֵיפָה לַפָּר וְאֵיפָה לָאַיִל וְלַכְּבָשִׂים מַתַּת יָדוֹ וְשֶׁמֶן הִין לָאֵיפָה׃",
+       "translation": "Iar la sărbători și la soroace, prinosul să fie o efa pentru taur și o efa pentru berbec. Iar pentru oi, fiecare după cât îi dă mâna, și un hin de untdelemn pentru fiecare efa. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν ταῖς ἑορταῖς καὶ ἐν ταῖς πανηγύρεσιν ἔσται τὸ μαναὰ πέμμα τῷ μόσχῳ καὶ πέμμα τῷ κριῷ καὶ τοῖς ἀμνοῖς καθὼς ἂν ἐκποιῇ ἡ χεὶρ αὐτοῦ καὶ ἐλαίου τὸ εἲν τῷ πέμματι.",
+       "greek": true,
+       "translation": "Și la sărbători și la adunări va fi jertfa: turtă pentru vițel și turtă pentru berbec, iar pentru miei cum va putea mâna lui, și de untdelemn un hin pentru turtă.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 46:5",
+      "Ezechiel 46:7"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:12",
      "t": "Iar când prințul va face o ofrandă de bunăvoie – o ardere-de-tot sau o ofrandă de pace ca ofrandă de bunăvoie DOMNULUI – atunci să i se deschidă poarta îndreptată către răsărit. Și să-și facă arderea-de-tot și ofrandele de pace precum face în ziua de Șabat; apoi să iasă și poarta să fie închisă după plecarea lui.",
      "heb": "וְכִי־יַעֲשֶׂה הַנָּשִׂיא נְדָבָה עוֹלָה אוֹ־שְׁלָמִים נְדָבָה לַיהוָה וּפָתַח לוֹ אֶת הַשַּׁעַר הַפֹּנֶה קָדִים וְעָשָׂה אֶת־עֹלָתוֹ וְאֶת־שְׁלָמָיו כַּאֲשֶׁר יַעֲשֶׂה בְּיוֹם הַשַּׁבָּת וְיָצָא וְסָגַר אֶת־הַשַּׁעַר אַחֲרֵי צֵאתוֹ׃",
-     "translit": "Vehi-iaase hanasi nedava ola o-șelamim nedava l'ADONAI ufatah lo et-hașaar hapone kadim veasa et-olato veet-șelamav kaașer iaase beiom hașabat veiața vesagar et-hașaar aharei țeito."
+     "translit": "Vehi-iaase hanasi nedava ola o-șelamim nedava l'ADONAI ufatah lo et-hașaar hapone kadim veasa et-olato veet-șelamav kaașer iaase beiom hașabat veiața vesagar et-hașaar aharei țeito.",
+     "tokens": [
+      {
+       "t": "Iar când prințul va face o ofrandă de bunăvoie – o ardere-de-tot sau o ofrandă de pace ca ofrandă de bunăvoie DOMNULUI – atunci să i se deschidă poarta îndreptată către răsărit. Și să-și facă arderea-de-tot și ofrandele de pace precum face în ziua de Șabat; apoi să iasă și poarta să fie închisă după plecarea lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְכִי־יַעֲשֶׂה הַנָּשִׂיא נְדָבָה עוֹלָה אוֹ־שְׁלָמִים נְדָבָה לַיהוָה וּפָתַח לוֹ אֶת הַשַּׁעַר הַפֹּנֶה קָדִים וְעָשָׂה אֶת־עֹלָתוֹ וְאֶת־שְׁלָמָיו כַּאֲשֶׁר יַעֲשֶׂה בְּיוֹם הַשַּׁבָּת וְיָצָא וְסָגַר אֶת־הַשַּׁעַר אַחֲרֵי צֵאתוֹ׃",
+       "translation": "Iar când prințul va face o ofrandă de bunăvoie – o ardere-de-tot sau o ofrandă de pace ca ofrandă de bunăvoie DOMNULUI – atunci să i se deschidă poarta îndreptată către răsărit. Și să-și facă arderea-de-tot și ofrandele de pace precum face în ziua de Șabat; apoi să iasă și poarta să fie închisă după plecarea lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐὰν δέ ποιήσῃ ὁ ἀφηγούμενος ὁμολογίαν ὁλοκαύτωμα σωτηρίου τῷ Κυρίῳ, καὶ ἀνοίξῃ ἑαυτῷ τὴν πύλην τὴν βλέπουσαν κατὰ ἀνατολὰς καὶ ποιήσει τὸ ὁλοκαύτωμα αὐτοῦ καὶ τὰ τοῦ σωτηρίου αὐτοῦ, ὃν τρόπον ποιεῖ ἐν τῇ ἡμέρᾳ τῶν σαββάτων, καὶ ἐξελεύσεται καὶ κλείσει τὰς θύρας μετὰ τὸ ἐξελθεῖν αὐτόν.",
+       "greek": true,
+       "translation": "Iar dacă face conducătorul o făgăduință, ardere-de-tot sau [jertfă] de mântuire, de bunăvoie, Domnului, i se va deschide poarta cea care se uită spre răsărit, și va face arderea lui de tot și cele de mântuire ale lui, precum face în ziua sâmbetelor, și va ieși și va închide porțile după ce va ieși.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Leviticul 1:3",
+      "Ezechiel 46:1,2"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:13",
      "t": "Un miel în primul său an fără meteahnă să faci ca ardere-de-tot zilnică pentru DOMNUL. În fiecare dimineață să o faci.",
      "heb": "וְכֶבֶשׂ בֶּן־שְׁנָתוֹ תָּמִים תַּעֲשֶׂה עוֹלָה לַיּוֹם לַיהוָה בַּבֹּקֶר בַּבֹּקֶר תַּעֲשֶׂה אֹתוֹ׃",
-     "translit": "Veheves ben-șenato tamim taase ola laiom l'ADONAI baboker baboker taase oto."
+     "translit": "Veheves ben-șenato tamim taase ola laiom l'ADONAI baboker baboker taase oto.",
+     "tokens": [
+      {
+       "t": "Un miel în primul său an fără meteahnă să faci ca ardere-de-tot zilnică pentru DOMNUL. În fiecare dimineață să o faci."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְכֶבֶשׂ בֶּן־שְׁנָתוֹ תָּמִים תַּעֲשֶׂה עוֹלָה לַיּוֹם לַיהוָה בַּבֹּקֶר בַּבֹּקֶר תַּעֲשֶׂה אֹתוֹ׃",
+       "translation": "Un miel în primul său an fără meteahnă să faci ca ardere-de-tot zilnică pentru DOMNUL. În fiecare dimineață să o faci. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀμνὸν ἐνιαύσιον ἄμωμον ποιήσει εἰς ὁλοκαύτωμα καθ’ ἡμέραν τῷ Κυρίῳ, πρωΐ ποιήσει αὐτόν·",
+       "greek": true,
+       "translation": "Și un miel de un an, fără meteahnă, va face ardere-de-tot în fiecare zi Domnului; dimineața îl va face.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 29:38-42",
+      "Numeri 28:3-8"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:14",
      "t": "Să aduci un prinos cu el în fiecare dimineață: o șesime de efa și o treime de hin de untdelemn cu care să frămânți făina, un prinos pentru DOMNUL – un decret veșnic, necontenit.",
      "heb": "וּמִנְחָה תַעֲשֶׂה עָלָיו בַּבֹּקֶר בַּבֹּקֶר שִׁשִּׁית הָאֵיפָה וְשֶׁמֶן שְׁלִישִׁית הַהִין לָרֹס אֶת־הַסֹּלֶת מִנְחָה לַיהוָה חֻקּוֹת עוֹלָם תָּמִיד׃",
-     "translit": "Uminha taase alav baboker baboker șișit haeifa veșemen șelișit hahin laros et-hasolet minha l'ADONAI hukot olam tamid."
+     "translit": "Uminha taase alav baboker baboker șișit haeifa veșemen șelișit hahin laros et-hasolet minha l'ADONAI hukot olam tamid.",
+     "tokens": [
+      {
+       "t": "Să aduci un prinos cu el în fiecare dimineață: o șesime de efa și o treime de hin de untdelemn cu care să frămânți făina, un prinos pentru DOMNUL – un decret veșnic, necontenit."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּמִנְחָה תַעֲשֶׂה עָלָיו בַּבֹּקֶר בַּבֹּקֶר שִׁשִּׁית הָאֵיפָה וְשֶׁמֶן שְׁלִישִׁית הַהִין לָרֹס אֶת־הַסֹּלֶת מִנְחָה לַיהוָה חֻקּוֹת עוֹלָם תָּמִיד׃",
+       "translation": "Să aduci un prinos cu el în fiecare dimineață: o șesime de efa și o treime de hin de untdelemn cu care să frămânți făina, un prinos pentru DOMNUL – un decret veșnic, necontenit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ μαναὰ ποιήσει ἐπ’ αὐτῷ τὸ πρωΐ ἕκτον τοῦ μέτρου καὶ ἐλαίου τὸ τρίτον τοῦ εἲν τοῦ ἀναμεῖξαι τὴν σεμίδαλιν μαναὰ τῷ Κυρίῳ, πρόσταγμα διαπαντός.",
+       "greek": true,
+       "translation": "Și jertfă va face cu el dimineața, a șasea parte din măsură, și de untdelemn a treia parte din hin, ca să amestece floarea făinii [ca] jertfă Domnului, poruncă necurmată.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 28:5"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:15",
      "t": "Și să facă mielul și prinosul și untdelemnul în fiecare dimineață, ca ofrandă necontenită.",
      "heb": "יַעֲשׂוּ אֶת־הַכֶּבֶשׂ וְאֶת־הַמִּנְחָה וְאֶת־הַשֶּׁמֶן בַּבֹּקֶר בַּבֹּקֶר עוֹלַת תָּמִיד׃",
-     "translit": "Iaasu et-hakeves veet-haminha veet-hașemen baboker baboker olat tamid."
+     "translit": "Iaasu et-hakeves veet-haminha veet-hașemen baboker baboker olat tamid.",
+     "tokens": [
+      {
+       "t": "Și să facă mielul și prinosul și untdelemnul în fiecare dimineață, ca ofrandă necontenită."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יַעֲשׂוּ אֶת־הַכֶּבֶשׂ וְאֶת־הַמִּנְחָה וְאֶת־הַשֶּׁמֶן בַּבֹּקֶר בַּבֹּקֶר עוֹלַת תָּמִיד׃",
+       "translation": "Și să facă mielul și prinosul și untdelemnul în fiecare dimineață, ca ofrandă necontenită. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ποιήσετε τὸν ἀμνὸν καὶ τὸ μαναὰ καὶ τὸ ἔλαιον ποιήσετε τὸ πρωΐ ὁλοκαύτωμα διὰ παντός.",
+       "greek": true,
+       "translation": "Veți face mielul și jertfa și untdelemnul, le veți face dimineața, ardere-de-tot necurmată.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "46:16",
      "t": "Așa vorbește Stăpânul meu, Domnul DUMNEZEU: „Dacă prințul va da un dar unuia dintre fiii lui – fiind moștenirea lui care va aparține fiilor lui – să fie proprietatea lui prin moștenire.",
      "heb": "כֹּה־אָמַר אֲדֹנָי יְהוִה כִּי־יִתֵּן הַנָּשִׂיא מַתָּנָה לְאִישׁ מִבָּנָיו נַחֲלָתוֹ הִיא לְבָנָיו תִּהְיֶה אֲחֻזָּתָם הִיא בְּנַחֲלָה׃",
-     "translit": "Ko-amar Adonai ELOHIM ki-iten hanasi matana leiș mibanav nahalato hi levanav tihie ahuzatam hi benahala."
+     "translit": "Ko-amar Adonai ELOHIM ki-iten hanasi matana leiș mibanav nahalato hi levanav tihie ahuzatam hi benahala.",
+     "tokens": [
+      {
+       "t": "Așa vorbește Stăpânul meu, Domnul DUMNEZEU: „Dacă prințul va da un dar unuia dintre fiii lui – fiind moștenirea lui care va aparține fiilor lui – să fie proprietatea lui prin moștenire."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה־אָמַר אֲדֹנָי יְהוִה כִּי־יִתֵּן הַנָּשִׂיא מַתָּנָה לְאִישׁ מִבָּנָיו נַחֲלָתוֹ הִיא לְבָנָיו תִּהְיֶה אֲחֻזָּתָם הִיא בְּנַחֲלָה׃",
+       "translation": "Așa vorbește Stăpânul meu, Domnul DUMNEZEU: „Dacă prințul va da un dar unuia dintre fiii lui – fiind moștenirea lui care va aparține fiilor lui – să fie proprietatea lui prin moștenire. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Τάδε λέγει Κύριος Θεός· ἐὰν δῷ ὁ ἀφηγούμενος δόμα ἑνὶ ἐκ τῶν υἱῶν αὐτοῦ ἐκ τῆς κληρονομίας αὐτοῦ, τοῦτο τοῖς υἱοῖς αὐτοῦ ἔσται κατάσχεσις ἐν κληρονομίᾳ.",
+       "greek": true,
+       "translation": "Așa spune Domnul Dumnezeu: «Dacă dă conducătorul un dar unuia dintre fiii lui din moștenirea lui, acesta va fi al fiilor lui, posesiune prin moștenire.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 21:3"
+     ],
+     "commentaries": []
     },
     {
      "v": "46:17",
      "t": "Dar dacă prințul dă un dar din moștenirea sa unuia dintre slujitorii lui, să rămână a lui până la anul de eliberare, apoi i se va returna prințului. Iar moștenirea lui trebuie să fie negreșit a fiilor lui.",
      "heb": "וְכִי־יִתֵּן מַתָּנָה מִנַּחֲלָתוֹ לְאַחַד מֵעֲבָדָיו וְהָיְתָה לּוֹ עַד־שְׁנַת הַדְּרוֹר וְשָׁבַת לַנָּשִׂיא אַךְ נַחֲלָתוֹ בָּנָיו לָהֶם תִּהְיֶה׃",
-     "translit": "Vehi-iten matana minahalato leahad meavadav vehaita lo ad-șenat haderor veșavat lanasi ah nahalato banav lahem tihie."
+     "translit": "Vehi-iten matana minahalato leahad meavadav vehaita lo ad-șenat haderor veșavat lanasi ah nahalato banav lahem tihie.",
+     "tokens": [
+      {
+       "t": "Dar dacă prințul dă un dar din moștenirea sa unuia dintre slujitorii lui, să rămână a lui până la "
+      },
+      {
+       "t": "anul de eliberare",
+       "w": "anul de eliberare",
+       "heb": "הַדְּרוֹר",
+       "translit": "hadror",
+       "strong": "H1865",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "anul libertății, al eliberării (șenat hador).",
+       "dict_ro": "Rashi identifică explicit acest „an al eliberării” cu anul jubiliar (iovel) din Leviticul 25:10, când toate proprietățile și sclavii se eliberau — același principiu aplicat aici darurilor pe care prințul le face slujitorilor săi: ele revin automat la domeniul princiar la fiecare jubileu, spre diferență de darurile către proprii fii, care rămân moștenire permanentă."
+      },
+      {
+       "t": ", apoi i se va returna prințului. Iar moștenirea lui trebuie să fie negreșit a fiilor lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְכִי־יִתֵּן מַתָּנָה מִנַּחֲלָתוֹ לְאַחַד מֵעֲבָדָיו וְהָיְתָה לּוֹ עַד־שְׁנַת הַדְּרוֹר וְשָׁבַת לַנָּשִׂיא אַךְ נַחֲלָתוֹ בָּנָיו לָהֶם תִּהְיֶה׃",
+       "translation": "Dar dacă prințul dă un dar din moștenirea sa unuia dintre slujitorii lui, să rămână a lui până la anul de eliberare, apoi i se va returna prințului. Iar moștenirea lui trebuie să fie negreșit a fiilor lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐὰν δὲ δῷ δόμα ἑνὶ τῶν παίδων αὐτοῦ, καὶ ἔσται αὐτῷ ἕως τοῦ ἔτους τῆς ἀφέσεως, καὶ ἀποδώσει τῷ ἀφηγουμένῳ· πλὴν τῆς κληρονομίας τῶν υἱῶν αὐτοῦ, αὐτοῖς ἔσται.",
+       "greek": true,
+       "translation": "Iar dacă dă un dar unuia dintre slujitorii lui, va fi al lui până la anul eliberării, și se va întoarce la conducător; totuși moștenirea fiilor lui a lor va fi.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Leviticul 25:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Anul eliberării” — anul jubiliar (Leviticul 25:10). „Și se va întoarce” — ca «veșava» [formă alternativă a aceluiași verb]. „Totuși moștenirea lui, a fiilor lui să fie” — ca «totuși fiilor lui să-i fie moștenirea», și să nu se dea definitiv altuia (Leviticul 25:30)."
+      }
+     ]
     },
     {
      "v": "46:18",
      "t": "Și prințul să nu ia din moștenirea poporului, jefuindu-i de moștenirea lor. Din avutul lui [propriu] să își înzestreze copiii, pentru ca poporul Meu să nu fie deposedat, fiecare, de moștenirea lui.",
      "heb": "וְלֹא־יִקַּח הַנָּשִׂיא מִנַּחֲלַת הָעָם לְהוֹנֹתָם מֵאֲחֻזָּתָם מֵאֲחֻזָּתוֹ יַנְחִל אֶת־בָּנָיו לְמַעַן אֲשֶׁר לֹא־יָפֻצוּ עַמִּי אִישׁ מֵאֲחֻזָּתוֹ׃",
-     "translit": "Velo-ikah hanasi minahalat haam lehonotam meahuzatam meahuzato ianhil et-banav lemaan așer lo-iafuțu ami iș meahuzato."
+     "translit": "Velo-ikah hanasi minahalat haam lehonotam meahuzatam meahuzato ianhil et-banav lemaan așer lo-iafuțu ami iș meahuzato.",
+     "tokens": [
+      {
+       "t": "Și prințul să nu ia din moștenirea poporului, jefuindu-i de moștenirea lor. Din avutul lui [propriu] să își înzestreze copiii, pentru ca poporul Meu să nu fie deposedat, fiecare, de moștenirea lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְלֹא־יִקַּח הַנָּשִׂיא מִנַּחֲלַת הָעָם לְהוֹנֹתָם מֵאֲחֻזָּתָם מֵאֲחֻזָּתוֹ יַנְחִל אֶת־בָּנָיו לְמַעַן אֲשֶׁר לֹא־יָפֻצוּ עַמִּי אִישׁ מֵאֲחֻזָּתוֹ׃",
+       "translation": "Și prințul să nu ia din moștenirea poporului, jefuindu-i de moștenirea lor. Din avutul lui [propriu] să își înzestreze copiii, pentru ca poporul Meu să nu fie deposedat, fiecare, de moștenirea lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ οὐ μὴ λάβῃ ὁ ἀφηγούμενος ἐκ τῆς κληρονομίας τοῦ λαοῦ τοῦ καταδυναστεῦσαι αὐτούς· ἐκ τῆς κατασχέσεως αὐτοῦ κατακληρονομήσει τοῖς υἱοῖς αὐτοῦ, ὅπως μὴ διασκορπίζηται ὁ λαός μου ἕκαστος ἐκ τῆς κατασχέσεως αὐτοῦ. -",
+       "greek": true,
+       "translation": "Și nu va lua conducătorul din moștenirea poporului, ca să-i asuprească; din posesiunea lui va da moștenire fiilor lui, ca să nu fie împrăștiat poporul Meu, fiecare din posesiunea lui.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 45:8",
+      "Ieremia 23:5,6"
+     ],
+     "commentaries": []
     }
    ]
   },
