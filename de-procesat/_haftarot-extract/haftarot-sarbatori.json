@@ -21875,307 +21875,1798 @@
      "v": "1:1",
      "t": "Cuvântul DOMNULUI a venit la Iona, fiul lui Amitai, spunând:",
      "heb": "וַיְהִי דְבַר־יְהוָה אֶל־יוֹנָה בֶן־אֲמִתַּי לֵאמֹר׃",
-     "translit": "Vaihi devar-ADONAI el-Iona ven-Amitai lemor."
+     "translit": "Vaihi devar-ADONAI el-Iona ven-Amitai lemor.",
+     "tokens": [
+      {
+       "t": "Cuvântul DOMNULUI a venit la Iona, fiul lui Amitai, spunând:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי דְבַר־יְהוָה אֶל־יוֹנָה בֶן־אֲמִתַּי לֵאמֹר׃",
+       "translation": "Cuvântul DOMNULUI a venit la Iona, fiul lui Amitai, spunând: — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐγένετο λόγος Κυρίου πρὸς ᾿Ιωνᾶν τὸν τοῦ ᾿Αμαθὶ λέγων·",
+       "greek": true,
+       "translation": "Și a fost cuvântul Domnului către Iona, fiul lui Amathi, zicând:",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Împărați 14:25",
+      "Matei 12:39"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:2",
      "t": "„Scoală-te! Du-te la Ninive, cetatea cea mare, și strigă către ea, căci răutatea lor s-a urcat înaintea Mea.”",
      "heb": "קוּם לֵךְ אֶל־נִינְוֵה הָעִיר הַגְּדוֹלָה וּקְרָא עָלֶיהָ כִּי־עָלְתָה רָעָתָם לְפָנָי׃",
-     "translit": "Kum leh el-Ninve hair haggedola ukera aleha ki-alta raatam lefanai."
+     "translit": "Kum leh el-Ninve hair haggedola ukera aleha ki-alta raatam lefanai.",
+     "tokens": [
+      {
+       "t": "„Scoală-te! Du-te la Ninive, cetatea cea mare, și strigă către ea, căci răutatea lor s-a urcat înaintea Mea.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "קוּם לֵךְ אֶל־נִינְוֵה הָעִיר הַגְּדוֹלָה וּקְרָא עָלֶיהָ כִּי־עָלְתָה רָעָתָם לְפָנָי׃",
+       "translation": "„Scoală-te! Du-te la Ninive, cetatea cea mare, și strigă către ea, căci răutatea lor s-a urcat înaintea Mea.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀνάστηθι καὶ πορεύθητι εἰς Νινευὴ τὴν πόλιν τὴν μεγάλην καὶ κήρυξον ἐν αὐτῇ, ὅτι ἀνέβη ἡ κραυγὴ τῆς κακίας αὐτῆς πρός με.",
+       "greek": true,
+       "translation": "Scoală-te și du-te la Ninive, cetatea cea mare, și strigă în ea, căci s-a suit strigarea răutății ei înaintea Mea.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 10:11",
+      "Naum 1:1",
+      "Țefania 2:13-15"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:3",
      "t": "Dar Iona s-a sculat și a fugit în Tarșiș, de dinaintea DOMNULUI. A coborât la Iafo și a găsit o corabie care mergea spre Tarșiș; a plătit prețul, s-a urcat în ea și a călătorit cu ei la Tarșiș, de dinaintea DOMNULUI.",
      "heb": "וַיָּקָם יוֹנָה לִבְרֹחַ תַּרְשִׁישָׁה מִלִּפְנֵי יְהוָה וַיֵּרֶד יָפוֹ וַיִּמְצָא אֳנִיָּה בָּאָה תַרְשִׁישׁ וַיִּתֵּן שְׂכָרָהּ וַיֵּרֶד בָּהּ לָבוֹא עִמָּהֶם תַּרְשִׁישָׁה מִלִּפְנֵי יְהוָה׃",
-     "translit": "Vaiakom Iona livroah Tarșișa milifnei ADONAI vaiered Iafo vaimtza onia baa Tarșiș vaiten sehara vaiered ba lavo imahem Tarșișa milifnei ADONAI."
+     "translit": "Vaiakom Iona livroah Tarșișa milifnei ADONAI vaiered Iafo vaimtza onia baa Tarșiș vaiten sehara vaiered ba lavo imahem Tarșișa milifnei ADONAI.",
+     "tokens": [
+      {
+       "t": "Dar Iona s-a sculat și a fugit în Tarșiș, de dinaintea DOMNULUI. A coborât la Iafo și a găsit o corabie care mergea spre Tarșiș; a plătit prețul, s-a urcat în ea și a călătorit cu ei la Tarșiș, de dinaintea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּקָם יוֹנָה לִבְרֹחַ תַּרְשִׁישָׁה מִלִּפְנֵי יְהוָה וַיֵּרֶד יָפוֹ וַיִּמְצָא אֳנִיָּה בָּאָה תַרְשִׁישׁ וַיִּתֵּן שְׂכָרָהּ וַיֵּרֶד בָּהּ לָבוֹא עִמָּהֶם תַּרְשִׁישָׁה מִלִּפְנֵי יְהוָה׃",
+       "translation": "Dar Iona s-a sculat și a fugit în Tarșiș, de dinaintea DOMNULUI. A coborât la Iafo și a găsit o corabie care mergea spre Tarșiș; a plătit prețul, s-a urcat în ea și a călătorit cu ei la Tarșiș, de dinaintea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέστη ᾿Ιωνᾶς τοῦ φυγεῖν εἰς Θαρσὶς ἐκ προσώπου Κυρίου καὶ κατέβη εἰς ᾿Ιόππην καὶ εὗρε πλοῖον βαδίζον εἰς Θαρσὶς καὶ ἔδωκε τὸν ναῦλον αὐτοῦ καὶ ἐνέβη εἰς αὐτὸ τοῦ πλεῦσαι μετ᾿ αὐτῶν εἰς Θαρσὶς ἐκ προσώπου Κυρίου.",
+       "greek": true,
+       "translation": "și s-a sculat Iona ca să fugă la Tarsis dinaintea feței Domnului, și a coborât la Iope, și a găsit o corabie mergând la Tarsis, și a dat plata ei de transport și s-a suit în ea ca să plutească cu ei la Tarsis dinaintea feței Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iona 4:2",
+      "Exodul 4:13,14",
+      "Isaia 23:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Să fugă la Tarșiș” — mare numit Tarșiș, în afara Țării. A spus: voi fugi la mare, căci Șechina nu se odihnește în afara Țării. I-a spus Cel Sfânt: pe viața ta, am trimișii Mei asemenea ție, ca să te trimit după ei și să te aducă de acolo. Pildă: un rob de preot a fugit de la stăpânul lui și a intrat într-un cimitir; i-a spus stăpânul lui: am robi asemenea ție, ca să-i trimit după tine și să te aducă de acolo. Și ce-a văzut Iona de n-a vrut să se ducă la Ninive? A spus: neamurile sunt apropiate de pocăință; de le voi spune [cuvântul profetic] și se vor pocăi, mă voi afla eu însumi condamnând pe Israel, căruia nu-i place să asculte cuvintele profeților. „Și a dat prețul [transportului]” — a plătit în avans, lucru neobișnuit printre cei ce merg pe mare, care plătesc de obicei la ieșire; și nu doar atât, dar a plătit prețul întregii corăbii."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„S-a sculat Iona ca să fugă la Tarșiș de dinaintea Domnului” — și cum ar putea fugi, când David a spus „unde să fug dinaintea Ta?” Dar „dinaintea Domnului” nu înseamnă „din fața Domnului” propriu-zis, ci din locul care este „înaintea Domnului” — adică duhul profeției; a crezut că, ieșind din Țara lui Israel spre afara ei, duhul profeției nu se va mai odihni asupra lui, și a refuzat să meargă în această misiune, pentru că a spus: neamurile sunt apropiate de pocăință, și dacă mă voi duce la ei în misiunea Celui Sfânt, se vor întoarce de la căile lor rele și vor condamna pe Israel, pe care eu și ceilalți profeți îi trimitem mereu în misiunea Celui Sfânt și nu se întorc de la căile lor rele."
+      }
+     ]
     },
     {
      "v": "1:4",
      "t": "Apoi DOMNUL a dezlănțuit un vânt mare către mare și el a devenit o furtună atât de uriașă pe mare, încât corabia era pe cale să se rupă.",
      "heb": "וַיהוָה הֵטִיל רוּחַ־גְּדוֹלָה אֶל־הַיָּם וַיְהִי סַעַר־גָּדוֹל בַּיָּם וְהָאֳנִיָּה חִשְּׁבָה לְהִשָּׁבֵר׃",
-     "translit": "V'ADONAI hetil ruah-ghedola el-haiam vaihi saar-gadol baiam vehaonia hișva lehișaver."
+     "translit": "V'ADONAI hetil ruah-ghedola el-haiam vaihi saar-gadol baiam vehaonia hișva lehișaver.",
+     "tokens": [
+      {
+       "t": "Apoi DOMNUL a dezlănțuit un vânt mare către mare și el a devenit o furtună atât de uriașă pe mare, încât corabia era pe cale să se rupă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיהוָה הֵטִיל רוּחַ־גְּדוֹלָה אֶל־הַיָּם וַיְהִי סַעַר־גָּדוֹל בַּיָּם וְהָאֳנִיָּה חִשְּׁבָה לְהִשָּׁבֵר׃",
+       "translation": "Apoi DOMNUL a dezlănțuit un vânt mare către mare și el a devenit o furtună atât de uriașă pe mare, încât corabia era pe cale să se rupă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ Κύριος ἐξήγειρε πνεῦμα μέγα εἰς τὴν θάλασσαν, καὶ ἐγένετο κλύδων μέγας ἐν τῇ θαλάσσῃ, καὶ τὸ πλοῖον ἐκινδύνευε τοῦ συντριβῆναι.",
+       "greek": true,
+       "translation": "și Domnul a ridicat un vânt mare asupra mării, și s-a făcut un talaz mare pe mare, și corabia era în pericol să se sfărâme.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 15:10",
+      "Psalmul 107:24-31",
+      "Amos 4:13"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:5",
      "t": "Marinarilor li s-a făcut frică și au strigat fiecare către dumnezeul lor [și] au aruncat peste bord vasele care erau pe corabie, ca să o facă mai ușoară. Dar Iona coborâse în cala corabiei și se culcase și adormise.",
      "heb": "וַיִּירְאוּ הַמַּלָּחִים וַיִּזְעֲקוּ אִישׁ אֶל־אֱלֹהָיו וַיָּטִלוּ אֶת־הַכֵּלִים אֲשֶׁר בָּאֳנִיָּה אֶל־הַיָּם לְהָקֵל מֵעֲלֵיהֶם וְיוֹנָה יָרַד אֶל־יַרְכְּתֵי הַסְּפִינָה וַיִּשְׁכַּב וַיֵּרָדַם׃",
-     "translit": "Vaireu hamalahim vaizaku iș el-elohav vaiatilu et-hakelim așer baonia el-haiam lehakeel mealéihem ve'Iona iarad el-iarketei hasefina vaișkav vaieradam."
+     "translit": "Vaireu hamalahim vaizaku iș el-elohav vaiatilu et-hakelim așer baonia el-haiam lehakeel mealéihem ve'Iona iarad el-iarketei hasefina vaișkav vaieradam.",
+     "tokens": [
+      {
+       "t": "Marinarilor li s-a făcut frică și au strigat fiecare către dumnezeul lor [și] au aruncat peste bord vasele care erau pe corabie, ca să o facă mai ușoară. Dar Iona coborâse în cala corabiei și se culcase și adormise."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּירְאוּ הַמַּלָּחִים וַיִּזְעֲקוּ אִישׁ אֶל־אֱלֹהָיו וַיָּטִלוּ אֶת־הַכֵּלִים אֲשֶׁר בָּאֳנִיָּה אֶל־הַיָּם לְהָקֵל מֵעֲלֵיהֶם וְיוֹנָה יָרַד אֶל־יַרְכְּתֵי הַסְּפִינָה וַיִּשְׁכַּב וַיֵּרָדַם׃",
+       "translation": "Marinarilor li s-a făcut frică și au strigat fiecare către dumnezeul lor [și] au aruncat peste bord vasele care erau pe corabie, ca să o facă mai ușoară. Dar Iona coborâse în cala corabiei și se culcase și adormise. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐφοβήθησαν οἱ ναυτικοὶ καὶ ἀνεβόησαν ἕκαστος πρὸς τὸν θεὸν αὐτοῦ καὶ ἐκβολὴν ἐποιήσαντο τῶν σκευῶν τῶν ἐν τῷ πλοίῳ εἰς τὴν θάλασσαν τοῦ κουφισθῆναι ἀπ᾿ αὐτῶν. ᾿Ιωνᾶς δὲ κατέβη εἰς τὴν κοίλην τοῦ πλοίου καὶ ἐκάθευδε καὶ ἔρρεγχε.",
+       "greek": true,
+       "translation": "și s-au înfricoșat corăbierii și au strigat fiecare către dumnezeul lui și au făcut aruncare a uneltelor din corabie în mare, ca să fie ușurați de ele. Iar Iona a coborât în fundul corăbiei și dormea și sforăia.",
+       "note": "Divergență prin adăugire: Septuaginta precizează că Iona „sforăia” (ἔρρεγχε), amănunt absent din Textul Masoretic, care spune doar că s-a culcat și a adormit."
+      }
+     ],
+     "refs": [
+      "1 Împărați 18:26",
+      "Isaia 45:20"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:6",
      "t": "Căpitanul corabiei s-a apropiat de el și i-a spus: „Cum poți să dormi atât de adânc? Scoală-te! Strigă către Dumnezeul tău, poate că Dumnezeu va lua seama la noi și nu vom pieri.”",
      "heb": "וַיִּקְרַב אֵלָיו רַב הַחֹבֵל וַיֹּאמֶר לוֹ מַה־לְּךָ נִרְדָּם קוּם קְרָא אֶל־אֱלֹהֶיךָ אוּלַי יִתְעַשֵּׁת הָאֱלֹהִים לָנוּ וְלֹא נֹאבֵד׃",
-     "translit": "Vaikrav elav rav hahovel vaiomer lo ma-leha nirdam kum kera el-eloheha ulai itaașet haElohim lanu velo noved."
+     "translit": "Vaikrav elav rav hahovel vaiomer lo ma-leha nirdam kum kera el-eloheha ulai itaașet haElohim lanu velo noved.",
+     "tokens": [
+      {
+       "t": "Căpitanul corabiei s-a apropiat de el și i-a spus: „Cum poți să dormi atât de adânc? Scoală-te! Strigă către Dumnezeul tău, poate că Dumnezeu va lua seama la noi și nu vom pieri.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּקְרַב אֵלָיו רַב הַחֹבֵל וַיֹּאמֶר לוֹ מַה־לְּךָ נִרְדָּם קוּם קְרָא אֶל־אֱלֹהֶיךָ אוּלַי יִתְעַשֵּׁת הָאֱלֹהִים לָנוּ וְלֹא נֹאבֵד׃",
+       "translation": "Căpitanul corabiei s-a apropiat de el și i-a spus: „Cum poți să dormi atât de adânc? Scoală-te! Strigă către Dumnezeul tău, poate că Dumnezeu va lua seama la noi și nu vom pieri.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ προσῆλθε πρὸς αὐτὸν ὁ πρωρεὺς καὶ εἶπεν αὐτῷ· τί σὺ ῥέγχεις; ἀνάστα καὶ ἐπικαλοῦ τὸν Θεόν σου, ὅπως διασώσῃ ὁ Θεὸς ἡμᾶς καὶ οὐ μὴ ἀπολώμεθα.",
+       "greek": true,
+       "translation": "și s-a apropiat de el cârmaciul și i-a spus: de ce sforăi tu? Scoală-te și cheamă pe Dumnezeul tău, ca să ne mântuiască Dumnezeu și să nu pierim.",
+       "note": "Continuă aceeași adăugire a „sforăitului” din versetul precedent, consecvent cu ea."
+      }
+     ],
+     "refs": [
+      "Psalmul 107:6,12,13",
+      "Iona 3:9"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:7",
      "t": "Apoi au spus unul către celălalt: „Haideți să tragem la sorți, ca să știm din pricina cui este asupra noastră nenorocirea aceasta.” Și au tras la sorți și sorții au căzut pe Iona.",
      "heb": "וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ לְכוּ וְנַפִּילָה גוֹרָלוֹת וְנֵדְעָה בְּשֶׁלְּמִי הָרָעָה הַזֹּאת לָנוּ וַיַּפִּלוּ גוֹרָלוֹת וַיִּפֹּל הַגּוֹרָל עַל־יוֹנָה׃",
-     "translit": "Vaiomru iș el-reehu lehu venapila goralot venédea beșelemi haraa hazot lanu vaiaipilu goralot vaipol hagoral al-Iona."
+     "translit": "Vaiomru iș el-reehu lehu venapila goralot venédea beșelemi haraa hazot lanu vaiaipilu goralot vaipol hagoral al-Iona.",
+     "tokens": [
+      {
+       "t": "Apoi au spus unul către celălalt: „Haideți să tragem la sorți, ca să știm din pricina cui este asupra noastră nenorocirea aceasta.” Și au tras la sorți și sorții au căzut pe Iona."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ לְכוּ וְנַפִּילָה גוֹרָלוֹת וְנֵדְעָה בְּשֶׁלְּמִי הָרָעָה הַזֹּאת לָנוּ וַיַּפִּלוּ גוֹרָלוֹת וַיִּפֹּל הַגּוֹרָל עַל־יוֹנָה׃",
+       "translation": "Apoi au spus unul către celălalt: „Haideți să tragem la sorți, ca să știm din pricina cui este asupra noastră nenorocirea aceasta.” Și au tras la sorți și sorții au căzut pe Iona. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ἕκαστος πρὸς τὸν πλησίον αὐτοῦ· δεῦτε βάλωμεν κλήρους καὶ ἐπιγνῶμεν τίνος ἕνεκεν ἡ κακία αὕτη ἐστὶν ἐν ἡμῖν; καὶ ἔβαλον κλήρους, καὶ ἔπεσεν ὁ κλῆρος ἐπὶ ᾿Ιωνᾶν.",
+       "greek": true,
+       "translation": "și a spus fiecare către semenul lui: veniți să tragem sorți și să cunoaștem din pricina cui este acest rău în noi? Și au tras sorți, și a căzut sorțul pe Iona.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 7:14-18",
+      "1 Samuel 14:41,42",
+      "Proverbe 16:33"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:8",
      "t": "Ei i-au spus: „Spune-ne acum: din pricina cui este asupra noastră nenorocirea aceasta? Care îți este meseria? Și de unde vii? Care este țara ta? Și din ce popor ești?”",
      "heb": "וַיֹּאמְרוּ אֵלָיו הַגִּידָה־נָּא לָנוּ בַּאֲשֶׁר לְמִי־הָרָעָה הַזֹּאת לָנוּ מַה־מְּלַאכְתְּךָ וּמֵאַיִן תָּבוֹא מָה אַרְצֶךָ וְאֵי־מִזֶּה עַם אָתָּה׃",
-     "translit": "Vaiomru elav hagida-na lanu baașer lemi-haraa hazot lanu ma-melahteha umeain tavo ma artzeha veei-mize am ata."
+     "translit": "Vaiomru elav hagida-na lanu baașer lemi-haraa hazot lanu ma-melahteha umeain tavo ma artzeha veei-mize am ata.",
+     "tokens": [
+      {
+       "t": "Ei i-au spus: „Spune-ne acum: din pricina cui este asupra noastră nenorocirea aceasta? Care îți este meseria? Și de unde vii? Care este țara ta? Și din ce popor ești?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמְרוּ אֵלָיו הַגִּידָה־נָּא לָנוּ בַּאֲשֶׁר לְמִי־הָרָעָה הַזֹּאת לָנוּ מַה־מְּלַאכְתְּךָ וּמֵאַיִן תָּבוֹא מָה אַרְצֶךָ וְאֵי־מִזֶּה עַם אָתָּה׃",
+       "translation": "Ei i-au spus: „Spune-ne acum: din pricina cui este asupra noastră nenorocirea aceasta? Care îți este meseria? Și de unde vii? Care este țara ta? Și din ce popor ești?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπον πρὸς αὐτόν· ἀπάγγειλον ἡμῖν τίνος ἕνεκεν ἡ κακία αὕτη ἐστὶν ἐν ἡμῖν; τίς σου ἡ ἐργασία ἐστί; καὶ πόθεν ἔρχῃ, καὶ τοῦ πορεύῃ, καὶ ἐκ ποίας χώρας καὶ ἐκ ποίου λαοῦ εἶ σύ;",
+       "greek": true,
+       "translation": "și i-au spus: vestește-ne din pricina cui e acest rău în noi? Care e meseria ta? Și de unde vii, și unde te duci, și din ce țară și din ce popor ești tu?",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 7:19",
+      "1 Samuel 14:43"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:9",
      "t": "El le-a spus: „Sunt evreu. De DOMNUL, Dumnezeul cerurilor, mă tem, Cel ce a făcut marea și uscatul.”",
      "heb": "וַיֹּאמֶר אֲלֵיהֶם עִבְרִי אָנֹכִי וְאֶת־יְהוָה אֱלֹהֵי הַשָּׁמַיִם אֲנִי יָרֵא אֲשֶׁר־עָשָׂה אֶת־הַיָּם וְאֶת־הַיַּבָּשָׁה׃",
-     "translit": "Vaiomer aleihem ivri anohi veet-ADONAI Elohei hașamaim ani iare așer-asa et-haiam veet-haiabașa."
+     "translit": "Vaiomer aleihem ivri anohi veet-ADONAI Elohei hașamaim ani iare așer-asa et-haiam veet-haiabașa.",
+     "tokens": [
+      {
+       "t": "El le-a spus: „"
+      },
+      {
+       "t": "Sunt evreu",
+       "w": "Sunt evreu",
+       "heb": "עִבְרִי",
+       "translit": "ivri",
+       "strong": "H5680",
+       "pos": "nume de neam",
+       "def_ro": "[sunt] un evreu (ivri).",
+       "dict_ro": "Metzudat Zion explică originea numelui: așa se numesc fiii lui Israel, pentru că neamul lor își are originea „de peste râu” [Eufrat], de la Avraam care a venit din Mesopotamia. Radak adaugă: prin acest singur răspuns, Iona a lămurit de fapt toate întrebările marinarilor deodată — numindu-și poporul și țara, și, spunând că se teme de Domnul, Dumnezeul cerurilor, a arătat limpede că fuga lui nu are nicio legătură cu vreo faptă rea față de oameni, ci cu porunca lui Dumnezeu Însuși."
+      },
+      {
+       "t": ". De DOMNUL, Dumnezeul cerurilor, mă tem, Cel ce a făcut marea și uscatul.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֲלֵיהֶם עִבְרִי אָנֹכִי וְאֶת־יְהוָה אֱלֹהֵי הַשָּׁמַיִם אֲנִי יָרֵא אֲשֶׁר־עָשָׂה אֶת־הַיָּם וְאֶת־הַיַּבָּשָׁה׃",
+       "translation": "El le-a spus: „Sunt evreu. De DOMNUL, Dumnezeul cerurilor, mă tem, Cel ce a făcut marea și uscatul.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε πρὸς αὐτούς· δοῦλος Κυρίου εἰμὶ ἐγὼ καὶ τὸν Κύριον Θεὸν τοῦ οὐρανοῦ ἐγὼ σέβομαι, ὃς ἐποίησε τὴν θάλασσαν καὶ τὴν ξηράν.",
+       "greek": true,
+       "translation": "și le-a spus: eu sunt rob al Domnului, și pe Domnul Dumnezeul cerului eu Îl cinstesc, care a făcut marea și uscatul.",
+       "note": "Divergență reală și semnificativă: Septuaginta are „rob al Domnului” (δοῦλος Κυρίου) unde Textul Masoretic are „sunt evreu” (ivri anochi) — un răspuns de identitate religioasă în locul unui răspuns de identitate etnică/națională, schimbând sensibil felul în care Iona se recomandă marinarilor."
+      }
+     ],
+     "refs": [
+      "Geneza 14:13",
+      "Ezra 1:2",
+      "Psalmul 146:5,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:10",
      "t": "Oamenii s-au temut și I-au întrebat: „Ce ai făcut?” Căci oamenii au știut că de dinaintea DOMNULUI fugea [Iona], căci le spusese aceasta.",
      "heb": "וַיִּירְאוּ הָאֲנָשִׁים יִרְאָה גְדוֹלָה וַיֹּאמְרוּ אֵלָיו מַה־זֹּאת עָשִׂיתָ כִּי־יָדְעוּ הָאֲנָשִׁים כִּי־מִלִּפְנֵי יְהוָה הוּא בֹרֵחַ כִּי הִגִּיד לָהֶם׃",
-     "translit": "Vaireu haanașim ira ghedola vaiomru elav ma-zot asita ki-iadu haanașim ki-milifnei ADONAI hu voreah ki higid lahem."
+     "translit": "Vaireu haanașim ira ghedola vaiomru elav ma-zot asita ki-iadu haanașim ki-milifnei ADONAI hu voreah ki higid lahem.",
+     "tokens": [
+      {
+       "t": "Oamenii s-au temut și I-au întrebat: „Ce ai făcut?” Căci oamenii au știut că de dinaintea DOMNULUI fugea [Iona], căci le spusese aceasta."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּירְאוּ הָאֲנָשִׁים יִרְאָה גְדוֹלָה וַיֹּאמְרוּ אֵלָיו מַה־זֹּאת עָשִׂיתָ כִּי־יָדְעוּ הָאֲנָשִׁים כִּי־מִלִּפְנֵי יְהוָה הוּא בֹרֵחַ כִּי הִגִּיד לָהֶם׃",
+       "translation": "Oamenii s-au temut și I-au întrebat: „Ce ai făcut?” Căci oamenii au știut că de dinaintea DOMNULUI fugea [Iona], căci le spusese aceasta. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐφοβήθησαν οἱ ἄνδρες φόβον μέγαν καὶ εἶπον πρὸς αὐτόν· τί τοῦτο ἐποίησας; διότι ἔγνωσαν οἱ ἄνδρες, ὅτι ἐκ προσώπου Κυρίου ἦν φεύγων, ὅτι ἀπήγγειλεν αὐτοῖς.",
+       "greek": true,
+       "translation": "și s-au înfricoșat oamenii cu frică mare și i-au spus: de ce ai făcut aceasta? pentru că au cunoscut oamenii că fugea dinaintea feței Domnului, căci le-a vestit lor.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 31:26",
+      "Iona 1:3"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:11",
      "t": "Ei i-au spus: „Ce să-ți facem ca să se potolească marea față de noi?”, căci marea era din ce în ce mai învolburată.",
      "heb": "וַיֹּאמְרוּ אֵלָיו מַה־נַּעֲשֶׂה לָּךְ וְיִשְׁתֹּק הַיָּם מֵעָלֵינוּ כִּי הַיָּם הוֹלֵךְ וְסֹעֵר׃",
-     "translit": "Vaiomru elav ma-naase lah veiștok haiam mealéinu ki haiam holeh vesoer."
+     "translit": "Vaiomru elav ma-naase lah veiștok haiam mealéinu ki haiam holeh vesoer.",
+     "tokens": [
+      {
+       "t": "Ei i-au spus: „Ce să-ți facem ca să se potolească marea față de noi?”, căci marea era din ce în ce mai învolburată."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמְרוּ אֵלָיו מַה־נַּעֲשֶׂה לָּךְ וְיִשְׁתֹּק הַיָּם מֵעָלֵינוּ כִּי הַיָּם הוֹלֵךְ וְסֹעֵר׃",
+       "translation": "Ei i-au spus: „Ce să-ți facem ca să se potolească marea față de noi?”, căci marea era din ce în ce mai învolburată. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπον πρὸς αὐτόν· τί ποιήσομέν σοι καὶ κοπάσει ἡ θάλασσα ἀφ᾿ ἡμῶν; ὅτι ἡ θάλασσα ἐπορεύετο καὶ ἐξήγειρε μᾶλλον κλύδωνα.",
+       "greek": true,
+       "translation": "și i-au spus: ce-ți vom face, ca să se potolească marea de la noi? Căci marea mergea și ridica tot mai mult talazul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 6:2,3",
+      "Mica 6:6,7"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:12",
      "t": "El le-a spus: „Luați-mă și aruncați-mă în mare și marea se va liniști față de voi, căci știu că din pricina mea a venit furtuna aceasta puternică peste voi.”",
      "heb": "וַיֹּאמֶר אֲלֵיהֶם שָׂאוּנִי וַהֲטִילֻנִי אֶל־הַיָּם וְיִשְׁתֹּק הַיָּם מֵעֲלֵיכֶם כִּי יוֹדֵעַ אָנִי כִּי בְשֶׁלִּי הַסַּעַר הַגָּדוֹל הַזֶּה עֲלֵיכֶם׃",
-     "translit": "Vaiomer aleihem sauni vahatiluni el-haiam veiștok haiam mealéihem ki iodea ani ki veșeli hasaar hagadol haze aleihem."
+     "translit": "Vaiomer aleihem sauni vahatiluni el-haiam veiștok haiam mealéihem ki iodea ani ki veșeli hasaar hagadol haze aleihem.",
+     "tokens": [
+      {
+       "t": "El le-a spus: „Luați-mă și aruncați-mă în mare și marea se va liniști față de voi, căci știu că din pricina mea a venit furtuna aceasta puternică peste voi.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֲלֵיהֶם שָׂאוּנִי וַהֲטִילֻנִי אֶל־הַיָּם וְיִשְׁתֹּק הַיָּם מֵעֲלֵיכֶם כִּי יוֹדֵעַ אָנִי כִּי בְשֶׁלִּי הַסַּעַר הַגָּדוֹל הַזֶּה עֲלֵיכֶם׃",
+       "translation": "El le-a spus: „Luați-mă și aruncați-mă în mare și marea se va liniști față de voi, căci știu că din pricina mea a venit furtuna aceasta puternică peste voi.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ᾿Ιωνᾶς πρὸς αὐτούς· ἄρατέ με καὶ ἐμβάλετέ με εἰς τὴν θάλασσαν, καὶ κοπάσει ἡ θάλασσα ἀφ᾿ ὑμῶν· διότι ἔγνωκα ἐγὼ ὅτι δι᾿ ἐμὲ ὁ κλύδων ὁ μέγας οὗτος ἐφ᾿ ὑμᾶς ἐστι.",
+       "greek": true,
+       "translation": "și a spus Iona către ei: luați-mă și aruncați-mă în mare, și se va potoli marea de la voi; pentru că am cunoscut eu că din pricina mea este acest talaz mare asupra voastră.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Samuel 24:17",
+      "Ioan 11:50"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:13",
      "t": "Și oamenii au vâslit puternic ca să se întoarcă la mal, dar nu au putut [ajunge], pentru că marea se învolbura și mai tare asupra lor.",
      "heb": "וַיַּחְתְּרוּ הָאֲנָשִׁים לְהָשִׁיב אֶל־הַיַּבָּשָׁה וְלֹא יָכֹלוּ כִּי הַיָּם הוֹלֵךְ וְסֹעֵר עֲלֵיהֶם׃",
-     "translit": "Vaiahteru haanașim lehașiv el-haiabașa velo iaholu ki haiam holeh vesoer aleihem."
+     "translit": "Vaiahteru haanașim lehașiv el-haiabașa velo iaholu ki haiam holeh vesoer aleihem.",
+     "tokens": [
+      {
+       "t": "Și oamenii au vâslit puternic ca să se întoarcă la mal, dar nu au putut [ajunge], pentru că marea se învolbura și mai tare asupra lor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּחְתְּרוּ הָאֲנָשִׁים לְהָשִׁיב אֶל־הַיַּבָּשָׁה וְלֹא יָכֹלוּ כִּי הַיָּם הוֹלֵךְ וְסֹעֵר עֲלֵיהֶם׃",
+       "translation": "Și oamenii au vâslit puternic ca să se întoarcă la mal, dar nu au putut [ajunge], pentru că marea se învolbura și mai tare asupra lor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ παρεβιάζοντο οἱ ἄνδρες τοῦ ἐπιστρέψαι πρὸς τὴν γῆν καὶ οὐκ ἠδύναντο, ὅτι ἡ θάλασσα ἐπορεύετο καὶ ἐξηγείρετο μᾶλλον ἐπ᾿ αὐτούς.",
+       "greek": true,
+       "translation": "și se sileau oamenii să se întoarcă spre uscat și nu puteau, căci marea mergea și se ridica tot mai mult asupra lor.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iov 34:29",
+      "Proverbe 21:30"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:14",
      "t": "Atunci au strigat către DOMNUL și au spus: „Te rugăm, DOAMNE, nu ne lăsa să pierim din pricina sufletului acestui om! Și nu socoti aceasta asupra noastră ca sânge nevinovat, căci Tu, DOAMNE, ai făcut precum ai dorit!”",
      "heb": "וַיִּקְרְאוּ אֶל־יְהוָה וַיֹּאמְרוּ אָנָּה יְהוָה אַל־נָא נֹאבְדָה בְּנֶפֶשׁ הָאִישׁ הַזֶּה וְאַל־תִּתֵּן עָלֵינוּ דָּם נָקִיא כִּי־אַתָּה יְהוָה כַּאֲשֶׁר חָפַצְתָּ עָשִׂיתָ׃",
-     "translit": "Vaikreu el-ADONAI vaiomru ana ADONAI al-na noveda benefeș haiș haze veal-titen aleinu dam naki ki-ata ADONAI kaașer hafatzta asita."
+     "translit": "Vaikreu el-ADONAI vaiomru ana ADONAI al-na noveda benefeș haiș haze veal-titen aleinu dam naki ki-ata ADONAI kaașer hafatzta asita.",
+     "tokens": [
+      {
+       "t": "Atunci au strigat către DOMNUL și au spus: „Te rugăm, DOAMNE, nu ne lăsa să pierim din pricina sufletului acestui om! Și nu socoti aceasta asupra noastră ca sânge nevinovat, căci Tu, DOAMNE, ai făcut precum ai dorit!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּקְרְאוּ אֶל־יְהוָה וַיֹּאמְרוּ אָנָּה יְהוָה אַל־נָא נֹאבְדָה בְּנֶפֶשׁ הָאִישׁ הַזֶּה וְאַל־תִּתֵּן עָלֵינוּ דָּם נָקִיא כִּי־אַתָּה יְהוָה כַּאֲשֶׁר חָפַצְתָּ עָשִׂיתָ׃",
+       "translation": "Atunci au strigat către DOMNUL și au spus: „Te rugăm, DOAMNE, nu ne lăsa să pierim din pricina sufletului acestui om! Și nu socoti aceasta asupra noastră ca sânge nevinovat, căci Tu, DOAMNE, ai făcut precum ai dorit!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνεβόησαν πρὸς Κύριον καὶ εἶπαν· μηδαμῶς, Κύριε, μὴ ἀπολώμεθα ἕνεκεν τῆς ψυχῆς τοῦ ἀνθρώπου τούτου, καὶ μὴ δῷς ἐφ᾿ ἡμᾶς αἷμα δίκαιον, διότι σύ, Κύριε, ὃν τρόπον ἐβούλου, πεποίηκας.",
+       "greek": true,
+       "translation": "și au strigat către Domnul și au spus: nicidecum, Doamne, să nu pierim din pricina sufletului acestui om, și nu da asupra noastră sânge drept, pentru că Tu, Doamne, precum ai voit, ai făcut.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 9:6",
+      "Psalmul 115:3",
+      "Daniel 4:34"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:15",
      "t": "Și l-au luat pe Iona și l-au aruncat în mare și marea și-a potolit furia.",
      "heb": "וַיִּשְׂאוּ אֶת־יוֹנָה וַיְטִלֻהוּ אֶל־הַיָּם וַיַּעֲמֹד הַיָּם מִזַּעְפּוֹ׃",
-     "translit": "Vaișeu et-Iona vaitiluhu el-haiam vaiaamod haiam mizapo."
+     "translit": "Vaișeu et-Iona vaitiluhu el-haiam vaiaamod haiam mizapo.",
+     "tokens": [
+      {
+       "t": "Și l-au luat pe Iona și l-au aruncat în mare și marea și-a potolit furia."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשְׂאוּ אֶת־יוֹנָה וַיְטִלֻהוּ אֶל־הַיָּם וַיַּעֲמֹד הַיָּם מִזַּעְפּוֹ׃",
+       "translation": "Și l-au luat pe Iona și l-au aruncat în mare și marea și-a potolit furia. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔλαβον τὸν ᾿Ιωνᾶν καὶ ἐξέβαλον αὐτὸν εἰς τὴν θάλασσαν, καὶ ἔστη ἡ θάλασσα ἐκ τοῦ σάλου αὐτῆς.",
+       "greek": true,
+       "translation": "și l-au luat pe Iona și l-au aruncat în mare, și a stat marea din zbuciumul ei.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 89:9",
+      "Psalmul 93:3,4",
+      "Matei 8:26"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:16",
      "t": "Atunci oamenii s-au temut mult de DOMNUL și au adus o ofrandă DOMNULUI și au făcut jurăminte.",
      "heb": "וַיִּירְאוּ הָאֲנָשִׁים יִרְאָה גְדוֹלָה אֶת־יְהוָה וַיִּזְבְּחוּ־זֶבַח לַיהוָה וַיִּדְּרוּ נְדָרִים׃",
-     "translit": "Vaireu haanașim ira ghedola et-ADONAI vaizbehu-zevah l'ADONAI vaidru nedarim."
+     "translit": "Vaireu haanașim ira ghedola et-ADONAI vaizbehu-zevah l'ADONAI vaidru nedarim.",
+     "tokens": [
+      {
+       "t": "Atunci oamenii s-au temut mult de DOMNUL și au adus o ofrandă DOMNULUI și au făcut jurăminte."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּירְאוּ הָאֲנָשִׁים יִרְאָה גְדוֹלָה אֶת־יְהוָה וַיִּזְבְּחוּ־זֶבַח לַיהוָה וַיִּדְּרוּ נְדָרִים׃",
+       "translation": "Atunci oamenii s-au temut mult de DOMNUL și au adus o ofrandă DOMNULUI și au făcut jurăminte. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐφοβήθησαν οἱ ἄνδρες φόβῳ μεγάλῳ τὸν Κύριον καὶ ἔθυσαν θυσίαν τῷ Κυρίῳ καὶ ηὔξαντο τὰς εὐχάς.",
+       "greek": true,
+       "translation": "și s-au înfricoșat oamenii cu frică mare de Domnul, și au jertfit jertfă Domnului, și au făcut jurăminte.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 26:9",
+      "Daniel 6:26",
+      "Eclesiastul 5:4"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:1",
      "t": "Apoi DOMNUL a trimis un pește mare să-l înghită pe Iona și Iona a rămas în pântecul peștelui trei zile și trei nopți.",
      "heb": "וַיְמַן יְהוָה דָּג גָּדוֹל לִבְלֹעַ אֶת־יוֹנָה וַיְהִי יוֹנָה בִּמְעֵי הַדָּג שְׁלֹשָׁה יָמִים וּשְׁלֹשָׁה לֵילוֹת׃",
-     "translit": "Vaiman ADONAI dag gadol livloa et-Iona vaihi Iona bimei hadag șeloșa iamim ușeloșa leilot."
+     "translit": "Vaiman ADONAI dag gadol livloa et-Iona vaihi Iona bimei hadag șeloșa iamim ușeloșa leilot.",
+     "tokens": [
+      {
+       "t": "Apoi DOMNUL a trimis un pește mare să-l înghită pe Iona și Iona a rămas în pântecul peștelui trei zile și trei nopți."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְמַן יְהוָה דָּג גָּדוֹל לִבְלֹעַ אֶת־יוֹנָה וַיְהִי יוֹנָה בִּמְעֵי הַדָּג שְׁלֹשָׁה יָמִים וּשְׁלֹשָׁה לֵילוֹת׃",
+       "translation": "Apoi DOMNUL a trimis un pește mare să-l înghită pe Iona și Iona a rămas în pântecul peștelui trei zile și trei nopți. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ προσέταξε Κύριος κήτει μεγάλῳ καταπιεῖν τὸν ᾿Ιωνᾶν· καὶ ἦν ᾿Ιωνᾶς ἐν τῇ κοιλίᾳ τοῦ κήτους τρεῖς ἡμέρας καὶ τρεῖς νύκτας.",
+       "greek": true,
+       "translation": "și a poruncit Domnul unui chit mare să-l înghită pe Iona; și a fost Iona în pântecele chitului trei zile și trei nopți.",
+       "note": "Divergență de termen, celebră în istoria traducerilor: Septuaginta are „κῆτος” (chit/monstru marin, tradus tradițional „balenă”) unde Textul Masoretic are „dag” (pește, termen generic) — o precizare de specie absentă din ebraică."
+      }
+     ],
+     "refs": [
+      "Iona 4:6",
+      "Geneza 1:21",
+      "Matei 12:40"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și a pregătit Domnul” — termen de pregătire, ca „cel care-ți pregătește hrana”; și Dumnezeu l-a pregătit pe acesta [peștele] chiar în clipa aceea, căci în clipa când Iona a fost aruncat în mare, [Domnul] a pregătit peștele care l-a înghițit, și n-a fost înecat în mare — aceasta a fost una dintre minuni; iar în Pirkei de-Rabi Eliezer, Rabi Tarfon spune: acest pește a fost desemnat încă din cele șase zile ale creației să-l înghită pe Iona."
+      }
+     ]
     },
     {
      "v": "2:2",
      "t": "Iona s-a rugat DOMNULUI, Dumnezeului lui, din pântecul peștelui.",
      "heb": "וַיִּתְפַּלֵּל יוֹנָה אֶל־יְהוָה אֱלֹהָיו מִמְּעֵי הַדָּגָה׃",
-     "translit": "Vaitpalel Iona el-ADONAI Elohav mimei hadaga."
+     "translit": "Vaitpalel Iona el-ADONAI Elohav mimei hadaga.",
+     "tokens": [
+      {
+       "t": "Iona s-a rugat DOMNULUI, Dumnezeului lui, din pântecul peștelui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּתְפַּלֵּל יוֹנָה אֶל־יְהוָה אֱלֹהָיו מִמְּעֵי הַדָּגָה׃",
+       "translation": "Iona s-a rugat DOMNULUI, Dumnezeului lui, din pântecul peștelui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ προσηύξατο ᾿Ιωνᾶς πρὸς Κύριον τὸν Θεὸν αὐτοῦ ἐκ τῆς κοιλίας τοῦ κήτους",
+       "greek": true,
+       "translation": "și s-a rugat Iona Domnului Dumnezeului lui din pântecele chitului",
+       "note": "Corespondență strânsă cu Textul Masoretic, cu același termen „chit” ca la versetul precedent."
+      }
+     ],
+     "refs": [
+      "2 Cronici 33:11-13",
+      "Psalmul 50:15",
+      "Osea 5:15"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și s-a rugat Iona” — o minune mare a fost să rămână în pântecele peștelui trei zile și trei nopți și să trăiască, și o altă minune, și mai mare, că nu s-a pierdut cu mintea, ci și-a păstrat judecata și înțelegerea și s-a rugat."
+      }
+     ]
     },
     {
      "v": "2:3",
      "t": "Și a spus: „În strâmtorarea mea am chemat pe DOMNUL și mi-a răspuns, din măruntaiele sălașului morților am strigat și mi-ai ascultat glasul.",
      "heb": "וַיֹּאמֶר קָרָאתִי מִצָּרָה לִי אֶל־יְהוָה וַיַּעֲנֵנִי מִבֶּטֶן שְׁאוֹל שִׁוַּעְתִּי שָׁמַעְתָּ קוֹלִי׃",
-     "translit": "Vaiomer karati mitzara li el-ADONAI vaiaaneni mibeten șeol șivati șamata koli."
+     "translit": "Vaiomer karati mitzara li el-ADONAI vaiaaneni mibeten șeol șivati șamata koli.",
+     "tokens": [
+      {
+       "t": "Și a spus: „În strâmtorarea mea am chemat pe DOMNUL și mi-a răspuns, din măruntaiele sălașului morților am strigat și mi-ai ascultat glasul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר קָרָאתִי מִצָּרָה לִי אֶל־יְהוָה וַיַּעֲנֵנִי מִבֶּטֶן שְׁאוֹל שִׁוַּעְתִּי שָׁמַעְתָּ קוֹלִי׃",
+       "translation": "Și a spus: „În strâmtorarea mea am chemat pe DOMNUL și mi-a răspuns, din măruntaiele sălașului morților am strigat și mi-ai ascultat glasul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν· ᾿Εβόησα ἐν θλίψει μου πρὸς Κύριον τὸν Θεόν μου, καὶ εἰσήκουσέ μου· ἐκ κοιλίας ᾅδου κραυγῆς μου ἤκουσας φωνῆς μου.",
+       "greek": true,
+       "translation": "și a spus: am strigat în necazul meu către Domnul Dumnezeul meu, și m-a ascultat; din pântecele locuinței morților ai ascultat strigarea mea, glasul meu.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 18:5,6",
+      "Psalmul 120:1",
+      "Psalmul 130:1,2"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:4",
      "t": "Tu m-ai aruncat în adânc, în inima mărilor, curentul de apă m-a învăluit și toate talazurile și valurile Tale au trecut peste mine.",
      "heb": "וַתַּשְׁלִיכֵנִי מְצוּלָה בִּלְבַב יַמִּים וְנָהָר יְסֹבְבֵנִי כָּל־מִשְׁבָּרֶיךָ וְגַלֶּיךָ עָלַי עָבָרוּ׃",
-     "translit": "Vatașliheni metzula bilvav iamim venahar iesoveveni kol-mișbareha vegaleha alai avaru."
+     "translit": "Vatașliheni metzula bilvav iamim venahar iesoveveni kol-mișbareha vegaleha alai avaru.",
+     "tokens": [
+      {
+       "t": "Tu m-ai aruncat în adânc, în inima mărilor, curentul de apă m-a învăluit și toate talazurile și valurile Tale au trecut peste mine."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתַּשְׁלִיכֵנִי מְצוּלָה בִּלְבַב יַמִּים וְנָהָר יְסֹבְבֵנִי כָּל־מִשְׁבָּרֶיךָ וְגַלֶּיךָ עָלַי עָבָרוּ׃",
+       "translation": "Tu m-ai aruncat în adânc, în inima mărilor, curentul de apă m-a învăluit și toate talazurile și valurile Tale au trecut peste mine. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀπέρριψάς με εἰς βάθη καρδίας θαλάσσης, καὶ ποταμοὶ ἐκύκλωσάν με· πάντες οἱ μετεωρισμοί σου καὶ τὰ κύματά σου ἐπ᾿ ἐμὲ διῆλθον.",
+       "greek": true,
+       "translation": "m-ai aruncat în adâncurile inimii mării, și râuri m-au înconjurat; toate înălțările Tale și valurile Tale au trecut peste mine.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 42:7",
+      "Psalmul 69:1,2"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:5",
      "t": "Și [mi-]am spus: «Am fost izgonit dinaintea ochilor Tăi», dar voi privi din nou către Sălașul Tău cel sfânt.",
      "heb": "וַאֲנִי אָמַרְתִּי נִגְרַשְׁתִּי מִנֶּגֶד עֵינֶיךָ אַךְ אוֹסִיף לְהַבִּיט אֶל־הֵיכַל קָדְשֶׁךָ׃",
-     "translit": "Vaani amarti nigraști mineghed eineha ah osif lehabit el-heikhal kodșeha."
+     "translit": "Vaani amarti nigraști mineghed eineha ah osif lehabit el-heikhal kodșeha.",
+     "tokens": [
+      {
+       "t": "Și [mi-]am spus: «"
+      },
+      {
+       "t": "Am fost izgonit",
+       "w": "Am fost izgonit",
+       "heb": "נִגְרַשְׁתִּי",
+       "translit": "nigraști",
+       "strong": "H1644",
+       "pos": "verb, nifal perfect",
+       "def_ro": "am fost izgonit/respins (nigrashti).",
+       "dict_ro": "Rashi explică momentul acestei rugăciuni: atunci când [marinarii] l-au aruncat în mare, Iona a crezut pentru o clipă că moare și că a fost izgonit dinaintea ochilor Domnului, fără scăpare — dar, observând chiar faptul că supraviețuiește în adâncuri, trage concluzia opusă: dacă Domnul l-a ținut în viață atâtea zile, înseamnă că va mai privi din nou spre Templul Său cel sfânt."
+      },
+      {
+       "t": " dinaintea ochilor Tăi», dar voi privi din nou către Sălașul Tău cel sfânt."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַאֲנִי אָמַרְתִּי נִגְרַשְׁתִּי מִנֶּגֶד עֵינֶיךָ אַךְ אוֹסִיף לְהַבִּיט אֶל־הֵיכַל קָדְשֶׁךָ׃",
+       "translation": "Și [mi-]am spus: «Am fost izgonit dinaintea ochilor Tăi», dar voi privi din nou către Sălașul Tău cel sfânt. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγὼ εἶπα· ἀπῶσμαι ἐξ ὀφθαλμῶν σου· ἆρα προσθήσω τοῦ ἐπιβλέψαι με πρὸς ναὸν τὸν ἅγιόν σου;",
+       "greek": true,
+       "translation": "și eu am spus: sunt lepădat dinaintea ochilor Tăi; voi mai adăuga să privesc spre templul Tău cel sfânt?",
+       "note": "Mică divergență de mod verbal: Septuaginta termină cu o întrebare retorică („voi mai adăuga...?”) unde Textul Masoretic are o afirmație fermă („dar voi privi din nou”)."
+      }
+     ],
+     "refs": [
+      "Psalmul 31:22",
+      "Isaia 38:10-14",
+      "1 Împărați 8:38,39"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și am spus eu” — când m-au aruncat în mare: „iată-mă mort, și izgonit dinaintea ochilor Tăi.” „Doar” — dar am văzut că m-ai ținut în viață toate aceste zile, am știut că voi continua să privesc spre Templul Tău cel sfânt."
+      }
+     ]
     },
     {
      "v": "2:6",
      "t": "Ape m-au împresurat până la suflet, adâncul m-a învăluit, algele s-au încurcat peste capul meu.",
      "heb": "אֲפָפוּנִי מַיִם עַד־נֶפֶשׁ תְּהוֹם יְסֹבְבֵנִי סוּף חָבוּשׁ לְרֹאשִׁי׃",
-     "translit": "Afafuni maim ad-nefeș tehom iesoveveni suf havuș leroși."
+     "translit": "Afafuni maim ad-nefeș tehom iesoveveni suf havuș leroși.",
+     "tokens": [
+      {
+       "t": "Ape m-au împresurat până la suflet, adâncul m-a învăluit, algele s-au încurcat peste capul meu."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אֲפָפוּנִי מַיִם עַד־נֶפֶשׁ תְּהוֹם יְסֹבְבֵנִי סוּף חָבוּשׁ לְרֹאשִׁי׃",
+       "translation": "Ape m-au împresurat până la suflet, adâncul m-a învăluit, algele s-au încurcat peste capul meu. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "περιεχύθη μοι ὕδωρ ἕως ψυχῆς, ἄβυσσος ἐκύκλωσέ με ἐσχάτη, ἔδυ ἡ κεφαλή μου εἰς σχισμὰς ὀρέων.",
+       "greek": true,
+       "translation": "s-a revărsat în jurul meu apă până la suflet, adâncul m-a înconjurat, cel din urmă, s-a cufundat capul meu în crăpăturile munților.",
+       "note": "Divergență de imagine: Septuaginta are „în crăpăturile munților” unde Textul Masoretic are „algele s-au încurcat peste capul meu” — o imagine diferită pentru primejdia de la capul profetului."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 32:22",
+      "Psalmul 65:6",
+      "Habacuc 3:6,10"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:7",
      "t": "La temeliile munților m-am scufundat, pământul mă zăvorâse pe vecie. Și totuși, mi-ai ridicat viața din groapă, DOAMNE, Dumnezeul meu!",
      "heb": "לְקִצְבֵי הָרִים יָרַדְתִּי הָאָרֶץ בְּרִחֶיהָ בַעֲדִי לְעוֹלָם וַתַּעַל מִשַּׁחַת חַיַּי יְהוָה אֱלֹהָי׃",
-     "translit": "Lekitzvei harim iaradti haareț beriheha vaadi leolam vataal mișahat haiái ADONAI Elohai."
+     "translit": "Lekitzvei harim iaradti haareț beriheha vaadi leolam vataal mișahat haiái ADONAI Elohai.",
+     "tokens": [
+      {
+       "t": "La temeliile munților m-am scufundat, pământul mă zăvorâse pe vecie. Și totuși, mi-ai ridicat viața din groapă, DOAMNE, Dumnezeul meu!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לְקִצְבֵי הָרִים יָרַדְתִּי הָאָרֶץ בְּרִחֶיהָ בַעֲדִי לְעוֹלָם וַתַּעַל מִשַּׁחַת חַיַּי יְהוָה אֱלֹהָי׃",
+       "translation": "La temeliile munților m-am scufundat, pământul mă zăvorâse pe vecie. Și totuși, mi-ai ridicat viața din groapă, DOAMNE, Dumnezeul meu! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "κατέβην εἰς γῆν, ἧς οἱ μοχλοὶ αὐτῆς κάτοχοι αἰώνιοι, καὶ ἀναβήτω ἐκ φθορᾶς ἡ ζωή μου, πρὸς σὲ Κύριε ὁ Θεός μου.",
+       "greek": true,
+       "translation": "m-am pogorât în pământul ale cărui zăvoare sunt stăpânitori veșnici, și să se înalțe din putrejune viața mea, către Tine, Doamne Dumnezeul meu.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iov 33:24,28",
+      "Psalmul 30:3,9",
+      "Psalmul 16:10"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:8",
      "t": "Când sufletul îmi era slab în mine, Te-am pomenit, DOAMNE. Rugăciunea mea a ajuns la Tine, la Sălașul Tău cel sfânt.",
      "heb": "בְּהִתְעַטֵּף עָלַי נַפְשִׁי אֶת־יְהוָה זָכָרְתִּי וַתָּבוֹא אֵלֶיךָ תְּפִלָּתִי אֶל־הֵיכַל קָדְשֶׁךָ׃",
-     "translit": "Behitatef alai nafși et-ADONAI zaharti vatavo eleha tefilati el-heikhal kodșeha."
+     "translit": "Behitatef alai nafși et-ADONAI zaharti vatavo eleha tefilati el-heikhal kodșeha.",
+     "tokens": [
+      {
+       "t": "Când sufletul îmi era slab în mine, Te-am pomenit, DOAMNE. Rugăciunea mea a ajuns la Tine, la Sălașul Tău cel sfânt."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בְּהִתְעַטֵּף עָלַי נַפְשִׁי אֶת־יְהוָה זָכָרְתִּי וַתָּבוֹא אֵלֶיךָ תְּפִלָּתִי אֶל־הֵיכַל קָדְשֶׁךָ׃",
+       "translation": "Când sufletul îmi era slab în mine, Te-am pomenit, DOAMNE. Rugăciunea mea a ajuns la Tine, la Sălașul Tău cel sfânt. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐν τῷ ἐκλείπειν ἀπ᾿ ἐμοῦ τὴν ψυχήν μου τοῦ Κυρίου ἐμνήσθην, καὶ ἔλθοι πρὸς σὲ ἡ προσευχή μου εἰς ναὸν τὸ ἅγιόν σου.",
+       "greek": true,
+       "translation": "când sufletul îmi slăbea de la mine, de Domnul mi-am adus aminte, și să vină la Tine rugăciunea mea, spre templul Tău cel sfânt.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 18:6",
+      "Psalmul 42:5,11",
+      "Plângerile lui Ieremia 3:21-26"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:9",
      "t": "Cei ce veghează asupra deșertăciunilor se lipsesc de îndurare.",
      "heb": "מְשַׁמְּרִים הַבְלֵי־שָׁוְא חַסְדָּם יַעֲזֹבוּ׃",
-     "translit": "Meșamrim havlei-șav hasdam iaazovu."
+     "translit": "Meșamrim havlei-șav hasdam iaazovu.",
+     "tokens": [
+      {
+       "t": "Cei ce veghează asupra deșertăciunilor",
+       "w": "Cei ce veghează asupra deșertăciunilor",
+       "heb": "מְשַׁמְּרִים הַבְלֵי שָׁוְא",
+       "translit": "meșamrim havlē șav",
+       "strong": "H7723",
+       "pos": "verb, piel participiu + substantiv, masculin plural construct + substantiv, masculin singular",
+       "def_ro": "cei ce păzesc/veghează asupra deșertăciunilor mincinoase (meșamrim havlei șav).",
+       "dict_ro": "Rashi tâlcuiește: aceștia sunt cei care slujesc idolilor — frica de Cel Sfânt pe care și-ar fi putut-o însuși prin ea se lipsesc singuri de toată bunăvoința pe care Domnul le-ar fi arătat-o. O tradiție din Pirkei de-Rabi Eliezer leagă versetul direct de marinarii corăbiei: văzând minunile petrecute cu Iona, aceștia și-au aruncat în mare, fiecare, idolul lui, și s-au întors la Iafo să se facă prozeliți — ei fiind cei care „au părăsit bunăvoința lor” [idolatria] ca să se întoarcă la adevăr."
+      },
+      {
+       "t": " se lipsesc de îndurare."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מְשַׁמְּרִים הַבְלֵי־שָׁוְא חַסְדָּם יַעֲזֹבוּ׃",
+       "translation": "Cei ce veghează asupra deșertăciunilor se lipsesc de îndurare. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "φυλασσόμενοι μάταια καὶ ψευδῆ ἔλεον αὐτῶν ἐγκατέλιπον.",
+       "greek": true,
+       "translation": "cei ce păzesc lucruri deșarte și false, mila lor au lăsat-o.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 12:21",
+      "2 Împărați 17:15",
+      "Ieremia 2:13"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Cei ce veghează asupra deșertăciunilor mincinoase” — cei care slujesc idolilor. „Își lasă bunăvoința” — teama de Cel Sfânt, pe care toată bunăvoința și binele lor [ar fi putut veni] de la El, o lasă; dar eu nu sunt astfel, ci cu glas de mulțumire voi jertfi. Așa a tălmăcit Ionatan. Iar Pirkei de-Rabi Eliezer au tâlcuit [versetul] cu privire la marinari, care și-au lăsat bunăvoința pe care o arătau idolilor, și s-au făcut prozeliți."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Cei ce veghează asupra deșertăciunilor mincinoase” — marinarii corăbiei, care erau slujitori de idoli; știam că după ce vor fi scăpați din necaz își vor lăsa bunăvoința [arătată idolilor], se vor teme de Domnul și vor striga către El, și vor face jurăminte pe care nu le vor împlini, întorcându-se la slujirea idolilor lor — dar eu nu voi fi așa, ci cu glas de mulțumire Îți voi jertfi."
+      }
+     ]
     },
     {
      "v": "2:10",
      "t": "Dar eu, cu glas de mulțumire Îți voi aduce ofrande; ceea ce am jurat, voi împlini, căci mântuirea este a DOMNULUI!”",
      "heb": "וַאֲנִי בְּקוֹל תּוֹדָה אֶזְבְּחָה־לָּךְ אֲשֶׁר נָדַרְתִּי אֲשַׁלֵּמָה יְשׁוּעָתָה לַיהוָה׃",
-     "translit": "Vaani bekol toda ezbeha-lah așer nadarti așalema ieșuata l'ADONAI."
+     "translit": "Vaani bekol toda ezbeha-lah așer nadarti așalema ieșuata l'ADONAI.",
+     "tokens": [
+      {
+       "t": "Dar eu, cu glas de mulțumire Îți voi aduce ofrande; ceea ce am jurat, voi împlini, căci mântuirea este a DOMNULUI!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַאֲנִי בְּקוֹל תּוֹדָה אֶזְבְּחָה־לָּךְ אֲשֶׁר נָדַרְתִּי אֲשַׁלֵּמָה יְשׁוּעָתָה לַיהוָה׃",
+       "translation": "Dar eu, cu glas de mulțumire Îți voi aduce ofrande; ceea ce am jurat, voi împlini, căci mântuirea este a DOMNULUI!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐγὼ δὲ μετὰ φωνῆς αἰνέσεως καὶ ἐξομολογήσεως θύσω σοι, ὅσα ηὐξάμην ἀποδώσω σοι εἰς σωτηρίαν μου τῷ Κυρίῳ.",
+       "greek": true,
+       "translation": "iar eu, cu glas de laudă și de mulțumire, Îți voi jertfi; cât am jurat voi plăti, Domnului, pentru mântuirea mea.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 35:3",
+      "Psalmul 50:14,23",
+      "Osea 14:2"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:11",
      "t": "Și DOMNUL i-a vorbit peștelui, și el l-a vărsat pe Iona pe uscat.",
      "heb": "וַיֹּאמֶר יְהוָה לַדָּג וַיָּקֵא אֶת־יוֹנָה אֶל־הַיַּבָּשָׁה׃",
-     "translit": "Vaiomer ADONAI ladag vaiake et-Iona el-haiabașa."
+     "translit": "Vaiomer ADONAI ladag vaiake et-Iona el-haiabașa.",
+     "tokens": [
+      {
+       "t": "Și DOMNUL i-a vorbit peștelui, și el l-a vărsat pe Iona pe uscat."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוָה לַדָּג וַיָּקֵא אֶת־יוֹנָה אֶל־הַיַּבָּשָׁה׃",
+       "translation": "Și DOMNUL i-a vorbit peștelui, și el l-a vărsat pe Iona pe uscat. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ προσέταξε Κύριος τῷ κήτει, καὶ ἐξέβαλε τὸν ᾿Ιωνᾶν ἐπὶ τὴν ξηράν.",
+       "greek": true,
+       "translation": "Și a poruncit Domnul chitului, și l-a vărsat pe Iona pe uscat.",
+       "note": "Aceeași divergență de termen („chit” în loc de „pește”), consecventă cu restul capitolului."
+      }
+     ],
+     "refs": [
+      "Geneza 1:3-14",
+      "Isaia 50:2",
+      "Matei 8:8,9"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:1",
      "t": "Și cuvântul DOMNULUI a venit la Iona a doua oară, spunând:",
      "heb": "וַיְהִי דְבַר־יְהוָה אֶל־יוֹנָה שֵׁנִית לֵאמֹר׃",
-     "translit": "Vaihi devar-ADONAI el-Iona șenit lemor."
+     "translit": "Vaihi devar-ADONAI el-Iona șenit lemor.",
+     "tokens": [
+      {
+       "t": "Și cuvântul DOMNULUI a venit la Iona a doua oară, spunând:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי דְבַר־יְהוָה אֶל־יוֹנָה שֵׁנִית לֵאמֹר׃",
+       "translation": "Și cuvântul DOMNULUI a venit la Iona a doua oară, spunând: — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐγένετο λόγος Κυρίου πρὸς ᾿Ιωνᾶν ἐκ δευτέρου λέγων·",
+       "greek": true,
+       "translation": "Și a fost cuvântul Domnului către Iona a doua oară, zicând:",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iona 1:1",
+      "Ioan 21:15-17"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:2",
      "t": "„Scoală-te! Du-te la Ninive, cetatea cea mare, și strigă către ea strigarea pe care ți-o voi vorbi Eu!”",
      "heb": "קוּם לֵךְ אֶל־נִינְוֵה הָעִיר הַגְּדוֹלָה וּקְרָא אֵלֶיהָ אֶת־הַקְּרִיאָה אֲשֶׁר אָנֹכִי דֹּבֵר אֵלֶיךָ׃",
-     "translit": "Kum leh el-Ninve hair haggedola ukera eleha et-hakeria așer anohi dover eleha."
+     "translit": "Kum leh el-Ninve hair haggedola ukera eleha et-hakeria așer anohi dover eleha.",
+     "tokens": [
+      {
+       "t": "„Scoală-te! Du-te la Ninive, cetatea cea mare, și strigă către ea strigarea pe care ți-o voi vorbi Eu!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "קוּם לֵךְ אֶל־נִינְוֵה הָעִיר הַגְּדוֹלָה וּקְרָא אֵלֶיהָ אֶת־הַקְּרִיאָה אֲשֶׁר אָנֹכִי דֹּבֵר אֵלֶיךָ׃",
+       "translation": "„Scoală-te! Du-te la Ninive, cetatea cea mare, și strigă către ea strigarea pe care ți-o voi vorbi Eu!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀνάστηθι καὶ πορεύθητι εἰς Νινευὴ τὴν πόλιν τὴν μεγάλην καὶ κήρυξον ἐν αὐτῇ κατὰ τὸ κήρυγμα τὸ ἔμπροσθεν, ὃ ἐγὼ ἐλάλησα πρός σε.",
+       "greek": true,
+       "translation": "Scoală-te și du-te la Ninive, cetatea cea mare, și strigă în ea după strigarea de mai înainte, pe care Eu am grăit-o către tine.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 1:17",
+      "Ezechiel 3:17",
+      "Matei 3:8"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:3",
      "t": "Așa că Iona s-a sculat și s-a dus la Ninive, după cuvântul DOMNULUI. Iar Ninive era un oraș foarte mare, cale de trei zile [pentru a o străbate].",
      "heb": "וַיָּקָם יוֹנָה וַיֵּלֶךְ אֶל־נִינְוֵה כִּדְבַר יְהוָה וְנִינְוֵה הָיְתָה עִיר־גְּדוֹלָה לֵאלֹהִים מַהֲלַךְ שְׁלֹשֶׁת יָמִים׃",
-     "translit": "Vaiakom Iona vaieleh el-Ninve kidvar ADONAI ve'Ninve haita ir-ghedola l'Elohim mahalah șeloșet iamim."
+     "translit": "Vaiakom Iona vaieleh el-Ninve kidvar ADONAI ve'Ninve haita ir-ghedola l'Elohim mahalah șeloșet iamim.",
+     "tokens": [
+      {
+       "t": "Așa că Iona s-a sculat și s-a dus la Ninive, după cuvântul DOMNULUI. Iar Ninive era un oraș foarte mare, cale de trei zile [pentru a o străbate]."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּקָם יוֹנָה וַיֵּלֶךְ אֶל־נִינְוֵה כִּדְבַר יְהוָה וְנִינְוֵה הָיְתָה עִיר־גְּדוֹלָה לֵאלֹהִים מַהֲלַךְ שְׁלֹשֶׁת יָמִים׃",
+       "translation": "Așa că Iona s-a sculat și s-a dus la Ninive, după cuvântul DOMNULUI. Iar Ninive era un oraș foarte mare, cale de trei zile [pentru a o străbate]. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέστη ᾿Ιωνᾶς καὶ ἐπορεύθη εἰς Νινευή, καθὰ ἐλάλησε Κύριος· ἡ δὲ Νινευὴ ἦν πόλις μεγάλη τῷ Θεῷ ὡσεὶ πορείας ὁδοῦ τριῶν ἡμερῶν.",
+       "greek": true,
+       "translation": "și s-a sculat Iona și s-a dus la Ninive, cum a grăit Domnul; iar Ninive era cetate mare pentru Dumnezeu, ca o cale de mers de trei zile.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 30:8",
+      "Psalmul 36:6"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:4",
      "t": "Iona a început să intre în oraș cale de o zi, apoi a strigat și a spus: „Încă patruzeci de zile și Ninive va fi răsturnată!”",
      "heb": "וַיָּחֶל יוֹנָה לָבוֹא בָעִיר מַהֲלַךְ יוֹם אֶחָד וַיִּקְרָא וַיֹּאמַר עוֹד אַרְבָּעִים יוֹם וְנִינְוֵה נֶהְפָּכֶת׃",
-     "translit": "Vaiahel Iona lavo vair mahalah iom ehad vaikra vaiomar od arbaim iom ve'Ninve nehepahet."
+     "translit": "Vaiahel Iona lavo vair mahalah iom ehad vaikra vaiomar od arbaim iom ve'Ninve nehepahet.",
+     "tokens": [
+      {
+       "t": "Iona a început să intre în oraș cale de o zi, apoi a strigat și a spus: „Încă patruzeci de zile și Ninive "
+      },
+      {
+       "t": "va fi răsturnată",
+       "w": "va fi răsturnată",
+       "heb": "נֶהְפָּכֶת",
+       "translit": "nehpahet",
+       "strong": "H2015",
+       "pos": "verb, nifal participiu",
+       "def_ro": "va fi răsturnată/prefăcută (nehefahet).",
+       "dict_ro": "Rashi observă o ambiguitate intenționată a cuvântului profetic: Iona n-a spus „va fi nimicită”, ci „va fi răsturnată/prefăcută” — un cuvânt care slujește deopotrivă pentru rău și pentru bine. Dacă nu se vor pocăi, cetatea va fi distrusă; dacă se vor pocăi, va fi „prefăcută” din rău în bine — dubla valență a cuvântului ascunzând, de la început, posibilitatea mântuirii pe care Iona însuși se temea s-o vadă împlinită."
+      },
+      {
+       "t": "!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּחֶל יוֹנָה לָבוֹא בָעִיר מַהֲלַךְ יוֹם אֶחָד וַיִּקְרָא וַיֹּאמַר עוֹד אַרְבָּעִים יוֹם וְנִינְוֵה נֶהְפָּכֶת׃",
+       "translation": "Iona a început să intre în oraș cale de o zi, apoi a strigat și a spus: „Încă patruzeci de zile și Ninive va fi răsturnată!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἤρξατο ᾿Ιωνᾶς τοῦ εἰσελθεῖν εἰς τὴν πόλιν ὡσεὶ πορείαν ἡμέρας μιᾶς καὶ ἐκήρυξε καὶ εἶπεν· ἔτι τρεῖς ἡμέραι καὶ Νινευὴ καταστραφήσεται.",
+       "greek": true,
+       "translation": "și a început Iona să intre în cetate ca o cale de o zi, și a strigat și a spus: încă trei zile și Ninive va fi dărâmată.",
+       "note": "Divergență numerică majoră și documentată: Septuaginta are „încă trei zile” unde Textul Masoretic are „încă patruzeci de zile” — o diferență radicală de termen, discutată încă în tradiția rabinică și patristică, fără explicație sigură a originii ei."
+      }
+     ],
+     "refs": [
+      "Iona 3:10",
+      "Deuteronomul 18:22",
+      "Ieremia 18:7-10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Nehefahet” — „nimicită” — (iar nu a spus „neheravet”, [termen fără ambiguitate] pentru că „nehefahet” slujește ambele sensuri, rău și bine: dacă nu se vor pocăi — va fi nimicită; dacă se vor pocăi — va fi atunci prefăcută din rău în bine. Se referă la locuitorii din Ninive, care se vor preface din rău în bine și se vor pocăi.)"
+      }
+     ]
     },
     {
      "v": "3:5",
      "t": "Oamenii din Ninive au crezut în Dumnezeu, așa că au decretat post și au îmbrăcat pânză de sac, de la cel mai mare dintre ei la cel mai mic dintre ei.",
      "heb": "וַיַּאֲמִינוּ אַנְשֵׁי נִינְוֵה בֵּאלֹהִים וַיִּקְרְאוּ־צוֹם וַיִּלְבְּשׁוּ שַׂקִּים מִגְּדוֹלָם וְעַד־קְטַנָּם׃",
-     "translit": "Vaiaaminu anșei Ninve b'Elohim vaikreu-tzom vailbeșu sakim mighedolam vead-ketanam."
+     "translit": "Vaiaaminu anșei Ninve b'Elohim vaikreu-tzom vailbeșu sakim mighedolam vead-ketanam.",
+     "tokens": [
+      {
+       "t": "Oamenii din Ninive au crezut în Dumnezeu, așa că au decretat post și au îmbrăcat pânză de sac, de la cel mai mare dintre ei la cel mai mic dintre ei."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּאֲמִינוּ אַנְשֵׁי נִינְוֵה בֵּאלֹהִים וַיִּקְרְאוּ־צוֹם וַיִּלְבְּשׁוּ שַׂקִּים מִגְּדוֹלָם וְעַד־קְטַנָּם׃",
+       "translation": "Oamenii din Ninive au crezut în Dumnezeu, așa că au decretat post și au îmbrăcat pânză de sac, de la cel mai mare dintre ei la cel mai mic dintre ei. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπίστευσαν οἱ ἄνδρες Νινευὴ τῷ Θεῷ καὶ ἐκήρυξαν νηστείαν καὶ ἐνεδύσαντο σάκκους ἀπὸ μεγάλου αὐτῶν ἕως μικροῦ αὐτῶν.",
+       "greek": true,
+       "translation": "și au crezut oamenii din Ninive în Dumnezeu, și au vestit post, și s-au îmbrăcat cu saci, de la cel mare al lor până la cel mic al lor.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 9:18-21",
+      "Matei 12:41",
+      "Ioel 2:12-17"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:6",
      "t": "Iar când vestea a ajuns la regele din Ninive, el s-a ridicat de pe tronul său și și-a scos mantia, s-a acoperit cu pânză de sac și s-a așezat în cenușă.",
      "heb": "וַיִּגַּע הַדָּבָר אֶל־מֶלֶךְ נִינְוֵה וַיָּקָם מִכִּסְאוֹ וַיַּעֲבֵר אַדַּרְתּוֹ מֵעָלָיו וַיְכַס שַׂק וַיֵּשֶׁב עַל־הָאֵפֶר׃",
-     "translit": "Vaiga hadavar el-meleh Ninve vaiakom mikiso vaiaaver adarto mealav vaikas sak vaieșev al-haefer."
+     "translit": "Vaiga hadavar el-meleh Ninve vaiakom mikiso vaiaaver adarto mealav vaikas sak vaieșev al-haefer.",
+     "tokens": [
+      {
+       "t": "Iar când vestea a ajuns la regele din Ninive, el s-a ridicat de pe tronul său și și-a scos mantia, s-a acoperit cu pânză de sac și s-a așezat în cenușă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּגַּע הַדָּבָר אֶל־מֶלֶךְ נִינְוֵה וַיָּקָם מִכִּסְאוֹ וַיַּעֲבֵר אַדַּרְתּוֹ מֵעָלָיו וַיְכַס שַׂק וַיֵּשֶׁב עַל־הָאֵפֶר׃",
+       "translation": "Iar când vestea a ajuns la regele din Ninive, el s-a ridicat de pe tronul său și și-a scos mantia, s-a acoperit cu pânză de sac și s-a așezat în cenușă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἤγγισεν ὁ λόγος πρὸς τὸν βασιλέα τῆς Νινευή, καὶ ἐξανέστη ἀπὸ τοῦ θρόνου αὐτοῦ καὶ περιείλετο τὴν στολὴν αὐτοῦ ἀφ᾿ ἑαυτοῦ καὶ περιεβάλετο σάκκον καὶ ἐκάθισεν ἐπὶ σποδοῦ.",
+       "greek": true,
+       "translation": "și s-a apropiat cuvântul de regele Ninivei, și s-a sculat de pe tronul lui și și-a scos veșmântul de pe sine și s-a învelit cu sac și a șezut pe cenușă.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Estera 4:1-4",
+      "Iov 42:6",
+      "Daniel 9:3"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:7",
      "t": "Și a vestit și a declarat în Ninive: „Din porunca regelui și a nobililor săi, astfel: om și dobitoc, cireadă sau turmă, să nu mănânce nimic; nici să nu pască, nici să nu bea apă.",
      "heb": "וַיַּזְעֵק וַיֹּאמֶר בְּנִינְוֵה מִטַּעַם הַמֶּלֶךְ וּגְדֹלָיו לֵאמֹר הָאָדָם וְהַבְּהֵמָה הַבָּקָר וְהַצֹּאן אַל־יִטְעֲמוּ מְאוּמָה אַל־יִרְעוּ וּמַיִם אַל־יִשְׁתּוּ׃",
-     "translit": "Vaiazek vaiomer be'Ninve mitaam hameleh ughedolav lemor haadam vehehema habakar vehațon al-itamu meuma al-ireu umaim al-iștu."
+     "translit": "Vaiazek vaiomer be'Ninve mitaam hameleh ughedolav lemor haadam vehehema habakar vehațon al-itamu meuma al-ireu umaim al-iștu.",
+     "tokens": [
+      {
+       "t": "Și a vestit și a declarat în Ninive: „Din porunca regelui și a nobililor săi, astfel: om și dobitoc, cireadă sau turmă, să nu mănânce nimic; nici să nu pască, nici să nu bea apă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּזְעֵק וַיֹּאמֶר בְּנִינְוֵה מִטַּעַם הַמֶּלֶךְ וּגְדֹלָיו לֵאמֹר הָאָדָם וְהַבְּהֵמָה הַבָּקָר וְהַצֹּאן אַל־יִטְעֲמוּ מְאוּמָה אַל־יִרְעוּ וּמַיִם אַל־יִשְׁתּוּ׃",
+       "translation": "Și a vestit și a declarat în Ninive: „Din porunca regelui și a nobililor săi, astfel: om și dobitoc, cireadă sau turmă, să nu mănânce nimic; nici să nu pască, nici să nu bea apă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐκηρύχθη καὶ ἐρρέθη ἐν τῇ Νινευὴ παρὰ τοῦ βασιλέως καὶ παρὰ τῶν μεγιστάνων αὐτοῦ λέγων· οἱ ἄνθρωποι καὶ τὰ κτήνη καὶ οἱ βόες καὶ τὰ πρόβατα μὴ γευσάσθωσαν μηδὲ νεμέσθωσαν μηδὲ ὕδωρ πιέτωσαν.",
+       "greek": true,
+       "translation": "și s-a vestit și s-a spus în Ninive de către rege și de către mai-marii lui, zicând: oamenii și vitele și boii și oile să nu guste nimic, nici să nu pască, nici să nu bea apă.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iona 3:5",
+      "Ezra 8:21",
+      "Ioel 2:15,16"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:8",
      "t": "Să se acopere cu pânză de sac – atât om, cât și dobitoc – și să strige [cu glas] tare către Dumnezeu. Fiecare să se întoarcă de la calea sa cea rea și de la jaful care este în palmele sale.",
      "heb": "וְיִתְכַּסּוּ שַׂקִּים הָאָדָם וְהַבְּהֵמָה וְיִקְרְאוּ אֶל־אֱלֹהִים בְּחָזְקָה וְיָשֻׁבוּ אִישׁ מִדַּרְכּוֹ הָרָעָה וּמִן־הֶחָמָס אֲשֶׁר בְּכַפֵּיהֶם׃",
-     "translit": "Veitkassu sakim haadam vehehema veikreu el-Elohim behazka veiașuvu iș midarko haraa umin-hehamas așer bekapeihem."
+     "translit": "Veitkassu sakim haadam vehehema veikreu el-Elohim behazka veiașuvu iș midarko haraa umin-hehamas așer bekapeihem.",
+     "tokens": [
+      {
+       "t": "Să se acopere cu pânză de sac – atât om, cât și dobitoc – și să strige [cu glas] tare către Dumnezeu. Fiecare să se întoarcă de la calea sa cea rea și de la jaful care este în palmele sale."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְיִתְכַּסּוּ שַׂקִּים הָאָדָם וְהַבְּהֵמָה וְיִקְרְאוּ אֶל־אֱלֹהִים בְּחָזְקָה וְיָשֻׁבוּ אִישׁ מִדַּרְכּוֹ הָרָעָה וּמִן־הֶחָמָס אֲשֶׁר בְּכַפֵּיהֶם׃",
+       "translation": "Să se acopere cu pânză de sac – atât om, cât și dobitoc – și să strige [cu glas] tare către Dumnezeu. Fiecare să se întoarcă de la calea sa cea rea și de la jaful care este în palmele sale. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ περιεβάλλοντο σάκκους οἱ ἄνθρωποι καὶ τὰ κτήνη, καὶ ἀνεβόησαν πρὸς τὸν Θεὸν ἐκτενῶς· καὶ ἀπέστρεψαν ἕκαστος ἀπὸ τῆς ὁδοῦ αὐτῶν τῆς πονηρᾶς καὶ ἀπὸ τῆς ἀδικίας τῆς ἐν χερσὶν αὐτῶν λέγοντες·",
+       "greek": true,
+       "translation": "și s-au înveșmântat cu saci oamenii și vitele, și au strigat către Dumnezeu cu stăruință; și s-au întors fiecare de la calea lor cea rea și de la nedreptatea din mâinile lor, spunând:",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 1:16-19",
+      "Isaia 55:6,7",
+      "Ezechiel 33:11"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:9",
      "t": "Cel care cunoaște, să se căiască, și atunci Dumnezeu se va răzgândi, Se va întoarce de la furia Sa arzătoare și nu vom pieri.”",
      "heb": "מִי־יוֹדֵעַ יָשׁוּב וְנִחַם הָאֱלֹהִים וְשָׁב מֵחֲרוֹן אַפּוֹ וְלֹא נֹאבֵד׃",
-     "translit": "Mi-iodea iașuv veniham haElohim veșav meharon apo velo noved."
+     "translit": "Mi-iodea iașuv veniham haElohim veșav meharon apo velo noved.",
+     "tokens": [
+      {
+       "t": "Cel care cunoaște, să se căiască, și atunci Dumnezeu se va răzgândi, Se va întoarce de la furia Sa arzătoare și nu vom pieri.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי־יוֹדֵעַ יָשׁוּב וְנִחַם הָאֱלֹהִים וְשָׁב מֵחֲרוֹן אַפּוֹ וְלֹא נֹאבֵד׃",
+       "translation": "Cel care cunoaște, să se căiască, și atunci Dumnezeu se va răzgândi, Se va întoarce de la furia Sa arzătoare și nu vom pieri.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τίς οἶδεν εἰ μετανοήσει ὁ Θεὸς καὶ ἀποστρέψει ἐξ ὀργῆς θυμοῦ αὐτοῦ καὶ οὐ μὴ ἀπολώμεθα;",
+       "greek": true,
+       "translation": "cine știe de se va pocăi Dumnezeu și se va întoarce de la mânia urgiei Lui, și nu vom pieri?",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iona 1:6",
+      "2 Samuel 12:22",
+      "Ioel 2:13,14"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:10",
      "t": "Și Dumnezeu a văzut faptele lor, căci se căiseră de la calea lor cea rea. Și Dumnezeu S-a răzgândit de răul pe care vorbise să li-l facă și nu [l-]a înfăptuit.",
      "heb": "וַיַּרְא הָאֱלֹהִים אֶת־מַעֲשֵׂיהֶם כִּי־שָׁבוּ מִדַּרְכָּם הָרָעָה וַיִּנָּחֶם הָאֱלֹהִים עַל־הָרָעָה אֲשֶׁר־דִּבֶּר לַעֲשׂוֹת־לָהֶם וְלֹא עָשָׂה׃",
-     "translit": "Vaiar haElohim et-maaseihem ki-șavu midarkam haraa vainahem haElohim al-haraa așer-diber laasot-lahem velo asa."
+     "translit": "Vaiar haElohim et-maaseihem ki-șavu midarkam haraa vainahem haElohim al-haraa așer-diber laasot-lahem velo asa.",
+     "tokens": [
+      {
+       "t": "Și Dumnezeu a văzut faptele lor, căci se căiseră de la calea lor cea rea. Și Dumnezeu S-a răzgândit de răul pe care vorbise să li-l facă și nu [l-]a înfăptuit."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּרְא הָאֱלֹהִים אֶת־מַעֲשֵׂיהֶם כִּי־שָׁבוּ מִדַּרְכָּם הָרָעָה וַיִּנָּחֶם הָאֱלֹהִים עַל־הָרָעָה אֲשֶׁר־דִּבֶּר לַעֲשׂוֹת־לָהֶם וְלֹא עָשָׂה׃",
+       "translation": "Și Dumnezeu a văzut faptele lor, căci se căiseră de la calea lor cea rea. Și Dumnezeu S-a răzgândit de răul pe care vorbise să li-l facă și nu [l-]a înfăptuit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶδεν ὁ Θεὸς τὰ ἔργα αὐτῶν, ὅτι ἀπέστρεψαν ἀπὸ τῶν ὁδῶν αὐτῶν τῶν πονηρῶν, καὶ μετενόησεν ὁ Θεὸς ἐπὶ τῇ κακίᾳ, ᾗ ἐλάλησε τοῦ ποιῆσαι αὐτοῖς, καὶ οὐκ ἐποίησε.",
+       "greek": true,
+       "translation": "și a văzut Dumnezeu faptele lor, că s-au întors de la căile lor cele rele, și S-a pocăit Dumnezeu de răul pe care-l grăise să-l facă lor, și nu l-a făcut.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Împărați 21:27-29",
+      "Ieremia 18:8",
+      "Amos 7:3,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:1",
      "t": "Dar [asta] l-a supărat pe Iona foarte mult și l-a mâhnit.",
      "heb": "וַיֵּרַע אֶל־יוֹנָה רָעָה גְדוֹלָה וַיִּחַר לוֹ׃",
-     "translit": "Vaiera el-Iona raa ghedola vaihar lo."
+     "translit": "Vaiera el-Iona raa ghedola vaihar lo.",
+     "tokens": [
+      {
+       "t": "Dar [asta] l-a supărat pe Iona foarte mult și l-a mâhnit."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֵּרַע אֶל־יוֹנָה רָעָה גְדוֹלָה וַיִּחַר לוֹ׃",
+       "translation": "Dar [asta] l-a supărat pe Iona foarte mult și l-a mâhnit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐλυπήθη Ἰωνᾶς λύπην μεγάλην καὶ συνεχύθη,",
+       "greek": true,
+       "translation": "Și s-a întristat Iona cu întristare mare și s-a tulburat,",
+       "note": "Corespondență apropiată cu Textul Masoretic, cu nuanța „s-a tulburat” adăugată lângă „mânie” din ebraică."
+      }
+     ],
+     "refs": [
+      "Iona 4:9",
+      "Iacov 4:5,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:2",
      "t": "S-a rugat DOMNULUI și a spus: „Te rog, DOAMNE, nu este tocmai aceasta pricina mea când eram încă în țara mea? De aceea m-am grăbit să fug la Tarșiș, căci am știut că [Tu] ești un Dumnezeu binevoitor și milos, încet la mânie, plin de bunătate, și care renunți la rău.",
      "heb": "וַיִּתְפַּלֵּל אֶל־יְהוָה וַיֹּאמַר אָנָּה יְהוָה הֲלוֹא־זֶה דְבָרִי עַד־הֱיוֹתִי עַל־אַדְמָתִי עַל־כֵּן קִדַּמְתִּי לִבְרֹחַ תַּרְשִׁישָׁה כִּי יָדַעְתִּי כִּי אַתָּה אֵל־חַנּוּן וְרַחוּם אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד וְנִחָם עַל־הָרָעָה׃",
-     "translit": "Vaitpalel el-ADONAI vaiomar ana ADONAI halo-ze devari ad-heioti al-admati al-ken kidamti livroah Tarșișa ki iadati ki ata El-hanun verahum ereh apaim verav-hesed veniham al-haraa."
+     "translit": "Vaitpalel el-ADONAI vaiomar ana ADONAI halo-ze devari ad-heioti al-admati al-ken kidamti livroah Tarșișa ki iadati ki ata El-hanun verahum ereh apaim verav-hesed veniham al-haraa.",
+     "tokens": [
+      {
+       "t": "S-a rugat DOMNULUI și a spus: „Te rog, DOAMNE, nu este tocmai aceasta pricina mea când eram încă în țara mea? De aceea m-am grăbit să fug la Tarșiș, căci am știut că [Tu] ești un "
+      },
+      {
+       "t": "Dumnezeu binevoitor și milos",
+       "w": "Dumnezeu binevoitor și milos",
+       "heb": "אֵל חַנּוּן וְרַחוּם אֶרֶךְ אַפַּיִם וְרַב חֶסֶד",
+       "translit": "ēl hanun verahum ereh apaim verav hesed",
+       "strong": "H2617",
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular + adjectiv, masculin singular + adjectiv, masculin singular + substantiv, masculin dual + adjectiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "Dumnezeu [plin de] bunăvoință și milă (El chanun verachum).",
+       "dict_ro": "Radak notează că Iona citează aici, aproape cuvânt cu cuvânt, formula celor treisprezece atribute ale îndurării divine descoperite lui Moise (Exodul 34:6-7) — exact aceeași bunăvoință pe care o aștepta Israel pentru sine, Iona o vede acum revărsată, din plin, asupra unei cetăți păgâne, și tocmai această generozitate neîngrădită e sursa adevărată a amărăciunii lui."
+      },
+      {
+       "t": ", încet la mânie, plin de bunătate, și care renunți la rău."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּתְפַּלֵּל אֶל־יְהוָה וַיֹּאמַר אָנָּה יְהוָה הֲלוֹא־זֶה דְבָרִי עַד־הֱיוֹתִי עַל־אַדְמָתִי עַל־כֵּן קִדַּמְתִּי לִבְרֹחַ תַּרְשִׁישָׁה כִּי יָדַעְתִּי כִּי אַתָּה אֵל־חַנּוּן וְרַחוּם אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד וְנִחָם עַל־הָרָעָה׃",
+       "translation": "S-a rugat DOMNULUI și a spus: „Te rog, DOAMNE, nu este tocmai aceasta pricina mea când eram încă în țara mea? De aceea m-am grăbit să fug la Tarșiș, căci am știut că [Tu] ești un Dumnezeu binevoitor și milos, încet la mânie, plin de bunătate, și care renunți la rău. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ προσηύξατο πρὸς Κύριον καὶ εἶπεν· Ὦ Κύριε, οὐχ οὗτοι οἱ λόγοι μου ἔτι ὄντος μου ἐν τῇ γῇ μου; διὰ τοῦτο προέφθασα τοῦ φυγεῖν εἰς Θαρσίς, διότι ἔγνων ὅτι σὺ ἐλεήμων καὶ οἰκτίρμων, μακρόθυμος καὶ πολυέλεος καὶ μετανοῶν ἐπὶ ταῖς κακίαις.",
+       "greek": true,
+       "translation": "și s-a rugat Domnului și a spus: O, Doamne, nu sunt acestea cuvintele mele, pe când eram încă în țara mea? De aceea m-am grăbit să fug la Tarsis, pentru că am cunoscut că Tu ești milostiv și îndurat, îndelung-răbdător și mult-milos, și Te pocăiești de rele.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 34:6,7",
+      "Osea 11:8,9",
+      "Mica 7:18"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Căci am știut că Tu ești milostiv” — de la început am știut că Tu ești un Dumnezeu bun, îndurător, care primește pe cei ce se pocăiesc și Se îndură de rău — și de aceea mi-a fost grea această profeție, căci îmi era pe plac ca ei să nu se întoarcă și să piară în păcatul lor, ca să nu fie o unealtă de pedeapsă [adusă de alte neamuri] peste Israel."
+      }
+     ]
     },
     {
      "v": "4:3",
      "t": "Așa că acum, DOAMNE, ia-mi, Te rog, viața, căci îmi este mai bine să mor decât să trăiesc.”",
      "heb": "וְעַתָּה יְהוָה קַח־נָא אֶת־נַפְשִׁי מִמֶּנִּי כִּי טוֹב מוֹתִי מֵחַיָּי׃",
-     "translit": "Veata ADONAI kah-na et-nafși mimeni ki tov moti mehaiái."
+     "translit": "Veata ADONAI kah-na et-nafși mimeni ki tov moti mehaiái.",
+     "tokens": [
+      {
+       "t": "Așa că acum, DOAMNE, ia-mi, Te rog, viața, căci îmi este mai bine să mor decât să trăiesc.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַתָּה יְהוָה קַח־נָא אֶת־נַפְשִׁי מִמֶּנִּי כִּי טוֹב מוֹתִי מֵחַיָּי׃",
+       "translation": "Așa că acum, DOAMNE, ia-mi, Te rog, viața, căci îmi este mai bine să mor decât să trăiesc.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ νῦν, δέσποτα Κύριε, λάβε τὴν ψυχήν μου ἀπ᾿ ἐμοῦ, ὅτι καλὸν τὸ ἀποθανεῖν με μᾶλλον, ἢ ζῆν με.",
+       "greek": true,
+       "translation": "și acum, Stăpâne Doamne, ia sufletul meu de la mine, căci mai bine e să mor decât să trăiesc.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 11:15",
+      "1 Împărați 19:4",
+      "Eclesiastul 7:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:4",
      "t": "Și DOMNUL a spus: „Ești chiar atât de mâhnit?”",
      "heb": "וַיֹּאמֶר יְהוָה הַהֵיטֵב חָרָה לָךְ׃",
-     "translit": "Vaiomer ADONAI haheitev hara lah."
+     "translit": "Vaiomer ADONAI haheitev hara lah.",
+     "tokens": [
+      {
+       "t": "Și DOMNUL a spus: „Ești chiar atât de mâhnit?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוָה הַהֵיטֵב חָרָה לָךְ׃",
+       "translation": "Și DOMNUL a spus: „Ești chiar atât de mâhnit?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Κύριος πρὸς Ἰωνᾶν· εἰ σφόδρα λελύπησαι σύ;",
+       "greek": true,
+       "translation": "și a spus Domnul către Iona: ești tu foarte întristat?",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 20:11,12",
+      "Mica 6:3",
+      "Iacov 1:19,20"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:5",
      "t": "Iona a ieșit din oraș și s-a așezat la răsărit de oraș; și-a făcut o colibă și a stat la umbra ei, așteptând să vadă ce se va întâmpla în oraș.",
      "heb": "וַיֵּצֵא יוֹנָה מִן־הָעִיר וַיֵּשֶׁב מִקֶּדֶם לָעִיר וַיַּעַשׂ לוֹ שָׁם סֻכָּה וַיֵּשֶׁב תַּחְתֶּיהָ בַּצֵּל עַד אֲשֶׁר יִרְאֶה מַה־יִּהְיֶה בָּעִיר׃",
-     "translit": "Vaiețe Iona min-hair vaieșev mikedem lair vaias lo șam suka vaieșev tahteha batzel ad așer ire ma-ihie bair."
+     "translit": "Vaiețe Iona min-hair vaieșev mikedem lair vaias lo șam suka vaieșev tahteha batzel ad așer ire ma-ihie bair.",
+     "tokens": [
+      {
+       "t": "Iona a ieșit din oraș și s-a așezat la răsărit de oraș; și-a făcut o colibă și a stat la umbra ei, așteptând să vadă ce se va întâmpla în oraș."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֵּצֵא יוֹנָה מִן־הָעִיר וַיֵּשֶׁב מִקֶּדֶם לָעִיר וַיַּעַשׂ לוֹ שָׁם סֻכָּה וַיֵּשֶׁב תַּחְתֶּיהָ בַּצֵּל עַד אֲשֶׁר יִרְאֶה מַה־יִּהְיֶה בָּעִיר׃",
+       "translation": "Iona a ieșit din oraș și s-a așezat la răsărit de oraș; și-a făcut o colibă și a stat la umbra ei, așteptând să vadă ce se va întâmpla în oraș. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐξῆλθεν Ἰωνᾶς ἐκ τῆς πόλεως καὶ ἐκάθισεν ἀπέναντι τῆς πόλεως· καὶ ἐποίησεν ἑαυτῷ ἐκεῖ σκηνὴν καὶ ἐκάθητο ὑποκάτω αὐτῆς, ἕως οὗ ἀπίδῃ τί ἔσται τῇ πόλει.",
+       "greek": true,
+       "translation": "și a ieșit Iona din cetate și a șezut în fața cetății; și și-a făcut sieși acolo un adăpost și ședea sub el, până ce va vedea ce va fi cu cetatea.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 19:27,28",
+      "Ieremia 17:15,16"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:6",
      "t": "Atunci DOMNUL Dumnezeu a trimis un vrej care s-a ridicat deasupra lui Iona și a făcut umbră deasupra capului lui, ca să-l scape de neplăcere, și Iona s-a bucurat mult de vrejului acesta.",
      "heb": "וַיְמַן יְהוָה־אֱלֹהִים קִיקָיוֹן וַיַּעַל מֵעַל לְיוֹנָה לִהְיוֹת צֵל עַל־רֹאשׁוֹ לְהַצִּיל לוֹ מֵרָעָתוֹ וַיִּשְׂמַח יוֹנָה עַל־הַקִּיקָיוֹן שִׂמְחָה גְדוֹלָה׃",
-     "translit": "Vaiman ADONAI-Elohim kikaion vaiaal meal le'Iona lihiot tzel al-roșo lehatzil lo meraato vaismah Iona al-hakikaion simha ghedola."
+     "translit": "Vaiman ADONAI-Elohim kikaion vaiaal meal le'Iona lihiot tzel al-roșo lehatzil lo meraato vaismah Iona al-hakikaion simha ghedola.",
+     "tokens": [
+      {
+       "t": "Atunci DOMNUL Dumnezeu a trimis un "
+      },
+      {
+       "t": "vrej",
+       "w": "vrej",
+       "heb": "קִיקָיוֹן",
+       "translit": "kikaion",
+       "strong": "H7021",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "vrej, plantă cu foi mari și umbrite (kikaion).",
+       "dict_ro": "Radak descrie planta pe baza unei tradiții primite de la înțelepți: crește rapid, cu ramuri late, dă umbră bună, și din sămânța ei se face untdelemn — numită în arabă „al-kharwa”, folosită de cei bolnavi de răceală; un alt nume citat e „tzlulliva”, un arbust care crește des pe lângă pâraie și pe la porțile prăvăliilor, unde e ridicat special pentru umbra pe care o oferă."
+      },
+      {
+       "t": " care s-a ridicat deasupra lui Iona și a făcut umbră deasupra capului lui, ca să-l scape de neplăcere, și Iona s-a bucurat mult de vrejului acesta."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְמַן יְהוָה־אֱלֹהִים קִיקָיוֹן וַיַּעַל מֵעַל לְיוֹנָה לִהְיוֹת צֵל עַל־רֹאשׁוֹ לְהַצִּיל לוֹ מֵרָעָתוֹ וַיִּשְׂמַח יוֹנָה עַל־הַקִּיקָיוֹן שִׂמְחָה גְדוֹלָה׃",
+       "translation": "Atunci DOMNUL Dumnezeu a trimis un vrej care s-a ridicat deasupra lui Iona și a făcut umbră deasupra capului lui, ca să-l scape de neplăcere, și Iona s-a bucurat mult de vrejului acesta. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ προσέταξε Κύριος ὁ Θεὸς κολοκύνθῃ, καὶ ἀνέβη ὑπὲρ κεφαλῆς τοῦ Ἰωνᾶ τοῦ εἶναι σκιὰν ὑπεράνω τῆς κεφαλῆς αὐτοῦ τοῦ σκιάζειν αὐτῷ ἀπὸ τῶν κακῶν αὐτοῦ. καὶ ἐχάρη Ἰωνᾶς ἐπὶ τῇ κολοκύνθῃ χαρὰν μεγάλην.",
+       "greek": true,
+       "translation": "și a poruncit Domnul Dumnezeu unui dovleac, și s-a suit peste capul lui Iona, ca să fie umbră peste capul lui, să-l umbrească de relele lui. Și s-a bucurat Iona de dovleac cu bucurie mare.",
+       "note": "Divergență de specie botanică, celebră în istoria traducerilor: Septuaginta are „κολοκύνθη” (dovleac/curcubetă) unde Textul Masoretic are „kikaion” (o plantă specifică, probabil ricinul) — aceasta e exact divergența care, secole mai târziu, a provocat disputa dintre Ieronim (care a tradus „iederă”) și Augustin, legată de traducerea latină a acestui verset."
+      }
+     ],
+     "refs": [
+      "Iov 1:21",
+      "Psalmul 102:10",
+      "Psalmul 103:10-14"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Kikaion” — e un ierb ale cărui ramuri cresc lungi și înalte și face umbră; s-a spus în Mișna „nu [se aprinde] cu untdelemn de kik”, și în Talmud se întreabă „ce este kik?”: Reish Lakiș a spus „kikaionul lui Iona”; Raba bar bar Hana a spus „eu însumi am văzut kikaionul lui Iona, și se aseamănă cu ricinul — crește pe lângă malurile apelor, și la porțile prăvăliilor îl ridică pentru umbră, și din semințele lui se face untdelemn.” Rabi Shmuel ben Hofni l-a tâlcuit drept planta numită în arabă „al-kharwa”, și „tzlulliva” — am găsit în răspunsurile gheonimilor — este un arbore sterp, obișnuit la noi în multe locuri, care face semințe din care se face untdelemn, bun pentru cei răciți."
+      }
+     ]
     },
     {
      "v": "4:7",
      "t": "Apoi DOMNUL a trimis un vierme, în zorii zilei următoare, care a atacat vrejului și acesta s-a uscat.",
      "heb": "וַיְמַן הָאֱלֹהִים תּוֹלַעַת בַּעֲלוֹת הַשַּׁחַר לַמָּחֳרָת וַתַּךְ אֶת־הַקִּיקָיוֹן וַיִּיבָשׁ׃",
-     "translit": "Vaiman haElohim tolaat baalot hașahar lamaharat vatah et-hakikaion vaiivaș."
+     "translit": "Vaiman haElohim tolaat baalot hașahar lamaharat vatah et-hakikaion vaiivaș.",
+     "tokens": [
+      {
+       "t": "Apoi DOMNUL a trimis un vierme, în zorii zilei următoare, care a atacat vrejului și acesta s-a uscat."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְמַן הָאֱלֹהִים תּוֹלַעַת בַּעֲלוֹת הַשַּׁחַר לַמָּחֳרָת וַתַּךְ אֶת־הַקִּיקָיוֹן וַיִּיבָשׁ׃",
+       "translation": "Apoi DOMNUL a trimis un vierme, în zorii zilei următoare, care a atacat vrejului și acesta s-a uscat. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ προσέταξεν ὁ Θεὸς σκώληκι ἑωθινῇ τῇ ἐπαύριον, καὶ ἐπάταξε τὴν κολοκύνθαν, καὶ ἀπεξηράνθη.",
+       "greek": true,
+       "translation": "și a poruncit Dumnezeu unui vierme, în zori a doua zi, și a lovit dovleacul, și s-a uscat.",
+       "note": "Aceeași divergență de specie, consecventă cu versetul precedent."
+      }
+     ],
+     "refs": [
+      "Psalmul 90:5,6",
+      "Isaia 40:6-8",
+      "Ioel 1:12"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:8",
      "t": "Și a fost, când a răsărit soarele, că Dumnezeu a trimis un vânt înăbușitor de la răsărit. Soarele l-a bătut pe Iona în creștet și l-a sleit de puteri și el și-a dorit moartea, spunând: „Mai bine să mor decât să trăiesc!”",
      "heb": "וַיְהִי כִּזְרֹחַ הַשֶּׁמֶשׁ וַיְמַן אֱלֹהִים רוּחַ קָדִים חֲרִישִׁית וַתַּךְ הַשֶּׁמֶשׁ עַל־רֹאשׁ יוֹנָה וַיִּתְעַלָּף וַיִּשְׁאַל אֶת־נַפְשׁוֹ לָמוּת וַיֹּאמֶר טוֹב מוֹתִי מֵחַיָּי׃",
-     "translit": "Vaihi kizroah hașemeș vaiman Elohim ruah kadim harișit vatah hașemeș al-roș Iona vaitalaf vaișal et-nafșo lamut vaiomer tov moti mehaiái."
+     "translit": "Vaihi kizroah hașemeș vaiman Elohim ruah kadim harișit vatah hașemeș al-roș Iona vaitalaf vaișal et-nafșo lamut vaiomer tov moti mehaiái.",
+     "tokens": [
+      {
+       "t": "Și a fost, când a răsărit soarele, că Dumnezeu a trimis un vânt înăbușitor de la răsărit. Soarele l-a bătut pe Iona în creștet și l-a sleit de puteri și el și-a dorit moartea, spunând: „Mai bine să mor decât să trăiesc!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי כִּזְרֹחַ הַשֶּׁמֶשׁ וַיְמַן אֱלֹהִים רוּחַ קָדִים חֲרִישִׁית וַתַּךְ הַשֶּׁמֶשׁ עַל־רֹאשׁ יוֹנָה וַיִּתְעַלָּף וַיִּשְׁאַל אֶת־נַפְשׁוֹ לָמוּת וַיֹּאמֶר טוֹב מוֹתִי מֵחַיָּי׃",
+       "translation": "Și a fost, când a răsărit soarele, că Dumnezeu a trimis un vânt înăbușitor de la răsărit. Soarele l-a bătut pe Iona în creștet și l-a sleit de puteri și el și-a dorit moartea, spunând: „Mai bine să mor decât să trăiesc!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγένετο ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον καὶ προσέταξεν ὁ Θεὸς πνεύματι καύσωνι συγκαίοντι, καὶ ἐπάταξεν ὁ ἥλιος ἐπὶ τὴν κεφαλὴν τοῦ Ἰωνᾶ· καὶ ὠλιγοψύχησε καὶ ἐπελέγετο τὴν ψυχὴν αὐτοῦ καὶ εἶπε· καλόν μοι ἀποθανεῖν με ἢ ζῆν.",
+       "greek": true,
+       "translation": "și a fost, când a răsărit soarele, și a poruncit Dumnezeu unui duh de arșiță mistuitor, și a lovit soarele capul lui Iona; și a slăbit de suflet și își alegea moartea sufletului său și a spus: mai bine mi-e mie să mor decât să trăiesc.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 121:6",
+      "Cântarea cântărilor 1:6",
+      "Apocalipsa 7:16"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:9",
      "t": "Și Dumnezeu i-a spus lui Iona: „Oare faci bine că te mâhnești din pricina vrejului?” Și el a spus: „Sunt foarte mâhnit, [chiar] până la moarte!”",
      "heb": "וַיֹּאמֶר אֱלֹהִים אֶל־יוֹנָה הַהֵיטֵב חָרָה־לְךָ עַל־הַקִּיקָיוֹן וַיֹּאמֶר הֵיטֵב חָרָה־לִי עַד־מָוֶת׃",
-     "translit": "Vaiomer Elohim el-Iona haheitev hara-leha al-hakikaion vaiomer heitev hara-li ad-mavet."
+     "translit": "Vaiomer Elohim el-Iona haheitev hara-leha al-hakikaion vaiomer heitev hara-li ad-mavet.",
+     "tokens": [
+      {
+       "t": "Și Dumnezeu i-a spus lui Iona: „Oare faci bine că te mâhnești din pricina vrejului?” Și el a spus: „Sunt foarte mâhnit, [chiar] până la moarte!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֱלֹהִים אֶל־יוֹנָה הַהֵיטֵב חָרָה־לְךָ עַל־הַקִּיקָיוֹן וַיֹּאמֶר הֵיטֵב חָרָה־לִי עַד־מָוֶת׃",
+       "translation": "Și Dumnezeu i-a spus lui Iona: „Oare faci bine că te mâhnești din pricina vrejului?” Și el a spus: „Sunt foarte mâhnit, [chiar] până la moarte!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ὁ Θεὸς πρὸς Ἰωνᾶν· εἰ σφόδρα λελύπησαι σὺ ἐπὶ τῇ κολοκύνθῃ; καὶ εἶπε· σφόδρα λελύπημαι ἐγὼ ἕως θανάτου.",
+       "greek": true,
+       "translation": "și a spus Dumnezeu către Iona: ești tu foarte întristat pentru dovleac? și a spus: sunt foarte întristat, eu, până la moarte.",
+       "note": "Aceeași divergență de specie botanică."
+      }
+     ],
+     "refs": [
+      "Geneza 4:5-14",
+      "Iov 18:4",
+      "Iov 40:4,5"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:10",
      "t": "DOMNUL i-a spus: „Ție ți-a fost milă de vrejului pentru care nici nu ai trudit și nici nu l-ai făcut să crească, ci peste noapte a apărut și peste noapte a pierit.",
      "heb": "וַיֹּאמֶר יְהוָה אַתָּה חַסְתָּ עַל־הַקִּיקָיוֹן אֲשֶׁר לֹא־עָמַלְתָּ בּוֹ וְלֹא גִדַּלְתּוֹ שֶׁבִּן־לַיְלָה הָיָה וּבִן־לַיְלָה אָבָד׃",
-     "translit": "Vaiomer ADONAI ata hasta al-hakikaion așer lo-amalta bo velo gidaltu șebin-laila haia uvin-laila avad."
+     "translit": "Vaiomer ADONAI ata hasta al-hakikaion așer lo-amalta bo velo gidaltu șebin-laila haia uvin-laila avad.",
+     "tokens": [
+      {
+       "t": "DOMNUL i-a spus: „Ție ți-a fost milă de vrejului pentru care nici nu ai trudit și nici nu l-ai făcut să crească, ci peste noapte a apărut și peste noapte a pierit."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוָה אַתָּה חַסְתָּ עַל־הַקִּיקָיוֹן אֲשֶׁר לֹא־עָמַלְתָּ בּוֹ וְלֹא גִדַּלְתּוֹ שֶׁבִּן־לַיְלָה הָיָה וּבִן־לַיְלָה אָבָד׃",
+       "translation": "DOMNUL i-a spus: „Ție ți-a fost milă de vrejului pentru care nici nu ai trudit și nici nu l-ai făcut să crească, ci peste noapte a apărut și peste noapte a pierit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Κύριος· σὺ ἐφείσω ὑπὲρ τῆς κολοκύνθης, ὑπὲρ ἧς οὐκ ἐκακοπάθησας ἐπ᾿ αὐτὴν οὐδὲ ἐξέθρεψας αὐτήν, ἣ ἐγενήθη ὑπὸ νύκτα καὶ ὑπὸ νύκτα ἀπώλετο.",
+       "greek": true,
+       "translation": "și a spus Domnul: tu ai cruțat pentru dovleac, pentru care n-ai suferit osteneală, nici nu l-ai crescut, care s-a făcut într-o noapte și într-o noapte a pierit.",
+       "note": "Aceeași divergență de specie botanică."
+      }
+     ],
+     "refs": [
+      "1 Samuel 20:31",
+      "Geneza 17:12"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:11",
      "t": "Și Mie să nu Îmi fie milă de Ninive, orașul acela mare, în care sunt mai mult de o sută douăzeci de mii de oameni care nu știu dreapta de stânga, și de asemenea multe dobitoace?”",
      "heb": "וַאֲנִי לֹא אָחוּס עַל־נִינְוֵה הָעִיר הַגְּדוֹלָה אֲשֶׁר יֶשׁ־בָּהּ הַרְבֵּה מִשְׁתֵּים־עֶשְׂרֵה רִבּוֹ אָדָם אֲשֶׁר לֹא־יָדַע בֵּין־יְמִינוֹ לִשְׂמֹאלוֹ וּבְהֵמָה רַבָּה׃",
-     "translit": "Vaani lo ahus al-Ninve hair haggedola așer ieș-ba harbe mișteim-esre ribo adam așer lo-iada bein-iemino lismolo uvehema raba."
+     "translit": "Vaani lo ahus al-Ninve hair haggedola așer ieș-ba harbe mișteim-esre ribo adam așer lo-iada bein-iemino lismolo uvehema raba.",
+     "tokens": [
+      {
+       "t": "Și Mie să nu Îmi fie milă de Ninive, orașul acela mare, în care sunt mai mult de o sută douăzeci de mii de oameni care "
+      },
+      {
+       "t": "nu știu dreapta de stânga",
+       "w": "nu știu dreapta de stânga",
+       "heb": "בֵּין יְמִינוֹ לִשְׂמֹאלוֹ",
+       "translit": "bēn iemino lismolo",
+       "strong": "H8040",
+       "pos": "prepoziție + substantiv, feminin singular construct + sufix + substantiv, masculin singular construct + sufix",
+       "def_ro": "nu cunosc între dreapta lor și stânga lor (lo iada bein iemino lismolo).",
+       "dict_ro": "Rashi explică „mici” prin acest termen: sunt copiii din Ninive, prea mici pentru a avea răspundere morală — iar „vite multe” sunt, printr-o lectură mai acidă, chiar oamenii maturi ai cetății, numiți „vite” pentru că, în pofida vârstei, mintea lor rămâne la nivelul unui animal, necunoscând pe Cel care i-a creat; chiar și pentru aceștia, Domnul arată milă."
+      },
+      {
+       "t": ", și de asemenea multe dobitoace?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַאֲנִי לֹא אָחוּס עַל־נִינְוֵה הָעִיר הַגְּדוֹלָה אֲשֶׁר יֶשׁ־בָּהּ הַרְבֵּה מִשְׁתֵּים־עֶשְׂרֵה רִבּוֹ אָדָם אֲשֶׁר לֹא־יָדַע בֵּין־יְמִינוֹ לִשְׂמֹאלוֹ וּבְהֵמָה רַבָּה׃",
+       "translation": "Și Mie să nu Îmi fie milă de Ninive, orașul acela mare, în care sunt mai mult de o sută douăzeci de mii de oameni care nu știu dreapta de stânga, și de asemenea multe dobitoace?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐγὼ δὲ οὐ φείσομαι ὑπὲρ Νινευὴ τῆς πόλεως τῆς μεγάλης, ἐν ᾗ κατοικοῦσι πλείους ἢ δώδεκα μυριάδες ἀνθρώπων, οἵτινες οὐκ ἔγνωσαν δεξιὰν αὐτῶν ἢ ἀριστερὰν αὐτῶν, καὶ κτήνη πολλά",
+       "greek": true,
+       "translation": "iar eu nu voi cruța pentru Ninive, cetatea cea mare, în care locuiesc mai mult de douăsprezece miriade de oameni, care n-au cunoscut dreapta lor sau stânga lor, și vite multe.",
+       "note": "Corespondență numerică exactă cu Textul Masoretic: „douăsprezece miriade” (12×10.000=120.000) redă fidel „o sută douăzeci de mii”."
+      }
+     ],
+     "refs": [
+      "Isaia 1:18",
+      "Deuteronomul 1:39",
+      "Luca 15:28-32"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Care nu cunosc...” — cei mici [copiii]. „Și vite multe” — oameni maturi, dar cu mintea ca a unei vite, care nu știu cine i-a creat."
+      }
+     ]
     },
     {
      "v": "7:18",
      "t": "Cine-i ca Tine, Dumnezeule, care ierți greșeala și treci peste fărădelege pentru rămășița moștenirii Sale? El nu Și-a păstrat furia veșnic, căci dorește bunăvoință.",
      "heb": "מִי־אֵל כָּמוֹךָ נֹשֵׂא עָוֺן וְעֹבֵר עַל־פֶּשַׁע לִשְׁאֵרִית נַחֲלָתוֹ לֹא־הֶחֱזִיק לָעַד אַפּוֹ כִּי־חָפֵץ חֶסֶד הוּא׃",
-     "translit": "Mi-El kamoha nose avon veover al-peșa lișerit nahalato lo-hehezik laad apo ki-hafetz hesed hu."
+     "translit": "Mi-El kamoha nose avon veover al-peșa lișerit nahalato lo-hehezik laad apo ki-hafetz hesed hu.",
+     "tokens": [
+      {
+       "t": "Cine-i ca Tine",
+       "w": "Cine-i ca Tine",
+       "heb": "מִי אֵל כָּמוֹךָ",
+       "translit": "mi ēl kamoha",
+       "strong": "H3644",
+       "pos": "particulă interogativă + substantiv, masculin singular + prepoziție + sufix",
+       "def_ro": "cine [este] Dumnezeu ca Tine (mi El kamocha).",
+       "dict_ro": "Un ecou direct al numelui profetului însuși — „Mica” fiind o formă abreviată a întrebării „Mi-cha-El” („cine e ca Dumnezeu”) — făcând din acest verset final al cărții un joc de cuvinte intenționat cu propriul nume al profetului, legat totodată de rugăciunea lui Iona despre același atribut divin al îndurării."
+      },
+      {
+       "t": ", Dumnezeule, care ierți greșeala și treci peste fărădelege pentru rămășița moștenirii Sale? El nu Și-a păstrat furia veșnic, căci dorește bunăvoință."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי־אֵל כָּמוֹךָ נֹשֵׂא עָוֺן וְעֹבֵר עַל־פֶּשַׁע לִשְׁאֵרִית נַחֲלָתוֹ לֹא־הֶחֱזִיק לָעַד אַפּוֹ כִּי־חָפֵץ חֶסֶד הוּא׃",
+       "translation": "Cine-i ca Tine, Dumnezeule, care ierți greșeala și treci peste fărădelege pentru rămășița moștenirii Sale? El nu Și-a păstrat furia veșnic, căci dorește bunăvoință. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τίς Θεὸς ὥσπερ σύ; ἐξαίρων ἀνομίας καὶ ὑπερβαίνων ἀσεβείας τοῖς καταλοίποις τῆς κληρονομίας αὐτοῦ καὶ οὐ συνέσχεν εἰς μαρτύριον ὀργήν αὐτοῦ, ὅτι θελητὴς ἐλέους ἐστίν.",
+       "greek": true,
+       "translation": "cine [este] Dumnezeu ca Tine? Cel ce înlături fărădelegile și treci cu vederea nelegiuirile celor rămași din moștenirea Lui, și n-a ținut mânia Lui ca mărturie, căci voitor de milă este.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 15:11",
+      "Exodul 34:6,7",
+      "Mica 2:12"
+     ],
+     "commentaries": []
     },
     {
      "v": "7:19",
      "t": "El va fi milos cu noi iarăși, El va șterge păcatele noastre și va azvârli în adâncurile mării toate păcatele lor.",
      "heb": "יָשׁוּב יְרַחֲמֵנוּ יִכְבֹּשׁ עֲוֺנֹתֵינוּ וְתַשְׁלִיךְ בִּמְצֻלוֹת יָם כָּל־חַטֹּאותָם׃",
-     "translit": "Iașuv ierahamenu ihboș avonoteinu vetașlih bimtzulot iam kol-hatotam."
+     "translit": "Iașuv ierahamenu ihboș avonoteinu vetașlih bimtzulot iam kol-hatotam.",
+     "tokens": [
+      {
+       "t": "El va fi milos cu noi iarăși, El va șterge păcatele noastre și "
+      },
+      {
+       "t": "va azvârli în adâncurile mării",
+       "w": "va azvârli în adâncurile mării",
+       "heb": "וְתַשְׁלִיךְ בִּמְצֻלוֹת יָם",
+       "translit": "vetașlih bimțulot iam",
+       "strong": "H3220",
+       "pos": "verb, hifil imperfect + substantiv, feminin plural construct + substantiv, masculin singular",
+       "def_ro": "va azvârli în adâncurile mării (vetașlich bimtzulot iam).",
+       "dict_ro": "Metzudat David explică sensul figurat: nu se va mai aduce aminte să pedepsească pentru aceste păcate, ca și cum le-ar fi aruncat în fundul mării, de unde nu mai pot fi văzute — această imagine a stat la temelia obiceiului practicat în ziua de Roș Hașana, numit după chiar acest verset, de a privi către o apă curgătoare recitând cuvintele profetului."
+      },
+      {
+       "t": " toate păcatele lor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יָשׁוּב יְרַחֲמֵנוּ יִכְבֹּשׁ עֲוֺנֹתֵינוּ וְתַשְׁלִיךְ בִּמְצֻלוֹת יָם כָּל־חַטֹּאותָם׃",
+       "translation": "El va fi milos cu noi iarăși, El va șterge păcatele noastre și va azvârli în adâncurile mării toate păcatele lor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "αὐτὸς ἐπιστρέψει καὶ οἰκτειρήσει ἡμᾶς, καταδύσει τὰς ἀδικίας ἡμῶν καὶ ἀπορριφήσονται εἰς τὰ βάθη τῆς θαλάσσης, πάσας τὰς ἁμαρτίας ἡμῶν.",
+       "greek": true,
+       "translation": "El Se va întoarce și ne va milui, va cufunda nedreptățile noastre, și se vor lepăda în adâncurile mării toate păcatele noastre.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 103:12",
+      "Isaia 38:17",
+      "Daniel 9:24"
+     ],
+     "commentaries": []
     },
     {
      "v": "7:20",
      "t": "Dă adevăr lui Iacov, bunătate lui Avraham, precum ai jurat strămoșilor noștri, din zilele de odinioară.",
      "heb": "תִּתֵּן אֱמֶת לְיַעֲקֹב חֶסֶד לְאַבְרָהָם אֲשֶׁר־נִשְׁבַּעְתָּ לַאֲבֹתֵינוּ מִימֵי קֶדֶם׃",
-     "translit": "Titen emet le'Iaakov hesed le'Avraham așer-nișbata laavoteinu mimei kedem."
+     "translit": "Titen emet le'Iaakov hesed le'Avraham așer-nișbata laavoteinu mimei kedem.",
+     "tokens": [
+      {
+       "t": "Dă adevăr lui Iacov",
+       "w": "Dă adevăr lui Iacov",
+       "heb": "תִּתֵּן אֱמֶת לְיַעֲקֹב",
+       "translit": "titēn emet leiaakov",
+       "strong": "H3290",
+       "pos": "verb, qal imperfect + substantiv, feminin singular + nume propriu",
+       "def_ro": "dă/împlinește adevărul [promis] lui Iacov (titen emet leIaakov).",
+       "dict_ro": "Rashi explică dubla structură a versetului: „adevărul” cerut pentru Iacov este împlinirea exactă a făgăduinței de la Betel („nu te voi părăsi”), iar „bunătatea” cerută pentru Avraham este răsplata pentru porunca pe care acesta a lăsat-o fiilor lui, „să păzească calea Domnului, înfăptuind dreptate și judecată” — de aceea nu se spune simplu „bunătate”, ci „bunătatea adevărului”, pentru că adevărul care confirmă făgăduința lui Iacov este chiar plata cuvenită faptei bune a lui Avraham."
+      },
+      {
+       "t": ", bunătate lui Avraham, precum ai jurat strămoșilor noștri, din zilele de odinioară."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "תִּתֵּן אֱמֶת לְיַעֲקֹב חֶסֶד לְאַבְרָהָם אֲשֶׁר־נִשְׁבַּעְתָּ לַאֲבֹתֵינוּ מִימֵי קֶדֶם׃",
+       "translation": "Dă adevăr lui Iacov, bunătate lui Avraham, precum ai jurat strămoșilor noștri, din zilele de odinioară. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "δώσει εἰς ἀλήθειαν τῷ ᾿Ιακώβ, ἔλεον τῷ ῾Αβραάμ, καθότι ὤμοσας τοῖς πατράσιν ἡμῶν κατὰ τὰς ἡμέρας τὰς ἔμπροσθεν.",
+       "greek": true,
+       "translation": "va da spre adevăr lui Iacov, milă lui Avraam, precum ai jurat părinților noștri, din zilele cele de mai înainte.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 17:7,8",
+      "Geneza 22:16-18",
+      "Luca 1:72-74"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Dă adevăr lui Iacov” — tâlcuiește Ionatan: dă adevărul lui Iacov fiilor lui, precum ai jurat la Betel; „bunătate lui Avraham” — precum ai jurat lui, pentru legământul lui Isaac. „Bunătate lui Avraham” — plata bunătății lui Avraham, care a poruncit fiilor lui „să păzească calea Domnului, înfăptuind dreptate și judecată” — și de aceea nu se spune simplu „bunătate”, ci „bunătatea adevărului”, care va adeveri făgăduința lui Iacov, va fi plata cuvenită bunătății lui Avraham. „Precum ai jurat” — la jertfirea lui Isaac: «pe Mine Însumi am jurat, zice Domnul, pentru că ai făcut aceasta...»"
+      }
+     ]
     }
    ]
   },
