@@ -18745,229 +18745,1442 @@
      "v": "1:1",
      "t": "Era un bărbat în Ramataim-Țofim, de la muntele lui Efraim, pe numele său Elkana, fiul lui Ieroham, fiul lui Elihu, fiul lui Tohu, fiul lui Țuf, un efratit.",
      "heb": "וַיְהִי אִישׁ אֶחָד מִן־הָרָמָתַיִם צוֹפִים מֵהַר אֶפְרָיִם וּשְׁמוֹ אֶלְקָנָה בֶּן־יְרֹחָם בֶּן־אֱלִיהוּא בֶן־תֹּחוּ בֶן־צוּף אֶפְרָתִי׃",
-     "translit": "Vaihi iș ehad min-Haramataim Țofim mehar Efraim ușemo Elkana ben-Ieroham ben-Elihu ben-Tohu ben-Țuf efrati."
+     "translit": "Vaihi iș ehad min-Haramataim Țofim mehar Efraim ușemo Elkana ben-Ieroham ben-Elihu ben-Tohu ben-Țuf efrati.",
+     "tokens": [
+      {
+       "t": "Era un bărbat în "
+      },
+      {
+       "t": "Ramataim-Țofim",
+       "w": "Ramataim-Țofim",
+       "heb": "הָרָמָתַיִם צוֹפִים",
+       "translit": "haramataim țofim",
+       "strong": "H7436",
+       "pos": "nume propriu + nume propriu",
+       "def_ro": "Ramataim-Țofim, numele unei localități (haramataim tzofim).",
+       "dict_ro": "Rashi explică numele compus: erau două dealuri (Ramataim, „cele două înălțimi”) care se vedeau și se vegheau unul pe altul (de la „tzofim”, „cei care veghează/privesc”); Ionatan tălmăcește „tzofim” drept „dintre discipolii profeților”, legând numele locului de o tradiție profetică mai veche."
+      },
+      {
+       "t": ", de la muntele lui Efraim, pe numele său Elkana, fiul lui Ieroham, fiul lui Elihu, fiul lui Tohu, fiul lui Țuf, "
+      },
+      {
+       "t": "un efratit",
+       "w": "un efratit",
+       "heb": "אֶפְרָתִי",
+       "translit": "efrati",
+       "strong": "H673",
+       "pos": "nume de neam",
+       "def_ro": "un efratit, un om din Efrat/de pe muntele lui Efraim (efrati).",
+       "dict_ro": "Radak explică dubla posibilitate a termenului: ori desemnează pe cineva din tribul lui Efraim, ori un locuitor al ținutului numit „muntele lui Efraim” — iar Elkana, fiind levit din familia lui Korah, nu putea fi efratit după trib, ci doar după locul de trai. Un midrash citat de Rashi leagă termenul de „om important”, folosind o expresie aramaică pentru „palanchin”, semn de cinstire."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי אִישׁ אֶחָד מִן־הָרָמָתַיִם צוֹפִים מֵהַר אֶפְרָיִם וּשְׁמוֹ אֶלְקָנָה בֶּן־יְרֹחָם בֶּן־אֱלִיהוּא בֶן־תֹּחוּ בֶן־צוּף אֶפְרָתִי׃",
+       "translation": "Era un bărbat în Ramataim-Țofim, de la muntele lui Efraim, pe numele său Elkana, fiul lui Ieroham, fiul lui Elihu, fiul lui Tohu, fiul lui Țuf, un efratit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΑΝΘΡΩΠΟΣ ἦν ἐξ ᾿Αρμαθαὶμ Σιφά, ἐξ ὄρους ᾿Εφραίμ, καὶ ὄνομα αὐτῷ ῾Ελκανὰ υἱὸς ῾Ιερεμεὴλ υἱοῦ ᾿Ηλιοὺ υἱοῦ Θοκὲ ἐν Νασὶβ ᾿Εφραίμ.",
+       "greek": true,
+       "translation": "Era un om din Armataim-Sifa, de pe muntele lui Efraim, și numele lui [era] Elkana, fiul lui Ieremeel, fiul lui Iliu, fiul lui Thoke, din Nasiv al lui Efraim.",
+       "note": "Divergență reală de genealogie: Septuaginta are „Ieremeel” unde Textul Masoretic are „Ieroham”, și înlocuiește complet numele strămoșului „Țuf” (și titlul „efratit”) cu toponimul „Nasiv al lui Efraim” — o genealogie parțial diferită de cea ebraică."
+      }
+     ],
+     "refs": [
+      "1 Samuel 1:19",
+      "1 Cronici 6:25-27",
+      "1 Samuel 17:12"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și a fost un om” — totul se desfășoară în ordine [a transmiterii tradiției]: Moise a predat Tora lui Iosua, Iosua bătrânilor, judecător judecătorului, până a ajuns la Eli, și de la el la Samuel, cum s-a învățat (Avot 1:1): «și bătrânii, profeților». „Din Ramataim-Țofim” — erau două înălțimi care se vegheau și se vedeau una pe alta. Ionatan tălmăcește „țofim” drept „dintre discipolii profeților”. „Elkana” — era levit, din urmașii lui Aviasaf fiul lui Korah, cum se arată neamul lui în Cronici."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Au scris învățătorii noștri, de bună amintire, că erau două Ramot, care se vegheau una pe alta — și forma de dual a cuvântului confirmă acest lucru. „De la muntele lui Efraim” — era levit, dar locuia pe meleagurile lui Efraim; iar se poate ca, de aceea, povestea pilegeșului din Ghiva (de la finalul cărții Judecători) e pusă în continuarea acestei istorii — pentru că și acolo, și aici, e vorba de un levit stabilit la marginea muntelui Efraim, de unde a venit o mare pagubă pentru Israel [acolo] și, de aici, prin fiul lui Elkana, o mare binefacere."
+      }
+     ]
     },
     {
      "v": "1:2",
      "t": "Și el avea două soții, și numele uneia era Hana și numele celei de-a doua era Penina. Penina avea copii, dar Hana nu avea copii.",
      "heb": "וְלוֹ שְׁתֵּי נָשִׁים שֵׁם אַחַת חַנָּה וְשֵׁם הַשֵּׁנִית פְּנִנָּה וַיְהִי לִפְנִנָּה יְלָדִים וּלְחַנָּה אֵין יְלָדִים׃",
-     "translit": "Velo șetei nașim șem ahat Hana veșem hașenit Penina vaihi li'Fnina ieladim ule'Hana ein ieladim."
+     "translit": "Velo șetei nașim șem ahat Hana veșem hașenit Penina vaihi li'Fnina ieladim ule'Hana ein ieladim.",
+     "tokens": [
+      {
+       "t": "Și el avea două soții, și numele uneia era Hana și numele celei de-a doua era Penina. Penina avea copii, dar Hana nu avea copii."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְלוֹ שְׁתֵּי נָשִׁים שֵׁם אַחַת חַנָּה וְשֵׁם הַשֵּׁנִית פְּנִנָּה וַיְהִי לִפְנִנָּה יְלָדִים וּלְחַנָּה אֵין יְלָדִים׃",
+       "translation": "Și el avea două soții, și numele uneia era Hana și numele celei de-a doua era Penina. Penina avea copii, dar Hana nu avea copii. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τούτῳ δύο γυναῖκες· ὄνομα τῇ μιᾷ ῎Αννα,καὶ ὄνομα τῇ δευτέρᾳ Φεννάνα· καὶ ἦν τῇ Φεννάνᾳ παιδία, καὶ τῇ ῎Αννᾳ οὐκ ἦν παιδίον.",
+       "greek": true,
+       "translation": "și el avea două femei; numele uneia [era] Anna, și numele celei de-a doua Fenana; și Fenana avea copii, și Anna nu avea copil.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 29:23-29",
+      "Geneza 16:1,2"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:3",
      "t": "Acest om urca din orașul lui în fiecare an, pentru ca să se prosterneze și să aducă jertfe DOMNULUI Oștirilor, în Șilo. Acolo, cei doi fii ai lui Eli, Hofni și Pinhas, erau preoți ai DOMNULUI.",
      "heb": "וְעָלָה הָאִישׁ הַהוּא מֵעִירוֹ מִיָּמִים יָמִימָה לְהִשְׁתַּחֲוֺת וְלִזְבֹּחַ לַיהוָה צְבָאוֹת בְּשִׁלֹה וְשָׁם שְׁנֵי בְנֵי־עֵלִי חָפְנִי וּפִנְחָס כֹּהֲנִים לַיהוָה׃",
-     "translit": "Veala haiș hahu meiro miamim iamima lehiștahavot velizboah l'ADONAI Țevaot be'Șilo veșam șenei venei-Eli Hofni u'Finhas kohanim l'ADONAI."
+     "translit": "Veala haiș hahu meiro miamim iamima lehiștahavot velizboah l'ADONAI Țevaot be'Șilo veșam șenei venei-Eli Hofni u'Finhas kohanim l'ADONAI.",
+     "tokens": [
+      {
+       "t": "Acest om urca din orașul lui în fiecare an, pentru ca să se prosterneze și să aducă jertfe DOMNULUI Oștirilor, în Șilo. Acolo, cei doi fii ai lui Eli, Hofni și Pinhas, erau preoți ai DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעָלָה הָאִישׁ הַהוּא מֵעִירוֹ מִיָּמִים יָמִימָה לְהִשְׁתַּחֲוֺת וְלִזְבֹּחַ לַיהוָה צְבָאוֹת בְּשִׁלֹה וְשָׁם שְׁנֵי בְנֵי־עֵלִי חָפְנִי וּפִנְחָס כֹּהֲנִים לַיהוָה׃",
+       "translation": "Acest om urca din orașul lui în fiecare an, pentru ca să se prosterneze și să aducă jertfe DOMNULUI Oștirilor, în Șilo. Acolo, cei doi fii ai lui Eli, Hofni și Pinhas, erau preoți ai DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέβαινεν ὁ ἄνθρωπος ἐξ ἡμερῶν εἰς ἡμέρας ἐκ πόλεως αὐτοῦ ἐξ ᾿Αρμαθαὶμ προσκυνεῖν καὶ θύειν Κυρίῳ τῷ Θεῷ Σαβαὼθ εἰς Σηλώ· καὶ ἐκεῖ ῾Ηλὶ καὶ οἱ δύο υἱοὶ αὐτοῦ ᾿Οφνὶ καὶ Φινεὲς ἱερεῖς τοῦ Κυρίου.",
+       "greek": true,
+       "translation": "și omul se suia din zile în zile din cetatea lui, din Armataim, să se prosterneze și să jertfească Domnului Dumnezeu Savaot, la Silo; și acolo Eli și cei doi fii ai lui, Ofni și Finees, preoți ai Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 23:14",
+      "Deuteronomul 16:16",
+      "Iosua 18:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:4",
      "t": "Și [astfel] era: în ziua în care Elkana își aducea ofranda, el dădea câte o parte Peninei, soția sa, și tuturor fiilor și fiicelor.",
      "heb": "וַיְהִי הַיּוֹם וַיִּזְבַּח אֶלְקָנָה וְנָתַן לִפְנִנָּה אִשְׁתּוֹ וּלְכָל־בָּנֶיהָ וּבְנוֹתֶיהָ מָנוֹת׃",
-     "translit": "Vaihi haiom vaizbah Elkana venatan li'Fnina ișto ulehol-baneha uvenoteha manot."
+     "translit": "Vaihi haiom vaizbah Elkana venatan li'Fnina ișto ulehol-baneha uvenoteha manot.",
+     "tokens": [
+      {
+       "t": "Și [astfel] era: în ziua în care Elkana își aducea ofranda, el dădea câte o parte Peninei, soția sa, și tuturor fiilor și fiicelor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי הַיּוֹם וַיִּזְבַּח אֶלְקָנָה וְנָתַן לִפְנִנָּה אִשְׁתּוֹ וּלְכָל־בָּנֶיהָ וּבְנוֹתֶיהָ מָנוֹת׃",
+       "translation": "Și [astfel] era: în ziua în care Elkana își aducea ofranda, el dădea câte o parte Peninei, soția sa, și tuturor fiilor și fiicelor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγενήθη ἡμέρα καὶ ἔθυσεν ῾Ελκανὰ καὶ ἔδωκε τῇ Φεννάνᾳ, γυναικὶ αὐτοῦ, καὶ τοῖς υἱοῖς αὐτῆς μερίδας·",
+       "greek": true,
+       "translation": "și a fost o zi, și Elkana a jertfit, și a dat Fenanei, soției lui, și fiilor ei părți;",
+       "note": "Mică omisiune: Septuaginta nu menționează „fiicele” Peninei, păstrând doar „fiii”, unde Textul Masoretic are „tuturor fiilor și fiicelor”."
+      }
+     ],
+     "refs": [
+      "Leviticul 3:4",
+      "Deuteronomul 12:17"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:5",
      "t": "Dar Hanei îi dădea o parte mai fățoașă, căci o iubea pe Hana, deși DOMNUL îi închisese pântecul.",
      "heb": "וּלְחַנָּה יִתֵּן מָנָה אַחַת אַפָּיִם כִּי אֶת־חַנָּה אָהֵב וַיהוָה סָגַר רַחְמָהּ׃",
-     "translit": "Ule'Hana iten mana ahat apaim ki et-Hana ahev v'ADONAI sagar rahma."
+     "translit": "Ule'Hana iten mana ahat apaim ki et-Hana ahev v'ADONAI sagar rahma.",
+     "tokens": [
+      {
+       "t": "Dar Hanei îi dădea "
+      },
+      {
+       "t": "o parte mai fățoașă",
+       "w": "o parte mai fățoașă",
+       "heb": "מָנָה אַחַת אַפָּיִם",
+       "translit": "mana ahat apaim",
+       "strong": "H639",
+       "pos": "substantiv, feminin singular + numeral + substantiv, masculin dual",
+       "def_ro": "o parte/porție aleasă, [data] cu bunăvoință (mana ahat apaim).",
+       "dict_ro": "Rashi tălmăcește expresia „apaim” ca „partea vrednică de primit cu o față binevoitoare” — un dar dat cu căldură vizibilă, nu doar o porție oarecare; Radak observă nuanța dublă a cuvântului „apaim”, care poate însemna și „mânie” (ca în „erekh apaim”), sugerând că partea unică dată Hanei, în absența copiilor cu care s-ar fi putut multiplica porția, era și un semn tăcut al tristeții lui Elkana pentru ea."
+      },
+      {
+       "t": ", căci o iubea pe Hana, deși DOMNUL îi închisese pântecul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּלְחַנָּה יִתֵּן מָנָה אַחַת אַפָּיִם כִּי אֶת־חַנָּה אָהֵב וַיהוָה סָגַר רַחְמָהּ׃",
+       "translation": "Dar Hanei îi dădea o parte mai fățoașă, căci o iubea pe Hana, deși DOMNUL îi închisese pântecul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τῇ ῎Αννᾳ ἔδωκε μερίδα μίαν, ὅτι οὐκ ἦν αὐτῇ παιδίον, πλὴν ὅτι τὴν ῎Ανναν ἠγάπα ῾Ελκανὰ ὑπὲρ ταύτην. καὶ Κύριος ἀπέκλεισε τὰ περὶ τὴν μήτραν αὐτῆς,",
+       "greek": true,
+       "translation": "și Annei i-a dat o parte, pentru că nu avea copil, decât [doar] că pe Anna o iubea Elkana mai mult decât pe aceasta. Și Domnul închisese cele din jurul pântecelui ei,",
+       "note": "Divergență de nuanță: Septuaginta spune simplu „o parte”, pierzând calificativul ebraic special „mana ahat apaim” (o parte aleasă, dată cu bunăvoință vizibilă) care arată favoarea deosebită a lui Elkana față de Hana."
+      }
+     ],
+     "refs": [
+      "Geneza 29:30,31",
+      "Geneza 20:18"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:6",
      "t": "Dar rivala sa o necăjea, iarăși și iarăși, ca să o supere, căci DOMNUL îi închisese pântecul.",
      "heb": "וְכִעֲסַתָּהּ צָרָתָהּ גַּם־כַּעַס בַּעֲבוּר הַרְּעִמָהּ כִּי־סָגַר יְהוָה בְּעַד רַחְמָהּ׃",
-     "translit": "Vehiasata tzarața gam-kaas baavur hareima ki-sagar ADONAI bead rahma."
+     "translit": "Vehiasata tzarața gam-kaas baavur hareima ki-sagar ADONAI bead rahma.",
+     "tokens": [
+      {
+       "t": "Dar "
+      },
+      {
+       "t": "rivala sa",
+       "w": "rivala sa",
+       "heb": "צָרָתָהּ",
+       "translit": "țaratah",
+       "strong": "H6869",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "rivala ei [cealaltă soție] (tzaratah).",
+       "dict_ro": "Radak explică termenul: orice două soții ale aceluiași bărbat se numesc „tzarot” una pentru alta, de la rădăcina „tzar” (vrăjmaș/strâmtorare), pentru că de obicei se urăsc reciproc; Rashi notează, pe baza unui midrash, exact felul necăjirii: Penina o întreba batjocoritor pe Hana dacă a cumpărat astăzi o eșarfă pentru fiul ei cel mare sau o cămașă pentru cel mic, rănind-o cu amănunte despre copii pe care Hana nu-i avea."
+      },
+      {
+       "t": " o necăjea, iarăși și iarăși, ca să o supere, căci DOMNUL îi închisese pântecul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְכִעֲסַתָּהּ צָרָתָהּ גַּם־כַּעַס בַּעֲבוּר הַרְּעִמָהּ כִּי־סָגַר יְהוָה בְּעַד רַחְמָהּ׃",
+       "translation": "Dar rivala sa o necăjea, iarăși și iarăși, ca să o supere, căci DOMNUL îi închisese pântecul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι οὐκ ἔδωκεν αὐτῇ Κύριος παιδίον κατὰ τὴν θλῖψιν αὐτῆς καὶ κατὰ τὴν ἀθυμίαντῆς θλίψεως αὐτῆς, καὶ ἠθύμει διὰ τοῦτο, ὅτι συνέκλεισε Κύριος τὰ περὶ τὴν μήτραν αὐτῆς τοῦ μὴ δοῦναι αὐτῇ παιδίον.",
+       "greek": true,
+       "translation": "căci nu-i dăduse Domnul copil, după necazul ei și după mâhnirea necazului ei, și se mâhnea din această pricină, căci Domnul închisese cele din jurul pântecelui ei, ca să nu-i dea copil.",
+       "note": "Divergență majoră de conținut: Textul Masoretic descrie aici acțiunea activă a rivalei (Penina), care o necăjea pe Hana „iarăși și iarăși, ca să o supere”; Septuaginta omite complet rolul rivalei în acest verset, concentrându-se doar pe starea interioară de mâhnire a Hanei legată direct de Dumnezeu."
+      }
+     ],
+     "refs": [
+      "Leviticul 18:18",
+      "Iov 6:14"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Rivala ei” — soția soțului ei, Penina. „De asemenea mânie” — mânie după mânie, continuu, de aceea se spune „și de asemenea mânie”: îi spunea: „ai cumpărat astăzi vreo eșarfă pentru fiul tău cel mare, sau o cămașă pentru cel mic?”. „Pentru a o supăra” — ca să se plângă; dar înțelepții noștri au spus: pentru a o face să se roage, iar intenția [Peninei] era, [în ciuda răutății aparente], pentru Ceruri."
+      }
+     ]
     },
     {
      "v": "1:7",
      "t": "Așa făcea el an de an și oricând ea urca la casa DOMNULUI, [rivala sa] o necăjea; și ea plângea și nu mânca.",
      "heb": "וְכֵן יַעֲשֶׂה שָׁנָה בְשָׁנָה מִדֵּי עֲלֹתָהּ בְּבֵית יְהוָה כֵּן תַּכְעִסֶנָּה וַתִּבְכֶּה וְלֹא תֹאכַל׃",
-     "translit": "Vehen iaase șana veșana midei alota beveit ADONAI ken tahisena vativke velo tohal."
+     "translit": "Vehen iaase șana veșana midei alota beveit ADONAI ken tahisena vativke velo tohal.",
+     "tokens": [
+      {
+       "t": "Așa făcea el an de an și oricând ea urca la casa DOMNULUI, [rivala sa] o necăjea; și ea plângea și nu mânca."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְכֵן יַעֲשֶׂה שָׁנָה בְשָׁנָה מִדֵּי עֲלֹתָהּ בְּבֵית יְהוָה כֵּן תַּכְעִסֶנָּה וַתִּבְכֶּה וְלֹא תֹאכַל׃",
+       "translation": "Așa făcea el an de an și oricând ea urca la casa DOMNULUI, [rivala sa] o necăjea; și ea plângea și nu mânca. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "οὕτως ἐποίει ἐνιαυτὸν κατ᾿ ἐνιαυτόν, ἐν τῷ ἀναβαίνειν αὐτὴν εἰς οἶκον Κυρίου· καὶ ἠθύμει καὶ ἔκλαιε καὶ οὐκ ἤσθιε.",
+       "greek": true,
+       "translation": "așa făcea an de an, când se suia ea la casa Domnului; și se mâhnea și plângea și nu mânca.",
+       "note": "Continuă aceeași omisiune de la 1:6 — Septuaginta nu menționează că rivala o necăjea „oricând ea urca la casa Domnului”, cum spune Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 2:19"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:8",
      "t": "Elkana, soțul ei, i-a spus: „Hana, de ce plângi și de ce nu mănânci? De ce ți-e inima mâhnită? Nu sunt eu oare mai bun pentru tine decât zece copii?”",
      "heb": "וַיֹּאמֶר לָהּ אֶלְקָנָה אִישָׁהּ חַנָּה לָמֶה תִבְכִּי וְלָמֶה לֹא תֹאכְלִי וְלָמֶה יֵרַע לְבָבֵךְ הֲלוֹא אָנֹכִי טוֹב לָךְ מֵעֲשָׂרָה בָּנִים׃",
-     "translit": "Vaiomer la Elkana ișa Hana lame tivki velame lo tohli velame iera levaveh halo anohi tov lah measara banim."
+     "translit": "Vaiomer la Elkana ișa Hana lame tivki velame lo tohli velame iera levaveh halo anohi tov lah measara banim.",
+     "tokens": [
+      {
+       "t": "Elkana, soțul ei, i-a spus: „Hana, de ce plângi și de ce nu mănânci? De ce ți-e inima mâhnită? Nu sunt eu oare mai bun pentru tine decât zece copii?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר לָהּ אֶלְקָנָה אִישָׁהּ חַנָּה לָמֶה תִבְכִּי וְלָמֶה לֹא תֹאכְלִי וְלָמֶה יֵרַע לְבָבֵךְ הֲלוֹא אָנֹכִי טוֹב לָךְ מֵעֲשָׂרָה בָּנִים׃",
+       "translation": "Elkana, soțul ei, i-a spus: „Hana, de ce plângi și de ce nu mănânci? De ce ți-e inima mâhnită? Nu sunt eu oare mai bun pentru tine decât zece copii?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν αὐτῇ ῾Ελκανὰ ὁ ἀνὴρ αὐτῆς· ῎Αννα. καὶ εἶπεν αὐτῷ· ἰδοὺ ἐγώ, κύριε. καί εἶπεν αὐτῇ· τί ἔστι σοι, ὅτι κλαίεις; καὶ ἱνατί οὐκ ἐσθίεις; καὶ ἱνατί τύπτει σε ἡ καρδία σου; οὐκ ἀγαθὸς ἐγώ σοι ὑπὲρ δέκα τέκνα;",
+       "greek": true,
+       "translation": "și i-a spus Elkana, soțul ei: Anna. Și i-a spus lui: iată-mă, doamne. Și i-a spus: ce ai, de plângi? și de ce nu mănânci? și de ce te bate inima? nu sunt eu bun pentru tine mai mult decât zece copii?",
+       "note": "Divergență prin adăugire: Septuaginta introduce un schimb de replici absent din Textul Masoretic — Elkana o strigă pe nume, „Anna”, iar ea răspunde „iată-mă, doamne” — înainte de întrebarea propriu-zisă."
+      }
+     ],
+     "refs": [
+      "Rut 4:15",
+      "Isaia 54:1,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:9",
      "t": "Hana s-a ridicat după ce a mâncat în Șilo și a băut. Și preotul Eli stătea pe scaun, lângă ușorul Sanctuarului DOMNULUI.",
      "heb": "וַתָּקָם חַנָּה אַחֲרֵי אָכְלָה בְשִׁלֹה וְאַחֲרֵי שָׁתֹה וְעֵלִי הַכֹּהֵן יֹשֵׁב עַל־הַכִּסֵּא עַל־מְזוּזַת הֵיכַל יְהוָה׃",
-     "translit": "Vatakom Hana aharei ohla ve'Șilo veaharei șato ve'Eli hakohen ioșev al-hakise al-mezuzat heikhal ADONAI."
+     "translit": "Vatakom Hana aharei ohla ve'Șilo veaharei șato ve'Eli hakohen ioșev al-hakise al-mezuzat heikhal ADONAI.",
+     "tokens": [
+      {
+       "t": "Hana s-a ridicat după ce a mâncat în Șilo și a băut. Și preotul Eli stătea pe scaun, lângă ușorul Sanctuarului DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתָּקָם חַנָּה אַחֲרֵי אָכְלָה בְשִׁלֹה וְאַחֲרֵי שָׁתֹה וְעֵלִי הַכֹּהֵן יֹשֵׁב עַל־הַכִּסֵּא עַל־מְזוּזַת הֵיכַל יְהוָה׃",
+       "translation": "Hana s-a ridicat după ce a mâncat în Șilo și a băut. Și preotul Eli stătea pe scaun, lângă ușorul Sanctuarului DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέστη ῎Αννα μετὰ τὸ φαγεῖν αὐτοὺς ἐν Σηλὼ καὶ κατέστη ἐνώπιον Κυρίου, καὶ ῾Ηλὶ ὁ ἱερεὺς ἐκάθητο ἐπὶ τοῦ δίφρου ἐπὶ τῶν φλιῶν ναοῦ Κυρίου.",
+       "greek": true,
+       "translation": "și s-a sculat Anna după ce au mâncat ei în Silo, și a stat înaintea Domnului; și preotul Eli ședea pe scaun, la ușorii templului Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 3:3",
+      "2 Samuel 7:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și preotul Eli ședea pe scaun” — în ziua aceea ședea pe un scaun mare, pentru că fusese numit [în acea zi] judecător (sau: mare preot) peste Israel."
+      }
+     ]
     },
     {
      "v": "1:10",
      "t": "Ea avea sufletul îndurerat, se ruga DOMNULUI și plângea necontenit.",
      "heb": "וְהִיא מָרַת נָפֶשׁ וַתִּתְפַּלֵּל עַל־יְהוָה וּבָכֹה תִבְכֶּה׃",
-     "translit": "Vehi marat nafeș vatitpalel al-ADONAI uvaho tivke."
+     "translit": "Vehi marat nafeș vatitpalel al-ADONAI uvaho tivke.",
+     "tokens": [
+      {
+       "t": "Ea avea sufletul îndurerat, se ruga DOMNULUI și plângea necontenit."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהִיא מָרַת נָפֶשׁ וַתִּתְפַּלֵּל עַל־יְהוָה וּבָכֹה תִבְכֶּה׃",
+       "translation": "Ea avea sufletul îndurerat, se ruga DOMNULUI și plângea necontenit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ αὐτὴ κατώδυνος ψυχῇ καὶ προσηύξατο πρὸς Κύριον καὶ κλαίουσα ἔκλαυσε",
+       "greek": true,
+       "translation": "și ea, cu sufletul îndurerat, s-a rugat Domnului și plângând a plâns",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Rut 1:20",
+      "Plângerile lui Ieremia 3:15"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:11",
      "t": "Și [Hana] a făcut un jurământ și a spus: „DOAMNE al Oștirilor, dacă într-adevăr vei lua aminte la suferința slujnicei Tale și Îți vei aduce aminte și nu vei uita de slujnica Ta și-i vei da slujnicei Tale un urmaș de parte bărbătească, îl voi da [să fie al] DOMNULUI în toate zilele vieții lui și briciul nu va trece peste capul lui.”",
      "heb": "וַתִּדֹּר נֶדֶר וַתֹּאמַר יְהוָה צְבָאוֹת אִם־רָאֹה תִרְאֶה בָּעֳנִי אֲמָתֶךָ וּזְכַרְתַּנִי וְלֹא־תִשְׁכַּח אֶת־אֲמָתֶךָ וְנָתַתָּה לַאֲמָתְךָ זֶרַע אֲנָשִׁים וּנְתַתִּיו לַיהוָה כָּל־יְמֵי חַיָּיו וּמוֹרָה לֹא־יַעֲלֶה עַל־רֹאשׁוֹ׃",
-     "translit": "Vatidor neder vatomar ADONAI Țevaot im-rao tire baoni amateha uzehartani velo-tișkah et-amateha venatata laamateha zera anașim unetativ l'ADONAI kol-iemei haiav umora lo-iaale al-roșo."
+     "translit": "Vatidor neder vatomar ADONAI Țevaot im-rao tire baoni amateha uzehartani velo-tișkah et-amateha venatata laamateha zera anașim unetativ l'ADONAI kol-iemei haiav umora lo-iaale al-roșo.",
+     "tokens": [
+      {
+       "t": "Și [Hana] a făcut un jurământ și a spus: „"
+      },
+      {
+       "t": "DOAMNE al Oștirilor",
+       "w": "DOAMNE al Oștirilor",
+       "heb": "יְהוָה צְבָאוֹת",
+       "translit": "Adonai țevaot",
+       "strong": "H6635",
+       "pos": "nume propriu + substantiv, masculin și feminin plural",
+       "def_ro": "DOAMNE al Oștirilor (Adonai Tzevaot).",
+       "dict_ro": "Rashi relatează o tradiție remarcabilă: până la Hana, nimeni nu-L mai numise pe Cel Sfânt prin acest nume. Ea ar fi spus: „Stăpân al lumii, ai creat în lumea Ta două feluri de oștiri — cele de sus, care nu rodesc, nu se înmulțesc și nu mor, și cele de jos, care rodesc, se înmulțesc și mor. Dacă sunt din cele de jos, voi rodi, mă voi înmulți și voi muri; dacă sunt din cele de sus, nu voi muri [fără rod].” O a doua tradiție, din tratatul Berahot, spune simplu: „din toate oștirile pe care le-ai creat în lumea Ta, Îți este greu să-mi dai un singur fiu?”"
+      },
+      {
+       "t": ", dacă într-adevăr vei lua aminte la suferința slujnicei Tale și Îți vei aduce aminte și nu vei uita de slujnica Ta și-i vei da slujnicei Tale un urmaș de parte bărbătească, îl voi da [să fie al] DOMNULUI în toate zilele vieții lui și briciul nu va trece peste capul lui.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתִּדֹּר נֶדֶר וַתֹּאמַר יְהוָה צְבָאוֹת אִם־רָאֹה תִרְאֶה בָּעֳנִי אֲמָתֶךָ וּזְכַרְתַּנִי וְלֹא־תִשְׁכַּח אֶת־אֲמָתֶךָ וְנָתַתָּה לַאֲמָתְךָ זֶרַע אֲנָשִׁים וּנְתַתִּיו לַיהוָה כָּל־יְמֵי חַיָּיו וּמוֹרָה לֹא־יַעֲלֶה עַל־רֹאשׁוֹ׃",
+       "translation": "Și [Hana] a făcut un jurământ și a spus: „DOAMNE al Oștirilor, dacă într-adevăr vei lua aminte la suferința slujnicei Tale și Îți vei aduce aminte și nu vei uita de slujnica Ta și-i vei da slujnicei Tale un urmaș de parte bărbătească, îl voi da [să fie al] DOMNULUI în toate zilele vieții lui și briciul nu va trece peste capul lui.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ηὔξατο εὐχὴν Κυρίῳ λέγουσα· ᾿Αδωναΐ Κύριε ᾿Ελωὲ Σαβαώθ, ἐὰν ἐπιβλέπων ἐπιβλέψῃς ἐπὶ τὴν ταπείνωσιν τῆς δούλης σου καὶ μνησθῇς μου καὶ δῷς τῇ δούλῃ σου σπέρμα ἀνδρῶν, καὶ δώσω αὐτὸν ἐνώπιόν σου δοτὸν ἕως ἡμέρας θανάτου αὐτοῦ, καὶ οἶνον καὶ μέθυσμα οὐ πίεται, καὶ σίδηρος οὐκ ἀναβήσεται ἐπὶ τὴν κεφαλὴν αὐτοῦ.",
+       "greek": true,
+       "translation": "și a făcut o rugăciune Domnului, zicând: Adonai, Doamne Eloe Savaot, dacă privind vei privi spre smerenia roabei tale și-ți vei aminti de mine și vei da roabei tale sămânță de bărbați, îl voi da înaintea Ta dăruit până în ziua morții lui, și vin și băutură tare nu va bea, și fier nu se va sui pe capul lui.",
+       "note": "Divergență reală de imagine: Septuaginta are „fier” (σίδηρος) nu se va sui pe capul lui, unde Textul Masoretic are „briciul” (mora) nu va trece peste capul lui — o schimbare a obiectului interzis nazireatului, de la instrumentul tăierii părului la metalul însuși."
+      }
+     ],
+     "refs": [
+      "Geneza 28:20",
+      "Numeri 30:3-8",
+      "Eclesiastul 5:4"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„DOAMNE al Oștirilor” — de ce i se dă aici, pentru prima dată, acest nume [Domnului]? Am găsit în agada lui Rabi Iose Galileanul: a spus înaintea Lui: «Stăpân al lumii, două oștiri ai creat în lumea Ta: cele de sus, care nu rodesc, nu se înmulțesc și nu mor; cele de jos, care rodesc, se înmulțesc și mor. Dacă sunt din cele de jos, voi rodi, mă voi înmulți și voi muri; dacă sunt din cele de sus, nu voi muri [fără rod].» Iar înțelepții noștri au tâlcuit, în tratatul Berahot, altceva: până atunci nimeni nu-L mai numise pe Cel Sfânt «Oștiri»; ea a spus înaintea Lui: «Stăpân al lumii, din toate oștirile pe care le-ai creat în lumea Ta, Îți e greu să-mi dai un singur fiu?»"
+      }
+     ]
     },
     {
      "v": "1:12",
      "t": "Și a fost, pe când ea continua să se roage înaintea DOMNULUI, că Eli s-a uitat la gura ei.",
      "heb": "וְהָיָה כִּי הִרְבְּתָה לְהִתְפַּלֵּל לִפְנֵי יְהוָה וְעֵלִי שֹׁמֵר אֶת־פִּיהָ׃",
-     "translit": "Vehaia ki hirbeta lehitpalel lifnei ADONAI ve'Eli șomer et-piha."
+     "translit": "Vehaia ki hirbeta lehitpalel lifnei ADONAI ve'Eli șomer et-piha.",
+     "tokens": [
+      {
+       "t": "Și a fost, pe când ea continua să se roage înaintea DOMNULUI, că Eli s-a uitat la gura ei."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיָה כִּי הִרְבְּתָה לְהִתְפַּלֵּל לִפְנֵי יְהוָה וְעֵלִי שֹׁמֵר אֶת־פִּיהָ׃",
+       "translation": "Și a fost, pe când ea continua să se roage înaintea DOMNULUI, că Eli s-a uitat la gura ei. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγενήθη ὅτε ἐπλήθυνε προσευχομένη ἐνώπιον Κυρίου, καὶ ῾Ηλὶ ὁ ἱερεὺς ἐφύλαξε τὸ στόμα αὐτῆς·",
+       "greek": true,
+       "translation": "și a fost, când s-a înmulțit rugându-se înaintea Domnului, preotul Eli i-a păzit gura;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Luca 11:8-10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Așteptând gura ei” — [Eli] privea, așteptând când va încheia [rugăciunea], cum tălmăcește Ionatan: „și Eli a îngăduit timp, până ce va încheia”."
+      }
+     ]
     },
     {
      "v": "1:13",
      "t": "Hana vorbea din inimă, doar buzele i se mișcau, dar niciun glas nu se auzea; și Eli a crezut că este beată.",
      "heb": "וְחַנָּה הִיא מְדַבֶּרֶת עַל־לִבָּהּ רַק שְׂפָתֶיהָ נָּעוֹת וְקוֹלָהּ לֹא יִשָּׁמֵעַ וַיַּחְשְׁבֶהָ עֵלִי לְשִׁכֹּרָה׃",
-     "translit": "Ve'Hana hi medaberet al-liba rak sefateha naot vekola lo ișamea vaiahșeveha Eli leșikora."
+     "translit": "Ve'Hana hi medaberet al-liba rak sefateha naot vekola lo ișamea vaiahșeveha Eli leșikora.",
+     "tokens": [
+      {
+       "t": "Hana vorbea din inimă, doar buzele i se mișcau, dar niciun glas nu se auzea; și Eli a crezut că este beată."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְחַנָּה הִיא מְדַבֶּרֶת עַל־לִבָּהּ רַק שְׂפָתֶיהָ נָּעוֹת וְקוֹלָהּ לֹא יִשָּׁמֵעַ וַיַּחְשְׁבֶהָ עֵלִי לְשִׁכֹּרָה׃",
+       "translation": "Hana vorbea din inimă, doar buzele i se mișcau, dar niciun glas nu se auzea; și Eli a crezut că este beată. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ αὕτη ἐλάλει ἐν τῇ καρδίᾳ αὐτῆς καὶ τὰ χείλη αὐτῆς ἐκινεῖτο, καὶ φωνὴ αὐτῆς οὐκ ἠκούετο· καὶ ἐλογίσατο αὐτὴ ῾Ηλὶ εἰς μεθύουσαν.",
+       "greek": true,
+       "translation": "și ea vorbea în inima ei și buzele ei se mișcau, și glasul ei nu se auzea; și Eli a socotit-o beată.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Zaharia 9:15"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și Eli a crezut-o beată” — pentru că oamenii nu erau deprinși să se roage în șoaptă [tăcută]."
+      }
+     ]
     },
     {
      "v": "1:14",
      "t": "Și Eli i-a spus: „Cât timp vei mai fi beată? Lasă-te de vin!”",
      "heb": "וַיֹּאמֶר אֵלֶיהָ עֵלִי עַד־מָתַי תִּשְׁתַּכָּרִין הָסִירִי אֶת־יֵינֵךְ מֵעָלָיִךְ׃",
-     "translit": "Vaiomer eleha Eli ad-matai tiștakarin hasiri et-ieneh mealaih."
+     "translit": "Vaiomer eleha Eli ad-matai tiștakarin hasiri et-ieneh mealaih.",
+     "tokens": [
+      {
+       "t": "Și Eli i-a spus: „Cât timp vei mai fi beată? Lasă-te de vin!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֵלֶיהָ עֵלִי עַד־מָתַי תִּשְׁתַּכָּרִין הָסִירִי אֶת־יֵינֵךְ מֵעָלָיִךְ׃",
+       "translation": "Și Eli i-a spus: „Cât timp vei mai fi beată? Lasă-te de vin!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν αὐτῇ τὸ παιδάριον ῾Ηλί· ἕως πότε μεθυσθήσῃ; περιελοῦ τὸν οἶνόν σου καὶ πορεύου ἐκ προσώπου Κυρίου.",
+       "greek": true,
+       "translation": "și i-a spus slujitorul lui Eli: până când vei fi beată? Dă-ți la o parte vinul tău și du-te dinaintea feței Domnului.",
+       "note": "Divergență reală de persoană: Septuaginta spune că vorbitorul este „slujitorul lui Eli” (τὸ παιδάριον Ηλί), nu Eli însuși, cum e limpede în Textul Masoretic, unde Eli în persoană i se adresează Hanei."
+      }
+     ],
+     "refs": [
+      "Iov 11:14",
+      "Proverbe 4:24"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:15",
      "t": "Hana a răspuns și a spus: „Nu, stăpâne, sunt o femeie cu duhul întristat. Nu am băut nici vin, nici băutură tare, ci mi-am vărsat sufletul înaintea DOMNULUI.",
      "heb": "וַתַּעַן חַנָּה וַתֹּאמֶר לֹא אֲדֹנִי אִשָּׁה קְשַׁת־רוּחַ אָנֹכִי וְיַיִן וְשֵׁכָר לֹא שָׁתִיתִי וָאֶשְׁפֹּךְ אֶת־נַפְשִׁי לִפְנֵי יְהוָה׃",
-     "translit": "Vataan Hana vatomar lo adoni ișa keșat-ruah anohi veiain veșehar lo șatiti vaeșpoh et-nafși lifnei ADONAI."
+     "translit": "Vataan Hana vatomar lo adoni ișa keșat-ruah anohi veiain veșehar lo șatiti vaeșpoh et-nafși lifnei ADONAI.",
+     "tokens": [
+      {
+       "t": "Hana a răspuns și a spus: „Nu, stăpâne, sunt o femeie cu duhul întristat. Nu am băut nici vin, nici băutură tare, ci mi-am vărsat sufletul înaintea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתַּעַן חַנָּה וַתֹּאמֶר לֹא אֲדֹנִי אִשָּׁה קְשַׁת־רוּחַ אָנֹכִי וְיַיִן וְשֵׁכָר לֹא שָׁתִיתִי וָאֶשְׁפֹּךְ אֶת־נַפְשִׁי לִפְנֵי יְהוָה׃",
+       "translation": "Hana a răspuns și a spus: „Nu, stăpâne, sunt o femeie cu duhul întristat. Nu am băut nici vin, nici băutură tare, ci mi-am vărsat sufletul înaintea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπεκρίθη ῎Αννα καὶ εἶπεν· οὐχί, κύριε· γυνή, ᾗ σκληρὰ ἡμέρα, ἐγώ εἰμι καὶ οἶνον καὶ μέθυσμα οὐ πέπωκα καὶ ἐκχέω τὴν ψυχήν μου ἐνώπιον Κυρίου·",
+       "greek": true,
+       "translation": "și a răspuns Anna și a spus: nu, doamne; o femeie cu zi grea sunt, și vin și băutură tare n-am băut, și îmi vărs sufletul înaintea Domnului;",
+       "note": "Mică divergență: Septuaginta are „o femeie cu zi grea” unde Textul Masoretic are „o femeie cu duhul întristat” — o nuanță diferită a suferinței descrise."
+      }
+     ],
+     "refs": [
+      "Proverbe 15:1",
+      "Psalmul 42:4"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:16",
      "t": "Să nu crezi că slujnica ta este o femeie nelegiuită, căci din multă durere și supărare am vorbit până acum.”",
      "heb": "אַל־תִּתֵּן אֶת־אֲמָתְךָ לִפְנֵי בַּת־בְּלִיָּעַל כִּי־מֵרֹב שִׂיחִי וְכַעְסִי דִּבַּרְתִּי עַד־הֵנָּה׃",
-     "translit": "Al-titen et-amateha lifnei bat-beliaal ki-merov sihi vehasí dibarti ad-hena."
+     "translit": "Al-titen et-amateha lifnei bat-beliaal ki-merov sihi vehasí dibarti ad-hena.",
+     "tokens": [
+      {
+       "t": "Să nu crezi că slujnica ta este o femeie nelegiuită, căci din multă durere și supărare am vorbit până acum.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אַל־תִּתֵּן אֶת־אֲמָתְךָ לִפְנֵי בַּת־בְּלִיָּעַל כִּי־מֵרֹב שִׂיחִי וְכַעְסִי דִּבַּרְתִּי עַד־הֵנָּה׃",
+       "translation": "Să nu crezi că slujnica ta este o femeie nelegiuită, căci din multă durere și supărare am vorbit până acum.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μὴ δῷς τὴν δούλην σου εἰς θυγατέρα λοιμήν, ὅτι ἐκ πλήθους ἀδολεσχίας μου ἐκτέτακα ἕως νῦν.",
+       "greek": true,
+       "translation": "nu da pe roaba ta ca fiică a molimei, căci din mulțimea îngrijorării mele am vorbit mult până acum.",
+       "note": "Divergență de imagine: Septuaginta are „fiică a molimei/pierzării” (θυγατέρα λοιμήν) unde Textul Masoretic are „femeie nelegiuită” (bat beliaal) — o traducere liberă, cu sens diferit."
+      }
+     ],
+     "refs": [
+      "1 Samuel 2:12",
+      "1 Samuel 25:25"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:17",
      "t": "Iar Eli a răspuns și a spus: „Mergi în pace! Dumnezeul lui Israel îți va îndeplini ruga pe care I-ai cerut-o.”",
      "heb": "וַיַּעַן עֵלִי וַיֹּאמֶר לְכִי לְשָׁלוֹם וֵאלֹהֵי יִשְׂרָאֵל יִתֵּן אֶת־שֵׁלָתֵךְ אֲשֶׁר שָׁאַלְתְּ מֵעִמּוֹ׃",
-     "translit": "Vaiaan Eli vaiomer lehi leșalom v'Elohei Israel iten et-șelateh așer șaalt meimo."
+     "translit": "Vaiaan Eli vaiomer lehi leșalom v'Elohei Israel iten et-șelateh așer șaalt meimo.",
+     "tokens": [
+      {
+       "t": "Iar Eli a răspuns și a spus: „Mergi în pace! Dumnezeul lui Israel îți va îndeplini ruga pe care I-ai cerut-o.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַן עֵלִי וַיֹּאמֶר לְכִי לְשָׁלוֹם וֵאלֹהֵי יִשְׂרָאֵל יִתֵּן אֶת־שֵׁלָתֵךְ אֲשֶׁר שָׁאַלְתְּ מֵעִמּוֹ׃",
+       "translation": "Iar Eli a răspuns și a spus: „Mergi în pace! Dumnezeul lui Israel îți va îndeplini ruga pe care I-ai cerut-o.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπεκρίθη ῾Ηλὶ καὶ εἶπεν αὐτῇ· πορεύου εἰς εἰρήνην· ὁ Θεὸς ᾿Ισραὴλ δώῃ σοι πᾶν αἴτημά σου, ὃ ᾐτήσω παρ᾿ αὐτοῦ.",
+       "greek": true,
+       "translation": "și a răspuns Eli și i-a spus: du-te în pace; Dumnezeul lui Israel să-ți dea toată cererea ta, pe care ai cerut-o de la El.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 25:35",
+      "2 Împărați 5:19"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Du-te în pace” — sau a spus aceasta pe calea unei rugăciuni obișnuite, sau i-a vorbit pe calea profeției, căci era profet; și de aceea, încurajată de cuvântul profetului, ea și-a liniștit inima și a mâncat."
+      }
+     ]
     },
     {
      "v": "1:18",
      "t": "Și ea a spus: „Fie ca slujnica ta să găsească bunăvoință în ochii tăi.” Și femeia a plecat pe drumul ei și a mâncat și fața nu-i mai era [mâhnită].",
      "heb": "וַתֹּאמֶר תִּמְצָא שִׁפְחָתְךָ חֵן בְּעֵינֶיךָ וַתֵּלֶךְ הָאִשָּׁה לְדַרְכָּהּ וַתֹּאכַל וּפָנֶיהָ לֹא־הָיוּ־לָהּ עוֹד׃",
-     "translit": "Vatomar timtza șifhateha hen beeinéha vateleh haișa ledarka vatohal ufaneha lo-haiu-la od."
+     "translit": "Vatomar timtza șifhateha hen beeinéha vateleh haișa ledarka vatohal ufaneha lo-haiu-la od.",
+     "tokens": [
+      {
+       "t": "Și ea a spus: „Fie ca slujnica ta să găsească bunăvoință în ochii tăi.” Și femeia a plecat pe drumul ei și a mâncat și fața nu-i mai era [mâhnită]."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֹּאמֶר תִּמְצָא שִׁפְחָתְךָ חֵן בְּעֵינֶיךָ וַתֵּלֶךְ הָאִשָּׁה לְדַרְכָּהּ וַתֹּאכַל וּפָנֶיהָ לֹא־הָיוּ־לָהּ עוֹד׃",
+       "translation": "Și ea a spus: „Fie ca slujnica ta să găsească bunăvoință în ochii tăi.” Și femeia a plecat pe drumul ei și a mâncat și fața nu-i mai era [mâhnită]. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν· εὗρεν ἡ δούλη σου χάριν ἐν ὀφθαλμοῖς σου. καὶ ἐπορεύθη ἡ γυνὴ εἰς τὴν ὁδὸν αὐτῆς καὶ εἰσῆλθεν εἰς τὸ κατάλυμα αὐτῆς καὶ ἔφαγε μετὰ τοῦ ἀνδρὸς αὐτῆς καὶ ἔπιε, καὶ τὸ πρόσωπον αὐτῆς οὐ συνέπεσεν ἔτι.",
+       "greek": true,
+       "translation": "și a spus: a găsit roaba ta har în ochii tăi. Și a plecat femeia pe drumul ei și a intrat în locuința ei și a mâncat cu soțul ei și a băut, și fața ei nu s-a mai posomorât.",
+       "note": "Divergență prin adăugire: Septuaginta adaugă „a mâncat cu soțul ei și a băut”, detalii absente din Textul Masoretic, care spune doar „a mâncat”."
+      }
+     ],
+     "refs": [
+      "Geneza 32:5",
+      "Rut 2:13"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:19",
      "t": "S-au sculat dis-de-dimineață și s-au prosternat în fața DOMNULUI, apoi s-au întors și au ajuns la casa lor, în Rama. Elkana a cunoscut-o pe soția sa Hana și DOMNUL Și-a amintit de ea.",
      "heb": "וַיַּשְׁכִּמוּ בַבֹּקֶר וַיִּשְׁתַּחֲווּ לִפְנֵי יְהוָה וַיָּשֻׁבוּ וַיָּבֹאוּ אֶל־בֵּיתָם הָרָמָתָה וַיֵּדַע אֶלְקָנָה אֶת־חַנָּה אִשְׁתּוֹ וַיִּזְכְּרֶהָ יְהוָה׃",
-     "translit": "Vaiaskimu vaboker vaiștahavu lifnei ADONAI vaișuvu vaiavou el-beitam ha'Ramata vaieda Elkana et-Hana ișto vaizkereha ADONAI."
+     "translit": "Vaiaskimu vaboker vaiștahavu lifnei ADONAI vaișuvu vaiavou el-beitam ha'Ramata vaieda Elkana et-Hana ișto vaizkereha ADONAI.",
+     "tokens": [
+      {
+       "t": "S-au sculat dis-de-dimineață și s-au prosternat în fața DOMNULUI, apoi s-au întors și au ajuns la casa lor, în Rama. Elkana a cunoscut-o pe soția sa Hana și DOMNUL Și-a amintit de ea."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּשְׁכִּמוּ בַבֹּקֶר וַיִּשְׁתַּחֲווּ לִפְנֵי יְהוָה וַיָּשֻׁבוּ וַיָּבֹאוּ אֶל־בֵּיתָם הָרָמָתָה וַיֵּדַע אֶלְקָנָה אֶת־חַנָּה אִשְׁתּוֹ וַיִּזְכְּרֶהָ יְהוָה׃",
+       "translation": "S-au sculat dis-de-dimineață și s-au prosternat în fața DOMNULUI, apoi s-au întors și au ajuns la casa lor, în Rama. Elkana a cunoscut-o pe soția sa Hana și DOMNUL Și-a amintit de ea. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὀρθρίζουσι τὸ πρωΐ καὶ προσκυνοῦσι τῷ Κυρίῳ καὶ πορεύονται τὴν ὁδὸν αὐτῶν. καὶ εἰσῆλθεν ῾Ελκανὰ εἰς τὸν οἶκον αὐτοῦ ᾿Αρμαθαὶμ καὶ ἔγνω τὴν ῎Ανναν γυναῖκα αὐτοῦ, καὶ ἐμνήσθη αὐτῆς Κύριος, καὶ συνέλαβε.",
+       "greek": true,
+       "translation": "și s-au sculat dimineață și s-au prosternat Domnului și au pornit pe drumul lor. Și a intrat Elkana în casa lui, în Armataim, și a cunoscut-o pe Anna, soția lui, și și-a adus aminte de ea Domnul, și a zămislit.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 9:26",
+      "Geneza 4:1",
+      "Geneza 30:22"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:20",
      "t": "Și după ceva vreme, Hana a zămislit și a născut un fiu și i-a pus numele Samuel, căci a spus: „De la DOMNUL l-am cerut.”",
      "heb": "וַיְהִי לִתְקֻפוֹת הַיָּמִים וַתַּהַר חַנָּה וַתֵּלֶד בֵּן וַתִּקְרָא אֶת־שְׁמוֹ שְׁמוּאֵל כִּי מֵיְהוָה שְׁאִלְתִּיו׃",
-     "translit": "Vaihi litkufot haiamim vatahar Hana vateled ben vatikra et-șemo Șemuel ki me'ADONAI șeiltiv."
+     "translit": "Vaihi litkufot haiamim vatahar Hana vateled ben vatikra et-șemo Șemuel ki me'ADONAI șeiltiv.",
+     "tokens": [
+      {
+       "t": "Și după ceva vreme, Hana a zămislit și a născut un fiu și i-a pus numele "
+      },
+      {
+       "t": "Samuel",
+       "w": "Samuel",
+       "heb": "שְׁמוּאֵל",
+       "translit": "șemuēl",
+       "strong": "H8050",
+       "pos": "nume propriu",
+       "def_ro": "Samuel, nume compus (Șemuel).",
+       "dict_ro": "Rashi explică numele ca o îmbinare dublă: pe de o parte conține „El” (Dumnezeu), pe de altă parte redă prin asonanță chiar motivul numirii — „căci de la El [mē'El] l-am cerut [șeiltiv]” — numele fiind el însuși o mărturie permanentă a împlinirii rugăciunii. Radak adaugă o a doua lectură: literele lui Șemuel conțin și pe „Șaul” și pe „mēēl”, ca și cum s-ar spune „cerut [șaul] de la Dumnezeu [mēēl]”."
+      },
+      {
+       "t": ", căci a spus: „De la DOMNUL l-am cerut.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי לִתְקֻפוֹת הַיָּמִים וַתַּהַר חַנָּה וַתֵּלֶד בֵּן וַתִּקְרָא אֶת־שְׁמוֹ שְׁמוּאֵל כִּי מֵיְהוָה שְׁאִלְתִּיו׃",
+       "translation": "Și după ceva vreme, Hana a zămislit și a născut un fiu și i-a pus numele Samuel, căci a spus: „De la DOMNUL l-am cerut.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγενήθη τῷ καιρῷ τῶν ἡμερῶν καὶ ἔτεκεν υἱόν· καὶ ἐκάλεσε τὸ ὄνομα αὐτοῦ Σαμουὴλ καὶ εἶπεν· ὅτι παρὰ Κυρίου Θεοῦ Σαβαὼθ ᾐτησάμην αὐτόν.",
+       "greek": true,
+       "translation": "și a fost la vremea zilelor, și a născut un fiu; și i-a pus numele Samuel și a spus: căci de la Domnul Dumnezeu Savaot l-am cerut pe el.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 29:32-35",
+      "Geneza 30:6-21"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Samuel” — pe seama lui „El” [Dumnezeu] și pe seama faptei e numit, căci «de la El l-am cerut [șeiltiv]»."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Numele e alcătuit cu acest sens din cuvintele «căci de la Domnul l-am cerut», pentru că în literele lui Șemuel se găsesc și «șaul» și «mēēl» [cerut de la Dumnezeu]."
+      }
+     ]
     },
     {
      "v": "1:21",
      "t": "Omul Elkana a urcat împreună cu toată familia lui ca să aducă ofrande DOMNULUI, ofranda anuală și jurământul lui.",
      "heb": "וַיַּעַל הָאִישׁ אֶלְקָנָה וְכָל־בֵּיתוֹ לִזְבֹּחַ לַיהוָה אֶת־זֶבַח הַיָּמִים וְאֶת־נִדְרוֹ׃",
-     "translit": "Vaiaal haiș Elkana vehol-beito lizboah l'ADONAI et-zevah haiamim veet-nidro."
+     "translit": "Vaiaal haiș Elkana vehol-beito lizboah l'ADONAI et-zevah haiamim veet-nidro.",
+     "tokens": [
+      {
+       "t": "Omul Elkana a urcat împreună cu toată familia lui ca să aducă ofrande DOMNULUI, ofranda anuală și jurământul lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַל הָאִישׁ אֶלְקָנָה וְכָל־בֵּיתוֹ לִזְבֹּחַ לַיהוָה אֶת־זֶבַח הַיָּמִים וְאֶת־נִדְרוֹ׃",
+       "translation": "Omul Elkana a urcat împreună cu toată familia lui ca să aducă ofrande DOMNULUI, ofranda anuală și jurământul lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἀνέβη ὁ ἄνθρωπος ῾Ελκανὰ καὶ πᾶς ὁ οἶκος αὐτοῦ θῦσαι ἐν Σηλὼμ τὴν θυσίαν τῶν ἡμερῶν καὶ τὰς εὐχὰς αὐτοῦ καὶ πάσας τὰς δεκάτας τῆς γῆς αὐτοῦ·",
+       "greek": true,
+       "translation": "Și s-a suit omul Elkana și toată casa lui, ca să jertfească în Silo jertfa anilor și jurămintele lui și toate zeciuielile pământului lui;",
+       "note": "Divergență prin adăugire: Septuaginta adaugă „toate zeciuielile pământului lui”, o mențiune complet absentă din Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 1:3",
+      "Geneza 18:19"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:22",
      "t": "Dar Hana nu a urcat, căci i-a spus soțului ei: „După ce băiețașul va fi înțărcat, îl voi aduce. Ne vom înfățișa înaintea DOMNULUI și el va rămâne acolo pentru totdeauna.”",
      "heb": "וְחַנָּה לֹא עָלָתָה כִּי־אָמְרָה לְאִישָׁהּ עַד יִגָּמֵל הַנַּעַר וַהֲבִאֹתִיו וְנִרְאָה אֶת־פְּנֵי יְהוָה וְיָשַׁב שָׁם עַד־עוֹלָם׃",
-     "translit": "Ve'Hana lo alata ki-amra leișa ad igamel hanaar vahaviotiv venira et-penei ADONAI veiașav șam ad-olam."
+     "translit": "Ve'Hana lo alata ki-amra leișa ad igamel hanaar vahaviotiv venira et-penei ADONAI veiașav șam ad-olam.",
+     "tokens": [
+      {
+       "t": "Dar Hana nu a urcat, căci i-a spus soțului ei: „După ce băiețașul va fi înțărcat, îl voi aduce. Ne vom înfățișa înaintea DOMNULUI și el va rămâne acolo "
+      },
+      {
+       "t": "pentru totdeauna",
+       "w": "pentru totdeauna",
+       "heb": "עוֹלָם",
+       "translit": "olam",
+       "strong": "H5769",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "pentru totdeauna/pe veci (ad olam).",
+       "dict_ro": "Rashi explică „olam” aici nu ca eternitate absolută, ci ca termenul specific al slujirii leviților, de cincizeci de ani (cf. Numeri 8:25) — iar socoteala exactă a vieții lui Samuel (cincizeci și doi de ani de slujire, din ziua rugăciunii Hanei până la moartea lui, cu patru luni înainte de moartea lui Saul) confirmă, cifră cu cifră, acest sens restrâns al cuvântului, nu o durată nesfârșită."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְחַנָּה לֹא עָלָתָה כִּי־אָמְרָה לְאִישָׁהּ עַד יִגָּמֵל הַנַּעַר וַהֲבִאֹתִיו וְנִרְאָה אֶת־פְּנֵי יְהוָה וְיָשַׁב שָׁם עַד־עוֹלָם׃",
+       "translation": "Dar Hana nu a urcat, căci i-a spus soțului ei: „După ce băiețașul va fi înțărcat, îl voi aduce. Ne vom înfățișa înaintea DOMNULUI și el va rămâne acolo pentru totdeauna.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ῎Αννα οὐκ ἀνέβη μετ᾿ αὐτοῦ, ὅτι εἶπε τῷ ἀνδρὶ αὐτῆς· ἕως τοῦ ἀναβῆναι τὸ παιδάριον, ἐὰν ἀπογαλακτίσω αὐτό, καὶ ὀφθήσεται τῷ προσώπῳ Κυρίου καὶ καθήσεται ἕως αἰῶνος ἐκεῖ.",
+       "greek": true,
+       "translation": "și Anna nu s-a suit cu el, căci i-a spus soțului ei: până ce se va sui copilul, de-l voi înțărca, și se va arăta înaintea feței Domnului și va ședea acolo pentru veac.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 16:16",
+      "1 Samuel 1:11,28"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și va ședea acolo pentru totdeauna” — „olamul” leviților e de cincizeci de ani, cum se spune «și de la vârsta de cincizeci de ani se va retrage din oastea slujirii» [Numeri 8:25]; și așa au fost zilele lui Samuel, cincizeci și două — căci Eli a judecat Israelul patruzeci de ani, și în ziua rugăciunii Hanei [Samuel] a fost numit judecător; scoate acel an pentru zămislirea lui Samuel, rămân treizeci și nouă; și Samuel a purtat de grijă lui Israel, după moartea lui Eli, treisprezece ani — căci în ziua morții lui Eli a fost luat chivotul și a stat în țara filistenilor șapte luni, de acolo a venit la Chiriat-Iearim, până ce David l-a suit, după ce a domnit șapte ani la Hebron peste Iuda și tot Israelul l-a făcut rege peste ei; și se scrie «și a fost, din ziua în care a șezut chivotul la Chiriat-Iearim, s-au înmulțit zilele, și au fost douăzeci de ani» — scoate din ele cei șapte ani în care David a domnit la Hebron, rezultă treisprezece ani și șapte luni de la luarea chivotului până la moartea lui Saul; iar Samuel a murit cu patru luni înainte de Saul."
+      }
+     ]
     },
     {
      "v": "1:23",
      "t": "Iar soțul ei, Elkana, i-a spus: „Fă ce crezi tu că este mai bine, rămâi [cu el acasă] până ce îl vei înțărca. Doar fie ca DOMNUL să Își împlinească vorba!” Și femeia a rămas și și-a îngrijit fiul până l-a înțărcat.",
      "heb": "וַיֹּאמֶר לָהּ אֶלְקָנָה אִישָׁהּ עֲשִׂי הַטּוֹב בְּעֵינַיִךְ שְׁבִי עַד־גָּמְלֵךְ אֹתוֹ אַךְ יָקֵם יְהוָה אֶת־דְּבָרוֹ וַתֵּשֶׁב הָאִשָּׁה וַתֵּינֶק אֶת־בְּנָהּ עַד־גָּמְלָהּ אֹתוֹ׃",
-     "translit": "Vaiomer la Elkana ișa asi hatov beeinaih șevi ad-gomleh oto ah iakem ADONAI et-devaro vateșev haișa vateinek et-bena ad-gomla oto."
+     "translit": "Vaiomer la Elkana ișa asi hatov beeinaih șevi ad-gomleh oto ah iakem ADONAI et-devaro vateșev haișa vateinek et-bena ad-gomla oto.",
+     "tokens": [
+      {
+       "t": "Iar soțul ei, Elkana, i-a spus: „Fă ce crezi tu că este mai bine, rămâi [cu el acasă] până ce îl vei înțărca. Doar fie ca DOMNUL să Își împlinească vorba!” Și femeia a rămas și și-a îngrijit fiul până l-a înțărcat."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר לָהּ אֶלְקָנָה אִישָׁהּ עֲשִׂי הַטּוֹב בְּעֵינַיִךְ שְׁבִי עַד־גָּמְלֵךְ אֹתוֹ אַךְ יָקֵם יְהוָה אֶת־דְּבָרוֹ וַתֵּשֶׁב הָאִשָּׁה וַתֵּינֶק אֶת־בְּנָהּ עַד־גָּמְלָהּ אֹתוֹ׃",
+       "translation": "Iar soțul ei, Elkana, i-a spus: „Fă ce crezi tu că este mai bine, rămâi [cu el acasă] până ce îl vei înțărca. Doar fie ca DOMNUL să Își împlinească vorba!” Și femeia a rămas și și-a îngrijit fiul până l-a înțărcat. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν αὐτῇ ῾Ελκανὰ ὁ ἀνὴρ αὐτῆς· ποίει τὸ ἀγαθὸν ἐν ὀφθαλμοῖς σου, κάθου ἕως ἂν ἀπογαλακτίσῃς αὐτό· ἀλλὰ στήσαι Κύριος τὸ ἐξελθὸν ἐκ τοῦ στόματός σου. καὶ ἐκάθισεν ἡ γυνὴ καὶ ἐθήλασε τὸν υἱὸν αὐτῆς, ἕως ἂν ἀπογαλακτίσῃ αὐτόν.",
+       "greek": true,
+       "translation": "și i-a spus Elkana, soțul ei: fă binele în ochii tăi, rămâi până îl vei înțărca; dar să întărească Domnul cuvântul care a ieșit din gura ta. Și a rămas femeia și a alăptat pe fiul ei, până l-a înțărcat.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 30:7-11",
+      "2 Samuel 7:25"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:24",
      "t": "A urcat [copilul] cu ea când l-a înțărcat, împreună cu trei tauri, o efa de făină și un ulcior de vin și l-a adus în Casa DOMNULUI, în Șilo, deși băiețașul era mic.",
      "heb": "וַתַּעֲלֵהוּ עִמָּהּ כַּאֲשֶׁר גְּמָלַתּוּ בְּפָרִים שְׁלֹשָׁה וְאֵיפָה אַחַת קֶמַח וְנֵבֶל יַיִן וַתְּבִאֵהוּ בֵית־יְהוָה שִׁלוֹ וְהַנַּעַר נָעַר׃",
-     "translit": "Vataalehu ima kaașer gemalatu befarim șeloșa veeifa ahat kemah venevel iain vateviehu veit-ADONAI Șilo vehanaar naar."
+     "translit": "Vataalehu ima kaașer gemalatu befarim șeloșa veeifa ahat kemah venevel iain vateviehu veit-ADONAI Șilo vehanaar naar.",
+     "tokens": [
+      {
+       "t": "A urcat [copilul] cu ea când l-a înțărcat, împreună cu trei tauri, o efa de făină și un ulcior de vin și l-a adus în Casa DOMNULUI, în Șilo, deși băiețașul era mic."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתַּעֲלֵהוּ עִמָּהּ כַּאֲשֶׁר גְּמָלַתּוּ בְּפָרִים שְׁלֹשָׁה וְאֵיפָה אַחַת קֶמַח וְנֵבֶל יַיִן וַתְּבִאֵהוּ בֵית־יְהוָה שִׁלוֹ וְהַנַּעַר נָעַר׃",
+       "translation": "A urcat [copilul] cu ea când l-a înțărcat, împreună cu trei tauri, o efa de făină și un ulcior de vin și l-a adus în Casa DOMNULUI, în Șilo, deși băiețașul era mic. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέβη μετ᾿ αὐτοῦ εἰς Σηλὼμ ἐν μόσχῳ τριετίζοντι καὶ ἄρτοις καὶ οἰφὶ σεμιδάλεως καὶ νέβελ οἴνου καὶ εἰσῆλθεν εἰς οἶκον Κυρίου ἐν Σηλώμ, καὶ τὸ παιδάριον μετ᾿ αὐτῶν.",
+       "greek": true,
+       "translation": "și s-a suit cu el la Silo cu un vițel de trei ani și pâini și o efă de făină curată și un ulcior de vin, și a intrat în casa Domnului în Silo, și copilul [era] cu ei.",
+       "note": "Divergență reală de numărătoare: Septuaginta are „un vițel de trei ani” (la singular, calificat prin vârstă) unde Textul Masoretic are „trei tauri” (la plural) — probabil o citire diferită a consoanelor ebraice identice ortografic în cele două variante; Septuaginta adaugă și „pâini”, absente din ebraică."
+      }
+     ],
+     "refs": [
+      "Numeri 15:9,10",
+      "Deuteronomul 12:5,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:25",
      "t": "Au înjunghiat taurul și au adus copilul la Eli.",
      "heb": "וַיִּשְׁחֲטוּ אֶת־הַפָּר וַיָּבִיאוּ אֶת־הַנַּעַר אֶל־עֵלִי׃",
-     "translit": "Vaișhatu et-hapar vaiaviu et-hanaar el-Eli."
+     "translit": "Vaișhatu et-hapar vaiaviu et-hanaar el-Eli.",
+     "tokens": [
+      {
+       "t": "Au înjunghiat taurul și au adus copilul la Eli."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשְׁחֲטוּ אֶת־הַפָּר וַיָּבִיאוּ אֶת־הַנַּעַר אֶל־עֵלִי׃",
+       "translation": "Au înjunghiat taurul și au adus copilul la Eli. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ προσήγαγον ἐνώπιον Κυρίου, καὶ ἔσφαξεν ὁ πατὴρ αὐτοῦ τὴν θυσίαν, ἣν ἐποίει ἐξ ἡμερῶν εἰς ἡμέρας τῷ Κυρίῳ, καὶ προσήγαγε τὸ παιδάριον καὶ ἔσφαξε τὸν μόσχον. καὶ προσήγαγεν ῎Αννα ἡ μήτηρ τοῦ παιδίου πρὸς ῾Ηλὶ",
+       "greek": true,
+       "translation": "și au adus [înainte] înaintea Domnului, și a înjunghiat tatăl lui jertfa pe care o făcea din zile în zile Domnului, și a adus copilul și a înjunghiat vițelul. Și a adus Anna, mama copilului, [copilul] la Eli",
+       "note": "Divergență prin amplificare: Septuaginta dezvoltă pe larg scena, cu detalii absente din formularea scurtă a Textului Masoretic („au înjunghiat taurul și au adus copilul la Eli”)."
+      }
+     ],
+     "refs": [
+      "Luca 2:22"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:26",
      "t": "Ea a spus: „Te rog, stăpâne, pe viața ta, stăpâne, eu sunt femeia care stătea cu tine aici să se roage DOMNULUI.",
      "heb": "וַתֹּאמֶר בִּי אֲדֹנִי חֵי נַפְשְׁךָ אֲדֹנִי אֲנִי הָאִשָּׁה הַנִּצֶּבֶת עִמְּכָה בָּזֶה לְהִתְפַּלֵּל אֶל־יְהוָה׃",
-     "translit": "Vatomer bi adoni hei nafșeha adoni ani haișa hanitzevet imeha baze lehitpalel el-ADONAI."
+     "translit": "Vatomer bi adoni hei nafșeha adoni ani haișa hanitzevet imeha baze lehitpalel el-ADONAI.",
+     "tokens": [
+      {
+       "t": "Ea a spus: „Te rog, stăpâne, pe viața ta, stăpâne, eu sunt femeia care stătea cu tine aici să se roage DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתֹּאמֶר בִּי אֲדֹנִי חֵי נַפְשְׁךָ אֲדֹנִי אֲנִי הָאִשָּׁה הַנִּצֶּבֶת עִמְּכָה בָּזֶה לְהִתְפַּלֵּל אֶל־יְהוָה׃",
+       "translation": "Ea a spus: „Te rog, stăpâne, pe viața ta, stăpâne, eu sunt femeia care stătea cu tine aici să se roage DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν· ἐν ἐμοί, κύριε· ζῇ ἡ ψυχή σου, ἐγὼ ἡ γυνὴ ἡ καταστᾶσα ἐνώπιόν σου μετὰ σοῦ ἐν τῷ προσεύξασθαι πρὸς Κύριον·",
+       "greek": true,
+       "translation": "și a spus: [te rog] pe mine, doamne; viu e sufletul tău; eu sunt femeia care am stat înaintea ta, cu tine, când m-am rugat Domnului;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 17:55",
+      "1 Samuel 20:3"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:27",
      "t": "Pentru acest băiețaș m-am rugat, [iar] DOMNUL mi-a ascultat ruga pe care I-am adresat-o.",
      "heb": "אֶל־הַנַּעַר הַזֶּה הִתְפַּלָּלְתִּי וַיִּתֵּן יְהוָה לִי אֶת־שְׁאֵלָתִי אֲשֶׁר שָׁאַלְתִּי מֵעִמּוֹ׃",
-     "translit": "El-hanaar haze hitpalalti vaiten ADONAI li et-șeelati așer șaalti meimo."
+     "translit": "El-hanaar haze hitpalalti vaiten ADONAI li et-șeelati așer șaalti meimo.",
+     "tokens": [
+      {
+       "t": "Pentru acest băiețaș m-am rugat, [iar] DOMNUL mi-a ascultat ruga pe care I-am adresat-o."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אֶל־הַנַּעַר הַזֶּה הִתְפַּלָּלְתִּי וַיִּתֵּן יְהוָה לִי אֶת־שְׁאֵלָתִי אֲשֶׁר שָׁאַלְתִּי מֵעִמּוֹ׃",
+       "translation": "Pentru acest băiețaș m-am rugat, [iar] DOMNUL mi-a ascultat ruga pe care I-am adresat-o. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὑπὲρ τοῦ παιδαρίου τούτου προσηυξάμην, καὶ ἔδωκέ μοι Κύριος τὸ αἴτημά μου, ὃ ᾐτησάμην παρ᾿ αὐτοῦ·",
+       "greek": true,
+       "translation": "pentru acest copil m-am rugat, și mi-a dat Domnul cererea mea, pe care am cerut-o de la El;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 1:11-13",
+      "Matei 7:7"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:28",
      "t": "În plus, îl dau împrumut DOMNULUI – în toate zilele cât va trăi este dat împrumut DOMNULUI” și [Elkana] s-a prosternat acolo înaintea DOMNULUI.",
      "heb": "וְגַם אָנֹכִי הִשְׁאִלְתִּהוּ לַיהוָה כָּל־הַיָּמִים אֲשֶׁר הָיָה הוּא שָׁאוּל לַיהוָה וַיִּשְׁתַּחוּ שָׁם לַיהוָה׃",
-     "translit": "Vegam anohi hișiltihu l'ADONAI kol-haiamim așer haia hu șaul l'ADONAI vaiștahu șam l'ADONAI."
+     "translit": "Vegam anohi hișiltihu l'ADONAI kol-haiamim așer haia hu șaul l'ADONAI vaiștahu șam l'ADONAI.",
+     "tokens": [
+      {
+       "t": "În plus, îl dau împrumut DOMNULUI – în toate zilele cât va trăi este dat împrumut DOMNULUI” și [Elkana] s-a prosternat acolo înaintea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגַם אָנֹכִי הִשְׁאִלְתִּהוּ לַיהוָה כָּל־הַיָּמִים אֲשֶׁר הָיָה הוּא שָׁאוּל לַיהוָה וַיִּשְׁתַּחוּ שָׁם לַיהוָה׃",
+       "translation": "În plus, îl dau împrumut DOMNULUI – în toate zilele cât va trăi este dat împrumut DOMNULUI” și [Elkana] s-a prosternat acolo înaintea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "κἀγὼ κιχρῶ αὐτὸν τῷ Κυρίῳ πάσας τὰς ἡμέρας, ἃς ζῇ αὐτός, χρῆσιν τῷ Κυρίῳ. Καὶ εἶπεν.",
+       "greek": true,
+       "translation": "și eu îl împrumut Domnului toate zilele cât va trăi el, împrumut Domnului. Și a spus...",
+       "note": "Divergență de structură: Septuaginta nu încheie versetul cu „și [Elkana] s-a prosternat acolo înaintea Domnului”, cum are Textul Masoretic, ci se oprește abrupt la „și a spus”, legând direct finalul capitolului 1 de începutul cântării Hanei din capitolul 2, fără pauza narativă din ebraică."
+      }
+     ],
+     "refs": [
+      "Geneza 24:26",
+      "Geneza 24:52"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:1",
      "t": "Hana s-a rugat și a spus: „Inima mi s-a bucurat în DOMNUL, mândria mea mi-a fost înălțată prin DOMNUL, gura mea s-a deschis [larg] împotriva potrivnicilor mei, căci m-am bucurat de mântuirea Ta.",
      "heb": "וַתִּתְפַּלֵּל חַנָּה וַתֹּאמַר עָלַץ לִבִּי בַּיהוָה רָמָה קַרְנִי בַּיהוָה רָחַב פִּי עַל־אוֹיְבַי כִּי שָׂמַחְתִּי בִּישׁוּעָתֶךָ׃",
-     "translit": "Vatitpalel Hana vatomar alatẓ libi b'ADONAI rama karni b'ADONAI rahav pi al-oivai ki samahti bișuateha."
+     "translit": "Vatitpalel Hana vatomar alatẓ libi b'ADONAI rama karni b'ADONAI rahav pi al-oivai ki samahti bișuateha.",
+     "tokens": [
+      {
+       "t": "Hana s-a rugat și a spus: „Inima mi s-a bucurat în DOMNUL, "
+      },
+      {
+       "t": "mândria mea mi-a fost înălțată",
+       "w": "mândria mea mi-a fost înălțată",
+       "heb": "רָמָה קַרְנִי",
+       "translit": "rama karni",
+       "strong": "H7161",
+       "pos": "verb, qal perfect + substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "cornul/puterea mea s-a înălțat (rama karni).",
+       "dict_ro": "Radak explică imaginea: „karn” (corn) desemnează forța și mândria, pentru că cornul e locul cel mai înalt al animalului și totodată arma lui de luptă, ca în „cu ele va împunge popoarele” — inima Hanei, odată întristată, iar cornul ei, odată umilit în fața Peninei, se înalță acum prin izbăvirea venită de la Domnul."
+      },
+      {
+       "t": " prin DOMNUL, gura mea s-a deschis [larg] împotriva potrivnicilor mei, căci m-am bucurat de mântuirea Ta."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתִּתְפַּלֵּל חַנָּה וַתֹּאמַר עָלַץ לִבִּי בַּיהוָה רָמָה קַרְנִי בַּיהוָה רָחַב פִּי עַל־אוֹיְבַי כִּי שָׂמַחְתִּי בִּישׁוּעָתֶךָ׃",
+       "translation": "Hana s-a rugat și a spus: „Inima mi s-a bucurat în DOMNUL, mândria mea mi-a fost înălțată prin DOMNUL, gura mea s-a deschis [larg] împotriva potrivnicilor mei, căci m-am bucurat de mântuirea Ta. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΕΣΤΕΡΕΩΘΗ ἡ καρδία μου ἐν Κυρίῳ, ὑψώθη κέρας μου ἐν Θεῷ μου· ἐπλατύνθη ἐπ᾿ ἐχθρούς μου τὸ στόμα μου, εὐφράνθην ἐν σωτηρίᾳ σου.",
+       "greek": true,
+       "translation": "S-a întărit inima mea în Domnul, s-a înălțat cornul meu în Dumnezeul meu; s-a lărgit gura mea asupra vrăjmașilor mei, m-am veselit în mântuirea Ta.",
+       "note": "Mică divergență de registru: Septuaginta are „s-a întărit” (ἐστερεώθη) unde Textul Masoretic are „s-a bucurat/exultat” (alatz) — o nuanță diferită a primei afirmații a cântării."
+      }
+     ],
+     "refs": [
+      "Luca 1:46,47",
+      "Psalmul 18:2",
+      "Exodul 15:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Gura mea s-a deschis larg împotriva vrăjmașilor mei” — [se referă la] Penina."
+      }
+     ]
     },
     {
      "v": "2:2",
      "t": "Nu este nimeni sfânt precum DOMNUL, căci nu este nimeni în afară de Tine și nu este vreo Stâncă precum Dumnezeul nostru.",
      "heb": "אֵין־קָדוֹשׁ כַּיהוָה כִּי אֵין בִּלְתֶּךָ וְאֵין צוּר כֵּאלֹהֵינוּ׃",
-     "translit": "Ein-kadoș k'ADONAI ki ein bilteha veein țur k'Eloheinu."
+     "translit": "Ein-kadoș k'ADONAI ki ein bilteha veein țur k'Eloheinu.",
+     "tokens": [
+      {
+       "t": "Nu este nimeni sfânt precum DOMNUL, căci nu este nimeni în afară de Tine și nu este vreo "
+      },
+      {
+       "t": "Stâncă",
+       "w": "Stâncă",
+       "heb": "צוּר",
+       "translit": "țur",
+       "strong": "H6697",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Stâncă, metaforă pentru forța și statornicia divină (Tzur).",
+       "dict_ro": "Rashi citește cuvântul printr-un joc de sunet: nu e doar „stâncă” (în sensul de tărie), ci și „Țayar” — „Cioplitor”, Cel care dă formă unei forme în interiorul altei forme [creația ca act de modelare continuă] — nu există „cioplitor” ca Dumnezeul nostru, care formează făptura în pântece."
+      },
+      {
+       "t": " precum Dumnezeul nostru."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אֵין־קָדוֹשׁ כַּיהוָה כִּי אֵין בִּלְתֶּךָ וְאֵין צוּר כֵּאלֹהֵינוּ׃",
+       "translation": "Nu este nimeni sfânt precum DOMNUL, căci nu este nimeni în afară de Tine și nu este vreo Stâncă precum Dumnezeul nostru. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι οὐκ ἔστιν ἅγιος ὡς Κύριος, καὶ οὐκ ἔστι δίκαιος ὡς ὁ Θεὸς ἡμῶν· οὐκ ἔστιν ἅγιος πλήν σου.",
+       "greek": true,
+       "translation": "căci nu este sfânt ca Domnul, și nu este drept ca Dumnezeul nostru; nu este sfânt decât Tu.",
+       "note": "Divergență majoră de imagine: Septuaginta are „drept” (δίκαιος) unde Textul Masoretic are „Stâncă” (Tzur) — pierzând complet metafora stâncii/tăriei statornice, înlocuită cu un atribut moral."
+      }
+     ],
+     "refs": [
+      "Exodul 15:11",
+      "Deuteronomul 32:4",
+      "Isaia 6:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și nu e Stâncă precum Dumnezeul nostru” — nu e Cioplitor precum Dumnezeul nostru, Cel care dă chip unei forme în interiorul altei forme [chiar în pântecele cel stârpit]."
+      }
+     ]
     },
     {
      "v": "2:3",
      "t": "Nu mai continuați să vorbiți cu atâta mândrie, nu mai lăsați îngâmfarea să iasă din gura voastră, căci DOMNUL este Dumnezeul gândurilor și de către El sunt numărate faptele.",
      "heb": "אַל־תַּרְבּוּ תְדַבְּרוּ גְּבֹהָה גְבֹהָה יֵצֵא עָתָק מִפִּיכֶם כִּי אֵל דֵּעוֹת יְהוָה וְלוֹ נִתְכְּנוּ עֲלִלוֹת׃",
-     "translit": "Al-tarbu tedabru ghevoah ghevoah iețe atak mipihem ki El deot ADONAI velo nitkenu alilot."
+     "translit": "Al-tarbu tedabru ghevoah ghevoah iețe atak mipihem ki El deot ADONAI velo nitkenu alilot.",
+     "tokens": [
+      {
+       "t": "Nu mai continuați să vorbiți cu atâta mândrie, nu mai lăsați îngâmfarea să iasă din gura voastră, căci "
+      },
+      {
+       "t": "DOMNUL este Dumnezeul gândurilor",
+       "w": "DOMNUL este Dumnezeul gândurilor",
+       "heb": "אֵל דֵּעוֹת",
+       "translit": "ēl dēot",
+       "strong": "H1844",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin plural",
+       "def_ro": "DOMNUL este un Dumnezeu al cunoașterii (El deot Adonai).",
+       "dict_ro": "Rashi explică: Domnul cunoaște ce este în inima omului, de aceea orice vorbă de trufie, oricât de bine ascunsă, este deja cunoscută; Radak adaugă: forma de plural „deot” (cunoștințe) arată că Dumnezeu cunoaște dintr-o singură dată, fără înmulțire sau schimbare, toate gândurile diferite ale tuturor oamenilor laolaltă, așa cum «Cel ce a plăsmuit toate inimile deopotrivă pricepe toate faptele lor»."
+      },
+      {
+       "t": " și de către El sunt numărate faptele."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אַל־תַּרְבּוּ תְדַבְּרוּ גְּבֹהָה גְבֹהָה יֵצֵא עָתָק מִפִּיכֶם כִּי אֵל דֵּעוֹת יְהוָה וְלוֹ נִתְכְּנוּ עֲלִלוֹת׃",
+       "translation": "Nu mai continuați să vorbiți cu atâta mândrie, nu mai lăsați îngâmfarea să iasă din gura voastră, căci DOMNUL este Dumnezeul gândurilor și de către El sunt numărate faptele. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μὴ καυχᾶσθε, καὶ μὴ λαλεῖτε ὑψηλά, μὴ ἐξελθέτω μεγαλορρημοσύνη ἐκ τοῦ στόματος ὑμῶν, ὅτι Θεὸς γνώσεων Κύριος καὶ Θεὸς ἑτοιμάζων ἐπιτηδεύματα αὐτοῦ.",
+       "greek": true,
+       "translation": "nu vă făliți, și nu vorbiți lucruri înalte, să nu iasă vorbă de mărire din gura voastră, căci Dumnezeu al cunoștințelor [este] Domnul și Dumnezeu care pregătește lucrările Sale.",
+       "note": "Divergență de nuanță: Septuaginta are „Dumnezeu care pregătește lucrările Sale” unde Textul Masoretic are „de către El sunt numărate/cântărite faptele” — imaginea trece de la cântărire/evaluare la pregătire activă."
+      }
+     ],
+     "refs": [
+      "Psalmul 94:4",
+      "Proverbe 8:13",
+      "1 Împărați 8:39"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Nu continuați să vorbiți cu mândrie” — toți cei trufași cu norocul, și din pricina Peninei, care se mândrea asupra ei, vorbește ea așa, după sensul simplu. „Atak” — vorbă aspră; altă explicație: termen de abatere/necuviință, ca în «și s-a mutat de acolo la munte» [Geneza 12:8] — să nu iasă vorbă necuvioasă din gura voastră. „Căci DOMNUL este un Dumnezeu al cunoștinței” — cunoaște ce e în inima voastră. „Și de El sunt cântărite faptele” — toate faptele omului sunt numărate înaintea Lui."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Căci DOMNUL este un Dumnezeu al cunoștinței” — spune „deot” (cunoștințe), la plural, ca să arate că El cunoaște deopotrivă, fără înmulțire și fără schimbare la El, toate cunoștințele diferite ale fiilor oamenilor, cum s-a spus «Cel ce a plăsmuit deopotrivă inimile lor, Cel ce pricepe toate faptele lor»."
+      }
+     ]
     },
     {
      "v": "2:4",
      "t": "Arcul celor puternici este sfărâmat, dar cei care se clatină sunt încinși cu putere.",
      "heb": "קֶשֶׁת גִּבֹּרִים חַתִּים וְנִכְשָׁלִים אָזְרוּ חָיִל׃",
-     "translit": "Keșet ghiborim hatim venihșalim azru hail."
+     "translit": "Keșet ghiborim hatim venihșalim azru hail.",
+     "tokens": [
+      {
+       "t": "Arcul celor puternici este sfărâmat, dar cei care se clatină sunt încinși cu putere."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "קֶשֶׁת גִּבֹּרִים חַתִּים וְנִכְשָׁלִים אָזְרוּ חָיִל׃",
+       "translation": "Arcul celor puternici este sfărâmat, dar cei care se clatină sunt încinși cu putere. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τόξον δυνατῶν ἠσθένησε, καὶ ἀσθενοῦντες περιεζώσαντο δύναμιν·",
+       "greek": true,
+       "translation": "arcul celor puternici s-a slăbit, și cei slabi s-au încins cu putere;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 37:15,17",
+      "Isaia 10:4"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:5",
      "t": "Cei ce sunt sătui se oferă zălog în schimbul pâinii, iar cei înfometați încetează să mai fie astfel. Cea stearpă naște șapte [copii], iar cea care are copii mulți este lipsită [de ei].",
      "heb": "שְׂבֵעִים בַּלֶּחֶם נִשְׂכָּרוּ וּרְעֵבִים חָדֵלּוּ עַד־עֲקָרָה יָלְדָה שִׁבְעָה וְרַבַּת בָּנִים אֻמְלָלָה׃",
-     "translit": "Seveim balehem niskaru ureevim hadelu ad-akara ialda șiva verabat banim umlala."
+     "translit": "Seveim balehem niskaru ureevim hadelu ad-akara ialda șiva verabat banim umlala.",
+     "tokens": [
+      {
+       "t": "Cei ce sunt sătui se oferă zălog în schimbul pâinii, iar cei înfometați încetează să mai fie astfel. "
+      },
+      {
+       "t": "Cea stearpă naște șapte",
+       "w": "Cea stearpă naște șapte",
+       "heb": "עֲקָרָה יָלְדָה שִׁבְעָה",
+       "translit": "akara ialda șiva",
+       "strong": "H7651",
+       "pos": "adjectiv, feminin singular + verb, qal perfect + numeral",
+       "def_ro": "cea stearpă a născut șapte (ad akara ialda șiva).",
+       "dict_ro": "Rashi relatează o tradiție ce leagă acest verset direct de povestea Hanei: ea însăși a avut în total șapte copii, trei fii și două fiice menționate explicit (1 Samuel 2:21) plus Samuel și o soră geamănă — iar, după o altă tradiție, pe măsură ce Hana năștea câte un copil, Penina îi îngropa câte doi dintre ai ei, până ce, la nașterea celui de-al cincilea copil al Hanei, Penina însăși s-a aruncat la picioarele ei cerând îndurare. Alți înțelepți observă că „șiva” (șapte), prin valoarea numerică a literelor, corespunde chiar numelui „Șemuel”."
+      },
+      {
+       "t": " [copii], iar cea care are copii mulți este lipsită [de ei]."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "שְׂבֵעִים בַּלֶּחֶם נִשְׂכָּרוּ וּרְעֵבִים חָדֵלּוּ עַד־עֲקָרָה יָלְדָה שִׁבְעָה וְרַבַּת בָּנִים אֻמְלָלָה׃",
+       "translation": "Cei ce sunt sătui se oferă zălog în schimbul pâinii, iar cei înfometați încetează să mai fie astfel. Cea stearpă naște șapte [copii], iar cea care are copii mulți este lipsită [de ei]. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πλήρεις ἄρτων ἠλαττώθησαν, καὶ οἱ πεινῶντες παρῆκαν γῆν· ὅτι στεῖρα ἔτεκεν ἑπτά, καὶ ἡ πολλὴ ἐν τέκνοις ἠσθένησε.",
+       "greek": true,
+       "translation": "cei plini de pâini s-au micșorat, și cei flămânzi au lăsat pământul; căci stearpa a născut șapte, și cea cu mulți copii a slăbit.",
+       "note": "Divergență majoră de sens: Septuaginta are „cei flămânzi au lăsat/părăsit pământul” (παρῆκαν γῆν) unde Textul Masoretic are „cei înfometați încetează să mai fie astfel” — sensuri aproape opuse, abandon al țării versus încetarea foamei."
+      }
+     ],
+     "refs": [
+      "Psalmul 34:10",
+      "Luca 1:53",
+      "1 Samuel 1:20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Până și cea stearpă a născut șapte, iar cea cu mulți fii a slăbit” — și câtă vreme cea stearpă naște șapte fii, cea cu mulți fii se întristează și-i îngroapă pe ai ei. Hana a născut șapte, cum se spune «căci Domnul a cercetat pe Hana, și a zămislit și a născut trei fii și două fiice» [1 Samuel 2:21] — iar când Hana năștea un copil, Penina îngropa doi; și Penina avea zece fii, cum se spune «nu sunt eu oare mai bun pentru tine decât zece fii» [ai Peninei]; când Hana a născut patru, Penina a îngropat opt, și când [Hana] a zămislit și a născut al cincilea copil, Penina s-a aruncat la picioarele ei și a cerut îndurare, și [copiii rămași] au trăit și au fost numiți după numele ei — acestea sunt cuvintele lui Rabi Nehemia. Rabi Ieuda spune: nepoții sunt socotiți ca fii. Și unii spun: șapte, prin valoarea numerică, corespunde numărului [literelor din] „Șemuel”."
+      }
+     ]
     },
     {
      "v": "2:6",
      "t": "DOMNUL aduce moarte și dăruiește viață, coboară în lăcașul morților și ridică.",
      "heb": "יְהוָה מֵמִית וּמְחַיֶּה מוֹרִיד שְׁאוֹל וַיָּעַל׃",
-     "translit": "ADONAI memit umehaie morid șeol vaiaal."
+     "translit": "ADONAI memit umehaie morid șeol vaiaal.",
+     "tokens": [
+      {
+       "t": "DOMNUL aduce moarte și dăruiește viață, coboară în lăcașul morților și ridică."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יְהוָה מֵמִית וּמְחַיֶּה מוֹרִיד שְׁאוֹל וַיָּעַל׃",
+       "translation": "DOMNUL aduce moarte și dăruiește viață, coboară în lăcașul morților și ridică. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Κύριος θανατοῖ καὶ ζωογονεῖ, κατάγει εἰς ᾅδου καὶ ἀνάγει·",
+       "greek": true,
+       "translation": "Domnul ucide și dă viață, duce în locuința morților și ridică;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 32:39",
+      "Iona 2:2-6"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:7",
      "t": "DOMNUL sărăcește și îmbogățește, umilește și înalță.",
      "heb": "יְהוָה מוֹרִישׁ וּמַעֲשִׁיר מַשְׁפִּיל אַף־מְרוֹמֵם׃",
-     "translit": "ADONAI moriș umaașir mașpil af-meromem."
+     "translit": "ADONAI moriș umaașir mașpil af-meromem.",
+     "tokens": [
+      {
+       "t": "DOMNUL sărăcește și îmbogățește, umilește și înalță."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יְהוָה מוֹרִישׁ וּמַעֲשִׁיר מַשְׁפִּיל אַף־מְרוֹמֵם׃",
+       "translation": "DOMNUL sărăcește și îmbogățește, umilește și înalță. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Κύριος πτωχίζει καὶ πλουτίζει, ταπεινοῖ καὶ ἀνυψοῖ.",
+       "greek": true,
+       "translation": "Domnul sărăcește și îmbogățește, umilește și înalță.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 8:17,18",
+      "Iov 1:21"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:8",
      "t": "El îl ridică pe cel nevoiaș din pulbere, din grămada de gunoaie îl înalță pe cel sărac, ca să-i așeze cu nobilii și să-i facă să moștenească un loc de cinste – căci ai DOMNULUI sunt stâlpii pământului și pe ei a așezat El lumea.",
      "heb": "מֵקִים מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן לְהוֹשִׁיב עִם־נְדִיבִים וְכִסֵּא כָבוֹד יַנְחִלֵם כִּי לַיהוָה מְצֻקֵי אֶרֶץ וַיָּשֶׁת עֲלֵיהֶם תֵּבֵל׃",
-     "translit": "Mekim meafar dal meașpot iarim evion lehoșiv im-nedivim vehise havod ianhilem ki l'ADONAI mețukei ereț vaișet aleihem tevel."
+     "translit": "Mekim meafar dal meașpot iarim evion lehoșiv im-nedivim vehise havod ianhilem ki l'ADONAI mețukei ereț vaișet aleihem tevel.",
+     "tokens": [
+      {
+       "t": "El îl ridică pe cel nevoiaș din pulbere, din grămada de gunoaie îl înalță pe cel sărac, ca să-i așeze cu nobilii și să-i facă să moștenească un loc de cinste – căci ai DOMNULUI sunt "
+      },
+      {
+       "t": "stâlpii pământului",
+       "w": "stâlpii pământului",
+       "heb": "מְצֻקֵי אֶרֶץ",
+       "translit": "mețukē ereț",
+       "strong": "H776",
+       "pos": "substantiv, masculin plural construct + substantiv, masculin și feminin singular",
+       "def_ro": "stâlpii/temeliile pământului (metzukē eretz).",
+       "dict_ro": "Radak explică metafora: „stâlpii pământului” sunt cei drepți, prin al căror merit se ține lumea, cum s-a spus «și dreptul e temelia lumii» — iar „ai Domnului” arată că aceștia Îi apartin Lui în chip special, El fiind Cel care susține întreaga lume prin ei și care așază peste ei locuința oamenilor."
+      },
+      {
+       "t": " și pe ei a așezat El lumea."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מֵקִים מֵעָפָר דָּל מֵאַשְׁפֹּת יָרִים אֶבְיוֹן לְהוֹשִׁיב עִם־נְדִיבִים וְכִסֵּא כָבוֹד יַנְחִלֵם כִּי לַיהוָה מְצֻקֵי אֶרֶץ וַיָּשֶׁת עֲלֵיהֶם תֵּבֵל׃",
+       "translation": "El îl ridică pe cel nevoiaș din pulbere, din grămada de gunoaie îl înalță pe cel sărac, ca să-i așeze cu nobilii și să-i facă să moștenească un loc de cinste – căci ai DOMNULUI sunt stâlpii pământului și pe ei a așezat El lumea. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀνιστᾷ ἀπὸ γῆς πένητα καὶ ἀπὸ κοπρίας ἐγείρει πτωχὸν καθίσαι μετὰ δυναστῶν λαοῦ καὶ θρόνον δόξης κατακληρονομῶν αὐτοῖς.",
+       "greek": true,
+       "translation": "ridică de pe pământ pe sărac și din gunoi înalță pe nevoiaș, ca să șadă cu cei puternici ai poporului și tron de slavă le dă în stăpânire.",
+       "note": "Divergență prin omisiune: Septuaginta nu reia fraza finală a Textului Masoretic, „căci ai Domnului sunt stâlpii pământului, și pe ei a așezat El lumea” — versetul grecesc se oprește la promisiunea tronului de slavă."
+      }
+     ],
+     "refs": [
+      "Iov 2:8",
+      "Psalmul 113:7,8",
+      "Iov 38:4-6"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Căci ai Domnului sunt stâlpii pământului” — și de aceea e în puterea Lui să facă în lumea Lui după voia Lui, [ridicând pe unul și umilind pe altul]."
+      }
+     ]
     },
     {
      "v": "2:9",
      "t": "El păzește picioarele credincioșilor Săi, dar cei nelegiuiți sunt amuțiți în întuneric, căci nu prin forță triumfă omul.",
      "heb": "רַגְלֵי חֲסִידָיו יִשְׁמֹר וּרְשָׁעִים בַּחֹשֶׁךְ יִדָּמּוּ כִּי־לֹא בְכֹחַ יִגְבַּר־אִישׁ׃",
-     "translit": "Raglei hasidav ișmor ureșaim bahoșeh idamu ki-lo vehoah igbar-iș."
+     "translit": "Raglei hasidav ișmor ureșaim bahoșeh idamu ki-lo vehoah igbar-iș.",
+     "tokens": [
+      {
+       "t": "El păzește picioarele credincioșilor Săi, dar cei nelegiuiți sunt amuțiți în întuneric, căci nu prin forță triumfă omul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "רַגְלֵי חֲסִידָיו יִשְׁמֹר וּרְשָׁעִים בַּחֹשֶׁךְ יִדָּמּוּ כִּי־לֹא בְכֹחַ יִגְבַּר־אִישׁ׃",
+       "translation": "El păzește picioarele credincioșilor Săi, dar cei nelegiuiți sunt amuțiți în întuneric, căci nu prin forță triumfă omul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διδοὺς εὐχὴν τῷ εὐχομένῳ καὶ εὐλόγησεν ἔτη δικαίου· ὅτι οὐκ ἐν ἰσχύϊ δυνατὸς ἀνήρ,",
+       "greek": true,
+       "translation": "dând făgăduință celui ce face făgăduință, și a binecuvântat anii dreptului; căci nu prin putere e tare omul,",
+       "note": "Divergență majoră: Septuaginta omite complet prima parte a versetului ebraic („El păzește picioarele credincioșilor Săi, dar cei nelegiuiți sunt amuțiți în întuneric”), înlocuind-o cu o frază fără corespondent în Textul Masoretic, despre binecuvântarea anilor dreptului; doar încheierea („căci nu prin putere e tare omul”) corespunde fidel ebraicului."
+      }
+     ],
+     "refs": [
+      "Iov 5:24",
+      "Psalmul 37:23,24",
+      "1 Samuel 17:49,50"
+     ],
+     "commentaries": []
     },
     {
      "v": "2:10",
      "t": "O, DOAMNE, fie sfărâmați cei care I se împotrivesc, împotriva fiecăruia dintre ei să tune cerul! DOMNUL să judece marginile pământului, să dea putere regelui Său și să înalțe mândria unsului Său!",
      "heb": "יְהוָה יֵחַתּוּ מְרִיבָיו עָלָו בַּשָּׁמַיִם יַרְעֵם יְהוָה יָדִין אַפְסֵי־אָרֶץ וְיִתֶּן־עֹז לְמַלְכּוֹ וְיָרֵם קֶרֶן מְשִׁיחוֹ׃",
-     "translit": "ADONAI iehatu merivav alav bașamaim iarem ADONAI iadin afsei-areț veiten-oz lemalko veiarem keren meșiho."
+     "translit": "ADONAI iehatu merivav alav bașamaim iarem ADONAI iadin afsei-areț veiten-oz lemalko veiarem keren meșiho.",
+     "tokens": [
+      {
+       "t": "O, DOAMNE, fie sfărâmați cei care I se împotrivesc, împotriva fiecăruia dintre ei să tune cerul! DOMNUL să judece marginile pământului, să dea putere regelui Său și să înalțe mândria "
+      },
+      {
+       "t": "unsului Său",
+       "w": "unsului Său",
+       "heb": "מְשִׁיחוֹ",
+       "translit": "meșiho",
+       "strong": "H4899",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "unsului Său (meșiho).",
+       "dict_ro": "Radak leagă finalul cântării Hanei de o profeție dublă: pe de o parte despre Saul, pe care fiul ei Samuel îl va unge rege, pe de altă parte, prin cuvântul „keren” (cornul, puterea unsului), despre David, pe care Samuel nu l-a văzut domnind în timpul vieții lui — Hana se roagă aici, în chip profetic, ca puterea celui uns de fiul ei să se înalțe, dincolo de limitele propriei vieți."
+      },
+      {
+       "t": "!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יְהוָה יֵחַתּוּ מְרִיבָיו עָלָו בַּשָּׁמַיִם יַרְעֵם יְהוָה יָדִין אַפְסֵי־אָרֶץ וְיִתֶּן־עֹז לְמַלְכּוֹ וְיָרֵם קֶרֶן מְשִׁיחוֹ׃",
+       "translation": "O, DOAMNE, fie sfărâmați cei care I se împotrivesc, împotriva fiecăruia dintre ei să tune cerul! DOMNUL să judece marginile pământului, să dea putere regelui Său și să înalțe mândria unsului Său! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Κύριος ἀσθενῆ ποιήσει ἀντίδικον αὐτοῦ, Κύριος ἅγιος. μὴ καυχάσθω ὁ φρόνιμος ἐν τῇ φρονήσει αὐτοῦ, καὶ μὴ καυχάσθω ὁ δυνατὸς ἐν τῇ δυνάμει αὐτοῦ, καὶ μὴ καυχάσθω ὁ πλούσιος ἐν τῷ πλούτῳ αὐτοῦ, ἀλλ᾿ ἐν τούτῳ καυχάσθω ὁ καυχώμενος, συνιεῖν καὶ γινώσκειν τὸν Κύριον καὶ ποιεῖν κρίμα καὶ δικαιοσύνην ἐν μέσῳ τῆς γῆς. Κύριος ἀνέβη εἰς οὐρανοὺς καὶ ἐβρόντησεν, αὐτὸς κρινεῖ ἄκρα γῆς, καὶ δίδωσιν ἰσχὺν τοῖς βασιλεῦσιν ἡμῶν καὶ ὑψώσει κέρας χριστοῦ αὐτοῦ.",
+       "greek": true,
+       "translation": "Domnul va slăbi pe potrivnicul Lui, Domnul [este] sfânt. Să nu se laude cel priceput cu priceperea sa, și să nu se laude cel puternic cu puterea sa, și să nu se laude cel bogat cu bogăția sa, ci în aceasta să se laude cel ce se laudă: să priceapă și să cunoască pe Domnul și să facă judecată și dreptate în mijlocul pământului. Domnul S-a suit la ceruri și a tunat; El va judeca marginile pământului, și dă putere regilor noștri și va înălța cornul hristosului Său.",
+       "note": "Divergență extraordinară și documentată: Septuaginta inserează aici, în mijlocul versetului, un pasaj întreg fără niciun corespondent în Textul Masoretic al cărții 1 Samuel — „să nu se laude cel priceput cu priceperea sa... ci în aceasta să se laude cel ce se laudă: să priceapă și să cunoască pe Domnul” — formulat aproape identic cu Ieremia 9:23-24 (verset deja tradus în capitolul 17 al acestei lucrări). Finalul versetului grecesc are și el „regilor noștri” (plural) unde ebraica are „regelui Său” (singular), dar se încheie totuși fidel, cu „va înălța cornul hristosului/unsului Său”, corespondent exact cu încheierea ebraică."
+      }
+     ],
+     "refs": [
+      "1 Samuel 7:10",
+      "Psalmul 2:6",
+      "2 Samuel 7:8"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și va da putere regelui Său și va înălța cornul unsului Său” — repetă aceeași idee în cuvinte diferite, căci regele este unsul; iar Hana a spus aceasta pe calea profeției sau a unei tradiții primite, căci avea încredințarea că va fi în Israel un rege, și că fiul ei îl va unge. Și a încheiat această cântare cu cuvintele despre rege, pentru că amintise căderea celor răi, care sunt vrăjmașii lui Israel, și a spus că Dumnezeu va da putere regelui lui Israel, ca Israel să fie izbăvit prin mâna lui din mâna vrăjmașilor lor."
+      }
+     ]
     }
    ]
   },
