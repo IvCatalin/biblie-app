@@ -96,13 +96,13 @@ module.exports = {
   ],
   '42:19': [
     ['Cine', 0], ['orb', 1],
-    ['slujitorul', 4, { ow: 'slujitorul Meu', df: 'Ebraica are singularul „slujitorul Meu”; Septuaginta, pluralul „slujitorii Mei” (οἱ παῖδές μου), înțelegând expresia ca referire la tot poporul.' }],
+    ['slujitorul', 4, { d: 'slujitor, rob.', g: 'παῖς', gf: 'παῖδές', gd: 'copil; slujitor.', df: 'Ebraica are singularul „slujitorul Meu”; Septuaginta, pluralul „slujitorii Mei” (οἱ παῖδές μου), înțelegând expresia ca referire la tot poporul.', x: '„Robul DOMNULUI” (eved Adonai) e titlul central al „cântărilor robului” din Isaia 42-53 — identificat variabil, în tradiția iudaică, cu Israel colectiv sau cu un individ providențial, iar în exegeza creștină timpurie, cu Hristos.' }],
     ['surd', 5],
     ['mesagerul', 6, { g: 'κυριεύω', gf: 'κυριεύοντες', gd: 'a stăpâni.', df: 'În locul „solului Meu” (malahi), Septuaginta are „cei care îi stăpânesc” (οἱ κυριεύοντες αὐτῶν).' }],
     ['trimit', 7, { g: '' }],
     ['orb', 9, { g: 'τυφλόω', gd: 'a orbi; la pasiv, a fi orbit.' }],
     ['desăvârșitul', 10],
-    ['slujitorul', 12, { ow: 'slujitorul DOMNULUI', g: 'δοῦλος', gd: 'rob, slujitor.' }],
+    ['slujitorul', 12, { d: 'ca slujitorul DOMNULUI — formă construită diferită de „avdi” (slujitorul Meu) de mai sus, aici la forma absolută, urmată de Tetragramă.', g: 'δοῦλος', gd: 'rob, slujitor.', df: '-', x: 'Eved Adonai — „slujitorul DOMNULUI”, titlul dat lui Moise (Deuteronomul 34:5), lui Iosua (Iosua 24:29) și, în Isaia 40-53, slujitorului pe care Dumnezeu îl alege (42:1). Metzudat David: lucrul e repetat de două și de trei ori, după felul figurilor de stil. Meșulam, „desăvârșitul”, din același verset, e explicat de Metzudat David ca „cel întreg în virtuți”.' }],
     ['DOMNULUI', 13, { g: 'θεός', gd: 'Dumnezeu.', df: 'Septuaginta are „ai lui Dumnezeu” (τοῦ Θεοῦ) în loc de „ai Domnului”.' }]
   ],
   '42:20': [
