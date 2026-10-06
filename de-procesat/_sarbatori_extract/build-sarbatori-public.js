@@ -5,8 +5,9 @@ const d = JSON.parse(fs.readFileSync(SRC, 'utf8'));
 const chapters = d.chapters.map(c => ({
   num: c.num, title: c.title, ref: c.ref, intro: '',
   verses: c.verses.map(v => {
-    const toks = [{ t: v.t }];
-    return { v: v.v, t: v.t, tokens: toks, commentaries: [], textCompare: [], refs: [] };
+    const toks = v.tokens && v.tokens.length ? v.tokens : [{ t: v.t }];
+    if (toks.map(t => t.t).join('') !== v.t) throw new Error('tokenii nu refac textul la ' + c.title + ' ' + v.v);
+    return { v: v.v, t: v.t, tokens: toks, commentaries: v.commentaries || [], textCompare: v.textCompare || [], refs: v.refs || [] };
   })
 }));
 const body = 'window.HAFTAROT_DATA = window.HAFTAROT_DATA || {};\nwindow.HAFTAROT_DATA[' + JSON.stringify(d.slug) + '] = ' + JSON.stringify({ chapters }) + ';\n';
