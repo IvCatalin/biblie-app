@@ -25437,133 +25437,901 @@
      "v": "38:18",
      "t": "Și va fi în ziua aceea că Gog va veni pe pământul Israelului – vorba Stăpânului meu, Domnul DUMNEZEU – furia Mea aprinsă va izbucni.",
      "heb": "וְהָיָה בַּיּוֹם הַהוּא בְּיוֹם בּוֹא גוֹג עַל־אַדְמַת יִשְׂרָאֵל נְאֻם אֲדֹנָי יְהוִה תַּעֲלֶה חֲמָתִי בְּאַפִּי׃",
-     "translit": "Vehaia baiom hahu beiom bo Gog al-admat Israel neum Adonai ELOHIM taale hamati beapi."
+     "translit": "Vehaia baiom hahu beiom bo Gog al-admat Israel neum Adonai ELOHIM taale hamati beapi.",
+     "tokens": [
+      {
+       "t": "Și va fi în ziua aceea că Gog va veni pe pământul Israelului – vorba Stăpânului meu, Domnul DUMNEZEU – furia Mea aprinsă va izbucni."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיָה בַּיּוֹם הַהוּא בְּיוֹם בּוֹא גוֹג עַל־אַדְמַת יִשְׂרָאֵל נְאֻם אֲדֹנָי יְהוִה תַּעֲלֶה חֲמָתִי בְּאַפִּי׃",
+       "translation": "Și va fi în ziua aceea că Gog va veni pe pământul Israelului – vorba Stăpânului meu, Domnul DUMNEZEU – furia Mea aprinsă va izbucni. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ, ἐν ἡμέρᾳ, ᾗ ἂν ἔλθῃ Γὼγ ἐπὶ τὴν γῆν τοῦ ᾿Ισραήλ, λέγει Κύριος Κύριος, ἀναβήσεται ὁ θυμός μου",
+       "greek": true,
+       "translation": "și va fi în ziua aceea, în ziua în care va veni Gog pe pământul lui Israel, zice Domnul Domnul, se va ridica mânia Mea",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 36:5",
+      "Ezechiel 36:6",
+      "Deuteronomul 32:22",
+      "Naum 1:2"
+     ],
+     "commentaries": []
     },
     {
      "v": "38:19",
      "t": "Căci în gelozia Mea și în mânia Mea arzătoare am vorbit. Așadar, fac jurământ că în ziua aceea un cutremur mare va veni pe pământul Israelului.",
      "heb": "וּבְקִנְאָתִי בְאֵשׁ־עֶבְרָתִי דִּבַּרְתִּי אִם־לֹא בַּיּוֹם הַהוּא יִהְיֶה רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל׃",
-     "translit": "Uvekinati veeș-evratí dibarti im-lo baiom hahu ihie raaș gadol al admat Israel."
+     "translit": "Uvekinati veeș-evratí dibarti im-lo baiom hahu ihie raaș gadol al admat Israel.",
+     "tokens": [
+      {
+       "t": "Căci în gelozia Mea și în mânia Mea arzătoare am vorbit. Așadar, fac jurământ că în ziua aceea un cutremur mare va veni pe pământul Israelului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּבְקִנְאָתִי בְאֵשׁ־עֶבְרָתִי דִּבַּרְתִּי אִם־לֹא בַּיּוֹם הַהוּא יִהְיֶה רַעַשׁ גָּדוֹל עַל אַדְמַת יִשְׂרָאֵל׃",
+       "translation": "Căci în gelozia Mea și în mânia Mea arzătoare am vorbit. Așadar, fac jurământ că în ziua aceea un cutremur mare va veni pe pământul Israelului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὁ ζῆλός μου. ἐν πυρὶ τῆς ὀργῆς μου ἐλάλησα, εἰ μὴν ἐν τῇ ἡμέρᾳ ἐκείνῃ ἔσται σεισμὸς μέγας ἐπὶ γῆς ᾿Ισραήλ.",
+       "greek": true,
+       "translation": "și gelozia Mea. În focul mâniei Mele am grăit: cu adevărat, în ziua aceea va fi cutremur mare pe pământul lui Israel.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 39:25",
+      "Deuteronomul 29:20",
+      "Hagai 2:6",
+      "Hagai 2:7"
+     ],
+     "commentaries": []
     },
     {
      "v": "38:20",
      "t": "Și se vor cutremura înaintea Mea peștii mării, păsările cerurilor, fiarele câmpului, toate târâtoarele care se mișcă pe pământ și toate ființele umane de pe fața pământului. Munți vor fi răsturnați, stânci vor cădea și orice zid se va prăbuși la pământ.",
      "heb": "וְרָעֲשׁוּ מִפָּנַי דְּגֵי הַיָּם וְעוֹף הַשָּׁמַיִם וְחַיַּת הַשָּׂדֶה וְכָל־הָרֶמֶשׂ הָרֹמֵשׂ עַל־הָאֲדָמָה וְכָל־הָאָדָם אֲשֶׁר עַל־פְּנֵי הָאֲדָמָה וְנֶהֶרְסוּ הֶהָרִים וְנָפְלוּ הַמַּדְרֵגוֹת וְכָל־חוֹמָה לָאָרֶץ תִּפּוֹל׃",
-     "translit": "Veraașu mipanai deghei haiam veof hașamaim vehaiat hasade vehol-haremes haromes al-haadama vehol-haadam așer al-penei haadama venehersu heharim venaflu hamadregot vehol-homa laareț tipol."
+     "translit": "Veraașu mipanai deghei haiam veof hașamaim vehaiat hasade vehol-haremes haromes al-haadama vehol-haadam așer al-penei haadama venehersu heharim venaflu hamadregot vehol-homa laareț tipol.",
+     "tokens": [
+      {
+       "t": "Și se vor cutremura înaintea Mea peștii mării, păsările cerurilor, fiarele câmpului, toate târâtoarele care se mișcă pe pământ și toate ființele umane de pe fața pământului. Munți vor fi răsturnați, "
+      },
+      {
+       "t": "stânci vor cădea",
+       "w": "stânci vor cădea",
+       "heb": "הַמַּדְרֵגוֹת",
+       "translit": "hamadrēgot",
+       "strong": "H4095",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "terasele/treptele [de asediu] (hamadregot).",
+       "dict_ro": "Rashi oferă două explicații pentru acest termen rar: fie stânci abrupte și suspendate, care par mereu pe punctul de a se prăvăli, fie — explicația pe care el însuși o preferă — movilele în trepte ridicate de armatele în asediu, săpate de jur-împrejur cu pământul aruncat în interior pentru a înălța un deal artificial, modelat în trepte succesive, pe care se sprijină rampele de asalt. Radak citează și lectura lui Targum Ionatan: «turnurile care se vor desprinde»."
+      },
+      {
+       "t": " și orice zid se va prăbuși la pământ."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְרָעֲשׁוּ מִפָּנַי דְּגֵי הַיָּם וְעוֹף הַשָּׁמַיִם וְחַיַּת הַשָּׂדֶה וְכָל־הָרֶמֶשׂ הָרֹמֵשׂ עַל־הָאֲדָמָה וְכָל־הָאָדָם אֲשֶׁר עַל־פְּנֵי הָאֲדָמָה וְנֶהֶרְסוּ הֶהָרִים וְנָפְלוּ הַמַּדְרֵגוֹת וְכָל־חוֹמָה לָאָרֶץ תִּפּוֹל׃",
+       "translation": "Și se vor cutremura înaintea Mea peștii mării, păsările cerurilor, fiarele câmpului, toate târâtoarele care se mișcă pe pământ și toate ființele umane de pe fața pământului. Munți vor fi răsturnați, stânci vor cădea și orice zid se va prăbuși la pământ. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ σεισθήσονται ἀπὸ προσώπου Κυρίου οἱ ἰχθύες τῆς θαλάσσης καὶ τὰ πετεινὰ τοῦ οὐρανοῦ καὶ τὰ θηρία τοῦ πεδίου καὶ πάντα τὰ ἑρπετὰ τὰ ἕρποντα ἐπὶ τῆς γῆς, καὶ πάντες οἱ ἄνθρωποι οἱ ἐπὶ προσώπου τῆς γῆς, καὶ ραγήσεται τά ὄρη καὶ πεσοῦνται αἱ φάραγγες, καὶ πᾶν τεῖχος ἐπὶ τὴν γῆν πεσεῖται.",
+       "greek": true,
+       "translation": "și se vor cutremura dinaintea feței Domnului peștii mării, și păsările cerului, și fiarele câmpului, și toate târâtoarele care se mișcă pe pământ, și toți oamenii care sunt pe fața pământului, și se vor despica munții, și se vor prăbuși prăpăstiile, și orice zid va cădea la pământ.",
+       "note": "Divergență de termen: Septuaginta are „se vor prăbuși prăpăstiile” (φάραγγες) unde Textul Masoretic are imaginea mai specifică a „terasele/treptele [de asediu] vor cădea” (hamadregot) — traducătorii greci au redat acest termen rar prin imaginea generală a prăpăstiilor."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:23-26",
+      "Osea 4:3",
+      "Zaharia 14:4",
+      "Zaharia 14:5"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și terasele vor cădea” — am auzit că sunt stânci drepte și suspendate, care par a fi pe cale să cadă; dar eu spun: sunt dealuri [artificiale] de turnuri, pe care le sapă de jur-împrejur și aruncă pământul la mijloc, ca să înalțe dealul, făcut în trepte-trepte, ca să stea pământul; și după ce e bine bătătorit, scot cadrele care susțin treapta."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și munții vor fi dărâmați” — așa cum s-a spus în profeția lui Zaharia: „se va despica Muntele Măslinilor”; „și terasele vor cădea” — Targum Ionatan a tradus „se vor desprinde turnurile”, iar Rashi, fie-i amintirea spre bine, a scris: am auzit că sunt stânci drepte, suspendate, care se arată ca și cum ar cădea."
+      }
+     ]
     },
     {
      "v": "38:21",
      "t": "Voi chema sabia împotriva lui [Gog] pe toți munții Mei – vorba Stăpânului meu, Domnul DUMNEZEU – sabia fiecărui om va fi împotriva fratelui său.",
      "heb": "וְקָרָאתִי עָלָיו לְכָל־הָרַי חֶרֶב נְאֻם אֲדֹנָי יְהוִה חֶרֶב אִישׁ בְּאָחִיו תִּהְיֶה׃",
-     "translit": "Vekarati alav lehol-harai herev neum Adonai ELOHIM herev iș beahiv tihie."
+     "translit": "Vekarati alav lehol-harai herev neum Adonai ELOHIM herev iș beahiv tihie.",
+     "tokens": [
+      {
+       "t": "Voi chema sabia împotriva lui [Gog] pe toți munții Mei – vorba Stăpânului meu, Domnul DUMNEZEU – "
+      },
+      {
+       "t": "sabia fiecărui om va fi împotriva fratelui său",
+       "w": "sabia fiecărui om va fi împotriva fratelui său",
+       "heb": "חֶרֶב אִישׁ בְּאָחִיו",
+       "translit": "herev iș beahiv",
+       "strong": "H251",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular + substantiv, masculin singular construct + sufix",
+       "def_ro": "sabia unui om va fi împotriva fratelui său (herev iș beahiv).",
+       "dict_ro": "Rashi explică mecanismul exact al pedepsei: sabia pe care Domnul «o cheamă» împotriva lui Gog nu e trimisă din cer, ci e chiar sabia oamenilor lui Gog înșiși, întorsă unul împotriva celuilalt — panica și confuzia internă devin propriul lor instrument de nimicire. Metzudat David adaugă că amploarea haosului va fi atât de mare încât fiecare va crede că celălalt e vrăjmaș, lovind în inima fratelui său."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְקָרָאתִי עָלָיו לְכָל־הָרַי חֶרֶב נְאֻם אֲדֹנָי יְהוִה חֶרֶב אִישׁ בְּאָחִיו תִּהְיֶה׃",
+       "translation": "Voi chema sabia împotriva lui [Gog] pe toți munții Mei – vorba Stăpânului meu, Domnul DUMNEZEU – sabia fiecărui om va fi împotriva fratelui său. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ καλέσω ἐπ’ αὐτὸν πᾶν φόβον, λέγει Κύριος· μάχαιρα ἀνθρώπου ἐπὶ τὸν ἀδελφὸν αὐτοῦ ἔσται.",
+       "greek": true,
+       "translation": "și voi chema asupra lui toată frica, zice Domnul; sabia omului va fi împotriva fratelui său.",
+       "note": "Divergență de imagine: Septuaginta are „voi chema asupra lui toată frica” unde Textul Masoretic are „voi chema sabia împotriva lui, pe toți munții Mei” — o generalizare a terorii în loc de mențiunea explicită a „munților”."
+      }
+     ],
+     "refs": [
+      "Ezechiel 14:17",
+      "Psalmul 105:16",
+      "1 Samuel 14:20",
+      "2 Cronici 20:23"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Voi chema asupra lui, pentru toți munții Mei, sabia” — ca să vină sabia asupra lor, pe el; „voi chema” — adică «voi hotărî». Și care e sabia pe care o voi chema asupra lui? Chiar sabia lor: sabia unui om va fi împotriva fratelui său."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Sabia unui om va fi împotriva fratelui său” — sabia care va veni va fi sabia unui om în inima fratelui său, din pricina mării tulburări care va veni asupra lor."
+      }
+     ]
     },
     {
      "v": "38:22",
      "t": "Îl voi pedepsi cu molimă și cu sânge, ploaie torențială, grindină, foc și pucioasă asupra lui și asupra hoardelor lui, și asupra popoarelor multe care sunt cu el.",
      "heb": "וְנִשְׁפַּטְתִּי אִתּוֹ בְּדֶבֶר וּבְדָם וְגֶשֶׁם שׁוֹטֵף וְאַבְנֵי אֶלְגָּבִישׁ אֵשׁ וְגָפְרִית אַמְטִיר עָלָיו וְעַל־אֲגַפָּיו וְעַל־עַמִּים רַבִּים אֲשֶׁר אִתּוֹ׃",
-     "translit": "Venișpateti ito bedever uvedam vegeșem șotef veavnei elgaviș eș vegofrit amtir alav veal-agapav veal-amim rabim așer ito."
+     "translit": "Venișpateti ito bedever uvedam vegeșem șotef veavnei elgaviș eș vegofrit amtir alav veal-agapav veal-amim rabim așer ito.",
+     "tokens": [
+      {
+       "t": "Îl voi pedepsi cu molimă și cu sânge, ploaie torențială, "
+      },
+      {
+       "t": "grindină",
+       "w": "grindină",
+       "heb": "אֶלְגָּבִישׁ",
+       "translit": "elgaviș",
+       "strong": "H417",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "pietre de grindină [strălucitoare] ca cristalul (avnei elgaviș).",
+       "dict_ro": "Rashi identifică «elgaviș» cu pietrele de grindină strălucitoare ca pietrele prețioase numite «gaviș» (cf. Iov 28:18), dar adaugă o tradiție din Talmud (Berahot 54b): «elgaviș» s-ar putea citi «spre spatele unui om» — chiar pietrele de grindină ale plăgii din Egipt, care au început să cadă dar au rămas suspendate în văzduh pe spatele lui Moise, cât timp acesta s-a rugat să nu mai cadă (Exodul 9:33); abia la judecata finală a lui Gog s-ar termina de revărsat aceleași pietre, ținute în așteptare mii de ani."
+      },
+      {
+       "t": ", foc și pucioasă asupra lui și asupra hoardelor lui, și asupra popoarelor multe care sunt cu el."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנִשְׁפַּטְתִּי אִתּוֹ בְּדֶבֶר וּבְדָם וְגֶשֶׁם שׁוֹטֵף וְאַבְנֵי אֶלְגָּבִישׁ אֵשׁ וְגָפְרִית אַמְטִיר עָלָיו וְעַל־אֲגַפָּיו וְעַל־עַמִּים רַבִּים אֲשֶׁר אִתּוֹ׃",
+       "translation": "Îl voi pedepsi cu molimă și cu sânge, ploaie torențială, grindină, foc și pucioasă asupra lui și asupra hoardelor lui, și asupra popoarelor multe care sunt cu el. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ κρινῶ αὐτὸν θανάτῳ καὶ αἵματι καὶ ὑετῷ κατακλύζοντι καὶ λίθοις χαλάζης, καὶ πῦρ καὶ θεῖον βρέξω ἐπ’ αὐτὸν καὶ ἐπὶ πάντας τοὺς μετ’ αὐτοῦ καὶ ἐπ’ ἔθνη πολλὰ μετ’ αὐτοῦ.",
+       "greek": true,
+       "translation": "și-l voi judeca cu moarte și cu sânge și cu ploaie potopitoare și cu pietre de grindină, și foc și pucioasă voi face să plouă asupra lui și asupra tuturor celor cu el și asupra multor neamuri cu el.",
+       "note": "Mică divergență: Septuaginta are „moarte” (θάνατος) ca prim element al judecății, unde Textul Masoretic are „molimă” (dever) — un termen general în loc de cel specific al plăgii."
+      }
+     ],
+     "refs": [
+      "Isaia 66:16",
+      "Ieremia 25:31",
+      "Zaharia 14:12-15",
+      "Ezechiel 13:11"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și pietre de elgaviș” — pietre de grindină, luminoase ca pietrele prețioase numite gaviș, cum s-a spus „raamot vegaviș” (Iov 28:18); și învățătorii noștri au spus: «el gav iș» — pietrele de grindină care au început să cadă asupra Egiptului s-au oprit în văzduh pe spatele omului Moise, care s-a rugat să nu mai cadă, cum s-a spus „n-au ajuns la pământ” (Exodul 9:33)."
+      }
+     ]
     },
     {
      "v": "38:23",
      "t": "Astfel voi fi preamărit și sfințit și voi ajunge recunoscut în ochii multor neamuri și vor ști că Eu sunt DOMNUL.”",
      "heb": "וְהִתְגַּדִּלְתִּי וְהִתְקַדִּשְׁתִּי וְנוֹדַעְתִּי לְעֵינֵי גּוֹיִם רַבִּים וְיָדְעוּ כִּי־אֲנִי יְהוָה׃",
-     "translit": "Vehitgadilti vehitkadiști venodati leeinei goim rabim veiadu ki-ani ADONAI."
+     "translit": "Vehitgadilti vehitkadiști venodati leeinei goim rabim veiadu ki-ani ADONAI.",
+     "tokens": [
+      {
+       "t": "Astfel "
+      },
+      {
+       "t": "voi fi preamărit și sfințit",
+       "w": "voi fi preamărit și sfințit",
+       "heb": "וְהִתְגַּדִּלְתִּי וְהִתְקַדִּשְׁתִּי",
+       "translit": "vehitgadilti vehitkadiști",
+       "strong": "H6942",
+       "pos": "verb, hitpael perfect consecutiv + verb, hitpael perfect consecutiv",
+       "def_ro": "și voi fi preamărit, și Mă voi sfinți (vehitgadilti vehitkadiști).",
+       "dict_ro": "Metzudat David rezumă scopul ultim al întregii confruntări cu Gog: prin acest act, Dumnezeu va fi deopotrivă preamărit, sfințit, cunoscut și vestit înaintea a multe neamuri, și toți vor afla, fără urmă de îndoială, că El este DOMNUL și nu mai este niciun altul — exact tema centrală anunțată deja în capitolul precedent, a sfințirii Numelui divin prin mântuirea lui Israel."
+      },
+      {
+       "t": " și voi ajunge recunoscut în ochii multor neamuri și vor ști că Eu sunt DOMNUL.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהִתְגַּדִּלְתִּי וְהִתְקַדִּשְׁתִּי וְנוֹדַעְתִּי לְעֵינֵי גּוֹיִם רַבִּים וְיָדְעוּ כִּי־אֲנִי יְהוָה׃",
+       "translation": "Astfel voi fi preamărit și sfințit și voi ajunge recunoscut în ochii multor neamuri și vor ști că Eu sunt DOMNUL.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ μεγαλυνθήσομαι καὶ ἁγιασθήσομαι καὶ ἐνδοξασθήσομαι καὶ γνωσθήσομαι ἐναντίον ἐθνῶν πολλῶν. καὶ γνώσονται ὅτι ἐγώ εἰμι Κύριος.",
+       "greek": true,
+       "translation": "și voi fi preamărit, și Mă voi sfinți, și Mă voi preaslăvi, și Mă voi face cunoscut înaintea multor neamuri. Și vor cunoaște că Eu sunt Domnul.",
+       "note": "Divergență prin adăugire: Septuaginta are patru verbe („preamărit, sfințit, preaslăvit, cunoscut”) unde Textul Masoretic are doar trei („preamărit, sfințit, cunoscut”) — grecii introduc „voi fi preaslăvit” ca verb suplimentar."
+      }
+     ],
+     "refs": [
+      "Ezechiel 36:23",
+      "Ezechiel 37:28",
+      "Ezechiel 39:7",
+      "Ezechiel 39:13"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Și Mă voi preamări” — și atunci voi fi preamărit și sfințit și cunoscut și vestit înaintea ochilor multor neamuri, și toți vor cunoaște că Eu sunt DOMNUL și nu mai este altul în afară de Mine."
+      }
+     ]
     },
     {
      "v": "39:1",
      "t": "Și tu, fiul omului, profețește împotriva lui Gog și spune: „Așa a spus Stăpânul meu, Domnul DUMNEZEU: «Iată, sunt împotriva ta, Gog, prințule, conducător al Meșehului și Tuvalului.",
      "heb": "וְאַתָּה בֶן־אָדָם הִנָּבֵא עַל־גּוֹג וְאָמַרְתָּ כֹּה אָמַר אֲדֹנָי יְהוִה הִנְנִי אֵלֶיךָ גּוֹג נְשִׂיא רֹאשׁ מֶשֶׁךְ וְתֻבָל׃",
-     "translit": "Veata ven-adam hinave al-Gog veamarta ko amar Adonai ELOHIM hineni eleha Gog nesi roș Meșeh ve'Tuval."
+     "translit": "Veata ven-adam hinave al-Gog veamarta ko amar Adonai ELOHIM hineni eleha Gog nesi roș Meșeh ve'Tuval.",
+     "tokens": [
+      {
+       "t": "Și tu, fiul omului, profețește împotriva lui Gog și spune: „Așa a spus Stăpânul meu, Domnul DUMNEZEU: «Iată, sunt împotriva ta, Gog, prințule, conducător al Meșehului și Tuvalului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאַתָּה בֶן־אָדָם הִנָּבֵא עַל־גּוֹג וְאָמַרְתָּ כֹּה אָמַר אֲדֹנָי יְהוִה הִנְנִי אֵלֶיךָ גּוֹג נְשִׂיא רֹאשׁ מֶשֶׁךְ וְתֻבָל׃",
+       "translation": "Și tu, fiul omului, profețește împotriva lui Gog și spune: „Așa a spus Stăpânul meu, Domnul DUMNEZEU: «Iată, sunt împotriva ta, Gog, prințule, conducător al Meșehului și Tuvalului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ σύ, υἱὲ ἀνθρώπου, προφήτευσον ἐπὶ Γὼγ καὶ εἰπόν· τάδε λέγει Κύριος· ἰδοὺ ἐγὼ ἐπὶ σὲ Γὼγ ἄρχοντα Ῥώς, Μοσὸχ καὶ Θοβὲλ",
+       "greek": true,
+       "translation": "Și tu, fiul omului, profețește împotriva lui Gog și spune: așa spune Domnul: iată, Eu [sunt] împotriva ta, Gog, conducător al lui Roș, Moșoh și Tobel",
+       "note": "Divergență reală și importantă, cu ecou în dezbateri moderne: Septuaginta citește „conducător al lui Roș” — tratând „Roș” ca pe un al treilea nume de popor/ținut nordic, alături de Moșoh și Tobel — unde Textul Masoretic are titlul „nesi roș” („prinț căpetenie/suprem”), citind „roș” ca adjectiv („cap/suprem”), nu ca substantiv propriu. Lectura grecească a alimentat identificări ulterioare (uneori cu toponime moderne din nord), complet absente din sensul literal al Textului Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 38:2",
+      "Ezechiel 38:3",
+      "Naum 2:13",
+      "Naum 3:5"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:2",
      "t": "Te voi zăpăci și te voi amăgi și te voi face să vii din îndepărtata miazănoapte și te voi aduce la munții Israelului.",
      "heb": "וְשֹׁבַבְתִּיךָ וְשִׁשֵּׁאתִיךָ וְהַעֲלִיתִיךָ מִיַּרְכְּתֵי צָפוֹן וַהֲבִאוֹתִיךָ עַל־הָרֵי יִשְׂרָאֵל׃",
-     "translit": "Veșovavtiha veșișetiha vehaalitiha miarketei tzafon vahaviotiha al-harei Israel."
+     "translit": "Veșovavtiha veșișetiha vehaalitiha miarketei tzafon vahaviotiha al-harei Israel.",
+     "tokens": [
+      {
+       "t": "Te voi zăpăci și te voi amăgi",
+       "w": "Te voi zăpăci și te voi amăgi",
+       "heb": "וְשֹׁבַבְתִּיךָ וְשִׁשֵּׁאתִיךָ",
+       "translit": "veșovavtiha veșișētiha",
+       "strong": "H8338",
+       "pos": "verb, polel perfect consecutiv + sufix + verb, piel perfect consecutiv + sufix",
+       "def_ro": "te voi zăpăci și te voi amăgi/ademeni (veșovavticha veșișeticha).",
+       "dict_ro": "Radak citează două explicații pentru «șișeticha»: tatăl său leagă termenul de rădăcina «șeș» (șase), însemnând că din toată oastea lui Gog nu va rămâne decât a șasea parte; alții îl citesc mai simplu drept «a amăgi/a ademeni» (cf. Geneza 3:13, «șarpele m-a amăgit»). Rashi preferă a doua explicație, comparând-o cu Psalmul 89:23: «vrăjmașul nu-l va amăgi»."
+      },
+      {
+       "t": " și te voi face să vii din îndepărtata miazănoapte și te voi aduce la munții Israelului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְשֹׁבַבְתִּיךָ וְשִׁשֵּׁאתִיךָ וְהַעֲלִיתִיךָ מִיַּרְכְּתֵי צָפוֹן וַהֲבִאוֹתִיךָ עַל־הָרֵי יִשְׂרָאֵל׃",
+       "translation": "Te voi zăpăci și te voi amăgi și te voi face să vii din îndepărtata miazănoapte și te voi aduce la munții Israelului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ συνάξω σε καὶ καθοδηγήσω σε καὶ ἀναβιβῶ σε ἐπ’ ἐσχάτου τοῦ βορρᾶ καὶ ἀνάξω σε ἐπὶ τὰ ὄρη τὰ ᾿Ισραήλ.",
+       "greek": true,
+       "translation": "și te voi aduna, și te voi călăuzi, și te voi ridica de la marginea nordului, și te voi duce pe munții lui Israel.",
+       "note": "Divergență reală de sens: Septuaginta are „te voi aduna... te voi călăuzi” (verbe pozitive, de conducere) unde Textul Masoretic are „te voi zăpăci și te voi amăgi/ademeni” (verbe negative, de înșelare) — ebraica sugerează o manipulare divină ironică a lui Gog spre propria pieire, greaca redă aceeași acțiune printr-un limbaj neutru de călăuzire."
+      }
+     ],
+     "refs": [
+      "Psalmul 40:14",
+      "Psalmul 68:2",
+      "Isaia 37:29",
+      "Ezechiel 38:15"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Te voi zăpăci și te voi amăgi” — pe „veșovavticha” l-am tâlcuit [mai sus]; pe „veșișeticha” unii l-au tâlcuit din „șeș” (șase), ca și cum n-ar rămâne din ei decât a șasea parte din oștire; iar alții îl tâlcuiesc după sensul lui, „te voi nimici” sau „te voi pustii”. Tatăl meu, învățătorul meu, a tâlcuit: te voi judeca cu șase judecăți, cum s-a spus «și-l voi judeca cu molimă și cu sânge și cu pietre de grindină și ploaie și foc și pucioasă» — și acestea sunt șase."
+      }
+     ]
     },
     {
      "v": "39:3",
      "t": "Îți voi lovi arcul din mâna ta stângă și voi face să-ți cadă săgețile din mâna ta dreaptă.",
      "heb": "וְהִכֵּיתִי קַשְׁתְּךָ מִיַּד שְׂמֹאולֶךָ וְחִצֶּיךָ מִיַּד יְמִינְךָ אַפִּיל׃",
-     "translit": "Vehiketi kașteha miad semoleha vehițeha miad ieminha apil."
+     "translit": "Vehiketi kașteha miad semoleha vehițeha miad ieminha apil.",
+     "tokens": [
+      {
+       "t": "Îți voi lovi arcul din mâna ta stângă și voi face să-ți cadă săgețile din mâna ta dreaptă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהִכֵּיתִי קַשְׁתְּךָ מִיַּד שְׂמֹאולֶךָ וְחִצֶּיךָ מִיַּד יְמִינְךָ אַפִּיל׃",
+       "translation": "Îți voi lovi arcul din mâna ta stângă și voi face să-ți cadă săgețile din mâna ta dreaptă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπολῶ τὸ τόξον σου ἀπὸ τῆς χειρός σου τῆς ἀριστερᾶς καὶ τὰ τοξεύματά σου ἀπὸ τῆς χειρός σου τῆς δεξιᾶς καὶ καταβαλῶ σε",
+       "greek": true,
+       "translation": "și voi nimici arcul tău din mâna ta cea stângă, și săgețile tale din mâna ta cea dreaptă, și te voi doborî",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 20:21-24",
+      "Psalmul 46:9",
+      "Ieremia 21:4",
+      "Ieremia 21:5"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:4",
      "t": "Vei cădea în munții Israelului, tu și toate hoardele tale, și toate neamurile care sunt cu tine. Te voi da ca stârv pentru orice pasăre înaripată și fiară a câmpului.",
      "heb": "עַל־הָרֵי יִשְׂרָאֵל תִּפּוֹל אַתָּה וְכָל־אֲגַפֶּיךָ וְעַמִּים אֲשֶׁר אִתָּךְ לְעֵיט צִפּוֹר כָּל־כָּנָף וְחַיַּת הַשָּׂדֶה נְתַתִּיךָ לְאָכְלָה׃",
-     "translit": "Al-harei Israel tipol ata vehol-agapeha veamim așer itah leeit tzipor kol-kanaf vehaiat hasade netatiha leohla."
+     "translit": "Al-harei Israel tipol ata vehol-agapeha veamim așer itah leeit tzipor kol-kanaf vehaiat hasade netatiha leohla.",
+     "tokens": [
+      {
+       "t": "Vei cădea în munții Israelului, tu și toate hoardele tale, și toate neamurile care sunt cu tine. Te voi da ca stârv pentru orice pasăre înaripată și fiară a câmpului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַל־הָרֵי יִשְׂרָאֵל תִּפּוֹל אַתָּה וְכָל־אֲגַפֶּיךָ וְעַמִּים אֲשֶׁר אִתָּךְ לְעֵיט צִפּוֹר כָּל־כָּנָף וְחַיַּת הַשָּׂדֶה נְתַתִּיךָ לְאָכְלָה׃",
+       "translation": "Vei cădea în munții Israelului, tu și toate hoardele tale, și toate neamurile care sunt cu tine. Te voi da ca stârv pentru orice pasăre înaripată și fiară a câmpului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐπὶ τὰ ὄρη ᾿Ισραήλ, καὶ πεσῇ σὺ καὶ πάντες οἱ περὶ σέ, καὶ τὰ ἔθνη τὰ μετὰ σοῦ δοθήσονται εἰς πλήθη ὀρνέων, παντὶ πετεινῷ καὶ πᾶσι τοῖς θηρίοις τοῦ πεδίου δέδωκά σε καταβρωθῆναι.",
+       "greek": true,
+       "translation": "pe munții lui Israel, și vei cădea tu și toți cei din preajma ta, și neamurile care sunt cu tine vor fi date mulțimilor de păsări; oricărei păsări și tuturor fiarelor câmpului te-am dat să fii mâncat.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 39:17-20",
+      "Ezechiel 38:21",
+      "Ezechiel 32:4",
+      "Ezechiel 32:5"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:5",
      "t": "Vei cădea în câmp deschis, căci Eu am vorbit – vorba Stăpânului meu, Domnul DUMNEZEU.",
      "heb": "עַל־פְּנֵי הַשָּׂדֶה תִּפּוֹל כִּי אֲנִי דִבַּרְתִּי נְאֻם אֲדֹנָי יְהוִה׃",
-     "translit": "Al-penei hasade tipol ki ani dibarti neum Adonai ELOHIM."
+     "translit": "Al-penei hasade tipol ki ani dibarti neum Adonai ELOHIM.",
+     "tokens": [
+      {
+       "t": "Vei cădea în câmp deschis, căci Eu am vorbit – vorba Stăpânului meu, Domnul DUMNEZEU."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַל־פְּנֵי הַשָּׂדֶה תִּפּוֹל כִּי אֲנִי דִבַּרְתִּי נְאֻם אֲדֹנָי יְהוִה׃",
+       "translation": "Vei cădea în câmp deschis, căci Eu am vorbit – vorba Stăpânului meu, Domnul DUMNEZEU. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐπὶ προσώπου τοῦ πεδίου πεσῇ, ὅτι ἐγὼ ἐλάλησα, λέγει Κύριος.",
+       "greek": true,
+       "translation": "pe fața câmpului vei cădea, căci Eu am grăit, zice Domnul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 29:5",
+      "Ezechiel 32:4",
+      "Ieremia 8:2",
+      "Ieremia 22:19"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:6",
      "t": "Voi trimite foc împotriva lui Magog și împotriva celor care locuiesc în siguranță pe insule și vor ști că Eu sunt DOMNUL.",
      "heb": "וְשִׁלַּחְתִּי־אֵשׁ בְּמָגוֹג וּבְיֹשְׁבֵי הָאִיִּים לָבֶטַח וְיָדְעוּ כִּי־אֲנִי יְהוָה׃",
-     "translit": "Veșilahti-eș be'Magog uveioșvei haiim lavetah veiadu ki-ani ADONAI."
+     "translit": "Veșilahti-eș be'Magog uveioșvei haiim lavetah veiadu ki-ani ADONAI.",
+     "tokens": [
+      {
+       "t": "Voi trimite foc împotriva lui Magog și împotriva celor care locuiesc în siguranță pe insule și vor ști că Eu sunt DOMNUL."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְשִׁלַּחְתִּי־אֵשׁ בְּמָגוֹג וּבְיֹשְׁבֵי הָאִיִּים לָבֶטַח וְיָדְעוּ כִּי־אֲנִי יְהוָה׃",
+       "translation": "Voi trimite foc împotriva lui Magog și împotriva celor care locuiesc în siguranță pe insule și vor ști că Eu sunt DOMNUL. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀποστελῶ πῦρ ἐπὶ Γώγ, καὶ κατοικηθήσονται αἱ νῆσοι ἐπ’ εἰρήνης· καὶ γνώσονται ὅτι ἐγώ εἰμι Κύριος.",
+       "greek": true,
+       "translation": "și voi trimite foc asupra lui Gog, și insulele vor fi locuite în pace; și vor cunoaște că Eu sunt Domnul.",
+       "note": "Mică divergență: Septuaginta are „asupra lui Gog” unde Textul Masoretic are „asupra lui Magog” — numele conducătorului în loc de numele țării/poporului."
+      }
+     ],
+     "refs": [
+      "Ezechiel 30:8",
+      "Ezechiel 30:16",
+      "Ezechiel 38:19-22",
+      "Amos 1:4"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:7",
      "t": "Îmi voi face cunoscut numele Meu cel sfânt în mijlocul poporului Meu Israel și nu Îmi voi mai profana numele Meu cel sfânt. Și neamurile vor ști că Eu sunt DOMNUL, Sfântul lui Israel.",
      "heb": "וְאֶת־שֵׁם קָדְשִׁי אוֹדִיעַ בְּתוֹךְ עַמִּי יִשְׂרָאֵל וְלֹא־אַחֵל אֶת־שֵׁם־קָדְשִׁי עוֹד וְיָדְעוּ הַגּוֹיִם כִּי־אֲנִי יְהוָה קָדוֹשׁ בְּיִשְׂרָאֵל׃",
-     "translit": "Veet-șem kodși odia betoh ami Israel velo-ahel et-șem-kodși od veiadu hagoim ki-ani ADONAI kadoș be'Israel."
+     "translit": "Veet-șem kodși odia betoh ami Israel velo-ahel et-șem-kodși od veiadu hagoim ki-ani ADONAI kadoș be'Israel.",
+     "tokens": [
+      {
+       "t": "Îmi voi face cunoscut numele Meu cel sfânt în mijlocul poporului Meu Israel și "
+      },
+      {
+       "t": "nu Îmi voi mai profana numele Meu cel sfânt",
+       "w": "nu Îmi voi mai profana numele Meu cel sfânt",
+       "heb": "וְלֹא אַחֵל אֶת שֵׁם קָדְשִׁי עוֹד",
+       "translit": "velo ahēl et șēm kadși od",
+       "strong": "H5750",
+       "pos": "particulă negativă + verb, hifil imperfect + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin singular construct + sufix + adverb",
+       "def_ro": "nu-Mi voi mai profana numele Meu cel sfânt (velo ahel et șem kodși od).",
+       "dict_ro": "Rashi explică paradoxul: umilirea lui Israel în exil e, ea însăși, o profanare a numelui divin — când neamurile spun despre israeliți «acesta e poporul DOMNULUI» și totuși Îl văd incapabil, în percepția lor, să-i salveze, propriul Nume al lui Dumnezeu e cel batjocorit prin suferința poporului Său; de aceea mântuirea finală de la Gog nu e doar despre Israel, ci despre repararea acestei onoare divine știrbite."
+      },
+      {
+       "t": ". Și neamurile vor ști că Eu sunt DOMNUL, Sfântul lui Israel."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאֶת־שֵׁם קָדְשִׁי אוֹדִיעַ בְּתוֹךְ עַמִּי יִשְׂרָאֵל וְלֹא־אַחֵל אֶת־שֵׁם־קָדְשִׁי עוֹד וְיָדְעוּ הַגּוֹיִם כִּי־אֲנִי יְהוָה קָדוֹשׁ בְּיִשְׂרָאֵל׃",
+       "translation": "Îmi voi face cunoscut numele Meu cel sfânt în mijlocul poporului Meu Israel și nu Îmi voi mai profana numele Meu cel sfânt. Și neamurile vor ști că Eu sunt DOMNUL, Sfântul lui Israel. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τὸ ὄνομά μου τὸ ἅγιον γνωσθήσεται ἐν μέσῳ λαοῦ μου ᾿Ισραήλ, καὶ οὐ βεβηλωθήσεται τὸ ὄνομά μου τὸ ἅγιον οὐκέτι· καὶ γνώσονται τὰ ἔθνη ὅτι ἐγώ εἰμι Κύριος ἅγιος ἐν ᾿Ισραήλ.",
+       "greek": true,
+       "translation": "și numele Meu cel sfânt se va face cunoscut în mijlocul poporului Meu Israel, și nu se va mai pângări numele Meu cel sfânt niciodată; și vor cunoaște neamurile că Eu sunt Domnul cel sfânt în Israel.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 39:22",
+      "Ezechiel 38:16",
+      "Ezechiel 38:23",
+      "Ezechiel 20:9"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și nu voi mai profana numele Meu cel sfânt” — căci înjosirea lui Israel este chiar profanarea Numelui Său, atunci când li se spune «acesta e poporul DOMNULUI» și El nu-i poate izbăvi."
+      }
+     ]
     },
     {
      "v": "39:8",
      "t": "Iată, a venit și s-a întâmplat – vorba Stăpânului meu, Domnul DUMNEZEU. Aceasta este ziua de care am vorbit.",
      "heb": "הִנֵּה בָאָה וְנִהְיָתָה נְאֻם אֲדֹנָי יְהוִה הוּא הַיּוֹם אֲשֶׁר דִּבַּרְתִּי׃",
-     "translit": "Hine vaa venihiata neum Adonai ELOHIM hu haiom așer dibarti."
+     "translit": "Hine vaa venihiata neum Adonai ELOHIM hu haiom așer dibarti.",
+     "tokens": [
+      {
+       "t": "Iată, a venit și s-a întâmplat – vorba Stăpânului meu, Domnul DUMNEZEU. Aceasta este ziua de care am vorbit."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הִנֵּה בָאָה וְנִהְיָתָה נְאֻם אֲדֹנָי יְהוִה הוּא הַיּוֹם אֲשֶׁר דִּבַּרְתִּי׃",
+       "translation": "Iată, a venit și s-a întâmplat – vorba Stăpânului meu, Domnul DUMNEZEU. Aceasta este ziua de care am vorbit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἰδοὺ ἥκει, καὶ γνώσῃ ὅτι ἔσται, λέγει Κύριος Κύριος· αὕτη ἐστὶν ἡ ἡμέρα, ἐν ᾗ ἐλάλησα.",
+       "greek": true,
+       "translation": "iată, vine, și vei cunoaște că va fi, zice Domnul Domnul; aceasta e ziua despre care am grăit.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 7:2-10",
+      "Isaia 33:10-12",
+      "Ezechiel 38:17"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:9",
      "t": "Atunci locuitorii orașelor Israelului vor ieși și vor aprinde focuri și le vor hrăni cu arme, scuturi și catarame, cu arcuri și cu săgeți, cu bâte și sulițe; și vor ține focul aprins vreme de șapte ani.",
      "heb": "וְיָצְאוּ יֹשְׁבֵי עָרֵי יִשְׂרָאֵל וּבִעֲרוּ וְהִשִּׂיקוּ בְּנֶשֶׁק וּמָגֵן וְצִנָּה בְּקֶשֶׁת וּבְחִצִּים וּבְמַקֵּל יָד וּבְרֹמַח וּבִעֲרוּ בָהֶם אֵשׁ שֶׁבַע שָׁנִים׃",
-     "translit": "Veiatzeu ioșvei arei Israel uviaru vehisiku beneșek umagen vețina bekeșet uvehițim uvemakel iaduveromah uviaru vahem eș șeva șanim."
+     "translit": "Veiatzeu ioșvei arei Israel uviaru vehisiku beneșek umagen vețina bekeșet uvehițim uvemakel iaduveromah uviaru vahem eș șeva șanim.",
+     "tokens": [
+      {
+       "t": "Atunci locuitorii orașelor Israelului vor ieși și vor aprinde focuri și le vor hrăni cu arme, scuturi și catarame, cu arcuri și cu săgeți, cu bâte și sulițe; și vor ține focul aprins vreme de șapte ani."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְיָצְאוּ יֹשְׁבֵי עָרֵי יִשְׂרָאֵל וּבִעֲרוּ וְהִשִּׂיקוּ בְּנֶשֶׁק וּמָגֵן וְצִנָּה בְּקֶשֶׁת וּבְחִצִּים וּבְמַקֵּל יָד וּבְרֹמַח וּבִעֲרוּ בָהֶם אֵשׁ שֶׁבַע שָׁנִים׃",
+       "translation": "Atunci locuitorii orașelor Israelului vor ieși și vor aprinde focuri și le vor hrăni cu arme, scuturi și catarame, cu arcuri și cu săgeți, cu bâte și sulițe; și vor ține focul aprins vreme de șapte ani. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐξελεύσονται οἱ κατοικοῦντες τὰς πόλεις ᾿Ισραὴλ καὶ καύσουσιν ἐν τοῖς ὅπλοις, πέλταις καὶ κοντοῖς καὶ τόξοις καὶ τοξεύμασι καὶ ῥάβδοις χειρῶν καὶ λόγχαις· καὶ καύσουσιν ἐν αὐτοῖς πῦρ ἑπτὰ ἔτη.",
+       "greek": true,
+       "translation": "și vor ieși cei ce locuiesc cetățile lui Israel și vor arde armele — scuturi mici și lănci lungi, și arcuri și săgeți, și toiege de mână, și sulițe; și vor arde în ele foc șapte ani.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 111:2",
+      "Psalmul 111:3",
+      "Isaia 66:24",
+      "Ezechiel 39:10"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:10",
      "t": "Nu vor căra lemn de pe câmp și nici nu-l vor tăia din pădure, căci armele vor hrăni focurile. Îi voi despuia pe cei care i-au despuiat și îi vor prăda pe cei care i-au prădat – vorba Stăpânului meu, Domnul DUMNEZEU.",
      "heb": "וְלֹא־יִשְׂאוּ עֵצִים מִן־הַשָּׂדֶה וְלֹא יַחְטְבוּ מִן־הַיְּעָרִים כִּי בַנֶּשֶׁק יְבַעֲרוּ־אֵשׁ וְשָׁלְלוּ אֶת־שֹׁלְלֵיהֶם וּבָזְזוּ אֶת־בֹּזְזֵיהֶם נְאֻם אֲדֹנָי יְהוִה׃",
-     "translit": "Velo-ișeu ețim min-hasade velo iahtevu min-haiearim ki vaneșek ievaaru-eș veșalelu et-șoleleihem uvazezu et-bozezeihem neum Adonai ELOHIM."
+     "translit": "Velo-ișeu ețim min-hasade velo iahtevu min-haiearim ki vaneșek ievaaru-eș veșalelu et-șoleleihem uvazezu et-bozezeihem neum Adonai ELOHIM.",
+     "tokens": [
+      {
+       "t": "Nu vor căra lemn de pe câmp și nici nu-l vor tăia din pădure, căci armele vor hrăni focurile. Îi voi despuia pe cei care i-au despuiat și îi vor prăda pe cei care i-au prădat – vorba Stăpânului meu, Domnul DUMNEZEU."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְלֹא־יִשְׂאוּ עֵצִים מִן־הַשָּׂדֶה וְלֹא יַחְטְבוּ מִן־הַיְּעָרִים כִּי בַנֶּשֶׁק יְבַעֲרוּ־אֵשׁ וְשָׁלְלוּ אֶת־שֹׁלְלֵיהֶם וּבָזְזוּ אֶת־בֹּזְזֵיהֶם נְאֻם אֲדֹנָי יְהוִה׃",
+       "translation": "Nu vor căra lemn de pe câmp și nici nu-l vor tăia din pădure, căci armele vor hrăni focurile. Îi voi despuia pe cei care i-au despuiat și îi vor prăda pe cei care i-au prădat – vorba Stăpânului meu, Domnul DUMNEZEU. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ οὐ μὴ λάβωσι ξύλα ἐκ τοῦ πεδίου οὐδὲ μὴ κόψωσιν ἐκ τῶν δρυμῶν, ἀλλ’ ἢ τὰ ὅπλα κατακαύσουσι πυρί· καὶ προνομεύσουσι τοὺς προνομεύσαντας αὐτοὺς καὶ σκυλεύσουσι τοὺς σκυλεύσαντας αὐτούς, λέγει Κύριος.",
+       "greek": true,
+       "translation": "și nu vor lua deloc lemne din câmp, nici nu vor tăia din păduri, ci doar armele le vor arde cu foc; și vor prăda pe cei ce i-au prădat, și vor despuia pe cei ce i-au despuiat, zice Domnul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 3:22",
+      "Exodul 12:36",
+      "Isaia 14:2",
+      "Isaia 33:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:11",
      "t": "În ziua aceea îi voi da lui Gog un loc de înmormântare în Israel, Valea Trecătorilor, la răsărit de Marea [Kineret], care blochează calea trecătorilor, și acolo îl vor înmormânta pe Gog și toată hoarda lui, și o vor numi Valea Hoardei lui Gog.",
      "heb": "וְהָיָה בַיּוֹם הַהוּא אֶתֵּן לְגוֹג מְקוֹם־שָׁם קֶבֶר בְּיִשְׂרָאֵל גֵּי הָעֹבְרִים קִדְמַת הַיָּם וְחֹסֶמֶת הִיא אֶת־הָעֹבְרִים וְקָבְרוּ שָׁם אֶת־גּוֹג וְאֶת־כָּל־הֲמוֹנֹה וְקָרְאוּ גֵּיא הֲמוֹן גּוֹג׃",
-     "translit": "Vehaia vaiom hahu eten le'Gog mekom-șam kever be'Israel ghei haovrim kidmat haiam vehoșemet hi et-haovrim vekaveru șam et-Gog veet-kol-hamono vekareu Ghei Hamon Gog."
+     "translit": "Vehaia vaiom hahu eten le'Gog mekom-șam kever be'Israel ghei haovrim kidmat haiam vehoșemet hi et-haovrim vekaveru șam et-Gog veet-kol-hamono vekareu Ghei Hamon Gog.",
+     "tokens": [
+      {
+       "t": "În ziua aceea îi voi da lui Gog un loc de înmormântare în Israel, "
+      },
+      {
+       "t": "Valea Trecătorilor",
+       "w": "Valea Trecătorilor",
+       "heb": "גֵּי הָעֹבְרִים",
+       "translit": "gē haovrim",
+       "strong": "H5674",
+       "pos": "substantiv, masculin și feminin singular construct + verb, qal participiu",
+       "def_ro": "Valea Trecătorilor (ghei haovrim).",
+       "dict_ro": "Rashi identifică această vale cu drumul pe care călătorii treceau în mod obișnuit pe lângă Marea Chineret pentru a aduce roadele vestite ale Ghinosarului; o tradiție din Midraș leagă chiar alegerea acestui loc de binecuvântarea dată fiilor lui Noe: Sem, care a acoperit goliciunea tatălui său, a fost răsplătit cu franjurii rugăciunii, iar Iafet, pentru aceeași faptă, a fost răsplătit cu o înmormântare în Țara lui Israel — iar Gog, descendent din Iafet, moare și e înmormântat chiar aici, în Țara sfântă, ca o răsplată stranie, păstrată peste generații, pentru fapta strămoșului său."
+      },
+      {
+       "t": ", la răsărit de Marea [Kineret], care blochează calea trecătorilor, și acolo îl vor înmormânta pe Gog și toată hoarda lui, și o vor numi Valea Hoardei lui Gog."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיָה בַיּוֹם הַהוּא אֶתֵּן לְגוֹג מְקוֹם־שָׁם קֶבֶר בְּיִשְׂרָאֵל גֵּי הָעֹבְרִים קִדְמַת הַיָּם וְחֹסֶמֶת הִיא אֶת־הָעֹבְרִים וְקָבְרוּ שָׁם אֶת־גּוֹג וְאֶת־כָּל־הֲמוֹנֹה וְקָרְאוּ גֵּיא הֲמוֹן גּוֹג׃",
+       "translation": "În ziua aceea îi voi da lui Gog un loc de înmormântare în Israel, Valea Trecătorilor, la răsărit de Marea [Kineret], care blochează calea trecătorilor, și acolo îl vor înmormânta pe Gog și toată hoarda lui, și o vor numi Valea Hoardei lui Gog. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ δώσω τῷ Γὼγ τόπον ὀνομαστόν, μνημεῖον ἐν ᾿Ισραήλ, τὸ πολυάνδριον τῶν ἐπελθόντων πρὸς τῇ θαλάσσῃ, καὶ περιοικοδομήσουσι τὸ περιστόμιον τῆς φάραγγος.",
+       "greek": true,
+       "translation": "și va fi, în ziua aceea, voi da lui Gog un loc vestit, un mormânt în Israel, groapa comună a celor ce au venit, lângă mare, și vor zidi de jur-împrejur gura văii.",
+       "note": "Divergență de termen: Septuaginta are „groapa comună... lângă mare” unde Textul Masoretic are „Valea Trecătorilor, la răsărit de mare” — grecii omit numele specific al văii și detaliul geografic al trecătorilor, redând doar sensul general de loc de înmormântare colectivă."
+      }
+     ],
+     "refs": [
+      "Ezechiel 47:18",
+      "Numeri 34:11",
+      "Numeri 11:34"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Îi voi da lui Gog un loc, acolo [va fi] mormânt” — pentru că el e din sămânța lui Iafet, care a acoperit goliciunea tatălui său, de aceea a meritat înmormântare (Bereșit Raba 36:6). „Valea Trecătorilor” — valea pe care o trec [călătorii] spre Marea [Chineret], ca să aducă de acolo mereu roadele Ghinosarului. „Și blochează calea trecătorilor” — mulțimea trupurilor care vor cădea acolo va face pe trecători să se abțină de la trecere; de aceea vor trece peste ele și le vor înmormânta."
+      }
+     ]
     },
     {
      "v": "39:12",
      "t": "Casa lui Israel îi vor înmormânta vreme de șapte luni, ca să curețe țara.",
      "heb": "וּקְבָרוּם בֵּית יִשְׂרָאֵל לְמַעַן טַהֵר אֶת־הָאָרֶץ שִׁבְעָה חֳדָשִׁים׃",
-     "translit": "Ukevarum beit Israel lemaan taher et-haareț șiva hodașim."
+     "translit": "Ukevarum beit Israel lemaan taher et-haareț șiva hodașim.",
+     "tokens": [
+      {
+       "t": "Casa lui Israel îi vor înmormânta vreme de "
+      },
+      {
+       "t": "șapte luni",
+       "w": "șapte luni",
+       "heb": "שִׁבְעָה חֳדָשִׁים",
+       "translit": "șiva hodașim",
+       "strong": "H2320",
+       "pos": "numeral + substantiv, masculin plural",
+       "def_ro": "șapte luni (șivah hodașim).",
+       "dict_ro": "Radak explică de ce procesul de înmormântare durează atât de mult: Dumnezeu a poruncit prin Tora ca țara să nu rămână pângărită de trupuri neînmormântate, așa cum a poruncit și Iosua pentru cei cinci regi, dar amploarea măcelului lui Gog e atât de uriașă încât înmormântarea organizată a israeliților durează șapte luni întregi — o cifră care, prin însăși mărimea ei, măsoară proporția apocaliptică a bătăliei."
+      },
+      {
+       "t": ", ca să curețe țara."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּקְבָרוּם בֵּית יִשְׂרָאֵל לְמַעַן טַהֵר אֶת־הָאָרֶץ שִׁבְעָה חֳדָשִׁים׃",
+       "translation": "Casa lui Israel îi vor înmormânta vreme de șapte luni, ca să curețe țara. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ κατορύξουσιν ἐκεῖ τὸν Γὼγ καὶ πᾶν τὸ πλῆθος αὐτοῦ, καὶ κληθήσεται Τὸ γαὶ τὸ πολυάνδριον τοῦ Γώγ.",
+       "greek": true,
+       "translation": "și vor îngropa acolo pe Gog și toată mulțimea lui, și se va numi «Valea gropii comune a lui Gog».",
+       "note": "Divergență de poziție: conținutul acesta corespunde parțial numirii din Textul Masoretic v.11 — Septuaginta a comprimat și regrupat materialul diferit față de numerotarea ebraică, verset cu verset, în această porțiune a capitolului."
+      }
+     ],
+     "refs": [
+      "Ezechiel 39:14",
+      "Ezechiel 39:16",
+      "Numeri 19:16",
+      "Deuteronomul 21:23"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și-i vor înmormânta” — Cel Sfânt a poruncit să fie înmormântați cei spânzurați în Israel, și a spus «să nu-ți spurci țara», căci mortul neînmormântat e spurcarea țării; și tot așa a poruncit Iosua pentru cei cinci regi, și tot așa Israel va îngropa mulțimea lui Gog, ca să cureți țara. „Șapte luni” — șapte luni se vor ocupa cu înmormântarea lor."
+      }
+     ]
     },
     {
      "v": "39:13",
      "t": "Și tot poporul țării va înmormânta, și [asta] le va aduce renume; ziua în care Îmi arăt slava – vorba Stăpânului meu, Domnul DUMNEZEU.",
      "heb": "וְקָבְרוּ כָל־עַם הָאָרֶץ וְהָיָה לָהֶם לְשֵׁם יוֹם הִכָּבְדִי נְאֻם אֲדֹנָי יְהוִה׃",
-     "translit": "Vekaveru kol-am haareț vehaia lahem leșem iom hikavdi neum Adonai ELOHIM."
+     "translit": "Vekaveru kol-am haareț vehaia lahem leșem iom hikavdi neum Adonai ELOHIM.",
+     "tokens": [
+      {
+       "t": "Și tot poporul țării va înmormânta, și [asta] "
+      },
+      {
+       "t": "le va aduce renume",
+       "w": "le va aduce renume",
+       "heb": "וְהָיָה לָהֶם לְשֵׁם",
+       "translit": "vehaia lahem leșēm",
+       "strong": "H8034",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + substantiv, masculin singular",
+       "def_ro": "și le va fi [de] renume (vehaia lahem leșēm).",
+       "dict_ro": "Rashi observă efectul moral neașteptat al acestei înmormântări: toate neamurile pământului vor povesti, spre lauda lui Israel, o milă fără pereche — «nu există popor mai milostiv ca acesta; se găsește vreun om care să-și înmormânteze cu mâna lui vrăjmașul care a venit să-l ucidă?» — un renume câștigat nu prin victorie, ci prin grija arătată chiar și trupurilor celor ce au venit să-i nimicească."
+      },
+      {
+       "t": "; ziua în care Îmi arăt slava – vorba Stăpânului meu, Domnul DUMNEZEU."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְקָבְרוּ כָל־עַם הָאָרֶץ וְהָיָה לָהֶם לְשֵׁם יוֹם הִכָּבְדִי נְאֻם אֲדֹנָי יְהוִה׃",
+       "translation": "Și tot poporul țării va înmormânta, și [asta] le va aduce renume; ziua în care Îmi arăt slava – vorba Stăpânului meu, Domnul DUMNEZEU. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ κατορύξουσιν αὐτοὺς οἶκος ᾿Ισραήλ, ἵνα καθαρισθῇ ἡ γῆ, ἐν ἑπταμήνῳ· καὶ κατορύξουσιν αὐτοὺς πᾶς ὁ λαὸς τῆς γῆς, καὶ ἔσται αὐτοῖς ὀνομαστὸν ᾗ ἡμέρᾳ ἐδοξάσθη, λέγει Κύριος.",
+       "greek": true,
+       "translation": "și îi vor îngropa [pe ei] casa lui Israel, ca să se curețe țara, în [răstimp de] șapte luni; și-i vor îngropa tot poporul țării, și le va fi renume, în ziua în care [Domnul] a fost preaslăvit, zice Domnul.",
+       "note": "Corespondență apropiată cu Textul Masoretic (conținutul versetelor 12-13 ebraice e regrupat diferit în șirul grecesc)."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 26:19",
+      "Psalmul 149:6-9",
+      "Ieremia 33:9",
+      "Ezechiel 39:21"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și-i va înmormânta tot poporul țării” — cei ce au murit acolo. „Și le va fi [de] renume” — toți slujitorii idolilor vor povesti numele lor spre laudă și spre milă: nu există popor mai milostiv ca acesta; se găsește om care să-și înmormânteze vrăjmașul care s-a sculat să-l ucidă?"
+      }
+     ]
     },
     {
      "v": "39:14",
      "t": "Vor pune deoparte oameni care să străbată țara ca să înmormânteze, continuu, împreună cu trecătorii, pe cei rămași pe câmpurile deschise, ca să o curețe; la capătul a șapte luni vor începe să caute.",
      "heb": "וְאַנְשֵׁי תָמִיד יַבְדִּילוּ עֹבְרִים בָּאָרֶץ מְקַבְּרִים אֶת־הָעֹבְרִים אֶת־הַנּוֹתָרִים עַל־פְּנֵי הָאָרֶץ לְטַהֲרָהּ מִקְצֵה שִׁבְעָה־חֳדָשִׁים יַחְקֹרוּ׃",
-     "translit": "Veanșei tamid iavdilu ovrim baareț mekaberim et-haovrim et-hanotarim al-penei haareț letahara miktze șiva-hodașim iahkoru."
+     "translit": "Veanșei tamid iavdilu ovrim baareț mekaberim et-haovrim et-hanotarim al-penei haareț letahara miktze șiva-hodașim iahkoru.",
+     "tokens": [
+      {
+       "t": "Vor pune deoparte oameni care să străbată țara ca să înmormânteze, continuu, împreună cu trecătorii, pe cei rămași pe câmpurile deschise, ca să o curețe; la capătul a șapte luni vor începe să caute."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאַנְשֵׁי תָמִיד יַבְדִּילוּ עֹבְרִים בָּאָרֶץ מְקַבְּרִים אֶת־הָעֹבְרִים אֶת־הַנּוֹתָרִים עַל־פְּנֵי הָאָרֶץ לְטַהֲרָהּ מִקְצֵה שִׁבְעָה־חֳדָשִׁים יַחְקֹרוּ׃",
+       "translation": "Vor pune deoparte oameni care să străbată țara ca să înmormânteze, continuu, împreună cu trecătorii, pe cei rămași pe câmpurile deschise, ca să o curețe; la capătul a șapte luni vor începe să caute. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἄνδρας διὰ παντὸς διαστελοῦσιν ἐπιπορευομένους τὴν γῆν θάψαι τοὺς καταλελειμμένους ἐπὶ προσώπου τῆς γῆς, καθαρίσαι αὐτὴν μετὰ τὴν ἑπτάμηνον, καὶ ἐκζητήσουσι.",
+       "greek": true,
+       "translation": "și vor pune deoparte, necurmat, oameni care să străbată țara, ca să-i înmormânteze pe cei rămași pe fața țării, s-o curețe după cele șapte luni, și vor cerceta.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 19:11-19"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:15",
      "t": "Când cei care străbat țara vor vedea osul cuiva, vor ridica un semn lângă el, până când groparii îl vor înmormânta în Valea Hoardei lui Gog.",
      "heb": "וְעָבְרוּ הָעֹבְרִים בָּאָרֶץ וְרָאָה עֶצֶם אָדָם וּבָנָה אֶצְלוֹ צִיּוּן עַד קָבְרוּ אֹתוֹ הַמְקַבְּרִים אֶל־גֵּיא הֲמוֹן גּוֹג׃",
-     "translit": "Veavru haovrim baareț veraá ețem adam uvana etzlo tziun ad kaveru oto hamekaberim el-Ghei Hamon Gog."
+     "translit": "Veavru haovrim baareț veraá ețem adam uvana etzlo tziun ad kaveru oto hamekaberim el-Ghei Hamon Gog.",
+     "tokens": [
+      {
+       "t": "Când cei care străbat țara vor vedea osul cuiva, vor ridica un semn lângă el, până când groparii îl vor înmormânta în Valea Hoardei lui Gog."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעָבְרוּ הָעֹבְרִים בָּאָרֶץ וְרָאָה עֶצֶם אָדָם וּבָנָה אֶצְלוֹ צִיּוּן עַד קָבְרוּ אֹתוֹ הַמְקַבְּרִים אֶל־גֵּיא הֲמוֹן גּוֹג׃",
+       "translation": "Când cei care străbat țara vor vedea osul cuiva, vor ridica un semn lângă el, până când groparii îl vor înmormânta în Valea Hoardei lui Gog. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ πᾶς ὁ διαπορευόμενος τὴν γῆν καὶ ἰδὼν ὀστοῦν ἀνθρώπου οἰκοδομήσει παρ’ αὐτῷ σημεῖον, ἕως ὅτου θάψωσιν αὐτὸ οἱ θάπτοντες εἰς τὸ γαὶ τὸ πολυάνδριον τοῦ Γώγ·",
+       "greek": true,
+       "translation": "și tot cel ce va străbate țara și va vedea un os de om va zidi lângă el un semn, până ce îl vor înmormânta groparii în valea gropii comune a lui Gog;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Luca 11:44"
+     ],
+     "commentaries": []
     },
     {
      "v": "39:16",
      "t": "Și va fi acolo și o cetate numită Hamona. Și vor curăța țara!",
      "heb": "וְגַם שֶׁם־עִיר הֲמוֹנָה וְטִהֲרוּ הָאָרֶץ׃",
-     "translit": "Vegam șem-ir Hamona vetihru haareț."
+     "translit": "Vegam șem-ir Hamona vetihru haareț.",
+     "tokens": [
+      {
+       "t": "Și va fi acolo și o cetate numită "
+      },
+      {
+       "t": "Hamona",
+       "w": "Hamona",
+       "heb": "הֲמוֹנָה",
+       "translit": "hamona",
+       "strong": "H1997",
+       "pos": "nume propriu",
+       "def_ro": "Hamona [«cea zgomotoasă/mulțimea»] (Hamona).",
+       "dict_ro": "Rashi explică numele cetății ca derivat din «homiyah» — zgomotoasă, vuitoare de mulțime (același cuvânt din Isaia 22:2, despre o cetate «plină de vuiet») — cetatea apropiată de vale va purta pentru totdeauna amintirea mulțimii înmormântate alături. Tot Rashi citește «veTiharu» cu dublu sens: nu doar curățarea rituală de la trupurile neînmormântate, ci și reluarea de către Israel a aducerii dijmelor și darurilor sfinte în țara redevenită curată."
+      },
+      {
+       "t": ". Și vor curăța țara!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגַם שֶׁם־עִיר הֲמוֹנָה וְטִהֲרוּ הָאָרֶץ׃",
+       "translation": "Și va fi acolo și o cetate numită Hamona. Și vor curăța țara! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ γὰρ τὸ ὄνομα τῆς πόλεως Πολυάνδριον· καὶ καθαρισθήσεται ἡ γῆ.",
+       "greek": true,
+       "translation": "și, de altfel, numele cetății [va fi] Poliandrion [«groapa comună»]; și se va curăța țara.",
+       "note": "Divergență de termen: Septuaginta traduce numele propriu ebraic „Hamona” prin termenul grecesc comun „Poliandrion” (groapă comună/cimitir de masă), pierzând jocul de cuvinte ebraic cu «homiyah» (zgomotul mulțimii) explorat de Rashi, și redându-l ca pe un simplu substantiv descriptiv, nu ca pe un toponim nou."
+      }
+     ],
+     "refs": [
+      "Isaia 22:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și tot așa, numele cetății [va fi] Hamona” — și cetatea a cărei nume e «homiyah» din pricina mulțimii mari de oameni — ea însăși, oastea locuitorilor ei, vor fi înmormântați acolo. „Și vor curăți” — pe Israel, în țară, de la necurățiile lor, și [vor relua] darurile lor sfinte."
+      }
+     ]
     }
    ]
   },
