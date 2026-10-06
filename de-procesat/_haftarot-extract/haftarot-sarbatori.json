@@ -8473,115 +8473,676 @@
      "v": "3:5",
      "t": "Ioșua a spus poporului: „Sfințiți-vă, căci mâine DOMNUL va face minuni în mijlocul vostru.”",
      "heb": "וַיֹּאמֶר יְהוֹשֻׁעַ אֶל־הָעָם הִתְקַדָּשׁוּ כִּי מָחָר יַעֲשֶׂה יְהוָה בְּקִרְבְּכֶם נִפְלָאוֹת׃",
-     "translit": "Vaiomer Iehoșua el-haam hitkadașu ki mahar iaase ADONAI bekirbehem niflaot."
+     "translit": "Vaiomer Iehoșua el-haam hitkadașu ki mahar iaase ADONAI bekirbehem niflaot.",
+     "tokens": [
+      {
+       "t": "Ioșua a spus poporului: „Sfințiți-vă, căci mâine DOMNUL va face minuni în mijlocul vostru.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוֹשֻׁעַ אֶל־הָעָם הִתְקַדָּשׁוּ כִּי מָחָר יַעֲשֶׂה יְהוָה בְּקִרְבְּכֶם נִפְלָאוֹת׃",
+       "translation": "Ioșua a spus poporului: „Sfințiți-vă, căci mâine DOMNUL va face minuni în mijlocul vostru.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ᾿Ιησοῦς τῷ λαῷ· ἁγνίσασθε εἰς αὔριον, ὅτι αὔριον ποιήσει Κύριος ἐν ὑμῖν θαυμαστά.",
+       "greek": true,
+       "translation": "Și a spus Iisus poporului: «Curățiți-vă pentru mâine, căci mâine va face Domnul printre voi lucruri minunate.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 19:10-15",
+      "Leviticul 20:7"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:6",
      "t": "Și Ioșua a spus preoților: „Purtați Chivotul Legământului și treceți în fruntea poporului.” Și ei au purtat Chivotul Legământului și au trecut în fruntea poporului.",
      "heb": "וַיֹּאמֶר יְהוֹשֻׁעַ אֶל־הַכֹּהֲנִים לֵאמֹר שְׂאוּ אֶת־אֲרוֹן הַבְּרִית וְעִבְרוּ לִפְנֵי הָעָם וַיִּשְׂאוּ אֶת־אֲרוֹן הַבְּרִית וַיֵּלְכוּ לִפְנֵי הָעָם׃",
-     "translit": "Vaiomer Iehoșua el-hakohanim lemor seu et-aron haberit veivru lifnei haam vaișeu et-aron haberit vaielhu lifnei haam."
+     "translit": "Vaiomer Iehoșua el-hakohanim lemor seu et-aron haberit veivru lifnei haam vaișeu et-aron haberit vaielhu lifnei haam.",
+     "tokens": [
+      {
+       "t": "Și Ioșua a spus preoților: „Purtați Chivotul Legământului și treceți în fruntea poporului.” Și ei au purtat Chivotul Legământului și au trecut în fruntea poporului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוֹשֻׁעַ אֶל־הַכֹּהֲנִים לֵאמֹר שְׂאוּ אֶת־אֲרוֹן הַבְּרִית וְעִבְרוּ לִפְנֵי הָעָם וַיִּשְׂאוּ אֶת־אֲרוֹן הַבְּרִית וַיֵּלְכוּ לִפְנֵי הָעָם׃",
+       "translation": "Și Ioșua a spus preoților: „Purtați Chivotul Legământului și treceți în fruntea poporului.” Și ei au purtat Chivotul Legământului și au trecut în fruntea poporului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ᾿Ιησοῦς τοῖς ἱερεῦσιν· ἄρατε τὴν κιβωτὸν τῆς διαθήκης Κυρίου καὶ προπορεύεσθε τοῦ λαοῦ. καὶ ᾖραν οἱ ἱερεῖς τὴν κιβωτὸν τῆς διαθήκης Κυρίου καὶ ἐπορεύοντο ἔμπροσθεν τοῦ λαοῦ.",
+       "greek": true,
+       "translation": "Și a spus Iisus preoților: «Luați chivotul legământului Domnului și mergeți înaintea poporului.» Și au luat preoții chivotul legământului Domnului și mergeau înaintea poporului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 10:33"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:7",
      "t": "Iar DOMNUL i-a spus lui Ioșua: „În ziua aceasta voi inaugura măreția ta în ochii întregului Israel, pentru ca ei să știe că așa cum am fost cu Moise, tot așa voi fi și cu tine.”",
      "heb": "וַיֹּאמֶר יְהוָה אֶל־יְהוֹשֻׁעַ הַיּוֹם הַזֶּה אָחֵל גַּדֶּלְךָ בְּעֵינֵי כָּל־יִשְׂרָאֵל אֲשֶׁר יֵדְעוּן כִּי כַּאֲשֶׁר הָיִיתִי עִם־מֹשֶׁה אֶהְיֶה עִמָּךְ׃",
-     "translit": "Vaiomer ADONAI el-Iehoșua haiom haze ahel gadelha beeinéi kol-Israel așer iedeun ki kaașer haiti im-Moșe ehie imah."
+     "translit": "Vaiomer ADONAI el-Iehoșua haiom haze ahel gadelha beeinéi kol-Israel așer iedeun ki kaașer haiti im-Moșe ehie imah.",
+     "tokens": [
+      {
+       "t": "Iar DOMNUL i-a spus lui Ioșua: „În ziua aceasta voi inaugura măreția ta în ochii întregului Israel, pentru ca ei să știe că așa cum am fost cu Moise, tot așa voi fi și cu tine.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוָה אֶל־יְהוֹשֻׁעַ הַיּוֹם הַזֶּה אָחֵל גַּדֶּלְךָ בְּעֵינֵי כָּל־יִשְׂרָאֵל אֲשֶׁר יֵדְעוּן כִּי כַּאֲשֶׁר הָיִיתִי עִם־מֹשֶׁה אֶהְיֶה עִמָּךְ׃",
+       "translation": "Iar DOMNUL i-a spus lui Ioșua: „În ziua aceasta voi inaugura măreția ta în ochii întregului Israel, pentru ca ei să știe că așa cum am fost cu Moise, tot așa voi fi și cu tine.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Κύριος πρὸς ᾿Ιησοῦν· ἐν τῇ ἡμέρᾳ ταύτῃ ἄρχομαι ὑψῶσαί σε κατενώπιον πάντων υἱῶν ᾿Ισραήλ, ἵνα γνῶσιν ὅτι καθότι ἤμην μετὰ Μωυσῆ, οὕτως ἔσομαι καὶ μετὰ σοῦ.",
+       "greek": true,
+       "translation": "Și a spus Domnul către Iisus: «În ziua aceasta începe să te înalț înaintea tuturor fiilor lui Israel, ca să cunoască ei că, precum am fost cu Moise, așa voi fi și cu tine.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 1:5",
+      "Iosua 4:14"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:2",
      "t": "La vremea aceea, DOMNUL i-a spus lui Ioșua: „Fă-ți niște cuțite ascuțite și întoarce-te și circumcide-i pe copiii lui Israel a doua oară.”",
      "heb": "בָּעֵת הַהִיא אָמַר יְהוָה אֶל־יְהוֹשֻׁעַ עֲשֵׂה לְךָ חַרְבוֹת צֻרִים וְשׁוּב מֹל אֶת־בְּנֵי־יִשְׂרָאֵל שֵׁנִית׃",
-     "translit": "Baet hahi amar ADONAI el-Iehoșua ase leha harvot țurim veșuv mol et-benei-Israel șenit."
+     "translit": "Baet hahi amar ADONAI el-Iehoșua ase leha harvot țurim veșuv mol et-benei-Israel șenit.",
+     "tokens": [
+      {
+       "t": "La vremea aceea, DOMNUL i-a spus lui Ioșua: „Fă-ți niște cuțite ascuțite și întoarce-te și circumcide-i pe copiii lui Israel "
+      },
+      {
+       "t": "a doua oară",
+       "w": "a doua oară",
+       "heb": "שֵׁנִית",
+       "translit": "șēnit",
+       "strong": "H8145",
+       "pos": "numeral ordinal",
+       "def_ro": "a doua oară (șenit).",
+       "dict_ro": "Rashi, citând Tratatul Ievamot, explică „a doua oară” prin faptul că poporul fusese deja circumcis o dată, în masă, în noaptea ieșirii din Egipt — timp de patruzeci de ani în pustie nu bătuse vântul de nord favorabil operației, așa că nimeni nu mai fusese circumcis de atunci. O altă tradiție citată de Rashi identifică „a doua oară” cu periah (dezvelirea completă a glandului), ritual care, spune Talmudul, nu-i fusese dat lui Avraam."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בָּעֵת הַהִיא אָמַר יְהוָה אֶל־יְהוֹשֻׁעַ עֲשֵׂה לְךָ חַרְבוֹת צֻרִים וְשׁוּב מֹל אֶת־בְּנֵי־יִשְׂרָאֵל שֵׁנִית׃",
+       "translation": "La vremea aceea, DOMNUL i-a spus lui Ioșua: „Fă-ți niște cuțite ascuțite și întoarce-te și circumcide-i pe copiii lui Israel a doua oară.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὑπό δὲ τοῦτον τὸν καιρὸν εἶπε Κύριος τῷ ᾿Ιησοῖ· ποίησον σεαυτῷ μαχαίρας πετρίνας ἐκ πέτρας ἀκροτόμου καὶ καθίσας περίτεμε τοὺς υἱοὺς ᾿Ισραὴλ ἐκ δευτέρου.",
+       "greek": true,
+       "translation": "Iar în vremea aceea a spus Domnul lui Iisus: «Fă-ți cuțite de piatră dintr-o piatră ascuțită, și șezând, circumcide pe fiii lui Israel a doua oară.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 17:10-14"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Cuțite ascuțite” — ca Targumul: „brice ascuțite”. „A doua oară” — se circumciseseră deja o dată, pe toți laolaltă, în noaptea ieșirii din Egipt; aceasta e a doua oară, căci în toți cei patruzeci de ani cât au fost în pustie nu le-a bătut vântul de nord [favorabil vindecării], și n-au avut o zi bună pentru circumcizie, cum am învățat în Ievamot 71b. Iar înțelepții noștri au spus: „a doua oară” se referă la periah [dezvelirea], care nu i-a fost dată lui Avraam, părintele nostru."
+      }
+     ]
     },
     {
      "v": "5:3",
      "t": "Și Ioșua și-a făcut niște cuțite ascuțite și i-a circumcis pe copiii lui Israel la dealul Aralot.",
      "heb": "וַיַּעַשׂ־לוֹ יְהוֹשֻׁעַ חַרְבוֹת צֻרִים וַיָּמָל אֶת־בְּנֵי יִשְׂרָאֵל אֶל־גִּבְעַת הָעֲרָלוֹת׃",
-     "translit": "Vaiaas-lo Iehoșua harvot țurim vaiamal et-benei Israel el-ghivat haaralot."
+     "translit": "Vaiaas-lo Iehoșua harvot țurim vaiamal et-benei Israel el-ghivat haaralot.",
+     "tokens": [
+      {
+       "t": "Și Ioșua și-a făcut niște cuțite ascuțite și i-a circumcis pe copiii lui Israel la dealul Aralot."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַשׂ־לוֹ יְהוֹשֻׁעַ חַרְבוֹת צֻרִים וַיָּמָל אֶת־בְּנֵי יִשְׂרָאֵל אֶל־גִּבְעַת הָעֲרָלוֹת׃",
+       "translation": "Și Ioșua și-a făcut niște cuțite ascuțite și i-a circumcis pe copiii lui Israel la dealul Aralot. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐποίησεν ᾿Ιησοῦς μαχαίρας πετρίνας ἀκροτόμους καὶ περιέτεμε τοὺς υἱοὺς ᾿Ισραὴλ ἐπὶ τοῦ καλουμένου τόπου Βουνὸς τῶν ἀκροβυστιῶν.",
+       "greek": true,
+       "translation": "Și a făcut Iisus cuțite de piatră ascuțite și a circumcis pe fiii lui Israel la locul numit Dealul prepuțurilor.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 17:23-27"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:4",
      "t": "Acesta este motivul pentru care Ioșua a circumcis [poporul]: tot poporul care ieșise din Egipt – cei de parte bărbătească, toți bărbații luptători – muriseră în deșert, pe drumul ieșirii lor din Egipt.",
      "heb": "וְזֶה הַדָּבָר אֲשֶׁר־מָל יְהוֹשֻׁעַ כָּל־הָעָם הַיֹּצֵא מִמִּצְרַיִם הַזְּכָרִים כֹּל אַנְשֵׁי הַמִּלְחָמָה מֵתוּ בַמִּדְבָּר בַּדֶּרֶךְ בְּצֵאתָם מִמִּצְרָיִם׃",
-     "translit": "Veze hadavar așer-mal Iehoșua kol-haam haiotze mi'Mițraim hazekarim kol anșei hamilhama metu vamidbar badereh bețetam mi'Mițraim."
+     "translit": "Veze hadavar așer-mal Iehoșua kol-haam haiotze mi'Mițraim hazekarim kol anșei hamilhama metu vamidbar badereh bețetam mi'Mițraim.",
+     "tokens": [
+      {
+       "t": "Acesta este motivul pentru care Ioșua a circumcis [poporul]: tot poporul care ieșise din Egipt – cei de parte bărbătească, toți "
+      },
+      {
+       "t": "bărbații luptători",
+       "w": "bărbații luptători",
+       "heb": "אַנְשֵׁי הַמִּלְחָמָה",
+       "translit": "anșē hamilhama",
+       "strong": "H4421",
+       "pos": "substantiv, masculin plural construct + substantiv, feminin singular",
+       "def_ro": "oamenii de război (anșē hamilhama).",
+       "dict_ro": "Rashi notează un detaliu structural important: niciunul dintre „bărbații de război” care ieșiseră adulți din Egipt nu mai era de fapt prezent la Ghilgal — toți muriseră deja în pustie; ceea ce descrie acest verset e, de fapt, generația următoare, cea „ieșită” formal din Egipt ca prunci, dar deja circumcisă atunci."
+      },
+      {
+       "t": " – muriseră în deșert, pe drumul ieșirii lor din Egipt."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְזֶה הַדָּבָר אֲשֶׁר־מָל יְהוֹשֻׁעַ כָּל־הָעָם הַיֹּצֵא מִמִּצְרַיִם הַזְּכָרִים כֹּל אַנְשֵׁי הַמִּלְחָמָה מֵתוּ בַמִּדְבָּר בַּדֶּרֶךְ בְּצֵאתָם מִמִּצְרָיִם׃",
+       "translation": "Acesta este motivul pentru care Ioșua a circumcis [poporul]: tot poporul care ieșise din Egipt – cei de parte bărbătească, toți bărbații luptători – muriseră în deșert, pe drumul ieșirii lor din Egipt. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὃν δὲ τρόπον περιεκάθαρεν ᾿Ιησοῦς τοὺς υἱοὺς ᾿Ισραήλ, ὅσοι ποτὲ ἐγένοντο ἐν τῇ ὁδῷ καὶ ὅσοι ποτὲ ἀπερίτμητοι ἦσαν τῶν ἐξεληλυθότων ἐξ Αἰγύπτου, πάντας τούτους περιέτεμεν ᾿Ιησοῦς·",
+       "greek": true,
+       "translation": "Și în felul acesta a curățat Iisus pe fiii lui Israel, câți s-au născut vreodată pe drum, și câți erau necircumciși dintre cei ieșiți din Egipt, pe toți aceștia i-a circumcis Iisus.",
+       "note": "Diferență reală de structură: Septuaginta combină ideile ebraicului 5:4 și 5:5 într-un singur verset mai cuprinzător — vezi nota de la v.5."
+      }
+     ],
+     "refs": [
+      "Numeri 14:22",
+      "Numeri 26:64,65"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și acesta e lucrul” pentru care, prin cuvânt, i-a circumcis: le-a spus: «Socotiți că veți moșteni țara ca necircumciși? Nu așa s-a spus lui Avraam: Tu să păzești legământul Meu [...] și-ți voi da ție și seminței tale după tine țara pribegiei tale.»"
+      }
+     ]
     },
     {
      "v": "5:5",
      "t": "Căci toți erau circumciși, tot poporul care ieșise [din Egipt], dar poporul care se născuse în deșert, pe drumul ieșirii lor din Egipt, nu era circumcis.",
      "heb": "כִּי־מֻלִים הָיוּ כָּל־הָעָם הַיֹּצְאִים וְכָל־הָעָם הַיִּלֹּדִים בַּמִּדְבָּר בַּדֶּרֶךְ בְּצֵאתָם מִמִּצְרַיִם לֹא־מָלוּ׃",
-     "translit": "Ki-mulim haiu kol-haam haiotzim vehol-haam hailodim bamidbar badereh bețetam mi'Mițraim lo-malu."
+     "translit": "Ki-mulim haiu kol-haam haiotzim vehol-haam hailodim bamidbar badereh bețetam mi'Mițraim lo-malu.",
+     "tokens": [
+      {
+       "t": "Căci toți erau circumciși, tot poporul care ieșise [din Egipt], dar poporul care se născuse în deșert, pe drumul ieșirii lor din Egipt, nu era circumcis."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־מֻלִים הָיוּ כָּל־הָעָם הַיֹּצְאִים וְכָל־הָעָם הַיִּלֹּדִים בַּמִּדְבָּר בַּדֶּרֶךְ בְּצֵאתָם מִמִּצְרַיִם לֹא־מָלוּ׃",
+       "translation": "Căci toți erau circumciși, tot poporul care ieșise [din Egipt], dar poporul care se născuse în deșert, pe drumul ieșirii lor din Egipt, nu era circumcis. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὃν δὲ τρόπον περιεκάθαρεν ᾿Ιησοῦς τοὺς υἱοὺς ᾿Ισραήλ, ὅσοι ποτὲ ἐγένοντο ἐν τῇ ὁδῷ καὶ ὅσοι ποτὲ ἀπερίτμητοι ἦσαν τῶν ἐξεληλυθότων ἐξ Αἰγύπτου, πάντας τούτους περιέτεμεν ᾿Ιησοῦς·",
+       "greek": true,
+       "translation": "Și în felul acesta a curățat Iisus pe fiii lui Israel, câți s-au născut vreodată pe drum, și câți erau necircumciși dintre cei ieșiți din Egipt, pe toți aceștia i-a circumcis Iisus.",
+       "note": "Septuaginta nu are un verset separat corespunzător — ideea ebraicului 5:5 (poporul născut în pustie era necircumcis) e deja inclusă în același verset grecesc arătat la 5:4."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 12:8,9"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:6",
      "t": "Căci timp de patruzeci de ani au călătorit copiii lui Israel prin deșert, până când s-a stins întregul popor – bărbații luptători care ieșiseră din Egipt, care nu ascultaseră de glasul DOMNULUI și despre care DOMNUL jurase că nu le va arăta țara pe care DOMNUL a jurat-o strămoșilor lor să ne-o dea nouă, o țară în care curge lapte și miere.",
      "heb": "כִּי אַרְבָּעִים שָׁנָה הָלְכוּ בְנֵי־יִשְׂרָאֵל בַּמִּדְבָּר עַד־תֹּם כָּל־הַגּוֹי אַנְשֵׁי הַמִּלְחָמָה הַיֹּצְאִים מִמִּצְרַיִם אֲשֶׁר לֹא־שָׁמְעוּ בְּקוֹל יְהוָה אֲשֶׁר נִשְׁבַּע יְהוָה לָהֶם לְבִלְתִּי הַרְאוֹתָם אֶת־הָאָרֶץ אֲשֶׁר נִשְׁבַּע יְהוָה לַאֲבוֹתָם לָתֵת לָנוּ אֶרֶץ זָבַת חָלָב וּדְבָשׁ׃",
-     "translit": "Ki arbaim șana halhu venei-Israel bamidbar ad-tom kol-hagoi anșei hamilhama haiotzim mi'Mițraim așer lo-șameu bekol ADONAI așer nișba ADONAI lahem levilti harotam et-haareț așer nișba ADONAI laavotam latet lanu ereț zavat halav udevash."
+     "translit": "Ki arbaim șana halhu venei-Israel bamidbar ad-tom kol-hagoi anșei hamilhama haiotzim mi'Mițraim așer lo-șameu bekol ADONAI așer nișba ADONAI lahem levilti harotam et-haareț așer nișba ADONAI laavotam latet lanu ereț zavat halav udevash.",
+     "tokens": [
+      {
+       "t": "Căci timp de "
+      },
+      {
+       "t": "patruzeci de ani",
+       "w": "patruzeci de ani",
+       "heb": "אַרְבָּעִים שָׁנָה",
+       "translit": "arbaim șana",
+       "strong": "H8141",
+       "pos": "numeral + substantiv, feminin singular",
+       "def_ro": "patruzeci de ani (arbaim șana).",
+       "dict_ro": "Septuaginta are aici „patruzeci și doi de ani” (τεσσαράκοντα καὶ δύο ἔτη), nu patruzeci — o diferență numerică reală, posibil socotind separat anii dinainte de episodul iscoadelor.",
+       "greek": "τεσσαράκοντα (tessarakonta)",
+       "greek_def_ro": "τεσσαράκοντα (tessarakonta) — patruzeci și doi — nu patruzeci, cum are ebraica.",
+       "diff_ro": "Septuaginta are „patruzeci și doi de ani” de pribegie în pustie, nu „patruzeci” ca în Textul Masoretic — o diferență numerică reală, nu doar de traducere."
+      },
+      {
+       "t": " au călătorit copiii lui Israel prin deșert, până când s-a stins întregul popor – bărbații luptători care ieșiseră din Egipt, care nu ascultaseră de glasul DOMNULUI și despre care DOMNUL jurase că nu le va arăta țara pe care DOMNUL a jurat-o strămoșilor lor să ne-o dea nouă, o țară în care curge lapte și miere."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי אַרְבָּעִים שָׁנָה הָלְכוּ בְנֵי־יִשְׂרָאֵל בַּמִּדְבָּר עַד־תֹּם כָּל־הַגּוֹי אַנְשֵׁי הַמִּלְחָמָה הַיֹּצְאִים מִמִּצְרַיִם אֲשֶׁר לֹא־שָׁמְעוּ בְּקוֹל יְהוָה אֲשֶׁר נִשְׁבַּע יְהוָה לָהֶם לְבִלְתִּי הַרְאוֹתָם אֶת־הָאָרֶץ אֲשֶׁר נִשְׁבַּע יְהוָה לַאֲבוֹתָם לָתֵת לָנוּ אֶרֶץ זָבַת חָלָב וּדְבָשׁ׃",
+       "translation": "Căci timp de patruzeci de ani au călătorit copiii lui Israel prin deșert, până când s-a stins întregul popor – bărbații luptători care ieșiseră din Egipt, care nu ascultaseră de glasul DOMNULUI și despre care DOMNUL jurase că nu le va arăta țara pe care DOMNUL a jurat-o strămoșilor lor să ne-o dea nouă, o țară în care curge lapte și miere. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τεσσαράκοντα γὰρ καὶ δύο ἔτη ἀνέστραπται ᾿Ισραὴλ ἐν τῇ ἐρήμῳ τῇ Μαβδαρίτιδι,",
+       "greek": true,
+       "translation": "Căci patruzeci și doi de ani s-a întors Israel în pustie.",
+       "note": "Diferență majoră: Septuaginta are „patruzeci și doi de ani”, nu „patruzeci” — vezi nota de la cuvântul tagat „patruzeci de ani”."
+      }
+     ],
+     "refs": [
+      "Numeri 14:23",
+      "Exodul 3:8"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:7",
      "t": "Dar pe copiii lor i-a crescut în locul lor – pe aceia i-a circumcis Ioșua, căci erau necircumciși, căci nu se circumciseseră pe drum.",
      "heb": "וְאֶת־בְּנֵיהֶם הֵקִים תַּחְתָּם אֹתָם מָל יְהוֹשֻׁעַ כִּי־עֲרֵלִים הָיוּ כִּי לֹא־מָלוּ אוֹתָם בַּדָּרֶךְ׃",
-     "translit": "Veet-beneihem hekim tahtam otam mal Iehoșua ki-arelim haiu ki lo-malu otam badareh."
+     "translit": "Veet-beneihem hekim tahtam otam mal Iehoșua ki-arelim haiu ki lo-malu otam badareh.",
+     "tokens": [
+      {
+       "t": "Dar pe copiii lor i-a crescut în locul lor – pe aceia i-a circumcis Ioșua, căci erau necircumciși, căci nu se circumciseseră pe drum."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאֶת־בְּנֵיהֶם הֵקִים תַּחְתָּם אֹתָם מָל יְהוֹשֻׁעַ כִּי־עֲרֵלִים הָיוּ כִּי לֹא־מָלוּ אוֹתָם בַּדָּרֶךְ׃",
+       "translation": "Dar pe copiii lor i-a crescut în locul lor – pe aceia i-a circumcis Ioșua, căci erau necircumciși, căci nu se circumciseseră pe drum. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀντὶ δὲ τούτων ἀντικατέστησε τοὺς υἱοὺς αὐτῶν, οὓς ᾿Ιησοῦς περιέτεμε, διὰ τὸ αὐτοὺς γεγεννῆσθαι κατὰ τὴν ὁδὸν ἀπεριτμήτους.",
+       "greek": true,
+       "translation": "Și în locul lor a pus pe fiii lor, pe care i-a circumcis Iisus, pentru că erau necircumciși, fiind născuți pe drum.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 14:31",
+      "Deuteronomul 1:39"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:8",
      "t": "Și a fost, când tot poporul a isprăvit să se circumcidă, au rămas în locul lor, în tabără, până când s-au tămăduit.",
      "heb": "וַיְהִי כַּאֲשֶׁר־תַּמּוּ כָל־הַגּוֹי לְהִמּוֹל וַיֵּשְׁבוּ תַחְתָּם בַּמַּחֲנֶה עַד חֲיוֹתָם׃",
-     "translit": "Vaihi kaașer-tamu hol-hagoi lehimol vaièșvu tahtam bamahane ad haiotam."
+     "translit": "Vaihi kaașer-tamu hol-hagoi lehimol vaièșvu tahtam bamahane ad haiotam.",
+     "tokens": [
+      {
+       "t": "Și a fost, când tot poporul a isprăvit să se circumcidă, au rămas în locul lor, în tabără, până când s-au tămăduit."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי כַּאֲשֶׁר־תַּמּוּ כָל־הַגּוֹי לְהִמּוֹל וַיֵּשְׁבוּ תַחְתָּם בַּמַּחֲנֶה עַד חֲיוֹתָם׃",
+       "translation": "Și a fost, când tot poporul a isprăvit să se circumcidă, au rămas în locul lor, în tabără, până când s-au tămăduit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "περιτμηθέντες δὲ ἡσυχίαν εἶχον αὐτόθι καθήμενοι ἐν τῇ παρεμβολῇ, ἕως ὑγιάσθησαν.",
+       "greek": true,
+       "translation": "Și fiind circumciși, au stat liniștiți acolo, șezând în tabără, până s-au vindecat.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 34:25"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:9",
      "t": "Și DOMNUL i-a spus lui Ioșua: „Astăzi am îndepărtat rușinea Egiptului de deasupra voastră.” Și a numit acel loc Ghilgal până în ziua de astăzi.",
      "heb": "וַיֹּאמֶר יְהוָה אֶל־יְהוֹשֻׁעַ הַיּוֹם גַּלּוֹתִי אֶת־חֶרְפַּת מִצְרַיִם מֵעֲלֵיכֶם וַיִּקְרָא שֵׁם הַמָּקוֹם הַהוּא גִּלְגָּל עַד הַיּוֹם הַזֶּה׃",
-     "translit": "Vaiomer ADONAI el-Iehoșua haiom galoti et-herpat Mițraim mealéihem vaikra șem hamakom hahu Ghilgal ad haiom haze."
+     "translit": "Vaiomer ADONAI el-Iehoșua haiom galoti et-herpat Mițraim mealéihem vaikra șem hamakom hahu Ghilgal ad haiom haze.",
+     "tokens": [
+      {
+       "t": "Și DOMNUL i-a spus lui Ioșua: „Astăzi am îndepărtat "
+      },
+      {
+       "t": "rușinea Egiptului",
+       "w": "rușinea Egiptului",
+       "heb": "חֶרְפַּת מִצְרַיִם",
+       "translit": "herpat mițraim",
+       "strong": "H4714",
+       "pos": "substantiv, feminin singular construct + nume propriu",
+       "def_ro": "ocara/rușinea Egiptului (herpat Mițraim).",
+       "dict_ro": "Rashi (în numele lui Rabi Moșe hadarșan) explică această „rușine” printr-o tradiție astrologică: egiptenii ar fi spus despre Israel, în pustie, că o stea numită „Raa” (rea), semn al sângelui, plana asupra lor — aluzie pe care Moise o citează el însuși la Exodul 32:12 („ca să nu spună Egiptul: i-a scos ca să-i ucidă”). Egiptenii nu înțelegeau, spune Rashi, că semnul de sânge pe care-l vedeau era de fapt sângele circumciziei — abia după ce poporul s-a circumcis din nou la Ghilgal, acest semn (și bârfa asociată lui) a fost definitiv îndepărtat."
+      },
+      {
+       "t": " de deasupra voastră.” Și a numit acel loc Ghilgal până în ziua de astăzi."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוָה אֶל־יְהוֹשֻׁעַ הַיּוֹם גַּלּוֹתִי אֶת־חֶרְפַּת מִצְרַיִם מֵעֲלֵיכֶם וַיִּקְרָא שֵׁם הַמָּקוֹם הַהוּא גִּלְגָּל עַד הַיּוֹם הַזֶּה׃",
+       "translation": "Și DOMNUL i-a spus lui Ioșua: „Astăzi am îndepărtat rușinea Egiptului de deasupra voastră.” Și a numit acel loc Ghilgal până în ziua de astăzi. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Κύριος τῷ ᾿Ιησοῖ υἱῷ Ναυή· ἐν τῇ σήμερον ἡμέρᾳ ἀφεῖλον τὸν ὀνειδισμὸν Αἰγύπτου ἀφ’ ὑμῶν. καὶ ἐκάλεσε τὸ ὄνομα τοῦ τόπου ἐκείνου Γάλγαλα.",
+       "greek": true,
+       "translation": "Și a spus Domnul lui Iisus, fiul lui Navi: «În ziua de astăzi am îndepărtat ocara Egiptului de la voi.» Și a numit locul acela Galgala.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 24:14",
+      "Iosua 4:19"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Am îndepărtat” — am înlăturat rușinea Egiptului, cei care spuneau: «vedeți, răul e înaintea feței voastre» — există o stea numită «Raa» [rea], semn de sânge, pe care o vedeau asupra voastră în pustie; și la asta se referea Moise în pustie: «de ce să spună Egiptenii: cu răutate i-a scos»; dar ei nu știau că acela era sângele circumciziei — și când s-au circumcis din nou în zilele lui Iosua, și a venit acel sânge, s-a îndepărtat rușinea aceea, atâta timp cât încă îi socoteau pe cei din mulțimea pestriță [venită cu ei din Egipt]. Așa a tâlcuit Rabi Moșe hadarșan."
+      }
+     ]
     },
     {
      "v": "5:10",
      "t": "Iar copiii lui Israel și-au așezat tabăra în Ghilgal și au făcut jertfa de Paște în a paisprezecea zi a lunii, seara, în câmpiile Ierihonului.",
      "heb": "וַיַּחֲנוּ בְנֵי־יִשְׂרָאֵל בַּגִּלְגָּל וַיַּעֲשׂוּ אֶת־הַפֶּסַח בְּאַרְבָּעָה עָשָׂר יוֹם לַחֹדֶשׁ בָּעֶרֶב בְּעַרְבוֹת יְרִיחוֹ׃",
-     "translit": "Vaiahanu venei-Israel ba'Ghilgal vaiasu et-hapesah bearbaa asar iom lahodeș baerev bearvot Ieriho."
+     "translit": "Vaiahanu venei-Israel ba'Ghilgal vaiasu et-hapesah bearbaa asar iom lahodeș baerev bearvot Ieriho.",
+     "tokens": [
+      {
+       "t": "Iar copiii lui Israel și-au așezat tabăra în Ghilgal și au făcut jertfa de Paște în a paisprezecea zi a lunii, seara, în câmpiile Ierihonului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּחֲנוּ בְנֵי־יִשְׂרָאֵל בַּגִּלְגָּל וַיַּעֲשׂוּ אֶת־הַפֶּסַח בְּאַרְבָּעָה עָשָׂר יוֹם לַחֹדֶשׁ בָּעֶרֶב בְּעַרְבוֹת יְרִיחוֹ׃",
+       "translation": "Iar copiii lui Israel și-au așezat tabăra în Ghilgal și au făcut jertfa de Paște în a paisprezecea zi a lunii, seara, în câmpiile Ierihonului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καί ἐποίησαν οἱ υἱοὶ ᾿Ισραὴλ τὸ πάσχα τῇ τεσσαρεσκαιδεκάτῃ ἡμέρᾳ τοῦ μηνὸς ἀφ’ ἑσπέρας ἐπὶ δυσμῶν ῾Ιεριχὼ ἐν τῷ πέραν τοῦ ᾿Ιορδάνου ἐν τῷ πεδίῳ",
+       "greek": true,
+       "translation": "Și au făcut fiii lui Israel Paștele în a paisprezecea zi a lunii, de la seară, spre apusul Ierihonului, dincolo de Iordan, în câmpie.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 9:1-5"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:11",
      "t": "Au mâncat din grânele vechi ale țării, din ziua de după jertfa de Paște, azime și grâu copt, în chiar acea zi.",
      "heb": "וַיֹּאכְלוּ מֵעֲבוּר הָאָרֶץ מִמָּחֳרַת הַפֶּסַח מַצּוֹת וְקָלוּי בְּעֶצֶם הַיּוֹם הַזֶּה׃",
-     "translit": "Vaiohlu meavur haareț mimaharat hapesah matzot vekalui beetzem haiom haze."
+     "translit": "Vaiohlu meavur haareț mimaharat hapesah matzot vekalui beetzem haiom haze.",
+     "tokens": [
+      {
+       "t": "Au mâncat din grânele vechi ale țării, din ziua de după jertfa de Paște, azime și grâu copt, în chiar acea zi."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאכְלוּ מֵעֲבוּר הָאָרֶץ מִמָּחֳרַת הַפֶּסַח מַצּוֹת וְקָלוּי בְּעֶצֶם הַיּוֹם הַזֶּה׃",
+       "translation": "Au mâncat din grânele vechi ale țării, din ziua de după jertfa de Paște, azime și grâu copt, în chiar acea zi. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐφάγοσαν ἀπὸ τοῦ σίτου τῆς γῆς ἄζυμα καὶ νέα.",
+       "greek": true,
+       "translation": "Și au mâncat din grâul țării azime și [grâu] nou.",
+       "note": "Septuaginta omite menționarea explicită a „zilei de după jertfa de Paște” și a grâului copt, prezente în Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 12:18-20",
+      "Leviticul 23:14"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:12",
      "t": "Iar mana s-a isprăvit în ziua următoare, când au mâncat din grânele vechi ale țării. Copiii lui Israel nu mai aveau mana și au mâncat din roadele țării Canaanului în anul acela.",
      "heb": "וַיִּשְׁבֹּת הַמָּן מִמָּחֳרָת בְּאָכְלָם מֵעֲבוּר הָאָרֶץ וְלֹא־הָיָה עוֹד לִבְנֵי יִשְׂרָאֵל מָן וַיֹּאכְלוּ מִתְּבוּאַת אֶרֶץ כְּנַעַן בַּשָּׁנָה הַהִיא׃",
-     "translit": "Vaișbot haman mimaharat beohlam meavur haareț velo-haia od livnei Israel man vaiohlu mitevuat ereț Kenaan bașana hahi."
+     "translit": "Vaișbot haman mimaharat beohlam meavur haareț velo-haia od livnei Israel man vaiohlu mitevuat ereț Kenaan bașana hahi.",
+     "tokens": [
+      {
+       "t": "Iar mana s-a isprăvit în ziua următoare, când au mâncat din grânele vechi ale țării. Copiii lui Israel nu mai aveau mana și au mâncat din roadele țării Canaanului în anul acela."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשְׁבֹּת הַמָּן מִמָּחֳרָת בְּאָכְלָם מֵעֲבוּר הָאָרֶץ וְלֹא־הָיָה עוֹד לִבְנֵי יִשְׂרָאֵל מָן וַיֹּאכְלוּ מִתְּבוּאַת אֶרֶץ כְּנַעַן בַּשָּׁנָה הַהִיא׃",
+       "translation": "Iar mana s-a isprăvit în ziua următoare, când au mâncat din grânele vechi ale țării. Copiii lui Israel nu mai aveau mana și au mâncat din roadele țării Canaanului în anul acela. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐν ταύτῃ τῇ ἡμέρᾳ ἐξέλιπε τὸ μάννα μετὰ τὸ βεβρωκέναι αὐτοὺς ἐκ τοῦ σίτου τῆς γῆς, καὶ οὐκέτι ὑπῆρχε τοῖς υἱοῖς ᾿Ισραὴλ μάννα· ἐκαρπίσαντο δὲ τὴν χώραν τῶν Φοινίκων ἐν τῷ ἐνιαυτῷ ἐκείνῳ.",
+       "greek": true,
+       "translation": "În ziua aceea a încetat mana, după ce au mâncat din grâul țării, și n-a mai fost pentru fiii lui Israel mană; și s-au hrănit din ținutul fenicienilor în anul acela.",
+       "note": "Diferență reală: Septuaginta are „ținutul fenicienilor”, nu „roadele țării Canaanului” — o echivalare liberă, Fenicia fiind identificată cu coasta canaanită."
+      }
+     ],
+     "refs": [
+      "Exodul 16:35",
+      "Neemia 9:20,21"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:13",
      "t": "Iar când Ioșua era în Ierihon, și-a ridicat ochii și a văzut și iată, un bărbat stătea înaintea lui cu sabia scoasă în mână. Ioșua a mers la el și i-a spus: „Ești cu noi sau cu dușmanii noștri?”",
      "heb": "וַיְהִי בִּהְיוֹת יְהוֹשֻׁעַ בִּירִיחוֹ וַיִּשָּׂא עֵינָיו וַיַּרְא וְהִנֵּה־אִישׁ עֹמֵד לְנֶגְדּוֹ וְחַרְבּוֹ שְׁלוּפָה בְּיָדוֹ וַיֵּלֶךְ יְהוֹשֻׁעַ אֵלָיו וַיֹּאמֶר לוֹ הֲלָנוּ אַתָּה אִם־לְצָרֵינוּ׃",
-     "translit": "Vaihi bihiot Iehoșua b'Iriho vaișa einav vaiar vehine-iș omed lenegdo veharbo șelufa beiado vaieleh Iehoșua elav vaiomer lo halanu ata im-letzareinu."
+     "translit": "Vaihi bihiot Iehoșua b'Iriho vaișa einav vaiar vehine-iș omed lenegdo veharbo șelufa beiado vaieleh Iehoșua elav vaiomer lo halanu ata im-letzareinu.",
+     "tokens": [
+      {
+       "t": "Iar când Ioșua era în Ierihon, și-a ridicat ochii și a văzut și iată, un bărbat stătea înaintea lui cu sabia scoasă în mână. Ioșua a mers la el și i-a spus: „Ești cu noi sau cu dușmanii noștri?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי בִּהְיוֹת יְהוֹשֻׁעַ בִּירִיחוֹ וַיִּשָּׂא עֵינָיו וַיַּרְא וְהִנֵּה־אִישׁ עֹמֵד לְנֶגְדּוֹ וְחַרְבּוֹ שְׁלוּפָה בְּיָדוֹ וַיֵּלֶךְ יְהוֹשֻׁעַ אֵלָיו וַיֹּאמֶר לוֹ הֲלָנוּ אַתָּה אִם־לְצָרֵינוּ׃",
+       "translation": "Iar când Ioșua era în Ierihon, și-a ridicat ochii și a văzut și iată, un bărbat stătea înaintea lui cu sabia scoasă în mână. Ioșua a mers la el și i-a spus: „Ești cu noi sau cu dușmanii noștri?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἐγένετο ὡς ἦν ᾿Ιησοῦς ἐν ῾Ιεριχώ, καὶ ἀναβλέψας τοῖς ὀφθαλμοῖς εἶδεν ἄνθρωπον ἑστηκότα ἐναντίον αὐτοῦ, καὶ ἡ ρομφαία ἐσπασμένη ἐν τῇ χειρὶ αὐτοῦ. καὶ προσελθὼν ᾿Ιησοῦς εἶπεν αὐτῷ· ἡμέτερος εἶ ἢ τῶν ὑπεναντίων;",
+       "greek": true,
+       "translation": "Și a fost, pe când era Iisus în Ierihon, și ridicându-și ochii a văzut un om stând înaintea lui, cu sabia scoasă în mâna lui; și apropiindu-se, Iisus i-a spus: «Ești al nostru, sau al celor potrivnici?»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 32:24-30",
+      "Zaharia 1:8"
+     ],
+     "commentaries": []
     },
     {
      "v": "5:14",
      "t": "Și el a spus: „Nu, sunt căpetenia oștirii DOMNULUI, acum am venit.” Ioșua a căzut înaintea lui la pământ și s-a prosternat și i-a spus: „Ce spune stăpânul meu slujitorului său?”",
      "heb": "וַיֹּאמֶר לֹא כִּי אֲנִי שַׂר־צְבָא־יְהוָה עַתָּה בָאתִי וַיִּפֹּל יְהוֹשֻׁעַ אֶל־פָּנָיו אַרְצָה וַיִּשְׁתָּחוּ וַיֹּאמֶר לוֹ מָה אֲדֹנִי מְדַבֵּר אֶל־עַבְדּוֹ׃",
-     "translit": "Vaiomer lo ki ani sar-țeva-ADONAI ata vati vaipol Iehoșua el-panav arța vaiștahu vaiomer lo ma adoni medaber el-avdo."
+     "translit": "Vaiomer lo ki ani sar-țeva-ADONAI ata vati vaipol Iehoșua el-panav arța vaiștahu vaiomer lo ma adoni medaber el-avdo.",
+     "tokens": [
+      {
+       "t": "Și el a spus: „Nu, sunt "
+      },
+      {
+       "t": "căpetenia oștirii DOMNULUI",
+       "w": "căpetenia oștirii DOMNULUI",
+       "heb": "שַׂר צְבָא יְהוָה",
+       "translit": "sar țeva Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "căpetenia/prințul oștirii DOMNULUI (sar țeva Adonai).",
+       "dict_ro": "Rashi identifică explicit această căpetenie cu îngerul Mihail, citând Daniel 10:21 („Mihail, prințul vostru”) — și explică de ce vine „acum”: pe vremea lui Moise, acest înger ar mai fi venit, dar nu i-a fost primit [refuzat], conform Exodul 33:15 („dacă nu merge fața Ta [înaintea noastră]...”) — acum, la cucerirea țării, Moise nu mai e, și asistența angelică devine necesară și acceptată."
+      },
+      {
+       "t": ", acum am venit.” Ioșua a căzut înaintea lui la pământ și s-a prosternat și i-a spus: „Ce spune stăpânul meu slujitorului său?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר לֹא כִּי אֲנִי שַׂר־צְבָא־יְהוָה עַתָּה בָאתִי וַיִּפֹּל יְהוֹשֻׁעַ אֶל־פָּנָיו אַרְצָה וַיִּשְׁתָּחוּ וַיֹּאמֶר לוֹ מָה אֲדֹנִי מְדַבֵּר אֶל־עַבְדּוֹ׃",
+       "translation": "Și el a spus: „Nu, sunt căpetenia oștirii DOMNULUI, acum am venit.” Ioșua a căzut înaintea lui la pământ și s-a prosternat și i-a spus: „Ce spune stăpânul meu slujitorului său?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὁ δὲ εἶπεν αὐτῷ· ἐγὼ ἀρχιστράτηγος δυνάμεως Κυρίου νυνὶ παραγέγονα. καὶ ᾿Ιησοῦς ἔπεσεν ἐπὶ πρόσωπον ἐπὶ τὴν γῆν καὶ εἶπεν αὐτῷ· δέσποτα, τί προστάσσεις τῷ σῷ οἰκέτῃ;",
+       "greek": true,
+       "translation": "Iar el i-a spus: «Eu sunt căpetenia oștirii Domnului, acum am venit.» Și a cădut Iisus cu fața la pământ și i-a spus: «Stăpâne, ce porunci robului Tău?»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Daniel 10:13,21",
+      "Exodul 23:20-22"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Acum am venit” — în ajutorul tău, căci nimeni nu poate să lupte cu ea [cetatea] și s-o cucerească, dărâmând zidul; dar pe vremea lui Moise, dascălul tău, am venit și n-a fost primit, cum se spune: «dacă nu merge fața Ta [...]»."
+      }
+     ]
     },
     {
      "v": "5:15",
      "t": "Iar căpetenia oștirii DOMNULUI i-a spus lui Ioșua: „Scoate-ți încălțămintea din picior, căci locul în care stai este sfânt.” Și Ioșua a făcut astfel.",
      "heb": "וַיֹּאמֶר שַׂר־צְבָא יְהוָה אֶל־יְהוֹשֻׁעַ שַׁל־נַעַלְךָ מֵעַל רַגְלֶךָ כִּי הַמָּקוֹם אֲשֶׁר אַתָּה עֹמֵד עָלָיו קֹדֶשׁ הוּא וַיַּעַשׂ יְהוֹשֻׁעַ כֵּן׃",
-     "translit": "Vaiomer sar-țeva ADONAI el-Iehoșua șal-naalhá meal ragleha ki hamakom așer ata omed alav kodeș hu vaias Iehoșua ken."
+     "translit": "Vaiomer sar-țeva ADONAI el-Iehoșua șal-naalhá meal ragleha ki hamakom așer ata omed alav kodeș hu vaias Iehoșua ken.",
+     "tokens": [
+      {
+       "t": "Iar căpetenia oștirii DOMNULUI i-a spus lui Ioșua: „Scoate-ți încălțămintea din picior, căci locul în care stai este sfânt.” Și Ioșua a făcut astfel."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שַׂר־צְבָא יְהוָה אֶל־יְהוֹשֻׁעַ שַׁל־נַעַלְךָ מֵעַל רַגְלֶךָ כִּי הַמָּקוֹם אֲשֶׁר אַתָּה עֹמֵד עָלָיו קֹדֶשׁ הוּא וַיַּעַשׂ יְהוֹשֻׁעַ כֵּן׃",
+       "translation": "Iar căpetenia oștirii DOMNULUI i-a spus lui Ioșua: „Scoate-ți încălțămintea din picior, căci locul în care stai este sfânt.” Și Ioșua a făcut astfel. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ λέγει ὁ ἀρχιστράτηγος Κυρίου πρὸς ᾿Ιησοῦν· λῦσαι τὸ ὑπόδημα ἐκ τῶν ποδῶν σου· ὁ γὰρ τόπος, ἐφ’ ᾧ νῦν ἕστηκας ἐπ’ αὐτοῦ, ἅγιός ἐστι.",
+       "greek": true,
+       "translation": "Și spune căpetenia Domnului lui Iisus: «Dezleagă-ți încălțămintea din picioarele tale, căci locul pe care stai acum e sfânt.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 3:5"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Căpetenia oștirii DOMNULUI” — Israel, care e oastea DOMNULUI; și era Mihail, cum se spune [la Daniel]: «Mihail, prințul vostru»."
+      }
+     ]
     },
     {
      "v": "6:1",
      "t": "Ierihonul își închisese porțile și se baricadase din pricina copiilor lui Israel, nimeni nu putea să iasă sau să intre.",
      "heb": "וִירִיחוֹ סֹגֶרֶת וּמְסֻגֶּרֶת מִפְּנֵי בְּנֵי יִשְׂרָאֵל אֵין יוֹצֵא וְאֵין בָּא׃",
-     "translit": "V'Iriho sogheret umesugheret mipenei benei Israel ein ioțe veein ba."
+     "translit": "V'Iriho sogheret umesugheret mipenei benei Israel ein ioțe veein ba.",
+     "tokens": [
+      {
+       "t": "Ierihonul își închisese porțile și se baricadase din pricina copiilor lui Israel, nimeni nu putea să iasă sau să intre."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וִירִיחוֹ סֹגֶרֶת וּמְסֻגֶּרֶת מִפְּנֵי בְּנֵי יִשְׂרָאֵל אֵין יוֹצֵא וְאֵין בָּא׃",
+       "translation": "Ierihonul își închisese porțile și se baricadase din pricina copiilor lui Israel, nimeni nu putea să iasă sau să intre. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ῾Ιεριχὼ συγκεκλεισμένη καὶ ὠχυρωμένη, καὶ οὐδεὶς ἐξεπορεύετο ἐξ αὐτῆς οὐδὲ εἰσεπορεύετο.",
+       "greek": true,
+       "translation": "Și Ierihonul era închis și întărit, și nimeni nu ieșea din el, nici nu intra.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 2:7",
+      "Iosua 2:9-14"
+     ],
+     "commentaries": []
     },
     {
      "v": "6:27",
      "t": "Și DOMNUL a fost cu Ioșua, iar renumele lui a străbătut țara.",
      "heb": "וַיְהִי יְהוָה אֶת־יְהוֹשֻׁעַ וַיְהִי שָׁמְעוֹ בְּכָל־הָאָרֶץ׃",
-     "translit": "Vaihi ADONAI et-Iehoșua vaihi șomo behol-haareț."
+     "translit": "Vaihi ADONAI et-Iehoșua vaihi șomo behol-haareț.",
+     "tokens": [
+      {
+       "t": "Și DOMNUL a fost cu Ioșua, iar renumele lui a străbătut țara."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי יְהוָה אֶת־יְהוֹשֻׁעַ וַיְהִי שָׁמְעוֹ בְּכָל־הָאָרֶץ׃",
+       "translation": "Și DOMNUL a fost cu Ioșua, iar renumele lui a străbătut țara. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἦν Κύριος μετὰ ᾿Ιησοῦ, καὶ ἦν τὸ ὄνομα αὐτοῦ κατὰ πᾶσαν τὴν γῆν.",
+       "greek": true,
+       "translation": "Și era Domnul cu Iisus, și era numele lui [cunoscut] prin toată țara.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 1:5,9",
+      "Iosua 9:1,3"
+     ],
+     "commentaries": []
     }
    ]
   },

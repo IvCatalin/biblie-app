@@ -1,0 +1,21 @@
+module.exports = {
+"3:5": ["Și a spus Iisus poporului: «Curățiți-vă pentru mâine, căci mâine va face Domnul printre voi lucruri minunate.»", "Corespondență strânsă cu Textul Masoretic."],
+"3:6": ["Și a spus Iisus preoților: «Luați chivotul legământului Domnului și mergeți înaintea poporului.» Și au luat preoții chivotul legământului Domnului și mergeau înaintea poporului.", "Corespondență strânsă cu Textul Masoretic."],
+"3:7": ["Și a spus Domnul către Iisus: «În ziua aceasta începe să te înalț înaintea tuturor fiilor lui Israel, ca să cunoască ei că, precum am fost cu Moise, așa voi fi și cu tine.»", "Corespondență strânsă cu Textul Masoretic."],
+"5:2": ["Iar în vremea aceea a spus Domnul lui Iisus: «Fă-ți cuțite de piatră dintr-o piatră ascuțită, și șezând, circumcide pe fiii lui Israel a doua oară.»", "Corespondență strânsă cu Textul Masoretic."],
+"5:3": ["Și a făcut Iisus cuțite de piatră ascuțite și a circumcis pe fiii lui Israel la locul numit Dealul prepuțurilor.", "Corespondență strânsă cu Textul Masoretic."],
+"5:4": ["Și în felul acesta a curățat Iisus pe fiii lui Israel, câți s-au născut vreodată pe drum, și câți erau necircumciși dintre cei ieșiți din Egipt, pe toți aceștia i-a circumcis Iisus.", "Diferență reală de structură: Septuaginta combină ideile ebraicului 5:4 și 5:5 într-un singur verset mai cuprinzător — vezi nota de la v.5."],
+"5:5": ["Și în felul acesta a curățat Iisus pe fiii lui Israel, câți s-au născut vreodată pe drum, și câți erau necircumciși dintre cei ieșiți din Egipt, pe toți aceștia i-a circumcis Iisus.", "Septuaginta nu are un verset separat corespunzător — ideea ebraicului 5:5 (poporul născut în pustie era necircumcis) e deja inclusă în același verset grecesc arătat la 5:4."],
+"5:6": ["Căci patruzeci și doi de ani s-a întors Israel în pustie.", "Diferență majoră: Septuaginta are „patruzeci și doi de ani”, nu „patruzeci” — vezi nota de la cuvântul tagat „patruzeci de ani”."],
+"5:7": ["Și în locul lor a pus pe fiii lor, pe care i-a circumcis Iisus, pentru că erau necircumciși, fiind născuți pe drum.", "Corespondență strânsă cu Textul Masoretic."],
+"5:8": ["Și fiind circumciși, au stat liniștiți acolo, șezând în tabără, până s-au vindecat.", "Corespondență strânsă cu Textul Masoretic."],
+"5:9": ["Și a spus Domnul lui Iisus, fiul lui Navi: «În ziua de astăzi am îndepărtat ocara Egiptului de la voi.» Și a numit locul acela Galgala.", "Corespondență strânsă cu Textul Masoretic."],
+"5:10": ["Și au făcut fiii lui Israel Paștele în a paisprezecea zi a lunii, de la seară, spre apusul Ierihonului, dincolo de Iordan, în câmpie.", "Corespondență apropiată cu Textul Masoretic."],
+"5:11": ["Și au mâncat din grâul țării azime și [grâu] nou.", "Septuaginta omite menționarea explicită a „zilei de după jertfa de Paște” și a grâului copt, prezente în Textul Masoretic."],
+"5:12": ["În ziua aceea a încetat mana, după ce au mâncat din grâul țării, și n-a mai fost pentru fiii lui Israel mană; și s-au hrănit din ținutul fenicienilor în anul acela.", "Diferență reală: Septuaginta are „ținutul fenicienilor”, nu „roadele țării Canaanului” — o echivalare liberă, Fenicia fiind identificată cu coasta canaanită."],
+"5:13": ["Și a fost, pe când era Iisus în Ierihon, și ridicându-și ochii a văzut un om stând înaintea lui, cu sabia scoasă în mâna lui; și apropiindu-se, Iisus i-a spus: «Ești al nostru, sau al celor potrivnici?»", "Corespondență strânsă cu Textul Masoretic."],
+"5:14": ["Iar el i-a spus: «Eu sunt căpetenia oștirii Domnului, acum am venit.» Și a cădut Iisus cu fața la pământ și i-a spus: «Stăpâne, ce porunci robului Tău?»", "Corespondență strânsă cu Textul Masoretic."],
+"5:15": ["Și spune căpetenia Domnului lui Iisus: «Dezleagă-ți încălțămintea din picioarele tale, căci locul pe care stai acum e sfânt.»", "Corespondență strânsă cu Textul Masoretic."],
+"6:1": ["Și Ierihonul era închis și întărit, și nimeni nu ieșea din el, nici nu intra.", "Corespondență strânsă cu Textul Masoretic."],
+"6:27": ["Și era Domnul cu Iisus, și era numele lui [cunoscut] prin toată țara.", "Corespondență strânsă cu Textul Masoretic."]
+};
