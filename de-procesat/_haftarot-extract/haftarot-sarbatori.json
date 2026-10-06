@@ -26344,85 +26344,629 @@
      "v": "8:54",
      "t": "Și a fost, când Solomon a terminat să se roage DOMNULUI toată această rugăciune și implorare, s-a ridicat de dinaintea altarului DOMNULUI unde stătuse îngenunchiat cu palmele lui întinse către cer.",
      "heb": "וַיְהִי כְּכַלּוֹת שְׁלֹמֹה לְהִתְפַּלֵּל אֶל־יְהוָה אֵת כָּל־הַתְּפִלָּה וְהַתְּחִנָּה הַזֹּאת קָם מִלִּפְנֵי מִזְבַּח יְהוָה מִכְּרֹעַ עַל־בִּרְכָּיו וְכַפָּיו פְּרֻשׂוֹת הַשָּׁמָיִם׃",
-     "translit": "Vaihi kehalot Șelomo lehitpalel el-ADONAI et kol-hatefila vehatehina hazot kam milifnei mizbah ADONAI mikroa al-birkav vehapav perusot hașamaim."
+     "translit": "Vaihi kehalot Șelomo lehitpalel el-ADONAI et kol-hatefila vehatehina hazot kam milifnei mizbah ADONAI mikroa al-birkav vehapav perusot hașamaim.",
+     "tokens": [
+      {
+       "t": "Și a fost, când Solomon a terminat să se roage DOMNULUI toată această rugăciune și implorare, s-a ridicat de dinaintea altarului DOMNULUI unde stătuse "
+      },
+      {
+       "t": "îngenunchiat",
+       "w": "îngenunchiat",
+       "heb": "מִכְּרֹעַ",
+       "translit": "mikroa",
+       "strong": "H3766",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "de pe genunchi (mikroa).",
+       "dict_ro": "Metzudat David explică simplu acest detaliu postural: «mikroa» arată că Solomon se ridică din poziția în care fusese îngenuncheat în timpul rugăciunii sale — un amănunt rar în Tora, unde rugăciunea stând în picioare e norma; îngenuncherea cu brațele întinse spre cer marchează intensitatea cu totul aparte a acestei rugi de sfințire."
+      },
+      {
+       "t": " cu palmele lui întinse către cer."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי כְּכַלּוֹת שְׁלֹמֹה לְהִתְפַּלֵּל אֶל־יְהוָה אֵת כָּל־הַתְּפִלָּה וְהַתְּחִנָּה הַזֹּאת קָם מִלִּפְנֵי מִזְבַּח יְהוָה מִכְּרֹעַ עַל־בִּרְכָּיו וְכַפָּיו פְּרֻשׂוֹת הַשָּׁמָיִם׃",
+       "translation": "Și a fost, când Solomon a terminat să se roage DOMNULUI toată această rugăciune și implorare, s-a ridicat de dinaintea altarului DOMNULUI unde stătuse îngenunchiat cu palmele lui întinse către cer. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἐγένετο ὡς συνετέλεσε Σαλωμὼν προσευχόμενος πρὸς Κύριον ὅλην τὴν προσευχὴν καὶ τὴν δέησιν ταύτην, καὶ ἀνέστη ἀπὸ προσώπου τοῦ θυσιαστηρίου Κυρίου ὀκλακὼς ἐπὶ τὰ γόνατα αὐτοῦ καὶ αἱ χεῖρες αὐτοῦ διαπεπετασμέναι εἰς τὸν οὐρανόν.",
+       "greek": true,
+       "translation": "Și a fost, când Solomon a încheiat să se roage Domnului toată această rugăciune și cerere, și s-a ridicat de dinaintea altarului Domnului, plecat pe genunchii lui, și mâinile lui întinse spre cer.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 6:13",
+      "Psalmul 95:6",
+      "1 Împărați 8:22"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Mikroa” — [s-a ridicat] din poziția în care stătuse îngenuncheat pe genunchii lui, în vremea rugăciunii sale."
+      }
+     ]
     },
     {
      "v": "8:55",
      "t": "A stat în picioare și a binecuvântat toată obștea lui Israel cu glas tare, spunând:",
      "heb": "וַיַּעֲמֹד וַיְבָרֶךְ אֵת כָּל־קְהַל יִשְׂרָאֵל קוֹל גָּדוֹל לֵאמֹר׃",
-     "translit": "Vaiaamod vaivareh et kol-kehal Israel kol gadol lemor."
+     "translit": "Vaiaamod vaivareh et kol-kehal Israel kol gadol lemor.",
+     "tokens": [
+      {
+       "t": "A stat în picioare și a binecuvântat toată obștea lui Israel cu glas tare, spunând:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעֲמֹד וַיְבָרֶךְ אֵת כָּל־קְהַל יִשְׂרָאֵל קוֹל גָּדוֹל לֵאמֹר׃",
+       "translation": "A stat în picioare și a binecuvântat toată obștea lui Israel cu glas tare, spunând: — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔστη καὶ εὐλόγησε πᾶσαν ἐκκλησίαν ᾿Ισραὴλ φωνῇ μεγάλῃ λέγων·",
+       "greek": true,
+       "translation": "și a stat și a binecuvântat toată adunarea lui Israel cu glas mare, spunând:",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Împărați 8:14",
+      "Numeri 6:23-26"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:56",
      "t": "„Binecuvântat este DOMNUL care a dat odihnă poporului Său Israel potrivit cu tot ceea ce a vorbit. Niciun cuvânt n-a rămas neîmplinit din tot cuvântul cel bun pe care l-a vorbit [DOMNUL] prin intermediul slujitorului Lui, Moise.",
      "heb": "בָּרוּךְ יְהוָה אֲשֶׁר נָתַן מְנוּחָה לְעַמּוֹ יִשְׂרָאֵל כְּכֹל אֲשֶׁר דִּבֵּר לֹא־נָפַל דָּבָר אֶחָד מִכֹּל דְּבָרוֹ הַטּוֹב אֲשֶׁר דִּבֶּר בְּיַד מֹשֶׁה עַבְדּוֹ׃",
-     "translit": "Baruh ADONAI așer natan menuha leamo Israel kehol așer diber lo-nafal davar ehad mikol devaro hatov așer diber beiad Moșe avdo."
+     "translit": "Baruh ADONAI așer natan menuha leamo Israel kehol așer diber lo-nafal davar ehad mikol devaro hatov așer diber beiad Moșe avdo.",
+     "tokens": [
+      {
+       "t": "„Binecuvântat este DOMNUL care a dat odihnă poporului Său Israel potrivit cu tot ceea ce a vorbit. "
+      },
+      {
+       "t": "Niciun cuvânt n-a rămas neîmplinit",
+       "w": "Niciun cuvânt n-a rămas neîmplinit",
+       "heb": "לֹא נָפַל דָּבָר אֶחָד",
+       "translit": "lo nafal davar ehad",
+       "strong": "H259",
+       "pos": "particulă negativă + verb, qal perfect + substantiv, masculin singular + numeral",
+       "def_ro": "n-a rămas neîmplinit niciun cuvânt (lo nafal davar ehad).",
+       "dict_ro": "Rashi identifică exact cuvântul împlinit: «și ți-a dat odihnă de la toți vrăjmașii tăi» (Iosua 21:44) — promisiunea lui Moise, repetată de Iosua, se încheie abia acum, sub Solomon, cu zidirea Templului și odihna deplină a poporului; fiecare etapă istorică intermediară a fost doar o împlinire parțială a aceluiași cuvânt."
+      },
+      {
+       "t": " din tot cuvântul cel bun pe care l-a vorbit [DOMNUL] prin intermediul slujitorului Lui, Moise."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בָּרוּךְ יְהוָה אֲשֶׁר נָתַן מְנוּחָה לְעַמּוֹ יִשְׂרָאֵל כְּכֹל אֲשֶׁר דִּבֵּר לֹא־נָפַל דָּבָר אֶחָד מִכֹּל דְּבָרוֹ הַטּוֹב אֲשֶׁר דִּבֶּר בְּיַד מֹשֶׁה עַבְדּוֹ׃",
+       "translation": "„Binecuvântat este DOMNUL care a dat odihnă poporului Său Israel potrivit cu tot ceea ce a vorbit. Niciun cuvânt n-a rămas neîmplinit din tot cuvântul cel bun pe care l-a vorbit [DOMNUL] prin intermediul slujitorului Lui, Moise. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εὐλογητὸς Κύριος σήμερον, ὃς ἔδωκε κατάπαυσιν τῷ λαῷ αὐτοῦ ᾿Ισραὴλ κατὰ πάντα, ὅσα ἐλάλησεν· οὐ διεφώνησε λόγος εἷς ἐν πᾶσι τοῖς λόγοις αὐτοῦ τοῖς ἀγαθοῖς, οἷς ἐλάλησεν ἐν χειρὶ δούλου αὐτοῦ Μωυσῆ.",
+       "greek": true,
+       "translation": "binecuvântat [este] Domnul, astăzi, care a dat odihnă poporului Său Israel, după toate cele câte a grăit; n-a lipsit niciun cuvânt din toate cuvintele Lui cele bune, pe care le-a grăit prin mâna robului Său Moise.",
+       "note": "Mică divergență prin adăugire: Septuaginta are „astăzi” (σήμερον), absent din Textul Masoretic la acest verset."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 3:20",
+      "Deuteronomul 12:10",
+      "Iosua 21:44",
+      "Iosua 21:45"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Potrivit cu tot ce a vorbit” — și unde a vorbit-o? „Și ți-a dat odihnă de la toți vrăjmașii tăi.”"
+      }
+     ]
     },
     {
      "v": "8:57",
      "t": "DOMNUL, Dumnezeul nostru, să fie cu noi așa cum a fost cu strămoșii noștri; să nu ne părăsească și să nu ne dea deoparte,",
      "heb": "יְהִי יְהוָה אֱלֹהֵינוּ עִמָּנוּ כַּאֲשֶׁר הָיָה עִם־אֲבֹתֵינוּ אַל־יַעַזְבֵנוּ וְאַל־יִטְּשֵׁנוּ׃",
-     "translit": "Iehi ADONAI Eloheinu imanu kaașer haia im-avoteinu al-iaazvenu veal-iteșenu."
+     "translit": "Iehi ADONAI Eloheinu imanu kaașer haia im-avoteinu al-iaazvenu veal-iteșenu.",
+     "tokens": [
+      {
+       "t": "DOMNUL, Dumnezeul nostru, să fie cu noi așa cum a fost cu strămoșii noștri; să nu ne părăsească și să nu ne dea deoparte,"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יְהִי יְהוָה אֱלֹהֵינוּ עִמָּנוּ כַּאֲשֶׁר הָיָה עִם־אֲבֹתֵינוּ אַל־יַעַזְבֵנוּ וְאַל־יִטְּשֵׁנוּ׃",
+       "translation": "DOMNUL, Dumnezeul nostru, să fie cu noi așa cum a fost cu strămoșii noștri; să nu ne părăsească și să nu ne dea deoparte, — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "γένοιτο Κύριος ὁ Θεὸς ἡμῶν μεθ᾿ ἡμῶν, καθὼς ἦν μετὰ τῶν πατέρων ἡμῶν· μὴ ἐγκαταλίποιτο ἡμᾶς μηδὲ ἀποστρέψοιτο ἡμᾶς,",
+       "greek": true,
+       "translation": "să fie Domnul Dumnezeul nostru cu noi, precum a fost cu părinții noștri; să nu ne lase și să nu ne întoarcă [fața Lui] de la noi,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 31:6",
+      "Deuteronomul 31:8",
+      "Iosua 1:5",
+      "Iosua 1:9"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:58",
      "t": "ca să îndrepte inimile noastre către El, ca să mergem pe toate căile Sale și să păzim poruncile Sale, decretele și judecățile pe care le-a poruncit strămoșilor noștri.",
      "heb": "לְהַטּוֹת לְבָבֵנוּ אֵלָיו לָלֶכֶת בְּכָל־דְּרָכָיו וְלִשְׁמֹר מִצְוֺתָיו וְחֻקָּיו וּמִשְׁפָּטָיו אֲשֶׁר צִוָּה אֶת־אֲבֹתֵינוּ׃",
-     "translit": "Lehatot levavenu elav lalehet behol-derahav velișmor mitzvotav vehukav umișpatav așer tziva et-avoteinu."
+     "translit": "Lehatot levavenu elav lalehet behol-derahav velișmor mitzvotav vehukav umișpatav așer tziva et-avoteinu.",
+     "tokens": [
+      {
+       "t": "ca să îndrepte inimile noastre către El, ca să mergem pe toate căile Sale și să păzim poruncile Sale, decretele și judecățile pe care le-a poruncit strămoșilor noștri."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לְהַטּוֹת לְבָבֵנוּ אֵלָיו לָלֶכֶת בְּכָל־דְּרָכָיו וְלִשְׁמֹר מִצְוֺתָיו וְחֻקָּיו וּמִשְׁפָּטָיו אֲשֶׁר צִוָּה אֶת־אֲבֹתֵינוּ׃",
+       "translation": "ca să îndrepte inimile noastre către El, ca să mergem pe toate căile Sale și să păzim poruncile Sale, decretele și judecățile pe care le-a poruncit strămoșilor noștri. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐπικλῖναι καρδίας ἡμῶν ἐπ᾿ αὐτὸν τοῦ πορεύεσθαι ἐν πάσαις ὁδοῖς αὐτοῦ καὶ φυλάσσειν πάσας ἐντολὰς αὐτοῦ καὶ τὰ προστάγματα αὐτοῦ, ἃ ἐνετείλατο τοῖς πατράσιν ἡμῶν.",
+       "greek": true,
+       "translation": "ca să ne încline inimile spre El, să mergem în toate căile Lui, și să păzim toate poruncile Lui și orânduirile Lui, pe care le-a poruncit părinților noștri.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 119:36",
+      "Ieremia 31:33",
+      "Ezechiel 36:26",
+      "Ezechiel 36:27"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:59",
      "t": "Să fie aceste cuvinte ale mele, pe care le-am rostit ca implorare înaintea DOMNULUI, aproape de DOMNUL, Dumnezeul nostru, zi și noapte, pentru ca El să facă judecata slujitorului Său și judecata poporului Său Israel, nevoia fiecărei zile în acea zi.",
      "heb": "וְיִהְיוּ דְבָרַי אֵלֶּה אֲשֶׁר הִתְחַנַּנְתִּי לִפְנֵי יְהוָה קְרֹבִים אֶל־יְהוָה אֱלֹהֵינוּ יוֹמָם וָלָיְלָה לַעֲשׂוֹת מִשְׁפַּט עַבְדּוֹ וּמִשְׁפַּט עַמּוֹ יִשְׂרָאֵל דְּבַר־יוֹם בְּיוֹמוֹ׃",
-     "translit": "Veihyu devarai ele așer hithananti lifnei ADONAI kerovim el-ADONAI Eloheinu iomam valaila laasot mișpat avdo umișpat amo Israel devar-iom beiomo."
+     "translit": "Veihyu devarai ele așer hithananti lifnei ADONAI kerovim el-ADONAI Eloheinu iomam valaila laasot mișpat avdo umișpat amo Israel devar-iom beiomo.",
+     "tokens": [
+      {
+       "t": "Să fie aceste cuvinte ale mele, pe care le-am rostit ca implorare înaintea DOMNULUI, aproape de DOMNUL, Dumnezeul nostru, zi și noapte, pentru ca El să facă judecata slujitorului Său și judecata poporului Său Israel, "
+      },
+      {
+       "t": "nevoia fiecărei zile în acea zi",
+       "w": "nevoia fiecărei zile în acea zi",
+       "heb": "דְּבַר יוֹם בְּיוֹמוֹ",
+       "translit": "devar iom beomo",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + substantiv, masculin singular construct + sufix",
+       "def_ro": "lucrul fiecărei zile, în ziua ei (devar iom beiomo).",
+       "dict_ro": "Metzudat David și Radak explică expresia ca pe o cerere de providență continuă, nu doar pentru o singură izbăvire: Solomon nu se roagă pentru o singură intervenție, ci pentru atenția zilnică, neîntreruptă, a lui Dumnezeu asupra nevoilor poporului Său — tocmai aceasta, spune Radak, va face ca toate popoarele pământului să cunoască că DOMNUL e Dumnezeu."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְיִהְיוּ דְבָרַי אֵלֶּה אֲשֶׁר הִתְחַנַּנְתִּי לִפְנֵי יְהוָה קְרֹבִים אֶל־יְהוָה אֱלֹהֵינוּ יוֹמָם וָלָיְלָה לַעֲשׂוֹת מִשְׁפַּט עַבְדּוֹ וּמִשְׁפַּט עַמּוֹ יִשְׂרָאֵל דְּבַר־יוֹם בְּיוֹמוֹ׃",
+       "translation": "Să fie aceste cuvinte ale mele, pe care le-am rostit ca implorare înaintea DOMNULUI, aproape de DOMNUL, Dumnezeul nostru, zi și noapte, pentru ca El să facă judecata slujitorului Său și judecata poporului Său Israel, nevoia fiecărei zile în acea zi. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔστρωσαν οἱ λόγοι οὗτοι, ὡς δεδέημαι ἐνώπιον Κυρίου Θεοῦ ἡμῶν, ἐγγίζοντες πρὸς Κύριον Θεὸν ἡμῶν ἡμέρας καὶ νυκτός, τοῦ ποιεῖν τὸ δικαίωμα τοῦ δούλου σου καὶ τὸ δικαίωμα λαοῦ ᾿Ισραὴλ ρῆμα ἡμέρας ἐν ἡμέρᾳ ἐνιαυτοῦ,",
+       "greek": true,
+       "translation": "și să fie aceste cuvinte, cu care m-am rugat înaintea Domnului Dumnezeului nostru, aproape de Domnul Dumnezeul nostru ziua și noaptea, ca să facă dreptatea robului Tău și dreptatea poporului Israel, cuvântul fiecărei zile, în ziua anului,",
+       "note": "Mică divergență de nuanță: ultima frază, „cuvântul fiecărei zile, în ziua anului”, diferă puțin de Textul Masoretic „nevoia fiecărei zile în acea zi” — traducătorii greci par să fi redat termenul ebraic mai degrabă ca pe un ciclu anual decât ca pe o recurență strict zilnică."
+      }
+     ],
+     "refs": [
+      "Psalmul 102:1",
+      "Psalmul 102:2",
+      "Psalmul 141:2",
+      "Deuteronomul 33:25"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Ca să facă judecata slujitorului Său și judecata poporului Său” — ca să ceară socoteală pentru ocara lor din mâna vrăjmașului."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Zi și noapte” — ca purtarea Lui de grijă să fie necurmată, ca să ne facă judecata noastră, adică să ne dea, în fiecare zi, ceea ce avem nevoie; și prin aceasta vor cunoaște toate neamurile pământului că DOMNUL este Dumnezeu, căci cei alipiți de El sunt sătui de bine și păziți de rău."
+      }
+     ]
     },
     {
      "v": "8:60",
      "t": "Pentru ca toate popoarele pământului să știe că DOMNUL este Dumnezeu – nu este nimeni altul.",
      "heb": "לְמַעַן דַּעַת כָּל־עַמֵּי הָאָרֶץ כִּי יְהוָה הוּא הָאֱלֹהִים אֵין עוֹד׃",
-     "translit": "Lemaan daat kol-amei haareț ki ADONAI hu haElohim ein od."
+     "translit": "Lemaan daat kol-amei haareț ki ADONAI hu haElohim ein od.",
+     "tokens": [
+      {
+       "t": "Pentru ca toate popoarele pământului să știe că DOMNUL este Dumnezeu – "
+      },
+      {
+       "t": "nu este nimeni altul",
+       "w": "nu este nimeni altul",
+       "heb": "אֵין עוֹד",
+       "translit": "ēn od",
+       "strong": "H5750",
+       "pos": "particulă negativă + adverb",
+       "def_ro": "nu mai este nimeni altul (ein od).",
+       "dict_ro": "Formula finală a rugăciunii lui Solomon atinge punctul culminant al monoteismului biblic: nu doar «DOMNUL e mare», ci explicit «nu mai este nimeni altul» — aceeași formulă exactă pe care Moise o folosește în Deuteronomul 4:35 și 4:39, legând astfel rugăciunea de sfințire a Templului direct de revelația de la Sinai."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לְמַעַן דַּעַת כָּל־עַמֵּי הָאָרֶץ כִּי יְהוָה הוּא הָאֱלֹהִים אֵין עוֹד׃",
+       "translation": "Pentru ca toate popoarele pământului să știe că DOMNUL este Dumnezeu – nu este nimeni altul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅπως γνῶσιν πάντες οἱ λαοὶ τῆς γῆς, ὅτι Κύριος ὁ Θεός, αὐτὸς Θεὸς καὶ οὐκ ἔστιν ἔτι.",
+       "greek": true,
+       "translation": "ca să cunoască toate popoarele pământului că Domnul [este] Dumnezeu, El [este] Dumnezeu și nu mai este altul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Împărați 18:39",
+      "Deuteronomul 4:35",
+      "Deuteronomul 4:39",
+      "Isaia 45:5"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:61",
      "t": "Fie ca inima voastră să rămână integră cu DOMNUL, Dumnezeul nostru, să urmeze decretele Sale și să păzească poruncile Sale ca în această zi.”",
      "heb": "וְהָיָה לְבַבְכֶם שָׁלֵם עִם יְהוָה אֱלֹהֵינוּ לָלֶכֶת בְּחֻקָּיו וְלִשְׁמֹר מִצְוֺתָיו כַּיּוֹם הַזֶּה׃",
-     "translit": "Vehaia levavhem șalem im ADONAI Eloheinu lalehet behukav velișmor mitzvotav kaiom haze."
+     "translit": "Vehaia levavhem șalem im ADONAI Eloheinu lalehet behukav velișmor mitzvotav kaiom haze.",
+     "tokens": [
+      {
+       "t": "Fie ca "
+      },
+      {
+       "t": "inima voastră să rămână integră",
+       "w": "inima voastră să rămână integră",
+       "heb": "לְבַבְכֶם שָׁלֵם",
+       "translit": "levavhem șalēm",
+       "strong": "H8003",
+       "pos": "substantiv, masculin singular construct + sufix + adjectiv, masculin singular",
+       "def_ro": "inima voastră să fie integră/desăvârșită (levavhem șalem).",
+       "dict_ro": "Metzudat David citește acest verset ca pe o condiție, nu o simplă urare: toată rugăciunea lui Solomon pentru popor și pentru Templu rămâne fără rod dacă inima israeliților nu e «întreagă» cu Domnul — altfel spus, Casa poate fi sfințită desăvârșit, dar fără loialitatea interioară a poporului, sfințenia ei singură nu aduce binecuvântarea promisă."
+      },
+      {
+       "t": " cu DOMNUL, Dumnezeul nostru, să urmeze decretele Sale și să păzească poruncile Sale ca în această zi.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיָה לְבַבְכֶם שָׁלֵם עִם יְהוָה אֱלֹהֵינוּ לָלֶכֶת בְּחֻקָּיו וְלִשְׁמֹר מִצְוֺתָיו כַּיּוֹם הַזֶּה׃",
+       "translation": "Fie ca inima voastră să rămână integră cu DOMNUL, Dumnezeul nostru, să urmeze decretele Sale și să păzească poruncile Sale ca în această zi.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔστρωσαν οἱ καρδίαι ἡμῶν τέλειαι πρὸς Κύριον Θεὸν ἡμῶν καὶ ὁσίως πορεύεσθαι ἐν τοῖς προστάγμασιν αὐτοῦ καὶ φυλάσσειν ἐντολὰς αὐτοῦ ὡς ἡ ἡμέρα αὕτη.",
+       "greek": true,
+       "translation": "și inimile noastre să fie desăvârșite către Domnul Dumnezeul nostru, și să mergem cu sfințenie în orânduirile Lui, și să păzim poruncile Lui, ca în ziua aceasta.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Împărați 11:4",
+      "1 Împărați 15:3",
+      "Geneza 17:1",
+      "1 Cronici 28:9"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:62",
      "t": "Apoi regele și tot Israelul împreună cu el au adus o ofrandă înaintea DOMNULUI.",
      "heb": "וְהַמֶּלֶךְ וְכָל־יִשְׂרָאֵל עִמּוֹ זֹבְחִים זֶבַח לִפְנֵי יְהוָה׃",
-     "translit": "Vehameleh vehol-Israel imo zovhim zevah lifnei ADONAI."
+     "translit": "Vehameleh vehol-Israel imo zovhim zevah lifnei ADONAI.",
+     "tokens": [
+      {
+       "t": "Apoi regele și tot Israelul împreună cu el au adus o ofrandă înaintea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהַמֶּלֶךְ וְכָל־יִשְׂרָאֵל עִמּוֹ זֹבְחִים זֶבַח לִפְנֵי יְהוָה׃",
+       "translation": "Apoi regele și tot Israelul împreună cu el au adus o ofrandă înaintea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ὁ βασιλεὺς καὶ πάντες οἱ υἱοὶ ᾿Ισραὴλ ἔθυσαν θυσίαν ἐνώπιον Κυρίου.",
+       "greek": true,
+       "translation": "Și regele și toți fiii lui Israel au jertfit jertfă înaintea Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Samuel 6:17-19",
+      "2 Cronici 7:4-7"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:63",
      "t": "Solomon a adus această ofrandă de pace pe care a adus-o DOMNULUI: douăzeci și două de mii de vite și o sută douăzeci de mii de oi. Și regele și toți copiii lui Israel au sfințit Casa DOMNULUI.",
      "heb": "וַיִּזְבַּח שְׁלֹמֹה אֵת זֶבַח הַשְּׁלָמִים אֲשֶׁר זָבַח לַיהוָה בָּקָר עֶשְׂרִים וּשְׁנַיִם אֶלֶף וְצֹאן מֵאָה וְעֶשְׂרִים אָלֶף וַיַּחְנְכוּ אֶת־בֵּית יְהוָה הַמֶּלֶךְ וְכָל־בְּנֵי יִשְׂרָאֵל׃",
-     "translit": "Vaizbah Șelomo et zevah hașelamim așer zavah l'ADONAI bakar esrim ușnaim elef vețon mea veesrim alef vaiahnehu et-beit ADONAI hameleh vehol-benei Israel."
+     "translit": "Vaizbah Șelomo et zevah hașelamim așer zavah l'ADONAI bakar esrim ușnaim elef vețon mea veesrim alef vaiahnehu et-beit ADONAI hameleh vehol-benei Israel.",
+     "tokens": [
+      {
+       "t": "Solomon a adus această ofrandă de pace pe care a adus-o DOMNULUI: douăzeci și două de mii de "
+      },
+      {
+       "t": "vite",
+       "w": "vite",
+       "heb": "בָּקָר",
+       "translit": "bakar",
+       "strong": "H1241",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "vite [cornute] (bakar).",
+       "dict_ro": "Rashi relatează o dezbatere talmudică (Moed Katan): dacă altarul de bronz al lui Moise avea doar 5x5 coți, iar cel al lui Solomon 20x20 coți — de 576 de ori mai mare ca suprafață a locului de jertfă —, cum poate acesta să fie «prea mic» pentru doar 22.000 de vite și 120.000 de oi, când pe altarul mult mai mic al lui Moise s-au adus cândva 1.000 de arderi-de-tot? Răspunsul rabinic: cifra «1.000» de la Moise nu s-a adus dintr-o singură dată, ci cumulat, de-a lungul timpului."
+      },
+      {
+       "t": " și o sută douăzeci de mii de oi. Și regele și toți copiii lui Israel au sfințit Casa DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּזְבַּח שְׁלֹמֹה אֵת זֶבַח הַשְּׁלָמִים אֲשֶׁר זָבַח לַיהוָה בָּקָר עֶשְׂרִים וּשְׁנַיִם אֶלֶף וְצֹאן מֵאָה וְעֶשְׂרִים אָלֶף וַיַּחְנְכוּ אֶת־בֵּית יְהוָה הַמֶּלֶךְ וְכָל־בְּנֵי יִשְׂרָאֵל׃",
+       "translation": "Solomon a adus această ofrandă de pace pe care a adus-o DOMNULUI: douăzeci și două de mii de vite și o sută douăzeci de mii de oi. Și regele și toți copiii lui Israel au sfințit Casa DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔθυσεν ὁ βασιλεὺς Σαλωμὼν τὰς θυσίας τῶν εἰρηνικῶν, ἃς ἔθυσε τῷ Κυρίῳ, βοῶν δύο καὶ εἴκοσι χιλιάδας καὶ προβάτων ἑκατὸν καὶ εἴκοσι χιλιάδας· καὶ ἐνεκαίνισε τὸν οἶκον Κυρίου ὁ βασιλεὺς καὶ πάντες οἱ υἱοὶ ᾿Ισραήλ.",
+       "greek": true,
+       "translation": "și a jertfit regele Solomon jertfele de pace, pe care le-a jertfit Domnului, douăzeci și două de mii de boi și o sută douăzeci de mii de oi; și a sfințit Casa Domnului regele și toți fiii lui Israel.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Leviticul 3:1-17",
+      "1 Cronici 29:21",
+      "Numeri 7:10",
+      "Numeri 7:11"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Altarul de bronz pe care l-a făcut Solomon, de douăzeci pe douăzeci de coți, n-a putut cuprinde mulțimea arderilor-de-tot și a grăsimilor, de vreme ce altarul lui Moise, de doar cinci pe cinci coți, a cuprins cândva o mie de arderi-de-tot; socotind proporția între suprafețe și numărul jertfelor, învățătorii noștri au discutat pe larg această nedumerire aritmetică — fie referindu-se la cele o mie de jertfe aduse de Solomon la Ghibeon în mai multe rânduri, nu dintr-o singură dată, fie la o tâlcuire diferită a cui altar e numit aici «de bronz»."
+      }
+     ]
     },
     {
      "v": "8:64",
      "t": "În ziua aceea, regele a sfințit interiorul curții care era înaintea Casei DOMNULUI, căci acolo a înfăptuit arderea-de-tot, prinosul și grăsimile jertfelor de pace. Căci altarul de aramă dinaintea DOMNULUI era prea mic ca să încapă [pe el] arderea-de-tot, prinosul și grăsimile jertfelor de pace.",
      "heb": "בַּיּוֹם הַהוּא קִדַּשׁ הַמֶּלֶךְ אֶת־תּוֹךְ הֶחָצֵר אֲשֶׁר לִפְנֵי בֵית־יְהוָה כִּי־עָשָׂה שָׁם אֶת־הָעֹלָה וְאֶת־הַמִּנְחָה וְאֵת חֶלְבֵי הַשְּׁלָמִים כִּי־מִזְבַּח הַנְּחֹשֶׁת אֲשֶׁר לִפְנֵי יְהוָה קָטֹן מֵהָכִיל אֶת־הָעֹלָה וְאֶת־הַמִּנְחָה וְאֵת חֶלְבֵי הַשְּׁלָמִים׃",
-     "translit": "Baiom hahu kidaș hameleh et-toh hehatzer așer lifnei veit-ADONAI ki-asa șam et-haola veet-haminha veet helvei hașelamim ki-mizbah hanehoșet așer lifnei ADONAI katon mehakil et-haola veet-haminha veet helvei hașelamim."
+     "translit": "Baiom hahu kidaș hameleh et-toh hehatzer așer lifnei veit-ADONAI ki-asa șam et-haola veet-haminha veet helvei hașelamim ki-mizbah hanehoșet așer lifnei ADONAI katon mehakil et-haola veet-haminha veet helvei hașelamim.",
+     "tokens": [
+      {
+       "t": "În ziua aceea, regele a sfințit interiorul curții care era înaintea Casei DOMNULUI, căci acolo a înfăptuit arderea-de-tot, prinosul și grăsimile jertfelor de pace. Căci altarul de aramă dinaintea DOMNULUI "
+      },
+      {
+       "t": "era prea mic",
+       "w": "era prea mic",
+       "heb": "קָטֹן מֵהָכִיל",
+       "translit": "katon mēhahil",
+       "strong": "H3557",
+       "pos": "adjectiv, masculin singular + verb, hifil infinitiv",
+       "def_ro": "era prea mic ca să încapă (katon mehahil).",
+       "dict_ro": "Radak explică soluția practică a lui Solomon la problema reală a volumului de jertfe: pentru sărbătoarea de sfințire, altarul de bronz — deși mult mai mare decât cel al lui Moise din pustie — nu putea cuprinde fizic toate arderile-de-tot, darurile și grăsimile jertfelor de pace aduse dintr-o dată; de aceea regele a sfințit temporar și restul pardoselii curții interioare drept suprafață de jertfă suplimentară, o soluție de necesitate pentru amploarea neobișnuită a acelei zile."
+      },
+      {
+       "t": " ca să încapă [pe el] arderea-de-tot, prinosul și grăsimile jertfelor de pace."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בַּיּוֹם הַהוּא קִדַּשׁ הַמֶּלֶךְ אֶת־תּוֹךְ הֶחָצֵר אֲשֶׁר לִפְנֵי בֵית־יְהוָה כִּי־עָשָׂה שָׁם אֶת־הָעֹלָה וְאֶת־הַמִּנְחָה וְאֵת חֶלְבֵי הַשְּׁלָמִים כִּי־מִזְבַּח הַנְּחֹשֶׁת אֲשֶׁר לִפְנֵי יְהוָה קָטֹן מֵהָכִיל אֶת־הָעֹלָה וְאֶת־הַמִּנְחָה וְאֵת חֶלְבֵי הַשְּׁלָמִים׃",
+       "translation": "În ziua aceea, regele a sfințit interiorul curții care era înaintea Casei DOMNULUI, căci acolo a înfăptuit arderea-de-tot, prinosul și grăsimile jertfelor de pace. Căci altarul de aramă dinaintea DOMNULUI era prea mic ca să încapă [pe el] arderea-de-tot, prinosul și grăsimile jertfelor de pace. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τῇ ἡμέρᾳ ἐκείνῃ ἡγίασεν ὁ βασιλεὺς τὸ μέσον τῆς αὐλῆς τὸ κατὰ πρόσωπον τοῦ οἴκου Κυρίου· ὅτι ἐποίησεν ἐκεῖ τὴν ὁλοκαύτωσιν καὶ τὰς θυσίας καὶ τὰ στέατα τῶν εἰρηνικῶν, ὅτι τὸ θυσιαστήριον τὸ χαλκοῦν τὸ ἐνώπιον Κυρίου μικρόν· τοῦ μὴ δύνασθαι τὴν ὁλοκαύτωσιν καὶ τὰς θυσίας τῶν εἰρηνικῶν ὑπενεγκεῖν.",
+       "greek": true,
+       "translation": "în ziua aceea a sfințit regele mijlocul curții, cea dinaintea Casei Domnului; căci acolo a înfăptuit arderea-de-tot și jertfele și grăsimile jertfelor de pace, pentru că altarul de bronz, cel dinaintea Domnului, [era] mic, ca să nu poată duce arderea-de-tot și jertfele de pace.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 7:7",
+      "2 Cronici 4:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Mijlocul curții” — cuvintele, întocmai cum sunt scrise [înseamnă]: a sfințit pardoseala curții cu sfințenia unui altar, ca să ardă [jertfele] pe pardoseală. „Căci altarul de bronz” — altarul de piatră pe care l-a făcut sub altarul de bronz. „Prea mic ca să încapă arderea-de-tot și darul” — pe care-l aduseseră în mare mulțime. I-a zis Rabi Iosi: dar nu s-a spus deja «o mie de arderi-de-tot va aduce Solomon pe altarul pe care l-a făcut Moise»? Și când socotești coții și numărul arderilor-de-tot, acesta de piatră [al lui Solomon] e mai mare decât cel al lui Moise, de cinci sute șaptezeci și șase de ori."
+      }
+     ]
     },
     {
      "v": "8:65",
      "t": "La vremea aceea, Solomon a făcut sărbătoarea – cu tot Israelul care era cu el, o mare obște, de lângă Hamot și până la Fluviul Egiptului – înaintea DOMNULUI, Dumnezeului nostru, șapte zile și [alte] șapte zile, în total paisprezece zile.",
      "heb": "וַיַּעַשׂ שְׁלֹמֹה בָעֵת־הַהִיא אֶת־הֶחָג וְכָל־יִשְׂרָאֵל עִמּוֹ קָהָל גָּדוֹל מִלְּבוֹא חֲמָת עַד־נַחַל מִצְרַיִם לִפְנֵי יְהוָה אֱלֹהֵינוּ שִׁבְעַת יָמִים וְשִׁבְעַת יָמִים אַרְבָּעָה עָשָׂר יוֹם׃",
-     "translit": "Vaiaas Șelomo vaet-hahi et-hehag vehol-Israel imo kahal gadol milevo Hamat ad-nahal Mitzraim lifnei ADONAI Eloheinu șivat iamim veșivat iamim arbaa asar iom."
+     "translit": "Vaiaas Șelomo vaet-hahi et-hehag vehol-Israel imo kahal gadol milevo Hamat ad-nahal Mitzraim lifnei ADONAI Eloheinu șivat iamim veșivat iamim arbaa asar iom.",
+     "tokens": [
+      {
+       "t": "La vremea aceea, Solomon a făcut sărbătoarea – cu tot Israelul care era cu el, o mare obște, de lângă Hamot și până la Fluviul Egiptului – înaintea DOMNULUI, Dumnezeului nostru, șapte zile și [alte] șapte zile, în total "
+      },
+      {
+       "t": "paisprezece zile",
+       "w": "paisprezece zile",
+       "heb": "אַרְבָּעָה עָשָׂר יוֹם",
+       "translit": "arbaa asar iom",
+       "strong": "H3117",
+       "pos": "numeral + numeral + substantiv, masculin singular",
+       "def_ro": "paisprezece zile (arbaa asar iom).",
+       "dict_ro": "Rashi explică structura celor două săptămâni: primele șapte zile au fost dedicate sfințirii Templului, iar următoarele șapte, sărbătoririi Sucotului — ceea ce înseamnă, surprinzător, că Ziua Ispășirii a picat chiar în mijlocul acestei perioade continue de ospăț, iar poporul a mâncat și a băut în acea zi; tradiția talmudică (Moed Katan) justifică aceasta prin precedentul sfințirii Cortului în pustie, unde bucuria sfințirii a avut prioritate."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַשׂ שְׁלֹמֹה בָעֵת־הַהִיא אֶת־הֶחָג וְכָל־יִשְׂרָאֵל עִמּוֹ קָהָל גָּדוֹל מִלְּבוֹא חֲמָת עַד־נַחַל מִצְרַיִם לִפְנֵי יְהוָה אֱלֹהֵינוּ שִׁבְעַת יָמִים וְשִׁבְעַת יָמִים אַרְבָּעָה עָשָׂר יוֹם׃",
+       "translation": "La vremea aceea, Solomon a făcut sărbătoarea – cu tot Israelul care era cu el, o mare obște, de lângă Hamot și până la Fluviul Egiptului – înaintea DOMNULUI, Dumnezeului nostru, șapte zile și [alte] șapte zile, în total paisprezece zile. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐποίησε Σαλωμὼν τὴν ἑορτὴν ἐν τῇ ἡμέρᾳ ἐκείνῃ, καὶ πᾶς ᾿Ισραὴλ μετ᾿ αὐτοῦ, ἐκκλησία μεγάλη ἀπὸ τῆς εἰσόδου ῾Ημὰθ ἕως ποταμοῦ Αἰγύπτου, ἐνώπιον Κυρίου Θεοῦ ἡμῶν ἐν τῷ οἴκῳ, ᾧ ᾠκοδόμησεν, ἐσθίων καὶ πίνων καὶ εὐφραινόμενος ἐνώπιον Κυρίου Θεοῦ ἡμῶν ἑπτὰ ἡμέρας.",
+       "greek": true,
+       "translation": "și a făcut Solomon sărbătoarea în ziua aceea, și tot Israel cu el, o adunare mare, de la intrarea Ematului până la râul Egiptului, înaintea Domnului Dumnezeului nostru, în Casa pe care a zidit-o, mâncând și bând și veselindu-se înaintea Domnului Dumnezeului nostru șapte zile.",
+       "note": "Divergență numerică reală și importantă, discutată în studiile biblice: Septuaginta are o singură perioadă de „șapte zile”, unde Textul Masoretic are „șapte zile și [încă] șapte zile, paisprezece zile [în total]” — mulți cercetători citează această diferență ca dovadă că dubla mențiune din textul ebraic ar putea fi o adăugire ulterioară, menită să armonizeze cele șapte zile de sfințire a Templului cu cele șapte zile ale Sărbătorii Corturilor care le urmează imediat."
+      }
+     ],
+     "refs": [
+      "1 Împărați 8:2",
+      "Leviticul 23:34-43",
+      "2 Cronici 7:8",
+      "2 Cronici 7:9"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Șapte zile” — ale sfințirii. „Și șapte zile” — Sărbătoarea Corturilor; se găsește așadar că au mâncat și au băut în Ziua Ispășirii."
+      }
+     ]
     },
     {
      "v": "8:66",
      "t": "În ziua a opta, a dat drumul poporului și ei l-au binecuvântat pe rege; au mers la corturile lor, bucuroși și cu inima veselă pentru tot binele pe care DOMNUL îl făcuse pentru slujitorul Său David și pentru poporul Său Israel.",
      "heb": "בַּיּוֹם הַשְּׁמִינִי שִׁלַּח אֶת־הָעָם וַיְבָרְכוּ אֶת־הַמֶּלֶךְ וַיֵּלְכוּ לְאָהֳלֵיהֶם שְׂמֵחִים וְטוֹבֵי לֵב עַל כָּל־הַטּוֹבָה אֲשֶׁר עָשָׂה יְהוָה לְדָוִד עַבְדּוֹ וּלְיִשְׂרָאֵל עַמּוֹ׃",
-     "translit": "Baiom hașemini șilah et-haam vaivarehu et-hameleh vaielhu leaholeihem semehim vetovei lev al kol-hatova așer asa ADONAI le'David avdo ule'Israel amo."
+     "translit": "Baiom hașemini șilah et-haam vaivarehu et-hameleh vaielhu leaholeihem semehim vetovei lev al kol-hatova așer asa ADONAI le'David avdo ule'Israel amo.",
+     "tokens": [
+      {
+       "t": "În ziua a opta, a dat drumul poporului și ei l-au binecuvântat pe rege; au mers la corturile lor, bucuroși și cu inima veselă pentru tot binele pe care DOMNUL îl făcuse "
+      },
+      {
+       "t": "pentru slujitorul Său David",
+       "w": "pentru slujitorul Său David",
+       "heb": "לְדָוִד עַבְדּוֹ",
+       "translit": "ledavid avdo",
+       "strong": "H5650",
+       "pos": "nume propriu + substantiv, masculin singular construct + sufix",
+       "def_ro": "pentru David, slujitorul Lui (ledavid avdo).",
+       "dict_ro": "Rashi relatează o tradiție din tratatul Moed Katan: când Solomon a vrut să aducă Chivotul în Sfânta Sfintelor, porțile Templului s-au lipit una de alta și n-au vrut să se deschidă; abia când a strigat «adu-Ți aminte de bunătățile lui David, robul Tău», porțile s-au deschis — semn că Dumnezeu i-a iertat lui David păcatul [cu Bat-Șeva]. În aceeași tradiție, un glas din cer a vestit tot poporului, de Iom Kipur, că toți sunt sorociți vieții veacului viitor."
+      },
+      {
+       "t": " și pentru poporul Său Israel."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בַּיּוֹם הַשְּׁמִינִי שִׁלַּח אֶת־הָעָם וַיְבָרְכוּ אֶת־הַמֶּלֶךְ וַיֵּלְכוּ לְאָהֳלֵיהֶם שְׂמֵחִים וְטוֹבֵי לֵב עַל כָּל־הַטּוֹבָה אֲשֶׁר עָשָׂה יְהוָה לְדָוִד עַבְדּוֹ וּלְיִשְׂרָאֵל עַמּוֹ׃",
+       "translation": "În ziua a opta, a dat drumul poporului și ei l-au binecuvântat pe rege; au mers la corturile lor, bucuroși și cu inima veselă pentru tot binele pe care DOMNUL îl făcuse pentru slujitorul Său David și pentru poporul Său Israel. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν τῇ ἡμέρᾳ τῇ ὀγδόῃ ἐξαπέστειλε τὸν λαὸν καὶ εὐλόγησαν τὸν βασιλέα, καὶ ἀπῆλθεν ἕκαστος εἰς τὰ σκηνώματα αὐτοῦ χαίροντες καὶ ἀγαθῇ καρδίᾳ ἐπὶ τοῖς ἀγαθοῖς, οἷς ἐποίησε Κύριος τῷ Δαυὶδ δούλῳ αὐτοῦ καὶ τῷ ᾿Ισραὴλ λαῷ αὐτοῦ.",
+       "greek": true,
+       "translation": "și în ziua a opta a trimis poporul, și l-au binecuvântat pe rege, și a plecat fiecare la corturile lui, bucurându-se și cu inimă bună pentru bunătățile pe care le-a făcut Domnul lui David, robul Lui, și lui Israel, poporul Lui.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 7:10",
+      "1 Împărați 8:1",
+      "Deuteronomul 12:7",
+      "Psalmul 100:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Pentru David, robul Lui” — ca să vestească că i-a iertat păcatele, după cum se arată în [tratatul] Moed Katan: în clipa în care Solomon a voit să intre cu Chivotul în Casa Sfintei Sfintelor, porțile s-au lipit una de alta [și n-au vrut să se deschidă]."
+      },
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și pentru Israel, poporul Lui” — că le-a iertat păcatul Zilei Ispășirii, și a ieșit un glas din cer și a spus: voi toți sunteți sorociți vieții veacului viitor."
+      }
+     ]
     },
     {
      "v": "9:1",
      "t": "Și astfel Solomon a terminat de construit Casa DOMNULUI și palatul regelui și tot ceea ce Solomon și-a dorit să facă.",
      "heb": "וַיְהִי כְּכַלּוֹת שְׁלֹמֹה לִבְנוֹת אֶת־בֵּית־יְהוָה וְאֶת־בֵּית הַמֶּלֶךְ וְאֵת כָּל־חֵשֶׁק שְׁלֹמֹה אֲשֶׁר חָפֵץ לַעֲשׂוֹת׃",
-     "translit": "Vaihi kehalot Șelomo livnot et-beit-ADONAI veet-beit hameleh veet kol-heșek Șelomo așer hafetz laasot."
+     "translit": "Vaihi kehalot Șelomo livnot et-beit-ADONAI veet-beit hameleh veet kol-heșek Șelomo așer hafetz laasot.",
+     "tokens": [
+      {
+       "t": "Și astfel Solomon a terminat de construit Casa DOMNULUI și palatul regelui și "
+      },
+      {
+       "t": "tot ceea ce Solomon și-a dorit să facă",
+       "w": "tot ceea ce Solomon și-a dorit să facă",
+       "heb": "כָּל חֵשֶׁק",
+       "translit": "kal hēșek",
+       "strong": "H2837",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct",
+       "def_ro": "tot ce și-a dorit Solomon să facă (kol heșek Șelomo așer hafetz laasot).",
+       "dict_ro": "Versetul marchează, cu o formulare neobișnuit de personală pentru o cronică regală, nu doar finalizarea construcției, ci împlinirea completă a dorinței interioare a lui Solomon — «heșek», o plăcere/dorință intensă, cuvânt folosit mai rar pentru pofte omenești; textul sugerează că proiectul Templului și al palatului regal au fost, pentru Solomon, o chemare personală adusă până la capăt, nu doar o datorie dinastică îndeplinită."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי כְּכַלּוֹת שְׁלֹמֹה לִבְנוֹת אֶת־בֵּית־יְהוָה וְאֶת־בֵּית הַמֶּלֶךְ וְאֵת כָּל־חֵשֶׁק שְׁלֹמֹה אֲשֶׁר חָפֵץ לַעֲשׂוֹת׃",
+       "translation": "Și astfel Solomon a terminat de construit Casa DOMNULUI și palatul regelui și tot ceea ce Solomon și-a dorit să facă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐγενήθη ὡς συνετέλεσε Σαλωμὼν οἰκοδομεῖν τὸν οἶκον Κυρίου καὶ τὸν οἶκον τοῦ βασιλέως καὶ πᾶσαν τὴν πραγματείαν Σαλωμών, ὅσα ἠθέλησε ποιῆσαι,",
+       "greek": true,
+       "translation": "Și a fost, când a încheiat Solomon să zidească Casa Domnului și casa regelui, și toată lucrarea lui Solomon, câte a voit să facă,",
+       "note": "Mică divergență de nuanță: Septuaginta are „lucrarea” (πραγματεία) unde Textul Masoretic are „heșek” (dorința/plăcerea) — un termen mai neutru, administrativ, în loc de nuanța de dorință personală intensă din ebraică."
+      }
+     ],
+     "refs": [
+      "1 Împărați 6:37",
+      "1 Împărați 6:38",
+      "1 Împărați 7:1",
+      "1 Împărați 9:11"
+     ],
+     "commentaries": []
     }
    ]
   },
