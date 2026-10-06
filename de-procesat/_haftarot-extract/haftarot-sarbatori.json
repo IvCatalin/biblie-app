@@ -16753,205 +16753,1298 @@
      "v": "8:13",
      "t": "Îi voi distruge pe deplin – rostirea DOMNULUI. Nu vor mai fi struguri în vie și nici smochine în smochin, frunza se va ofili și ce le-am dat va trece.",
      "heb": "אָסֹף אֲסִיפֵם נְאֻם־יְהוָה אֵין עֲנָבִים בַּגֶּפֶן וְאֵין תְּאֵנִים בַּתְּאֵנָה וְהֶעָלֶה נָבֵל וָאֶתֵּן לָהֶם יַעַבְרוּם׃",
-     "translit": "Asof asifem neum-ADONAI ein anavim baghefen veein teenim bateena vehaele navel vaeten lahem iaavrum."
+     "translit": "Asof asifem neum-ADONAI ein anavim baghefen veein teenim bateena vehaele navel vaeten lahem iaavrum.",
+     "tokens": [
+      {
+       "t": "Îi voi distruge pe deplin – rostirea DOMNULUI. Nu vor mai fi struguri în vie și nici smochine în smochin, "
+      },
+      {
+       "t": "frunza se va ofili",
+       "w": "frunza se va ofili",
+       "heb": "וְהֶעָלֶה נָבֵל",
+       "translit": "veheale navēl",
+       "strong": "H5034",
+       "pos": "substantiv, masculin singular + verb, qal perfect",
+       "def_ro": "frunza se va veșteji/ofili (veheale navel).",
+       "dict_ro": "Rashi notează cuvântul exact „navel” — termen de veștejire (ca în franceza veche „pleisteiss”), același folosit la Isaia 34:4 și 1:30 pentru frunza uscată a unui pom bătrân; aici nimicirea e completă — nu va mai rămâne nimic, nici rodul, nici chiar frunza."
+      },
+      {
+       "t": " și ce le-am dat va trece."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אָסֹף אֲסִיפֵם נְאֻם־יְהוָה אֵין עֲנָבִים בַּגֶּפֶן וְאֵין תְּאֵנִים בַּתְּאֵנָה וְהֶעָלֶה נָבֵל וָאֶתֵּן לָהֶם יַעַבְרוּם׃",
+       "translation": "Îi voi distruge pe deplin – rostirea DOMNULUI. Nu vor mai fi struguri în vie și nici smochine în smochin, frunza se va ofili și ce le-am dat va trece. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ συνάξουσι τὰ γεννήματα αὐτῶν, λέγει Κύριος, οὐκ ἔστι σταφυλὴ ἐν ταῖς ἀμπέλοις, καὶ οὐκ ἔστι σῦκα ἐν ταῖς συκαῖς, καὶ τὰ φύλλα κατερρύηκεν.",
+       "greek": true,
+       "translation": "Și vor aduna rodul lor, zice Domnul, nu este nicio ciorchină în vii, și nu sunt smochine în smochini, și frunzele au căzut.",
+       "note": "Divergență reală: Septuaginta omite complet fraza finală a versetului ebraic, „și ce le-am dat va trece [de la ei]” — imaginea pedepsei ca urmare a călcării legilor divine dispare, versetul grecesc oprindu-se la frunzele căzute."
+      }
+     ],
+     "refs": [
+      "Isaia 24:21,22",
+      "Ieremia 17:8",
+      "Psalmul 1:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Îi voi distruge pe deplin” — termen de nimicire totală, ca „voi nimici cu desăvârșire totul de pe fața pământului” [Țefania 1:2]. „Nu vor mai fi struguri în vie” — nu va rămâne nimic. „Frunza se va ofili” — termen de veștejire. „Și ce le-am dat va trece” — toate acestea li se vor întâmpla pentru că le-am dat legi, iar ei le-au călcat."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Ambele [verbe] înseamnă nimicire; a numit anume via și smochinul pentru că sunt rodul de căpătâi, cel pe care omul îl înmulțește mai mult decât celelalte roade, cum se spune la binecuvântare «fiecare sub via lui și sub smochinul lui», și la blestem «îți va mânca via și smochinul»."
+      }
+     ]
     },
     {
      "v": "8:14",
      "t": "„De ce mai stăm aici? Să ne adunăm și să intrăm în cetățile fortificate și să stăm tăcuți acolo; căci DOMNUL, Dumnezeul nostru, ne-a amuțit și ne-a dat ape otrăvite, căci am păcătuit față de DOMNUL.",
      "heb": "עַל־מָה אֲנַחְנוּ יֹשְׁבִים הֵאָסְפוּ וְנָבוֹא אֶל־עָרֵי הַמִּבְצָר וְנִדְּמָה־שָּׁם כִּי יְהוָה אֱלֹהֵינוּ הֲדִמָּנוּ וַיַּשְׁקֵנוּ מֵי־רֹאשׁ כִּי חָטָאנוּ לַיהוָה׃",
-     "translit": "Al-ma anahnu ioșvim heasfu venavo el-arei hamivțar venidma-șam ki ADONAI Eloheinu hadimanu vaiașkenu mei-roș ki hatanu l'ADONAI."
+     "translit": "Al-ma anahnu ioșvim heasfu venavo el-arei hamivțar venidma-șam ki ADONAI Eloheinu hadimanu vaiașkenu mei-roș ki hatanu l'ADONAI.",
+     "tokens": [
+      {
+       "t": "„De ce mai stăm aici? Să ne adunăm și să intrăm în cetățile fortificate și să stăm tăcuți acolo; căci DOMNUL, Dumnezeul nostru, ne-a amuțit și ne-a dat "
+      },
+      {
+       "t": "ape otrăvite",
+       "w": "ape otrăvite",
+       "heb": "מֵי רֹאשׁ",
+       "translit": "mē roș",
+       "strong": "H7219",
+       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
+       "def_ro": "ape de pelin/venin (mei roș).",
+       "dict_ro": "Rashi explică „roș” cu referire la Deuteronom 32:33, unde „roș” e veninul din dinții viperelor — o imagine dublă a pedepsei ca otravă amară, ecou direct al șerpilor veninoși pomeniți câteva versete mai jos (8:17)."
+      },
+      {
+       "t": ", căci am păcătuit față de DOMNUL."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַל־מָה אֲנַחְנוּ יֹשְׁבִים הֵאָסְפוּ וְנָבוֹא אֶל־עָרֵי הַמִּבְצָר וְנִדְּמָה־שָּׁם כִּי יְהוָה אֱלֹהֵינוּ הֲדִמָּנוּ וַיַּשְׁקֵנוּ מֵי־רֹאשׁ כִּי חָטָאנוּ לַיהוָה׃",
+       "translation": "„De ce mai stăm aici? Să ne adunăm și să intrăm în cetățile fortificate și să stăm tăcuți acolo; căci DOMNUL, Dumnezeul nostru, ne-a amuțit și ne-a dat ape otrăvite, căci am păcătuit față de DOMNUL. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐπὶ τί ἡμεῖς καθήμεθα; συνάχθητε καὶ εἰσέλθωμεν εἰς τὰς πόλεις τὰς ὀχυρὰς καὶ ἀπορριφῶμεν, ὅτι Θεὸς ἀπέρριψεν ἡμᾶς καὶ ἐπότισεν ἡμᾶς ὕδωρ χολῆς, ὅτι ἡμάρτομεν ἐναντίον αὐτοῦ.",
+       "greek": true,
+       "translation": "De ce stăm noi [aici]? Adunați-vă și să intrăm în cetățile întărite, și să fim lepădați, căci Dumnezeu ne-a lepădat și ne-a adăpat cu apă de fiere, pentru că am păcătuit înaintea Lui.",
+       "note": "Divergență de imagine: Textul Masoretic are „să stăm tăcuți” (venidma), un termen de amuțire/doliu; Septuaginta are „să fim lepădați” (ἀπορριφῶμεν), o imagine diferită de respingere activă, nu de tăcere."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:5,6",
+      "Leviticul 10:3",
+      "Amos 6:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și să stăm tăcuți acolo” — vom ședea acolo în tăcere și doliu. „Ape de pelin” — venin ca din dinții viperelor [cf. Deuteronomul 32:33]."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„De ce mai stăm aici” — când va veni vrăjmașul, locuitorii satelor vor spune: de ce mai stăm în câmp, să fim dați pe mâna vrăjmașului? „Și să stăm tăcuți acolo” — dar e aproape sigur că și în cetățile întărite vom fi la fel de nimiciți și pierduți, căci Domnul ne-a stârpit, și nu există sfat împotriva hotărârii Celui de Sus."
+      }
+     ]
     },
     {
      "v": "8:15",
      "t": "Sperăm către pace, dar nu vine nimic bun; către o vreme a vindecării, dar iată, vine [doar] teroare.”",
      "heb": "קַוֵּה לְשָׁלוֹם וְאֵין טוֹב לְעֵת מַרְפֵּה וְהִנֵּה בְעָתָה׃",
-     "translit": "Kave leșalom veein tov leet marpe vehine veata."
+     "translit": "Kave leșalom veein tov leet marpe vehine veata.",
+     "tokens": [
+      {
+       "t": "Sperăm către pace, dar nu vine nimic bun; către o vreme a vindecării, dar iată, vine [doar] teroare.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "קַוֵּה לְשָׁלוֹם וְאֵין טוֹב לְעֵת מַרְפֵּה וְהִנֵּה בְעָתָה׃",
+       "translation": "Sperăm către pace, dar nu vine nimic bun; către o vreme a vindecării, dar iată, vine [doar] teroare.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "συνήχθημεν εἰς εἰρήνην, καὶ οὐκ ἦν ἀγαθά· εἰς καιρὸν ἰάσεως, καὶ ἰδοὺ σπουδή.",
+       "greek": true,
+       "translation": "Ne-am adunat spre pace, și nu era bine; spre vremea vindecării, și iată, tulburare.",
+       "note": "Divergență reală: Textul Masoretic are „am sperat spre pace” (kave le-șalom); Septuaginta are „ne-am adunat spre pace” (συνήχθημεν), un verb complet diferit de sensul de speranță/așteptare."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:10",
+      "Ieremia 14:19"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:16",
      "t": "De la Dan s-a auzit fornăitul cailor; la sunetul tropăitului puternicilor toată țara a tremurat. Ei au venit și au devorat țara și plinătatea ei, orașele și pe locuitorii ei.",
      "heb": "מִדָּן נִשְׁמַע נַחְרַת סוּסָיו מִקּוֹל מִצְהֲלוֹת אַבִּירָיו רָעֲשָׁה כָּל־הָאָרֶץ וַיָּבוֹאוּ וַיֹּאכְלוּ אֶרֶץ וּמְלוֹאָהּ עִיר וְיֹשְׁבֵי בָהּ׃",
-     "translit": "Mi'Dan nișma nahrat susav mikol mitzhalot abirav raașa kol-haareț vaiavou vaiohlu ereț umloaá ir veioșvei va."
+     "translit": "Mi'Dan nișma nahrat susav mikol mitzhalot abirav raașa kol-haareț vaiavou vaiohlu ereț umloaá ir veioșvei va.",
+     "tokens": [
+      {
+       "t": "De la Dan s-a auzit fornăitul cailor; la sunetul tropăitului puternicilor toată țara a tremurat. Ei au venit și au devorat țara și plinătatea ei, orașele și pe locuitorii ei."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִדָּן נִשְׁמַע נַחְרַת סוּסָיו מִקּוֹל מִצְהֲלוֹת אַבִּירָיו רָעֲשָׁה כָּל־הָאָרֶץ וַיָּבוֹאוּ וַיֹּאכְלוּ אֶרֶץ וּמְלוֹאָהּ עִיר וְיֹשְׁבֵי בָהּ׃",
+       "translation": "De la Dan s-a auzit fornăitul cailor; la sunetul tropăitului puternicilor toată țara a tremurat. Ei au venit și au devorat țara și plinătatea ei, orașele și pe locuitorii ei. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐκ Δὰν ἀκουσόμεθα φωνὴν ὀξύτητος ἵππων αὐτοῦ, ἀπὸ φωνῆς χρεμετισμοῦ ἱππασίας ἵππων αὐτοῦ ἐσείσθη πᾶσα ἡ γῆ· καὶ ἥξει καὶ καταφάγεται τὴν γῆν καὶ τὸ πλήρωμα αὐτῆς, πόλιν καὶ τοὺς κατοικοῦντας ἐν αὐτῇ.",
+       "greek": true,
+       "translation": "Din Dan vom auzi glasul iuțelii cailor lui, de la glasul nechezatului alergării cailor lui s-a cutremurat tot pământul; și va veni și va mânca pământul și plinătatea lui, cetatea și pe cei ce locuiesc în ea.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:15,16",
+      "Naum 1:4,5"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:17",
      "t": "Căci iată, voi trimite șerpi veninoși împotriva voastră, șerpi care nu pot fi vrăjiți; și ei vă vor mușca – rostirea DOMNULUI.",
      "heb": "כִּי הִנְנִי מְשַׁלֵּחַ בָּכֶם נְחָשִׁים צִפְעֹנִים אֲשֶׁר אֵין־לָהֶם לָחַשׁ וְנִשְּׁכוּ אֶתְכֶם נְאֻם־יְהוָה׃",
-     "translit": "Ki hineni meșaleah bahem nehașim țifonim așer ein-lahem lahaș venișehu ethem neum-ADONAI."
+     "translit": "Ki hineni meșaleah bahem nehașim țifonim așer ein-lahem lahaș venișehu ethem neum-ADONAI.",
+     "tokens": [
+      {
+       "t": "Căci iată, voi trimite șerpi veninoși împotriva voastră, șerpi "
+      },
+      {
+       "t": "care nu pot fi vrăjiți",
+       "w": "care nu pot fi vrăjiți",
+       "heb": "אֵין לָהֶם לָחַשׁ",
+       "translit": "ēn lahem lahaș",
+       "strong": "H3908",
+       "pos": "particulă negativă + prepoziție + sufix + substantiv, masculin singular",
+       "def_ro": "cărora nu le [merge] descântecul (așer ein lahem lahaș).",
+       "dict_ro": "Rashi leagă fraza de o tradiție despre natura șarpelui: după șaptezeci de ani, acesta devine „tzefa”, iar auzul i se astupă, nemaiascultând glasul descântătorului, cum se spune „ca șarpele surd care își astupă auzul” (Psalmul 58:5-6) — pedeapsa venită prin acești șerpi e una fără leac și fără apărare posibilă."
+      },
+      {
+       "t": "; și ei vă vor mușca – rostirea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי הִנְנִי מְשַׁלֵּחַ בָּכֶם נְחָשִׁים צִפְעֹנִים אֲשֶׁר אֵין־לָהֶם לָחַשׁ וְנִשְּׁכוּ אֶתְכֶם נְאֻם־יְהוָה׃",
+       "translation": "Căci iată, voi trimite șerpi veninoși împotriva voastră, șerpi care nu pot fi vrăjiți; și ei vă vor mușca – rostirea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι ἰδοὺ ἐγὼ ἐξαποστέλλω εἰς ὑμᾶς ὄφεις θανατοῦντας, οἷς οὐκ ἔστιν ἐπᾷσαι, καὶ δήξονται ὑμᾶς",
+       "greek": true,
+       "translation": "Căci iată, Eu trimit asupra voastră șerpi aducători de moarte, cărora nu le este [cu putință] să fie descântați, și vă vor mușca",
+       "note": "Corespondență strânsă cu Textul Masoretic pentru acest verset; vezi nota de la 8:18 pentru continuarea divergenței."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 32:24",
+      "Amos 5:19",
+      "Amos 9:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Șerpi, vipere” — la capătul a șaptezeci de ani [șarpele] devine „tzefa”, și i se astupă auzul ca să nu mai asculte glasul descântătorului care-l fermecă, cum se spune «ca șarpele surd care își astupă auzul...» [Psalmul 58:5-6] — aceasta e tâlcuirea lui «cărora nu le [merge] descântecul»."
+      }
+     ]
     },
     {
      "v": "8:18",
      "t": "Caut să mă îmbărbătez în fața tristeții, dar inima îmi este sleită în mine!",
      "heb": "מַבְלִיגִיתִי עֲלֵי יָגוֹן עָלַי לִבִּי דַוָּי׃",
-     "translit": "Mavligiti alei iagon alai libi davai."
+     "translit": "Mavligiti alei iagon alai libi davai.",
+     "tokens": [
+      {
+       "t": "Caut "
+      },
+      {
+       "t": "să mă îmbărbătez",
+       "w": "să mă îmbărbătez",
+       "heb": "מַבְלִיגִיתִי",
+       "translit": "mavligiti",
+       "strong": "H4010",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "îmbărbătarea/întărirea mea (mavligiti).",
+       "dict_ro": "Rashi explică etimologia rară a cuvântului, legat de „hivlagti” (m-am întărit) — ca și cum profetul ar spune: „de-aș zice să mă-ntăresc și să mă stăpânesc în fața întristării mele” — dar nu poate, fiindcă inima lui e sleită chiar din pricina profețiilor de pedeapsă care i se descoperă."
+      },
+      {
+       "t": " în fața tristeții, dar inima îmi este sleită în mine!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מַבְלִיגִיתִי עֲלֵי יָגוֹן עָלַי לִבִּי דַוָּי׃",
+       "translation": "Caut să mă îmbărbătez în fața tristeții, dar inima îmi este sleită în mine! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀνίατα μετ’ ὀδύνης καρδίας ὑμῶν ἀπορουμένης.",
+       "greek": true,
+       "translation": "în chip nevindecabil, cu durerea inimii voastre celei tulburate.",
+       "note": "Divergență majoră de conținut: Septuaginta continuă aici descrierea mușcăturii șarpelui de la versetul precedent („în chip nevindecabil, cu durerea inimii voastre tulburate”), fără nicio legătură cu Textul Masoretic, unde versetul 18 începe o cugetare nouă, la persoana întâi: „caut să mă îmbărbătez în fața tristeții, dar inima îmi este sleită în mine” — profetul însuși vorbind despre propria lui durere, nu despre efectul mușcăturii asupra poporului."
+      }
+     ],
+     "refs": [
+      "Ieremia 6:24",
+      "Iov 7:13,14",
+      "Plângerile lui Ieremia 1:16,17"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Mă îmbărbătez în fața tristeții” — ca „hivlagti” [m-am întărit], termen echivalent cu „de-aș zice: mă voi întări și mă voi stăpâni în fața întristării mele”. „Inima îmi este sleită” — din pricina glasului profețiilor de pedeapsă care mi se descoperă."
+      }
+     ]
     },
     {
      "v": "8:19",
      "t": "Iată, glasul fiicei poporului Meu din țări depărtate: „Nu este DOMNUL în Țion, nu este Regele lui acolo?” De ce M-au mâniat cu idolii lor ciopliți și cu nimicurile lor străine?",
      "heb": "הִנֵּה־קוֹל שַׁוְעַת בַּת־עַמִּי מֵאֶרֶץ מַרְחַקִּים הֲיְהוָה אֵין בְּצִיּוֹן אִם־מַלְכָּהּ אֵין בָּהּ מַדּוּעַ הִכְעִסוּנִי בִּפְסִילֵיהֶם בְּהַבְלֵי נֵכָר׃",
-     "translit": "Hine-kol șavat bat-ami meeret marhakim h'ADONAI ein be'Țion im-malka ein ba madua hihisuni bifșileihem behavlei nehar."
+     "translit": "Hine-kol șavat bat-ami meeret marhakim h'ADONAI ein be'Țion im-malka ein ba madua hihisuni bifșileihem behavlei nehar.",
+     "tokens": [
+      {
+       "t": "Iată, glasul fiicei poporului Meu din țări depărtate: „Nu este DOMNUL în Țion, nu este Regele lui acolo?” De ce M-au mâniat cu idolii lor ciopliți și cu nimicurile lor străine?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הִנֵּה־קוֹל שַׁוְעַת בַּת־עַמִּי מֵאֶרֶץ מַרְחַקִּים הֲיְהוָה אֵין בְּצִיּוֹן אִם־מַלְכָּהּ אֵין בָּהּ מַדּוּעַ הִכְעִסוּנִי בִּפְסִילֵיהֶם בְּהַבְלֵי נֵכָר׃",
+       "translation": "Iată, glasul fiicei poporului Meu din țări depărtate: „Nu este DOMNUL în Țion, nu este Regele lui acolo?” De ce M-au mâniat cu idolii lor ciopliți și cu nimicurile lor străine? — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἰδοὺ φωνὴ κραυγῆς θυγατρὸς λαοῦ μου ἀπὸ γῆς μακρόθεν· μὴ Κύριος οὐκ ἔστιν ἐν Σιών; ἢ βασιλεὺς οὐκ ἔστιν ἐκεῖ; διατί παρώργισάν με ἐν τοῖς γλυπτοῖς αὐτῶν καὶ ἐν ματαίοις ἀλλοτρίοις;",
+       "greek": true,
+       "translation": "Iată glasul strigării fiicei poporului meu dintr-o țară îndepărtată: nu este Domnul în Sion? Sau nu este regele acolo? Pentru ce M-au mâniat cu chipurile lor cioplite și cu lucrurile de nimic străine?",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:16,17",
+      "Isaia 33:22",
+      "Ieremia 8:5,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:20",
      "t": "„Secerișul a trecut, vara s-a încheiat, dar noi tot nu suntem izbăviți!”",
      "heb": "עָבַר קָצִיר כָּלָה קָיִץ וַאֲנַחְנוּ לוֹא נוֹשָׁעְנוּ׃",
-     "translit": "Avar kațir kala kait vaanahnu lo noșanu."
+     "translit": "Avar kațir kala kait vaanahnu lo noșanu.",
+     "tokens": [
+      {
+       "t": "„Secerișul a trecut, vara s-a încheiat, dar noi tot nu suntem izbăviți!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עָבַר קָצִיר כָּלָה קָיִץ וַאֲנַחְנוּ לוֹא נוֹשָׁעְנוּ׃",
+       "translation": "„Secerișul a trecut, vara s-a încheiat, dar noi tot nu suntem izbăviți!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διῆλθε θέρος, παρῆλθεν ἄμητος, καὶ ἡμεῖς οὐ διεσώθημεν.",
+       "greek": true,
+       "translation": "A trecut vara, a trecut secerișul, și noi nu am fost mântuiți.",
+       "note": "Mică diferență de ordine: Septuaginta pune „vara” înaintea „secerișului”, inversând ordinea din Textul Masoretic — fără schimbare de sens."
+      }
+     ],
+     "refs": [
+      "Proverbe 10:5",
+      "Luca 13:25"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:21",
      "t": "Sunt zdrobit din pricina durerii fiicei poporului meu, sunt înnegrit, disperarea m-a cuprins.",
      "heb": "עַל־שֶׁבֶר בַּת־עַמִּי הָשְׁבַּרְתִּי קָדַרְתִּי שַׁמָּה הֶחֱזִקָתְנִי׃",
-     "translit": "Al-șever bat-ami hoșbarti kadarti șama hehezikatni."
+     "translit": "Al-șever bat-ami hoșbarti kadarti șama hehezikatni.",
+     "tokens": [
+      {
+       "t": "Sunt zdrobit din pricina durerii fiicei poporului meu, sunt înnegrit, disperarea m-a cuprins."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַל־שֶׁבֶר בַּת־עַמִּי הָשְׁבַּרְתִּי קָדַרְתִּי שַׁמָּה הֶחֱזִקָתְנִי׃",
+       "translation": "Sunt zdrobit din pricina durerii fiicei poporului meu, sunt înnegrit, disperarea m-a cuprins. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐπὶ συντρίμματι θυγατρὸς λαοῦ μου ἐσκοτώθην· ἐν ἀπορίᾳ κατίσχυσάν με ὠδῖνες ὡς τικτούσης.",
+       "greek": true,
+       "translation": "Pentru zdrobirea fiicei poporului meu m-am întunecat; în nedumerire m-au cuprins dureri ca ale celei ce naște.",
+       "note": "Divergență de imagine: Septuaginta adaugă o comparație absentă din Textul Masoretic — „dureri ca ale celei ce naște” — unde ebraicul are doar „disperarea m-a cuprins”, fără imaginea durerilor nașterii."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:19",
+      "Ieremia 9:1",
+      "Cântarea cântărilor 1:5,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "8:22",
      "t": "Oare nu este niciun balsam în Ghilad, nu este niciun vindecător acolo? De ce nu se înalță nicio vindecare pentru fiica poporului meu?",
      "heb": "הַצֳרִי אֵין בְּגִלְעָד אִם־רֹפֵא אֵין שָׁם כִּי מַדּוּעַ לֹא עָלְתָה אֲרֻכַת בַּת־עַמִּי׃",
-     "translit": "Hațori ein be'Ghilad im-rofe ein șam ki madua lo alta aruhat bat-ami."
+     "translit": "Hațori ein be'Ghilad im-rofe ein șam ki madua lo alta aruhat bat-ami.",
+     "tokens": [
+      {
+       "t": "Oare nu este niciun "
+      },
+      {
+       "t": "balsam în Ghilad",
+       "w": "balsam în Ghilad",
+       "heb": "הַצֳרִי בְּגִלְעָד",
+       "translit": "hațori begilad",
+       "strong": "H1568",
+       "pos": "substantiv, masculin singular + nume propriu",
+       "def_ro": "balsam/rășină în Ghilad (hatzori begilad).",
+       "dict_ro": "Rashi explică: Ghiladul era cunoscut ca sursă de balsam vindecător, cum se spune „suie-te în Ghilad și ia balsam” (Ieremia 46:11) — întrebarea retorică a profetului are înțeles dublu: nu doar că nu există leac fizic, dar poporul nu are nici bărbați drepți de la care să învețe, ca să-și îndrepte căile."
+      },
+      {
+       "t": ", nu este niciun vindecător acolo? De ce nu se înalță nicio vindecare pentru fiica poporului meu?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הַצֳרִי אֵין בְּגִלְעָד אִם־רֹפֵא אֵין שָׁם כִּי מַדּוּעַ לֹא עָלְתָה אֲרֻכַת בַּת־עַמִּי׃",
+       "translation": "Oare nu este niciun balsam în Ghilad, nu este niciun vindecător acolo? De ce nu se înalță nicio vindecare pentru fiica poporului meu? — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μὴ ῥητίνη οὐκ ἔστιν ἐν Γαλαάδ, ἢ ἰατρὸς οὐκ ἔστιν ἐκεῖ; διατί οὐκ ἀνέβη ἴασις θυγατρὸς λαοῦ μου;",
+       "greek": true,
+       "translation": "Nu este oare rășină în Galaad, sau nu este doctor acolo? Pentru ce nu s-a ridicat vindecarea fiicei poporului meu?",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 46:11",
+      "Geneza 37:25",
+      "Ieremia 30:12-17"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Nu este niciun balsam în Ghilad” — balsamul venea de acolo, cum se spune «suie-te în Ghilad și ia balsam» [Ieremia 46:11]; adică: nu aveau oare oameni drepți de la care să învețe și să-și îndrepte căile?"
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "Nu există balsam în Ghilad să vindece boala? Nu există acolo doctor care să cunoască felul vindecării? De ce n-a fost vindecată fiica poporului meu — adică: nu aveau ei Tora și poruncile, nu aveau înțelepți care să le arate calea? De ce n-au fost întorși pe calea cea bună, ca să anuleze sentința?"
+      }
+     ]
     },
     {
      "v": "8:23",
      "t": "Măcar dacă mi-ar preface cineva capul în apă și ochiul în izvor de lacrimi – i-aș tot plânge zi și noapte pe cei răpuși ai fiicei poporului meu!",
      "heb": "מִי־יִתֵּן רֹאשִׁי מַיִם וְעֵינִי מְקוֹר דִּמְעָה וְאֶבְכֶּה יוֹמָם וָלַיְלָה אֵת חַלְלֵי בַת־עַמִּי׃",
-     "translit": "Mi-iten roși maim veeini mekor dima veevke iomam valaila et halalei bat-ami."
+     "translit": "Mi-iten roși maim veeini mekor dima veevke iomam valaila et halalei bat-ami.",
+     "tokens": [
+      {
+       "t": "Măcar dacă mi-ar preface cineva capul în apă și ochiul în izvor de lacrimi – i-aș tot plânge zi și noapte pe cei răpuși ai fiicei poporului meu!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי־יִתֵּן רֹאשִׁי מַיִם וְעֵינִי מְקוֹר דִּמְעָה וְאֶבְכֶּה יוֹמָם וָלַיְלָה אֵת חַלְלֵי בַת־עַמִּי׃",
+       "translation": "Măcar dacă mi-ar preface cineva capul în apă și ochiul în izvor de lacrimi – i-aș tot plânge zi și noapte pe cei răpuși ai fiicei poporului meu! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΤΙΣ δώσει κεφαλῇ μου ὕδωρ καὶ ὀφθαλμοῖς μου πηγὴν δακρύων, καὶ κλαύσομαι τὸν λαόν μου τοῦτον ἡμέρας καὶ νυκτός, τοὺς τετραυματισμένους θυγατρὸς λαοῦ μου;",
+       "greek": true,
+       "translation": "Cine va da capului meu apă și ochilor mei un izvor de lacrimi, și voi plânge acest popor al meu ziua și noaptea, pe cei răniți ai fiicei poporului meu?",
+       "note": "Divergență de structură a capitolelor, nu de conținut: în Septuaginta, acest verset (care în Textul Masoretic este ultimul din capitolul 8) devine primul verset al capitolului 9 — o diferență de împărțire a capitolelor între cele două tradiții textuale, valabilă pentru tot restul capitolului 9. De asemenea, „cei răniți” (τετραυματισμένους) diferă nuanțat de „cei răpuși/uciși” (hallei) din ebraică."
+      }
+     ],
+     "refs": [
+      "Ieremia 6:26",
+      "Plângerile lui Ieremia 2:11",
+      "Plângerile lui Ieremia 2:18"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:1",
      "t": "Măcar dacă mi-ar face cineva un han în deșert, pentru călători – mi-aș părăsi poporul și aș pleca de la el, căci sunt cu toții adulteri, o ceată de trădători.",
      "heb": "מִי־יִתְּנֵנִי בַמִּדְבָּר מְלוֹן אֹרְחִים וְאֶעֶזְבָה אֶת־עַמִּי וְאֵלְכָה מֵאִתָּם כִּי כֻלָּם מְנָאֲפִים עֲצֶרֶת בֹּגְדִים׃",
-     "translit": "Mi-itneni vamidbar melon orhim veeezva et-ami veelha meitam ki hulam menaafim ațeret bogdim."
+     "translit": "Mi-itneni vamidbar melon orhim veeezva et-ami veelha meitam ki hulam menaafim ațeret bogdim.",
+     "tokens": [
+      {
+       "t": "Măcar dacă mi-ar face cineva un han în deșert, pentru călători – mi-aș părăsi poporul și aș pleca de la el, căci sunt cu toții adulteri, "
+      },
+      {
+       "t": "o ceată de trădători",
+       "w": "o ceată de trădători",
+       "heb": "מְנָאֲפִים עֲצֶרֶת בֹּגְדִים",
+       "translit": "menaafim ațeret bogdim",
+       "strong": "H898",
+       "pos": "verb, piel participiu + substantiv, feminin singular construct + verb, qal participiu",
+       "def_ro": "o adunare/ceată de trădători (atzeret bogdim).",
+       "dict_ro": "Rashi tâlcuiește simplu: „sinagogi/adunări de trădători” — poporul, strâns laolaltă, nu mai formează o comunitate a legământului, ci o adunare caracterizată în chip colectiv prin trădare."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי־יִתְּנֵנִי בַמִּדְבָּר מְלוֹן אֹרְחִים וְאֶעֶזְבָה אֶת־עַמִּי וְאֵלְכָה מֵאִתָּם כִּי כֻלָּם מְנָאֲפִים עֲצֶרֶת בֹּגְדִים׃",
+       "translation": "Măcar dacă mi-ar face cineva un han în deșert, pentru călători – mi-aș părăsi poporul și aș pleca de la el, căci sunt cu toții adulteri, o ceată de trădători. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τίς δῴη μοι ἐν τῇ ἐρήμῳ σταθμὸν ἔσχατον καὶ καταλείψω τὸν λαόν μου καὶ ἀπελεύσομαι ἀπ’ αὐτῶν; ὅτι πάντες μοιχῶνται, σύνοδος ἀθετούντων.",
+       "greek": true,
+       "translation": "Cine mi-ar da în pustie un popas de pe urmă, ca să-mi părăsesc poporul și să plec de la ei? Căci toți sunt adulteri, o adunare a celor ce se leapădă [de legământ].",
+       "note": "Divergență de imagine: Septuaginta are „un popas de pe urmă/ultim” (σταθμὸν ἔσχατον), în loc de „un han pentru călători” (melon orchim) din Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 5:7,8",
+      "Osea 4:2",
+      "Ieremia 12:1,6"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„O ceată de trădători” — sinagogi/adunări de trădători."
+      }
+     ]
     },
     {
      "v": "9:2",
      "t": "„Ei își întind limba în minciună, ca un arc, nu prin credință bună au fost ei puternici în țară, căci au mers din răutate în răutate, iar pe Mine nu M-au cunoscut” – rostirea DOMNULUI.",
      "heb": "וַיַּדְרְכוּ אֶת־לְשׁוֹנָם קַשְׁתָּם שֶׁקֶר וְלֹא לֶאֱמוּנָה גָּבְרוּ בָאָרֶץ כִּי מֵרָעָה אֶל־רָעָה יָצָאוּ וְאֹתִי לֹא־יָדָעוּ נְאֻם־יְהוָה׃",
-     "translit": "Vaiadrehu et-leșonam kaștam șeker velo leemuna gavru vaareț ki meraa el-raa iațau veoti lo-iadau neum-ADONAI."
+     "translit": "Vaiadrehu et-leșonam kaștam șeker velo leemuna gavru vaareț ki meraa el-raa iațau veoti lo-iadau neum-ADONAI.",
+     "tokens": [
+      {
+       "t": "„Ei "
+      },
+      {
+       "t": "își întind limba în minciună, ca un arc",
+       "w": "își întind limba în minciună, ca un arc",
+       "heb": "וַיַּדְרְכוּ לְשׁוֹנָם קַשְׁתָּם שֶׁקֶר",
+       "translit": "vaiadrehu leșonam kaștam șeker",
+       "strong": "H8267",
+       "pos": "verb, hifil imperfect consecutiv + substantiv, masculin și feminin singular construct + sufix + substantiv, feminin singular construct + sufix + substantiv, masculin singular",
+       "def_ro": "își încordează limba [ca] arcul lor [în] minciună (vaiadrehu et leșonam kaștam șeker).",
+       "dict_ro": "Rashi explică imaginea tehnică: verbul „a încorda” se aplică propriu pregătirii arcului pentru a trage o săgeată — arcul se încordează cu piciorul, de aceea se numește „dricare”. Profetul asemuiește limba lor cu un arc întins cu minciună, în loc de săgeată — o armă la fel de distructivă, dar nevăzută."
+      },
+      {
+       "t": ", nu prin credință bună au fost ei puternici în țară, căci au mers din răutate în răutate, iar pe Mine nu M-au cunoscut” – rostirea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּדְרְכוּ אֶת־לְשׁוֹנָם קַשְׁתָּם שֶׁקֶר וְלֹא לֶאֱמוּנָה גָּבְרוּ בָאָרֶץ כִּי מֵרָעָה אֶל־רָעָה יָצָאוּ וְאֹתִי לֹא־יָדָעוּ נְאֻם־יְהוָה׃",
+       "translation": "„Ei își întind limba în minciună, ca un arc, nu prin credință bună au fost ei puternici în țară, căci au mers din răutate în răutate, iar pe Mine nu M-au cunoscut” – rostirea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐνέτειναν τὴν γλῶσσαν αὐτῶν ὡς τόξον, ψεῦδος καὶ οὐ πίστις ἐνίσχυσεν ἐπὶ τῆς γῆς, ὅτι ἐκ κακῶν εἰς κακὰ ἐξήλθοσαν καὶ ἐμὲ οὐκ ἔγνωσαν, φησὶ Κύριος.",
+       "greek": true,
+       "translation": "Și și-au încordat limba ca pe un arc, minciuna, și nu credința a prevalat în țară, căci din răutăți în răutăți au ieșit, și pe Mine nu M-au cunoscut, zice Domnul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 52:2-4",
+      "Isaia 59:3-5",
+      "Mica 7:3-5"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și-și întind” — termenul se aplică pregătirii arcului pentru a trage o săgeată; arcul se numește „arbalistă” și se încordează cu piciorul, de aceea se zice „dricare”. Profetul a asemuit limba lor cu un arc al minciunii, căci și-au „încordat limba [ca pe] arcul [lor, în] minciună”. „Din răutate în răutate” — din fărădelege în fărădelege."
+      }
+     ]
     },
     {
      "v": "9:3",
      "t": "„Fiecare să se păzească de prietenul lui și să nu se încreadă nici [măcar] într-un frate, căci orice frate este înșelător și orice prieten bârfitot.",
      "heb": "אִישׁ מֵרֵעֵהוּ הִשָּׁמֵרוּ וְעַל־כָּל־אָח אַל־תִּבְטָחוּ כִּי כָל־אָח עָקוֹב יַעְקֹב וְכָל־רֵעַ רָכִיל יַהֲלֹךְ׃",
-     "translit": "Iș mereehu hișameru veal-kol-ah al-tivtahu ki hol-ah akov iaakov vehol-rea rahil iahaloh."
+     "translit": "Iș mereehu hișameru veal-kol-ah al-tivtahu ki hol-ah akov iaakov vehol-rea rahil iahaloh.",
+     "tokens": [
+      {
+       "t": "„Fiecare să se păzească de prietenul lui și să nu se încreadă nici [măcar] într-un frate, căci "
+      },
+      {
+       "t": "orice frate este înșelător",
+       "w": "orice frate este înșelător",
+       "heb": "כָל אָח עָקוֹב",
+       "translit": "hal ah akov",
+       "strong": "H6117",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + verb, qal infinitiv absolut",
+       "def_ro": "orice frate e înșelător prin viclenie (kol ah akov iaakov).",
+       "dict_ro": "Rashi observă jocul de cuvinte intenționat: rădăcina „akov” (a înșela/a sta la pândă) e aceeași din care vine numele „Iaakov” (Iacov) — profetul folosește chiar sunetul numelui patriarhului pentru a descrie trădarea generalizată dintre frați, o ironie amară asupra poporului care-i poartă numele."
+      },
+      {
+       "t": " și orice prieten bârfitot."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אִישׁ מֵרֵעֵהוּ הִשָּׁמֵרוּ וְעַל־כָּל־אָח אַל־תִּבְטָחוּ כִּי כָל־אָח עָקוֹב יַעְקֹב וְכָל־רֵעַ רָכִיל יַהֲלֹךְ׃",
+       "translation": "„Fiecare să se păzească de prietenul lui și să nu se încreadă nici [măcar] într-un frate, căci orice frate este înșelător și orice prieten bârfitot. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἕκαστος ἀπὸ τοῦ πλησίον αὐτοῦ φυλάξασθε καὶ ἐπ’ ἀδελφοῖς αὐτῶν μὴ πεποίθατε, ὅτι πᾶς ἀδελφὸς πτέρνῃ πτερνιεῖ, καὶ πᾶς φίλος δολίως πορεύσεται.",
+       "greek": true,
+       "translation": "Fiecare de semenul lui să se păzească, și în frații lor să nu se încreadă, căci orice frate va lovi cu călcâiul, și orice prieten va merge cu viclenie.",
+       "note": "Corespondență remarcabilă: Septuaginta traduce jocul de cuvinte ebraic „akov iaakov” (înșală/calcă pe urmă, din aceeași rădăcină cu numele Iacov) printr-o imagine păstrând etimologia — „va lovi cu călcâiul” (πτέρνῃ πτερνιεῖ) — una dintre puținele reflectări grecești ale jocului de cuvinte original."
+      }
+     ],
+     "refs": [
+      "Geneza 27:35,36",
+      "Leviticul 19:16",
+      "Proverbe 6:16-19"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Orice frate este cu adevărat înșelător” — stă la pândă, precum «și la pândă stă»."
+      }
+     ]
     },
     {
      "v": "9:4",
      "t": "Fiecare își batjocorește prietenul și nu spune adevărul; își deprind limba la vorbe mincinoase, obosindu-se să facă rău.",
      "heb": "וְאִישׁ בְּרֵעֵהוּ יְהָתֵלּוּ וֶאֱמֶת לֹא יְדַבֵּרוּ לִמְּדוּ לְשׁוֹנָם דַּבֶּר־שֶׁקֶר הַעֲוֵה נִלְאוּ׃",
-     "translit": "Veiș bereehu iehatelu veemet lo iedaberu limdu leșonam daber-șeker haave nilu."
+     "translit": "Veiș bereehu iehatelu veemet lo iedaberu limdu leșonam daber-șeker haave nilu.",
+     "tokens": [
+      {
+       "t": "Fiecare își batjocorește prietenul și nu spune adevărul; își deprind limba la vorbe mincinoase, obosindu-se să facă rău."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאִישׁ בְּרֵעֵהוּ יְהָתֵלּוּ וֶאֱמֶת לֹא יְדַבֵּרוּ לִמְּדוּ לְשׁוֹנָם דַּבֶּר־שֶׁקֶר הַעֲוֵה נִלְאוּ׃",
+       "translation": "Fiecare își batjocorește prietenul și nu spune adevărul; își deprind limba la vorbe mincinoase, obosindu-se să facă rău. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἕκαστος κατὰ τοῦ φίλου αὐτοῦ καταπαίξεται, ἀλήθειαν οὐ μὴ λαλήσωσι· μεμάθηκεν ἡ γλῶσσα αὐτῶν λαλεῖν ψευδῆ, ἠδίκησαν καὶ οὐ διέλιπον τοῦ ἐπιστρέψαι.",
+       "greek": true,
+       "translation": "Fiecare de prietenul lui va râde, adevăr nu vor grăi; limba lor a învățat să vorbească minciuni, au nedreptățit și n-au contenit [din rău].",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 6:28",
+      "Proverbe 6:16,19",
+      "1 Petru 2:1,2"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:5",
      "t": "Locuința ta este în înșelătorie, prin înșelătorie refuză să Mă cunoască” – rostirea DOMNULUI.",
      "heb": "שִׁבְתְּךָ בְּתוֹךְ מִרְמָה בְּמִרְמָה מֵאֲנוּ דַעַת־אוֹתִי נְאֻם־יְהוָה׃",
-     "translit": "Șivteha betoh mirma bemirma meanu daat-oti neum-ADONAI."
+     "translit": "Șivteha betoh mirma bemirma meanu daat-oti neum-ADONAI.",
+     "tokens": [
+      {
+       "t": "Locuința ta este în înșelătorie, prin înșelătorie refuză să Mă cunoască” – rostirea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "שִׁבְתְּךָ בְּתוֹךְ מִרְמָה בְּמִרְמָה מֵאֲנוּ דַעַת־אוֹתִי נְאֻם־יְהוָה׃",
+       "translation": "Locuința ta este în înșelătorie, prin înșelătorie refuză să Mă cunoască” – rostirea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τόκος ἐπὶ τόκῳ καὶ δόλος ἐπὶ δόλῳ· οὐκ ἤθελον εἰδέναι με, φησὶ Κύριος.",
+       "greek": true,
+       "translation": "Camătă peste camătă și viclenie peste viclenie; n-au voit să Mă cunoască, zice Domnul.",
+       "note": "Divergență majoră de imagine: Septuaginta are „camătă peste camătă” (τόκος ἐπὶ τόκῳ), fără legătură cu Textul Masoretic, care are „locuința ta este în mijlocul înșelătoriei” — probabil o confuzie de citire a rădăcinii ebraice."
+      }
+     ],
+     "refs": [
+      "Isaia 59:13-15",
+      "Mica 6:12",
+      "Efeseni 4:25"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:6",
      "t": "De aceea, așa a vorbit DOMNUL Oștirilor: „Iată, îi voi topi și îi voi încerca, căci ce [altceva] aș putea face pentru fiica poporului Meu?",
      "heb": "לָכֵן כֹּה אָמַר יְהוָה צְבָאוֹת הִנְנִי צוֹרְפָם וּבְחַנְתִּים כִּי־אֵיךְ אֶעֱשֶׂה מִפְּנֵי בַת־עַמִּי׃",
-     "translit": "Lahen ko amar ADONAI Țevaot hineni tzorfam uvhantim ki-eih eese mipenei bat-ami."
+     "translit": "Lahen ko amar ADONAI Țevaot hineni tzorfam uvhantim ki-eih eese mipenei bat-ami.",
+     "tokens": [
+      {
+       "t": "De aceea, așa a vorbit DOMNUL Oștirilor: „Iată, "
+      },
+      {
+       "t": "îi voi topi și îi voi încerca",
+       "w": "îi voi topi și îi voi încerca",
+       "heb": "צוֹרְפָם וּבְחַנְתִּים",
+       "translit": "țorfam uvhantim",
+       "strong": "H974",
+       "pos": "verb, qal participiu + sufix + verb, qal perfect consecutiv + sufix",
+       "def_ro": "îi voi lefeca/rafina și-i voi încerca (tzorfam uvhantim).",
+       "dict_ro": "Metzudat David explică metafora metalurgică: precum argintul e pus în cuptor ca să i se scoată zgura și să i se verifice puritatea, tot așa Domnul va aduce necazuri asupra poporului ca să-l curețe de zgura păcatului — tocmai pentru că rămâne „fiica poporului Meu”, nu poate fi lăsat nimicit, ci doar purificat prin suferință."
+      },
+      {
+       "t": ", căci ce [altceva] aș putea face pentru fiica poporului Meu?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לָכֵן כֹּה אָמַר יְהוָה צְבָאוֹת הִנְנִי צוֹרְפָם וּבְחַנְתִּים כִּי־אֵיךְ אֶעֱשֶׂה מִפְּנֵי בַת־עַמִּי׃",
+       "translation": "De aceea, așa a vorbit DOMNUL Oștirilor: „Iată, îi voi topi și îi voi încerca, căci ce [altceva] aș putea face pentru fiica poporului Meu? — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διὰ τοῦτο τάδε λέγει Κύριος· ἰδοὺ ἐγὼ πυρώσω αὐτοὺς καὶ δοκιμῶ αὐτούς, ὅτι ποιήσω ἀπὸ προσώπου πονηρίας θυγατρὸς λαοῦ μου.",
+       "greek": true,
+       "translation": "De aceea, așa zice Domnul: iată, îi voi arde cu foc și-i voi încerca, căci voi face [astfel] din pricina răutății fiicei poporului Meu.",
+       "note": "Corespondență apropiată cu Textul Masoretic, cu imaginea „arderii cu foc” în loc de „lefecare/rafinare” — registru asemănător de purificare prin încercare."
+      }
+     ],
+     "refs": [
+      "Ieremia 6:29,30",
+      "Isaia 1:25",
+      "Zaharia 13:9"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Îi voi lefeca și-i voi încerca” — precum argintul e pus în cuptor ca să i se scoată zgura și să se vadă dacă e bun sau rău, tot așa voi aduce asupra lor necazuri, ca să-i curăț și să le scot zgura păcatului. „Căci ce aș putea face” — dacă i-aș lăsa cufundați în păcat, ei sunt totuși adunarea poporului Meu și se cuvine să fie un popor sfânt; dacă aș face cu ei nimicire totală, mi-e milă de ei, ca de poporul Meu — de aceea îi voi lefeca prin suferințe, ca să scap de ei zgura păcatului și să rămână curățați."
+      }
+     ]
     },
     {
      "v": "9:7",
      "t": "Limba lor este o săgeată întinsă, vorbind înșelăciune; cu gura lui, unul vorbește de pace cu semenul său, dar în inima lui pregătește o cursă.",
      "heb": "חֵץ שָׁחוּט לְשׁוֹנָם מִרְמָה דִבֵּר בְּפִיו שָׁלוֹם אֶת־רֵעֵהוּ יְדַבֵּר וּבְקִרְבּוֹ יָשִׂים אָרְבּוֹ׃",
-     "translit": "Heț șahuț leșonam mirma diber befiv șalom et-reehu iedaber uvekirbo iasim orbo."
+     "translit": "Heț șahuț leșonam mirma diber befiv șalom et-reehu iedaber uvekirbo iasim orbo.",
+     "tokens": [
+      {
+       "t": "Limba lor este o săgeată întinsă, vorbind înșelăciune; cu gura lui, unul vorbește de pace cu semenul său, dar în inima lui pregătește o cursă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "חֵץ שָׁחוּט לְשׁוֹנָם מִרְמָה דִבֵּר בְּפִיו שָׁלוֹם אֶת־רֵעֵהוּ יְדַבֵּר וּבְקִרְבּוֹ יָשִׂים אָרְבּוֹ׃",
+       "translation": "Limba lor este o săgeată întinsă, vorbind înșelăciune; cu gura lui, unul vorbește de pace cu semenul său, dar în inima lui pregătește o cursă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "βολὶς τιτρώσκουσα ἡ γλῶσσα αὐτῶν, δόλια τὰ ῥήματα τοῦ στόματος αὐτῶν· τῷ πλησίον αὐτοῦ λαλεῖ εἰρηνικὰ καὶ ἐν ἑαυτῷ ἔχει τὴν ἔχθραν.",
+       "greek": true,
+       "translation": "O săgeată rănitoare [este] limba lor, viclene [sunt] cuvintele gurii lor; semenului său îi vorbește cuvinte de pace, iar în sine însuși ține vrăjmășia.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 52:2-4",
+      "Psalmul 64:3,4"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:8",
      "t": "Să nu îi pedepsesc oare pentru acestea?” – rostirea DOMNULUI – „Să nu se răzbune sufletul Meu pe un astfel de neam?",
      "heb": "הַעַל־אֵלֶּה לֹא־אֶפְקָד־בָּם נְאֻם־יְהוָה אִם בְּגוֹי אֲשֶׁר־כָּזֶה לֹא תִתְנַקֵּם נַפְשִׁי׃",
-     "translit": "Haal-ele lo-efkod-bam neum-ADONAI im begoi așer-kaze lo titnakem nafși."
+     "translit": "Haal-ele lo-efkod-bam neum-ADONAI im begoi așer-kaze lo titnakem nafși.",
+     "tokens": [
+      {
+       "t": "Să nu îi pedepsesc oare pentru acestea?” – rostirea DOMNULUI – „Să nu se răzbune sufletul Meu pe un astfel de neam?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הַעַל־אֵלֶּה לֹא־אֶפְקָד־בָּם נְאֻם־יְהוָה אִם בְּגוֹי אֲשֶׁר־כָּזֶה לֹא תִתְנַקֵּם נַפְשִׁי׃",
+       "translation": "Să nu îi pedepsesc oare pentru acestea?” – rostirea DOMNULUI – „Să nu se răzbune sufletul Meu pe un astfel de neam? — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μὴ ἐπὶ τούτοις οὐκ ἐπισκέψομαι, λέγει Κύριος, ἢ ἐν λαῷ τοιούτῳ οὐκ ἐκδικήσει ἡ ψυχή μου;",
+       "greek": true,
+       "translation": "Nu-i voi cerceta Eu pentru acestea, zice Domnul, sau pe un popor ca acesta nu se va răzbuna sufletul Meu?",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 5:9,29",
+      "Isaia 1:24"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:9",
      "t": "Pentru munți voi înălța o plângere și un bocet, și pentru pășunea pustiită un [cântec de] jale, căci au ajuns pustii, fără trecători, și nu se mai aude pe ele zgomotul turmelor; de la păsărea cerurilor și până la vită, [toate] au plecat și s-au dus.",
      "heb": "עַל־הֶהָרִים אֶשָּׂא בְכִי וָנֶהִי וְעַל־נְאוֹת מִדְבָּר קִינָה כִּי נִצְּתוּ מִבְּלִי־אִישׁ עֹבֵר וְלֹא שָׁמְעוּ קוֹל מִקְנֶה מֵעוֹף הַשָּׁמַיִם וְעַד־בְּהֵמָה נָדְדוּ הָלָכוּ׃",
-     "translit": "Al-heharim esa vehi vanehi veal-neot midbar kina ki nițetu mibli-iș over velo șameu kol mikne meof hașamaim vead-behema nadedu halahu."
+     "translit": "Al-heharim esa vehi vanehi veal-neot midbar kina ki nițetu mibli-iș over velo șameu kol mikne meof hașamaim vead-behema nadedu halahu.",
+     "tokens": [
+      {
+       "t": "Pentru munți voi înălța o plângere și un bocet, și pentru pășunea pustiită un [cântec de] jale, căci au ajuns pustii, fără trecători, și nu se mai aude pe ele zgomotul turmelor; de la păsărea cerurilor și până la vită, [toate] "
+      },
+      {
+       "t": "au plecat și s-au dus",
+       "w": "au plecat și s-au dus",
+       "heb": "נָדְדוּ הָלָכוּ",
+       "translit": "naddu halahu",
+       "strong": "H1980",
+       "pos": "verb, qal perfect + verb, qal perfect",
+       "def_ro": "s-au îndepărtat, au plecat (nadedu halahu).",
+       "dict_ro": "Rashi citează o tradiție exegetică bazată pe numerologie (ghimatria): cuvântul „behema” (vită) din acest verset are valoarea numerică 52 — cincizeci și doi fiind exact numărul de ani în care niciun om n-a trecut prin Iuda, din exilul lui Țidkia până la decretul lui Cirus, regele Persiei; textul ar conține, discret, chiar durata exactă a pustiirii."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַל־הֶהָרִים אֶשָּׂא בְכִי וָנֶהִי וְעַל־נְאוֹת מִדְבָּר קִינָה כִּי נִצְּתוּ מִבְּלִי־אִישׁ עֹבֵר וְלֹא שָׁמְעוּ קוֹל מִקְנֶה מֵעוֹף הַשָּׁמַיִם וְעַד־בְּהֵמָה נָדְדוּ הָלָכוּ׃",
+       "translation": "Pentru munți voi înălța o plângere și un bocet, și pentru pășunea pustiită un [cântec de] jale, căci au ajuns pustii, fără trecători, și nu se mai aude pe ele zgomotul turmelor; de la păsărea cerurilor și până la vită, [toate] au plecat și s-au dus. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "᾿Επὶ τὰ ὄρη λάβετε κοπετὸν καὶ ἐπὶ τὰς τρίβους τῆς ἐρήμου θρῆνον, ὅτι ἐξέλιπον παρὰ τὸ μὴ εἶναι ἀνθρώπους· οὐκ ἤκουσαν φωνὴν ὑπάρξεως· ἀπὸ πετεινῶν τοῦ οὐρανοῦ καὶ ἕως κτηνῶν ἐξέστησαν, ᾤχοντο.",
+       "greek": true,
+       "translation": "Pentru munți luați bocet, și pentru cărările pustiei, tânguire, căci au pierit, de nu mai este om; n-au mai auzit glasul turmei; de la păsările cerului și până la vite s-au îngrozit, au plecat.",
+       "note": "Mică diferență de imagine: Septuaginta are „cărările pustiei” în loc de „pășunea pustiei” din Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:19-26",
+      "Ieremia 12:4,10",
+      "Osea 4:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„S-au îndepărtat, au plecat” — la urmă aveau să plece. Cincizeci și doi de ani n-a trecut niciun om prin Iuda: de la exilul lui Țidkia până la decretul lui Cirus, regele Persiei, au fost cincizeci și doi de ani, iar aluzia la acest lucru [se găsește] în cuvântul «vită» [behema], al cărui calcul numeric este cincizeci și doi — iar socoteala se confirmă în tratatul Meghila."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„S-au îndepărtat, au plecat” — printre înțelepții noștri, de bună amintire, Rabi Iuda spune: cincizeci și doi de ani n-a trecut niciun om prin Iuda, cum se spune «pe munți... de la pasărea cerurilor și până la vită, s-au îndepărtat, au plecat» — iar «vită» [behema] are valoarea numerică cincizeci și doi; Rabi Iosi spune: timp de șapte ani s-a împlinit asupra ei [prorocia despre] pucioasă, cum se spune «pucioasă și sare a pârjolit toată țara ei»."
+      }
+     ]
     },
     {
      "v": "9:10",
      "t": "Voi preface Ierusalimul în movile de ruine, o vizuină pentru șerpi; iar orașele din Iuda le voi preface în pustiu, fără locuitori.”",
      "heb": "וְנָתַתִּי אֶת־יְרוּשָׁלַ͏ִם לְגַלִּים מְעוֹן תַּנִּים וְאֶת־עָרֵי יְהוּדָה אֶתֵּן שְׁמָמָה מִבְּלִי יוֹשֵׁב׃",
-     "translit": "Venatati et-Ierușalaim legalim meon tanim veet-arei Iehuda eten șemama mibli ioșev."
+     "translit": "Venatati et-Ierușalaim legalim meon tanim veet-arei Iehuda eten șemama mibli ioșev.",
+     "tokens": [
+      {
+       "t": "Voi preface Ierusalimul în movile de ruine, o vizuină pentru șerpi; iar orașele din Iuda le voi preface în pustiu, fără locuitori.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנָתַתִּי אֶת־יְרוּשָׁלַ͏ִם לְגַלִּים מְעוֹן תַּנִּים וְאֶת־עָרֵי יְהוּדָה אֶתֵּן שְׁמָמָה מִבְּלִי יוֹשֵׁב׃",
+       "translation": "Voi preface Ierusalimul în movile de ruine, o vizuină pentru șerpi; iar orașele din Iuda le voi preface în pustiu, fără locuitori.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ δώσω τὴν ῾Ιερουσαλὴμ εἰς μετοικίαν καὶ εἰς κατοικητήριον δρακόντων καὶ τὰς πόλεις ᾿Ιούδα εἰς ἀφανισμὸν θήσομαι, παρὰ τὸ μὴ κατοικεῖσθαι.",
+       "greek": true,
+       "translation": "Și voi da Ierusalimul spre strămutare și spre locaș al balaurilor, și cetățile lui Iuda le voi face spre pustiire, ca să nu mai fie locuite.",
+       "note": "Divergență de imagine: Septuaginta are „spre strămutare” (εἰς μετοικίαν, adică spre exil) în loc de „movile de ruine” (legalim) din Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 10:22",
+      "Isaia 13:22",
+      "Plângerile lui Ieremia 2:7,8"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:11",
      "t": "Cine este înțeleptul care să înțeleagă acestea și căruia gura DOMNULUI îi vorbește – să zică: „De ce a fost distrusă țara și a ajuns arsă ca un deșert, fără trecători?”",
      "heb": "מִי־הָאִישׁ הֶחָכָם וְיָבֵן אֶת־זֹאת וַאֲשֶׁר דִּבֶּר פִּי־יְהוָה אֵלָיו וְיַגִּדָהּ עַל־מָה אָבְדָה הָאָרֶץ נִצְּתָה כַמִּדְבָּר מִבְּלִי עֹבֵר׃",
-     "translit": "Mi-haiș hehaham veiaven et-zot vaașer diber pi-ADONAI elav veiagida al-ma avda haareț nițta hamidbar mibli over."
+     "translit": "Mi-haiș hehaham veiaven et-zot vaașer diber pi-ADONAI elav veiagida al-ma avda haareț nițta hamidbar mibli over.",
+     "tokens": [
+      {
+       "t": "Cine este înțeleptul care să înțeleagă acestea și căruia gura DOMNULUI îi vorbește – să zică: „De ce a fost distrusă țara și a ajuns arsă ca un deșert, fără trecători?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי־הָאִישׁ הֶחָכָם וְיָבֵן אֶת־זֹאת וַאֲשֶׁר דִּבֶּר פִּי־יְהוָה אֵלָיו וְיַגִּדָהּ עַל־מָה אָבְדָה הָאָרֶץ נִצְּתָה כַמִּדְבָּר מִבְּלִי עֹבֵר׃",
+       "translation": "Cine este înțeleptul care să înțeleagă acestea și căruia gura DOMNULUI îi vorbește – să zică: „De ce a fost distrusă țara și a ajuns arsă ca un deșert, fără trecători?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τίς ὁ ἄνθρωπος ὁ συνετός, καὶ συνέτω τοῦτο; καὶ ᾧ λόγος στόματος Κυρίου πρὸς αὐτόν, ἀναγγειλάτω ὑμῖν· ἕνεκεν τίνος ἀπώλετο ἡ γῆ, ἀνήφθη ὡς ἔρημος παρὰ τὸ μὴ διοδεύεσθαι αὐτήν;",
+       "greek": true,
+       "translation": "Cine este omul priceput, ca să priceapă aceasta? Și cel căruia cuvântul gurii Domnului [i s-a adresat], să vă vestească: pentru ce a pierit țara, s-a aprins ca un pustiu, de nu mai e cine să treacă prin ea?",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 32:29",
+      "Psalmul 107:43",
+      "Osea 14:9"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:12",
      "t": "DOMNUL spune: „Pentru că au abandonat Învățătura Mea pe care le-am pus-o înainte și n-au ascultat de glasul Meu și nici nu l-au urmat.",
      "heb": "וַיֹּאמֶר יְהוָה עַל־עָזְבָם אֶת־תּוֹרָתִי אֲשֶׁר נָתַתִּי לִפְנֵיהֶם וְלֹא־שָׁמְעוּ בְקוֹלִי וְלֹא־הָלְכוּ בָהּ׃",
-     "translit": "Vaiomer ADONAI al-ozvam et-torati așer natati lifneihem velo-șameu vekoli velo-halhu va."
+     "translit": "Vaiomer ADONAI al-ozvam et-torati așer natati lifneihem velo-șameu vekoli velo-halhu va.",
+     "tokens": [
+      {
+       "t": "DOMNUL spune: „Pentru că au abandonat Învățătura Mea pe care le-am pus-o înainte și n-au ascultat de glasul Meu și nici nu l-au urmat."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוָה עַל־עָזְבָם אֶת־תּוֹרָתִי אֲשֶׁר נָתַתִּי לִפְנֵיהֶם וְלֹא־שָׁמְעוּ בְקוֹלִי וְלֹא־הָלְכוּ בָהּ׃",
+       "translation": "DOMNUL spune: „Pentru că au abandonat Învățătura Mea pe care le-am pus-o înainte și n-au ascultat de glasul Meu și nici nu l-au urmat. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Κύριος πρός με· διὰ τὸ ἐγκαταλιπεῖν αὐτοὺς τὸν νόμον μου, ὃν ἔδωκα πρὸ προσώπου αὐτῶν, καὶ οὐκ ἤκουσαν τῆς φωνῆς μου,",
+       "greek": true,
+       "translation": "Și Domnul a zis către mine: pentru că au părăsit legea Mea, pe care am dat-o înaintea feței lor, și n-au ascultat glasul Meu,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 31:16,17",
+      "Psalmul 119:53",
+      "Proverbe 28:4"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:13",
      "t": "Au urmat după încăpățânarea inimii lor și după idolii lor pentru Baal, precum i-au învățat părinții lor.”",
      "heb": "וַיֵּלְכוּ אַחֲרֵי שְׁרִרוּת לִבָּם וְאַחֲרֵי הַבְּעָלִים אֲשֶׁר לִמְּדוּם אֲבוֹתָם׃",
-     "translit": "Vaielhu aharei șerirut libam veaharei habaalim așer limdum avotam."
+     "translit": "Vaielhu aharei șerirut libam veaharei habaalim așer limdum avotam.",
+     "tokens": [
+      {
+       "t": "Au urmat după încăpățânarea inimii lor și după idolii lor pentru Baal, precum i-au învățat părinții lor.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֵּלְכוּ אַחֲרֵי שְׁרִרוּת לִבָּם וְאַחֲרֵי הַבְּעָלִים אֲשֶׁר לִמְּדוּם אֲבוֹתָם׃",
+       "translation": "Au urmat după încăpățânarea inimii lor și după idolii lor pentru Baal, precum i-au învățat părinții lor.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀλλ’ ἐπορεύθησαν ὀπίσω τῶν ἀρεστῶν τῆς καρδίας αὐτῶν τῆς κακῆς καὶ ὀπίσω τῶν εἰδώλων, ἃ ἐδίδαξαν αὐτοὺς οἱ πατέρες αὐτῶν·",
+       "greek": true,
+       "translation": "ci au mers după plăcerile inimii lor cele rele și după idolii pe care i-au învățat părinții lor;",
+       "note": "Mică divergență: Septuaginta are „plăcerile inimii lor” în loc de „încăpățânarea inimii lor” (șrirut libam) din Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 6:5",
+      "Ieremia 3:17",
+      "Ieremia 7:24"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:14",
      "t": "De aceea, așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: „Iată, voi face pe acest popor să mănânce pelin și le voi da ape otrăvite să bea.",
      "heb": "לָכֵן כֹּה־אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל הִנְנִי מַאֲכִילָם אֶת־הָעָם הַזֶּה לַעֲנָה וְהִשְׁקִיתִים מֵי־רֹאשׁ׃",
-     "translit": "Lahen ko-amar ADONAI Țevaot Elohei Israel hineni maahilam et-haam haze laana vehișkitim mei-roș."
+     "translit": "Lahen ko-amar ADONAI Țevaot Elohei Israel hineni maahilam et-haam haze laana vehișkitim mei-roș.",
+     "tokens": [
+      {
+       "t": "De aceea, așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: „Iată, voi face pe acest popor să mănânce pelin și le voi da ape otrăvite să bea."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לָכֵן כֹּה־אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל הִנְנִי מַאֲכִילָם אֶת־הָעָם הַזֶּה לַעֲנָה וְהִשְׁקִיתִים מֵי־רֹאשׁ׃",
+       "translation": "De aceea, așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: „Iată, voi face pe acest popor să mănânce pelin și le voi da ape otrăvite să bea. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διὰ τοῦτο τάδε λέγει Κύριος ὁ Θεὸς ᾿Ισραήλ· ἰδοὺ ἐγὼ ψωμιῶ αὐτοὺς ἀνάγκας καὶ ποτιῶ αὐτοὺς ὕδωρ χολῆς",
+       "greek": true,
+       "translation": "De aceea, așa zice Domnul, Dumnezeul lui Israel: iată, îi voi hrăni cu necazuri și-i voi adăpa cu apă de fiere",
+       "note": "Mică divergență de imagine: Septuaginta are „necazuri” (ἀνάγκας) în loc de „pelin” (laana), o plantă amară concretă în Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 23:15",
+      "Ieremia 25:15",
+      "Psalmul 69:21"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:15",
      "t": "Îi voi împrăștia printre neamuri pe care nu le-au cunoscut, nici ei, nici părinții lor. Voi trimite sabia după ei până ce îi va distruge!”",
      "heb": "וַהֲפִצוֹתִים בַּגּוֹיִם אֲשֶׁר לֹא יָדְעוּ הֵמָּה וַאֲבוֹתָם וְשִׁלַּחְתִּי אַחֲרֵיהֶם אֶת־הַחֶרֶב עַד כַּלּוֹתִי אוֹתָם׃",
-     "translit": "Vahafitzotim bagoim așer lo iadeu hema vaavotam veșilahti ahareihem et-haherev ad kaloti otam."
+     "translit": "Vahafitzotim bagoim așer lo iadeu hema vaavotam veșilahti ahareihem et-haherev ad kaloti otam.",
+     "tokens": [
+      {
+       "t": "Îi voi împrăștia printre neamuri pe care nu le-au cunoscut, nici ei, nici părinții lor. Voi trimite sabia după ei până ce îi va distruge!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַהֲפִצוֹתִים בַּגּוֹיִם אֲשֶׁר לֹא יָדְעוּ הֵמָּה וַאֲבוֹתָם וְשִׁלַּחְתִּי אַחֲרֵיהֶם אֶת־הַחֶרֶב עַד כַּלּוֹתִי אוֹתָם׃",
+       "translation": "Îi voi împrăștia printre neamuri pe care nu le-au cunoscut, nici ei, nici părinții lor. Voi trimite sabia după ei până ce îi va distruge!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ διασκορπιῶ αὐτοὺς ἐν τοῖς ἔθνεσιν, εἰς οὓς οὐκ ἐγίνωσκον αὐτοὶ καὶ οἱ πατέρες αὐτῶν, καὶ ἐπαποστελῶ ἐπ’ αὐτοὺς τὴν μάχαιραν ἕως τοῦ ἐξαναλῶσαι αὐτοὺς ἐν αὐτῇ.",
+       "greek": true,
+       "translation": "și-i voi împrăștia printre neamuri, pe care nu le-au cunoscut nici ei, nici părinții lor, și voi trimite asupra lor sabia, până ce îi va nimici cu ea.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Leviticul 26:33",
+      "Deuteronomul 28:64",
+      "Ezechiel 12:15"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:16",
      "t": "Așa a spus DOMNUL Oștirilor: „Luați aminte! Chemați bocitoarele să vină! Și pe femeile înțelepte trimiteți-le să vină!”",
      "heb": "כֹּה אָמַר יְהוָה צְבָאוֹת הִתְבּוֹנְנוּ וְקִרְאוּ לַמְקוֹנְנוֹת וּתְבוֹאֶינָה וְאֶל־הַחֲכָמוֹת שִׁלְחוּ וְתָבוֹאנָה׃",
-     "translit": "Ko amar ADONAI Țevaot hitbonenu vekiru lamekonenot utevoena veel-hahahamot șilhu vetavona."
+     "translit": "Ko amar ADONAI Țevaot hitbonenu vekiru lamekonenot utevoena veel-hahahamot șilhu vetavona.",
+     "tokens": [
+      {
+       "t": "Așa a spus DOMNUL Oștirilor: „Luați aminte! Chemați bocitoarele să vină! Și pe femeile înțelepte trimiteți-le să vină!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה אָמַר יְהוָה צְבָאוֹת הִתְבּוֹנְנוּ וְקִרְאוּ לַמְקוֹנְנוֹת וּתְבוֹאֶינָה וְאֶל־הַחֲכָמוֹת שִׁלְחוּ וְתָבוֹאנָה׃",
+       "translation": "Așa a spus DOMNUL Oștirilor: „Luați aminte! Chemați bocitoarele să vină! Și pe femeile înțelepte trimiteți-le să vină!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τάδε λέγει Κύριος· καλέσατε τὰς θρηνούσας καὶ ἐλθέτωσαν, καὶ πρὸς τὰς σοφὰς ἀποστείλατε καὶ φθεγξάσθωσαν",
+       "greek": true,
+       "translation": "Așa zice Domnul: chemați pe cele ce bocesc, și să vină, și la cele înțelepte trimiteți, și să grăiască [cântece de jale]",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 35:25",
+      "Amos 5:16,17"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:17",
      "t": "Să se grăbească și să înalțe o cântare de jale pentru noi și ochii noștri să se umple de lacrimi și pleoapele noastre de șuvoaie de apă.",
      "heb": "וּתְמַהֵרְנָה וְתִשֶּׂנָה עָלֵינוּ נֶהִי וְתֵרַדְנָה עֵינֵינוּ דִּמְעָה וְעַפְעַפֵּינוּ יִזְּלוּ־מָיִם׃",
-     "translit": "Utemaherna vetesena aleinu nehi vteredna eineinu dima veafapeinu izlu-maim."
+     "translit": "Utemaherna vetesena aleinu nehi vteredna eineinu dima veafapeinu izlu-maim.",
+     "tokens": [
+      {
+       "t": "Să se grăbească și să înalțe o cântare de jale pentru noi și ochii noștri să se umple de lacrimi și pleoapele noastre de șuvoaie de apă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּתְמַהֵרְנָה וְתִשֶּׂנָה עָלֵינוּ נֶהִי וְתֵרַדְנָה עֵינֵינוּ דִּמְעָה וְעַפְעַפֵּינוּ יִזְּלוּ־מָיִם׃",
+       "translation": "Să se grăbească și să înalțe o cântare de jale pentru noi și ochii noștri să se umple de lacrimi și pleoapele noastre de șuvoaie de apă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ λαβέτωσαν ἐφ’ ὑμᾶς θρῆνον, καὶ καταγαγέτωσαν οἱ ὀφθαλμοὶ ὑμῶν δάκρυα, καὶ τὰ βλέφαρα ὑμῶν ρείτω ὕδωρ.",
+       "greek": true,
+       "translation": "și să înalțe pentru voi o jale, și să verse ochii voștri lacrimi, și pleoapele voastre să lase să curgă apă.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 9:10,20"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:18",
      "t": "Căci glas de jale se va auzi în Țion: «Cum am mai fost prădați! Cât de rușinați suntem, căci am părăsit țara, căci locuințele noastre ne-au aruncat afară!",
      "heb": "כִּי קוֹל נְהִי נִשְׁמַע מִצִּיּוֹן אֵיךְ שֻׁדָּדְנוּ בֹּשְׁנוּ מְאֹד כִּי־עָזַבְנוּ אָרֶץ כִּי הִשְׁלִיכוּ מִשְׁכְּנוֹתֵינוּ׃",
-     "translit": "Ki kol nehi nișma mi'Țion eih șudadnu boșnu meod ki-azavnu areț ki hișlihu mișkenoteinu."
+     "translit": "Ki kol nehi nișma mi'Țion eih șudadnu boșnu meod ki-azavnu areț ki hișlihu mișkenoteinu.",
+     "tokens": [
+      {
+       "t": "Căci glas de jale se va auzi în Țion: «Cum am mai fost prădați! Cât de rușinați suntem, căci am părăsit țara, căci locuințele noastre ne-au aruncat afară!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי קוֹל נְהִי נִשְׁמַע מִצִּיּוֹן אֵיךְ שֻׁדָּדְנוּ בֹּשְׁנוּ מְאֹד כִּי־עָזַבְנוּ אָרֶץ כִּי הִשְׁלִיכוּ מִשְׁכְּנוֹתֵינוּ׃",
+       "translation": "Căci glas de jale se va auzi în Țion: «Cum am mai fost prădați! Cât de rușinați suntem, căci am părăsit țara, căci locuințele noastre ne-au aruncat afară! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι φωνὴ οἴκτου ἠκούσθη ἐν Σιών· πῶς ἐταλαιπωρήσαμεν, κατῃσχύνθημεν σφόδρα, ὅτι ἐγκατελίπομεν τὴν γῆν καὶ ἀπερρίψαμεν τὰ σκηνώματα ἡμῶν.",
+       "greek": true,
+       "translation": "căci glasul de milă s-a auzit în Sion: cum am fost năpăstuiți, ne-am rușinat foarte mult, căci am părăsit țara și am lepădat corturile noastre.",
+       "note": "Divergență de agent: Textul Masoretic spune „locuințele noastre ne-au aruncat afară” (subiectul fiind locuințele înseși); Septuaginta are „noi am lepădat corturile noastre” — subiectul acțiunii e schimbat de la locuințe la oamenii înșiși."
+      }
+     ],
+     "refs": [
+      "Ieremia 9:1",
+      "Plângerile lui Ieremia 1:2",
+      "Plângerile lui Ieremia 2:11"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:19",
      "t": "Ascultați, femeilor, cuvântul DOMNULUI! Urechile voastre să ia cuvântul gurii Lui! Învățați-le pe fiicele voastre cântec de jale, orice femeie să-și bocească prietena.",
      "heb": "כִּי־שְׁמַעְנָה נָשִׁים דְּבַר־יְהוָה וְתִקַּח אָזְנְכֶם דְּבַר־פִּיו וְלַמֵּדְנָה בְנוֹתֵיכֶם נֶהִי וְאִשָּׁה רְעוּתָהּ קִינָה׃",
-     "translit": "Ki-șemana nașim devar-ADONAI vetikah oznehem devar-piv velamedna venoteihem nehi veișa reuta kina."
+     "translit": "Ki-șemana nașim devar-ADONAI vetikah oznehem devar-piv velamedna venoteihem nehi veișa reuta kina.",
+     "tokens": [
+      {
+       "t": "Ascultați, femeilor, cuvântul DOMNULUI! Urechile voastre să ia cuvântul gurii Lui! Învățați-le pe fiicele voastre cântec de jale, orice femeie să-și bocească prietena."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־שְׁמַעְנָה נָשִׁים דְּבַר־יְהוָה וְתִקַּח אָזְנְכֶם דְּבַר־פִּיו וְלַמֵּדְנָה בְנוֹתֵיכֶם נֶהִי וְאִשָּׁה רְעוּתָהּ קִינָה׃",
+       "translation": "Ascultați, femeilor, cuvântul DOMNULUI! Urechile voastre să ia cuvântul gurii Lui! Învățați-le pe fiicele voastre cântec de jale, orice femeie să-și bocească prietena. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀκούσατε δή, γυναῖκες, λόγον Θεοῦ, καὶ δεξάσθω τὰ ὦτα ὑμῶν λόγους στόματος αὐτοῦ, καὶ διδάξατε τὰς θυγατέρας ὑμῶν οἶκτον καὶ γυνὴ τὸν πλησίον αὐτῆς θρῆνον.",
+       "greek": true,
+       "translation": "Ascultați, dar, femeilor, cuvântul lui Dumnezeu, și să primească urechile voastre cuvintele gurii Lui, și învățați pe fiicele voastre tânguire, și fiecare femeie pe vecina ei, jale.",
+       "note": "Corespondență strânsă cu Textul Masoretic, cu titlul generic „Dumnezeu” în loc de tetragramă, după tiparul obișnuit al Septuagintei."
+      }
+     ],
+     "refs": [
+      "Ieremia 4:31",
+      "Mica 1:8,9"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:20",
      "t": "Căci moartea s-a ridicat prin ferestrele noastre, a venit în palatele noastre, ca să ne nimicească pruncii de afară [din piețe], și tinerii de pe străzi.”",
      "heb": "כִּי־עָלָה מָוֶת בְּחַלּוֹנֵינוּ בָּא בְּאַרְמְנוֹתֵינוּ לְהַכְרִית עוֹלָל מִחוּץ בַּחוּרִים מֵרְחֹבוֹת׃",
-     "translit": "Ki-ala mavet behaloneinu ba bearmenoteinu lehahrit olal mihuț bahurim merehovot."
+     "translit": "Ki-ala mavet behaloneinu ba bearmenoteinu lehahrit olal mihuț bahurim merehovot.",
+     "tokens": [
+      {
+       "t": "Căci moartea s-a ridicat prin ferestrele noastre, a venit în palatele noastre, ca să ne nimicească pruncii de afară [din piețe], și tinerii de pe străzi.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־עָלָה מָוֶת בְּחַלּוֹנֵינוּ בָּא בְּאַרְמְנוֹתֵינוּ לְהַכְרִית עוֹלָל מִחוּץ בַּחוּרִים מֵרְחֹבוֹת׃",
+       "translation": "Căci moartea s-a ridicat prin ferestrele noastre, a venit în palatele noastre, ca să ne nimicească pruncii de afară [din piețe], și tinerii de pe străzi.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι ἀνέβη θάνατος διὰ τῶν θυρίδων ὑμῶν, εἰσῆλθεν εἰς τὴν γῆν ὑμῶν τοῦ ἐκτρῖψαι νήπια ἔξωθεν καὶ νεανίσκους ἀπὸ τῶν πλατειῶν.",
+       "greek": true,
+       "translation": "căci moartea s-a suit prin ferestrele voastre, a intrat în țara voastră, ca să nimicească pruncii afară și tinerii de pe străzi.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 6:11",
+      "2 Cronici 36:17",
+      "Ezechiel 9:5,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:21",
      "t": "Vorbește așa, rostirea DOMNULUI: „Hoitul omului va cădea ca gunoiul pe câmpie și ca un snop înapoia secerătorului, dar nimeni nu-l va aduna.”",
      "heb": "דַּבֵּר כֹּה נְאֻם־יְהוָה וְנָפְלָה נִבְלַת הָאָדָם כְּדֹמֶן עַל־פְּנֵי הַשָּׂדֶה וּכְעָמִיר מֵאַחֲרֵי הַקֹּצֵר וְאֵין מְאַסֵּף׃",
-     "translit": "Daber ko neum-ADONAI venafla nivlat haadam kedomen al-penei hasade uheamir meaharei hakoțer veein measéf."
+     "translit": "Daber ko neum-ADONAI venafla nivlat haadam kedomen al-penei hasade uheamir meaharei hakoțer veein measéf.",
+     "tokens": [
+      {
+       "t": "Vorbește așa, rostirea DOMNULUI: „Hoitul omului va cădea ca gunoiul pe câmpie și ca un snop înapoia secerătorului, dar nimeni nu-l va aduna.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "דַּבֵּר כֹּה נְאֻם־יְהוָה וְנָפְלָה נִבְלַת הָאָדָם כְּדֹמֶן עַל־פְּנֵי הַשָּׂדֶה וּכְעָמִיר מֵאַחֲרֵי הַקֹּצֵר וְאֵין מְאַסֵּף׃",
+       "translation": "Vorbește așa, rostirea DOMNULUI: „Hoitul omului va cădea ca gunoiul pe câmpie și ca un snop înapoia secerătorului, dar nimeni nu-l va aduna.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔσονται οἱ νεκροὶ τῶν ἀνθρώπων εἰς παράδειγμα ἐπὶ προσώπου τοῦ πεδίου τῆς γῆς ὑμῶν καὶ ὡς χόρτος ὀπίσω θερίζοντος, καὶ οὐκ ἔσται ὁ συνάγων. -",
+       "greek": true,
+       "translation": "și morții oamenilor vor fi pildă pe fața câmpiei țării voastre, și ca iarba în urma secerătorului, și nu va fi cine să [o] adune.",
+       "note": "Divergență dublă de imagine: Septuaginta are „pildă” (παράδειγμα) în loc de „gunoi/balegă” (kedomen), și „iarbă” (χόρτος) în loc de „snop de grâu” (amir) din Textul Masoretic — ambele imagini mai blânde decât originalul ebraic."
+      }
+     ],
+     "refs": [
+      "Ieremia 7:33",
+      "Ieremia 16:4",
+      "Isaia 5:25"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:22",
      "t": "Așa a spus DOMNUL: „Cel înțelept să nu se laude cu înțelepciunea sa, și nici cel puternic să nu se laude cu puterea sa, și nici cel bogat să nu se laude cu bogăția sa.",
      "heb": "כֹּה אָמַר יְהוָה אַל־יִתְהַלֵּל חָכָם בְּחָכְמָתוֹ וְאַל־יִתְהַלֵּל הַגִּבּוֹר בִּגְבוּרָתוֹ אַל־יִתְהַלֵּל עָשִׁיר בְּעָשְׁרוֹ׃",
-     "translit": "Ko amar ADONAI al-ithalel haham behohmato veal-ithalel hagibor bigvurato al-ithalel așir beoșro."
+     "translit": "Ko amar ADONAI al-ithalel haham behohmato veal-ithalel hagibor bigvurato al-ithalel așir beoșro.",
+     "tokens": [
+      {
+       "t": "Așa a spus DOMNUL: „Cel înțelept să nu se laude cu înțelepciunea sa, și nici cel puternic să nu se laude cu puterea sa, și nici cel bogat să nu se laude cu bogăția sa."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה אָמַר יְהוָה אַל־יִתְהַלֵּל חָכָם בְּחָכְמָתוֹ וְאַל־יִתְהַלֵּל הַגִּבּוֹר בִּגְבוּרָתוֹ אַל־יִתְהַלֵּל עָשִׁיר בְּעָשְׁרוֹ׃",
+       "translation": "Așa a spus DOMNUL: „Cel înțelept să nu se laude cu înțelepciunea sa, și nici cel puternic să nu se laude cu puterea sa, și nici cel bogat să nu se laude cu bogăția sa. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Τάδε λέγει Κύριος· μὴ καυχάσθω ὁ σοφὸς ἐν τῇ σοφίᾳ αὐτοῦ, καὶ μὴ καυχάσθω ὁ ἰσχυρὸς ἐν τῇ ἰσχύϊ αὐτοῦ, καὶ μὴ καυχάσθω ὁ πλούσιος ἐν τῷ πλούτῳ αὐτοῦ,",
+       "greek": true,
+       "translation": "Așa zice Domnul: să nu se laude cel înțelept cu înțelepciunea sa, și să nu se laude cel puternic cu puterea sa, și să nu se laude cel bogat cu bogăția sa,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iov 5:12-14",
+      "Psalmul 49:10-13",
+      "Isaia 5:21"
+     ],
+     "commentaries": []
     },
     {
      "v": "9:23",
      "t": "Doar cu aceasta poate lăudărosul să se laude: că Mă înțelege și că Mă cunoaște, căci Eu sunt DOMNUL, care înfăptuiesc bunăvoință, justiție și dreptate pe pământ; căci acestea sunt cele pe care le doresc – rostirea DOMNULUI!",
      "heb": "כִּי אִם־בְּזֹאת יִתְהַלֵּל הַמִּתְהַלֵּל הַשְׂכֵּל וְיָדֹעַ אוֹתִי כִּי אֲנִי יְהוָה עֹשֶׂה חֶסֶד מִשְׁפָּט וּצְדָקָה בָּאָרֶץ כִּי־בְאֵלֶּה חָפַצְתִּי נְאֻם־יְהוָה׃",
-     "translit": "Ki im-bezot ithalel hamithalel haskel veiadoa oti ki ani ADONAI ose hesed mișpat uțedaka baareț ki-veele hafatzti neum-ADONAI."
+     "translit": "Ki im-bezot ithalel hamithalel haskel veiadoa oti ki ani ADONAI ose hesed mișpat uțedaka baareț ki-veele hafatzti neum-ADONAI.",
+     "tokens": [
+      {
+       "t": "Doar cu aceasta poate lăudărosul să se laude: "
+      },
+      {
+       "t": "că Mă înțelege și că Mă cunoaște",
+       "w": "că Mă înțelege și că Mă cunoaște",
+       "heb": "הַשְׂכֵּל וְיָדֹעַ אוֹתִי",
+       "translit": "haskēl veiadoa oti",
+       "strong": "H853",
+       "pos": "verb, hifil infinitiv absolut + verb, qal infinitiv absolut + marcă a complementului direct + sufix",
+       "def_ro": "că [este] înțelept și Mă cunoaște (haskel veiadoa oti).",
+       "dict_ro": "Radak transmite pe larg explicația dată de Maimonide acestui verset-cheie: adevărata „înțelepciune” lăudabilă nu e nici priceperea practică, nici puterea, nici bogăția, ci cunoașterea lui Dumnezeu Însuși — iar a-L cunoaște pe Dumnezeu înseamnă, mai exact, a merge pe căile Lui, înfăptuind bunăvoință, judecată dreaptă și dreptate, exact cum face El Însuși în lume; numai cel care ajunge la această cunoaștere practică, trăită, are motiv adevărat de laudă."
+      },
+      {
+       "t": ", căci Eu sunt DOMNUL, care înfăptuiesc bunăvoință, justiție și dreptate pe pământ; căci acestea sunt cele pe care le doresc – rostirea DOMNULUI!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי אִם־בְּזֹאת יִתְהַלֵּל הַמִּתְהַלֵּל הַשְׂכֵּל וְיָדֹעַ אוֹתִי כִּי אֲנִי יְהוָה עֹשֶׂה חֶסֶד מִשְׁפָּט וּצְדָקָה בָּאָרֶץ כִּי־בְאֵלֶּה חָפַצְתִּי נְאֻם־יְהוָה׃",
+       "translation": "Doar cu aceasta poate lăudărosul să se laude: că Mă înțelege și că Mă cunoaște, căci Eu sunt DOMNUL, care înfăptuiesc bunăvoință, justiție și dreptate pe pământ; căci acestea sunt cele pe care le doresc – rostirea DOMNULUI! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀλλ’ ἢ ἐν τούτῳ καυχάσθω ὁ καυχώμενος, συνίειν καὶ γινώσκεν ὅτι ἐγώ εἰμι Κύριος ὁ ποιῶν ἔλεος καὶ κρίμα καὶ δικαιοσύνην ἐπὶ τῆς γῆς, ὅτι ἐν τούτοις τὸ θέλημά μου, λέγει Κύριος.",
+       "greek": true,
+       "translation": "ci în aceasta să se laude cel ce se laudă: să priceapă și să cunoască că Eu sunt Domnul, Cel ce face milă și judecată și dreptate pe pământ, căci în acestea [este] voia Mea, zice Domnul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Mica 6:8",
+      "Osea 6:6",
+      "1 Corinteni 1:27-29"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Să nu se laude [cel] înțelept” — nu vă lăudați spunând «suntem înțelepți» [Ieremia 8:8]; iată, ați disprețuit cuvântul Meu, și ce înțelepciune mai aveți? [Ieremia 8:9]. Dacă veți fi [cu adevărat] înțelepți și Mă veți cunoaște, atunci vă veți putea lăuda cu înțelepciunea voastră."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Marele înțelept, îndreptătorul dreptății, Rabi Moșe ben Maimon [Maimonide], de bună amintire, a tâlcuit astfel: cuvântul „hochma” (înțelepciune) are în ebraică patru sensuri — priceperea adevărurilor a căror țintă finală este cunoașterea lui Dumnezeu; priceperea meseriilor; dobândirea însușirilor morale bune; și iscusința/șiretenia. Dar nicio desăvârșire a minții, a trupului sau a purtărilor nu e, prin ea însăși, o desăvârșire vrednică de laudă — desăvârșirea cu adevărat vrednică de laudă este cunoașterea lui Dumnezeu Însuși, care este înțelepciunea adevărată; iar „a Mă cunoaște” nu se limitează la cunoașterea minții, ci include cunoașterea felului de a fi al lui Dumnezeu — anume că El înfăptuiește bunăvoință, judecată și dreptate — și omul se cuvine să le înfăptuiască la rândul lui, după exemplul Lui."
+      }
+     ]
     }
    ]
   },
