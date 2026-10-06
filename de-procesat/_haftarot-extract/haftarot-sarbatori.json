@@ -4704,205 +4704,1213 @@
      "v": "15:1",
      "t": "Samuel i-a spus lui Șaul: „Pe mine m-a trimis DOMNUL să te ung ca rege peste poporul Său, peste Israel, astfel că acum ascultă de glasul cuvintelor DOMNULUI.",
      "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל־שָׁאוּל אֹתִי שָׁלַח יְהוָה לִמְשָׁחֳךָ לְמֶלֶךְ עַל־עַמּוֹ עַל־יִשְׂרָאֵל וְעַתָּה שְׁמַע לְקוֹל דִּבְרֵי יְהוָה׃",
-     "translit": "Vaiomer Șemuel el-Șaul oti șalah ADONAI limșahoha lemeleh al-amo al-Israel veata șema lekol divrei ADONAI."
+     "translit": "Vaiomer Șemuel el-Șaul oti șalah ADONAI limșahoha lemeleh al-amo al-Israel veata șema lekol divrei ADONAI.",
+     "tokens": [
+      {
+       "t": "Samuel i-a spus lui Șaul: „Pe mine m-a trimis DOMNUL să te ung ca rege peste poporul Său, peste Israel, astfel că acum ascultă de glasul cuvintelor DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שְׁמוּאֵל אֶל־שָׁאוּל אֹתִי שָׁלַח יְהוָה לִמְשָׁחֳךָ לְמֶלֶךְ עַל־עַמּוֹ עַל־יִשְׂרָאֵל וְעַתָּה שְׁמַע לְקוֹל דִּבְרֵי יְהוָה׃",
+       "translation": "Samuel i-a spus lui Șaul: „Pe mine m-a trimis DOMNUL să te ung ca rege peste poporul Său, peste Israel, astfel că acum ascultă de glasul cuvintelor DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ εἶπε Σαμουὴλ πρὸς Σαούλ· ἐμὲ ἀπέστειλε Κύριος χρῖσαί σε εἰς βασιλέα ἐπὶ ᾿Ισραήλ, καὶ νῦν ἄκουε τῆς φωνῆς Κυρίου·",
+       "greek": true,
+       "translation": "Și a spus Samuel către Saul: «Pe mine m-a trimis Domnul să te ung rege peste Israel, și acum ascultă glasul Domnului.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 9:16",
+      "1 Samuel 10:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:2",
      "t": "Așa a spus DOMNUL Oștirilor: «Mi-am amintit de ceea ce i-a făcut Amalek lui Israel, că s-a năpustit asupra lui pe drum, pe când urca din Egipt.",
      "heb": "כֹּה אָמַר יְהוָה צְבָאוֹת פָּקַדְתִּי אֵת אֲשֶׁר־עָשָׂה עֲמָלֵק לְיִשְׂרָאֵל אֲשֶׁר־שָׂם לוֹ בַּדֶּרֶךְ בַּעֲלֹתוֹ מִמִּצְרָיִם׃",
-     "translit": "Ko amar ADONAI Țevaot pakadeti et așer-asa Amalek le'Israel așer-sam lo badereh baaloto mi'Mițraim."
+     "translit": "Ko amar ADONAI Țevaot pakadeti et așer-asa Amalek le'Israel așer-sam lo badereh baaloto mi'Mițraim.",
+     "tokens": [
+      {
+       "t": "Așa a spus DOMNUL Oștirilor: «"
+      },
+      {
+       "t": "Mi-am amintit",
+       "w": "Mi-am amintit",
+       "heb": "פָּקַדְתִּי",
+       "translit": "pakadti",
+       "strong": "H6485",
+       "pos": "verb, qal perfect",
+       "def_ro": "am cercetat, am rânduit [pedeapsa] (pakadti).",
+       "dict_ro": "Pakad — același verb folosit la 1 Samuel 20:18 pentru „a observa absența” — descrie aici o „cercetare” judiciară divină: amintirea lui Dumnezeu nu e un simplu act mintal, ci declanșează direct pedeapsa. Porunca face parte din mițva biblică explicită de a șterge amintirea lui Amalek (Deuteronomul 25:17-19), motiv pentru care această haftara se citește special înaintea lui Purim — sărbătoarea care celebrează înfrângerea lui Haman, descendent tradițional al lui Agag."
+      },
+      {
+       "t": " de ceea ce i-a făcut Amalek lui Israel, că s-a năpustit asupra lui pe drum, pe când urca din Egipt."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה אָמַר יְהוָה צְבָאוֹת פָּקַדְתִּי אֵת אֲשֶׁר־עָשָׂה עֲמָלֵק לְיִשְׂרָאֵל אֲשֶׁר־שָׂם לוֹ בַּדֶּרֶךְ בַּעֲלֹתוֹ מִמִּצְרָיִם׃",
+       "translation": "Așa a spus DOMNUL Oștirilor: «Mi-am amintit de ceea ce i-a făcut Amalek lui Israel, că s-a năpustit asupra lui pe drum, pe când urca din Egipt. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τάδε εἶπε Κύριος Σαβαώθ· νῦν ἐκδικήσω ἃ ἐποίησεν ᾿Αμαλὴκ τῷ ᾿Ισραήλ, ὡς ἀπήντησεν αὐτῷ ἐν τῇ ὁδῷ ἀναβαίνοντος αὐτοῦ ἐξ Αἰγύπτου·",
+       "greek": true,
+       "translation": "Așa spune Domnul Savaot: «Acum voi răzbuna ce a făcut Amalec lui Israel, cum l-a întâmpinat pe drum, când se suia din Egipt.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 17:8-16",
+      "Deuteronomul 25:17-19"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:3",
      "t": "Mergi așadar și lovește-l pe Amalek și distrugeți tot ceea ce are și să nu arăți nicio milă față de el. Să ucizi bărbat și femeie deopotrivă, prunc și sugar deopotrivă, bou și oaie deopotrivă, cămilă și măgar deopotrivă.»”",
      "heb": "עַתָּה לֵךְ וְהִכִּיתָה אֶת־עֲמָלֵק וְהַחֲרַמְתֶּם אֶת־כָּל־אֲשֶׁר־לוֹ וְלֹא תַחְמֹל עָלָיו וְהֵמַתָּה מֵאִישׁ עַד־אִשָּׁה מֵעֹלֵל וְעַד־יוֹנֵק מִשּׁוֹר וְעַד־שֶׂה מִגָּמָל וְעַד־חֲמוֹר׃",
-     "translit": "Ata leh vehikita et-Amalek vehaharamtem et-kol-așer-lo velo tahmol alav vehemata meiș ad-ișa meolel vead-ionek mișor vead-se migamal vead-hamor."
+     "translit": "Ata leh vehikita et-Amalek vehaharamtem et-kol-așer-lo velo tahmol alav vehemata meiș ad-ișa meolel vead-ionek mișor vead-se migamal vead-hamor.",
+     "tokens": [
+      {
+       "t": "Mergi așadar și lovește-l pe Amalek și "
+      },
+      {
+       "t": "distrugeți",
+       "w": "distrugeți",
+       "heb": "וְהַחֲרַמְתֶּם",
+       "translit": "vehaharamtem",
+       "strong": "H2763",
+       "pos": "verb, hifil perfect consecutiv",
+       "def_ro": "a nimici prin interdicție sacră, a declara herem (haharamtem).",
+       "dict_ro": "Haharem — „nimicirea totală, consacrată” — e aceeași rădăcină cu herem, interdicția sacră aplicată cuceririi Canaanului (Iosua 6:17-21) sau idolilor (Deuteronomul 13:15-16): nu un simplu masacru, ci un act religios de separare totală a unui lucru de folosința omenească obișnuită, consacrându-l nimicirii.",
+       "greek": "ἐξολοθρεύσεις ... ἀναθεματιεῖς (exolothreuseis ... anathematieis)",
+       "greek_def_ro": "ἐξολοθρεύσεις ... ἀναθεματιεῖς (exolothreuseis ... anathematieis) — vei nimici de tot ... îl vei consacra anatemei — Septuaginta folosește doi verbi grecești pentru a reda nuanța dublă a lui haharem (nimicire + consacrare interzisă)."
+      },
+      {
+       "t": " tot ceea ce are și să nu arăți nicio milă față de el. Să ucizi bărbat și femeie deopotrivă, prunc și sugar deopotrivă, bou și oaie deopotrivă, cămilă și măgar deopotrivă.»”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַתָּה לֵךְ וְהִכִּיתָה אֶת־עֲמָלֵק וְהַחֲרַמְתֶּם אֶת־כָּל־אֲשֶׁר־לוֹ וְלֹא תַחְמֹל עָלָיו וְהֵמַתָּה מֵאִישׁ עַד־אִשָּׁה מֵעֹלֵל וְעַד־יוֹנֵק מִשּׁוֹר וְעַד־שֶׂה מִגָּמָל וְעַד־חֲמוֹר׃",
+       "translation": "Mergi așadar și lovește-l pe Amalek și distrugeți tot ceea ce are și să nu arăți nicio milă față de el. Să ucizi bărbat și femeie deopotrivă, prunc și sugar deopotrivă, bou și oaie deopotrivă, cămilă și măgar deopotrivă.»” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ νῦν πορεύου καὶ πατάξεις τὸν ᾿Αμαλὴκ καὶ ῾Ιερὶμ καὶ πάντα τὰ αὐτοῦ καὶ οὐ περιποιήσῃ ἐξ αὐτοῦ καὶ ἐξολοθρεύσεις αὐτὸν καὶ ἀναθεματιεῖς αὐτὸν καὶ πάντα τὰ αὐτοῦ καὶ οὐ φείσῃ ἀπ᾿ αὐτοῦ καὶ ἀποκτενεῖς ἀπὸ ἀνδρὸς καὶ ἕως γυναικὸς καὶ ἀπὸ νηπίου ἕως θηλάζοντος καὶ ἀπὸ μόσχου ἕως προβάτου καὶ ἀπὸ καμήλου ἕως ὄνου.",
+       "greek": true,
+       "translation": "«Și acum du-te și vei bate pe Amalec și pe Ierim și tot ce e al lui, și nu vei păstra nimic din el, și-l vei nimici de tot și-l vei anatemiza pe el și tot ce e al lui, și nu-l vei cruța, și vei ucide de la bărbat până la femeie, și de la prunc până la cel ce suge, și de la vițel până la oaie, și de la cămilă până la asin.»",
+       "note": "Vezi nota de la cuvântul tagat „distrugeți” — Septuaginta adaugă un al doilea popor, „Ierim”, absent din ebraica aici tradusă (doar Amalec)."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 20:16-18",
+      "Iosua 6:17-21"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„De la bou până la oaie” — [se poruncește nimicirea și a vitelor] căci amalekiții erau vrăjitori și se preschimbau, luând chip de vite [ca să se ascundă]."
+      }
+     ]
     },
     {
      "v": "15:4",
      "t": "Șaul a convocat întregul popor și i-a numărat prin [intermediul unei donații de] miei: două sute de mii de infanteriști, iar oamenii lui Iuda erau zece mii.",
      "heb": "וַיְשַׁמַּע שָׁאוּל אֶת־הָעָם וַיִּפְקְדֵם בַּטְּלָאִים מָאתַיִם אֶלֶף רַגְלִי וַעֲשֶׂרֶת אֲלָפִים אֶת־אִישׁ יְהוּדָה׃",
-     "translit": "Vaișama Șaul et-haam vaifkedem batelaim mataim elef ragli vaaseret alafim et-iș Iehuda."
+     "translit": "Vaișama Șaul et-haam vaifkedem batelaim mataim elef ragli vaaseret alafim et-iș Iehuda.",
+     "tokens": [
+      {
+       "t": "Șaul a convocat întregul popor și i-a numărat prin [intermediul unei donații de] miei: două sute de mii de infanteriști, iar oamenii lui Iuda erau zece mii."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְשַׁמַּע שָׁאוּל אֶת־הָעָם וַיִּפְקְדֵם בַּטְּלָאִים מָאתַיִם אֶלֶף רַגְלִי וַעֲשֶׂרֶת אֲלָפִים אֶת־אִישׁ יְהוּדָה׃",
+       "translation": "Șaul a convocat întregul popor și i-a numărat prin [intermediul unei donații de] miei: două sute de mii de infanteriști, iar oamenii lui Iuda erau zece mii. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ παρήγγειλε Σαοὺλ τῷ λαῷ καὶ ἐπισκέπτεται αὐτοὺς ἐν Γαλγάλοις τετρακοσίας χιλιάδας ταγμάτων καὶ τὸν ᾿Ιούδαν τριάκοντα χιλιάδας ταγμάτων.",
+       "greek": true,
+       "translation": "Și a poruncit Saul poporului și l-a numărat la Galgala: patru sute de mii de cete, și pe Iuda, treizeci de mii de cete.",
+       "note": "Diferență numerică reală: Septuaginta are 400.000 infanteriști și 30.000 pentru Iuda, față de 200.000 și 10.000 în Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 15:24"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:5",
      "t": "Șaul a ajuns până la orașul lui Amalek și a pornit la luptă în vale.",
      "heb": "וַיָּבֹא שָׁאוּל עַד־עִיר עֲמָלֵק וַיָּרֶב בַּנָּחַל׃",
-     "translit": "Vaiavo Șaul ad-ir Amalek vaiarev banahal."
+     "translit": "Vaiavo Șaul ad-ir Amalek vaiarev banahal.",
+     "tokens": [
+      {
+       "t": "Șaul a ajuns până la orașul lui Amalek și a pornit la luptă în vale."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּבֹא שָׁאוּל עַד־עִיר עֲמָלֵק וַיָּרֶב בַּנָּחַל׃",
+       "translation": "Șaul a ajuns până la orașul lui Amalek și a pornit la luptă în vale. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἦλθε Σαοὺλ ἕως τῶν πόλεων ᾿Αμαλὴκ καὶ ἐνήδρευσεν ἐν τῷ χειμάρρῳ.",
+       "greek": true,
+       "translation": "Și a venit Saul până la cetățile lui Amalec și a pus ambuscadă în vale.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "15:6",
      "t": "Șaul le-a spus keniților: „Plecați, retrageți-vă, coborâți din rândul amalekiților, ca nu cumva să vă distrug împreună cu ei; căci ați arătat bunăvoință față de toți copiii lui Israel când au urcat din Egipt.” Și keniții s-au retras din rândurile lui Amalek.",
      "heb": "וַיֹּאמֶר שָׁאוּל אֶל־הַקֵּינִי לְכוּ סֻּרוּ רְדוּ מִתּוֹךְ עֲמָלֵקִי פֶּן־אֹסִפְךָ עִמּוֹ וְאַתָּה עָשִׂיתָה חֶסֶד עִם־כָּל־בְּנֵי יִשְׂרָאֵל בַּעֲלוֹתָם מִמִּצְרָיִם וַיָּסַר קֵינִי מִתּוֹךְ עֲמָלֵק׃",
-     "translit": "Vaiomer Șaul el-hakeini lehu suru redu mitoh amaleki pen-osifha imo veata asita hesed im-kol-benei Israel baalotam mi'Mițraim vaisar keini mitoh Amalek."
+     "translit": "Vaiomer Șaul el-hakeini lehu suru redu mitoh amaleki pen-osifha imo veata asita hesed im-kol-benei Israel baalotam mi'Mițraim vaisar keini mitoh Amalek.",
+     "tokens": [
+      {
+       "t": "Șaul le-a spus "
+      },
+      {
+       "t": "keniților",
+       "w": "keniților",
+       "heb": "הַקֵּינִי",
+       "translit": "hakēni",
+       "strong": "H7017",
+       "pos": "nume de neam",
+       "def_ro": "kenit — descendent al lui Iotor/Hobab, aliat tradițional al lui Israel (hakēni).",
+       "dict_ro": "Keniții erau descendenți ai lui Iotor, socrul lui Moise (vezi Numeri 10:29-32) — rude prin alianță ale lui Israel care trăiau printre amalekiți fără să fie din neamul lor. Avertismentul lui Șaul de a-i scoate din zonă înainte de nimicirea lui Amalek arată că porunca herem viza strict descendența lui Amalek, nu pe oricine se afla geografic în preajmă."
+      },
+      {
+       "t": ": „Plecați, retrageți-vă, coborâți din rândul amalekiților, ca nu cumva să vă distrug împreună cu ei; căci ați arătat bunăvoință față de toți copiii lui Israel când au urcat din Egipt.” Și keniții s-au retras din rândurile lui Amalek."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שָׁאוּל אֶל־הַקֵּינִי לְכוּ סֻּרוּ רְדוּ מִתּוֹךְ עֲמָלֵקִי פֶּן־אֹסִפְךָ עִמּוֹ וְאַתָּה עָשִׂיתָה חֶסֶד עִם־כָּל־בְּנֵי יִשְׂרָאֵל בַּעֲלוֹתָם מִמִּצְרָיִם וַיָּסַר קֵינִי מִתּוֹךְ עֲמָלֵק׃",
+       "translation": "Șaul le-a spus keniților: „Plecați, retrageți-vă, coborâți din rândul amalekiților, ca nu cumva să vă distrug împreună cu ei; căci ați arătat bunăvoință față de toți copiii lui Israel când au urcat din Egipt.” Și keniții s-au retras din rândurile lui Amalek. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαοὺλ πρὸς τὸν Κιναῖον· ἄπελθε καὶ ἔκκλινον ἐκ μέσου τοῦ ᾿Αμαληκίτου, μὴ προσθῶ σε μετ᾿ αὐτοῦ, καὶ σὺ ἐποίησας ἔλεος μετὰ τῶν υἱῶν ᾿Ισραὴλ ἐν τῷ ἀναβαίνειν αὐτοὺς ἐξ Αἰγύπτου· καὶ ἐξέκλινεν ὁ Κιναῖος ἐκ μέσου ᾿Αμαλήκ.",
+       "greek": true,
+       "translation": "Și a spus Saul către chenit: «Du-te și abate-te din mijlocul amalecitului, ca nu cumva să te adaug la el; iar tu ai făcut milă cu fiii lui Israel când se suiau din Egipt.» Și s-a abătut chenitul din mijlocul lui Amalec.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 24:21,22",
+      "Numeri 10:29-32"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:7",
      "t": "Șaul l-a lovit pe Amalek de la Havila până aproape de Șur, în fața Egiptului.",
      "heb": "וַיַּךְ שָׁאוּל אֶת־עֲמָלֵק מֵחֲוִילָה בּוֹאֲךָ שׁוּר אֲשֶׁר עַל־פְּנֵי מִצְרָיִם׃",
-     "translit": "Vaiah Șaul et-Amalek me'Havila boaha Șur așer al-penei Mițraim."
+     "translit": "Vaiah Șaul et-Amalek me'Havila boaha Șur așer al-penei Mițraim.",
+     "tokens": [
+      {
+       "t": "Șaul l-a lovit pe Amalek de la Havila până aproape de Șur, în fața Egiptului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּךְ שָׁאוּל אֶת־עֲמָלֵק מֵחֲוִילָה בּוֹאֲךָ שׁוּר אֲשֶׁר עַל־פְּנֵי מִצְרָיִם׃",
+       "translation": "Șaul l-a lovit pe Amalek de la Havila până aproape de Șur, în fața Egiptului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπάταξε Σαοὺλ τὸν ᾿Αμαλὴκ ἀπὸ Εὐιλὰτ ἕως Σοὺρ ἐπὶ προσώπου Αἰγύπτου.",
+       "greek": true,
+       "translation": "Și a bătut Saul pe Amalec de la Evilat până la Sur, pe fața Egiptului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 16:7",
+      "1 Samuel 27:8"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:8",
      "t": "L-a prins viu pe Agag, regele lui Amalek, iar tot poporul lui l-a distrus cu tăișul sabiei.",
      "heb": "וַיִּתְפֹּשׂ אֶת־אֲגַג מֶלֶךְ עֲמָלֵק חָי וְאֶת־כָּל־הָעָם הֶחֱרִים לְפִי־חָרֶב׃",
-     "translit": "Vaitpos et-Agag meleh Amalek hai veet-kol-haam heherim lefi-harev."
+     "translit": "Vaitpos et-Agag meleh Amalek hai veet-kol-haam heherim lefi-harev.",
+     "tokens": [
+      {
+       "t": "L-a prins viu pe "
+      },
+      {
+       "t": "Agag",
+       "w": "Agag",
+       "heb": "אֲגַג",
+       "translit": "agag",
+       "strong": "H90",
+       "pos": "nume propriu",
+       "def_ro": "Agag — titlu/nume dinastic al regilor amalekiți.",
+       "dict_ro": "Agag pare să fie un titlu regal ereditar al dinastiei amalekite (ca „Faraon” sau „Cezar”), menționat profetic deja la Numeri 24:7 („regele lui va fi mai înalt decât Agag”). Tradiția rabinică identifică pe Haman din cartea Estera ca descendent direct al acestui Agag, motiv central pentru care capitolul se citește ca Haftarat Zahor, înainte de Purim."
+      },
+      {
+       "t": ", regele lui Amalek, iar tot poporul lui l-a distrus cu tăișul sabiei."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּתְפֹּשׂ אֶת־אֲגַג מֶלֶךְ עֲמָלֵק חָי וְאֶת־כָּל־הָעָם הֶחֱרִים לְפִי־חָרֶב׃",
+       "translation": "L-a prins viu pe Agag, regele lui Amalek, iar tot poporul lui l-a distrus cu tăișul sabiei. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ συνέλαβε τὸν ᾿Αγὰγ βασιλέα ᾿Αμαλὴκ ζῶντα καὶ πάντα τὸν λαὸν καὶ ῾Ιερὶμ ἀπέκτεινεν ἐν στόματι ῥομφαίας.",
+       "greek": true,
+       "translation": "Și l-a prins pe Agag, regele lui Amalec, viu, iar tot poporul și pe Ierim l-a ucis cu ascuțișul sabiei.",
+       "note": "Septuaginta adaugă din nou „Ierim” — vezi nota de la v.3."
+      }
+     ],
+     "refs": [
+      "Numeri 24:7",
+      "Estera 3:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:9",
      "t": "Dar Șaul și poporul s-au îndurat de Agag, de cele mai bune dintre oi și vite, de taurii îngrășați și de oile îngrășate și de tot ceea ce era bun și nu au dorit să le distrugă, ci doar ce era scârbos și stricat au distrus.",
      "heb": "וַיַּחְמֹל שָׁאוּל וְהָעָם עַל־אֲגָג וְעַל־מֵיטַב הַצֹּאן וְהַבָּקָר וְהַמִּשְׁנִים וְעַל־הַכָּרִים וְעַל־כָּל־הַטּוֹב וְלֹא אָבוּ הַחֲרִימָם וְכָל־הַמְּלָאכָה נְמִבְזָה וְנָמֵס אֹתָהּ הֶחֱרִימוּ׃",
-     "translit": "Vaiahmol Șaul vehaam al-Agag veal-meitav hațon vehabakar vehamișnim veal-hakarim veal-kol-hatov velo avu haharimam vehol-hamelaha nemivza venames ota heherimu."
+     "translit": "Vaiahmol Șaul vehaam al-Agag veal-meitav hațon vehabakar vehamișnim veal-hakarim veal-kol-hatov velo avu haharimam vehol-hamelaha nemivza venames ota heherimu.",
+     "tokens": [
+      {
+       "t": "Dar Șaul și poporul "
+      },
+      {
+       "t": "s-au îndurat",
+       "w": "s-au îndurat",
+       "heb": "וַיַּחְמֹל",
+       "translit": "vaiahmol",
+       "strong": "H2550",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a avea milă, a cruța (vaiahmol).",
+       "dict_ro": "Neascultarea lui Șaul nu e un act de cruzime omisă, ci exact opusul — un exces de „milă” (hamal) acolo unde fusese poruncită nimicirea totală; ironia profetică a capitolului e că Șaul cruță exact ceea ce DOMNUL poruncise nimicit, dar nu arată aceeași milă față de poporul propriu mai târziu, în urmărirea lui David.",
+       "greek": "περιεποιήσατο (periepoiesato)",
+       "greek_def_ro": "περιεποιήσατο (periepoiesato) — a păstra pentru sine, a-și însuși — Septuaginta adaugă aici și bunătăți/mâncăruri și vii, absente din lista ebraică, lărgind inventarul prăzii cruțate.",
+       "diff_ro": "Septuaginta adaugă la lista prăzii cruțate „mâncăruri” și „vii” (ἐδεσμάτων καὶ τῶν ἀμπελώνων), elemente absente din lista ebraică a Textului Masoretic, care menționează doar oi, vite și Agag."
+      },
+      {
+       "t": " de Agag, de cele mai bune dintre oi și vite, de taurii îngrășați și de oile îngrășate și de tot ceea ce era bun și nu au dorit să le distrugă, ci doar ce era scârbos și stricat au distrus."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּחְמֹל שָׁאוּל וְהָעָם עַל־אֲגָג וְעַל־מֵיטַב הַצֹּאן וְהַבָּקָר וְהַמִּשְׁנִים וְעַל־הַכָּרִים וְעַל־כָּל־הַטּוֹב וְלֹא אָבוּ הַחֲרִימָם וְכָל־הַמְּלָאכָה נְמִבְזָה וְנָמֵס אֹתָהּ הֶחֱרִימוּ׃",
+       "translation": "Dar Șaul și poporul s-au îndurat de Agag, de cele mai bune dintre oi și vite, de taurii îngrășați și de oile îngrășate și de tot ceea ce era bun și nu au dorit să le distrugă, ci doar ce era scârbos și stricat au distrus. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ περιεποιήσατο Σαοὺλ καὶ πᾶς ὁ λαὸς τὸν ᾿Αγὰγ ζῶντα καὶ τὰ ἀγαθὰ τῶν ποιμνίων καὶ τῶν βουκολίων καὶ τῶν ἐδεσμάτων καὶ τῶν ἀμπελώνων καὶ πάντων τῶν ἀγαθῶν καὶ οὐκ ἐβούλοντο ἐξολοθρεῦσαι αὐτά· καὶ πᾶν ἔργον ἠτιμωμένον καὶ ἐξουδενωμένον ἐξωλόθρευσαν.",
+       "greek": true,
+       "translation": "Și a păstrat Saul și tot poporul pe Agag viu, și bunătățile turmelor și cirezilor și mâncărurilor și viilor și toate bunătățile, și n-au voit să le nimicească; dar tot ce era disprețuit și de nimic au nimicit.",
+       "note": "Vezi nota de la cuvântul tagat „s-au îndurat” — lista bunătăților cruțate e mai amplă în Septuaginta."
+      }
+     ],
+     "refs": [
+      "1 Samuel 15:3",
+      "1 Samuel 15:15"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Vitele de-a doua [calitate]” — cuvânt fără analog; sunt cele sănătoase/grase — eu zic că e tot din rădăcina „mișnim”, ca „argint dublu” (Geneza 43:12), pentru că e „dublu” în carne și în grăsime, la fel ca „al doilea taur de șapte ani” (Judecători 6:25)."
+      }
+     ]
     },
     {
      "v": "15:10",
      "t": "Cuvântul DOMNULUI a venit la Samuel, spunând:",
      "heb": "וַיְהִי דְּבַר־יְהוָה אֶל־שְׁמוּאֵל לֵאמֹר׃",
-     "translit": "Vaihi devar-ADONAI el-Șemuel lemor."
+     "translit": "Vaihi devar-ADONAI el-Șemuel lemor.",
+     "tokens": [
+      {
+       "t": "Cuvântul DOMNULUI a venit la Samuel, spunând:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי דְּבַר־יְהוָה אֶל־שְׁמוּאֵל לֵאמֹר׃",
+       "translation": "Cuvântul DOMNULUI a venit la Samuel, spunând: — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἐγενήθη ρῆμα Κυρίου πρὸς Σαμουὴλ λέγων·",
+       "greek": true,
+       "translation": "Și a fost cuvântul Domnului către Samuel, spunând:",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "15:11",
      "t": "„Am [ajuns să] regret că l-am făcut pe Șaul rege, căci s-a abătut de la Mine și nu a împlinit cuvântul Meu.” Și Samuel s-a îndurerat și a strigat către DOMNUL toată noaptea.",
      "heb": "נִחַמְתִּי כִּי־הִמְלַכְתִּי אֶת־שָׁאוּל לְמֶלֶךְ כִּי־שָׁב מֵאַחֲרַי וְאֶת־דְּבָרַי לֹא הֵקִים וַיִּחַר לִשְׁמוּאֵל וַיִּזְעַק אֶל־יְהוָה כָּל־הַלָּיְלָה׃",
-     "translit": "Nihamti ki-himlahti et-Șaul lemeleh ki-șav meaharai veet-devarai lo hekim vaihar li'Șemuel vaizak el-ADONAI kol-halaila."
+     "translit": "Nihamti ki-himlahti et-Șaul lemeleh ki-șav meaharai veet-devarai lo hekim vaihar li'Șemuel vaizak el-ADONAI kol-halaila.",
+     "tokens": [
+      {
+       "t": "„"
+      },
+      {
+       "t": "Am [ajuns să] regret",
+       "w": "Am [ajuns să] regret",
+       "heb": "נִחַמְתִּי",
+       "translit": "nihamti",
+       "strong": "H5162",
+       "pos": "verb, nifal perfect",
+       "def_ro": "Mi-a părut rău, am regretat (niham, nifal).",
+       "dict_ro": "Verbul niham descrie aici o schimbare de atitudine divină în raport cu acțiunile omenești — aceeași rădăcină ca la Geneza 6:6 (regretul creării omului înainte de potop) — teologic delicat, pentru că același capitol afirmă la v.29 că „Veșnicul lui Israel nu Se răzgândește”; comentatorii clasici rezolvă tensiunea distingând planul providenței generale (neschimbător) de planul deciziilor concrete în istorie, care răspund la faptele omului."
+      },
+      {
+       "t": " că l-am făcut pe Șaul rege, căci s-a abătut de la Mine și nu a împlinit cuvântul Meu.” Și Samuel s-a îndurerat și a strigat către DOMNUL toată noaptea."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "נִחַמְתִּי כִּי־הִמְלַכְתִּי אֶת־שָׁאוּל לְמֶלֶךְ כִּי־שָׁב מֵאַחֲרַי וְאֶת־דְּבָרַי לֹא הֵקִים וַיִּחַר לִשְׁמוּאֵל וַיִּזְעַק אֶל־יְהוָה כָּל־הַלָּיְלָה׃",
+       "translation": "„Am [ajuns să] regret că l-am făcut pe Șaul rege, căci s-a abătut de la Mine și nu a împlinit cuvântul Meu.” Și Samuel s-a îndurerat și a strigat către DOMNUL toată noaptea. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "παρακέκλημαι ὅτι ἐβασίλευσα τὸν Σαοὺλ εἰς βασιλέα, ὅτι ἀπέστρεψεν ἀπὸ ὄπισθέν μου καὶ τοὺς λόγους μου οὐκ ἐτήρησε. καὶ ἠθύμησε Σαμουὴλ καὶ ἐβόησε πρὸς Κύριον ὅλην τὴν νύκτα.",
+       "greek": true,
+       "translation": "«Mi-am schimbat gândul că l-am făcut pe Saul rege, căci s-a întors de la Mine și cuvintele Mele nu le-a păzit.» Și s-a mâhnit Samuel și a strigat către Domnul toată noaptea.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 6:6",
+      "Iona 3:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Am regretat” — Mi-a venit în inimă un gând cu privire la domnia lui Șaul, pe care l-am făcut rege."
+      }
+     ]
     },
     {
      "v": "15:12",
      "t": "Și Samuel s-a sculat dis-de-dimineață ca să-i iasă în întâmpinare lui Șaul. Iar lui Samuel i s-a spus astfel: „Șaul a venit la Carmel și iată, și-a ridicat un altar și apoi s-a întors și a coborât către Ghilgal.”",
      "heb": "וַיַּשְׁכֵּם שְׁמוּאֵל לִקְרַאת שָׁאוּל בַּבֹּקֶר וַיֻּגַּד לִשְׁמוּאֵל לֵאמֹר בָּא־שָׁאוּל הַכַּרְמֶלָה וְהִנֵּה מַצִּיב לוֹ יָד וַיִּסֹּב וַיַּעֲבֹר וַיֵּרֶד הַגִּלְגָּל׃",
-     "translit": "Vaișkem Șemuel likrat Șaul baboker vaigad li'Șemuel lemor ba-Șaul ha'Karmela vehine mațiv lo iad vaisov vaiaavor vaiered ha'Ghilgal."
+     "translit": "Vaișkem Șemuel likrat Șaul baboker vaigad li'Șemuel lemor ba-Șaul ha'Karmela vehine mațiv lo iad vaisov vaiaavor vaiered ha'Ghilgal.",
+     "tokens": [
+      {
+       "t": "Și Samuel s-a sculat dis-de-dimineață ca să-i iasă în întâmpinare lui Șaul. Iar lui Samuel i s-a spus astfel: „Șaul a venit la Carmel și iată, și-a ridicat un altar și apoi s-a întors și a coborât către Ghilgal.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּשְׁכֵּם שְׁמוּאֵל לִקְרַאת שָׁאוּל בַּבֹּקֶר וַיֻּגַּד לִשְׁמוּאֵל לֵאמֹר בָּא־שָׁאוּל הַכַּרְמֶלָה וְהִנֵּה מַצִּיב לוֹ יָד וַיִּסֹּב וַיַּעֲבֹר וַיֵּרֶד הַגִּלְגָּל׃",
+       "translation": "Și Samuel s-a sculat dis-de-dimineață ca să-i iasă în întâmpinare lui Șaul. Iar lui Samuel i s-a spus astfel: „Șaul a venit la Carmel și iată, și-a ridicat un altar și apoi s-a întors și a coborât către Ghilgal.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὤρθρισε Σαμουὴλ καὶ ἐπορεύθη εἰς ἀπάντησιν ᾿Ισραὴλ τὸ πρωΐ. καὶ ἀπηγγέλη τῷ Σαοὺλ λέγοντες· ἥκει Σαμουὴλ εἰς Κάρμηλον καὶ ἀνέστακεν αὐτῷ χεῖρα καὶ ἐπέστρεψε τὸ ἅρμα. καὶ κατέβη εἰς Γάλγαλα πρὸς Σαούλ, καὶ ἰδοὺ αὐτὸς ἀνέφερεν ὁλοκαύτωσιν τῷ Κυρίῳ τὰ πρῶτα τῶν σκύλων, ὧν ἤνεγκεν ἐξ ᾿Αμαλήκ.",
+       "greek": true,
+       "translation": "Și s-a sculat Samuel de dimineață și a plecat în întâmpinarea lui Israel. Și i s-a vestit lui Saul, spunând: «A venit Samuel la Carmel și i-a ridicat mână, și s-a întors carul.» Și a coborât la Galgala la Saul, și, iată, el aducea ardere-de-tot Domnului, primele din prăzile pe care le-a adus din Amalec.",
+       "note": "Septuaginta are text mai amplu, cu detalii despre car și prima jertfă adusă, absente sau implicite în ebraica tradusă aici."
+      }
+     ],
+     "refs": [
+      "1 Samuel 7:12"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:13",
      "t": "Samuel a venit la Șaul și Șaul i-a spus: „Binecuvântat să fii tu de către DOMNUL – am împlinit cuvântul DOMNULUI.”",
      "heb": "וַיָּבֹא שְׁמוּאֵל אֶל־שָׁאוּל וַיֹּאמֶר לוֹ שָׁאוּל בָּרוּךְ אַתָּה לַיהוָה הֲקִימֹתִי אֶת־דְּבַר יְהוָה׃",
-     "translit": "Vaiavo Șemuel el-Șaul vaiomer lo Șaul baruh ata l'ADONAI hakimoti et-devar ADONAI."
+     "translit": "Vaiavo Șemuel el-Șaul vaiomer lo Șaul baruh ata l'ADONAI hakimoti et-devar ADONAI.",
+     "tokens": [
+      {
+       "t": "Samuel a venit la Șaul și Șaul i-a spus: „Binecuvântat să fii tu de către DOMNUL – am împlinit cuvântul DOMNULUI.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּבֹא שְׁמוּאֵל אֶל־שָׁאוּל וַיֹּאמֶר לוֹ שָׁאוּל בָּרוּךְ אַתָּה לַיהוָה הֲקִימֹתִי אֶת־דְּבַר יְהוָה׃",
+       "translation": "Samuel a venit la Șaul și Șaul i-a spus: „Binecuvântat să fii tu de către DOMNUL – am împlinit cuvântul DOMNULUI.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ παρεγένετο Σαμουὴλ πρὸς Σαούλ, καὶ εἶπεν αὐτῷ Σαούλ· εὐλογητὸς σὺ τῷ Κυρίῳ· ἔστησα πάντα, ὅσα ἐλάλησε Κύριος.",
+       "greek": true,
+       "translation": "Și a venit Samuel la Saul, și i-a spus Saul: «Binecuvântat [fii] tu Domnului; am împlinit tot ce a grăit Domnul.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 13:10"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:14",
      "t": "Samuel a spus: „Și ce este sunetul acesta de oi în urechile mele și sunetul de vite pe care îl aud?”",
      "heb": "וַיֹּאמֶר שְׁמוּאֵל וּמֶה קוֹל־הַצֹּאן הַזֶּה בְּאָזְנָי וְקוֹל הַבָּקָר אֲשֶׁר אָנֹכִי שֹׁמֵעַ׃",
-     "translit": "Vaiomer Șemuel ume kol-hațon haze beoznai vekol habakar așer anohi șomea."
+     "translit": "Vaiomer Șemuel ume kol-hațon haze beoznai vekol habakar așer anohi șomea.",
+     "tokens": [
+      {
+       "t": "Samuel a spus: „Și ce este sunetul acesta de oi în urechile mele și sunetul de vite pe care îl aud?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שְׁמוּאֵל וּמֶה קוֹל־הַצֹּאן הַזֶּה בְּאָזְנָי וְקוֹל הַבָּקָר אֲשֶׁר אָנֹכִי שֹׁמֵעַ׃",
+       "translation": "Samuel a spus: „Și ce este sunetul acesta de oi în urechile mele și sunetul de vite pe care îl aud?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαμουήλ· καὶ τίς ἡ φωνὴ τοῦ ποιμνίου τούτου ἐν τοῖς ὠσί μου καὶ φωνὴ τῶν βοῶν, ὧν ἐγὼ ἀκούω;",
+       "greek": true,
+       "translation": "Și a spus Samuel: «Și care [este] glasul turmei acesteia în urechile mele, și glasul vitelor pe care-l aud eu?»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 2:18,19"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:15",
      "t": "Și Șaul a spus: „Le-am adus de la Amalek, căci poporul s-a milostivit de cele mai bune turme și cirezi, ca să le jertfească DOMNULUI, Dumnezeului nostru; dar pe restul le-am distrus.”",
      "heb": "וַיֹּאמֶר שָׁאוּל מֵעֲמָלֵקִי הֱבִיאוּם אֲשֶׁר חָמַל הָעָם עַל־מֵיטַב הַצֹּאן וְהַבָּקָר לְמַעַן זְבֹחַ לַיהוָה אֱלֹהֶיךָ וְאֶת־הַיּוֹתֵר הֶחֱרַמְנוּ׃",
-     "translit": "Vaiomer Șaul meamaleki hevium așer hamal haam al-meitav hațon vehabakar lemaan zevoah l'ADONAI Eloheha veet-haioter heheramnu."
+     "translit": "Vaiomer Șaul meamaleki hevium așer hamal haam al-meitav hațon vehabakar lemaan zevoah l'ADONAI Eloheha veet-haioter heheramnu.",
+     "tokens": [
+      {
+       "t": "Și Șaul a spus: „Le-am adus de la Amalek, căci poporul s-a milostivit de cele mai bune turme și cirezi, ca să le jertfească DOMNULUI, Dumnezeului nostru; dar pe restul le-am distrus.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שָׁאוּל מֵעֲמָלֵקִי הֱבִיאוּם אֲשֶׁר חָמַל הָעָם עַל־מֵיטַב הַצֹּאן וְהַבָּקָר לְמַעַן זְבֹחַ לַיהוָה אֱלֹהֶיךָ וְאֶת־הַיּוֹתֵר הֶחֱרַמְנוּ׃",
+       "translation": "Și Șaul a spus: „Le-am adus de la Amalek, căci poporul s-a milostivit de cele mai bune turme și cirezi, ca să le jertfească DOMNULUI, Dumnezeului nostru; dar pe restul le-am distrus.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαούλ· ἐξ ᾿Αμαλὴκ ἤνεγκα αὐτά, ἃ περιεποιήσατο ὁ λαὸς τὰ κράτιστα τοῦ ποιμνίου καὶ τῶν βοῶν, ὅπως τυθῇ Κυρίῳ τῷ Θεῷ σου, καὶ τὰ λοιπὰ ἐξωλόθρευσα.",
+       "greek": true,
+       "translation": "Și a spus Saul: «Din Amalec le-am adus, ce a păstrat poporul, cele mai bune din turmă și din vite, ca să se jertfească Domnului, Dumnezeului tău, iar restul le-am nimicit.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 15:9"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:16",
      "t": "Samuel i-a spus lui Șaul: „Stai și am să-ți spun ce mi-a vorbit DOMNUL astă-noapte.” Și el i-a spus: „Vorbește.”",
      "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל־שָׁאוּל הֶרֶף וְאַגִּידָה לְּךָ אֵת אֲשֶׁר דִּבֶּר יְהוָה אֵלַי הַלָּיְלָה וַיֹּאמֶר לוֹ דַּבֵּר׃",
-     "translit": "Vaiomer Șemuel el-Șaul heref veagida leha et așer diber ADONAI elai halaila vaiomer lo daber."
+     "translit": "Vaiomer Șemuel el-Șaul heref veagida leha et așer diber ADONAI elai halaila vaiomer lo daber.",
+     "tokens": [
+      {
+       "t": "Samuel i-a spus lui Șaul: „Stai și am să-ți spun ce mi-a vorbit DOMNUL astă-noapte.” Și el i-a spus: „Vorbește.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שְׁמוּאֵל אֶל־שָׁאוּל הֶרֶף וְאַגִּידָה לְּךָ אֵת אֲשֶׁר דִּבֶּר יְהוָה אֵלַי הַלָּיְלָה וַיֹּאמֶר לוֹ דַּבֵּר׃",
+       "translation": "Samuel i-a spus lui Șaul: „Stai și am să-ți spun ce mi-a vorbit DOMNUL astă-noapte.” Și el i-a spus: „Vorbește.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαμουὴλ πρὸς Σαούλ· ἄνες καὶ ἀπαγγελῶ σοι ἃ ἐλάλησε Κύριος πρός με τὴν νύκτα· καὶ εἶπεν αὐτῷ· λάλησον.",
+       "greek": true,
+       "translation": "Și a spus Samuel către Saul: «Lasă, și-ți voi vesti ce a grăit Domnul către mine în noapte.» Și i-a spus: «Vorbește.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 9:27"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:17",
      "t": "Samuel a spus: „Oare nu este astfel? Chiar dacă tu te consideri mic în ochii tăi, ești [totuși] conducătorul triburilor lui Israel și DOMNUL te-a uns rege peste Israel.",
      "heb": "וַיֹּאמֶר שְׁמוּאֵל הֲלוֹא אִם־קָטֹן אַתָּה בְּעֵינֶיךָ רֹאשׁ שִׁבְטֵי יִשְׂרָאֵל אָתָּה וַיִּמְשָׁחֲךָ יְהוָה לְמֶלֶךְ עַל־יִשְׂרָאֵל׃",
-     "translit": "Vaiomer Șemuel halo im-katon ata beeinéha roș șivtei Israel ata vaimșahaha ADONAI lemeleh al-Israel."
+     "translit": "Vaiomer Șemuel halo im-katon ata beeinéha roș șivtei Israel ata vaimșahaha ADONAI lemeleh al-Israel.",
+     "tokens": [
+      {
+       "t": "Samuel a spus: „Oare nu este astfel? Chiar dacă tu te consideri mic în ochii tăi, ești [totuși] conducătorul triburilor lui Israel și DOMNUL te-a uns rege peste Israel."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שְׁמוּאֵל הֲלוֹא אִם־קָטֹן אַתָּה בְּעֵינֶיךָ רֹאשׁ שִׁבְטֵי יִשְׂרָאֵל אָתָּה וַיִּמְשָׁחֲךָ יְהוָה לְמֶלֶךְ עַל־יִשְׂרָאֵל׃",
+       "translation": "Samuel a spus: „Oare nu este astfel? Chiar dacă tu te consideri mic în ochii tăi, ești [totuși] conducătorul triburilor lui Israel și DOMNUL te-a uns rege peste Israel. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαμουὴλ πρὸς Σαούλ· οὐχὶ μικρὸς εἶ σὺ ἐνώπιον αὐτοῦ ἡγούμενος σκήπτρου φυλῆς ᾿Ισραήλ; καὶ ἔχρισέ σε Κύριος εἰς βασιλέα ἐπὶ ᾿Ισραήλ.",
+       "greek": true,
+       "translation": "Și a spus Samuel către Saul: «Nu [ești] tu mic înaintea Lui, căpetenie a sceptrului seminției lui Israel? Și te-a uns Domnul rege peste Israel.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 9:21",
+      "1 Samuel 10:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:18",
      "t": "Și DOMNUL te-a trimis pe drum și a spus: «Mergi și distruge-i pe păcătoși, pe Amalek, și poartă război cu el până ce îi vei fi nimicit.»",
      "heb": "וַיִּשְׁלָחֲךָ יְהוָה בְּדָרֶךְ וַיֹּאמֶר לֵךְ וְהַחֲרַמְתָּה אֶת־הַחַטָּאִים אֶת־עֲמָלֵק וְנִלְחַמְתָּ בוֹ עַד כַּלּוֹתָם אֹתָם׃",
-     "translit": "Vaișlahaha ADONAI bedareh vaiomer leh vehaharamta et-hahataim et-Amalek venilhamta vo ad kalotam otam."
+     "translit": "Vaișlahaha ADONAI bedareh vaiomer leh vehaharamta et-hahataim et-Amalek venilhamta vo ad kalotam otam.",
+     "tokens": [
+      {
+       "t": "Și DOMNUL te-a trimis pe drum și a spus: «Mergi și distruge-i pe păcătoși, pe Amalek, și poartă război cu el până ce îi vei fi nimicit.»"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשְׁלָחֲךָ יְהוָה בְּדָרֶךְ וַיֹּאמֶר לֵךְ וְהַחֲרַמְתָּה אֶת־הַחַטָּאִים אֶת־עֲמָלֵק וְנִלְחַמְתָּ בוֹ עַד כַּלּוֹתָם אֹתָם׃",
+       "translation": "Și DOMNUL te-a trimis pe drum și a spus: «Mergi și distruge-i pe păcătoși, pe Amalek, și poartă război cu el până ce îi vei fi nimicit.» — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπέστειλέ σε Κύριος ἐν ὁδῷ καὶ εἶπέ σοι· πορεύθητι καὶ ἐξολόθρευσον τοὺς ἁμαρτάνοντας εἰς ἐμέ, τὸν ᾿Αμαλήκ, καὶ πολεμήσεις αὐτοὺς ἕως συντελέσῃς αὐτούς.",
+       "greek": true,
+       "translation": "Și te-a trimis Domnul pe drum, și ți-a spus: «Du-te și nimicește pe cei care păcătuiesc împotriva Mea, pe Amalec, și-i vei război până-i vei fi sfârșit.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 15:16"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:19",
      "t": "De ce nu ai ascultat glasul DOMNULUI? Te-ai grăbit la pradă și ai făcut ce era rău în ochii DOMNULUI.”",
      "heb": "וְלָמָּה לֹא־שָׁמַעְתָּ בְּקוֹל יְהוָה וַתַּעַט אֶל־הַשָּׁלָל וַתַּעַשׂ הָרַע בְּעֵינֵי יְהוָה׃",
-     "translit": "Velama lo-șamata bekol ADONAI vataat el-hașalal vataas hara beeinéi ADONAI."
+     "translit": "Velama lo-șamata bekol ADONAI vataat el-hașalal vataas hara beeinéi ADONAI.",
+     "tokens": [
+      {
+       "t": "De ce nu ai ascultat glasul DOMNULUI? Te-ai grăbit la pradă și ai făcut ce era rău în ochii DOMNULUI.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְלָמָּה לֹא־שָׁמַעְתָּ בְּקוֹל יְהוָה וַתַּעַט אֶל־הַשָּׁלָל וַתַּעַשׂ הָרַע בְּעֵינֵי יְהוָה׃",
+       "translation": "De ce nu ai ascultat glasul DOMNULUI? Te-ai grăbit la pradă și ai făcut ce era rău în ochii DOMNULUI.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἱνατί οὐκ ἤκουσας φωνῆς Κυρίου, ἀλλ᾿ ὥρμησας τοῦ θέσθαι ἐπὶ τὰ σκῦλα καὶ ἐποίησας τὸ πονηρὸν ἐνώπιον Κυρίου;",
+       "greek": true,
+       "translation": "Și de ce n-ai ascultat glasul Domnului, ci te-ai năpustit să te apuci de pradă și ai făcut răul înaintea Domnului?",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Proverbe 15:27"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:20",
      "t": "Șaul i-a spus lui Samuel: „Dar am ascultat glasul DOMNULUI și am mers pe calea pe care DOMNUL m-a trimis! L-am adus pe Agag, regele lui Amalek, și l-am distrus pe Amalek!",
      "heb": "וַיֹּאמֶר שָׁאוּל אֶל־שְׁמוּאֵל אֲשֶׁר שָׁמַעְתִּי בְּקוֹל יְהוָה וָאֵלֵךְ בַּדֶּרֶךְ אֲשֶׁר־שְׁלָחַנִי יְהוָה וָאָבִיא אֶת־אֲגַג מֶלֶךְ עֲמָלֵק וְאֶת־עֲמָלֵק הֶחֱרַמְתִּי׃",
-     "translit": "Vaiomer Șaul el-Șemuel așer șamati bekol ADONAI vaeleh badereh așer-șelahani ADONAI vaavi et-Agag meleh Amalek veet-Amalek heheramti."
+     "translit": "Vaiomer Șaul el-Șemuel așer șamati bekol ADONAI vaeleh badereh așer-șelahani ADONAI vaavi et-Agag meleh Amalek veet-Amalek heheramti.",
+     "tokens": [
+      {
+       "t": "Șaul i-a spus lui Samuel: „Dar am ascultat glasul DOMNULUI și am mers pe calea pe care DOMNUL m-a trimis! L-am adus pe Agag, regele lui Amalek, și l-am distrus pe Amalek!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שָׁאוּל אֶל־שְׁמוּאֵל אֲשֶׁר שָׁמַעְתִּי בְּקוֹל יְהוָה וָאֵלֵךְ בַּדֶּרֶךְ אֲשֶׁר־שְׁלָחַנִי יְהוָה וָאָבִיא אֶת־אֲגַג מֶלֶךְ עֲמָלֵק וְאֶת־עֲמָלֵק הֶחֱרַמְתִּי׃",
+       "translation": "Șaul i-a spus lui Samuel: „Dar am ascultat glasul DOMNULUI și am mers pe calea pe care DOMNUL m-a trimis! L-am adus pe Agag, regele lui Amalek, și l-am distrus pe Amalek! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαοὺλ πρὸς Σαμουήλ· διὰ τὸ ἀκοῦσαί με τῆς φωνῆς τοῦ λαοῦ· καὶ ἐπορεύθην τῇ ὁδῷ, ᾗ ἀπέστειλέ με Κύριος, καὶ ἤγαγον τὸν ᾿Αγὰγ βασιλέα ᾿Αμαλὴκ καὶ τὸν ᾿Αμαλὴκ ἐξωλόθρευσα·",
+       "greek": true,
+       "translation": "Și a spus Saul către Samuel: «Pentru că am ascultat glasul poporului, și am mers pe drumul pe care m-a trimis Domnul, și l-am adus pe Agag, regele lui Amalec, iar pe Amalec l-am nimicit.»",
+       "note": "Septuaginta are „pentru că am ascultat glasul poporului”, nu „am ascultat glasul DOMNULUI” ca în Textul Masoretic — diferență reală: la Septuaginta, Saul admite aici direct că a ascultat de popor, nu de Domnul."
+      }
+     ],
+     "refs": [
+      "1 Samuel 15:3"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:21",
      "t": "Poporul a luat oi și vite din pradă, cele mai bune dintre cele condamnate la distrugere, ca să aducă jertfe DOMNULUI, Dumnezeului tău, în Ghilgal.”",
      "heb": "וַיִּקַּח הָעָם מֵהַשָּׁלָל צֹאן וּבָקָר רֵאשִׁית הַחֵרֶם לִזְבֹּחַ לַיהוָה אֱלֹהֶיךָ בַּגִּלְגָּל׃",
-     "translit": "Vaikah haam mehașalal țon uvakar reșit haherem lizboah l'ADONAI Eloheha ba'Ghilgal."
+     "translit": "Vaikah haam mehașalal țon uvakar reșit haherem lizboah l'ADONAI Eloheha ba'Ghilgal.",
+     "tokens": [
+      {
+       "t": "Poporul a luat oi și vite din pradă, cele mai bune dintre cele condamnate la distrugere, ca să aducă jertfe DOMNULUI, Dumnezeului tău, în Ghilgal.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּקַּח הָעָם מֵהַשָּׁלָל צֹאן וּבָקָר רֵאשִׁית הַחֵרֶם לִזְבֹּחַ לַיהוָה אֱלֹהֶיךָ בַּגִּלְגָּל׃",
+       "translation": "Poporul a luat oi și vite din pradă, cele mai bune dintre cele condamnate la distrugere, ca să aducă jertfe DOMNULUI, Dumnezeului tău, în Ghilgal.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔλαβεν ὁ λαὸς τῶν σκύλων ποίμνια καὶ βουκόλια, τὰ πρῶτα τοῦ ἐξολοθρεύματος, θῦσαι ἐνώπιον Κυρίου Θεοῦ ἡμῶν ἐν Γαλγάλοις.",
+       "greek": true,
+       "translation": "Și a luat poporul din prăzi turme și cirezi, cele mai bune din [prada] nimicirii, ca să le jertfească înaintea Domnului, Dumnezeului nostru, la Galgala.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 15:15"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:22",
      "t": "Samuel a spus: „Oare DOMNUL are mulțumire de pe urma arderilor-de-tot și jertfelor de sărbătoare la fel ca de pe urma ascultării glasului DOMNULUI? Iată, ascultarea este mai bună decât o jertfă bună, luarea-aminte decât grăsimea berbecilor.",
      "heb": "וַיֹּאמֶר שְׁמוּאֵל הַחֵפֶץ לַיהוָה בְּעֹלוֹת וּזְבָחִים כִּשְׁמֹעַ בְּקוֹל יְהוָה הִנֵּה שְׁמֹעַ מִזֶּבַח טוֹב לְהַקְשִׁיב מֵחֵלֶב אֵילִים׃",
-     "translit": "Vaiomer Șemuel hahefeț l'ADONAI beolot uzevahim kișmoa bekol ADONAI hine șemoa mizevah tov lehakșiv mehelev eilim."
+     "translit": "Vaiomer Șemuel hahefeț l'ADONAI beolot uzevahim kișmoa bekol ADONAI hine șemoa mizevah tov lehakșiv mehelev eilim.",
+     "tokens": [
+      {
+       "t": "Samuel a spus: „Oare DOMNUL are mulțumire de pe urma arderilor-de-tot și jertfelor de sărbătoare la fel ca de pe urma ascultării glasului DOMNULUI? Iată, "
+      },
+      {
+       "t": "ascultarea",
+       "w": "ascultarea",
+       "heb": "הִנֵּה שְׁמֹעַ",
+       "translit": "hinē șemoa",
+       "strong": "H8085",
+       "pos": "particulă demonstrativă + verb, qal infinitiv",
+       "def_ro": "a asculta/da ascultare (șemoa).",
+       "dict_ro": "Acesta e versetul programatic al profeției etice — „ascultarea mai bună decât jertfa” revine ca refren la Osea 6:6, Isaia 1:11-17, Mica 6:6-8 — nu o respingere a cultului sacrificial în sine, ci a lui atunci când înlocuiește ascultarea morală directă de porunca divină explicită.",
+       "greek": "ἀκοὴ (akoe)",
+       "greek_def_ro": "ἀκοὴ (akoe) — ascultare, auzire — Septuaginta traduce șemoa literal prin „akoe” (ascultare/auzire), păstrând jocul de sens ebraic între „a asculta” și „a da ascultare/a te supune”."
+      },
+      {
+       "t": " este mai bună decât o jertfă bună, luarea-aminte decât grăsimea berbecilor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שְׁמוּאֵל הַחֵפֶץ לַיהוָה בְּעֹלוֹת וּזְבָחִים כִּשְׁמֹעַ בְּקוֹל יְהוָה הִנֵּה שְׁמֹעַ מִזֶּבַח טוֹב לְהַקְשִׁיב מֵחֵלֶב אֵילִים׃",
+       "translation": "Samuel a spus: „Oare DOMNUL are mulțumire de pe urma arderilor-de-tot și jertfelor de sărbătoare la fel ca de pe urma ascultării glasului DOMNULUI? Iată, ascultarea este mai bună decât o jertfă bună, luarea-aminte decât grăsimea berbecilor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαμουήλ· εἰ θελητὸν τῷ Κυρίῳ ὁλοκαυτώματα καὶ θυσίας ὡς τὸ ἀκοῦσαι φωνῆς Κυρίου; ἰδοὺ ἀκοὴ ὑπὲρ θυσίαν ἀγαθὴν καὶ ἡ ἐπακρόασις ὑπὲρ στέαρ κριῶν·",
+       "greek": true,
+       "translation": "Și a spus Samuel: «Este plăcut Domnului arderile-de-tot și jertfele, ca ascultarea de glasul Domnului? Iată, ascultarea [e] mai bună decât o jertfă bună, și luarea-aminte decât grăsimea berbecilor.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 15:1",
+      "Osea 6:6",
+      "Mica 6:6-8"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Iată, ascultarea” de glasul Lui [e] mai bună decât jertfa. „Decât luarea-aminte la grăsimea berbecilor” — asta se leagă de «iată, ascultarea [e] mai bună decât jertfa [bună]», și «luarea-aminte», decât grăsimea berbecilor."
+      }
+     ]
     },
     {
      "v": "15:23",
      "t": "Căci răzvrătirea este ca păcatul vrăjitoriei și îngâmfarea ca fărădelegea idolatriei. Pentru că ai respins cuvântul lui Dumnezeu, și El te-a respins ca rege!”",
      "heb": "כִּי חַטַּאת־קֶסֶם מֶרִי וְאָוֶן וּתְרָפִים הַפְצַר יַעַן מָאַסְתָּ אֶת־דְּבַר יְהוָה וַיִּמְאָסְךָ מִמֶּלֶךְ׃",
-     "translit": "Ki hatat-kesem meri veaven uterafim haftzar iaan maasta et-devar ADONAI vaimasha mimeleh."
+     "translit": "Ki hatat-kesem meri veaven uterafim haftzar iaan maasta et-devar ADONAI vaimasha mimeleh.",
+     "tokens": [
+      {
+       "t": "Căci răzvrătirea este ca păcatul "
+      },
+      {
+       "t": "vrăjitoriei",
+       "w": "vrăjitoriei",
+       "heb": "קֶסֶם",
+       "translit": "kesem",
+       "strong": "H7081",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "divinație, ghicit (kesem).",
+       "dict_ro": "Compararea neascultării cu „păcatul vrăjitoriei” și a îngâmfării cu „fărădelegea idolatriei” (terafim) ridică nesupunerea la rang de păcat religios capital, nu simplu disciplinar — Rashi explică gradarea: pedeapsa pentru insistența încăpățânată (hafțar) e la fel de gravă ca cea pentru idolatria propriu-zisă."
+      },
+      {
+       "t": " și îngâmfarea ca fărădelegea idolatriei. Pentru că ai respins cuvântul lui Dumnezeu, și El te-a respins ca rege!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי חַטַּאת־קֶסֶם מֶרִי וְאָוֶן וּתְרָפִים הַפְצַר יַעַן מָאַסְתָּ אֶת־דְּבַר יְהוָה וַיִּמְאָסְךָ מִמֶּלֶךְ׃",
+       "translation": "Căci răzvrătirea este ca păcatul vrăjitoriei și îngâmfarea ca fărădelegea idolatriei. Pentru că ai respins cuvântul lui Dumnezeu, și El te-a respins ca rege!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι ἁμαρτία οἰώνισμά ἐστιν, ὀδύνην καὶ πόνους θεραφὶν ἐπάγουσιν· ὅτι ἐξουδένωσας τὸ ρῆμα Κυρίου, καὶ ἐξουδενώσει σε Κύριος μὴ εἶναι βασιλέα ἐπὶ ᾿Ισραήλ.",
+       "greek": true,
+       "translation": "Căci păcatul [este] ca prevestirea, [și] durerea și necazurile le aduc terafimii; căci ai disprețuit cuvântul Domnului, și te va disprețui Domnul, să nu fii rege peste Israel.",
+       "note": "Corespondență apropiată, cu nuanță diferită la a doua parte a versetului."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 18:10,11",
+      "1 Samuel 13:14"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Căci păcatul vrăjitoriei [e ca] răzvrătirea, și fărădelegea idolatriei [ca] insistența încăpățânată” — și așa cum e pedeapsa pentru idolatrie, tot așa e pedeapsa pentru insistența încăpățânată; Targumul Ionatan traduce: «precum vina oamenilor [care practică vrăjitoria]... tot așa vina poporului rătăcit după idoli, așa e vina oricui insistă și adaugă [la păcat]»."
+      }
+     ]
     },
     {
      "v": "15:24",
      "t": "Șaul i-a spus lui Samuel: „Am păcătuit, căci am încălcat vorba DOMNULUI și cuvântul tău, căci m-am temut de popor și am ascultat de glasul lor.",
      "heb": "וַיֹּאמֶר שָׁאוּל אֶל־שְׁמוּאֵל חָטָאתִי כִּי־עָבַרְתִּי אֶת־פִּי־יְהוָה וְאֶת־דְּבָרֶךָ כִּי יָרֵאתִי אֶת־הָעָם וָאֶשְׁמַע בְּקוֹלָם׃",
-     "translit": "Vaiomer Șaul el-Șemuel hatati ki-avarti et-pi-ADONAI veet-devareha ki iareiti et-haam vaeșma bekolam."
+     "translit": "Vaiomer Șaul el-Șemuel hatati ki-avarti et-pi-ADONAI veet-devareha ki iareiti et-haam vaeșma bekolam.",
+     "tokens": [
+      {
+       "t": "Șaul i-a spus lui Samuel: „Am păcătuit, căci am încălcat vorba DOMNULUI și cuvântul tău, căci m-am temut de popor și am ascultat de glasul lor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שָׁאוּל אֶל־שְׁמוּאֵל חָטָאתִי כִּי־עָבַרְתִּי אֶת־פִּי־יְהוָה וְאֶת־דְּבָרֶךָ כִּי יָרֵאתִי אֶת־הָעָם וָאֶשְׁמַע בְּקוֹלָם׃",
+       "translation": "Șaul i-a spus lui Samuel: „Am păcătuit, căci am încălcat vorba DOMNULUI și cuvântul tău, căci m-am temut de popor și am ascultat de glasul lor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαοὺλ πρὸς Σαμουήλ· ἡμάρτηκα ὅτι παρέβην τὸν λόγον Κυρίου καὶ τὸ ρῆμά σου, ὅτι ἐφοβήθην τὸν λαὸν καὶ ἤκουσα τῆς φωνῆς αὐτῶν·",
+       "greek": true,
+       "translation": "Și a spus Saul către Samuel: «Am păcătuit, căci am călcat cuvântul Domnului și vorba ta, căci m-am temut de popor și am ascultat de glasul lor.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Samuel 12:13"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:25",
      "t": "Acum, rogu-te, iartă-mi, păcatul și întoarce-te cu mine, ca să mă prosternez înaintea DOMNULUI.”",
      "heb": "וְעַתָּה שָׂא נָא אֶת־חַטָּאתִי וְשׁוּב עִמִּי וְאֶשְׁתַּחֲוֶה לַיהוָה׃",
-     "translit": "Veata sa na et-hatati veșuv imi veeștahave l'ADONAI."
+     "translit": "Veata sa na et-hatati veșuv imi veeștahave l'ADONAI.",
+     "tokens": [
+      {
+       "t": "Acum, rogu-te, iartă-mi, păcatul și întoarce-te cu mine, ca să mă prosternez înaintea DOMNULUI.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַתָּה שָׂא נָא אֶת־חַטָּאתִי וְשׁוּב עִמִּי וְאֶשְׁתַּחֲוֶה לַיהוָה׃",
+       "translation": "Acum, rogu-te, iartă-mi, păcatul și întoarce-te cu mine, ca să mă prosternez înaintea DOMNULUI.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ νῦν ἆρον δὴ τὸ ἁμάρτημά μου καὶ ἀνάστρεψον μετ᾿ ἐμοῦ, καὶ προσκυνήσω Κυρίῳ τῷ Θεῷ σου.",
+       "greek": true,
+       "translation": "Și acum, ia, te rog, păcatul meu și întoarce-te cu mine, și mă voi prosterna Domnului, Dumnezeului tău.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 10:17"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:26",
      "t": "Dar Samuel i-a spus lui Șaul: „Nu mă voi întoarce cu tine, căci ai respins cuvântul DOMNULUI și DOMNUL te-a respins de la a [mai] fi rege peste Israel.”",
      "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל־שָׁאוּל לֹא אָשׁוּב עִמָּךְ כִּי מָאַסְתָּה אֶת־דְּבַר יְהוָה וַיִּמְאָסְךָ יְהוָה מִהְיוֹת מֶלֶךְ עַל־יִשְׂרָאֵל׃",
-     "translit": "Vaiomer Șemuel el-Șaul lo așuv imah ki maasta et-devar ADONAI vaimasha ADONAI mihiot meleh al-Israel."
+     "translit": "Vaiomer Șemuel el-Șaul lo așuv imah ki maasta et-devar ADONAI vaimasha ADONAI mihiot meleh al-Israel.",
+     "tokens": [
+      {
+       "t": "Dar Samuel i-a spus lui Șaul: „Nu mă voi întoarce cu tine, căci ai respins cuvântul DOMNULUI și DOMNUL te-a respins de la a [mai] fi rege peste Israel.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שְׁמוּאֵל אֶל־שָׁאוּל לֹא אָשׁוּב עִמָּךְ כִּי מָאַסְתָּה אֶת־דְּבַר יְהוָה וַיִּמְאָסְךָ יְהוָה מִהְיוֹת מֶלֶךְ עַל־יִשְׂרָאֵל׃",
+       "translation": "Dar Samuel i-a spus lui Șaul: „Nu mă voi întoarce cu tine, căci ai respins cuvântul DOMNULUI și DOMNUL te-a respins de la a [mai] fi rege peste Israel.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαμουὴλ πρὸς Σαούλ· οὐκ ἀναστρέφω μετὰ σοῦ, ὅτι ἐξουδένωσας τὸ ρῆμα Κυρίου, καί ἐξουδενώσει σε Κύριος τοῦ μὴ εἶναι βασιλέα ἐπὶ τὸν ᾿Ισραήλ.",
+       "greek": true,
+       "translation": "Și a spus Samuel către Saul: «Nu mă voi întoarce cu tine, căci ai disprețuit cuvântul Domnului, și te va disprețui Domnul, să nu fii rege peste Israel.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 13:14",
+      "1 Samuel 16:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:27",
      "t": "Apoi Samuel s-a întors să plece și [Șaul] a apucat mâneca tunicii sale și ea s-a rupt.",
      "heb": "וַיִּסֹּב שְׁמוּאֵל לָלֶכֶת וַיַּחֲזֵק בִּכְנַף־מְעִילוֹ וַיִּקָּרַע׃",
-     "translit": "Vaisov Șemuel lalehet vaiahazek bihnaf-meilo vaikara."
+     "translit": "Vaisov Șemuel lalehet vaiahazek bihnaf-meilo vaikara.",
+     "tokens": [
+      {
+       "t": "Apoi Samuel s-a întors să plece și [Șaul] a apucat mâneca tunicii sale și ea s-a rupt."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּסֹּב שְׁמוּאֵל לָלֶכֶת וַיַּחֲזֵק בִּכְנַף־מְעִילוֹ וַיִּקָּרַע׃",
+       "translation": "Apoi Samuel s-a întors să plece și [Șaul] a apucat mâneca tunicii sale și ea s-a rupt. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπέστρεψε Σαμουὴλ τὸ πρόσωπον αὐτοῦ τοῦ ἀπελθεῖν. καὶ ἐκράτησε Σαοὺλ τοῦ πτερυγίου τῆς διπλοΐδος αὐτοῦ καὶ διέρρηξεν αὐτό·",
+       "greek": true,
+       "translation": "Și s-a întors Samuel cu fața, ca să plece; și a prins Saul colțul mantiei lui duble, și s-a rupt.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "15:28",
      "t": "Și Samuel i-a spus: „DOMNUL a rupt domnia lui Israel de la tine astăzi și a dat-o semenului tău care este mai bun decât tine.",
      "heb": "וַיֹּאמֶר אֵלָיו שְׁמוּאֵל קָרַע יְהוָה אֶת־מַמְלְכוּת יִשְׂרָאֵל מֵעָלֶיךָ הַיּוֹם וּנְתָנָהּ לְרֵעֲךָ הַטּוֹב מִמֶּךָּ׃",
-     "translit": "Vaiomer elav Șemuel kara ADONAI et-mamlehut Israel mealéha haiom unetana lereaha hatov mimeka."
+     "translit": "Vaiomer elav Șemuel kara ADONAI et-mamlehut Israel mealéha haiom unetana lereaha hatov mimeka.",
+     "tokens": [
+      {
+       "t": "Și Samuel i-a spus: „DOMNUL a rupt domnia lui Israel de la tine astăzi și a dat-o semenului tău care este mai bun decât tine."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֵלָיו שְׁמוּאֵל קָרַע יְהוָה אֶת־מַמְלְכוּת יִשְׂרָאֵל מֵעָלֶיךָ הַיּוֹם וּנְתָנָהּ לְרֵעֲךָ הַטּוֹב מִמֶּךָּ׃",
+       "translation": "Și Samuel i-a spus: „DOMNUL a rupt domnia lui Israel de la tine astăzi și a dat-o semenului tău care este mai bun decât tine. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε πρὸς αὐτὸν Σαμουήλ· διέρρηξε Κύριος τὴν βασιλείαν σου ἀπὸ ᾿Ισραὴλ ἐκ χειρός σου σήμερον καὶ δώσει αὐτὴν τῷ πλησίον σου τῷ ἀγαθῷ ὑπὲρ σέ·",
+       "greek": true,
+       "translation": "Și i-a spus Samuel: «A rupt Domnul regatul tău de la Israel, din mâna ta, astăzi, și-l va da vecinului tău, celui mai bun decât tine.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 13:14",
+      "1 Samuel 16:12"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:29",
      "t": "Mai mult, Veșnicul lui Israel nu minte și nu se răzgândește, căci nu este om ca să Se răzgândească.”",
      "heb": "וְגַם נֵצַח יִשְׂרָאֵל לֹא יְשַׁקֵּר וְלֹא יִנָּחֵם כִּי לֹא אָדָם הוּא לְהִנָּחֵם׃",
-     "translit": "Vegam Nețah Israel lo ieșaker velo inahem ki lo adam hu lehinahem."
+     "translit": "Vegam Nețah Israel lo ieșaker velo inahem ki lo adam hu lehinahem.",
+     "tokens": [
+      {
+       "t": "Mai mult, "
+      },
+      {
+       "t": "Veșnicul",
+       "w": "Veșnicul",
+       "heb": "נֵצַח",
+       "translit": "nēțah",
+       "strong": "H5331",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "veșnicia, biruința [lui Israel] (nețah).",
+       "dict_ro": "Nețah Israel — „Veșnicul/Biruința lui Israel” — e un titlu neobișnuit pentru Dumnezeu, întâlnit rar în Scriptură, afirmând aici constanța absolută a planului divin, în contrast direct cu regretul „omenesc” exprimat la v.11 — tensiunea teologică e intenționată: Dumnezeu „regretă” deciziile concrete din istorie, dar planul Lui general „nu minte și nu Se răzgândește”.",
+       "greek": "διαιρεθήσεται Ισραὴλ εἰς δύο (diairethesetai Israel eis dyo)",
+       "greek_def_ro": "διαιρεθήσεται Ισραὴλ εἰς δύο (diairethesetai Israel eis dyo) — Israel va fi împărțit în două — traducere complet diferită de ebraica „Veșnicul lui Israel nu minte”.",
+       "diff_ro": "Septuaginta citește complet diferit acest verset: în loc de „Veșnicul lui Israel nu minte și nu Se răzgândește”, are „Israel va fi împărțit în două, și [DOMNUL] nu Se va întoarce, nici nu Se va răzgândi” — fie o lectură a unui text ebraic diferit, fie o traducere liberă neobișnuită, una dintre cele mai mari divergențe dintre cele două tradiții textuale întâlnite până acum în această arhivă."
+      },
+      {
+       "t": " lui Israel nu minte și nu se răzgândește, căci nu este om ca să Se răzgândească.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגַם נֵצַח יִשְׂרָאֵל לֹא יְשַׁקֵּר וְלֹא יִנָּחֵם כִּי לֹא אָדָם הוּא לְהִנָּחֵם׃",
+       "translation": "Mai mult, Veșnicul lui Israel nu minte și nu se răzgândește, căci nu este om ca să Se răzgândească.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ διαιρεθήσεται ᾿Ισραὴλ εἰς δύο, καὶ οὐκ ἀποστρέψει οὐδὲ μετανοήσει, ὅτι οὐχ ὡς ἄνθρωπός ἐστι τοῦ μετανοῆσαι αὐτός.",
+       "greek": true,
+       "translation": "Și va fi împărțit Israel în două, și [Domnul] nu Se va întoarce, nici nu Se va răzgândi, căci nu e ca omul, ca să Se răzgândească.",
+       "note": "Diferență majoră — vezi nota de la cuvântul tagat „Veșnicul”."
+      }
+     ],
+     "refs": [
+      "Numeri 23:19",
+      "1 Samuel 15:11"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Căci Veșnicul lui Israel nu minte” — și dacă vei spune: mă voi întoarce de la păcatul meu înaintea Lui, nu va mai folosi să i se ia regatul de la cel cui i-a fost dat, căci Sfântul, binecuvântat fie El, Cel care e veșnicia/biruința lui Israel, nu va minți, nu va retrage binele de la cel căruia a spus că i-l va da."
+      }
+     ]
     },
     {
      "v": "15:30",
      "t": "El i-a spus: „Am păcătuit. Acum, rogu-te, cinstește-mă în fața bătrânilor poporului meu și în fața lui Israel; întoarce-te cu mine, ca să mă prosternez DOMNULUI, Dumnezeului tău.”",
      "heb": "וַיֹּאמֶר חָטָאתִי עַתָּה כַּבְּדֵנִי נָא נֶגֶד זִקְנֵי־עַמִּי וְנֶגֶד יִשְׂרָאֵל וְשׁוּב עִמִּי וְהִשְׁתַּחֲוֵיתִי לַיהוָה אֱלֹהֶיךָ׃",
-     "translit": "Vaiomer hatati ata kabdeni na neghed ziknei-ami veneghed Israel veșuv imi vehiștahaveiti l'ADONAI Eloheha."
+     "translit": "Vaiomer hatati ata kabdeni na neghed ziknei-ami veneghed Israel veșuv imi vehiștahaveiti l'ADONAI Eloheha.",
+     "tokens": [
+      {
+       "t": "El i-a spus: „Am păcătuit. Acum, rogu-te, cinstește-mă în fața bătrânilor poporului meu și în fața lui Israel; întoarce-te cu mine, ca să mă prosternez DOMNULUI, Dumnezeului tău.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר חָטָאתִי עַתָּה כַּבְּדֵנִי נָא נֶגֶד זִקְנֵי־עַמִּי וְנֶגֶד יִשְׂרָאֵל וְשׁוּב עִמִּי וְהִשְׁתַּחֲוֵיתִי לַיהוָה אֱלֹהֶיךָ׃",
+       "translation": "El i-a spus: „Am păcătuit. Acum, rogu-te, cinstește-mă în fața bătrânilor poporului meu și în fața lui Israel; întoarce-te cu mine, ca să mă prosternez DOMNULUI, Dumnezeului tău.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαούλ· ἡμάρτηκα, ἀλλὰ δόξασόν με δὴ ἐνώπιον πρεσβυτέρων ᾿Ισραὴλ καὶ ἐνώπιον λαοῦ μου καὶ ἀνάστρεψον μετ᾿ ἐμοῦ, καὶ προσκυνήσω Κυρίῳ τῷ Θεῷ σου.",
+       "greek": true,
+       "translation": "Și a spus Saul: «Am păcătuit, dar cinstește-mă, te rog, înaintea bătrânilor lui Israel și înaintea poporului meu, și întoarce-te cu mine, și mă voi prosterna Domnului, Dumnezeului tău.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 29:13"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:31",
      "t": "Și Samuel s-a întors după Șaul și Șaul s-a prosternat înaintea DOMNULUI.",
      "heb": "וַיָּשָׁב שְׁמוּאֵל אַחֲרֵי שָׁאוּל וַיִּשְׁתַּחוּ שָׁאוּל לַיהוָה׃",
-     "translit": "Vaiasov Șemuel aharei Șaul vaiștahu Șaul l'ADONAI."
+     "translit": "Vaiasov Șemuel aharei Șaul vaiștahu Șaul l'ADONAI.",
+     "tokens": [
+      {
+       "t": "Și Samuel s-a întors după Șaul și Șaul s-a prosternat înaintea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּשָׁב שְׁמוּאֵל אַחֲרֵי שָׁאוּל וַיִּשְׁתַּחוּ שָׁאוּל לַיהוָה׃",
+       "translation": "Și Samuel s-a întors după Șaul și Șaul s-a prosternat înaintea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέστρεψε Σαμουὴλ ὀπίσω Σαοὺλ καὶ προσεκύνησε τῷ Κυρίῳ.",
+       "greek": true,
+       "translation": "Și s-a întors Samuel după Saul, și s-a prosternat Domnului.",
+       "note": "Septuaginta are „s-a prosternat Samuel”, nu Saul (ca în Textul Masoretic) — diferență reală de subiect al verbului."
+      }
+     ],
+     "refs": [
+      "1 Samuel 15:26"
+     ],
+     "commentaries": []
     },
     {
      "v": "15:32",
      "t": "Samuel a spus: „Aduceți-mi-l pe Agag, regele lui Amalek.” Agag a venit la el în lanțuri și Agag [și-]a spus: „Cu siguranță, amărăciunea morții a sosit.”",
      "heb": "וַיֹּאמֶר שְׁמוּאֵל הַגִּישׁוּ אֵלַי אֶת־אֲגַג מֶלֶךְ עֲמָלֵק וַיֵּלֶךְ אֵלָיו אֲגַג מַעֲדַנֹּת וַיֹּאמֶר אֲגַג אָכֵן סָר מַר־הַמָּוֶת׃",
-     "translit": "Vaiomer Șemuel haghișu elai et-Agag meleh Amalek vaieleh elav Agag maadanot vaiomer Agag ahen sar mar-hamavet."
+     "translit": "Vaiomer Șemuel haghișu elai et-Agag meleh Amalek vaieleh elav Agag maadanot vaiomer Agag ahen sar mar-hamavet.",
+     "tokens": [
+      {
+       "t": "Samuel a spus: „Aduceți-mi-l pe Agag, regele lui Amalek.” Agag a venit la el "
+      },
+      {
+       "t": "în lanțuri",
+       "w": "în lanțuri",
+       "heb": "מַעֲדַנֹּת",
+       "translit": "maadanot",
+       "strong": "H4574",
+       "pos": "substantiv, masculin și feminin plural",
+       "def_ro": "cu plăcere/în voie, blând (maadanot) — sens incert, posibil „legat” sau „plin de nădejde”.",
+       "dict_ro": "Maadanot e un cuvânt extrem de rar și dificil, tradus divers: „în lanțuri”, „liniștit/cu voioșie” (asumând că Agag se credea scăpat), sau „șovăind”. Septuaginta îl redă „tremurând” (τρέμων) — o interpretare opusă (frică, nu încrezare), dar la fel de incertă ca toate celelalte, semn al unui cuvânt deja neclar traducătorilor antici.",
+       "greek": "τρέμων (tremon)",
+       "greek_def_ro": "τρέμων (tremon) — tremurând — sens opus unora dintre interpretările ebraice tradiționale ale lui maadanot (încrezător/plin de speranță), dar convergent cu altele (legat, îngrijorat).",
+       "diff_ro": "Cuvântul ebraic maadanot e de sens incert; Septuaginta îl traduce „tremurând” (de frică), în timp ce unele interpretări ebraice tradiționale îl citesc mai degrabă ca „încrezător, plin de speranță” — ambiguitate reală a termenului, nu doar diferență de traducere."
+      },
+      {
+       "t": " și Agag [și-]a spus: „Cu siguranță, amărăciunea morții a sosit.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שְׁמוּאֵל הַגִּישׁוּ אֵלַי אֶת־אֲגַג מֶלֶךְ עֲמָלֵק וַיֵּלֶךְ אֵלָיו אֲגַג מַעֲדַנֹּת וַיֹּאמֶר אֲגַג אָכֵן סָר מַר־הַמָּוֶת׃",
+       "translation": "Samuel a spus: „Aduceți-mi-l pe Agag, regele lui Amalek.” Agag a venit la el în lanțuri și Agag [și-]a spus: „Cu siguranță, amărăciunea morții a sosit.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαμουήλ· προσαγάγετέ μοι τὸν ᾿Αγὰγ βασιλέα ᾿Αμαλήκ. καὶ προσῆλθε πρὸς αὐτὸν ᾿Αγὰγ τρέμων, καὶ εἶπεν ᾿Αγάγ· εἰ οὕτω πικρὸς ὁ θάνατος;",
+       "greek": true,
+       "translation": "Și a spus Samuel: «Aduceți-mi pe Agag, regele lui Amalec.» Și a venit la el Agag tremurând, și a spus Agag: «Oare așa [de] amară [este] moartea?»",
+       "note": "Vezi nota de la cuvântul tagat „în lanțuri” — Septuaginta are „tremurând”, sens posibil opus."
+      }
+     ],
+     "refs": [
+      "Estera 3:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Context: Purim și Agag",
+       "text": "Tradiția identifică explicit pe Haman, vrăjmașul din cartea Estera, ca descendent al acestui Agag — motiv pentru care Haftarat Zahor se citește tocmai în Șabatul dinaintea lui Purim, legând porunca „ține minte ce a făcut Amalek” direct de amenințarea mai târzie a lui Haman."
+      }
+     ]
     },
     {
      "v": "15:33",
      "t": "Samuel a spus: „Așa cum sabia ta a lăsat femei fără copii, tot așa și mama ta va fi fără copii printre femei!” Și Samuel l-a despicat pe Agag înaintea DOMNULUI în Ghilgal.",
      "heb": "וַיֹּאמֶר שְׁמוּאֵל כַּאֲשֶׁר שִׁכְּלָה נָשִׁים חַרְבֶּךָ כֵּן־תִּשְׁכַּל מִנָּשִׁים אִמֶּךָ וַיְשַׁסֵּף שְׁמוּאֵל אֶת־אֲגַג לִפְנֵי יְהוָה בַּגִּלְגָּל׃",
-     "translit": "Vaiomer Șemuel kaașer șikla nașim harbeha ken-tișkal minașim imeha vaișașef Șemuel et-Agag lifnei ADONAI ba'Ghilgal."
+     "translit": "Vaiomer Șemuel kaașer șikla nașim harbeha ken-tișkal minașim imeha vaișașef Șemuel et-Agag lifnei ADONAI ba'Ghilgal.",
+     "tokens": [
+      {
+       "t": "Samuel a spus: „Așa cum sabia ta a lăsat femei fără copii, tot așa și mama ta va fi fără copii printre femei!” Și Samuel l-a despicat pe Agag înaintea DOMNULUI în Ghilgal."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר שְׁמוּאֵל כַּאֲשֶׁר שִׁכְּלָה נָשִׁים חַרְבֶּךָ כֵּן־תִּשְׁכַּל מִנָּשִׁים אִמֶּךָ וַיְשַׁסֵּף שְׁמוּאֵל אֶת־אֲגַג לִפְנֵי יְהוָה בַּגִּלְגָּל׃",
+       "translation": "Samuel a spus: „Așa cum sabia ta a lăsat femei fără copii, tot așa și mama ta va fi fără copii printre femei!” Și Samuel l-a despicat pe Agag înaintea DOMNULUI în Ghilgal. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Σαμουὴλ πρὸς ᾿Αγάγ· καθότι ἠτέκνωσε γυναῖκας ἡ ρομφαία σου, οὕτως ἀτεκνωθήσεται ἐκ γυναικῶν ἡ μήτηρ σου, καὶ ἔσφαξε Σαμουὴλ τὸν ᾿Αγὰγ ἐνώπιον Κυρίου ἐν Γαλγάλ.",
+       "greek": true,
+       "translation": "Și a spus Samuel către Agag: «Precum sabia ta a lipsit de copii femei, tot așa va fi lipsită de copii, din femei, mama ta.» Și a înjunghiat Samuel pe Agag înaintea Domnului, în Galgala.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 25:7,8"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Așa cum sabia ta a lăsat femei fără copii” — făcându-le văduve de bărbații lor, pe care voi [amalekiții] le tăiați, pe tinerii lui Israel. „Și l-a despicat” — l-a tăiat în patru; cuvântul nu are analog; Targumul traduce „ufașah” — a crăpa, a despica."
+      }
+     ]
     },
     {
      "v": "15:34",
      "t": "Samuel a mers la Rama, iar Șaul s-a urcat către casa lui, în Ghiivat-Șaul.",
      "heb": "וַיֵּלֶךְ שְׁמוּאֵל הָרָמָתָה וְשָׁאוּל עָלָה אֶל־בֵּיתוֹ גִּבְעַת שָׁאוּל׃",
-     "translit": "Vaieleh Șemuel ha'Ramata ve'Șaul ala el-beito Ghiivat Șaul."
+     "translit": "Vaieleh Șemuel ha'Ramata ve'Șaul ala el-beito Ghiivat Șaul.",
+     "tokens": [
+      {
+       "t": "Samuel a mers la Rama, iar Șaul s-a urcat către casa lui, în Ghiivat-Șaul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֵּלֶךְ שְׁמוּאֵל הָרָמָתָה וְשָׁאוּל עָלָה אֶל־בֵּיתוֹ גִּבְעַת שָׁאוּל׃",
+       "translation": "Samuel a mers la Rama, iar Șaul s-a urcat către casa lui, în Ghiivat-Șaul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπῆλθε Σαμουὴλ εἰς ᾿Αρμαθαίμ, καὶ Σαοὺλ ἀνέβη εἰς τὸν οἶκον αὐτοῦ εἰς Γαβαά.",
+       "greek": true,
+       "translation": "Și a plecat Samuel la Armataim, și Saul s-a suit la casa lui, la Gabaa.",
+       "note": "Corespondență strânsă cu Textul Masoretic (nume transliterate grecesc)."
+      }
+     ],
+     "refs": [
+      "1 Samuel 11:4"
+     ],
+     "commentaries": []
     }
    ]
   },
