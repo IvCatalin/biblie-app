@@ -3907,127 +3907,791 @@
      "v": "11:17",
      "t": "Iehoiada a pecetluit legământul dintre Dumnezeu și rege și popor, ca să fie popor al DOMNULUI; și între rege și popor.",
      "heb": "וַיִּכְרֹת יְהוֹיָדָע אֶת־הַבְּרִית בֵּין יְהוָה וּבֵין הַמֶּלֶךְ וּבֵין הָעָם לִהְיוֹת לְעָם לַיהוָה וּבֵין הַמֶּלֶךְ וּבֵין הָעָם׃",
-     "translit": "Vaikhrot Iehoiada et-haberit bein ADONAI uvein hameleh uvein haam lihiot leam l'ADONAI uvein hameleh uvein haam."
+     "translit": "Vaikhrot Iehoiada et-haberit bein ADONAI uvein hameleh uvein haam lihiot leam l'ADONAI uvein hameleh uvein haam.",
+     "tokens": [
+      {
+       "t": "Iehoiada a pecetluit "
+      },
+      {
+       "t": "legământul",
+       "w": "legământul",
+       "heb": "הַבְּרִית",
+       "translit": "habrit",
+       "strong": "H1285",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "legământ, compact (habrit).",
+       "dict_ro": "Reînnoirea triplă a legământului — între Dumnezeu, rege și popor, apoi separat între rege și popor — marchează restaurarea completă a ordinii după uzurparea Ataliei: mai întâi loialitatea religioasă (toți ca „popor al DOMNULUI”), apoi loialitatea politică firească (supușenia față de regele legitim din casa lui David)."
+      },
+      {
+       "t": " dintre Dumnezeu și rege și popor, ca să fie popor al DOMNULUI; și între rege și popor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּכְרֹת יְהוֹיָדָע אֶת־הַבְּרִית בֵּין יְהוָה וּבֵין הַמֶּלֶךְ וּבֵין הָעָם לִהְיוֹת לְעָם לַיהוָה וּבֵין הַמֶּלֶךְ וּבֵין הָעָם׃",
+       "translation": "Iehoiada a pecetluit legământul dintre Dumnezeu și rege și popor, ca să fie popor al DOMNULUI; și între rege și popor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ διέθετο ᾿Ιωδαὲ διαθήκην ἀνὰ μέσον Κυρίου καὶ ἀνὰ μέσον τοῦ βασιλέως καὶ ἀνὰ μέσον τοῦ λαοῦ τοῦ εἶναι εἰς λαὸν τῷ Κυρίῳ, καὶ ἀνὰ μέσον τοῦ βασιλέως καὶ ἀνὰ μέσον τοῦ λαοῦ.",
+       "greek": true,
+       "translation": "Și a încheiat Iodae legământ între Domnul și între rege și între popor, ca să fie popor Domnului, și între rege și între popor.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 29:1-15",
+      "Iosua 24:25",
+      "2 Cronici 23:16"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Între DOMNUL și între rege și între popor” — ca regele și poporul să fie după DOMNUL, și după aceea între rege și popor, ca ei să fie slujitori regelui."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Să fie popor al DOMNULUI” — se referă și la „între rege”, ca și regele să-I slujească DOMNULUI. „Între rege și popor” — ca regele să poarte războaiele poporului, iar ei să-l slujească, așa cum se cuvine unui rege."
+      }
+     ]
     },
     {
      "v": "11:18",
      "t": "Tot poporul țării a venit la templul lui Baal și l-au dărâmat, i-au sfărâmat complet altarele și chipurile cioplite și l-au ucis pe Matan, preotul lui Baal, în fața altarelor; și preotul [Iehoiada] a numit străjeri asupra Casei DOMNULUI.",
      "heb": "וַיָּבֹאוּ כָל־עַם הָאָרֶץ בֵּית־הַבַּעַל וַיִּתְּצֻהוּ אֶת־מִזְבְּחֹתָיו וְאֶת־צְלָמָיו שִׁבְּרוּ הֵיטֵב וְאֵת מַתָּן כֹּהֵן הַבַּעַל הָרְגוּ לִפְנֵי הַמִּזְבְּחוֹת וַיָּשֶׂם הַכֹּהֵן פְּקֻדּוֹת עַל־בֵּית יְהוָה׃",
-     "translit": "Vaiavou hol-am haareț beit-ha'Baal vaitetzuhu et-mizbehotav veet-țelamav șibru heitev veet Matan kohen ha'Baal hargu lifnei hamizbehot vaiasem hakohen pekudot al-beit ADONAI."
+     "translit": "Vaiavou hol-am haareț beit-ha'Baal vaitetzuhu et-mizbehotav veet-țelamav șibru heitev veet Matan kohen ha'Baal hargu lifnei hamizbehot vaiasem hakohen pekudot al-beit ADONAI.",
+     "tokens": [
+      {
+       "t": "Tot poporul țării a venit la "
+      },
+      {
+       "t": "templul lui Baal",
+       "w": "templul lui Baal",
+       "heb": "בֵּית הַבַּעַל",
+       "translit": "bēt habaal",
+       "strong": "H1168",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "casa lui Baal (bēt habaal).",
+       "dict_ro": "Templul lui Baal din Ierusalim fusese ridicat probabil sub influența Izabelei și a Ataliei (fiica ei) — distrugerea lui aici, imediat după căderea Ataliei, oglindește exact gestul similar al lui Iehu la templul din Samaria (2 Împărați 10:26-27)."
+      },
+      {
+       "t": " și l-au dărâmat, i-au sfărâmat complet altarele și chipurile cioplite și l-au ucis pe Matan, preotul lui Baal, în fața altarelor; și preotul [Iehoiada] a numit străjeri asupra Casei DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּבֹאוּ כָל־עַם הָאָרֶץ בֵּית־הַבַּעַל וַיִּתְּצֻהוּ אֶת־מִזְבְּחֹתָיו וְאֶת־צְלָמָיו שִׁבְּרוּ הֵיטֵב וְאֵת מַתָּן כֹּהֵן הַבַּעַל הָרְגוּ לִפְנֵי הַמִּזְבְּחוֹת וַיָּשֶׂם הַכֹּהֵן פְּקֻדּוֹת עַל־בֵּית יְהוָה׃",
+       "translation": "Tot poporul țării a venit la templul lui Baal și l-au dărâmat, i-au sfărâmat complet altarele și chipurile cioplite și l-au ucis pe Matan, preotul lui Baal, în fața altarelor; și preotul [Iehoiada] a numit străjeri asupra Casei DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἰσῆλθε πᾶς ὁ λαὸς τῆς γῆς εἰς οἶκον τοῦ Βάαλ καὶ κατέσπασαν αὐτὸν καὶ τὰ θυσιαστήρια αὐτοῦ καὶ τὰς εἰκόνας αὐτοῦ συνέτριψαν ἀγαθῶς καὶ τὸν Μαθὰν τὸν ἱερέα τοῦ Βάαλ ἀπέκτειναν κατὰ πρόσωπον τῶν θυσιαστηρίων, καὶ ἔθηκεν ὁ ἱερεὺς ἐπισκόπους εἰς τὸν οἶκον Κυρίου.",
+       "greek": true,
+       "translation": "Și a intrat tot poporul țării în casa lui Baal, și l-au dărâmat, și altarele lui și icoanele lui le-au sfărâmat bine, și pe Matan, preotul lui Baal, l-au ucis înaintea altarelor, și preotul a pus supraveghetori la Casa Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Împărați 10:26,27",
+      "Zaharia 13:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Străjeri” — numiți să vegheze fiecare la locul lui de slujire, după regulă, căci Atalia anulase ordinea rândurilor [de slujire] ale Casei."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Străjeri asupra Casei DOMNULUI” — numiți după cum rânduise David, căci cât timp slujiseră lui Baal, rânduielile [preoțești] fuseseră anulate."
+      }
+     ]
     },
     {
      "v": "11:19",
      "t": "A luat căpeteniile peste sute, conducătorii, alergătorii și tot poporul țării și l-au însoțit pe rege coborând de la Casa DOMNULUI. Au venit pe calea porții alergătorilor către palatul regal și el s-a așezat pe tronul regilor.",
      "heb": "וַיִּקַּח אֶת־שָׂרֵי הַמֵּאוֹת וְאֶת־הַכָּרִי וְאֶת־הָרָצִים וְאֵת כָּל־עַם הָאָרֶץ וַיֹּרִידוּ אֶת־הַמֶּלֶךְ מִבֵּית יְהוָה וַיָּבוֹאוּ דֶּרֶךְ־שַׁעַר הָרָצִים בֵּית הַמֶּלֶךְ וַיֵּשֶׁב עַל־כִּסֵּא הַמְּלָכִים׃",
-     "translit": "Vaikah et-sarei hameot veet-hakari veet-harațim veet kol-am haareț vaioridu et-hameleh mibeit ADONAI vaiavou dereh-șaar harațim beit hameleh vaièșev al-kise hamelahim."
+     "translit": "Vaikah et-sarei hameot veet-hakari veet-harațim veet kol-am haareț vaioridu et-hameleh mibeit ADONAI vaiavou dereh-șaar harațim beit hameleh vaièșev al-kise hamelahim.",
+     "tokens": [
+      {
+       "t": "A luat căpeteniile peste sute, conducătorii, alergătorii și tot poporul țării și l-au însoțit pe rege coborând de la Casa DOMNULUI. Au venit pe calea porții alergătorilor către palatul regal și el s-a așezat pe tronul regilor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּקַּח אֶת־שָׂרֵי הַמֵּאוֹת וְאֶת־הַכָּרִי וְאֶת־הָרָצִים וְאֵת כָּל־עַם הָאָרֶץ וַיֹּרִידוּ אֶת־הַמֶּלֶךְ מִבֵּית יְהוָה וַיָּבוֹאוּ דֶּרֶךְ־שַׁעַר הָרָצִים בֵּית הַמֶּלֶךְ וַיֵּשֶׁב עַל־כִּסֵּא הַמְּלָכִים׃",
+       "translation": "A luat căpeteniile peste sute, conducătorii, alergătorii și tot poporul țării și l-au însoțit pe rege coborând de la Casa DOMNULUI. Au venit pe calea porții alergătorilor către palatul regal și el s-a așezat pe tronul regilor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔλαβε τοὺς ἑκατοντάρχους καὶ τὸν Χορρὶ καὶ τὸν Ῥασὶμ καὶ πάντα τὸν λαὸν τῆς γῆς, καὶ κατήγαγον τὸν βασιλέα ἐξ οἴκου Κυρίου, καὶ εἰσῆλθον ὁδὸν πύλης τῶν παρατρεχόντων οἴκου τοῦ βασιλέως, καὶ ἐκάθισαν αὐτὸν ἐπὶ θρόνου τῶν βασιλέων.",
+       "greek": true,
+       "translation": "Și a luat pe sutași și pe Horri și pe Rasim și tot poporul țării, și au dus pe rege din Casa Domnului, și au intrat pe calea porții alergătorilor Casei regelui, și l-au așezat pe tronul regilor.",
+       "note": "Septuaginta transliterează diferit numele unor gărzi/unități (Χορρὶ, Ῥασὶμ), posibil citind alți termeni decât ebraica aici tradusă."
+      }
+     ],
+     "refs": [
+      "1 Împărați 1:13",
+      "2 Cronici 23:19,20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Au venit pe calea porții alergătorilor” — spre palatul regelui."
+      }
+     ]
     },
     {
      "v": "11:20",
      "t": "Și tot poporul țării s-a bucurat, iar orașul s-a liniștit. Și au ucis-o pe Atalia cu sabia în palatul regelui.",
      "heb": "וַיִּשְׂמַח כָּל־עַם־הָאָרֶץ וְהָעִיר שָׁקָטָה וְאֶת־עֲתַלְיָהוּ הֵמִיתוּ בַחֶרֶב בֵּית מֶלֶךְ׃",
-     "translit": "Vaismah kol-am-haareț vehair șakata veet-Ataliahu hemitu vaherev beit meleh."
+     "translit": "Vaismah kol-am-haareț vehair șakata veet-Ataliahu hemitu vaherev beit meleh.",
+     "tokens": [
+      {
+       "t": "Și tot poporul țării s-a bucurat, iar orașul s-a liniștit. Și au ucis-o pe Atalia cu sabia în palatul regelui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשְׂמַח כָּל־עַם־הָאָרֶץ וְהָעִיר שָׁקָטָה וְאֶת־עֲתַלְיָהוּ הֵמִיתוּ בַחֶרֶב בֵּית מֶלֶךְ׃",
+       "translation": "Și tot poporul țării s-a bucurat, iar orașul s-a liniștit. Și au ucis-o pe Atalia cu sabia în palatul regelui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐχάρη πᾶς ὁ λαὸς τῆς γῆς, καὶ ἡ πόλις ἡσύχασε· καὶ τὴν Γοθολίαν ἐθανάτωσαν ἐν ρομφαίᾳ ἐν οἴκῳ τοῦ βασιλέως.",
+       "greek": true,
+       "translation": "Și s-a bucurat tot poporul țării, și cetatea s-a liniștit; și pe Gotolia au ucis-o cu sabia în casa regelui.",
+       "note": "Septuaginta are „Gotolia” pentru Atalia — variantă grecească a aceluiași nume."
+      }
+     ],
+     "refs": [
+      "2 Cronici 23:21",
+      "Proverbe 11:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și orașul s-a liniștit” — nu s-a mai iscat niciun război din pricina asta, căci o uciseseră pe Atalia, și nu mai era nimeni care să ridice război."
+      }
+     ]
     },
     {
      "v": "12:1",
      "t": "Iehoaș avea șapte ani la încoronarea sa.",
      "heb": "בֶּן־שֶׁבַע שָׁנִים יְהוֹאָשׁ בְּמָלְכוֹ׃",
-     "translit": "Ben-șeva șanim Iehoaș bemolho."
+     "translit": "Ben-șeva șanim Iehoaș bemolho.",
+     "tokens": [
+      {
+       "t": "Iehoaș avea șapte ani la încoronarea sa."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בֶּן־שֶׁבַע שָׁנִים יְהוֹאָשׁ בְּמָלְכוֹ׃",
+       "translation": "Iehoaș avea șapte ani la încoronarea sa. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΥΙΟΣ ἑπτὰ ἐτῶν ᾿Ιωὰς ἐν τῷ βασιλεύειν αὐτόν.",
+       "greek": true,
+       "translation": "Fiu de șapte ani [era] Ioas când a început să domnească.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Împărați 11:1-4"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:2",
      "t": "În anul al șaptelea al [domniei] lui Iehu, Iehoaș a ajuns rege și a domnit timp de patruzeci de ani în Ierusalim. Iar numele mamei lui era Țivia din Beer-Șeva.",
      "heb": "בִּשְׁנַת־שֶׁבַע לְיֵהוּא מָלַךְ יְהוֹאָשׁ וְאַרְבָּעִים שָׁנָה מָלַךְ בִּירוּשָׁלָ͏ִם וְשֵׁם אִמּוֹ צִבְיָה מִבְּאֵר שָׁבַע׃",
-     "translit": "Bișnat-șeva le'Iehu malah Iehoaș vearbaim șana malah b'Irușalaim veșem imo Țivia mi'Beer Șava."
+     "translit": "Bișnat-șeva le'Iehu malah Iehoaș vearbaim șana malah b'Irușalaim veșem imo Țivia mi'Beer Șava.",
+     "tokens": [
+      {
+       "t": "În anul al șaptelea al [domniei] lui Iehu, Iehoaș a ajuns rege și a domnit timp de patruzeci de ani în Ierusalim. Iar numele mamei lui era "
+      },
+      {
+       "t": "Țivia",
+       "w": "Țivia",
+       "heb": "צִבְיָה",
+       "translit": "țivia",
+       "strong": "H6645",
+       "pos": "nume propriu",
+       "def_ro": "Tsibia — numele mamei regelui Iehoaș.",
+       "dict_ro": "Numele mamei regelui apare consecvent în Cărțile Împărați ca parte a formulei regale standard de introducere a domniei — Septuaginta citește acest nume rar diferit, „Abia” (Ἀβιά), posibil din confuzia grafică dintre literele ebraice ț (צ) și א la transcrierea în greacă, sau dintr-un text sursă ușor diferit.",
+       "greek": "Ἀβιά (Abia)",
+       "greek_def_ro": "Ἀβιά (Abia) — Abia — nume diferit de „Țivia” din ebraica tradusă aici; posibil confuzie de transcriere sau text-sursă diferit.",
+       "diff_ro": "Septuaginta dă numele mamei regelui ca „Abia” (Ἀβιά), nu „Țivia” — o divergență reală de nume, nu doar de transliterare, între cele două tradiții textuale."
+      },
+      {
+       "t": " din Beer-Șeva."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בִּשְׁנַת־שֶׁבַע לְיֵהוּא מָלַךְ יְהוֹאָשׁ וְאַרְבָּעִים שָׁנָה מָלַךְ בִּירוּשָׁלָ͏ִם וְשֵׁם אִמּוֹ צִבְיָה מִבְּאֵר שָׁבַע׃",
+       "translation": "În anul al șaptelea al [domniei] lui Iehu, Iehoaș a ajuns rege și a domnit timp de patruzeci de ani în Ierusalim. Iar numele mamei lui era Țivia din Beer-Șeva. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐν ἔτει ἑβδόμῳ τῷ ᾿Ιοὺ ἐβασίλευσεν ᾿Ιωὰς καὶ τεσσαράκοντα ἔτη ἐβασίλευσεν ἐν ῾Ιερουσαλήμ, καὶ ὄνομα τῆς μητρὸς αὐτοῦ ᾿Αβιὰ ἐκ τῆς Βηρσαβεέ.",
+       "greek": true,
+       "translation": "În anul al șaptelea al lui Iu a început să domnească Ioas, și patruzeci de ani a domnit în Ierusalim, și numele mamei lui [era] Abia, din Bersabee.",
+       "note": "Vezi nota de la cuvântul tagat „Țivia” — Septuaginta are „Abia”, nume diferit."
+      }
+     ],
+     "refs": [
+      "2 Cronici 24:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:3",
      "t": "Iehoaș a făcut ceea ce este drept în ochii DOMNULUI în toate zilele când preotul Iehoiada l-a îndrumat.",
      "heb": "וַיַּעַשׂ יְהוֹאָשׁ הַיָּשָׁר בְּעֵינֵי יְהוָה כָּל־יָמָיו אֲשֶׁר הוֹרָהוּ יְהוֹיָדָע הַכֹּהֵן׃",
-     "translit": "Vaiaas Iehoaș haiasar beeinéi ADONAI kol-iamav așer horahu Iehoiada hakohen."
+     "translit": "Vaiaas Iehoaș haiasar beeinéi ADONAI kol-iamav așer horahu Iehoiada hakohen.",
+     "tokens": [
+      {
+       "t": "Iehoaș a făcut ceea ce este drept în ochii DOMNULUI în toate zilele când preotul Iehoiada l-a îndrumat."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַשׂ יְהוֹאָשׁ הַיָּשָׁר בְּעֵינֵי יְהוָה כָּל־יָמָיו אֲשֶׁר הוֹרָהוּ יְהוֹיָדָע הַכֹּהֵן׃",
+       "translation": "Iehoaș a făcut ceea ce este drept în ochii DOMNULUI în toate zilele când preotul Iehoiada l-a îndrumat. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐποίησεν ᾿Ιωὰς τὸ εὐθὲς ἐνώπιον Κυρίου πάσας τὰς ἡμέρας, ἃς ἐφώτισεν αὐτὸν ᾿Ιωδαὲ ὁ ἱερεύς·",
+       "greek": true,
+       "translation": "Și a făcut Ioas ce era drept înaintea Domnului în toate zilele în care l-a luminat Iodae preotul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 24:2"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:4",
      "t": "Doar înălțimile nu le-a îndepărtat și poporul continua să jertfească și să ardă ofrandă de mirodenii pe înălțimi.",
      "heb": "רַק הַבָּמוֹת לֹא־סָרוּ עוֹד הָעָם מְזַבְּחִים וּמְקַטְּרִים בַּבָּמוֹת׃",
-     "translit": "Rak habamot lo-saru od haam mezabehim umekaterim babamot."
+     "translit": "Rak habamot lo-saru od haam mezabehim umekaterim babamot.",
+     "tokens": [
+      {
+       "t": "Doar înălțimile nu le-a îndepărtat și poporul continua să jertfească și să ardă ofrandă de mirodenii pe înălțimi."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "רַק הַבָּמוֹת לֹא־סָרוּ עוֹד הָעָם מְזַבְּחִים וּמְקַטְּרִים בַּבָּמוֹת׃",
+       "translation": "Doar înălțimile nu le-a îndepărtat și poporul continua să jertfească și să ardă ofrandă de mirodenii pe înălțimi. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πλὴν τῶν ὑψηλῶν οὐ μετεστάθησαν, καὶ ἐκεῖ ἔτι ὁ λαὸς ἐθυσίαζε καὶ ἐθυμίων ἐν τοῖς ὑψηλοῖς.",
+       "greek": true,
+       "translation": "Numai înălțimile n-au fost îndepărtate, și acolo încă poporul jertfea și tămâia pe înălțimi.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Împărați 15:14",
+      "1 Împărați 22:43"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:5",
      "t": "Și Iehoaș le-a spus preoților: „Toți banii pentru lucrurile sfinte, care sunt aduși în Casa DOMNULUI – banii celor care trec prin [recensământ], banii fiecărui om pentru prețuirea sa – toți banii pe care inima cuiva îl îndeamnă să-i aducă în Casa DOMNULUI,",
      "heb": "וַיֹּאמֶר יְהוֹאָשׁ אֶל־הַכֹּהֲנִים כֹּל כֶּסֶף הַקֳּדָשִׁים אֲשֶׁר־יוּבָא בֵית־יְהוָה כֶּסֶף עוֹבֵר אִישׁ כֶּסֶף נַפְשׁוֹת עֶרְכּוֹ כָּל־כֶּסֶף אֲשֶׁר יַעֲלֶה עַל לֶב־אִישׁ לְהָבִיא בֵּית יְהוָה׃",
-     "translit": "Vaiomer Iehoaș el-hakohanim kol kesef hakodașim așer-iuva veit-ADONAI kesef over iș kesef nafșot erko kol-kesef așer iaale al lev-iș lehavi beit ADONAI."
+     "translit": "Vaiomer Iehoaș el-hakohanim kol kesef hakodașim așer-iuva veit-ADONAI kesef over iș kesef nafșot erko kol-kesef așer iaale al lev-iș lehavi beit ADONAI.",
+     "tokens": [
+      {
+       "t": "Și Iehoaș le-a spus preoților: „Toți banii pentru lucrurile sfinte, care sunt aduși în Casa DOMNULUI – banii celor care trec prin [recensământ], banii fiecărui om pentru "
+      },
+      {
+       "t": "prețuirea sa",
+       "w": "prețuirea sa",
+       "heb": "עֶרְכּוֹ",
+       "translit": "erko",
+       "strong": "H6187",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "prețuirea/evaluarea lui (erko).",
+       "dict_ro": "„Banii pentru prețuirea sufletului” (kesef nafșot erko) se referă la legea din Leviticul 27:2-8, prin care o persoană putea fi „prețuită” în bani în locul unui jurământ de consacrare personală — Rashi distinge aici explicit cele două tipuri de bani adunați: siclii obligatorii de recensământ și darurile voluntare de prețuire."
+      },
+      {
+       "t": " – toți banii pe care inima cuiva îl îndeamnă să-i aducă în Casa DOMNULUI,"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוֹאָשׁ אֶל־הַכֹּהֲנִים כֹּל כֶּסֶף הַקֳּדָשִׁים אֲשֶׁר־יוּבָא בֵית־יְהוָה כֶּסֶף עוֹבֵר אִישׁ כֶּסֶף נַפְשׁוֹת עֶרְכּוֹ כָּל־כֶּסֶף אֲשֶׁר יַעֲלֶה עַל לֶב־אִישׁ לְהָבִיא בֵּית יְהוָה׃",
+       "translation": "Și Iehoaș le-a spus preoților: „Toți banii pentru lucrurile sfinte, care sunt aduși în Casa DOMNULUI – banii celor care trec prin [recensământ], banii fiecărui om pentru prețuirea sa – toți banii pe care inima cuiva îl îndeamnă să-i aducă în Casa DOMNULUI, — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπεν ᾿Ιωὰς πρὸς τοὺς ἱερεῖς· πᾶν τὸ ἀργύριον τῶν ἁγίων τὸ εἰσοδιαζόμενον ἐν τῷ οἴκῳ Κυρίου, ἀργύριον συντιμήσεως, ἀνὴρ ἀργύριον λαβὼν συντιμήσεως, πᾶν ἀργύριον, ὃ ἐὰν ἀναβῇ ἐπὶ καρδίαν ἀνδρὸς ἐνεγκεῖν ἐν οἴκῳ Κυρίου,",
+       "greek": true,
+       "translation": "Și a spus Ioas către preoți: «Tot argintul sfințit care se aduce în Casa Domnului, argintul prețuirii, bărbatul care dă argint de prețuire, tot argintul pe care-l pune pe inima lui un om să-l aducă în Casa Domnului,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 30:12-16",
+      "Leviticul 27:2-8"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Banii celor care trec, banii fiecărui om pentru prețuirea sa” — sunt doi feluri de bani aici: banii de trecere, aceia sunt banii siclilor [de recensământ] din fiecare an, despre care se spune «tot cel care trece la numărătoare», și banii omului care se angajează de bunăvoie cu prețuirea sufletului lui, spunând «prețuirea mea [să fie] asupra mea». «Tot argintul care se va ridica [pe inima lui]» — ca cel care spune «iată, asupra mea, o mina pentru reparația Casei»."
+      }
+     ]
     },
     {
      "v": "12:6",
      "t": "fie ca fiecare din preoți să primească [banii], fiecare de la cunoștința sa, și să susțină restaurarea Casei, oriunde se va găsi că va fi nevoie de vreo reparație.”",
      "heb": "יִקְחוּ לָהֶם הַכֹּהֲנִים אִישׁ מֵאֵת מַכָּרוֹ וְהֵם יְחַזְּקוּ אֶת־בֶּדֶק הַבַּיִת לְכֹל אֲשֶׁר־יִמָּצֵא שָׁם בָּדֶק׃",
-     "translit": "Ikhu lahem hakohanim iș meet makaro vehem iehazeku et-bedek habait lehol așer-imațe șam badek."
+     "translit": "Ikhu lahem hakohanim iș meet makaro vehem iehazeku et-bedek habait lehol așer-imațe șam badek.",
+     "tokens": [
+      {
+       "t": "fie ca fiecare din preoți să primească [banii], fiecare de la cunoștința sa, și să susțină "
+      },
+      {
+       "t": "restaurarea",
+       "w": "restaurarea",
+       "heb": "בֶּדֶק",
+       "translit": "bedek",
+       "strong": "H919",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "breșa, spărtura [de reparat] (bedek).",
+       "dict_ro": "Bedek — „spărtură, breșă” — e termenul tehnic pentru avariile structurale ale unei clădiri. Septuaginta nu-l traduce deloc, ci îl transliterează ca atare („βεδέκ”), repetat identic de șase ori în tot capitolul — un termen tehnic ebraic pe care traducătorii eleniști l-au lăsat netradus, exact ca „ha-Ezel” sau „ha-matara” la Zaharia și 1 Samuel 20.",
+       "greek": "βεδέκ (bedek)",
+       "greek_def_ro": "βεδέκ (bedek) — transliterare directă a cuvântului ebraic bedek, netradusă de Septuaginta.",
+       "diff_ro": "Septuaginta nu traduce bedek („spărtură, de reparat”), ci îl transliterează „βεδέκ” — folosit identic, netradus, de șase ori în tot acest capitol."
+      },
+      {
+       "t": " Casei, oriunde se va găsi că va fi nevoie de vreo reparație.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יִקְחוּ לָהֶם הַכֹּהֲנִים אִישׁ מֵאֵת מַכָּרוֹ וְהֵם יְחַזְּקוּ אֶת־בֶּדֶק הַבַּיִת לְכֹל אֲשֶׁר־יִמָּצֵא שָׁם בָּדֶק׃",
+       "translation": "fie ca fiecare din preoți să primească [banii], fiecare de la cunoștința sa, și să susțină restaurarea Casei, oriunde se va găsi că va fi nevoie de vreo reparație.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "λαβέτωσαν ἑαυτοῖς οἱ ἱερεῖς ἀνὴρ ἀπὸ τῆς πράσεως αὐτῶν καὶ αὐτοὶ κρατήσουσι τὸ βεδὲκ τοῦ οἴκου εἰς πάντα, οὗ ἐὰν εὑρεθῇ ἐκεῖ βεδέκ.",
+       "greek": true,
+       "translation": "să-l ia pentru ei preoții, fiecare de la [partea] lui de vânzare, și ei să țină bedek-ul Casei, pentru tot ce se va găsi acolo [ca] bedek.»",
+       "note": "Vezi nota de la cuvântul tagat „restaurarea” — Septuaginta transliterează netradus bedek, de șase ori în tot capitolul."
+      }
+     ],
+     "refs": [
+      "2 Împărați 22:5,6",
+      "Isaia 58:12"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Să ia preoții pentru ei” — să fie al lor, și ei să se angajeze să susțină reparația Casei din [banii] lor. „De la cunoștința sa” — de la cel care-l cunoaște [și-i e obișnuit]. „Bedek” — spărtură și crăpătură a zidului."
+      }
+     ]
     },
     {
      "v": "12:7",
      "t": "Și a fost, în al douăzeci și treilea an al [domniei] regelui Iehoaș, că preoții nu susținuseră restaurarea Casei.",
      "heb": "וַיְהִי בִּשְׁנַת עֶשְׂרִים וְשָׁלֹשׁ שָׁנָה לַמֶּלֶךְ יְהוֹאָשׁ לֹא־חִזְּקוּ הַכֹּהֲנִים אֶת־בֶּדֶק הַבָּיִת׃",
-     "translit": "Vaihi bișnat esrim veșaloș șana lameleh Iehoaș lo-hizku hakohanim et-bedek habait."
+     "translit": "Vaihi bișnat esrim veșaloș șana lameleh Iehoaș lo-hizku hakohanim et-bedek habait.",
+     "tokens": [
+      {
+       "t": "Și a fost, în al douăzeci și treilea an al [domniei] regelui Iehoaș, că preoții nu susținuseră restaurarea Casei."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי בִּשְׁנַת עֶשְׂרִים וְשָׁלֹשׁ שָׁנָה לַמֶּלֶךְ יְהוֹאָשׁ לֹא־חִזְּקוּ הַכֹּהֲנִים אֶת־בֶּדֶק הַבָּיִת׃",
+       "translation": "Și a fost, în al douăzeci și treilea an al [domniei] regelui Iehoaș, că preoții nu susținuseră restaurarea Casei. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγενήθη ἐν τῷ εἰκοστῷ καὶ τρίτῳ ἔτει τῷ βασιλεῖ ᾿Ιωὰς οὐκ ἐκραταίωσαν οἱ ἱερεῖς τὸ βεδὲκ τοῦ οἴκου.",
+       "greek": true,
+       "translation": "Și a fost, în anul al douăzeci și treilea al regelui Ioas, [că] preoții n-au întărit bedek-ul Casei.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 24:5"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:8",
      "t": "Și regele Iehoaș l-a chemat pe preotul Iehoiada și pe preoți și le-a spus: „De ce nu susțineți restaurarea Casei? De acum înainte, să nu mai primiți bani de la cunoștințele voastre, ci să-i dați pentru restaurarea Casei.”",
      "heb": "וַיִּקְרָא הַמֶּלֶךְ יְהוֹאָשׁ לִיהוֹיָדָע הַכֹּהֵן וְלַכֹּהֲנִים וַיֹּאמֶר אֲלֵהֶם מַדּוּעַ אֵינְכֶם מְחַזְּקִים אֶת־בֶּדֶק הַבָּיִת וְעַתָּה אַל־תִּקְחוּ־כֶסֶף מֵאֵת מַכָּרֵיכֶם כִּי־לְבֶדֶק הַבַּיִת תִּתְּנֻהוּ׃",
-     "translit": "Vaikra hameleh Iehoaș l'Iehoiada hakohen velakohanim vaiomer alehem madua einehem mehazekim et-bedek habait veata al-tikhu-kesef meet makareihem ki-levedek habait titnuhu."
+     "translit": "Vaikra hameleh Iehoaș l'Iehoiada hakohen velakohanim vaiomer alehem madua einehem mehazekim et-bedek habait veata al-tikhu-kesef meet makareihem ki-levedek habait titnuhu.",
+     "tokens": [
+      {
+       "t": "Și regele Iehoaș l-a chemat pe preotul Iehoiada și pe preoți și le-a spus: „De ce nu susțineți restaurarea Casei? De acum înainte, să nu mai primiți bani de la cunoștințele voastre, ci să-i dați pentru restaurarea Casei.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּקְרָא הַמֶּלֶךְ יְהוֹאָשׁ לִיהוֹיָדָע הַכֹּהֵן וְלַכֹּהֲנִים וַיֹּאמֶר אֲלֵהֶם מַדּוּעַ אֵינְכֶם מְחַזְּקִים אֶת־בֶּדֶק הַבָּיִת וְעַתָּה אַל־תִּקְחוּ־כֶסֶף מֵאֵת מַכָּרֵיכֶם כִּי־לְבֶדֶק הַבַּיִת תִּתְּנֻהוּ׃",
+       "translation": "Și regele Iehoaș l-a chemat pe preotul Iehoiada și pe preoți și le-a spus: „De ce nu susțineți restaurarea Casei? De acum înainte, să nu mai primiți bani de la cunoștințele voastre, ci să-i dați pentru restaurarea Casei.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐκάλεσεν ᾿Ιωὰς ὁ βασιλεὺς ᾿Ιωδαὲ τὸν ἱερέα καὶ τοὺς ἱερεῖς καὶ εἶπε πρὸς αὐτούς· τί ὅτι οὐκ ἐκραταιοῦτε τὸ βεδὲκ τοῦ οἴκου; καὶ νῦν μὴ λάβητε ἀργύριον ἀπὸ τῶν πράσεων ὑμῶν, ὅτι εἰς τὸ βεδὲκ τοῦ οἴκου δώσετε αὐτό.",
+       "greek": true,
+       "translation": "Și a chemat Ioas regele pe Iodae preotul și pe preoți și le-a spus: «De ce nu întăriți bedek-ul Casei? Și acum, să nu mai luați argint de la [partea] voastră de vânzare, căci pentru bedek-ul Casei îl veți da.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 24:6-14"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:9",
      "t": "Și preoții au acceptat să nu mai primească bani de la popor și să nu mai susțină [din banii lor proprii] restaurarea Casei.",
      "heb": "וַיֵּאֹתוּ הַכֹּהֲנִים לְבִלְתִּי קְחַת־כֶּסֶף מֵאֵת הָעָם וּלְבִלְתִּי חַזֵּק אֶת־בֶּדֶק הַבָּיִת׃",
-     "translit": "Vaieotu hakohanim levilti kehat-kesef meet haam ulevilti hazek et-bedek habait."
+     "translit": "Vaieotu hakohanim levilti kehat-kesef meet haam ulevilti hazek et-bedek habait.",
+     "tokens": [
+      {
+       "t": "Și preoții au acceptat să nu mai primească bani de la popor și să nu mai susțină [din banii lor proprii] restaurarea Casei."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֵּאֹתוּ הַכֹּהֲנִים לְבִלְתִּי קְחַת־כֶּסֶף מֵאֵת הָעָם וּלְבִלְתִּי חַזֵּק אֶת־בֶּדֶק הַבָּיִת׃",
+       "translation": "Și preoții au acceptat să nu mai primească bani de la popor și să nu mai susțină [din banii lor proprii] restaurarea Casei. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ συνεφώνησαν οἱ ἱερεῖς τοῦ μὴ λαβεῖν ἀργύριον παρὰ τοῦ λαοῦ καὶ τοῦ μὴ ἐνισχῦσαι τὸ βεδὲκ τοῦ οἴκου.",
+       "greek": true,
+       "translation": "Și s-au învoit preoții să nu mai ia argint de la popor și să nu mai întărească bedek-ul Casei.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 24:8-14"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:10",
      "t": "Preotul Iehoiada a luat un cufăr, i-a făcut o gaură în capac și l-a așezat în partea dreaptă a altarului cum se intră în Casa DOMNULUI, iar preoții care vegheau pragul au pus în el toți banii aduși în Casa DOMNULUI.",
      "heb": "וַיִּקַּח יְהוֹיָדָע הַכֹּהֵן אֲרוֹן אֶחָד וַיִּקֹּב חֹר בְּדַלְתּוֹ וַיִּתֵּן אֹתוֹ אֵצֶל הַמִּזְבֵּחַ בְּיָמִין בְּבוֹא־אִישׁ בֵּית יְהוָה וְנָתְנוּ־שָׁמָּה הַכֹּהֲנִים שֹׁמְרֵי הַסַּף אֶת־כָּל־הַכֶּסֶף הַמּוּבָא בֵית־יְהוָה׃",
-     "translit": "Vaikah Iehoiada hakohen aron ehad vaikov hor bedalto vaiten oto ețel hamizbeah miamin bevo-iș beit ADONAI venatnu-șama hakohanim șomrei hasaf et-kol-hakesef hamuva veit-ADONAI."
+     "translit": "Vaikah Iehoiada hakohen aron ehad vaikov hor bedalto vaiten oto ețel hamizbeah miamin bevo-iș beit ADONAI venatnu-șama hakohanim șomrei hasaf et-kol-hakesef hamuva veit-ADONAI.",
+     "tokens": [
+      {
+       "t": "Preotul Iehoiada a luat "
+      },
+      {
+       "t": "un cufăr",
+       "w": "un cufăr",
+       "heb": "אֲרוֹן",
+       "translit": "aron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "o cutie, un chivot (aron ehad).",
+       "dict_ro": "Același cuvânt aron folosit aici pentru „cufăr” e termenul tehnic pentru Chivotul Legământului — folosirea lui pentru o simplă cutie de colectare a banilor arată lipsa de ambiguitate practică a limbii ebraice: contextul, nu cuvântul în sine, determină sensul. Scena colectării publice de bani la Templu revine, cu ecou direct, la episodul evanghelic al văduvei sărace (Marcu 12:41-44)."
+      },
+      {
+       "t": ", i-a făcut o gaură în capac și l-a așezat în partea dreaptă a altarului cum se intră în Casa DOMNULUI, iar preoții care vegheau pragul au pus în el toți banii aduși în Casa DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּקַּח יְהוֹיָדָע הַכֹּהֵן אֲרוֹן אֶחָד וַיִּקֹּב חֹר בְּדַלְתּוֹ וַיִּתֵּן אֹתוֹ אֵצֶל הַמִּזְבֵּחַ בְּיָמִין בְּבוֹא־אִישׁ בֵּית יְהוָה וְנָתְנוּ־שָׁמָּה הַכֹּהֲנִים שֹׁמְרֵי הַסַּף אֶת־כָּל־הַכֶּסֶף הַמּוּבָא בֵית־יְהוָה׃",
+       "translation": "Preotul Iehoiada a luat un cufăr, i-a făcut o gaură în capac și l-a așezat în partea dreaptă a altarului cum se intră în Casa DOMNULUI, iar preoții care vegheau pragul au pus în el toți banii aduși în Casa DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔλαβεν ᾿Ιωδαὲ ὁ ἱερεὺς κιβωτὸν μίαν καὶ ἔτρησε τρώγλην ἐπὶ τῆς σανίδος αὐτῆς καὶ ἔδωκεν αὐτὴν παρὰ ἀμμαζειβὶ ἐν τῷ οἴκῳ ἀνδρὸς οἴκου Κυρίου, καὶ ἔδωκαν οἱ ἱερεῖς οἱ φυλάσσοντες τὸν σταθμὸν πᾶν τὸ ἀργύριον τὸ εὑρεθὲν ἐν οἴκῳ Κυρίου.",
+       "greek": true,
+       "translation": "Și a luat Iodae preotul un cufăr și a găurit o gaură în capacul lui și l-a pus lângă [stâlpul] amazebi, în casa unui om al Casei Domnului, și preoții care păzeau cântarul au pus [în el] tot argintul găsit în Casa Domnului.",
+       "note": "Septuaginta are un termen obscur, transliterat „amazebi”, fără corespondent clar în ebraica tradusă aici — posibil un alt nume de reper arhitectural."
+      }
+     ],
+     "refs": [
+      "2 Cronici 24:8-11",
+      "Marcu 12:41"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Lângă altar” — în curte. „În partea dreaptă cum vine omul” — în dreapta celor care intră. „Cei care vegheau pragul” — pragurile curții, cei numiți asupra cheilor curții — pe care Targumul Ionatan îi traduce „amarkalin”; erau șapte amarkali, pentru cele șapte porți ale curții, conform Tosefta Șekalim."
+      }
+     ]
     },
     {
      "v": "12:11",
      "t": "Când au văzut că se strânseseră mulți bani în cufăr, scribul regal și Marele Preot au venit și au pus în saci și au numărat banii care s-au găsit în Casa DOMNULUI.",
      "heb": "וַיְהִי כִּרְאוֹתָם כִּי־רַב הַכֶּסֶף בָּאָרוֹן וַיַּעַל סֹפֵר הַמֶּלֶךְ וְהַכֹּהֵן הַגָּדוֹל וַיָּצֻרוּ וַיִּמְנוּ אֶת־הַכֶּסֶף הַנִּמְצָא בֵית־יְהוָה׃",
-     "translit": "Vaihi kirotám ki-rav hakesef baaron vaiaal sofer hameleh vehakohen hagadol vaiatzuru vaimnu et-hakesef hanimța veit-ADONAI."
+     "translit": "Vaihi kirotám ki-rav hakesef baaron vaiaal sofer hameleh vehakohen hagadol vaiatzuru vaimnu et-hakesef hanimța veit-ADONAI.",
+     "tokens": [
+      {
+       "t": "Când au văzut că se strânseseră mulți bani în cufăr, scribul regal și Marele Preot au venit și au pus în saci și au numărat banii care s-au găsit în Casa DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי כִּרְאוֹתָם כִּי־רַב הַכֶּסֶף בָּאָרוֹן וַיַּעַל סֹפֵר הַמֶּלֶךְ וְהַכֹּהֵן הַגָּדוֹל וַיָּצֻרוּ וַיִּמְנוּ אֶת־הַכֶּסֶף הַנִּמְצָא בֵית־יְהוָה׃",
+       "translation": "Când au văzut că se strânseseră mulți bani în cufăr, scribul regal și Marele Preot au venit și au pus în saci și au numărat banii care s-au găsit în Casa DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγένετο ὡς εἶδον ὅτι πολὺ τὸ ἀργύριον ἐν τῇ κιβωτῷ, καὶ ἀνέβη ὁ γραμματεὺς τοῦ βασιλέως καὶ ὁ ἱερεὺς ὁ μέγας καὶ ἔσφιγξαν καὶ ἠρίθμησαν τὸ ἀργύριον τὸ εὑρεθὲν ἐν οἴκῳ Κυρίου.",
+       "greek": true,
+       "translation": "Și a fost, când au văzut că mult [era] argintul în cufăr, a venit scribul regelui și preotul cel mare, și au legat și au numărat argintul găsit în Casa Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 24:11,12"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și a fost” — de la o vreme la alta. „Când au văzut că se strânseseră mulți bani în cufăr, a venit scribul regelui...”"
+      }
+     ]
     },
     {
      "v": "12:12",
      "t": "Au dat banii numărați în grija lucrătorilor care fuseseră numiți în Casa DOMNULUI, și ei i-au cheltuit pentru tâmplarii și zidarii care lucrau în Casa DOMNULUI,",
      "heb": "וְנָתְנוּ אֶת־הַכֶּסֶף הַמְתֻכָּן עַל־יְדֵי עֹשֵׂי הַמְּלָאכָה הַפְּקֻדִים בֵּית יְהוָה וַיּוֹצִיאֻהוּ לְחָרָשֵׁי הָעֵץ וְלַבֹּנִים הָעֹשִׂים בֵּית יְהוָה׃",
-     "translit": "Venatnu et-hakesef hametukan al-iedei osei hamelaha hapekudim beit ADONAI vaiotziuhu leharașei haeț velabonim haosim beit ADONAI."
+     "translit": "Venatnu et-hakesef hametukan al-iedei osei hamelaha hapekudim beit ADONAI vaiotziuhu leharașei haeț velabonim haosim beit ADONAI.",
+     "tokens": [
+      {
+       "t": "Au dat banii numărați în grija lucrătorilor care fuseseră numiți în Casa DOMNULUI, și ei i-au cheltuit pentru tâmplarii și zidarii care lucrau în Casa DOMNULUI,"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנָתְנוּ אֶת־הַכֶּסֶף הַמְתֻכָּן עַל־יְדֵי עֹשֵׂי הַמְּלָאכָה הַפְּקֻדִים בֵּית יְהוָה וַיּוֹצִיאֻהוּ לְחָרָשֵׁי הָעֵץ וְלַבֹּנִים הָעֹשִׂים בֵּית יְהוָה׃",
+       "translation": "Au dat banii numărați în grija lucrătorilor care fuseseră numiți în Casa DOMNULUI, și ei i-au cheltuit pentru tâmplarii și zidarii care lucrau în Casa DOMNULUI, — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔδωκαν τὸ ἀργύριον τὸ ἑτοιμασθὲν ἐπὶ χεῖρας ποιούντων τὰ ἔργα τῶν ἐπισκόπων οἴκου Κυρίου, καὶ ἐξέδοσαν τοῖς τέκτοσι τῶν ξύλων καὶ τοῖς οἰκοδόμοις τοῖς ποιοῦσιν ἐν οἴκῳ Κυρίου",
+       "greek": true,
+       "translation": "Și au dat argintul pregătit în mâinile celor care făceau lucrările, supraveghetorii Casei Domnului, și l-au dat tâmplarilor lemnului și zidarilor care lucrau în Casa Domnului,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Împărați 5:17,18"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:13",
      "t": "și pentru pietrari și cioplitori în piatră, ca să cumpere lemn și să taie piatră ca să susțină restaurarea Casei, și pentru tot ce se cheltuia pentru susținerea Casei.",
      "heb": "וְלַגֹּדְרִים וּלְחֹצְבֵי הָאֶבֶן לִקְנוֹת עֵצִים וְאַבְנֵי מַחְצֵב לְחַזֵּק אֶת־בֶּדֶק בֵּית־יְהוָה וּלְכֹל אֲשֶׁר־יֵצֵא עַל־הַבַּיִת לְחָזְקָה׃",
-     "translit": "Velagoderim ulehotzvei haeven liknot ețim veavnei mahtzev lehazek et-bedek beit-ADONAI ulehol așer-ietze al-habait lehozka."
+     "translit": "Velagoderim ulehotzvei haeven liknot ețim veavnei mahtzev lehazek et-bedek beit-ADONAI ulehol așer-ietze al-habait lehozka.",
+     "tokens": [
+      {
+       "t": "și pentru pietrari și cioplitori în piatră, ca să cumpere lemn și să taie piatră ca să susțină restaurarea Casei, și pentru tot ce se cheltuia pentru susținerea Casei."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְלַגֹּדְרִים וּלְחֹצְבֵי הָאֶבֶן לִקְנוֹת עֵצִים וְאַבְנֵי מַחְצֵב לְחַזֵּק אֶת־בֶּדֶק בֵּית־יְהוָה וּלְכֹל אֲשֶׁר־יֵצֵא עַל־הַבַּיִת לְחָזְקָה׃",
+       "translation": "și pentru pietrari și cioplitori în piatră, ca să cumpere lemn și să taie piatră ca să susțină restaurarea Casei, și pentru tot ce se cheltuia pentru susținerea Casei. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τοῖς τειχισταῖς καὶ τοῖς λατόμοις τῶν λίθων τοῦ κτήσασθαι ξύλα καὶ λίθους λατομητοὺς τοῦ κατασχεῖν τὸ βεδὲκ οἴκου Κυρίου εἰς πάντα, ὅσα ἐξωδιάσθη ἐπὶ τὸν οἶκον τοῦ κραταιῶσαι·",
+       "greek": true,
+       "translation": "și zidarilor și pietrarilor pietrelor, ca să procure lemne și pietre cioplite, ca să țină bedek-ul Casei Domnului, pentru tot ce s-a cheltuit pentru întărirea [ei];",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezra 3:7"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:14",
      "t": "Dar ulcioare de argint, instrumente muzicale, ligheane, trâmbițe sau orice vas de aur sau argint nu au fost făcute cu banii care fuseseră aduși în Casa DOMNULUI,",
      "heb": "אַךְ לֹא יֵעָשֶׂה בֵּית יְהוָה סִפּוֹת כֶּסֶף מְזַמְּרוֹת מִזְרָקוֹת חֲצֹצְרוֹת כָּל־כְּלִי זָהָב וּכְלִי־כָסֶף מִן־הַכֶּסֶף הַמּוּבָא בֵית־יְהוָה׃",
-     "translit": "Ah lo iease beit ADONAI sipot kesef mezamerot mizrakot hațotrot kol-keli zahav ukeli-kasef min-hakesef hamuva veit-ADONAI."
+     "translit": "Ah lo iease beit ADONAI sipot kesef mezamerot mizrakot hațotrot kol-keli zahav ukeli-kasef min-hakesef hamuva veit-ADONAI.",
+     "tokens": [
+      {
+       "t": "Dar "
+      },
+      {
+       "t": "ulcioare de argint",
+       "w": "ulcioare de argint",
+       "heb": "סִפּוֹת",
+       "translit": "sipot",
+       "strong": "H5592",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "vase, blide de argint (sipot kesef).",
+       "dict_ro": "Lista vaselor de argint neconfecționate din banii de reparație (ulcioare, instrumente, ligheane, trâmbițe) corespunde inventarului de vase sacre descris la 1 Împărați 7:48-50 pentru Templul lui Solomon — distincția e clară: banii strânși pentru reparația clădirii nu pot fi redirecționați spre obiecte de cult, chiar dacă acestea ar fi, de asemenea, pentru Casa DOMNULUI.",
+       "greek": "θύραι ἀργυραῖ (thyrai argyrai)",
+       "greek_def_ro": "θύραι ἀργυραῖ (thyrai argyrai) — porți de argint — nu „ulcioare/vase de argint”, cum are ebraica.",
+       "diff_ro": "Septuaginta traduce sipot („ulcioare, vase”) prin „porți de argint” (θύραι ἀργυραῖ) și adaugă „cuie” (ἧλοι), absent din lista ebraică — o listă de obiecte diferită de cea a Textului Masoretic."
+      },
+      {
+       "t": ", instrumente muzicale, ligheane, trâmbițe sau orice vas de aur sau argint nu au fost făcute cu banii care fuseseră aduși în Casa DOMNULUI,"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אַךְ לֹא יֵעָשֶׂה בֵּית יְהוָה סִפּוֹת כֶּסֶף מְזַמְּרוֹת מִזְרָקוֹת חֲצֹצְרוֹת כָּל־כְּלִי זָהָב וּכְלִי־כָסֶף מִן־הַכֶּסֶף הַמּוּבָא בֵית־יְהוָה׃",
+       "translation": "Dar ulcioare de argint, instrumente muzicale, ligheane, trâmbițe sau orice vas de aur sau argint nu au fost făcute cu banii care fuseseră aduși în Casa DOMNULUI, — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πλὴν οὐ ποιηθήσονται οἴκῳ Κυρίου θύραι ἀργυραῖ, ἧλοι, φιάλαι καὶ σάλπιγγες, πᾶν σκεῦος χρυσοῦν καὶ σκεῦος ἀργυροῦν, ἐκ τοῦ ἀργυρίου τοῦ εἰσενεχθέντος ἐν οἴκῳ Κυρίου,",
+       "greek": true,
+       "translation": "totuși nu s-au făcut pentru Casa Domnului porți de argint, cuie, blide și trâmbițe, niciun vas de aur și vas de argint, din argintul adus în Casa Domnului,",
+       "note": "Vezi nota de la cuvântul tagat „ulcioare de argint” — lista obiectelor diferă de cea ebraică."
+      }
+     ],
+     "refs": [
+      "1 Împărați 7:48-50",
+      "Numeri 7:13,14"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:15",
      "t": "ci ei au fost dați lucrătorilor și cu ei au susținut Casa DOMNULUI.",
      "heb": "כִּי־לְעֹשֵׂי הַמְּלָאכָה יִתְּנֻהוּ וְחִזְּקוּ־בוֹ אֶת־בֵּית יְהוָה׃",
-     "translit": "Ki-leosei hamelaha itnuhu vehizku-vo et-beit ADONAI."
+     "translit": "Ki-leosei hamelaha itnuhu vehizku-vo et-beit ADONAI.",
+     "tokens": [
+      {
+       "t": "ci ei au fost dați lucrătorilor și cu ei au susținut Casa DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־לְעֹשֵׂי הַמְּלָאכָה יִתְּנֻהוּ וְחִזְּקוּ־בוֹ אֶת־בֵּית יְהוָה׃",
+       "translation": "ci ei au fost dați lucrătorilor și cu ei au susținut Casa DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι τοῖς ποιοῦσι τὰ ἔργα δώσουσιν αὐτό, καὶ ἐκραταίωσαν ἐν αὐτῷ τὸν οἶκον Κυρίου.",
+       "greek": true,
+       "translation": "căci celor care făceau lucrările li s-a dat, și cu el au întărit Casa Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 34:12"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:16",
      "t": "Și nu se cerea socoteală oamenilor cărora le dăduseră în grijă banii ca să îi cheltuie pe lucrători, căci ei se comportau cu credință.",
      "heb": "וְלֹא יְחַשְּׁבוּ אֶת־הָאֲנָשִׁים אֲשֶׁר יִתְּנוּ אֶת־הַכֶּסֶף עַל־יָדָם לָתֵת לְעֹשֵׂי הַמְּלָאכָה כִּי בֶאֱמֻנָה הֵם עֹשִׂים׃",
-     "translit": "Velo iehașvu et-haanașim așer itnu et-hakesef al-iadam latet leosei hamelaha ki veemuna hem osim."
+     "translit": "Velo iehașvu et-haanașim așer itnu et-hakesef al-iadam latet leosei hamelaha ki veemuna hem osim.",
+     "tokens": [
+      {
+       "t": "Și nu se cerea socoteală oamenilor cărora le dăduseră în grijă banii ca să îi cheltuie pe lucrători, căci ei se comportau cu credință."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְלֹא יְחַשְּׁבוּ אֶת־הָאֲנָשִׁים אֲשֶׁר יִתְּנוּ אֶת־הַכֶּסֶף עַל־יָדָם לָתֵת לְעֹשֵׂי הַמְּלָאכָה כִּי בֶאֱמֻנָה הֵם עֹשִׂים׃",
+       "translation": "Și nu se cerea socoteală oamenilor cărora le dăduseră în grijă banii ca să îi cheltuie pe lucrători, căci ei se comportau cu credință. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ οὐκ ἐξελογίζοντο τοὺς ἄνδρας, οἷς ἐδίδουν τὸ ἀργύριον ἐπὶ χεῖρας αὐτῶν δοῦναι τοῖς ποιοῦσι τὰ ἔργα, ὅτι ἐν πίστει αὐτῶν ποιοῦσιν.",
+       "greek": true,
+       "translation": "Și nu li se cerea socoteală oamenilor cărora li se dădea argintul în mâinile lor, să-l dea celor care făceau lucrările, căci lucrau cu credincioșie.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Împărați 22:7",
+      "Numeri 18:8,9"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:17",
      "t": "Banii [rămași] pentru oferandele de vină și banii [rămași] pentru ofrandele de păcat nu au fost aduși în Casa DOMNULUI, ci au fost lăsați pentru preoți.",
      "heb": "כֶּסֶף אָשָׁם וְכֶסֶף חַטָּאוֹת לֹא יוּבָא בֵּית יְהוָה לַכֹּהֲנִים יִהְיוּ׃",
-     "translit": "Kesef așam vekesef hataot lo iuva beit ADONAI lakohanim ihiu."
+     "translit": "Kesef așam vekesef hataot lo iuva beit ADONAI lakohanim ihiu.",
+     "tokens": [
+      {
+       "t": "Banii [rămași] pentru oferandele de vină și banii [rămași] pentru ofrandele de păcat nu au fost aduși în Casa DOMNULUI, ci au fost lăsați pentru preoți."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֶּסֶף אָשָׁם וְכֶסֶף חַטָּאוֹת לֹא יוּבָא בֵּית יְהוָה לַכֹּהֲנִים יִהְיוּ׃",
+       "translation": "Banii [rămași] pentru oferandele de vină și banii [rămași] pentru ofrandele de păcat nu au fost aduși în Casa DOMNULUI, ci au fost lăsați pentru preoți. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀργύριον περὶ ἁμαρτίας καὶ ἀργύριον περὶ πλημμελείας, ὅ,τι εἰσηνέχθη ἐν οἴκῳ Κυρίου, τοῖς ἱερεῦσιν ἐγένετο.",
+       "greek": true,
+       "translation": "Argintul pentru păcat și argintul pentru greșeală, ce s-a adus în Casa Domnului, al preoților a fost.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Leviticul 5:15-18",
+      "Leviticul 7:7"
+     ],
+     "commentaries": []
     }
    ]
   },

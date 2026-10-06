@@ -1,0 +1,23 @@
+module.exports = {
+"11:17": ["Și a încheiat Iodae legământ între Domnul și între rege și între popor, ca să fie popor Domnului, și între rege și între popor.", "Corespondență strânsă cu Textul Masoretic."],
+"11:18": ["Și a intrat tot poporul țării în casa lui Baal, și l-au dărâmat, și altarele lui și icoanele lui le-au sfărâmat bine, și pe Matan, preotul lui Baal, l-au ucis înaintea altarelor, și preotul a pus supraveghetori la Casa Domnului.", "Corespondență strânsă cu Textul Masoretic."],
+"11:19": ["Și a luat pe sutași și pe Horri și pe Rasim și tot poporul țării, și au dus pe rege din Casa Domnului, și au intrat pe calea porții alergătorilor Casei regelui, și l-au așezat pe tronul regilor.", "Septuaginta transliterează diferit numele unor gărzi/unități (Χορρὶ, Ῥασὶμ), posibil citind alți termeni decât ebraica aici tradusă."],
+"11:20": ["Și s-a bucurat tot poporul țării, și cetatea s-a liniștit; și pe Gotolia au ucis-o cu sabia în casa regelui.", "Septuaginta are „Gotolia” pentru Atalia — variantă grecească a aceluiași nume."],
+"12:1": ["Fiu de șapte ani [era] Ioas când a început să domnească.", "Corespondență strânsă cu Textul Masoretic."],
+"12:2": ["În anul al șaptelea al lui Iu a început să domnească Ioas, și patruzeci de ani a domnit în Ierusalim, și numele mamei lui [era] Abia, din Bersabee.", "Vezi nota de la cuvântul tagat „Țivia” — Septuaginta are „Abia”, nume diferit."],
+"12:3": ["Și a făcut Ioas ce era drept înaintea Domnului în toate zilele în care l-a luminat Iodae preotul.", "Corespondență strânsă cu Textul Masoretic."],
+"12:4": ["Numai înălțimile n-au fost îndepărtate, și acolo încă poporul jertfea și tămâia pe înălțimi.", "Corespondență strânsă cu Textul Masoretic."],
+"12:5": ["Și a spus Ioas către preoți: «Tot argintul sfințit care se aduce în Casa Domnului, argintul prețuirii, bărbatul care dă argint de prețuire, tot argintul pe care-l pune pe inima lui un om să-l aducă în Casa Domnului,", "Corespondență strânsă cu Textul Masoretic."],
+"12:6": ["să-l ia pentru ei preoții, fiecare de la [partea] lui de vânzare, și ei să țină bedek-ul Casei, pentru tot ce se va găsi acolo [ca] bedek.»", "Vezi nota de la cuvântul tagat „restaurarea” — Septuaginta transliterează netradus bedek, de șase ori în tot capitolul."],
+"12:7": ["Și a fost, în anul al douăzeci și treilea al regelui Ioas, [că] preoții n-au întărit bedek-ul Casei.", "Corespondență strânsă cu Textul Masoretic."],
+"12:8": ["Și a chemat Ioas regele pe Iodae preotul și pe preoți și le-a spus: «De ce nu întăriți bedek-ul Casei? Și acum, să nu mai luați argint de la [partea] voastră de vânzare, căci pentru bedek-ul Casei îl veți da.»", "Corespondență strânsă cu Textul Masoretic."],
+"12:9": ["Și s-au învoit preoții să nu mai ia argint de la popor și să nu mai întărească bedek-ul Casei.", "Corespondență strânsă cu Textul Masoretic."],
+"12:10": ["Și a luat Iodae preotul un cufăr și a găurit o gaură în capacul lui și l-a pus lângă [stâlpul] amazebi, în casa unui om al Casei Domnului, și preoții care păzeau cântarul au pus [în el] tot argintul găsit în Casa Domnului.", "Septuaginta are un termen obscur, transliterat „amazebi”, fără corespondent clar în ebraica tradusă aici — posibil un alt nume de reper arhitectural."],
+"12:11": ["Și a fost, când au văzut că mult [era] argintul în cufăr, a venit scribul regelui și preotul cel mare, și au legat și au numărat argintul găsit în Casa Domnului.", "Corespondență strânsă cu Textul Masoretic."],
+"12:12": ["Și au dat argintul pregătit în mâinile celor care făceau lucrările, supraveghetorii Casei Domnului, și l-au dat tâmplarilor lemnului și zidarilor care lucrau în Casa Domnului,", "Corespondență strânsă cu Textul Masoretic."],
+"12:13": ["și zidarilor și pietrarilor pietrelor, ca să procure lemne și pietre cioplite, ca să țină bedek-ul Casei Domnului, pentru tot ce s-a cheltuit pentru întărirea [ei];", "Corespondență strânsă cu Textul Masoretic."],
+"12:14": ["totuși nu s-au făcut pentru Casa Domnului porți de argint, cuie, blide și trâmbițe, niciun vas de aur și vas de argint, din argintul adus în Casa Domnului,", "Vezi nota de la cuvântul tagat „ulcioare de argint” — lista obiectelor diferă de cea ebraică."],
+"12:15": ["căci celor care făceau lucrările li s-a dat, și cu el au întărit Casa Domnului.", "Corespondență strânsă cu Textul Masoretic."],
+"12:16": ["Și nu li se cerea socoteală oamenilor cărora li se dădea argintul în mâinile lor, să-l dea celor care făceau lucrările, căci lucrau cu credincioșie.", "Corespondență strânsă cu Textul Masoretic."],
+"12:17": ["Argintul pentru păcat și argintul pentru greșeală, ce s-a adus în Casa Domnului, al preoților a fost.", "Corespondență strânsă cu Textul Masoretic."]
+};
