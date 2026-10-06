@@ -9671,85 +9671,490 @@
      "v": "37:1",
      "t": "Mâna DOMNULUI a fost asupra mea și m-a scos, prin duhul DOMNULUI, și m-a lăsat jos în mijlocul văii, care era plină de oase.",
      "heb": "הָיְתָה עָלַי יַד־יְהוָה וַיּוֹצִאֵנִי בְרוּחַ יְהוָה וַיְנִיחֵנִי בְּתוֹךְ הַבִּקְעָה וְהִיא מְלֵאָה עֲצָמוֹת׃",
-     "translit": "Haita alai iad-ADONAI vaioțieni veruah ADONAI vainiheni betoh habika vehi meleá atzmot."
+     "translit": "Haita alai iad-ADONAI vaioțieni veruah ADONAI vainiheni betoh habika vehi meleá atzmot.",
+     "tokens": [
+      {
+       "t": "Mâna DOMNULUI",
+       "w": "Mâna DOMNULUI",
+       "heb": "יַד יְהוָה",
+       "translit": "iad Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "mâna DOMNULUI (iad Adonai).",
+       "dict_ro": "Rashi explică: expresia „mâna DOMNULUI”, de câte ori apare în context profetic, denotă o constrângere — duhul îl împinge pe profet să meargă, ca într-o răpire extatică, spre locul pe care duhul îl vrea. Tradiția (citată de Rashi din Sanhedrin 92b) identifică oasele din vale cu bărbații din tribul lui Efraim, care au ieșit din Egipt înainte de vremea hotărâtă pentru eliberare și au fost uciși de locuitorii din Gat."
+      },
+      {
+       "t": " a fost asupra mea și m-a scos, prin duhul DOMNULUI, și m-a lăsat jos în mijlocul văii, care era plină de oase."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הָיְתָה עָלַי יַד־יְהוָה וַיּוֹצִאֵנִי בְרוּחַ יְהוָה וַיְנִיחֵנִי בְּתוֹךְ הַבִּקְעָה וְהִיא מְלֵאָה עֲצָמוֹת׃",
+       "translation": "Mâna DOMNULUI a fost asupra mea și m-a scos, prin duhul DOMNULUI, și m-a lăsat jos în mijlocul văii, care era plină de oase. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐγένετο ἐπ’ ἐμὲ χεὶρ Κυρίου, καὶ ἐξήγαγέ με ἐν πνεύματι Κύριος καὶ ἔθηκέ με ἐν μέσῳ τοῦ πεδίου, καὶ τοῦτο ἦν μεστὸν ὀστέων ἀνθρωπίνων·",
+       "greek": true,
+       "translation": "Și a fost asupra mea mâna Domnului, și m-a dus în duh Domnul, și m-a pus în mijlocul câmpiei, și aceasta era plină de oase omenești.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:3",
+      "Ezechiel 8:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Mâna DOMNULUI” — orice „mână a DOMNULUI” din contextul profeției e o expresie de constrângere, căci duhul îl constrângea [pe profet] să meargă, ca un smintit, spre locul unde duhul voia. „Și era plină de oase” — înțelepții noștri au spus că erau din tribul lui Efraim, care au ieșit din Egipt înainte de vremea hotărâtă, și i-au ucis oamenii din Gat, cum se spune în Cronici (vezi Sanhedrin 92b)."
+      }
+     ]
     },
     {
      "v": "37:2",
      "t": "Și m-a făcut să trec pe lângă ele, de jur împrejur, și iată, erau foarte multe pe suprafața văii și iată, erau foarte uscate.",
      "heb": "וְהֶעֱבִירַנִי עֲלֵיהֶם סָבִיב סָבִיב וְהִנֵּה רַבּוֹת מְאֹד עַל־פְּנֵי הַבִּקְעָה וְהִנֵּה יְבֵשׁוֹת מְאֹד׃",
-     "translit": "Vehevirani aleihem saviv saviv vehine rabot meod al-penei habika vehine ieveșot meod."
+     "translit": "Vehevirani aleihem saviv saviv vehine rabot meod al-penei habika vehine ieveșot meod.",
+     "tokens": [
+      {
+       "t": "Și m-a făcut să trec pe lângă ele, de jur împrejur, și iată, erau foarte multe pe suprafața văii și iată, erau foarte uscate."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהֶעֱבִירַנִי עֲלֵיהֶם סָבִיב סָבִיב וְהִנֵּה רַבּוֹת מְאֹד עַל־פְּנֵי הַבִּקְעָה וְהִנֵּה יְבֵשׁוֹת מְאֹד׃",
+       "translation": "Și m-a făcut să trec pe lângă ele, de jur împrejur, și iată, erau foarte multe pe suprafața văii și iată, erau foarte uscate. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ περιήγαγέ με ἐπ’ αὐτὰ κυκλόθεν κύκλῳ, καὶ ἰδοὺ πολλὰ σφόδρα ἐπὶ προσώπου τοῦ πεδίου, ξηρὰ σφόδρα.",
+       "greek": true,
+       "translation": "Și m-a purtat pe lângă ele, de peste tot, de jur împrejur, și, iată, [erau] foarte multe pe fața câmpiei, foarte uscate.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 11:30"
+     ],
+     "commentaries": []
     },
     {
      "v": "37:3",
      "t": "Apoi mi-a spus: „Fiu al omului, oare pot să trăiască aceste oase?” Iar eu am spus: „Stăpâne, Doamne DUMNEZEULE, Tu știi.”",
      "heb": "וַיֹּאמֶר אֵלַי בֶּן־אָדָם הֲתִחְיֶינָה הָעֲצָמוֹת הָאֵלֶּה וָאֹמַר אֲדֹנָי יְהוִה אַתָּה יָדָעְתָּ׃",
-     "translit": "Vaiomer elai ben-adam hatihiena haatzamot haele vaomar Adonai ELOHIM ata iadata."
+     "translit": "Vaiomer elai ben-adam hatihiena haatzamot haele vaomar Adonai ELOHIM ata iadata.",
+     "tokens": [
+      {
+       "t": "Apoi mi-a spus: „Fiu al omului, oare pot să trăiască aceste oase?” Iar eu am spus: „Stăpâne, Doamne DUMNEZEULE, Tu știi.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֵלַי בֶּן־אָדָם הֲתִחְיֶינָה הָעֲצָמוֹת הָאֵלֶּה וָאֹמַר אֲדֹנָי יְהוִה אַתָּה יָדָעְתָּ׃",
+       "translation": "Apoi mi-a spus: „Fiu al omului, oare pot să trăiască aceste oase?” Iar eu am spus: „Stăpâne, Doamne DUMNEZEULE, Tu știi.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε πρός με· υἱὲ ἀνθρώπου, εἰ ζήσεται τὰ ὀστέα ταῦτα; καὶ εἶπα· Κύριε Κύριε, σὺ ἐπίστῃ ταῦτα.",
+       "greek": true,
+       "translation": "Și a spus către mine: «Fiu al omului, oare vor trăi oasele acestea?» Și am spus: «Doamne, Doamne, Tu știi acestea.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Samuel 2:6"
+     ],
+     "commentaries": []
     },
     {
      "v": "37:4",
      "t": "[DOMNUL] mi-a spus: „Profețește asupra acestor oase și spune-le: «O, oase uscate, ascultați cuvântul DOMNULUI!",
      "heb": "וַיֹּאמֶר אֵלַי הִנָּבֵא עַל־הָעֲצָמוֹת הָאֵלֶּה וְאָמַרְתָּ אֲלֵיהֶם הָעֲצָמוֹת הַיְבֵשׁוֹת שִׁמְעוּ דְּבַר־יְהוָה׃",
-     "translit": "Vaiomer elai hinave al-haatzamot haele veamarta aleihem haatzamot haieveșot șimu devar-ADONAI."
+     "translit": "Vaiomer elai hinave al-haatzamot haele veamarta aleihem haatzamot haieveșot șimu devar-ADONAI.",
+     "tokens": [
+      {
+       "t": "[DOMNUL] mi-a spus: „Profețește asupra acestor oase și spune-le: «O, oase uscate, ascultați cuvântul DOMNULUI!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֵלַי הִנָּבֵא עַל־הָעֲצָמוֹת הָאֵלֶּה וְאָמַרְתָּ אֲלֵיהֶם הָעֲצָמוֹת הַיְבֵשׁוֹת שִׁמְעוּ דְּבַר־יְהוָה׃",
+       "translation": "[DOMNUL] mi-a spus: „Profețește asupra acestor oase și spune-le: «O, oase uscate, ascultați cuvântul DOMNULUI! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε πρός με· προφήτευσον ἐπὶ τὰ ὀστᾶ ταῦτα καὶ ἐρεῖς αὐτοῖς· τὰ ὀστᾶ τὰ ξηρά, ἀκούσατε λόγον Κυρίου.",
+       "greek": true,
+       "translation": "Și a spus către mine: «Profețește asupra oaselor acestora și le vei spune: Oase uscate, ascultați cuvântul Domnului!",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 26:19",
+      "Ioan 5:25"
+     ],
+     "commentaries": []
     },
     {
      "v": "37:5",
      "t": "Astfel a spus Stăpânul meu, Domnul DUMNEZEU acestor oase: ‘Iată, Eu voi aduce duh în voi și veți trăi.",
      "heb": "כֹּה אָמַר אֲדֹנָי יְהוִה לָעֲצָמוֹת הָאֵלֶּה הִנֵּה אֲנִי מֵבִיא בָכֶם רוּחַ וִחְיִיתֶם׃",
-     "translit": "Ko amar Adonai ELOHIM laatzamot haele hine ani mevi vahem ruah vihiitem."
+     "translit": "Ko amar Adonai ELOHIM laatzamot haele hine ani mevi vahem ruah vihiitem.",
+     "tokens": [
+      {
+       "t": "Astfel a spus Stăpânul meu, Domnul DUMNEZEU acestor oase: ‘Iată, Eu voi aduce duh în voi și veți trăi."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה אָמַר אֲדֹנָי יְהוִה לָעֲצָמוֹת הָאֵלֶּה הִנֵּה אֲנִי מֵבִיא בָכֶם רוּחַ וִחְיִיתֶם׃",
+       "translation": "Astfel a spus Stăpânul meu, Domnul DUMNEZEU acestor oase: ‘Iată, Eu voi aduce duh în voi și veți trăi. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τάδε λέγει Κύριος τοῖς ὀστέοις τούτοις· ἰδοὺ ἐγὼ φέρω ἐφ’ ὑμᾶς πνεῦμα ζωῆς",
+       "greek": true,
+       "translation": "Așa spune Domnul oaselor acestora: Iată, Eu aduc asupra voastră duh de viață,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 2:7",
+      "Psalmul 104:29,30"
+     ],
+     "commentaries": []
     },
     {
      "v": "37:6",
      "t": "Voi pune tendoane pe voi și voi aduce carne pe voi și vă voi acoperi cu piele. Apoi voi pune duh în voi și veți trăi; și veți ști că Eu sunt DOMNUL.’»”",
      "heb": "וְנָתַתִּי עֲלֵיכֶם גִּידִים וְהַעֲלֵתִי עֲלֵיכֶם בָּשָׂר וְקָרַמְתִּי עֲלֵיכֶם עוֹר וְנָתַתִּי בָכֶם רוּחַ וִחְיִיתֶם וִידַעְתֶּם כִּי־אֲנִי יְהוָה׃",
-     "translit": "Venatati aleihem ghidim vehaaleti aleihem basar vekaramti aleihem or venatati vahem ruah vihiitem vidatem ki-ani ADONAI."
+     "translit": "Venatati aleihem ghidim vehaaleti aleihem basar vekaramti aleihem or venatati vahem ruah vihiitem vidatem ki-ani ADONAI.",
+     "tokens": [
+      {
+       "t": "Voi pune tendoane pe voi și voi aduce carne pe voi și vă voi acoperi cu piele. Apoi voi pune duh în voi și veți trăi; și veți ști că Eu sunt DOMNUL.’»”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנָתַתִּי עֲלֵיכֶם גִּידִים וְהַעֲלֵתִי עֲלֵיכֶם בָּשָׂר וְקָרַמְתִּי עֲלֵיכֶם עוֹר וְנָתַתִּי בָכֶם רוּחַ וִחְיִיתֶם וִידַעְתֶּם כִּי־אֲנִי יְהוָה׃",
+       "translation": "Voi pune tendoane pe voi și voi aduce carne pe voi și vă voi acoperi cu piele. Apoi voi pune duh în voi și veți trăi; și veți ști că Eu sunt DOMNUL.’»” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ δώσω ἐφ’ ὑμᾶς νεῦρα καὶ ἀνάξω ἐφ’ ὑμᾶς σάρκας, καὶ ἐκτενῶ ἐφ’ ὑμᾶς δέρμα καὶ δώσω πνεῦμά μου εἰς ὑμᾶς, καὶ ζήσεσθε· καὶ γνώσεσθε ὅτι ἐγώ εἰμι Κύριος.",
+       "greek": true,
+       "translation": "și voi da asupra voastră vine și voi ridica asupra voastră cărnuri, și voi întinde asupra voastră piele, și voi da duhul Meu în voi, și veți trăi, și veți cunoaște că Eu sunt Domnul.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 36:27"
+     ],
+     "commentaries": []
     },
     {
      "v": "37:7",
      "t": "Iar eu am profețit precum mi se poruncise și a fost un sunet când profețeam și iată, un huruit, și oasele s-au apropiat unele de celelalte.",
      "heb": "וְנִבֵּאתִי כַּאֲשֶׁר צֻוֵּיתִי וַיְהִי־קוֹל כְּהִנָּבְאִי וְהִנֵּה־רַעַשׁ וַתִּקְרְבוּ עֲצָמוֹת עֶצֶם אֶל־עַצְמוֹ׃",
-     "translit": "Venibeti kaașer țuveiti vaihi-kol kehinavei vehine-raaș vatikrevu atzmot etzem el-atzmo."
+     "translit": "Venibeti kaașer țuveiti vaihi-kol kehinavei vehine-raaș vatikrevu atzmot etzem el-atzmo.",
+     "tokens": [
+      {
+       "t": "Iar eu am profețit precum mi se poruncise și a fost un sunet când profețeam și iată, un "
+      },
+      {
+       "t": "huruit",
+       "w": "huruit",
+       "heb": "רַעַשׁ",
+       "translit": "raaș",
+       "strong": "H7494",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "vuiet, cutremur (raaș).",
+       "dict_ro": "Raaș — același cuvânt folosit pentru „cutremur” la teofania de pe Horeb (1 Împărați 19:11-12) — sugerează că reunirea oaselor are o calitate cosmică, nu doar biologică, un eveniment la fel de solemn ca o manifestare divină directă."
+      },
+      {
+       "t": ", și oasele s-au apropiat unele de celelalte."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנִבֵּאתִי כַּאֲשֶׁר צֻוֵּיתִי וַיְהִי־קוֹל כְּהִנָּבְאִי וְהִנֵּה־רַעַשׁ וַתִּקְרְבוּ עֲצָמוֹת עֶצֶם אֶל־עַצְמוֹ׃",
+       "translation": "Iar eu am profețit precum mi se poruncise și a fost un sunet când profețeam și iată, un huruit, și oasele s-au apropiat unele de celelalte. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπροφήτευσα καθὼς ἐνετείλατό μοι. καὶ ἐγένετο ἐν τῷ ἐμὲ προφητεῦσαι καὶ ἰδοὺ σεισμός, καὶ προσήγαγε τὰ ὀστᾶ ἑκάτερον πρὸς τὴν ἁρμονίαν αὐτοῦ.",
+       "greek": true,
+       "translation": "Și am profețit cum mi s-a poruncit. Și a fost, pe când profețeam eu, și, iată, cutremur, și s-au apropiat oasele, fiecare spre încheietura lui.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "1 Împărați 19:11-13"
+     ],
+     "commentaries": []
     },
     {
      "v": "37:8",
      "t": "Apoi m-am uitat și iată, tendoane erau peste ele și carne apăruse și fuseseră acoperite de piele, dar duh nu era în ele.",
      "heb": "וְרָאִיתִי וְהִנֵּה־עֲלֵיהֶם גִּידִים וּבָשָׂר עָלָה וַיִּקְרַם עֲלֵיהֶם עוֹר מִלְמָעְלָה וְרוּחַ אֵין בָּהֶם׃",
-     "translit": "Veraiti vehine-aleihem ghidim uvasar ala vaikram aleihem or milmaala veruah ein bahem."
+     "translit": "Veraiti vehine-aleihem ghidim uvasar ala vaikram aleihem or milmaala veruah ein bahem.",
+     "tokens": [
+      {
+       "t": "Apoi m-am uitat și iată, tendoane erau peste ele și carne apăruse și fuseseră acoperite de piele, dar duh nu era în ele."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְרָאִיתִי וְהִנֵּה־עֲלֵיהֶם גִּידִים וּבָשָׂר עָלָה וַיִּקְרַם עֲלֵיהֶם עוֹר מִלְמָעְלָה וְרוּחַ אֵין בָּהֶם׃",
+       "translation": "Apoi m-am uitat și iată, tendoane erau peste ele și carne apăruse și fuseseră acoperite de piele, dar duh nu era în ele. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶδον καὶ ἰδοὺ ἐπ’ αὐτὰ νεῦρα καὶ σάρκες ἐφύοντο, καὶ ἀνέβαινεν ἐπ’ αὐτὰ δέρμα ἐπάνω, καὶ πνεῦμα οὐκ ἦν ἐπ’ αὐτοῖς.",
+       "greek": true,
+       "translation": "Și am văzut, și, iată, pe ele vine și cărnuri creșteau, și se ridica pe ele piele pe deasupra, dar duh nu era în ele.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "37:9",
      "t": "Apoi El mi-a spus: „Profețește duhului, profețește, fiu al omului, și spune duhului: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Din cele patru vânturi vino, duhule, și suflă în acești uciși și ei vor trăi!’»”.",
      "heb": "וַיֹּאמֶר אֵלַי הִנָּבֵא אֶל־הָרוּחַ הִנָּבֵא בֶן־אָדָם וְאָמַרְתָּ אֶל־הָרוּחַ כֹּה־אָמַר אֲדֹנָי יְהוִה מֵאַרְבַּע רוּחוֹת בֹּאִי הָרוּחַ וּפְחִי בַּהֲרוּגִים הָאֵלֶּה וְיִחְיוּ׃",
-     "translit": "Vaiomer elai hinave el-haruah hinave ven-adam veamarta el-haruah ko-amar Adonai ELOHIM mearba ruhot boi haruah ufehi baharugim haele veihiu."
+     "translit": "Vaiomer elai hinave el-haruah hinave ven-adam veamarta el-haruah ko-amar Adonai ELOHIM mearba ruhot boi haruah ufehi baharugim haele veihiu.",
+     "tokens": [
+      {
+       "t": "Apoi El mi-a spus: „Profețește duhului, profețește, fiu al omului, și spune duhului: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Din cele patru vânturi vino, duhule, și suflă în acești uciși și ei vor trăi!’»”."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֵלַי הִנָּבֵא אֶל־הָרוּחַ הִנָּבֵא בֶן־אָדָם וְאָמַרְתָּ אֶל־הָרוּחַ כֹּה־אָמַר אֲדֹנָי יְהוִה מֵאַרְבַּע רוּחוֹת בֹּאִי הָרוּחַ וּפְחִי בַּהֲרוּגִים הָאֵלֶּה וְיִחְיוּ׃",
+       "translation": "Apoi El mi-a spus: „Profețește duhului, profețește, fiu al omului, și spune duhului: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Din cele patru vânturi vino, duhule, și suflă în acești uciși și ei vor trăi!’»”. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε πρός με· προφήτευσον ἐπὶ τὸ πνεῦμα, προφήτευσον, υἱὲ ἀνθρώπου, καὶ εἰπὸν τῷ πνεύματι· τάδε λέγει Κύριος· ἐκ τῶν τεσσάρων πνευμάτων ἐλθὲ καὶ ἐμφύσησον εἰς τοὺς νεκροὺς τούτους, καὶ ζησάτωσαν.",
+       "greek": true,
+       "translation": "Și a spus către mine: «Profețește duhului, profețește, fiu al omului, și spune duhului: Așa spune Domnul: din cele patru duhuri vino și suflă în acești morți, și să trăiască!»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 37:5",
+      "Cântarea cântărilor 4:16"
+     ],
+     "commentaries": []
     },
     {
      "v": "37:10",
      "t": "Și am profețit precum mi se poruncise. Duhul a intrat în ele și ele au trăit și au stat pe picioarele lor – o mulțime foarte, foarte mare.",
      "heb": "וְהִנַּבֵּאתִי כַּאֲשֶׁר צִוָּנִי וַתָּבוֹא בָהֶם הָרוּחַ וַיִּחְיוּ וַיַּעַמְדוּ עַל־רַגְלֵיהֶם חַיִל גָּדוֹל מְאֹד־מְאֹד׃",
-     "translit": "Vehinabeti kaașer tzivani vatavo vahem haruah vaihiu vaiaamdu al-ragleihem hail gadol meod-meod."
+     "translit": "Vehinabeti kaașer tzivani vatavo vahem haruah vaihiu vaiaamdu al-ragleihem hail gadol meod-meod.",
+     "tokens": [
+      {
+       "t": "Și am profețit precum mi se poruncise. Duhul a intrat în ele și ele au trăit și au stat pe picioarele lor – o mulțime foarte, foarte mare."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהִנַּבֵּאתִי כַּאֲשֶׁר צִוָּנִי וַתָּבוֹא בָהֶם הָרוּחַ וַיִּחְיוּ וַיַּעַמְדוּ עַל־רַגְלֵיהֶם חַיִל גָּדוֹל מְאֹד־מְאֹד׃",
+       "translation": "Și am profețit precum mi se poruncise. Duhul a intrat în ele și ele au trăit și au stat pe picioarele lor – o mulțime foarte, foarte mare. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπροφήτευσα καθότι ἐνετείλατό μοι· καὶ εἰσῆλθεν εἰς αὐτοὺς τὸ πνεῦμα, καὶ ἔζησαν καὶ ἔστησαν ἐπὶ τῶν ποδῶν αὐτῶν, συναγωγὴ πολλὴ σφόδρα.",
+       "greek": true,
+       "translation": "Și am profețit cum mi s-a poruncit; și a intrat în ele duhul, și au trăit și au stat pe picioarele lor, adunare foarte mare.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 104:30"
+     ],
+     "commentaries": []
     },
     {
      "v": "37:11",
      "t": "Apoi El mi-a spus: „Fiu al omului, aceste oase – ele sunt toată casa lui Israel. Iată, ei spun: «Oasele ni s-au uscat și speranța noastră s-a stins! Suntem pierduți!»",
      "heb": "וַיֹּאמֶר אֵלַי בֶּן־אָדָם הָעֲצָמוֹת הָאֵלֶּה כָּל־בֵּית יִשְׂרָאֵל הֵמָּה הִנֵּה אֹמְרִים יָבְשׁוּ עַצְמוֹתֵינוּ וְאָבְדָה תִקְוָתֵנוּ נִגְזַרְנוּ לָנוּ׃",
-     "translit": "Vaiomer elai ben-adam haatzamot haele kol-beit Israel hema hine omrim iavșu atzmoteinu veavda tikvatenu nigzarnu lanu."
+     "translit": "Vaiomer elai ben-adam haatzamot haele kol-beit Israel hema hine omrim iavșu atzmoteinu veavda tikvatenu nigzarnu lanu.",
+     "tokens": [
+      {
+       "t": "Apoi El mi-a spus: „Fiu al omului, aceste oase – ele sunt toată casa lui Israel. Iată, ei spun: «Oasele ni s-au uscat și speranța noastră s-a stins! "
+      },
+      {
+       "t": "Suntem pierduți",
+       "w": "Suntem pierduți",
+       "heb": "נִגְזַרְנוּ",
+       "translit": "nigzarnu",
+       "strong": "H1504",
+       "pos": "verb, nifal perfect",
+       "def_ro": "ni s-a tăiat [speranța] (nigzarnu).",
+       "dict_ro": "Rashi citează o a doua interpretare (Pirkē de-Rabi Eliezer 33): cei din viziune erau cu adevărat israeliți, și, fiind acum înviați, se tem că nu vor mai învia a doua oară, la învierea generală a morților — de aceea strigă „ni s-a tăiat [nădejdea]”, nu dintr-o deznădejde oarecare, ci din frica specifică de a pierde partea la învierea finală."
+      },
+      {
+       "t": "!»"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֵלַי בֶּן־אָדָם הָעֲצָמוֹת הָאֵלֶּה כָּל־בֵּית יִשְׂרָאֵל הֵמָּה הִנֵּה אֹמְרִים יָבְשׁוּ עַצְמוֹתֵינוּ וְאָבְדָה תִקְוָתֵנוּ נִגְזַרְנוּ לָנוּ׃",
+       "translation": "Apoi El mi-a spus: „Fiu al omului, aceste oase – ele sunt toată casa lui Israel. Iată, ei spun: «Oasele ni s-au uscat și speranța noastră s-a stins! Suntem pierduți!» — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐλάλησε Κύριος πρός με λέγων· υἱὲ ἀνθρώπου, τὰ ὀστᾶ ταῦτα πᾶς οἶκος ᾿Ισραήλ ἐστι, καὶ αὐτοὶ λέγουσι· ξηρὰ γέγονε τὰ ὀστᾶ ἡμῶν, ἀπόλωλεν ἡ ἐλπὶς ἡμῶν, διαπεφωνήκαμεν.",
+       "greek": true,
+       "translation": "Și a grăit Domnul către mine, spunând: «Fiu al omului, oasele acestea toată casa lui Israel este, și ei spun: s-au uscat oasele noastre, s-a pierdut speranța noastră, suntem nimiciți.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 37:16",
+      "Numeri 17:12,13"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Aceste oase sunt toată casa lui Israel” — aluzie și pildă pentru toată casa lui Israel în necazurile lor; căci ei spun: «ni s-au uscat oasele» în necazuri, «s-a pierdut speranța noastră» — și ce mai putem aștepta spre izbăvire? O altă explicație (Pirkē de-Rabi Eliezer 33): toți aceștia erau cu adevărat din Israel, și pentru că i-ai înviat acum, ei spun: «s-a pierdut speranța noastră» — nu vom mai trăi a doua oară, când vor învia [ceilalți] morți."
+      }
+     ]
     },
     {
      "v": "37:12",
      "t": "De aceea, profețește și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Iată, Eu voi deschide mormintele voastre și vă voi ridica din mormintele voastre, poporul Meu, și vă voi aduce pe pământul Israelului.",
      "heb": "לָכֵן הִנָּבֵא וְאָמַרְתָּ אֲלֵיהֶם כֹּה־אָמַר אֲדֹנָי יְהוִה הִנֵּה אֲנִי פֹתֵחַ אֶת־קִבְרוֹתֵיכֶם וְהַעֲלֵיתִי אֶתְכֶם מִקִּבְרוֹתֵיכֶם עַמִּי וְהֵבֵאתִי אֶתְכֶם אֶל־אַדְמַת יִשְׂרָאֵל׃",
-     "translit": "Lahen hinave veamarta aleihem ko-amar Adonai ELOHIM hine ani foteah et-kivroteihem vehaaleti ethem mikivroteihem ami veheveti ethem el-admat Israel."
+     "translit": "Lahen hinave veamarta aleihem ko-amar Adonai ELOHIM hine ani foteah et-kivroteihem vehaaleti ethem mikivroteihem ami veheveti ethem el-admat Israel.",
+     "tokens": [
+      {
+       "t": "De aceea, "
+      },
+      {
+       "t": "profețește",
+       "w": "profețește",
+       "heb": "הִנָּבֵא",
+       "translit": "hinavē",
+       "strong": "H5012",
+       "pos": "verb, nifal imperativ",
+       "def_ro": "profețește (hinavē).",
+       "dict_ro": "Rashi explică scurt acest al doilea îndemn la profeție: „căci sunt pe cale să-i înviez a doua oară” — confirmând explicit, din perspectiva rabinică, că viziunea oaselor din vale prefigurează învierea finală a morților, nu doar restaurarea națională."
+      },
+      {
+       "t": " și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Iată, Eu voi deschide mormintele voastre și vă voi ridica din mormintele voastre, poporul Meu, și vă voi aduce pe pământul Israelului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לָכֵן הִנָּבֵא וְאָמַרְתָּ אֲלֵיהֶם כֹּה־אָמַר אֲדֹנָי יְהוִה הִנֵּה אֲנִי פֹתֵחַ אֶת־קִבְרוֹתֵיכֶם וְהַעֲלֵיתִי אֶתְכֶם מִקִּבְרוֹתֵיכֶם עַמִּי וְהֵבֵאתִי אֶתְכֶם אֶל־אַדְמַת יִשְׂרָאֵל׃",
+       "translation": "De aceea, profețește și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Iată, Eu voi deschide mormintele voastre și vă voi ridica din mormintele voastre, poporul Meu, și vă voi aduce pe pământul Israelului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διὰ τοῦτο προφήτευσον καὶ εἰπὸν πρὸς αὐτούς· τάδε λέγει Κύριος· ἰδοὺ ἐγὼ ἀνοίγω τὰ μνήματα ὑμῶν καὶ ἀνάξω ὑμᾶς ἐκ τῶν μνημάτων ὑμῶν καὶ εἰσάξω ὑμᾶς εἰς τὴν γῆν τοῦ ᾿Ισραήλ,",
+       "greek": true,
+       "translation": "De aceea profețește și spune-le: «Așa spune Domnul: iată, Eu deschid mormintele voastre și vă voi ridica din mormintele voastre și vă voi duce în țara lui Israel,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 26:19",
+      "Osea 13:14"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„De aceea, profețește” — căci sunt pe cale să-i înviez a doua oară."
+      }
+     ]
     },
     {
      "v": "37:13",
      "t": "Și veți ști că Eu sunt DOMNUL, când voi deschide mormintele voastre și când vă voi ridica din mormintele voastre, poporul Meu.",
      "heb": "וִידַעְתֶּם כִּי־אֲנִי יְהוָה בְּפִתְחִי אֶת־קִבְרוֹתֵיכֶם וּבְהַעֲלוֹתִי אֶתְכֶם מִקִּבְרוֹתֵיכֶם עַמִּי׃",
-     "translit": "Vidatem ki-ani ADONAI befitḥi et-kivroteihem uvehaaloti ethem mikivroteihem ami."
+     "translit": "Vidatem ki-ani ADONAI befitḥi et-kivroteihem uvehaaloti ethem mikivroteihem ami.",
+     "tokens": [
+      {
+       "t": "Și veți ști că Eu sunt DOMNUL, când voi deschide mormintele voastre și când vă voi ridica din mormintele voastre, poporul Meu."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וִידַעְתֶּם כִּי־אֲנִי יְהוָה בְּפִתְחִי אֶת־קִבְרוֹתֵיכֶם וּבְהַעֲלוֹתִי אֶתְכֶם מִקִּבְרוֹתֵיכֶם עַמִּי׃",
+       "translation": "Și veți ști că Eu sunt DOMNUL, când voi deschide mormintele voastre și când vă voi ridica din mormintele voastre, poporul Meu. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ γνώσεσθε ὅτι ἐγώ εἰμι Κύριος ἐν τῷ ἀνοῖξαί με τοὺς τάφους ὑμῶν τοῦ ἀναγαγεῖν με ἐκ τῶν τάφων τὸν λαόν μου.",
+       "greek": true,
+       "translation": "și veți cunoaște că Eu sunt Domnul, când voi deschide mormintele voastre, ca să ridic din morminte pe poporul Meu.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 16:62"
+     ],
+     "commentaries": []
     },
     {
      "v": "37:14",
      "t": "Voi pune duhul Meu în voi și veți trăi, și vă voi instala pe pământul vostru, și veți ști că Eu, DOMNUL, am vorbit și am înfăptuit – rostirea DOMNULUI.’»”",
      "heb": "וְנָתַתִּי רוּחִי בָכֶם וִחְיִיתֶם וְהִנַּחְתִּי אֶתְכֶם עַל־אַדְמַתְכֶם וִידַעְתֶּם כִּי־אֲנִי יְהוָה דִּבַּרְתִּי וְעָשִׂיתִי נְאֻם־יְהוָה׃",
-     "translit": "Venatati ruhi vahem vihiitem vehinahti ethem al-admathem vidatem ki-ani ADONAI dibarti veasiti neum-ADONAI."
+     "translit": "Venatati ruhi vahem vihiitem vehinahti ethem al-admathem vidatem ki-ani ADONAI dibarti veasiti neum-ADONAI.",
+     "tokens": [
+      {
+       "t": "Voi pune duhul Meu în voi și veți trăi, și vă voi instala pe pământul vostru, și veți ști că Eu, DOMNUL, am vorbit și am înfăptuit – rostirea DOMNULUI.’»”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנָתַתִּי רוּחִי בָכֶם וִחְיִיתֶם וְהִנַּחְתִּי אֶתְכֶם עַל־אַדְמַתְכֶם וִידַעְתֶּם כִּי־אֲנִי יְהוָה דִּבַּרְתִּי וְעָשִׂיתִי נְאֻם־יְהוָה׃",
+       "translation": "Voi pune duhul Meu în voi și veți trăi, și vă voi instala pe pământul vostru, și veți ști că Eu, DOMNUL, am vorbit și am înfăptuit – rostirea DOMNULUI.’»” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ δώσω πνεῦμά μου εἰς ὑμᾶς, καὶ ζήσεσθε, καὶ θήσομαι ὑμᾶς ἐπὶ τὴν γῆν ὑμῶν, καὶ γνώσεσθε ὅτι ἐγὼ Κύριος· λελάληκα καὶ ποιήσω, λέγει Κύριος.",
+       "greek": true,
+       "translation": "Și voi da duhul Meu în voi, și veți trăi, și vă voi așeza pe țara voastră, și veți cunoaște că Eu sunt Domnul; am grăit și voi face, spune Domnul.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 36:27",
+      "Zaharia 12:10"
+     ],
+     "commentaries": []
     }
    ]
   },
