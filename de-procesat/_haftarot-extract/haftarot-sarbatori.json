@@ -9155,85 +9155,510 @@
      "v": "23:1",
      "t": "Regele a trimis [veste] și toți bătrânii din Iuda și din Ierusalim s-au adunat înaintea lui.",
      "heb": "וַיִּשְׁלַח הַמֶּלֶךְ וַיַּאַסְפוּ אֵלָיו כָּל־זִקְנֵי יְהוּדָה וִירוּשָׁלָ͏ִם׃",
-     "translit": "Vaișlah hameleh vaiaasfu elav kol-ziknei Iehuda v'Irușalaim."
+     "translit": "Vaișlah hameleh vaiaasfu elav kol-ziknei Iehuda v'Irușalaim.",
+     "tokens": [
+      {
+       "t": "Regele a trimis [veste] și toți bătrânii din Iuda și din Ierusalim s-au adunat înaintea lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּשְׁלַח הַמֶּלֶךְ וַיַּאַסְפוּ אֵלָיו כָּל־זִקְנֵי יְהוּדָה וִירוּשָׁלָ͏ִם׃",
+       "translation": "Regele a trimis [veste] și toți bătrânii din Iuda și din Ierusalim s-au adunat înaintea lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἀπέστειλεν ὁ βασιλεὺς καὶ συνήγαγε πρὸς ἑαυτὸν πάντας τοὺς πρεσβυτέρους ᾿Ιούδα καὶ ῾Ιερουσαλήμ.",
+       "greek": true,
+       "translation": "Și a trimis regele și a adunat la sine pe toți bătrânii lui Iuda și ai Ierusalimului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 34:29,30"
+     ],
+     "commentaries": []
     },
     {
      "v": "23:2",
      "t": "Regele a urcat la Casa DOMNULUI și toți bărbații din Iuda și locuitorii Ierusalimului erau cu el, și preoții, și profeții și tot poporul, de la mic la mare. Și a citit în auzul lor toate cuvintele Cărții Legământului care fusese găsită în Casa DOMNULUI.",
      "heb": "וַיַּעַל הַמֶּלֶךְ בֵּית־יְהוָה וְכָל־אִישׁ יְהוּדָה וְכָל־יֹשְׁבֵי יְרוּשָׁלַ͏ִם אִתּוֹ וְהַכֹּהֲנִים וְהַנְּבִיאִים וְכָל־הָעָם לְמִקָּטֹן וְעַד־גָּדוֹל וַיִּקְרָא בְאָזְנֵיהֶם אֶת־כָּל־דִּבְרֵי סֵפֶר הַבְּרִית הַנִּמְצָא בְּבֵית יְהוָה׃",
-     "translit": "Vaiaal hameleh beit-ADONAI vehol-iș Iehuda vehol ioșvei Ierușalaim ito vehakohanim vehaneviim vehol-haam lemikaton vead-gadol vaikra veozneihem et-kol-divrei sefer haberit hanimța beveit ADONAI."
+     "translit": "Vaiaal hameleh beit-ADONAI vehol-iș Iehuda vehol ioșvei Ierușalaim ito vehakohanim vehaneviim vehol-haam lemikaton vead-gadol vaikra veozneihem et-kol-divrei sefer haberit hanimța beveit ADONAI.",
+     "tokens": [
+      {
+       "t": "Regele a urcat la Casa DOMNULUI și toți bărbații din Iuda și locuitorii Ierusalimului erau cu el, și preoții, și profeții și tot poporul, de la mic la mare. Și a citit în auzul lor toate cuvintele Cărții Legământului care fusese găsită în Casa DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַל הַמֶּלֶךְ בֵּית־יְהוָה וְכָל־אִישׁ יְהוּדָה וְכָל־יֹשְׁבֵי יְרוּשָׁלַ͏ִם אִתּוֹ וְהַכֹּהֲנִים וְהַנְּבִיאִים וְכָל־הָעָם לְמִקָּטֹן וְעַד־גָּדוֹל וַיִּקְרָא בְאָזְנֵיהֶם אֶת־כָּל־דִּבְרֵי סֵפֶר הַבְּרִית הַנִּמְצָא בְּבֵית יְהוָה׃",
+       "translation": "Regele a urcat la Casa DOMNULUI și toți bărbații din Iuda și locuitorii Ierusalimului erau cu el, și preoții, și profeții și tot poporul, de la mic la mare. Și a citit în auzul lor toate cuvintele Cărții Legământului care fusese găsită în Casa DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέβη ὁ βασιλεὺς εἰς οἶκον Κυρίου καὶ πᾶς ἀνὴρ ᾿Ιούδα καὶ πάντες οἱ κατοικοῦντες ἐν ῾Ιερουσαλὴμ μετ᾿ αὐτοῦ καὶ οἱ ἱερεῖς καὶ οἱ προφῆται καὶ πᾶς ὁ λαὸς ἀπὸ μικροῦ καὶ ἕως μεγάλου, καὶ ἀνέγνω ἐν ὠσὶν αὐτῶν πάντας τοὺς λόγους τοῦ βιβλίου τῆς διαθήκης τοῦ εὑρεθέντος ἐν οἴκῳ Κυρίου.",
+       "greek": true,
+       "translation": "Și s-a suit regele la Casa Domnului, și tot bărbatul lui Iuda, și toți cei care locuiau în Ierusalim cu el, și preoții și profeții și tot poporul, de la mic până la mare, și a citit în auzul lor toate cuvintele cărții legământului găsite în Casa Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 31:10-13",
+      "2 Împărați 22:8"
+     ],
+     "commentaries": []
     },
     {
      "v": "23:3",
      "t": "Regele a stat în picioare pe o platformă și a pecetluit un legământ înaintea DOMNULUI: să meargă după DOMNUL și să păzească poruncile Sale și mărturiile Sale și decretele Sale cu toată inima și cu tot sufletul, pentru ca să împlinească cuvintele acestui legământ care erau scrise în această carte. Și tot poporul a primit legământul.",
      "heb": "וַיַּעֲמֹד הַמֶּלֶךְ עַל־הָעַמּוּד וַיִּכְרֹת אֶת־הַבְּרִית לִפְנֵי יְהוָה לָלֶכֶת אַחַר יְהוָה וְלִשְׁמֹר מִצְוֺתָיו וְאֶת־עֵדְוֺתָיו וְאֶת־חֻקֹּתָיו בְּכָל־לֵב וּבְכָל־נֶפֶשׁ לְהָקִים אֶת־דִּבְרֵי הַבְּרִית הַזֹּאת הַכְּתֻבִים עַל־הַסֵּפֶר הַזֶּה וַיַּעֲמֹד כָּל־הָעָם בַּבְּרִית׃",
-     "translit": "Vaiaamod hameleh al-haamud vaikhrot et-haberit lifnei ADONAI lalehet ahar ADONAI velișmor mitzvotav veet-edvotav veet-hukotav behol-lev uvehol-nefeș lehakim et-divrei haberit hazot haketuvim al-hasefer haze vaiaamod kol-haam babrit."
+     "translit": "Vaiaamod hameleh al-haamud vaikhrot et-haberit lifnei ADONAI lalehet ahar ADONAI velișmor mitzvotav veet-edvotav veet-hukotav behol-lev uvehol-nefeș lehakim et-divrei haberit hazot haketuvim al-hasefer haze vaiaamod kol-haam babrit.",
+     "tokens": [
+      {
+       "t": "Regele a stat în picioare pe o "
+      },
+      {
+       "t": "platformă",
+       "w": "platformă",
+       "heb": "הָעַמּוּד",
+       "translit": "haamud",
+       "strong": "H5982",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "stâlp, coloană — aici în sensul unei platforme/estrade regale (haamud).",
+       "dict_ro": "Amud — „stâlp, coloană” — folosit aici pentru o platformă specială pe care regele stătea în picioare la ceremonii solemne, atestată și la încoronarea lui Ioaș (2 Împărați 11:14). Legământul public pecetluit aici reînnoiește, la nivel național, exact formula legământului de la Sinai (Exodul 24:7-8)."
+      },
+      {
+       "t": " și a pecetluit un legământ înaintea DOMNULUI: să meargă după DOMNUL și să păzească poruncile Sale și mărturiile Sale și decretele Sale cu toată inima și cu tot sufletul, pentru ca să împlinească cuvintele acestui legământ care erau scrise în această carte. Și tot poporul a primit legământul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעֲמֹד הַמֶּלֶךְ עַל־הָעַמּוּד וַיִּכְרֹת אֶת־הַבְּרִית לִפְנֵי יְהוָה לָלֶכֶת אַחַר יְהוָה וְלִשְׁמֹר מִצְוֺתָיו וְאֶת־עֵדְוֺתָיו וְאֶת־חֻקֹּתָיו בְּכָל־לֵב וּבְכָל־נֶפֶשׁ לְהָקִים אֶת־דִּבְרֵי הַבְּרִית הַזֹּאת הַכְּתֻבִים עַל־הַסֵּפֶר הַזֶּה וַיַּעֲמֹד כָּל־הָעָם בַּבְּרִית׃",
+       "translation": "Regele a stat în picioare pe o platformă și a pecetluit un legământ înaintea DOMNULUI: să meargă după DOMNUL și să păzească poruncile Sale și mărturiile Sale și decretele Sale cu toată inima și cu tot sufletul, pentru ca să împlinească cuvintele acestui legământ care erau scrise în această carte. Și tot poporul a primit legământul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔστη ὁ βασιλεὺς πρὸς τὸν στύλον καὶ διέθετο διαθήκην ἐνώπιον Κυρίου τοῦ πορεύεσθαι ὀπίσω Κυρίου καὶ τοῦ φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ μαρτύρια αὐτοῦ καὶ τὰ δικαιώματα αὐτοῦ ἐν πάσῃ καρδίᾳ καὶ ἐν πάσῃ ψυχῇ τοῦ ἀναστῆσαι τοὺς λόγους τῆς διαθήκης ταύτης, τὰ γεγραμμένα ἐπὶ τὸ βιβλίον τοῦτο· καὶ ἔστη πᾶς ὁ λαὸς ἐν τῇ διαθήκῃ.",
+       "greek": true,
+       "translation": "Și a stat regele lângă stâlp și a încheiat legământ înaintea Domnului, ca să meargă după Domnul și să păzească poruncile Lui și mărturiile Lui și hotărârile Lui cu toată inima și cu tot sufletul, ca să împlinească cuvintele legământului acestuia, scrise în cartea aceasta; și a stat tot poporul în legământ.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 24:7,8",
+      "Deuteronomul 29:10-15"
+     ],
+     "commentaries": []
     },
     {
      "v": "23:4",
      "t": "Apoi regele i-a poruncit Marelui Preot Hilkiahu și preoților de rangul al doilea, și păzitorilor pragului, să scoată din Templul DOMNULUI toate vasele care fuseseră făcute pentru Baal și pentru Așera și pentru toată oștirea cerurilor; și le-au ars în afara Ierusalimului, în câmpiile Kidronului, și le-au dus cenușa la Bet-El.",
      "heb": "וַיְצַו הַמֶּלֶךְ אֶת־חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל וְאֶת־כֹּהֲנֵי הַמִּשְׁנֶה וְאֶת־שֹׁמְרֵי הַסַּף לְהוֹצִיא מֵהֵיכַל יְהוָה אֵת כָּל־הַכֵּלִים הָעֲשׂוּיִם לַבַּעַל וְלָאֲשֵׁרָה וּלְכֹל צְבָא הַשָּׁמָיִם וַיִּשְׂרְפֵם מִחוּץ לִירוּשָׁלַ͏ִם בְּשַׁדְמוֹת קִדְרוֹן וְנָשָׂא אֶת־עֲפָרָם בֵּית־אֵל׃",
-     "translit": "Vaitzav hameleh et-Hilkiahu hakohen hagadol veet-kohanei hamișne veet-șomrei hasaf lehotzi meheikhal ADONAI et kol-hakelim haasuim la'Baal vela'Așera ulehol țeva hașamaim vaişrefem mihuț l'Irușalaim beșadmot Kidron venasa et-afaram Beit-El."
+     "translit": "Vaitzav hameleh et-Hilkiahu hakohen hagadol veet-kohanei hamișne veet-șomrei hasaf lehotzi meheikhal ADONAI et kol-hakelim haasuim la'Baal vela'Așera ulehol țeva hașamaim vaişrefem mihuț l'Irușalaim beșadmot Kidron venasa et-afaram Beit-El.",
+     "tokens": [
+      {
+       "t": "Apoi regele i-a poruncit Marelui Preot Hilkiahu și "
+      },
+      {
+       "t": "preoților de rangul al doilea",
+       "w": "preoților de rangul al doilea",
+       "heb": "כֹּהֲנֵי הַמִּשְׁנֶה",
+       "translit": "kohanē hamișne",
+       "strong": "H4932",
+       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
+       "def_ro": "preoții de rangul al doilea, locțiitori (kohanē hamișne).",
+       "dict_ro": "Rashi explică „preoții de rangul al doilea” ca pe sfetnicii/locțiitorii preoțești, subordonați direct Marelui Preot. „Cenușa dusă la Bet-El” nu era un gest întâmplător: Rashi notează că Ioșiahu a dus-o anume la locul necurat unde Ieroboam ridicase altarul idolatru, ca să-l pângărească definitiv, arzând acolo chiar și oasele preoților înălțimilor."
+      },
+      {
+       "t": ", și păzitorilor pragului, să scoată din Templul DOMNULUI toate vasele care fuseseră făcute pentru Baal și pentru Așera și pentru toată oștirea cerurilor; și le-au ars în afara Ierusalimului, în câmpiile Kidronului, și le-au dus cenușa la Bet-El."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְצַו הַמֶּלֶךְ אֶת־חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל וְאֶת־כֹּהֲנֵי הַמִּשְׁנֶה וְאֶת־שֹׁמְרֵי הַסַּף לְהוֹצִיא מֵהֵיכַל יְהוָה אֵת כָּל־הַכֵּלִים הָעֲשׂוּיִם לַבַּעַל וְלָאֲשֵׁרָה וּלְכֹל צְבָא הַשָּׁמָיִם וַיִּשְׂרְפֵם מִחוּץ לִירוּשָׁלַ͏ִם בְּשַׁדְמוֹת קִדְרוֹן וְנָשָׂא אֶת־עֲפָרָם בֵּית־אֵל׃",
+       "translation": "Apoi regele i-a poruncit Marelui Preot Hilkiahu și preoților de rangul al doilea, și păzitorilor pragului, să scoată din Templul DOMNULUI toate vasele care fuseseră făcute pentru Baal și pentru Așera și pentru toată oștirea cerurilor; și le-au ars în afara Ierusalimului, în câmpiile Kidronului, și le-au dus cenușa la Bet-El. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐνετείλατο ὁ βασιλεὺς τῷ Χελκίᾳ τῷ ἱερεῖ τῷ μεγάλῳ καὶ τοῖς ἱερεῦσι τῆς δευτερώσεως καὶ τοῖς φυλάσσουσιν τὸν σταθμὸν τοῦ ἐξαγαγεῖν ἐκ τοῦ ναοῦ Κυρίου πάντα τὰ σκεύη τὰ πεποιημένα τῷ Βάαλ καὶ τῷ ἄλσει καὶ πάσῃ τῇ δυνάμει τοῦ οὐρανοῦ καὶ κατέκαυσεν αὐτὰ ἔξω ῾Ιερουσαλὴμ ἐν σαδημὼθ Κέδρων καὶ ἔβαλε τὸν χοῦν αὐτῶν εἰς Βαιθήλ.",
+       "greek": true,
+       "translation": "Și a poruncit regele lui Helchia, preotul cel mare, și preoților de rangul al doilea, și celor care păzeau cântarul, să scoată din templul Domnului toate vasele făcute pentru Baal și pentru dumbravă și pentru toată puterea cerului, și le-a ars afară din Ierusalim, în câmpiile Kedronului, și a dus țărâna lor la Betel.",
+       "note": "Septuaginta transliterează netradus „șadmot” (câmpii) ca „sadēmoth”, un termen tehnic local lăsat ca atare, la fel ca alte cazuri similare întâlnite în această arhivă."
+      }
+     ],
+     "refs": [
+      "1 Împărați 16:31",
+      "1 Împărați 18:19"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Preoții de rangul al doilea” — sfetnicii preoțești, locțiitori de rangul al doilea pentru Marii Preoți. „Păzitorii pragului” — amarkalii numiți peste toate nevoile Casei, cu cheile curții în mâna lor. „În câmpiile Kidronului” — ca Targumul: „în câmpia netedă a Kidronului”. „Și le-a dus cenușa la Bet-El” — la locul necurat, unde pângărise deja [Ieroboam] altarul pe care-l făcuse, și a ars pe el chiar și pe preoții înălțimilor."
+      }
+     ]
     },
     {
      "v": "23:5",
      "t": "A îndepărtat preoții pe care regii din Iuda îi numiseră să ardă ofrande pe înălțimi, în orașele din Iuda și în împrejurimile Ierusalimului, și pe cei care aduseseră ofrandă de mirodenii lui Baal, soarelui, lunii, constelațiilor și întregii oștiri a cerurilor.",
      "heb": "וְהִשְׁבִּית אֶת־הַכְּמָרִים אֲשֶׁר נָתְנוּ מַלְכֵי יְהוּדָה וַיְקַטֵּר בַּבָּמוֹת בְּעָרֵי יְהוּדָה וּמְסִבֵּי יְרוּשָׁלָ͏ִם וְאֶת־הַמְקַטְּרִים לַבַּעַל לַשֶּׁמֶשׁ וְלַיָּרֵחַ וְלַמַּזָּלוֹת וּלְכֹל צְבָא הַשָּׁמָיִם׃",
-     "translit": "Vehișbit et-hakemarim așer natnu malhei Iehuda vaikater babamot bearei Iehuda umesibei Ierușalaim veet-hamekaterim la'Baal lașemeș velaiaréah velamazalot ulehol țeva hașamaim."
+     "translit": "Vehișbit et-hakemarim așer natnu malhei Iehuda vaikater babamot bearei Iehuda umesibei Ierușalaim veet-hamekaterim la'Baal lașemeș velaiaréah velamazalot ulehol țeva hașamaim.",
+     "tokens": [
+      {
+       "t": "A îndepărtat",
+       "w": "A îndepărtat",
+       "heb": "וְהִשְׁבִּית",
+       "translit": "vehișbit",
+       "strong": "H7673",
+       "pos": "verb, hifil perfect",
+       "def_ro": "a pune capăt, a îndepărta din slujbă (hișbit).",
+       "dict_ro": "Hișbit — „a face să se odihnească, a pune capăt” — descrie aici încetarea funcției preoților idolatri, nu neapărat uciderea lor. Septuaginta traduce mai dur, „a ars” (κατέκαυσε), o intensificare reală a pedepsei descrise.",
+       "greek": "κατέκαυσε (katekause)",
+       "greek_def_ro": "κατέκαυσε (katekause) — a ars, a mistuit în foc — mai dur decât „a îndepărtat/a pus capăt” din ebraică.",
+       "diff_ro": "Septuaginta are „a ars pe preoți” (κατέκαυσε), unde Textul Masoretic are doar „a îndepărtat/a pus capăt” (hișbit) — o intensificare reală a pedepsei descrise, nu simplă variație de traducere."
+      },
+      {
+       "t": " preoții pe care regii din Iuda îi numiseră să ardă ofrande pe înălțimi, în orașele din Iuda și în împrejurimile Ierusalimului, și pe cei care aduseseră ofrandă de mirodenii lui Baal, soarelui, lunii, constelațiilor și întregii oștiri a cerurilor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהִשְׁבִּית אֶת־הַכְּמָרִים אֲשֶׁר נָתְנוּ מַלְכֵי יְהוּדָה וַיְקַטֵּר בַּבָּמוֹת בְּעָרֵי יְהוּדָה וּמְסִבֵּי יְרוּשָׁלָ͏ִם וְאֶת־הַמְקַטְּרִים לַבַּעַל לַשֶּׁמֶשׁ וְלַיָּרֵחַ וְלַמַּזָּלוֹת וּלְכֹל צְבָא הַשָּׁמָיִם׃",
+       "translation": "A îndepărtat preoții pe care regii din Iuda îi numiseră să ardă ofrande pe înălțimi, în orașele din Iuda și în împrejurimile Ierusalimului, și pe cei care aduseseră ofrandă de mirodenii lui Baal, soarelui, lunii, constelațiilor și întregii oștiri a cerurilor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ κατέκαυσε τοὺς χωμαρίμ, οὓς ἔδωκαν βασιλεῖς ᾿Ιούδα καὶ ἐθυμίων ἐν τοῖς ὑψηλοῖς καὶ ἐν ταῖς πόλεσιν ᾿Ιούδα καὶ τοῖς περικύκλῳ ῾Ιερουσαλήμ, καὶ τοὺς θυμιῶντας τῷ Βάαλ καὶ τῷ ἡλίῳ καὶ τῇ σελήνῃ καὶ τοῖς μαζουρὼθ καὶ πάσῃ τῇ δυνάμει τοῦ οὐρανοῦ.",
+       "greek": true,
+       "translation": "Și a ars pe preoții idolilor, pe care-i puseseră regii lui Iuda și tămâiau pe înălțimi și în cetățile lui Iuda și în împrejurimile Ierusalimului, și pe cei care tămâiau lui Baal și soarelui și lunii și semnelor zodiacului și toată puterea cerului.",
+       "note": "Diferență reală: Septuaginta are „a ars pe preoți” (κατέκαυσε), nu „a îndepărtat” (vehișbit) ca în Textul Masoretic — o intensificare semnificativă a pedepsei descrise."
+      }
+     ],
+     "refs": [
+      "2 Împărați 21:3",
+      "Țefania 1:4,5"
+     ],
+     "commentaries": []
     },
     {
      "v": "23:6",
      "t": "A scos [efigia] Așerei din Casa DOMNULUI, la Valea Kidron în afara Ierusalimului, a ars-o și a măcinat-o în pulbere și i-a aruncat pulberea peste mormântul oamenilor [idolatri] din popor.",
      "heb": "וַיֹּצֵא אֶת־הָאֲשֵׁרָה מִבֵּית יְהוָה מִחוּץ לִירוּשָׁלַ͏ִם אֶל־נַחַל קִדְרוֹן וַיִּשְׂרֹף אֹתָהּ בְּנַחַל קִדְרוֹן וַיָּדֶק לְעָפָר וַיַּשְׁלֵךְ אֶת־עֲפָרָהּ עַל־קֶבֶר בְּנֵי הָעָם׃",
-     "translit": "Vaioțe et-ha'Așera mibeit ADONAI mihuț l'Irușalaim el-nahal Kidron vaișrof ota benahal Kidron vaiadek leafar vaiasleh et-afara al-kever benei haam."
+     "translit": "Vaioțe et-ha'Așera mibeit ADONAI mihuț l'Irușalaim el-nahal Kidron vaișrof ota benahal Kidron vaiadek leafar vaiasleh et-afara al-kever benei haam.",
+     "tokens": [
+      {
+       "t": "A scos [efigia] Așerei din Casa DOMNULUI, la Valea Kidron în afara Ierusalimului, a ars-o și a măcinat-o în pulbere și i-a aruncat pulberea peste mormântul oamenilor [idolatri] din popor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּצֵא אֶת־הָאֲשֵׁרָה מִבֵּית יְהוָה מִחוּץ לִירוּשָׁלַ͏ִם אֶל־נַחַל קִדְרוֹן וַיִּשְׂרֹף אֹתָהּ בְּנַחַל קִדְרוֹן וַיָּדֶק לְעָפָר וַיַּשְׁלֵךְ אֶת־עֲפָרָהּ עַל־קֶבֶר בְּנֵי הָעָם׃",
+       "translation": "A scos [efigia] Așerei din Casa DOMNULUI, la Valea Kidron în afara Ierusalimului, a ars-o și a măcinat-o în pulbere și i-a aruncat pulberea peste mormântul oamenilor [idolatri] din popor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐξήνεγκε τὸ ἄλσος ἐξ οἴκου Κυρίου ἔξωθεν ῾Ιερουσαλὴμ εἰς τὸν χειμάρρουν Κέδρων καὶ κατέκαυσεν αὐτὸν ἐν τῷ χειμάρρῳ Κέδρων καὶ ἐλέπτυνεν εἰς χοῦν καὶ ἔρριψεν τὸν χοῦν αὐτοῦ εἰς τὸν τάφον τῶν υἱῶν τοῦ λαοῦ.",
+       "greek": true,
+       "translation": "Și a scos dumbrava din Casa Domnului, afară din Ierusalim, la pârâul Kedron, și a ars-o la pârâul Kedron, și a măcinat-o în țărână, și a aruncat țărâna ei pe mormântul fiilor poporului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Împărați 21:7",
+      "Exodul 32:20"
+     ],
+     "commentaries": []
     },
     {
      "v": "23:7",
      "t": "Și a dărâmat camerele bărbaților care se prostituau în idolatrie, care erau în Casa DOMNULUI, unde femeile țeseau draperii pentru Așera.",
      "heb": "וַיִּתֹּץ אֶת־בָּתֵּי הַקְּדֵשִׁים אֲשֶׁר בְּבֵית יְהוָה אֲשֶׁר הַנָּשִׁים אֹרְגוֹת שָׁם בָּתִּים לָאֲשֵׁרָה׃",
-     "translit": "Vaitotz et-batei hakedeshim așer beveit ADONAI așer hanașim orgot șam batim la'Așera."
+     "translit": "Vaitotz et-batei hakedeshim așer beveit ADONAI așer hanașim orgot șam batim la'Așera.",
+     "tokens": [
+      {
+       "t": "Și a dărâmat "
+      },
+      {
+       "t": "camerele bărbaților care se prostituau în idolatrie",
+       "w": "camerele bărbaților care se prostituau în idolatrie",
+       "heb": "בָּתֵּי הַקְּדֵשִׁים",
+       "translit": "batē hakdēșim",
+       "strong": "H6945",
+       "pos": "substantiv, masculin plural construct + adjectiv, masculin plural",
+       "def_ro": "casele kedeșim — bărbați dedicați prostituției cultice (batē hakdēșim).",
+       "dict_ro": "Rashi explică simplu: „casele kedeșim” erau „case de desfrânare”, iar „case” pe care le țeseau femeile acolo pentru Așera erau de fapt draperii/corturi (ieriot) rituale — o practică de cult canaanit complet integrată, până atunci, chiar în incinta Templului."
+      },
+      {
+       "t": ", care erau în Casa DOMNULUI, unde femeile țeseau draperii pentru Așera."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיִּתֹּץ אֶת־בָּתֵּי הַקְּדֵשִׁים אֲשֶׁר בְּבֵית יְהוָה אֲשֶׁר הַנָּשִׁים אֹרְגוֹת שָׁם בָּתִּים לָאֲשֵׁרָה׃",
+       "translation": "Și a dărâmat camerele bărbaților care se prostituau în idolatrie, care erau în Casa DOMNULUI, unde femeile țeseau draperii pentru Așera. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ καθεῖλε τὸν οἶκον τῶν καδησὶμ τῶν ἐν τῷ οἴκῳ Κυρίου, οὗ αἱ γυναῖκες ὕφαινον ἐκεῖ Χεττιΐμ τῷ ἄλσει.",
+       "greek": true,
+       "translation": "Și a dărâmat casa kadeșim-ilor care era în Casa Domnului, unde femeile țeseau acolo veșminte Hetim pentru dumbravă.",
+       "note": "Diferență reală: Septuaginta adaugă un termen netradus, „Hetim” (Χεττιΐμ), absent din Textul Masoretic, care are simplu „case/draperii” pentru Așera."
+      }
+     ],
+     "refs": [
+      "Geneza 19:4,5",
+      "1 Împărați 14:24"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Camerele bărbaților care se prostituau” — case de desfrânare. „Femeile țeseau acolo case” — draperii/corturi [rituale]."
+      }
+     ]
     },
     {
      "v": "23:8",
      "t": "Apoi a adus toți preoții din orașele din Iuda și a pângărit înălțimile unde preoții ardeau ofrande, de la Gheva până la Beer-Șeva, și a sfărâmat înălțimile de la porți, care erau la intrarea porții lui Ioșua, guvernatorul orașului, care erau pe partea stângă a celor care veneau la poarta orașului.",
      "heb": "וַיָּבֵא אֶת־כָּל־הַכֹּהֲנִים מֵעָרֵי יְהוּדָה וַיְטַמֵּא אֶת־הַבָּמוֹת אֲשֶׁר קִטְּרוּ־שָׁמָּה הַכֹּהֲנִים מִגֶּבַע עַד־בְּאֵר שָׁבַע וְנָתַץ אֶת־בָּמוֹת הַשְּׁעָרִים אֲשֶׁר־פֶּתַח שַׁעַר יְהוֹשֻׁעַ שַׂר־הָעִיר אֲשֶׁר־עַל־שְׂמֹאול אִישׁ בְּשַׁעַר הָעִיר׃",
-     "translit": "Vaiave et-kol-hakohanim mearei Iehuda vaitame et-habamot așer kitru-șama hakohanim mi'Gheva ad-Beer Șava venataț et-bamot hașearim așer-petah șaar Iehoșua sar-hair așer-al-semol iș beșaar hair."
+     "translit": "Vaiave et-kol-hakohanim mearei Iehuda vaitame et-habamot așer kitru-șama hakohanim mi'Gheva ad-Beer Șava venataț et-bamot hașearim așer-petah șaar Iehoșua sar-hair așer-al-semol iș beșaar hair.",
+     "tokens": [
+      {
+       "t": "Apoi a adus toți preoții din orașele din Iuda și a pângărit înălțimile unde preoții ardeau ofrande, de la Gheva până la Beer-Șeva, și a sfărâmat înălțimile de la porți, care erau la intrarea porții lui Ioșua, guvernatorul orașului, care erau pe partea stângă a celor care veneau la poarta orașului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּבֵא אֶת־כָּל־הַכֹּהֲנִים מֵעָרֵי יְהוּדָה וַיְטַמֵּא אֶת־הַבָּמוֹת אֲשֶׁר קִטְּרוּ־שָׁמָּה הַכֹּהֲנִים מִגֶּבַע עַד־בְּאֵר שָׁבַע וְנָתַץ אֶת־בָּמוֹת הַשְּׁעָרִים אֲשֶׁר־פֶּתַח שַׁעַר יְהוֹשֻׁעַ שַׂר־הָעִיר אֲשֶׁר־עַל־שְׂמֹאול אִישׁ בְּשַׁעַר הָעִיר׃",
+       "translation": "Apoi a adus toți preoții din orașele din Iuda și a pângărit înălțimile unde preoții ardeau ofrande, de la Gheva până la Beer-Șeva, și a sfărâmat înălțimile de la porți, care erau la intrarea porții lui Ioșua, guvernatorul orașului, care erau pe partea stângă a celor care veneau la poarta orașului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνήγαγε πάντας τοὺς ἱερεῖς ἐκ πόλεων ᾿Ιούδα καὶ ἐμίανε τὰ ὑψηλά, οὗ ἐθυμίασαν ἐκεῖ οἱ ἱερεῖς ἀπὸ Γαβαὰ καὶ ἕως Βηρσαβεέ. καὶ καθεῖλε τὸν οἶκον τῶν πυλῶν τὸν παρὰ τὴν θύραν τῆς πύλης ᾿Ιησοῦ ἄρχοντος τῆς πόλεως, τῶν ἐξ ἀριστερῶν ἀνδρὸς ἐν τῇ πύλῃ τῆς πόλεως.",
+       "greek": true,
+       "translation": "Și a adus pe toți preoții din cetățile lui Iuda și a pângărit înălțimile unde tămâiau acolo preoții, de la Gheva până la Beer-Șeba; și a dărâmat casa porților de lângă poarta lui Iisus, căpetenia cetății, cele din stânga unui om la poarta cetății.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 21:17",
+      "Geneza 21:31"
+     ],
+     "commentaries": []
     },
     {
      "v": "23:9",
      "t": "Dar preoții înălțimilor nu aveau voie să urce la altarul DOMNULUI în Ierusalim, aveau voie doar să mănânce azime printre frații lor.",
      "heb": "אַךְ לֹא יַעֲלוּ כֹּהֲנֵי הַבָּמוֹת אֶל־מִזְבַּח יְהוָה בִּירוּשָׁלָ͏ִם כִּי אִם־אָכְלוּ מַצּוֹת בְּתוֹךְ אֲחֵיהֶם׃",
-     "translit": "Ah lo iaalu kohanei habamot el-mizbah ADONAI b'Irușalaim ki im-ahlu matzot betoh aheihem."
+     "translit": "Ah lo iaalu kohanei habamot el-mizbah ADONAI b'Irușalaim ki im-ahlu matzot betoh aheihem.",
+     "tokens": [
+      {
+       "t": "Dar preoții înălțimilor nu aveau voie să urce la altarul DOMNULUI în Ierusalim, aveau voie doar să mănânce azime printre frații lor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אַךְ לֹא יַעֲלוּ כֹּהֲנֵי הַבָּמוֹת אֶל־מִזְבַּח יְהוָה בִּירוּשָׁלָ͏ִם כִּי אִם־אָכְלוּ מַצּוֹת בְּתוֹךְ אֲחֵיהֶם׃",
+       "translation": "Dar preoții înălțimilor nu aveau voie să urce la altarul DOMNULUI în Ierusalim, aveau voie doar să mănânce azime printre frații lor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πλὴν οὐκ ἀνέβησαν οἱ ἱερεῖς τῶν ὑψηλῶν πρὸς τὸ θυσιαστήριον Κυρίου ἐν ῾Ιερουσαλήμ, ὅτι εἰ μὴ ἔφαγον ἄζυμα ἐν μέσῳ τῶν ἀδελφῶν αὐτῶν.",
+       "greek": true,
+       "translation": "Totuși n-au suit preoții înălțimilor la altarul Domnului în Ierusalim, decât [doar] au mâncat azime în mijlocul fraților lor.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 44:10-14",
+      "Maleahi 2:8,9"
+     ],
+     "commentaries": []
     },
     {
      "v": "23:21",
      "t": "Și regele a poruncit întregului popor, spunând: „Aduceți jertfa de Paște DOMNULUI, Dumnezeului vostru, cum este scris în această Carte a Legământului.”",
      "heb": "וַיְצַו הַמֶּלֶךְ אֶת־כָּל־הָעָם לֵאמֹר עֲשׂוּ פֶסַח לַיהוָה אֱלֹהֵיכֶם כַּכָּתוּב עַל סֵפֶר הַבְּרִית הַזֶּה׃",
-     "translit": "Vaitzav hameleh et-kol-haam lemor asu fesah l'ADONAI Eloheihem kakatu v al sefer haberit haze."
+     "translit": "Vaitzav hameleh et-kol-haam lemor asu fesah l'ADONAI Eloheihem kakatu v al sefer haberit haze.",
+     "tokens": [
+      {
+       "t": "Și regele a poruncit întregului popor, spunând: „Aduceți jertfa de Paște DOMNULUI, Dumnezeului vostru, cum este scris în această Carte a Legământului.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְצַו הַמֶּלֶךְ אֶת־כָּל־הָעָם לֵאמֹר עֲשׂוּ פֶסַח לַיהוָה אֱלֹהֵיכֶם כַּכָּתוּב עַל סֵפֶר הַבְּרִית הַזֶּה׃",
+       "translation": "Și regele a poruncit întregului popor, spunând: „Aduceți jertfa de Paște DOMNULUI, Dumnezeului vostru, cum este scris în această Carte a Legământului.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἐνετείλατο ὁ βασιλεὺς παντὶ τῷ λαῷ λέγων· ποιήσατε πάσχα τῷ Κυρίῳ Θεῷ ἡμῶν, καθὼς γέγραπται ἐπὶ βιβλίου τῆς διαθήκης ταύτης·",
+       "greek": true,
+       "translation": "Și a poruncit regele întregului popor, spunând: «Faceți Paștele Domnului Dumnezeului nostru, cum este scris în cartea legământului acestuia.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 12:3-20",
+      "Numeri 9:2-5"
+     ],
+     "commentaries": []
     },
     {
      "v": "23:22",
      "t": "Căci o asemenea jertfă de Paște nu se mai adusese din zilele judecătorilor care îl judecau pe Israel și nici în toate zilele regilor Israelului și ale regilor din Iuda.",
      "heb": "כִּי לֹא נַעֲשָׂה כַּפֶּסַח הַזֶּה מִימֵי הַשֹּׁפְטִים אֲשֶׁר שָׁפְטוּ אֶת־יִשְׂרָאֵל וְכֹל יְמֵי מַלְכֵי יִשְׂרָאֵל וּמַלְכֵי יְהוּדָה׃",
-     "translit": "Ki lo naasa kapesah haze mimei hașoftim așer șaftu et-Israel vehol iemei malhei Israel umalhei Iehuda."
+     "translit": "Ki lo naasa kapesah haze mimei hașoftim așer șaftu et-Israel vehol iemei malhei Israel umalhei Iehuda.",
+     "tokens": [
+      {
+       "t": "Căci o asemenea jertfă de Paște nu se mai adusese "
+      },
+      {
+       "t": "din zilele judecătorilor",
+       "w": "din zilele judecătorilor",
+       "heb": "מִימֵי הַשֹּׁפְטִים",
+       "translit": "mimē hașoftim",
+       "strong": "H8199",
+       "pos": "substantiv, masculin plural construct + verb, qal participiu",
+       "def_ro": "din zilele judecătorilor (mimē hașoftim).",
+       "dict_ro": "Rashi notează o altă tradiție, din Cronici (2 Cronici 35:18): nici chiar sub Samuel — ultimul judecător, care readusese Israel la bine și-l adunase la Mițpa — nu se mai strânsese atâta popor la o singură jertfă de Paște ca acum. O a doua explicație a lui Rashi: de la împărțirea regatului sub Ieroboam, niciun Paște comun nu mai reunise tot Israelul la Ierusalim, cât timp cele zece triburi se închinau la viței în Bet-El și Dan — abia acum, prin profetul Ieremia, rămășițele celor zece triburi se întorc și se supun regelui Ioșiahu, reunindu-se la Ierusalim."
+      },
+      {
+       "t": " care îl judecau pe Israel și nici în toate zilele regilor Israelului și ale regilor din Iuda."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי לֹא נַעֲשָׂה כַּפֶּסַח הַזֶּה מִימֵי הַשֹּׁפְטִים אֲשֶׁר שָׁפְטוּ אֶת־יִשְׂרָאֵל וְכֹל יְמֵי מַלְכֵי יִשְׂרָאֵל וּמַלְכֵי יְהוּדָה׃",
+       "translation": "Căci o asemenea jertfă de Paște nu se mai adusese din zilele judecătorilor care îl judecau pe Israel și nici în toate zilele regilor Israelului și ale regilor din Iuda. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι οὐκ ἐγενήθη τὸ πάσχα τοῦτο ἀφ᾿ ἡμερῶν τῶν κριτῶν, οἳ ἔκρινον τὸν ᾿Ισραήλ, καὶ πάσας τὰς ἡμέρας βασιλέων ᾿Ισραὴλ καὶ βασιλέων ᾿Ιούδα,",
+       "greek": true,
+       "translation": "Căci nu se făcuse acest Paște din zilele judecătorilor care judecau pe Israel, și în toate zilele regilor lui Israel și regilor lui Iuda,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 35:18,19"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Nu se mai adusese o asemenea jertfă de Paște” — nu se mai strânsese atâta popor la o jertfă de Paște ca la aceasta. „Din zilele judecătorilor” — din zilele lui Samuel; e scris în Cronici [că și pe vremea lui] — căci și Samuel întorsese Israelul la bine și-l adunase la Mițpa. O altă explicație: o asemenea jertfă de Paște nu se mai făcuse la Ierusalim de când se împărțiseră regii Israelului și ai lui Iuda, pentru că regatul se despărțise în două de la Ieroboam, și [cele zece triburi] se duceau la vițelul din Bet-El și din Dan — până acum, când cele zece triburi fuseseră exilate, și Ieremia le-a adus înapoi, și a domnit asupra lor Ioșiahu, și au venit toți la Ierusalim."
+      }
+     ]
     },
     {
      "v": "23:23",
      "t": "Dar în al optsprezecelea an al [domniei] regelui Ioșiahu, această jertfă de Paște a fost adusă DOMNULUI în Ierusalim.",
      "heb": "כִּי אִם־בִּשְׁמֹנֶה עֶשְׂרֵה שָׁנָה לַמֶּלֶךְ יֹאשִׁיָּהוּ נַעֲשָׂה הַפֶּסַח הַזֶּה לַיהוָה בִּירוּשָׁלָ͏ִם׃",
-     "translit": "Ki im-bișmona esre șana lameleh Ioșiahu naasa hapesah haze l'ADONAI b'Irușalaim."
+     "translit": "Ki im-bișmona esre șana lameleh Ioșiahu naasa hapesah haze l'ADONAI b'Irușalaim.",
+     "tokens": [
+      {
+       "t": "Dar în al optsprezecelea an al [domniei] regelui Ioșiahu, această jertfă de Paște a fost adusă DOMNULUI în Ierusalim."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי אִם־בִּשְׁמֹנֶה עֶשְׂרֵה שָׁנָה לַמֶּלֶךְ יֹאשִׁיָּהוּ נַעֲשָׂה הַפֶּסַח הַזֶּה לַיהוָה בִּירוּשָׁלָ͏ִם׃",
+       "translation": "Dar în al optsprezecelea an al [domniei] regelui Ioșiahu, această jertfă de Paște a fost adusă DOMNULUI în Ierusalim. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅτι ἀλλ᾿ ἢ τῷ ὀκτωκαιδεκάτῳ ἔτει τοῦ βασιλέως ᾿Ιωσίου ἐγενήθη τὸ πάσχα τῷ Κυρίῳ ἐν ῾Ιερουσαλήμ.",
+       "greek": true,
+       "translation": "ci numai în anul al optsprezecelea al regelui Iosia s-a făcut Paștele Domnului în Ierusalim.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "23:24",
      "t": "Și Ioșiahu a scos și [obiectele idolatre] de ghicit, și descântecele, terafim-ii, idolii și toate celelalte orori care se puteau vedea în ținutul lui Iuda și la Ierusalim, împlinind cuvintele Învățăturii care erau scrise în Cartea pe care preotul Hilkiahu o găsise în Casa DOMNULUI.",
      "heb": "וְגַם אֶת־הָאֹבוֹת וְאֶת־הַיִּדְּעֹנִים וְאֶת־הַתְּרָפִים וְאֶת־הַגִּלֻּלִים וְאֵת כָּל־הַשִּׁקֻּצִים אֲשֶׁר נִרְאוּ בְּאֶרֶץ יְהוּדָה וּבִירוּשָׁלָ͏ִם בִּעֵר יֹאשִׁיָּהוּ לְמַעַן הָקִים אֶת־דִּבְרֵי הַתּוֹרָה הַכְּתֻבִים עַל־הַסֵּפֶר אֲשֶׁר מָצָא חִלְקִיָּהוּ הַכֹּהֵן בֵּית יְהוָה׃",
-     "translit": "Vegam et-haovot veet-haidonim veet-haterafim veet-hagilulim veet kol-hașikuțim așer niru beeret Iehuda uv'Irușalaim bier Ioșiahu lemaan hakim et-divrei hatora haketuvim al-hasefer așer matza Hilkiahu hakohen beit ADONAI."
+     "translit": "Vegam et-haovot veet-haidonim veet-haterafim veet-hagilulim veet kol-hașikuțim așer niru beeret Iehuda uv'Irușalaim bier Ioșiahu lemaan hakim et-divrei hatora haketuvim al-hasefer așer matza Hilkiahu hakohen beit ADONAI.",
+     "tokens": [
+      {
+       "t": "Și Ioșiahu a scos și [obiectele idolatre] de ghicit, și descântecele, terafim-ii, idolii și toate celelalte orori care se puteau vedea în ținutul lui Iuda și la Ierusalim, împlinind cuvintele Învățăturii care erau scrise în Cartea pe care preotul Hilkiahu o găsise în Casa DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגַם אֶת־הָאֹבוֹת וְאֶת־הַיִּדְּעֹנִים וְאֶת־הַתְּרָפִים וְאֶת־הַגִּלֻּלִים וְאֵת כָּל־הַשִּׁקֻּצִים אֲשֶׁר נִרְאוּ בְּאֶרֶץ יְהוּדָה וּבִירוּשָׁלָ͏ִם בִּעֵר יֹאשִׁיָּהוּ לְמַעַן הָקִים אֶת־דִּבְרֵי הַתּוֹרָה הַכְּתֻבִים עַל־הַסֵּפֶר אֲשֶׁר מָצָא חִלְקִיָּהוּ הַכֹּהֵן בֵּית יְהוָה׃",
+       "translation": "Și Ioșiahu a scos și [obiectele idolatre] de ghicit, și descântecele, terafim-ii, idolii și toate celelalte orori care se puteau vedea în ținutul lui Iuda și la Ierusalim, împlinind cuvintele Învățăturii care erau scrise în Cartea pe care preotul Hilkiahu o găsise în Casa DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καί γε τοὺς θελητὰς καὶ τοὺς γνωριστὰς καὶ τὰ Θεραφὶν καὶ τὰ εἴδωλα καὶ πάντα τὰ προσοχθίσματα τὰ γεγονότα ἐν τῇ γῇ ᾿Ιούδα καὶ ἐν ῾Ιερουσαλὴμ ἐξῇρεν ᾿Ιωσίας, ἵνα στήσῃ τοὺς λόγους τοῦ νόμου τοὺς γεγραμμένους ἐπὶ τοῦ βιβλίου, οὗ εὗρε Χελκίας ὁ ἱερεὺς ἐν οἴκῳ Κυρίου.",
+       "greek": true,
+       "translation": "Și chiar pe cei care au familiari și pe cei care cunosc [prin vrăjitorie] și terafimii și idolii și toate urâciunile care s-au aflat în țara lui Iuda și în Ierusalim le-a îndepărtat Iosia, ca să întemeieze cuvintele legii scrise în cartea pe care a găsit-o Helchia preotul în Casa Domnului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Levitic 19:31",
+      "Deuteronomul 18:10-12"
+     ],
+     "commentaries": []
     },
     {
      "v": "23:25",
      "t": "Înaintea lui nu fusese niciodată un rege care s-a întors la DOMNUL cu toată inima lui, cu tot sufletul lui și cu toată puterea lui, precum întreaga Învățătură a lui Moise; și nici după el nu s-a mai ridicat nimeni asemenea lui.",
      "heb": "וְכָמֹהוּ לֹא־הָיָה לְפָנָיו מֶלֶךְ אֲשֶׁר־שָׁב אֶל־יְהוָה בְּכָל־לְבָבוֹ וּבְכָל־נַפְשׁוֹ וּבְכָל־מְאֹדוֹ כְּכֹל תּוֹרַת מֹשֶׁה וְאַחֲרָיו לֹא־קָם כָּמֹהוּ׃",
-     "translit": "Vehamohu lo-haia lefanav meleh așer-șav el-ADONAI behol-levavo uvehol-nafșo uvehol-meodo kehol torat Moșe veaharav lo-kam kamohu."
+     "translit": "Vehamohu lo-haia lefanav meleh așer-șav el-ADONAI behol-levavo uvehol-nafșo uvehol-meodo kehol torat Moșe veaharav lo-kam kamohu.",
+     "tokens": [
+      {
+       "t": "Înaintea lui nu fusese niciodată un rege care s-a întors la DOMNUL cu toată inima lui, cu tot sufletul lui și cu toată puterea lui, precum întreaga Învățătură a lui Moise; și nici după el nu s-a mai ridicat nimeni asemenea lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְכָמֹהוּ לֹא־הָיָה לְפָנָיו מֶלֶךְ אֲשֶׁר־שָׁב אֶל־יְהוָה בְּכָל־לְבָבוֹ וּבְכָל־נַפְשׁוֹ וּבְכָל־מְאֹדוֹ כְּכֹל תּוֹרַת מֹשֶׁה וְאַחֲרָיו לֹא־קָם כָּמֹהוּ׃",
+       "translation": "Înaintea lui nu fusese niciodată un rege care s-a întors la DOMNUL cu toată inima lui, cu tot sufletul lui și cu toată puterea lui, precum întreaga Învățătură a lui Moise; și nici după el nu s-a mai ridicat nimeni asemenea lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὅμοιος αὐτῷ οὐκ ἐγενήθη ἔμπροσθεν αὐτοῦ βασιλεύς, ὃς ἐπέστρεψε πρὸς Κύριον ἐν ὅλῃ καρδίᾳ αὐτοῦ καὶ ἐν ὅλῃ ψυχῇ αὐτοῦ καὶ ἐν ὅλῃ ἰσχύϊ αὐτοῦ κατὰ πάντα τὸν νόμον Μωυσῆ, καὶ μετ᾿ αὐτὸν οὐκ ἀνέστη ὅμοιος αὐτῷ.",
+       "greek": true,
+       "translation": "Asemenea lui n-a fost înaintea lui rege care să se fi întors la Domnul cu toată inima lui și cu tot sufletul lui și cu toată puterea lui, după toată legea lui Moise; și după el n-a mai venit [niciunul] asemenea lui.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 6:5",
+      "2 Împărați 18:5"
+     ],
+     "commentaries": []
     }
    ]
   },
