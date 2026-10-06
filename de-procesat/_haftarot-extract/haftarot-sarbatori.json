@@ -26979,109 +26979,761 @@
      "v": "1:1",
      "t": "Și a fost, după moartea lui Moise, slujitorul DOMNULUI, că DOMNUL i-a spus lui Ioșua, fiul lui Nun, care îl slujise pe Moise, astfel:",
      "heb": "וַיְהִי אַחֲרֵי מוֹת מֹשֶׁה עֶבֶד יְהוָה וַיֹּאמֶר יְהוָה אֶל־יְהוֹשֻׁעַ בִּן־נוּן מְשָׁרֵת מֹשֶׁה לֵאמֹר׃",
-     "translit": "Vaihi aharei mot Moșe eved ADONAI vaiomer ADONAI el-Iehoșua bin-Nun meșaret Moșe lemor."
+     "translit": "Vaihi aharei mot Moșe eved ADONAI vaiomer ADONAI el-Iehoșua bin-Nun meșaret Moșe lemor.",
+     "tokens": [
+      {
+       "t": "Și a fost, după moartea lui Moise, "
+      },
+      {
+       "t": "slujitorul DOMNULUI",
+       "w": "slujitorul DOMNULUI",
+       "heb": "עֶבֶד",
+       "translit": "eved",
+       "strong": "H5650",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "slujitorul DOMNULUI (eved Adonai).",
+       "dict_ro": "Rashi observă că acest prim verset al cărții Iosua se leagă direct de ultimele cuvinte ale Torei, care se încheie chiar cu moartea lui Moise — povestirea continuă fără pauză, ca și cum cartea Iosua ar fi, literalmente, următorul capitol al aceleiași istorii neîntrerupte, nu un început nou și separat."
+      },
+      {
+       "t": ", că DOMNUL i-a spus lui Ioșua, fiul lui Nun, care îl slujise pe Moise, astfel:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי אַחֲרֵי מוֹת מֹשֶׁה עֶבֶד יְהוָה וַיֹּאמֶר יְהוָה אֶל־יְהוֹשֻׁעַ בִּן־נוּן מְשָׁרֵת מֹשֶׁה לֵאמֹר׃",
+       "translation": "Și a fost, după moartea lui Moise, slujitorul DOMNULUI, că DOMNUL i-a spus lui Ioșua, fiul lui Nun, care îl slujise pe Moise, astfel: — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐγένετο μετὰ τὴν τελευτὴν Μωυσῆ, εἶπε Κύριος τῷ ᾿Ιησοῖ υἱῷ Ναυὴ τῷ ὑπουργῷ Μωυσῆ λέγων·",
+       "greek": true,
+       "translation": "Și a fost, după moartea lui Moise, a spus Domnul lui Iisus, fiul lui Navi, slujitorul lui Moise, zicând:",
+       "note": "Mică divergență prin omisiune: Septuaginta nu redă aici titlul „slujitorul DOMNULUI” aplicat lui Moise (prezent în Textul Masoretic), ci trece direct la „după moartea lui Moise”, aplicând titlul de „slujitor” abia lui Iisus (Iosua), ca slujitor al lui Moise."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 34:5",
+      "Deuteronomul 34:9",
+      "Numeri 13:16",
+      "Faptele apostolilor 13:36"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și a fost, după moartea lui Moise” — legat de ordinea Torei, care se încheie cu moartea lui Moise, și aceasta [cartea Iosua] se leagă de ea."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Și a fost” — [acest] «și» vine să adauge și să lege [cartea de față] cu ceea ce a încheiat Tora, povestind moartea lui Moise, și spune că după aceasta a grăit DOMNUL către Iosua."
+      }
+     ]
     },
     {
      "v": "1:2",
      "t": "„Moise, slujitorul Meu, a murit. Și acum, scoală-te! Treci de cealaltă parte a acestui Iordan, tu și tot poporul acesta, către țara pe care Eu le-o dau lor, copiilor lui Israel.",
      "heb": "מֹשֶׁה עַבְדִּי מֵת וְעַתָּה קוּם עֲבֹר אֶת־הַיַּרְדֵּן הַזֶּה אַתָּה וְכָל־הָעָם הַזֶּה אֶל־הָאָרֶץ אֲשֶׁר אָנֹכִי נֹתֵן לָהֶם לִבְנֵי יִשְׂרָאֵל׃",
-     "translit": "Moșe avdi met veata kum avor et-ha'Iarden haze ata vehol-haam haze el-haareț așer anohi noten lahem livnei Israel."
+     "translit": "Moșe avdi met veata kum avor et-ha'Iarden haze ata vehol-haam haze el-haareț așer anohi noten lahem livnei Israel.",
+     "tokens": [
+      {
+       "t": "„Moise, slujitorul Meu, "
+      },
+      {
+       "t": "a murit",
+       "w": "a murit",
+       "heb": "מֵת",
+       "translit": "mēt",
+       "strong": "H4191",
+       "pos": "verb, qal perfect",
+       "def_ro": "a murit (met).",
+       "dict_ro": "Rashi relatează o tradiție dramatică (Temura 16a): dacă Moise ar mai fi fost în viață, Iosua n-ar fi fost dorit în locul lui; trei mii de legi s-au pierdut în zilele de doliu pentru Moise, și când Iosua a venit să întrebe despre ele, Cel Sfânt i-a răspuns: «Moise, robul Meu, a murit, iar Tora e numită după numele lui — nu-i cu putință [să ți le redau]; du-te și luptă-te cu ele în război» — adică, îndreaptă-ți atenția spre cucerire, nu spre recuperarea legilor pierdute."
+      },
+      {
+       "t": ". Și acum, scoală-te! Treci de cealaltă parte a acestui Iordan, tu și tot poporul acesta, către țara pe care Eu le-o dau lor, copiilor lui Israel."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מֹשֶׁה עַבְדִּי מֵת וְעַתָּה קוּם עֲבֹר אֶת־הַיַּרְדֵּן הַזֶּה אַתָּה וְכָל־הָעָם הַזֶּה אֶל־הָאָרֶץ אֲשֶׁר אָנֹכִי נֹתֵן לָהֶם לִבְנֵי יִשְׂרָאֵל׃",
+       "translation": "„Moise, slujitorul Meu, a murit. Și acum, scoală-te! Treci de cealaltă parte a acestui Iordan, tu și tot poporul acesta, către țara pe care Eu le-o dau lor, copiilor lui Israel. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Μωυσῆς ὁ θεράπων μου τετελεύτηκε· νῦν οὖν ἀναστὰς διάβηθι τὸν ᾿Ιορδάνην, σὺ καὶ πᾶς ὁ λαὸς οὗτος εἰς τὴν γῆν, ἣν ἐγὼ δίδωμι αὐτοῖς.",
+       "greek": true,
+       "translation": "Moise, slujitorul Meu, a murit; acum deci, sculându-te, treci Iordanul, tu și tot poporul acesta, în țara pe care Eu o dau lor.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 31:7",
+      "Deuteronomul 3:28",
+      "Numeri 27:16-21"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Moise, slujitorul Meu, a murit” — și dacă ar mai fi fost în viață, pe el l-aș fi voit [să conducă]. Și învățătorii noștri au tâlcuit acest verset cu privire la trei mii de legi care au fost date uitării în zilele de doliu pentru Moise; a venit Iosua și a întrebat [despre ele]; i-a spus Cel Sfânt, binecuvântat fie El: Moise, robul Meu, a murit, și Tora e numită după numele lui — a-ți spune [să ți le redau] nu se poate; du-te și luptă-te cu ele în război."
+      }
+     ]
     },
     {
      "v": "1:3",
      "t": "Orice loc pe care îl va străbate talpa piciorului vostru vă este dat, după cum i-am vorbit lui Moise.",
      "heb": "כָּל־מָקוֹם אֲשֶׁר תִּדְרֹךְ כַּף־רַגְלְכֶם בּוֹ לָכֶם נְתַתִּיו כַּאֲשֶׁר דִּבַּרְתִּי אֶל־מֹשֶׁה׃",
-     "translit": "Kol-makom așer tidroh kaf-raglehem bo lahem netativ kaașer dibarti el-Moșe."
+     "translit": "Kol-makom așer tidroh kaf-raglehem bo lahem netativ kaașer dibarti el-Moșe.",
+     "tokens": [
+      {
+       "t": "Orice loc pe care îl va străbate "
+      },
+      {
+       "t": "talpa piciorului vostru",
+       "w": "talpa piciorului vostru",
+       "heb": "כַּף רַגְלְכֶם",
+       "translit": "kaf raglehem",
+       "strong": "H7272",
+       "pos": "substantiv, feminin singular construct + substantiv, feminin singular construct + sufix",
+       "def_ro": "talpa piciorului vostru (kaf raglehem).",
+       "dict_ro": "Rashi citează Sifrei: dacă versetul ar vrea doar să stabilească hotarele Țării Promise, acestea sunt deja date mai departe («de la pustiu și acest Liban...»); de ce atunci «orice loc pe care-l va călca talpa piciorului vostru»? Pentru a învăța că și dincolo de hotarele obișnuite ale Țării, orice teritoriu cucerit de israeliți în extinderea lor devine sfințit și le aparține la fel de deplin."
+      },
+      {
+       "t": " vă este dat, după cum i-am vorbit lui Moise."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כָּל־מָקוֹם אֲשֶׁר תִּדְרֹךְ כַּף־רַגְלְכֶם בּוֹ לָכֶם נְתַתִּיו כַּאֲשֶׁר דִּבַּרְתִּי אֶל־מֹשֶׁה׃",
+       "translation": "Orice loc pe care îl va străbate talpa piciorului vostru vă este dat, după cum i-am vorbit lui Moise. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πᾶς ὁ τόπος, ἐφ’ ὃν ἂν ἐπιβῆτε τῷ ἴχνει τῶν ποδῶν ὑμῶν, ὑμῖν δώσω αὐτόν, ὃν τρόπον εἴρηκα τῷ Μωυσῇ,",
+       "greek": true,
+       "translation": "tot locul pe care veți călca cu talpa picioarelor voastre, vi-l voi da, după cum am grăit lui Moise,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 14:9",
+      "Deuteronomul 11:24",
+      "Tit 1:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Orice loc pe care-l va călca [talpa voastră]” — la fel s-a spus lui Moise, și am învățat în Sifrei: dacă [versetul] vine să învețe despre hotarele Țării lui Israel, iată că s-a spus [mai departe] «de la pustiu și acest Liban»; dacă așa, de ce se spune «orice loc pe care-l va călca talpa [piciorului vostru]»? Chiar și în afara Țării — de când veți cuceri Țara, tot ce veți cuceri dincolo de hotarele ei va fi sfânt și va fi al vostru."
+      }
+     ]
     },
     {
      "v": "1:4",
      "t": "De la deșert și acest Liban până la fluviul cel mare, Fluviul Eufrat, toată țara hitiților până la Marea cea Mare către soare-apune, vă vor fi hotar.",
      "heb": "מֵהַמִּדְבָּר וְהַלְּבָנוֹן הַזֶּה וְעַד־הַנָּהָר הַגָּדוֹל נְהַר־פְּרָת כֹּל אֶרֶץ הַחִתִּים וְעַד־הַיָּם הַגָּדוֹל מְבוֹא הַשָּׁמֶשׁ יִהְיֶה גְּבוּלְכֶם׃",
-     "translit": "Mehamidbar veha'Levanon haze vead-hanahar hagadol nehar-Perat kol ereț hahitim vead-haiam hagadol mevo hașameș ihie ghevulhem."
+     "translit": "Mehamidbar veha'Levanon haze vead-hanahar hagadol nehar-Perat kol ereț hahitim vead-haiam hagadol mevo hașameș ihie ghevulhem.",
+     "tokens": [
+      {
+       "t": "De la deșert și acest Liban până la fluviul cel mare, Fluviul Eufrat, toată țara hitiților până la Marea cea Mare către soare-apune, vă vor fi hotar."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מֵהַמִּדְבָּר וְהַלְּבָנוֹן הַזֶּה וְעַד־הַנָּהָר הַגָּדוֹל נְהַר־פְּרָת כֹּל אֶרֶץ הַחִתִּים וְעַד־הַיָּם הַגָּדוֹל מְבוֹא הַשָּׁמֶשׁ יִהְיֶה גְּבוּלְכֶם׃",
+       "translation": "De la deșert și acest Liban până la fluviul cel mare, Fluviul Eufrat, toată țara hitiților până la Marea cea Mare către soare-apune, vă vor fi hotar. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τὴν ἔρημον καὶ τὸν ᾿Αντιλίβανον ἕως τοῦ ποταμοῦ τοῦ μεγάλου ποταμοῦ Εὐφράτου, καὶ ἕως τῆς θαλάσσης τῆς ἐσχάτης ἀφ’ ἡλίου δυσμῶν ἔσται τὰ ὅρια ὑμῶν.",
+       "greek": true,
+       "translation": "pustiul și Antilibanul, până la râul cel mare, râul Eufrat, și până la marea cea de pe urmă, de la apusul soarelui, va fi hotarul vostru.",
+       "note": "Mică divergență de termen: Septuaginta are „Antilibanul”, un termen geografic mai tehnic, unde Textul Masoretic are simplu „acest Liban”; de asemenea, omite mențiunea explicită „toată țara hitiților”."
+      }
+     ],
+     "refs": [
+      "Geneza 15:18-21",
+      "Numeri 34:2-18",
+      "Deuteronomul 1:7",
+      "Deuteronomul 11:24"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:5",
      "t": "Nimeni nu îți va sta înainte în toate zilele vieții tale. Precum am fost cu Moise așa voi fi și cu tine, nu te voi lăsa și nici nu te voi părăsi.",
      "heb": "לֹא־יִתְיַצֵּב אִישׁ לְפָנֶיךָ כֹּל יְמֵי חַיֶּיךָ כַּאֲשֶׁר הָיִיתִי עִם־מֹשֶׁה אֶהְיֶה עִמָּךְ לֹא אַרְפְּךָ וְלֹא אֶעֶזְבֶךָּ׃",
-     "translit": "Lo-itiațev iș lefaneha kol iemei haieha kaașer haiti im-Moșe ehie imah lo arpeha velo eezveka."
+     "translit": "Lo-itiațev iș lefaneha kol iemei haieha kaașer haiti im-Moșe ehie imah lo arpeha velo eezveka.",
+     "tokens": [
+      {
+       "t": "Nimeni nu îți va sta înainte în toate zilele vieții tale. Precum am fost cu Moise așa voi fi și cu tine, "
+      },
+      {
+       "t": "nu te voi lăsa și nici nu te voi părăsi",
+       "w": "nu te voi lăsa și nici nu te voi părăsi",
+       "heb": "אַרְפְּךָ אֶעֶזְבֶךָּ",
+       "translit": "arpeha eezveka",
+       "strong": "H5800",
+       "pos": "verb, hifil imperfect + sufix + verb, qal imperfect + sufix",
+       "def_ro": "nu te voi lăsa [să slăbești] și nici nu te voi părăsi (lo arpeha velo eezveha).",
+       "dict_ro": "Metzudat David distinge cele două verbe, altfel sinonime la prima vedere: «arpeha» înseamnă «nu-ți voi da slăbiciune/moleșeală de la Mine» — o asigurare a puterii interioare continue —, pe când «eezveha» înseamnă «nu te voi abandona» — o asigurare a prezenței exterioare neîntrerupte; împreună, cele două promisiuni acoperă deopotrivă curajul lăuntric al lui Iosua și sprijinul divin din afară."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לֹא־יִתְיַצֵּב אִישׁ לְפָנֶיךָ כֹּל יְמֵי חַיֶּיךָ כַּאֲשֶׁר הָיִיתִי עִם־מֹשֶׁה אֶהְיֶה עִמָּךְ לֹא אַרְפְּךָ וְלֹא אֶעֶזְבֶךָּ׃",
+       "translation": "Nimeni nu îți va sta înainte în toate zilele vieții tale. Precum am fost cu Moise așa voi fi și cu tine, nu te voi lăsa și nici nu te voi părăsi. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "οὐκ ἀντιστήσεται ἄνθρωπος κατενώπιον ὑμῶν πάσας τὰς ἡμέρας τῆς ζωῆς σου, καὶ ὥσπερ ἤμην μετὰ Μωυσῆ, οὕτως ἔσομαι καὶ μετὰ σοῦ καὶ οὐκ ἐγκαταλείψω σε, οὐδ’ ὑπερόψομαί σε.",
+       "greek": true,
+       "translation": "nu va sta omul împotriva voastră în toate zilele vieții tale, și precum am fost cu Moise, tot așa voi fi și cu tine, și nu te voi lăsa, nici nu te voi trece cu vederea.",
+       "note": "Mică inconsecvență de număr („împotriva voastră” plural, urmat de „viața TA” singular), reflectând probabil aceeași oscilație prezentă și în textul ebraic original."
+      }
+     ],
+     "refs": [
+      "Iosua 1:9",
+      "Iosua 1:17",
+      "Deuteronomul 31:8",
+      "Deuteronomul 31:23"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:6",
      "t": "Fii tare și curajos, căci tu vei face ca acest popor să moștenească țara pe care am jurat-o strămoșilor lor să le-o dau lor.",
      "heb": "חֲזַק וֶאֱמָץ כִּי אַתָּה תַּנְחִיל אֶת־הָעָם הַזֶּה אֶת־הָאָרֶץ אֲשֶׁר־נִשְׁבַּעְתִּי לַאֲבוֹתָם לָתֵת לָהֶם׃",
-     "translit": "Hazak veematz ki ata tanhil et-haam haze et-haareț așer-nișbati laavotam latet lahem."
+     "translit": "Hazak veematz ki ata tanhil et-haam haze et-haareț așer-nișbati laavotam latet lahem.",
+     "tokens": [
+      {
+       "t": "Fii tare și curajos, căci tu vei face ca acest popor să moștenească țara pe care am jurat-o strămoșilor lor să le-o dau lor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "חֲזַק וֶאֱמָץ כִּי אַתָּה תַּנְחִיל אֶת־הָעָם הַזֶּה אֶת־הָאָרֶץ אֲשֶׁר־נִשְׁבַּעְתִּי לַאֲבוֹתָם לָתֵת לָהֶם׃",
+       "translation": "Fii tare și curajos, căci tu vei face ca acest popor să moștenească țara pe care am jurat-o strămoșilor lor să le-o dau lor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἴσχυε καὶ ἀνδρίζου, σὺ γὰρ ἀποδιελεῖς τῷ λαῷ τούτῳ τὴν γῆν, ἣν ὤμοσα τοῖς πατράσιν ὑμῶν δοῦναι αὐτοῖς.",
+       "greek": true,
+       "translation": "fii tare și bărbătește-te, căci tu vei împărți poporului acestuia țara, pe care am jurat-o părinților voștri să le-o dau.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 1:7",
+      "Iosua 1:9",
+      "1 Cronici 22:13",
+      "Geneza 26:3"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:7",
      "t": "Doar fii tare și foarte curajos, ca să ai grijă să înfăptuiești după toată Învățătura pe care slujitorul Meu, Moise, ți-a poruncit-o. Nu te abate de la ea la dreapta sau la stânga, ca să izbândești oriunde vei merge.",
      "heb": "רַק חֲזַק וֶאֱמַץ מְאֹד לִשְׁמֹר לַעֲשׂוֹת כְּכָל־הַתּוֹרָה אֲשֶׁר צִוְּךָ מֹשֶׁה עַבְדִּי אַל־תָּסוּר מִמֶּנּוּ יָמִין וּשְׂמֹאול לְמַעַן תַּשְׂכִּיל בְּכֹל אֲשֶׁר תֵּלֵךְ׃",
-     "translit": "Rak hazak veematz meod lișmor laasot kehol-hatora așer tzivha Moșe avdi al-tasur mimenu iamin usmol lemaan taskil behol așer teleh."
+     "translit": "Rak hazak veematz meod lișmor laasot kehol-hatora așer tzivha Moșe avdi al-tasur mimenu iamin usmol lemaan taskil behol așer teleh.",
+     "tokens": [
+      {
+       "t": "Doar fii tare și foarte curajos, ca să ai grijă să înfăptuiești după toată "
+      },
+      {
+       "t": "Învățătura",
+       "w": "Învățătura",
+       "heb": "הַתּוֹרָה",
+       "translit": "hatora",
+       "strong": "H8451",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "Învățătura (hatora).",
+       "dict_ro": "Rashi observă o distincție fină între cele două porunci paralele ale capitolului: «fii tare și curajos» de la versetul 6 se referă la curajul practic, necesar cuceririi și împărțirii țării, pe când «fii tare și foarte curajos» de aici se referă la un curaj cu totul diferit — tăria interioară necesară păzirii și înfăptuirii întregii Tore, fără abatere."
+      },
+      {
+       "t": " pe care slujitorul Meu, Moise, ți-a poruncit-o. Nu te abate de la ea la dreapta sau la stânga, ca să izbândești oriunde vei merge."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "רַק חֲזַק וֶאֱמַץ מְאֹד לִשְׁמֹר לַעֲשׂוֹת כְּכָל־הַתּוֹרָה אֲשֶׁר צִוְּךָ מֹשֶׁה עַבְדִּי אַל־תָּסוּר מִמֶּנּוּ יָמִין וּשְׂמֹאול לְמַעַן תַּשְׂכִּיל בְּכֹל אֲשֶׁר תֵּלֵךְ׃",
+       "translation": "Doar fii tare și foarte curajos, ca să ai grijă să înfăptuiești după toată Învățătura pe care slujitorul Meu, Moise, ți-a poruncit-o. Nu te abate de la ea la dreapta sau la stânga, ca să izbândești oriunde vei merge. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἴσχυε οὖν καὶ ἀνδρίζου, φυλάσσεσθαι καὶ ποιεῖν καθότι ἐνετείλατό σοι Μωυσῆς ὁ παῖς μου, καὶ οὐκ ἐκκλινεῖς ἀπ’ αὐτῶν εἰς δεξιὰ οὐδὲ εἰς ἀριστερά, ἵνα συνῇς ἐν πᾶσιν οἷς ἐὰν πράσσῃς.",
+       "greek": true,
+       "translation": "fii tare, deci, și bărbătește-te, să păzești și să faci precum ți-a poruncit Moise, robul Meu, și nu te vei abate de la ele la dreapta, nici la stânga, ca să fii priceput în tot ce vei face.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 1:1",
+      "Deuteronomul 5:32",
+      "Deuteronomul 28:14",
+      "Iosua 1:8"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Doar fii tare și foarte curajos” — în Tora, așa cum se spune: să păzești și să înfăptuiești după toată Tora."
+      }
+     ]
     },
     {
      "v": "1:8",
      "t": "Cartea aceasta a Învățăturii să nu se depărteze de gura ta. Să te îndeletnicești cu ea zi și noapte, ca să ai grijă să înfăptuiești tot ce este scris în ea. Căci atunci vei izbândi pe calea ta și atunci vei dobândi înțelegere.",
      "heb": "לֹא־יָמוּשׁ סֵפֶר הַתּוֹרָה הַזֶּה מִפִּיךָ וְהָגִיתָ בּוֹ יוֹמָם וָלַיְלָה לְמַעַן תִּשְׁמֹר לַעֲשׂוֹת כְּכָל־הַכָּתוּב בּוֹ כִּי־אָז תַּצְלִיחַ אֶת־דְּרָכֶךָ וְאָז תַּשְׂכִּיל׃",
-     "translit": "Lo-iamuș sefer hatora haze mipiha vehagita bo iomam valaila lemaan tișmor laasot kehol-hakatuv bo ki-az tatzliah et-deraheha veaz taskil."
+     "translit": "Lo-iamuș sefer hatora haze mipiha vehagita bo iomam valaila lemaan tișmor laasot kehol-hakatuv bo ki-az tatzliah et-deraheha veaz taskil.",
+     "tokens": [
+      {
+       "t": "Cartea aceasta a Învățăturii",
+       "w": "Cartea aceasta a Învățăturii",
+       "heb": "סֵפֶר הַתּוֹרָה הַזֶּה",
+       "translit": "sēfer hatora haze",
+       "strong": "H2088",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular + pronume demonstrativ",
+       "def_ro": "cartea aceasta a Învățăturii (sefer hatora haze).",
+       "dict_ro": "Rashi identifică exact ce carte avea Iosua înaintea lui în acel moment: copia «Mișne Tora» (Deuteronomul), scrisă de Moise chiar înainte de moartea lui. Radak relatează o dezbatere între înțelepți asupra sferei acestei porunci: unii o citesc drept o obligație pentru toată viața omului, oricâtă Tora ar cunoaște deja; alții, drept o poruncă specifică pentru Iosua și pentru oricine încă nu stăpânește Tora pe deplin, după care poate trece la studiul altor științe."
+      },
+      {
+       "t": " să nu se depărteze de gura ta. Să te îndeletnicești cu ea zi și noapte, ca să ai grijă să înfăptuiești tot ce este scris în ea. Căci atunci vei izbândi pe calea ta și atunci vei dobândi înțelegere."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לֹא־יָמוּשׁ סֵפֶר הַתּוֹרָה הַזֶּה מִפִּיךָ וְהָגִיתָ בּוֹ יוֹמָם וָלַיְלָה לְמַעַן תִּשְׁמֹר לַעֲשׂוֹת כְּכָל־הַכָּתוּב בּוֹ כִּי־אָז תַּצְלִיחַ אֶת־דְּרָכֶךָ וְאָז תַּשְׂכִּיל׃",
+       "translation": "Cartea aceasta a Învățăturii să nu se depărteze de gura ta. Să te îndeletnicești cu ea zi și noapte, ca să ai grijă să înfăptuiești tot ce este scris în ea. Căci atunci vei izbândi pe calea ta și atunci vei dobândi înțelegere. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ οὐκ ἀποστήσεται ἡ βίβλος τοῦ νόμου τούτου ἐκ τοῦ στόματός σου, καὶ μελετήσεις ἐν αὐτῷ ἡμέρας καὶ νυκτός, ἵνα εἰδῇς ποιεῖν πάντα τὰ γεγραμμένα· τότε εὐοδωθήσῃ, καὶ εὐοδώσεις τὰς ὁδούς σου καὶ τότε συνήσεις.",
+       "greek": true,
+       "translation": "și nu se va depărta cartea legii acesteia din gura ta, și te vei îndeletnici cu ea ziua și noaptea, ca să cunoști să faci tot ce este scris; atunci vei propăși, și vei face să propășească căile tale, și atunci vei fi priceput.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 6:6-9",
+      "Deuteronomul 17:18",
+      "Deuteronomul 17:19",
+      "Psalmul 1:2",
+      "Psalmul 1:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Cartea aceasta a Învățăturii” — cartea Mișne Tora [Deuteronomul] era înaintea lui. „Și te vei îndeletnici cu ea” — și vei cugeta asupra ei; orice cugetare a Torei e în inimă, așa cum se spune «și cugetarea inimii mele înaintea Ta» (Psalmul 19:15), «inima ta va cugeta cu groază» (Isaia 33:18)."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Învățătorii noștri s-au deosebit asupra acestui verset: unii spun că e poruncă pentru toate zilele omului, chiar dacă ar cunoaște toată Tora; alții spun că e poruncă pentru Iosua, și pentru oricine încă n-a învățat Tora pe deplin, iar după aceea să învețe celelalte științe."
+      }
+     ]
     },
     {
      "v": "1:9",
      "t": "Nu ți-am poruncit Eu oare: «Fii tare și curajos»? Nu te teme și nu te înspăimânta, căci DOMNUL, Dumnezeul tău, este cu tine oriunde vei merge.”",
      "heb": "הֲלוֹא צִוִּיתִיךָ חֲזַק וֶאֱמָץ אַל־תַּעֲרֹץ וְאַל־תֵּחָת כִּי עִמְּךָ יְהוָה אֱלֹהֶיךָ בְּכֹל אֲשֶׁר תֵּלֵךְ׃",
-     "translit": "Halo tziviticha hazak veematz al-taarotz veal-tehat ki imeha ADONAI Eloheha behol așer teleh."
+     "translit": "Halo tziviticha hazak veematz al-taarotz veal-tehat ki imeha ADONAI Eloheha behol așer teleh.",
+     "tokens": [
+      {
+       "t": "Nu ți-am poruncit Eu oare: «Fii tare și curajos»? Nu te teme și nu te înspăimânta, căci "
+      },
+      {
+       "t": "DOMNUL, Dumnezeul tău, este cu tine",
+       "w": "DOMNUL, Dumnezeul tău, este cu tine",
+       "heb": "עִמְּךָ יְהוָה אֱלֹהֶיךָ",
+       "translit": "imha Adonai eloheha",
+       "strong": "H430",
+       "pos": "prepoziție + sufix + nume propriu + substantiv, masculin plural construct + sufix",
+       "def_ro": "DOMNUL, Dumnezeul tău, [este] cu tine (imha Adonai Eloheha).",
+       "dict_ro": "Metzudat David observă o particularitate gramaticală a versetului: DOMNUL Însuși vorbește, și totuși spune «DOMNUL e cu tine», la persoana a treia, nu «Eu sunt cu tine» — aceeași construcție neobișnuită apare și în 1 Samuel 12:11, unde Samuel însuși povestește «și a trimis [DOMNUL]... și pe Samuel», vorbind despre sine la persoana a treia; ambele cazuri arată că vocea profetică se poate retrage în umbră, lăsând loc mesajului însuși."
+      },
+      {
+       "t": " oriunde vei merge.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הֲלוֹא צִוִּיתִיךָ חֲזַק וֶאֱמָץ אַל־תַּעֲרֹץ וְאַל־תֵּחָת כִּי עִמְּךָ יְהוָה אֱלֹהֶיךָ בְּכֹל אֲשֶׁר תֵּלֵךְ׃",
+       "translation": "Nu ți-am poruncit Eu oare: «Fii tare și curajos»? Nu te teme și nu te înspăimânta, căci DOMNUL, Dumnezeul tău, este cu tine oriunde vei merge.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἰδοὺ ἐντέταλμαί σοι· ἴσχυε καὶ ἀνδρίζου, μὴ δειλιάσῃς, μηδὲ φοβηθῇς, ὅτι μετὰ σοῦ Κύριος ὁ Θεός σου εἰς πάντα, οὗ ἐὰν πορεύῃ.",
+       "greek": true,
+       "translation": "iată, ți-am poruncit; fii tare și bărbătește-te, nu te înspăimânta, nici nu te teme, căci cu tine [este] Domnul Dumnezeul tău în tot [locul] unde vei merge.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 31:7",
+      "Deuteronomul 31:8",
+      "Geneza 28:15",
+      "Isaia 43:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Ți-am poruncit” — Eu îți poruncesc, fii tare în război împotriva vrăjmașului și nu te teme. „Căci DOMNUL, Dumnezeul tău, [este] cu tine” — și n-a spus «căci Eu sunt cu tine», măcar că DOMNUL era Cel ce grăia; și la fel [se găsește] «și a trimis... și pe Samuel» (1 Samuel 12:11), unde cel ce grăia era chiar Samuel [despre sine, la persoana a treia]."
+      }
+     ]
     },
     {
      "v": "1:10",
      "t": "Și Ioșua le-a dat poruncă dregătorilor poporului, spunând:",
      "heb": "וַיְצַו יְהוֹשֻׁעַ אֶת־שֹׁטְרֵי הָעָם לֵאמֹר׃",
-     "translit": "Vaitzav Iehoșua et-șotrei haam lemor."
+     "translit": "Vaitzav Iehoșua et-șotrei haam lemor.",
+     "tokens": [
+      {
+       "t": "Și Ioșua le-a dat poruncă dregătorilor poporului, spunând:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְצַו יְהוֹשֻׁעַ אֶת־שֹׁטְרֵי הָעָם לֵאמֹר׃",
+       "translation": "Și Ioșua le-a dat poruncă dregătorilor poporului, spunând: — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἐνετείλατο ᾿Ιησοῦς τοῖς γραμματεῦσι τοῦ λαοῦ λέγων·",
+       "greek": true,
+       "translation": "Și a poruncit Iisus cărturarilor poporului, zicând:",
+       "note": "Mică divergență de termen: Septuaginta are „cărturarilor” unde Textul Masoretic are „dregătorilor” (șotrim) — un termen mai general de supraveghetori/oficiali, nu neapărat „cărturari”."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "1:11",
      "t": "„Treceți prin sânul taberei și instruiți poporul, spunând: «Pregătiți pentru voi înșivă provizii, căci peste încă trei zile veți trece acest Iordan, pentru ca să veniți să luați în stăpânire țara pe care DOMNUL, Dumnezeul vostru, v-o dă în stăpânire.»”",
      "heb": "עִבְרוּ בְּקֶרֶב הַמַּחֲנֶה וְצַוּוּ אֶת־הָעָם לֵאמֹר הָכִינוּ לָכֶם צֵידָה כִּי בְּעוֹד שְׁלֹשֶׁת יָמִים אַתֶּם עֹבְרִים אֶת־הַיַּרְדֵּן הַזֶּה לָבוֹא לָרֶשֶׁת אֶת־הָאָרֶץ אֲשֶׁר יְהוָה אֱלֹהֵיכֶם נֹתֵן לָכֶם לְרִשְׁתָּהּ׃",
-     "translit": "Ivru bekerev hamahane vetzavu et-haam lemor hahinu lahem tzeida ki beod șeloșet iamim atem ovrim et-ha'Iarden haze lavo lareșet et-haareț așer ADONAI Eloheihem noten lahem lerișta."
+     "translit": "Ivru bekerev hamahane vetzavu et-haam lemor hahinu lahem tzeida ki beod șeloșet iamim atem ovrim et-ha'Iarden haze lavo lareșet et-haareț așer ADONAI Eloheihem noten lahem lerișta.",
+     "tokens": [
+      {
+       "t": "„Treceți prin sânul taberei și instruiți poporul, spunând: «Pregătiți pentru voi înșivă provizii, căci "
+      },
+      {
+       "t": "peste încă trei zile",
+       "w": "peste încă trei zile",
+       "heb": "בְּעוֹד שְׁלֹשֶׁת יָמִים",
+       "translit": "beod șeloșet iamim",
+       "strong": "H3117",
+       "pos": "adverb + numeral + substantiv, masculin plural",
+       "def_ro": "peste [încă] trei zile (beod șeloșet iamim).",
+       "dict_ro": "Radak explică de ce poporul are nevoie, pentru prima dată, să-și pregătească singur merindea: mana a continuat să cadă până la 16 Nisan — potrivit tradiției, ultima mană a căzut chiar în ziua morții lui Moise, 7 Adar, dar poporul a cules atunci suficient ca să se descurce până la acea dată —, astfel că traversarea Iordanului, programată peste trei zile, cade exact în momentul în care israeliții trebuie să învețe, pentru prima oară după patruzeci de ani, să-și asigure singuri hrana."
+      },
+      {
+       "t": " veți trece acest Iordan, pentru ca să veniți să luați în stăpânire țara pe care DOMNUL, Dumnezeul vostru, v-o dă în stăpânire.»”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עִבְרוּ בְּקֶרֶב הַמַּחֲנֶה וְצַוּוּ אֶת־הָעָם לֵאמֹר הָכִינוּ לָכֶם צֵידָה כִּי בְּעוֹד שְׁלֹשֶׁת יָמִים אַתֶּם עֹבְרִים אֶת־הַיַּרְדֵּן הַזֶּה לָבוֹא לָרֶשֶׁת אֶת־הָאָרֶץ אֲשֶׁר יְהוָה אֱלֹהֵיכֶם נֹתֵן לָכֶם לְרִשְׁתָּהּ׃",
+       "translation": "„Treceți prin sânul taberei și instruiți poporul, spunând: «Pregătiți pentru voi înșivă provizii, căci peste încă trei zile veți trece acest Iordan, pentru ca să veniți să luați în stăpânire țara pe care DOMNUL, Dumnezeul vostru, v-o dă în stăpânire.»” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εἰσέλθατε κατὰ μέσον τῆς παρεμβολῆς τοῦ λαοῦ καὶ ἐντείλασθε τῷ λαῷ λέγοντες· ἑτοιμάζεσθε ἐπισιτισμόν, ὅτι ἔτι τρεῖς ἡμέραι καὶ ὑμεῖς διαβαίνετε τὸν ᾿Ιορδάνην τοῦτον εἰσελθόντες κατασχεῖν τὴν γῆν, ἣν Κύριος ὁ Θεὸς τῶν πατέρων ὑμῶν δίδωσιν ὑμῖν.",
+       "greek": true,
+       "translation": "intrați în mijlocul taberei poporului și porunciți poporului, spunând: pregătiți-vă merinde, căci încă trei zile și voi veți trece acest Iordan, intrând ca să stăpâniți țara, pe care Domnul Dumnezeul părinților voștri v-o dă.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 3:2",
+      "Exodul 19:11",
+      "Deuteronomul 9:1",
+      "Deuteronomul 11:31"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Pregătiți-vă merinde” — tot ce e de nevoie pentru drum, și armele lor de război, le-a spus să le pregătească; căci dacă ai spune [că e vorba] de mâncare și băutură, iată că se descurcau cu mana din vasele lor până la 16 Nisan, așa cum se spune mai departe «și a încetat mana în ziua următoare» [după trecerea Iordanului]."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Pregătiți-vă merinde” — alte feluri de mâncare, nu pâine, căci mana le cădea încă, oriunde se mutau, până a doua zi de Paște; și după cum au spus învățătorii noștri, chiar în ziua în care a murit Moise a încetat mana, [dar] ei au cules atunci atâta mană cât să le fie de ajuns până la 16 Nisan."
+      }
+     ]
     },
     {
      "v": "1:12",
      "t": "Iar triburilor lui Ruben și Gad și la jumătate din tribul lui Menașe, Ioșua le-a spus:",
      "heb": "וְלָראוּבֵנִי וְלַגָּדִי וְלַחֲצִי שֵׁבֶט הַמְנַשֶּׁה אָמַר יְהוֹשֻׁעַ לֵאמֹר׃",
-     "translit": "Vela'Ruveni vela'Gadi velahatzi șevet ha'Menașe amar Iehoșua lemor."
+     "translit": "Vela'Ruveni vela'Gadi velahatzi șevet ha'Menașe amar Iehoșua lemor.",
+     "tokens": [
+      {
+       "t": "Iar triburilor lui Ruben și Gad și la jumătate din tribul lui Menașe, Ioșua le-a spus:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְלָראוּבֵנִי וְלַגָּדִי וְלַחֲצִי שֵׁבֶט הַמְנַשֶּׁה אָמַר יְהוֹשֻׁעַ לֵאמֹר׃",
+       "translation": "Iar triburilor lui Ruben și Gad și la jumătate din tribul lui Menașe, Ioșua le-a spus: — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τῷ Ῥουβὴν καὶ τῷ Γὰδ καὶ τῷ ἡμίσει φυλῆς Μανασσῆ εἶπεν ᾿Ιησοῦς·",
+       "greek": true,
+       "translation": "și lui Ruben și lui Gad și jumătății tribului lui Manase a spus Iisus:",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "1:13",
      "t": "„Aduceți-vă aminte de lucrul pe care vi l-a poruncit Moise, slujitorul DOMNULUI, spunând: «DOMNUL, Dumnezeul vostru, vă dă odihnă și El vă va da această țară.»",
      "heb": "זָכוֹר אֶת־הַדָּבָר אֲשֶׁר צִוָּה אֶתְכֶם מֹשֶׁה עֶבֶד־יְהוָה לֵאמֹר יְהוָה אֱלֹהֵיכֶם מֵנִיחַ לָכֶם וְנָתַן לָכֶם אֶת־הָאָרֶץ הַזֹּאת׃",
-     "translit": "Zahor et-hadavar așer tziva ethem Moșe eved-ADONAI lemor ADONAI Eloheihem meniah lahem venatan lahem et-haareț hazot."
+     "translit": "Zahor et-hadavar așer tziva ethem Moșe eved-ADONAI lemor ADONAI Eloheihem meniah lahem venatan lahem et-haareț hazot.",
+     "tokens": [
+      {
+       "t": "„Aduceți-vă aminte de lucrul pe care vi l-a poruncit Moise, slujitorul DOMNULUI, spunând: «DOMNUL, Dumnezeul vostru, "
+      },
+      {
+       "t": "vă dă odihnă",
+       "w": "vă dă odihnă",
+       "heb": "מֵנִיחַ",
+       "translit": "mēniah",
+       "strong": "H5117",
+       "pos": "verb, hifil participiu",
+       "def_ro": "vă dă odihnă (meniah lahem).",
+       "dict_ro": "Metzudat David explică «odihna» promisă triburilor din estul Iordanului drept tocmai primirea acestui teritoriu ca loc de popas statornic — același cuvânt central reapare, mult mai departe în istoria lui Israel, în rugăciunea lui Solomon de la sfințirea Templului («binecuvântat DOMNUL, care a dat odihnă poporului Său Israel»), legând simbolic începutul cuceririi Țării de desăvârșirea ei finală, sub domnia lui Solomon."
+      },
+      {
+       "t": " și El vă va da această țară.»"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "זָכוֹר אֶת־הַדָּבָר אֲשֶׁר צִוָּה אֶתְכֶם מֹשֶׁה עֶבֶד־יְהוָה לֵאמֹר יְהוָה אֱלֹהֵיכֶם מֵנִיחַ לָכֶם וְנָתַן לָכֶם אֶת־הָאָרֶץ הַזֹּאת׃",
+       "translation": "„Aduceți-vă aminte de lucrul pe care vi l-a poruncit Moise, slujitorul DOMNULUI, spunând: «DOMNUL, Dumnezeul vostru, vă dă odihnă și El vă va da această țară.» — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μνήσθητε τὸ ῥῆμα, ὃ ἐνετείλατο ὑμῖν Μωυσῆς ὁ παῖς Κυρίου λέγων· Κύριος ὁ Θεὸς ὑμῶν κατέπαυσεν ὑμᾶς καὶ ἔδωκεν ὑμῖν τὴν γῆν ταύτην.",
+       "greek": true,
+       "translation": "aduceți-vă aminte de cuvântul pe care vi l-a poruncit Moise, robul Domnului, spunând: Domnul Dumnezeul vostru v-a dat odihnă și v-a dat vouă țara aceasta.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 22:1-4",
+      "Numeri 32:20-28",
+      "Deuteronomul 3:18"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Vă dă odihnă” — [DOMNUL] vă dă un loc de odihnă, dându-vă această țară de dincoace [de Iordan]."
+      }
+     ]
     },
     {
      "v": "1:14",
      "t": "Soțiile voastre, pruncii voștri și turmele voastre vor locui în țara pe care Moise v-a dat-o dincolo de Iordan. Iar voi să treceți dincolo, înarmați, înaintea fraților voștri – toți luptătorii cei viteji – și să îi ajutați,",
      "heb": "נְשֵׁיכֶם טַפְּכֶם וּמִקְנֵיכֶם יֵשְׁבוּ בָּאָרֶץ אֲשֶׁר נָתַן לָכֶם מֹשֶׁה בְּעֵבֶר הַיַּרְדֵּן וְאַתֶּם תַּעַבְרוּ חֲמֻשִׁים לִפְנֵי אֲחֵיכֶם כֹּל גִּבּוֹרֵי הַחַיִל וַעֲזַרְתֶּם אוֹתָם׃",
-     "translit": "Neșeihem tapehem umikneihem ieșvu baareț așer natan lahem Moșe beever ha'Iarden veatem taavru hamușim lifnei aheihem kol ghiborei hahail vaazartem otam."
+     "translit": "Neșeihem tapehem umikneihem ieșvu baareț așer natan lahem Moșe beever ha'Iarden veatem taavru hamușim lifnei aheihem kol ghiborei hahail vaazartem otam.",
+     "tokens": [
+      {
+       "t": "Soțiile voastre, pruncii voștri și turmele voastre vor locui în țara pe care Moise v-a dat-o dincolo de Iordan. Iar voi să treceți dincolo, înarmați, înaintea fraților voștri – toți luptătorii cei viteji – și să îi ajutați,"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "נְשֵׁיכֶם טַפְּכֶם וּמִקְנֵיכֶם יֵשְׁבוּ בָּאָרֶץ אֲשֶׁר נָתַן לָכֶם מֹשֶׁה בְּעֵבֶר הַיַּרְדֵּן וְאַתֶּם תַּעַבְרוּ חֲמֻשִׁים לִפְנֵי אֲחֵיכֶם כֹּל גִּבּוֹרֵי הַחַיִל וַעֲזַרְתֶּם אוֹתָם׃",
+       "translation": "Soțiile voastre, pruncii voștri și turmele voastre vor locui în țara pe care Moise v-a dat-o dincolo de Iordan. Iar voi să treceți dincolo, înarmați, înaintea fraților voștri – toți luptătorii cei viteji – și să îi ajutați, — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "αἱ γυναῖκες ὑμῶν καὶ τὰ παιδία ὑμῶν καὶ τὰ κτήνη ὑμῶν κατοικείτωσαν ἐν τῇ γῇ, ᾗ ἔδωκεν ὑμῖν, ὑμεῖς δὲ διαβήσεσθε εὔζωνοι πρότεροι τῶν ἀδελφῶν ὑμῶν, πᾶς ὁ ἰσχύων, καὶ συμμαχήσετε αὐτοῖς,",
+       "greek": true,
+       "translation": "soțiile voastre și copiii voștri și vitele voastre să locuiască în țara pe care v-a dat-o, iar voi veți trece bine încinși, înainte de frații voștri, toți cei puternici, și le veți ajuta la luptă,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 13:18",
+      "Deuteronomul 20:8"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:15",
      "t": "până când va da DOMNUL fraților voștri odihnă așa cum v-a dat vouă, și vor lua și ei în stăpânire țara pe care DOMNUL, Dumnezeul vostru, le-o dă. Apoi vă puteți întoarce la țara moștenirii voastre și o veți moșteni, [țara] pe care Moise, slujitorul DOMNULUI, v-a dat-o dincolo de Iordan, pe malul de răsărit.”",
      "heb": "עַד אֲשֶׁר־יָנִיחַ יְהוָה לַאֲחֵיכֶם כָּכֶם וְיָרְשׁוּ גַם־הֵמָּה אֶת־הָאָרֶץ אֲשֶׁר־יְהוָה אֱלֹהֵיכֶם נֹתֵן לָהֶם וְשַׁבְתֶּם לְאֶרֶץ יְרֻשַּׁתְכֶם וִירִשְׁתֶּם אוֹתָהּ אֲשֶׁר נָתַן לָכֶם מֹשֶׁה עֶבֶד יְהוָה בְּעֵבֶר הַיַּרְדֵּן מִזְרַח הַשָּׁמֶשׁ׃",
-     "translit": "Ad așer-ianiaḥ ADONAI laaheihem kahem veiarșu gam-hema et-haareț așer-ADONAI Eloheihem noten lahem veșavtem leeretz ierușathem veiriștem ota așer natan lahem Moșe eved ADONAI beever ha'Iarden mizrah hașameș."
+     "translit": "Ad așer-ianiaḥ ADONAI laaheihem kahem veiarșu gam-hema et-haareț așer-ADONAI Eloheihem noten lahem veșavtem leeretz ierușathem veiriștem ota așer natan lahem Moșe eved ADONAI beever ha'Iarden mizrah hașameș.",
+     "tokens": [
+      {
+       "t": "până când va da DOMNUL fraților voștri odihnă așa cum v-a dat vouă, și vor lua și ei în stăpânire țara pe care DOMNUL, Dumnezeul vostru, le-o dă. Apoi vă puteți întoarce la țara moștenirii voastre și o veți moșteni, [țara] pe care Moise, slujitorul DOMNULUI, v-a dat-o dincolo de Iordan, pe malul de răsărit.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַד אֲשֶׁר־יָנִיחַ יְהוָה לַאֲחֵיכֶם כָּכֶם וְיָרְשׁוּ גַם־הֵמָּה אֶת־הָאָרֶץ אֲשֶׁר־יְהוָה אֱלֹהֵיכֶם נֹתֵן לָהֶם וְשַׁבְתֶּם לְאֶרֶץ יְרֻשַּׁתְכֶם וִירִשְׁתֶּם אוֹתָהּ אֲשֶׁר נָתַן לָכֶם מֹשֶׁה עֶבֶד יְהוָה בְּעֵבֶר הַיַּרְדֵּן מִזְרַח הַשָּׁמֶשׁ׃",
+       "translation": "până când va da DOMNUL fraților voștri odihnă așa cum v-a dat vouă, și vor lua și ei în stăpânire țara pe care DOMNUL, Dumnezeul vostru, le-o dă. Apoi vă puteți întoarce la țara moștenirii voastre și o veți moșteni, [țara] pe care Moise, slujitorul DOMNULUI, v-a dat-o dincolo de Iordan, pe malul de răsărit.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἕως ἂν καταπαύσῃ Κύριος ὁ Θεὸς ἡμῶν τοὺς ἀδελφοὺς ὑμῶν, ὥσπερ καὶ ὑμᾶς, καὶ κληρονομήσωσι καὶ οὗτοι τὴν γῆν, ἣν Κύριος ὁ Θεὸς ἡμῶν δίδωσιν αὐτοῖς. καὶ ἀπελεύσεσθε ἕκαστος εἰς τὴν κληρονομίαν αὐτοῦ, ἣν ἔδωκεν ὑμῖν Μωυσῆς εἰς τὸ πέραν τοῦ ᾿Ιορδάνου ἐπ’ ἀνατολῶν ἡλίου.",
+       "greek": true,
+       "translation": "până când Domnul Dumnezeul nostru va da odihnă fraților voștri, precum și vouă, și vor stăpâni și ei țara, pe care Domnul Dumnezeul nostru le-o dă. Și vă veți duce fiecare la moșia lui, pe care v-a dat-o Moise, dincolo de Iordan, la răsăritul soarelui.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 32:17-22",
+      "Iosua 22:4-9"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:16",
      "t": "Și ei i-au răspuns lui Ioșua, spunând: „Tot ceea ce ne-ai poruncit vom face și oriunde ne trimiți vom merge.",
      "heb": "וַיַּעֲנוּ אֶת־יְהוֹשֻׁעַ לֵאמֹר כֹּל אֲשֶׁר־צִוִּיתָנוּ נַעֲשֶׂה וְאֶל־כָּל־אֲשֶׁר תִּשְׁלָחֵנוּ נֵלֵךְ׃",
-     "translit": "Vaiaanu et-Iehoșua lemor kol așer-tzivitanu naase veel-kol-așer tișlahenu neleh."
+     "translit": "Vaiaanu et-Iehoșua lemor kol așer-tzivitanu naase veel-kol-așer tișlahenu neleh.",
+     "tokens": [
+      {
+       "t": "Și ei i-au răspuns lui Ioșua, spunând: „Tot ceea ce ne-ai poruncit vom face și oriunde ne trimiți vom merge."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעֲנוּ אֶת־יְהוֹשֻׁעַ לֵאמֹר כֹּל אֲשֶׁר־צִוִּיתָנוּ נַעֲשֶׂה וְאֶל־כָּל־אֲשֶׁר תִּשְׁלָחֵנוּ נֵלֵךְ׃",
+       "translation": "Și ei i-au răspuns lui Ioșua, spunând: „Tot ceea ce ne-ai poruncit vom face și oriunde ne trimiți vom merge. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀποκριθέντες τῷ ᾿Ιησοῦ εἶπαν· πάντα ὅσα ἐὰν ἐντείλῃ ἡμῖν, ποιήσομεν καὶ εἰς πάντα τόπον, οὗ ἐὰν ἀποστείλῃς ἡμᾶς, πορευσόμεθα·",
+       "greek": true,
+       "translation": "și, răspunzând lui Iisus, au spus: tot ce ne vei porunci vom face, și în orice loc ne vei trimite, vom merge;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Numeri 32:25",
+      "Deuteronomul 5:27"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:17",
      "t": "La fel cum am ascultat de Moise, vom asculta și de tine. DOMNUL, Dumnezeul tău, fie cu tine, așa cum a fost și cu Moise!",
      "heb": "כְּכֹל אֲשֶׁר־שָׁמַעְנוּ אֶל־מֹשֶׁה כֵּן נִשְׁמַע אֵלֶיךָ רַק יִהְיֶה יְהוָה אֱלֹהֶיךָ עִמָּךְ כַּאֲשֶׁר הָיָה עִם־מֹשֶׁה׃",
-     "translit": "Kehol așer-șamanu el-Moșe ken nișma eleha rak ihie ADONAI Eloheha imah kaașer haia im-Moșe."
+     "translit": "Kehol așer-șamanu el-Moșe ken nișma eleha rak ihie ADONAI Eloheha imah kaașer haia im-Moșe.",
+     "tokens": [
+      {
+       "t": "La fel cum am ascultat de Moise, vom asculta și de tine. DOMNUL, Dumnezeul tău, fie cu tine, așa cum a fost și cu Moise!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כְּכֹל אֲשֶׁר־שָׁמַעְנוּ אֶל־מֹשֶׁה כֵּן נִשְׁמַע אֵלֶיךָ רַק יִהְיֶה יְהוָה אֱלֹהֶיךָ עִמָּךְ כַּאֲשֶׁר הָיָה עִם־מֹשֶׁה׃",
+       "translation": "La fel cum am ascultat de Moise, vom asculta și de tine. DOMNUL, Dumnezeul tău, fie cu tine, așa cum a fost și cu Moise! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "κατὰ πάντα, ὅσα ἠκούσαμεν Μωυσῆ, ἀκουσόμεθά σου, πλὴν ἔστω Κύριος ὁ Θεὸς ἡμῶν μετὰ σοῦ, ὃν τρόπον ἦν μετὰ Μωυσῆ.",
+       "greek": true,
+       "translation": "întocmai cum am ascultat de Moise, așa te vom asculta și pe tine; numai să fie Domnul Dumnezeul nostru cu tine, precum a fost cu Moise.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 1:5",
+      "1 Samuel 20:13",
+      "1 Împărați 1:37",
+      "Psalmul 20:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:18",
      "t": "Iar oricine se va răzvrăti împotriva vorbei tale sau nu va asculta de cuvântul tău, legat de orice ne vei porunci, va fi omorât. Doar fii tare și curajos!”",
      "heb": "כָּל־אִישׁ אֲשֶׁר־יַמְרֶה אֶת־פִּיךָ וְלֹא־יִשְׁמַע אֶת־דְּבָרֶיךָ לְכֹל אֲשֶׁר־תְּצַוֶּנּוּ יוּמָת רַק חֲזַק וֶאֱמָץ׃",
-     "translit": "Kol-iș așer-iamre et-piha velo-ișma et-devareha lehol așer-tetzavenu iumat rak hazak veematz."
+     "translit": "Kol-iș așer-iamre et-piha velo-ișma et-devareha lehol așer-tetzavenu iumat rak hazak veematz.",
+     "tokens": [
+      {
+       "t": "Iar oricine se va răzvrăti împotriva vorbei tale sau nu va asculta de cuvântul tău, legat de orice ne vei porunci, va fi omorât. "
+      },
+      {
+       "t": "Doar",
+       "w": "Doar",
+       "heb": "רַק",
+       "translit": "rak",
+       "strong": "H7535",
+       "pos": "particulă afirmativă",
+       "def_ro": "doar/numai (rak).",
+       "dict_ro": "Radak citează o regulă hermeneutică rabinică: cuvintele «ach» și «rak» («doar»/«numai») sunt socotite întotdeauna cuvinte de restrângere/excludere în interpretarea Torei. Aplicată aici, înțelepții au tâlcuit astfel pedeapsa capitală din acest verset: s-ar putea crede că cineva ar fi omorât pentru nesupunere chiar și atunci când porunca primită ar fi una păcătoasă — dar acest «rak» vine să restrângă legea: pedeapsa se aplică numai nesupunerii față de o poruncă legitimă, nu uneia care ar cere o fărădelege."
+      },
+      {
+       "t": " fii tare și curajos!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כָּל־אִישׁ אֲשֶׁר־יַמְרֶה אֶת־פִּיךָ וְלֹא־יִשְׁמַע אֶת־דְּבָרֶיךָ לְכֹל אֲשֶׁר־תְּצַוֶּנּוּ יוּמָת רַק חֲזַק וֶאֱמָץ׃",
+       "translation": "Iar oricine se va răzvrăti împotriva vorbei tale sau nu va asculta de cuvântul tău, legat de orice ne vei porunci, va fi omorât. Doar fii tare și curajos!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὁ δὲ ἄνθρωπος, ὃς ἂν ἀπειθήσῃ σοι, καὶ ὅστις μὴ ἀκούσῃ τῶν ρημάτων σου καθότι ἐὰν ἐντείλῃ αὐτῷ, ἀποθανέτω. ἀλλὰ ἴσχυε καὶ ἀνδρίζου.",
+       "greek": true,
+       "translation": "iar omul care nu te va asculta, și cel care nu va auzi cuvintele tale, în tot ce-i vei porunci, să moară. Dar fii tare și bărbătește-te.",
+       "note": "Mică divergență de nuanță: Septuaginta are „dar/însă” unde Textul Masoretic are „rak” (doar/numai) — cuvântul grecesc introduce o legătură adversativă simplă, fără valența tehnică de „termen de restrângere” pe care «rak» o are în exegeza rabinică a lui Radak."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 17:12",
+      "1 Samuel 11:12",
+      "Iosua 1:6",
+      "Iosua 1:7"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Doar fii tare și curajos” — învățătorii noștri au tâlcuit: [despre] «va fi omorât», s-ar putea [crede] chiar pentru un lucru de păcat; de aceea Scriptura spune «rak» [doar] — cuvintele «ach» și «rak» sunt [întotdeauna] cuvinte de restrângere."
+      }
+     ]
     }
    ]
   }
