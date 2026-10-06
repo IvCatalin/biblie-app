@@ -13339,151 +13339,1366 @@
      "v": "10:32",
      "t": "Chiar astăzi va sta în Nob, își va flutura mâna [disprețuitor] către muntele fiicei Ționului, dealul Ierusalimului.",
      "heb": "עוֹד הַיּוֹם בְּנֹב לַעֲמֹד יְנֹפֵף יָדוֹ הַר בַּת־צִיּוֹן גִּבְעַת יְרוּשָׁלָ͏ִם׃",
-     "translit": "Od haiom be'Nov laamod ienofef iado har bat-Țion ghivat Ierușalaim."
+     "translit": "Od haiom be'Nov laamod ienofef iado har bat-Țion ghivat Ierușalaim.",
+     "tokens": [
+      {
+       "t": "Chiar astăzi va sta în "
+      },
+      {
+       "t": "Nob",
+       "w": "Nob",
+       "heb": "בְּנֹב",
+       "translit": "benov",
+       "strong": "H5011",
+       "pos": "nume propriu",
+       "def_ro": "Nob, orășel preoțesc lângă Ierusalim, de pe dealurile căruia se vedea cetatea (benov).",
+       "dict_ro": "Radak explică acest verset în două moduri: fie că Sanherib însuși, mânat de grabă, a ajuns în chiar aceeași zi la Nob ca să prindă ziua de lumină și să vadă de acolo Ierusalimul, fie — după tatăl lui Radak — că e vorba de refugiații din Nob fugiți dinaintea lui Sanherib, care se vor întoarce acolo. Rashi adaugă o tradiție legată de astrologii regelui, care îi prevestiseră cucerirea cetății chiar în acea zi, dar, văzând Ierusalimul mic de pe dealul Nob, acesta a disprețuit profeția lor și s-a încrezut în trufia sa."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "își va flutura mâna",
+       "w": "își va flutura mâna",
+       "heb": "יְנֹפֵף",
+       "translit": "ienofēf",
+       "strong": "H5130",
+       "pos": "verb, polel imperfect",
+       "def_ro": "își va flutura/agita mâna, gest de amenințare disprețuitoare (ienofēf).",
+       "dict_ro": "Rashi arată că gestul descrie disprețul lui Sanherib: văzând Ierusalimul mic de pe dealul Nob, își flutură mâna cu trufie, spunând că pentru o cetate atât de neînsemnată n-a fost nevoie să-și tulbure toate oștirile.",
+       "greek": "τῇ χειρὶ παρακαλεῖτε (te cheiri parakaleite)",
+       "greek_def_ro": "τῇ χειρὶ παρακαλεῖτε (te cheiri parakaleite) — cu mâna, îndemnați/mângâiați",
+       "diff_ro": "Diferență majoră de sens: Textul Masoretic descrie un gest al lui Sanherib — disprețul regal, flutură mâna amenințător spre Ierusalim, sigur de victorie. Septuaginta pierde complet acest sens: traduce ca un îndemn de mângâiere reciprocă („cu mâna mângâiați-vă, munte, fiica Ționului”), ca și cum textul s-ar adresa Ierusalimului însuși, nu vrăjmașului său. Numele „Nob” dispare total din traducerea greacă."
+      },
+      {
+       "t": " [disprețuitor] către muntele fiicei Ționului, dealul Ierusalimului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עוֹד הַיּוֹם בְּנֹב לַעֲמֹד יְנֹפֵף יָדוֹ הַר בַּת־צִיּוֹן גִּבְעַת יְרוּשָׁלָ͏ִם׃",
+       "translation": "Chiar astăzi va sta în Nob, își va flutura mâna [disprețuitor] către muntele fiicei Ționului, dealul Ierusalimului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "παρακαλεῖται σήμερον ἐν ὁδῷ τοῦ μεῖναι, τῇ χειρὶ παρακαλεῖτε, τὸ ὄρος, τὴν θυγατέρα Σιών, καὶ οἱ βουνοὶ οἱ ἐν ῾Ιερουσαλήμ.",
+       "greek": true,
+       "translation": "Astăzi el este îndemnat să rămână pe drum; cu mâna mângâiați-vă, munte, fiica Ționului, și voi, dealurile din Ierusalim.",
+       "note": "Divergență majoră: Textul Masoretic descrie gestul disprețuitor al lui Sanherib care-și flutură mâna amenințător spre Ierusalim de pe dealul Nob; Septuaginta pierde complet numele „Nob” și întoarce fraza într-un îndemn de mângâiere reciprocă adresat chiar muntelui Ționului, opus de sens original."
+      }
+     ],
+     "refs": [
+      "1 Samuel 21:1",
+      "Isaia 10:24",
+      "Isaia 2:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Chiar astăzi va sta în Nob” — tot acest drum [al oastei asiriene] a fost parcurs cu zor ca să poată ajunge la Nob încă în timpul zilei, pentru că astrologii lui [Sanherib] îi spuseseră: «Dacă vei lupta împotriva ei [Ierusalimul] astăzi, o vei cuceri.» Când a stat la Nob și a văzut Ierusalimul mic, n-a mai ținut seama de cuvintele astrologilor și a început să-și flutureze mâna cu îngâmfare: «Pentru o cetate ca aceasta am tulburat toate aceste oștiri? Rămâneți aici în noaptea asta, iar mâine fiecare om va arunca o piatră asupra ei!»"
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Potrivit sensului de midraș, [Sanherib] a mers într-o singură zi toate etapele pomenite [în versetele precedente] și s-a grăbit să ajungă chiar în ziua aceea la Nob, de unde se vedea Ierusalimul. Tatăl meu, de bună amintire, a explicat versetul altfel: «încă astăzi» se vor întoarce la Nob cei ce fugiseră de acolo dinaintea lui Sanherib. Iar «își va flutura mâna muntele fiicei Ționului» e spus prin asemănare — muntele fiicei Ționului își va flutura mâna asupra taberei Asiriei, la căderea ei, la fel și dealul Ierusalimului — repetând același lucru în cuvinte diferite, ca în «râzi de tine, fiică a Ționului, fecioară, dă din cap în urma ta, fiică a Ierusalimului»."
+      }
+     ]
     },
     {
      "v": "10:33",
      "t": "Iată, Stăpânul, DOMNUL Oștirilor, va tăia ramurile cu toporul, apoi cei semeți vor fi tăiați și cei mândri vor fi umiliți.",
      "heb": "הִנֵּה הָאָדוֹן יְהוָה צְבָאוֹת מְסָעֵף פֻּארָה בְּמַעֲרָצָה וְרָמֵי הַקּוֹמָה גְּדוּעִים וְהַגְּבֹהִים יִשְׁפָּלוּ׃",
-     "translit": "Hine haadon ADONAI Țevaot mesaef pura bemaarata veramei hakoma gheduim vehagvohim ișpalu."
+     "translit": "Hine haadon ADONAI Țevaot mesaef pura bemaarata veramei hakoma gheduim vehagvohim ișpalu.",
+     "tokens": [
+      {
+       "t": "Iată, "
+      },
+      {
+       "t": "Stăpânul",
+       "w": "Stăpânul",
+       "heb": "הָאָדוֹן",
+       "translit": "haadon",
+       "strong": "H113",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Stăpânul, Domnul (haadon).",
+       "dict_ro": "Radak notează contrastul teologic central al pasajului: Sanherib credea că n-are niciun stăpân peste el, lăudându-se „prin puterea mâinii mele am făcut aceasta, și prin înțelepciunea mea, căci sunt priceput” (Isaia 10:13). Profetul răspunde: există un Stăpân — DOMNUL Oștirilor — stăpân peste toate oștirile, de sus și de jos, iar El este Cel care va doborî oastea Asiriei."
+      },
+      {
+       "t": ", DOMNUL Oștirilor, "
+      },
+      {
+       "t": "va tăia ramurile",
+       "w": "va tăia ramurile",
+       "heb": "מְסָעֵף פֻּארָה",
+       "translit": "mesaēf pura",
+       "strong": "H6288",
+       "pos": "verb, piel participiu + substantiv, feminin singular",
+       "def_ro": "va tăia/despica ramurile (mesaēf pura).",
+       "dict_ro": "Rashi explică imaginea forestieră în detaliu: „mesaēf” înseamnă a despica ramurile, trunchiul principal al crengilor copacilor, iar „pura” nu are legătură cu „teascul de vin” (ca în Isaia 63:3), ci e scris cu alef, ca în Ezechiel 31:5 — adică „ramurile” lui. Metzudat David precizează sensul alegoric: copacii înalți tăiați sunt chiar liderii și regii oștirii asiriene, prin mâna unui înger trimis de Domnul."
+      },
+      {
+       "t": " cu toporul, apoi "
+      },
+      {
+       "t": "cei semeți",
+       "w": "cei semeți",
+       "heb": "וְהַגְּבֹהִים",
+       "translit": "vehagvohim",
+       "strong": "H1364",
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "cei înălțați/îngâmfați, cei falnici (vehagvohim).",
+       "dict_ro": "Radak vede în „cei semeți” o referire directă la dregătorii și conducătorii oștii asiriene care sfătuiau pe Sanherib — asemuiți copacilor înalți ai pădurii, care vor fi doborâți laolaltă cu stăpânul lor."
+      },
+      {
+       "t": " vor fi tăiați și cei mândri vor fi umiliți."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הִנֵּה הָאָדוֹן יְהוָה צְבָאוֹת מְסָעֵף פֻּארָה בְּמַעֲרָצָה וְרָמֵי הַקּוֹמָה גְּדוּעִים וְהַגְּבֹהִים יִשְׁפָּלוּ׃",
+       "translation": "Iată, Stăpânul, DOMNUL Oștirilor, va tăia ramurile cu toporul, apoi cei semeți vor fi tăiați și cei mândri vor fi umiliți. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἰδοὺ γὰρ ὁ δεσπότης Κύριος σαβαὼθ συνταράσσει τοὺς ἐνδόξους μετὰ ἰσχύος, καὶ οἱ ὑψηλοὶ τῇ ὕβρει συντριβήσονται, καὶ οἱ ὑψηλοὶ ταπεινωθήσονται,",
+       "greek": true,
+       "translation": "Căci iată, Stăpânul, Domnul Sabaot, tulbură cu putere pe cei slăviți, și cei înalți vor fi sfărâmați prin trufie, și cei înalți vor fi umiliți,",
+       "note": "Divergență de imagine: Textul Masoretic folosește metafora pădurii tăiate cu toporul (ramuri, copaci înalți doborâți); Septuaginta de-literalizează complet imaginea, vorbind direct despre „cei slăviți” și „cei înalți” tulburați și umiliți, fără nicio referire la copaci sau unelte de tăiat."
+      }
+     ],
+     "refs": [
+      "Isaia 10:16-19",
+      "Amos 2:9",
+      "Isaia 2:11-17"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Iată, Stăpânul” — în noaptea aceea. „Taie ramurile cu toporul” — îi despică crengile, trunchiul de bază al ramurilor pomilor săi. „Cu toporul” — cu secera care tunde crengile; nu e cuvântul «pura» aici în sensul de «teasc de vin» [cum e în Isaia 63:3 sau Hagai 2:16, scrise cu vav], ci cu alef, ca «ramurile lui s-au lungit» [Ezechiel 31:5]. «Mesaēf» înseamnă «cel care taie ramurile». «Cu toporul» — cu unealta nimicitoare care doboară și sfărâmă. «Cei semeți» — regii și dregătorii."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Iată, Stăpânul” — ca spunând: dar n-a fost cum a crezut el, căci Stăpânul, DOMNUL, i-a tăiat ramurile cu unealta nimicitoare, adică a trimis îngerul și i-a lovit. „Cei semeți” — copacii înalți la stat au fost doborâți, adică cei viteji au murit."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Sanherib credea că n-are niciun stăpân peste el, așa cum a zis: «Prin puterea mâinii mele am făcut aceasta, și prin înțelepciunea mea, căci sunt priceput.» Profetul spune: iată, există un Stăpân — DOMNUL Oștirilor, stăpân peste oștirile de sus și de jos — și El va doborî oastea regelui Asiriei. A asemuit tabăra lui cu o pădure plină de copaci înalți."
+      }
+     ]
     },
     {
      "v": "10:34",
      "t": "Desișurile pădurii vor fi tăiate de secure, iar Libanul prin [cineva] măreț va cădea.",
      "heb": "וְנִקַּף סִבְכֵי הַיַּעַר בַּבַּרְזֶל וְהַלְּבָנוֹן בְּאַדִּיר יִפּוֹל׃",
-     "translit": "Venikaf sivhei haiar babarzel veha'Levanon beadir ipol."
+     "translit": "Venikaf sivhei haiar babarzel veha'Levanon beadir ipol.",
+     "tokens": [
+      {
+       "t": "Desișurile pădurii",
+       "w": "Desișurile pădurii",
+       "heb": "סִבְכֵי הַיַּעַר",
+       "translit": "sivhē haiaar",
+       "strong": "H3293",
+       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
+       "def_ro": "desișurile/încâlciturile pădurii (sivhē haiaar).",
+       "dict_ro": "Radak citește imaginea ca pe o pildă: desișul încâlcit al pădurii închipuie dregătorii mari care s-au sfătuit laolaltă cu Sanherib, uniți într-un singur plan și cuget, asemenea crengilor încâlcite unele într-altele."
+      },
+      {
+       "t": " vor fi tăiate de secure, iar "
+      },
+      {
+       "t": "Libanul",
+       "w": "Libanul",
+       "heb": "וְהַלְּבָנוֹן",
+       "translit": "vehalvanon",
+       "strong": "H3844",
+       "pos": "nume propriu",
+       "def_ro": "Libanul, munte împădurit renumit în nordul Țării Sfinte (vehalvanon).",
+       "dict_ro": "Radak explică: „Libanul” numește aici, prin sinecdocă, toată pădurea din Țara lui Israel care poartă acest nume — textul vorbind despre starea de față, generalizând imaginea copacilor înalți doborâți la toți copacii unei păduri renumite.",
+       "greek": "ὁ δὲ Λίβανος (ho de Libanos)",
+       "greek_def_ro": "ὁ δὲ Λίβανος (ho de Libanos) — iar Libanul",
+       "diff_ro": "Septuaginta de-literalizează puternic întreaga imagine forestieră a versetelor 33-34: unde Textul Masoretic vorbește explicit despre tăierea crengilor, copaci înalți doborâți cu securea și Libanul prăbușit prin „cel măreț”, greaca traduce direct „cei slăviți... cei înălțați vor fi doborâți cu sabia”, păstrând doar numele „Libanul” ca ultimă rămășiță a metaforei, fără imaginea pădurii tăiate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "prin [cineva] măreț",
+       "w": "prin [cineva] măreț",
+       "heb": "בְּאַדִּיר",
+       "translit": "beadir",
+       "strong": "H117",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "prin unul măreț/puternic (beadir).",
+       "dict_ro": "Rashi dă două explicații: fie Libanul va cădea prin mâna unui înger trimis de Domnul, fie — printr-un joc de cuvinte cu „adir”, cel măreț — prin meritul lui Ezechia, care e numit „cel mai măreț” al lui Israel (Ieremia 30:21: „mai mare va fi conducătorul lui decât el”)."
+      },
+      {
+       "t": " va cădea."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנִקַּף סִבְכֵי הַיַּעַר בַּבַּרְזֶל וְהַלְּבָנוֹן בְּאַדִּיר יִפּוֹל׃",
+       "translation": "Desișurile pădurii vor fi tăiate de secure, iar Libanul prin [cineva] măreț va cădea. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ πεσοῦνται οἱ ὑψηλοὶ μαχαίρᾳ, ὁ δὲ Λίβανος σὺν τοῖς ὑψηλοῖς πεσεῖται.",
+       "greek": true,
+       "translation": "și cei înalți vor cădea de sabie, iar Libanul, împreună cu cei înalți, va cădea.",
+       "note": "Continuă de-literalizarea: Textul Masoretic are „desișurile pădurii vor fi tăiate de secure” și „Libanul va cădea prin [cineva] măreț”; Septuaginta omite imaginea desișului tăiat și spune simplu că „cei înalți vor cădea de sabie”, păstrând doar numele Libanului ca ultimă rămășiță a metaforei forestiere."
+      }
+     ],
+     "refs": [
+      "Isaia 10:18",
+      "Zaharia 11:1",
+      "Isaia 37:36"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Va fi tăiat” — tot acest cuvânt e tot din sensul de «a tăia», ca «precum culegerea măslinului» [Isaia 17:6]; forma e nifal. „Desișurile pădurii” — ramurile de seamă și cele viteze. „Și Libanul” — grosul pădurii sale și via lui, adică cea mai mare parte a oștirilor lui. „Prin cel măreț va cădea” — prin mâna unui înger va cădea. O altă explicație: «prin cel măreț» — prin meritul lui Ezechia, care este cel mai măreț și stăpânitor al lui Israel, așa cum se spune: «și va fi mai mare decât el stăpânul lui» [Ieremia 30:21]."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Va fi tăiat” — ramurile încâlcite una într-alta vor fi tăiate cu fierul, adică oastea lui cea mare va fi ucisă prin mâna îngerului. „Și Libanul” — copacii Libanului vor cădea prin [unul] măreț și puternic, el fiind îngerul; și a repetat lucrul în cuvinte diferite, pentru întărirea ideii și frumusețea exprimării."
+      }
+     ]
     },
     {
      "v": "11:1",
      "t": "O mlădiță va crește din buturuga lui Ișai și un vlăstar va răsări din rădăcinile lui.",
      "heb": "וְיָצָא חֹטֶר מִגֵּזַע יִשָׁי וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה׃",
-     "translit": "Veiața hoter migheza Ișai venețer mișarașav ifre."
+     "translit": "Veiața hoter migheza Ișai venețer mișarașav ifre.",
+     "tokens": [
+      {
+       "t": "O mlădiță",
+       "w": "O mlădiță",
+       "heb": "חֹטֶר",
+       "translit": "hoter",
+       "strong": "H2415",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "o mlădiță, un toiag/sceptru tânăr (hoter).",
+       "dict_ro": "Rashi explică: „hoter” este sceptrul regal, simbolul domniei. Observă că întreaga profeție — ale cărei cuvinte se încheie la Isaia 11:11 cu „Domnul Își va arăta din nou puterea” — e dată drept mângâiere pentru exilații din Asiria (Halah și Habor): speranța lor nu e pierdută, căci va veni la vremea sa Regele nostru, Mesia, și îi va izbăvi."
+      },
+      {
+       "t": " va crește din "
+      },
+      {
+       "t": "buturuga lui Ișai",
+       "w": "buturuga lui Ișai",
+       "heb": "מִגֵּזַע",
+       "translit": "migēza",
+       "strong": "H1503",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "buturuga/trunchiul rămas din Ișai, tatăl lui David (migēza).",
+       "dict_ro": "Metzudat David subliniază legătura cu minunea precedentă: să nu vă mirați de minunea cea mare [căderea Asiriei], căci va veni o vreme când se va face o minune și mai mare decât aceasta — va răsări un toiag al domniei din rădăcina lui Ișai, din sămânța lui David, Regele Mesia."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "un vlăstar",
+       "w": "un vlăstar",
+       "heb": "וְנֵצֶר",
+       "translit": "venēțer",
+       "strong": "H5342",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "un vlăstar, o mlădiță tânără (venēțer).",
+       "dict_ro": "Rashi precizează: „nēțer” e termenul folosit în Scriptură pentru mlădița unui pom — același cuvânt-rădăcină care apare în numele târziu „nōțeri” (nazarinean), legat tocmai de acest verset mesianic în tradiția creștină ulterioară.",
+       "greek": "καὶ ἄνθος (kai anthos)",
+       "greek_def_ro": "καὶ ἄνθος (kai anthos) — și o floare",
+       "diff_ro": "Diferență de imagine botanică: ebraicul „nēțer” înseamnă mlădiță/lăstar, în timp ce Septuaginta traduce „ἄνθος”, o floare, schimbând imaginea de la un lăstar care crește dintr-un trunchi tăiat la o floare care se înalță."
+      },
+      {
+       "t": " va răsări din rădăcinile lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְיָצָא חֹטֶר מִגֵּזַע יִשָׁי וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה׃",
+       "translation": "O mlădiță va crește din buturuga lui Ișai și un vlăstar va răsări din rădăcinile lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐξελεύσεται ῥάβδος ἐκ τῆς ρίζης ᾿Ιεσσαί, καὶ ἄνθος ἐκ τῆς ρίζης ἀναβήσεται.",
+       "greek": true,
+       "translation": "Și va ieși un toiag din rădăcina lui Iesei, și o floare se va înălța din rădăcină.",
+       "note": "Diferență de imagine botanică: ebraicul „nēțer” (vlăstar/mlădiță, din care provine termenul „Nazarene” în tradiția ulterioară) e tradus în greacă prin „ἄνθος” (floare), schimbând imaginea de la un lăstar care crește dintr-un trunchi tăiat la o floare care se înalță."
+      }
+     ],
+     "refs": [
+      "Isaia 11:10",
+      "Ieremia 23:5",
+      "Isaia 53:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și va răsări o mlădiță din buturuga lui Ișai” — și dacă veți spune: «iată mângâiere pentru Ezechia și poporul lui, ca să nu cadă în mâna [Asiriei], dar ce va fi cu exilații duși în Halah și Habor — oare le-a pierit nădejdea?» Nu le-a pierit! La sfârșit va veni Împăratul nostru, Mesia, și îi va izbăvi. „Hoter” — sceptru de domnie. „Nēțer” — termen pentru mlădița unui pom. „Și un vlăstar din rădăcinile lui va rodi” — și în toată trecerea acestei profeții, până la sfârșitul ei, «și va fi în ziua aceea, Domnul Își va adăuga a doua oară mâna» [Isaia 11:11] — iată că această profeție a fost spusă drept mângâiere pentru exilații din Asiria."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Și va răsări o mlădiță” — ca spunând: nu vă mirați de minunea aceasta mare, căci va veni vremea când [Dumnezeu] va face o minune și mai mare decât ea, căci va răsări un toiag de domnie din rădăcina lui Ișai, din sămânța lui David — el fiind Regele Mesia. „Și un vlăstar...” — repetarea aceluiași lucru în cuvinte diferite."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "A legat această parte de făgăduința de pe vremea lui Ezechia: să nu vă mirați de o minune atât de mare precum cea din zilele lui Ezechia, la căderea taberei Asiriei într-o singură clipă, căci va face lui Israel o minune și mai mare decât aceasta în zilele lui Mesia, în strângerea exilaților, și aceasta va fi din familia regelui Ezechia. A pomenit pe Ișai pentru că din el a răsărit întâiul rege [David], și «hoter» e tălmăcit ca toiag, iar «gezaa» e ce rămâne din copac pe pământ [după tăiere], din laturile căruia și din rădăcini răsar mlădițe noi — căci, măcar că Israel a fost în exil de atâția ani și domnia le-a fost întreruptă, ca și cum copacul ar fi fost tăiat, totuși buturuga și rădăcinile au rămas: mai există nădejde că buturuga va înmuguri din nou."
+      }
+     ]
     },
     {
      "v": "11:2",
      "t": "Duhul DOMNULUI se va odihni peste el: un duh de înțelepciune și înțelegere, un duh de sfat și de putere, un duh de cunoaștere și teamă de DOMNUL.",
      "heb": "וְנָחָה עָלָיו רוּחַ יְהוָה רוּחַ חָכְמָה וּבִינָה רוּחַ עֵצָה וּגְבוּרָה רוּחַ דַּעַת וְיִרְאַת יְהוָה׃",
-     "translit": "Venaha alav ruah ADONAI ruah hohma uvina ruah eța ughevura ruah daat veirat ADONAI."
+     "translit": "Venaha alav ruah ADONAI ruah hohma uvina ruah eța ughevura ruah daat veirat ADONAI.",
+     "tokens": [
+      {
+       "t": "Duhul DOMNULUI",
+       "w": "Duhul DOMNULUI",
+       "heb": "רוּחַ יְהוָה",
+       "translit": "ruah Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "Duhul DOMNULUI, duh de profeție (ruah Adonai).",
+       "dict_ro": "Metzudat David explică simplu: „duhul Domnului” este aici duhul profeției, care se va odihni peste acest vlăstar al lui Ișai; toate celelalte duhuri enumerate în verset — înțelepciune, înțelegere, sfat, putere, cunoaștere, teamă de Domnul — se vor odihni și se vor găsi în el."
+      },
+      {
+       "t": " se va odihni peste el: un duh de înțelepciune și înțelegere, un duh de sfat și de putere, un duh de cunoaștere și "
+      },
+      {
+       "t": "teamă de DOMNUL",
+       "w": "teamă de DOMNUL",
+       "heb": "וְיִרְאַת יְהוָה",
+       "translit": "veirat Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, feminin singular construct + nume propriu",
+       "def_ro": "teamă/evlavie față de DOMNUL (irat Adonai).",
+       "dict_ro": "Radak include „teama de Domnul” în lista celor șase daruri ale duhului odihnit peste vlăstarul lui Ișai — alături de înțelepciune, înțelegere, sfat, putere și cunoaștere — toate fiind daruri de la Domnul, și nu însușiri omenești dobândite.",
+       "greek": "πνεῦμα φόβου Θεοῦ (pneuma phobou Theou)",
+       "greek_def_ro": "πνεῦμα φόβου Θεοῦ (pneuma phobou Theou) — duh al fricii de Dumnezeu",
+       "diff_ro": "Corespondență apropiată cu Textul Masoretic, cu o singură schimbare: Septuaginta spune „frica de Dumnezeu” (Theos) în loc de „frica de DOMNUL” (tetragrama), urmând tiparul obișnuit al LXX de a evita numele divin propriu-zis în favoarea titlului general."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנָחָה עָלָיו רוּחַ יְהוָה רוּחַ חָכְמָה וּבִינָה רוּחַ עֵצָה וּגְבוּרָה רוּחַ דַּעַת וְיִרְאַת יְהוָה׃",
+       "translation": "Duhul DOMNULUI se va odihni peste el: un duh de înțelepciune și înțelegere, un duh de sfat și de putere, un duh de cunoaștere și teamă de DOMNUL. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀναπαύσεται ἐπ᾿ αὐτὸν πνεῦμα τοῦ Θεοῦ, πνεῦμα σοφίας καὶ συνέσεως, πνεῦμα βουλῆς καὶ ἰσχύος, πνεῦμα γνώσεως καὶ εὐσεβείας·",
+       "greek": true,
+       "translation": "și se va odihni peste el duhul lui Dumnezeu, duh de înțelepciune și de înțelegere, duh de sfat și de putere, duh de cunoaștere și de evlavie;",
+       "note": "Corespondență strânsă cu Textul Masoretic, cu nuanța obișnuită de a înlocui tetragrama cu „Dumnezeu” (Theos), ca și cu traducerea generică „evlavie” pentru „frica de Domnul”."
+      }
+     ],
+     "refs": [
+      "Isaia 42:1",
+      "Numeri 11:25",
+      "Deuteronomul 34:9"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Duhul DOMNULUI” — duh de profeție. „Duh de înțelepciune și de înțelegere” — toate aceste duhuri se vor odihni asupra lui și se vor găsi în el."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Fiindcă totul va fi de la Domnul, spune mai întâi «duhul Domnului», apoi tâlcuiește: «duh de înțelepciune și de înțelegere», «duh de sfat și de putere», «duh de cunoaștere și de teamă de Domnul». Înțelepciunea este ceea ce omul învață de la altul și o știe, mereu la îndemână; înțelegerea e priceperea proprie a omului în ce n-a învățat, din ce a învățat."
+      }
+     ]
     },
     {
      "v": "11:3",
      "t": "Mireasma lui va fi în teama de DOMNUL, el nu va judeca după cum îi văd ochii și nici nu va hotărî după ce-i aud urechile.",
      "heb": "וַהֲרִיחוֹ בְּיִרְאַת יְהוָה וְלֹא־לְמַרְאֵה עֵינָיו יִשְׁפּוֹט וְלֹא־לְמִשְׁמַע אָזְנָיו יוֹכִיחַ׃",
-     "translit": "Vahariho beirat ADONAI velo-lemaré einav ișpot velo-lemișma oznav iohiah."
+     "translit": "Vahariho beirat ADONAI velo-lemaré einav ișpot velo-lemișma oznav iohiah.",
+     "tokens": [
+      {
+       "t": "Mireasma lui",
+       "w": "Mireasma lui",
+       "heb": "וַהֲרִיחוֹ",
+       "translit": "vahariho",
+       "strong": "H7306",
+       "pos": "verb, hifil infinitiv + sufix",
+       "def_ro": "mireasma/discernământul lui (vahariho), literal „mirosul său” (hifil de la „a mirosi”).",
+       "dict_ro": "Rashi observă finețea imaginii: verbul vine de la „a mirosi” — Mesia „va mirosi” teama de Domnul, adică va fi plin de duhul fricii de Domnul — o percepție atât de subtilă precum mirosul, mai delicată decât vederea sau auzul. Radak adaugă: fiindcă mirosul e simțul cel mai ușor, cel mai puțin apăsat, textul îl folosește pentru a arăta cum, cu o pricepere minimă, fără să vadă cu ochii sau să audă cu urechile mărturii, Mesia va discerne deja binele de rău în oameni."
+      },
+      {
+       "t": " va fi în teama de DOMNUL, el nu va judeca după cum îi văd ochii și nici nu va hotărî după ce-i aud urechile."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַהֲרִיחוֹ בְּיִרְאַת יְהוָה וְלֹא־לְמַרְאֵה עֵינָיו יִשְׁפּוֹט וְלֹא־לְמִשְׁמַע אָזְנָיו יוֹכִיחַ׃",
+       "translation": "Mireasma lui va fi în teama de DOMNUL, el nu va judeca după cum îi văd ochii și nici nu va hotărî după ce-i aud urechile. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐμπλήσει αὐτὸν πνεῦμα φόβου Θεοῦ. οὐ κατὰ τὴν δόξαν κρινεῖ οὐδὲ κατὰ τὴν λαλιὰν ἐλέγξει,",
+       "greek": true,
+       "translation": "îl va umple duhul fricii de Dumnezeu. Nu va judeca după slava [înfățișare], nici nu va mustra după cele vorbite,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iov 12:11",
+      "1 Samuel 16:7",
+      "Isaia 32:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și mireasma lui va fi în teama de DOMNUL” — se va umple de duhul fricii de Domnul. „Și nu va judeca după înfățișarea ochilor” — pentru că prin înțelepciunea Celui Sfânt binecuvântat în el, va ști și va pricepe cine e nevinovat și cine e vinovat."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Pentru că mirosul e simțul cel mai ușor [cel mai subtil], textul numește «miros» pentru ceva perceput ușor — ca cel care miroase de departe un război, sau ca fitilul care se aprinde la mirosul focului. Tot așa, spune aici: cu puțină pricepere va simți [Mesia] oamenii buni și pe cei răi, fără să aibă nevoie de vederea ochilor și de mărturia auzului urechilor atunci când va judeca și va mustra oamenii, căci din propria lui înțelegere și pricepere va pătrunde faptele lor cu minimă chibzuință."
+      }
+     ]
     },
     {
      "v": "11:4",
      "t": "El va judeca pe cel nevoiaș cu dreptate și va hotărî cu nepărtinire pentru cei modești de pe pământ. El va lovi pământul cu toiagul gurii sale, și cu suflarea buzelor sale îl va ucide pe cel nelegiuit.",
      "heb": "וְשָׁפַט בְּצֶדֶק דַּלִּים וְהוֹכִיחַ בְּמִישׁוֹר לְעַנְוֵי־אָרֶץ וְהִכָּה־אֶרֶץ בְּשֵׁבֶט פִּיו וּבְרוּחַ שְׂפָתָיו יָמִית רָשָׁע׃",
-     "translit": "Veșafat bețedek dalim vehohiah bemișor leanvei-areț vehika-ereț beșevet pivuveruah sefatav iamit rașa."
+     "translit": "Veșafat bețedek dalim vehohiah bemișor leanvei-areț vehika-ereț beșevet pivuveruah sefatav iamit rașa.",
+     "tokens": [
+      {
+       "t": "El va judeca pe "
+      },
+      {
+       "t": "cel nevoiaș",
+       "w": "cel nevoiaș",
+       "heb": "דַּלִּים",
+       "translit": "dalim",
+       "strong": "H1800",
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "cei nevoiași/slabi (dalim).",
+       "dict_ro": "Radak explică nuanța morală a versetului: chiar dacă Mesia va judeca pe toți oamenii cu dreptate, deopotrivă pe săraci și pe avuți, textul numește anume pe „cei nevoiași” și „cei modești ai pământului”, pentru că lumea e înclinată să țină partea celor mari și puternici — el, dimpotrivă, va lua dreptatea celor slabi chiar din mâna celor tari, fără părtinire."
+      },
+      {
+       "t": " cu dreptate și va hotărî cu nepărtinire pentru cei modești de pe pământ. El va lovi pământul cu toiagul gurii sale, și "
+      },
+      {
+       "t": "cu suflarea buzelor sale",
+       "w": "cu suflarea buzelor sale",
+       "heb": "וּבְרוּחַ שְׂפָתָיו",
+       "translit": "uvruah sefataiv",
+       "strong": "H8193",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin dual construct + sufix",
+       "def_ro": "cu suflarea/duhul buzelor sale (uvruah sefataiv).",
+       "dict_ro": "Radak citează exemple concrete din Biblie pentru puterea cuvântului pronunțat drept blestem: ceea ce rostesc drepții se împlinește (cf. 2 Samuel), iar la Eliseu, când a blestemat în numele Domnului, au ieșit doi urși din pădure. Tot așa, cuvântul lui Mesia va fi o armă — va rosti și cel nelegiuit va muri."
+      },
+      {
+       "t": " îl va ucide pe cel nelegiuit."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְשָׁפַט בְּצֶדֶק דַּלִּים וְהוֹכִיחַ בְּמִישׁוֹר לְעַנְוֵי־אָרֶץ וְהִכָּה־אֶרֶץ בְּשֵׁבֶט פִּיו וּבְרוּחַ שְׂפָתָיו יָמִית רָשָׁע׃",
+       "translation": "El va judeca pe cel nevoiaș cu dreptate și va hotărî cu nepărtinire pentru cei modești de pe pământ. El va lovi pământul cu toiagul gurii sale, și cu suflarea buzelor sale îl va ucide pe cel nelegiuit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀλλὰ κρινεῖ ταπεινῷ κρίσιν καὶ ἐλέγξει τοὺς ταπεινοὺς τῆς γῆς· καὶ πατάξει γῆν τῷ λόγῳ τοῦ στόματος αὐτοῦ καὶ ἐν πνεύματι διὰ χειλέων ἀνελεῖ ἀσεβῆ·",
+       "greek": true,
+       "translation": "ci va judeca cu dreptate pe cel smerit și va mustra pe cei smeriți ai pământului; și va lovi pământul cu cuvântul gurii sale și prin duhul buzelor va nimici pe cel necredincios;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 32:1",
+      "Psalmul 72:1-4",
+      "Proverbe 31:8"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Și va judeca pe cel nevoiaș cu dreptate” — va lua dreptatea celor nevoiași de la cei avuți, cu dreptate, fără a ține partea celor mari; iar pe cei puternici îi va mustra cu nepărtinire, cum se cuvine, pentru cei modești ai pământului, ca să nu-i mai jefuiască de acum încolo. „Și va lovi pământul” — pe nelegiuiții pământului îi va lovi cu blestemul gurii lui, și acesta va fi ca un toiag care lovește."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Spune «cei nevoiași» și «cei modești ai pământului», chiar dacă el va judeca pe toți oamenii cu dreptate, deopotrivă săraci și avuți — pentru că lumea e deprinsă să țină partea celor mari și bogați, [textul] spune că el nu va face așa, ci cu dreptate va lua judecata celor nevoiași din [mâna] celor avuți, și va mustra pe cei puternici cu nepărtinire, din pricina celor modești ai pământului, ca să nu-i mai jefuiască și să nu-i mai asuprească fiind ei slabi și fără putere. «Și va lovi pământul cu toiagul gurii lui» — pentru că va vorbi și va blestema, și vor muri, cum s-a scris despre cei drepți: «vei hotărî un lucru și se va întâmpla»; și s-a spus despre Samuel profetul: «tot ce va grăi se va împlini», și despre Elisei profetul: «i-a blestemat în numele Domnului, și au ieșit doi urși din pădure» — care au sfâșiat patruzeci și doi de copii dintre ei."
+      }
+     ]
     },
     {
      "v": "11:5",
      "t": "Dreptatea va fi brâul coapselor lui și credința va fi brâul mijlocului lui.",
      "heb": "וְהָיָה צֶדֶק אֵזוֹר מָתְנָיו וְהָאֱמוּנָה אֵזוֹר חֲלָצָיו׃",
-     "translit": "Vehaia țedek ezor motnav vehaemuna ezor halațav."
+     "translit": "Vehaia țedek ezor motnav vehaemuna ezor halațav.",
+     "tokens": [
+      {
+       "t": "Dreptatea va fi brâul coapselor lui și credința va fi brâul mijlocului lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיָה צֶדֶק אֵזוֹר מָתְנָיו וְהָאֱמוּנָה אֵזוֹר חֲלָצָיו׃",
+       "translation": "Dreptatea va fi brâul coapselor lui și credința va fi brâul mijlocului lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔσται δικαιοσύνῃ ἐζωσμένος τὴν ὀσφὺν αὐτοῦ καὶ ἀληθείᾳ εἰλημένος τὰς πλευράς.",
+       "greek": true,
+       "translation": "și va fi încins cu dreptatea la mijloc și înfășurat cu adevărul la coaste.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 59:17",
+      "Osea 2:20"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Și va fi dreptatea brâul coapselor lui” — dreptatea și credința de care se va ține vor fi pentru el ca o putere, precum omul încins cu un brâu la coapse, care e astfel mai sprinten și mai întărit."
+      }
+     ]
     },
     {
      "v": "11:6",
      "t": "Lupul va locui cu mielul și leopardul se va culca lângă ied; și vițelul, leul și tăurașul vor fi împreună, și un copilaș îi va conduce.",
      "heb": "וְגָר זְאֵב עִם־כֶּבֶשׂ וְנָמֵר עִם־גְּדִי יִרְבָּץ וְעֵגֶל וּכְפִיר וּמְרִיא יַחְדָּו וְנַעַר קָטֹן נֹהֵג בָּם׃",
-     "translit": "Vegar zeev im-keves venamer im-ghedi irbaț veegel uhfir umeri iahdav venaar katon noheg bam."
+     "translit": "Vegar zeev im-keves venamer im-ghedi irbaț veegel uhfir umeri iahdav venaar katon noheg bam.",
+     "tokens": [
+      {
+       "t": "Lupul",
+       "w": "Lupul",
+       "heb": "זְאֵב",
+       "translit": "zeēv",
+       "strong": "H2061",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lupul (zeēv).",
+       "dict_ro": "Radak discută pe larg cele două interpretări posibile: unii înțeleg versetul literal — în zilele lui Mesia firea fiarelor sălbatice se va schimba, revenind la starea dintru începutul creației, când nimic nu se vâna. Alții citesc alegoric: lupul, leopardul, ursul și leul sunt o pildă pentru asupritorii și jefuitorii puternici ai lumii, iar mielul, vițelul și iedul sunt pilda celor slabi și asupriți — pacea mesianică fiind, în primul rând, pace socială. Radak însuși optează pentru o cale de mijloc: firea fiarelor nu se schimbă, dar ele nu vor mai face rău pe tot muntele sfânt al lui Israel, ferite fiind de puterea cunoașterii Domnului care va umple țara."
+      },
+      {
+       "t": " va locui cu mielul și leopardul se va culca lângă ied; și vițelul, leul și tăurașul vor fi împreună, și "
+      },
+      {
+       "t": "un copilaș",
+       "w": "un copilaș",
+       "heb": "וְנַעַר קָטֹן",
+       "translit": "venaar katon",
+       "strong": "H6996",
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "un copil mic/tânăr (venaar katon).",
+       "dict_ro": "Metzudat David observă firescul imaginii: nici copilul cel mic nu va avea de ce să se teamă să conducă aceste fiare înblânzite, pentru că niciuna nu le va mai face rău."
+      },
+      {
+       "t": " îi va conduce."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגָר זְאֵב עִם־כֶּבֶשׂ וְנָמֵר עִם־גְּדִי יִרְבָּץ וְעֵגֶל וּכְפִיר וּמְרִיא יַחְדָּו וְנַעַר קָטֹן נֹהֵג בָּם׃",
+       "translation": "Lupul va locui cu mielul și leopardul se va culca lângă ied; și vițelul, leul și tăurașul vor fi împreună, și un copilaș îi va conduce. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ συμβοσκηθήσεται λύκος μετ᾿ ἀρνός, καὶ πάρδαλις συναναπαύσεται ἐρίφω, καὶ μοσχάριον καὶ ταῦρος καὶ λέων ἅμα βοσκηθήσονται, καὶ παιδίον μικρὸν ἄξει αὐτούς·",
+       "greek": true,
+       "translation": "și lupul va paște împreună cu mielul, și leopardul se va odihni laolaltă cu iedul, și vițelul și taurul și leul vor paște laolaltă, și un copilaș mic îi va conduce;",
+       "note": "Mică diferență în lista animalelor: Textul Masoretic are aici „vițelul, leul tânăr și vita grasă” vor fi împreună; Septuaginta are „vițelul, taurul și leul”, înlocuind „vita grasă” (mriy) cu „taur” și aducând „leul” mai timpuriu în listă decât în versetul următor."
+      }
+     ],
+     "refs": [
+      "Isaia 65:25",
+      "Ezechiel 34:25",
+      "Osea 2:18"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Unii tălmăcesc literal: în zilele lui Mesia se va schimba firea fiarelor și a dobitoacelor, întorcându-se la ceea ce era la începutul creației și în corabia lui Noe, când nimic nu vâna nimic. Alții tălmăcesc totul ca pildă: lupul, leopardul, ursul și leul sunt pildă pentru asupritorii și jefuitorii cei puternici ai lumii, iar mielul, vițelul, iedul sunt pildă pentru cei smeriți și năpăstuiți, și [profetul] spune că în zilele lui Mesia va fi pace în toată lumea, fără ca unul să-l mai nedreptățească pe altul. Cel adevărat [sens], după mine, este că firea fiarelor nu se va schimba și ele vor sfâșia și vor mânca carne cum fac și acum, ci [Domnul] a făgăduit lui Israel că fiarele rele nu vor mai face rău în toată țara lui Israel, fiindcă aceasta se va umple de cunoașterea Domnului, și de aceea nu va mai stăpâni asupra lor fiară rea, așa cum a făgăduit prin Moise, robul Lui: «Voi stârpi fiara cea rea din țară»."
+      }
+     ]
     },
     {
      "v": "11:7",
      "t": "Vaca și ursul vor paște, iar puii lor se vor culca împreună, și leul va mânca fân ca o vită.",
      "heb": "וּפָרָה וָדֹב תִּרְעֶינָה יַחְדָּו יִרְבְּצוּ יַלְדֵיהֶן וְאַרְיֵה כַּבָּקָר יֹאכַל־תֶּבֶן׃",
-     "translit": "Ufara vadov tirena iahdav irbețu ialdeihem vearie kabakar iohal-teven."
+     "translit": "Ufara vadov tirena iahdav irbețu ialdeihem vearie kabakar iohal-teven.",
+     "tokens": [
+      {
+       "t": "Vaca și ursul vor paște, iar puii lor se vor culca împreună, și leul va mânca fân ca o vită."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּפָרָה וָדֹב תִּרְעֶינָה יַחְדָּו יִרְבְּצוּ יַלְדֵיהֶן וְאַרְיֵה כַּבָּקָר יֹאכַל־תֶּבֶן׃",
+       "translation": "Vaca și ursul vor paște, iar puii lor se vor culca împreună, și leul va mânca fân ca o vită. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ βοῦς καὶ ἄρκος ἅμα βοσκηθήσονται, καὶ ἅμα τὰ παιδία αὐτῶν ἔσονται, καὶ λέων καὶ βοῦς ἅμα φάγονται ἄχυρα.",
+       "greek": true,
+       "translation": "și vaca și ursul vor paște laolaltă, și puii lor vor fi laolaltă, și leul și vaca vor mânca paie laolaltă.",
+       "note": "Corespondență strânsă cu Textul Masoretic, cu reluarea cuvântului „leul”, deja folosit și în versetul precedent."
+      }
+     ],
+     "refs": [
+      "Osea 2:18"
+     ],
+     "commentaries": []
     },
     {
      "v": "11:8",
      "t": "Sugarul se va juca lângă vizuina viperei și copilul înțărcat își va băga mâna în cuibul năpârcii.",
      "heb": "וְשִׁעֲשַׁע יוֹנֵק עַל־חֻר פָּתֶן וְעַל מְאוּרַת צִפְעוֹנִי גָּמוּל יָדוֹ הָדָה׃",
-     "translit": "Veșiașa ionek al-hur paten veal meurat țifoni gamul iado hada."
+     "translit": "Veșiașa ionek al-hur paten veal meurat țifoni gamul iado hada.",
+     "tokens": [
+      {
+       "t": "Sugarul se va juca lângă "
+      },
+      {
+       "t": "vizuina viperei",
+       "w": "vizuina viperei",
+       "heb": "חֻר פָּתֶן",
+       "translit": "hur paten",
+       "strong": "H6620",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "vizuina/gaura viperei (hur paten).",
+       "dict_ro": "Rashi explică „paten” drept un șarpe care, îmbătrânind, își pierde auzul și devine surd — de aceea numit „paten”, căci nu mai ascultă descântecul vrăjitorilor (cf. Psalmul 58:6). Tradiția lui Ionatan citită de Rashi vede în această imagine chiar vrăjmășia pusă între șarpe și om la începutul lumii (Geneza 3:15), care se va stinge în zilele lui Mesia: copilul de țâță se va juca nevătămat lângă vizuina cea mai primejdioasă."
+      },
+      {
+       "t": " și copilul înțărcat își va băga mâna în cuibul năpârcii."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְשִׁעֲשַׁע יוֹנֵק עַל־חֻר פָּתֶן וְעַל מְאוּרַת צִפְעוֹנִי גָּמוּל יָדוֹ הָדָה׃",
+       "translation": "Sugarul se va juca lângă vizuina viperei și copilul înțărcat își va băga mâna în cuibul năpârcii. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ παιδίον νήπιον ἐπὶ τρώγλην ἀσπίδων καὶ ἐπὶ κοίτην ἐκγόνων ἀσπίδων τὴν χεῖρα ἐπιβαλεῖ.",
+       "greek": true,
+       "translation": "și copilul mic își va pune mâna pe vizuina aspidelor și pe culcușul puilor de aspide.",
+       "note": "Corespondență strânsă cu Textul Masoretic; Septuaginta folosește un singur termen „aspide” pentru ambii termeni ebraici distincți „paten” și „țifoni”, unde Textul Masoretic are doi cuvinte diferite pentru cele două specii de șerpi veninoși."
+      }
+     ],
+     "refs": [
+      "Geneza 3:15"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Peste vizuina viperei” — peste gaura de țărână în care cuibărește șarpele. „Pāten” — un șarpe care, îmbătrânind, devine surd și se numește «paten», căci nu mai are descântec, cum se spune: «care n-ascultă glasul vrăjitorilor» [Psalmul 58:6]. Ionatan tălmăcește «vizuina viperei» ca «strălucirea globilor ochilor viperei»; iar Menahem o tâlcuiește drept «gaură», ca «Urul caldeenilor» sau «la lumini vor cinsti pe Domnul»."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "«Vrăjmășia» pusă între șarpe și om la începutul lumii se va stinge în zilele lui Mesia în toată Țara lui Israel, și poporului lui Israel, oriunde va merge, nu-i va mai face rău nici șarpele, nici fiarele cele rele. Iar tălmăcirea lui Ionatan arată de ce copilul nu se ferește: ochiul șarpelui, ascuns în întuneric, strălucește, și pruncul, văzând acea strălucire din afară, o crede o piatră luminoasă sau sticlă, și întinde mâna să o apuce fără să știe că e vizuina viperei — dar vipera nu-i va face rău."
+      }
+     ]
     },
     {
      "v": "11:9",
      "t": "Nu vor face rău și nici nu vor distruge pe tot muntele Meu cel sfânt, căci pământul va fi plin de cunoașterea DOMNULUI, așa cum apele acoperă fundul mării.",
      "heb": "לֹא־יָרֵעוּ וְלֹא־יַשְׁחִיתוּ בְּכָל־הַר קָדְשִׁי כִּי־מָלְאָה הָאָרֶץ דֵּעָה אֶת־יְהוָה כַּמַּיִם לַיָּם מְכַסִּים׃",
-     "translit": "Lo-iareu velo-iașhitu behol-har kodși ki-maleá haareț dea et-ADONAI kamaim laiam mehasim."
+     "translit": "Lo-iareu velo-iașhitu behol-har kodși ki-maleá haareț dea et-ADONAI kamaim laiam mehasim.",
+     "tokens": [
+      {
+       "t": "Nu vor face rău și nici nu vor distruge pe tot muntele Meu cel sfânt, căci pământul va fi plin de "
+      },
+      {
+       "t": "cunoașterea DOMNULUI",
+       "w": "cunoașterea DOMNULUI",
+       "heb": "דֵּעָה יְהוָה",
+       "translit": "dēa Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, feminin singular + nume propriu",
+       "def_ro": "cunoașterea DOMNULUI (dēa et Adonai).",
+       "dict_ro": "Radak explică temeiul teologic al întregii viziuni a păcii: fiarele rele nu vor face rău în Țara Sfântă nu pentru că și-ar schimba firea, ci pentru că întreaga țară va fi plină de cunoașterea Domnului — poporul va cunoaște pe Domnul de la cel mai mic la cel mai mare, cum promisese prin Moise, și, precum El a făgăduit, fiara cea rea nu va mai stăpâni asupra unui popor care Îl cunoaște."
+      },
+      {
+       "t": ", așa cum apele acoperă fundul mării."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לֹא־יָרֵעוּ וְלֹא־יַשְׁחִיתוּ בְּכָל־הַר קָדְשִׁי כִּי־מָלְאָה הָאָרֶץ דֵּעָה אֶת־יְהוָה כַּמַּיִם לַיָּם מְכַסִּים׃",
+       "translation": "Nu vor face rău și nici nu vor distruge pe tot muntele Meu cel sfânt, căci pământul va fi plin de cunoașterea DOMNULUI, așa cum apele acoperă fundul mării. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ οὐ μὴ κακοποιήσουσιν, οὐδὲ μὴ δύνωνται ἀπολέσαι οὐδένα ἐπὶ τὸ ὄρος τὸ ἅγιόν μου, ὅτι ἐνεπλήσθη ἡ σύμπασα τοῦ γνῶναι τὸν Κύριον ὡς ὕδωρ πολὺ κατακαλύψαι θαλάσσας.",
+       "greek": true,
+       "translation": "și nu vor face rău, nici nu vor putea nimici pe nimeni pe muntele Meu cel sfânt, căci toată [lumea] s-a umplut de cunoașterea Domnului, ca apa multă care acoperă mările.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Habacuc 2:14",
+      "Isaia 2:4"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Toată Țara lui Israel e numită aici «muntele Meu cel sfânt», fiind mai înaltă decât toate celelalte țări [în rang spiritual]; iar motivul pentru care [fiarele] nu vor face rău este că pământul se va umple de cunoașterea Domnului, cum a spus Ieremia profetul: «căci toți Mă vor cunoaște, de la cel mai mic la cel mai mare al lor»."
+      }
+     ]
     },
     {
      "v": "11:10",
      "t": "Și va fi în ziua aceea: rădăcina lui Ișai care a rămas va fi ca steag pentru popoare, neamuri îl vor căuta și [locul] său de odihnă va fi măreț.",
      "heb": "וְהָיָה בַּיּוֹם הַהוּא שֹׁרֶשׁ יִשַׁי אֲשֶׁר עֹמֵד לְנֵס עַמִּים אֵלָיו גּוֹיִם יִדְרֹשׁוּ וְהָיְתָה מְנֻחָתוֹ כָּבוֹד׃",
-     "translit": "Vehaia baiom hahu șoreș Ișai așer omed lenes amim elav goim idroșu vehaita menuhato kavod."
+     "translit": "Vehaia baiom hahu șoreș Ișai așer omed lenes amim elav goim idroșu vehaita menuhato kavod.",
+     "tokens": [
+      {
+       "t": "Și va fi în ziua aceea: "
+      },
+      {
+       "t": "rădăcina lui Ișai",
+       "w": "rădăcina lui Ișai",
+       "heb": "שֹׁרֶשׁ",
+       "translit": "șoreș",
+       "strong": "H8328",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rădăcina/tulpina lui Ișai (șoreș ișai).",
+       "dict_ro": "Radak notează identitatea dintre „rădăcina lui Ișai” de aici și „vlăstarul din rădăcinile sale” din 11:1 — cel ce va răsări din rădăcina lui Ișai va fi, în ziua aceea, un semn înălțat pentru toate neamurile, care îl vor căuta de bunăvoie și-l vor asculta."
+      },
+      {
+       "t": " care a rămas va fi "
+      },
+      {
+       "t": "ca steag",
+       "w": "ca steag",
+       "heb": "לְנֵס",
+       "translit": "lenēs",
+       "strong": "H5251",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "ca un steag/stindard (lenēs).",
+       "dict_ro": "Metzudat David lămurește comparația: precum oștenii se adună și merg după cel ce poartă steagul înaintea oștii, tot așa neamurile pământului vor căuta pe Mesia și vor merge după el, făcând ce le va porunci."
+      },
+      {
+       "t": " pentru popoare, neamuri îl vor căuta și [locul] său de odihnă va fi măreț."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיָה בַּיּוֹם הַהוּא שֹׁרֶשׁ יִשַׁי אֲשֶׁר עֹמֵד לְנֵס עַמִּים אֵלָיו גּוֹיִם יִדְרֹשׁוּ וְהָיְתָה מְנֻחָתוֹ כָּבוֹד׃",
+       "translation": "Și va fi în ziua aceea: rădăcina lui Ișai care a rămas va fi ca steag pentru popoare, neamuri îl vor căuta și [locul] său de odihnă va fi măreț. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ ἡ ρίζα τοῦ ᾿Ιεσσαὶ καὶ ὁ ἀνιστάμενος ἄρχειν ἐθνῶν, ἐπ᾿ αὐτῷ ἔθνη ἐλπιοῦσι, καὶ ἔσται ἡ ἀνάπαυσις αὐτοῦ τιμή.",
+       "greek": true,
+       "translation": "Și va fi în ziua aceea rădăcina lui Iesei, și cel ce se ridică să stăpânească neamurile; în el neamurile vor spera, și odihna lui va fi cinste.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 11:1",
+      "Geneza 49:10",
+      "Romani 15:12"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Rădăcina lui Ișai” — Mesia, care răsare din rădăcina lui Ișai, va fi atunci în ziua strângerii exilaților. „Ca steag pentru popoare” — el va fi pentru toate popoarele ca un stindard purtat înaintea oștii, pe care toți oamenii de oaste îl urmează; tot așa, toate neamurile vor căuta pe Mesia și vor merge după el, ca să facă ce le va porunci."
+      }
+     ]
     },
     {
      "v": "11:11",
      "t": "Și va fi în ziua aceea: Domnul Își va arăta din nou puterea ca să răscumpere rămășița poporului Său care a rămas, din Asiria, și din Egipt, și din Patros, și din Cuș, și din Elam, și din Șinar, și din Hamat, și din insulele mării.",
      "heb": "וְהָיָה בַּיּוֹם הַהוּא יוֹסִיף אֲדֹנָי שֵׁנִית יָדוֹ לִקְנוֹת אֶת־שְׁאָר עַמּוֹ אֲשֶׁר יִשָּׁאֵר מֵאַשּׁוּר וּמִמִּצְרַיִם וּמִפַּתְרוֹס וּמִכּוּשׁ וּמֵעֵילָם וּמִשִּׁנְעָר וּמֵחֲמָת וּמֵאִיֵּי הַיָּם׃",
-     "translit": "Vehaia baiom hahu iosif Adonai șenit iado liknot et-șear amo așer ișaer me'Așur umi'Mițraim umi'Patros umi'Cuș ume'Eilam umi'Șinar ume'Hamat umeiei haiam."
+     "translit": "Vehaia baiom hahu iosif Adonai șenit iado liknot et-șear amo așer ișaer me'Așur umi'Mițraim umi'Patros umi'Cuș ume'Eilam umi'Șinar ume'Hamat umeiei haiam.",
+     "tokens": [
+      {
+       "t": "Și va fi în ziua aceea: Domnul Își va arăta "
+      },
+      {
+       "t": "din nou",
+       "w": "din nou",
+       "heb": "שֵׁנִית",
+       "translit": "șēnit",
+       "strong": "H8145",
+       "pos": "numeral ordinal",
+       "def_ro": "din nou/a doua oară (șēnit).",
+       "dict_ro": "Rashi explică de ce se spune „a doua oară”: prima izbăvire a fost scoaterea din Egipt, din casa robiei, o răscumpărare curată, fără nicio supunere rămasă; izbăvirea celui de-al doilea Templu nu se socotește, pentru că israeliții au rămas totuși supuși lui Cirus. Așadar aceasta, viitoarea strângere a rămășiței, va fi socotită a doua izbăvire adevărată, asemenea celei dintâi."
+      },
+      {
+       "t": " puterea ca să răscumpere rămășița poporului Său care a rămas, din Asiria, și din Egipt, și din "
+      },
+      {
+       "t": "Patros",
+       "w": "Patros",
+       "heb": "וּמִפַּתְרוֹס",
+       "translit": "umipatros",
+       "strong": "H6624",
+       "pos": "nume propriu",
+       "def_ro": "Patros, regiune din Egiptul de Sus (umipatros).",
+       "dict_ro": "Rashi notează doar că enumerarea acestor șapte ținuturi ale exilului corespunde celor șapte brațe în care va fi împărțit fluviul Eufrat la Isaia 11:15, pentru trecerea celor șapte grupuri de exilați — insulele mării fiind singura excepție, venind dintr-o altă direcție.",
+       "greek": "ἀπὸ Αἰγύπτου καὶ Βαβυλωνίας (apo Aigyptou kai Babylonias)",
+       "greek_def_ro": "ἀπὸ Αἰγύπτου καὶ Βαβυλωνίας (apo Aigyptou kai Babylonias) — din Egipt și din Babilonia",
+       "diff_ro": "Divergență geografică reală: lista Septuagintei a țărilor exilului diferă semnificativ de cea ebraică. Unde Textul Masoretic enumeră Asiria, Egipt, Patros, Cuș, Elam, Șinar, Hamat și insulele mării, Septuaginta are Asiria, Egipt, Babilonia, Etiopia (Cuș), Elam, „răsăritul soarelui” și Arabia — „Patros” e înlocuit cu „Babilonia”, iar „Șinar”, „Hamat” și „insulele mării” sunt înlocuite cu „răsăritul soarelui” și „Arabia”."
+      },
+      {
+       "t": ", și din Cuș, și din Elam, și din Șinar, și din Hamat, și din insulele mării."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיָה בַּיּוֹם הַהוּא יוֹסִיף אֲדֹנָי שֵׁנִית יָדוֹ לִקְנוֹת אֶת־שְׁאָר עַמּוֹ אֲשֶׁר יִשָּׁאֵר מֵאַשּׁוּר וּמִמִּצְרַיִם וּמִפַּתְרוֹס וּמִכּוּשׁ וּמֵעֵילָם וּמִשִּׁנְעָר וּמֵחֲמָת וּמֵאִיֵּי הַיָּם׃",
+       "translation": "Și va fi în ziua aceea: Domnul Își va arăta din nou puterea ca să răscumpere rămășița poporului Său care a rămas, din Asiria, și din Egipt, și din Patros, și din Cuș, și din Elam, și din Șinar, și din Hamat, și din insulele mării. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔσται τῇ ἡμέρᾳ ἐκείνη προσθήσει Κύριος τοῦ δεῖξαι τὴν χεῖρα αὐτοῦ τοῦ ζηλῶσαι τὸ καταλειφθὲν ὑπόλοιπον τοῦ λαοῦ, ὃ ἂν καταλειφθῇ ἀπὸ τῶν ᾿Ασσυρίων καὶ ἀπὸ Αἰγύπτου καὶ Βαβυλωνίας καὶ Αἰθιοπίας καὶ ἀπὸ ᾿Ελαμιτῶν καὶ ἀπὸ ἡλίου ἀνατολῶν καὶ ἐξ ᾿Αραβίας.",
+       "greek": true,
+       "translation": "și va fi în ziua aceea: Domnul va adăuga să-și arate mâna, ca să râvnească pentru rămășița rămasă a poporului, care va fi rămas din Asirieni și din Egipt și din Babilonia și din Etiopia și din Elamiți și de la răsăritul soarelui și din Arabia.",
+       "note": "Divergență geografică reală: Textul Masoretic enumeră Asiria, Egipt, Patros, Cuș, Elam, Șinar, Hamat și insulele mării; Septuaginta are Asiria, Egipt, Babilonia, Etiopia, Elam, „răsăritul soarelui” și Arabia — „Patros” e înlocuit cu „Babilonia”, iar „Șinar”, „Hamat” și „insulele mării” sunt înlocuite cu „răsăritul soarelui” și „Arabia”."
+      }
+     ],
+     "refs": [
+      "Isaia 11:16",
+      "Geneza 10:6",
+      "Geneza 10:22"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„A doua oară” — precum i-a dobândit [Israel] din Egipt, când izbăvirea lor a fost deplină, fără nicio supunere rămasă; dar izbăvirea celui de-al Doilea Templu nu se socotește, fiindcă au rămas supuși lui Cirus. „Și din insulele mării” — acestea sunt insulele Kitim, grecii."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Pentru că prima dată [Domnul] i-a dobândit din casa robiei, din Egipt, iar în ziua strângerii exilaților Își va adăuga «a doua oară» mâna, ca să-i dobândească din toate neamurile printre care au fost împrăștiați — despre exilul Babilonului nu se spune așa, pentru că nu au ieșit decât Iuda și Beniamin, iar cele zece triburi nu s-au strâns, deci nu se poate numi acea strângere «a doua oară», pentru că din Egipt au ieșit tot Israelul, fără să rămână niciunul."
+      }
+     ]
     },
     {
      "v": "11:12",
      "t": "El va ridica un steag pentru neamuri și va aduna pe cei împrăștiați ai lui Israel; și pe risiptiții lui Iuda îi va strânge din cele patru colțuri ale pământului.",
      "heb": "וְנָשָׂא נֵס לַגּוֹיִם וְאָסַף נִדְחֵי יִשְׂרָאֵל וּנְפֻצוֹת יְהוּדָה יְקַבֵּץ מֵאַרְבַּע כַּנְפוֹת הָאָרֶץ׃",
-     "translit": "Venasa nes lagoim veasaf nidhei Israel unefuțot Iehuda iekabeț mearba kanfot haareț."
+     "translit": "Venasa nes lagoim veasaf nidhei Israel unefuțot Iehuda iekabeț mearba kanfot haareț.",
+     "tokens": [
+      {
+       "t": "El va ridica "
+      },
+      {
+       "t": "un steag",
+       "w": "un steag",
+       "heb": "נֵס",
+       "translit": "nēs",
+       "strong": "H5251",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "un steag/stindard (nēs).",
+       "dict_ro": "Rashi notează cuvântul „venasa” drept termen tehnic pentru „a înălța” un semn — un drapel așezat drept semnal de adunare, pentru a strânge la un loc exilații lui Israel și a-i aduce ca un dar [simbolic] înaintea lui Mesia."
+      },
+      {
+       "t": " pentru neamuri și va aduna pe cei împrăștiați ai lui Israel; și pe risiptiții lui Iuda îi va strânge din cele patru colțuri ale pământului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנָשָׂא נֵס לַגּוֹיִם וְאָסַף נִדְחֵי יִשְׂרָאֵל וּנְפֻצוֹת יְהוּדָה יְקַבֵּץ מֵאַרְבַּע כַּנְפוֹת הָאָרֶץ׃",
+       "translation": "El va ridica un steag pentru neamuri și va aduna pe cei împrăștiați ai lui Israel; și pe risiptiții lui Iuda îi va strânge din cele patru colțuri ale pământului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀρεῖ σημεῖον εἰς τὰ ἔθνη καὶ συνάξει τοὺς ἀπολομένους ᾿Ισραὴλ καὶ τοὺς διεσπαρμένους τοῦ ᾿Ιούδα συνάξει ἐκ τῶν τεσσάρων πτερύγων τῆς γῆς.",
+       "greek": true,
+       "translation": "și va ridica un semn pentru neamuri și va strânge pe cei pierduți ai lui Israel, și pe cei risipiți ai lui Iuda îi va strânge din cele patru aripi ale pământului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 27:13",
+      "Țefania 3:10"
+     ],
+     "commentaries": []
     },
     {
      "v": "11:13",
      "t": "Gelozia lui Efraim va înceta și cei ce îl oprimă pe Iuda vor fi nimiciți. Efraim nu va mai fi gelos pe Iuda și Iuda nu-l va mai hărțui pe Efraim.",
      "heb": "וְסָרָה קִנְאַת אֶפְרַיִם וְצֹרְרֵי יְהוּדָה יִכָּרֵתוּ אֶפְרַיִם לֹא־יְקַנֵּא אֶת־יְהוּדָה וִיהוּדָה לֹא־יָצֹר אֶת־אֶפְרָיִם׃",
-     "translit": "Vesara kinat Efraim vețorerei Iehuda ikaretu Efraim lo-iekane et-Iehuda v'Iehuda lo-iațor et-Efraim."
+     "translit": "Vesara kinat Efraim vețorerei Iehuda ikaretu Efraim lo-iekane et-Iehuda v'Iehuda lo-iațor et-Efraim.",
+     "tokens": [
+      {
+       "t": "Gelozia lui "
+      },
+      {
+       "t": "Efraim",
+       "w": "Efraim",
+       "heb": "אֶפְרַיִם",
+       "translit": "efraim",
+       "strong": "H669",
+       "pos": "nume propriu",
+       "def_ro": "Efraim, numele unuia dintre regatele lui Israel după împărțire, folosit și pentru tot regatul de nord (efraim).",
+       "dict_ro": "Rashi citează o tradiție midrașică (Șir haȘirim Zuta 4:11) cu valoare mesianică dublă: versetul ar vorbi despre faptul că Mesia fiul lui Iosif (din linia lui Efraim) și Mesia fiul lui David nu se vor invidia unul pe celălalt — gelozia veche dintre cele două case regale ale lui Israel fiind desăvârșit vindecată în vremea finală."
+      },
+      {
+       "t": " va înceta și cei ce îl oprimă pe Iuda vor fi nimiciți. Efraim nu va mai fi gelos pe Iuda și Iuda nu-l va mai hărțui pe Efraim."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְסָרָה קִנְאַת אֶפְרַיִם וְצֹרְרֵי יְהוּדָה יִכָּרֵתוּ אֶפְרַיִם לֹא־יְקַנֵּא אֶת־יְהוּדָה וִיהוּדָה לֹא־יָצֹר אֶת־אֶפְרָיִם׃",
+       "translation": "Gelozia lui Efraim va înceta și cei ce îl oprimă pe Iuda vor fi nimiciți. Efraim nu va mai fi gelos pe Iuda și Iuda nu-l va mai hărțui pe Efraim. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀφαιρεθήσεται ὁ ζῆλος ᾿Εφραὶμ καὶ οἱ ἐχθροὶ ᾿Ιούδα ἀπολοῦνται· ᾿Εφραὶμ οὐ ζηλώσει ᾿Ιούδαν, καὶ ᾿Ιούδας οὐ θλίψει ᾿Εφραίμ.",
+       "greek": true,
+       "translation": "Va fi îndepărtată gelozia lui Efraim, și vrăjmașii lui Iuda vor pieri; Efraim nu va fi gelos pe Iuda, și Iuda nu va asupri pe Efraim.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ieremia 3:18",
+      "Ezechiel 37:16-24"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Efraim nu va invidia pe Iuda” — Mesia fiul lui Iosif și Mesia fiul lui David nu se vor invidia unul pe celălalt (Șir haȘirim Zuta 4:11)."
+      }
+     ]
     },
     {
      "v": "11:14",
      "t": "Vor zbura la hotarul de apus al filistenilor, împreună vor prăda pe locuitorii de la răsărit, mâinile lor se vor întinde peste Edom și Moab, și dominația lor peste copiii lui Amon.",
      "heb": "וְעָפוּ בְכָתֵף פְּלִשְׁתִּים יָמָּה יַחְדָּו יָבֹזּוּ אֶת־בְּנֵי־קֶדֶם אֱדוֹם וּמוֹאָב מִשְׁלוֹחַ יָדָם וּבְנֵי עַמּוֹן מִשְׁמַעְתָּם׃",
-     "translit": "Veafu vekatef peliștim iama iahdav iavozu et-benei-kedem Edom u'Moav mișloah iadam uvenei Amon mișmatam."
+     "translit": "Veafu vekatef peliștim iama iahdav iavozu et-benei-kedem Edom u'Moav mișloah iadam uvenei Amon mișmatam.",
+     "tokens": [
+      {
+       "t": "Vor zbura la hotarul de apus al "
+      },
+      {
+       "t": "filistenilor",
+       "w": "filistenilor",
+       "heb": "פְּלִשְׁתִּים",
+       "translit": "peliștim",
+       "strong": "H6430",
+       "pos": "nume de neam",
+       "def_ro": "filistenilor (peliștim).",
+       "dict_ro": "Rashi explică „vor zbura pe umărul filistenilor” ca pe o imagine a lui Efraim și Iuda alergând uniți, „umăr la umăr”, pentru a cuceri țara filistenilor așezată la apusul Țării lui Israel — aceeași expresie „umăr” apărând și la Osea 6:9 și Țefania 3:9 pentru acțiune unită.",
+       "greek": "ἐν πλοίοις ἀλλοφύλων (en ploiois allophylon)",
+       "greek_def_ro": "ἐν πλοίοις ἀλλοφύλων (en ploiois allophylon) — în corăbiile celor de alt neam",
+       "diff_ro": "Diferență de imagine: Textul Masoretic spune că [Efraim și Iuda] „vor zbura pe umărul/flancul filistenilor spre apus”, o imagine de mișcare militară rapidă pe uscat; Septuaginta traduce „vor zbura în corăbiile celor de alt neam [peste] mare”, introducând o imagine navală absentă din ebraică."
+      },
+      {
+       "t": ", împreună vor prăda pe locuitorii de la răsărit, mâinile lor se vor întinde peste Edom și Moab, și dominația lor peste copiii lui Amon."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעָפוּ בְכָתֵף פְּלִשְׁתִּים יָמָּה יַחְדָּו יָבֹזּוּ אֶת־בְּנֵי־קֶדֶם אֱדוֹם וּמוֹאָב מִשְׁלוֹחַ יָדָם וּבְנֵי עַמּוֹן מִשְׁמַעְתָּם׃",
+       "translation": "Vor zbura la hotarul de apus al filistenilor, împreună vor prăda pe locuitorii de la răsărit, mâinile lor se vor întinde peste Edom și Moab, și dominația lor peste copiii lui Amon. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ πετασθήσονται ἐν πλοίοις ἀλλοφύλων θάλασσαν, ἅμα προνομεύσουσι καὶ τοὺς ἀφ᾿ ἡλίου ἀνατολῶν καὶ ᾿Ιδουμαίαν· καὶ ἐπὶ Μωὰβ πρῶτον τὰς χεῖρας ἐπιβαλοῦσιν, οἱ δὲ υἱοὶ ᾿Αμμὼν πρῶτοι ὑπακούσονται.",
+       "greek": true,
+       "translation": "și vor zbura pe corăbiile celor de alt neam peste mare, laolaltă vor prăda și pe cei de la răsăritul soarelui și Idumeea; și peste Moab își vor pune mâinile cei dintâi, iar fiii lui Amon primii se vor supune.",
+       "note": "Divergență de imagine: Textul Masoretic spune că [Efraim și Iuda] vor zbura pe flancul filistenilor spre apus, o imagine de mișcare pe uscat; Septuaginta are „vor zbura pe corăbiile celor de alt neam peste mare”, introducând o imagine navală absentă din ebraică, și reorganizează ordinea popoarelor jefuite (Edom/Idumeea e inclus la plunder, Moab și Amon apar cu „primii”/„cei dintâi” adăugat)."
+      }
+     ],
+     "refs": [
+      "Obadia 1:19",
+      "Numeri 24:17"
+     ],
+     "commentaries": []
     },
     {
      "v": "11:15",
      "t": "DOMNUL va seca limba Mării Egiptului și Își va ridica mâna peste Fluviul [Eufrat] cu puterea suflării Sale; îl va împărți în șapte pâraie și îi va conduce [acolo] încălțați.",
      "heb": "וְהֶחֱרִים יְהוָה אֵת לְשׁוֹן יָם־מִצְרַיִם וְהֵנִיף יָדוֹ עַל־הַנָּהָר בַּעְיַם רוּחוֹ וְהִכָּהוּ לְשִׁבְעָה נְחָלִים וְהִדְרִיךְ בַּנְּעָלִים׃",
-     "translit": "Veheherim ADONAI et leșon iam-Mițraim vehenif iado al-hanahar baiam ruho vehikahu leșiva nehalim vehidrih banealim."
+     "translit": "Veheherim ADONAI et leșon iam-Mițraim vehenif iado al-hanahar baiam ruho vehikahu leșiva nehalim vehidrih banealim.",
+     "tokens": [
+      {
+       "t": "DOMNUL va seca limba Mării Egiptului și Își va ridica mâna peste "
+      },
+      {
+       "t": "Fluviul [Eufrat]",
+       "w": "Fluviul [Eufrat]",
+       "heb": "הַנָּהָר",
+       "translit": "hanahar",
+       "strong": "H5104",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Fluviul, aici identificat tradițional cu Eufratul (hanahar).",
+       "dict_ro": "Rashi identifică explicit „fluviul” din acest verset cu Eufratul, peste care va trece rămășița exilaților din Asiria, așa cum „limba Mării Egiptului” va fi secată pentru trecerea exilaților din Egipt — o reluare, la scară finală, a minunii Mării Roșii."
+      },
+      {
+       "t": " cu puterea suflării Sale; îl va împărți "
+      },
+      {
+       "t": "în șapte pâraie",
+       "w": "în șapte pâraie",
+       "heb": "לְשִׁבְעָה נְחָלִים",
+       "translit": "leșiva nehalim",
+       "strong": "H5158",
+       "pos": "numeral + substantiv, masculin plural",
+       "def_ro": "în șapte pâraie/brațe (leșiva nehalim).",
+       "dict_ro": "Rashi explică: șapte brațe, pentru ca prin ele să treacă cele șapte grupuri de exilați enumerate mai sus (Isaia 11:11) — din Asiria, Egipt și celelalte; doar exilații „de pe insulele mării” nu vin pe partea aceasta, de aceea numărul exact de șapte brațe corespunde celorlalte șapte surse ale exilului."
+      },
+      {
+       "t": " și îi va conduce [acolo] încălțați."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהֶחֱרִים יְהוָה אֵת לְשׁוֹן יָם־מִצְרַיִם וְהֵנִיף יָדוֹ עַל־הַנָּהָר בַּעְיַם רוּחוֹ וְהִכָּהוּ לְשִׁבְעָה נְחָלִים וְהִדְרִיךְ בַּנְּעָלִים׃",
+       "translation": "DOMNUL va seca limba Mării Egiptului și Își va ridica mâna peste Fluviul [Eufrat] cu puterea suflării Sale; îl va împărți în șapte pâraie și îi va conduce [acolo] încălțați. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐρημώσει Κύριος τὴν θάλασσαν Αἰγύπτου καὶ ἐπιβαλεῖ τὴν χεῖρα αὐτοῦ ἐπὶ τὸν ποταμὸν πνεύματι βιαίῳ καὶ πατάξει ἑπτὰ φάραγγας, ὥστε διαπορεύεσθαι αὐτὸν ἐν ὑποδήμασι·",
+       "greek": true,
+       "translation": "și Domnul va pustii marea Egiptului, și va pune mâna Sa peste fluviu cu duh puternic, și va lovi [formând] șapte văgăuni, așa încât [omul] să poată trece prin el încălțat;",
+       "note": "Corespondență apropiată cu Textul Masoretic, fără imaginea „limbii” mării egiptene (expresie ebraică pentru golful îngust al Nilului), redată simplu „marea Egiptului”."
+      }
+     ],
+     "refs": [
+      "Exodul 14:21",
+      "Zaharia 10:11"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și va seca” — ca să o usuce, pentru ca exilații lui Israel să poată trece prin ea din Egipt. „Peste fluviu” — fluviul Eufrat, pentru trecerea exilaților din Asiria. „În șapte pâraie” — în șapte brațe, pentru trecerea celor șapte grupuri de exilați pomenite mai sus [Isaia 11:11] — din Asiria și din Egipt și celelalte; iar cei din insulele mării nu vin dinspre partea aceasta."
+      }
+     ]
     },
     {
      "v": "11:16",
      "t": "Un drum va fi pentru rămășița poporului Său, care va fi rămas în Asiria, precum a fost pentru Israel în ziua în care a urcat din țara Egiptului.",
      "heb": "וְהָיְתָה מְסִלָּה לִשְׁאָר עַמּוֹ אֲשֶׁר יִשָּׁאֵר מֵאַשּׁוּר כַּאֲשֶׁר הָיְתָה לְיִשְׂרָאֵל בְּיוֹם עֲלֹתוֹ מֵאֶרֶץ מִצְרָיִם׃",
-     "translit": "Vehaita mesila lișear amo așer ișaer me'Așur kaașer haita le'Israel beiom aloto meeret Mițraim."
+     "translit": "Vehaita mesila lișear amo așer ișaer me'Așur kaașer haita le'Israel beiom aloto meeret Mițraim.",
+     "tokens": [
+      {
+       "t": "Un drum va fi pentru rămășița poporului Său, care va fi rămas în Asiria, precum a fost pentru Israel în ziua în care a urcat din țara Egiptului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיְתָה מְסִלָּה לִשְׁאָר עַמּוֹ אֲשֶׁר יִשָּׁאֵר מֵאַשּׁוּר כַּאֲשֶׁר הָיְתָה לְיִשְׂרָאֵל בְּיוֹם עֲלֹתוֹ מֵאֶרֶץ מִצְרָיִם׃",
+       "translation": "Un drum va fi pentru rămășița poporului Său, care va fi rămas în Asiria, precum a fost pentru Israel în ziua în care a urcat din țara Egiptului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔσται δίοδος τῷ καταλειφθέντι μου λαῷ ἐν Αἰγύπτῳ, καὶ ἔσται τῷ ᾿Ισραὴλ ὡς ἡ ἡμέρα ὅτε ἐξῆλθεν ἐκ γῆς Αἰγύπτου.",
+       "greek": true,
+       "translation": "și va fi o trecere pentru poporul Meu rămas în Egipt, și va fi pentru Israel ca ziua când a ieșit din țara Egiptului.",
+       "note": "Divergență reală de nume: Textul Masoretic spune că drumul va fi pentru rămășița poporului „care va rămâne din Asiria”; Septuaginta are „poporul rămas în Egipt” — o schimbare a numelui țării exilului, de la Asiria la Egipt, posibil prin asimilare cu finalul versetului, care vorbește despre ieșirea din Egipt."
+      }
+     ],
+     "refs": [
+      "Isaia 35:8-10",
+      "Exodul 14:26-29"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:1",
      "t": "Și vei spune în ziua aceea: „Îți mulțumesc, DOAMNE, căci erai mânios pe mine, dar Ți-ai îndepărtat mânia și m-ai mângâiat!",
      "heb": "וְאָמַרְתָּ בַּיּוֹם הַהוּא אוֹדְךָ יְהוָה כִּי אָנַפְתָּ בִּי יָשֹׁב אַפְּךָ וּתְנַחֲמֵנִי׃",
-     "translit": "Veamarta baiom hahu odeha ADONAI ki anafta bi iașov apha utenahameni."
+     "translit": "Veamarta baiom hahu odeha ADONAI ki anafta bi iașov apha utenahameni.",
+     "tokens": [
+      {
+       "t": "Și vei spune în ziua aceea: „"
+      },
+      {
+       "t": "Îți mulțumesc",
+       "w": "Îți mulțumesc",
+       "heb": "אוֹדְךָ",
+       "translit": "odha",
+       "strong": "H3034",
+       "pos": "verb, hifil imperfect + sufix",
+       "def_ro": "Îți mulțumesc, Te laud (odha).",
+       "dict_ro": "Radak explică structura versetului ca pe o recunoaștere justificată: pentru că ai fost mânios pe mine și m-ai dus în exil, iar acum Ți-ai întors mânia de la mine și m-ai mângâiat, de aceea se cuvine să-Ți aduc mulțumire, că nu m-ai lăsat în exil pe măsura deplină a păcatelor mele."
+      },
+      {
+       "t": ", DOAMNE, căci erai mânios pe mine, dar Ți-ai îndepărtat mânia și m-ai mângâiat!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאָמַרְתָּ בַּיּוֹם הַהוּא אוֹדְךָ יְהוָה כִּי אָנַפְתָּ בִּי יָשֹׁב אַפְּךָ וּתְנַחֲמֵנִי׃",
+       "translation": "Și vei spune în ziua aceea: „Îți mulțumesc, DOAMNE, căci erai mânios pe mine, dar Ți-ai îndepărtat mânia și m-ai mângâiat! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐρεῖς ἐν τῇ ἡμέρᾳ ἐκείνῃ· εὐλογήσω σε, Κύριε, διότι ὠργίσθης μοι καὶ ἀπέστρεψας τὸν θυμόν σου καὶ ἠλέησάς με.",
+       "greek": true,
+       "translation": "Și vei spune în ziua aceea: Te voi binecuvânta, Doamne, pentru că Te-ai mâniat pe mine, dar Ți-ai întors mânia și Te-ai milostivit de mine.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 25:9",
+      "Psalmul 30:5",
+      "Ieremia 31:18-20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Îți voi mulțumi, căci ai fost mânios pe mine” — și m-ai dus în exil, iar exilul meu a ispășit pentru mine; și acum vina mea e primită, și mânia Ta se va întoarce și mă vei mângâia. Ionatan tălmăcește: «Îți voi mulțumi, Doamne, căci am păcătuit înaintea Ta, și de aceea Te-ai mâniat pe mine, și de n-ar fi fost îndurările Tale n-aș fi fost vrednic să-Ți întorci mânia și să mă mângâi; și iată mânia Ta s-a întors de la mine.»"
+      }
+     ]
     },
     {
      "v": "12:2",
      "t": "Iată, Dumnezeu este salvarea mea, voi crede și nu mă voi teme, căci Dumnezeu este puterea mea și lauda mea, DOMNUL, și El mi-a fost salvare.",
      "heb": "הִנֵּה אֵל יְשׁוּעָתִי אֶבְטַח וְלֹא אֶפְחָד כִּי־עָזִּי וְזִמְרָת יָהּ יְהוָה וַיְהִי־לִי לִישׁוּעָה׃",
-     "translit": "Hine El ieșuati evtah velo efhad ki-ozi vezimrat Ia ADONAI vaihi-li lișua."
+     "translit": "Hine El ieșuati evtah velo efhad ki-ozi vezimrat Ia ADONAI vaihi-li lișua.",
+     "tokens": [
+      {
+       "t": "Iată, Dumnezeu este salvarea mea, voi crede și nu mă voi teme, căci Dumnezeu este "
+      },
+      {
+       "t": "puterea mea și lauda mea",
+       "w": "puterea mea și lauda mea",
+       "heb": "עָזִּי וְזִמְרָת",
+       "translit": "azi vezimrat",
+       "strong": "H2176",
+       "pos": "substantiv, masculin singular construct + sufix + substantiv, feminin singular",
+       "def_ro": "puterea mea și lauda mea (azi vezimrat).",
+       "dict_ro": "Rashi dezbate o dificultate gramaticală fină: unii ar citi „ozi” (puterea mea) ca posesiv obișnuit, dar forma „azi” nu apare nicăieri altundeva în Scriptură cu acest vocalism decât alături de „vezimrat”, ca aici, în Exodul 15:2 și Psalmul 118:14 — de unde conchide că acest cuvânt e strâns legat gramatical de cel următor, ambele împreună alcătuind expresia de laudă adusă lui Dumnezeu."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "DOMNUL, și El mi-a fost salvare",
+       "w": "DOMNUL, și El mi-a fost salvare",
+       "heb": "יְהוָה לִישׁוּעָה",
+       "translit": "Adonai lișua",
+       "strong": "H3444",
+       "pos": "nume propriu + substantiv, feminin singular",
+       "def_ro": "DOMNUL, și El mi-a fost salvare (Adonai vaiehi li lișua).",
+       "dict_ro": "Rashi observă construcția gramaticală neobișnuită „și El mi-a fost întru salvare” în loc de forma directă „a fost pentru mine salvare”, pe care o aseamănă cu alte locuri biblice unde ordinea verbului precedă neobișnuit subiectul, ca în Exodul 9:21 și 2 Cronici 10:17.",
+       "greek": "καὶ ἐγένετό μοι εἰς σωτηρίαν (kai egeneto moi eis soterian)",
+       "greek_def_ro": "καὶ ἐγένετό μοι εἰς σωτηρίαν (kai egeneto moi eis soterian) — și El mi-a fost întru salvare",
+       "diff_ro": "Corespondență strânsă cu Textul Masoretic — unul dintre puținele versete ale capitolului tradus aproape cuvânt cu cuvânt în Septuaginta, fără schimbare de imagine sau conținut."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הִנֵּה אֵל יְשׁוּעָתִי אֶבְטַח וְלֹא אֶפְחָד כִּי־עָזִּי וְזִמְרָת יָהּ יְהוָה וַיְהִי־לִי לִישׁוּעָה׃",
+       "translation": "Iată, Dumnezeu este salvarea mea, voi crede și nu mă voi teme, căci Dumnezeu este puterea mea și lauda mea, DOMNUL, și El mi-a fost salvare. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἰδοὺ ὁ Θεός μου σωτήρ μου Κύριος, πεποιθὼς ἔσομαι ἐπ᾿ αὐτῷ καὶ σωθήσομαι ἐν αὐτῷ καὶ οὐ φοβηθήσομαι, διότι ἡ δόξα μου καὶ ἡ αἴνεσίς μου Κύριος καὶ ἐγένετό μοι εἰς σωτηρίαν.",
+       "greek": true,
+       "translation": "Iată, Dumnezeul meu, mântuitorul meu, este Domnul; mă voi încrede în El și voi fi mântuit prin El, și nu mă voi teme, căci slava mea și lauda mea este Domnul, și El mi-a fost întru mântuire.",
+       "note": "Corespondență strânsă cu Textul Masoretic — unul dintre cele mai apropiate versete ale capitolului, tradus aproape cuvânt cu cuvânt."
+      }
+     ],
+     "refs": [
+      "Exodul 15:2",
+      "Psalmul 118:14"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Puterea mea și lauda mea DOAMNE, DUMNEZEU” — până aici Numele Lui era despărțit [incomplet], dar la căderea lui Amalec a devenit deplin, cum se spune: «căci mâna e pe tronul lui Iah» [Exodul 17:16] — tronul nu e deplin și Numele nu e deplin până nu va fi război al Domnului împotriva lui Amalec."
+      }
+     ]
     },
     {
      "v": "12:3",
      "t": "Și puteți scoate apă cu bucurie din izvoarele salvării.”",
      "heb": "וּשְׁאַבְתֶּם־מַיִם בְּשָׂשׂוֹן מִמַּעַיְנֵי הַיְשׁוּעָה׃",
-     "translit": "Ușavtem-maim besason mimaainei haieșua."
+     "translit": "Ușavtem-maim besason mimaainei haieșua.",
+     "tokens": [
+      {
+       "t": "Și puteți scoate apă cu bucurie din "
+      },
+      {
+       "t": "izvoarele salvării",
+       "w": "izvoarele salvării",
+       "heb": "מִמַּעַיְנֵי הַיְשׁוּעָה",
+       "translit": "mimaainē haișua",
+       "strong": "H3444",
+       "pos": "substantiv, masculin plural construct + substantiv, feminin singular",
+       "def_ro": "izvoarele salvării/mântuirii (mimaainē haișua).",
+       "dict_ro": "Rashi citește imaginea apei ca pe o metaforă a înțelegerii spirituale redobândite: izvorul din care se scoate apă nu seacă niciodată, și tot așa, prin izbăvirea care va veni, li se vor descoperi lui Israel tainele Torei, uitate în captivitatea babiloniană din pricina necazurilor."
+      },
+      {
+       "t": ".”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּשְׁאַבְתֶּם־מַיִם בְּשָׂשׂוֹן מִמַּעַיְנֵי הַיְשׁוּעָה׃",
+       "translation": "Și puteți scoate apă cu bucurie din izvoarele salvării.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀντλήσατε ὕδωρ μετ᾿ εὐφροσύνης ἐκ τῶν πηγῶν τοῦ σωτηρίου.",
+       "greek": true,
+       "translation": "și scoateți apă cu veselie din izvoarele mântuirii.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ioan 7:37-39"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și veți scoate [apă]” — «și veți primi învățătură nouă» [tălmăcire Ionatan]. „Din izvoarele salvării” — pentru că [Domnul] va lărgi inima lor prin izbăvirea ce va veni asupra lor, și li se vor descoperi tainele Torei care fuseseră uitate în Babilon din pricina necazurilor."
+      }
+     ]
     },
     {
      "v": "12:4",
      "t": "Și veți spune în ziua aceea: „Mulțumiți-I DOMNULUI, proclamați numele Său, faceți cunoscute faptele Sale printre popoare! Aduceți-vă aminte unii altora că numele Său este puternic.",
      "heb": "וַאֲמַרְתֶּם בַּיּוֹם הַהוּא הוֹדוּ לַיהוָה קִרְאוּ בִשְׁמוֹ הוֹדִיעוּ בָעַמִּים עֲלִילֹתָיו הַזְכִּירוּ כִּי נִשְׂגָּב שְׁמוֹ׃",
-     "translit": "Vaamartem baiom hahu hodu l'ADONAI kiru vișmo hodiu vaamim alilotav hazkiru ki nisgav șemo."
+     "translit": "Vaamartem baiom hahu hodu l'ADONAI kiru vișmo hodiu vaamim alilotav hazkiru ki nisgav șemo.",
+     "tokens": [
+      {
+       "t": "Și veți spune în ziua aceea: „Mulțumiți-I DOMNULUI, proclamați numele Său, faceți cunoscute faptele Sale printre popoare! Aduceți-vă aminte unii altora că numele Său este puternic."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַאֲמַרְתֶּם בַּיּוֹם הַהוּא הוֹדוּ לַיהוָה קִרְאוּ בִשְׁמוֹ הוֹדִיעוּ בָעַמִּים עֲלִילֹתָיו הַזְכִּירוּ כִּי נִשְׂגָּב שְׁמוֹ׃",
+       "translation": "Și veți spune în ziua aceea: „Mulțumiți-I DOMNULUI, proclamați numele Său, faceți cunoscute faptele Sale printre popoare! Aduceți-vă aminte unii altora că numele Său este puternic. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐρεῖς ἐν τῇ ἡμέρᾳ ἐκείνῃ· ὑμνεῖτε Κύριον, βοᾶτε τὸ ὄνομα αὐτοῦ, ἀναγγείλατε ἐν τοῖς ἔθνεσι τὰ ἔνδοξα αὐτοῦ, μιμνήσκεσθε, ὅτι ὑψώθη τὸ ὄνομα αὐτοῦ.",
+       "greek": true,
+       "translation": "și vei spune în ziua aceea: cântați Domnului, strigați numele Lui, vestiți printre neamuri lucrările Lui slăvite, aduceți-vă aminte, că s-a înălțat numele Lui.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 105:1",
+      "1 Cronici 16:8"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:5",
      "t": "Cântați DOMNULUI, căci El a făcut măreție, faceți cunoscut aceasta în toată lumea!",
      "heb": "זַמְּרוּ יְהוָה כִּי גֵאוּת עָשָׂה מוּדַעַת זֹאת בְּכָל־הָאָרֶץ׃",
-     "translit": "Zamru ADONAI ki gheut asa mudaat zot behol-haareț."
+     "translit": "Zamru ADONAI ki gheut asa mudaat zot behol-haareț.",
+     "tokens": [
+      {
+       "t": "Cântați DOMNULUI, căci El a făcut măreție, faceți cunoscut aceasta în toată lumea!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "זַמְּרוּ יְהוָה כִּי גֵאוּת עָשָׂה מוּדַעַת זֹאת בְּכָל־הָאָרֶץ׃",
+       "translation": "Cântați DOMNULUI, căci El a făcut măreție, faceți cunoscut aceasta în toată lumea! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὑμνήσατε τὸ ὄνομα Κυρίου, ὅτι ὑψηλὰ ἐποίησεν· ἀναγγείλατε ταῦτα ἐν πάση τῇ γῇ.",
+       "greek": true,
+       "translation": "Cântați numele Domnului, căci a făcut lucruri înalte; vestiți acestea în tot pământul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 15:1",
+      "Psalmul 98:1"
+     ],
+     "commentaries": []
     },
     {
      "v": "12:6",
      "t": "Strigă și cântă de bucurie, locuitor al Ționului, căci mare este în sânul tău Sfântul lui Israel!",
      "heb": "צַהֲלִי וָרֹנִּי יוֹשֶׁבֶת צִיּוֹן כִּי־גָדוֹל בְּקִרְבֵּךְ קְדוֹשׁ יִשְׂרָאֵל׃",
-     "translit": "Țahali varoni ioșevet Țion ki-gadol bekirbeh kedoș Israel."
+     "translit": "Țahali varoni ioșevet Țion ki-gadol bekirbeh kedoș Israel.",
+     "tokens": [
+      {
+       "t": "Strigă și cântă de bucurie, locuitor al Ționului, căci mare este în sânul tău "
+      },
+      {
+       "t": "Sfântul lui Israel",
+       "w": "Sfântul lui Israel",
+       "heb": "קְדוֹשׁ יִשְׂרָאֵל",
+       "translit": "kedoș israēl",
+       "strong": "H3478",
+       "pos": "adjectiv, masculin singular + nume propriu",
+       "def_ro": "Sfântul lui Israel (kedoș israēl).",
+       "dict_ro": "Radak leagă acest ultim verset de finalul profetic al lui Ezechiel despre Gog și Magog: după cum atunci Domnul Se va preamări și Se va sfinți în ochii multor neamuri, tot așa aici i se cere Ționului să strige de bucurie, pentru că Sfântul lui Israel — mare și slăvit prin minunile Sale — Se află în mijlocul lui."
+      },
+      {
+       "t": "!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "צַהֲלִי וָרֹנִּי יוֹשֶׁבֶת צִיּוֹן כִּי־גָדוֹל בְּקִרְבֵּךְ קְדוֹשׁ יִשְׂרָאֵל׃",
+       "translation": "Strigă și cântă de bucurie, locuitor al Ționului, căci mare este în sânul tău Sfântul lui Israel! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἀγαλλιᾶσθε καὶ εὐφραίνεσθε, οἱ κατοικοῦντες Σιών, ὅτι ὑψώθη ὁ ἅγιος τοῦ ᾿Ισραὴλ ἐν μέσῳ αὐτῆς.",
+       "greek": true,
+       "translation": "Bucurați-vă și veseliți-vă, cei ce locuiți în Sion, căci S-a înălțat Sfântul lui Israel în mijlocul ei.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 40:9",
+      "Țefania 3:14-17"
+     ],
+     "commentaries": []
     }
    ]
   },
