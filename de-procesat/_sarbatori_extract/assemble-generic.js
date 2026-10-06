@@ -47,6 +47,7 @@ const chNum = ch.num;
 const newVerses = ch.verses.map(v => {
   const d = byV[v.v];
   if (!d) { errs.push(v.v + ': lipsește din ' + dataFile); return v; }
+  if (d.skip) return Object.assign({}, v, { tokens: [{t: v.t}], textCompare: [], commentaries: (extra.C[v.v] && extra.C[v.v].comm) || [], refs: d.refs || [] });
   const mapEntry = MAP[chNum + '|' + v.v];
   if (!mapEntry) { errs.push(v.v + ': fara mapare OSIS'); return v; }
 

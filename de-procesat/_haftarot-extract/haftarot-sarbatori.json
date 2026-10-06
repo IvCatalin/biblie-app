@@ -15895,127 +15895,852 @@
      "v": "2:20",
      "t": "DOMNUL este în Sălașul Său cel sfânt. Tot pământul să amuțească înaintea Lui!",
      "heb": "וַיהוָה בְּהֵיכַל קָדְשׁוֹ הַס מִפָּנָיו כָּל־הָאָרֶץ׃",
-     "translit": "V'ADONAI beheikhal kodșo has mipanav kol-haareț."
+     "translit": "V'ADONAI beheikhal kodșo has mipanav kol-haareț.",
+     "tokens": [
+      {
+       "t": "DOMNUL este în Sălașul Său cel sfânt. Tot pământul "
+      },
+      {
+       "t": "să amuțească",
+       "w": "să amuțească",
+       "heb": "הַס",
+       "translit": "has",
+       "strong": "H2013",
+       "pos": "interjecție",
+       "def_ro": "să amuțească, să tacă (has).",
+       "dict_ro": "Rashi explică dubla nuanță a cuvântului „has”: pe de o parte, limbă de tăcere impusă („gata să-și ceară dreptate”), iar pe de alta, limbă de amuțire/doliu a nimicirii — Domnul fiind pregătit să Se răzbune pe vrăjmașii Lui, tot pământul trebuie să tacă, înfricoșat, înaintea Lui."
+      },
+      {
+       "t": " înaintea Lui!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיהוָה בְּהֵיכַל קָדְשׁוֹ הַס מִפָּנָיו כָּל־הָאָרֶץ׃",
+       "translation": "DOMNUL este în Sălașul Său cel sfânt. Tot pământul să amuțească înaintea Lui! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὁ δὲ Κύριος ἐν ναῷ ἁγίῳ αὐτοῦ· εὐλαβείσθω ἀπὸ προσώπου αὐτοῦ πᾶσα ἡ γῆ.",
+       "greek": true,
+       "translation": "Dar Domnul [este] în templul Lui cel sfânt; să se cutremure înaintea feței Lui tot pământul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Psalmul 11:4",
+      "Psalmul 46:10",
+      "Țefania 1:7"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„DOMNUL este în Sălașul Său cel sfânt” — pregătit să [se] răzbune. „Să amuțească tot pământul înaintea Lui” — „has” e termen de tăcere și de amuțire a nimicirii [doliu]."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Nu tot așa e cu Domnul, căci El e Cel care dă duh în tot trupul, și măcar că este în Sălașul Lui cel sfânt — care e cerul — toți locuitorii pământului se tem înaintea Lui, căci El e Cel care veghează asupra lor și vede toate faptele lor, cum s-a spus «din ceruri a privit Domnul, a văzut pe toți fiii oamenilor»."
+      }
+     ]
     },
     {
      "v": "3:1",
      "t": "O rugăciune a profetului Habacuc, pentru rosturile greșite.",
      "heb": "תְּפִלָּה לַחֲבַקּוּק הַנָּבִיא עַל שִׁגְיֹנוֹת׃",
-     "translit": "Tefila la'Havakuk hanavi al șighionot."
+     "translit": "Tefila la'Havakuk hanavi al șighionot.",
+     "tokens": [
+      {
+       "t": "O rugăciune a profetului Habacuc, "
+      },
+      {
+       "t": "pentru rosturile greșite",
+       "w": "pentru rosturile greșite",
+       "heb": "שִׁגְיֹנוֹת",
+       "translit": "șigionot",
+       "strong": "H7692",
+       "pos": "nume propriu",
+       "def_ro": "pentru greșeli/rătăciri (al șigionot).",
+       "dict_ro": "Rashi explică: unii citesc cuvântul ca în traducerea aramaică [simplu titlu muzical], dar după sensul lui propriu, profetul cere îndurare pentru sine, pentru că a vorbit cuvinte necumpătate [în capitolul 1, contestând dreptatea divină] — „de aceea slăbește Tora” — și a cârtit împotriva felului în care lucrează dreptatea divină."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "תְּפִלָּה לַחֲבַקּוּק הַנָּבִיא עַל שִׁגְיֹנוֹת׃",
+       "translation": "O rugăciune a profetului Habacuc, pentru rosturile greșite. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Προσευχὴ ᾿Αμβακοὺμ τοῦ προφήτου μετὰ ᾠδῆς. - ΚΥΡΙΕ, εἰσακήκοα τὴν ἀκοήν σου καὶ ἐφοβήθην·",
+       "greek": true,
+       "translation": "Rugăciunea lui Amvacum profetul, cu cântare. — Doamne, am ascultat vestea Ta și m-am temut;",
+       "note": "Divergență de structură: Septuaginta absoarbe deja, în versetul ei 1, prima clauză a versetului ebraic 2 („Doamne, am auzit veștile Tale și m-am temut”) — versetul ebraic 1 fiind doar titlul tehnic al rugăciunii, fără acest conținut."
+      }
+     ],
+     "refs": [
+      "Psalmul 7:1",
+      "Psalmul 90:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Pentru șigionot” — unii îl tâlcuiesc ca în traducerea aramaică; dar, după cum se înțelege din context, [profetul] a cerut îndurare pentru sine, pentru că a vorbit cuvinte necumpătate, ca «de aceea slăbește Tora» [Habacuc 1:4] — a cârtit împotriva felului de judecată [al lui Dumnezeu]."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Pentru șigionot” — adică rugăciunea lui a fost făcută pentru că a greșit și s-a plâns împotriva Domnului, și de aceea s-a întors să se roage înaintea Lui și să-I spună lauda."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Această rugăciune e alcătuită pe calea unui psalm din Psalmi, de aceea spune „pentru șigionot”, ca „șigion al lui David” [Psalmul 7], și spune „Dirijorului, cu cântările mele”, și tot aici se folosește cuvântul „sela”, cuvânt care nu se găsește în toată Scriptura decât în această rugăciune și în cartea Psalmilor. Rugăciunea e despre necazul lui Israel în acest exil, povestind minunile și vitejiile pe care Dumnezeu le-a făcut pentru Israel din ziua când i-a izbăvit din Egipt, și se roagă, în chip profetic, ca tot așa să facă cu ei în acest exil, la ieșirea din exil și în războiul lui Gog și Magog."
+      }
+     ]
     },
     {
      "v": "yetiv_pitgam",
      "t": "Este sigur că lauda noastră pentru Dumnezeu este doar un semn și o mostră a ceea ce-i rostit de miriadele de îngeri. Voi proclama slava Lui printre triburile numărate, înscrise pe patru rânduri [pe pieptarul Marelui Preot]. Înaintea Lui, printre apele Paradisului, curge la vale un râu de foc. Pe un munte înzăpezit este o lumină orbitoare și străfulgerări de foc arzător. El a creat și vede ceea ce este învăluit în întuneric, căci esența luminii sălășluiește în El. El vede de departe fără opreliște, lucruri ascunse Îi sunt vizibile. Cer voie de la El mai întâi, și apoi de la popor, de la cei care cunosc Legea, Mișna, Tosefta, Sifra și Sifri. Regele veșnic viu, El să apere [pricina] poporului care se roagă la El! Spuneți-le: „Să fie precum nisipul și nenumărați ca pulberea! Fie văile lor acoperite de roade albe precum oile, pivnițele lor să se reverse de vin!” Împlinește-le dorința, fețele lor să lucească cu o strălucire ca lumina zorilor! Dă-mi putere și ridică-Ți ochiul ca să-l vezi pe dușmanul care Te respinge. Să fie ca paiele amestecate în cărămizi, muți de rușine ca o stâncă și umiliți. Dumnezeu a dăruit [Legea lui Moise, care a fost] culmea modestiei – așadar, haideți să-L slăvim cu laude!",
      "heb": "",
-     "translit": "Iețiv pitgam, leat udegham, beribo rivevan irin. ... Iehonatan, ghevar invetan, behen le namtei afrin."
+     "translit": "Iețiv pitgam, leat udegham, beribo rivevan irin. ... Iehonatan, ghevar invetan, behen le namtei afrin.",
+     "tokens": [
+      {
+       "t": "Este sigur că lauda noastră pentru Dumnezeu este doar un semn și o mostră a ceea ce-i rostit de miriadele de îngeri. Voi proclama slava Lui printre triburile numărate, înscrise pe patru rânduri [pe pieptarul Marelui Preot]. Înaintea Lui, printre apele Paradisului, curge la vale un râu de foc. Pe un munte înzăpezit este o lumină orbitoare și străfulgerări de foc arzător. El a creat și vede ceea ce este învăluit în întuneric, căci esența luminii sălășluiește în El. El vede de departe fără opreliște, lucruri ascunse Îi sunt vizibile. Cer voie de la El mai întâi, și apoi de la popor, de la cei care cunosc Legea, Mișna, Tosefta, Sifra și Sifri. Regele veșnic viu, El să apere [pricina] poporului care se roagă la El! Spuneți-le: „Să fie precum nisipul și nenumărați ca pulberea! Fie văile lor acoperite de roade albe precum oile, pivnițele lor să se reverse de vin!” Împlinește-le dorința, fețele lor să lucească cu o strălucire ca lumina zorilor! Dă-mi putere și ridică-Ți ochiul ca să-l vezi pe dușmanul care Te respinge. Să fie ca paiele amestecate în cărămizi, muți de rușine ca o stâncă și umiliți. Dumnezeu a dăruit [Legea lui Moise, care a fost] culmea modestiei – așadar, haideți să-L slăvim cu laude!"
+      }
+     ],
+     "textCompare": [],
+     "commentaries": [],
+     "refs": []
     },
     {
      "v": "3:2",
      "t": "DOAMNE, am auzit veștile Tale și m-am temut. DOAMNE, în anii aceia, ține-Ți creațiile în viață; în anii aceia, fă-le cunoscute. La mânie, adu-Ți aminte de îndurare!",
      "heb": "יְהוָה שָׁמַעְתִּי שִׁמְעֲךָ יָרֵאתִי יְהוָה פָּעָלְךָ בְּקֶרֶב שָׁנִים חַיֵּיהוּ בְּקֶרֶב שָׁנִים תּוֹדִיעַ בְּרֹגֶז רַחֵם תִּזְכּוֹר׃",
-     "translit": "ADONAI șamati șimaha iareiti ADONAI paolha bekerev șanim haieihu bekerev șanim todia beroghez rahem tizkor."
+     "translit": "ADONAI șamati șimaha iareiti ADONAI paolha bekerev șanim haieihu bekerev șanim todia beroghez rahem tizkor.",
+     "tokens": [
+      {
+       "t": "DOAMNE, am auzit veștile Tale și m-am temut. DOAMNE, în anii aceia, ține-Ți creațiile în viață; în anii aceia, fă-le cunoscute. "
+      },
+      {
+       "t": "La mânie, adu-Ți aminte de îndurare",
+       "w": "La mânie, adu-Ți aminte de îndurare",
+       "heb": "בְּרֹגֶז רַחֵם תִּזְכּוֹר",
+       "translit": "berogez rahēm tizkor",
+       "strong": "H2142",
+       "pos": "substantiv, masculin singular + verb, piel infinitiv absolut + verb, qal jusiv",
+       "def_ro": "la mânie, adu-Ți aminte să ai milă (berogez rahem tizkor).",
+       "dict_ro": "Radak explică: în vremea mâniei și a urgiei — care este vremea exilului — adu-Ți aminte de dragostea față de părinții [poporului], cum s-a spus „și-mi voi aduce aminte de legământul celor dinainte” (Leviticul 26:45); pe cale de midraș, se citește „rahem” ca anagramă numerică cu „Avraham”, însemnând: adu-Ți aminte de legământul lui Avraham."
+      },
+      {
+       "t": "!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יְהוָה שָׁמַעְתִּי שִׁמְעֲךָ יָרֵאתִי יְהוָה פָּעָלְךָ בְּקֶרֶב שָׁנִים חַיֵּיהוּ בְּקֶרֶב שָׁנִים תּוֹדִיעַ בְּרֹגֶז רַחֵם תִּזְכּוֹר׃",
+       "translation": "DOAMNE, am auzit veștile Tale și m-am temut. DOAMNE, în anii aceia, ține-Ți creațiile în viață; în anii aceia, fă-le cunoscute. La mânie, adu-Ți aminte de îndurare! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Κύριε, κατενόησα τὰ ἔργα σου καὶ ἐξέστην. ἐν μέσῳ δύο ζῴων γνωσθήσῃ, ἐν τῷ ἐγγίζειν τὰ ἔτη ἐπιγνωσθήσῃ, ἐν τῷ παρεῖναι τὸν καιρὸν ἀναδειχθήσῃ, ἐν τῷ ταραχθῆναι τὴν ψυχήν μου, ἐν ὀργῇ ἐλέους μνησθήσῃ.",
+       "greek": true,
+       "translation": "Doamne, am priceput lucrările Tale și m-am înspăimântat. În mijlocul a două viețuitoare vei fi cunoscut, când se vor apropia anii vei fi recunoscut, când va veni vremea Te vei arăta, când se va tulbura sufletul meu, în mânie Îți vei aduce aminte de milă.",
+       "note": "Divergență majoră și celebră: Septuaginta adaugă aici fraza „în mijlocul a două viețuitoare vei fi cunoscut” — o propoziție fără niciun corespondent în Textul Masoretic, unde versetul vorbește doar despre „lucrarea Ta, în mijlocul anilor” (posibilă confuzie de citire a ebraicului „bekerev șanim”, „în mijlocul anilor”, cu o expresie apropiată fonetic referitoare la viețuitoare/cherubini). Fraza a avut o influență ulterioară considerabilă în tradiția creștină de citire a textului."
+      }
+     ],
+     "refs": [
+      "Ezra 9:8",
+      "Psalmul 85:6",
+      "Ieremia 10:24"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Am auzit veștile Tale și m-am temut” — [spun] că din veac Te-ai răzbunat mereu pe cei care Te-au mâniat, dar pe acest nelegiuit [actual] îl rabzi. „M-am temut” — am zis: cum s-a schimbat felul judecății din pricina păcatului lui Israel? „Lucrarea Ta, în mijlocul anilor, ține-o în viață” — lucrarea Ta cea dintâi, prin care ne-ai răzbunat de vrăjmașii noștri, în mijlocul anilor de necaz în care ne aflăm, adu-o la viață, trezește-o și întoarce-o, și în acești ani s-o faci cunoscută. „La mânie” — ca să Te mânii pe cei răi. „Adu-Ți aminte de îndurare” — adu-Ți aminte să ai milă de Israel."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Am auzit cuvântul profeției spunându-mi exilul cel lung care va fi pentru Israel în viitor, și m-am temut: cum va putea să stea atâția ani în mijlocul vrăjmașilor lui? De aceea mă rog înaintea Ta și zic: lucrarea Ta [Israel, pe care Tu l-ai lucrat] — ține-o în viață în mijlocul acestor ani lungi [de exil], ca să nu piară în mijlocul vrăjmașilor lui."
+      }
+     ]
     },
     {
      "v": "3:3",
      "t": "Dumnezeu va veni de la miazăzi și Cel Sfânt de la Muntele Paran, sela! Gloria Sa a acoperit cerurile și slava Sa a umplut pământul.",
      "heb": "אֱלוֹהַּ מִתֵּימָן יָבוֹא וְקָדוֹשׁ מֵהַר־פָּארָן סֶלָה כִּסָּה שָׁמַיִם הוֹדוֹ וּתְהִלָּתוֹ מָלְאָה הָאָרֶץ׃",
-     "translit": "Eloah miteiman iavo vekadoș mehar-Paran sela kisa șamaim hodo utehilato maleá haareț."
+     "translit": "Eloah miteiman iavo vekadoș mehar-Paran sela kisa șamaim hodo utehilato maleá haareț.",
+     "tokens": [
+      {
+       "t": "Dumnezeu va veni de la miazăzi și Cel Sfânt "
+      },
+      {
+       "t": "de la Muntele Paran",
+       "w": "de la Muntele Paran",
+       "heb": "מֵהַר פָּארָן",
+       "translit": "mēhar paran",
+       "strong": "H6290",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "de la Muntele Paran (meHar Paran).",
+       "dict_ro": "Rashi explică dubla aluzie geografică: „Teman” e Esau, „Paran” e Ismael — [Dumnezeu] amintește aici cum, înainte de a da Tora la Sinai, a oferit-o mai întâi urmașilor lui Esau și Ismael, și ei n-au primit-o; abia apoi a venit la Israel, la Sinai, unde slava Lui a acoperit cerurile."
+      },
+      {
+       "t": ", sela! Gloria Sa a acoperit cerurile și slava Sa a umplut pământul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אֱלוֹהַּ מִתֵּימָן יָבוֹא וְקָדוֹשׁ מֵהַר־פָּארָן סֶלָה כִּסָּה שָׁמַיִם הוֹדוֹ וּתְהִלָּתוֹ מָלְאָה הָאָרֶץ׃",
+       "translation": "Dumnezeu va veni de la miazăzi și Cel Sfânt de la Muntele Paran, sela! Gloria Sa a acoperit cerurile și slava Sa a umplut pământul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὁ Θεὸς ἀπὸ Θαιμὰν ἥξει, καὶ ὁ ἅγιος ἐξ ὄρους κατασκίου δασέος. (διάψαλμα). ἐκάλυψεν οὐρανοὺς ἡ ἀρετὴ αὐτοῦ, καὶ αἰνέσεως αὐτοῦ πλήρης ἡ γῆ.",
+       "greek": true,
+       "translation": "Dumnezeu va veni de la Teman, și Cel Sfânt din muntele cel umbros și des [cu păduri]. (interludiu muzical). Vrednicia Lui a acoperit cerurile, și lauda Lui a umplut pământul.",
+       "note": "Divergență reală: Septuaginta omite complet numele propriu „Paran”, înlocuindu-l cu o descriere generică — „muntele cel umbros și des” — posibil o traducere etimologică liberă a numelui, nu o transliterare a lui."
+      }
+     ],
+     "refs": [
+      "Geneza 21:21",
+      "Deuteronomul 33:2",
+      "Exodul 19:16-20"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Dumnezeu va veni de la Teman” — acum [profetul] Îi aduce aminte de lucrarea Lui cea dintâi, pe care o cere să fie trezită [din nou] — dragostea lui Israel și pedepsirea generațiilor vechi. Când ai venit să dai Tora, ai trecut mai întâi pe la Esau și Ismael, și ei n-au primit-o. „Teman” — Esau. „Paran” — Ismael, cum se spune «și a locuit în pustiul Paran» [Geneza 21:21]. „Gloria Sa a acoperit cerurile” — la Sinai, pentru Israel."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Acum povestește măririle și minunile pe care Dumnezeu le-a arătat lui Israel în pustie, ca să facă pentru ei la fel la ieșirea din exil — mai întâi când le-a dat Tora, cum se spune în Tora «și a răsărit din Seir pentru ei» [Deuteronomul 33:2], căci Teman este Seir; și la fel „din Muntele Paran”, cum se spune [acolo] «S-a arătat din Muntele Paran». „Gloria Sa a acoperit cerurile” — acestea sunt torțele văzute în ziua dăruirii Torei, care luminau cerul și pământul."
+      }
+     ]
     },
     {
      "v": "3:4",
      "t": "Strălucirea Sa este ca lumina și din mâna Sa vine mândrie, puterea Sa ascunsă este acolo.",
      "heb": "וְנֹגַהּ כָּאוֹר תִּהְיֶה קַרְנַיִם מִיָּדוֹ לוֹ וְשָׁם חֶבְיוֹן עֻזֹּה׃",
-     "translit": "Venoga kaor tihie karnaiim miado lo veșam hevion uzo."
+     "translit": "Venoga kaor tihie karnaiim miado lo veșam hevion uzo.",
+     "tokens": [
+      {
+       "t": "Strălucirea Sa este ca lumina și din mâna Sa vine mândrie, "
+      },
+      {
+       "t": "puterea Sa ascunsă",
+       "w": "puterea Sa ascunsă",
+       "heb": "חֶבְיוֹן עֻזֹּה",
+       "translit": "hevion uzo",
+       "strong": "H5797",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + sufix",
+       "def_ro": "puterea/tăria Lui ascunsă (hevion uzo).",
+       "dict_ro": "Rashi, urmând traducerea aramaică: „acolo s-a descoperit tăria Lui, care fusese ținută ascunsă mai înainte, într-un loc tainic, în înălțime”. Unii înțelepți citesc versetul despre Chivotul Legământului, numit în alt loc „tăria Ta” (Psalmul 132:8), în care erau ascunse Tablele Legii."
+      },
+      {
+       "t": " este acolo."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנֹגַהּ כָּאוֹר תִּהְיֶה קַרְנַיִם מִיָּדוֹ לוֹ וְשָׁם חֶבְיוֹן עֻזֹּה׃",
+       "translation": "Strălucirea Sa este ca lumina și din mâna Sa vine mândrie, puterea Sa ascunsă este acolo. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ φέγγος αὐτοῦ ὡς φῶς ἔσται, κέρατα ἐν χερσὶν αὐτοῦ, καὶ ἔθετο ἀγάπησιν κραταιὰν ἰσχύος αὐτοῦ.",
+       "greek": true,
+       "translation": "și lumina Lui va fi ca lumina, coarne [sunt] în mâinile Lui, și a pus o dragoste puternică a tăriei Sale.",
+       "note": "Divergență dublă: Septuaginta traduce „karnaim” literal prin „coarne” (κέρατα), nu prin „raze” cum cere imaginea de lumină a versetului; iar finalul versetului diferă substanțial de Textul Masoretic („puterea Sa ascunsă e acolo”), Septuaginta având în loc „a pus o dragoste puternică a tăriei Sale” — un conținut aproape fără legătură cu originalul ebraic."
+      }
+     ],
+     "refs": [
+      "Exodul 34:29",
+      "Psalmul 104:2"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și strălucirea” — în ziua aceea. „Ca lumina va fi” — ca lumina cea deosebită a celor șapte zile ale creației, așa a fost, așa a tălmăcit și Ionatan. „Raze” [karnaim] — termen de „lumină”: când [lumina] pătrunde și strălucește printr-o deschizătură, pare un fel de raze proeminente, cum se spune «căci strălucea [karan] pielea feței lui» [Exodul 34:29]. „Din mâna Sa” — veneau pentru ei din mâna Celui Sfânt. „Și acolo puterea Lui ascunsă” — după cum tălmăcește: acolo s-a descoperit puterea Lui care fusese ascunsă mai înainte, într-un loc tainic, în înălțime."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și strălucirea, ca lumina va fi” — acesta e ceea ce s-a spus în Tora «și înfățișarea slavei Domnului era ca un foc mistuitor în vârful muntelui». „Raze din mâna Lui, pentru El” — acesta e faptul că fața lui Moise strălucea, adică acea strălucire venea de la Dumnezeu pentru Moise. Unii tălmăcesc „raze” despre cele două Table date lui Moise, care străluceau văzute și nevăzute. „Și acolo puterea Lui ascunsă” — acolo, la Sinai, s-a descoperit ce fusese ascuns de la puterea Lui până în ziua aceea, căci nu a fost zi ca aceea, înainte sau după, în care Dumnezeu să Se descopere în slava Lui cea mare pe Muntele Sinai, înaintea ochilor întregului Israel. Alții tâlcuiesc „puterea Lui ascunsă” despre Chivot, cum se spune despre el «Tu și Chivotul puterii Tale», și acolo erau tainele Tablelor."
+      }
+     ]
     },
     {
      "v": "3:5",
      "t": "Înaintea ei a venit o molimă, și fulgere înfocate au ieșit când avansa.",
      "heb": "לְפָנָיו יֵלֶךְ דָּבֶר וְיֵצֵא רֶשֶׁף לְרַגְלָיו׃",
-     "translit": "Lefanav ieleh daver veiețe reșef lergalav."
+     "translit": "Lefanav ieleh daver veiețe reșef lergalav.",
+     "tokens": [
+      {
+       "t": "Înaintea ei a venit o molimă, și "
+      },
+      {
+       "t": "fulgere înfocate",
+       "w": "fulgere înfocate",
+       "heb": "רֶשֶׁף",
+       "translit": "reșef",
+       "strong": "H7565",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "fulgere arzătoare, flăcări (reșef).",
+       "dict_ro": "Rashi relatează o tradiție midrașică plină de culoare: în clipa în care Cel Sfânt a dat Tora lui Israel, a îndepărtat pe Îngerul Morții trimițându-l în altă direcție, ca să nu aibă cum să se opună și să zică: «un popor care Te va tăgădui peste patruzeci de zile, și Tu îi dai Tora?» — iar „fulgerele” care au ieșit la picioarele Lui erau înșiși îngerii de foc care L-au întovărășit la Sinai."
+      },
+      {
+       "t": " au ieșit când avansa."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לְפָנָיו יֵלֶךְ דָּבֶר וְיֵצֵא רֶשֶׁף לְרַגְלָיו׃",
+       "translation": "Înaintea ei a venit o molimă, și fulgere înfocate au ieșit când avansa. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πρὸ προσώπου αὐτοῦ πορεύσεται λόγος, καὶ ἐξελεύσεται εἰς παιδείαν κατὰ πόδας αὐτοῦ",
+       "greek": true,
+       "translation": "înaintea feței Lui va merge Cuvântul, și va ieși spre învățătură la picioarele Lui.",
+       "note": "Divergență semantică majoră: Septuaginta traduce „dever” (molimă/pestilență) prin „λόγος” (Cuvântul), probabil confundând rădăcina cu omonimul ei „davar” (cuvânt); și „reșef” (fulgere/flăcări) prin „παιδεία” (învățătură, disciplină) — ambele imagini complet diferite de cele din Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 32:24",
+      "Psalmul 18:7-13"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Înaintea Lui va merge molima” — am găsit într-un midraș agadic: în clipa când Cel Sfânt a dat Tora lui Israel, a îndepărtat pe Îngerul Morții să-l abată spre alte treburi, ca să nu stea să cârtească și să zică: «un neam care are să Te tăgăduiască la capătul a patruzeci de zile, și Tu le dai Tora?». „Și va ieși flacăra la picioarele Lui” — îngerii de flacără au venit cu El la Sinai."
+      }
+     ]
     },
     {
      "v": "3:6",
      "t": "S-a oprit și a măsurat țara, S-a uitat și a pus neamurile pe fugă; munții cei veșnici s-au sfărâmat, dealurile cele vechi s-au aplecat, căci ale Lui sunt căile lumii.",
      "heb": "עָמַד וַיְמֹדֶד אֶרֶץ רָאָה וַיַּתֵּר גּוֹיִם וַיִּתְפֹּצְצוּ הַרְרֵי־עַד שַׁחוּ גִּבְעוֹת עוֹלָם הֲלִיכוֹת עוֹלָם לוֹ׃",
-     "translit": "Amad vaimoded ereț raa vaiater goim vaitpoțetzu harerei-ad șahu ghivot olam halihot olam lo."
+     "translit": "Amad vaimoded ereț raa vaiater goim vaitpoțetzu harerei-ad șahu ghivot olam halihot olam lo.",
+     "tokens": [
+      {
+       "t": "S-a oprit și a măsurat țara, S-a uitat și a pus neamurile pe fugă; munții cei veșnici s-au sfărâmat, dealurile cele vechi s-au aplecat, căci ale Lui sunt "
+      },
+      {
+       "t": "căile lumii",
+       "w": "căile lumii",
+       "heb": "הֲלִיכוֹת עוֹלָם לוֹ",
+       "translit": "halihot olam lo",
+       "strong": "",
+       "pos": "substantiv, feminin plural construct + substantiv, masculin singular + prepoziție + sufix",
+       "def_ro": "căile/mersul lumii sunt ale Lui (halihot olam lo).",
+       "dict_ro": "Rashi leagă fraza de generația potopului și de generația turnului Babel: pentru că aveau o singură limbă, s-au unit cu toții într-un singur sfat [de răzvrătire] — iar Dumnezeu le-a arătat că tot mersul lumii Îi aparține Lui, împrăștiindu-i în șaptezeci de limbi, așa cum «a împrăștiat de la locul lui» [Iov 37:1]."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עָמַד וַיְמֹדֶד אֶרֶץ רָאָה וַיַּתֵּר גּוֹיִם וַיִּתְפֹּצְצוּ הַרְרֵי־עַד שַׁחוּ גִּבְעוֹת עוֹלָם הֲלִיכוֹת עוֹלָם לוֹ׃",
+       "translation": "S-a oprit și a măsurat țara, S-a uitat și a pus neamurile pe fugă; munții cei veșnici s-au sfărâmat, dealurile cele vechi s-au aplecat, căci ale Lui sunt căile lumii. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἔστη, καὶ ἐσαλεύθη ἡ γῆ· ἐπέβλεψε, καὶ διετάκη ἔθνη. διεβρύθη τὰ ὄρη βίᾳ, ἐτάκησαν βουνοὶ αἰώνιοι.",
+       "greek": true,
+       "translation": "S-a oprit, și s-a clătinat pământul; a privit, și s-au topit neamurile. S-au despicat munții cu putere, s-au topit dealurile cele veșnice.",
+       "note": "Corespondență apropiată, cu diferența verbului „au topit” în loc de „au fost puse pe fugă”/„s-au aplecat” — imagine asemănătoare, nu o divergență majoră de conținut."
+      }
+     ],
+     "refs": [
+      "Geneza 11:1",
+      "Iov 37:1",
+      "Habacuc 3:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„S-a oprit și a măsurat țara” — a așteptat să cerceteze cu de-amănuntul judecata generației potopului, ca să le măsoare măsură pentru măsură. „A văzut” — generația împrăștierii [Babel], care, pentru că aveau o singură limbă, s-au unit cu toții într-un singur sfat [de răzvrătire], cum se scrie «și tot pământul avea o singură limbă» [Geneza 11:1]. „Și a împrăștiat neamurile” — i-a făcut să salte în șaptezeci de limbi. „Munții cei veșnici” — domnitorii neamurilor idolatre. „Căile lumii sunt ale Lui” — le-a arătat că tot mersul lumii Îi aparține."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Ionatan tălmăcește acest verset despre generația potopului și generația împrăștierii [Babel] — aceste generații care nu-L cunoșteau și socoteau că nu există Dumnezeu în lume; [El] le-a arătat că El este Stăpânul tuturor și veghează asupra tuturor. Și prin cuvântul „a măsurat” [se arată] că le-a măsurat măsură pentru măsură, cum au spus înțelepții noștri: cu [ape] clocotite au stricat [lumea], cu [ape] clocotite au fost judecați."
+      }
+     ]
     },
     {
      "v": "3:7",
      "t": "Sub groază am văzut corturile lui Cușan, iar colibele țării Midianului tremurau.",
      "heb": "תַּחַת אָוֶן רָאִיתִי אָהֳלֵי כוּשָׁן יִרְגְּזוּן יְרִיעוֹת אֶרֶץ מִדְיָן׃",
-     "translit": "Tahat aven raiti aholei Hușan irghezun ieriot ereț Midian."
+     "translit": "Tahat aven raiti aholei Hușan irghezun ieriot ereț Midian.",
+     "tokens": [
+      {
+       "t": "Sub groază am văzut corturile lui Cușan, iar colibele țării Midianului tremurau."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "תַּחַת אָוֶן רָאִיתִי אָהֳלֵי כוּשָׁן יִרְגְּזוּן יְרִיעוֹת אֶרֶץ מִדְיָן׃",
+       "translation": "Sub groază am văzut corturile lui Cușan, iar colibele țării Midianului tremurau. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πορείας αἰωνίας αὐτοῦ ἀντὶ κόπων εἶδον· σκηνώματα Αἰθιόπων πτοηθήσονται καὶ αἱ σκηναὶ γῆς Μαδιάμ.",
+       "greek": true,
+       "translation": "Căile Lui cele veșnice în locul ostenelilor am văzut; corturile etiopienilor se vor înspăimânta, și corturile țării Madian.",
+       "note": "Diferență de structură: Septuaginta repetă aici ideea „căilor veșnice” (deja prezentă în versetul 6 ebraic), în loc de imaginea ebraică „sub groază am văzut corturile lui Cușan” — o reformulare substanțială a primei jumătăți a versetului."
+      }
+     ],
+     "refs": [
+      "Judecători 3:8-11",
+      "Judecători 6:1-6"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:8",
      "t": "S-a înfuriat oare DOMNUL pe râuri? Împotriva râurilor era oare mânia Ta, furia Ta era oare împotriva mării? Ai călărit pe caii Tăi, în carele salvării!",
      "heb": "הֲבִנְהָרִים חָרָה יְהוָה אִם בַּנְּהָרִים אַפֶּךָ אִם־בַּיָּם עֶבְרָתֶךָ כִּי תִרְכַּב עַל־סוּסֶיךָ מַרְכְּבֹתֶיךָ יְשׁוּעָה׃",
-     "translit": "Havinharim hara ADONAI im baneharim apeha im-baiam evrateha ki tirkav al-suseha markevoteha ieșua."
+     "translit": "Havinharim hara ADONAI im baneharim apeha im-baiam evrateha ki tirkav al-suseha markevoteha ieșua.",
+     "tokens": [
+      {
+       "t": "S-a înfuriat oare DOMNUL pe râuri? Împotriva râurilor era oare mânia Ta, furia Ta era oare împotriva mării? Ai călărit pe caii Tăi, în carele salvării!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הֲבִנְהָרִים חָרָה יְהוָה אִם בַּנְּהָרִים אַפֶּךָ אִם־בַּיָּם עֶבְרָתֶךָ כִּי תִרְכַּב עַל־סוּסֶיךָ מַרְכְּבֹתֶיךָ יְשׁוּעָה׃",
+       "translation": "S-a înfuriat oare DOMNUL pe râuri? Împotriva râurilor era oare mânia Ta, furia Ta era oare împotriva mării? Ai călărit pe caii Tăi, în carele salvării! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μὴ ἐν ποταμοῖς ὠργίσθης, Κύριε, ἢ ἐν ποταμοῖς ὁ θυμός σου; ἢ ἐν θαλάσσῃ τὸ ὅρμημά σου; ὅτι ἐπιβήσῃ ἐπὶ τοὺς ἵππους σου, καὶ ἡ ἱππασία σου σωτηρία.",
+       "greek": true,
+       "translation": "Nu doar pe râuri Te-ai mâniat, Doamne, sau pe râuri [a fost] furia Ta? Sau pe mare [a fost] năvala Ta? Căci Te vei sui pe caii Tăi, și călărirea Ta [va fi] mântuire.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 14:21,22",
+      "Psalmul 114:3,5"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:9",
      "t": "Arcul Îți este dezvelit din pricina jurământului despre triburi, o spusă solidă; pământul s-a despicat prin râuri.",
      "heb": "עֶרְיָה תֵעוֹר קַשְׁתֶּךָ שְׁבֻעוֹת מַטּוֹת אֹמֶר סֶלָה נְהָרוֹת תְּבַקַּע־אָרֶץ׃",
-     "translit": "Eria teor kașteha șevuot matot omer sela neharot tevaka-areț."
+     "translit": "Eria teor kașteha șevuot matot omer sela neharot tevaka-areț.",
+     "tokens": [
+      {
+       "t": "Arcul Îți este dezvelit din pricina "
+      },
+      {
+       "t": "jurământului despre triburi",
+       "w": "jurământului despre triburi",
+       "heb": "שְׁבֻעוֹת מַטּוֹת",
+       "translit": "șevuot matot",
+       "strong": "H4294",
+       "pos": "substantiv, feminin plural + substantiv, masculin plural",
+       "def_ro": "jurămintelor [făcute] triburilor (șevuot matot).",
+       "dict_ro": "Radak explică: tot ce ai făcut pentru Israel la Ieșirea din Egipt a fost ca să împlinești jurămintele pe care le-ai jurat Patriarhilor să dai țara triburilor lui Israel — acesta e sensul lui „omer sela”, o spusă/legământ care rămâne pecetluit pentru veșnicie, neschimbat."
+      },
+      {
+       "t": ", o spusă solidă; pământul s-a despicat prin râuri."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עֶרְיָה תֵעוֹר קַשְׁתֶּךָ שְׁבֻעוֹת מַטּוֹת אֹמֶר סֶלָה נְהָרוֹת תְּבַקַּע־אָרֶץ׃",
+       "translation": "Arcul Îți este dezvelit din pricina jurământului despre triburi, o spusă solidă; pământul s-a despicat prin râuri. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐντείνων ἐντενεῖς τὸ τόξον σου ἐπὶ σκῆπτρα, λέγει Κύριος. (διάψαλμα). ποταμῶν ῥαγήσεται γῆ.",
+       "greek": true,
+       "translation": "Încordând, vei încorda arcul Tău peste sceptre, zice Domnul. (interludiu). Pământul se va despica prin râuri.",
+       "note": "Divergență reală: Septuaginta omite complet mențiunea „jurămintelor” (șevuot) făcute triburilor, păstrând doar imaginea arcului întins „peste sceptre” — sensul teologic central al versetului ebraic (jurământul legământului cu triburile lui Israel) nu mai apare în greacă."
+      }
+     ],
+     "refs": [
+      "Geneza 15:18-21",
+      "Geneza 22:16-18",
+      "Geneza 26:3,4"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Ai făcut toate acestea ca să împlinești jurămintele pe care le-ai jurat Patriarhilor, de a da țara triburilor lui Israel — aceasta e „omer sela”, adică spusa/legământul care se păstrează pecetluit pe veci."
+      }
+     ]
     },
     {
      "v": "3:10",
      "t": "Munții Te-au văzut și s-au cutremurat și un șuvoi de ape s-a revărsat, adâncul și-a ridicat glasul, mâinile Lui s-au înălțat.",
      "heb": "רָאוּךָ יָחִילוּ הָרִים זֶרֶם מַיִם עָבָר נָתַן תְּהוֹם קוֹלוֹ רוֹם יָדֵיהוּ נָשָׂא׃",
-     "translit": "Rauha iahilu harim zerem maim avar natan tehom kolo rom iadehu nasa."
+     "translit": "Rauha iahilu harim zerem maim avar natan tehom kolo rom iadehu nasa.",
+     "tokens": [
+      {
+       "t": "Munții Te-au văzut și s-au cutremurat și un șuvoi de ape s-a revărsat, adâncul și-a ridicat glasul, mâinile Lui s-au înălțat."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "רָאוּךָ יָחִילוּ הָרִים זֶרֶם מַיִם עָבָר נָתַן תְּהוֹם קוֹלוֹ רוֹם יָדֵיהוּ נָשָׂא׃",
+       "translation": "Munții Te-au văzut și s-au cutremurat și un șuvoi de ape s-a revărsat, adâncul și-a ridicat glasul, mâinile Lui s-au înălțat. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὄψονταί σε καὶ ὠδινήσουσι λαοί, σκορπίζων ὕδατα πορείας αὐτοῦ· ἔδωκεν ἡ ἄβυσσος φωνὴν αὐτῆς, ὕψος φαντασίας αὐτῆς.",
+       "greek": true,
+       "translation": "Te vor vedea și se vor zvârcoli de durere popoarele, împrăștiind apele mersului Său; adâncul și-a dat glasul său, înălțimea nălucirii sale.",
+       "note": "Divergență reală de subiect: unde Textul Masoretic spune că „munții Te-au văzut și s-au cutremurat”, Septuaginta are „popoarele Te vor vedea și se vor zvârcoli de durere” — subiectul versetului e schimbat din munți în popoare."
+      }
+     ],
+     "refs": [
+      "Iosua 3:15,16",
+      "Psalmul 77:16-19"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:11",
      "t": "Soarele și Luna s-au oprit în înălțimi. [Israel] va merge la lumina săgeților Tale, la strălucirea lăncii Tale scânteietoare.",
      "heb": "שֶׁמֶשׁ יָרֵחַ עָמַד זְבֻלָה לְאוֹר חִצֶּיךָ יְהַלֵּכוּ לְנֹגַהּ בְּרַק חֲנִיתֶךָ׃",
-     "translit": "Șemeș iareah amad zevula leor hițeha iehalehu lenoga berak haniteha."
+     "translit": "Șemeș iareah amad zevula leor hițeha iehalehu lenoga berak haniteha.",
+     "tokens": [
+      {
+       "t": "Soarele și Luna s-au oprit în înălțimi",
+       "w": "Soarele și Luna s-au oprit în înălțimi",
+       "heb": "שֶׁמֶשׁ יָרֵחַ עָמַד זְבֻלָה",
+       "translit": "șemeș iarēah amad zevula",
+       "strong": "H2073",
+       "pos": "substantiv, masculin și feminin singular + substantiv, masculin singular + verb, qal perfect + substantiv, masculin singular",
+       "def_ro": "soarele și luna s-au oprit în locul lor (șemeș iarēah amad zevula).",
+       "dict_ro": "Radak identifică explicit evenimentul: aceasta se referă la lupta lui Iosua cu regii canaaniți la Ghibeon, unde soarele s-a oprit, cum se spune «și soarele s-a oprit, și luna a stat pe loc, până ce poporul s-a răzbunat pe vrăjmașii lui» (Iosua 10:13) — o minune dublă, în care luna a dat lumină ziua, laolaltă cu grindina de piatră, ca israeliții să poată lupta și noaptea."
+      },
+      {
+       "t": ". [Israel] va merge la lumina săgeților Tale, la strălucirea lăncii Tale scânteietoare."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "שֶׁמֶשׁ יָרֵחַ עָמַד זְבֻלָה לְאוֹר חִצֶּיךָ יְהַלֵּכוּ לְנֹגַהּ בְּרַק חֲנִיתֶךָ׃",
+       "translation": "Soarele și Luna s-au oprit în înălțimi. [Israel] va merge la lumina săgeților Tale, la strălucirea lăncii Tale scânteietoare. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐπῄρθη ὁ ἥλιος, καὶ ἡ σελήνη ἔστη ἐν τῇ τάξει αὐτῆς· εἰς φῶς βολίδες σου πορεύσονται, εἰς φέγγος ἀστραπῆς ὅπλων σου.",
+       "greek": true,
+       "translation": "S-a înălțat soarele, și luna a stat în rândul ei; la lumina săgeților Tale vor merge, la strălucirea fulgerului armelor Tale.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iosua 10:12,13",
+      "Psalmul 18:12-14"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Soarele, luna, s-au oprit în locul lor” — în zilele lui Iosua, în lupta cu regii [canaaniți], soarele și luna s-au oprit, fiecare în locuința sa, fără să-și urmeze mersul firesc, cum se scrie «și soarele s-a oprit, și luna a stat pe loc, până ce poporul s-a răzbunat pe vrăjmașii lui» [Iosua 10:13]. „La lumina săgeților Tale vor merge” — Iosua și poporul lui au mers la lumina fulgerelor și a pietrelor de grindină pe care Cel Sfânt le-a trimis asupra vrăjmașilor; aceasta a fost o minune în interiorul unei minuni, căci Iosua s-a rugat ca luna să se oprească „până ce se va răzbuna poporul pe vrăjmașii lui”, și astfel luna a luminat noaptea, laolaltă cu grindina, ca israeliții să poată continua lupta."
+      }
+     ]
     },
     {
      "v": "3:12",
      "t": "Cu indignare străbați pământul, mânios ai treierat neamurile.",
      "heb": "בְּזַעַם תִּצְעַד־אָרֶץ בְּאַף תָּדוּשׁ גּוֹיִם׃",
-     "translit": "Bezaam titzad-areț beaf taduș goim."
+     "translit": "Bezaam titzad-areț beaf taduș goim.",
+     "tokens": [
+      {
+       "t": "Cu indignare străbați pământul, mânios ai treierat neamurile."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בְּזַעַם תִּצְעַד־אָרֶץ בְּאַף תָּדוּשׁ גּוֹיִם׃",
+       "translation": "Cu indignare străbați pământul, mânios ai treierat neamurile. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐν ἀπειλῇ ὀλιγώσεις γῆν καὶ ἐν θυμῷ κατάξεις ἔθνη.",
+       "greek": true,
+       "translation": "Cu amenințare vei micșora pământul, și cu mânie vei doborî neamurile.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 32:23",
+      "Mica 4:12,13"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:13",
      "t": "Ai ieșit să-Ți izbăvești poporul, pentru izbăvirea unsului Tău ai zdrobit capul din casa celui nelegiuit, ai dezvelit temelia până la gât, sela!",
      "heb": "יָצָאתָ לְיֵשַׁע עַמֶּךָ לְיֵשַׁע אֶת־מְשִׁיחֶךָ מָחַצְתָּ רֹּאשׁ מִבֵּית רָשָׁע עָרוֹת יְסוֹד עַד־צַוָּאר סֶלָה׃",
-     "translit": "Iațata leieșa ameha leieșa et-meșiheha mahațta roș mibeit rașa arot iesod ad-țavar sela."
+     "translit": "Iațata leieșa ameha leieșa et-meșiheha mahațta roș mibeit rașa arot iesod ad-țavar sela.",
+     "tokens": [
+      {
+       "t": "Ai ieșit să-Ți izbăvești poporul, pentru izbăvirea "
+      },
+      {
+       "t": "unsului Tău",
+       "w": "unsului Tău",
+       "heb": "מְשִׁיחֶךָ",
+       "translit": "meșiheha",
+       "strong": "H4899",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "unsului Tău, al celui uns al Tău (meșiheha).",
+       "dict_ro": "Rashi identifică cu grijă: aici „unsul Tău” sunt Saul și David, izbăviți de Domnul în luptele lor; Radak adaugă însă un al doilea nivel de lectură: precum ai izbăvit poporul Tău la intrarea în Țară, tot așa vei izbăvi pe poporul Tău în vremea din urmă, iar „unsul Tău” se referă atunci la Mesia, fiul lui David."
+      },
+      {
+       "t": " ai zdrobit capul din casa celui nelegiuit, ai dezvelit temelia până la gât, sela!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יָצָאתָ לְיֵשַׁע עַמֶּךָ לְיֵשַׁע אֶת־מְשִׁיחֶךָ מָחַצְתָּ רֹּאשׁ מִבֵּית רָשָׁע עָרוֹת יְסוֹד עַד־צַוָּאר סֶלָה׃",
+       "translation": "Ai ieșit să-Ți izbăvești poporul, pentru izbăvirea unsului Tău ai zdrobit capul din casa celui nelegiuit, ai dezvelit temelia până la gât, sela! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐξῆλθες εἰς σωτηρίαν λαοῦ σου τοῦ σῶσαι τὸν χριστόν σου· ἔβαλες εἰς κεφαλὰς ἀνόμων θάνατον, ἐξήγειρας δεσμοὺς ἕως τραχήλου. (διάψαλμα).",
+       "greek": true,
+       "translation": "Ai ieșit spre salvarea poporului Tău, ca să-l salvezi pe unsul Tău; ai aruncat moartea asupra capetelor celor nelegiuiți, ai dezvelit legăturile până la gât. (interludiu).",
+       "note": "Corespondență strânsă cu Textul Masoretic; „χριστόν” (hristos/uns) redă fidel ebraicul „meșiheha”."
+      }
+     ],
+     "refs": [
+      "Exodul 15:1,2",
+      "Isaia 63:11"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Pentru izbăvirea unsului Tău” — Saul și David."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Ai ieșit să izbăvești poporul Tău, să izbăvești pe unsul Tău” — precum ai ieșit să izbăvești poporul Tău la intrarea lor în Țară, [biruind] cele șapte neamuri, tot așa vei ieși în viitor să-i izbăvești și să-i scoți din exil și să-i aduci înapoi în țara lor. „Unsul Tău” — acesta este Mesia, fiul lui David."
+      }
+     ]
     },
     {
      "v": "3:14",
      "t": "Cu toiegele lor ai străpuns capul cetelor lui desfășurate, [venite] să mă împrăștie. Bucuria le este ca a celor veniți să-l devoreze pe sărac în taină.",
      "heb": "נָקַבְתָּ בְמַטָּיו רֹאשׁ פְּרָזָיו יִסְעֲרוּ לַהֲפִיצֵנִי עֲלִיצֻתָם כְּמוֹ־לֶאֱכֹל עָנִי בַּמִּסְתָּר׃",
-     "translit": "Nakavta vematav roș perazav isaru lahafițeni alițutam kemo-leehol ani bamistar."
+     "translit": "Nakavta vematav roș perazav isaru lahafițeni alițutam kemo-leehol ani bamistar.",
+     "tokens": [
+      {
+       "t": "Cu toiegele lor ai străpuns capul cetelor lui desfășurate, [venite] să mă împrăștie. Bucuria le este ca a celor veniți să-l devoreze pe sărac în taină."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "נָקַבְתָּ בְמַטָּיו רֹאשׁ פְּרָזָיו יִסְעֲרוּ לַהֲפִיצֵנִי עֲלִיצֻתָם כְּמוֹ־לֶאֱכֹל עָנִי בַּמִּסְתָּר׃",
+       "translation": "Cu toiegele lor ai străpuns capul cetelor lui desfășurate, [venite] să mă împrăștie. Bucuria le este ca a celor veniți să-l devoreze pe sărac în taină. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διέκοψας ἐν ἐκστάσει κεφαλὰς δυναστῶν, σεισθήσονται ἐν αὐτῇ· διανοίξουσι χαλινοὺς αὐτῶν ὡς ἐσθίων πτωχὸς λάθρᾳ.",
+       "greek": true,
+       "translation": "Ai tăiat în uimire capetele celor puternici, se vor cutremura prin ea; își vor deschide frâiele lor ca cel ce mănâncă pe sărac în taină.",
+       "note": "Corespondență parțială, cu diferențe de nuanță în prima parte a versetului."
+      }
+     ],
+     "refs": [
+      "Exodul 15:9,10",
+      "Psalmul 83:2-11"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:15",
      "t": "Cu caii Tăi ai pășit pe ei în mare, cu munți de ape mari.",
      "heb": "דָּרַכְתָּ בַיָּם סוּסֶיךָ חֹמֶר מַיִם רַבִּים׃",
-     "translit": "Darahta vaiam suseha homer maim rabim."
+     "translit": "Darahta vaiam suseha homer maim rabim.",
+     "tokens": [
+      {
+       "t": "Cu caii Tăi ai pășit pe ei în mare, cu munți de ape mari."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "דָּרַכְתָּ בַיָּם סוּסֶיךָ חֹמֶר מַיִם רַבִּים׃",
+       "translation": "Cu caii Tăi ai pășit pe ei în mare, cu munți de ape mari. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπεβίβασας εἰς θάλασσαν τοὺς ἵππους σου ταράσσοντας ὕδατα πολλά.",
+       "greek": true,
+       "translation": "și ai suit în mare caii Tăi, tulburând apele cele multe.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 14:26-29",
+      "Psalmul 77:16-19"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:16",
      "t": "Am auzit și mi-au tremurat măruntaiele, mi-au fremătat buzele de zgomot, putregai mi-a intrat în oase și am tremurat unde eram: mă odihneam în zi de trudă, urcând la un neam invadator.",
      "heb": "שָׁמַעְתִּי וַתִּרְגַּז בִּטְנִי לְקוֹל צָלְלוּ שְׂפָתַי יָבוֹא רָקָב בַּעֲצָמַי וְתַחְתַּי אֶרְגָּז אֲשֶׁר אָנוּחַ לְיוֹם צָרָה לַעֲלוֹת לְעַם יְגוּדֶנּוּ׃",
-     "translit": "Șamati vatirgaz bitni lekol țalelu sefatai iavo rakav baatzamai vetahtai ergaz așer anuah leiom țara laalot leam iegudenu."
+     "translit": "Șamati vatirgaz bitni lekol țalelu sefatai iavo rakav baatzamai vetahtai ergaz așer anuah leiom țara laalot leam iegudenu.",
+     "tokens": [
+      {
+       "t": "Am auzit și mi-au tremurat măruntaiele, mi-au fremătat buzele de zgomot, putregai mi-a intrat în oase și am tremurat unde eram: mă odihneam în zi de trudă, urcând la un neam invadator."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "שָׁמַעְתִּי וַתִּרְגַּז בִּטְנִי לְקוֹל צָלְלוּ שְׂפָתַי יָבוֹא רָקָב בַּעֲצָמַי וְתַחְתַּי אֶרְגָּז אֲשֶׁר אָנוּחַ לְיוֹם צָרָה לַעֲלוֹת לְעַם יְגוּדֶנּוּ׃",
+       "translation": "Am auzit și mi-au tremurat măruntaiele, mi-au fremătat buzele de zgomot, putregai mi-a intrat în oase și am tremurat unde eram: mă odihneam în zi de trudă, urcând la un neam invadator. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐφυλαξάμην, καὶ ἐπτοήθη ἡ κοιλία μου ἀπὸ φωνῆς προσευχῆς χειλέων μου, καὶ εἰσῆλθε τρόμος εἰς τὰ ὀστᾶ μου, καὶ ὑποκάτωθέν μου ἐταράχθη ἡ ἕξις μου. ἀναπαύσομαι ἐν ἡμέρᾳ θλίψεως τοῦ ἀναβῆναι εἰς λαὸν παροικίας μου.",
+       "greek": true,
+       "translation": "Am veghiat, și s-a înspăimântat pântecele meu de glasul rugăciunii buzelor mele, și tremur a intrat în oasele mele, și sub mine s-a tulburat firea mea. Mă voi odihni în ziua necazului, ca să mă sui la poporul pribegiei mele.",
+       "note": "Divergență reală de sens la final: unde Textul Masoretic vorbește despre „urcarea unui neam invadator” (amenințarea unui popor care va ataca), Septuaginta înțelege „să mă sui la poporul pribegiei mele” — propriul popor aflat în exil — un sens aproape opus celui ebraic."
+      }
+     ],
+     "refs": [
+      "Habacuc 3:2",
+      "Ieremia 23:9",
+      "Daniel 10:8"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:17",
      "t": "Căci smochinul nu va înflori și rod nu e în vii, uscat e fructul măslinului și ogoarele n-au dat hrană; turmele vor fi mistuite din țarc și nu vor mai fi vite în staul.",
      "heb": "כִּי־תְאֵנָה לֹא־תִפְרָח וְאֵין יְבוּל בַּגְּפָנִים כִּחֵשׁ מַעֲשֵׂה־זַיִת וּשְׁדֵמוֹת לֹא־עָשָׂה אֹכֶל גָּזַר מִמִּכְלָה צֹאן וְאֵין בָּקָר בָּרְפָתִים׃",
-     "translit": "Ki-teena lo-tifrah veein ievul baghefanim kiheș maase-zait uședemot lo-asa ohel gazar mimihla țon veein bakar barfatim."
+     "translit": "Ki-teena lo-tifrah veein ievul baghefanim kiheș maase-zait uședemot lo-asa ohel gazar mimihla țon veein bakar barfatim.",
+     "tokens": [
+      {
+       "t": "Căci smochinul nu va înflori și rod nu e în vii, uscat e fructul măslinului și ogoarele n-au dat hrană; turmele vor fi mistuite din țarc și nu vor mai fi vite în staul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־תְאֵנָה לֹא־תִפְרָח וְאֵין יְבוּל בַּגְּפָנִים כִּחֵשׁ מַעֲשֵׂה־זַיִת וּשְׁדֵמוֹת לֹא־עָשָׂה אֹכֶל גָּזַר מִמִּכְלָה צֹאן וְאֵין בָּקָר בָּרְפָתִים׃",
+       "translation": "Căci smochinul nu va înflori și rod nu e în vii, uscat e fructul măslinului și ogoarele n-au dat hrană; turmele vor fi mistuite din țarc și nu vor mai fi vite în staul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι συκῆ οὐ καρποφορήσει, καὶ οὐκ ἔσται γενήματα ἐν ταῖς ἀμπέλοις· ψεύσεται ἔργον ἐλαίας, καὶ τὰ πεδία οὐ ποιήσει βρῶσιν· ἐξέλιπον ἀπὸ βρώσεως πρόβατα, καὶ οὐχ ὑπάρχουσι βόες ἐπὶ φάτναις.",
+       "greek": true,
+       "translation": "Căci smochinul nu va rodi, și nu vor fi roade în vii; lucrarea măslinului va minți, și câmpiile nu vor face hrană; oile au pierit de la hrană, și nu sunt boi la iesle.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 28:15-18",
+      "Ioel 1:10-13"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:18",
      "t": "Dar eu mă voi exulta în DOMNUL, mă voi veseli în Dumnezeul izbăvirii mele.",
      "heb": "וַאֲנִי בַּיהוָה אֶעֱלוֹזָה אָגִילָה בֵּאלֹהֵי יִשְׁעִי׃",
-     "translit": "Vaani b'ADONAI eelozah aghila b'Elohei iși."
+     "translit": "Vaani b'ADONAI eelozah aghila b'Elohei iși.",
+     "tokens": [
+      {
+       "t": "Dar eu mă voi exulta în DOMNUL, mă voi veseli în Dumnezeul izbăvirii mele."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַאֲנִי בַּיהוָה אֶעֱלוֹזָה אָגִילָה בֵּאלֹהֵי יִשְׁעִי׃",
+       "translation": "Dar eu mă voi exulta în DOMNUL, mă voi veseli în Dumnezeul izbăvirii mele. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐγὼ δὲ ἐν τῷ Κυρίῳ ἀγαλλιάσομαι, χαρήσομαι ἐπὶ τῷ Θεῷ τῷ σωτῆρί μου.",
+       "greek": true,
+       "translation": "Dar eu în Domnul mă voi bucura, mă voi veseli în Dumnezeu, Mântuitorul meu.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 12:2",
+      "Mica 7:7",
+      "Psalmul 118:14"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:19",
      "t": "DUMNEZEU, Domnul, Stăpânul meu, este armata mea. El îmi va face picioarele ca ale căprioarelor și mă va conduce pe înălțimile mele – pentru Dirijor, cu muzică duioasă.",
      "heb": "יְהוִה אֲדֹנָי חֵילִי וַיָּשֶׂם רַגְלַי כָּאַיָּלוֹת וְעַל בָּמוֹתַי יַדְרִכֵנִי לַמְנַצֵּחַ בִּנְגִינוֹתָי׃",
-     "translit": "ELOHIM Adonai heili vaiasem raglai kaaiialot veal bamotai iadriheni lamnateah binghinotai."
+     "translit": "ELOHIM Adonai heili vaiasem raglai kaaiialot veal bamotai iadriheni lamnateah binghinotai.",
+     "tokens": [
+      {
+       "t": "DUMNEZEU, Domnul, Stăpânul meu, este armata mea. El îmi va face picioarele ca ale căprioarelor și mă va conduce pe înălțimile mele – pentru Dirijor, cu muzică duioasă."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "יְהוִה אֲדֹנָי חֵילִי וַיָּשֶׂם רַגְלַי כָּאַיָּלוֹת וְעַל בָּמוֹתַי יַדְרִכֵנִי לַמְנַצֵּחַ בִּנְגִינוֹתָי׃",
+       "translation": "DUMNEZEU, Domnul, Stăpânul meu, este armata mea. El îmi va face picioarele ca ale căprioarelor și mă va conduce pe înălțimile mele – pentru Dirijor, cu muzică duioasă. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Κύριος ὁ Θεὸς δύναμίς μου καὶ τάξει τοὺς πόδας μου εἰς συντέλειαν· ἐπὶ τὰ ὑψηλὰ ἐπιβιβᾷ με τοῦ νικῆσαί με ἐν τῇ ᾠδῇ αὐτοῦ.",
+       "greek": true,
+       "translation": "Domnul Dumnezeu [este] puterea mea, și va pune picioarele mele spre desăvârșire; pe înălțimi mă va sui, ca să fiu biruitor prin cântarea Lui.",
+       "note": "Divergență reală: Septuaginta are „spre desăvârșire” (εἰς συντέλειαν) în loc de „ca ale căprioarelor” (ka'aiyalot) — probabil o confuzie de citire a consoanelor ebraice apropiate fonetic; iar titlul tehnic muzical final („pentru Dirijor, cu muzică duioasă”) e transformat într-o afirmație teologică („ca să fiu biruitor prin cântarea Lui”)."
+      }
+     ],
+     "refs": [
+      "Psalmul 18:1",
+      "2 Samuel 22:34",
+      "Deuteronomul 32:13"
+     ],
+     "commentaries": []
     }
    ]
   },
