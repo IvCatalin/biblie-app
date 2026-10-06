@@ -1,0 +1,19 @@
+const C = {};
+C["2:14"] = {comm:[{author:"Metzudat David", text:"„Căci iată-Mă, vin” — voi veni la Ierusalim și voi sălășlui în mijlocul tău."}]};
+C["2:15"] = {comm:[{author:"Metzudat David", text:"„Se vor alipi” — atunci multe neamuri se vor alătura DOMNULUI și-I vor fi popor, crezând în El; dar cu toate acestea Eu voi sălășlui în mijlocul tău, nu în mijlocul mulțimii neamurilor. „Și vei ști” — abia atunci, când Își va sălășlui Șechina numai în mijlocul tău, vei ști că DOMNUL m-a trimis la tine — căci făgăduința de bine ți se spune ție, nu neamurilor, chiar dacă și ele vor crede în DOMNUL; ele nu vor fi deopotrivă cu tine în privința binelui."}]};
+C["2:16"] = {comm:[{author:"Metzudat David", text:"„DOMNUL [îl] va lua ca moștenire” — locul [Templului] îl va lua pe Iuda ca în vechime, să fie partea Lui pe veci în Țara Sfântă, și nu se vor mai duce pe ei în exil din ea. „Și va alege din nou Ierusalimul” — ca să-Și sălășluiască din nou Șechina acolo, ca înainte."}]};
+C["2:17"] = {comm:[
+ {author:"Rashi (1040–1105)", text:"„Să tacă orice vietate” — tot restul idolatrilor [neamurilor]. „Că El s-a ridicat” — expresie de trezire și grăbire (vezi Psalmul 35:23)."},
+ {author:"Metzudat David", text:"„Să tacă orice vietate” — tăcea toate neamurile de frica DOMNULUI, și să nu mai adăugați să vă lărgiți gura împotriva lui Israel. „Că El s-a ridicat” — căci atunci Se va trezi din sălașul Lui cel sfânt din ceruri, ca să Se coboare să facă răzbunare asupra neamurilor; până acum tăcuse față de neamuri, ca și cum ar fi fost adormit, dar atunci Se va trezi, ca din somn."}
+]};
+C["3:1"] = {comm:[{author:"Context: curtea cerească", text:"Scena curții cerești — cu Satan în rolul de acuzator stând la dreapta acuzatului — e aceeași structură ca în proemiul cărții lui Iov (Iov 1-2): Satan nu e un adversar cosmic egal lui Dumnezeu, ci un membru al curții divine cu rol specific de a ridica obiecții, aici împotriva stării morale a preoției aflate sub acuzare."}]};
+C["3:2"] = {comm:[{author:"Metzudat David (adaptat)", text:"Dubla repetare „DOMNUL te va denunța... DOMNUL... să te denunțe din nou” întărește respingerea acuzației lui Satan: alegerea Ierusalimului de către DOMNUL e temeiul pentru care acuzația nu poate sta în picioare — cetatea aleasă nu poate fi lăsată fără un preot slujitor."}]};
+C["3:4"] = {comm:[{author:"Metzudat David", text:"„Îndepărtați hainele murdare de pe el” — [îngerul le spune] celor care stăteau înaintea lui [a lui Ioșua] să-i scoată veșmintele murdare — simbol al păcatului îndepărtat, nu doar al schimbării de haine."}]};
+C["3:8"] = {comm:[{author:"Radak (1160–1235)", text:"„Vlăstarul” (țemah) numit aici „slujitorul Meu” se referă, în sensul imediat, la Zerubavel, urmaș al casei lui David chemat să reconstruiască Templul — dar tradiția a văzut în titlu și o prefigurare a restaurării depline, mesianice, a dinastiei davidice."}]};
+C["3:9"] = {comm:[{author:"Metzudat David", text:"„Pe o singură piatră sunt șapte ochi” — simbol al desăvârșitei privegheri [divine] asupra ei; la fel se explică și la Zaharia 4:10, unde cei șapte ochi sunt identificați direct cu ochii DOMNULUI care cutreieră tot pământul."}]};
+C["4:6"] = {comm:[
+ {author:"Contextul sărbătorii (Hanuca)", text:"Acest verset e motivul exact pentru care pericopa a fost aleasă ca haftara de Hanuca: biruința Macabeilor asupra Imperiului Seleucid, sărbătorită prin aprinderea luminilor, e interpretată de tradiție nu ca o victorie militară obișnuită, ci — la fel ca restaurarea Templului al doilea descrisă aici — ca o lucrare a „Duhului”, nu a „oștirii și puterii” omenești."}
+]};
+C["4:7"] = {comm:[{author:"Metzudat David (adaptat)", text:"Strigătul „Har, har pentru ea!” la scoaterea pietrei de temelie reia bucuria atestată istoric la Ezra 3:11-13, când poporul a strigat de bucurie la punerea temeliei celui de-al doilea Templu, amestecată cu plânsul celor care-l mai văzuseră pe primul."}]};
+
+module.exports = { C };

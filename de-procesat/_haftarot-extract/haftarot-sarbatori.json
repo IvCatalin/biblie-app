@@ -2478,127 +2478,886 @@
      "v": "2:14",
      "t": "Cântă și bucură-te, fiică a Ționului, căci iată-Mă, vin și voi sălășlui în mijlocul tău – rostirea DOMNULUI.",
      "heb": "רָנִּי וְשִׂמְחִי בַּת־צִיּוֹן כִּי הִנְנִי־בָא וְשָׁכַנְתִּי בְתוֹכֵךְ נְאֻם־יְהוָה׃",
-     "translit": "Roni vesimhi bat-Țion ki hineni-va veșahanti vetokeh neum-ADONAI."
+     "translit": "Roni vesimhi bat-Țion ki hineni-va veșahanti vetokeh neum-ADONAI.",
+     "tokens": [
+      {
+       "t": "Cântă și bucură-te, "
+      },
+      {
+       "t": "fiică a Ționului",
+       "w": "fiică a Ționului",
+       "heb": "בַּת צִיּוֹן",
+       "translit": "bat țion",
+       "strong": "H6726",
+       "pos": "substantiv, feminin singular construct + nume propriu",
+       "def_ro": "fiica Sionului — personificarea Ierusalimului/Ionului ca fiică.",
+       "dict_ro": "„Fiică a Ționului” (bat Țion) e o formulă obișnuită a profeților pentru a personifica cetatea/poporul ca pe o fiică iubită — apare și la chemarea mesianică de bucurie din Zaharia 9:9 („Bucură-te mult, fiică a Ționului”), citată în Evanghelii la intrarea triumfală în Ierusalim.",
+       "greek": "θύγατερ Σιών (thygater Sion)",
+       "greek_def_ro": "θύγατερ Σιών (thygater Sion) — fiică a Sionului — traducere literală, identică structural cu ebraica."
+      },
+      {
+       "t": ", căci iată-Mă, vin și voi sălășlui în mijlocul tău – rostirea DOMNULUI."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "רָנִּי וְשִׂמְחִי בַּת־צִיּוֹן כִּי הִנְנִי־בָא וְשָׁכַנְתִּי בְתוֹכֵךְ נְאֻם־יְהוָה׃",
+       "translation": "Cântă și bucură-te, fiică a Ționului, căci iată-Mă, vin și voi sălășlui în mijlocul tău – rostirea DOMNULUI. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τέρπου καὶ εὐφραίνου, θύγατερ Σιών, διότι ἰδοὺ ἐγὼ ἔρχομαι καὶ κατασκηνώσω ἐν μέσῳ σου, λέγει Κύριος.",
+       "greek": true,
+       "translation": "Bucură-te și veselește-te, fiică a Sionului, căci, iată, Eu vin și voi sălășlui în mijlocul tău, spune Domnul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Zaharia 9:9",
+      "Isaia 12:6"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Căci iată-Mă, vin” — voi veni la Ierusalim și voi sălășlui în mijlocul tău."
+      }
+     ]
     },
     {
      "v": "2:15",
      "t": "Multe neamuri se vor alipi de DOMNUL în ziua aceea și vor deveni popor al Meu, dar Eu voi sălășlui în mijlocul tău – și atunci vei ști că DOMNUL Oștirilor m-a trimis la tine.",
      "heb": "וְנִלְווּ גוֹיִם רַבִּים אֶל־יְהוָה בַּיּוֹם הַהוּא וְהָיוּ לִי לְעָם וְשָׁכַנְתִּי בְתוֹכֵךְ וְיָדַעַתְּ כִּי־יְהוָה צְבָאוֹת שְׁלָחַנִי אֵלָיִךְ׃",
-     "translit": "Venilvu goim rabim el-ADONAI baiom hahu vehaiu li leam veșahanti vetokeh veiadaat ki-ADONAI Țevaot șelahani elaih."
+     "translit": "Venilvu goim rabim el-ADONAI baiom hahu vehaiu li leam veșahanti vetokeh veiadaat ki-ADONAI Țevaot șelahani elaih.",
+     "tokens": [
+      {
+       "t": "Multe neamuri",
+       "w": "Multe neamuri",
+       "heb": "גוֹיִם",
+       "translit": "goim",
+       "strong": "H1471",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "neamuri, națiuni (goim).",
+       "dict_ro": "Promisiunea că „multe neamuri” se vor alipi de DOMNUL și vor deveni „popor al Meu” — alături de Israel, nu în locul lui — reia o temă centrală a profeției post-exilice (vezi și Isaia 2:2-5, Zaharia 8:20-23): includerea eschatologică a neamurilor în adorarea lui Dumnezeu la Ierusalim."
+      },
+      {
+       "t": " se vor alipi de DOMNUL în ziua aceea și vor deveni popor al Meu, dar Eu voi sălășlui în mijlocul tău – și atunci vei ști că DOMNUL Oștirilor m-a trimis la tine."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנִלְווּ גוֹיִם רַבִּים אֶל־יְהוָה בַּיּוֹם הַהוּא וְהָיוּ לִי לְעָם וְשָׁכַנְתִּי בְתוֹכֵךְ וְיָדַעַתְּ כִּי־יְהוָה צְבָאוֹת שְׁלָחַנִי אֵלָיִךְ׃",
+       "translation": "Multe neamuri se vor alipi de DOMNUL în ziua aceea și vor deveni popor al Meu, dar Eu voi sălășlui în mijlocul tău – și atunci vei ști că DOMNUL Oștirilor m-a trimis la tine. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ καταφεύξονται ἔθνη πολλὰ ἐπὶ τὸν Κύριον ἐν τῇ ἡμέρᾳ ἐκείνῃ καὶ ἔσονται αὐτῷ εἰς λαὸν καὶ κατασκηνώσουσιν ἐν μέσῳ σου, καὶ ἐπιγνώσῃ ὅτι Κύριος παντοκράτωρ ἐξαπέσταλκέ με πρός σε.",
+       "greek": true,
+       "translation": "Și se vor refugia multe neamuri la Domnul în ziua aceea și-I vor fi popor, și vor sălășlui în mijlocul tău, și vei cunoaște că Domnul Atotțiitorul m-a trimis la tine.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 2:2-5",
+      "Zaharia 8:20-23"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Se vor alipi” — atunci multe neamuri se vor alătura DOMNULUI și-I vor fi popor, crezând în El; dar cu toate acestea Eu voi sălășlui în mijlocul tău, nu în mijlocul mulțimii neamurilor. „Și vei ști” — abia atunci, când Își va sălășlui Șechina numai în mijlocul tău, vei ști că DOMNUL m-a trimis la tine — căci făgăduința de bine ți se spune ție, nu neamurilor, chiar dacă și ele vor crede în DOMNUL; ele nu vor fi deopotrivă cu tine în privința binelui."
+      }
+     ]
     },
     {
      "v": "2:16",
      "t": "DOMNUL îl va lua pe Iuda ca moștenire pentru Sine, ca parte a Sa în Țara Sfântă și va alege din nou Ierusalimul.",
      "heb": "וְנָחַל יְהוָה אֶת־יְהוּדָה חֶלְקוֹ עַל אַדְמַת הַקֹּדֶשׁ וּבָחַר עוֹד בִּירוּשָׁלָ͏ִם׃",
-     "translit": "Venahal ADONAI et-Iehuda helko al admat hakodeș uvahar od b'Irușalaim."
+     "translit": "Venahal ADONAI et-Iehuda helko al admat hakodeș uvahar od b'Irușalaim.",
+     "tokens": [
+      {
+       "t": "DOMNUL îl va lua pe Iuda ca moștenire pentru Sine, ca parte a Sa în Țara Sfântă și va alege din nou Ierusalimul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְנָחַל יְהוָה אֶת־יְהוּדָה חֶלְקוֹ עַל אַדְמַת הַקֹּדֶשׁ וּבָחַר עוֹד בִּירוּשָׁלָ͏ִם׃",
+       "translation": "DOMNUL îl va lua pe Iuda ca moștenire pentru Sine, ca parte a Sa în Țara Sfântă și va alege din nou Ierusalimul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ κατακληρονομήσει Κύριος τὸν ᾿Ιούδαν, τὴν μερίδα αὐτοῦ ἐπὶ τὴν ἁγίαν, καὶ αἱρετιεῖ ἔτι τὴν ῾Ιερουσαλήμ.",
+       "greek": true,
+       "translation": "Și Domnul va avea ca moștenire pe Iuda, partea Lui, pe [țara] cea sfântă, și va alege din nou Ierusalimul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 32:9",
+      "Psalmul 135:4"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„DOMNUL [îl] va lua ca moștenire” — locul [Templului] îl va lua pe Iuda ca în vechime, să fie partea Lui pe veci în Țara Sfântă, și nu se vor mai duce pe ei în exil din ea. „Și va alege din nou Ierusalimul” — ca să-Și sălășluiască din nou Șechina acolo, ca înainte."
+      }
+     ]
     },
     {
      "v": "2:17",
      "t": "Să tacă orice vietate înaintea DOMNULUI, că El s-a ridicat din sălașul Său cel sfânt!",
      "heb": "הַס כָּל־בָּשָׂר מִפְּנֵי יְהוָה כִּי נֵעוֹר מִמְּעוֹן קָדְשׁוֹ׃",
-     "translit": "Has kol-basar mipenei ADONAI ki neor mimeon kodșo."
+     "translit": "Has kol-basar mipenei ADONAI ki neor mimeon kodșo.",
+     "tokens": [
+      {
+       "t": "Să tacă orice vietate înaintea DOMNULUI, că El s-a ridicat din "
+      },
+      {
+       "t": "sălașul Său cel sfânt",
+       "w": "sălașul Său cel sfânt",
+       "heb": "מִמְּעוֹן קָדְשׁוֹ",
+       "translit": "mimon kadșo",
+       "strong": "H6944",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, masculin singular construct + sufix",
+       "def_ro": "locuința/sălașul Lui cel sfânt (mimon kadșo).",
+       "dict_ro": "Maon — „sălaș, locuință” — descrie aici locuința cerească a lui Dumnezeu, de unde „Se ridică” pentru a interveni în istorie. Septuaginta traduce surprinzător maon („sălaș”) prin „nori” (nefelon), probabil o confuzie de citire a termenului ebraic rar — vezi diff_ro.",
+       "greek": "νεφελῶν (nephelon)",
+       "greek_def_ro": "νεφελῶν (nephelon) — nori — nu „sălaș/locuință”, cum are ebraica; Septuaginta pare să fi citit termenul ebraic diferit sau să-l fi redat liber.",
+       "diff_ro": "Septuaginta traduce „din sălașul Său cel sfânt” (mimon kadșo) prin „din norii Săi cei sfinți” (ἐκ νεφελῶν ἁγίων αὐτοῦ) — o echivalare neobișnuită a cuvântului maon, posibil din citirea unui text ebraic ușor diferit."
+      },
+      {
+       "t": "!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הַס כָּל־בָּשָׂר מִפְּנֵי יְהוָה כִּי נֵעוֹר מִמְּעוֹן קָדְשׁוֹ׃",
+       "translation": "Să tacă orice vietate înaintea DOMNULUI, că El s-a ridicat din sălașul Său cel sfânt! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εὐλαβείσθω πᾶσα σὰρξ ἀπὸ προσώπου Κυρίου, ὅτι ἐξεγήγερται ἐκ νεφελῶν ἁγίων αὐτοῦ.",
+       "greek": true,
+       "translation": "Să se cutremure orice făptură dinaintea feței Domnului, căci S-a sculat din norii Săi cei sfinți.",
+       "note": "Vezi nota de la cuvântul tagat „sălașul Său cel sfânt” — Septuaginta are „din norii Săi cei sfinți”, nu „din sălașul Său cel sfânt”."
+      }
+     ],
+     "refs": [
+      "Habacuc 2:20",
+      "Psalmul 11:4"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Să tacă orice vietate” — tot restul idolatrilor [neamurilor]. „Că El s-a ridicat” — expresie de trezire și grăbire (vezi Psalmul 35:23)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Să tacă orice vietate” — tăcea toate neamurile de frica DOMNULUI, și să nu mai adăugați să vă lărgiți gura împotriva lui Israel. „Că El s-a ridicat” — căci atunci Se va trezi din sălașul Lui cel sfânt din ceruri, ca să Se coboare să facă răzbunare asupra neamurilor; până acum tăcuse față de neamuri, ca și cum ar fi fost adormit, dar atunci Se va trezi, ca din somn."
+      }
+     ]
     },
     {
      "v": "3:1",
      "t": "Și [El] mi l-a arătat pe Marele Preot Ioșua stând înaintea unui înger al DOMNULUI, și pe Satan stând în dreapta lui, ca să-l acuze.",
      "heb": "וַיַּרְאֵנִי אֶת־יְהוֹשֻׁעַ הַכֹּהֵן הַגָּדוֹל עֹמֵד לִפְנֵי מַלְאַךְ יְהוָה וְהַשָּׂטָן עֹמֵד עַל־יְמִינוֹ לְשִׂטְנוֹ׃",
-     "translit": "Vaiareni et-Iehoșua hakohen hagadol omed lifnei malah ADONAI vehasatan omed al-iemino leșitno."
+     "translit": "Vaiareni et-Iehoșua hakohen hagadol omed lifnei malah ADONAI vehasatan omed al-iemino leșitno.",
+     "tokens": [
+      {
+       "t": "Și [El] mi l-a arătat pe Marele Preot Ioșua stând înaintea unui înger al DOMNULUI, și pe "
+      },
+      {
+       "t": "Satan",
+       "w": "Satan",
+       "heb": "וְהַשָּׂטָן",
+       "translit": "vehasatan",
+       "strong": "H7854",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Satan — „potrivnicul, acuzatorul” (hasatan).",
+       "dict_ro": "Satan apare ca titlu, nu nume propriu („ha-satan”, „potrivnicul”), exact ca în Iov 1-2 — un membru al curții cerești cu rolul de acuzator. Aici rolul lui e explicit „să-l acuze” (lesitno) pe Marele Preot Ioșua, pledând probabil pentru starea de păcat/impuritate a preoției în vremea exilului, nu pentru persoana lui individuală."
+      },
+      {
+       "t": " stând în dreapta lui, ca să-l acuze."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּרְאֵנִי אֶת־יְהוֹשֻׁעַ הַכֹּהֵן הַגָּדוֹל עֹמֵד לִפְנֵי מַלְאַךְ יְהוָה וְהַשָּׂטָן עֹמֵד עַל־יְמִינוֹ לְשִׂטְנוֹ׃",
+       "translation": "Și [El] mi l-a arătat pe Marele Preot Ioșua stând înaintea unui înger al DOMNULUI, și pe Satan stând în dreapta lui, ca să-l acuze. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἔδειξέ μοι Κύριος ᾿Ιησοῦν, τὸν ἱερέα τὸν μέγαν, ἑστῶτα πρὸ προσώπου ἀγγέλου Κυρίου, καὶ ὁ διάβολος εἱστήκει ἐκ δεξιῶν αὐτοῦ τοῦ ἀντικεῖσθαι αὐτῷ.",
+       "greek": true,
+       "translation": "Și mi-a arătat Domnul pe Iisus, preotul cel mare, stând înaintea îngerului Domnului, și diavolul stătea de-a dreapta lui, ca să i se împotrivească.",
+       "note": "Septuaginta traduce „ha-satan” direct prin „ho diabolos” (diavolul) ca nume, nu transliterat; Textul Masoretic are „în dreapta lui” (satan la dreapta), Septuaginta la fel."
+      }
+     ],
+     "refs": [
+      "Iov 1:6-12",
+      "Apocalipsa 12:9,10"
+     ],
+     "commentaries": [
+      {
+       "author": "Context: curtea cerească",
+       "text": "Scena curții cerești — cu Satan în rolul de acuzator stând la dreapta acuzatului — e aceeași structură ca în proemiul cărții lui Iov (Iov 1-2): Satan nu e un adversar cosmic egal lui Dumnezeu, ci un membru al curții divine cu rol specific de a ridica obiecții, aici împotriva stării morale a preoției aflate sub acuzare."
+      }
+     ]
     },
     {
      "v": "3:2",
      "t": "Și DOMNUL i-a spus lui Satan: „DOMNUL te va denunța, Satan, DOMNUL care alege Ierusalimul să te denunțe din nou. Oare nu este acesta tăciunele salvat din foc?”",
      "heb": "וַיֹּאמֶר יְהוָה אֶל־הַשָּׂטָן יִגְעַר יְהוָה בְּךָ הַשָּׂטָן וְיִגְעַר יְהוָה בְּךָ הַבֹּחֵר בִּירוּשָׁלָ͏ִם הֲלוֹא זֶה אוּד מֻצָּל מֵאֵשׁ׃",
-     "translit": "Vaiomer ADONAI el-hasatan igar ADONAI beha hasatan veigar ADONAI beha haboher b'Irușalaim halo ze ud muțal meeș."
+     "translit": "Vaiomer ADONAI el-hasatan igar ADONAI beha hasatan veigar ADONAI beha haboher b'Irușalaim halo ze ud muțal meeș.",
+     "tokens": [
+      {
+       "t": "Și DOMNUL i-a spus lui Satan: „DOMNUL te va denunța, Satan, DOMNUL care alege Ierusalimul să te denunțe din nou. Oare nu este acesta "
+      },
+      {
+       "t": "tăciunele",
+       "w": "tăciunele",
+       "heb": "אוּד",
+       "translit": "ud",
+       "strong": "H181",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "tăciune, vreasc scos din foc (ud).",
+       "dict_ro": "Imaginea „tăciunelui salvat din foc” revine la Amos 4:11, pentru o scăpare la limită dintr-o nimicire — aplicată aici lui Ioșua (și, simbolic, întregului popor întors din exilul babilonian) ca argument în apărarea lui Dumnezeu împotriva acuzației lui Satan: starea lor păcătoasă nu trebuie judecată prea dur, fiind deja „arsă” suficient de judecata exilului."
+      },
+      {
+       "t": " salvat din foc?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר יְהוָה אֶל־הַשָּׂטָן יִגְעַר יְהוָה בְּךָ הַשָּׂטָן וְיִגְעַר יְהוָה בְּךָ הַבֹּחֵר בִּירוּשָׁלָ͏ִם הֲלוֹא זֶה אוּד מֻצָּל מֵאֵשׁ׃",
+       "translation": "Și DOMNUL i-a spus lui Satan: „DOMNUL te va denunța, Satan, DOMNUL care alege Ierusalimul să te denunțe din nou. Oare nu este acesta tăciunele salvat din foc?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε Κύριος πρὸς τὸν διάβολον· ἐπιτιμήσαι Κύριος ἐν σοί, διάβολε, καὶ ἐπιτιμήσαι Κύριος ἐν σοὶ ὁ ἐκλεξάμενος τὴν ῾Ιερουσαλήμ· οὐκ ἰδοὺ τοῦτο ὡς δαλὸς ἐξεσπασμένος ἐκ πυρός;",
+       "greek": true,
+       "translation": "Și a spus Domnul către diavol: «Să te mustre Domnul, diavole, și să te mustre Domnul, Cel care a ales Ierusalimul; nu este acesta, iată, ca un tăciune scos din foc?»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Amos 4:11",
+      "Zaharia 1:17"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (adaptat)",
+       "text": "Dubla repetare „DOMNUL te va denunța... DOMNUL... să te denunțe din nou” întărește respingerea acuzației lui Satan: alegerea Ierusalimului de către DOMNUL e temeiul pentru care acuzația nu poate sta în picioare — cetatea aleasă nu poate fi lăsată fără un preot slujitor."
+      }
+     ]
     },
     {
      "v": "3:3",
      "t": "Iar Ioșua era îmbrăcat cu haine murdare și stătea înaintea îngerului.",
      "heb": "וִיהוֹשֻׁעַ הָיָה לָבֻשׁ בְּגָדִים צוֹאִים וְעֹמֵד לִפְנֵי הַמַּלְאָךְ׃",
-     "translit": "V'Ihoșua haia lavuș begadim țeim veomed lifnei hamalah."
+     "translit": "V'Ihoșua haia lavuș begadim țeim veomed lifnei hamalah.",
+     "tokens": [
+      {
+       "t": "Iar Ioșua era îmbrăcat cu haine murdare și stătea înaintea îngerului."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וִיהוֹשֻׁעַ הָיָה לָבֻשׁ בְּגָדִים צוֹאִים וְעֹמֵד לִפְנֵי הַמַּלְאָךְ׃",
+       "translation": "Iar Ioșua era îmbrăcat cu haine murdare și stătea înaintea îngerului. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ᾿Ιησοῦς ἦν ἐνδεδυμένος ἱμάτια ῥυπαρὰ καὶ εἱστήκει πρὸ προσώπου τοῦ ἀγγέλου.",
+       "greek": true,
+       "translation": "Și Iisus era îmbrăcat în veșminte murdare și stătea înaintea îngerului.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 64:6"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:4",
      "t": "Și [îngerul] a răspuns și a spus celor care stăteau înaintea lui, spunând: „Îndepărtați hainele murdare de pe el!” Și i-a spus: „Uite, am îndepărtat păcatul tău de asupra ta și te-am îmbrăcat cu haine curate.”",
      "heb": "וַיַּעַן וַיֹּאמֶר אֶל־הָעֹמְדִים לְפָנָיו לֵאמֹר הָסִירוּ הַבְּגָדִים הַצֹּאִים מֵעָלָיו וַיֹּאמֶר אֵלָיו רְאֵה הֶעֱבַרְתִּי מֵעָלֶיךָ עֲוֺנֶךָ וְהַלְבֵּשׁ אֹתְךָ מַחֲלָצוֹת׃",
-     "translit": "Vaiaan vaiomer el-haomdim lefanav lemor hasiru habegadim hațeim mealav vaiomer elav ree heevarti mealéha avoneha vehalbéș otha mahalațot."
+     "translit": "Vaiaan vaiomer el-haomdim lefanav lemor hasiru habegadim hațeim mealav vaiomer elav ree heevarti mealéha avoneha vehalbéș otha mahalațot.",
+     "tokens": [
+      {
+       "t": "Și [îngerul] a răspuns și a spus celor care stăteau înaintea lui, spunând: „Îndepărtați hainele murdare de pe el!” Și i-a spus: „Uite, "
+      },
+      {
+       "t": "am îndepărtat păcatul tău",
+       "w": "am îndepărtat păcatul tău",
+       "heb": "עֲוֺנֶךָ",
+       "translit": "avoneha",
+       "strong": "H5771",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "nelegiuirea/vina ta (avoneha).",
+       "dict_ro": "Avon — „nelegiuire, vină” — îndepărtarea simbolică a vinei lui Ioșua prin schimbarea veșmintelor murdare cu unele curate reflectă exact logica rutualului de ispășire a Marelui Preot: hainele reprezintă starea morală, nu doar aspectul fizic."
+      },
+      {
+       "t": " de asupra ta și te-am îmbrăcat cu haine curate.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַן וַיֹּאמֶר אֶל־הָעֹמְדִים לְפָנָיו לֵאמֹר הָסִירוּ הַבְּגָדִים הַצֹּאִים מֵעָלָיו וַיֹּאמֶר אֵלָיו רְאֵה הֶעֱבַרְתִּי מֵעָלֶיךָ עֲוֺנֶךָ וְהַלְבֵּשׁ אֹתְךָ מַחֲלָצוֹת׃",
+       "translation": "Și [îngerul] a răspuns și a spus celor care stăteau înaintea lui, spunând: „Îndepărtați hainele murdare de pe el!” Și i-a spus: „Uite, am îndepărtat păcatul tău de asupra ta și te-am îmbrăcat cu haine curate.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπεκρίθη καὶ εἶπε πρὸς τοὺς ἑστηκότας πρὸ προσώπου αὐτοῦ λέγων· ἀφέλετε τὰ ἱμάτια τὰ ρυπαρὰ ἀπ᾿ αὐτοῦ. καὶ εἶπε πρὸς αὐτόν· ἰδοὺ ἀφῄρηκα τὰς ἀνομίας σου, καὶ ἐνδύσατε αὐτὸν ποδήρη",
+       "greek": true,
+       "translation": "Și a răspuns și a spus celor care stăteau înaintea lui, spunând: «Luați veșmintele murdare de pe el.» Și i-a spus: «Iată, am luat nelegiuirile tale», și l-au îmbrăcat cu veșmânt lung,",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 6:5-7",
+      "Isaia 61:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Îndepărtați hainele murdare de pe el” — [îngerul le spune] celor care stăteau înaintea lui [a lui Ioșua] să-i scoată veșmintele murdare — simbol al păcatului îndepărtat, nu doar al schimbării de haine."
+      }
+     ]
     },
     {
      "v": "3:5",
      "t": "Apoi a spus: „Să i se pună un turban curat pe cap” și ei i-au pus un turban curat pe cap și l-au îmbrăcat cu [alte] haine; iar îngerul DOMNULUI stătea [acolo].",
      "heb": "וָאֹמַר יָשִׂימוּ צָנִיף טָהוֹר עַל־רֹאשׁוֹ וַיָּשִׂימוּ הַצָּנִיף הַטָּהוֹר עַל־רֹאשׁוֹ וַיַּלְבִּשֻׁהוּ בְּגָדִים וּמַלְאַךְ יְהוָה עֹמֵד׃",
-     "translit": "Vaomar iasimu țanif tahor al-roșo vaiasimu hațanif hatahor al-roșo vailbișuhu begadim umalah ADONAI omed."
+     "translit": "Vaomar iasimu țanif tahor al-roșo vaiasimu hațanif hatahor al-roșo vailbișuhu begadim umalah ADONAI omed.",
+     "tokens": [
+      {
+       "t": "Apoi a spus: „Să i se pună un "
+      },
+      {
+       "t": "turban curat",
+       "w": "turban curat",
+       "heb": "צָנִיף טָהוֹר",
+       "translit": "țanif tahor",
+       "strong": "H2889",
+       "pos": "substantiv, masculin și feminin singular + adjectiv, masculin singular",
+       "def_ro": "turban/legătură de cap curată (țanif tahor).",
+       "dict_ro": "Tanif — un termen rar pentru acoperământul de cap, diferit de mitznefet (turbanul tehnic al Marelui Preot din Exodul 28) — Radak și alți comentatori îl identifică totuși cu simbolul demnității sacerdotale restaurate a lui Ioșua."
+      },
+      {
+       "t": " pe cap” și ei i-au pus un turban curat pe cap și l-au îmbrăcat cu [alte] haine; iar îngerul DOMNULUI stătea [acolo]."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וָאֹמַר יָשִׂימוּ צָנִיף טָהוֹר עַל־רֹאשׁוֹ וַיָּשִׂימוּ הַצָּנִיף הַטָּהוֹר עַל־רֹאשׁוֹ וַיַּלְבִּשֻׁהוּ בְּגָדִים וּמַלְאַךְ יְהוָה עֹמֵד׃",
+       "translation": "Apoi a spus: „Să i se pună un turban curat pe cap” și ei i-au pus un turban curat pe cap și l-au îmbrăcat cu [alte] haine; iar îngerul DOMNULUI stătea [acolo]. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπίθετε κίδαριν καθαρὰν ἐπὶ τήν κεφαλὴν αὐτοῦ. καί περιέβαλον αὐτὸν ἱμάτια καὶ ἐπέθηκαν κίδαριν καθαρὰν ἐπὶ τὴν κεφαλὴν αὐτοῦ καὶ ὁ ἄγγελος Κυρίου εἱστήκει.",
+       "greek": true,
+       "translation": "și i-au pus pe cap o mitră curată. Și l-au înveșmântat cu veșminte, și i-au pus pe cap mitra curată, și îngerul Domnului stătea [acolo].",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 28:2-4"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:6",
      "t": "Și îngerul DOMNULUI l-a avertizat pe Ioșua, spunând:",
      "heb": "וַיָּעַד מַלְאַךְ יְהוָה בִּיהוֹשֻׁעַ לֵאמֹר׃",
-     "translit": "Vaiaad malah ADONAI b'Ihoșua lemor."
+     "translit": "Vaiaad malah ADONAI b'Ihoșua lemor.",
+     "tokens": [
+      {
+       "t": "Și îngerul DOMNULUI l-a avertizat pe Ioșua, spunând:"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּעַד מַלְאַךְ יְהוָה בִּיהוֹשֻׁעַ לֵאמֹר׃",
+       "translation": "Și îngerul DOMNULUI l-a avertizat pe Ioșua, spunând: — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ διεμαρτύρατο ὁ ἄγγελος Κυρίου πρὸς ᾿Ιησοῦν λέγων·",
+       "greek": true,
+       "translation": "Și a mărturisit îngerul Domnului către Iisus, spunând:",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "3:7",
      "t": "„Așa a spus DOMNUL Oștirilor: «Dacă vei merge pe căile Mele și dacă sarcina Mea o vei păzi, atunci și tu vei guvernă Casa Mea și vei păzi curțile Mele și îți voi da voie să te miști printre acești [îngeri] neclintiți.",
      "heb": "כֹּה־אָמַר יְהוָה צְבָאוֹת אִם־בִּדְרָכַי תֵּלֵךְ וְאִם אֶת־מִשְׁמַרְתִּי תִשְׁמֹר וְגַם־אַתָּה תָּדִין אֶת־בֵּיתִי וְגַם תִּשְׁמֹר אֶת־חֲצֵרָי וְנָתַתִּי לְךָ מַהְלְכִים בֵּין הָעֹמְדִים הָאֵלֶּה׃",
-     "translit": "Ko-amar ADONAI Țevaot im-bidrahai teleh veim et-mișmarti tișmor vegam-ata tadin et-beiti vegam tișmor et-hațerai venatati leha mahlehim bein haomdim haele."
+     "translit": "Ko-amar ADONAI Țevaot im-bidrahai teleh veim et-mișmarti tișmor vegam-ata tadin et-beiti vegam tișmor et-hațerai venatati leha mahlehim bein haomdim haele.",
+     "tokens": [
+      {
+       "t": "„Așa a spus DOMNUL Oștirilor: «Dacă vei merge pe căile Mele și dacă sarcina Mea o vei păzi, atunci și tu vei guvernă Casa Mea și vei păzi curțile Mele și îți voi da voie să te miști printre acești [îngeri] neclintiți."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כֹּה־אָמַר יְהוָה צְבָאוֹת אִם־בִּדְרָכַי תֵּלֵךְ וְאִם אֶת־מִשְׁמַרְתִּי תִשְׁמֹר וְגַם־אַתָּה תָּדִין אֶת־בֵּיתִי וְגַם תִּשְׁמֹר אֶת־חֲצֵרָי וְנָתַתִּי לְךָ מַהְלְכִים בֵּין הָעֹמְדִים הָאֵלֶּה׃",
+       "translation": "„Așa a spus DOMNUL Oștirilor: «Dacă vei merge pe căile Mele și dacă sarcina Mea o vei păzi, atunci și tu vei guvernă Casa Mea și vei păzi curțile Mele și îți voi da voie să te miști printre acești [îngeri] neclintiți. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τάδε λέγει Κύριος παντοκράτωρ· ἐὰν ἐν ταῖς ὁδοῖς μου πορεύῃ καὶ ἐὰν τὰ προστάγματά μου φυλάξῃς, καὶ σὺ διακρινεῖς τὸν οἶκόν μου· καὶ ἐὰν διαφυλάξῃς καί γε τὴν αὐλήν μου, καὶ δώσω σοι ἀναστρεφομένους ἐν μέσῳ τῶν ἑστηκότων τούτων.",
+       "greek": true,
+       "translation": "Așa spune Domnul Atotțiitorul: «Dacă vei merge pe căile Mele și dacă vei păzi poruncile Mele, tu vei judeca [și] Casa Mea; și dacă vei păzi și curtea Mea, îți voi da [să te plimbi] printre cei care stau aici.»",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 17:8-13",
+      "1 Împărați 2:3"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:8",
      "t": "Ascultă așadar, Ioșua, Mare Preot – tu și semenii tăi care sunt așezați înaintea ta, căci acești oameni sunt un semn – căci iată-Mă,",
      "heb": "שְׁמַע־נָא יְהוֹשֻׁעַ הַכֹּהֵן הַגָּדוֹל אַתָּה וְרֵעֶיךָ הַיֹּשְׁבִים לְפָנֶיךָ כִּי־אַנְשֵׁי מוֹפֵת הֵמָּה כִּי־הִנְנִי",
-     "translit": "Șema-na Iehoșua hakohen hagadol ata vereeha haioșvim lefaneha ki-anșei mofet hema ki-hineni"
+     "translit": "Șema-na Iehoșua hakohen hagadol ata vereeha haioșvim lefaneha ki-anșei mofet hema ki-hineni",
+     "tokens": [
+      {
+       "t": "Ascultă așadar, Ioșua, Mare Preot – tu și semenii tăi care sunt așezați înaintea ta, căci acești oameni sunt un semn – căci iată-Mă,"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "שְׁמַע־נָא יְהוֹשֻׁעַ הַכֹּהֵן הַגָּדוֹל אַתָּה וְרֵעֶיךָ הַיֹּשְׁבִים לְפָנֶיךָ כִּי־אַנְשֵׁי מוֹפֵת הֵמָּה כִּי־הִנְנִי",
+       "translation": "Ascultă așadar, Ioșua, Mare Preot – tu și semenii tăi care sunt așezați înaintea ta, căci acești oameni sunt un semn – căci iată-Mă, — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἄκουε δή, ᾿Ιησοῦ ὁ ἱερεὺς ὁ μέγας, σὺ καὶ οἱ πλησίον σου οἱ καθήμενοι πρὸ προσώπου σου, διότι ἄνδρες τερατοσκόποι εἰσί· διότι ἰδοὺ ἐγὼ ἄγω τὸν δοῦλόν μου ᾿Ανατολήν·",
+       "greek": true,
+       "translation": "Ascultă deci, Iisus, preotul cel mare, tu și cei de lângă tine care șed înaintea ta, căci sunt oameni [ce dau] semne minunate; căci, iată, Eu îl aduc pe slujitorul Meu, Răsăritul.",
+       "note": "Vezi nota de la cuvântul tagat „vlăstarul” — Septuaginta traduce țemah prin „Anatole” (Răsărit)."
+      }
+     ],
+     "refs": [
+      "Isaia 11:1",
+      "Ieremia 23:5",
+      "Zaharia 6:12"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Vlăstarul” (țemah) numit aici „slujitorul Meu” se referă, în sensul imediat, la Zerubavel, urmaș al casei lui David chemat să reconstruiască Templul — dar tradiția a văzut în titlu și o prefigurare a restaurării depline, mesianice, a dinastiei davidice."
+      }
+     ]
     },
     {
      "v": "3:9",
      "t": "îl aduc pe slujitorul Meu, vlăstarul. Căci iată piatra pe care am pus-o înaintea lui Ioșua – pe o singură piatră sunt șapte ochi; iată-Mă, îi voi ciopli pe ea podoaba – rostirea DOMNULUI Oștirilor – și am îndepărtat păcatul acestei țări într-o singură zi.",
      "heb": "מֵבִיא אֶת־עַבְדִּי צֶמַח׃ כִּי הִנֵּה הָאֶבֶן אֲשֶׁר נָתַתִּי לִפְנֵי יְהוֹשֻׁעַ עַל־אֶבֶן אַחַת שִׁבְעָה עֵינָיִם הִנְנִי מְפַתֵּחַ פִּתֻּחָהּ נְאֻם יְהוָה צְבָאוֹת וּמַשְׁתִּי אֶת־עֲוֺן הָאָרֶץ־הַהִיא בְּיוֹם אֶחָד׃",
-     "translit": "mevi et-avdi țemah. Ki hine haeven așer natati lifnei Iehoșua al-even ahat șiva einaim hineni mefateah pituha neum ADONAI Țevaot umaști et-avon haareț-hahi beiom ehad."
+     "translit": "mevi et-avdi țemah. Ki hine haeven așer natati lifnei Iehoșua al-even ahat șiva einaim hineni mefateah pituha neum ADONAI Țevaot umaști et-avon haareț-hahi beiom ehad.",
+     "tokens": [
+      {
+       "t": "îl aduc pe slujitorul Meu, "
+      },
+      {
+       "t": "vlăstarul",
+       "w": "vlăstarul",
+       "heb": "צֶמַח",
+       "translit": "țemah",
+       "strong": "H6780",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "mlădiță, vlăstar, odraslă (țemah).",
+       "dict_ro": "Țemah — „mlădiță” — e unul dintre titlurile mesianice clasice, reluat explicit la Zaharia 6:12 („Iată Omul care se numește Vlăstarul”) și corespunzător lui „netzer” din Isaia 11:1 și „tzemah tzadik” („vlăstar drept”) din Ieremia 23:5 — aici aplicat lui Zerubavel ca prefigurare a restaurării davidice depline. (Cuvântul ebraic e ultimul din versetul precedent — traducerea Rosen a mutat propoziția pe care se încheie la începutul acestui verset.)",
+       "greek": "Ἀνατολήν (Anatolen)",
+       "greek_def_ro": "Ἀνατολήν (Anatolen) — Răsărit, Odraslă — Septuaginta traduce țemah prin „Anatole” (Răsărit/Odraslă), joc de sensuri reluat în tradiția creștină timpurie ca titlu hristologic (vezi Luca 1:78, „răsăritul de sus”)."
+      },
+      {
+       "t": ". Căci iată piatra pe care am pus-o înaintea lui Ioșua – pe o singură piatră sunt "
+      },
+      {
+       "t": "șapte ochi",
+       "w": "șapte ochi",
+       "heb": "שִׁבְעָה עֵינָיִם",
+       "translit": "șiva ēnaim",
+       "strong": "H5869",
+       "pos": "numeral + substantiv, masculin și feminin dual",
+       "def_ro": "șapte ochi (șiva enaim) — simbol al atenției/supravegherii divine depline.",
+       "dict_ro": "Cei „șapte ochi” de pe piatră revin la Zaharia 4:10, unde sunt identificați explicit cu „ochii DOMNULUI, care cutreieră tot pământul” — un simbol al supravegherii providențiale depline, nu o descriere literală a sculpturii."
+      },
+      {
+       "t": "; iată-Mă, îi voi ciopli pe ea "
+      },
+      {
+       "t": "podoaba",
+       "w": "podoaba",
+       "heb": "פִּתֻּחָהּ",
+       "translit": "pituhah",
+       "strong": "H6603",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "cioplitura, sculptura ei (pituhah).",
+       "dict_ro": "Pituah — „cioplitură, sculptură” — descrie o lucrare de gravură artistică pe piatră. Septuaginta citește complet diferit acest cuvânt rar, traducându-l „sap o groapă” (ὀρύσσω βόθρον) — o divergență majoră, posibil din confuzia unei rădăcini ebraice asemănătoare.",
+       "greek": "βόθρον (bothron)",
+       "greek_def_ro": "βόθρον (bothron) — groapă, fântână — nu „cioplitură/sculptură”, cum are ebraica.",
+       "diff_ro": "Septuaginta citește complet diferit acest cuvânt rar: „voi ciopli pe ea podoaba” (ebraică) devine „sap o groapă” (ὀρύσσω βόθρον) — probabil o confuzie cu altă rădăcină ebraică similară grafic."
+      },
+      {
+       "t": " – rostirea DOMNULUI Oștirilor – și am îndepărtat păcatul acestei țări într-o singură zi."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מֵבִיא אֶת־עַבְדִּי צֶמַח׃ כִּי הִנֵּה הָאֶבֶן אֲשֶׁר נָתַתִּי לִפְנֵי יְהוֹשֻׁעַ עַל־אֶבֶן אַחַת שִׁבְעָה עֵינָיִם הִנְנִי מְפַתֵּחַ פִּתֻּחָהּ נְאֻם יְהוָה צְבָאוֹת וּמַשְׁתִּי אֶת־עֲוֺן הָאָרֶץ־הַהִיא בְּיוֹם אֶחָד׃",
+       "translation": "îl aduc pe slujitorul Meu, vlăstarul. Căci iată piatra pe care am pus-o înaintea lui Ioșua – pe o singură piatră sunt șapte ochi; iată-Mă, îi voi ciopli pe ea podoaba – rostirea DOMNULUI Oștirilor – și am îndepărtat păcatul acestei țări într-o singură zi. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "διότι ὁ λίθος, ὃν ἔδωκα πρὸ προσώπου τοῦ ᾿Ιησοῦ, ἐπὶ τὸν λίθον τὸν ἕνα ἑπτὰ ὀφθαλμοί εἰσιν. ἰδοὺ ἐγὼ ὀρύσσω βόθρον, λέγει Κύριος παντοκράτωρ, καὶ ψηλαφήσω πᾶσαν τὴν ἀδικίαν τῆς γῆς ἐκείνης ἐν ἡμέρᾳ μιᾷ.",
+       "greek": true,
+       "translation": "Căci piatra pe care am pus-o înaintea lui Iisus — pe piatra aceasta una [sunt] șapte ochi; iată, Eu sap o groapă, spune Domnul Atotțiitorul, și voi cerceta toată nedreptatea țării aceleia într-o singură zi.",
+       "note": "Vezi nota de la cuvântul tagat „podoaba” — Septuaginta are „sap o groapă”, nu „voi ciopli podoaba”."
+      }
+     ],
+     "refs": [
+      "Zaharia 4:10",
+      "Psalmul 118:22"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Pe o singură piatră sunt șapte ochi” — simbol al desăvârșitei privegheri [divine] asupra ei; la fel se explică și la Zaharia 4:10, unde cei șapte ochi sunt identificați direct cu ochii DOMNULUI care cutreieră tot pământul."
+      }
+     ]
     },
     {
      "v": "3:10",
      "t": "În ziua aceea – rostirea DOMNULUI Oștirilor – fiecare va chema pe semenul său sub vița-de-vie și sub smochin.»”",
      "heb": "בַּיּוֹם הַהוּא נְאֻם יְהוָה צְבָאוֹת תִּקְרְאוּ אִישׁ לְרֵעֵהוּ אֶל־תַּחַת גֶּפֶן וְאֶל־תַּחַת תְּאֵנָה׃",
-     "translit": "Baiom hahu neum ADONAI Țevaot tikreu iș lereehu el-tahat ghefen veel-tahat teena."
+     "translit": "Baiom hahu neum ADONAI Țevaot tikreu iș lereehu el-tahat ghefen veel-tahat teena.",
+     "tokens": [
+      {
+       "t": "În ziua aceea – rostirea DOMNULUI Oștirilor – fiecare va chema pe semenul său sub "
+      },
+      {
+       "t": "vița-de-vie și sub smochin",
+       "w": "vița-de-vie și sub smochin",
+       "heb": "גֶּפֶן תְּאֵנָה",
+       "translit": "gefen teēna",
+       "strong": "H8384",
+       "pos": "substantiv, masculin și feminin singular + substantiv, feminin singular",
+       "def_ro": "vie (gefen) și smochin (teena) — imagine idiomatică a păcii și prosperității.",
+       "dict_ro": "Formula „fiecare sub vița lui și sub smochinul lui” e idiomul biblic standard pentru pacea și belșugul mesianic, reluat identic la Mica 4:4 și descriind deja epoca de aur a lui Solomon la 1 Împărați 4:25."
+      },
+      {
+       "t": ".»”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בַּיּוֹם הַהוּא נְאֻם יְהוָה צְבָאוֹת תִּקְרְאוּ אִישׁ לְרֵעֵהוּ אֶל־תַּחַת גֶּפֶן וְאֶל־תַּחַת תְּאֵנָה׃",
+       "translation": "În ziua aceea – rostirea DOMNULUI Oștirilor – fiecare va chema pe semenul său sub vița-de-vie și sub smochin.»” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγει Κύριος παντοκράτωρ, συγκαλέσετε ἕκαστος τὸν πλησίον αὐτοῦ ὑποκάτω ἀμπέλου καὶ ὑποκάτω συκῆς.",
+       "greek": true,
+       "translation": "În ziua aceea, spune Domnul Atotțiitorul, veți chema fiecare pe vecinul lui sub viță și sub smochin.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Mica 4:4",
+      "1 Împărați 4:25"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:1",
      "t": "Apoi îngerul care îmi vorbise s-a întors și m-a deșteptat, precum se deșteaptă un om din somnul său.",
      "heb": "וַיָּשָׁב הַמַּלְאָךְ הַדֹּבֵר בִּי וַיְעִירֵנִי כְּאִישׁ אֲשֶׁר־יֵעוֹר מִשְּׁנָתוֹ׃",
-     "translit": "Vaiasov hamalah hadover bi vaieireni keiș așer-ieor mișnato."
+     "translit": "Vaiasov hamalah hadover bi vaieireni keiș așer-ieor mișnato.",
+     "tokens": [
+      {
+       "t": "Apoi îngerul care îmi vorbise s-a întors și m-a deșteptat, precum se deșteaptă un om din somnul său."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיָּשָׁב הַמַּלְאָךְ הַדֹּבֵר בִּי וַיְעִירֵנִי כְּאִישׁ אֲשֶׁר־יֵעוֹר מִשְּׁנָתוֹ׃",
+       "translation": "Apoi îngerul care îmi vorbise s-a întors și m-a deșteptat, precum se deșteaptă un om din somnul său. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐπέστρεψεν ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοὶ καὶ ἐξήγειρέ με ὃν τρόπον ὅταν ἐξεγερθῇ ἄνθρωπος ἐξ ὕπνου αὐτοῦ",
+       "greek": true,
+       "translation": "Și s-a întors îngerul care grăia în mine și m-a trezit, precum se trezește omul din somnul lui.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "4:2",
      "t": "Și mi-a spus: „Ce vezi?” Iar eu i-am spus: „M-am uitat și iată: un sfeșnic în întregime din aur, având bolul lui [cu untdelemn] în vârful lui și șapte candele deasupra lui; și șapte tuburi la candelele care sunt la vârful lui.",
      "heb": "וַיֹּאמֶר אֵלַי מָה אַתָּה רֹאֶה וָאֹמַר רָאִיתִי וְהִנֵּה מְנוֹרַת זָהָב כֻּלָּהּ וְגֻלָּהּ עַל־רֹאשָׁהּ וְשִׁבְעָה נֵרֹתֶיהָ עָלֶיהָ שִׁבְעָה וְשִׁבְעָה מוּצָקוֹת לַנֵּרוֹת אֲשֶׁר עַל־רֹאשָׁהּ׃",
-     "translit": "Vaiomer elai ma ata roe vaomar raiti vehine menorat zahav kula vegula al-roșa veșiva neroteha aleha șiva veșiva muțakot lanerot așer al-roșa."
+     "translit": "Vaiomer elai ma ata roe vaomar raiti vehine menorat zahav kula vegula al-roșa veșiva neroteha aleha șiva veșiva muțakot lanerot așer al-roșa.",
+     "tokens": [
+      {
+       "t": "Și mi-a spus: „Ce vezi?” Iar eu i-am spus: „M-am uitat și iată: un "
+      },
+      {
+       "t": "sfeșnic în întregime din aur",
+       "w": "sfeșnic în întregime din aur",
+       "heb": "מְנוֹרַת זָהָב",
+       "translit": "menorat zahav",
+       "strong": "H2091",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "sfeșnic de aur (menorat zahav).",
+       "dict_ro": "Viziunea sfeșnicului de aur cu șapte candele reia direct forma Menorei din Cortul Întâlnirii (Exodul 25:31-38) — dar aici nu mai e alimentată manual de preoți, ci de cei doi măslini (v.3), simbol că restaurarea Templului nu depinde de puterea omenească, ci de harul divin (v.6)."
+      },
+      {
+       "t": ", având bolul lui [cu untdelemn] în vârful lui și șapte candele deasupra lui; și șapte tuburi la candelele care sunt la vârful lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיֹּאמֶר אֵלַי מָה אַתָּה רֹאֶה וָאֹמַר רָאִיתִי וְהִנֵּה מְנוֹרַת זָהָב כֻּלָּהּ וְגֻלָּהּ עַל־רֹאשָׁהּ וְשִׁבְעָה נֵרֹתֶיהָ עָלֶיהָ שִׁבְעָה וְשִׁבְעָה מוּצָקוֹת לַנֵּרוֹת אֲשֶׁר עַל־רֹאשָׁהּ׃",
+       "translation": "Și mi-a spus: „Ce vezi?” Iar eu i-am spus: „M-am uitat și iată: un sfeșnic în întregime din aur, având bolul lui [cu untdelemn] în vârful lui și șapte candele deasupra lui; și șapte tuburi la candelele care sunt la vârful lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶπε πρός με· τί σὺ βλέπεις; καὶ εἶπα· ἑώρακα καὶ ἰδοὺ λυχνία χρυσῆ ὅλη, καὶ τὸ λαμπάδιον ἐπάνω αὐτῆς, καὶ ἑπτὰ λύχνοι ἐπάνω αὐτῆς, καὶ ἑπτὰ ἐπαρυστρίδες τοῖς λύχνοις τοῖς ἐπάνω αὐτῆς·",
+       "greek": true,
+       "translation": "Și mi-a spus: «Ce vezi tu?» Și am spus: «Am văzut, și iată, un sfeșnic de aur, întreg, și candela lui pe vârful lui, și șapte candele pe vârful lui, și șapte țevi la candelele de pe vârful lui.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 25:31-38",
+      "Apocalipsa 1:12,20"
+     ],
+     "commentaries": []
     },
     {
      "v": "4:3",
      "t": "Și doi măslini sunt lângă el, unul în dreapta bolului și unul în stânga lui.”",
      "heb": "וּשְׁנַיִם זֵיתִים עָלֶיהָ אֶחָד מִימִין הַגֻּלָּה וְאֶחָד עַל־שְׂמֹאלָהּ׃",
-     "translit": "Ușenaim zeitim aleha ehad mimin hagula veehad al-semola."
+     "translit": "Ușenaim zeitim aleha ehad mimin hagula veehad al-semola.",
+     "tokens": [
+      {
+       "t": "Și doi măslini sunt lângă el, unul în dreapta bolului și unul în stânga lui.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּשְׁנַיִם זֵיתִים עָלֶיהָ אֶחָד מִימִין הַגֻּלָּה וְאֶחָד עַל־שְׂמֹאלָהּ׃",
+       "translation": "Și doi măslini sunt lângă el, unul în dreapta bolului și unul în stânga lui.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ δύο ἐλαῖαι ἐπάνω αὐτῆς, μία ἐκ δεξιῶν τοῦ λαμπαδίου αὐτῆς καὶ μία ἐξ εὐωνύμων.",
+       "greek": true,
+       "translation": "Și doi măslini peste el, unul la dreapta candelei lui și unul la stânga.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "4:4",
      "t": "Și am răspuns și i-am spus îngerului care îmi vorbea, spunând: „Ce sunt acestea, stăpâne?”",
      "heb": "וָאַעַן וָאֹמַר אֶל־הַמַּלְאָךְ הַדֹּבֵר בִּי לֵאמֹר מָה־אֵלֶּה אֲדֹנִי׃",
-     "translit": "Vaaan vaomar el-hamalah hadover bi lemor ma-ele adoni."
+     "translit": "Vaaan vaomar el-hamalah hadover bi lemor ma-ele adoni.",
+     "tokens": [
+      {
+       "t": "Și am răspuns și i-am spus îngerului care îmi vorbea, spunând: „Ce sunt acestea, stăpâne?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וָאַעַן וָאֹמַר אֶל־הַמַּלְאָךְ הַדֹּבֵר בִּי לֵאמֹר מָה־אֵלֶּה אֲדֹנִי׃",
+       "translation": "Și am răspuns și i-am spus îngerului care îmi vorbea, spunând: „Ce sunt acestea, stăpâne?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπηρώτησα καὶ εἶπα πρὸς τὸν ἄγγελον τὸν λαλοῦντα ἐν ἐμοὶ λέγων· τί ἐστι ταῦτα, κύριε;",
+       "greek": true,
+       "translation": "Și am întrebat și am spus îngerului care grăia în mine, zicând: «Ce sunt acestea, doamne?»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "4:5",
      "t": "Îngerul care îmi vorbea a răspuns și mi-a spus: „Nu știi ce sunt acestea?” Iar eu i-am spus: „Nu, stăpâne.”",
      "heb": "וַיַּעַן הַמַּלְאָךְ הַדֹּבֵר בִּי וַיֹּאמֶר אֵלַי הֲלוֹא יָדַעְתָּ מָה־הֵמָּה אֵלֶּה וָאֹמַר לֹא אֲדֹנִי׃",
-     "translit": "Vaiaan hamalah hadover bi vaiomer elai halo iadata ma-hema ele vaomar lo adoni."
+     "translit": "Vaiaan hamalah hadover bi vaiomer elai halo iadata ma-hema ele vaomar lo adoni.",
+     "tokens": [
+      {
+       "t": "Îngerul care îmi vorbea a răspuns și mi-a spus: „Nu știi ce sunt acestea?” Iar eu i-am spus: „Nu, stăpâne.”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַן הַמַּלְאָךְ הַדֹּבֵר בִּי וַיֹּאמֶר אֵלַי הֲלוֹא יָדַעְתָּ מָה־הֵמָּה אֵלֶּה וָאֹמַר לֹא אֲדֹנִי׃",
+       "translation": "Îngerul care îmi vorbea a răspuns și mi-a spus: „Nu știi ce sunt acestea?” Iar eu i-am spus: „Nu, stăpâne.” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπεκρίθη ὁ ἄγγελος ὁ λαλῶν ἐν ἐμοὶ καὶ εἶπε πρός με λέγων· οὐ γινώσκεις τί ἐστι ταῦτα; καὶ εἶπα· οὐχί, κύριε.",
+       "greek": true,
+       "translation": "Și a răspuns îngerul care grăia în mine și mi-a spus: «Nu știi ce sunt acestea?» Și am spus: «Nu, doamne.»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [],
+     "commentaries": []
     },
     {
      "v": "4:6",
      "t": "El a răspuns și mi-a spus astfel: „Acesta este cuvântul DOMNULUI către Zerubavel, spunând: «Nu prin oștire și nu prin putere, ci numai prin duhul Meu», a spus DOMNUL Oștirilor.",
      "heb": "וַיַּעַן וַיֹּאמֶר אֵלַי לֵאמֹר זֶה דְּבַר־יְהוָה אֶל־זְרֻבָּבֶל לֵאמֹר לֹא בְחַיִל וְלֹא בְכֹחַ כִּי אִם־בְּרוּחִי אָמַר יְהוָה צְבָאוֹת׃",
-     "translit": "Vaiaan vaiomer elai lemor ze devar-ADONAI el-Zerubavel lemor lo vehail velo vehoah ki im-beruhi amar ADONAI Țevaot."
+     "translit": "Vaiaan vaiomer elai lemor ze devar-ADONAI el-Zerubavel lemor lo vehail velo vehoah ki im-beruhi amar ADONAI Țevaot.",
+     "tokens": [
+      {
+       "t": "El a răspuns și mi-a spus astfel: „Acesta este cuvântul DOMNULUI către Zerubavel, spunând: «Nu prin oștire și nu prin putere, ci numai prin "
+      },
+      {
+       "t": "duhul Meu",
+       "w": "duhul Meu",
+       "heb": "בְּרוּחִי",
+       "translit": "beruhi",
+       "strong": "H7307",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "Duhul Meu (ruhi).",
+       "dict_ro": "Acesta e versetul-cheie al întregii viziuni, și motivul pentru care haftara e citită de Hanuca: restaurarea Templului al doilea (și, implicit, biruința Macabeilor sărbătorită la Hanuca) nu se datorează puterii militare („nu prin oștire și nu prin putere”), ci Duhului lui Dumnezeu — temă centrală a sărbătorii luminilor."
+      },
+      {
+       "t": "», a spus DOMNUL Oștirilor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיַּעַן וַיֹּאמֶר אֵלַי לֵאמֹר זֶה דְּבַר־יְהוָה אֶל־זְרֻבָּבֶל לֵאמֹר לֹא בְחַיִל וְלֹא בְכֹחַ כִּי אִם־בְּרוּחִי אָמַר יְהוָה צְבָאוֹת׃",
+       "translation": "El a răspuns și mi-a spus astfel: „Acesta este cuvântul DOMNULUI către Zerubavel, spunând: «Nu prin oștire și nu prin putere, ci numai prin duhul Meu», a spus DOMNUL Oștirilor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀπεκρίθη καὶ εἶπε πρός με λέγων· οὗτος ὁ λόγος Κυρίου πρὸς Ζοροβάβελ λέγων· οὐκ ἐν δυνάμει μεγάλῃ οὐδὲ ἐν ἰσχύϊ, ἀλλ᾿ ἢ ἐν πνεύματί μου, λέγει Κύριος παντοκράτωρ.",
+       "greek": true,
+       "translation": "Și a răspuns și mi-a spus: «Acesta este cuvântul Domnului către Zorobabel, zicând: Nu prin putere mare, nici prin forță, ci numai prin Duhul Meu», spune Domnul Atotțiitorul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 37:11-14",
+      "Osea 1:7"
+     ],
+     "commentaries": [
+      {
+       "author": "Contextul sărbătorii (Hanuca)",
+       "text": "Acest verset e motivul exact pentru care pericopa a fost aleasă ca haftara de Hanuca: biruința Macabeilor asupra Imperiului Seleucid, sărbătorită prin aprinderea luminilor, e interpretată de tradiție nu ca o victorie militară obișnuită, ci — la fel ca restaurarea Templului al doilea descrisă aici — ca o lucrare a „Duhului”, nu a „oștirii și puterii” omenești."
+      }
+     ]
     },
     {
      "v": "4:7",
      "t": "Cine ești tu, munte măreț, înaintea lui Zerubavel [vei deveni] loc neted! Și el va scoate piatra cea dintâi în strigăte de „Har, har pentru ea!”",
      "heb": "מִי־אַתָּה הַר־הַגָּדוֹל לִפְנֵי זְרֻבָּבֶל לְמִישׁוֹר וְהוֹצִיא אֶת־הָאֶבֶן הָרֹאשָׁה תְּשֻׁאוֹת חֵן חֵן לָהּ׃",
-     "translit": "Mi-ata har-hagadol lifnei Zerubavel lemișor vehoți et-haeven haroșa teșuot hen hen la."
+     "translit": "Mi-ata har-hagadol lifnei Zerubavel lemișor vehoți et-haeven haroșa teșuot hen hen la.",
+     "tokens": [
+      {
+       "t": "Cine ești tu, munte măreț, înaintea lui Zerubavel [vei deveni] loc neted! Și el va scoate piatra cea dintâi în strigăte de „"
+      },
+      {
+       "t": "Har, har pentru ea",
+       "w": "Har, har pentru ea",
+       "heb": "חֵן חֵן",
+       "translit": "hēn hēn",
+       "strong": "H2580",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "har, har [pentru] ea (hen hen lah) — repetarea exclamativă a cuvântului „har/favoare”.",
+       "dict_ro": "Repetiția „hen, hen” (literal „favoare, favoare”) e o exclamație de aclamare, tradusă convențional „Har, har pentru ea!” — strigătul mulțimii la finalizarea Templului, paralel cu „strigătele de bucurie” de la depunerea pietrei de temelie descrisă în Ezra 3:11-13.",
+       "greek": "χάριτος χάριτα (charitos charita)",
+       "greek_def_ro": "χάριτος χάριτα (charitos charita) — har, har — Septuaginta traduce literal repetiția, la fel ca ebraica."
+      },
+      {
+       "t": "!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מִי־אַתָּה הַר־הַגָּדוֹל לִפְנֵי זְרֻבָּבֶל לְמִישׁוֹר וְהוֹצִיא אֶת־הָאֶבֶן הָרֹאשָׁה תְּשֻׁאוֹת חֵן חֵן לָהּ׃",
+       "translation": "Cine ești tu, munte măreț, înaintea lui Zerubavel [vei deveni] loc neted! Și el va scoate piatra cea dintâi în strigăte de „Har, har pentru ea!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "τίς εἶ σύ, τό ὄρος τὸ μέγα, τὸ πρὸ προσώπου Ζαροβάβελ τοῦ κατορθῶσαι; καὶ ἐξοίσω τὸν λίθον τῆς κληρονομίας ἰσότητα χάριτος χάριτα αὐτῆς.",
+       "greek": true,
+       "translation": "Cine ești tu, munte mare, dinaintea lui Zorobabel, ca să fii netezit? Și voi scoate piatra moștenirii, [cu strigăt de] egalitate a harului, harul ei.",
+       "note": "Textul grecesc e dificil și divergent la final: unde ebraica are „piatra cea dintâi, în strigăte de Har, har pentru ea”, Septuaginta are „piatra moștenirii, [cu strigăt de] egalitate a harului”."
+      }
+     ],
+     "refs": [
+      "Psalmul 118:22",
+      "Isaia 28:16"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (adaptat)",
+       "text": "Strigătul „Har, har pentru ea!” la scoaterea pietrei de temelie reia bucuria atestată istoric la Ezra 3:11-13, când poporul a strigat de bucurie la punerea temeliei celui de-al doilea Templu, amestecată cu plânsul celor care-l mai văzuseră pe primul."
+      }
+     ]
     }
    ]
   },

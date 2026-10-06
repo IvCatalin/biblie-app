@@ -1,0 +1,23 @@
+module.exports = {
+"2:14": ["Bucură-te și veselește-te, fiică a Sionului, căci, iată, Eu vin și voi sălășlui în mijlocul tău, spune Domnul.", "Corespondență strânsă cu Textul Masoretic."],
+"2:15": ["Și se vor refugia multe neamuri la Domnul în ziua aceea și-I vor fi popor, și vor sălășlui în mijlocul tău, și vei cunoaște că Domnul Atotțiitorul m-a trimis la tine.", "Corespondență apropiată cu Textul Masoretic."],
+"2:16": ["Și Domnul va avea ca moștenire pe Iuda, partea Lui, pe [țara] cea sfântă, și va alege din nou Ierusalimul.", "Corespondență strânsă cu Textul Masoretic."],
+"2:17": ["Să se cutremure orice făptură dinaintea feței Domnului, căci S-a sculat din norii Săi cei sfinți.", "Vezi nota de la cuvântul tagat „sălașul Său cel sfânt” — Septuaginta are „din norii Săi cei sfinți”, nu „din sălașul Său cel sfânt”."],
+"3:1": ["Și mi-a arătat Domnul pe Iisus, preotul cel mare, stând înaintea îngerului Domnului, și diavolul stătea de-a dreapta lui, ca să i se împotrivească.", "Septuaginta traduce „ha-satan” direct prin „ho diabolos” (diavolul) ca nume, nu transliterat; Textul Masoretic are „în dreapta lui” (satan la dreapta), Septuaginta la fel."],
+"3:2": ["Și a spus Domnul către diavol: «Să te mustre Domnul, diavole, și să te mustre Domnul, Cel care a ales Ierusalimul; nu este acesta, iată, ca un tăciune scos din foc?»", "Corespondență strânsă cu Textul Masoretic."],
+"3:3": ["Și Iisus era îmbrăcat în veșminte murdare și stătea înaintea îngerului.", "Corespondență strânsă cu Textul Masoretic."],
+"3:4": ["Și a răspuns și a spus celor care stăteau înaintea lui, spunând: «Luați veșmintele murdare de pe el.» Și i-a spus: «Iată, am luat nelegiuirile tale», și l-au îmbrăcat cu veșmânt lung,", "Corespondență apropiată cu Textul Masoretic."],
+"3:5": ["și i-au pus pe cap o mitră curată. Și l-au înveșmântat cu veșminte, și i-au pus pe cap mitra curată, și îngerul Domnului stătea [acolo].", "Corespondență strânsă cu Textul Masoretic."],
+"3:6": ["Și a mărturisit îngerul Domnului către Iisus, spunând:", "Corespondență strânsă cu Textul Masoretic."],
+"3:7": ["Așa spune Domnul Atotțiitorul: «Dacă vei merge pe căile Mele și dacă vei păzi poruncile Mele, tu vei judeca [și] Casa Mea; și dacă vei păzi și curtea Mea, îți voi da [să te plimbi] printre cei care stau aici.»", "Corespondență apropiată cu Textul Masoretic."],
+"3:8": ["Ascultă deci, Iisus, preotul cel mare, tu și cei de lângă tine care șed înaintea ta, căci sunt oameni [ce dau] semne minunate; căci, iată, Eu îl aduc pe slujitorul Meu, Răsăritul.", "Vezi nota de la cuvântul tagat „vlăstarul” — Septuaginta traduce țemah prin „Anatole” (Răsărit)."],
+"3:9": ["Căci piatra pe care am pus-o înaintea lui Iisus — pe piatra aceasta una [sunt] șapte ochi; iată, Eu sap o groapă, spune Domnul Atotțiitorul, și voi cerceta toată nedreptatea țării aceleia într-o singură zi.", "Vezi nota de la cuvântul tagat „podoaba” — Septuaginta are „sap o groapă”, nu „voi ciopli podoaba”."],
+"3:10": ["În ziua aceea, spune Domnul Atotțiitorul, veți chema fiecare pe vecinul lui sub viță și sub smochin.", "Corespondență strânsă cu Textul Masoretic."],
+"4:1": ["Și s-a întors îngerul care grăia în mine și m-a trezit, precum se trezește omul din somnul lui.", "Corespondență strânsă cu Textul Masoretic."],
+"4:2": ["Și mi-a spus: «Ce vezi tu?» Și am spus: «Am văzut, și iată, un sfeșnic de aur, întreg, și candela lui pe vârful lui, și șapte candele pe vârful lui, și șapte țevi la candelele de pe vârful lui.»", "Corespondență strânsă cu Textul Masoretic."],
+"4:3": ["Și doi măslini peste el, unul la dreapta candelei lui și unul la stânga.", "Corespondență strânsă cu Textul Masoretic."],
+"4:4": ["Și am întrebat și am spus îngerului care grăia în mine, zicând: «Ce sunt acestea, doamne?»", "Corespondență strânsă cu Textul Masoretic."],
+"4:5": ["Și a răspuns îngerul care grăia în mine și mi-a spus: «Nu știi ce sunt acestea?» Și am spus: «Nu, doamne.»", "Corespondență strânsă cu Textul Masoretic."],
+"4:6": ["Și a răspuns și mi-a spus: «Acesta este cuvântul Domnului către Zorobabel, zicând: Nu prin putere mare, nici prin forță, ci numai prin Duhul Meu», spune Domnul Atotțiitorul.", "Corespondență strânsă cu Textul Masoretic."],
+"4:7": ["Cine ești tu, munte mare, dinaintea lui Zorobabel, ca să fii netezit? Și voi scoate piatra moștenirii, [cu strigăt de] egalitate a harului, harul ei.", "Textul grecesc e dificil și divergent la final: unde ebraica are „piatra cea dintâi, în strigăte de Har, har pentru ea”, Septuaginta are „piatra moștenirii, [cu strigăt de] egalitate a harului”."]
+};
