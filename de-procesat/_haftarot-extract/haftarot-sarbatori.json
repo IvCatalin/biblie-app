@@ -14711,175 +14711,1178 @@
      "v": "1:1",
      "t": "Și a fost, în al treizecilea an, în a patra [lună], în a cincea [zi] a lunii, când mă aflam printre exilații de lângă râul Kevar, că s-au deschis cerurile și am văzut viziuni ale lui Dumnezeu.",
      "heb": "וַיְהִי בִּשְׁלֹשִׁים שָׁנָה בָּרְבִיעִי בַּחֲמִשָּׁה לַחֹדֶשׁ וַאֲנִי בְתוֹךְ־הַגּוֹלָה עַל־נְהַר־כְּבָר נִפְתְּחוּ הַשָּׁמַיִם וָאֶרְאֶה מַרְאוֹת אֱלֹהִים׃",
-     "translit": "Vaihi bișloșim șana barevii bahamișa lahodeș vaani vetoh-hagola al-nehar-Kevar niftehu hașamaim vaere marot Elohim."
+     "translit": "Vaihi bișloșim șana barevii bahamișa lahodeș vaani vetoh-hagola al-nehar-Kevar niftehu hașamaim vaere marot Elohim.",
+     "tokens": [
+      {
+       "t": "Și a fost, în "
+      },
+      {
+       "t": "al treizecilea an",
+       "w": "al treizecilea an",
+       "heb": "בִּשְׁלֹשִׁים",
+       "translit": "bișloșim",
+       "strong": "H7970",
+       "pos": "numeral",
+       "def_ro": "al treizecilea an (bișloșim).",
+       "dict_ro": "Radak, citând pe tatăl său, explică acest an enigmatic: e al treizecilea an al ciclului de jubileu (de la ultimul Jubileu, început în anul 18 al domniei lui Iosia, când preotul Hilchia a găsit cartea Legii în Templu) — un calcul confirmat chiar de Ezechiel, care la finalul cărții (40:1) datează o altă viziune explicit după anul de jubileu."
+      },
+      {
+       "t": ", în a patra [lună], în a cincea [zi] a lunii, când mă aflam printre exilații de lângă râul Kevar, că s-au deschis cerurile și am văzut "
+      },
+      {
+       "t": "viziuni ale lui Dumnezeu",
+       "w": "viziuni ale lui Dumnezeu",
+       "heb": "מַרְאוֹת אֱלֹהִים",
+       "translit": "marot elohim",
+       "strong": "H430",
+       "pos": "substantiv, feminin plural construct + substantiv, masculin plural",
+       "def_ro": "viziuni ale lui Dumnezeu (marot elohim).",
+       "dict_ro": "Rashi explică expresia: pentru că nu vedea printr-o oglindă limpede, ci ca într-un vis, nu ca realitate directă, de aceea le numește „viziuni ale lui Dumnezeu” — și toți profeții, cu excepția lui Moise învățătorul nostru, au văzut tot așa, printr-o oglindă neclară, cum se spune: «prin mâna profeților Mă voi asemăna» (Osea 12:11)."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי בִּשְׁלֹשִׁים שָׁנָה בָּרְבִיעִי בַּחֲמִשָּׁה לַחֹדֶשׁ וַאֲנִי בְתוֹךְ־הַגּוֹלָה עַל־נְהַר־כְּבָר נִפְתְּחוּ הַשָּׁמַיִם וָאֶרְאֶה מַרְאוֹת אֱלֹהִים׃",
+       "translation": "Și a fost, în al treizecilea an, în a patra [lună], în a cincea [zi] a lunii, când mă aflam printre exilații de lângă râul Kevar, că s-au deschis cerurile și am văzut viziuni ale lui Dumnezeu. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΚΑΙ ἐγένετο ἐν τῷ τριακοστῷ ἔτει, ἐν τῷ τετάρτῳ μηνὶ πέμπτῃ τοῦ μηνὸς καὶ ἐγὼ ἤμην ἐν μέσῳ τῆς αἰχμαλωσίας ἐπὶ τοῦ ποταμοῦ τοῦ Χοβάρ, καὶ ἠνοίχθησαν οἱ οὐρανοί, καὶ εἶδον ὁράσεις Θεοῦ.",
+       "greek": true,
+       "translation": "Și a fost în anul al treizecilea, în luna a patra, în a cincea [zi] a lunii, și eu eram în mijlocul captivității, lângă râul Hobar, și s-au deschis cerurile, și am văzut viziuni ale lui Dumnezeu.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:3",
+      "Eclesiastul 9:1,2",
+      "Numeri 12:6"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și a fost, în al treizecilea an” — profetul și-a ascuns vorbele, fără să-și arate numele, fără să lămurească după ce socoteală numără. De aceea Duhul Sfânt a întrerupt vorbele lui prin două versete vecine, ca să învățăm cine e profetul și după ce socoteală numără, zicându-se „în a cincea [zi] a lunii, în al cincilea an...” — acestea nu sunt vorbele profetului, căci el spusese deja „în a cincea [zi] a lunii” mai sus; iar la început vorbește el însuși, în persoana întâi: „și eu eram printre exilați și am văzut viziuni ale lui Dumnezeu”, și tot așa la sfârșit: „și am privit, și iată un vânt de vijelie...”. Aceste două versete îi întrerup vorbele, ca și cum altcineva ar vorbi despre el: „a fost cuvântul Domnului către Ezechiel... și a fost asupra lui acolo mâna Domnului”."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Tatăl meu, de bună amintire, a scris acest calcul: potrivit sensului simplu al textului, [treizecilea an] se referă la anul treizeci al ciclului de jubileu, iar dovada e că, atunci când Ezechiel a văzut în profeție clădirea viitoare a cetății și a Templului, se spune [acolo]: «în anul douăzeci și cinci al exilului nostru... în ziua de Anul Nou» (Ezechiel 40:1), și înțelepții noștri au zis: care an are Anul Nou în ziua a zecea a lunii [a șaptea]? Acesta e anul de jubileu [care începe la Yom Kipur]. Deci acea viziune [de mai departe] a avut loc în anul douăzeci și cinci al exilului lui Ioiachin, care era anul [următorului] jubileu; iar aceasta, prima viziune, a avut loc în al cincilea an al exilului, cu douăzeci de ani mai devreme — deci în anul treizeci al jubileului precedent."
+      }
+     ]
     },
     {
      "v": "1:2",
      "t": "În a cincea [zi] a lunii, în al cincilea an al exilului regelui Ioiakin.",
      "heb": "בַּחֲמִשָּׁה לַחֹדֶשׁ הִיא הַשָּׁנָה הַחֲמִישִׁית לְגָלוּת הַמֶּלֶךְ יוֹיָכִין׃",
-     "translit": "Bahamișa lahodeș hi hașana hahamișit legalut hameleh Ioiakin."
+     "translit": "Bahamișa lahodeș hi hașana hahamișit legalut hameleh Ioiakin.",
+     "tokens": [
+      {
+       "t": "În a cincea [zi] a lunii, în al cincilea an al exilului regelui Ioiakin."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בַּחֲמִשָּׁה לַחֹדֶשׁ הִיא הַשָּׁנָה הַחֲמִישִׁית לְגָלוּת הַמֶּלֶךְ יוֹיָכִין׃",
+       "translation": "În a cincea [zi] a lunii, în al cincilea an al exilului regelui Ioiakin. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "πέμπτῃ τοῦ μηνός (τοῦτο τό ἔτος τὸ πέμπτον τῆς αἰχμαλωσίας τοῦ βασιλέως ᾿Ιωακείμ) καὶ ἐγένετο λόγος Κυρίου πρὸς ᾿Ιεζεκιὴλ υἱὸν Βουζεί, τὸν ἱερέα, ἐν γῇ Χαλδαίων ἐπὶ τοῦ ποταμοῦ τοῦ Χοβάρ·",
+       "greek": true,
+       "translation": "În a cincea [zi] a lunii (acesta fiind anul al cincilea al captivității regelui Ioachim) și a fost cuvântul Domnului către Iezechiel, fiul lui Buzi, preotul, în țara caldeenilor, lângă râul Hobar;",
+       "note": "Divergență reală dublă: Septuaginta restructurează granița dintre versetele 2 și 3 — versetul grecesc 2 absoarbe deja prima parte a versetului ebraic 3 („cuvântul Domnului a venit la Iezechiel”), iar versetul grecesc 3 păstrează doar partea rămasă („și mâna Domnului a fost asupra mea”). Mai grav: Septuaginta numește regele exilului „Ioachim” (Ιωακείμ) — care corespunde lui Ioiachim, tatăl — în loc de „Ioiachin” (Yoyakin) din Textul Masoretic, fiul care a domnit de fapt doar trei luni înainte de exil; cele două sunt regi diferiți."
+      }
+     ],
+     "refs": [
+      "Ezechiel 8:1",
+      "2 Împărați 24:12-15"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:3",
      "t": "Cuvântul DOMNULUI venise la Ezechiel, fiul preotului Buzi, în ținutul caldeenilor, lângă râul Kevar; și mâna DOMNULUI a fost asupra lui acolo.",
      "heb": "הָיֹה הָיָה דְבַר־יְהוָה אֶל־יְחֶזְקֵאל בֶּן־בּוּזִי הַכֹּהֵן בְּאֶרֶץ כַּשְׂדִּים עַל־נְהַר־כְּבָר וַתְּהִי עָלָיו שָׁם יַד־יְהוָה׃",
-     "translit": "Haio haia devar-ADONAI el-Iehezkel ben-Buzi hakohen beeret Kasdim al-nehar-Kevar vatehi alav șam iad-ADONAI."
+     "translit": "Haio haia devar-ADONAI el-Iehezkel ben-Buzi hakohen beeret Kasdim al-nehar-Kevar vatehi alav șam iad-ADONAI.",
+     "tokens": [
+      {
+       "t": "Cuvântul DOMNULUI venise la Ezechiel, fiul preotului Buzi, în ținutul caldeenilor, lângă râul Kevar; și "
+      },
+      {
+       "t": "mâna DOMNULUI",
+       "w": "mâna DOMNULUI",
+       "heb": "יַד יְהוָה",
+       "translit": "iad Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "mâna DOMNULUI (iad Adonai).",
+       "dict_ro": "Rashi explică: orice „mână a DOMNULUI” rostită în context profetic nu e decât o expresie de forță/constrângere — profeția constrânge pe profet împotriva voii lui, ca pe un om năucit. Radak adaugă o tradiție rabinică: Șechina nu se odihnește asupra unui profet în afara Țării Sfinte decât dacă s-a odihnit mai întâi asupra lui în Țară, și, în afara ei, vine doar într-un loc ritual curat, cum e lângă apă — motiv pentru care viziunea are loc lângă râul Kevar."
+      },
+      {
+       "t": " a fost asupra lui acolo."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הָיֹה הָיָה דְבַר־יְהוָה אֶל־יְחֶזְקֵאל בֶּן־בּוּזִי הַכֹּהֵן בְּאֶרֶץ כַּשְׂדִּים עַל־נְהַר־כְּבָר וַתְּהִי עָלָיו שָׁם יַד־יְהוָה׃",
+       "translation": "Cuvântul DOMNULUI venise la Ezechiel, fiul preotului Buzi, în ținutul caldeenilor, lângă râul Kevar; și mâna DOMNULUI a fost asupra lui acolo. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγένετο ἐπ᾿ ἐμὲ χεὶρ Κυρίου,",
+       "greek": true,
+       "translation": "și a fost asupra mea mâna Domnului,",
+       "note": "Vezi nota de la 1:2 — Septuaginta a transferat deja prima parte a acestui verset ebraic în versetul ei anterior."
+      }
+     ],
+     "refs": [
+      "Ieremia 1:2",
+      "Ezechiel 3:14",
+      "1 Împărați 18:46"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„A fost, a fost cuvântul DOMNULUI” — înțelepții noștri au spus (Moed Katan 25a): „a fost” înseamnă „fusese deja”, pentru că Șechina nu se odihnește asupra unui profet în afara Țării decât prin faptul că s-a odihnit asupra lui mai întâi în Țară. „Mâna DOMNULUI” — orice expresie de „mână” rostită în această carte, și în toată limba profeției, nu e decât o expresie de forță/constrângere, căci profeția constrânge pe profet împotriva voii lui, ca pe un om care și-a pierdut mințile."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Au spus înțelepții noștri, de bună amintire: Șechina nu se odihnește asupra profeților în afara Țării [Sfinte]; și când li se vorbește în afara Țării, nu li se vorbește decât într-un loc curat, lângă ape, cum se spune aici «lângă râul Kevar», și despre Daniel «eram lângă râul Ulai», și despre alții «eram lângă marginea râului». Unii spun: prima dată nu se vorbește profetului în afara Țării; a doua dată, da — și spre aceasta înclină și Ionatan în traducerea sa aramaică."
+      }
+     ]
     },
     {
      "v": "1:4",
      "t": "Am privit și iată: un vânt năpraznic venea de la miazănoapte, un nor mare cu foc orbitar și o lumină care îl înconjura și [ieșea] din mijlocul său precum mijlocul lui venea o asemănare a celor patru ființe.",
      "heb": "וָאֵרֶא וְהִנֵּה רוּחַ סְעָרָה בָּאָה מִן־הַצָּפוֹן עָנָן גָּדוֹל וְאֵשׁ מִתְלַקַּחַת וְנֹגַהּ לוֹ סָבִיב וּמִתּוֹכָהּ כְּעֵין הַחַשְׁמַל מִתּוֹךְ הָאֵשׁ׃",
-     "translit": "Vaere vehine ruah seara baa min-hatzafon anan gadol veeș mitlakaḥat venoga lo saviv umitoha keein hahașmal mitoh haeș."
+     "translit": "Vaere vehine ruah seara baa min-hatzafon anan gadol veeș mitlakaḥat venoga lo saviv umitoha keein hahașmal mitoh haeș.",
+     "tokens": [
+      {
+       "t": "Am privit și iată: un "
+      },
+      {
+       "t": "vânt năpraznic",
+       "w": "vânt năpraznic",
+       "heb": "רוּחַ סְעָרָה",
+       "translit": "ruah seara",
+       "strong": "H5591",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin singular",
+       "def_ro": "vânt năprasnic, o vijelie (ruah seara).",
+       "dict_ro": "Rashi explică: aceasta e carul tronului de slavă al Șechinei, cum se arată mai departe în capitol; și pentru că venea cu mânie, ca să-l pedepsească pe Israel, de aceea se înfățișează ca o vijelie și un nor. Vine de la miazănoapte pentru că se întoarce din țara caldeenilor, care e la nord — ca să nu zică babilonienii că Dumnezeu a dat pe fiii Săi în mâna unui neam de nimic, ci dimpotrivă, printr-o teofanie măreață."
+      },
+      {
+       "t": " venea de la miazănoapte, un nor mare cu foc orbitar și o lumină care îl înconjura și [ieșea] din mijlocul său precum mijlocul lui venea o asemănare a celor patru ființe."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וָאֵרֶא וְהִנֵּה רוּחַ סְעָרָה בָּאָה מִן־הַצָּפוֹן עָנָן גָּדוֹל וְאֵשׁ מִתְלַקַּחַת וְנֹגַהּ לוֹ סָבִיב וּמִתּוֹכָהּ כְּעֵין הַחַשְׁמַל מִתּוֹךְ הָאֵשׁ׃",
+       "translation": "Am privit și iată: un vânt năpraznic venea de la miazănoapte, un nor mare cu foc orbitar și o lumină care îl înconjura și [ieșea] din mijlocul său precum mijlocul lui venea o asemănare a celor patru ființe. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶδον καὶ ἰδοὺ πνεῦμα ἐξαῖρον ἤρχετο ἀπὸ βορρᾶ, καὶ νεφέλη μεγάλη ἐν αὐτῷ, καὶ φέγγος κύκλῳ αὐτοῦ καὶ πῦρ ἐξαστράπτον, καὶ ἐν τῷ μέσῳ αὐτοῦ ὡς ὅρασις ἠλέκτρου ἐν μέσῳ τοῦ πυρὸς καὶ φέγγος ἐν αὐτῷ.",
+       "greek": true,
+       "translation": "Și am văzut, și iată, un duh ridicător venea de la miazănoapte, și un nor mare în el, și o lumină de jur împrejurul lui, și un foc strălucitor, și în mijlocul lui ca o înfățișare de electru în mijlocul focului, și o lumină în el.",
+       "note": "Corespondență apropiată cu Textul Masoretic; grecescul „ἤλεκτρον” (electru, un aliaj auriu-argintiu strălucitor) redă surprinzător de fidel sensul enigmatic al ebraicului „hașmal”."
+      }
+     ],
+     "refs": [
+      "Ieremia 1:13,14",
+      "Ezechiel 1:27",
+      "2 Cronici 5:13,14"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și iată un vânt de vijelie venea de la miazănoapte” — acesta e carul tronului de slavă al Șechinei, cum se spune mai departe în acest capitol; și pentru că vine cu mânie, ca să nimicească pe Israel, de aceea se înfățișează ca un vânt de vijelie și un nor. „Vine de la miazănoapte” — se întorcea din țara caldeenilor, care e la nord, cum se spune «de la miazănoapte se va dezlănțui răul» (Ieremia 1:14). Și de ce a mers acolo? Ca să supună toată lumea sub Nebucadnețar, ca să nu zică babilonienii: în mâna unui neam de nimic a dat [Dumnezeu] pe fiii Săi — căci caldeenii erau un neam de nimic, cum se spune «acest popor n-a existat [ca putere]» (Isaia 23:13), așa au tălmăcit înțelepții noștri în tratatul Hagiga. „Hașmal” — un înger cu acest nume; și-a văzut un fel de culoare a lui din mijlocul focului. Așa au spus înțelepții noștri (Hagiga 13a): s-a întâmplat cu un copil care expunea «lucrarea carului» și pricepea [sensul lui] Hașmal, și a ieșit foc din Hașmal și l-a mistuit; și au mai spus că cuvântul e compus: «ce e Hașmal? a zis Rabi Iuda: ființe de foc care vorbesc»; în altă învățătură: «uneori tăcute, uneori grăitoare — atunci când vorba iese din gura Celui Sfânt, tac; când vorba nu iese din gura Celui Sfânt, grăiesc», adică laudă și slăvesc Numele."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Vânt de vijelie venea de la miazănoapte” — e aluzie la regele Babilonului și la caldeeni, care sunt la miazănoapte de Țara lui Israel și vor veni asupra ei cu izbucnire de mânie. „Nor mare” — aluzie la întunericul necazurilor care vor veni asupra ei. „Foc orbitor” — aluzie la arderea Casei Domnului. „Lumină de jur împrejur” — în jurul acestor lucruri a văzut lumină și strălucire, aluzie că după toate necazurile vor fi înconjurați de lumina izbăvirii."
+      }
+     ]
     },
     {
      "v": "1:5",
      "t": "iar în asemănarea lui Hașmal din mijlocul focului, Astfel era înfățișarea lor: aveau înfățișarea unui om,",
      "heb": "וּמִתּוֹכָהּ דְּמוּת אַרְבַּע חַיּוֹת וְזֶה מַרְאֵיהֶן דְּמוּת אָדָם לָהֵנָּה׃",
-     "translit": "Umitoha demut arba haiot veze mareihen demut adam lahena."
+     "translit": "Umitoha demut arba haiot veze mareihen demut adam lahena.",
+     "tokens": [
+      {
+       "t": "iar în asemănarea lui "
+      },
+      {
+       "t": "Hașmal",
+       "w": "Hașmal",
+       "heb": "הַחַשְׁמַל",
+       "translit": "hahașmal",
+       "strong": "H2830",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Hașmal, termen enigmatic desemnând o strălucire aurie/arămie din mijlocul focului (hahașmal).",
+       "dict_ro": "Rashi relatează tradiția talmudică (Hagiga 13) despre primejdia acestui cuvânt: un copil care expunea „lucrarea carului” și pricepea sensul lui Hașmal a fost mistuit de un foc ieșit chiar din Hașmal; alți înțelepți citesc cuvântul ca pe o contracție — „ființe de foc care vorbesc” (hashot-u-memalelot) — tăcând atunci când Cel Sfânt grăiește, vorbind când El nu grăiește, adică lăudându-L."
+      },
+      {
+       "t": " din mijlocul focului, Astfel era înfățișarea lor: "
+      },
+      {
+       "t": "aveau înfățișarea unui om",
+       "w": "aveau înfățișarea unui om",
+       "heb": "דְּמוּת אָדָם לָהֵנָּה",
+       "translit": "demut adam lahēna",
+       "strong": "H2007",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular + pronume personal",
+       "def_ro": "aveau înfățișarea unui om (demut adam).",
+       "dict_ro": "Rashi observă o dificultate: și chipul de taur, de leu și de vultur le aparțin tot acestor ființe (cf. Ezechiel 10:14) — de ce se spune aici doar „înfățișarea unui om”? Răspunde: pentru că fața omului e capul/temeiul tuturor celorlalte, profetul a lăudat carul ceresc prin ea; și, după tradiția midrașică (Bereșit Rabba 82:2), chiar chipul lui Iacov, patriarhul nostru, este întipărit în acel tron."
+      },
+      {
+       "t": ","
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּמִתּוֹכָהּ דְּמוּת אַרְבַּע חַיּוֹת וְזֶה מַרְאֵיהֶן דְּמוּת אָדָם לָהֵנָּה׃",
+       "translation": "iar în asemănarea lui Hașmal din mijlocul focului, Astfel era înfățișarea lor: aveau înfățișarea unui om, — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν τῷ μέσῳ ὡς ὁμοίωμα τεσσάρων ζῴων, καὶ αὕτη ἡ ὅρασις αὐτῶν· ὁμοίωμα ἀνθρώπου ἐπ᾿ αὐτοῖς,",
+       "greek": true,
+       "translation": "și în mijloc, ca o asemănare a patru viețuitoare, și aceasta era înfățișarea lor: o asemănare de om [era] asupra lor,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Apocalipsa 4:6"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Înfățișare de om aveau” — e de mirare, căci și chip de taur, de leu și de vultur le aveau [cf. Ezechiel 10:14]! Mi se pare, totuși, că fiindcă acesta [chipul de om] e temeiul/capul tuturor, profetul a lăudat carul prin el; și el [chipul de om] este chipul feței lui Iacov, patriarhul nostru (Bereșit Rabba 82:2)."
+      }
+     ]
     },
     {
      "v": "1:6",
      "t": "și fiecare avea patru fețe, și patru aripi avea fiecare din ele.",
      "heb": "וְאַרְבָּעָה פָנִים לְאֶחָת וְאַרְבַּע כְּנָפַיִם לְאַחַת לָהֶם׃",
-     "translit": "Vearbaa fanim leahat vearba kenafaim leahat lahem."
+     "translit": "Vearbaa fanim leahat vearba kenafaim leahat lahem.",
+     "tokens": [
+      {
+       "t": "și fiecare avea patru fețe, și patru aripi avea fiecare din ele."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאַרְבָּעָה פָנִים לְאֶחָת וְאַרְבַּע כְּנָפַיִם לְאַחַת לָהֶם׃",
+       "translation": "și fiecare avea patru fețe, și patru aripi avea fiecare din ele. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τέσσαρα πρόσωπα τῷ ἑνί, καὶ τέσσαρες πτέρυγες τῷ ἑνί.",
+       "greek": true,
+       "translation": "și patru fețe avea fiecare, și patru aripi avea fiecare.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:10",
+      "Exodul 25:20"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:7",
      "t": "Picioarele lor erau un picior drept, iar talpa picioarelor era precum talpa unui picior rotund, și străluceau ca arama lustruită.",
      "heb": "וְרַגְלֵיהֶם רֶגֶל יְשָׁרָה וְכַף רַגְלֵיהֶם כְּכַף רֶגֶל עֵגֶל וְנֹצְצִים כְּעֵין נְחֹשֶׁת קָלָל׃",
-     "translit": "Veragleihem regel ieșara vehaf ragleihem kehaf regel egel venoțetzim keein nehoșet kalal."
+     "translit": "Veragleihem regel ieșara vehaf ragleihem kehaf regel egel venoțetzim keein nehoșet kalal.",
+     "tokens": [
+      {
+       "t": "Picioarele lor erau un picior drept, iar talpa picioarelor era precum talpa unui picior rotund, "
+      },
+      {
+       "t": "și străluceau ca arama lustruită",
+       "w": "și străluceau ca arama lustruită",
+       "heb": "וְנֹצְצִים כְּעֵין נְחֹשֶׁת קָלָל",
+       "translit": "venoțțim keēn nehoșet kalal",
+       "strong": "H7044",
+       "pos": "verb, qal participiu + substantiv, masculin și feminin singular construct + substantiv, feminin singular + adjectiv, masculin singular",
+       "def_ro": "și străluceau ca arama lustruită/rafinată (venoțțim keēn nehoșet kalal).",
+       "dict_ro": "Rashi explică „kalal” ca aramă rafinată și strălucitoare, apropiind cuvântul de „copt în foc” (Leviticul 2:14); Metzudat David adaugă imaginea: picioarele ființelor străluceau de parcă aruncau scântei, asemenea unei arame atât de lustruite că pare să emită lumină proprie, ca scânteile ce ies din soare la amiază."
+      },
+      {
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְרַגְלֵיהֶם רֶגֶל יְשָׁרָה וְכַף רַגְלֵיהֶם כְּכַף רֶגֶל עֵגֶל וְנֹצְצִים כְּעֵין נְחֹשֶׁת קָלָל׃",
+       "translation": "Picioarele lor erau un picior drept, iar talpa picioarelor era precum talpa unui picior rotund, și străluceau ca arama lustruită. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τὰ σκέλη αὐτῶν ὀρθά, καὶ πτερωτοὶ οἱ πόδες αὐτῶν, καὶ σπινθῆρες ὡς ἐξαστράπτων χαλκός, καὶ ἐλαφραὶ αἱ πτέρυγες αὐτῶν.",
+       "greek": true,
+       "translation": "și picioarele lor erau drepte, și tălpile lor erau înaripate, și scântei ca de aramă strălucitoare, și aripile lor erau sprintene.",
+       "note": "Divergență reală de imagine: unde Textul Masoretic descrie talpa picioarelor ca „talpa unui picior rotund” (asemenea copitei unui vițel), Septuaginta spune că „tălpile lor erau înaripate” — o imagine complet diferită, fără nicio legătură cu forma rotundă a copitei; în plus, adaugă o mențiune despre „aripi sprintene” absentă din acest verset ebraic (aripile sunt descrise în versetele 6 și 8, nu aici)."
+      }
+     ],
+     "refs": [
+      "Leviticul 11:3",
+      "Daniel 10:6"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și scânteiau” — din strălucirea lor pare că ies din ele scântei, cum se spune în tratatul Ioma (37b): «și ea [regina Elena] a făcut un sfeșnic de aur...», căci atunci când răsare soarele ies din el scântei. „Kalal” — rafinat și strălucitor; Menahem îl leagă de «copt în foc» [Leviticul 2:14]."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "Picioarele erau strălucitoare și parcă aruncau scântei, ca o aramă rafinată, foarte strălucitoare, care parcă emite scântei."
+      }
+     ]
     },
     {
      "v": "1:8",
      "t": "Și sub fiecare dintre aripile lor erau mâini omenești, pe fiecare din cele patru laturi ale lor, iar fețele lor și aripile lor erau aidoma pe cele patru fețe ale lor.",
      "heb": "וִידֵי אָדָם מִתַּחַת כַּנְפֵיהֶם עַל אַרְבַּעַת רִבְעֵיהֶם וּפְנֵיהֶם וְכַנְפֵיהֶם לְאַרְבַּעְתָּם׃",
-     "translit": "Videi adam mitahat kanfeihem al arbat riveihem ufeneihem vekanfeihem learbatam."
+     "translit": "Videi adam mitahat kanfeihem al arbat riveihem ufeneihem vekanfeihem learbatam.",
+     "tokens": [
+      {
+       "t": "Și sub fiecare dintre aripile lor erau mâini omenești, pe fiecare din cele patru laturi ale lor, iar fețele lor și aripile lor erau aidoma pe cele patru fețe ale lor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וִידֵי אָדָם מִתַּחַת כַּנְפֵיהֶם עַל אַרְבַּעַת רִבְעֵיהֶם וּפְנֵיהֶם וְכַנְפֵיהֶם לְאַרְבַּעְתָּם׃",
+       "translation": "Și sub fiecare dintre aripile lor erau mâini omenești, pe fiecare din cele patru laturi ale lor, iar fețele lor și aripile lor erau aidoma pe cele patru fețe ale lor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ χεὶρ ἀνθρώπου ὑποκάτωθεν τῶν πτερύγων αὐτῶν ἐπὶ τὰ τέσσαρα μέρη αὐτῶν· καὶ τὰ πρόσωπα αὐτῶν τῶν τεσσάρων",
+       "greek": true,
+       "translation": "și o mână de om sub aripile lor, pe cele patru laturi ale lor; și fețele lor, ale celor patru,",
+       "note": "Corespondență parțială — vezi nota de la 1:9 pentru continuarea divergenței."
+      }
+     ],
+     "refs": [
+      "Ezechiel 10:8",
+      "Isaia 6:6"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:9",
      "t": "Aripile lor erau unite una de alta; nu se întorceau una spre alta când se mișcau, ci fiecare mergea drept înainte.",
      "heb": "חֹבְרֹת אִשָּׁה אֶל־אֲחוֹתָהּ כַּנְפֵיהֶם לֹא־יִסַּבּוּ בְלֶכְתָּן אִישׁ אֶל־עֵבֶר פָּנָיו יֵלֵכוּ׃",
-     "translit": "Hovrot ișa el-ahota kanfeihem lo-isabu belehtan iș el-ever panav ielehu."
+     "translit": "Hovrot ișa el-ahota kanfeihem lo-isabu belehtan iș el-ever panav ielehu.",
+     "tokens": [
+      {
+       "t": "Aripile lor erau unite una de alta; nu se întorceau una spre alta când se mișcau, ci fiecare mergea drept înainte."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "חֹבְרֹת אִשָּׁה אֶל־אֲחוֹתָהּ כַּנְפֵיהֶם לֹא־יִסַּבּוּ בְלֶכְתָּן אִישׁ אֶל־עֵבֶר פָּנָיו יֵלֵכוּ׃",
+       "translation": "Aripile lor erau unite una de alta; nu se întorceau una spre alta când se mișcau, ci fiecare mergea drept înainte. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "οὐκ ἐπεστρέφοντο ἐν τῷ βαδίζειν αὐτά, ἕκαστον ἀπέναντι τοῦ προσώπου αὐτῶν ἐπορεύοντο.",
+       "greek": true,
+       "translation": "nu se întorceau când mergeau, fiecare înainte, spre fața sa, mergea.",
+       "note": "Divergență reală: Septuaginta omite complet imaginea ebraică a aripilor „unite una de alta” (hovrot ișa el ahotah) — unde Textul Masoretic descrie explicit cum aripile ființelor se alătură reciproc, Septuaginta trece direct la faptul că nu se întorceau la mers."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:12",
+      "Proverbe 4:25-27"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:10",
      "t": "Iar asemănarea fețelor lor: fața unui om și fața unui leu la dreapta celor patru; fața unui taur la stânga celor patru și fața unui vultur la cele patru.",
      "heb": "וּדְמוּת פְּנֵיהֶם פְּנֵי אָדָם וּפְנֵי אַרְיֵה אֶל־הַיָּמִין לְאַרְבַּעְתָּם וּפְנֵי־שׁוֹר מֵהַשְּׂמֹאול לְאַרְבַּעְתָּן וּפְנֵי־נֶשֶׁר לְאַרְבַּעְתָּן׃",
-     "translit": "Udemut peneihem penei adam ufenei arie el-haiamin learbatam ufenei-șor mehasmol learbatan ufenei-neșer learbatan."
+     "translit": "Udemut peneihem penei adam ufenei arie el-haiamin learbatam ufenei-șor mehasmol learbatan ufenei-neșer learbatan.",
+     "tokens": [
+      {
+       "t": "Iar asemănarea fețelor lor: fața unui om și fața unui leu la dreapta celor patru; "
+      },
+      {
+       "t": "fața unui taur",
+       "w": "fața unui taur",
+       "heb": "וּפְנֵי שׁוֹר",
+       "translit": "ufnē șor",
+       "strong": "H7794",
+       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
+       "def_ro": "fața unui taur/bou (ufnē șor).",
+       "dict_ro": "Radak relatează, la finalul capitolului, o tradiție legată de cele patru chipuri ale carului și cele patru steaguri (degalim) ale taberei lui Israel în pustie: steagul lui Iuda avea chip de leu („pui de leu, Iuda”), cel al lui Ruben chip de om, cel al lui Dan chip de vultur, iar cel al lui Efraim chip de taur — motiv pentru care tocmai tribul lui Efraim, asociat cu chipul taurului din car, a făcut vițelul de aur, confundând o imagine sfântă cu un idol."
+      },
+      {
+       "t": " la stânga celor patru și fața unui vultur la cele patru."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּדְמוּת פְּנֵיהֶם פְּנֵי אָדָם וּפְנֵי אַרְיֵה אֶל־הַיָּמִין לְאַרְבַּעְתָּם וּפְנֵי־שׁוֹר מֵהַשְּׂמֹאול לְאַרְבַּעְתָּן וּפְנֵי־נֶשֶׁר לְאַרְבַּעְתָּן׃",
+       "translation": "Iar asemănarea fețelor lor: fața unui om și fața unui leu la dreapta celor patru; fața unui taur la stânga celor patru și fața unui vultur la cele patru. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὁμοίωσις τῶν προσώπων αὐτῶν· πρόσωπον ἀνθρώπου καὶ πρόσωπον λέοντος ἐκ δεξιῶν τοῖς τέσσαρσι καὶ πρόσωπον μόσχου ἐξ ἀριστερῶν τοῖς τέσσαρσι καὶ πρόσωπον ἀετοῦ τοῖς τέσσαρσι.",
+       "greek": true,
+       "translation": "și asemănarea fețelor lor: față de om și față de leu la dreapta, la toate patru, și față de vițel la stânga, la toate patru, și față de vultur, la toate patru.",
+       "note": "Corespondență strânsă cu Textul Masoretic, cu „μόσχος” (vițel) în loc de „taur/bou” — variantă apropiată de sens, nu o divergență majoră."
+      }
+     ],
+     "refs": [
+      "Numeri 2:3,10,18,25",
+      "Apocalipsa 4:7"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Și au mai spus [înțelepții noștri] că aceste patru chipuri corespundeau celor patru steaguri [din tabăra lui Israel în pustie]: la steagul lui Iuda era chip de leu, căci se spune «pui de leu, Iuda»; la steagul lui Ruben, chip de om, căci se spune despre el «a aflat mandragore în câmp», [faptă] proprie oamenilor; la steagul lui Efraim, chip de taur, căci se spune despre el «întâiul lui taur, slava lui»; la steagul lui Dan, chip de vultur, căci se spune «fie Dan șarpe pe drum» și «viperă zburătoare»."
+      }
+     ]
     },
     {
      "v": "1:11",
      "t": "Iar fețele lor: aripile se întindeau de sus; două se uneau pentru fiecare [față] și două le acopereau trupurile.",
      "heb": "וּפְנֵיהֶם וְכַנְפֵיהֶם פְּרֻדוֹת מִלְמָעְלָה לְאִישׁ שְׁתַּיִם חֹבְרוֹת אִישׁ וּשְׁתַּיִם מְכַסּוֹת אֵת גְּוִיֹּתֵיהֶנָה׃",
-     "translit": "Ufeneihem vekanfeihem perudot milmaala leiș șetaim hovrot iș ușetaim mehasot et ghevioteihena."
+     "translit": "Ufeneihem vekanfeihem perudot milmaala leiș șetaim hovrot iș ușetaim mehasot et ghevioteihena.",
+     "tokens": [
+      {
+       "t": "Iar fețele lor: aripile se întindeau de sus; două se uneau pentru fiecare [față] și două le acopereau trupurile."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּפְנֵיהֶם וְכַנְפֵיהֶם פְּרֻדוֹת מִלְמָעְלָה לְאִישׁ שְׁתַּיִם חֹבְרוֹת אִישׁ וּשְׁתַּיִם מְכַסּוֹת אֵת גְּוִיֹּתֵיהֶנָה׃",
+       "translation": "Iar fețele lor: aripile se întindeau de sus; două se uneau pentru fiecare [față] și două le acopereau trupurile. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ αἱ πτέρυγες αὐτῶν ἐκτεταμέναι ἄνωθεν τοῖς τέσσαρσιν, ἑκατέρῳ δύο συνεζευγμέναι πρὸς ἀλλήλας, καὶ δύο ἐπεκάλυπτον ἐπάνω τοῦ σώματος αὐτῶν.",
+       "greek": true,
+       "translation": "și aripile lor erau întinse de sus, la toate patru, fiecăreia două unite una cu alta, și două acopereau trupul lor pe deasupra.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:23",
+      "Isaia 6:2"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:12",
      "t": "Și fiecare din ele mergea drept înainte; în direcția către care le îndemna duhul să meargă, mergeau; nu se întorceau când mergeau.",
      "heb": "וְאִישׁ אֶל־עֵבֶר פָּנָיו יֵלֵכוּ אֶל אֲשֶׁר יִהְיֶה־שָׁמָּה הָרוּחַ לָלֶכֶת יֵלֵכוּ לֹא יִסַּבּוּ בְּלֶכְתָּן׃",
-     "translit": "Veiș el-ever panav ielehu el așer ihie-șama haruah lalehet ielehu lo isabu belehtan."
+     "translit": "Veiș el-ever panav ielehu el așer ihie-șama haruah lalehet ielehu lo isabu belehtan.",
+     "tokens": [
+      {
+       "t": "Și fiecare din ele mergea drept înainte; în direcția către care le îndemna duhul să meargă, mergeau; nu se întorceau când mergeau."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאִישׁ אֶל־עֵבֶר פָּנָיו יֵלֵכוּ אֶל אֲשֶׁר יִהְיֶה־שָׁמָּה הָרוּחַ לָלֶכֶת יֵלֵכוּ לֹא יִסַּבּוּ בְּלֶכְתָּן׃",
+       "translation": "Și fiecare din ele mergea drept înainte; în direcția către care le îndemna duhul să meargă, mergeau; nu se întorceau când mergeau. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἑκάτερον κατὰ πρόσωπον αὐτοῦ ἐπορεύετο· οὗ ἂν ἦν τὸ πνεῦμα πορευόμενον, ἐπορεύοντο καὶ οὐκ ἐπέστρεφον.",
+       "greek": true,
+       "translation": "și fiecare mergea drept înaintea feței sale; oriunde era duhul mergând, mergeau, și nu se întorceau.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:20",
+      "Evrei 1:14"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:13",
      "t": "Iar înfățișarea ființelor: înfățișarea lor era precum cea a cărbunilor aprinși, arzând asemenea unor torțe; și [înfățișarea] se manifesta în mijlocul ființelor. Era o strălucire a focului și din foc ieșeau străfulgerări.",
      "heb": "וּדְמוּת הַחַיּוֹת מַרְאֵיהֶם כְּגַחֲלֵי־אֵשׁ בֹּעֲרוֹת כְּמַרְאֵה הַלַּפִּדִים הִיא מִתְהַלֶּכֶת בֵּין הַחַיּוֹת וְנֹגַהּ לָאֵשׁ וּמִן־הָאֵשׁ יוֹצֵא בָרָק׃",
-     "translit": "Udemut hahaiot marehem kegahalei-eș boarot kemare halapidim hi mithalehet bein hahaiot venoga laeș umin-haeș ioțe barak."
+     "translit": "Udemut hahaiot marehem kegahalei-eș boarot kemare halapidim hi mithalehet bein hahaiot venoga laeș umin-haeș ioțe barak.",
+     "tokens": [
+      {
+       "t": "Iar înfățișarea ființelor: înfățișarea lor era precum cea a cărbunilor aprinși, arzând asemenea unor torțe; și [înfățișarea] se manifesta în mijlocul ființelor. Era o strălucire a focului și din foc ieșeau străfulgerări."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּדְמוּת הַחַיּוֹת מַרְאֵיהֶם כְּגַחֲלֵי־אֵשׁ בֹּעֲרוֹת כְּמַרְאֵה הַלַּפִּדִים הִיא מִתְהַלֶּכֶת בֵּין הַחַיּוֹת וְנֹגַהּ לָאֵשׁ וּמִן־הָאֵשׁ יוֹצֵא בָרָק׃",
+       "translation": "Iar înfățișarea ființelor: înfățișarea lor era precum cea a cărbunilor aprinși, arzând asemenea unor torțe; și [înfățișarea] se manifesta în mijlocul ființelor. Era o strălucire a focului și din foc ieșeau străfulgerări. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν μέσῳ τῶν ζῴων ὅρασις ὡς ἀνθράκων πυρὸς καιομένων, ὡς ὄψις λαμπάδων συστρεφομένων ἀναμέσον τῶν ζῴων καὶ φέγγος τοῦ πυρός, καὶ ἐκ τοῦ πυρὸς ἐξεπορεύετο ἀστραπή.",
+       "greek": true,
+       "translation": "și în mijlocul viețuitoarelor, o înfățișare ca de cărbuni de foc arzând, ca înfățișarea unor torțe răsucite printre viețuitoare, și o lumină a focului, și din foc ieșea un fulger.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 15:17",
+      "Daniel 10:5,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:14",
      "t": "Și ființele fugeau încolo și încoace ca fulgerul.",
      "heb": "וְהַחַיּוֹת רָצוֹא וָשׁוֹב כְּמַרְאֵה הַבָּזָק׃",
-     "translit": "Vehahaiot ratzo vașov kemare habazak."
+     "translit": "Vehahaiot ratzo vașov kemare habazak.",
+     "tokens": [
+      {
+       "t": "Și ființele fugeau încolo și încoace ca fulgerul."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהַחַיּוֹת רָצוֹא וָשׁוֹב כְּמַרְאֵה הַבָּזָק׃",
+       "translation": "Și ființele fugeau încolo și încoace ca fulgerul. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "",
+       "greek": true,
+       "translation": "[Acest verset nu are corespondent în Septuaginta.]",
+       "note": "Divergență textuală reală și documentată: Septuaginta greacă veche (tradiția Vaticanus) omite complet versetul 14 („și ființele fugeau încolo și încoace ca fulgerul”) — trecând direct de la versetul 13 la versetul 15. Omisiunea e cunoscută în critica textuală a cărții lui Ezechiel; versetul apare abia în recenzia lui Theodotion și în alte tradiții grecești ulterioare, nu în textul grecesc cel mai vechi."
+      }
+     ],
+     "refs": [
+      "Zaharia 2:3,4",
+      "Zaharia 4:10"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:15",
      "t": "Și când am văzut ființele, iată, o roată era pe pământ lângă fiecare ființă, lângă cele patru fețe ale sale.",
      "heb": "וָאֵרֶא הַחַיּוֹת וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת לְאַרְבַּעַת פָּנָיו׃",
-     "translit": "Vaere hahaiot vehine ofan ehad baareț etzel hahaiot learbat panav."
+     "translit": "Vaere hahaiot vehine ofan ehad baareț etzel hahaiot learbat panav.",
+     "tokens": [
+      {
+       "t": "Și când am văzut ființele, iată, "
+      },
+      {
+       "t": "o roată",
+       "w": "o roată",
+       "heb": "אוֹפַן",
+       "translit": "ofan",
+       "strong": "H212",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "o roată (ofan).",
+       "dict_ro": "Rashi citează o tradiție talmudică îndrăzneață (Hagiga 13b): „aceasta e Sandalfon”, un înger care stă pe pământ cu capul ajungând între ființele cerești — dar adaugă imediat precauția cuvenită: din simplul sens al textului se învață doar că roțile erau patru, câte una pentru fiecare ființă, fără alte speculații."
+      },
+      {
+       "t": " era pe pământ lângă fiecare ființă, lângă cele patru fețe ale sale."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וָאֵרֶא הַחַיּוֹת וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת לְאַרְבַּעַת פָּנָיו׃",
+       "translation": "Și când am văzut ființele, iată, o roată era pe pământ lângă fiecare ființă, lângă cele patru fețe ale sale. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶδον καὶ ἰδοὺ τροχὸς εἷς ἐπὶ τῆς γῆς ἐχόμενος τῶν ζῴων τοῖς τέσσαρσι·",
+       "greek": true,
+       "translation": "și am văzut, și iată, o singură roată pe pământ, lipită de viețuitoare, la toate patru;",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 10:9",
+      "Daniel 7:9"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„O roată pe pământ” — pe pardoseala cerului. „Pentru cele patru fețe ale sale” — ale fiecărei ființe; sau roata însăși avea patru fețe. Înțelepții noștri au spus (Hagiga 13b): acesta e Sandalfon, care stă pe pământ și capul lui ajunge între ființe; dar, după sensul simplu al textului, învățăm că roțile erau patru."
+      }
+     ]
     },
     {
      "v": "1:16",
      "t": "Înfățișarea roților și purtarea lor erau ca beriliul, semănând toate patru unele cu altele; iar înfățișarea și purtarea lor era ca o roată într-o roată.",
      "heb": "מַרְאֵה הָאוֹפַנִּים וּמַעֲשֵׂיהֶם כְּעֵין תַּרְשִׁישׁ וּדְמוּת אֶחָד לְאַרְבַּעְתָּן וּמַרְאֵיהֶם וּמַעֲשֵׂיהֶם כַּאֲשֶׁר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן׃",
-     "translit": "Mare haofanim umaaseihem keein tarșiș udemut ehad learbatan umareihem umaaseihem kaașer ihie haofan betoh haofan."
+     "translit": "Mare haofanim umaaseihem keein tarșiș udemut ehad learbatan umareihem umaaseihem kaașer ihie haofan betoh haofan.",
+     "tokens": [
+      {
+       "t": "Înfățișarea roților și purtarea lor erau ca beriliul, semănând toate patru unele cu altele; iar înfățișarea și purtarea lor era ca o roată într-o roată."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "מַרְאֵה הָאוֹפַנִּים וּמַעֲשֵׂיהֶם כְּעֵין תַּרְשִׁישׁ וּדְמוּת אֶחָד לְאַרְבַּעְתָּן וּמַרְאֵיהֶם וּמַעֲשֵׂיהֶם כַּאֲשֶׁר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן׃",
+       "translation": "Înfățișarea roților și purtarea lor erau ca beriliul, semănând toate patru unele cu altele; iar înfățișarea și purtarea lor era ca o roată într-o roată. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ τὸ εἶδος τῶν τροχῶν ὡς εἶδος θαρσείς, καὶ ὁμοίωμα ἐν τοῖς τέσσαρσι, καὶ τὸ ἔργον αὐτῶν ἦν καθὼς ἂν εἴη τροχὸς ἐν τροχῷ.",
+       "greek": true,
+       "translation": "și înfățișarea roților era ca înfățișarea pietrei de Tarsis, și o asemănare la toate patru, și lucrarea lor era precum ar fi o roată într-o roată.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 10:9",
+      "Exodul 39:13"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:17",
      "t": "Spre cele patru laturi ale lor, oriunde mergeau, mergeau; nu se întorceau când mergeau.",
      "heb": "עַל־אַרְבַּעַת רִבְעֵיהֶן בְּלֶכְתָּם יֵלֵכוּ לֹא יִסַּבּוּ בְּלֶכְתָּן׃",
-     "translit": "Al-arbat riveihen belehtam ielehu lo isabu belehtan."
+     "translit": "Al-arbat riveihen belehtam ielehu lo isabu belehtan.",
+     "tokens": [
+      {
+       "t": "Spre cele patru laturi ale lor, oriunde mergeau, mergeau; nu se întorceau când mergeau."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַל־אַרְבַּעַת רִבְעֵיהֶן בְּלֶכְתָּם יֵלֵכוּ לֹא יִסַּבּוּ בְּלֶכְתָּן׃",
+       "translation": "Spre cele patru laturi ale lor, oriunde mergeau, mergeau; nu se întorceau când mergeau. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐπὶ τὰ τέσσαρα μέρη αὐτῶν ἐπορεύοντο, οὐκ ἐπέστρεφον ἐν τῷ πορεύεσθαι αὐτά,",
+       "greek": true,
+       "translation": "spre cele patru laturi ale lor mergeau, nu se întorceau când mergeau,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:9",
+      "Isaia 55:11"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:18",
      "t": "Aveau spate și erau înalte și înfricoșătoare, și spatele lor era plin de ochi, de jur împrejur, pentru cele patru [ființe].",
      "heb": "וְגַבֵּיהֶן וְגֹבַהּ לָהֶם וְיִרְאָה לָהֶם וְגַבֹּתָם מְלֵאֹת עֵינַיִם סָבִיב לְאַרְבַּעְתָּן׃",
-     "translit": "Vegabeihen vegova lahem veira lahem vegabotam meleot einaim saviv learbatan."
+     "translit": "Vegabeihen vegova lahem veira lahem vegabotam meleot einaim saviv learbatan.",
+     "tokens": [
+      {
+       "t": "Aveau spate și erau înalte și înfricoșătoare, și spatele lor era plin de ochi, de jur împrejur, pentru cele patru [ființe]."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגַבֵּיהֶן וְגֹבַהּ לָהֶם וְיִרְאָה לָהֶם וְגַבֹּתָם מְלֵאֹת עֵינַיִם סָבִיב לְאַרְבַּעְתָּן׃",
+       "translation": "Aveau spate și erau înalte și înfricoșătoare, și spatele lor era plin de ochi, de jur împrejur, pentru cele patru [ființe]. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "οὐδ᾿ οἱ νῶτοι αὐτῶν, καὶ ὕψος ἦν αὐτοῖς· καὶ εἶδον αὐτά, καὶ οἱ νῶτοι αὐτῶν πλήρεις ὀφθαλμῶν κυκλόθεν τοῖς τέσσαρσι.",
+       "greek": true,
+       "translation": "nici spatele lor, și aveau înălțime; și le-am văzut, și spatele lor erau pline de ochi de jur împrejur, la toate patru.",
+       "note": "Mică diferență: Septuaginta omite calificativul „înfricoșătoare” (nora) aplicat în Textul Masoretic înălțimii spatelui, păstrând doar ideea de înălțime."
+      }
+     ],
+     "refs": [
+      "Ezechiel 10:12",
+      "Zaharia 4:10"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:19",
      "t": "Când ființele mergeau, roțile se mișcau cu ele. Iar când ființele se ridicau de la suprafață, se ridicau și roțile.",
      "heb": "וּבְלֶכֶת הַחַיּוֹת יֵלְכוּ הָאוֹפַנִּים אֶצְלָם וּבְהִנָּשֵׂא הַחַיּוֹת מֵעַל הָאָרֶץ יִנָּשְׂאוּ הָאוֹפַנִּים׃",
-     "translit": "Uvelehet hahaiot ielehu haofanim etzlam uvehinase hahaiot meal haareț inaseu haofanim."
+     "translit": "Uvelehet hahaiot ielehu haofanim etzlam uvehinase hahaiot meal haareț inaseu haofanim.",
+     "tokens": [
+      {
+       "t": "Când ființele mergeau, roțile se mișcau cu ele. Iar când ființele se ridicau de la suprafață, se ridicau și roțile."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּבְלֶכֶת הַחַיּוֹת יֵלְכוּ הָאוֹפַנִּים אֶצְלָם וּבְהִנָּשֵׂא הַחַיּוֹת מֵעַל הָאָרֶץ יִנָּשְׂאוּ הָאוֹפַנִּים׃",
+       "translation": "Când ființele mergeau, roțile se mișcau cu ele. Iar când ființele se ridicau de la suprafață, se ridicau și roțile. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐν τῷ πορεύεσθαι τὰ ζῷα ἐπορεύοντο οἱ τροχοὶ ἐχόμενοι αὐτῶν, καὶ ἐν τῷ ἐξαίρειν τὰ ζῶα ἀπὸ τῆς γῆς ἐξῄροντο οἱ τροχοί.",
+       "greek": true,
+       "translation": "și când mergeau viețuitoarele, mergeau și roțile, lipite de ele, și când se ridicau viețuitoarele de pe pământ, se ridicau și roțile.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 10:16",
+      "Psalmul 103:20"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:20",
      "t": "Oriunde le conducea duhul să meargă, mergeau, acolo unde le conducea duhul, iar roțile se ridicau odată cu ele, căci duhul ființei era în roată.",
      "heb": "עַל אֲשֶׁר יִהְיֶה־שָׁם הָרוּחַ לָלֶכֶת יֵלֵכוּ שָׁמָּה הָרוּחַ לָלֶכֶת וְהָאוֹפַנִּים יִנָּשְׂאוּ לְעֻמָּתָם כִּי רוּחַ הַחַיָּה בָּאוֹפַנִּים׃",
-     "translit": "Al așer ihie-șam haruah lalehet ielehu șama haruah lalehet vehaofanim inaseu leumatam ki ruah hahaia baofanim."
+     "translit": "Al așer ihie-șam haruah lalehet ielehu șama haruah lalehet vehaofanim inaseu leumatam ki ruah hahaia baofanim.",
+     "tokens": [
+      {
+       "t": "Oriunde le conducea duhul să meargă, mergeau, acolo unde le conducea duhul, iar roțile se ridicau odată cu ele, căci duhul ființei era în roată."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "עַל אֲשֶׁר יִהְיֶה־שָׁם הָרוּחַ לָלֶכֶת יֵלֵכוּ שָׁמָּה הָרוּחַ לָלֶכֶת וְהָאוֹפַנִּים יִנָּשְׂאוּ לְעֻמָּתָם כִּי רוּחַ הַחַיָּה בָּאוֹפַנִּים׃",
+       "translation": "Oriunde le conducea duhul să meargă, mergeau, acolo unde le conducea duhul, iar roțile se ridicau odată cu ele, căci duhul ființei era în roată. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "οὗ ἂν ἦν ἡ νεφέλη, ἐκεῖ τὸ πνεῦμα τοῦ πορεύεσθαι· ἐπορεύοντο τὰ ζῷα καὶ οἱ τροχοὶ καὶ ἐξῄροντο σὺν αὐτοῖς, διότι πνεῦμα ζωῆς ἐν τοῖς τροχοῖς.",
+       "greek": true,
+       "translation": "oriunde era norul, acolo [era] duhul pentru a merge; mergeau viețuitoarele și roțile și se ridicau împreună cu ele, pentru că duhul vieții [era] în roți.",
+       "note": "Diferență mică dar reală: Septuaginta introduce „norul” drept reperul care arată unde duhul se îndreaptă — element absent din acest verset al Textului Masoretic, care vorbește doar despre duh, nu despre nor."
+      }
+     ],
+     "refs": [
+      "Ezechiel 10:17",
+      "1 Corinteni 14:32"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:21",
      "t": "Când se mișcau [unele], se mișcau [și celelalte] și când se opreau, se opreau [și celelalte]. Și când se ridicau de pe pământ, roțile se ridicau în fața lor, căci duhul [fiecărei] ființe era în roți.",
      "heb": "בְּלֶכְתָּם יֵלֵכוּ וּבְעָמְדָם יַעֲמֹדוּ וּבְהִנָּשְׂאָם מֵעַל הָאָרֶץ יִנָּשְׂאוּ הָאוֹפַנִּים לְעֻמָּתָם כִּי רוּחַ הַחַיָּה בָּאוֹפַנִּים׃",
-     "translit": "Belehtam ielehu uveomdam iaamodu uvehinaseam meal haareț inaseu haofanim leumatam ki ruah hahaia baofanim."
+     "translit": "Belehtam ielehu uveomdam iaamodu uvehinaseam meal haareț inaseu haofanim leumatam ki ruah hahaia baofanim.",
+     "tokens": [
+      {
+       "t": "Când se mișcau [unele], se mișcau [și celelalte] și când se opreau, se opreau [și celelalte]. Și când se ridicau de pe pământ, roțile se ridicau în fața lor, căci duhul [fiecărei] ființe era în roți."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בְּלֶכְתָּם יֵלֵכוּ וּבְעָמְדָם יַעֲמֹדוּ וּבְהִנָּשְׂאָם מֵעַל הָאָרֶץ יִנָּשְׂאוּ הָאוֹפַנִּים לְעֻמָּתָם כִּי רוּחַ הַחַיָּה בָּאוֹפַנִּים׃",
+       "translation": "Când se mișcau [unele], se mișcau [și celelalte] și când se opreau, se opreau [și celelalte]. Și când se ridicau de pe pământ, roțile se ridicau în fața lor, căci duhul [fiecărei] ființe era în roți. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ἐν τῷ πορεύεσθαι αὐτὰ ἐπορεύοντο, καὶ ἐν τῷ ἑστάναι αὐτὰ εἱστήκεισαν καὶ ἐν τῷ ἐξαίρειν αὐτὰ ἀπὸ τῆς γῆς ἐξῄροντο σὺν αὐτοῖς, ὅτι πνεῦμα ζωῆς ἦν ἐν τοῖς τροχοῖς.",
+       "greek": true,
+       "translation": "când mergeau acelea, mergeau, și când stăteau acelea, stăteau, și când se ridicau acelea de pe pământ, se ridicau împreună cu ele, pentru că duhul vieții era în roți.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:19,20"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:22",
      "t": "Iar înfățișarea bolții de deasupra capetelor ființei semăna cu o gheață înfricoșătoare răspândită peste capetele lor, de deasupra.",
      "heb": "וּדְמוּת עַל־רָאשֵׁי הַחַיָּה רָקִיעַ כְּעֵין הַקֶּרַח הַנּוֹרָא נָטוּי עַל־רָאשֵׁיהֶם מִלְמָעְלָה׃",
-     "translit": "Udemut al-rașei hahaia rakia keein hakerah hanora natui al-rașeihem milmaala."
+     "translit": "Udemut al-rașei hahaia rakia keein hakerah hanora natui al-rașeihem milmaala.",
+     "tokens": [
+      {
+       "t": "Iar înfățișarea bolții de deasupra capetelor ființei semăna cu o gheață înfricoșătoare răspândită peste capetele lor, de deasupra."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּדְמוּת עַל־רָאשֵׁי הַחַיָּה רָקִיעַ כְּעֵין הַקֶּרַח הַנּוֹרָא נָטוּי עַל־רָאשֵׁיהֶם מִלְמָעְלָה׃",
+       "translation": "Iar înfățișarea bolții de deasupra capetelor ființei semăna cu o gheață înfricoșătoare răspândită peste capetele lor, de deasupra. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὁμοίωμα ὑπὲρ κεφαλῆς αὐτοῖς τῶν ζῴων ὡσεὶ στερέωμα ὡς ὅρασις κρυστάλλου ἐκτεταμένον ἐπὶ τῶν πτερύγων αὐτῶν ἐπάνωθεν·",
+       "greek": true,
+       "translation": "și o asemănare peste capul viețuitoarelor, ca o întărire, ca înfățișarea cristalului, întinsă peste aripile lor, pe deasupra;",
+       "note": "Mică diferență: Septuaginta are „κρύσταλλος” (cristal) în loc de „gheață”, omițând calificativul ebraic „înfricoșătoare” — imagine asemănătoare, dar fără nuanța de teamă."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:26",
+      "Exodul 24:10"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:23",
      "t": "Și sub boltă, aripile lor era aliniate una cu cealaltă: pentru fiecare [față], două le acopereau, și pentru fiecare [față], două le acopereau – trupurile lor.",
      "heb": "וְתַחַת הָרָקִיעַ כַּנְפֵיהֶם יְשָׁרוֹת אִשָּׁה אֶל־אֲחוֹתָהּ לְאִישׁ שְׁתַּיִם מְכַסּוֹת לָהֵנָּה וּלְאִישׁ שְׁתַּיִם מְכַסּוֹת לָהֵנָּה אֵת גְּוִיֹּתֵיהֶם׃",
-     "translit": "Vetahat harakia kanfeihem ieșarot ișa el-ahota leiș șetaim mehasot lahena uleiș șetaim mehasot lahena et ghevioteihem."
+     "translit": "Vetahat harakia kanfeihem ieșarot ișa el-ahota leiș șetaim mehasot lahena uleiș șetaim mehasot lahena et ghevioteihem.",
+     "tokens": [
+      {
+       "t": "Și sub boltă, aripile lor era aliniate una cu cealaltă: pentru fiecare [față], două le acopereau, și pentru fiecare [față], două le acopereau – trupurile lor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְתַחַת הָרָקִיעַ כַּנְפֵיהֶם יְשָׁרוֹת אִשָּׁה אֶל־אֲחוֹתָהּ לְאִישׁ שְׁתַּיִם מְכַסּוֹת לָהֵנָּה וּלְאִישׁ שְׁתַּיִם מְכַסּוֹת לָהֵנָּה אֵת גְּוִיֹּתֵיהֶם׃",
+       "translation": "Și sub boltă, aripile lor era aliniate una cu cealaltă: pentru fiecare [față], două le acopereau, și pentru fiecare [față], două le acopereau – trupurile lor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὑποκάτωθεν τοῦ στερεώματος αἱ πτέρυγες αὐτῶν ἐκτεταμέναι, πτερυσσόμεναι ἑτέρα τῇ ἑτέρᾳ, ἑκάστῳ δύο συνεζευγμέναι ἐπικαλύπτουσαι τὰ σώματα αὐτῶν.",
+       "greek": true,
+       "translation": "și sub întărire aripile lor erau întinse, fluturând una spre alta, fiecăreia două unite acoperind trupurile lor.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:11",
+      "Iov 4:18"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:24",
      "t": "Apoi am auzit zgomotul aripilor lor, ca zgomotul apelor multe, ca sunetul Atotputernicului când se mișcau, zgomotul cuvintelor ca zgomotul unei mari cete. Când s-au oprit, și-au întins aripile.",
      "heb": "וָאֶשְׁמַע אֶת־קוֹל כַּנְפֵיהֶם כְּקוֹל מַיִם רַבִּים כְּקוֹל־שַׁדַּי בְּלֶכְתָּם קוֹל הֲמֻלָּה כְּקוֹל מַחֲנֶה בְּעָמְדָם תְּרַפֶּינָה כַנְפֵיהֶן׃",
-     "translit": "Vaeșma et-kol kanfeihem kekol maim rabim kekol-Șadai belehtam kol hamula kekol mahane beomdam terapena kanfeihem."
+     "translit": "Vaeșma et-kol kanfeihem kekol maim rabim kekol-Șadai belehtam kol hamula kekol mahane beomdam terapena kanfeihem.",
+     "tokens": [
+      {
+       "t": "Apoi am auzit zgomotul aripilor lor, ca zgomotul apelor multe, ca "
+      },
+      {
+       "t": "sunetul Atotputernicului",
+       "w": "sunetul Atotputernicului",
+       "heb": "כְּקוֹל שַׁדַּי",
+       "translit": "kekol șadai",
+       "strong": "H7706",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "sunetul Atotputernicului (kekol Șadai).",
+       "dict_ro": "Rashi întreabă retoric: s-ar putea crede că e un sunet slab? Nu — textul precizează „ca sunetul lui Șadai”, același sunet descris în Psalmul 29: «glasul Domnului în putere, glasul Domnului sfărâmă cedrii». Radak adaugă: glasul acesta, ca și cel de pe Sinai, deși imens de puternic, nu se auzea dincolo de limita rânduită — la Sinai nu s-a auzit dincolo de tabăra lui Israel, aici nu dincolo de curtea exterioară a viitorului Templu (cf. Ezechiel 10:5)."
+      },
+      {
+       "t": " când se mișcau, zgomotul cuvintelor ca zgomotul unei mari cete. Când s-au oprit, și-au întins aripile."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וָאֶשְׁמַע אֶת־קוֹל כַּנְפֵיהֶם כְּקוֹל מַיִם רַבִּים כְּקוֹל־שַׁדַּי בְּלֶכְתָּם קוֹל הֲמֻלָּה כְּקוֹל מַחֲנֶה בְּעָמְדָם תְּרַפֶּינָה כַנְפֵיהֶן׃",
+       "translation": "Apoi am auzit zgomotul aripilor lor, ca zgomotul apelor multe, ca sunetul Atotputernicului când se mișcau, zgomotul cuvintelor ca zgomotul unei mari cete. Când s-au oprit, și-au întins aripile. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἤκουον τὴν φωνὴν τῶν πτερύγων αὐτῶν ἐν τῷ πορεύεσθαι αὐτὰ ὡς φωνὴν ὕδατος πολλοῦ· καὶ ἐν τῷ ἑστάναι αὐτὰ κατέπαυον αἱ πτέρυγες αὐτῶν.",
+       "greek": true,
+       "translation": "și am auzit sunetul aripilor lor când mergeau, ca sunetul apelor multe; și când stăteau, aripile lor se opreau [din mișcare].",
+       "note": "Divergență reală prin omisiune: Septuaginta păstrează doar comparația cu „apele multe”, omițând complet cele două comparații suplimentare din Textul Masoretic — „ca sunetul Atotputernicului” (Șadai) și „zgomotul cuvintelor, ca zgomotul unei mari cete” — ambele absente din acest verset grecesc."
+      }
+     ],
+     "refs": [
+      "Psalmul 29:3-9",
+      "Psalmul 68:33",
+      "Daniel 10:6"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Ca sunetul apelor multe” — s-ar putea crede un sunet slab? De aceea se zice „ca sunetul lui Șadai”, sunetul lămurit în Scriptură: «glasul Domnului în putere, glasul Domnului sfărâmă cedrii» (Psalmul 29:4-5)."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Ca sunetul lui Șadai” — adică puternic și tare; sau se referă la Dumnezeu Însuși, numit Șadai, adică «la grăirea Lui», cum a grăit pe muntele Sinai, unde se spune «glas mare» — și, așa cum acolo glasul, cu toată puterea lui, nu s-a auzit dincolo de tabăra lui Israel, tot așa orice glas de profeție nu se aude decât de cel căruia îi e destinat."
+      }
+     ]
     },
     {
      "v": "1:25",
      "t": "Și era un zgomot de deasupra bolții care era peste capetele lor, iar când s-au oprit, și-au întins aripile.",
      "heb": "וַיְהִי־קוֹל מֵעַל לָרָקִיעַ אֲשֶׁר עַל־רֹאשָׁם בְּעָמְדָם תְּרַפֶּינָה כַנְפֵיהֶן׃",
-     "translit": "Vaihi-kol meal larakia așer al-roșam beomdam terapena kanfeihem."
+     "translit": "Vaihi-kol meal larakia așer al-roșam beomdam terapena kanfeihem.",
+     "tokens": [
+      {
+       "t": "Și era un zgomot de deasupra bolții care era peste capetele lor, iar când s-au oprit, și-au întins aripile."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַיְהִי־קוֹל מֵעַל לָרָקִיעַ אֲשֶׁר עַל־רֹאשָׁם בְּעָמְדָם תְּרַפֶּינָה כַנְפֵיהֶן׃",
+       "translation": "Și era un zgomot de deasupra bolții care era peste capetele lor, iar când s-au oprit, și-au întins aripile. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἰδοὺ φωνὴ ὑπεράνωθεν τοῦ στερεώματος τοῦ ὄντος ὑπὲρ κεφαλῆς αὐτῶν.",
+       "greek": true,
+       "translation": "și iată, un glas de deasupra întăririi care era peste capul lor.",
+       "note": "Divergență prin omisiune: Textul Masoretic repetă aici încheierea versetului anterior („iar când s-au oprit, și-au întins aripile”); Septuaginta nu reia această repetiție, versetul ei fiind mai scurt."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:22"
+     ],
+     "commentaries": []
     },
     {
      "v": "1:26",
      "t": "Deasupra bolții care era peste capetele lor era precum piatra de safir sub forma unui tron; și pe forma tronului era precum înfățișarea unui om, pe el, deasupra.",
      "heb": "וּמִמַּעַל לָרָקִיעַ אֲשֶׁר עַל־רֹאשָׁם כְּמַרְאֵה אֶבֶן־סַפִּיר דְּמוּת כִּסֵּא וְעַל דְּמוּת הַכִּסֵּא דְּמוּת כְּמַרְאֵה אָדָם עָלָיו מִלְמָעְלָה׃",
-     "translit": "Umimaal larakia așer al-roșam kemare even-sapir demut kise veal demut hakise demut kemare adam alav milmaala."
+     "translit": "Umimaal larakia așer al-roșam kemare even-sapir demut kise veal demut hakise demut kemare adam alav milmaala.",
+     "tokens": [
+      {
+       "t": "Deasupra bolții care era peste capetele lor era precum piatra de safir sub forma unui tron; și pe forma tronului era "
+      },
+      {
+       "t": "precum înfățișarea unui om",
+       "w": "precum înfățișarea unui om",
+       "heb": "כְּמַרְאֵה אָדָם",
+       "translit": "kemarē adam",
+       "strong": "H120",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "precum înfățișarea unui om (kemarē adam).",
+       "dict_ro": "Metzudat David insistă asupra limbajului voit indirect al versetului: „am văzut” nu e spus despre Dumnezeu Însuși, ci despre „o înfățișare asemenea unui om” — textul folosește cu grijă cuvântul „asemănare”/„înfățișare” tocmai pentru a face auzului limpede că n-are absolut nicio formă reală, dar că profetul a văzut Șechina plecând din Templu ca pe un rege care se ridică din tronul său de pe car."
+      },
+      {
+       "t": ", pe el, deasupra."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וּמִמַּעַל לָרָקִיעַ אֲשֶׁר עַל־רֹאשָׁם כְּמַרְאֵה אֶבֶן־סַפִּיר דְּמוּת כִּסֵּא וְעַל דְּמוּת הַכִּסֵּא דְּמוּת כְּמַרְאֵה אָדָם עָלָיו מִלְמָעְלָה׃",
+       "translation": "Deasupra bolții care era peste capetele lor era precum piatra de safir sub forma unui tron; și pe forma tronului era precum înfățișarea unui om, pe el, deasupra. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὡς ὅρασις λίθου σαπφείρου ὁμοίωμα θρόνου ἐπ᾿ αὐτοῦ, καὶ ἐπὶ τοῦ ὁμοιώματος τοῦ θρόνου ὁμοίωμα ὡς εἶδος ἀνθρώπου ἄνωθεν.",
+       "greek": true,
+       "translation": "ca înfățișarea pietrei de safir, o asemănare de tron pe ea, și pe asemănarea tronului o asemănare ca înfățișare de om, pe deasupra.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 24:10",
+      "Daniel 7:9,10",
+      "Apocalipsa 4:2,3"
+     ],
+     "commentaries": [
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Am văzut” — adică am văzut un lucru strălucitor ca piatra de safir, având forma unui tron; și pe forma tronului am văzut o înfățișare asemenea unui om, aluzie la Dumnezeu Însuși — dar a spus «înfățișare asemenea», ca să arate auzului că n-are, de fapt, nicio formă, ci [limbajul e doar] ca să se înțeleagă că Șechina se ridică de pe car, din Casa [Templului], ca un rege de pe tronul lui."
+      }
+     ]
     },
     {
      "v": "1:27",
      "t": "Am văzut înfățișarea lui Hașmal, ca o lucire cu foc în ea de jur împrejur, de la înfățișarea coapselor lui în sus; iar de la înfățișarea coapselor lui în jos am văzut ca o apariție de foc, cu strălucire de jur împrejur.",
      "heb": "וָאֵרֶא כְּעֵין חַשְׁמַל כְּמַרְאֵה־אֵשׁ בֵּית־לָהּ סָבִיב מִמַּרְאֵה מָתְנָיו וּלְמָעְלָה וּמִמַּרְאֵה מָתְנָיו וּלְמַטָּה רָאִיתִי כְּמַרְאֵה־אֵשׁ וְנֹגַהּ לוֹ סָבִיב׃",
-     "translit": "Vaere keein hașmal kemare-eș beit-la saviv mimare motnav ulemaala umimare motnav ulemata raiti kemare-eș venoga lo saviv."
+     "translit": "Vaere keein hașmal kemare-eș beit-la saviv mimare motnav ulemaala umimare motnav ulemata raiti kemare-eș venoga lo saviv.",
+     "tokens": [
+      {
+       "t": "Am văzut înfățișarea lui "
+      },
+      {
+       "t": "Hașmal",
+       "w": "Hașmal",
+       "heb": "חַשְׁמַל",
+       "translit": "hașmal",
+       "strong": "H2830",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Hașmal, aceeași strălucire enigmatică descrisă deja la Ezechiel 1:4 (hașmal).",
+       "dict_ro": "Rashi notează aici, cu o singură propoziție gravă: „nu s-a dat îngăduință să se cerceteze acest verset” (Hagiga 13a) — tradiția talmudică restrânge explicit meditația asupra acestei descrieri a formei de pe tron, a doua apariție a cuvântului Hașmal în capitol, considerată prea sfântă pentru speculație liberă."
+      },
+      {
+       "t": ", ca o lucire cu foc în ea de jur împrejur, de la înfățișarea coapselor lui în sus; iar de la înfățișarea coapselor lui în jos am văzut ca o apariție de foc, cu strălucire de jur împrejur."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וָאֵרֶא כְּעֵין חַשְׁמַל כְּמַרְאֵה־אֵשׁ בֵּית־לָהּ סָבִיב מִמַּרְאֵה מָתְנָיו וּלְמָעְלָה וּמִמַּרְאֵה מָתְנָיו וּלְמַטָּה רָאִיתִי כְּמַרְאֵה־אֵשׁ וְנֹגַהּ לוֹ סָבִיב׃",
+       "translation": "Am văzut înfățișarea lui Hașmal, ca o lucire cu foc în ea de jur împrejur, de la înfățișarea coapselor lui în sus; iar de la înfățișarea coapselor lui în jos am văzut ca o apariție de foc, cu strălucire de jur împrejur. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἶδον ὡς ὄψιν ἠλέκτρου ἀπὸ ὁράσεως ὀσφύος καὶ ἐπάνω, καὶ ἀπὸ ὁράσεως ὀσφύος καὶ ἕως κάτω εἶδον ὡς ὅρασιν πυρὸς καὶ τὸ φέγγος αὐτοῦ κύκλῳ.",
+       "greek": true,
+       "translation": "și am văzut ca o înfățișare de electru, de la înfățișarea coapselor și mai sus, și de la înfățișarea coapselor și până în jos am văzut ca o înfățișare de foc, și lumina lui de jur împrejur.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:4",
+      "Deuteronomul 4:24"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și am văzut ca Hașmal” — nu s-a dat îngăduință să se cerceteze acest verset (Hagiga 13a)."
+      }
+     ]
     },
     {
      "v": "1:28",
      "t": "Precum apariția curcubeului care este în nor într-o zi ploioasă, așa era apariția strălucirii, de jur împrejur. Așa era apariția înfățișării slavei DOMNULUI! Văzând aceasta, m-am aruncat cu fața la pământ și am auzit un glas vorbind.",
      "heb": "כְּמַרְאֵה הַקֶּשֶׁת אֲשֶׁר יִהְיֶה בֶעָנָן בְּיוֹם הַגֶּשֶׁם כֵּן מַרְאֵה הַנֹּגַהּ סָבִיב הוּא מַרְאֵה דְּמוּת כְּבוֹד־יְהוָה וָאֶרְאֶה וָאֶפֹּל עַל־פָּנַי וָאֶשְׁמַע קוֹל מְדַבֵּר׃",
-     "translit": "Kemare hakeșet așer ihie veanan beiom hageșem ken mare hanoga saviv hu mare demut kevod-ADONAI vaere vaepol al-panai vaeșma kol medaber."
+     "translit": "Kemare hakeșet așer ihie veanan beiom hageșem ken mare hanoga saviv hu mare demut kevod-ADONAI vaere vaepol al-panai vaeșma kol medaber.",
+     "tokens": [
+      {
+       "t": "Precum apariția curcubeului care este în nor într-o zi ploioasă, așa era apariția strălucirii, de jur împrejur. Așa era apariția înfățișării "
+      },
+      {
+       "t": "slavei DOMNULUI",
+       "w": "slavei DOMNULUI",
+       "heb": "כְּבוֹד יְהוָה",
+       "translit": "kevod Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "slava DOMNULUI (kevod Adonai).",
+       "dict_ro": "Radak transmite o tradiție rabinică îndrăzneață: la Sinai, în ziua dăruirii Legii, tot Israelul a văzut carul ceresc așa cum l-a văzut Ezechiel — până acolo încât «și cea mai neînsemnată dintre roabele lor a văzut [la Mare] ce a văzut Ezechiel, fiul lui Buzi» — motiv pentru care tradiția aceasta leagă fiecare din cele patru chipuri ale carului de unul din cele patru steaguri ale taberei lui Israel în pustie."
+      },
+      {
+       "t": "! Văzând aceasta, m-am aruncat cu fața la pământ și am auzit un glas vorbind."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כְּמַרְאֵה הַקֶּשֶׁת אֲשֶׁר יִהְיֶה בֶעָנָן בְּיוֹם הַגֶּשֶׁם כֵּן מַרְאֵה הַנֹּגַהּ סָבִיב הוּא מַרְאֵה דְּמוּת כְּבוֹד־יְהוָה וָאֶרְאֶה וָאֶפֹּל עַל־פָּנַי וָאֶשְׁמַע קוֹל מְדַבֵּר׃",
+       "translation": "Precum apariția curcubeului care este în nor într-o zi ploioasă, așa era apariția strălucirii, de jur împrejur. Așa era apariția înfățișării slavei DOMNULUI! Văzând aceasta, m-am aruncat cu fața la pământ și am auzit un glas vorbind. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὡς ὅρασις τόξου, ὅταν ᾖ ἐν τῇ νεφέλῃ ἐν ἡμέραις ὑετοῦ, οὕτως ἡ στάσις τοῦ φέγγους κυκλόθεν. αὕτη ἡ ὅρασις ὁμοιώματος δόξης Κυρίου· καὶ εἶδον καὶ πίπτω ἐπὶ πρόσωπόν μου καὶ ἤκουσα φωνὴν λαλοῦντος.",
+       "greek": true,
+       "translation": "ca înfățișarea arcului, când e în nor în zilele de ploaie, așa era starea luminii de jur împrejur. Aceasta era înfățișarea asemănării slavei Domnului; și am văzut, și cad cu fața mea [la pământ], și am auzit un glas vorbind.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 9:13-16",
+      "Ezechiel 8:4",
+      "Daniel 10:7-9"
+     ],
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "Au spus învățătorii noștri, de bună amintire, că Israel, în ziua dăruirii Legii, a văzut carul ceresc așa cum l-a văzut Ezechiel — până acolo încât «și cea mai neînsemnată dintre roabele lor a văzut [la Mare] ce a văzut Ezechiel, fiul lui Buzi»; și au spus că au văzut chip de taur în fața taberei lor, de aceea au făcut chipul vițelului [de aur]. Și mai spun că aceste chipuri erau la cele patru steaguri: la steagul lui Iuda chip de leu... [vezi mai sus, 1:10]."
+      },
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și am auzit un glas vorbind” — și ce a vorbit? [Urmează, în continuarea cărții.]"
+      }
+     ]
     },
     {
      "v": "3:12",
      "t": "Și un vânt m-a ridicat și am auzit înapoia mea sunetul unui zgomot mare: Binecuvântat este DOMNUL din locul Său!",
      "heb": "וַתִּשָּׂאֵנִי רוּחַ וָאֶשְׁמַע אַחֲרַי קוֹל רַעַשׁ גָּדוֹל בָּרוּךְ כְּבוֹד־יְהוָה מִמְּקוֹמוֹ׃",
-     "translit": "Vatișaeni ruah vaeșma aharai kol raaș gadol baruh kevod-ADONAI mimekomo."
+     "translit": "Vatișaeni ruah vaeșma aharai kol raaș gadol baruh kevod-ADONAI mimekomo.",
+     "tokens": [
+      {
+       "t": "Și un vânt m-a ridicat și am auzit înapoia mea sunetul unui zgomot mare: "
+      },
+      {
+       "t": "Binecuvântat este DOMNUL din locul Său",
+       "w": "Binecuvântat este DOMNUL din locul Său",
+       "heb": "בָּרוּךְ כְּבוֹד יְהוָה מִמְּקוֹמוֹ",
+       "translit": "baruh kevod Adonai mimkomo",
+       "strong": "H4725",
+       "pos": "verb, qal participiu pasiv + substantiv, masculin și feminin singular construct + nume propriu + substantiv, masculin singular construct + sufix",
+       "def_ro": "Binecuvântat este slava DOMNULUI din locul Său (baruh kevod Adonai mimkomo).",
+       "dict_ro": "Radak explică sensul acestei exclamații centrale: nu e spusă de Ezechiel însuși, ci e glasul îngerilor care, atunci când Șechina se retrage din Locul ei cel Sfânt [Templul], strigă totuși „binecuvântată e slava Domnului din locul ei” — ca să arate că, chiar dacă Israel e cel care pierde prin îndepărtarea Șechinei, slava lui Dumnezeu Însuși rămâne mereu binecuvântată și slăvită, oriunde s-ar afla ea. Metzudat David adaugă: expresia e un răspuns direct dat profetului, care să nu creadă că retragerea din Templu înseamnă diminuarea slavei divine."
+      },
+      {
+       "t": "!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וַתִּשָּׂאֵנִי רוּחַ וָאֶשְׁמַע אַחֲרַי קוֹל רַעַשׁ גָּדוֹל בָּרוּךְ כְּבוֹד־יְהוָה מִמְּקוֹמוֹ׃",
+       "translation": "Și un vânt m-a ridicat și am auzit înapoia mea sunetul unui zgomot mare: Binecuvântat este DOMNUL din locul Său! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνέλαβέ με πνεῦμα, καὶ ἤκουσα κατόπισθέν μου φωνὴν σεισμοῦ μεγάλου· εὐλογημένη ἡ δόξα Κυρίου ἐκ τοῦ τόπου αὐτοῦ.",
+       "greek": true,
+       "translation": "și m-a luat un duh, și am auzit în urma mea sunetul unui cutremur mare: binecuvântată este slava Domnului din locul ei.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Ezechiel 10:4",
+      "Psalmul 72:18,19",
+      "Isaia 6:3"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și un vânt m-a ridicat” — după ce și-a sfârșit vorbele [Dumnezeu, către profet], a poruncit vântului să-l ridice la locul unde erau exilații."
+      },
+      {
+       "author": "Metzudat David (sec. XVIII)",
+       "text": "„Și un vânt m-a ridicat” — vântul m-a ridicat din locul unde stăteam, și am auzit în urma mea un glas, într-un zgomot mare, spunând «binecuvântat e slava DOMNULUI din locul Său» — ca și cum ar spune profetului: să nu crezi că, retrăgându-se Șechina din locul ei din Sfânta Sfintelor, slava Domnului nu va mai fi binecuvântată și slăvită cum era când se afla în locul ei din Sfânta Sfintelor; căci, măcar că s-a retras din locul ei, ea rămâne binecuvântată și slăvită — dar poporul lui Israel e cel care pierde prin retragerea Șechinei din mijlocul lor; slava Domnului Însuși rămâne mereu binecuvântată."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și am auzit în urma mea un glas, într-un zgomot mare, [spunând] binecuvântat e slava DOMNULUI din locul Său” — când vântul m-a ridicat, am auzit un glas în urma mea, în locul profeției unde mă aflam, și glasul spunea «binecuvântat e slava Domnului din locul Său», adică atunci când Șechina se retrage din locul ei de pe chivot, dintre cei doi cherubini — căci Israel era cel care-și micșora slava [divinei prezențe] fiind printre ei prin chipul gelozirii care provoacă gelozie [idolatria] — și e ca și cum slava Lui ar crește prin retragerea de la ei; iar cuvântul «binecuvântare» înseamnă creștere de bine și de slavă. Marele înțelept Rabi Moșe [Maimonide], de bună amintire, a tălmăcit «din locul Său» drept «potrivit rangului și măsurii existenței Sale [proprii]»."
+      }
+     ]
     }
    ]
   },
