@@ -88,7 +88,7 @@ const newVerses = ch.verses.map(v => {
   if (!translation) errs.push(v.v + ': lipseste traducere LXX in ' + lxxtrFile);
   const textCompare = [
     { source: "Textul Masoretic (ebraică)", original: v.heb, translation: v.t + " — traducerea rabinului Rosen.", note: "" },
-    { source: "Septuaginta (greacă, sec. III-II î.Hr.)", original: lxxFor(mapEntry.osis), greek: true, translation, note: note || "" }
+    { source: "Septuaginta (greacă, sec. III-II î.Hr.)", original: d.lxxOsis ? lxxFor(d.lxxOsis) : lxxFor(mapEntry.osis), greek: true, translation, note: note || "" }
   ];
 
   const commentaries = (extra.C[v.v] && extra.C[v.v].comm) || [];

@@ -7682,133 +7682,785 @@
      "v": "3:4",
      "t": "Atunci ofrandele lui Iuda și ale Ierusalimului vor fi plăcute DOMNULUI, precum în zilele de odinioară și în anii de demult.",
      "heb": "וְעָרְבָה לַיהוָה מִנְחַת יְהוּדָה וִירוּשָׁלָ͏ִם כִּימֵי עוֹלָם וּכְשָׁנִים קַדְמֹנִיּוֹת׃",
-     "translit": "Vearva l'ADONAI minhat Iehuda v'Irușalaim kimei olam uheșanim kadmoniot."
+     "translit": "Vearva l'ADONAI minhat Iehuda v'Irușalaim kimei olam uheșanim kadmoniot.",
+     "tokens": [
+      {
+       "t": "Atunci ofrandele lui Iuda și ale Ierusalimului vor fi plăcute DOMNULUI, precum în zilele de odinioară și în anii de demult."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעָרְבָה לַיהוָה מִנְחַת יְהוּדָה וִירוּשָׁלָ͏ִם כִּימֵי עוֹלָם וּכְשָׁנִים קַדְמֹנִיּוֹת׃",
+       "translation": "Atunci ofrandele lui Iuda și ale Ierusalimului vor fi plăcute DOMNULUI, precum în zilele de odinioară și în anii de demult. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀρέσει τῷ Κυρίῳ θυσία ᾿Ιούδα καὶ ῾Ιερουσαλήμ, καθὼς αἱ ἡμέραι τοῦ αἰῶνος καὶ καθὼς τὰ ἔτη τὰ ἔμπροσθεν.",
+       "greek": true,
+       "translation": "Și va fi plăcută Domnului jertfa lui Iuda și a Ierusalimului, ca în zilele veacului și ca în anii cei dintâi.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 1:26,27",
+      "Ezechiel 20:40,41"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:5",
      "t": "Mă voi apropia de voi pentru judecată și Mă voi grăbi să vă fiu martor împotriva vrăjitorilor, adulterilor, celor care jură fals, celor care opresc plata lucrătorului, văduvei, orfanului, celor care strâmbă judecata străinului și care nu se tem de Mine – a spus DOMNUL Oștirilor.",
      "heb": "וְקָרַבְתִּי אֲלֵיכֶם לַמִּשְׁפָּט וְהָיִיתִי עֵד מְמַהֵר בַּמְכַשְּׁפִים וּבַמְנָאֲפִים וּבַנִּשְׁבָּעִים לַשָּׁקֶר וּבְעֹשְׁקֵי שְׂכַר־שָׂכִיר אַלְמָנָה וְיָתוֹם וּמַטֵּי־גֵר וְלֹא יְרֵאוּנִי אָמַר יְהוָה צְבָאוֹת׃",
-     "translit": "Vekaravti aleihem lamișpat vehaiti ed memaher bamehașefim uvamenaafim uvanișbaim lașaker uveoșkei sehar-sahir almana veiatom umatei-gher velo iereuni amar ADONAI Țevaot."
+     "translit": "Vekaravti aleihem lamișpat vehaiti ed memaher bamehașefim uvamenaafim uvanișbaim lașaker uveoșkei sehar-sahir almana veiatom umatei-gher velo iereuni amar ADONAI Țevaot.",
+     "tokens": [
+      {
+       "t": "Mă voi apropia de voi pentru judecată și Mă voi grăbi să vă fiu martor împotriva vrăjitorilor, adulterilor, celor care jură fals, celor care opresc plata lucrătorului, văduvei, orfanului, celor care strâmbă judecata străinului și care nu se tem de Mine – a spus DOMNUL Oștirilor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְקָרַבְתִּי אֲלֵיכֶם לַמִּשְׁפָּט וְהָיִיתִי עֵד מְמַהֵר בַּמְכַשְּׁפִים וּבַמְנָאֲפִים וּבַנִּשְׁבָּעִים לַשָּׁקֶר וּבְעֹשְׁקֵי שְׂכַר־שָׂכִיר אַלְמָנָה וְיָתוֹם וּמַטֵּי־גֵר וְלֹא יְרֵאוּנִי אָמַר יְהוָה צְבָאוֹת׃",
+       "translation": "Mă voi apropia de voi pentru judecată și Mă voi grăbi să vă fiu martor împotriva vrăjitorilor, adulterilor, celor care jură fals, celor care opresc plata lucrătorului, văduvei, orfanului, celor care strâmbă judecata străinului și care nu se tem de Mine – a spus DOMNUL Oștirilor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ προσάξω πρὸς ὑμᾶς ἐν κρίσει καὶ ἔσομαι μάρτυς ταχὺς ἐπὶ τὰς φαρμακοὺς καὶ ἐπὶ τὰς μοιχαλίδας καὶ ἐπὶ τοὺς ὀμνύοντας τῷ ὀνόματί μου ἐπὶ ψεύδει καὶ ἐπὶ τοὺς ἀποστεροῦντας μισθὸν μισθωτοῦ καὶ τοὺς καταδυναστεύοντας χήραν καὶ τοὺς κονδυλίζοντας ὀρφανοὺς καὶ τοὺς ἐκκλίνοντας κρίσιν προσηλύτου καὶ τοὺς μὴ φοβουμένους με, λέγει Κύριος παντοκράτωρ.",
+       "greek": true,
+       "translation": "Și Mă voi apropia de voi la judecată și voi fi martor grabnic împotriva vrăjitorilor și împotriva preacurvarilor și împotriva celor care jură fals pe numele Meu și împotriva celor care oprimă pe năimit, pe văduvă și pe orfan, și împovărează pe străin, și nu se tem de Mine, spune Domnul Atotțiitorul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 22:21-24",
+      "Deuteronomul 24:14,15"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:6",
      "t": "Căci Eu, DOMNUL, nu M-am schimbat; iar voi, copiii lui Iacov, nu ați pierit.",
      "heb": "כִּי אֲנִי יְהוָה לֹא שָׁנִיתִי וְאַתֶּם בְּנֵי־יַעֲקֹב לֹא כְלִיתֶם׃",
-     "translit": "Ki ani ADONAI lo șaniti veatem benei-Iaakov lo helitem."
+     "translit": "Ki ani ADONAI lo șaniti veatem benei-Iaakov lo helitem.",
+     "tokens": [
+      {
+       "t": "Căci Eu, DOMNUL, "
+      },
+      {
+       "t": "nu M-am schimbat",
+       "w": "nu M-am schimbat",
+       "heb": "שָׁנִיתִי",
+       "translit": "șaniti",
+       "strong": "H8138",
+       "pos": "verb, qal perfect",
+       "def_ro": "nu m-am schimbat, nu am variat (șaniti, de la șana).",
+       "dict_ro": "Rashi explică: chiar dacă DOMNUL „întârzie mânia”, hotărârea Lui nu s-a schimbat de la început — nu a iubit răul și nu a urât binele niciodată altfel. „Copiii lui Iacov n-au pierit” — nu pentru că ar fi nevinovați, ci pentru că judecata deplină e lăsată pentru lumea viitoare, nu executată aici imediat — interpretare tradițională citată de Rashi alături de traducerea lui Targum Ionatan."
+      },
+      {
+       "t": "; iar voi, copiii lui Iacov, nu ați pierit."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי אֲנִי יְהוָה לֹא שָׁנִיתִי וְאַתֶּם בְּנֵי־יַעֲקֹב לֹא כְלִיתֶם׃",
+       "translation": "Căci Eu, DOMNUL, nu M-am schimbat; iar voi, copiii lui Iacov, nu ați pierit. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "Διότι ἐγὼ Κύριος ὁ Θεὸς ὑμῶν, καὶ οὐκ ἠλλοίωμαι·",
+       "greek": true,
+       "translation": "Căci Eu, Domnul Dumnezeul vostru, nu M-am schimbat.",
+       "note": "Corespondență strânsă cu Textul Masoretic; Septuaginta omite a doua parte a versetului ebraic (despre fiii lui Iacov)."
+      }
+     ],
+     "refs": [
+      "Numeri 23:19",
+      "1 Samuel 15:29"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Căci Eu, DOMNUL, nu M-am schimbat” — cu toate că întârzii mânia, nu Mi s-a schimbat gândul de la început, să iubesc răul și să urăsc binele. „Iar voi, copiii lui Iacov” — chiar dacă muriți în răutatea voastră, și n-am luat [plata] de la cei răi în timpul vieții lor. „N-ați pierit” — nu pieriți dinaintea Mea, ci am lăsat sufletele să le cer socoteala în Gheinom. Și așa traduce Targumul Ionatan: «și voi, casa lui Iacov, judecata celui care moare în lumea aceasta e [doar] pecetluită [nu ispășită]» — adică: voi socotiți că judecata Mea e anulată, că nu se mai poate cere de la ea. Dar înțelepții noștri au explicat: «nu M-am schimbat» — n-am lovit pe cineva și i-am repetat [lovitura]; dar vouă v-am îngăduit multă pedeapsă, și săgețile Mele s-au sfârșit, iar voi nu v-ați sfârșit."
+      }
+     ]
     },
     {
      "v": "3:7",
      "t": "Încă din zilele strămoșilor voștri v-ați abătut de la decretele Mele și nu le-ați păzit. Întoarceți-vă la Mine și Mă voi întoarce la voi – a spus DOMNUL Oștirilor. Și totuși, spuneți: „Pentru ce să ne căim?”",
      "heb": "לְמִימֵי אֲבֹתֵיכֶם סַרְתֶּם מֵחֻקַּי וְלֹא שְׁמַרְתֶּם שׁוּבוּ אֵלַי וְאָשׁוּבָה אֲלֵיכֶם אָמַר יְהוָה צְבָאוֹת וַאֲמַרְתֶּם בַּמֶּה נָשׁוּב׃",
-     "translit": "Lemimei avoteihem sartem mehukai velo șemartem șuvu elai veașuva aleihem amar ADONAI Țevaot vaamartem bame nașuv."
+     "translit": "Lemimei avoteihem sartem mehukai velo șemartem șuvu elai veașuva aleihem amar ADONAI Țevaot vaamartem bame nașuv.",
+     "tokens": [
+      {
+       "t": "Încă din zilele strămoșilor voștri v-ați abătut de la decretele Mele și nu le-ați păzit. Întoarceți-vă la Mine și Mă voi întoarce la voi – a spus DOMNUL Oștirilor. Și totuși, spuneți: „Pentru ce să ne căim?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "לְמִימֵי אֲבֹתֵיכֶם סַרְתֶּם מֵחֻקַּי וְלֹא שְׁמַרְתֶּם שׁוּבוּ אֵלַי וְאָשׁוּבָה אֲלֵיכֶם אָמַר יְהוָה צְבָאוֹת וַאֲמַרְתֶּם בַּמֶּה נָשׁוּב׃",
+       "translation": "Încă din zilele strămoșilor voștri v-ați abătut de la decretele Mele și nu le-ați păzit. Întoarceți-vă la Mine și Mă voi întoarce la voi – a spus DOMNUL Oștirilor. Și totuși, spuneți: „Pentru ce să ne căim?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ὑμεῖς οἱ υἱοὶ ᾿Ιακὼβ οὐκ ἀπέχεσθε ἀπὸ τῶν ἀδικιῶν τῶν πατέρων ὑμῶν, ἐξεκλίνατε νόμιμά μου καὶ οὐκ ἐφυλάξασθε. ἐπιστρέψατε πρός με, καὶ ἐπιστραφήσομαι πρὸς ὑμᾶς, λέγει Κύριος παντοκράτωρ. καὶ εἴπατε· ἐν τίνι ἐπιστρέψομεν;",
+       "greek": true,
+       "translation": "Și voi, fiii lui Iacov, nu vă abțineți de la nedreptățile părinților voștri; v-ați abătut de la legile Mele și nu le-ați păzit. Întoarceți-vă la Mine, și Mă voi întoarce la voi, spune Domnul Atotțiitorul.",
+       "note": "Septuaginta are text mai amplu la prima parte, incluzând „fiii lui Iacov” aici, unde în Textul Masoretic acea formulă e deja la v.6."
+      }
+     ],
+     "refs": [
+      "Isaia 55:6,7",
+      "Zaharia 1:3"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:8",
      "t": "Oare [se cuvine ca] un om să-L jefuiască pe Dumnezeu, așa cum Mă jefuiți voi pe Mine? Și totuși, spuneți: „Cum Te-am jefuit?” – prin zeciuială și prin darurile preoțești.",
      "heb": "הֲיִקְבַּע אָדָם אֱלֹהִים כִּי אַתֶּם קֹבְעִים אֹתִי וַאֲמַרְתֶּם בַּמֶּה קְבַעֲנוּךָ הַמַּעֲשֵׂר וְהַתְּרוּמָה׃",
-     "translit": "Haikba adam Elohim ki atem koveim oti vaamartem bame kevaanuha hamaaser vehateruma."
+     "translit": "Haikba adam Elohim ki atem koveim oti vaamartem bame kevaanuha hamaaser vehateruma.",
+     "tokens": [
+      {
+       "t": "Oare [se cuvine ca] un om să-L jefuiască pe Dumnezeu, așa cum Mă jefuiți voi pe Mine? Și totuși, spuneți: „Cum Te-am jefuit?” – prin zeciuială și prin darurile preoțești."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הֲיִקְבַּע אָדָם אֱלֹהִים כִּי אַתֶּם קֹבְעִים אֹתִי וַאֲמַרְתֶּם בַּמֶּה קְבַעֲנוּךָ הַמַּעֲשֵׂר וְהַתְּרוּמָה׃",
+       "translation": "Oare [se cuvine ca] un om să-L jefuiască pe Dumnezeu, așa cum Mă jefuiți voi pe Mine? Și totuși, spuneți: „Cum Te-am jefuit?” – prin zeciuială și prin darurile preoțești. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μήτι πτερνιεῖ ἄνθρωπος Θεόν; διότι ὑμεῖς πτερνίζετέ με. καὶ ἐρεῖτε· ἐν τίνι ἐπτερνίσαμέν σε; ὅτι τὰ ἐπιδέκατα καὶ αἱ ἀπαρχαὶ μεθ᾿ ὑμῶν εἰσι·",
+       "greek": true,
+       "translation": "Oare va înșela omul pe Dumnezeu? Căci voi Mă înșelați. Și veți spune: «Cu ce Te-am înșelat?» Cu zeciuielile și cu prinoasele.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Leviticul 27:30-34",
+      "Numeri 18:21-32"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:9",
      "t": "Sunteți loviți de un blestem, și tot Mă jefuiți, neamul întreg.",
      "heb": "בַּמְּאֵרָה אַתֶּם נֵאָרִים וְאֹתִי אַתֶּם קֹבְעִים הַגּוֹי כֻּלּוֹ׃",
-     "translit": "Bameera atem nearim veoti atem koveim hagoi kulo."
+     "translit": "Bameera atem nearim veoti atem koveim hagoi kulo.",
+     "tokens": [
+      {
+       "t": "Sunteți loviți de un blestem, și tot Mă jefuiți, neamul întreg."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "בַּמְּאֵרָה אַתֶּם נֵאָרִים וְאֹתִי אַתֶּם קֹבְעִים הַגּוֹי כֻּלּוֹ׃",
+       "translation": "Sunteți loviți de un blestem, și tot Mă jefuiți, neamul întreg. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀποβλέποντες ὑμεῖς ἀποβλέπετε, καὶ ἐμὲ ὑμεῖς πτερνίζετε· τὸ ἔτος συνετελέσθη.",
+       "greek": true,
+       "translation": "Și cu blesteme sunteți blestemați, și voi Mă înșelați, tot neamul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 28:15-19",
+      "Hagai 1:6-11"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:10",
      "t": "Aduceți toată zeciuiala în hambare și [faceți] să fie provizii în Casa Mea și puneți-Mă la încercare – a spus DOMNUL Oștirilor – dacă nu voi deschide pentru voi ferestrele cerurilor și [nu] voi revărsa pentru voi binecuvântare cât să nu aveți unde o ține!",
      "heb": "הָבִיאוּ אֶת־כָּל־הַמַּעֲשֵׂר אֶל־בֵּית הָאוֹצָר וִיהִי טֶרֶף בְּבֵיתִי וּבְחָנוּנִי נָא בָּזֹאת אָמַר יְהוָה צְבָאוֹת אִם־לֹא אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד־בְּלִי־דָי׃",
-     "translit": "Haviu et-kol-hamaaser el-beit haotzar vihi teref beveiti uvehanuni na bazot amar ADONAI Țevaot im-lo eftah lahem et arubot hașamaim vaharikoti lahem beraha ad-beli-dai."
+     "translit": "Haviu et-kol-hamaaser el-beit haotzar vihi teref beveiti uvehanuni na bazot amar ADONAI Țevaot im-lo eftah lahem et arubot hașamaim vaharikoti lahem beraha ad-beli-dai.",
+     "tokens": [
+      {
+       "t": "Aduceți toată zeciuiala în hambare și [faceți] să fie "
+      },
+      {
+       "t": "provizii",
+       "w": "provizii",
+       "heb": "טֶרֶף",
+       "translit": "teref",
+       "strong": "H2964",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "hrană, pradă [de mâncare] (teref).",
+       "dict_ro": "Rashi explică „teref” aici nu ca „pradă” în sensul obișnuit, ci ca „hrană disponibilă pentru slujitorii Mei” — o nuanță specifică a cuvântului, aplicată proviziilor Templului adunate din zeciuieli."
+      },
+      {
+       "t": " în Casa Mea și puneți-Mă la încercare – a spus DOMNUL Oștirilor – dacă nu voi deschide pentru voi ferestrele cerurilor și [nu] voi revărsa pentru voi binecuvântare cât să nu aveți unde o ține!"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הָבִיאוּ אֶת־כָּל־הַמַּעֲשֵׂר אֶל־בֵּית הָאוֹצָר וִיהִי טֶרֶף בְּבֵיתִי וּבְחָנוּנִי נָא בָּזֹאת אָמַר יְהוָה צְבָאוֹת אִם־לֹא אֶפְתַּח לָכֶם אֵת אֲרֻבּוֹת הַשָּׁמַיִם וַהֲרִיקֹתִי לָכֶם בְּרָכָה עַד־בְּלִי־דָי׃",
+       "translation": "Aduceți toată zeciuiala în hambare și [faceți] să fie provizii în Casa Mea și puneți-Mă la încercare – a spus DOMNUL Oștirilor – dacă nu voi deschide pentru voi ferestrele cerurilor și [nu] voi revărsa pentru voi binecuvântare cât să nu aveți unde o ține! — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ εἰσηνέγκατε πάντα τὰ ἐκφόρια εἰς τοὺς θησαυρούς, καὶ ἔσται ἡ διαρπαγὴ αὐτοῦ ἐν τῷ οἴκῳ αὐτοῦ. ἐπιστρέψατε δὴ ἐν τούτῳ, λέγει Κύριος παντοκράτωρ, ἐὰν μὴ ἀνοίξω ὑμῖν τοὺς καταρράκτας τοῦ οὐρανοῦ καὶ ἐκχεῶ τὴν εὐλογίαν μου ὑμῖν ἕως τοῦ ἱκανωθῆναι.",
+       "greek": true,
+       "translation": "Aduceți toate zeciuielile în vistierie, și va fi hrană în Casa Mea; și încercați-Mă în aceasta, spune Domnul Atotțiitorul, dacă nu voi deschide vouă cataractele cerului și voi vărsa vouă binecuvântare, până să vă fie de-ajuns.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "2 Cronici 31:4-10",
+      "Maleahi 3:10"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și să fie provizii” — să fie hrană disponibilă pentru slujitorii Mei."
+      }
+     ]
     },
     {
      "v": "3:11",
      "t": "Voi goni [lăcusta] devoratoare și ea nu va distruge rodul pământului, iar via câmpului nu-și va pierde fructul – a spus DOMNUL Oștirilor.",
      "heb": "וְגָעַרְתִּי לָכֶם בָּאֹכֵל וְלֹא־יַשְׁחִת לָכֶם אֶת־פְּרִי הָאֲדָמָה וְלֹא־תְשַׁכֵּל לָכֶם הַגֶּפֶן בַּשָּׂדֶה אָמַר יְהוָה צְבָאוֹת׃",
-     "translit": "Vegaarti lahem baohel velo-iașhit lahem et-peri haadama velo-teșakel lahem haghefen basade amar ADONAI Țevaot."
+     "translit": "Vegaarti lahem baohel velo-iașhit lahem et-peri haadama velo-teșakel lahem haghefen basade amar ADONAI Țevaot.",
+     "tokens": [
+      {
+       "t": "Voi goni [lăcusta] devoratoare și ea nu va distruge rodul pământului, iar via câmpului nu-și va pierde fructul – a spus DOMNUL Oștirilor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְגָעַרְתִּי לָכֶם בָּאֹכֵל וְלֹא־יַשְׁחִת לָכֶם אֶת־פְּרִי הָאֲדָמָה וְלֹא־תְשַׁכֵּל לָכֶם הַגֶּפֶן בַּשָּׂדֶה אָמַר יְהוָה צְבָאוֹת׃",
+       "translation": "Voi goni [lăcusta] devoratoare și ea nu va distruge rodul pământului, iar via câmpului nu-și va pierde fructul – a spus DOMNUL Oștirilor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ διαστελῶ ὑμῖν εἰς βρῶσιν καὶ οὐ μὴ διαφθείρω ὑμῶν τὸν καρπὸν τῆς γῆς, καὶ οὐ μὴ ἀσθενήσῃ ὑμῶν ἡ ἄμπελος ἡ ἐν τῷ ἀγρῷ, λέγει Κύριος παντοκράτωρ.",
+       "greek": true,
+       "translation": "Și voi despărți vouă spre mâncare, și nu voi nimici vouă rodul pământului, și nu va fi stearpă vouă via din câmp, spune Domnul Atotțiitorul.",
+       "note": "Corespondență apropiată, cu structură ușor diferită."
+      }
+     ],
+     "refs": [
+      "Ioel 2:20",
+      "Hagai 2:17"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:12",
      "t": "Toate neamurile vă vor lăuda, căci veți fi o țară dorită – a spus DOMNUL Oștirilor.",
      "heb": "וְאִשְּׁרוּ אֶתְכֶם כָּל־הַגּוֹיִם כִּי־תִהְיוּ אַתֶּם אֶרֶץ חֵפֶץ אָמַר יְהוָה צְבָאוֹת׃",
-     "translit": "Veișru ethem kol-hagoim ki-tihiu atem ereț hefeț amar ADONAI Țevaot."
+     "translit": "Veișru ethem kol-hagoim ki-tihiu atem ereț hefeț amar ADONAI Țevaot.",
+     "tokens": [
+      {
+       "t": "Toate neamurile vă vor lăuda, căci veți fi o țară dorită – a spus DOMNUL Oștirilor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְאִשְּׁרוּ אֶתְכֶם כָּל־הַגּוֹיִם כִּי־תִהְיוּ אַתֶּם אֶרֶץ חֵפֶץ אָמַר יְהוָה צְבָאוֹת׃",
+       "translation": "Toate neamurile vă vor lăuda, căci veți fi o țară dorită – a spus DOMNUL Oștirilor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ μακαριοῦσιν ὑμᾶς πάντα τὰ ἔθνη, διότι ἔσεσθε ὑμεῖς γῆ θελητή, λέγει Κύριος παντοκράτωρ.",
+       "greek": true,
+       "translation": "Și vă vor ferici toate neamurile, căci veți fi voi țară voită, spune Domnul Atotțiitorul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Deuteronomul 4:6,7",
+      "Zaharia 8:23"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:13",
      "t": "Ați vorbit aspru împotriva Mea – a spus DOMNUL. Și totuși, spuneți: „Cum am vorbit împotriva Ta?”",
      "heb": "חָזְקוּ עָלַי דִּבְרֵיכֶם אָמַר יְהוָה וַאֲמַרְתֶּם מַה־נִּדְבַּרְנוּ עָלֶיךָ׃",
-     "translit": "Hazku alai divreihem amar ADONAI vaamartem ma-nidbarnu aleha."
+     "translit": "Hazku alai divreihem amar ADONAI vaamartem ma-nidbarnu aleha.",
+     "tokens": [
+      {
+       "t": "Ați vorbit aspru împotriva Mea – a spus DOMNUL. Și totuși, spuneți: „Cum am vorbit împotriva Ta?”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "חָזְקוּ עָלַי דִּבְרֵיכֶם אָמַר יְהוָה וַאֲמַרְתֶּם מַה־נִּדְבַּרְנוּ עָלֶיךָ׃",
+       "translation": "Ați vorbit aspru împotriva Mea – a spus DOMNUL. Și totuși, spuneți: „Cum am vorbit împotriva Ta?” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "᾿Εβαρύνατε ἐπ᾿ ἐμὲ τοὺς λόγους ὑμῶν, λέγει Κύριος, καὶ εἴπατε· ἐν τίνι κατελαλήσαμεν κατὰ σοῦ;",
+       "greek": true,
+       "translation": "Ați împovărat asupra Mea cuvintele voastre, spune Domnul, și ați spus: «Ce am grăit împotriva Ta?»",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Maleahi 2:17",
+      "Iov 34:7,8"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:14",
      "t": "Ați spus: „Să-L slujim pe Dumnezeu este în van, și ce am avut de câștigat păzindu-I sarcina și mergând supus înaintea DOMNULUI Oștirilor?",
      "heb": "אֲמַרְתֶּם שָׁוְא עֲבֹד אֱלֹהִים וּמַה־בֶּצַע כִּי שָׁמַרְנוּ מִשְׁמַרְתּוֹ וְכִי הָלַכְנוּ קְדֹרַנִּית מִפְּנֵי יְהוָה צְבָאוֹת׃",
-     "translit": "Amartem șav avod Elohim uma-beța ki șamarnu mișmarto vehi halahnu kedoranit mipenei ADONAI Țevaot."
+     "translit": "Amartem șav avod Elohim uma-beța ki șamarnu mișmarto vehi halahnu kedoranit mipenei ADONAI Țevaot.",
+     "tokens": [
+      {
+       "t": "Ați spus: „Să-L slujim pe Dumnezeu este în van, și ce am avut de câștigat păzindu-I sarcina și mergând supus înaintea DOMNULUI Oștirilor?"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אֲמַרְתֶּם שָׁוְא עֲבֹד אֱלֹהִים וּמַה־בֶּצַע כִּי שָׁמַרְנוּ מִשְׁמַרְתּוֹ וְכִי הָלַכְנוּ קְדֹרַנִּית מִפְּנֵי יְהוָה צְבָאוֹת׃",
+       "translation": "Ați spus: „Să-L slujim pe Dumnezeu este în van, și ce am avut de câștigat păzindu-I sarcina și mergând supus înaintea DOMNULUI Oștirilor? — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "εἴπατε· μάταιος ὁ δουλεύων Θεῷ, καὶ τί πλέον ὅτι ἐφυλάξαμεν τὰ φυλάγματα αὐτοῦ καὶ διότι ἐπορεύθημεν ἱκέται πρὸ προσώπου Κυρίου παντοκράτορος;",
+       "greek": true,
+       "translation": "Ați spus: «Deșert [e] a sluji lui Dumnezeu, și ce mai mult că am păzit poruncile Lui și am mers jeliți înaintea feței Domnului Atotțiitorul?",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Iov 21:14,15",
+      "Țefania 1:12"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:15",
      "t": "Așa că acum lăudăm pe cei ce păcătuiesc voit, cei care au făcut rău prosperă, chiar și ei L-au încercat pe Dumnezeu și au fost cruțați!”",
      "heb": "וְעַתָּה אֲנַחְנוּ מְאַשְּׁרִים זֵדִים גַּם־נִבְנוּ עֹשֵׂי רִשְׁעָה גַּם בָּחֲנוּ אֱלֹהִים וַיִּמָּלֵטוּ׃",
-     "translit": "Veata anahnu meașerim zedim gam-nivnu osei rișaa gam bahanu Elohim vaimaletu."
+     "translit": "Veata anahnu meașerim zedim gam-nivnu osei rișaa gam bahanu Elohim vaimaletu.",
+     "tokens": [
+      {
+       "t": "Așa că acum lăudăm pe cei ce păcătuiesc voit, cei care au făcut rău prosperă, chiar și ei L-au încercat pe Dumnezeu și au fost cruțați!”"
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַתָּה אֲנַחְנוּ מְאַשְּׁרִים זֵדִים גַּם־נִבְנוּ עֹשֵׂי רִשְׁעָה גַּם בָּחֲנוּ אֱלֹהִים וַיִּמָּלֵטוּ׃",
+       "translation": "Așa că acum lăudăm pe cei ce păcătuiesc voit, cei care au făcut rău prosperă, chiar și ei L-au încercat pe Dumnezeu și au fost cruțați!” — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ νῦν ἡμεῖς μακαρίζομεν ἀλλοτρίους, καὶ ἀνοικοδομοῦνται πάντες ποιοῦντες ἄνομα καὶ ἀντέστησαν τῷ Θεῷ καὶ ἐσώθησαν.",
+       "greek": true,
+       "translation": "Și acum noi fericim pe cei străini, și se zidesc toți cei care fac cele nelegiuite, și I s-au împotrivit lui Dumnezeu, și au fost mântuiți.»",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Maleahi 2:17",
+      "Ieremia 12:1,2"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:16",
      "t": "Atunci cei care se tem de DOMNUL vor vorbi unul cu altul, iar DOMNUL a auzit și a ascultat. Și a fost înscris într-o carte a amintirii înaintea Lui, pentru cei care se tem de DOMNUL și meditează la numele Lui.",
      "heb": "אָז נִדְבְּרוּ יִרְאֵי יְהוָה אִישׁ אֶל־רֵעֵהוּ וַיַּקְשֵׁב יְהוָה וַיִּשְׁמָע וַיִּכָּתֵב סֵפֶר זִכָּרוֹן לְפָנָיו לְיִרְאֵי יְהוָה וּלְחֹשְׁבֵי שְׁמוֹ׃",
-     "translit": "Az nidberu irei ADONAI iș el-reehu vaikașev ADONAI vaișma vaikatev sefer zikaron lefanav leirei ADONAI ulehoșvei șemo."
+     "translit": "Az nidberu irei ADONAI iș el-reehu vaikașev ADONAI vaișma vaikatev sefer zikaron lefanav leirei ADONAI ulehoșvei șemo.",
+     "tokens": [
+      {
+       "t": "Atunci cei care se tem de DOMNUL vor vorbi unul cu altul, iar DOMNUL a auzit și a ascultat. Și a fost înscris într-"
+      },
+      {
+       "t": "o carte a amintirii",
+       "w": "o carte a amintirii",
+       "heb": "וַיִּכָּתֵב סֵפֶר",
+       "translit": "vaikatēv sēfer",
+       "strong": "H5612",
+       "pos": "verb, nifal imperfect consecutiv + substantiv, masculin singular construct",
+       "def_ro": "carte de pomenire (sefer zikaron).",
+       "dict_ro": "Rashi leagă acest verset direct de contextul precedent: „atunci”, exact în vremea când cei răi își fac răul nestingheriți și cei drepți se îndepărtează mâhniți, „cei care se tem de DOMNUL” se întăresc reciproc să nu se alipească de faptele rele — iar DOMNUL, chiar dacă nu răspunde imediat, ține o evidență scrisă exactă a acestei loialități."
+      },
+      {
+       "t": " înaintea Lui, pentru cei care se tem de DOMNUL și meditează la numele Lui."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "אָז נִדְבְּרוּ יִרְאֵי יְהוָה אִישׁ אֶל־רֵעֵהוּ וַיַּקְשֵׁב יְהוָה וַיִּשְׁמָע וַיִּכָּתֵב סֵפֶר זִכָּרוֹן לְפָנָיו לְיִרְאֵי יְהוָה וּלְחֹשְׁבֵי שְׁמוֹ׃",
+       "translation": "Atunci cei care se tem de DOMNUL vor vorbi unul cu altul, iar DOMNUL a auzit și a ascultat. Și a fost înscris într-o carte a amintirii înaintea Lui, pentru cei care se tem de DOMNUL și meditează la numele Lui. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ταῦτα κατελάλησαν οἱ φοβούμενοι τὸν Κύριον, ἕκαστος πρὸς τὸν πλησίον αὐτοῦ· καὶ προσέσχε Κύριος καὶ εἰσήκουσε καὶ ἔγραψε βιβλίον μνημοσύνου ἐνώπιον αὐτοῦ τοῖς φοβουμένοις τὸν Κύριον καὶ εὐλαβουμένοις τὸ ὄνομα αὐτοῦ.",
+       "greek": true,
+       "translation": "Acestea le-au vorbit cei care se temeau de Domnul, fiecare la vecinul lui, și a luat seama Domnul, și a ascultat, și a scris Domnul o carte de pomenire înaintea Lui pentru cei care se tem de Domnul și cinstesc Numele Lui.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Estera 6:1",
+      "Psalmul 56:8"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Atunci au vorbit [unul cu altul]” — [DOMNUL] răspunde la cuvintele voastre: atunci, pe când cei răi își fac răutatea, iar cei buni merg întristați dinaintea Mea, cei care se tem de DOMNUL și-au vorbit unii altora, să nu se alipească de faptele lor rele. Și Eu — cuvintele voastre nu au fost date uitării dinaintea Mea, și cu toate că nu Mă grăbesc să răsplătesc, am luat aminte și am ascultat, și am poruncit să li se scrie o carte de amintire, și cuvintele lor au rămas statornice la Mine."
+      }
+     ]
     },
     {
      "v": "3:17",
      "t": "Ei vor rămâne ai Mei ca o comoară – a spus DOMNUL Oștirilor – pentru ziua când înfăptuiesc [judecată], și de ei voi avea milă, precum are omul milă de fiul lui care îl slujește.",
      "heb": "וְהָיוּ לִי אָמַר יְהוָה צְבָאוֹת לַיּוֹם אֲשֶׁר אֲנִי עֹשֶׂה סְגֻלָּה וְחָמַלְתִּי עֲלֵיהֶם כַּאֲשֶׁר יַחְמֹל אִישׁ עַל־בְּנוֹ הָעֹבֵד אֹתוֹ׃",
-     "translit": "Vehaiu li amar ADONAI Țevaot laiom așer ani ose segula vehamalti aleihem kaașer iahmol iș al-beno haoved oto."
+     "translit": "Vehaiu li amar ADONAI Țevaot laiom așer ani ose segula vehamalti aleihem kaașer iahmol iș al-beno haoved oto.",
+     "tokens": [
+      {
+       "t": "Ei vor rămâne ai Mei ca o comoară – a spus DOMNUL Oștirilor – pentru ziua când înfăptuiesc [judecată], și de ei voi avea milă, precum are omul milă de fiul lui care îl slujește."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהָיוּ לִי אָמַר יְהוָה צְבָאוֹת לַיּוֹם אֲשֶׁר אֲנִי עֹשֶׂה סְגֻלָּה וְחָמַלְתִּי עֲלֵיהֶם כַּאֲשֶׁר יַחְמֹל אִישׁ עַל־בְּנוֹ הָעֹבֵד אֹתוֹ׃",
+       "translation": "Ei vor rămâne ai Mei ca o comoară – a spus DOMNUL Oștirilor – pentru ziua când înfăptuiesc [judecată], și de ei voi avea milă, precum are omul milă de fiul lui care îl slujește. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἔσονταί μοι, λέγει Κύριος παντοκράτωρ, εἰς ἡμέραν, ἣν ἐγὼ ποιῶ εἰς περιποίησιν, καὶ αἱρετιῶ αὐτοὺς ὃν τρόπον αἱρετίζει ἄνθρωπος τὸν υἱὸν αὐτοῦ τὸν δουλεύοντα αὐτῷ.",
+       "greek": true,
+       "translation": "Și vor fi ai Mei, spune Domnul Atotțiitorul, în ziua pe care Eu o fac, spre avuție, și-i voi alege pe ei cum alege omul pe fiul lui, cel care-i slujește.",
+       "note": "Corespondență apropiată cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Exodul 19:5",
+      "Deuteronomul 7:6"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:18",
      "t": "Și atunci vă veți întoarce și veți vedea deosebirea dintre cel drept și cel nelegiuit, dintre cel care Îl slujește pe Dumnezeu și cel care nu Îl slujește.",
      "heb": "וְשַׁבְתֶּם וּרְאִיתֶם בֵּין צַדִּיק לְרָשָׁע בֵּין עֹבֵד אֱלֹהִים לַאֲשֶׁר לֹא עֲבָדוֹ׃",
-     "translit": "Veșavtem ureitem bein țadik lerașa bein oved Elohim laașer lo avado."
+     "translit": "Veșavtem ureitem bein țadik lerașa bein oved Elohim laașer lo avado.",
+     "tokens": [
+      {
+       "t": "Și atunci vă veți întoarce și veți vedea deosebirea dintre cel drept și cel nelegiuit, dintre cel care Îl slujește pe Dumnezeu și cel care nu Îl slujește."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְשַׁבְתֶּם וּרְאִיתֶם בֵּין צַדִּיק לְרָשָׁע בֵּין עֹבֵד אֱלֹהִים לַאֲשֶׁר לֹא עֲבָדוֹ׃",
+       "translation": "Și atunci vă veți întoarce și veți vedea deosebirea dintre cel drept și cel nelegiuit, dintre cel care Îl slujește pe Dumnezeu și cel care nu Îl slujește. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐπιστραφήσεσθε καὶ ὄψεσθε ἀναμέσον δικαίου καὶ ἀναμέσον ἀνόμου καὶ ἀναμέσον τοῦ δουλεύοντος Θεῷ καὶ τοῦ μὴ δουλεύοντος.",
+       "greek": true,
+       "translation": "Și vă veți întoarce și veți vedea între cel drept și cel nelegiuit, și între cel care slujește lui Dumnezeu și cel care nu-I slujește.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Geneza 18:25",
+      "Daniel 12:1-3"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:19",
      "t": "Căci iată, vine ziua, arzând ca un cuptor! Toți nelegiuiții și toți făcătorii de rele vor fi miriște, și ziua care vine îi va arde – a spus DOMNUL Oștirilor – care nu le va lăsa nici rădăcină, nici ramură.",
      "heb": "כִּי־הִנֵּה הַיּוֹם בָּא בֹּעֵר כַּתַּנּוּר וְהָיוּ כָל־זֵדִים וְכָל־עֹשֵׂה רִשְׁעָה קַשׁ וְלִהַט אֹתָם הַיּוֹם הַבָּא אָמַר יְהוָה צְבָאוֹת אֲשֶׁר לֹא־יַעֲזֹב לָהֶם שֹׁרֶשׁ וְעָנָף׃",
-     "translit": "Ki-hine haiom ba boer katanur vehaiu hol-zedim vehol-ose rișaa kaș velihat otam haiom haba amar ADONAI Țevaot așer lo-iaazov lahem șoreș veanaf."
+     "translit": "Ki-hine haiom ba boer katanur vehaiu hol-zedim vehol-ose rișaa kaș velihat otam haiom haba amar ADONAI Țevaot așer lo-iaazov lahem șoreș veanaf.",
+     "tokens": [
+      {
+       "t": "Căci iată, vine ziua, arzând ca un cuptor! Toți nelegiuiții și toți făcătorii de rele vor fi miriște, și ziua care vine îi va arde – a spus DOMNUL Oștirilor – care nu le va lăsa nici rădăcină, nici ramură."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "כִּי־הִנֵּה הַיּוֹם בָּא בֹּעֵר כַּתַּנּוּר וְהָיוּ כָל־זֵדִים וְכָל־עֹשֵׂה רִשְׁעָה קַשׁ וְלִהַט אֹתָם הַיּוֹם הַבָּא אָמַר יְהוָה צְבָאוֹת אֲשֶׁר לֹא־יַעֲזֹב לָהֶם שֹׁרֶשׁ וְעָנָף׃",
+       "translation": "Căci iată, vine ziua, arzând ca un cuptor! Toți nelegiuiții și toți făcătorii de rele vor fi miriște, și ziua care vine îi va arde – a spus DOMNUL Oștirilor – care nu le va lăsa nici rădăcină, nici ramură. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ΔΙΟΤΙ ἰδοὺ ἡμέρα Κυρίου ἔρχεται καιομένη ὡς κλίβανος καὶ φλέξει αὐτούς, καὶ ἔσονται πάντες οἱ ἀλλογενεῖς καὶ πάντες οἱ ποιοῦντες ἄνομα καλάμη, καὶ ἀνάψει αὐτοὺς ἡ ἡμέρα ἡ ἐρχομένη, λέγει Κύριος παντοκράτωρ, καὶ οὐ μὴ ὑπολειφθῇ ἐξ αὐτῶν ῥίζα οὐδὲ κλῆμα.",
+       "greek": true,
+       "translation": "Căci, iată, vine ziua Domnului, arzând ca un cuptor, și-i va aprinde pe ei, și vor fi toți cei străini și toți cei ce fac nelegiuiri paie, și-i va aprinde pe ei ziua care vine, spune Domnul Atotțiitorul, și nu va rămâne din ei rădăcină, nici mlădiță.",
+       "note": "Corespondență apropiată; Septuaginta are „cei străini” (ἀλλογενεῖς) unde ebraica are „cei îngâmfați/aroganți” (zedim)."
+      }
+     ],
+     "refs": [
+      "Ioel 2:1",
+      "Naum 1:5,6"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:20",
      "t": "Dar voi, care vă temeți de numele Meu – un soare al dreptății va străluci cu vindecare pe aripile sale. Veți merge și veți prospera precum vițeii îngrășați.",
      "heb": "וְזָרְחָה לָכֶם יִרְאֵי שְׁמִי שֶׁמֶשׁ צְדָקָה וּמַרְפֵּא בִּכְנָפֶיהָ וִיצָאתֶם וּפִשְׁתֶּם כְּעֶגְלֵי מַרְבֵּק׃",
-     "translit": "Vezarha lahem irei șemi șemeș țedaka umarpe bihnafeha vițatem ufiștem keeglei marbek."
+     "translit": "Vezarha lahem irei șemi șemeș țedaka umarpe bihnafeha vițatem ufiștem keeglei marbek.",
+     "tokens": [
+      {
+       "t": "Dar voi, care vă temeți de numele Meu – "
+      },
+      {
+       "t": "un soare al dreptății",
+       "w": "un soare al dreptății",
+       "heb": "שֶׁמֶשׁ צְדָקָה",
+       "translit": "șemeș țedaka",
+       "strong": "H6666",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin singular",
+       "def_ro": "soare de dreptate (șemeș țedaka).",
+       "dict_ro": "Imaginea „soarelui dreptății” care răsare „cu vindecare pe aripile sale” e unul dintre cele mai citate versete mesianice ale cărții — metafora aripilor solare vine probabil din iconografia orientală antică a discului solar înaripat, aplicată aici vindecării morale/fizice promise celor care se tem de Numele divin."
+      },
+      {
+       "t": " va străluci cu vindecare pe aripile sale. Veți merge și veți prospera precum vițeii îngrășați."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְזָרְחָה לָכֶם יִרְאֵי שְׁמִי שֶׁמֶשׁ צְדָקָה וּמַרְפֵּא בִּכְנָפֶיהָ וִיצָאתֶם וּפִשְׁתֶּם כְּעֶגְלֵי מַרְבֵּק׃",
+       "translation": "Dar voi, care vă temeți de numele Meu – un soare al dreptății va străluci cu vindecare pe aripile sale. Veți merge și veți prospera precum vițeii îngrășați. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἀνατελεῖ ὑμῖν τοῖς φοβουμένοις τὸ ὄνομά μου ἥλιος δικαιοσύνης καὶ ἴασις ἐν ταῖς πτέρυξιν αὐτοῦ, καὶ ἐξελεύσεσθε καὶ σκιρτήσετε ὡς μοσχάρια ἐκ δεσμῶν ἀνειμένα.",
+       "greek": true,
+       "translation": "Și va răsări vouă, celor care vă temeți de Numele Meu, soarele dreptății, și vindecare în aripile lui, și veți ieși și veți zburda ca viței de la cătușe dezlegați.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Isaia 30:26",
+      "Isaia 60:1-3"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:21",
      "t": "Îi veți călca în picioare pe cei răi, căci ei vor fi precum pulberea sub tălpile picioarelor voastre, în ziua pe care o pregătesc – a spus DOMNUL Oștirilor.",
      "heb": "וְעַסּוֹתֶם רְשָׁעִים כִּי־יִהְיוּ אֵפֶר תַּחַת כַּפּוֹת רַגְלֵיכֶם בַּיּוֹם אֲשֶׁר אֲנִי עֹשֶׂה אָמַר יְהוָה צְבָאוֹת׃",
-     "translit": "Veasotem reșaim ki-ihiu efer tahat kapot ragleihem baiom așer ani ose amar ADONAI Țevaot."
+     "translit": "Veasotem reșaim ki-ihiu efer tahat kapot ragleihem baiom așer ani ose amar ADONAI Țevaot.",
+     "tokens": [
+      {
+       "t": "Îi veți călca în picioare pe cei răi, căci ei vor fi precum pulberea sub tălpile picioarelor voastre, în ziua pe care o pregătesc – a spus DOMNUL Oștirilor."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְעַסּוֹתֶם רְשָׁעִים כִּי־יִהְיוּ אֵפֶר תַּחַת כַּפּוֹת רַגְלֵיכֶם בַּיּוֹם אֲשֶׁר אֲנִי עֹשֶׂה אָמַר יְהוָה צְבָאוֹת׃",
+       "translation": "Îi veți călca în picioare pe cei răi, căci ei vor fi precum pulberea sub tălpile picioarelor voastre, în ziua pe care o pregătesc – a spus DOMNUL Oștirilor. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ καταπατήσετε ἀνόμους, διότι ἔσονται σποδὸς ὑποκάτω τῶν ποδῶν ὑμῶν ἐν τῇ ἡμέρᾳ, ᾗ ἐγὼ ποιῶ, λέγει Κύριος παντοκράτωρ.",
+       "greek": true,
+       "translation": "Și veți călca în picioare pe cei nelegiuiți, căci vor fi cenușă sub picioarele voastre, în ziua în care Eu fac [aceasta], spune Domnul Atotțiitorul.",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Mica 7:10",
+      "Zaharia 10:5"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:22",
      "t": "Amintiți-vă de învățătura slujitorului Meu Moise, pe care i-am poruncit-o la Horeb pentru tot Israelul, decrete și judecăți.",
      "heb": "זִכְרוּ תּוֹרַת מֹשֶׁה עַבְדִּי אֲשֶׁר צִוִּיתִי אוֹתוֹ בְחֹרֵב עַל־כָּל־יִשְׂרָאֵל חֻקִּים וּמִשְׁפָּטִים׃",
-     "translit": "Zihru torat Moșe avdi așer țiviti oto be'Horev al-kol-Israel hukim umișpatim."
+     "translit": "Zihru torat Moșe avdi așer țiviti oto be'Horev al-kol-Israel hukim umișpatim.",
+     "tokens": [
+      {
+       "t": "Amintiți-vă de învățătura slujitorului Meu Moise, pe care i-am poruncit-o la "
+      },
+      {
+       "t": "Horeb",
+       "w": "Horeb",
+       "heb": "בְחֹרֵב",
+       "translit": "vehorēv",
+       "strong": "H2722",
+       "pos": "nume propriu",
+       "def_ro": "Horeb — numele generic al munților Sinai (vehorev).",
+       "dict_ro": "„Amintiți-vă de învățătura slujitorului Meu Moise” e, în ordinea ebraică a capitolului, ultimul îndemn înaintea promisiunii lui Ilie — poziționare liturgică importantă: tradiția a așezat promisiunea despre Ilie imediat după acest verset, astfel ca lectura publică a cărții (și a întregii profeții) să nu se termine cu amenințarea „blestem” din versetul următor, ci cu repetarea versetului despre Ilie (v.23b)."
+      },
+      {
+       "t": " pentru tot Israelul, decrete și judecăți."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "זִכְרוּ תּוֹרַת מֹשֶׁה עַבְדִּי אֲשֶׁר צִוִּיתִי אוֹתוֹ בְחֹרֵב עַל־כָּל־יִשְׂרָאֵל חֻקִּים וּמִשְׁפָּטִים׃",
+       "translation": "Amintiți-vă de învățătura slujitorului Meu Moise, pe care i-am poruncit-o la Horeb pentru tot Israelul, decrete și judecăți. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "μνήσθητι νόμου Μωσῆ τοῦ δούλου μου, καθότι ἐνετειλάμην αὐτῷ ἐν Χωρὴβ πρὸς πάντα τὸν ᾿Ισραὴλ προστάγματα καὶ δικαιώματα.",
+       "greek": true,
+       "translation": "Aduceți-vă aminte de legea lui Moise, sluga Mea, cum i-am poruncit lui la Horeb, pentru tot Israelul, poruncile și hotărârile.",
+       "note": "Diferență majoră de ordine: în Septuaginta, acest verset (despre Moise) e ULTIMUL al cărții, nu penultimul ca în Textul Masoretic — vezi nota de la cuvântul tagat „Horeb”."
+      }
+     ],
+     "refs": [
+      "Exodul 20:3-21",
+      "Psalmul 147:19,20"
+     ],
+     "commentaries": [
+      {
+       "author": "Tradiția liturgică",
+       "text": "Poziția acestui verset (amintirea lui Moise) imediat înaintea promisiunii despre Ilie, și repetarea lui 3:23 la finalul lecturii publice (v.23b), urmează obiceiul deja menționat la Isaia 66: cartea nu se termină cu cuvântul de blestem al versetului următor, ci cu o notă de speranță."
+      }
+     ]
     },
     {
      "v": "3:23",
      "t": "Iată, Eu vă trimit pe profetul Eliahu, înainte de a veni ziua DOMNULUI, cea mare și înfricoșătoare.",
      "heb": "הִנֵּה אָנֹכִי שֹׁלֵחַ לָכֶם אֵת אֵלִיָּה הַנָּבִיא לִפְנֵי בּוֹא יוֹם יְהוָה הַגָּדוֹל וְהַנּוֹרָא׃",
-     "translit": "Hine anohi șoleah lahem et Elia hanavi lifnei bo iom ADONAI hagadol vehanora."
+     "translit": "Hine anohi șoleah lahem et Elia hanavi lifnei bo iom ADONAI hagadol vehanora.",
+     "tokens": [
+      {
+       "t": "Iată, Eu vă trimit pe profetul Eliahu, înainte de a veni ziua DOMNULUI, cea mare și înfricoșătoare."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הִנֵּה אָנֹכִי שֹׁלֵחַ לָכֶם אֵת אֵלִיָּה הַנָּבִיא לִפְנֵי בּוֹא יוֹם יְהוָה הַגָּדוֹל וְהַנּוֹרָא׃",
+       "translation": "Iată, Eu vă trimit pe profetul Eliahu, înainte de a veni ziua DOMNULUI, cea mare și înfricoșătoare. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἰδοὺ ἐγὼ ἀποστελῶ ὑμῖν ᾿Ηλίαν τὸν Θεσβίτην, πρὶν ἢ ἐλθεῖν τὴν ἡμέραν Κυρίου τὴν μεγάλην καὶ ἐπιφανῆ,",
+       "greek": true,
+       "translation": "Și, iată, Eu vă trimit vouă pe Ilie Tesviteanul, înainte de a veni ziua Domnului cea mare și strălucită,",
+       "note": "Corespondență strânsă cu Textul Masoretic, dar poziționat înainte de versetul despre Moise (vezi nota de ordine la v.22)."
+      }
+     ],
+     "refs": [
+      "Maleahi 3:1",
+      "Isaia 40:3"
+     ],
+     "commentaries": []
     },
     {
      "v": "3:24",
      "t": "Și el va întoarce inimile părinților către copii și inimile copiilor către părinții lor, ca nu cumva să vin și să lovesc țara [spre] condamnare.",
      "heb": "וְהֵשִׁיב לֵב־אָבוֹת עַל־בָּנִים וְלֵב בָּנִים עַל־אֲבוֹתָם פֶּן־אָבוֹא וְהִכֵּיתִי אֶת־הָאָרֶץ חֵרֶם׃",
-     "translit": "Veheșiv lev-avot al-banim velev banim al-avotam pen-avo vehikeiti et-haareț herem."
+     "translit": "Veheșiv lev-avot al-banim velev banim al-avotam pen-avo vehikeiti et-haareț herem.",
+     "tokens": [
+      {
+       "t": "Și el "
+      },
+      {
+       "t": "va întoarce inimile",
+       "w": "va întoarce inimile",
+       "heb": "וְהֵשִׁיב לֵב",
+       "translit": "vehēșiv lēv",
+       "strong": "H3820",
+       "pos": "verb, hifil perfect consecutiv + substantiv, masculin singular construct",
+       "def_ro": "va întoarce inima [părinților] (vehēșiv lēv).",
+       "dict_ro": "Rashi citează aici o a doua tradiție, în numele lui Rabi Menahem: „inimile copiilor către părinții lor” s-ar putea citi și ca „inima [bătrânilor] îndreptată spre copii, prin mijlocirea copiilor” — adică o reconciliere intergenerațională reciprocă. Alți înțelepți (Tratatul Eduyot) explică simplu scopul final: „ca să pună pace în lume” — motivul pentru care acest verset, despre Ilie, e socotit mesajul final autentic al întregii cărți, chiar și al întregii colecții a celor Doisprezece Profeți."
+      },
+      {
+       "t": " părinților către copii și inimile copiilor către părinții lor, ca nu cumva să vin și să lovesc țara [spre] condamnare."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "וְהֵשִׁיב לֵב־אָבוֹת עַל־בָּנִים וְלֵב בָּנִים עַל־אֲבוֹתָם פֶּן־אָבוֹא וְהִכֵּיתִי אֶת־הָאָרֶץ חֵרֶם׃",
+       "translation": "Și el va întoarce inimile părinților către copii și inimile copiilor către părinții lor, ca nu cumva să vin și să lovesc țara [spre] condamnare. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "ὃς ἀποκαταστήσει καρδίαν πατρὸς πρὸς υἱὸν καὶ καρδίαν ἀνθρώπου πρὸς τὸν πλησίον αὐτοῦ, μὴ ἐλθὼν πατάξω τὴν γῆν ἄρδην.",
+       "greek": true,
+       "translation": "care va întoarce inima tatălui spre fiu și inima omului spre vecinul lui, ca nu venind să lovesc pământul de tot.",
+       "note": "Corespondență apropiată cu Textul Masoretic, dar poziționat înainte de versetul despre Moise — vezi nota de ordine la v.22: Septuaginta pune Ilie + întoarcerea inimilor înaintea versetului despre Moise, inversând ordinea finală a cărții față de Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Luca 1:16,17"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și va întoarce inima părinților” — [Sfântul, binecuvântat fie El, va face asta] prin [mijlocirea] copiilor — le va spune copiilor, cu dragoste și bunăvoință: «mergeți și vorbiți părinților voștri, ca să se țină de căile Celui de pretutindeni» — și tot astfel «și inima copiilor spre părinții lor». Așa am auzit în numele lui Rabi Menahem. Iar înțelepții noștri au interpretat, în Tratatul Eduyot: [scopul e] «să pună pace în lume»."
+      }
+     ]
     },
     {
      "v": "3:23b",
      "t": "Iată, Eu vă trimit pe profetul Eliahu, înainte de a veni ziua DOMNULUI, cea mare și înfricoșătoare.",
      "heb": "הִנֵּה אָנֹכִי שֹׁלֵחַ לָכֶם אֵת אֵלִיָּה הַנָּבִיא לִפְנֵי בּוֹא יוֹם יְהוָה הַגָּדוֹל וְהַנּוֹרָא׃",
-     "translit": "Hine anohi șoleah lahem et Elia hanavi lifnei bo iom ADONAI hagadol vehanora."
+     "translit": "Hine anohi șoleah lahem et Elia hanavi lifnei bo iom ADONAI hagadol vehanora.",
+     "tokens": [
+      {
+       "t": "Iată, Eu vă trimit pe profetul Eliahu, înainte de a veni ziua DOMNULUI, cea mare și înfricoșătoare."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הִנֵּה אָנֹכִי שֹׁלֵחַ לָכֶם אֵת אֵלִיָּה הַנָּבִיא לִפְנֵי בּוֹא יוֹם יְהוָה הַגָּדוֹל וְהַנּוֹרָא׃",
+       "translation": "Iată, Eu vă trimit pe profetul Eliahu, înainte de a veni ziua DOMNULUI, cea mare și înfricoșătoare. — traducerea rabinului Rosen.",
+       "note": ""
+      },
+      {
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἰδοὺ ἐγὼ ἀποστελῶ ὑμῖν ᾿Ηλίαν τὸν Θεσβίτην, πρὶν ἢ ἐλθεῖν τὴν ἡμέραν Κυρίου τὴν μεγάλην καὶ ἐπιφανῆ,",
+       "greek": true,
+       "translation": "Și, iată, Eu vă trimit vouă pe Ilie Tesviteanul, înainte de a veni ziua Domnului cea mare și strălucită,",
+       "note": "Corespondență strânsă cu Textul Masoretic."
+      }
+     ],
+     "refs": [
+      "Maleahi 3:1",
+      "Isaia 40:3"
+     ],
+     "commentaries": []
     }
    ]
   },
