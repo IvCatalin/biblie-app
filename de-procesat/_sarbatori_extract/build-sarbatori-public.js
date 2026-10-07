@@ -3,7 +3,7 @@ const SRC = 'de-procesat/_haftarot-extract/haftarot-sarbatori.json';
 const OUT = 'public/haftarot-sarbatori.js';
 const d = JSON.parse(fs.readFileSync(SRC, 'utf8'));
 const chapters = d.chapters.map(c => ({
-  num: c.num, title: c.title, ref: c.ref, intro: '',
+  num: c.num, title: c.title, ref: c.ref, intro: c.intro || '',
   verses: c.verses.map(v => {
     const toks = v.tokens && v.tokens.length ? v.tokens : [{ t: v.t }];
     if (toks.map(t => t.t).join('') !== v.t) throw new Error('tokenii nu refac textul la ' + c.title + ' ' + v.v);
