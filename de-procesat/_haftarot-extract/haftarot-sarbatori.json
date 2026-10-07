@@ -58968,20 +58968,56 @@
      "translit": "Vaihi aharei mot Moșe eved ADONAI vaiomer ADONAI el-Iehoșua bin-Nun meșaret Moșe lemor.",
      "tokens": [
       {
-       "t": "Și a fost, după moartea lui Moise, "
+       "t": "Și a fost, după moartea lui Moise, slujitorul DOMNULUI",
+       "w": "Și a fost, după moartea lui Moise, slujitorul DOMNULUI",
+       "heb": "וַיְהִי אַחֲרֵי מוֹת מֹשֶׁה עֶבֶד יְהוָה",
+       "translit": "vaihi aharē mot moșe eved Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv, masculin singular construct + nume propriu + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "Și a fost, după moartea lui Moise, slujitorul DOMNULUI (vaihi aharē mot moșe eved Adonai)",
+       "dict_ro": "Rashi explică faptul că acest verset se continuă direct din finalul Torei, care se încheie cu moartea lui Moise."
       },
       {
-       "t": "slujitorul DOMNULUI",
-       "w": "slujitorul DOMNULUI",
-       "heb": "עֶבֶד",
-       "translit": "eved",
-       "strong": "H5650",
-       "pos": "substantiv, masculin singular construct",
-       "def_ro": "slujitorul DOMNULUI (eved Adonai).",
-       "dict_ro": "Rashi observă că acest prim verset al cărții Iosua se leagă direct de ultimele cuvinte ale Torei, care se încheie chiar cu moartea lui Moise — povestirea continuă fără pauză, ca și cum cartea Iosua ar fi, literalmente, următorul capitol al aceleiași istorii neîntrerupte, nu un început nou și separat."
+       "t": ", "
       },
       {
-       "t": ", că DOMNUL i-a spus lui Ioșua, fiul lui Nun, care îl slujise pe Moise, astfel:"
+       "t": "că DOMNUL i-a spus lui Ioșua, fiul lui Nun",
+       "w": "că DOMNUL i-a spus lui Ioșua, fiul lui Nun",
+       "heb": "וַיֹּאמֶר יְהוָה אֶל יְהוֹשֻׁעַ בִּן נוּן",
+       "translit": "vaiomer Adonai el iehoșua bin nun",
+       "strong": "H5126",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "că DOMNUL i-a spus lui Ioșua, fiul lui Nun (vaiomer Adonai el iehoșua bin nun)",
+       "dict_ro": "Radak explică faptul că titlul «slujitorul DOMNULUI» desemnează pe cel care își pune toată puterea și intenția în slujba divină, la fel ca Avraam sau David."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "care îl slujise pe Moise",
+       "w": "care îl slujise pe Moise",
+       "heb": "מְשָׁרֵת מֹשֶׁה",
+       "translit": "meșarēt moșe",
+       "strong": "H4872",
+       "pos": "verb, piel participiu + nume propriu",
+       "def_ro": "care îl slujise pe Moise (meșarēt moșe)",
+       "dict_ro": "Radak explică faptul că Ioșua ținea locul lui Moise, intrând și ieșind înaintea poporului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "astfel",
+       "w": "astfel",
+       "heb": "לֵאמֹר",
+       "translit": "lēmor",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "astfel (lēmor)",
+       "dict_ro": "Formula pregătește conținutul exact al poruncii divine care urmează."
+      },
+      {
+       "t": ":"
       }
      ],
      "textCompare": [
@@ -59023,20 +59059,85 @@
      "translit": "Moșe avdi met veata kum avor et-ha'Iarden haze ata vehol-haam haze el-haareț așer anohi noten lahem livnei Israel.",
      "tokens": [
       {
-       "t": "„Moise, slujitorul Meu, "
+       "t": "„"
       },
       {
-       "t": "a murit",
-       "w": "a murit",
-       "heb": "מֵת",
-       "translit": "mēt",
+       "t": "Moise, slujitorul Meu, a murit",
+       "w": "Moise, slujitorul Meu, a murit",
+       "heb": "מֹשֶׁה עַבְדִּי מֵת",
+       "translit": "moșe avdi mēt",
        "strong": "H4191",
-       "pos": "verb, qal perfect",
-       "def_ro": "a murit (met).",
-       "dict_ro": "Rashi relatează o tradiție dramatică (Temura 16a): dacă Moise ar mai fi fost în viață, Iosua n-ar fi fost dorit în locul lui; trei mii de legi s-au pierdut în zilele de doliu pentru Moise, și când Iosua a venit să întrebe despre ele, Cel Sfânt i-a răspuns: «Moise, robul Meu, a murit, iar Tora e numită după numele lui — nu-i cu putință [să ți le redau]; du-te și luptă-te cu ele în război» — adică, îndreaptă-ți atenția spre cucerire, nu spre recuperarea legilor pierdute."
+       "pos": "nume propriu + substantiv, masculin singular construct + sufix + verb, qal perfect",
+       "def_ro": "Moise, slujitorul Meu, a murit (moșe avdi mēt)",
+       "dict_ro": "Rashi explică faptul că DOMNUL spune aceste cuvinte ca să-i confirme lui Ioșua: dacă Moise ar fi fost încă în viață, el ar fi fost preferat, dar acum sarcina revine lui Ioșua."
       },
       {
-       "t": ". Și acum, scoală-te! Treci de cealaltă parte a acestui Iordan, tu și tot poporul acesta, către țara pe care Eu le-o dau lor, copiilor lui Israel."
+       "t": ". "
+      },
+      {
+       "t": "Și acum, scoală-te",
+       "w": "Și acum, scoală-te",
+       "heb": "וְעַתָּה קוּם",
+       "translit": "veata kum",
+       "strong": "H6965",
+       "pos": "adverb + verb, qal imperativ",
+       "def_ro": "Și acum, scoală-te (veata kum)",
+       "dict_ro": "Îndemnul la acțiune imediată marchează trecerea efectivă a conducerii poporului."
+      },
+      {
+       "t": "! "
+      },
+      {
+       "t": "Treci de cealaltă parte a acestui Iordan",
+       "w": "Treci de cealaltă parte a acestui Iordan",
+       "heb": "עֲבֹר אֶת הַיַּרְדֵּן הַזֶּה",
+       "translit": "avor et haiardēn haze",
+       "strong": "H2088",
+       "pos": "verb, qal imperativ + marcă a complementului direct + nume propriu + pronume demonstrativ",
+       "def_ro": "Treci de cealaltă parte a acestui Iordan (avor et haiardēn haze)",
+       "dict_ro": "Trecerea Iordanului rămâne porunca centrală, practică, a întregii profeții."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "tu și tot poporul acesta",
+       "w": "tu și tot poporul acesta",
+       "heb": "אַתָּה וְכָל הָעָם הַזֶּה",
+       "translit": "ata vehal haam haze",
+       "strong": "H2088",
+       "pos": "pronume personal + substantiv, masculin singular construct + substantiv, masculin singular + pronume demonstrativ",
+       "def_ro": "tu și tot poporul acesta (ata vehal haam haze)",
+       "dict_ro": "Includerea întregului popor confirmă caracterul colectiv al moștenirii promise."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "către țara pe care Eu le-o dau lor",
+       "w": "către țara pe care Eu le-o dau lor",
+       "heb": "אֶל הָאָרֶץ אֲשֶׁר אָנֹכִי נֹתֵן לָהֶם",
+       "translit": "el haareț așer anohi notēn lahem",
+       "strong": "",
+       "pos": "prepoziție + substantiv, masculin și feminin singular + particulă relativă + pronume personal + verb, qal participiu + prepoziție + sufix",
+       "def_ro": "către țara pe care Eu le-o dau lor (el haareț așer anohi notēn lahem)",
+       "dict_ro": "Promisiunea țării leagă direct porunca prezentă de legământul originar făcut cu patriarhii."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "copiilor lui Israel",
+       "w": "copiilor lui Israel",
+       "heb": "לִבְנֵי יִשְׂרָאֵל",
+       "translit": "livnē israēl",
+       "strong": "H3478",
+       "pos": "substantiv, masculin plural construct + nume propriu",
+       "def_ro": "copiilor lui Israel (livnē israēl)",
+       "dict_ro": "Copiii lui Israel rămân, în mod explicit, destinatarii finali ai promisiunii divine."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59073,20 +59174,43 @@
      "translit": "Kol-makom așer tidroh kaf-raglehem bo lahem netativ kaașer dibarti el-Moșe.",
      "tokens": [
       {
-       "t": "Orice loc pe care îl va străbate "
+       "t": "Orice loc pe care îl va străbate talpa piciorului vostru",
+       "w": "Orice loc pe care îl va străbate talpa piciorului vostru",
+       "heb": "כָּל מָקוֹם אֲשֶׁר תִּדְרֹךְ כַּף רַגְלְכֶם בּוֹ",
+       "translit": "kal makom așer tidroh kaf raglehem bo",
+       "strong": "",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + particulă relativă + verb, qal imperfect + substantiv, feminin singular construct + substantiv, feminin singular construct + sufix + prepoziție + sufix",
+       "def_ro": "Orice loc pe care îl va străbate talpa piciorului vostru (kal makom așer tidroh kaf raglehem bo)",
+       "dict_ro": "Rashi, citând Sifrei, explică faptul că aceeași promisiune fusese deja dată lui Moise, incluzând inclusiv teritorii dincolo de granițele consacrate ale Țării Israelului, odată cucerite."
       },
       {
-       "t": "talpa piciorului vostru",
-       "w": "talpa piciorului vostru",
-       "heb": "כַּף רַגְלְכֶם",
-       "translit": "kaf raglehem",
-       "strong": "H7272",
-       "pos": "substantiv, feminin singular construct + substantiv, feminin singular construct + sufix",
-       "def_ro": "talpa piciorului vostru (kaf raglehem).",
-       "dict_ro": "Rashi citează Sifrei: dacă versetul ar vrea doar să stabilească hotarele Țării Promise, acestea sunt deja date mai departe («de la pustiu și acest Liban...»); de ce atunci «orice loc pe care-l va călca talpa piciorului vostru»? Pentru a învăța că și dincolo de hotarele obișnuite ale Țării, orice teritoriu cucerit de israeliți în extinderea lor devine sfințit și le aparține la fel de deplin."
+       "t": " "
       },
       {
-       "t": " vă este dat, după cum i-am vorbit lui Moise."
+       "t": "vă este dat",
+       "w": "vă este dat",
+       "heb": "לָכֶם נְתַתִּיו",
+       "translit": "lahem netativ",
+       "strong": "H5414",
+       "pos": "prepoziție + sufix + verb, qal perfect + sufix",
+       "def_ro": "vă este dat (lahem netativ)",
+       "dict_ro": "Darul teritoriului este condiționat de pasul fizic al cuceririi, nu de o simplă proclamație."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "după cum i-am vorbit lui Moise",
+       "w": "după cum i-am vorbit lui Moise",
+       "heb": "כַּאֲשֶׁר דִּבַּרְתִּי אֶל מֹשֶׁה",
+       "translit": "kaașer dibarti el moșe",
+       "strong": "H4872",
+       "pos": "particulă relativă + verb, piel perfect + prepoziție + nume propriu",
+       "def_ro": "după cum i-am vorbit lui Moise (kaașer dibarti el moșe)",
+       "dict_ro": "Legătura explicită cu promisiunea făcută lui Moise confirmă continuitatea exactă a planului divin."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59123,7 +59247,69 @@
      "translit": "Mehamidbar veha'Levanon haze vead-hanahar hagadol nehar-Perat kol ereț hahitim vead-haiam hagadol mevo hașameș ihie ghevulhem.",
      "tokens": [
       {
-       "t": "De la deșert și acest Liban până la fluviul cel mare, Fluviul Eufrat, toată țara hitiților până la Marea cea Mare către soare-apune, vă vor fi hotar."
+       "t": "De la deșert și acest Liban",
+       "w": "De la deșert și acest Liban",
+       "heb": "מֵהַמִּדְבָּר וְהַלְּבָנוֹן הַזֶּה",
+       "translit": "mēhamidbar vehalvanon haze",
+       "strong": "H2088",
+       "pos": "substantiv, masculin singular + nume propriu + pronume demonstrativ",
+       "def_ro": "De la deșert și acest Liban (mēhamidbar vehalvanon haze)",
+       "dict_ro": "Rashi identifică acest deșert cu pustia Țin, aflat alături de Edom, la colțul sud-estic al țării, pe unde poporul a intrat prima dată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "până la fluviul cel mare, Fluviul Eufrat",
+       "w": "până la fluviul cel mare, Fluviul Eufrat",
+       "heb": "וְעַד הַנָּהָר הַגָּדוֹל נְהַר פְּרָת",
+       "translit": "vead hanahar hagadol nehar perat",
+       "strong": "H6578",
+       "pos": "prepoziție + substantiv, masculin singular + adjectiv, masculin singular + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "până la fluviul cel mare, Fluviul Eufrat (vead hanahar hagadol nehar perat)",
+       "dict_ro": "Fluviul Eufrat marchează limita de nord-est a teritoriului promis, lățimea țării de la sud la nord."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "toată țara hitiților",
+       "w": "toată țara hitiților",
+       "heb": "כֹּל אֶרֶץ הַחִתִּים",
+       "translit": "kol ereț hahitim",
+       "strong": "H2850",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular construct + nume de neam",
+       "def_ro": "toată țara hitiților (kol ereț hahitim)",
+       "dict_ro": "Rashi explică faptul că teritoriul hitiților este inclus explicit în această promisiune de hotar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "până la Marea cea Mare către soare-apune",
+       "w": "până la Marea cea Mare către soare-apune",
+       "heb": "וְעַד הַיָּם הַגָּדוֹל מְבוֹא הַשָּׁמֶשׁ",
+       "translit": "vead haiam hagadol mevo hașameș",
+       "strong": "H8121",
+       "pos": "prepoziție + substantiv, masculin singular + adjectiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "până la Marea cea Mare către soare-apune (vead haiam hagadol mevo hașameș)",
+       "dict_ro": "Marea cea Mare, identificată de Radak cu Marea Mediterană, marchează limita de vest a teritoriului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "vă vor fi hotar",
+       "w": "vă vor fi hotar",
+       "heb": "יִהְיֶה גְּבוּלְכֶם",
+       "translit": "ihie gevulhem",
+       "strong": "H1366",
+       "pos": "verb, qal imperfect + substantiv, masculin singular construct + sufix",
+       "def_ro": "vă vor fi hotar (ihie gevulhem)",
+       "dict_ro": "Enumerarea precisă a celor patru puncte cardinale confirmă amploarea exactă a promisiunii teritoriale."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59156,17 +59342,53 @@
      "translit": "Lo-itiațev iș lefaneha kol iemei haieha kaașer haiti im-Moșe ehie imah lo arpeha velo eezveka.",
      "tokens": [
       {
-       "t": "Nimeni nu îți va sta înainte în toate zilele vieții tale. Precum am fost cu Moise așa voi fi și cu tine, "
+       "t": "Nimeni nu îți va sta înainte",
+       "w": "Nimeni nu îți va sta înainte",
+       "heb": "לֹא יִתְיַצֵּב אִישׁ לְפָנֶיךָ",
+       "translit": "lo itiațēv iș lefaneha",
+       "strong": "H6440",
+       "pos": "particulă negativă + verb, hitpael imperfect + substantiv, masculin singular + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "Nimeni nu îți va sta înainte (lo itiațēv iș lefaneha)",
+       "dict_ro": "Promisiunea invincibilității rămâne garanția centrală a succesului militar al lui Ioșua."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în toate zilele vieții tale",
+       "w": "în toate zilele vieții tale",
+       "heb": "כֹּל יְמֵי חַיֶּיךָ",
+       "translit": "kol iemē haieha",
+       "strong": "H2416",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + substantiv, masculin plural construct + sufix",
+       "def_ro": "în toate zilele vieții tale (kol iemē haieha)",
+       "dict_ro": "Durata «toate zilele vieții tale» extinde protecția divină asupra întregii conduceri a lui Ioșua."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Precum am fost cu Moise așa voi fi și cu tine",
+       "w": "Precum am fost cu Moise așa voi fi și cu tine",
+       "heb": "כַּאֲשֶׁר הָיִיתִי עִם מֹשֶׁה אֶהְיֶה עִמָּךְ",
+       "translit": "kaașer haiti im moșe ehie imah",
+       "strong": "H5973",
+       "pos": "particulă relativă + verb, qal perfect + prepoziție + nume propriu + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "Precum am fost cu Moise așa voi fi și cu tine (kaașer haiti im moșe ehie imah)",
+       "dict_ro": "Comparația directă cu Moise confirmă continuitatea exactă a favorii divine între cei doi conducători."
+      },
+      {
+       "t": ", "
       },
       {
        "t": "nu te voi lăsa și nici nu te voi părăsi",
        "w": "nu te voi lăsa și nici nu te voi părăsi",
-       "heb": "אַרְפְּךָ אֶעֶזְבֶךָּ",
-       "translit": "arpeha eezveka",
+       "heb": "לֹא אַרְפְּךָ וְלֹא אֶעֶזְבֶךָּ",
+       "translit": "lo arpeha velo eezveka",
        "strong": "H5800",
-       "pos": "verb, hifil imperfect + sufix + verb, qal imperfect + sufix",
-       "def_ro": "nu te voi lăsa [să slăbești] și nici nu te voi părăsi (lo arpeha velo eezveha).",
-       "dict_ro": "Metzudat David distinge cele două verbe, altfel sinonime la prima vedere: «arpeha» înseamnă «nu-ți voi da slăbiciune/moleșeală de la Mine» — o asigurare a puterii interioare continue —, pe când «eezveha» înseamnă «nu te voi abandona» — o asigurare a prezenței exterioare neîntrerupte; împreună, cele două promisiuni acoperă deopotrivă curajul lăuntric al lui Iosua și sprijinul divin din afară."
+       "pos": "particulă negativă + verb, hifil imperfect + sufix + particulă negativă + verb, qal imperfect + sufix",
+       "def_ro": "nu te voi lăsa și nici nu te voi părăsi (lo arpeha velo eezveka)",
+       "dict_ro": "Repetarea dublă a asigurării prezenței divine întărește certitudinea deplină a promisiunii."
       },
       {
        "t": "."
@@ -59202,7 +59424,56 @@
      "translit": "Hazak veematz ki ata tanhil et-haam haze et-haareț așer-nișbati laavotam latet lahem.",
      "tokens": [
       {
-       "t": "Fii tare și curajos, căci tu vei face ca acest popor să moștenească țara pe care am jurat-o strămoșilor lor să le-o dau lor."
+       "t": "Fii tare și curajos",
+       "w": "Fii tare și curajos",
+       "heb": "חֲזַק וֶאֱמָץ",
+       "translit": "hazak veemaț",
+       "strong": "H553",
+       "pos": "verb, qal imperativ + verb, qal imperativ",
+       "def_ro": "Fii tare și curajos (hazak veemaț)",
+       "dict_ro": "Rashi explică faptul că această încurajare se referă la curajul practic al conducerii, așa cum arată imediat partea despre moștenirea țării."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "căci tu vei face ca acest popor să moștenească țara",
+       "w": "căci tu vei face ca acest popor să moștenească țara",
+       "heb": "כִּי אַתָּה תַּנְחִיל אֶת הָעָם הַזֶּה אֶת הָאָרֶץ",
+       "translit": "ki ata tanhil et haam haze et haareț",
+       "strong": "H776",
+       "pos": "conjuncție + pronume personal + verb, hifil imperfect + marcă a complementului direct + substantiv, masculin singular + pronume demonstrativ + marcă a complementului direct + substantiv, masculin și feminin singular",
+       "def_ro": "căci tu vei face ca acest popor să moștenească țara (ki ata tanhil et haam haze et haareț)",
+       "dict_ro": "Rolul lui Ioșua rămâne acela de instrument prin care se împlinește moștenirea promisă poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care am jurat-o strămoșilor lor",
+       "w": "pe care am jurat-o strămoșilor lor",
+       "heb": "אֲשֶׁר נִשְׁבַּעְתִּי לַאֲבוֹתָם",
+       "translit": "așer nișbati laavotam",
+       "strong": "H1",
+       "pos": "particulă relativă + verb, nifal perfect + substantiv, masculin plural construct + sufix",
+       "def_ro": "pe care am jurat-o strămoșilor lor (așer nișbati laavotam)",
+       "dict_ro": "Jurământul făcut strămoșilor leagă promisiunea actuală de legământul patriarhal originar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să le-o dau lor",
+       "w": "să le-o dau lor",
+       "heb": "לָתֵת לָהֶם",
+       "translit": "latēt lahem",
+       "strong": "",
+       "pos": "verb, qal infinitiv + prepoziție + sufix",
+       "def_ro": "să le-o dau lor (latēt lahem)",
+       "dict_ro": "Darul final al țării încheie ciclul lung al promisiunii divine, de la patriarhi până la generația cuceririi."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59235,20 +59506,69 @@
      "translit": "Rak hazak veematz meod lișmor laasot kehol-hatora așer tzivha Moșe avdi al-tasur mimenu iamin usmol lemaan taskil behol așer teleh.",
      "tokens": [
       {
-       "t": "Doar fii tare și foarte curajos, ca să ai grijă să înfăptuiești după toată "
+       "t": "Doar fii tare și foarte curajos",
+       "w": "Doar fii tare și foarte curajos",
+       "heb": "רַק חֲזַק וֶאֱמַץ מְאֹד",
+       "translit": "rak hazak veemaț meod",
+       "strong": "H3966",
+       "pos": "particulă afirmativă + verb, qal imperativ + verb, qal imperativ + adverb",
+       "def_ro": "Doar fii tare și foarte curajos (rak hazak veemaț meod)",
+       "dict_ro": "Rashi explică faptul că această a doua cerere de curaj se referă explicit la Tora, așa cum reiese din continuarea versetului despre păzire și înfăptuire."
       },
       {
-       "t": "Învățătura",
-       "w": "Învățătura",
-       "heb": "הַתּוֹרָה",
-       "translit": "hatora",
+       "t": ", "
+      },
+      {
+       "t": "ca să ai grijă să înfăptuiești după toată Învățătura",
+       "w": "ca să ai grijă să înfăptuiești după toată Învățătura",
+       "heb": "לִשְׁמֹר לַעֲשׂוֹת כְּכָל הַתּוֹרָה",
+       "translit": "lișmor laasot kehal hatora",
        "strong": "H8451",
-       "pos": "substantiv, feminin singular",
-       "def_ro": "Învățătura (hatora).",
-       "dict_ro": "Rashi observă o distincție fină între cele două porunci paralele ale capitolului: «fii tare și curajos» de la versetul 6 se referă la curajul practic, necesar cuceririi și împărțirii țării, pe când «fii tare și foarte curajos» de aici se referă la un curaj cu totul diferit — tăria interioară necesară păzirii și înfăptuirii întregii Tore, fără abatere."
+       "pos": "verb, qal infinitiv + verb, qal infinitiv + substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "ca să ai grijă să înfăptuiești după toată Învățătura (lișmor laasot kehal hatora)",
+       "dict_ro": "Rashi, citând dicționarul lui Menahem, explică «taskil» prin «vei izbândi», sinonim exact folosit în continuare."
       },
       {
-       "t": " pe care slujitorul Meu, Moise, ți-a poruncit-o. Nu te abate de la ea la dreapta sau la stânga, ca să izbândești oriunde vei merge."
+       "t": " "
+      },
+      {
+       "t": "pe care slujitorul Meu, Moise, ți-a poruncit-o",
+       "w": "pe care slujitorul Meu, Moise, ți-a poruncit-o",
+       "heb": "אֲשֶׁר צִוְּךָ מֹשֶׁה עַבְדִּי",
+       "translit": "așer țiuha moșe avdi",
+       "strong": "H5650",
+       "pos": "particulă relativă + verb, piel perfect + sufix + nume propriu + substantiv, masculin singular construct + sufix",
+       "def_ro": "pe care slujitorul Meu, Moise, ți-a poruncit-o (așer țiuha moșe avdi)",
+       "dict_ro": "Moise, numit din nou «slujitorul Meu», rămâne sursa autoritară a Învățăturii."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Nu te abate de la ea la dreapta sau la stânga",
+       "w": "Nu te abate de la ea la dreapta sau la stânga",
+       "heb": "אַל תָּסוּר מִמֶּנּוּ יָמִין וּשְׂמֹאול",
+       "translit": "al tasur mimenu iamin usmovl",
+       "strong": "H8040",
+       "pos": "particulă negativă + verb, qal jusiv + prepoziție + sufix + substantiv, feminin singular + substantiv, masculin singular",
+       "def_ro": "Nu te abate de la ea la dreapta sau la stânga (al tasur mimenu iamin usmovl)",
+       "dict_ro": "Interdicția abaterii «la dreapta sau la stânga» cere o fidelitate absolută, fără nicio deviere."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ca să izbândești oriunde vei merge",
+       "w": "ca să izbândești oriunde vei merge",
+       "heb": "לְמַעַן תַּשְׂכִּיל בְּכֹל אֲשֶׁר תֵּלֵךְ",
+       "translit": "lemaan taskil behol așer tēlēh",
+       "strong": "H3212",
+       "pos": "prepoziție + verb, hifil imperfect + substantiv, masculin singular + particulă relativă + verb, qal imperfect",
+       "def_ro": "ca să izbândești oriunde vei merge (lemaan taskil behol așer tēlēh)",
+       "dict_ro": "Izbânda promisă este condiționată explicit de fidelitatea față de Învățătura primită."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59286,17 +59606,69 @@
      "translit": "Lo-iamuș sefer hatora haze mipiha vehagita bo iomam valaila lemaan tișmor laasot kehol-hakatuv bo ki-az tatzliah et-deraheha veaz taskil.",
      "tokens": [
       {
-       "t": "Cartea aceasta a Învățăturii",
-       "w": "Cartea aceasta a Învățăturii",
-       "heb": "סֵפֶר הַתּוֹרָה הַזֶּה",
-       "translit": "sēfer hatora haze",
-       "strong": "H2088",
-       "pos": "substantiv, masculin singular construct + substantiv, feminin singular + pronume demonstrativ",
-       "def_ro": "cartea aceasta a Învățăturii (sefer hatora haze).",
-       "dict_ro": "Rashi identifică exact ce carte avea Iosua înaintea lui în acel moment: copia «Mișne Tora» (Deuteronomul), scrisă de Moise chiar înainte de moartea lui. Radak relatează o dezbatere între înțelepți asupra sferei acestei porunci: unii o citesc drept o obligație pentru toată viața omului, oricâtă Tora ar cunoaște deja; alții, drept o poruncă specifică pentru Iosua și pentru oricine încă nu stăpânește Tora pe deplin, după care poate trece la studiul altor științe."
+       "t": "Cartea aceasta a Învățăturii să nu se depărteze de gura ta",
+       "w": "Cartea aceasta a Învățăturii să nu se depărteze de gura ta",
+       "heb": "לֹא יָמוּשׁ סֵפֶר הַתּוֹרָה הַזֶּה מִפִּיךָ",
+       "translit": "lo iamuș sēfer hatora haze mipiha",
+       "strong": "H6310",
+       "pos": "particulă negativă + verb, qal imperfect + substantiv, masculin singular construct + substantiv, feminin singular + pronume demonstrativ + substantiv, masculin singular construct + sufix",
+       "def_ro": "Cartea aceasta a Învățăturii să nu se depărteze de gura ta (lo iamuș sēfer hatora haze mipiha)",
+       "dict_ro": "Rashi identifică «cartea aceasta a Învățăturii» cu cartea Deuteronomului, aflată înaintea lui Ioșua."
       },
       {
-       "t": " să nu se depărteze de gura ta. Să te îndeletnicești cu ea zi și noapte, ca să ai grijă să înfăptuiești tot ce este scris în ea. Căci atunci vei izbândi pe calea ta și atunci vei dobândi înțelegere."
+       "t": ". "
+      },
+      {
+       "t": "Să te îndeletnicești cu ea zi și noapte",
+       "w": "Să te îndeletnicești cu ea zi și noapte",
+       "heb": "וְהָגִיתָ בּוֹ יוֹמָם וָלַיְלָה",
+       "translit": "vehagita bo iomam valaila",
+       "strong": "H3915",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + adverb + substantiv, masculin singular",
+       "def_ro": "Să te îndeletnicești cu ea zi și noapte (vehagita bo iomam valaila)",
+       "dict_ro": "Radak explică faptul că obligația de a studia zi și noapte era valabilă pentru fiecare om, atâta vreme cât încă nu cunoștea întreaga Tora pe de-a întregul."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ca să ai grijă să înfăptuiești tot ce este scris în ea",
+       "w": "ca să ai grijă să înfăptuiești tot ce este scris în ea",
+       "heb": "לְמַעַן תִּשְׁמֹר לַעֲשׂוֹת כְּכָל הַכָּתוּב בּוֹ",
+       "translit": "lemaan tișmor laasot kehal hakatuv bo",
+       "strong": "",
+       "pos": "prepoziție + verb, qal imperfect + verb, qal infinitiv + substantiv, masculin singular construct + verb, qal participiu pasiv + prepoziție + sufix",
+       "def_ro": "ca să ai grijă să înfăptuiești tot ce este scris în ea (lemaan tișmor laasot kehal hakatuv bo)",
+       "dict_ro": "Metzudat David explică faptul că scopul studiului continuu este prevenirea uitării poruncilor."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Căci atunci vei izbândi pe calea ta",
+       "w": "Căci atunci vei izbândi pe calea ta",
+       "heb": "כִּי אָז תַּצְלִיחַ אֶת דְּרָכֶךָ",
+       "translit": "ki az tațliah et deraheha",
+       "strong": "H1870",
+       "pos": "conjuncție + adverb + verb, hifil imperfect + marcă a complementului direct + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "Căci atunci vei izbândi pe calea ta (ki az tațliah et deraheha)",
+       "dict_ro": "Rashi explică «taskil» prin «vei izbândi», completând ideea succesului practic legat de studiul Torei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și atunci vei dobândi înțelegere",
+       "w": "și atunci vei dobândi înțelegere",
+       "heb": "וְאָז תַּשְׂכִּיל",
+       "translit": "veaz taskil",
+       "strong": "H7919",
+       "pos": "adverb + verb, hifil imperfect",
+       "def_ro": "și atunci vei dobândi înțelegere (veaz taskil)",
+       "dict_ro": "Dobândirea înțelegerii încheie dubla promisiune a izbânzii — practică și spirituală."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59339,20 +59711,69 @@
      "translit": "Halo tziviticha hazak veematz al-taarotz veal-tehat ki imeha ADONAI Eloheha behol așer teleh.",
      "tokens": [
       {
-       "t": "Nu ți-am poruncit Eu oare: «Fii tare și curajos»? Nu te teme și nu te înspăimânta, căci "
+       "t": "Nu ți-am poruncit Eu oare",
+       "w": "Nu ți-am poruncit Eu oare",
+       "heb": "הֲלוֹא צִוִּיתִיךָ",
+       "translit": "halo țivitiha",
+       "strong": "H6680",
+       "pos": "particulă negativă + verb, piel perfect + sufix",
+       "def_ro": "Nu ți-am poruncit Eu oare (halo țivitiha)",
+       "dict_ro": "Rashi explică faptul că această poruncă fusese deja dată lui Ioșua încă pe vremea lui Moise, prin cuvintele «și a poruncit lui Ioșua, fiul lui Nun»."
       },
       {
-       "t": "DOMNUL, Dumnezeul tău, este cu tine",
-       "w": "DOMNUL, Dumnezeul tău, este cu tine",
-       "heb": "עִמְּךָ יְהוָה אֱלֹהֶיךָ",
-       "translit": "imha Adonai eloheha",
+       "t": ": «"
+      },
+      {
+       "t": "Fii tare și curajos",
+       "w": "Fii tare și curajos",
+       "heb": "חֲזַק וֶאֱמָץ",
+       "translit": "hazak veemaț",
+       "strong": "H553",
+       "pos": "verb, qal imperativ + verb, qal imperativ",
+       "def_ro": "Fii tare și curajos (hazak veemaț)",
+       "dict_ro": "Repetarea de a treia oară a îndemnului la tărie și curaj întărește gravitatea misiunii lui Ioșua."
+      },
+      {
+       "t": "»? "
+      },
+      {
+       "t": "Nu te teme și nu te înspăimânta",
+       "w": "Nu te teme și nu te înspăimânta",
+       "heb": "אַל תַּעֲרֹץ וְאַל תֵּחָת",
+       "translit": "al taaroț veal tēhat",
+       "strong": "H2865",
+       "pos": "particulă negativă + verb, qal jusiv + particulă negativă + verb, nifal jusiv",
+       "def_ro": "Nu te teme și nu te înspăimânta (al taaroț veal tēhat)",
+       "dict_ro": "Interdicția fricii și spaimei completează seria de încurajări directe ale DOMNULUI."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "căci DOMNUL, Dumnezeul tău, este cu tine",
+       "w": "căci DOMNUL, Dumnezeul tău, este cu tine",
+       "heb": "כִּי עִמְּךָ יְהוָה אֱלֹהֶיךָ",
+       "translit": "ki imha Adonai eloheha",
        "strong": "H430",
-       "pos": "prepoziție + sufix + nume propriu + substantiv, masculin plural construct + sufix",
-       "def_ro": "DOMNUL, Dumnezeul tău, [este] cu tine (imha Adonai Eloheha).",
-       "dict_ro": "Metzudat David observă o particularitate gramaticală a versetului: DOMNUL Însuși vorbește, și totuși spune «DOMNUL e cu tine», la persoana a treia, nu «Eu sunt cu tine» — aceeași construcție neobișnuită apare și în 1 Samuel 12:11, unde Samuel însuși povestește «și a trimis [DOMNUL]... și pe Samuel», vorbind despre sine la persoana a treia; ambele cazuri arată că vocea profetică se poate retrage în umbră, lăsând loc mesajului însuși."
+       "pos": "conjuncție + prepoziție + sufix + nume propriu + substantiv, masculin plural construct + sufix",
+       "def_ro": "căci DOMNUL, Dumnezeul tău, este cu tine (ki imha Adonai eloheha)",
+       "dict_ro": "Prezența DOMNULUI rămâne garanția ultimă, repetată, a reușitei lui Ioșua."
       },
       {
-       "t": " oriunde vei merge.”"
+       "t": " "
+      },
+      {
+       "t": "oriunde vei merge",
+       "w": "oriunde vei merge",
+       "heb": "בְּכֹל אֲשֶׁר תֵּלֵךְ",
+       "translit": "behol așer tēlēh",
+       "strong": "H3212",
+       "pos": "substantiv, masculin singular + particulă relativă + verb, qal imperfect",
+       "def_ro": "oriunde vei merge (behol așer tēlēh)",
+       "dict_ro": "Promisiunea prezenței divine se extinde la orice direcție a misiunii sale."
+      },
+      {
+       "t": ".”"
       }
      ],
      "textCompare": [
@@ -59390,7 +59811,30 @@
      "translit": "Vaitzav Iehoșua et-șotrei haam lemor.",
      "tokens": [
       {
-       "t": "Și Ioșua le-a dat poruncă dregătorilor poporului, spunând:"
+       "t": "Și Ioșua le-a dat poruncă dregătorilor poporului",
+       "w": "Și Ioșua le-a dat poruncă dregătorilor poporului",
+       "heb": "וַיְצַו יְהוֹשֻׁעַ אֶת שֹׁטְרֵי הָעָם",
+       "translit": "vaițav iehoșua et șotrē haam",
+       "strong": "H5971",
+       "pos": "verb, piel imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv, masculin plural construct + substantiv, masculin singular",
+       "def_ro": "Și Ioșua le-a dat poruncă dregătorilor poporului (vaițav iehoșua et șotrē haam)",
+       "dict_ro": "Rashi explică faptul că Ioșua a dat această poruncă exact în ziua în care s-au încheiat zilele de bocet pentru Moise."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "spunând",
+       "w": "spunând",
+       "heb": "לֵאמֹר",
+       "translit": "lēmor",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "spunând (lēmor)",
+       "dict_ro": "Formula pregătește conținutul exact al poruncii transmise poporului prin dregători."
+      },
+      {
+       "t": ":"
       }
      ],
      "textCompare": [
@@ -59418,20 +59862,85 @@
      "translit": "Ivru bekerev hamahane vetzavu et-haam lemor hahinu lahem tzeida ki beod șeloșet iamim atem ovrim et-ha'Iarden haze lavo lareșet et-haareț așer ADONAI Eloheihem noten lahem lerișta.",
      "tokens": [
       {
-       "t": "„Treceți prin sânul taberei și instruiți poporul, spunând: «Pregătiți pentru voi înșivă provizii, căci "
+       "t": "„"
       },
       {
-       "t": "peste încă trei zile",
-       "w": "peste încă trei zile",
-       "heb": "בְּעוֹד שְׁלֹשֶׁת יָמִים",
-       "translit": "beod șeloșet iamim",
-       "strong": "H3117",
-       "pos": "adverb + numeral + substantiv, masculin plural",
-       "def_ro": "peste [încă] trei zile (beod șeloșet iamim).",
-       "dict_ro": "Radak explică de ce poporul are nevoie, pentru prima dată, să-și pregătească singur merindea: mana a continuat să cadă până la 16 Nisan — potrivit tradiției, ultima mană a căzut chiar în ziua morții lui Moise, 7 Adar, dar poporul a cules atunci suficient ca să se descurce până la acea dată —, astfel că traversarea Iordanului, programată peste trei zile, cade exact în momentul în care israeliții trebuie să învețe, pentru prima oară după patruzeci de ani, să-și asigure singuri hrana."
+       "t": "Treceți prin sânul taberei",
+       "w": "Treceți prin sânul taberei",
+       "heb": "עִבְרוּ בְּקֶרֶב הַמַּחֲנֶה",
+       "translit": "ivru bekerev hamahane",
+       "strong": "H4264",
+       "pos": "verb, qal imperativ + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "Treceți prin sânul taberei (ivru bekerev hamahane)",
+       "dict_ro": "Porunca de a trece prin tabără asigură transmiterea instrucțiunilor la toți cei adunați."
       },
       {
-       "t": " veți trece acest Iordan, pentru ca să veniți să luați în stăpânire țara pe care DOMNUL, Dumnezeul vostru, v-o dă în stăpânire.»”"
+       "t": " "
+      },
+      {
+       "t": "și instruiți poporul, spunând",
+       "w": "și instruiți poporul, spunând",
+       "heb": "וְצַוּוּ אֶת הָעָם לֵאמֹר",
+       "translit": "vețauu et haam lēmor",
+       "strong": "H559",
+       "pos": "verb, piel imperativ + marcă a complementului direct + substantiv, masculin singular + verb, qal infinitiv",
+       "def_ro": "și instruiți poporul, spunând (vețauu et haam lēmor)",
+       "dict_ro": "Instruirea poporului prin dregători confirmă structura ordonată a comenzii primite de Ioșua."
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "Pregătiți pentru voi înșivă provizii",
+       "w": "Pregătiți pentru voi înșivă provizii",
+       "heb": "הָכִינוּ לָכֶם צֵידָה",
+       "translit": "hahinu lahem țēda",
+       "strong": "H6720",
+       "pos": "verb, hifil imperativ + prepoziție + sufix + substantiv, masculin și feminin singular",
+       "def_ro": "Pregătiți pentru voi înșivă provizii (hahinu lahem țēda)",
+       "dict_ro": "Rashi explică faptul că pregătirea proviziilor se referă la mâncare diferită de mana, care încă le era dată atunci, dar care avea să se oprească în ziua morții lui Moise."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "căci peste încă trei zile veți trece acest Iordan",
+       "w": "căci peste încă trei zile veți trece acest Iordan",
+       "heb": "כִּי בְּעוֹד שְׁלֹשֶׁת יָמִים אַתֶּם עֹבְרִים אֶת הַיַּרְדֵּן הַזֶּה",
+       "translit": "ki beod șeloșet iamim atem ovrim et haiardēn haze",
+       "strong": "H2088",
+       "pos": "conjuncție + adverb + numeral + substantiv, masculin plural + pronume personal + verb, qal participiu + marcă a complementului direct + nume propriu + pronume demonstrativ",
+       "def_ro": "căci peste încă trei zile veți trece acest Iordan (ki beod șeloșet iamim atem ovrim et haiardēn haze)",
+       "dict_ro": "Termenul exact de trei zile marchează data precisă a trecerii Iordanului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "pentru ca să veniți să luați în stăpânire țara",
+       "w": "pentru ca să veniți să luați în stăpânire țara",
+       "heb": "לָבוֹא לָרֶשֶׁת אֶת הָאָרֶץ",
+       "translit": "lavo lareșet et haareț",
+       "strong": "H776",
+       "pos": "verb, qal infinitiv + verb, qal infinitiv + marcă a complementului direct + substantiv, masculin și feminin singular",
+       "def_ro": "pentru ca să veniți să luați în stăpânire țara (lavo lareșet et haareț)",
+       "dict_ro": "Scopul explicit al trecerii este luarea efectivă în stăpânire a țării promise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care DOMNUL, Dumnezeul vostru, v-o dă în stăpânire",
+       "w": "pe care DOMNUL, Dumnezeul vostru, v-o dă în stăpânire",
+       "heb": "אֲשֶׁר יְהוָה אֱלֹהֵיכֶם נֹתֵן לָכֶם לְרִשְׁתָּהּ",
+       "translit": "așer Adonai elohēhem notēn lahem leriștah",
+       "strong": "H3423",
+       "pos": "particulă relativă + nume propriu + substantiv, masculin plural construct + sufix + verb, qal participiu + prepoziție + sufix + verb, qal infinitiv + sufix",
+       "def_ro": "pe care DOMNUL, Dumnezeul vostru, v-o dă în stăpânire (așer Adonai elohēhem notēn lahem leriștah)",
+       "dict_ro": "Confirmarea darului divin al țării încheie motivația întregii pregătiri militare."
+      },
+      {
+       "t": ".»”"
       }
      ],
      "textCompare": [
@@ -59473,7 +59982,43 @@
      "translit": "Vela'Ruveni vela'Gadi velahatzi șevet ha'Menașe amar Iehoșua lemor.",
      "tokens": [
       {
-       "t": "Iar triburilor lui Ruben și Gad și la jumătate din tribul lui Menașe, Ioșua le-a spus:"
+       "t": "Iar triburilor lui Ruben și Gad",
+       "w": "Iar triburilor lui Ruben și Gad",
+       "heb": "וְלָראוּבֵנִי וְלַגָּדִי",
+       "translit": "velaruvēni velagadi",
+       "strong": "H1425",
+       "pos": "nume de neam + nume de neam",
+       "def_ro": "Iar triburilor lui Ruben și Gad (velaruvēni velagadi)",
+       "dict_ro": "Triburile lui Ruben și Gad primesc o adresare separată, fiindcă ele se vor așeza deja dincolo de Iordan."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și la jumătate din tribul lui Menașe",
+       "w": "și la jumătate din tribul lui Menașe",
+       "heb": "וְלַחֲצִי שֵׁבֶט הַמְנַשֶּׁה",
+       "translit": "velahați șēvet hamnașe",
+       "strong": "H4519",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "și la jumătate din tribul lui Menașe (velahați șēvet hamnașe)",
+       "dict_ro": "Jumătatea tribului lui Menașe completează grupul triburilor care rămân pe malul estic."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "Ioșua le-a spus",
+       "w": "Ioșua le-a spus",
+       "heb": "אָמַר יְהוֹשֻׁעַ לֵאמֹר",
+       "translit": "amar iehoșua lēmor",
+       "strong": "H559",
+       "pos": "verb, qal perfect + nume propriu + verb, qal infinitiv",
+       "def_ro": "Ioșua le-a spus (amar iehoșua lēmor)",
+       "dict_ro": "Adresarea separată confirmă obligația lor specială de a trimite luptători în ajutorul fraților lor."
+      },
+      {
+       "t": ":"
       }
      ],
      "textCompare": [
@@ -59501,20 +60046,59 @@
      "translit": "Zahor et-hadavar așer tziva ethem Moșe eved-ADONAI lemor ADONAI Eloheihem meniah lahem venatan lahem et-haareț hazot.",
      "tokens": [
       {
-       "t": "„Aduceți-vă aminte de lucrul pe care vi l-a poruncit Moise, slujitorul DOMNULUI, spunând: «DOMNUL, Dumnezeul vostru, "
+       "t": "„"
       },
       {
-       "t": "vă dă odihnă",
-       "w": "vă dă odihnă",
-       "heb": "מֵנִיחַ",
-       "translit": "mēniah",
-       "strong": "H5117",
-       "pos": "verb, hifil participiu",
-       "def_ro": "vă dă odihnă (meniah lahem).",
-       "dict_ro": "Metzudat David explică «odihna» promisă triburilor din estul Iordanului drept tocmai primirea acestui teritoriu ca loc de popas statornic — același cuvânt central reapare, mult mai departe în istoria lui Israel, în rugăciunea lui Solomon de la sfințirea Templului («binecuvântat DOMNUL, care a dat odihnă poporului Său Israel»), legând simbolic începutul cuceririi Țării de desăvârșirea ei finală, sub domnia lui Solomon."
+       "t": "Aduceți-vă aminte de lucrul pe care vi l-a poruncit Moise, slujitorul DOMNULUI",
+       "w": "Aduceți-vă aminte de lucrul pe care vi l-a poruncit Moise, slujitorul DOMNULUI",
+       "heb": "זָכוֹר אֶת הַדָּבָר אֲשֶׁר צִוָּה אֶתְכֶם מֹשֶׁה עֶבֶד יְהוָה",
+       "translit": "zahor et hadavar așer țiva ethem moșe eved Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal infinitiv absolut + marcă a complementului direct + substantiv, masculin singular + particulă relativă + verb, piel perfect + marcă a complementului direct + sufix + nume propriu + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "Aduceți-vă aminte de lucrul pe care vi l-a poruncit Moise, slujitorul DOMNULUI (zahor et hadavar așer țiva ethem moșe eved Adonai)",
+       "dict_ro": "Apelul la memorie leagă direct porunca lui Ioșua de promisiunea anterioară făcută de Moise însuși."
       },
       {
-       "t": " și El vă va da această țară.»"
+       "t": ", "
+      },
+      {
+       "t": "spunând",
+       "w": "spunând",
+       "heb": "לֵאמֹר",
+       "translit": "lēmor",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "spunând (lēmor)",
+       "dict_ro": "Formula pregătește citarea exactă a cuvintelor lui Moise."
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "DOMNUL, Dumnezeul vostru, vă dă odihnă",
+       "w": "DOMNUL, Dumnezeul vostru, vă dă odihnă",
+       "heb": "יְהוָה אֱלֹהֵיכֶם מֵנִיחַ לָכֶם",
+       "translit": "Adonai elohēhem mēniah lahem",
+       "strong": "",
+       "pos": "nume propriu + substantiv, masculin plural construct + sufix + verb, hifil participiu + prepoziție + sufix",
+       "def_ro": "DOMNUL, Dumnezeul vostru, vă dă odihnă (Adonai elohēhem mēniah lahem)",
+       "dict_ro": "Metzudat David explică faptul că odihna promisă vine prin darul acestei țări de pe malul estic al Iordanului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și El vă va da această țară",
+       "w": "și El vă va da această țară",
+       "heb": "וְנָתַן לָכֶם אֶת הָאָרֶץ הַזֹּאת",
+       "translit": "venatan lahem et haareț hazot",
+       "strong": "H2063",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + marcă a complementului direct + substantiv, masculin și feminin singular + pronume demonstrativ",
+       "def_ro": "și El vă va da această țară (venatan lahem et haareț hazot)",
+       "dict_ro": "Confirmarea repetată a darului teritorial încheie motivarea triburilor pentru participarea la cucerire."
+      },
+      {
+       "t": ".»"
       }
      ],
      "textCompare": [
@@ -59551,7 +60135,82 @@
      "translit": "Neșeihem tapehem umikneihem ieșvu baareț așer natan lahem Moșe beever ha'Iarden veatem taavru hamușim lifnei aheihem kol ghiborei hahail vaazartem otam.",
      "tokens": [
       {
-       "t": "Soțiile voastre, pruncii voștri și turmele voastre vor locui în țara pe care Moise v-a dat-o dincolo de Iordan. Iar voi să treceți dincolo, înarmați, înaintea fraților voștri – toți luptătorii cei viteji – și să îi ajutați,"
+       "t": "Soțiile voastre, pruncii voștri și turmele voastre",
+       "w": "Soțiile voastre, pruncii voștri și turmele voastre",
+       "heb": "נְשֵׁיכֶם טַפְּכֶם וּמִקְנֵיכֶם",
+       "translit": "neșēhem taphem umiknēhem",
+       "strong": "H4735",
+       "pos": "substantiv, feminin plural construct + sufix + substantiv, masculin singular construct + sufix + substantiv, masculin plural construct + sufix",
+       "def_ro": "Soțiile voastre, pruncii voștri și turmele voastre (neșēhem taphem umiknēhem)",
+       "dict_ro": "Separarea familiilor de bărbații luptători arată organizarea practică a campaniei de cucerire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vor locui în țara pe care Moise v-a dat-o dincolo de Iordan",
+       "w": "vor locui în țara pe care Moise v-a dat-o dincolo de Iordan",
+       "heb": "יֵשְׁבוּ בָּאָרֶץ אֲשֶׁר נָתַן לָכֶם מֹשֶׁה בְּעֵבֶר הַיַּרְדֵּן",
+       "translit": "iēșvu baareț așer natan lahem moșe beēver haiardēn",
+       "strong": "H3383",
+       "pos": "verb, qal imperfect + substantiv, masculin și feminin singular + particulă relativă + verb, qal perfect + prepoziție + sufix + nume propriu + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "vor locui în țara pe care Moise v-a dat-o dincolo de Iordan (iēșvu baareț așer natan lahem moșe beēver haiardēn)",
+       "dict_ro": "Teritoriul deja dat de Moise rămâne locuința sigură a familiilor acestor triburi."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Iar voi să treceți dincolo, înarmați",
+       "w": "Iar voi să treceți dincolo, înarmați",
+       "heb": "וְאַתֶּם תַּעַבְרוּ חֲמֻשִׁים",
+       "translit": "veatem taavru hamușim",
+       "strong": "H2571",
+       "pos": "pronume personal + verb, qal imperfect + verb, qal participiu pasiv",
+       "def_ro": "Iar voi să treceți dincolo, înarmați (veatem taavru hamușim)",
+       "dict_ro": "Rashi explică «hamușim» ca «echipați pentru luptă», trecând înarmați în fruntea oștilor."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "înaintea fraților voștri",
+       "w": "înaintea fraților voștri",
+       "heb": "לִפְנֵי אֲחֵיכֶם",
+       "translit": "lifnē ahēhem",
+       "strong": "H251",
+       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin plural construct + sufix",
+       "def_ro": "înaintea fraților voștri (lifnē ahēhem)",
+       "dict_ro": "Poziția lor în fruntea fraților arată rolul de avangardă militară asumat de aceste triburi."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "toți luptătorii cei viteji",
+       "w": "toți luptătorii cei viteji",
+       "heb": "כֹּל גִּבּוֹרֵי הַחַיִל",
+       "translit": "kol giborē hahail",
+       "strong": "H2428",
+       "pos": "substantiv, masculin singular construct + adjectiv, masculin plural + substantiv, masculin singular",
+       "def_ro": "toți luptătorii cei viteji (kol giborē hahail)",
+       "dict_ro": "Rashi explică faptul că doar luptătorii viteji dintre ei vor trece, nu întreaga populație."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "și să îi ajutați",
+       "w": "și să îi ajutați",
+       "heb": "וַעֲזַרְתֶּם אוֹתָם",
+       "translit": "vaazartem otam",
+       "strong": "H853",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și să îi ajutați (vaazartem otam)",
+       "dict_ro": "Ajutorul dat fraților completează obligația lor militară față de restul poporului."
+      },
+      {
+       "t": ","
       }
      ],
      "textCompare": [
@@ -59582,7 +60241,95 @@
      "translit": "Ad așer-ianiaḥ ADONAI laaheihem kahem veiarșu gam-hema et-haareț așer-ADONAI Eloheihem noten lahem veșavtem leeretz ierușathem veiriștem ota așer natan lahem Moșe eved ADONAI beever ha'Iarden mizrah hașameș.",
      "tokens": [
       {
-       "t": "până când va da DOMNUL fraților voștri odihnă așa cum v-a dat vouă, și vor lua și ei în stăpânire țara pe care DOMNUL, Dumnezeul vostru, le-o dă. Apoi vă puteți întoarce la țara moștenirii voastre și o veți moșteni, [țara] pe care Moise, slujitorul DOMNULUI, v-a dat-o dincolo de Iordan, pe malul de răsărit.”"
+       "t": "până când va da DOMNUL fraților voștri odihnă",
+       "w": "până când va da DOMNUL fraților voștri odihnă",
+       "heb": "עַד אֲשֶׁר יָנִיחַ יְהוָה לַאֲחֵיכֶם",
+       "translit": "ad așer ianiah Adonai laahēhem",
+       "strong": "H251",
+       "pos": "prepoziție + particulă relativă + verb, hifil imperfect + nume propriu + substantiv, masculin plural construct + sufix",
+       "def_ro": "până când va da DOMNUL fraților voștri odihnă (ad așer ianiah Adonai laahēhem)",
+       "dict_ro": "Durata obligației militare este condiționată explicit de odihna oferită și fraților lor de dincolo de Iordan."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "așa cum v-a dat vouă",
+       "w": "așa cum v-a dat vouă",
+       "heb": "כָּכֶם וְיָרְשׁוּ גַם הֵמָּה",
+       "translit": "kahem veiarșu gam hēma",
+       "strong": "H1992",
+       "pos": "prepoziție + sufix + verb, qal perfect consecutiv + adverb + pronume personal",
+       "def_ro": "așa cum v-a dat vouă (kahem veiarșu gam hēma)",
+       "dict_ro": "Comparația cu odihna deja primită de aceste triburi arată egalitatea tratamentului cerut pentru toate triburile."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și vor lua și ei în stăpânire țara",
+       "w": "și vor lua și ei în stăpânire țara",
+       "heb": "אֶת הָאָרֶץ",
+       "translit": "et haareț",
+       "strong": "H776",
+       "pos": "marcă a complementului direct + substantiv, masculin și feminin singular",
+       "def_ro": "și vor lua și ei în stăpânire țara (et haareț)",
+       "dict_ro": "Preluarea efectivă a țării promise rămâne scopul final al campaniei comune de cucerire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care DOMNUL, Dumnezeul vostru, le-o dă",
+       "w": "pe care DOMNUL, Dumnezeul vostru, le-o dă",
+       "heb": "אֲשֶׁר יְהוָה אֱלֹהֵיכֶם נֹתֵן לָהֶם",
+       "translit": "așer Adonai elohēhem notēn lahem",
+       "strong": "",
+       "pos": "particulă relativă + nume propriu + substantiv, masculin plural construct + sufix + verb, qal participiu + prepoziție + sufix",
+       "def_ro": "pe care DOMNUL, Dumnezeul vostru, le-o dă (așer Adonai elohēhem notēn lahem)",
+       "dict_ro": "Confirmarea darului divin al țării încheie motivația fraților care urmează să lupte."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Apoi vă puteți întoarce la țara moștenirii voastre",
+       "w": "Apoi vă puteți întoarce la țara moștenirii voastre",
+       "heb": "וְשַׁבְתֶּם לְאֶרֶץ יְרֻשַּׁתְכֶם",
+       "translit": "veșavtem leereț ierușathem",
+       "strong": "H3425",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin și feminin singular construct + substantiv, feminin singular construct + sufix",
+       "def_ro": "Apoi vă puteți întoarce la țara moștenirii voastre (veșavtem leereț ierușathem)",
+       "dict_ro": "Revenirea la țara moștenirii lor marchează finalul obligației militare asumate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și o veți moșteni",
+       "w": "și o veți moșteni",
+       "heb": "וִירִשְׁתֶּם אוֹתָהּ",
+       "translit": "viriștem otah",
+       "strong": "H853",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și o veți moșteni (viriștem otah)",
+       "dict_ro": "Moștenirea efectivă a teritoriului rămâne recompensa finală a serviciului militar."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "[țara] pe care Moise, slujitorul DOMNULUI, v-a dat-o dincolo de Iordan, pe malul de răsărit",
+       "w": "[țara] pe care Moise, slujitorul DOMNULUI, v-a dat-o dincolo de Iordan, pe malul de răsărit",
+       "heb": "אֲשֶׁר נָתַן לָכֶם מֹשֶׁה עֶבֶד יְהוָה בְּעֵבֶר הַיַּרְדֵּן מִזְרַח הַשָּׁמֶשׁ",
+       "translit": "așer natan lahem moșe eved Adonai beēver haiardēn mizrah hașameș",
+       "strong": "H8121",
+       "pos": "particulă relativă + verb, qal perfect + prepoziție + sufix + nume propriu + substantiv, masculin singular construct + nume propriu + substantiv, masculin singular construct + nume propriu + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "[țara] pe care Moise, slujitorul DOMNULUI, v-a dat-o dincolo de Iordan, pe malul de răsărit (așer natan lahem moșe eved Adonai beēver haiardēn mizrah hașameș)",
+       "dict_ro": "Repetarea precisă a locației — dincolo de Iordan, pe malul de răsărit — confirmă exact teritoriul promis acestor triburi."
+      },
+      {
+       "t": ".”"
       }
      ],
      "textCompare": [
@@ -59613,7 +60360,56 @@
      "translit": "Vaiaanu et-Iehoșua lemor kol așer-tzivitanu naase veel-kol-așer tișlahenu neleh.",
      "tokens": [
       {
-       "t": "Și ei i-au răspuns lui Ioșua, spunând: „Tot ceea ce ne-ai poruncit vom face și oriunde ne trimiți vom merge."
+       "t": "Și ei i-au răspuns lui Ioșua",
+       "w": "Și ei i-au răspuns lui Ioșua",
+       "heb": "וַיַּעֲנוּ אֶת יְהוֹשֻׁעַ",
+       "translit": "vaiaanu et iehoșua",
+       "strong": "H3091",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + nume propriu",
+       "def_ro": "Și ei i-au răspuns lui Ioșua (vaiaanu et iehoșua)",
+       "dict_ro": "Răspunsul triburilor confirmă acceptarea deplină a autorității lui Ioșua."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "spunând",
+       "w": "spunând",
+       "heb": "לֵאמֹר",
+       "translit": "lēmor",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "spunând (lēmor)",
+       "dict_ro": "Formula introduce angajamentul exact de supunere al triburilor."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Tot ceea ce ne-ai poruncit vom face",
+       "w": "Tot ceea ce ne-ai poruncit vom face",
+       "heb": "כֹּל אֲשֶׁר צִוִּיתָנוּ נַעֲשֶׂה",
+       "translit": "kol așer țivitanu naase",
+       "strong": "H6213",
+       "pos": "substantiv, masculin singular + particulă relativă + verb, piel perfect + sufix + verb, qal imperfect",
+       "def_ro": "Tot ceea ce ne-ai poruncit vom face (kol așer țivitanu naase)",
+       "dict_ro": "Promisiunea ascultării totale încheie dialogul dintre Ioșua și triburile de pe malul estic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și oriunde ne trimiți vom merge",
+       "w": "și oriunde ne trimiți vom merge",
+       "heb": "וְאֶל כָּל אֲשֶׁר תִּשְׁלָחֵנוּ נֵלֵךְ",
+       "translit": "veel kal așer tișlahēnu nēlēh",
+       "strong": "H3212",
+       "pos": "prepoziție + substantiv, masculin singular construct + particulă relativă + verb, qal imperfect + sufix + verb, qal imperfect",
+       "def_ro": "și oriunde ne trimiți vom merge (veel kal așer tișlahēnu nēlēh)",
+       "dict_ro": "Disponibilitatea de a merge oriunde arată loialitatea militară completă față de conducerea lui Ioșua."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59644,7 +60440,56 @@
      "translit": "Kehol așer-șamanu el-Moșe ken nișma eleha rak ihie ADONAI Eloheha imah kaașer haia im-Moșe.",
      "tokens": [
       {
-       "t": "La fel cum am ascultat de Moise, vom asculta și de tine. DOMNUL, Dumnezeul tău, fie cu tine, așa cum a fost și cu Moise!"
+       "t": "La fel cum am ascultat de Moise",
+       "w": "La fel cum am ascultat de Moise",
+       "heb": "כְּכֹל אֲשֶׁר שָׁמַעְנוּ אֶל מֹשֶׁה",
+       "translit": "kehol așer șamanu el moșe",
+       "strong": "H4872",
+       "pos": "substantiv, masculin singular + particulă relativă + verb, qal perfect + prepoziție + nume propriu",
+       "def_ro": "La fel cum am ascultat de Moise (kehol așer șamanu el moșe)",
+       "dict_ro": "Comparația directă cu ascultarea dată lui Moise confirmă transferul deplin al autorității asupra lui Ioșua."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "vom asculta și de tine",
+       "w": "vom asculta și de tine",
+       "heb": "כֵּן נִשְׁמַע אֵלֶיךָ",
+       "translit": "kēn nișma ēleha",
+       "strong": "H413",
+       "pos": "particulă demonstrativă + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "vom asculta și de tine (kēn nișma ēleha)",
+       "dict_ro": "Promisiunea ascultării viitoare egalează standardul moral al relației lor cu Moise."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "DOMNUL, Dumnezeul tău, fie cu tine",
+       "w": "DOMNUL, Dumnezeul tău, fie cu tine",
+       "heb": "רַק יִהְיֶה יְהוָה אֱלֹהֶיךָ עִמָּךְ",
+       "translit": "rak ihie Adonai eloheha imah",
+       "strong": "H5973",
+       "pos": "particulă afirmativă + verb, qal imperfect + nume propriu + substantiv, masculin plural construct + sufix + prepoziție + sufix",
+       "def_ro": "DOMNUL, Dumnezeul tău, fie cu tine (rak ihie Adonai eloheha imah)",
+       "dict_ro": "Metzudat David explică faptul că ascultarea lor este condiționată explicit de prezența continuă a DOMNULUI alături de Ioșua."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "așa cum a fost și cu Moise",
+       "w": "așa cum a fost și cu Moise",
+       "heb": "כַּאֲשֶׁר הָיָה עִם מֹשֶׁה",
+       "translit": "kaașer haia im moșe",
+       "strong": "H4872",
+       "pos": "particulă relativă + verb, qal perfect + prepoziție + nume propriu",
+       "def_ro": "așa cum a fost și cu Moise (kaașer haia im moșe)",
+       "dict_ro": "Repetarea comparației cu Moise încheie, simetric, întregul discurs al triburilor."
+      },
+      {
+       "t": "!"
       }
      ],
      "textCompare": [
@@ -59677,20 +60522,69 @@
      "translit": "Kol-iș așer-iamre et-piha velo-ișma et-devareha lehol așer-tetzavenu iumat rak hazak veematz.",
      "tokens": [
       {
-       "t": "Iar oricine se va răzvrăti împotriva vorbei tale sau nu va asculta de cuvântul tău, legat de orice ne vei porunci, va fi omorât. "
+       "t": "Iar oricine se va răzvrăti împotriva vorbei tale",
+       "w": "Iar oricine se va răzvrăti împotriva vorbei tale",
+       "heb": "כָּל אִישׁ אֲשֶׁר יַמְרֶה אֶת פִּיךָ",
+       "translit": "kal iș așer iamre et piha",
+       "strong": "H6310",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + particulă relativă + verb, hifil imperfect + marcă a complementului direct + substantiv, masculin singular construct + sufix",
+       "def_ro": "Iar oricine se va răzvrăti împotriva vorbei tale (kal iș așer iamre et piha)",
+       "dict_ro": "Rashi explică «iamre» ca «a provoca mânie prin răzvrătire», referindu-se la vorbele lui Ioșua."
       },
       {
-       "t": "Doar",
-       "w": "Doar",
-       "heb": "רַק",
-       "translit": "rak",
-       "strong": "H7535",
-       "pos": "particulă afirmativă",
-       "def_ro": "doar/numai (rak).",
-       "dict_ro": "Radak citează o regulă hermeneutică rabinică: cuvintele «ach» și «rak» («doar»/«numai») sunt socotite întotdeauna cuvinte de restrângere/excludere în interpretarea Torei. Aplicată aici, înțelepții au tâlcuit astfel pedeapsa capitală din acest verset: s-ar putea crede că cineva ar fi omorât pentru nesupunere chiar și atunci când porunca primită ar fi una păcătoasă — dar acest «rak» vine să restrângă legea: pedeapsa se aplică numai nesupunerii față de o poruncă legitimă, nu uneia care ar cere o fărădelege."
+       "t": " "
       },
       {
-       "t": " fii tare și curajos!”"
+       "t": "sau nu va asculta de cuvântul tău",
+       "w": "sau nu va asculta de cuvântul tău",
+       "heb": "וְלֹא יִשְׁמַע אֶת דְּבָרֶיךָ",
+       "translit": "velo ișma et devareha",
+       "strong": "H1697",
+       "pos": "particulă negativă + verb, qal imperfect + marcă a complementului direct + substantiv, masculin plural construct + sufix",
+       "def_ro": "sau nu va asculta de cuvântul tău (velo ișma et devareha)",
+       "dict_ro": "Nerespectarea poruncii este sancționată cu aceeași gravitate ca răzvrătirea deschisă."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "legat de orice ne vei porunci",
+       "w": "legat de orice ne vei porunci",
+       "heb": "לְכֹל אֲשֶׁר תְּצַוֶּנּוּ",
+       "translit": "lehol așer tețavenu",
+       "strong": "H6680",
+       "pos": "substantiv, masculin singular + particulă relativă + verb, piel imperfect + sufix",
+       "def_ro": "legat de orice ne vei porunci (lehol așer tețavenu)",
+       "dict_ro": "Angajamentul triburilor se extinde la orice poruncă viitoare a lui Ioșua, nu doar la cea prezentă."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "va fi omorât",
+       "w": "va fi omorât",
+       "heb": "יוּמָת",
+       "translit": "iumat",
+       "strong": "H4191",
+       "pos": "verb, hofal imperfect",
+       "def_ro": "va fi omorât (iumat)",
+       "dict_ro": "Radak notează că rabinii au limitat acest verdict doar la poruncile legate de război, nu la păcate personale, pe baza regulii exegetice că particulele «ach» și «rak» marchează restrângeri."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Doar fii tare și curajos",
+       "w": "Doar fii tare și curajos",
+       "heb": "רַק חֲזַק וֶאֱמָץ",
+       "translit": "rak hazak veemaț",
+       "strong": "H553",
+       "pos": "particulă afirmativă + verb, qal imperativ + verb, qal imperativ",
+       "def_ro": "Doar fii tare și curajos (rak hazak veemaț)",
+       "dict_ro": "Repetarea finală a îndemnului la tărie și curaj încheie simetric capitolul, răspunzând exact cuvintelor cu care DOMNUL îl încurajase pe Ioșua."
+      },
+      {
+       "t": "!”"
       }
      ],
      "textCompare": [
