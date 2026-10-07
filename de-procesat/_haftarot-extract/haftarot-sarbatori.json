@@ -30045,20 +30045,134 @@
      "translit": "Vaihi bișloșim șana barevii bahamișa lahodeș vaani vetoh-hagola al-nehar-Kevar niftehu hașamaim vaere marot Elohim.",
      "tokens": [
       {
-       "t": "Și a fost, în "
+       "t": "Și a fost",
+       "w": "Și a fost",
+       "heb": "וַיְהִי",
+       "translit": "vaihi",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "Și a fost (vaihi)",
+       "dict_ro": "Rashi explică faptul că profetul și-a lăsat deliberat vorbele neclare — fără să spună al cui an îl numără — iar duhul sfânt a întrerupt firul vorbirii prin versetele următoare, ca să arate cine este profetul și de la ce se socotește anul."
       },
       {
-       "t": "al treizecilea an",
-       "w": "al treizecilea an",
-       "heb": "בִּשְׁלֹשִׁים",
-       "translit": "bișloșim",
-       "strong": "H7970",
-       "pos": "numeral",
-       "def_ro": "al treizecilea an (bișloșim).",
-       "dict_ro": "Radak, citând pe tatăl său, explică acest an enigmatic: e al treizecilea an al ciclului de jubileu (de la ultimul Jubileu, început în anul 18 al domniei lui Iosia, când preotul Hilchia a găsit cartea Legii în Templu) — un calcul confirmat chiar de Ezechiel, care la finalul cărții (40:1) datează o altă viziune explicit după anul de jubileu."
+       "t": ", "
       },
       {
-       "t": ", în a patra [lună], în a cincea [zi] a lunii, când mă aflam printre exilații de lângă râul Kevar, că s-au deschis cerurile și am văzut "
+       "t": "în al treizecilea an",
+       "w": "în al treizecilea an",
+       "heb": "בִּשְׁלֹשִׁים שָׁנָה",
+       "translit": "bișloșim șana",
+       "strong": "H8141",
+       "pos": "numeral + substantiv, feminin singular",
+       "def_ro": "în al treizecilea an (bishloshim shana)",
+       "dict_ro": "Radak, în numele tatălui său, explică faptul că cei treizeci de ani se socotesc de la începutul ultimului jubileu — anul în care preotul Hilchia a găsit cartea Legii în Templu, în vremea lui Iosia."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "în a patra [lună]",
+       "w": "în a patra [lună]",
+       "heb": "בָּרְבִיעִי",
+       "translit": "barvi",
+       "strong": "H7243",
+       "pos": "numeral ordinal",
+       "def_ro": "în a patra [lună] (barvi)",
+       "dict_ro": "Metzudat David explică faptul că este vorba de luna a patra a anului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "în a cincea [zi] a lunii",
+       "w": "în a cincea [zi] a lunii",
+       "heb": "בַּחֲמִשָּׁה לַחֹדֶשׁ",
+       "translit": "bahamișa lahodeș",
+       "strong": "H2320",
+       "pos": "numeral + substantiv, masculin singular",
+       "def_ro": "în a cincea [zi] a lunii (bahamisha lahodesh)",
+       "dict_ro": "Radak leagă ziua a cincea cu precizarea repetată din versetul următor, pentru a arăta exact anul exilului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "când mă aflam",
+       "w": "când mă aflam",
+       "heb": "וַאֲנִי בְתוֹךְ",
+       "translit": "vaani vetoh",
+       "strong": "H8432",
+       "pos": "pronume personal + substantiv, masculin singular construct",
+       "def_ro": "când mă aflam (vaani vetoh)",
+       "dict_ro": "Rashi explică faptul că profetul vorbește aici în numele său propriu, aflat în mijlocul exilaților, departe de țara lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "printre exilații",
+       "w": "printre exilații",
+       "heb": "הַגּוֹלָה",
+       "translit": "hagola",
+       "strong": "H1473",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "printre exilații (hagola)",
+       "dict_ro": "Metzudat David explică faptul că profetul se afla atunci printre oamenii exilului, pe malul râului Kevar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de lângă râul Kevar",
+       "w": "de lângă râul Kevar",
+       "heb": "עַל נְהַר כְּבָר",
+       "translit": "al nehar kevar",
+       "strong": "H3529",
+       "pos": "prepoziție + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "de lângă râul Kevar (al nehar kevar)",
+       "dict_ro": "Rashi explică faptul că Kevar este numele râului; Radak adaugă o dezbatere între învățați dacă Kevar ar fi chiar Eufratul sau un râu distinct."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "că s-au deschis",
+       "w": "că s-au deschis",
+       "heb": "נִפְתְּחוּ",
+       "translit": "niftehu",
+       "strong": "H6605",
+       "pos": "verb, nifal perfect",
+       "def_ro": "că s-au deschis (niftehu)",
+       "dict_ro": "Verbul arată o deschidere bruscă, supranaturală, a cerurilor, pregătind viziunea extraordinară ce urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cerurile",
+       "w": "cerurile",
+       "heb": "הַשָּׁמַיִם",
+       "translit": "hașamaim",
+       "strong": "H8064",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "cerurile (hashamaim)",
+       "dict_ro": "Cerurile deschise semnalează începutul unei revelații divine directe, accesibile profetului aflat în afara Țării Sfinte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și am văzut",
+       "w": "și am văzut",
+       "heb": "וָאֶרְאֶה",
+       "translit": "vaere",
+       "strong": "H7200",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și am văzut (vaere)",
+       "dict_ro": "Verbul «a vedea» introduce experiența vizionară care va structura tot capitolul."
+      },
+      {
+       "t": " "
       },
       {
        "t": "viziuni ale lui Dumnezeu",
@@ -30067,8 +30181,8 @@
        "translit": "marot elohim",
        "strong": "H430",
        "pos": "substantiv, feminin plural construct + substantiv, masculin plural",
-       "def_ro": "viziuni ale lui Dumnezeu (marot elohim).",
-       "dict_ro": "Rashi explică expresia: pentru că nu vedea printr-o oglindă limpede, ci ca într-un vis, nu ca realitate directă, de aceea le numește „viziuni ale lui Dumnezeu” — și toți profeții, cu excepția lui Moise învățătorul nostru, au văzut tot așa, printr-o oglindă neclară, cum se spune: «prin mâna profeților Mă voi asemăna» (Osea 12:11)."
+       "def_ro": "viziuni ale lui Dumnezeu (marot elohim)",
+       "dict_ro": "Rashi explică faptul că, neputând vedea printr-o oglindă limpede ca Moise, profetul numește viziunea «viziuni ale lui Dumnezeu» — ca un vis, nu o vedere directă și clară; toți profeții, cu excepția lui Moise, au văzut astfel."
       },
       {
        "t": "."
@@ -30112,7 +30226,56 @@
      "translit": "Bahamișa lahodeș hi hașana hahamișit legalut hameleh Ioiakin.",
      "tokens": [
       {
-       "t": "În a cincea [zi] a lunii, în al cincilea an al exilului regelui Ioiakin."
+       "t": "În a cincea [zi] a lunii",
+       "w": "În a cincea [zi] a lunii",
+       "heb": "בַּחֲמִשָּׁה לַחֹדֶשׁ",
+       "translit": "bahamișa lahodeș",
+       "strong": "H2320",
+       "pos": "numeral + substantiv, masculin singular",
+       "def_ro": "În a cincea [zi] a lunii (bahamisha lahodesh)",
+       "dict_ro": "Rashi explică faptul că acest verset și cel precedent întrerup firul vorbirii profetului, ca un glas separat, pentru a preciza exact datarea și identitatea profetului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "în al cincilea an",
+       "w": "în al cincilea an",
+       "heb": "הִיא הַשָּׁנָה הַחֲמִישִׁית",
+       "translit": "hi hașana hahamișit",
+       "strong": "H2549",
+       "pos": "pronume personal + substantiv, feminin singular + numeral ordinal",
+       "def_ro": "în al cincilea an (hi hashana hahamishit)",
+       "dict_ro": "Rashi calculează riguros anii domniei lui Iosia, Ioiachim și exilul lui Ioiachin, arătând că acest an corespunde exact anului treizeci al jubileului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "al exilului",
+       "w": "al exilului",
+       "heb": "לְגָלוּת",
+       "translit": "legalut",
+       "strong": "H1546",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "al exilului (legalut)",
+       "dict_ro": "Radak explică faptul că fiecare etapă a exilului regelui Ioiachin oferă un punct de reper cronologic pentru profeție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regelui Ioiakin",
+       "w": "regelui Ioiakin",
+       "heb": "הַמֶּלֶךְ יוֹיָכִין",
+       "translit": "hameleh ioiahin",
+       "strong": "H3112",
+       "pos": "substantiv, masculin singular + nume propriu",
+       "def_ro": "regelui Ioiakin (hameleh ioiahin)",
+       "dict_ro": "Numele regelui exilat, Ioiachin, servă ca reper istoric pentru datarea precisă a viziunii."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30143,20 +30306,108 @@
      "translit": "Haio haia devar-ADONAI el-Iehezkel ben-Buzi hakohen beeret Kasdim al-nehar-Kevar vatehi alav șam iad-ADONAI.",
      "tokens": [
       {
-       "t": "Cuvântul DOMNULUI venise la Ezechiel, fiul preotului Buzi, în ținutul caldeenilor, lângă râul Kevar; și "
+       "t": "Cuvântul DOMNULUI venise",
+       "w": "Cuvântul DOMNULUI venise",
+       "heb": "הָיֹה הָיָה דְבַר יְהוָה אֶל",
+       "translit": "haio haia devar Adonai el",
+       "strong": "H413",
+       "pos": "verb, qal infinitiv absolut + verb, qal perfect + substantiv, masculin singular construct + nume propriu + prepoziție",
+       "def_ro": "Cuvântul DOMNULUI venise (haio haia devar Adonai el)",
+       "dict_ro": "Rashi, citând pe învățați, explică faptul că expresia dublată «a fost, a fost» arată că cuvântul DOMNULUI venise deja mai înainte la profet, pentru că Șechina nu se odihnește asupra unui profet în afara Țării Sfinte decât dacă s-a odihnit mai întâi asupra lui în Țara Israelului."
       },
       {
-       "t": "mâna DOMNULUI",
-       "w": "mâna DOMNULUI",
+       "t": " "
+      },
+      {
+       "t": "la Ezechiel",
+       "w": "la Ezechiel",
+       "heb": "יְחֶזְקֵאל",
+       "translit": "iehezkēl",
+       "strong": "H3168",
+       "pos": "nume propriu",
+       "def_ro": "la Ezechiel (iehezkel)",
+       "dict_ro": "Numele profetului este dat aici explicit, după ce versetele anterioare l-au lăsat anonim."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "fiul preotului Buzi",
+       "w": "fiul preotului Buzi",
+       "heb": "בֶּן בּוּזִי הַכֹּהֵן",
+       "translit": "ben buzi hakohēn",
+       "strong": "H3548",
+       "pos": "substantiv, masculin singular construct + nume propriu + substantiv, masculin singular",
+       "def_ro": "fiul preotului Buzi (ben buzi hakohen)",
+       "dict_ro": "Radak explică faptul că Buzi este identificat în tradiția midrashică cu profetul Ieremia, numit «Buzi» pentru că era disprețuit (buz) de contemporanii săi."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "în ținutul caldeenilor",
+       "w": "în ținutul caldeenilor",
+       "heb": "בְּאֶרֶץ כַּשְׂדִּים",
+       "translit": "beereț kasdim",
+       "strong": "H3778",
+       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "în ținutul caldeenilor (beeretz kasdim)",
+       "dict_ro": "Țara caldeenilor desemnează Babilonia, locul exilului profetului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "lângă râul Kevar",
+       "w": "lângă râul Kevar",
+       "heb": "עַל נְהַר כְּבָר",
+       "translit": "al nehar kevar",
+       "strong": "H3529",
+       "pos": "prepoziție + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "lângă râul Kevar (al nehar kevar)",
+       "dict_ro": "Repetarea reperului geografic al râului Kevar confirmă locul exact al revelației."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "și mâna DOMNULUI",
+       "w": "și mâna DOMNULUI",
        "heb": "יַד יְהוָה",
        "translit": "iad Adonai",
        "strong": "H3068",
        "pos": "substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "mâna DOMNULUI (iad Adonai).",
-       "dict_ro": "Rashi explică: orice „mână a DOMNULUI” rostită în context profetic nu e decât o expresie de forță/constrângere — profeția constrânge pe profet împotriva voii lui, ca pe un om năucit. Radak adaugă o tradiție rabinică: Șechina nu se odihnește asupra unui profet în afara Țării Sfinte decât dacă s-a odihnit mai întâi asupra lui în Țară, și, în afara ei, vine doar într-un loc ritual curat, cum e lângă apă — motiv pentru care viziunea are loc lângă râul Kevar."
+       "def_ro": "și mâna DOMNULUI (iad Adonai)",
+       "dict_ro": "Rashi explică faptul că expresia «mâna DOMNULUI», oriunde apare în limbajul profetic, denotă o forță constrângătoare — profeția apasă asupra profetului fără voia lui, ca o stare de extaz incontrolabil."
       },
       {
-       "t": " a fost asupra lui acolo."
+       "t": " "
+      },
+      {
+       "t": "a fost asupra lui",
+       "w": "a fost asupra lui",
+       "heb": "וַתְּהִי עָלָיו",
+       "translit": "vathi alaiv",
+       "strong": "H5921",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "a fost asupra lui (vathi alaiv)",
+       "dict_ro": "Verbul arată apăsarea puterii divine asupra profetului, pregătindu-l pentru viziune."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "acolo",
+       "w": "acolo",
+       "heb": "שָׁם",
+       "translit": "șam",
+       "strong": "H8033",
+       "pos": "adverb",
+       "def_ro": "acolo (sham)",
+       "dict_ro": "Adverbul «acolo» confirmă din nou locul exilului ca scenă a revelației."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30197,20 +30448,121 @@
      "translit": "Vaere vehine ruah seara baa min-hatzafon anan gadol veeș mitlakaḥat venoga lo saviv umitoha keein hahașmal mitoh haeș.",
      "tokens": [
       {
-       "t": "Am privit și iată: un "
+       "t": "Am privit și iată",
+       "w": "Am privit și iată",
+       "heb": "וָאֵרֶא וְהִנֵּה",
+       "translit": "vaēre vehinē",
+       "strong": "H2009",
+       "pos": "verb, qal imperfect consecutiv + particulă demonstrativă",
+       "def_ro": "Am privit și iată (vaere vehine)",
+       "dict_ro": "Formula introductivă clasică a viziunilor profetice, marcând trecerea la descrierea directă a ceea ce a văzut Ezechiel."
       },
       {
-       "t": "vânt năpraznic",
-       "w": "vânt năpraznic",
+       "t": ": "
+      },
+      {
+       "t": "un vânt năpraznic",
+       "w": "un vânt năpraznic",
        "heb": "רוּחַ סְעָרָה",
        "translit": "ruah seara",
        "strong": "H5591",
        "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin singular",
-       "def_ro": "vânt năprasnic, o vijelie (ruah seara).",
-       "dict_ro": "Rashi explică: aceasta e carul tronului de slavă al Șechinei, cum se arată mai departe în capitol; și pentru că venea cu mânie, ca să-l pedepsească pe Israel, de aceea se înfățișează ca o vijelie și un nor. Vine de la miazănoapte pentru că se întoarce din țara caldeenilor, care e la nord — ca să nu zică babilonienii că Dumnezeu a dat pe fiii Săi în mâna unui neam de nimic, ci dimpotrivă, printr-o teofanie măreață."
+       "def_ro": "un vânt năpraznic (ruah seara)",
+       "dict_ro": "Rashi explică faptul că acest vânt reprezintă carul de slavă al Șechinei, descris mai târziu în capitol; venind cu furie pentru a pedepsi Israelul, se arată sub chipul unui vânt năprasnic și al unui nor."
       },
       {
-       "t": " venea de la miazănoapte, un nor mare cu foc orbitar și o lumină care îl înconjura și [ieșea] din mijlocul său precum mijlocul lui venea o asemănare a celor patru ființe."
+       "t": " "
+      },
+      {
+       "t": "venea de la miazănoapte",
+       "w": "venea de la miazănoapte",
+       "heb": "בָּאָה מִן הַצָּפוֹן",
+       "translit": "baa min hațafon",
+       "strong": "H6828",
+       "pos": "verb, qal participiu + prepoziție + substantiv, feminin singular",
+       "def_ro": "venea de la miazănoapte (baa min hatzafon)",
+       "dict_ro": "Rashi explică faptul că norul venea dinspre țara caldeenilor, aflată la nord, pentru ca Nebucadnețar să poată cuceri lumea sub stăpânirea sa, fără ca babilonienii — popor altfel disprețuit — să poată spune că Dumnezeu i-a dat pe fiii Săi unei națiuni de nimic."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "un nor mare",
+       "w": "un nor mare",
+       "heb": "עָנָן גָּדוֹל",
+       "translit": "anan gadol",
+       "strong": "H1419",
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "un nor mare (anan gadol)",
+       "dict_ro": "Metzudat David explică faptul că norul cel mare este o aluzie la întunericul necazurilor care vor veni asupra poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu foc orbitar",
+       "w": "cu foc orbitar",
+       "heb": "וְאֵשׁ מִתְלַקַּחַת",
+       "translit": "veēș mitlakahat",
+       "strong": "H3947",
+       "pos": "substantiv, masculin și feminin singular + verb, hitpael participiu",
+       "def_ro": "cu foc orbitar (veesh mitlakahat)",
+       "dict_ro": "Metzudat David explică faptul că focul care se aprinde continuu este o aluzie la arderea Casei DOMNULUI."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și o lumină care îl înconjura",
+       "w": "și o lumină care îl înconjura",
+       "heb": "וְנֹגַהּ לוֹ סָבִיב",
+       "translit": "venogah lo saviv",
+       "strong": "H5439",
+       "pos": "substantiv, feminin singular + prepoziție + sufix + substantiv, masculin și feminin singular",
+       "def_ro": "și o lumină care îl înconjura (venogah lo saviv)",
+       "dict_ro": "Metzudat David explică faptul că strălucirea din jurul acestor imagini întunecate este semn că, după toate necazurile, poporul va fi din nou învăluit în lumina mântuirii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și [ieșea] din mijlocul său",
+       "w": "și [ieșea] din mijlocul său",
+       "heb": "וּמִתּוֹכָהּ",
+       "translit": "umitohah",
+       "strong": "H8432",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "și [ieșea] din mijlocul său (umitohah)",
+       "dict_ro": "Pregătește apariția, din chiar centrul acelui nor de foc, a imaginii și mai tainice ce urmează să fie descrisă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "precum mijlocul lui",
+       "w": "precum mijlocul lui",
+       "heb": "וּמִתּוֹכָהּ",
+       "translit": "umitohah",
+       "strong": "H8432",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "precum mijlocul lui (umitohah)",
+       "dict_ro": "Formula introduce, din mijlocul focului, descrierea celor patru ființe vii care vor domina restul viziunii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "venea o asemănare a celor patru ființe",
+       "w": "venea o asemănare a celor patru ființe",
+       "heb": "דְּמוּת אַרְבַּע חַיּוֹת",
+       "translit": "demut arba haiot",
+       "strong": "H2416",
+       "pos": "substantiv, feminin singular construct + numeral + substantiv, feminin plural",
+       "def_ro": "venea o asemănare a celor patru ființe (demut arba haiot)",
+       "dict_ro": "Radak explică faptul că traducerea aramaică a lui Ionatan redă aceste ființe drept «vietăți» — figurile vii care susțin carul divin descris în continuare."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30251,20 +30603,33 @@
      "translit": "Umitoha demut arba haiot veze mareihen demut adam lahena.",
      "tokens": [
       {
-       "t": "iar în asemănarea lui "
+       "t": "iar "
       },
       {
-       "t": "Hașmal",
-       "w": "Hașmal",
-       "heb": "הַחַשְׁמַל",
-       "translit": "hahașmal",
-       "strong": "H2830",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "Hașmal, termen enigmatic desemnând o strălucire aurie/arămie din mijlocul focului (hahașmal).",
-       "dict_ro": "Rashi relatează tradiția talmudică (Hagiga 13) despre primejdia acestui cuvânt: un copil care expunea „lucrarea carului” și pricepea sensul lui Hașmal a fost mistuit de un foc ieșit chiar din Hașmal; alți înțelepți citesc cuvântul ca pe o contracție — „ființe de foc care vorbesc” (hashot-u-memalelot) — tăcând atunci când Cel Sfânt grăiește, vorbind când El nu grăiește, adică lăudându-L."
+       "t": "în asemănarea lui Hașmal din mijlocul focului",
+       "w": "în asemănarea lui Hașmal din mijlocul focului",
+       "heb": "כְּעֵין הַחַשְׁמַל מִתּוֹךְ הָאֵשׁ",
+       "translit": "keēn hahașmal mitoh haēș",
+       "strong": "H784",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "în asemănarea lui Hașmal din mijlocul focului (keen hahashmal mitoh haesh)",
+       "dict_ro": "Rashi explică faptul că «hașmal» este numele unui înger, sau culoarea pe care profetul a văzut-o în mijlocul focului; Talmudul (Hagiga 13) povestește despre un copil care, studiind tainele carului divin și priceput în înțelesul lui «hașmal», a fost mistuit de un foc ieșit din chiar acel cuvânt — semn al pericolului acestei taine. Rashi adaugă și explicația că termenul ar fi compus din «haș» (tace) și «mal» (vorbește), aluzie la îngerii care tac atunci când Dumnezeu grăiește și vorbesc/laudă atunci când El tace."
       },
       {
-       "t": " din mijlocul focului, Astfel era înfățișarea lor: "
+       "t": ", "
+      },
+      {
+       "t": "Astfel era înfățișarea lor",
+       "w": "Astfel era înfățișarea lor",
+       "heb": "וְזֶה מַרְאֵיהֶן",
+       "translit": "veze marēhen",
+       "strong": "H4758",
+       "pos": "pronume demonstrativ + substantiv, masculin singular construct + sufix",
+       "def_ro": "Astfel era înfățișarea lor (veze marehen)",
+       "dict_ro": "Metzudat David explică faptul că acesta era chipul/forma trupului celor patru ființe vii."
+      },
+      {
+       "t": ": "
       },
       {
        "t": "aveau înfățișarea unui om",
@@ -30273,8 +30638,8 @@
        "translit": "demut adam lahēna",
        "strong": "H2007",
        "pos": "substantiv, feminin singular construct + substantiv, masculin singular + pronume personal",
-       "def_ro": "aveau înfățișarea unui om (demut adam).",
-       "dict_ro": "Rashi observă o dificultate: și chipul de taur, de leu și de vultur le aparțin tot acestor ființe (cf. Ezechiel 10:14) — de ce se spune aici doar „înfățișarea unui om”? Răspunde: pentru că fața omului e capul/temeiul tuturor celorlalte, profetul a lăudat carul ceresc prin ea; și, după tradiția midrașică (Bereșit Rabba 82:2), chiar chipul lui Iacov, patriarhul nostru, este întipărit în acel tron."
+       "def_ro": "aveau înfățișarea unui om (demut adam lahena)",
+       "dict_ro": "Radak explică faptul că traducerea aramaică redă aceste ființe drept «vietăți create», iar chipul de bază al fiecăreia era asemănător omului, peste care se adaugă celelalte trei fețe descrise în versetele următoare."
       },
       {
        "t": ","
@@ -30312,7 +30677,30 @@
      "translit": "Vearbaa fanim leahat vearba kenafaim leahat lahem.",
      "tokens": [
       {
-       "t": "și fiecare avea patru fețe, și patru aripi avea fiecare din ele."
+       "t": "și fiecare avea patru fețe",
+       "w": "și fiecare avea patru fețe",
+       "heb": "וְאַרְבָּעָה פָנִים לְאֶחָת",
+       "translit": "vearbaa fanim leehat",
+       "strong": "H259",
+       "pos": "numeral + substantiv, masculin și feminin plural + numeral",
+       "def_ro": "și fiecare avea patru fețe (vearbaa fanim leehat)",
+       "dict_ro": "Rashi explică faptul că fiecare dintre cele patru fețe — om, leu, taur, vultur — se repetă identic la fiecare dintre cele patru ființe, totalizând șaisprezece fețe per ființă; Metzudat David calculează că, în total, cele patru ființe au șaizeci și patru de fețe."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și patru aripi avea fiecare din ele",
+       "w": "și patru aripi avea fiecare din ele",
+       "heb": "וְאַרְבַּע כְּנָפַיִם לְאַחַת לָהֶם",
+       "translit": "vearba kenafaim leahat lahem",
+       "strong": "",
+       "pos": "numeral + substantiv, feminin dual + numeral + prepoziție + sufix",
+       "def_ro": "și patru aripi avea fiecare din ele (vearba kenafaim leahat lahem)",
+       "dict_ro": "Rashi, citând traducerea aramaică a lui Ionatan, numește cele șaisprezece aripi ale fiecărei ființe — patru aripi pentru fiecare dintre cele patru fețe."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30343,17 +30731,66 @@
      "translit": "Veragleihem regel ieșara vehaf ragleihem kehaf regel egel venoțetzim keein nehoșet kalal.",
      "tokens": [
       {
-       "t": "Picioarele lor erau un picior drept, iar talpa picioarelor era precum talpa unui picior rotund, "
+       "t": "Picioarele lor erau un picior drept",
+       "w": "Picioarele lor erau un picior drept",
+       "heb": "וְרַגְלֵיהֶם רֶגֶל יְשָׁרָה",
+       "translit": "veraglēhem regel ieșara",
+       "strong": "H3477",
+       "pos": "substantiv, feminin dual construct + sufix + substantiv, feminin singular + adjectiv, feminin singular",
+       "def_ro": "Picioarele lor erau un picior drept (veraglehem regel ieshara)",
+       "dict_ro": "Rashi explică faptul că picioarele acestor ființe nu au articulații îndoite, pentru că ființele cerești nu se așază și nu se culcă niciodată, așa cum ar face un animal care își îndoaie picioarele pentru a se odihni."
       },
       {
-       "t": "și străluceau ca arama lustruită",
-       "w": "și străluceau ca arama lustruită",
-       "heb": "וְנֹצְצִים כְּעֵין נְחֹשֶׁת קָלָל",
-       "translit": "venoțțim keēn nehoșet kalal",
+       "t": ", "
+      },
+      {
+       "t": "iar talpa picioarelor",
+       "w": "iar talpa picioarelor",
+       "heb": "וְכַף רַגְלֵיהֶם",
+       "translit": "vehaf raglēhem",
+       "strong": "H7272",
+       "pos": "substantiv, feminin singular construct + substantiv, feminin dual construct + sufix",
+       "def_ro": "iar talpa picioarelor (vehaf raglehem)",
+       "dict_ro": "Metzudat David explică faptul că partea de dedesubt a picioarelor lor avea forma unei tălpi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "era precum talpa unui picior rotund",
+       "w": "era precum talpa unui picior rotund",
+       "heb": "כְּכַף רֶגֶל עֵגֶל",
+       "translit": "kehaf regel ēgel",
+       "strong": "H5695",
+       "pos": "substantiv, feminin singular construct + substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "era precum talpa unui picior rotund (kehaf regel egel)",
+       "dict_ro": "Rashi, redând traducerea aramaică, explică faptul că talpa era rotundă, ca talpa unui vițel."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și străluceau",
+       "w": "și străluceau",
+       "heb": "וְנֹצְצִים",
+       "translit": "venoțțim",
+       "strong": "H5340",
+       "pos": "verb, qal participiu",
+       "def_ro": "și străluceau (venotztzim)",
+       "dict_ro": "Rashi explică faptul că din strălucirea picioarelor păreau că ies scântei, asemenea unui candelabru de aur care, în bătaia soarelui, emite scântei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca arama lustruită",
+       "w": "ca arama lustruită",
+       "heb": "כְּעֵין נְחֹשֶׁת קָלָל",
+       "translit": "keēn nehoșet kalal",
        "strong": "H7044",
-       "pos": "verb, qal participiu + substantiv, masculin și feminin singular construct + substantiv, feminin singular + adjectiv, masculin singular",
-       "def_ro": "și străluceau ca arama lustruită/rafinată (venoțțim keēn nehoșet kalal).",
-       "dict_ro": "Rashi explică „kalal” ca aramă rafinată și strălucitoare, apropiind cuvântul de „copt în foc” (Leviticul 2:14); Metzudat David adaugă imaginea: picioarele ființelor străluceau de parcă aruncau scântei, asemenea unei arame atât de lustruite că pare să emită lumină proprie, ca scânteile ce ies din soare la amiază."
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin singular + adjectiv, masculin singular",
+       "def_ro": "ca arama lustruită (keen nehoshet kalal)",
+       "dict_ro": "Metzudat Zion explică faptul că «kalal» înseamnă metal rafinat și lustruit, strălucitor — comparație folosită și în cartea lui Daniel pentru descrierea unei ființe cerești asemănătoare."
       },
       {
        "t": "."
@@ -30396,7 +30833,69 @@
      "translit": "Videi adam mitahat kanfeihem al arbat riveihem ufeneihem vekanfeihem learbatam.",
      "tokens": [
       {
-       "t": "Și sub fiecare dintre aripile lor erau mâini omenești, pe fiecare din cele patru laturi ale lor, iar fețele lor și aripile lor erau aidoma pe cele patru fețe ale lor."
+       "t": "Și sub fiecare dintre aripile lor",
+       "w": "Și sub fiecare dintre aripile lor",
+       "heb": "מִתַּחַת כַּנְפֵיהֶם",
+       "translit": "mitahat kanfēhem",
+       "strong": "H3671",
+       "pos": "prepoziție + substantiv, feminin dual construct + sufix",
+       "def_ro": "Și sub fiecare dintre aripile lor (mitahat kanfehem)",
+       "dict_ro": "Descrie poziția mâinilor, ascunse sub structura aripilor fiecărei ființe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "erau mâini omenești",
+       "w": "erau mâini omenești",
+       "heb": "וִידֵי אָדָם",
+       "translit": "vidē adam",
+       "strong": "H120",
+       "pos": "substantiv, masculin și feminin dual construct + substantiv, masculin singular",
+       "def_ro": "erau mâini omenești (vide adam)",
+       "dict_ro": "Rashi, citând continuarea viziunii din Ezechiel 10, explică faptul că aceste mâini omenești adună cărbunii aprinși și îi transmit din mână în mână, de la cherub la trimisul care împrăștie pedeapsa asupra Ierusalimului, pentru a atenua, prin răcirea treptată, asprimea pedepsei."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "pe fiecare din cele patru laturi ale lor",
+       "w": "pe fiecare din cele patru laturi ale lor",
+       "heb": "עַל אַרְבַּעַת רִבְעֵיהֶם",
+       "translit": "al arbaat rivēhem",
+       "strong": "H7253",
+       "pos": "prepoziție + numeral + substantiv, masculin plural construct + sufix",
+       "def_ro": "pe fiecare din cele patru laturi ale lor (al arbaat rivehem)",
+       "dict_ro": "Rashi explică faptul că cele patru laturi corespund celor patru puncte cardinale, fiecare ființă având față și aripi spre fiecare direcție."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "iar fețele lor și aripile lor",
+       "w": "iar fețele lor și aripile lor",
+       "heb": "וּפְנֵיהֶם וְכַנְפֵיהֶם",
+       "translit": "ufnēhem vehanfēhem",
+       "strong": "H3671",
+       "pos": "substantiv, masculin și feminin plural construct + sufix + substantiv, feminin dual construct + sufix",
+       "def_ro": "iar fețele lor și aripile lor (ufnehem vehanfehem)",
+       "dict_ro": "Simetria perfectă dintre fețe și aripi se repetă identic la fiecare dintre cele patru ființe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "erau aidoma pe cele patru fețe ale lor",
+       "w": "erau aidoma pe cele patru fețe ale lor",
+       "heb": "לְאַרְבַּעְתָּם",
+       "translit": "learbatam",
+       "strong": "H702",
+       "pos": "numeral + sufix",
+       "def_ro": "erau aidoma pe cele patru fețe ale lor (learbatam)",
+       "dict_ro": "Rashi, redând traducerea aramaică, explică faptul că toate patru erau absolut identice una cu cealaltă în această privință."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30427,7 +30926,43 @@
      "translit": "Hovrot ișa el-ahota kanfeihem lo-isabu belehtan iș el-ever panav ielehu.",
      "tokens": [
       {
-       "t": "Aripile lor erau unite una de alta; nu se întorceau una spre alta când se mișcau, ci fiecare mergea drept înainte."
+       "t": "Aripile lor erau unite una de alta",
+       "w": "Aripile lor erau unite una de alta",
+       "heb": "חֹבְרֹת אִשָּׁה אֶל אֲחוֹתָהּ כַּנְפֵיהֶם",
+       "translit": "hovrot ișa el ahotah kanfēhem",
+       "strong": "H3671",
+       "pos": "verb, qal participiu + substantiv, feminin singular + prepoziție + substantiv, feminin singular construct + sufix + substantiv, feminin dual construct + sufix",
+       "def_ro": "Aripile lor erau unite una de alta (hovrot isha el ahotah kanfehem)",
+       "dict_ro": "Rashi explică faptul că aripa uneia era întinsă spre aripa celeilalte, din toate părțile, până se uneau și se întâlneau; astfel își acopereau fețele, aripile fiind întinse peste fețe."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "nu se întorceau una spre alta când se mișcau",
+       "w": "nu se întorceau una spre alta când se mișcau",
+       "heb": "לֹא יִסַּבּוּ בְלֶכְתָּן",
+       "translit": "lo isabu velehtan",
+       "strong": "H3212",
+       "pos": "particulă negativă + verb, nifal imperfect + verb, qal infinitiv + sufix",
+       "def_ro": "nu se întorceau una spre alta când se mișcau (lo isabu velehtan)",
+       "dict_ro": "Rashi explică faptul că, dacă voiau să meargă în orice direcție, nu aveau nevoie să-și întoarcă fețele, pentru că aveau o față spre fiecare parte."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ci fiecare mergea drept înainte",
+       "w": "ci fiecare mergea drept înainte",
+       "heb": "אִישׁ אֶל עֵבֶר פָּנָיו יֵלֵכוּ",
+       "translit": "iș el ēver panaiv iēlēhu",
+       "strong": "H3212",
+       "pos": "substantiv, masculin singular + prepoziție + substantiv, masculin singular construct + substantiv, masculin și feminin plural construct + sufix + verb, qal imperfect",
+       "def_ro": "ci fiecare mergea drept înainte (ish el ever panaiv ielehu)",
+       "dict_ro": "Rashi explică faptul că fiecare se îndrepta spre partea spre care privea fața sa — spre direcția spre care voiau să meargă, acolo mergeau, fără a se întoarce."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30458,7 +30993,56 @@
      "translit": "Udemut peneihem penei adam ufenei arie el-haiamin learbatam ufenei-șor mehasmol learbatan ufenei-neșer learbatan.",
      "tokens": [
       {
-       "t": "Iar asemănarea fețelor lor: fața unui om și fața unui leu la dreapta celor patru; "
+       "t": "Iar asemănarea fețelor lor",
+       "w": "Iar asemănarea fețelor lor",
+       "heb": "וּדְמוּת פְּנֵיהֶם",
+       "translit": "udmut penēhem",
+       "strong": "H6440",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "Iar asemănarea fețelor lor (udmut penehem)",
+       "dict_ro": "Descrie configurația celor patru fețe aparținând fiecărei ființe."
+      },
+      {
+       "t": ": "
+      },
+      {
+       "t": "fața unui om",
+       "w": "fața unui om",
+       "heb": "פְּנֵי אָדָם",
+       "translit": "penē adam",
+       "strong": "H120",
+       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
+       "def_ro": "fața unui om (pene adam)",
+       "dict_ro": "Metzudat David explică faptul că fiecare ființă avea câte o față de om, orientată înainte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și fața unui leu",
+       "w": "și fața unui leu",
+       "heb": "וּפְנֵי אַרְיֵה",
+       "translit": "ufnē ariē",
+       "strong": "H738",
+       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
+       "def_ro": "și fața unui leu (ufne arie)",
+       "dict_ro": "Fața de leu completează ansamblul celor patru chipuri ale fiecărei ființe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la dreapta celor patru",
+       "w": "la dreapta celor patru",
+       "heb": "אֶל הַיָּמִין לְאַרְבַּעְתָּם",
+       "translit": "el haiamin learbatam",
+       "strong": "H702",
+       "pos": "prepoziție + substantiv, feminin singular + numeral + sufix",
+       "def_ro": "la dreapta celor patru (el haiamin learbatam)",
+       "dict_ro": "Fața de leu era situată la dreapta feței de om, pentru toate cele patru ființe deopotrivă."
+      },
+      {
+       "t": "; "
       },
       {
        "t": "fața unui taur",
@@ -30467,11 +31051,50 @@
        "translit": "ufnē șor",
        "strong": "H7794",
        "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
-       "def_ro": "fața unui taur/bou (ufnē șor).",
-       "dict_ro": "Radak relatează, la finalul capitolului, o tradiție legată de cele patru chipuri ale carului și cele patru steaguri (degalim) ale taberei lui Israel în pustie: steagul lui Iuda avea chip de leu („pui de leu, Iuda”), cel al lui Ruben chip de om, cel al lui Dan chip de vultur, iar cel al lui Efraim chip de taur — motiv pentru care tocmai tribul lui Efraim, asociat cu chipul taurului din car, a făcut vițelul de aur, confundând o imagine sfântă cu un idol."
+       "def_ro": "fața unui taur (ufne shor)",
+       "dict_ro": "Fața de taur este a treia dintre cele patru chipuri."
       },
       {
-       "t": " la stânga celor patru și fața unui vultur la cele patru."
+       "t": " "
+      },
+      {
+       "t": "la stânga celor patru",
+       "w": "la stânga celor patru",
+       "heb": "מֵהַשְּׂמֹאול לְאַרְבַּעְתָּן",
+       "translit": "mēhasmovl learbatan",
+       "strong": "H702",
+       "pos": "substantiv, masculin singular + numeral + sufix",
+       "def_ro": "la stânga celor patru (mehasmovl learbatan)",
+       "dict_ro": "Fața de taur era situată la stânga feței de om, pentru toate cele patru ființe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și fața unui vultur",
+       "w": "și fața unui vultur",
+       "heb": "וּפְנֵי נֶשֶׁר",
+       "translit": "ufnē neșer",
+       "strong": "H5404",
+       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
+       "def_ro": "și fața unui vultur (ufne nesher)",
+       "dict_ro": "Fața de vultur completează setul celor patru chipuri, orientată spre partea din spate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la cele patru",
+       "w": "la cele patru",
+       "heb": "לְאַרְבַּעְתָּן",
+       "translit": "learbatan",
+       "strong": "H702",
+       "pos": "numeral + sufix",
+       "def_ro": "la cele patru (learbatan)",
+       "dict_ro": "Radak notează, printr-o tradiție rabinică, legătura dintre aceste patru fețe și cele patru steaguri ale taberei lui Israel în pustie: Iuda (leu), Reuben (om), Efraim (taur) și Dan (vultur), fiecare desemnat prin versete biblice distincte legate de strămoșul respectiv."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30507,7 +31130,56 @@
      "translit": "Ufeneihem vekanfeihem perudot milmaala leiș șetaim hovrot iș ușetaim mehasot et ghevioteihena.",
      "tokens": [
       {
-       "t": "Iar fețele lor: aripile se întindeau de sus; două se uneau pentru fiecare [față] și două le acopereau trupurile."
+       "t": "Iar fețele lor",
+       "w": "Iar fețele lor",
+       "heb": "וּפְנֵיהֶם",
+       "translit": "ufnēhem",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "Iar fețele lor (ufnehem)",
+       "dict_ro": "Rashi explică faptul că acest cuvânt stă separat, marcat de un accent de pauză, pentru a nu se lega direct de restul versetului."
+      },
+      {
+       "t": ": "
+      },
+      {
+       "t": "aripile se întindeau de sus",
+       "w": "aripile se întindeau de sus",
+       "heb": "וְכַנְפֵיהֶם פְּרֻדוֹת מִלְמָעְלָה",
+       "translit": "vehanfēhem perudot milmala",
+       "strong": "H4605",
+       "pos": "substantiv, feminin dual construct + sufix + verb, qal participiu pasiv + adverb",
+       "def_ro": "aripile se întindeau de sus (vehanfehem perudot milmala)",
+       "dict_ro": "Rashi explică faptul că aripile erau întinse mai sus decât fețele, acoperindu-le de sus."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "două se uneau pentru fiecare [față]",
+       "w": "două se uneau pentru fiecare [față]",
+       "heb": "לְאִישׁ שְׁתַּיִם חֹבְרוֹת אִישׁ",
+       "translit": "leiș șetaim hovrot iș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular + numeral + verb, qal participiu + substantiv, masculin singular",
+       "def_ro": "două se uneau pentru fiecare [față] (leish shetaim hovrot ish)",
+       "dict_ro": "Rashi explică faptul că, pentru fiecare dintre cele patru fețe, câte două aripi ale ființelor vecine se uneau una cu cealaltă, acoperind astfel fețele dintre ele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și două le acopereau trupurile",
+       "w": "și două le acopereau trupurile",
+       "heb": "וּשְׁתַּיִם מְכַסּוֹת גְּוִיֹתֵיהֶנָה",
+       "translit": "uștaim mehasot geviotēhena",
+       "strong": "H1472",
+       "pos": "numeral + verb, piel participiu + substantiv, feminin plural construct + sufix",
+       "def_ro": "și două le acopereau trupurile (ushtaim mehasot geviotehena)",
+       "dict_ro": "Rashi explică faptul că celelalte două aripi rămase acopereau trupurile ființelor."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30538,7 +31210,56 @@
      "translit": "Veiș el-ever panav ielehu el așer ihie-șama haruah lalehet ielehu lo isabu belehtan.",
      "tokens": [
       {
-       "t": "Și fiecare din ele mergea drept înainte; în direcția către care le îndemna duhul să meargă, mergeau; nu se întorceau când mergeau."
+       "t": "Și fiecare din ele mergea drept înainte",
+       "w": "Și fiecare din ele mergea drept înainte",
+       "heb": "וְאִישׁ אֶל עֵבֶר פָּנָיו יֵלֵכוּ",
+       "translit": "veiș el ēver panaiv iēlēhu",
+       "strong": "H3212",
+       "pos": "substantiv, masculin singular + prepoziție + substantiv, masculin singular construct + substantiv, masculin și feminin plural construct + sufix + verb, qal imperfect",
+       "def_ro": "Și fiecare din ele mergea drept înainte (veish el ever panaiv ielehu)",
+       "dict_ro": "Rashi explică faptul că fiecare înaintează spre direcția spre care privește, fără a-și schimba poziția fețelor."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "în direcția către care le îndemna duhul să meargă",
+       "w": "în direcția către care le îndemna duhul să meargă",
+       "heb": "אֶל אֲשֶׁר יִהְיֶה שָׁמָּה הָרוּחַ לָלֶכֶת",
+       "translit": "el așer ihie șama haruah lalehet",
+       "strong": "H3212",
+       "pos": "prepoziție + particulă relativă + verb, qal imperfect + adverb + substantiv, masculin și feminin singular + verb, qal infinitiv",
+       "def_ro": "în direcția către care le îndemna duhul să meargă (el asher ihie shama haruah lalehet)",
+       "dict_ro": "Rashi explică faptul că «duhul» desemnează voința divină de a merge într-o direcție anume."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "mergeau",
+       "w": "mergeau",
+       "heb": "יֵלֵכוּ",
+       "translit": "iēlēhu",
+       "strong": "H3212",
+       "pos": "verb, qal imperfect",
+       "def_ro": "mergeau (ielehu)",
+       "dict_ro": "Verbul confirmă mișcarea efectivă în direcția voită."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "nu se întorceau când mergeau",
+       "w": "nu se întorceau când mergeau",
+       "heb": "לֹא יִסַּבּוּ בְּלֶכְתָּן",
+       "translit": "lo isabu belehtan",
+       "strong": "H3212",
+       "pos": "particulă negativă + verb, nifal imperfect + verb, qal infinitiv + sufix",
+       "def_ro": "nu se întorceau când mergeau (lo isabu belehtan)",
+       "dict_ro": "Repetarea ideii din versetul anterior întărește imaginea mișcării perfect sincronizate, fără întoarceri."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30569,7 +31290,82 @@
      "translit": "Udemut hahaiot marehem kegahalei-eș boarot kemare halapidim hi mithalehet bein hahaiot venoga laeș umin-haeș ioțe barak.",
      "tokens": [
       {
-       "t": "Iar înfățișarea ființelor: înfățișarea lor era precum cea a cărbunilor aprinși, arzând asemenea unor torțe; și [înfățișarea] se manifesta în mijlocul ființelor. Era o strălucire a focului și din foc ieșeau străfulgerări."
+       "t": "Iar înfățișarea ființelor",
+       "w": "Iar înfățișarea ființelor",
+       "heb": "וּדְמוּת הַחַיּוֹת מַרְאֵיהֶם",
+       "translit": "udmut hahaiot marēhem",
+       "strong": "H4758",
+       "pos": "substantiv, feminin singular construct + substantiv, feminin plural + substantiv, masculin singular construct + sufix",
+       "def_ro": "Iar înfățișarea ființelor (udmut hahaiot marehem)",
+       "dict_ro": "Introduce descrierea aspectului vizual general al celor patru ființe vii."
+      },
+      {
+       "t": ": înfățișarea lor "
+      },
+      {
+       "t": "era precum cea a cărbunilor aprinși",
+       "w": "era precum cea a cărbunilor aprinși",
+       "heb": "כְּגַחֲלֵי אֵשׁ בֹּעֲרוֹת",
+       "translit": "kegahalē ēș boarot",
+       "strong": "H1197",
+       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin și feminin singular + verb, qal participiu",
+       "def_ro": "era precum cea a cărbunilor aprinși (kegahale esh boarot)",
+       "dict_ro": "Metzudat David explică faptul că forma și culoarea ființelor era asemenea cărbunilor aprinși, arzând."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "arzând asemenea unor torțe",
+       "w": "arzând asemenea unor torțe",
+       "heb": "כְּמַרְאֵה הַלַּפִּדִים",
+       "translit": "kemarē halapidim",
+       "strong": "H3940",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
+       "def_ro": "arzând asemenea unor torțe (kemare halapidim)",
+       "dict_ro": "Comparația cu torțele întărește imaginea unei lumini vii, în continuă ardere."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "și [înfățișarea] se manifesta în mijlocul ființelor",
+       "w": "și [înfățișarea] se manifesta în mijlocul ființelor",
+       "heb": "הִיא מִתְהַלֶּכֶת בֵּין הַחַיּוֹת",
+       "translit": "hi mithalehet bēn hahaiot",
+       "strong": "H2416",
+       "pos": "pronume personal + verb, hitpael participiu + prepoziție + substantiv, feminin plural",
+       "def_ro": "și [înfățișarea] se manifesta în mijlocul ființelor (hi mithalehet ben hahaiot)",
+       "dict_ro": "Rashi explică faptul că această înfățișare de foc se mișca printre toate ființele, fiind comună tuturor, nu specifică uneia singure."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Era o strălucire a focului",
+       "w": "Era o strălucire a focului",
+       "heb": "וְנֹגַהּ לָאֵשׁ",
+       "translit": "venogah laēș",
+       "strong": "H784",
+       "pos": "substantiv, feminin singular + substantiv, masculin și feminin singular",
+       "def_ro": "Era o strălucire a focului (venogah laesh)",
+       "dict_ro": "Rashi explică faptul că strălucirea acelui foc era mai intensă decât a focului obișnuit, cunoscut de oameni."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și din foc ieșeau străfulgerări",
+       "w": "și din foc ieșeau străfulgerări",
+       "heb": "וּמִן הָאֵשׁ יוֹצֵא בָרָק",
+       "translit": "umin haēș ioțē varak",
+       "strong": "H1300",
+       "pos": "prepoziție + substantiv, masculin și feminin singular + verb, qal participiu + substantiv, masculin singular",
+       "def_ro": "și din foc ieșeau străfulgerări (umin haesh ioetze varak)",
+       "dict_ro": "Din mijlocul acelui foc ieșeau fulgere, imagine a puterii incandescente a viziunii."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30600,7 +31396,43 @@
      "translit": "Vehahaiot ratzo vașov kemare habazak.",
      "tokens": [
       {
-       "t": "Și ființele fugeau încolo și încoace ca fulgerul."
+       "t": "Și ființele",
+       "w": "Și ființele",
+       "heb": "וְהַחַיּוֹת",
+       "translit": "vehahaiot",
+       "strong": "H2416",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "Și ființele (vehahaiot)",
+       "dict_ro": "Introduce mișcarea rapidă și continuă a ființelor vii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fugeau încolo și încoace",
+       "w": "fugeau încolo și încoace",
+       "heb": "רָצוֹא וָשׁוֹב",
+       "translit": "rațo vașov",
+       "strong": "H7725",
+       "pos": "verb, qal infinitiv absolut + verb, qal infinitiv absolut",
+       "def_ro": "fugeau încolo și încoace (ratzo vashov)",
+       "dict_ro": "Talmudul (Hagiga 13) explică mișcarea «încolo și încoace» prin imaginea flăcării unui cuptor, care țâșnește mereu afară și se retrage grăbit înapoi — tot așa, ființele, ieșind cu capul de sub firmamentul întins peste ele, se retrag grăbite, cutremurate de prezența Șechinei de dincolo de firmament."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca fulgerul",
+       "w": "ca fulgerul",
+       "heb": "כְּמַרְאֵה הַבָּזָק",
+       "translit": "kemarē habazak",
+       "strong": "H965",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "ca fulgerul (kemare habazak)",
+       "dict_ro": "Rashi redă expresia în franceza veche «delatancila», comparând strălucirea cu culoarea focului care țâșnește printre cărămizile unui cuptor unde se rafinează aurul — o lumină pestriță, vie, de o viteză fulgerătoare."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30631,20 +31463,56 @@
      "translit": "Vaere hahaiot vehine ofan ehad baareț etzel hahaiot learbat panav.",
      "tokens": [
       {
-       "t": "Și când am văzut ființele, iată, "
+       "t": "Și când am văzut ființele",
+       "w": "Și când am văzut ființele",
+       "heb": "וָאֵרֶא הַחַיּוֹת",
+       "translit": "vaēre hahaiot",
+       "strong": "H2416",
+       "pos": "verb, qal imperfect consecutiv + substantiv, feminin plural",
+       "def_ro": "Și când am văzut ființele (vaere hahaiot)",
+       "dict_ro": "Introduce apariția unui nou element al viziunii: roțile de sub ființele vii."
       },
       {
-       "t": "o roată",
-       "w": "o roată",
-       "heb": "אוֹפַן",
-       "translit": "ofan",
-       "strong": "H212",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "o roată (ofan).",
-       "dict_ro": "Rashi citează o tradiție talmudică îndrăzneață (Hagiga 13b): „aceasta e Sandalfon”, un înger care stă pe pământ cu capul ajungând între ființele cerești — dar adaugă imediat precauția cuvenită: din simplul sens al textului se învață doar că roțile erau patru, câte una pentru fiecare ființă, fără alte speculații."
+       "t": ", "
       },
       {
-       "t": " era pe pământ lângă fiecare ființă, lângă cele patru fețe ale sale."
+       "t": "iată, o roată era pe pământ",
+       "w": "iată, o roată era pe pământ",
+       "heb": "וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ",
+       "translit": "vehinē ofan ehad baareț",
+       "strong": "H776",
+       "pos": "particulă demonstrativă + substantiv, masculin singular + numeral + substantiv, masculin și feminin singular",
+       "def_ro": "iată, o roată era pe pământ (vehine ofan ehad baaretz)",
+       "dict_ro": "Rashi explică faptul că roata se afla pe suprafața întărită a firmamentului; tradiția rabinică (Hagiga 13) identifică această roată cu îngerul Sandalfon, care stă pe pământ cu capul ajungând până la ființele vii — dar, potrivit sensului literal, textul arată clar că erau patru roți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lângă fiecare ființă",
+       "w": "lângă fiecare ființă",
+       "heb": "אֵצֶל הַחַיּוֹת",
+       "translit": "ēțel hahaiot",
+       "strong": "H2416",
+       "pos": "prepoziție + substantiv, feminin plural",
+       "def_ro": "lângă fiecare ființă (etzel hahaiot)",
+       "dict_ro": "Fiecare dintre cele patru ființe avea propria roată, așezată alături de ea."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "lângă cele patru fețe ale sale",
+       "w": "lângă cele patru fețe ale sale",
+       "heb": "לְאַרְבַּעַת פָּנָיו",
+       "translit": "learbaat panaiv",
+       "strong": "H6440",
+       "pos": "numeral + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "lângă cele patru fețe ale sale (learbaat panaiv)",
+       "dict_ro": "Roata era poziționată astfel încât să corespundă celor patru fețe ale ființei respective."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30680,7 +31548,82 @@
      "translit": "Mare haofanim umaaseihem keein tarșiș udemut ehad learbatan umareihem umaaseihem kaașer ihie haofan betoh haofan.",
      "tokens": [
       {
-       "t": "Înfățișarea roților și purtarea lor erau ca beriliul, semănând toate patru unele cu altele; iar înfățișarea și purtarea lor era ca o roată într-o roată."
+       "t": "Înfățișarea roților",
+       "w": "Înfățișarea roților",
+       "heb": "מַרְאֵה הָאוֹפַנִּים",
+       "translit": "marē haofanim",
+       "strong": "H212",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
+       "def_ro": "Înfățișarea roților (mare haofanim)",
+       "dict_ro": "Descrie aspectul vizual al roților, complementând înfățișarea deja descrisă a ființelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și purtarea lor",
+       "w": "și purtarea lor",
+       "heb": "וּמַעֲשֵׂיהֶם",
+       "translit": "umaasēhem",
+       "strong": "H4639",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "și purtarea lor (umaasehem)",
+       "dict_ro": "«Purtarea/lucrarea» lor desemnează mișcarea și funcționarea roților, nu doar forma lor statică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "erau ca beriliul",
+       "w": "erau ca beriliul",
+       "heb": "כְּעֵין תַּרְשִׁישׁ",
+       "translit": "keēn tarșiș",
+       "strong": "H8658",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, masculin singular",
+       "def_ro": "erau ca beriliul (keen tarshish)",
+       "dict_ro": "Rashi explică faptul că «tarșiș» este o piatră prețioasă, asemănătoare cristalului, de un galben-verzui strălucitor."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "semănând toate patru unele cu altele",
+       "w": "semănând toate patru unele cu altele",
+       "heb": "וּדְמוּת אֶחָד לְאַרְבַּעְתָּן",
+       "translit": "udmut ehad learbatan",
+       "strong": "H702",
+       "pos": "substantiv, feminin singular + numeral + numeral + sufix",
+       "def_ro": "semănând toate patru unele cu altele (udmut ehad learbatan)",
+       "dict_ro": "Toate cele patru roți erau identice ca aspect și mișcare."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "iar înfățișarea și purtarea lor",
+       "w": "iar înfățișarea și purtarea lor",
+       "heb": "וּמַרְאֵיהֶם וּמַעֲשֵׂיהֶם",
+       "translit": "umarēhem umaasēhem",
+       "strong": "H4639",
+       "pos": "substantiv, masculin plural construct + sufix + substantiv, masculin plural construct + sufix",
+       "def_ro": "iar înfățișarea și purtarea lor (umarehem umaasehem)",
+       "dict_ro": "Repetarea descrierii «înfățișare și purtare» întărește ideea unității depline dintre formă și funcționare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "era ca o roată într-o roată",
+       "w": "era ca o roată într-o roată",
+       "heb": "כַּאֲשֶׁר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן",
+       "translit": "kaașer ihie haofan betoh haofan",
+       "strong": "H212",
+       "pos": "particulă relativă + verb, qal imperfect + substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "era ca o roată într-o roată (kaasher ihie haofan betoh haofan)",
+       "dict_ro": "Rashi explică faptul că în interiorul fiecărei roți era fixată o a doua roată, perpendiculară, ca o cruce, pentru ca ansamblul să se poată deplasa, fără a se întoarce, spre orice direcție cardinală, exact așa cum ființele înseși mergeau spre orice direcție fără să-și întoarcă fețele."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30711,7 +31654,43 @@
      "translit": "Al-arbat riveihen belehtam ielehu lo isabu belehtan.",
      "tokens": [
       {
-       "t": "Spre cele patru laturi ale lor, oriunde mergeau, mergeau; nu se întorceau când mergeau."
+       "t": "Spre cele patru laturi ale lor",
+       "w": "Spre cele patru laturi ale lor",
+       "heb": "עַל אַרְבַּעַת רִבְעֵיהֶן",
+       "translit": "al arbaat rivēhen",
+       "strong": "H7253",
+       "pos": "prepoziție + numeral + substantiv, masculin plural construct + sufix",
+       "def_ro": "Spre cele patru laturi ale lor (al arbaat rivehen)",
+       "dict_ro": "Rashi explică faptul că repetarea acestei imagini pentru roți — după ce fusese spusă deja despre ființe — arată că roțile nu rămân în urmă sau nu împiedică mișcarea ființelor, ci sunt și ele pregătite pentru aceeași mișcare liberă în toate direcțiile."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "oriunde mergeau, mergeau",
+       "w": "oriunde mergeau, mergeau",
+       "heb": "בְּלֶכְתָּם יֵלֵכוּ",
+       "translit": "belehtam iēlēhu",
+       "strong": "H3212",
+       "pos": "verb, qal infinitiv + sufix + verb, qal imperfect",
+       "def_ro": "oriunde mergeau, mergeau (belehtam ielehu)",
+       "dict_ro": "Confirmă capacitatea roților de a se deplasa spre orice direcție, în sincron cu ființele."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "nu se întorceau când mergeau",
+       "w": "nu se întorceau când mergeau",
+       "heb": "לֹא יִסַּבּוּ בְּלֶכְתָּן",
+       "translit": "lo isabu belehtan",
+       "strong": "H3212",
+       "pos": "particulă negativă + verb, nifal imperfect + verb, qal infinitiv + sufix",
+       "def_ro": "nu se întorceau când mergeau (lo isabu belehtan)",
+       "dict_ro": "Repetarea ideii de mișcare dreaptă, fără întoarcere, se aplică și roților, nu doar ființelor."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30742,7 +31721,82 @@
      "translit": "Vegabeihen vegova lahem veira lahem vegabotam meleot einaim saviv learbatan.",
      "tokens": [
       {
-       "t": "Aveau spate și erau înalte și înfricoșătoare, și spatele lor era plin de ochi, de jur împrejur, pentru cele patru [ființe]."
+       "t": "Aveau spate",
+       "w": "Aveau spate",
+       "heb": "וְגַבֵּיהֶן",
+       "translit": "vegabēhen",
+       "strong": "H1354",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "Aveau spate (vegabehen)",
+       "dict_ro": "Rashi explică simplu: aveau spate — o parte din structura lor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și erau înalte",
+       "w": "și erau înalte",
+       "heb": "וְגֹבַהּ לָהֶם",
+       "translit": "vegovah lahem",
+       "strong": "",
+       "pos": "substantiv, masculin singular + prepoziție + sufix",
+       "def_ro": "și erau înalte (vegovah lahem)",
+       "dict_ro": "Metzudat David explică faptul că aceste spate înalte erau de fapt pereții ridicați ai carului, deasupra roților, în care un conducător ar putea să stea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și înfricoșătoare",
+       "w": "și înfricoșătoare",
+       "heb": "וְיִרְאָה לָהֶם",
+       "translit": "veira lahem",
+       "strong": "",
+       "pos": "substantiv, feminin singular + prepoziție + sufix",
+       "def_ro": "și înfricoșătoare (veira lahem)",
+       "dict_ro": "Rashi explică faptul că înălțimea lor copleșitoare inspira teamă celui care le privea."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și spatele lor era plin de ochi",
+       "w": "și spatele lor era plin de ochi",
+       "heb": "וְגַבֹּתָם מְלֵאֹת עֵינַיִם",
+       "translit": "vegabotam melēot ēnaim",
+       "strong": "H5869",
+       "pos": "substantiv, masculin și feminin plural construct + sufix + adjectiv, feminin plural + substantiv, masculin și feminin dual",
+       "def_ro": "și spatele lor era plin de ochi (vegabotam meleot enaim)",
+       "dict_ro": "Rashi explică faptul că spatele lor era acoperit cu ochi de jur împrejur, pentru a putea privi spre orice direcție, întrucât nu se întorceau niciodată în mers."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "de jur împrejur",
+       "w": "de jur împrejur",
+       "heb": "סָבִיב",
+       "translit": "saviv",
+       "strong": "H5439",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "de jur împrejur (saviv)",
+       "dict_ro": "Ochii erau dispuși pe toată circumferința spatelui, fără nicio zonă oarbă."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "pentru cele patru [ființe]",
+       "w": "pentru cele patru [ființe]",
+       "heb": "לְאַרְבַּעְתָּן",
+       "translit": "learbatan",
+       "strong": "H702",
+       "pos": "numeral + sufix",
+       "def_ro": "pentru cele patru [ființe] (learbatan)",
+       "dict_ro": "Această descriere se aplică identic tuturor celor patru roți/ființe."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30773,7 +31827,56 @@
      "translit": "Uvelehet hahaiot ielehu haofanim etzlam uvehinase hahaiot meal haareț inaseu haofanim.",
      "tokens": [
       {
-       "t": "Când ființele mergeau, roțile se mișcau cu ele. Iar când ființele se ridicau de la suprafață, se ridicau și roțile."
+       "t": "Când ființele mergeau",
+       "w": "Când ființele mergeau",
+       "heb": "וּבְלֶכֶת הַחַיּוֹת",
+       "translit": "uvlehet hahaiot",
+       "strong": "H2416",
+       "pos": "verb, qal infinitiv + substantiv, feminin plural",
+       "def_ro": "Când ființele mergeau (uvlehet hahaiot)",
+       "dict_ro": "Confirmă sincronizarea perfectă dintre mișcarea ființelor și a roților."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "roțile se mișcau cu ele",
+       "w": "roțile se mișcau cu ele",
+       "heb": "יֵלְכוּ הָאוֹפַנִּים אֶצְלָם",
+       "translit": "iēlhu haofanim ețlam",
+       "strong": "H681",
+       "pos": "verb, qal imperfect + substantiv, masculin plural + prepoziție + sufix",
+       "def_ro": "roțile se mișcau cu ele (ielhu haofanim etzlam)",
+       "dict_ro": "Rashi, redând traducerea aramaică, explică faptul că roțile se înălțau de la pământ către cer, urmând exact mișcarea ființelor de deasupra lor."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Iar când ființele se ridicau de la suprafață",
+       "w": "Iar când ființele se ridicau de la suprafață",
+       "heb": "וּבְהִנָּשֵׂא הַחַיּוֹת מֵעַל הָאָרֶץ",
+       "translit": "uvhinasē hahaiot mēal haareț",
+       "strong": "H776",
+       "pos": "verb, nifal infinitiv + substantiv, feminin plural + prepoziție + substantiv, masculin și feminin singular",
+       "def_ro": "Iar când ființele se ridicau de la suprafață (uvhinase hahaiot meal haaretz)",
+       "dict_ro": "Descrie momentul ridicării ființelor de pe suprafața firmamentului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "se ridicau și roțile",
+       "w": "se ridicau și roțile",
+       "heb": "יִנָּשְׂאוּ הָאוֹפַנִּים",
+       "translit": "inasu haofanim",
+       "strong": "H212",
+       "pos": "verb, nifal imperfect + substantiv, masculin plural",
+       "def_ro": "se ridicau și roțile (inasu haofanim)",
+       "dict_ro": "Roțile urmau întotdeauna mișcarea de înălțare a ființelor, fără întârziere."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30804,7 +31907,69 @@
      "translit": "Al așer ihie-șam haruah lalehet ielehu șama haruah lalehet vehaofanim inaseu leumatam ki ruah hahaia baofanim.",
      "tokens": [
       {
-       "t": "Oriunde le conducea duhul să meargă, mergeau, acolo unde le conducea duhul, iar roțile se ridicau odată cu ele, căci duhul ființei era în roată."
+       "t": "Oriunde le conducea duhul să meargă",
+       "w": "Oriunde le conducea duhul să meargă",
+       "heb": "עַל אֲשֶׁר יִהְיֶה שָּׁם הָרוּחַ לָלֶכֶת",
+       "translit": "al așer ihie șam haruah lalehet",
+       "strong": "H3212",
+       "pos": "prepoziție + particulă relativă + verb, qal imperfect + adverb + substantiv, masculin și feminin singular + verb, qal infinitiv",
+       "def_ro": "Oriunde le conducea duhul să meargă (al asher ihie sham haruah lalehet)",
+       "dict_ro": "Rashi explică faptul că «duhul» desemnează aici voința lui Dumnezeu."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "mergeau",
+       "w": "mergeau",
+       "heb": "יֵלֵכוּ",
+       "translit": "iēlēhu",
+       "strong": "H3212",
+       "pos": "verb, qal imperfect",
+       "def_ro": "mergeau (ielehu)",
+       "dict_ro": "Mișcarea efectivă confirmă supunerea deplină a ființelor voinței divine."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "acolo unde le conducea duhul",
+       "w": "acolo unde le conducea duhul",
+       "heb": "שָׁמָּה הָרוּחַ לָלֶכֶת",
+       "translit": "șama haruah lalehet",
+       "strong": "H3212",
+       "pos": "adverb + substantiv, masculin și feminin singular + verb, qal infinitiv",
+       "def_ro": "acolo unde le conducea duhul (shama haruah lalehet)",
+       "dict_ro": "Rashi explică faptul că nu era nevoie ca cineva să le spună încotro să se îndrepte, pentru că voința lui Dumnezeu era deja în ființe, și voința ființei era, la rândul ei, în roți."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "iar roțile se ridicau odată cu ele",
+       "w": "iar roțile se ridicau odată cu ele",
+       "heb": "וְהָאוֹפַנִּים יִנָּשְׂאוּ לְעֻמָּתָם",
+       "translit": "vehaofanim inasu leumatam",
+       "strong": "H5980",
+       "pos": "substantiv, masculin plural + verb, nifal imperfect + substantiv, feminin singular construct + sufix",
+       "def_ro": "iar roțile se ridicau odată cu ele (vehaofanim inasu leumatam)",
+       "dict_ro": "Roțile urmau, fără întârziere, orice mișcare de înălțare a ființelor."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "căci duhul ființei era în roată",
+       "w": "căci duhul ființei era în roată",
+       "heb": "כִּי רוּחַ הַחַיָּה בָּאוֹפַנִּים",
+       "translit": "ki ruah hahaia baofanim",
+       "strong": "H212",
+       "pos": "conjuncție + substantiv, masculin și feminin singular construct + substantiv, feminin singular + substantiv, masculin plural",
+       "def_ro": "căci duhul ființei era în roată (ki ruah hahaia baofanim)",
+       "dict_ro": "Rashi explică lanțul de transmitere a voinței: de la Dumnezeu către ființe, și de la ființe către roți, unind întregul ansamblu într-o singură mișcare armonioasă."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30835,7 +32000,69 @@
      "translit": "Belehtam ielehu uveomdam iaamodu uvehinaseam meal haareț inaseu haofanim leumatam ki ruah hahaia baofanim.",
      "tokens": [
       {
-       "t": "Când se mișcau [unele], se mișcau [și celelalte] și când se opreau, se opreau [și celelalte]. Și când se ridicau de pe pământ, roțile se ridicau în fața lor, căci duhul [fiecărei] ființe era în roți."
+       "t": "Când se mișcau [unele], se mișcau [și celelalte]",
+       "w": "Când se mișcau [unele], se mișcau [și celelalte]",
+       "heb": "בְּלֶכְתָּם יֵלֵכוּ",
+       "translit": "belehtam iēlēhu",
+       "strong": "H3212",
+       "pos": "verb, qal infinitiv + sufix + verb, qal imperfect",
+       "def_ro": "Când se mișcau [unele], se mișcau [și celelalte] (belehtam ielehu)",
+       "dict_ro": "Metzudat David explică faptul că repetiția acestei idei, deja spusă mai sus, are rolul de a întări permanența legii mișcării sincronizate — aceasta nu se va schimba niciodată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și când se opreau, se opreau [și celelalte]",
+       "w": "și când se opreau, se opreau [și celelalte]",
+       "heb": "וּבְעָמְדָם יַעֲמֹדוּ",
+       "translit": "uvamdam iaamodu",
+       "strong": "H5975",
+       "pos": "verb, qal infinitiv + sufix + verb, qal imperfect",
+       "def_ro": "și când se opreau, se opreau [și celelalte] (uvamdam iaamodu)",
+       "dict_ro": "Repetă ideea opririi simultane, pentru a sublinia aceeași sincronizare perfectă."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Și când se ridicau de pe pământ",
+       "w": "Și când se ridicau de pe pământ",
+       "heb": "וּבְהִנָּשְׂאָם מֵעַל הָאָרֶץ",
+       "translit": "uvhinasam mēal haareț",
+       "strong": "H776",
+       "pos": "verb, nifal infinitiv + sufix + prepoziție + substantiv, masculin și feminin singular",
+       "def_ro": "Și când se ridicau de pe pământ (uvhinasam meal haaretz)",
+       "dict_ro": "Descrie momentul ridicării comune de pe suprafața firmamentului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "roțile se ridicau în fața lor",
+       "w": "roțile se ridicau în fața lor",
+       "heb": "יִנָּשְׂאוּ הָאוֹפַנִּים לְעֻמָּתָם",
+       "translit": "inasu haofanim leumatam",
+       "strong": "H5980",
+       "pos": "verb, nifal imperfect + substantiv, masculin plural + substantiv, feminin singular construct + sufix",
+       "def_ro": "roțile se ridicau în fața lor (inasu haofanim leumatam)",
+       "dict_ro": "Roțile răspund imediat oricărei mișcări ascendente a ființelor."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "căci duhul [fiecărei] ființe era în roți",
+       "w": "căci duhul [fiecărei] ființe era în roți",
+       "heb": "כִּי רוּחַ הַחַיָּה בָּאוֹפַנִּים",
+       "translit": "ki ruah hahaia baofanim",
+       "strong": "H212",
+       "pos": "conjuncție + substantiv, masculin și feminin singular construct + substantiv, feminin singular + substantiv, masculin plural",
+       "def_ro": "căci duhul [fiecărei] ființe era în roți (ki ruah hahaia baofanim)",
+       "dict_ro": "Reafirmarea finală a legăturii dintre voința divină din ființe și mișcarea roților, încheind descrierea tehnică a carului."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30865,7 +32092,69 @@
      "translit": "Udemut al-rașei hahaia rakia keein hakerah hanora natui al-rașeihem milmaala.",
      "tokens": [
       {
-       "t": "Iar înfățișarea bolții de deasupra capetelor ființei semăna cu o gheață înfricoșătoare răspândită peste capetele lor, de deasupra."
+       "t": "Iar înfățișarea bolții",
+       "w": "Iar înfățișarea bolții",
+       "heb": "וּדְמוּת רָקִיעַ",
+       "translit": "udmut rakia",
+       "strong": "H7549",
+       "pos": "substantiv, feminin singular + substantiv, masculin singular",
+       "def_ro": "Iar înfățișarea bolții (udmut rakia)",
+       "dict_ro": "Introduce un element nou al viziunii: firmamentul întins peste capetele ființelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de deasupra capetelor ființei",
+       "w": "de deasupra capetelor ființei",
+       "heb": "עַל רָאשֵׁי הַחַיָּה",
+       "translit": "al rașē hahaia",
+       "strong": "H2416",
+       "pos": "prepoziție + substantiv, masculin plural construct + substantiv, feminin singular",
+       "def_ro": "de deasupra capetelor ființei (al rashe hahaia)",
+       "dict_ro": "Rakia se întindea direct peste capul fiecăreia dintre ființele vii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "semăna cu o gheață înfricoșătoare",
+       "w": "semăna cu o gheață înfricoșătoare",
+       "heb": "כְּעֵין הַקֶּרַח הַנּוֹרָא",
+       "translit": "keēn hakerah hanora",
+       "strong": "H3372",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, masculin singular + verb, nifal participiu",
+       "def_ro": "semăna cu o gheață înfricoșătoare (keen hakerah hanora)",
+       "dict_ro": "Rashi, redând traducerea aramaică, explică faptul că strălucirea de gheață era de o albeață și o puritate care impuneau teamă celui ce privea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "răspândită peste capetele lor",
+       "w": "răspândită peste capetele lor",
+       "heb": "נָטוּי עַל רָאשֵׁיהֶם",
+       "translit": "natui al rașēhem",
+       "strong": "H7218",
+       "pos": "verb, qal participiu pasiv + prepoziție + substantiv, masculin plural construct + sufix",
+       "def_ro": "răspândită peste capetele lor (natui al rashehem)",
+       "dict_ro": "Firmamentul acoperea complet spațiul de deasupra capetelor ființelor."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "de deasupra",
+       "w": "de deasupra",
+       "heb": "מִלְמָעְלָה",
+       "translit": "milmala",
+       "strong": "H4605",
+       "pos": "adverb",
+       "def_ro": "de deasupra (milmala)",
+       "dict_ro": "Metzudat David explică faptul că firmamentul era întins deasupra lor, la o distanță suficientă pentru a lăsa loc dedesubt."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30896,7 +32185,69 @@
      "translit": "Vetahat harakia kanfeihem ieșarot ișa el-ahota leiș șetaim mehasot lahena uleiș șetaim mehasot lahena et ghevioteihem.",
      "tokens": [
       {
-       "t": "Și sub boltă, aripile lor era aliniate una cu cealaltă: pentru fiecare [față], două le acopereau, și pentru fiecare [față], două le acopereau – trupurile lor."
+       "t": "Și sub boltă",
+       "w": "Și sub boltă",
+       "heb": "וְתַחַת הָרָקִיעַ",
+       "translit": "vetahat harakia",
+       "strong": "H7549",
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "Și sub boltă (vetahat harakia)",
+       "dict_ro": "Precizează poziția aripilor în raport cu firmamentul descris mai sus."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "aripile lor era aliniate una cu cealaltă",
+       "w": "aripile lor era aliniate una cu cealaltă",
+       "heb": "כַּנְפֵיהֶם יְשָׁרוֹת אִשָּׁה אֶל אֲחוֹתָהּ",
+       "translit": "kanfēhem ieșarot ișa el ahotah",
+       "strong": "H269",
+       "pos": "substantiv, feminin dual construct + sufix + adjectiv, feminin plural + substantiv, feminin singular + prepoziție + substantiv, feminin singular construct + sufix",
+       "def_ro": "aripile lor era aliniate una cu cealaltă (kanfehem iesharot isha el ahotah)",
+       "dict_ro": "Radak explică faptul că acest cuvânt stă separat, confirmând că aripile erau drepte și aliniate, nu încovoiate."
+      },
+      {
+       "t": ": "
+      },
+      {
+       "t": "pentru fiecare [față], două le acopereau",
+       "w": "pentru fiecare [față], două le acopereau",
+       "heb": "לְאִישׁ שְׁתַּיִם מְכַסּוֹת לָהֵנָּה",
+       "translit": "leiș șetaim mehasot lahēna",
+       "strong": "H2007",
+       "pos": "substantiv, masculin singular + numeral + verb, piel participiu + pronume personal",
+       "def_ro": "pentru fiecare [față], două le acopereau (leish shetaim mehasot lahena)",
+       "dict_ro": "Repetă structura deja descrisă în versetul 11: pentru fiecare pereche de fețe, câte două aripi se unesc, acoperindu-le."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și pentru fiecare [față], două le acopereau",
+       "w": "și pentru fiecare [față], două le acopereau",
+       "heb": "וּלְאִישׁ שְׁתַּיִם מְכַסּוֹת לָהֵנָּה",
+       "translit": "uliș șetaim mehasot lahēna",
+       "strong": "H2007",
+       "pos": "substantiv, masculin singular + numeral + verb, piel participiu + pronume personal",
+       "def_ro": "și pentru fiecare [față], două le acopereau (uleish shetaim mehasot lahena)",
+       "dict_ro": "A doua repetare a formulei confirmă simetria perfectă aplicată la toate cele patru perechi."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "trupurile lor",
+       "w": "trupurile lor",
+       "heb": "אֵת גְּוִיֹּתֵיהֶם",
+       "translit": "ēt geviotēhem",
+       "strong": "H1472",
+       "pos": "marcă a complementului direct + substantiv, feminin plural construct + sufix",
+       "def_ro": "trupurile lor (et geviotehem)",
+       "dict_ro": "Celelalte două aripi, pentru fiecare ființă, acopereau trupul propriu-zis, nu fețele."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30927,20 +32278,108 @@
      "translit": "Vaeșma et-kol kanfeihem kekol maim rabim kekol-Șadai belehtam kol hamula kekol mahane beomdam terapena kanfeihem.",
      "tokens": [
       {
-       "t": "Apoi am auzit zgomotul aripilor lor, ca zgomotul apelor multe, ca "
+       "t": "Apoi am auzit zgomotul aripilor lor",
+       "w": "Apoi am auzit zgomotul aripilor lor",
+       "heb": "וָאֶשְׁמַע קוֹל כַּנְפֵיהֶם",
+       "translit": "vaeșma kol kanfēhem",
+       "strong": "H3671",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular construct + substantiv, feminin dual construct + sufix",
+       "def_ro": "Apoi am auzit zgomotul aripilor lor (vaeshma kol kanfehem)",
+       "dict_ro": "Introduce dimensiunea sonoră a viziunii, după descrierea vizuală amănunțită."
       },
       {
-       "t": "sunetul Atotputernicului",
-       "w": "sunetul Atotputernicului",
+       "t": ", "
+      },
+      {
+       "t": "ca zgomotul apelor multe",
+       "w": "ca zgomotul apelor multe",
+       "heb": "כְּקוֹל מַיִם רַבִּים",
+       "translit": "kekol maim rabim",
+       "strong": "H7227",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural + adjectiv, masculin plural",
+       "def_ro": "ca zgomotul apelor multe (kekol maim rabim)",
+       "dict_ro": "Rashi întreabă retoric: s-ar putea crede că e un sunet mic? Nu — textul arată imediat că e asemenea sunetului Atotputernicului, un zgomot copleșitor, ca al apelor multe."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ca sunetul Atotputernicului",
+       "w": "ca sunetul Atotputernicului",
        "heb": "כְּקוֹל שַׁדַּי",
        "translit": "kekol șadai",
        "strong": "H7706",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "sunetul Atotputernicului (kekol Șadai).",
-       "dict_ro": "Rashi întreabă retoric: s-ar putea crede că e un sunet slab? Nu — textul precizează „ca sunetul lui Șadai”, același sunet descris în Psalmul 29: «glasul Domnului în putere, glasul Domnului sfărâmă cedrii». Radak adaugă: glasul acesta, ca și cel de pe Sinai, deși imens de puternic, nu se auzea dincolo de limita rânduită — la Sinai nu s-a auzit dincolo de tabăra lui Israel, aici nu dincolo de curtea exterioară a viitorului Templu (cf. Ezechiel 10:5)."
+       "def_ro": "ca sunetul Atotputernicului (kekol shadai)",
+       "dict_ro": "Rashi leagă această comparație de Psalmul 29: «Glasul DOMNULUI cu putere, glasul DOMNULUI frânge cedrii» — o imagine a puterii absolute a sunetului divin."
       },
       {
-       "t": " când se mișcau, zgomotul cuvintelor ca zgomotul unei mari cete. Când s-au oprit, și-au întins aripile."
+       "t": " "
+      },
+      {
+       "t": "când se mișcau",
+       "w": "când se mișcau",
+       "heb": "בְּלֶכְתָּם",
+       "translit": "belehtam",
+       "strong": "H3212",
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "când se mișcau (belehtam)",
+       "dict_ro": "Zgomotul se producea exact în timpul mișcării ființelor și al roților."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "zgomotul cuvintelor",
+       "w": "zgomotul cuvintelor",
+       "heb": "קוֹל הֲמֻלָּה",
+       "translit": "kol hamula",
+       "strong": "H1999",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "zgomotul cuvintelor (kol hamula)",
+       "dict_ro": "Rashi, redând traducerea aramaică, explică faptul că acest zgomot era de fapt sunetul vorbelor de laudă și binecuvântare pe care ființele le aduceau înaintea Stăpânului lor, asemenea sunetului oștilor îngerești din înălțime."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca zgomotul unei mari cete",
+       "w": "ca zgomotul unei mari cete",
+       "heb": "כְּקוֹל מַחֲנֶה",
+       "translit": "kekol mahane",
+       "strong": "H4264",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "ca zgomotul unei mari cete (kekol mahane)",
+       "dict_ro": "Compararea cu o mare tabără militară subliniază amploarea și intensitatea zgomotului colectiv."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Când s-au oprit",
+       "w": "Când s-au oprit",
+       "heb": "בְּעָמְדָם",
+       "translit": "beamdam",
+       "strong": "H5975",
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "Când s-au oprit (beamdam)",
+       "dict_ro": "Descrie momentul opririi mișcării ființelor și roților."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și-au întins aripile",
+       "w": "și-au întins aripile",
+       "heb": "תְּרַפֶּינָה כַנְפֵיהֶן",
+       "translit": "terapena hanfēhen",
+       "strong": "H3671",
+       "pos": "verb, piel imperfect + substantiv, feminin dual construct + sufix",
+       "def_ro": "și-au întins aripile (terapena kanfehen)",
+       "dict_ro": "Rashi, redând traducerea aramaică, explică faptul că aripile tăceau din pricina glasului divin care se făcea auzit de sus — glasul descris în versetul următor; o tradiție midrashică adaugă că ființele se opreau din zburat pentru ca drepții să poată lăuda primii pe Dumnezeu."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -30981,7 +32420,56 @@
      "translit": "Vaihi-kol meal larakia așer al-roșam beomdam terapena kanfeihem.",
      "tokens": [
       {
-       "t": "Și era un zgomot de deasupra bolții care era peste capetele lor, iar când s-au oprit, și-au întins aripile."
+       "t": "Și era un zgomot de deasupra bolții",
+       "w": "Și era un zgomot de deasupra bolții",
+       "heb": "וַיְהִי קוֹל מֵעַל לָרָקִיעַ",
+       "translit": "vaihi kol mēal larakia",
+       "strong": "H7549",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + prepoziție + substantiv, masculin singular",
+       "def_ro": "Și era un zgomot de deasupra bolții (vaihi kol meal larakia)",
+       "dict_ro": "Rashi, redând traducerea aramaică, explică faptul că acest glas se făcea auzit atunci când era voia Celui de Sus de a-Și face poruncile cunoscute profeților Săi, auzit de deasupra firmamentului, dintre cherubimi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care era peste capetele lor",
+       "w": "care era peste capetele lor",
+       "heb": "אֲשֶׁר עַל רֹאשָׁם",
+       "translit": "așer al roșam",
+       "strong": "H7218",
+       "pos": "particulă relativă + prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "care era peste capetele lor (asher al rosham)",
+       "dict_ro": "Firmamentul se afla, la rândul lui, direct peste capetele ființelor."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "iar când s-au oprit",
+       "w": "iar când s-au oprit",
+       "heb": "בְּעָמְדָם",
+       "translit": "beamdam",
+       "strong": "H5975",
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "iar când s-au oprit (beamdam)",
+       "dict_ro": "Precizează din nou momentul opririi, pregătind descrierea tronului de mai jos."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și-au întins aripile",
+       "w": "și-au întins aripile",
+       "heb": "תְּרַפֶּינָה כַנְפֵיהֶן",
+       "translit": "terapena hanfēhen",
+       "strong": "H3671",
+       "pos": "verb, piel imperfect + substantiv, feminin dual construct + sufix",
+       "def_ro": "și-au întins aripile (terapena kanfehen)",
+       "dict_ro": "Rashi explică faptul că aripile se opreau din pricina fricii provocate de glasul divin care răsuna."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -31011,20 +32499,95 @@
      "translit": "Umimaal larakia așer al-roșam kemare even-sapir demut kise veal demut hakise demut kemare adam alav milmaala.",
      "tokens": [
       {
-       "t": "Deasupra bolții care era peste capetele lor era precum piatra de safir sub forma unui tron; și pe forma tronului era "
+       "t": "Deasupra bolții",
+       "w": "Deasupra bolții",
+       "heb": "וּמִמַּעַל לָרָקִיעַ",
+       "translit": "umimaal larakia",
+       "strong": "H7549",
+       "pos": "adverb + substantiv, masculin singular",
+       "def_ro": "Deasupra bolții (umimaal larakia)",
+       "dict_ro": "Introduce punctul culminant al viziunii: ceea ce se vede deasupra firmamentului."
       },
       {
-       "t": "precum înfățișarea unui om",
-       "w": "precum înfățișarea unui om",
-       "heb": "כְּמַרְאֵה אָדָם",
-       "translit": "kemarē adam",
+       "t": " "
+      },
+      {
+       "t": "care era peste capetele lor",
+       "w": "care era peste capetele lor",
+       "heb": "אֲשֶׁר עַל רֹאשָׁם",
+       "translit": "așer al roșam",
+       "strong": "H7218",
+       "pos": "particulă relativă + prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "care era peste capetele lor (asher al rosham)",
+       "dict_ro": "Confirmă poziția exactă, imediat peste capetele ființelor și bolții."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "era precum piatra de safir",
+       "w": "era precum piatra de safir",
+       "heb": "כְּמַרְאֵה אֶבֶן סַפִּיר",
+       "translit": "kemarē even sapir",
+       "strong": "H5601",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "era precum piatra de safir (kemare even sapir)",
+       "dict_ro": "Metzudat David explică faptul că profetul a văzut un lucru strălucitor ca piatra de safir."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sub forma unui tron",
+       "w": "sub forma unui tron",
+       "heb": "דְּמוּת כִּסֵּא",
+       "translit": "demut kisē",
+       "strong": "H3678",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "sub forma unui tron (demut kise)",
+       "dict_ro": "Radak explică faptul că această piatră avea forma unui tron, pregătind descrierea tronului divin."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "și pe forma tronului",
+       "w": "și pe forma tronului",
+       "heb": "וְעַל דְּמוּת הַכִּסֵּא",
+       "translit": "veal demut hakisē",
+       "strong": "H3678",
+       "pos": "prepoziție + substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "și pe forma tronului (veal demut hakise)",
+       "dict_ro": "Repetă termenul «asemănare» pentru tron, evitând afirmarea directă a unei forme fixe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "era precum înfățișarea unui om",
+       "w": "era precum înfățișarea unui om",
+       "heb": "דְּמוּת כְּמַרְאֵה אָדָם",
+       "translit": "demut kemarē adam",
        "strong": "H120",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "precum înfățișarea unui om (kemarē adam).",
-       "dict_ro": "Metzudat David insistă asupra limbajului voit indirect al versetului: „am văzut” nu e spus despre Dumnezeu Însuși, ci despre „o înfățișare asemenea unui om” — textul folosește cu grijă cuvântul „asemănare”/„înfățișare” tocmai pentru a face auzului limpede că n-are absolut nicio formă reală, dar că profetul a văzut Șechina plecând din Templu ca pe un rege care se ridică din tronul său de pe car."
+       "pos": "substantiv, feminin singular + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "era precum înfățișarea unui om (demut kemare adam)",
+       "dict_ro": "Metzudat David explică faptul că acest chip asemănător omului este o aluzie smerită la prezența Șechinei, care se vede părăsind Templul, ca un împărat care se ridică de pe tronul său și pornește la drum."
       },
       {
-       "t": ", pe el, deasupra."
+       "t": ", "
+      },
+      {
+       "t": "pe el, deasupra",
+       "w": "pe el, deasupra",
+       "heb": "עָלָיו מִלְמָעְלָה",
+       "translit": "alaiv milmala",
+       "strong": "H4605",
+       "pos": "prepoziție + sufix + adverb",
+       "def_ro": "pe el, deasupra (alaiv milmala)",
+       "dict_ro": "Poziția «deasupra» confirmă locul suprem al acestei înfățișări, deasupra întregului ansamblu al viziunii."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -31061,20 +32624,95 @@
      "translit": "Vaere keein hașmal kemare-eș beit-la saviv mimare motnav ulemaala umimare motnav ulemata raiti kemare-eș venoga lo saviv.",
      "tokens": [
       {
-       "t": "Am văzut înfățișarea lui "
-      },
-      {
-       "t": "Hașmal",
-       "w": "Hașmal",
-       "heb": "חַשְׁמַל",
-       "translit": "hașmal",
+       "t": "Am văzut înfățișarea lui Hașmal",
+       "w": "Am văzut înfățișarea lui Hașmal",
+       "heb": "וָאֵרֶא כְּעֵין חַשְׁמַל",
+       "translit": "vaēre keēn hașmal",
        "strong": "H2830",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "Hașmal, aceeași strălucire enigmatică descrisă deja la Ezechiel 1:4 (hașmal).",
-       "dict_ro": "Rashi notează aici, cu o singură propoziție gravă: „nu s-a dat îngăduință să se cerceteze acest verset” (Hagiga 13a) — tradiția talmudică restrânge explicit meditația asupra acestei descrieri a formei de pe tron, a doua apariție a cuvântului Hașmal în capitol, considerată prea sfântă pentru speculație liberă."
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin și feminin singular construct + substantiv, masculin singular",
+       "def_ro": "Am văzut înfățișarea lui Hașmal (vaere keen hashmal)",
+       "dict_ro": "Rashi explică faptul că nu este permis nimănui să cerceteze mai departe sensul acestui verset — taina lui Hașmal rămâne dincolo de puterea de înțelegere omenească."
       },
       {
-       "t": ", ca o lucire cu foc în ea de jur împrejur, de la înfățișarea coapselor lui în sus; iar de la înfățișarea coapselor lui în jos am văzut ca o apariție de foc, cu strălucire de jur împrejur."
+       "t": ", "
+      },
+      {
+       "t": "ca o lucire cu foc în ea",
+       "w": "ca o lucire cu foc în ea",
+       "heb": "כְּמַרְאֵה אֵשׁ בֵּית לָהּ",
+       "translit": "kemarē ēș bēt lah",
+       "strong": "",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular + substantiv, masculin singular construct + prepoziție + sufix",
+       "def_ro": "ca o lucire cu foc în ea (kemare esh bet lah)",
+       "dict_ro": "Descrie o lumină de foc care îmbracă, dinăuntru, înfățișarea de Hașmal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de jur împrejur",
+       "w": "de jur împrejur",
+       "heb": "סָבִיב",
+       "translit": "saviv",
+       "strong": "H5439",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "de jur împrejur (saviv)",
+       "dict_ro": "Lumina înconjura complet această înfățișare, din toate părțile."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "de la înfățișarea coapselor lui în sus",
+       "w": "de la înfățișarea coapselor lui în sus",
+       "heb": "מִמַּרְאֵה מָתְנָיו וּלְמָעְלָה",
+       "translit": "mimarē matnaiv ulmala",
+       "strong": "H4605",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin dual construct + sufix + adverb",
+       "def_ro": "de la înfățișarea coapselor lui în sus (mimare matnaiv ulmala)",
+       "dict_ro": "Partea de sus a acestei înfățișări, de la șolduri către cap, avea aspectul descris anterior, de Hașmal."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "iar de la înfățișarea coapselor lui în jos",
+       "w": "iar de la înfățișarea coapselor lui în jos",
+       "heb": "וּמִמַּרְאֵה מָתְנָיו וּלְמַטָּה",
+       "translit": "umimarē matnaiv ulmata",
+       "strong": "H4295",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin dual construct + sufix + adverb",
+       "def_ro": "iar de la înfățișarea coapselor lui în jos (umimare matnaiv ulmata)",
+       "dict_ro": "Partea de jos a aceleiași înfățișări, de la șolduri către picioare, avea alt aspect, descris în continuare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "am văzut ca o apariție de foc",
+       "w": "am văzut ca o apariție de foc",
+       "heb": "רָאִיתִי כְּמַרְאֵה אֵשׁ",
+       "translit": "raiti kemarē ēș",
+       "strong": "H784",
+       "pos": "verb, qal perfect + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "am văzut ca o apariție de foc (raiti kemare esh)",
+       "dict_ro": "Partea inferioară apărea ca o manifestare de foc propriu-zisă, diferită de strălucirea de Hașmal a părții superioare."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "cu strălucire de jur împrejur",
+       "w": "cu strălucire de jur împrejur",
+       "heb": "וְנֹגַהּ לוֹ סָבִיב",
+       "translit": "venogah lo saviv",
+       "strong": "H5439",
+       "pos": "substantiv, feminin singular + prepoziție + sufix + substantiv, masculin și feminin singular",
+       "def_ro": "cu strălucire de jur împrejur (venogah lo saviv)",
+       "dict_ro": "O a doua strălucire învăluia și partea de jos, completând simetric descrierea întregii înfățișări."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -31110,20 +32748,134 @@
      "translit": "Kemare hakeșet așer ihie veanan beiom hageșem ken mare hanoga saviv hu mare demut kevod-ADONAI vaere vaepol al-panai vaeșma kol medaber.",
      "tokens": [
       {
-       "t": "Precum apariția curcubeului care este în nor într-o zi ploioasă, așa era apariția strălucirii, de jur împrejur. Așa era apariția înfățișării "
+       "t": "Precum apariția curcubeului",
+       "w": "Precum apariția curcubeului",
+       "heb": "כְּמַרְאֵה הַקֶּשֶׁת",
+       "translit": "kemarē hakeșet",
+       "strong": "H7198",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "Precum apariția curcubeului (kemare hakeshet)",
+       "dict_ro": "Compararea finală leagă toată strălucirea descrisă cu imaginea familiară, dar impresionantă, a curcubeului."
       },
       {
-       "t": "slavei DOMNULUI",
-       "w": "slavei DOMNULUI",
-       "heb": "כְּבוֹד יְהוָה",
-       "translit": "kevod Adonai",
+       "t": " "
+      },
+      {
+       "t": "care este în nor",
+       "w": "care este în nor",
+       "heb": "אֲשֶׁר יִהְיֶה בֶעָנָן",
+       "translit": "așer ihie veanan",
+       "strong": "H6051",
+       "pos": "particulă relativă + verb, qal imperfect + substantiv, masculin singular",
+       "def_ro": "care este în nor (asher ihie veanan)",
+       "dict_ro": "Curcubeul apare într-un nor, exact ca în viziunea descrisă la început."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "într-o zi ploioasă",
+       "w": "într-o zi ploioasă",
+       "heb": "בְּיוֹם הַגֶּשֶׁם",
+       "translit": "beom hageșem",
+       "strong": "H1653",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "într-o zi ploioasă (beiom hageshem)",
+       "dict_ro": "Precizează condiția meteorologică — ploaia — care face curcubeul vizibil."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "așa era apariția strălucirii",
+       "w": "așa era apariția strălucirii",
+       "heb": "כֵּן מַרְאֵה הַנֹּגַהּ",
+       "translit": "kēn marē hanogah",
+       "strong": "H5051",
+       "pos": "particulă demonstrativă + substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "așa era apariția strălucirii (ken mare hanogah)",
+       "dict_ro": "Strălucirea de jur împrejur, deja menționată, este comparată cu intensitatea curcubeului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "de jur împrejur",
+       "w": "de jur împrejur",
+       "heb": "סָבִיב",
+       "translit": "saviv",
+       "strong": "H5439",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "de jur împrejur (saviv)",
+       "dict_ro": "Lumina se întindea din toate părțile, complet, fără întrerupere."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Așa era apariția",
+       "w": "Așa era apariția",
+       "heb": "הוּא מַרְאֵה",
+       "translit": "hu marē",
+       "strong": "H4758",
+       "pos": "pronume personal + substantiv, masculin singular construct",
+       "def_ro": "Așa era apariția (hu mare)",
+       "dict_ro": "Formula repetă, pentru a încheia solemn, întreaga descriere a viziunii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "înfățișării slavei DOMNULUI",
+       "w": "înfățișării slavei DOMNULUI",
+       "heb": "דְּמוּת כְּבוֹד יְהוָה",
+       "translit": "demut kevod Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "slava DOMNULUI (kevod Adonai).",
-       "dict_ro": "Radak transmite o tradiție rabinică îndrăzneață: la Sinai, în ziua dăruirii Legii, tot Israelul a văzut carul ceresc așa cum l-a văzut Ezechiel — până acolo încât «și cea mai neînsemnată dintre roabele lor a văzut [la Mare] ce a văzut Ezechiel, fiul lui Buzi» — motiv pentru care tradiția aceasta leagă fiecare din cele patru chipuri ale carului de unul din cele patru steaguri ale taberei lui Israel în pustie."
+       "pos": "substantiv, feminin singular construct + substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "înfățișării slavei DOMNULUI (mare demut kevod Adonai)",
+       "dict_ro": "Radak explică faptul că tot ce a fost descris este, în realitate, o manifestare a slavei DOMNULUI — nu o vedere directă a lui Dumnezeu Însuși, ci un chip, o asemănare îngăduită înțelegerii omenești."
       },
       {
-       "t": "! Văzând aceasta, m-am aruncat cu fața la pământ și am auzit un glas vorbind."
+       "t": "! "
+      },
+      {
+       "t": "Văzând aceasta",
+       "w": "Văzând aceasta",
+       "heb": "וָאֶרְאֶה",
+       "translit": "vaere",
+       "strong": "H7200",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "Văzând aceasta (vaere)",
+       "dict_ro": "Marchează momentul culminant al reacției profetului la întreaga viziune."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "m-am aruncat cu fața la pământ",
+       "w": "m-am aruncat cu fața la pământ",
+       "heb": "וָאֶפֹּל עַל פָּנַי",
+       "translit": "vaepol al panai",
+       "strong": "H6440",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "m-am aruncat cu fața la pământ (vaepol al panai)",
+       "dict_ro": "Radak explică faptul că profetul s-a prosternat, cutremurat de uimire în fața măreției văzute; o tradiție rabinică adaugă că la Sinai întregul Israel a văzut un car divin asemănător celui văzut de Ezechiel, fiecare potrivit nivelului său de înțelegere."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și am auzit un glas vorbind",
+       "w": "și am auzit un glas vorbind",
+       "heb": "וָאֶשְׁמַע קוֹל מְדַבֵּר",
+       "translit": "vaeșma kol medabēr",
+       "strong": "H1696",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + verb, piel participiu",
+       "def_ro": "și am auzit un glas vorbind (vaeshma kol medaber)",
+       "dict_ro": "Tranziția spre capitolul următor: un glas începe să vorbească direct profetului prosternat."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -31164,17 +32916,66 @@
      "translit": "Vatișaeni ruah vaeșma aharai kol raaș gadol baruh kevod-ADONAI mimekomo.",
      "tokens": [
       {
-       "t": "Și un vânt m-a ridicat și am auzit înapoia mea sunetul unui zgomot mare: "
+       "t": "Și un vânt m-a ridicat",
+       "w": "Și un vânt m-a ridicat",
+       "heb": "וַתִּשָּׂאֵנִי רוּחַ",
+       "translit": "vatisaēni ruah",
+       "strong": "H7307",
+       "pos": "verb, qal imperfect consecutiv + sufix + substantiv, masculin și feminin singular",
+       "def_ro": "Și un vânt m-a ridicat (vatisaeni ruah)",
+       "dict_ro": "Rashi explică faptul că, după ce glasul a terminat de vorbit cu profetul, duhul a primit poruncă să-l ridice spre locul unde se aflau ceilalți exilați."
       },
       {
-       "t": "Binecuvântat este DOMNUL din locul Său",
-       "w": "Binecuvântat este DOMNUL din locul Său",
-       "heb": "בָּרוּךְ כְּבוֹד יְהוָה מִמְּקוֹמוֹ",
-       "translit": "baruh kevod Adonai mimkomo",
+       "t": " "
+      },
+      {
+       "t": "și am auzit înapoia mea",
+       "w": "și am auzit înapoia mea",
+       "heb": "וָאֶשְׁמַע אַחֲרַי",
+       "translit": "vaeșma aharai",
+       "strong": "H310",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "și am auzit înapoia mea (vaeshma aharai)",
+       "dict_ro": "Descrie momentul în care profetul, dus de vânt, aude un sunet puternic venind din urma sa."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sunetul unui zgomot mare",
+       "w": "sunetul unui zgomot mare",
+       "heb": "קוֹל רַעַשׁ גָּדוֹל",
+       "translit": "kol raaș gadol",
+       "strong": "H1419",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "sunetul unui zgomot mare (kol raash gadol)",
+       "dict_ro": "Zgomotul mare anunță mișcarea întregului ansamblu al carului divin, în timp ce profetul este purtat deoparte."
+      },
+      {
+       "t": ": "
+      },
+      {
+       "t": "Binecuvântat este DOMNUL",
+       "w": "Binecuvântat este DOMNUL",
+       "heb": "בָּרוּךְ כְּבוֹד יְהוָה",
+       "translit": "baruh kevod Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal participiu pasiv + substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "Binecuvântat este DOMNUL (baruh kevod Adonai)",
+       "dict_ro": "Radak explică faptul că acest strigăt de binecuvântare era auzit atunci când slava DOMNULUI se retrage de pe locul ei dintre cei doi cherubimi, de pe Chivot — pentru că poporul Israel Îl micșorase prin idolatrie, dar la retragerea Lui dintre ei, slava Sa parcă se înalță și mai mult, ca un spor de cinste."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din locul Său",
+       "w": "din locul Său",
+       "heb": "מִמְּקוֹמוֹ",
+       "translit": "mimkomo",
        "strong": "H4725",
-       "pos": "verb, qal participiu pasiv + substantiv, masculin și feminin singular construct + nume propriu + substantiv, masculin singular construct + sufix",
-       "def_ro": "Binecuvântat este slava DOMNULUI din locul Său (baruh kevod Adonai mimkomo).",
-       "dict_ro": "Radak explică sensul acestei exclamații centrale: nu e spusă de Ezechiel însuși, ci e glasul îngerilor care, atunci când Șechina se retrage din Locul ei cel Sfânt [Templul], strigă totuși „binecuvântată e slava Domnului din locul ei” — ca să arate că, chiar dacă Israel e cel care pierde prin îndepărtarea Șechinei, slava lui Dumnezeu Însuși rămâne mereu binecuvântată și slăvită, oriunde s-ar afla ea. Metzudat David adaugă: expresia e un răspuns direct dat profetului, care să nu creadă că retragerea din Templu înseamnă diminuarea slavei divine."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "din locul Său (mimkomo)",
+       "dict_ro": "Rabi Moșe (Maimonide) explică «din locul Său» ca referindu-se la rangul și locul propriu al lui Dumnezeu în ordinea existenței, nu la un loc spațial literal."
       },
       {
        "t": "!"
