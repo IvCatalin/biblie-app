@@ -20654,7 +20654,40 @@
      "translit": "Vaișlah hameleh vaiaasfu elav kol-ziknei Iehuda v'Irușalaim.",
      "tokens": [
       {
-       "t": "Regele a trimis [veste] și toți bătrânii din Iuda și din Ierusalim s-au adunat înaintea lui."
+       "t": "Regele a trimis [veste]",
+       "w": "Regele a trimis [veste]",
+       "heb": "וַיִּשְׁלַח הַמֶּלֶךְ",
+       "translit": "vaișlah hameleh",
+       "strong": "H4428",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular",
+       "def_ro": "regele a trimis [veste] (vaișlah hameleh)",
+       "dict_ro": "Primul pas al reformei religioase a lui Ioșia — convocarea publică a conducerii, imediat după găsirea Cărții Legii în Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și toți bătrânii din Iuda și din Ierusalim",
+       "w": "și toți bătrânii din Iuda și din Ierusalim",
+       "heb": "כָּל זִקְנֵי יְהוּדָה וִירוּשָׁלִָם",
+       "translit": "kal ziknē iehuda virușalam",
+       "strong": "H3389",
+       "pos": "substantiv, masculin singular construct + adjectiv, masculin plural + nume propriu + nume propriu",
+       "def_ro": "și toți bătrânii din Iuda și din Ierusalim (kal ziknē iehuda virușalam)",
+       "dict_ro": "Radak notează amploarea convocării — nu doar funcționari religioși, ci întreaga conducere civilă a regatului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "s-au adunat înaintea lui.",
+       "w": "s-au adunat înaintea lui.",
+       "heb": "וַיַּאַסְפוּ אֵלָיו",
+       "translit": "vaiaasfu ēlaiv",
+       "strong": "H413",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "s-au adunat înaintea lui. (vaiaasfu ēlaiv)",
+       "dict_ro": "Confirmă răspunsul imediat la chemarea regală, pregătind scena pentru citirea publică a legământului."
       }
      ],
      "textCompare": [
@@ -20684,7 +20717,79 @@
      "translit": "Vaiaal hameleh beit-ADONAI vehol-iș Iehuda vehol ioșvei Ierușalaim ito vehakohanim vehaneviim vehol-haam lemikaton vead-gadol vaikra veozneihem et-kol-divrei sefer haberit hanimța beveit ADONAI.",
      "tokens": [
       {
-       "t": "Regele a urcat la Casa DOMNULUI și toți bărbații din Iuda și locuitorii Ierusalimului erau cu el, și preoții, și profeții și tot poporul, de la mic la mare. Și a citit în auzul lor toate cuvintele Cărții Legământului care fusese găsită în Casa DOMNULUI."
+       "t": "Regele a urcat la Casa DOMNULUI",
+       "w": "Regele a urcat la Casa DOMNULUI",
+       "heb": "וַיַּעַל הַמֶּלֶךְ בֵּית יְהוָה",
+       "translit": "vaiaal hameleh bēt Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "regele a urcat la Casa DOMNULUI (vaiaal hameleh bēt Adonai)",
+       "dict_ro": "Templul devine locul public al reformei naționale, nu doar centru de cult, ci și de guvernare morală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și toți bărbații din Iuda și locuitorii Ierusalimului erau cu el,",
+       "w": "și toți bărbații din Iuda și locuitorii Ierusalimului erau cu el,",
+       "heb": "וְכָל אִישׁ יְהוּדָה וְכָל יֹשְׁבֵי יְרוּשָׁלִַם אִתּוֹ",
+       "translit": "vehal iș iehuda vehal ioșvē ierușalam ito",
+       "strong": "H854",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + nume propriu + substantiv, masculin singular construct + verb, qal participiu + nume propriu + prepoziție + sufix",
+       "def_ro": "și toți bărbații din Iuda și locuitorii Ierusalimului erau cu el, (vehal iș iehuda vehal ioșvē ierușalam ito)",
+       "dict_ro": "Confirmă participarea civilă masivă, dincolo de doar bătrânii convocați inițial."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și preoții, și profeții și tot poporul,",
+       "w": "și preoții, și profeții și tot poporul,",
+       "heb": "וְהַכֹּהֲנִים וְהַנְּבִיאִים וְכָל הָעָם",
+       "translit": "vehakohanim vehanvim vehal haam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin plural + substantiv, masculin plural + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "și preoții, și profeții și tot poporul, (vehakohanim vehanvim vehal haam)",
+       "dict_ro": "Radak notează o dificultate: textul menționează «profeții» la plural, deși doar profetesa Hulda e numită explicit — posibil referire la Ieremia și Țefania, activi în aceeași perioadă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de la mic la mare.",
+       "w": "de la mic la mare.",
+       "heb": "לְמִקָּטֹן וְעַד גָּדוֹל",
+       "translit": "lemikaton vead gadol",
+       "strong": "H1419",
+       "pos": "adjectiv, masculin singular + prepoziție + adjectiv, masculin singular",
+       "def_ro": "de la mic la mare. (lemikaton vead gadol)",
+       "dict_ro": "Formula accentuează universalitatea participării — fără excepție de statut social sau vârstă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și a citit în auzul lor toate cuvintele Cărții Legământului",
+       "w": "Și a citit în auzul lor toate cuvintele Cărții Legământului",
+       "heb": "וַיִּקְרָא בְאָזְנֵיהֶם אֶת כָּל דִּבְרֵי סֵפֶר הַבְּרִית",
+       "translit": "vaikra veaznēhem et kal divrē sēfer habrit",
+       "strong": "H1285",
+       "pos": "verb, qal imperfect consecutiv + substantiv, feminin dual construct + sufix + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin plural construct + substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "și a citit în auzul lor toate cuvintele Cărții Legământului (vaikra veaznēhem et kal divrē sēfer habrit)",
+       "dict_ro": "Citirea publică directă, nu doar o transmitere prin intermediari, asigură cunoașterea autentică a conținutului legii de către întregul popor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care fusese găsită în Casa DOMNULUI.",
+       "w": "care fusese găsită în Casa DOMNULUI.",
+       "heb": "הַנִּמְצָא בְּבֵית יְהוָה",
+       "translit": "hanimța bevēt Adonai",
+       "strong": "H3068",
+       "pos": "verb, nifal participiu + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "care fusese găsită în Casa DOMNULUI. (hanimța bevēt Adonai)",
+       "dict_ro": "Referire la descoperirea Cărții Legii de către marele preot Hilkia, relatată la începutul capitolului, declanșatorul întregii reforme."
       }
      ],
      "textCompare": [
@@ -20715,20 +20820,105 @@
      "translit": "Vaiaamod hameleh al-haamud vaikhrot et-haberit lifnei ADONAI lalehet ahar ADONAI velișmor mitzvotav veet-edvotav veet-hukotav behol-lev uvehol-nefeș lehakim et-divrei haberit hazot haketuvim al-hasefer haze vaiaamod kol-haam babrit.",
      "tokens": [
       {
-       "t": "Regele a stat în picioare pe o "
-      },
-      {
-       "t": "platformă",
-       "w": "platformă",
-       "heb": "הָעַמּוּד",
-       "translit": "haamud",
+       "t": "Regele a stat în picioare pe o platformă",
+       "w": "Regele a stat în picioare pe o platformă",
+       "heb": "וַיַּעֲמֹד הַמֶּלֶךְ עַל הָעַמּוּד",
+       "translit": "vaiaamod hameleh al haamud",
        "strong": "H5982",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "stâlp, coloană — aici în sensul unei platforme/estrade regale (haamud).",
-       "dict_ro": "Amud — „stâlp, coloană” — folosit aici pentru o platformă specială pe care regele stătea în picioare la ceremonii solemne, atestată și la încoronarea lui Ioaș (2 Împărați 11:14). Legământul public pecetluit aici reînnoiește, la nivel național, exact formula legământului de la Sinai (Exodul 24:7-8)."
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + prepoziție + substantiv, masculin singular",
+       "def_ro": "regele a stat în picioare pe o platformă (vaiaamod hameleh al haamud)",
+       "dict_ro": "Rashi identifică «platforma» ca locul tradițional unde regele stătea în timpul ceremoniilor de la Templu."
       },
       {
-       "t": " și a pecetluit un legământ înaintea DOMNULUI: să meargă după DOMNUL și să păzească poruncile Sale și mărturiile Sale și decretele Sale cu toată inima și cu tot sufletul, pentru ca să împlinească cuvintele acestui legământ care erau scrise în această carte. Și tot poporul a primit legământul."
+       "t": " "
+      },
+      {
+       "t": "și a pecetluit un legământ înaintea DOMNULUI:",
+       "w": "și a pecetluit un legământ înaintea DOMNULUI:",
+       "heb": "וַיִּכְרֹת אֶת הַבְּרִית לִפְנֵי יְהוָה",
+       "translit": "vaihrot et habrit lifnē Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + substantiv, feminin singular + substantiv, masculin și feminin plural construct + nume propriu",
+       "def_ro": "și a pecetluit un legământ înaintea DOMNULUI: (vaihrot et habrit lifnē Adonai)",
+       "dict_ro": "Reînnoirea personală, regală, a legământului legii, pas esențial și simbolic al reformei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să meargă după DOMNUL",
+       "w": "să meargă după DOMNUL",
+       "heb": "לָלֶכֶת אַחַר יְהוָה",
+       "translit": "lalehet ahar Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal infinitiv + prepoziție + nume propriu",
+       "def_ro": "să meargă după DOMNUL (lalehet ahar Adonai)",
+       "dict_ro": "Angajamentul fundamental de fidelitate exclusivă, respingând explicit idolatria practicată anterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să păzească poruncile Sale și mărturiile Sale și decretele Sale",
+       "w": "și să păzească poruncile Sale și mărturiile Sale și decretele Sale",
+       "heb": "וְלִשְׁמֹר מִצְוֺתָיו וְאֶת עֵדְוֺתָיו וְאֶת חֻקֹּתָיו",
+       "translit": "velișmor mițvotaiv veet ēdvotaiv veet hukotaiv",
+       "strong": "H2708",
+       "pos": "verb, qal infinitiv + substantiv, feminin plural construct + sufix + marcă a complementului direct + substantiv, feminin plural construct + sufix + marcă a complementului direct + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "și să păzească poruncile Sale și mărturiile Sale și decretele Sale (velișmor mițvotaiv veet ēdvotaiv veet hukotaiv)",
+       "dict_ro": "Enumerarea celor trei categorii principale ale legii mozaice, acoperind tot spectrul poruncilor divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu toată inima și cu tot sufletul,",
+       "w": "cu toată inima și cu tot sufletul,",
+       "heb": "בְּכָל לֵב וּבְכָל נֶפֶשׁ",
+       "translit": "behal lēv uvhal nefeș",
+       "strong": "H5315",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "cu toată inima și cu tot sufletul, (behal lēv uvhal nefeș)",
+       "dict_ro": "Formulă clasică din Deuteronom 6:5, aplicată aici concret la angajamentul regal de reformă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru ca să împlinească cuvintele acestui legământ",
+       "w": "pentru ca să împlinească cuvintele acestui legământ",
+       "heb": "לְהָקִים אֶת דִּבְרֵי הַבְּרִית הַזֹּאת",
+       "translit": "lehakim et divrē habrit hazot",
+       "strong": "H2063",
+       "pos": "verb, hifil infinitiv + marcă a complementului direct + substantiv, masculin plural construct + substantiv, feminin singular + pronume demonstrativ",
+       "def_ro": "pentru ca să împlinească cuvintele acestui legământ (lehakim et divrē habrit hazot)",
+       "dict_ro": "Scopul explicit al legământului — nu doar acceptare teoretică, ci implementare practică a poruncilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care erau scrise în această carte.",
+       "w": "care erau scrise în această carte.",
+       "heb": "הַכְּתֻבִים עַל הַסֵּפֶר הַזֶּה",
+       "translit": "haktuvim al hasēfer haze",
+       "strong": "H2088",
+       "pos": "verb, qal participiu pasiv + prepoziție + substantiv, masculin singular + pronume demonstrativ",
+       "def_ro": "care erau scrise în această carte. (haktuvim al hasēfer haze)",
+       "dict_ro": "Confirmă autoritatea directă a Cărții Legii recent descoperite ca fundament al reformei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și tot poporul a primit legământul.",
+       "w": "Și tot poporul a primit legământul.",
+       "heb": "וַיַּעֲמֹד כָּל הָעָם בַּבְּרִית",
+       "translit": "vaiaamod kal haam babrit",
+       "strong": "H1285",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular construct + substantiv, masculin singular + substantiv, feminin singular",
+       "def_ro": "și tot poporul a primit legământul. (vaiaamod kal haam babrit)",
+       "dict_ro": "Radak: formula descrie angajamentul colectiv, verbal și interior, al întregului popor prezent — confirmarea publică finală a reformei."
       }
      ],
      "textCompare": [
@@ -20759,20 +20949,92 @@
      "translit": "Vaitzav hameleh et-Hilkiahu hakohen hagadol veet-kohanei hamișne veet-șomrei hasaf lehotzi meheikhal ADONAI et kol-hakelim haasuim la'Baal vela'Așera ulehol țeva hașamaim vaişrefem mihuț l'Irușalaim beșadmot Kidron venasa et-afaram Beit-El.",
      "tokens": [
       {
-       "t": "Apoi regele i-a poruncit Marelui Preot Hilkiahu și "
+       "t": "Apoi regele i-a poruncit Marelui Preot Hilkiahu",
+       "w": "Apoi regele i-a poruncit Marelui Preot Hilkiahu",
+       "heb": "וַיְצַו הַמֶּלֶךְ אֶת חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל",
+       "translit": "vaițav hameleh et hilkiahu hakohēn hagadol",
+       "strong": "H1419",
+       "pos": "verb, piel imperfect consecutiv + substantiv, masculin singular + marcă a complementului direct + nume propriu + substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "apoi regele i-a poruncit Marelui Preot Hilkiahu (vaițav hameleh et hilkiahu hakohēn hagadol)",
+       "dict_ro": "Marele preot, descoperitorul Cărții Legii, devine executorul direct al reformei religioase ordonate de rege."
       },
       {
-       "t": "preoților de rangul al doilea",
-       "w": "preoților de rangul al doilea",
-       "heb": "כֹּהֲנֵי הַמִּשְׁנֶה",
-       "translit": "kohanē hamișne",
+       "t": " "
+      },
+      {
+       "t": "și preoților de rangul al doilea,",
+       "w": "și preoților de rangul al doilea,",
+       "heb": "וְאֶת כֹּהֲנֵי הַמִּשְׁנֶה",
+       "translit": "veet kohanē hamișne",
        "strong": "H4932",
-       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
-       "def_ro": "preoții de rangul al doilea, locțiitori (kohanē hamișne).",
-       "dict_ro": "Rashi explică „preoții de rangul al doilea” ca pe sfetnicii/locțiitorii preoțești, subordonați direct Marelui Preot. „Cenușa dusă la Bet-El” nu era un gest întâmplător: Rashi notează că Ioșiahu a dus-o anume la locul necurat unde Ieroboam ridicase altarul idolatru, ca să-l pângărească definitiv, arzând acolo chiar și oasele preoților înălțimilor."
+       "pos": "marcă a complementului direct + substantiv, masculin plural construct + substantiv, masculin singular",
+       "def_ro": "și preoților de rangul al doilea, (veet kohanē hamișne)",
+       "dict_ro": "Rashi: «kohanei hamișne» desemnează adjuncții ierarhiei sacerdotale, al doilea rang după marele preot."
       },
       {
-       "t": ", și păzitorilor pragului, să scoată din Templul DOMNULUI toate vasele care fuseseră făcute pentru Baal și pentru Așera și pentru toată oștirea cerurilor; și le-au ars în afara Ierusalimului, în câmpiile Kidronului, și le-au dus cenușa la Bet-El."
+       "t": " "
+      },
+      {
+       "t": "și păzitorilor pragului,",
+       "w": "și păzitorilor pragului,",
+       "heb": "וְאֶת שֹׁמְרֵי הַסַּף",
+       "translit": "veet șomrē hasaf",
+       "strong": "H5592",
+       "pos": "marcă a complementului direct + verb, qal participiu + substantiv, masculin singular",
+       "def_ro": "și păzitorilor pragului, (veet șomrē hasaf)",
+       "dict_ro": "Rashi: oficiali responsabili cu toate nevoile practice ale Templului, având în grijă cheile curții."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să scoată din Templul DOMNULUI toate vasele",
+       "w": "să scoată din Templul DOMNULUI toate vasele",
+       "heb": "לְהוֹצִיא מֵהֵיכַל יְהוָה אֵת כָּל הַכֵּלִים",
+       "translit": "lehoți mēhēhal Adonai ēt kal hakēlim",
+       "strong": "H3627",
+       "pos": "verb, hifil infinitiv + substantiv, masculin singular construct + nume propriu + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin plural",
+       "def_ro": "să scoată din Templul DOMNULUI toate vasele (lehoți mēhēhal Adonai ēt kal hakēlim)",
+       "dict_ro": "Prima măsură concretă a reformei — eliminarea fizică a obiectelor de cult idolatru instalate chiar în Sanctuar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care fuseseră făcute pentru Baal și pentru Așera și pentru toată oștirea cerurilor;",
+       "w": "care fuseseră făcute pentru Baal și pentru Așera și pentru toată oștirea cerurilor;",
+       "heb": "הָעֲשׂוּיִם לַבַּעַל וְלָאֲשֵׁרָה וּלְכֹל צְבָא הַשָּׁמָיִם",
+       "translit": "haasuim labaal velaașēra ulhol țeva hașamaim",
+       "strong": "H8064",
+       "pos": "verb, qal participiu pasiv + nume propriu + nume propriu + substantiv, masculin singular construct + substantiv, masculin și feminin singular construct + substantiv, masculin plural",
+       "def_ro": "care fuseseră făcute pentru Baal și pentru Așera și pentru toată oștirea cerurilor; (haasuim labaal velaașēra ulhol țeva hașamaim)",
+       "dict_ro": "Enumerarea celor trei categorii de idolatrie — zeul canaanit Baal, zeița Așera, și cultul astral al stelelor și planetelor — toate pătrunseseră în Templul însuși."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și le-au ars în afara Ierusalimului, în câmpiile Kidronului,",
+       "w": "și le-au ars în afara Ierusalimului, în câmpiile Kidronului,",
+       "heb": "וַיִּשְׂרְפֵם מִחוּץ לִירוּשָׁלִַם בְּשַׁדְמוֹת קִדְרוֹן",
+       "translit": "vaisrefēm mihuț lirușalam beșadmot kidron",
+       "strong": "H6939",
+       "pos": "verb, qal imperfect consecutiv + sufix + substantiv, masculin singular + nume propriu + substantiv, feminin plural construct + nume propriu",
+       "def_ro": "și le-au ars în afara Ierusalimului, în câmpiile Kidronului, (vaisrefēm mihuț lirușalam beșadmot kidron)",
+       "dict_ro": "Distrugerea completă prin ardere, în afara orașului sfânt, departe de Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și le-au dus cenușa la Bet-El.",
+       "w": "și le-au dus cenușa la Bet-El.",
+       "heb": "וְנָשָׂא אֶת עֲפָרָם בֵּית אֵל",
+       "translit": "venasa et afaram bēt ēl",
+       "strong": "H1008",
+       "pos": "verb, qal perfect + marcă a complementului direct + substantiv, masculin singular construct + sufix + nume propriu + nume propriu",
+       "def_ro": "și le-au dus cenușa la Bet-El. (venasa et afaram bēt ēl)",
+       "dict_ro": "Rashi: Bet-El, locul unde Ieroboam înălțase vițelul de aur, devine simbolic locul final al cenușii profanate — necurăția e trimisă exact la sursa istorică a idolatriei naționale."
       }
      ],
      "textCompare": [
@@ -20808,20 +21070,92 @@
      "translit": "Vehișbit et-hakemarim așer natnu malhei Iehuda vaikater babamot bearei Iehuda umesibei Ierușalaim veet-hamekaterim la'Baal lașemeș velaiaréah velamazalot ulehol țeva hașamaim.",
      "tokens": [
       {
-       "t": "A îndepărtat",
-       "w": "A îndepărtat",
-       "heb": "וְהִשְׁבִּית",
-       "translit": "vehișbit",
-       "strong": "H7673",
-       "pos": "verb, hifil perfect",
-       "def_ro": "a pune capăt, a îndepărta din slujbă (hișbit).",
-       "dict_ro": "Hișbit — „a face să se odihnească, a pune capăt” — descrie aici încetarea funcției preoților idolatri, nu neapărat uciderea lor. Septuaginta traduce mai dur, „a ars” (κατέκαυσε), o intensificare reală a pedepsei descrise.",
-       "greek": "κατέκαυσε (katekause)",
-       "greek_def_ro": "κατέκαυσε (katekause) — a ars, a mistuit în foc — mai dur decât „a îndepărtat/a pus capăt” din ebraică.",
-       "diff_ro": "Septuaginta are „a ars pe preoți” (κατέκαυσε), unde Textul Masoretic are doar „a îndepărtat/a pus capăt” (hișbit) — o intensificare reală a pedepsei descrise, nu simplă variație de traducere."
+       "t": "A îndepărtat preoții",
+       "w": "A îndepărtat preoții",
+       "heb": "וְהִשְׁבִּית אֶת הַכְּמָרִים",
+       "translit": "vehișbit et hakmarim",
+       "strong": "H3649",
+       "pos": "verb, hifil perfect + marcă a complementului direct + substantiv, masculin plural",
+       "def_ro": "a îndepărtat preoții (vehișbit et hakmarim)",
+       "dict_ro": "Metzudat Zion: «kmarim» denotă specific preoții idolatri, îmbrăcați tradițional în veșminte negre — distincți terminologic de preoții legitimi ai lui Dumnezeu."
       },
       {
-       "t": " preoții pe care regii din Iuda îi numiseră să ardă ofrande pe înălțimi, în orașele din Iuda și în împrejurimile Ierusalimului, și pe cei care aduseseră ofrandă de mirodenii lui Baal, soarelui, lunii, constelațiilor și întregii oștiri a cerurilor."
+       "t": " "
+      },
+      {
+       "t": "pe care regii din Iuda îi numiseră",
+       "w": "pe care regii din Iuda îi numiseră",
+       "heb": "אֲשֶׁר נָתְנוּ מַלְכֵי יְהוּדָה",
+       "translit": "așer natnu malhē iehuda",
+       "strong": "H3063",
+       "pos": "particulă relativă + verb, qal perfect + substantiv, masculin plural construct + nume propriu",
+       "def_ro": "pe care regii din Iuda îi numiseră (așer natnu malhē iehuda)",
+       "dict_ro": "Radak: Menașe instituise acest cult idolatru oficial; chiar dacă regele Amon continuase practica, Ioșia e cel care elimină definitiv instituția."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să ardă ofrande pe înălțimi,",
+       "w": "să ardă ofrande pe înălțimi,",
+       "heb": "וַיְקַטֵּר בַּבָּמוֹת",
+       "translit": "vaikatēr babamot",
+       "strong": "H1116",
+       "pos": "verb, piel imperfect consecutiv + substantiv, feminin plural",
+       "def_ro": "să ardă ofrande pe înălțimi, (vaikatēr babamot)",
+       "dict_ro": "Practica de tămâiere idolatră pe altarele neoficiale răspândite prin țară."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în orașele din Iuda și în împrejurimile Ierusalimului,",
+       "w": "în orașele din Iuda și în împrejurimile Ierusalimului,",
+       "heb": "בְּעָרֵי יְהוּדָה וּמְסִבֵּי יְרוּשָׁלִָם",
+       "translit": "bearē iehuda umsibē ierușalam",
+       "strong": "H3389",
+       "pos": "substantiv, feminin plural construct + nume propriu + substantiv, masculin și feminin plural construct + nume propriu",
+       "def_ro": "în orașele din Iuda și în împrejurimile Ierusalimului, (bearē iehuda umsibē ierușalam)",
+       "dict_ro": "Confirmă amploarea geografică a cultului idolatru — nu izolat, ci răspândit în tot regatul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pe cei care aduseseră ofrandă de mirodenii",
+       "w": "și pe cei care aduseseră ofrandă de mirodenii",
+       "heb": "וְאֶת הַמְקַטְּרִים",
+       "translit": "veet hamkatrim",
+       "strong": "H6999",
+       "pos": "marcă a complementului direct + verb, piel participiu",
+       "def_ro": "și pe cei care aduseseră ofrandă de mirodenii (veet hamkatrim)",
+       "dict_ro": "A doua categorie de practicanți vizați de reformă, distincți de preoții oficiali numiți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Baal, soarelui, lunii, constelațiilor",
+       "w": "lui Baal, soarelui, lunii, constelațiilor",
+       "heb": "לַבַּעַל לַשֶּׁמֶשׁ וְלַיָּרֵחַ וְלַמַּזָּלוֹת",
+       "translit": "labaal lașemeș velaiarēah velamazalot",
+       "strong": "H4208",
+       "pos": "nume propriu + substantiv, masculin și feminin singular + substantiv, masculin singular + substantiv, masculin plural",
+       "def_ro": "lui Baal, soarelui, lunii, constelațiilor (labaal lașemeș velaiarēah velamazalot)",
+       "dict_ro": "Lista completă a obiectelor de cult idolatru — zeul canaanit, alături de cultul astral al corpurilor cerești."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și întregii oștiri a cerurilor.",
+       "w": "și întregii oștiri a cerurilor.",
+       "heb": "וּלְכֹל צְבָא הַשָּׁמָיִם",
+       "translit": "ulhol țeva hașamaim",
+       "strong": "H8064",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular construct + substantiv, masculin plural",
+       "def_ro": "și întregii oștiri a cerurilor. (ulhol țeva hașamaim)",
+       "dict_ro": "Formulă generală care încheie lista, incluzând orice altă formă de cult astral neenumerat explicit."
       }
      ],
      "textCompare": [
@@ -20852,7 +21186,79 @@
      "translit": "Vaioțe et-ha'Așera mibeit ADONAI mihuț l'Irușalaim el-nahal Kidron vaișrof ota benahal Kidron vaiadek leafar vaiasleh et-afara al-kever benei haam.",
      "tokens": [
       {
-       "t": "A scos [efigia] Așerei din Casa DOMNULUI, la Valea Kidron în afara Ierusalimului, a ars-o și a măcinat-o în pulbere și i-a aruncat pulberea peste mormântul oamenilor [idolatri] din popor."
+       "t": "A scos [efigia] Așerei din Casa DOMNULUI,",
+       "w": "A scos [efigia] Așerei din Casa DOMNULUI,",
+       "heb": "וַיֹּצֵא אֶת הָאֲשֵׁרָה מִבֵּית יְהוָה",
+       "translit": "vaioțē et haașēra mibēt Adonai",
+       "strong": "H3068",
+       "pos": "verb, hifil imperfect consecutiv + marcă a complementului direct + nume propriu + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "a scos [efigia] Așerei din Casa DOMNULUI, (vaioțē et haașēra mibēt Adonai)",
+       "dict_ro": "Radak: statuia zeiței Așera fusese instalată chiar în Templu de regele Menașe — localizarea extremă a profanării, eliminată acum complet."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la Valea Kidron în afara Ierusalimului,",
+       "w": "la Valea Kidron în afara Ierusalimului,",
+       "heb": "מִחוּץ לִירוּשָׁלִַם אֶל נַחַל קִדְרוֹן",
+       "translit": "mihuț lirușalam el nahal kidron",
+       "strong": "H6939",
+       "pos": "substantiv, masculin singular + nume propriu + prepoziție + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "la Valea Kidron în afara Ierusalimului, (mihuț lirușalam el nahal kidron)",
+       "dict_ro": "Locul distrugerii, departe de oraș, la fel ca pentru vasele idolatre menționate la v.4."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a ars-o",
+       "w": "a ars-o",
+       "heb": "וַיִּשְׂרֹף אֹתָהּ בְּנַחַל קִדְרוֹן",
+       "translit": "vaisrof otah benahal kidron",
+       "strong": "H6939",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + sufix + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "a ars-o (vaisrof otah benahal kidron)",
+       "dict_ro": "Nimicirea prin foc, metodă standard pentru obiectele idolatre eliminate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și a măcinat-o în pulbere",
+       "w": "și a măcinat-o în pulbere",
+       "heb": "וַיָּדֶק לְעָפָר",
+       "translit": "vaiadek leafar",
+       "strong": "H6083",
+       "pos": "verb, hifil imperfect consecutiv + substantiv, masculin singular",
+       "def_ro": "și a măcinat-o în pulbere (vaiadek leafar)",
+       "dict_ro": "Măsura extremă de distrugere — nu doar arsă, ci redusă complet la pulbere, pentru a nu lăsa nicio urmă recognoscibilă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și i-a aruncat pulberea",
+       "w": "și i-a aruncat pulberea",
+       "heb": "וַיַּשְׁלֵךְ אֶת עֲפָרָהּ",
+       "translit": "vaiașlēh et afarah",
+       "strong": "H6083",
+       "pos": "verb, hifil imperfect consecutiv + marcă a complementului direct + substantiv, masculin singular construct + sufix",
+       "def_ro": "și i-a aruncat pulberea (vaiașlēh et afarah)",
+       "dict_ro": "Dispunerea finală, deliberat umilitoare, a rămășițelor idolului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "peste mormântul oamenilor [idolatri] din popor.",
+       "w": "peste mormântul oamenilor [idolatri] din popor.",
+       "heb": "עַל קֶבֶר בְּנֵי הָעָם",
+       "translit": "al kever benē haam",
+       "strong": "H5971",
+       "pos": "prepoziție + substantiv, masculin singular construct + substantiv, masculin plural construct + substantiv, masculin singular",
+       "def_ro": "peste mormântul oamenilor [idolatri] din popor. (al kever benē haam)",
+       "dict_ro": "Radak: pulberea e aruncată peste mormintele celor care închinaseră la acest idol în timpul vieții — un gest simbolic de dispreț public, confruntând memoria celor decedați cu rezultatul final al cultului lor."
       }
      ],
      "textCompare": [
@@ -20883,20 +21289,53 @@
      "translit": "Vaitotz et-batei hakedeshim așer beveit ADONAI așer hanașim orgot șam batim la'Așera.",
      "tokens": [
       {
-       "t": "Și a dărâmat "
-      },
-      {
-       "t": "camerele bărbaților care se prostituau în idolatrie",
-       "w": "camerele bărbaților care se prostituau în idolatrie",
-       "heb": "בָּתֵּי הַקְּדֵשִׁים",
-       "translit": "batē hakdēșim",
+       "t": "Și a dărâmat camerele bărbaților care se prostituau în idolatrie,",
+       "w": "Și a dărâmat camerele bărbaților care se prostituau în idolatrie,",
+       "heb": "וַיִּתֹּץ אֶת בָּתֵּי הַקְּדֵשִׁים",
+       "translit": "vaitoț et batē hakdēșim",
        "strong": "H6945",
-       "pos": "substantiv, masculin plural construct + adjectiv, masculin plural",
-       "def_ro": "casele kedeșim — bărbați dedicați prostituției cultice (batē hakdēșim).",
-       "dict_ro": "Rashi explică simplu: „casele kedeșim” erau „case de desfrânare”, iar „case” pe care le țeseau femeile acolo pentru Așera erau de fapt draperii/corturi (ieriot) rituale — o practică de cult canaanit complet integrată, până atunci, chiar în incinta Templului."
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + substantiv, masculin plural construct + adjectiv, masculin plural",
+       "def_ro": "și a dărâmat camerele bărbaților care se prostituau în idolatrie, (vaitoț et batē hakdēșim)",
+       "dict_ro": "Rashi: «bate hakedeșim» denotă literal «casele devotaților» — un eufemism pentru clădirile folosite în practici rituale sexuale legate de cultul canaanit al fertilității."
       },
       {
-       "t": ", care erau în Casa DOMNULUI, unde femeile țeseau draperii pentru Așera."
+       "t": " "
+      },
+      {
+       "t": "care erau în Casa DOMNULUI,",
+       "w": "care erau în Casa DOMNULUI,",
+       "heb": "אֲשֶׁר בְּבֵית יְהוָה",
+       "translit": "așer bevēt Adonai",
+       "strong": "H3068",
+       "pos": "particulă relativă + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "care erau în Casa DOMNULUI, (așer bevēt Adonai)",
+       "dict_ro": "Confirmă din nou gravitatea extremă a profanării — astfel de practici se desfășurau chiar în incinta Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "unde femeile țeseau draperii",
+       "w": "unde femeile țeseau draperii",
+       "heb": "אֲשֶׁר הַנָּשִׁים אֹרְגוֹת שָׁם",
+       "translit": "așer hanașim orgot șam",
+       "strong": "H8033",
+       "pos": "particulă relativă + substantiv, feminin plural + verb, qal participiu + adverb",
+       "def_ro": "unde femeile țeseau draperii (așer hanașim orgot șam batim)",
+       "dict_ro": "Radak notează sensul termenului «batim» aici ca «draperii/văluri», folosit și în Exod 26:11 pentru acoperămintele Cortului Întâlnirii, dar aici deturnat spre un scop idolatru."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru Așera.",
+       "w": "pentru Așera.",
+       "heb": "בָּתִּים לָאֲשֵׁרָה",
+       "translit": "batim laașēra",
+       "strong": "H842",
+       "pos": "substantiv, masculin plural + nume propriu",
+       "def_ro": "pentru Așera. (laașēra)",
+       "dict_ro": "Scopul final al acestor draperii țesute — decorarea sau îmbrăcarea statuii zeiței Așera."
       }
      ],
      "textCompare": [
@@ -20932,7 +21371,79 @@
      "translit": "Vaiave et-kol-hakohanim mearei Iehuda vaitame et-habamot așer kitru-șama hakohanim mi'Gheva ad-Beer Șava venataț et-bamot hașearim așer-petah șaar Iehoșua sar-hair așer-al-semol iș beșaar hair.",
      "tokens": [
       {
-       "t": "Apoi a adus toți preoții din orașele din Iuda și a pângărit înălțimile unde preoții ardeau ofrande, de la Gheva până la Beer-Șeva, și a sfărâmat înălțimile de la porți, care erau la intrarea porții lui Ioșua, guvernatorul orașului, care erau pe partea stângă a celor care veneau la poarta orașului."
+       "t": "Apoi a adus toți preoții din orașele din Iuda",
+       "w": "Apoi a adus toți preoții din orașele din Iuda",
+       "heb": "וַיָּבֵא אֶת כָּל הַכֹּהֲנִים מֵעָרֵי יְהוּדָה",
+       "translit": "vaiavē et kal hakohanim mēarē iehuda",
+       "strong": "H3063",
+       "pos": "verb, hifil imperfect consecutiv + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin plural + substantiv, feminin plural construct + nume propriu",
+       "def_ro": "apoi a adus toți preoții din orașele din Iuda (vaiavē et kal hakohanim mēarē iehuda)",
+       "dict_ro": "Metzudat David: acești preoți, din descendența lui Aaron, deveniseră slujitori idolatri; Ioșia îi aduce la Ierusalim nu pentru pedeapsă, ci pentru a-i readuce la pocăință."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și a pângărit înălțimile unde preoții ardeau ofrande,",
+       "w": "și a pângărit înălțimile unde preoții ardeau ofrande,",
+       "heb": "וַיְטַמֵּא אֶת הַבָּמוֹת אֲשֶׁר קִטְּרוּ שָׁמָּה הַכֹּהֲנִים",
+       "translit": "vaitamē et habamot așer kitru șama hakohanim",
+       "strong": "H3548",
+       "pos": "verb, piel imperfect consecutiv + marcă a complementului direct + substantiv, feminin plural + particulă relativă + verb, piel perfect + adverb + substantiv, masculin plural",
+       "def_ro": "și a pângărit înălțimile unde preoții ardeau ofrande, (vaitamē et habamot așer kitru șama hakohanim)",
+       "dict_ro": "Metoda de dezactivare rituală — pângărirea deliberată a altarelor, aruncând acolo necurățenii, pentru a le face inutilizabile pentru cultul idolatru."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de la Gheva până la Beer-Șeva,",
+       "w": "de la Gheva până la Beer-Șeva,",
+       "heb": "מִגֶּבַע עַד בְּאֵר שָׁבַע",
+       "translit": "migeva ad beēr șava",
+       "strong": "H884",
+       "pos": "nume propriu + prepoziție + nume propriu + nume propriu",
+       "def_ro": "de la Gheva până la Beer-Șeva, (migeva ad beēr șava)",
+       "dict_ro": "Expresie geografică standard pentru întreaga întindere a regatului lui Iuda, de la nord la sud."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și a sfărâmat înălțimile de la porți,",
+       "w": "și a sfărâmat înălțimile de la porți,",
+       "heb": "וְנָתַץ אֶת בָּמוֹת הַשְּׁעָרִים",
+       "translit": "venataț et bamot hașarim",
+       "strong": "H8179",
+       "pos": "verb, qal perfect + marcă a complementului direct + substantiv, feminin plural construct + substantiv, masculin plural",
+       "def_ro": "și a sfărâmat înălțimile de la porți, (venataț et bamot hașarim)",
+       "dict_ro": "O categorie distinctă de altare idolatre, situate chiar la porțile cetăților, nu doar pe înălțimile exterioare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care erau la intrarea porții lui Ioșua, guvernatorul orașului,",
+       "w": "care erau la intrarea porții lui Ioșua, guvernatorul orașului,",
+       "heb": "אֲשֶׁר פֶּתַח שַׁעַר יְהוֹשֻׁעַ שַׂר הָעִיר",
+       "translit": "așer petah șaar iehoșua sar hair",
+       "strong": "H5892",
+       "pos": "particulă relativă + substantiv, masculin singular construct + substantiv, masculin singular construct + nume propriu + substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "care erau la intrarea porții lui Ioșua, guvernatorul orașului, (așer petah șaar iehoșua sar hair)",
+       "dict_ro": "Radak: numirea specifică a acestui altar, mai mare decât celelalte, justifică menționarea lui individuală, distinctă de restul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care erau pe partea stângă a celor care veneau la poarta orașului.",
+       "w": "care erau pe partea stângă a celor care veneau la poarta orașului.",
+       "heb": "אֲשֶׁר עַל שְׂמֹאול אִישׁ בְּשַׁעַר הָעִיר",
+       "translit": "așer al semovl iș beșaar hair",
+       "strong": "H5892",
+       "pos": "particulă relativă + prepoziție + substantiv, masculin singular + substantiv, masculin singular + substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "care erau pe partea stângă a celor care veneau la poarta orașului. (așer al semovl iș beșaar hair)",
+       "dict_ro": "Descrie poziția topografică exactă a acestui altar particular, vizibil imediat la intrarea în cetate."
       }
      ],
      "textCompare": [
@@ -20963,7 +21474,53 @@
      "translit": "Ah lo iaalu kohanei habamot el-mizbah ADONAI b'Irușalaim ki im-ahlu matzot betoh aheihem.",
      "tokens": [
       {
-       "t": "Dar preoții înălțimilor nu aveau voie să urce la altarul DOMNULUI în Ierusalim, aveau voie doar să mănânce azime printre frații lor."
+       "t": "Dar preoții înălțimilor nu aveau voie să urce",
+       "w": "Dar preoții înălțimilor nu aveau voie să urce",
+       "heb": "אַךְ לֹא יַעֲלוּ כֹּהֲנֵי הַבָּמוֹת",
+       "translit": "ah lo iaalu kohanē habamot",
+       "strong": "H1116",
+       "pos": "particulă afirmativă + particulă negativă + verb, qal imperfect + substantiv, masculin plural construct + substantiv, feminin plural",
+       "def_ro": "dar preoții înălțimilor nu aveau voie să urce (ah lo iaalu kohanē habamot)",
+       "dict_ro": "Rashi: acești preoți, deși readuși la Ierusalim și pocăiți, nu li se permitea reluarea slujirii active la altar — statut similar preoților cu meteahnă fizică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la altarul DOMNULUI în Ierusalim,",
+       "w": "la altarul DOMNULUI în Ierusalim,",
+       "heb": "אֶל מִזְבַּח יְהוָה בִּירוּשָׁלִָם",
+       "translit": "el mizbah Adonai birușalam",
+       "strong": "H3389",
+       "pos": "prepoziție + substantiv, masculin singular construct + nume propriu + nume propriu",
+       "def_ro": "la altarul DOMNULUI în Ierusalim, (el mizbah Adonai birușalam)",
+       "dict_ro": "Centralizarea cultului la Templul din Ierusalim, singurul loc legitim de jertfă după reformă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "aveau voie doar să mănânce azime",
+       "w": "aveau voie doar să mănânce azime",
+       "heb": "כִּי אִם אָכְלוּ מַצּוֹת",
+       "translit": "ki im ahlu mațot",
+       "strong": "H4682",
+       "pos": "conjuncție + conjuncție + verb, qal perfect + substantiv, feminin plural",
+       "def_ro": "aveau voie doar să mănânce azime (ki im ahlu mațot)",
+       "dict_ro": "Rashi: li se permitea totuși să primească partea cuvenită din prinosuri și alte daruri sacerdotale, dar fără a oficia personal jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "printre frații lor.",
+       "w": "printre frații lor.",
+       "heb": "בְּתוֹךְ אֲחֵיהֶם",
+       "translit": "betoh ahēhem",
+       "strong": "H251",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + sufix",
+       "def_ro": "printre frații lor. (betoh ahēhem)",
+       "dict_ro": "Confirmă reintegrarea lor socială și economică în rândul preoțimii, chiar dacă fără funcție activă de jertfă."
       }
      ],
      "textCompare": [
@@ -20994,7 +21551,40 @@
      "translit": "Vaitzav hameleh et-kol-haam lemor asu fesah l'ADONAI Eloheihem kakatu v al sefer haberit haze.",
      "tokens": [
       {
-       "t": "Și regele a poruncit întregului popor, spunând: „Aduceți jertfa de Paște DOMNULUI, Dumnezeului vostru, cum este scris în această Carte a Legământului.”"
+       "t": "Și regele a poruncit întregului popor, spunând:",
+       "w": "Și regele a poruncit întregului popor, spunând:",
+       "heb": "וַיְצַו הַמֶּלֶךְ אֶת כָּל הָעָם לֵאמֹר",
+       "translit": "vaițav hameleh et kal haam lēmor",
+       "strong": "H559",
+       "pos": "verb, piel imperfect consecutiv + substantiv, masculin singular + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin singular + verb, qal infinitiv",
+       "def_ro": "și regele a poruncit întregului popor, spunând: (vaițav hameleh et kal haam lēmor)",
+       "dict_ro": "Reforma trece de la eliminarea idolatriei la restaurarea pozitivă a cultului legitim — sărbătoarea centrală a Paștelui."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Aduceți jertfa de Paște DOMNULUI, Dumnezeului vostru,",
+       "w": "Aduceți jertfa de Paște DOMNULUI, Dumnezeului vostru,",
+       "heb": "עֲשׂוּ פֶסַח לַיהוָה אֱלֹהֵיכֶם",
+       "translit": "asu fesah la'Adonai elohēhem",
+       "strong": "H430",
+       "pos": "verb, qal imperativ + substantiv, masculin singular + nume propriu + substantiv, masculin plural construct + sufix",
+       "def_ro": "aduceți jertfa de Paște DOMNULUI, Dumnezeului vostru, (asu fesah la'Adonai elohēhem)",
+       "dict_ro": "Porunca regală directă de a celebra Paștele, respectând exact prescripțiile legale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cum este scris în această Carte a Legământului.”",
+       "w": "cum este scris în această Carte a Legământului.”",
+       "heb": "כַּכָּתוּב עַל סֵפֶר הַבְּרִית הַזֶּה",
+       "translit": "kakatuv al sēfer habrit haze",
+       "strong": "H2088",
+       "pos": "verb, qal participiu pasiv + prepoziție + substantiv, masculin singular construct + substantiv, feminin singular + pronume demonstrativ",
+       "def_ro": "cum este scris în această Carte a Legământului.” (kakatuv al sēfer habrit haze)",
+       "dict_ro": "Confirmă din nou autoritatea Cărții Legii recent descoperite ca standard pentru implementarea corectă a ritualului."
       }
      ],
      "textCompare": [
@@ -21025,20 +21615,53 @@
      "translit": "Ki lo naasa kapesah haze mimei hașoftim așer șaftu et-Israel vehol iemei malhei Israel umalhei Iehuda.",
      "tokens": [
       {
-       "t": "Căci o asemenea jertfă de Paște nu se mai adusese "
+       "t": "Căci o asemenea jertfă de Paște nu se mai adusese",
+       "w": "Căci o asemenea jertfă de Paște nu se mai adusese",
+       "heb": "כִּי לֹא נַעֲשָׂה כַּפֶּסַח הַזֶּה",
+       "translit": "ki lo naasa kapesah haze",
+       "strong": "H2088",
+       "pos": "conjuncție + particulă negativă + verb, nifal perfect + substantiv, masculin singular + pronume demonstrativ",
+       "def_ro": "căci o asemenea jertfă de Paște nu se mai adusese (ki lo naasa kapesah haze)",
+       "dict_ro": "Rashi: nu lipsa oricărei jertfe de Paște e remarcată, ci absența unei asemenea participări masive, unanime a întregului popor."
       },
       {
-       "t": "din zilele judecătorilor",
-       "w": "din zilele judecătorilor",
-       "heb": "מִימֵי הַשֹּׁפְטִים",
-       "translit": "mimē hașoftim",
-       "strong": "H8199",
-       "pos": "substantiv, masculin plural construct + verb, qal participiu",
-       "def_ro": "din zilele judecătorilor (mimē hașoftim).",
-       "dict_ro": "Rashi notează o altă tradiție, din Cronici (2 Cronici 35:18): nici chiar sub Samuel — ultimul judecător, care readusese Israel la bine și-l adunase la Mițpa — nu se mai strânsese atâta popor la o singură jertfă de Paște ca acum. O a doua explicație a lui Rashi: de la împărțirea regatului sub Ieroboam, niciun Paște comun nu mai reunise tot Israelul la Ierusalim, cât timp cele zece triburi se închinau la viței în Bet-El și Dan — abia acum, prin profetul Ieremia, rămășițele celor zece triburi se întorc și se supun regelui Ioșiahu, reunindu-se la Ierusalim."
+       "t": " "
       },
       {
-       "t": " care îl judecau pe Israel și nici în toate zilele regilor Israelului și ale regilor din Iuda."
+       "t": "din zilele judecătorilor care îl judecau pe Israel",
+       "w": "din zilele judecătorilor care îl judecau pe Israel",
+       "heb": "מִימֵי הַשֹּׁפְטִים אֲשֶׁר שָׁפְטוּ אֶת יִשְׂרָאֵל",
+       "translit": "mimē hașoftim așer șaftu et israēl",
+       "strong": "H3478",
+       "pos": "substantiv, masculin plural construct + verb, qal participiu + particulă relativă + verb, qal perfect + marcă a complementului direct + nume propriu",
+       "def_ro": "din zilele judecătorilor care îl judecau pe Israel (mimē hașoftim așer șaftu et israēl)",
+       "dict_ro": "Rashi, pe baza paralelei din 2 Cronici 35:18: perioada de referință e identificată mai precis cu vremea lui Samuel, ultimul dintre judecători, care a reunit poporul la Mițpa."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și nici în toate zilele regilor Israelului",
+       "w": "și nici în toate zilele regilor Israelului",
+       "heb": "וְכֹל יְמֵי מַלְכֵי יִשְׂרָאֵל",
+       "translit": "vehol iemē malhē israēl",
+       "strong": "H3478",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + substantiv, masculin plural construct + nume propriu",
+       "def_ro": "și nici în toate zilele regilor Israelului (vehol iemē malhē israēl)",
+       "dict_ro": "Radak: nici regii unificați precum David și Solomon nu au realizat o asemenea celebrare la nivelul descris pentru Ioșia."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ale regilor din Iuda.",
+       "w": "și ale regilor din Iuda.",
+       "heb": "וּמַלְכֵי יְהוּדָה",
+       "translit": "umalhē iehuda",
+       "strong": "H3063",
+       "pos": "substantiv, masculin plural construct + nume propriu",
+       "def_ro": "și ale regilor din Iuda. (umalhē iehuda)",
+       "dict_ro": "Extinde comparația la întreaga istorie regală a lui Iuda, confirmând caracterul unic al acestui eveniment."
       }
      ],
      "textCompare": [
@@ -21073,7 +21696,40 @@
      "translit": "Ki im-bișmona esre șana lameleh Ioșiahu naasa hapesah haze l'ADONAI b'Irușalaim.",
      "tokens": [
       {
-       "t": "Dar în al optsprezecelea an al [domniei] regelui Ioșiahu, această jertfă de Paște a fost adusă DOMNULUI în Ierusalim."
+       "t": "Dar în al optsprezecelea an al [domniei] regelui Ioșiahu,",
+       "w": "Dar în al optsprezecelea an al [domniei] regelui Ioșiahu,",
+       "heb": "כִּי אִם בִּשְׁמֹנֶה עֶשְׂרֵה שָׁנָה לַמֶּלֶךְ יֹאשִׁיָּהוּ",
+       "translit": "ki im bișmone esrē șana lameleh ioșiahu",
+       "strong": "H2977",
+       "pos": "conjuncție + conjuncție + numeral + numeral + substantiv, feminin singular + substantiv, masculin singular + nume propriu",
+       "def_ro": "dar în al optsprezecelea an al [domniei] regelui Ioșiahu, (ki im bișmone esrē șana lameleh ioșiahu)",
+       "dict_ro": "Marchează precis anul domniei în care reforma a culminat — același an în care fusese găsită Cartea Legii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "această jertfă de Paște a fost adusă DOMNULUI",
+       "w": "această jertfă de Paște a fost adusă DOMNULUI",
+       "heb": "נַעֲשָׂה הַפֶּסַח הַזֶּה לַיהוָה",
+       "translit": "naasa hapesah haze la'Adonai",
+       "strong": "H3068",
+       "pos": "verb, nifal perfect + substantiv, masculin singular + pronume demonstrativ + nume propriu",
+       "def_ro": "această jertfă de Paște a fost adusă DOMNULUI (naasa hapesah haze la'Adonai)",
+       "dict_ro": "Confirmă execuția efectivă a poruncii date la v.21, finalizând reforma printr-o sărbătorire concretă, nu doar teoretică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Ierusalim.",
+       "w": "în Ierusalim.",
+       "heb": "בִּירוּשָׁלִָם",
+       "translit": "birușalam",
+       "strong": "H3389",
+       "pos": "nume propriu",
+       "def_ro": "în Ierusalim. (birușalam)",
+       "dict_ro": "Locul centralizat al jertfei, conform principiului centralizării cultului impus de reforma lui Ioșia."
       }
      ],
      "textCompare": [
@@ -21101,7 +21757,92 @@
      "translit": "Vegam et-haovot veet-haidonim veet-haterafim veet-hagilulim veet kol-hașikuțim așer niru beeret Iehuda uv'Irușalaim bier Ioșiahu lemaan hakim et-divrei hatora haketuvim al-hasefer așer matza Hilkiahu hakohen beit ADONAI.",
      "tokens": [
       {
-       "t": "Și Ioșiahu a scos și [obiectele idolatre] de ghicit, și descântecele, terafim-ii, idolii și toate celelalte orori care se puteau vedea în ținutul lui Iuda și la Ierusalim, împlinind cuvintele Învățăturii care erau scrise în Cartea pe care preotul Hilkiahu o găsise în Casa DOMNULUI."
+       "t": "Și Ioșiahu a scos și [obiectele idolatre] de ghicit,",
+       "w": "Și Ioșiahu a scos și [obiectele idolatre] de ghicit,",
+       "heb": "וְגַם אֶת הָאֹבוֹת",
+       "translit": "vegam et haovot",
+       "strong": "H178",
+       "pos": "particulă afirmativă + marcă a complementului direct + substantiv, masculin plural",
+       "def_ro": "și Ioșiahu a scos și [obiectele idolatre] de ghicit, (vegam et haovot)",
+       "dict_ro": "Extinde reforma dincolo de idolatria clasică, la practicile oculte de necromanție și ghicit, interzise explicit în Lege."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și descântecele, terafim-ii, idolii",
+       "w": "și descântecele, terafim-ii, idolii",
+       "heb": "וְאֶת הַיִּדְּעֹנִים וְאֶת הַתְּרָפִים וְאֶת הַגִּלֻּלִים",
+       "translit": "veet haidonim veet hatrafim veet hagilulim",
+       "strong": "H1544",
+       "pos": "marcă a complementului direct + substantiv, masculin plural + marcă a complementului direct + substantiv, masculin plural + marcă a complementului direct + substantiv, masculin plural",
+       "def_ro": "și descântecele, terafim-ii, idolii (veet haidonim veet hatrafim veet hagilulim)",
+       "dict_ro": "Enumerare completă a diverselor forme de practici oculte și de idolatrie domestică, inclusiv terafim-ii, idolii familiali folosiți pentru divinație."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și toate celelalte orori care se puteau vedea",
+       "w": "și toate celelalte orori care se puteau vedea",
+       "heb": "וְאֵת כָּל הַשִּׁקֻּצִים אֲשֶׁר נִרְאוּ",
+       "translit": "veēt kal hașikuțim așer niru",
+       "strong": "H7200",
+       "pos": "marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin plural + particulă relativă + verb, nifal perfect",
+       "def_ro": "și toate celelalte orori care se puteau vedea (veēt kal hașikuțim așer niru)",
+       "dict_ro": "Formulă generală care include orice altă formă de practică idolatră vizibilă, neenumerată explicit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în ținutul lui Iuda și la Ierusalim,",
+       "w": "în ținutul lui Iuda și la Ierusalim,",
+       "heb": "בְּאֶרֶץ יְהוּדָה וּבִירוּשָׁלִַם",
+       "translit": "beereț iehuda uvirușalam",
+       "strong": "H3389",
+       "pos": "substantiv, masculin și feminin singular construct + nume propriu + nume propriu",
+       "def_ro": "în ținutul lui Iuda și la Ierusalim, (beereț iehuda uvirușalam)",
+       "dict_ro": "Confirmă din nou întinderea geografică completă a reformei, în tot regatul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "împlinind cuvintele Învățăturii",
+       "w": "împlinind cuvintele Învățăturii",
+       "heb": "בִּעֵר יֹאשִׁיָּהוּ לְמַעַן הָקִים אֶת דִּבְרֵי הַתּוֹרָה",
+       "translit": "biēr ioșiahu lemaan hakim et divrē hatora",
+       "strong": "H8451",
+       "pos": "verb, piel perfect + nume propriu + prepoziție + verb, hifil infinitiv + marcă a complementului direct + substantiv, masculin plural construct + substantiv, feminin singular",
+       "def_ro": "împlinind cuvintele Învățăturii (biēr ioșiahu lemaan hakim et divrē hatora)",
+       "dict_ro": "Scopul explicit al întregii acțiuni — nu reformă politică arbitrară, ci ascultare directă de poruncile Legii descoperite."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care erau scrise în Cartea pe care preotul Hilkiahu o găsise",
+       "w": "care erau scrise în Cartea pe care preotul Hilkiahu o găsise",
+       "heb": "הַכְּתֻבִים עַל הַסֵּפֶר אֲשֶׁר מָצָא חִלְקִיָּהוּ הַכֹּהֵן",
+       "translit": "haktuvim al hasēfer așer mața hilkiahu hakohēn",
+       "strong": "H3548",
+       "pos": "verb, qal participiu pasiv + prepoziție + substantiv, masculin singular + particulă relativă + verb, qal perfect + nume propriu + substantiv, masculin singular",
+       "def_ro": "care erau scrise în Cartea pe care preotul Hilkiahu o găsise (haktuvim al hasēfer așer mața hilkiahu hakohēn)",
+       "dict_ro": "Reconfirmă legătura cu descoperirea inițială a Cărții Legii, firul narativ central al întregii reforme a lui Ioșia."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Casa DOMNULUI.",
+       "w": "în Casa DOMNULUI.",
+       "heb": "בֵּית יְהוָה",
+       "translit": "bēt Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "în Casa DOMNULUI. (bēt Adonai)",
+       "dict_ro": "Locul exact al descoperirii — Templul însuși, simbolic locul unde reforma a început și s-a și încheiat."
       }
      ],
      "textCompare": [
@@ -21132,7 +21873,66 @@
      "translit": "Vehamohu lo-haia lefanav meleh așer-șav el-ADONAI behol-levavo uvehol-nafșo uvehol-meodo kehol torat Moșe veaharav lo-kam kamohu.",
      "tokens": [
       {
-       "t": "Înaintea lui nu fusese niciodată un rege care s-a întors la DOMNUL cu toată inima lui, cu tot sufletul lui și cu toată puterea lui, precum întreaga Învățătură a lui Moise; și nici după el nu s-a mai ridicat nimeni asemenea lui."
+       "t": "Înaintea lui nu fusese niciodată un rege",
+       "w": "Înaintea lui nu fusese niciodată un rege",
+       "heb": "וְכָמֹהוּ לֹא הָיָה לְפָנָיו מֶלֶךְ",
+       "translit": "vehamohu lo haia lefanaiv meleh",
+       "strong": "H4428",
+       "pos": "prepoziție + sufix + particulă negativă + verb, qal perfect + substantiv, masculin și feminin plural construct + sufix + substantiv, masculin singular",
+       "def_ro": "înaintea lui nu fusese niciodată un rege (vehamohu lo haia lefanaiv meleh)",
+       "dict_ro": "Formulă superlativă unică în cărțile Împărați, rezervată exclusiv lui Ioșia pentru calitatea pocăinței sale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care s-a întors la DOMNUL",
+       "w": "care s-a întors la DOMNUL",
+       "heb": "אֲשֶׁר שָׁב אֶל יְהוָה",
+       "translit": "așer șav el Adonai",
+       "strong": "H3068",
+       "pos": "particulă relativă + verb, qal perfect + prepoziție + nume propriu",
+       "def_ro": "care s-a întors la DOMNUL (așer șav el Adonai)",
+       "dict_ro": "Radak notează contrastul chiar cu regii lăudați anterior, precum Ezechia — niciunul nu a eliminat complet toate înălțimile idolatre din întreaga țară, cum a făcut Ioșia."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu toată inima lui, cu tot sufletul lui și cu toată puterea lui,",
+       "w": "cu toată inima lui, cu tot sufletul lui și cu toată puterea lui,",
+       "heb": "בְּכָל לְבָבוֹ וּבְכָל נַפְשׁוֹ וּבְכָל מְאֹדוֹ",
+       "translit": "behal levavo uvhal nafșo uvhal meodo",
+       "strong": "H3966",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + sufix + substantiv, masculin singular construct + substantiv, masculin și feminin singular construct + sufix + substantiv, masculin singular construct + substantiv, masculin singular construct + sufix",
+       "def_ro": "cu toată inima lui, cu tot sufletul lui și cu toată puterea lui, (behal levavo uvhal nafșo uvhal meodo)",
+       "dict_ro": "Formula completă din Deuteronom 6:5 — Metzudat David: tradiția rabinică (Șabat 56b) interpretează «cu toată puterea lui» ca referindu-se la restituirea personală, din averea proprie, a oricărei judecăți nedrepte pe care o pronunțase între vârstele de opt și optsprezece ani."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "precum întreaga Învățătură a lui Moise;",
+       "w": "precum întreaga Învățătură a lui Moise;",
+       "heb": "כְּכֹל תּוֹרַת מֹשֶׁה",
+       "translit": "kehol torat moșe",
+       "strong": "H4872",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular construct + nume propriu",
+       "def_ro": "precum întreaga Învățătură a lui Moise; (kehol torat moșe)",
+       "dict_ro": "Confirmă fidelitatea totală, fără compromis, față de standardul complet al Legii mozaice, nu doar parțial."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și nici după el nu s-a mai ridicat nimeni asemenea lui.",
+       "w": "și nici după el nu s-a mai ridicat nimeni asemenea lui.",
+       "heb": "וְאַחֲרָיו לֹא קָם כָּמֹהוּ",
+       "translit": "veaharaiv lo kam kamohu",
+       "strong": "H3644",
+       "pos": "prepoziție + sufix + particulă negativă + verb, qal perfect + prepoziție + sufix",
+       "def_ro": "și nici după el nu s-a mai ridicat nimeni asemenea lui. (veaharaiv lo kam kamohu)",
+       "dict_ro": "Încheie capitolul cu afirmarea unicității istorice absolute a lui Ioșia, deși domnia sa s-a încheiat tragic, iar reforma nu a supraviețuit mult timp după moartea lui."
       }
      ],
      "textCompare": [
