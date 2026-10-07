@@ -57708,20 +57708,69 @@
      "translit": "Vaihi kehalot Șelomo lehitpalel el-ADONAI et kol-hatefila vehatehina hazot kam milifnei mizbah ADONAI mikroa al-birkav vehapav perusot hașamaim.",
      "tokens": [
       {
-       "t": "Și a fost, când Solomon a terminat să se roage DOMNULUI toată această rugăciune și implorare, s-a ridicat de dinaintea altarului DOMNULUI unde stătuse "
+       "t": "Și a fost, când Solomon a terminat să se roage DOMNULUI",
+       "w": "Și a fost, când Solomon a terminat să se roage DOMNULUI",
+       "heb": "וַיְהִי כְּכַלּוֹת שְׁלֹמֹה לְהִתְפַּלֵּל אֶל יְהוָה",
+       "translit": "vaihi kehalot șelomo lehitpalēl el Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperfect consecutiv + verb, piel infinitiv + nume propriu + verb, hitpael infinitiv + prepoziție + nume propriu",
+       "def_ro": "Și a fost, când Solomon a terminat să se roage DOMNULUI (vaihi kehalot șelomo lehitpalēl el Adonai)",
+       "dict_ro": "Terminarea rugăciunii marchează trecerea de la invocarea DOMNULUI la binecuvântarea poporului."
       },
       {
-       "t": "îngenunchiat",
-       "w": "îngenunchiat",
-       "heb": "מִכְּרֹעַ",
-       "translit": "mikroa",
-       "strong": "H3766",
-       "pos": "verb, qal infinitiv",
-       "def_ro": "de pe genunchi (mikroa).",
-       "dict_ro": "Metzudat David explică simplu acest detaliu postural: «mikroa» arată că Solomon se ridică din poziția în care fusese îngenuncheat în timpul rugăciunii sale — un amănunt rar în Tora, unde rugăciunea stând în picioare e norma; îngenuncherea cu brațele întinse spre cer marchează intensitatea cu totul aparte a acestei rugi de sfințire."
+       "t": " "
       },
       {
-       "t": " cu palmele lui întinse către cer."
+       "t": "toată această rugăciune și implorare",
+       "w": "toată această rugăciune și implorare",
+       "heb": "אֵת כָּל הַתְּפִלָּה וְהַתְּחִנָּה הַזֹּאת",
+       "translit": "ēt kal hatfila vehathina hazot",
+       "strong": "H2063",
+       "pos": "marcă a complementului direct + substantiv, masculin singular construct + substantiv, feminin singular + substantiv, feminin singular + pronume demonstrativ",
+       "def_ro": "toată această rugăciune și implorare (ēt kal hatfila vehathina hazot)",
+       "dict_ro": "Metzudat David explică faptul că Solomon stătuse îngenunchiat în timpul rugăciunii sale."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "s-a ridicat de dinaintea altarului DOMNULUI",
+       "w": "s-a ridicat de dinaintea altarului DOMNULUI",
+       "heb": "קָם מִלִּפְנֵי מִזְבַּח יְהוָה",
+       "translit": "kam milifnē mizbah Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal perfect + substantiv, masculin și feminin plural construct + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "s-a ridicat de dinaintea altarului DOMNULUI (kam milifnē mizbah Adonai)",
+       "dict_ro": "Ridicarea de la altar încheie poziția de smerenie adoptată în timpul invocării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "unde stătuse îngenunchiat",
+       "w": "unde stătuse îngenunchiat",
+       "heb": "מִכְּרֹעַ עַל בִּרְכָּיו",
+       "translit": "mikroa al birkaiv",
+       "strong": "H1290",
+       "pos": "verb, qal infinitiv + prepoziție + substantiv, feminin dual construct + sufix",
+       "def_ro": "unde stătuse îngenunchiat (mikroa al birkaiv)",
+       "dict_ro": "Poziția îngenuncheată exprimă umilința profundă a regelui înaintea DOMNULUI."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu palmele lui întinse către cer",
+       "w": "cu palmele lui întinse către cer",
+       "heb": "וְכַפָּיו פְּרֻשׂוֹת הַשָּׁמָיִם",
+       "translit": "vehapaiv perusot hașamaim",
+       "strong": "H8064",
+       "pos": "substantiv, feminin dual construct + sufix + verb, qal participiu pasiv + substantiv, masculin plural",
+       "def_ro": "cu palmele lui întinse către cer (vehapaiv perusot hașamaim)",
+       "dict_ro": "Palmele întinse către cer sunt gestul tradițional al rugăciunii de implorare."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -57758,7 +57807,56 @@
      "translit": "Vaiaamod vaivareh et kol-kehal Israel kol gadol lemor.",
      "tokens": [
       {
-       "t": "A stat în picioare și a binecuvântat toată obștea lui Israel cu glas tare, spunând:"
+       "t": "A stat în picioare",
+       "w": "A stat în picioare",
+       "heb": "וַיַּעְמֹד",
+       "translit": "vaiamod",
+       "strong": "H5975",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "A stat în picioare (vaiamod)",
+       "dict_ro": "Trecerea la poziția verticală marchează adresarea directă către popor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și a binecuvântat toată obștea lui Israel",
+       "w": "și a binecuvântat toată obștea lui Israel",
+       "heb": "וַיְבָרֶךְ אֵת כָּל קְהַל יִשְׂרָאֵל",
+       "translit": "vaivareh ēt kal kehal israēl",
+       "strong": "H3478",
+       "pos": "verb, piel imperfect consecutiv + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "și a binecuvântat toată obștea lui Israel (vaivareh ēt kal kehal israēl)",
+       "dict_ro": "Binecuvântarea întregii obști urmează imediat rugăciunii personale a regelui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu glas tare",
+       "w": "cu glas tare",
+       "heb": "קוֹל גָּדוֹל",
+       "translit": "kol gadol",
+       "strong": "H1419",
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "cu glas tare (kol gadol)",
+       "dict_ro": "Glasul tare asigură că binecuvântarea ajunge la toată mulțimea adunată."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "spunând",
+       "w": "spunând",
+       "heb": "לֵאמֹר",
+       "translit": "lēmor",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "spunând (lēmor)",
+       "dict_ro": "Formula pregătește citarea exactă a cuvintelor binecuvântării."
+      },
+      {
+       "t": ":"
       }
      ],
      "textCompare": [
@@ -57789,7 +57887,46 @@
      "translit": "Baruh ADONAI așer natan menuha leamo Israel kehol așer diber lo-nafal davar ehad mikol devaro hatov așer diber beiad Moșe avdo.",
      "tokens": [
       {
-       "t": "„Binecuvântat este DOMNUL care a dat odihnă poporului Său Israel potrivit cu tot ceea ce a vorbit. "
+       "t": "„"
+      },
+      {
+       "t": "Binecuvântat este DOMNUL",
+       "w": "Binecuvântat este DOMNUL",
+       "heb": "בָּרוּךְ יְהוָה",
+       "translit": "baruh Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal participiu pasiv + nume propriu",
+       "def_ro": "Binecuvântat este DOMNUL (baruh Adonai)",
+       "dict_ro": "Binecuvântarea deschide discursul regal cu recunoștință directă către DOMNUL."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care a dat odihnă poporului Său Israel",
+       "w": "care a dat odihnă poporului Său Israel",
+       "heb": "אֲשֶׁר נָתַן מְנוּחָה לְעַמּוֹ יִשְׂרָאֵל",
+       "translit": "așer natan menuha leamo israēl",
+       "strong": "H3478",
+       "pos": "particulă relativă + verb, qal perfect + substantiv, masculin și feminin singular + substantiv, masculin singular construct + sufix + nume propriu",
+       "def_ro": "care a dat odihnă poporului Său Israel (așer natan menuha leamo israēl)",
+       "dict_ro": "Rashi identifică exact promisiunea odihnei cu cuvintele «și vă va da odihnă de la toți vrăjmașii voștri»."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "potrivit cu tot ceea ce a vorbit",
+       "w": "potrivit cu tot ceea ce a vorbit",
+       "heb": "כְּכֹל אֲשֶׁר דִּבֵּר",
+       "translit": "kehol așer dibēr",
+       "strong": "H1696",
+       "pos": "substantiv, masculin singular + particulă relativă + verb, piel perfect",
+       "def_ro": "potrivit cu tot ceea ce a vorbit (kehol așer dibēr)",
+       "dict_ro": "Împlinirea exactă a cuvântului rostit confirmă fidelitatea deplină a DOMNULUI."
+      },
+      {
+       "t": ". "
       },
       {
        "t": "Niciun cuvânt n-a rămas neîmplinit",
@@ -57798,11 +57935,37 @@
        "translit": "lo nafal davar ehad",
        "strong": "H259",
        "pos": "particulă negativă + verb, qal perfect + substantiv, masculin singular + numeral",
-       "def_ro": "n-a rămas neîmplinit niciun cuvânt (lo nafal davar ehad).",
-       "dict_ro": "Rashi identifică exact cuvântul împlinit: «și ți-a dat odihnă de la toți vrăjmașii tăi» (Iosua 21:44) — promisiunea lui Moise, repetată de Iosua, se încheie abia acum, sub Solomon, cu zidirea Templului și odihna deplină a poporului; fiecare etapă istorică intermediară a fost doar o împlinire parțială a aceluiași cuvânt."
+       "def_ro": "Niciun cuvânt n-a rămas neîmplinit (lo nafal davar ehad)",
+       "dict_ro": "Afirmarea categorică a împlinirii totale încheie orice îndoială asupra promisiunilor divine."
       },
       {
-       "t": " din tot cuvântul cel bun pe care l-a vorbit [DOMNUL] prin intermediul slujitorului Lui, Moise."
+       "t": " "
+      },
+      {
+       "t": "din tot cuvântul cel bun",
+       "w": "din tot cuvântul cel bun",
+       "heb": "מִכֹּל דְּבָרוֹ הַטּוֹב",
+       "translit": "mikol devaro hatov",
+       "strong": "H2896",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + sufix + adjectiv, masculin singular",
+       "def_ro": "din tot cuvântul cel bun (mikol devaro hatov)",
+       "dict_ro": "Calitatea de «bun» a cuvântului divin reflectă bunăvoința constantă a DOMNULUI."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care l-a vorbit [DOMNUL] prin intermediul slujitorului Lui, Moise",
+       "w": "pe care l-a vorbit [DOMNUL] prin intermediul slujitorului Lui, Moise",
+       "heb": "אֲשֶׁר דִּבֶּר בְּיַד מֹשֶׁה עַבְדּוֹ",
+       "translit": "așer diber beiad moșe avdo",
+       "strong": "H5650",
+       "pos": "particulă relativă + verb, piel perfect + substantiv, masculin și feminin singular construct + nume propriu + substantiv, masculin singular construct + sufix",
+       "def_ro": "pe care l-a vorbit [DOMNUL] prin intermediul slujitorului Lui, Moise (așer diber beiad moșe avdo)",
+       "dict_ro": "Moise, numit explicit «slujitorul Lui», rămâne canalul istoric prin care s-au transmis aceste promisiuni."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -57840,7 +58003,43 @@
      "translit": "Iehi ADONAI Eloheinu imanu kaașer haia im-avoteinu al-iaazvenu veal-iteșenu.",
      "tokens": [
       {
-       "t": "DOMNUL, Dumnezeul nostru, să fie cu noi așa cum a fost cu strămoșii noștri; să nu ne părăsească și să nu ne dea deoparte,"
+       "t": "DOMNUL, Dumnezeul nostru, să fie cu noi",
+       "w": "DOMNUL, Dumnezeul nostru, să fie cu noi",
+       "heb": "יְהִי יְהוָה אֱלֹהֵינוּ עִמָּנוּ",
+       "translit": "iehi Adonai elohēnu imanu",
+       "strong": "H5973",
+       "pos": "verb, qal jusiv + nume propriu + substantiv, masculin plural construct + sufix + prepoziție + sufix",
+       "def_ro": "DOMNUL, Dumnezeul nostru, să fie cu noi (iehi Adonai elohēnu imanu)",
+       "dict_ro": "Rugăciunea pentru prezența continuă a DOMNULUI marchează trecerea la cererile viitoare ale lui Solomon."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "așa cum a fost cu strămoșii noștri",
+       "w": "așa cum a fost cu strămoșii noștri",
+       "heb": "כַּאֲשֶׁר הָיָה עִם אֲבֹתֵינוּ",
+       "translit": "kaașer haia im avotēnu",
+       "strong": "H1",
+       "pos": "particulă relativă + verb, qal perfect + prepoziție + substantiv, masculin plural construct + sufix",
+       "def_ro": "așa cum a fost cu strămoșii noștri (kaașer haia im avotēnu)",
+       "dict_ro": "Metzudat David identifică strămoșii cu generația pustiei, cu care Șechina S-a aflat într-o prezență continuă."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "să nu ne părăsească și să nu ne dea deoparte",
+       "w": "să nu ne părăsească și să nu ne dea deoparte",
+       "heb": "אַל יַעַזְבֵנוּ וְאַל יִטְּשֵׁנוּ",
+       "translit": "al iaazvēnu veal itșēnu",
+       "strong": "H5203",
+       "pos": "particulă negativă + verb, qal jusiv + sufix + particulă negativă + verb, qal jusiv + sufix",
+       "def_ro": "să nu ne părăsească și să nu ne dea deoparte (al iaazvēnu veal itșēnu)",
+       "dict_ro": "Repetarea negației duble, «nu ne părăsească» și «nu ne dea deoparte», întărește intensitatea cererii."
+      },
+      {
+       "t": ","
       }
      ],
      "textCompare": [
@@ -57873,7 +58072,56 @@
      "translit": "Lehatot levavenu elav lalehet behol-derahav velișmor mitzvotav vehukav umișpatav așer tziva et-avoteinu.",
      "tokens": [
       {
-       "t": "ca să îndrepte inimile noastre către El, ca să mergem pe toate căile Sale și să păzim poruncile Sale, decretele și judecățile pe care le-a poruncit strămoșilor noștri."
+       "t": "ca să îndrepte inimile noastre către El",
+       "w": "ca să îndrepte inimile noastre către El",
+       "heb": "לְהַטּוֹת לְבָבֵנוּ אֵלָיו",
+       "translit": "lehatot levavēnu ēlaiv",
+       "strong": "H413",
+       "pos": "verb, hifil infinitiv + substantiv, masculin singular construct + sufix + prepoziție + sufix",
+       "def_ro": "ca să îndrepte inimile noastre către El (lehatot levavēnu ēlaiv)",
+       "dict_ro": "Metzudat David leagă această cerere de precedentul exact al îndreptării inimii strămoșilor, atunci când cuvântul divin le era accesibil direct."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ca să mergem pe toate căile Sale",
+       "w": "ca să mergem pe toate căile Sale",
+       "heb": "לָלֶכֶת בְּכָל דְּרָכָיו",
+       "translit": "lalehet behal derahaiv",
+       "strong": "H1870",
+       "pos": "verb, qal infinitiv + substantiv, masculin singular construct + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "ca să mergem pe toate căile Sale (lalehet behal derahaiv)",
+       "dict_ro": "Mersul pe căile divine rămâne scopul practic al îndreptării inimii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să păzim poruncile Sale, decretele și judecățile",
+       "w": "și să păzim poruncile Sale, decretele și judecățile",
+       "heb": "וְלִשְׁמֹר מִצְוֺתָיו וְחֻקָּיו וּמִשְׁפָּטָיו",
+       "translit": "velișmor mițvotaiv vehukaiv umișpataiv",
+       "strong": "H4941",
+       "pos": "verb, qal infinitiv + substantiv, feminin plural construct + sufix + substantiv, masculin plural construct + sufix + substantiv, masculin plural construct + sufix",
+       "def_ro": "și să păzim poruncile Sale, decretele și judecățile (velișmor mițvotaiv vehukaiv umișpataiv)",
+       "dict_ro": "Enumerarea triplă — porunci, decrete, judecăți — cuprinde întreaga Tora transmisă poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care le-a poruncit strămoșilor noștri",
+       "w": "pe care le-a poruncit strămoșilor noștri",
+       "heb": "אֲשֶׁר צִוָּה אֶת אֲבֹתֵינוּ",
+       "translit": "așer țiva et avotēnu",
+       "strong": "H1",
+       "pos": "particulă relativă + verb, piel perfect + marcă a complementului direct + substantiv, masculin plural construct + sufix",
+       "def_ro": "pe care le-a poruncit strămoșilor noștri (așer țiva et avotēnu)",
+       "dict_ro": "Legătura cu strămoșii confirmă continuitatea neîntreruptă a legământului divin."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -57906,7 +58154,56 @@
      "translit": "Veihyu devarai ele așer hithananti lifnei ADONAI kerovim el-ADONAI Eloheinu iomam valaila laasot mișpat avdo umișpat amo Israel devar-iom beiomo.",
      "tokens": [
       {
-       "t": "Să fie aceste cuvinte ale mele, pe care le-am rostit ca implorare înaintea DOMNULUI, aproape de DOMNUL, Dumnezeul nostru, zi și noapte, pentru ca El să facă judecata slujitorului Său și judecata poporului Său Israel, "
+       "t": "Să fie aceste cuvinte ale mele",
+       "w": "Să fie aceste cuvinte ale mele",
+       "heb": "וְיִהְיוּ דְבָרַי אֵלֶּה",
+       "translit": "veihiu devarai ēle",
+       "strong": "H428",
+       "pos": "verb, qal jusiv + substantiv, masculin plural construct + sufix + pronume demonstrativ",
+       "def_ro": "Să fie aceste cuvinte ale mele (veihiu devarai ēle)",
+       "dict_ro": "Cererea ca cuvintele rugăciunii să rămână mereu active înaintea DOMNULUI leagă implorarea personală de nevoile continue ale poporului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "pe care le-am rostit ca implorare înaintea DOMNULUI",
+       "w": "pe care le-am rostit ca implorare înaintea DOMNULUI",
+       "heb": "אֲשֶׁר הִתְחַנַּנְתִּי לִפְנֵי יְהוָה",
+       "translit": "așer hithananti lifnē Adonai",
+       "strong": "H3068",
+       "pos": "particulă relativă + verb, hitpael perfect + substantiv, masculin și feminin plural construct + nume propriu",
+       "def_ro": "pe care le-am rostit ca implorare înaintea DOMNULUI (așer hithananti lifnē Adonai)",
+       "dict_ro": "Formula «zi și noapte» exprimă cererea unei prezențe divine neîntrerupte, veghind permanent."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "aproape de DOMNUL, Dumnezeul nostru, zi și noapte",
+       "w": "aproape de DOMNUL, Dumnezeul nostru, zi și noapte",
+       "heb": "קְרֹבִים אֶל יְהוָה אֱלֹהֵינוּ יוֹמָם וָלָיְלָה",
+       "translit": "kerovim el Adonai elohēnu iomam valaila",
+       "strong": "H3915",
+       "pos": "adjectiv, masculin plural + prepoziție + nume propriu + substantiv, masculin plural construct + sufix + adverb + substantiv, masculin singular",
+       "def_ro": "aproape de DOMNUL, Dumnezeul nostru, zi și noapte (kerovim el Adonai elohēnu iomam valaila)",
+       "dict_ro": "Radak explică faptul că apropierea cerută este cea a atenției constante a DOMNULUI asupra judecăților poporului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "pentru ca El să facă judecata slujitorului Său și judecata poporului Său Israel",
+       "w": "pentru ca El să facă judecata slujitorului Său și judecata poporului Său Israel",
+       "heb": "לַעֲשׂוֹת מִשְׁפַּט עַבְדּוֹ וּמִשְׁפַּט עַמּוֹ יִשְׂרָאֵל",
+       "translit": "laasot mișpat avdo umișpat amo israēl",
+       "strong": "H3478",
+       "pos": "verb, qal infinitiv + substantiv, masculin singular construct + substantiv, masculin singular construct + sufix + substantiv, masculin singular construct + substantiv, masculin singular construct + sufix + nume propriu",
+       "def_ro": "pentru ca El să facă judecata slujitorului Său și judecata poporului Său Israel (laasot mișpat avdo umișpat amo israēl)",
+       "dict_ro": "Rashi explică faptul că «judecata» cerută aici este scoaterea la dreptate a asupririi suferite de la vrăjmaș."
+      },
+      {
+       "t": ", "
       },
       {
        "t": "nevoia fiecărei zile în acea zi",
@@ -57915,8 +58212,8 @@
        "translit": "devar iom beomo",
        "strong": "H3117",
        "pos": "substantiv, masculin singular construct + substantiv, masculin singular + substantiv, masculin singular construct + sufix",
-       "def_ro": "lucrul fiecărei zile, în ziua ei (devar iom beiomo).",
-       "dict_ro": "Metzudat David și Radak explică expresia ca pe o cerere de providență continuă, nu doar pentru o singură izbăvire: Solomon nu se roagă pentru o singură intervenție, ci pentru atenția zilnică, neîntreruptă, a lui Dumnezeu asupra nevoilor poporului Său — tocmai aceasta, spune Radak, va face ca toate popoarele pământului să cunoască că DOMNUL e Dumnezeu."
+       "def_ro": "nevoia fiecărei zile în acea zi (devar iom beomo)",
+       "dict_ro": "Expresia «nevoia fiecărei zile în acea zi» cere providența divină adaptată exact la nevoile zilnice ale poporului."
       },
       {
        "t": "."
@@ -57961,7 +58258,30 @@
      "translit": "Lemaan daat kol-amei haareț ki ADONAI hu haElohim ein od.",
      "tokens": [
       {
-       "t": "Pentru ca toate popoarele pământului să știe că DOMNUL este Dumnezeu – "
+       "t": "Pentru ca toate popoarele pământului să știe",
+       "w": "Pentru ca toate popoarele pământului să știe",
+       "heb": "לְמַעַן דַּעַת כָּל עַמֵּי הָאָרֶץ",
+       "translit": "lemaan daat kal amē haareț",
+       "strong": "H776",
+       "pos": "prepoziție + verb, qal infinitiv + substantiv, masculin singular construct + substantiv, masculin plural construct + substantiv, masculin și feminin singular",
+       "def_ro": "Pentru ca toate popoarele pământului să știe (lemaan daat kal amē haareț)",
+       "dict_ro": "Scopul universal al recunoașterii divine extinde rugăciunea dincolo de Israel, la toate neamurile."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "că DOMNUL este Dumnezeu",
+       "w": "că DOMNUL este Dumnezeu",
+       "heb": "כִּי יְהוָה הוּא הָאֱלֹהִים",
+       "translit": "ki Adonai hu haelohim",
+       "strong": "H430",
+       "pos": "conjuncție + nume propriu + pronume personal + substantiv, masculin plural",
+       "def_ro": "că DOMNUL este Dumnezeu (ki Adonai hu haelohim)",
+       "dict_ro": "Afirmarea unicității DOMNULUI rezumă teologia centrală a întregii rugăciuni."
+      },
+      {
+       "t": " – "
       },
       {
        "t": "nu este nimeni altul",
@@ -57970,8 +58290,8 @@
        "translit": "ēn od",
        "strong": "H5750",
        "pos": "particulă negativă + adverb",
-       "def_ro": "nu mai este nimeni altul (ein od).",
-       "dict_ro": "Formula finală a rugăciunii lui Solomon atinge punctul culminant al monoteismului biblic: nu doar «DOMNUL e mare», ci explicit «nu mai este nimeni altul» — aceeași formulă exactă pe care Moise o folosește în Deuteronomul 4:35 și 4:39, legând astfel rugăciunea de sfințire a Templului direct de revelația de la Sinai."
+       "def_ro": "nu este nimeni altul (ēn od)",
+       "dict_ro": "Formula finală exclude categoric orice altă divinitate."
       },
       {
        "t": "."
@@ -58007,20 +58327,56 @@
      "translit": "Vehaia levavhem șalem im ADONAI Eloheinu lalehet behukav velișmor mitzvotav kaiom haze.",
      "tokens": [
       {
-       "t": "Fie ca "
+       "t": "Fie ca inima voastră să rămână integră cu DOMNUL, Dumnezeul nostru",
+       "w": "Fie ca inima voastră să rămână integră cu DOMNUL, Dumnezeul nostru",
+       "heb": "וְהָיָה לְבַבְכֶם שָׁלֵם עִם יְהוָה אֱלֹהֵינוּ",
+       "translit": "vehaia levavhem șalēm im Adonai elohēnu",
+       "strong": "H430",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular construct + sufix + adjectiv, masculin singular + prepoziție + nume propriu + substantiv, masculin plural construct + sufix",
+       "def_ro": "Fie ca inima voastră să rămână integră cu DOMNUL, Dumnezeul nostru (vehaia levavhem șalēm im Adonai elohēnu)",
+       "dict_ro": "Metzudat David explică faptul că întreaga eficacitate a rugăciunii depinde de integritatea inimii poporului față de DOMNUL."
       },
       {
-       "t": "inima voastră să rămână integră",
-       "w": "inima voastră să rămână integră",
-       "heb": "לְבַבְכֶם שָׁלֵם",
-       "translit": "levavhem șalēm",
-       "strong": "H8003",
-       "pos": "substantiv, masculin singular construct + sufix + adjectiv, masculin singular",
-       "def_ro": "inima voastră să fie integră/desăvârșită (levavhem șalem).",
-       "dict_ro": "Metzudat David citește acest verset ca pe o condiție, nu o simplă urare: toată rugăciunea lui Solomon pentru popor și pentru Templu rămâne fără rod dacă inima israeliților nu e «întreagă» cu Domnul — altfel spus, Casa poate fi sfințită desăvârșit, dar fără loialitatea interioară a poporului, sfințenia ei singură nu aduce binecuvântarea promisă."
+       "t": ", "
       },
       {
-       "t": " cu DOMNUL, Dumnezeul nostru, să urmeze decretele Sale și să păzească poruncile Sale ca în această zi.”"
+       "t": "să urmeze decretele Sale",
+       "w": "să urmeze decretele Sale",
+       "heb": "לָלֶכֶת בְּחֻקָּיו",
+       "translit": "lalehet behukaiv",
+       "strong": "H2706",
+       "pos": "verb, qal infinitiv + substantiv, masculin plural construct + sufix",
+       "def_ro": "să urmeze decretele Sale (lalehet behukaiv)",
+       "dict_ro": "Urmarea decretelor divine rămâne expresia practică a integrității cerute."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să păzească poruncile Sale",
+       "w": "și să păzească poruncile Sale",
+       "heb": "וְלִשְׁמֹר מִצְוֺתָיו",
+       "translit": "velișmor mițvotaiv",
+       "strong": "H4687",
+       "pos": "verb, qal infinitiv + substantiv, feminin plural construct + sufix",
+       "def_ro": "și să păzească poruncile Sale (velișmor mițvotaiv)",
+       "dict_ro": "Păzirea poruncilor completează condiția dublă a fidelității depline."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca în această zi",
+       "w": "ca în această zi",
+       "heb": "כַּיּוֹם הַזֶּה",
+       "translit": "kaiom haze",
+       "strong": "H2088",
+       "pos": "substantiv, masculin singular + pronume demonstrativ",
+       "def_ro": "ca în această zi (kaiom haze)",
+       "dict_ro": "Metzudat David explică faptul că «ca în această zi» se referă la starea actuală de integritate a inimii poporului, prezentă chiar în acel moment solemn."
+      },
+      {
+       "t": ".”"
       }
      ],
      "textCompare": [
@@ -58053,7 +58409,30 @@
      "translit": "Vehameleh vehol-Israel imo zovhim zevah lifnei ADONAI.",
      "tokens": [
       {
-       "t": "Apoi regele și tot Israelul împreună cu el au adus o ofrandă înaintea DOMNULUI."
+       "t": "Apoi regele și tot Israelul împreună cu el",
+       "w": "Apoi regele și tot Israelul împreună cu el",
+       "heb": "וְהַמֶּלֶךְ וְכָל יִשְׂרָאֵל עִמּוֹ",
+       "translit": "vehameleh vehal israēl imo",
+       "strong": "H5973",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular construct + nume propriu + prepoziție + sufix",
+       "def_ro": "Apoi regele și tot Israelul împreună cu el (vehameleh vehal israēl imo)",
+       "dict_ro": "Trecerea de la rugăciune la jertfă marchează etapa practică a sărbătorii de dedicare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "au adus o ofrandă înaintea DOMNULUI",
+       "w": "au adus o ofrandă înaintea DOMNULUI",
+       "heb": "זֹבְחִים זֶבַח לִפְנֵי יְהוָה",
+       "translit": "zovhim zevah lifnē Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal participiu + substantiv, masculin singular + substantiv, masculin și feminin plural construct + nume propriu",
+       "def_ro": "au adus o ofrandă înaintea DOMNULUI (zovhim zevah lifnē Adonai)",
+       "dict_ro": "Participarea comună a regelui și poporului la ofrandă confirmă unitatea întregii adunări."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -58084,20 +58463,56 @@
      "translit": "Vaizbah Șelomo et zevah hașelamim așer zavah l'ADONAI bakar esrim ușnaim elef vețon mea veesrim alef vaiahnehu et-beit ADONAI hameleh vehol-benei Israel.",
      "tokens": [
       {
-       "t": "Solomon a adus această ofrandă de pace pe care a adus-o DOMNULUI: douăzeci și două de mii de "
+       "t": "Solomon a adus această ofrandă de pace pe care a adus-o DOMNULUI",
+       "w": "Solomon a adus această ofrandă de pace pe care a adus-o DOMNULUI",
+       "heb": "וַיִּזְבַּח שְׁלֹמֹה אֵת זֶבַח הַשְּׁלָמִים אֲשֶׁר זָבַח לַיהוָה",
+       "translit": "vaizbah șelomo ēt zevah hașlamim așer zavah la'Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin plural + particulă relativă + verb, qal perfect + nume propriu",
+       "def_ro": "Solomon a adus această ofrandă de pace pe care a adus-o DOMNULUI (vaizbah șelomo ēt zevah hașlamim așer zavah la'Adonai)",
+       "dict_ro": "Numărul exact al ofrandei de pace confirmă amploarea fără precedent a sărbătorii de dedicare."
       },
       {
-       "t": "vite",
-       "w": "vite",
-       "heb": "בָּקָר",
-       "translit": "bakar",
-       "strong": "H1241",
-       "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "vite [cornute] (bakar).",
-       "dict_ro": "Rashi relatează o dezbatere talmudică (Moed Katan): dacă altarul de bronz al lui Moise avea doar 5x5 coți, iar cel al lui Solomon 20x20 coți — de 576 de ori mai mare ca suprafață a locului de jertfă —, cum poate acesta să fie «prea mic» pentru doar 22.000 de vite și 120.000 de oi, când pe altarul mult mai mic al lui Moise s-au adus cândva 1.000 de arderi-de-tot? Răspunsul rabinic: cifra «1.000» de la Moise nu s-a adus dintr-o singură dată, ci cumulat, de-a lungul timpului."
+       "t": ": "
       },
       {
-       "t": " și o sută douăzeci de mii de oi. Și regele și toți copiii lui Israel au sfințit Casa DOMNULUI."
+       "t": "douăzeci și două de mii de vite",
+       "w": "douăzeci și două de mii de vite",
+       "heb": "בָּקָר עֶשְׂרִים וּשְׁנַיִם אֶלֶף",
+       "translit": "bakar esrim ușnaim elef",
+       "strong": "H505",
+       "pos": "substantiv, masculin și feminin singular + numeral + numeral + numeral",
+       "def_ro": "douăzeci și două de mii de vite (bakar esrim ușnaim elef)",
+       "dict_ro": "Numărul vitelor jertfite subliniază generozitatea regală a ceremoniei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și o sută douăzeci de mii de oi",
+       "w": "și o sută douăzeci de mii de oi",
+       "heb": "וְצֹאן מֵאָה וְעֶשְׂרִים אָלֶף",
+       "translit": "vețon mēa veesrim alef",
+       "strong": "H505",
+       "pos": "substantiv, masculin și feminin singular + numeral + numeral + numeral",
+       "def_ro": "și o sută douăzeci de mii de oi (vețon mēa veesrim alef)",
+       "dict_ro": "Numărul oilor completează cifrele enorme ale jertfelor aduse la dedicare."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Și regele și toți copiii lui Israel au sfințit Casa DOMNULUI",
+       "w": "Și regele și toți copiii lui Israel au sfințit Casa DOMNULUI",
+       "heb": "וַיַּחְנְכוּ אֶת בֵּית יְהוָה הַמֶּלֶךְ וְכָל בְּנֵי יִשְׂרָאֵל",
+       "translit": "vaiahnehu et bēt Adonai hameleh vehal benē israēl",
+       "strong": "H3478",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + substantiv, masculin singular construct + nume propriu + substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin plural construct + nume propriu",
+       "def_ro": "Și regele și toți copiii lui Israel au sfințit Casa DOMNULUI (vaiahnehu et bēt Adonai hameleh vehal benē israēl)",
+       "dict_ro": "Metzudat Zion explică faptul că acest moment al sfințirii marchează începutul oficial al folosirii sacre a Templului, de unde înainte."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -58135,20 +58550,82 @@
      "translit": "Baiom hahu kidaș hameleh et-toh hehatzer așer lifnei veit-ADONAI ki-asa șam et-haola veet-haminha veet helvei hașelamim ki-mizbah hanehoșet așer lifnei ADONAI katon mehakil et-haola veet-haminha veet helvei hașelamim.",
      "tokens": [
       {
-       "t": "În ziua aceea, regele a sfințit interiorul curții care era înaintea Casei DOMNULUI, căci acolo a înfăptuit arderea-de-tot, prinosul și grăsimile jertfelor de pace. Căci altarul de aramă dinaintea DOMNULUI "
+       "t": "În ziua aceea, regele a sfințit interiorul curții",
+       "w": "În ziua aceea, regele a sfințit interiorul curții",
+       "heb": "בַּיּוֹם הַהוּא קִדַּשׁ הַמֶּלֶךְ אֶת תּוֹךְ הֶחָצֵר",
+       "translit": "baiom hahu kidaș hameleh et toh hehațēr",
+       "strong": "H2691",
+       "pos": "substantiv, masculin singular + pronume personal + verb, piel perfect + substantiv, masculin singular + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "În ziua aceea, regele a sfințit interiorul curții (baiom hahu kidaș hameleh et toh hehațēr)",
+       "dict_ro": "Rashi, citând opinia lui Rabi Iuda, explică faptul că regele a sfințit cu adevărat pardoseala curții preoților cu sfințenia unui altar, pentru a arde jertfele direct pe ea."
       },
       {
-       "t": "era prea mic",
-       "w": "era prea mic",
+       "t": " "
+      },
+      {
+       "t": "care era înaintea Casei DOMNULUI",
+       "w": "care era înaintea Casei DOMNULUI",
+       "heb": "אֲשֶׁר לִפְנֵי בֵית יְהוָה",
+       "translit": "așer lifnē vēt Adonai",
+       "strong": "H3068",
+       "pos": "particulă relativă + substantiv, masculin și feminin plural construct + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "care era înaintea Casei DOMNULUI (așer lifnē vēt Adonai)",
+       "dict_ro": "Poziția curții, imediat înaintea Casei DOMNULUI, o face spațiul firesc al extinderii jertfelor."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "căci acolo a înfăptuit arderea-de-tot, prinosul și grăsimile jertfelor de pace",
+       "w": "căci acolo a înfăptuit arderea-de-tot, prinosul și grăsimile jertfelor de pace",
+       "heb": "כִּי עָשָׂה שָׁם אֶת הָעֹלָה וְאֶת הַמִּנְחָה וְאֵת חֶלְבֵי הַשְּׁלָמִים",
+       "translit": "ki asa șam et haola veet haminha veēt helvē hașlamim",
+       "strong": "H8002",
+       "pos": "conjuncție + verb, qal perfect + adverb + marcă a complementului direct + substantiv, feminin singular + marcă a complementului direct + substantiv, feminin singular + marcă a complementului direct + substantiv, masculin plural construct + substantiv, masculin plural",
+       "def_ro": "căci acolo a înfăptuit arderea-de-tot, prinosul și grăsimile jertfelor de pace (ki asa șam et haola veet haminha veēt helvē hașlamim)",
+       "dict_ro": "Radak explică faptul că acest spațiu a fost necesar pentru numărul enorm al jertfelor, mult peste capacitatea altarului obișnuit de aramă."
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "Căci altarul de aramă dinaintea DOMNULUI",
+       "w": "Căci altarul de aramă dinaintea DOMNULUI",
+       "heb": "כִּי מִזְבַּח הַנְּחֹשֶׁת אֲשֶׁר לִפְנֵי יְהוָה",
+       "translit": "ki mizbah hanhoșet așer lifnē Adonai",
+       "strong": "H3068",
+       "pos": "conjuncție + substantiv, masculin singular construct + substantiv, feminin singular + particulă relativă + substantiv, masculin și feminin plural construct + nume propriu",
+       "def_ro": "Căci altarul de aramă dinaintea DOMNULUI (ki mizbah hanhoșet așer lifnē Adonai)",
+       "dict_ro": "Altarul de aramă construit de Solomon este identificat de Metzudat David ca fiind distinct de cel al lui Moise din pustie, acesta fiind păstrat separat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "era prea mic ca să încapă [pe el]",
+       "w": "era prea mic ca să încapă [pe el]",
        "heb": "קָטֹן מֵהָכִיל",
        "translit": "katon mēhahil",
        "strong": "H3557",
        "pos": "adjectiv, masculin singular + verb, hifil infinitiv",
-       "def_ro": "era prea mic ca să încapă (katon mehahil).",
-       "dict_ro": "Radak explică soluția practică a lui Solomon la problema reală a volumului de jertfe: pentru sărbătoarea de sfințire, altarul de bronz — deși mult mai mare decât cel al lui Moise din pustie — nu putea cuprinde fizic toate arderile-de-tot, darurile și grăsimile jertfelor de pace aduse dintr-o dată; de aceea regele a sfințit temporar și restul pardoselii curții interioare drept suprafață de jertfă suplimentară, o soluție de necesitate pentru amploarea neobișnuită a acelei zile."
+       "def_ro": "era prea mic ca să încapă [pe el] (katon mēhahil)",
+       "dict_ro": "Dimensiunea insuficientă a altarului de aramă obligă extinderea spațiului sacru la toată curtea."
       },
       {
-       "t": " ca să încapă [pe el] arderea-de-tot, prinosul și grăsimile jertfelor de pace."
+       "t": " "
+      },
+      {
+       "t": "arderea-de-tot, prinosul și grăsimile jertfelor de pace",
+       "w": "arderea-de-tot, prinosul și grăsimile jertfelor de pace",
+       "heb": "אֶת הָעֹלָה וְאֶת הַמִּנְחָה וְאֵת חֶלְבֵי הַשְּׁלָמִים",
+       "translit": "et haola veet haminha veēt helvē hașlamim",
+       "strong": "H8002",
+       "pos": "marcă a complementului direct + substantiv, feminin singular + marcă a complementului direct + substantiv, feminin singular + marcă a complementului direct + substantiv, masculin plural construct + substantiv, masculin plural",
+       "def_ro": "arderea-de-tot, prinosul și grăsimile jertfelor de pace (et haola veet haminha veēt helvē hașlamim)",
+       "dict_ro": "Repetarea exactă a celor trei tipuri de jertfă — ardere-de-tot, prinos, grăsimi — confirmă amploarea identică a nevoii descrise la începutul versetului."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -58184,17 +58661,79 @@
      "translit": "Vaiaas Șelomo vaet-hahi et-hehag vehol-Israel imo kahal gadol milevo Hamat ad-nahal Mitzraim lifnei ADONAI Eloheinu șivat iamim veșivat iamim arbaa asar iom.",
      "tokens": [
       {
-       "t": "La vremea aceea, Solomon a făcut sărbătoarea – cu tot Israelul care era cu el, o mare obște, de lângă Hamot și până la Fluviul Egiptului – înaintea DOMNULUI, Dumnezeului nostru, șapte zile și [alte] șapte zile, în total "
+       "t": "La vremea aceea, Solomon a făcut sărbătoarea",
+       "w": "La vremea aceea, Solomon a făcut sărbătoarea",
+       "heb": "וַיַּעַשׂ שְׁלֹמֹה בָעֵת הַהִיא אֶת הֶחָג",
+       "translit": "vaiaas șelomo vaēt hahi et hehag",
+       "strong": "H2282",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + substantiv, masculin și feminin singular + pronume personal + marcă a complementului direct + substantiv, masculin singular",
+       "def_ro": "La vremea aceea, Solomon a făcut sărbătoarea (vaiaas șelomo vaēt hahi et hehag)",
+       "dict_ro": "Rashi explică faptul că dedicarea Templului este numită aici «sărbătoare», alături de Sărbătoarea Colibelor propriu-zisă."
       },
       {
-       "t": "paisprezece zile",
-       "w": "paisprezece zile",
+       "t": " – "
+      },
+      {
+       "t": "cu tot Israelul care era cu el, o mare obște",
+       "w": "cu tot Israelul care era cu el, o mare obște",
+       "heb": "וְכָל יִשְׂרָאֵל עִמּוֹ קָהָל גָּדוֹל",
+       "translit": "vehal israēl imo kahal gadol",
+       "strong": "H1419",
+       "pos": "substantiv, masculin singular construct + nume propriu + prepoziție + sufix + substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "cu tot Israelul care era cu el, o mare obște (vehal israēl imo kahal gadol)",
+       "dict_ro": "Amploarea obștei adunate, de la Hamot la Fluviul Egiptului, descrie limitele geografice extreme ale Țării Israelului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "de lângă Hamot și până la Fluviul Egiptului",
+       "w": "de lângă Hamot și până la Fluviul Egiptului",
+       "heb": "מִלְּבוֹא חֲמָת עַד נַחַל מִצְרַיִם",
+       "translit": "milvo hamat ad nahal mițraim",
+       "strong": "H4714",
+       "pos": "nume propriu + nume propriu + prepoziție + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "de lângă Hamot și până la Fluviul Egiptului (milvo hamat ad nahal mițraim)",
+       "dict_ro": "Rashi explică faptul că Hamot se află în partea de nord a țării, iar Fluviul Egiptului corespunde zonei amintite la Numeri, în sud."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "înaintea DOMNULUI, Dumnezeului nostru",
+       "w": "înaintea DOMNULUI, Dumnezeului nostru",
+       "heb": "לִפְנֵי יְהוָה אֱלֹהֵינוּ",
+       "translit": "lifnē Adonai elohēnu",
+       "strong": "H430",
+       "pos": "substantiv, masculin și feminin plural construct + nume propriu + substantiv, masculin plural construct + sufix",
+       "def_ro": "înaintea DOMNULUI, Dumnezeului nostru (lifnē Adonai elohēnu)",
+       "dict_ro": "Prezența DOMNULUI, Dumnezeul nostru, confirmă caracterul explicit religios al întregii sărbători."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "șapte zile și [alte] șapte zile",
+       "w": "șapte zile și [alte] șapte zile",
+       "heb": "שִׁבְעַת יָמִים וְשִׁבְעַת יָמִים",
+       "translit": "șivat iamim veșivat iamim",
+       "strong": "H3117",
+       "pos": "numeral + substantiv, masculin plural + numeral + substantiv, masculin plural",
+       "def_ro": "șapte zile și [alte] șapte zile (șivat iamim veșivat iamim)",
+       "dict_ro": "Metzudat David explică faptul că primele șapte zile au fost dedicate inaugurării Templului, iar celelalte șapte Sărbătorii Colibelor."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "în total paisprezece zile",
+       "w": "în total paisprezece zile",
        "heb": "אַרְבָּעָה עָשָׂר יוֹם",
        "translit": "arbaa asar iom",
        "strong": "H3117",
        "pos": "numeral + numeral + substantiv, masculin singular",
-       "def_ro": "paisprezece zile (arbaa asar iom).",
-       "dict_ro": "Rashi explică structura celor două săptămâni: primele șapte zile au fost dedicate sfințirii Templului, iar următoarele șapte, sărbătoririi Sucotului — ceea ce înseamnă, surprinzător, că Ziua Ispășirii a picat chiar în mijlocul acestei perioade continue de ospăț, iar poporul a mâncat și a băut în acea zi; tradiția talmudică (Moed Katan) justifică aceasta prin precedentul sfințirii Cortului în pustie, unde bucuria sfințirii a avut prioritate."
+       "def_ro": "în total paisprezece zile (arbaa asar iom)",
+       "dict_ro": "Numărul total de paisprezece zile confirmă continuitatea neîntreruptă a celor două sărbători unite."
       },
       {
        "t": "."
@@ -58235,20 +58774,82 @@
      "translit": "Baiom hașemini șilah et-haam vaivarehu et-hameleh vaielhu leaholeihem semehim vetovei lev al kol-hatova așer asa ADONAI le'David avdo ule'Israel amo.",
      "tokens": [
       {
-       "t": "În ziua a opta, a dat drumul poporului și ei l-au binecuvântat pe rege; au mers la corturile lor, bucuroși și cu inima veselă pentru tot binele pe care DOMNUL îl făcuse "
+       "t": "În ziua a opta, a dat drumul poporului",
+       "w": "În ziua a opta, a dat drumul poporului",
+       "heb": "בַּיּוֹם הַשְּׁמִינִי שִׁלַּח אֶת הָעָם",
+       "translit": "baiom hașmini șilah et haam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular + numeral ordinal + verb, piel perfect + marcă a complementului direct + substantiv, masculin singular",
+       "def_ro": "În ziua a opta, a dat drumul poporului (baiom hașmini șilah et haam)",
+       "dict_ro": "Metzudat David identifică ziua a opta explicit cu Șemini Ațeret, ziua încheierii sărbătorii."
       },
       {
-       "t": "pentru slujitorul Său David",
-       "w": "pentru slujitorul Său David",
-       "heb": "לְדָוִד עַבְדּוֹ",
-       "translit": "ledavid avdo",
-       "strong": "H5650",
-       "pos": "nume propriu + substantiv, masculin singular construct + sufix",
-       "def_ro": "pentru David, slujitorul Lui (ledavid avdo).",
-       "dict_ro": "Rashi relatează o tradiție din tratatul Moed Katan: când Solomon a vrut să aducă Chivotul în Sfânta Sfintelor, porțile Templului s-au lipit una de alta și n-au vrut să se deschidă; abia când a strigat «adu-Ți aminte de bunătățile lui David, robul Tău», porțile s-au deschis — semn că Dumnezeu i-a iertat lui David păcatul [cu Bat-Șeva]. În aceeași tradiție, un glas din cer a vestit tot poporului, de Iom Kipur, că toți sunt sorociți vieții veacului viitor."
+       "t": " "
       },
       {
-       "t": " și pentru poporul Său Israel."
+       "t": "și ei l-au binecuvântat pe rege",
+       "w": "și ei l-au binecuvântat pe rege",
+       "heb": "וַיְבָרֲכוּ אֶת הַמֶּלֶךְ",
+       "translit": "vaivarahu et hameleh",
+       "strong": "H4428",
+       "pos": "verb, piel imperfect consecutiv + marcă a complementului direct + substantiv, masculin singular",
+       "def_ro": "și ei l-au binecuvântat pe rege (vaivarahu et hameleh)",
+       "dict_ro": "Binecuvântarea poporului către rege încheie, în chip reciproc, binecuvântarea dată de rege poporului la începutul discursului."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "au mers la corturile lor",
+       "w": "au mers la corturile lor",
+       "heb": "וַיֵּלְכוּ לְאָהֳלֵיהֶם",
+       "translit": "vaiēlhu leaholēhem",
+       "strong": "H168",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin plural construct + sufix",
+       "def_ro": "au mers la corturile lor (vaiēlhu leaholēhem)",
+       "dict_ro": "Revenirea la corturi marchează sfârșitul oficial al pelerinajului comun."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "bucuroși și cu inima veselă",
+       "w": "bucuroși și cu inima veselă",
+       "heb": "שְׂמֵחִים וְטוֹבֵי לֵב",
+       "translit": "semēhim vetovē lēv",
+       "strong": "H3820",
+       "pos": "adjectiv, masculin plural + adjectiv, masculin plural + substantiv, masculin singular",
+       "def_ro": "bucuroși și cu inima veselă (semēhim vetovē lēv)",
+       "dict_ro": "Bucuria deplină confirmă succesul total al sărbătorii de dedicare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru tot binele pe care DOMNUL îl făcuse",
+       "w": "pentru tot binele pe care DOMNUL îl făcuse",
+       "heb": "עַל כָּל הַטּוֹבָה אֲשֶׁר עָשָׂה יְהוָה",
+       "translit": "al kal hatova așer asa Adonai",
+       "strong": "H3068",
+       "pos": "prepoziție + substantiv, masculin singular construct + adjectiv, feminin singular + particulă relativă + verb, qal perfect + nume propriu",
+       "def_ro": "pentru tot binele pe care DOMNUL îl făcuse (al kal hatova așer asa Adonai)",
+       "dict_ro": "Recunoștința generală pentru binele divin încheie întreaga narațiune a inaugurării Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru slujitorul Său David și pentru poporul Său Israel",
+       "w": "pentru slujitorul Său David și pentru poporul Său Israel",
+       "heb": "לְדָוִד עַבְדּוֹ וּלְיִשְׂרָאֵל עַמּוֹ",
+       "translit": "ledavid avdo ulisraēl amo",
+       "strong": "H5971",
+       "pos": "nume propriu + substantiv, masculin singular construct + sufix + nume propriu + substantiv, masculin singular construct + sufix",
+       "def_ro": "pentru slujitorul Său David și pentru poporul Său Israel (ledavid avdo ulisraēl amo)",
+       "dict_ro": "Radak leagă în mod explicit această bucurie finală de iertarea păcatului lui David, confirmată simbolic de porțile care s-au deschis abia la pomenirea lui."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -58290,17 +58891,40 @@
      "translit": "Vaihi kehalot Șelomo livnot et-beit-ADONAI veet-beit hameleh veet kol-heșek Șelomo așer hafetz laasot.",
      "tokens": [
       {
-       "t": "Și astfel Solomon a terminat de construit Casa DOMNULUI și palatul regelui și "
+       "t": "Și astfel Solomon a terminat de construit Casa DOMNULUI",
+       "w": "Și astfel Solomon a terminat de construit Casa DOMNULUI",
+       "heb": "וַיְהִי כְּכַלּוֹת שְׁלֹמֹה לִבְנוֹת אֶת בֵּית יְהוָה",
+       "translit": "vaihi kehalot șelomo livnot et bēt Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperfect consecutiv + verb, piel infinitiv + nume propriu + verb, qal infinitiv + marcă a complementului direct + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "Și astfel Solomon a terminat de construit Casa DOMNULUI (vaihi kehalot șelomo livnot et bēt Adonai)",
+       "dict_ro": "Finalizarea construcției Casei DOMNULUI închide capitolul deschis cu rugăciunea de dedicare."
       },
       {
-       "t": "tot ceea ce Solomon și-a dorit să facă",
-       "w": "tot ceea ce Solomon și-a dorit să facă",
-       "heb": "כָּל חֵשֶׁק",
-       "translit": "kal hēșek",
-       "strong": "H2837",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct",
-       "def_ro": "tot ce și-a dorit Solomon să facă (kol heșek Șelomo așer hafetz laasot).",
-       "dict_ro": "Versetul marchează, cu o formulare neobișnuit de personală pentru o cronică regală, nu doar finalizarea construcției, ci împlinirea completă a dorinței interioare a lui Solomon — «heșek», o plăcere/dorință intensă, cuvânt folosit mai rar pentru pofte omenești; textul sugerează că proiectul Templului și al palatului regal au fost, pentru Solomon, o chemare personală adusă până la capăt, nu doar o datorie dinastică îndeplinită."
+       "t": " "
+      },
+      {
+       "t": "și palatul regelui",
+       "w": "și palatul regelui",
+       "heb": "וְאֶת בֵּית הַמֶּלֶךְ",
+       "translit": "veet bēt hameleh",
+       "strong": "H4428",
+       "pos": "marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "și palatul regelui (veet bēt hameleh)",
+       "dict_ro": "Metzudat Zion explică «hēșek» ca dorința intensă, aici aplicată întregului plan de construcție al lui Solomon."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și tot ceea ce Solomon și-a dorit să facă",
+       "w": "și tot ceea ce Solomon și-a dorit să facă",
+       "heb": "וְאֵת כָּל חֵשֶׁק שְׁלֹמֹה אֲשֶׁר חָפֵץ לַעֲשׂוֹת",
+       "translit": "veēt kal hēșek șelomo așer hafēț laasot",
+       "strong": "H6213",
+       "pos": "marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin singular construct + nume propriu + particulă relativă + verb, qal perfect + verb, qal infinitiv",
+       "def_ro": "și tot ceea ce Solomon și-a dorit să facă (veēt kal hēșek șelomo așer hafēț laasot)",
+       "dict_ro": "Radak, citând paralela din Cronici, explică faptul că tot ce a pus Solomon la inimă să facă pentru Casa DOMNULUI și pentru palatul său a fost dus la bun sfârșit cu succes."
       },
       {
        "t": "."
