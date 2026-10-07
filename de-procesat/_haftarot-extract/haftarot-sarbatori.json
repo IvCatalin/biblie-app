@@ -15129,7 +15129,40 @@
      "translit": "Kol haam haareț ihiu el-hateruma hazot lanasi be'Israel.",
      "tokens": [
       {
-       "t": "Tot poporul țării să se alăture în [a da] această contribuție împreună cu prințul lui Israel."
+       "t": "Tot poporul țării",
+       "w": "Tot poporul țării",
+       "heb": "כֹּל הָעָם הָאָרֶץ",
+       "translit": "kol haam haareț",
+       "strong": "H776",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + substantiv, masculin și feminin singular",
+       "def_ro": "tot poporul țării (kol haam haareț)",
+       "dict_ro": "Radak: fiecare israelit contribuie la aceeași ofrandă colectivă — nimeni nu e scutit de responsabilitatea susținerii cultului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să se alăture în [a da] această contribuție",
+       "w": "să se alăture în [a da] această contribuție",
+       "heb": "יִהְיוּ אֶל הַתְּרוּמָה הַזֹּאת",
+       "translit": "ihiu el hatruma hazot",
+       "strong": "H2063",
+       "pos": "verb, qal imperfect + prepoziție + substantiv, feminin singular + pronume demonstrativ",
+       "def_ro": "să se alăture în [a da] această contribuție (ihiu el hatruma hazot)",
+       "dict_ro": "«Teruma» se referă la contribuția detaliată în versetele precedente ale capitolului — o taxă/ofrandă națională pentru susținerea sanctuarului și a prințului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "împreună cu prințul lui Israel.",
+       "w": "împreună cu prințul lui Israel.",
+       "heb": "לַנָּשִׂיא בְּיִשְׂרָאֵל",
+       "translit": "lanasi beisraēl",
+       "strong": "H3478",
+       "pos": "substantiv, masculin singular + nume propriu",
+       "def_ro": "împreună cu prințul lui Israel. (lanasi beisraēl)",
+       "dict_ro": "Radak: contribuția poporului se face în beneficiul prințului, care la rândul lui va aduce jertfele comunitare din acest fond, scutind astfel fiecare individ de obligația personală."
       }
      ],
      "textCompare": [
@@ -15159,22 +15192,79 @@
      "translit": "Veal-hanasi ihie haolot vehaminha vehaneseh bahagim uvehodașim uvașabatot behol-moadei beit Israel hu-iaase et-hahatat veet-haminha veet-haola veet-hașelamim lehapér bead beit-Israel.",
      "tokens": [
       {
-       "t": "Datoria "
+       "t": "Datoria prințului va fi:",
+       "w": "Datoria prințului va fi:",
+       "heb": "וְעַל הַנָּשִׂיא יִהְיֶה",
+       "translit": "veal hanasi ihie",
+       "strong": "H1961",
+       "pos": "prepoziție + substantiv, masculin singular + verb, qal imperfect",
+       "def_ro": "datoria prințului va fi: (veal hanasi ihie)",
+       "dict_ro": "Rashi dezbate dacă «prințul» aici denotă Marele Preot sau un rege laic — identitatea exactă rămâne discutabilă, dar responsabilitatea descrisă e clară."
       },
       {
-       "t": "prințului",
-       "w": "prințului",
-       "heb": "הַנָּשִׂיא",
-       "translit": "hanasi",
-       "strong": "H5387",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "conducătorul, cel înălțat (nasi).",
-       "dict_ro": "Nasi — „cel înălțat, conducătorul” — e un termen deliberat ambiguu, folosit de Ezechiel pentru figura centrală a Templului viitor, evitând titlurile „rege” (melek) sau „mare preot” direct. Rashi notează explicit incertitudinea: el însuși crede că „nasi” aici desemnează Marele Preot, dar a auzit de la Rabi Menahem o altă tradiție, care-l identifică cu regele — ambiguitatea pare intenționată, lăsând loc unei figuri viitoare ce ar putea uni cele două demnități.",
-       "greek": "ἀφηγουμένου (aphegoumenou)",
-       "greek_def_ro": "ἀφηγουμένου (aphegoumenou) — cel care conduce, căpetenia — Septuaginta traduce consecvent nasi prin acest termen neutru de conducere, evitând la fel „βασιλεύς” (rege) sau titluri sacerdotale explicite."
+       "t": " "
       },
       {
-       "t": " va fi: arderile-de-tot, prinosurile și libațiile de sărbători, [jertfele] Lunilor Noi și Șabaturilor – toate soroacele – pentru toată casa lui Israel. El va face jertfa de păcat, prinosul, arderea-de-tot și jertfa de pace pentru a face ispășire pentru casa lui Israel."
+       "t": "arderile-de-tot, prinosurile și libațiile de sărbători,",
+       "w": "arderile-de-tot, prinosurile și libațiile de sărbători,",
+       "heb": "הָעוֹלוֹת וְהַמִּנְחָה וְהַנֵּסֶךְ בַּחַגִּים",
+       "translit": "haolot vehaminha vehanēseh bahagim",
+       "strong": "H2282",
+       "pos": "substantiv, feminin plural + substantiv, feminin singular + substantiv, masculin singular + substantiv, masculin plural",
+       "def_ro": "arderile-de-tot, prinosurile și libațiile de sărbători, (haolot vehaminha vehanēseh bahagim)",
+       "dict_ro": "Enumerarea categoriilor de jertfe comunitare obligatorii pentru sărbătorile anuale de pelerinaj."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "[jertfele] Lunilor Noi și Șabaturilor",
+       "w": "[jertfele] Lunilor Noi și Șabaturilor",
+       "heb": "וּבֶחֳדָשִׁים וּבַשַּׁבָּתוֹת",
+       "translit": "uvehodașim uvașabatot",
+       "strong": "H7676",
+       "pos": "substantiv, masculin plural + substantiv, masculin și feminin plural",
+       "def_ro": "[jertfele] Lunilor Noi și Șabaturilor (uvehodașim uvașabatot)",
+       "dict_ro": "Extinde lista la ciclurile regulate, lunare și săptămânale, de jertfe comunitare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– toate soroacele – pentru toată casa lui Israel.",
+       "w": "– toate soroacele – pentru toată casa lui Israel.",
+       "heb": "בְּכָל מוֹעֲדֵי בֵּית יִשְׂרָאֵל",
+       "translit": "behal moadē bēt israēl",
+       "strong": "H3478",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "– toate soroacele – pentru toată casa lui Israel. (behal moadē bēt israēl)",
+       "dict_ro": "Formula finală confirmă caracterul exhaustiv al listei — toate ocaziile sacre stabilite, fără excepție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "El va face jertfa de păcat, prinosul, arderea-de-tot și jertfa de pace",
+       "w": "El va face jertfa de păcat, prinosul, arderea-de-tot și jertfa de pace",
+       "heb": "הוּא יַעֲשֶׂה אֶת הַחַטָּאת וְאֶת הַמִּנְחָה וְאֶת הָעוֹלָה וְאֶת הַשְּׁלָמִים",
+       "translit": "hu iaase et hahatat veet haminha veet haola veet hașlamim",
+       "strong": "H8002",
+       "pos": "pronume personal + verb, qal imperfect + marcă a complementului direct + substantiv, feminin singular + marcă a complementului direct + substantiv, feminin singular + marcă a complementului direct + substantiv, feminin singular + marcă a complementului direct + substantiv, masculin plural",
+       "def_ro": "el va face jertfa de păcat, prinosul, arderea-de-tot și jertfa de pace (hu iaase et hahatat veet haminha veet haola veet hașlamim)",
+       "dict_ro": "Prințul acoperă personal toate cele patru categorii principale de jertfe prescrise de lege, din resursele contribuției poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru a face ispășire pentru casa lui Israel.",
+       "w": "pentru a face ispășire pentru casa lui Israel.",
+       "heb": "לְכַפֵּר בְּעַד בֵּית יִשְׂרָאֵל",
+       "translit": "lehapēr bead bēt israēl",
+       "strong": "H3478",
+       "pos": "verb, piel infinitiv + prepoziție + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "pentru a face ispășire pentru casa lui Israel. (lehapēr bead bēt israēl)",
+       "dict_ro": "Scopul final al tuturor acestor jertfe — ispășirea colectivă, nu doar ritual gol, ci restaurarea relației corecte dintre popor și Dumnezeu."
       }
      ],
      "textCompare": [
@@ -15210,7 +15300,53 @@
      "translit": "Ko-amar Adonai ELOHIM barișon beehád lahodeș tikah par-ben-bakar tamim vehiteta et-hamikdaș.",
      "tokens": [
       {
-       "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „În prima lună, în prima [zi] a lunii, să iei un tăuraș fără meteahnă și să faci ispășire pentru Sanctuar."
+       "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU:",
+       "w": "Așa a spus Stăpânul meu, Domnul DUMNEZEU:",
+       "heb": "כֹּה אָמַר אֲדֹנָי יְהוִה",
+       "translit": "ko amar adonai Adonai",
+       "strong": "H3069",
+       "pos": "adverb + verb, qal perfect + substantiv, masculin plural construct + sufix + nume propriu",
+       "def_ro": "așa a spus Stăpânul meu, Domnul DUMNEZEU: (ko amar adonai Adonai)",
+       "dict_ro": "Introduce instrucțiunile detaliate pentru ciclul anual de jertfe ale Templului restaurat, corpul central al haftarei pentru Parașat Hahodeș."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "În prima lună, în prima [zi] a lunii,",
+       "w": "În prima lună, în prima [zi] a lunii,",
+       "heb": "בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ",
+       "translit": "barișon beehad lahodeș",
+       "strong": "H2320",
+       "pos": "adjectiv, masculin singular + numeral + substantiv, masculin singular",
+       "def_ro": "în prima lună, în prima [zi] a lunii, (barișon beehad lahodeș)",
+       "dict_ro": "Rashi: data marchează ziua consacrării altarului, aceeași zi de 1 Nisan menționată la începutul lunii care dă numele parașei — «Hahodeș», luna aceasta."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să iei un tăuraș fără meteahnă",
+       "w": "să iei un tăuraș fără meteahnă",
+       "heb": "תִּקַּח פַּר בֶּן בָּקָר תָּמִים",
+       "translit": "tikah par ben bakar tamim",
+       "strong": "H8549",
+       "pos": "verb, qal imperfect + substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin și feminin singular + adjectiv, masculin singular",
+       "def_ro": "să iei un tăuraș fără meteahnă (tikah par ben bakar tamim)",
+       "dict_ro": "Rashi identifică acest taur cu «taurul de consacrare» menționat anterior în capitolul 43, repetat aici pentru a preciza data exactă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să faci ispășire pentru Sanctuar.",
+       "w": "și să faci ispășire pentru Sanctuar.",
+       "heb": "וְחִטֵּאתָ אֶת הַמִּקְדָּשׁ",
+       "translit": "vehitēta et hamikdaș",
+       "strong": "H4720",
+       "pos": "verb, piel perfect consecutiv + marcă a complementului direct + substantiv, masculin singular",
+       "def_ro": "și să faci ispășire pentru Sanctuar. (vehitēta et hamikdaș)",
+       "dict_ro": "Scopul ritualului e purificarea simbolică a întregului complex al Templului, pregătindu-l pentru funcționarea sa sacră."
       }
      ],
      "textCompare": [
@@ -15241,7 +15377,53 @@
      "translit": "Velakah hakohen midam hahatat venatan el-mezuzat habait veel-arba pinot haazara lamizbeah veal-mezuzat șaar hehatzer hapenimit.",
      "tokens": [
       {
-       "t": "Și preotul să ia din sângele jertfei de păcat și să îl pună pe ușorul Casei și pe cele patru colțuri ale curții, la altar, și pe ușorii porții curții interioare."
+       "t": "Și preotul să ia din sângele jertfei de păcat",
+       "w": "Și preotul să ia din sângele jertfei de păcat",
+       "heb": "וְלָקַח הַכֹּהֵן מִדַּם הַחַטָּאת",
+       "translit": "velakah hakohēn midam hahatat",
+       "strong": "H2403",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular + substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "și preotul să ia din sângele jertfei de păcat (velakah hakohēn midam hahatat)",
+       "dict_ro": "Rolul sacerdotal e explicit — aplicarea sângelui jertfei de păcat e rezervată exclusiv preoților, element central al ritualului de purificare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să îl pună pe ușorul Casei",
+       "w": "și să îl pună pe ușorul Casei",
+       "heb": "וְנָתַן אֶל מְזוּזַת הַבַּיִת",
+       "translit": "venatan el mezuzat habait",
+       "strong": "H1004",
+       "pos": "verb, qal perfect consecutiv + prepoziție + substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "și să îl pună pe ușorul Casei (venatan el mezuzat habait)",
+       "dict_ro": "Radak: «Casa» se referă la Sanctuarul propriu-zis (Heichal), primul loc marcat simbolic de sângele purificator."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pe cele patru colțuri ale curții, la altar,",
+       "w": "și pe cele patru colțuri ale curții, la altar,",
+       "heb": "וְאֶל אַרְבַּע פִּנּוֹת הָעֲזָרָה לַמִּזְבֵּחַ",
+       "translit": "veel arba pinot haazara lamizbēah",
+       "strong": "H4196",
+       "pos": "prepoziție + numeral + substantiv, feminin plural construct + substantiv, feminin singular + substantiv, masculin singular",
+       "def_ro": "și pe cele patru colțuri ale curții, la altar, (veel arba pinot haazara lamizbēah)",
+       "dict_ro": "Extinde aplicarea sângelui la platforma altarului, asigurând purificarea completă a locului de jertfă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pe ușorii porții curții interioare.",
+       "w": "și pe ușorii porții curții interioare.",
+       "heb": "וְעַל מְזוּזַת שַׁעַר הֶחָצֵר הַפְּנִימִית",
+       "translit": "veal mezuzat șaar hehațēr hapnimit",
+       "strong": "H6442",
+       "pos": "prepoziție + substantiv, feminin singular construct + substantiv, masculin singular construct + substantiv, masculin și feminin singular + adjectiv, feminin singular",
+       "def_ro": "și pe ușorii porții curții interioare. (veal mezuzat șaar hehațēr hapnimit)",
+       "dict_ro": "Finalizează ritualul de purificare la poarta de acces în curtea interioară, marcând simbolic granița sacră a complexului Templului."
       }
      ],
      "textCompare": [
@@ -15271,7 +15453,40 @@
      "translit": "Vehen taase beșiva vahodeș meiș șoghe umipeti vehipartem et-habait.",
      "tokens": [
       {
-       "t": "Și tot așa să faci timp o săptămână în cursul [acestei] luni – [de necurățenia adusă în Sanctuar] de către cineva, din neatenție sau din neștiință, să faceți ispășire pentru Casă."
+       "t": "Și tot așa să faci timp o săptămână în cursul [acestei] luni",
+       "w": "Și tot așa să faci timp o săptămână în cursul [acestei] luni",
+       "heb": "וְכֵן תַּעֲשֶׂה בְּשִׁבְעָה בַחֹדֶשׁ",
+       "translit": "vehēn taase beșiva vahodeș",
+       "strong": "H2320",
+       "pos": "particulă demonstrativă + verb, qal imperfect + numeral + substantiv, masculin singular",
+       "def_ro": "și tot așa să faci timp o săptămână în cursul [acestei] luni (vehēn taase beșiva vahodeș)",
+       "dict_ro": "Rashi, citând tradiția din Menahot 45a: ritualul se repetă pe durata unei întregi săptămâni de consacrare a altarului, paralel celor șapte zile de ucenicie (milluim) din vremea lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– [de necurățenia adusă în Sanctuar] de către cineva, din neatenție sau din neștiință,",
+       "w": "– [de necurățenia adusă în Sanctuar] de către cineva, din neatenție sau din neștiință,",
+       "heb": "מֵאִישׁ שֹׁגֶה וּמִפֶּתִי",
+       "translit": "mēiș șoge umipeti",
+       "strong": "H6612",
+       "pos": "substantiv, masculin singular + verb, qal participiu + substantiv, masculin singular",
+       "def_ro": "– [de necurățenia adusă în Sanctuar] de către cineva, din neatenție sau din neștiință, (mēiș șoge umipeti)",
+       "dict_ro": "Metzudat David: ispășirea acoperă intrarea accidentală a unei persoane neautorizate în zone restricționate ale Sanctuarului, din greșeală sau din ignoranță."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să faceți ispășire pentru Casă.",
+       "w": "să faceți ispășire pentru Casă.",
+       "heb": "וְכִפַּרְתֶּם אֶת הַבָּיִת",
+       "translit": "vehipartem et habait",
+       "strong": "H1004",
+       "pos": "verb, piel perfect consecutiv + marcă a complementului direct + substantiv, masculin singular",
+       "def_ro": "să faceți ispășire pentru Casă. (vehipartem et habait)",
+       "dict_ro": "Confirmă că purificarea Templului acoperă chiar și păcatele neintenționate comise în neștiință de către popor."
       }
      ],
      "textCompare": [
@@ -15301,20 +15516,53 @@
      "translit": "Barișon bearbaa asar iom lahodeș ihie lahem hapasah hag șevuot iamim matzot ieahel.",
      "tokens": [
       {
-       "t": "În prima lună, în a paisprezecea [zi] a lunii, să aveți Paștele, "
+       "t": "În prima lună, în a paisprezecea [zi] a lunii,",
+       "w": "În prima lună, în a paisprezecea [zi] a lunii,",
+       "heb": "בָּרִאשׁוֹן בְּאַרְבָּעָה עָשָׂר יוֹם לַחֹדֶשׁ",
+       "translit": "barișon bearbaa asar iom lahodeș",
+       "strong": "H2320",
+       "pos": "adjectiv, masculin singular + numeral + numeral + substantiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "în prima lună, în a paisprezecea [zi] a lunii, (barișon bearbaa asar iom lahodeș)",
+       "dict_ro": "Data tradițională a jertfei de Paște, Nisan 14, confirmată exact ca în Legea mozaică originală."
       },
       {
-       "t": "o sărbătoare de o săptămână de zile",
-       "w": "o sărbătoare de o săptămână de zile",
-       "heb": "שְׁבֻעוֹת",
-       "translit": "șevuot",
-       "strong": "H7620",
-       "pos": "substantiv, masculin plural construct",
-       "def_ro": "o săptămână de zile (sărbătoare de șapte zile) — literal „sevuot [de] zile”.",
-       "dict_ro": "Rashi explică formula neobișnuită „șevuot iamim” (literal „săptămâni de zile”, nu simplu „șapte zile”) ca o aluzie etimologică la numărarea celor șapte săptămâni de la Pesah la Șavuot — chiar cuvântul folosit aici pentru durata sărbătorii Paștelui conține rădăcina care va da numele sărbătorii Șavuot."
+       "t": " "
       },
       {
-       "t": "; să se mănânce azime."
+       "t": "să aveți Paștele,",
+       "w": "să aveți Paștele,",
+       "heb": "יִהְיֶה לָכֶם הַפָּסַח",
+       "translit": "ihie lahem hapasah",
+       "strong": "H6453",
+       "pos": "verb, qal imperfect + prepoziție + sufix + substantiv, masculin singular",
+       "def_ro": "să aveți Paștele, (ihie lahem hapasah)",
+       "dict_ro": "Instituirea sărbătorii Paștelui ca parte a ciclului liturgic al Templului restaurat, legătura directă cu răscumpărarea din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "o sărbătoare de o săptămână de zile;",
+       "w": "o sărbătoare de o săptămână de zile;",
+       "heb": "חָג שְׁבֻעוֹת יָמִים",
+       "translit": "hag șevuot iamim",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular + substantiv, masculin plural construct + substantiv, masculin plural",
+       "def_ro": "o sărbătoare de o săptămână de zile; (hag șevuot iamim)",
+       "dict_ro": "Rashi: termenul «șavuot iamim» indică începutul numărătorii celor șapte săptămâni până la Șavuot, nu doar durata sărbătorii Paștelui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să se mănânce azime.",
+       "w": "să se mănânce azime.",
+       "heb": "מַצּוֹת יֵאָכֵל",
+       "translit": "mațot iēahēl",
+       "strong": "H398",
+       "pos": "substantiv, feminin plural + verb, nifal imperfect",
+       "def_ro": "să se mănânce azime. (mațot iēahēl)",
+       "dict_ro": "Confirmă practica centrală a sărbătorii — consumul pâinii nedospite pe toată durata celor șapte zile."
       }
      ],
      "textCompare": [
@@ -15350,7 +15598,40 @@
      "translit": "Veasa hanasi baiom hahu baado uvead kol-am haareț par hatat.",
      "tokens": [
       {
-       "t": "Prințul să facă în acea zi, pentru sine și tot poporul, un taur ca jertfă de păcat."
+       "t": "Prințul să facă în acea zi,",
+       "w": "Prințul să facă în acea zi,",
+       "heb": "וְעָשָׂה הַנָּשִׂיא בַּיּוֹם הַהוּא",
+       "translit": "veasa hanasi baiom hahu",
+       "strong": "H1931",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular + substantiv, masculin singular + pronume personal",
+       "def_ro": "prințul să facă în acea zi, (veasa hanasi baiom hahu)",
+       "dict_ro": "Rashi notează o dificultate rabinică celebră — de ce un taur ca jertfă de păcat chiar la Paște, neprevăzut în Tora originală — explicată prin tradiția că acest taur înlocuiește jertfa de consacrare neadusă în ziua a opta a ucenicestriei preoțești."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru sine și tot poporul,",
+       "w": "pentru sine și tot poporul,",
+       "heb": "בַּעֲדוֹ וּבְעַד כָּל עַם הָאָרֶץ",
+       "translit": "baado uvad kal am haareț",
+       "strong": "H776",
+       "pos": "prepoziție + sufix + prepoziție + substantiv, masculin singular construct + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "pentru sine și tot poporul, (baado uvad kal am haareț)",
+       "dict_ro": "Prințul aduce jertfa atât în nume propriu, cât și reprezentativ, pentru întregul popor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un taur ca jertfă de păcat.",
+       "w": "un taur ca jertfă de păcat.",
+       "heb": "פַּר חַטָּאת",
+       "translit": "par hatat",
+       "strong": "H2403",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "un taur ca jertfă de păcat. (par hatat)",
+       "dict_ro": "Specifică animalul exact și tipul de jertfă prescris pentru această ocazie specială."
       }
      ],
      "textCompare": [
@@ -15380,7 +15661,53 @@
      "translit": "Veșivat iemei-hehag iaase ola l'ADONAI șivat parim veșivat eilim temimim laiom șivat haiamim vehatat seir izim laiom.",
      "tokens": [
       {
-       "t": "În primele șapte zile ale sărbătorii să aducă o ardere-de-tot DOMNULUI: șapte tauri și șapte berbeci fără meteahnă, zilnic, timp de șapte zile și, ca jertfă de păcat, un țap zilnic."
+       "t": "În primele șapte zile ale sărbătorii să aducă o ardere-de-tot DOMNULUI:",
+       "w": "În primele șapte zile ale sărbătorii să aducă o ardere-de-tot DOMNULUI:",
+       "heb": "וְשִׁבְעַת יְמֵי הֶחָג יַעֲשֶׂה עוֹלָה לַיהוָה",
+       "translit": "veșivat iemē hehag iaase ola la'Adonai",
+       "strong": "H3068",
+       "pos": "numeral + substantiv, masculin plural construct + substantiv, masculin singular + verb, qal imperfect + substantiv, feminin singular + nume propriu",
+       "def_ro": "în primele șapte zile ale sărbătorii să aducă o ardere-de-tot DOMNULUI: (veșivat iemē hehag iaase ola la'Adonai)",
+       "dict_ro": "Rashi notează discrepanța cu Numeri 28:11, unde se cer doar doi tauri — explicată ca o cerință minimă flexibilă, nu rigidă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "șapte tauri și șapte berbeci fără meteahnă,",
+       "w": "șapte tauri și șapte berbeci fără meteahnă,",
+       "heb": "שִׁבְעַת פָּרִים וְשִׁבְעַת אֵילִים תְּמִימִם",
+       "translit": "șivat parim veșivat ēlim temimim",
+       "strong": "H8549",
+       "pos": "numeral + substantiv, masculin plural + numeral + substantiv, masculin plural + adjectiv, masculin plural",
+       "def_ro": "șapte tauri și șapte berbeci fără meteahnă, (șivat parim veșivat ēlim temimim)",
+       "dict_ro": "Numărul mult mai mare decât cel din Tora originală confirmă amploarea sporită a cultului Templului restaurat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "zilnic, timp de șapte zile",
+       "w": "zilnic, timp de șapte zile",
+       "heb": "לַיּוֹם שִׁבְעַת הַיָּמִים",
+       "translit": "laiom șivat haiamim",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular + numeral + substantiv, masculin plural",
+       "def_ro": "zilnic, timp de șapte zile (laiom șivat haiamim)",
+       "dict_ro": "Rashi: fiecare din cele șapte zile ale sărbătorii primește câte un taur și un berbec, nu toate șaptele deodată într-o singură zi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și, ca jertfă de păcat, un țap zilnic.",
+       "w": "și, ca jertfă de păcat, un țap zilnic.",
+       "heb": "וְחַטָּאת שְׂעִיר עִזִּים לַיּוֹם",
+       "translit": "vehatat seir izim laiom",
+       "strong": "H3117",
+       "pos": "substantiv, feminin singular + substantiv, masculin singular construct + substantiv, feminin plural + substantiv, masculin singular",
+       "def_ro": "și, ca jertfă de păcat, un țap zilnic. (vehatat seir izim laiom)",
+       "dict_ro": "Jertfa de păcat zilnică, paralelă cu cea obligatorie la toate sărbătorile de pelerinaj, descrisă în Numeri 28."
       }
      ],
      "textCompare": [
@@ -15410,7 +15737,40 @@
      "translit": "Uminha eifa lapar veeifa laail iaase veșemen hin laeifa.",
      "tokens": [
       {
-       "t": "Iar ca prinos: o efa pentru un taur și o efa pentru un berbec să aducă, și un hin de untdelemn pentru fiecare efa."
+       "t": "Iar ca prinos: o efa pentru un taur",
+       "w": "Iar ca prinos: o efa pentru un taur",
+       "heb": "וּמִנְחָה אֵיפָה לַפָּר",
+       "translit": "uminha ēfa lapar",
+       "strong": "H6499",
+       "pos": "substantiv, feminin singular + substantiv, feminin singular + substantiv, masculin singular",
+       "def_ro": "iar ca prinos: o efa pentru un taur (uminha ēfa lapar)",
+       "dict_ro": "Rashi admite onest nesiguranța exactă a cantității — Tora originală cere trei «isaronim» pentru prinosul taurului, dar efa echivalează cu trei sae, mai mult decât acea măsură standard."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și o efa pentru un berbec să aducă,",
+       "w": "și o efa pentru un berbec să aducă,",
+       "heb": "וְאֵיפָה לָאַיִל יַעֲשֶׂה",
+       "translit": "veēfa laail iaase",
+       "strong": "H6213",
+       "pos": "substantiv, feminin singular + substantiv, masculin singular + verb, qal imperfect",
+       "def_ro": "și o efa pentru un berbec să aducă, (veēfa laail iaase)",
+       "dict_ro": "Cantitatea de prinos pentru berbec, mult mai generoasă decât standardul mozaic de doi isaronim."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și un hin de untdelemn pentru fiecare efa.",
+       "w": "și un hin de untdelemn pentru fiecare efa.",
+       "heb": "וְשֶׁמֶן הִין לָאֵיפָה",
+       "translit": "veșemen hin laēfa",
+       "strong": "H374",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + substantiv, feminin singular",
+       "def_ro": "și un hin de untdelemn pentru fiecare efa. (veșemen hin laēfa)",
+       "dict_ro": "Rashi: cantitatea exactă de untdelemn rămâne neclară, dar tradiția talmudică sugerează o proporție variabilă, ajustată după tipul fiecărui animal jertfit."
       }
      ],
      "textCompare": [
@@ -15440,7 +15800,53 @@
      "translit": "Bașevii bahamișa asar iom lahodeș behag iaase kaele șivat haiamim kahatat kaola vehaminha vehașamen.",
      "tokens": [
       {
-       "t": "În luna a șaptea, în a cincisprezecea zi a lunii, la sărbătoare, să aducă la fel pentru cele șapte zile: precum jertfa de păcat, precum arderea-de-tot, precum prinosul și precum untdelemnul."
+       "t": "În luna a șaptea, în a cincisprezecea zi a lunii, la sărbătoare,",
+       "w": "În luna a șaptea, în a cincisprezecea zi a lunii, la sărbătoare,",
+       "heb": "בַּשְּׁבִיעִי בַּחֲמִשָּׁה עָשָׂר יוֹם לַחֹדֶשׁ בֶּחָג",
+       "translit": "bașvi bahamișa asar iom lahodeș behag",
+       "strong": "H2282",
+       "pos": "numeral ordinal + numeral + numeral + substantiv, masculin singular + substantiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "în luna a șaptea, în a cincisprezecea zi a lunii, la sărbătoare, (bașvi bahamișa asar iom lahodeș behag)",
+       "dict_ro": "Radak identifică această sărbătoare cu Sucot, în luna Tișri — a doua mare serie de jertfe repetitive ale ciclului anual."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să aducă la fel pentru cele șapte zile:",
+       "w": "să aducă la fel pentru cele șapte zile:",
+       "heb": "יַעֲשֶׂה כָאֵלֶּה שִׁבְעַת הַיָּמִים",
+       "translit": "iaase haēle șivat haiamim",
+       "strong": "H3117",
+       "pos": "verb, qal imperfect + pronume demonstrativ + numeral + substantiv, masculin plural",
+       "def_ro": "să aducă la fel pentru cele șapte zile: (iaase haēle șivat haiamim)",
+       "dict_ro": "Confirmă paralelismul exact cu jertfele de la Paște, repetate identic pentru Sucot."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "precum jertfa de păcat, precum arderea-de-tot,",
+       "w": "precum jertfa de păcat, precum arderea-de-tot,",
+       "heb": "כַּחַטָּאת כָּעֹלָה",
+       "translit": "kahatat kaola",
+       "strong": "H5930",
+       "pos": "substantiv, feminin singular + substantiv, feminin singular",
+       "def_ro": "precum jertfa de păcat, precum arderea-de-tot, (kahatat kaola)",
+       "dict_ro": "Radak notează o particularitate: Tora Mozaică prescrie structuri de jertfe diferite pentru Sucot față de Paște, dar aici Ezechiel le egalizează — o inovare explicită pentru vremea restaurării finale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "precum prinosul și precum untdelemnul.",
+       "w": "precum prinosul și precum untdelemnul.",
+       "heb": "וְכַמִּנְחָה וְכַשָּׁמֶן",
+       "translit": "vehaminha vehașamen",
+       "strong": "H8081",
+       "pos": "substantiv, feminin singular + substantiv, masculin singular",
+       "def_ro": "precum prinosul și precum untdelemnul. (vehaminha vehașamen)",
+       "dict_ro": "Finalizează lista completă a elementelor repetate identic între cele două sărbători de pelerinaj majore."
       }
      ],
      "textCompare": [
@@ -15471,20 +15877,66 @@
      "translit": "Ko-amar Adonai ELOHIM șaar hehatzer hapenimit hapone kadim ihie sagur șeșet iemei hamaase uveiom hașabat ipateah uveiom hahodeș ipateah.",
      "tokens": [
       {
-       "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU: „"
+       "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU:",
+       "w": "Așa a spus Stăpânul meu, Domnul DUMNEZEU:",
+       "heb": "כֹּה אָמַר אֲדֹנָי יְהוִה",
+       "translit": "ko amar adonai Adonai",
+       "strong": "H3069",
+       "pos": "adverb + verb, qal perfect + substantiv, masculin plural construct + sufix + nume propriu",
+       "def_ro": "așa a spus Stăpânul meu, Domnul DUMNEZEU: (ko amar adonai Adonai)",
+       "dict_ro": "Introduce o nouă secțiune a profeției, concentrată pe rânduielile de acces la curtea interioară a Templului."
       },
       {
-       "t": "Poarta curții interioare",
-       "w": "Poarta curții interioare",
-       "heb": "שַׁעַר הֶחָצֵר הַפְּנִימִית",
-       "translit": "șaar hehațēr hapnimit",
-       "strong": "H6442",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular + adjectiv, feminin singular",
-       "def_ro": "poarta curții interioare (șaar hehațēr hapnimit).",
-       "dict_ro": "Rashi citează Tratatul Midot al Mișnei: existau două uși mici (pișpeșin) la poarta Templului, una la sud și una la nord; despre cea de sud e explicit spus în tradiție (Ezechiel 44:2) „niciun om nu va intra prin ea, și va fi închisă” — poarta de răsărit descrisă aici, deschisă doar de Șabat și Lună Nouă, are deci un statut simbolic special, diferit de restul porților."
+       "t": " „"
       },
       {
-       "t": " care este îndreptată către răsărit să fie închisă în cele șase zile de lucru, dar în ziua de Șabat să se deschidă și în ziua de Lună Nouă să se deschidă."
+       "t": "Poarta curții interioare care este îndreptată către răsărit",
+       "w": "Poarta curții interioare care este îndreptată către răsărit",
+       "heb": "שַׁעַר הֶחָצֵר הַפְּנִימִית הַפֹּנֶה קָדִים",
+       "translit": "șaar hehațēr hapnimit hapone kadim",
+       "strong": "H6921",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular + adjectiv, feminin singular + verb, qal participiu + substantiv, masculin singular",
+       "def_ro": "poarta curții interioare care este îndreptată către răsărit (șaar hehațēr hapnimit hapone kadim)",
+       "dict_ro": "Rashi, citând tradiția din Midot 4:2: Sanctuarul avea două porți laterale mici (pișpeș), una la sud, una la nord — aici se referă la poarta principală estică a curții interioare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să fie închisă în cele șase zile de lucru,",
+       "w": "să fie închisă în cele șase zile de lucru,",
+       "heb": "יִהְיֶה סָגוּר שֵׁשֶׁת יְמֵי הַמַּעֲשֶׂה",
+       "translit": "ihie sagur șēșet iemē hamaase",
+       "strong": "H4639",
+       "pos": "verb, qal imperfect + verb, qal participiu pasiv + numeral + substantiv, masculin plural construct + substantiv, masculin singular",
+       "def_ro": "să fie închisă în cele șase zile de lucru, (ihie sagur șēșet iemē hamaase)",
+       "dict_ro": "Confirmă caracterul special, sacru, al acestei porți — deschisă doar la ocazii specifice, nu accesibilă zilnic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dar în ziua de Șabat să se deschidă",
+       "w": "dar în ziua de Șabat să se deschidă",
+       "heb": "וּבְיוֹם הַשַּׁבָּת יִפָּתֵחַ",
+       "translit": "uviom hașabat ipatēah",
+       "strong": "H6605",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular + verb, nifal imperfect",
+       "def_ro": "dar în ziua de Șabat să se deschidă (uviom hașabat ipatēah)",
+       "dict_ro": "Prima excepție specifică — Șabatul, zi de odihnă și reunire comunitară la Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și în ziua de Lună Nouă să se deschidă.",
+       "w": "și în ziua de Lună Nouă să se deschidă.",
+       "heb": "וּבְיוֹם הַחֹדֶשׁ יִפָּתֵחַ",
+       "translit": "uviom hahodeș ipatēah",
+       "strong": "H6605",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + verb, nifal imperfect",
+       "def_ro": "și în ziua de Lună Nouă să se deschidă. (uviom hahodeș ipatēah)",
+       "dict_ro": "A doua excepție — sărbătoarea lunară a Lunii Noi, marcând caracterul regulat, previzibil al accesului special."
       }
      ],
      "textCompare": [
@@ -15520,7 +15972,79 @@
      "translit": "Uva hanasi dereh ulam hașaar mihuț veamad al-mezuzat hașaar veasu hakohanim et-olato veet-șelamav vehiștahava al-miftan hașaar veiața vehașaar lo-isager ad-haarev.",
      "tokens": [
       {
-       "t": "Și prințul să intre prin sala porții, dinspre exterior, și să stea lângă ușorul porții prin care preoții îi aduc arderile-de-tot și jertfele sale de pace. Și să se prosterneze în pragul porții și să plece, iar poarta să nu fie închisă până seara."
+       "t": "Și prințul să intre prin sala porții, dinspre exterior,",
+       "w": "Și prințul să intre prin sala porții, dinspre exterior,",
+       "heb": "וּבָא הַנָּשִׂיא דֶּרֶךְ אוּלָם הַשַּׁעַר מִחוּץ",
+       "translit": "uva hanasi dereh ulam hașaar mihuț",
+       "strong": "H2351",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular + substantiv, masculin și feminin singular construct + substantiv, masculin singular construct + substantiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "și prințul să intre prin sala porții, dinspre exterior, (uva hanasi dereh ulam hașaar mihuț)",
+       "dict_ro": "Rashi: prințul folosește intrarea publică, nu una privilegiată — demonstrând umilință chiar în exercitarea statutului de conducător."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să stea lângă ușorul porții",
+       "w": "și să stea lângă ușorul porții",
+       "heb": "וְעָמַד עַל מְזוּזַת הַשַּׁעַר",
+       "translit": "veamad al mezuzat hașaar",
+       "strong": "H8179",
+       "pos": "verb, qal perfect consecutiv + prepoziție + substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "și să stea lângă ușorul porții (veamad al mezuzat hașaar)",
+       "dict_ro": "Poziția exactă, lângă pragul porții, marchează locul fixat pentru prezența prințului în timpul ceremoniei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "prin care preoții îi aduc arderile-de-tot și jertfele sale de pace.",
+       "w": "prin care preoții îi aduc arderile-de-tot și jertfele sale de pace.",
+       "heb": "וְעָשׂוּ הַכֹּהֲנִים אֶת עוֹלָתוֹ וְאֶת שְׁלָמָיו",
+       "translit": "veasu hakohanim et olato veet șelamaiv",
+       "strong": "H8002",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin plural + marcă a complementului direct + substantiv, feminin singular construct + sufix + marcă a complementului direct + substantiv, masculin plural construct + sufix",
+       "def_ro": "prin care preoții îi aduc arderile-de-tot și jertfele sale de pace. (veasu hakohanim et olato veet șelamaiv)",
+       "dict_ro": "Rashi notează: funcția sacerdotală rămâne exclusivă preoților — prințul, oricât de important, nu oficiază el însuși jertfele, ci rămâne martor și participant."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și să se prosterneze în pragul porții",
+       "w": "Și să se prosterneze în pragul porții",
+       "heb": "וְהִשְׁתַּחֲוָה עַל מִפְתַּן הַשַּׁעַר",
+       "translit": "vehiștahava al miftan hașaar",
+       "strong": "H8179",
+       "pos": "verb, hiștafel perfect consecutiv + prepoziție + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "și să se prosterneze în pragul porții (vehiștahava al miftan hașaar)",
+       "dict_ro": "Actul de închinare publică a prințului, vizibil pentru întreaga comunitate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să plece,",
+       "w": "și să plece,",
+       "heb": "וְיָצָא",
+       "translit": "veiața",
+       "strong": "H3318",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și să plece, (veiața)",
+       "dict_ro": "Confirmă finalizarea ritualului specific prințului, distinct de continuarea deschiderii porții pentru popor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar poarta să nu fie închisă până seara.",
+       "w": "iar poarta să nu fie închisă până seara.",
+       "heb": "וְהַשַּׁעַר לֹא יִסָּגֵר עַד הָעָרֶב",
+       "translit": "vehașaar lo isagēr ad haarev",
+       "strong": "H6153",
+       "pos": "substantiv, masculin singular + particulă negativă + verb, nifal imperfect + prepoziție + substantiv, masculin singular",
+       "def_ro": "iar poarta să nu fie închisă până seara. (vehașaar lo isagēr ad haarev)",
+       "dict_ro": "Rashi întreabă retoric de ce rămâne deschisă — răspunsul vine explicit la versetul următor: poporul continuă să vină să se închine toată ziua."
       }
      ],
      "textCompare": [
@@ -15551,7 +16075,40 @@
      "translit": "Vehiștahavu am-haareț petah hașaar hahu bașabatot uvehodașim lifnei ADONAI.",
      "tokens": [
       {
-       "t": "Și poporul țării să se prosterneze la intrarea acelei porți, de Șabat și de Lunile Noi, înaintea DOMNULUI."
+       "t": "Și poporul țării să se prosterneze",
+       "w": "Și poporul țării să se prosterneze",
+       "heb": "וְהִשְׁתַּחֲווּ עַם הָאָרֶץ",
+       "translit": "vehiștahavu am haareț",
+       "strong": "H776",
+       "pos": "verb, hiștafel perfect consecutiv + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "și poporul țării să se prosterneze (vehiștahavu am haareț)",
+       "dict_ro": "Rashi explică motivul porții lăsate deschise — oamenii obișnuiți continuă, pe tot parcursul zilei, să vină individual la închinare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la intrarea acelei porți,",
+       "w": "la intrarea acelei porți,",
+       "heb": "פֶּתַח הַשַּׁעַר הַהוּא",
+       "translit": "petah hașaar hahu",
+       "strong": "H1931",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + pronume personal",
+       "def_ro": "la intrarea acelei porți, (petah hașaar hahu)",
+       "dict_ro": "Locul exact al prosternării publice, aceeași poartă folosită de prinț pentru propriul ritual."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de Șabat și de Lunile Noi, înaintea DOMNULUI.",
+       "w": "de Șabat și de Lunile Noi, înaintea DOMNULUI.",
+       "heb": "בַּשַּׁבָּתוֹת וּבֶחֳדָשִׁים לִפְנֵי יְהוָה",
+       "translit": "bașabatot uvehodașim lifnē Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin și feminin plural + substantiv, masculin plural + substantiv, masculin și feminin plural construct + nume propriu",
+       "def_ro": "de Șabat și de Lunile Noi, înaintea DOMNULUI. (bașabatot uvehodașim lifnē Adonai)",
+       "dict_ro": "Confirmă regularitatea accesului popular, aceleași ocazii speciale deschise și prințului."
       }
      ],
      "textCompare": [
@@ -15579,7 +16136,53 @@
      "translit": "Vehaola așer-iakriv hanasi l'ADONAI beiom hașabat șișa kevasim temimim veail tamim.",
      "tokens": [
       {
-       "t": "[Iată] arderea-de-tot pe care prințul să o aducă DOMNULUI: în ziua de Șabat: șase oi fără meteahnă și un berbec fără meteahnă,"
+       "t": "[Iată] arderea-de-tot pe care prințul să o aducă DOMNULUI:",
+       "w": "[Iată] arderea-de-tot pe care prințul să o aducă DOMNULUI:",
+       "heb": "וְהָעֹלָה אֲשֶׁר יַקְרִב הַנָּשִׂיא לַיהוָה",
+       "translit": "vehaola așer iakriv hanasi la'Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, feminin singular + particulă relativă + verb, hifil imperfect + substantiv, masculin singular + nume propriu",
+       "def_ro": "[iată] arderea-de-tot pe care prințul să o aducă DOMNULUI: (vehaola așer iakriv hanasi la'Adonai)",
+       "dict_ro": "Introduce specificațiile exacte ale jertfei prințului pentru Șabat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în ziua de Șabat:",
+       "w": "în ziua de Șabat:",
+       "heb": "בְּיוֹם הַשַּׁבָּת",
+       "translit": "beom hașabat",
+       "strong": "H7676",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "în ziua de Șabat: (beom hașabat)",
+       "dict_ro": "Rashi admite nesiguranța: numărul de șase oi diferă de cele două din Numeri 28:9, posibil pentru a învăța că nicio componentă a jertfei nu anulează pe cealaltă dacă nu se poate aduce numărul complet."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "șase oi fără meteahnă",
+       "w": "șase oi fără meteahnă",
+       "heb": "שִׁשָּׁה כְבָשִׂים תְּמִימִם",
+       "translit": "șișa hevasim temimim",
+       "strong": "H8549",
+       "pos": "numeral + substantiv, masculin plural + adjectiv, masculin plural",
+       "def_ro": "șase oi fără meteahnă (șișa hevasim temimim)",
+       "dict_ro": "Numărul mult crescut față de Tora originală, specific restaurării finale a cultului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și un berbec fără meteahnă,",
+       "w": "și un berbec fără meteahnă,",
+       "heb": "וְאַיִל תָּמִים",
+       "translit": "veail tamim",
+       "strong": "H8549",
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "și un berbec fără meteahnă, (veail tamim)",
+       "dict_ro": "Completează animalele jertfei de Șabat, toate fără meteahnă, condiție standard pentru orice jertfă validă."
       }
      ],
      "textCompare": [
@@ -15610,7 +16213,40 @@
      "translit": "Uminha eifa laail velakevasim minha matat iado veșemen hin laeifa.",
      "tokens": [
       {
-       "t": "și un prinos de o efa pentru berbec; iar pentru oi, un prinos după cât îi dă mâna fiecăruia și un hin de untdelemn pentru fiecare efa."
+       "t": "și un prinos de o efa pentru berbec;",
+       "w": "și un prinos de o efa pentru berbec;",
+       "heb": "וּמִנְחָה אֵיפָה לָאַיִל",
+       "translit": "uminha ēfa laail",
+       "strong": "H352",
+       "pos": "substantiv, feminin singular + substantiv, feminin singular + substantiv, masculin singular",
+       "def_ro": "și un prinos de o efa pentru berbec; (uminha ēfa laail)",
+       "dict_ro": "Rashi: principiul «darul mâinii sale» învață că diferitele componente ale prinosului nu se condiționează reciproc — fiecare poate fi adusă independent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar pentru oi, un prinos după cât îi dă mâna fiecăruia",
+       "w": "iar pentru oi, un prinos după cât îi dă mâna fiecăruia",
+       "heb": "וְלַכְּבָשִׂים מִנְחָה מַתַּת יָדוֹ",
+       "translit": "velakvasim minha matat iado",
+       "strong": "H3027",
+       "pos": "substantiv, masculin plural + substantiv, feminin singular + substantiv, feminin singular construct + substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "iar pentru oi, un prinos după cât îi dă mâna fiecăruia (velakvasim minha matat iado)",
+       "dict_ro": "Flexibilitatea explicită pentru oi, spre diferență de cantitatea fixă pentru taur și berbec — o concesie practică pentru resursele variabile ale prințului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și un hin de untdelemn pentru fiecare efa.",
+       "w": "și un hin de untdelemn pentru fiecare efa.",
+       "heb": "וְשֶׁמֶן הִין לָאֵיפָה",
+       "translit": "veșemen hin laēfa",
+       "strong": "H374",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular + substantiv, feminin singular",
+       "def_ro": "și un hin de untdelemn pentru fiecare efa. (veșemen hin laēfa)",
+       "dict_ro": "Proporția standard de untdelemn, repetată consecvent pentru fiecare categorie de prinos din acest capitol."
       }
      ],
      "textCompare": [
@@ -15641,7 +16277,53 @@
      "translit": "Uveiom hahodeș par ben-bakar temimim veșeșet kevasim vaail temimim ihiu.",
      "tokens": [
       {
-       "t": "Iar în ziua Lunii [Noi], un tăuraș fără meteahnă și șase oi și un berbec – fără meteahnă să fie."
+       "t": "Iar în ziua Lunii [Noi],",
+       "w": "Iar în ziua Lunii [Noi],",
+       "heb": "וּבְיוֹם הַחֹדֶשׁ",
+       "translit": "uviom hahodeș",
+       "strong": "H2320",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "iar în ziua Lunii [Noi], (uviom hahodeș)",
+       "dict_ro": "Trecerea la jertfele specifice pentru sărbătoarea lunară, paralelă cu cele deja date pentru Șabat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un tăuraș fără meteahnă",
+       "w": "un tăuraș fără meteahnă",
+       "heb": "פַּר בֶּן בָּקָר תְּמִימִם",
+       "translit": "par ben bakar temimim",
+       "strong": "H8549",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin și feminin singular + adjectiv, masculin plural",
+       "def_ro": "un tăuraș fără meteahnă (par ben bakar temimim)",
+       "dict_ro": "Rashi, citând Menahot 45a: dacă nu se găsesc doi tauri (cum cere Numeri 28:11), se poate aduce unul singur — flexibilitate minimă, nu rigiditate absolută."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și șase oi și un berbec",
+       "w": "și șase oi și un berbec",
+       "heb": "וְשֵׁשֶׁת כְּבָשִׂם וָאַיִל",
+       "translit": "veșēșet kevasim vaail",
+       "strong": "H352",
+       "pos": "numeral + substantiv, masculin plural + substantiv, masculin singular",
+       "def_ro": "și șase oi și un berbec (veșēșet kevasim vaail)",
+       "dict_ro": "Paralel exact cu numărul prescris pentru Șabat la v.4, confirmând simetria între cele două ocazii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– fără meteahnă să fie.",
+       "w": "– fără meteahnă să fie.",
+       "heb": "תְּמִימִם יִהְיוּ",
+       "translit": "temimim ihiu",
+       "strong": "H1961",
+       "pos": "adjectiv, masculin plural + verb, qal imperfect",
+       "def_ro": "– fără meteahnă să fie. (temimim ihiu)",
+       "dict_ro": "Confirmă condiția standard de perfecțiune fizică pentru toate animalele jertfite, fără excepție."
       }
      ],
      "textCompare": [
@@ -15669,7 +16351,53 @@
      "translit": "Veeifa lapar veeifa laail iaase minha velakevasim kaașer tașig iado veșemen hin laeifa.",
      "tokens": [
       {
-       "t": "O efa pentru taur și o efa pentru berbec să facă drept prinos; iar pentru oi, după cât îi va da mâna. Și un hin de untdelemn pentru fiecare efa."
+       "t": "O efa pentru taur și o efa pentru berbec",
+       "w": "O efa pentru taur și o efa pentru berbec",
+       "heb": "וְאֵיפָה לַפָּר וְאֵיפָה לָאַיִל",
+       "translit": "veēfa lapar veēfa laail",
+       "strong": "H352",
+       "pos": "substantiv, feminin singular + substantiv, masculin singular + substantiv, feminin singular + substantiv, masculin singular",
+       "def_ro": "o efa pentru taur și o efa pentru berbec (veēfa lapar veēfa laail)",
+       "dict_ro": "Repetă exact proporția deja stabilită pentru jertfele de Șabat, aplicată acum la sărbătoarea Lunii Noi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să facă drept prinos;",
+       "w": "să facă drept prinos;",
+       "heb": "יַעֲשֶׂה מִנְחָה",
+       "translit": "iaase minha",
+       "strong": "H4503",
+       "pos": "verb, qal imperfect + substantiv, feminin singular",
+       "def_ro": "să facă drept prinos; (iaase minha)",
+       "dict_ro": "Confirmă caracterul obligatoriu al acestei cantități pentru animalele principale ale jertfei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar pentru oi, după cât îi va da mâna.",
+       "w": "iar pentru oi, după cât îi va da mâna.",
+       "heb": "וְלַכְּבָשִׂים כַּאֲשֶׁר תַּשִּׂיג יָדוֹ",
+       "translit": "velakvasim kaașer tasig iado",
+       "strong": "H3027",
+       "pos": "substantiv, masculin plural + particulă relativă + verb, hifil imperfect + substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "iar pentru oi, după cât îi va da mâna. (velakvasim kaașer tasig iado)",
+       "dict_ro": "Radak: flexibilitatea pentru oi reflectă diferența de resurse disponibile prințului, element practic al legislației ritualice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și un hin de untdelemn pentru fiecare efa.",
+       "w": "Și un hin de untdelemn pentru fiecare efa.",
+       "heb": "וְשֶׁמֶן הִין לָאֵיפָה",
+       "translit": "veșemen hin laēfa",
+       "strong": "H374",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular + substantiv, feminin singular",
+       "def_ro": "și un hin de untdelemn pentru fiecare efa. (veșemen hin laēfa)",
+       "dict_ro": "Proporția standard de untdelemn, menținută consecvent pentru toate categoriile de jertfă din acest capitol."
       }
      ],
      "textCompare": [
@@ -15697,7 +16425,40 @@
      "translit": "Uvevo hanasi dereh ulam hașaar iavo uvedarko iețe.",
      "tokens": [
       {
-       "t": "Iar când intră prințul, prin sala porții să intre, și tot pe acolo să iasă."
+       "t": "Iar când intră prințul,",
+       "w": "Iar când intră prințul,",
+       "heb": "וּבְבוֹא הַנָּשִׂיא",
+       "translit": "uvvo hanasi",
+       "strong": "H5387",
+       "pos": "verb, qal infinitiv + substantiv, masculin singular",
+       "def_ro": "iar când intră prințul, (uvvo hanasi)",
+       "dict_ro": "Rashi: această regulă se referă la zilele de Șabat și Lună Nouă, ocazii la care poporul obișnuit nu are obligația de prezentare generală la Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "prin sala porții să intre,",
+       "w": "prin sala porții să intre,",
+       "heb": "דֶּרֶךְ אוּלָם הַשַּׁעַר יָבוֹא",
+       "translit": "dereh ulam hașaar iavo",
+       "strong": "H935",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, masculin singular construct + substantiv, masculin singular + verb, qal imperfect",
+       "def_ro": "prin sala porții să intre, (dereh ulam hașaar iavo)",
+       "dict_ro": "Confirmă aceeași poartă estică folosită pentru toate ceremoniile prințului descrise anterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și tot pe acolo să iasă.",
+       "w": "și tot pe acolo să iasă.",
+       "heb": "וּבְדַרְכּוֹ יֵצֵא",
+       "translit": "uvdarko iēțē",
+       "strong": "H3318",
+       "pos": "substantiv, masculin și feminin singular construct + sufix + verb, qal imperfect",
+       "def_ro": "și tot pe acolo să iasă. (uvdarko iēțē)",
+       "dict_ro": "Rashi: prințul nu are obligația de a traversa curtea ca un drum scurt (kapandaria) — intră și iese pe aceeași poartă, spre diferență de regula aplicată poporului la sărbătorile de pelerinaj (v.9)."
       }
      ],
      "textCompare": [
@@ -15728,20 +16489,92 @@
      "translit": "Uvevo am-haareț lifnei ADONAI bamoadim haba dereh-șaar țafon lehiștahavot iețe dereh-șaar negev vehaba dereh-șaar negev iețe dereh-șaar țafona lo iașuv dereh hașaar așer-ba vo ki niheho iețe.",
      "tokens": [
       {
-       "t": "Dar când poporul țării va veni înaintea DOMNULUI, la soroace, oricine intră prin poarta de miazănoapte să se prosterneze să iasă prin poarta de miazăzi, și oricine intră prin poarta de miazăzi să iasă prin poarta de miazănoapte. Să nu "
+       "t": "Dar când poporul țării va veni înaintea DOMNULUI, la soroace,",
+       "w": "Dar când poporul țării va veni înaintea DOMNULUI, la soroace,",
+       "heb": "וּבְבוֹא עַם הָאָרֶץ לִפְנֵי יְהוָה בַּמּוֹעֲדִים",
+       "translit": "uvvo am haareț lifnē Adonai bamoadim",
+       "strong": "H4150",
+       "pos": "verb, qal infinitiv + substantiv, masculin singular construct + substantiv, masculin și feminin singular + substantiv, masculin și feminin plural construct + nume propriu + substantiv, masculin plural",
+       "def_ro": "dar când poporul țării va veni înaintea DOMNULUI, la soroace, (uvvo am haareț lifnē Adonai bamoadim)",
+       "dict_ro": "Marchează ocaziile de pelerinaj general, când tot poporul — nu doar prințul — se prezintă la Templu."
       },
       {
-       "t": "se retragă",
-       "w": "se retragă",
-       "heb": "יָשׁוּב",
-       "translit": "iașuv",
-       "strong": "H7725",
-       "pos": "verb, qal imperfect",
-       "def_ro": "să se întoarcă [pe același drum] (iașuv).",
-       "dict_ro": "Rashi explică regula porților opuse ca o poruncă menită să asigure ca întreg poporul să se vadă bine unul pe altul, trecând prin toată curtea Templului — o lecție de ordine civică și vizibilitate comunitară, nu doar o regulă tehnică de trafic."
+       "t": " "
       },
       {
-       "t": " prin poarta pe care a intrat, ci să iasă pe partea opusă."
+       "t": "oricine intră prin poarta de miazănoapte să se prosterneze",
+       "w": "oricine intră prin poarta de miazănoapte să se prosterneze",
+       "heb": "הַבָּא דֶּרֶךְ שַׁעַר צָפוֹן לְהִשְׁתַּחֲוֺת",
+       "translit": "haba dereh șaar țafon lehiștahavot",
+       "strong": "H7812",
+       "pos": "verb, qal participiu + substantiv, masculin și feminin singular construct + substantiv, masculin singular construct + substantiv, feminin singular + verb, hitpael infinitiv",
+       "def_ro": "oricine intră prin poarta de miazănoapte să se prosterneze (haba dereh șaar țafon lehiștahavot)",
+       "dict_ro": "Rashi: regula impune o traversare completă a curții, de la o poartă la cealaltă, asigurând astfel ca fiecare pelerin să fie văzut public de ceilalți închinători."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să iasă prin poarta de miazăzi,",
+       "w": "să iasă prin poarta de miazăzi,",
+       "heb": "יֵצֵא דֶּרֶךְ שַׁעַר נֶגֶב",
+       "translit": "iēțē dereh șaar negev",
+       "strong": "H5045",
+       "pos": "verb, qal imperfect + substantiv, masculin și feminin singular construct + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "să iasă prin poarta de miazăzi, (iēțē dereh șaar negev)",
+       "dict_ro": "Direcția obligatorie de ieșire, opusă intrării, confirmă fluxul ordonat al mulțimii mari de pelerini."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și oricine intră prin poarta de miazăzi",
+       "w": "și oricine intră prin poarta de miazăzi",
+       "heb": "וְהַבָּא דֶּרֶךְ שַׁעַר נֶגֶב",
+       "translit": "vehaba dereh șaar negev",
+       "strong": "H5045",
+       "pos": "verb, qal participiu + substantiv, masculin și feminin singular construct + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "și oricine intră prin poarta de miazăzi (vehaba dereh șaar negev)",
+       "dict_ro": "Regula simetrică pentru cei care intră prin partea opusă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să iasă prin poarta de miazănoapte.",
+       "w": "să iasă prin poarta de miazănoapte.",
+       "heb": "יֵצֵא דֶּרֶךְ שַׁעַר צָפוֹנָה",
+       "translit": "iēțē dereh șaar țafona",
+       "strong": "H6828",
+       "pos": "verb, qal imperfect + substantiv, masculin și feminin singular construct + substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "să iasă prin poarta de miazănoapte. (iēțē dereh șaar țafona)",
+       "dict_ro": "Confirmă simetria completă a sistemului de circulație, prevenind aglomerarea și confuzia."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Să nu se retragă prin poarta pe care a intrat,",
+       "w": "Să nu se retragă prin poarta pe care a intrat,",
+       "heb": "לֹא יָשׁוּב דֶּרֶךְ הַשַּׁעַר אֲשֶׁר בָּא בוֹ",
+       "translit": "lo iașuv dereh hașaar așer ba vo",
+       "strong": "",
+       "pos": "particulă negativă + verb, qal imperfect + substantiv, masculin și feminin singular construct + substantiv, masculin singular + particulă relativă + verb, qal perfect + prepoziție + sufix",
+       "def_ro": "să nu se retragă prin poarta pe care a intrat, (lo iașuv dereh hașaar așer ba vo)",
+       "dict_ro": "Interdicția explicită a întoarcerii pe același drum, regulă menită să mențină ordinea fluxului de pelerini."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ci să iasă pe partea opusă.",
+       "w": "ci să iasă pe partea opusă.",
+       "heb": "כִּי נִכְחוֹ יֵצֵא",
+       "translit": "ki nihho iēțē",
+       "strong": "H3318",
+       "pos": "conjuncție + prepoziție + sufix + verb, qal imperfect",
+       "def_ro": "ci să iasă pe partea opusă. (ki nihho iēțē)",
+       "dict_ro": "Metzudat Zion: «nikho» înseamnă „direct opus” — confirmarea finală a principiului traversării complete a curții."
       }
      ],
      "textCompare": [
@@ -15777,7 +16610,40 @@
      "translit": "Vehanasi betoham bevoam iavo uvețetam iețeu.",
      "tokens": [
       {
-       "t": "Dar prințul din mijlocul lor, așa cum intră, să intre cum intră ei și să iasă cum ies ei."
+       "t": "Dar prințul din mijlocul lor,",
+       "w": "Dar prințul din mijlocul lor,",
+       "heb": "וְהַנָּשִׂיא בְּתוֹכָם",
+       "translit": "vehanasi betoham",
+       "strong": "H8432",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular construct + sufix",
+       "def_ro": "dar prințul din mijlocul lor, (vehanasi betoham)",
+       "dict_ro": "Rashi: spre diferență de intrarea sa separată la Șabat și Lună Nouă (v.8), la sărbătorile de pelerinaj prințul se alătură mulțimii, fără privilegii speciale de acces."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "așa cum intră, să intre cum intră ei",
+       "w": "așa cum intră, să intre cum intră ei",
+       "heb": "בְּבוֹאָם יָבוֹא",
+       "translit": "bevoam iavo",
+       "strong": "H935",
+       "pos": "verb, qal infinitiv + sufix + verb, qal imperfect",
+       "def_ro": "așa cum intră, să intre cum intră ei (bevoam iavo)",
+       "dict_ro": "Confirmă egalitatea simbolică dintre prinț și popor la marile sărbători — toți urmează același protocol de circulație."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să iasă cum ies ei.",
+       "w": "și să iasă cum ies ei.",
+       "heb": "וּבְצֵאתָם יֵצֵאוּ",
+       "translit": "uvțētam iēțēu",
+       "strong": "H3318",
+       "pos": "verb, qal infinitiv + sufix + verb, qal imperfect",
+       "def_ro": "și să iasă cum ies ei. (uvțētam iēțēu)",
+       "dict_ro": "Radak: onoarea unui conducător, la vremea pelerinajului, constă tocmai în a merge alături de mulțime, nu separat de ea — «în mulțimea poporului stă gloria regelui»."
       }
      ],
      "textCompare": [
@@ -15807,7 +16673,53 @@
      "translit": "Uvahagim uvamoadim tihie haminha eifa lapar veeifa laail velakevasim matat iado veșemen hin laeifa.",
      "tokens": [
       {
-       "t": "Iar la sărbători și la soroace, prinosul să fie o efa pentru taur și o efa pentru berbec. Iar pentru oi, fiecare după cât îi dă mâna, și un hin de untdelemn pentru fiecare efa."
+       "t": "Iar la sărbători și la soroace,",
+       "w": "Iar la sărbători și la soroace,",
+       "heb": "וּבַחַגִּים וּבַמּוֹעֲדִים",
+       "translit": "uvahagim uvamoadim",
+       "strong": "H4150",
+       "pos": "substantiv, masculin plural + substantiv, masculin plural",
+       "def_ro": "iar la sărbători și la soroace, (uvahagim uvamoadim)",
+       "dict_ro": "Extinde proporțiile deja stabilite de la Șabat și Lună Nouă la toate sărbătorile anuale de pelerinaj."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "prinosul să fie o efa pentru taur și o efa pentru berbec.",
+       "w": "prinosul să fie o efa pentru taur și o efa pentru berbec.",
+       "heb": "תִּהְיֶה הַמִּנְחָה אֵיפָה לַפָּר וְאֵיפָה לָאַיִל",
+       "translit": "tihie haminha ēfa lapar veēfa laail",
+       "strong": "H352",
+       "pos": "verb, qal imperfect + substantiv, feminin singular + substantiv, feminin singular + substantiv, masculin singular + substantiv, feminin singular + substantiv, masculin singular",
+       "def_ro": "prinosul să fie o efa pentru taur și o efa pentru berbec. (tihie haminha ēfa lapar veēfa laail)",
+       "dict_ro": "Confirmă uniformitatea generală a proporțiilor de prinos, consecvent menținute în tot capitolul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iar pentru oi, fiecare după cât îi dă mâna,",
+       "w": "Iar pentru oi, fiecare după cât îi dă mâna,",
+       "heb": "וְלַכְּבָשִׂים מַתַּת יָדוֹ",
+       "translit": "velakvasim matat iado",
+       "strong": "H3027",
+       "pos": "substantiv, masculin plural + substantiv, feminin singular construct + substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "iar pentru oi, fiecare după cât îi dă mâna, (velakvasim matat iado)",
+       "dict_ro": "Repetă principiul flexibilității pentru jertfele de oi, aplicabil universal la toate ocaziile."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și un hin de untdelemn pentru fiecare efa.",
+       "w": "și un hin de untdelemn pentru fiecare efa.",
+       "heb": "וְשֶׁמֶן הִין לָאֵיפָה",
+       "translit": "veșemen hin laēfa",
+       "strong": "H374",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular + substantiv, feminin singular",
+       "def_ro": "și un hin de untdelemn pentru fiecare efa. (veșemen hin laēfa)",
+       "dict_ro": "Formula finală de proporție pentru untdelemn, confirmată identic la fiecare apariție din acest capitol."
       }
      ],
      "textCompare": [
@@ -15838,7 +16750,79 @@
      "translit": "Vehi-iaase hanasi nedava ola o-șelamim nedava l'ADONAI ufatah lo et-hașaar hapone kadim veasa et-olato veet-șelamav kaașer iaase beiom hașabat veiața vesagar et-hașaar aharei țeito.",
      "tokens": [
       {
-       "t": "Iar când prințul va face o ofrandă de bunăvoie – o ardere-de-tot sau o ofrandă de pace ca ofrandă de bunăvoie DOMNULUI – atunci să i se deschidă poarta îndreptată către răsărit. Și să-și facă arderea-de-tot și ofrandele de pace precum face în ziua de Șabat; apoi să iasă și poarta să fie închisă după plecarea lui."
+       "t": "Iar când prințul va face o ofrandă de bunăvoie",
+       "w": "Iar când prințul va face o ofrandă de bunăvoie",
+       "heb": "וְכִי יַעֲשֶׂה הַנָּשִׂיא נְדָבָה",
+       "translit": "vehi iaase hanasi nedava",
+       "strong": "H5071",
+       "pos": "conjuncție + verb, qal imperfect + substantiv, masculin singular + substantiv, feminin singular",
+       "def_ro": "iar când prințul va face o ofrandă de bunăvoie (vehi iaase hanasi nedava)",
+       "dict_ro": "Rashi: această situație se petrece în zilele lucrătoare obișnuite, nu la Șabat sau Lună Nouă, când poarta e deja deschisă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– o ardere-de-tot sau o ofrandă de pace ca ofrandă de bunăvoie DOMNULUI –",
+       "w": "– o ardere-de-tot sau o ofrandă de pace ca ofrandă de bunăvoie DOMNULUI –",
+       "heb": "עוֹלָה אוֹ שְׁלָמִים נְדָבָה לַיהוָה",
+       "translit": "ola o șelamim nedava la'Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, feminin singular + conjuncție + substantiv, masculin plural + substantiv, feminin singular + nume propriu",
+       "def_ro": "– o ardere-de-tot sau o ofrandă de pace ca ofrandă de bunăvoie DOMNULUI – (ola o șelamim nedava la'Adonai)",
+       "dict_ro": "Specifică tipurile de jertfă voluntară pe care prințul le poate aduce din proprie inițiativă, dincolo de obligațiile fixe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "atunci să i se deschidă poarta îndreptată către răsărit.",
+       "w": "atunci să i se deschidă poarta îndreptată către răsărit.",
+       "heb": "וּפָתַח לוֹ אֶת הַשַּׁעַר הַפֹּנֶה קָדִים",
+       "translit": "ufatah lo et hașaar hapone kadim",
+       "strong": "H6921",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + marcă a complementului direct + substantiv, masculin singular + verb, qal participiu + substantiv, masculin singular",
+       "def_ro": "atunci să i se deschidă poarta îndreptată către răsărit. (ufatah lo et hașaar hapone kadim)",
+       "dict_ro": "Poarta estică, în mod normal închisă în zilele lucrătoare, se deschide special pentru acest act de devoțiune personală a prințului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și să-și facă arderea-de-tot și ofrandele de pace",
+       "w": "Și să-și facă arderea-de-tot și ofrandele de pace",
+       "heb": "וְעָשָׂה אֶת עֹלָתוֹ וְאֶת שְׁלָמָיו",
+       "translit": "veasa et olato veet șelamaiv",
+       "strong": "H8002",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + substantiv, feminin singular construct + sufix + marcă a complementului direct + substantiv, masculin plural construct + sufix",
+       "def_ro": "și să-și facă arderea-de-tot și ofrandele de pace (veasa et olato veet șelamaiv)",
+       "dict_ro": "Confirmă execuția efectivă a jertfei voluntare, cu aceeași procedură sacerdotală descrisă anterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "precum face în ziua de Șabat;",
+       "w": "precum face în ziua de Șabat;",
+       "heb": "כַּאֲשֶׁר יַעֲשֶׂה בְּיוֹם הַשַּׁבָּת",
+       "translit": "kaașer iaase beom hașabat",
+       "strong": "H7676",
+       "pos": "particulă relativă + verb, qal imperfect + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "precum face în ziua de Șabat; (kaașer iaase beom hașabat)",
+       "dict_ro": "Protocolul exact urmează modelul deja stabilit pentru ceremonia de Șabat, asigurând consecvență ritualică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "apoi să iasă și poarta să fie închisă după plecarea lui.",
+       "w": "apoi să iasă și poarta să fie închisă după plecarea lui.",
+       "heb": "וְיָצָא וְסָגַר אֶת הַשַּׁעַר אַחֲרֵי צֵאתוֹ",
+       "translit": "veiața vesagar et hașaar aharē țēto",
+       "strong": "H3318",
+       "pos": "verb, qal perfect consecutiv + verb, qal perfect consecutiv + marcă a complementului direct + substantiv, masculin singular + prepoziție + verb, qal infinitiv + sufix",
+       "def_ro": "apoi să iasă și poarta să fie închisă după plecarea lui. (veiața vesagar et hașaar aharē țēto)",
+       "dict_ro": "Rashi notează distincția cheie: spre diferență de Șabat (unde poarta rămâne deschisă toată ziua pentru popor), aici se închide imediat — în zilele lucrătoare oamenii sunt ocupați cu munca și nu vin să se închine."
       }
      ],
      "textCompare": [
@@ -15869,7 +16853,40 @@
      "translit": "Veheves ben-șenato tamim taase ola laiom l'ADONAI baboker baboker taase oto.",
      "tokens": [
       {
-       "t": "Un miel în primul său an fără meteahnă să faci ca ardere-de-tot zilnică pentru DOMNUL. În fiecare dimineață să o faci."
+       "t": "Un miel în primul său an fără meteahnă",
+       "w": "Un miel în primul său an fără meteahnă",
+       "heb": "וְכֶבֶשׂ בֶּן שְׁנָתוֹ תָּמִים",
+       "translit": "veheves ben șenato tamim",
+       "strong": "H8549",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular construct + substantiv, feminin singular construct + sufix + adjectiv, masculin singular",
+       "def_ro": "un miel în primul său an fără meteahnă (keves ben șenato tamim)",
+       "dict_ro": "Rashi: acesta e jertfa de ardere-de-tot zilnică (tamid), aceeași prescrisă din vechime, acum reafirmată pentru Templul restaurat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să faci ca ardere-de-tot zilnică pentru DOMNUL.",
+       "w": "să faci ca ardere-de-tot zilnică pentru DOMNUL.",
+       "heb": "תַּעֲשֶׂה עוֹלָה לַיּוֹם לַיהֹוָה",
+       "translit": "taase ola laiom la'Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperfect + substantiv, feminin singular + substantiv, masculin singular + nume propriu",
+       "def_ro": "să faci ca ardere-de-tot zilnică pentru DOMNUL. (taase ola laiom la'Adonai)",
+       "dict_ro": "Confirmă continuitatea ritualului zilnic neîntrerupt, piatra de temelie a cultului de fiecare zi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "În fiecare dimineață să o faci.",
+       "w": "În fiecare dimineață să o faci.",
+       "heb": "בַּבֹּקֶר בַּבֹּקֶר תַּעֲשֶׂה אֹתוֹ",
+       "translit": "baboker baboker taase oto",
+       "strong": "H853",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular + verb, qal imperfect + marcă a complementului direct + sufix",
+       "def_ro": "în fiecare dimineață să o faci. (baboker baboker taase oto)",
+       "dict_ro": "Radak notează că, spre diferență de ritualul mozaic cu jertfe de dimineață și seară, aici e menționată doar cea de dimineață — jertfa de seară pare omisă explicit în viziunea lui Ezechiel."
       }
      ],
      "textCompare": [
@@ -15900,7 +16917,66 @@
      "translit": "Uminha taase alav baboker baboker șișit haeifa veșemen șelișit hahin laros et-hasolet minha l'ADONAI hukot olam tamid.",
      "tokens": [
       {
-       "t": "Să aduci un prinos cu el în fiecare dimineață: o șesime de efa și o treime de hin de untdelemn cu care să frămânți făina, un prinos pentru DOMNUL – un decret veșnic, necontenit."
+       "t": "Să aduci un prinos cu el în fiecare dimineață:",
+       "w": "Să aduci un prinos cu el în fiecare dimineață:",
+       "heb": "וּמִנְחָה תַעֲשֶׂה עָלָיו בַּבֹּקֶר בַּבֹּקֶר",
+       "translit": "uminha taase alaiv baboker baboker",
+       "strong": "H1242",
+       "pos": "substantiv, feminin singular + verb, qal imperfect + prepoziție + sufix + substantiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "să aduci un prinos cu el în fiecare dimineață: (uminha taase alaiv baboker baboker)",
+       "dict_ro": "Rashi: această cantitate — o șesime ierusalimiteană — echivalează cu doi isaronim din măsura standard mozaică, împărțiți între prinosul propriu-zis și pâinile speciale ale marelui preot."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "o șesime de efa",
+       "w": "o șesime de efa",
+       "heb": "שִׁשִּׁית הָאֵיפָה",
+       "translit": "șișit haēfa",
+       "strong": "H374",
+       "pos": "numeral ordinal + substantiv, feminin singular",
+       "def_ro": "o șesime de efa (șișit haēfa)",
+       "dict_ro": "Cantitatea exactă de făină specificată pentru prinosul zilnic de dimineață."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și o treime de hin de untdelemn cu care să frămânți făina,",
+       "w": "și o treime de hin de untdelemn cu care să frămânți făina,",
+       "heb": "וְשֶׁמֶן שְׁלִישִׁית הַהִין לָרֹס אֶת הַסֹּלֶת",
+       "translit": "veșemen șelișit hahin laros et hasolet",
+       "strong": "H5560",
+       "pos": "substantiv, masculin singular + substantiv, feminin singular construct + substantiv, masculin singular + verb, qal infinitiv + marcă a complementului direct + substantiv, feminin singular",
+       "def_ro": "și o treime de hin de untdelemn cu care să frămânți făina, (veșemen șelișit hahin laros et hasolet)",
+       "dict_ro": "Rashi explică verbul rar «laros» prin rădăcina pentru stropire/frământare — amestecarea untdelemnului în făină, parte standard a oricărui prinos."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un prinos pentru DOMNUL",
+       "w": "un prinos pentru DOMNUL",
+       "heb": "מִנְחָה לַיהוָה",
+       "translit": "minha la'Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, feminin singular + nume propriu",
+       "def_ro": "un prinos pentru DOMNUL (minha la'Adonai)",
+       "dict_ro": "Confirmă destinația și scopul sacru al acestui dar zilnic de făină și untdelemn."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– un decret veșnic, necontenit.",
+       "w": "– un decret veșnic, necontenit.",
+       "heb": "חֻקּוֹת עוֹלָם תָּמִיד",
+       "translit": "hukot olam tamid",
+       "strong": "H8548",
+       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "– un decret veșnic, necontenit. (hukot olam tamid)",
+       "dict_ro": "Metzudat David: formula asigură continuitatea nealterată a ritualului zilnic adițional, alături de jertfa tamid, fără întrerupere."
       }
      ],
      "textCompare": [
@@ -15930,7 +17006,40 @@
      "translit": "Iaasu et-hakeves veet-haminha veet-hașemen baboker baboker olat tamid.",
      "tokens": [
       {
-       "t": "Și să facă mielul și prinosul și untdelemnul în fiecare dimineață, ca ofrandă necontenită."
+       "t": "Și să facă mielul și prinosul și untdelemnul",
+       "w": "Și să facă mielul și prinosul și untdelemnul",
+       "heb": "יַעֲשׂוּ אֶת הַכֶּבֶשׂ וְאֶת הַמִּנְחָה וְאֶת הַשֶּׁמֶן",
+       "translit": "iaasu et hakeves veet haminha veet hașemen",
+       "strong": "H8081",
+       "pos": "verb, qal imperfect + marcă a complementului direct + substantiv, masculin singular + marcă a complementului direct + substantiv, feminin singular + marcă a complementului direct + substantiv, masculin singular",
+       "def_ro": "și să facă mielul și prinosul și untdelemnul (iaasu et hakeves veet haminha veet hașemen)",
+       "dict_ro": "Rezumă cele trei elemente combinate ale jertfei zilnice de dimineață — animal, făină și untdelemn."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în fiecare dimineață,",
+       "w": "în fiecare dimineață,",
+       "heb": "בַּבֹּקֶר בַּבֹּקֶר",
+       "translit": "baboker baboker",
+       "strong": "H1242",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "în fiecare dimineață, (baboker baboker)",
+       "dict_ro": "Repetiția formulei accentuează regularitatea absolută, fără excepție, a ritualului zilnic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca ofrandă necontenită.",
+       "w": "ca ofrandă necontenită.",
+       "heb": "עוֹלַת תָּמִיד",
+       "translit": "olat tamid",
+       "strong": "H8548",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "ca ofrandă necontenită. (olat tamid)",
+       "dict_ro": "Confirmă caracterul neîntrerupt al jertfei — fundamentul constant al vieții de cult la Templul restaurat."
       }
      ],
      "textCompare": [
@@ -15958,7 +17067,53 @@
      "translit": "Ko-amar Adonai ELOHIM ki-iten hanasi matana leiș mibanav nahalato hi levanav tihie ahuzatam hi benahala.",
      "tokens": [
       {
-       "t": "Așa vorbește Stăpânul meu, Domnul DUMNEZEU: „Dacă prințul va da un dar unuia dintre fiii lui – fiind moștenirea lui care va aparține fiilor lui – să fie proprietatea lui prin moștenire."
+       "t": "Așa vorbește Stăpânul meu, Domnul DUMNEZEU:",
+       "w": "Așa vorbește Stăpânul meu, Domnul DUMNEZEU:",
+       "heb": "כֹּה אָמַר אֲדֹנָי יְהֹוִה",
+       "translit": "ko amar adonai Adonai",
+       "strong": "H3069",
+       "pos": "adverb + verb, qal perfect + substantiv, masculin plural construct + sufix + nume propriu",
+       "def_ro": "așa vorbește Stăpânul meu, Domnul DUMNEZEU: (ko amar adonai Adonai)",
+       "dict_ro": "Introduce ultima secțiune a profeției, reglementând transferul proprietății funciare a prințului, prevenind viitoarele abuzuri."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Dacă prințul va da un dar unuia dintre fiii lui",
+       "w": "Dacă prințul va da un dar unuia dintre fiii lui",
+       "heb": "כִּי יִתֵּן הַנָּשִׂיא מַתָּנָה לְאִישׁ מִבָּנָיו",
+       "translit": "ki itēn hanasi matana leiș mibanaiv",
+       "strong": "H1121",
+       "pos": "conjuncție + verb, qal imperfect + substantiv, masculin singular + substantiv, feminin singular + substantiv, masculin singular + substantiv, masculin plural construct + sufix",
+       "def_ro": "dacă prințul va da un dar unuia dintre fiii lui (ki itēn hanasi matana leiș mibanaiv)",
+       "dict_ro": "Stabilește regula pentru moștenirea transmisă direct descendenților prințului, legitimă și permanentă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– fiind moștenirea lui care va aparține fiilor lui –",
+       "w": "– fiind moștenirea lui care va aparține fiilor lui –",
+       "heb": "נַחֲלָתוֹ הִיא לְבָנָיו תִּהְיֶה",
+       "translit": "nahalato hi levanaiv tihie",
+       "strong": "H1961",
+       "pos": "substantiv, feminin singular construct + sufix + pronume personal + substantiv, masculin plural construct + sufix + verb, qal imperfect",
+       "def_ro": "– fiind moștenirea lui care va aparține fiilor lui – (nahalato hi levanaiv tihie)",
+       "dict_ro": "Confirmă legătura directă dintre statutul de moștenire ereditară și descendența prințului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să fie proprietatea lui prin moștenire.",
+       "w": "să fie proprietatea lui prin moștenire.",
+       "heb": "אֲחֻזָּתָם הִיא בְּנַחֲלָה",
+       "translit": "ahuzatam hi benahala",
+       "strong": "H5159",
+       "pos": "substantiv, feminin singular construct + sufix + pronume personal + substantiv, feminin singular",
+       "def_ro": "să fie proprietatea lui prin moștenire. (ahuzatam hi benahala)",
+       "dict_ro": "Radak: darul făcut unui fiu nu diferă de moștenirea naturală pe care acesta ar fi primit-o oricum — tranzacția rămâne definitivă și permanentă."
       }
      ],
      "textCompare": [
@@ -15988,20 +17143,66 @@
      "translit": "Vehi-iten matana minahalato leahad meavadav vehaita lo ad-șenat haderor veșavat lanasi ah nahalato banav lahem tihie.",
      "tokens": [
       {
-       "t": "Dar dacă prințul dă un dar din moștenirea sa unuia dintre slujitorii lui, să rămână a lui până la "
+       "t": "Dar dacă prințul dă un dar din moștenirea sa",
+       "w": "Dar dacă prințul dă un dar din moștenirea sa",
+       "heb": "וְכִי יִתֵּן מַתָּנָה מִנַּחֲלָתוֹ",
+       "translit": "vehi itēn matana minahalato",
+       "strong": "H5159",
+       "pos": "conjuncție + verb, qal imperfect + substantiv, feminin singular + substantiv, feminin singular construct + sufix",
+       "def_ro": "dar dacă prințul dă un dar din moștenirea sa (vehi itēn matana minahalato)",
+       "dict_ro": "Introduce cazul distinct al darului făcut unei persoane din afara familiei directe — un slujitor, nu un fiu."
       },
       {
-       "t": "anul de eliberare",
-       "w": "anul de eliberare",
-       "heb": "הַדְּרוֹר",
-       "translit": "hadror",
+       "t": " "
+      },
+      {
+       "t": "unuia dintre slujitorii lui,",
+       "w": "unuia dintre slujitorii lui,",
+       "heb": "לְאַחַד מֵעֲבָדָיו",
+       "translit": "leahad mēavadaiv",
+       "strong": "H5650",
+       "pos": "numeral + substantiv, masculin plural construct + sufix",
+       "def_ro": "unuia dintre slujitorii lui, (leahad mēavadaiv)",
+       "dict_ro": "Precizează exact statutul juridic diferit al beneficiarului, determinant pentru regula ce urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să rămână a lui până la anul de eliberare,",
+       "w": "să rămână a lui până la anul de eliberare,",
+       "heb": "וְהָיְתָה לּוֹ עַד שְׁנַת הַדְּרוֹר",
+       "translit": "vehaita lo ad șenat hadror",
        "strong": "H1865",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "anul libertății, al eliberării (șenat hador).",
-       "dict_ro": "Rashi identifică explicit acest „an al eliberării” cu anul jubiliar (iovel) din Leviticul 25:10, când toate proprietățile și sclavii se eliberau — același principiu aplicat aici darurilor pe care prințul le face slujitorilor săi: ele revin automat la domeniul princiar la fiecare jubileu, spre diferență de darurile către proprii fii, care rămân moștenire permanentă."
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + prepoziție + substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "să rămână a lui până la anul de eliberare, (vehaita lo ad șenat hadror)",
+       "dict_ro": "Rashi identifică «anul eliberării» cu anul jubiliar — darul rămâne temporar la slujitor, nu permanent."
       },
       {
-       "t": ", apoi i se va returna prințului. Iar moștenirea lui trebuie să fie negreșit a fiilor lui."
+       "t": " "
+      },
+      {
+       "t": "apoi i se va returna prințului.",
+       "w": "apoi i se va returna prințului.",
+       "heb": "וְשָׁבַת לַנָּשִׂיא",
+       "translit": "veșavat lanasi",
+       "strong": "H5387",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular",
+       "def_ro": "apoi i se va returna prințului. (veșavat lanasi)",
+       "dict_ro": "Proprietatea revine automat prințului la jubileu, prevenind înstrăinarea permanentă a patrimoniului dinastic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iar moștenirea lui trebuie să fie negreșit a fiilor lui.",
+       "w": "Iar moștenirea lui trebuie să fie negreșit a fiilor lui.",
+       "heb": "אַךְ נַחֲלָתוֹ בָּנָיו לָהֶם תִּהְיֶה",
+       "translit": "ah nahalato banaiv lahem tihie",
+       "strong": "H1961",
+       "pos": "particulă afirmativă + substantiv, feminin singular construct + sufix + substantiv, masculin plural construct + sufix + prepoziție + sufix + verb, qal imperfect",
+       "def_ro": "iar moștenirea lui trebuie să fie negreșit a fiilor lui. (ah nahalato banaiv lahem tihie)",
+       "dict_ro": "Principiul final, ferm: patrimoniul funciar al prințului trebuie să rămână în linie directă descendentă, protejat de orice înstrăinare permanentă către persoane din afara familiei."
       }
      ],
      "textCompare": [
@@ -16036,7 +17237,66 @@
      "translit": "Velo-ikah hanasi minahalat haam lehonotam meahuzatam meahuzato ianhil et-banav lemaan așer lo-iafuțu ami iș meahuzato.",
      "tokens": [
       {
-       "t": "Și prințul să nu ia din moștenirea poporului, jefuindu-i de moștenirea lor. Din avutul lui [propriu] să își înzestreze copiii, pentru ca poporul Meu să nu fie deposedat, fiecare, de moștenirea lui."
+       "t": "Și prințul să nu ia din moștenirea poporului,",
+       "w": "Și prințul să nu ia din moștenirea poporului,",
+       "heb": "וְלֹא יִקַּח הַנָּשִׂיא מִנַּחֲלַת הָעָם",
+       "translit": "velo ikah hanasi minahalat haam",
+       "strong": "H5971",
+       "pos": "particulă negativă + verb, qal imperfect + substantiv, masculin singular + substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "și prințul să nu ia din moștenirea poporului, (velo ikah hanasi minahalat haam)",
+       "dict_ro": "Interdicție fermă finală, adresată direct prințului — abuzul de putere pentru acapararea terenurilor poporului e explicit interzis."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "jefuindu-i de moștenirea lor.",
+       "w": "jefuindu-i de moștenirea lor.",
+       "heb": "לְהוֹנֹתָם מֵאֲחֻזָּתָם",
+       "translit": "lehonotam mēahuzatam",
+       "strong": "H272",
+       "pos": "verb, hifil infinitiv + sufix + substantiv, feminin singular construct + sufix",
+       "def_ro": "jefuindu-i de moștenirea lor. (lehonotam mēahuzatam)",
+       "dict_ro": "Rashi folosește același verb «lehonot» (a asupri/jefui) din alte avertismente ale lui Ezechiel împotriva exploatării poporului de către conducători."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Din avutul lui [propriu] să își înzestreze copiii,",
+       "w": "Din avutul lui [propriu] să își înzestreze copiii,",
+       "heb": "מֵאֲחֻזָּתוֹ יַנְחִל אֶת בָּנָיו",
+       "translit": "mēahuzato ianhil et banaiv",
+       "strong": "H1121",
+       "pos": "substantiv, feminin singular construct + sufix + verb, hifil imperfect + marcă a complementului direct + substantiv, masculin plural construct + sufix",
+       "def_ro": "din avutul lui [propriu] să își înzestreze copiii, (mēahuzato ianhil et banaiv)",
+       "dict_ro": "Soluția corectă: prințul trebuie să folosească exclusiv propriul patrimoniu pentru a-și îndestula urmașii, nu să confiște terenul altora."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru ca poporul Meu să nu fie deposedat,",
+       "w": "pentru ca poporul Meu să nu fie deposedat,",
+       "heb": "לְמַעַן אֲשֶׁר לֹא יָפֻצוּ עַמִּי",
+       "translit": "lemaan așer lo iafuțu ami",
+       "strong": "H5971",
+       "pos": "prepoziție + particulă relativă + particulă negativă + verb, qal imperfect + substantiv, masculin singular construct + sufix",
+       "def_ro": "pentru ca poporul Meu să nu fie deposedat, (lemaan așer lo iafuțu ami)",
+       "dict_ro": "Scopul final al întregii legislații — protecția structurală a dreptului de proprietate al fiecărui israelit, lecție directă trasă din abuzurile regilor istorici anteriori exilului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiecare, de moștenirea lui.",
+       "w": "fiecare, de moștenirea lui.",
+       "heb": "אִישׁ מֵאֲחֻזָּתוֹ",
+       "translit": "iș mēahuzato",
+       "strong": "H272",
+       "pos": "substantiv, masculin singular + substantiv, feminin singular construct + sufix",
+       "def_ro": "fiecare, de moștenirea lui. (iș mēahuzato)",
+       "dict_ro": "Închide capitolul și întreaga haftara cu o garanție individuală — fiecare israelit, nu doar colectivul, e protejat explicit de arbitrariul puterii regale."
       }
      ],
      "textCompare": [
