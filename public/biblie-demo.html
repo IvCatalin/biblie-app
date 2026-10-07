@@ -1588,7 +1588,7 @@
   .ref-preview-popover.rp-parchment .rp-title-ro,
   .ref-preview-popover.rp-parchment .rp-title-ref{
     font-family:'EB Garamond', 'Fraunces', serif;
-    font-size:14.5px;
+    font-size:17px;
     font-weight:700;
     text-transform:none;
     letter-spacing:0.01em;
@@ -5359,10 +5359,14 @@ function openPicker(){
   populatePickerBookList();
   pickerModal.classList.add("show");
   pickerBackdrop.classList.add("show");
+  // Săgețile flotante de capitol anterior/următor nu trebuie să rămână peste
+  // lista de Cărți, deasupra panoului — doar pe pagina de citire.
+  if(typeof updateChapterNavFloat === "function") updateChapterNavFloat();
 }
 function closePicker(){
   pickerModal.classList.remove("show");
   pickerBackdrop.classList.remove("show");
+  if(typeof updateChapterNavFloat === "function") updateChapterNavFloat();
 }
 
 const TORA_SLUGS = ["genesis", "exodus", "leviticus", "numbers", "deuteronomy"];
@@ -5551,7 +5555,11 @@ function updateChapterNavFloat(){
   const nextBtn = document.getElementById("chapter-nav-next");
   if(!navFloat) return;
   const onBiblia = tabPanels.biblia && tabPanels.biblia.style.display !== "none";
-  if(!onBiblia || !currentBookSlug){
+  // Cât timp panoul "Cărți" (selectorul de cărți/capitole) e deschis peste
+  // tab-ul Biblia, săgețile flotante de capitol anterior/următor rămân
+  // ascunse — altfel acopereau lista de cărți.
+  const pickerOpen = typeof pickerModal !== "undefined" && pickerModal && pickerModal.classList.contains("show");
+  if(!onBiblia || !currentBookSlug || pickerOpen){
     navFloat.classList.remove("show");
     return;
   }
@@ -7960,7 +7968,7 @@ async function initHebrewCalendar(){
         // Tot rândul e clic-abil (nu doar săgeata), ca un rând obișnuit de listă.
         if(system === "he"){
           row.classList.add("cal-holiday-row-clickable");
-          row.addEventListener("click", () => showHolidayPreview(h.name, row));
+          row.addEventListener("click", (e) => { e.stopPropagation(); showHolidayPreview(h.name, row); });
           const btn = document.createElement("button");
           btn.className = "pericope-ref-go ref-pill-clickable cal-holiday-go";
           btn.title = "Vezi sărbătoarea";
