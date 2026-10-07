@@ -10502,7 +10502,79 @@
      "translit": "Vaiomer Șemuel el-Șaul oti șalah ADONAI limșahoha lemeleh al-amo al-Israel veata șema lekol divrei ADONAI.",
      "tokens": [
       {
-       "t": "Samuel i-a spus lui Șaul: „Pe mine m-a trimis DOMNUL să te ung ca rege peste poporul Său, peste Israel, astfel că acum ascultă de glasul cuvintelor DOMNULUI."
+       "t": "Samuel i-a spus lui Șaul:",
+       "w": "Samuel i-a spus lui Șaul:",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל שָׁאוּל",
+       "translit": "vaiomer șemuēl el șaul",
+       "strong": "H7586",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu",
+       "def_ro": "Samuel i-a spus lui Șaul: (vaiomer șemuēl el șaul)",
+       "dict_ro": "Deschide episodul central al pericopei Zahor — porunca divină de nimicire a lui Amalek, transmisă prin Samuel."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Pe mine m-a trimis DOMNUL",
+       "w": "Pe mine m-a trimis DOMNUL",
+       "heb": "אֹתִי שָׁלַח יְהוָה",
+       "translit": "oti șalah Adonai",
+       "strong": "H3068",
+       "pos": "marcă a complementului direct + sufix + verb, qal perfect + nume propriu",
+       "def_ro": "pe mine m-a trimis DOMNUL (oti șalah Adonai)",
+       "dict_ro": "Samuel își afirmă explicit autoritatea profetică delegată, pregătind terenul pentru o poruncă extrem de gravă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să te ung ca rege peste poporul Său,",
+       "w": "să te ung ca rege peste poporul Său,",
+       "heb": "לִמְשָׁחֳךָ לְמֶלֶךְ עַל עַמּוֹ",
+       "translit": "limșahoha lemeleh al amo",
+       "strong": "H5971",
+       "pos": "verb, qal infinitiv + sufix + substantiv, masculin singular + prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "să te ung ca rege peste poporul Său, (limșahoha lemeleh al amo)",
+       "dict_ro": "Rashi: Samuel îi reamintește lui Șaul confirmarea profeției anterioare — odată ce ungerea s-a împlinit exact cum a fost prezisă, Șaul trebuie să aibă încredere deplină și în porunca ce urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "peste Israel,",
+       "w": "peste Israel,",
+       "heb": "עַל יִשְׂרָאֵל",
+       "translit": "al israēl",
+       "strong": "H3478",
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "peste Israel, (al israēl)",
+       "dict_ro": "Confirmă sfera completă a autorității regale primite de Șaul, de la Samuel, în numele DOMNULUI."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "astfel că acum ascultă",
+       "w": "astfel că acum ascultă",
+       "heb": "וְעַתָּה שְׁמַע",
+       "translit": "veata șema",
+       "strong": "H8085",
+       "pos": "adverb + verb, qal imperativ",
+       "def_ro": "astfel că acum ascultă (veata șema)",
+       "dict_ro": "Metzudat David: Samuel trage concluzia logică — dacă prima profeție (ungerea) s-a adeverit, acum trebuie ascultat fără rezervă și al doilea cuvânt divin, cel despre Amalek."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de glasul cuvintelor DOMNULUI.",
+       "w": "de glasul cuvintelor DOMNULUI.",
+       "heb": "לְקוֹל דִּבְרֵי יְהוָה",
+       "translit": "lekol divrē Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + nume propriu",
+       "def_ro": "de glasul cuvintelor DOMNULUI. (lekol divrē Adonai)",
+       "dict_ro": "Formula introduce direct porunca următoare, sporind solemnitatea și caracterul obligatoriu al ei."
       }
      ],
      "textCompare": [
@@ -10533,20 +10605,53 @@
      "translit": "Ko amar ADONAI Țevaot pakadeti et așer-asa Amalek le'Israel așer-sam lo badereh baaloto mi'Mițraim.",
      "tokens": [
       {
-       "t": "Așa a spus DOMNUL Oștirilor: «"
+       "t": "Așa a spus DOMNUL Oștirilor:",
+       "w": "Așa a spus DOMNUL Oștirilor:",
+       "heb": "כֹּה אָמַר יְהוָה צְבָאוֹת",
+       "translit": "ko amar Adonai țevaot",
+       "strong": "H6635",
+       "pos": "adverb + verb, qal perfect + nume propriu + substantiv, masculin și feminin plural",
+       "def_ro": "așa a spus DOMNUL Oștirilor: (ko amar Adonai țevaot)",
+       "dict_ro": "Formulă solemnă de introducere a unei porunci profetice directe, cu autoritate militară (Oștirilor)."
       },
       {
-       "t": "Mi-am amintit",
-       "w": "Mi-am amintit",
-       "heb": "פָּקַדְתִּי",
-       "translit": "pakadti",
-       "strong": "H6485",
-       "pos": "verb, qal perfect",
-       "def_ro": "am cercetat, am rânduit [pedeapsa] (pakadti).",
-       "dict_ro": "Pakad — același verb folosit la 1 Samuel 20:18 pentru „a observa absența” — descrie aici o „cercetare” judiciară divină: amintirea lui Dumnezeu nu e un simplu act mintal, ci declanșează direct pedeapsa. Porunca face parte din mițva biblică explicită de a șterge amintirea lui Amalek (Deuteronomul 25:17-19), motiv pentru care această haftara se citește special înaintea lui Purim — sărbătoarea care celebrează înfrângerea lui Haman, descendent tradițional al lui Agag."
+       "t": " «"
       },
       {
-       "t": " de ceea ce i-a făcut Amalek lui Israel, că s-a năpustit asupra lui pe drum, pe când urca din Egipt."
+       "t": "Mi-am amintit de ceea ce i-a făcut Amalek lui Israel,",
+       "w": "Mi-am amintit de ceea ce i-a făcut Amalek lui Israel,",
+       "heb": "פָּקַדְתִּי אֵת אֲשֶׁר עָשָׂה עֲמָלֵק לְיִשְׂרָאֵל",
+       "translit": "pakadti ēt așer asa amalēk leisraēl",
+       "strong": "H3478",
+       "pos": "verb, qal perfect + marcă a complementului direct + particulă relativă + verb, qal perfect + nume propriu + nume propriu",
+       "def_ro": "mi-am amintit de ceea ce i-a făcut Amalek lui Israel, (pakadti ēt așer asa amalēk leisraēl)",
+       "dict_ro": "Radak: Dumnezeu «pakad» — ține socoteală — pedeapsa vine după sute de ani, dar fapta nu e uitată; se referă la atacul descris în Exod 17:8."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "că s-a năpustit asupra lui pe drum,",
+       "w": "că s-a năpustit asupra lui pe drum,",
+       "heb": "אֲשֶׁר שָׂם לוֹ בַּדֶּרֶךְ",
+       "translit": "așer sam lo badereh",
+       "strong": "H1870",
+       "pos": "particulă relativă + verb, qal perfect + prepoziție + sufix + substantiv, masculin și feminin singular",
+       "def_ro": "că s-a năpustit asupra lui pe drum, (așer sam lo badereh)",
+       "dict_ro": "Amalek nu a luptat deschis, ci a pândit, atacând pe furiș poporul extenuat după eliberarea din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe când urca din Egipt.",
+       "w": "pe când urca din Egipt.",
+       "heb": "בַּעֲלֹתוֹ מִמִּצְרָיִם",
+       "translit": "baaloto mimițraim",
+       "strong": "H4714",
+       "pos": "verb, qal infinitiv + sufix + nume propriu",
+       "def_ro": "pe când urca din Egipt. (baaloto mimițraim)",
+       "dict_ro": "Plasează atacul în momentul cel mai vulnerabil al lui Israel — imediat după eliberare, înainte de a fi consolidat ca națiune."
       }
      ],
      "textCompare": [
@@ -10577,22 +10682,95 @@
      "translit": "Ata leh vehikita et-Amalek vehaharamtem et-kol-așer-lo velo tahmol alav vehemata meiș ad-ișa meolel vead-ionek mișor vead-se migamal vead-hamor.",
      "tokens": [
       {
-       "t": "Mergi așadar și lovește-l pe Amalek și "
+       "t": "Mergi așadar și lovește-l pe Amalek",
+       "w": "Mergi așadar și lovește-l pe Amalek",
+       "heb": "עַתָּה לֵךְ וְהִכִּיתָה אֶת עֲמָלֵק",
+       "translit": "ata lēh vehikita et amalēk",
+       "strong": "H6002",
+       "pos": "adverb + verb, qal imperativ + verb, hifil perfect consecutiv + marcă a complementului direct + nume propriu",
+       "def_ro": "mergi așadar și lovește-l pe Amalek (ata lēh vehikita et amalēk)",
+       "dict_ro": "Porunca directă, imperativă, transmisă fără ambiguitate prin Samuel."
       },
       {
-       "t": "distrugeți",
-       "w": "distrugeți",
-       "heb": "וְהַחֲרַמְתֶּם",
-       "translit": "vehaharamtem",
-       "strong": "H2763",
-       "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "a nimici prin interdicție sacră, a declara herem (haharamtem).",
-       "dict_ro": "Haharem — „nimicirea totală, consacrată” — e aceeași rădăcină cu herem, interdicția sacră aplicată cuceririi Canaanului (Iosua 6:17-21) sau idolilor (Deuteronomul 13:15-16): nu un simplu masacru, ci un act religios de separare totală a unui lucru de folosința omenească obișnuită, consacrându-l nimicirii.",
-       "greek": "ἐξολοθρεύσεις ... ἀναθεματιεῖς (exolothreuseis ... anathematieis)",
-       "greek_def_ro": "ἐξολοθρεύσεις ... ἀναθεματιεῖς (exolothreuseis ... anathematieis) — vei nimici de tot ... îl vei consacra anatemei — Septuaginta folosește doi verbi grecești pentru a reda nuanța dublă a lui haharem (nimicire + consacrare interzisă)."
+       "t": " "
       },
       {
-       "t": " tot ceea ce are și să nu arăți nicio milă față de el. Să ucizi bărbat și femeie deopotrivă, prunc și sugar deopotrivă, bou și oaie deopotrivă, cămilă și măgar deopotrivă.»”"
+       "t": "și distrugeți tot ceea ce are",
+       "w": "și distrugeți tot ceea ce are",
+       "heb": "וְהַחֲרַמְתֶּם אֶת כָּל אֲשֶׁר לוֹ",
+       "translit": "vehaharamtem et kal așer lo",
+       "strong": "",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + substantiv, masculin singular construct + particulă relativă + prepoziție + sufix",
+       "def_ro": "și distrugeți tot ceea ce are (vehaharamtem et kal așer lo)",
+       "dict_ro": "«Haharamtem» denotă interdicția totală (herem) — nimic nu poate fi păstrat pentru folos personal, toată prada aparține consacrării de nimicire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să nu arăți nicio milă față de el.",
+       "w": "și să nu arăți nicio milă față de el.",
+       "heb": "וְלֹא תַחְמֹל עָלָיו",
+       "translit": "velo tahmol alaiv",
+       "strong": "H5921",
+       "pos": "particulă negativă + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "și să nu arăți nicio milă față de el. (velo tahmol alaiv)",
+       "dict_ro": "Radak notează avertismentul explicit, dat tocmai pentru că Șaul avea să cedeze în cele din urmă milei — textul anticipează exact eșecul care urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Să ucizi bărbat și femeie deopotrivă,",
+       "w": "Să ucizi bărbat și femeie deopotrivă,",
+       "heb": "וְהֵמַתָּה מֵאִישׁ עַד אִשָּׁה",
+       "translit": "vehēmata mēiș ad ișa",
+       "strong": "H802",
+       "pos": "verb, hifil perfect consecutiv + substantiv, masculin singular + prepoziție + substantiv, feminin singular",
+       "def_ro": "să ucizi bărbat și femeie deopotrivă, (mēiș ad ișa)",
+       "dict_ro": "Rashi: tradiția explică severitatea extremă prin faptul că amalekiții practicau vrăjitoria și se puteau transforma, aparent, în animale — de aici porunca de a nu cruța nimic viu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "prunc și sugar deopotrivă,",
+       "w": "prunc și sugar deopotrivă,",
+       "heb": "מֵעֹלֵל וְעַד יוֹנֵק",
+       "translit": "mēolēl vead ionēk",
+       "strong": "H3243",
+       "pos": "substantiv, masculin singular + prepoziție + verb, qal participiu",
+       "def_ro": "prunc și sugar deopotrivă, (mēolēl vead ionēk)",
+       "dict_ro": "Extinde porunca la toate categoriile de vârstă, fără excepție, confirmând caracterul total al interdicției herem."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "bou și oaie deopotrivă,",
+       "w": "bou și oaie deopotrivă,",
+       "heb": "מִשּׁוֹר וְעַד שֶׂה",
+       "translit": "mișor vead se",
+       "strong": "H7716",
+       "pos": "substantiv, masculin singular + prepoziție + substantiv, masculin și feminin singular",
+       "def_ro": "bou și oaie deopotrivă, (mișor vead se)",
+       "dict_ro": "Chiar și animalele intră sub interdicție — un detaliu care devine central la eșecul lui Șaul, care va cruța tocmai vitele cele mai bune."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cămilă și măgar deopotrivă.",
+       "w": "cămilă și măgar deopotrivă.",
+       "heb": "מִגָּמָל וְעַד חֲמוֹר",
+       "translit": "migamal vead hamor",
+       "strong": "H2543",
+       "pos": "substantiv, masculin singular + prepoziție + substantiv, masculin și feminin singular",
+       "def_ro": "cămilă și măgar deopotrivă. (migamal vead hamor)",
+       "dict_ro": "Închide lista completă a tuturor categoriilor de viețuitoare supuse nimicirii, fără nicio excepție."
+      },
+      {
+       "t": "»”"
       }
      ],
      "textCompare": [
@@ -10628,7 +10806,53 @@
      "translit": "Vaișama Șaul et-haam vaifkedem batelaim mataim elef ragli vaaseret alafim et-iș Iehuda.",
      "tokens": [
       {
-       "t": "Șaul a convocat întregul popor și i-a numărat prin [intermediul unei donații de] miei: două sute de mii de infanteriști, iar oamenii lui Iuda erau zece mii."
+       "t": "Șaul a convocat întregul popor",
+       "w": "Șaul a convocat întregul popor",
+       "heb": "וַיְשַׁמַּע שָׁאוּל אֶת הָעָם",
+       "translit": "vaișama șaul et haam",
+       "strong": "H5971",
+       "pos": "verb, piel imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv, masculin singular",
+       "def_ro": "Șaul a convocat întregul popor (vaișama șaul et haam)",
+       "dict_ro": "Rashi: verbul folosit denotă o chemare publică, prin crainic, ca o mobilizare generală pentru campanie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și i-a numărat prin [intermediul unei donații de] miei:",
+       "w": "și i-a numărat prin [intermediul unei donații de] miei:",
+       "heb": "וַיִּפְקְדֵם בַּטְּלָאִים",
+       "translit": "vaifkedēm batlaim",
+       "strong": "H2923",
+       "pos": "verb, qal imperfect consecutiv + sufix + nume propriu",
+       "def_ro": "și i-a numărat prin [intermediul unei donații de] miei: (vaifkedēm batlaim)",
+       "dict_ro": "Rashi, pe baza tradiției din Talmud (Yoma 22b): recensământul direct al oamenilor era interzis (Geneza 32:13), de aceea fiecare soldat aducea un miel, iar mieii, nu oamenii, erau numărați."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "două sute de mii de infanteriști,",
+       "w": "două sute de mii de infanteriști,",
+       "heb": "מָאתַיִם אֶלֶף רַגְלִי",
+       "translit": "mataim elef ragli",
+       "strong": "H7273",
+       "pos": "numeral + numeral + adjectiv, masculin singular",
+       "def_ro": "două sute de mii de infanteriști, (mataim elef ragli)",
+       "dict_ro": "Numărul impresionant al forțelor israelite mobilizate pentru campania împotriva lui Amalek."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar oamenii lui Iuda erau zece mii.",
+       "w": "iar oamenii lui Iuda erau zece mii.",
+       "heb": "וַעֲשֶׂרֶת אֲלָפִים אֶת אִישׁ יְהוּדָה",
+       "translit": "vaaseret alafim et iș iehuda",
+       "strong": "H3063",
+       "pos": "numeral + numeral + prepoziție + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "iar oamenii lui Iuda erau zece mii. (vaaseret alafim et iș iehuda)",
+       "dict_ro": "Menționarea separată a tribului lui Iuda prefigurează rolul central pe care acest trib îl va avea mai târziu în istoria regală a lui Israel."
       }
      ],
      "textCompare": [
@@ -10658,7 +10882,27 @@
      "translit": "Vaiavo Șaul ad-ir Amalek vaiarev banahal.",
      "tokens": [
       {
-       "t": "Șaul a ajuns până la orașul lui Amalek și a pornit la luptă în vale."
+       "t": "Șaul a ajuns până la orașul lui Amalek",
+       "w": "Șaul a ajuns până la orașul lui Amalek",
+       "heb": "וַיָּבֹא שָׁאוּל עַד עִיר עֲמָלֵק",
+       "translit": "vaiavo șaul ad ir amalēk",
+       "strong": "H6002",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv, feminin singular construct + nume propriu",
+       "def_ro": "Șaul a ajuns până la orașul lui Amalek (vaiavo șaul ad ir amalēk)",
+       "dict_ro": "Marchează începutul campaniei militare efective împotriva lui Amalek."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și a pornit la luptă în vale.",
+       "w": "și a pornit la luptă în vale.",
+       "heb": "וַיָּרֶב בַּנָּחַל",
+       "translit": "vaiarev banahal",
+       "strong": "H5158",
+       "pos": "verb, hifil imperfect consecutiv + substantiv, masculin singular",
+       "def_ro": "și a pornit la luptă în vale. (vaiarev banahal)",
+       "dict_ro": "Rashi, citând Talmudul (Yoma 22b): tradiția leagă acest «nahal» (vale/pârâu) de legea vițelei junghiate la un pârâu (Deuteronom 21) — dacă pentru o singură viață nevinovată Tora cere o ispășire atât de solemnă, cu atât mai mult pentru nimicirea atâtor suflete trebuia Șaul să se gândească profund înainte de a acționa."
       }
      ],
      "textCompare": [
@@ -10686,20 +10930,79 @@
      "translit": "Vaiomer Șaul el-hakeini lehu suru redu mitoh amaleki pen-osifha imo veata asita hesed im-kol-benei Israel baalotam mi'Mițraim vaisar keini mitoh Amalek.",
      "tokens": [
       {
-       "t": "Șaul le-a spus "
-      },
-      {
-       "t": "keniților",
-       "w": "keniților",
-       "heb": "הַקֵּינִי",
-       "translit": "hakēni",
+       "t": "Șaul le-a spus keniților:",
+       "w": "Șaul le-a spus keniților:",
+       "heb": "וַיֹּאמֶר שָׁאוּל אֶל הַקֵּינִי",
+       "translit": "vaiomer șaul el hakēni",
        "strong": "H7017",
-       "pos": "nume de neam",
-       "def_ro": "kenit — descendent al lui Iotor/Hobab, aliat tradițional al lui Israel (hakēni).",
-       "dict_ro": "Keniții erau descendenți ai lui Iotor, socrul lui Moise (vezi Numeri 10:29-32) — rude prin alianță ale lui Israel care trăiau printre amalekiți fără să fie din neamul lor. Avertismentul lui Șaul de a-i scoate din zonă înainte de nimicirea lui Amalek arată că porunca herem viza strict descendența lui Amalek, nu pe oricine se afla geografic în preajmă."
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume de neam",
+       "def_ro": "Șaul le-a spus keniților: (vaiomer șaul el hakēni)",
+       "dict_ro": "Rashi identifică keniții cu urmașii lui Itro, socrul lui Moise, care locuiau printre amalekiți."
       },
       {
-       "t": ": „Plecați, retrageți-vă, coborâți din rândul amalekiților, ca nu cumva să vă distrug împreună cu ei; căci ați arătat bunăvoință față de toți copiii lui Israel când au urcat din Egipt.” Și keniții s-au retras din rândurile lui Amalek."
+       "t": " „"
+      },
+      {
+       "t": "Plecați, retrageți-vă, coborâți din rândul amalekiților,",
+       "w": "Plecați, retrageți-vă, coborâți din rândul amalekiților,",
+       "heb": "לְכוּ סֻּרוּ רְדוּ מִתּוֹךְ עֲמָלֵקִי",
+       "translit": "lehu suru redu mitoh amalēki",
+       "strong": "H6003",
+       "pos": "verb, qal imperativ + verb, qal imperativ + verb, qal imperativ + substantiv, masculin singular construct + nume de neam",
+       "def_ro": "plecați, retrageți-vă, coborâți din rândul amalekiților, (lehu suru redu mitoh amalēki)",
+       "dict_ro": "Tripla comandă imperativă confirmă urgența avertismentului — keniții trebuie separați fizic înainte de începerea nimicirii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca nu cumva să vă distrug împreună cu ei;",
+       "w": "ca nu cumva să vă distrug împreună cu ei;",
+       "heb": "פֶּן אֹסִפְךָ עִמּוֹ",
+       "translit": "pen osifha imo",
+       "strong": "H5973",
+       "pos": "conjuncție + verb, qal imperfect + sufix + prepoziție + sufix",
+       "def_ro": "ca nu cumva să vă distrug împreună cu ei; (pen osifha imo)",
+       "dict_ro": "Preocuparea morală a lui Șaul pentru keniții nevinovați contrastează ironic cu mila ulterioară, nelegitimă, arătată față de Agag și animale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci ați arătat bunăvoință față de toți copiii lui Israel",
+       "w": "căci ați arătat bunăvoință față de toți copiii lui Israel",
+       "heb": "וְאַתָּה עָשִׂיתָה חֶסֶד עִם כָּל בְּנֵי יִשְׂרָאֵל",
+       "translit": "veata asita hesed im kal benē israēl",
+       "strong": "H3478",
+       "pos": "pronume personal + verb, qal perfect + substantiv, masculin singular + prepoziție + substantiv, masculin singular construct + substantiv, masculin plural construct + nume propriu",
+       "def_ro": "căci ați arătat bunăvoință față de toți copiii lui Israel (veata asita hesed im kal benē israēl)",
+       "dict_ro": "Radak: bunăvoința se referă la sfatul lui Itro, dat lui Moise, de a numi judecători — un act care a ușurat povara întregului popor, atribuit simbolic «tuturor copiilor lui Israel»."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "când au urcat din Egipt.”",
+       "w": "când au urcat din Egipt.”",
+       "heb": "בַּעֲלוֹתָם מִמִּצְרָיִם",
+       "translit": "baalotam mimițraim",
+       "strong": "H4714",
+       "pos": "verb, qal infinitiv + sufix + nume propriu",
+       "def_ro": "când au urcat din Egipt.” (baalotam mimițraim)",
+       "dict_ro": "Plasează fapta bună a keniților în același moment istoric — ieșirea din Egipt — ca și atacul lui Amalek, creând un contrast moral direct."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și keniții s-au retras din rândurile lui Amalek.",
+       "w": "Și keniții s-au retras din rândurile lui Amalek.",
+       "heb": "וַיָּסַר קֵינִי מִתּוֹךְ עֲמָלֵק",
+       "translit": "vaiasar kēni mitoh amalēk",
+       "strong": "H6002",
+       "pos": "verb, qal imperfect consecutiv + nume de neam + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "și keniții s-au retras din rândurile lui Amalek. (vaiasar kēni mitoh amalēk)",
+       "dict_ro": "Confirmă ascultarea imediată a avertismentului, separând clar soarta celor nevinovați de cea a lui Amalek."
       }
      ],
      "textCompare": [
@@ -10730,7 +11033,40 @@
      "translit": "Vaiah Șaul et-Amalek me'Havila boaha Șur așer al-penei Mițraim.",
      "tokens": [
       {
-       "t": "Șaul l-a lovit pe Amalek de la Havila până aproape de Șur, în fața Egiptului."
+       "t": "Șaul l-a lovit pe Amalek",
+       "w": "Șaul l-a lovit pe Amalek",
+       "heb": "וַיַּךְ שָׁאוּל אֶת עֲמָלֵק",
+       "translit": "vaiah șaul et amalēk",
+       "strong": "H6002",
+       "pos": "verb, hifil imperfect consecutiv + nume propriu + marcă a complementului direct + nume propriu",
+       "def_ro": "Șaul l-a lovit pe Amalek (vaiah șaul et amalēk)",
+       "dict_ro": "Confirmă succesul militar al campaniei, extins pe o zonă geografică largă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de la Havila până aproape de Șur,",
+       "w": "de la Havila până aproape de Șur,",
+       "heb": "מֵחֲוִילָה בּוֹאֲךָ שׁוּר",
+       "translit": "mēhavila boaha șur",
+       "strong": "H7793",
+       "pos": "nume propriu + verb, qal infinitiv + sufix + nume propriu",
+       "def_ro": "de la Havila până aproape de Șur, (mēhavila boaha șur)",
+       "dict_ro": "Radak notează incertitudinea geografică exactă a Havilei, posibil o regiune din estul peninsulei arabice, la capătul opus al teritoriului cucerit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în fața Egiptului.",
+       "w": "în fața Egiptului.",
+       "heb": "אֲשֶׁר עַל פְּנֵי מִצְרָיִם",
+       "translit": "așer al penē mițraim",
+       "strong": "H4714",
+       "pos": "particulă relativă + prepoziție + substantiv, masculin și feminin plural construct + nume propriu",
+       "def_ro": "în fața Egiptului. (așer al penē mițraim)",
+       "dict_ro": "Șur, regiunea deșertică situată la granița dintre Canaan și Egipt, marchează extremitatea vestică a campaniei."
       }
      ],
      "textCompare": [
@@ -10761,20 +11097,40 @@
      "translit": "Vaitpos et-Agag meleh Amalek hai veet-kol-haam heherim lefi-harev.",
      "tokens": [
       {
-       "t": "L-a prins viu pe "
+       "t": "L-a prins viu pe Agag, regele lui Amalek,",
+       "w": "L-a prins viu pe Agag, regele lui Amalek,",
+       "heb": "וַיִּתְפֹּשׂ אֶת אֲגַג מֶלֶךְ עֲמָלֵק חָי",
+       "translit": "vaitpos et agag meleh amalēk hai",
+       "strong": "H2416",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + nume propriu + substantiv, masculin singular construct + nume propriu + adjectiv, masculin singular",
+       "def_ro": "l-a prins viu pe Agag, regele lui Amalek, (vaitpos et agag meleh amalēk hai)",
+       "dict_ro": "Decizia de a-l captura, nu ucide, pe regele amalekit, prima abatere vizibilă de la porunca strictă a nimicirii totale — se dovedește a fi momentul critic al poveștii."
       },
       {
-       "t": "Agag",
-       "w": "Agag",
-       "heb": "אֲגַג",
-       "translit": "agag",
-       "strong": "H90",
-       "pos": "nume propriu",
-       "def_ro": "Agag — titlu/nume dinastic al regilor amalekiți.",
-       "dict_ro": "Agag pare să fie un titlu regal ereditar al dinastiei amalekite (ca „Faraon” sau „Cezar”), menționat profetic deja la Numeri 24:7 („regele lui va fi mai înalt decât Agag”). Tradiția rabinică identifică pe Haman din cartea Estera ca descendent direct al acestui Agag, motiv central pentru care capitolul se citește ca Haftarat Zahor, înainte de Purim."
+       "t": " "
       },
       {
-       "t": ", regele lui Amalek, iar tot poporul lui l-a distrus cu tăișul sabiei."
+       "t": "iar tot poporul lui l-a distrus",
+       "w": "iar tot poporul lui l-a distrus",
+       "heb": "וְאֶת כָּל הָעָם הֶחֱרִים",
+       "translit": "veet kal haam heherim",
+       "strong": "H2763",
+       "pos": "marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin singular + verb, hifil perfect",
+       "def_ro": "iar tot poporul lui l-a distrus (veet kal haam heherim)",
+       "dict_ro": "Confirmă execuția ordinului divin asupra oamenilor de rând — distincția făcută cu regele devine cu atât mai semnificativă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu tăișul sabiei.",
+       "w": "cu tăișul sabiei.",
+       "heb": "לְפִי חָרֶב",
+       "translit": "lefi harev",
+       "strong": "H2719",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "cu tăișul sabiei. (lefi harev)",
+       "dict_ro": "Expresie standard pentru nimicire militară completă, folosită frecvent în descrierile de cucerire biblică."
       }
      ],
      "textCompare": [
@@ -10805,23 +11161,92 @@
      "translit": "Vaiahmol Șaul vehaam al-Agag veal-meitav hațon vehabakar vehamișnim veal-hakarim veal-kol-hatov velo avu haharimam vehol-hamelaha nemivza venames ota heherimu.",
      "tokens": [
       {
-       "t": "Dar Șaul și poporul "
+       "t": "Dar Șaul și poporul s-au îndurat de Agag,",
+       "w": "Dar Șaul și poporul s-au îndurat de Agag,",
+       "heb": "וַיַּחְמֹל שָׁאוּל וְהָעָם עַל אֲגָג",
+       "translit": "vaiahmol șaul vehaam al agag",
+       "strong": "H90",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + substantiv, masculin singular + prepoziție + nume propriu",
+       "def_ro": "dar Șaul și poporul s-au îndurat de Agag, (vaiahmol șaul vehaam al agag)",
+       "dict_ro": "Punctul de cotitură moral al narațiunii — mila, deși pare o virtute, devine aici neascultare directă de porunca explicită."
       },
       {
-       "t": "s-au îndurat",
-       "w": "s-au îndurat",
-       "heb": "וַיַּחְמֹל",
-       "translit": "vaiahmol",
-       "strong": "H2550",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a avea milă, a cruța (vaiahmol).",
-       "dict_ro": "Neascultarea lui Șaul nu e un act de cruzime omisă, ci exact opusul — un exces de „milă” (hamal) acolo unde fusese poruncită nimicirea totală; ironia profetică a capitolului e că Șaul cruță exact ceea ce DOMNUL poruncise nimicit, dar nu arată aceeași milă față de poporul propriu mai târziu, în urmărirea lui David.",
-       "greek": "περιεποιήσατο (periepoiesato)",
-       "greek_def_ro": "περιεποιήσατο (periepoiesato) — a păstra pentru sine, a-și însuși — Septuaginta adaugă aici și bunătăți/mâncăruri și vii, absente din lista ebraică, lărgind inventarul prăzii cruțate.",
-       "diff_ro": "Septuaginta adaugă la lista prăzii cruțate „mâncăruri” și „vii” (ἐδεσμάτων καὶ τῶν ἀμπελώνων), elemente absente din lista ebraică a Textului Masoretic, care menționează doar oi, vite și Agag."
+       "t": " "
       },
       {
-       "t": " de Agag, de cele mai bune dintre oi și vite, de taurii îngrășați și de oile îngrășate și de tot ceea ce era bun și nu au dorit să le distrugă, ci doar ce era scârbos și stricat au distrus."
+       "t": "de cele mai bune dintre oi și vite,",
+       "w": "de cele mai bune dintre oi și vite,",
+       "heb": "וְעַל מֵיטַב הַצֹּאן וְהַבָּקָר",
+       "translit": "veal mētav hațon vehabakar",
+       "strong": "H1241",
+       "pos": "prepoziție + substantiv, masculin singular construct + substantiv, masculin și feminin singular + substantiv, masculin și feminin singular",
+       "def_ro": "de cele mai bune dintre oi și vite, (al mētav hațon vehabakar)",
+       "dict_ro": "Motivul real al cruțării, dezvăluit treptat — nu e doar compasiune, ci dorința de a păstra prada valoroasă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de taurii îngrășați",
+       "w": "de taurii îngrășați",
+       "heb": "וְהַמִּשְׁנִים",
+       "translit": "vehamișnim",
+       "strong": "H4932",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "de taurii îngrășați (vehamișnim)",
+       "dict_ro": "Rashi explică termenul rar prin rădăcina «dublu» — animale deosebit de grase, dublate în carne și grăsime."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și de oile îngrășate",
+       "w": "și de oile îngrășate",
+       "heb": "וְעַל הַכָּרִים",
+       "translit": "veal hakarim",
+       "strong": "H3733",
+       "pos": "prepoziție + substantiv, masculin plural",
+       "def_ro": "și de oile îngrășate (veal hakarim)",
+       "dict_ro": "Metzudat Zion identifică termenul cu berbecii îngrășați special pentru consum, animale de calitate superioară."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și de tot ceea ce era bun",
+       "w": "și de tot ceea ce era bun",
+       "heb": "וְעַל כָּל הַטּוֹב",
+       "translit": "veal kal hatov",
+       "strong": "H2896",
+       "pos": "prepoziție + substantiv, masculin singular construct + adjectiv, masculin singular",
+       "def_ro": "și de tot ceea ce era bun (veal kal hatov)",
+       "dict_ro": "Formula generalizează motivul real al neascultării — atracția față de tot ce era valoros în prada de război."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și nu au dorit să le distrugă,",
+       "w": "și nu au dorit să le distrugă,",
+       "heb": "וְלֹא אָבוּ הַחֲרִימָם",
+       "translit": "velo avu haharimam",
+       "strong": "H2763",
+       "pos": "particulă negativă + verb, qal perfect + verb, hifil infinitiv + sufix",
+       "def_ro": "și nu au dorit să le distrugă, (velo avu haharimam)",
+       "dict_ro": "Confirmă caracterul deliberat, nu accidental, al abaterii de la porunca herem — o alegere conștientă, nu o scăpare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ci doar ce era scârbos și stricat au distrus.",
+       "w": "ci doar ce era scârbos și stricat au distrus.",
+       "heb": "וְכָל הַמְּלָאכָה נְמִבְזָה וְנָמֵס אֹתָהּ הֶחֱרִימוּ",
+       "translit": "vehal hamlaha nemivza venamēs otah heherimu",
+       "strong": "H2763",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular + substantiv, feminin singular + verb, nifal participiu + marcă a complementului direct + sufix + verb, hifil perfect",
+       "def_ro": "ci doar ce era scârbos și stricat au distrus. (vehal hamlaha nemivza venamēs otah heherimu)",
+       "dict_ro": "Ironia morală centrală a episodului: poporul respectă litera poruncii doar pentru lucrurile fără valoare, păstrând exact ceea ce porunca interzisese explicit să fie păstrat."
       }
      ],
      "textCompare": [
@@ -10857,7 +11282,27 @@
      "translit": "Vaihi devar-ADONAI el-Șemuel lemor.",
      "tokens": [
       {
-       "t": "Cuvântul DOMNULUI a venit la Samuel, spunând:"
+       "t": "Cuvântul DOMNULUI a venit la Samuel,",
+       "w": "Cuvântul DOMNULUI a venit la Samuel,",
+       "heb": "וַיְהִי דְּבַר יְהוָה אֶל שְׁמוּאֵל",
+       "translit": "vaihi devar Adonai el șemuēl",
+       "strong": "H8050",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular construct + nume propriu + prepoziție + nume propriu",
+       "def_ro": "cuvântul DOMNULUI a venit la Samuel, (vaihi devar Adonai el șemuēl)",
+       "dict_ro": "Formulă standard de introducere a revelației profetice, marcând trecerea de la narațiunea evenimentelor la judecata divină asupra lor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "spunând:",
+       "w": "spunând:",
+       "heb": "לֵאמֹר",
+       "translit": "lēmor",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "spunând: (lēmor)",
+       "dict_ro": "Introduce direct mesajul divin de respingere a lui Șaul ca rege, cel mai grav moment al capitolului."
       }
      ],
      "textCompare": [
@@ -10894,11 +11339,73 @@
        "translit": "nihamti",
        "strong": "H5162",
        "pos": "verb, nifal perfect",
-       "def_ro": "Mi-a părut rău, am regretat (niham, nifal).",
-       "dict_ro": "Verbul niham descrie aici o schimbare de atitudine divină în raport cu acțiunile omenești — aceeași rădăcină ca la Geneza 6:6 (regretul creării omului înainte de potop) — teologic delicat, pentru că același capitol afirmă la v.29 că „Veșnicul lui Israel nu Se răzgândește”; comentatorii clasici rezolvă tensiunea distingând planul providenței generale (neschimbător) de planul deciziilor concrete în istorie, care răspund la faptele omului."
+       "def_ro": "am [ajuns să] regret (nihamti)",
+       "dict_ro": "Rashi: nu o schimbare literală de opinie divină, ci expresia unei dureri profunde cu privire la alegerea lui Șaul, exprimată în termeni accesibili omului."
       },
       {
-       "t": " că l-am făcut pe Șaul rege, căci s-a abătut de la Mine și nu a împlinit cuvântul Meu.” Și Samuel s-a îndurerat și a strigat către DOMNUL toată noaptea."
+       "t": " "
+      },
+      {
+       "t": "că l-am făcut pe Șaul rege,",
+       "w": "că l-am făcut pe Șaul rege,",
+       "heb": "כִּי הִמְלַכְתִּי אֶת שָׁאוּל לְמֶלֶךְ",
+       "translit": "ki himlahti et șaul lemeleh",
+       "strong": "H4428",
+       "pos": "conjuncție + verb, hifil perfect + marcă a complementului direct + nume propriu + substantiv, masculin singular",
+       "def_ro": "că l-am făcut pe Șaul rege, (ki himlahti et șaul lemeleh)",
+       "dict_ro": "Afirmă direct cauza suferinței divine declarate — decizia regală care acum se dovedește problematică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci s-a abătut de la Mine",
+       "w": "căci s-a abătut de la Mine",
+       "heb": "כִּי שָׁב מֵאַחֲרַי",
+       "translit": "ki șav mēaharai",
+       "strong": "H310",
+       "pos": "conjuncție + verb, qal perfect + prepoziție + sufix",
+       "def_ro": "căci s-a abătut de la Mine (ki șav mēaharai)",
+       "dict_ro": "Verbul «a se abate» descrie o îndepărtare morală de la calea poruncită, nu doar o greșeală izolată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și nu a împlinit cuvântul Meu.”",
+       "w": "și nu a împlinit cuvântul Meu.”",
+       "heb": "וְאֶת דְּבָרַי לֹא הֵקִים",
+       "translit": "veet devarai lo hēkim",
+       "strong": "H6965",
+       "pos": "marcă a complementului direct + substantiv, masculin plural construct + sufix + particulă negativă + verb, hifil perfect",
+       "def_ro": "și nu a împlinit cuvântul Meu.” (veet devarai lo hēkim)",
+       "dict_ro": "Confirmă explicit eșecul lui Șaul de a executa porunca herem în întregime, așa cum i-a fost dată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și Samuel s-a îndurerat",
+       "w": "Și Samuel s-a îndurerat",
+       "heb": "וַיִּחַר לִשְׁמוּאֵל",
+       "translit": "vaihar lișmuēl",
+       "strong": "H8050",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "și Samuel s-a îndurerat (vaihar lișmuēl)",
+       "dict_ro": "Metzudat David: Samuel se mânie, în felul celui îngrijorat, mai mult pe sine însuși decât pe Șaul, simțindu-se responsabil ca mentor al regelui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și a strigat către DOMNUL toată noaptea.",
+       "w": "și a strigat către DOMNUL toată noaptea.",
+       "heb": "וַיִּזְעַק אֶל יְהוָה כָּל הַלָּיְלָה",
+       "translit": "vaizak el Adonai kal halaila",
+       "strong": "H3915",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + nume propriu + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "și a strigat către DOMNUL toată noaptea. (vaizak el Adonai kal halaila)",
+       "dict_ro": "Rugăciunea de mijlocire prelungită confirmă atașamentul profund al lui Samuel față de Șaul, în ciuda eșecului acestuia — nu abandonează imediat, ci se roagă intens."
       }
      ],
      "textCompare": [
@@ -10934,7 +11441,79 @@
      "translit": "Vaișkem Șemuel likrat Șaul baboker vaigad li'Șemuel lemor ba-Șaul ha'Karmela vehine mațiv lo iad vaisov vaiaavor vaiered ha'Ghilgal.",
      "tokens": [
       {
-       "t": "Și Samuel s-a sculat dis-de-dimineață ca să-i iasă în întâmpinare lui Șaul. Iar lui Samuel i s-a spus astfel: „Șaul a venit la Carmel și iată, și-a ridicat un altar și apoi s-a întors și a coborât către Ghilgal.”"
+       "t": "Și Samuel s-a sculat dis-de-dimineață",
+       "w": "Și Samuel s-a sculat dis-de-dimineață",
+       "heb": "וַיַּשְׁכֵּם שְׁמוּאֵל בַּבֹּקֶר",
+       "translit": "vaiașkēm șemuēl baboker",
+       "strong": "H1242",
+       "pos": "verb, hifil imperfect consecutiv + nume propriu + substantiv, masculin singular",
+       "def_ro": "și Samuel s-a sculat dis-de-dimineață (vaiașkēm șemuēl baboker)",
+       "dict_ro": "Nerăbdarea profetului de a-l confrunta pe Șaul, imediat după noaptea de rugăciune și durere."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca să-i iasă în întâmpinare lui Șaul.",
+       "w": "ca să-i iasă în întâmpinare lui Șaul.",
+       "heb": "לִקְרַאת שָׁאוּל",
+       "translit": "likrat șaul",
+       "strong": "H7586",
+       "pos": "verb, qal infinitiv + nume propriu",
+       "def_ro": "ca să-i iasă în întâmpinare lui Șaul. (likrat șaul)",
+       "dict_ro": "Intenția inițială a lui Samuel era confruntarea directă, nu doar informarea pasivă despre locul unde se afla Șaul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iar lui Samuel i s-a spus astfel:",
+       "w": "Iar lui Samuel i s-a spus astfel:",
+       "heb": "וַיֻּגַּד לִשְׁמוּאֵל לֵאמֹר",
+       "translit": "vaiugad lișmuēl lēmor",
+       "strong": "H559",
+       "pos": "verb, hofal imperfect consecutiv + nume propriu + verb, qal infinitiv",
+       "def_ro": "iar lui Samuel i s-a spus astfel: (vaiugad lișmuēl lēmor)",
+       "dict_ro": "Samuel primește vestea despre mișcările lui Șaul de la o terță persoană, nu îl găsește direct."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "„Șaul a venit la Carmel",
+       "w": "„Șaul a venit la Carmel",
+       "heb": "בָּא שָׁאוּל הַכַּרְמֶלָה",
+       "translit": "ba șaul hakarmela",
+       "strong": "H3760",
+       "pos": "verb, qal perfect + nume propriu + nume propriu",
+       "def_ro": "«Șaul a venit la Carmel (ba șaul hakarmela)",
+       "dict_ro": "Localitate din sudul lui Iuda, diferită de muntele Carmel din nord — o oprire neplanificată în traseul lui Șaul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și iată, și-a ridicat un altar",
+       "w": "și iată, și-a ridicat un altar",
+       "heb": "וְהִנֵּה מַצִּיב לוֹ יָד",
+       "translit": "vehinē mațiv lo iad",
+       "strong": "H3027",
+       "pos": "particulă demonstrativă + verb, hifil participiu + prepoziție + sufix + substantiv, masculin și feminin singular",
+       "def_ro": "și iată, și-a ridicat un altar (vehinē mațiv lo iad)",
+       "dict_ro": "Rashi, printr-o tradiție midrashică, identifică acest loc cu altarul reparat mai târziu de Ilie — dar sensul literal, susținut de Metzudat David, descrie un monument comemorativ ridicat de Șaul pentru propria sa victorie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și apoi s-a întors și a coborât către Ghilgal.”",
+       "w": "și apoi s-a întors și a coborât către Ghilgal.”",
+       "heb": "וַיִּסֹּב וַיַּעֲבֹר וַיֵּרֶד הַגִּלְגָּל",
+       "translit": "vaisov vaiaavor vaiēred hagilgal",
+       "strong": "H1537",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "și apoi s-a întors și a coborât către Ghilgal.” (vaisov vaiaavor vaiēred hagilgal)",
+       "dict_ro": "Radak: Ghilgal era locul sacru unde se aflase odată Cortul Întâlnirii, destinație firească pentru aducerea jertfelor de victorie."
       }
      ],
      "textCompare": [
@@ -10964,7 +11543,53 @@
      "translit": "Vaiavo Șemuel el-Șaul vaiomer lo Șaul baruh ata l'ADONAI hakimoti et-devar ADONAI.",
      "tokens": [
       {
-       "t": "Samuel a venit la Șaul și Șaul i-a spus: „Binecuvântat să fii tu de către DOMNUL – am împlinit cuvântul DOMNULUI.”"
+       "t": "Samuel a venit la Șaul",
+       "w": "Samuel a venit la Șaul",
+       "heb": "וַיָּבֹא שְׁמוּאֵל אֶל שָׁאוּל",
+       "translit": "vaiavo șemuēl el șaul",
+       "strong": "H7586",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu",
+       "def_ro": "Samuel a venit la Șaul (vaiavo șemuēl el șaul)",
+       "dict_ro": "Confruntarea mult așteptată are, în sfârșit, loc — profetul îl găsește pe rege la Ghilgal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și Șaul i-a spus:",
+       "w": "și Șaul i-a spus:",
+       "heb": "וַיֹּאמֶר לוֹ שָׁאוּל",
+       "translit": "vaiomer lo șaul",
+       "strong": "H7586",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + nume propriu",
+       "def_ro": "și Șaul i-a spus: (vaiomer lo șaul)",
+       "dict_ro": "Șaul vorbește primul, cu o încredere care se va dovedi complet nejustificată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "„Binecuvântat să fii tu de către DOMNUL",
+       "w": "„Binecuvântat să fii tu de către DOMNUL",
+       "heb": "בָּרוּךְ אַתָּה לַיהוָה",
+       "translit": "baruh ata la'Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal participiu pasiv + pronume personal + nume propriu",
+       "def_ro": "«binecuvântat să fii tu de către DOMNUL (baruh ata la'Adonai)",
+       "dict_ro": "O salutare obișnuită, dar ironică în context — Șaul nu bănuiește încă gravitatea confruntării care urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– am împlinit cuvântul DOMNULUI.”",
+       "w": "– am împlinit cuvântul DOMNULUI.”",
+       "heb": "הֲקִימֹתִי אֶת דְּבַר יְהוָה",
+       "translit": "hakimoti et devar Adonai",
+       "strong": "H3068",
+       "pos": "verb, hifil perfect + marcă a complementului direct + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "– am împlinit cuvântul DOMNULUI.” (hakimoti et devar Adonai)",
+       "dict_ro": "Afirmația falsă, sinceră probabil în percepția proprie a lui Șaul, dar complet dezmințită de faptele deja relatate — contrastul dintre pretenție și realitate deschide confruntarea."
       }
      ],
      "textCompare": [
@@ -10994,7 +11619,53 @@
      "translit": "Vaiomer Șemuel ume kol-hațon haze beoznai vekol habakar așer anohi șomea.",
      "tokens": [
       {
-       "t": "Samuel a spus: „Și ce este sunetul acesta de oi în urechile mele și sunetul de vite pe care îl aud?”"
+       "t": "Samuel a spus:",
+       "w": "Samuel a spus:",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל",
+       "translit": "vaiomer șemuēl",
+       "strong": "H8050",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "Samuel a spus: (vaiomer șemuēl)",
+       "dict_ro": "Răspunsul lui Samuel la afirmația lui Șaul vine imediat, sub forma unei întrebări retorice devastatoare."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Și ce este sunetul acesta de oi",
+       "w": "Și ce este sunetul acesta de oi",
+       "heb": "וּמֶה קוֹל הַצֹּאן הַזֶּה",
+       "translit": "ume kol hațon haze",
+       "strong": "H2088",
+       "pos": "particulă interogativă + substantiv, masculin singular construct + substantiv, masculin și feminin singular + pronume demonstrativ",
+       "def_ro": "și ce este sunetul acesta de oi (ume kol hațon haze)",
+       "dict_ro": "Dovada auditivă, incontestabilă, contrazice direct pretenția lui Șaul de ascultare totală — animalele cruțate se aud încă behăind."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în urechile mele",
+       "w": "în urechile mele",
+       "heb": "בְּאָזְנָי",
+       "translit": "beaznai",
+       "strong": "H241",
+       "pos": "substantiv, feminin dual construct + sufix",
+       "def_ro": "în urechile mele (beaznai)",
+       "dict_ro": "Întărește caracterul direct, nemijlocit, al dovezii — Samuel nu are nevoie de martori, aude personal dovada neascultării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și sunetul de vite pe care îl aud?”",
+       "w": "și sunetul de vite pe care îl aud?”",
+       "heb": "וְקוֹל הַבָּקָר אֲשֶׁר אָנֹכִי שֹׁמֵעַ",
+       "translit": "vekol habakar așer anohi șomēa",
+       "strong": "H8085",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular + particulă relativă + pronume personal + verb, qal participiu",
+       "def_ro": "și sunetul de vite pe care îl aud?” (vekol habakar așer anohi șomēa)",
+       "dict_ro": "Repetiția cu «vite» întărește acuzația — nu doar oile, ci întreaga pradă cruțată trădează neascultarea lui Șaul."
       }
      ],
      "textCompare": [
@@ -11024,7 +11695,66 @@
      "translit": "Vaiomer Șaul meamaleki hevium așer hamal haam al-meitav hațon vehabakar lemaan zevoah l'ADONAI Eloheha veet-haioter heheramnu.",
      "tokens": [
       {
-       "t": "Și Șaul a spus: „Le-am adus de la Amalek, căci poporul s-a milostivit de cele mai bune turme și cirezi, ca să le jertfească DOMNULUI, Dumnezeului nostru; dar pe restul le-am distrus.”"
+       "t": "Și Șaul a spus:",
+       "w": "Și Șaul a spus:",
+       "heb": "וַיֹּאמֶר שָׁאוּל",
+       "translit": "vaiomer șaul",
+       "strong": "H7586",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "și Șaul a spus: (vaiomer șaul)",
+       "dict_ro": "Prima reacție a lui Șaul la acuzație e defensivă, nu o recunoaștere directă a vinei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "„Le-am adus de la Amalek,",
+       "w": "„Le-am adus de la Amalek,",
+       "heb": "מֵעֲמָלֵקִי הֱבִיאוּם",
+       "translit": "mēamalēki hevium",
+       "strong": "H935",
+       "pos": "nume de neam + verb, hifil perfect + sufix",
+       "def_ro": "«le-am adus de la Amalek, (mēamalēki hevium)",
+       "dict_ro": "Confirmă, fără să vrea, exact fapta interzisă — prada a fost adusă, nu distrusă, contrar poruncii explicite."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci poporul s-a milostivit de cele mai bune turme și cirezi,",
+       "w": "căci poporul s-a milostivit de cele mai bune turme și cirezi,",
+       "heb": "אֲשֶׁר חָמַל הָעָם עַל מֵיטַב הַצֹּאן וְהַבָּקָר",
+       "translit": "așer hamal haam al mētav hațon vehabakar",
+       "strong": "H1241",
+       "pos": "particulă relativă + verb, qal perfect + substantiv, masculin singular + prepoziție + substantiv, masculin singular construct + substantiv, masculin și feminin singular + substantiv, masculin și feminin singular",
+       "def_ro": "căci poporul s-a milostivit de cele mai bune turme și cirezi, (așer hamal haam al mētav hațon vehabakar)",
+       "dict_ro": "Metzudat David: Șaul aruncă vina pe popor, nu își asumă responsabilitatea de conducător care trebuia să împiedice acest lucru."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca să le jertfească DOMNULUI, Dumnezeului nostru;",
+       "w": "ca să le jertfească DOMNULUI, Dumnezeului nostru;",
+       "heb": "לְמַעַן זְבֹחַ לַיהוָה אֱלֹהֶיךָ",
+       "translit": "lemaan zevoah la'Adonai eloheha",
+       "strong": "H430",
+       "pos": "prepoziție + verb, qal infinitiv + nume propriu + substantiv, masculin plural construct + sufix",
+       "def_ro": "ca să le jertfească DOMNULUI, Dumnezeului nostru; (lemaan zevoah la'Adonai eloheha)",
+       "dict_ro": "Radak notează ironia: folosirea intenției religioase ca justificare pentru neascultare — un motiv aparent nobil care nu schimbă faptul că porunca a fost încălcată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dar pe restul le-am distrus.”",
+       "w": "dar pe restul le-am distrus.”",
+       "heb": "וְאֶת הַיּוֹתֵר הֶחֱרַמְנוּ",
+       "translit": "veet haiotēr heheramnu",
+       "strong": "H2763",
+       "pos": "marcă a complementului direct + substantiv, masculin singular + verb, hifil perfect",
+       "def_ro": "dar pe restul le-am distrus.” (veet haiotēr heheramnu)",
+       "dict_ro": "Șaul insistă că a respectat porunca parțial, subliniind că doar cea mai bună parte a fost cruțată — o apărare care, de fapt, confirmă neascultarea."
       }
      ],
      "textCompare": [
@@ -11054,7 +11784,53 @@
      "translit": "Vaiomer Șemuel el-Șaul heref veagida leha et așer diber ADONAI elai halaila vaiomer lo daber.",
      "tokens": [
       {
-       "t": "Samuel i-a spus lui Șaul: „Stai și am să-ți spun ce mi-a vorbit DOMNUL astă-noapte.” Și el i-a spus: „Vorbește.”"
+       "t": "Samuel i-a spus lui Șaul:",
+       "w": "Samuel i-a spus lui Șaul:",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל שָׁאוּל",
+       "translit": "vaiomer șemuēl el șaul",
+       "strong": "H7586",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu",
+       "def_ro": "Samuel i-a spus lui Șaul: (vaiomer șemuēl el șaul)",
+       "dict_ro": "Samuel întrerupe explicațiile defensive ale lui Șaul pentru a transmite direct mesajul divin primit."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Stai",
+       "w": "Stai",
+       "heb": "הֶרֶף",
+       "translit": "heref",
+       "strong": "H7503",
+       "pos": "verb, hifil imperativ",
+       "def_ro": "stai (heref)",
+       "dict_ro": "Rashi: traduce verbul prin «oprește-te/așteaptă» — un ordin ferm de a opri justificările și a asculta."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și am să-ți spun ce mi-a vorbit DOMNUL astă-noapte.”",
+       "w": "și am să-ți spun ce mi-a vorbit DOMNUL astă-noapte.”",
+       "heb": "וְאַגִּידָה לְּךָ אֵת אֲשֶׁר דִּבֶּר יְהוָה אֵלַי הַלָּיְלָה",
+       "translit": "veagida leha ēt așer diber Adonai ēlai halaila",
+       "strong": "H3915",
+       "pos": "verb, hifil imperfect + prepoziție + sufix + marcă a complementului direct + particulă relativă + verb, piel perfect + nume propriu + prepoziție + sufix + substantiv, masculin singular",
+       "def_ro": "și am să-ți spun ce mi-a vorbit DOMNUL astă-noapte.” (veagida leha ēt așer diber Adonai ēlai halaila)",
+       "dict_ro": "Confirmă că mesajul care urmează are autoritate profetică directă, primit chiar în noaptea precedentă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și el i-a spus: „Vorbește.”",
+       "w": "Și el i-a spus: „Vorbește.”",
+       "heb": "וַיֹּאמֶר לוֹ דַּבֵּר",
+       "translit": "vaiomer lo dabēr",
+       "strong": "H1696",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + verb, piel imperativ",
+       "def_ro": "și el i-a spus: «vorbește.» (vaiomer lo dabēr)",
+       "dict_ro": "Răspunsul scurt al lui Șaul, de acceptare formală, contrastează cu gravitatea mesajului care urmează."
       }
      ],
      "textCompare": [
@@ -11084,7 +11860,66 @@
      "translit": "Vaiomer Șemuel halo im-katon ata beeinéha roș șivtei Israel ata vaimșahaha ADONAI lemeleh al-Israel.",
      "tokens": [
       {
-       "t": "Samuel a spus: „Oare nu este astfel? Chiar dacă tu te consideri mic în ochii tăi, ești [totuși] conducătorul triburilor lui Israel și DOMNUL te-a uns rege peste Israel."
+       "t": "Samuel a spus:",
+       "w": "Samuel a spus:",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל",
+       "translit": "vaiomer șemuēl",
+       "strong": "H8050",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "Samuel a spus: (vaiomer șemuēl)",
+       "dict_ro": "Introduce mustrarea profetică propriu-zisă, construită pe principiul responsabilității crescute odată cu autoritatea primită."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Oare nu este astfel?",
+       "w": "Oare nu este astfel?",
+       "heb": "הֲלוֹא",
+       "translit": "halo",
+       "strong": "H3808",
+       "pos": "particulă negativă",
+       "def_ro": "oare nu este astfel? (halo)",
+       "dict_ro": "Formulă retorică introductivă, pregătind un contrast puternic între percepția de sine a lui Șaul și realitatea poziției sale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Chiar dacă tu te consideri mic în ochii tăi,",
+       "w": "Chiar dacă tu te consideri mic în ochii tăi,",
+       "heb": "אִם קָטֹן אַתָּה בְּעֵינֶיךָ",
+       "translit": "im katon ata beēneha",
+       "strong": "H5869",
+       "pos": "conjuncție + adjectiv, masculin singular + pronume personal + substantiv, masculin și feminin dual construct + sufix",
+       "def_ro": "chiar dacă tu te consideri mic în ochii tăi, (im katon ata beēneha)",
+       "dict_ro": "Radak: smerenia inițială a lui Șaul, lăudabilă în sine, devine acum argumentul împotriva lui — tocmai umilința îl făcea nepotrivit să tolereze neascultarea poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ești [totuși] conducătorul triburilor lui Israel",
+       "w": "ești [totuși] conducătorul triburilor lui Israel",
+       "heb": "רֹאשׁ שִׁבְטֵי יִשְׂרָאֵל אָתָּה",
+       "translit": "roș șivtē israēl ata",
+       "strong": "H859",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + nume propriu + pronume personal",
+       "def_ro": "ești [totuși] conducătorul triburilor lui Israel (roș șivtē israēl ata)",
+       "dict_ro": "Rashi, citând Targumul: tribul lui Beniamin (din care provenea Șaul) a fost primul care a trecut prin Marea Roșie — o aluzie la statutul de frunte al familiei sale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și DOMNUL te-a uns rege peste Israel.",
+       "w": "și DOMNUL te-a uns rege peste Israel.",
+       "heb": "וַיִּמְשָׁחֲךָ יְהוָה לְמֶלֶךְ עַל יִשְׂרָאֵל",
+       "translit": "vaimșahaha Adonai lemeleh al israēl",
+       "strong": "H3478",
+       "pos": "verb, qal imperfect consecutiv + sufix + nume propriu + substantiv, masculin singular + prepoziție + nume propriu",
+       "def_ro": "și DOMNUL te-a uns rege peste Israel. (vaimșahaha Adonai lemeleh al israēl)",
+       "dict_ro": "Reamintește explicit originea divină a autorității regale a lui Șaul, sporind gravitatea responsabilității nerespectate."
       }
      ],
      "textCompare": [
@@ -11115,7 +11950,66 @@
      "translit": "Vaișlahaha ADONAI bedareh vaiomer leh vehaharamta et-hahataim et-Amalek venilhamta vo ad kalotam otam.",
      "tokens": [
       {
-       "t": "Și DOMNUL te-a trimis pe drum și a spus: «Mergi și distruge-i pe păcătoși, pe Amalek, și poartă război cu el până ce îi vei fi nimicit.»"
+       "t": "Și DOMNUL te-a trimis pe drum",
+       "w": "Și DOMNUL te-a trimis pe drum",
+       "heb": "וַיִּשְׁלָחֲךָ יְהוָה בְּדָרֶךְ",
+       "translit": "vaișlahaha Adonai bedareh",
+       "strong": "H1870",
+       "pos": "verb, qal imperfect consecutiv + sufix + nume propriu + substantiv, masculin și feminin singular",
+       "def_ro": "și DOMNUL te-a trimis pe drum (vaișlahaha Adonai bedareh)",
+       "dict_ro": "Samuel reafirmă misiunea divină inițială, exact așa cum a fost transmisă la începutul capitolului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și a spus: «Mergi",
+       "w": "și a spus: «Mergi",
+       "heb": "וַיֹּאמֶר לֵךְ",
+       "translit": "vaiomer lēh",
+       "strong": "H3212",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperativ",
+       "def_ro": "și a spus: «mergi (vaiomer lēh)",
+       "dict_ro": "Citarea exactă a poruncii originale, pentru a nu lăsa loc de interpretare greșită."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și distruge-i pe păcătoși, pe Amalek,",
+       "w": "și distruge-i pe păcătoși, pe Amalek,",
+       "heb": "וְהַחֲרַמְתָּה אֶת הַחַטָּאִים אֶת עֲמָלֵק",
+       "translit": "vehaharamta et hahataim et amalēk",
+       "strong": "H6002",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + adjectiv, masculin plural + marcă a complementului direct + nume propriu",
+       "def_ro": "și distruge-i pe păcătoși, pe Amalek, (vehaharamta et hahataim et amalēk)",
+       "dict_ro": "Numirea explicită a amalekiților drept «păcătoși» confirmă caracterul de judecată dreaptă, nu de agresiune nejustificată, a poruncii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și poartă război cu el",
+       "w": "și poartă război cu el",
+       "heb": "וְנִלְחַמְתָּ בוֹ",
+       "translit": "venilhamta vo",
+       "strong": "",
+       "pos": "verb, nifal perfect consecutiv + prepoziție + sufix",
+       "def_ro": "și poartă război cu el (venilhamta vo)",
+       "dict_ro": "Confirmă caracterul de campanie militară completă, nu doar o lovitură punctuală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "până ce îi vei fi nimicit.»",
+       "w": "până ce îi vei fi nimicit.»",
+       "heb": "עַד כַּלּוֹתָם אֹתָם",
+       "translit": "ad kalotam otam",
+       "strong": "H853",
+       "pos": "prepoziție + verb, piel infinitiv + sufix + marcă a complementului direct + sufix",
+       "def_ro": "până ce îi vei fi nimicit.» (ad kalotam otam)",
+       "dict_ro": "Accentuează explicit cerința de nimicire totală, fără oprire la jumătate de drum — exact punctul la care Șaul a eșuat."
       }
      ],
      "textCompare": [
@@ -11145,7 +12039,40 @@
      "translit": "Velama lo-șamata bekol ADONAI vataat el-hașalal vataas hara beeinéi ADONAI.",
      "tokens": [
       {
-       "t": "De ce nu ai ascultat glasul DOMNULUI? Te-ai grăbit la pradă și ai făcut ce era rău în ochii DOMNULUI.”"
+       "t": "De ce nu ai ascultat glasul DOMNULUI?",
+       "w": "De ce nu ai ascultat glasul DOMNULUI?",
+       "heb": "וְלָמָּה לֹא שָׁמַעְתָּ בְּקוֹל יְהוָה",
+       "translit": "velama lo șamata bekol Adonai",
+       "strong": "H3068",
+       "pos": "particulă interogativă + particulă negativă + verb, qal perfect + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "de ce nu ai ascultat glasul DOMNULUI? (velama lo șamata bekol Adonai)",
+       "dict_ro": "Întrebarea centrală a întregii confruntări, repetând direct acuzația de neascultare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Te-ai grăbit la pradă",
+       "w": "Te-ai grăbit la pradă",
+       "heb": "וַתַּעַט אֶל הַשָּׁלָל",
+       "translit": "vataat el hașalal",
+       "strong": "H7998",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv, masculin singular",
+       "def_ro": "te-ai grăbit la pradă (vataat el hașalal)",
+       "dict_ro": "Rashi leagă verbul de imaginea unei păsări de pradă care se năpustește — descrie lăcomia și graba cu care s-a căzut asupra prăzii, contrar poruncii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ai făcut ce era rău în ochii DOMNULUI.”",
+       "w": "și ai făcut ce era rău în ochii DOMNULUI.”",
+       "heb": "וַתַּעַשׂ הָרַע בְּעֵינֵי יְהוָה",
+       "translit": "vataas hara beēnē Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperfect consecutiv + adjectiv, masculin singular + substantiv, masculin și feminin dual construct + nume propriu",
+       "def_ro": "și ai făcut ce era rău în ochii DOMNULUI.” (vataas hara beēnē Adonai)",
+       "dict_ro": "Formula standard de condamnare morală, aplicată direct asupra regelui, nu doar asupra poporului."
       }
      ],
      "textCompare": [
@@ -11175,7 +12102,66 @@
      "translit": "Vaiomer Șaul el-Șemuel așer șamati bekol ADONAI vaeleh badereh așer-șelahani ADONAI vaavi et-Agag meleh Amalek veet-Amalek heheramti.",
      "tokens": [
       {
-       "t": "Șaul i-a spus lui Samuel: „Dar am ascultat glasul DOMNULUI și am mers pe calea pe care DOMNUL m-a trimis! L-am adus pe Agag, regele lui Amalek, și l-am distrus pe Amalek!"
+       "t": "Șaul i-a spus lui Samuel:",
+       "w": "Șaul i-a spus lui Samuel:",
+       "heb": "וַיֹּאמֶר שָׁאוּל אֶל שְׁמוּאֵל",
+       "translit": "vaiomer șaul el șemuēl",
+       "strong": "H8050",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu",
+       "def_ro": "Șaul i-a spus lui Samuel: (vaiomer șaul el șemuēl)",
+       "dict_ro": "Șaul continuă să se apere, acum cu o afirmație directă de ascultare, în loc să recunoască vina."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Dar am ascultat glasul DOMNULUI",
+       "w": "Dar am ascultat glasul DOMNULUI",
+       "heb": "אֲשֶׁר שָׁמַעְתִּי בְּקוֹל יְהוָה",
+       "translit": "așer șamati bekol Adonai",
+       "strong": "H3068",
+       "pos": "particulă relativă + verb, qal perfect + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "dar am ascultat glasul DOMNULUI (așer șamati bekol Adonai)",
+       "dict_ro": "Radak notează că aceasta e o întrerupere a cuvântării lui Samuel — Șaul răspunde defensiv înainte ca profetul să-și termine mustrarea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și am mers pe calea pe care DOMNUL m-a trimis!",
+       "w": "și am mers pe calea pe care DOMNUL m-a trimis!",
+       "heb": "וָאֵלֵךְ בַּדֶּרֶךְ אֲשֶׁר שְׁלָחַנִי יְהוָה",
+       "translit": "vaēlēh badereh așer șelahani Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin și feminin singular + particulă relativă + verb, qal perfect + sufix + nume propriu",
+       "def_ro": "și am mers pe calea pe care DOMNUL m-a trimis! (vaēlēh badereh așer șelahani Adonai)",
+       "dict_ro": "Afirmația pretinde o ascultare completă, contrazicând direct faptele deja stabilite."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "L-am adus pe Agag, regele lui Amalek,",
+       "w": "L-am adus pe Agag, regele lui Amalek,",
+       "heb": "וָאָבִיא אֶת אֲגַג מֶלֶךְ עֲמָלֵק",
+       "translit": "vaavi et agag meleh amalēk",
+       "strong": "H6002",
+       "pos": "verb, hifil imperfect consecutiv + marcă a complementului direct + nume propriu + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "l-am adus pe Agag, regele lui Amalek, (vaavi et agag meleh amalēk)",
+       "dict_ro": "Șaul recunoaște, fără să realizeze gravitatea, exact fapta interzisă — capturarea regelui, contrar poruncii de nimicire totală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și l-am distrus pe Amalek!",
+       "w": "și l-am distrus pe Amalek!",
+       "heb": "וְאֶת עֲמָלֵק הֶחֱרַמְתִּי",
+       "translit": "veet amalēk heheramti",
+       "strong": "H2763",
+       "pos": "marcă a complementului direct + nume propriu + verb, hifil perfect",
+       "def_ro": "și l-am distrus pe Amalek! (veet amalēk heheramti)",
+       "dict_ro": "Afirmația e parțial adevărată — poporul amalekit de rând a fost distrus — dar omite complet cruțarea lui Agag și a animalelor valoroase."
       }
      ],
      "textCompare": [
@@ -11205,7 +12191,53 @@
      "translit": "Vaikah haam mehașalal țon uvakar reșit haherem lizboah l'ADONAI Eloheha ba'Ghilgal.",
      "tokens": [
       {
-       "t": "Poporul a luat oi și vite din pradă, cele mai bune dintre cele condamnate la distrugere, ca să aducă jertfe DOMNULUI, Dumnezeului tău, în Ghilgal.”"
+       "t": "Poporul a luat oi și vite din pradă,",
+       "w": "Poporul a luat oi și vite din pradă,",
+       "heb": "וַיִּקַּח הָעָם מֵהַשָּׁלָל צֹאן וּבָקָר",
+       "translit": "vaikah haam mēhașalal țon uvakar",
+       "strong": "H1241",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + substantiv, masculin singular + substantiv, masculin și feminin singular + substantiv, masculin și feminin singular",
+       "def_ro": "poporul a luat oi și vite din pradă, (vaikah haam mēhașalal țon uvakar)",
+       "dict_ro": "Șaul transferă din nou vina asupra poporului, de data aceasta cu mai multe detalii, dar aceeași strategie defensivă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cele mai bune dintre cele condamnate la distrugere,",
+       "w": "cele mai bune dintre cele condamnate la distrugere,",
+       "heb": "רֵאשִׁית הַחֵרֶם",
+       "translit": "rēșit hahērem",
+       "strong": "H2764",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "cele mai bune dintre cele condamnate la distrugere, (rēșit hahērem)",
+       "dict_ro": "Rashi: expresia «rēșit» (cea mai bună parte) confirmă exact ceea ce fusese interzis — selectarea prăzii de calitate superioară din ceea ce trebuia nimicit complet."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca să aducă jertfe DOMNULUI, Dumnezeului tău,",
+       "w": "ca să aducă jertfe DOMNULUI, Dumnezeului tău,",
+       "heb": "לִזְבֹּחַ לַיהוָה אֱלֹהֶיךָ",
+       "translit": "lizboah la'Adonai eloheha",
+       "strong": "H430",
+       "pos": "verb, qal infinitiv + nume propriu + substantiv, masculin plural construct + sufix",
+       "def_ro": "ca să aducă jertfe DOMNULUI, Dumnezeului tău, (lizboah la'Adonai eloheha)",
+       "dict_ro": "Radak notează alegerea pronumelui «Dumnezeul tău» (nu «nostru») — posibil o distanțare subtilă a lui Șaul, sau o formulă onorifică adresată profetului, dar care sugerează, totuși, o ruptură incipientă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Ghilgal.”",
+       "w": "în Ghilgal.”",
+       "heb": "בַּגִּלְגָּל",
+       "translit": "bagilgal",
+       "strong": "H1537",
+       "pos": "nume propriu",
+       "def_ro": "în Ghilgal.” (bagilgal)",
+       "dict_ro": "Locația exactă unde urma să aibă loc jertfa promisă, aceeași unde se desfășoară chiar această confruntare."
       }
      ],
      "textCompare": [
@@ -11235,22 +12267,66 @@
      "translit": "Vaiomer Șemuel hahefeț l'ADONAI beolot uzevahim kișmoa bekol ADONAI hine șemoa mizevah tov lehakșiv mehelev eilim.",
      "tokens": [
       {
-       "t": "Samuel a spus: „Oare DOMNUL are mulțumire de pe urma arderilor-de-tot și jertfelor de sărbătoare la fel ca de pe urma ascultării glasului DOMNULUI? Iată, "
+       "t": "Samuel a spus:",
+       "w": "Samuel a spus:",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל",
+       "translit": "vaiomer șemuēl",
+       "strong": "H8050",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "Samuel a spus: (vaiomer șemuēl)",
+       "dict_ro": "Introduce versetul cel mai citat al întregului capitol, un principiu teologic fundamental despre prioritatea ascultării asupra ritualului."
       },
       {
-       "t": "ascultarea",
-       "w": "ascultarea",
-       "heb": "הִנֵּה שְׁמֹעַ",
-       "translit": "hinē șemoa",
-       "strong": "H8085",
-       "pos": "particulă demonstrativă + verb, qal infinitiv",
-       "def_ro": "a asculta/da ascultare (șemoa).",
-       "dict_ro": "Acesta e versetul programatic al profeției etice — „ascultarea mai bună decât jertfa” revine ca refren la Osea 6:6, Isaia 1:11-17, Mica 6:6-8 — nu o respingere a cultului sacrificial în sine, ci a lui atunci când înlocuiește ascultarea morală directă de porunca divină explicită.",
-       "greek": "ἀκοὴ (akoe)",
-       "greek_def_ro": "ἀκοὴ (akoe) — ascultare, auzire — Septuaginta traduce șemoa literal prin „akoe” (ascultare/auzire), păstrând jocul de sens ebraic între „a asculta” și „a da ascultare/a te supune”."
+       "t": " „"
       },
       {
-       "t": " este mai bună decât o jertfă bună, luarea-aminte decât grăsimea berbecilor."
+       "t": "Oare DOMNUL are mulțumire de pe urma arderilor-de-tot și jertfelor de sărbătoare",
+       "w": "Oare DOMNUL are mulțumire de pe urma arderilor-de-tot și jertfelor de sărbătoare",
+       "heb": "הַחֵפֶץ לַיהוָה בְּעֹלוֹת וּזְבָחִים",
+       "translit": "hahēfeț la'Adonai beolot uzvahim",
+       "strong": "H2077",
+       "pos": "substantiv, masculin singular + nume propriu + substantiv, feminin plural + substantiv, masculin plural",
+       "def_ro": "oare DOMNUL are mulțumire de pe urma arderilor-de-tot și jertfelor de sărbătoare (hahēfeț la'Adonai beolot uzvahim)",
+       "dict_ro": "Întrebarea retorică demontează direct justificarea lui Șaul de la v.21 — intenția de a jertfi nu scuză neascultarea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la fel ca de pe urma ascultării glasului DOMNULUI?",
+       "w": "la fel ca de pe urma ascultării glasului DOMNULUI?",
+       "heb": "כִּשְׁמֹעַ בְּקוֹל יְהוָה",
+       "translit": "kișmoa bekol Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal infinitiv + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "la fel ca de pe urma ascultării glasului DOMNULUI? (kișmoa bekol Adonai)",
+       "dict_ro": "Contrastul central: jertfa exterioară versus ascultarea interioară de poruncă — a doua are prioritate absolută."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iată, ascultarea este mai bună decât o jertfă bună,",
+       "w": "Iată, ascultarea este mai bună decât o jertfă bună,",
+       "heb": "הִנֵּה שְׁמֹעַ מִזֶּבַח טוֹב",
+       "translit": "hinē șemoa mizevah tov",
+       "strong": "H2896",
+       "pos": "particulă demonstrativă + verb, qal infinitiv + substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "iată, ascultarea este mai bună decât o jertfă bună, (hinē șemoa mizevah tov)",
+       "dict_ro": "Afirmația pozitivă, directă, a principiului — nu doar o întrebare retorică, ci o declarație teologică fermă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "luarea-aminte decât grăsimea berbecilor.",
+       "w": "luarea-aminte decât grăsimea berbecilor.",
+       "heb": "לְהַקְשִׁיב מֵחֵלֶב אֵילִים",
+       "translit": "lehakșiv mēhēlev ēlim",
+       "strong": "H352",
+       "pos": "verb, hifil infinitiv + substantiv, masculin singular construct + substantiv, masculin plural",
+       "def_ro": "luarea-aminte decât grăsimea berbecilor. (lehakșiv mēhēlev ēlim)",
+       "dict_ro": "Grăsimea berbecilor, partea cea mai prețioasă a jertfei de ardere-de-tot, devine aici metafora pentru tot ce e material și ritual — depășit cu mult de valoarea ascultării autentice."
       }
      ],
      "textCompare": [
@@ -11287,20 +12363,53 @@
      "translit": "Ki hatat-kesem meri veaven uterafim haftzar iaan maasta et-devar ADONAI vaimasha mimeleh.",
      "tokens": [
       {
-       "t": "Căci răzvrătirea este ca păcatul "
+       "t": "Căci răzvrătirea este ca păcatul vrăjitoriei",
+       "w": "Căci răzvrătirea este ca păcatul vrăjitoriei",
+       "heb": "כִּי חַטַּאת קֶסֶם מֶרִי",
+       "translit": "ki hatat kesem meri",
+       "strong": "H4805",
+       "pos": "conjuncție + substantiv, feminin singular construct + substantiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "căci răzvrătirea este ca păcatul vrăjitoriei (ki hatat kesem meri)",
+       "dict_ro": "Radak: comparația nu e literală, ci morală — cel care se răzvrătește împotriva poruncii divine, de teamă sau pentru plăcere, își pune încrederea în altceva decât în Dumnezeu, exact ca practicantul vrăjitoriei."
       },
       {
-       "t": "vrăjitoriei",
-       "w": "vrăjitoriei",
-       "heb": "קֶסֶם",
-       "translit": "kesem",
-       "strong": "H7081",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "divinație, ghicit (kesem).",
-       "dict_ro": "Compararea neascultării cu „păcatul vrăjitoriei” și a îngâmfării cu „fărădelegea idolatriei” (terafim) ridică nesupunerea la rang de păcat religios capital, nu simplu disciplinar — Rashi explică gradarea: pedeapsa pentru insistența încăpățânată (hafțar) e la fel de gravă ca cea pentru idolatria propriu-zisă."
+       "t": " "
       },
       {
-       "t": " și îngâmfarea ca fărădelegea idolatriei. Pentru că ai respins cuvântul lui Dumnezeu, și El te-a respins ca rege!”"
+       "t": "și îngâmfarea ca fărădelegea idolatriei.",
+       "w": "și îngâmfarea ca fărădelegea idolatriei.",
+       "heb": "וְאָוֶן וּתְרָפִים הַפְצַר",
+       "translit": "veaven utrafim hafțar",
+       "strong": "H6484",
+       "pos": "substantiv, masculin singular + substantiv, masculin plural + verb, hifil infinitiv absolut",
+       "def_ro": "și îngâmfarea ca fărădelegea idolatriei. (veaven utrafim hafțar)",
+       "dict_ro": "Rashi leagă «hafțar» (insistența/îngâmfarea) de obiceiul de a stărui excesiv — a continua să te justifici în loc să recunoști vina devine, moral, echivalentul cultului idolilor casnici (terafim)."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Pentru că ai respins cuvântul lui Dumnezeu,",
+       "w": "Pentru că ai respins cuvântul lui Dumnezeu,",
+       "heb": "יַעַן מָאַסְתָּ אֶת דְּבַר יְהוָה",
+       "translit": "iaan maasta et devar Adonai",
+       "strong": "H3068",
+       "pos": "conjuncție + verb, qal perfect + marcă a complementului direct + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "pentru că ai respins cuvântul lui Dumnezeu, (iaan maasta et devar Adonai)",
+       "dict_ro": "Verdictul final, explicit — nu o greșeală minoră, ci o respingere activă a poruncii divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și El te-a respins ca rege!”",
+       "w": "și El te-a respins ca rege!”",
+       "heb": "וַיִּמְאָסְךָ מִמֶּלֶךְ",
+       "translit": "vaimasha mimeleh",
+       "strong": "H4428",
+       "pos": "verb, qal imperfect consecutiv + sufix + substantiv, masculin singular",
+       "def_ro": "și El te-a respins ca rege!” (vaimasha mimeleh)",
+       "dict_ro": "Consecința directă, simetrică: respingerea lui Șaul de către Dumnezeu răspunde exact respingerii poruncii de către Șaul."
       }
      ],
      "textCompare": [
@@ -11336,7 +12445,66 @@
      "translit": "Vaiomer Șaul el-Șemuel hatati ki-avarti et-pi-ADONAI veet-devareha ki iareiti et-haam vaeșma bekolam.",
      "tokens": [
       {
-       "t": "Șaul i-a spus lui Samuel: „Am păcătuit, căci am încălcat vorba DOMNULUI și cuvântul tău, căci m-am temut de popor și am ascultat de glasul lor."
+       "t": "Șaul i-a spus lui Samuel:",
+       "w": "Șaul i-a spus lui Samuel:",
+       "heb": "וַיֹּאמֶר שָׁאוּל אֶל שְׁמוּאֵל",
+       "translit": "vaiomer șaul el șemuēl",
+       "strong": "H8050",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu",
+       "def_ro": "Șaul i-a spus lui Samuel: (vaiomer șaul el șemuēl)",
+       "dict_ro": "Pentru prima dată, Șaul admite direct păcatul, după verdictul categoric al lui Samuel."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Am păcătuit,",
+       "w": "Am păcătuit,",
+       "heb": "חָטָאתִי",
+       "translit": "hatati",
+       "strong": "H2398",
+       "pos": "verb, qal perfect",
+       "def_ro": "am păcătuit, (hatati)",
+       "dict_ro": "Recunoașterea verbală a vinei, deși urmată imediat de o justificare care diminuează responsabilitatea personală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci am încălcat vorba DOMNULUI și cuvântul tău,",
+       "w": "căci am încălcat vorba DOMNULUI și cuvântul tău,",
+       "heb": "כִּי עָבַרְתִּי אֶת פִּי יְהוָה וְאֶת דְּבָרֶיךָ",
+       "translit": "ki avarti et pi Adonai veet devareha",
+       "strong": "H1697",
+       "pos": "conjuncție + verb, qal perfect + marcă a complementului direct + substantiv, masculin singular construct + nume propriu + marcă a complementului direct + substantiv, masculin plural construct + sufix",
+       "def_ro": "căci am încălcat vorba DOMNULUI și cuvântul tău, (ki avarti et pi Adonai veet devareha)",
+       "dict_ro": "Dubla încălcare — a poruncii divine și a transmiterii ei prin profet — confirmă gravitatea completă a neascultării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci m-am temut de popor",
+       "w": "căci m-am temut de popor",
+       "heb": "כִּי יָרֵאתִי אֶת הָעָם",
+       "translit": "ki iarēti et haam",
+       "strong": "H5971",
+       "pos": "conjuncție + verb, qal perfect + marcă a complementului direct + substantiv, masculin singular",
+       "def_ro": "căci m-am temut de popor (ki iarēti et haam)",
+       "dict_ro": "Rashi identifică această frică cu presiunea exercitată de Doeg Edomiteanul, considerat cel mai influent dintre sfetnicii lui Șaul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și am ascultat de glasul lor.",
+       "w": "și am ascultat de glasul lor.",
+       "heb": "וָאֶשְׁמַע בְּקוֹלָם",
+       "translit": "vaeșma bekolam",
+       "strong": "H6963",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular construct + sufix",
+       "def_ro": "și am ascultat de glasul lor. (vaeșma bekolam)",
+       "dict_ro": "Ironia tragică: Șaul a ascultat glasul poporului exact în locul glasului DOMNULUI, inversând complet prioritatea cerută la v.1 și v.19."
       }
      ],
      "textCompare": [
@@ -11366,7 +12534,40 @@
      "translit": "Veata sa na et-hatati veșuv imi veeștahave l'ADONAI.",
      "tokens": [
       {
-       "t": "Acum, rogu-te, iartă-mi, păcatul și întoarce-te cu mine, ca să mă prosternez înaintea DOMNULUI.”"
+       "t": "Acum, rogu-te, iartă-mi, păcatul",
+       "w": "Acum, rogu-te, iartă-mi, păcatul",
+       "heb": "וְעַתָּה שָׂא נָא אֶת חַטָּאתִי",
+       "translit": "veata sa na et hatati",
+       "strong": "H2403",
+       "pos": "adverb + verb, qal imperativ + interjecție + marcă a complementului direct + substantiv, feminin singular construct + sufix",
+       "def_ro": "acum, rogu-te, iartă-mi, păcatul (veata sa na et hatati)",
+       "dict_ro": "Cererea de iertare urmează imediat recunoașterea vinei, dar rămâne orientată spre consecințe publice, nu spre o pocăință pur interioară."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și întoarce-te cu mine,",
+       "w": "și întoarce-te cu mine,",
+       "heb": "וְשׁוּב עִמִּי",
+       "translit": "veșuv imi",
+       "strong": "H5973",
+       "pos": "verb, qal imperativ + prepoziție + sufix",
+       "def_ro": "și întoarce-te cu mine, (veșuv imi)",
+       "dict_ro": "Șaul dorește prezența vizibilă a lui Samuel alături de el, pentru menținerea aparenței de legitimitate în fața poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca să mă prosternez înaintea DOMNULUI.”",
+       "w": "ca să mă prosternez înaintea DOMNULUI.”",
+       "heb": "וְאֶשְׁתַּחֲוֶה לַיהוָה",
+       "translit": "veeștahave la'Adonai",
+       "strong": "H3068",
+       "pos": "verb, hiștafel imperfect + nume propriu",
+       "def_ro": "ca să mă prosternez înaintea DOMNULUI.” (veeștahave la'Adonai)",
+       "dict_ro": "Scopul declarat al cererii — un act de închinare publică — dar Samuel va refuza, considerând gestul insuficient pentru a anula decizia deja luată."
       }
      ],
      "textCompare": [
@@ -11396,7 +12597,53 @@
      "translit": "Vaiomer Șemuel el-Șaul lo așuv imah ki maasta et-devar ADONAI vaimasha ADONAI mihiot meleh al-Israel.",
      "tokens": [
       {
-       "t": "Dar Samuel i-a spus lui Șaul: „Nu mă voi întoarce cu tine, căci ai respins cuvântul DOMNULUI și DOMNUL te-a respins de la a [mai] fi rege peste Israel.”"
+       "t": "Dar Samuel i-a spus lui Șaul:",
+       "w": "Dar Samuel i-a spus lui Șaul:",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל שָׁאוּל",
+       "translit": "vaiomer șemuēl el șaul",
+       "strong": "H7586",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu",
+       "def_ro": "dar Samuel i-a spus lui Șaul: (vaiomer șemuēl el șaul)",
+       "dict_ro": "Refuzul lui Samuel vine imediat, fără ezitare, deși rugămintea lui Șaul fusese sinceră."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Nu mă voi întoarce cu tine,",
+       "w": "Nu mă voi întoarce cu tine,",
+       "heb": "לֹא אָשׁוּב עִמָּךְ",
+       "translit": "lo așuv imah",
+       "strong": "H5973",
+       "pos": "particulă negativă + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "nu mă voi întoarce cu tine, (lo așuv imah)",
+       "dict_ro": "Refuzul categoric confirmă caracterul definitiv și irevocabil al deciziei divine deja comunicate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci ai respins cuvântul DOMNULUI",
+       "w": "căci ai respins cuvântul DOMNULUI",
+       "heb": "כִּי מָאַסְתָּה אֶת דְּבַר יְהוָה",
+       "translit": "ki maasta et devar Adonai",
+       "strong": "H3068",
+       "pos": "conjuncție + verb, qal perfect + marcă a complementului direct + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "căci ai respins cuvântul DOMNULUI (ki maasta et devar Adonai)",
+       "dict_ro": "Repetă exact verdictul de la v.23, confirmând că nu e o reacție de moment, ci o sentință fermă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și DOMNUL te-a respins de la a [mai] fi rege peste Israel.”",
+       "w": "și DOMNUL te-a respins de la a [mai] fi rege peste Israel.”",
+       "heb": "וַיִּמְאָסְךָ יְהוָה מִהְיוֹת מֶלֶךְ עַל יִשְׂרָאֵל",
+       "translit": "vaimasha Adonai mihiot meleh al israēl",
+       "strong": "H3478",
+       "pos": "verb, qal imperfect consecutiv + sufix + nume propriu + verb, qal infinitiv + substantiv, masculin singular + prepoziție + nume propriu",
+       "def_ro": "și DOMNUL te-a respins de la a [mai] fi rege peste Israel.” (vaimasha Adonai mihiot meleh al israēl)",
+       "dict_ro": "Formula finală, care încheie categoric orice speranță de revocare a deciziei — respingerea divină e consecința directă, simetrică, a respingerii poruncii."
       }
      ],
      "textCompare": [
@@ -11427,7 +12674,40 @@
      "translit": "Vaisov Șemuel lalehet vaiahazek bihnaf-meilo vaikara.",
      "tokens": [
       {
-       "t": "Apoi Samuel s-a întors să plece și [Șaul] a apucat mâneca tunicii sale și ea s-a rupt."
+       "t": "Apoi Samuel s-a întors să plece",
+       "w": "Apoi Samuel s-a întors să plece",
+       "heb": "וַיִּסֹּב שְׁמוּאֵל לָלֶכֶת",
+       "translit": "vaisov șemuēl lalehet",
+       "strong": "H3212",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + verb, qal infinitiv",
+       "def_ro": "apoi Samuel s-a întors să plece (vaisov șemuēl lalehet)",
+       "dict_ro": "Gestul fizic de plecare confirmă vizual caracterul definitiv al refuzului lui Samuel de a reveni asupra deciziei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și [Șaul] a apucat mâneca tunicii sale",
+       "w": "și [Șaul] a apucat mâneca tunicii sale",
+       "heb": "וַיַּחֲזֵק בִּכְנַף מְעִילוֹ",
+       "translit": "vaiahazēk bihnaf meilo",
+       "strong": "H4598",
+       "pos": "verb, hifil imperfect consecutiv + substantiv, feminin singular construct + substantiv, masculin singular construct + sufix",
+       "def_ro": "și [Șaul] a apucat mâneca tunicii sale (vaiahazēk bihnaf meilo)",
+       "dict_ro": "Rashi: Șaul încearcă să-l oprească fizic pe Samuel, dorind cu disperare să-l convingă să rămână pentru prosternarea publică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ea s-a rupt.",
+       "w": "și ea s-a rupt.",
+       "heb": "וַיִּקָּרַע",
+       "translit": "vaikara",
+       "strong": "H7167",
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "și ea s-a rupt. (vaikara)",
+       "dict_ro": "Rashi notează o dezbatere a tradiției — cine a rupt haina cui — dar în ambele interpretări, actul fizic devine simbolul profetic al ruperii regatului, explicat imediat în versetul următor."
       }
      ],
      "textCompare": [
@@ -11455,7 +12735,53 @@
      "translit": "Vaiomer elav Șemuel kara ADONAI et-mamlehut Israel mealéha haiom unetana lereaha hatov mimeka.",
      "tokens": [
       {
-       "t": "Și Samuel i-a spus: „DOMNUL a rupt domnia lui Israel de la tine astăzi și a dat-o semenului tău care este mai bun decât tine."
+       "t": "Și Samuel i-a spus:",
+       "w": "Și Samuel i-a spus:",
+       "heb": "וַיֹּאמֶר אֵלָיו שְׁמוּאֵל",
+       "translit": "vaiomer ēlaiv șemuēl",
+       "strong": "H8050",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + nume propriu",
+       "def_ro": "și Samuel i-a spus: (vaiomer ēlaiv șemuēl)",
+       "dict_ro": "Samuel folosește imediat gestul fizic al hainei rupte ca pe o ilustrare profetică a mesajului divin."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "DOMNUL a rupt domnia lui Israel de la tine astăzi",
+       "w": "DOMNUL a rupt domnia lui Israel de la tine astăzi",
+       "heb": "קָרַע יְהוָה אֶת מַמְלְכוּת יִשְׂרָאֵל מֵעָלֶיךָ הַיּוֹם",
+       "translit": "kara Adonai et mamlehut israēl mēaleha haiom",
+       "strong": "H3117",
+       "pos": "verb, qal perfect + nume propriu + marcă a complementului direct + substantiv, feminin singular construct + nume propriu + prepoziție + sufix + substantiv, masculin singular",
+       "def_ro": "DOMNUL a rupt domnia lui Israel de la tine astăzi (kara Adonai et mamlehut israēl mēaleha haiom)",
+       "dict_ro": "Jocul de cuvinte dintre «kara» (a rupe) din acțiunea fizică și decizia divină anunță simbolic că ruptura regatului e la fel de ireversibilă ca ruperea materialului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și a dat-o semenului tău",
+       "w": "și a dat-o semenului tău",
+       "heb": "וּנְתָנָהּ לְרֵעֲךָ",
+       "translit": "untanah lerēaha",
+       "strong": "H7453",
+       "pos": "verb, qal perfect + sufix + substantiv, masculin singular construct + sufix",
+       "def_ro": "și a dat-o semenului tău (untanah lerēaha)",
+       "dict_ro": "Rashi identifică explicit acest «semen» cu David, deși numele lui nu e încă menționat în narațiune."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care este mai bun decât tine.",
+       "w": "care este mai bun decât tine.",
+       "heb": "הַטּוֹב מִמֶּךָּ",
+       "translit": "hatov mimeka",
+       "strong": "H4480",
+       "pos": "adjectiv, masculin singular + prepoziție + sufix",
+       "def_ro": "care este mai bun decât tine. (hatov mimeka)",
+       "dict_ro": "Comparația directă confirmă că decizia nu e arbitrară, ci bazată pe o evaluare morală explicită a caracterului succesorului."
       }
      ],
      "textCompare": [
@@ -11486,23 +12812,66 @@
      "translit": "Vegam Nețah Israel lo ieșaker velo inahem ki lo adam hu lehinahem.",
      "tokens": [
       {
-       "t": "Mai mult, "
+       "t": "Mai mult, Veșnicul lui Israel",
+       "w": "Mai mult, Veșnicul lui Israel",
+       "heb": "וְגַם נֵצַח יִשְׂרָאֵל",
+       "translit": "vegam nēțah israēl",
+       "strong": "H3478",
+       "pos": "particulă afirmativă + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "mai mult, Veșnicul lui Israel (vegam nēțah israēl)",
+       "dict_ro": "Metzudat Zion: «nețah» denotă tărie și biruință — titlul divin subliniază constanța și forța imuabilă a hotărârii luate."
       },
       {
-       "t": "Veșnicul",
-       "w": "Veșnicul",
-       "heb": "נֵצַח",
-       "translit": "nēțah",
-       "strong": "H5331",
-       "pos": "substantiv, masculin singular construct",
-       "def_ro": "veșnicia, biruința [lui Israel] (nețah).",
-       "dict_ro": "Nețah Israel — „Veșnicul/Biruința lui Israel” — e un titlu neobișnuit pentru Dumnezeu, întâlnit rar în Scriptură, afirmând aici constanța absolută a planului divin, în contrast direct cu regretul „omenesc” exprimat la v.11 — tensiunea teologică e intenționată: Dumnezeu „regretă” deciziile concrete din istorie, dar planul Lui general „nu minte și nu Se răzgândește”.",
-       "greek": "διαιρεθήσεται Ισραὴλ εἰς δύο (diairethesetai Israel eis dyo)",
-       "greek_def_ro": "διαιρεθήσεται Ισραὴλ εἰς δύο (diairethesetai Israel eis dyo) — Israel va fi împărțit în două — traducere complet diferită de ebraica „Veșnicul lui Israel nu minte”.",
-       "diff_ro": "Septuaginta citește complet diferit acest verset: în loc de „Veșnicul lui Israel nu minte și nu Se răzgândește”, are „Israel va fi împărțit în două, și [DOMNUL] nu Se va întoarce, nici nu Se va răzgândi” — fie o lectură a unui text ebraic diferit, fie o traducere liberă neobișnuită, una dintre cele mai mari divergențe dintre cele două tradiții textuale întâlnite până acum în această arhivă."
+       "t": " "
       },
       {
-       "t": " lui Israel nu minte și nu se răzgândește, căci nu este om ca să Se răzgândească.”"
+       "t": "nu minte",
+       "w": "nu minte",
+       "heb": "לֹא יְשַׁקֵּר",
+       "translit": "lo ieșakēr",
+       "strong": "H8266",
+       "pos": "particulă negativă + verb, piel imperfect",
+       "def_ro": "nu minte (lo ieșakēr)",
+       "dict_ro": "Confirmă certitudinea absolută a promisiunii făcute succesorului lui Șaul — decizia nu va fi revocată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și nu se răzgândește,",
+       "w": "și nu se răzgândește,",
+       "heb": "וְלֹא יִנָּחֵם",
+       "translit": "velo inahēm",
+       "strong": "H5162",
+       "pos": "particulă negativă + verb, nifal imperfect",
+       "def_ro": "și nu se răzgândește, (velo inahēm)",
+       "dict_ro": "Rashi: spre diferență de un om, a cărui decizie se poate schimba sub influența circumstanțelor, hotărârea divină rămâne fermă odată luată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci nu este om",
+       "w": "căci nu este om",
+       "heb": "כִּי לֹא אָדָם הוּא",
+       "translit": "ki lo adam hu",
+       "strong": "H1931",
+       "pos": "conjuncție + particulă negativă + substantiv, masculin singular + pronume personal",
+       "def_ro": "căci nu este om (ki lo adam hu)",
+       "dict_ro": "Afirmă explicit distincția fundamentală dintre natura divină imuabilă și natura omenească schimbătoare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca să Se răzgândească.”",
+       "w": "ca să Se răzgândească.”",
+       "heb": "לְהִנָּחֵם",
+       "translit": "lehinahēm",
+       "strong": "H5162",
+       "pos": "verb, nifal infinitiv",
+       "def_ro": "ca să Se răzgândească.” (lehinahēm)",
+       "dict_ro": "Închide definitiv orice speranță a lui Șaul de a obține revocarea sentinței prin pocăință ulterioară — decizia e deja fermă și finală."
       }
      ],
      "textCompare": [
@@ -11538,7 +12907,79 @@
      "translit": "Vaiomer hatati ata kabdeni na neghed ziknei-ami veneghed Israel veșuv imi vehiștahaveiti l'ADONAI Eloheha.",
      "tokens": [
       {
-       "t": "El i-a spus: „Am păcătuit. Acum, rogu-te, cinstește-mă în fața bătrânilor poporului meu și în fața lui Israel; întoarce-te cu mine, ca să mă prosternez DOMNULUI, Dumnezeului tău.”"
+       "t": "El i-a spus: „Am păcătuit.",
+       "w": "El i-a spus: „Am păcătuit.",
+       "heb": "וַיֹּאמֶר חָטָאתִי",
+       "translit": "vaiomer hatati",
+       "strong": "H2398",
+       "pos": "verb, qal imperfect consecutiv + verb, qal perfect",
+       "def_ro": "el i-a spus: «am păcătuit. (vaiomer hatati)",
+       "dict_ro": "A doua recunoaștere a păcatului în acest capitol, dar de data aceasta grija pentru imaginea publică devine și mai explicită."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Acum, rogu-te, cinstește-mă",
+       "w": "Acum, rogu-te, cinstește-mă",
+       "heb": "עַתָּה כַּבְּדֵנִי נָא",
+       "translit": "ata kabdēni na",
+       "strong": "H4994",
+       "pos": "adverb + verb, piel imperativ + sufix + interjecție",
+       "def_ro": "acum, rogu-te, cinstește-mă (ata kabdēni na)",
+       "dict_ro": "Metzudat David notează schimbarea de accent: Șaul nu mai cere doar iertare, ci onoare publică vizibilă în fața poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în fața bătrânilor poporului meu",
+       "w": "în fața bătrânilor poporului meu",
+       "heb": "נֶגֶד זִקְנֵי עַמִּי",
+       "translit": "neged ziknē ami",
+       "strong": "H5971",
+       "pos": "prepoziție + adjectiv, masculin plural + substantiv, masculin singular construct + sufix",
+       "def_ro": "în fața bătrânilor poporului meu (neged ziknē ami)",
+       "dict_ro": "Conducătorii tribali, a căror percepție despre legitimitatea regală a lui Șaul conta decisiv pentru stabilitatea politică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și în fața lui Israel;",
+       "w": "și în fața lui Israel;",
+       "heb": "וְנֶגֶד יִשְׂרָאֵל",
+       "translit": "veneged israēl",
+       "strong": "H3478",
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "și în fața lui Israel; (veneged israēl)",
+       "dict_ro": "Extinde cererea dincolo de bătrâni, la întregul popor martor al confruntării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "întoarce-te cu mine,",
+       "w": "întoarce-te cu mine,",
+       "heb": "וְשׁוּב עִמִּי",
+       "translit": "veșuv imi",
+       "strong": "H5973",
+       "pos": "verb, qal imperativ + prepoziție + sufix",
+       "def_ro": "întoarce-te cu mine, (veșuv imi)",
+       "dict_ro": "Repetă exact cererea de la v.25, de data aceasta cu argumentul suplimentar al onoarei publice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca să mă prosternez DOMNULUI, Dumnezeului tău.”",
+       "w": "ca să mă prosternez DOMNULUI, Dumnezeului tău.”",
+       "heb": "וְהִשְׁתַּחֲוֵיתִי לַיהוָה אֱלֹהֶיךָ",
+       "translit": "vehiștahavēti la'Adonai eloheha",
+       "strong": "H430",
+       "pos": "verb, hiștafel perfect + nume propriu + substantiv, masculin plural construct + sufix",
+       "def_ro": "ca să mă prosternez DOMNULUI, Dumnezeului tău.” (vehiștahavēti la'Adonai eloheha)",
+       "dict_ro": "Repetiția formulei «Dumnezeul tău» (nu «al meu») sugerează, potrivit unor comentatori, o distanțare tot mai vizibilă a lui Șaul de relația personală cu DOMNUL."
       }
      ],
      "textCompare": [
@@ -11568,7 +13009,27 @@
      "translit": "Vaiasov Șemuel aharei Șaul vaiștahu Șaul l'ADONAI.",
      "tokens": [
       {
-       "t": "Și Samuel s-a întors după Șaul și Șaul s-a prosternat înaintea DOMNULUI."
+       "t": "Și Samuel s-a întors după Șaul",
+       "w": "Și Samuel s-a întors după Șaul",
+       "heb": "וַיָּשָׁב שְׁמוּאֵל אַחֲרֵי שָׁאוּל",
+       "translit": "vaiașav șemuēl aharē șaul",
+       "strong": "H7586",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu",
+       "def_ro": "și Samuel s-a întors după Șaul (vaiașav șemuēl aharē șaul)",
+       "dict_ro": "Samuel cedează parțial cererii lui Șaul, acceptând să-l însoțească pentru actul public de închinare, deși decizia privind domnia rămâne neschimbată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și Șaul s-a prosternat înaintea DOMNULUI.",
+       "w": "și Șaul s-a prosternat înaintea DOMNULUI.",
+       "heb": "וַיִּשְׁתַּחוּ שָׁאוּל לַיהוָה",
+       "translit": "vaiștahu șaul la'Adonai",
+       "strong": "H3068",
+       "pos": "verb, hitpael imperfect consecutiv + nume propriu + nume propriu",
+       "def_ro": "și Șaul s-a prosternat înaintea DOMNULUI. (vaiștahu șaul la'Adonai)",
+       "dict_ro": "Actul de închinare are loc, dar nu schimbă verdictul deja pronunțat — onoarea publică a lui Șaul e parțial restaurată, fără a anula consecința spirituală a neascultării."
       }
      ],
      "textCompare": [
@@ -11598,23 +13059,53 @@
      "translit": "Vaiomer Șemuel haghișu elai et-Agag meleh Amalek vaieleh elav Agag maadanot vaiomer Agag ahen sar mar-hamavet.",
      "tokens": [
       {
-       "t": "Samuel a spus: „Aduceți-mi-l pe Agag, regele lui Amalek.” Agag a venit la el "
+       "t": "Samuel a spus: „Aduceți-mi-l pe Agag, regele lui Amalek.”",
+       "w": "Samuel a spus: „Aduceți-mi-l pe Agag, regele lui Amalek.”",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל הַגִּישׁוּ אֵלַי אֶת אֲגַג מֶלֶךְ עֲמָלֵק",
+       "translit": "vaiomer șemuēl hagișu ēlai et agag meleh amalēk",
+       "strong": "H6002",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + verb, hifil imperativ + prepoziție + sufix + marcă a complementului direct + nume propriu + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "Samuel a spus: «aduceți-mi-l pe Agag, regele lui Amalek.» (vaiomer șemuēl hagișu ēlai et agag meleh amalēk)",
+       "dict_ro": "După încheierea confruntării cu Șaul, Samuel preia personal execuția poruncii nerespectate — regele amalekit cruțat trebuie, în sfârșit, adus la judecată."
       },
       {
-       "t": "în lanțuri",
-       "w": "în lanțuri",
-       "heb": "מַעֲדַנֹּת",
-       "translit": "maadanot",
+       "t": " "
+      },
+      {
+       "t": "Agag a venit la el în lanțuri",
+       "w": "Agag a venit la el în lanțuri",
+       "heb": "וַיֵּלֶךְ אֵלָיו אֲגַג מַעֲדַנֹּת",
+       "translit": "vaiēleh ēlaiv agag maadanot",
        "strong": "H4574",
-       "pos": "substantiv, masculin și feminin plural",
-       "def_ro": "cu plăcere/în voie, blând (maadanot) — sens incert, posibil „legat” sau „plin de nădejde”.",
-       "dict_ro": "Maadanot e un cuvânt extrem de rar și dificil, tradus divers: „în lanțuri”, „liniștit/cu voioșie” (asumând că Agag se credea scăpat), sau „șovăind”. Septuaginta îl redă „tremurând” (τρέμων) — o interpretare opusă (frică, nu încrezare), dar la fel de incertă ca toate celelalte, semn al unui cuvânt deja neclar traducătorilor antici.",
-       "greek": "τρέμων (tremon)",
-       "greek_def_ro": "τρέμων (tremon) — tremurând — sens opus unora dintre interpretările ebraice tradiționale ale lui maadanot (încrezător/plin de speranță), dar convergent cu altele (legat, îngrijorat).",
-       "diff_ro": "Cuvântul ebraic maadanot e de sens incert; Septuaginta îl traduce „tremurând” (de frică), în timp ce unele interpretări ebraice tradiționale îl citesc mai degrabă ca „încrezător, plin de speranță” — ambiguitate reală a termenului, nu doar diferență de traducere."
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + nume propriu + substantiv, masculin și feminin plural",
+       "def_ro": "Agag a venit la el în lanțuri (vaiēleh ēlaiv agag maadanot)",
+       "dict_ro": "Rashi, citând Targumul: termenul descrie o venire plină de rafinament/mângâiere — fie legat în lanțuri de argint, fie pășind cu o aparentă demnitate regală, convins fiind de propria scăpare."
       },
       {
-       "t": " și Agag [și-]a spus: „Cu siguranță, amărăciunea morții a sosit.”"
+       "t": " "
+      },
+      {
+       "t": "și Agag [și-]a spus: „Cu siguranță,",
+       "w": "și Agag [și-]a spus: „Cu siguranță,",
+       "heb": "וַיֹּאמֶר אֲגָג אָכֵן",
+       "translit": "vaiomer agag ahēn",
+       "strong": "H403",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + adverb",
+       "def_ro": "și Agag [și-]a spus: «cu siguranță, (vaiomer agag ahēn)",
+       "dict_ro": "Momentul de recunoaștere bruscă — Agag realizează, la vederea lui Samuel, că soarta lui s-a decis definitiv."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "amărăciunea morții a sosit.”",
+       "w": "amărăciunea morții a sosit.”",
+       "heb": "סָר מַר הַמָּוֶת",
+       "translit": "sar mar hamavet",
+       "strong": "H4194",
+       "pos": "verb, qal perfect + adjectiv, masculin singular + substantiv, masculin singular",
+       "def_ro": "amărăciunea morții a sosit.” (sar mar hamavet)",
+       "dict_ro": "Rashi: Agag admite sincer, pentru prima dată, apropierea iminentă a morții — spre diferență de speranța nejustificată pe care o avusese probabil în captivitate."
       }
      ],
      "textCompare": [
@@ -11649,7 +13140,53 @@
      "translit": "Vaiomer Șemuel kaașer șikla nașim harbeha ken-tișkal minașim imeha vaișașef Șemuel et-Agag lifnei ADONAI ba'Ghilgal.",
      "tokens": [
       {
-       "t": "Samuel a spus: „Așa cum sabia ta a lăsat femei fără copii, tot așa și mama ta va fi fără copii printre femei!” Și Samuel l-a despicat pe Agag înaintea DOMNULUI în Ghilgal."
+       "t": "Samuel a spus: „Așa cum sabia ta a lăsat femei fără copii,",
+       "w": "Samuel a spus: „Așa cum sabia ta a lăsat femei fără copii,",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל כַּאֲשֶׁר שִׁכְּלָה נָשִׁים חַרְבֶּךָ",
+       "translit": "vaiomer șemuēl kaașer șikla nașim harbeha",
+       "strong": "H2719",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + particulă relativă + verb, piel perfect + substantiv, feminin plural + substantiv, feminin singular construct + sufix",
+       "def_ro": "Samuel a spus: «așa cum sabia ta a lăsat femei fără copii, (vaiomer șemuēl kaașer șikla nașim harbeha)",
+       "dict_ro": "Rashi explică: Agag era vinovat personal de masacrarea fiilor și bărbaților israeliți, lăsând în urmă femei văduve și fără urmași."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tot așa și mama ta va fi fără copii printre femei!”",
+       "w": "tot așa și mama ta va fi fără copii printre femei!”",
+       "heb": "כֵּן תִּשְׁכַּל מִנָּשִׁים אִמֶּךָ",
+       "translit": "kēn tișkal minașim imeha",
+       "strong": "H517",
+       "pos": "particulă demonstrativă + verb, qal imperfect + substantiv, feminin plural + substantiv, feminin singular construct + sufix",
+       "def_ro": "tot așa și mama ta va fi fără copii printre femei!” (kēn tișkal minașim imeha)",
+       "dict_ro": "Sentința aplică exact principiul talionului — pedeapsa oglindește fapta, lipsind propria mamă a lui Agag de fiul ei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și Samuel l-a despicat pe Agag",
+       "w": "Și Samuel l-a despicat pe Agag",
+       "heb": "וַיְשַׁסֵּף שְׁמוּאֵל אֶת אֲגָג",
+       "translit": "vaișasēf șemuēl et agag",
+       "strong": "H90",
+       "pos": "verb, piel imperfect consecutiv + nume propriu + marcă a complementului direct + nume propriu",
+       "def_ro": "și Samuel l-a despicat pe Agag (vaișasēf șemuēl et agag)",
+       "dict_ro": "Rashi: verbul rar descrie o tăiere în bucăți — execuția e dusă la îndeplinire personal de profet, finalizând porunca pe care Șaul o lăsase neîmplinită."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "înaintea DOMNULUI în Ghilgal.",
+       "w": "înaintea DOMNULUI în Ghilgal.",
+       "heb": "לִפְנֵי יְהוָה בַּגִּלְגָּל",
+       "translit": "lifnē Adonai bagilgal",
+       "strong": "H1537",
+       "pos": "substantiv, masculin și feminin plural construct + nume propriu + nume propriu",
+       "def_ro": "înaintea DOMNULUI în Ghilgal. (lifnē Adonai bagilgal)",
+       "dict_ro": "Locul execuției, același Ghilgal unde avusese loc toată confruntarea, devine astfel și locul finalizării poruncii herem."
       }
      ],
      "textCompare": [
@@ -11684,7 +13221,40 @@
      "translit": "Vaieleh Șemuel ha'Ramata ve'Șaul ala el-beito Ghiivat Șaul.",
      "tokens": [
       {
-       "t": "Samuel a mers la Rama, iar Șaul s-a urcat către casa lui, în Ghiivat-Șaul."
+       "t": "Samuel a mers la Rama,",
+       "w": "Samuel a mers la Rama,",
+       "heb": "וַיֵּלֶךְ שְׁמוּאֵל הָרָמָתָה",
+       "translit": "vaiēleh șemuēl haramata",
+       "strong": "H7414",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + nume propriu",
+       "def_ro": "Samuel a mers la Rama, (vaiēleh șemuēl haramata)",
+       "dict_ro": "Rama, orașul natal al lui Samuel, locul unde se va retrage profetul — cei doi se despart definitiv după confruntarea din acest capitol."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar Șaul s-a urcat către casa lui,",
+       "w": "iar Șaul s-a urcat către casa lui,",
+       "heb": "וְשָׁאוּל עָלָה אֶל בֵּיתוֹ",
+       "translit": "veșaul ala el bēto",
+       "strong": "H1004",
+       "pos": "nume propriu + verb, qal perfect + prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "iar Șaul s-a urcat către casa lui, (veșaul ala el bēto)",
+       "dict_ro": "Despărțirea fizică dintre profet și rege marchează simbolic și despărțirea spirituală descrisă pe tot parcursul capitolului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Ghiivat-Șaul.",
+       "w": "în Ghiivat-Șaul.",
+       "heb": "גִּבְעַת שָׁאוּל",
+       "translit": "givat șaul",
+       "strong": "H7586",
+       "pos": "nume propriu + nume propriu",
+       "def_ro": "în Ghiivat-Șaul. (givat șaul)",
+       "dict_ro": "Radak: «Ghiva lui Șaul», orașul natal și reședința regală a lui Șaul, numit chiar după el — locul unde regele se retrage, umbrit de verdictul respingerii divine."
       }
      ],
      "textCompare": [
