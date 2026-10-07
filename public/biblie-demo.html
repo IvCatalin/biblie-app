@@ -1120,6 +1120,7 @@
     flex:1;
   }
   .cal-holiday-go{ margin-left:auto; }
+  .cal-holiday-row-clickable{ cursor:pointer; }
   .cal-empty-note{
     text-align:center;
     color:var(--ink-soft);
@@ -1576,48 +1577,38 @@
     gap:3px;
     padding-right:0;
     margin:18px 0 12px;
+    color:#16294a; /* fallback pentru titlul simplu, cu text direct (ex. Pericopa) */
+    text-transform:none;
   }
-  .ref-preview-popover.rp-parchment .rp-title-he{
-    font-family:'EB Garamond', 'Fraunces', serif;
-    font-size:15.5px;
-    font-weight:700;
-    letter-spacing:0.01em;
-    color:#16294a;
-    max-width:100%;
-    white-space:nowrap;
-    overflow:hidden;
-    text-overflow:ellipsis;
-  }
-  .ref-preview-popover.rp-parchment .rp-title-ro{
-    font-family:'EB Garamond', serif;
-    font-style:italic;
-    font-weight:600;
-    font-size:12.5px;
-    color:#5a4324;
-    max-width:100%;
-    white-space:nowrap;
-    overflow:hidden;
-    text-overflow:ellipsis;
-  }
+  /* Cele 3 rânduri (nume ebraic / traducere română / referință) au aceeași
+     mărime de bază — micșorarea e doar un fallback per-rând, aplicat din JS
+     (vezi fitPreviewTitleLines) DOAR dacă rândul respectiv nu încape pe o
+     singură linie, nu o ierarhie fixă de mărimi. */
+  .ref-preview-popover.rp-parchment .rp-title-he,
+  .ref-preview-popover.rp-parchment .rp-title-ro,
   .ref-preview-popover.rp-parchment .rp-title-ref{
-    font-family:'Inter', sans-serif;
-    font-size:11px;
+    font-family:'EB Garamond', 'Fraunces', serif;
+    font-size:14.5px;
     font-weight:700;
-    letter-spacing:0.05em;
-    color:#8a6314;
+    text-transform:none;
+    letter-spacing:0.01em;
     max-width:100%;
     white-space:nowrap;
     overflow:hidden;
     text-overflow:ellipsis;
   }
+  .ref-preview-popover.rp-parchment .rp-title-he{ color:#16294a; }
+  .ref-preview-popover.rp-parchment .rp-title-ro{ color:#16294a; font-style:italic; font-weight:600; }
+  .ref-preview-popover.rp-parchment .rp-title-ref{ color:#8a6314; font-weight:600; letter-spacing:0.03em; }
   .ref-preview-popover.rp-parchment .ref-preview-text{
     font-family:'EB Garamond', serif;
     font-weight:600;
     font-size:15.5px;
     line-height:1.5;
     color:#3A2614;
-    text-align:center;
+    text-align:left;
   }
+  .ref-preview-popover.rp-parchment .vnum{ color:#16294a; }
   .ref-preview-popover.rp-parchment .ref-preview-go{
     color:#16294a;
     background:rgba(22,41,74,0.12);
@@ -4859,6 +4850,20 @@ function renderPreviewTitle3Lines(titleEl, fullTitle, ref){
     titleEl.appendChild(l3);
   }
 }
+// Micșorează DOAR rândurile de titlu care nu încap pe o singură linie la
+// mărimea de bază (14.5px) — nu o ierarhie fixă de mărimi diferite per rând.
+function fitPreviewTitleLines(titleEl){
+  const minPx = 10;
+  titleEl.querySelectorAll(".rp-title-he, .rp-title-ro, .rp-title-ref").forEach(el => {
+    el.style.fontSize = "";
+    let size = parseFloat(getComputedStyle(el).fontSize);
+    let guard = 40;
+    while(el.scrollWidth > el.clientWidth + 1 && size > minPx && guard-- > 0){
+      size -= 0.5;
+      el.style.fontSize = size + "px";
+    }
+  });
+}
 function showHaftarahPreview(match, anchorEl){
   const titleEl = document.getElementById("ref-preview-title");
   const textEl = document.getElementById("ref-preview-text");
@@ -4885,6 +4890,7 @@ function showHaftarahPreview(match, anchorEl){
   pendingHaftarahNav = hasTarget ? match : null;
   popover.classList.add("show");
   hideWordPopover();
+  fitPreviewTitleLines(titleEl);
 
   if(hasTarget){
     loadHaftarahIntro(match.book, match.idx, (intro) => {
@@ -4893,6 +4899,68 @@ function showHaftarahPreview(match, anchorEl){
     });
   }
 }
+
+// Descrieri scurte (2 fraze) pentru sărbătorile evreiești din "Sărbătorile
+// calendaristice" (Acasă), plus numărul capitolului din Haftarot — Sărbători
+// (HAFTAROT_BOOKS) unde există o lectură dedicată. Hanuca/Purim n-au un
+// capitol legat direct de ziua calendaristică însăși (Hanuca are haftară
+// doar pentru Șabatul care cade în mijlocul ei, Purim nu are deloc) — rămân
+// onest fără buton "citește". Trăiește aici (nu în modulul ES al
+// calendarului) ca să aibă acces direct la HAFTAROT_BOOKS și
+// pendingRefNav/pendingHaftarahNav — un modul ES nu vede niciodată variabilele
+// unui <script> clasic ca identificatori simpli, doar prin window, și acolo
+// doar pentru ce e expus explicit (vezi window.JEWISH_HOLIDAY_INFO mai jos).
+const JEWISH_HOLIDAY_INFO = {
+  "Roș Hașana": { nameRo: "Anul Nou evreiesc", desc: "Anul Nou evreiesc, ziua în care, potrivit tradiției, a fost creat omul — zi de judecată și de sunat din șofar, vestind atât dreptatea cât și mila divină. Se ține două zile la rând, ambele cu aceeași rânduială.", chapterNum: 19 },
+  "Roș Hașana (ziua a doua)": { nameRo: "Anul Nou evreiesc, ziua a doua", desc: "A doua zi a Anului Nou, ținută ca o singură sărbătoare prelungită cu prima, cu aceleași rugăciuni de pocăință și sunatul șofarului. Haftara zilei leagă nașterea lui Samuel de tema rugăciunii ascultate.", chapterNum: 20 },
+  "Iom Kipur": { nameRo: "Ziua Ispășirii", desc: "Ziua Ispășirii, cea mai sfântă zi a anului evreiesc — post deplin de 25 de ore și rugăciune neîntreruptă, pentru ispășirea păcatelor dintre om și Dumnezeu. Se încheie cu sunetul prelung al șofarului, la apusul soarelui.", chapterNum: 21 },
+  "Sucot": { nameRo: "Sărbătoarea Corturilor", desc: "Sărbătoarea Corturilor, când israeliții locuiesc șapte zile în colibe temporare, aducând aminte de popasul din pustiu după ieșirea din Egipt. Se ține laolaltă cu cele patru specii (lulav, etrog, mirt, salcie).", chapterNum: 23 },
+  "Șmini Ațeret": { nameRo: "A opta zi de adunare", desc: "A opta zi de adunare, imediat după Sucot — o sărbătoare de sine stătătoare, de încheiere solemnă, fără poruncile specifice ale colibei sau ale celor patru specii. În diasporă cade în aceeași zi cu Simhat Tora.", chapterNum: 26 },
+  "Simhat Tora": { nameRo: "Bucuria Torei", desc: "Bucuria Torei — ziua în care se încheie și se reîncepe imediat ciclul anual de citire a Torei, sărbătorită cu dansuri și procesiuni cu sulurile Legii. Ultimul capitol al Deuteronomului e citit și legat direct de primul al Genezei.", chapterNum: 27 },
+  "Hanuca (prima lumânare)": { nameRo: "Sărbătoarea Luminilor, prima lumânare", desc: "Sărbătoarea Luminilor, opt zile în care se aprinde câte o lumânare în plus la hanukia, în amintirea minunii untdelemnului din Templul reluat de Macabei. Nu are o haftară proprie — doar Șabatul care cade în cele opt zile are o lectură specială." },
+  "Hanuca (ultima lumânare)": { nameRo: "Sărbătoarea Luminilor, ultima lumânare", desc: "A opta și ultima lumânare a Hanucăi, când hanukia arde în întregime, cu toate cele opt lumini aprinse. Sărbătoarea amintește rededicarea Templului, nu o biruință pe câmpul de luptă." },
+  "Purim": { nameRo: "Sărbătoarea Sorților", desc: "Sărbătoarea care amintește scăparea evreilor din Persia de la nimicirea plănuită de Haman, prăznuită cu citirea Cărții Esterei, daruri și bucurie. Cartea Esterei nu are o haftară proprie în ciclul obișnuit al Sabatului." },
+  "Pesah (prima zi)": { nameRo: "Paștele evreiesc, prima zi", desc: "Paștele evreiesc, amintirea ieșirii din robia Egiptului, deschis cu seder-ul de Paște și interdicția aluatului dospit (hametz) pe toată durata sărbătorii. Haftara primei zile leagă trecerea Iordanului de ieșirea din Egipt.", chapterNum: 10 },
+  "Pesah (ultima zi)": { nameRo: "Paștele evreiesc, ultima zi", desc: "Ultima zi a Pesahului (a opta, în diasporă), care încheie sărbătoarea eliberării din Egipt. Haftara zilei vestește un vlăstar din rădăcina lui Iese și o nouă cântare de izbăvire.", chapterNum: 14 },
+  "Șavuot": { nameRo: "Sărbătoarea Săptămânilor", desc: "Sărbătoarea Săptămânilor, cincizeci de zile după Pesah, care amintește dăruirea Torei pe Muntele Sinai. Haftara zilei are viziunea lui Ezechiel asupra Carului divin, ecou al revelației de la Sinai.", chapterNum: 15 },
+  "Tișa BeAv": { nameRo: "9 Av — ziua de post", desc: "9 Av, ziua de post și jale pentru dărâmarea ambelor Temple din Ierusalim și pentru alte tragedii ale istoriei evreiești. Haftara dimineții e plânsul lui Ieremia pentru pustiirea iminentă a cetății.", chapterNum: 17 },
+};
+window.JEWISH_HOLIDAY_INFO = JEWISH_HOLIDAY_INFO; // citit din modulul ES al calendarului (vezi renderCalendarInto)
+// Previzualizare pentru sărbătorile evreiești din calendar — același panou
+// standard (#ref-preview-popover) folosit la Haftarot/pericope, cu titlul pe
+// linii (nume ebraic / traducere română / referință) și, doar când există un
+// capitol dedicat în Haftarot — Sărbători, butonul "→ citește capitolul".
+function showHolidayPreview(name, anchorEl){
+  const titleEl = document.getElementById("ref-preview-title");
+  const textEl = document.getElementById("ref-preview-text");
+  const popover = document.getElementById("ref-preview-popover");
+  if(!titleEl || !textEl || !popover) return;
+  const info = JEWISH_HOLIDAY_INFO[name];
+
+  popover.classList.add("rp-parchment");
+  popover.classList.remove("rp-theme-light", "rp-theme-sepia");
+  textEl.style.fontFamily = "";
+  textEl.style.fontSize = "";
+
+  let match = null;
+  if(info && info.chapterNum && typeof HAFTAROT_BOOKS !== "undefined"){
+    const book = HAFTAROT_BOOKS.find(b => b.slug === "haftarot-sarbatori");
+    if(book){
+      const idx = book.chapters.findIndex(c => c.num === info.chapterNum);
+      if(idx >= 0) match = { book, idx, title: book.chapters[idx].title, ref: book.chapters[idx].ref };
+    }
+  }
+  renderPreviewTitle3Lines(titleEl, info && info.nameRo ? (name + " - " + info.nameRo) : name, match ? match.ref : "");
+  textEl.textContent = info ? info.desc : "";
+  const goBtn = document.getElementById("ref-preview-go");
+  goBtn.style.display = match ? "" : "none";
+  pendingRefNav = null;
+  pendingHaftarahNav = match;
+  popover.classList.add("show");
+  hideWordPopover();
+  fitPreviewTitleLines(titleEl);
+}
+window.showHolidayPreview = showHolidayPreview; // apelat din modulul ES al calendarului
 
 // Închidere la click în afara panoului (la fel ca la panoul de cuvinte/lexicon),
 // pe lângă butonul "✕", care rămâne disponibil.
@@ -5554,6 +5622,14 @@ versesEl.addEventListener("touchend", (e) => {
 });
 
 bookPill.addEventListener("click", () => {
+  // Dacă citim acum o Haftarah inline (ex. Bereșit - La început, din Haftarot
+  // — Geneza), pila de sus trebuie să redeschidă exact acea listă, nu lista
+  // principală de Cărți de la zero.
+  const haftBook = (typeof window.getCurrentHaftarahBook === "function") ? window.getCurrentHaftarahBook() : null;
+  if(haftBook && typeof window.reopenHaftarahList === "function"){
+    window.reopenHaftarahList(haftBook);
+    return;
+  }
   populatePickerBookList();
   openPicker();
 });
@@ -6198,6 +6274,10 @@ const SUBFOLDER_CARD_IMAGES = {
   }
   window.exitHaftarahInline = exitHaftarahInline;
   window.isHaftarahInline = function(){ return haftarahInlineMode; };
+  // Cartea de Haftarot citită acum inline (ex. "Haftarot — Geneza"), cât timp
+  // suntem în acest mod — folosită de pila "Cărți" de sus, ca s-o poată
+  // redeschide direct la lista corectă, nu la lista principală de cărți.
+  window.getCurrentHaftarahBook = function(){ return haftarahInlineMode ? currentBook : null; };
   // Apelată de setMode() (comutatorul Citire/Aprofundare din antetul tab-ului
   // Biblia, folosit de ambele moduri — canonic și Haftarot) ca să rerandeze
   // Haftara curentă, nu VERSES (care rămâne ascuns cât timp citim o Haftarah).
@@ -6510,12 +6590,15 @@ const SUBFOLDER_CARD_IMAGES = {
     // La lucrări cu titlu propriu per capitol (ex. Haftarot — fiecare "capitol"
     // e de fapt o Haftarah separată, cu titlul ei), pila mică de sus arată acel
     // titlu, nu un simplu număr de capitol generic.
-    readerChapterLabel.textContent = (ch0 && ch0.title) ? ch0.title : "Cap. " + (currentChapterIdx + 1);
+    // Doar varianta română, nu tot titlul bilingv — într-o pilă mică, titlul
+    // complet ("Ebraic - Român") nu încape și se taie urât.
+    const ch0TitleRo = (ch0 && ch0.title && typeof splitHaftarahTitle === "function") ? (splitHaftarahTitle(ch0.title).line2 || ch0.title) : (ch0 && ch0.title);
+    readerChapterLabel.textContent = ch0TitleRo || "Cap. " + (currentChapterIdx + 1);
     // În mod inline (Haftarot citite direct în tab-ul Biblia), pila proprie e
     // ascunsă — se actualizează în loc pila "Cărți" principală (#book-pill-label),
     // exact ca la schimbarea unui capitol din Geneza.
     if(haftarahInlineMode && typeof bookPillLabel !== "undefined" && bookPillLabel){
-      bookPillLabel.textContent = (ch0 && ch0.title) ? ch0.title : (book.name || "");
+      bookPillLabel.textContent = ch0TitleRo || (book.name || "");
     }
     readerBody.innerHTML = "";
     if(book.lazySrc && !book._lazyLoaded){ loadLazyBook(book); return; }
@@ -6576,7 +6659,10 @@ const SUBFOLDER_CARD_IMAGES = {
         head.className = "lib-haft-head";
         const t = document.createElement("div");
         t.className = "lib-reader-book-title";
-        t.textContent = ch.title;
+        // Doar varianta română, nu titlul bilingv complet ("Ebraic - Român") —
+        // acela nu încape pe un rând la titluri mai lungi (ex. "Sabat Hanuca (II)
+        // - Sabatul Luminilor (II)") și se rupe pe 2 rânduri, urât.
+        t.textContent = (typeof splitHaftarahTitle === "function" ? splitHaftarahTitle(ch.title).line2 : "") || ch.title;
         head.appendChild(t);
         if(ch.ref){ const r = document.createElement("div"); r.className = "lib-haft-ref"; r.textContent = ch.ref; head.appendChild(r); }
         if(ch.intro){ const s = document.createElement("div"); s.className = "lib-reader-book-summary"; s.textContent = ch.intro; head.appendChild(s); }
@@ -7791,61 +7877,11 @@ async function initHebrewCalendar(){
     return [];
   }
 
-  // Descrieri scurte (2 fraze) pentru sărbătorile evreiești din calendar, plus
-  // numărul capitolului din Haftarot — Sărbători (HAFTAROT_BOOKS) unde există
-  // o lectură dedicată. Hanuca/Purim n-au un capitol legat direct de ziua
-  // calendaristică însăși (Hanuca are haftară doar pentru Șabatul care cade
-  // în mijlocul ei, Purim nu are deloc) — rămân onest fără buton "citește".
-  const JEWISH_HOLIDAY_INFO = {
-    "Roș Hașana": { desc: "Anul Nou evreiesc, ziua în care, potrivit tradiției, a fost creat omul — zi de judecată și de sunat din șofar, vestind atât dreptatea cât și mila divină. Se ține două zile la rând, ambele cu aceeași rânduială.", chapterNum: 19 },
-    "Roș Hașana (ziua a doua)": { desc: "A doua zi a Anului Nou, ținută ca o singură sărbătoare prelungită cu prima, cu aceleași rugăciuni de pocăință și sunatul șofarului. Haftara zilei leagă nașterea lui Samuel de tema rugăciunii ascultate.", chapterNum: 20 },
-    "Iom Kipur": { desc: "Ziua Ispășirii, cea mai sfântă zi a anului evreiesc — post deplin de 25 de ore și rugăciune neîntreruptă, pentru ispășirea păcatelor dintre om și Dumnezeu. Se încheie cu sunetul prelung al șofarului, la apusul soarelui.", chapterNum: 21 },
-    "Sucot": { desc: "Sărbătoarea Corturilor, când israeliții locuiesc șapte zile în colibe temporare, aducând aminte de popasul din pustiu după ieșirea din Egipt. Se ține laolaltă cu cele patru specii (lulav, etrog, mirt, salcie).", chapterNum: 23 },
-    "Șmini Ațeret": { desc: "A opta zi de adunare, imediat după Sucot — o sărbătoare de sine stătătoare, de încheiere solemnă, fără poruncile specifice ale colibei sau ale celor patru specii. În diasporă cade în aceeași zi cu Simhat Tora.", chapterNum: 26 },
-    "Simhat Tora": { desc: "Bucuria Torei — ziua în care se încheie și se reîncepe imediat ciclul anual de citire a Torei, sărbătorită cu dansuri și procesiuni cu sulurile Legii. Ultimul capitol al Deuteronomului e citit și legat direct de primul al Genezei.", chapterNum: 27 },
-    "Hanuca (prima lumânare)": { desc: "Sărbătoarea Luminilor, opt zile în care se aprinde câte o lumânare în plus la hanukia, în amintirea minunii untdelemnului din Templul reluat de Macabei. Nu are o haftară proprie — doar Șabatul care cade în cele opt zile are o lectură specială." },
-    "Hanuca (ultima lumânare)": { desc: "A opta și ultima lumânare a Hanucăi, când hanukia arde în întregime, cu toate cele opt lumini aprinse. Sărbătoarea amintește rededicarea Templului, nu o biruință pe câmpul de luptă." },
-    "Purim": { desc: "Sărbătoarea care amintește scăparea evreilor din Persia de la nimicirea plănuită de Haman, prăznuită cu citirea Cărții Esterei, daruri și bucurie. Cartea Esterei nu are o haftară proprie în ciclul obișnuit al Sabatului." },
-    "Pesah (prima zi)": { desc: "Paștele evreiesc, amintirea ieșirii din robia Egiptului, deschis cu seder-ul de Paște și interdicția aluatului dospit (hametz) pe toată durata sărbătorii. Haftara primei zile leagă trecerea Iordanului de ieșirea din Egipt.", chapterNum: 10 },
-    "Pesah (ultima zi)": { desc: "Ultima zi a Pesahului (a opta, în diasporă), care încheie sărbătoarea eliberării din Egipt. Haftara zilei vestește un vlăstar din rădăcina lui Iese și o nouă cântare de izbăvire.", chapterNum: 14 },
-    "Șavuot": { desc: "Sărbătoarea Săptămânilor, cincizeci de zile după Pesah, care amintește dăruirea Torei pe Muntele Sinai. Haftara zilei are viziunea lui Ezechiel asupra Carului divin, ecou al revelației de la Sinai.", chapterNum: 15 },
-    "Tișa BeAv": { desc: "9 Av, ziua de post și jale pentru dărâmarea ambelor Temple din Ierusalim și pentru alte tragedii ale istoriei evreiești. Haftara dimineții e plânsul lui Ieremia pentru pustiirea iminentă a cetății.", chapterNum: 17 },
-  };
-  // Previzualizare pentru sărbătorile evreiești din calendar — același panou
-  // standard (#ref-preview-popover) folosit la Haftarot/pericope, cu o
-  // descriere fixă de 2 fraze și, doar când există un capitol dedicat în
-  // Haftarot — Sărbători, butonul "→ citește capitolul".
-  function showHolidayPreview(name, anchorEl){
-    const titleEl = document.getElementById("ref-preview-title");
-    const textEl = document.getElementById("ref-preview-text");
-    const popover = document.getElementById("ref-preview-popover");
-    if(!titleEl || !textEl || !popover) return;
-    const info = JEWISH_HOLIDAY_INFO[name];
-
-    const refPrefs = vsGetTextPrefs();
-    const refFontObj = VS_FONTS.find(f => f.id === refPrefs.font) || VS_FONTS[0];
-    popover.classList.remove("rp-theme-light", "rp-theme-sepia");
-    if(refPrefs.theme === "light" || refPrefs.theme === "sepia") popover.classList.add("rp-theme-" + refPrefs.theme);
-    textEl.style.fontFamily = refFontObj.css;
-    textEl.style.fontSize = Math.min(14, refPrefs.size) + "px";
-
-    let match = null;
-    if(info && info.chapterNum && typeof HAFTAROT_BOOKS !== "undefined"){
-      const book = HAFTAROT_BOOKS.find(b => b.slug === "haftarot-sarbatori");
-      if(book){
-        const idx = book.chapters.findIndex(c => c.num === info.chapterNum);
-        if(idx >= 0) match = { book, idx, title: book.chapters[idx].title, ref: book.chapters[idx].ref };
-      }
-    }
-    titleEl.textContent = match ? (name + " — " + match.ref) : name;
-    textEl.textContent = info ? info.desc : "";
-    const goBtn = document.getElementById("ref-preview-go");
-    goBtn.style.display = match ? "" : "none";
-    pendingRefNav = null;
-    pendingHaftarahNav = match;
-    popover.classList.add("show");
-    hideWordPopover();
-  }
+  // JEWISH_HOLIDAY_INFO și showHolidayPreview() trăiesc în scriptul principal
+  // (nu aici, în modulul ES) — au nevoie de acces direct la HAFTAROT_BOOKS și
+  // pendingRefNav/pendingHaftarahNav, variabile ale scriptului clasic pe care
+  // un modul ES nu le vede niciodată ca identificatori simpli (scope separat),
+  // doar prin window. Vezi definiția lor lângă showHaftarahPreview.
 
   function sameDay(a,b){ return a.getFullYear()===b.getFullYear() && a.getMonth()===b.getMonth() && a.getDate()===b.getDate(); }
 
@@ -7915,11 +7951,16 @@ async function initHebrewCalendar(){
       monthHolidayHits.sort((a,b) => a.date - b.date).forEach(h => {
         const row = document.createElement("div");
         row.className = "cal-holiday-row";
-        row.innerHTML = '<span class="cal-holiday-date">' + h.date.getDate() + ' ' + LUNI_RO[h.date.getMonth()].slice(0,3) + '</span><span class="cal-holiday-name">' + h.name + '</span>';
+        const info = system === "he" ? JEWISH_HOLIDAY_INFO[h.name] : null;
+        const nameLabel = info && info.nameRo ? (h.name + " - " + info.nameRo) : h.name;
+        row.innerHTML = '<span class="cal-holiday-date">' + h.date.getDate() + ' ' + LUNI_RO[h.date.getMonth()].slice(0,3) + '</span><span class="cal-holiday-name">' + nameLabel + '</span>';
         // Săgeata cu previzualizare (descriere +, unde există, "citește capitolul")
         // e disponibilă doar la calendarul evreiesc — singurul cu lecturi biblice
         // asociate direct în aplicație; Românesc/German n-au o destinație de citit.
+        // Tot rândul e clic-abil (nu doar săgeata), ca un rând obișnuit de listă.
         if(system === "he"){
+          row.classList.add("cal-holiday-row-clickable");
+          row.addEventListener("click", () => showHolidayPreview(h.name, row));
           const btn = document.createElement("button");
           btn.className = "pericope-ref-go ref-pill-clickable cal-holiday-go";
           btn.title = "Vezi sărbătoarea";
