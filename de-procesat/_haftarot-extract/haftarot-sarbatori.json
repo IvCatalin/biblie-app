@@ -21971,17 +21971,53 @@
      "translit": "Haita alai iad-ADONAI vaioțieni veruah ADONAI vainiheni betoh habika vehi meleá atzmot.",
      "tokens": [
       {
-       "t": "Mâna DOMNULUI",
-       "w": "Mâna DOMNULUI",
-       "heb": "יַד יְהוָה",
-       "translit": "iad Adonai",
+       "t": "Mâna DOMNULUI a fost asupra mea",
+       "w": "Mâna DOMNULUI a fost asupra mea",
+       "heb": "הָיְתָה עָלַי יַד יְהוָה",
+       "translit": "haita alai iad Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "mâna DOMNULUI (iad Adonai).",
-       "dict_ro": "Rashi explică: expresia „mâna DOMNULUI”, de câte ori apare în context profetic, denotă o constrângere — duhul îl împinge pe profet să meargă, ca într-o răpire extatică, spre locul pe care duhul îl vrea. Tradiția (citată de Rashi din Sanhedrin 92b) identifică oasele din vale cu bărbații din tribul lui Efraim, care au ieșit din Egipt înainte de vremea hotărâtă pentru eliberare și au fost uciși de locuitorii din Gat."
+       "pos": "verb, qal perfect + prepoziție + sufix + substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "mâna DOMNULUI a fost asupra mea (haita alai iad Adonai)",
+       "dict_ro": "Rashi: expresia «mâna DOMNULUI» în context profetic denotă o constrângere divină — profetul e purtat, aproape fără voie proprie, spre locul unde Duhul dorește să-l ducă."
       },
       {
-       "t": " a fost asupra mea și m-a scos, prin duhul DOMNULUI, și m-a lăsat jos în mijlocul văii, care era plină de oase."
+       "t": " "
+      },
+      {
+       "t": "și m-a scos, prin duhul DOMNULUI,",
+       "w": "și m-a scos, prin duhul DOMNULUI,",
+       "heb": "וַיּוֹצִאֵנִי בְרוּחַ יְהוָה",
+       "translit": "vaioțiēni veruah Adonai",
+       "strong": "H3068",
+       "pos": "verb, hifil imperfect consecutiv + sufix + substantiv, masculin și feminin singular construct + nume propriu",
+       "def_ro": "și m-a scos, prin duhul DOMNULUI, (vaioțiēni veruah Adonai)",
+       "dict_ro": "Experiența vizionară se petrece prin puterea duhului profetic, nu printr-o deplasare fizică literală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și m-a lăsat jos în mijlocul văii,",
+       "w": "și m-a lăsat jos în mijlocul văii,",
+       "heb": "וַיְנִיחֵנִי בְּתוֹךְ הַבִּקְעָה",
+       "translit": "vainihēni betoh habika",
+       "strong": "H1237",
+       "pos": "verb, hifil imperfect consecutiv + sufix + substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "și m-a lăsat jos în mijlocul văii, (vainihēni betoh habika)",
+       "dict_ro": "Radak notează posibilitatea ca această vale să fie aceeași menționată la începutul cărții, locul unde profetului i se arătase deja viziunea carului divin."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care era plină de oase.",
+       "w": "care era plină de oase.",
+       "heb": "וְהִיא מְלֵאָה עֲצָמוֹת",
+       "translit": "vehi melēa ațamot",
+       "strong": "H6106",
+       "pos": "pronume personal + adjectiv, feminin singular + substantiv, feminin plural",
+       "def_ro": "care era plină de oase. (vehi melēa ațamot)",
+       "dict_ro": "Rashi, citând tradiția din Sanhedrin 92b: oasele identificate ca aparținând tribului lui Efraim, care au încercat să iasă din Egipt înainte de vremea rânduită și au fost uciși de locuitorii din Gat."
       }
      ],
      "textCompare": [
@@ -22017,7 +22053,40 @@
      "translit": "Vehevirani aleihem saviv saviv vehine rabot meod al-penei habika vehine ieveșot meod.",
      "tokens": [
       {
-       "t": "Și m-a făcut să trec pe lângă ele, de jur împrejur, și iată, erau foarte multe pe suprafața văii și iată, erau foarte uscate."
+       "t": "Și m-a făcut să trec pe lângă ele, de jur împrejur,",
+       "w": "Și m-a făcut să trec pe lângă ele, de jur împrejur,",
+       "heb": "וְהֶעֱבִירַנִי עֲלֵיהֶם סָבִיב סָבִיב",
+       "translit": "veheevirani alēhem saviv saviv",
+       "strong": "H5439",
+       "pos": "verb, hifil perfect + sufix + prepoziție + sufix + substantiv, masculin și feminin singular + substantiv, masculin și feminin singular",
+       "def_ro": "și m-a făcut să trec pe lângă ele, de jur împrejur, (veheevirani alēhem saviv saviv)",
+       "dict_ro": "Rashi: profetul a fost dus doar în jurul văii, nu printre oase, pentru a nu se pângări ritual, fiind el însuși preot."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și iată, erau foarte multe pe suprafața văii",
+       "w": "și iată, erau foarte multe pe suprafața văii",
+       "heb": "וְהִנֵּה רַבּוֹת מְאֹד עַל פְּנֵי הַבִּקְעָה",
+       "translit": "vehinē rabot meod al penē habika",
+       "strong": "H1237",
+       "pos": "particulă demonstrativă + adjectiv, feminin plural + adverb + prepoziție + substantiv, masculin și feminin plural construct + substantiv, feminin singular",
+       "def_ro": "și iată, erau foarte multe pe suprafața văii (vehinē rabot meod al penē habika)",
+       "dict_ro": "Amploarea vizuală a devastării — nu câteva oase izolate, ci o întindere masivă, confirmând dimensiunea catastrofei reprezentate simbolic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și iată, erau foarte uscate.",
+       "w": "și iată, erau foarte uscate.",
+       "heb": "וְהִנֵּה יְבֵשׁוֹת מְאֹד",
+       "translit": "vehinē ievēșot meod",
+       "strong": "H3966",
+       "pos": "particulă demonstrativă + adjectiv, feminin plural + adverb",
+       "def_ro": "și iată, erau foarte uscate. (vehinē ievēșot meod)",
+       "dict_ro": "Uscăciunea extremă confirmă vechimea morții — nu cadavre recente, ci oase complet lipsite de orice urmă de viață, pregătind contrastul maxim cu minunea învierii."
       }
      ],
      "textCompare": [
@@ -22047,7 +22116,53 @@
      "translit": "Vaiomer elai ben-adam hatihiena haatzamot haele vaomar Adonai ELOHIM ata iadata.",
      "tokens": [
       {
-       "t": "Apoi mi-a spus: „Fiu al omului, oare pot să trăiască aceste oase?” Iar eu am spus: „Stăpâne, Doamne DUMNEZEULE, Tu știi.”"
+       "t": "Apoi mi-a spus: „Fiu al omului,",
+       "w": "Apoi mi-a spus: „Fiu al omului,",
+       "heb": "וַיֹּאמֶר אֵלַי בֶּן אָדָם",
+       "translit": "vaiomer ēlai ben adam",
+       "strong": "H120",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "apoi mi-a spus: «fiu al omului, (vaiomer ēlai ben adam)",
+       "dict_ro": "Titlul standard folosit pentru profetul Ezechiel, accentuând fragilitatea umană în fața revelației divine copleșitoare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "oare pot să trăiască aceste oase?”",
+       "w": "oare pot să trăiască aceste oase?”",
+       "heb": "הֲתִחְיֶינָה הָעֲצָמוֹת הָאֵלֶּה",
+       "translit": "hatihiena haațamot haēle",
+       "strong": "H428",
+       "pos": "verb, qal imperfect + substantiv, feminin plural + pronume demonstrativ",
+       "def_ro": "oare pot să trăiască aceste oase?” (hatihiena haațamot haēle)",
+       "dict_ro": "Rashi: întrebarea testează percepția proprie a profetului — pare posibil, în ochii tăi omenești, ca aceste oase să trăiască?"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iar eu am spus: „Stăpâne, Doamne DUMNEZEULE,",
+       "w": "Iar eu am spus: „Stăpâne, Doamne DUMNEZEULE,",
+       "heb": "וָאֹמַר אֲדֹנָי יְהוִה",
+       "translit": "vaomar adonai Adonai",
+       "strong": "H3069",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin plural construct + sufix + nume propriu",
+       "def_ro": "iar eu am spus: «stăpâne, Doamne DUMNEZEULE, (vaomar adonai Adonai)",
+       "dict_ro": "Răspunsul smerit al profetului, recunoscând limitele propriei înțelegeri față de atotputernicia divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Tu știi.”",
+       "w": "Tu știi.”",
+       "heb": "אַתָּה יָדָעְתָּ",
+       "translit": "ata iadata",
+       "strong": "H3045",
+       "pos": "pronume personal + verb, qal perfect",
+       "def_ro": "Tu știi.” (ata iadata)",
+       "dict_ro": "Metzudat David: după legile firii, răspunsul ar fi negativ, dar dacă voința divină dorește, oasele vor trăi — doar Dumnezeu cunoaște cu certitudine răspunsul."
       }
      ],
      "textCompare": [
@@ -22077,7 +22192,53 @@
      "translit": "Vaiomer elai hinave al-haatzamot haele veamarta aleihem haatzamot haieveșot șimu devar-ADONAI.",
      "tokens": [
       {
-       "t": "[DOMNUL] mi-a spus: „Profețește asupra acestor oase și spune-le: «O, oase uscate, ascultați cuvântul DOMNULUI!"
+       "t": "[DOMNUL] mi-a spus: „Profețește asupra acestor oase",
+       "w": "[DOMNUL] mi-a spus: „Profețește asupra acestor oase",
+       "heb": "וַיֹּאמֶר אֵלַי הִנָּבֵא עַל הָעֲצָמוֹת הָאֵלֶּה",
+       "translit": "vaiomer ēlai hinavē al haațamot haēle",
+       "strong": "H428",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + verb, nifal imperativ + prepoziție + substantiv, feminin plural + pronume demonstrativ",
+       "def_ro": "[DOMNUL] mi-a spus: «profețește asupra acestor oase (vaiomer ēlai hinavē al haațamot haēle)",
+       "dict_ro": "Porunca directă declanșează acțiunea profetică — cuvântul rostit devine instrumentul prin care se va realiza minunea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și spune-le:",
+       "w": "și spune-le:",
+       "heb": "וְאָמַרְתָּ אֲלֵיהֶם",
+       "translit": "veamarta alēhem",
+       "strong": "H413",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix",
+       "def_ro": "și spune-le: (veamarta alēhem)",
+       "dict_ro": "Profetul trebuie să se adreseze direct oaselor, deși lipsite de viață — un act de credință în puterea cuvântului profetic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "«O, oase uscate,",
+       "w": "«O, oase uscate,",
+       "heb": "הָעֲצָמוֹת הַיְבֵשׁוֹת",
+       "translit": "haațamot haivēșot",
+       "strong": "H3002",
+       "pos": "substantiv, feminin plural + adjectiv, feminin plural",
+       "def_ro": "«o, oase uscate, (haațamot haivēșot)",
+       "dict_ro": "Repetă descrierea stării de maximă deteriorare, accentuând contrastul care urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ascultați cuvântul DOMNULUI!",
+       "w": "ascultați cuvântul DOMNULUI!",
+       "heb": "שִׁמְעוּ דְּבַר יְהוָה",
+       "translit": "șimu devar Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal imperativ + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "ascultați cuvântul DOMNULUI! (șimu devar Adonai)",
+       "dict_ro": "Chemarea paradoxală la ascultare adresată unor oase moarte — pregătește minunea transformării iminente."
       }
      ],
      "textCompare": [
@@ -22108,7 +22269,40 @@
      "translit": "Ko amar Adonai ELOHIM laatzamot haele hine ani mevi vahem ruah vihiitem.",
      "tokens": [
       {
-       "t": "Astfel a spus Stăpânul meu, Domnul DUMNEZEU acestor oase: ‘Iată, Eu voi aduce duh în voi și veți trăi."
+       "t": "Astfel a spus Stăpânul meu, Domnul DUMNEZEU acestor oase:",
+       "w": "Astfel a spus Stăpânul meu, Domnul DUMNEZEU acestor oase:",
+       "heb": "כֹּה אָמַר אֲדֹנָי יְהוִה לָעֲצָמוֹת הָאֵלֶּה",
+       "translit": "ko amar adonai Adonai laațamot haēle",
+       "strong": "H428",
+       "pos": "adverb + verb, qal perfect + substantiv, masculin plural construct + sufix + nume propriu + substantiv, feminin plural + pronume demonstrativ",
+       "def_ro": "astfel a spus Stăpânul meu, Domnul DUMNEZEU acestor oase: (ko amar adonai Adonai laațamot haēle)",
+       "dict_ro": "Formula solemnă de adresare directă, chiar și unor oase inerte — autoritatea cuvântului divin transcende starea obiectului adresat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "‘Iată, Eu voi aduce duh în voi",
+       "w": "‘Iată, Eu voi aduce duh în voi",
+       "heb": "הִנֵּה אֲנִי מֵבִיא בָכֶם רוּחַ",
+       "translit": "hinē ani mēvi vahem ruah",
+       "strong": "H7307",
+       "pos": "particulă demonstrativă + pronume personal + verb, hifil participiu + prepoziție + sufix + substantiv, masculin și feminin singular",
+       "def_ro": "‘iată, Eu voi aduce duh în voi (hinē ani mēvi vahem ruah)",
+       "dict_ro": "Radak notează ordinea precisă a procesului de reînviere descris în continuare — tendoane, carne, piele, apoi duhul final, repetând simbolic etapele formării embrionului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și veți trăi.",
+       "w": "și veți trăi.",
+       "heb": "וִחְיִיתֶם",
+       "translit": "vihitem",
+       "strong": "H2421",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și veți trăi. (vihitem)",
+       "dict_ro": "Promisiunea directă a vieții, consecința necesară a venirii duhului divin."
       }
      ],
      "textCompare": [
@@ -22139,7 +22333,66 @@
      "translit": "Venatati aleihem ghidim vehaaleti aleihem basar vekaramti aleihem or venatati vahem ruah vihiitem vidatem ki-ani ADONAI.",
      "tokens": [
       {
-       "t": "Voi pune tendoane pe voi și voi aduce carne pe voi și vă voi acoperi cu piele. Apoi voi pune duh în voi și veți trăi; și veți ști că Eu sunt DOMNUL.’»”"
+       "t": "Voi pune tendoane pe voi",
+       "w": "Voi pune tendoane pe voi",
+       "heb": "וְנָתַתִּי עֲלֵיכֶם גִּדִים",
+       "translit": "venatati alēhem gidim",
+       "strong": "H1517",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + substantiv, masculin plural",
+       "def_ro": "voi pune tendoane pe voi (venatati alēhem gidim)",
+       "dict_ro": "Rashi, printr-o comparație cu Iov 10:11: deși Iov menționează ordinea inversă a creației embrionului, rabinii explică diferența prin paralela cu îmbrăcarea — ultima haină scoasă e prima îmbrăcată din nou, dar la formarea inițială a fătului ordinea reală e piele-carne întâi, apoi oase-tendoane."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și voi aduce carne pe voi",
+       "w": "și voi aduce carne pe voi",
+       "heb": "וְהַעֲלֵתִי עֲלֵיכֶם בָּשָׂר",
+       "translit": "vehaalēti alēhem basar",
+       "strong": "H1320",
+       "pos": "verb, hifil perfect consecutiv + prepoziție + sufix + substantiv, masculin singular",
+       "def_ro": "și voi aduce carne pe voi (vehaalēti alēhem basar)",
+       "dict_ro": "Al doilea strat al reconstrucției corporale, urmând direct după tendoanele care leagă oasele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și vă voi acoperi cu piele.",
+       "w": "și vă voi acoperi cu piele.",
+       "heb": "וְקָרַמְתִּי עֲלֵיכֶם עוֹר",
+       "translit": "vekaramti alēhem or",
+       "strong": "H5785",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + substantiv, masculin singular",
+       "def_ro": "și vă voi acoperi cu piele. (vekaramti alēhem or)",
+       "dict_ro": "Rashi: verbul rar «vekaramti» descrie formarea unei membrane/cruste, imaginea exactă a pielii care acoperă complet corpul reconstruit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Apoi voi pune duh în voi și veți trăi;",
+       "w": "Apoi voi pune duh în voi și veți trăi;",
+       "heb": "וְנָתַתִּי בָכֶם רוּחַ וִחְיִיתֶם",
+       "translit": "venatati vahem ruah vihitem",
+       "strong": "H2421",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + substantiv, masculin și feminin singular + verb, qal perfect consecutiv",
+       "def_ro": "apoi voi pune duh în voi și veți trăi; (venatati vahem ruah vihitem)",
+       "dict_ro": "Repetiția promisiunii de la v.5, acum ca etapă finală, după completarea structurii fizice complete."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și veți ști că Eu sunt DOMNUL.’»”",
+       "w": "și veți ști că Eu sunt DOMNUL.’»”",
+       "heb": "וִידַעְתֶּם כִּי אֲנִי יְהוָה",
+       "translit": "vidatem ki ani Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal perfect consecutiv + conjuncție + pronume personal + nume propriu",
+       "def_ro": "și veți ști că Eu sunt DOMNUL.’»” (vidatem ki ani Adonai)",
+       "dict_ro": "Scopul final al întregii minuni — recunoașterea certă a lui Dumnezeu prin experiența directă a reînvierii."
       }
      ],
      "textCompare": [
@@ -22169,20 +22422,53 @@
      "translit": "Venibeti kaașer țuveiti vaihi-kol kehinavei vehine-raaș vatikrevu atzmot etzem el-atzmo.",
      "tokens": [
       {
-       "t": "Iar eu am profețit precum mi se poruncise și a fost un sunet când profețeam și iată, un "
+       "t": "Iar eu am profețit precum mi se poruncise",
+       "w": "Iar eu am profețit precum mi se poruncise",
+       "heb": "וְנִבֵּאתִי כַּאֲשֶׁר צֻוֵּיתִי",
+       "translit": "venibēti kaașer țuvēti",
+       "strong": "H6680",
+       "pos": "verb, nifal perfect + particulă relativă + verb, pual perfect",
+       "def_ro": "iar eu am profețit precum mi se poruncise (venibēti kaașer țuvēti)",
+       "dict_ro": "Confirmă ascultarea imediată și totală a profetului, fără ezitare, în fața poruncii aparent absurde de a vorbi oaselor."
       },
       {
-       "t": "huruit",
-       "w": "huruit",
-       "heb": "רַעַשׁ",
-       "translit": "raaș",
+       "t": " "
+      },
+      {
+       "t": "și a fost un sunet când profețeam",
+       "w": "și a fost un sunet când profețeam",
+       "heb": "וַיְהִי קוֹל כְּהִנָּבְאִי",
+       "translit": "vaihi kol kehinavi",
+       "strong": "H5012",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + verb, nifal infinitiv + sufix",
+       "def_ro": "și a fost un sunet când profețeam (vaihi kol kehinavi)",
+       "dict_ro": "Primul semn vizibil al minunii — un sunet real, confirmând că profeția declanșează un eveniment fizic concret."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și iată, un huruit,",
+       "w": "și iată, un huruit,",
+       "heb": "וְהִנֵּה רַעַשׁ",
+       "translit": "vehinē raaș",
        "strong": "H7494",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "vuiet, cutremur (raaș).",
-       "dict_ro": "Raaș — același cuvânt folosit pentru „cutremur” la teofania de pe Horeb (1 Împărați 19:11-12) — sugerează că reunirea oaselor are o calitate cosmică, nu doar biologică, un eveniment la fel de solemn ca o manifestare divină directă."
+       "pos": "particulă demonstrativă + substantiv, masculin singular",
+       "def_ro": "și iată, un huruit, (vehinē raaș)",
+       "dict_ro": "Rashi: zgomotul e produs chiar de oase, care se ciocnesc și se lovesc una de alta în timp ce se deplasează."
       },
       {
-       "t": ", și oasele s-au apropiat unele de celelalte."
+       "t": " "
+      },
+      {
+       "t": "și oasele s-au apropiat unele de celelalte.",
+       "w": "și oasele s-au apropiat unele de celelalte.",
+       "heb": "וַתִּקְרְבוּ עֲצָמוֹת עֶצֶם אֶל עַצְמוֹ",
+       "translit": "vatikrevu ațamot ețem el ațmo",
+       "strong": "H6106",
+       "pos": "verb, qal imperfect consecutiv + substantiv, feminin plural + substantiv, feminin singular + prepoziție + substantiv, feminin singular construct + sufix",
+       "def_ro": "și oasele s-au apropiat unele de celelalte. (vatikrevu ețem el ațmo)",
+       "dict_ro": "Rashi: oriunde fuseseră împrăștiate, oasele sar și se apropie fiecare exact de locul său de articulare originar, refăcând structura scheletică corectă."
       }
      ],
      "textCompare": [
@@ -22212,7 +22498,53 @@
      "translit": "Veraiti vehine-aleihem ghidim uvasar ala vaikram aleihem or milmaala veruah ein bahem.",
      "tokens": [
       {
-       "t": "Apoi m-am uitat și iată, tendoane erau peste ele și carne apăruse și fuseseră acoperite de piele, dar duh nu era în ele."
+       "t": "Apoi m-am uitat și iată, tendoane erau peste ele",
+       "w": "Apoi m-am uitat și iată, tendoane erau peste ele",
+       "heb": "וְרָאִיתִי וְהִנֵּה עֲלֵיהֶם גִּדִים",
+       "translit": "veraiti vehinē alēhem gidim",
+       "strong": "H1517",
+       "pos": "verb, qal perfect + particulă demonstrativă + prepoziție + sufix + substantiv, masculin plural",
+       "def_ro": "apoi m-am uitat și iată, tendoane erau peste ele (veraiti vehinē alēhem gidim)",
+       "dict_ro": "Confirmarea vizuală directă a primei etape a reconstrucției — tendoanele deja formate, legând scheletul reasamblat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și carne apăruse",
+       "w": "și carne apăruse",
+       "heb": "וּבָשָׂר עָלָה",
+       "translit": "uvasar ala",
+       "strong": "H5927",
+       "pos": "substantiv, masculin singular + verb, qal perfect",
+       "def_ro": "și carne apăruse (uvasar ala)",
+       "dict_ro": "A doua etapă, carnea crescând vizibil peste structura tendoanelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și fuseseră acoperite de piele,",
+       "w": "și fuseseră acoperite de piele,",
+       "heb": "וַיִּקְרַם עֲלֵיהֶם עוֹר מִלְמָעְלָה",
+       "translit": "vaikram alēhem or milmala",
+       "strong": "H4605",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv, masculin singular + adverb",
+       "def_ro": "și fuseseră acoperite de piele, (vaikram alēhem or milmala)",
+       "dict_ro": "Finalizarea structurii fizice externe — pielea completează aspectul exterior complet al corpului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dar duh nu era în ele.",
+       "w": "dar duh nu era în ele.",
+       "heb": "וְרוּחַ אֵין בָּהֶם",
+       "translit": "veruah ēn bahem",
+       "strong": "",
+       "pos": "substantiv, masculin și feminin singular + particulă negativă + prepoziție + sufix",
+       "def_ro": "dar duh nu era în ele. (veruah ēn bahem)",
+       "dict_ro": "Elementul crucial lipsă — reconstrucția fizică completă, dar fără viață reală, pregătind a doua profeție necesară, adresată de această dată duhului însuși."
       }
      ],
      "textCompare": [
@@ -22240,7 +22572,92 @@
      "translit": "Vaiomer elai hinave el-haruah hinave ven-adam veamarta el-haruah ko-amar Adonai ELOHIM mearba ruhot boi haruah ufehi baharugim haele veihiu.",
      "tokens": [
       {
-       "t": "Apoi El mi-a spus: „Profețește duhului, profețește, fiu al omului, și spune duhului: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Din cele patru vânturi vino, duhule, și suflă în acești uciși și ei vor trăi!’»”."
+       "t": "Apoi El mi-a spus: „Profețește duhului,",
+       "w": "Apoi El mi-a spus: „Profețește duhului,",
+       "heb": "וַיֹּאמֶר אֵלַי הִנָּבֵא אֶל הָרוּחַ",
+       "translit": "vaiomer ēlai hinavē el haruah",
+       "strong": "H7307",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + verb, nifal imperativ + prepoziție + substantiv, masculin și feminin singular",
+       "def_ro": "apoi El mi-a spus: «profețește duhului, (vaiomer ēlai hinavē el haruah)",
+       "dict_ro": "A doua profeție, distinctă de prima — nu doar oaselor reconstituite, ci duhului însuși, chemat separat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "profețește, fiu al omului,",
+       "w": "profețește, fiu al omului,",
+       "heb": "הִנָּבֵא בֶן אָדָם",
+       "translit": "hinavē ven adam",
+       "strong": "H120",
+       "pos": "verb, nifal imperativ + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "profețește, fiu al omului, (hinavē ven adam)",
+       "dict_ro": "Repetiția imperativului accentuează urgența și gravitatea acestei a doua chemări profetice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și spune duhului:",
+       "w": "și spune duhului:",
+       "heb": "וְאָמַרְתָּ אֶל הָרוּחַ",
+       "translit": "veamarta el haruah",
+       "strong": "H7307",
+       "pos": "verb, qal perfect consecutiv + prepoziție + substantiv, masculin și feminin singular",
+       "def_ro": "și spune duhului: (veamarta el haruah)",
+       "dict_ro": "Adresarea directă, personificată, a duhului vieții, chemat ca o entitate distinctă care trebuie convinsă să vină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "«Așa a spus Stăpânul meu, Domnul DUMNEZEU:",
+       "w": "«Așa a spus Stăpânul meu, Domnul DUMNEZEU:",
+       "heb": "כֹּה אָמַר אֲדֹנָי יְהוִה",
+       "translit": "ko amar adonai Adonai",
+       "strong": "H3069",
+       "pos": "adverb + verb, qal perfect + substantiv, masculin plural construct + sufix + nume propriu",
+       "def_ro": "«așa a spus Stăpânul meu, Domnul DUMNEZEU: (ko amar adonai Adonai)",
+       "dict_ro": "Formulă solemnă de autentificare divină a mesajului transmis duhului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "‘Din cele patru vânturi vino, duhule,",
+       "w": "‘Din cele patru vânturi vino, duhule,",
+       "heb": "מֵאַרְבַּע רוּחוֹת בֹּאִי הָרוּחַ",
+       "translit": "mēarba ruhot boi haruah",
+       "strong": "H7307",
+       "pos": "numeral + substantiv, masculin și feminin plural + verb, qal imperativ + substantiv, masculin și feminin singular",
+       "def_ro": "‘din cele patru vânturi vino, duhule, (mēarba ruhot boi haruah)",
+       "dict_ro": "Rashi: sufletele celor morți s-au risipit în toate cele patru direcții ale lumii; duhul e chemat să se adune din toate aceste direcții pentru a reveni."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și suflă în acești uciși",
+       "w": "și suflă în acești uciși",
+       "heb": "וּפְחִי בַּהֲרוּגִים הָאֵלֶּה",
+       "translit": "ufhi baharugim haēle",
+       "strong": "H428",
+       "pos": "verb, qal imperativ + verb, qal participiu pasiv + pronume demonstrativ",
+       "def_ro": "și suflă în acești uciși (ufhi baharugim haēle)",
+       "dict_ro": "Radak notează termenul «haruguim» (uciși) — chiar dacă oasele din vale pot fi identificate cu tribul lui Efraim, mort prin sabie, termenul poate desemna generic orice formă de moarte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ei vor trăi!’»”.",
+       "w": "și ei vor trăi!’»”.",
+       "heb": "וְיִחְיוּ",
+       "translit": "veihiu",
+       "strong": "H2421",
+       "pos": "verb, qal imperfect",
+       "def_ro": "și ei vor trăi!’»”. (veihiu)",
+       "dict_ro": "Promisiunea finală, directă, a învierii efective prin venirea duhului."
       }
      ],
      "textCompare": [
@@ -22271,7 +22688,53 @@
      "translit": "Vehinabeti kaașer tzivani vatavo vahem haruah vaihiu vaiaamdu al-ragleihem hail gadol meod-meod.",
      "tokens": [
       {
-       "t": "Și am profețit precum mi se poruncise. Duhul a intrat în ele și ele au trăit și au stat pe picioarele lor – o mulțime foarte, foarte mare."
+       "t": "Și am profețit precum mi se poruncise.",
+       "w": "Și am profețit precum mi se poruncise.",
+       "heb": "וְהִנַּבֵּאתִי כַּאֲשֶׁר צִוָּנִי",
+       "translit": "vehinabēti kaașer țivani",
+       "strong": "H6680",
+       "pos": "verb, hitpael perfect + particulă relativă + verb, piel perfect + sufix",
+       "def_ro": "și am profețit precum mi se poruncise. (vehinabēti kaașer țivani)",
+       "dict_ro": "Confirmă din nou ascultarea totală a profetului în fața acestei a doua porunci, finalizând dubla profeție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Duhul a intrat în ele",
+       "w": "Duhul a intrat în ele",
+       "heb": "וַתָּבוֹא בָהֶם הָרוּחַ",
+       "translit": "vatavo vahem haruah",
+       "strong": "H7307",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv, masculin și feminin singular",
+       "def_ro": "duhul a intrat în ele (vatavo vahem haruah)",
+       "dict_ro": "Momentul culminant al minunii — duhul chemat din cele patru vânturi pătrunde efectiv în corpurile reconstituite."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ele au trăit și au stat pe picioarele lor",
+       "w": "și ele au trăit și au stat pe picioarele lor",
+       "heb": "וַיִּחְיוּ וַיַּעַמְדוּ עַל רַגְלֵיהֶם",
+       "translit": "vaihiu vaiaamdu al raglēhem",
+       "strong": "H7272",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + prepoziție + substantiv, feminin dual construct + sufix",
+       "def_ro": "și ele au trăit și au stat pe picioarele lor (vaihiu vaiaamdu al raglēhem)",
+       "dict_ro": "Confirmarea vizuală finală a reînvierii complete — nu doar viață abstractă, ci ridicare fizică, stabilă, pe propriile picioare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– o mulțime foarte, foarte mare.",
+       "w": "– o mulțime foarte, foarte mare.",
+       "heb": "חַיִל גָּדוֹל מְאֹד מְאֹד",
+       "translit": "hail gadol meod meod",
+       "strong": "H3966",
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular + adverb + adverb",
+       "def_ro": "– o mulțime foarte, foarte mare. (hail gadol meod meod)",
+       "dict_ro": "Dubla repetiție a intensificatorului «foarte» accentuează amploarea copleșitoare a armatei reînviate, confirmând proporția simbolică națională a viziunii."
       }
      ],
      "textCompare": [
@@ -22301,20 +22764,79 @@
      "translit": "Vaiomer elai ben-adam haatzamot haele kol-beit Israel hema hine omrim iavșu atzmoteinu veavda tikvatenu nigzarnu lanu.",
      "tokens": [
       {
-       "t": "Apoi El mi-a spus: „Fiu al omului, aceste oase – ele sunt toată casa lui Israel. Iată, ei spun: «Oasele ni s-au uscat și speranța noastră s-a stins! "
+       "t": "Apoi El mi-a spus: „Fiu al omului,",
+       "w": "Apoi El mi-a spus: „Fiu al omului,",
+       "heb": "וַיֹּאמֶר אֵלַי בֶּן אָדָם",
+       "translit": "vaiomer ēlai ben adam",
+       "strong": "H120",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "apoi El mi-a spus: «fiu al omului, (vaiomer ēlai ben adam)",
+       "dict_ro": "Explicația divină a semnificației simbolice a întregii viziuni, oferită direct profetului."
       },
       {
-       "t": "Suntem pierduți",
-       "w": "Suntem pierduți",
-       "heb": "נִגְזַרְנוּ",
-       "translit": "nigzarnu",
-       "strong": "H1504",
-       "pos": "verb, nifal perfect",
-       "def_ro": "ni s-a tăiat [speranța] (nigzarnu).",
-       "dict_ro": "Rashi citează o a doua interpretare (Pirkē de-Rabi Eliezer 33): cei din viziune erau cu adevărat israeliți, și, fiind acum înviați, se tem că nu vor mai învia a doua oară, la învierea generală a morților — de aceea strigă „ni s-a tăiat [nădejdea]”, nu dintr-o deznădejde oarecare, ci din frica specifică de a pierde partea la învierea finală."
+       "t": " "
       },
       {
-       "t": "!»"
+       "t": "aceste oase – ele sunt toată casa lui Israel.",
+       "w": "aceste oase – ele sunt toată casa lui Israel.",
+       "heb": "הָעֲצָמוֹת הָאֵלֶּה כָּל בֵּית יִשְׂרָאֵל הֵמָּה",
+       "translit": "haațamot haēle kal bēt israēl hēma",
+       "strong": "H1992",
+       "pos": "substantiv, feminin plural + pronume demonstrativ + substantiv, masculin singular construct + substantiv, masculin singular construct + nume propriu + pronume personal",
+       "def_ro": "aceste oase – ele sunt toată casa lui Israel. (haațamot haēle kal bēt israēl hēma)",
+       "dict_ro": "Radak: fie viziunea e pur simbolică pentru starea de disperare a exilaților, fie descrie literal o înviere reală a unor morți concreți — ambele interpretări coexistă în tradiția rabinică, fiecare cu suporteri."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iată, ei spun:",
+       "w": "Iată, ei spun:",
+       "heb": "הִנֵּה אֹמְרִים",
+       "translit": "hinē omrim",
+       "strong": "H559",
+       "pos": "particulă demonstrativă + verb, qal participiu",
+       "def_ro": "iată, ei spun: (hinē omrim)",
+       "dict_ro": "Introduce citatul exact al disperării exprimate de poporul în exil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "«Oasele ni s-au uscat",
+       "w": "«Oasele ni s-au uscat",
+       "heb": "יָבְשׁוּ עַצְמוֹתֵינוּ",
+       "translit": "iavșu ațmotēnu",
+       "strong": "H6106",
+       "pos": "verb, qal perfect + substantiv, feminin plural construct + sufix",
+       "def_ro": "«oasele ni s-au uscat (iavșu ațmotēnu)",
+       "dict_ro": "Metafora uscăciunii, identică celei descrise literal în viziune, aplicată acum stării spirituale a exilaților."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și speranța noastră s-a stins!",
+       "w": "și speranța noastră s-a stins!",
+       "heb": "וְאָבְדָה תִקְוָתֵנוּ",
+       "translit": "veavda tikvatēnu",
+       "strong": "H8615",
+       "pos": "verb, qal perfect + substantiv, feminin singular construct + sufix",
+       "def_ro": "și speranța noastră s-a stins! (veavda tikvatēnu)",
+       "dict_ro": "Confirmă disperarea totală — nu doar suferință, ci pierderea completă a oricărei așteptări de restaurare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Suntem pierduți!»",
+       "w": "Suntem pierduți!»",
+       "heb": "נִגְזַרְנוּ לָנוּ",
+       "translit": "nigzarnu lanu",
+       "strong": "",
+       "pos": "verb, nifal perfect + prepoziție + sufix",
+       "def_ro": "suntem pierduți!» (nigzarnu lanu)",
+       "dict_ro": "Rashi: o interpretare midrashică alternativă leagă această disperare de frica exilaților că, odată morți deja o dată, nu vor mai trăi a doua oară când va veni învierea finală a tuturor morților."
       }
      ],
      "textCompare": [
@@ -22350,20 +22872,66 @@
      "translit": "Lahen hinave veamarta aleihem ko-amar Adonai ELOHIM hine ani foteah et-kivroteihem vehaaleti ethem mikivroteihem ami veheveti ethem el-admat Israel.",
      "tokens": [
       {
-       "t": "De aceea, "
+       "t": "De aceea, profețește și spune-le:",
+       "w": "De aceea, profețește și spune-le:",
+       "heb": "לָכֵן הִנָּבֵא וְאָמַרְתָּ אֲלֵיהֶם",
+       "translit": "lahēn hinavē veamarta alēhem",
+       "strong": "H413",
+       "pos": "adverb + verb, nifal imperativ + verb, qal perfect consecutiv + prepoziție + sufix",
+       "def_ro": "de aceea, profețește și spune-le: (lahēn hinavē veamarta alēhem)",
+       "dict_ro": "Rashi: «de aceea» leagă direct explicația care urmează de disperarea citată la v.11 — răspunsul divin la exact această pierdere a speranței."
       },
       {
-       "t": "profețește",
-       "w": "profețește",
-       "heb": "הִנָּבֵא",
-       "translit": "hinavē",
-       "strong": "H5012",
-       "pos": "verb, nifal imperativ",
-       "def_ro": "profețește (hinavē).",
-       "dict_ro": "Rashi explică scurt acest al doilea îndemn la profeție: „căci sunt pe cale să-i înviez a doua oară” — confirmând explicit, din perspectiva rabinică, că viziunea oaselor din vale prefigurează învierea finală a morților, nu doar restaurarea națională."
+       "t": " "
       },
       {
-       "t": " și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Iată, Eu voi deschide mormintele voastre și vă voi ridica din mormintele voastre, poporul Meu, și vă voi aduce pe pământul Israelului."
+       "t": "«Așa a spus Stăpânul meu, Domnul DUMNEZEU:",
+       "w": "«Așa a spus Stăpânul meu, Domnul DUMNEZEU:",
+       "heb": "כֹּה אָמַר אֲדֹנָי יְהוִה",
+       "translit": "ko amar adonai Adonai",
+       "strong": "H3069",
+       "pos": "adverb + verb, qal perfect + substantiv, masculin plural construct + sufix + nume propriu",
+       "def_ro": "«așa a spus Stăpânul meu, Domnul DUMNEZEU: (ko amar adonai Adonai)",
+       "dict_ro": "Formula solemnă introduce promisiunea directă de restaurare, adresată explicit disperării exprimate de popor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "‘Iată, Eu voi deschide mormintele voastre",
+       "w": "‘Iată, Eu voi deschide mormintele voastre",
+       "heb": "הִנֵּה אֲנִי פֹתֵחַ אֶת קִבְרוֹתֵיכֶם",
+       "translit": "hinē ani fotēah et kivrotēhem",
+       "strong": "H6913",
+       "pos": "particulă demonstrativă + pronume personal + verb, qal participiu + marcă a complementului direct + substantiv, masculin plural construct + sufix",
+       "def_ro": "‘iată, Eu voi deschide mormintele voastre (hinē ani fotēah et kivrotēhem)",
+       "dict_ro": "Metafora exilului ca «mormânt» — poporul dispersat printre neamuri e descris ca îngropat, așteptând eliberarea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și vă voi ridica din mormintele voastre, poporul Meu,",
+       "w": "și vă voi ridica din mormintele voastre, poporul Meu,",
+       "heb": "וְהַעֲלֵיתִי אֶתְכֶם מִקִּבְרוֹתֵיכֶם עַמִּי",
+       "translit": "vehaalēti ethem mikivrotēhem ami",
+       "strong": "H5971",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + sufix + substantiv, masculin plural construct + sufix + substantiv, masculin singular construct + sufix",
+       "def_ro": "și vă voi ridica din mormintele voastre, poporul Meu, (vehaalēti ethem mikivrotēhem ami)",
+       "dict_ro": "Promisiunea explicită de restaurare, confirmând relația de legământ («poporul Meu») chiar în mijlocul disperării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și vă voi aduce pe pământul Israelului.",
+       "w": "și vă voi aduce pe pământul Israelului.",
+       "heb": "וְהֵבֵאתִי אֶתְכֶם אֶל אַדְמַת יִשְׂרָאֵל",
+       "translit": "vehēvēti ethem el admat israēl",
+       "strong": "H3478",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + sufix + prepoziție + substantiv, feminin singular construct + nume propriu",
+       "def_ro": "și vă voi aduce pe pământul Israelului. (vehēvēti ethem el admat israēl)",
+       "dict_ro": "Scopul final al restaurării — nu doar eliberare abstractă, ci revenirea concretă pe teritoriul național."
       }
      ],
      "textCompare": [
@@ -22399,7 +22967,40 @@
      "translit": "Vidatem ki-ani ADONAI befitḥi et-kivroteihem uvehaaloti ethem mikivroteihem ami.",
      "tokens": [
       {
-       "t": "Și veți ști că Eu sunt DOMNUL, când voi deschide mormintele voastre și când vă voi ridica din mormintele voastre, poporul Meu."
+       "t": "Și veți ști că Eu sunt DOMNUL,",
+       "w": "Și veți ști că Eu sunt DOMNUL,",
+       "heb": "וִידַעְתֶּם כִּי אֲנִי יְהוָה",
+       "translit": "vidatem ki ani Adonai",
+       "strong": "H3068",
+       "pos": "verb, qal perfect consecutiv + conjuncție + pronume personal + nume propriu",
+       "def_ro": "și veți ști că Eu sunt DOMNUL, (vidatem ki ani Adonai)",
+       "dict_ro": "Formulă standard care confirmă scopul teologic central al oricărei intervenții divine descrise de Ezechiel — recunoașterea certă a lui Dumnezeu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "când voi deschide mormintele voastre",
+       "w": "când voi deschide mormintele voastre",
+       "heb": "בְּפִתְחִי אֶת קִבְרוֹתֵיכֶם",
+       "translit": "befithi et kivrotēhem",
+       "strong": "H6913",
+       "pos": "verb, qal infinitiv + sufix + marcă a complementului direct + substantiv, masculin plural construct + sufix",
+       "def_ro": "când voi deschide mormintele voastre (befithi et kivrotēhem)",
+       "dict_ro": "Repetă exact imaginea de la v.12, confirmând promisiunea printr-o a doua afirmare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și când vă voi ridica din mormintele voastre, poporul Meu.",
+       "w": "și când vă voi ridica din mormintele voastre, poporul Meu.",
+       "heb": "וּבְהַעֲלוֹתִי אֶתְכֶם מִקִּבְרוֹתֵיכֶם עַמִּי",
+       "translit": "uvhaaloti ethem mikivrotēhem ami",
+       "strong": "H5971",
+       "pos": "verb, hifil infinitiv + sufix + marcă a complementului direct + sufix + substantiv, masculin plural construct + sufix + substantiv, masculin singular construct + sufix",
+       "def_ro": "și când vă voi ridica din mormintele voastre, poporul Meu. (uvhaaloti ethem mikivrotēhem ami)",
+       "dict_ro": "Repetiția întărește certitudinea promisiunii, aceeași formulă de restaurare confirmată de două ori consecutiv."
       }
      ],
      "textCompare": [
@@ -22429,7 +23030,53 @@
      "translit": "Venatati ruhi vahem vihiitem vehinahti ethem al-admathem vidatem ki-ani ADONAI dibarti veasiti neum-ADONAI.",
      "tokens": [
       {
-       "t": "Voi pune duhul Meu în voi și veți trăi, și vă voi instala pe pământul vostru, și veți ști că Eu, DOMNUL, am vorbit și am înfăptuit – rostirea DOMNULUI.’»”"
+       "t": "Voi pune duhul Meu în voi și veți trăi,",
+       "w": "Voi pune duhul Meu în voi și veți trăi,",
+       "heb": "וְנָתַתִּי רוּחִי בָכֶם וִחְיִיתֶם",
+       "translit": "venatati ruhi vahem vihitem",
+       "strong": "H2421",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin și feminin singular construct + sufix + prepoziție + sufix + verb, qal perfect consecutiv",
+       "def_ro": "voi pune duhul Meu în voi și veți trăi, (venatati ruhi vahem vihitem)",
+       "dict_ro": "Radak notează o distincție teologică: acest «duh» final nu mai e doar duhul vieții fizice, ci duhul înțelepciunii — promisiunea include și o transformare morală, nu doar o reînviere fizică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și vă voi instala pe pământul vostru,",
+       "w": "și vă voi instala pe pământul vostru,",
+       "heb": "וְהִנַּחְתִּי אֶתְכֶם עַל אַדְמַתְכֶם",
+       "translit": "vehinahti ethem al admathem",
+       "strong": "H127",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + sufix + prepoziție + substantiv, feminin singular construct + sufix",
+       "def_ro": "și vă voi instala pe pământul vostru, (vehinahti ethem al admathem)",
+       "dict_ro": "Radak: promisiunea include stabilitate permanentă — poporul nu va mai fi exilat din nou, odată restaurat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și veți ști că Eu, DOMNUL, am vorbit și am înfăptuit",
+       "w": "și veți ști că Eu, DOMNUL, am vorbit și am înfăptuit",
+       "heb": "וִידַעְתֶּם כִּי אֲנִי יְהוָה דִּבַּרְתִּי וְעָשִׂיתִי",
+       "translit": "vidatem ki ani Adonai dibarti veasiti",
+       "strong": "H6213",
+       "pos": "verb, qal perfect consecutiv + conjuncție + pronume personal + nume propriu + verb, piel perfect + verb, qal perfect",
+       "def_ro": "și veți ști că Eu, DOMNUL, am vorbit și am înfăptuit (vidatem ki ani Adonai dibarti veasiti)",
+       "dict_ro": "Formula finală de certitudine absolută — cuvântul profetic și împlinirea lui coincid perfect, confirmând autoritatea divină a întregii profeții."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– rostirea DOMNULUI.’»”",
+       "w": "– rostirea DOMNULUI.’»”",
+       "heb": "נְאֻם יְהוָה",
+       "translit": "neum Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "– rostirea DOMNULUI.’»” (neum Adonai)",
+       "dict_ro": "Formulă de sigilare divină finală, încheind una dintre cele mai cunoscute profeții din întreaga Scriptură ebraică."
       }
      ],
      "textCompare": [
