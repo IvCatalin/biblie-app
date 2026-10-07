@@ -21,7 +21,10 @@ const newVerses = ch.verses.map(v => {
   const d = byV[v.v];
   if (!d) { errs.push(v.v + ': lipseste din ' + dataFile); return v; }
   const mapEntry = MAP[chNum + '|' + v.v];
-  if (!mapEntry) { errs.push(v.v + ': fara mapare OSIS'); return v; }
+  if (!mapEntry) {
+    if (!d.tok || !d.tok.length) return v;
+    errs.push(v.v + ': fara mapare OSIS'); return v;
+  }
 
   const placed = []; let pos = 0;
   for (const [w, hi, f] of d.tok) {
