@@ -1480,6 +1480,10 @@
     line-height:1.55;
     margin-bottom:18px;
   }
+  /* Fiecare verset pe rândul lui (Pericopa săptămânii, previzualizarea unui
+     pasaj din Tora) — nu toate înșirate într-un singur paragraf continuu. */
+  .ref-preview-vline{ margin-bottom:8px; }
+  .ref-preview-vline:last-child{ margin-bottom:0; }
   .ref-preview-go{
     font-family:'Inter', sans-serif;
     font-size:12.5px;
@@ -1554,19 +1558,57 @@
   .ref-preview-popover.rp-parchment .wp-corner-bl{ bottom:1px; left:1px; transform:scaleY(-1); }
   .ref-preview-popover.rp-parchment .wp-corner-br{ bottom:1px; right:1px; transform:scale(-1,-1); }
   .ref-preview-popover.rp-parchment .wp-close{
+    top:10px; right:10px;
+    width:24px; height:24px;
+    font-size:12px;
     background:rgba(22,41,74,0.1);
     color:#16294a;
   }
+  /* Titlul "parchament" (vezi showHaftarahPreview/renderPreviewTitle3Lines) —
+     pe 3 rânduri distincte (nume ebraic / traducere română / referință),
+     fiecare încăpând pe un singur rând — nu îngrămădite într-o linie lungă.
+     Rândul 1 e suficient sub colțul butonului ✕ (vezi margin-top), ca să nu
+     se interpună niciodată cu el. */
   .ref-preview-popover.rp-parchment .ref-preview-title{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:3px;
+    padding-right:0;
+    margin:18px 0 12px;
+  }
+  .ref-preview-popover.rp-parchment .rp-title-he{
     font-family:'EB Garamond', 'Fraunces', serif;
-    font-size:19px;
+    font-size:15.5px;
     font-weight:700;
     letter-spacing:0.01em;
-    text-transform:none;
     color:#16294a;
-    text-align:center;
-    padding-right:0;
-    margin:4px 0 12px;
+    max-width:100%;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+  .ref-preview-popover.rp-parchment .rp-title-ro{
+    font-family:'EB Garamond', serif;
+    font-style:italic;
+    font-weight:600;
+    font-size:12.5px;
+    color:#5a4324;
+    max-width:100%;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+  .ref-preview-popover.rp-parchment .rp-title-ref{
+    font-family:'Inter', sans-serif;
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:0.05em;
+    color:#8a6314;
+    max-width:100%;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
   }
   .ref-preview-popover.rp-parchment .ref-preview-text{
     font-family:'EB Garamond', serif;
@@ -4662,12 +4704,16 @@ function renderRefPreviewVerses(textEl, versesArray, startNum, endNum){
     const v = versesArray.find(v => Number(v.num) === n);
     if(!v) continue;
     found++;
-    if(found > 1) textEl.appendChild(document.createTextNode(" "));
+    // Fiecare verset pe rândul lui, în ordine — nu toate înșirate într-un
+    // singur paragraf continuu.
+    const line = document.createElement("div");
+    line.className = "ref-preview-vline";
     const numSpan = document.createElement("span");
     numSpan.className = "vnum";
     numSpan.textContent = n;
-    textEl.appendChild(numSpan);
-    textEl.appendChild(document.createTextNode(plainVerseText(v)));
+    line.appendChild(numSpan);
+    line.appendChild(document.createTextNode(plainVerseText(v)));
+    textEl.appendChild(line);
   }
   if(!found){
     textEl.textContent = (startNum === endNum)
@@ -4778,6 +4824,41 @@ function hideRefPreview(){
 // scrisă — reutilizează același popover vizual (#ref-preview-popover), dar
 // butonul "→" duce la cititorul de Haftarot din tab-ul Biblia, nu în Biblia
 // obișnuită.
+// Titlurile de Haftarah sunt fie "Ebraic - Român" (ex. "Bereșit - La început"),
+// fie, la unele din Haftarot — Sărbători, "Ebraic calificativ (Român)" (ex.
+// "Pesah ziua 1 (Paștele)") — încercăm ambele modele, ca să separăm numele
+// ebraic de traducerea română pe rânduri distincte.
+function splitHaftarahTitle(title){
+  let m = /^(.+?)\s-\s(.+)$/.exec(title || "");
+  if(m) return { line1: m[1].trim(), line2: m[2].trim() };
+  m = /^(.+?)\s\(([^)]+)\)\s*$/.exec(title || "");
+  if(m) return { line1: m[1].trim(), line2: m[2].trim() };
+  return { line1: (title || "").trim(), line2: "" };
+}
+// Titlul panoului "parchament" (vezi showHaftarahPreview) pe 3 rânduri
+// distincte — numele ebraic, traducerea română, referința — fiecare încăpând
+// pe un singur rând (vezi CSS .rp-title-*), nu înghesuite într-o singură
+// linie lungă, înfundată.
+function renderPreviewTitle3Lines(titleEl, fullTitle, ref){
+  titleEl.textContent = "";
+  const { line1, line2 } = splitHaftarahTitle(fullTitle);
+  const l1 = document.createElement("div");
+  l1.className = "rp-title-he";
+  l1.textContent = line1;
+  titleEl.appendChild(l1);
+  if(line2){
+    const l2 = document.createElement("div");
+    l2.className = "rp-title-ro";
+    l2.textContent = line2;
+    titleEl.appendChild(l2);
+  }
+  if(ref){
+    const l3 = document.createElement("div");
+    l3.className = "rp-title-ref";
+    l3.textContent = ref;
+    titleEl.appendChild(l3);
+  }
+}
 function showHaftarahPreview(match, anchorEl){
   const titleEl = document.getElementById("ref-preview-title");
   const textEl = document.getElementById("ref-preview-text");
@@ -4791,7 +4872,7 @@ function showHaftarahPreview(match, anchorEl){
   textEl.style.fontFamily = "";
   textEl.style.fontSize = "";
 
-  titleEl.textContent = match.title + " — " + match.ref;
+  renderPreviewTitle3Lines(titleEl, match.title, match.ref);
   // Sărbătorile/ocaziile speciale (Simhat Tora, Roș Hașana etc.) nu sunt încă
   // în lista de 57 de Haftarot obișnuite — panoul se arată onest, fără
   // rezumat inventat și fără buton spre un capitol care nu există încă,
