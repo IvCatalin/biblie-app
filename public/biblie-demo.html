@@ -1517,6 +1517,77 @@
   .ref-preview-icon-btn svg{width:15px; height:15px; display:block;}
   .ref-preview-icon-btn:active{color:var(--gold); border-color:var(--gold);}
 
+  /* ---- Model/exemplu: varianta "parchament" a panoului de referință, cu
+     același chenar ca la panoul lexical (#word-popover) — folosită DOAR la
+     săgețile de pe Acasă (Pericopa săptămânii / Pasaj din Profeți), nu la
+     trimiterile inline din citire. Butoanele citește capitolul/copiază/
+     trimite rămân funcțional identice, doar recolorate să se vadă pe fond
+     deschis. ---- */
+  .ref-preview-popover .rp-frame{ position:relative; }
+  .ref-preview-popover .wp-corner{ display:none; }
+  .ref-preview-popover.rp-parchment{
+    background:
+      radial-gradient(ellipse at 50% 38%, #D4B483 0%, #C9A36A 55%, #B8925A 100%),
+      url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n2'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix type='matrix' values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.09 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n2)'/></svg>");
+    color:#3A2614;
+    border:none;
+    border-radius:26px;
+    padding:0;
+    box-shadow:0 20px 50px rgba(0,0,0,0.45);
+  }
+  .ref-preview-popover.rp-parchment .rp-frame{
+    margin:12px;
+    border:1.5px solid #16294a;
+    border-radius:18px;
+    padding:20px 16px 16px;
+  }
+  .ref-preview-popover.rp-parchment .wp-corner{
+    display:block;
+    position:absolute;
+    width:16%;
+    max-width:42px;
+    pointer-events:none;
+  }
+  .ref-preview-popover.rp-parchment .wp-corner svg{ width:100%; display:block; }
+  .ref-preview-popover.rp-parchment .wp-corner-tl{ top:1px; left:1px; }
+  .ref-preview-popover.rp-parchment .wp-corner-tr{ top:1px; right:1px; transform:scaleX(-1); }
+  .ref-preview-popover.rp-parchment .wp-corner-bl{ bottom:1px; left:1px; transform:scaleY(-1); }
+  .ref-preview-popover.rp-parchment .wp-corner-br{ bottom:1px; right:1px; transform:scale(-1,-1); }
+  .ref-preview-popover.rp-parchment .wp-close{
+    background:rgba(22,41,74,0.1);
+    color:#16294a;
+  }
+  .ref-preview-popover.rp-parchment .ref-preview-title{
+    font-family:'EB Garamond', 'Fraunces', serif;
+    font-size:19px;
+    font-weight:700;
+    letter-spacing:0.01em;
+    text-transform:none;
+    color:#16294a;
+    text-align:center;
+    padding-right:0;
+    margin:4px 0 12px;
+  }
+  .ref-preview-popover.rp-parchment .ref-preview-text{
+    font-family:'EB Garamond', serif;
+    font-weight:600;
+    font-size:15.5px;
+    line-height:1.5;
+    color:#3A2614;
+    text-align:center;
+  }
+  .ref-preview-popover.rp-parchment .ref-preview-go{
+    color:#16294a;
+    background:rgba(22,41,74,0.12);
+    border:1px solid rgba(22,41,74,0.35);
+  }
+  .ref-preview-popover.rp-parchment .ref-preview-icon-btn{
+    background:rgba(22,41,74,0.08);
+    border:1px solid rgba(22,41,74,0.3);
+    color:#16294a;
+  }
+  .ref-preview-popover.rp-parchment .ref-preview-icon-btn:active{ color:#8a6314; border-color:#8a6314; }
+
   .wp-word{
     font-family:'EB Garamond', 'Fraunces', serif;
     font-weight:700;
@@ -3606,18 +3677,24 @@
 </div>
 
 <div class="ref-preview-popover" id="ref-preview-popover">
-  <button class="wp-close" id="ref-preview-close">✕</button>
-  <div class="ref-preview-title" id="ref-preview-title"></div>
-  <div class="ref-preview-text" id="ref-preview-text"></div>
-  <div class="ref-preview-footer">
-    <button class="ref-preview-go" id="ref-preview-go">→ citește capitolul</button>
-    <div class="ref-preview-actions">
-      <button class="ref-preview-icon-btn" id="ref-preview-copy" title="Copiază">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/></svg>
-      </button>
-      <button class="ref-preview-icon-btn" id="ref-preview-share" title="Trimite">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="18" cy="5" r="2.7"/><circle cx="6" cy="12" r="2.7"/><circle cx="18" cy="19" r="2.7"/><path d="M8.4 10.7 15.6 6.6M8.4 13.3l7.2 4.1"/></svg>
-      </button>
+  <div class="rp-frame">
+    <button class="wp-close" id="ref-preview-close">✕</button>
+    <div class="wp-corner wp-corner-tl"><svg viewBox="0 0 120.65779 120.65778"><use href="#wp-corner-ornament"></use></svg></div>
+    <div class="wp-corner wp-corner-tr"><svg viewBox="0 0 120.65779 120.65778"><use href="#wp-corner-ornament"></use></svg></div>
+    <div class="wp-corner wp-corner-bl"><svg viewBox="0 0 120.65779 120.65778"><use href="#wp-corner-ornament"></use></svg></div>
+    <div class="wp-corner wp-corner-br"><svg viewBox="0 0 120.65779 120.65778"><use href="#wp-corner-ornament"></use></svg></div>
+    <div class="ref-preview-title" id="ref-preview-title"></div>
+    <div class="ref-preview-text" id="ref-preview-text"></div>
+    <div class="ref-preview-footer">
+      <button class="ref-preview-go" id="ref-preview-go">→ citește capitolul</button>
+      <div class="ref-preview-actions">
+        <button class="ref-preview-icon-btn" id="ref-preview-copy" title="Copiază">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/></svg>
+        </button>
+        <button class="ref-preview-icon-btn" id="ref-preview-share" title="Trimite">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="18" cy="5" r="2.7"/><circle cx="6" cy="12" r="2.7"/><circle cx="18" cy="19" r="2.7"/><path d="M8.4 10.7 15.6 6.6M8.4 13.3l7.2 4.1"/></svg>
+        </button>
+      </div>
     </div>
   </div>
 </div>
@@ -4599,11 +4676,11 @@ function renderRefPreviewVerses(textEl, versesArray, startNum, endNum){
   }
 }
 
-function showRefPreview(refText, anchorEl){
+function showRefPreview(refText, anchorEl, parchment){
   const parsed = parseRefBookChapterVerse(refText);
   if(!parsed || !chapterIsAvailable(parsed.book.slug, parsed.chapter)){
     console.warn("DAVAR ref-preview: nu s-a putut interpreta referinta:", refText, parsed);
-    showRefUnavailable(anchorEl, refText);
+    showRefUnavailable(anchorEl, refText, parchment);
     return;
   }
   const titleEl = document.getElementById("ref-preview-title");
@@ -4611,6 +4688,42 @@ function showRefPreview(refText, anchorEl){
   const popover = document.getElementById("ref-preview-popover");
   if(!titleEl || !textEl || !popover){
     console.error("DAVAR ref-preview: lipsesc elementele din pagina.");
+    return;
+  }
+
+  // Varianta "parchament" (modelul panoului lexical) \u2014 doar la s\u0103ge\u021bile de pe
+  // Acas\u0103 (Pericopa s\u0103pt\u0103m\u00e2nii), nu la trimiterile inline din citire.
+  popover.classList.toggle("rp-parchment", !!parchment);
+  if(parchment){
+    popover.classList.remove("rp-theme-light", "rp-theme-sepia");
+    // golim stilurile inline puse de preferințele de citire (font/mărime) —
+    // în modul parchament, fontul e cel fix din CSS (.rp-parchment), nu cel ales de utilizator.
+    textEl.style.fontFamily = "";
+    textEl.style.fontSize = "";
+    titleEl.textContent = refText;
+    document.getElementById("ref-preview-go").style.display = "";
+    textEl.textContent = "Se \u00eencarc\u0103\u2026";
+    pendingRefNav = parsed;
+    pendingHaftarahNav = null;
+    popover.classList.add("show");
+    hideWordPopover();
+    const sameChapterNowP = String(currentBookSlug) === String(parsed.book.slug) && Number(currentChapter) === Number(parsed.chapter);
+    if(sameChapterNowP && Array.isArray(VERSES) && VERSES.length){
+      renderRefPreviewVerses(textEl, VERSES, parsed.verse, parsed.endVerse);
+      return;
+    }
+    const urlP = parsed.book.slug + "-" + parsed.chapter + ".js";
+    fetch(urlP)
+      .then(r => { if(!r.ok) throw new Error("HTTP " + r.status + " la " + urlP); return r.text(); })
+      .then(txt => {
+        const jsonStr = txt.replace(/^[\s\S]*?window\.CHAPTER_DATA\s*=\s*/, "").replace(/;\s*$/, "");
+        const data = JSON.parse(jsonStr);
+        renderRefPreviewVerses(textEl, data, parsed.verse, parsed.endVerse);
+      })
+      .catch((err) => {
+        console.error("DAVAR ref-preview: eroare la incarcarea pasajului", urlP, err);
+        textEl.textContent = "Nu s-a putut \u00eenc\u0103rca pasajul (" + urlP + ").";
+      });
     return;
   }
 
@@ -4671,12 +4784,12 @@ function showHaftarahPreview(match, anchorEl){
   const popover = document.getElementById("ref-preview-popover");
   if(!titleEl || !textEl || !popover) return;
 
-  const refPrefs = vsGetTextPrefs();
-  const refFontObj = VS_FONTS.find(f => f.id === refPrefs.font) || VS_FONTS[0];
+  // La fel ca la showRefPreview(parchment=true) — e apelată doar de pe Acasă
+  // (Pasaj din Profeți), așa că ia mereu varianta "parchament".
+  popover.classList.add("rp-parchment");
   popover.classList.remove("rp-theme-light", "rp-theme-sepia");
-  if(refPrefs.theme === "light" || refPrefs.theme === "sepia") popover.classList.add("rp-theme-" + refPrefs.theme);
-  textEl.style.fontFamily = refFontObj.css;
-  textEl.style.fontSize = Math.min(14, refPrefs.size) + "px";
+  textEl.style.fontFamily = "";
+  textEl.style.fontSize = "";
 
   titleEl.textContent = match.title + " — " + match.ref;
   // Sărbătorile/ocaziile speciale (Simhat Tora, Roș Hașana etc.) nu sunt încă
@@ -4795,11 +4908,13 @@ function loadChapterThenOpenVerse(chapterNum, verseNum){
 // (#ref-preview-popover) ca orice altă referință, nu o componentă separată
 // (folosea înainte panoul de lexicon, #word-popover) — doar fără buton
 // "→ citește capitolul", că nu există încă acea destinație.
-function showRefUnavailable(anchorEl, refText){
+function showRefUnavailable(anchorEl, refText, parchment){
   const titleEl = document.getElementById("ref-preview-title");
   const textEl = document.getElementById("ref-preview-text");
   const popover = document.getElementById("ref-preview-popover");
   if(!titleEl || !textEl || !popover) return;
+  popover.classList.toggle("rp-parchment", !!parchment);
+  if(parchment) popover.classList.remove("rp-theme-light", "rp-theme-sepia");
   hideWordPopover();
   titleEl.textContent = refText;
   textEl.textContent = "";
@@ -6920,10 +7035,10 @@ function buildPericopeRefRow(refText){
       const chapterNum = parseInt(cv[1], 10);
       const verseNum = parseInt(cv[2], 10);
       // Panoul arată doar primele 2 versete ale pasajului; „citește capitolul” duce la tot capitolul.
-      showRefPreview(book.name + " " + chapterNum + ":" + verseNum + "-" + (verseNum + 1), btn);
+      showRefPreview(book.name + " " + chapterNum + ":" + verseNum + "-" + (verseNum + 1), btn, true);
       document.getElementById("ref-preview-title").textContent = refText;
     } else {
-      showRefUnavailable(btn, refText);
+      showRefUnavailable(btn, refText, true);
     }
   });
   row.appendChild(btn);
