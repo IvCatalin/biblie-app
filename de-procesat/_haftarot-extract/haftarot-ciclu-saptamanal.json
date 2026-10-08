@@ -71984,7 +71984,17 @@
      "translit": "Vearbaa anașim haiu metzoraim petah hașaar vayomru iș el-reehu ma anahnu yoșvim po ad-matnu.",
      "tokens": [
       {
-       "t": "Și patru oameni erau "
+       "t": "Și patru oameni erau",
+       "w": "Și patru oameni erau",
+       "heb": "וְאַרְבָּעָה אֲנָשִׁים הָיוּ",
+       "translit": "vearbaa anașim haiu",
+       "strong": "H702",
+       "pos": "numeral + substantiv + verb, qal perfect",
+       "def_ro": "și patru oameni erau.",
+       "dict_ro": "Rashi identifică acești patru leproși cu Ghehazi și cei trei fii ai lui, tradiție confirmată și de Talmudul Bavli (Sanhedrin 107b, citând pe Rabi Iohanan)."
+      },
+      {
+       "t": " "
       },
       {
        "t": "leproși",
@@ -71999,7 +72009,14 @@
        "dict_ro": "Metzoraim — leproșii, legătura directă cu pericopa Mețora (Levitic 14), care descrie curățirea leprosului. Ei stau „la poartă” pentru că Tora poruncește ca leprosul să locuiască „în afara taberei” (Leviticul 13:46), explică atât Rashi, cât și Metzudat David. Talmudul (Sanhedrin 107b) îi identifică: Rabi Iohanan spune că erau Ghehazi și cei trei fii ai lui — lovit de lepra lui Naaman pentru lăcomia lui (2 Împărați 5:27), ucenicul alungat al lui Elișa devine, fără să știe, primul vestitor al împlinirii profeției învățătorului său."
       },
       {
-       "t": " [care stăteau] la poartă și fiecare a spus semenului său: „De ce stăm aici până când vom muri?"
+       "t": " [care stăteau] la poartă și fiecare a spus semenului său: „De ce stăm aici până când vom muri?",
+       "w": " [care stăteau] la poartă și fiecare a spus semenului său: „De ce stăm aici până când vom muri?",
+       "heb": "פֶּתַח הַשָּׁעַר וַיֹּאמְרוּ אִישׁ אֶל רֵעֵהוּ מָה אֲנַחְנוּ יֹשְׁבִים פֹּה עַד מָתְנוּ",
+       "translit": "petah hașaar vaiomru iș el rēēhu ma anahnu ioșvim po ad matnu",
+       "strong": "H6607",
+       "pos": "substantiv construct + substantiv + verb, qal imperfect consecutiv + substantiv + prepoziție + substantiv construct + sufix + particulă interogativă + pronume personal + verb, qal participiu + adverb + prepoziție + verb, qal perfect",
+       "def_ro": "la intrarea porții, și au spus unul către altul: de ce stăm aici până vom muri?",
+       "dict_ro": "Rashi și Metzudat David explică faptul că leproșii stăteau la intrarea porții în acord cu legea biblică a leprosului — «să locuiască singur, în afara taberei să-i fie locuința» (Levitic 13:46)."
       }
      ],
      "textCompare": [
@@ -72045,7 +72062,17 @@
      "translit": "Im-amarnu navo hair veharaav bair vamatnu șam veim-yașavnu fo vamatnu veata lechu venipela el-mahane Aram im-yehayunu nihe veim-yemitunu vamatnu.",
      "tokens": [
       {
-       "t": "Dacă ne gândim să mergem în oraș, foametea este în oraș și vom muri acolo; iar dacă vom sta aici, vom muri. Haideți așadar să mergem "
+       "t": "Dacă ne gândim să mergem în oraș, foametea este în oraș și vom muri acolo; iar dacă vom sta aici, vom muri. Haideți așadar să mergem",
+       "w": "Dacă ne gândim să mergem în oraș, foametea este în oraș și vom muri acolo; iar dacă vom sta aici, vom muri. Haideți așadar să mergem",
+       "heb": "אִם אָמַרְנוּ נָבוֹא הָעִיר וְהָרָעָב בָּעִיר וָמַתְנוּ שָׁם וְאִם יָשַׁבְנוּ פֹה וָמָתְנוּ וְעַתָּה לְכוּ",
+       "translit": "im amarnu navo hair veharaav bair vamatnu șam veim iașavnu fo vamatnu veata lehu",
+       "strong": "H518",
+       "pos": "conjuncție + verb, qal perfect + verb, qal imperfect + substantiv + substantiv + substantiv + verb, qal perfect consecutiv + adverb + conjuncție + verb, qal perfect + adverb + verb, qal perfect consecutiv + adverb + verb, qal imperativ",
+       "def_ro": "dacă spunem: să mergem în oraș, și foametea e în oraș, și vom muri acolo; și dacă vom ședea aici, vom muri; și acum, haideți.",
+       "dict_ro": "Metzudat David explică faptul că cei patru leproși raționează fatalist: oriunde ar alege să rămână, moartea îi pândește — de aceea aleg riscul necunoscut al taberei arameilor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să ne predăm",
@@ -72060,7 +72087,14 @@
        "dict_ro": "Nafal — literal „a cădea”; cu prepoziția „el” capătă sensul de „a trece la dușman, a dezerta”, cum explică Metzudat Țion, comparând cu acuzația adusă lui Ieremia: „tu treci la caldeeni” (Ieremia 37:13). Logica leproșilor e un calcul lucid al disperării: orașul înseamnă moarte sigură, locul lor tot moarte sigură, iar tabăra dușmană e singura variantă în care au măcar o șansă — Metzudat David o rezumă ca „oricum am alege, suntem sortiți morții”."
       },
       {
-       "t": " în tabăra arameilor: dacă ne vor cruța, vom trăi, iar dacă ne vor ucide, vom muri.”"
+       "t": " în tabăra arameilor: dacă ne vor cruța, vom trăi, iar dacă ne vor ucide, vom muri.”",
+       "w": " în tabăra arameilor: dacă ne vor cruța, vom trăi, iar dacă ne vor ucide, vom muri.”",
+       "heb": "אֶל מַחֲנֵה אֲרָם אִם יְחַיֻּנוּ נִחְיֶה וְאִם יְמִיתֻנוּ וָמָתְנוּ",
+       "translit": "el mahanē aram im iehaiunu nihie veim iemitunu vamatnu",
+       "strong": "H4264",
+       "pos": "prepoziție + substantiv construct + nume propriu + conjuncție + verb, piel imperfect + sufix + verb, qal imperfect + conjuncție + verb, hifil imperfect + sufix + verb, qal perfect consecutiv",
+       "def_ro": "la tabăra Aramului; dacă ne vor lăsa în viață, vom trăi, și dacă ne vor ucide, vom muri.",
+       "dict_ro": "Metzudat Țion explică «venipla» cu sensul de a se abate de partea cuiva, ca la Ieremia 37:13 — predarea voluntară era, pentru ei, singura opțiune care mai lăsa loc unei șanse de supraviețuire."
       }
      ],
      "textCompare": [
@@ -72104,7 +72138,17 @@
      "translit": "Vayakumu vaneșef lavo el-mahane Aram vayavou ad-ketze mahane Aram vehine ein-șam iș.",
      "tokens": [
       {
-       "t": "Și s-au ridicat, și "
+       "t": "Și s-au ridicat, și",
+       "w": "Și s-au ridicat, și",
+       "heb": "וַיָּקוּמוּ",
+       "translit": "vaiakumu",
+       "strong": "H6965",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și s-au ridicat.",
+       "dict_ro": "Metzudat Țion explică «baneșef» ca referindu-se la seară, întocmai ca la Isaia 5:11 — leproșii profită de amurg pentru a se deplasa nevăzuți spre tabăra aramaică."
+      },
+      {
+       "t": " "
       },
       {
        "t": "în amurg",
@@ -72120,7 +72164,14 @@
        "dict_ro": "Neșef — ora de trecere dintre zi și noapte (sau dintre noapte și zi); Metzudat Țion îl explică prin „seară”, comparând cu Isaia 5:11, „cei ce zăbovesc până în amurg”. Același cuvânt revine în v. 7: arameii fugiseră tocmai „în amurg” — leproșii pornesc la aceeași oră la care tabăra fusese părăsită, astfel încât ajung imediat după fugă, înaintea oricui altcuiva."
       },
       {
-       "t": " au ajuns la tabăra arameilor și au ajuns la marginea taberei arameilor și iată, nu era nimeni acolo."
+       "t": " au ajuns la tabăra arameilor și au ajuns la marginea taberei arameilor și iată, nu era nimeni acolo.",
+       "w": " au ajuns la tabăra arameilor și au ajuns la marginea taberei arameilor și iată, nu era nimeni acolo.",
+       "heb": "לָבוֹא אֶל מַחֲנֵה אֲרָם וַיָּבֹאוּ עַד קְצֵה מַחֲנֵה אֲרָם וְהִנֵּה אֵין שָׁם אִישׁ",
+       "translit": "lavo el mahanē aram vaiavou ad kețē mahanē aram vehinē ēn șam iș",
+       "strong": "H935",
+       "pos": "verb, qal infinitiv + prepoziție + substantiv construct + nume propriu + verb, qal imperfect consecutiv + prepoziție + substantiv construct + substantiv construct + nume propriu + particulă demonstrativă + particulă negativă + adverb + substantiv",
+       "def_ro": "să vină la tabăra Aramului, și au venit până la marginea taberei Aramului, și iată, nu era nimeni acolo.",
+       "dict_ro": "Golul total al taberei, descoperit chiar de leproșii disperați, pregătește dezvăluirea minunii din versetul următor: nu fuga oamenilor, ci intervenția directă a DOMNULUI explică absența completă a arameilor."
       }
      ],
      "textCompare": [
@@ -72158,7 +72209,17 @@
      "translit": "VaAdonai hișmia et-mahane Aram kol rehev kol sus kol hail gadol vayomru iș el-ahiv hine sachar-aleinu meleh Israël et-malchei hahitim veet-malchei Mițraim lavo aleinu.",
      "tokens": [
       {
-       "t": "Iar Domnul făcuse ca tabăra arameilor să audă "
+       "t": "Iar Domnul făcuse ca tabăra arameilor să audă",
+       "w": "Iar Domnul făcuse ca tabăra arameilor să audă",
+       "heb": "וַאדֹנָי הִשְׁמִיעַ אֶת מַחֲנֵה אֲרָם",
+       "translit": "vadonai hișmia et mahanē aram",
+       "strong": "H136",
+       "pos": "substantiv construct + sufix + verb, hifil perfect + marcă a complementului direct + substantiv construct + nume propriu",
+       "def_ro": "și Domnul a făcut să audă tabăra Aramului.",
+       "dict_ro": "Rashi explică faptul că expresia «a făcut să audă» înseamnă că li s-a părut arameilor ca și cum ar auzi — nu exista niciun zgomot real, ci o impresie creată prin purtarea de grijă a DOMNULUI."
+      },
+      {
+       "t": " "
       },
       {
        "t": "zgomotul carelor",
@@ -72173,7 +72234,14 @@
        "dict_ro": "Kol — „glas, sunet, zgomot”; repetat de trei ori în verset (car, cal, oaste mare), creează un crescendo auditiv. Rashi și Metzudat David subliniază că nu era un zgomot real, ci o percepție trimisă de DOMNUL: „li se părea că aud” — biruința vine fără nicio armă, doar printr-un sunet. Pomenirea regilor hitiților și a Egiptului reflectă realitatea politică a vremii: carele egiptene și caii din nord erau marile forțe militare pe care Israelul le putea tocmi cu plată (vezi 1 Împărați 10:29)."
       },
       {
-       "t": ", zgomotul cailor și zgomotul unei mari oștiri, și fiecare a spus către fratele său: „Iată, regele Israelului i-a tocmit pe regii hitiților și pe regii Egiptului să vină peste noi!”"
+       "t": ", zgomotul cailor și zgomotul unei mari oștiri, și fiecare a spus către fratele său: „Iată, regele Israelului i-a tocmit pe regii hitiților și pe regii Egiptului să vină peste noi!”",
+       "w": ", zgomotul cailor și zgomotul unei mari oștiri, și fiecare a spus către fratele său: „Iată, regele Israelului i-a tocmit pe regii hitiților și pe regii Egiptului să vină peste noi!”",
+       "heb": "קוֹל סוּס קוֹל חַיִל גָּדוֹל וַיֹּאמְרוּ אִישׁ אֶל אָחִיו הִנֵּה שָׂכַר עָלֵינוּ מֶלֶךְ יִשְׂרָאֵל אֶת מַלְכֵי הַחִתִּים וְאֶת מַלְכֵי מִצְרַיִם לָבוֹא עָלֵינוּ",
+       "translit": "kol sus kol hail gadol vaiomru iș el ahiv hinē sahar alēnu meleh israēl et malhē hahitim veet malhē mițraim lavo alēnu",
+       "strong": "H6963",
+       "pos": "substantiv construct + substantiv + substantiv construct + substantiv + adjectiv + verb, qal imperfect consecutiv + substantiv + prepoziție + substantiv construct + sufix + particulă demonstrativă + verb, qal perfect + prepoziție + sufix + substantiv construct + nume propriu + marcă a complementului direct + substantiv plural construct + nume de neam + marcă a complementului direct + substantiv plural construct + nume propriu + verb, qal infinitiv + prepoziție + sufix",
+       "def_ro": "zgomotul cailor, zgomotul unei mari oștiri; și au spus unul către fratele lui: iată, a tocmit peste noi regele Israelului pe regii hitiților și pe regii Egiptului să vină peste noi.",
+       "dict_ro": "Metzudat David explică faptul că întreaga panică a arameilor s-a născut dintr-o simplă părere auditivă trimisă de DOMNUL, nu dintr-o amenințare reală — motivul exact pentru care tabăra a fost găsită complet goală."
       }
      ],
      "textCompare": [
@@ -72217,7 +72285,17 @@
      "translit": "Vayakumu vayanusu vaneșef vayaazvu et-oholeihem veet-suseihem veet-hamoreihem hamahane kaașer-hi vayanusu el-nafșam.",
      "tokens": [
       {
-       "t": "Astfel că s-au ridicat și au fugit în amurg, și și-au părăsit corturile și caii și măgarii – tabăra așa cum era ea – și au fugit "
+       "t": "Astfel că s-au ridicat și au fugit în amurg, și și-au părăsit corturile și caii și măgarii – tabăra așa cum era ea – și au fugit",
+       "w": "Astfel că s-au ridicat și au fugit în amurg, și și-au părăsit corturile și caii și măgarii – tabăra așa cum era ea – și au fugit",
+       "heb": "וַיָּקוּמוּ וַיָּנוּסוּ בַנֶּשֶׁף וַיַּעַזְבוּ אֶת אָהֳלֵיהֶם וְאֶת סוּסֵיהֶם וְאֶת חֲמֹרֵיהֶם הַמַּחֲנֶה כַּאֲשֶׁר הִיא וַיָּנֻסוּ אֶל",
+       "translit": "vaiakumu vaianusu vaneșef vaiaazvu et aholēhem veet susēhem veet hamorēhem hamahane kaașer hi vaianusu el",
+       "strong": "H6965",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + substantiv + verb, qal imperfect consecutiv + marcă a complementului direct + substantiv plural construct + sufix + marcă a complementului direct + substantiv plural construct + sufix + marcă a complementului direct + substantiv plural construct + sufix + substantiv + particulă relativă + pronume personal + verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "și s-au ridicat și au fugit în amurg, și și-au părăsit corturile lor și caii lor și măgarii lor, tabăra așa cum era, și au fugit către.",
+       "dict_ro": "Metzudat David precizează că tabăra a rămas «întreagă, așa cum fusese» tot timpul cât arameii stătuseră acolo — fuga a fost atât de bruscă încât n-au luat nimic cu ei, confirmând panica totală provocată de zgomotul fantomă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să-și salveze viețile",
@@ -72271,7 +72349,17 @@
      "translit": "Vayavou hametzoraim haele ad-ketze hamahane vayavou el-ohel ehad vaiochlu vayiștu vayisu mișam kesef vezahav uvegadim vaielchu vayatminu vayașuvu vayavou el-ohel aher vayisu mișam vaielchu vayatminu.",
      "tokens": [
       {
-       "t": "Și acești leproși au ajuns până la marginea taberei, au intrat într-un cort și au mâncat și au băut. Din el, au luat argint și aur și veșminte și au mers și "
+       "t": "Și acești leproși au ajuns până la marginea taberei, au intrat într-un cort și au mâncat și au băut. Din el, au luat argint și aur și veșminte și au mers și",
+       "w": "Și acești leproși au ajuns până la marginea taberei, au intrat într-un cort și au mâncat și au băut. Din el, au luat argint și aur și veșminte și au mers și",
+       "heb": "וַיָּבֹאוּ הַמְצֹרָעִים הָאֵלֶּה עַד קְצֵה הַמַּחֲנֶה וַיָּבֹאוּ אֶל אֹהֶל אֶחָד וַיֹּאכְלוּ וַיִּשְׁתּוּ וַיִּשְׂאוּ מִשָּׁם כֶּסֶף וְזָהָב וּבְגָדִים וַיֵּלְכוּ",
+       "translit": "vaiavou hamțoraim haēle ad kețē hamahane vaiavou el ohel ehad vaiohlu vaiștu vaisu mișam kesef vezahav uvgadim vaiēlhu",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + verb, pual participiu pasiv + pronume demonstrativ + prepoziție + substantiv construct + substantiv + verb, qal imperfect consecutiv + prepoziție + substantiv + numeral + verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + adverb + substantiv + substantiv + substantiv + verb, qal imperfect consecutiv",
+       "def_ro": "și au venit leproșii aceștia până la marginea taberei, și au venit într-un cort, și au mâncat și au băut, și au luat de acolo argint și aur și veșminte, și au mers.",
+       "dict_ro": "Metzudat David subliniază contrastul dintre starea lor disperată de la începutul capitolului — pregătiți pentru moarte — și bogăția nesperată găsită în tabăra abandonată, un ospăț și o pradă neașteptate."
+      },
+      {
+       "t": " "
       },
       {
        "t": "le-au ascuns",
@@ -72286,7 +72374,14 @@
        "dict_ro": "Taman — „a ascunde, a îngropa”, de obicei în pământ, ca să păstrezi ceva de valoare (ca Acan, care a ascuns prada în cortul lui, Iosua 7:21). Primul impuls al leproșilor, după foamea potolită, e să-și asigure bogăția — de două ori, cort după cort. Tocmai această repetiție face cu atât mai puternică întoarcerea de conștiință din versetul următor: „nu procedăm corect!”."
       },
       {
-       "t": ". Apoi s-au întors și au mers într-un alt cort, au luat și de acolo [lucruri de preț] și au mers și le-au ascuns."
+       "t": ". Apoi s-au întors și au mers într-un alt cort, au luat și de acolo [lucruri de preț] și au mers și le-au ascuns.",
+       "w": ". Apoi s-au întors și au mers într-un alt cort, au luat și de acolo [lucruri de preț] și au mers și le-au ascuns.",
+       "heb": "וַיָּשֻׁבוּ וַיָּבֹאוּ אֶל אֹהֶל אַחֵר וַיִּשְׂאוּ מִשָּׁם וַיֵּלְכוּ וַיַּטְמִנוּ",
+       "translit": "vaiașuvu vaiavou el ohel ahēr vaisu mișam vaiēlhu vaiatminu",
+       "strong": "H7725",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + prepoziție + substantiv + adjectiv + verb, qal imperfect consecutiv + adverb + verb, qal imperfect consecutiv + verb, hifil imperfect consecutiv",
+       "def_ro": "și s-au întors și au venit la un alt cort, și au luat de acolo, și au mers și au ascuns.",
+       "dict_ro": "Repetarea exactă a secvenței — luat, mers, ascuns — la un al doilea cort arată că cei patru leproși încă nu realizaseră amploarea reală a veștii bune pe care o descopereau, ocupându-se mai întâi de propria lor bunăstare."
       }
      ],
      "textCompare": [
@@ -72320,7 +72415,17 @@
      "translit": "Vayomru iș el-reehu lo-chen anahnu osim hayom haze yom-besora hu vaanahnu mahșim vehikinu ad-or haboker umetzanu avon veata lechu venavoa venagida beit hameleh.",
      "tokens": [
       {
-       "t": "Și și-au spus unul către celălalt: „Nu procedăm corect! Această zi este "
+       "t": "Și și-au spus unul către celălalt: „Nu procedăm corect! Această zi este",
+       "w": "Și și-au spus unul către celălalt: „Nu procedăm corect! Această zi este",
+       "heb": "וַיֹּאמְרוּ אִישׁ אֶל רֵעֵהוּ לֹא כֵן אֲנַחְנוּ עֹשִׂים הַיּוֹם הַזֶּה יוֹם",
+       "translit": "vaiomru iș el rēēhu lo hēn anahnu osim haiom haze iom",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + substantiv + prepoziție + substantiv construct + sufix + particulă negativă + adjectiv + pronume personal + verb, qal participiu + substantiv + pronume demonstrativ + substantiv construct",
+       "def_ro": "și au spus unul către altul: nu drept facem noi astăzi, ziua.",
+       "dict_ro": "Metzudat David explică faptul că cei patru își dau seama brusc că tăcerea lor privează întreaga cetate înfometată de o veste vitală — egoismul inițial al prăzii cedează în fața conștiinței morale."
+      },
+      {
+       "t": " "
       },
       {
        "t": "o zi a veștilor bune",
@@ -72335,7 +72440,14 @@
        "dict_ro": "Besora — „veste (bună)”, din rădăcina basar, „a vesti”; Septuaginta o redă aici prin εὐαγγελία, din aceeași familie cu „evanghelie”. Metzudat David explică de ce tăcerea ar fi vinovată: dacă așteaptă până dimineață, regele va afla de la alții și îi va socoti vinovați că n-au alergat să vestească. Tradiția creștină a citit în acest verset principiul că vestea bună nu poate fi păstrată doar pentru sine (vezi Isaia 52:7)."
       },
       {
-       "t": ", și totuși noi tăcem! Dacă mai așteptăm până dimineața în zori, vom fi socotiți ca păcătoși. Și acum, haide să mergem așadar și să ajungem să vestim la palatul regelui!”"
+       "t": ", și totuși noi tăcem! Dacă mai așteptăm până dimineața în zori, vom fi socotiți ca păcătoși. Și acum, haide să mergem așadar și să ajungem să vestim la palatul regelui!”",
+       "w": ", și totuși noi tăcem! Dacă mai așteptăm până dimineața în zori, vom fi socotiți ca păcătoși. Și acum, haide să mergem așadar și să ajungem să vestim la palatul regelui!”",
+       "heb": "הוּא וַאֲנַחְנוּ מַחְשִׁים וְחִכִּינוּ עַד אוֹר הַבֹּקֶר וּמְצָאָנוּ עָווֹן וְעַתָּה לְכוּ וְנָבֹאָה וְנַגִּידָה בֵּית הַמֶּלֶךְ",
+       "translit": "hu vaanahnu mahșim vehikinu ad or haboker umțaanu avon veata lehu venavoa venagida bēt hameleh",
+       "strong": "H1931",
+       "pos": "pronume personal + pronume personal + verb, hifil participiu + verb, piel perfect consecutiv + prepoziție + substantiv construct + substantiv + verb, qal perfect consecutiv + sufix + substantiv + adverb + verb, qal imperativ + verb, qal cohortativ + verb, hifil cohortativ + substantiv construct + substantiv",
+       "def_ro": "ea, și noi tăcem, și așteptăm până la lumina dimineții, și ne va găsi vina; și acum, haideți să venim și să vestim la casa regelui.",
+       "dict_ro": "Metzudat Țion explică «mahșim» prin aceeași rădăcină folosită la 2 Împărați 2:3 — a tăcea deliberat — iar Rashi notează că vina ar fi socotită de domnie, nu doar de conștiința proprie, dacă vestea bună ar fi întârziată."
       }
      ],
      "textCompare": [
@@ -72382,7 +72494,17 @@
      "translit": "Vayavou vayikreu el-șoer hair vayagidu lahem lemor banu el-mahane Aram vehine ein-șam iș vekol adam ki im-hasus asur vehahamor asur veohalim kaașer-hema.",
      "tokens": [
       {
-       "t": "Au ajuns și au strigat la "
+       "t": "Au ajuns și au strigat la",
+       "w": "Au ajuns și au strigat la",
+       "heb": "וַיָּבֹאוּ וַיִּקְרְאוּ אֶל",
+       "translit": "vaiavou vaikreu el",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "și au venit și au strigat la.",
+       "dict_ro": "Rashi explică faptul că leproșii raportează amănuntul exact că totul era «așa cum fusese», pline, nescotocite — detaliu care confirmă fuga bruscă a arameilor, fără timp să ia nimic cu ei."
+      },
+      {
+       "t": " "
       },
       {
        "t": "străjerii orașului",
@@ -72396,7 +72518,14 @@
        "dict_ro": "Șoer — portarul, paznicul porții, din șaar („poartă”). Leproșii nu pot intra în oraș — legea îi ține afară —, așa că vestea trebuie strigată de dinafară către paznic, iar de la el trece mai departe, din mână în mână, până la rege (v. 11). Detaliile raportului — cai și măgari legați, corturi neatinse — sunt, după Rashi și Metzudat David, semnul că tabăra fusese lăsată întocmai cum era, cu toate proviziile înăuntru."
       },
       {
-       "t": " și le-au vestit, spunând: „Am ajuns în tabăra arameilor și iată, nu este nimeni acolo și nici vreun glas de om, ci doar caii legați și măgarii legați, și corturile așa cum erau.”"
+       "t": " și le-au vestit, spunând: „Am ajuns în tabăra arameilor și iată, nu este nimeni acolo și nici vreun glas de om, ci doar caii legați și măgarii legați, și corturile așa cum erau.”",
+       "w": " și le-au vestit, spunând: „Am ajuns în tabăra arameilor și iată, nu este nimeni acolo și nici vreun glas de om, ci doar caii legați și măgarii legați, și corturile așa cum erau.”",
+       "heb": "הָעִיר וַיַּגִּידוּ לָהֶם לֵאמֹר בָּאנוּ אֶל מַחֲנֵה אֲרָם וְהִנֵּה אֵין שָׁם אִישׁ וְקוֹל אָדָם כִּי אִם הַסּוּס אָסוּר וְהַחֲמוֹר אָסוּר וְאֹהָלִים כַּאֲשֶׁר הֵמָּה",
+       "translit": "hair vaiagidu lahem lēmor banu el mahanē aram vehinē ēn șam iș vekol adam ki im hasus asur vehahamor asur veohalim kaașer hēma",
+       "strong": "H5892",
+       "pos": "substantiv + verb, hifil imperfect consecutiv + prepoziție + sufix + verb, qal infinitiv + verb, qal perfect + prepoziție + substantiv construct + nume propriu + particulă demonstrativă + particulă negativă + adverb + substantiv + substantiv construct + substantiv + conjuncție + conjuncție + substantiv + verb, qal participiu pasiv + substantiv + verb, qal participiu pasiv + substantiv plural + particulă relativă + pronume personal",
+       "def_ro": "cetatea; și le-au vestit, spunând: am venit la tabăra Aramului, și iată, nu este nimeni acolo, nici glas de om, decât doar calul legat și măgarul legat, și corturile [stând] cum erau ele.",
+       "dict_ro": "Metzudat David explică «șoer hair» ca fiind paznicul porții orașului, iar detaliul «legați la iesle, după obicei» confirmă că animalele au rămas exact în starea lor obișnuită — niciun semn de luptă sau de plecare organizată."
       }
      ],
      "textCompare": [
@@ -72438,7 +72567,17 @@
      "translit": "Vayikra hașoarim vayagidu beit hameleh penima.",
      "tokens": [
       {
-       "t": "Străjerii au anunțat și [lucrul] a fost vestit "
+       "t": "Străjerii au anunțat și [lucrul] a fost vestit",
+       "w": "Străjerii au anunțat și [lucrul] a fost vestit",
+       "heb": "וַיִּקְרָא הַשֹּׁעֲרִים וַיַּגִּידוּ",
+       "translit": "vaikra hașoarim vaiagidu",
+       "strong": "H7121",
+       "pos": "verb, qal imperfect consecutiv + substantiv plural + verb, hifil imperfect consecutiv",
+       "def_ro": "și a strigat portarii, și au vestit.",
+       "dict_ro": "Metzudat David explică faptul că portarul orașului a strigat către paznicii porților casei regelui, care au transmis apoi vestea mai departe, până la rege."
+      },
+      {
+       "t": " "
       },
       {
        "t": "înăuntrul",
@@ -72453,7 +72592,14 @@
        "dict_ro": "Penima — „spre înăuntru”; Metzudat David descrie lanțul vestirii: portarul orașului a strigat către paznicii porților palatului, iar aceștia au dus vestea „înăuntru”, în încăperea interioară unde locuia regele. Distanța dintre leproșii de la poartă și regele din camera cea mai dinăuntru e, simbolic, distanța pe care o străbate vestea bună — de la cei mai de jos până la cel mai de sus."
       },
       {
-       "t": " palatului regelui."
+       "t": " palatului regelui.",
+       "w": " palatului regelui.",
+       "heb": "בֵּית הַמֶּלֶךְ",
+       "translit": "bēt hameleh",
+       "strong": "H1004",
+       "pos": "substantiv construct + substantiv",
+       "def_ro": "casei regelui.",
+       "dict_ro": "Lanțul de transmitere — de la cei patru leproși la portari, de la portari la palat — arată cât de rapid s-a răspândit vestea extraordinară prin toată cetatea înfometată."
       }
      ],
      "textCompare": [
@@ -72486,7 +72632,17 @@
      "translit": "Vayakom hameleh laila vaiomer el-avadav agida-na lachem et așer-asu lanu Aram yadeu ki-reevim anahnu vayetzeu min-hamahane lehehavee vehasade lemor ki-yetzeu min-hair venitpesem hayim veel-hair navo.",
      "tokens": [
       {
-       "t": "Regele s-a sculat noaptea și le-a spus slujitorilor săi: „Vă voi spune acum ce ne-a făcut Aram; au știut că suntem înfometați și au plecat din tabără ca "
+       "t": "Regele s-a sculat noaptea și le-a spus slujitorilor săi: „Vă voi spune acum ce ne-a făcut Aram; au știut că suntem înfometați și au plecat din tabără ca",
+       "w": "Regele s-a sculat noaptea și le-a spus slujitorilor săi: „Vă voi spune acum ce ne-a făcut Aram; au știut că suntem înfometați și au plecat din tabără ca",
+       "heb": "וַיָּקָם הַמֶּלֶךְ לַיְלָה וַיֹּאמֶר אֶל עֲבָדָיו אַגִּידָה נָּא לָכֶם אֵת אֲשֶׁר עָשׂוּ לָנוּ אֲרָם יָדְעוּ כִּי רְעֵבִים אֲנַחְנוּ וַיֵּצְאוּ מִן הַמַּחֲנֶה",
+       "translit": "vaiakam hameleh laila vaiomer el avadaiv agida na lahem ēt așer asu lanu aram iadu ki reēvim anahnu vaiēțu min hamahane",
+       "strong": "H6965",
+       "pos": "verb, qal imperfect consecutiv + substantiv + substantiv + verb, qal imperfect consecutiv + prepoziție + substantiv plural construct + sufix + verb, hifil cohortativ + interjecție + prepoziție + sufix + marcă a complementului direct + particulă relativă + verb, qal perfect + prepoziție + sufix + nume propriu + verb, qal perfect + conjuncție + adjectiv + pronume personal + verb, qal imperfect consecutiv + prepoziție + substantiv",
+       "def_ro": "și s-a sculat regele noaptea și a spus slujitorilor lui: să vă spun, vă rog, ce ne-a făcut Aram; au știut că flămânzi suntem, și au ieșit din tabără.",
+       "dict_ro": "Rashi explică faptul că regele nu crede imediat vestea bună, ci presupune o viclenie: arameii ar fi plecat intenționat ca să-i atragă pe israeliți afară, știind că aceștia, fiind înfometați, nu vor rezista tentației."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să se ascundă",
@@ -72501,7 +72657,14 @@
        "dict_ro": "Hava — „a se ascunde”; regele bănuiește o ambuscadă clasică: tabăra pare părăsită, dar oastea stă ascunsă pe câmp, așteptând ca flămânzii să iasă. Metzudat David explică de ce planul ar fi părut plauzibil: din cauza marii foamete, asediații n-ar mai sta să cerceteze lucrurile înainte de a ieși. Neîncrederea regelui contrastează cu profeția lui Elișa din versetele anterioare (7:1), pe care el nici nu o ia în calcul."
       },
       {
-       "t": " pe câmp, spunând [în sinea lor]: «Când vor ieși din oraș, îi vom prinde vii și apoi vom intra în oraș.»"
+       "t": " pe câmp, spunând [în sinea lor]: «Când vor ieși din oraș, îi vom prinde vii și apoi vom intra în oraș.»",
+       "w": " pe câmp, spunând [în sinea lor]: «Când vor ieși din oraș, îi vom prinde vii și apoi vom intra în oraș.»",
+       "heb": "בַשָּׂדֶה לֵאמֹר כִּי יֵצְאוּ מִן הָעִיר וְנִתְפְּשֵׂם חַיִּים וְאֶל הָעִיר נָבֹא",
+       "translit": "vasade lēmor ki iēțu min hair venitpesēm haim veel hair navo",
+       "strong": "H7704",
+       "pos": "substantiv + verb, qal infinitiv + conjuncție + verb, qal imperfect + prepoziție + substantiv + verb, qal imperfect + sufix + adjectiv + prepoziție + substantiv + verb, qal imperfect",
+       "def_ro": "pe câmp, spunând: când vor ieși din cetate, îi vom prinde vii, și în cetate vom intra.",
+       "dict_ro": "Metzudat David explică faptul că regele crede că, din pricina marii foamete, israeliții nu vor avea răbdarea să cerceteze lucrul, ci vor ieși pripit după mâncare — exact capcana pe care crede regele că arameii au întins-o."
       }
      ],
      "textCompare": [
@@ -72538,7 +72701,17 @@
      "translit": "Vayaan ehad meavadav vaiomer veyikehu-na hamișa min-hasusim hanișarim așer nișaru-vah hinam kechol-hahamon Israël așer nișaru-vah hinam kechol-hamon Israël așer-tamu venișleha venire.",
      "tokens": [
       {
-       "t": "Și atunci a răspuns unul dintre slujitorii săi și a spus: „Să se ia așadar cinci dintre caii rămași, cei care se află încă aici – ei sunt ca toată "
+       "t": "Și atunci a răspuns unul dintre slujitorii săi și a spus: „Să se ia așadar cinci dintre caii rămași, cei care se află încă aici – ei sunt ca toată",
+       "w": "Și atunci a răspuns unul dintre slujitorii săi și a spus: „Să se ia așadar cinci dintre caii rămași, cei care se află încă aici – ei sunt ca toată",
+       "heb": "וַיַּעַן אֶחָד מֵעֲבָדָיו וַיֹּאמֶר וְיִקְחוּ נָא חֲמִשָּׁה מִן הַסּוּסִים הַנִּשְׁאָרִים אֲשֶׁר נִשְׁאֲרוּ בָהּ הִנָּם כְּכָל",
+       "translit": "vaiaan ehad mēavadaiv vaiomer veikhu na hamișa min hasusim hanișarim așer nișaru vah hinam kehal",
+       "strong": "H6030",
+       "pos": "verb, qal imperfect consecutiv + numeral + substantiv plural construct + sufix + verb, qal imperfect consecutiv + verb, qal jusiv + interjecție + numeral + prepoziție + substantiv plural + verb, nifal participiu + particulă relativă + verb, nifal perfect + prepoziție + sufix + particulă demonstrativă + sufix + substantiv construct",
+       "def_ro": "și a răspuns unul dintre slujitorii lui și a spus: să se ia, te rog, cinci dintre caii cei rămași, care au rămas în ea; iată-i, ca toată.",
+       "dict_ro": "Rashi explică raționamentul slujitorului ca o deducție dublă: dacă cei cinci călăreți vor fi uciși de aramei, nu e nicio pagubă reală, pentru că sunt ca întreaga mulțime rămasă în cetate, sortită și ea pieirii de foame."
+      },
+      {
+       "t": " "
       },
       {
        "t": "mulțimea",
@@ -72553,7 +72726,14 @@
        "dict_ro": "Hamon — mulțime zgomotoasă, din rădăcina hama, „a vui, a face zgomot”; Metzudat Țion îl explică simplu: „mulțime de popor”. Repetiția din text (ketiv și keri diferă ușor) exprimă argumentul slujitorului, pe care Rashi și Metzudat David îl desfac în două: dacă cei cinci călăreți rămân în oraș, vor muri de foame ca toți cei rămași; dacă mor uciși de aramei, vor fi doar ca mulțimea care a pierit deja — deci nu se pierde nimic trimițându-i."
       },
       {
-       "t": " lui Israel care a rămas, care sunt ca toată mulțimea lui Israel care a pierit. Să-i trimitem și vom vedea.”"
+       "t": " lui Israel care a rămas, care sunt ca toată mulțimea lui Israel care a pierit. Să-i trimitem și vom vedea.”",
+       "w": " lui Israel care a rămas, care sunt ca toată mulțimea lui Israel care a pierit. Să-i trimitem și vom vedea.”",
+       "heb": "יִשְׂרָאֵל אֲשֶׁר נִשְׁאֲרוּ בָהּ הִנָּם כְּכָל הֲמוֹן יִשְׂרָאֵל אֲשֶׁר תָּמּוּ וְנִשְׁלְחָה וְנִרְאֶה",
+       "translit": "israēl așer nișaru vah hinam kehal hamon israēl așer tamu venișleha venire",
+       "strong": "H3478",
+       "pos": "nume propriu + particulă relativă + verb, nifal perfect + prepoziție + sufix + particulă demonstrativă + sufix + substantiv construct + substantiv construct + nume propriu + particulă relativă + verb, qal perfect + verb, qal cohortativ + verb, qal cohortativ",
+       "def_ro": "Israel care a rămas în ea; iată-i, ca toată mulțimea lui Israel care s-a sfârșit; și să trimitem și să vedem.",
+       "dict_ro": "Metzudat Țion explică «tamu» cu sensul de «s-au sfârșit», iar concluzia slujitorului e pragmatică: riscul asumat de cinci călăreți e neglijabil pe lângă soarta deja pecetluită a întregii cetăți."
       }
      ],
      "textCompare": [
@@ -72598,7 +72778,17 @@
      "translit": "Vayikehu șenei rehev susim vayișlah hameleh aharei mahane-Aram lemor lechu ureu.",
      "tokens": [
       {
-       "t": "Au luat "
+       "t": "Au luat",
+       "w": "Au luat",
+       "heb": "וַיִּקְחוּ",
+       "translit": "vaikhu",
+       "strong": "H3947",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și au luat.",
+       "dict_ro": "Metzudat David precizează că regele n-a vrut să pună în primejdie decât doi călăreți, nu cinci cum propusese slujitorul — o prudență suplimentară față de sfatul primit."
+      },
+      {
+       "t": " "
       },
       {
        "t": "doi călăreți",
@@ -72613,7 +72803,14 @@
        "dict_ro": "Reveh susim — literal „două [care cu] atelaj de cai”, adică două echipaje de cercetare. Slujitorul propusese cinci cai, dar s-au trimis doar doi: Metzudat David explică că, în ciuda argumentului că nu se pierde nimic, n-au vrut să pună în primejdie decât pe doi. Direcția urmăririi — „pe urma taberei” — înseamnă, după același comentator, pe drumul spre țara lor."
       },
       {
-       "t": " și regele i-a trimis pe urma taberei Aramului, spunând: „Mergeți și uitați-vă!”"
+       "t": " și regele i-a trimis pe urma taberei Aramului, spunând: „Mergeți și uitați-vă!”",
+       "w": " și regele i-a trimis pe urma taberei Aramului, spunând: „Mergeți și uitați-vă!”",
+       "heb": "וַיִּשְׁלַח הַמֶּלֶךְ אַחֲרֵי מַחֲנֵה אֲרָם לֵאמֹר לְכוּ וּרְאוּ",
+       "translit": "vaișlah hameleh aharē mahanē aram lēmor lehu uru",
+       "strong": "H7971",
+       "pos": "verb, qal imperfect consecutiv + substantiv + prepoziție + substantiv construct + nume propriu + verb, qal infinitiv + verb, qal imperativ + verb, qal imperativ",
+       "def_ro": "și a trimis regele pe urma taberei Aramului, spunând: mergeți și vedeți.",
+       "dict_ro": "Metzudat David explică faptul că «pe urma taberei» înseamnă pe drumul spre țara arameilor — verificarea trebuia să confirme direcția reală a fugii, nu doar starea taberei abandonate."
       }
      ],
      "textCompare": [
@@ -72646,7 +72843,17 @@
      "translit": "Vaielchu ahareihem ad-haIarden vehine chol-haderech meleaa vegadim vechelim așer-hișlichu Aram behofzam vayașuvu hamalachim vayagidu lameleh.",
      "tokens": [
       {
-       "t": "I-au urmărit până la Iordan și iată, tot drumul era plin cu haine și lucruri pe care arameii le aruncaseră "
+       "t": "I-au urmărit până la Iordan și iată, tot drumul era plin cu haine și lucruri pe care arameii le aruncaseră",
+       "w": "I-au urmărit până la Iordan și iată, tot drumul era plin cu haine și lucruri pe care arameii le aruncaseră",
+       "heb": "וַיֵּלְכוּ אַחֲרֵיהֶם עַד הַיַּרְדֵּן וְהִנֵּה כָל הַדֶּרֶךְ מְלֵאָה בְגָדִים וְכֵלִים אֲשֶׁר הִשְׁלִיכוּ אֲרָם",
+       "translit": "vaiēlhu aharēhem ad haiardēn vehinē hal hadereh melēa vegadim vehēlim așer hișlihu aram",
+       "strong": "H3212",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + prepoziție + nume propriu + particulă demonstrativă + substantiv construct + substantiv + adjectiv + substantiv + substantiv + particulă relativă + verb, hifil perfect + nume propriu",
+       "def_ro": "și au mers după ei până la Iordan, și iată, tot drumul [era] plin de veșminte și unelte pe care le-a aruncat Aramul.",
+       "dict_ro": "Metzudat David explică faptul că lucrurile aruncate pe drum confirmă graba disperată a fugii — arameii au abandonat tot ce le îngreuna goana, dovadă fizică a panicii lor reale."
+      },
+      {
+       "t": " "
       },
       {
        "t": "în goana lor",
@@ -72660,7 +72867,14 @@
        "dict_ro": "Hafaz — „a se grăbi cu spaimă”, graba celui care fuge îngrozit; Metzudat Țion compară cu fuga doicii lui Mefiboșet, „în graba ei de a fugi” (2 Samuel 4:4). Metzudat David explică de ce drumul era plin de lucruri: arameii își aruncau poverile ca să fugă mai ușor. Drumul până la Iordan, presărat cu haine și vase, devine dovada vizibilă că tabăra fusese părăsită cu adevărat, nu o capcană."
       },
       {
-       "t": "; și solii s-au întors și i-au vestit regelui."
+       "t": "; și solii s-au întors și i-au vestit regelui.",
+       "w": "; și solii s-au întors și i-au vestit regelui.",
+       "heb": "וַיָּשֻׁבוּ הַמַּלְאָכִים וַיַּגִּדוּ לַמֶּלֶךְ",
+       "translit": "vaiașuvu hamalahim vaiagidu lameleh",
+       "strong": "H7725",
+       "pos": "verb, qal imperfect consecutiv + substantiv plural + verb, hifil imperfect consecutiv + substantiv",
+       "def_ro": "și s-au întors solii și au vestit regelui.",
+       "dict_ro": "Confirmarea celor doi călăreți elimină definitiv suspiciunea regelui de capcană, deschizând calea prăzii masive descrise în versetul următor."
       }
      ],
      "textCompare": [
@@ -72706,7 +72920,17 @@
      "translit": "Vayetze haam vayavozu et mahane Aram vayehi sea-solet beșekel vesataim seorim beșekel kidvar ADONAI.",
      "tokens": [
       {
-       "t": "Poporul a ieșit și a prădat tabăra arameilor; iar "
+       "t": "Poporul a ieșit și a prădat tabăra arameilor; iar",
+       "w": "Poporul a ieșit și a prădat tabăra arameilor; iar",
+       "heb": "וַיֵּצֵא הָעָם וַיָּבֹזּוּ אֵת מַחֲנֵה אֲרָם וַיְהִי",
+       "translit": "vaiēțē haam vaiavozu ēt mahanē aram vaihi",
+       "strong": "H3318",
+       "pos": "verb, qal imperfect consecutiv + substantiv + verb, qal imperfect consecutiv + marcă a complementului direct + substantiv construct + nume propriu + verb, qal imperfect consecutiv",
+       "def_ro": "și a ieșit poporul și a prădat tabăra Aramului; și a fost.",
+       "dict_ro": "Împlinirea exactă a profeției lui Elișa din capitolul anterior se vede aici: prada bruscă face prețurile să se prăbușească în aceeași zi în care fusese anunțat."
+      },
+      {
+       "t": " "
       },
       {
        "t": "o măsură de făină fină",
@@ -72721,7 +72945,14 @@
        "dict_ro": "Sea — unitate de măsură pentru cereale, a treia parte dintr-o efa (cam 7-13 litri, după diferite estimări); solet e făina cea mai fină, cea folosită la ofrandele de la Templu. Cu o zi înainte, în foametea asediului, un cap de măgar se vindea cu optzeci de sicli de argint (2 Împărați 6:25); acum, într-o singură zi, prețurile scad exact la nivelul vestit de Elișa (7:1) — „după cuvântul DOMNULUI”, cum subliniază textul."
       },
       {
-       "t": " costa un siclu și două măsuri de orz costau un siclu – după cuvântul DOMNULUI."
+       "t": " costa un siclu și două măsuri de orz costau un siclu – după cuvântul DOMNULUI.",
+       "w": " costa un siclu și două măsuri de orz costau un siclu – după cuvântul DOMNULUI.",
+       "heb": "סֹלֶת בְּשֶׁקֶל וְסָאתַיִם שְׂעֹרִים בְּשֶׁקֶל כִּדְבַר יְהוָה",
+       "translit": "solet beșekel vesataim seorim beșekel kidvar Adonai",
+       "strong": "H5560",
+       "pos": "substantiv + substantiv + substantiv + substantiv + substantiv + substantiv construct + nume propriu",
+       "def_ro": "făina fină [costa] un siclu, și două măsuri de orz [costau] un siclu, după cuvântul DOMNULUI.",
+       "dict_ro": "Precizarea «după cuvântul DOMNULUI» legitimează explicit această prăbușire bruscă a prețurilor ca împlinire exactă a profeției lui Elișa din 2 Împărați 7:1, nu doar o consecință economică oarecare."
       }
      ],
      "textCompare": [
@@ -72756,7 +72987,17 @@
      "translit": "Vehameleh hifkid et-hașaliș așer-nișan al-yado al-hașaar vayirmesuhu haam bașaar vayamot kaașer diber iș haElohim așer diber beredet hameleh elav.",
      "tokens": [
       {
-       "t": "Regele încredințase paza porții "
+       "t": "Regele încredințase paza porții",
+       "w": "Regele încredințase paza porții",
+       "heb": "וְהַמֶּלֶךְ הִפְקִיד אֶת",
+       "translit": "vehameleh hifkid et",
+       "strong": "H4428",
+       "pos": "substantiv + verb, hifil perfect + marcă a complementului direct",
+       "def_ro": "și regele încredințase pe.",
+       "dict_ro": "Metzudat David explică faptul că regele l-a numit pe acest ofițer paznic al porții chiar în ziua precedentă — detaliu care explică de ce avea să fie prezent exact acolo când poporul năvălea."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ofițerului",
@@ -72771,7 +73012,14 @@
        "dict_ro": "Șaliș — din rădăcina „trei”: la origine „al treilea om” din carul de luptă, apoi ofițer de rang înalt, adjutant personal; de aici și redarea greacă „tristatis”. E ofițerul care își bătuse joc de profeția lui Elișa (7:2). Rashi precizează că „mâna pe care se sprijinea regele” se referă la ziua dinainte, când regele venise la casa lui Elișa; Metzudat David explică moartea lui: mulțimea care se grăbea spre pradă l-a călcat în picioare la poartă, din pricina îmbulzelii."
       },
       {
-       "t": " pe mâna căruia se sprijinea; oamenii l-au călcat în picioare la poartă și el a murit, după cum vorbise omul lui Dumnezeu, și [după cum] vorbise el când regele coborâse la el."
+       "t": " pe mâna căruia se sprijinea; oamenii l-au călcat în picioare la poartă și el a murit, după cum vorbise omul lui Dumnezeu, și [după cum] vorbise el când regele coborâse la el.",
+       "w": " pe mâna căruia se sprijinea; oamenii l-au călcat în picioare la poartă și el a murit, după cum vorbise omul lui Dumnezeu, și [după cum] vorbise el când regele coborâse la el.",
+       "heb": "אֲשֶׁר נִשְׁעָן עַל יָדוֹ עַל הַשַּׁעַר וַיִּרְמְסֻהוּ הָעָם בַּשַּׁעַר וַיָּמֹת כַּאֲשֶׁר דִּבֶּר אִישׁ הָאֱלֹהִים אֲשֶׁר דִּבֶּר בְּרֶדֶת הַמֶּלֶךְ אֵלָיו",
+       "translit": "așer nișan al iado al hașaar vairmesuhu haam bașaar vaiamot kaașer diber iș haelohim așer diber beredet hameleh ēlaiv",
+       "strong": "H8172",
+       "pos": "particulă relativă + verb, nifal participiu + prepoziție + substantiv construct + sufix + prepoziție + substantiv + verb, qal imperfect consecutiv + sufix + substantiv + substantiv + verb, qal imperfect consecutiv + particulă relativă + verb, piel perfect + substantiv construct + substantiv + particulă relativă + verb, piel perfect + verb, qal infinitiv + substantiv + prepoziție + sufix",
+       "def_ro": "pe mâna căruia se sprijinea, la poartă; și l-a călcat poporul la poartă, și a murit, după cum vorbise omul lui Dumnezeu, pe care-l vorbise când coborâse regele la el.",
+       "dict_ro": "Rashi leagă «pe mâna căruia se sprijinea» de episodul din ziua dinainte, când regele venise el însuși la casa lui Elișa — detaliul confirmă identitatea exactă a ofițerului cu cel care îl însoțise pe rege."
       }
      ],
      "textCompare": [
@@ -72812,7 +73060,17 @@
      "translit": "Vayehi kedaber iș haElohim el-hameleh lemor sataim seorim beșekel usea-solet beșekel yihye kaet mahar beșaar Șomron.",
      "tokens": [
       {
-       "t": "Și s-a împlinit întocmai cum îi profetise omul lui Dumnezeu regelui, spunând: „Două măsuri de orz vor costa un siclu și o măsură de făină fină va costa un siclu "
+       "t": "Și s-a împlinit întocmai cum îi profetise omul lui Dumnezeu regelui, spunând: „Două măsuri de orz vor costa un siclu și o măsură de făină fină va costa un siclu",
+       "w": "Și s-a împlinit întocmai cum îi profetise omul lui Dumnezeu regelui, spunând: „Două măsuri de orz vor costa un siclu și o măsură de făină fină va costa un siclu",
+       "heb": "וַיְהִי כְּדַבֵּר אִישׁ הָאֱלֹהִים אֶל הַמֶּלֶךְ לֵאמֹר סָאתַיִם שְׂעֹרִים בְּשֶׁקֶל וּסְאָה סֹלֶת בְּשֶׁקֶל יִהְיֶה",
+       "translit": "vaihi kedabēr iș haelohim el hameleh lēmor sataim seorim beșekel usa solet beșekel ihie",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + verb, piel infinitiv + substantiv construct + substantiv + prepoziție + substantiv + verb, qal infinitiv + substantiv + substantiv + substantiv + substantiv + substantiv + substantiv + verb, qal imperfect",
+       "def_ro": "și a fost, când a vorbit omul lui Dumnezeu către rege, spunând: două măsuri de orz [vor fi] pentru un siclu, și o măsură de făină fină pentru un siclu, va fi.",
+       "dict_ro": "Metzudat David explică faptul că textul revine aici special pentru a explica de ce profetul a prevăzut moartea exactă a ofițerului — reluarea cuvânt cu cuvânt a profeției din capitolul anterior confirmă împlinirea ei precisă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "mâine pe vremea aceasta",
@@ -72827,7 +73085,14 @@
        "dict_ro": "Mahar — „mâine”; precizia temporală a profeției (nu „curând”, ci „mâine la ora aceasta”, „la poarta Samariei”) face ca împlinirea să fie verificabilă de oricine. Metzudat David explică de ce naratorul repetă profeția întreagă: ca să lămurească de ce a vestit profetul și moartea ofițerului — pentru că acesta își bătuse joc de un cuvânt atât de precis al lui Dumnezeu."
       },
       {
-       "t": ", la poarta Samariei.”"
+       "t": ", la poarta Samariei.”",
+       "w": ", la poarta Samariei.”",
+       "heb": "בְּשַׁעַר שֹׁמְרוֹן",
+       "translit": "beșaar șomron",
+       "strong": "H8179",
+       "pos": "substantiv construct + nume propriu",
+       "def_ro": "la poarta Samariei.",
+       "dict_ro": "Locul exact al morții ofițerului — poarta Samariei — este același loc unde profeția fusese pronunțată inițial, închegând perfect cercul împlinirii cuvântului divin."
       }
      ],
      "textCompare": [
@@ -72864,7 +73129,17 @@
      "translit": "Vayaan hașaliș et-iș haElohim vaiomer vehine ADONAI ose arubot bașamayim hayihye hadavar haze vaiomer hincha roe beeinecha umișam lo tochel.",
      "tokens": [
       {
-       "t": "Iar acel ofițer îi răspunsese omului lui Dumnezeu și spusese: „Privește, chiar dacă DOMNUL ar face "
+       "t": "Iar acel ofițer îi răspunsese omului lui Dumnezeu și spusese: „Privește, chiar dacă DOMNUL ar face",
+       "w": "Iar acel ofițer îi răspunsese omului lui Dumnezeu și spusese: „Privește, chiar dacă DOMNUL ar face",
+       "heb": "וַיַּעַן הַשָּׁלִישׁ אֶת אִישׁ הָאֱלֹהִים וַיֹּאמַר וְהִנֵּה יְהוָה עֹשֶׂה",
+       "translit": "vaiaan hașaliș et iș haelohim vaiomar vehinē Adonai ose",
+       "strong": "H6030",
+       "pos": "verb, qal imperfect consecutiv + substantiv + marcă a complementului direct + substantiv construct + substantiv + verb, qal imperfect consecutiv + particulă demonstrativă + nume propriu + verb, qal participiu",
+       "def_ro": "și a răspuns ofițerul omului lui Dumnezeu și a spus: și iată, DOMNUL face.",
+       "dict_ro": "Metzudat David precizează explicit momentul: atunci, când profeția fusese pronunțată pentru prima dată, ofițerul a reacționat cu neîncredere batjocoritoare, nu cu simplă curiozitate."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ferestre în ceruri",
@@ -72878,7 +73153,14 @@
        "dict_ro": "Arubot — „ferestre, zăgazuri”, aceleași „stăvilare ale cerurilor” care se deschid la potop (Geneza 7:11) și pe care Maleahi le promite deschise pentru binecuvântare (Maleahi 3:10). Batjocura ofițerului e totală: nici dacă DOMNUL ar deschide cerul ca la potop n-ar putea scădea prețurile peste noapte. Răspunsul profetului — „vei vedea, dar nu vei mânca” — face din necredință însăși pedeapsa: martor al minunii, dar exclus de la ea."
       },
       {
-       "t": ", s-ar putea oare întâmpla așa ceva?” Dar [profetul] a spus: „Vei vedea cu ochii tăi, dar tu nu vei mânca din ele!”"
+       "t": ", s-ar putea oare întâmpla așa ceva?” Dar [profetul] a spus: „Vei vedea cu ochii tăi, dar tu nu vei mânca din ele!”",
+       "w": ", s-ar putea oare întâmpla așa ceva?” Dar [profetul] a spus: „Vei vedea cu ochii tăi, dar tu nu vei mânca din ele!”",
+       "heb": "בַּשָּׁמַיִם הֲיִהְיֶה כַּדָּבָר הַזֶּה וַיֹּאמֶר הִנְּךָ רֹאֶה בְּעֵינֶיךָ וּמִשָּׁם לֹא תֹאכֵל",
+       "translit": "bașamaim haihie kadavar haze vaiomer hinha roe beēneha umișam lo tohēl",
+       "strong": "H8064",
+       "pos": "substantiv + particulă interogativă + verb, qal imperfect + substantiv + pronume demonstrativ + verb, qal imperfect consecutiv + particulă demonstrativă + sufix + verb, qal participiu + substantiv construct + sufix + adverb + particulă negativă + verb, qal imperfect",
+       "def_ro": "în ceruri — s-ar putea întâmpla lucrul acesta? Și a spus: iată, tu vei vedea cu ochii tăi, și de acolo nu vei mânca.",
+       "dict_ro": "Metzudat David explică faptul că profetul răspunde direct la neîncrederea ofițerului cu o profeție personală și specifică: va vedea minunea cu ochii lui, dar nu va trăi să se bucure de ea — pedeapsă exactă pentru batjocura lui."
       }
      ],
      "textCompare": [
@@ -72911,7 +73193,17 @@
      "translit": "Vayehi-lo ken vayirmesu oto haam bașaar vayamot.",
      "tokens": [
       {
-       "t": "Și într-adevăr așa a pățit: poporul "
+       "t": "Și într-adevăr așa a pățit: poporul",
+       "w": "Și într-adevăr așa a pățit: poporul",
+       "heb": "וַיְהִי לוֹ כֵּן וְאֹתוֹ הָעָם",
+       "translit": "vaihi lo kēn oto haam",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + particulă demonstrativă + marcă a complementului direct + sufix + substantiv",
+       "def_ro": "și a fost pentru el așa; și pe el, poporul.",
+       "dict_ro": "Metzudat David notează simplu: cum spusese profetul, așa a fost — confirmarea finală, fără comentariu suplimentar, a împlinirii exacte a cuvântului profetic rostit mai înainte."
+      },
+      {
+       "t": " "
       },
       {
        "t": "l-a călcat în picioare",
@@ -72926,7 +73218,14 @@
        "dict_ro": "Ramas — „a călca în picioare, a zdrobi sub tălpi”; cuvântul revine identic din v. 17, ca o pecete a împlinirii. Metzudat David rezumă întregul verset în patru cuvinte: „cum a spus profetul, așa a fost”. Haftara se încheie astfel cu două împliniri paralele ale aceluiași cuvânt profetic: îndestularea poporului și moartea celui care l-a batjocorit."
       },
       {
-       "t": " la poartă și el a murit."
+       "t": " la poartă și el a murit.",
+       "w": " la poartă și el a murit.",
+       "heb": "בַּשַּׁעַר וַיָּמֹת",
+       "translit": "bașaar vaiamot",
+       "strong": "H8179",
+       "pos": "substantiv + verb, qal imperfect consecutiv",
+       "def_ro": "la poartă, și a murit.",
+       "dict_ro": "Repetarea identică a morții ofițerului, descrisă deja la v.17, încheie narațiunea printr-o confirmare finală explicită — exact așa, fără abatere, s-a împlinit cuvântul profetic."
       }
      ],
      "textCompare": [
