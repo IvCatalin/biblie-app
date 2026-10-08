@@ -64666,7 +64666,17 @@
      "translit": "Ko amar ADONAI Țevaot Elohei Israël oloteichem sefu al-zivheichem veichlu basar.",
      "tokens": [
       {
-       "t": "Așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: „Îngrămădiți-vă "
+       "t": "Așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: „Îngrămădiți-vă",
+       "w": "Așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: „Îngrămădiți-vă",
+       "heb": "כֹּה אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל",
+       "translit": "ko amar Adonai țevaot elohē israēl",
+       "strong": "H3541",
+       "pos": "adverb + verb, qal perfect + nume propriu + substantiv + substantiv construct + nume propriu",
+       "def_ro": "așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel.",
+       "dict_ro": "Rashi explică faptul că DOMNUL îi spune poporului, cu o ironie amară: de vreme ce arderile-de-tot nu-Mi sunt primite, e mai bine să le adăugați la jertfele voastre de pace și să mâncați carnea — nu refuzul ritualului în sine, ci inima nesupusă din spatele lui e problema reală."
+      },
+      {
+       "t": " "
       },
       {
        "t": "arderile-de-tot",
@@ -64681,7 +64691,17 @@
        "dict_ro": "Ola — jertfa mistuită integral pe altar, singura din care închinătorul nu mânca nimic (spre deosebire de zevah/jertfa de pace, din care o parte revenea celui ce o aducea). Ironia amară a versetului stă tocmai aici: DOMNUL spune „adăugați arderile de tot la jertfele de pace și mâncați carnea” — un îndemn absurd, pentru că arderea de tot, prin definiție, nu poate fi mâncată de nimeni; e felul lui Dumnezeu de a spune că ritualul lor, oricât de corect executat tehnic, nu mai are nicio valoare reală în ochii Lui."
       },
       {
-       "t": " peste jertfele voastre de pace și mâncați[-le] carnea."
+       "t": " "
+      },
+      {
+       "t": "peste jertfele voastre de pace și mâncați[-le] carnea.",
+       "w": "peste jertfele voastre de pace și mâncați[-le] carnea.",
+       "heb": "סְפוּ עַל זִבְחֵיכֶם וְאִכְלוּ בָשָׂר",
+       "translit": "sefu al zivhēhem veihlu vasar",
+       "strong": "H5595",
+       "pos": "verb, qal imperativ + prepoziție + substantiv construct + sufix + verb, qal imperativ + substantiv",
+       "def_ro": "adăugați la jertfele voastre și mâncați carne.",
+       "dict_ro": "Metzudat David explică faptul că DOMNUL nu impune o pedeapsă rituală, ci arată indiferența Sa față de un cult golit de sens moral — carnea arderilor de tot, oricum nefolositoare spiritual, poate fi cel puțin mâncată, nu pierdută în van."
       }
      ],
      "textCompare": [
@@ -64723,7 +64743,17 @@
      "translit": "Ki lo-dibarti et-avoteichem velo tzivitim beyom hotzií otam meereț Mițraim al-divrei ola vazavah.",
      "tokens": [
       {
-       "t": "Căci nu am vorbit strămoșilor voștri și nici nu le-am "
+       "t": "Căci nu am vorbit strămoșilor voștri și nici nu le-am",
+       "w": "Căci nu am vorbit strămoșilor voștri și nici nu le-am",
+       "heb": "כִּי לֹא דִבַּרְתִּי אֶת אֲבוֹתֵיכֶם וְלֹא",
+       "translit": "ki lo dibarti et avotēhem velo",
+       "strong": "H3588",
+       "pos": "conjuncție + particulă negativă + verb, piel perfect + marcă a complementului direct + substantiv construct + sufix + particulă negativă",
+       "def_ro": "căci n-am vorbit strămoșilor voștri și nici nu le-am.",
+       "dict_ro": "Rashi explică faptul că la Sinai condiția inițială n-a fost nicidecum jertfa, ci: «dacă veți asculta glasul Meu și dacă veți păzi legământul Meu, veți fi ai Mei dintre toate popoarele» (Exod 19:5) — jertfele au venit mult mai târziu, ca poruncă secundară."
+      },
+      {
+       "t": " "
       },
       {
        "t": "poruncit",
@@ -64738,7 +64768,17 @@
        "dict_ro": "Tzava — Rashi precizează limita exactă a afirmației: nu că porunca despre jertfe n-ar exista deloc (ea vine în Levitic), ci că nu aceasta a fost condiția inițială pusă la Sinai — condiția dintâi, dinaintea oricărei legi rituale, a fost simplu „ascultați de glasul Meu” (v.23), citând explicit Exodul 19:5. Jertfele sunt parte din Lege, dar nu temelia legământului."
       },
       {
-       "t": ", în ziua când i-am scos din țara Egiptului, despre arderi-de-tot sau jertfe de pace,"
+       "t": ", "
+      },
+      {
+       "t": "în ziua când i-am scos din țara Egiptului, despre arderi-de-tot sau jertfe de pace,",
+       "w": "în ziua când i-am scos din țara Egiptului, despre arderi-de-tot sau jertfe de pace,",
+       "heb": "בְּיוֹם הוֹצִיאִי אוֹתָם מֵאֶרֶץ מִצְרָיִם עַל דִּבְרֵי עוֹלָה וָזָבַח",
+       "translit": "beom hoți otam mēereț mițraim al divrē ola vazavah",
+       "strong": "H3117",
+       "pos": "substantiv construct + verb, hifil infinitiv + sufix + marcă a complementului direct + sufix + substantiv construct + nume propriu + prepoziție + substantiv construct + substantiv + substantiv",
+       "def_ro": "în ziua scoaterii lor din țara Egiptului, cu privire la arderea-de-tot și jertfă.",
+       "dict_ro": "Metzudat David explică faptul că, dacă scopul scoaterii din Egipt ar fi fost aducerea jertfelor, ar fi fost firesc ca porunca despre ele să fie dată chiar în acea zi — faptul că n-a fost arată că jertfa nu e temelia relației cu DOMNUL."
       }
      ],
      "textCompare": [
@@ -64782,7 +64822,14 @@
      "translit": "Ki im-et-hadavar haze tziviti otam lemor șimu bekoli vehayiti lachem lElohim veatem tihyu-li leam vahalachtem bechol-haderech așer atzave etchem lemaan yitav lachem.",
      "tokens": [
       {
-       "t": "ci le-am poruncit doar legat de aceasta, spunând: „"
+       "t": "ci le-am poruncit doar legat de aceasta, spunând: „",
+       "w": "ci le-am poruncit doar legat de aceasta, spunând: „",
+       "heb": "כִּי אִם אֶת הַדָּבָר הַזֶּה צִוִּיתִי אוֹתָם לֵאמֹר",
+       "translit": "ki im et hadavar haze țiviti otam lēmor",
+       "strong": "H3588",
+       "pos": "conjuncție + conjuncție + marcă a complementului direct + substantiv + pronume demonstrativ + verb, piel perfect + marcă a complementului direct + sufix + verb, qal infinitiv",
+       "def_ro": "ci doar acest lucru le-am poruncit, spunând.",
+       "dict_ro": "Metzudat David explică faptul că aceasta a fost porunca temelie, iar jertfa e doar una dintre poruncile particulare — fără ascultarea de glasul DOMNULUI, nicio jertfă nu are valoare."
       },
       {
        "t": "Ascultați",
@@ -64797,7 +64844,17 @@
        "dict_ro": "Șama — verbul „a asculta” în ebraică poartă implicit și sensul de „a se supune”, nu doar „a auzi” (aceeași rădăcină din Șema Israel). Metzudat David subliniază structura logică a versetului: ascultarea de glasul DOMNULUI e „lucrul acesta” (hadavar haze) — condiția unică și centrală a legământului, iar toate poruncile particulare, inclusiv cele despre jertfe, decurg din ea ca ramuri, nu ca temelie."
       },
       {
-       "t": " de glasul Meu, ca să vă fiu Dumnezeu și voi să-Mi fiți popor și să urmați toată calea pe care v-o poruncesc, ca să vă fie bine."
+       "t": " "
+      },
+      {
+       "t": "de glasul Meu, ca să vă fiu Dumnezeu și voi să-Mi fiți popor și să urmați toată calea pe care v-o poruncesc, ca să vă fie bine.",
+       "w": "de glasul Meu, ca să vă fiu Dumnezeu și voi să-Mi fiți popor și să urmați toată calea pe care v-o poruncesc, ca să vă fie bine.",
+       "heb": "בְקוֹלִי וְהָיִיתִי לָכֶם לֵאלֹהִים וְאַתֶּם תִּהְיוּ לִי לְעָם וַהֲלַכְתֶּם בְּכָל הַדֶּרֶךְ אֲשֶׁר אֲצַוֶּה אֶתְכֶם לְמַעַן יִיטַב לָכֶם",
+       "translit": "vekoli vehaiti lahem lēlohim veatem tihiu li leam vahalahtem behal hadereh așer ațave ethem lemaan itav lahem",
+       "strong": "H6963",
+       "pos": "substantiv construct + sufix + verb, qal perfect consecutiv + prepoziție + sufix + substantiv + pronume personal + verb, qal imperfect + prepoziție + sufix + substantiv + verb, qal perfect consecutiv + substantiv construct + substantiv + particulă relativă + verb, piel imperfect + marcă a complementului direct + sufix + prepoziție + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "glasul Meu, și voi fi vouă Dumnezeu, și voi Îmi veți fi popor, și veți merge pe toată calea pe care v-o poruncesc, ca să vă fie bine.",
+       "dict_ro": "Metzudat David explică faptul că binele promis nu e un folos pentru DOMNUL Însuși, ci exclusiv pentru popor — relația de legământ e structurată integral în beneficiul celui care ascultă, nu al Celui care poruncește."
       }
      ],
      "textCompare": [
@@ -64837,7 +64894,17 @@
      "translit": "Velo șameu velo-hitu et-oznam vayelchu bemoetzot bișrirut libam hara vayihyu leahór velo lefanim.",
      "tokens": [
       {
-       "t": "Dar ei nu au ascultat și nu și-au plecat urechea, ci au urmat propriile lor sfaturi, "
+       "t": "Dar ei nu au ascultat și nu și-au plecat urechea, ci au urmat propriile lor sfaturi,",
+       "w": "Dar ei nu au ascultat și nu și-au plecat urechea, ci au urmat propriile lor sfaturi,",
+       "heb": "וְלֹא שָׁמְעוּ וְלֹא הִטּוּ אֶת אָזְנָם וַיֵּלְכוּ בְּמֹעֵצוֹת",
+       "translit": "velo șamu velo hitu et aznam vaiēlhu bemoēțot",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal perfect + particulă negativă + verb, hifil perfect + marcă a complementului direct + substantiv construct + sufix + verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "și n-au ascultat și nu și-au plecat urechea, ci au mers după sfaturi.",
+       "dict_ro": "Metzudat David explică faptul că aceasta se referă chiar la generația ieșită din Egipt — neascultarea nu e un fenomen recent, ci o trăsătură constantă, repetată, a istoriei poporului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pornirile inimii lor rele",
@@ -64852,7 +64919,17 @@
        "dict_ro": "Șerirut — „încăpățânare/îndărătnicie”, un termen aproape exclusiv ieremian (apare de 8 ori numai în această carte), desemnând nu o singură alunecare, ci un tipar de comportament statornic: fiecare generație urmează propriile porniri, în locul poruncii primite, într-un cerc care se repetă de la Exod până în prezentul lui Ieremia."
       },
       {
-       "t": ", au mers înapoi și nu înainte."
+       "t": ", "
+      },
+      {
+       "t": "au mers înapoi și nu înainte.",
+       "w": "au mers înapoi și nu înainte.",
+       "heb": "וַיִּהְיוּ לְאָחוֹר וְלֹא לְפָנִים",
+       "translit": "vaihiu leahor velo lefanim",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + substantiv + particulă negativă + substantiv",
+       "def_ro": "și au fost spre înapoi și nu spre înainte.",
+       "dict_ro": "Metzudat David explică faptul că, în fiecare zi, poporul se depărta tot mai mult de slujirea DOMNULUI, în loc să se apropie — regresul moral descris aici e progresiv, nu un eveniment singular."
       }
      ],
      "textCompare": [
@@ -64891,7 +64968,17 @@
      "translit": "Lemin-hayom așer yatzu avoteichem meereț Mițraim ad hayom haze vaeșlah aleichem et-kol-avadai haneviím yom hașkem veșaloah.",
      "tokens": [
       {
-       "t": "Din ziua în care strămoșii tăi au ieșit din țara Egiptului și până astăzi, le-am trimis pe toți "
+       "t": "Din ziua în care strămoșii tăi au ieșit din țara Egiptului și până astăzi, le-am trimis pe toți",
+       "w": "Din ziua în care strămoșii tăi au ieșit din țara Egiptului și până astăzi, le-am trimis pe toți",
+       "heb": "לְמִן הַיּוֹם אֲשֶׁר יָצְאוּ אֲבוֹתֵיכֶם מֵאֶרֶץ מִצְרַיִם עַד הַיּוֹם הַזֶּה וָאֶשְׁלַח אֲלֵיכֶם אֶת",
+       "translit": "lemin haiom așer iațu avotēhem mēereț mițraim ad haiom haze vaeșlah alēhem et",
+       "strong": "H4480",
+       "pos": "prepoziție + substantiv + particulă relativă + verb, qal perfect + substantiv construct + sufix + substantiv construct + nume propriu + prepoziție + substantiv + pronume demonstrativ + verb, qal imperfect consecutiv + prepoziție + sufix + marcă a complementului direct",
+       "def_ro": "din ziua în care au ieșit strămoșii voștri din țara Egiptului și până în ziua aceasta, am trimis la voi pe toți.",
+       "dict_ro": "Metzudat David explică faptul că, de atunci și până acum, DOMNUL n-a lipsit poporul de slujitorii Săi profeții nicio zi, ci în fiecare zi îi trimitea devreme, stăruind să-i întoarcă spre bine — continuitatea trimiterii contrastează dureros cu continuitatea refuzului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "slujitorii Mei, profeții",
@@ -64906,7 +64993,17 @@
        "dict_ro": "Navi (plural neviim) — titlul „robii Mei, profeții” revine ca formulă fixă la Ieremia (cf. 7:25, 25:4, 26:5, 29:19, 35:15, 44:4) pentru a descrie întregul șir neîntrerupt de trimiși divini de-a lungul istoriei lui Israel — imaginea „dimineața devreme” (yom hașkem) sugerează, după Rashi, o grabă și o stăruință părintească, nu o formalitate birocratică."
       },
       {
-       "t": ", în fiecare zi îi trimit dimineața devreme."
+       "t": ", "
+      },
+      {
+       "t": "în fiecare zi îi trimit dimineața devreme.",
+       "w": "în fiecare zi îi trimit dimineața devreme.",
+       "heb": "יוֹם הַשְׁכֵּם וְשָׁלֹחַ",
+       "translit": "iom hașkēm veșaloah",
+       "strong": "H3117",
+       "pos": "substantiv + verb, hifil infinitiv absolut + verb, qal infinitiv absolut",
+       "def_ro": "zi de zi, trimitere stăruitoare și devreme.",
+       "dict_ro": "Rashi explică «yom hașkem veșaloah» ca «zi de zi, dis-de-dimineață și stăruitor» — dubla formă infinitivă intensifică insistența neîntreruptă a chemării profetice."
       }
      ],
      "textCompare": [
@@ -64950,7 +65047,17 @@
      "translit": "Velo șameu elai velo hitu et-oznam vayakșu et-orpam heréu meavotam.",
      "tokens": [
       {
-       "t": "Dar ei nu ascultă de Mine și nu își pleacă urechea; ei și-au "
+       "t": "Dar ei nu ascultă de Mine și nu își pleacă urechea; ei și-au",
+       "w": "Dar ei nu ascultă de Mine și nu își pleacă urechea; ei și-au",
+       "heb": "וְלֹא שָׁמְעוּ אֵלַי וְלֹא הִטּוּ אֶת אָזְנָם",
+       "translit": "velo șamu ēlai velo hitu et aznam",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal perfect + prepoziție + sufix + particulă negativă + verb, hifil perfect + marcă a complementului direct + substantiv construct + sufix",
+       "def_ro": "și n-au ascultat de Mine și nu și-au plecat urechea; și-au.",
+       "dict_ro": "Metzudat David explică imaginea «grumazului înțepenit» ca pe un om care nu vrea să-și întoarcă fața spre semenul lui pentru a-i asculta cuvintele — refuzul fizic al atenției devine simbol al refuzului spiritual."
+      },
+      {
+       "t": " "
       },
       {
        "t": "învârtoșat grumazul",
@@ -64965,7 +65072,17 @@
        "dict_ro": "Kașa oref — expresia idiomatică „a-și înțepeni ceafa” descrie imaginea unui animal de tracțiune care se opune încordat hățurilor, refuzând să fie condus; e aceeași expresie folosită pentru păcatul vițelului de aur (Exodul 32:9) — folosind-o aici, Ieremia leagă în mod explicit generația lui de generația fondatoare a idolatriei din pustie, agravând acuzația prin comparație directă: „mai răi decât strămoșii lor”."
       },
       {
-       "t": " și au devenit mai răi decât strămoșii lor."
+       "t": " "
+      },
+      {
+       "t": "și au devenit mai răi decât strămoșii lor.",
+       "w": "și au devenit mai răi decât strămoșii lor.",
+       "heb": "הֵרֵעוּ מֵאֲבוֹתָם",
+       "translit": "hērēu mēavotam",
+       "strong": "H7489",
+       "pos": "verb, hifil perfect + substantiv construct + sufix",
+       "def_ro": "au făcut mai rău decât strămoșii lor.",
+       "dict_ro": "Escaladarea morală — fiecare generație mai rea decât precedenta — confirmă structura deliberată a acuzației: nu doar repetarea păcatului, ci intensificarea lui progresivă de-a lungul istoriei."
       }
      ],
      "textCompare": [
@@ -65005,7 +65122,17 @@
      "translit": "Vedibarta aleihem et-kol-hadevarim haele velo yișmeu elecha vekarata aleihem velo yaancha.",
      "tokens": [
       {
-       "t": "Le vei spune toate aceste lucruri, dar ei nu te vor asculta; îi vei "
+       "t": "Le vei spune toate aceste lucruri, dar ei nu te vor asculta; îi vei",
+       "w": "Le vei spune toate aceste lucruri, dar ei nu te vor asculta; îi vei",
+       "heb": "וְדִבַּרְתָּ אֲלֵיהֶם אֶת כָּל הַדְּבָרִים הָאֵלֶּה וְלֹא יִשְׁמְעוּ אֵלֶיךָ וְ",
+       "translit": "vedibarta alēhem et kal hadvarim haēle velo ișmeu ēleha ve",
+       "strong": "H1696",
+       "pos": "verb, piel perfect consecutiv + prepoziție + sufix + marcă a complementului direct + substantiv construct + substantiv + pronume demonstrativ + particulă negativă + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "și le vei vorbi toate aceste cuvinte, și nu te vor asculta, și.",
+       "dict_ro": "Metzudat David explică faptul că, chiar dacă profetul știe dinainte că nu va fi ascultat, trebuie totuși să vorbească — ca poporul să nu aibă ce răspunde la judecată, pretinzând că n-a fost înștiințat."
+      },
+      {
+       "t": " "
       },
       {
        "t": "striga",
@@ -65019,7 +65146,17 @@
        "dict_ro": "Kara — versetul marchează o schimbare de destinatar în text: DOMNUL nu mai vorbește direct poporului (ca la v.21-26), ci i se adresează lui Ieremia însuși, avertizându-l dinainte că misiunea lui va eșua din perspectiva rezultatului imediat — profetul trebuie să vestească oricum, chiar știind că nu va fi ascultat, într-un paralelism structural cu comisionul similar dat lui Isaia (Isaia 6:9-10) și lui Ezechiel (Ezechiel 3:4-11)."
       },
       {
-       "t": ", dar ei nu îți vor răspunde."
+       "t": ", "
+      },
+      {
+       "t": "dar ei nu îți vor răspunde.",
+       "w": "dar ei nu îți vor răspunde.",
+       "heb": "אֲלֵיהֶם וְלֹא יַעֲנוּכָה",
+       "translit": "alēhem velo iaanuha",
+       "strong": "H6030",
+       "pos": "prepoziție + sufix + particulă negativă + verb, qal imperfect + sufix",
+       "def_ro": "către ei, și nu-ți vor răspunde.",
+       "dict_ro": "Dublul refuz — de a asculta și de a răspunde — confirmă surditatea completă a poporului, nu doar o neatenție parțială sau temporară."
       }
      ],
      "textCompare": [
@@ -65057,7 +65194,17 @@
      "translit": "Veamarta aleihem ze hagoi așer lo-șameu bekol ADONAI Elohav velo lakhu musar avda haemuna venichreta mipihim.",
      "tokens": [
       {
-       "t": "Le vei spune: „Acesta este neamul care nu va asculta de glasul DOMNULUI, Dumnezeului său, și nu va primi "
+       "t": "Le vei spune: „Acesta este neamul care nu va asculta de glasul DOMNULUI, Dumnezeului său, și nu va primi",
+       "w": "Le vei spune: „Acesta este neamul care nu va asculta de glasul DOMNULUI, Dumnezeului său, și nu va primi",
+       "heb": "וְאָמַרְתָּ אֲלֵיהֶם זֶה הַגּוֹי אֲשֶׁר לוֹא שָׁמְעוּ בְּקוֹל יְהוָה אֱלֹהָיו וְלֹא לָקְחוּ",
+       "translit": "veamarta alēhem ze hagoi așer lo șamu bekol Adonai elohaiv velo lakhu",
+       "strong": "H559",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + pronume demonstrativ + substantiv + particulă relativă + particulă negativă + verb, qal perfect + substantiv construct + nume propriu + substantiv construct + sufix + particulă negativă + verb, qal perfect",
+       "def_ro": "și le vei spune: acesta e neamul care n-a ascultat de glasul DOMNULUI, Dumnezeul lui, și n-a primit.",
+       "dict_ro": "Metzudat David explică faptul că aceștia nu mai sunt socotiți ca fiii lui Israel care au auzit cuvântul DOMNULUI la Sinai, ci ca și cum n-ar fi ascultat niciodată glasul Lui și n-ar fi învățat vreodată disciplina — o pierdere completă a identității legământului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "mustrarea",
@@ -65072,7 +65219,17 @@
        "dict_ro": "Musar — termen central în literatura de înțelepciune (cf. Proverbe 1:7, „nebunii disprețuiesc înțelepciunea și musar-ul”), desemnând nu o simplă critică, ci disciplina formativă primită cu smerenie. Refuzul ei aici nu e doar un defect moral izolat, ci simptomul unei pierderi mai adânci: „credința/statornicia” (emuna) însăși a dispărut, până și din vorbire — poporul nu mai poate nici măcar rosti adevărul despre sine."
       },
       {
-       "t": "; credința sa este pierdută și nimicită din gura lor.”"
+       "t": "; "
+      },
+      {
+       "t": "credința sa este pierdută și nimicită din gura lor.”",
+       "w": "credința sa este pierdută și nimicită din gura lor.”",
+       "heb": "אָבְדָה הָאֱמוּנָה וְנִכְרְתָה מִפִּיהֶם",
+       "translit": "avda haemuna venihreta mipihem",
+       "strong": "H6",
+       "pos": "verb, qal perfect + substantiv + verb, nifal perfect + substantiv construct + sufix",
+       "def_ro": "a pierit credința și s-a stins din gura lor.",
+       "dict_ro": "Metzudat David explică faptul că credința în Dumnezeu nu doar s-a stins din inimile lor, ci s-a stins chiar din gura lor — nu se mai pomenește nici măcar verbal, semn al unei pierderi totale, nu doar interioare."
       }
      ],
      "textCompare": [
@@ -65127,7 +65284,17 @@
        "dict_ro": "Nezer — cuvântul poartă și sensul de „cunună/consacrare” (aceeași rădăcină din care vine „nazireu”), o dublă lectură reală pe care Rashi o notează explicit: fie „tunde-ți părul” ca gest ritual de jale (cf. Iov 1:20), fie, printr-o citire alternativă atribuită lui Menahem, „coroana ta de măreție” — Ierusalimul chemat să-și arunce departe însăși gloria pe care o avea."
       },
       {
-       "t": " și aruncă-l, înalță cântare de jale din înălțimi, căci DOMNUL a disprețuit și a părăsit generația mâniei Lui."
+       "t": " "
+      },
+      {
+       "t": "și aruncă-l, înalță cântare de jale din înălțimi, căci DOMNUL a disprețuit și a părăsit generația mâniei Lui.",
+       "w": "și aruncă-l, înalță cântare de jale din înălțimi, căci DOMNUL a disprețuit și a părăsit generația mâniei Lui.",
+       "heb": "וְהַשְׁלִיכִי וּשְׂאִי עַל שְׁפָיִם קִינָה כִּי מָאַס יְהוָה וַיִּטֹּשׁ אֶת דּוֹר עֶבְרָתוֹ",
+       "translit": "vehașlihi usi al șefaim kina ki maas Adonai vaitoș et dor evrato",
+       "strong": "H7993",
+       "pos": "verb, hifil imperativ + verb, qal imperativ + prepoziție + substantiv + substantiv + conjuncție + verb, qal perfect + nume propriu + verb, qal imperfect consecutiv + marcă a complementului direct + substantiv construct + sufix",
+       "def_ro": "și aruncă-l, și înalță pe înălțimi cântare de jale, căci a disprețuit DOMNUL și a părăsit generația mâniei Lui.",
+       "dict_ro": "Rashi explică «nizrech» printr-o posibilă dublă tâlcuire: fie «smulge-ți părul» (ca un gest de doliu), fie «cununa ta», termen de măreție, tradus de Targumul lui Ionatan drept «rabrevich», măreția ta — în ambele cazuri, un semn public al pierderii totale."
       }
      ],
      "textCompare": [
@@ -65167,7 +65334,17 @@
      "translit": "Ki-asu venei-Yehuda hara beeinai neum-ADONAI samu șikutzeihem babayit așer-nikra-șemi alav letameo.",
      "tokens": [
       {
-       "t": "Căci copiii lui Iuda au făcut ce este rău în ochii Mei – rostirea DOMNULUI – și-au pus "
+       "t": "Căci copiii lui Iuda au făcut ce este rău în ochii Mei – rostirea DOMNULUI – și-au pus",
+       "w": "Căci copiii lui Iuda au făcut ce este rău în ochii Mei – rostirea DOMNULUI – și-au pus",
+       "heb": "כִּי עָשׂוּ בְנֵי יְהוּדָה הָרַע בְּעֵינַי נְאֻום יְהוָה שָׂמוּ",
+       "translit": "ki asu venē iehuda hara beēnai neuvm Adonai samu",
+       "strong": "H3588",
+       "pos": "conjuncție + verb, qal perfect + substantiv construct + nume propriu + adjectiv + substantiv construct + sufix + substantiv construct + nume propriu + verb, qal perfect",
+       "def_ro": "căci au făcut copiii lui Iuda răul în ochii Mei, rostirea DOMNULUI, au pus.",
+       "dict_ro": "Metzudat David explică faptul că idolatria scârboasă pusă chiar în Casa DOMNULUI arată cât de puțin le-a păsat de sfințenia ei — n-au ezitat s-o spurce cu propriii lor idoli, în locul cel mai sfânt al națiunii."
+      },
+      {
+       "t": " "
       },
       {
        "t": "scârboșeniile",
@@ -65237,7 +65414,17 @@
        "dict_ro": "Tofet — Rashi identifică locul cu cultul lui Moloh: un idol de aramă încins pe dinăuntru, cu brațele întinse, pe care era pus copilul, în timp ce preoții băteau tobe (tupim, de unde ar veni și numele „Tofet”) ca tatăl să nu audă țipătul fiului și să nu i se înmoaie inima — iar „Hinom” ar veni de la gemetele (nehama) copilului. Etimologiile sunt tradiționale, nu documentate arheologic, dar exprimă limpede oroarea morală atribuită locului."
       },
       {
-       "t": ", care sunt în valea fiului lui Hinom, ca să-i ardă pe fiii și pe fiicele lor în foc – ce nici n-am poruncit și nici nu Mi-a trecut prin minte."
+       "t": ", "
+      },
+      {
+       "t": "care sunt în valea fiului lui Hinom, ca să-i ardă pe fiii și pe fiicele lor în foc – ce nici n-am poruncit și nici nu Mi-a trecut prin minte.",
+       "w": "care sunt în valea fiului lui Hinom, ca să-i ardă pe fiii și pe fiicele lor în foc – ce nici n-am poruncit și nici nu Mi-a trecut prin minte.",
+       "heb": "אֲשֶׁר בְּגֵיא בֶן הִנֹּם לִשְׂרֹף אֶת בְּנֵיהֶם וְאֶת בְּנֹתֵיהֶם בָּאֵשׁ אֲשֶׁר לֹא צִוִּיתִי וְלֹא עָלְתָה עַל לִבִּי",
+       "translit": "așer begē ven hinom lisrof et benēhem veet benotēhem baēș așer lo țiviti velo alta al libi",
+       "strong": "H834",
+       "pos": "particulă relativă + substantiv construct + nume propriu + nume propriu + verb, qal infinitiv + marcă a complementului direct + substantiv plural construct + sufix + marcă a complementului direct + substantiv plural construct + sufix + substantiv + particulă relativă + particulă negativă + verb, piel perfect + particulă negativă + verb, qal perfect + prepoziție + substantiv construct + sufix",
+       "def_ro": "care sunt în valea fiului lui Hinom, ca să ardă pe fiii lor și pe fiicele lor în foc, ceea ce n-am poruncit și n-a venit în inima Mea.",
+       "dict_ro": "Rashi identifică «Tofet» cu idolul Moloh, de aramă, încălzit pe dedesubt, cu brațele întinse, unde copiii erau puși și arși în timp ce preoții băteau tobe ca strigătele să nu ajungă la tatăl îngrozit — explicând astfel și numele locului, derivat fie de la sunetul tobei, fie de la gemătul victimei."
       }
      ],
      "textCompare": [
@@ -65281,7 +65468,17 @@
      "translit": "Lahen hine-yamim baim neum-ADONAI velo-yeamer od haTofet vegei Ven-Hinom ki im-gei haharega vekavru veTofet meein makom.",
      "tokens": [
       {
-       "t": "De aceea, iată, vin zile – rostirea DOMNULUI – când nu se va mai spune Tofet și nici Valea Ben-Hinom, ci "
+       "t": "De aceea, iată, vin zile – rostirea DOMNULUI – când nu se va mai spune Tofet și nici Valea Ben-Hinom, ci",
+       "w": "De aceea, iată, vin zile – rostirea DOMNULUI – când nu se va mai spune Tofet și nici Valea Ben-Hinom, ci",
+       "heb": "לָכֵן הִנֵּה יָמִים בָּאִים נְאֻם יְהוָה וְלֹא יֵאָמֵר עוֹד הַתֹּפֶת וְגֵיא בֶן הִנֹּם כִּי אִם",
+       "translit": "lahēn hinē iamim baim neum Adonai velo iēamēr od hatofet vegē ven hinom ki im",
+       "strong": "H3651",
+       "pos": "adverb + particulă demonstrativă + substantiv + verb, qal participiu + substantiv construct + nume propriu + particulă negativă + verb, nifal imperfect + adverb + nume propriu + substantiv construct + nume propriu + nume propriu + conjuncție + conjuncție",
+       "def_ro": "de aceea, iată, vin zile, rostirea DOMNULUI, și nu se va mai numi Tofet și valea fiului lui Hinom, ci.",
+       "dict_ro": "Schimbarea numelui locului — de la Tofet la Valea Măcelului — marchează transformarea sensului său: nu mai e locul idolatriei infantice, ci locul judecății pentru cei care au practicat-o."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Valea Măcelului",
@@ -65296,7 +65493,17 @@
        "dict_ro": "Harega — schimbarea de nume e o formă de judecată poetică: locul unde copiii erau arși ca „jertfă” devine locul unde adulții vor cădea uciși — pedeapsa reflectă exact natura păcatului, în locul exact unde a fost comis. Aceeași vale (Ghe-Hinom) va deveni, în tradiția ulterioară, sursa numelui „Ghehena” pentru locul pedepsei de dincolo de moarte."
       },
       {
-       "t": ", și îi vor îngropa [pe cei morți] în Tofet din lipsă de loc."
+       "t": ", "
+      },
+      {
+       "t": "și îi vor îngropa [pe cei morți] în Tofet din lipsă de loc.",
+       "w": "și îi vor îngropa [pe cei morți] în Tofet din lipsă de loc.",
+       "heb": "וְקָבְרוּ בְתֹפֶת מֵאֵין מָקוֹם",
+       "translit": "vekavru vetofet mēēn makom",
+       "strong": "H6912",
+       "pos": "verb, qal perfect consecutiv + nume propriu + particulă negativă + substantiv",
+       "def_ro": "și vor îngropa în Tofet, din lipsă de loc.",
+       "dict_ro": "Metzudat David explică faptul că acolo vor cădea atât de mulți uciși, încât se vor îngropa chiar la Tofet, fiindcă nu se va mai găsi loc pentru alți morți — ironia judecății e că locul idolatriei devine locul de înmormântare al celor care au practicat-o."
       }
      ],
      "textCompare": [
@@ -65335,7 +65542,17 @@
      "translit": "Vehaita nivlat haam haze lemaachal leof hașamayim ulevehemat haaretz veein maharid.",
      "tokens": [
       {
-       "t": "Și hoitul acestui popor va fi hrană pentru păsările cerurilor și pentru fiarele pământului și nimeni nu le va "
+       "t": "Și hoitul acestui popor va fi hrană pentru păsările cerurilor și pentru fiarele pământului și nimeni nu le va",
+       "w": "Și hoitul acestui popor va fi hrană pentru păsările cerurilor și pentru fiarele pământului și nimeni nu le va",
+       "heb": "וְהָיְתָה נִבְלַת הָעָם הַזֶּה לְמַאֲכָל לְעוֹף הַשָּׁמַיִם וּלְבֶהֱמַת הָאָרֶץ וְאֵין",
+       "translit": "vehaita nivlat haam haze lemaahal leof hașamaim ulvehemat haareț veēn",
+       "strong": "H1961",
+       "pos": "verb, qal perfect consecutiv + substantiv construct + substantiv + pronume demonstrativ + substantiv + substantiv construct + substantiv + substantiv construct + substantiv + particulă negativă",
+       "def_ro": "și va fi hoitul acestui popor hrană pentru pasărea cerurilor și pentru fiara pământului, și nu [va fi].",
+       "dict_ro": "Metzudat David explică faptul că nu va mai rămâne niciun om viu care să alunge păsările și fiarele de pe hoituri, căci toți vor fi uciși sau duși în exil — absența totală a unui îngrijitor confirmă amploarea dezastrului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "speria",
@@ -65390,7 +65607,17 @@
      "translit": "Vehișbati mearei Yehuda umehutzot Yerușalaim kol sason vekol simha kol hatan vekol kala ki lehorba tihye haaretz.",
      "tokens": [
       {
-       "t": "Voi face să înceteze în orașele din Iuda și pe străzile Ierusalimului sunetul bucuriei și sunetul veseliei, "
+       "t": "Voi face să înceteze în orașele din Iuda și pe străzile Ierusalimului sunetul bucuriei și sunetul veseliei,",
+       "w": "Voi face să înceteze în orașele din Iuda și pe străzile Ierusalimului sunetul bucuriei și sunetul veseliei,",
+       "heb": "וְהִשְׁבַּתִּי מֵעָרֵי יְהוּדָה וּמֵחֻצוֹת יְרוּשָׁלִַם קוֹל שָׂשׂוֹן וְקוֹל שִׂמְחָה",
+       "translit": "vehișbati mēarē iehuda umēhuțot ierușalam kol sason vekol simha",
+       "strong": "H7673",
+       "pos": "verb, hifil perfect consecutiv + substantiv plural construct + nume propriu + substantiv plural construct + nume propriu + substantiv construct + substantiv + substantiv construct + substantiv",
+       "def_ro": "și voi face să tacă din cetățile lui Iuda și din străzile Ierusalimului glasul bucuriei și glasul veseliei.",
+       "dict_ro": "Metzudat David explică faptul că până și cea mai firească bucurie a vieții de zi cu zi — inclusiv glasul de nuntă — se va stinge complet, căci țara va rămâne pustie și fără locuitori."
+      },
+      {
+       "t": " "
       },
       {
        "t": "glasul mirelui și glasul miresei",
@@ -65405,7 +65632,17 @@
        "dict_ro": "Hatan/kala — formula pereche „glasul mirelui și glasul miresei” revine ca refren la Ieremia (16:9, 25:10, 33:11) pentru a desemna bucuria socială cea mai firească și mai de neșters dintr-o comunitate — o nuntă. Tocmai de aceea, tăcerea ei devine imaginea supremă a pustiirii complete: nu doar absența bucuriei religioase, ci stingerea vieții obișnuite, de zi cu zi, a orașului."
       },
       {
-       "t": ", căci în ruină va fi țara."
+       "t": ", "
+      },
+      {
+       "t": "căci în ruină va fi țara.",
+       "w": "căci în ruină va fi țara.",
+       "heb": "כִּי לְחָרְבָּה תִּהְיֶה הָאָרֶץ",
+       "translit": "ki leharba tihie haareț",
+       "strong": "H3588",
+       "pos": "conjuncție + substantiv + verb, qal imperfect + substantiv",
+       "def_ro": "căci în ruină va fi țara.",
+       "dict_ro": "Formula de încheiere a oracolului confirmă cauza directă a tăcerii generale: nu o pedeapsă arbitrară, ci consecința inevitabilă a pustiirii totale a țării."
       }
      ],
      "textCompare": [
@@ -65445,7 +65682,17 @@
      "translit": "Baet hahi neum-ADONAI veyotziu et-atzmot malchei-Yehuda veet-atzmot-sarav veet-atzmot hakohanim veet atzmot haneviím veet atzmot yoșvei Yerușalaim mikivrehem.",
      "tokens": [
       {
-       "t": "În vremea aceea – rostirea DOMNULUI – vor scoate "
+       "t": "În vremea aceea – rostirea DOMNULUI – vor scoate",
+       "w": "În vremea aceea – rostirea DOMNULUI – vor scoate",
+       "heb": "בָּעֵת הַהִיא נְאֻם יְהוָה יוֹצִיאוּ אֶת",
+       "translit": "baēt hahi neum Adonai ioțiu et",
+       "strong": "H6256",
+       "pos": "substantiv + pronume personal + substantiv construct + nume propriu + verb, hifil imperfect + marcă a complementului direct",
+       "def_ro": "în vremea aceea, rostirea DOMNULUI, vor scoate.",
+       "dict_ro": "Metzudat David explică faptul că vrăjmașii care vor veni vor scoate oasele din morminte special ca să le dezonoreze — o profanare post-mortem adăugată la pedeapsa deja suferită în viață."
+      },
+      {
+       "t": " "
       },
       {
        "t": "oasele",
@@ -65460,7 +65707,17 @@
        "dict_ro": "Etzem — scoaterea și expunerea oaselor din morminte era considerată printre cele mai grave forme de dezonorare postumă posibile, o negare totală a odihnei cuvenite morților; faptul că lista începe cu „regii”, cei mai onorați în viață, și include chiar preoți și profeți arată că nicio poziție de autoritate religioasă sau politică nu va oferi protecție împotriva acestei rușini colective."
       },
       {
-       "t": " regilor din Iuda și oasele conducătorilor săi, și oasele preoților, și oasele profeților, și oasele locuitorilor Ierusalimului, din mormintele lor."
+       "t": " "
+      },
+      {
+       "t": "regilor din Iuda și oasele conducătorilor săi, și oasele preoților, și oasele profeților, și oasele locuitorilor Ierusalimului, din mormintele lor.",
+       "w": "regilor din Iuda și oasele conducătorilor săi, și oasele preoților, și oasele profeților, și oasele locuitorilor Ierusalimului, din mormintele lor.",
+       "heb": "מַלְכֵי יְהוּדָה וְאֶת עַצְמוֹת שָׂרָיו וְאֶת עַצְמוֹת הַכֹּהֲנִים וְאֵת עַצְמוֹת הַנְּבִיאִים וְאֵת עַצְמוֹת יוֹשְׁבֵי יְרוּשָׁלִָם מִקִּבְרֵיהֶם",
+       "translit": "malhē iehuda veet ațmot saraiv veet ațmot hakohanim veēt ațmot hanvim veēt ațmot ioșvē ierușalam mikivrēhem",
+       "strong": "H4428",
+       "pos": "substantiv plural construct + nume propriu + marcă a complementului direct + substantiv plural construct + substantiv plural construct + sufix (repetat de patru ori pentru oasele) + verb, qal participiu + nume propriu + substantiv plural construct + sufix",
+       "def_ro": "regilor lui Iuda, și oasele căpeteniilor lui, și oasele preoților, și oasele profeților, și oasele locuitorilor Ierusalimului, din mormintele lor.",
+       "dict_ro": "Metzudat David identifică «preoții» cu cei ai lui Baal și «profeții» cu profeții mincinoși — enumerarea exhaustivă a tuturor categoriilor sociale, de la regi la locuitori de rând, arată că nicio clasă n-a fost scutită de idolatrie, și deci de pedeapsă."
       }
      ],
      "textCompare": [
@@ -65500,7 +65757,17 @@
      "translit": "Ușetahum lașemeș valayareah ulechol tzeva hașamayim așer ahevum vaașer avadum vaașer halchu ahareihem vaașer derașum vaașer hiștahavu lahem lo yeasfu velo yikaveru ledomen al-penei haadama yihyu.",
      "tokens": [
       {
-       "t": "Și le vor împrăștia la [lumina] soarelui și a lunii și a întregii "
+       "t": "Și le vor împrăștia la [lumina] soarelui și a lunii și a întregii",
+       "w": "Și le vor împrăștia la [lumina] soarelui și a lunii și a întregii",
+       "heb": "וּשְׁטָחוּם לַשֶּׁמֶשׁ וְלַיָּרֵחַ וּלְכֹל",
+       "translit": "uștahum lașemeș velaiarēah ulhol",
+       "strong": "H7849",
+       "pos": "verb, qal perfect consecutiv + sufix + substantiv + substantiv + substantiv construct",
+       "def_ro": "și le vor întinde la soare și la lună și la toată.",
+       "dict_ro": "Rashi explică faptul că asediatorii caldei vor profana cetatea chiar din mormintele conducătorilor, frumoase ca niște palate — oasele expuse «la soare» sunt o batjocură deliberată a fastului funerar de odinioară."
+      },
+      {
+       "t": " "
       },
       {
        "t": "oștiri a cerurilor",
@@ -65516,7 +65783,17 @@
        "dict_ro": "Tzeva hașamayim — expresie tehnică pentru cultul astral (închinarea la stele/corpuri cerești), interzis explicit în Tora (Deuteronomul 4:19, 17:3) și asociat mai ales cu regele Manase (2 Împărați 21:3-5); ironia versetului stă în faptul că oasele închinătorilor sunt acum expuse tocmai sub lumina acelorași aștri pe care i-au venerat în viață — obiectul cultului lor devine martorul rușinii lor postume."
       },
       {
-       "t": ", pe care le-au iubit și pe care le-au venerat și pe care le-au urmat, pe care le-au căutat și înaintea cărora s-au prosternat. Nu vor mai fi adunate laolaltă și nici îngropate, ci vor fi ca gunoiul peste fața pământului."
+       "t": ", "
+      },
+      {
+       "t": "pe care le-au iubit și pe care le-au venerat și pe care le-au urmat, pe care le-au căutat și înaintea cărora s-au prosternat. Nu vor mai fi adunate laolaltă și nici îngropate, ci vor fi ca gunoiul peste fața pământului.",
+       "w": "pe care le-au iubit și pe care le-au venerat și pe care le-au urmat, pe care le-au căutat și înaintea cărora s-au prosternat. Nu vor mai fi adunate laolaltă și nici îngropate, ci vor fi ca gunoiul peste fața pământului.",
+       "heb": "אֲשֶׁר אֲהֵבוּם וַאֲשֶׁר עֲבָדוּם וַאֲשֶׁר הָלְכוּ אַחֲרֵיהֶם וַאֲשֶׁר דְּרָשׁוּם וַאֲשֶׁר הִשְׁתַּחֲווּ לָהֶם לֹא יֵאָסְפוּ וְלֹא יִקָּבֵרוּ לְדֹמֶן עַל פְּנֵי הָאֲדָמָה יִהְיוּ",
+       "translit": "așer ahēvum vaașer avadum vaașer halhu aharēhem vaașer derașum vaașer hiștahavu lahem lo iēasfu velo ikavēru ledomen al penē haadama ihiu",
+       "strong": "H834",
+       "pos": "particulă relativă + verb, qal perfect + sufix (repetat de cinci ori) + particulă negativă + verb, nifal imperfect + particulă negativă + verb, nifal imperfect + substantiv + prepoziție + substantiv construct + substantiv + verb, qal imperfect",
+       "def_ro": "pe care le-au iubit, și pe care le-au slujit, și după care au mers, și pe care le-au căutat, și înaintea cărora s-au prosternat; nu vor fi adunate și nici îngropate, ci ca gunoi pe fața pământului vor fi.",
+       "dict_ro": "Rashi explică «ledomen» ca «gunoi de grajd» — soarta rămășițelor umane, lăsate neîngropate ca gunoiul, oglindește exact lipsa de respect pe care corpurile astrale venerate idolatru nu le-au putut oferi niciodată adoratorilor lor."
       }
      ],
      "textCompare": [
@@ -65575,7 +65852,17 @@
        "dict_ro": "Mavet — versetul culminează seria de pedepse cu o inversare deznădăjduită a instinctului elementar de supraviețuire: în mod normal, viața e aleasă întotdeauna în locul morții (cf. Deuteronomul 30:19, „alege viața”); aici, gradul suferinței celor rămași va fi atât de mare, încât moartea celor deja uciși va părea de invidiat față de soarta celor care trebuie să continue să trăiască, exilați, printre popoarele străine."
       },
       {
-       "t": " vieții pentru toți cei rămași din rămășița acestei familii rele, pentru cei rămași prin toate locurile în care i-am izgonit – rostirea DOMNULUI Oștirilor."
+       "t": " "
+      },
+      {
+       "t": "vieții pentru toți cei rămași din rămășița acestei familii rele, pentru cei rămași prin toate locurile în care i-am izgonit – rostirea DOMNULUI Oștirilor.",
+       "w": "vieții pentru toți cei rămași din rămășița acestei familii rele, pentru cei rămași prin toate locurile în care i-am izgonit – rostirea DOMNULUI Oștirilor.",
+       "heb": "מֵחַיִּים לְכֹל הַשְּׁאֵרִית הַנִּשְׁאָרִים מִן הַמִּשְׁפָּחָה הָרָעָה הַזֹּאת בְּכָל הַמְּקֹמוֹת הַנִּשְׁאָרִים אֲשֶׁר הִדַּחְתִּים שָׁם נְאֻם יְהוָה צְבָאוֹת",
+       "translit": "mēhaim lehol hașērit hanișarim min hamișpaha haraa hazot behal hamkomot hanișarim așer hidahtim șam neum Adonai țevaot",
+       "strong": "H2416",
+       "pos": "substantiv + substantiv construct + substantiv + verb, nifal participiu + prepoziție + substantiv + adjectiv + pronume demonstrativ + substantiv construct + substantiv + verb, nifal participiu + particulă relativă + verb, hifil perfect + sufix + adverb + substantiv construct + nume propriu + substantiv",
+       "def_ro": "decât viața, pentru toată rămășița celor rămași din această familie rea, în toate locurile celor rămași, pe care i-am alungat acolo, rostirea DOMNULUI Oștirilor.",
+       "dict_ro": "Rashi explică faptul că, chiar dacă văd morții zăcând în batjocură, necazul celor vii va fi și mai mare decât al lor — rămășița va alege moartea nu din deznădejde pasivă, ci din comparație directă cu suferința continuă a supraviețuirii în exil."
       }
      ],
      "textCompare": [
@@ -65619,7 +65906,17 @@
      "translit": "Ko amar ADONAI al-yithalel hacham behochmato veal-yithalel hagibor bigvurato al-yithalel așir beoșro.",
      "tokens": [
       {
-       "t": "Așa a spus DOMNUL: „Cel înțelept să nu se "
+       "t": "Așa a spus DOMNUL: „Cel înțelept să nu se",
+       "w": "Așa a spus DOMNUL: „Cel înțelept să nu se",
+       "heb": "כֹּה אָמַר יְהוָה אַל יִתְהַלֵּל חָכָם",
+       "translit": "ko amar Adonai al ithalēl haham",
+       "strong": "H3541",
+       "pos": "adverb + verb, qal perfect + nume propriu + particulă negativă + verb, hitpael imperfect + substantiv",
+       "def_ro": "așa a spus DOMNUL: să nu se laude cel înțelept.",
+       "dict_ro": "Rashi leagă acest verset direct de mustrarea anterioară: «nu vă lăudați spunând: suntem înțelepți (Ieremia 8:8); iată, ați lepădat cuvântul Meu, și ce înțelepciune aveți?» — lauda de sine e nefondată tocmai pentru cei care au respins deja cuvântul divin."
+      },
+      {
+       "t": " "
       },
       {
        "t": "laude",
@@ -65634,7 +65931,43 @@
        "dict_ro": "Halal la forma hitpael reflexivă — „a se lăuda pe sine”, o formă gramaticală care implică autoreferință și mândrie construită asupra propriei persoane; rădăcina e aceeași din care vine „Aleluia” (Halelu-Ya, „lăudați pe DOMNUL”) — contrastul e voit: lauda îndreptată corect e cea adusă lui Dumnezeu, nu cea adusă sieși pentru înțelepciune, putere sau bogăție."
       },
       {
-       "t": " cu înțelepciunea sa, și nici cel puternic să nu se laude cu puterea sa, și nici cel bogat să nu se laude cu bogăția sa."
+       "t": " "
+      },
+      {
+       "t": "cu înțelepciunea sa",
+       "w": "cu înțelepciunea sa",
+       "heb": "בְּחָכְמָתוֹ",
+       "translit": "behahmato",
+       "strong": "H2451",
+       "pos": "substantiv construct + sufix",
+       "def_ro": "cu înțelepciunea lui.",
+       "dict_ro": "Primirea respinsă a cuvântului divin anulează orice pretenție reală de înțelepciune — o înțelepciune separată de ascultare e, pentru profet, o contradicție în termeni."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și nici cel puternic să nu se laude cu puterea sa",
+       "w": "și nici cel puternic să nu se laude cu puterea sa",
+       "heb": "וְאַל יִתְהַלֵּל הַגִּבּוֹר בִּגְבוּרָתוֹ",
+       "translit": "veal ithalēl hagibor bigvurato",
+       "strong": "H408",
+       "pos": "particulă negativă + verb, hitpael imperfect + substantiv + substantiv construct + sufix",
+       "def_ro": "și să nu se laude cel puternic cu puterea lui.",
+       "dict_ro": "Repetarea formulei de trei ori — înțelept, puternic, bogat — cuprinde toate formele de mândrie omenească convențională, niciuna fiind un temei real de laudă înaintea lui Dumnezeu."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și nici cel bogat să nu se laude cu bogăția sa.",
+       "w": "și nici cel bogat să nu se laude cu bogăția sa.",
+       "heb": "אַל יִתְהַלֵּל עָשִׁיר בְּעָשְׁרוֹ",
+       "translit": "al ithalēl așir beașro",
+       "strong": "H408",
+       "pos": "particulă negativă + verb, hitpael imperfect + substantiv + substantiv construct + sufix",
+       "def_ro": "să nu se laude cel bogat cu bogăția lui.",
+       "dict_ro": "A treia și ultima categorie, bogăția, încheie triada mândriilor omenești deșarte, pregătind contrastul direct cu singurul temei legitim de laudă descris în versetul următor."
       }
      ],
      "textCompare": [
@@ -65673,7 +66006,17 @@
      "translit": "Ki im-bezot yithalel hamithalel haskel veyadoa oti ki ani ADONAI ose hesed mișpat utzdaka baaretz ki-veele hafatzti neum-ADONAI.",
      "tokens": [
       {
-       "t": "Doar cu aceasta poate lăudărosul să se laude: că Mă înțelege și că Mă cunoaște, căci Eu sunt DOMNUL, care înfăptuiesc "
+       "t": "Doar cu aceasta poate lăudărosul să se laude: că Mă înțelege și că Mă cunoaște, căci Eu sunt DOMNUL, care înfăptuiesc",
+       "w": "Doar cu aceasta poate lăudărosul să se laude: că Mă înțelege și că Mă cunoaște, căci Eu sunt DOMNUL, care înfăptuiesc",
+       "heb": "כִּי אִם בְּזֹאת יִתְהַלֵּל הַמִּתְהַלֵּל הַשְׂכֵּל וְיָדֹעַ אוֹתִי כִּי אֲנִי יְהוָה עֹשֶׂה",
+       "translit": "ki im bezot ithalēl hamithalēl haskēl veiadoa oti ki ani Adonai ose",
+       "strong": "H3588",
+       "pos": "conjuncție + conjuncție + pronume demonstrativ + verb, hitpael imperfect + verb, hitpael participiu + verb, hifil infinitiv absolut + verb, qal infinitiv absolut + marcă a complementului direct + sufix + conjuncție + pronume personal + nume propriu + verb, qal participiu",
+       "def_ro": "ci doar cu aceasta se va lăuda cel ce se laudă: că a priceput și M-a cunoscut, că Eu sunt DOMNUL, care fac.",
+       "dict_ro": "Metzudat David explică faptul că singurul temei legitim de laudă este cunoașterea reală a lui Dumnezeu — nu doar unul care lucrează binele și altul răul, ci recunoașterea că DOMNUL dă fiecăruia după fapta lui, în bunăvoință, judecată și dreptate deopotrivă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "bunăvoință, justiție și dreptate",
@@ -65688,7 +66031,17 @@
        "dict_ro": "Hesed/mișpat/tzedaka — triada de atribute divine care încheie haftara nu e întâmplătoare, ci ecoul direct al formulei de autodescriere a lui Dumnezeu de la Sinai, după păcatul vițelului de aur (Exodul 34:6-7) — DOMNUL cel plin de îndurare, dar și de dreptate. Prin această triadă, cartea Ieremia, plină de acuzații și judecată, se încheie (în cadrul haftarei) pe o notă care redefinește adevărata „cunoaștere a lui Dumnezeu”: nu speculație abstractă, ci recunoașterea Lui prin exact aceste calități active în lume."
       },
       {
-       "t": " pe pământ; căci acestea sunt cele pe care le doresc – rostirea DOMNULUI!"
+       "t": " "
+      },
+      {
+       "t": "pe pământ; căci acestea sunt cele pe care le doresc – rostirea DOMNULUI!",
+       "w": "pe pământ; căci acestea sunt cele pe care le doresc – rostirea DOMNULUI!",
+       "heb": "בָּאָרֶץ כִּי בְאֵלֶּה חָפַצְתִּי נְאֻם יְהוָה",
+       "translit": "baareț ki veēle hafațti neum Adonai",
+       "strong": "H776",
+       "pos": "substantiv + conjuncție + prepoziție + pronume demonstrativ + verb, qal perfect + substantiv construct + nume propriu",
+       "def_ro": "pe pământ, căci în acestea Îmi aflu plăcerea, rostirea DOMNULUI.",
+       "dict_ro": "Formula finală de autoritate divină confirmă că bunăvoința, judecata și dreptatea — nu puterea, înțelepciunea sau bogăția — sunt valorile pe care DOMNUL Însuși le dorește și le prețuiește pe pământ."
       }
      ],
      "textCompare": [
