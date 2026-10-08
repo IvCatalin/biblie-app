@@ -75155,7 +75155,17 @@
      "translit": "Vayehi devar-ADONAI elai lemor.",
      "tokens": [
       {
-       "t": "Atunci "
+       "t": "Atunci",
+       "w": "Atunci",
+       "heb": "וַיְהִי",
+       "translit": "vaihi",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a fost.",
+       "dict_ro": "Formula introductivă marchează începutul uneia dintre cele mai dure confruntări ale lui Ezechiel cu bătrânii lui Israel, adresată direct, în persoana a doua."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cuvântul DOMNULUI",
@@ -75170,7 +75180,14 @@
        "dict_ro": "Devar ADONAI — formula care deschide oracolul; capitolul 20 e datat precis (20:1), în al șaptelea an al exilului lui Iehoiahin, când bătrânii lui Israel vin să-l întrebe pe profet. Răspunsul pe care îl primesc nu e cel așteptat: în loc de o profeție despre viitor, Ezechiel face istoria răzvrătirilor lui Israel, de la Egipt până la pustie."
       },
       {
-       "t": " a venit la mine, spunând:"
+       "t": " a venit la mine, spunând:",
+       "w": " a venit la mine, spunând:",
+       "heb": "יְהוָה אֵלַי לֵאמֹר",
+       "translit": "Adonai ēlai lēmor",
+       "strong": "H3068",
+       "pos": "nume propriu + prepoziție + sufix + verb, qal infinitiv",
+       "def_ro": "DOMNUL la mine, spunând.",
+       "dict_ro": "Formula standard de introducere profetică pregătește o judecată neobișnuit de severă — DOMNUL refuză explicit să fie «căutat» de bătrânii care vin la El, cum se va vedea în versetul următor."
       }
      ],
      "textCompare": [
@@ -75198,7 +75215,17 @@
      "translit": "Ben-adam daber et-ziknei Israël veamarta alehem ko amar Adonai ELOHIM halidroș oti atem baim hai-ani im-idareș lachem neum Adonai ELOHIM.",
      "tokens": [
       {
-       "t": "„Fiu al omului, vorbește "
+       "t": "„Fiu al omului, vorbește",
+       "w": "„Fiu al omului, vorbește",
+       "heb": "בֶּן אָדָם דַּבֵּר אֶת",
+       "translit": "ben adam dabēr et",
+       "strong": "H1121",
+       "pos": "substantiv construct + substantiv + verb, piel imperativ + prepoziție",
+       "def_ro": "fiu al omului, vorbește cu.",
+       "dict_ro": "Radak explică faptul că Targum Ionatan traduce porunca ca «ceartă-te cu ei» — un dialog de judecată, nu doar o adresare simplă, pregătind confruntarea ce urmează."
+      },
+      {
+       "t": " "
       },
       {
        "t": "bătrânilor lui Israel",
@@ -75213,7 +75240,14 @@
        "dict_ro": "Zekenim — bătrânii, conducătorii comunității exilate, care vin „să-L caute” pe DOMNUL prin profet; Metzudat David explică „a căuta” ca rugăciune: de aceea jurământul „nu Mă voi lăsa căutat” înseamnă „nu vă voi primi rugăciunea”. Rashi observă însă că la sfârșitul cărții (Ezechiel 36:37) Dumnezeu spune „Mă voi lăsa căutat de casa lui Israel” — unul dintre locurile care arată că Sfântul, binecuvântat fie El, Se întoarce de la rău."
       },
       {
-       "t": " și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Ca să Mă căutați ați venit? Precum Eu sunt viu, nu Mă voi lăsa căutat de voi – rostirea Stăpânului meu, Domnul DUMNEZEU.»"
+       "t": " și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Ca să Mă căutați ați venit? Precum Eu sunt viu, nu Mă voi lăsa căutat de voi – rostirea Stăpânului meu, Domnul DUMNEZEU.»",
+       "w": " și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Ca să Mă căutați ați venit? Precum Eu sunt viu, nu Mă voi lăsa căutat de voi – rostirea Stăpânului meu, Domnul DUMNEZEU.»",
+       "heb": "וְאָמַרְתָּ אֲלֵהֶם כֹּה אָמַר אֲדֹנָי יְהוִה הֲלִדְרֹשׁ אֹתִי אַתֶּם בָּאִים חַי אָנִי אִם אִדָּרֵשׁ לָכֶם נְאֻם אֲדֹנָי יְהוִה",
+       "translit": "veamarta alēhem ko amar adonai Adonai halidroș oti atem baim hai ani im idarēș lahem neum adonai Adonai",
+       "strong": "H559",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + adverb + verb, qal perfect + substantiv construct + sufix + nume propriu + verb, qal infinitiv + marcă a complementului direct + sufix + pronume personal + verb, qal participiu + adjectiv + pronume personal + conjuncție + verb, nifal imperfect + prepoziție + sufix + substantiv construct + substantiv construct + sufix + nume propriu",
+       "def_ro": "și le vei spune: așa a spus Stăpânul meu, DOMNUL: ca să Mă căutați veniți voi? Viu sunt Eu, nu Mă voi lăsa căutat de voi — rostirea Stăpânului meu, DOMNUL.",
+       "dict_ro": "Rashi notează un paradox remarcabil: cu toate că aici DOMNUL refuză categoric să fie căutat, la sfârșitul cărții (36:37) El spune «Mă voi lăsa căutat de casa lui Israel» — unul dintre locurile care arată, potrivit Midrash Tanhuma, că Sfântul Se răzgândește de la rău, «El spune, dar nu face»."
       }
      ],
      "textCompare": [
@@ -75260,7 +75294,17 @@
      "translit": "Hatișpot otam hatișpot ben-adam et-toavot avotam hodiem.",
      "tokens": [
       {
-       "t": "Îi vei dojeni, [îi] vei dojeni, fiu al omului? Fă-le cunoscute "
+       "t": "Îi vei dojeni, [îi] vei dojeni, fiu al omului? Fă-le cunoscute",
+       "w": "Îi vei dojeni, [îi] vei dojeni, fiu al omului? Fă-le cunoscute",
+       "heb": "הֲתִשְׁפֹּט אֹתָם הֲתִשְׁפּוֹט בֶּן אָדָם אֶת",
+       "translit": "hatișpot otam hatișpot ben adam et",
+       "strong": "H8199",
+       "pos": "verb, qal imperfect + marcă a complementului direct + sufix + verb, qal imperfect + substantiv construct + substantiv + marcă a complementului direct",
+       "def_ro": "vei judeca pe ei, vei judeca, fiu al omului? pe.",
+       "dict_ro": "Metzudat David explică faptul că dojenirea cerută aici nu e doar o mustrare, ci o demonstrație argumentată: profetul trebuie să le arate clar, prin faptele strămoșilor lor, că dreptatea e de partea DOMNULUI, nu a poporului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ororile",
@@ -75274,7 +75318,14 @@
        "dict_ro": "Toeva — urâciunea, ceea ce e respingător înaintea lui Dumnezeu, termen folosit mai ales pentru idolatrie și relațiile oprite. Radak explică sensul dojanei: profetul trebuie să le arate nu doar faptele lor, ci și „ororile părinților”, căci încă de la început aceștia Îl mâniaseră prin lucrarea mâinilor lor; Metzudat David adaugă că astfel se arată că judecata e dreaptă, păcatele lor venind peste cele moștenite."
       },
       {
-       "t": " părinților lor"
+       "t": " părinților lor",
+       "w": " părinților lor",
+       "heb": "אֲבוֹתָם הוֹדִיעֵם",
+       "translit": "avotam hodiēm",
+       "strong": "H1",
+       "pos": "substantiv plural construct + sufix + verb, hifil imperativ + sufix",
+       "def_ro": "ale părinților lor, fă-i să cunoască.",
+       "dict_ro": "Radak explică faptul că ororile părinților, pomenite aici, nu sunt păcate noi, ci cele comise încă din vechime — DOMNUL fusese mâniat de aceste fapte încă din Egipt, dar iubirea Lui le-a acoperit multă vreme."
       }
      ],
      "textCompare": [
@@ -75321,7 +75372,17 @@
      "translit": "Veamarta aleihem ko-amar Adonai ELOHIM beyom bahari veIsraël vaesa yadi lezera beit Iaakov vaivada lahem beereț Mițraim vaesa yadi lahem lemor ani ADONAI Eloheichem.",
      "tokens": [
       {
-       "t": "și spune-le: Așa a spus Stăpânul meu, Domnul DUMNEZEU: «În ziua în care l-am ales pe Israel, când "
+       "t": "și spune-le: Așa a spus Stăpânul meu, Domnul DUMNEZEU: «În ziua în care l-am ales pe Israel, când",
+       "w": "și spune-le: Așa a spus Stăpânul meu, Domnul DUMNEZEU: «În ziua în care l-am ales pe Israel, când",
+       "heb": "וְאָמַרְתָּ אֲלֵיהֶם כֹּה אָמַר אֲדֹנָי יְהוִה בְּיוֹם בָּחֳרִי בְיִשְׂרָאֵל",
+       "translit": "veamarta alēhem ko amar adonai Adonai beom bahori veisraēl",
+       "strong": "H559",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + adverb + verb, qal perfect + substantiv construct + sufix + nume propriu + substantiv construct + verb, qal infinitiv + sufix + nume propriu",
+       "def_ro": "și le vei spune: așa a spus Stăpânul meu, DOMNUL: în ziua în care l-am ales pe Israel.",
+       "dict_ro": "Rashi socotește că această ură a stat ascunsă aproape nouă sute de ani, din vremea Egiptului până la Ezechiel, dar «ura stârnește certuri» (Proverbe 10:12) — abia acum, prin înmulțirea fărădelegilor, s-a trezit cu adevărat."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Mi-am ridicat mâna",
@@ -75335,7 +75396,14 @@
        "dict_ro": "Nasa iad — „a ridica mâna”, gestul jurământului solemn (compară Geneza 14:22; Deuteronomul 32:40); Radak explică jurământul prin formula „Eu sunt DOMNUL”, ca promisiunea de a da Țara „pe care Mi-am ridicat mâna s-o dau lui Avraham, Isaac și Iacov” (Exodul 6:8). Rashi aduce aici o tradiție surprinzătoare: această ură a stat ascunsă înaintea lui Dumnezeu aproape nouă sute de ani, din Egipt până la Ezechiel, acoperită de iubire, și s-a trezit acum, când păcatele s-au înmulțit — „ura stârnește certuri, dar iubirea acoperă toate greșelile” (Proverbe 10:12)."
       },
       {
-       "t": " [în jurământ] către seminția casei lui Iacov și M-am făcut cunoscut lor în Egipt și le-am jurat, spunând: ‘Eu sunt DOMNUL, Dumnezeul vostru’,"
+       "t": " [în jurământ] către seminția casei lui Iacov și M-am făcut cunoscut lor în Egipt și le-am jurat, spunând: ‘Eu sunt DOMNUL, Dumnezeul vostru’,",
+       "w": " [în jurământ] către seminția casei lui Iacov și M-am făcut cunoscut lor în Egipt și le-am jurat, spunând: ‘Eu sunt DOMNUL, Dumnezeul vostru’,",
+       "heb": "יָדִי לְזֶרַע בֵּית יַעֲקֹב וָאִוָּדַע לָהֶם בְּאֶרֶץ מִצְרָיִם וָאֶשָּׂא יָדִי לָהֶם לֵאמֹר אֲנִי יְהוָה אֱלֹהֵיכֶם",
+       "translit": "iadi lezera bēt iaakov vaivada lahem beereț mițraim vaesa iadi lahem lēmor ani Adonai elohēhem",
+       "strong": "H3027",
+       "pos": "substantiv construct + sufix + substantiv construct + substantiv construct + nume propriu + verb, nifal imperfect consecutiv + prepoziție + sufix + substantiv construct + nume propriu + verb, qal imperfect consecutiv + substantiv construct + sufix + prepoziție + sufix + verb, qal infinitiv + pronume personal + nume propriu + substantiv plural construct + sufix",
+       "def_ro": "mâna Mea către seminția casei lui Iacov, și M-am făcut cunoscut lor în țara Egiptului, și Mi-am ridicat mâna lor, spunând: Eu [sunt] DOMNUL, Dumnezeul vostru.",
+       "dict_ro": "Radak explică faptul că DOMNUL a precizat aici «seminția lui Iacov», căci ce a dat lui Avraham și lui Isaac a dat de fapt de dragul seminției lui Iacov — jurământul se concentrează pe linia directă care avea să devină poporul Israel."
       }
      ],
      "textCompare": [
@@ -75383,7 +75451,17 @@
      "translit": "Bayom hahu nasati yadi lahem lehotziam meereț Mițraim el-eretz așer-tarti lahem zavat halav udevash tzvi hi lechol-haaratzot.",
      "tokens": [
       {
-       "t": "în acea zi Mi-am ridicat mâna [în jurământ] că îi voi scoate din țara Egiptului și îi voi duce într-o țară pe care am căutat-o pentru ei, în care curge lapte și miere, ea fiind "
+       "t": "în acea zi Mi-am ridicat mâna [în jurământ] că îi voi scoate din țara Egiptului și îi voi duce într-o țară pe care am căutat-o pentru ei, în care curge lapte și miere, ea fiind",
+       "w": "în acea zi Mi-am ridicat mâna [în jurământ] că îi voi scoate din țara Egiptului și îi voi duce într-o țară pe care am căutat-o pentru ei, în care curge lapte și miere, ea fiind",
+       "heb": "בַּיּוֹם הַהוּא נָשָׂאתִי יָדִי לָהֶם לְהוֹצִיאָם מֵאֶרֶץ מִצְרָיִם אֶל אֶרֶץ אֲשֶׁר תַּרְתִּי לָהֶם זָבַת חָלָב וּדְבַשׁ",
+       "translit": "baiom hahu nasati iadi lahem lehoțiam mēereț mițraim el ereț așer tarti lahem zavat halav udvaș",
+       "strong": "H3117",
+       "pos": "substantiv + pronume personal + verb, qal perfect + substantiv construct + sufix + prepoziție + sufix + verb, hifil infinitiv + sufix + substantiv construct + nume propriu + prepoziție + substantiv + particulă relativă + verb, qal perfect + prepoziție + sufix + verb, qal participiu + substantiv + substantiv",
+       "def_ro": "în ziua aceea Mi-am ridicat mâna pentru ei, ca să-i scot din țara Egiptului, într-o țară pe care am cercetat-o pentru ei, care curge lapte și miere.",
+       "dict_ro": "Radak explică faptul că această țară e numită «podoabă pentru toate țările» pentru că e ținutul din mijlocul lumii, lăudat mai presus de celelalte, cu aerul cel mai bine temperat dintre toate — aceeași idee pe care o exprimă expresia «frumoasă pe înălțime, bucuria întregului pământ»."
+      },
+      {
+       "t": " "
       },
       {
        "t": "o splendoare",
@@ -75397,7 +75475,14 @@
        "dict_ro": "Țevi — podoaba, strălucirea; de aici denumirea Țării „eretz hațevi”, „țara cea frumoasă” (Daniel 8:9; 11:16). Radak explică de ce: e ținutul din mijloc, lăudat mai presus de celelalte, cu aerul cel mai bine temperat dintre toate țările, precum s-a spus „frumoasă pe înălțime, bucuria întregului pământ” (Psalmul 48:2). Metzudat Țion explică „am căutat-o” (tarti) ca „cercetare”, ca în Eclesiastul 2:3 — o țară aleasă după cercetare, anume pentru ei."
       },
       {
-       "t": " pentru toate țările."
+       "t": " pentru toate țările.",
+       "w": " pentru toate țările.",
+       "heb": "הִיא לְכָל הָאֲרָצוֹת",
+       "translit": "hi lehal haarațot",
+       "strong": "H1931",
+       "pos": "pronume personal + substantiv construct + substantiv plural",
+       "def_ro": "ea, pentru toate țările.",
+       "dict_ro": "Metzudat David precizează că jurământul din acea zi includea toate aceste promisiuni — conducerea, ocrotirea și intrarea în țara cea mai bună — toate strâns legate de alegerea inițială a lui Israel."
       }
      ],
      "textCompare": [
@@ -75445,7 +75530,17 @@
      "translit": "Vaomar alehem iș șikutzei einav hașlichu uvegilulei Mițraim al-titamu ani ADONAI Eloheichem.",
      "tokens": [
       {
-       "t": "Și le-am spus: ‘Fiecare om să își arunce "
+       "t": "Și le-am spus: ‘Fiecare om să își arunce",
+       "w": "Și le-am spus: ‘Fiecare om să își arunce",
+       "heb": "וָאֹמַר אֲלֵהֶם אִישׁ",
+       "translit": "vaomar alēhem iș",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv",
+       "def_ro": "și le-am spus: fiecare om.",
+       "dict_ro": "Rashi explică faptul că Aaron a vestit această profeție poporului încă înainte ca DOMNUL să Se descopere lui Moise în rug — comparabil cu cele spuse lui Eli: «M-am descoperit Eu casei tatălui tău când erau în Egipt?» (1 Samuel 2:27)."
+      },
+      {
+       "t": " "
       },
       {
        "t": "scârboșeniile ochilor săi",
@@ -75460,7 +75555,14 @@
        "dict_ro": "Șikuț — lucrul scârbos, termen disprețuitor pentru idoli; „scârboșeniile ochilor” sunt idolii la care ochii se uită cu poftă. Radak explică expresia prin rolul ochilor în păcat — „să nu vă luați după inima voastră și după ochii voștri” (Numeri 15:39) — și citează vorba înțelepților: „ochiul și inima sunt cei doi agenți ai păcatului” (Talmud Ierușalmi, Berahot, cap. 1, mișna 5). Rashi și Metzudat David adaugă că porunca le-a fost dată în Egipt prin Aaron, înainte ca Dumnezeu să i se descopere lui Moise în rug."
       },
       {
-       "t": " și să nu se [mai] pângărească cu idolii Egiptului – Eu sunt DOMNUL, Dumnezeul vostru.’"
+       "t": " și să nu se [mai] pângărească cu idolii Egiptului – Eu sunt DOMNUL, Dumnezeul vostru.’",
+       "w": " și să nu se [mai] pângărească cu idolii Egiptului – Eu sunt DOMNUL, Dumnezeul vostru.’",
+       "heb": "הַשְׁלִיכוּ וּבְגִלּוּלֵי מִצְרַיִם אַל תִּטַּמָּאוּ אֲנִי יְהוָה אֱלֹהֵיכֶם",
+       "translit": "hașlihu uvgilulē mițraim al titamau ani Adonai elohēhem",
+       "strong": "H7993",
+       "pos": "verb, hifil imperativ + substantiv plural construct + nume propriu + particulă negativă + verb, hitpael jusiv + pronume personal + nume propriu + substantiv plural construct + sufix",
+       "def_ro": "să le lepede, și cu idolii Egiptului să nu vă pângăriți; Eu [sunt] DOMNUL, Dumnezeul vostru.",
+       "dict_ro": "Talmudul Ierușalmi (Berahot, cap. 1, mișna 5) citează pe Rabi Levi: «inima și ochiul sunt cei doi agenți ai păcatului», pe baza Proverbe 23:26 — exact cei doi vinovați numiți aici, ochii care văd scârboșeniile și inima care se lasă atrasă de ele."
       }
      ],
      "textCompare": [
@@ -75527,7 +75629,14 @@
        "dict_ro": "Mara — „a fi răzvrătit, încăpățânat”, verbul care descrie în Tora generația pustiei („ați fost răzvrătiți împotriva DOMNULUI”, Deuteronomul 9:7). Rashi aduce tradiția că răzvrătiții, majoritatea poporului, au murit în cele trei zile de întuneric din Egipt, iar din Egipt n-a ieșit decât unul din cincizeci (după alții, unul din cinci sute). Radak explică dublarea „să-Mi revărs furia... să-Mi sfârșesc mânia” prin imaginea vasului golit: cine varsă ce e în vas îl sfârșește."
       },
       {
-       "t": " împotriva Mea și n-au vrut să asculte de Mine. Niciunul nu a aruncat scârboșeniile ochilor lor și nu au abandonat idolii Egiptului și Mi-am spus că Îmi voi revărsa furia asupra lor, ca să Îmi sfârșesc mânia asupra lor în mijlocul țării Egiptului."
+       "t": " împotriva Mea și n-au vrut să asculte de Mine. Niciunul nu a aruncat scârboșeniile ochilor lor și nu au abandonat idolii Egiptului și Mi-am spus că Îmi voi revărsa furia asupra lor, ca să Îmi sfârșesc mânia asupra lor în mijlocul țării Egiptului.",
+       "w": " împotriva Mea și n-au vrut să asculte de Mine. Niciunul nu a aruncat scârboșeniile ochilor lor și nu au abandonat idolii Egiptului și Mi-am spus că Îmi voi revărsa furia asupra lor, ca să Îmi sfârșesc mânia asupra lor în mijlocul țării Egiptului.",
+       "heb": "בִי וְלֹא אָבוּ לִּשְׁמֹעַ אֵלַי אִישׁ אֶת שִׁקּוּצֵי עֵינֵיהֶם לֹא הִשְׁלִיכוּ וְאֶת גִּלּוּלֵי מִצְרַיִם לֹא עָזָבוּ וָאֹמַר לִשְׁפֹּךְ חֲמָתִי עֲלֵיהֶם לְכַלּוֹת אַפִּי בָּהֶם בְּתוֹךְ אֶרֶץ מִצְרָיִם",
+       "translit": "vi velo avu lișmoa ēlai iș et șikuțē ēnēhem lo hișlihu veet gilulē mițraim lo azavu vaomar lișpoh hamati alēhem lehalot api bahem betoh ereț mițraim",
+       "strong": "H3808",
+       "pos": "prepoziție + sufix + particulă negativă + verb, qal perfect + verb, qal infinitiv + prepoziție + sufix + substantiv + marcă a complementului direct + substantiv plural construct + sufix + particulă negativă + verb, hifil perfect + marcă a complementului direct + substantiv plural construct + nume propriu + particulă negativă + verb, qal perfect + verb, qal imperfect consecutiv + verb, qal infinitiv + substantiv construct + sufix + prepoziție + sufix + verb, piel infinitiv + substantiv construct + sufix + prepoziție + sufix + substantiv construct + substantiv construct + nume propriu",
+       "def_ro": "împotriva Mea, și n-au vrut să asculte de Mine; fiecare om scârboșeniile ochilor lor nu le-au lepădat, și idolii Egiptului nu i-au abandonat; și am spus să-Mi vărs furia asupra lor, ca să-Mi sfârșesc mânia asupra lor, în mijlocul țării Egiptului.",
+       "dict_ro": "Rashi identifică pe acești răzvrătiți cu majoritatea lui Israel, nelegiuiții care au murit în cele trei zile de întuneric, potrivit interpretării «hamușim» de la Exod 13:18 — unul din cincizeci, sau, după alții, unul din cinci sute dintre cei ce au ieșit din Egipt."
       }
      ],
      "textCompare": [
@@ -75579,7 +75688,17 @@
      "translit": "lechalot api bahem betoch eretz Mițraim. Vaaas lemaan șemi levilti hehel leeinei hagoyim așer-hema vetocham așer nodati aleihem leeineihem lehotziam meereț Mițraim.",
      "tokens": [
       {
-       "t": "Dar am acționat "
+       "t": "Dar am acționat",
+       "w": "Dar am acționat",
+       "heb": "וָאַעַשׂ לְמַעַן",
+       "translit": "vaaas lemaan",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "și am lucrat pentru.",
+       "dict_ro": "Rashi explică faptul că, dacă DOMNUL i-ar fi nimicit pe cei răzvrătiți chiar atunci, dușmanii lui Israel ar fi spus «n-a avut puterea să-i scoată» — menținerea Numelui neîntinat cere păstrarea poporului, nu doar pedepsirea lui."
+      },
+      {
+       "t": " "
       },
       {
        "t": "de dragul numelui Meu",
@@ -75594,7 +75713,14 @@
        "dict_ro": "Lemaan șemi — motivul central al capitolului, repetat ca un refren (20:9, 14, 22): Dumnezeu nu i-a nimicit, nu pentru că ar fi meritat, ci ca Numele Lui să nu fie pângărit înaintea neamurilor. Rashi explică: de vreme ce M-am făcut cunoscut lor și am făgăduit să-i scot, iar egiptenii știau că sunt poporul Meu, dacă i-aș fi nimicit, dușmanii ar fi zis: „pentru că n-a fost în stare să-i scoată” — același argument pe care îl folosise Moise în rugăciunea lui (Numeri 14:13-16)."
       },
       {
-       "t": ", ca să nu fie pângărit în ochii neamurilor printre care se află, în ochii cărora M-am făcut cunoscut lor ca să îi scot din țara Egiptului."
+       "t": ", ca să nu fie pângărit în ochii neamurilor printre care se află, în ochii cărora M-am făcut cunoscut lor ca să îi scot din țara Egiptului.",
+       "w": ", ca să nu fie pângărit în ochii neamurilor printre care se află, în ochii cărora M-am făcut cunoscut lor ca să îi scot din țara Egiptului.",
+       "heb": "שְׁמִי לְבִלְתִּי הֵחֵל לְעֵינֵי הַגּוֹיִם אֲשֶׁר הֵמָּה בְתוֹכָם אֲשֶׁר נוֹדַעְתִּי אֲלֵיהֶם לְעֵינֵיהֶם לְהוֹצִיאָם מֵאֶרֶץ מִצְרָיִם",
+       "translit": "șemi levilti hēhēl leēnē hagoim așer hēma vetoham așer nodati alēhem leēnēhem lehoțiam mēereț mițraim",
+       "strong": "H8034",
+       "pos": "substantiv construct + sufix + conjuncție + verb, nifal infinitiv + substantiv dual construct + substantiv plural + particulă relativă + pronume personal + substantiv construct + sufix + particulă relativă + verb, nifal perfect + prepoziție + sufix + substantiv dual construct + sufix + verb, hifil infinitiv + sufix + substantiv construct + nume propriu",
+       "def_ro": "numele Meu, ca să nu fie pângărit sub ochii neamurilor printre care erau ei, sub ochii cărora M-am făcut cunoscut lor, ca să-i scot din țara Egiptului.",
+       "dict_ro": "Radak explică faptul că egiptenii înșiși auzeau profețiile despre eliberarea lui Israel încă înainte de venirea lui Moise — de aceea, dacă poporul ar fi pierit în Egipt, egiptenii ar fi crezut că DOMNUL n-a avut puterea să-și împlinească promisiunea."
       }
      ],
      "textCompare": [
@@ -75641,7 +75767,17 @@
      "translit": "Vaotziem meereț Mițraim vaaviem el-hamidbar.",
      "tokens": [
       {
-       "t": "Și i-am scos din țara Egiptului și i-am adus "
+       "t": "Și i-am scos din țara Egiptului și i-am adus",
+       "w": "Și i-am scos din țara Egiptului și i-am adus",
+       "heb": "וָאוֹצִיאֵם מֵאֶרֶץ מִצְרָיִם וָאֲבִאֵם אֶל",
+       "translit": "vaoțiēm mēereț mițraim vaaviēm el",
+       "strong": "H3318",
+       "pos": "verb, hifil imperfect consecutiv + sufix + substantiv construct + nume propriu + verb, hifil imperfect consecutiv + sufix + prepoziție",
+       "def_ro": "și i-am scos din țara Egiptului și i-am adus la.",
+       "dict_ro": "Radak notează o particularitate ortografică: în ambele verbe «și i-am scos... și i-am adus» lipsește litera iod din scriere — un detaliu gramatical minor remarcat de comentatori, fără a schimba sensul."
+      },
+      {
+       "t": " "
       },
       {
        "t": "în deșert",
@@ -75694,7 +75830,17 @@
      "translit": "Vaeten lahem et-hukotai veet-mișpatai hodati otam așer yaase otam haadam vahai bahem.",
      "tokens": [
       {
-       "t": "și le-am dat decretele Mele, și le-am făcut cunoscute judecățile Mele pe care omul să le înfăptuiască și "
+       "t": "și le-am dat decretele Mele, și le-am făcut cunoscute judecățile Mele pe care omul să le înfăptuiască și",
+       "w": "și le-am dat decretele Mele, și le-am făcut cunoscute judecățile Mele pe care omul să le înfăptuiască și",
+       "heb": "וָאֶתֵּן לָהֶם אֶת חֻקּוֹתַי וְאֶת מִשְׁפָּטַי הוֹדַעְתִּי אוֹתָם אֲשֶׁר יַעֲשֶׂה אוֹתָם הָאָדָם",
+       "translit": "vaetēn lahem et hukotai veet mișpatai hodati otam așer iaase otam haadam",
+       "strong": "H5414",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + marcă a complementului direct + substantiv plural construct + sufix + marcă a complementului direct + substantiv plural construct + sufix + verb, hifil perfect + marcă a complementului direct + sufix + particulă relativă + verb, qal imperfect + marcă a complementului direct + sufix + substantiv",
+       "def_ro": "și le-am dat decretele Mele, și judecățile Mele le-am făcut cunoscute, pe care să le înfăptuiască omul.",
+       "dict_ro": "Radak explică expresia «și să trăiască prin ele» urmând traducerea lui Ionatan: «și va trăi prin ele viața veșnică» — la fel traduce și Onkelos aceeași expresie la Levitic 18:5, legând împlinirea poruncilor de viața eternă, nu doar de cea pământească."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să trăiască prin ele",
@@ -75753,7 +75899,17 @@
      "translit": "Vegam et-șabtotai natati lahem lihyot leot beini uveineihem ladaat ki ani ADONAI mekadșam.",
      "tokens": [
       {
-       "t": "Și le-am dat totodată Șabaturile Mele, ca să fie "
+       "t": "Și le-am dat totodată Șabaturile Mele, ca să fie",
+       "w": "Și le-am dat totodată Șabaturile Mele, ca să fie",
+       "heb": "וְגַם אֶת שַׁבְּתוֹתַי נָתַתִּי לָהֶם לִהְיוֹת",
+       "translit": "vegam et șabtotai natati lahem lihiot",
+       "strong": "H1571",
+       "pos": "particulă afirmativă + marcă a complementului direct + substantiv plural construct + sufix + verb, qal perfect + prepoziție + sufix + verb, qal infinitiv",
+       "def_ro": "și totodată Sabatele Mele le-am dat lor, ca să fie.",
+       "dict_ro": "Rashi explică faptul că darul Sabatului e «un semn mare», o dovadă minunată a sfințirii lui Israel, nu doar o zi de odihnă oarecare — distincția specială dintre Israel și celelalte neamuri."
+      },
+      {
+       "t": " "
       },
       {
        "t": "semn",
@@ -75768,7 +75924,14 @@
        "dict_ro": "Ot — semnul, marca vizibilă a unei realități nevăzute; Sabatul e numit „semn între Mine și voi” încă din Exodul 31:13, de unde e preluată formularea. Rashi îl numește „un semn mare” — Dumnezeu le-a dat ziua odihnei Lui ca zi de odihnă, dovadă că i-a sfințit pentru Sine. Radak adaugă că pluralul „Sabatele Mele” cuprinde și sărbătorile și că, fiind Sabatul echivalent cu toate poruncile — învățătura lui Rebbi din Talmudul Ierușalmi, Berahot, cap. 1, mișna 5 —, profetul revine de atâtea ori la pângărirea lui."
       },
       {
-       "t": " între Mine și ei, să știe că Eu sunt DOMNUL care îi sfințește."
+       "t": " între Mine și ei, să știe că Eu sunt DOMNUL care îi sfințește.",
+       "w": " între Mine și ei, să știe că Eu sunt DOMNUL care îi sfințește.",
+       "heb": "בֵּינִי וּבֵינֵיהֶם לָדַעַת כִּי אֲנִי יְהוָה מְקַדְּשָׁם",
+       "translit": "bēni uvēnēhem ladaat ki ani Adonai mekadșam",
+       "strong": "H996",
+       "pos": "prepoziție + sufix + prepoziție + sufix + verb, qal infinitiv + conjuncție + pronume personal + nume propriu + verb, piel participiu + sufix",
+       "def_ro": "între Mine și între ei, ca să știe că Eu [sunt] DOMNUL care îi sfințește.",
+       "dict_ro": "Talmudul Ierușalmi (Berahot, cap. 1, mișna 5) citează pe Rebbi: porunca Sabatului cântărește cât toate celelalte porunci laolaltă, potrivit Neemia 9:14 — de aceea profetul revine de atâtea ori asupra pângăririi lui în această mustrare amplă."
       }
      ],
      "textCompare": [
@@ -75816,7 +75979,17 @@
      "translit": "Vayamru-vi beit-Israël bamidbar behukotai lo-halachu veet-mișpatai maasu așer yaase otam haadam vahai bahem veet-șabtotai hilelu meod vaomar lișpoch hamati aleihem bamidbar lechalotam.",
      "tokens": [
       {
-       "t": "Dar casa lui Israel s-a răzvrătit împotriva Mea în deșert, nu au urmat decretele Mele și "
+       "t": "Dar casa lui Israel s-a răzvrătit împotriva Mea în deșert, nu au urmat decretele Mele și",
+       "w": "Dar casa lui Israel s-a răzvrătit împotriva Mea în deșert, nu au urmat decretele Mele și",
+       "heb": "וַיַּמְרוּ בִי בֵית יִשְׂרָאֵל בַּמִּדְבָּר בְּחֻקּוֹתַי לֹא הָלָכוּ וְאֶת",
+       "translit": "vaiamru vi vēt israēl bamidbar behukotai lo halahu veet",
+       "strong": "H4784",
+       "pos": "verb, hifil imperfect consecutiv + prepoziție + sufix + substantiv construct + nume propriu + substantiv + substantiv construct + sufix + particulă negativă + verb, qal perfect + marcă a complementului direct",
+       "def_ro": "și s-a răzvrătit casa lui Israel împotriva Mea în deșert; în decretele Mele nu au umblat, și.",
+       "dict_ro": "Rashi explică faptul că răzvrătirea din deșert a inclus ispitirea cu vițelul de aur, șovăiala la Refidim de a primi Tora, și ieșirea unora din popor să strângă mană chiar în ziua Sabatului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "au respins",
@@ -75831,7 +76004,14 @@
        "dict_ro": "Maas — „a respinge, a lepăda cu dispreț”, verbul folosit în blestemele din Leviticul 26:15, 43 („dacă veți disprețui legile Mele”). Rashi enumeră răzvrătirile concrete din pustie: L-au ispitit cu vițelul, la Refidim au șovăit să primească Tora și au lăsat mană peste noapte; iar „Sabatele le-au pângărit” — unii din popor au ieșit să strângă mană în Sabat (Exodul 16:27). Metzudat David explică „foarte”: în primul Sabat au ieșit după mană, iar în al doilea omul care strângea lemne l-a pângărit cu totul (Numeri 15:32)."
       },
       {
-       "t": " judecățile Mele pe care să le înfăptuiască omul și să trăiască prin ele, și Șabaturile Mele le-au pângărit mult. Și Mi-am spus că Îmi voi revărsa furia asupra lor în deșert, ca să îi nimicesc."
+       "t": " judecățile Mele pe care să le înfăptuiască omul și să trăiască prin ele, și Șabaturile Mele le-au pângărit mult. Și Mi-am spus că Îmi voi revărsa furia asupra lor în deșert, ca să îi nimicesc.",
+       "w": " judecățile Mele pe care să le înfăptuiască omul și să trăiască prin ele, și Șabaturile Mele le-au pângărit mult. Și Mi-am spus că Îmi voi revărsa furia asupra lor în deșert, ca să îi nimicesc.",
+       "heb": "מִשְׁפָּטַי אֲשֶׁר יַעֲשֶׂה אֹתָם הָאָדָם וָחַי בָּהֶם וְאֶת שַׁבְּתֹתַי חִלְּלוּ מְאֹד וָאֹמַר לִשְׁפֹּךְ חֲמָתִי עֲלֵיהֶם בַּמִּדְבָּר לְכַלּוֹתָם",
+       "translit": "mișpatai așer iaase otam haadam vahai bahem veet șabtotai hillu meod vaomar lișpoh hamati alēhem bamidbar lehalotam",
+       "strong": "H4941",
+       "pos": "substantiv plural construct + sufix + particulă relativă + verb, qal imperfect + marcă a complementului direct + sufix + substantiv + verb, qal perfect consecutiv + prepoziție + sufix + marcă a complementului direct + substantiv plural construct + sufix + verb, piel perfect + adverb + verb, qal imperfect consecutiv + verb, qal infinitiv + substantiv construct + sufix + prepoziție + sufix + substantiv + verb, piel infinitiv + sufix",
+       "def_ro": "judecățile Mele pe care să le înfăptuiască omul și să trăiască prin ele au respins, și Sabatele Mele le-au pângărit mult; și am spus să-Mi vărs furia asupra lor în deșert, ca să-i nimicesc.",
+       "dict_ro": "Metzudat David explică faptul că primul Sabat a fost pângărit chiar atunci când unii din popor au ieșit să strângă mană (Exod 16:27), iar al doilea Sabat a fost pângărit cu dispreț deschis de cel care a strâns lemne — de aceea textul insistă: «le-au pângărit mult»."
       }
      ],
      "textCompare": [
@@ -75879,7 +76059,17 @@
      "translit": "Vaeese lemaan șemi levilti hehel leeinei hagoyim așer hotzetim leeineihem.",
      "tokens": [
       {
-       "t": "Dar am acționat de dragul numelui Meu, pentru ca el "
+       "t": "Dar am acționat de dragul numelui Meu, pentru ca el",
+       "w": "Dar am acționat de dragul numelui Meu, pentru ca el",
+       "heb": "וָאֶעֱשֶׂה לְמַעַן שְׁמִי לְבִלְתִּי",
+       "translit": "vaeese lemaan șemi levilti",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv construct + sufix + conjuncție",
+       "def_ro": "și am lucrat de dragul numelui Meu, ca să nu.",
+       "dict_ro": "Metzudat David explică faptul că, dacă poporul ar fi pierit în pustie, s-ar fi spus: pentru că DOMNUL n-a putut să-i aducă în țara Canaanului, i-a nimicit — exact aceeași teamă pentru Numele divin care l-a cruțat deja în Egipt."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să nu fie pângărit",
@@ -75894,7 +76084,14 @@
        "dict_ro": "Halal, la nifal — „a fi profanat, pângărit”; pângărirea Numelui (hilul Hașem) e opusul sfințirii lui, ideea centrală a acestui capitol. Metzudat David precizează cine ar fi vorbit: egiptenii, sub ochii cărora ieșiseră, ar fi spus că DOMNUL n-a fost în stare să-i aducă în Canaan și de aceea i-a nimicit în pustie — de aceea Dumnezeu i-a cruțat și a doua oară."
       },
       {
-       "t": " în ochii neamurilor sub ochii cărora i-am scos [din Egipt]."
+       "t": " în ochii neamurilor sub ochii cărora i-am scos [din Egipt].",
+       "w": " în ochii neamurilor sub ochii cărora i-am scos [din Egipt].",
+       "heb": "לְעֵינֵי הַגּוֹיִם אֲשֶׁר הוֹצֵאתִים לְעֵינֵיהֶם",
+       "translit": "leēnē hagoim așer hoțētim leēnēhem",
+       "strong": "H5869",
+       "pos": "substantiv dual construct + substantiv plural + particulă relativă + verb, hifil perfect + sufix + substantiv dual construct + sufix",
+       "def_ro": "sub ochii neamurilor sub ochii cărora i-am scos.",
+       "dict_ro": "Repetarea exactă a motivului de la v.9 — Numele Meu pângărit în ochii neamurilor — arată că aceeași logică de cruțare se aplică de două ori: mai întâi la ieșirea din Egipt, apoi în pustie."
       }
      ],
      "textCompare": [
@@ -75935,7 +76132,17 @@
      "translit": "Vegam-ani nasati yadi lahem bamidbar levilti havi otam el-haaretz așer-natati zavat halav udevash tzvi hi lechol-haaratzot.",
      "tokens": [
       {
-       "t": "Dar totodată, "
+       "t": "Dar totodată,",
+       "w": "Dar totodată,",
+       "heb": "וְגַם אֲנִי",
+       "translit": "vegam ani",
+       "strong": "H1571",
+       "pos": "particulă afirmativă + pronume personal",
+       "def_ro": "și totodată Eu.",
+       "dict_ro": "Radak leagă acest jurământ de episodul iscoadelor, la Numeri 14:21, unde DOMNUL spune: «viu sunt Eu, și slava DOMNULUI va umple tot pământul» — jurământul de a nu-i aduce în Țară e consecința directă a acelui păcat."
+      },
+      {
+       "t": " "
       },
       {
        "t": "le-am jurat",
@@ -75950,7 +76157,14 @@
        "dict_ro": "Nasa iad — aceeași expresie a jurământului ca în 20:5, dar acum întoarsă împotriva lor: Dumnezeu, care jurase să-i aducă în Țară, jură acum că nu-i va aduce. Metzudat David și Radak identifică momentul: păcatul iscoadelor, când s-a hotărât ca generația pustiei să nu intre în Țară — „dar viu sunt Eu... niciunul dintre oamenii aceștia nu va vedea țara” (Numeri 14:21-23)."
       },
       {
-       "t": " în deșert să nu îi aduc în țara pe care le-am dat-o lor, în care curge lapte și miere, ea fiind o splendoare pentru toate țările."
+       "t": " în deșert să nu îi aduc în țara pe care le-am dat-o lor, în care curge lapte și miere, ea fiind o splendoare pentru toate țările.",
+       "w": " în deșert să nu îi aduc în țara pe care le-am dat-o lor, în care curge lapte și miere, ea fiind o splendoare pentru toate țările.",
+       "heb": "בַּמִּדְבָּר לְבִלְתִּי הָבִיא אוֹתָם אֶל הָאָרֶץ אֲשֶׁר נָתַתִּי זָבַת חָלָב וּדְבַשׁ צְבִי הִיא לְכָל הָאֲרָצוֹת",
+       "translit": "bamidbar levilti havi otam el haareț așer natati zavat halav udvaș țevi hi lehal haarațot",
+       "strong": "H4057",
+       "pos": "substantiv + conjuncție + verb, hifil infinitiv + marcă a complementului direct + sufix + prepoziție + substantiv + particulă relativă + verb, qal perfect + verb, qal participiu + substantiv + substantiv + substantiv + pronume personal + substantiv construct + substantiv plural",
+       "def_ro": "în deșert, ca să nu-i aduc în țara pe care am dat-o, care curge lapte și miere, podoabă [este] ea pentru toate țările.",
+       "dict_ro": "Metzudat David precizează clar că refuzul de a-i aduce în Țară a fost pricinuit exact de păcatul iscoadelor, când s-a hotărât ca acea generație să nu intre în ea."
       }
      ],
      "textCompare": [
@@ -75993,7 +76207,17 @@
      "translit": "Yaan bemișpatai maasu veet-hukotai lo-halchu vahem veet-șabtotai hilelu ki aharei giluleihem libam holech.",
      "tokens": [
       {
-       "t": "Căci Mi-au respins judecățile și nu au urmat decretele Mele, Mi-au pângărit Șabaturile, căci inima lor merge după "
+       "t": "Căci Mi-au respins judecățile și nu au urmat decretele Mele, Mi-au pângărit Șabaturile, căci inima lor merge după",
+       "w": "Căci Mi-au respins judecățile și nu au urmat decretele Mele, Mi-au pângărit Șabaturile, căci inima lor merge după",
+       "heb": "יַעַן בְּמִשְׁפָּטַי מָאָסוּ וְאֶת חֻקּוֹתַי לֹא הָלְכוּ בָהֶם וְאֶת שַׁבְּתוֹתַי חִלֵּלוּ כִּי אַחֲרֵי",
+       "translit": "iaan bemișpatai maasu veet hukotai lo halhu vahem veet șabtotai hilēlu ki aharē",
+       "strong": "H3282",
+       "pos": "conjuncție + substantiv plural construct + sufix + verb, qal perfect + marcă a complementului direct + substantiv plural construct + sufix + particulă negativă + verb, qal perfect + prepoziție + sufix + marcă a complementului direct + substantiv plural construct + sufix + verb, piel perfect + conjuncție + prepoziție",
+       "def_ro": "pentru că judecățile Mele le-au respins, și decretele Mele nu au urmat în ele, și Sabatele Mele le-au pângărit, căci după.",
+       "dict_ro": "Metzudat David explică «idolii lor» ca fiind exact aceia pe care îi slujiseră deja în Egipt — fidelitatea față de vechile idoli nu s-a stins odată cu eliberarea, ci a continuat în pustie."
+      },
+      {
+       "t": " "
       },
       {
        "t": "idolii lor",
@@ -76007,7 +76231,14 @@
        "dict_ro": "Ghilulim — idolii (cuvântul disprețuitor preferat de Ezechiel); Metzudat David precizează că e vorba de idolii pe care îi slujiseră în Egipt. Expresia „inima lor merge după idolii lor” completează imaginea din 20:7, unde păcatul pornea de la ochi: acum inima însăși a luat-o pe urma lor — cei doi „agenți ai păcatului” despre care vorbea Rabi Levi."
       },
       {
-       "t": "."
+       "t": ".",
+       "w": ".",
+       "heb": "לִבָּם הֹלֵךְ",
+       "translit": "libam holēh",
+       "strong": "H3820",
+       "pos": "substantiv construct + sufix + verb, qal participiu",
+       "def_ro": "inima lor merge.",
+       "dict_ro": "Expresia «inima lor merge după idolii lor» descrie o atracție continuă și activă, nu o simplă cădere ocazională — nelegiuirea era urmată cu statornicie, exact ca legământul care ar fi trebuit urmat în locul ei."
       }
      ],
      "textCompare": [
@@ -76047,7 +76278,17 @@
      "translit": "Vatahas eini aleihem mișahatam velo-asiti otam kala bamidbar.",
      "tokens": [
       {
-       "t": "Dar ochiului Meu "
+       "t": "Dar ochiului Meu",
+       "w": "Dar ochiului Meu",
+       "heb": "עֵינִי",
+       "translit": "ēni",
+       "strong": "H5869",
+       "pos": "substantiv construct + sufix",
+       "def_ro": "ochiul Meu.",
+       "dict_ro": "Metzudat David explică faptul că poporul era vrednic chiar de nimicire totală, dar mila DOMNULUI, descrisă ca «ochiul Meu», i-a cruțat — o intervenție personală, nu o simplă schimbare de plan abstractă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "i s-a făcut milă",
@@ -76062,7 +76303,14 @@
        "dict_ro": "Hus — „a cruța, a avea milă”, spus de obicei despre ochi („să nu-ți cruțe ochiul”, Deuteronomul 7:16), de unde și formularea neobișnuită „ochiului Meu i s-a făcut milă”. Metzudat David explică: meritaseră nimicirea totală, dar ochiul Meu i-a cruțat; iar Radak arată în ce a constat mila — i-a lăsat pe copiii lor după ei, ca să-i aducă pe aceștia în Țară."
       },
       {
-       "t": " de ei, nedistrugându-i, și nu i-am făcut să se sfârșească în deșert."
+       "t": " de ei, nedistrugându-i, și nu i-am făcut să se sfârșească în deșert.",
+       "w": " de ei, nedistrugându-i, și nu i-am făcut să se sfârșească în deșert.",
+       "heb": "עֲלֵיהֶם מִשַּׁחֲתָם וְלֹא עָשִׂיתִי אוֹתָם כָּלָה בַּמִּדְבָּר",
+       "translit": "alēhem mișahatam velo asiti otam kala bamidbar",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix + verb, piel infinitiv + sufix + particulă negativă + verb, qal perfect + marcă a complementului direct + sufix + substantiv + substantiv",
+       "def_ro": "de ei, de la nimicirea lor, și nu i-am făcut sfârșire în deșert.",
+       "dict_ro": "Radak explică faptul că DOMNUL a lăsat pe copiii lor în viață după ei, exact ca să-i poată aduce pe aceștia în Țară — cruțarea nu era doar milă pasivă, ci avea un scop concret pentru generația următoare."
       }
      ],
      "textCompare": [
@@ -76108,7 +76356,17 @@
      "translit": "Vaomar el-beneihem bamidbar behukei avoteichem al-telechu veet-mișpeteihem al-tișmoru uvegiluleihem al-titamu.",
      "tokens": [
       {
-       "t": "Ci le-am spus "
+       "t": "Ci le-am spus",
+       "w": "Ci le-am spus",
+       "heb": "וָאֹמַר אֶל",
+       "translit": "vaomar el",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "și am spus către.",
+       "dict_ro": "Metzudat David identifică «copiii lor» cu fiii generației care ieșise din Egipt — exact aceia care, în cele din urmă, au intrat în Țara promisă, spre diferență de părinții lor, respinși din pricina păcatului iscoadelor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "copiilor lor",
@@ -76123,7 +76381,14 @@
        "dict_ro": "Banim — fiii, a doua generație a pustiei, cea care urma să intre în Țară (Metzudat David). Îndemnul „nu urmați judecățile părinților voștri” răstoarnă respectul obișnuit față de tradiția părinților: când aceasta e idolatrie, fidelitatea față de părinți devine păcat — Metzudat David precizează că e vorba de „decretele pe care le-au născocit din inima lor, pe care DOMNUL nu le-a poruncit”."
       },
       {
-       "t": " în deșert: ‘Nu urmați judecățile părinților voștri, nu păziți decretele lor și nu vă pângăriți prin idolii lor."
+       "t": " în deșert: ‘Nu urmați judecățile părinților voștri, nu păziți decretele lor și nu vă pângăriți prin idolii lor.",
+       "w": " în deșert: ‘Nu urmați judecățile părinților voștri, nu păziți decretele lor și nu vă pângăriți prin idolii lor.",
+       "heb": "בְּנֵיהֶם בַּמִּדְבָּר בְּחוּקֵּי אֲבוֹתֵיכֶם אַל תֵּלֵכוּ וְאֶת מִשְׁפְּטֵיהֶם אַל תִּשְׁמֹרוּ וּבְגִלּוּלֵיהֶם אַל תִּטַּמָּאוּ",
+       "translit": "benēhem bamidbar behukē avotēhem al tēlēhu veet mișpetēhem al tișmoru uvgilulēhem al titamau",
+       "strong": "H1121",
+       "pos": "substantiv plural construct + sufix + substantiv + substantiv plural construct + substantiv plural construct + sufix + particulă negativă + verb, qal jusiv + marcă a complementului direct + substantiv plural construct + sufix + particulă negativă + verb, qal jusiv + substantiv plural construct + sufix + particulă negativă + verb, hitpael jusiv",
+       "def_ro": "fiilor lor, în deșert: în decretele părinților voștri să nu umblați, și judecățile lor să nu le păziți, și cu idolii lor să nu vă pângăriți.",
+       "dict_ro": "Metzudat David explică «judecățile părinților voștri» ca fiind acelea pe care le-au născocit din propria lor inimă, pe care DOMNUL nu le-a poruncit niciodată — o distincție clară între legea autentică și obiceiurile omenești adoptate în pustie."
       }
      ],
      "textCompare": [
@@ -76162,7 +76427,17 @@
      "translit": "Ani ADONAI Eloheichem behukotai lechu veet-mișpatai șimru vaasu otam.",
      "tokens": [
       {
-       "t": "Eu sunt DOMNUL, Dumnezeul vostru. Urmați "
+       "t": "Eu sunt DOMNUL, Dumnezeul vostru. Urmați",
+       "w": "Eu sunt DOMNUL, Dumnezeul vostru. Urmați",
+       "heb": "אֲנִי יְהוָה אֱלֹהֵיכֶם לֵכוּ",
+       "translit": "ani Adonai elohēhem lēhu",
+       "strong": "H589",
+       "pos": "pronume personal + nume propriu + substantiv plural construct + sufix + verb, qal imperativ",
+       "def_ro": "Eu [sunt] DOMNUL, Dumnezeul vostru. Mergeți.",
+       "dict_ro": "Metzudat David explică faptul că afirmarea identității divine e temeiul direct al poruncii care urmează: pentru că El este DOMNUL, Dumnezeul lor, trebuie să-L asculte și să umble în decretele Lui."
+      },
+      {
+       "t": " "
       },
       {
        "t": "decretele Mele",
@@ -76177,7 +76452,14 @@
        "dict_ro": "Hukot — rânduielile, decretele (de la hakak, „a grava, a sculpta”), opuse în versetul precedent „decretelor părinților”; e același cuvânt care deschide pericopa Behukotai („dacă veți umbla în decretele Mele”, Leviticul 26:3). Metzudat David leagă îndemnul de afirmația de început: „Eu sunt DOMNUL, Dumnezeul vostru” — de aceea să asculte de Mine, să umble în decretele Mele și să le păzească în inima lor."
       },
       {
-       "t": ", păziți judecățile Mele și înfăptuiți-le."
+       "t": ", păziți judecățile Mele și înfăptuiți-le.",
+       "w": ", păziți judecățile Mele și înfăptuiți-le.",
+       "heb": "וְאֶת מִשְׁפָּטַי שִׁמְרוּ וַעֲשׂוּ אוֹתָם",
+       "translit": "veet mișpatai șimru vaasu otam",
+       "strong": "H4941",
+       "pos": "marcă a complementului direct + substantiv plural construct + sufix + verb, qal imperativ + verb, qal imperativ + marcă a complementului direct + sufix",
+       "def_ro": "și judecățile Mele păziți-le și înfăptuiți-le.",
+       "dict_ro": "Metzudat David subliniază tripla cerere — umblare, păzire, înfăptuire — ca o chemare completă la ascultare interioară și exterioară, nu doar la cunoașterea teoretică a poruncilor."
       }
      ],
      "textCompare": [
@@ -76227,7 +76509,27 @@
        "dict_ro": "Kadeș, la forma piel — „a sfinți, a trata ca sfânt”; aceeași rădăcină ca Kedoșim („sfinți”), numele pericopei, ceea ce face din acest verset încheierea firească a haftarei sefarde. Haftara se încheie cu porunca Sabatului ca „semn”, reluând 20:12 — dar acum ca îndemn adresat noii generații, care are încă posibilitatea să aleagă altfel decât părinții ei."
       },
       {
-       "t": " Șabaturile Mele și ele vor fi un semn între Mine și voi, să știți că Eu sunt DOMNUL, Dumnezeul vostru.’»”"
+       "t": " "
+      },
+      {
+       "t": "Șabaturile Mele",
+       "w": "Șabaturile Mele",
+       "heb": "וְאֶת שַׁבְּתוֹתַי",
+       "translit": "veet șabtotai",
+       "strong": "H853",
+       "pos": "marcă a complementului direct + substantiv plural construct + sufix",
+       "def_ro": "și Sabatele Mele.",
+       "dict_ro": "Repetarea insistentă a poruncii Sabatului la finalul acestei mustrări confirmă locul ei central în întreaga profeție — semn vizibil al legământului, nu o poruncă printre altele."
+      },
+      {
+       "t": " și ele vor fi un semn între Mine și voi, să știți că Eu sunt DOMNUL, Dumnezeul vostru.’»”",
+       "w": " și ele vor fi un semn între Mine și voi, să știți că Eu sunt DOMNUL, Dumnezeul vostru.’»”",
+       "heb": "וְהָיוּ לְאוֹת בֵּינִי וּבֵינֵיכֶם לָדַעַת כִּי אֲנִי יְהוָה אֱלֹהֵיכֶם",
+       "translit": "vehaiu leot bēni uvēnēhem ladaat ki ani Adonai elohēhem",
+       "strong": "H1961",
+       "pos": "verb, qal perfect consecutiv + substantiv + prepoziție + sufix + prepoziție + sufix + verb, qal infinitiv + conjuncție + pronume personal + nume propriu + substantiv plural construct + sufix",
+       "def_ro": "și vor fi semn între Mine și între voi, ca să știți că Eu [sunt] DOMNUL, Dumnezeul vostru.",
+       "dict_ro": "Metzudat David explică simplu: scopul declarat al Sabatului e să fie «un semn» — confirmarea vizibilă, repetată săptămânal, a legăturii dintre DOMNUL și poporul Său."
       }
      ],
      "textCompare": [
