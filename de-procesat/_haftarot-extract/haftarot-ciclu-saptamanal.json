@@ -86077,7 +86077,17 @@
      "translit": "Vaișlah Iehoșua-bin-Nun min-ha'Șitim șenaim-anașim meraghelim hereș lemor lehu reu et-haareț veet-Ieriho vaièlhu vaiavou beit-ișa zona ușema Rahav vaișkevu-șama.",
      "tokens": [
       {
-       "t": "Ioșua, fiul lui Nun, a trimis din Șitim doi bărbați, iscoade, pe ascuns, spunând: „Mergeți și cercetați țara și Ierihonul.” Ei au mers și au ajuns la casa unei femei "
+       "t": "Ioșua, fiul lui Nun, a trimis din Șitim doi bărbați, iscoade, pe ascuns, spunând: „Mergeți și cercetați țara și Ierihonul.” Ei au mers și au ajuns la casa unei femei",
+       "w": "Ioșua, fiul lui Nun, a trimis din Șitim doi bărbați, iscoade, pe ascuns, spunând: „Mergeți și cercetați țara și Ierihonul.” Ei au mers și au ajuns la casa unei femei",
+       "heb": "וַיִּשְׁלַח יְהוֹשֻׁעַ בִּן נוּן מִן הַשִּׁטִּים שְׁנַיִם אֲנָשִׁים מְרַגְּלִים חֶרֶשׁ לֵאמֹר לְכוּ רְאוּ אֶת הָאָרֶץ וְאֶת יְרִיחוֹ וַיֵּלְכוּ וַיָּבֹאוּ בֵּית אִשָּׁה",
+       "translit": "vaișlah iehoșua bin nun min hașitim șenaim anașim meraglim hereș lēmor lehu reu et haareț veet ieriho vaiēlhu vaiavou bēt ișa",
+       "strong": "H7971",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + substantiv construct + nume propriu + prepoziție + nume propriu + numeral + substantiv + verb, piel participiu + substantiv + verb, qal infinitiv + verb, qal imperativ + verb, qal imperativ + marcă a complementului direct + substantiv + marcă a complementului direct + nume propriu + verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + substantiv construct + substantiv",
+       "def_ro": "și a trimis Ioșua, fiul lui Nun, din Șitim, doi oameni, iscoade, pe ascuns, spunând: mergeți, vedeți țara și Ierihonul; și au mers și au venit [la] casa unei femei.",
+       "dict_ro": "Rashi explică faptul că «pe ascuns» (heres) poate avea două sensuri: fie în taină, cum traduce Targumul, fie «prefaceți-vă surdo-muți», ca să nu-și ascundă locuitorii treburile de iscoade. Pomenirea separată a Ierihonului, pe lângă «țara», arată că cetatea era tot atât de întărită cât toată țara la un loc, fiind așezată la graniță."
+      },
+      {
+       "t": " "
       },
       {
        "t": "hangițe",
@@ -86092,7 +86102,14 @@
        "dict_ro": "Zona — sensul literal este „desfrânată”, dar Targumul lui Ionatan traduce „pundekita”, „hangiță, cea care vinde mâncare”, iar Metzudat Țion explică la fel, legând cuvântul de mazon, „hrană”. Radak discută ambele sensuri și observă că Targumul folosește „hangiță” și acolo unde e vorba limpede de desfrânate, pentru că hanul era deschis tuturor. Noul Testament o numește pe Rahav pentru credința ei (Evrei 11:31) și pentru faptele ei (Iacov 2:25), iar Matei 1:5 o pune în genealogia lui Iisus."
       },
       {
-       "t": " al cărei nume era Rahav și s-au culcat acolo."
+       "t": " al cărei nume era Rahav și s-au culcat acolo.",
+       "w": " al cărei nume era Rahav și s-au culcat acolo.",
+       "heb": "וּשְׁמָהּ רָחָב וַיִּשְׁכְּבוּ שָׁמָּה",
+       "translit": "ușmah rahav vaișkevu șama",
+       "strong": "H8034",
+       "pos": "substantiv construct + sufix + nume propriu + verb, qal imperfect consecutiv + adverb",
+       "def_ro": "și numele ei [era] Rahav, și au dormit acolo.",
+       "dict_ro": "Radak explică faptul că «s-au culcat acolo» arată că iscoadele n-au stat la Rahav decât o singură noapte — un detaliu temporal care precizează durata exactă a șederii lor înainte de descoperire."
       }
      ],
      "textCompare": [
@@ -86144,7 +86161,17 @@
      "translit": "Vaieamar lemeleh Ieriho lemor hine anașim bau hena halaila mibenei Israel lahpor et-haareț.",
      "tokens": [
       {
-       "t": "Regelui Ierihonului i s-a spus astfel: „Iată, niște bărbați au venit aici seara, dintre copiii lui Israel, ca "
+       "t": "Regelui Ierihonului i s-a spus astfel: „Iată, niște bărbați au venit aici seara, dintre copiii lui Israel, ca",
+       "w": "Regelui Ierihonului i s-a spus astfel: „Iată, niște bărbați au venit aici seara, dintre copiii lui Israel, ca",
+       "heb": "וַיֵּאָמַר לְמֶלֶךְ יְרִיחוֹ לֵאמֹר הִנֵּה אֲנָשִׁים בָּאוּ הֵנָּה הַלַּיְלָה מִבְּנֵי יִשְׂרָאֵל",
+       "translit": "vaiēamar lemeleh ieriho lēmor hinē anașim bau hēna halaila mibnē israēl",
+       "strong": "H559",
+       "pos": "verb, nifal imperfect consecutiv + substantiv construct + nume propriu + verb, qal infinitiv + particulă demonstrativă + substantiv + verb, qal perfect + adverb + substantiv + substantiv plural construct + nume propriu",
+       "def_ro": "și s-a spus regelui Ierihonului, spunând: iată, bărbați au venit aici în noaptea aceasta, dintre copiii lui Israel, ca.",
+       "dict_ro": "Rashi explică «lahpor» ca «a cerceta», folosind același verb ca la Iov 39:29 — «de acolo își iscodește hrana» — rădăcina implică o căutare amănunțită, nu o simplă privire în trecere."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să iscodească",
@@ -86159,7 +86186,14 @@
        "dict_ro": "Hafar — sensul de bază e „a săpa”, iar de aici „a cerceta, a scormoni”; Metzudat Țion explică: cel care caută ceva în pământ sapă în el. Rashi trimite la Iov 39:29, despre vulturul care „de acolo își iscodește prada”. Regele Ierihonului află chiar în aceeași seară de sosirea iscoadelor — semn, după comentatori, cât de încordată era cetatea, aflată la hotar, în fața taberei lui Israel."
       },
       {
-       "t": " țara.”"
+       "t": " țara.”",
+       "w": " țara.”",
+       "heb": "אֶת הָאָרֶץ",
+       "translit": "et haareț",
+       "strong": "H853",
+       "pos": "marcă a complementului direct + substantiv",
+       "def_ro": "țara.",
+       "dict_ro": "Metzudat Țion explică «lahpor» prin aceeași rădăcină folosită la Iov 39:21 — «scormonesc în vale» — cel care caută ceva în pământ sapă în el, întocmai ca o iscoadă care cercetează amănunțit terenul."
       }
      ],
      "textCompare": [
@@ -86200,7 +86234,14 @@
      "translit": "Vaișlah meleh Ieriho el-Rahav lemor hoții haanașim habaim elaih așer-bau leveiteh ki lahpor et-kol-haareț bau.",
      "tokens": [
       {
-       "t": "Și regele Ierihonului a trimis [poruncă] la Rahav, spunând: „"
+       "t": "Și regele Ierihonului a trimis [poruncă] la Rahav, spunând: „",
+       "w": "Și regele Ierihonului a trimis [poruncă] la Rahav, spunând: „",
+       "heb": "וַיִּשְׁלַח מֶלֶךְ יְרִיחוֹ אֶל רָחָב לֵאמֹר",
+       "translit": "vaișlah meleh ieriho el rahav lēmor",
+       "strong": "H7971",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + nume propriu + prepoziție + nume propriu + verb, qal infinitiv",
+       "def_ro": "și a trimis regele Ierihonului la Rahav, spunând.",
+       "dict_ro": "Radak explică «lahpor» tot ca «a cerceta» — cel care cercetează caută ceva anume, nu doar privește la întâmplare; aceeași rădăcină leagă porunca regelui de acuzația exactă adusă celor doi bărbați."
       },
       {
        "t": "Scoate-i afară",
@@ -86215,7 +86256,14 @@
        "dict_ro": "Yața — „a ieși”; la forma cauzativă (hifil), „a scoate afară, a da afară”. Porunca regelui e scurtă și amenințătoare: nu întreabă dacă au venit, știe deja. Tensiunea stă în contrastul dintre porunca regelui și ceea ce femeia făcuse deja, cum arată versetul următor."
       },
       {
-       "t": " pe bărbații care au venit la tine, care au intrat în casa ta, căci au venit să iscodească toată țara.”"
+       "t": " pe bărbații care au venit la tine, care au intrat în casa ta, căci au venit să iscodească toată țara.”",
+       "w": " pe bărbații care au venit la tine, care au intrat în casa ta, căci au venit să iscodească toată țara.”",
+       "heb": "הָאֲנָשִׁים הַבָּאִים אֵלַיִךְ אֲשֶׁר בָּאוּ לְבֵיתֵךְ כִּי לַחְפֹּר אֶת כָּל הָאָרֶץ בָּאוּ",
+       "translit": "haanașim habaim ēlaih așer bau levētēh ki lahpor et kal haareț bau",
+       "strong": "H376",
+       "pos": "substantiv plural + verb, qal participiu + prepoziție + sufix + particulă relativă + verb, qal perfect + substantiv construct + sufix + conjuncție + verb, qal infinitiv + marcă a complementului direct + substantiv construct + substantiv + verb, qal perfect",
+       "def_ro": "pe bărbații care au venit la tine, care au venit la casa ta, căci ca să cerceteze toată țara au venit.",
+       "dict_ro": "Repetarea verbului «au venit» la începutul și sfârșitul poruncii regelui întărește urgența cererii — identitatea și scopul bărbaților trebuie confirmate fără întârziere."
       }
      ],
      "textCompare": [
@@ -86253,7 +86301,17 @@
      "translit": "Vatikah haișa et-șenei haanașim vatițpeno vatomer ken bau elai haanașim velo iadati meain hema.",
      "tokens": [
       {
-       "t": "Dar femeia luase pe cei doi bărbați "
+       "t": "Dar femeia luase pe cei doi bărbați",
+       "w": "Dar femeia luase pe cei doi bărbați",
+       "heb": "וַתִּקַּח הָאִשָּׁה אֶת שְׁנֵי הָאֲנָשִׁים",
+       "translit": "vatikah haișa et șenē haanașim",
+       "strong": "H3947",
+       "pos": "verb, qal imperfect consecutiv + substantiv + marcă a complementului direct + numeral + substantiv plural",
+       "def_ro": "și a luat femeia pe cei doi bărbați.",
+       "dict_ro": "Midrașul lui Rabi Tanhuma, citat de Rashi, identifică cei doi bărbați cu Pinhas și Caleb — Pinhas stătea înaintea urmăritorilor, dar aceștia nu-l vedeau, pentru că era ca un înger, fiind ascuns cu adevărat doar Caleb."
+      },
+      {
+       "t": " "
       },
       {
        "t": "și-i ascunsese",
@@ -86268,7 +86326,14 @@
        "dict_ro": "Țafan — „a ascunde, a păstra ca pe o comoară” (de aici țafun, „ascuns”, și nordul, țafon, „partea ascunsă”). Verbul e la singular, „l-a ascuns”, deși erau doi. Rashi și Radak dau trei explicații: i-a ascuns în grabă într-un loc strâmt, ca pe unul singur; i-a ascuns pe fiecare separat; sau — după Midrașul Tanhuma — cei doi erau Pinhas și Caleb, iar Pinhas nu avea nevoie să fie ascuns, pentru că era ca un înger și nu putea fi văzut."
       },
       {
-       "t": ", așa că a spus: „Într-adevăr, bărbații au venit la mine, dar eu nu știam de unde erau."
+       "t": ", așa că a spus: „Într-adevăr, bărbații au venit la mine, dar eu nu știam de unde erau.",
+       "w": ", așa că a spus: „Într-adevăr, bărbații au venit la mine, dar eu nu știam de unde erau.",
+       "heb": "וַתֹּאמֶר כֵּן בָּאוּ אֵלַי הָאֲנָשִׁים וְלֹא יָדַעְתִּי מֵאַיִן הֵמָּה",
+       "translit": "vatomer kēn bau ēlai haanașim velo iadati mēain hēma",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + particulă demonstrativă + verb, qal perfect + prepoziție + sufix + substantiv plural + particulă negativă + verb, qal perfect + particulă interogativă + pronume personal",
+       "def_ro": "și a spus: adevărat, au venit la mine bărbații, și n-am cunoscut de unde [sunt] ei.",
+       "dict_ro": "Rashi explică faptul că verbul «și-i ascunsese» e la singular, deși se referă la doi bărbați — pentru că se grăbea, i-a ascuns într-un loc strâmt, ca și cum ar fi fost un singur gest unitar."
       }
      ],
      "textCompare": [
@@ -86317,7 +86382,17 @@
      "translit": "Vaihi hașaar lisgor bahoșeh vehaanașim iațau lo iadati ana halhu haanașim ridfu maher ahareihem ki tasigum.",
      "tokens": [
       {
-       "t": "Iar când poarta [cetății] era pe cale să se închidă, la [căderea] întunericului, bărbații au plecat. Nu știu încotro au plecat bărbații; "
+       "t": "Iar când poarta [cetății] era pe cale să se închidă, la [căderea] întunericului, bărbații au plecat. Nu știu încotro au plecat bărbații;",
+       "w": "Iar când poarta [cetății] era pe cale să se închidă, la [căderea] întunericului, bărbații au plecat. Nu știu încotro au plecat bărbații;",
+       "heb": "וַיְהִי הַשַּׁעַר לִסְגּוֹר בַּחֹשֶׁךְ וְהָאֲנָשִׁים יָצָאוּ לֹא יָדַעְתִּי אָנָה הָלְכוּ הָאֲנָשִׁים",
+       "translit": "vaihi hașaar lisgor bahoșeh vehaanașim iațau lo iadati ana halhu haanașim",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + substantiv + verb, qal infinitiv + substantiv + substantiv plural + verb, qal perfect + particulă negativă + verb, qal perfect + adverb + verb, qal perfect + substantiv plural",
+       "def_ro": "și a fost, [când] poarta era să se închidă, în întuneric, și bărbații au ieșit; n-am cunoscut unde au mers bărbații.",
+       "dict_ro": "Radak explică faptul că poarta «era gata să fie închisă», pentru că se întunecase ziua — momentul exact al plecării iscoadelor coincide cu limita închiderii cetății, lăsând regelui impresia că încă îi poate prinde."
+      },
+      {
+       "t": " "
       },
       {
        "t": "urmăriți-i",
@@ -86332,7 +86407,14 @@
        "dict_ro": "Radaf — „a urmări, a goni”, verbul cheie al capitolului: „urmăritorii” (harodfim) apar de șase ori. Rahav nu doar ascunde iscoadele, ci îi trimite pe oamenii regelui pe o pistă falsă, cu un argument plauzibil: au plecat de curând, la închiderea porții, deci îi veți ajunge. Metzudat David: „căci au ieșit de curând”."
       },
       {
-       "t": " degrabă și-i veți ajunge din urmă.”"
+       "t": " degrabă și-i veți ajunge din urmă.”",
+       "w": " degrabă și-i veți ajunge din urmă.”",
+       "heb": "מַהֵר אַחֲרֵיהֶם כִּי תַשִּׂיגוּם",
+       "translit": "mahēr aharēhem ki tasigum",
+       "strong": "H4118",
+       "pos": "verb, piel infinitiv absolut + prepoziție + sufix + conjuncție + verb, hifil imperfect + sufix",
+       "def_ro": "degrabă, după ei, căci îi veți ajunge.",
+       "dict_ro": "Metzudat David explică faptul că Rahav îi îndeamnă spre grabă exact pentru că cei doi bărbați «au ieșit de curând» — argumentul de timp e menit să convingă urmăritorii să plece imediat, în direcția greșită."
       }
      ],
      "textCompare": [
@@ -86377,7 +86459,17 @@
      "translit": "Vehi heelatam hagaga vatitmenem befiștei haeț haaruhot la al-hagag.",
      "tokens": [
       {
-       "t": "Dar ea îi urcase pe acoperiș și-i ascunsese în "
+       "t": "Dar ea îi urcase pe acoperiș și-i ascunsese în",
+       "w": "Dar ea îi urcase pe acoperiș și-i ascunsese în",
+       "heb": "וְהִיא הֶעֱלָתַם הַגָּגָה וַתִּטְמְנֵם",
+       "translit": "vehi heelatam hagaga vatitmenēm",
+       "strong": "H1931",
+       "pos": "pronume personal + verb, hifil perfect + sufix + substantiv + verb, qal imperfect consecutiv + sufix",
+       "def_ro": "și ea îi suise pe acoperiș și îi ascunsese în.",
+       "dict_ro": "Radak observă că textul folosește două verbe diferite pentru «a ascunde» — vatițpeno la v.4 și vatitmenēm aici — pentru a arăta exact modul concret în care i-a ascuns a doua oară, mai temeinic decât prima dată."
+      },
+      {
+       "t": " "
       },
       {
        "t": "mănunchiurile de in",
@@ -86392,7 +86484,14 @@
        "dict_ro": "Pișteh haeț — literal „inul lemnului”: tulpinile de in încă nedecorticate, puse la uscat pe acoperișul plat. Radak și Metzudat David explică: inul era încă pe tulpinile lui, și femeia le întinsese pe acoperiș ca să se usuce; aranjate astfel, nu trezeau bănuieli. Inul crește în valea Ierihonului, unde recolta se strânge primăvara, adică exact în luna Nisan, când Israel stătea să treacă Iordanul (Iosua 3-4). Talmudul (Zevahim 116b) pomenește inul printre cele trei lucruri prin care Rahav a salvat iscoadele."
       },
       {
-       "t": " pe care le întinsese pe acoperiș."
+       "t": " pe care le întinsese pe acoperiș.",
+       "w": " pe care le întinsese pe acoperiș.",
+       "heb": "הָעֵץ הָעֲרֻכוֹת לָהּ עַל הַגָּג",
+       "translit": "haēț haaruhot lah al hagag",
+       "strong": "H6086",
+       "pos": "substantiv + verb, qal participiu pasiv + prepoziție + sufix + prepoziție + substantiv",
+       "def_ro": "[de] lemn, cele rânduite de ea pe acoperiș.",
+       "dict_ro": "Rashi explică «mănunchiurile de in» ca inul cu păstăile lui încă prinse — tulpinile nu fuseseră încă prelucrate, fiind întinse la uscat pe acoperiș, ceea ce oferea un ascunziș natural și plauzibil."
       }
      ],
      "textCompare": [
@@ -86443,7 +86542,17 @@
      "translit": "Vehaanașim radfu ahareihem dereh ha'Iarden al hamabrot vehașaar sagaru aharei kaașer iațu harodfim ahareihem.",
      "tokens": [
       {
-       "t": "Așa că oamenii [regelui] i-au urmărit pe drumul către Iordan, până la "
+       "t": "Așa că oamenii [regelui] i-au urmărit pe drumul către Iordan, până la",
+       "w": "Așa că oamenii [regelui] i-au urmărit pe drumul către Iordan, până la",
+       "heb": "וְהָאֲנָשִׁים רָדְפוּ אַחֲרֵיהֶם דֶּרֶךְ הַיַּרְדֵּן עַל",
+       "translit": "vehaanașim radfu aharēhem dereh haiardēn al",
+       "strong": "H376",
+       "pos": "substantiv plural + verb, qal perfect + prepoziție + sufix + substantiv construct + nume propriu + prepoziție",
+       "def_ro": "și bărbații i-au urmărit pe drumul Iordanului, până la.",
+       "dict_ro": "Rashi explică faptul că urmăritorii credeau că iscoadele se întorseseră spre câmpiile Moabului, cu Iordanul între ei — vadurile fiind locurile logice de trecere a apei pentru cineva care fugea spre est."
+      },
+      {
+       "t": " "
       },
       {
        "t": "vaduri",
@@ -86458,7 +86567,14 @@
        "dict_ro": "Maabarot — de la avar, „a trece”: locurile unde Iordanul poate fi trecut prin apă mică. Rashi explică raționamentul urmăritorilor: credeau că iscoadele se întorc în câmpiile Moabului, iar Iordanul era între ei. Vadurile Iordanului apar și în Judecători 3:28 și 12:5-6, unde cine le controla hotăra cine trece. Poarta închisă imediat după ieșirea urmăritorilor îi prinde pe iscoade în cetate, dar îi și apără de o nouă căutare."
       },
       {
-       "t": ", și au închis poarta de îndată ce urmăritorii au ieșit după ei."
+       "t": ", și au închis poarta de îndată ce urmăritorii au ieșit după ei.",
+       "w": ", și au închis poarta de îndată ce urmăritorii au ieșit după ei.",
+       "heb": "וְהַשַּׁעַר סָגָרוּ אַחֲרֵי כַּאֲשֶׁר יָצְאוּ הָרֹדְפִים אַחֲרֵיהֶם",
+       "translit": "vehașaar sagaru aharē kaașer iațu harodfim aharēhem",
+       "strong": "H8179",
+       "pos": "substantiv + verb, qal perfect + prepoziție + particulă relativă + verb, qal perfect + verb, qal participiu + prepoziție + sufix",
+       "def_ro": "și poarta au închis-o, după ce au ieșit urmăritorii după ei.",
+       "dict_ro": "Radak explică nuanța temporală precisă: paznicii n-au închis poarta imediat, ca să nu trezească suspiciunea urmăritorilor că iscoadele erau încă ascunse în cetate, ci abia după ce aceștia s-au îndepărtat suficient de mult de poartă."
       }
      ],
      "textCompare": [
@@ -86507,7 +86623,17 @@
      "translit": "Vehema terem ișkavun vehi alta aleihem al-hagag.",
      "tokens": [
       {
-       "t": "[Iscoadele] nu se culcaseră încă, când ea s-a urcat la ei "
+       "t": "[Iscoadele] nu se culcaseră încă, când ea s-a urcat la ei",
+       "w": "[Iscoadele] nu se culcaseră încă, când ea s-a urcat la ei",
+       "heb": "וְהֵמָּה טֶרֶם יִשְׁכָּבוּן וְהִיא עָלְתָה עֲלֵיהֶם עַל",
+       "translit": "vehēma terem ișkavun vehi alta alēhem al",
+       "strong": "H1992",
+       "pos": "pronume personal + adverb + verb, qal imperfect + pronume personal + verb, qal perfect + prepoziție + sufix + prepoziție",
+       "def_ro": "și ei nu se culcaseră încă, și ea s-a suit la ei, pe.",
+       "dict_ro": "Radak explică forma neobișnuită «aleihem», folosită cu sensul de «eleihem» (la ei), paralelă cu construcții similare precum «Elcana s-a dus la Rama, la casa lui» — o particularitate gramaticală a limbii biblice, nu o eroare de text."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pe acoperiș",
@@ -86563,7 +86689,17 @@
      "translit": "Vatomer el-haanașim iadati ki-natan ADONAI lahem et-haareț vehi-nafla eimathem aleinu vehi namogu kol-ioșvei haareț mipeneichem.",
      "tokens": [
       {
-       "t": "Și le-a spus bărbaților: „Știu că DOMNUL v-a dat țara și că "
+       "t": "Și le-a spus bărbaților: „Știu că DOMNUL v-a dat țara și că",
+       "w": "Și le-a spus bărbaților: „Știu că DOMNUL v-a dat țara și că",
+       "heb": "וַתֹּאמֶר אֶל הָאֲנָשִׁים יָדַעְתִּי כִּי נָתַן יְהוָה לָכֶם אֶת הָאָרֶץ וְכִי",
+       "translit": "vatomer el haanașim iadati ki natan Adonai lahem et haareț vehi",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv plural + verb, qal perfect + conjuncție + verb, qal perfect + nume propriu + prepoziție + sufix + marcă a complementului direct + substantiv + conjuncție",
+       "def_ro": "și a spus bărbaților: am cunoscut că a dat DOMNUL vouă țara, și că.",
+       "dict_ro": "Metzudat David explică faptul că «groaza de voi» exprimă pierderea completă a puterii de a lupta împotriva lui Israel — nu doar o frică obișnuită, ci o paralizie colectivă a voinței de rezistență."
+      },
+      {
+       "t": " "
       },
       {
        "t": "groaza de voi",
@@ -86578,7 +86714,14 @@
        "dict_ro": "Eima — groaza, spaima care paralizează. Rahav citează, fără să știe, chiar cuvintele Cântării de la Mare: „groaza (eima) și spaima vor cădea peste ei... s-au topit (namogu) toți locuitorii Canaanului” (Exodul 15:15-16). Ce era profeție pentru Moise devine, în gura ei, constatare. Ironia e evidentă în contextul pericopei Șelah: iscoadele lui Moise se temuseră de locuitorii țării, iar acum aflăm că locuitorii țării se temeau de Israel."
       },
       {
-       "t": " a căzut asupra noastră, și că toți locuitorii țării au pălit din pricina voastră,"
+       "t": " a căzut asupra noastră, și că toți locuitorii țării au pălit din pricina voastră,",
+       "w": " a căzut asupra noastră, și că toți locuitorii țării au pălit din pricina voastră,",
+       "heb": "נָפְלָה עָלֵינוּ וְכִי נָמֹגוּ כָּל יֹשְׁבֵי הָאָרֶץ מִפְּנֵיכֶם",
+       "translit": "nafla alēnu vehi namogu kal ioșvē haareț mipnēhem",
+       "strong": "H5307",
+       "pos": "verb, qal perfect + prepoziție + sufix + conjuncție + verb, nifal perfect + substantiv construct + verb, qal participiu + substantiv + prepoziție + sufix",
+       "def_ro": "a căzut asupra noastră, și că s-au topit toți locuitorii țării dinaintea voastră.",
+       "dict_ro": "Metzudat Țion explică «namogu» cu sensul de topire, aceeași rădăcină fiind folosită la versetul 11 pentru inimile înspăimântate — o imagine fizică a dezintegrării curajului colectiv."
       }
      ],
      "textCompare": [
@@ -86621,7 +86764,17 @@
      "translit": "ki șamanu et așer-hoviș ADONAI et-mei Iam-Suf mipeneichem bețethem mi'Mițraim vaașer asitem lișnei malhei haemori așer beever ha'Iarden le'Sihon ule'Og așer heheramtem otam.",
      "tokens": [
       {
-       "t": "fiindcă am auzit cum a secat DOMNUL apele "
+       "t": "fiindcă am auzit cum a secat DOMNUL apele",
+       "w": "fiindcă am auzit cum a secat DOMNUL apele",
+       "heb": "כִּי שָׁמַעְנוּ אֵת אֲשֶׁר הוֹבִישׁ יְהוָה אֶת מֵי",
+       "translit": "ki șamanu ēt așer hoviș Adonai et mē",
+       "strong": "H3588",
+       "pos": "conjuncție + verb, qal perfect + marcă a complementului direct + particulă relativă + verb, hifil perfect + nume propriu + marcă a complementului direct + substantiv construct",
+       "def_ro": "căci am auzit ce a uscat DOMNUL, apele.",
+       "dict_ro": "Metzudat Țion explică «hovis» prin rădăcina de uscare, aceeași folosită pentru secarea Mării Trestiilor — un fenomen concret, nu doar o metaforă poetică a puterii divine."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Mării Trestiilor",
@@ -86634,7 +86787,14 @@
        "dict_ro": "O divergență binecunoscută: Septuaginta are „τὴν ἐρυθρὰν θάλασσαν\" („Marea Roșie\"), nu traducerea literală a numelui ebraic „Yam Suf\" („Marea Trestiilor/Marea Stufului\") — aceeași divergență de traducere apare la toate locurile din Exod unde se menționează trecerea prin Marea Roșie."
       },
       {
-       "t": " înaintea voastră, când ați ieșit din Egipt, și ce le-ați făcut celor doi regi ai amoriților care erau de cealaltă parte a Iordanului – lui Sihon și lui Og – pe care i-ați nimicit cu desăvârșire."
+       "t": " înaintea voastră, când ați ieșit din Egipt, și ce le-ați făcut celor doi regi ai amoriților care erau de cealaltă parte a Iordanului – lui Sihon și lui Og – pe care i-ați nimicit cu desăvârșire.",
+       "w": " înaintea voastră, când ați ieșit din Egipt, și ce le-ați făcut celor doi regi ai amoriților care erau de cealaltă parte a Iordanului – lui Sihon și lui Og – pe care i-ați nimicit cu desăvârșire.",
+       "heb": "מִפְּנֵיכֶם בְּצֵאתְכֶם מִמִּצְרָיִם וַאֲשֶׁר עֲשִׂיתֶם לִשְׁנֵי מַלְכֵי הָאֱמֹרִי אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן לְסִיחֹן וּלְעוֹג אֲשֶׁר הֶחֱרַמְתֶּם אוֹתָם",
+       "translit": "mipnēhem bețēthem mimițraim vaașer asitem lișnē malhē haemori așer beēver haiardēn lesihon ulog așer heheramtem otam",
+       "strong": "H6440",
+       "pos": "substantiv plural construct + sufix + verb, qal infinitiv + sufix + nume propriu + particulă relativă + verb, qal perfect + numeral + substantiv plural construct + nume de neam + particulă relativă + substantiv construct + nume propriu + nume propriu + nume propriu + particulă relativă + verb, hifil perfect + marcă a complementului direct + sufix",
+       "def_ro": "dinaintea voastră, când ați ieșit din Egipt, și ce ați făcut celor doi regi ai amoriților, care erau dincolo de Iordan, lui Sihon și lui Og, pe care i-ați nimicit.",
+       "dict_ro": "Metzudat Țion explică «heheramtem» cu sensul de moarte și nimicire totală — Rahav cunoaște detalii istorice precise, dovedind că vestea biruințelor lui Israel ajunsese departe, provocând o teroare bine informată, nu vagă."
       }
      ],
      "textCompare": [
@@ -86674,7 +86834,17 @@
      "translit": "Vanișma vaimas levavenu velo-kama od ruah beiș mipeneichem ki ADONAI Eloheihem hu Elohim bașamaim mimaal veal-haareț mitahat.",
      "tokens": [
       {
-       "t": "Am auzit și inimile noastre "
+       "t": "Am auzit și inimile noastre",
+       "w": "Am auzit și inimile noastre",
+       "heb": "וַנִּשְׁמַע",
+       "translit": "vanișma",
+       "strong": "H8085",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și am auzit.",
+       "dict_ro": "Talmudul Bavli (Zevahim 116b) relatează că Rahav avea zece ani când a ieșit Israel din Egipt și a trăit în desfrânare toți cei patruzeci de ani din pustie, convertindu-se la cincizeci de ani, exact când au venit la ea cele două iscoade — un episod de pocăință radicală."
+      },
+      {
+       "t": " "
       },
       {
        "t": "s-au topit",
@@ -86688,7 +86858,14 @@
        "dict_ro": "Masas — „a se topi, a se dizolva”, ca ceara la foc: imaginea biblică a curajului care se prăbușește (Deuteronomul 20:8; Iosua 5:1). Rahav ajunge de la frică la o mărturisire de credință care reia aproape cuvânt cu cuvânt Deuteronomul 4:39: „DOMNUL este Dumnezeu sus în ceruri și jos pe pământ”. Rashi redă o tradiție a înțelepților (Zevahim 116b) despre viața ei de dinainte și despre cât de bine cunoștea starea de spirit a căpeteniilor cetății."
       },
       {
-       "t": ", și n-a mai rămas duh în nimeni de [frica] voastră, căci DOMNUL, Dumnezeul vostru, El e Dumnezeu, în ceruri, sus, și jos pe pământ."
+       "t": ", și n-a mai rămas duh în nimeni de [frica] voastră, căci DOMNUL, Dumnezeul vostru, El e Dumnezeu, în ceruri, sus, și jos pe pământ.",
+       "w": ", și n-a mai rămas duh în nimeni de [frica] voastră, căci DOMNUL, Dumnezeul vostru, El e Dumnezeu, în ceruri, sus, și jos pe pământ.",
+       "heb": "לְבָבֵנוּ וְלֹא קָמָה עוֹד רוּחַ בְּאִישׁ מִפְּנֵיכֶם כִּי יְהוָה אֱלֹהֵיכֶם הוּא אֱלֹהִים בַּשָּׁמַיִם מִמַּעַל וְעַל הָאָרֶץ מִתָּחַת",
+       "translit": "levavēnu velo kama od ruah beiș mipnēhem ki Adonai elohēhem hu elohim bașamaim mimaal veal haareț mitahat",
+       "strong": "H3824",
+       "pos": "substantiv construct + sufix + particulă negativă + verb, qal perfect + adverb + substantiv + substantiv + prepoziție + sufix + conjuncție + nume propriu + substantiv plural construct + sufix + pronume personal + substantiv plural + substantiv plural + adverb + prepoziție + substantiv + prepoziție",
+       "def_ro": "inima noastră, și n-a mai rămas duh în om dinaintea voastră, căci DOMNUL, Dumnezeul vostru, El [este] Dumnezeu în ceruri sus și pe pământ dedesubt.",
+       "dict_ro": "Rashi explică faptul că «n-a mai rămas duh» include chiar lipsa dorinței de a se apropia de o femeie — teroarea era totală, afectând până și instinctele cele mai de bază, nu doar curajul militar."
       }
      ],
      "textCompare": [
@@ -86735,7 +86912,17 @@
      "translit": "Veata hișaveu-na li b'ADONAI ki-asiti imahem hesed vaasitem gam-atem im-beit avi hesed unetatem li ot emet.",
      "tokens": [
       {
-       "t": "Și acum, jurați-mi, vă rog, pe DOMNUL – că, deoarece m-am purtat cu bunăvoință față de voi, și voi vă veți purta cu bunăvoință față de casa tatălui meu și îmi veți da "
+       "t": "Și acum, jurați-mi, vă rog, pe DOMNUL – că, deoarece m-am purtat cu bunăvoință față de voi, și voi vă veți purta cu bunăvoință față de casa tatălui meu și îmi veți da",
+       "w": "Și acum, jurați-mi, vă rog, pe DOMNUL – că, deoarece m-am purtat cu bunăvoință față de voi, și voi vă veți purta cu bunăvoință față de casa tatălui meu și îmi veți da",
+       "heb": "וְעַתָּה הִשָּׁבְעוּ נָא לִי בַּיהוָה כִּי עָשִׂיתִי עִמָּכֶם חָסֶד וַעֲשִׂיתֶם גַּם אַתֶּם עִם בֵּית אָבִי חֶסֶד וּנְתַתֶּם לִי",
+       "translit": "veata hișavu na li ba'Adonai ki asiti imahem hased vaasitem gam atem im bēt avi hesed untatem li",
+       "strong": "H6258",
+       "pos": "adverb + verb, nifal imperativ + interjecție + prepoziție + sufix + nume propriu + conjuncție + verb, qal perfect + prepoziție + sufix + substantiv + verb, qal perfect consecutiv + particulă afirmativă + pronume personal + prepoziție + substantiv construct + sufix + substantiv + verb, qal perfect consecutiv + prepoziție + sufix",
+       "def_ro": "și acum, jurați-mi, vă rog, pe DOMNUL, că am făcut cu voi bunăvoință, și veți face și voi cu casa tatălui meu bunăvoință, și-mi veți da.",
+       "dict_ro": "Radak explică faptul că «hesed» e binele făcut fără obligație — Rahav nu le datora nimic iscoadelor, dar le-a ascuns de bunăvoie; de aceea le cere același gest necondiționat față de familia ei, nu o simplă răsplată echivalentă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "un semn de încredere",
@@ -86794,7 +86981,17 @@
      "translit": "vehahaitem et-avi veet-imi veet-ahai veet-ahiotai veet kol-așer lahem vehițaltem et-nafșoteinu mimavet.",
      "tokens": [
       {
-       "t": "și îi veți păstra în viață pe tatăl meu, pe mama mea, pe frații mei și pe surorile mele și tot ceea ce este al lor și "
+       "t": "și îi veți păstra în viață pe tatăl meu, pe mama mea, pe frații mei și pe surorile mele și tot ceea ce este al lor și",
+       "w": "și îi veți păstra în viață pe tatăl meu, pe mama mea, pe frații mei și pe surorile mele și tot ceea ce este al lor și",
+       "heb": "וְהַחֲיִתֶם אֶת אָבִי וְאֶת אִמִּי וְאֶת אַחַי וְאֶת אַחְיוֹתַי וְאֵת כָּל אֲשֶׁר לָהֶם",
+       "translit": "vehahaitem et avi veet imi veet ahai veet ahiotai veēt kal așer lahem",
+       "strong": "H2421",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + substantiv construct + sufix + marcă a complementului direct + substantiv construct + sufix + marcă a complementului direct + substantiv plural construct + sufix + marcă a complementului direct + substantiv plural construct + sufix + marcă a complementului direct + substantiv construct + particulă relativă + prepoziție + sufix",
+       "def_ro": "și veți face să trăiască pe tatăl meu și pe mama mea și pe frații mei și pe surorile mele, și tot ce este al lor.",
+       "dict_ro": "Lista detaliată — tată, mamă, frați, surori, și tot ce este al lor — arată grija lui Rahav pentru întreaga ei familie extinsă, nu doar pentru persoana ei proprie, confirmând caracterul generos al cererii."
+      },
+      {
+       "t": " "
       },
       {
        "t": "le veți scăpa",
@@ -86809,7 +87006,14 @@
        "dict_ro": "Națal (hifil: hițil) — „a smulge din primejdie, a salva”, același verb folosit pentru izbăvirea din Egipt (Exodul 3:8). Rahav enumeră pe rând tatăl, mama, frații, surorile „și tot ce este al lor”: nu cere doar pentru ea, ci pentru toată casa. Cererea va fi împlinită întocmai la căderea Ierihonului (Iosua 6:23, 25), când iscoadele îi scot pe toți ai ei din cetate."
       },
       {
-       "t": " sufletele de la moarte.”"
+       "t": " sufletele de la moarte.”",
+       "w": " sufletele de la moarte.”",
+       "heb": "אֶת נַפְשֹׁתֵינוּ מִמָּוֶת",
+       "translit": "et nafșotēnu mimavet",
+       "strong": "H5315",
+       "pos": "marcă a complementului direct + substantiv plural construct + sufix + substantiv",
+       "def_ro": "sufletele noastre de la moarte.",
+       "dict_ro": "Cererea finală, «sufletele de la moarte», rezumă întreaga listă precedentă într-o singură miză: salvarea vieților, nu doar protecția bunurilor sau a statutului familiei."
       }
      ],
      "textCompare": [
@@ -86837,7 +87041,17 @@
      "translit": "Vaiomru la haanașim nafșenu tahteihem lamut im lo taghidu et-devarenu ze vehaia betet-ADONAI lanu et-haareț veasinu imah hesed veemet.",
      "tokens": [
       {
-       "t": "Bărbații i-au spus: „Sufletele noastre să moară în locul vostru, [dar doar] dacă nu vei dezvălui această discuție a noastră. Și va fi, atunci când DOMNUL ne va da țara, ne vom purta cu tine cu "
+       "t": "Bărbații i-au spus: „Sufletele noastre să moară în locul vostru, [dar doar] dacă nu vei dezvălui această discuție a noastră. Și va fi, atunci când DOMNUL ne va da țara, ne vom purta cu tine cu",
+       "w": "Bărbații i-au spus: „Sufletele noastre să moară în locul vostru, [dar doar] dacă nu vei dezvălui această discuție a noastră. Și va fi, atunci când DOMNUL ne va da țara, ne vom purta cu tine cu",
+       "heb": "וַיֹּאמְרוּ לָהּ הָאֲנָשִׁים נַפְשֵׁנוּ תַחְתֵּיכֶם לָמוּת אִם לֹא תַגִּידוּ אֶת דְּבָרֵנוּ זֶה וְהָיָה בְּתֵת יְהוָה לָנוּ אֶת הָאָרֶץ וְעָשִׂינוּ עִמָּךְ",
+       "translit": "vaiomru lah haanașim nafșēnu tahtēhem lamut im lo tagidu et devarēnu ze vehaia betēt Adonai lanu et haareț veasinu imah",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv plural + substantiv construct + sufix + prepoziție + sufix + verb, qal infinitiv + conjuncție + particulă negativă + verb, hifil imperfect + marcă a complementului direct + substantiv construct + sufix + pronume demonstrativ + verb, qal perfect consecutiv + verb, qal infinitiv + nume propriu + prepoziție + sufix + marcă a complementului direct + substantiv + verb, qal perfect consecutiv + prepoziție + sufix",
+       "def_ro": "și i-au spus bărbații: sufletul nostru [va muri] în locul vostru, dacă nu veți dezvălui cuvântul nostru acesta; și va fi, când va da DOMNUL nouă țara, vom face cu tine.",
+       "dict_ro": "Radak explică faptul că jurământul despre care vorbesc nu se referea la faptul că fuseseră în casa ei, ci la semnul convenit cu ea — dacă acel semn ar fi fost dezvăluit, l-ar fi putut folosi și alți locuitori de pe zid, pentru a se salva pe nedrept."
+      },
+      {
+       "t": " "
       },
       {
        "t": "bunăvoință și adevăr",
@@ -86894,7 +87108,17 @@
      "translit": "Vatoridem bahevel bead hahalon ki veita bekir hahoma uvahoma hi ioșavet.",
      "tokens": [
       {
-       "t": "Și ea i-a coborât "
+       "t": "Și ea i-a coborât",
+       "w": "Și ea i-a coborât",
+       "heb": "וַתּוֹרִדֵם",
+       "translit": "vatoridēm",
+       "strong": "H3381",
+       "pos": "verb, hifil imperfect consecutiv + sufix",
+       "def_ro": "și i-a coborât.",
+       "dict_ro": "Rashi explică faptul că Rahav i-a coborât «cu aceeași frânghie și prin aceeași fereastră» pe care urcau la ea admiratorii ei mai înainte — rostind, potrivit Agadei, «Stăpâne al lumii, cu acestea am păcătuit, cu acestea iartă-mă»."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cu o frânghie",
@@ -86908,7 +87132,14 @@
        "dict_ro": "Hevel — frânghia, funia (și, prin extensie, „partea măsurată cu funia”, lotul de moștenire). Casa lui Rahav era construită în grosimea zidului, cu fereastra spre exterior — de aceea putea să-i coboare afară, chiar cu porțile închise. Scena are paralele: Mical îl coboară pe David pe fereastră (1 Samuel 19:12), iar ucenicii îl coboară pe Pavel peste zidul Damascului într-un coș (Faptele apostolilor 9:25). Rashi redă rugăciunea ei, după tradiția înțelepților: „cu acestea am păcătuit, cu acestea iartă-mă”."
       },
       {
-       "t": " printr-o fereastră, căci casa ei se afla în zidul fortăreței și în fortăreață locuia."
+       "t": " printr-o fereastră, căci casa ei se afla în zidul fortăreței și în fortăreață locuia.",
+       "w": " printr-o fereastră, căci casa ei se afla în zidul fortăreței și în fortăreață locuia.",
+       "heb": "בְּעַד הַחַלּוֹן כִּי בֵיתָהּ בְּקִיר הַחוֹמָה וּבַחוֹמָה הִיא יוֹשָׁבֶת",
+       "translit": "bead hahalon ki vētah bekir hahoma uvahoma hi ioșavet",
+       "strong": "H1157",
+       "pos": "prepoziție + substantiv + conjuncție + substantiv construct + sufix + substantiv construct + substantiv + substantiv + pronume personal + verb, qal participiu",
+       "def_ro": "prin fereastră, căci casa ei [era] în zidul cetății, și în zid ea locuia.",
+       "dict_ro": "Talmudul Bavli (Zevahim 116b) relatează cum Rahav s-a rugat să-i fie iertate toate păcatele, ca răsplată pentru punerea ei în primejdie prin frânghia, fereastra și inul cu care a salvat cele două iscoade."
       }
      ],
      "textCompare": [
@@ -86962,7 +87193,17 @@
      "translit": "Vatomer lahem hahara lehu pen-ifgheu vahem harodfim venahbetem șama șeloșet iamim ad șov harodfim veahar telhu ledarkehem.",
      "tokens": [
       {
-       "t": "Și le-a spus: „Mergeți la munte, ca nu cumva urmăritorii voștri să vă găsească. "
+       "t": "Și le-a spus: „Mergeți la munte, ca nu cumva urmăritorii voștri să vă găsească.",
+       "w": "Și le-a spus: „Mergeți la munte, ca nu cumva urmăritorii voștri să vă găsească.",
+       "heb": "וַתֹּאמֶר לָהֶם הָהָרָה לֵּכוּ פֶּן יִפְגְּעוּ בָכֶם הָרֹדְפִים",
+       "translit": "vatomer lahem hahara lēhu pen ifgeu vahem harodfim",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv + verb, qal imperativ + conjuncție + verb, qal imperfect + prepoziție + sufix + verb, qal participiu",
+       "def_ro": "și le-a spus: la munte mergeți, ca nu cumva să vă întâlnească urmăritorii.",
+       "dict_ro": "Rashi se întreabă de unde putea Rahav să știe că urmăritorii se vor întoarce după exact trei zile — concluzia talmudică fiind că duhul sfânt se odihnise asupra ei, dându-i cunoașterea profetică a acestui detaliu precis."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Ascundeți-vă",
@@ -86977,7 +87218,14 @@
        "dict_ro": "Hava — „a se ascunde”; forma de aici e neobișnuită, fără alef, cum observă Radak. Sfatul lui Rahav e contrar instinctului: nu spre Iordan, unde îi caută urmăritorii, ci spre munții de la apus de Ierihon, pentru trei zile. De unde știa că se vor întoarce după trei zile? Rashi răspunde, după înțelepți: a avut duh sfânt. Radak aduce și o explicație după sensul simplu: a socotit o zi până la Iordan, căutarea pe drum și întoarcerea — cam trei zile."
       },
       {
-       "t": " acolo vreme de trei zile, până când se vor întoarce urmăritorii voștri, și apoi puteți merge pe drumul vostru.”"
+       "t": " acolo vreme de trei zile, până când se vor întoarce urmăritorii voștri, și apoi puteți merge pe drumul vostru.”",
+       "w": " acolo vreme de trei zile, până când se vor întoarce urmăritorii voștri, și apoi puteți merge pe drumul vostru.”",
+       "heb": "שָׁמָּה שְׁלֹשֶׁת יָמִים עַד שׁוֹב הָרֹדְפִים וְאַחַר תֵּלְכוּ לְדַרְכְּכֶם",
+       "translit": "șama șeloșet iamim ad șov harodfim veahar tēlhu ledarkehem",
+       "strong": "H8033",
+       "pos": "adverb + numeral + substantiv plural + prepoziție + verb, qal infinitiv absolut + verb, qal participiu + adverb + verb, qal jusiv + substantiv construct + sufix",
+       "def_ro": "acolo trei zile, până la întoarcerea urmăritorilor, și după aceea veți merge pe drumul vostru.",
+       "dict_ro": "Radak oferă și o explicație logică alternativă: de la Ierihon la Iordan e o zi de drum sau puțin mai mult, iar Rahav ar fi putut calcula simplu, prin mers, întoarcere și cercetarea întregului drum, că urmăritorii se vor întoarce în exact trei zile."
       }
      ],
      "textCompare": [
@@ -87025,7 +87273,17 @@
      "translit": "Vaiomru eleha haanașim nekiim anahnu mișvuateh haze așer hișbatanu.",
      "tokens": [
       {
-       "t": "Bărbații i-au spus: „Vom fi "
+       "t": "Bărbații i-au spus: „Vom fi",
+       "w": "Bărbații i-au spus: „Vom fi",
+       "heb": "וַיֹּאמְרוּ אֵלֶיהָ הָאֲנָשִׁים",
+       "translit": "vaiomru ēleha haanașim",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv plural",
+       "def_ro": "și i-au spus bărbații.",
+       "dict_ro": "Rashi explică «vom fi dezlegați» ca pe o formulă care pune întreaga responsabilitate pe seama lui Rahav — bărbații se bizuie pe ea să împlinească semnul convenit, ca ei să fie scutiți de orice vină ulterioară."
+      },
+      {
+       "t": " "
       },
       {
        "t": "dezlegați",
@@ -87040,7 +87298,14 @@
        "dict_ro": "Naki — „curat, nevinovat”, apoi „scutit de o obligație” (Geneza 24:8, 41, unde slujitorul lui Avraam e „dezlegat” de jurământ dacă femeia nu vrea să vină). Iscoadele, care jurăseră deja, precizează acum condițiile ca să nu calce jurământul fără voie — Metzudat David: „vrem să fim curați de vina călcării jurământului, de aceea explicăm bine lucrul”. Rashi: „ne bizuim pe tine să faci semnul acesta”."
       },
       {
-       "t": " de jurământul acesta al tău pe care ne-ai pus să-l jurăm, [afară de cazul când]"
+       "t": " de jurământul acesta al tău pe care ne-ai pus să-l jurăm, [afară de cazul când]",
+       "w": " de jurământul acesta al tău pe care ne-ai pus să-l jurăm, [afară de cazul când]",
+       "heb": "נְקִיִּם אֲנַחְנוּ מִשְּׁבֻעָתֵךְ הַזֶּה אֲשֶׁר הִשְׁבַּעְתָּנוּ",
+       "translit": "anahnu mișvuatēh haze așer hișbatanu",
+       "strong": "H587",
+       "pos": "pronume personal + substantiv construct + sufix + pronume demonstrativ + particulă relativă + verb, hifil perfect + sufix",
+       "def_ro": "noi [vom fi] curați de jurământul tău acesta pe care ne-ai pus să-l jurăm.",
+       "dict_ro": "Radak observă că Scriptura nu povestește explicit momentul jurământului, dar din faptul că Rahav cere «jurați-mi» și bărbații răspund «sufletele noastre să moară în locul vostru» se vede clar că jurământul a avut loc deja, înainte ca ei să coboare pe fereastră."
       }
      ],
      "textCompare": [
@@ -87086,7 +87351,17 @@
      "translit": "hine anahnu vaim baareț et-tikvat huț hașani haze tikșeri bahalon așer horadetenu vo veet-avih veet-imeh veet-ahaih veet kol-beit avih taasfi elaih habaita.",
      "tokens": [
       {
-       "t": "iată, atunci când venim în țară, tu vei lega această "
+       "t": "iată, atunci când venim în țară, tu vei lega această",
+       "w": "iată, atunci când venim în țară, tu vei lega această",
+       "heb": "הִנֵּה אֲנַחְנוּ בָאִים בָּאָרֶץ אֶת",
+       "translit": "hinē anahnu vaim baareț et",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă + pronume personal + verb, qal participiu + substantiv + marcă a complementului direct",
+       "def_ro": "iată, noi venim în țară, [și] pe.",
+       "dict_ro": "Rashi explică «tikvat» ca «sfoară sau funie» — termenul folosit anume pentru acest fir, nu un cuvânt generic pentru orice legătură, pregătind detaliul despre culoarea stacojie precizată imediat după."
+      },
+      {
+       "t": " "
       },
       {
        "t": "frânghie cărămizie",
@@ -87101,7 +87376,14 @@
        "dict_ro": "Tikva — aici „funie, sfoară” (de la kav, „fir, sfoară de măsurat”), dar același cuvânt înseamnă și „speranță”: frânghia lui Rahav e, literal, o „speranță” legată la fereastră. Șani e culoarea stacojie obținută din coșenilă (tola'at șani), folosită la Cort (Exodul 25:4), la curățirea leprosului (Leviticul 14:4) și la vaca roșie (Numeri 19:6). Talmudul (Meghila 14b) leagă cuvântul tikvat de „Hulda, fiica lui Tikva” (2 Împărați 22:14) și spune că din Rahav s-au născut opt profeți și preoți, printre ei Ieremia, iar ea însăși s-a convertit și s-a căsătorit cu Ioșua. Mulți Părinți ai Bisericii au văzut în firul roșu o prefigurare a sângelui lui Hristos."
       },
       {
-       "t": " la fereastra prin care ne-ai coborât, iar pe tatăl tău, pe mama ta, pe frații tăi și toată familia tatălui tău îi vei aduna la tine în casă."
+       "t": " la fereastra prin care ne-ai coborât, iar pe tatăl tău, pe mama ta, pe frații tăi și toată familia tatălui tău îi vei aduna la tine în casă.",
+       "w": " la fereastra prin care ne-ai coborât, iar pe tatăl tău, pe mama ta, pe frații tăi și toată familia tatălui tău îi vei aduna la tine în casă.",
+       "heb": "חוּט הַשָּׁנִי הַזֶּה תִּקְשְׁרִי בַּחַלּוֹן אֲשֶׁר הוֹרַדְתֵּנוּ בוֹ וְאֶת אָבִיךְ וְאֶת אִמֵּךְ וְאֶת אַחַיִךְ וְאֵת כָּל בֵּית אָבִיךְ תַּאַסְפִי אֵלַיִךְ הַבָּיְתָה",
+       "translit": "hut hașani haze tikșeri bahalon așer horadtēnu vo veet avih veet imēh veet ahaih veēt kal bēt avih taasfi ēlaih habaita",
+       "strong": "H2339",
+       "pos": "substantiv construct + substantiv + pronume demonstrativ + verb, qal imperfect + substantiv + particulă relativă + verb, hifil perfect + sufix + prepoziție + sufix + marcă a complementului direct + substantiv construct + sufix + marcă a complementului direct + substantiv construct + sufix + marcă a complementului direct + substantiv plural construct + sufix + marcă a complementului direct + substantiv construct + substantiv construct + sufix + verb, qal imperfect + prepoziție + sufix + substantiv",
+       "def_ro": "firul stacojiu acesta îl vei lega la fereastra prin care ne-ai coborât, și pe tatăl tău și pe mama ta și pe frații tăi și toată casa tatălui tău o vei aduna la tine, în casă.",
+       "dict_ro": "Talmudul Bavli (Meghila 14b) relatează că opt profeți, care au fost și preoți, s-au născut din Rahav — printre ei Ieremia, Baruh și Hulda profetesa — iar Rav Nahman precizează că Rahav s-a convertit și s-a căsătorit chiar cu Ioșua."
       }
      ],
      "textCompare": [
@@ -87157,7 +87439,17 @@
      "translit": "Vehaia kol așer-iețe midaltei veiteh hahuța damo veroșo vaanahnu nekiim vehol așer ihie itah babait damo veroșenu im-iad tihie-bo.",
      "tokens": [
       {
-       "t": "Și va fi că dacă oricine va ieși pe ușile casei tale, afară, "
+       "t": "Și va fi că dacă oricine va ieși pe ușile casei tale, afară,",
+       "w": "Și va fi că dacă oricine va ieși pe ușile casei tale, afară,",
+       "heb": "וְהָיָה כֹּל אֲשֶׁר יֵצֵא מִדַּלְתֵי בֵיתֵךְ הַחוּצָה",
+       "translit": "vehaia kol așer iēțē midaltē vētēh hahuța",
+       "strong": "H1961",
+       "pos": "verb, qal perfect consecutiv + substantiv + particulă relativă + verb, qal imperfect + substantiv dual construct + substantiv construct + sufix + substantiv",
+       "def_ro": "și va fi, tot cel care va ieși pe ușile casei tale, afară.",
+       "dict_ro": "Rashi explică faptul că «sângele lui va fi asupra capului lui» înseamnă că vina morții acelei persoane îi apasă pe ea însăși, pentru că și-a pricinuit propria moarte ieșind afară din spațiul protejat."
+      },
+      {
+       "t": " "
       },
       {
        "t": "sângele lui",
@@ -87171,7 +87463,14 @@
        "dict_ro": "Dam — sângele, iar în expresia „sângele lui asupra capului lui” — vina morții: cine iese din casă își poartă singur răspunderea. Rashi explică: „vina uciderii lui e asupra lui, căci el și-a pricinuit moartea”; iar pentru cei rămași înăuntru, iscoadele își asumă răspunderea: „sângele lui asupra capului nostru”. Casa lui Rahav devine, ca în noaptea Paștelui (Exodul 12:22-23), un loc al ocrotirii: în ea ești apărat, în afara ei nu."
       },
       {
-       "t": " va fi asupra capului lui, iar noi vom fi nevinovați. Dar oricine este cu tine în casă, sângele lui să fie asupra capului nostru, dacă se va ridica vreo mână asupra lui."
+       "t": " va fi asupra capului lui, iar noi vom fi nevinovați. Dar oricine este cu tine în casă, sângele lui să fie asupra capului nostru, dacă se va ridica vreo mână asupra lui.",
+       "w": " va fi asupra capului lui, iar noi vom fi nevinovați. Dar oricine este cu tine în casă, sângele lui să fie asupra capului nostru, dacă se va ridica vreo mână asupra lui.",
+       "heb": "בְרֹאשׁוֹ וַאֲנַחְנוּ נְקִיִּם וְכֹל אֲשֶׁר יִהְיֶה אִתָּךְ בַּבַּיִת דָּמוֹ בְרֹאשֵׁנוּ אִם יָד תִּהְיֶה בּוֹ",
+       "translit": "veroșo vaanahnu nekim vehol așer ihie itah babait damo veroșēnu im iad tihie bo",
+       "strong": "H7218",
+       "pos": "substantiv construct + sufix + pronume personal + adjectiv plural + substantiv + particulă relativă + verb, qal imperfect + prepoziție + sufix + substantiv + substantiv construct + sufix + substantiv construct + sufix + conjuncție + substantiv + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "pe capul lui, și noi [vom fi] nevinovați; și tot cel care va fi cu tine în casă, sângele lui [va fi] pe capul nostru, dacă se va pune mâna pe el.",
+       "dict_ro": "Radak explică faptul că «sângele lui va fi asupra capului lui» arată că persoana însăși se face vinovată de propriul sânge, pentru că nu s-a păzit să rămână în casa marcată — distincția clară între vina proprie și responsabilitatea bărbaților depinde strict de prezența în interiorul casei."
       }
      ],
      "textCompare": [
@@ -87219,7 +87518,17 @@
      "translit": "Veim-taghidi et-devarenu ze vehainu nekiim mișvuateh așer hișbatanu.",
      "tokens": [
       {
-       "t": "Dar dacă vei vorbi de discuția aceasta a noastră, suntem dezlegați de "
+       "t": "Dar dacă vei vorbi de discuția aceasta a noastră, suntem dezlegați de",
+       "w": "Dar dacă vei vorbi de discuția aceasta a noastră, suntem dezlegați de",
+       "heb": "וְאִם תַּגִּידִי אֶת דְּבָרֵנוּ זֶה וְהָיִינוּ נְקִיִּם מִ",
+       "translit": "veim tagidi et devarēnu ze vehainu nekim mi",
+       "strong": "H518",
+       "pos": "conjuncție + verb, hifil imperfect + marcă a complementului direct + substantiv construct + sufix + pronume demonstrativ + verb, qal perfect consecutiv + adjectiv plural + prepoziție",
+       "def_ro": "și dacă vei dezvălui cuvântul nostru acesta, vom fi curați de.",
+       "dict_ro": "Metzudat David explică faptul că scopul acestei condiții e ca bărbații să fie curați de vina anulării jurământului — repetarea condiției, la fel ca la v.17, întărește seriozitatea legământului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "jurământul tău",
@@ -87234,7 +87543,14 @@
        "dict_ro": "Șevua — jurământul, înrudit cu șeva, „șapte”, legătură pe care o ilustrează jurământul de la Beer-Șeba, pecetluit cu șapte mielușele (Geneza 21:28-31). Iscoadele îl numesc „jurământul tău”, pentru că ea l-a cerut și ea le-a dictat termenii. A treia condiție încheie lista: frânghia la fereastră, familia înăuntru, iar semnul să rămână secret. Metzudat David precizează că „discuția noastră” este tocmai semnul și însemnul convenit."
       },
       {
-       "t": " pe care ne-ai pus să-l jurăm.”"
+       "t": " pe care ne-ai pus să-l jurăm.”",
+       "w": " pe care ne-ai pus să-l jurăm.”",
+       "heb": "שְּׁבֻעָתֵךְ הַזֶּה אֲשֶׁר הִשְׁבַּעְתָּנוּ",
+       "translit": "șvuatēh haze așer hișbatanu",
+       "strong": "H7621",
+       "pos": "substantiv construct + sufix + pronume demonstrativ + particulă relativă + verb, hifil perfect + sufix",
+       "def_ro": "jurământul tău acesta pe care ne-ai pus să-l jurăm.",
+       "dict_ro": "Repetarea exactă a formulei de la v.17 confirmă că aceasta e o reluare deliberată a condiției, nu o nouă clauză — bărbații și Rahav se despart cu termenii înțelegerii clar stabiliți de ambele părți."
       }
      ],
      "textCompare": [
@@ -87269,7 +87585,17 @@
      "translit": "Vatomer kedivreichem ken-hu vateșalehem vaièlehu vatikșor et-tikvat hașani bahalon.",
      "tokens": [
       {
-       "t": "Ea le-a spus: „Precum vorbele voastre, așa să fie!” și i-a lăsat să plece și ei au plecat; și ea a legat frânghia cărămizie la "
+       "t": "Ea le-a spus: „Precum vorbele voastre, așa să fie!” și i-a lăsat să plece și ei au plecat; și ea a legat frânghia cărămizie la",
+       "w": "Ea le-a spus: „Precum vorbele voastre, așa să fie!” și i-a lăsat să plece și ei au plecat; și ea a legat frânghia cărămizie la",
+       "heb": "וַתֹּאמֶר כְּדִבְרֵיכֶם כֶּן הוּא וַתְּשַׁלְּחֵם וַיֵּלֵכוּ וַתִּקְשֹׁר אֶת תִּקְוַת הַשָּׁנִי",
+       "translit": "vatomer kedivrēhem ken hu vatșalhēm vaiēlēhu vatikșor et tikvat hașani",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + substantiv plural construct + sufix + adverb + pronume personal + verb, piel imperfect consecutiv + sufix + verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + marcă a complementului direct + substantiv construct + substantiv",
+       "def_ro": "și a spus: după cuvintele voastre, așa [este]; și i-a trimis, și au mers; și a legat firul stacojiu.",
+       "dict_ro": "Radak explică faptul că Scriptura nu povestește că Rahav ar fi legat frânghia imediat după plecarea iscoadelor, ci relatează doar că a făcut-o cum i s-a poruncit — gestul concret a avut loc, de fapt, mult mai târziu, chiar la vremea cuceririi cetății."
+      },
+      {
+       "t": " "
       },
       {
        "t": "fereastră",
@@ -87324,7 +87650,17 @@
      "translit": "Vaièlhu vaiavou hahara vaièșvu șam șeloșet iamim ad-șavu harodfim vaievakșu harodfim behol-hadereh velo mațau.",
      "tokens": [
       {
-       "t": "Ei au plecat și au ajuns "
+       "t": "Ei au plecat și au ajuns",
+       "w": "Ei au plecat și au ajuns",
+       "heb": "וַיֵּלְכוּ וַיָּבֹאוּ",
+       "translit": "vaiēlhu vaiavou",
+       "strong": "H3212",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv",
+       "def_ro": "și au mers și au venit.",
+       "dict_ro": "Mișcarea rapidă descrisă aici — plecare, ajungere la munte — confirmă execuția promptă a instrucțiunilor lui Rahav, fără întârziere care ar fi putut compromite întregul plan de salvare."
+      },
+      {
+       "t": " "
       },
       {
        "t": "la munte",
@@ -87339,7 +87675,14 @@
        "dict_ro": "Har — muntele; forma hahara are sufixul care arată direcția: „spre munte”. Probabil e vorba de dealurile de calcar de la apus de Ierihon, pline de peșteri, unde era ușor să te ascunzi. Iscoadele urmează întocmai sfatul lui Rahav, iar urmăritorii caută „de-a lungul drumului” spre Iordan — sfatul ei se dovedește exact."
       },
       {
-       "t": " și au stat acolo trei zile, până s-au întors urmăritorii. Urmăritorii au căutat de-a lungul drumului, dar nu i-au găsit."
+       "t": " și au stat acolo trei zile, până s-au întors urmăritorii. Urmăritorii au căutat de-a lungul drumului, dar nu i-au găsit.",
+       "w": " și au stat acolo trei zile, până s-au întors urmăritorii. Urmăritorii au căutat de-a lungul drumului, dar nu i-au găsit.",
+       "heb": "הָהָרָה וַיֵּשְׁבוּ שָׁם שְׁלֹשֶׁת יָמִים עַד שָׁבוּ הָרֹדְפִים וַיְבַקְשׁוּ הָרֹדְפִים בְּכָל הַדֶּרֶךְ וְלֹא מָצָאוּ",
+       "translit": "hahara vaiēșvu șam șeloșet iamim ad șavu harodfim vaivakșu harodfim behal hadereh velo mațau",
+       "strong": "H2022",
+       "pos": "substantiv + verb, qal imperfect consecutiv + adverb + numeral + substantiv plural + prepoziție + verb, qal perfect + verb, qal participiu + verb, piel imperfect consecutiv + verb, qal participiu + substantiv construct + substantiv + particulă negativă + verb, qal perfect",
+       "def_ro": "la munte, și au șezut acolo trei zile, până s-au întors urmăritorii; și au căutat urmăritorii pe tot drumul, și n-au găsit.",
+       "dict_ro": "Împlinirea exactă a profeției lui Rahav despre durata de trei zile a urmăririi confirmă, retrospectiv, natura profetică a cunoașterii ei — detaliu pe care Talmudul îl leagă direct de odihnirea duhului sfânt asupra ei."
       }
      ],
      "textCompare": [
@@ -87371,7 +87714,17 @@
      "translit": "Vaiasuvu șenei haanașim vaièrdu mehahar vaiaavru vaiavou el-Iehoșua bin-Nun vaiesapru-lo et kol-hamoțot otam.",
      "tokens": [
       {
-       "t": "Cei doi bărbați s-au întors și au coborât de pe munte, "
+       "t": "Cei doi bărbați s-au întors și au coborât de pe munte,",
+       "w": "Cei doi bărbați s-au întors și au coborât de pe munte,",
+       "heb": "וַיָּשֻׁבוּ שְׁנֵי הָאֲנָשִׁים וַיֵּרְדוּ מֵהָהָר",
+       "translit": "vaiașuvu șenē haanașim vaiērdu mēhahar",
+       "strong": "H7725",
+       "pos": "verb, qal imperfect consecutiv + numeral + substantiv plural + verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "și s-au întors cei doi bărbați și au coborât de pe munte.",
+       "dict_ro": "Rashi explică «au trecut dincolo» ca referindu-se la trecerea râului Iordan — ultima etapă a drumului de revenire la tabăra israelită, înainte de a raporta lui Ioșua rezultatul misiunii."
+      },
+      {
+       "t": " "
       },
       {
        "t": "au trecut dincolo",
@@ -87386,7 +87739,14 @@
        "dict_ro": "Avar — „a trece”, verbul din care vine și ivri, „evreu” (Avraam, cel „de dincolo” de râu, Iosua 24:2-3). Rashi precizează că au trecut Iordanul. Întoarcerea iscoadelor lui Ioșua contrastează cu a celor douăsprezece iscoade ale lui Moise din pericopa Șelah: acelea s-au întors după patruzeci de zile cu un raport care a speriat poporul; acestea, după trei zile, cu un raport scurt și plin de încredere. Radak explică: s-au întors pe drum, după ce stătuseră ascunși în munte."
       },
       {
-       "t": " [de Iordan] și au venit la Ioșua, fiul lui Nun, și i-au spus tot ce li se întâmplase."
+       "t": " [de Iordan] și au venit la Ioșua, fiul lui Nun, și i-au spus tot ce li se întâmplase.",
+       "w": " [de Iordan] și au venit la Ioșua, fiul lui Nun, și i-au spus tot ce li se întâmplase.",
+       "heb": "וַיָּבֹאוּ אֶל יְהוֹשֻׁעַ בִּן נוּן וַיְסַפְּרוּ לוֹ אֵת כָּל הַמֹּצְאוֹת אוֹתָם",
+       "translit": "vaiavou el iehoșua bin nun vaisapru lo ēt kal hamoțot otam",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + nume propriu + substantiv construct + nume propriu + verb, piel imperfect consecutiv + prepoziție + sufix + marcă a complementului direct + substantiv construct + verb, qal participiu + sufix",
+       "def_ro": "și au venit la Ioșua, fiul lui Nun, și i-au povestit lui tot ce li s-a întâmplat.",
+       "dict_ro": "Metzudat Țion explică «hamoțot» ca «ceea ce li se întâmplase» — raportul lor cuprinde întreaga întâmplare, de la întâlnirea cu Rahav până la întoarcerea prin munte, pregătind concluzia optimistă din versetul final."
       }
      ],
      "textCompare": [
@@ -87427,7 +87787,17 @@
      "translit": "Vaiomru el-Iehoșua ki-natan ADONAI beiadenu et-kol-haareț vegam-namogu kol-ioșvei haareț mipanenu.",
      "tokens": [
       {
-       "t": "Și i-au spus lui Ioșua: „Căci DOMNUL a dat toată țara în mâinile noastre, iar locuitorii țării "
+       "t": "Și i-au spus lui Ioșua: „Căci DOMNUL a dat toată țara în mâinile noastre, iar locuitorii țării",
+       "w": "Și i-au spus lui Ioșua: „Căci DOMNUL a dat toată țara în mâinile noastre, iar locuitorii țării",
+       "heb": "וַיֹּאמְרוּ אֶל יְהוֹשֻׁעַ כִּי נָתַן יְהוָה בְּיָדֵנוּ אֶת כָּל הָאָרֶץ וְגַם",
+       "translit": "vaiomru el iehoșua ki natan Adonai beiadēnu et kal haareț vegam",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + nume propriu + conjuncție + verb, qal perfect + nume propriu + substantiv construct + sufix + marcă a complementului direct + substantiv construct + substantiv + particulă afirmativă",
+       "def_ro": "și au spus către Ioșua: căci a dat DOMNUL în mâna noastră toată țara, și de asemenea.",
+       "dict_ro": "Radak explică faptul că acesta este sfârșitul cuvintelor lor, concluzia povestirii pe care au făcut-o — cuvântul «căci» (ki) legând explicația finală de tot ce relataseră mai înainte despre întâlnirea cu Rahav."
+      },
+      {
+       "t": " "
       },
       {
        "t": "au pălit",
@@ -87443,7 +87813,14 @@
        "dict_ro": "Mug — „a se topi, a se înmuia” (despre pământ sub ploaie, Psalmul 65:10, sau despre inimi de frică). Raportul iscoadelor reia exact cuvintele lui Rahav (2:9) — „au pălit toți locuitorii țării” — și, prin ea, cuvintele Cântării de la Mare (Exodul 15:15). Cu acest verset, care e răspunsul la raportul descurajator al iscoadelor din pericopa Șelah (Numeri 13:31-33), se încheie și haftara. Metzudat David: după ce au povestit toate întâmplările, au spus concluzia: „DOMNUL a dat toată țara în mâinile noastre”."
       },
       {
-       "t": " înaintea noastră."
+       "t": " înaintea noastră.",
+       "w": " înaintea noastră.",
+       "heb": "כָּל יֹשְׁבֵי הָאָרֶץ מִפָּנֵינוּ",
+       "translit": "kal ioșvē haareț mipanēnu",
+       "strong": "H3605",
+       "pos": "substantiv construct + verb, qal participiu + substantiv + substantiv plural construct + sufix",
+       "def_ro": "toți locuitorii țării dinaintea noastră.",
+       "dict_ro": "Metzudat David explică faptul că raportul iscoadelor confirmă exact cuvintele lui Rahav de la v.9-11 — profeția ei despre teroarea generalizată a locuitorilor Canaanului se dovedește adevărată din proprie experiență."
       }
      ],
      "textCompare": [
