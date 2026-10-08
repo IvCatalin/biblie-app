@@ -73271,7 +73271,17 @@
      "translit": "Halo kivnei hușiim atem li benei Israël neum-ADONAI halo et-Israël heeléiti meereț Mițraim ufliștiim miKaftor vaAram miKir.",
      "tokens": [
       {
-       "t": "Nu sunteți voi oare pentru Mine ca și copiii "
+       "t": "Nu sunteți voi oare pentru Mine ca și copiii",
+       "w": "Nu sunteți voi oare pentru Mine ca și copiii",
+       "heb": "הֲלוֹא כִבְנֵי",
+       "translit": "halo hivnē",
+       "strong": "H3808",
+       "pos": "particulă negativă + substantiv plural construct",
+       "def_ro": "nu [sunteți] oare ca fiii.",
+       "dict_ro": "Rashi explică faptul că DOMNUL compară pe Israel cu cușiții pentru a sublinia că alegerea lor nu le dă dreptul la impunitate: la fel ca toate celelalte neamuri descendente din Noe, și Israel va fi judecat după fapte."
+      },
+      {
+       "t": " "
       },
       {
        "t": "etiopienilor",
@@ -73286,7 +73296,14 @@
        "dict_ro": "Cușiim — urmașii lui Cuș, fiul lui Ham (Geneza 10:6), locuitorii ținutului de la sud de Egipt; Metzudat Țion îi descrie simplu: „oamenii negri, din fiii lui Cuș”. Comparația a primit interpretări foarte diferite: Rashi o leagă de Ieremia 13:23 („poate un cușit să-și schimbe pielea?”) — sunteți la fel de neschimbați în răutatea voastră; Metzudat David și Radak văd în cușiți imaginea robilor pe viață: cum ei aparțin stăpânilor, așa Israel, răscumpărat din casa robiei, Îi aparține lui Dumnezeu pentru totdeauna."
       },
       {
-       "t": ", copii ai lui Israel? – rostirea DOMNULUI. Nu l-am scos Eu oare pe Israel din țara Egiptului, pe filisteni din Caftor și pe Aram din Kir?"
+       "t": ", copii ai lui Israel? – rostirea DOMNULUI. Nu l-am scos Eu oare pe Israel din țara Egiptului, pe filisteni din Caftor și pe Aram din Kir?",
+       "w": ", copii ai lui Israel? – rostirea DOMNULUI. Nu l-am scos Eu oare pe Israel din țara Egiptului, pe filisteni din Caftor și pe Aram din Kir?",
+       "heb": "אַתֶּם לִי בְּנֵי יִשְׂרָאֵל נְאֻם יְהוָה הֲלוֹא אֶת יִשְׂרָאֵל הֶעֱלֵיתִי מֵאֶרֶץ מִצְרַיִם וּפְלִשְׁתִּיִּים מִכַּפְתּוֹר וַאֲרָם מִקִּיר",
+       "translit": "atem li benē israēl neum Adonai halo et israēl heelēti mēereț mițraim ufliștim mikaftor vaaram mikir",
+       "strong": "H859",
+       "pos": "pronume personal + prepoziție + sufix + substantiv plural construct + nume propriu + substantiv construct + nume propriu + particulă negativă + marcă a complementului direct + nume propriu + verb, hifil perfect + substantiv construct + nume propriu + nume de neam + nume propriu + nume propriu + nume propriu",
+       "def_ro": "voi [sunteți] pentru Mine fiii lui Israel — rostirea DOMNULUI. Nu am ridicat Eu pe Israel din țara Egiptului, și pe filisteni din Caftor, și pe Aram din Kir?",
+       "dict_ro": "Radak explică faptul că scoaterea filistenilor și a arameilor din exilul lor nu a fost o favoare, ci o pedeapsă pentru răul pe care l-au făcut lui Israel ca vecini — DOMNUL conduce istoria tuturor neamurilor, nu doar a lui Israel, dar nu în același fel."
       }
      ],
      "textCompare": [
@@ -73334,7 +73351,17 @@
      "translit": "Hine einei Adonai ELOHIM bamamlaha hahataa vehișmadeti ota meal penei haadama efes ki lo hașmeid așmid et-beit Iaakov neum-ADONAI.",
      "tokens": [
       {
-       "t": "Iată, ochii Stăpânului meu, Domnul DUMNEZEU, sunt asupra "
+       "t": "Iată, ochii Stăpânului meu, Domnul DUMNEZEU, sunt asupra",
+       "w": "Iată, ochii Stăpânului meu, Domnul DUMNEZEU, sunt asupra",
+       "heb": "הִנֵּה עֵינֵי אֲדֹנָי יְהוִה",
+       "translit": "hinē ēnē adonai Adonai",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă + substantiv construct + substantiv construct + sufix + nume propriu",
+       "def_ro": "iată, ochii Stăpânului meu, DOMNUL, sunt asupra.",
+       "dict_ro": "Metzudat David explică faptul că «ochii DOMNULUI» desemnează purtarea Lui de grijă atentă, îndreptată aici special spre nimicirea domniei, nu a poporului întreg."
+      },
+      {
+       "t": " "
       },
       {
        "t": "monarhiei păcătoase",
@@ -73349,7 +73376,14 @@
        "dict_ro": "Mamlaha — regatul, domnia; Radak și Metzudat David o identifică cu regatul lui Efraim (Israelul de nord), în care toți regii, de la Ieroboam fiul lui Nebat până la Hoșea fiul lui Ela, au fost răi. Distincția versetului e esențială: e nimicită instituția regală vinovată, nu poporul — „dar nu voi nimici cu totul casa lui Iacov”; Rashi precizează că regatul este casa lui Iehu. Introducerea ediției Rosen rezumă chiar această idee: pedeapsa îi lovește pe regi și conducători, legământul cu poporul rămâne veșnic."
       },
       {
-       "t": " și o voi nimici de pe fața pământului. Dar nu voi nimici casa lui Iacov – rostirea DOMNULUI."
+       "t": " și o voi nimici de pe fața pământului. Dar nu voi nimici casa lui Iacov – rostirea DOMNULUI.",
+       "w": " și o voi nimici de pe fața pământului. Dar nu voi nimici casa lui Iacov – rostirea DOMNULUI.",
+       "heb": "הַחַטָּאָה וְהִשְׁמַדְתִּי אֹתָהּ מֵעַל פְּנֵי הָאֲדָמָה אֶפֶס כִּי לֹא הַשְׁמֵיד אַשְׁמִיד אֶת בֵּית יַעֲקֹב נְאֻם יְהוָה",
+       "translit": "hahataa vehișmadti otah mēal penē haadama efes ki lo hașmēd așmid et bēt iaakov neum Adonai",
+       "strong": "H2400",
+       "pos": "adjectiv + verb, hifil perfect consecutiv + marcă a complementului direct + sufix + prepoziție + substantiv construct + substantiv + substantiv + conjuncție + particulă negativă + verb, hifil infinitiv absolut + verb, hifil imperfect + marcă a complementului direct + substantiv construct + nume propriu + substantiv construct + nume propriu",
+       "def_ro": "cea păcătoasă, și o voi nimici de pe fața pământului; doar că nu voi nimici de tot casa lui Iacov — rostirea DOMNULUI.",
+       "dict_ro": "Radak identifică «regatul păcătos» cu regatul lui Efraim (Israelul de nord), ai cărui regi, de la Ieroboam fiul lui Nebat până la Hoșea fiul lui Ela, au fost toți răi — distincția clară dintre nimicirea monarhiei și păstrarea poporului rămâne centrală pentru întreaga profeție."
       }
      ],
      "textCompare": [
@@ -73401,7 +73435,17 @@
      "translit": "Ki-hine anochi metzave vahanioti vechol-hagoyim et-beit Israël kaașer inoa bakevara velo-ipol tzeror aretz.",
      "tokens": [
       {
-       "t": "Căci iată, poruncesc: Voi scutura casa lui Israel între toate neamurile, precum se scutură [grânele] "
+       "t": "Căci iată, poruncesc: Voi scutura casa lui Israel între toate neamurile, precum se scutură [grânele]",
+       "w": "Căci iată, poruncesc: Voi scutura casa lui Israel între toate neamurile, precum se scutură [grânele]",
+       "heb": "כִּי הִנֵּה אָנֹכִי מְצַוֶּה וַהֲנִעוֹתִי בְכָל הַגּוֹיִם אֶת בֵּית יִשְׂרָאֵל כַּאֲשֶׁר יִנּוֹעַ",
+       "translit": "ki hinē anohi mețave vahanioti vehal hagoim et bēt israēl kaașer inoa",
+       "strong": "H3588",
+       "pos": "conjuncție + particulă demonstrativă + pronume personal + verb, piel participiu + verb, hifil perfect + substantiv construct + substantiv + marcă a complementului direct + substantiv construct + nume propriu + particulă relativă + verb, nifal imperfect",
+       "def_ro": "căci iată, Eu poruncesc și voi clătina printre toate neamurile casa lui Israel, așa cum se clatină.",
+       "dict_ro": "Rashi explică faptul că sita descrisă aici cerne mai întâi tărâța fină, lăsând pe urmă doar partea groasă — exilul lui Israel printre neamuri va separa în același fel pe cei drepți, care rămân, de cei nelegiuiți, care se risipesc fără urmă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "într-o sită",
@@ -73415,7 +73459,14 @@
        "dict_ro": "Kevara — sita sau ciurul în care se cerne grâul; Metzudat Țion o compară cu sita de făină și cu „grătarul” (mikhbar) al altarului (Exodul 27:4). Imaginea e dublă: exilul îl va scutura pe Israel printre toate neamurile, dar sita păstrează ce e prețios. Radak și Metzudat David explică: praful și pleava cad prin găuri, dar boabele bune și pietricelele mari rămân sus — tot așa vor pieri în exil păcătoșii, dar cei drepți nu se vor pierde, ci vor vedea mântuirea."
       },
       {
-       "t": " și nicio piatră nu va cădea la pământ."
+       "t": " și nicio piatră nu va cădea la pământ.",
+       "w": " și nicio piatră nu va cădea la pământ.",
+       "heb": "וְלֹא יִפּוֹל צְרוֹר אָרֶץ",
+       "translit": "velo ipol țeror areț",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal imperfect + substantiv + substantiv",
+       "def_ro": "și nu va cădea bucata de pământ.",
+       "dict_ro": "Radak explică faptul că boabele mari, cele bune, rămân sus în sită, în timp ce țărâna și pleava cad — imagine a celor drepți care supraviețuiesc exilului, spre diferență de păcătoșii care se pierd în el."
       }
      ],
      "textCompare": [
@@ -73463,7 +73514,17 @@
      "translit": "Baherev iamutu kol hataei ami haomrim lo-tagiș vetakdim baadeinu haraa.",
      "tokens": [
       {
-       "t": "De sabie vor peri toți "
+       "t": "De sabie vor peri toți",
+       "w": "De sabie vor peri toți",
+       "heb": "בַּחֶרֶב יָמוּתוּ כֹּל",
+       "translit": "baherev iamutu kol",
+       "strong": "H2719",
+       "pos": "substantiv + verb, qal imperfect + substantiv construct",
+       "def_ro": "de sabie vor muri toți.",
+       "dict_ro": "Metzudat David precizează că doar păcătoșii vor pieri de sabie, nu poporul întreg — cei drepți vor rămâne, iar sabia nu-i va mistui, întocmai cum boabele bune nu cad prin găurile sitei."
+      },
+      {
+       "t": " "
       },
       {
        "t": "păcătoșii",
@@ -73478,7 +73539,14 @@
        "dict_ro": "Hataim — păcătoșii statornici, cei al căror caracter e definit de păcat. Radak precizează că profetul nu vorbește despre toți păcătoșii, ci despre cei care spuneau „răul nu se va apropia de noi” — care negau legătura dintre faptă și urmare și socoteau orice nenorocire o simplă întâmplare, cum avertizează Tora: „dacă veți umbla cu Mine la întâmplare” (Leviticul 26:21). Metzudat David rezumă: ei spuneau că nu există răsplată și pedeapsă."
       },
       {
-       "t": " din poporul Meu, aceia care spun: „Răul nu se va apropia de noi și nu ne va ajunge!”"
+       "t": " din poporul Meu, aceia care spun: „Răul nu se va apropia de noi și nu ne va ajunge!”",
+       "w": " din poporul Meu, aceia care spun: „Răul nu se va apropia de noi și nu ne va ajunge!”",
+       "heb": "עַמִּי הָאֹמְרִים לֹא תַגִּישׁ וְתַקְדִּים בַּעֲדֵינוּ הָרָעָה",
+       "translit": "ami haomrim lo tagiș vetakdim baadēnu haraa",
+       "strong": "H5971",
+       "pos": "substantiv construct + sufix + verb, qal participiu + particulă negativă + verb, hifil imperfect + verb, hifil imperfect + prepoziție + sufix + substantiv",
+       "def_ro": "poporul Meu, care spun: nu se va apropia și nu va grăbi să vină asupra noastră răul.",
+       "dict_ro": "Radak explică faptul că acești păcătoși deznădăjduiau de pedeapsă, socotind răul ca pe o întâmplare oarbă, nu ca o consecință a propriilor fapte — exact atitudinea pe care profeția o condamnă direct."
       }
      ],
      "textCompare": [
@@ -73528,7 +73596,17 @@
      "translit": "Bayom hahu akim et-sukat David hanofelet vegadarti et-pirtzeihem veharisotav akim uvenitiha kimei olam.",
      "tokens": [
       {
-       "t": "În ziua aceea, voi ridica "
+       "t": "În ziua aceea, voi ridica",
+       "w": "În ziua aceea, voi ridica",
+       "heb": "בַּיּוֹם הַהוּא אָקִים אֶת",
+       "translit": "baiom hahu akim et",
+       "strong": "H3117",
+       "pos": "substantiv + pronume personal + verb, hifil imperfect + marcă a complementului direct",
+       "def_ro": "în ziua aceea voi ridica.",
+       "dict_ro": "Radak explică faptul că, pentru că profeția vestise mai înainte încetarea domniei lui Efraim, versetul arată imediat contrastul: domnia lui David, cea decăzută, se va ridica din nou."
+      },
+      {
+       "t": " "
       },
       {
        "t": "coliba prăbușită a lui David",
@@ -73543,7 +73621,14 @@
        "dict_ro": "Suka — coliba de ramuri, adăpostul fragil (același cuvânt ca la sărbătoarea Sucot); Radak explică imaginea: domnia lui David e numită „colibă” pentru că îl acoperă și îl adăpostește pe popor, iar Targum Ionatan, citat de Rashi, traduce direct „regatul casei lui David”. Talmudul (Sanhedrin 96b-97a) numește de aici pe Mesia „bar nifli” — „fiul celei căzute”. Iacov, fratele Domnului, citează versetul la Sinodul din Ierusalim (Faptele apostolilor 15:16-17), după forma lui din Septuaginta."
       },
       {
-       "t": ", voi repara crăpăturile ei și îi voi ridica ruinele și o voi reclădi cum era în zilele de odinioară,"
+       "t": ", voi repara crăpăturile ei și îi voi ridica ruinele și o voi reclădi cum era în zilele de odinioară,",
+       "w": ", voi repara crăpăturile ei și îi voi ridica ruinele și o voi reclădi cum era în zilele de odinioară,",
+       "heb": "דָּוִיד הַנֹּפֶלֶת וְגָדַרְתִּי אֶת פִּרְצֵיהֶן וַהֲרִסֹתָיו אָקִים וּבְנִיתִיהָ כִּימֵי עוֹלָם",
+       "translit": "david hanofelet vegadarti et pirțēhen vaharisotaiv akim uvnitiha kimē olam",
+       "strong": "H1732",
+       "pos": "nume propriu + verb, qal participiu + verb, qal perfect consecutiv + marcă a complementului direct + substantiv plural construct + sufix + substantiv plural construct + sufix + verb, hifil imperfect + verb, qal perfect + sufix + substantiv plural construct + substantiv",
+       "def_ro": "a lui David cea căzută, și voi repara spărturile ei, și ruinele ei le voi ridica, și o voi zidi ca în zilele veșniciei.",
+       "dict_ro": "Talmudul Bavli (Sanhedrin 96b-97a) relatează un dialog în care Rabi Ițhak numește pe Mesia «bar nifli», «fiul celei căzute», exact pe baza acestui verset — «coliba lui David cea căzută (hanofelet)» devine temelia textuală a titlului mesianic."
       }
      ],
      "textCompare": [
@@ -73595,7 +73680,17 @@
      "translit": "Leman yirșu et-șeerit Edom vechol-hagoyim așer-nikra șemi aleihem neum-ADONAI ose zot.",
      "tokens": [
       {
-       "t": "pentru ca să cucerească "
+       "t": "pentru ca să cucerească",
+       "w": "pentru ca să cucerească",
+       "heb": "לְמַעַן יִירְשׁוּ אֶת",
+       "translit": "lemaan irșu et",
+       "strong": "H4616",
+       "pos": "prepoziție + verb, qal imperfect + marcă a complementului direct",
+       "def_ro": "pentru ca să moștenească.",
+       "dict_ro": "Metzudat David explică faptul că versetul e construit invers în ordinea firească: sensul e că poporul peste care e chemat Numele DOMNULUI va moșteni rămășița neamurilor, nu invers."
+      },
+      {
+       "t": " "
       },
       {
        "t": "rămășița Edomului",
@@ -73608,7 +73703,14 @@
        "dict_ro": "Una dintre cele mai cunoscute și influente divergențe din toată Septuaginta: textul grecesc are aici „οἱ κατάλοιποι τῶν ἀνθρώπων\" („rămășița OAMENILOR/omenirii\"), nu „rămășița Edomului\" ca în ebraică — o confuzie veche între consoanele ebraice pentru „Edom\" (אדום) și „adam\" (אדם, „om\"). Această variantă e citată explicit de apostolul Iacov la Sinodul de la Ierusalim, în cartea Faptele Apostolilor, ca argument biblic pentru primirea neamurilor (non-iudeilor) în Biserică — un exemplu rar în care o diferență textuală minoră a avut consecințe teologice și istorice majore."
       },
       {
-       "t": " și toate neamurile, căci numele Meu este asupra lor – rostirea DOMNULUI care înfăptuiește aceasta."
+       "t": " și toate neamurile, căci numele Meu este asupra lor – rostirea DOMNULUI care înfăptuiește aceasta.",
+       "w": " și toate neamurile, căci numele Meu este asupra lor – rostirea DOMNULUI care înfăptuiește aceasta.",
+       "heb": "אֱדוֹם וְכָל הַגּוֹיִם אֲשֶׁר נִקְרָא שְׁמִי עֲלֵיהֶם נְאֻם יְהוָה עֹשֶׂה זֹּאת",
+       "translit": "edom vehal hagoim așer nikra șemi alēhem neum Adonai ose zot",
+       "strong": "H123",
+       "pos": "nume propriu + substantiv construct + substantiv + particulă relativă + verb, nifal perfect + substantiv construct + sufix + prepoziție + sufix + substantiv construct + nume propriu + verb, qal participiu + pronume demonstrativ",
+       "def_ro": "a Edomului, și toate neamurile peste care e chemat numele Meu — rostirea DOMNULUI, care face aceasta.",
+       "dict_ro": "Radak explică faptul că, precum David a pus garnizoane în Edom și a supus neamurile vecine — filisteni, Moab, Amon — tot așa va fi și în viitor, prin puterea aceluiași DOMNUL care «face aceasta», adică hotărăște și împlinește."
       }
      ],
      "textCompare": [
@@ -73656,7 +73758,17 @@
      "translit": "Hine iamim baim neum-ADONAI venigaș horeș bakotzer vedoreh anavim bemoshech hazara vehitifu heharim asis vechol-hagevaot titmogagna.",
      "tokens": [
       {
-       "t": "Iată, vin zile – rostirea DOMNULUI – când "
+       "t": "Iată, vin zile – rostirea DOMNULUI – când",
+       "w": "Iată, vin zile – rostirea DOMNULUI – când",
+       "heb": "הִנֵּה יָמִים בָּאִים נְאֻם יְהוָה וְנִגַּשׁ",
+       "translit": "hinē iamim baim neum Adonai venigaș",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă + substantiv plural + verb, qal participiu + substantiv construct + nume propriu + verb, nifal perfect consecutiv",
+       "def_ro": "iată, vin zile — rostirea DOMNULUI — și se va apropia.",
+       "dict_ro": "Radak explică faptul că belșugul descris aici e atât de mare încât seceratul va continua până la vremea aratului din nou — cu mult mai mult decât promisiunea din Levitic 26:5 despre treieratul care ține până la culesul viei."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cel care ară",
@@ -73670,7 +73782,14 @@
        "dict_ro": "Hareș — „a ara, a brăzda”; imaginea plugarului care îl ajunge pe secerător reia binecuvântarea din Leviticul 26:5 („treieratul vă va ține până la culesul viei”), dar o întrece: recolta va fi atât de mare încât seceratul nu se va termina până nu vine vremea aratului următor. Radak și Metzudat David citesc și „munții vor picura must” și „dealurile se vor topi” ca pilde ale belșugului — dealurile par să se topească din pricina laptelui care curge din turme (compară Ioel 3:18)."
       },
       {
-       "t": " va întâlni pe cel care culege și cel care stoarce strugurii va întâlni pe cel care aduce semințele. Din munți va picura vin și dealurile se vor topi."
+       "t": " va întâlni pe cel care culege și cel care stoarce strugurii va întâlni pe cel care aduce semințele. Din munți va picura vin și dealurile se vor topi.",
+       "w": " va întâlni pe cel care culege și cel care stoarce strugurii va întâlni pe cel care aduce semințele. Din munți va picura vin și dealurile se vor topi.",
+       "heb": "בַּקֹּצֵר וְדֹרֵךְ עֲנָבִים בְּמֹשֵׁךְ הַזָּרַע וְהִטִּיפוּ הֶהָרִים עָסִיס וְכָל הַגְּבָעוֹת תִּתְמוֹגַגְנָה",
+       "translit": "bakoțēr vedorēh anavim bemoșēh hazara vehitifu heharim asis vehal hagvaot titmogagna",
+       "strong": "H7114",
+       "pos": "verb, qal participiu + verb, qal participiu + substantiv + verb, qal participiu + substantiv + verb, hifil perfect + substantiv plural + substantiv + substantiv construct + substantiv plural + verb, hitpolel imperfect",
+       "def_ro": "pe cel care seceră, și cel care calcă strugurii pe cel care duce sămânța; și vor picura munții vin dulce, și toate dealurile se vor topi.",
+       "dict_ro": "Rashi explică faptul că «asis» denotă vinul bun și dulce, iar expresia «se vor topi» e tradusă de Targum Ionatan ca «se vor despica» — pământul lucrat se despică la venirea ploilor abundente ale belșugului profetizat."
       }
      ],
      "textCompare": [
@@ -73717,7 +73836,17 @@
      "translit": "Veșavti et-șevut ami Israël uvanu arim neșamot veyașavu venateu cheramim veșatu et-einam veasu ganot veachlu et-periehem.",
      "tokens": [
       {
-       "t": "Voi aduce înapoi pe "
+       "t": "Voi aduce înapoi pe",
+       "w": "Voi aduce înapoi pe",
+       "heb": "וְשַׁבְתִּי אֶת",
+       "translit": "veșavti et",
+       "strong": "H7725",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct",
+       "def_ro": "și voi întoarce pe.",
+       "dict_ro": "Metzudat Țion explică «veșavti» cu sensul de liniște și odihnă, ca la Isaia 30:15 — întoarcerea din exil nu e doar geografică, ci aduce și pacea interioară a poporului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "prizonierii",
@@ -73732,7 +73861,14 @@
        "dict_ro": "Șevut — de la șava, „a lua captiv”; expresia șav șevut („a întoarce captivitatea”) ajunge să însemne restatornicirea deplină a unui popor. Metzudat Țion leagă verbul „veșavti” și de „șuva”, liniște și odihnă (Isaia 30:15), iar Metzudat David explică: voi așeza în liniște și odihnă pe fiii robiei poporului Meu. Radak subliniază inversarea blestemului: altădată dușmanii mâncau roadele muncii lor (Deuteronomul 28:30), acum ei înșiși vor bea vinul viilor pe care le-au sădit."
       },
       {
-       "t": " poporului Meu Israel și ei vor reconstrui orașele pustiite și ei se vor întoarce și vor planta vii și le vor bea vinul, vor face grădini și le vor mânca rodul."
+       "t": " poporului Meu Israel și ei vor reconstrui orașele pustiite și ei se vor întoarce și vor planta vii și le vor bea vinul, vor face grădini și le vor mânca rodul.",
+       "w": " poporului Meu Israel și ei vor reconstrui orașele pustiite și ei se vor întoarce și vor planta vii și le vor bea vinul, vor face grădini și le vor mânca rodul.",
+       "heb": "עַמִּי יִשְׂרָאֵל וּבָנוּ עָרִים נְשַׁמּוֹת וְיָשָׁבוּ וְנָטְעוּ כְרָמִים וְשָׁתוּ אֶת יֵינָם וְעָשׂוּ גַנּוֹת וְאָכְלוּ אֶת פְּרִיהֶם",
+       "translit": "ami israēl uvanu arim neșamot veiașavu venatu heramim veșatu et iēnam veasu ganot veahlu et perihem",
+       "strong": "H5971",
+       "pos": "substantiv construct + sufix + nume propriu + verb, qal perfect consecutiv + substantiv + verb, nifal participiu + verb, qal perfect consecutiv + verb, qal perfect consecutiv + substantiv + verb, qal perfect consecutiv + marcă a complementului direct + substantiv construct + sufix + verb, qal perfect consecutiv + substantiv + verb, qal perfect consecutiv + marcă a complementului direct + substantiv construct + sufix",
+       "def_ro": "poporul Meu Israel, și vor zidi cetăți pustiite, și vor locui, și vor sădi vii, și vor bea vinul lor, și vor face grădini, și vor mânca rodul lor.",
+       "dict_ro": "Radak leagă acest verset de profeția paralelă a lui Isaia 65:21 — «vor zidi case și le vor locui, vor sădi vii și le vor mânca rodul» — osteneala poporului nu va mai fi în zadar, culeasă de dușmani, ca înainte de exil."
       }
      ],
      "textCompare": [
@@ -73792,7 +73928,14 @@
        "dict_ro": "Nata — „a sădi, a planta”; după versetul precedent, în care oamenii plantează vii și grădini, acum Dumnezeu Însuși îl plantează pe Israel în pământul lui. Contrapunctul e verbul nataș — „a smulge din rădăcină” —, pe care Metzudat Țion îl leagă de misiunea lui Ieremia, „să smulgi și să dărâmi” (Ieremia 1:10). Radak explică: ca pomul sădit, care nu se mișcă din locul lui, nu vor mai fi exilați — și aceasta pentru că vor sluji mereu lui Dumnezeu și vor face voia Lui."
       },
       {
-       "t": " pe pământul lor și nu vor mai fi niciodată dezrădăcinați de pe pământul lor pe care li l-am dat – a spus DOMNUL, Dumnezeul tău."
+       "t": " pe pământul lor și nu vor mai fi niciodată dezrădăcinați de pe pământul lor pe care li l-am dat – a spus DOMNUL, Dumnezeul tău.",
+       "w": " pe pământul lor și nu vor mai fi niciodată dezrădăcinați de pe pământul lor pe care li l-am dat – a spus DOMNUL, Dumnezeul tău.",
+       "heb": "עַל אַדְמָתָם וְלֹא יִנָּתְשׁוּ עוֹד מֵעַל אַדְמָתָם אֲשֶׁר נָתַתִּי לָהֶם אָמַר יְהוָה אֱלֹהֶיךָ",
+       "translit": "al admatam velo inatșu od mēal admatam așer natati lahem amar Adonai eloheha",
+       "strong": "H5921",
+       "pos": "prepoziție + substantiv construct + sufix + particulă negativă + verb, nifal imperfect + adverb + prepoziție + substantiv construct + sufix + particulă relativă + verb, qal perfect + prepoziție + sufix + verb, qal perfect + nume propriu + substantiv construct + sufix",
+       "def_ro": "pe pământul lor, și nu vor mai fi smulși de pe pământul lor pe care li l-am dat — a spus DOMNUL, Dumnezeul tău.",
+       "dict_ro": "Radak explică imaginea «plantării» prin aceea că un pom sădit nu se mișcă din locul lui — statornicia finală a lui Israel pe pământul său e garantată prin faptul că, de acum înainte, vor sluji mereu lui Dumnezeu și vor face voia Lui."
       }
      ],
      "textCompare": [
