@@ -42726,7 +42726,20 @@
        "dict_ro": "Rădăcina kadash, „a sfinți” — la forma pasivă/reflexivă, „Mă voi sfinți/Mi se va recunoaște sfințenia” — conceptul de Kiddush Hashem (sfințirea Numelui) aplicat aici la restaurarea lui Israel însăși, vizibilă „în ochii neamurilor” ca dovadă publică a puterii și fidelității divine."
       },
       {
-       "t": " prin ei în ochii neamurilor și ei vor locui pe pământul lor pe care l-am dat "
+       "t": " prin ei în ochii neamurilor "
+      },
+      {
+       "t": "și ei vor locui pe pământul lor",
+       "w": "și ei vor locui pe pământul lor",
+       "heb": "וְיָשְׁבוּ עַל אַדְמָתָם",
+       "translit": "veiașvu al admatam",
+       "strong": "H3427",
+       "pos": "verb, qal perfect consecutiv + prepoziție + substantiv construct + sufix",
+       "def_ro": "și vor locui pe pământul lor.",
+       "dict_ro": "Restaurarea promisă lui Israel se încheie cu reinstalarea efectivă pe pământul strămoșesc — contrastul deliberat cu pustiirea promisă Egiptului în oracolul care urmează imediat arată cele două destine opuse ale celor două popoare."
+      },
+      {
+       "t": " pe care l-am dat "
       },
       {
        "t": "slujitorului Meu",
@@ -42810,7 +42823,20 @@
        "dict_ro": "Betach, „siguranță, încredere” — repetat de două ori în acest verset, accentuând stabilitatea completă a restaurării promise: nu doar întoarcerea pe pământ, ci o locuire liniștită, fără amenințarea constantă a exilului sau invaziei."
       },
       {
-       "t": " și vor construi case și vor planta "
+       "t": " "
+      },
+      {
+       "t": "și vor construi case",
+       "w": "și vor construi case",
+       "heb": "וּבָנוּ בָתִּים",
+       "translit": "uvanu vatim",
+       "strong": "H1129",
+       "pos": "verb, qal perfect consecutiv + substantiv",
+       "def_ro": "și vor construi case.",
+       "dict_ro": "Imaginea construirii caselor și plantării viilor exprimă stabilitatea și normalitatea vieții restaurate — opusul exact al dezrădăcinării exilului, o viață așezată, nu una provizorie."
+      },
+      {
+       "t": " și vor planta "
       },
       {
        "t": "vii",
@@ -42853,7 +42879,20 @@
        "dict_ro": "Rădăcina sha'at, „a disprețui” — cuvânt rar, desemnând vecinii ostili care au tratat cu dispreț poporul exilat și slăbit; judecata divină asupra lor devine condiția necesară pentru siguranța promisă lui Israel."
       },
       {
-       "t": " de jur împrejurul lor – atunci vor ști că Eu sunt DOMNUL, Dumnezeul lor."
+       "t": " de jur împrejurul lor – "
+      },
+      {
+       "t": "atunci vor ști că Eu sunt DOMNUL, Dumnezeul lor",
+       "w": "atunci vor ști că Eu sunt DOMNUL, Dumnezeul lor",
+       "heb": "וְיָדְעוּ כִּי אֲנִי יְהוָה אֱלֹהֵיהֶם",
+       "translit": "veiadu ki ani Adonai elohēhem",
+       "strong": "H3045",
+       "pos": "verb, qal perfect consecutiv + conjuncție + pronume personal + nume propriu + substantiv construct + sufix",
+       "def_ro": "și vor ști că Eu sunt DOMNUL, Dumnezeul lor.",
+       "dict_ro": "Formula de recunoaștere, aici cu sufixul posesiv («Dumnezeul lor»), subliniază relația specială de legământ dintre DOMNUL și Israel — distinctă de formula mai generală «Eu sunt DOMNUL» folosită față de Egipt în capitolul următor."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -42923,7 +42962,20 @@
        "dict_ro": "Datarea precisă (an, lună, zi) e caracteristică stilului lui Ezechiel — fiecare oracol major e ancorat exact în timp, ca o cronică de exil, nu doar o profeție atemporală."
       },
       {
-       "t": " [zi] a lunii, cuvântul DOMNULUI a venit la mine, spunând:"
+       "t": " [zi] a lunii, "
+      },
+      {
+       "t": "cuvântul DOMNULUI a venit la mine",
+       "w": "cuvântul DOMNULUI a venit la mine",
+       "heb": "הָיָה דְבַר יְהוָה אֵלַי",
+       "translit": "haia devar Adonai ēlai",
+       "strong": "H1697",
+       "pos": "verb, qal perfect + substantiv construct + nume propriu + prepoziție + sufix",
+       "def_ro": "a fost cuvântul DOMNULUI către mine.",
+       "dict_ro": "Formula de introducere a unei noi etape profetice — Radak explică faptul că profeția despre Egipt a venit lui Ezechiel în etape succesive, legate de evenimentele reale ale asediului Tirului și ale cuceririi Egiptului de către Nabucodonosor."
+      },
+      {
+       "t": ", spunând:"
       }
      ],
      "textCompare": [
@@ -43012,7 +43064,20 @@
        "dict_ro": "Par'oh — titlu regal egiptean, nu nume propriu; identificarea istorică cea mai probabilă a acestui Faraon e Hofra (Apries, cca. 589-570 î.Hr.), contemporan cu Țedechia și cu asediul final al Ierusalimului, cunoscut pentru promisiunile de ajutor militar neonorate față de Iuda (cf. Ieremia 37:5-7)."
       },
       {
-       "t": ", regele Egiptului, și "
+       "t": ", "
+      },
+      {
+       "t": "regele Egiptului",
+       "w": "regele Egiptului",
+       "heb": "מֶלֶךְ מִצְרָיִם",
+       "translit": "meleh mițraim",
+       "strong": "H4428",
+       "pos": "substantiv construct + nume propriu",
+       "def_ro": "regele Egiptului.",
+       "dict_ro": "Titlul regal standard al lui Faraon, identificat de Metzudat David cu regele contemporan lui Țedechia, cel care promisese ajutor militar Ierusalimului asediat, dar ale cărui trupe s-au retras fără luptă reală."
+      },
+      {
+       "t": ", și "
       },
       {
        "t": "profețește",
@@ -43027,7 +43092,20 @@
        "dict_ro": "Rădăcina naba, „a profeți” — deschide formal seria de oracole împotriva națiunilor din Ezechiel (cap. 25-32), un gen literar profetic distinct, cu propriile convenții stilistice, aici aplicat pe larg Egiptului, cel mai extins dintre toate aceste oracole."
       },
       {
-       "t": " împotriva lui și împotriva întregului Egipt."
+       "t": " "
+      },
+      {
+       "t": "împotriva lui și împotriva întregului Egipt",
+       "w": "împotriva lui și împotriva întregului Egipt",
+       "heb": "עָלָיו וְעַל מִצְרַיִם כֻּלָּהּ",
+       "translit": "alaiv veal mițraim kulah",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix + prepoziție + nume propriu + substantiv construct + sufix",
+       "def_ro": "împotriva lui și împotriva întregului Egipt.",
+       "dict_ro": "Extinderea explicită a oracolului de la persoana lui Faraon la «întregul Egipt» (kulah) arată că judecația nu se limitează la rege, ci cuprinde întreaga națiune responsabilă de mândria și de alianța înșelătoare cu Iuda."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -43066,7 +43144,43 @@
      "translit": "Dabber ve-amarta koh-amar Adonai Elohim hineni aleikha Par'oh melekh-Mitsrayim ha-tannim ha-gadol ha-rovets be-tokh ye'orav asher amar li ye'ori va-ani asitini.",
      "tokens": [
       {
-       "t": "Vorbește și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Iată-Mă, Eu sunt împotriva ta, Faraon, rege al Egiptului, mare "
+       "t": "Vorbește și spune-le",
+       "w": "Vorbește și spune-le",
+       "heb": "דַּבֵּר וְאָמַרְתָּ",
+       "translit": "dabēr veamarta",
+       "strong": "H1696",
+       "pos": "verb, piel imperativ + verb, qal perfect consecutiv",
+       "def_ro": "vorbește și spune.",
+       "dict_ro": "Dubla poruncă verbală, de a vorbi și de a spune, pregătește citarea exactă a oracolului — structură identică celei din chemarea lui Ieremia, confirmând transmiterea fidelă a cuvântului divin."
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "Așa a spus Stăpânul meu, Domnul DUMNEZEU",
+       "w": "Așa a spus Stăpânul meu, Domnul DUMNEZEU",
+       "heb": "כֹּה אָמַר אֲדֹנָי יֱהוִה",
+       "translit": "ko amar adonai Adonai",
+       "strong": "H3541",
+       "pos": "adverb + verb, qal perfect + substantiv construct + sufix + nume propriu",
+       "def_ro": "așa a spus Stăpânul meu, Domnul DUMNEZEU.",
+       "dict_ro": "Formula introductivă standard a oracolelor lui Ezechiel, repetată identic la fiecare etapă a profeției împotriva Egiptului (29:3, 29:8, 29:13, 29:19) — un sigiliu de autenticitate care marchează fiecare secțiune ca discurs divin direct."
+      },
+      {
+       "t": ": "
+      },
+      {
+       "t": "Iată-Mă, Eu sunt împotriva ta, Faraon, rege al Egiptului",
+       "w": "Iată-Mă, Eu sunt împotriva ta, Faraon, rege al Egiptului",
+       "heb": "הִנְנִי עָלֶיךָ פַּרְעֹה מֶלֶךְ מִצְרַיִם",
+       "translit": "hinni aleha paro meleh mițraim",
+       "strong": "H2005",
+       "pos": "particulă demonstrativă + sufix + prepoziție + sufix + nume propriu + substantiv construct + nume propriu",
+       "def_ro": "iată-Mă [sunt] împotriva ta, Faraon, rege al Egiptului.",
+       "dict_ro": "Formula de confruntare directă — DOMNUL Se adresează personal lui Faraon, nu printr-un intermediar — pregătește identificarea lui cu crocodilul cel mare: Rashi explică faptul că toată mărirea Egiptului vine prin brațele Nilului, de aceea profetul îl asemănă pe rege cu un crocodil."
+      },
+      {
+       "t": ", mare "
       },
       {
        "t": "monstru marin",
@@ -43254,7 +43368,20 @@
        "dict_ro": "Rădăcina alah, „a se urca, a scoate [din apă]” — verbul final al imaginii de pescuit: crocodilul, simbol al stăpânirii netulburate a apelor natale, e smuls cu forța din propriul lui element, complet expus și neputincios."
       },
       {
-       "t": " din râurile tale și toți peștii râurilor tale ți se vor lipi de solzi."
+       "t": " din râurile tale și "
+      },
+      {
+       "t": "toți peștii râurilor tale ți se vor lipi de solzi",
+       "w": "toți peștii râurilor tale ți se vor lipi de solzi",
+       "heb": "וְאֵת כָּל דְּגַת יְאֹרֶיךָ בְּקַשְׂקְשֹׂתֶיךָ תִּדְבָּק",
+       "translit": "veēt kal degat ieoreha bekaskesoteha tidbak",
+       "strong": "H1710",
+       "pos": "marcă a complementului direct + substantiv construct + substantiv construct + sufix + substantiv construct + sufix + verb, qal imperfect",
+       "def_ro": "și toți peștii râurilor tale se vor lipi de solzii tăi.",
+       "dict_ro": "Repetarea exactă a imaginii de mai sus, la finalul versetului, întărește ideea lui Rashi: DOMNUL va pune în inima tuturor vitejilor Egiptului să iasă cu regele lor la război, ca să cadă toți împreună — «peștii lipiți de solzi» fiind, de fapt, poporul alipit indisolubil de soarta conducătorului său."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -43309,7 +43436,20 @@
        "dict_ro": "Rădăcina natash, „a arunca, a abandona” — soarta crocodilului scos din apă (v.4): nu doar capturat, ci aruncat departe de mediul lui vital, în deșert, unde nu poate supraviețui, o imagine a umilirii complete și ireversibile."
       },
       {
-       "t": " în deșert, pe tine și toți peștii râurilor tale, pe fața câmpiei vei cădea și nu vei fi "
+       "t": " în deșert, pe tine și toți peștii râurilor tale, "
+      },
+      {
+       "t": "pe fața câmpiei vei cădea",
+       "w": "pe fața câmpiei vei cădea",
+       "heb": "עַל פְּנֵי הַשָּׂדֶה תִּפּוֹל",
+       "translit": "al penē hasade tipol",
+       "strong": "H6440",
+       "pos": "prepoziție + substantiv construct + substantiv + verb, qal imperfect",
+       "def_ro": "pe fața câmpului vei cădea.",
+       "dict_ro": "Metzudat David citește versetul ca încheierea logică a metaforei crocodilului scos din apă: nu doar capturat, ci abandonat complet, lăsat neîngropat pe câmp — soarta cea mai de rușine posibilă pentru un rege care se pretinsese propriul său creator."
+      },
+      {
+       "t": " și nu vei fi "
       },
       {
        "t": "luat sau adunat",
@@ -43394,7 +43534,17 @@
      "translit": "Ve-yad'u kol-yoshvei Mitsrayim ki ani Adonai ya'an heyotam mish'enet kaneh le-veit Yisra'el.",
      "tokens": [
       {
-       "t": "Și toți cei care locuiesc în Egipt vor ști că Eu sunt DOMNUL, căci au fost ca un "
+       "t": "Și toți cei care locuiesc în Egipt vor ști că Eu sunt DOMNUL",
+       "w": "Și toți cei care locuiesc în Egipt vor ști că Eu sunt DOMNUL",
+       "heb": "וְיָדְעוּ כָּל יֹשְׁבֵי מִצְרַיִם כִּי אֲנִי יְהוָה",
+       "translit": "veiadu kal ioșvē mițraim ki ani Adonai",
+       "strong": "H3045",
+       "pos": "verb, qal perfect consecutiv + substantiv construct + verb, qal participiu + nume propriu + conjuncție + pronume personal + nume propriu",
+       "def_ro": "și vor ști toți locuitorii Egiptului că Eu sunt DOMNUL.",
+       "dict_ro": "Recunoașterea DOMNULUI se extinde aici, pentru prima dată în capitol, la toți locuitorii Egiptului — nu doar Faraon, ci întreaga națiune va fi martoră a adevărului pe care alianța cu «sprijinul de trestie» nu l-a putut oferi lui Iuda."
+      },
+      {
+       "t": ", căci au fost ca un "
       },
       {
        "t": "sprijin de trestie",
@@ -43479,7 +43629,20 @@
        "dict_ro": "Rădăcina ratsats, „a sfărâma, a zdrobi” — verb ce descrie fragilitatea absolută a trestiei egiptene sub greutatea încrederii puse în ea, ilustrare directă a experienței istorice reale a lui Iuda cu promisiunile militare egiptene neonorate."
       },
       {
-       "t": " și le vei străpunge orice umăr; iar când se "
+       "t": " "
+      },
+      {
+       "t": "și le vei străpunge orice umăr",
+       "w": "și le vei străpunge orice umăr",
+       "heb": "וּבָקַעְתָּ לָהֶם כָּל כָּתֵף",
+       "translit": "uvakata lahem kal katēf",
+       "strong": "H1234",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + substantiv construct + substantiv",
+       "def_ro": "și le vei despica tot umărul.",
+       "dict_ro": "Metzudat David explică imaginea completă: cel ce se sprijină pe o trestie subțire nu doar rămâne fără sprijinul căutat, ci e activ rănit de ea, atât în mâna cu care o apucă, cât și în umărul pe care îl străpunge."
+      },
+      {
+       "t": "; iar când se "
       },
       {
        "t": "reazemă",
@@ -43494,7 +43657,20 @@
        "dict_ro": "Rădăcina sha'an, „a se sprijini, a se rezema” — actul de încredere pusă în alianța egipteană, care se dovedește nu doar inutilă, ci activ dăunătoare: cel ce se sprijină pe trestia frântă se rănește el însuși, dublu eșec al oricărei speranțe puse acolo."
       },
       {
-       "t": " de tine, te vei rupe, și tot mijlocul lor va trebui să stea drept.»”"
+       "t": " de tine, te vei rupe, "
+      },
+      {
+       "t": "și tot mijlocul lor va trebui să stea drept",
+       "w": "și tot mijlocul lor va trebui să stea drept",
+       "heb": "וְהַעֲמַדְתָּ לָהֶם כָּל מָתְנָיִם",
+       "translit": "vehaamadta lahem kal matnaim",
+       "strong": "H5976",
+       "pos": "verb, hifil perfect consecutiv + prepoziție + sufix + substantiv construct + substantiv",
+       "def_ro": "și le vei face tot mijlocul să tremure/să nu se poată ține drept.",
+       "dict_ro": "A doua vătămare din dubla imagine a lui Metzudat David — mijlocul care se sprijinea pe trestie se frânge la rândul lui, completând soarta exact a lui Iuda în relația cu Egiptul: rănit în ambele puncte de contact cu sprijinul căutat."
+      },
+      {
+       "t": ".»”"
       }
      ],
      "textCompare": [
@@ -43533,7 +43709,30 @@
      "translit": "Lakhen koh amar Adonai Elohim hineni mevi aleikha cherev ve-hikhratti mimmekha adam u-vehemah.",
      "tokens": [
       {
-       "t": "De aceea, așa a spus Stăpânul meu, Domnul DUMNEZEU: „Iată-Mă, voi aduce împotriva ta "
+       "t": "De aceea, așa a spus Stăpânul meu, Domnul DUMNEZEU",
+       "w": "De aceea, așa a spus Stăpânul meu, Domnul DUMNEZEU",
+       "heb": "לָכֵן כֹּה אָמַר אֲדֹנָי יֱהוִה",
+       "translit": "lahēn ko amar adonai Adonai",
+       "strong": "H3651",
+       "pos": "adverb + adverb + verb, qal perfect + substantiv construct + sufix + nume propriu",
+       "def_ro": "de aceea, așa a spus Stăpânul meu, Domnul DUMNEZEU.",
+       "dict_ro": "Particula «lahen» («de aceea») leagă explicit judecata care urmează de declarația de auto-divinizare a lui Faraon rostită la v.3 — pedeapsa e consecința directă, nu una arbitrară."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Iată-Mă, voi aduce împotriva ta",
+       "w": "Iată-Mă, voi aduce împotriva ta",
+       "heb": "הִנְנִי מֵבִיא עָלַיִךְ",
+       "translit": "hinni mēvi alaih",
+       "strong": "H2005",
+       "pos": "particulă demonstrativă + sufix + verb, hifil participiu + prepoziție + sufix",
+       "def_ro": "iată-Mă, aduc împotriva ta.",
+       "dict_ro": "Formula de intervenție divină directă introduce sabia ca instrument concret al judecății — trecerea de la cuvânt (oracolul) la faptă (sabia care va nimici om și dobitoc)."
+      },
+      {
+       "t": " "
       },
       {
        "t": "sabie",
@@ -43613,7 +43812,30 @@
        "dict_ro": "Shemamah, „pustiire” — cuvânt pereche cu chorbah, „ruină, dărâmătură”, formulă dublă de intensificare folosită constant pentru descrierea judecăților divine devastatoare, aici anticipând deja tema centrală a restului capitolului: cei patruzeci de ani de pustiire totală (v.11-12)."
       },
       {
-       "t": ", și ei vor ști că Eu sunt DOMNUL, din pricină că a spus: ‘Râul este al meu și eu am creat.’"
+       "t": ", "
+      },
+      {
+       "t": "și ei vor ști că Eu sunt DOMNUL",
+       "w": "și ei vor ști că Eu sunt DOMNUL",
+       "heb": "וְיָדְעוּ כִּי אֲנִי יְהוָה",
+       "translit": "veiadu ki ani Adonai",
+       "strong": "H3045",
+       "pos": "verb, qal perfect consecutiv + conjuncție + pronume personal + nume propriu",
+       "def_ro": "și vor ști că Eu sunt DOMNUL.",
+       "dict_ro": "Formula-refren a cărții lui Ezechiel, repetată la finalul fiecărei etape a judecății asupra Egiptului — recunoașterea universală a DOMNULUI, de către egipteni deopotrivă cu Israel, rămâne scopul ultim al întregii profeții."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "din pricină că a spus: ‘Râul este al meu și eu am creat.’",
+       "w": "din pricină că a spus: ‘Râul este al meu și eu am creat.’",
+       "heb": "יַעַן אָמַר יְאֹר לִי וַאֲנִי עָשִׂיתִי",
+       "translit": "iaan amar ieor li vaani asiti",
+       "strong": "H3282",
+       "pos": "conjuncție + verb, qal perfect + nume propriu + prepoziție + sufix + pronume personal + verb, qal perfect",
+       "def_ro": "pentru că a spus: râul [este] al meu și eu l-am făcut.",
+       "dict_ro": "Metzudat David observă repetiția deliberată a formulei aroganței lui Faraon, identică celei de la v.3 — pedeapsa nu e arbitrară, ci răspunsul precis la declarația de auto-suficiență și auto-divinizare rostită la începutul oracolului."
       }
      ],
      "textCompare": [
@@ -43652,7 +43874,30 @@
      "translit": "Lakhen hineni eleikha ve-el-ye'oreikha ve-natatti et-erets Mitsrayim le-chorvot chorev shemamah mi-Migdol Seveneh ve-ad-gevul Kush.",
      "tokens": [
       {
-       "t": "De aceea, iată-Mă, Eu sunt împotriva ta și împotriva râurilor tale; și voi preface țara Egiptului în ruină, într-o pustietate dezolantă, de la "
+       "t": "De aceea, iată-Mă, Eu sunt împotriva ta și împotriva râurilor tale",
+       "w": "De aceea, iată-Mă, Eu sunt împotriva ta și împotriva râurilor tale",
+       "heb": "לָכֵן הִנְנִי אֵלֶיךָ וְאֶל יְאֹרֶיךָ",
+       "translit": "lahēn hinni ēleha veel ieoreha",
+       "strong": "H3651",
+       "pos": "adverb + particulă demonstrativă + sufix + prepoziție + sufix + prepoziție + substantiv construct + sufix",
+       "def_ro": "de aceea, iată-Mă, [sunt] împotriva ta și împotriva râurilor tale.",
+       "dict_ro": "Repetarea formulei de confruntare, extinsă acum explicit la «râurile tale» — sursa exactă a mândriei lui Faraon (v.3, v.9) devine ea însăși obiectul direct al judecății divine."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "și voi preface țara Egiptului în ruină, într-o pustietate dezolantă",
+       "w": "și voi preface țara Egiptului în ruină, într-o pustietate dezolantă",
+       "heb": "וְנָתַתִּי אֶת אֶרֶץ מִצְרַיִם לְחָרְבוֹת חֹרֶב שְׁמָמָה",
+       "translit": "venatati et ereț mițraim leharvot horev șemama",
+       "strong": "H5414",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + substantiv construct + nume propriu + substantiv construct + substantiv + substantiv",
+       "def_ro": "și voi face țara Egiptului ruine, pustiire, dezolare.",
+       "dict_ro": "Metzudat David identifică Migdol și Sevene ca hotare geografice nordic și sudic ale Egiptului antic, iar Cuș ca regiunea de dincolo de granița sudică — expresia «de la Migdol la Cuș» desemnează, prin merism geografic, întregul teritoriu al țării, fără nicio parte cruțată de pustiire."
+      },
+      {
+       "t": ", de la "
       },
       {
        "t": "Migdol",
@@ -43751,7 +43996,33 @@
        "dict_ro": "Rădăcina avar, „a trece” — repetat de două ori (pentru om și pentru animal), accentuând golirea completă a țării de orice prezență vie, nu doar distrugerea structurilor, ci absența oricărei mișcări sau activități."
       },
       {
-       "t": " prin ea picior de om, și nici picior de dobitoc nu va trece prin ea și nu va fi "
+       "t": " prin ea "
+      },
+      {
+       "t": "picior de om",
+       "w": "picior de om",
+       "heb": "רֶגֶל אָדָם",
+       "translit": "regel adam",
+       "strong": "H7272",
+       "pos": "substantiv construct + substantiv",
+       "def_ro": "picior de om.",
+       "dict_ro": "Imaginea completei dezertificări a Egiptului — nici omul, nici animalul nu vor mai traversa țara, imagine extremă de pustiire totală, fără urmă de viață care s-o traverseze."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și nici picior de dobitoc nu va trece prin ea",
+       "w": "și nici picior de dobitoc nu va trece prin ea",
+       "heb": "וְרֶגֶל בְּהֵמָה לֹא תַעֲבָר בָּהּ",
+       "translit": "veregel behēma lo taavar bah",
+       "strong": "H7272",
+       "pos": "substantiv construct + substantiv + particulă negativă + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "și picior de dobitoc nu va trece prin ea.",
+       "dict_ro": "Repetarea paralelă — nici omul, nici animalul — subliniază lipsa totală de viață din țara pustiită, confirmată de durata precisă de patruzeci de ani notată imediat după."
+      },
+      {
+       "t": " și nu va fi "
       },
       {
        "t": "locuită",
@@ -43821,7 +44092,17 @@
      "translit": "Ve-natatti et-erets Mitsrayim shemamah be-tokh aratsot neshammot ve-areha be-tokh arim mochoravot tihyeynah shemamah arba'im shanah va-hafitsoti et-Mitsrayim ba-goyim ve-zeritim ba-aratsot.",
      "tokens": [
       {
-       "t": "Și voi face ca țara Egiptului să fie pustiită în mijlocul [altor] țări pustiite, iar "
+       "t": "Și voi face ca țara Egiptului să fie pustiită în mijlocul [altor] țări pustiite",
+       "w": "Și voi face ca țara Egiptului să fie pustiită în mijlocul [altor] țări pustiite",
+       "heb": "וְנָתַתִּי אֶת אֶרֶץ מִצְרַיִם שְׁמָמָה בְּתוֹךְ אֲרָצוֹת נְשַׁמּוֹת",
+       "translit": "venatati et ereț mițraim șemama betoh arațot neșamot",
+       "strong": "H5414",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + substantiv construct + nume propriu + substantiv + substantiv construct + substantiv + verb, nifal participiu",
+       "def_ro": "și voi face țara Egiptului pustiire în mijlocul țărilor pustiite.",
+       "dict_ro": "Metzudat David observă paralela structurală cu 28:25: la fel cum Israel a fost împrăștiat printre neamuri, tot așa va fi și Egiptul — dar cu diferența esențială că Israel va fi adunat înapoi la măreția lui deplină, pe când Egiptul va rămâne, după restaurare, «un regat neînsemnat»."
+      },
+      {
+       "t": ", iar "
       },
       {
        "t": "orașele ei",
@@ -43905,7 +44186,30 @@
      "translit": "Ki koh amar Adonai Elohim mi-kets arba'im shanah akabbets et-Mitsrayim min-ha-ammim asher-nafotsu shammah.",
      "tokens": [
       {
-       "t": "Căci așa a spus Stăpânul meu, Domnul DUMNEZEU: „La capătul a patruzeci de ani, îi voi "
+       "t": "Căci așa a spus Stăpânul meu, Domnul DUMNEZEU",
+       "w": "Căci așa a spus Stăpânul meu, Domnul DUMNEZEU",
+       "heb": "כִּי כֹה אָמַר אֲדֹנָי יֱהוִה",
+       "translit": "ki ko amar adonai Adonai",
+       "strong": "H3541",
+       "pos": "conjuncție + adverb + verb, qal perfect + substantiv construct + sufix + nume propriu",
+       "def_ro": "căci așa a spus Stăpânul meu, Domnul DUMNEZEU.",
+       "dict_ro": "Repetarea formulei introductive marchează trecerea de la oracolul de distrugere (v.1-12) la cel de restaurare limitată (v.13-16), după modelul exact al tranziției similare din 28:25-26 pentru Israel."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "La capătul a patruzeci de ani",
+       "w": "La capătul a patruzeci de ani",
+       "heb": "מִקֵּץ אַרְבָּעִים שָׁנָה",
+       "translit": "mikēț arbaim șana",
+       "strong": "H7093",
+       "pos": "substantiv construct + numeral + substantiv",
+       "def_ro": "la sfârșitul a patruzeci de ani.",
+       "dict_ro": "Metzudat David precizează sensul exact: «de la sfârșitul celor patruzeci de ani îi voi aduna, și nu în cursul acestei vremi» — restaurarea nu e graduală, ci survine brusc, după împlinirea completă a termenului de pedeapsă."
+      },
+      {
+       "t": ", îi voi "
       },
       {
        "t": "aduna",
@@ -43971,7 +44275,20 @@
        "dict_ro": "Shevut, „captivitate, robie [întoarsă]” — formula „a întoarce captivitatea cuiva” (shuv shevut) e o expresie idiomatică standard pentru restaurarea din exil, folosită frecvent și pentru Israel însuși (cf. Ieremia 30:3) — dovadă a aceluiași tipar de restaurare aplicat, limitat, chiar și Egiptului."
       },
       {
-       "t": " și îi voi aduce înapoi în țara "
+       "t": " "
+      },
+      {
+       "t": "și îi voi aduce înapoi în țara",
+       "w": "și îi voi aduce înapoi în țara",
+       "heb": "וַהֲשִׁבֹתִי אֹתָם אֶרֶץ",
+       "translit": "vahașivoti otam ereț",
+       "strong": "H7725",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + sufix + substantiv construct",
+       "def_ro": "și îi voi întoarce [în] țara.",
+       "dict_ro": "Dubla folosire a rădăcinii șuv («a se întoarce») — «voi întoarce captivitatea» și «îi voi aduce înapoi» — insistă asupra caracterului de restaurare completă, nu doar de eliberare parțială."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Patrosului",
@@ -44053,7 +44370,17 @@
      "translit": "Min-ha-mamlakhot tihyeh shefalah ve-lo-titnase od al-ha-goyim ve-him'attitim le-vilti redot ba-goyim.",
      "tokens": [
       {
-       "t": "Dintre regate, va fi cel mai neînsemnat și nu se va mai "
+       "t": "Dintre regate, va fi cel mai neînsemnat",
+       "w": "Dintre regate, va fi cel mai neînsemnat",
+       "heb": "מִן הַמַּמְלָכוֹת תִּהְיֶה שְׁפָלָה",
+       "translit": "min hamamlahot tihie șefala",
+       "strong": "H4467",
+       "pos": "prepoziție + substantiv + verb, qal imperfect + adjectiv",
+       "def_ro": "dintre regate va fi [cel mai] smerit.",
+       "dict_ro": "Radak explică: aceasta e opusul exact al promisiunii «te voi face să crești și te voi înmulți» (Geneza 48:4) — restaurarea Egiptului nu e o revenire la măreția antică, ci o permanentă diminuare a statutului său printre neamuri."
+      },
+      {
+       "t": " și nu se va mai "
       },
       {
        "t": "înălța",
@@ -44193,7 +44520,20 @@
        "dict_ro": "Avon, „vină, păcat” — desemnează aici concret alianța politică cu Egiptul ca pe un act de necredință față de Dumnezeu, nu o simplă greșeală strategică militară, ci o încălcare morală/religioasă a încrederii exclusive datorate DOMNULUI."
       },
       {
-       "t": " când se întorceau după ei, și așa vor cunoaște că Eu sunt Stăpânul, Domnul DUMNEZEU.”"
+       "t": " când se întorceau după ei, "
+      },
+      {
+       "t": "și așa vor cunoaște că Eu sunt Stăpânul, Domnul DUMNEZEU",
+       "w": "și așa vor cunoaște că Eu sunt Stăpânul, Domnul DUMNEZEU",
+       "heb": "וְיָדְעוּ כִּי אֲנִי אֲדֹנָי יֱהוִה",
+       "translit": "veiadu ki ani adonai Adonai",
+       "strong": "H3045",
+       "pos": "verb, qal perfect consecutiv + conjuncție + pronume personal + substantiv construct + sufix + nume propriu",
+       "def_ro": "și vor cunoaște că Eu sunt Stăpânul, Domnul DUMNEZEU.",
+       "dict_ro": "Metzudat David încheie secțiunea principală a oracolului: umilirea Egiptului nu e doar o pedeapsă pentru propria lui arogantă auto-divinizare, ci și un beneficiu spiritual permanent pentru Israel — eliminarea unei tentații politice recurente de a căuta sprijin într-o alianță pământească."
+      },
+      {
+       "t": ".”"
       }
      ],
      "textCompare": [
@@ -44248,7 +44588,20 @@
        "dict_ro": "Anul al douăzeci și șaptelea al exilului lui Iehoiachin (aprox. 571 î.Hr.) — cea mai târzie dată exactă din toată cartea lui Ezechiel, plasând acest oracol final la aproximativ șaisprezece ani după cel din v.1-16, după ce profeția inițială a asediului Tirului (13 ani, neamintit direct aici, dar presupus împlinit fără prada promisă) nu s-a materializat cum se aștepta."
       },
       {
-       "t": ", în prima [lună], în prima [zi] a lunii. Și a fost [așa]: cuvântul DOMNULUI a venit la mine, spunând:"
+       "t": ", în prima [lună], în prima [zi] a lunii. Și a fost [așa]: "
+      },
+      {
+       "t": "cuvântul DOMNULUI a venit la mine",
+       "w": "cuvântul DOMNULUI a venit la mine",
+       "heb": "הָיָה דְבַר יְהוָה אֵלַי",
+       "translit": "haia devar Adonai ēlai",
+       "strong": "H1697",
+       "pos": "verb, qal perfect + substantiv construct + nume propriu + prepoziție + sufix",
+       "def_ro": "a fost cuvântul DOMNULUI către mine.",
+       "dict_ro": "Formula de introducere a unei noi etape profetice — Radak explică faptul că profeția despre Egipt a venit lui Ezechiel în etape succesive, legate de evenimentele reale ale asediului Tirului și ale cuceririi Egiptului de către Nabucodonosor."
+      },
+      {
+       "t": ", spunând:"
       }
      ],
      "textCompare": [
@@ -44299,7 +44652,33 @@
        "dict_ro": "Nevukhadretsar — regele Babilonului (605-562 î.Hr.), unealta principală a judecății divine în toată cartea lui Ezechiel, atât asupra lui Iuda, cât și, aici, asupra Tirului și Egiptului — un instrument istoric real folosit teologic pentru împlinirea planurilor divine, fără ca el însuși să fie conștient de acest rol."
       },
       {
-       "t": ", regele Babilonului, și-a pus oștirea să facă un lucru mare împotriva "
+       "t": ", "
+      },
+      {
+       "t": "regele Babilonului",
+       "w": "regele Babilonului",
+       "heb": "מֶלֶךְ בָּבֶל",
+       "translit": "meleh bavel",
+       "strong": "H4428",
+       "pos": "substantiv construct + nume propriu",
+       "def_ro": "regele Babilonului.",
+       "dict_ro": "Titlul lui Nabucodonosor, menționat explicit pe nume la începutul acestui oracol final, cel mai tardiv din toată cartea lui Ezechiel, datat de Metzudat David după încheierea asediului îndelungat al Tirului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "și-a pus oștirea să facă un lucru mare",
+       "w": "și-a pus oștirea să facă un lucru mare",
+       "heb": "הֶעֱבִיד אֶת חֵילוֹ עֲבֹדָה גְדֹלָה",
+       "translit": "heevid et hēlo avoda gedola",
+       "strong": "H5647",
+       "pos": "verb, hifil perfect + marcă a complementului direct + substantiv construct + sufix + substantiv + adjectiv",
+       "def_ro": "a pus la muncă oastea lui, o muncă mare.",
+       "dict_ro": "Metzudat David explică imaginea capetelor pleșuve și umerilor jupuiți drept efectul fizic direct al muncii istovitoare de asediu — coifurile purtate constant și cărarea materialelor pentru rampele de asalt, timp de treisprezece ani."
+      },
+      {
+       "t": " împotriva "
       },
       {
        "t": "Tirului",
@@ -44396,7 +44775,33 @@
      "translit": "Lakhen koh amar Adonai Elohim hineni noten li-Nevukhadretsar melekh-Bavel et-erets Mitsrayim ve-nasa hamonah ve-shalal shelalah u-vazaz bizzah ve-hayetah sakhar le-cheilo.",
      "tokens": [
       {
-       "t": "De aceea, spune Stăpânul meu, Domnul DUMNEZEU: „Iată-Mă, îi voi da țara Egiptului lui Nabocodonosor, regele Babilonului, și el îi va duce "
+       "t": "De aceea, spune Stăpânul meu, Domnul DUMNEZEU: „"
+      },
+      {
+       "t": "Iată-Mă, îi voi da țara Egiptului",
+       "w": "Iată-Mă, îi voi da țara Egiptului",
+       "heb": "הִנְנִי נֹתֵן... אֶת אֶרֶץ מִצְרָיִם",
+       "translit": "hinni notēn... et ereț mițraim",
+       "strong": "H2005",
+       "pos": "particulă demonstrativă + sufix + verb, qal participiu + marcă a complementului direct + substantiv construct + nume propriu",
+       "def_ro": "iată-Mă, dau țara Egiptului.",
+       "dict_ro": "Formula de dăruire divină directă — DOMNUL Însuși decide soarta Egiptului ca despăgubire pentru Nabucodonosor, deși regele babilonian acționează din ambiție proprie, fără să știe că îndeplinește, de fapt, un scop divin."
+      },
+      {
+       "t": " lui Nabocodonosor, "
+      },
+      {
+       "t": "regele Babilonului",
+       "w": "regele Babilonului",
+       "heb": "מֶלֶךְ בָּבֶל",
+       "translit": "meleh bavel",
+       "strong": "H4428",
+       "pos": "substantiv construct + nume propriu",
+       "def_ro": "regele Babilonului.",
+       "dict_ro": "A doua apariție a titlului, aici alături de numele complet al lui Nabucodonosor — Egiptul îi este dat drept compensație pentru efortul neprofitabil al asediului Tirului."
+      },
+      {
+       "t": ", și el îi va duce "
       },
       {
        "t": "populația",
@@ -44495,7 +44900,20 @@
        "dict_ro": "Pe'ullah, „lucrare, faptă, plată pentru muncă” — cuvânt care poate însemna atât „efortul depus”, cât și „răsplata cuvenită pentru el”, dublu sens care rezumă exact tranzacția descrisă în acest verset final al secțiunii: munca depusă la Tir e răscumpărată prin darul Egiptului."
       },
       {
-       "t": " pe care a făcut-o în ea i-am dat lui țara Egiptului, pentru ceea ce au făcut "
+       "t": " pe care a făcut-o în ea "
+      },
+      {
+       "t": "i-am dat lui țara Egiptului",
+       "w": "i-am dat lui țara Egiptului",
+       "heb": "נָתַתִּי לוֹ אֶת אֶרֶץ מִצְרָיִם",
+       "translit": "natati lo et ereț mițraim",
+       "strong": "H5414",
+       "pos": "verb, qal perfect + prepoziție + sufix + marcă a complementului direct + substantiv construct + nume propriu",
+       "def_ro": "i-am dat lui țara Egiptului.",
+       "dict_ro": "Metzudat David subliniază cuvântul final al versetului, «pentru Mine» — deși Nabucodonosor a acționat din propria ambiție politică, fără nicio intenție de a-L sluji pe DOMNUL, Dumnezeu privește efortul lui ca îndeplinind, în cele din urmă, un scop pe care Însuși l-a rânduit."
+      },
+      {
+       "t": ", pentru ceea ce au făcut "
       },
       {
        "t": "pentru Mine",
@@ -44546,7 +44964,17 @@
      "translit": "Ba-yom ha-hu atsmiach keren le-veit Yisra'el u-lekha etten pitchon-peh be-tokham ve-yad'u ki-ani Adonai.",
      "tokens": [
       {
-       "t": "În acea zi voi face să "
+       "t": "În acea zi",
+       "w": "În acea zi",
+       "heb": "בַּיּוֹם הַהוּא",
+       "translit": "baiom hahu",
+       "strong": "H3117",
+       "pos": "substantiv + pronume demonstrativ",
+       "def_ro": "în ziua aceea.",
+       "dict_ro": "Rashi recunoaște deschis dificultatea acestui verset: răsărirea «cornului» lui Israel la căderea Egiptului nu poate fi literală, de vreme ce Israel fusese deja exilat cu opt ani înainte — el leagă «ziua aceea» de împlinirea celor patruzeci de ani ai Egiptului (v.13), calculați să coincidă cu ridicarea Persiei și eliberarea exilaților prin Cirus."
+      },
+      {
+       "t": " voi face să "
       },
       {
        "t": "înflorească",
@@ -44590,7 +45018,20 @@
        "dict_ro": "Pitchon peh, literal „deschiderea gurii” — expresie idiomatică rară, însemnând recunoașterea publică a autorității/dreptății cuiva de a vorbi, aici aplicată direct lui Ezechiel: adeverirea împlinită a profețiilor sale (Tir, Egipt) îi va da, în sfârșit, credibilitate deplină înaintea poporului exilat, care se îndoise adesea de cuvântul lui."
       },
       {
-       "t": " în mijlocul lor, și vor ști că Eu sunt DOMNUL.”"
+       "t": " în mijlocul lor, "
+      },
+      {
+       "t": "și vor ști că Eu sunt DOMNUL",
+       "w": "și vor ști că Eu sunt DOMNUL",
+       "heb": "וְיָדְעוּ כִּי אֲנִי יְהוָה",
+       "translit": "veiadu ki ani Adonai",
+       "strong": "H3045",
+       "pos": "verb, qal perfect consecutiv + conjuncție + pronume personal + nume propriu",
+       "def_ro": "și vor ști că Eu sunt DOMNUL.",
+       "dict_ro": "Formula-refren a cărții lui Ezechiel, repetată la finalul fiecărei etape a judecății asupra Egiptului — recunoașterea universală a DOMNULUI, de către egipteni deopotrivă cu Israel, rămâne scopul ultim al întregii profeții."
+      },
+      {
+       "t": ".”"
       }
      ],
      "textCompare": [
