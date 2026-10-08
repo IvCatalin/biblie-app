@@ -50745,7 +50745,20 @@
        "dict_ro": "Rashi citește surprinzător „moartea” lui Uzia nu ca deces fizic (regele a mai trăit ani buni, izolat, după ce a fost lovit de lepră pentru că a îndrăznit să tămâieze în Templu, 2 Cronici 26:16-21), ci ca „moartea” lui regală — anul în care a fost lovit de lepră și înlăturat de la domnie, echivalent unei morți politice."
       },
       {
-       "t": " regelui Uziahu, L-am văzut pe Stăpânul meu așezat pe un "
+       "t": " regelui Uziahu, "
+      },
+      {
+       "t": "L-am văzut pe Stăpânul meu așezat pe",
+       "w": "L-am văzut pe Stăpânul meu așezat pe",
+       "heb": "וָאֶרְאֶה אֶת אֲדֹנָי יֹשֵׁב עַל",
+       "translit": "vaere et adonai ioșēv al",
+       "strong": "H7200",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + substantiv construct + sufix + verb, qal participiu + prepoziție",
+       "def_ro": "și am văzut pe Stăpânul meu șezând pe.",
+       "dict_ro": "Verbul «a vedea» deschide direct viziunea profetică a lui Isaia — contemplarea directă a Șechinei, resimțită mai târziu (v.5) ca primejdie mortală, paralelă spaimei lui Manoah din Judecători 13:22."
+      },
+      {
+       "t": " un "
       },
       {
        "t": "tron înalt",
@@ -50826,7 +50839,20 @@
        "dict_ro": "Saraf, de la rădăcina saraf, „a arde” — unică apariție a acestui termen ca desemnare angelică în tot Tanahul (în afară de sensul de „șarpe veninos”, Numeri 21:6-8); Rashi îi leagă etimologic de misiunea lor aici — „veniți să-l ardă” pe Uzia — numele fiind determinat direct de contextul judecății."
       },
       {
-       "t": " stăteau în picioare deasupra Lui, cu câte "
+       "t": " "
+      },
+      {
+       "t": "stăteau în picioare deasupra Lui",
+       "w": "stăteau în picioare deasupra Lui",
+       "heb": "עֹמְדִים מִמַּעַל לוֹ",
+       "translit": "omdim mimaal lo",
+       "strong": "H5975",
+       "pos": "verb, qal participiu + adverb + prepoziție + sufix",
+       "def_ro": "stăteau mai sus de El.",
+       "dict_ro": "Poziția serafimilor, «mai sus» de tron, nu alături de el, respectă distanța ierarhică absolută dintre creaturile cerești și Cel așezat pe tron — niciun serafim nu se află la același nivel cu Șechina."
+      },
+      {
+       "t": ", cu câte "
       },
       {
        "t": "șase aripi",
@@ -50937,7 +50963,20 @@
        "dict_ro": "Rashi explică „unul către celălalt” drept un ritual de cerere reciprocă a permisiunii: niciun serafim nu îndrăznește să înceapă singur rostirea sfințeniei, riscând arderea, ci toți trebuie să pornească simultan — origine directă a formulei liturgice „Kedușa”, rostită în comun de întreaga adunare, niciodată individual."
       },
       {
-       "t": " către celălalt și spunea: „"
+       "t": " "
+      },
+      {
+       "t": "către celălalt și spunea",
+       "w": "către celălalt și spunea",
+       "heb": "זֶה אֶל זֶה וְאָמַר",
+       "translit": "ze el ze veamar",
+       "strong": "H2088",
+       "pos": "pronume demonstrativ + prepoziție + pronume demonstrativ + verb, qal perfect consecutiv",
+       "def_ro": "unul către altul și spunea.",
+       "dict_ro": "Rashi explică faptul că serafimii «își cereau îngăduință unul de la altul», ca nu cumva unul să înceapă înaintea celorlalți și să se facă vinovat, ci numai dacă rostesc sfințenia toți ca unul — ecou direct al formulei liturgice «Cel ce a întocmit lumina»."
+      },
+      {
+       "t": ": „"
       },
       {
        "t": "Sfânt, sfânt, sfânt",
@@ -51107,7 +51146,33 @@
        "dict_ro": "Tame sefatayim — Targumul lui Ionatan citat de Rashi îl explică prin „murdărit de păcate”, nu neapărat impuritate rituală literală — mărturisirea lui Isaia recunoaște o vină morală colectivă, a sa și a întregului popor deopotrivă, în chiar clipa chemării profetice."
       },
       {
-       "t": " care locuiesc în mijlocul unui popor [de oameni] cu buze necurate, căci ochii mei L-au văzut pe "
+       "t": " "
+      },
+      {
+       "t": "care locuiesc în mijlocul unui popor [de oameni] cu buze necurate",
+       "w": "care locuiesc în mijlocul unui popor [de oameni] cu buze necurate",
+       "heb": "וּבְתוֹךְ עַם טְמֵא שְׂפָתַיִם אָנֹכִי יוֹשֵׁב",
+       "translit": "uvtoh am temē sefataim anohi ioșēv",
+       "strong": "H8432",
+       "pos": "substantiv construct + substantiv + adjectiv + substantiv + pronume personal + verb, qal participiu",
+       "def_ro": "și locuiesc în mijlocul unui popor cu buze necurate.",
+       "dict_ro": "Repetarea exactă a expresiei «buze necurate», folosită mai întâi despre sine, apoi despre tot poporul, pregătește ispășirea specifică de la v.7 — Rashi citește purificarea buzelor lui Isaia ca disciplină legată direct de această mustrare aspră adusă propriului popor."
+      },
+      {
+       "t": ", căci "
+      },
+      {
+       "t": "ochii mei L-au văzut",
+       "w": "ochii mei L-au văzut",
+       "heb": "רָאוּ עֵינָי",
+       "translit": "rau ēnai",
+       "strong": "H7200",
+       "pos": "verb, qal perfect + substantiv construct + sufix",
+       "def_ro": "au văzut ochii mei.",
+       "dict_ro": "Confirmarea vederii directe, cu proprii ochi, a Regelui — DOMNUL Oștirilor — motivează teama de moarte a profetului, resimțită universal în tradiția biblică drept primejdie a vederii nemijlocite a slavei divine."
+      },
+      {
+       "t": " pe "
       },
       {
        "t": "Rege",
@@ -51787,7 +51852,20 @@
        "dict_ro": "Achaz — rege idolatru al lui Iuda (2 Împărați 16), fiul lui Iotam și nepotul lui Uzia; Rashi observă că textul îl legitimează genealogic ca „fiul lui Iotam, fiul lui Uzia” tocmai pentru a explica de ce, în ciuda propriei lui răutăți, dușmanii n-au reușit să-l învingă — meritul strămoșilor lui drepți."
       },
       {
-       "t": ", fiul lui Iotam, fiul lui Uziahu, regele din Iuda, că Rețin, regele Aramului, împreună cu Pekah, fiul lui Remalia, regele din Israel, s-a urcat la Ierusalim și a purtat război împotriva sa, dar "
+       "t": ", fiul lui Iotam, fiul lui Uziahu, regele din Iuda, că Rețin, regele Aramului, împreună cu Pekah, fiul lui Remalia, regele din Israel, s-a urcat la Ierusalim și "
+      },
+      {
+       "t": "a purtat război împotriva sa",
+       "w": "a purtat război împotriva sa",
+       "heb": "לַמִּלְחָמָה עָלֶיהָ",
+       "translit": "lamilhama aleha",
+       "strong": "H4421",
+       "pos": "substantiv + prepoziție + sufix",
+       "def_ro": "la război împotriva ei.",
+       "dict_ro": "Rashi explică faptul că Scriptura arată genealogia lui Ahaz tocmai pentru a contrasta cu rezultatul: deși regele era nelegiuit, meritul părinților săi drepți, Iotam și Uzia, l-a ocrotit de înfrângere."
+      },
+      {
+       "t": ", dar "
       },
       {
        "t": "n-a putut să-l biruiască",
@@ -51872,7 +51950,20 @@
        "dict_ro": "Rashi explică forma gramaticală feminină a verbului (nachah) prin faptul că „regatul s-a alăturat/aliniat” — Aram (Siria) și Efraim (regatul nordic al lui Israel) s-au unit temporar într-o coaliție militară împotriva lui Iuda."
       },
       {
-       "t": " cu Efraim.” Inima lui și inima poporului lui s-a "
+       "t": " cu Efraim.” "
+      },
+      {
+       "t": "Inima lui și inima poporului lui",
+       "w": "Inima lui și inima poporului lui",
+       "heb": "לְבָבוֹ וּלְבַב עַמּוֹ",
+       "translit": "levavo ulvav amo",
+       "strong": "H3824",
+       "pos": "substantiv construct + sufix + substantiv construct + substantiv construct + sufix",
+       "def_ro": "inima lui și inima poporului lui.",
+       "dict_ro": "Rashi explică teama dublă a lui Ahaz prin experiența sa anterioară reală: fiecare dintre cei doi regi aliați îl biruise deja separat în luptă (2 Cronici 28:5-6), ceea ce face amenințarea unită cu atât mai înspăimântătoare."
+      },
+      {
+       "t": " s-a "
       },
       {
        "t": "cutremurat",
@@ -51941,7 +52032,30 @@
      "translit": "Va-yomer Adonai el-Yeshayahu tse-na likrat Achaz attah u-She'ar Yashuv binekha el-ketseh te'alat ha-berekhah ha-elyonah el-mesillat sedeh khovess.",
      "tokens": [
       {
-       "t": "DOMNUL i-a spus lui Isaia: „Ieși acum în întâmpinarea lui Ahaz, tu și fiul tău, "
+       "t": "DOMNUL i-a spus lui Isaia",
+       "w": "DOMNUL i-a spus lui Isaia",
+       "heb": "וַיֹּאמֶר יְהוָה אֶל יְשַׁעְיָהוּ",
+       "translit": "vaiomer Adonai el ieșaiahu",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu",
+       "def_ro": "și a spus DOMNUL către Isaia.",
+       "dict_ro": "Formula de poruncă divină directă introduce misiunea precisă a profetului — ieșirea în întâmpinarea regelui înspăimântat, cu fiul său Șear-Iașuv, al cărui nume însuși («rămășița se va întoarce») e un mesaj profetic întrupat."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Ieși acum în întâmpinarea lui Ahaz, tu și fiul tău",
+       "w": "Ieși acum în întâmpinarea lui Ahaz, tu și fiul tău",
+       "heb": "צֵא נָא לִקְרַאת אָחָז אַתָּה",
+       "translit": "țē na likrat ahaz ata",
+       "strong": "H3318",
+       "pos": "verb, qal imperativ + interjecție + verb, qal infinitiv + nume propriu + pronume personal",
+       "def_ro": "ieși, te rog, în întâmpinarea lui Ahaz, tu.",
+       "dict_ro": "Porunca precisă a locului de întâlnire — la capătul canalului iazului de sus — arată că DOMNUL cunoaște exact unde se află regele îngrozit, pregătit, potrivit Talmudului (Sanhedrin 104a), să se umilească înaintea profetului."
+      },
+      {
+       "t": ", "
       },
       {
        "t": "Șear-Iașuv",
@@ -52027,7 +52141,17 @@
      "translit": "Ve-amarta elav hishshamer ve-hashket al-tira u-levavkha al-yerakh mi-shnei zanvot ha-udim ha-ashenim ha-elleh ba-chori-af Retsin va-Aram u-ven-Remalyahu.",
      "tokens": [
       {
-       "t": "Și spune-i: «"
+       "t": "Și spune-i",
+       "w": "Și spune-i",
+       "heb": "וְאָמַרְתָּ אֵלָיו",
+       "translit": "veamarta ēlaiv",
+       "strong": "H559",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix",
+       "def_ro": "și spune-i lui.",
+       "dict_ro": "Formula pregătește mesajul central de liniștire — «păzește-te și stai liniștit» — adresat direct regelui, nu transmis printr-un intermediar."
+      },
+      {
+       "t": ": «"
       },
       {
        "t": "Păzește-te [și] stai liniștit",
@@ -52245,7 +52369,20 @@
        "dict_ro": "Rashi identifică explicit acest copil cu regele Hezechia, fiul lui Ahaz, deja născut la data rostirii acestei profeții — spre deosebire de citirea mesianică ulterioară a tradiției creștine, care aplică versetul unei nașteri viitoare, mult mai îndepărtate."
       },
       {
-       "t": ", un fiu ne-a fost dăruit, și "
+       "t": ", "
+      },
+      {
+       "t": "un fiu ne-a fost dăruit",
+       "w": "un fiu ne-a fost dăruit",
+       "heb": "בֵּן נִתַּן לָנוּ",
+       "translit": "bēn nitan lanu",
+       "strong": "H1121",
+       "pos": "substantiv + verb, nifal perfect + prepoziție + sufix",
+       "def_ro": "un fiu ne-a fost dat.",
+       "dict_ro": "Rashi citește întregul verset ca aplicat lui Ezechia, fiul lui Ahaz, deși acesta era rege nelegiuit: «măcar că Ahaz e rău, fiul lui [deja] născut ne va fi, în locul lui, rege drept»."
+      },
+      {
+       "t": ", și "
       },
       {
        "t": "autoritatea",
@@ -52260,7 +52397,20 @@
        "dict_ro": "Misrah, „stăpânire, autoritate” — cuvânt rar, aceeași rădăcină ca sar, „conducător”; desemnează povara/misiunea regală așezată pe umerii viitorului rege, o imagine de responsabilitate, nu doar de privilegiu."
       },
       {
-       "t": " va fi pe umărul lui, iar "
+       "t": " "
+      },
+      {
+       "t": "va fi pe umărul lui",
+       "w": "va fi pe umărul lui",
+       "heb": "וַתְּהִי... עַל שִׁכְמוֹ",
+       "translit": "vathi... al șihmo",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv construct + sufix",
+       "def_ro": "și va fi... pe umărul lui.",
+       "dict_ro": "Imaginea autorității ca sarcină pusă pe umăr — Rashi explică faptul că misiunea Celui Sfânt și jugul Lui vor fi pe umărul tânărului rege drept, nu o putere arbitrară, ci o răspundere primită de la Dumnezeu."
+      },
+      {
+       "t": ", iar "
       },
       {
        "t": "Mărețul Sfătuitor, Dumnezeul cel Puternic, Tatăl Veșnic",
@@ -52274,7 +52424,20 @@
        "dict_ro": "Una dintre cele mai cunoscute și mai discutate divergențe din toată Septuaginta: titlul patruplu ebraic („Sfătuitor minunat, Dumnezeu puternic, Tată veșnic, Prinț al păcii\") e redat în greacă printr-o singură expresie, „Μεγάλης βουλῆς ἄγγελος\" („Mesagerul/Îngerul marelui sfat\") — o construcție complet diferită, intens citată în polemica iudeo-creștină despre traducerea profețiilor mesianice ale lui Isaia."
       },
       {
-       "t": ", i-a dat numele de „"
+       "t": ", "
+      },
+      {
+       "t": "i-a dat numele de",
+       "w": "i-a dat numele de",
+       "heb": "וַיִּקְרָא שְׁמוֹ",
+       "translit": "vaikra șemo",
+       "strong": "H7121",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + sufix",
+       "def_ro": "și i-a chemat numele.",
+       "dict_ro": "Rashi explică faptul că titlurile care urmează — Sfătuitor minunat, Dumnezeu puternic, Tată veșnic — desemnează pe Dumnezeu Însuși, Cel care «a chemat numele lui Hezechia Prinț al păcii», nu titluri divine aplicate direct copilului."
+      },
+      {
+       "t": " „"
       },
       {
        "t": "Prinț al păcii",
@@ -52326,7 +52489,20 @@
      "translit": "Le-marbeh ha-misrah u-le-shalom ein-kets al-kisse David ve-al-mamlakhto le-hakhin otah u-le-sa'adah be-mishpat u-vi-tsdakah me-attah ve-ad-olam kin'at Adonai Tseva'ot ta'aseh-zot.",
      "tokens": [
       {
-       "t": "Lui, care va fi mare în autoritate și va avea "
+       "t": "Lui, care "
+      },
+      {
+       "t": "va fi mare în autoritate",
+       "w": "va fi mare în autoritate",
+       "heb": "לְמַרְבֵּה הַמִּשְׂרָה",
+       "translit": "lemarbē hamisra",
+       "strong": "H4766",
+       "pos": "substantiv construct + substantiv",
+       "def_ro": "pentru mărirea autorității.",
+       "dict_ro": "Rashi explică «misra» ca «cuvânt de stăpânire» — regele care mărește asupra lui însuși stăpânirea Sfântului, binecuvântat fie, ca să se teamă de El, nu o mărire a propriei puteri personale."
+      },
+      {
+       "t": " și va avea "
       },
       {
        "t": "pace fără sfârșit",
@@ -52341,7 +52517,33 @@
        "dict_ro": "Rashi precizează sensul lui „fără sfârșit”: nu pacea însăși va dura literalmente veșnic în istorie, ci nu va exista hotar/limită pentru extinderea ei — o precizare care menține promisiunea în cadrul unei domnii istorice reale (a lui Hezechia), nu al unei eternități absolute."
       },
       {
-       "t": " pe tronul lui David și peste regatul său, ca să-l întemeieze și să-l susțină prin "
+       "t": " "
+      },
+      {
+       "t": "pe tronul lui David și peste regatul său",
+       "w": "pe tronul lui David și peste regatul său",
+       "heb": "עַל כִּסֵּא דָוִד וְעַל מַמְלַכְתּוֹ",
+       "translit": "al kisē david veal mamlahto",
+       "strong": "H3678",
+       "pos": "prepoziție + substantiv construct + nume propriu + prepoziție + substantiv construct + sufix",
+       "def_ro": "pe tronul lui David și peste regatul lui.",
+       "dict_ro": "Legarea explicită a acestei păci fără sfârșit de tronul davidic ancorează promisiunea mesianică în linia dinastică a lui David, confirmată prin «judecata și dreptatea» pe care regele o înfăptuiește."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "ca să-l întemeieze și să-l susțină",
+       "w": "ca să-l întemeieze și să-l susțină",
+       "heb": "לְהָכִין אֹתָהּ וּלְסַעֲדָהּ",
+       "translit": "lehahin otah ulsaadah",
+       "strong": "H3559",
+       "pos": "verb, hifil infinitiv + marcă a complementului direct + sufix + verb, qal infinitiv + sufix",
+       "def_ro": "ca să o întemeieze și să o sprijine.",
+       "dict_ro": "Dubla acțiune — întemeiere și susținere — arată caracterul durabil al domniei promise: nu doar o instaurare inițială, ci o întreținere continuă prin judecată și dreptate, «de acum și până în veac»."
+      },
+      {
+       "t": " prin "
       },
       {
        "t": "justiție și dreptate",
@@ -52370,7 +52572,20 @@
        "dict_ro": "Rashi glosează „kin'at Adonai” ca „gelozia [Lui] pentru Sion”, provocată de uneltirea răuvoitoare a lui Aram și Pekah descrisă în capitolul 7 — încheind astfel firul narativ al Haftarei printr-o legătură directă între amenințarea inițială și împlinirea finală a promisiunii de restaurare."
       },
       {
-       "t": " DOMNULUI Oștirilor va împlini aceasta."
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI Oștirilor va împlini aceasta",
+       "w": "DOMNULUI Oștirilor va împlini aceasta",
+       "heb": "יְהוָה צְבָאוֹת תַּעֲשֶׂה זֹּאת",
+       "translit": "Adonai țevaot taase zot",
+       "strong": "H3068",
+       "pos": "nume propriu + substantiv + verb, qal imperfect + pronume demonstrativ",
+       "def_ro": "DOMNUL Oștirilor va face aceasta.",
+       "dict_ro": "Rashi explică faptul că râvna DOMNULUI Oștirilor pentru Sion, nu meritul lui Ahaz — al cărui merit părintesc se sfârșise deja — este cea care garantează împlinirea promisiunii de pace și dreptate pentru casa lui David."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
