@@ -60313,7 +60313,17 @@
      "translit": "Vayaas Hirom et-hakiyorot veet-hayaím veet-hamizrakot vayechal Hiram laasot et-kol-hamelacha așer asa lameleh Șlomo beit ADONAI.",
      "tokens": [
       {
-       "t": "Și Hiram a făcut "
+       "t": "Și Hiram a făcut",
+       "w": "Și Hiram a făcut",
+       "heb": "וַיַּעַשׂ חִירוֹם אֶת",
+       "translit": "vaiaas hirom et",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct",
+       "def_ro": "și a făcut Hiram.",
+       "dict_ro": "Rashi explică faptul că ligheanele (kiorot) sunt vase de aramă folosite pentru curățirea cenușii altarului, aceeași rădăcină ca «vatra de foc» din Zaharia 12:6."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ligheanele",
@@ -60328,7 +60338,20 @@
        "dict_ro": "Kiyor — Rashi identifică termenul kiyorot aici cu sirot de la v.45 (traduse „oale”), explicând că sunt vase folosite pentru scoaterea cenușii de pe altar; alături de lopeți (pentru strânsul cenușii) și vasele pentru stropirea sângelui jertfelor, formează trusa completă a slujirii zilnice de la altarul de aramă din curte."
       },
       {
-       "t": ", lopețile și vasele [pentru sânge] și Hiram a isprăvit de făcut toată lucrarea pe care o făcuse pentru regele Solomon, la Casa DOMNULUI:"
+       "t": ", "
+      },
+      {
+       "t": "lopețile și vasele [pentru sânge] și Hiram a isprăvit de făcut toată lucrarea pe care o făcuse pentru regele Solomon, la Casa DOMNULUI",
+       "w": "lopețile și vasele [pentru sânge] și Hiram a isprăvit de făcut toată lucrarea pe care o făcuse pentru regele Solomon, la Casa DOMNULUI",
+       "heb": "וְאֶת הַיָּעִים וְאֶת הַמִּזְרָקוֹת וַיְכַל חִירָם לַעֲשׂוֹת אֶת כָּל הַמְּלָאכָה אֲשֶׁר עָשָׂה לַמֶּלֶךְ שְׁלֹמֹה בֵּית יְהוָה",
+       "translit": "veet haiaim veet hamizrakot vaihal hiram laasot et kal hamlaha așer asa lameleh șelomo bēt Adonai",
+       "strong": "H3257",
+       "pos": "marcă a complementului direct + substantiv + marcă a complementului direct + substantiv + verb, piel imperfect consecutiv + nume propriu + verb, qal infinitiv + marcă a complementului direct + substantiv construct + substantiv + particulă relativă + verb, qal perfect + substantiv + nume propriu + substantiv construct + nume propriu",
+       "def_ro": "și lopețile și vasele pentru sânge; și a isprăvit Hiram de făcut toată lucrarea pe care a făcut-o pentru regele Solomon, Casa DOMNULUI.",
+       "dict_ro": "Formula de încheiere marchează finalul complet al lucrării lui Hiram — tot ce urmează în versetele următoare e doar inventarul recapitulativ al obiectelor deja finalizate."
+      },
+      {
+       "t": ":"
       }
      ],
      "textCompare": [
@@ -60368,7 +60391,30 @@
      "translit": "Amudim șnayim vegulot hakotarot așer-al-roș haamudim ștayim vehasvachot ștayim lechasot et-ștei gulot hakotarot așer al-roș haamudim.",
      "tokens": [
       {
-       "t": "cei doi stâlpi și cele două globuri ale capitelurilor care se aflau în vârful stâlpilor; și cele două seturi ornamentale de rețele care acopereau cele două globuri ale capitelurilor care se aflau în vârful stâlpilor;"
+       "t": "cei doi stâlpi și cele două globuri ale capitelurilor care se aflau în vârful stâlpilor",
+       "w": "cei doi stâlpi și cele două globuri ale capitelurilor care se aflau în vârful stâlpilor",
+       "heb": "עַמֻּדִים שְׁנַיִם וְגֻלֹּת הַכֹּתָרֹת אֲשֶׁר עַל רֹאשׁ הָעַמֻּדִים שְׁתָּיִם",
+       "translit": "amudim șenaim vegulot hakotarot așer al roș haamudim șetaim",
+       "strong": "H5982",
+       "pos": "substantiv + numeral + substantiv plural construct + substantiv + particulă relativă + prepoziție + substantiv construct + substantiv + numeral",
+       "def_ro": "stâlpi doi și globurile capitelurilor care erau pe vârful stâlpilor, două.",
+       "dict_ro": "Metzudat Țion explică «gulot» («globuri») ca partea de jos a capitelului, a cărei lucrare era ca un vas — aceeași rădăcină folosită pentru vasul de ulei din viziunea sfeșnicului la Zaharia 4:2."
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "și cele două seturi ornamentale de rețele care acopereau cele două globuri ale capitelurilor care se aflau în vârful stâlpilor",
+       "w": "și cele două seturi ornamentale de rețele care acopereau cele două globuri ale capitelurilor care se aflau în vârful stâlpilor",
+       "heb": "וְהַשְּׂבָכוֹת שְׁתַּיִם לְכַסּוֹת אֶת שְׁתֵּי גֻּלֹּת הַכֹּתָרֹת אֲשֶׁר עַל רֹאשׁ הָעַמּוּדִים",
+       "translit": "vehasvahot șetaim lehasot et șetē gulot hakotarot așer al roș haamudim",
+       "strong": "H7639",
+       "pos": "substantiv + numeral + verb, piel infinitiv + marcă a complementului direct + numeral + substantiv plural construct + substantiv + particulă relativă + prepoziție + substantiv construct + substantiv",
+       "def_ro": "și rețelele, două, ca să acopere cele două globuri ale capitelurilor care erau pe vârful stâlpilor.",
+       "dict_ro": "Inventarul recapitulativ reia, verset cu verset, aceleași elemente descrise amănunțit în capitolul precedent — confirmarea finală că toate piesele au fost efectiv realizate, nu doar planificate."
+      },
+      {
+       "t": ";"
       }
      ],
      "textCompare": [
@@ -60420,7 +60466,20 @@
        "dict_ro": "Rimon — Rashi observă că suta de rodii pe fiecare rând, înmulțită cu cele două rânduri și cele două rețele, dă exact patru sute, cifra citată aici — o verificare aritmetică internă a textului, obișnuită la comentatorii medievali pentru pasajele cu inventare numerice detaliate."
       },
       {
-       "t": " [care împodobeau] cele două seturi ornamentale de rețele, cele două rânduri de rodii destinate fiecărui set, ca să acopere cele două globuri ale capitelurilor care se aflau în partea superioară a stâlpilor;"
+       "t": " "
+      },
+      {
+       "t": "[care împodobeau] cele două seturi ornamentale de rețele, cele două rânduri de rodii destinate fiecărui set, ca să acopere cele două globuri ale capitelurilor care se aflau în partea superioară a stâlpilor",
+       "w": "[care împodobeau] cele două seturi ornamentale de rețele, cele două rânduri de rodii destinate fiecărui set, ca să acopere cele două globuri ale capitelurilor care se aflau în partea superioară a stâlpilor",
+       "heb": "לִשְׁתֵּי הַשְּׂבָכוֹת שְׁנֵי טוּרִים רִמֹּנִים לַשְּׂבָכָה הָאֶחָת לְכַסּוֹת אֶת שְׁתֵּי גֻּלֹּת הַכֹּתָרֹת אֲשֶׁר עַל פְּנֵי הָעַמּוּדִים",
+       "translit": "liștē hasvahot șenē turim rimonim lasvaha haehat lehasot et șetē gulot hakotarot așer al penē haamudim",
+       "strong": "H8147",
+       "pos": "numeral construct + substantiv + numeral construct + substantiv + substantiv + substantiv + numeral + verb, piel infinitiv + marcă a complementului direct + numeral + substantiv plural construct + substantiv + particulă relativă + prepoziție + substantiv construct + substantiv",
+       "def_ro": "pentru cele două rețele, două rânduri de rodii pentru o rețea, ca să acopere cele două globuri ale capitelurilor care erau pe fața stâlpilor.",
+       "dict_ro": "Rashi precizează numărul exact: o sută de rodii în fiecare rând, atârnate de lanțuri — totalul de patru sute confirmă simetria perfectă a decorului celor doi stâlpi."
+      },
+      {
+       "t": ";"
       }
      ],
      "textCompare": [
@@ -60461,7 +60520,17 @@
      "translit": "Veet-hamechonot eser veet-hakiyorot asara al-hamechonot.",
      "tokens": [
       {
-       "t": "și cele zece socluri și cele zece ligheane care se aflau pe socluri;"
+       "t": "și cele zece socluri și cele zece ligheane care se aflau pe socluri",
+       "w": "și cele zece socluri și cele zece ligheane care se aflau pe socluri",
+       "heb": "וְאֶת הַמְּכֹנוֹת עָשֶׂר וְאֶת הַכִּיֹּרֹת עֲשָׂרָה עַל הַמְּכֹנוֹת",
+       "translit": "veet hamhonot aser veet hakiorot asara al hamhonot",
+       "strong": "H4350",
+       "pos": "marcă a complementului direct + substantiv + numeral + marcă a complementului direct + substantiv + numeral + prepoziție + substantiv",
+       "def_ro": "și soclurile, zece, și ligheanele, zece, pe socluri.",
+       "dict_ro": "Soclurile mobile și ligheanele lor corespunzătoare completează sistemul de curățire al Templului, distinct de «Marea» cea mare și fixă menționată imediat după."
+      },
+      {
+       "t": ";"
       }
      ],
      "textCompare": [
@@ -60489,7 +60558,17 @@
      "translit": "Veet-hayam haehad veet-habakar șneim-asar tahat hayam.",
      "tokens": [
       {
-       "t": "și „Marea” cea unică și cei doisprezece boi care se aflau sub „Mare”;"
+       "t": "și „Marea” cea unică și cei doisprezece boi care se aflau sub „Mare”",
+       "w": "și „Marea” cea unică și cei doisprezece boi care se aflau sub „Mare”",
+       "heb": "וְאֶת הַיָּם הָאֶחָד וְאֶת הַבָּקָר שְׁנֵים עָשָׂר תַּחַת הַיָּם",
+       "translit": "veet haiam haehad veet habakar șenēm asar tahat haiam",
+       "strong": "H3220",
+       "pos": "marcă a complementului direct + substantiv + numeral + marcă a complementului direct + substantiv + numeral + numeral + prepoziție + substantiv",
+       "def_ro": "și «Marea» cea una și boii, doisprezece, sub «Mare».",
+       "dict_ro": "Precizarea «cea unică» distinge această «Mare» mare, singulară, de cele zece ligheane mai mici menționate chiar înainte — un singur bazin central, susținut de cei doisprezece boi simbolici."
+      },
+      {
+       "t": ";"
       }
      ],
      "textCompare": [
@@ -60517,7 +60596,17 @@
      "translit": "Veet-hasirot veet-hayaím veet-hamizrakot veet kol-hakelim haele așer asa Hiram lameleh Șlomo beit ADONAI nehoșet memorat.",
      "tokens": [
       {
-       "t": "și oalele, și lopețile, și vasele [pentru sânge] – toate aceste vase pe care le-a făcut Hiram pentru regele Solomon, pentru Casa DOMNULUI, erau din "
+       "t": "și oalele, și lopețile, și vasele [pentru sânge] – toate aceste vase pe care le-a făcut Hiram pentru regele Solomon, pentru Casa DOMNULUI, erau din",
+       "w": "și oalele, și lopețile, și vasele [pentru sânge] – toate aceste vase pe care le-a făcut Hiram pentru regele Solomon, pentru Casa DOMNULUI, erau din",
+       "heb": "וְאֶת הַסִּירוֹת וְאֶת הַיָּעִים וְאֶת הַמִּזְרָקוֹת וְאֵת כָּל הַכֵּלִים הָאֵלֶּה אֲשֶׁר עָשָׂה חִירָם לַמֶּלֶךְ שְׁלֹמֹה בֵּית יְהוָה",
+       "translit": "veet hasirot veet haiaim veet hamizrakot veēt kal hakēlim haēle așer asa hiram lameleh șelomo bēt Adonai",
+       "strong": "H5518",
+       "pos": "marcă a complementului direct + substantiv (repetat de trei ori pentru oale/lopeți/vase) + marcă a complementului direct + substantiv construct + substantiv + pronume demonstrativ + particulă relativă + verb, qal perfect + nume propriu + substantiv + nume propriu + substantiv construct + nume propriu",
+       "def_ro": "și oalele și lopețile și vasele; toate aceste vase pe care le-a făcut Hiram pentru regele Solomon, Casa DOMNULUI.",
+       "dict_ro": "Radak explică faptul că, după chipul vaselor din Cortul Întâlnirii făcut de Moise, tot așa a făcut Hiram pentru Templul lui Solomon — continuitate tehnică deliberată între sanctuarul mobil al pustiei și cel permanent al Ierusalimului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "aramă lustruită",
@@ -60581,7 +60670,17 @@
      "translit": "Bechikar haYarden yetzakam hameleh bemaave haadama bein Sukot uvein Tzartan.",
      "tokens": [
       {
-       "t": "Regele le-a turnat în câmpia Iordanului, în "
+       "t": "Regele le-a turnat în câmpia Iordanului, în",
+       "w": "Regele le-a turnat în câmpia Iordanului, în",
+       "heb": "בְּכִכַּר הַיַּרְדֵּן יְצָקָם הַמֶּלֶךְ בְּמַעֲבֵה",
+       "translit": "behikar haiardēn iețakam hameleh bemaavē",
+       "strong": "H3603",
+       "pos": "substantiv construct + nume propriu + verb, qal perfect + sufix + substantiv + substantiv construct",
+       "def_ro": "în câmpia Iordanului le-a turnat regele, în grosimea.",
+       "dict_ro": "Alegerea câmpiei Iordanului ca loc de topire, departe de Ierusalim, arată logistica practică a lucrării: lutul necesar pentru formele de turnare se găsea din belșug exact în această regiune."
+      },
+      {
+       "t": " "
       },
       {
        "t": "clei tare",
@@ -60635,7 +60734,14 @@
      "translit": "Vayanah Șlomo et-kol-hakelim merov meod meod lo nehkar mișkal hanehoșet.",
      "tokens": [
       {
-       "t": "Solomon a lăsat toate vasele [necântărite], pentru că erau foarte multe; greutatea aramei nu a fost calculată."
+       "t": "Solomon a lăsat toate vasele [necântărite], pentru că erau foarte multe; greutatea aramei nu a fost calculată.",
+       "w": "Solomon a lăsat toate vasele [necântărite], pentru că erau foarte multe; greutatea aramei nu a fost calculată.",
+       "heb": "וַיַּנַּח שְׁלֹמֹה אֶת כָּל הַכֵּלִים מֵרֹב מְאֹד מְאֹד לֹא נֶחְקַר מִשְׁקַל הַנְּחֹשֶׁת",
+       "translit": "vaianah șelomo et kal hakēlim mērov meod meod lo nehkar mișkal hanhoșet",
+       "strong": "H3240",
+       "pos": "verb, hifil imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv construct + substantiv + substantiv + adverb (repetat) + particulă negativă + verb, nifal perfect + substantiv construct + substantiv",
+       "def_ro": "și a lăsat Solomon toate vasele, din pricina mulțimii lor foarte mari; nu s-a cercetat greutatea aramei.",
+       "dict_ro": "Rashi explică faptul că Solomon a încetat să mai cântărească greutatea vaselor tocmai pentru că erau atât de numeroase — repetarea dublă a lui «meod» («foarte») intensifică poetic amploarea de neconceput a cantității de aramă folosite."
       }
      ],
      "textCompare": [
@@ -60671,7 +60777,17 @@
      "translit": "Vayaas Șlomo et kol-hakelim așer beit ADONAI et mizbah hazahav veet-hașulhan așer alav lehem hapanim zahav.",
      "tokens": [
       {
-       "t": "Solomon a făcut toate vasele care erau în Casa DOMNULUI: altarul de aur, masa pe care era "
+       "t": "Solomon a făcut toate vasele care erau în Casa DOMNULUI: altarul de aur, masa pe care era",
+       "w": "Solomon a făcut toate vasele care erau în Casa DOMNULUI: altarul de aur, masa pe care era",
+       "heb": "וַיַּעַשׂ שְׁלֹמֹה אֵת כָּל הַכֵּלִים אֲשֶׁר בֵּית יְהוָה אֵת מִזְבַּח הַזָּהָב וְאֶת הַשֻּׁלְחָן אֲשֶׁר עָלָיו",
+       "translit": "vaiaas șelomo ēt kal hakēlim așer bēt Adonai ēt mizbah hazahav veet hașulhan așer alaiv",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv construct + substantiv + particulă relativă + substantiv construct + nume propriu + marcă a complementului direct + substantiv construct + substantiv + marcă a complementului direct + substantiv + particulă relativă + prepoziție + sufix",
+       "def_ro": "și a făcut Solomon toate vasele care erau [pentru] Casa DOMNULUI: altarul de aur și masa pe care era deasupra ei.",
+       "dict_ro": "Radak explică faptul că «masa» e un nume colectiv, căci Solomon a făcut în realitate zece mese, potrivit Cronicilor — Talmudul (Menahot 99a) precizează însă că numai pe masa originară a lui Moise se rânduia efectiv pâinea punerii înainte, celelalte nouă fiind doar ornamentale."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pâinea",
@@ -60749,7 +60865,20 @@
        "dict_ro": "Menora, aici la plural — spre deosebire de Cortul Întâlnirii, care avea o singură menora (Exodul 25:31), Templul lui Solomon are zece, câte cinci pe fiecare parte. Rashi păstrează o tradiție remarcabilă despre plasare: menora originală a lui Moise stătea în centru, iar cele zece noi erau așezate simetric, cinci în dreapta și cinci în stânga ei — nu ca înlocuitor, ci ca adaos de cinste în jurul celei vechi, sfinte prin însăși vechimea ei."
       },
       {
-       "t": ", cinci în dreapta și cinci în stânga, înaintea Sfintei Sfintelor – din aur curat; și mugurii, candelele și cleștii – din aur;"
+       "t": ", "
+      },
+      {
+       "t": "cinci în dreapta și cinci în stânga, înaintea Sfintei Sfintelor – din aur curat; și mugurii, candelele și cleștii – din aur",
+       "w": "cinci în dreapta și cinci în stânga, înaintea Sfintei Sfintelor – din aur curat; și mugurii, candelele și cleștii – din aur",
+       "heb": "חָמֵשׁ מִיָּמִין וְחָמֵשׁ מִשְּׂמֹאול לִפְנֵי הַדְּבִיר זָהָב סָגוּר וְהַפֶּרַח וְהַנֵּרֹת וְהַמֶּלְקַחַיִם זָהָב",
+       "translit": "hamēș miamin vehamēș mismovl lifnē hadvir zahav sagur vehaperah vehanērot vehamelkahaim zahav",
+       "strong": "H2568",
+       "pos": "numeral + substantiv + numeral + substantiv + substantiv construct + substantiv + substantiv + substantiv + substantiv + substantiv + substantiv + substantiv (repetat zahav)",
+       "def_ro": "cinci din dreapta și cinci din stânga, înaintea Sfintei Sfintelor, din aur curat; și mugurul și candelele și cleștii, din aur.",
+       "dict_ro": "Rashi rezolvă aparenta nepotrivire dintre cele zece sfeșnice noi și singura menora a lui Moise, explicând că menora originală a rămas la locul ei central, sfântă prin vechime, iar cele zece sfeșnice noi au fost adăugate simetric în jurul ei, ca podoabă suplimentară, nu ca înlocuire."
+      },
+      {
+       "t": ";"
       }
      ],
      "textCompare": [
@@ -60789,7 +60918,17 @@
      "translit": "Vehasipot vehamzamerot vehamizrakot vehakapot vehamachtot zahav sagur vehapotot ledaltot habayit hapenimi lekodeș hakodașim ledaltei habayit laheichal zahav.",
      "tokens": [
       {
-       "t": "și bolurile, instrumentele muzicale, vasele pentru sânge, lingurile și cădelnițele – din aur curat; iar "
+       "t": "și bolurile, instrumentele muzicale, vasele pentru sânge, lingurile și cădelnițele – din aur curat; iar",
+       "w": "și bolurile, instrumentele muzicale, vasele pentru sânge, lingurile și cădelnițele – din aur curat; iar",
+       "heb": "וְהַסִּפּוֹת וְהַמְזַמְּרוֹת וְהַמִּזְרָקוֹת וְהַכַּפּוֹת וְהַמַּחְתּוֹת זָהָב סָגוּר",
+       "translit": "vehasipot vehamzamrot vehamizrakot vehakapot vehamahtot zahav sagur",
+       "strong": "H5592",
+       "pos": "substantiv (repetat de cinci ori pentru fiecare tip de vas) + substantiv + substantiv",
+       "def_ro": "și bolurile și instrumentele muzicale și vasele pentru stropire și lingurile și cădelnițele, din aur curat.",
+       "dict_ro": "Rashi enumerează funcția fiecărui vas: cădelnițele pentru transferul cărbunilor aprinși, lingurile pentru tămâie, vasele pentru stropirea sângelui — fiecare obiect, chiar cel mai mic, era din aur curat, nu din aramă obișnuită."
+      },
+      {
+       "t": " "
       },
       {
        "t": "balamalele",
@@ -60805,7 +60944,20 @@
        "dict_ro": "Pot — Rashi identifică aceste balamale de aur drept țâțânile ușilor Sfintei Sfintelor și ale Sălii Templului; chiar și un element structural, funcțional, ascuns vederii curente (balamaua ușii), e făcut din aur curat — detaliu care subliniază caracterul integral, fără compromisuri, al lucrării Templului, nu doar la elementele vizibile ale ritului."
       },
       {
-       "t": " pentru camera cea mai din interiorul Templului, pentru Sfânta Sfintelor, pentru ușile Sălii Templului, erau din aur."
+       "t": " "
+      },
+      {
+       "t": "pentru camera cea mai din interiorul Templului, pentru Sfânta Sfintelor, pentru ușile Sălii Templului, erau din aur",
+       "w": "pentru camera cea mai din interiorul Templului, pentru Sfânta Sfintelor, pentru ușile Sălii Templului, erau din aur",
+       "heb": "לְדַלְתוֹת הַבַּיִת הַפְּנִימִי לְקֹדֶשׁ הַקֳּדָשִׁים לְדַלְתֵי הַבַּיִת לַהֵיכָל זָהָב",
+       "translit": "ledaltot habait hapnimi lekodeș hakodașim ledaltē habait lahēhal zahav",
+       "strong": "H1817",
+       "pos": "substantiv plural construct + substantiv + adjectiv + substantiv construct + substantiv + substantiv dual construct + substantiv + substantiv + substantiv",
+       "def_ro": "pentru ușile Templului celui interior, pentru Sfânta Sfintelor, pentru ușile Templului, pentru Sala Sfântă, din aur.",
+       "dict_ro": "Rashi identifică «potot» drept balamalele de aur ale ușilor Sfintei Sfintelor — semn că nici cel mai ascuns detaliu structural al Templului, invizibil pentru majoritatea celor care-l vizitau, n-a fost lăsat din alt metal decât aur curat."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
