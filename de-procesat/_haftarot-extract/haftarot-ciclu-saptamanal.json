@@ -57008,7 +57008,17 @@
      "translit": "Va-yehi yamim rabbim u-devar-Adonai hayah el-Eliyahu ba-shanah ha-shlishit lemor lekh hera'eh el-Achav ve-ettenah matar al-penei ha-adamah.",
      "tokens": [
       {
-       "t": "Și a fost, după multe zile: „Cuvântul DOMNULUI a venit la "
+       "t": "Și a fost, după multe zile: „Cuvântul DOMNULUI a venit la",
+       "w": "Și a fost, după multe zile: „Cuvântul DOMNULUI a venit la",
+       "heb": "וַיְהִי יָמִים רַבִּים וּדְבַר יְהוָה הָיָה אֶל",
+       "translit": "vaihi iamim rabim udvar Adonai haia el",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + substantiv + adjectiv + substantiv construct + nume propriu + verb, qal perfect + prepoziție",
+       "def_ro": "și a fost, zile multe, și cuvântul DOMNULUI a fost către.",
+       "dict_ro": "Talmudul (Sanhedrin 113a) povestește că Ilie a cerut îndurare să i se dea «cheia învierii morților», dar i s-a răspuns că trei chei — a nașterii, a ploilor și a învierii — nu se dau niciodată unui trimis; de aceea trebuie să ceară cheia ploii de la DOMNUL Însuși, nu să o folosească direct."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Eliahu",
@@ -57023,7 +57033,20 @@
        "dict_ro": "Eliyahu — numele însuși e o mărturisire de credință, program al întregii misiuni a profetului: confruntarea de pe Carmel nu face decât să demonstreze, cu foc din cer, exact ceea ce numele lui deja proclamă."
       },
       {
-       "t": ", în al treilea an, spunând: «Du-te și înfățișează-te lui Ahab și Eu voi trimite "
+       "t": ", "
+      },
+      {
+       "t": "în al treilea an, spunând: «Du-te și înfățișează-te lui Ahab și Eu voi trimite",
+       "w": "în al treilea an, spunând: «Du-te și înfățișează-te lui Ahab și Eu voi trimite",
+       "heb": "בַּשָּׁנָה הַשְּׁלִישִׁית לֵאמֹר לֵךְ הֵרָאֵה אֶל אַחְאָב וְאֶתְּנָה",
+       "translit": "bașana hașlișit lēmor lēh hēraē el ahav veetna",
+       "strong": "H8141",
+       "pos": "substantiv + numeral ordinal + verb, qal infinitiv + verb, qal imperativ + verb, nifal imperativ + prepoziție + nume propriu + verb, qal cohortativ",
+       "def_ro": "în anul al treilea, spunând: du-te, înfățișează-te lui Ahab, și voi da.",
+       "dict_ro": "Radak explică faptul că acesta e al treilea an de la oprirea ploilor — iar răspunsul divin vine abia acum pentru că, din pricina foametei, mulți s-au întors prin pocăință, pe lângă cei șapte mii care nu-și plecaseră genunchiul înaintea lui Baal."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ploaie",
@@ -57660,7 +57683,20 @@
        "dict_ro": "Ruach Adonai — temerea concretă a lui Ovadia: capacitatea supranaturală a lui Ilie de a fi „purtat” instantaneu, deja demonstrată în alte tradiții profetice (cf. Ezechiel 3:12, 8:3), face situația imprevizibilă și periculoasă pentru mesagerul care garantează prezența lui fixă."
       },
       {
-       "t": " te va purta undeva unde eu nu voi ști, și voi veni să îi spun lui Ahab, și el nu te va găsi și atunci mă va omorî. Dar slujitorul tău s-a temut de DOMNUL [încă] de pe vremea când eram "
+       "t": " te va purta "
+      },
+      {
+       "t": "undeva unde eu nu voi ști, și voi veni să îi spun lui Ahab, și el nu te va găsi și atunci mă va omorî. Dar slujitorul tău s-a temut de DOMNUL [încă] de pe vremea când eram",
+       "w": "undeva unde eu nu voi ști, și voi veni să îi spun lui Ahab, și el nu te va găsi și atunci mă va omorî. Dar slujitorul tău s-a temut de DOMNUL [încă] de pe vremea când eram",
+       "heb": "עַל אֲשֶׁר לֹא אֵדָע וּבָאתִי לְהַגִּיד לְאַחְאָב וְלֹא יִמְצָאֲךָ וַהֲרָגָנִי וְעַבְדְּךָ יָרֵא אֶת יְהוָה מִנְּעֻרָי",
+       "translit": "al așer lo ēda uvati lehagid leahav velo imțaaha vaharagani veavdeha iarē et Adonai minurai",
+       "strong": "H834",
+       "pos": "particulă relativă + particulă negativă + verb, qal imperfect + verb, qal perfect + verb, hifil infinitiv + nume propriu + particulă negativă + verb, qal imperfect + sufix + verb, qal perfect consecutiv + sufix + substantiv construct + sufix + adjectiv + nume propriu + substantiv construct + sufix",
+       "def_ro": "într-un loc pe care nu-l voi cunoaște, și voi veni să-i spun lui Ahab, și el nu te va găsi, și mă va ucide; dar slujitorul tău s-a temut de DOMNUL din tinerețea lui.",
+       "dict_ro": "Radak explică faptul că Ovadia credea cu adevărat că un «suflu al DOMNULUI» putea să-l ducă pe Ilie pe vreun munte, exact cum presupuneau mai târziu și ucenicii profetului Elisei despre învățătorul lor — un fenomen de răpire profetică socotit posibil și real în vremea aceea."
+      },
+      {
+       "t": " "
       },
       {
        "t": "tânăr",
@@ -58145,7 +58181,17 @@
      "translit": "Va-yiggash Eliyahu el-kol-ha-am va-yomer ad-matai attem posechim al-shtei ha-se'ippim im-Adonai ha-Elohim lekhu acharav ve-im-ha-Ba'al lekhu acharav ve-lo-anu ha-am oto davar.",
      "tokens": [
       {
-       "t": "Eliahu s-a apropiat de întreg poporul și a spus: „Până când veți mai "
+       "t": "Eliahu s-a apropiat de întreg poporul și a spus: „Până când veți mai",
+       "w": "Eliahu s-a apropiat de întreg poporul și a spus: „Până când veți mai",
+       "heb": "וַיִּגַּשׁ אֵלִיָּהוּ אֶל כָּל הָעָם וַיֹּאמֶר עַד מָתַי אַתֶּם",
+       "translit": "vaigaș ēliahu el kal haam vaiomer ad matai atem",
+       "strong": "H5066",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv construct + substantiv + verb, qal imperfect consecutiv + prepoziție + particulă interogativă + pronume personal",
+       "def_ro": "și s-a apropiat Ilie de tot poporul și a spus: până când voi.",
+       "dict_ro": "Confruntarea publică directă a lui Ilie cu întreg poporul, nu doar cu regele, marchează deschiderea provocării de pe Muntele Carmel — mustrarea e adresată colectiv, pentru indecizia religioasă a întregii națiuni."
+      },
+      {
+       "t": " "
       },
       {
        "t": "țopăi",
@@ -58174,7 +58220,14 @@
        "dict_ro": "Se'ippim, literal „ramuri, crengi” — metaforă vie: poporul e ca un om călărind pe două crengi diferite deodată, incapabil de a se decide ferm, o sincretism religios practicat inconștient, fără angajament clar de o parte sau alta."
       },
       {
-       "t": "? Dacă DOMNUL este Dumnezeu, atunci mergeți după El! Iar dacă este Baal, atunci mergeți după el!” Și poporul nu i-a răspuns nimic."
+       "t": "? Dacă DOMNUL este Dumnezeu, atunci mergeți după El! Iar dacă este Baal, atunci mergeți după el!” Și poporul nu i-a răspuns nimic.",
+       "w": "? Dacă DOMNUL este Dumnezeu, atunci mergeți după El! Iar dacă este Baal, atunci mergeți după el!” Și poporul nu i-a răspuns nimic.",
+       "heb": "אִם יְהוָה הָאֱלֹהִים לְכוּ אַחֲרָיו וְאִם הַבַּעַל לְכוּ אַחֲרָיו וְלֹא עָנוּ הָעָם אֹתוֹ דָּבָר",
+       "translit": "im Adonai haelohim lehu aharaiv veim habaal lehu aharaiv velo anu haam oto davar",
+       "strong": "H518",
+       "pos": "conjuncție + nume propriu + substantiv + verb, qal imperativ + prepoziție + sufix (repetat) + conjuncție + nume propriu + verb, qal imperativ + prepoziție + sufix + particulă negativă + verb, qal perfect + substantiv + marcă a complementului direct + sufix + substantiv",
+       "def_ro": "dacă DOMNUL e Dumnezeu, mergeți după El; și dacă Baal, mergeți după el; și nu i-a răspuns poporul niciun cuvânt.",
+       "dict_ro": "Rashi explică tăcerea poporului prin incapacitatea lor de a deosebi — «nu știau să hotărască cine e Dumnezeu» — indecizia colectivă descrisă aici pregătește exact demonstrația publică și decisivă care urmează pe altar."
       }
      ],
      "textCompare": [
@@ -58703,7 +58756,17 @@
      "translit": "Va-yomer Eliyahu le-khol-ha-am geshu elai va-yiggeshu khol-ha-am elav va-yerappe et-mizbach Adonai he-harus.",
      "tokens": [
       {
-       "t": "Eliahu a spus întregului popor: „Apropiați-vă de mine” și tot poporul s-a apropiat de el. El a "
+       "t": "Eliahu a spus întregului popor: „Apropiați-vă de mine” și tot poporul s-a apropiat de el. El a",
+       "w": "Eliahu a spus întregului popor: „Apropiați-vă de mine” și tot poporul s-a apropiat de el. El a",
+       "heb": "וַיֹּאמֶר אֵלִיָּהוּ לְכָל הָעָם גְּשׁוּ אֵלַי וַיִּגְּשׁוּ כָל הָעָם אֵלָיו וַיְ",
+       "translit": "vaiomer ēliahu lehal haam geșu ēlai vaigșu hal haam ēlaiv vai",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + substantiv construct + substantiv + verb, qal imperativ + prepoziție + sufix + verb, qal imperfect consecutiv + substantiv construct + substantiv + prepoziție + sufix",
+       "def_ro": "și a spus Ilie întregului popor: apropiați-vă de mine; și s-a apropiat tot poporul de el; și a.",
+       "dict_ro": "Chemarea întregului popor să se apropie, înainte de refacerea altarului, transformă demonstrația într-un act public martor — toți trebuie să vadă cu ochii lor procesul complet, nu doar rezultatul final."
+      },
+      {
+       "t": " "
       },
       {
        "t": "refăcut",
@@ -58754,7 +58817,17 @@
      "translit": "Vayikah Eliahu șteim esre avanim kemispar șivtei venei-Yaakov așer haya devar-ADONAI elav lemor Israël yihye șemecha.",
      "tokens": [
       {
-       "t": "Eliahu a luat douăsprezece "
+       "t": "Eliahu a luat douăsprezece",
+       "w": "Eliahu a luat douăsprezece",
+       "heb": "וַיִּקַּח אֵלִיָּהוּ שְׁתֵּים עֶשְׂרֵה",
+       "translit": "vaikah ēliahu șetēm esrē",
+       "strong": "H3947",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + numeral + numeral",
+       "def_ro": "și a luat Ilie douăsprezece.",
+       "dict_ro": "Alegerea exactă a numărului de pietre, corespunzător triburilor, transformă altarul refăcut într-un simbol al unității întregului Israel, nu doar al celor prezenți pe munte."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pietre",
@@ -58769,7 +58842,20 @@
        "dict_ro": "Even, „piatră” — alegerea numărului doisprezece, câte una pentru fiecare trib, are un precedent direct: Moise ridică doisprezece stâlpi la poalele Sinaiului (Exodul 24:4), iar Iosua așază douăsprezece pietre din Iordan la Ghilgal (Iosua 4:20). Gestul lui Ilie afirmă simbolic unitatea celor douăsprezece triburi — deși zece dintre ele trăiau la acea vreme separat, în regatul de nord — printr-un act de cult centrat pe Muntele Carmel."
       },
       {
-       "t": ", după numărul triburilor copiilor lui Iacov, la care venise cuvântul DOMNULUI, spunând: „Numele tău va fi "
+       "t": ", "
+      },
+      {
+       "t": "după numărul triburilor copiilor lui Iacov, la care venise cuvântul DOMNULUI, spunând: „Numele tău va fi",
+       "w": "după numărul triburilor copiilor lui Iacov, la care venise cuvântul DOMNULUI, spunând: „Numele tău va fi",
+       "heb": "כְּמִסְפַּר שִׁבְטֵי בְנֵי יַעֲקֹב אֲשֶׁר הָיָה דְבַר יְהוָה אֵלָיו לֵאמֹר יִשְׂרָאֵל יִהְיֶה שְׁמֶךָ",
+       "translit": "kemispar șivtē venē iaakov așer haia devar Adonai ēlaiv lēmor israēl ihie șemeha",
+       "strong": "H4557",
+       "pos": "substantiv construct + substantiv plural construct + substantiv plural construct + nume propriu + particulă relativă + verb, qal perfect + substantiv construct + nume propriu + prepoziție + sufix + verb, qal infinitiv + nume propriu + verb, qal imperfect + substantiv construct + sufix",
+       "def_ro": "după numărul triburilor fiilor lui Iacov, căruia îi venise cuvântul DOMNULUI, spunând: Israel va fi numele tău.",
+       "dict_ro": "Rashi explică legătura: în ziua când Prezența lui Dumnezeu i S-a descoperit lui Iacov la Betel și l-a numit Israel, i-a spus și «un neam și o ceată de neamuri se vor naște din tine» — fiii lui, adunați din nou ca atunci, zidesc acum un altar în vremea când înălțimile sunt altfel oprite, iar DOMNUL primește lucrul cu bunăvoință."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Israel",
@@ -59034,7 +59120,30 @@
      "translit": "Vayehi baalot haminha vayigaș Eliahu hanavi vayomar ADONAI Elohei Avraham Yițhak veIsraël hayom yivada ki-ata Elohim beIsraël vaani avdecha uvidvar'cha asiti et kol-hadevarim haele.",
      "tokens": [
       {
-       "t": "La vremea jertfei de după-amiază, profetul Eliahu s-a apropiat și a spus: „DOAMNE, Dumnezeul lui Avraham, Isaac și Israel, astăzi se va ști că Tu ești Dumnezeu în Israel și că eu sunt slujitorul Tău și că după "
+       "t": "La vremea jertfei de după-amiază, profetul Eliahu s-a apropiat și a spus",
+       "w": "La vremea jertfei de după-amiază, profetul Eliahu s-a apropiat și a spus",
+       "heb": "וַיְהִי בַּעֲלוֹת הַמִּנְחָה וַיִּגַּשׁ אֵלִיָּהוּ הַנָּבִיא וַיֹּאמַר",
+       "translit": "vaihi baalot haminha vaigaș ēliahu hanavi vaiomar",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + verb, qal infinitiv + substantiv + verb, qal imperfect consecutiv + nume propriu + substantiv + verb, qal imperfect consecutiv",
+       "def_ro": "și a fost, la aducerea darului de seară, că s-a apropiat Ilie profetul și a spus.",
+       "dict_ro": "Momentul exact — vremea jertfei de după-amiază din Templu — leagă rugăciunea lui Ilie de ceasul liturgic consacrat, chiar dacă locul e un altar de pe munte, nu Templul din Ierusalim."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "DOAMNE, Dumnezeul lui Avraham, Isaac și Israel, astăzi se va ști că Tu ești Dumnezeu în Israel și că eu sunt slujitorul Tău",
+       "w": "DOAMNE, Dumnezeul lui Avraham, Isaac și Israel, astăzi se va ști că Tu ești Dumnezeu în Israel și că eu sunt slujitorul Tău",
+       "heb": "יְהוָה אֱלֹהֵי אַבְרָהָם יִצְחָק וְיִשְׂרָאֵל הַיּוֹם יִוָּדַע כִּי אַתָּה אֱלֹהִים בְּיִשְׂרָאֵל וַאֲנִי עַבְדֶּךָ",
+       "translit": "Adonai elohē avraham ițhak veisraēl haiom ivada ki ata elohim beisraēl vaani avdeha",
+       "strong": "H3068",
+       "pos": "nume propriu + substantiv construct + nume propriu (repetat de trei ori) + substantiv + verb, nifal jusiv + conjuncție + pronume personal + substantiv + nume propriu + pronume personal + substantiv construct + sufix",
+       "def_ro": "DOAMNE, Dumnezeul lui Avraam, Isaac și Israel, astăzi să se cunoască că Tu ești Dumnezeu în Israel și eu [sunt] slujitorul Tău.",
+       "dict_ro": "Invocarea celor trei patriarhi, aceeași formulă folosită și la pregătirea celor douăsprezece vase de apă (câte patru pentru fiecare patriarh, potrivit lui Radak), leagă explicit minunea de pe Carmel de legământul fondator al poporului, nu doar de o confruntare personală cu Baal."
+      },
+      {
+       "t": " și că după "
       },
       {
        "t": "cuvântul Tău",
