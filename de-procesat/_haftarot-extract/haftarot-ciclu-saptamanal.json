@@ -66093,7 +66093,17 @@
      "translit": "Vayosef od David et-kol-bahur beIsraël șeloșim alef.",
      "tokens": [
       {
-       "t": "David i-a adunat "
+       "t": "David i-a adunat",
+       "w": "David i-a adunat",
+       "heb": "וַיֹּסֶף דָּוִד",
+       "translit": "vaiosef david",
+       "strong": "H622",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "și a adunat din nou David.",
+       "dict_ro": "Rashi explică faptul că poporul se adunase deja la David când l-au făcut rege la Hebron — aceasta fiind a doua adunare, de aceea textul precizează explicit «din nou»."
+      },
+      {
+       "t": " "
       },
       {
        "t": "din nou",
@@ -66109,7 +66119,17 @@
        "dict_ro": "Iasaf od — Rashi explică precis „din nou”: poporul se strânsese deja o dată în jurul lui David când l-au uns rege la Hebron; aceasta este a doua adunare, distinctă de cea dintâi, de aceea textul marchează explicit repetiția cu „din nou”, nu doar „a adunat”."
       },
       {
-       "t": " pe toți aleșii din Israel, treizeci de mii [la număr]."
+       "t": " "
+      },
+      {
+       "t": "pe toți aleșii din Israel, treizeci de mii [la număr].",
+       "w": "pe toți aleșii din Israel, treizeci de mii [la număr].",
+       "heb": "אֶת כָּל בָּחוּר בְּיִשְׂרָאֵל שְׁלֹשִׁים אָלֶף",
+       "translit": "et kal bahur beisraēl șeloșim alef",
+       "strong": "H3605",
+       "pos": "marcă a complementului direct + substantiv construct + verb, qal participiu pasiv + nume propriu + numeral + numeral",
+       "def_ro": "pe tot cel ales în Israel, treizeci de mii.",
+       "dict_ro": "Metzudat David explică faptul că mulți se adunau deja la David de la începutul domniei sale, de aceea textul precizează că a mai adunat «din nou» un grup ales, special pentru ridicarea Chivotului."
       }
      ],
      "textCompare": [
@@ -66151,7 +66171,17 @@
      "translit": "Vayakom vaieleh David vechol-haam așer ito miBaalei Yehuda lehaalot mișam et aron haElohim așer-nikra șem șem ADONAI Țevaot yoșev hakeruvim alav.",
      "tokens": [
       {
-       "t": "Apoi David s-a ridicat și a mers, împreună cu tot poporul care era cu el, de la "
+       "t": "Apoi David s-a ridicat și a mers, împreună cu tot poporul care era cu el, de la",
+       "w": "Apoi David s-a ridicat și a mers, împreună cu tot poporul care era cu el, de la",
+       "heb": "וַיָּקָם וַיֵּלֶךְ דָּוִד וְכָל הָעָם אֲשֶׁר אִתּוֹ",
+       "translit": "vaiakam vaiēleh david vehal haam așer ito",
+       "strong": "H6965",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + nume propriu + substantiv construct + substantiv + particulă relativă + prepoziție + sufix",
+       "def_ro": "și s-a ridicat și a mers David și tot poporul care era cu el, de la.",
+       "dict_ro": "Rashi identifică «Baalei Iuda» cu Chiriat-Iearim, confirmat atât la Iosua 15:9 cât și la 1 Cronici 13:6 — același loc numit în ambele texte prin denumirea sa dublă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Baalei-Iuda",
@@ -66165,7 +66195,17 @@
        "dict_ro": "Baale Yehuda — Rashi identifică locul, citând Iosua 15:9 și 1 Cronici 13:6, drept un alt nume pentru Chiriat-Iearim, unde Chivotul fusese adus și păstrat de la înfrângerea filistenilor (1 Samuel 7:1); cuvântul „baal” aici are, după Rashi, sensul de „câmpie/loc neted”, nu de zeitate."
       },
       {
-       "t": ", ca să ridice de acolo Chivotul lui Dumnezeu asupra căruia este invocat numele – numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi, este asupra lui."
+       "t": ", "
+      },
+      {
+       "t": "ca să ridice de acolo Chivotul lui Dumnezeu asupra căruia este invocat numele – numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi, este asupra lui.",
+       "w": "ca să ridice de acolo Chivotul lui Dumnezeu asupra căruia este invocat numele – numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi, este asupra lui.",
+       "heb": "לְהַעֲלוֹת מִשָּׁם אֵת אֲרוֹן הָאֱלֹהִים אֲשֶׁר נִקְרָא שֵׁם שֵׁם יְהוָה צְבָאוֹת יֹשֵׁב הַכְּרֻבִים עָלָיו",
+       "translit": "lehaalot mișam ēt aron haelohim așer nikra șēm șēm Adonai țevaot ioșēv hakruvim alaiv",
+       "strong": "H5927",
+       "pos": "verb, hifil infinitiv + adverb + marcă a complementului direct + substantiv construct + substantiv + particulă relativă + verb, nifal perfect + substantiv + substantiv construct + nume propriu + substantiv + verb, qal participiu + substantiv + prepoziție + sufix",
+       "def_ro": "ca să ridice de acolo Chivotul lui Dumnezeu, asupra căruia e chemat numele, numele DOMNULUI Oștirilor, care șade pe heruvimi, asupra lui.",
+       "dict_ro": "Titlul complet al Chivotului — «numele DOMNULUI, Stăpânul Oștirilor, întronat pe heruvimi» — îl identifică explicit ca tronul pământesc al prezenței divine, nu un simplu obiect sacru de transportat."
       }
      ],
      "textCompare": [
@@ -66205,7 +66245,17 @@
      "translit": "Vayarkivu et-aron haElohim el-agala hadașa vaisauhu mibeit Avinadav așer bagiva veUza veAhio benei Avinadav nohagim et-haagala hadașa.",
      "tokens": [
       {
-       "t": "Și au pus Chivotul lui Dumnezeu într-un "
+       "t": "Și au pus Chivotul lui Dumnezeu într-un",
+       "w": "Și au pus Chivotul lui Dumnezeu într-un",
+       "heb": "וַיַּרְכִּבוּ אֶת אֲרוֹן הָאֱלֹהִים אֶל",
+       "translit": "vaiarkivu et aron haelohim el",
+       "strong": "H7392",
+       "pos": "verb, hifil imperfect consecutiv + marcă a complementului direct + substantiv construct + substantiv + prepoziție",
+       "def_ro": "și au suit Chivotul lui Dumnezeu pe un.",
+       "dict_ro": "Rashi explică greșeala fundamentală comisă aici: Chivotul trebuia purtat pe umeri de leviți, «căci slujba sfântă e a lor» (Numeri 7:9), nu transportat într-un car — o eroare pe care, spune Rashi, chiar copiii de la școală o cunoșteau."
+      },
+      {
+       "t": " "
       },
       {
        "t": "car nou",
@@ -66220,7 +66270,17 @@
        "dict_ro": "Agala — greșeala fatală a lui David, spune Rashi, e una pe care „chiar copiii de școală o cunosc”: legea spune explicit că lucrurile sfinte trebuie purtate pe umeri (Numeri 7:9), nu transportate cu carul, oricât de nou. Metoda carului fusese folosită anterior doar de filisteni (1 Samuel 6:7), care nu erau ținuți de Lege — copierea metodei lor păgâne, nu a poruncii mozaice, e sursa reală a tragediei care urmează."
       },
       {
-       "t": " și l-au purtat din casa lui Avinadav care era pe deal, iar Uza și Ahio, fiii lui Avinadav, conduceau carul cel nou."
+       "t": " "
+      },
+      {
+       "t": "și l-au purtat din casa lui Avinadav care era pe deal, iar Uza și Ahio, fiii lui Avinadav, conduceau carul cel nou.",
+       "w": "și l-au purtat din casa lui Avinadav care era pe deal, iar Uza și Ahio, fiii lui Avinadav, conduceau carul cel nou.",
+       "heb": "וַיִּשָּׂאֻהוּ מִבֵּית אֲבִינָדָב אֲשֶׁר בַּגִּבְעָה וְעֻזָּא וְאַחְיוֹ בְּנֵי אֲבִינָדָב נֹהֲגִים אֶת הָעֲגָלָה חֲדָשָׁה",
+       "translit": "vaisauhu mibēt avinadav așer bagiva veuza veahio benē avinadav nohagim et haagala hadașa",
+       "strong": "H5375",
+       "pos": "verb, qal imperfect consecutiv + sufix + substantiv construct + nume propriu + particulă relativă + substantiv + nume propriu + nume propriu + substantiv plural construct + nume propriu + verb, qal participiu + marcă a complementului direct + substantiv + adjectiv",
+       "def_ro": "și l-au purtat din casa lui Avinadav, care era pe deal, și Uza și Ahio, fiii lui Avinadav, conducând carul cel nou.",
+       "dict_ro": "Rashi leagă greșeala lui David de propriile sale cuvinte din Psalmul 119:54 — «cântări au fost pentru mine hotărârile Tale, în casa pribegiei mele» — pentru care a fost pedepsit să vadă moartea lui Uza chiar prin mâna lui."
       }
      ],
      "textCompare": [
@@ -66257,7 +66317,17 @@
      "translit": "Vaisauhu mibeit Avinadav așer bagiva im aron haElohim veAhio holech lifnei haaron.",
      "tokens": [
       {
-       "t": "Și l-au purtat din casa lui Avinadav, care era pe deal, împreună cu Chivotul lui Dumnezeu, iar Ahio mergea "
+       "t": "Și l-au purtat din casa lui Avinadav, care era pe deal, împreună cu Chivotul lui Dumnezeu, iar Ahio mergea",
+       "w": "Și l-au purtat din casa lui Avinadav, care era pe deal, împreună cu Chivotul lui Dumnezeu, iar Ahio mergea",
+       "heb": "וַיִּשָּׂאֻהוּ מִבֵּית אֲבִינָדָב אֲשֶׁר בַּגִּבְעָה עִם אֲרוֹן הָאֱלֹהִים וְאַחְיוֹ הֹלֵךְ",
+       "translit": "vaisauhu mibēt avinadav așer bagiva im aron haelohim veahio holēh",
+       "strong": "H5375",
+       "pos": "verb, qal imperfect consecutiv + sufix + substantiv construct + nume propriu + particulă relativă + substantiv + prepoziție + substantiv construct + substantiv + nume propriu + verb, qal participiu",
+       "def_ro": "și l-au purtat din casa lui Avinadav, care era pe deal, cu Chivotul lui Dumnezeu, și Ahio mergea.",
+       "dict_ro": "Metzudat David explică faptul că Ahio mergea înaintea carului pentru a conduce boii din față, pe când Uza mergea alături de Chivot — de aceea doar Uza a simțit clătinarea boilor, iar Ahio, fiind înainte, nu și-a dat seama."
+      },
+      {
+       "t": " "
       },
       {
        "t": "înaintea",
@@ -66312,7 +66382,17 @@
      "translit": "VeDavid vechol-beit Israël mesahakim lifnei ADONAI bechol atzei veroșim uvechinorot uvinvalim uvetupim uvimenaanim uvetzeltzelim.",
      "tokens": [
       {
-       "t": "Și David și toată casa lui Israel jucau înaintea DOMNULUI cu tot [soiul de] instrumente din "
+       "t": "Și David și toată casa lui Israel jucau înaintea DOMNULUI cu tot [soiul de] instrumente din",
+       "w": "Și David și toată casa lui Israel jucau înaintea DOMNULUI cu tot [soiul de] instrumente din",
+       "heb": "וְדָוִד וְכָל בֵּית יִשְׂרָאֵל מְשַׂחֲקִים לִפְנֵי יְהוָה בְּכֹל",
+       "translit": "vedavid vehal bēt israēl mesahakim lifnē Adonai behol",
+       "strong": "H1732",
+       "pos": "nume propriu + substantiv construct + substantiv construct + nume propriu + verb, piel participiu + substantiv construct + nume propriu + substantiv construct",
+       "def_ro": "și David și toată casa lui Israel jucau înaintea DOMNULUI cu toate.",
+       "dict_ro": "Rashi explică faptul că aceste instrumente erau lucrate din lemn de chiparos — detaliul material al construcției lor arată grija artizanală pusă în crearea lor special pentru acest moment solemn."
+      },
+      {
+       "t": " "
       },
       {
        "t": "lemn de chiparos",
@@ -66326,7 +66406,17 @@
        "dict_ro": "Beroș — Rashi precizează că expresia nu descrie pădurea prin care treceau, ci materialul din care erau confecționate instrumentele muzicale înșirate imediat după — harpe, lire, tobe, tamburine, talgere — toate lucrate din lemn de chiparos, cunoscut pentru rezonanța lui bună."
       },
       {
-       "t": ", și cu harpe, și cu lire, și cu tobe, și cu tamburine, și cu talgere."
+       "t": ", "
+      },
+      {
+       "t": "și cu harpe, și cu lire, și cu tobe, și cu tamburine, și cu talgere.",
+       "w": "și cu harpe, și cu lire, și cu tobe, și cu tamburine, și cu talgere.",
+       "heb": "וּבְכִנֹּרוֹת וּבִנְבָלִים וּבְתֻפִּים וּבִמְנַעַנְעִים וּבְצֶלְצֶלִים",
+       "translit": "uvhinorot uvinvalim uvtupim uvimnaanim uvțelțelim",
+       "strong": "H3658",
+       "pos": "substantiv plural + substantiv plural + substantiv plural + substantiv plural + substantiv plural",
+       "def_ro": "și cu lire, și cu harpe, și cu tobe, și cu zurgălăi, și cu talgere.",
+       "dict_ro": "Enumerarea celor cinci instrumente diferite arată amploarea orchestrației muzicale care a acompaniat procesiunea Chivotului — o sărbătoare de proporții naționale, nu un ceremonial restrâns."
       }
      ],
      "textCompare": [
@@ -66366,7 +66456,17 @@
      "translit": "Vayavou ad-goren Nachon vayișlah Uza el-aron haElohim vayohez bo ki șamtu habakar.",
      "tokens": [
       {
-       "t": "Au ajuns la aria lui Nahon, și Uza s-a întins către Chivotul lui Dumnezeu și l-a "
+       "t": "Au ajuns la aria lui Nahon, și Uza s-a întins către Chivotul lui Dumnezeu și l-a",
+       "w": "Au ajuns la aria lui Nahon, și Uza s-a întins către Chivotul lui Dumnezeu și l-a",
+       "heb": "וַיָּבֹאוּ עַד גֹּרֶן נָכוֹן וַיִּשְׁלַח עֻזָּא אֶל אֲרוֹן הָאֱלֹהִים",
+       "translit": "vaiavou ad goren nahon vaișlah uza el aron haelohim",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv construct + nume propriu + verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv construct + substantiv",
+       "def_ro": "și au venit până la aria lui Nahon, și a întins Uza [mâna] către Chivotul lui Dumnezeu.",
+       "dict_ro": "Rashi explică «ki șametu habakar» — căci boii l-au clătinat și l-au mișcat — confirmând exact motivul gestului lui Uza: teama instinctivă, nu o intenție sacrilegă deliberată."
+      },
+      {
+       "t": " "
       },
       {
        "t": "apucat",
@@ -66381,7 +66481,17 @@
        "dict_ro": "Ahaz — Metzudat David explică motivul gestului: Uza a crezut că Chivotul e pe cale să cadă din car, din pricina zdruncinării provocate de boi, și a întins mâna instinctiv ca să-l țină — un gest omenește explicabil, dar care presupunea o neîncredere implicită în capacitatea Chivotului de a se apăra singur, sfințenia lui fiind mai presus de nevoia de sprijin fizic omenesc."
       },
       {
-       "t": ", căci boii îl mișcaseră."
+       "t": ", "
+      },
+      {
+       "t": "căci boii îl mișcaseră.",
+       "w": "căci boii îl mișcaseră.",
+       "heb": "כִּי שָׁמְטוּ הַבָּקָר",
+       "translit": "ki șamtu habakar",
+       "strong": "H8058",
+       "pos": "conjuncție + verb, qal perfect + substantiv",
+       "def_ro": "căci l-au clătinat boii.",
+       "dict_ro": "Metzudat David explică faptul că Uza și-a întins mâna crezând că, dacă boii îl clatină, Chivotul va cădea la pământ — un gest de protecție instinctivă, nu de nesocotire a sfințeniei lui."
       }
      ],
      "textCompare": [
@@ -66421,7 +66531,17 @@
      "translit": "Vayihar-af ADONAI beUza vayakehu șam haElohim al-hașal vayamat șam im aron haElohim.",
      "tokens": [
       {
-       "t": "Mânia DOMNULUI s-a aprins împotriva lui Uza și Dumnezeu l-a lovit acolo pentru "
+       "t": "Mânia DOMNULUI s-a aprins împotriva lui Uza și Dumnezeu l-a lovit acolo pentru",
+       "w": "Mânia DOMNULUI s-a aprins împotriva lui Uza și Dumnezeu l-a lovit acolo pentru",
+       "heb": "וַיִּחַר אַף יְהוָה בְּעֻזָּה וַיַּכֵּהוּ שָ�ם הָאֱלֹהִים עַל",
+       "translit": "vaihar af Adonai beuza vaiakēhu șam haelohim al",
+       "strong": "H2734",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + nume propriu + prepoziție + nume propriu + verb, hifil imperfect consecutiv + sufix + adverb + substantiv + prepoziție",
+       "def_ro": "și s-a aprins mânia DOMNULUI împotriva lui Uza, și l-a lovit acolo Dumnezeu pentru.",
+       "dict_ro": "Rashi explică faptul că greșeala lui Uza a fost una «neintenționată» (hașal), căci ar fi trebuit să raționeze a fortiori: dacă cei ce l-au purtat prin Iordan n-au trebuit să-l atingă cu mâna, cu atât mai mult el n-ar fi trebuit s-o facă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "greșeală",
@@ -66435,7 +66555,17 @@
        "dict_ro": "Șal — cuvânt extrem de rar (hapax legomenon în această formă), pe care Rashi îl citește ca „șgaga” (greșeală neintenționată, din neștiință) — Uza n-a acționat din răutate, ci dintr-o judecată greșită pe care ar fi trebuit s-o evite printr-un raționament simplu, a fortiori (kal vahomer): dacă cei ce purtau Chivotul pe umeri l-au trecut cu bine prin Iordan fără să-l atingă, cu atât mai puțin era nevoie ca el să-l atingă acum, pe uscat."
       },
       {
-       "t": ", și Uza a murit acolo, alături de Chivotul lui Dumnezeu."
+       "t": ", "
+      },
+      {
+       "t": "și Uza a murit acolo, alături de Chivotul lui Dumnezeu.",
+       "w": "și Uza a murit acolo, alături de Chivotul lui Dumnezeu.",
+       "heb": "וַיָּמָת שָׁם עִם אֲרוֹן הָאֱלֹהִים",
+       "translit": "vaiamat șam im aron haelohim",
+       "strong": "H4191",
+       "pos": "verb, qal imperfect consecutiv + adverb + prepoziție + substantiv construct + substantiv",
+       "def_ro": "și a murit acolo, cu Chivotul lui Dumnezeu.",
+       "dict_ro": "Metzudat David explică faptul că mânia DOMNULUI s-a aprins pentru puțina încredere a lui Uza, care a gândit că Chivotul ar putea cădea la pământ — ca și cum ar fi uitat sfințenia și puterea proprie a obiectului pe care îl proteja."
       }
      ],
      "textCompare": [
@@ -66477,7 +66607,17 @@
      "translit": "Vayihar leDavid al așer paratz ADONAI peretz beUza vayikra lamakom hahu Peretz Uza ad hayom haze.",
      "tokens": [
       {
-       "t": "David s-a mâniat de "
+       "t": "David s-a mâniat de",
+       "w": "David s-a mâniat de",
+       "heb": "וַיִּחַר לְדָוִד עַל אֲשֶׁר פָּרַץ יְהוָה",
+       "translit": "vaihar ledavid al așer paraț Adonai",
+       "strong": "H2734",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + particulă relativă + verb, qal perfect + nume propriu",
+       "def_ro": "și s-a mâhnit David pentru că a făcut spărtură DOMNUL.",
+       "dict_ro": "Metzudat David explică faptul că David s-a mâhnit și s-a tulburat pentru sine, în felul celui strâmtorat și înspăimântat, la fel cum se spune despre Samuel la 1 Samuel 15:11 — reacția e de neliniște personală, nu de revoltă față de judecata divină."
+      },
+      {
+       "t": " "
       },
       {
        "t": "răbufnirea",
@@ -66492,7 +66632,17 @@
        "dict_ro": "Peretz — literal „spărtură”, imaginea unei bariere care cedează brusc sub presiune; Metzudat David citește „vayihar leDavid” nu ca mânie a lui David împotriva lui Dumnezeu, ci ca o tulburare interioară îndreptată spre sine însuși, în felul în care „vayihar leȘmuel” (1 Samuel 15:11) descrie neliniștea lui Samuel, nu furia lui — David e zguduit și îngrozit, nu supărat pe DOMNUL."
       },
       {
-       "t": " cu care DOMNUL răbufnise împotriva lui Uza și a numit locul acela Pereț-Uza (n.t. Răbufnirea [contra] lui Uza), până în ziua de astăzi."
+       "t": " "
+      },
+      {
+       "t": "cu care DOMNUL răbufnise împotriva lui Uza și a numit locul acela Pereț-Uza (n.t. Răbufnirea [contra] lui Uza), până în ziua de astăzi.",
+       "w": "cu care DOMNUL răbufnise împotriva lui Uza și a numit locul acela Pereț-Uza (n.t. Răbufnirea [contra] lui Uza), până în ziua de astăzi.",
+       "heb": "בְּעֻזָּה וַיִּקְרָא לַמָּקוֹם הַהוּא פֶּרֶץ עֻזָּה עַד הַיּוֹם הַזֶּה",
+       "translit": "beuza vaikra lamakom hahu pereț uza ad haiom haze",
+       "strong": "H5798",
+       "pos": "nume propriu + verb, qal imperfect consecutiv + substantiv + pronume demonstrativ + nume propriu + nume propriu + prepoziție + substantiv + pronume demonstrativ",
+       "def_ro": "împotriva lui Uza, și a chemat locul acela Pereț-Uza, până în ziua aceasta.",
+       "dict_ro": "Numele locului, păstrat «până în ziua de astăzi», fixează permanent în memoria colectivă acest eveniment, transformând neliniștea momentană a lui David într-un reper geografic durabil."
       }
      ],
      "textCompare": [
@@ -66528,7 +66678,17 @@
      "translit": "Vayira David et-ADONAI bayom hahu vaiomer eich yavo elai aron ADONAI.",
      "tokens": [
       {
-       "t": "Și David s-a temut de DOMNUL în ziua aceea și a spus: „Cum să "
+       "t": "Și David s-a temut de DOMNUL în ziua aceea și a spus: „Cum să",
+       "w": "Și David s-a temut de DOMNUL în ziua aceea și a spus: „Cum să",
+       "heb": "וַיִּרָא דָוִד אֶת יְהוָה בַּיּוֹם הַהוּא וַיֹּאמֶר אֵיךְ",
+       "translit": "vaira david et Adonai baiom hahu vaiomer ēh",
+       "strong": "H3372",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + nume propriu + substantiv + pronume demonstrativ + verb, qal imperfect consecutiv + particulă interogativă",
+       "def_ro": "și s-a temut David de DOMNUL în ziua aceea și a spus: cum.",
+       "dict_ro": "Metzudat David explică faptul că David s-a gândit că nu se poate păzi cu adevărat sfințenia Chivotului — frica lui nu e de DOMNUL Însuși, ci de propria incapacitate de a-I găzdui prezența corect."
+      },
+      {
+       "t": " "
       },
       {
        "t": "vină",
@@ -66543,7 +66703,17 @@
        "dict_ro": "Bo — Metzudat David explică teama lui David nu ca o îndoială privind valoarea Chivotului, ci ca o conștientizare bruscă a riscului practic al sfințeniei sale: dacă un act aparent minor precum atingerea Chivotului a adus moarte instantanee, David se întreabă legitim cum ar putea asigura o găzduire corespunzătoare, fără riscul unei noi greșeli fatale — aceeași teamă structurală ce apare la filisteni în 1 Samuel 6:20."
       },
       {
-       "t": " Chivotul DOMNULUI la mine?”"
+       "t": " "
+      },
+      {
+       "t": "Chivotul DOMNULUI la mine?”",
+       "w": "Chivotul DOMNULUI la mine?”",
+       "heb": "אֵלַי אֲרוֹן יְהוָה",
+       "translit": "ēlai aron Adonai",
+       "strong": "H413",
+       "pos": "prepoziție + sufix + substantiv construct + nume propriu",
+       "def_ro": "la mine Chivotul DOMNULUI?",
+       "dict_ro": "Întrebarea retorică a lui David marchează tranziția de la entuziasmul inițial al procesiunii la o teamă reflexivă profundă, declanșată direct de moartea lui Uza."
       }
      ],
      "textCompare": [
@@ -66580,7 +66750,17 @@
      "translit": "Velo-ava David lehasir elav et-aron ADONAI al-ir David vayatehu David beit Oved-Edom hagiti.",
      "tokens": [
       {
-       "t": "Și David n-a mai vrut să aducă Chivotul DOMNULUI la el, în Orașul lui David, ci David l-a deturnat către casa lui "
+       "t": "Și David n-a mai vrut să aducă Chivotul DOMNULUI la el, în Orașul lui David, ci David l-a deturnat către casa lui",
+       "w": "Și David n-a mai vrut să aducă Chivotul DOMNULUI la el, în Orașul lui David, ci David l-a deturnat către casa lui",
+       "heb": "וְלֹא אָבָה דָוִד לְהָסִיר אֵלָיו אֶת אֲרוֹן יְהוָה עַל עִיר דָּוִד וַיַּטֵּהוּ דָוִד בֵּית",
+       "translit": "velo ava david lehasir ēlaiv et aron Adonai al ir david vaiatēhu david bēt",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal perfect + nume propriu + verb, hifil infinitiv + prepoziție + sufix + marcă a complementului direct + substantiv construct + nume propriu + prepoziție + substantiv construct + nume propriu + verb, hifil imperfect consecutiv + sufix + nume propriu + substantiv construct",
+       "def_ro": "și n-a vrut David să ducă la el Chivotul DOMNULUI, în Cetatea lui David, și l-a abătut David, [spre] casa.",
+       "dict_ro": "Metzudat David explică faptul că David a abătut Chivotul de la drumul direct spre Cetatea lui David, îndreptându-l spre casa lui Oved-Edom — o soluție intermediară, prudentă, înainte de a îndrăzni din nou aducerea lui finală."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Oved-Edom, ghititul",
@@ -66638,7 +66818,17 @@
      "translit": "Vayeșev aron ADONAI beit Oved Edom hagiti șeloșa hodașim vayvarech ADONAI et-Oved Edom veet-kol-beito.",
      "tokens": [
       {
-       "t": "Și Chivotul DOMNULUI a rămas în casa lui Oved-Edom, ghititul, timp de trei luni, iar DOMNUL l-a "
+       "t": "Și Chivotul DOMNULUI a rămas în casa lui Oved-Edom, ghititul, timp de trei luni, iar DOMNUL l-a",
+       "w": "Și Chivotul DOMNULUI a rămas în casa lui Oved-Edom, ghititul, timp de trei luni, iar DOMNUL l-a",
+       "heb": "וַיֵּשֶׁב אֲרוֹן יְהוָה בֵּית עֹבֵד אֱדוֹם הַגִּתִּי שְׁלֹשָׁה חֳדָשִׁים יְהוָה",
+       "translit": "vaiēșev aron Adonai bēt ovēd edom hagiti șeloșa hodașim Adonai",
+       "strong": "H3427",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + nume propriu + substantiv construct + nume propriu + nume propriu + nume de neam + numeral + substantiv plural + nume propriu",
+       "def_ro": "și a rămas Chivotul DOMNULUI în casa lui Oved-Edom, ghititul, trei luni; și DOMNUL.",
+       "dict_ro": "Rashi notează, pe baza Cronicilor, că soția lui Oved-Edom și cele opt nurori ale sale au născut câte șase fii fiecare dintr-o singură sarcină — o binecuvântare a fertilității de proporții extraordinare, legată direct de prezența Chivotului în casa lor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "binecuvântat",
@@ -66653,7 +66843,17 @@
        "dict_ro": "Barach — Rashi citează o tradiție (bazată pe 1 Cronici 26:5, unde Oved-Edom e numit „al optulea” între cei binecuvântați cu mulți fii) potrivit căreia soția lui Oved-Edom și cele opt nurori ale sale au născut fiecare câte șase fii dintr-o singură sarcină, în cele trei luni — o binecuvântare literalizată, fizică, ca răspuns direct la primirea cu credință a aceluiași Chivot care adusese moarte în casa lui Uza."
       },
       {
-       "t": " pe Oved-Edom împreună cu toată casa lui."
+       "t": " "
+      },
+      {
+       "t": "pe Oved-Edom împreună cu toată casa lui.",
+       "w": "pe Oved-Edom împreună cu toată casa lui.",
+       "heb": "אֶת עֹבֵד אֱדֹם וְאֶת כָּל בֵּיתוֹ",
+       "translit": "et ovēd edom veet kal bēto",
+       "strong": "H5654",
+       "pos": "marcă a complementului direct + nume propriu + marcă a complementului direct + substantiv construct + substantiv construct + sufix",
+       "def_ro": "pe Oved-Edom și toată casa lui.",
+       "dict_ro": "Binecuvântarea extinsă la întreaga casă, nu doar la Oved-Edom personal, confirmă că apropierea de Chivot, când e tratată cu respectul cuvenit, aduce bunăstare colectivă, nu pericol."
       }
      ],
      "textCompare": [
@@ -66691,7 +66891,17 @@
      "translit": "Vayugad lameleh David lemor berach ADONAI et-beit Oved Edom veet-kol-așer-lo baavur aron haElohim vaieleh David vayaal et-aron haElohim mibeit Oved Edom ir David besimha.",
      "tokens": [
       {
-       "t": "Și i s-a vestit lui David că DOMNUL îl binecuvântase pe Oved-Edom și toată casa lui din pricina Chivotului DOMNULUI, și David a mers și a ridicat Chivotul lui Dumnezeu din casa lui Oved-Edom, către Orașul lui David, cu "
+       "t": "Și i s-a vestit lui David că DOMNUL îl binecuvântase pe Oved-Edom și toată casa lui din pricina Chivotului DOMNULUI, și David a mers și a ridicat Chivotul lui Dumnezeu din casa lui Oved-Edom, către Orașul lui David, cu",
+       "w": "Și i s-a vestit lui David că DOMNUL îl binecuvântase pe Oved-Edom și toată casa lui din pricina Chivotului DOMNULUI, și David a mers și a ridicat Chivotul lui Dumnezeu din casa lui Oved-Edom, către Orașul lui David, cu",
+       "heb": "וַיֻּגַּד לַמֶּלֶךְ דָּוִד לֵאמֹר בֵּרַךְ יְהוָה אֶת בֵּית עֹבֵד אֱדֹם וְאֶת כָּל אֲשֶׁר לוֹ בַּעֲבוּר אֲרוֹן הָאֱלֹהִים וַיֵּלֶךְ דָּוִד וַיַּעַל אֶת אֲרוֹן הָאֱלֹהִים מִבֵּית עֹבֵד אֱדֹם עִיר דָּוִד",
+       "translit": "vaiugad lameleh david lēmor bērah Adonai et bēt ovēd edom veet kal așer lo baavur aron haelohim vaiēleh david vaiaal et aron haelohim mibēt ovēd edom ir david",
+       "strong": "H5046",
+       "pos": "verb, hofal imperfect consecutiv + substantiv + nume propriu + verb, qal infinitiv + verb, piel perfect + nume propriu + marcă a complementului direct + substantiv construct + nume propriu + marcă a complementului direct + substantiv construct + particulă relativă + prepoziție + sufix + substantiv construct + substantiv construct + substantiv + verb, qal imperfect consecutiv + nume propriu + verb, hifil imperfect consecutiv + marcă a complementului direct + substantiv construct + substantiv + substantiv construct + nume propriu + substantiv construct + nume propriu",
+       "def_ro": "și s-a vestit regelui David, spunând: a binecuvântat DOMNUL casa lui Oved-Edom și tot ce are, din pricina Chivotului lui Dumnezeu; și a mers David și a ridicat Chivotul lui Dumnezeu din casa lui Oved-Edom, la cetatea lui David, cu.",
+       "dict_ro": "Metzudat David explică faptul că, abia aflând de binecuvântarea revărsată asupra lui Oved-Edom, David a prins curaj să reia ridicarea Chivotului spre Cetatea lui, Țion — vestea bună devine semnalul care anulează teama precedentă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "bucurie",
@@ -66744,7 +66954,17 @@
      "translit": "Vayehi ki tzaadu noseei aron-ADONAI șișa tzeadim vayizbah șor umeri.",
      "tokens": [
       {
-       "t": "La fiecare "
+       "t": "La fiecare",
+       "w": "La fiecare",
+       "heb": "וַיְהִי כִּי צָעֲדוּ נֹשְׂאֵי אֲרוֹן יְהוָה",
+       "translit": "vaihi ki țaadu nosē aron Adonai",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + conjuncție + verb, qal perfect + verb, qal participiu + substantiv construct + nume propriu",
+       "def_ro": "și a fost, când au pășit purtătorii Chivotului DOMNULUI.",
+       "dict_ro": "Metzudat David explică faptul că, de fiecare dată când purtătorii Chivotului făceau șase pași, David jertfea din nou — repetiția deasă a jertfei s-a continuat de-a lungul întregului drum, nu doar o singură dată la început."
+      },
+      {
+       "t": " "
       },
       {
        "t": "șase pași",
@@ -66757,7 +66977,17 @@
        "dict_ro": "Una dintre cele mai mari divergențe din acest capitol: Septuaginta nu are deloc imaginea „la fiecare șase pași\" — în loc de asta, spune că „erau cu el, ducând Chivotul, șapte cete/coruri\" (ἑπτὰ χοροὶ), o imagine complet diferită, legată probabil de o lectură alternativă a termenului ebraic pentru „pași\". Și jertfele diferă: „un vițel și miei\" (plural), nu „un taur și un taur îngrășat\" ca în ebraică."
       },
       {
-       "t": " pe care îi făceau purtătorii Chivotului DOMNULUI, el jertfea un taur și un taur îngrășat."
+       "t": " "
+      },
+      {
+       "t": "pe care îi făceau purtătorii Chivotului DOMNULUI, el jertfea un taur și un taur îngrășat.",
+       "w": "pe care îi făceau purtătorii Chivotului DOMNULUI, el jertfea un taur și un taur îngrășat.",
+       "heb": "וַיִּזְבַּח שׁוֹר וּמְרִיא",
+       "translit": "vaizbah șor umri",
+       "strong": "H2076",
+       "pos": "verb, qal imperfect consecutiv + substantiv + substantiv",
+       "def_ro": "a jertfit bou și vită îngrășată.",
+       "dict_ro": "Dubla jertfă, repetată la fiecare șase pași, exprimă intensitatea recunoștinței lui David pentru succesul acestei a doua tentative, după dezastrul primei încercări."
       }
      ],
      "textCompare": [
@@ -66797,7 +67027,17 @@
      "translit": "VeDavid meharker bechol-oz lifnei ADONAI veDavid hagur efod bad.",
      "tokens": [
       {
-       "t": "Și David dansa cu toată puterea [lui] înaintea DOMNULUI, încins cu o "
+       "t": "Și David dansa cu toată puterea [lui] înaintea DOMNULUI, încins cu o",
+       "w": "Și David dansa cu toată puterea [lui] înaintea DOMNULUI, încins cu o",
+       "heb": "וְדָוִד מְכַרְכֵּר בְּכָל עֹז לִפְנֵי יְהוָה וְדָוִד חָגוּר",
+       "translit": "vedavid meharkēr behal oz lifnē Adonai vedavid hagur",
+       "strong": "H1732",
+       "pos": "nume propriu + verb, pilpel participiu + substantiv construct + substantiv + substantiv construct + nume propriu + nume propriu + verb, qal participiu pasiv",
+       "def_ro": "și David dansa cu toată puterea înaintea DOMNULUI; și David [era] încins cu o.",
+       "dict_ro": "Metzudat David explică «efod bad» ca un veșmânt făcut după chipul efodului marelui preot, dedicat celor ce se consacră în chip aparte slujirii DOMNULUI, la fel cum e descris și Samuel la 1 Samuel 2:18 — David îmbracă simbolic o haină de devoțiune specială pentru acest moment."
+      },
+      {
+       "t": " "
       },
       {
        "t": "tunică de in",
@@ -66853,7 +67093,17 @@
      "translit": "VeDavid vechol-beit Israël maalim et-aron ADONAI bitrua uvekol șofar.",
      "tokens": [
       {
-       "t": "Și David și toată casa lui Israel au ridicat Chivotul DOMNULUI cu "
+       "t": "Și David și toată casa lui Israel au ridicat Chivotul DOMNULUI cu",
+       "w": "Și David și toată casa lui Israel au ridicat Chivotul DOMNULUI cu",
+       "heb": "וְדָוִד וְכָל בֵּית יִשְׂרָאֵל מַעֲלִים אֶת אֲרוֹן יְהוָה",
+       "translit": "vedavid vehal bēt israēl maalim et aron Adonai",
+       "strong": "H1732",
+       "pos": "nume propriu + substantiv construct + substantiv construct + nume propriu + verb, hifil participiu + marcă a complementului direct + substantiv construct + nume propriu",
+       "def_ro": "și David și toată casa lui Israel ridicau Chivotul DOMNULUI cu.",
+       "dict_ro": "Metzudat David explică «bitrua» ca «glas de bucurie», obiceiul folosit la aducerea unui lucru de mare cinste — expresia arată bucuria autentică simțită de popor la ridicarea finală a Chivotului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "glas vesel și puternic",
@@ -66868,7 +67118,17 @@
        "dict_ro": "Terua — termen tehnic care desemnează atât strigătul uman de bucurie/luptă, cât și sunetul specific al trâmbiței (aceeași rădăcină din „Yom Terua”, numele biblic al Roș Hașana); asocierea directă cu „kol șofar” (sunetul cornului) în același verset arată o procesiune completă senzorial — voci umane și instrumente muzicale unite într-un singur act public de bucurie."
       },
       {
-       "t": ", și cu sunet de corn."
+       "t": ", "
+      },
+      {
+       "t": "și cu sunet de corn.",
+       "w": "și cu sunet de corn.",
+       "heb": "וּבְקוֹל שׁוֹפָר",
+       "translit": "uvkol șofar",
+       "strong": "H6963",
+       "pos": "substantiv construct + substantiv",
+       "def_ro": "și cu glas de corn.",
+       "dict_ro": "Sunetul cornului, alături de strigătul de bucurie, completează amploarea sonoră a ceremoniei de intrare a Chivotului în Cetatea lui David."
       }
      ],
      "textCompare": [
@@ -66907,7 +67167,17 @@
      "translit": "Vehaya aron ADONAI ba ir David uMihal bat-Șaul nișkefa bead hahalon vatere et-hameleh David mefazez umeharker lifnei ADONAI vativez lo beliba.",
      "tokens": [
       {
-       "t": "Când Chivotul a ajuns în Orașul lui David, Mihal, fiica lui Șaul, a privit pe fereastră și l-a văzut pe regele David sărind și dansând înaintea DOMNULUI, și l-a "
+       "t": "Când Chivotul a ajuns în Orașul lui David, Mihal, fiica lui Șaul, a privit pe fereastră și l-a văzut pe regele David sărind și dansând înaintea DOMNULUI, și l-a",
+       "w": "Când Chivotul a ajuns în Orașul lui David, Mihal, fiica lui Șaul, a privit pe fereastră și l-a văzut pe regele David sărind și dansând înaintea DOMNULUI, și l-a",
+       "heb": "וְהָיָה אֲרוֹן יְהוָה בָּא עִיר דָּוִד וּמִיכַל בַּת שָׁאוּל נִשְׁקְפָה בְּעַד הַחַלּוֹן וַתֵּרֶא אֶת הַמֶּלֶךְ דָּוִד מְפַזֵּז וּמְכַרְכֵּר לִפְנֵי יְהוָה וַתִּבֶז",
+       "translit": "vehaia aron Adonai ba ir david umihal bat șaul nișkefa bead hahalon vatēre et hameleh david mefazēz umharkēr lifnē Adonai vativez",
+       "strong": "H727",
+       "pos": "verb, qal perfect + substantiv construct + nume propriu + verb, qal perfect + substantiv construct + nume propriu + nume propriu + substantiv construct + nume propriu + verb, nifal perfect + prepoziție + substantiv + verb, qal imperfect consecutiv + marcă a complementului direct + substantiv + nume propriu + verb, piel participiu + verb, pilpel participiu + substantiv construct + nume propriu + verb, qal imperfect consecutiv",
+       "def_ro": "și a fost, când a venit Chivotul DOMNULUI în Cetatea lui David, și Mihal, fiica lui Șaul, a privit prin fereastră și a văzut pe regele David sărind și dansând înaintea DOMNULUI, și l-a disprețuit.",
+       "dict_ro": "Metzudat David explică faptul că Mihal a socotit, în inima ei, o faptă necuvenită pentru un rege să sară și să danseze în public, chiar înaintea Chivotului — disprețul ei vine din concepția despre demnitatea regală, nu din necredință."
+      },
+      {
+       "t": " "
       },
       {
        "t": "disprețuit",
@@ -66961,7 +67231,17 @@
      "translit": "Vayaviu et-aron ADONAI vayatzigu oto bimkomo betochhaohel așer nata-lo David vayaal David olot lifnei ADONAI ușelamim.",
      "tokens": [
       {
-       "t": "Au adus Chivotul DOMNULUI și l-au așezat la "
+       "t": "Au adus Chivotul DOMNULUI și l-au așezat la",
+       "w": "Au adus Chivotul DOMNULUI și l-au așezat la",
+       "heb": "וַיָּבִאוּ אֶת אֲרוֹן יְהוָה וַיַּצִּגוּ אֹתוֹ",
+       "translit": "vaiaviu et aron Adonai vaiațigu oto",
+       "strong": "H935",
+       "pos": "verb, hifil imperfect consecutiv + marcă a complementului direct + substantiv construct + nume propriu + verb, hifil imperfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și au adus Chivotul DOMNULUI și l-au așezat.",
+       "dict_ro": "Metzudat David explică «bimkomo» ca locul special pregătit pentru Chivot în mijlocul cortului pe care David îl întinsese anume pentru el — un spațiu dedicat, nu improvizat în ultima clipă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "locul lui",
@@ -66976,7 +67256,17 @@
        "dict_ro": "Makom — Metzudat David precizează că „locul lui” desemnează poziția special pregătită dinainte de David, în interiorul cortului pe care el însuși îl ridicase în acest scop — nu un cort improvizat pe loc, ci o structură pregătită anticipat, semn al planificării serioase din partea lui David pentru primirea permanentă a Chivotului la Ierusalim."
       },
       {
-       "t": ", în cortul pe care David îl ridicase pentru el; și David a adus arderi-de-tot înaintea DOMNULUI și jertfe de pace."
+       "t": ", "
+      },
+      {
+       "t": "în cortul pe care David îl ridicase pentru el; și David a adus arderi-de-tot înaintea DOMNULUI și jertfe de pace.",
+       "w": "în cortul pe care David îl ridicase pentru el; și David a adus arderi-de-tot înaintea DOMNULUI și jertfe de pace.",
+       "heb": "בְּתוֹךְ הָאֹהֶל אֲשֶׁר נָטָה לוֹ דָּוִד וַיַּעַל דָּוִד עֹלוֹת לִפְנֵי יְהוָה וּשְׁלָמִים",
+       "translit": "betoh haohel așer nata lo david vaiaal david olot lifnē Adonai ușlamim",
+       "strong": "H8432",
+       "pos": "substantiv construct + substantiv + particulă relativă + verb, qal perfect + prepoziție + sufix + nume propriu + verb, hifil imperfect consecutiv + nume propriu + substantiv + substantiv construct + nume propriu + substantiv",
+       "def_ro": "în mijlocul cortului pe care David îl întinsese pentru el; și a adus David arderi-de-tot înaintea DOMNULUI și jertfe de pace.",
+       "dict_ro": "Secvența finală — așezarea Chivotului, apoi jertfele — confirmă finalizarea completă a misiunii începute cu atâta dificultate, încheiată aici cu succes deplin și recunoștință rituală."
       }
      ],
      "textCompare": [
@@ -67016,7 +67306,17 @@
      "translit": "Vaychal David mehaalot haola vehașelamim vayvarech et-haam beșem ADONAI Țevaot.",
      "tokens": [
       {
-       "t": "Când David a încheiat de adus arderea-de-tot și jertfa de pace, a "
+       "t": "Când David a încheiat de adus arderea-de-tot și jertfa de pace, a",
+       "w": "Când David a încheiat de adus arderea-de-tot și jertfa de pace, a",
+       "heb": "וַיְכַל דָּוִד מֵהַעֲלוֹת הָעוֹלָה וְהַשְּׁלָמִים וַיְבָרֶךְ",
+       "translit": "vaihal david mēhaalot haola vehașlamim vaivareh",
+       "strong": "H3615",
+       "pos": "verb, piel imperfect consecutiv + nume propriu + verb, hifil infinitiv + substantiv + substantiv + verb, piel imperfect consecutiv",
+       "def_ro": "și a încheiat David aducerea arderii-de-tot și a jertfelor de pace, și a binecuvântat.",
+       "dict_ro": "Metzudat David compară acest gest cu cel al lui Solomon la sfințirea Templului (1 Împărați 8:55) — David, ca rege, binecuvântează poporul în Numele DOMNULUI, precedent pentru ceremonia regală ulterioară a fiului său."
+      },
+      {
+       "t": " "
       },
       {
        "t": "binecuvântat",
@@ -67031,7 +67331,17 @@
        "dict_ro": "Barach — deși binecuvântarea poporului era în mod tradițional prerogativa preoților (Leviticul 9:22-23) sau, ocazional, a figurilor regal-preoțești precum Melhisedec (Geneza 14:19), David, ca rege, binecuvântează poporul „în Numele DOMNULUI Oștirilor” — o formulă care subliniază că binecuvântarea nu vine din autoritatea lui personală, ci e rostită explicit ca reprezentant al lui Dumnezeu, într-un moment de bucurie liturgică excepțională."
       },
       {
-       "t": " poporul cu numele DOMNULUI Oștirilor."
+       "t": " "
+      },
+      {
+       "t": "poporul cu numele DOMNULUI Oștirilor.",
+       "w": "poporul cu numele DOMNULUI Oștirilor.",
+       "heb": "אֶת הָעָם בְּשֵׁם יְהוָה צְבָאוֹת",
+       "translit": "et haam beșēm Adonai țevaot",
+       "strong": "H5971",
+       "pos": "marcă a complementului direct + substantiv + substantiv construct + nume propriu + substantiv",
+       "def_ro": "pe popor în numele DOMNULUI Oștirilor.",
+       "dict_ro": "Binecuvântarea rostită «în numele DOMNULUI Oștirilor» încheie ritualul cu aceeași formulă regală de autoritate care avea să fie reluată mai târziu de Solomon."
       }
      ],
      "textCompare": [
@@ -67071,7 +67381,17 @@
      "translit": "Vayhalek lechol-haam lechol-hamon Israël lemeiș vead-ișa leiș halat lehem ahat veeșpar ehad vaașișa ehat vaieleh kol-haam iș leveito.",
      "tokens": [
       {
-       "t": "Și a dat întregului popor, întregii multitudini a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o "
+       "t": "Și a dat întregului popor, întregii multitudini a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o",
+       "w": "Și a dat întregului popor, întregii multitudini a lui Israel, bărbaților și femeilor deopotrivă, câte o franzelă de pâine, o bucată de carne și o",
+       "heb": "וַיְחַלֵּק לְכָל הָעָם לְכָל הֲמוֹן יִשְׂרָאֵל לְמֵאִישׁ וְעַד אִשָּׁה לְאִישׁ חַלַּת לֶחֶם אַחַת וְאֶשְׁפָּר אֶחָד וַ",
+       "translit": "vaihalēk lehal haam lehal hamon israēl lemēiș vead ișa leiș halat lehem ahat veeșpar ehad va",
+       "strong": "H2505",
+       "pos": "verb, piel imperfect consecutiv + substantiv construct + substantiv + substantiv construct + substantiv construct + nume propriu + substantiv + prepoziție + substantiv + substantiv construct + substantiv construct + substantiv + numeral + substantiv + numeral",
+       "def_ro": "și a împărțit la tot poporul, la toată mulțimea lui Israel, de la om la femeie, fiecăruia o turtă de pâine și o bucată și.",
+       "dict_ro": "Rashi identifică «eșpar» ca a șasea parte dintr-un taur, potrivit Talmudului (Pesahim 36b) — o porție precisă, nu simbolică, confirmând amploarea reală a distribuției de hrană către întreaga mulțime adunată."
+      },
+      {
+       "t": " "
       },
       {
        "t": "așișa",
@@ -67087,7 +67407,17 @@
        "dict_ro": "Așișa — cuvânt cu sens disputat; Rashi, urmând Talmudul (Pesahim 36b), identifică „eșpar” drept a șasea parte dintr-un taur (o porție de carne standardizată), iar „așișa” drept un urcior/butoiaș de vin — interpretare tradițională păstrată în paralel cu varianta „turtă cu stafide”, mai des întâlnită în traducerile moderne bazate pe context (cf. Osea 3:1, unde termenul apare în context clar culinar)."
       },
       {
-       "t": " (n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui."
+       "t": " "
+      },
+      {
+       "t": "(n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui.",
+       "w": "(n.t. turtă cu stafide sau ulcior de vin); și apoi tot poporul, fiecare om, a mers la casa lui.",
+       "heb": "וַיֵּלֶךְ כָּל הָעָם אִישׁ לְבֵיתוֹ",
+       "translit": "vaiēleh kal haam iș levēto",
+       "strong": "H3212",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + substantiv + substantiv + substantiv construct + sufix",
+       "def_ro": "și a mers tot poporul, fiecare om, la casa lui.",
+       "dict_ro": "Rashi explică «așișa» ca urcior de vin, potrivit aceluiași tratat talmudic — darul complet de pâine, carne și vin încheie sărbătoarea cu o masă festivă oferită întregii națiuni, înainte ca fiecare să se retragă acasă."
       }
      ],
      "textCompare": [
