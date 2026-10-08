@@ -59371,7 +59371,17 @@
      "translit": "Vayișlah hameleh Șlomo vayikah et-Hiram miȚor.",
      "tokens": [
       {
-       "t": "Regele Solomon a trimis și l-a adus pe "
+       "t": "Regele Solomon a trimis și l-a adus pe",
+       "w": "Regele Solomon a trimis și l-a adus pe",
+       "heb": "וַיִּשְׁלַח הַמֶּלֶךְ שְׁלֹמֹה וַיִּקַּח אֶת",
+       "translit": "vaișlah hameleh șelomo vaikah et",
+       "strong": "H7971",
+       "pos": "verb, qal imperfect consecutiv + substantiv + nume propriu + verb, qal imperfect consecutiv + marcă a complementului direct",
+       "def_ro": "și a trimis regele Solomon și a luat pe.",
+       "dict_ro": "Metzudat David explică simplu: «pe Hiram» — așa era numele meșterului chemat special pentru lucrările de aramă ale Templului, distinct de regele omonim al Tirului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Hiram",
@@ -59423,7 +59433,17 @@
      "translit": "Ben-ișa almana hu mimate Naftali veaviv iș-Țori horeș nehoșet vayimale et-hahochma veet-hatevuna veet-hadaat laasot kol-melacha banehoșet vayavo el-hameleh Șlomo vayaas et-kol-melachto.",
      "tokens": [
       {
-       "t": "El era fiul unei femei văduve din tribul Naftali, iar tatăl lui era un bărbat din Tir. El era făuritor în aramă, era plin de "
+       "t": "El era fiul unei femei văduve din tribul Naftali, iar tatăl lui era un bărbat din Tir. El era făuritor în aramă",
+       "w": "El era fiul unei femei văduve din tribul Naftali, iar tatăl lui era un bărbat din Tir. El era făuritor în aramă",
+       "heb": "בֶּן אִשָּׁה אַלְמָנָה הוּא מִמַּטֵּה נַפְתָּלִי וְאָבִיו אִישׁ צֹרִי חֹרֵשׁ נְחֹשֶׁת",
+       "translit": "ben ișa almana hu mimatē naftali veaviv iș țori horēș nehoșet",
+       "strong": "H1121",
+       "pos": "substantiv construct + substantiv + substantiv + pronume personal + substantiv construct + nume propriu + substantiv construct + sufix + substantiv + nume de neam + verb, qal participiu + substantiv",
+       "def_ro": "fiul unei femei văduve, el, din tribul Naftali, și tatăl lui, om din Tir, meșter în aramă.",
+       "dict_ro": "Radak explică faptul că tatăl lui Hiram era și el făuritor în aramă, iar Înțelepții noștri s-au sprijinit pe acest verset pentru a spune că omul trebuie să se îndeletnicească cu meșteșugul tatălui său — Hiram a învățat arta tocmai de la el."
+      },
+      {
+       "t": ", era plin de "
       },
       {
        "t": "înțelepciune",
@@ -59438,7 +59458,20 @@
        "dict_ro": "Hochma — același termen folosit pentru darul special dat lui Bețalel la construcția Cortului (Exodul 31:3, „l-am umplut cu duhul lui Dumnezeu, în înțelepciune, în pricepere și în cunoștință”); tripleta hochma-tevuna-daat e identică aici, textual, cu cea din Exod — paralelă deliberată, care așază munca lui Hiram la Templu în continuitate directă cu darul divin acordat lui Bețalel."
       },
       {
-       "t": ", talent și cunoaștere în întocmirea oricărei lucrări din aramă, și a venit la regele Solomon și a făcut toată lucrarea lui."
+       "t": ", "
+      },
+      {
+       "t": "talent și cunoaștere în întocmirea oricărei lucrări din aramă, și a venit la regele Solomon și a făcut toată lucrarea lui",
+       "w": "talent și cunoaștere în întocmirea oricărei lucrări din aramă, și a venit la regele Solomon și a făcut toată lucrarea lui",
+       "heb": "וְאֶת הַתְּבוּנָה וְאֶת הַדַּעַת לַעֲשׂוֹת כָּל מְלָאכָה בַּנְּחֹשֶׁת וַיָּבוֹא אֶל הַמֶּלֶךְ שְׁלֹמֹה וַיַּעַשׂ אֶת כָּל מְלַאכְתּוֹ",
+       "translit": "veet hatvuna veet hadaat laasot kal melaha banhoșet vaiavo el hameleh șelomo vaiaas et kal melahto",
+       "strong": "H8394",
+       "pos": "marcă a complementului direct + substantiv + marcă a complementului direct + substantiv + verb, qal infinitiv + substantiv + substantiv + verb, qal imperfect consecutiv + prepoziție + substantiv + nume propriu + verb, qal imperfect consecutiv + marcă a complementului direct + substantiv construct + sufix",
+       "def_ro": "și priceperea și cunoștința de a face orice lucrare din aramă; și a venit la regele Solomon și a făcut toată lucrarea lui.",
+       "dict_ro": "Rashi leagă cele trei calități — înțelepciune, pricepere, cunoștință — de cele trei unelte cu care a fost zidită lumea însăși, potrivit Proverbelor 3:19-20: Templul a fost construit cu exact aceleași trei calități divine."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59490,7 +59523,17 @@
      "translit": "Vayatzar et-șenei haamudim nehoșet șmone esre ama komat haamud haehad vehut șteim-esre ama yasov et-haamud hașeni.",
      "tokens": [
       {
-       "t": "Și [Hiram] a făurit cei doi "
+       "t": "Și [Hiram] a făurit cei doi",
+       "w": "Și [Hiram] a făurit cei doi",
+       "heb": "וַיָּצַר אֶת שְׁנֵי",
+       "translit": "vaiațar et șenē",
+       "strong": "H6696",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + numeral",
+       "def_ro": "și a turnat cei doi.",
+       "dict_ro": "Verbul «a turna/a forma» (iațar) deschide descrierea tehnică a celor doi stâlpi de aramă — aceeași rădăcină folosită pentru plăsmuirea omului din țărână la Geneza 2:7, aplicată aici metalului topit."
+      },
+      {
+       "t": " "
       },
       {
        "t": "stâlpi",
@@ -59506,7 +59549,20 @@
        "dict_ro": "Amud — Rashi observă o discrepanță reală între înălțimea dată aici (optsprezece coți) și cea din relatarea paralelă din 2 Cronici 3:15 (treizeci și cinci de coți), pe care o explică prin faptul că cei treizeci și cinci de coți din Cronici reprezintă lungimea totală a metalului lucrat pentru amândoi stâlpii împreună (aproximativ dublul celor optsprezece, plus rotunjiri), nu înălțimea unui singur stâlp ridicat."
       },
       {
-       "t": " de aramă: optsprezece coți era înălțimea fiecărui stâlp și o sfoară [cu lungimea] de doisprezece coți îi putea măsura circumferința; și la fel era și al doilea stâlp."
+       "t": " "
+      },
+      {
+       "t": "de aramă: optsprezece coți era înălțimea fiecărui stâlp și o sfoară [cu lungimea] de doisprezece coți îi putea măsura circumferința; și la fel era și al doilea stâlp",
+       "w": "de aramă: optsprezece coți era înălțimea fiecărui stâlp și o sfoară [cu lungimea] de doisprezece coți îi putea măsura circumferința; și la fel era și al doilea stâlp",
+       "heb": "נְחֹשֶׁת שְׁמֹנֶה עֶשְׂרֵה אַמָּה קוֹמַת הָעַמּוּד הָאֶחָד וְחוּט שְׁתֵּים עֶשְׂרֵה אַמָּה יָסֹב אֶת הָעַמּוּד הַשֵּׁנִי",
+       "translit": "nehoșet șemone esrē ama komat haamud haehad vehut șetēm esrē ama iasov et haamud hașēni",
+       "strong": "H5178",
+       "pos": "substantiv + numeral + numeral + substantiv + substantiv construct + substantiv + numeral + substantiv construct + numeral + numeral + substantiv + verb, qal imperfect + marcă a complementului direct + substantiv + numeral ordinal",
+       "def_ro": "aramă, optsprezece coți înălțimea unui stâlp, și un fir de doisprezece coți îl înconjoară; și așa era și al doilea stâlp.",
+       "dict_ro": "Rashi rezolvă discrepanța dintre cei optsprezece coți de aici și cei treizeci și cinci din Cronici, explicând că relatarea din Cronici numără lungimea totală a metalului turnat pentru amândoi stâlpii, incluzând porțiunile ascunse în interiorul zidului."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59544,7 +59600,17 @@
      "translit": "Uștei hotarot asa latet al-rașei haamudim mutzak nehoșet hameș amot komat hakoteret haehat vehameș amot komat hakoteret hașenit.",
      "tokens": [
       {
-       "t": "A făcut două "
+       "t": "A făcut două",
+       "w": "A făcut două",
+       "heb": "וּשְׁתֵּי כֹתָרֹת עָשָׂה",
+       "translit": "uștē hotarot asa",
+       "strong": "H3805",
+       "pos": "numeral + substantiv + verb, qal perfect",
+       "def_ro": "și două capiteluri a făcut.",
+       "dict_ro": "Radak explică «hotarot» ca «cununi», comparabile cu o cunună de domnie — aceste piese ornamentale încoronau literal vârful fiecărui stâlp al Templului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "capiteluri",
@@ -59559,7 +59625,20 @@
        "dict_ro": "Hoteret — de la aceeași rădăcină ca hoter, „coroană”; ornamentul de la vârful stâlpilor, distinct de trupul lor drept, subliniind funcția pur decorativă (nu structurală) a acestor coloane — Iachin și Boaz nu susțineau nimic, stăteau libere, în fața Sălii Templului, ca simbol, nu ca element de arhitectură portantă."
       },
       {
-       "t": " care să fie puse la vârful celor doi stâlpi, turnate din aramă; înălțimea unui capitel era de cinci coți și înălțimea celuilalt capitel era de cinci coți."
+       "t": " "
+      },
+      {
+       "t": "care să fie puse la vârful celor doi stâlpi, turnate din aramă; înălțimea unui capitel era de cinci coți și înălțimea celuilalt capitel era de cinci coți",
+       "w": "care să fie puse la vârful celor doi stâlpi, turnate din aramă; înălțimea unui capitel era de cinci coți și înălțimea celuilalt capitel era de cinci coți",
+       "heb": "לָתֵת עַל רָאשֵׁי הָעַמּוּדִים מֻצַק נְחֹשֶׁת חָמֵשׁ אַמּוֹת קוֹמַת הַכֹּתֶרֶת הָאֶחָת וְחָמֵשׁ אַמּוֹת קוֹמַת הַכֹּתֶרֶת הַשֵּׁנִית",
+       "translit": "latēt al rașē haamudim muțak nehoșet hamēș amot komat hakoteret haehat vehamēș amot komat hakoteret hașēnit",
+       "strong": "H5414",
+       "pos": "verb, qal infinitiv + prepoziție + substantiv plural construct + substantiv + verb, hofal participiu pasiv + substantiv + numeral + substantiv + substantiv construct + substantiv + numeral + numeral + substantiv + substantiv construct + substantiv + numeral ordinal",
+       "def_ro": "ca să le pună pe vârfurile stâlpilor, turnate din aramă; cinci coți înălțimea unui capitel și cinci coți înălțimea celui de-al doilea capitel.",
+       "dict_ro": "Radak explică discrepanța cu măsura de trei coți din finalul cărții (2 Împărați 25:17): cei doi coți de jos ai capitelurilor erau asemenea stâlpului, fără formă proprie, iar cei trei de sus, înconjurați de rețele, erau singurii socotiți separat ca «podoabă»."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -59604,7 +59683,17 @@
      "translit": "Sevachim maase sevacha ghedilim maase șarșerot lakotarot așer al-roș haamudim șiva lakoteret haehat veșiva lakoteret hașenit.",
      "tokens": [
       {
-       "t": "A făcut niște "
+       "t": "A făcut niște",
+       "w": "A făcut niște",
+       "heb": "שְׂבָכִים מַעֲשֵׂה שְׂבָכָה",
+       "translit": "sevahim maasē sevaha",
+       "strong": "H7638",
+       "pos": "substantiv + substantiv construct + substantiv",
+       "def_ro": "rețele, lucrare de plasă.",
+       "dict_ro": "Rashi explică faptul că aceste rețele erau ca un fel de acoperământ de cap, cu ramuri împletite, imagine care revine și în descrierea Sfintei Sfintelor din Ezechiel."
+      },
+      {
+       "t": " "
       },
       {
        "t": "rețele",
@@ -59620,7 +59709,20 @@
        "dict_ro": "Sevacha — plasă decorativă de metal; Rashi o compară, ca formă, cu un tip de acoperitoare de cap folosită de femei în epoca lui, o imagine vizuală menită să ajute cititorul medieval să-și închipuie ornamentul, mai degrabă decât un termen tehnic biblic propriu-zis."
       },
       {
-       "t": " de plasă împletită, din lanțuri împletite, pentru capitelurile care se aflau pe vârful stâlpilor – șapte pentru primul capitel și șapte pentru al doilea capitel."
+       "t": " "
+      },
+      {
+       "t": "de plasă împletită, din lanțuri împletite, pentru capitelurile care se aflau pe vârful stâlpilor – șapte pentru primul capitel și șapte pentru al doilea capitel",
+       "w": "de plasă împletită, din lanțuri împletite, pentru capitelurile care se aflau pe vârful stâlpilor – șapte pentru primul capitel și șapte pentru al doilea capitel",
+       "heb": "גְּדִלִים מַעֲשֵׂה שַׁרְשְׁרוֹת לַכֹּתָרֹת אֲשֶׁר עַל רֹאשׁ הָעַמּוּדִים שִׁבְעָה לַכֹּתֶרֶת הָאֶחָת וְשִׁבְעָה לַכֹּתֶרֶת הַשֵּׁנִית",
+       "translit": "gedilim maasē șarșerot lakotarot așer al roș haamudim șiva lakoteret haehat veșiva lakoteret hașēnit",
+       "strong": "H1434",
+       "pos": "substantiv + substantiv construct + substantiv + substantiv + particulă relativă + prepoziție + substantiv construct + substantiv + numeral + substantiv + numeral + substantiv + numeral ordinal",
+       "def_ro": "ciucuri, lucrare de lănțișoare, pentru capiteluri, care erau pe vârful stâlpilor — șapte pentru capitelul unu și șapte pentru capitelul al doilea.",
+       "dict_ro": "Metzudat Țion explică «sevahim» prin asemănarea cu ramurile unui stejar, iar «gedilim» ca ciucuri împletiți și răsuciți, aceeași rădăcină folosită pentru ciucurii porunciți la Deuteronom 22:12 — o legătură lexicală neașteptată între ornamentul Templului și porunca îmbrăcămintei personale."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
