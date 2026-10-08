@@ -70345,7 +70345,17 @@
      "translit": "Veiș ba miBaal Șalișa vaiave leiș haElohim lehem bikurim esrim-lehem seorim veharmel betziclono vaiomer ten laam veiochelu.",
      "tokens": [
       {
-       "t": "Și a venit un om din Baal-Șalișa și a adus la omul lui Dumnezeu mâncare din "
+       "t": "Și a venit un om din Baal-Șalișa și a adus la omul lui Dumnezeu mâncare din",
+       "w": "Și a venit un om din Baal-Șalișa și a adus la omul lui Dumnezeu mâncare din",
+       "heb": "וְאִישׁ בָּא מִבַּעַל שָׁלִשָׁה וַיָּבֵא לְאִישׁ הָאֱלֹהִים לֶחֶם",
+       "translit": "veiș ba mibaal șalișa vaiavē leiș haelohim lehem",
+       "strong": "H376",
+       "pos": "substantiv + verb, qal perfect + nume propriu + nume propriu + verb, hifil imperfect consecutiv + substantiv construct + substantiv + substantiv construct",
+       "def_ro": "și un om a venit din Baal-Șalișa și a adus omului lui Dumnezeu pâine din.",
+       "dict_ro": "Rashi explică faptul că Targum Ionatan traduce «Baal-Șalișa» ca «țara de spre miazăzi», căci «baal» are sensul de câmpie în acest context geografic."
+      },
+      {
+       "t": " "
       },
       {
        "t": "primele roade",
@@ -70360,7 +70370,14 @@
        "dict_ro": "Bikurim — „cele dintâi coapte”, rădăcina bakhar („a se coace devreme, a fi întâi-născut”); de obicei termenul desemnează ofranda pârgii adusă la Templu (Exodul 23:16), dar aici e vorba de pâine din prima recoltă — Rashi notează că era în timpul lui Pesah, când se coace orzul. Talmudul (Sanhedrin 12a) deduce din acest verset că, deși Baal-Șalișa era locul unde roadele se coceau cel mai repede în toată Țara, doar orzul ajunsese la maturitate — deci anul ar fi trebuit prelungit cu o lună, iar Elișa nu l-a prelungit numai din cauza foametei."
       },
       {
-       "t": ": douăzeci de franzele de pâine de orz și spice proaspete de grâu cu pleava lor. [Elișa] i-a spus: „Dă-le poporului să le mănânce.”"
+       "t": ": douăzeci de franzele de pâine de orz și spice proaspete de grâu cu pleava lor. [Elișa] i-a spus: „Dă-le poporului să le mănânce.”",
+       "w": ": douăzeci de franzele de pâine de orz și spice proaspete de grâu cu pleava lor. [Elișa] i-a spus: „Dă-le poporului să le mănânce.”",
+       "heb": "עֶשְׂרִים לֶחֶם שְׂעֹרִים וְכַרְמֶל בְּצִקְלֹנוֹ וַיֹּאמֶר תֵּן לָעָם וְיֹאכֵלוּ",
+       "translit": "esrim lehem seorim veharmel bețiklono vaiomer tēn laam veiohēlu",
+       "strong": "H6242",
+       "pos": "numeral + substantiv construct + substantiv + substantiv + substantiv construct + sufix + verb, qal imperfect consecutiv + verb, qal imperativ + substantiv + verb, qal imperfect",
+       "def_ro": "douăzeci de pâini de orz și spice pline în învelișul lor, și a spus: dă poporului să mănânce.",
+       "dict_ro": "Talmudul Bavli (Sanhedrin 12a) explică faptul că aceste roade din Baal-Șalișa, locul unde roadele se coceau cel mai repede din toată Țara Israelului, erau din orz, nu din grâu — detaliu confirmat prin precizarea exactă a textului — iar momentul era chiar în vremea lui Pesah."
       }
      ],
      "textCompare": [
@@ -70408,7 +70425,17 @@
      "translit": "Vaiomer meșareto ma eten ze lifnei mea iș vaiomer ten laam veiochelu ki cho amar ADONAI achol vehoter.",
      "tokens": [
       {
-       "t": "Slujitorul lui a spus: „Cum pot să pun aceasta înaintea a o sută de oameni?” Așa că el a spus: „Dă poporului să le mănânce, căci așa a spus DOMNUL: «Vor mânca și "
+       "t": "Slujitorul lui a spus: „Cum pot să pun aceasta înaintea a o sută de oameni?” Așa că el a spus: „Dă poporului să le mănânce, căci așa a spus DOMNUL: «Vor mânca și",
+       "w": "Slujitorul lui a spus: „Cum pot să pun aceasta înaintea a o sută de oameni?” Așa că el a spus: „Dă poporului să le mănânce, căci așa a spus DOMNUL: «Vor mânca și",
+       "heb": "וַיֹּאמֶר מְשָׁרְתוֹ מָה אֶתֵּן זֶה לִפְנֵי מֵאָה אִישׁ וַיֹּאמֶר תֵּן לָעָם וְיֹאכֵלוּ כִּי כֹה אָמַר יְהוָה אָכֹל",
+       "translit": "vaiomer meșarto ma etēn ze lifnē mēa iș vaiomer tēn laam veiohēlu ki ho amar Adonai ahol",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + verb, piel participiu + sufix + particulă interogativă + verb, qal imperfect + pronume demonstrativ + substantiv construct + numeral + substantiv + verb, qal imperfect consecutiv + verb, qal imperativ + substantiv + verb, qal jusiv + conjuncție + adverb + verb, qal perfect + nume propriu + verb, qal infinitiv absolut",
+       "def_ro": "și a spus slujitorul lui: ce să dau aceasta înaintea a o sută de oameni? Și a spus: dă poporului să mănânce, căci așa a spus DOMNUL: mâncând.",
+       "dict_ro": "Metzudat David explică faptul că slujitorul socotește cantitatea prea mică pentru atâția oameni, dar Elișa îi răspunde cu certitudinea poruncii divine, nu cu o justificare omenească a cantității."
+      },
+      {
+       "t": " "
       },
       {
        "t": "va mai rămâne",
@@ -70466,7 +70493,17 @@
      "translit": "Vaiten lifneihem vaiochlu vaiotiru kidvar ADONAI.",
      "tokens": [
       {
-       "t": "El le-a pus înaintea lor și ei au mâncat și a mai și rămas, "
+       "t": "El le-a pus înaintea lor și ei au mâncat și a mai și rămas,",
+       "w": "El le-a pus înaintea lor și ei au mâncat și a mai și rămas,",
+       "heb": "וַיִּתֵּן לִפְנֵיהֶם וַיֹּאכְלוּ וַיּוֹתִרוּ",
+       "translit": "vaitēn lifnēhem vaiohlu vaiotiru",
+       "strong": "H5414",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + sufix + verb, qal imperfect consecutiv + verb, hifil imperfect consecutiv",
+       "def_ro": "și le-a pus înaintea lor, și au mâncat, și a mai rămas.",
+       "dict_ro": "Împlinirea exactă a cuvântului lui Elișa, confirmată «precum spusese DOMNUL», arată că minunea nu venea din puterea profetului însuși, ci era strict garantată de cuvântul divin transmis prin el."
+      },
+      {
+       "t": " "
       },
       {
        "t": "precum spusese DOMNUL",
@@ -70509,7 +70546,30 @@
      "translit": "VeNaaman sar-tzva meleh-Aram haia iș gadol lifnei adonav unesu fanim ki-vo natan-ADONAI teșua laAram vehaiș haia ghibor hail metzora.",
      "tokens": [
       {
-       "t": "Naaman, un general în oștirea regelui Aramului, era om de seamă înaintea stăpânului său, și foarte respectat, căci prin el dăduse DOMNUL biruință Aramului. El era mare luptător, [dar] era "
+       "t": "Naaman, un general în oștirea regelui Aramului, era om de seamă înaintea stăpânului său,",
+       "w": "Naaman, un general în oștirea regelui Aramului, era om de seamă înaintea stăpânului său,",
+       "heb": "וְנַעֲמָן שַׂר צְבָא מֶלֶךְ אֲרָם הָיָה אִישׁ גָּדוֹל לִפְנֵי אֲדֹנָיו",
+       "translit": "venaaman sar țeva meleh aram haia iș gadol lifnē adonaiv",
+       "strong": "H5283",
+       "pos": "nume propriu + substantiv construct + substantiv construct + substantiv construct + nume propriu + verb, qal perfect + substantiv + adjectiv + substantiv construct + substantiv construct + sufix",
+       "def_ro": "și Naaman, generalul oștirii regelui Aramului, era om mare înaintea stăpânului său.",
+       "dict_ro": "Rashi explică faptul că textul continuă să înșire minunile făcute prin Elișa — Naaman fiind cel care, trăgând cu arcul fără țintă, l-a ucis pe regele Ahab al Israelului, potrivit tradiției din Yalkut Șimoni."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și foarte respectat, căci prin el dăduse DOMNUL biruință Aramului. El era mare luptător, [dar] era",
+       "w": "și foarte respectat, căci prin el dăduse DOMNUL biruință Aramului. El era mare luptător, [dar] era",
+       "heb": "וּנְשֻׂא פָנִים כִּי בוֹ נָתַן יְהוָה תְּשׁוּעָה לַאֲרָם וְהָאִישׁ הָיָה גִּבּוֹר חַיִל",
+       "translit": "unsu fanim ki vo natan Adonai teșua laaram vehaiș haia gibor hail",
+       "strong": "H5375",
+       "pos": "verb, qal participiu pasiv + substantiv + conjuncție + prepoziție + sufix + verb, qal perfect + nume propriu + substantiv + nume propriu + substantiv + verb, qal perfect + adjectiv + substantiv",
+       "def_ro": "și ridicat la față, căci prin el a dat DOMNUL biruință Aramului; și omul era viteaz în luptă.",
+       "dict_ro": "Metzudat David explică faptul că Naaman era cinstit de toți pentru biruința adusă Aramului, dar fiind lepros era împiedicat să coboare mereu la luptă, cum ar fi dorit ca mare luptător — contrastul dintre măreția lui și boala care-l limita."
+      },
+      {
+       "t": " "
       },
       {
        "t": "lepros",
@@ -70567,7 +70627,17 @@
      "translit": "VaAram yatzu ghedudim vayișbu meereț Israël naara ketana vatehi lifnei eșet Naaman.",
      "tokens": [
       {
-       "t": "Aram ieșise la luptă în cete și luaseră prizonieră "
+       "t": "Aram ieșise la luptă în cete și luaseră prizonieră",
+       "w": "Aram ieșise la luptă în cete și luaseră prizonieră",
+       "heb": "וַאֲרָם יָצְאוּ גְדוּדִים וַיִּשְׁבּוּ מֵאֶרֶץ יִשְׂרָאֵל",
+       "translit": "vaaram iațu gedudim vaișbu mēereț israēl",
+       "strong": "H758",
+       "pos": "nume propriu + verb, qal perfect + substantiv + verb, qal imperfect consecutiv + substantiv construct + nume propriu",
+       "def_ro": "și Aramul a ieșit în cete și au luat prizonieri din țara Israelului.",
+       "dict_ro": "Rashi explică faptul că «gedud» denumește cetele de oameni care merg de capul lor, câte o sută sau două sute, ca să jefuiască tot ce găsesc pe unde trec."
+      },
+      {
+       "t": " "
       },
       {
        "t": "o tânără fată",
@@ -70582,7 +70652,17 @@
        "dict_ro": "Naara ketana — expresia pare redundantă (naara desemnează deja o fată tânără), de aceea Rashi propune că naara indică proveniența ei din orașul Naaran (1 Cronici 7:28), iar Metzudat David răspunde că și o copilă mică poate fi numită naara (ca în Isaia 11:6, „un copil mic îi va mâna”). Contrastul e intenționat: cea mai mică și mai lipsită de putere persoană din poveste, o sclavă captivă, devine veriga prin care generalul atotputernic ajunge la vindecare."
       },
       {
-       "t": " din țara Israelului și ea îi slujea soției lui Naaman."
+       "t": " "
+      },
+      {
+       "t": "din țara Israelului și ea îi slujea soției lui Naaman.",
+       "w": "din țara Israelului și ea îi slujea soției lui Naaman.",
+       "heb": "וַתְּהִי לִפְנֵי אֵשֶׁת נַעֲמָן",
+       "translit": "vathi lifnē ēșet naaman",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + substantiv construct + nume propriu",
+       "def_ro": "și a fost înaintea soției lui Naaman.",
+       "dict_ro": "Rashi identifică fata captivă ca fiind din orașul Naaran, iar expresia «îi slujea» e tradusă de Targum Ionatan ca «slujea înaintea soției lui Naaman»."
       }
      ],
      "textCompare": [
@@ -70625,7 +70705,17 @@
      "translit": "Vatomer el-ghevirta ahaléi adoni lifnei hanavi așer beȘomron az yeesof oto mitzarato.",
      "tokens": [
       {
-       "t": "Ea i-a spus stăpânei ei: „Rugămințile stăpânului meu să fie aduse în fața profetului care este în Samaria, și atunci el "
+       "t": "Ea i-a spus stăpânei ei: „Rugămințile stăpânului meu să fie aduse în fața profetului care este în Samaria, și atunci el",
+       "w": "Ea i-a spus stăpânei ei: „Rugămințile stăpânului meu să fie aduse în fața profetului care este în Samaria, și atunci el",
+       "heb": "וַתֹּאמֶר אֶל גְּבִרְתָּהּ אַחֲלֵי אֲדֹנִי לִפְנֵי הַנָּבִיא אֲשֶׁר בְּשֹׁמְרוֹן אָז",
+       "translit": "vatomer el gevirtah ahalē adoni lifnē hanavi așer beșomron az",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv construct + sufix + interjecție + substantiv construct + sufix + substantiv construct + substantiv + particulă relativă + nume propriu + adverb",
+       "def_ro": "și a spus către stăpâna ei: o, de-ar fi stăpânul meu înaintea profetului care este în Samaria, atunci.",
+       "dict_ro": "Rashi explică «ahalei» ca o expresie de rugăminte, întocmai ca «și Moise L-a rugat» (Exod 32:11) — fata captivă exprimă o dorință fierbinte, nu o certitudine, pentru vindecarea stăpânului ei."
+      },
+      {
+       "t": " "
       },
       {
        "t": "îl va vindeca",
@@ -70640,7 +70730,14 @@
        "dict_ro": "Asaf — literal „a aduna, a strânge înăuntru”; aplicat leprosului, înseamnă vindecarea, pentru că, explică Rashi, în timpul bolii toți se țin departe de el, iar când se vindecă e din nou „adunat” printre oameni. Metzudat David adaugă temeiul biblic: leprosul locuia în afara taberei și, vindecat, era primit înapoi — ca Miriam, la care scrie „până ce a fost adunată [primită înapoi] Miriam” (Numeri 12:15)."
       },
       {
-       "t": " de lepră.”"
+       "t": " de lepră.”",
+       "w": " de lepră.”",
+       "heb": "אֹתוֹ מִצָּרַעְתּוֹ",
+       "translit": "oto mițarato",
+       "strong": "H853",
+       "pos": "marcă a complementului direct + sufix + substantiv construct + sufix",
+       "def_ro": "pe el, de lepra lui.",
+       "dict_ro": "Rashi și Metzudat David explică faptul că «adunarea» (ieesof) spusă despre lepros înseamnă chiar vindecarea lui: cât e bolnav, leprosul stă departe de tabără, iar vindecarea îl «adună» din nou printre oameni, ca la Numeri 12:15 despre Miriam."
       }
      ],
      "textCompare": [
@@ -70683,7 +70780,14 @@
      "translit": "Vaiavo vaiaged ladonav lemor kazot vechazot dibra hanaara așer meereț Israël.",
      "tokens": [
       {
-       "t": "[Naaman] a mers și i-a povestit stăpânului său, spunând: „"
+       "t": "[Naaman] a mers și i-a povestit stăpânului său, spunând: „",
+       "w": "[Naaman] a mers și i-a povestit stăpânului său, spunând: „",
+       "heb": "וַיָּבֹא וַיַּגֵּד לַאדֹנָיו לֵאמֹר",
+       "translit": "vaiavo vaiagēd ladonaiv lēmor",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + verb, hifil imperfect consecutiv + substantiv plural + sufix + verb, qal infinitiv",
+       "def_ro": "și a venit și a vestit stăpânului său, spunând.",
+       "dict_ro": "Rashi precizează că subiectul acțiunii e Naaman, care îi povestește regelui Aramului cuvintele fetei captive, fără să le pună el însuși la îndoială."
       },
       {
        "t": "Precum aceste",
@@ -70698,7 +70802,14 @@
        "dict_ro": "Kazot vechazot — „așa și așa”, formulă de rezumare prin care naratorul evită să repete cuvintele fetei deja citate. Rashi și Metzudat David precizează cine vorbește cu cine: Naaman însuși a venit și i-a povestit stăpânului său, regele Aramului. Faptul că un general de rang înalt ia în serios cuvântul unei sclave captive și îl duce până la rege arată cât de disperată era situația lui."
       },
       {
-       "t": " [cuvinte] a vorbit fata din țara Israelului.”"
+       "t": " [cuvinte] a vorbit fata din țara Israelului.”",
+       "w": " [cuvinte] a vorbit fata din țara Israelului.”",
+       "heb": "דִּבְּרָה הַנַּעֲרָה אֲשֶׁר מֵאֶרֶץ יִשְׂרָאֵל",
+       "translit": "dibra hanaara așer mēereț israēl",
+       "strong": "H1696",
+       "pos": "verb, piel perfect + substantiv + particulă relativă + substantiv construct + nume propriu",
+       "def_ro": "a vorbit fata care este din țara Israelului.",
+       "dict_ro": "Metzudat David notează simplu că Naaman a povestit stăpânului său exact ce spusese fata, fără adaosuri — relatare fidelă care pune în mișcare întregul șir al evenimentelor următoare."
       }
      ],
      "textCompare": [
@@ -70738,7 +70849,27 @@
      "translit": "Vaiomer meleh-Aram leh-bo veeșleha sefer el-meleh Israël vaieleh vayikah beyado eser kikrei-chesef veșeshet alafim zahav veeser halifot begadim.",
      "tokens": [
       {
-       "t": "Regele Aramului i-a spus: „Mergi la el și eu voi trimite o scrisoare regelui Israelului.” El a mers și a luat cu sine zece talanți de argint, șase mii de monede de aur și "
+       "t": "Regele Aramului i-a spus: „Mergi la el și eu voi trimite o scrisoare regelui Israelului.”",
+       "w": "Regele Aramului i-a spus: „Mergi la el și eu voi trimite o scrisoare regelui Israelului.”",
+       "heb": "וַיֹּאמֶר מֶלֶךְ אֲרָם לֶךְ בֹּא וְאֶשְׁלְחָה סֵפֶר אֶל מֶלֶךְ יִשְׂרָאֵל",
+       "translit": "vaiomer meleh aram leh bo veeșleha sēfer el meleh israēl",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + nume propriu + verb, qal imperativ + verb, qal imperativ + verb, qal cohortativ + substantiv + prepoziție + substantiv construct + nume propriu",
+       "def_ro": "și a spus regele Aramului: mergi, du-te, și voi trimite o scrisoare la regele Israelului.",
+       "dict_ro": "Metzudat David explică faptul că regele Aramului trimite scrisoarea «regelui Israelului» pentru ca acesta să-i poruncească profetului să-l vindece pe Naaman, nu crezând că regele însuși ar putea vindeca lepra."
+      },
+      {
+       "t": " El a mers și a luat cu sine zece talanți de argint, șase mii de monede de aur și",
+       "w": " El a mers și a luat cu sine zece talanți de argint, șase mii de monede de aur și",
+       "heb": "וַיֵּלֶךְ וַיִּקַּח בְּיָדוֹ עֶשֶׂר כִּכְּרֵי כֶסֶף וְשֵׁשֶׁת אֲלָפִים זָהָב וְעֶשֶׂר",
+       "translit": "vaiēleh vaikah beiado eser kikrē hesef veșēșet alafim zahav veeser",
+       "strong": "H3212",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + substantiv construct + sufix + numeral + substantiv construct + substantiv + numeral + numeral + substantiv + numeral",
+       "def_ro": "și a mers și a luat în mâna lui zece talanți de argint și șase mii de arginți de aur, și zece.",
+       "dict_ro": "Rashi explică faptul că toate acestea erau un dar pentru profet, pe care Naaman îl aduce cu sine încă înainte de a-i fi cerut nimic — pregătit să plătească generos pentru vindecare."
+      },
+      {
+       "t": " "
       },
       {
        "t": "zece schimburi de haine",
@@ -70797,7 +70928,17 @@
      "translit": "Vaiave hasefer el-meleh Israël lemor veata kevo hasefer haze elecha hine șalahti elecha et-Naaman avdi vaasafto mitzarato.",
      "tokens": [
       {
-       "t": "Și i-a adus regelui Israelului o "
+       "t": "Și i-a adus regelui Israelului o",
+       "w": "Și i-a adus regelui Israelului o",
+       "heb": "וַיָּבֵא אֶל מֶלֶךְ יִשְׂרָאֵל",
+       "translit": "vaiavē el meleh israēl",
+       "strong": "H935",
+       "pos": "verb, hifil imperfect consecutiv + prepoziție + substantiv construct + nume propriu",
+       "def_ro": "și a adus la regele Israelului.",
+       "dict_ro": "Metzudat David subliniază că Naaman a adus scrisoarea direct regelui Israelului, urmând exact sfatul regelui Aramului de la versetul precedent."
+      },
+      {
+       "t": " "
       },
       {
        "t": "scrisoare",
@@ -70812,7 +70953,14 @@
        "dict_ro": "Sefer — orice document scris: carte, sul, scrisoare oficială. Metzudat David observă că Scriptura redă doar finalul scrisorii („și acum...”), pentru că începutul cuprindea salutările obișnuite; iar regele Aramului nu se aștepta ca regele Israelului să-l vindece el însuși, ci ca acesta să-i poruncească profetului. Formularea ambiguă — „ca să-l vindeci” — e tocmai ceea ce va provoca panica regelui din versetul următor."
       },
       {
-       "t": " care spunea: „Și acum, când această scrisoare va ajunge la tine, iată, l-am trimis la tine pe slujitorul meu Naaman, ca să-l vindeci de lepra lui.”"
+       "t": " care spunea: „Și acum, când această scrisoare va ajunge la tine, iată, l-am trimis la tine pe slujitorul meu Naaman, ca să-l vindeci de lepra lui.”",
+       "w": " care spunea: „Și acum, când această scrisoare va ajunge la tine, iată, l-am trimis la tine pe slujitorul meu Naaman, ca să-l vindeci de lepra lui.”",
+       "heb": "לֵאמֹר וְעַתָּה כְּבוֹא הַסֵּפֶר הַזֶּה אֵלֶיךָ הִנֵּה שָׁלַחְתִּי אֵלֶיךָ אֶת נַעֲמָן עַבְדִּי וַאֲסַפְתּוֹ מִצָּרַעְתּוֹ",
+       "translit": "lēmor veata kevo hasēfer haze ēleha hinē șalahti ēleha et naaman avdi vaasafto mițarato",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv + adverb + verb, qal infinitiv + substantiv + pronume demonstrativ + prepoziție + sufix + particulă demonstrativă + verb, qal perfect + prepoziție + sufix + marcă a complementului direct + nume propriu + substantiv construct + sufix + verb, qal perfect consecutiv + sufix + substantiv construct + sufix",
+       "def_ro": "spunând: și acum, când va veni scrisoarea aceasta la tine, iată, am trimis la tine pe Naaman, slujitorul meu, și să-l aduni de lepra lui.",
+       "dict_ro": "Metzudat David explică faptul că scrisoarea omite formulele obișnuite de salut și începe direct cu partea esențială — regele Aramului presupune că regele Israelului îi va porunci profetului să-l vindece, nu că el însuși ar face-o."
       }
      ],
      "textCompare": [
@@ -70849,7 +70997,27 @@
      "translit": "Vayehi kikro meleh-Israël et-hasefer vayikra begadav vaiomer haElohim ani lehamit ulehahaiot ki-ze șoleah elai leesof iș mitzarato ki ach-deu-na ureu ki-mitane hu li.",
      "tokens": [
       {
-       "t": "Când regele Israelului a citit scrisoarea, și-a sfâșiat veșmintele și a spus: „Sunt eu oare Dumnezeu ca să pot ucide și să pot da viață, că omul acesta trimite la mine pe cineva să-l vindec de lepră? Să știi și să vezi că el "
+       "t": "Când regele Israelului a citit scrisoarea, și-a sfâșiat veșmintele și a spus: „Sunt eu oare Dumnezeu ca să pot ucide și să pot da viață,",
+       "w": "Când regele Israelului a citit scrisoarea, și-a sfâșiat veșmintele și a spus: „Sunt eu oare Dumnezeu ca să pot ucide și să pot da viață,",
+       "heb": "וַיְהִי כִּקְרֹא מֶלֶךְ יִשְׂרָאֵל אֶת הַסֵּפֶר וַיִּקְרַע בְּגָדָיו וַיֹּאמֶר הַאֱלֹהִים אָנִי לְהָמִית וּלְהַחֲיוֹת",
+       "translit": "vaihi kikro meleh israēl et hasēfer vaikra begadaiv vaiomer haelohim ani lehamit ulhahaiot",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + verb, qal infinitiv + substantiv construct + nume propriu + marcă a complementului direct + substantiv + verb, qal imperfect consecutiv + substantiv construct + sufix + verb, qal imperfect consecutiv + substantiv + pronume personal + verb, hifil infinitiv + verb, hifil infinitiv",
+       "def_ro": "și a fost, când a citit regele Israelului scrisoarea, și-a sfâșiat veșmintele și a spus: sunt eu Dumnezeu, să ucid și să dau viață?",
+       "dict_ro": "Rashi explică faptul că litera «he» de la începutul întrebării «haelohim» e vocalizată cu patah, pentru a arăta clar că e o formă interogativă — regele exprimă consternare, nu afirmație."
+      },
+      {
+       "t": " că omul acesta trimite la mine pe cineva să-l vindec de lepră? Să știi și să vezi că el",
+       "w": " că omul acesta trimite la mine pe cineva să-l vindec de lepră? Să știi și să vezi că el",
+       "heb": "כִּי זֶה שֹׁלֵחַ אֵלַי לֶאֱסֹף אִישׁ מִצָּרַעְתּוֹ כִּי אַךְ דְּעוּ נָא וּרְאוּ כִּי",
+       "translit": "ki ze șolēah ēlai leesof iș mițarato ki ah deu na uru ki",
+       "strong": "H3588",
+       "pos": "conjuncție + pronume demonstrativ + verb, qal participiu + prepoziție + sufix + verb, qal infinitiv + substantiv + substantiv construct + sufix + conjuncție + particulă afirmativă + verb, qal imperativ + interjecție + verb, qal imperativ + conjuncție",
+       "def_ro": "căci acesta trimite la mine ca să adun un om de lepra lui? Căci, într-adevăr, știți și vedeți că.",
+       "dict_ro": "Metzudat David explică faptul că regele, din marea lui răutate, n-a crezut în puterea profetului și a presupus în schimb că regele Aramului îl trimitea pe el însuși să-l vindece — o neînțelegere ce-l duce la disperare."
+      },
+      {
+       "t": " "
       },
       {
        "t": "caută pricină",
@@ -70864,7 +71032,14 @@
        "dict_ro": "Ana, la forma hitpael — „a căuta prilej, a pândi o ocazie” împotriva cuiva; Rashi îl leagă de „alilot devarim” (învinuiri mincinoase, Deuteronomul 22:14): regele crede că Aramul caută un pretext de război. Metzudat David vede aici și un diagnostic spiritual: din pricina răutății lui, regele Israelului nici nu s-a gândit la profetul din țara lui, ci a crezut că i se cere lui însuși o minune pe care numai Cel ce „omoară și dă viață” o poate face."
       },
       {
-       "t": " împotriva mea!”"
+       "t": " împotriva mea!”",
+       "w": " împotriva mea!”",
+       "heb": "הוּא לִי",
+       "translit": "hu li",
+       "strong": "H1931",
+       "pos": "pronume personal + prepoziție + sufix",
+       "def_ro": "el [este] pentru mine.",
+       "dict_ro": "Rashi explică «mitane» ca o expresie de «învinuiri mincinoase», aceeași rădăcină folosită la Deuteronom 22:14 — regele crede că cererea ascunde intenția de a găsi un pretext de război."
       }
      ],
      "textCompare": [
@@ -70908,7 +71083,27 @@
      "translit": "Vayehi kișmoa Elișa iș-haElohim ki-kara meleh-Israël et-begadav vayișlah el-hameleh lemor lama karata begadeha yavo-na elai veyeda ki yeș navi beIsraël.",
      "tokens": [
       {
-       "t": "Când Elișa, omul lui Dumnezeu, a auzit că regele Israelului și-a sfâșiat veșmintele, a trimis [veste] la rege, spunând: „De ce ți-ai sfâșiat veșmintele? Dă-i voie să vină la mine și va ști că există "
+       "t": "Când Elișa, omul lui Dumnezeu, a auzit că regele Israelului și-a sfâșiat veșmintele, a trimis [veste] la rege, spunând: „De ce ți-ai sfâșiat veșmintele?",
+       "w": "Când Elișa, omul lui Dumnezeu, a auzit că regele Israelului și-a sfâșiat veșmintele, a trimis [veste] la rege, spunând: „De ce ți-ai sfâșiat veșmintele?",
+       "heb": "וַיְהִי כִּשְׁמֹעַ אֱלִישָׁע אִישׁ הָאֱלֹהִים כִּי קָרַע מֶלֶךְ יִשְׂרָאֵל אֶת בְּגָדָיו וַיִּשְׁלַח אֶל הַמֶּלֶךְ לֵאמֹר לָמָּה קָרַעְתָּ בְּגָדֶיךָ",
+       "translit": "vaihi kișmoa elișa iș haelohim ki kara meleh israēl et begadaiv vaișlah el hameleh lēmor lama karata begadeha",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + verb, qal infinitiv + nume propriu + substantiv construct + substantiv + conjuncție + verb, qal perfect + substantiv construct + nume propriu + marcă a complementului direct + substantiv construct + sufix + verb, qal imperfect consecutiv + prepoziție + substantiv + verb, qal infinitiv + particulă interogativă + verb, qal perfect + substantiv construct + sufix",
+       "def_ro": "și a fost, când a auzit Elișa, omul lui Dumnezeu, că și-a sfâșiat regele Israelului veșmintele, a trimis la rege, spunând: pentru ce ți-ai sfâșiat veșmintele?",
+       "dict_ro": "Metzudat David explică faptul că Elișa trimite acest mesaj nu de dragul cinstei lui, ci pentru sfințirea Numelui lui Dumnezeu — ca regele și toți ceilalți să știe că există cu adevărat un profet în Israel."
+      },
+      {
+       "t": " Dă-i voie să vină la mine și va ști că există",
+       "w": " Dă-i voie să vină la mine și va ști că există",
+       "heb": "יָבֹא נָא אֵלַי וְיֵדַע כִּי יֵשׁ",
+       "translit": "iavo na ēlai veiēda ki iēș",
+       "strong": "H935",
+       "pos": "verb, qal jusiv + interjecție + prepoziție + sufix + verb, qal jusiv + conjuncție + particulă demonstrativă",
+       "def_ro": "să vină, te rog, la mine, și va ști că există.",
+       "dict_ro": "Elișa invită direct, calm, fără a cere nimic de la rege — contrastul dintre teama regelui și siguranța profetului e deliberat, pregătind următoarea scenă cu Naaman."
+      },
+      {
+       "t": " "
       },
       {
        "t": "un profet",
@@ -70923,7 +71118,14 @@
        "dict_ro": "Navi — cel chemat să vestească cuvântul lui Dumnezeu. Răspunsul lui Elișa corectează ironic panica regelui: nu regele trebuie să facă minunea, ci Naaman trebuie să afle că „există un profet în Israel”. Metzudat David precizează motivul: nu pentru gloria regelui îl va vindeca, ci „pentru sfințirea Numelui” — ca un străin să cunoască puterea Dumnezeului lui Israel, ceea ce se și împlinește în mărturisirea lui Naaman din v. 15."
       },
       {
-       "t": " în Israel.”"
+       "t": " în Israel.”",
+       "w": " în Israel.”",
+       "heb": "בְּיִשְׂרָאֵל",
+       "translit": "beisraēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "în Israel.",
+       "dict_ro": "Afirmarea existenței unui profet autentic «în Israel» e rostită special pentru a contracara teama regelui că nimeni, nici chiar un om, n-ar putea vindeca o boală ca lepra."
       }
      ],
      "textCompare": [
@@ -70963,7 +71165,17 @@
      "translit": "Vaiavo Naaman besuso uverichbo vayaamod petah-habait leElișa.",
      "tokens": [
       {
-       "t": "Naaman a venit cu caii lui și carul lui și a stat "
+       "t": "Naaman a venit cu caii lui și carul lui și a stat",
+       "w": "Naaman a venit cu caii lui și carul lui și a stat",
+       "heb": "וַיָּבֹא נַעֲמָן בְּסוּסָיו וּבְרִכְבּוֹ וַיַּעֲמֹד",
+       "translit": "vaiavo naaman besusaiv uvrihbo vaiaamod",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + substantiv construct + sufix + substantiv construct + sufix + verb, qal imperfect consecutiv",
+       "def_ro": "și a venit Naaman cu caii lui și carul lui și a stat.",
+       "dict_ro": "Radak notează o diferență între scrisul textului («besuso», «cu calul lui», singular) și citirea tradițională («besusav», plural) — scrisul arată că el însuși călărea pe calul lui, iar citirea include alaiul care venea cu el."
+      },
+      {
+       "t": " "
       },
       {
        "t": "la ușa casei",
@@ -70978,7 +71190,14 @@
        "dict_ro": "Petah — deschizătura, intrarea. Imaginea e voit teatrală: generalul străin vine cu toată pompa — cai și car de luptă — și se oprește la ușa unei case modeste de profet, așteptând să fie întâmpinat cu onoruri. Versetul pregătește astfel contrastul din versetul următor, în care Elișa nici nu iese la el, ci îi trimite doar un sol."
       },
       {
-       "t": " lui Elișa."
+       "t": " lui Elișa.",
+       "w": " lui Elișa.",
+       "heb": "הַבַּיִת לֶאֱלִישָׁע",
+       "translit": "habait leelișa",
+       "strong": "H1004",
+       "pos": "substantiv + nume propriu",
+       "def_ro": "[la] casa lui Elișa.",
+       "dict_ro": "Naaman se oprește exact la ușa casei profetului — gestul stabilește scena așteptării, pe care Elișa o va surprinde trimițând doar un sol, fără a ieși el însuși."
       }
      ],
      "textCompare": [
@@ -71016,7 +71235,17 @@
      "translit": "Vayișlah elav Elișa malach lemor haloch verahatzta șeva-peamim baIarden veyașov besarha lecha utehar.",
      "tokens": [
       {
-       "t": "Elișa a trimis la el un sol, spunând: „Mergi și cufundă-te "
+       "t": "Elișa a trimis la el un sol, spunând: „Mergi și cufundă-te",
+       "w": "Elișa a trimis la el un sol, spunând: „Mergi și cufundă-te",
+       "heb": "וַיִּשְׁלַח אֵלָיו אֱלִישָׁע מַלְאָךְ לֵאמֹר הָלוֹךְ וְרָחַצְתָּ",
+       "translit": "vaișlah ēlaiv elișa malah lēmor haloh verahațta",
+       "strong": "H7971",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + nume propriu + substantiv + verb, qal infinitiv + verb, qal infinitiv absolut + verb, qal perfect consecutiv",
+       "def_ro": "și a trimis la el Elișa un sol, spunând: du-te și te scaldă.",
+       "dict_ro": "Faptul că Elișa trimite doar un sol, fără să iasă personal să-l întâmpine pe marele general, pregătește exact jignirea pe care Naaman o va simți la versetul următor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "de șapte ori",
@@ -71031,7 +71260,14 @@
        "dict_ro": "Șeva peamim — numărul șapte străbate ritualul de curățire a leprosului din Tora: stropirea de șapte ori cu sângele păsării (Leviticul 14:7) și cu untdelemn (Leviticul 14:16), la fel ca stropirea cu apa de curățire (Numeri 19:4). Metzudat David explică și făgăduința „carnea ta își va reveni”: prin lepră carnea slăbise și se topise, iar acum nu doar că va fi curățit, ci îi va reveni și carnea sănătoasă."
       },
       {
-       "t": " în Iordan și carnea ta își va reveni și vei fi curățit.”"
+       "t": " în Iordan și carnea ta își va reveni și vei fi curățit.”",
+       "w": " în Iordan și carnea ta își va reveni și vei fi curățit.”",
+       "heb": "פְּעָמִים בַּיַּרְדֵּן וְיָשֹׁב בְּשָׂרְךָ לְךָ וּטְהָר",
+       "translit": "peamim baiardēn veiașov besarha leha uthar",
+       "strong": "H6471",
+       "pos": "substantiv + nume propriu + verb, qal imperfect + substantiv construct + sufix + prepoziție + sufix + verb, qal imperativ",
+       "def_ro": "de [șapte] ori în Iordan, și îți va reveni carnea ta, și fii curat.",
+       "dict_ro": "Metzudat David explică faptul că din cauza leprei carnea lui Naaman slăbise, iar promisiunea e dublă: refacerea trupului și curățirea de boală, ambele printr-un gest simplu — scufundarea de șapte ori."
       }
      ],
      "textCompare": [
@@ -71071,7 +71307,17 @@
      "translit": "Vayiktzof Naaman vaieleh vaiomer hine amarti elai yetze yatzo veamad vekara beșem-ADONAI Elohav vehenif yado el-hamakom veasaf hametzora.",
      "tokens": [
       {
-       "t": "Naaman s-a mâniat și a plecat; și a spus: „Iată, mi-am spus că va ieși negreșit în întâmpinarea mea și că va sta în picioare și va chema în numele DOMNULUI, Dumnezeului lui, și își va ridica mâinile către "
+       "t": "Naaman s-a mâniat și a plecat; și a spus: „Iată, mi-am spus că va ieși negreșit în întâmpinarea mea și că va sta în picioare și va chema în numele DOMNULUI, Dumnezeului lui, și își va ridica mâinile către",
+       "w": "Naaman s-a mâniat și a plecat; și a spus: „Iată, mi-am spus că va ieși negreșit în întâmpinarea mea și că va sta în picioare și va chema în numele DOMNULUI, Dumnezeului lui, și își va ridica mâinile către",
+       "heb": "וַיִּקְצֹף נַעֲמָן וַיֵּלַךְ וַיֹּאמֶר הִנֵּה אָמַרְתִּי אֵלַי יֵצֵא יָצוֹא וְעָמַד וְקָרָא בְּשֵׁם יְהוָה אֱלֹהָיו וְהֵנִיף יָדוֹ אֶל",
+       "translit": "vaikțof naaman vaiēlah vaiomer hinē amarti ēlai iēțē iațo veamad vekara beșēm Adonai elohaiv vehēnif iado el",
+       "strong": "H7107",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + particulă demonstrativă + verb, qal perfect + prepoziție + sufix + verb, qal imperfect + verb, qal infinitiv absolut + verb, qal perfect consecutiv + verb, qal perfect consecutiv + substantiv construct + nume propriu + substantiv construct + sufix + verb, hifil perfect consecutiv + substantiv construct + sufix + prepoziție",
+       "def_ro": "și s-a mâniat Naaman și a plecat, și a spus: iată, îmi spuneam că negreșit va ieși și va sta și va chema în numele DOMNULUI, Dumnezeului lui, și își va flutura mâna către.",
+       "dict_ro": "Metzudat David explică faptul că Naaman se aștepta la onoruri potrivite rangului său — profetul să iasă în întâmpinarea lui, să stea în picioare în semn de respect — și la o vindecare prin gest vizibil, nu printr-o poruncă transmisă de la distanță."
+      },
+      {
+       "t": " "
       },
       {
        "t": "[Cel] Omniprezent",
@@ -71085,7 +71331,14 @@
        "dict_ro": "Makom — literal „loc”; în literatura rabinică „HaMakom” devine un nume al lui Dumnezeu (Cel Omniprezent, „locul lumii”), sens pe care îl reflectă traducerea de aici. Rashi însă citește simplu: Naaman se aștepta ca profetul să-și fluture mâna „spre locul” bolii, iar Metzudat David completează — ca să reverse vindecarea acolo prin minune. Versetul dezvăluie așteptarea lui Naaman: un ritual spectaculos, cu onoruri și gesturi, nu o simplă poruncă."
       },
       {
-       "t": " și leprosul se va vindeca."
+       "t": " și leprosul se va vindeca.",
+       "w": " și leprosul se va vindeca.",
+       "heb": "וְאָסַף הַמְּצֹרָע",
+       "translit": "veasaf hamțora",
+       "strong": "H622",
+       "pos": "verb, qal perfect consecutiv + verb, pual participiu pasiv",
+       "def_ro": "și va fi adunat leprosul.",
+       "dict_ro": "Verbul «adunare» (asaf) revine aici exact ca în v.3 și v.6 — vindecarea leprei e descrisă sistematic prin ideea de „re-adunare” în comunitate, nu doar ca o simplă curățire fizică."
       }
      ],
      "textCompare": [
@@ -71128,7 +71381,17 @@
      "translit": "Halo tov Amana uFarpar naharot Dameșek mikol meimei Israël halo-erhatz bahem vetaharti vayifen vaieleh behema.",
      "tokens": [
       {
-       "t": "Nu sunt oare "
+       "t": "Nu sunt oare",
+       "w": "Nu sunt oare",
+       "heb": "הֲלֹא טוֹב",
+       "translit": "halo tov",
+       "strong": "H3808",
+       "pos": "particulă negativă + adjectiv",
+       "def_ro": "nu [sunt] bune oare.",
+       "dict_ro": "Întrebarea retorică a lui Naaman pune râurile cunoscute ale patriei sale în competiție directă cu Iordanul, pe care-l disprețuiește ca simplu leac natural."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Amana",
@@ -71143,7 +71406,14 @@
        "dict_ro": "Amana / Avana — textul scris (ketiv) are Amana, iar citirea tradițională (keri) e Avana; e râul identificat de obicei cu Barada de azi, care traversează Damascul, iar Farpar cu un râu vecin din aceeași regiune, ambele cu ape limpezi, spre deosebire de Iordanul tulbure. Metzudat David redă logica lui Naaman: dacă spălarea ar fi un leac natural, râurile Damascului, în care se spăla mereu, l-ar fi vindecat deja — de ce ar ajuta Iordanul?"
       },
       {
-       "t": " și Farpar, râurile Damascului, mai bune decât toate apele din Israel? Mă voi scălda în ele și voi fi curățit.” Și s-a întors și a plecat mânios."
+       "t": " și Farpar, râurile Damascului, mai bune decât toate apele din Israel? Mă voi scălda în ele și voi fi curățit.” Și s-a întors și a plecat mânios.",
+       "w": " și Farpar, râurile Damascului, mai bune decât toate apele din Israel? Mă voi scălda în ele și voi fi curățit.” Și s-a întors și a plecat mânios.",
+       "heb": "וּפַרְפַּר נַהֲרוֹת דַּמֶּשֶׂק מִכֹּל מֵימֵי יִשְׂרָאֵל הֲלֹא אֶרְחַץ בָּהֶם וְטָהָרְתִּי וַיִּפֶן וַיֵּלֶךְ בְּחֵמָה",
+       "translit": "ufarpar naharot damesek mikol mēmē israēl halo erhaț bahem vetaharti vaifen vaiēleh behēma",
+       "strong": "H6554",
+       "pos": "nume propriu + substantiv plural construct + nume propriu + substantiv construct + substantiv plural construct + nume propriu + particulă negativă + verb, qal imperfect + prepoziție + sufix + verb, qal perfect + verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "și Farpar, râurile Damascului, decât toate apele Israelului? Nu mă voi scălda în ele și voi fi curat? Și s-a întors și a plecat cu mânie.",
+       "dict_ro": "Metzudat David explică faptul că raționamentul lui Naaman e greșit: dacă râurile Damascului, în care se scaldă mereu, nu l-au curățit vreodată de lepră, nici apele Iordanului n-ar avea de ce să-l curețe — nefiind vorba de un leac natural, ci de o minune legată de ascultare."
       }
      ],
      "textCompare": [
@@ -71181,7 +71451,14 @@
      "translit": "Vayigșu avadav vayedabru elav vayomru avi davar gadol hanavi diber elecha halo taase veaf ki-amar elecha rehatz utehar.",
      "tokens": [
       {
-       "t": "Dar slujitorii lui s-au apropiat și i-au vorbit, spunând: „"
+       "t": "Dar slujitorii lui s-au apropiat și i-au vorbit, spunând: „",
+       "w": "Dar slujitorii lui s-au apropiat și i-au vorbit, spunând: „",
+       "heb": "וַיִּגְּשׁוּ עֲבָדָיו וַיְדַבְּרוּ אֵלָיו וַיֹּאמְרוּ",
+       "translit": "vaigșu avadaiv vaidabru ēlaiv vaiomru",
+       "strong": "H5066",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + sufix + verb, piel imperfect consecutiv + prepoziție + sufix + verb, qal imperfect consecutiv",
+       "def_ro": "și s-au apropiat slujitorii lui și i-au vorbit, și au spus.",
+       "dict_ro": "Slujitorii intervin cu înțelepciune practică, descâlcind orgoliul rănit al stăpânului lor printr-un argument simplu de logică, nu prin contestarea mâniei lui."
       },
       {
        "t": "Părinte",
@@ -71195,7 +71472,14 @@
        "dict_ro": "Avi — „tatăl meu”; Rashi explică că aici e echivalentul lui „adoni” (stăpâne), titlu de respect pentru un om de rang înalt — la fel cum Iosif spune că Dumnezeu l-a pus „tată pentru Faraon” (Geneza 45:8). Argumentul slujitorilor e un „kal vahomer” (de la mai greu la mai ușor) clasic: dacă profetul ți-ar fi cerut ceva greu, l-ai fi făcut — cu atât mai mult un lucru atât de ușor."
       },
       {
-       "t": ", dacă profetul îți spunea un lucru greu, oare nu l-ai fi făcut? [Cu atât mai mult acum,] când ți-a spus doar «cufundă-te și vei fi curățit.»”"
+       "t": ", dacă profetul îți spunea un lucru greu, oare nu l-ai fi făcut? [Cu atât mai mult acum,] când ți-a spus doar «cufundă-te și vei fi curățit.»”",
+       "w": ", dacă profetul îți spunea un lucru greu, oare nu l-ai fi făcut? [Cu atât mai mult acum,] când ți-a spus doar «cufundă-te și vei fi curățit.»”",
+       "heb": "דָּבָר גָּדוֹל הַנָּבִיא דִּבֶּר אֵלֶיךָ הֲלוֹא תַעֲשֶׂה וְאַף כִּי אָמַר אֵלֶיךָ רְחַץ וּטְהָר",
+       "translit": "davar gadol hanavi diber ēleha halo taase veaf ki amar ēleha rehaț uthar",
+       "strong": "H1697",
+       "pos": "substantiv + adjectiv + substantiv + verb, piel perfect + prepoziție + sufix + particulă negativă + verb, qal imperfect + adverb + conjuncție + verb, qal perfect + prepoziție + sufix + verb, qal imperativ + verb, qal imperativ",
+       "def_ro": "un lucru mare dacă ți-ar fi spus profetul, n-ai face? Și cu atât mai mult când ți-a spus: scaldă-te și fii curat.",
+       "dict_ro": "Rashi explică acest argument ca o deducție de la mai greu la mai ușor (kal vahomer): dacă David ar fi ascultat o poruncă grea, cu atât mai mult trebuie ascultată una ușoară ca aceasta."
       }
      ],
      "textCompare": [
@@ -71238,7 +71522,17 @@
      "translit": "Vaiered vayitbol baIarden șeva peamim kidvar iș haElohim vayașav besaro kivsar naar katon vayithar.",
      "tokens": [
       {
-       "t": "Așa că el a coborât și "
+       "t": "Așa că el a coborât și",
+       "w": "Așa că el a coborât și",
+       "heb": "וַיֵּרֶד",
+       "translit": "vaiēred",
+       "strong": "H3381",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a coborât.",
+       "dict_ro": "Supunerea lui Naaman, în urma argumentului slujitorilor, marchează momentul de cotitură al întregii povestiri — mândria cedează în fața ascultării simple."
+      },
+      {
+       "t": " "
       },
       {
        "t": "s-a cufundat",
@@ -71253,7 +71547,14 @@
        "dict_ro": "Taval — „a (se) cufunda”, rădăcina din care vine în limbajul rabinic „tevila”, cufundarea rituală în mikve. E semnificativ că Elișa spusese „rahatz” (spală-te, v. 10), iar Naaman face mai mult — „taval”, cufundare completă, de șapte ori. Metzudat David explică „ca trupul unui copil mic”: carnea i-a devenit curată și strălucitoare, deci nu doar vindecată, ci înnoită."
       },
       {
-       "t": " de șapte ori în Iordan, după vorba omului lui Dumnezeu, și carnea sa a întinerit și a fost curățit."
+       "t": " de șapte ori în Iordan, după vorba omului lui Dumnezeu, și carnea sa a întinerit și a fost curățit.",
+       "w": " de șapte ori în Iordan, după vorba omului lui Dumnezeu, și carnea sa a întinerit și a fost curățit.",
+       "heb": "בַּיַּרְדֵּן שֶׁבַע פְּעָמִים כִּדְבַר אִישׁ הָאֱלֹהִים וַיָּשָׁב בְּשָׂרוֹ כִּבְשַׂר נַעַר קָטֹן וַיִּטְהָר",
+       "translit": "baiardēn șeva peamim kidvar iș haelohim vaiașav besaro kivsar naar katon vaithar",
+       "strong": "H3383",
+       "pos": "nume propriu + numeral + substantiv + substantiv construct + substantiv construct + substantiv + verb, qal imperfect consecutiv + substantiv construct + sufix + substantiv construct + substantiv + adjectiv + verb, qal imperfect consecutiv",
+       "def_ro": "în Iordan, de șapte ori, după vorba omului lui Dumnezeu, și i-a revenit carnea ca și carnea unui copil mic, și a fost curățit.",
+       "dict_ro": "Metzudat David explică faptul că expresia «ca trupul unui copil mic» descrie pielea lui Naaman devenind curată și strălucitoare — vindecarea e vizibilă, completă, nu simbolică."
       }
      ],
      "textCompare": [
@@ -71293,7 +71594,17 @@
      "translit": "Vayașav el-iș haElohim hu vechol-mahanehu vaiavo vayaamod lefanav vaiomer hine-na yadati ki ein Elohim bechol-haaretz ki im-beIsraël veata kah-na beracha meet avdecha.",
      "tokens": [
       {
-       "t": "El s-a întors la omul lui Dumnezeu, el și întregul său alai. A venit la el și a stat înaintea lui și a spus: „Iată, acum știu că nu este Dumnezeu în toată lumea, în afară de în Israel; primește așadar "
+       "t": "El s-a întors la omul lui Dumnezeu, el și întregul său alai. A venit la el și a stat înaintea lui și a spus: „Iată, acum știu că nu este Dumnezeu în toată lumea, în afară de în Israel; primește așadar",
+       "w": "El s-a întors la omul lui Dumnezeu, el și întregul său alai. A venit la el și a stat înaintea lui și a spus: „Iată, acum știu că nu este Dumnezeu în toată lumea, în afară de în Israel; primește așadar",
+       "heb": "וַיָּשָׁב אֶל אִישׁ הָאֱלֹהִים הוּא וְכָל מַחֲנֵהוּ וַיָּבֹא וַיַּעֲמֹד לְפָנָיו וַיֹּאמֶר הִנֵּה נָא יָדַעְתִּי כִּי אֵין אֱלֹהִים בְּכָל הָאָרֶץ כִּי אִם בְּיִשְׂרָאֵל וְעַתָּה קַח נָא",
+       "translit": "vaiașav el iș haelohim hu vehal mahanēhu vaiavo vaiaamod lefanaiv vaiomer hinē na iadati ki ēn elohim behal haareț ki im beisraēl veata kah na",
+       "strong": "H7725",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv construct + substantiv + pronume personal + substantiv construct + sufix + verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + substantiv construct + sufix + verb, qal imperfect consecutiv + particulă demonstrativă + interjecție + verb, qal perfect + conjuncție + particulă negativă + substantiv + substantiv construct + substantiv + conjuncție + conjuncție + nume propriu + adverb + verb, qal imperativ + interjecție",
+       "def_ro": "și s-a întors la omul lui Dumnezeu, el și toată tabăra lui, și a venit și a stat înaintea lui și a spus: iată, acum știu că nu este Dumnezeu în tot pământul, decât în Israel; și acum, primește, te rog.",
+       "dict_ro": "Talmudul Bavli (Ghitin 57b) îl identifică pe Naaman ca «ger toșav» — un neevreu care păzește cele șapte porunci ale urmașilor lui Noe — spre deosebire de Nebuzaradan, care avea să devină un convertit deplin."
+      },
+      {
+       "t": " "
       },
       {
        "t": "prinosul",
@@ -71308,7 +71619,14 @@
        "dict_ro": "Beraha — literal „binecuvântare”; Rashi explică că e un dar de pace oferit la salut, cum dă ucenicul sau slujitorul stăpânului său; același cuvânt desemnează darul lui Iacov pentru Esau (Geneza 33:11). Mărturisirea care o precede — „nu este Dumnezeu în toată lumea, în afară de în Israel” — e punctul culminant al haftarei; Talmudul (Ghitin 57b) precizează totuși că Naaman nu s-a convertit, ci a rămas „ger toșav”, un neevreu care păzește cele șapte porunci ale urmașilor lui Noe."
       },
       {
-       "t": " de la slujitorul tău.”"
+       "t": " de la slujitorul tău.”",
+       "w": " de la slujitorul tău.”",
+       "heb": "מֵאֵת עַבְדֶּךָ",
+       "translit": "mēēt avdeha",
+       "strong": "H854",
+       "pos": "prepoziție + substantiv construct + sufix",
+       "def_ro": "de la slujitorul tău.",
+       "dict_ro": "Rashi explică «prinosul» (beraha) ca un dar de pace, oferit la salut, precum un ucenic sau un slujitor ar da stăpânului său — gestul lui Naaman e unul de recunoștință, nu de plată."
       }
      ],
      "textCompare": [
@@ -71356,7 +71674,17 @@
      "translit": "Vaiomer hai-ADONAI așer-amadti lefanav im-ekah vayiftzar-bo lakahat vayemaen.",
      "tokens": [
       {
-       "t": "Dar [Elișa] a răspuns: „Pe viața DOMNULUI înaintea Căruia am stat, nu voi primi.” El "
+       "t": "Dar [Elișa] a răspuns: „Pe viața DOMNULUI înaintea Căruia am stat, nu voi primi.” El",
+       "w": "Dar [Elișa] a răspuns: „Pe viața DOMNULUI înaintea Căruia am stat, nu voi primi.” El",
+       "heb": "וַיֹּאמֶר חַי יְהוָה אֲשֶׁר עָמַדְתִּי לְפָנָיו אִם אֶקָּח",
+       "translit": "vaiomer hai Adonai așer amadti lefanaiv im ekah",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + adjectiv + nume propriu + particulă relativă + verb, qal perfect + substantiv construct + sufix + conjuncție + verb, qal imperfect",
+       "def_ro": "și a spus: pe viața DOMNULUI, înaintea Căruia am stat, nu voi lua.",
+       "dict_ro": "Rashi explică refuzul lui Elișa prin faptul că printre darurile oferite erau, probabil, bani legați cumva de idolatrie — profetul nu putea accepta un dar din averea unui general al unei țări idolatre, oricât de recunoscător ar fi fost acesta."
+      },
+      {
+       "t": " "
       },
       {
        "t": "a stăruit",
@@ -71371,7 +71699,14 @@
        "dict_ro": "Pațar — „a stărui, a presa pe cineva” (aceeași rădăcină ca la Lot, care „a stăruit mult” pe lângă îngeri, Geneza 19:3). Insistența lui Naaman se lovește de jurământul lui Elișa: „Pe viața DOMNULUI înaintea Căruia am stat”. Metzudat David explică expresia ca „înaintea Căruia obișnuiesc să stau în rugăciune” și că formula e un jurământ propriu-zis: pedeapsa jurământului să fie asupra mea dacă voi lua. Rashi adaugă motivul refuzului: printre banii aceia se aflau bani legați de idolatrie."
       },
       {
-       "t": " față de el să primească, dar [profetul] a refuzat."
+       "t": " față de el să primească, dar [profetul] a refuzat.",
+       "w": " față de el să primească, dar [profetul] a refuzat.",
+       "heb": "לָקַחַת וַיְמָאֵן",
+       "translit": "lakahat vaimaēn",
+       "strong": "H3947",
+       "pos": "verb, qal infinitiv + verb, piel imperfect consecutiv",
+       "def_ro": "să ia; și a refuzat.",
+       "dict_ro": "Metzudat David explică faptul că «înaintea Căruia am stat» se referă la obiceiul lui Elișa de a sta în rugăciune înaintea DOMNULUI — refuzul darului e un jurământ legat direct de această relație personală cu Dumnezeu."
       }
      ],
      "textCompare": [
@@ -71415,7 +71750,17 @@
      "translit": "Vaiomer Naaman valo yutan-na leavdecha masa tzemed-peradim adama ki lo-yaase od avdecha ola vazevah lelohim aherim ki im-lADONAI.",
      "tokens": [
       {
-       "t": "Naaman a spus: „Măcar dă-i voie slujitorului tău să ia doi măgari încărcați cu "
+       "t": "Naaman a spus: „Măcar dă-i voie slujitorului tău să ia doi măgari încărcați cu",
+       "w": "Naaman a spus: „Măcar dă-i voie slujitorului tău să ia doi măgari încărcați cu",
+       "heb": "וַיֹּאמֶר נַעֲמָן וָלֹא יֻתַּן נָא לְעַבְדְּךָ מַשָּׂא צֶמֶד פְּרָדִים",
+       "translit": "vaiomer naaman valo iutan na leavdeha masa țemed peradim",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + particulă negativă + verb, hofal jusiv + interjecție + substantiv construct + sufix + substantiv construct + substantiv construct + substantiv",
+       "def_ro": "și a spus Naaman: o, de s-ar da, te rog, slujitorului tău o încărcătură cât duc doi catâri de.",
+       "dict_ro": "Rashi explică «valo» ca o expresie de rugăminte — «o, de-ar fi așa!» — Naaman cere permisiunea explicită a profetului, nu voind să ia nimic fără încuviințarea lui."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pământ",
@@ -71429,7 +71774,14 @@
        "dict_ro": "Adama — pământul, solul roditor. Cererea lui Naaman pornește din credința antică potrivit căreia fiecare zeitate e legată de pământul ei: ca să se închine DOMNULUI în Aram, vrea să ia cu el țărână din Țara Israelului. Rashi explică: din pământul acesta al Țării, care e sfânt, va face un altar în orașul lui; iar Metzudat David subliniază delicatețea lui — n-a vrut să ia nici măcar pământ fără permisiunea profetului."
       },
       {
-       "t": ", căci slujitorul tău nu va mai aduce niciodată vreo ardere-de-tot sau vreo jertfă de pace altor dumnezei, ci numai DOMNULUI."
+       "t": ", căci slujitorul tău nu va mai aduce niciodată vreo ardere-de-tot sau vreo jertfă de pace altor dumnezei, ci numai DOMNULUI.",
+       "w": ", căci slujitorul tău nu va mai aduce niciodată vreo ardere-de-tot sau vreo jertfă de pace altor dumnezei, ci numai DOMNULUI.",
+       "heb": "כִּי לוֹא יַעֲשֶׂה עוֹד עַבְדְּךָ עֹלָה וָזֶבַח לֵאלֹהִים אֲחֵרִים כִּי אִם לַיהוָה",
+       "translit": "ki loa iaase od avdeha ola vazevah lēlohim ahērim ki im la'Adonai",
+       "strong": "H3588",
+       "pos": "conjuncție + particulă negativă + verb, qal imperfect + adverb + substantiv construct + sufix + substantiv + substantiv + prepoziție + substantiv + adjectiv + conjuncție + conjuncție + nume propriu",
+       "def_ro": "căci nu va mai face slujitorul tău ardere-de-tot sau jertfă altor dumnezei, decât numai DOMNULUI.",
+       "dict_ro": "Rashi explică faptul că pământul cerut e din Țara Israelului, socotit sfânt, pe care Naaman intenționează să-l ducă în patria lui și să construiască din el un altar pentru DOMNUL — o formă de a continua, pe pământ străin, închinarea descoperită aici."
       }
      ],
      "textCompare": [
@@ -71475,7 +71827,17 @@
      "translit": "Ladavar haze yislah ADONAI leavdecha bevo adoni beit-Rimon lehiștahavot șama vehu nișan al-yadi vehiștahaveti beit Rimon behiștahavayati beit Rimon yislah-na ADONAI leavdecha badavar haze.",
      "tokens": [
       {
-       "t": "Și fie ca DOMNUL să-l ierte pe slujitorul tău în legătură cu aceasta: când stăpânul meu vine la "
+       "t": "Și fie ca DOMNUL să-l ierte pe slujitorul tău în legătură cu aceasta: când stăpânul meu vine la",
+       "w": "Și fie ca DOMNUL să-l ierte pe slujitorul tău în legătură cu aceasta: când stăpânul meu vine la",
+       "heb": "לַדָּבָר הַזֶּה יִסְלַח יְהוָה לְעַבְדֶּךָ בְּבוֹא אֲדֹנִי בֵית",
+       "translit": "ladavar haze islah Adonai leavdeha bevo adoni vēt",
+       "strong": "H1697",
+       "pos": "substantiv construct + pronume demonstrativ + verb, qal imperfect + nume propriu + substantiv construct + sufix + verb, qal infinitiv + substantiv construct + sufix + substantiv construct",
+       "def_ro": "pentru lucrul acesta, să ierte DOMNUL pe slujitorul tău: când vine stăpânul meu la casa.",
+       "dict_ro": "Metzudat David explică faptul că Naaman cere mijlocirea profetului înaintea DOMNULUI pentru acest compromis viitor, nu pentru idolatria cultivată activ, ci pentru gestul involuntar la care va fi forțat de funcția sa."
+      },
+      {
+       "t": " "
       },
       {
        "t": "templul de la Rimon",
@@ -71490,7 +71852,24 @@
        "dict_ro": "Rimon — zeul principal al Damascului, identificat de obicei cu zeul furtunii Hadad (Rammanu în textele asiro-babiloniene); numele sună în ebraică la fel ca „rodie”. Rashi explică situația lui Naaman: e o închinare silită — când regele intră în templu, se sprijină de mâna generalului, iar acesta trebuie să se aplece odată cu el. Cererea lui nu e o permisiune de idolatrie, ci o rugăciune de iertare pentru un gest exterior pe care nu-l poate evita."
       },
       {
-       "t": " să se prosterneze acolo, el se sprijină de mâna mea, așa că trebuie [și eu] să mă înclin în templul din Rimon – DOMNUL să-i ierte slujitorului tău acest lucru.”"
+       "t": " să se prosterneze acolo, el se sprijină de mâna mea, așa că trebuie [și eu] să mă înclin în templul din Rimon",
+       "w": " să se prosterneze acolo, el se sprijină de mâna mea, așa că trebuie [și eu] să mă înclin în templul din Rimon",
+       "heb": "לְהִשְׁתַּחֲוֺת שָׁמָּה וְהוּא נִשְׁעָן עַל יָדִי וְהִשְׁתַּחֲוֵיתִי בֵּית רִמֹּן",
+       "translit": "lehiștahavot șama vehu nișan al iadi vehiștahavēti bēt rimon",
+       "strong": "H7812",
+       "pos": "verb, hitpael infinitiv + adverb + pronume personal + verb, nifal participiu + prepoziție + substantiv construct + sufix + verb, hiștafel perfect consecutiv + substantiv construct + nume propriu",
+       "def_ro": "să se prosterneze acolo, și el se sprijină pe mâna mea, și mă voi prosterna [și eu] în templul lui Rimon.",
+       "dict_ro": "Rashi explică «Rimon» ca numele unei zeități idolatre, și precizează că Naaman se închină «împotriva voii lui», doar pentru că stăpânul lui se sprijină de mâna lui când intră să se prosterneze."
+      },
+      {
+       "t": " – DOMNUL să-i ierte slujitorului tău acest lucru.”",
+       "w": " – DOMNUL să-i ierte slujitorului tău acest lucru.”",
+       "heb": "בְּהִשְׁתַּחֲוָיָתִי בֵּית רִמֹּן יִסְלַח יְהוָה לְעַבְדְּךָ בַּדָּבָר הַזֶּה",
+       "translit": "behiștahavaiati bēt rimon islah Adonai leavdeha badavar haze",
+       "strong": "H7812",
+       "pos": "verb, hiștafel infinitiv + sufix + substantiv construct + nume propriu + verb, qal jusiv + nume propriu + substantiv construct + sufix + substantiv + pronume demonstrativ",
+       "def_ro": "la prosternarea mea în templul lui Rimon, să ierte DOMNUL pe slujitorul tău pentru lucrul acesta.",
+       "dict_ro": "Metzudat David explică faptul că Naaman cere o iertare specifică pentru acel moment anume de închinare forțată — un compromis onest recunoscut deschis, nu ascuns, înaintea profetului."
       }
      ],
      "textCompare": [
@@ -71534,7 +71913,17 @@
      "translit": "Vaiomer lo leh leșalom vaieleh meito kivrat-aretz.",
      "tokens": [
       {
-       "t": "[Elișa] i-a spus: „Mergi în pace” și el s-a dus de la el "
+       "t": "[Elișa] i-a spus: „Mergi în pace” și el s-a dus de la el",
+       "w": "[Elișa] i-a spus: „Mergi în pace” și el s-a dus de la el",
+       "heb": "וַיֹּאמֶר לוֹ לֵךְ לְשָׁלוֹם וַיֵּלֶךְ מֵאִתּוֹ",
+       "translit": "vaiomer lo lēh leșalom vaiēleh mēito",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + verb, qal imperativ + substantiv + verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "și i-a spus: mergi în pace; și a plecat de la el.",
+       "dict_ro": "Rashi explică «kivrat eretz» ca numele unei măsuri de pământ, folosită identic la Isaia 5:10 — Elișa îl lasă pe Naaman să plece fără altă discuție, închiderea senină a episodului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "o distanță oarecare",
