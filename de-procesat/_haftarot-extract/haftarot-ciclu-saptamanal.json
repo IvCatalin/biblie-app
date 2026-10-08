@@ -87871,7 +87871,17 @@
      "translit": "Vaiomer Șemuel el-haam lehu venelha ha'Ghilgal unehadeș șam hameluha.",
      "tokens": [
       {
-       "t": "Și Samuel a spus poporului: „Veniți, să mergem în Ghilgal și "
+       "t": "Și Samuel a spus poporului: „Veniți, să mergem în Ghilgal și",
+       "w": "Și Samuel a spus poporului: „Veniți, să mergem în Ghilgal și",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל הָעָם לְכוּ וְנֵלְכָה הַגִּלְגָּל",
+       "translit": "vaiomer șemuēl el haam lehu venēlha hagilgal",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv + verb, qal imperativ + verb, qal cohortativ + nume propriu",
+       "def_ro": "și a spus Samuel către popor: mergeți și să mergem la Ghilgal și.",
+       "dict_ro": "Radak explică faptul că unii dintre israeliți disprețuiseră inițial încoronarea lui Saul, spunând «cum ne va mântui acesta?», iar acum, după victoria asupra lui Nahaș, s-au împăcat cu toții — reînnoirea domniei la Ghilgal are loc anume pentru cinstea Chivotului și a Cortului Întâlnirii, aflate acolo la intrarea în Țară."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să reînnoim",
@@ -87886,7 +87896,14 @@
        "dict_ro": "Hadaș — „a înnoi”, de unde hadaș, „nou”, și hodeș, „lună nouă”. Regatul lui Șaul nu era nou, dar trebuia „reînnoit”: la prima proclamare, la Mițpa, unii îl disprețuiseră („cum ne va mântui acesta?”, 1 Samuel 10:27), iar acum, după biruința asupra lui Nahaș la Iaveș-Ghilead, toți îl acceptă. Radak explică de ce Ghilgal: acolo stătuseră chivotul și Cortul Întâlnirii la intrarea în Țară, iar locul rămăsese cinstit, deși acum Cortul era la Nov."
       },
       {
-       "t": " regatul acolo.”"
+       "t": " regatul acolo.”",
+       "w": " regatul acolo.”",
+       "heb": "שָׁם הַמְּלוּכָה",
+       "translit": "șam hamluha",
+       "strong": "H8033",
+       "pos": "adverb + substantiv",
+       "def_ro": "acolo regatul.",
+       "dict_ro": "Rashi explică faptul că reînnoirea era necesară pentru că la prima încoronare existase împotrivire, pe când acum toți au fost de acord — un al doilea legământ, mai larg acceptat decât primul."
       }
      ],
      "textCompare": [
@@ -87931,7 +87948,17 @@
      "translit": "Vaièlhu hol-haam ha'Ghilgal vaiamlihu șam et-Șaul lifnei ADONAI ba'Ghilgal vaizbehu-șam zevahim șelamim lifnei ADONAI vaișmah șam Șaul vehol-anșei Israel ad-meod.",
      "tokens": [
       {
-       "t": "Și tot poporul a mers în Ghilgal și l-au încoronat acolo pe Șaul ca rege înaintea DOMNULUI, în Ghilgal, și au adus "
+       "t": "Și tot poporul a mers în Ghilgal și l-au încoronat acolo pe Șaul ca rege înaintea DOMNULUI, în Ghilgal, și au adus",
+       "w": "Și tot poporul a mers în Ghilgal și l-au încoronat acolo pe Șaul ca rege înaintea DOMNULUI, în Ghilgal, și au adus",
+       "heb": "וַיֵּלְכוּ כָל הָעָם הַגִּלְגָּל וַיַּמְלִכוּ שָׁם אֶת שָׁאוּל לִפְנֵי יְהוָה בַּגִּלְגָּל וַיִּזְבְּחוּ שָׁם זְבָחִים",
+       "translit": "vaiēlhu hal haam hagilgal vaiamlihu șam et șaul lifnē Adonai bagilgal vaizbehu șam zevahim",
+       "strong": "H3212",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + substantiv + nume propriu + verb, hifil imperfect consecutiv + adverb + marcă a complementului direct + nume propriu + substantiv construct + nume propriu + nume propriu + verb, qal imperfect consecutiv + adverb + substantiv plural",
+       "def_ro": "și a mers tot poporul la Ghilgal, și l-au făcut rege acolo pe Saul, înaintea DOMNULUI, la Ghilgal, și au jertfit acolo jertfe.",
+       "dict_ro": "Metzudat David explică faptul că Saul a fost încoronat acolo «a doua oară», cu acordul tuturor și de bunăvoie — spre diferență de prima încoronare, parțial contestată — iar «înaintea DOMNULUI» arată că Șehina se odihnește unde se adună majoritatea obștii."
+      },
+      {
+       "t": " "
       },
       {
        "t": "jertfe de pace",
@@ -87946,7 +87973,14 @@
        "dict_ro": "Șelamim — jertfele de pace (de la șalom, „întregime, pace”), singurele din care mâncau și cei care le aduceau: o parte pe altar, o parte preoților, restul familiei, la o masă de sărbătoare (Levitic 3; 7:11-21). Sunt jertfa potrivită pentru o bucurie comună, ca la încheierea legământului de la Sinai (Exodul 24:5). Metzudat David explică de ce „înaintea DOMNULUI”: Șehina se odihnește acolo unde se adună majoritatea obștii."
       },
       {
-       "t": " înaintea DOMNULUI. Și Șaul și toți bărbații din Israel s-au bucurat foarte mult acolo."
+       "t": " înaintea DOMNULUI. Și Șaul și toți bărbații din Israel s-au bucurat foarte mult acolo.",
+       "w": " înaintea DOMNULUI. Și Șaul și toți bărbații din Israel s-au bucurat foarte mult acolo.",
+       "heb": "לִפְנֵי יְהוָה וַיִּשְׂמַח שָׁם שָׁאוּל וְכָל אַנְשֵׁי יִשְׂרָאֵל עַד מְאֹד",
+       "translit": "lifnē Adonai vaismah șam șaul vehal anșē israēl ad meod",
+       "strong": "H6440",
+       "pos": "substantiv construct + nume propriu + verb, qal imperfect consecutiv + adverb + nume propriu + substantiv construct + substantiv plural construct + nume propriu + prepoziție + adverb",
+       "def_ro": "înaintea DOMNULUI; și s-a bucurat acolo Saul și toți bărbații lui Israel foarte mult.",
+       "dict_ro": "Bucuria generală, descrisă fără rezervă, confirmă rezultatul reînnoirii legământului — tensiunea inițială din jurul alegerii lui Saul s-a dizolvat complet în fața victoriei recente asupra lui Nahaș."
       }
      ],
      "textCompare": [
@@ -87985,7 +88019,17 @@
      "translit": "Vaiomer Șemuel el-kol-Israel hine șamati vekolhem lehol așer-amartem li vaamlih aleihem meleh.",
      "tokens": [
       {
-       "t": "Apoi Samuel a spus întregului Israel: „Iată, am ascultat de glasul vostru, legat de tot ce mi-ați spus, și "
+       "t": "Apoi Samuel a spus întregului Israel: „Iată, am ascultat de glasul vostru, legat de tot ce mi-ați spus, și",
+       "w": "Apoi Samuel a spus întregului Israel: „Iată, am ascultat de glasul vostru, legat de tot ce mi-ați spus, și",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל כָּל יִשְׂרָאֵל הִנֵּה שָׁמַעְתִּי בְקֹלְכֶם לְכֹל אֲשֶׁר אֲמַרְתֶּם לִי וְ",
+       "translit": "vaiomer șemuēl el kal israēl hinē șamati vekolhem lehol așer amartem li ve",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv construct + nume propriu + particulă demonstrativă + verb, qal perfect + substantiv construct + sufix + substantiv + particulă relativă + verb, qal perfect + prepoziție + sufix + conjuncție",
+       "def_ro": "și a spus Samuel către tot Israelul: iată, am ascultat glasul vostru pentru tot ce mi-ați spus, și.",
+       "dict_ro": "Metzudat David explică faptul că Samuel nu putea mustra poporul înainte de a pune un rege, ca să nu se creadă că scopul lui era să împiedice cererea — de aceea a ascultat mai întâi, și abia apoi trece la judecata faptelor lor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "am încoronat",
@@ -88000,7 +88044,14 @@
        "dict_ro": "Malah — „a domni”; la forma cauzativă (hifil), „a face rege, a încorona”. Samuel își începe cuvântarea de despărțire amintind că a cedat cererii poporului, deși o socotea greșită (1 Samuel 8:6-7). Metzudat David explică de ce abia acum îi mustră: dacă i-ar fi mustrat înainte de a le da un rege, ar fi crezut că vorbele lui voiau doar să împiedice regalitatea; acum, când regele e pus, mustrarea nu mai poate fi bănuită de interes."
       },
       {
-       "t": " un rege peste voi."
+       "t": " un rege peste voi.",
+       "w": " un rege peste voi.",
+       "heb": "עֲלֵיכֶם מֶלֶךְ",
+       "translit": "alēhem meleh",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix + substantiv",
+       "def_ro": "peste voi, un rege.",
+       "dict_ro": "Această afirmație inițială — Samuel a ascultat și a încoronat — pregătește discursul care urmează, în care profetul își va apăra integritatea personală înainte de a mustra poporul pentru cererea însăși."
       }
      ],
      "textCompare": [
@@ -88037,7 +88088,17 @@
      "translit": "Veata hine hameleh mithaleh lifneihem vaani zakanti vasavti uvanai hinam ithem vaani hithalahti lifneihem mineurai ad-haiom haze.",
      "tokens": [
       {
-       "t": "Și acum, iată, regele merge înaintea voastră, iar eu am îmbătrânit și "
+       "t": "Și acum, iată, regele merge înaintea voastră, iar eu am îmbătrânit și",
+       "w": "Și acum, iată, regele merge înaintea voastră, iar eu am îmbătrânit și",
+       "heb": "וְעַתָּה הִנֵּה הַמֶּלֶךְ מִתְהַלֵּךְ לִפְנֵיכֶם וַאֲנִי זָקַנְתִּי",
+       "translit": "veata hinē hameleh mithalēh lifnēhem vaani zakanti",
+       "strong": "H6258",
+       "pos": "adverb + particulă demonstrativă + substantiv + verb, hitpael participiu + substantiv plural construct + sufix + pronume personal + verb, qal perfect",
+       "def_ro": "și acum, iată, regele umblă înaintea voastră, și eu am îmbătrânit.",
+       "dict_ro": "Talmudul Bavli (Taanit 5b) explică, prin Rabi Iohanan, că bătrânețea a «sărit» peste Samuel înainte de vreme — el se rugase ca lucrarea mâinilor lui, regele Saul uns de el, să nu fie anulată în timpul vieții lui, și DOMNUL a răspuns făcându-l să pară bătrân, deși avea doar cincizeci și doi de ani."
+      },
+      {
+       "t": " "
       },
       {
        "t": "am albit",
@@ -88051,7 +88112,14 @@
        "dict_ro": "Siv — „a încărunți” (de unde seiva, „bătrânețe înaintată, păr cărunt”); Metzudat Țion și Radak observă că „a albi” spune mai mult decât „a îmbătrâni”. Talmudul (Taanit 5b) adaugă o surpriză: Samuel a murit la doar cincizeci și doi de ani; bătrânețea „a sărit asupra lui” înainte de vreme, ca să nu i se vadă moartea prematură. Metzudat David citește în verset argumentul lui Samuel: regele e deja întărit, eu sunt bătrân, iar fiii mei sunt de partea regelui — deci nu am niciun interes când vă vorbesc."
       },
       {
-       "t": "; iar fiii mei, iată-i, sunt aici cu voi. Cât despre mine, am mers înaintea voastră din tinerețea mea până în ziua aceasta."
+       "t": "; iar fiii mei, iată-i, sunt aici cu voi. Cât despre mine, am mers înaintea voastră din tinerețea mea până în ziua aceasta.",
+       "w": "; iar fiii mei, iată-i, sunt aici cu voi. Cât despre mine, am mers înaintea voastră din tinerețea mea până în ziua aceasta.",
+       "heb": "וּבָנַי הִנָּם אִתְּכֶם וַאֲנִי הִתְהַלַּכְתִּי לִפְנֵיכֶם מִנְּעֻרַי עַד הַיּוֹם הַזֶּה",
+       "translit": "uvanai hinam ithem vaani hithalahti lifnēhem minurai ad haiom haze",
+       "strong": "H1121",
+       "pos": "substantiv plural construct + sufix + particulă demonstrativă + sufix + prepoziție + sufix + pronume personal + verb, hitpael perfect + substantiv plural construct + sufix + substantiv construct + sufix + prepoziție + substantiv + pronume demonstrativ",
+       "def_ro": "și fiii mei, iată-i, cu voi; și eu am umblat înaintea voastră din tinerețea mea până în ziua aceasta.",
+       "dict_ro": "Metzudat David explică faptul că Samuel pomenește prezența fiilor lui printre popor exact pentru a elimina orice suspiciune că ar avea vreun interes personal ascuns în mustrarea care urmează — toate cuvintele lui sunt rostite fără părtinire."
       }
      ],
      "textCompare": [
@@ -88106,7 +88174,17 @@
      "translit": "Hineni anu vi neghed ADONAI veneghed meșiho et-șor mi lakahti vahamor mi lakahti veet-mi așakti et-mi rațoti umiiad-mi lakahti hofer vealim einai bo veașiv lahem.",
      "tokens": [
       {
-       "t": "Iată-mă, răspundeți pentru mine înaintea DOMNULUI și înaintea celui pe care l-a învestit El: Al cui bou l-am luat? Al cui "
+       "t": "Iată-mă, răspundeți pentru mine înaintea DOMNULUI și înaintea celui pe care l-a învestit El: Al cui bou l-am luat? Al cui",
+       "w": "Iată-mă, răspundeți pentru mine înaintea DOMNULUI și înaintea celui pe care l-a învestit El: Al cui bou l-am luat? Al cui",
+       "heb": "הִנְנִי עֲנוּ בִי נֶגֶד יְהוָה וְנֶגֶד מְשִׁיחוֹ אֶת שׁוֹר מִי לָקַחְתִּי",
+       "translit": "hinni anu vi neged Adonai veneged meșiho et șor mi lakahti",
+       "strong": "H2005",
+       "pos": "particulă demonstrativă + sufix + verb, qal imperativ + prepoziție + sufix + prepoziție + nume propriu + prepoziție + substantiv construct + sufix + marcă a complementului direct + substantiv construct + particulă interogativă + verb, qal perfect",
+       "def_ro": "iată-mă, mărturisiți despre mine înaintea DOMNULUI și înaintea unsului Lui: boul cui l-am luat?",
+       "dict_ro": "Rashi explică faptul că Samuel lua această grijă suplimentară — mergând pe propriul măgar în loc să-l ia pe cel al celor judecați — pentru că văzuse cât de aspru fuseseră pedepsiți fiii lui Eli pentru abuzuri asemănătoare."
+      },
+      {
+       "t": " "
       },
       {
        "t": "măgar",
@@ -88121,7 +88199,14 @@
        "dict_ro": "Hamor — măgarul, animalul de călărie și de povară al omului obișnuit. Întrebarea lui Samuel, „al cui măgar l-am luat?”, e aproape cuvânt cu cuvânt apărarea lui Moise în fața lui Korah: „n-am luat de la ei nici măcar un măgar” (Numeri 16:15) — de aici legătura dintre pericopa Korah și această haftară; iar Samuel era el însuși din urmașii lui Korah (1 Cronici 6). Rashi explică: când mergea din cetate în cetate să judece, Samuel călărea pe măgarul lui, deși ar fi avut dreptul să-l ia pe al lor, ca să nu semene nici pe departe cu fiii lui Eli."
       },
       {
-       "t": " l-am luat? Pe cine am jefuit? Sau pe cine am silit? Sau din mâna cui am luat bani de răscumpărare ca să închid ochii față de el? [Spuneți-mi] și vă voi da înapoi.”"
+       "t": " l-am luat? Pe cine am jefuit? Sau pe cine am silit? Sau din mâna cui am luat bani de răscumpărare ca să închid ochii față de el? [Spuneți-mi] și vă voi da înapoi.”",
+       "w": " l-am luat? Pe cine am jefuit? Sau pe cine am silit? Sau din mâna cui am luat bani de răscumpărare ca să închid ochii față de el? [Spuneți-mi] și vă voi da înapoi.”",
+       "heb": "מִי לָקַחְתִּי וְאֶת מִי עָשַׁקְתִּי אֶת מִי רַצּוֹתִי וּמִיַּד מִי לָקַחְתִּי כֹפֶר וְאַעְלִים עֵינַי בּוֹ וְאָשִׁיב לָכֶם",
+       "translit": "mi lakahti veet mi așakti et mi rațoti umiad mi lakahti hofer vealim ēnai bo veașiv lahem",
+       "strong": "H4310",
+       "pos": "particulă interogativă + verb, qal perfect + marcă a complementului direct + particulă interogativă + verb, qal perfect + marcă a complementului direct + particulă interogativă + verb, qal perfect + substantiv construct + particulă interogativă + verb, qal perfect + substantiv + verb, hifil imperfect + substantiv dual construct + sufix + prepoziție + sufix + verb, hifil imperfect + prepoziție + sufix",
+       "def_ro": "al cui [măgar] l-am luat? Și pe cine am asuprit? Pe cine am zdrobit? Și din mâna cui am luat mită, ca să-mi acopăr ochii de la el? Și vă voi răsplăti.",
+       "dict_ro": "Radak citează explicația tatălui său: dacă celui întrebat i-ar fi rușine să spună direct în fața lui Samuel, acesta își va «închide ochii» ca să nu se uite la el, iar omul să-i spună în taină, și Samuel va da înapoi ce a luat nedrept."
       }
      ],
      "textCompare": [
@@ -88173,7 +88258,17 @@
      "translit": "Vaiomru lo așaktanu velo rațotanu velo-lakahta miiad-iș meuma.",
      "tokens": [
       {
-       "t": "Și ei au spus: „Nu ne-ai "
+       "t": "Și ei au spus: „Nu ne-ai",
+       "w": "Și ei au spus: „Nu ne-ai",
+       "heb": "וַיֹּאמְרוּ לֹא",
+       "translit": "vaiomru lo",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + particulă negativă",
+       "def_ro": "și au spus: nu.",
+       "dict_ro": "Metzudat Țion explică faptul că «anu» (mărturisiți) folosește aceeași rădăcină ca «lo taane» de la Exod 20:13 — «să nu mărturisești [fals]» — invitația lui Samuel la mărturie publică are gravitatea unui jurământ legal."
+      },
+      {
+       "t": " "
       },
       {
        "t": "jefuit",
@@ -88188,7 +88283,14 @@
        "dict_ro": "Așak — „a asupri, a stoarce, a lua cu forța sau prin înșelăciune”, mai ales de la cel slab (Leviticul 19:13; Deuteronomul 24:14). Răspunsul poporului e categoric și acoperă toate cele trei acuzații posibile: jaf, silnicie, mită. E o mărturie publică de integritate, rară în Scriptură, care pregătește contrastul cu regele pe care l-au cerut, despre care Samuel îi avertizase că „va lua” (1 Samuel 8:11-17)."
       },
       {
-       "t": " și nu ne-ai silit și nici n-ai luat nimic din mâna nimănui.”"
+       "t": " și nu ne-ai silit și nici n-ai luat nimic din mâna nimănui.”",
+       "w": " și nu ne-ai silit și nici n-ai luat nimic din mâna nimănui.”",
+       "heb": "וְלֹא רַצּוֹתָנוּ וְלֹא לָקַחְתָּ מִיַּד אִישׁ מְאוּמָה",
+       "translit": "velo rațotanu velo lakahta miad iș meuma",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal perfect + sufix + particulă negativă + verb, qal perfect + substantiv construct + substantiv + substantiv",
+       "def_ro": "și nu ne-ai zdrobit, și nu ai luat din mâna niciunui om nimic.",
+       "dict_ro": "Rashi explică faptul că «rațoti» (am silit), citit literal, ar putea deriva din «rațon» (bunăvoie) — înțelepții au explicat că Samuel n-a luat nici cu forța, nici chiar cu voia celui de la care ar fi putut lua, adică integritatea lui a fost absolută."
       }
      ],
      "textCompare": [
@@ -88224,7 +88326,17 @@
      "translit": "Vaiomer aleihem ed ADONAI bahem veed meșiho haiom haze ki lo mețatem beiadi meuma vaiomer ed.",
      "tokens": [
       {
-       "t": "Atunci el le-a spus: „DOMNUL este "
+       "t": "Atunci el le-a spus: „DOMNUL este",
+       "w": "Atunci el le-a spus: „DOMNUL este",
+       "heb": "וַיֹּאמֶר אֲלֵיהֶם",
+       "translit": "vaiomer alēhem",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "și le-a spus.",
+       "dict_ro": "Talmudul Bavli (Makot 23b) relatează, prin Rabi Elazar, că duhul sfânt s-a arătat în tribunalul de jos doar în trei locuri — tribunalul lui Sem, cel al lui Samuel din Rama, și cel al lui Solomon — iar aici glasul ceresc a răspuns direct «[Sunt] martor!», confirmând mărturia poporului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "martor",
@@ -88239,7 +88351,14 @@
        "dict_ro": "Ed — martorul (de la ud, „a repeta, a atesta”). Versetul se încheie ciudat, cu verbul la singular: „și a spus: Martor!”. Metzudat David și Radak explică: fie tot poporul a răspuns ca un singur om, fie a vorbit doar Saul, unsul. Talmudul (Makot 23b), urmat de Rashi și Radak, citește altfel: a ieșit un glas ceresc și a spus „Eu sunt martor” — unul dintre cele trei locuri unde duhul sfânt s-a arătat într-un tribunal omenesc (celelalte: la judecata lui Iuda cu Tamar și la judecata lui Solomon)."
       },
       {
-       "t": " pentru voi și unsul său este martor în această zi, că nu ați găsit nimic în mâna mea...” și [DOMNUL] a spus: „Sunt martor!”"
+       "t": " pentru voi și unsul său este martor în această zi, că nu ați găsit nimic în mâna mea...” și [DOMNUL] a spus: „Sunt martor!”",
+       "w": " pentru voi și unsul său este martor în această zi, că nu ați găsit nimic în mâna mea...” și [DOMNUL] a spus: „Sunt martor!”",
+       "heb": "יְהוָה בָּכֶם וְעֵד מְשִׁיחוֹ הַיּוֹם הַזֶּה כִּי לֹא מְצָאתֶם בְּיָדִי מְאוּמָה וַיֹּאמֶר עֵד",
+       "translit": "Adonai bahem veēd meșiho haiom haze ki lo mețatem beiadi meuma vaiomer ēd",
+       "strong": "H3068",
+       "pos": "nume propriu + prepoziție + sufix + substantiv + substantiv construct + sufix + substantiv + pronume demonstrativ + conjuncție + particulă negativă + verb, qal perfect + substantiv construct + sufix + substantiv + verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "DOMNUL [martor este] pentru voi, și martor [este] unsul Lui în ziua aceasta, că n-ați găsit în mâna mea nimic; și a spus: martor.",
+       "dict_ro": "Radak explică faptul că DOMNUL confirmă prin acest glas ceresc dubla mărturie — poporul mărturisește ce se vede, iar DOMNUL mărturisește ce este ascuns — întărind astfel nevinovăția lui Samuel dincolo de orice îndoială omenească."
       }
      ],
      "textCompare": [
@@ -88289,7 +88408,14 @@
      "translit": "Vaiomer Șemuel el-haam ADONAI așer asa et-Moșe veet-Aharon vaașer heela et-avoteihem meereț Mițraim.",
      "tokens": [
       {
-       "t": "Și Samuel a spus poporului: „DOMNUL este Cel care a făcut [lucrarea Sa] prin Moise și Aaron și care i-"
+       "t": "Și Samuel a spus poporului: „DOMNUL este Cel care a făcut [lucrarea Sa] prin Moise și Aaron și care i-",
+       "w": "Și Samuel a spus poporului: „DOMNUL este Cel care a făcut [lucrarea Sa] prin Moise și Aaron și care i-",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל הָעָם יְהוָה אֲשֶׁר עָשָׂה אֶת מֹשֶׁה וְאֶת אַהֲרֹן וַאֲשֶׁר",
+       "translit": "vaiomer șemuēl el haam Adonai așer asa et moșe veet aharon vaașer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv + nume propriu + particulă relativă + verb, qal perfect + marcă a complementului direct + nume propriu + marcă a complementului direct + nume propriu + particulă relativă",
+       "def_ro": "și a spus Samuel către popor: DOMNUL, care l-a făcut pe Moise și pe Aaron, și care.",
+       "dict_ro": "Radak explică faptul că «a făcut pe Moise și Aaron» se referă la felul în care DOMNUL i-a crescut și i-a pregătit pentru misiunea lor — Targumul lui Ionatan traduce «care a făcut fapte puternice prin Moise și Aaron»."
       },
       {
        "t": "a ridicat",
@@ -88304,7 +88430,14 @@
        "dict_ro": "Ala — „a urca”; la forma cauzativă, „a face să urce, a scoate”: ieșirea din Egipt e descrisă mereu ca o „urcare”, spre Țara care e mai sus decât toate. Expresia „DOMNUL, care a făcut pe Moise și Aaron” e neobișnuită; Rashi o explică: care i-a pregătit pentru misiunea Lui, iar Radak — care i-a crescut și i-a învățat, ca în „sufletele pe care le făcuseră în Haran” (Geneza 12:5). Metzudat David: după ce poporul a mărturisit pentru el, Samuel trece de la apărare la mustrare."
       },
       {
-       "t": " pe strămoșii voștri din țara Egiptului."
+       "t": " pe strămoșii voștri din țara Egiptului.",
+       "w": " pe strămoșii voștri din țara Egiptului.",
+       "heb": "אֶת אֲבֹתֵיכֶם מֵאֶרֶץ מִצְרָיִם",
+       "translit": "et avotēhem mēereț mițraim",
+       "strong": "H1",
+       "pos": "marcă a complementului direct + substantiv plural construct + sufix + substantiv construct + nume propriu",
+       "def_ro": "pe strămoșii voștri din țara Egiptului.",
+       "dict_ro": "Metzudat David explică faptul că Samuel revine aici la mustrare, după ce poporul a confirmat nevinovăția lui — argumentul se deplasează de la propria integritate la lucrarea istorică a DOMNULUI prin Moise și Aaron."
       }
      ],
      "textCompare": [
@@ -88355,7 +88488,17 @@
      "translit": "Veata hitiațvu veișafta ithem lifnei ADONAI et kol-țidkot ADONAI așer-asa ithem veet-avoteihem.",
      "tokens": [
       {
-       "t": "Și acum, stați în picioare și eu voi fi judecat împreună cu voi înaintea DOMNULUI, legat de toate "
+       "t": "Și acum, stați în picioare și eu voi fi judecat împreună cu voi înaintea DOMNULUI, legat de toate",
+       "w": "Și acum, stați în picioare și eu voi fi judecat împreună cu voi înaintea DOMNULUI, legat de toate",
+       "heb": "וְעַתָּה הִתְיַצְּבוּ וְאִשָּׁפְטָה אִתְּכֶם לִפְנֵי יְהוָה אֵת כָּל",
+       "translit": "veata hitiațvu veișafta ithem lifnē Adonai ēt kal",
+       "strong": "H6258",
+       "pos": "adverb + verb, hitpael imperativ + verb, nifal cohortativ + prepoziție + sufix + substantiv construct + nume propriu + marcă a complementului direct + substantiv construct",
+       "def_ro": "și acum, stați, și voi fi judecat cu voi înaintea DOMNULUI, [legat de] toate.",
+       "dict_ro": "Rashi explică «voi fi judecat» ca «voi dezbate cu voi» — nu o judecată juridică propriu-zisă, ci o confruntare retorică a faptelor, menită să arate adevărul situației."
+      },
+      {
+       "t": " "
       },
       {
        "t": "faptele drepte",
@@ -88370,7 +88513,14 @@
        "dict_ro": "Țedaka — dreptatea, dar la plural, țidkot, înseamnă „faptele de dreptate”, adică intervențiile salvatoare ale lui Dumnezeu în istorie; aceeași expresie apare în Cântarea Deborei („acolo se vor istorisi faptele drepte ale DOMNULUI”, Judecători 5:11). Samuel își prezintă cuvântarea ca pe un proces: „voi fi judecat împreună cu voi” (Metzudat Țion: „mă voi certa cu voi”), cu Dumnezeu ca judecător și cu istoria ca dosar. Radak rezumă acuzația: El v-a făcut dreptăți, iar voi ați făcut rele."
       },
       {
-       "t": " pe care DOMNUL le-a înfăptuit cu voi și cu strămoșii voștri."
+       "t": " pe care DOMNUL le-a înfăptuit cu voi și cu strămoșii voștri.",
+       "w": " pe care DOMNUL le-a înfăptuit cu voi și cu strămoșii voștri.",
+       "heb": "יְהוָה אֲשֶׁר עָשָׂה אִתְּכֶם וְאֶת אֲבוֹתֵיכֶם",
+       "translit": "Adonai așer asa ithem veet avotēhem",
+       "strong": "H3068",
+       "pos": "nume propriu + particulă relativă + verb, qal perfect + prepoziție + sufix + prepoziție + substantiv plural construct + sufix",
+       "def_ro": "DOMNUL, pe care le-a făcut cu voi și cu strămoșii voștri.",
+       "dict_ro": "Radak explică faptul că dezbaterea se desfășoară între popor și DOMNUL, nu doar între popor și Samuel — profetul se face mijlocitor al unei judecăți mai mari, în care faptele drepte divine sunt comparate cu răspunsul poporului."
       }
      ],
      "textCompare": [
@@ -88421,7 +88571,17 @@
      "translit": "Kaașer-ba Iaakov Mițraim vaizaku avoteihem el-ADONAI vaișlah ADONAI et-Moșe veet-Aharon vaioțiu et-avoteihem mi'Mițraim vaioșivum bamakom haze.",
      "tokens": [
       {
-       "t": "Atunci când Iacov a venit în Egipt și strămoșii voștri "
+       "t": "Atunci când Iacov a venit în Egipt și strămoșii voștri",
+       "w": "Atunci când Iacov a venit în Egipt și strămoșii voștri",
+       "heb": "כַּאֲשֶׁר בָּא יַעֲקֹב מִצְרָיִם אֲבוֹתֵיכֶם",
+       "translit": "kaașer ba iaakov mițraim avotēhem",
+       "strong": "H834",
+       "pos": "particulă relativă + verb, qal perfect + nume propriu + nume propriu + substantiv plural construct + sufix",
+       "def_ro": "când a venit Iacov în Egipt, strămoșii voștri.",
+       "dict_ro": "Radak explică faptul că Samuel vorbește pe scurt: Iacov însuși n-a strigat când a venit în Egipt, ci abia mai târziu, când robia s-a înăsprit sub un nou rege egiptean — relatarea comprimă mai multe generații într-o singură frază."
+      },
+      {
+       "t": " "
       },
       {
        "t": "au strigat",
@@ -88436,7 +88596,14 @@
        "dict_ro": "Zaak — strigătul celui asuprit, verbul cu care începe mântuirea din Egipt („strigătul lor a urcat la Dumnezeu”, Exodul 2:23) și refrenul cărții Judecătorilor. Argumentul lui Samuel e construit pe acest verb: de fiecare dată au strigat, iar Dumnezeu a răspuns — fără rege. Metzudat David: „nu aveau atunci rege care să le poarte războaiele”. Radak observă că versetul e comprimat: nu au strigat când a venit Iacov în Egipt, ci mult mai târziu, când s-a ridicat un rege nou și i-a asuprit."
       },
       {
-       "t": " DOMNULUI, DOMNUL i-a trimis pe Moise și Aaron și ei i-au scos pe strămoșii voștri din Egipt și i-au făcut să se așeze în acest loc."
+       "t": " DOMNULUI, DOMNUL i-a trimis pe Moise și Aaron și ei i-au scos pe strămoșii voștri din Egipt și i-au făcut să se așeze în acest loc.",
+       "w": " DOMNULUI, DOMNUL i-a trimis pe Moise și Aaron și ei i-au scos pe strămoșii voștri din Egipt și i-au făcut să se așeze în acest loc.",
+       "heb": "אֶל יְהוָה וַיִּשְׁלַח יְהוָה אֶת מֹשֶׁה וְאֶת אַהֲרֹן וַיּוֹצִיאוּ אֶת אֲבֹתֵיכֶם מִמִּצְרַיִם וַיֹּשִׁבוּם בַּמָּקוֹם הַזֶּה",
+       "translit": "el Adonai vaișlah Adonai et moșe veet aharon vaioțiu et avotēhem mimițraim vaioșivum bamakom haze",
+       "strong": "H413",
+       "pos": "prepoziție + nume propriu + verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + nume propriu + marcă a complementului direct + nume propriu + verb, hifil imperfect consecutiv + marcă a complementului direct + substantiv plural construct + sufix + nume propriu + verb, hifil imperfect consecutiv + sufix + substantiv + pronume demonstrativ",
+       "def_ro": "către DOMNUL, și a trimis DOMNUL pe Moise și pe Aaron, și i-au scos pe strămoșii voștri din Egipt, și i-au așezat în locul acesta.",
+       "dict_ro": "Radak observă o dificultate: Moise și Aaron au murit dincolo de Iordan, deci n-au putut literalmente să-i așeze pe israeliți în Țară — sensul e că ei i-au învățat calea DOMNULUI, ceea ce a condus, în cele din urmă, la intrarea lor în Țară, ca și cum i-ar fi așezat ei înșiși."
       }
      ],
      "textCompare": [
@@ -88499,7 +88666,14 @@
        "dict_ro": "Șahah — „a uita”; în Deuteronom e cuvântul care rezumă primejdia vieții în belșug: „păzește-te să nu-L uiți pe DOMNUL” (Deuteronomul 8:11-14; 32:18). Samuel parcurge pe scurt cartea Judecătorilor: Sisera, căpetenia lui Iabin din Hațor (Judecători 4), filistenii (Judecători 10; 13) și regele Moabului, Eglon (Judecători 3:12). Verbul „i-a vândut” (vayimkor) e, după Metzudat Țion, o imagine: i-a dat în mâna lor „ca și cum i-ar fi vândut”."
       },
       {
-       "t": " de DOMNUL, Dumnezeul lor, care i-a dat în mâna lui Sisra, comandantul oștirii lui Hațor, și în mâna filistenilor, și în mâna regelui Moabului, și s-au războit cu ei."
+       "t": " de DOMNUL, Dumnezeul lor, care i-a dat în mâna lui Sisra, comandantul oștirii lui Hațor, și în mâna filistenilor, și în mâna regelui Moabului, și s-au războit cu ei.",
+       "w": " de DOMNUL, Dumnezeul lor, care i-a dat în mâna lui Sisra, comandantul oștirii lui Hațor, și în mâna filistenilor, și în mâna regelui Moabului, și s-au războit cu ei.",
+       "heb": "אֶת יְהוָה אֱלֹהֵיהֶם וַיִּמְכֹּר אֹתָם בְּיַד סִיסְרָא שַׂר צְבָא חָצוֹר וּבְיַד פְּלִשְׁתִּים וּבְיַד מֶלֶךְ מוֹאָב וַיִּלָּחֲמוּ בָּם",
+       "translit": "et Adonai elohēhem vaimkor otam beiad sisra sar țeva hațor uviad peliștim uviad meleh moav vailahamu bam",
+       "strong": "H853",
+       "pos": "marcă a complementului direct + nume propriu + substantiv plural construct + sufix + verb, qal imperfect consecutiv + marcă a complementului direct + sufix + substantiv construct + nume propriu + substantiv construct + substantiv construct + nume propriu + substantiv construct + nume de neam + substantiv construct + substantiv construct + nume propriu + verb, nifal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "pe DOMNUL, Dumnezeul lor, și i-a vândut în mâna lui Sisra, comandantul oștirii Hațorului, și în mâna filistenilor, și în mâna regelui Moabului, și s-au luptat cu ei.",
+       "dict_ro": "Metzudat Țion explică «vaimkor» ca «i-a dat, ca și cum i-ar fi vândut» — expresia arată că DOMNUL i-a încredințat voit vrăjmașilor, nu i-a abandonat pur și simplu, ci a folosit chiar asuprirea lor ca pedeapsă pentru uitarea Lui."
       }
      ],
      "textCompare": [
@@ -88543,7 +88717,17 @@
      "translit": "Vaizaku el-ADONAI vaiomru hatanu ki azavnu et-ADONAI vanaavod et-habealim veet-haaștarot veata hațilenu miiad oiveinu venaavdeka.",
      "tokens": [
       {
-       "t": "Și au strigat DOMNULUI și au spus: «Am păcătuit, căci l-am părăsit pe DOMNUL și am slujit idolilor lui Baal și "
+       "t": "Și au strigat DOMNULUI și au spus: «Am păcătuit, căci l-am părăsit pe DOMNUL și am slujit idolilor lui Baal și",
+       "w": "Și au strigat DOMNULUI și au spus: «Am păcătuit, căci l-am părăsit pe DOMNUL și am slujit idolilor lui Baal și",
+       "heb": "וַיִּזְעֲקוּ אֶל יְהוָה וַיֹּאמְרוּ חָטָאנוּ כִּי עָזַבְנוּ אֶת יְהוָה וַנַּעֲבֹד אֶת הַבְּעָלִים וְאֶת",
+       "translit": "vaizaku el Adonai vaiomru hatanu ki azavnu et Adonai vanaavod et habalim veet",
+       "strong": "H2199",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + nume propriu + verb, qal imperfect consecutiv + verb, qal perfect + conjuncție + verb, qal perfect + marcă a complementului direct + nume propriu + verb, qal imperfect consecutiv + marcă a complementului direct + nume propriu + marcă a complementului direct",
+       "def_ro": "și au strigat către DOMNUL, și au spus: am păcătuit, căci am părăsit pe DOMNUL și am slujit baalilor și.",
+       "dict_ro": "Radak explică faptul că textul e scris la singular («a spus»), dar citit la plural («au spus») — scrierea reprezintă modul general al vorbirii colective, iar citirea precizează că fiecare individ a mărturisit aceeași nelegiuire."
+      },
+      {
+       "t": " "
       },
       {
        "t": "idolilor lui Astarte",
@@ -88557,7 +88741,14 @@
        "dict_ro": "Aștarot — pluralul lui Aștoret, zeița canaanită a fertilității și a războiului (Iștar la babilonieni), pereche feminină a lui Baal; pluralul desemnează multele ei chipuri și sanctuare locale. Mărturisirea „am păcătuit, căci l-am părăsit pe DOMNUL și am slujit baalilor și astartelor” reia aproape exact strigătul din Judecători 10:10. Metzudat David subliniază ce nu au cerut atunci: s-au rugat, dar nu au cerut un rege care să le poarte războaiele. Radak notează o diferență între scriere și citire: textul scrie „a spus”, iar citirea tradițională e „au spus”."
       },
       {
-       "t": ". Dar acum, salvează-ne din mâna dușmanilor noștri și Îți vom sluji Ție.»"
+       "t": ". Dar acum, salvează-ne din mâna dușmanilor noștri și Îți vom sluji Ție.»",
+       "w": ". Dar acum, salvează-ne din mâna dușmanilor noștri și Îți vom sluji Ție.»",
+       "heb": "הָעַשְׁתָּרוֹת וְעַתָּה הַצִּילֵנוּ מִיַּד אֹיְבֵינוּ וְנַעַבְדֶךָּ",
+       "translit": "haaștarot veata hațilēnu miad oivēnu venaavdeka",
+       "strong": "H6252",
+       "pos": "nume propriu + adverb + verb, hifil imperativ + sufix + substantiv construct + verb, qal participiu + sufix + verb, qal imperfect + sufix",
+       "def_ro": "Astartelor; și acum, salvează-ne din mâna dușmanilor noștri, și-Ți vom sluji.",
+       "dict_ro": "Metzudat David precizează că poporul s-a rugat DOMNULUI, dar nu a cerut un rege care să le poarte războaiele — distincție importantă pe care Samuel o va dezvolta mai departe, contrastând cererea pentru judecători cu cea pentru un rege."
       }
      ],
      "textCompare": [
@@ -88601,7 +88792,17 @@
      "translit": "Vaișlah ADONAI et-Ierubaal veet-Bedan veet-Iftah veet-Șemuel vaiațel ethem miiad oiveihem misaviv vateșvu betah.",
      "tokens": [
       {
-       "t": "Așa că DOMNUL l-a trimis pe Ierubaal (n.t. Ghideon) și pe "
+       "t": "Așa că DOMNUL l-a trimis pe Ierubaal (n.t. Ghideon) și pe",
+       "w": "Așa că DOMNUL l-a trimis pe Ierubaal (n.t. Ghideon) și pe",
+       "heb": "וַיִּשְׁלַח יְהוָה אֶת יְרֻבַּעַל וְאֶת",
+       "translit": "vaișlah Adonai et ierubaal veet",
+       "strong": "H7971",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + nume propriu + marcă a complementului direct",
+       "def_ro": "și a trimis DOMNUL pe Ierubaal și pe.",
+       "dict_ro": "Talmudul Bavli (Roș Hașana 25a-b) explică faptul că aici sunt puși trei conducători neînsemnați — Ierubaal, Bedan și Iefta — alături de trei conducători mari — Moise, Aaron și Samuel — ca să învețe că cel neînsemnat în generația lui e egal cu cel mare în generația lui, dacă e numit conducător peste obște."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Bedan",
@@ -88614,7 +88815,14 @@
        "dict_ro": "O variantă textuală celebră: Septuaginta are aici „Βαράκ\" („Barac\", judecătorul cunoscut din Judecători 4-5), nu „Bedan\" ca în textul ebraic masoretic — mulți cercetători consideră că „Barak\" e lectura originală, iar „Bedan\" un nume corupt în transmiterea textului ebraic."
       },
       {
-       "t": " (n.t. Samson) și pe Iefta și pe Samuel și v-a salvat din mâna dușmanilor dimprejurul vostru, și v-a făcut să locuiți în siguranță."
+       "t": " (n.t. Samson) și pe Iefta și pe Samuel și v-a salvat din mâna dușmanilor dimprejurul vostru, și v-a făcut să locuiți în siguranță.",
+       "w": " (n.t. Samson) și pe Iefta și pe Samuel și v-a salvat din mâna dușmanilor dimprejurul vostru, și v-a făcut să locuiți în siguranță.",
+       "heb": "בְּדָן וְאֶת יִפְתָּח וְאֶת שְׁמוּאֵל וַיַּצֵּל אֶתְכֶם מִיַּד אֹיְבֵיכֶם מִסָּבִיב וַתֵּשְׁבוּ בֶּטַח",
+       "translit": "bedan veet iftah veet șemuēl vaiațēl ethem miad oivēhem misaviv vatēșvu betah",
+       "strong": "H917",
+       "pos": "nume propriu + marcă a complementului direct + nume propriu + marcă a complementului direct + nume propriu + verb, hifil imperfect consecutiv + marcă a complementului direct + sufix + substantiv construct + verb, qal participiu + sufix + substantiv + verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "pe Bedan și pe Iefta și pe Samuel, și v-a salvat din mâna dușmanilor voștri de jur împrejur, și ați locuit în siguranță.",
+       "dict_ro": "Rashi și Radak explică «Bedan» ca referindu-se la Samson, numit astfel din «ben Dan» (fiul lui Dan), căci era din familia daniților — iar «Samuel» în locul lui «mine» urmează un obicei lingvistic biblic de a vorbi la persoana a treia despre sine, ca la «femeile lui Lameh»."
       }
      ],
      "textCompare": [
@@ -88669,7 +88877,17 @@
      "translit": "Vatiru ki-Nahaș meleh benei-Amon ba aleihem vatomru li lo ki-meleh imloh aleinu v'ADONAI Eloheihem malkehem.",
      "tokens": [
       {
-       "t": "Și ați văzut că "
+       "t": "Și ați văzut că",
+       "w": "Și ați văzut că",
+       "heb": "וַתִּרְאוּ כִּי",
+       "translit": "vatiru ki",
+       "strong": "H7200",
+       "pos": "verb, qal imperfect consecutiv + conjuncție",
+       "def_ro": "și ați văzut că.",
+       "dict_ro": "Metzudat David explică faptul că poporul a cerut un rege exact în clipa pericolului venit de la Nahaș, spunând «nu vom fi ca părinții noștri» — nerăbdarea de a avea un conducător militar permanent, nu doar un judecător ocazional."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Nahaș",
@@ -88684,7 +88902,14 @@
        "dict_ro": "Nahaș — numele înseamnă „șarpe”; regele lui Amon care asediase Iaveș-Ghileadul și ceruse ca locuitorilor să li se scoată ochiul drept (1 Samuel 11:1-2). Samuel dezvăluie aici ce stătea, de fapt, în spatele cererii unui rege: frica de Nahaș. Metzudat David o explică: „ați spus: nu vrem să fim ca părinții noștri, înaintea cărora ieșea judecătorul la luptă, ci un rege să domnească peste noi și să ne poarte războaiele” — deși „DOMNUL, Dumnezeul vostru, este Regele vostru”, ca în Judecători 8:23."
       },
       {
-       "t": ", regele copiilor lui Amon, a venit peste voi și Mi-ați spus: «Nu, ci un rege să domnească peste noi!», dar DOMNUL, Dumnezeul vostru, este Regele vostru."
+       "t": ", regele copiilor lui Amon, a venit peste voi și Mi-ați spus: «Nu, ci un rege să domnească peste noi!», dar DOMNUL, Dumnezeul vostru, este Regele vostru.",
+       "w": ", regele copiilor lui Amon, a venit peste voi și Mi-ați spus: «Nu, ci un rege să domnească peste noi!», dar DOMNUL, Dumnezeul vostru, este Regele vostru.",
+       "heb": "מֶלֶךְ בְּנֵי עַמּוֹן בָּא עֲלֵיכֶם וַתֹּאמְרוּ לִי לֹא כִּי מֶלֶךְ יִמְלֹךְ עָלֵינוּ וַיהוָה אֱלֹהֵיכֶם מַלְכְּכֶם",
+       "translit": "meleh benē amon ba alēhem vatomru li lo ki meleh imloh alēnu va'Adonai elohēhem malkehem",
+       "strong": "H4428",
+       "pos": "substantiv construct + substantiv plural construct + nume propriu + verb, qal perfect + prepoziție + sufix + verb, qal imperfect consecutiv + prepoziție + sufix + particulă negativă + conjuncție + substantiv + verb, qal imperfect + prepoziție + sufix + nume propriu + substantiv plural construct + sufix + substantiv construct + sufix",
+       "def_ro": "regele copiilor lui Amon a venit asupra voastră, și mi-ați spus: nu, ci un rege va domni asupra noastră; și DOMNUL, Dumnezeul vostru, [este] regele vostru.",
+       "dict_ro": "Metzudat David explică faptul că, deși DOMNUL este deja Regele adevărat, care poartă războaiele împreună cu judecătorul rânduit, poporul a lucrat nechibzuit cerând un rege — argumentul lui Samuel arată că nici o nevoie reală n-a justificat cererea."
       }
      ],
      "textCompare": [
@@ -88724,7 +88949,17 @@
      "translit": "Veata hine hameleh așer behartem așer șeeltem vehine natan ADONAI aleihem meleh.",
      "tokens": [
       {
-       "t": "Și acum, iată, regele pe care l-ați ales, "
+       "t": "Și acum, iată, regele pe care l-ați ales,",
+       "w": "Și acum, iată, regele pe care l-ați ales,",
+       "heb": "וְעַתָּה הִנֵּה הַמֶּלֶךְ אֲשֶׁר בְּחַרְתֶּם אֲשֶׁר",
+       "translit": "veata hinē hameleh așer behartem așer",
+       "strong": "H6258",
+       "pos": "adverb + particulă demonstrativă + substantiv + particulă relativă + verb, qal perfect + particulă relativă",
+       "def_ro": "și acum, iată, regele pe care l-ați ales, pe care.",
+       "dict_ro": "Metzudat David explică faptul că, după ce DOMNUL a încuviințat cererea și a numit un rege, poporul «și-a ales» pe cel pe care-l dorise de la sine — nu mai există cale de întoarcere, regele va domni, chiar dacă cererea însăși fusese greșită."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pe care l-ați cerut",
@@ -88738,7 +88973,14 @@
        "dict_ro": "Șaal — „a cere”; din același verb vine numele Șaul, „cel cerut”. Jocul de cuvinte străbate tot episodul: „regele pe care l-ați cerut (șeeltem)” sună ca numele lui Șaul, iar mustrarea din 12:17 și 12:19 repetă „cerând (lișol) un rege”. Metzudat David explică perechea „ales” și „cerut”: întâi l-au cerut, iar după biruința de la Iaveș l-au și ales de bunăvoie; deci acum „ce a trecut nu mai este” — regele rămâne."
       },
       {
-       "t": "! Și iată, DOMNUL a pus un rege peste voi."
+       "t": "! Și iată, DOMNUL a pus un rege peste voi.",
+       "w": "! Și iată, DOMNUL a pus un rege peste voi.",
+       "heb": "שְׁאֶלְתֶּם וְהִנֵּה נָתַן יְהוָה עֲלֵיכֶם מֶלֶךְ",
+       "translit": "șeeltem vehinē natan Adonai alēhem meleh",
+       "strong": "H7592",
+       "pos": "verb, qal perfect + particulă demonstrativă + verb, qal perfect + nume propriu + prepoziție + sufix + substantiv",
+       "def_ro": "l-ați cerut; și iată, a dat DOMNUL peste voi un rege.",
+       "dict_ro": "Radak explică faptul că scopul final al regelui dat de DOMNUL rămâne mântuirea poporului, chiar dacă metoda cererii a fost una necorespunzătoare — binele urmat nu anulează greșeala inițială a cererii."
       }
      ],
      "textCompare": [
@@ -88781,7 +89023,17 @@
      "translit": "Im-tireu et-ADONAI vaavadetem oto ușematem bekolo velo tamru et-pi ADONAI vihitem gam-atem vegam-hameleh așer malah aleihem ahar ADONAI Eloheihem.",
      "tokens": [
       {
-       "t": "Dacă vă veți teme de DOMNUL și Îi veți sluji și veți asculta de glasul Său și "
+       "t": "Dacă vă veți teme de DOMNUL și Îi veți sluji și veți asculta de glasul Său și",
+       "w": "Dacă vă veți teme de DOMNUL și Îi veți sluji și veți asculta de glasul Său și",
+       "heb": "אִם תִּירְאוּ אֶת יְהוָה וַעֲבַדְתֶּם אֹתוֹ וּשְׁמַעְתֶּם בְּקֹלוֹ וְלֹא",
+       "translit": "im tiru et Adonai vaavadtem oto ușmatem bekolo velo",
+       "strong": "H518",
+       "pos": "conjuncție + verb, qal imperfect + marcă a complementului direct + nume propriu + verb, qal perfect consecutiv + marcă a complementului direct + sufix + verb, qal perfect consecutiv + substantiv construct + sufix + particulă negativă",
+       "def_ro": "dacă vă veți teme de DOMNUL și Îi veți sluji și veți asculta de glasul Lui, și nu.",
+       "dict_ro": "Rashi explică faptul că, dacă vor urma condiția cerută, «veți trăi mult, și voi și regele» — ascultarea garantează nu doar prosperitate, ci continuitatea domniei și a poporului deopotrivă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "nu vă veți răzvrăti",
@@ -88796,7 +89048,14 @@
        "dict_ro": "Mara — „a fi îndărătnic, a se răzvrăti”, de la aceeași rădăcină cu meri, „răzvrătire” (Metzudat Țion); e verbul cu care Moise descrie poporul din pustie: „ați fost răzvrătiți împotriva DOMNULUI” (Deuteronomul 9:7, 24). Versetul e o condiție fără încheiere explicită; Rashi o citește ca făgăduință: „veți trăi mult, și voi, și regele”. Metzudat David: atunci regele va merge înaintea voastră la luptă, iar voi toți veți fi „după DOMNUL”."
       },
       {
-       "t": " împotriva glasului DOMNULUI, și dacă atât voi, cât și regele care domnește peste voi, veți merge după DOMNUL, Dumnezeul tău, [atunci va fi bine.]"
+       "t": " împotriva glasului DOMNULUI, și dacă atât voi, cât și regele care domnește peste voi, veți merge după DOMNUL, Dumnezeul tău, [atunci va fi bine.]",
+       "w": " împotriva glasului DOMNULUI, și dacă atât voi, cât și regele care domnește peste voi, veți merge după DOMNUL, Dumnezeul tău, [atunci va fi bine.]",
+       "heb": "אֶת פִּי יְהוָה וִהְיִתֶם גַּם אַתֶּם וְגַם הַמֶּלֶךְ אֲשֶׁר מָלַךְ עֲלֵיכֶם אַחַר יְהוָה אֱלֹהֵיכֶם",
+       "translit": "et pi Adonai vihitem gam atem vegam hameleh așer malah alēhem ahar Adonai elohēhem",
+       "strong": "H6310",
+       "pos": "marcă a complementului direct + substantiv construct + nume propriu + verb, qal perfect consecutiv + particulă afirmativă + pronume personal + particulă afirmativă + substantiv + particulă relativă + verb, qal perfect + prepoziție + sufix + prepoziție + nume propriu + substantiv plural construct + sufix",
+       "def_ro": "glasul DOMNULUI, și veți fi, și voi și regele care domnește peste voi, după DOMNUL, Dumnezeul vostru.",
+       "dict_ro": "Condiția dublă — poporul și regele deopotrivă — arată că binele viitor nu depinde doar de conducător, ci de fidelitatea comună a tuturor, în egală măsură răspunzători pentru ascultarea de DOMNUL."
       }
      ],
      "textCompare": [
@@ -88842,7 +89101,17 @@
      "translit": "Veim-lo tișmeu bekol ADONAI umeritem et-pi ADONAI vehaita iad-ADONAI bahem uvaavoteihem.",
      "tokens": [
       {
-       "t": "Dar dacă nu veți asculta de glasul DOMNULUI și vă veți răzvrăti împotriva vorbei DOMNULUI, atunci "
+       "t": "Dar dacă nu veți asculta de glasul DOMNULUI și vă veți răzvrăti împotriva vorbei DOMNULUI, atunci",
+       "w": "Dar dacă nu veți asculta de glasul DOMNULUI și vă veți răzvrăti împotriva vorbei DOMNULUI, atunci",
+       "heb": "וְאִם לֹא תִשְׁמְעוּ בְּקוֹל יְהוָה וּמְרִיתֶם אֶת פִּי יְהוָה וְהָיְתָה",
+       "translit": "veim lo tișmeu bekol Adonai umritem et pi Adonai vehaita",
+       "strong": "H518",
+       "pos": "conjuncție + particulă negativă + verb, qal imperfect + substantiv construct + nume propriu + verb, qal perfect consecutiv + marcă a complementului direct + substantiv construct + nume propriu + verb, qal perfect consecutiv",
+       "def_ro": "și dacă nu veți asculta de glasul DOMNULUI, și vă veți răzvrăti împotriva vorbei DOMNULUI, atunci va fi.",
+       "dict_ro": "Talmudul Bavli (Yevamot 63b) explică, prin Rabba bar Șmuel, că «mâna DOMNULUI va fi împotriva voastră și împotriva părinților voștri» s-ar referi la dezgroparea morților ca ocară — pentru vina celor vii sunt dezgropați morții, pedeapsă colectivă care traversează generațiile."
+      },
+      {
+       "t": " "
       },
       {
        "t": "mâna DOMNULUI",
@@ -88857,7 +89126,14 @@
        "dict_ro": "Iad — mâna, simbolul puterii; „mâna DOMNULUI” e expresia loviturii divine, ca la plăgile Egiptului (Exodul 9:3). Finalul versetului, „împotriva voastră și împotriva părinților voștri”, e greu, fiindcă părinții muriseră; comentatorii dau trei explicații: Rashi — „împotriva voastră, cum a fost împotriva părinților voștri”; Metzudat David și Radak — „părinții” sunt regii, căci conducătorul e numit „tată” (Geneza 45:8); Talmudul (Yevamot 63b) — dezgroparea morților, căci „pentru vina celor vii sunt dezgropați morții”."
       },
       {
-       "t": " va fi împotriva voastră și împotriva părinților voștri."
+       "t": " va fi împotriva voastră și împotriva părinților voștri.",
+       "w": " va fi împotriva voastră și împotriva părinților voștri.",
+       "heb": "יַד יְהוָה בָּכֶם וּבַאֲבֹתֵיכֶם",
+       "translit": "iad Adonai bahem uvaavotēhem",
+       "strong": "H3027",
+       "pos": "substantiv construct + nume propriu + prepoziție + sufix + substantiv plural construct + sufix",
+       "def_ro": "mâna DOMNULUI asupra voastră și asupra părinților voștri.",
+       "dict_ro": "Radak explică «părinții voștri» ca referindu-se la regii voștri, nu literalmente la strămoși — stăpânul poporului e numit «tată», ca la Geneza 45:8, unde Iosif se numește «tată pentru Faraon»."
       }
      ],
      "textCompare": [
@@ -88908,7 +89184,17 @@
      "translit": "Gam-ata hitiațevu ureu et-hadavar hagadol haze așer ADONAI ose leeineihem.",
      "tokens": [
       {
-       "t": "Chiar acum, stați în picioare și priviți "
+       "t": "Chiar acum, stați în picioare și priviți",
+       "w": "Chiar acum, stați în picioare și priviți",
+       "heb": "גַּם עַתָּה הִתְיַצְּבוּ וּרְאוּ אֶת הַדָּבָר",
+       "translit": "gam ata hitiațvu uru et hadavar",
+       "strong": "H1571",
+       "pos": "particulă afirmativă + adverb + verb, hitpael imperativ + verb, qal imperativ + marcă a complementului direct + substantiv",
+       "def_ro": "și acum, stați și vedeți lucrul.",
+       "dict_ro": "Rashi explică faptul că Samuel vrea să arate: precum, prin rugăciunea lui, poate schimba anotimpurile, tot așa, dacă ar fi venit vreun război, rugăciunea lui ar fi avut puterea să-i apere, fără să fi fost nevoie de un rege cât el mai trăia."
+      },
+      {
+       "t": " "
       },
       {
        "t": "acest lucru măreț",
@@ -88923,7 +89209,14 @@
        "dict_ro": "Gadol — „mare”; „lucrul cel mare” anunță un semn vizibil care să confirme cuvântul profetului, ca la Marea Roșie („stați și vedeți mântuirea DOMNULUI”, Exodul 14:13 — aceeași poruncă: hityațvu ureu). Rashi explică rostul semnului: precum rugăciunea mea poate schimba anotimpurile, tot așa ar fi putut să vă apere de dușman, și nu era nevoie să cereți un rege cât trăiesc eu. Metzudat David adaugă o lecție despre căile lui Dumnezeu: El împlinește uneori o cerere chiar dacă e rea în ochii Lui."
       },
       {
-       "t": " pe care DOMNUL îl face înaintea ochilor voștri."
+       "t": " pe care DOMNUL îl face înaintea ochilor voștri.",
+       "w": " pe care DOMNUL îl face înaintea ochilor voștri.",
+       "heb": "הַזֶּה אֲשֶׁר יְהוָה עֹשֶׂה לְעֵינֵיכֶם",
+       "translit": "haze așer Adonai ose leēnēhem",
+       "strong": "H2088",
+       "pos": "pronume demonstrativ + particulă relativă + nume propriu + verb, qal participiu + substantiv dual construct + sufix",
+       "def_ro": "acesta, pe care DOMNUL îl face sub ochii voștri.",
+       "dict_ro": "Radak explică faptul că ploaia la vremea secerișului era un fenomen cu totul neobișnuit în Țara lui Israel, potrivit Ieremia 5:24 — de aceea apariția ei bruscă, chemată prin rugăciunea lui Samuel, i-a înspăimântat profund pe toți cei prezenți."
       }
      ],
      "textCompare": [
@@ -88967,7 +89260,17 @@
      "translit": "Halo kețir-hitim haiom ekra el-ADONAI veiten kolot umatar udeu ureu ki-raathem raba așer asitem beein ei ADONAI lișol lahem meleh.",
      "tokens": [
       {
-       "t": "Nu este oare astăzi vremea "
+       "t": "Nu este oare astăzi vremea",
+       "w": "Nu este oare astăzi vremea",
+       "heb": "הֲלוֹא",
+       "translit": "halo",
+       "strong": "H3808",
+       "pos": "particulă negativă",
+       "def_ro": "nu [este] oare.",
+       "dict_ro": "Rashi explică faptul că ploaia la seceriș era, de obicei, semn de blestem, potrivit tratatului Taanit (12b) — Sfântul nu voia s-o aducă fără nevoie, dar a trimis-o totuși, ca dovadă a puterii cuvântului lui Samuel."
+      },
+      {
+       "t": " "
       },
       {
        "t": "culesului grâului",
@@ -88982,7 +89285,14 @@
        "dict_ro": "Kațir hitim — secerișul grâului, la începutul verii, în preajma sărbătorii Șavuot (Exodul 34:22), în plin sezon secetos, când ploaia nu cade aproape niciodată în Țara lui Israel. Ploaia în acest anotimp nu era binecuvântare, ci pagubă: grâul copt, ud, putrezește. Talmudul (Taanit 12b) învață de aici că ploaia căzută după ieșirea lunii Nisan e „semn de blestem”. Rashi adaugă: deși Dumnezeu nu aduce bucuros pedeapsa fără rost, puterea rugăciunii profetului e atât de mare încât El va răspunde."
       },
       {
-       "t": "? Și totuși, voi striga către DOMNUL și el va trimite tunete și ploaie și veți cunoaște și veți vedea că mare este răul vostru pe care l-ați făcut înaintea ochilor DOMNULUI, cerând un rege pentru voi.”"
+       "t": "? Și totuși, voi striga către DOMNUL și el va trimite tunete și ploaie și veți cunoaște și veți vedea că mare este răul vostru pe care l-ați făcut înaintea ochilor DOMNULUI, cerând un rege pentru voi.”",
+       "w": "? Și totuși, voi striga către DOMNUL și el va trimite tunete și ploaie și veți cunoaște și veți vedea că mare este răul vostru pe care l-ați făcut înaintea ochilor DOMNULUI, cerând un rege pentru voi.”",
+       "heb": "הַיּוֹם אֶקְרָא אֶל יְהוָה וְיִתֵּן קֹלוֹת וּמָטָר וּדְעוּ וּרְאוּ כִּי רָעַתְכֶם רַבָּה אֲשֶׁר עֲשִׂיתֶם בְּעֵינֵי יְהוָה לִשְׁאוֹל לָכֶם מֶלֶךְ",
+       "translit": "hitim haiom ekra el Adonai veitēn kolot umatar udu uru ki raathem raba așer asitem beēnē Adonai lișol lahem meleh",
+       "strong": "H2406",
+       "pos": "substantiv + substantiv + verb, qal imperfect + prepoziție + nume propriu + verb, qal imperfect + substantiv plural + substantiv + verb, qal imperativ + verb, qal imperativ + conjuncție + substantiv construct + sufix + adjectiv + particulă relativă + verb, qal perfect + substantiv dual construct + nume propriu + verb, qal infinitiv + prepoziție + sufix + substantiv",
+       "def_ro": "grâului, astăzi? Voi chema pe DOMNUL, și va da tunete și ploaie, și veți cunoaște și veți vedea că răul vostru [este] mare, pe care l-ați făcut sub ochii DOMNULUI, cerând vouă un rege.",
+       "dict_ro": "Talmudul Bavli (Taanit 12b) citează exact acest verset ca sursă pentru regula că, după trecerea lunii Nisan, nu se mai roagă pentru ploaie — orice ploaie venită după acea vreme e socotită semn de blestem, dovadă clară a nemulțumirii divine."
       }
      ],
      "textCompare": [
@@ -89034,7 +89344,17 @@
      "translit": "Vaikra Șemuel el-ADONAI vaiten ADONAI kolot umatar baiom hahu vaira hol-haam meod et-ADONAI veet-Șemuel.",
      "tokens": [
       {
-       "t": "Și Samuel a strigat către DOMNUL, iar DOMNUL a trimis "
+       "t": "Și Samuel a strigat către DOMNUL, iar DOMNUL a trimis",
+       "w": "Și Samuel a strigat către DOMNUL, iar DOMNUL a trimis",
+       "heb": "וַיִּקְרָא שְׁמוּאֵל אֶל יְהוָה וַיִּתֵּן יְהוָה",
+       "translit": "vaikra șemuēl el Adonai vaitēn Adonai",
+       "strong": "H7121",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu + verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "și a strigat Samuel către DOMNUL, și a dat DOMNUL.",
+       "dict_ro": "Metzudat David explică faptul că Samuel a strigat pentru ploaie exact cum spusese anterior — fapta lui confirmă imediat, fără întârziere, puterea reală a rugăciunii lui, exact așa cum promisese poporului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "tunete",
@@ -89049,7 +89369,14 @@
        "dict_ro": "Kolot — literal „glasuri”; în Biblie, pluralul desemnează adesea tunetele, „glasurile” lui Dumnezeu, ca la plaga grindinei (Exodul 9:23-29) și la Sinai (Exodul 19:16). Metzudat David explică de ce poporul s-a temut „de DOMNUL și de Samuel”: de DOMNUL, pentru păcatul cererii unui rege; de Samuel, pentru că au pus un rege în timpul vieții lui, ca și cum l-ar fi lepădat. Teama de Dumnezeu și de slujitorul Lui apare împreună și după trecerea Mării (Exodul 14:31)."
       },
       {
-       "t": " și ploaie în ziua aceea; și tot poporul s-a temut mult de DOMNUL și de Samuel."
+       "t": " și ploaie în ziua aceea; și tot poporul s-a temut mult de DOMNUL și de Samuel.",
+       "w": " și ploaie în ziua aceea; și tot poporul s-a temut mult de DOMNUL și de Samuel.",
+       "heb": "וּמָטָר בַּיּוֹם הַהוּא וַיִּירָא כָל הָעָם מְאֹד אֶת יְהוָה וְאֶת שְׁמוּאֵל",
+       "translit": "umatar baiom hahu vaira hal haam meod et Adonai veet șemuēl",
+       "strong": "H4306",
+       "pos": "substantiv + substantiv + pronume personal + verb, qal imperfect consecutiv + substantiv construct + substantiv + adverb + marcă a complementului direct + nume propriu + marcă a complementului direct + nume propriu",
+       "def_ro": "și ploaie, în ziua aceea; și s-a temut tot poporul foarte mult de DOMNUL și de Samuel.",
+       "dict_ro": "Metzudat David explică faptul că frica de Samuel, alături de cea de DOMNUL, se explică prin faptul că poporul a pus un rege chiar în timpul vieții profetului — gest ca și cum l-ar fi lepădat, de aceea teama lor crește brusc, văzând puterea lui reală."
       }
      ],
      "textCompare": [
@@ -89087,7 +89414,14 @@
      "translit": "Vaiomru hol-haam el-Șemuel hitpalel bead-avadeha el-ADONAI Eloheha veal-namut ki-iasafnu al-kol-hatoteinu raa lișol lanu meleh.",
      "tokens": [
       {
-       "t": "Și tot poporul i-a spus lui Samuel: „"
+       "t": "Și tot poporul i-a spus lui Samuel: „",
+       "w": "Și tot poporul i-a spus lui Samuel: „",
+       "heb": "וַיֹּאמְרוּ כָל הָעָם אֶל שְׁמוּאֵל",
+       "translit": "vaiomru hal haam el șemuēl",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + substantiv + prepoziție + nume propriu",
+       "def_ro": "și a spus tot poporul către Samuel.",
+       "dict_ro": "Schimbarea bruscă de la frică la rugăminte confirmă impactul deplin al minunii ploii — poporul recunoaște imediat gravitatea situației și se întoarce la Samuel pentru mijlocire, nu pentru confrontare."
       },
       {
        "t": "Roagă-te",
@@ -89102,7 +89436,14 @@
        "dict_ro": "Palal (hitpael: hitpalel) — „a se ruga”; rădăcina are sensul de bază „a judeca, a hotărî” (pelilim, „judecători”), astfel încât rugăciunea e, într-un fel, prezentarea propriei pricini înaintea Judecătorului. Samuel e în Scriptură mijlocitorul prin excelență, alături de Moise (Ieremia 15:1; Psalmul 99:6), iar poporul recunoaște acum că are nevoie de rugăciunea lui, nu de un rege. Metzudat David: „la toate păcatele pe care le-am făcut de atunci, am mai adăugat răul cererii unui rege”."
       },
       {
-       "t": " DOMNULUI, Dumnezeului tău, în numele slujitorilor tăi, ca să nu murim; căci am adăugat răutate la toate păcatele noastre, cerând un rege pentru noi.”"
+       "t": " DOMNULUI, Dumnezeului tău, în numele slujitorilor tăi, ca să nu murim; căci am adăugat răutate la toate păcatele noastre, cerând un rege pentru noi.”",
+       "w": " DOMNULUI, Dumnezeului tău, în numele slujitorilor tăi, ca să nu murim; căci am adăugat răutate la toate păcatele noastre, cerând un rege pentru noi.”",
+       "heb": "בְּעַד עֲבָדֶיךָ אֶל יְהוָה אֱלֹהֶיךָ וְאַל נָמוּת כִּי יָסַפְנוּ עַל כָּל חַטֹּאתֵינוּ רָעָה לִשְׁאֹל לָנוּ מֶלֶךְ",
+       "translit": "bead avadeha el Adonai eloheha veal namut ki iasafnu al kal hatotēnu raa lișol lanu meleh",
+       "strong": "H1157",
+       "pos": "prepoziție + substantiv plural construct + sufix + prepoziție + nume propriu + substantiv plural construct + sufix + particulă negativă + verb, qal cohortativ + conjuncție + verb, qal perfect + prepoziție + substantiv construct + substantiv plural construct + sufix + substantiv + verb, qal infinitiv + prepoziție + sufix + substantiv",
+       "def_ro": "pentru slujitorii tăi, la DOMNUL, Dumnezeul tău, ca să nu murim, căci am adăugat la toate păcatele noastre răutate, cerând pentru noi un rege.",
+       "dict_ro": "Metzudat David explică faptul că poporul recunoaște clar: la păcatele deja comise au adăugat una nouă, cererea regelui — mărturisirea lor completă pregătește răspunsul calm al lui Samuel din versetul următor."
       }
      ],
      "textCompare": [
@@ -89142,7 +89483,14 @@
      "translit": "Vaiomer Șemuel el-haam al-tirau atem asitem et kol-haraa hazot ah al-tasuru meaharei ADONAI vaavadetem et-ADONAI behol levavhem.",
      "tokens": [
       {
-       "t": "Iar Samuel a spus poporului: „"
+       "t": "Iar Samuel a spus poporului: „",
+       "w": "Iar Samuel a spus poporului: „",
+       "heb": "וַיֹּאמֶר שְׁמוּאֵל אֶל הָעָם אַל",
+       "translit": "vaiomer șemuēl el haam al",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv + particulă negativă",
+       "def_ro": "și a spus Samuel către popor: nu.",
+       "dict_ro": "Răspunsul liniștitor al lui Samuel, imediat după mărturisirea disperată a poporului, arată caracterul profetului — nu vrea să-i lase în frică excesivă, ci îi îndrumă spre reparație practică, nu spre panică."
       },
       {
        "t": "Nu vă temeți",
@@ -89157,7 +89505,14 @@
        "dict_ro": "Yare — „a se teme”; „nu vă temeți” e formula biblică a încurajării în fața lui Dumnezeu, ca la Sinai, după darea celor Zece Porunci: „nu vă temeți, căci Dumnezeu a venit să vă pună la încercare”. Samuel nu neagă păcatul — „voi ați făcut tot acest rău” —, dar îl închide în trecut: ce s-a făcut nu mai poate fi întors, însă nu vă abateți de la DOMNUL, și vina va fi ispășită (Metzudat David). Radak aduce și lectura Targumului: „voi ați pricinuit tot acest rău”, adică ploaia."
       },
       {
-       "t": "! Ați făcut toată această răutate, dar nu vă abateți de la a urma pe DOMNUL, ci slujiți-L pe DOMNUL cu toată inima voastră."
+       "t": "! Ați făcut toată această răutate, dar nu vă abateți de la a urma pe DOMNUL, ci slujiți-L pe DOMNUL cu toată inima voastră.",
+       "w": "! Ați făcut toată această răutate, dar nu vă abateți de la a urma pe DOMNUL, ci slujiți-L pe DOMNUL cu toată inima voastră.",
+       "heb": "תִּירָאוּ אַתֶּם עֲשִׂיתֶם אֵת כָּל הָרָעָה הַזֹּאת אַךְ אַל תָּסוּרוּ מֵאַחֲרֵי יְהוָה וַעֲבַדְתֶּם אֶת יְהוָה בְּכָל לְבַבְכֶם",
+       "translit": "tirau atem asitem ēt kal haraa hazot ah al tasuru mēaharē Adonai vaavadtem et Adonai behal levavhem",
+       "strong": "H3372",
+       "pos": "verb, qal jusiv + pronume personal + verb, qal perfect + marcă a complementului direct + substantiv construct + substantiv + pronume demonstrativ + particulă afirmativă + particulă negativă + verb, qal jusiv + prepoziție + nume propriu + verb, qal perfect consecutiv + marcă a complementului direct + nume propriu + prepoziție + substantiv construct + sufix",
+       "def_ro": "vă temeți; voi ați făcut tot răul acesta, însă nu vă abateți de la a urma pe DOMNUL, ci slujiți pe DOMNUL cu toată inima voastră.",
+       "dict_ro": "Radak notează că Targumul lui Ionatan traduce «tot acest rău» ca referindu-se la ploaie — «voi ați pricinuit tot acest rău» — legând direct fenomenul meteorologic de gravitatea păcatului comis."
       }
      ],
      "textCompare": [
@@ -89199,7 +89554,17 @@
      "translit": "Velo tasuru ki aharei hatohu așer lo-ioilu velo iațilu ki-tohu hema.",
      "tokens": [
       {
-       "t": "Și nu vă abateți să urmați după "
+       "t": "Și nu vă abateți să urmați după",
+       "w": "Și nu vă abateți să urmați după",
+       "heb": "וְלֹא תָּסוּרוּ כִּי אַחֲרֵי",
+       "translit": "velo tasuru ki aharē",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal imperfect + conjuncție + prepoziție",
+       "def_ro": "și nu vă abateți, căci după.",
+       "dict_ro": "Radak explică faptul că, dacă se vor abate de la a urma pe DOMNUL, se vor abate inevitabil «după deșertăciune» — idolii nu reprezintă o cale alternativă neutră, ci direct opusul vieții reale."
+      },
+      {
+       "t": " "
       },
       {
        "t": "deșertăciuni",
@@ -89212,7 +89577,14 @@
        "dict_ro": "Tohu e același cuvânt din Geneza 1:2 („pământul era tohu va-vohu\", „pustiu și gol\") — aici, aplicat idolilor, înseamnă „lucruri fără ființă, fără substanță\". Septuaginta redă ideea descriptiv, „τῶν μηθὲν ὄντων\" („cele ce nu sunt nimic\"), nu printr-un singur cuvânt echivalent."
       },
       {
-       "t": " care nu pot ajuta și nu pot salva, căci sunt deșertăciuni."
+       "t": " care nu pot ajuta și nu pot salva, căci sunt deșertăciuni.",
+       "w": " care nu pot ajuta și nu pot salva, căci sunt deșertăciuni.",
+       "heb": "אֲשֶׁר לֹא יוֹעִילוּ וְלֹא יַצִּילוּ כִּי תֹהוּ הֵמָּה",
+       "translit": "așer lo ioilu velo iațilu ki tohu hēma",
+       "strong": "H834",
+       "pos": "particulă relativă + particulă negativă + verb, hifil imperfect + particulă negativă + verb, hifil imperfect + conjuncție + substantiv + pronume personal",
+       "def_ro": "care nu vor fi de folos și nu vor salva, căci deșertăciune [sunt] ei.",
+       "dict_ro": "Metzudat Țion explică «hatohu» ca pe un lucru fără substanță, aceeași rădăcină fiind folosită la Geneza 1:2 pentru pământul «tohu» de la începutul Creației — idolii sunt, literalmente, nimic, lipsiți de orice realitate proprie."
       }
      ],
      "textCompare": [
@@ -89260,7 +89632,17 @@
      "translit": "Ki lo-itoș ADONAI et-amo baavur șemo hagadol ki hoil ADONAI laasot ethem lo leam.",
      "tokens": [
       {
-       "t": "Căci DOMNUL "
+       "t": "Căci DOMNUL",
+       "w": "Căci DOMNUL",
+       "heb": "כִּי ... יְהוָה",
+       "translit": "ki Adonai",
+       "strong": "H3588",
+       "pos": "conjuncție + nume propriu",
+       "def_ro": "căci DOMNUL.",
+       "dict_ro": "Rashi explică faptul că DOMNUL nu-Și va părăsi poporul «de dragul numelui Său cel mare», pentru că faima Lui ca Mântuitor s-a răspândit deja printre neamuri prin Israel — a-l abandona acum ar micșora acea faimă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "nu Își va părăsi",
@@ -89275,7 +89657,14 @@
        "dict_ro": "Nataș — „a lăsa, a părăsi, a abandona”. Temelia încrederii nu e meritul poporului, ci numele lui Dumnezeu: Radak explică, după Moise (Numeri 14:15-16) și Ioșua (Iosua 7:9), că dacă Dumnezeu i-ar nimici, neamurile ar spune că n-a putut să-i salveze, și numele Lui ar fi micșorat. „Hoil” — „a binevoit, a voit”, spune Metzudat Țion (ca în Exodul 2:21, „Moise a binevoit să rămână”), iar Rashi îl explică „a jurat”. Psalmul 94:14 reia aceeași făgăduință: „DOMNUL nu-Și va lepăda poporul”."
       },
       {
-       "t": " poporul de dragul numelui Său cel mare, căci DOMNUL a promis să vă facă pe voi popor al Său.”"
+       "t": " poporul de dragul numelui Său cel mare, căci DOMNUL a promis să vă facă pe voi popor al Său.”",
+       "w": " poporul de dragul numelui Său cel mare, căci DOMNUL a promis să vă facă pe voi popor al Său.”",
+       "heb": "אֶת עַמּוֹ בַּעֲבוּר שְׁמוֹ הַגָּדוֹל כִּי הוֹאִיל יְהוָה לַעֲשׂוֹת אֶתְכֶם לוֹ לְעָם",
+       "translit": "et amo baavur șemo hagadol ki hoil Adonai laasot ethem lo leam",
+       "strong": "H5971",
+       "pos": "marcă a complementului direct + substantiv construct + sufix + prepoziție + substantiv construct + sufix + adjectiv + conjuncție + verb, hifil perfect + nume propriu + verb, qal infinitiv + marcă a complementului direct + sufix + prepoziție + sufix + substantiv",
+       "def_ro": "poporul Lui, de dragul numelui Lui cel mare, căci a voit DOMNUL să vă facă pe voi pentru El popor.",
+       "dict_ro": "Radak leagă acest verset de cuvintele lui Moise și Ioșua despre faima Numelui DOMNULUI printre neamuri — dacă Israel ar fi nimicit după păcatele lui, neamurile ar spune că DOMNUL n-a putut să-l salveze, micșorând astfel chiar măreția Lui recunoscută universal."
       }
      ],
      "textCompare": [
