@@ -74002,7 +74002,17 @@
        "dict_ro": "Devar ADONAI — formula prin care Ezechiel își deschide fiecare nouă unitate profetică; davar înseamnă deopotrivă „cuvânt” și „lucru, faptă”, astfel încât cuvântul divin e înțeles ca realitate activă, nu doar ca mesaj. Capitolul 22 deschide un nou oracol, rostit înainte de căderea Ierusalimului: un rechizitoriu al cetății, păcat cu păcat."
       },
       {
-       "t": " a venit la mine, spunând:"
+       "t": " "
+      },
+      {
+       "t": "a venit la mine, spunând:",
+       "w": "a venit la mine, spunând:",
+       "heb": "וַיְהִי אֵלַי לֵאמֹר",
+       "translit": "vaihi ēlai lēmor",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + verb, qal infinitiv",
+       "def_ro": "și a fost la mine, spunând.",
+       "dict_ro": "Formula introductivă «cuvântul DOMNULUI a venit la mine» marchează solemn începutul unei noi profeții de judecată, adresată direct Ierusalimului, numit aici «cetatea sângiurilor»."
       }
      ],
      "textCompare": [
@@ -74030,7 +74040,17 @@
      "translit": "Veata ven-adam hatișpot hatișpot et-ir hadamim vehodata et kol-toavoteha.",
      "tokens": [
       {
-       "t": "„Iar tu, fiu al omului, vei dojeni, vei dojeni oare "
+       "t": "„Iar tu, fiu al omului, vei dojeni, vei dojeni oare",
+       "w": "„Iar tu, fiu al omului, vei dojeni, vei dojeni oare",
+       "heb": "וְאַתָּה בֶן אָדָם הֲתִשְׁפֹּט הֲתִשְׁפֹּט אֶת",
+       "translit": "veata ven adam hatișpot hatișpot et",
+       "strong": "H859",
+       "pos": "pronume personal + substantiv construct + substantiv + verb, qal imperfect + verb, qal imperfect + marcă a complementului direct",
+       "def_ro": "și tu, fiu al omului, vei judeca, vei judeca oare.",
+       "dict_ro": "Radak explică faptul că dublarea verbului «vei judeca» întărește porunca — profetul trebuie să cerceteze cu atenție specială faptele cetății, nu doar să rostească o condamnare generală."
+      },
+      {
+       "t": " "
       },
       {
        "t": "orașul vărsărilor de sânge",
@@ -74045,7 +74065,14 @@
        "dict_ro": "Ir hadamim — pluralul damim („sânguri”) desemnează sângele vărsat cu violență; Rashi precizează că e vorba de Ierusalim, iar Radak explică de ce acesta e primul titlu de acuzare: deși cetatea era plină de idoli și alte urâciuni, păcatul cel mai greu era vărsarea de sânge nevinovat, ca în zilele lui Manase (2 Împărați 21:16). Același epitet îl dă Naum Ninivei (Naum 3:1), punând astfel Ierusalimul pe aceeași treaptă cu capitala asiriană."
       },
       {
-       "t": " și îi vei face cunoscute toate ororile?"
+       "t": " și îi vei face cunoscute toate ororile?",
+       "w": " și îi vei face cunoscute toate ororile?",
+       "heb": "וְהוֹדַעְתָּהּ אֵת כָּל תּוֹעֲבוֹתֶיהָ",
+       "translit": "vehodatah ēt kal toavoteha",
+       "strong": "H3045",
+       "pos": "verb, hifil perfect consecutiv + sufix + marcă a complementului direct + substantiv construct + substantiv plural construct + sufix",
+       "def_ro": "și o vei face să cunoască toate urâciunile ei.",
+       "dict_ro": "Radak precizează că, deși Ierusalimul era o cetate a idolilor și a altor urâciuni, cea mai gravă nelegiuire rămâne vărsarea de sânge nevinovat, exact ca în cazul regelui Manase, menționat la 2 Împărați 21:16."
       }
      ],
      "textCompare": [
@@ -74093,7 +74120,17 @@
      "translit": "Veamarta ko amar Adonai ELOHIM ir șofechet dam betocha lavo ita veasta ghilulim aleha letamea.",
      "tokens": [
       {
-       "t": "Și să spui: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Orașule în mijlocul căruia este vărsat sânge pentru ca să-ți vină [mai degrabă] ceasul și care ți-ai făurit "
+       "t": "Și să spui: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Orașule în mijlocul căruia este vărsat sânge pentru ca să-ți vină [mai degrabă] ceasul și care ți-ai făurit",
+       "w": "Și să spui: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: Orașule în mijlocul căruia este vărsat sânge pentru ca să-ți vină [mai degrabă] ceasul și care ți-ai făurit",
+       "heb": "וְאָמַרְתָּ כֹּה אָמַר אֲדֹנָי יְהוִה עִיר שֹׁפֶכֶת דָּם בְּתוֹכָהּ לָבוֹא עִתָּהּ וְעָשְׂתָה",
+       "translit": "veamarta ko amar adonai Adonai ir șofehet dam betohah lavo itah veasta",
+       "strong": "H559",
+       "pos": "verb, qal perfect consecutiv + adverb + verb, qal perfect + substantiv construct + sufix + nume propriu + substantiv + verb, qal participiu + substantiv + substantiv construct + sufix + verb, qal infinitiv + substantiv construct + sufix + verb, qal perfect consecutiv",
+       "def_ro": "și vei spune: așa a spus Stăpânul meu, DOMNUL: cetate care varsă sânge în mijlocul ei, ca să-i vină vremea, și care își face.",
+       "dict_ro": "Rashi explică faptul că acest verset e construit inversat — sensul fiind: o cetate care varsă sânge în mijlocul ei, despre care Domnul DUMNEZEU a spus că vremea nimicirii ei a sosit."
+      },
+      {
+       "t": " "
       },
       {
        "t": "idoli",
@@ -74107,7 +74144,14 @@
        "dict_ro": "Ghilulim — cuvânt preferat de Ezechiel (peste 35 de apariții) pentru idoli, derivat probabil din gel, „baligă”, sau din galal, „a rostogoli” (bușteni, pietre fără viață) — un joc de cuvinte batjocoritor. Radak observă că textul spune „asupra ei”, pentru că idolii stăteau pe munți și pe dealuri, și explică gradația necurăției: idolatria e „necurăția sufletului”, cea mai grea dintre toate, de aceea profetul o numește explicit „ca să te pângărești”."
       },
       {
-       "t": " pentru tine ca să te pângărești,"
+       "t": " pentru tine ca să te pângărești,",
+       "w": " pentru tine ca să te pângărești,",
+       "heb": "עָלֶיהָ לְטָמְאָה",
+       "translit": "aleha letama",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix + verb, qal infinitiv",
+       "def_ro": "pentru ea, ca să se pângărească.",
+       "dict_ro": "Radak explică faptul că vărsarea de sânge «în mijlocul ei», sub ochii tuturor, e un rău mai mare decât cel comis pe drumuri și în ascuns — publicitatea nelegiuirii adaugă o vină suplimentară."
       }
      ],
      "textCompare": [
@@ -74154,7 +74198,17 @@
      "translit": "Bedamech așer-șafacht așamt uvegilulayich așer-asit tamet vatakriyi yamayich vatavo ad-șenotayich al-ken netatich herpa lagoyim vekalasa lechol-haaratzot.",
      "tokens": [
       {
-       "t": "prin sângele tău pe care l-ai vărsat te-ai făcut vinovat și prin idolii pe care i-ai făurit te-ai pângărit. Astfel, "
+       "t": "prin sângele tău pe care l-ai vărsat te-ai făcut vinovat și prin idolii pe care i-ai făurit te-ai pângărit. Astfel,",
+       "w": "prin sângele tău pe care l-ai vărsat te-ai făcut vinovat și prin idolii pe care i-ai făurit te-ai pângărit. Astfel,",
+       "heb": "בְּדָמֵךְ אֲשֶׁר שָׁפַכְתְּ אָשַׁמְתְּ וּבְגִלּוּלַיִךְ אֲשֶׁר עָשִׂית טָמֵאת",
+       "translit": "bedamēh așer șafahte așamte uvgilulaih așer asit tamēt",
+       "strong": "H1818",
+       "pos": "substantiv construct + sufix + particulă relativă + verb, qal perfect + verb, qal perfect + substantiv plural construct + sufix + particulă relativă + verb, qal perfect + verb, qal perfect",
+       "def_ro": "prin sângele tău pe care l-ai vărsat te-ai făcut vinovată, și prin idolii tăi pe care i-ai făcut te-ai pângărit.",
+       "dict_ro": "Radak explică faptul că prin faptele rele ale cetății s-au apropiat zilele exilului și ale nimicirii ei — fiecare nelegiuire grăbește, nu întârzie, ceasul judecății."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ți-ai grăbit ceasul",
@@ -74169,7 +74223,14 @@
        "dict_ro": "Karav, la forma hifil — „a apropia, a aduce aproape”; aceeași rădăcină din care vine korban, jertfa „adusă aproape” de altar, ceea ce dă expresiei o ironie amară: în loc de jertfe, cetatea își „aduce aproape” propriul sfârșit. Radak explică: prin faptele tale rele ți-ai apropiat zilele exilului și ale nimicirii. Rashi leagă „anii tăi” de avertismentul lui Moise din Deuteronomul 4:25 („și veți îmbătrâni în țară”), a cărui valoare numerică indica termenul exilului."
       },
       {
-       "t": " și ai ajuns la capătul anilor tăi și de aceea te-am făcut de batjocura neamurilor, de râsul tuturor țărilor."
+       "t": " și ai ajuns la capătul anilor tăi și de aceea te-am făcut de batjocura neamurilor, de râsul tuturor țărilor.",
+       "w": " și ai ajuns la capătul anilor tăi și de aceea te-am făcut de batjocura neamurilor, de râsul tuturor țărilor.",
+       "heb": "יָמַיִךְ וַתָּבוֹא עַד שְׁנוֹתָיִךְ עַל כֵּן נְתַתִּיךְ חֶרְפָּה לַגּוֹיִם וְקַלָּסָה לְכָל הָאֲרָצוֹת",
+       "translit": "iamaih vatavo ad șenotaih al kēn netatih herpa lagoim vekalasa lehal haarațot",
+       "strong": "H3117",
+       "pos": "substantiv plural construct + sufix + verb, qal imperfect consecutiv + prepoziție + substantiv plural construct + sufix + prepoziție + particulă demonstrativă + verb, qal perfect + sufix + substantiv + substantiv plural + substantiv + substantiv construct + substantiv plural",
+       "def_ro": "zilele tale, și ai ajuns la anii tăi; de aceea te-am dat de ocară neamurilor și de batjocură tuturor țărilor.",
+       "dict_ro": "Radak explică faptul că neamurile te disprețuiesc pentru că ai părăsit Tora Dumnezeului tău, pe când ele n-au părăsit legea dumnezeilor lor — disprețul primit e, astfel, direct proporțional cu infidelitatea comisă."
       }
      ],
      "textCompare": [
@@ -74217,7 +74278,17 @@
      "translit": "Hakevovot veharhokot mimech yitkalsu-vach temeat hașem rabat hamehuma.",
      "tokens": [
       {
-       "t": "Cele de aproape și cele de departe de tine te vor batjocori: ‘Pângărita numelui! "
+       "t": "Cele de aproape și cele de departe de tine te vor batjocori: ‘Pângărita numelui!",
+       "w": "Cele de aproape și cele de departe de tine te vor batjocori: ‘Pângărita numelui!",
+       "heb": "הַקְּרֹבוֹת וְהָרְחֹקוֹת מִמֵּךְ יִתְקַלְּסוּ בָךְ טְמֵאַת הַשֵּׁם רַבַּת",
+       "translit": "hakrovot veharhokot mimēh itkalsu vah temēat hașēm rabat",
+       "strong": "H7138",
+       "pos": "adjectiv + adjectiv + prepoziție + sufix + verb, hitpael imperfect + prepoziție + sufix + adjectiv + substantiv + adjectiv",
+       "def_ro": "cele de aproape și cele de departe de tine te vor batjocori: pângărită la nume, plină.",
+       "dict_ro": "Rashi explică faptul că cetatea era numită «popor sfânt, fii ai Creatorului lor», dar faptele ei au ajuns să fie numite «popor cu buze necurate» (Isaia 6:5) — exact aceasta e pângărirea numelui de care vorbește versetul."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Plină de tulburări",
@@ -74274,7 +74345,17 @@
      "translit": "Hine nesiéi Israël iș lizroo hayu vach lemaan șefoch-dam.",
      "tokens": [
       {
-       "t": "Iată, "
+       "t": "Iată,",
+       "w": "Iată,",
+       "heb": "הִנֵּה",
+       "translit": "hinē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă",
+       "def_ro": "iată.",
+       "dict_ro": "Radak identifică «prinții lui Israel» cu regii și dregătorii cetății, cei care, prin puterea lor, ar fi trebuit să ocrotească poporul, nu să-l asuprească."
+      },
+      {
+       "t": " "
       },
       {
        "t": "prinții lui Israel",
@@ -74289,7 +74370,14 @@
        "dict_ro": "Nasi — „cel ridicat”, căpetenie, din rădăcina nasa, „a ridica”; Radak îi identifică pe regi și pe dregători. Expresia „fiecare după brațul lui” (redată „pentru propria putere”) descrie, după Rashi, legea celui mai tare: oricine era mai puternic îl călca în picioare pe celălalt; iar Radak adaugă că fiecare își folosea puterea — bogăția sau rudele — ca să facă rău și să verse sânge."
       },
       {
-       "t": ", fiecare [dintre ei] era în tine pentru propria putere, de dragul vărsării de sânge."
+       "t": ", fiecare [dintre ei] era în tine pentru propria putere, de dragul vărsării de sânge.",
+       "w": ", fiecare [dintre ei] era în tine pentru propria putere, de dragul vărsării de sânge.",
+       "heb": "אִישׁ לִזְרֹעוֹ הָיוּ בָךְ לְמַעַן שְׁפָךְ דָּם",
+       "translit": "iș lizroo haiu vah lemaan șefah dam",
+       "strong": "H376",
+       "pos": "substantiv + substantiv construct + sufix + verb, qal perfect + prepoziție + sufix + prepoziție + verb, qal infinitiv + substantiv",
+       "def_ro": "fiecare om, după brațul lui, erau în tine, ca să verse sânge.",
+       "dict_ro": "Radak explică expresia «după brațul lui» prin puterea pe care fiecare o avea de la bogăția sau rudele lui, ca la Iov 22:8 — «omul cu braț, al lui e țara» — forța folosită pentru nedreptate, nu pentru dreptate."
       }
      ],
      "textCompare": [
@@ -74333,7 +74421,17 @@
      "translit": "Av vaem hekalu vach lager asu vaoshek betochech yatom vealmana honu vach.",
      "tokens": [
       {
-       "t": "Tată și mamă au călcat strâmb în tine, pe "
+       "t": "Tată și mamă au călcat strâmb în tine, pe",
+       "w": "Tată și mamă au călcat strâmb în tine, pe",
+       "heb": "אָב וָאֵם הֵקַלּוּ בָךְ",
+       "translit": "av vaēm hēkalu vah",
+       "strong": "H1",
+       "pos": "substantiv + substantiv + verb, hifil perfect + prepoziție + sufix",
+       "def_ro": "tată și mamă au disprețuit în tine.",
+       "dict_ro": "Rashi explică faptul că toate urâciunile din pericopa «Sfinți să fiți» (Levitic 19-20), de care Israel fusese avertizat, sunt înșirate aici — profetul enumeră nu păcate noi, ci exact pe cele interzise explicit în Tora."
+      },
+      {
+       "t": " "
       },
       {
        "t": "străin",
@@ -74348,7 +74446,14 @@
        "dict_ro": "Gher — străinul stabilit în mijlocul poporului, fără pământ și fără rude, pe care Tora îl ocrotește de zeci de ori, alături de orfan și văduvă (Exodul 22:21-22). Rashi observă că profetul enumeră aici chiar urâciunile din pericopa Kedoșim (Levitic 19-20), de care fuseseră avertizați — cinstirea părinților, ocrotirea străinului — ceea ce explică alegerea acestei haftare. Radak adaugă că străinul era asuprit tocmai pentru că n-avea rude și ajutoare."
       },
       {
-       "t": " l-au oprimat în mijlocul tău, față de orfan și de văduvă au greșit în tine."
+       "t": " l-au oprimat în mijlocul tău, față de orfan și de văduvă au greșit în tine.",
+       "w": " l-au oprimat în mijlocul tău, față de orfan și de văduvă au greșit în tine.",
+       "heb": "עָשׂוּ בַעֹשֶׁק בְּתוֹכֵךְ יָתוֹם וְאַלְמָנָה הוֹנוּ בָךְ",
+       "translit": "asu vaoșek betohēh iatom vealmana honu vah",
+       "strong": "H6213",
+       "pos": "verb, qal perfect + substantiv + substantiv construct + sufix + substantiv + substantiv + verb, hifil perfect + prepoziție + sufix",
+       "def_ro": "au făcut cu asuprire în mijlocul tău; pe orfan și pe văduvă i-au nedreptățit în tine.",
+       "dict_ro": "Radak explică faptul că asuprirea străinului, orfanului și văduvei avea loc exact pentru că aceștia erau lipsiți de rude și ajutoare care să-i apere — slăbiciunea lor socială devenea ocazia nedreptății."
       }
      ],
      "textCompare": [
@@ -74396,7 +74501,17 @@
      "translit": "Kadașai bazit veet-șabtotai hilalt.",
      "tokens": [
       {
-       "t": "Sfințeniile Mele le-ai nesocotit și "
+       "t": "Sfințeniile Mele le-ai nesocotit și",
+       "w": "Sfințeniile Mele le-ai nesocotit și",
+       "heb": "קָדָשַׁי בָּזִית וְאֶת",
+       "translit": "kadașai bazit veet",
+       "strong": "H6944",
+       "pos": "substantiv plural construct + sufix + verb, qal perfect + marcă a complementului direct",
+       "def_ro": "sfințeniile Mele le-ai disprețuit, și.",
+       "dict_ro": "Rashi explică faptul că nesocotirea sfințeniilor contrazice direct porunca «să-l jertfiți după voia voastră» (Levitic 22:29) — poporul a ales să urmeze propria voie, nu pe cea descoperită prin Tora."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Șabaturile Mele",
@@ -74411,7 +74526,14 @@
        "dict_ro": "Șabat — ziua de odihnă, numită „Sabatele Mele” pentru că e semnul legământului dintre Dumnezeu și Israel (Exodul 31:13); aceeași formulare stă în pericopa Kedoșim: „Sabatele Mele să le păziți și Sanctuarul Meu să-l cinstiți” (Leviticul 19:30). Radak amintește că pângărirea Sabatului în Ierusalim e documentată și de Ieremia (Ieremia 17:21-27), iar „sfințeniile disprețuite” sunt jertfele aduse cu dispreț — animale furate, șchioape sau bolnave (Maleahi 1:13)."
       },
       {
-       "t": " le-ai pângărit."
+       "t": " le-ai pângărit.",
+       "w": " le-ai pângărit.",
+       "heb": "חִלָּלְתְּ",
+       "translit": "hilalte",
+       "strong": "H2490",
+       "pos": "verb, piel perfect",
+       "def_ro": "le-ai pângărit.",
+       "dict_ro": "Radak leagă pângărirea Sabatului de avertismentele repetate ale profetului Ieremia pe aceeași temă — încălcarea Sabatului nu era un păcat izolat, ci o neascultare îndelung semnalată și ignorată."
       }
      ],
      "textCompare": [
@@ -74469,7 +74591,14 @@
        "dict_ro": "Rahil — clevetirea, bârfa purtată din om în om; aceeași interdicție ca în pericopa Kedoșim: „să nu umbli cu clevetiri în poporul tău; să nu stai împotriva sângelui aproapelui tău” (Leviticul 19:16). Legătura dintre cele două jumătăți ale versetului din Levitic e exact acuzația lui Ezechiel: Radak explică că acești oameni duceau vorbe de la cei slabi la cei puternici, „ca să verse sânge nevinovat fără motiv”, ca martorii mincinoși împotriva lui Nabot (1 Împărați 21:10-13)."
       },
       {
-       "t": " au fost în tine, pentru ca să verse sânge; și pe munți au mâncat în tine, complot au înfăptuit în mijlocul tău."
+       "t": " au fost în tine, pentru ca să verse sânge; și pe munți au mâncat în tine, complot au înfăptuit în mijlocul tău.",
+       "w": " au fost în tine, pentru ca să verse sânge; și pe munți au mâncat în tine, complot au înfăptuit în mijlocul tău.",
+       "heb": "הָיוּ בָךְ לְמַעַן שְׁפָךְ דָּם וְאֶל הֶהָרִים אָכְלוּ בָךְ זִמָּה עָשׂוּ בְתוֹכֵךְ",
+       "translit": "haiu vah lemaan șefah dam veel heharim ahlu vah zima asu vetohēh",
+       "strong": "H1961",
+       "pos": "verb, qal perfect + prepoziție + sufix + prepoziție + verb, qal infinitiv + substantiv + prepoziție + substantiv plural + verb, qal perfect + prepoziție + sufix + substantiv + verb, qal perfect + prepoziție + sufix",
+       "def_ro": "erau în tine, ca să verse sânge; și pe munți au mâncat în tine, nelegiuire au făcut în mijlocul tău.",
+       "dict_ro": "Radak explică faptul că «pe munți au mâncat» se referă la slujirea zeilor străini pe înălțimi, iar «zima» e termenul general pentru toate relațiile oprite, detaliate în versetele următoare."
       }
      ],
      "textCompare": [
@@ -74528,7 +74657,14 @@
        "dict_ro": "Erva — goliciunea, termenul tehnic din Levitic 18 și 20 pentru relațiile interzise; „a descoperi goliciunea tatălui” înseamnă, după Leviticul 18:8, relația cu soția tatălui. Radak observă că verbul e la singular, spre deosebire de celelalte, și vede aici o aluzie la tradiția talmudică despre regele Amon, care a păcătuit cu propria mamă (Sanhedrin 103b). A doua jumătate a versetului reia interdicția apropierii de femeie în timpul necurăției (Leviticul 18:19; 20:18)."
       },
       {
-       "t": " a fost descoperită în tine, au necinstit femeia în vremea necurățeniei ei, în tine."
+       "t": " a fost descoperită în tine, au necinstit femeia în vremea necurățeniei ei, în tine.",
+       "w": " a fost descoperită în tine, au necinstit femeia în vremea necurățeniei ei, în tine.",
+       "heb": "אָב גִּלָּה בָךְ טְמֵאַת הַנִּדָּה עִנּוּ בָךְ",
+       "translit": "av gila vah temēat hanida inu vah",
+       "strong": "H1",
+       "pos": "substantiv + verb, piel perfect + prepoziție + sufix + adjectiv + substantiv + verb, piel perfect + prepoziție + sufix",
+       "def_ro": "a tatălui a fost descoperită în tine; pe cea necurată prin scurgerea ei au necinstit-o în tine.",
+       "dict_ro": "Talmudul Bavli (Sanhedrin 103b) leagă acest verset de păcatul regelui Amon, care «și-a înmulțit vina» (2 Cronici 33:23) având relații cu propria lui mamă — Radak notează că forma de singular a verbului, diferită de restul versetelor la plural, aluzionează la acest caz specific."
       }
      ],
      "textCompare": [
@@ -74576,7 +74712,17 @@
      "translit": "Veiș et-eșet reehu asa toeva veiș et-kalato time bezima veiș et-ahoto bat-aviv ina-vach.",
      "tokens": [
       {
-       "t": "În tine, un om se dedă la orori cu soția semenului său, altul își pângărește "
+       "t": "În tine, un om se dedă la orori cu soția semenului său, altul își pângărește",
+       "w": "În tine, un om se dedă la orori cu soția semenului său, altul își pângărește",
+       "heb": "וְאִישׁ אֶת אֵשֶׁת רֵעֵהוּ עָשָׂה תּוֹעֵבָה וְאִישׁ אֶת",
+       "translit": "veiș et ēșet rēēhu asa toēva veiș et",
+       "strong": "H376",
+       "pos": "substantiv + prepoziție + substantiv construct + substantiv construct + sufix + verb, qal perfect + substantiv + substantiv + marcă a complementului direct",
+       "def_ro": "și un om cu soția semenului lui a făcut urâciune, și un om pe.",
+       "dict_ro": "Radak explică faptul că textul nu vorbește despre un singur om, ci despre «un om și alt om», construcție similară cu «orice om din sămânța ta» — fiecare relație oprită e comisă de persoane diferite, nu de același individ repetat."
+      },
+      {
+       "t": " "
       },
       {
        "t": "nora",
@@ -74591,7 +74737,14 @@
        "dict_ro": "Kala — nora, dar și „mireasa”; relația cu nora e interzisă explicit în Leviticul 18:15 și 20:12, iar cea cu sora, fiica tatălui, în Leviticul 18:9 și 20:17 — o nouă trimitere directă la pericopa Kedoșim. Radak subliniază că formularea „un om... altul... altul” nu descrie un caz izolat, ci un fenomen răspândit: fiecare dintre aceste urâciuni era săvârșită de mulți."
       },
       {
-       "t": ", și altul își pângărește sora, fiica tatălui său, în tine."
+       "t": ", și altul își pângărește sora, fiica tatălui său, în tine.",
+       "w": ", și altul își pângărește sora, fiica tatălui său, în tine.",
+       "heb": "טִמֵּא בְזִמָּה וְאִישׁ אֶת אֲחֹתוֹ בַת אָבִיו עִנָּה בָךְ",
+       "translit": "timē vezima veiș et ahoto vat aviv ina vah",
+       "strong": "H2930",
+       "pos": "verb, piel perfect + substantiv + substantiv + prepoziție + substantiv construct + sufix + substantiv construct + substantiv construct + sufix + verb, piel perfect + prepoziție + sufix",
+       "def_ro": "a pângărit prin nelegiuire; și un om pe sora lui, fiica tatălui său, a necinstit-o în tine.",
+       "dict_ro": "Radak notează că cel ce se culcă cu sora lui o face de cele mai multe ori în casa tatălui, cât timp ea e încă fecioară — detaliu care explică de ce fapta e descrisă ca «necinstire», nu ca adulter."
       }
      ],
      "textCompare": [
@@ -74630,7 +74783,17 @@
      "translit": "Șohad lakehu-vach lemaan șefoch-dam neșech vetarbit lakahat vatevatzi reayich baoshek veoti șachahat neum Adonai ELOHIM.",
      "tokens": [
       {
-       "t": "Au luat mită în tine, ca să verse sânge. "
+       "t": "Au luat mită în tine, ca să verse sânge.",
+       "w": "Au luat mită în tine, ca să verse sânge.",
+       "heb": "שֹׁחַד לָקְחוּ בָךְ לְמַעַן שְׁפָךְ דָּם",
+       "translit": "șohad lakhu vah lemaan șefah dam",
+       "strong": "H7810",
+       "pos": "substantiv + verb, qal perfect + prepoziție + sufix + prepoziție + verb, qal infinitiv + substantiv",
+       "def_ro": "mită au luat în tine, ca să verse sânge.",
+       "dict_ro": "Radak explică faptul că regele și dregătorii luau mită de la cel acuzat, ca să verse sânge nevinovat — justiția era vândută celui care putea plăti mai mult."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Dobândă și camătă",
@@ -74645,7 +74808,14 @@
        "dict_ro": "Neșeh și tarbit — literal „mușcătură” și „înmulțire”, cele două denumiri biblice ale dobânzii interzise între frați (Leviticul 25:35-37). Radak citează tradiția rabinică potrivit căreia e unul și același lucru, numit de două ori pentru ca împrumutul cu dobândă să încalce două interdicții — învățătura lui Rava din Bava Meția 60b. Rashi dă două lecturi pentru „ți-ai îmbogățit prietenii”: fie cu câștigul necinstit luat de la săraci, fie „i-ai jefuit pe prietenii tăi prin asuprire”."
       },
       {
-       "t": " ai luat și ți-ai îmbogățit prietenii cu lucru furat, iar pe Mine M-ai uitat – vorba Stăpânului meu, Domnul DUMNEZEU."
+       "t": " ai luat și ți-ai îmbogățit prietenii cu lucru furat, iar pe Mine M-ai uitat – vorba Stăpânului meu, Domnul DUMNEZEU.",
+       "w": " ai luat și ți-ai îmbogățit prietenii cu lucru furat, iar pe Mine M-ai uitat – vorba Stăpânului meu, Domnul DUMNEZEU.",
+       "heb": "וְתַרְבִּית לָקַחַתְּ וַתְּבַצְּעִי רֵעַיִךְ בַּעֹשֶׁק וְאֹתִי שָׁכַחַתְּ נְאֻם אֲדֹנָי יְהוִה",
+       "translit": "vetarbit lakahat vatvați rēaih baoșek veoti șahahat neum adonai Adonai",
+       "strong": "H8636",
+       "pos": "substantiv + verb, qal perfect + verb, piel imperfect consecutiv + substantiv plural construct + sufix + substantiv + marcă a complementului direct + sufix + verb, qal perfect + substantiv construct + substantiv construct + sufix + nume propriu",
+       "def_ro": "și camătă ai luat, și ți-ai jefuit prietenii prin asuprire, și pe Mine M-ai uitat — rostirea Stăpânului meu, DOMNUL.",
+       "dict_ro": "Talmudul Bavli (Bava Meția 60b) explică, prin cuvintele lui Rava, că dobânda și camăta sunt același lucru în esență, dar Scriptura le-a despărțit în două interdicții distincte, pentru ca cel care împrumută cu dobândă să încalce două porunci deodată."
       }
      ],
      "textCompare": [
@@ -74697,7 +74867,17 @@
      "translit": "Vehine hiketi kapi el-bitzech așer asit veal-damech așer hayu betochech.",
      "tokens": [
       {
-       "t": "Și iată, "
+       "t": "Și iată,",
+       "w": "Și iată,",
+       "heb": "וְהִנֵּה",
+       "translit": "vehinē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă",
+       "def_ro": "și iată.",
+       "dict_ro": "Radak notează o tradiție a înțelepților: din douăzeci și patru de păcate înșirate de Ezechiel, doar jaful e cel pecetluit printr-un gest atât de dramatic — Mi-am lovit palmele — semn că jaful e socotit mai grav decât celelalte."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Mi-am lovit palmele",
@@ -74712,7 +74892,14 @@
        "dict_ro": "Kaf — palma; „a bate din palme” e în Ezechiel un gest de jale și indignare (Ezechiel 21:14, 17), Rashi îl explică prin „am strigat «vai!» și bocet”. Aici se află una dintre cele mai cunoscute învățături rabinice despre acest capitol: dintre toate cele 24 de păcate înșirate de Ezechiel, sentința a fost pecetluită doar pentru jaf — „din pricina tâlhăriei tale” —, de unde Rashi deduce că jaful e mai grav decât toate celelalte."
       },
       {
-       "t": " din pricina tâlhăriei tale pe care ai comis-o și datorită vărsării tale de sânge care a fost în mijlocul tău."
+       "t": " din pricina tâlhăriei tale pe care ai comis-o și datorită vărsării tale de sânge care a fost în mijlocul tău.",
+       "w": " din pricina tâlhăriei tale pe care ai comis-o și datorită vărsării tale de sânge care a fost în mijlocul tău.",
+       "heb": "אֶל בִּצְעֵךְ אֲשֶׁר עָשִׂית וְעַל דָּמֵךְ אֲשֶׁר הָיוּ בְּתוֹכֵךְ",
+       "translit": "el bițēh așer asit veal damēh așer haiu betohēh",
+       "strong": "H1215",
+       "pos": "prepoziție + substantiv construct + sufix + particulă relativă + verb, qal perfect + prepoziție + substantiv construct + sufix + particulă relativă + verb, qal perfect + substantiv construct + sufix",
+       "def_ro": "pentru câștigul tău furat pe care l-ai făcut, și pentru sângele tău care a fost în mijlocul tău.",
+       "dict_ro": "Rashi explică faptul că gestul «Mi-am lovit palmele» e un strigăt de bocet, «vai!» — iar din acest text se învață că jaful e mai grav decât toate celelalte păcate, căci sentința finală a fost pecetluită anume din pricina lui."
       }
      ],
      "textCompare": [
@@ -74773,7 +74960,14 @@
        "dict_ro": "Lev — inima, sediul curajului și al puterii de a îndura; întrebarea „va sta în picioare inima ta?” e retorică: nimeni nu poate rezista judecății divine (compară Evrei 10:31). Radak explică: poate inima ta să îndure mulțimea necazurilor pe care le aduc asupra ta? — iar încheierea „am vorbit și am înfăptuit” înseamnă că la Dumnezeu cuvântul și fapta sunt unul, pentru că puterea e în mâna Lui."
       },
       {
-       "t": ", pot fi mâinile tale tari în zilele când mă voi ocupa de tine? Eu, DOMNUL, am vorbit și am înfăptuit."
+       "t": ", pot fi mâinile tale tari în zilele când mă voi ocupa de tine? Eu, DOMNUL, am vorbit și am înfăptuit.",
+       "w": ", pot fi mâinile tale tari în zilele când mă voi ocupa de tine? Eu, DOMNUL, am vorbit și am înfăptuit.",
+       "heb": "אִם תֶּחֱזַקְנָה יָדַיִךְ לַיָּמִים אֲשֶׁר אֲנִי עֹשֶׂה אוֹתָךְ אֲנִי יְהוָה דִּבַּרְתִּי וְעָשִׂיתִי",
+       "translit": "im tehezakna iadaih laiamim așer ani ose otah ani Adonai dibarti veasiti",
+       "strong": "H518",
+       "pos": "conjuncție + verb, qal imperfect + substantiv dual construct + sufix + substantiv plural + particulă relativă + pronume personal + verb, qal participiu + marcă a complementului direct + sufix + pronume personal + nume propriu + verb, piel perfect + verb, qal perfect consecutiv",
+       "def_ro": "vor fi tari mâinile tale, în zilele în care Eu lucrez cu tine? Eu, DOMNUL, am vorbit și am făcut.",
+       "dict_ro": "Radak explică faptul că «zilele când mă voi ocupa de tine» înseamnă zilele necazurilor aduse ca pedeapsă — iar «am vorbit și am înfăptuit» confirmă certitudinea absolută a împlinirii cuvântului divin, căci puterea e în mâna DOMNULUI."
       }
      ],
      "textCompare": [
@@ -74830,7 +75024,14 @@
        "dict_ro": "Puț — „a risipi, a împrăștia”, verbul exilului, anunțat încă din Tora (Leviticul 26:33; Deuteronomul 28:64). Ezechiel dă însă exilului și un rost purificator: „voi pune capăt necurăției tale din tine”. Radak explică concret: în exil nu vor mai sluji idolilor, care sunt necurăția cea mare — iar istoria confirmă că după exilul babilonian idolatria a dispărut din Israel."
       },
       {
-       "t": " printre neamuri și te voi risipi prin țări străine și voi pune capăt necurățeniei tale din tine."
+       "t": " printre neamuri și te voi risipi prin țări străine și voi pune capăt necurățeniei tale din tine.",
+       "w": " printre neamuri și te voi risipi prin țări străine și voi pune capăt necurățeniei tale din tine.",
+       "heb": "בַּגּוֹיִם וְזֵרִיתִיךְ בָּאֲרָצוֹת וַהֲתִמֹּתִי טֻמְאָתֵךְ מִמֵּךְ",
+       "translit": "bagoim vezēritih baarațot vahatimoti tumatēh mimēh",
+       "strong": "H1471",
+       "pos": "substantiv plural + verb, piel perfect consecutiv + sufix + substantiv plural + verb, hifil perfect consecutiv + substantiv construct + sufix + prepoziție + sufix",
+       "def_ro": "printre neamuri, și te voi împrăștia prin țări, și voi pune capăt necurățeniei tale din tine.",
+       "dict_ro": "Radak explică faptul că, în exil, Israel nu va mai sluji idolilor, care sunt socotiți necurăția cea mai mare — exilul însuși devine, paradoxal, mijlocul prin care necurăția idolatră se încheie definitiv."
       }
      ],
      "textCompare": [
@@ -74892,7 +75093,14 @@
        "dict_ro": "Halal — „a profana, a face profan”, opusul lui „sfânt”; Rashi și Metzudat Țion citesc „vei fi pângărit în tine însuți, pentru ce ai făcut”. Radak propune și o altă lectură, de la nahala („moștenire”): „vei fi moștenită în tine însăți” — până acum erai moștenirea Mea, de acum nu mai ești, iar neamurile vor vedea aceasta; lectură pe care o reflectă și Septuaginta. Încheierea „și vei ști că Eu sunt DOMNUL” e refrenul lui Ezechiel: judecata are drept scop cunoașterea lui Dumnezeu."
       },
       {
-       "t": " în tine însuți sub ochii neamurilor și vei ști că Eu sunt DOMNUL."
+       "t": " în tine însuți sub ochii neamurilor și vei ști că Eu sunt DOMNUL.",
+       "w": " în tine însuți sub ochii neamurilor și vei ști că Eu sunt DOMNUL.",
+       "heb": "בָּךְ לְעֵינֵי גוֹיִם וְיָדַעַתְּ כִּי אֲנִי יְהוָה",
+       "translit": "bah leēnē goim veiadaat ki ani Adonai",
+       "strong": "H5869",
+       "pos": "prepoziție + sufix + substantiv dual construct + substantiv plural + verb, qal perfect consecutiv + conjuncție + pronume personal + nume propriu",
+       "def_ro": "în tine, sub ochii neamurilor, și vei ști că Eu [sunt] DOMNUL.",
+       "dict_ro": "Radak explică faptul că, deși cetatea era cândva moștenirea DOMNULUI, de acum nu mai este — neamurile vor vedea, în exilul ei, confirmarea publică a acestei schimbări, iar cunoașterea finală «că Eu sunt DOMNUL» va veni abia atunci când se vor împlini toate relele vestite prin profeți."
       }
      ],
      "textCompare": [
