@@ -80857,7 +80857,17 @@
      "translit": "Vehaia mispar benei-Israel kehol haiam așer lo-imad velo isafer vehaia bimkom așer-ieamer lahem lo-ami atem ieamer lahem benei El-hai.",
      "tokens": [
       {
-       "t": "Și numărul copiilor lui Israel va fi precum nisipul mării, care nu poate fi nici măsurat, nici numărat. Și va fi, că în loc să se spună despre ei: „Voi nu sunteți poporul Meu”, se va spune: „copiii "
+       "t": "Și numărul copiilor lui Israel va fi precum nisipul mării, care nu poate fi nici măsurat, nici numărat. Și va fi, că în loc să se spună despre ei: „Voi nu sunteți poporul Meu”, se va spune: „copiii",
+       "w": "Și numărul copiilor lui Israel va fi precum nisipul mării, care nu poate fi nici măsurat, nici numărat. Și va fi, că în loc să se spună despre ei: „Voi nu sunteți poporul Meu”, se va spune: „copiii",
+       "heb": "וְהָיָה מִסְפַּר בְּנֵי יִשְׂרָאֵל כְּחוֹל הַיָּם אֲשֶׁר לֹא יִמַּד וְלֹא יִסָּפֵר וְהָיָה בִּמְקוֹם אֲשֶׁר יֵאָמֵר לָהֶם לֹא עַמִּי אַתֶּם יֵאָמֵר לָהֶם בְּנֵי",
+       "translit": "vehaia mispar benē israēl kehol haiam așer lo imad velo isafēr vehaia bimkom așer iēamēr lahem lo ami atem iēamēr lahem benē",
+       "strong": "H1961",
+       "pos": "verb, qal perfect consecutiv + substantiv construct + substantiv plural construct + nume propriu + substantiv construct + substantiv + particulă relativă + particulă negativă + verb, nifal imperfect + particulă negativă + verb, nifal imperfect + verb, qal perfect consecutiv + substantiv construct + particulă relativă + verb, nifal imperfect + prepoziție + sufix + particulă negativă + substantiv construct + sufix + pronume personal + verb, nifal imperfect + prepoziție + sufix + substantiv plural construct",
+       "def_ro": "și va fi numărul copiilor lui Israel ca nisipul mării, care nu se măsoară și nu se numără; și va fi, în locul în care se spunea despre ei: nu sunteți poporul Meu — se va spune despre ei: fiii.",
+       "dict_ro": "Talmudul Bavli (Pesahim 87a-b) relatează cum Osea, întrebat de DOMNUL despre păcatul lui Israel, a răspuns «schimbă-i cu alt neam» — spre diferență de Avraham, care s-ar fi rugat pentru ei; profetul și-a dat seama de greșeală și s-a ridicat să ceară milă, moment urmat exact de această promisiune de mângâiere."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Dumnezeului Celui Viu",
@@ -80872,7 +80882,14 @@
        "dict_ro": "El hai — „Dumnezeul cel viu”, în opoziție cu idolii fără viață. Versetul răstoarnă numele simbolic al fiului lui Osea, Lo-Ami („nu poporul Meu”, 1:9): în același loc unde li s-a spus „nu sunteți poporul Meu”, se va spune „copiii Dumnezeului Celui Viu”. Talmudul (Pesahim 87a-b) explică trecerea bruscă de la pedeapsă la mângâiere: Osea spusese „schimbă-i cu alt neam”, Dumnezeu i-a poruncit să ia o femeie desfrânată și apoi să o alunge; profetul n-a putut, a înțeles lecția și a cerut milă pentru Israel. Pavel citează versetul în Romani 9:26."
       },
       {
-       "t": "”."
+       "t": "”.",
+       "w": "”.",
+       "heb": "אֵל חָי",
+       "translit": "ēl hai",
+       "strong": "H410",
+       "pos": "substantiv + adjectiv",
+       "def_ro": "Dumnezeul cel viu.",
+       "dict_ro": "Radak explică faptul că nisipul, de care se spune doar «nu se măsoară», e o exagerare retorică menită să exprime pur și simplu mulțimea extraordinară, nu o cantitate literal infinită."
       }
      ],
      "textCompare": [
@@ -80927,7 +80944,17 @@
      "translit": "Venikbețu benei-Iehuda uvenei-Israel iahdav vesamu lahem roș ehad vealu min-haareț ki gadol iom Izreel.",
      "tokens": [
       {
-       "t": "Iar copiii lui Iuda vor fi strânși laolaltă și își vor alege un singur conducător și se vor ridica din țară – căci mare este "
+       "t": "Iar copiii lui Iuda vor fi strânși laolaltă și își vor alege un singur conducător și se vor ridica din țară – căci mare este",
+       "w": "Iar copiii lui Iuda vor fi strânși laolaltă și își vor alege un singur conducător și se vor ridica din țară – căci mare este",
+       "heb": "וְנִקְבְּצוּ בְּנֵי יְהוּדָה וּבְנֵי יִשְׂרָאֵל יַחְדָּו וְשָׂמוּ לָהֶם רֹאשׁ אֶחָד וְעָלוּ מִן הָאָרֶץ כִּי גָדוֹל",
+       "translit": "venikbețu benē iehuda uvnē israēl iahdav vesamu lahem roș ehad vealu min haareț ki gadol",
+       "strong": "H6908",
+       "pos": "verb, nifal perfect consecutiv + substantiv plural construct + nume propriu + substantiv plural construct + nume propriu + adverb + verb, qal perfect consecutiv + prepoziție + sufix + substantiv + numeral + verb, qal perfect consecutiv + prepoziție + substantiv + conjuncție + adjectiv",
+       "def_ro": "și se vor strânge fiii lui Iuda și fiii lui Israel laolaltă, și își vor pune o singură căpetenie, și se vor sui din țară, căci mare.",
+       "dict_ro": "Radak explică faptul că această adunare completă a tuturor celor douăsprezece triburi laolaltă nu s-a petrecut la întoarcerea din exilul babilonian, când s-au întors doar Iuda și Beniamin — profeția se referă la adunarea deplină din zilele lui Mesia, numit aici «un singur conducător»."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ziua lui Izreel",
@@ -80992,7 +81019,17 @@
      "translit": "Imru laaheihem Ami velaahoteihem Ruhama.",
      "tokens": [
       {
-       "t": "Spuneți-le fraților voștri: Ami (n.t. „poporul meu”) și surorilor voastre "
+       "t": "Spuneți-le fraților voștri: Ami (n.t. „poporul meu”) și surorilor voastre",
+       "w": "Spuneți-le fraților voștri: Ami (n.t. „poporul meu”) și surorilor voastre",
+       "heb": "אִמְרוּ לַאֲחֵיכֶם עַמִּי וְלַאֲחוֹתֵיכֶם",
+       "translit": "imru laahēhem ami velaahotēhem",
+       "strong": "H559",
+       "pos": "verb, qal imperativ + substantiv plural construct + sufix + substantiv construct + sufix + substantiv plural construct + sufix",
+       "def_ro": "spuneți fraților voștri: poporul meu, și surorilor voastre.",
+       "dict_ro": "Radak citează explicația lui Rav Saadia Gaon: cei din Iuda și Beniamin trebuie să spună fraților lor din cele zece triburi, numiți cândva «nu poporul Meu» din pricina răutății lor, cuvântul de împăcare «poporul Meu», în vremea întoarcerii din exil."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Ruhama",
@@ -81054,7 +81091,17 @@
      "translit": "Rivu veimhem rivu ki-hi lo iști veanohi lo ișa vetaser zenuneha mipaneha venaafufeha mibein șadeha.",
      "tokens": [
       {
-       "t": "Mustrați-vă mama, mustrați-o, căci ea nu este soția mea și eu nu sunt soțul ei. Să-și îndepărteze "
+       "t": "Mustrați-vă mama, mustrați-o, căci ea nu este soția mea și eu nu sunt soțul ei. Să-și îndepărteze",
+       "w": "Mustrați-vă mama, mustrați-o, căci ea nu este soția mea și eu nu sunt soțul ei. Să-și îndepărteze",
+       "heb": "רִיבוּ בְאִמְּכֶם רִיבוּ כִּי הִיא לֹא אִשְׁתִּי וְאָנֹכִי לֹא אִישָׁהּ וְתָסֵר",
+       "translit": "rivu veimhem rivu ki hi lo iști veanohi lo ișah vetasēr",
+       "strong": "H7378",
+       "pos": "verb, qal imperativ + substantiv construct + sufix + verb, qal imperativ + conjuncție + pronume personal + particulă negativă + substantiv construct + sufix + pronume personal + particulă negativă + substantiv construct + sufix + verb, hifil jusiv",
+       "def_ro": "certați-vă cu mama voastră, certați-vă, căci ea nu [e] soția mea și eu nu [sunt] soțul ei; și să îndepărteze.",
+       "dict_ro": "Radak explică faptul că întreaga comunitate e numită «mamă», iar indivizii generațiilor următoare — «copii»; sensul chemării e ca fiecare să se certe cu semenul lui, ca să-l întoarcă pe calea cea bună."
+      },
+      {
+       "t": " "
       },
       {
        "t": "desfrânarea",
@@ -81069,7 +81116,14 @@
        "dict_ro": "Zenunim — desfrânarea, imaginea centrală a cărții lui Osea pentru idolatrie: legământul dintre Dumnezeu și Israel e o căsătorie, iar închinarea la alți dumnezei, adulter. Radak explică de ce „mama” e chemată la judecată de proprii „copii”: întreaga comunitate e mama, iar indivizii, copiii — cei drepți din fiecare generație trebuie să se certe cu poporul pentru calea lui rea. Ionatan, citat de Rashi, traduce fără metaforă: „și slujirea idolilor din mijlocul cetăților ei”."
       },
       {
-       "t": " dinaintea ei și adulterurile dintre sânii ei."
+       "t": " dinaintea ei și adulterurile dintre sânii ei.",
+       "w": " dinaintea ei și adulterurile dintre sânii ei.",
+       "heb": "מִפָּנֶיה וְנַאֲפוּפֶיהָ מִבֵּין שָׁדֶיהָ",
+       "translit": "mipane venaafufeha mibēn șadeha",
+       "strong": "H6440",
+       "pos": "substantiv plural construct + sufix + substantiv plural construct + sufix + prepoziție + substantiv dual construct + sufix",
+       "def_ro": "de la fața ei, și adulterurile ei dintre sânii ei.",
+       "dict_ro": "Rashi explică «adulterurile dintre sânii ei» prin traducerea lui Ionatan: «slujirea idolilor din mijlocul cetăților ei» — imaginea conjugală descrie, de fapt, infidelitatea religioasă a întregului popor."
       }
      ],
      "textCompare": [
@@ -81118,7 +81172,17 @@
      "translit": "Pen-afșitena aruma vehițagtia keiom hivaleda vesamtia hamidbar veșatiha keerețția vahamitia bațama.",
      "tokens": [
       {
-       "t": "Ca nu cumva să o dezbrac goală și să o pun să stea ca în ziua în care s-a născut. O voi face ca un deșert și o voi așeza ca un "
+       "t": "Ca nu cumva să o dezbrac goală și să o pun să stea ca în ziua în care s-a născut. O voi face ca un deșert și o voi așeza ca un",
+       "w": "Ca nu cumva să o dezbrac goală și să o pun să stea ca în ziua în care s-a născut. O voi face ca un deșert și o voi așeza ca un",
+       "heb": "פֶּן אַפְשִׁיטֶנָּה עֲרֻמָּה וְהִצַּגְתִּיהָ כְּיוֹם הִוָּלְדָהּ וְשַׂמְתִּיהָ כַמִּדְבָּר וְשַׁתִּהָ כְּאֶרֶץ",
+       "translit": "pen afșitena aruma vehițagtiha keom hivaldah vesamtiha hamidbar veșatiha keereț",
+       "strong": "H6435",
+       "pos": "conjuncție + verb, hifil imperfect + sufix + adjectiv + verb, hifil perfect consecutiv + sufix + substantiv construct + verb, nifal infinitiv + sufix + verb, qal perfect + sufix + substantiv + verb, qal perfect consecutiv + sufix + substantiv",
+       "def_ro": "ca nu cumva s-o dezbrac goală și s-o așez ca în ziua nașterii ei, și s-o fac ca pustia, și s-o pun ca o țară.",
+       "dict_ro": "Rashi leagă «ziua în care s-a născut» de Ezechiel 16:4-5 — «la nașterea ta, niciun ochi nu s-a îndurat de tine» — imaginea trimite la starea de abandon a lui Israel în Egipt, înainte de alegerea divină."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ținut arid",
@@ -81133,7 +81197,14 @@
        "dict_ro": "Țiia — pământul uscat, fără apă. Rashi leagă imaginile de istoria poporului: „ca în ziua în care s-a născut” e starea din Egipt, descrisă în Ezechiel 16:4-5 ca a unui prunc părăsit, iar „ca un deșert” amintește hotărârea din pustie, că generația aceea va muri acolo (Numeri 14:35). De aici una dintre legăturile haftarei cu pericopa Bamidbar, „în pustie”: pustia poate fi loc de pedeapsă, dar și, cum va arăta 2:14, loc al unei noi logodne."
       },
       {
-       "t": " și o voi ucide cu sete."
+       "t": " și o voi ucide cu sete.",
+       "w": " și o voi ucide cu sete.",
+       "heb": "וַהֲמִתִּיהָ בַּצָּמָא",
+       "translit": "vahamitiha bațama",
+       "strong": "H4191",
+       "pos": "verb, hifil perfect consecutiv + sufix + substantiv",
+       "def_ro": "și o voi ucide cu sete.",
+       "dict_ro": "Radak explică faptul că pustia descrisă aici e lipsită de orice hrană și de tot ce-i este omului de trebuință — amenințarea reproduce exact starea de lipsă totală, nu doar o simplă metaforă poetică."
       }
      ],
      "textCompare": [
@@ -81185,7 +81256,17 @@
      "translit": "Veet-baneha lo arahem ki-venei zenunim hema.",
      "tokens": [
       {
-       "t": "Nu voi avea milă de copiii ei, căci sunt "
+       "t": "Nu voi avea milă de copiii ei, căci sunt",
+       "w": "Nu voi avea milă de copiii ei, căci sunt",
+       "heb": "וְאֶת בָּנֶיהָ לֹא אֲרַחֵם כִּי",
+       "translit": "veet baneha lo arahēm ki",
+       "strong": "H853",
+       "pos": "marcă a complementului direct + substantiv plural construct + sufix + particulă negativă + verb, piel imperfect + conjuncție",
+       "def_ro": "și de copiii ei nu voi avea milă, căci.",
+       "dict_ro": "Metzudat David explică faptul că nici copiii nevinovați nu vor fi cruțați, deși ei n-au păcătuit direct — poartă totuși vina întregii comunități, asemănată cu o mamă desfrânată."
+      },
+      {
+       "t": " "
       },
       {
        "t": "copii ai desfrânării",
@@ -81244,7 +81325,17 @@
      "translit": "Ki zanta imam hovișa horatam ki amra elha aharei meahavai notnei lahmi umeimai țamri ufiști șamni veșikuiai.",
      "tokens": [
       {
-       "t": "Căci mama lor s-a prostitut, cea care i-a zămislit s-a făcut de rușine, căci a spus: „Voi merge după "
+       "t": "Căci mama lor s-a prostitut, cea care i-a zămislit s-a făcut de rușine, căci a spus: „Voi merge după",
+       "w": "Căci mama lor s-a prostitut, cea care i-a zămislit s-a făcut de rușine, căci a spus: „Voi merge după",
+       "heb": "כִּי זָנְתָה אִמָּם הֹבִישָׁה הוֹרָתָם כִּי אָמְרָה אֵלְכָה אַחֲרֵי",
+       "translit": "ki zanta imam hovișa horatam ki amra ēlha aharē",
+       "strong": "H3588",
+       "pos": "conjuncție + verb, qal perfect + substantiv construct + sufix + verb, hifil perfect + verb, qal participiu + sufix + conjuncție + verb, qal perfect + verb, qal imperfect + prepoziție",
+       "def_ro": "căci mama lor s-a prostituat, cea care i-a zămislit s-a făcut de rușine, căci a spus: voi merge după.",
+       "dict_ro": "Radak identifică «amanții mei» cu Asiria și Egiptul, cu care Israel avea legăminte de protecție — poporul credea că belșugul venea de la aceste puteri străine, nu de la DOMNUL, confundând mijlocul cu izvorul real al binecuvântării."
+      },
+      {
+       "t": " "
       },
       {
        "t": "amanții mei",
@@ -81259,7 +81350,14 @@
        "dict_ro": "Meahavim — „cei care iubesc” la forma intensivă: amanții. Comentatorii dau două lecturi: pentru Radak, amanții sunt alianțele politice cu Asiria și Egiptul, pe care Israel se sprijinea ca să-și lucreze pământul în pace; pentru tatăl lui Radak (citat de el) și pentru Metzudat David, sunt astrele cerului, cărora le atribuiau pâinea, apa, lâna și inul. Rashi, după Ionatan, vede în „cea care i-a zămislit s-a făcut de rușine” pe învățătorii care îi învață pe alții „să nu furi”, dar ei înșiși fură."
       },
       {
-       "t": ", cei care îmi dau pâinea și apa, lâna și inul, untdelemnul și băutura.”"
+       "t": ", cei care îmi dau pâinea și apa, lâna și inul, untdelemnul și băutura.”",
+       "w": ", cei care îmi dau pâinea și apa, lâna și inul, untdelemnul și băutura.”",
+       "heb": "נֹתְנֵי לַחְמִי וּמֵימַי צַמְרִי וּפִשְׁתִּי שַׁמְנִי וְשִׁקּוּיָי",
+       "translit": "notnē lahmi umēmai țamri ufiști șamni veșikuiai",
+       "strong": "H5414",
+       "pos": "verb, qal participiu construct + substantiv construct + sufix + substantiv plural construct + sufix + substantiv construct + sufix + substantiv construct + sufix + substantiv construct + sufix + substantiv plural construct + sufix",
+       "def_ro": "cei care îmi dau pâinea mea și apele mele, lâna mea și inul meu, untdelemnul meu și băutura mea.",
+       "dict_ro": "Tatăl lui Radak a propus o altă explicație citată de fiul său: «amanții mei» ar putea desemna soarele, luna și stelele, cărora poporul le slujea crezând că de la ele vine hrana — o formă de idolatrie astrală, alternativă la cea politică."
       }
      ],
      "textCompare": [
@@ -81310,7 +81408,17 @@
      "translit": "Lachen hineni-sah et-darkeh basirim vegadarti et-ghedera unetivoteha lo timța.",
      "tokens": [
       {
-       "t": "De aceea, iată, voi mărgini calea ta "
+       "t": "De aceea, iată, voi mărgini calea ta",
+       "w": "De aceea, iată, voi mărgini calea ta",
+       "heb": "לָכֵן הִנְנִי שָׂךְ אֶת דַּרְכֵּךְ",
+       "translit": "lahēn hinni sah et darkēh",
+       "strong": "H3651",
+       "pos": "adverb + particulă demonstrativă + sufix + verb, qal participiu + marcă a complementului direct + substantiv construct + sufix",
+       "def_ro": "de aceea, iată, Eu îngrădesc calea ta.",
+       "dict_ro": "Rashi explică «sah» ca o expresie de îngrădire, întocmai ca «îndepărtați-i gardul» la Isaia 5:5 — imaginea unei căi blocate deliberat, pentru a opri accesul la falsa sursă de belșug."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cu spini",
@@ -81325,7 +81433,14 @@
        "dict_ro": "Sirim — spinii (Metzudat Țion îi compară cu „trosnetul spinilor sub oală”, Eclesiastul 7:6). Imaginea e a unui drum îngrădit cu gard de spini și zid, pe care cineva nu-l mai poate străbate; Radak o compară cu plângerea lui Iov: „mi-a îngrădit drumul cu pietre cioplite” (Plângerile lui Ieremia 3:9). Metzudat David o citește spiritual: Israel nu va mai reuși să coboare asupra sa belșugul pe care îl aștepta de la astre — ca și cum drumul ar fi fost astupat."
       },
       {
-       "t": " și-i voi ridica îngrădirea, pentru ca să nu-și mai găsească drumurile."
+       "t": " și-i voi ridica îngrădirea, pentru ca să nu-și mai găsească drumurile.",
+       "w": " și-i voi ridica îngrădirea, pentru ca să nu-și mai găsească drumurile.",
+       "heb": "וְגָדַרְתִּי אֶת גְּדֵרָהּ וּנְתִיבוֹתֶיהָ לֹא תִמְצָא",
+       "translit": "vegadarti et gedērah untivoteha lo timța",
+       "strong": "H1443",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + substantiv construct + sufix + substantiv plural construct + sufix + particulă negativă + verb, qal imperfect",
+       "def_ro": "și voi ridica îngrădirea ei, și cărările ei nu le va găsi.",
+       "dict_ro": "Radak explică faptul că gardul de spini o va împiedica să iasă din cetate de frica sabiei, iar amanții ei, Asiria și Egiptul, nu-i vor mai fi de niciun folos — izolarea completă precede întoarcerea descrisă în versetul următor."
       }
      ],
      "textCompare": [
@@ -81375,7 +81490,17 @@
      "translit": "Veridefa et-meahaveha velo-tasig otam uvikșatam velo timța veamra elha veașuva el-iși harișon ki tov li az meata.",
      "tokens": [
       {
-       "t": "Va alerga după amanții ei, dar nu-i va ajunge din urmă, îi va căuta, dar nu-i va găsi; și va spune: „Voi merge și mă voi întoarce la "
+       "t": "Va alerga după amanții ei, dar nu-i va ajunge din urmă, îi va căuta, dar nu-i va găsi; și va spune: „Voi merge și mă voi întoarce la",
+       "w": "Va alerga după amanții ei, dar nu-i va ajunge din urmă, îi va căuta, dar nu-i va găsi; și va spune: „Voi merge și mă voi întoarce la",
+       "heb": "וְרִדְּפָה אֶת מְאַהֲבֶיהָ וְלֹא תַשִּׂיג אֹתָם וּבִקְשָׁתַם וְלֹא תִמְצָא וְאָמְרָה אֵלְכָה וְאָשׁוּבָה אֶל",
+       "translit": "veridfa et meahaveha velo tasig otam uvikșatam velo timța veamra ēlha veașuva el",
+       "strong": "H7291",
+       "pos": "verb, piel perfect consecutiv + marcă a complementului direct + verb, piel participiu + sufix + particulă negativă + verb, hifil imperfect + marcă a complementului direct + sufix + verb, piel perfect consecutiv + sufix + particulă negativă + verb, qal imperfect + verb, qal perfect consecutiv + verb, qal imperfect + verb, qal imperfect + prepoziție",
+       "def_ro": "și va alerga după amanții ei, și nu-i va ajunge; și-i va căuta, și nu-i va găsi; și va spune: voi merge și mă voi întoarce la.",
+       "dict_ro": "Radak explică faptul că această mărturisire nu va veni până nu va suferi exilul vreme îndelungată — dacă ar fi spus-o pe când era încă în țară, exilul nici n-ar fi avut loc; suferința îndelungată e condiția întoarcerii sincere."
+      },
+      {
+       "t": " "
       },
       {
        "t": "soțul meu dintâi",
@@ -81390,7 +81515,14 @@
        "dict_ro": "Iș — bărbatul, soțul; „primul meu soț” e Dumnezeu, legământul de la Sinai. Metzudat David explică întoarcerea: abia după ce va urmări fără folos puterile cerești, Israel va spune „mă voi încrede în Sfântul, binecuvântat fie El, căci de când îmi era încrederea în El îmi era mai bine decât acum”. Radak precizează că acest cuvânt nu va fi spus decât după o lungă suferință în exil, cum spune Tora: „în strâmtorarea ta... te vei întoarce la DOMNUL” (Deuteronomul 4:30)."
       },
       {
-       "t": ", căci îmi era mai bine atunci decât acum.”"
+       "t": ", căci îmi era mai bine atunci decât acum.”",
+       "w": ", căci îmi era mai bine atunci decât acum.”",
+       "heb": "הָרִאשׁוֹן כִּי טוֹב לִי אָז מֵעָתָּה",
+       "translit": "harișon ki tov li az mēata",
+       "strong": "H7223",
+       "pos": "numeral ordinal + conjuncție + adjectiv + prepoziție + sufix + adverb + adverb",
+       "def_ro": "cel dintâi, căci [era] mai bine pentru mine atunci decât acum.",
+       "dict_ro": "Rashi explică faptul că «veriddefa» e o formă intensivă — îl va urmări, dar nu-l va ajunge din urmă — eșecul repetat al căutării amanților pregătește exact revenirea la soțul dintâi."
       }
      ],
      "textCompare": [
@@ -81442,7 +81574,17 @@
      "translit": "Vehi lo iada ki anohi natati la hadagan vehatiroș vehaițhar vehesef hirbeiti la vezahav asu la'Baal.",
      "tokens": [
       {
-       "t": "Dar ea nu știe că Eu sunt Cel care i-am dat grânele și vinul și untdelemnul, că am înmulțit pentru ea argintul și aurul, dar ei le-au folosit apoi pentru "
+       "t": "Dar ea nu știe că Eu sunt Cel care i-am dat grânele și vinul și untdelemnul, că am înmulțit pentru ea argintul și aurul, dar ei le-au folosit apoi pentru",
+       "w": "Dar ea nu știe că Eu sunt Cel care i-am dat grânele și vinul și untdelemnul, că am înmulțit pentru ea argintul și aurul, dar ei le-au folosit apoi pentru",
+       "heb": "וְהִיא לֹא יָדְעָה כִּי אָנֹכִי נָתַתִּי לָהּ הַדָּגָן וְהַתִּירוֹשׁ וְהַיִּצְהָר וְכֶסֶף הִרְבֵּיתִי לָהּ וְזָהָב עָשׂוּ",
+       "translit": "vehi lo iada ki anohi natati lah hadagan vehatiroș vehaițhar vehesef hirbēti lah vezahav asu",
+       "strong": "H1931",
+       "pos": "pronume personal + particulă negativă + verb, qal perfect + conjuncție + pronume personal + verb, qal perfect + prepoziție + sufix + substantiv + substantiv + substantiv + substantiv + verb, hifil perfect + prepoziție + sufix + substantiv + verb, qal perfect",
+       "def_ro": "și ea n-a cunoscut că Eu i-am dat grânele și mustul și untdelemnul, și argintul l-am înmulțit pentru ea, și aurul [cu care] au făcut.",
+       "dict_ro": "Radak explică faptul că acest nerecunoscut dar al belșugului venea strict de la DOMNUL, care trimitea binecuvântarea în grâne, must și untdelemn — dar poporul, îngrășat de bunăstare, a folosit chiar acest argint și aur pentru a face chipuri idolatre pentru Baal."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Baal",
@@ -81508,7 +81650,17 @@
      "translit": "Lachen așuv velakahti degani beito vetiroși bemoado vehițalti țamri ufiști lehasot et-ervata.",
      "tokens": [
       {
-       "t": "De aceea, Mă voi întoarce și voi lua înapoi grânele Mele la vremea lor și vinul Meu la sorocul lui, și Îmi voi recupera "
+       "t": "De aceea, Mă voi întoarce și voi lua înapoi grânele Mele la vremea lor și vinul Meu la sorocul lui, și Îmi voi recupera",
+       "w": "De aceea, Mă voi întoarce și voi lua înapoi grânele Mele la vremea lor și vinul Meu la sorocul lui, și Îmi voi recupera",
+       "heb": "לָכֵן אָשׁוּב וְלָקַחְתִּי דְגָנִי בְּעִתּוֹ וְתִירוֹשִׁי בְּמוֹעֲדוֹ וְהִצַּלְתִּי",
+       "translit": "lahēn așuv velakahti degani beito vetiroși bemoado vehițalti",
+       "strong": "H3651",
+       "pos": "adverb + verb, qal imperfect + verb, qal perfect consecutiv + substantiv construct + sufix + substantiv construct + sufix + substantiv construct + sufix + substantiv construct + sufix + verb, hifil perfect consecutiv",
+       "def_ro": "de aceea Mă voi întoarce și voi lua grânele Mele la vremea lor și vinul Meu la sorocul lui, și voi despărți.",
+       "dict_ro": "Rashi explică faptul că orice expresie «hațala» din Scriptură e o expresie de despărțire și de punere deoparte, ca la Geneza 31:9 — DOMNUL va lua înapoi exact ceea ce dăduse, retrăgând belșugul la fel de deliberat cum îl oferise."
+      },
+      {
+       "t": " "
       },
       {
        "t": "lâna și inul",
@@ -81523,7 +81675,14 @@
        "dict_ro": "Țemer ufișteh — lâna și inul, materialele de bază ale îmbrăcămintei; sufixul „Mea” e decisiv: ceea ce femeia numea „lâna mea și inul meu” (2:5), Dumnezeu le revendică drept ale Lui. Rashi explică verbul „voi recupera” (hițalti): în Scriptură, rădăcina hițil înseamnă despărțire și luare deoparte, ca în „Dumnezeu a luat (vayațel) turmele tatălui vostru” (Geneza 31:9). Radak descrie concret: blestemul va lovi recolta la vremea secerișului și a culesului, încât nu vor avea pâine de mâncat, nici haine de îmbrăcat."
       },
       {
-       "t": " care îi acopereau goliciunea."
+       "t": " care îi acopereau goliciunea.",
+       "w": " care îi acopereau goliciunea.",
+       "heb": "וּפִשְׁתִּי לְכַסּוֹת אֶת עֶרְוָתָהּ",
+       "translit": "ufiști lehasot et ervatah",
+       "strong": "H6593",
+       "pos": "substantiv construct + sufix + verb, piel infinitiv + marcă a complementului direct + substantiv construct + sufix",
+       "def_ro": "și inul meu, ca să acopere goliciunea ei.",
+       "dict_ro": "Metzudat David explică faptul că fără lână și in, oile fiind pierdute și inul lovit, poporul nu va mai avea cu ce să-și acopere goliciunea — pedeapsa redă literal starea de vulnerabilitate din care fusese scos inițial."
       }
      ],
      "textCompare": [
@@ -81575,7 +81734,17 @@
      "translit": "Veata agale et-navluta leeinei meahaveha veiș lo-iațilena miiadi.",
      "tokens": [
       {
-       "t": "Și apoi, îi voi dezvălui "
+       "t": "Și apoi, îi voi dezvălui",
+       "w": "Și apoi, îi voi dezvălui",
+       "heb": "וְעַתָּה אֲגַלֶּה אֶת",
+       "translit": "veata agale et",
+       "strong": "H6258",
+       "pos": "adverb + verb, piel imperfect + marcă a complementului direct",
+       "def_ro": "și acum voi dezvălui.",
+       "dict_ro": "Talmudul Bavli (Șabat 55a) citează o dezbatere despre momentul exact în care a încetat meritul patriarhilor — Rav susține că s-a încheiat chiar din zilele lui Osea, pe baza acestui verset, pe când Șmuel îl plasează mai târziu, în zilele regelui Hazael al Aramului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "decăderea",
@@ -81590,7 +81759,14 @@
        "dict_ro": "Navlut — cuvânt unic în Biblie, de la naval, „nebun, nemernic, de nimic”: goliciunea rușinoasă, decăderea expusă. Metzudat Țion îl explică „un lucru urât și rușinos”, ca în Naum 3:6. Rashi citește încheierea „niciun om n-o va salva din mâna Mea” ca pe o afirmație teologică gravă: chiar și meritul patriarhilor s-a epuizat — în Talmud (Șabat 55a), Rav fixează chiar la acest verset momentul în care meritul patriarhilor a încetat."
       },
       {
-       "t": " în ochii amanților ei și niciun om n-o va salva din mâna Mea."
+       "t": " în ochii amanților ei și niciun om n-o va salva din mâna Mea.",
+       "w": " în ochii amanților ei și niciun om n-o va salva din mâna Mea.",
+       "heb": "לְעֵינֵי מְאַהֲבֶיהָ וְאִישׁ לֹא יַצִּילֶנָּה מִיָּדִי",
+       "translit": "leēnē meahaveha veiș lo iațilena miadi",
+       "strong": "H5869",
+       "pos": "substantiv dual construct + verb, piel participiu + sufix + substantiv + particulă negativă + verb, hifil imperfect + sufix + substantiv construct + sufix",
+       "def_ro": "sub ochii amanților ei, și niciun om n-o va scăpa din mâna Mea.",
+       "dict_ro": "Radak explică faptul că descoperirea decăderii ei «în ochii amanților ei» are scopul precis de a-i opri pe aceștia să o mai ajute — aliații pe care se bazase o vor vedea exact în momentul ei de maximă umilire."
       }
      ],
      "textCompare": [
@@ -81645,7 +81821,17 @@
      "translit": "Vehișbati kol-mesosa haga hodșa veșabata vehol moada.",
      "tokens": [
       {
-       "t": "Voi pune capăt tuturor prilejurilor ei de veselie, sărbătorilor ei, [Lunilor] ei Noi și "
+       "t": "Voi pune capăt tuturor prilejurilor ei de veselie, sărbătorilor ei, [Lunilor] ei Noi și",
+       "w": "Voi pune capăt tuturor prilejurilor ei de veselie, sărbătorilor ei, [Lunilor] ei Noi și",
+       "heb": "וְהִשְׁבַּתִּי כָּל מְשׂוֹשָׂהּ חַגָּהּ חָדְשָׁהּ",
+       "translit": "vehișbati kal mesosah hagah hadșah",
+       "strong": "H7673",
+       "pos": "verb, hifil perfect consecutiv + substantiv construct + substantiv construct + sufix + substantiv construct + sufix + substantiv construct + sufix",
+       "def_ro": "și voi desființa toată bucuria ei, sărbătoarea ei, luna ei nouă.",
+       "dict_ro": "Radak explică faptul că în necaz nu mai există nici lună nouă, nici Sabat de bucurie — toate aceste zile erau momente de odihnă și veselie legate de jertfa suplimentară, iar pedeapsa constă în suprimarea lor completă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Șabaturilor ei",
@@ -81660,7 +81846,14 @@
        "dict_ro": "Șabat — ziua de odihnă. Versetul enumeră tot calendarul de bucurie al Israelului: sărbătorile de pelerinaj, lunile noi, Sabatele și soroacele (Metzudat David: Roș Hașana, Yom Kipur și Șemini Ațeret). Radak explică de ce vor înceta: în mijlocul necazului nu mai e nici lună nouă, nici Sabat — zilele care aveau jertfe suplimentare erau zile de bucurie, iar acum nu vor mai avea bucurie în ele. Sufixul „ale ei”, nu „ale Mele”, spune că sărbătorile deveniseră ale poporului, golite de Dumnezeu (compară Isaia 1:14)."
       },
       {
-       "t": ", și tuturor soroacelor ei."
+       "t": ", și tuturor soroacelor ei.",
+       "w": ", și tuturor soroacelor ei.",
+       "heb": "וְכֹל מוֹעֲדָהּ",
+       "translit": "vehol moadah",
+       "strong": "H3605",
+       "pos": "substantiv construct + substantiv construct + sufix",
+       "def_ro": "și toate soroacele ei.",
+       "dict_ro": "Metzudat David identifică «soroacele ei» cu Roș Hașana, Yom Kipur și Șemini Ațeret — toate sărbătorile anuale importante, suprimate laolaltă ca pedeapsă pentru infidelitate."
       }
      ],
      "textCompare": [
@@ -81708,7 +81901,17 @@
      "translit": "Vahașimoti gafna uteenata așer amra etna hema li așer natnu-li meahavai vesamtim leiaar vaahalatam haiat hasade.",
      "tokens": [
       {
-       "t": "Îi voi pustii via și smochinul despre care spunea: „Ele sunt "
+       "t": "Îi voi pustii via și smochinul despre care spunea: „Ele sunt",
+       "w": "Îi voi pustii via și smochinul despre care spunea: „Ele sunt",
+       "heb": "וַהֲשִׁמֹּתִי גַּפְנָהּ וּתְאֵנָתָהּ אֲשֶׁר אָמְרָה",
+       "translit": "vahașimoti gafnah utēnatah așer amra",
+       "strong": "H8074",
+       "pos": "verb, hifil perfect consecutiv + substantiv construct + sufix + substantiv construct + sufix + particulă relativă + verb, qal perfect",
+       "def_ro": "și voi pustii via ei și smochinul ei, despre care a spus.",
+       "dict_ro": "Radak explică faptul că via și smochinul sunt pomenite special pentru că strugurii și smochinele sunt cea mai bună hrană a omului după grâne — grâul fiind deja menționat la versetele precedente."
+      },
+      {
+       "t": " "
       },
       {
        "t": "plata",
@@ -81723,7 +81926,14 @@
        "dict_ro": "Etna — formă rară pentru etnan, „plata desfrânatei” (Deuteronomul 23:18); Metzudat Țion face legătura. Femeia numește via și smochinul „plata” primită de la amanți, adică roadele pe care Israel le atribuia idolilor sau alianțelor. Radak explică de ce sunt pomenite tocmai via și smochinul: strugurii și smochinele sunt cele mai alese mâncări ale omului după grâne, iar pustiirea lor va arăta de la cine venea, de fapt, belșugul."
       },
       {
-       "t": " pe care amanții mei mi-au dat-o”. Voi face din ei un hățiș și fiarele câmpului le vor devora."
+       "t": " pe care amanții mei mi-au dat-o”. Voi face din ei un hățiș și fiarele câmpului le vor devora.",
+       "w": " pe care amanții mei mi-au dat-o”. Voi face din ei un hățiș și fiarele câmpului le vor devora.",
+       "heb": "הֵמָּה לִי אֲשֶׁר נָתְנוּ לִי מְאַהֲבָי וְשַׂמְתִּים לְיַעַר וַאֲכָלָתַם חַיַּת הַשָּׂדֶה",
+       "translit": "hēma li așer natnu li meahavai vesamtim leiaar vaahalatam haiat hasade",
+       "strong": "H1992",
+       "pos": "pronume personal + prepoziție + sufix + particulă relativă + verb, qal perfect + prepoziție + sufix + verb, piel participiu + sufix + verb, qal perfect consecutiv + sufix + substantiv + verb, qal perfect consecutiv + sufix + substantiv construct + substantiv",
+       "def_ro": "ele [sunt] pentru mine, pe care mi le-au dat amanții mei; și le voi face pădure, și le va mânca fiara câmpului.",
+       "dict_ro": "Rashi explică «etna» ca «etnan», cuvântul tehnic pentru plata dată unei desfrânate — poporul credea că rodul recoltei era o plată primită de la amanții ei, nu un dar de la DOMNUL."
       }
      ],
      "textCompare": [
@@ -81775,7 +81985,17 @@
      "translit": "Ufakađeti aleha et-iemei habealim așer taktir lahem vataad nizma veheliata vateleh aharei meahaveha veoti șaheha neum-ADONAI.",
      "tokens": [
       {
-       "t": "Voi reaminti asupra ei ziua idolilor lui Baal, când le ardea ofrandă de mirodenii și când se gătea cu "
+       "t": "Voi reaminti asupra ei ziua idolilor lui Baal, când le ardea ofrandă de mirodenii și când se gătea cu",
+       "w": "Voi reaminti asupra ei ziua idolilor lui Baal, când le ardea ofrandă de mirodenii și când se gătea cu",
+       "heb": "וּפָקַדְתִּי עָלֶיהָ אֶת יְמֵי הַבְּעָלִים אֲשֶׁר תַּקְטִיר לָהֶם וַתַּעַד",
+       "translit": "ufakadti aleha et iemē habalim așer taktir lahem vataad",
+       "strong": "H6485",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + marcă a complementului direct + substantiv plural construct + nume propriu + particulă relativă + verb, hifil imperfect + prepoziție + sufix + verb, qal imperfect consecutiv",
+       "def_ro": "și voi pomeni asupra ei zilele baalilor, în care le aducea tămâie, și se împodobea.",
+       "dict_ro": "Rashi explică «vataad» ca o expresie de podoabă, ca o desfrânată care se împodobește special pentru a-și întâmpina iubiții — gestul estetic devine, în context, un act de idolatrie deliberată."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cerceii ei",
@@ -81790,7 +82010,14 @@
        "dict_ro": "Nezem — inelul de nas sau cercelul, podoaba femeiască pe care Eliezer i-o dă Rebecăi (Geneza 24:47) și din care Israel făcuse vițelul de aur (Exodul 32:2). Imaginea femeii care se gătește ca să iasă în întâmpinarea amanților descrie, după Rashi și Metzudat David, gătirea desfrânatei; „iar pe Mine Mă uita” e cea mai grea acuzație a versetului, încheiată solemn cu „rostirea DOMNULUI”."
       },
       {
-       "t": " și bijuteriile ei și se ducea după amanții ei, iar pe Mine mă uita – rostirea DOMNULUI."
+       "t": " și bijuteriile ei și se ducea după amanții ei, iar pe Mine mă uita – rostirea DOMNULUI.",
+       "w": " și bijuteriile ei și se ducea după amanții ei, iar pe Mine mă uita – rostirea DOMNULUI.",
+       "heb": "וְחֶלְיָתָהּ וַתֵּלֶךְ אַחֲרֵי מְאַהֲבֶיהָ וְאֹתִי שָׁכְחָה נְאֻם יְהוָה",
+       "translit": "veheliatah vatēleh aharē meahaveha veoti șahha neum Adonai",
+       "strong": "H2484",
+       "pos": "substantiv construct + sufix + verb, qal imperfect consecutiv + prepoziție + verb, piel participiu + sufix + marcă a complementului direct + sufix + verb, qal perfect + substantiv construct + nume propriu",
+       "def_ro": "și bijuteria ei, și a mers după amanții ei, și pe Mine M-a uitat — rostirea DOMNULUI.",
+       "dict_ro": "Metzudat David explică faptul că «iar pe Mine mă uita» înseamnă că nu și-a pus la inimă să-I slujească — detaliul final care rezumă întregul șir de nelegiuiri descrise mai sus."
       }
      ],
      "textCompare": [
@@ -81842,7 +82069,17 @@
      "translit": "Lachen hine anohi mefateha veholahtiha hamidbar vedibarti al liba.",
      "tokens": [
       {
-       "t": "De aceea, iată, "
+       "t": "De aceea, iată,",
+       "w": "De aceea, iată,",
+       "heb": "לָכֵן הִנֵּה אָנֹכִי",
+       "translit": "lahēn hinē anohi",
+       "strong": "H3651",
+       "pos": "adverb + particulă demonstrativă + pronume personal",
+       "def_ro": "de aceea, iată, Eu.",
+       "dict_ro": "Rashi explică faptul că ademenirea descrisă aici nu e o viclenie, ci o convingere blândă — DOMNUL o va atrage înapoi către Sine, nu prin forță, ci prin cuvinte de împăcare, ca un soț care își cucerește din nou soția îndepărtată."
+      },
+      {
+       "t": " "
       },
       {
        "t": "o voi ademeni",
@@ -81857,7 +82094,14 @@
        "dict_ro": "Pita — „a ademeni, a convinge”; e verbul curtării. Punctul de cotitură al haftarei: după pedepse, Dumnezeu nu mai amenință, ci o „ademenește” pe soția necredincioasă și o duce în pustie ca să „vorbească inimii ei” — expresia folosită pentru Sihem față de Dina (Geneza 34:3) și pentru levitul din Judecători 19:3. Rashi interpretează pustia ca exilul, unde Israel își va pune la inimă că îi era mai bine când făcea voia lui Dumnezeu; Metzudat David: bărbatul își duce soția în pustie, unde nu aude nimeni, și o împacă acolo cu vorbe bune — legătura directă cu pericopa Bamidbar, „în pustie”."
       },
       {
-       "t": " și o voi conduce în deșert și voi vorbi inimii ei."
+       "t": " și o voi conduce în deșert și voi vorbi inimii ei.",
+       "w": " și o voi conduce în deșert și voi vorbi inimii ei.",
+       "heb": "וְהֹלַכְתִּיהָ הַמִּדְבָּר וְדִבַּרְתִּי עַל לִבָּהּ",
+       "translit": "veholahtiha hamidbar vedibarti al libah",
+       "strong": "H3212",
+       "pos": "verb, hifil perfect consecutiv + sufix + substantiv + verb, piel perfect consecutiv + prepoziție + substantiv construct + sufix",
+       "def_ro": "și o voi conduce în pustie, și voi vorbi la inima ei.",
+       "dict_ro": "Radak leagă acest verset de Ezechiel 20:35 — «vă voi duce în pustia popoarelor și Mă voi judeca acolo cu voi față în față» — pustia devine locul privilegiat al confruntării directe și al împăcării finale."
       }
      ],
      "textCompare": [
@@ -81908,7 +82152,17 @@
      "translit": "Venatati la et-kerameha mișam veet-emek ahor lefetah tikva veanta șama kimei neureha vihiom alota meereț-Mițraim.",
      "tokens": [
       {
-       "t": "Îi voi da viile de acolo, iar valea pustie va fi "
+       "t": "Îi voi da viile de acolo, iar valea pustie va fi",
+       "w": "Îi voi da viile de acolo, iar valea pustie va fi",
+       "heb": "וְנָתַתִּי לָהּ אֶת כְּרָמֶיהָ מִשָּׁם וְאֶת עֵמֶק עָכוֹר",
+       "translit": "venatati lah et kerameha mișam veet ēmek ahor",
+       "strong": "H5414",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + marcă a complementului direct + substantiv plural construct + sufix + adverb + marcă a complementului direct + substantiv construct + nume propriu",
+       "def_ro": "și-i voi da viile ei de acolo, și valea Ahor.",
+       "dict_ro": "Radak explică faptul că valea Ahor e numită astfel după păcatul lui Acan, petrecut la intrarea în Țară în zilele lui Iosua — numirea ei «poartă a speranței» promite că acea nelegiuire inițială nu se va repeta."
+      },
+      {
+       "t": " "
       },
       {
        "t": "o poartă a speranței",
@@ -81921,7 +82175,14 @@
        "dict_ro": "Septuaginta are aici „διανοῖξαι σύνεσιν αὐτῆς\" („să-i deschidă priceperea/înțelegerea\"), nu „o poartă a speranței\" (petach tikvah) ca în ebraică — o imagine complet diferită, legată probabil de o citire alternativă a cuvântului „tikvah\" (speranță), posibil confundat cu o rădăcină pentru înțelegere."
       },
       {
-       "t": ". Și ea va striga acolo ca în zilele tinereții ei și ca în ziua când a urcat din țara Egiptului."
+       "t": ". Și ea va striga acolo ca în zilele tinereții ei și ca în ziua când a urcat din țara Egiptului.",
+       "w": ". Și ea va striga acolo ca în zilele tinereții ei și ca în ziua când a urcat din țara Egiptului.",
+       "heb": "וְעָנְתָה שָּׁמָּה כִּימֵי נְעוּרֶיהָ וִּכְיוֹם עֲלֹתָהּ מֵאֶרֶץ מִצְרָיִם",
+       "translit": "veanta șama kimē neureha vihiom alotah mēereț mițraim",
+       "strong": "H6030",
+       "pos": "verb, qal perfect consecutiv + adverb + substantiv plural construct + substantiv plural construct + sufix + substantiv construct + verb, qal infinitiv + sufix + substantiv construct + nume propriu",
+       "def_ro": "și va cânta acolo ca în zilele tinereții ei, și ca în ziua suirii ei din țara Egiptului.",
+       "dict_ro": "Metzudat David leagă acest cântec de cântarea de la mare din Exod 15:21, cântată de Miriam — bucuria viitoare a restaurării va reface exact bucuria originară a eliberării din Egipt."
       }
      ],
      "textCompare": [
@@ -81972,7 +82233,14 @@
      "translit": "Vehaia vaiom-hahu neum-ADONAI tikrei iși velo-tikrei-li od bali.",
      "tokens": [
       {
-       "t": "Și va fi în ziua aceea – rostirea DOMNULUI – că [Mă] vei chema „"
+       "t": "Și va fi în ziua aceea – rostirea DOMNULUI – că [Mă] vei chema „",
+       "w": "Și va fi în ziua aceea – rostirea DOMNULUI – că [Mă] vei chema „",
+       "heb": "וְהָיָה בַיּוֹם הַהוּא נְאֻם יְהוָה תִּקְרְאִי",
+       "translit": "vehaia vaiom hahu neum Adonai tikrei",
+       "strong": "H1961",
+       "pos": "verb, qal perfect consecutiv + substantiv + pronume personal + substantiv construct + nume propriu + verb, qal imperfect",
+       "def_ro": "și va fi în ziua aceea — rostirea DOMNULUI — vei chema.",
+       "dict_ro": "Talmudul Bavli (Pesahim 87a) citează pe Rabi Iohanan, care explică această relație nouă ca cea a unei mirese în casa socrului, trăind în apropiere deplină de soțul ei, nu ca o logodnică încă în casa tatălui, înainte de împlinirea legăturii."
       },
       {
        "t": "Soțul meu",
@@ -81987,7 +82255,14 @@
        "dict_ro": "Iși și Baali — ambele înseamnă „soțul meu”, dar cu tonuri diferite: iș e bărbatul, partenerul, iar baal e stăpânul, proprietarul — și, totodată, numele idolului. Rashi explică: „Iși” e expresia căsătoriei și a iubirii din tinerețe, „Baali” e expresia stăpânirii și a fricii; Israel Îl va sluji din iubire, nu din teamă. Talmudul (Pesahim 87a), citat de Rashi și Radak: „ca o mireasă în casa socrului, nu ca o mireasă [logodită] încă în casa tatălui ei”."
       },
       {
-       "t": "” și nu Mă vei mai chema „Stăpânul meu”."
+       "t": "” și nu Mă vei mai chema „Stăpânul meu”.",
+       "w": "” și nu Mă vei mai chema „Stăpânul meu”.",
+       "heb": "וְלֹא תִקְרְאִי לִי עוֹד בַּעְלִי",
+       "translit": "velo tikrei li od bali",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal imperfect + prepoziție + sufix + adverb + nume propriu + sufix",
+       "def_ro": "și nu Mă vei mai chema stăpânul meu.",
+       "dict_ro": "Rashi explică faptul că «iș» e o expresie a căsătoriei și a iubirii tinereții, pe când «baal» e o expresie de stăpânire și frică — schimbarea titlului marchează trecerea de la o relație bazată pe autoritate la una bazată pe dragoste reciprocă."
       }
      ],
      "textCompare": [
@@ -82037,7 +82312,17 @@
      "translit": "Vahasiroti et-șemot habealim mipiha velo-izaheru od bișmam.",
      "tokens": [
       {
-       "t": "Voi îndepărta numele "
+       "t": "Voi îndepărta numele",
+       "w": "Voi îndepărta numele",
+       "heb": "וַהֲסִרֹתִי אֶת שְׁמוֹת",
+       "translit": "vahasiroti et șemot",
+       "strong": "H5493",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + substantiv plural construct",
+       "def_ro": "și voi îndepărta numele.",
+       "dict_ro": "Rashi oferă trei interpretări posibile ale acestei îndepărtări: Israel nu va mai fi pomenit cu numele baalilor; baalii nu vor mai fi numiți dumnezeii lui Israel; sau numele baalilor nu va mai fi pomenit deloc, potrivit cu Isaia 2:18 — «idolii vor pieri cu totul»."
+      },
+      {
+       "t": " "
       },
       {
        "t": "idolilor lui Baal",
@@ -82052,7 +82337,14 @@
        "dict_ro": "Bealim — pluralul lui Baal, desemnând multele chipuri și forme locale ale acestui zeu. Rashi dă trei lecturi ale încheierii „nu vor mai fi amintiți pe nume”: Israel nu va mai fi numit după baali; sau baalii nu vor mai fi pomeniți ca dumnezei ai lui Israel; sau numele lor nu va mai fi pomenit deloc, cum spune Isaia 2:18: „idolii vor pieri cu totul”. Radak, după Rav Saadia, extinde făgăduința la toate neamurile, ca în Țefania 3:9."
       },
       {
-       "t": " din gura ei și ei nu vor mai fi amintiți pe nume."
+       "t": " din gura ei și ei nu vor mai fi amintiți pe nume.",
+       "w": " din gura ei și ei nu vor mai fi amintiți pe nume.",
+       "heb": "מִפִּיהָ וְלֹא יִזָּכְרוּ עוֹד בִּשְׁמָם",
+       "translit": "mipiha velo izahru od bișmam",
+       "strong": "H6310",
+       "pos": "substantiv construct + sufix + particulă negativă + verb, nifal imperfect + adverb + substantiv construct + sufix",
+       "def_ro": "din gura ei, și nu vor mai fi pomeniți pe numele lor.",
+       "dict_ro": "Radak citează explicația lui Rav Saadia Gaon: «și nu vor mai fi amintiți pe nume» s-ar referi chiar la neamurile lumii, care nu vor mai sluji idolilor în vremea aceea, potrivit cu Țefania 3:9 — «voi da popoarelor buze curate, ca toți să cheme numele DOMNULUI»."
       }
      ],
      "textCompare": [
@@ -82099,7 +82391,17 @@
      "translit": "Veharati lahem berit baiom hahu im-haiat hasade veim-of hașamaim veremes haadama vekeșet veherev umilhama eșbor min-haareț vehișkavtim lavetah.",
      "tokens": [
       {
-       "t": "Și le voi pecetlui "
+       "t": "Și le voi pecetlui",
+       "w": "Și le voi pecetlui",
+       "heb": "וְכָרַתִּי לָהֶם",
+       "translit": "veharati lahem",
+       "strong": "H3772",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix",
+       "def_ro": "și voi încheia pentru ei.",
+       "dict_ro": "Radak leagă acest legământ cu fiarele de Iov 5:23 — «vei fi în legământ cu pietrele câmpului, și fiarele câmpului vor fi în pace cu tine» — și de profeția lui Isaia despre lupul care va locui cu mielul."
+      },
+      {
+       "t": " "
       },
       {
        "t": "un legământ",
@@ -82114,7 +82416,14 @@
        "dict_ro": "Berit — legământul, aici un legământ neobișnuit: Dumnezeu leagă pacea între om și fiarele câmpului, păsările cerului și târâtoare, adică o restaurare a armoniei de la creație (aceleași trei categorii ca în Geneza 1:30). Rashi trimite la Isaia 11:9 („nu vor face rău și nu vor nimici”), iar Radak la Iov 5:23 și Isaia 11:6 („lupul va locui cu mielul”). Nimicirea armelor — „arcul, sabia și războiul” — și somnul „în siguranță” împlinesc făgăduința din Leviticul 26:6, din pericopa Behukotai."
       },
       {
-       "t": " în ziua aceea, cu fiara câmpului și cu pasărea cerului și cu târâtoarea pământului: arcul, și sabia, și războiul le voi nimici din țară, și le voi da voie să doarmă în ea în siguranță."
+       "t": " în ziua aceea, cu fiara câmpului și cu pasărea cerului și cu târâtoarea pământului: arcul, și sabia, și războiul le voi nimici din țară, și le voi da voie să doarmă în ea în siguranță.",
+       "w": " în ziua aceea, cu fiara câmpului și cu pasărea cerului și cu târâtoarea pământului: arcul, și sabia, și războiul le voi nimici din țară, și le voi da voie să doarmă în ea în siguranță.",
+       "heb": "בְּרִית בַּיּוֹם הַהוּא עִם חַיַּת הַשָּׂדֶה וְעִם עוֹף הַשָּׁמַיִם וְרֶמֶשׂ הָאֲדָמָה וְקֶשֶׁת וְחֶרֶב וּמִלְחָמָה אֶשְׁבּוֹר מִן הָאָרֶץ וְהִשְׁכַּבְתִּים לָבֶטַח",
+       "translit": "berit baiom hahu im haiat hasade veim of hașamaim veremes haadama vekeșet veherev umilhama eșbor min haareț vehișkavtim lavetah",
+       "strong": "H1285",
+       "pos": "substantiv + substantiv + pronume personal + prepoziție + substantiv construct + substantiv + prepoziție + substantiv construct + substantiv plural + substantiv construct + substantiv + substantiv + substantiv + substantiv + verb, qal imperfect + prepoziție + substantiv + verb, hifil perfect consecutiv + sufix + substantiv",
+       "def_ro": "legământ, în ziua aceea, cu fiara câmpului și cu pasărea cerului și cu târâtoarea pământului; și arcul și sabia și războiul le voi sfărâma din țară, și îi voi face să se culce în siguranță.",
+       "dict_ro": "Rashi explică faptul că acest legământ cu fiarele înseamnă nimicirea completă a făpturilor vătămătoare din lume, potrivit cu Isaia 11:9 — «nu vor face rău și nu vor nimici» — o pace cosmică deplină, nu doar o siguranță politică."
       }
      ],
      "textCompare": [
@@ -82178,7 +82487,14 @@
        "dict_ro": "Araś — „a logodi”, primul pas al căsătoriei în dreptul biblic, prin care femeia devine soția bărbatului. Versetele 21-22 sunt recitate de bărbații evrei în fiecare dimineață, la înfășurarea curelei tefilinului pe deget, ca un inel. Radak vede în cele trei „te voi logodi” cele trei ieșiri din exil: din Egipt, din Babilon și din exilul de acum — iar numai ultima va fi „pe veci”. Rashi explică împărțirea: dreptatea și judecata le va face Israel, iar bunătatea și mila vor veni de la Dumnezeu, ca răsplată."
       },
       {
-       "t": " veșnic, te voi mărita cu mine în dreptate și judecată, și cu bunătate și cu milă."
+       "t": " veșnic, te voi mărita cu mine în dreptate și judecată, și cu bunătate și cu milă.",
+       "w": " veșnic, te voi mărita cu mine în dreptate și judecată, și cu bunătate și cu milă.",
+       "heb": "לִי לְעוֹלָם וְאֵרַשְׂתִּיךְ לִי בְּצֶדֶק וּבְמִשְׁפָּט וּבְחֶסֶד וּבְרַחֲמִים",
+       "translit": "li leolam veērastih li bețedek uvmișpat uvhesed uvrahamim",
+       "strong": "H5769",
+       "pos": "prepoziție + sufix + substantiv + verb, piel perfect consecutiv + sufix + prepoziție + sufix + substantiv + substantiv + substantiv + substantiv",
+       "def_ro": "pentru Mine, pe veci; și te voi logodi cu Mine în dreptate și în judecată, și în bunătate și în îndurări.",
+       "dict_ro": "Radak explică faptul că repetarea triplă a «te voi mărita» corespunde celor trei exiluri ale lui Israel — Egiptul, Babilonul și exilul actual — iar logodna veșnică se referă special la a treia, ultima, care nu va mai fi întreruptă."
       }
      ],
      "textCompare": [
@@ -82229,7 +82545,17 @@
      "translit": "Veerastih li beemuna veiadaat et-ADONAI.",
      "tokens": [
       {
-       "t": "Te voi mărita cu Mine "
+       "t": "Te voi mărita cu Mine",
+       "w": "Te voi mărita cu Mine",
+       "heb": "וְאֵרַשְׂתִּיךְ לִי",
+       "translit": "veērastih li",
+       "strong": "H781",
+       "pos": "verb, piel perfect consecutiv + sufix + prepoziție + sufix",
+       "def_ro": "și te voi logodi cu Mine.",
+       "dict_ro": "Rashi explică faptul că această a treia logodnă, «în credință», e o răsplată pentru credința arătată de Israel în exil — crezând în făgăduințele transmise prin profeți, chiar fără a vedea încă împlinirea lor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "în credință",
@@ -82244,7 +82570,14 @@
        "dict_ro": "Emuna — statornicia, credincioșia (de la aman, „a fi stabil, sigur”, de unde și „amin”). Rashi o citește ca răsplată: „pentru credința” pe care Israel a păstrat-o în exil, crezând în făgăduințele profeților; Radak o citește ca trăsătură a legământului: o logodnă statornică, ce nu se va mai clătina. Încheierea „și Îl vei cunoaște pe DOMNUL” folosește verbul yada, al intimității conjugale (Geneza 4:1) — cunoașterea lui Dumnezeu e împlinirea căsătoriei."
       },
       {
-       "t": " și Îl vei cunoaște pe DOMNUL."
+       "t": " și Îl vei cunoaște pe DOMNUL.",
+       "w": " și Îl vei cunoaște pe DOMNUL.",
+       "heb": "וְיָדַעַתְּ אֶת יְהוָה",
+       "translit": "veiadaat et Adonai",
+       "strong": "H3045",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + nume propriu",
+       "def_ro": "și vei cunoaște pe DOMNUL.",
+       "dict_ro": "Radak leagă această cunoaștere finală de Ieremia 31:34 — «căci toți Mă vor cunoaște, de la cel mai mic până la cel mai mare» — cunoașterea deplină a DOMNULUI, promisă aici, se va împlini complet abia în vremurile mesianice."
       }
      ],
      "textCompare": [
