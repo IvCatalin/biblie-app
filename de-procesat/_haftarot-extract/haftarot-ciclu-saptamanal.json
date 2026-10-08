@@ -54095,7 +54095,17 @@
      "translit": "Va-Adonai natan chokhmah li-Shlomo ka'asher dibber-lo va-yehi shalom bein Chiram u-vein Shlomo va-yikhretu verit shneihem.",
      "tokens": [
       {
-       "t": "DOMNUL i-a dat "
+       "t": "DOMNUL i-a dat",
+       "w": "DOMNUL i-a dat",
+       "heb": "וַיהוָה נָתַן",
+       "translit": "va'Adonai natan",
+       "strong": "H3068",
+       "pos": "nume propriu + verb, qal perfect",
+       "def_ro": "și DOMNUL a dat.",
+       "dict_ro": "Radak explică faptul că rostul acestei povestiri despre înțelepciunea lui Solomon e arătat chiar prin mulțimea clădirilor pe care le-a zidit — se vede înțelepciunea lui, așa cum avea să o vadă mai târziu și împărăteasa din Saba."
+      },
+      {
+       "t": " "
       },
       {
        "t": "înțelepciune",
@@ -54110,7 +54120,20 @@
        "dict_ro": "Chokhmah — darul central acordat lui Solomon (1 Împărați 3:9-12), aici aplicat concret capacității lui diplomatice de a încheia o alianță pașnică cu Hiram, regele Tirului, esențială pentru asigurarea materialelor de construcție ale Templului."
       },
       {
-       "t": " lui Solomon, după cum îi vorbise, și a fost pace între "
+       "t": " lui Solomon, "
+      },
+      {
+       "t": "după cum îi vorbise",
+       "w": "după cum îi vorbise",
+       "heb": "כַּאֲשֶׁר דִּבֶּר לוֹ",
+       "translit": "kaașer diber lo",
+       "strong": "H834",
+       "pos": "particulă relativă + verb, piel perfect + prepoziție + sufix",
+       "def_ro": "după cum îi vorbise lui.",
+       "dict_ro": "Promisiunea înțelepciunii, deja făcută lui Solomon (1 Împărați 3:12), se împlinește aici vizibil — nu o dăruire nouă, ci confirmarea publică a unei făgăduințe anterioare."
+      },
+      {
+       "t": ", și a fost pace între "
       },
       {
        "t": "Hiram",
@@ -54183,7 +54206,17 @@
      "translit": "Va-ya'al ha-melekh Shlomo mas mi-kol-Yisra'el va-yehi ha-mas shloshim elef ish.",
      "tokens": [
       {
-       "t": "Regele Solomon a "
+       "t": "Regele Solomon a",
+       "w": "Regele Solomon a",
+       "heb": "וַיַּעַל הַמֶּלֶךְ שְׁלֹמֹה",
+       "translit": "vaiaal hameleh șelomo",
+       "strong": "H5927",
+       "pos": "verb, hifil imperfect consecutiv + substantiv + nume propriu",
+       "def_ro": "și a ridicat regele Solomon.",
+       "dict_ro": "Rashi explică faptul că această «robie» (mas) se ridica la o plată pentru treizeci de mii de oameni — un sistem de corvoadă organizată, nu o sclavie propriu-zisă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "impus o taxă",
@@ -54198,7 +54231,20 @@
        "dict_ro": "Mas — nu o taxă bănească, ci corvoadă de muncă obligatorie (munca forțată); Rashi precizează că acești treizeci de mii erau israeliți nativi, spre deosebire de cei o sută cincizeci de mii de muncitori menționați la v.29-30, recrutați dintre străinii convertiți."
       },
       {
-       "t": " asupra întregului Israel și taxa a constat în treizeci de mii de oameni."
+       "t": " "
+      },
+      {
+       "t": "asupra întregului Israel",
+       "w": "asupra întregului Israel",
+       "heb": "מִכָּל יִשְׂרָאֵל",
+       "translit": "mikal israēl",
+       "strong": "H3605",
+       "pos": "substantiv construct + nume propriu",
+       "def_ro": "din tot Israelul.",
+       "dict_ro": "Taxa de muncă se aplică întregii națiuni, nu doar unei regiuni — proiectul Templului devine, prin această mobilizare generală, o lucrare cu adevărat națională."
+      },
+      {
+       "t": " și taxa a constat în treizeci de mii de oameni."
       }
      ],
      "textCompare": [
@@ -54234,7 +54280,17 @@
      "translit": "Va-yishlachem Levanonah asseret alafim ba-chodesh chalifot chodesh yihyu va-Levanon shnayim chodashim be-veito va-Adoniram al-ha-mas.",
      "tokens": [
       {
-       "t": "Și i-a trimis în Liban în "
+       "t": "Și i-a trimis în Liban în",
+       "w": "Și i-a trimis în Liban în",
+       "heb": "וַיִּשְׁלָחֵם לְבָנוֹנָה",
+       "translit": "vaișlahēm levanona",
+       "strong": "H7971",
+       "pos": "verb, qal imperfect consecutiv + sufix + nume propriu",
+       "def_ro": "și i-a trimis la Liban.",
+       "dict_ro": "Rashi detaliază precis sistemul de rotație lunară: zece mii plecau la Liban, revenind pentru a fi înlocuiți de a doua grupă, apoi a treia, ciclul repetându-se astfel încât fiecare bărbat servea o lună urmată de două luni de odihnă acasă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "schimburi",
@@ -54249,7 +54305,20 @@
        "dict_ro": "Chalifot — Rashi explică sistemul precis de rotație: zece mii plecau la Liban în luna Tișrei, alte zece mii îi înlocuiau în Marheșvan, o a treia grupă în Chislev, apoi ciclul se repeta — fiecare bărbat lucrând o lună la Liban, urmată de două luni de odihnă acasă, un sistem echitabil de repartizare a corvoadei."
       },
       {
-       "t": " de zece mii pe lună; o lună erau detașați în Liban și două luni erau [fiecare] la casa lui. Și "
+       "t": " de zece mii pe lună; "
+      },
+      {
+       "t": "o lună erau detașați în Liban și două luni erau [fiecare] la casa lui. Și",
+       "w": "o lună erau detașați în Liban și două luni erau [fiecare] la casa lui. Și",
+       "heb": "חֹדֶשׁ יִהְיוּ בַלְּבָנוֹן שְׁנַיִם חֳדָשִׁים בְּבֵיתוֹ וַ",
+       "translit": "hodeș ihiu valvanon șenaim hodașim bevēto va",
+       "strong": "H2320",
+       "pos": "substantiv + verb, qal imperfect + nume propriu + numeral + substantiv plural + substantiv construct + sufix",
+       "def_ro": "o lună erau în Liban, două luni în casa lui, și.",
+       "dict_ro": "Aranjamentul administrativ echitabil — o lună de corvoadă pentru două de odihnă — arată o organizare chibzuită a muncii obligatorii, nu o exploatare nelimitată a forței de lucru israelite."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Adoniram",
@@ -54301,7 +54370,17 @@
      "translit": "Va-yehi li-Shlomo shiv'im elef nose savval u-shmonim elef chotsev ba-har.",
      "tokens": [
       {
-       "t": "Iar Solomon avea "
+       "t": "Iar Solomon avea",
+       "w": "Iar Solomon avea",
+       "heb": "וַיְהִי לִשְׁלֹמֹה",
+       "translit": "vaihi lișlomo",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "și avea Solomon.",
+       "dict_ro": "Rashi socotește că toți cei o sută cincizeci de mii de lucrători, cărăuși și tăietori în carieră, erau prozeliți atrași, convertiți din pricina mărimii și a mesei lui Solomon — nu israeliți nativi puși la corvoadă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "șaptezeci de mii de cărăuși",
@@ -54370,7 +54449,17 @@
      "translit": "Le-vad mi-sarei ha-nitstsavim li-Shlomo asher al-ha-melakhah shloshet alafim u-shlosh me'ot ha-rodim ba-am ha-osim ba-melakhah.",
      "tokens": [
       {
-       "t": "pe lângă cei trei mii trei sute de "
+       "t": "pe lângă cei trei mii trei sute de",
+       "w": "pe lângă cei trei mii trei sute de",
+       "heb": "לְבַד מִשָּׂרֵי הַנִּצָּבִים לִשְׁלֹמֹה אֲשֶׁר עַל הַמְּלָאכָה שְׁלֹשֶׁת אֲלָפִים וּשְׁלֹשׁ מֵאוֹת",
+       "translit": "levad misarē hanițavim lișlomo așer al hamlaha șeloșet alafim ușloș mēot",
+       "strong": "H905",
+       "pos": "substantiv + substantiv plural construct + verb, nifal participiu + nume propriu + particulă relativă + prepoziție + substantiv + numeral + numeral + numeral + numeral",
+       "def_ro": "pe lângă căpeteniile puse de Solomon peste lucrare, trei mii trei sute.",
+       "dict_ro": "Rashi rezolvă o contradicție numerică reală între mai multe versete biblice care par să se contrazică asupra numărului exact al supraveghetorilor — explică faptul că unele surse numără doar supraveghetorii direcți ai prozeliților, altele adaugă și o categorie superioară de supraveghere generală."
+      },
+      {
+       "t": " "
       },
       {
        "t": "conducători de elită",
@@ -54435,7 +54524,17 @@
      "translit": "Va-yetsav ha-melekh va-yassi'u avanim gedolot avanim yekarot le-yassed ha-bayit avnei gazit.",
      "tokens": [
       {
-       "t": "Și regele a dat poruncă și ei au "
+       "t": "Și regele a dat poruncă și ei au",
+       "w": "Și regele a dat poruncă și ei au",
+       "heb": "וַיְצַו הַמֶּלֶךְ וַיַּסִּעוּ",
+       "translit": "vaițav hameleh vaiasiu",
+       "strong": "H6680",
+       "pos": "verb, piel imperfect consecutiv + substantiv + verb, hifil imperfect consecutiv",
+       "def_ro": "și a poruncit regele și au dislocat.",
+       "dict_ro": "Porunca regală directă declanșează extracția pietrelor masive necesare fundației — un act de autoritate regală aplicat primei etape, cea mai grea, a construcției."
+      },
+      {
+       "t": " "
       },
       {
        "t": "dislocat",
@@ -54450,7 +54549,20 @@
        "dict_ro": "Rădăcina nasa, „a călători, a se deplasa” — la forma cauzativă, transportul masiv de blocuri de piatră de la munte la șantierul Templului, o operațiune logistică majoră implicând mii de cărăuși deja menționați la v.29."
       },
       {
-       "t": " pietre mari, pietre impunătoare, ca să așeze fundația Templului cu "
+       "t": " pietre mari, pietre impunătoare, "
+      },
+      {
+       "t": "ca să așeze fundația Templului cu",
+       "w": "ca să așeze fundația Templului cu",
+       "heb": "לְיַסֵּד הַבָּיִת",
+       "translit": "leiasēd habait",
+       "strong": "H3245",
+       "pos": "verb, piel infinitiv + substantiv",
+       "def_ro": "ca să întemeieze Templul.",
+       "dict_ro": "Rashi rezolvă tensiunea aparentă cu v.7 din capitolul următor, care spune că niciun fier n-a fost auzit la Templu: pietrele fundației erau cioplite și finisate afară, la carieră, apoi transportate deja gata."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pietre cioplite",
@@ -54504,7 +54616,17 @@
      "translit": "Va-yifselu bonei Shlomo u-vonei Chirom ve-ha-Givlim va-yakhinu ha-etsim ve-ha-avanim livnot ha-bayit.",
      "tokens": [
       {
-       "t": "Constructorii lui Solomon, constructorii lui Hiram și "
+       "t": "Constructorii lui Solomon, constructorii lui Hiram și",
+       "w": "Constructorii lui Solomon, constructorii lui Hiram și",
+       "heb": "בֹּנֵי שְׁלֹמֹה וּבֹנֵי חִירוֹם",
+       "translit": "bonē șelomo uvonē hirom",
+       "strong": "H1129",
+       "pos": "verb, qal participiu + nume propriu + verb, qal participiu + nume propriu",
+       "def_ro": "constructorii lui Solomon și constructorii lui Hiram și.",
+       "dict_ro": "Colaborarea explicită între constructorii israeliți și cei tirieni, alături de ghibliții iscusiți (menționați și la Ezechiel 27:9 pentru lucrul la corăbii), arată caracterul internațional al expertizei tehnice mobilizate pentru Templu."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ghebaliții",
@@ -54585,7 +54707,33 @@
        "dict_ro": "Una dintre cele mai cunoscute divergențe cronologice din toată Septuaginta: textul grecesc are „al patru sute PATRUZECILEA an\" (440), nu „al patru sute OPTZECILEA an\" (480) ca în ebraică — o variantă textuală veche, discutată intens de cercetători în legătură cu reconstituirea cronologiei biblice a perioadei Judecătorilor și a Exodului."
       },
       {
-       "t": " după ieșirea copiilor lui Israel din țara Egiptului: în anul al patrulea de domnie a lui Solomon peste Israel, în luna "
+       "t": " "
+      },
+      {
+       "t": "după ieșirea copiilor lui Israel din țara Egiptului",
+       "w": "după ieșirea copiilor lui Israel din țara Egiptului",
+       "heb": "לְצֵאת בְּנֵי יִשְׂרָאֵל מֵאֶרֶץ מִצְרַיִם",
+       "translit": "lețēt benē israēl mēereț mițraim",
+       "strong": "H3318",
+       "pos": "verb, qal infinitiv + substantiv construct + nume propriu + substantiv construct + nume propriu",
+       "def_ro": "de la ieșirea copiilor lui Israel din țara Egiptului.",
+       "dict_ro": "Datarea Templului prin numărarea anilor de la Exod, nu doar prin anul domniei lui Solomon, leagă construcția direct de evenimentul fondator al poporului — Templul e punctul culminant al unui proiect început la Sinai."
+      },
+      {
+       "t": ": "
+      },
+      {
+       "t": "în anul al patrulea de domnie a lui Solomon peste Israel",
+       "w": "în anul al patrulea de domnie a lui Solomon peste Israel",
+       "heb": "בַּשָּׁנָה הָרְבִיעִית... לִמְלֹךְ שְׁלֹמֹה עַל יִשְׂרָאֵל",
+       "translit": "bașana harvit... limloh șelomo al israēl",
+       "strong": "H8141",
+       "pos": "substantiv + numeral ordinal + verb, qal infinitiv + nume propriu + prepoziție + nume propriu",
+       "def_ro": "în anul al patrulea al domniei lui Solomon peste Israel.",
+       "dict_ro": "Rashi leagă explicit «anul al patrulea» de domnia lui Solomon, confirmat identic și în 2 Cronici 3:2 — a doua datare precisă, complementară celei de la Exod, fixează momentul istoric al începerii construcției."
+      },
+      {
+       "t": ", în luna "
       },
       {
        "t": "Ziv",
@@ -54599,7 +54747,20 @@
        "dict_ro": "Ziv — numele antic canaanit al lunii Iiar (a doua lună a anului religios, care începe cu Nisan); Rashi explică etimologia: „ziv” înseamnă „strălucire, splendoare”, potrivit sezonului de înflorire a pomilor, conform și Targumului lui Ionatan."
       },
       {
-       "t": ", adică a doua lună [a anului], a construit Templul pentru DOMNUL."
+       "t": ", adică a doua lună [a anului], "
+      },
+      {
+       "t": "a construit Templul pentru DOMNUL",
+       "w": "a construit Templul pentru DOMNUL",
+       "heb": "וַיִּבֶן הַבַּיִת לַיהוָה",
+       "translit": "vaiven habait la'Adonai",
+       "strong": "H1129",
+       "pos": "verb, qal imperfect consecutiv + substantiv + nume propriu",
+       "def_ro": "a construit Casa pentru DOMNUL.",
+       "dict_ro": "Formula finală a versetului rezumă scopul întregii narațiuni cronologice precedente — toate datările converg spre acest moment unic: începerea construcției Casei DOMNULUI."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -54639,7 +54800,17 @@
      "translit": "Ve-ha-bayit asher banah ha-melekh Shlomo l-Adonai shishim-ammah orko ve-esrim rochbo u-shloshim ammah komato.",
      "tokens": [
       {
-       "t": "Iar Templul pe care Solomon l-a construit pentru DOMNUL era de "
+       "t": "Iar Templul pe care Solomon l-a construit pentru DOMNUL era de",
+       "w": "Iar Templul pe care Solomon l-a construit pentru DOMNUL era de",
+       "heb": "וְהַבַּיִת אֲשֶׁר בָּנָה הַמֶּלֶךְ שְׁלֹמֹה לַיהוָה",
+       "translit": "vehabait așer bana hameleh șelomo la'Adonai",
+       "strong": "H1004",
+       "pos": "substantiv + particulă relativă + verb, qal perfect + substantiv + nume propriu + nume propriu",
+       "def_ro": "și Templul pe care l-a construit regele Solomon pentru DOMNUL.",
+       "dict_ro": "Rashi explică faptul că cei șaizeci de coți ai lungimii totale includ împreună Locul Sfânt și Locul Preasfânt — dimensiunile exacte ale acestui verset devin reperul tehnic pentru toată descrierea arhitecturală care urmează."
+      },
+      {
+       "t": " "
       },
       {
        "t": "șaizeci de coți lungime",
@@ -54746,7 +54917,17 @@
      "translit": "Va-ya'as la-bayit chalonei shekufim atumim.",
      "tokens": [
       {
-       "t": "Și a făcut pentru Templu "
+       "t": "Și a făcut pentru Templu",
+       "w": "Și a făcut pentru Templu",
+       "heb": "וַיַּעַשׂ לַבָּיִת",
+       "translit": "vaiaas labait",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "și a făcut pentru Templu.",
+       "dict_ro": "Rashi explică faptul că aceste ferestre erau deschise pe dinafară și închise pe dinăuntru, înguste, nu după felul celorlalte ferestre făcute pentru lumină — ca să arate că Templul n-are nevoie de lumină naturală, Șechina Însăși fiind lumina lui."
+      },
+      {
+       "t": " "
       },
       {
        "t": "ferestre largi [la exterior] cu deschidere îngustă",
@@ -54798,7 +54979,17 @@
      "translit": "Va-yiven al-kir ha-bayit yatsi'a saviv et-kirot ha-bayit saviv la-heikhal ve-la-devir va-ya'as tsela'ot saviv.",
      "tokens": [
       {
-       "t": "Lângă peretele Templului a construit o "
+       "t": "Lângă peretele Templului a construit o",
+       "w": "Lângă peretele Templului a construit o",
+       "heb": "וַיִּבֶן עַל קִיר הַבַּיִת",
+       "translit": "vaiven al kir habait",
+       "strong": "H1129",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv construct + substantiv",
+       "def_ro": "și a construit lângă peretele Templului.",
+       "dict_ro": "Rashi explică faptul că acest rând de odăi are trei nume diferite în Scriptură — iația, ta și țela — toate desemnând aceeași structură anexă, lipită de zidurile exterioare ale Sălii Sfinte și ale Sfintei Sfintelor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cameră",
@@ -54813,7 +55004,20 @@
        "dict_ro": "Yatsi'a — Rashi notează trei termeni sinonimi folosiți în tradiție pentru aceeași structură (yatsi'a, ta, tsela), citând Tratatul Bava Batra — o structură anexă cu trei niveluri, construită lipită de zidurile exterioare ale Sălii și Sfintei Sfintelor, folosită probabil pentru depozitare și camere ale preoților."
       },
       {
-       "t": " de jur împrejur – pereții Templului de jur împrejurul Sălii și "
+       "t": " "
+      },
+      {
+       "t": "de jur împrejur – pereții Templului de jur împrejurul Sălii și",
+       "w": "de jur împrejur – pereții Templului de jur împrejurul Sălii și",
+       "heb": "סָבִיב אֶת קִירוֹת הַבַּיִת סָבִיב לַהֵיכָל וְלַדְּבִיר",
+       "translit": "saviv et kirot habait saviv lahēhal veladvir",
+       "strong": "H5439",
+       "pos": "substantiv + marcă a complementului direct + substantiv plural construct + substantiv + substantiv + substantiv + substantiv",
+       "def_ro": "de jur împrejur, pereții Templului de jur împrejurul Sălii Sfinte și al Sfintei Sfintelor.",
+       "dict_ro": "Camerele anexă înconjoară deopotrivă Locul Sfânt și Locul Preasfânt, pe toate cele trei laturi libere ale clădirii — doar fațada dinspre pridvor rămânea fără aceste odăi laterale."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Sfintei Sfintelor",
@@ -54828,7 +55032,20 @@
        "dict_ro": "Devir, „locul de vorbire/oracol” — de la rădăcina davar, „a vorbi” — încăperea cea mai interioară, sacră, a Templului, unde se afla Chivotul Legământului, locul revelației divine directe către marele preot."
       },
       {
-       "t": " – și a făcut camere de jur împrejur."
+       "t": " – "
+      },
+      {
+       "t": "și a făcut camere de jur împrejur",
+       "w": "și a făcut camere de jur împrejur",
+       "heb": "וַיַּעַשׂ צְלָעוֹת סָבִיב",
+       "translit": "vaiaas țelaot saviv",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect consecutiv + substantiv + substantiv",
+       "def_ro": "și a făcut odăi de jur împrejur.",
+       "dict_ro": "Formula de încheiere a versetului confirmă execuția completă a planului descris — odăile anexe acoperă integral perimetrul lateral al clădirii sacre."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -54868,7 +55085,17 @@
      "translit": "Ha-yatsi'a ha-tachtonah chamesh ba-ammah rochbah ve-ha-tikhonah shesh ba-ammah rochbah ve-ha-shlishit sheva ba-ammah rochbah ki migra'ot natan la-bayit saviv chutsah le-vilti achoz be-kirot-ha-bayit.",
      "tokens": [
       {
-       "t": "Nivelul de jos era lat de cinci coți, cel mijlociu era lat de șase coți, iar al treilea era lat de șapte coți, căci făcuse "
+       "t": "Nivelul de jos era lat de cinci coți, cel mijlociu era lat de șase coți, iar al treilea era lat de șapte coți, căci făcuse",
+       "w": "Nivelul de jos era lat de cinci coți, cel mijlociu era lat de șase coți, iar al treilea era lat de șapte coți, căci făcuse",
+       "heb": "הַיָּצִיעַ הַתַּחְתֹּנָה חָמֵשׁ בָּאַמָּה רָחְבָּהּ וְהַתִּיכֹנָה שֵׁשׁ בָּאַמָּה רָחְבָּהּ וְהַשְּׁלִישִׁית שֶׁבַע בָּאַמָּה רָחְבָּהּ כִּי מִגְרָעוֹת נָתַן",
+       "translit": "haiația hatahtona hamēș baama rahbah vehatihona șēș baama rahbah vehașlișit șeva baama rahbah ki migraot natan",
+       "strong": "H3326",
+       "pos": "substantiv + adjectiv + numeral + substantiv + substantiv construct + sufix (repetat pe trei niveluri) + conjuncție + substantiv + verb, qal perfect",
+       "def_ro": "anexa de jos, cinci coți lățimea ei; cea de mijloc, șase coți lățimea ei; și a treia, șapte coți lățimea ei, căci a făcut praguri.",
+       "dict_ro": "Rashi descrie tehnica arhitecturală precisă, confirmată în Tratatul Middot: zidul Sălii se subția cu un cot la fiecare cinci coți de înălțime, creând praguri pe care se sprijineau capetele grinzilor fiecărui nivel al anexei, fără ca acestea să fie înfipte direct în zidul sacru al Templului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "borduri",
@@ -54998,7 +55225,17 @@
      "translit": "Petach ha-tsela ha-tikhonah el-ketef ha-bayit ha-yemanit u-velullim ya'alu al-ha-tikhonah u-min-ha-tikhonah el-ha-shlishim.",
      "tokens": [
       {
-       "t": "Intrarea camerei centrale de jos era în partea de miazăzi a Templului, iar pe o "
+       "t": "Intrarea camerei centrale de jos era în partea de miazăzi a Templului, iar pe o",
+       "w": "Intrarea camerei centrale de jos era în partea de miazăzi a Templului, iar pe o",
+       "heb": "פֶּתַח הַצֵּלָע הַתִּיכֹנָה אֶל כֶּתֶף הַבַּיִת הַיְמָנִית וּבְלוּלִּים",
+       "translit": "petah hațēla hatihona el ketef habait haimanit uvlulim",
+       "strong": "H6607",
+       "pos": "substantiv construct + substantiv + adjectiv + prepoziție + substantiv construct + substantiv + adjectiv + substantiv",
+       "def_ro": "ușa odăii de mijloc era pe partea dreaptă a Templului, și o scară în spirală.",
+       "dict_ro": "Rashi descrie construcția scării în spirală: un stâlp de piatră în jurul căruia se înfășoară trepte, oferind acces la nivelurile superioare fără a necesita o pantă lină ca la o scară dreaptă obișnuită."
+      },
+      {
+       "t": " "
       },
       {
        "t": "scară în spirală",
@@ -55048,7 +55285,17 @@
      "translit": "Va-yiven et-ha-bayit va-yekhallehu va-yispon et-ha-bayit gevim u-sderot ba-arazim.",
      "tokens": [
       {
-       "t": "[Solomon] a construit Templul și l-a "
+       "t": "[Solomon] a construit Templul și l-a",
+       "w": "[Solomon] a construit Templul și l-a",
+       "heb": "וַיִּבֶן אֶת הַבַּיִת וַיְכַלֵּהוּ",
+       "translit": "vaiven et habait vaihalēhu",
+       "strong": "H1129",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + substantiv + verb, piel imperfect consecutiv + sufix",
+       "def_ro": "a construit Templul și l-a isprăvit.",
+       "dict_ro": "Verbul «a isprăvi» (kalah) marchează finalizarea întregii structuri de bază, înainte de etapa decorativă a tavanului descrisă imediat după."
+      },
+      {
+       "t": " "
       },
       {
        "t": "isprăvit",
@@ -55113,7 +55360,17 @@
      "translit": "Va-yiven ha-yatsi'a al-kol-ha-bayit chamesh ammot komato va-ye'echoz et-ha-bayit ba-atsei arazim.",
      "tokens": [
       {
-       "t": "A construit camera de jur împrejurul întregului Templu, de "
+       "t": "A construit camera de jur împrejurul întregului Templu, de",
+       "w": "A construit camera de jur împrejurul întregului Templu, de",
+       "heb": "וַיִּבֶן אֶת הַיָּצִיעַ עַל כָּל הַבַּיִת חָמֵשׁ אַמּוֹת",
+       "translit": "vaiven et haiația al kal habait hamēș amot",
+       "strong": "H1129",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + substantiv + prepoziție + substantiv construct + substantiv + numeral + substantiv",
+       "def_ro": "a construit anexa peste tot Templul, de cinci coți.",
+       "dict_ro": "Rashi precizează: înălțimea totală a anexei, cu cele trei niveluri de cinci coți fiecare, era de cincisprezece coți, fără a socoti grosimea tavanului fiecărui etaj."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cinci coți înălțime",
@@ -55223,7 +55480,20 @@
      "translit": "Ha-bayit ha-zeh asher-attah voneh im-telekh be-chukkotai ve-et-mishpatai ta'aseh ve-shamarta et-kol-mitsvotai lalekhet bahem va-hakimoti et-devari ittakh asher dibbarti el-David avikha.",
      "tokens": [
       {
-       "t": "„Acest Templu pe care îl construiești – dacă vei urma "
+       "t": "„"
+      },
+      {
+       "t": "Acest Templu pe care îl construiești – dacă vei urma",
+       "w": "Acest Templu pe care îl construiești – dacă vei urma",
+       "heb": "הַבַּיִת הַזֶּה אֲשֶׁר אַתָּה בֹנֶה אִם תֵּלֵךְ",
+       "translit": "habait haze așer ata vone im tēlēh",
+       "strong": "H1004",
+       "pos": "substantiv + pronume demonstrativ + particulă relativă + pronume personal + verb, qal participiu + conjuncție + verb, qal imperfect",
+       "def_ro": "Templul acesta pe care tu îl construiești — dacă vei merge.",
+       "dict_ro": "Metzudat David explică faptul că, deși Solomon zidește frumos, cu toate clădirile, DOMNUL nu-Și va face să locuiască Prezența în el decât condiționat de ascultarea legilor Sale — frumusețea arhitecturală nu înlocuiește fidelitatea morală."
+      },
+      {
+       "t": " "
       },
       {
        "t": "edictele Mele",
