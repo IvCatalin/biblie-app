@@ -77891,7 +77891,14 @@
      "translit": "Vaiomer Irmeiahu haia devar-ADONAI elai lemor.",
      "tokens": [
       {
-       "t": "Ieremia a spus: „"
+       "t": "Ieremia a spus: „",
+       "w": "Ieremia a spus: „",
+       "heb": "וַיֹּאמֶר יִרְמְיָהוּ הָיָה",
+       "translit": "vaiomer irmeiahu haia",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + verb, qal perfect",
+       "def_ro": "și a spus Ieremia: a fost.",
+       "dict_ro": "Rashi explică faptul că Ieremia nu i-a spus aceasta lui Țedekia — Scriptura a explicat mai întâi de ce l-a închis regele, apoi s-a întors la cuvintele de la început, ca să arate care a fost cuvântul ce a venit la profet."
       },
       {
        "t": "Cuvântul DOMNULUI",
@@ -77906,7 +77913,14 @@
        "dict_ro": "Devar ADONAI — profeția vine în al zecelea an al lui Țedekia, când Ieremia era închis în curtea temniței pentru că prevestise căderea Ierusalimului (32:1-5). Rashi observă că versetul reia firul întrerupt: Scriptura a explicat mai întâi de ce fusese închis profetul, apoi revine să spună care a fost cuvântul primit; Metzudat David precizează la fel că, după lunga descriere a asediului, textul se întoarce la cuvântul DOMNULUI."
       },
       {
-       "t": " a venit la mine, spunând:"
+       "t": " a venit la mine, spunând:",
+       "w": " a venit la mine, spunând:",
+       "heb": "יְהוָה אֵלַי לֵאמֹר",
+       "translit": "Adonai ēlai lēmor",
+       "strong": "H3068",
+       "pos": "nume propriu + prepoziție + sufix + verb, qal infinitiv",
+       "def_ro": "DOMNUL, la mine, spunând.",
+       "dict_ro": "Metzudat David explică faptul că versetul se întoarce la cele spuse mai sus, ca să arate că acesta este cuvântul care a venit la Ieremia în anul al zecelea — după ce s-au lungit cuvintele despre asediu și despre pricina închiderii lui."
       }
      ],
      "textCompare": [
@@ -77943,7 +77957,17 @@
      "translit": "Hine Hanamel ben-Șalum dodha ba eleha lemor kene leha et-sadi așer ba'Anatot ki leha mișpat hagheula liknot.",
      "tokens": [
       {
-       "t": "«Iată, Hanamel, fiul unchiului tău Șalum, vine la tine să spună: ‘Cumpără pentru tine ogorul meu din Anatot, căci al tău este "
+       "t": "«Iată, Hanamel, fiul unchiului tău Șalum, vine la tine să spună: ‘Cumpără pentru tine ogorul meu din Anatot, căci al tău este",
+       "w": "«Iată, Hanamel, fiul unchiului tău Șalum, vine la tine să spună: ‘Cumpără pentru tine ogorul meu din Anatot, căci al tău este",
+       "heb": "הִנֵּה חֲנַמְאֵל בֶּן שַׁלֻּם דֹּדְךָ בָּא אֵלֶיךָ לֵאמֹר קְנֵה לְךָ אֶת שָׂדִי אֲשֶׁר בַּעֲנָתוֹת כִּי לְךָ מִשְׁפַּט",
+       "translit": "hinē hanamēl ben șalum dodha ba ēleha lēmor kenē leha et sadi așer baanatot ki leha mișpat",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă + nume propriu + substantiv construct + nume propriu + substantiv construct + sufix + verb, qal participiu + prepoziție + sufix + verb, qal infinitiv + verb, qal imperativ + prepoziție + sufix + marcă a complementului direct + substantiv construct + sufix + particulă relativă + nume propriu + conjuncție + prepoziție + sufix + substantiv construct",
+       "def_ro": "iată, Hanamel, fiul lui Șalum, unchiul tău, vine la tine, spunând: cumpără-ți ogorul meu care este în Anatot, căci al tău este dreptul.",
+       "dict_ro": "Metzudat David explică faptul că, fiind rudă apropiată, dreptul de răscumpărare îi revenea direct lui Ieremia, ca ogorul să nu ajungă în mâinile altora — aceeași rânduială aplicată și lui Boaz la Rut 4:3-4."
+      },
+      {
+       "t": " "
       },
       {
        "t": "dreptul de răscumpărare",
@@ -77958,7 +77982,14 @@
        "dict_ro": "Gheula — răscumpărarea pământului de către ruda cea mai apropiată, ca proprietatea familiei să nu treacă la străini: „dacă fratele tău sărăcește și vinde din moșia lui, ruda lui cea mai apropiată să vină și să răscumpere ce a vândut fratele său” (Leviticul 25:25). Este chiar legea din pericopa Behar, de aici legătura haftarei cu pericopa; Metzudat David trimite și la Rut 4:3-4, unde Boaz îi propune răscumpărătorului „ogorul lui Elimelec”."
       },
       {
-       "t": " ca să cumperi.’»"
+       "t": " ca să cumperi.’»",
+       "w": " ca să cumperi.’»",
+       "heb": "לִקְנוֹת",
+       "translit": "liknot",
+       "strong": "H7069",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să cumperi.",
+       "dict_ro": "Radak explică faptul că, dacă Hanamel ar fi vândut ogorul altcuiva, Ieremia ar fi avut doar dreptul de a-l răscumpăra din mâna cumpărătorului — fiind rudă directă, e cu atât mai vrednic să-l cumpere chiar de la el."
       }
      ],
      "textCompare": [
@@ -78009,7 +78040,17 @@
      "translit": "Vaiavo elai Hanamel ben-dodi kidvar ADONAI el-hațar hamatara vaiomer elai kene na et-sadi așer ba'Anatot așer beereț Biniamin ki-leha mișpat haierușa uleha hagheula kene-lah vaeda ki devar-ADONAI hu.",
      "tokens": [
       {
-       "t": "Hanamel, vărul meu, a venit la mine, după rostirea DOMNULUI, în curtea temniței, și mi-a spus: «Te rog, cumpără-ți ogorul meu din Anatot, care este în ținutul lui Beniamin, căci al tău este "
+       "t": "Hanamel, vărul meu, a venit la mine, după rostirea DOMNULUI, în curtea temniței, și mi-a spus: «Te rog, cumpără-ți ogorul meu din Anatot, care este în ținutul lui Beniamin, căci al tău este",
+       "w": "Hanamel, vărul meu, a venit la mine, după rostirea DOMNULUI, în curtea temniței, și mi-a spus: «Te rog, cumpără-ți ogorul meu din Anatot, care este în ținutul lui Beniamin, căci al tău este",
+       "heb": "וַיָּבֹא אֵלַי חֲנַמְאֵל בֶּן דֹּדִי כִּדְבַר יְהוָה אֶל חֲצַר הַמַּטָּרָה וַיֹּאמֶר אֵלַי קְנֵה נָא אֶת שָׂדִי אֲשֶׁר בַּעֲנָתוֹת אֲשֶׁר בְּאֶרֶץ בִּנְיָמִין כִּי לְךָ מִשְׁפַּט",
+       "translit": "vaiavo ēlai hanamēl ben dodi kidvar Adonai el hațar hamatara vaiomer ēlai kenē na et sadi așer baanatot așer beereț biniamin ki leha mișpat",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + nume propriu + substantiv construct + substantiv construct + sufix + substantiv construct + nume propriu + prepoziție + substantiv construct + substantiv + verb, qal imperfect consecutiv + prepoziție + sufix + verb, qal imperativ + interjecție + marcă a complementului direct + substantiv construct + sufix + particulă relativă + nume propriu + particulă relativă + substantiv construct + nume propriu + conjuncție + prepoziție + sufix + substantiv construct",
+       "def_ro": "și a venit la mine Hanamel, fiul unchiului meu, după cuvântul DOMNULUI, la curtea temniței, și mi-a spus: cumpără-ți, te rog, ogorul meu care este în Anatot, care este în ținutul lui Beniamin, căci al tău este dreptul.",
+       "dict_ro": "Radak explică faptul că Ieremia a cunoscut autenticitatea profeției exact pentru că ea s-a împlinit cu precizie — dacă n-ar fi fost de la DOMNUL, de ce i-ar fi fost vestit dinainte că Hanamel va veni să-i vândă ogorul?"
+      },
+      {
+       "t": " "
       },
       {
        "t": "dreptul de moștenire",
@@ -78023,7 +78064,14 @@
        "dict_ro": "Ieruța — moștenirea; Hanamel invocă două drepturi deodată: Ieremia e moștenitorul firesc al ogorului și, tot ca rudă, cel care îl poate răscumpăra. Radak și Metzudat David explică încheierea „și am cunoscut că fusese cuvântul DOMNULUI”: abia când vărul a venit întocmai cum i se spusese, profetul a înțeles că cumpărarea, oricât de absurdă ar părea în mijlocul asediului, este o poruncă divină."
       },
       {
-       "t": " și al tău este [dreptul de] răscumpărare. Cumpără-l pentru tine!» Și am cunoscut că fusese cuvântul DOMNULUI."
+       "t": " și al tău este [dreptul de] răscumpărare. Cumpără-l pentru tine!» Și am cunoscut că fusese cuvântul DOMNULUI.",
+       "w": " și al tău este [dreptul de] răscumpărare. Cumpără-l pentru tine!» Și am cunoscut că fusese cuvântul DOMNULUI.",
+       "heb": "וּלְךָ הַגְּאֻלָּה קְנֵה לָךְ וָאֵדַע כִּי דְבַר יְהוָה הוּא",
+       "translit": "ulha hagula kenē lah vaēda ki devar Adonai hu",
+       "strong": "H3605",
+       "pos": "prepoziție + sufix + substantiv + verb, qal imperativ + prepoziție + sufix + verb, qal imperfect consecutiv + conjuncție + substantiv construct + nume propriu + pronume personal",
+       "def_ro": "și al tău e dreptul de răscumpărare; cumpără-l pentru tine. Și am cunoscut că este cuvântul DOMNULUI.",
+       "dict_ro": "Metzudat David explică faptul că Ieremia a cunoscut în mintea lui că aceasta este cu adevărat porunca DOMNULUI de a cumpăra ogorul — nu doar o coincidență, ci confirmarea exactă a profeției primite dinainte."
       }
      ],
      "textCompare": [
@@ -78066,7 +78114,17 @@
      "translit": "Vaekne et-hasade meet Hanamel ben-dodi așer ba'Anatot vaeșkala-lo et-hakesef șiva șekalim vaasara hakasef.",
      "tokens": [
       {
-       "t": "Așa că am cumpărat ogorul care era în Anatot, de la Hanamel, vărul meu, și am cântărit pentru el argintul, "
+       "t": "Așa că am cumpărat ogorul care era în Anatot, de la Hanamel, vărul meu, și am cântărit pentru el argintul,",
+       "w": "Așa că am cumpărat ogorul care era în Anatot, de la Hanamel, vărul meu, și am cântărit pentru el argintul,",
+       "heb": "וָאֶקְנֶה אֶת הַשָּׂדֶה מֵאֵת חֲנַמְאֵל בֶּן דֹּדִי אֲשֶׁר בַּעֲנָתוֹת וָאֶשְׁקֲלָה לּוֹ אֶת הַכֶּסֶף",
+       "translit": "vaekne et hasade mēēt hanamēl ben dodi așer baanatot vaeșkala lo et hakesef",
+       "strong": "H7069",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + substantiv + prepoziție + nume propriu + substantiv construct + sufix + particulă relativă + nume propriu + verb, qal imperfect consecutiv + sufix + prepoziție + sufix + marcă a complementului direct + substantiv",
+       "def_ro": "și am cumpărat ogorul de la Hanamel, fiul unchiului meu, care este în Anatot, și i-am cântărit argintul.",
+       "dict_ro": "Metzudat David explică faptul că siclii sunt numiți de înțelepți mine, iar «zece de argint» sunt zece sela, potrivit traducerii lui Ionatan — o unitate monetară distinctă de siclu, confirmată și de Radak."
+      },
+      {
+       "t": " "
       },
       {
        "t": "șapte sicli",
@@ -78081,7 +78139,14 @@
        "dict_ro": "Șekel — unitatea de bază a greutății pentru metale prețioase, de la șakal, „a cântări”: prețul nu se număra în monede, ci se cântărea. Metzudat David și Radak, după Targum Ionatan, citesc „șapte” ca șapte mine și „zece” ca zece sela de argint — o sumă mult mai mare decât sugerează traducerea literală, potrivită pentru un ogor întreg."
       },
       {
-       "t": " și zece selaim de argint."
+       "t": " și zece selaim de argint.",
+       "w": " și zece selaim de argint.",
+       "heb": "וַעֲשָׂרָה הַכָּסֶף",
+       "translit": "vaasara hakasef",
+       "strong": "H6235",
+       "pos": "numeral + substantiv",
+       "def_ro": "și zece, argintul.",
+       "dict_ro": "Radak confirmă aceeași interpretare: șapte sicli și zece de argint reprezintă șapte mine și zece sela de argint, potrivit traducerii lui Ionatan Ben Uziel."
       }
      ],
      "textCompare": [
@@ -78125,7 +78190,17 @@
      "translit": "Vaehtov basefer vaehtom vaaed edim vaeșkol hakesef bemoznaim.",
      "tokens": [
       {
-       "t": "Am scris actul și "
+       "t": "Am scris actul și",
+       "w": "Am scris actul și",
+       "heb": "וָאֶכְתֹּב בַּסֵּפֶר",
+       "translit": "vaehtov basēfer",
+       "strong": "H3789",
+       "pos": "verb, qal imperfect consecutiv + substantiv",
+       "def_ro": "și am scris în act.",
+       "dict_ro": "Metzudat David explică faptul că Ieremia a poruncit să se scrie în act detaliile cumpărării, apoi a poruncit stăpânului ogorului să-și semneze numele pe actul de cumpărare — pecetluirea fiind semnătura proprietarului anterior."
+      },
+      {
+       "t": " "
       },
       {
        "t": "l-am pecetluit",
@@ -78140,7 +78215,14 @@
        "dict_ro": "Hatam — „a pecetlui”, a închide un document cu sigiliul, ca să nu poată fi modificat. Descrierea e cea a unei vânzări juridice complete din Antichitatea iudaică: act scris, pecetluire, martori, argint cântărit pe balanță. Radak explică repetarea cântăririi (deja pomenită în v. 9): de data aceasta s-a făcut înaintea martorilor, cu greutate exactă, ca să nu poată apărea mai târziu vreo ceartă asupra plății."
       },
       {
-       "t": ", și am numit martori și am cântărit argintul în balanță."
+       "t": ", și am numit martori și am cântărit argintul în balanță.",
+       "w": ", și am numit martori și am cântărit argintul în balanță.",
+       "heb": "וָאָעֵד עֵדִים וָאֶשְׁקֹל הַכֶּסֶף בְּמֹאזְנָיִם",
+       "translit": "vaaēd ēdim vaeșkol hakesef bemoznaim",
+       "strong": "H5749",
+       "pos": "verb, hifil imperfect consecutiv + substantiv plural + verb, qal imperfect consecutiv + substantiv + substantiv dual",
+       "def_ro": "și am chemat martori, și am cântărit argintul în balanță.",
+       "dict_ro": "Radak explică faptul că, deși mai sus se spusese deja «i-am cântărit», acum se precizează că cântărirea s-a făcut înaintea martorilor, cu greutate dreaptă, ca să nu existe vreo contestație ulterioară asupra exactității prețului."
       }
      ],
      "textCompare": [
@@ -78186,7 +78268,17 @@
      "translit": "Vaekah et-sefer hamikna et-hehatum hamitva vehahukim veet-hagalui.",
      "tokens": [
       {
-       "t": "Și am luat actul de vânzare, cel pecetluit, [scris] conform poruncii și decretelor, și "
+       "t": "Și am luat actul de vânzare, cel pecetluit, [scris] conform poruncii și decretelor, și",
+       "w": "Și am luat actul de vânzare, cel pecetluit, [scris] conform poruncii și decretelor, și",
+       "heb": "וָאֶקַּח אֶת סֵפֶר הַמִּקְנָה אֶת הֶחָתוּם הַמִּצְוָה וְהַחֻקִּים וְאֶת",
+       "translit": "vaekah et sēfer hamikna et hehatum hamițva vehahukim veet",
+       "strong": "H3947",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + substantiv construct + substantiv + marcă a complementului direct + verb, qal participiu pasiv + substantiv + substantiv plural + marcă a complementului direct",
+       "def_ro": "și am luat actul cumpărării, cel pecetluit, [după] porunca și decretele, și.",
+       "dict_ro": "Talmudul Bavli (Bava Batra 160b) explică, prin cuvintele lui Rafram, că acest verset e temeiul pentru cele două feluri de acte legale: cel «obișnuit» cu doi martori și cel «legat» cu trei martori — «porunca și decretele» fiind lucrurile care le deosebesc."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cel nepecetluit",
@@ -78245,7 +78337,17 @@
      "translit": "Vaeten et-hasefer hamikna el-Baruh ben-Neria ben-Mahseia leeinei Hanamel dodi uleeinei haedim hakotvim besefer hamikna leeinei kol-haihudim haiosvim bahațar hamatara.",
      "tokens": [
       {
-       "t": "Și am dat actul de vânzare lui "
+       "t": "Și am dat actul de vânzare lui",
+       "w": "Și am dat actul de vânzare lui",
+       "heb": "וָאֶתֵּן אֶת הַסֵּפֶר הַמִּקְנָה אֶל",
+       "translit": "vaetēn et hasēfer hamikna el",
+       "strong": "H5414",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + substantiv + substantiv + prepoziție",
+       "def_ro": "și am dat actul cumpărării lui.",
+       "dict_ro": "Metzudat David precizează că acest Baruh e identificat după dubla sa genealogie, fiul lui Neria, fiul lui Mahseia — detaliu care confirmă identitatea precisă a scribului de încredere al lui Ieremia."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Baruh",
@@ -78260,7 +78362,14 @@
        "dict_ro": "Baruh, fiul lui Neria — scribul și ucenicul credincios al lui Ieremia, cel care îi va scrie profețiile pe sul (Ieremia 36:4) și care îl va însoți în exilul din Egipt (Ieremia 43:6); fratele lui, Seraia, era slujbaș la curtea regelui (Ieremia 51:59). Rashi se oprește asupra unei dificultăți: Hanamel e numit aici „unchiul meu”, deși mai sus era „fiul unchiului” — poate erau doi, sau poate a fost deodată și unchi și văr, deși un asemenea mod de exprimare nu apare nicăieri în Scriptură."
       },
       {
-       "t": ", fiul lui Neria, fiul lui Mahseia, sub ochii lui Hanamel, [fiul] unchiului meu, și sub ochii martorilor care semnaseră actul de vânzare, sub ochii tuturor iudeilor care stăteau în curtea temniței."
+       "t": ", fiul lui Neria, fiul lui Mahseia, sub ochii lui Hanamel, [fiul] unchiului meu, și sub ochii martorilor care semnaseră actul de vânzare, sub ochii tuturor iudeilor care stăteau în curtea temniței.",
+       "w": ", fiul lui Neria, fiul lui Mahseia, sub ochii lui Hanamel, [fiul] unchiului meu, și sub ochii martorilor care semnaseră actul de vânzare, sub ochii tuturor iudeilor care stăteau în curtea temniței.",
+       "heb": "בֶּן נֵרִיָּה בֶּן מַחְסֵיָה לְעֵינֵי חֲנַמְאֵל דֹּדִי וּלְעֵינֵי הָעֵדִים הַכֹּתְבִים בְּסֵפֶר הַמִּקְנָה לְעֵינֵי כָּל הַיְּהוּדִים הַיֹּשְׁבִים בַּחֲצַר הַמַּטָּרָה",
+       "translit": "ben nēria ben mahsēia leēnē hanamēl dodi ulēnē haēdim hakotvim besēfer hamikna leēnē kal haihudim haioșvim bahațar hamatara",
+       "strong": "H1121",
+       "pos": "substantiv construct + nume propriu + substantiv construct + nume propriu + substantiv dual construct + nume propriu + substantiv construct + sufix + substantiv dual construct + substantiv plural + verb, qal participiu + substantiv construct + substantiv + substantiv dual construct + substantiv construct + nume de neam + verb, qal participiu + substantiv construct + substantiv",
+       "def_ro": "fiul lui Neria, fiul lui Mahseia, sub ochii lui Hanamel, unchiul meu, și sub ochii martorilor care scriau în actul cumpărării, sub ochii tuturor iudeilor care locuiau în curtea temniței.",
+       "dict_ro": "Rashi observă o dificultate: până aici Hanamel fusese numit «fiul unchiului meu», iar aici e numit «unchiul meu» — o inconsecvență pe care Radak o rezolvă socotind că e vorba de două persoane diferite cu același nume, sau de o expresie convențională echivalentă."
       }
      ],
      "textCompare": [
@@ -78322,7 +78431,14 @@
        "dict_ro": "Țiva — „a porunci, a rândui”, aceeași rădăcină ca mițva, poruncă. Instrucțiunea e dată „sub ochii lor” — ai martorilor și ai iudeilor din curtea temniței —, pentru că gestul profetic trebuia să fie public: toți cei care îl vedeau pe Ieremia păstrând actul pentru „vreme lungă” primeau astfel, fără cuvinte, mesajul că exilul va avea un sfârșit."
       },
       {
-       "t": " pe Baruh sub ochii lor, spunând:"
+       "t": " pe Baruh sub ochii lor, spunând:",
+       "w": " pe Baruh sub ochii lor, spunând:",
+       "heb": "אֶת בָּרוּךְ לְעֵינֵיהֶם לֵאמֹר",
+       "translit": "et baruh leēnēhem lēmor",
+       "strong": "H853",
+       "pos": "marcă a complementului direct + nume propriu + substantiv dual construct + sufix + verb, qal infinitiv",
+       "def_ro": "pe Baruh, sub ochii lor, spunând.",
+       "dict_ro": "Instruirea publică a lui Baruh, sub ochii tuturor martorilor, confirmă din nou grija lui Ieremia pentru transparența deplină a întregii tranzacții, exact ca la scrierea și pecetluirea actului."
       }
      ],
      "textCompare": [
@@ -78350,7 +78466,17 @@
      "translit": "Ko-amar ADONAI Țevaot Elohei Israel lakoah et-hasefarim haele et sefer hamikna haze veet hehatum veet sefer hagalui haze unetatam bihli-hares lemaan iaamdu iamim rabim.",
      "tokens": [
       {
-       "t": "«Așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘Ia aceste acte, actul acesta de vânzare și pe cel pecetluit și actul acesta nepecetluit, și pune-le într-un "
+       "t": "«Așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘Ia aceste acte, actul acesta de vânzare și pe cel pecetluit și actul acesta nepecetluit, și pune-le într-un",
+       "w": "«Așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘Ia aceste acte, actul acesta de vânzare și pe cel pecetluit și actul acesta nepecetluit, și pune-le într-un",
+       "heb": "כֹּה אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל לָקוֹחַ אֶת הַסְּפָרִים הָאֵלֶּה אֵת סֵפֶר הַמִּקְנָה הַזֶּה וְאֵת הֶחָתוּם וְאֵת סֵפֶר הַגָּלוּי הַזֶּה וּנְתַתָּם בִּכְלִי",
+       "translit": "ko amar Adonai țevaot elohē israēl lakoah et hasfarim haēle ēt sēfer hamikna haze veēt hehatum veēt sēfer hagalui haze untatam bihli",
+       "strong": "H3541",
+       "pos": "adverb + verb, qal perfect + nume propriu + substantiv + substantiv construct + nume propriu + verb, qal infinitiv absolut + marcă a complementului direct + substantiv plural + pronume demonstrativ + marcă a complementului direct + substantiv construct + substantiv + pronume demonstrativ + marcă a complementului direct + verb, qal participiu pasiv + marcă a complementului direct + substantiv construct + verb, qal participiu pasiv + pronume demonstrativ + verb, qal perfect consecutiv + sufix + substantiv construct",
+       "def_ro": "așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ia actele acestea, actul acesta de cumpărare și cel pecetluit și actul acesta deschis, și pune-le într-un vas.",
+       "dict_ro": "Rashi explică faptul că întregul gest de a pune actele într-un vas, destinat să dureze, e menit să arate că DOMNUL nu le ascunde în van, de vreme ce toți merg în exil — ci exact pentru întoarcerea viitoare, precizată în versetul următor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "vas de lut",
@@ -78365,7 +78491,14 @@
        "dict_ro": "Heres — lutul ars, ceramica; Metzudat David explică de ce actele se pun într-un vas de lut: acesta păstrează ce e pus înăuntru ferit de putrezire. Descoperirile de la Qumran, unde sulurile au supraviețuit aproape două milenii tocmai în vase de lut, confirmă practica. Rashi citește în porunca aceasta mesajul: să nu crezi că le ascund degeaba, fiindcă toți merg în exil — Radak adaugă că actele trebuie să dăinuie „până la întoarcerea exilaților”."
       },
       {
-       "t": " ca să se păstreze vreme lungă.’"
+       "t": " ca să se păstreze vreme lungă.’",
+       "w": " ca să se păstreze vreme lungă.’",
+       "heb": "לְמַעַן יַעַמְדוּ יָמִים רַבִּים",
+       "translit": "lemaan iaamdu iamim rabim",
+       "strong": "H4616",
+       "pos": "prepoziție + verb, qal imperfect + substantiv plural + adjectiv",
+       "def_ro": "pentru ca să rămână multe zile.",
+       "dict_ro": "Radak explică faptul că scopul exact al acestei păstrări e «până la întoarcerea exilului», când se va împlini profeția «se vor mai cumpăra case» — un semn concret al speranței date direct celor din Israel."
       }
      ],
      "textCompare": [
@@ -78410,7 +78543,14 @@
      "translit": "Ki ho amar ADONAI Țevaot Elohei Israel od ikanu vatim vesadot uheramim baareț hazot.",
      "tokens": [
       {
-       "t": "Căci așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘"
+       "t": "Căci așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘",
+       "w": "Căci așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: ‘",
+       "heb": "כִּי כֹה אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל עוֹד",
+       "translit": "ki ho amar Adonai țevaot elohē israēl od",
+       "strong": "H3588",
+       "pos": "conjuncție + adverb + verb, qal perfect + nume propriu + substantiv + substantiv construct + nume propriu + adverb",
+       "def_ro": "căci așa a spus DOMNUL Oștirilor, Dumnezeul lui Israel: din nou.",
+       "dict_ro": "Metzudat David explică faptul că întreaga cumpărare și păstrare a actelor nu e o deșertăciune, chiar dacă caldeenii vor moșteni temporar țara — intenția e un semn clar că fiii lui Israel se vor întoarce și vor cumpăra din nou case acolo."
       },
       {
        "t": "Se vor mai cumpăra",
@@ -78425,7 +78565,14 @@
        "dict_ro": "Kana — „a cumpăra, a dobândi”; la forma pasivă, „vor fi cumpărate”. Acesta e miezul haftarei: în ajunul distrugerii, când ogoarele din jurul Ierusalimului erau deja în mâinile babilonienilor, DOMNUL poruncește o cumpărare ca semn că viața economică obișnuită va reveni. Metzudat David explică: să nu crezi că actul și vasul de lut sunt deșertăciune pentru că pământul va fi al caldeenilor — el e semn că Israel se va întoarce."
       },
       {
-       "t": " case, ogoare și vii pe pământul acesta.’»"
+       "t": " case, ogoare și vii pe pământul acesta.’»",
+       "w": " case, ogoare și vii pe pământul acesta.’»",
+       "heb": "בָתִּים וְשָׂדוֹת וּכְרָמִים בָּאָרֶץ הַזֹּאת",
+       "translit": "vatim vesadot uhramim baareț hazot",
+       "strong": "H1004",
+       "pos": "substantiv plural + substantiv plural + substantiv plural + substantiv + pronume demonstrativ",
+       "def_ro": "case și ogoare și vii, pe pământul acesta.",
+       "dict_ro": "Rashi notează simplu, în puține cuvinte, esența promisiunii: «în cele din urmă se vor cumpăra case» — certitudinea restaurării, oricât de îndepărtată ar fi părut în momentul asediului."
       }
      ],
      "textCompare": [
@@ -78481,7 +78628,14 @@
        "dict_ro": "Hitpalel — „a se ruga”, forma reflexivă a rădăcinii palal, „a judeca, a hotărî”: rugăciunea ebraică e, etimologic, o „judecare de sine” înaintea lui Dumnezeu. Rugăciunea care urmează (32:17-25) e una dintre cele mai lungi din Ieremia: profetul ascultă porunca, dar își pune înaintea lui Dumnezeu nedumerirea — cum să cumpere un ogor într-o cetate care e pe cale să cadă?"
       },
       {
-       "t": " DOMNULUI după ce i-am dat actul de vânzare lui Baruh, fiul lui Neria, spunând:"
+       "t": " DOMNULUI după ce i-am dat actul de vânzare lui Baruh, fiul lui Neria, spunând:",
+       "w": " DOMNULUI după ce i-am dat actul de vânzare lui Baruh, fiul lui Neria, spunând:",
+       "heb": "אֶל יְהוָה אַחֲרֵי תִתִּי אֶת סֵפֶר הַמִּקְנָה אֶל בָּרוּךְ בֶּן נֵרִיָּה לֵאמֹר",
+       "translit": "el Adonai aharē titi et sēfer hamikna el baruh ben nēria lēmor",
+       "strong": "H413",
+       "pos": "prepoziție + nume propriu + prepoziție + verb, qal infinitiv + sufix + marcă a complementului direct + substantiv + substantiv + prepoziție + nume propriu + substantiv construct + nume propriu + verb, qal infinitiv",
+       "def_ro": "către DOMNUL, după ce am dat actul cumpărării lui Baruh, fiul lui Neria, spunând.",
+       "dict_ro": "Metzudat David explică faptul că aici se pomenește doar actul de vânzare pecetluit, pentru scurtare, deși înțelesul include și actul deschis dat anterior — detaliul important e momentul rugăciunii, imediat după finalizarea tranzacției."
       }
      ],
      "textCompare": [
@@ -78518,7 +78672,17 @@
      "translit": "Aha Adonai ELOHIM hine ata asita et-hașamaim veet-haareț behohaha haghadol uvizroaha hanetuia lo-ipale mimha kol-davar.",
      "tokens": [
       {
-       "t": "«Vai, Stăpâne, Doamne DUMNEZEULE, iată – Tu ai făcut cerurile și pământul cu puterea Ta cea mare și cu brațul Tău cel întins, "
+       "t": "«Vai, Stăpâne, Doamne DUMNEZEULE, iată – Tu ai făcut cerurile și pământul cu puterea Ta cea mare și cu brațul Tău cel întins,",
+       "w": "«Vai, Stăpâne, Doamne DUMNEZEULE, iată – Tu ai făcut cerurile și pământul cu puterea Ta cea mare și cu brațul Tău cel întins,",
+       "heb": "אֲהָהּ אֲדֹנָי יְהוִה הִנֵּה אַתָּה עָשִׂיתָ אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ בְּכֹחֲךָ הַגָּדוֹל וּבִזְרֹעֲךָ הַנְּטוּיָה לֹא",
+       "translit": "ahah adonai Adonai hinē ata asita et hașamaim veet haareț behohaha hagadol uvizroaha hantuia lo",
+       "strong": "H162",
+       "pos": "interjecție + substantiv construct + sufix + nume propriu + particulă demonstrativă + pronume personal + verb, qal perfect + marcă a complementului direct + substantiv + marcă a complementului direct + substantiv + substantiv construct + sufix + adjectiv + substantiv construct + sufix + verb, qal participiu pasiv + particulă negativă",
+       "def_ro": "vai, Stăpânul meu, DOMNUL! Iată, Tu ai făcut cerurile și pământul cu puterea Ta cea mare și cu brațul Tău cel întins; nu.",
+       "dict_ro": "Metzudat David explică faptul că strigătul «Vai» e o tânguire autentică — Ieremia era întristat și nedumerit, căutând adevărata tâlcuire a poruncii de a cumpăra un ogor exact când cetatea era aproape să cadă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "niciun lucru nu este ascuns",
@@ -78533,7 +78697,14 @@
        "dict_ro": "Pala — „a fi minunat, a fi prea greu, a fi ascuns”; aceeași expresie o spune îngerul Sarei: „este oare ceva prea greu pentru DOMNUL?” (Geneza 18:14). Rashi o citește ca nedumerire: nimic nu-Ți e ascuns, deci știi că suntem sortiți exilului — de ce mi-ai spus să cumpăr un ogor? Iar DOMNUL îi va răspunde cu propriile lui cuvinte în 32:27: „există oare vreun lucru ascuns de Mine?”."
       },
       {
-       "t": " de Tine,"
+       "t": " de Tine,",
+       "w": " de Tine,",
+       "heb": "מִמְּךָ כָּל דָּבָר",
+       "translit": "mimha kal davar",
+       "strong": "H4480",
+       "pos": "prepoziție + sufix + substantiv construct + substantiv",
+       "def_ro": "de la Tine niciun lucru.",
+       "dict_ro": "Radak explică faptul că, de vreme ce DOMNUL a făcut cerurile și pământul, nimic din ce se petrece în ele nu-I poate fi ascuns — de aceea Ieremia se întreabă, în rugăciunea lui, de ce i s-a poruncit totuși să cumpere ogorul."
       }
      ],
      "textCompare": [
@@ -78584,7 +78755,17 @@
      "translit": "ose hesed laalafim umeșalem avon avot el-heik beneihem ahareihem ha'El hagadol haghibor ADONAI Țevaot șemo.",
      "tokens": [
       {
-       "t": "Cel care arăți milă la mii [de generații] și răsplătești păcatul părinților în sânul copiilor lor, după ei, "
+       "t": "Cel care arăți milă la mii [de generații] și răsplătești păcatul părinților în sânul copiilor lor, după ei,",
+       "w": "Cel care arăți milă la mii [de generații] și răsplătești păcatul părinților în sânul copiilor lor, după ei,",
+       "heb": "עֹשֶׂה חֶסֶד לַאֲלָפִים וּמְשַׁלֵּם עֲוֺן אָבוֹת אֶל חֵיק בְּנֵיהֶם אַחֲרֵיהֶם",
+       "translit": "ose hesed laalafim umșalēm avon avot el hēk benēhem aharēhem",
+       "strong": "H6213",
+       "pos": "verb, qal participiu + substantiv + numeral + verb, piel participiu + substantiv construct + substantiv + prepoziție + substantiv construct + sufix + prepoziție + sufix",
+       "def_ro": "cel care face milă la mii, și care răsplătește vina părinților în sânul fiilor lor, după ei.",
+       "dict_ro": "Talmudul Bavli (Yoma 69b) relatează cum Ieremia a omis titlul «înfricoșător», folosit de Moise la Deuteronom 10:17, exact pentru că neamurile dansau în Templu — unde erau atunci lucrările înfricoșătoare? Bărbații Marii Adunări au explicat mai târziu că răbdarea față de cei răi e, de fapt, cea mai mare putere a DOMNULUI."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Dumnezeul cel mare și puternic",
@@ -78599,7 +78780,14 @@
        "dict_ro": "HaEl hagadol hagibor — Moise spusese „Dumnezeul cel mare, puternic și înfricoșător” (Deuteronomul 10:17). Talmudul (Yoma 69b) observă că Ieremia a omis „înfricoșător”: a spus „neamurile petrec în Sanctuarul Lui — unde îi sunt lucrările înfricoșătoare?”, iar Daniel a omis „puternic”, văzând copiii lui Dumnezeu în robie; bărbații Marii Adunări au readus toate cele trei atribute, spunând că tocmai răbdarea față de cei răi este tăria Lui. De aici formula din rugăciunea zilnică Amida."
       },
       {
-       "t": ", numele Său este DOMNUL Oștirilor,"
+       "t": ", numele Său este DOMNUL Oștirilor,",
+       "w": ", numele Său este DOMNUL Oștirilor,",
+       "heb": "הַגָּדוֹל הַגִּבּוֹר יְהוָה צְבָאוֹת שְׁמוֹ",
+       "translit": "hagadol hagibor Adonai țevaot șemo",
+       "strong": "H1419",
+       "pos": "adjectiv + adjectiv + nume propriu + substantiv + substantiv construct + sufix",
+       "def_ro": "cel mare, cel puternic, DOMNUL Oștirilor [este] numele Lui.",
+       "dict_ro": "Rashi explică faptul că, deși a păstrat «mare și puternic», Ieremia a omis «înfricoșător», pentru că vedea neamurile dansând chiar în Sanctuarul DOMNULUI — o observație care a declanșat o întreagă dezbatere talmudică despre atributele divine potrivite fiecărei generații."
       }
      ],
      "textCompare": [
@@ -78659,7 +78847,14 @@
        "dict_ro": "Eța — sfatul, planul; „mare în sfat și măreț în întreprindere” pune alături planul divin și împlinirea lui. Metzudat David explică încheierea: Dumnezeu judecă omul nu doar după faptele lui, ci și după „rodul” lor — urmările pe care omul nu le-a urmărit, dar pentru care răspunde totuși. Radak adaugă că „ochii deschiși spre căile oamenilor” răspund celor care spuneau „DOMNUL nu ne vede” (Ezechiel 8:12)."
       },
       {
-       "t": " și măreț în întreprindere, ai cărui ochi sunt deschiși față de toate căile oamenilor, pentru a da oricărui om după calea sa și după rodul întreprinderilor sale,"
+       "t": " și măreț în întreprindere, ai cărui ochi sunt deschiși față de toate căile oamenilor, pentru a da oricărui om după calea sa și după rodul întreprinderilor sale,",
+       "w": " și măreț în întreprindere, ai cărui ochi sunt deschiși față de toate căile oamenilor, pentru a da oricărui om după calea sa și după rodul întreprinderilor sale,",
+       "heb": "וְרַב הָעֲלִילִיָּה אֲשֶׁר עֵינֶיךָ פְקֻחוֹת עַל כָּל דַּרְכֵי בְּנֵי אָדָם לָתֵת לְאִישׁ כִּדְרָכָיו וְכִפְרִי מַעֲלָלָיו",
+       "translit": "verav haalilia așer ēneha fekuhot al kal darhē benē adam latēt leiș kidrahaiv vehifri maalalaiv",
+       "strong": "H7227",
+       "pos": "adjectiv + substantiv + particulă relativă + substantiv dual construct + sufix + verb, qal participiu pasiv + prepoziție + substantiv construct + substantiv plural construct + substantiv plural construct + substantiv + verb, qal infinitiv + substantiv + substantiv plural construct + sufix + substantiv construct + substantiv plural construct + sufix",
+       "def_ro": "și mare în faptă, ai cărui ochi [sunt] deschiși asupra tuturor căilor fiilor omului, ca să dea fiecărui om după căile lui și după rodul faptelor lui.",
+       "dict_ro": "Metzudat David explică faptul că «rodul întreprinderilor sale» se referă la ceea ce urmează din faptele omului, chiar fără să fi fost intenția lui directă — și pentru aceasta va fi adus la judecată, nu doar pentru intenție."
       }
      ],
      "textCompare": [
@@ -78707,7 +78902,17 @@
      "translit": "așer-samta otot umoftim beereț Mițraim ad-haiom haze uve'Israel uvaadam vataase-leha șem kaiom haze.",
      "tokens": [
       {
-       "t": "cel care ai pus "
+       "t": "cel care ai pus",
+       "w": "cel care ai pus",
+       "heb": "אֲשֶׁר שַׂמְתָּ",
+       "translit": "așer samta",
+       "strong": "H834",
+       "pos": "particulă relativă + verb, qal perfect",
+       "def_ro": "care ai pus.",
+       "dict_ro": "Rashi explică faptul că semnele și minunile n-au fost doar pentru Israel, ci deodată și pentru egipteni — același înger a slujit ca întuneric pentru egipteni și ca lumină pentru israeliți, potrivit Exod 14:20."
+      },
+      {
+       "t": " "
       },
       {
        "t": "semne și minuni",
@@ -78722,7 +78927,14 @@
        "dict_ro": "Otot umoftim — perechea clasică pentru minunile din Egipt (Deuteronomul 6:22). Rashi și Radak aduc un midraș despre „în Israel și printre oameni”: aceeași minune a lucrat deodată spre bine pentru Israel și spre rău pentru egipteni — „norul era întuneric [pentru unii] și lumina noaptea [pentru ceilalți]” (Exodul 14:20). Metzudat David citește la fel: într-o singură lucrare, lumină pentru unii și întuneric pentru alții."
       },
       {
-       "t": " în țara Egiptului, [care sunt cunoscute] până în ziua de astăzi, și în Israel și în [ochii] omului, și care Ți-ai făcut un renume până în ziua aceasta"
+       "t": " în țara Egiptului, [care sunt cunoscute] până în ziua de astăzi, și în Israel și în [ochii] omului, și care Ți-ai făcut un renume până în ziua aceasta",
+       "w": " în țara Egiptului, [care sunt cunoscute] până în ziua de astăzi, și în Israel și în [ochii] omului, și care Ți-ai făcut un renume până în ziua aceasta",
+       "heb": "בְּאֶרֶץ מִצְרַיִם עַד הַיּוֹם הַזֶּה וּבְיִשְׂרָאֵל וּבָאָדָם וַתַּעֲשֶׂה לְּךָ שֵׁם כַּיּוֹם הַזֶּה",
+       "translit": "beereț mițraim ad haiom haze uvisraēl uvaadam vataase leha șēm kaiom haze",
+       "strong": "H776",
+       "pos": "substantiv construct + nume propriu + prepoziție + substantiv + pronume demonstrativ + nume propriu + substantiv + verb, qal imperfect consecutiv + prepoziție + sufix + substantiv + substantiv + pronume demonstrativ",
+       "def_ro": "în țara Egiptului, până în ziua aceasta, și în Israel și în om; și Ți-ai făcut un nume ca ziua aceasta.",
+       "dict_ro": "Radak explică faptul că aceste semne sunt cunoscute «printre oameni» chiar fără voia lor — renumele DOMNULUI nu depinde de recunoașterea voluntară, ci se impune prin însăși amploarea minunilor înfăptuite."
       }
      ],
      "textCompare": [
@@ -78770,7 +78982,17 @@
      "translit": "vatoțe et-amha et-Israel meereț Mițraim beotot uvemoftim uveiad hazaka uveezroa netuia uvemora gadol.",
      "tokens": [
       {
-       "t": "și ai scos pe poporul Tău, pe Israel, din țara Egiptului, cu semne și cu minuni, și cu mână puternică, și cu braț întins, și "
+       "t": "și ai scos pe poporul Tău, pe Israel, din țara Egiptului, cu semne și cu minuni, și cu mână puternică, și cu braț întins, și",
+       "w": "și ai scos pe poporul Tău, pe Israel, din țara Egiptului, cu semne și cu minuni, și cu mână puternică, și cu braț întins, și",
+       "heb": "וַתֹּצֵא אֶת עַמְּךָ אֶת יִשְׂרָאֵל מֵאֶרֶץ מִצְרָיִם בְּאֹתוֹת וּבְמוֹפְתִים וּבְיָד חֲזָקָה וּבְאֶזְרוֹעַ נְטוּיָה",
+       "translit": "vatoțē et amha et israēl mēereț mițraim beotot uvmoftim uviad hazaka uvezroa netuia",
+       "strong": "H3318",
+       "pos": "verb, hifil imperfect consecutiv + marcă a complementului direct + substantiv construct + sufix + marcă a complementului direct + nume propriu + substantiv construct + nume propriu + substantiv plural + substantiv plural + substantiv construct + adjectiv + substantiv + verb, qal participiu pasiv",
+       "def_ro": "și ai scos pe poporul Tău, pe Israel, din țara Egiptului, cu semne și cu minuni, și cu mână puternică, și cu braț întins.",
+       "dict_ro": "Metzudat David compară brațul întins cu imaginea unui viteaz care își întinde mâna asupra celui cu care se luptă — un gest de putere directă, nu doar de simbolism retoric."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cu mare înfricoșare",
@@ -78784,7 +79006,14 @@
        "dict_ro": "Mora — frica, groaza, dar și faptele care o stârnesc. Versetul reproduce aproape cuvânt cu cuvânt formula din Deuteronomul 26:8, recitată de cel ce aducea pârga la Templu și păstrată în Hagada de Pesah („cu mână tare, cu braț întins, cu mare înfricoșare, cu semne și minuni”); Hagada o interpretează drept „descoperirea Prezenței divine”. Metzudat David explică „înfricoșarea” ca spaima pe care Dumnezeu a pus-o asupra Egiptului."
       },
       {
-       "t": ","
+       "t": ",",
+       "w": ",",
+       "heb": "גָּדוֹל",
+       "translit": "gadol",
+       "strong": "H1419",
+       "pos": "adjectiv",
+       "def_ro": "mare.",
+       "dict_ro": "Metzudat David explică «mare înfricoșare» prin spaima pe care DOMNUL a adus-o asupra egiptenilor — o teroare reală provocată de puterea vizibilă a minunilor."
       }
      ],
      "textCompare": [
@@ -78832,7 +79061,17 @@
      "translit": "vatiten lahem et-haareț hazot așer-nișbata laavotam latet lahem ereț zavat halav udevaș.",
      "tokens": [
       {
-       "t": "și le-ai dat această țară pe care ai jurat-o strămoșilor lor să le-o dai, o țară "
+       "t": "și le-ai dat această țară pe care ai jurat-o strămoșilor lor să le-o dai, o țară",
+       "w": "și le-ai dat această țară pe care ai jurat-o strămoșilor lor să le-o dai, o țară",
+       "heb": "וַתִּתֵּן לָהֶם אֶת הָאָרֶץ הַזֹּאת אֲשֶׁר נִשְׁבַּעְתָּ לַאֲבוֹתָם לָתֵת לָהֶם אֶרֶץ",
+       "translit": "vatitēn lahem et haareț hazot așer nișbata laavotam latēt lahem ereț",
+       "strong": "H5414",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + marcă a complementului direct + substantiv + pronume demonstrativ + particulă relativă + verb, nifal perfect + substantiv plural construct + sufix + verb, qal infinitiv + prepoziție + sufix + substantiv",
+       "def_ro": "și le-ai dat lor țara aceasta, pe care ai jurat-o strămoșilor lor să le-o dai, o țară.",
+       "dict_ro": "Repetarea exactă a formulei jurământului confirmă fidelitatea DOMNULUI față de promisiunea veche făcută patriarhilor — darul țării nu e o noutate, ci împlinirea unui legământ străvechi."
+      },
+      {
+       "t": " "
       },
       {
        "t": "în care curge lapte și miere",
@@ -78847,7 +79086,14 @@
        "dict_ro": "Zava — „a curge, a picura”; „țara în care curge lapte și miere” e formula făgăduinței din Exodul 3:8. Metzudat David o explică la propriu: laptele picură din ugerele vitelor, care pasc pășune grasă, iar din curmali picură „mierea”, adică siropul de curmale. Aici, la mijlocul rugăciunii, formula are o amărăciune aparte: țara făgăduinței e tocmai cea pe care cetatea asediată e pe cale s-o piardă."
       },
       {
-       "t": "."
+       "t": ".",
+       "w": ".",
+       "heb": "חָלָב וּדְבָשׁ",
+       "translit": "halav udvaș",
+       "strong": "H2461",
+       "pos": "substantiv + substantiv",
+       "def_ro": "lapte și miere.",
+       "dict_ro": "Metzudat David explică faptul că laptele picură din ugerele vitelor hrănite pe pășune grasă, iar mierea picură din curmale — o imagine a belșugului natural al țării promise."
       }
      ],
      "textCompare": [
@@ -78891,7 +79137,17 @@
      "translit": "Vaiavou vairșu ota velo-șameu vekoleha uvetoratha lo-halahu et kol-așer țivita lahem laasot lo asu vatakre otam et kol-haraa hazot.",
      "tokens": [
       {
-       "t": "Ei au venit și au luat în stăpânire [țara Canaanului], dar nu au ascultat de glasul Tău, după învățătura Ta nu au mers, tot ce le-ai poruncit să facă nu au făcut și [de aceea] "
+       "t": "Ei au venit și au luat în stăpânire [țara Canaanului], dar nu au ascultat de glasul Tău, după învățătura Ta nu au mers, tot ce le-ai poruncit să facă nu au făcut și [de aceea]",
+       "w": "Ei au venit și au luat în stăpânire [țara Canaanului], dar nu au ascultat de glasul Tău, după învățătura Ta nu au mers, tot ce le-ai poruncit să facă nu au făcut și [de aceea]",
+       "heb": "וַיָּבֹאוּ וַיִּרְשׁוּ אֹתָהּ וְלֹא שָׁמְעוּ בְקוֹלֶךָ וּבְתוֹרָתְךָ לֹא הָלָכוּ אֵת כָּל אֲשֶׁר צִוִּיתָה לָהֶם לַעֲשׂוֹת לֹא עָשׂוּ",
+       "translit": "vaiavou vairșu otah velo șamu vekoleha uvtoratha lo halahu ēt kal așer țivita lahem laasot lo asu",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + marcă a complementului direct + sufix + particulă negativă + verb, qal perfect + substantiv construct + sufix + substantiv construct + sufix + particulă negativă + verb, qal perfect + marcă a complementului direct + substantiv construct + particulă relativă + verb, piel perfect + prepoziție + sufix + verb, qal infinitiv + particulă negativă + verb, qal perfect",
+       "def_ro": "și au venit și au luat-o în stăpânire, și n-au ascultat de glasul Tău, și în învățătura Ta n-au umblat; tot ce le-ai poruncit să facă nu au făcut, și.",
+       "dict_ro": "Radak explică faptul că cuvântul «vatakre» e scris cu alef în loc de he, ca să arate că răul venit asupra lor nu este o întâmplare oarbă, ci ceva ce DOMNUL Însuși a făcut să se întâmple — nu «mikre» (soartă), ci voie dreaptă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Tu ai făcut să li se întâmple",
@@ -78906,7 +79162,14 @@
        "dict_ro": "Kara (cu alef în loc de he) — „a întâmpina, a se întâmpla”, de unde mikre, „întâmplare”. Radak observă că forma e scrisă cu alef și vede aici o intenție: răul venit asupra lor nu e o întâmplare oarbă, venită de la sine, ci Dumnezeu Însuși l-a făcut să vină. Metzudat David leagă cauza de efect: pentru că n-au ascultat, le-ai adus nenorocirea descrisă în versetul următor."
       },
       {
-       "t": " tot acest rău."
+       "t": " tot acest rău.",
+       "w": " tot acest rău.",
+       "heb": "אֹתָם אֵת כָּל הָרָעָה הַזֹּאת",
+       "translit": "otam ēt kal haraa hazot",
+       "strong": "H853",
+       "pos": "marcă a complementului direct + sufix + marcă a complementului direct + substantiv construct + substantiv + pronume demonstrativ",
+       "def_ro": "pe ei, tot răul acesta.",
+       "dict_ro": "Rashi explică «ai făcut să vină asupra lor» ca pe o expresie a «întâmplării» (mikre), dar Radak nuanțează: nu e o întâmplare deplină venită de la sine, ci DOMNUL Însuși a adus-o, în dreapta Sa judecată."
       }
      ],
      "textCompare": [
@@ -78958,7 +79221,17 @@
      "translit": "Hine hasolelot bau hair lelohdha vehair nitna beiad hakasdim hanilhamim aleha mipenei haherev veharaav vehadaver vaașer dibarta haia vehinha roe.",
      "tokens": [
       {
-       "t": "Iată, "
+       "t": "Iată,",
+       "w": "Iată,",
+       "heb": "הִנֵּה",
+       "translit": "hinē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă",
+       "def_ro": "iată.",
+       "dict_ro": "Radak traduce «hasolelot» ca pe un tell de țărână strâns în jurul zidului cetății, pentru ca atacatorii să se poată ridica pe el și să cucerească zidul — o tehnică de asediu confirmată prin traducerea lui Ionatan: «valurile au urcat asupra cetății»."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pe rampe înălțate de pământ",
@@ -78972,7 +79245,14 @@
        "dict_ro": "Solela — movila sau rampa de pământ înălțată lângă zidul unei cetăți asediate, ca atacatorii să poată urca pe ea; Metzudat Țion o descrie ca „tell de țărână vărsat în fața cetății, ca să se urce pe ea”. Radak aduce și o altă lectură: mașinile care aruncau pietre în ziduri. Prin „și Tu vezi asta!”, profetul Îl ia pe Dumnezeu martor: cuvântul de pedeapsă s-a împlinit sub ochii tuturor."
       },
       {
-       "t": " au venit la oraș să-l cucerească și orașul a fost predat în mâna caldeenilor care îl atacau, din pricina sabiei, a foametei și a molimei, iar ceea ce ai spus Tu [așa] a fost și Tu vezi asta!"
+       "t": " au venit la oraș să-l cucerească și orașul a fost predat în mâna caldeenilor care îl atacau, din pricina sabiei, a foametei și a molimei, iar ceea ce ai spus Tu [așa] a fost și Tu vezi asta!",
+       "w": " au venit la oraș să-l cucerească și orașul a fost predat în mâna caldeenilor care îl atacau, din pricina sabiei, a foametei și a molimei, iar ceea ce ai spus Tu [așa] a fost și Tu vezi asta!",
+       "heb": "בָּאוּ הָעִיר לְלָכְדָהּ וְהָעִיר נִתְּנָה בְּיַד הַכַּשְׂדִּים הַנִּלְחָמִים עָלֶיהָ מִפְּנֵי הַחֶרֶב וְהָרָעָב וְהַדָּבֶר וַאֲשֶׁר דִּבַּרְתָּ הָיָה וְהִנְּךָ רֹאֶה",
+       "translit": "bau hair lelahdah vehair nitna beiad hakasdim hanilhamim aleha mipnē haherev veharaav vehadaver vaașer dibarta haia vehinha roe",
+       "strong": "H935",
+       "pos": "verb, qal perfect + substantiv + verb, qal infinitiv + sufix + substantiv + verb, nifal perfect + substantiv construct + nume propriu + verb, nifal participiu + prepoziție + sufix + substantiv construct + substantiv + substantiv + substantiv + particulă relativă + verb, piel perfect + verb, qal perfect + interjecție + sufix + verb, qal participiu",
+       "def_ro": "au venit la cetate ca s-o cucerească, și cetatea a fost dată în mâna caldeenilor care luptă împotriva ei, din pricina sabiei și a foametei și a molimei; și ceea ce ai vorbit s-a împlinit, și iată, Tu vezi.",
+       "dict_ro": "Metzudat David explică faptul că locuitorii cetății n-au putere să-i mai împiedice pe atacatori, fiind sfârșiți de sabie, foamete și molimă — Ieremia mărturisește direct înaintea DOMNULUI că profeția rostită de mult s-a împlinit exact cum fusese vestită."
       }
      ],
      "textCompare": [
@@ -79024,7 +79304,17 @@
      "translit": "Veata amarta elai Adonai ELOHIM kene-leha hasade bakesef vehaed edim vehair nitna beiad hakasdim.",
      "tokens": [
       {
-       "t": "Și totuși, Tu mi-ai spus, Stăpâne, Doamne DUMNEZEULE: «Cumpără pentru tine cu argint un ogor și "
+       "t": "Și totuși, Tu mi-ai spus, Stăpâne, Doamne DUMNEZEULE: «Cumpără pentru tine cu argint un ogor și",
+       "w": "Și totuși, Tu mi-ai spus, Stăpâne, Doamne DUMNEZEULE: «Cumpără pentru tine cu argint un ogor și",
+       "heb": "וְאַתָּה אָמַרְתָּ אֵלַי אֲדֹנָי יְהוִה קְנֵה לְךָ הַשָּׂדֶה בַּכֶּסֶף",
+       "translit": "veata amarta ēlai adonai Adonai kenē leha hasade bakesef",
+       "strong": "H859",
+       "pos": "pronume personal + verb, qal perfect + prepoziție + sufix + substantiv construct + sufix + nume propriu + verb, qal imperativ + prepoziție + sufix + substantiv + substantiv",
+       "def_ro": "și Tu mi-ai spus, Stăpânul meu, DOMNUL: cumpără-ți ogorul cu argint.",
+       "dict_ro": "Metzudat David explică faptul că Ieremia se întreabă nedumerit ce rost mai are cumpărarea ogorului și chemarea martorilor, după obiceiul cumpărătorilor obișnuiți, de vreme ce cetatea e deja dată în mâna caldeenilor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "numește martori",
@@ -79039,7 +79329,14 @@
        "dict_ro": "Ed — martorul; profetul își încheie rugăciunea punând alături porunca și realitatea: „cumpără și cheamă martori — dar cetatea a fost dată caldeenilor!”. Rashi o rezumă: ce folos îmi mai e ogorul? Metzudat David precizează o nuanță importantă: deși Ieremia însuși îi spusese lui Baruh că e un semn al întoarcerii (32:15), acum vorbește din gândurile inimii lui, căci profeția încă nu-i fusese descoperită pe deplin — răspunsul vine în versetele următoare."
       },
       {
-       "t": " – dar orașul a fost predat caldeenilor!»”"
+       "t": " – dar orașul a fost predat caldeenilor!»”",
+       "w": " – dar orașul a fost predat caldeenilor!»”",
+       "heb": "וְהָעִיר נִתְּנָה בְּיַד הַכַּשְׂדִּים",
+       "translit": "vehair nitna beiad hakasdim",
+       "strong": "H5892",
+       "pos": "substantiv + verb, nifal perfect + substantiv construct + nume propriu",
+       "def_ro": "și cetatea a fost dată în mâna caldeenilor.",
+       "dict_ro": "Rashi observă, scurt și direct, întrebarea implicită a lui Ieremia: «ce folos îmi mai este ogorul?» — contrastul dintre porunca divină și realitatea militară pare, pentru profet, o contradicție de neînțeles."
       }
      ],
      "textCompare": [
@@ -79078,7 +79375,17 @@
      "translit": "Vaihi devar-ADONAI el-Irmeiahu lemor.",
      "tokens": [
       {
-       "t": "Și apoi a venit "
+       "t": "Și apoi a venit",
+       "w": "Și apoi a venit",
+       "heb": "וַיְהִי",
+       "translit": "vaihi",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a fost.",
+       "dict_ro": "Răspunsul DOMNULUI vine imediat după rugăciunea tulburată a lui Ieremia — profeția nu întârzie în fața nedumeririi sincere a profetului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cuvântul DOMNULUI",
@@ -79093,7 +79400,14 @@
        "dict_ro": "Devar ADONAI — răspunsul divin vine imediat după rugăciune. Din punct de vedere liturgic, haftara se oprește aici, cu primul verset al răspunsului (32:27), iar comunitățile Chabad se opresc chiar mai devreme, după 32:22; continuarea capitolului (32:28-44) dezvoltă promisiunea: pedeapsa va veni, dar DOMNUL îi va aduna din nou și se vor cumpăra ogoare „în ținutul lui Beniamin și în împrejurimile Ierusalimului” (32:44)."
       },
       {
-       "t": " la Ieremia, spunând:"
+       "t": " la Ieremia, spunând:",
+       "w": " la Ieremia, spunând:",
+       "heb": "יְהוָה אֶל יִרְמְיָהוּ לֵאמֹר",
+       "translit": "Adonai el irmeiahu lēmor",
+       "strong": "H3068",
+       "pos": "nume propriu + prepoziție + nume propriu + verb, qal infinitiv",
+       "def_ro": "DOMNUL, la Ieremia, spunând.",
+       "dict_ro": "Formula standard de introducere profetică pregătește răspunsul direct al DOMNULUI, care va dezlega chiar nedumerirea exprimată în rugăciunea precedentă."
       }
      ],
      "textCompare": [
@@ -79121,7 +79435,17 @@
      "translit": "Hine ani ADONAI Elohei kol-basar hamimeni ipale kol-davar.",
      "tokens": [
       {
-       "t": "„Iată, Eu sunt DOMNUL, "
+       "t": "„Iată, Eu sunt DOMNUL,",
+       "w": "„Iată, Eu sunt DOMNUL,",
+       "heb": "הִנֵּה אֲנִי יְהוָה אֱלֹהֵי",
+       "translit": "hinē ani Adonai elohē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă + pronume personal + nume propriu + substantiv plural construct",
+       "def_ro": "iată, Eu [sunt] DOMNUL, Dumnezeul.",
+       "dict_ro": "Metzudat David explică faptul că DOMNUL Se identifică aici ca Dumnezeul întregii creații, temei direct pentru întrebarea retorică ce urmează: dacă e Dumnezeul lumii, cum ar putea exista ceva care să-I fie imposibil?"
+      },
+      {
+       "t": " "
       },
       {
        "t": "Dumnezeul tuturor făpturilor",
@@ -79136,7 +79460,14 @@
        "dict_ro": "Kol basar — „toată carnea”, adică orice făptură vie; titlul apare în Tora în rugăciunea lui Moise, „Dumnezeul duhurilor oricărei făpturi” (Numeri 16:22; 27:16). Răspunsul lui Dumnezeu reia chiar cuvintele profetului din 32:17 („niciun lucru nu este ascuns de Tine”): da, știu că cetatea va cădea, spune Radak, și totuși ți-am poruncit să cumperi ogorul, ca să le fie mângâiere că se vor întoarce din exil și vor cumpăra iarăși ogoare și case."
       },
       {
-       "t": ". Există oare vreun lucru ascuns de Mine?”"
+       "t": ". Există oare vreun lucru ascuns de Mine?”",
+       "w": ". Există oare vreun lucru ascuns de Mine?”",
+       "heb": "הֲמִמֶּנִּי יִפָּלֵא כָּל דָּבָר",
+       "translit": "hamimeni ipalē kal davar",
+       "strong": "H4480",
+       "pos": "prepoziție + sufix + verb, nifal imperfect + substantiv construct + substantiv",
+       "def_ro": "de la Mine va fi oare ascuns vreun lucru?",
+       "dict_ro": "Radak explică faptul că răspunsul DOMNULUI confirmă explicit: nimic nu-I e ascuns, știa deja că cetatea va fi dată în mâna caldeenilor — și totuși i-a poruncit lui Ieremia să cumpere ogorul, ca mângâiere a întoarcerii viitoare din exil."
       }
      ],
      "textCompare": [
