@@ -47188,7 +47188,20 @@
        "dict_ro": "Rădăcina halakh, „a merge” — repetat de patru ori în acest scurt verset, structura chiastică accentuând dependența totală a lui Barak de prezența fizică a Devorei ca garanție a prezenței divine — o ezitare pe care ea o va interpreta, la versetul următor, ca pierdere a onoarei cuvenite unui comandant."
       },
       {
-       "t": " cu mine, atunci voi merge, dar dacă nu vei merge cu mine, nu voi merge!”"
+       "t": " "
+      },
+      {
+       "t": "cu mine, atunci voi merge, dar dacă nu vei merge cu mine, nu voi merge",
+       "w": "cu mine, atunci voi merge, dar dacă nu vei merge cu mine, nu voi merge",
+       "heb": "עִמִּי וְהָלָכְתִּי וְאִם לֹא תֵלְכִי עִמִּי לֹא אֵלֵךְ",
+       "translit": "imi vehalahti veim lo tēlhi imi lo ēlēh",
+       "strong": "H3212",
+       "pos": "prepoziție + sufix + verb, qal perfect consecutiv + conjuncție + particulă negativă + verb, qal imperfect (repetat negativ)",
+       "def_ro": "cu mine, voi merge; și dacă nu vei merge cu mine, nu voi merge.",
+       "dict_ro": "Talmudul (Bava Kama 92b) citează exact acest verset ca sursă a proverbului popular «dacă ridici povara cu mine, o ridic; dacă nu, n-o ridic» — Barak condiționează explicit participarea sa la război de prezența lui Devora alături de el, semn al încrederii sale în prezența profetică, nu doar în planul militar."
+      },
+      {
+       "t": "!”"
       }
      ],
      "textCompare": [
@@ -47568,7 +47581,20 @@
        "dict_ro": "Rădăcina qum, „a se ridica” — comandă scurtă, imperativă, de inițiere a atacului; Devora funcționează aici explicit ca voce profetică ce transmite direct hotărârea divină, nu ca simplu sfat strategic personal."
       },
       {
-       "t": ", căci aceasta este ziua în care l-a dat DOMNUL pe Sisra în mâinile tale! Oare nu a "
+       "t": ", "
+      },
+      {
+       "t": "căci aceasta este ziua în care l-a dat DOMNUL pe Sisra în mâinile tale",
+       "w": "căci aceasta este ziua în care l-a dat DOMNUL pe Sisra în mâinile tale",
+       "heb": "כִּי זֶה הַיּוֹם אֲשֶׁר נָתַן יְהוָה אֶת סִיסְרָא בְּיָדֶךָ",
+       "translit": "ki ze haiom așer natan Adonai et sisra beiadeha",
+       "strong": "H2088",
+       "pos": "conjuncție + pronume demonstrativ + substantiv + particulă relativă + verb, qal perfect + nume propriu + marcă a complementului direct + nume propriu + substantiv construct + sufix",
+       "def_ro": "căci aceasta e ziua în care DOMNUL l-a dat pe Sisra în mâna ta.",
+       "dict_ro": "Metzudat David explică faptul că hotărârea e dată — Barak nu mai poate zăbovi pe munte, întărindu-se, căci victoria de astăzi e deja decisă de DOMNUL, nu de o pregătire militară îndelungată."
+      },
+      {
+       "t": "! Oare nu a "
       },
       {
        "t": "mers",
@@ -49063,7 +49089,20 @@
        "dict_ro": "Rădăcina tanah, „a povesti, a repeta [o istorisire]” — verb rar, aceeași rădăcină folosită la Judecători 11:40 pentru comemorarea anuală a fiicei lui Iefta; sugerează instituirea unei tradiții narative repetate, nu doar o mențiune trecătoare."
       },
       {
-       "t": " faptele miloase ale DOMNULUI, faptele miloase ale orașelor Sale fără apărare din Israel. Atunci va coborî la porți poporul DOMNULUI."
+       "t": " faptele miloase ale DOMNULUI, faptele miloase ale orașelor Sale fără apărare din Israel. "
+      },
+      {
+       "t": "Atunci va coborî la porți poporul DOMNULUI",
+       "w": "Atunci va coborî la porți poporul DOMNULUI",
+       "heb": "אָז יָרְדוּ לַשְּׁעָרִים עַם יְהוָה",
+       "translit": "az iardu lașarim am Adonai",
+       "strong": "H227",
+       "pos": "adverb + verb, qal perfect + substantiv + substantiv construct + nume propriu",
+       "def_ro": "atunci a coborât la porți poporul DOMNULUI.",
+       "dict_ro": "Radak explică faptul că, odată încetat zgomotul arcașilor vrăjmași, poporul va putea coborî din nou, în siguranță, în cetățile sale deschise și fără apărare — imaginea pășunii recăpătate a liniștii cotidiene, după anii de drumuri ocolite menționați la începutul cântării."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -50521,7 +50560,20 @@
        "dict_ro": "Tseva, „culoare, vopsea” — textile scumpe, vopsite, semn de lux și bogăție materială pe care armata cananeeană spera să le jefuiască de la Israel, dublând jaful uman cu cel material."
       },
       {
-       "t": " pentru Sisra, pradă de broderie colorată, veșminte dublu brodate pentru grumazul prădătorilor.»"
+       "t": " pentru Sisra, pradă de broderie colorată, "
+      },
+      {
+       "t": "veșminte dublu brodate pentru grumazul prădătorilor",
+       "w": "veșminte dublu brodate pentru grumazul prădătorilor",
+       "heb": "רִקְמָה צֶבַע רִקְמָתַיִם לְצַוְּארֵי שָׁלָל",
+       "translit": "rikma țeva rikmataim lețaurē șalal",
+       "strong": "H7553",
+       "pos": "substantiv + substantiv construct + substantiv dual + substantiv plural construct + substantiv",
+       "def_ro": "broderie, [haină] colorată, broderie dublă pentru gâturile prăzii.",
+       "dict_ro": "Rashi explică faptul că mama lui Sisra și prințesele ei imaginau deja, în mintea lor nerăbdătoare, prada luxoasă pe care fiul ei avea să o aducă — nu doar bunuri, ci femei luate captive și veșminte fine, imagine a lăcomiei care precedă căderea neștiută încă a lui Sisra."
+      },
+      {
+       "t": ".»"
       }
      ],
      "textCompare": [
@@ -50575,7 +50627,33 @@
        "dict_ro": "Rădăcina avad, „a pieri” — verset final încheie tema cântării printr-o dorință generalizată, valabilă dincolo de conflictul particular cu Sisra: soarta oricărui dușman al DOMNULUI, contrastată direct cu strălucirea promisă celor ce-L iubesc."
       },
       {
-       "t": " toți dușmanii Tăi, DOAMNE! Și fie ca aceia care Îl iubesc [pe DOMNUL] să ajungă precum "
+       "t": " "
+      },
+      {
+       "t": "toți dușmanii Tăi, DOAMNE",
+       "w": "toți dușmanii Tăi, DOAMNE",
+       "heb": "כָל אוֹיְבֶיךָ יְהוָה",
+       "translit": "hal oiveha Adonai",
+       "strong": "H341",
+       "pos": "substantiv construct + verb, qal participiu + sufix + nume propriu",
+       "def_ro": "toți vrăjmașii Tăi, DOAMNE.",
+       "dict_ro": "Rashi explică faptul că Devora identifică soarta personală a lui Sisra cu soarta tuturor vrăjmașilor DOMNULUI — rugăciunea finală a cântării transformă victoria particulară într-un principiu general al judecății divine."
+      },
+      {
+       "t": "! Și fie ca "
+      },
+      {
+       "t": "aceia care Îl iubesc",
+       "w": "aceia care Îl iubesc",
+       "heb": "וְאֹהֲבָיו",
+       "translit": "veohavaiv",
+       "strong": "H157",
+       "pos": "verb, qal participiu + sufix",
+       "def_ro": "și cei care Îl iubesc.",
+       "dict_ro": "Rashi explică faptul că cei ce-L iubesc pe DOMNUL vor fi «ca soarele când răsare în puterea lui» — o referire la lumina viitoare, de șapte ori mai puternică, promisă celor drepți în vremea mesianică (Isaia 30:26)."
+      },
+      {
+       "t": " [pe DOMNUL] să ajungă precum "
       },
       {
        "t": "soarele în puterea sa",

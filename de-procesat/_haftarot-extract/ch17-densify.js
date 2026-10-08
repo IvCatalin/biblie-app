@@ -1,0 +1,18 @@
+module.exports = [
+{v:"4:8", newTags:[
+  ["cu mine, atunci voi merge, dar dacă nu vei merge cu mine, nu voi merge", {heb:"עִמִּי וְהָלָכְתִּי וְאִם לֹא תֵלְכִי עִמִּי לֹא אֵלֵךְ", translit:"imi vehalahti veim lo tēlhi imi lo ēlēh", strong:"H3212", pos:"prepoziție + sufix + verb, qal perfect consecutiv + conjuncție + particulă negativă + verb, qal imperfect (repetat negativ)", def_ro:"cu mine, voi merge; și dacă nu vei merge cu mine, nu voi merge.", dict_ro:"Talmudul (Bava Kama 92b) citează exact acest verset ca sursă a proverbului popular «dacă ridici povara cu mine, o ridic; dacă nu, n-o ridic» — Barak condiționează explicit participarea sa la război de prezența lui Devora alături de el, semn al încrederii sale în prezența profetică, nu doar în planul militar."}]
+]},
+{v:"4:14", newTags:[
+  ["căci aceasta este ziua în care l-a dat DOMNUL pe Sisra în mâinile tale", {heb:"כִּי זֶה הַיּוֹם אֲשֶׁר נָתַן יְהוָה אֶת סִיסְרָא בְּיָדֶךָ", translit:"ki ze haiom așer natan Adonai et sisra beiadeha", strong:"H2088", pos:"conjuncție + pronume demonstrativ + substantiv + particulă relativă + verb, qal perfect + nume propriu + marcă a complementului direct + nume propriu + substantiv construct + sufix", def_ro:"căci aceasta e ziua în care DOMNUL l-a dat pe Sisra în mâna ta.", dict_ro:"Metzudat David explică faptul că hotărârea e dată — Barak nu mai poate zăbovi pe munte, întărindu-se, căci victoria de astăzi e deja decisă de DOMNUL, nu de o pregătire militară îndelungată."}]
+]},
+{v:"5:11", newTags:[
+  ["Atunci va coborî la porți poporul DOMNULUI", {heb:"אָז יָרְדוּ לַשְּׁעָרִים עַם יְהוָה", translit:"az iardu lașarim am Adonai", strong:"H227", pos:"adverb + verb, qal perfect + substantiv + substantiv construct + nume propriu", def_ro:"atunci a coborât la porți poporul DOMNULUI.", dict_ro:"Radak explică faptul că, odată încetat zgomotul arcașilor vrăjmași, poporul va putea coborî din nou, în siguranță, în cetățile sale deschise și fără apărare — imaginea pășunii recăpătate a liniștii cotidiene, după anii de drumuri ocolite menționați la începutul cântării."}]
+]},
+{v:"5:30", newTags:[
+  ["veșminte dublu brodate pentru grumazul prădătorilor", {heb:"רִקְמָה צֶבַע רִקְמָתַיִם לְצַוְּארֵי שָׁלָל", translit:"rikma țeva rikmataim lețaurē șalal", strong:"H7553", pos:"substantiv + substantiv construct + substantiv dual + substantiv plural construct + substantiv", def_ro:"broderie, [haină] colorată, broderie dublă pentru gâturile prăzii.", dict_ro:"Rashi explică faptul că mama lui Sisra și prințesele ei imaginau deja, în mintea lor nerăbdătoare, prada luxoasă pe care fiul ei avea să o aducă — nu doar bunuri, ci femei luate captive și veșminte fine, imagine a lăcomiei care precedă căderea neștiută încă a lui Sisra."}]
+]},
+{v:"5:31", newTags:[
+  ["toți dușmanii Tăi, DOAMNE", {heb:"כָל אוֹיְבֶיךָ יְהוָה", translit:"hal oiveha Adonai", strong:"H341", pos:"substantiv construct + verb, qal participiu + sufix + nume propriu", def_ro:"toți vrăjmașii Tăi, DOAMNE.", dict_ro:"Rashi explică faptul că Devora identifică soarta personală a lui Sisra cu soarta tuturor vrăjmașilor DOMNULUI — rugăciunea finală a cântării transformă victoria particulară într-un principiu general al judecății divine."}],
+  ["aceia care Îl iubesc", {heb:"וְאֹהֲבָיו", translit:"veohavaiv", strong:"H157", pos:"verb, qal participiu + sufix", def_ro:"și cei care Îl iubesc.", dict_ro:"Rashi explică faptul că cei ce-L iubesc pe DOMNUL vor fi «ca soarele când răsare în puterea lui» — o referire la lumina viitoare, de șapte ori mai puternică, promisă celor drepți în vremea mesianică (Isaia 30:26)."}]
+]}
+];
