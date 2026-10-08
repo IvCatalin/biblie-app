@@ -76576,7 +76576,17 @@
      "translit": "Vehakohanim haleviim benei Țadok așer șamru et-mișmeret mikdași bitot benei-Israël mealai hema yikrevu elai leșarteni veamdu lefanai lehakriv li helev vadam neum Adonai ELOHIM.",
      "tokens": [
       {
-       "t": "Iar preoții leviți – "
+       "t": "Iar preoții leviți –",
+       "w": "Iar preoții leviți –",
+       "heb": "וְהַכֹּהֲנִים הַלְוִיִּם",
+       "translit": "vehakohanim halvim",
+       "strong": "H3548",
+       "pos": "substantiv plural + nume de neam",
+       "def_ro": "și preoții leviți.",
+       "dict_ro": "Rashi precizează că acești preoți sunt numiți după Țadok pentru că el a fost marele preot care a slujit primul în Sanctuarul din zilele lui Solomon — numele lui devine astfel sinonim cu linia preoțească fidelă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "fiii lui Țadok",
@@ -76591,7 +76601,14 @@
        "dict_ro": "Țadok — marele preot din vremea lui David și Solomon (1 Împărați 2:35), numit, după Rashi, pentru că a fost primul care a slujit ca mare preot în Templul lui Solomon; numele lui înseamnă „drept”. Ezechiel le rezervă urmașilor lui slujirea din viitorul Templu, pentru că ei „au păzit sarcina Sanctuarului” atunci când restul poporului s-a abătut; Radak explică contrastul: preoții care s-au rătăcit nu se vor mai întoarce la slujire, pe când cei care n-au rătăcit o vor primi înapoi."
       },
       {
-       "t": ", care au păzit sarcina Sanctuarului Meu atunci când copiii lui Israel s-au abătut de la Mine – ei să se apropie de Mine ca să-Mi slujească și să stea în picioare în fața Mea ca să-Mi aducă grăsime și sânge – rostirea Stăpânului meu, Domnul DUMNEZEU."
+       "t": ", care au păzit sarcina Sanctuarului Meu atunci când copiii lui Israel s-au abătut de la Mine – ei să se apropie de Mine ca să-Mi slujească și să stea în picioare în fața Mea ca să-Mi aducă grăsime și sânge – rostirea Stăpânului meu, Domnul DUMNEZEU.",
+       "w": ", care au păzit sarcina Sanctuarului Meu atunci când copiii lui Israel s-au abătut de la Mine – ei să se apropie de Mine ca să-Mi slujească și să stea în picioare în fața Mea ca să-Mi aducă grăsime și sânge – rostirea Stăpânului meu, Domnul DUMNEZEU.",
+       "heb": "בְּנֵי אֲשֶׁר שָׁמְרוּ אֶת מִשְׁמֶרֶת מִקְדָּשִׁי בִּתְעוֹת בְּנֵי יִשְׂרָאֵל מֵעָלַי הֵמָּה יִקְרְבוּ אֵלַי לְשָׁרְתֵנִי וְעָמְדוּ לְפָנַי לְהַקְרִיב לִי חֵלֶב וָדָם נְאֻם אֲדֹנָי יְהוִה",
+       "translit": "benē așer șamru et mișmeret mikdași bitot benē israēl mēalai hēma ikrevu ēlai leșartēni veamdu lefanai lehakriv li hēlev vadam neum adonai Adonai",
+       "strong": "H1121",
+       "pos": "substantiv plural construct + particulă relativă + verb, qal perfect + marcă a complementului direct + substantiv construct + substantiv construct + sufix + verb, qal infinitiv + substantiv plural construct + nume propriu + prepoziție + sufix + pronume personal + verb, qal imperfect + prepoziție + sufix + verb, piel infinitiv + sufix + verb, qal perfect consecutiv + substantiv construct + sufix + verb, hifil infinitiv + prepoziție + sufix + substantiv + substantiv + substantiv construct + substantiv construct + sufix + nume propriu",
+       "def_ro": "fiii [lui Țadok], care au păzit sarcina Sanctuarului Meu când s-au abătut copiii lui Israel de la Mine; ei se vor apropia de Mine ca să-Mi slujească și vor sta înaintea Mea ca să-Mi aducă grăsime și sânge — rostirea Stăpânului meu, DOMNUL.",
+       "dict_ro": "Radak explică faptul că, deoarece profeția precizase deja că preoții care s-au rătăcit nu se vor mai întoarce în viitor la slujire, acum arată explicit că cei care au rămas fideli — fiii lui Țadok — se vor întoarce la rânduiala lor completă."
       }
      ],
      "textCompare": [
@@ -76639,7 +76656,17 @@
      "translit": "Hema yavou el-mikdași vehema yikrevu el-șulhani leșarteni veșamru et-mișmarti.",
      "tokens": [
       {
-       "t": "Ei să vină la Sanctuarul Meu și să se apropie de "
+       "t": "Ei să vină la Sanctuarul Meu și să se apropie de",
+       "w": "Ei să vină la Sanctuarul Meu și să se apropie de",
+       "heb": "הֵמָּה יָבֹאוּ אֶל מִקְדָּשִׁי וְהֵמָּה יִקְרְבוּ אֶל",
+       "translit": "hēma iavou el mikdași vehēma ikrevu el",
+       "strong": "H1992",
+       "pos": "pronume personal + verb, qal imperfect + prepoziție + substantiv construct + sufix + pronume personal + verb, qal imperfect + prepoziție",
+       "def_ro": "ei vor veni la Sanctuarul Meu, și ei se vor apropia de.",
+       "dict_ro": "Metzudat David explică faptul că apropierea de masă se referă la rânduiala pâinilor punerii înainte, slujire care avea loc chiar lângă masa aceasta sfântă din Sanctuar."
+      },
+      {
+       "t": " "
       },
       {
        "t": "masa Mea",
@@ -76654,7 +76681,14 @@
        "dict_ro": "Șulhan — masa; „masa Mea” e aici altarul sau masa pâinilor punerii înainte. Metzudat David și Radak (după Targum Ionatan, „la masa pâinilor feței”) o identifică cu rânduirea pâinilor punerii înainte pe masa din Sanctuar. Maleahi folosește aceeași expresie, „masa DOMNULUI”, pentru altar (Maleahi 1:7), iar ideea unei „mese” a lui Dumnezeu la care slujesc preoții a trecut și în limbajul creștin despre altar."
       },
       {
-       "t": ", să-Mi slujească și să păzească sarcina Mea."
+       "t": ", să-Mi slujească și să păzească sarcina Mea.",
+       "w": ", să-Mi slujească și să păzească sarcina Mea.",
+       "heb": "לְשָׁרְתֵנִי וְשָׁמְרוּ אֶת מִשְׁמַרְתִּי",
+       "translit": "leșartēni veșamru et mișmarti",
+       "strong": "H8334",
+       "pos": "verb, piel infinitiv + sufix + verb, qal perfect consecutiv + marcă a complementului direct + substantiv construct + sufix",
+       "def_ro": "ca să-Mi slujească, și vor păzi sarcina Mea.",
+       "dict_ro": "Radak explică faptul că expresia «masa Mea» e tradusă de Targum Ionatan ca «masa pâinilor feței» — aceeași masă pe care se puneau cele douăsprezece pâini ale punerii înainte, reînnoite săptămânal."
       }
      ],
      "textCompare": [
@@ -76696,7 +76730,17 @@
      "translit": "Vehaya bevoam el-șaarei hehatzer hapenimit bigdei fiștim yilbașu velo-yaale aleihem tzemer beșartam beșaarei hehatzer hapenimit vavaita.",
      "tokens": [
       {
-       "t": "Și va fi, când intră pe porțile curții interioare, să poarte "
+       "t": "Și va fi, când intră pe porțile curții interioare, să poarte",
+       "w": "Și va fi, când intră pe porțile curții interioare, să poarte",
+       "heb": "וְהָיָה בְּבוֹאָם אֶל שַׁעֲרֵי הֶחָצֵר הַפְּנִימִית",
+       "translit": "vehaia bevoam el șaarē hehațēr hapnimit",
+       "strong": "H1961",
+       "pos": "verb, qal perfect consecutiv + verb, qal infinitiv + sufix + prepoziție + substantiv plural construct + substantiv + adjectiv",
+       "def_ro": "și va fi, când vor veni la porțile curții interioare.",
+       "dict_ro": "Rashi explică faptul că intrarea pe porțile curții interioare se referă la intrarea în Sfânta Sfintelor, în Ziua Ispășirii — moment în care marele preot purta exclusiv veșmintele albe de in, fără lână."
+      },
+      {
+       "t": " "
       },
       {
        "t": "veșminte de in",
@@ -76711,7 +76755,14 @@
        "dict_ro": "Pișteh — inul, fibra vegetală din care erau făcute veșmintele preoțești, în contrast cu lâna (țemer). Rashi și Metzudat David leagă versetul de slujirea marelui preot în Sfânta Sfintelor, în ziua de Iom Kipur, când purta doar „veșmintele albe” de in (Leviticul 16:4), fără albastrul de lână din mantie și brâu. Radak observă însă că formularea la plural nu se potrivește cu slujba unică a marelui preot și propune că e o rânduială nouă pentru Templul viitor."
       },
       {
-       "t": "; niciun veșmânt de lână să nu se afle asupra lor când slujesc [dincolo de] porțile curții interioare sau înăuntrul ei."
+       "t": "; niciun veșmânt de lână să nu se afle asupra lor când slujesc [dincolo de] porțile curții interioare sau înăuntrul ei.",
+       "w": "; niciun veșmânt de lână să nu se afle asupra lor când slujesc [dincolo de] porțile curții interioare sau înăuntrul ei.",
+       "heb": "יִלְבָּשׁוּ וְלֹא יַעֲלֶה עֲלֵיהֶם צֶמֶר בְּשָׁרְתָם בְּשַׁעֲרֵי הֶחָצֵר הַפְּנִימִית וָבָיְתָה",
+       "translit": "ilbașu velo iaale alēhem țemer beșartam beșaarē hehațēr hapnimit vavaita",
+       "strong": "H3847",
+       "pos": "verb, qal imperfect + particulă negativă + verb, qal imperfect + prepoziție + sufix + substantiv + verb, piel infinitiv + sufix + substantiv plural construct + substantiv + adjectiv + substantiv",
+       "def_ro": "să le poarte, și nu se va pune pe ei lână, când slujesc la porțile curții interioare, și înăuntru.",
+       "dict_ro": "Radak ridică o întrebare asupra interpretării literale: dacă veșmintele preoțești obișnuite includeau lână, cum scrie în Tora lui Moise, atunci aceasta ar fi o rânduială nouă pentru viitor — sau textul se referă specific la slujirea solitară a marelui preot în Ziua Ispășirii."
       }
      ],
      "textCompare": [
@@ -76757,7 +76808,17 @@
      "translit": "Paarei fiștim yihyu al-roșam umichnesei fiștim yihyu al-motneihem lo yahgeru bayaza.",
      "tokens": [
       {
-       "t": "Turbane de in să fie pe capul lor și izmene de in să fie pe coapsele lor. Și să nu se încingă "
+       "t": "Turbane de in să fie pe capul lor și izmene de in să fie pe coapsele lor. Și să nu se încingă",
+       "w": "Turbane de in să fie pe capul lor și izmene de in să fie pe coapsele lor. Și să nu se încingă",
+       "heb": "פַּאֲרֵי פִשְׁתִּים יִהְיוּ עַל רֹאשָׁם וּמִכְנְסֵי פִשְׁתִּים יִהְיוּ עַל מָתְנֵיהֶם לֹא יַחְגְּרוּ",
+       "translit": "paarē fiștim ihiu al roșam umihnesē fiștim ihiu al matnēhem lo iahgeru",
+       "strong": "H6287",
+       "pos": "substantiv plural construct + substantiv plural + verb, qal imperfect + prepoziție + substantiv construct + sufix + substantiv plural construct + substantiv plural + verb, qal imperfect + prepoziție + substantiv dual construct + sufix + particulă negativă + verb, qal imperfect",
+       "def_ro": "turbane de in vor fi pe capul lor și izmene de in vor fi pe coapsele lor, nu se vor încinge.",
+       "dict_ro": "Talmudul Bavli (Zevahim 18b) explică, prin cuvintele lui Abaye, că brâul nu se încinge nici sub șolduri, nici deasupra coatelor, ci exact în dreptul coatelor — Ezechiel a dat sprijin textual unei tradiții primite deja înainte de el, conform acelui tratat."
+      },
+      {
+       "t": " "
       },
       {
        "t": "în locul unde transpiră",
@@ -76821,7 +76882,17 @@
      "translit": "Uvetzetam el-hehatzer hahitzona el-haam yifșetu et-bigdeihem așer-hema meșartim bam vehinihu otam belișchot hakodeș velavșu begadim aherim velo-yekadșu et-haam bebigdeihem.",
      "tokens": [
       {
-       "t": "Iar când ies spre curtea exterioară, către curtea exterioară și către popor, să-și scoată hainele în care slujesc și să le lase în "
+       "t": "Iar când ies spre curtea exterioară, către curtea exterioară și către popor, să-și scoată hainele în care slujesc și să le lase în",
+       "w": "Iar când ies spre curtea exterioară, către curtea exterioară și către popor, să-și scoată hainele în care slujesc și să le lase în",
+       "heb": "וּבְצֵאתָם אֶל הֶחָצֵר הַחִיצוֹנָה אֶל הֶחָצֵר הַחִיצוֹנָה אֶל הָעָם יִפְשְׁטוּ אֶת בִּגְדֵיהֶם אֲשֶׁר הֵמָּה מְשָׁרְתִם בָּם וְהִנִּיחוּ אוֹתָם",
+       "translit": "uvțētam el hehațēr hahițona el hehațēr hahițona el haam ifșetu et bigdēhem așer hēma meșartim bam vehinihu otam",
+       "strong": "H3318",
+       "pos": "verb, qal infinitiv + sufix + prepoziție + substantiv + adjectiv + prepoziție + substantiv + adjectiv + prepoziție + substantiv + verb, qal imperfect + marcă a complementului direct + substantiv plural construct + sufix + particulă relativă + pronume personal + verb, piel participiu + prepoziție + sufix + verb, hifil perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și când vor ieși la curtea exterioară, la curtea exterioară, către popor, își vor lepăda veșmintele în care slujesc și le vor lăsa.",
+       "dict_ro": "Rashi explică dublarea expresiei «curtea exterioară» prin faptul că, numind Sanctuarul și Sfânta Sfintelor «curtea interioară», profetul a trebuit să dubleze termenul pentru a arăta clar că vorbește de curtea israeliților, locul în care intră tot poporul."
+      },
+      {
+       "t": " "
       },
       {
        "t": "odăile sfinte",
@@ -76836,7 +76907,14 @@
        "dict_ro": "Lișka — o încăpere laterală a Templului, folosită pentru păstrarea veșmintelor și a obiectelor sfinte (Ezechiel 42:13-14). Rashi vede aici porunca dată marelui preot în Leviticul 16:23: „își va scoate veșmintele de in... și le va lăsa acolo”. Motivul — „să nu sfințească poporul cu hainele lor” — e explicat de Metzudat David și Radak: ca nu cumva, atingându-se de veșmintele sfinte, poporul să pară sfânt ca preoții."
       },
       {
-       "t": " și să îmbrace alte haine și să nu sfințească poporul cu hainele lor."
+       "t": " și să îmbrace alte haine și să nu sfințească poporul cu hainele lor.",
+       "w": " și să îmbrace alte haine și să nu sfințească poporul cu hainele lor.",
+       "heb": "הַקֹּדֶשׁ וְלָבְשׁוּ בְּגָדִים אֲחֵרִים וְלֹא יְקַדְּשׁוּ אֶת הָעָם בְּבִגְדֵיהֶם",
+       "translit": "hakodeș velavșu begadim ahērim velo iekadșu et haam bevigdēhem",
+       "strong": "H6944",
+       "pos": "substantiv + verb, qal perfect consecutiv + substantiv plural + adjectiv + particulă negativă + verb, piel imperfect + marcă a complementului direct + substantiv + substantiv plural construct + sufix",
+       "def_ro": "cele sfinte, și vor îmbrăca alte veșminte, și nu vor sfinți poporul cu veșmintele lor.",
+       "dict_ro": "Radak explică faptul că, dacă preoții s-ar atinge de popor purtând veșmintele sfinte, ar părea că poporul e sfânt ca ei — Targum Ionatan traduce exact această grijă: «și să nu se amestece cu poporul în veșmintele lor»."
       }
      ],
      "textCompare": [
@@ -76884,7 +76962,17 @@
      "translit": "Veroșam lo yegalehu ufera lo yeșalehu kasom yichsemu et-rașeihem.",
      "tokens": [
       {
-       "t": "Să nu își radă capul și nici să nu își lase pletele să crească în voie, ci să aibă "
+       "t": "Să nu își radă capul și nici să nu își lase pletele să crească în voie, ci să aibă",
+       "w": "Să nu își radă capul și nici să nu își lase pletele să crească în voie, ci să aibă",
+       "heb": "וְרֹאשָׁם לֹא יְגַלֵּחוּ וּפֶרַע לֹא יְשַׁלֵּחוּ",
+       "translit": "veroșam lo iegalēhu ufera lo ieșalēhu",
+       "strong": "H7218",
+       "pos": "substantiv construct + sufix + particulă negativă + verb, piel imperfect + substantiv + particulă negativă + verb, piel imperfect",
+       "def_ro": "și capul lor nu-l vor rade, și creșterea părului nu o vor lăsa liberă.",
+       "dict_ro": "Talmudul Bavli (Sanhedrin 22b) explică faptul că preotul obișnuit se tunde o dată la treizeci de zile, prin analogie textuală cu «pletele» nazireului de la Numeri 6:5 — la fel cum nazireul avea treizeci de zile, tot așa și preotul."
+      },
+      {
+       "t": " "
       },
       {
        "t": "capetele tunse",
@@ -76948,7 +77036,17 @@
      "translit": "Veyayin lo-yiștu kol-kohen bevoam el-hehatzer hapenimit.",
      "tokens": [
       {
-       "t": "Niciun preot să nu bea "
+       "t": "Niciun preot să nu bea",
+       "w": "Niciun preot să nu bea",
+       "heb": "לֹא יִשְׁתּוּ כָּל כֹּהֵן",
+       "translit": "lo iștu kal kohēn",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal imperfect + substantiv construct + substantiv",
+       "def_ro": "nu va bea niciun preot.",
+       "dict_ro": "Metzudat David precizează că interdicția se aplică fie marelui preot, fie preotului obișnuit — fără excepție, în momentul slujirii la Sanctuar."
+      },
+      {
+       "t": " "
       },
       {
        "t": "vin",
@@ -76963,7 +77061,14 @@
        "dict_ro": "Iain — vinul; interdicția vine din Tora, după moartea lui Nadav și Avihu: „vin și băutură tare să nu bei, tu și fiii tăi, când intrați în Cortul Întâlnirii, ca să nu muriți” (Leviticul 10:9), motivul fiind — după versetul următor de acolo — ca preotul să poată deosebi între sfânt și profan. Radak observă că Ezechiel repetă aici și reguli deja scrise în Tora, alături de rânduieli noi pentru viitor."
       },
       {
-       "t": " când intră în curtea interioară."
+       "t": " când intră în curtea interioară.",
+       "w": " când intră în curtea interioară.",
+       "heb": "בְּבוֹאָם אֶל הֶחָצֵר הַפְּנִימִית",
+       "translit": "bevoam el hehațēr hapnimit",
+       "strong": "H935",
+       "pos": "verb, qal infinitiv + sufix + prepoziție + substantiv + adjectiv",
+       "def_ro": "când vor veni la curtea interioară.",
+       "dict_ro": "Radak explică faptul că, deși aceasta e scrisă deja în Tora, Ezechiel a reluat legile preoțești pentru că a înnoit lucruri care nu sunt explicite în Tora scrisă — poate o sporire a sfințeniei rezervată vremurilor viitoare."
       }
      ],
      "textCompare": [
@@ -77009,7 +77114,17 @@
      "translit": "Vealmana ugerușa lo-yikehu lahem lenașim ki im-betulot mizera beit Israël vehaalmana așer tihye almana mikohen yikahu.",
      "tokens": [
       {
-       "t": "Văduvă sau divorțată să nu-și ia de soție, ci doar "
+       "t": "Văduvă sau divorțată să nu-și ia de soție, ci doar",
+       "w": "Văduvă sau divorțată să nu-și ia de soție, ci doar",
+       "heb": "וְאַלְמָנָה וּגְרוּשָׁה לֹא יִקְחוּ לָהֶם לְנָשִׁים כִּי אִם",
+       "translit": "vealmana ugrușa lo ikhu lahem lenașim ki im",
+       "strong": "H490",
+       "pos": "substantiv + verb, qal participiu pasiv + particulă negativă + verb, qal imperfect + prepoziție + sufix + substantiv plural + conjuncție + conjuncție",
+       "def_ro": "și văduvă și divorțată nu-și vor lua de soții, ci numai.",
+       "dict_ro": "Talmudul Bavli (Kidușin 78b) explică, prin cuvintele lui Rava, că prima parte a versetului se referă la marele preot, căruia îi e oprită și văduva, iar partea a doua la preotul obișnuit, căruia îi e permisă văduva — același verset conține două rânduieli distincte."
+      },
+      {
+       "t": " "
       },
       {
        "t": "fecioare",
@@ -77024,7 +77139,14 @@
        "dict_ro": "Betula — fecioara. Tora interzice doar marelui preot căsătoria cu o văduvă (Leviticul 21:14), iar versetul lui Ezechiel pare să extindă interdicția la toți preoții. Talmudul (Kidușin 78b) rezolvă contradicția: prima parte a versetului se referă la marele preot, iar a doua („o văduvă care a fost soție de preot, să ia”) la preotul obișnuit; Rava arată că un verset poate trata astfel două subiecte fără delimitare. Rashi și Metzudat David urmează această lectură."
       },
       {
-       "t": " din seminția casei lui Israel, sau o văduvă care a fost soție de preot, să ia [de soție]."
+       "t": " din seminția casei lui Israel, sau o văduvă care a fost soție de preot, să ia [de soție].",
+       "w": " din seminția casei lui Israel, sau o văduvă care a fost soție de preot, să ia [de soție].",
+       "heb": "מִזֶּרַע בֵּית יִשְׂרָאֵל וְהָאַלְמָנָה אֲשֶׁר תִּהְיֶה אַלְמָנָה מִכֹּהֵן יִקָּחוּ",
+       "translit": "mizera bēt israēl vehaalmana așer tihie almana mikohēn ikahu",
+       "strong": "H2233",
+       "pos": "substantiv construct + substantiv construct + nume propriu + substantiv + particulă relativă + verb, qal imperfect + substantiv + substantiv construct + verb, qal imperfect",
+       "def_ro": "din sămânța casei lui Israel; și văduva care va fi văduvă de la un preot, [preoții obișnuiți] o vor lua.",
+       "dict_ro": "Rashi precizează că «văduva care a fost [doar] văduvă» înseamnă o văduvă propriu-zisă, nu o divorțată sau una eliberată prin halița — chiar aceea e oprită și preotului obișnuit, dacă nu e strict văduvă adevărată."
       }
      ],
      "textCompare": [
@@ -77070,7 +77192,17 @@
      "translit": "Veet-ami yoru bein kodeș lehol uvein-tame letahor yodium.",
      "tokens": [
       {
-       "t": "Iar pe poporul Meu să îl învețe să deosebească "
+       "t": "Iar pe poporul Meu să îl învețe să deosebească",
+       "w": "Iar pe poporul Meu să îl învețe să deosebească",
+       "heb": "וְאֶת עַמִּי יוֹרוּ בֵּין",
+       "translit": "veet ami ioru bēn",
+       "strong": "H5971",
+       "pos": "marcă a complementului direct + substantiv construct + sufix + verb, hifil imperfect + prepoziție",
+       "def_ro": "și pe poporul Meu să-l învețe între.",
+       "dict_ro": "Metzudat David precizează clar rolul didactic al preoților: ei sunt cei care trebuie să învețe poporul deosebirea dintre sfânt și profan, nu doar să o aplice singuri în Sanctuar."
+      },
+      {
+       "t": " "
       },
       {
        "t": "între sacru și profan",
@@ -77085,7 +77217,14 @@
        "dict_ro": "Hol — ceea ce e obișnuit, profan, neconsacrat, opusul lui kodeș. Rolul preoților ca învățători ai poporului e formulat încă în Leviticul 10:10-11 („ca să deosebiți între sfânt și profan... și să-i învățați pe fiii lui Israel”) și în binecuvântarea lui Moise pentru Levi (Deuteronomul 33:10). Ezechiel acuzase exact încălcarea acestei datorii în capitolul 22: „preoții ei... n-au făcut deosebire între sfânt și profan” (Ezechiel 22:26)."
       },
       {
-       "t": ", și să îi facă să cunoască diferența dintre necurat și curat."
+       "t": ", și să îi facă să cunoască diferența dintre necurat și curat.",
+       "w": ", și să îi facă să cunoască diferența dintre necurat și curat.",
+       "heb": "וּבֵין טָמֵא לְטָהוֹר יוֹדִעֻם",
+       "translit": "uvēn tamē letahor iodium",
+       "strong": "H996",
+       "pos": "prepoziție + adjectiv + adjectiv + verb, hifil imperfect + sufix",
+       "def_ro": "și între necurat și curat să-i facă să cunoască.",
+       "dict_ro": "Metzudat Țion explică «yoru» prin rădăcina de învățătură și îndrumare — același verb care dă cuvântul «Tora», sugerând că funcția didactică a preoției e strâns legată de însăși esența Legii."
       }
      ],
      "textCompare": [
@@ -77129,7 +77268,17 @@
      "translit": "Veal-riv hema yaamdu lișfot uvemișpatai yișpetuhu veet-torotai veet-hukotai bechol-moadai yișmoru veet-șabtotai yekadeșu.",
      "tokens": [
       {
-       "t": "Și legat de orice dispută, să stea la judecată și să o decidă după legile Mele; învățăturile Mele și decretele legate de "
+       "t": "Și legat de orice dispută, să stea la judecată și să o decidă după legile Mele; învățăturile Mele și decretele legate de",
+       "w": "Și legat de orice dispută, să stea la judecată și să o decidă după legile Mele; învățăturile Mele și decretele legate de",
+       "heb": "וְעַל רִיב הֵמָּה יַעַמְדוּ לְמִשְׁפָּט בְּמִשְׁפָּטַי יִשְׁפְּטוּהוּ וְאֶת תּוֹרֹתַי וְאֶת חֻקֹּתַי בְּכָל",
+       "translit": "veal riv hēma iaamdu lemișpat bemișpatai ișpetuhu veet torotai veet hukotai behal",
+       "strong": "H5921",
+       "pos": "prepoziție + substantiv + pronume personal + verb, qal imperfect + substantiv + substantiv plural construct + sufix + verb, qal imperfect + sufix + marcă a complementului direct + substantiv plural construct + sufix + marcă a complementului direct + substantiv plural construct + sufix + substantiv construct",
+       "def_ro": "și pentru dispută ei vor sta la judecată; după judecățile Mele îl vor judeca; și învățăturile Mele și decretele Mele, la toate.",
+       "dict_ro": "Metzudat David explică faptul că pricinile de bani vor fi judecate de preoți strict după judecățile Torei, nu după aprecierea lor proprie — o restricție importantă care elimină arbitrariul din sentințele preoțești."
+      },
+      {
+       "t": " "
       },
       {
        "t": "soroacele Mele",
@@ -77144,7 +77293,14 @@
        "dict_ro": "Moed — timpul fixat, întâlnirea rânduită; „soroacele Mele” sunt sărbătorile descrise pe larg în pericopa Emor (Levitic 23) — legătura cea mai directă dintre pericopă și această haftara. Metzudat David explică că preoții trebuie să păzească legile jertfelor pentru fiecare sărbătoare și să sfințească Sabatele prin jertfele datorate în ziua aceea; iar în pricinile de judecată să judece „după judecățile Torei, nu după părerea lor”."
       },
       {
-       "t": " să le păzească și Șabaturile Mele să le sfințească."
+       "t": " să le păzească și Șabaturile Mele să le sfințească.",
+       "w": " să le păzească și Șabaturile Mele să le sfințească.",
+       "heb": "יִשְׁמֹרוּ וְאֶת שַׁבְּתוֹתַי יְקַדֵּשׁוּ",
+       "translit": "ișmoru veet șabtotai iekadēșu",
+       "strong": "H8104",
+       "pos": "verb, qal imperfect + marcă a complementului direct + substantiv plural construct + sufix + verb, piel imperfect",
+       "def_ro": "vor păzi, și Sabatele Mele le vor sfinți.",
+       "dict_ro": "Radak explică faptul că «soroacele Mele» se referă la rânduielile jertfelor de sărbătoare, iar sfințirea Sabatelor se face concret prin jertfele datorate exact în ziua aceea."
       }
      ],
      "textCompare": [
@@ -77187,7 +77343,17 @@
      "translit": "Veel-met adam lo yavo letamea ki im-leav uleem uleven ulevat leah uleahot așer lo-haita leiș yitamu.",
      "tokens": [
       {
-       "t": "Și să nu vină la "
+       "t": "Și să nu vină la",
+       "w": "Și să nu vină la",
+       "heb": "וְאֶל",
+       "translit": "veel",
+       "strong": "H413",
+       "pos": "prepoziție",
+       "def_ro": "și la.",
+       "dict_ro": "Radak precizează că această interdicție de a se apropia de un mort se referă la preotul obișnuit, nu la marele preot, pentru care restricția era și mai strictă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "un trup mort",
@@ -77203,7 +77369,14 @@
        "dict_ro": "Met — mortul; contactul cu un cadavru e sursa cea mai gravă de necurăție rituală (tumat met), de care preotul trebuie să se ferească, cu excepția rudelor apropiate enumerate aici și în Leviticul 21:1-3 — legea care deschide chiar pericopa Emor. Radak precizează că e vorba de preotul obișnuit, marele preot neavând voie să se facă necurat nici pentru părinții lui (Leviticul 21:11); Metzudat David explică „sora care n-a fost cu un bărbat”: care n-a fost căsătorită."
       },
       {
-       "t": " ca să devină necurați, ci numai pentru tată și pentru mamă, pentru fiu și pentru fiică, pentru frate și pentru soră care nu a fost niciodată cu un bărbat să devină necurați."
+       "t": " ca să devină necurați, ci numai pentru tată și pentru mamă, pentru fiu și pentru fiică, pentru frate și pentru soră care nu a fost niciodată cu un bărbat să devină necurați.",
+       "w": " ca să devină necurați, ci numai pentru tată și pentru mamă, pentru fiu și pentru fiică, pentru frate și pentru soră care nu a fost niciodată cu un bărbat să devină necurați.",
+       "heb": "אָדָם לֹא יָבוֹא לְטָמְאָה כִּי אִם לְאָב וּלְאֵם וּלְבֵן וּלְבַת לְאָח וּלְאָחוֹת אֲשֶׁר לֹא הָיְתָה לְאִישׁ יִטַּמָּאוּ",
+       "translit": "adam lo iavo letama ki im leav ulēm ulvēn ulvat leah ulahot așer lo haita leiș itamau",
+       "strong": "H120",
+       "pos": "substantiv + particulă negativă + verb, qal imperfect + verb, qal infinitiv + conjuncție + conjuncție + substantiv + substantiv + substantiv + substantiv + substantiv + substantiv + particulă relativă + particulă negativă + verb, qal perfect + substantiv + verb, hitpael imperfect",
+       "def_ro": "om, nu va veni ca să se pângărească, decât pentru tată și pentru mamă, și pentru fiu și pentru fiică, pentru frate și pentru soră care n-a fost cu un bărbat, se vor pângări.",
+       "dict_ro": "Metzudat David precizează că «nu a fost cu un bărbat» înseamnă necăsătorită — excepția se aplică doar surorii nemăritate, nu uneia deja soție, pentru care restricția de apropiere rămâne în vigoare."
       }
      ],
      "textCompare": [
@@ -77245,7 +77418,17 @@
      "translit": "Veaharei toharato șivat yamim yisperu-lo.",
      "tokens": [
       {
-       "t": "Iar după ce [un preot] se va curăța, să numere pentru sine "
+       "t": "Iar după ce [un preot] se va curăța, să numere pentru sine",
+       "w": "Iar după ce [un preot] se va curăța, să numere pentru sine",
+       "heb": "וְאַחֲרֵי טָהֳרָתוֹ",
+       "translit": "veaharē tahorato",
+       "strong": "H310",
+       "pos": "prepoziție + substantiv construct + sufix",
+       "def_ro": "și după curățirea lui.",
+       "dict_ro": "Rashi explică «după curățirea lui» ca referindu-se la momentul despărțirii de mort, potrivit explicației din tratatul Moed Katan (15b) — curăția începe exact din acel moment, nu mai târziu."
+      },
+      {
+       "t": " "
       },
       {
        "t": "șapte zile",
@@ -77260,7 +77443,14 @@
        "dict_ro": "Șivat iamim — perioada de purificare după contactul cu un mort (Numeri 19:11-12). Versetul ridică o întrebare: purificarea obișnuită durează deja șapte zile, atunci ce sunt aceste „șapte zile” numărate „după curățire”? Rashi și Metzudat David, după înțelepți (Moed Katan 15b), explică „după curățire” ca „după despărțirea de mort”; Radak propune și posibilitatea unei rânduieli noi pentru viitor, o sporire a sfințeniei, cu încă șapte zile după purificare. Metzudat David adaugă că frații preoți numără pentru el, ca să nu intre din greșeală."
       },
       {
-       "t": "."
+       "t": ".",
+       "w": ".",
+       "heb": "שִׁבְעַת יָמִים יִסְפְּרוּ לוֹ",
+       "translit": "șivat iamim isperu lo",
+       "strong": "H7651",
+       "pos": "numeral + substantiv plural + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "șapte zile se vor număra pentru el.",
+       "dict_ro": "Metzudat David explică faptul că frații lui, ceilalți preoți, trebuie să numere aceste șapte zile pentru el — ca, dacă el însuși uită, să nu fie lăsat să intre în Sanctuar înainte de vreme."
       }
      ],
      "textCompare": [
@@ -77305,7 +77495,17 @@
      "translit": "Uveyom boo el-hakodeș el-hehatzer hapenimit leșaret bakodeș yakriv hatato neum Adonai ELOHIM.",
      "tokens": [
       {
-       "t": "Și în ziua în care va intra în Sanctuar, în curtea interioară, ca să slujească în Sanctuar, să își aducă "
+       "t": "Și în ziua în care va intra în Sanctuar, în curtea interioară, ca să slujească în Sanctuar, să își aducă",
+       "w": "Și în ziua în care va intra în Sanctuar, în curtea interioară, ca să slujească în Sanctuar, să își aducă",
+       "heb": "וּבְיוֹם בֹּאוֹ אֶל הַקֹּדֶשׁ אֶל הֶחָצֵר הַפְּנִימִית לְשָׁרֵת בַּקֹּדֶשׁ יַקְרִיב",
+       "translit": "uviom boo el hakodeș el hehațēr hapnimit leșarēt bakodeș iakriv",
+       "strong": "H3117",
+       "pos": "substantiv construct + verb, qal infinitiv + sufix + prepoziție + substantiv + prepoziție + substantiv + adjectiv + verb, piel infinitiv + prepoziție + substantiv + verb, hifil imperfect",
+       "def_ro": "și în ziua intrării lui în cele sfinte, în curtea interioară, ca să slujească în cele sfinte, va aduce.",
+       "dict_ro": "Rashi explică faptul că această primă intrare, pentru inițierea în slujire, cere o jertfă specifică — a zecea parte dintr-o efă — potrivit Levitic 6:20 și explicației din tratatul Menahot (51b)."
+      },
+      {
+       "t": " "
       },
       {
        "t": "jertfa sa de păcat",
@@ -77321,7 +77521,14 @@
        "dict_ro": "Hatat — jertfa pentru păcat, de la hata, „a greși ținta”. Rashi și Metzudat David o identifică, după înțelepți (Moed Katan 16a; Menahot 51b), cu „a zecea parte de efă” de făină pe care preotul obișnuit o aduce în ziua în care începe să slujească (Leviticul 6:20). Radak nu e convins: el observă că versetul vorbește despre preotul obișnuit care s-a făcut necurat pentru o rudă și vede aici fie o jertfă nouă pentru viitor, fie regula că preotul nu-și poate aduce jertfele în zilele necurăției."
       },
       {
-       "t": " – rostirea Stăpânului meu, Domnul DUMNEZEU."
+       "t": " – rostirea Stăpânului meu, Domnul DUMNEZEU.",
+       "w": " – rostirea Stăpânului meu, Domnul DUMNEZEU.",
+       "heb": "נְאֻם אֲדֹנָי יְהוִה",
+       "translit": "neum adonai Adonai",
+       "strong": "H5002",
+       "pos": "substantiv construct + substantiv construct + sufix + nume propriu",
+       "def_ro": "rostirea Stăpânului meu, DOMNUL.",
+       "dict_ro": "Radak observă o dificultate: «jertfa lui de păcat» nu poate fi a zecea parte de efă, căci acel verset vorbește despre preotul obișnuit, pângărit prin contactul cu un mort, nu despre jertfa zilnică a marelui preot — o nuanță pe care alți comentatori au trecut-o cu vederea."
       }
      ],
      "textCompare": [
@@ -77367,7 +77574,17 @@
      "translit": "Vehaita lahem lenahala ani nahalatam ahuzza lo-titnu lahem beIsraël ani ahuzatam.",
      "tokens": [
       {
-       "t": "Și aceasta să fie moștenirea pentru ei: Eu sunt "
+       "t": "Și aceasta să fie moștenirea pentru ei: Eu sunt",
+       "w": "Și aceasta să fie moștenirea pentru ei: Eu sunt",
+       "heb": "וְהָיְתָה לָהֶם לְנַחֲלָה אֲנִי",
+       "translit": "vehaita lahem lenahala ani",
+       "strong": "H1961",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + substantiv + pronume personal",
+       "def_ro": "și va fi pentru ei ca moștenire; Eu [sunt].",
+       "dict_ro": "Rashi explică simplu: «aceasta să fie pentru ei» înseamnă preoția însăși, dată ca moștenire — nu un teritoriu, ci însăși slujirea devine partea lor ereditară."
+      },
+      {
+       "t": " "
       },
       {
        "t": "moștenirea lor",
@@ -77382,7 +77599,14 @@
        "dict_ro": "Nahala — moștenirea, lotul de pământ primit în Țară; preoții și leviții nu primesc teritoriu, pentru că „Eu sunt moștenirea lor” (Numeri 18:20; Deuteronomul 18:1-2). Rashi și Radak înțeleg „aceasta” din începutul versetului ca preoția însăși, care le ține loc de pământ, iar Metzudat David explică scopul practic: să fie liberi pentru slujirea în Templu, trăind din ce rămâne din jertfe."
       },
       {
-       "t": ", să nu le dai nicio posesiune în Israel, Eu sunt posesiunea lor."
+       "t": ", să nu le dai nicio posesiune în Israel, Eu sunt posesiunea lor.",
+       "w": ", să nu le dai nicio posesiune în Israel, Eu sunt posesiunea lor.",
+       "heb": "נַחֲלָתָם וַאֲחֻזָּה לֹא תִתְּנוּ לָהֶם בְּיִשְׂרָאֵל אֲנִי אֲחֻזָּתָם",
+       "translit": "nahalatam vaahuza lo titnu lahem beisraēl ani ahuzatam",
+       "strong": "H5159",
+       "pos": "substantiv construct + sufix + substantiv + particulă negativă + verb, qal imperfect + prepoziție + sufix + nume propriu + pronume personal + substantiv construct + sufix",
+       "def_ro": "moștenirea lor; și posesiune nu le veți da în Israel; Eu [sunt] posesiunea lor.",
+       "dict_ro": "Metzudat David explică faptul că refuzul posesiunii de ogoare și vii are un scop practic: ca preoții să fie liberi să se ocupe exclusiv de slujirea Sanctuarului, fără griji pământești care să le distragă atenția."
       }
      ],
      "textCompare": [
@@ -77445,7 +77669,14 @@
        "dict_ro": "Minha — darul, jertfa de făină; Metzudat David precizează că preoții mănâncă „ce rămâne din prinos”, după arderea părții de pe altar (Leviticul 2:3). „Toate cele consacrate” (herem) desemnează, după Rashi și Metzudat Țion, bunurile închinate Sanctuarului, care revin preoților (Numeri 18:14) — un sens al cuvântului herem diferit de cel de „nimicire totală” din relatările cuceririi."
       },
       {
-       "t": ", jertfa de păcat și jertfa de vină, și toate cele consacrate prin jurământ să fie pentru ei."
+       "t": ", jertfa de păcat și jertfa de vină, și toate cele consacrate prin jurământ să fie pentru ei.",
+       "w": ", jertfa de păcat și jertfa de vină, și toate cele consacrate prin jurământ să fie pentru ei.",
+       "heb": "וְהַחַטָּאת וְהָאָשָׁם הֵמָּה יֹאכְלוּם וְכָל חֵרֶם בְּיִשְׂרָאֵל לָהֶם יִהְיֶה",
+       "translit": "vehahatat vehaașam hēma iohlum vehal hērem beisraēl lahem ihie",
+       "strong": "H2403",
+       "pos": "substantiv + substantiv + pronume personal + verb, qal imperfect + sufix + substantiv construct + substantiv + nume propriu + prepoziție + sufix + verb, qal imperfect",
+       "def_ro": "și jertfa de păcat și jertfa de vină, ei le vor mânca; și tot ce e consacrat prin jurământ în Israel, al lor va fi.",
+       "dict_ro": "Metzudat Țion explică «herem» ca lucru sfințit, folosind aceeași rădăcină ca la Numeri 18:14: «tot ce e închinat în Israel va fi al tău» — un drept exclusiv al preoției asupra acestor consacrări."
       }
      ],
      "textCompare": [
@@ -77493,7 +77724,17 @@
      "translit": "Vereșit kol-bikurei chol vechol-terumat kol mikol terumoteichem lakohanim yihye vereșit arisoteichem titnu lakohen lehaniah beracha el-beitecha.",
      "tokens": [
       {
-       "t": "Și cele mai bune din primele roade de orice fel și toată donația de [recolte] de orice fel – din toate darurile donate – să meargă la preoți; "
+       "t": "Și cele mai bune din primele roade de orice fel și toată donația de [recolte] de orice fel – din toate darurile donate – să meargă la preoți;",
+       "w": "Și cele mai bune din primele roade de orice fel și toată donația de [recolte] de orice fel – din toate darurile donate – să meargă la preoți;",
+       "heb": "וְרֵאשִׁית כָּל בִּכּוּרֵי כֹל וְכָל תְּרוּמַת כֹּל מִכֹּל תְּרוּמוֹתֵיכֶם לַכֹּהֲנִים יִהְיֶה",
+       "translit": "verēșit kal bikurē hol vehal terumat kol mikol terumotēhem lakohanim ihie",
+       "strong": "H7225",
+       "pos": "substantiv construct + substantiv construct + substantiv plural construct + substantiv + substantiv construct + substantiv construct + substantiv + substantiv construct + substantiv plural construct + sufix + substantiv plural + verb, qal imperfect",
+       "def_ro": "și cel mai de preț din toate primele roade ale fiecărui lucru, și toată donația fiecărui lucru, din toate donațiile voastre, va fi pentru preoți.",
+       "dict_ro": "Metzudat Țion explică «bikurei» ca pe coacerea timpurie a recoltei, exact ca la Exod 23:19 — «cele dintâi roade ale pământului tău» — primele și cele mai bune, nu resturile."
+      },
+      {
+       "t": " "
       },
       {
        "t": "prima parte din coca voastră",
@@ -77507,7 +77748,14 @@
        "dict_ro": "Arisa — aluatul, coca; „pârga cocii” e porunca halei, partea de aluat dată preotului (Numeri 15:20-21), păstrată în practica evreiască până azi prin separarea și arderea unei bucăți din aluatul frământat. Metzudat David explică promisiunea „ca să păstrați binecuvântarea asupra casei tale”: să nu vă pară rău că dați toate acestea preoților, căci darul va aduce binecuvântare și bogăția nu va scădea, ci va crește — idee reluată de Maleahi 3:10."
       },
       {
-       "t": " să o dați preotului, ca să păstrați binecuvântarea asupra casei tale."
+       "t": " să o dați preotului, ca să păstrați binecuvântarea asupra casei tale.",
+       "w": " să o dați preotului, ca să păstrați binecuvântarea asupra casei tale.",
+       "heb": "וְרֵאשִׁית תִּתְּנוּ לַכֹּהֵן לְהָנִיחַ בְּרָכָה אֶל בֵּיתֶךָ",
+       "translit": "verēșit titnu lakohēn lehaniah beraha el bēteha",
+       "strong": "H7225",
+       "pos": "substantiv construct + verb, qal imperfect + substantiv + verb, hifil infinitiv + substantiv + prepoziție + substantiv construct + sufix",
+       "def_ro": "și cea mai bună parte s-o dați preotului, ca să așezați binecuvântarea asupra casei voastre.",
+       "dict_ro": "Metzudat David explică faptul că darea acestor daruri preoților nu e o pierdere, ci exact pricina pentru care binecuvântarea se va așeza în casa dătătorului — bogăția nu se va împuțina, ci va spori."
       }
      ],
      "textCompare": [
@@ -77555,7 +77803,17 @@
      "translit": "Kol-nevela utrefa min-haof umin-habehema lo yochlu hakohanim.",
      "tokens": [
       {
-       "t": "Orice "
+       "t": "Orice",
+       "w": "Orice",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv construct",
+       "def_ro": "tot.",
+       "dict_ro": "Rashi explică motivul acestei avertizări: pentru că ciupirea gâtului păsării aduse ca jertfă de păcat era îngăduită preoților, iar aceasta echivalează tehnic cu un hoit, era necesar un avertisment explicit despre celelalte hoituri, ca nu cumva preoții să le socotească îngăduite la fel."
+      },
+      {
+       "t": " "
       },
       {
        "t": "hoit",
@@ -77570,7 +77828,14 @@
        "dict_ro": "Nevela — animalul mort fără sacrificare rituală, oprit oricărui israelit (Deuteronomul 14:21), la fel ca terefa, animalul sfâșiat. De aceea Talmudul (Menahot 45a) se întreabă: doar preoților le e oprit? Rabi Iohanan răspunde: „acest pasaj e greu, iar în viitor Eliahu îl va explica”; Ravina propune că, fiindcă preoților le era îngăduită jertfa de păcat din păsări ucisă prin ciupire (care e tehnic nevela), ar fi putut crede că li se îngăduie și alte hoituri. Rashi, Metzudat David și Radak aduc aceeași explicație."
       },
       {
-       "t": " sau animal sfâșiat dintre păsări și dintre dobitoace, preoții să nu le mănânce."
+       "t": " sau animal sfâșiat dintre păsări și dintre dobitoace, preoții să nu le mănânce.",
+       "w": " sau animal sfâșiat dintre păsări și dintre dobitoace, preoții să nu le mănânce.",
+       "heb": "וּטְרֵפָה מִן הָעוֹף וּמִן הַבְּהֵמָה לֹא יֹאכְלוּ הַכֹּהֲנִים",
+       "translit": "utrēfa min haof umin habhēma lo iohlu hakohanim",
+       "strong": "H2966",
+       "pos": "substantiv + prepoziție + substantiv + prepoziție + substantiv + particulă negativă + verb, qal imperfect + substantiv plural",
+       "def_ro": "și animal sfâșiat, din păsări și din dobitoace, nu vor mânca preoții.",
+       "dict_ro": "Talmudul Bavli (Menahot 45a) citează pe Rabi Iohanan, care numește acest pasaj «greu», rezervând explicația lui finală pentru vremea lui Eliahu — o recunoaștere rară a unei dificultăți exegetice lăsate deschisă pentru viitor."
       }
      ],
      "textCompare": [
