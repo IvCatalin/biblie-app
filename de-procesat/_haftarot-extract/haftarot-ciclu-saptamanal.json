@@ -82631,7 +82631,17 @@
      "translit": "Vaihi iș ehad mi'Tora mimișpahat hadani ușemo Manoah veișto akara velo ialada.",
      "tokens": [
       {
-       "t": "Era un bărbat anume din Țora, din familia daniților, al cărui nume era Manoah, iar soția lui era "
+       "t": "Era un bărbat anume din Țora, din familia daniților, al cărui nume era Manoah, iar soția lui era",
+       "w": "Era un bărbat anume din Țora, din familia daniților, al cărui nume era Manoah, iar soția lui era",
+       "heb": "וַיְהִי אִישׁ אֶחָד מִצָּרְעָה מִמִּשְׁפַּחַת הַדָּנִי וּשְׁמוֹ מָנוֹחַ וְאִשְׁתּוֹ",
+       "translit": "vaihi iș ehad mițara mimișpahat hadani ușmo manoah veișto",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + substantiv + numeral + nume propriu + substantiv construct + nume propriu + substantiv construct + sufix + nume propriu + substantiv construct + sufix",
+       "def_ro": "și a fost un om din Țora, din familia daniților, și numele lui [era] Manoah, și soția lui.",
+       "dict_ro": "Talmudul Bavli (Bava Batra 91a) transmite o tradiție primită despre numele mamei și al surorii lui Samson, Țelelponit și Nașian, nepomenite explicit în text — un răspuns pregătit pentru cei care ar întreba de ce Scriptura nu le numește."
+      },
+      {
+       "t": " "
       },
       {
        "t": "stearpă",
@@ -82694,7 +82704,17 @@
      "translit": "Vaièra malah-ADONAI el-haișa vaiomer eleha hine-na at-akara velo ialadet veharit veialadet ben.",
      "tokens": [
       {
-       "t": "Și "
+       "t": "Și",
+       "w": "Și",
+       "heb": "וַיֵּרָא",
+       "translit": "vaiēra",
+       "strong": "H7200",
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "și s-a arătat.",
+       "dict_ro": "Radak explică faptul că adăugirea «și nu născuse» de la versetul precedent are rolul unei lămuriri suplimentare, ca la Geneza 11:30 despre Sarai — stearpă, fără copil."
+      },
+      {
+       "t": " "
       },
       {
        "t": "un înger al lui Dumnezeu",
@@ -82709,7 +82729,14 @@
        "dict_ro": "Malah — „trimis, sol”, de la o rădăcină care înseamnă „a trimite cu o însărcinare”; același cuvânt desemnează un mesager omenesc sau unul ceresc. Îngerul i se arată femeii, nu lui Manoah — și de fiecare dată în capitol ea înțelege mai repede decât soțul ei. Vestirea urmează tiparul biblic al vestirii nașterii: arătarea, constatarea sterpiciunii, făgăduința („vei zămisli și vei naște un fiu”), cu ecouri în Geneza 18:10 și în vestirea lui Ioan Botezătorul (Luca 1:13)."
       },
       {
-       "t": " i s-a arătat femeii și i-a spus: „Iată, acum ești stearpă și nu ai născut, dar vei zămisli și vei naște un fiu."
+       "t": " i s-a arătat femeii și i-a spus: „Iată, acum ești stearpă și nu ai născut, dar vei zămisli și vei naște un fiu.",
+       "w": " i s-a arătat femeii și i-a spus: „Iată, acum ești stearpă și nu ai născut, dar vei zămisli și vei naște un fiu.",
+       "heb": "מַלְאַךְ יְהוָה אֶל הָאִשָּׁה וַיֹּאמֶר אֵלֶיהָ הִנֵּה נָא אַתְּ עֲקָרָה וְלֹא יָלַדְתְּ וְהָרִית וְיָלַדְתְּ בֵּן",
+       "translit": "malah Adonai el haișa vaiomer ēleha hinē na at akara velo ialadte veharit veialadte bēn",
+       "strong": "H4397",
+       "pos": "substantiv construct + nume propriu + prepoziție + substantiv + verb, qal imperfect consecutiv + prepoziție + sufix + particulă demonstrativă + interjecție + pronume personal + adjectiv + particulă negativă + verb, qal perfect + verb, qal perfect + verb, qal perfect + substantiv",
+       "def_ro": "un înger al DOMNULUI femeii, și i-a spus: iată, tu [ești] stearpă și n-ai născut, și vei rămâne însărcinată și vei naște un fiu.",
+       "dict_ro": "Metzudat David explică faptul că «vei zămisli» înseamnă literal că femeia va rămâne însărcinată — vestea depășește cu mult realitatea ei prezentă de sterilitate, întărind caracterul miraculos al promisiunii."
       }
      ],
      "textCompare": [
@@ -82749,7 +82776,17 @@
      "translit": "Veata hișameri na veal-tiști iain veșehar veal-tohli kol-tame.",
      "tokens": [
       {
-       "t": "Și acum, păzește-te așadar: să nu bei nici vin și nici "
+       "t": "Și acum, păzește-te așadar: să nu bei nici vin și nici",
+       "w": "Și acum, păzește-te așadar: să nu bei nici vin și nici",
+       "heb": "וְעַתָּה הִשָּׁמְרִי נָא וְאַל תִּשְׁתִּי יַיִן",
+       "translit": "veata hișamri na veal tiști iain",
+       "strong": "H6258",
+       "pos": "adverb + verb, nifal imperativ + interjecție + particulă negativă + verb, qal jusiv + substantiv",
+       "def_ro": "și acum, păzește-te, te rog, și să nu bei vin.",
+       "dict_ro": "Radak explică faptul că aceste restricții trebuiau respectate de mamă chiar din timpul sarcinii, ca sfințenia copilului nazireu să înceapă din pântece, nu abia după naștere."
+      },
+      {
+       "t": " "
       },
       {
        "t": "băutură tare",
@@ -82764,7 +82801,14 @@
        "dict_ro": "Șehar — orice băutură care îmbată (de la șahar, „a se îmbăta”), alături de vin în legea nazireului (Numeri 6:3) și în interdicția pentru preoții care intră în Cortul Întâlnirii (Leviticul 10:9). Rashi, după Targumul lui Ionatan, explică perechea „vin și băutură tare” ca „vin proaspăt și vin vechi”. Legătura cu pericopa Naso e directă: acolo Tora dă legile nazireului, aici mama lui Samson trebuie să le păzească de pe acum, pentru copilul pe care îl va purta."
       },
       {
-       "t": ", și să nu mănânci nimic necurat."
+       "t": ", și să nu mănânci nimic necurat.",
+       "w": ", și să nu mănânci nimic necurat.",
+       "heb": "וְאַל תֹּאכְלִי כָּל טָמֵא",
+       "translit": "veal tohli kal tamē",
+       "strong": "H408",
+       "pos": "particulă negativă + verb, qal jusiv + substantiv construct + adjectiv",
+       "def_ro": "și să nu mănânci nimic necurat.",
+       "dict_ro": "Talmudul Bavli (Sota 9b) explică, prin Rabi Ițhak din școala lui Rabi Ami, că «nimic necurat» nu se referă la mâncăruri propriu-zis necurate, ci la lucrurile interzise specific nazireului — altfel întrebarea ar fi de ce i s-ar fi permis anterior să mănânce necurat."
       }
      ],
      "textCompare": [
@@ -82819,7 +82863,17 @@
      "translit": "Ki hinah hara veioladet ben umora lo-iaale al-roșo ki-nezir Elohim ihie hanaar min-habeten vehu iahel lehoșia et-Israel miiad peliștim.",
      "tokens": [
       {
-       "t": "Căci iată, vei zămisli și vei naște un fiu. Briciul să nu treacă peste capul lui, căci tânărul va fi "
+       "t": "Căci iată, vei zămisli și vei naște un fiu. Briciul să nu treacă peste capul lui, căci tânărul va fi",
+       "w": "Căci iată, vei zămisli și vei naște un fiu. Briciul să nu treacă peste capul lui, căci tânărul va fi",
+       "heb": "כִּי הִנָּךְ הָרָה וְיֹלַדְתְּ בֵּן וּמוֹרָה לֹא יַעֲלֶה עַל רֹאשׁוֹ כִּי",
+       "translit": "ki hinah hara veioladte bēn umora lo iaale al roșo ki",
+       "strong": "H3588",
+       "pos": "conjuncție + particulă demonstrativă + sufix + adjectiv + verb, qal perfect consecutiv + substantiv + substantiv + particulă negativă + verb, qal imperfect + prepoziție + substantiv construct + sufix + conjuncție",
+       "def_ro": "căci iată, tu [ești] însărcinată și vei naște un fiu, și briciul nu va trece peste capul lui, căci.",
+       "dict_ro": "Rashi explică «mora» (briciul) prin rădăcina ce înseamnă «a arunca și a îndepărta» — unealta folosită special pentru a îndepărta părul, aici interzisă categoric asupra capului copilului nenăscut încă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "nazireu",
@@ -82834,7 +82888,14 @@
        "dict_ro": "Nazir — de la nazar, „a se separa, a se consacra”; Metzudat Țion îl explică: „pentru că s-a despărțit de plăcerile lumii”. Legea nazireului (Numeri 6, în pericopa Naso) e un jurământ luat de bunăvoie, pe o perioadă; Samson este însă nazireu „din pântece”, fără jurământul lui, prin cuvântul îngerului — de aceea Talmudul (Nazir 4b) vorbește de un „nazireu ca Samson”, cu reguli proprii. „Va începe să mântuiască” e, după Metzudat David, o laudă cu rezervă: mântuirea lui a rămas un început, neterminat, deși i-a lovit pe filisteni de multe ori."
       },
       {
-       "t": " pentru Dumnezeu încă din pântec și va începe să-l mântuiască pe Israel din mâna filistenilor.”"
+       "t": " pentru Dumnezeu încă din pântec și va începe să-l mântuiască pe Israel din mâna filistenilor.”",
+       "w": " pentru Dumnezeu încă din pântec și va începe să-l mântuiască pe Israel din mâna filistenilor.”",
+       "heb": "אֱלֹהִים יִהְיֶה הַנַּעַר מִן הַבָּטֶן וְהוּא יָחֵל לְהוֹשִׁיעַ אֶת יִשְׂרָאֵל מִיַּד פְּלִשְׁתִּים",
+       "translit": "elohim ihie hanaar min habaten vehu iahēl lehoșia et israēl miad peliștim",
+       "strong": "H430",
+       "pos": "substantiv plural + verb, qal imperfect + substantiv + prepoziție + substantiv + pronume personal + verb, hifil imperfect + verb, hifil infinitiv + marcă a complementului direct + nume propriu + substantiv construct + nume de neam",
+       "def_ro": "pentru Dumnezeu va fi tânărul din pântece, și el va începe să mântuiască pe Israel din mâna filistenilor.",
+       "dict_ro": "Talmudul Bavli (Sota 9b-10a) explică faptul că mântuirea e numită doar «un început» fără încheiere, pentru că jurământul lui Avimeleh, regele filistenilor, se desfăcuse (huhal) — ei înșiși încălcaseră pacea asuprindu-i pe israeliți, declanșând astfel dreptul la luptă."
       }
      ],
      "textCompare": [
@@ -82893,7 +82954,17 @@
      "translit": "Vatavo haișa vatomer leișa lemor iș ha'Elohim ba elai umarehu kemare malah ha'Elohim nora meod velo șeiltihu ei-mize hu veet-șemo lo-highid li.",
      "tokens": [
       {
-       "t": "Femeia a venit și i-a spus soțului ei astfel: „Un om al lui Dumnezeu a venit la mine. Iar înfățișarea lui era ca înfățișarea unui înger al lui Dumnezeu, "
+       "t": "Femeia a venit și i-a spus soțului ei astfel: „Un om al lui Dumnezeu a venit la mine. Iar înfățișarea lui era ca înfățișarea unui înger al lui Dumnezeu,",
+       "w": "Femeia a venit și i-a spus soțului ei astfel: „Un om al lui Dumnezeu a venit la mine. Iar înfățișarea lui era ca înfățișarea unui înger al lui Dumnezeu,",
+       "heb": "וַתָּבֹא הָאִשָּׁה וַתֹּאמֶר לְאִישָׁהּ לֵאמֹר אִישׁ הָאֱלֹהִים בָּא אֵלַי וּמַרְאֵהוּ כְּמַרְאֵה מַלְאַךְ הָאֱלֹהִים",
+       "translit": "vatavo haișa vatomer leișah lēmor iș haelohim ba ēlai umarēhu kemarē malah haelohim",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv + substantiv + verb, qal imperfect consecutiv + substantiv construct + sufix + verb, qal infinitiv + substantiv construct + substantiv + verb, qal perfect + prepoziție + sufix + substantiv construct + sufix + substantiv construct + substantiv construct + substantiv",
+       "def_ro": "și a venit femeia și a spus soțului ei, spunând: un om al lui Dumnezeu a venit la mine, și înfățișarea lui [era] ca înfățișarea unui înger al lui Dumnezeu.",
+       "dict_ro": "Metzudat David explică faptul că femeia a crezut că era un profet, nu un înger — ea nu a recunoscut natura adevărată a vizitatorului, deși i-a descris corect înfățișarea înfricoșătoare."
+      },
+      {
+       "t": " "
       },
       {
        "t": "foarte înfricoșătoare",
@@ -82908,7 +82979,14 @@
        "dict_ro": "Nora — participiul lui yare, „a se teme”: nu doar ceva care sperie, ci ceva care inspiră evlavie și uimire; același cuvânt apare în Geneza 28:17, „cât de înfricoșător este locul acesta!”. Femeia îl numește „om al lui Dumnezeu”, titlul obișnuit al profeților (Deuteronomul 33:1; 1 Samuel 9:6), dar înfățișarea lui o duce cu gândul la un înger. Radak observă că oamenii își închipuie de obicei îngerul ca pe un trup cu o înfățișare cumplită."
       },
       {
-       "t": ". Nici eu nu l-am întrebat de unde era și nici el nu mi-a dezvăluit care era numele lui."
+       "t": ". Nici eu nu l-am întrebat de unde era și nici el nu mi-a dezvăluit care era numele lui.",
+       "w": ". Nici eu nu l-am întrebat de unde era și nici el nu mi-a dezvăluit care era numele lui.",
+       "heb": "וְלֹא שְׁאִלְתִּיהוּ אֵי מִזֶּה הוּא וְאֶת שְׁמוֹ לֹא הִגִּיד לִי",
+       "translit": "velo șeiltihu ē mize hu veet șemo lo higid li",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal perfect + sufix + particulă interogativă + pronume demonstrativ + pronume personal + marcă a complementului direct + substantiv construct + sufix + particulă negativă + verb, hifil perfect + prepoziție + sufix",
+       "def_ro": "și nu l-am întrebat de unde este el, și numele lui nu mi-a spus.",
+       "dict_ro": "Metzudat David explică faptul că femeia n-a mai întrebat de locul de origine al vizitatorului exact pentru că acesta nu-i spusese numele când l-a întrebat — tăcerea lui a descurajat-o de la a continua întrebările."
       }
      ],
      "textCompare": [
@@ -82956,7 +83034,17 @@
      "translit": "Vaiomer li hinah hara veioladet ben veata al-tiști iain veșehar veal-tohli kol-tuma ki-nezir Elohim ihie hanaar min-habeten ad-iom moto.",
      "tokens": [
       {
-       "t": "Și mi-a spus: „Iată, vei zămisli și vei naște un fiu. Și acum, să nu bei nici vin și nici băutură tare, și să nu mănânci nimic necurat, căci tânărul va fi nazireu pentru Dumnezeu, "
+       "t": "Și mi-a spus: „Iată, vei zămisli și vei naște un fiu. Și acum, să nu bei nici vin și nici băutură tare, și să nu mănânci nimic necurat, căci tânărul va fi nazireu pentru Dumnezeu,",
+       "w": "Și mi-a spus: „Iată, vei zămisli și vei naște un fiu. Și acum, să nu bei nici vin și nici băutură tare, și să nu mănânci nimic necurat, căci tânărul va fi nazireu pentru Dumnezeu,",
+       "heb": "וַיֹּאמֶר לִי הִנָּךְ הָרָה וְיֹלַדְתְּ בֵּן וְעַתָּה אַל תִּשְׁתִּי יַיִן וְשֵׁכָר וְאַל תֹּאכְלִי כָּל טֻמְאָה כִּי נְזִיר אֱלֹהִים יִהְיֶה הַנַּעַר מִן",
+       "translit": "vaiomer li hinah hara veioladte bēn veata al tiști iain veșēhar veal tohli kal tuma ki nezir elohim ihie hanaar min",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + particulă demonstrativă + sufix + adjectiv + verb, qal perfect consecutiv + substantiv + adverb + particulă negativă + verb, qal jusiv + substantiv + substantiv + particulă negativă + verb, qal jusiv + substantiv construct + substantiv + conjuncție + substantiv construct + substantiv + verb, qal imperfect + substantiv + prepoziție",
+       "def_ro": "și mi-a spus: iată, tu [ești] însărcinată și vei naște un fiu, și acum nu bea vin și băutură tare, și nu mânca nimic necurat, căci nazireu al lui Dumnezeu va fi tânărul, din.",
+       "dict_ro": "Rashi precizează că «nimic necurat» include, pe lângă vin, și sucul de struguri — orice lucru interzis nazireului, potrivit Numeri 6:4, de la sâmburi până la pieliță."
+      },
+      {
+       "t": " "
       },
       {
        "t": "din pântec",
@@ -82971,7 +83059,14 @@
        "dict_ro": "Beten — pântecele, sânul matern; „din pântece” exprimă o chemare care precede orice alegere personală, ca la Ieremia („înainte să ieși din pântece, te-am sfințit”, Ieremia 1:5) sau la Ioan Botezătorul („umplut de Duhul Sfânt încă din pântecele mamei lui”, Luca 1:15). Femeia repetă cuvintele îngerului aproape exact, dar adaugă „până în ziua morții lui” — o precizare pe care îngerul nu o spusese, și în care cititorul poate auzi deja sfârșitul lui Samson (Judecători 16:30)."
       },
       {
-       "t": " până în ziua morții lui.”"
+       "t": " până în ziua morții lui.”",
+       "w": " până în ziua morții lui.”",
+       "heb": "עַד יוֹם מוֹתוֹ",
+       "translit": "ad iom moto",
+       "strong": "H5704",
+       "pos": "prepoziție + substantiv construct + substantiv construct + sufix",
+       "def_ro": "până în ziua morții lui.",
+       "dict_ro": "Talmudul Bavli (Nazir 4b) ridică întrebarea dacă Samson a fost nazireu printr-un jurământ propriu-zis — răspunsul e negativ, căci aici îngerul a fost cel care a vorbit, nazireatul lui venind dintr-o poruncă divină, nu dintr-un vot personal."
       }
      ],
      "textCompare": [
@@ -83008,7 +83103,17 @@
      "translit": "Vaietar Manoah el-ADONAI vaiomar bi Adonai iș ha'Elohim așer șalahta iavo-na od eleinu veiorenu ma-naase lanaar haiulad.",
      "tokens": [
       {
-       "t": "Manoah "
+       "t": "Manoah",
+       "w": "Manoah",
+       "heb": "מָנוֹחַ",
+       "translit": "manoah",
+       "strong": "H4495",
+       "pos": "nume propriu",
+       "def_ro": "Manoah.",
+       "dict_ro": "Metzudat David explică faptul că Manoah se roagă pentru o a doua vizită a îngerului, deși nu era nevoie, căci îngerul nu avea nimic nou de adăugat — rugăciunea arată dorința lui de confirmare, nu o lacună reală în mesaj."
+      },
+      {
+       "t": " "
       },
       {
        "t": "l-a implorat",
@@ -83023,7 +83128,14 @@
        "dict_ro": "Atar — a se ruga stăruitor, a înmulți rugăciunea; Metzudat Țion îl leagă de Geneza 25:21, unde Isaac „s-a rugat stăruitor” pentru Rebeca cea stearpă. Manoah nu se îndoiește de vestire, dar vrea instrucțiuni: „să ne învețe (yorenu, înrudit cu tora) ce să facem”. Metzudat David explică faptul că se temea ca un nazireu din pântece să nu aibă nevoie de reguli în plus față de nazireatul obișnuit."
       },
       {
-       "t": " pe DOMNUL și a spus: „Rogu-Te, stăpâne, se poate ca omul lui Dumnezeu pe care l-ai trimis să revină la noi să ne învețe ce să facem cu tânărul care se va naște?”"
+       "t": " pe DOMNUL și a spus: „Rogu-Te, stăpâne, se poate ca omul lui Dumnezeu pe care l-ai trimis să revină la noi să ne învețe ce să facem cu tânărul care se va naște?”",
+       "w": " pe DOMNUL și a spus: „Rogu-Te, stăpâne, se poate ca omul lui Dumnezeu pe care l-ai trimis să revină la noi să ne învețe ce să facem cu tânărul care se va naște?”",
+       "heb": "אֶל יְהוָה וַיֹּאמַר בִּי אֲדוֹנָי אִישׁ הָאֱלֹהִים אֲשֶׁר שָׁלַחְתָּ יָבוֹא נָא עוֹד אֵלֵינוּ וְיוֹרֵנוּ מַה נַּעֲשֶׂה לַנַּעַר הַיּוּלָּד",
+       "translit": "el Adonai vaiomar bi adoni iș haelohim așer șalahta iavo na od ēlēnu veorēnu ma naase lanaar haiulad",
+       "strong": "H413",
+       "pos": "prepoziție + nume propriu + verb, qal imperfect consecutiv + interjecție + substantiv construct + sufix + substantiv construct + substantiv + particulă relativă + verb, qal perfect + verb, qal jusiv + interjecție + adverb + prepoziție + sufix + verb, hifil imperfect + sufix + particulă interogativă + verb, qal imperfect + substantiv + verb, qal pasiv participiu pasiv",
+       "def_ro": "către DOMNUL, și a spus: te rog, stăpânul meu, omul lui Dumnezeu pe care l-ai trimis să vină iarăși la noi și să ne învețe ce să facem cu tânărul care se va naște.",
+       "dict_ro": "Rashi, citând Targumul lui Ionatan, explică faptul că întrebarea lui Manoah nu se referea la ce trebuie să facă băiatul, ci la ce trebuie să facă ei, părinții, cu el — grija practică a educației nazireatului, nu a comportamentului copilului."
       }
      ],
      "textCompare": [
@@ -83072,7 +83184,17 @@
      "translit": "Vaișma ha'Elohim bekol Manoah vaiavo malah ha'Elohim od el-haișa vehi ioșevet basade u'Manoah ișa ein ima.",
      "tokens": [
       {
-       "t": "Dumnezeu a ascultat glasul lui Manoah și îngerul lui Dumnezeu a venit iarăși la femeie când ea stătea "
+       "t": "Dumnezeu a ascultat glasul lui Manoah și îngerul lui Dumnezeu a venit iarăși la femeie când ea stătea",
+       "w": "Dumnezeu a ascultat glasul lui Manoah și îngerul lui Dumnezeu a venit iarăși la femeie când ea stătea",
+       "heb": "וַיִּשְׁמַע הָאֱלֹהִים בְּקוֹל מָנוֹחַ וַיָּבֹא מַלְאַךְ הָאֱלֹהִים עוֹד אֶל הָאִשָּׁה וְהִיא יוֹשֶׁבֶת",
+       "translit": "vaișma haelohim bekol manoah vaiavo malah haelohim od el haișa vehi ioșevet",
+       "strong": "H8085",
+       "pos": "verb, qal imperfect consecutiv + substantiv + substantiv construct + nume propriu + verb, qal imperfect consecutiv + substantiv construct + substantiv + adverb + prepoziție + substantiv + pronume personal + verb, qal participiu",
+       "def_ro": "și a ascultat Dumnezeu glasul lui Manoah, și a venit îngerul lui Dumnezeu iarăși la femeie, și ea ședea.",
+       "dict_ro": "Metzudat David explică faptul că DOMNUL a răspuns rugăciunii lui Manoah pentru a-i împlini cererea, deși, strict vorbind, nu era nevoie — îngerul n-avea nimic nou de adăugat la mesajul deja transmis."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pe câmp",
@@ -83087,7 +83209,14 @@
        "dict_ro": "Sade — câmpul deschis, ținutul cultivat din afara așezării. Rugăciunea lui Manoah e ascultată, dar îngerul vine din nou la femeie, și iarăși când e singură, pe câmp. Metzudat David subliniază generozitatea răspunsului: Dumnezeu a împlinit cererea lui Manoah deși nu era necesar, căci îngerul nu va adăuga nimic la ce spusese deja."
       },
       {
-       "t": ", dar soțul ei Manoah nu era cu ea."
+       "t": ", dar soțul ei Manoah nu era cu ea.",
+       "w": ", dar soțul ei Manoah nu era cu ea.",
+       "heb": "וּמָנוֹחַ אִישָׁהּ אֵין עִמָּהּ",
+       "translit": "umanoah ișah ēn imah",
+       "strong": "H4495",
+       "pos": "nume propriu + substantiv construct + sufix + particulă negativă + prepoziție + sufix",
+       "def_ro": "și Manoah, soțul ei, nu [era] cu ea.",
+       "dict_ro": "Absența deliberată a lui Manoah la a doua apariție a îngerului pregătește exact episodul care urmează — femeia trebuie să alerge să-l cheme, confirmând că doar ea cunoștea locul exact al arătării."
       }
      ],
      "textCompare": [
@@ -83122,7 +83251,17 @@
      "translit": "Vatemaher haișa vataroț vataghed leișa vatomer elav hine nira elai haiș așer-ba vaiom elai.",
      "tokens": [
       {
-       "t": "Femeia "
+       "t": "Femeia",
+       "w": "Femeia",
+       "heb": "הָאִשָּׁה",
+       "translit": "haișa",
+       "strong": "H802",
+       "pos": "substantiv",
+       "def_ro": "femeia.",
+       "dict_ro": "Radak confirmă, pe baza Targumului lui Ionatan, că «în ziua aceea» se referă la ziua anume, cea despre care femeia îi spusese deja soțului ei mai înainte — un detaliu temporal precis, nu vag."
+      },
+      {
+       "t": " "
       },
       {
        "t": "s-a grăbit",
@@ -83137,7 +83276,14 @@
        "dict_ro": "Mahar — „a se grăbi”, la forma intensivă; urmat de „a alergat”, cele două verbe arată graba și bucuria cu care femeia îl cheamă pe soțul ei, ca Avraam care „s-a grăbit” și „a alergat” să-și primească oaspeții (Geneza 18:6-7). „În ziua aceea” (bayom) înseamnă, după Radak și Targum, „în ziua de atunci”, ziua primei arătări."
       },
       {
-       "t": " și a alergat și i-a povestit soțului ei și i-a spus: „Iată, omul care a venit la mine în ziua aceea mi-a apărut.”"
+       "t": " și a alergat și i-a povestit soțului ei și i-a spus: „Iată, omul care a venit la mine în ziua aceea mi-a apărut.”",
+       "w": " și a alergat și i-a povestit soțului ei și i-a spus: „Iată, omul care a venit la mine în ziua aceea mi-a apărut.”",
+       "heb": "וַתָּרָץ וַתַּגֵּד לְאִישָׁהּ וַתֹּאמֶר אֵלָיו הִנֵּה נִרְאָה אֵלַי הָאִישׁ אֲשֶׁר בָּא בַיּוֹם אֵלָי",
+       "translit": "vataraț vatagēd leișah vatomer ēlaiv hinē nira ēlai haiș așer ba vaiom ēlai",
+       "strong": "H7323",
+       "pos": "verb, qal imperfect consecutiv + verb, hifil imperfect consecutiv + substantiv construct + sufix + verb, qal imperfect consecutiv + prepoziție + sufix + particulă demonstrativă + verb, nifal perfect + prepoziție + sufix + substantiv + particulă relativă + verb, qal perfect + substantiv + prepoziție + sufix",
+       "def_ro": "și a alergat și a vestit soțului ei, și i-a spus: iată, mi s-a arătat omul care a venit la mine în ziua aceea.",
+       "dict_ro": "Metzudat David explică faptul că «mi-a apărut» confirmă identitatea exactă a vizitatorului cu cel din prima arătare — nu era o ființă nouă, ci aceeași prezență revenită."
       }
      ],
      "textCompare": [
@@ -83189,7 +83335,14 @@
        "dict_ro": "Manoah — de la nuah, „a se odihni”: „loc de odihnă, liniște”. Expresia „a mers după soția sa” a stârnit o dispută în Talmud (Berahot 61a): Rav Nahman a dedus de aici că Manoah era un om neștiutor de carte, căci un bărbat nu merge în urma unei femei; Rav Nahman bar Ițhak a răspuns că și despre Elcana și despre Elisei se spune „a mers după ea”, și înseamnă „după cuvântul și sfatul ei” — așa explică și Rashi. Metzudat David dă o lectură simplă: doar ea știa locul unde se arătase îngerul."
       },
       {
-       "t": " s-a ridicat și a mers după soția sa; și a ajuns la om și i-a spus: „Tu ești omul care i-a vorbit soției [mele]?” Și el a spus: „Eu sunt.”"
+       "t": " s-a ridicat și a mers după soția sa; și a ajuns la om și i-a spus: „Tu ești omul care i-a vorbit soției [mele]?” Și el a spus: „Eu sunt.”",
+       "w": " s-a ridicat și a mers după soția sa; și a ajuns la om și i-a spus: „Tu ești omul care i-a vorbit soției [mele]?” Și el a spus: „Eu sunt.”",
+       "heb": "וַיָּקָם וַיֵּלֶךְ מָנוֹחַ אַחֲרֵי אִשְׁתּוֹ וַיָּבֹא אֶל הָאִישׁ וַיֹּאמֶר לוֹ הַאַתָּה הָאִישׁ אֲשֶׁר דִּבַּרְתָּ אֶל הָאִשָּׁה וַיֹּאמֶר אָנִי",
+       "translit": "vaiakam vaiēleh manoah aharē ișto vaiavo el haiș vaiomer lo haata haiș așer dibarta el haișa vaiomer ani",
+       "strong": "H6965",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv construct + sufix + verb, qal imperfect consecutiv + prepoziție + substantiv + verb, qal imperfect consecutiv + prepoziție + sufix + pronume personal + substantiv + particulă relativă + verb, piel perfect + prepoziție + substantiv + verb, qal imperfect consecutiv + pronume personal",
+       "def_ro": "și s-a ridicat și a mers Manoah după soția lui, și a venit la om, și i-a spus: tu [ești] omul care i-a vorbit femeii? Și a spus: eu [sunt].",
+       "dict_ro": "Talmudul Bavli (Berahot 61a) explică, prin Rav Nahman, expresia «a mers după soția sa» ca «a mers după sfatul și cuvintele ei», nu literalmente în urma ei — paralelă cu Elcana și Elisei, despre care se folosește aceeași expresie fără sens literal."
       }
      ],
      "textCompare": [
@@ -83230,7 +83383,17 @@
      "translit": "Vaiomer Manoah ata iavo devareha ma-ihie mișpat-hanaar umaasehu.",
      "tokens": [
       {
-       "t": "Și Manoah a spus: „Acum, se vor adeveri vorbele tale; "
+       "t": "Și Manoah a spus: „Acum, se vor adeveri vorbele tale;",
+       "w": "Și Manoah a spus: „Acum, se vor adeveri vorbele tale;",
+       "heb": "וַיֹּאמֶר מָנוֹחַ עַתָּה יָבֹא דְבָרֶיךָ מַה יִּהְיֶה",
+       "translit": "vaiomer manoah ata iavo devareha ma ihie",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + adverb + verb, qal imperfect + substantiv plural construct + sufix + particulă interogativă + verb, qal imperfect",
+       "def_ro": "și a spus Manoah: acum vor veni cuvintele tale; ce va fi.",
+       "dict_ro": "Metzudat David explică faptul că venirea a doua a îngerului, prin rugăciunea lui Manoah, confirmă acum fără îndoială că mesajul e cu adevărat cuvântul DOMNULUI — de aceea întreabă detaliile practice ale creșterii copilului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "cum trebuie să se poarte",
@@ -83245,7 +83408,14 @@
        "dict_ro": "Mișpat — de obicei „judecată, dreptate”, dar aici, cum explică Metzudat Țion, „rânduială, fel de a se purta”, ca în 1 Samuel 27:11 („așa a fost obiceiul lui”). Manoah întreabă despre „rânduiala tânărului și fapta lui”; Rashi și Targumul lui Ionatan precizează că întrebarea nu era ce trebuie să facă băiatul, ci ce trebuie să facă ei, părinții, cu el — prima întrebare despre educație din cartea Judecătorilor."
       },
       {
-       "t": " tânărul și ce trebuie să facă?”"
+       "t": " tânărul și ce trebuie să facă?”",
+       "w": " tânărul și ce trebuie să facă?”",
+       "heb": "מִשְׁפַּט הַנַּעַר וּמַעֲשֵׂהוּ",
+       "translit": "mișpat hanaar umaasēhu",
+       "strong": "H4941",
+       "pos": "substantiv construct + substantiv + substantiv construct + sufix",
+       "def_ro": "rânduiala tânărului și fapta lui.",
+       "dict_ro": "Metzudat Țion explică «mișpat» cu sensul de purtare și rânduială, folosit identic la 1 Samuel 27:11 — «obiceiul lui» — nu o lege formală, ci modul de viață potrivit copilului."
       }
      ],
      "textCompare": [
@@ -83295,7 +83465,17 @@
      "translit": "Vaiomer malah ADONAI el-Manoah mikol așer-amarti el-haișa tișamer.",
      "tokens": [
       {
-       "t": "Îngerul lui Dumnezeu i-a spus lui Manoah: „De orice i-am spus femeii, "
+       "t": "Îngerul lui Dumnezeu i-a spus lui Manoah: „De orice i-am spus femeii,",
+       "w": "Îngerul lui Dumnezeu i-a spus lui Manoah: „De orice i-am spus femeii,",
+       "heb": "וַיֹּאמֶר מַלְאַךְ יְהוָה אֶל מָנוֹחַ מִכֹּל אֲשֶׁר אָמַרְתִּי אֶל הָאִשָּׁה",
+       "translit": "vaiomer malah Adonai el manoah mikol așer amarti el haișa",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + nume propriu + prepoziție + nume propriu + substantiv + particulă relativă + verb, qal perfect + prepoziție + substantiv",
+       "def_ro": "și a spus îngerul DOMNULUI către Manoah: din tot ce am spus femeii.",
+       "dict_ro": "Metzudat David explică faptul că rânduiala tânărului nu adaugă nimic nou peste nazireatul obișnuit — singurul adaos e că și mama trebuie să se păzească de toate restricțiile deja spuse, nu copilul singur."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să se păzească",
@@ -83343,7 +83523,17 @@
      "translit": "Mikol așer-iețe mighefen haiain lo tohal veiain veșehar al-teșt vehol-tuma al-tohal kol așer-țivitiha tișmor.",
      "tokens": [
       {
-       "t": "Orice care iese din "
+       "t": "Orice care iese din",
+       "w": "Orice care iese din",
+       "heb": "מִכֹּל אֲשֶׁר יֵצֵא",
+       "translit": "mikol așer iēțē",
+       "strong": "H3605",
+       "pos": "substantiv + particulă relativă + verb, qal imperfect",
+       "def_ro": "din tot ce iese.",
+       "dict_ro": "Metzudat Țion explică faptul că expresia precizează «vița vinului», pentru că există și o viță de câmp, pomenită la 2 Împărați 4:39 — precizarea evită confuzia cu alte plante numite tot «viță»."
+      },
+      {
+       "t": " "
       },
       {
        "t": "vița-de-vie",
@@ -83358,7 +83548,14 @@
        "dict_ro": "Ghefen haiain — literal „vița vinului”; Metzudat Țion explică de ce e nevoie de precizare: există și o „viță de câmp” sălbatică (2 Împărați 4:39), cu roade otrăvitoare, iar interdicția privește doar vița de vin. Formula reia cuvânt cu cuvânt legea din pericopa Naso: „tot ce se face din vița-de-vie, de la sâmburi până la pieliță, să nu mănânce” (Numeri 6:4). Ce „i-am poruncit ei” rămâne regula, fără adaosuri."
       },
       {
-       "t": " să nu mănânce, vin sau băutură tare să nu bea, și nimic necurat să nu mănânce, tot ce i-am poruncit să păzească.”"
+       "t": " să nu mănânce, vin sau băutură tare să nu bea, și nimic necurat să nu mănânce, tot ce i-am poruncit să păzească.”",
+       "w": " să nu mănânce, vin sau băutură tare să nu bea, și nimic necurat să nu mănânce, tot ce i-am poruncit să păzească.”",
+       "heb": "מִגֶּפֶן הַיַּיִן לֹא תֹאכַל וְיַיִן וְשֵׁכָר אַל תֵּשְׁתְּ וְכָל טֻמְאָה אַל תֹּאכַל כֹּל אֲשֶׁר צִוִּיתִיהָ תִּשְׁמֹר",
+       "translit": "migefen haiain lo tohal veiain veșēhar al tēște vehal tuma al tohal kol așer țivitiha tișmor",
+       "strong": "H1612",
+       "pos": "substantiv construct + substantiv + particulă negativă + verb, qal imperfect + substantiv + substantiv + particulă negativă + verb, qal jusiv + substantiv construct + substantiv + particulă negativă + verb, qal jusiv + substantiv + particulă relativă + verb, piel perfect + verb, qal imperfect",
+       "def_ro": "vița vinului, să nu mănânce; și vin și băutură tare să nu bea; și nimic necurat să nu mănânce; tot ce i-am poruncit să păzească.",
+       "dict_ro": "Metzudat David precizează clar: nu mai e nimic de adăugat, doar să păzească tot ce fusese deja poruncit — simplitatea finală a rânduielii, fără complicații suplimentare cerute de statutul special al copilului."
       }
      ],
      "textCompare": [
@@ -83400,7 +83597,17 @@
      "translit": "Vaiomer Manoah el-malah ADONAI națra-na otah venaase lefaneha ghedi izim.",
      "tokens": [
       {
-       "t": "Și Manoah i-a spus îngerului DOMNULUI: „Lasă-ne să te reținem și-ți vom pregăti "
+       "t": "Și Manoah i-a spus îngerului DOMNULUI: „Lasă-ne să te reținem și-ți vom pregăti",
+       "w": "Și Manoah i-a spus îngerului DOMNULUI: „Lasă-ne să te reținem și-ți vom pregăti",
+       "heb": "וַיֹּאמֶר מָנוֹחַ אֶל מַלְאַךְ יְהוָה נַעְצְרָה נָּא אוֹתָךְ וְנַעֲשֶׂה לְפָנֶיךָ",
+       "translit": "vaiomer manoah el malah Adonai națera na otah venaase lefaneha",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv construct + nume propriu + verb, qal cohortativ + interjecție + marcă a complementului direct + sufix + verb, qal imperfect + substantiv plural construct + sufix",
+       "def_ro": "și a spus Manoah către îngerul DOMNULUI: să te reținem, te rog, și să pregătim înaintea ta.",
+       "dict_ro": "Rashi explică faptul că Manoah vrea să-l rețină pe înger ca pe un oaspete obișnuit în casa lor — fără să suspecteze încă natura lui supranaturală, oferindu-i ospitalitate convențională."
+      },
+      {
+       "t": " "
       },
       {
        "t": "un ied",
@@ -83415,7 +83622,14 @@
        "dict_ro": "Ghedi izim — iedul din turma de capre, carnea de cinste pentru un oaspete, ca vițelul pe care Avraam l-a pregătit îngerilor (Geneza 18:7) sau iedul lui Ghedeon (Judecători 6:19). Manoah vrea să-l „rețină” (națra) pe musafir, ca oaspete la masă, cum explică Rashi; ospitalitatea lui e reală, dar arată și că încă nu înțelege cine stă în fața lui."
       },
       {
-       "t": " din turmă.”"
+       "t": " din turmă.”",
+       "w": " din turmă.”",
+       "heb": "עִזִּים",
+       "translit": "izim",
+       "strong": "H5795",
+       "pos": "substantiv",
+       "def_ro": "de capre.",
+       "dict_ro": "Metzudat Țion explică «națera» cu sensul de a opri sau reține, ca la 1 Împărați 18:44 — «să nu te oprească ploaia» — aceeași rădăcină pentru oprirea unui oaspete înainte de plecare."
       }
      ],
      "textCompare": [
@@ -83455,7 +83669,17 @@
      "translit": "Vaiomer malah ADONAI el-Manoah im-tațreni lo-ohal belahmeha veim-taase ola l'ADONAI taalena ki lo-iada Manoah ki-malah ADONAI hu.",
      "tokens": [
       {
-       "t": "Dar îngerul DOMNULUI i-a spus lui Manoah: „Dacă mă reții, nu voi mânca din mâncarea ta, dar dacă vei face "
+       "t": "Dar îngerul DOMNULUI i-a spus lui Manoah: „Dacă mă reții, nu voi mânca din mâncarea ta, dar dacă vei face",
+       "w": "Dar îngerul DOMNULUI i-a spus lui Manoah: „Dacă mă reții, nu voi mânca din mâncarea ta, dar dacă vei face",
+       "heb": "וַיֹּאמֶר מַלְאַךְ יְהוָה אֶל מָנוֹחַ אִם תַּעְצְרֵנִי לֹא אֹכַל בְּלַחְמֶךָ וְאִם תַּעֲשֶׂה",
+       "translit": "vaiomer malah Adonai el manoah im tațerēni lo ohal belahmeha veim taase",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + substantiv construct + nume propriu + prepoziție + nume propriu + conjuncție + verb, qal imperfect + sufix + particulă negativă + verb, qal imperfect + substantiv construct + sufix + conjuncție + verb, qal imperfect",
+       "def_ro": "și a spus îngerul DOMNULUI către Manoah: dacă mă vei reține, nu voi mânca din pâinea ta; și dacă vei face.",
+       "dict_ro": "Radak explică faptul că «din mâncarea ta» (lahmeha) cuprinde orice fel de mâncare, nu doar pâinea propriu-zisă — refuzul îngerului de a mânca e absolut, indiferent de natura ofrandei pregătite."
+      },
+      {
+       "t": " "
       },
       {
        "t": "o ardere-de-tot",
@@ -83470,7 +83694,14 @@
        "dict_ro": "Ola — „ceea ce se înalță”, jertfa arsă în întregime pe altar, al cărei fum urcă spre cer; nimic din ea nu e mâncat. Îngerul refuză masa („lehem”, explică Radak, înseamnă orice mâncare), dar îndreaptă darul spre singurul lui Destinatar: „înalț-o către DOMNUL”. Radak explică de ce precizarea era necesară: generația aceea făcea rău în ochii DOMNULUI și aducea arderi-de-tot altor dumnezei."
       },
       {
-       "t": ", atunci înalț-o către DOMNUL” – căci Manoah nu știa că era un înger al DOMNULUI."
+       "t": ", atunci înalț-o către DOMNUL” – căci Manoah nu știa că era un înger al DOMNULUI.",
+       "w": ", atunci înalț-o către DOMNUL” – căci Manoah nu știa că era un înger al DOMNULUI.",
+       "heb": "עֹלָה לַיהוָה תַּעֲלֶנָּה כִּי לֹא יָדַע מָנוֹחַ כִּי מַלְאַךְ יְהוָה הוּא",
+       "translit": "la'Adonai taalena ki lo iada manoah ki malah Adonai hu",
+       "strong": "H3068",
+       "pos": "nume propriu + verb, hifil imperfect + sufix + conjuncție + particulă negativă + verb, qal perfect + nume propriu + conjuncție + substantiv construct + nume propriu + pronume personal",
+       "def_ro": "către DOMNUL s-o înalți, căci n-a cunoscut Manoah că înger al DOMNULUI [era] el.",
+       "dict_ro": "Radak explică faptul că îngerul a spus special «către DOMNUL», pentru că generația aceea făcea rău în ochii DOMNULUI și aducea arderi-de-tot altor dumnezei — precizarea exclude orice ambiguitate despre destinatarul jertfei."
       }
      ],
      "textCompare": [
@@ -83510,7 +83741,17 @@
      "translit": "Vaiomer Manoah el-malah ADONAI mi șemeha ki-iavo devarha vehibadnuha.",
      "tokens": [
       {
-       "t": "Și Manoah i-a spus îngerului DOMNULUI: „Care îți este numele, ca atunci când se vor adeveri vorbele tale "
+       "t": "Și Manoah i-a spus îngerului DOMNULUI: „Care îți este numele, ca atunci când se vor adeveri vorbele tale",
+       "w": "Și Manoah i-a spus îngerului DOMNULUI: „Care îți este numele, ca atunci când se vor adeveri vorbele tale",
+       "heb": "וַיֹּאמֶר מָנוֹחַ אֶל מַלְאַךְ יְהוָה מִי שְׁמֶךָ כִּי יָבֹא דְבָרְךָ",
+       "translit": "vaiomer manoah el malah Adonai mi șemeha ki iavo devarha",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv construct + nume propriu + particulă interogativă + substantiv construct + sufix + conjuncție + verb, qal imperfect + substantiv construct + sufix",
+       "def_ro": "și a spus Manoah către îngerul DOMNULUI: care [este] numele tău, ca atunci când va veni cuvântul tău.",
+       "dict_ro": "Radak explică faptul că Manoah folosește «mi» (cine), nu «ma» (ce), deși gramatical ar fi cerut «ce e numele tău» — folosirea lui «mi» arată că, în ochii lui Manoah, numele unui om mare și cinstit e aproape identic cu ființa lui însăși."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să te cinstim",
@@ -83570,7 +83811,17 @@
      "translit": "Vaiomer lo malah ADONAI lama ze tișal lișmi vehu-feli.",
      "tokens": [
       {
-       "t": "Iar îngerul DOMNULUI i-a spus: „De ce îmi ceri numele? Este "
+       "t": "Iar îngerul DOMNULUI i-a spus: „De ce îmi ceri numele? Este",
+       "w": "Iar îngerul DOMNULUI i-a spus: „De ce îmi ceri numele? Este",
+       "heb": "וַיֹּאמֶר לּוֹ מַלְאַךְ יְהוָה לָמָּה זֶּה תִּשְׁאַל לִשְׁמִי וְהוּא",
+       "translit": "vaiomer lo malah Adonai lama ze tișal lișmi vehu",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv construct + nume propriu + particulă interogativă + pronume demonstrativ + verb, qal imperfect + substantiv construct + sufix + pronume personal",
+       "def_ro": "și i-a spus îngerul DOMNULUI: de ce întrebi de numele meu? Și el [este].",
+       "dict_ro": "Rashi explică faptul că numele îngerului e «miraculos» pentru că se schimbă mereu, după misiunea îndeplinită la momentul respectiv — nu există un nume fix pe care Manoah l-ar putea afla și folosi."
+      },
+      {
+       "t": " "
       },
       {
        "t": "miraculos",
@@ -83632,7 +83883,17 @@
      "translit": "Vaikah Manoah et-ghedi haizim veet-haminha vaiaal al-hațur l'ADONAI umafli laasot u'Manoah veișto roim.",
      "tokens": [
       {
-       "t": "Manoah a luat un ied din turmă și prinosul și le-a adus ofrandă DOMNULUI, "
+       "t": "Manoah a luat un ied din turmă și prinosul și le-a adus ofrandă DOMNULUI,",
+       "w": "Manoah a luat un ied din turmă și prinosul și le-a adus ofrandă DOMNULUI,",
+       "heb": "וַיִּקַּח מָנוֹחַ אֶת גְּדִי הָעִזִּים וְאֶת הַמִּנְחָה וַיַּעַל עַל",
+       "translit": "vaikah manoah et gedi haizim veet haminha vaiaal al",
+       "strong": "H3947",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv construct + substantiv + marcă a complementului direct + substantiv + verb, hifil imperfect consecutiv + prepoziție",
+       "def_ro": "și a luat Manoah iedul de capre și prinosul, și le-a înălțat pe.",
+       "dict_ro": "Radak explică faptul că aducerea unei arderi-de-tot pe o stâncă, într-o vreme când altarele de pe înălțimi erau interzise, a fost o hotărâre excepțională pentru acel moment anume — îngerul însuși indicase exact acest loc."
+      },
+      {
+       "t": " "
       },
       {
        "t": "pe o stâncă",
@@ -83647,7 +83908,14 @@
        "dict_ro": "Țur — stânca, blocul de piatră care ține aici loc de altar; tot pe o stâncă a adus jertfa și Ghedeon, când îngerul a scos foc din ea (Judecători 6:20-21). Radak ridică o problemă de lege: cât timp Cortul Întâlnirii era la Șilo, altarele particulare erau interzise; înțelepții au explicat că a fost o „hotărâre pentru acel moment” (horaat șaa), dată chiar de înger. „Minunea” pe care o face îngerul este, după Metzudat David, scoaterea focului din stâncă."
       },
       {
-       "t": ". Iar [îngerul] a făcut o minune, în timp ce soția lui Manoah privea."
+       "t": ". Iar [îngerul] a făcut o minune, în timp ce soția lui Manoah privea.",
+       "w": ". Iar [îngerul] a făcut o minune, în timp ce soția lui Manoah privea.",
+       "heb": "הַצּוּר לַיהוָה וּמַפְלִא לַעֲשׂוֹת וּמָנוֹחַ וְאִשְׁתּוֹ רֹאִים",
+       "translit": "hațur la'Adonai umafli laasot umanoah veișto roim",
+       "strong": "H6697",
+       "pos": "substantiv + nume propriu + verb, hifil participiu + verb, qal infinitiv + nume propriu + substantiv construct + sufix + verb, qal participiu",
+       "def_ro": "stâncă pentru DOMNUL, și a făcut minuni, și Manoah și soția lui priveau.",
+       "dict_ro": "Radak explică faptul că îngerul a făcut minunea scoțând chiar focul din stâncă, mistuind iedul și prinosul fără o sursă de foc obișnuită — minunea precede exact momentul înălțării lui în flacără."
       }
      ],
      "textCompare": [
@@ -83689,7 +83957,17 @@
      "translit": "Vaihi vaalot halahav meal hamizbeah hașamaima vaiaal malah-ADONAI belahav hamizbeah u'Manoah veișto roim vaiplu al-peneihem arța.",
      "tokens": [
       {
-       "t": "Și a fost că atunci când "
+       "t": "Și a fost că atunci când",
+       "w": "Și a fost că atunci când",
+       "heb": "וַיְהִי בַעֲלוֹת",
+       "translit": "vaihi vaalot",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv + verb, qal infinitiv",
+       "def_ro": "și a fost, când s-a ridicat.",
+       "dict_ro": "Radak explică precizia temporală a textului, cu prefixul «bet», care marchează exact clipa înălțării flăcării — simultaneitatea dintre urcarea focului și urcarea îngerului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "flacăra",
@@ -83704,7 +83982,14 @@
        "dict_ro": "Lahav — flacăra, dar și lama strălucitoare a unei arme (Judecători 3:22), căci amândouă strălucesc; Metzudat Țion îl explică prin „șalhevet”, flacără. Îngerul se înalță chiar în flacăra jertfei, ca o arătare că darul a fost primit sus. Căderea „cu fața la pământ” e reacția oamenilor în fața gloriei lui Dumnezeu la inaugurarea altarului din Cortul Întâlnirii (Leviticul 9:24) sau pe Carmel (1 Împărați 18:39)."
       },
       {
-       "t": " s-a ridicat de pe altar către ceruri, îngerul DOMNULUI a urcat și el în flacăra de pe altar. Iar Manoah și soția lui priveau și au căzut cu fața la pământ."
+       "t": " s-a ridicat de pe altar către ceruri, îngerul DOMNULUI a urcat și el în flacăra de pe altar. Iar Manoah și soția lui priveau și au căzut cu fața la pământ.",
+       "w": " s-a ridicat de pe altar către ceruri, îngerul DOMNULUI a urcat și el în flacăra de pe altar. Iar Manoah și soția lui priveau și au căzut cu fața la pământ.",
+       "heb": "מֵעַל הַמִּזְבֵּחַ הַשָּׁמַיְמָה וַיַּעַל מַלְאַךְ יְהוָה בְּלַהַב הַמִּזְבֵּחַ וּמָנוֹחַ וְאִשְׁתּוֹ רֹאִים וַיִּפְּלוּ עַל פְּנֵיהֶם אָרְצָה",
+       "translit": "mēal hamizbēah hașamaima vaiaal malah Adonai belahav hamizbēah umanoah veișto roim vaiplu al penēhem arța",
+       "strong": "H5921",
+       "pos": "prepoziție + substantiv + substantiv + verb, qal imperfect consecutiv + substantiv construct + nume propriu + prepoziție + substantiv construct + substantiv + nume propriu + substantiv construct + sufix + verb, qal participiu + verb, qal imperfect consecutiv + prepoziție + substantiv plural construct + sufix + substantiv",
+       "def_ro": "de pe altar către ceruri, și a urcat îngerul DOMNULUI în flacăra altarului, și Manoah și soția lui priveau, și au cădut cu fața la pământ.",
+       "dict_ro": "Metzudat David explică faptul că Manoah și soția lui priveau exact în clipa în care îngerul s-a înălțat în flacără — gestul de a cădea cu fața la pământ e reacția firească la descoperirea bruscă a naturii lui supranaturale."
       }
      ],
      "textCompare": [
@@ -83752,7 +84037,17 @@
      "translit": "Velo-iasaf od malah ADONAI leherao el-Manoah veel-ișto az iada Manoah ki-malah ADONAI hu.",
      "tokens": [
       {
-       "t": "Îngerul DOMNULUI nu le-a mai apărut lui Manoah și soției lui și [așa] Manoah "
+       "t": "Îngerul DOMNULUI nu le-a mai apărut lui Manoah și soției lui și [așa] Manoah",
+       "w": "Îngerul DOMNULUI nu le-a mai apărut lui Manoah și soției lui și [așa] Manoah",
+       "heb": "וְלֹא יָסַף עוֹד מַלְאַךְ יְהוָה לְהֵרָאֹה אֶל מָנוֹחַ וְאֶל אִשְׁתּוֹ אָז",
+       "translit": "velo iasaf od malah Adonai lehērao el manoah veel ișto az",
+       "strong": "H3808",
+       "pos": "particulă negativă + verb, qal perfect + adverb + substantiv construct + nume propriu + verb, nifal infinitiv + prepoziție + nume propriu + prepoziție + substantiv construct + sufix + adverb",
+       "def_ro": "și n-a mai continuat îngerul DOMNULUI să se arate lui Manoah și soției lui; atunci.",
+       "dict_ro": "Radak explică faptul că expresia «atunci Manoah a știut» se poate lega atât de urcarea îngerului în flacără, cât și de faptul că nu li s-a mai arătat din nou — ambele detalii confirmă împreună natura lui angelică."
+      },
+      {
+       "t": " "
       },
       {
        "t": "a știut",
@@ -83767,7 +84062,14 @@
        "dict_ro": "Yada — „a ști, a cunoaște” prin experiență, nu doar prin informație. Abia acum, după ce îngerul s-a înălțat în flacără, Manoah „a știut” ce femeia intuise de la început. Radak discută legătura frazei: Manoah a înțeles fie din urcarea în flacără, fie din faptul că îngerul nu s-a mai arătat deloc de atunci — ambele lecturi sunt posibile."
       },
       {
-       "t": " că este un înger al DOMNULUI."
+       "t": " că este un înger al DOMNULUI.",
+       "w": " că este un înger al DOMNULUI.",
+       "heb": "כִּי מַלְאַךְ יְהוָה הוּא",
+       "translit": "ki malah Adonai hu",
+       "strong": "H3588",
+       "pos": "conjuncție + substantiv construct + nume propriu + pronume personal",
+       "def_ro": "că înger al DOMNULUI [era] el.",
+       "dict_ro": "Confirmarea finală a identității îngerului vine abia după ce toate semnele — minunea focului, urcarea în flacără, neapariția ulterioară — s-au adunat laolaltă, nu dintr-o singură dovadă izolată."
       }
      ],
      "textCompare": [
@@ -83807,7 +84109,17 @@
      "translit": "Vaiomer Manoah el-ișto mot namut ki Elohim rainu.",
      "tokens": [
       {
-       "t": "Și Manoah i-a spus soției lui: „Vom muri negreșit, căci "
+       "t": "Și Manoah i-a spus soției lui: „Vom muri negreșit, căci",
+       "w": "Și Manoah i-a spus soției lui: „Vom muri negreșit, căci",
+       "heb": "וַיֹּאמֶר מָנוֹחַ אֶל אִשְׁתּוֹ מוֹת נָמוּת כִּי",
+       "translit": "vaiomer manoah el ișto mot namut ki",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv construct + sufix + verb, qal infinitiv absolut + verb, qal imperfect + conjuncție",
+       "def_ro": "și a spus Manoah către soția lui: negreșit vom muri, căci.",
+       "dict_ro": "Fraza «mot namut», cu infinitivul absolut dublat, exprimă o certitudine disperată — Manoah e convins că văzând fața divină a încălcat o limită de netrecut."
+      },
+      {
+       "t": " "
       },
       {
        "t": "L-am văzut pe Dumnezeu",
@@ -83822,7 +84134,14 @@
        "dict_ro": "Elohim — Dumnezeu, dar cuvântul poate desemna și ființe cerești sau judecători; Metzudat David explică pe scurt: „Elohim — un înger al lui Dumnezeu”. Teama lui Manoah pornește de la cuvântul spus lui Moise: „omul nu poate să Mă vadă și să trăiască” (Exodul 33:20); aceeași spaimă o are Ghedeon (Judecători 6:22-23) și Isaia („vai de mine, sunt pierdut”, Isaia 6:5)."
       },
       {
-       "t": ".”"
+       "t": ".”",
+       "w": ".”",
+       "heb": "רָאִינוּ",
+       "translit": "rainu",
+       "strong": "H7200",
+       "pos": "verb, qal perfect",
+       "def_ro": "am văzut.",
+       "dict_ro": "Metzudat David explică faptul că «Dumnezeu» din această frază se referă în realitate la un înger al lui Dumnezeu, nu la vederea directă a divinității Înseși — distincția teologică importantă pe care Manoah, în panica lui, o pierde din vedere."
       }
      ],
      "textCompare": [
@@ -83860,7 +84179,17 @@
      "translit": "Vatomer lo ișto lu hafeț ADONAI lahamitenu lo-lakah miiadenu ola uminha velo heranu et-kol-ele vehaet lo hișmianu kazot.",
      "tokens": [
       {
-       "t": "Dar soția lui i-a spus: „Dacă DOMNUL voia să ne omoare, nu ar fi primit din mâna noastră arderea-de-tot și "
+       "t": "Dar soția lui i-a spus: „Dacă DOMNUL voia să ne omoare, nu ar fi primit din mâna noastră arderea-de-tot și",
+       "w": "Dar soția lui i-a spus: „Dacă DOMNUL voia să ne omoare, nu ar fi primit din mâna noastră arderea-de-tot și",
+       "heb": "וַתֹּאמֶר לוֹ אִשְׁתּוֹ לוּ חָפֵץ יְהוָה לַהֲמִיתֵנוּ לֹא לָקַח מִיָּדֵנוּ עֹלָה וּ",
+       "translit": "vatomer lo ișto lu hafēț Adonai lahamitēnu lo lakah miadēnu ola u",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv construct + sufix + conjuncție + verb, qal perfect + nume propriu + verb, hifil infinitiv + sufix + particulă negativă + verb, qal perfect + substantiv construct + sufix + substantiv + conjuncție",
+       "def_ro": "și i-a spus soția lui: dacă ar fi voit DOMNUL să ne ucidă, n-ar fi primit din mâna noastră arderea-de-tot și.",
+       "dict_ro": "Metzudat Țion explică «lu» cu sensul de «dacă», ca la Judecători 8:19 — «dacă i-ați fi lăsat în viață» — construcția condițională subliniază argumentul logic al femeii: acceptarea jertfei exclude intenția de a-i ucide."
+      },
+      {
+       "t": " "
       },
       {
        "t": "prinosul",
@@ -83875,7 +84204,14 @@
        "dict_ro": "Minha — la început, orice dar adus unui superior (Geneza 32:13), apoi jertfa de făină care însoțea arderea-de-tot (Levitic 2). Femeia răspunde cu o logică liniștită, în trei trepte: Dumnezeu a primit jertfa, ne-a arătat minunile și ne-a vestit un fiu — n-ar fi făcut toate acestea ca să ne omoare. Rashi explică ultimul argument: nu ne-ar fi vestit nașterea unui fiu dacă am fi meritat să murim. E cea mai înțeleaptă replică din capitol, și o spune femeia fără nume."
       },
       {
-       "t": ", și nici nu ne-ar fi arătat toate acestea, și nici nu ne-ar fi făcut să auzim aceste vești la vremea aceasta.”"
+       "t": ", și nici nu ne-ar fi arătat toate acestea, și nici nu ne-ar fi făcut să auzim aceste vești la vremea aceasta.”",
+       "w": ", și nici nu ne-ar fi arătat toate acestea, și nici nu ne-ar fi făcut să auzim aceste vești la vremea aceasta.”",
+       "heb": "מִנְחָה וְלֹא הֶרְאָנוּ אֶת כָּל אֵלֶּה וְכָעֵת לֹא הִשְׁמִיעָנוּ כָּזֹאת",
+       "translit": "minha velo heranu et kal ēle vehaēt lo hișmianu kazot",
+       "strong": "H4503",
+       "pos": "substantiv + particulă negativă + verb, hifil perfect + sufix + marcă a complementului direct + substantiv construct + pronume demonstrativ + substantiv + particulă negativă + verb, hifil perfect + sufix + pronume demonstrativ",
+       "def_ro": "prinosul; și nu ne-ar fi arătat toate acestea, și la vremea aceasta nu ne-ar fi făcut să auzim ca aceasta.",
+       "dict_ro": "Rashi explică faptul că, dacă ar fi meritat să moară, DOMNUL nu le-ar fi vestit aceste vești despre nașterea unui fiu — logica femeii e simplă: o veste despre viitor exclude o pedeapsă imediată cu moartea."
       }
      ],
      "textCompare": [
@@ -83920,7 +84256,17 @@
      "translit": "Vateled haișa ben vatikra et-șemo Șimșon vaigdal hanaar vaievarehehu ADONAI.",
      "tokens": [
       {
-       "t": "Femeia a născut un fiu și i-a pus numele "
+       "t": "Femeia a născut un fiu și i-a pus numele",
+       "w": "Femeia a născut un fiu și i-a pus numele",
+       "heb": "וַתֵּלֶד הָאִשָּׁה בֵּן וַתִּקְרָא אֶת שְׁמוֹ",
+       "translit": "vatēled haișa bēn vatikra et șemo",
+       "strong": "H3205",
+       "pos": "verb, qal imperfect consecutiv + substantiv + substantiv + verb, qal imperfect consecutiv + marcă a complementului direct + substantiv construct + sufix",
+       "def_ro": "și a născut femeia un fiu, și a chemat numele lui.",
+       "dict_ro": "Talmudul Bavli (Sota 10a) explică, prin Rabi Iohanan, faptul că numele «Șimșon» e legat de numele DOMNULUI, numit «soare» (șemeș) la Psalmii 84:11 — precum DOMNUL ocrotește lumea întreagă, așa Samson, în generația lui, a ocrotit tot Israelul."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Samson",
@@ -83935,7 +84281,14 @@
        "dict_ro": "Șimșon — de la șemeș, „soare”, cu sufix diminutival: „micul soare, cel însorit”; Bet-Șemeș, „casa soarelui”, e aproape de Țora. Talmudul (Sota 10a) aduce cuvântul lui Rabi Iohanan: Samson e numit după numele Sfântului, binecuvântat fie El, căci e scris „DOMNUL Dumnezeu este soare și scut” (Psalmul 84:11) — nu că numele lui ar fi sfânt, ci că, precum Dumnezeu ocrotește lumea întreagă, așa Samson a ocrotit Israelul în generația lui. Evrei 11:32 îl numără printre eroii credinței."
       },
       {
-       "t": ". Și tânărul a crescut și Dumnezeu l-a binecuvântat."
+       "t": ". Și tânărul a crescut și Dumnezeu l-a binecuvântat.",
+       "w": ". Și tânărul a crescut și Dumnezeu l-a binecuvântat.",
+       "heb": "וַיִּגְדַּל הַנַּעַר וַיְבָרְכֵהוּ יְהוָה",
+       "translit": "vaigdal hanaar vaivarhēhu Adonai",
+       "strong": "H1431",
+       "pos": "verb, qal imperfect consecutiv + substantiv + verb, piel imperfect consecutiv + sufix + nume propriu",
+       "def_ro": "și a crescut tânărul, și l-a binecuvântat DOMNUL.",
+       "dict_ro": "Binecuvântarea explicită a DOMNULUI, menționată încă din copilărie, pregătește direct versetul următor, în care duhul DOMNULUI începe să-l miște pe Samson spre fapte de vitejie."
       }
      ],
      "textCompare": [
@@ -83973,7 +84326,17 @@
      "translit": "Vatahel ruah ADONAI lefaamo bemahane-Dan bein Țora uvein Eștaol.",
      "tokens": [
       {
-       "t": "Și duhul DOMNULUI a început "
+       "t": "Și duhul DOMNULUI a început",
+       "w": "Și duhul DOMNULUI a început",
+       "heb": "וַתָּחֶל רוּחַ יְהוָה",
+       "translit": "vatahel ruah Adonai",
+       "strong": "H2490",
+       "pos": "verb, hifil imperfect consecutiv + substantiv construct + nume propriu",
+       "def_ro": "și a început duhul DOMNULUI.",
+       "dict_ro": "Talmudul Bavli (Sota 9b) explică, prin Rabi Hama, fiul lui Rabi Hanina, că profeția lui Iacov despre Dan — «Dan va fi un șarpe pe drum» (Geneza 49:17) — s-a împlinit exact prin Samson, confirmând legătura dintre binecuvântarea patriarhală și fapta eroului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "să-l miște",
@@ -83987,7 +84350,14 @@
        "dict_ro": "Paam — „a lovi, a bate ritmic, a pune în mișcare”; de aici paam („pas, dată”) și paamon („clopoțel”). Rashi îl citește „cercetându-l din când în când”: duhul nu stătea pe el tot timpul, ci venea în valuri. Talmudul (Sota 9b) dă două lecturi: prin Samson a început să se împlinească profeția lui Iacov despre Dan („Dan va fi un șarpe pe drum”, Geneza 49:17), iar Șehina suna înaintea lui ca un clopoțel, după clopoțeii de pe haina marelui preot (Exodul 39:26). Mahane-Dan, „tabăra lui Dan”, e locul unde a tăbărât tribul la plecarea spre Laiș (Judecători 18:12)."
       },
       {
-       "t": " în tabăra lui Dan, între Țora și Eștaol."
+       "t": " în tabăra lui Dan, între Țora și Eștaol.",
+       "w": " în tabăra lui Dan, între Țora și Eștaol.",
+       "heb": "לְפַעֲמוֹ בְּמַחֲנֵה דָן בֵּין צָרְעָה וּבֵין אֶשְׁתָּאֹל",
+       "translit": "lefaamo bemahanē dan bēn țara uvēn eștaol",
+       "strong": "H6470",
+       "pos": "verb, qal infinitiv + sufix + nume propriu + nume propriu + prepoziție + nume propriu + prepoziție + nume propriu",
+       "def_ro": "să-l miște, în tabăra lui Dan, între Țora și Eștaol.",
+       "dict_ro": "Rabi Ițhak din școala lui Rabi Ami explică, în același loc talmudic, că «lefaamo» ne învață că Șehina suna înaintea lui ca un clopoțel — aceeași rădăcină fiind folosită la Exod 39:26 pentru clopoțelul de pe haina marelui preot."
       }
      ],
      "textCompare": [
