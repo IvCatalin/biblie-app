@@ -23287,14 +23287,7 @@
        "t": " "
       },
       {
-       "t": "din cauza",
-       "w": "din cauza",
-       "heb": "עַל הַדָּם",
-       "translit": "al hadam",
-       "strong": "H1818",
-       "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "din cauza sângelui (al hadam)",
-       "dict_ro": "Introduce primul motiv concret al mâniei divine, vărsarea de sânge."
+       "t": "din cauza"
       },
       {
        "t": " "
@@ -24980,25 +24973,18 @@
       {
        "t": "grânele",
        "w": "grânele",
-       "heb": "אֶל הַדָּגָן",
-       "translit": "el hadagan",
+       "heb": "הַדָּגָן",
+       "translit": "hadagan",
        "strong": "H1715",
-       "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "la grâu (el hadagan)",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "grâul (hadagan)",
        "dict_ro": "Obiectul chemării divine directe, prima binecuvântare agricolă."
       },
       {
        "t": " "
       },
       {
-       "t": "să crească",
-       "w": "să crească",
-       "heb": "הַדָּגָן",
-       "translit": "hadagan",
-       "strong": "H1715",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "grâul (hadagan)",
-       "dict_ro": "Rezultatul chemării divine, creșterea abundentă a cerealelor."
+       "t": "să crească"
       },
       {
        "t": " "
@@ -57217,11 +57203,11 @@
       {
        "t": "și fulgere înfocate",
        "w": "și fulgere înfocate",
-       "heb": "וְיֵצֵא רֶשֶׁף",
-       "translit": "veiēțē reșef",
+       "heb": "רֶשֶׁף",
+       "translit": "reșef",
        "strong": "H7565",
-       "pos": "verb, qal imperfect + substantiv, masculin singular",
-       "def_ro": "și va ieși fulger (veiēțē reșef)",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "fulger (reșef)",
        "dict_ro": "Rashi explică faptul că îngerii de foc au venit împreună cu El la Sinai."
       },
       {
@@ -60462,14 +60448,7 @@
      "translit": "Hațori ein be'Ghilad im-rofe ein șam ki madua lo alta aruhat bat-ami.",
      "tokens": [
       {
-       "t": "Oare",
-       "w": "Oare",
-       "heb": "הַצֳרִי",
-       "translit": "hațori",
-       "strong": "H6875",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "balsamul (hațori)",
-       "dict_ro": "Rashi explică faptul că balsamul vindecător venea de obicei din Ghilad, așa cum arată și Ieremia 46:11."
+       "t": "Oare"
       },
       {
        "t": " "
@@ -61902,10 +61881,10 @@
       {
        "t": "Să nu îi pedepsesc oare",
        "w": "Să nu îi pedepsesc oare",
-       "heb": "לֹא תִתְנַקֵּם",
-       "translit": "lo titnakēm",
-       "strong": "H5358",
-       "pos": "particulă negativă + verb, hitpael imperfect",
+       "heb": "לֹא אֶפְקָד",
+       "translit": "lo efkad",
+       "strong": "H6485",
+       "pos": "particulă negativă + verb, qal imperfect",
        "def_ro": "nu voi vizita asupra lor (lo efkad bam)",
        "dict_ro": "Întrebarea retorică afirmă cu certitudine pedeapsa iminentă pentru păcatele descrise mai sus."
       },
@@ -62935,14 +62914,7 @@
        "t": " "
       },
       {
-       "t": "să bea.",
-       "w": "să bea.",
-       "heb": "וְהִשְׁקִיתִים",
-       "translit": "vehișkitim",
-       "strong": "H8248",
-       "pos": "verb, hifil perfect consecutiv + sufix",
-       "def_ro": "să bea. (vehișkitim)",
-       "dict_ro": "Rashi identifică «ape otrăvite» cu veninul de șarpe, repetând imaginea pedepsei amare și mortale."
+       "t": "să bea."
       }
      ],
      "textCompare": [
@@ -72155,14 +72127,7 @@
        "t": " "
       },
       {
-       "t": "ca să ajungă la odihna sa.”",
-       "w": "ca să ajungă la odihna sa.”",
-       "heb": "לְהַרְגִּיעוֹ",
-       "translit": "lehargio",
-       "strong": "H7280",
-       "pos": "verb, hifil infinitiv + sufix",
-       "def_ro": "spre odihna lui.” (lehargio)",
-       "dict_ro": "Rashi explică «lehargio» ca «a-i duce spre țara odihnei lor», țara promisă."
+       "t": "ca să ajungă la odihna sa.”"
       }
      ],
      "textCompare": [
@@ -73190,14 +73155,7 @@
        "t": " "
       },
       {
-       "t": "vor veni,",
-       "w": "vor veni,",
-       "heb": "יָבֹאוּ",
-       "translit": "iavou",
-       "strong": "H935",
-       "pos": "verb, qal imperfect",
-       "def_ro": "vor veni, (iavou)",
-       "dict_ro": "Radak explică faptul că DOMNUL îi va conduce pe un drum atât de ușor."
+       "t": "vor veni,"
       },
       {
        "t": " "
@@ -76100,14 +76058,7 @@
        "t": " "
       },
       {
-       "t": "ale cărei",
-       "w": "ale cărei",
-       "heb": "מֵימָיו",
-       "translit": "mēmaiv",
-       "strong": "H4325",
-       "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "apele ei (mēmaiv)",
-       "dict_ro": "Rashi explică faptul că, așa cum marea aruncă mereu mâl pe mal, tot așa gura celor răi aruncă mereu vorbe nelegiuite."
+       "t": "ale cărei"
       },
       {
        "t": " "
@@ -76793,14 +76744,7 @@
        "t": " "
       },
       {
-       "t": "așa cum se cuvine",
-       "w": "așa cum se cuvine",
-       "heb": "לֹא",
-       "translit": "lo",
-       "strong": "H3808",
-       "pos": "particulă negativă",
-       "def_ro": "nu veți posti (lo tațumu)",
-       "dict_ro": "Rashi explică faptul că un post adevărat ar trebui să frângă inima, nu să genereze violență."
+       "t": "așa cum se cuvine"
       },
       {
        "t": " "
@@ -77745,14 +77689,7 @@
        "t": " "
       },
       {
-       "t": "atunci",
-       "w": "atunci",
-       "heb": "וְזָרַח",
-       "translit": "vezarah",
-       "strong": "H2224",
-       "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și va străluci (vezarah)",
-       "dict_ro": "Lumina care strălucește în întuneric arată binecuvântarea izvorâtă din fapta bună, chiar în mijlocul necazului."
+       "t": "atunci"
       },
       {
        "t": " "

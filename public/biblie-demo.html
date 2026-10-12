@@ -5132,6 +5132,16 @@ function closeDrawer(){
 document.getElementById("drawer-close").addEventListener("click", closeDrawer);
 backdrop.addEventListener("click", () => { closeDrawer(); hideWordPopover(); if(typeof hideRefPreview === "function") hideRefPreview(); });
 
+// Textul din medalion (ebraică/transliterare) trebuie să încapă mereu în
+// cercul fix al medalionului — la tag-urile cu 2 cuvinte ebraice legate,
+// textul e mai lung decât la un singur cuvânt, așa că mărimea fontului se
+// scalează după lungimea reală a textului, nu rămâne fixă.
+function wpFitSize(text, baseSize, minSize, charsAtBase){
+  const len = (text || "").length;
+  if(len <= charsAtBase) return baseSize;
+  return Math.max(minSize, Math.round(baseSize * (charsAtBase / len)));
+}
+
 function showWordPopover(tok, anchorEl){
   document.querySelectorAll(".word").forEach(w => w.classList.remove("active-word"));
   anchorEl.classList.add("active-word");
@@ -5139,8 +5149,12 @@ function showWordPopover(tok, anchorEl){
   // Titlul cardului arată cuvântul/fraza curată, fără ghilimelele de citare
   // rămase din textul Rosen (ex. „Să fie", „Dumnezeu) la marginile frazei-token.
   document.getElementById("wp-word").textContent = (tok.t || "").replace(/^[„"“”‘’«»'"]+|[„"“”‘’«»'",.;:!?]+$/g, "").trim();
-  document.getElementById("wp-heb").textContent = tok.heb;
-  document.getElementById("wp-translit").textContent = tok.translit;
+  const wpHebEl = document.getElementById("wp-heb");
+  const wpTranslitEl = document.getElementById("wp-translit");
+  wpHebEl.textContent = tok.heb;
+  wpTranslitEl.textContent = tok.translit;
+  wpHebEl.style.fontSize = wpFitSize(tok.heb, 30, 15, 7) + "px";
+  wpTranslitEl.style.fontSize = wpFitSize(tok.translit, 21, 12, 9) + "px";
   document.getElementById("wp-strong").textContent = tok.pos || "";
   document.getElementById("wp-def").textContent = tok.def_ro || "";
 
